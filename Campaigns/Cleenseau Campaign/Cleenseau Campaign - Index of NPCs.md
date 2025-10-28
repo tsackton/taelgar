@@ -11,20 +11,20 @@ The [[Essford family]] have been the lords of the [[Manor of Cleenseau]] for 70 
 
 The family consists of:
 <div class="grid cards ext-narrow-margin" markdown>
- - ![[lady-rosalind-essford.png|left|120]][[Rosalind Essford]], the *defacto* lord of the [[Manor of Cleenseau]], currently traveling to [[Embry]]
- - ![[WymarOfClenseau.jpeg|left|120]] [[Wymar Essford]], Rosalind's father, senile and bedridden
+ - ![[lady-rosalind-essford.png|left|120]][[Rosalind Essford]], the lord of the [[Manor of Cleenseau]]
+ - ![[WymarOfClenseau.jpeg|left|120]] [[Wymar Essford]], Rosalind's father, recently deceased
  - ![[Lord-Rinault-Essford.png|left|120]] [[Rinault Essford]], Rosalind's brother, a hothead, unmarried and without children
- - ![[arthur-bybet-portrait.png|left|120]] [[Arthur Essford]], Rosalind's husband, of the Bybet family, currently traveling with his wife
+ - ![[arthur-bybet-portrait.png|left|120]] [[Arthur Essford]], Rosalind's husband, of the Bybet family
 </div>
 And their retainers and servants:
 <div class="grid cards ext-narrow-margin" markdown>
- - ![[annet-bybet.png|left|120]]  [[Annet Bybet]], Arthur's cousin, and the chamberlain of Essford Manor, currently traveling with Rosalind
- - ![[harold-bybet.png|left|120]]  [[Harold Bybet]], Annet's husband and a childhood friend of Rinault's. Did not go to Embry with his wife.
- - ![[eremon.png|left|120]]  [[Eremon]], a acolyte of the Night Queen and confidant and advisor to Rosalind, currently traveling with Rosalind
- - ![[ames-benthey.png|left|120]] [[Ames Benthey]], the captain of the household guard, currently traveling with Rosalind
+ - ![[annet-bybet.png|left|120]]  [[Annet Bybet]], Arthur's cousin, and the chamberlain of Essford Manor
+ - ![[harold-bybet.png|left|120]]  [[Harold Bybet]], Annet's husband and a childhood friend of Rinault's.
+ - ![[eremon.png|left|120]]  [[Eremon]], a acolyte of the Night Queen and confidant and advisor to Rosalind
+ - ![[ames-benthey.png|left|120]] [[Ames Benthey]], the captain of the household guard
  - ![[jonathon-henwyn.png|left|120]]  [[Jonathon Henwyn]], the steward of Essford manor, with his wife, and their three young children
  - ![[genevote.png|left|120]]  [[Genevote]], the stablemaster of Essford Manor
- - ![[yvette.png|left|120]]  [[Yvette]], the caretaker and nurse for Wymar, recently a cook. She tends the small shrine to the Night Queen in the manor, in Eremon's absence
+ - ![[yvette.png|left|120]]  [[Yvette]], the cook, recently employed as Wymar's nurse
 </div>
 ### The Town Watch
 
@@ -38,9 +38,9 @@ Order is kept in town by the magistrate and the [[Lord's Guard of Cleenseau]]
 ### The Army
 The [[Army Garrison of Cleenseau]] is based in Cleenseau.
 <div class="grid cards ext-narrow-margin" markdown>
- - ![[ida-rosfeld.png|left|120]] [[Ida Rosfeld]], the Captain
+ - ![[ida-rosfeld.png|left|120]] [[Ida Rosfeld]], the old Captain, recently promoted to Major
  - ![[eveyln-totteridge.png|left|120]] [[Eveyln Totteridge]], the Sergeant of the River Patrol
- - ![[ancer-benthey-portrait.png|left|120]] [[Ancer Benthey]] the Sergeant of the Bridge Patrol, currently still in [[Dunfry]]
+ - ![[ancer-benthey-portrait.png|left|120]] [[Ancer Benthey]] the Sergeant of the Bridge Patrol
 </div>
 
 ### The Innkeepers
@@ -151,7 +151,7 @@ The [[Manor of Valit]] is a baronial manor based on the small village of [[Valit
 ## Rangers and Other Heroes
 <div class="grid cards ext-narrow-margin" markdown>
  - ![[vahaiya-2.jpg|left|120]] [[Vahaiya]], elf and warrior
- - ![[adra-brightwood.png|left|120]] [[Adra Brightwood]], a halfling with magical birds
+ - ![[adra-brightwood.jpg|left|120]] [[Adra Brightwood]], a halfling with magical birds
  - ![[enzo-brightwood.png|left|120]] [[Enzo Brightwood]], a halfling scout, Adra's cousin
  - ![[damien-montrichard.jpg|left|120]] [[Damien Montrichard]], a musician and storyteller
  - ![[emilie-adderfell.png|left|120]] [[Emilie]], skilled with her axe

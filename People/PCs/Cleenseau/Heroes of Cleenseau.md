@@ -19,5 +19,5 @@ The heroes consist of:
 
 * [[Robin of Abenfyrd]], a paladin of [[The Wanderer]] from the small town of [[Abenfyrd]] in [[Tyrwingha]]
 * [[Celyn]], a rogue and devotee of [[The Wyrdling]], from the small vineyard town of [[Clawyn]], also in [[Tyrwingha]]
-* [[Izgil Moonseeker]], a dwarf from [[Nidzahar]], a lunar socerer
+* [[Izgil Moonseeker]], a dwarf from [[Nidzahar]], a lunar sorcerer
 * [[Viepuck]], an teenaged orphan from [[Embry]], a devotee of a mysterious mind from far away

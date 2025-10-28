@@ -1,6 +1,8 @@
 # Index of Changes
 This page lists plot relevant or otherwise interesting updates I've made, organized by date, focusing on pages that are relevant to the Cleenseau Campaign. 
 
+### October 19, 2025
+* Numerous changes everywhere
 ### October 15, 2024
 * Updates to [[House Rules (Mike)|House Rules (Mike)]]
 * A lot of small updates throughout
