@@ -5,6 +5,8 @@ typeOf: marsh
 whereabouts:
 - {type: secondary, location: Aursen, linkText: "on the"}
 - {type: primary, location: Refounded Alliance of Aurbez}
+dm_notes: color
+dm_owner: joint
 ---
 # The Aursen Marshes
 >[!info]+ Information  
