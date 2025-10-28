@@ -34,4 +34,4 @@ Practical and composed, Isolde prizes order and preparedness. She has little pat
 - **(DR:: 1715-05-09)** – Helps stage the sanctum for the use of [[Trueflame]], keeping curious congregants at bay during the dagger’s destruction.  
 - **Ongoing** – Maintains temple operations, from alms distribution to artifact cataloguing.
 
-%% _DM_ note: Adventure 2 identifies Isolde as the steward ready to lock the Serpentine Dagger in the temple vault while Owen rides south with Sir Gareth (see [[_DM_/_Addermarch/Adventure 2 - Caves of the Cockatrice|Adventure 2 - Caves of the Cockatrice]]). %%
+%% _DM_ note: Adventure 2 identifies Isolde as the steward ready to lock the Serpentine Dagger in the temple vault while Owen rides south with Sir Gareth (see [[Adventure 2 - Caves of the Cockatrice|Adventure 2 - Caves of the Cockatrice]]). %%

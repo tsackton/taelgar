@@ -33,4 +33,4 @@ Practical, hospitable, and resilient, Samatha treats crises as problems to solve
 - **(DR:: 1715-05-12)** – Stands watch during the night battle and receives funds from [[Yvan Greenrabbit]] to restock her herd.  
 - **Ongoing** – Works to restore the dairy, spreading word of the heroes’ deeds to neighbors and traders.
 
-%% _DM_ note: Adventure 4 records Samatha sharing cheese, apples, and bread after the ankheg fight and being overwhelmed by Yvan’s 25 gp gift (see [[_DM_/_Addermarch/Adventure 4 - Into the Underdark|Adventure 4 - Into the Underdark]]). %%
+%% _DM_ note: Adventure 4 records Samatha sharing cheese, apples, and bread after the ankheg fight and being overwhelmed by Yvan’s 25 gp gift (see [[Adventure 4 - Into the Underdark|Adventure 4 - Into the Underdark]]). %%

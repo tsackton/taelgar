@@ -34,11 +34,11 @@ The people of [[Haldrenn]] traditionally place carved wooden wards on the ridge 
 
 %% DM Notes
 
-Sketch map: [[_DM_/_Addermarch/Haldrenn Map|Haldrenn Map]].
+Sketch map: [[Haldrenn Map|Haldrenn Map]].
 
 Bee Cave: shallow cavern east of the village where [[Rowena]] hid from angry bees.  
 
-Setup for “Fey Incursion” ties Haldrenn to animal madness and a Singing Tree linked to [[Morlaith]]; Caradoc cues the hook in Roscombe (see [[_DM_/_Addermarch/Adventure 5 - Fey Incursion|Adventure 5 - Fey Incursion]]). Session details in [[Addermarch - Session 11]] and [[Addermarch - Session 12]]. 
+Setup for “Fey Incursion” ties Haldrenn to animal madness and a Singing Tree linked to [[Morlaith]]; Caradoc cues the hook in Roscombe (see [[Adventure 5 - Fey Incursion|Adventure 5 - Fey Incursion]]). Session details in [[Addermarch - Session 11]] and [[Addermarch - Session 12]]. 
 
 Shielding links:
 https://scarf.scot/national/scarf-modern-panel-report/modern-case-studies/case-study-transhumance-and-shielings/

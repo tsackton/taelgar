@@ -20,4 +20,4 @@ The Stonewolds are rugged, wooded hills west of [[Roscombe]]. Thickets and dryst
 - [[West Stonewolds Caves]], a vertical descent into lightless caverns.  
 - Hermit haunts, such as campsites like those used by [[Norman the Wanderer]].
 
-%% DM: Travel cues and “these are my hills” hermit guidance, ogre and wolf at the cave mouth, and the rappel into darkness are outlined in [[_DM_/_Addermarch/Adventure 4 - Into the Underdark|Adventure 4 - Into the Underdark]]. %%
+%% DM: Travel cues and “these are my hills” hermit guidance, ogre and wolf at the cave mouth, and the rappel into darkness are outlined in [[Adventure 4 - Into the Underdark|Adventure 4 - Into the Underdark]]. %%

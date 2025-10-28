@@ -33,4 +33,4 @@ Eccentric yet sharp-eyed, Norman jealously guards “his hills” but can be per
 - **(DR:: 1715-05-13)** – Guides them to the West Stonewolds Caves before vanishing back into the forest.  
 - **Ongoing** – Continues patrolling the hills, trading information for food, drink, or simple conversation when it suits him.
 
-%% _DM_ note: Adventure 4 describes Norman as an impulsive, tactless hermit shouting “these are my hills,” warning of the “big big big man,” and ultimately guiding the party to the cave (see [[_DM_/_Addermarch/Adventure 4 - Into the Underdark|Adventure 4 - Into the Underdark]]). %%
+%% _DM_ note: Adventure 4 describes Norman as an impulsive, tactless hermit shouting “these are my hills,” warning of the “big big big man,” and ultimately guiding the party to the cave (see [[Adventure 4 - Into the Underdark|Adventure 4 - Into the Underdark]]). %%

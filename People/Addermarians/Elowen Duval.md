@@ -37,4 +37,4 @@ Elowen is pragmatic and unflappable, favoring diplomacy and delegation over thea
 - **(DR:: 1715-05-07)** – Hosts a manor dinner to coordinate efforts against the Highmoor goblins and hear news of Roscombe’s defenses.  
 - **(DR:: 1715-05-11)** – Sends support to [[Fontwick]] after word of the ankheg attack reaches Roscombe, reinforcing her commitment to the outlying farms.
 
-%% _DM_ note: Adventure 2 includes Lady Duval’s sealed invitation (pronounced “doo-VAL”) promising future work and bearing the oak-and-valley sigil (see [[_DM_/_Addermarch/Adventure 2 - Caves of the Cockatrice|Adventure 2 - Caves of the Cockatrice]]). %%
+%% _DM_ note: Adventure 2 includes Lady Duval’s sealed invitation (pronounced “doo-VAL”) promising future work and bearing the oak-and-valley sigil (see [[Adventure 2 - Caves of the Cockatrice|Adventure 2 - Caves of the Cockatrice]]). %%

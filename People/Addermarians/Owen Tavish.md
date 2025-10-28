@@ -35,4 +35,4 @@ Warm, inquisitive, and quietly competitive (especially at chess), Owen approache
 - **(DR:: 1715-05-09)** – Supervises the application of [[Trueflame]] that finally unmade the Serpentine Dagger.  
 - **Ongoing** – Continues cataloguing sacred artifacts and advising on magical anomalies around Roscombe.
 
-%% _DM_ note: Adventure 2 includes Owen’s hurried letter (OH-en TAV-ish) describing his pre-dawn ride to meet Sir Gareth, urging secrecy, and offering to pay for the party’s lodging (see [[_DM_/_Addermarch/Adventure 2 - Caves of the Cockatrice|Adventure 2 - Caves of the Cockatrice]]). %%
+%% _DM_ note: Adventure 2 includes Owen’s hurried letter (OH-en TAV-ish) describing his pre-dawn ride to meet Sir Gareth, urging secrecy, and offering to pay for the party’s lodging (see [[Adventure 2 - Caves of the Cockatrice|Adventure 2 - Caves of the Cockatrice]]). %%

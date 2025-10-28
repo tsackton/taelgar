@@ -24,4 +24,4 @@ Rowena is a villager and forager from [[Haldrenn]]. Her father is [[Manfred]].
 ## Events
 In DR 1715, she was  rescued by the [[Addermarch Mercenaries]] from a bee‑filled cave east of the village just before a worg attack on Haldrenn. 
 
-%% DM: Milestone “rescuing Rowena” appears in [[_DM_/_Addermarch/Adventure 5 - Fey Incursion|Adventure 5 - Fey Incursion]].   See: [[Addermarch - Session 11|Session 11]] and [[Addermarch - Session 12|Session 12]].%%
+%% DM: Milestone “rescuing Rowena” appears in [[Adventure 5 - Fey Incursion|Adventure 5 - Fey Incursion]].   See: [[Addermarch - Session 11|Session 11]] and [[Addermarch - Session 12|Session 12]].%%

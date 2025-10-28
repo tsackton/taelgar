@@ -32,6 +32,6 @@ Steady, devout, and practical, Wulfram believed faith must be coupled with sensi
 - **(DR:: 1715-04-28)** – Killed when the corrupted Sir Einrik turns on the garrison.  
 - **(Aftermath)** – Remembered through surviving letters and testimonies recovered by the adventurers.
 
-%% _DM_ note: Session 2 excerpts include Wulfram’s Drankorian journal entries—dreaming of stabbing Brother Aravis with the jeweled dagger—and his plan to send the relic to Valcroix once the rains eased (see [[_DM_/_Addermarch/Session 2 - DM Notes|Session 2 - DM Notes]]). %%
+%% _DM_ note: Session 2 excerpts include Wulfram’s Drankorian journal entries—dreaming of stabbing Brother Aravis with the jeweled dagger—and his plan to send the relic to Valcroix once the rains eased (see [[Session 2 - DM Notes|Session 2 - DM Notes]]). %%
 
 %% killed by [[Einrik Arpaad]] after Einrik was possessed by the [[Serpentine Dagger]] %%

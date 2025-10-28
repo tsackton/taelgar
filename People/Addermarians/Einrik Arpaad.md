@@ -34,7 +34,7 @@ Einrik was a disciplined soldier who prized duty and order above all. The curse 
 - **(DR:: 1715-04-28)** – Rises as a vengeful spirit that confronts the Addermarch adventurers.  
 - **(DR:: 1715-05-06)** – Spirit appeased and dispersed by [[Owen Tavish]] with the party’s aid.
 
-%% _DM_ note: Session 2 prep preserves Einrik’s formal note to Lady Duval about executing a nameless mage who refused the toll, underscoring his rigid gatekeeping even before the dagger’s corruption (see [[_DM_/_Addermarch/Session 2 - DM Notes|Session 2 - DM Notes]]). %%
+%% _DM_ note: Session 2 prep preserves Einrik’s formal note to Lady Duval about executing a nameless mage who refused the toll, underscoring his rigid gatekeeping even before the dagger’s corruption (see [[Session 2 - DM Notes|Session 2 - DM Notes]]). %%
 
 %% 
 command of [[Torvaine Watch]]: was possessed by a cursed dagger ([[Serpentine Dagger]]), killed his soldiers, became a ghost in first Addermarch adventure. 

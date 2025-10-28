@@ -28,4 +28,4 @@ Northwest of [[Roscombe]], the Kilrath Caves wind beneath an [[Kilrath Standing 
 - [[The Sibyl|Sibylline]] gold amulet of an old Tyrwinghan design.  
 - Family jewels returned to Lady [[Elowen Duval]].
 
-See more: [[_DM_/_Addermarch/Adventure 2 - Caves of the Cockatrice|Adventure 2 - Caves of the Cockatrice]]. %%
+See more: [[Adventure 2 - Caves of the Cockatrice|Adventure 2 - Caves of the Cockatrice]]. %%
