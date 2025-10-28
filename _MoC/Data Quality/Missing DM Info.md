@@ -4,7 +4,7 @@
 
 ```dataview
 TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
-FROM !"Campaigns" AND !"_MoC" AND !"_DM_" AND !"_scripts" AND !"_templates" AND !"assets" AND!"Worldbuilding"
+FROM !"Campaigns" AND !"_MoC" AND !"_DM_" AND !"_scripts" AND !"_templates" AND !"assets" AND!"Worldbuilding" AND!"_dm_notes"
 where !dm_owner and !dm_notes
 sort join(split(file.path, "/", 2),"/"), length(file.inlinks) desc
 ```
