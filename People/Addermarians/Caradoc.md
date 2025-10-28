@@ -35,7 +35,7 @@ Pragmatic, exacting, and politely distant, Caradoc weighs every bargain against 
 - **(DR:: 1715-05-09)** – Commissions an Uligium expedition, briefing the party on deep-cave hazards.  
 - **(Ongoing)** – Acts as a discreet patron for frontier threats too small—or too delicate—to involve Roscombe’s soldiery.
 
-%% _DM_ note: Prep notes describe Caradoc’s Sunday stays at the Raven’s Roost, his habit of scouting “oddities” like the Haldrenn rumors, and his escalation to deeper cave contracts (see [[_DM_/_Addermarch/Adventure 4 - Into the Underdark|Adventure 4 - Into the Underdark]] and [[_DM_/_Addermarch/Adventure 5 - Fey Incursion|Adventure 5 - Fey Incursion]]). %%
+%% _DM_ note: Prep notes describe Caradoc’s Sunday stays at the Raven’s Roost, his habit of scouting “oddities” like the Haldrenn rumors, and his escalation to deeper cave contracts (see [[Adventure 4 - Into the Underdark|Adventure 4 - Into the Underdark]] and [[Adventure 5 - Fey Incursion|Adventure 5 - Fey Incursion]]). %%
 
 %% NOTES
 

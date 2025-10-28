@@ -35,4 +35,4 @@ Gareth is duty-driven, thoughtful, and measured. He listens before acting, but o
 - **(DR:: 1715-05-08)** – Receives news of Colette’s rescue and the recovery of the stolen poison recipe.  
 - **Ongoing** – Oversees Roscombe’s patrols and monitors threats emerging from the [[Highmoor]] and [[Stonewolds]].
 
-%% _DM_ note: Session 2 prep tags Sir Gareth Howell (GAR-eth HOW-ell) as the knight leading the relief column that meets the party, establishing his role in Roscombe’s command (see [[_DM_/_Addermarch/Session 2 - DM Notes|Session 2 - DM Notes]]). %%
+%% _DM_ note: Session 2 prep tags Sir Gareth Howell (GAR-eth HOW-ell) as the knight leading the relief column that meets the party, establishing his role in Roscombe’s command (see [[Session 2 - DM Notes|Session 2 - DM Notes]]). %%

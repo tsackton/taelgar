@@ -40,4 +40,4 @@ Plainspoken and dutiful, Bartoz valued discipline over rank and looked first to 
 - Torvaine’s surviving families may seek to recover Bartoz’s masterwork tools—or a journal hidden in the smithy’s rubble.  
 - Rumors in Roscombe cast him as either a tragic guardian or a lingering revenant, inviting future adventurers to set the story straight.
 
-%% _DM_ note: Bartoz’s unfinished letter (see [[_DM_/_Addermarch/Session 2 - DM Notes|Session 2 - DM Notes]]) recalls his grandfather reforging a warhammer into a smith’s hammer, his plan to melt the dagger in his furnace, and his suspicion that Wulfram never left Torvaine Watch as Sir Arpaad claimed. %%
+%% _DM_ note: Bartoz’s unfinished letter (see [[Session 2 - DM Notes|Session 2 - DM Notes]]) recalls his grandfather reforging a warhammer into a smith’s hammer, his plan to melt the dagger in his furnace, and his suspicion that Wulfram never left Torvaine Watch as Sir Arpaad claimed. %%

@@ -34,4 +34,4 @@ Colette balances knightly discipline with youthful impatience. Stints in the sad
 - **(DR:: 1715-05-10)** – Provides cave-system intelligence in Roscombe, guiding preparations for the Uligium quest.  
 - **Ongoing** – Resumes patrol duties and serves as the garrison’s go-to source for Stonewolds trail rumors.
 
-%% _DM_ note: Session 5 prep records Colette’s stat block (AC 15, dagger signature attacks with Weaving Knives/Sneak and Stab) and pronunciation “ko-LET doo BWAH” (see [[_DM_/_Addermarch/Session 5 - DM Notes|Session 5 - DM Notes]]). %%
+%% _DM_ note: Session 5 prep records Colette’s stat block (AC 15, dagger signature attacks with Weaving Knives/Sneak and Stab) and pronunciation “ko-LET doo BWAH” (see [[Session 5 - DM Notes|Session 5 - DM Notes]]). %%

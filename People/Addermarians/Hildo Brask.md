@@ -33,6 +33,6 @@ Devout and steadfast, Brask was known for steady leadership rather than flair. H
 - **(DR:: 1715-04-28)** – Killed by the corrupted Sir Einrik while defending Torvaine Watch.  
 - **(DR:: 1715-04-28)** – Body recovered and honored by the adventurers before leaving the fort.
 
-%% _DM_ note: Session 1’s unfinished condolence letter from Brask to Piri’s sister shows his compassion—pooling coin for the family and sending along a carved keepsake (see [[_DM_/_Addermarch/Session 1 - DM Notes|Session 1 - DM Notes]]). %%
+%% _DM_ note: Session 1’s unfinished condolence letter from Brask to Piri’s sister shows his compassion—pooling coin for the family and sending along a carved keepsake (see [[Session 1 - DM Notes|Session 1 - DM Notes]]). %%
 
 %% killed by [[Einrik Arpaad]] after Einrik was cursed by the [[Serpentine Dagger]] %%

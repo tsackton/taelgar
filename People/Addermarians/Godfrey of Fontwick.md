@@ -33,4 +33,4 @@ Level-headed and community-minded, Godfrey meets crises with action rather than 
 - **(DR:: 1715-05-12)** – Returns home to find the monster dead and his wife supported with coin and supplies.  
 - **Ongoing** – Continues rebuilding the herd and spreading word of the heroes’ intervention.
 
-%% _DM_ note: “Into the Underdark” prep flags Godfrey as the dairy farmer who raises the alarm while Samatha guides the heroes during the ankheg encounter (see [[_DM_/_Addermarch/Adventure 4 - Into the Underdark|Adventure 4 - Into the Underdark]]). %%
+%% _DM_ note: “Into the Underdark” prep flags Godfrey as the dairy farmer who raises the alarm while Samatha guides the heroes during the ankheg encounter (see [[Adventure 4 - Into the Underdark|Adventure 4 - Into the Underdark]]). %%
