@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1749-08-07, type: met}
 name: Marguerite la Rousse
@@ -12,7 +12,7 @@ aliases:
 whereabouts:
 - {type: home, location: Aurbez Plateau}
 - {type: away, start: 1749-08-06, end: 1749-08-07, location: Three Wells}
-dm_owner: tim
+dm_owner: none
 dm_notes: none
 pronunciation: mar-guh-REET la ROUSE
 ---
