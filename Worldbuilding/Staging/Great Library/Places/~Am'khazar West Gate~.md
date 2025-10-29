@@ -12,7 +12,7 @@ dm_notes: none
 >[!info]+ Information  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Western gate to the dwarven kingdom of [[Am'khazar]], reached via Deno’qai guidance through the [[~Sentinel Forest~]].
+Western gate to the dwarven kingdom of [[Am'khazar]], reached via Deno’qai guidance through the [[Highveil Forest]].
 
 %%
 GL Arc 3: waypoint after leaving Deno’qai lands.
