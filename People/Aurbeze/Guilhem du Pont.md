@@ -11,7 +11,7 @@ gender: male
 whereabouts:
 - {type: home, location: Aursenbourg}
 - {type: away, start: 1749-08-06, end: 1749-08-07, location: Three Wells}
-dm_owner: tim
+dm_owner: none
 dm_notes: none
 pronunciation: GHEE-yem duh PONT
 ---
