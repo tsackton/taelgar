@@ -1,0 +1,1 @@
+What you can train will depend on access to an instructor. Many languages can be learned outside the walls (10 weeks downtime each, minus a number of weeks equal to Intelligence mod). However most tools, skills, weapons, and armor would require access to the walled city.

@@ -1,0 +1,1 @@
+Scribing spell scrolls is a regulated activity in Voltara. If you do not have permission from the appropriate authorities, you must also make an ability check to avoid detection. Being detected results in a fine, and a negative reputation, although will probably not risk expulsion from the library (depending on the scroll you are scribing).

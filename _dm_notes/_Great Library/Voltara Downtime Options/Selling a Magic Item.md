@@ -1,0 +1,1 @@
+This can be attempted anywhere, but will be harder outside the walls. However, prices are if anything better, if you can find a buyer.

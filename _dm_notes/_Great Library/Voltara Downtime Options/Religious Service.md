@@ -1,0 +1,1 @@
+Outside the walls, there are small shrines to the Traveler, mostly, as well as small shrines to the gods of the dwarves and halflings. While you may perform religious services here, the maximum possible result is 1 favor. Inside the walls, there is more diversity of religious options, and you can earn up to 2 favors.

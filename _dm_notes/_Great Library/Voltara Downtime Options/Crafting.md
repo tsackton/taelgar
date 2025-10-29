@@ -1,0 +1,1 @@
+You attempt to craft a mundane or magical item, or brew a potion. This requires proficiency in the relevant tools, and a workspace appropriate to the task. Access to the walled city, or contact with an appropriate artisan, is generally required to craft anything more complicated than a potion. Crafting magic items is a regulated activity.
