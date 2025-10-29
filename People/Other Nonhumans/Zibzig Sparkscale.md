@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
+tags: [person]
 name: Zibzig Sparkscale
 species: kobold
 gender: male
@@ -16,12 +16,12 @@ dm_notes: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 13th, 1715 in the [[West Stonewolds Caves]], [[Carlinshire]], [[Addermarch]] %%^End%%
 
-%% cleanup AI generated content %%
+Zibzig is an eccentric kobold wizard, styling himself the “Master of Light and Shadow" while living in a small two‑room lair along the underground river in the [[West Stonewolds Caves]].  
 
-Zibzig is an eccentric kobold wizard, styling himself the “Master of Light and Shadow." He is a tinkering inventor living in a small two‑room lair along the underground river in the [[West Stonewolds Caves]]. 
+Though wary of travelers and outsiders, he is often lonely and will eagerly chat with visitors who don't seem to pose a threat. He is obsessed with inventing a signature spell that will make him famous, and is frequently tinkering with magic. 
 
-## Timeline
-- (DR:: 1715-05-13) – Met the party in the caverns and negotiated for aid against a cave fisher blocking the river. Spent the night hosting the heroes after the fight. See: [[Addermarch - Session 09|Addermarch Session 9]].
+## Events
+- (DR:: 1715-05-13) – Met the [[Addermarch Mercenaries]] in the [[West Stonewolds Caves]] and [[Addermarch - Session 09|negotiated for aid against a cave fisher]] blocking the river. Spent the night hosting the heroes after the fight. 
 
 
 %% DM
