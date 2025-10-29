@@ -1,35 +1,35 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
-campaignInfo: [{campaign: adma, type: "protected by the Addermarch Mercenaries during the ankheg attack", date: 1715-05-12}]
+tags: [person]
+campaignInfo: [{campaign: adma, type: "met", date: 1715-05-12}]
 name: Samatha of Fontwick
 species: human
 ancestry: Addermarian
 gender: female
-affiliations: [{org: Fontwick, title: dairy farmer, type: resident}]
 whereabouts:
 - {type: home, location: Fontwick}
-dm_owner: tim
-dm_notes: color
+dm_owner: none
+dm_notes: none
 ---
-![[|right|360]]A dairy farmer of [[Fontwick]] who stood her ground during an ankheg attack and helped guide the Addermarch Mercenaries to the farmstead.
+# Samatha of Fontwick
+>[!info]+ Biographical Info  
+> An Addermarian [[Humans|human]] (she/her)  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 12th, 1715 in [[Fontwick]], [[Carlinshire]], [[Addermarch]] %%^End%%
 
-## Overview
-Samatha operates a dairy farm west of [[Roscombe]] alongside her husband [[Godfrey of Fontwick]]. When an ankheg slaughtered their cattle, she stood her ground while the Addermarch Mercenaries and her husband rode for aid, guiding the group back to the farmstead and helping coordinate the defense.
-
-## Personality
-Practical, hospitable, and resilient; treats crises as problems to solve—not reasons to flee. Her gratitude for the Addermarch Mercenaries’ assistance manifested in warmth and generosity, yet she remains determined to rebuild her livelihood through steady work.
+Samantha is a dairy farmer from [[Fontwick]], a small village west of [[Roscombe]]. She operates a small dairy alongside her husband [[Godfrey of Fontwick]]. She is practical, hospitable, and resilient. 
 
 ## Relationships
 - **[[Godfrey of Fontwick]]** – Husband and partner; together they manage the herd and barter with nearby towns.  
-- **Lady [[Elowen Duval]]** – Local ruler whose judgments she trusts; Samatha expected Duval’s agents to respond once warned.  
-- Addermarch Mercenaries — Benefactors she now considers friends, repaying them with provisions and heartfelt thanks.
+- **Lady [[Elowen Duval]]** – Local ruler whose judgments she trusts.  
+- [[Addermarch Mercenaries]] — Benefactors she now considers friends, repaying them with provisions and heartfelt thanks for their aid.
 
 ## Events
-- (DR:: 1715-05-11): Encountered the Addermarch Mercenaries while fleeing the ankheg’s attack and led them back to the farm.
-- (DR:: 1715-05-12): Stood watch during the night battle and received funds from [[Yvan Greenrabbit]] to restock her herd.
-- Ongoing: Works to restore the dairy, spreading word of their deeds to neighbors and traders.
+- (DR:: 1715-05-11): Encountered the [[Addermarch Mercenaries]] while fleeing an ankheg attack on her cattle, and led them back to the farm.
+- (DR:: 1715-05-12): Stood watch during [[Addermarch - Session 06|the night battle]] and gratefully received funds from [[Yvan Greenrabbit]] to restock her herd.
 
 %% DM (PC interactions and sources)
-- Hospitality and aftermath: _dm_notes/_Addermarch/Adventure 4 - Into the Underdark.md.
+
+ DM Notes: [[Adventure 4 - Into the Underdark.md]]
+ 
 %%
