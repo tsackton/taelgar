@@ -1,0 +1,1 @@
+You cannot research unless you have access to the walled city. If you do, follow the normal rules for research.

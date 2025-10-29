@@ -1,0 +1,3 @@
+You rest and relax at the inn, helping yourself heal from ongoing diseases, poisons, or other non-magical effects. If you spend a full week relaxing, you gain 1 extra Hit Die beyond your normal maximum, which you can expend as normal.
+ 
+If you relax for at least 2 consecutive days, you automatically succeed on any disease or poison saving throw. If you rest for 1 day, you gain advantage on this saving throw.
