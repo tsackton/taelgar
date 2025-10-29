@@ -8,12 +8,11 @@ born: 1698
 species: human
 ancestry: Aurbeze
 gender: male
-aliases:
 whereabouts:
 - {type: home, location: Aursenbourg}
 - {type: away, start: 1749-08-06, end: 1749-08-07, location: Three Wells}
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 pronunciation: GHEE-yem duh PONT
 ---
 # Guilhem Du Pont
@@ -24,7 +23,17 @@ pronunciation: GHEE-yem duh PONT
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on August 7th, 1749 in [[Three Wells]], the [[Refounded Alliance of Aurbez]] %%^End%%
 
-![[guilhem-du-pont.png|right|400]]Guilhem is a middle-aged clerk from [[Aursenbourg]]. He is a nervous, and sometimes anxious man, but deeply cares about his town and serves the people of [[Aursenbourg]] well as one of their representatives to speak at councils of the [[Refounded Alliance of Aurbez]]. 
+![[guilhem-du-pont.png|right|400]]Guilhem is a middle-aged clerk of [[Aursenbourg]] and civic representative to councils of the [[Refounded Alliance of Aurbez]]. He is known for meticulous record‑keeping and a cautious, civic‑minded approach to defense. His temperament trends anxious, but his focus remains squarely on the welfare of the city.
 
-%%SECRET[1]%%
+He is a stout man typically wearing immaculate woolen clothes and carrying an iron badge of [[Aursenbourg]]. 
+## Events
+- (DR:: 1749-08-07): Joined the war council in [[Three Wells]], where he urged holding [[Aursenbourg]]’s walls to shield the gathered refugees from the [[Empress of Chaos]]'s armies.
 
+%% DM
+### Roleplaying Notes
+- Counts softly under his breath; taps a stylus when anxious.
+
+### PC Interactions
+- First met at the War Council at Three Wells (DR:: 1749-08-07): [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 130 (DuFr)|War Council at Three Wells]].
+- Received updates on enemy priorities following interrogations (same session): [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 130 (DuFr)|Council briefings]].
+%%
