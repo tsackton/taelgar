@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-ancestry: Addermarian
 tags: [person]
 campaignInfo: [{campaign: adma, type: "confronted", date: 1715-04-28}, {campaign: adma, type: "laid to rest", person: Owen Tavish, date: 1715-05-06, wParty: "<met:u> <person> on <target> <current:1q>"}]
 species: human
+ancestry: Addermarian
 gender: male
 died: 1715-04-01
 title: Sir
