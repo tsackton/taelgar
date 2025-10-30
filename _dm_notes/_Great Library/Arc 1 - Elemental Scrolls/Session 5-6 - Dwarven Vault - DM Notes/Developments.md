@@ -1,0 +1,1 @@
+- Aglath will have made a rival of Quintus; he clearly has a lot of clout around town, but at the moment it is a pretty minor conflict. When they get back to town, Dravia will pull Aglath aside and tell him that an apology would go a long way towards calming this down.
