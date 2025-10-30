@@ -1,10 +1,11 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, status/check/ai]
 name: Osrik
 species: dwarf
 gender: male
 affiliations:
-- {org: Shockstones}
+- {org: Shockstones, type: primary}
 whereabouts:
 - {type: home, location: Zarkandur}
 campaignInfo:
@@ -14,7 +15,7 @@ dm_notes: none
 ---
 # Osrik
 >[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him)  
+> A [[Dwarf|dwarf]] (he/him), of the [[Shockstones]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
