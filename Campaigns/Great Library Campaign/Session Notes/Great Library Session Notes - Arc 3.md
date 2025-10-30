@@ -24,7 +24,7 @@ The party heads north where they encounter a spider ambush. Despite the webs and
 
 ### Session 41
 
-The party engages in battle with the giant spider in her lair. Shortly into the battle, with [[Aelar]] wounded, [[Samso]] turns him into a giant ape, and [[Brelith]] creates a massive stone club for him to use. The giant ape makes quick work of the spider queen. As the battle ends, [[Samso]] notices claw marks and acid burns on the dead spider. After leaving the spider lair, the party returns to [[Raha]], the [[Deno'qai]] village, where they participate in the pig wrestling games (involving grappling your opponent while riding a large pig, to see who gets knocked off first). The next morning they travel south with [[~Deno'qai scout~|a scout]] to lead them to the entrance to the dwarven kingdoms. Along the way, they stop to investigate some [[Tirnessa|elven ruins]] and are almost killed by banshees. The session ends as they arrive at the [[~Am'khazar West Gate~|gates]]. 
+The party engages in battle with the giant spider in her lair. Shortly into the battle, with [[Aelar]] wounded, [[Samso]] turns him into a giant ape, and [[Brelith]] creates a massive stone club for him to use. The giant ape makes quick work of the spider queen. As the battle ends, [[Samso]] notices claw marks and acid burns on the dead spider. After leaving the spider lair, the party returns to [[Raha]], the [[Deno'qai]] village, where they participate in the pig wrestling games (involving grappling your opponent while riding a large pig, to see who gets knocked off first). The next morning they travel south with [[~Deno'qai scout~|a scout]] to lead them to the entrance to the dwarven kingdoms. Along the way, they stop to investigate some [[Tirnessa|elven ruins]] and are almost killed by banshees. The session ends as they arrive at the [[Thordun|gates]]. 
 
 ### Events
 
@@ -38,7 +38,7 @@ The party engages in battle with the giant spider in her lair. Shortly into the 
 - (DR:: 1747-11-23): Return to [[Raha]]. 
 - (DR:: 1747-11-24): Set out on journey to [[Zarkandur]], the City of Gems, and Brelith's home. 
 - (DR:: 1747-11-30): Pass [[Tirnessa|elven ruins]], nearly killed by banshees. 
-- (DR:: 1747-12-03): Arrive at the the [[~Am'khazar West Gate~|gates]] to [[Am'khazar]].
+- (DR:: 1747-12-03): Arrive at the the [[Thordun|gates]] to [[Am'khazar]].
 ## Adventure 16: Why Is Everything So Cold?
 ### Session 42
 

@@ -1,3 +1,8 @@
+---
+tags: [session-note, status/check/ai]
+dm_owner: none
+dm_notes: none
+---
 Session 135
 
 ## RAW NOTES ##
