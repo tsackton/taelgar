@@ -6,9 +6,9 @@ name: Hildo Brask
 species: human
 gender: male
 title: Marshal
-died: 1715-04-18
+died: 1715-04-01
 ancestry: Addermarian
-affiliations: [{org: Torvaine Watch, title: marshal, type: leader}]
+affiliations: [{org: Torvaine Watch, title: marshal, type: member}]
 whereabouts:
 - {type: home, location: Torvaine Watch}
 dm_notes: none
@@ -30,7 +30,7 @@ Hildo is the marshal of [[Torvaine Watch]]. He serves as Sir Einrik’s second, 
 - [[Wulfram]] — Religious adviser; together they urged caution about the cursed relic.
 
 ## Events
-- (DR:: 1715-04-18): Killed by the corrupted Sir Einrik while defending Torvaine Watch.
+- (DR:: 1715-04-01): Killed by the corrupted Sir Einrik while defending Torvaine Watch.
 - (DR:: 1715-04-28): [[Addermarch - Session 02|Body recovered]] and honored by the [[Addermarch Mercenaries ]]before leaving the fort.
 
 %% DM (sources)

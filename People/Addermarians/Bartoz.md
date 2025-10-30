@@ -7,7 +7,7 @@ name: Bartoz
 species: human
 ancestry: Addermarian
 gender: male
-died: 1715-04-18
+died: 1715-04-01
 affiliations: [{org: Torvaine Watch, title: master smith}]
 whereabouts:
 - {type: home, location: Torvaine Watch}
@@ -35,7 +35,7 @@ Plainspoken and dutiful, Bartoz valued discipline over rank and looked first to 
 - **Sir [[Einrik Arpaad]]** – Commander he respected until the curse forced Bartoz to strike him down.
 
 ## Events
-- (DR:: 1715-04-18): Mortally wounded [[Einrik Arpaad|Sir Einrik]] while defending [[Torvaine Watch]], and fell in the smithy, only to rise again as an undead. 
+- (DR:: 1715-04-01): Mortally wounded [[Einrik Arpaad|Sir Einrik]] while defending [[Torvaine Watch]], and fell in the smithy, only to rise again as an undead. 
 - (DR:: 1715-04-28): Undead remains defeated by [[Fazoth de Brune]], [[Drou]], and [[Yvan Greenrabbit]] during the watch’s liberation.
 - (DR:: 1715-04-30): Lady [[Elowen Duval]] recounted Bartoz’s sacrifice, cementing his legacy in [[Roscombe]].
 

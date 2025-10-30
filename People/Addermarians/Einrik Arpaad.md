@@ -5,6 +5,7 @@ tags: [person]
 campaignInfo: [{campaign: adma, type: "confronted", date: 1715-04-28}, {campaign: adma, type: "laid to rest", person: Owen Tavish, date: 1715-05-06, wParty: "<met:u> <person> on <target> <current:1q>"}]
 species: human
 gender: male
+died: 1715-04-01
 title: Sir
 affiliations: [{org: Torvaine Watch, title: commander, type: leader}]
 whereabouts:
@@ -16,6 +17,7 @@ name: Einrik Arpaad
 # Sir Einrik Arpaad
 >[!info]+ Biographical Info  
 > An Addermarian [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Confronted by the [[Addermarch Mercenaries]] on April 28th, 1715 in [[Torvaine Watch]], the [[Torvaine Forest]], [[Addermarch]] %%^End%%  
@@ -34,7 +36,7 @@ Einrik was a disciplined soldier who prized duty and order above all. The curse 
 - **[[Owen Tavish]]** – Priest who faced Einrik’s ghost in prayer and released him from the dagger’s thrall.
 
 ## Events
-- (DR:: 1715-04-18): Succumbed to the Serpentine Dagger, murdered the garrison, and was slain by [[Bartoz]].
+- (DR:: 1715-04-01): Succumbed to the Serpentine Dagger, murdered the garrison, and was slain by [[Bartoz]].
 - (DR:: 1715-04-28): Confronted the [[Addermarch Mercenaries]] as a vengeful ghost.
 - (DR:: 1715-05-06): Spirit appeased and dispersed by [[Owen Tavish]]. 
 
