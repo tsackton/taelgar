@@ -6,7 +6,7 @@ name: Wulfram
 species: human
 ancestry: Addermarian
 gender: male
-died: 1715-04-18
+died: 1715-03-29
 affiliations: [{org: Torvaine Watch, title: temple steward, type: member}]
 whereabouts:
 - {type: home, location: Torvaine Watch}
