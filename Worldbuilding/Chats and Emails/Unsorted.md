@@ -5811,7 +5811,7 @@ my feeling is the most likely reason for the delay is actually that hobgoblins s
 
 4:49 PM
 
-but it isn't like the blackwater fens is great agricultural land either
+but it isn't like the [[blackwater fens]] is great agricultural land either
 
 4:49 PM
 
@@ -5835,7 +5835,7 @@ so the yellow "kingdom 4" is already subjugated or destroyed
 
 4:44 PM
 
-also, keep in mind that by 1545, Cha'mutte has already conquered probably as far south as the blackwater fens
+also, keep in mind that by 1545, Cha'mutte has already conquered probably as far south as the [[blackwater fens]]
 
 4:44 PM
 

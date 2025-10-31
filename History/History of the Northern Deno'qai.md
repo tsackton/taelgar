@@ -10,7 +10,7 @@ dm_notes: important
 # The History of the Northern Deno'qai
 
 ### Overview
-How the [[Deno'qai]] came to live in the northern forests, north of the Blackwater Fens and inland from the coast, is not recorded. But the Deno'qai lived here for time immemorial, largely in peace (it is said), before [[Cha'mutte]] established himself in Pandar in the 1400s. 
+How the [[Deno'qai]] came to live in the northern forests, north of the [[Blackwater Fens]] and inland from the coast, is not recorded. But the Deno'qai lived here for time immemorial, largely in peace (it is said), before [[Cha'mutte]] established himself in Pandar in the 1400s. 
 
 # Cha'mutte and the Great War
 DR 1400 - DR 1545
@@ -37,7 +37,7 @@ DR 1545 - DR 1640
 # Recontact
 DR 1640 - DR 1700
 ### Overview
-It is not until the 1640s that the isolated northern Deno'qai tribes begin to slowly, cautiously leave their mountain redoubts. The forests north of the Blackwater Fens are deeply changed, cursed and corrupted by [[Cha'mutte]]'s armies, the demons of his horde, and none can live there. The elves are now gone, or hidden, and the Deno'qai cannot find them again. Loose trade connections to the Deno'qai living to the southeast of the Blackwater Fens are established, but these are tenuous, at best. Whatever people survive along the coast are far away, isolated by the fens themselves and the corruption of the forests south of Pandar.
+It is not until the 1640s that the isolated northern Deno'qai tribes begin to slowly, cautiously leave their mountain redoubts. The forests north of the [[Blackwater Fens]] are deeply changed, cursed and corrupted by [[Cha'mutte]]'s armies, the demons of his horde, and none can live there. The elves are now gone, or hidden, and the Deno'qai cannot find them again. Loose trade connections to the Deno'qai living to the southeast of the [[Blackwater Fens]] are established, but these are tenuous, at best. Whatever people survive along the coast are far away, isolated by the fens themselves and the corruption of the forests south of Pandar.
 
 Still, slowly connections grow, and over time more rumors come to the [[Shu'anra]] and [[Ko'zula]] tribes, of safer places to the south, warmer and easier to live, further from the haunted reminders of [[Cha'mutte]]'s wars. Some flee, but many stay.
 
@@ -47,4 +47,4 @@ Still, slowly connections grow, and over time more rumors come to the [[Shu'anra
 # Recent Events
 After DR 1700
 ### Overview
-In the past four generations, the tribes have grown in relative safety. The [[Shu'anra]] have drifted south, living mostly to the east of the Blackwater Fens, in the low passes of the mountains, trading with dwarves, kenku, and stoneborn. The [[Ko'zula]] have kept the the peaks and icy pine forests on the high slopes. Both tribes have prospered to a certain extent, and no major wars or catastrophes have struck.
+In the past four generations, the tribes have grown in relative safety. The [[Shu'anra]] have drifted south, living mostly to the east of the [[Blackwater Fens]], in the low passes of the mountains, trading with dwarves, kenku, and stoneborn. The [[Ko'zula]] have kept the the peaks and icy pine forests on the high slopes. Both tribes have prospered to a certain extent, and no major wars or catastrophes have struck.

@@ -142,7 +142,7 @@ Update boundaries of what is considered "once part of Ainumarya" in forest notes
 - [[Ainumarya]]: A vast forest in the foothills and lowlands west of the [[Sentinel Range|Sentinels]], that stretches from the [[Elderwood]] in the south to the [[Crimson Forest]] in the north. Historically a major center of elvish civilization. Most of this region is a dominated by huge conifers and a rich ecosystem. 
 	- ***Real world analogs:*** Temperate rainforests, especially the forests of the Pacific Northwest, are probably the best model, albeit with more magic. 
 - [[Forest of Dreams]]: North of [[Ainumarya]] is the [[Forest of Dreams]], clinging to the western slopes of the [[Sentinel Range|Sentinels]] east of the [[Erbalta Plains]] and the [[Blackwater Fens]], and spreading west along the foothills of [[Pandar]]. This forest is cooler and dried than [[Ainumarya]], with cold winters and significant snow at higher elevations. 
-	- ***Real world analogs:*** Temperate coniferous forest, especially the pine forests of western Canada and the interior Rockies, and classic mixed forests of the Alps. The lowlands north of the Blackwater Fens are probably more like temperate broadleaf and mixed forests. 
+	- ***Real world analogs:*** Temperate coniferous forest, especially the pine forests of western Canada and the interior Rockies, and classic mixed forests of the Alps. The lowlands north of the [[Blackwater Fens]] are probably more like temperate broadleaf and mixed forests. 
 
 
 %% comments

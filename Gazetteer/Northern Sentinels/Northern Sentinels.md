@@ -95,7 +95,7 @@ The fens probably have a similar ecosystem to the [Hudson Bay bog](https://en.wi
 
 *Intentionally Blank:*  Much of this region is functionally a blank spot. In general, this region was dominated by [[Cha'mutte]] during the [[Great War]] and is best kept relatively empty as a setting for dark and dangerous things.
 
-*Adventures:* The Delwath solo arc of the Dunmar Frontier campaign was set in the northern Deno'qai territory and the Forest of Nightmares; the black dragon arc of the Great Library campaign was set in the Blackwater Fens. 
+*Adventures:* The Delwath solo arc of the Dunmar Frontier campaign was set in the northern Deno'qai territory and the Forest of Nightmares; the black dragon arc of the Great Library campaign was set in the [[Blackwater Fens]]. 
 
 ### Unnamed In-Links
 Pages that link to a Northern Sentinels page and are currently unnamed. 

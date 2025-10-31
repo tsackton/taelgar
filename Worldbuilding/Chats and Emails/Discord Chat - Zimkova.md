@@ -80,7 +80,7 @@ yes I do have a sense of this. in a meeting now though
 
 [1/17/2024 2:34 PM] rsulfuratus
 so basic outline - open to revision
-- northerners cross mountains pre-downfall, up north, kind of around where blackwater fens is now, into the plains that are now kenku homeland
+- northerners cross mountains pre-downfall, up north, kind of around where [[blackwater fens]] is now, into the plains that are now kenku homeland
 - they slowly spread out, trickling across the forests of inland sembara, vos, and further east, basically sticking to the forests/highlands
 - in the coasts/lowlands/river valleys mix with mariners, creating a variety of cultures (lowland sembara, tyrwingha, skaer)
 - lowland cultures (minus skaer) are more influenced by drankor than highland cultures
