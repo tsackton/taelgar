@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/stub]
+name: Greater Voltara
 displayDefaults: {defArt: ""}
 whereabouts: 
 - {type: primary, location: Northern Provinces }

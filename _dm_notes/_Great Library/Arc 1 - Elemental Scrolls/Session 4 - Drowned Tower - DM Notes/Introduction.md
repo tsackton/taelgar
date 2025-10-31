@@ -28,4 +28,4 @@ _3 failures:_ 0 xp, lose some treasure, get lost and need to make CON DC 15 chec
  
 Description:
  
-The trip goes through the grassland, which is orc territory, heading roughly north, crosses river, and then comes to drowned tower in between the two rivers.
+The trip goes through the grassland, which is orc territory, heading roughly north, crosses river, and then comes to [[drowned tower]] in between the two rivers.

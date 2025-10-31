@@ -1,4 +1,11 @@
+---
+headerVersion: 2023.11.25
 tags: [place, status/stub]
+name: Voltara Garrison 2
+typeOf: fort
+subTypeOf: frontier camp
+whereabouts:
+- {type: primary, location: Northern Provinces}
 dm_owner: tim
 dm_notes: important
 ---

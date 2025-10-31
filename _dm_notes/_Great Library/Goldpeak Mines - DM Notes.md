@@ -1,6 +1,6 @@
 # Overview
 
-Lower levels of Goldpeak Mines have been taken over by the beholder Vilaxes, who dreams of aberrations emerging from the deeps. 
+Lower levels of [[Goldpeak Mines]] have been taken over by the beholder Vilaxes, who dreams of aberrations emerging from the deeps. 
 
 Basically play him as truly crazy. Large for a beholder - blood shot - greenish ooze dripping from his eyestalks. Believes he is destined to one of the great old ones, take his place amongst the elder evils of the world, but needs to corrupt minds.  Should be gruesome evidence of his rituals around, and if the party is defeated they will be tossed in prison until he can complete a ritual / turn them. 
 

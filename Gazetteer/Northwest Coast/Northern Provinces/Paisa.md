@@ -1,4 +1,11 @@
+---
+headerVersion: 2023.11.25
 tags: [place, status/stub]
+name: Paisa
+typeOf: settlement
+typeOfAlias: village
+whereabouts:
+- {type: primary, location: Northern Provinces}
 dm_owner: tim
 dm_notes: none
 ---

@@ -37,6 +37,6 @@ Ask them directly if they want to investigate the wolves, or talk to Quintus.
 
 ## Dwarven Vault:
 
-Goldpeak Mountain is the local name for one of the sourthernmost peaks in the Fiamatara_._
+[[Goldpeak Mountain]] is the local name for one of the sourthernmost peaks in the Fiamatara_._
  
 From the Flamekeeper Scroll quest, they know the area was settled and mined by dwarves hundreds of years ago.
