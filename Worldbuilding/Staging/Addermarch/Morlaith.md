@@ -1,13 +1,3 @@
----
-headerVersion: 2023.11.25
-tags: [person]
-name: Morlaith
-typeOf: fey power
-whereabouts:
-- {type: realm, location: Western Addermarch echo realm}
-dm_owner: tim
-dm_notes: important
----
 # Morlaith
 
 ## Overview
