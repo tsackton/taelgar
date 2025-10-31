@@ -26,7 +26,7 @@ In the autumn of 1748, [[Wellby]] [[Session 66 (DuFr)|rescued]] [[Arryn|Arryn th
 Some details and vibes:
 
 - Arryn the Wanderer, a powerful wizard obsessed with the Mirror Realm, was able to reach it by following a ritual supposedly passed down from Hkar, from the dawn of humanity, when magic was stronger, Arryn triggered a portal, and was sucked into the mirror realm. Now there, he has discovered that magic does not function, and is trapped.
-- The aftereffects were significant: caused a localized distortion of reality where mirror echos of everyone in Arryn's tower started trying to get out and replace their Material Plane counterparts. 
+- The aftereffects were significant: caused a localized distortion of reality where mirror echos of everyone in [[Arryn's tower]] started trying to get out and replace their Material Plane counterparts. 
 - There is some kind of connection between the mirror reflections and the real people. This is supposed to be spooky: the mirror reflections attempt to replace the real world creature, leaving the real world creature trapped in the mirror realm, now just a reflection.
 - Opening a portal is dangerous and difficult. Probably cannot be reached via Plane Shift, for some reason. And magic does not work normally in the Mirror Realm, so hard to escape once you are trapped, or perhaps impossible, unless you are rescued by someone killing your reflection. 
 
