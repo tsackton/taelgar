@@ -68,6 +68,6 @@ Coldguard is a solid steel shield etched with the clan markings of the Deepriver
  
 Coldguard is a magical shield that can absorb cold energy. While attuned, the bearer is resistance to cold damage.
 
-Goldpeak Mountain is the local name for one of the sourthernmost peaks in the Fiamatara_._
+[[Goldpeak Mountain]] is the local name for one of the sourthernmost peaks in the Fiamatara_._
  
 From the Flamekeeper Scroll quest, they know the area was settled and mined by dwarves hundreds of years ago.

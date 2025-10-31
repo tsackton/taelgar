@@ -4,7 +4,7 @@ timelineDescriptor: Mawar Adventures
 ---
 
 - (DR:: 1747-07-23) *(Mawar Adventures)*: Trok, Wazir, and Ryu defeat an elemental attack and help Illius, a merfolk recover a vial of water from the sentient ocean. 
-- (DR:: 1747-08-03) *(Mawar Adventures)*: Trok, Wazir, Ryu, and Kaleho meet in the Leviathan Inn in Hamri to discuss a scroll that Wazir had decoded. 
+- (DR:: 1747-08-03) *(Mawar Adventures)*: Trok, Wazir, Ryu, and Kaleho meet in the [[Leviathan Inn]] in Hamri to discuss a scroll that Wazir had decoded. 
 - (DR:: 1747-08-04) *(Mawar Adventures)*: Trok, Wazir, Ryu, and Kaleho investigate the ruins of a watcher's tower, discovering it was built over an older tower. Speak with denizens of Hamri: Jaeson, on the cliffs; Orden, the beach bum; Samar and Reliah, the twins in the drowned flats; Benat, a lizardfolk historian; [[Yaz]], an old ocean watcher, and Ovina, a shady dwarven smith. They learn that Azar is likely around, probably killed a number of gatza addicts in the Drowned Flats, and is quietly seeking a lead box to story something in. 
 - (DR:: 1747-08-05) *(Mawar Adventures)*: Trok, Wazir, Ryu, Kaleho confront Azar on the Shark's Dock, and defeat him. 
 - (DR:: 1747-10-23) *(Mawar Adventures)*: Orden approaches Trok and Kaleho on the beach and asks them to help find his missing daughter Hiyasa, recently returned from 10 years away. 

@@ -1,8 +1,13 @@
+---
+headerVersion: 2023.11.25
 tags: [place, status/stub]
+name: Order of Twilight Temple (Voltara)
+typeOf: temple
+whereabouts:
+- {type: primary, location: Northern Provinces}
 dm_owner: tim
 dm_notes: important
 ---
-
 
 # Order of Twilight Temple (Voltara)
 >[!info]+ Information  

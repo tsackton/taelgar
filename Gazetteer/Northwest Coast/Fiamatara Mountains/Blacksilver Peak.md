@@ -1,4 +1,10 @@
-tags: [place, status/stub]
+---
+headerVersion: 2023.11.25
+tags: [place]
+name: Blacksilver Peak
+typeOf: mountain
+whereabouts:
+- {type: primary, location: Fiamatara Mountains}
 dm_owner: tim
 dm_notes: important
 ---
@@ -7,7 +13,11 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A jagged, ice‑shrouded summit in the far north of the [[Fiamatara Mountains]], described as a “sharp, snow‑and‑ice covered knife edge, source of perpetual storms, even in summer.” Beneath the peak lies an [[Goldpeak Mines|ancient Dwarven road]] and an old complex leading to the so‑called Endless Stair through the heart of the mountain.
+A jagged, ice‑shrouded summit in the far north of the [[Fiamatara Mountains]]. Blacksilver Peak is a sharp, snow‑and‑ice covered knife edge, and source of perpetual storms, even in summer. Beneath the peak lies an ancient Dwarven road and an old complex leading to the so‑called "Endless Stair" through the heart of the mountain.
+
+%% DM
+
+Not canonically determined if the dwarven ruins in Blacksilver Peak connect to the dwarven ruins to the south, the [[Goldpeak Mines]]. The PCs never found a connection but doesn't mean one doesn't exist. 
 
 ## Connections and Approach (GL Arc 1)
 
@@ -19,3 +29,6 @@ A jagged, ice‑shrouded summit in the far north of the [[Fiamatara Mountains]],
 
 - DR 1747‑07‑19: Party identifies Blacksilver Peak and begins ascent; bargains with a giant eagle for passage to the Dwarven road.
 - DR 1747‑07‑25: Descent from Blacksilver Peak after events at [[Airion’s Tower]].
+
+
+%%

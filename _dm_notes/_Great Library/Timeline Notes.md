@@ -17,8 +17,8 @@ March 16th - arrive at Goldpeak Mine, fight dwarven abberation at the camp, desc
 
 (April 15th - vault ready)
 
-25 Mar: depart for Goldpeak Mines
-27 Mar: arrive Goldpeak mines entrace, fight dwarven abberation, descend, meet Cassia and Alton, camp
+25 Mar: depart for [[Goldpeak Mines]]
+27 Mar: arrive [[Goldpeak mines]] entrace, fight dwarven abberation, descend, meet Cassia and Alton, camp
 28 Mar: fight beholder lair, rest
 29 Mar: return to surface by back ways
 2 Apr: arrive back in Voltara

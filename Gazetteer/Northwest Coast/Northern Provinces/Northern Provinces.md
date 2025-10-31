@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
+name: Northern Provinces
 whereabouts: 
 - {type: primary, location: Chardonian Empire }
 - {type: secondary, location: Northwest Coast }
