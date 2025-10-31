@@ -29,7 +29,7 @@ Vegetation transitions from open conifer woodland on better‑drained rises to b
 
 %% DM
 
-Not much canonical history developed, except that there is a [[~Blackwater Fens Stone Marker~]] somewhere that might reflect ancient elvish/Deno'qai treaties. 
+Not much canonical history developed, except that there are several stone markers  that might reflect ancient elvish/Deno'qai treaties. similar to the one in the chase valley
 
 Some history of the black dragon Nymthrax is here: [[Blackwater Fens - DM Notes]] 
 
