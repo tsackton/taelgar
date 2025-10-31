@@ -1,0 +1,1 @@
+Really just run manticore lair. The patrol is killed so as long as they don't long rest, should be fine to sneak up on the lair.

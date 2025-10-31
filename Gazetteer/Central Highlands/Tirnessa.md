@@ -31,6 +31,6 @@ The [[Silver Tempests]] briefly explored this ruin, and were almost killed by ba
 %% DM
 GL Arc 3: side site during Deno’qai-guided travel, see [[Great Library Session Notes - Arc 3]]
 
-See also: [[Haunted Elven Ruins]]
+See also: [[Haunted Elven Ruins - DM Notes]]
 
 %%

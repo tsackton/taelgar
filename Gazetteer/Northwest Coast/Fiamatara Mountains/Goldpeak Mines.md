@@ -30,5 +30,6 @@ An extensive network of ancient Dwarven works under [[Goldpeak Mountain]] and ad
 - Deepriver shafts — Upper levels tied to pre‑War Dwarven mining under [[Goldpeak Mountain]], scene of multiple delves starting DR 1747‑06‑01.
 - Deep sanctum — In later events, the lower levels were controlled by the beholder [[Vilaxes]] and featured corrupted minions, aberrant traps, and a grotesque treasure‑melted idol.
 
+See also: [[Goldpeak Mines - DM Notes]]
 
 %%

@@ -20,5 +20,5 @@ A small lizardfolk village on the [[Apporia|Apporian Peninsula]], on the [[Zurru
 %%
 GL Arc 5: launch point for river travel toward Castrella.
 [[Samso]]'s home village
-Some details of disappearance are developed in [[Great Library Session Notes - Arc 5]] and [[_dm_notes/_Great Library/Umbral Covenant Arc/Session 62|Session 62]]
+Some details of disappearance are developed in [[Great Library Session Notes - Arc 5]] and [[GL - Session 62 - DM Notes|GL - Session 62 - DM Notes]]
 %%

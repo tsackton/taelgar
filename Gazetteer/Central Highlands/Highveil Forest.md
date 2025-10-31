@@ -35,8 +35,8 @@ Saharlûn (sa-har-LOON), “gentle slopes” that echo  dawnlight on the mountai
 Highveil Forest - Drankorian/Chardon name
 
 See:
-[[Travel Zones]]
-[[Spider Woods]]
-[[Northerners Territory]]
+[[Travel Zones - Overview]]
+[[Spider Woods - DM Notes]]
+[[Northerners Territory - DM Notes]]
 
 %%

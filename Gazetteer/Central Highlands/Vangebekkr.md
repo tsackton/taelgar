@@ -26,9 +26,9 @@ In DR 1747, it was occupied by the frost hag [[Morgana Stoneclaw|Morgana Frostcl
 GL Arc 3: assault on the castle; freed giants retook the halls while the party pursued the hag below.
 
 No real history developed. In the Great Library arc, a hag had corrupted the majority of the frost giants, but some remained imprisoned, who were free by the party. More details in:
-- [[_DM_/OneNote/02_Campaigns/Great Library/Adventures/Dwarven Trouble (Session 38-50)/Session 44|Session 44]]
-- [[_DM_/OneNote/02_Campaigns/Great Library/Adventures/Dwarven Trouble (Session 38-50)/Session 45|Session 45]]
-- [[_DM_/OneNote/02_Campaigns/Great Library/Adventures/Dwarven Trouble (Session 38-50)/Session 47|Session 47]]
-- [[Vangebekkr (OneNote)]]
+- [[GL - Session 44 - DM Notes|GL - Session 44 - DM Notes]]
+- [[GL - Session 45 - DM Notes|GL - Session 45 - DM Notes]]
+- [[GL - Session 47 - DM Notes|GL - Session 47 - DM Notes]]
+- [[Vangebekkr - DM Notes]]
 
 %%

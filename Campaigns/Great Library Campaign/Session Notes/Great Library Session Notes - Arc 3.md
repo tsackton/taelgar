@@ -12,7 +12,7 @@ Celebrated as heroes in [[Voltara]] after providing [[Great Library Session Note
 ## Adventure 15: Meeting the Parents (Brelith Edition)
 ### Session 38
 
-The party spends a month in [[Voltara]], and are the talk of the town. They are gifted a [[Tempest Towers|manor]] inside the walls by [[Anton Lavernia]], and spend time training and enjoying the life of a hero in the city. Once the legions from the south arrive to protect to the city, they leave, heading east towards the [[Sentinel Range|mountains]] of [[Am'khazar|Brelith’s home]]. As they head east, they first pass through the farmlands and pastures of the [[Voltara]] hinterlands, until they come to a [[~Voltara Garrison 1~|small fort]] on a [[Snake River|river]] crossing, beyond which is mostly wild. They are warned at the fort that people have gone missing heading east, especially a high ranking officer who was supposed to bring messages to the garrison camps to the east, and to watch for danger. The next day as they head across the plains, they are attacked by a band of 20 orcs. Despite a few challenges, the orcs are defeated.
+The party spends a month in [[Voltara]], and are the talk of the town. They are gifted a [[Tempest Towers|manor]] inside the walls by [[Anton Lavernia]], and spend time training and enjoying the life of a hero in the city. Once the legions from the south arrive to protect to the city, they leave, heading east towards the [[Sentinel Range|mountains]] of [[Am'khazar|Brelith’s home]]. As they head east, they first pass through the farmlands and pastures of the [[Voltara]] hinterlands, until they come to a [[Snake River Fort|small fort]] on a [[Snake River|river]] crossing, beyond which is mostly wild. They are warned at the fort that people have gone missing heading east, especially a high ranking officer who was supposed to bring messages to the garrison camps to the east, and to watch for danger. The next day as they head across the plains, they are attacked by a band of 20 orcs. Despite a few challenges, the orcs are defeated.
 
 ### Session 39
 
@@ -30,7 +30,7 @@ The party engages in battle with the giant spider in her lair. Shortly into the 
 
 
 - (DR:: 1747-11-10): [[Aglath]], [[Adrik]], [[Aelar]], [[Brelith]], and [[Samso]] leave [[Voltara]] to head east to investigate what is happening in [[Brelith]]'s homeland, after a month of rest, trusting their new manor to a well paid steward. 
-- (DR:: 1747-11-15): Party crosses [[Snake River]] at a [[~Voltara Garrison 1~|small Chardonian fort]], entering the frontier. 
+- (DR:: 1747-11-15): Party crosses [[Snake River]] at a [[Snake River Fort|small Chardonian fort]], entering the frontier. 
 - (DR:: 1747-11-16): Party attacked by remnant of [[Grumella's Horde]], and defeats them. Ambushed that night by survivors, but they are also defeated. 
 - (DR:: 1747-11-18): Party passes [[~Voltara Garrison 2~|Chardonian garrison camp]] and gives [[~Voltara Garrison 2 Commander~]], their commander, information about the [[Orcs|orc]] attack. 
 - (DR:: 1747-11-21): Party passes south of the [[~Voltara East Border Fort~]], and leaves the [[Chardonian Empire]]. Meet [[Deno'qai]] and go to their village, [[Raha]]. Agree to deal with spider threat in exchange for scouts leading them safely through the [[Highveil Forest|woods]] to the Dwarven kingdom of [[Am'khazar]]. 
