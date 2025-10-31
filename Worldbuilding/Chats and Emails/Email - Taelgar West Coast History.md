@@ -1,6 +1,6 @@
 (Aug 2022)
 
-I started fleshing out the history of the west coast of Taelgar a bit last night so I could flesh out the treasure in a dragon lair that Isaac's group is going to fight, a black dragon obsessed with gathering the relics of fallen empires, whose lair is in the Blackwater Fens (big swampy area south of Forest of Dreams, north of Chardon/Voltara, right at the top of the current world printed world map). Would be curious about your opinion.
+I started fleshing out the history of the west coast of Taelgar a bit last night so I could flesh out the treasure in a dragon lair that Isaac's group is going to fight, a black dragon obsessed with gathering the relics of fallen empires, whose lair is in the [[Blackwater Fens]] (big swampy area south of Forest of Dreams, north of Chardon/Voltara, right at the top of the current world printed world map). Would be curious about your opinion.
 
   
 

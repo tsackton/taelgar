@@ -156,7 +156,7 @@
 
   
 
-*Adventures:* The Delwath solo arc of the Dunmar Frontier campaign was set in the northern Deno'qai territory and the Forest of Nightmares; the black dragon arc of the Great Library campaign was set in the Blackwater Fens.
+*Adventures:* The Delwath solo arc of the Dunmar Frontier campaign was set in the northern Deno'qai territory and the Forest of Nightmares; the black dragon arc of the Great Library campaign was set in the [[Blackwater Fens]].
 
   
 

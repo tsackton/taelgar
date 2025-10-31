@@ -4496,7 +4496,7 @@ that could work too, although the "go around mawar" could be a reason they are d
 in my original map i have them coming across the bay and through the gap between tawir forest and the mountains
 
 [1/29/2025 4:44 PM] rsulfuratus
-also, keep in mind that by 1545, Cha'mutte has already conquered probably as far south as the blackwater fens
+also, keep in mind that by 1545, Cha'mutte has already conquered probably as far south as the [[blackwater fens]]
 
 [1/29/2025 4:44 PM] rsulfuratus
 right but that isn't going to delay them for 5 years or whatever
@@ -4517,7 +4517,7 @@ a reasonable story is that cha'mutte is originally intending to move the north a
 so i think the most likely starting point is that, when the Great War ends in 1545, Pandar effectively covers the "Cha'mutte arrows", the forest of dreams, and "kingdom 4"
 
 [1/29/2025 4:49 PM] rsulfuratus
-but it isn't like the blackwater fens is great agricultural land either
+but it isn't like the [[blackwater fens]] is great agricultural land either
 
 [1/29/2025 4:49 PM] rsulfuratus
 a side point is that when cha'mutte dies there is a major kenku revolt in pandar. and without magic pandar probably becomes pretty inhospitable, certainly not a place that can support anything close to the popuation density living there in the 1530s or whenever

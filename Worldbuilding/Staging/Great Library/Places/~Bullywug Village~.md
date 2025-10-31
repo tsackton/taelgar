@@ -1,6 +1,6 @@
 ---
 tags: [place, status/check/ai]
-name: Bullywug Village (Blackwater Fens)
+name: Bullywug Village
 typeOf: village
 ancestry: bullywug
 whereabouts: Blackwater Fens
@@ -9,7 +9,7 @@ campaignInfo:
 dm_owner: none
 dm_notes: none
 ---
-# Bullywug Village (Blackwater Fens)
+# Bullywug Village
 >[!info]+ Information  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

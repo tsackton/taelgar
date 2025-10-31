@@ -56,7 +56,7 @@ The Northern Army is larger than the Southern Army. Originally based in Pandar. 
 
 The Northern Army canonically includes the Shattered Ice clan, as well as other as-yet-unnamed clans. 
 
-At the time of Cha'mutte's death, the northern army likely occupies a large area south of Pandar, extending at least as far as the Blackwater Fens. They are likely engaged in active combat with Amani and Volganis, and possibly have already conquered [[West Coast History Framework#Other Realms|"northern kingdom 4"]]. 
+At the time of Cha'mutte's death, the northern army likely occupies a large area south of Pandar, extending at least as far as the [[Blackwater Fens]]. They are likely engaged in active combat with Amani and Volganis, and possibly have already conquered [[West Coast History Framework#Other Realms|"northern kingdom 4"]]. 
 
 At this point, the northern army fractures. 
 

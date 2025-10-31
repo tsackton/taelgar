@@ -16,10 +16,10 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Barzhen is a slow, muddy river that flows through the Blackwater Fens, and is the primary river that drains this region.
+The Barzhen is a slow, muddy river that flows through the [[Blackwater Fens]], and is the primary river that drains this region.
 
 The name derives from the old Northros word for "heavy, slow".
 
 %% NOTE
-The hydrology of the Blackwater Fens is a bit complicated with several small lakes on the map. The Barzhen is intended to be the "major river" of the region, with a source in the mountains to the north and then joined by tributaries from the lakes before exiting the fens.
+The hydrology of the [[Blackwater Fens]] is a bit complicated with several small lakes on the map. The Barzhen is intended to be the "major river" of the region, with a source in the mountains to the north and then joined by tributaries from the lakes before exiting the fens.
 %%
