@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/stub, status/check/ai]
 dm_notes: important
 dm_owner: tim
@@ -6,6 +7,10 @@ typeOf: cave complex
 whereabouts:
   - {type: home, location: Cymea}
 ---
+# The Edge of Echoes
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Edge of Echoes is a cave complex on the [[Freccilia|Freccilia River]] in the interior of the [[Cymean Peninsula]]. Known to rivermen and old Cymean pilots, the site has a reputation for strange reflections and half‑heard voices—signs of a place where this world lies thin against others. The caves shelter Drankorian‑era works, including the [[Elemental Forge]], and have long been avoided except by the curious and the bold.
 
