@@ -12,8 +12,14 @@ class NameManager {
 
         if (!metadata) return "unknown"
 
-        let tags = metadata.tags ?? [];
-
+        // Normalize tags to an array of strings; Dataview page objects or YAML can vary
+        let rawTags = metadata.tags;
+        let tags = [];
+        if (Array.isArray(rawTags)) tags = rawTags;
+        else if (typeof rawTags === 'string' || rawTags instanceof String) tags = [rawTags];
+        // Some contexts only expose tags on the file object or as etags
+        else if (metadata.file?.tags && Array.isArray(metadata.file.tags)) tags = metadata.file.tags;
+        else if (metadata.file?.etags && Array.isArray(metadata.file.etags)) tags = metadata.file.etags.map(t => t.replace(/^#/, ''));
 
         if (tags.some(f => f.startsWith("person"))) return "person"
         else if (metadata.location || tags.some(f => f.startsWith("place"))) return "place"

@@ -18,4 +18,4 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Jela is a wizard and member of the [[Rodnya Nivik]], based in Zvervinka. 
+Jela is a wizard and member of the [[Rodnya Nivik]], based in [[Zvervinka]]. 

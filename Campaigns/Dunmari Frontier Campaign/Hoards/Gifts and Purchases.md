@@ -62,9 +62,9 @@
 - Soul Tattoo (rare major item). Created by Cecilia Lister for Kenzo, in exchange for gold and the Shadowfell Brand tattoo that Kadmos wore. 
 
 **Zvervinka**
-- Dragonhide Studded Leather (uncommon major item). Made from the hide of a white dragon; purchased in Zvervinka. 
-- Dragonhide Cloak (uncommon major item). Made from the hide of a white dragon; purchased in Zvervinka. 
-- Dragonscale cloak (rare major item). Purchased in Zvervinka; made of the scales and claws of a white dragon. 
+- Dragonhide Studded Leather (uncommon major item). Made from the hide of a white dragon; purchased in [[Zvervinka]]. 
+- Dragonhide Cloak (uncommon major item). Made from the hide of a white dragon; purchased in [[Zvervinka]]. 
+- Dragonscale cloak (rare major item). Purchased in [[Zvervinka]]; made of the scales and claws of a white dragon. 
 - Frostshard Shortbow
 - Potion of Gaseous Form
 

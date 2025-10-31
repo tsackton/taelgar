@@ -59,10 +59,10 @@ After some brief deliberation, the party decided to ask Lena to reach out to [[R
 ## Transcript
 
 ### Campfire Relfections and Planning
-- The party sits around a campfire in a cold, muddy camp by the River [[Ket]], reflecting on their journey from the Vargald camp and discussing their next steps to enter the trade city of Zvervinka.
-- Riswynn, Kenzo, Delwath, Seeker, and Wellby discuss their preparations for entering Zvervinka, emphasizing the need to disguise their usual appearances and equipment to blend in and avoid drawing attention.
+- The party sits around a campfire in a cold, muddy camp by the River [[Ket]], reflecting on their journey from the Vargald camp and discussing their next steps to enter the trade city of [[Zvervinka]].
+- Riswynn, Kenzo, Delwath, Seeker, and Wellby discuss their preparations for entering [[Zvervinka]], emphasizing the need to disguise their usual appearances and equipment to blend in and avoid drawing attention.
 - The group strategizes on how to interact with the city's strict regulations on magic use, discussing the societal structure of Ursk, including the unique role of the magical guilds known as Rodnya and the enforcement of magical laws by the Watchers.
-- The party plans to present themselves as monster hunters (Riswynn, Seeker, and Delwath), accompanied by local guides (Kenzo and and Wellby) to enter Zvervinka, considering using their monster parts (from an ice worm and a dragon) as trade goods.
+- The party plans to present themselves as monster hunters (Riswynn, Seeker, and Delwath), accompanied by local guides (Kenzo and and Wellby) to enter [[Zvervinka]], considering using their monster parts (from an ice worm and a dragon) as trade goods.
 - They discuss the political and magical landscape of Ursk, focusing on the importance of the krev rite and the distinction between those who are bound by it and outsiders.
 - The group contemplates the implications of Ursk's societal norms on magic and non-humans, theorizing about the motivations behind the city's high concentration of powerful wizards and the control over magical practices.
 - As part of their cover, they consider how to use their knowledge of the Rodnya and the stories surrounding the magical protections of Ursk to navigate the city and gather information on the fragment of jade they seek, and the Rodnya Voknaz.
@@ -70,7 +70,7 @@ After some brief deliberation, the party decided to ask Lena to reach out to [[R
 - In preparation for entering the city, they consider casting buff spells for protection, weighing the benefits against the risk of drawing unwanted attention from the city's magical authorities.
 
 ### Entering Zvervinka
-- The party, disguised and adopting their cover story as monster hunters, approaches Zvervinka early in the morning with little traffic around.
+- The party, disguised and adopting their cover story as monster hunters, approaches [[Zvervinka]] early in the morning with little traffic around.
 - They encounter two guards at the gatehouse. One guard, initially surprised by the presence of an Elf and two Dwarves, asks about their business in Ursk.
 - Wellby, speaking in the local accent, explains they're monster hunters with dragon parts to sell.
 - The guards, impressed by the party's claim, invite them to show their goods for assessment.
@@ -80,14 +80,14 @@ After some brief deliberation, the party decided to ask Lena to reach out to [[R
 - The guards mention Lena Sorokina, a watcher with connections, as someone who might help the party find commissioned work, and Roman, a wealthy tavern keeper who can help get good prices for goods at market and has many connections in the city. 
 - The party discusses how to approach Lena, considering writing a letter or getting an invitation to meet her.
 - The guards advise waiting until Wednesday for the market to get the best prices for their goods and provide tips for notable buyers.
-- The party receives visas marked with a magical wax that grants them 10-day permission to stay in Zvervinka.
+- The party receives visas marked with a magical wax that grants them 10-day permission to stay in [[Zvervinka]].
 - The guards caution the party to always carry their visas to avoid trouble with the city's authorities.
 
 ### Meeting at the Silver Wolf
-- The party arrives in Zvervinka, noticing the town's adaptations for outsiders with pictorial signs and a variety of inns and taverns.
+- The party arrives in [[Zvervinka]], noticing the town's adaptations for outsiders with pictorial signs and a variety of inns and taverns.
 - Delwath proposes taking out a significant amount of gold and elven coins from their bag to use while in the city, planning to keep 3,000 to 5,000 gold on hand.
 - The group decides to visit Roman's inn, The Silver Wolf, seeking accommodations and potentially useful connections.
-- As they walk through Zvervinka, they observe the city's architecture, the variety of furs worn by the locals, and the mix of Urksan and Vargaldi people.
+- As they walk through [[Zvervinka]], they observe the city's architecture, the variety of furs worn by the locals, and the mix of Urksan and Vargaldi people.
 - Arriving at the Silver Wolf inn, they are greeted by warmth and the smell of spiced tea. They decide to wait for Roman, who usually arrives around lunchtime.
 - Delwath interacts with the locals, polishing his elvish sword to draw attention and reinforce their cover story.
 - Roman, the owner of the Silver Wolf, welcomes the party and offers to help sell their goods. He also suggests making a silver wolf sculpture for his inn as a way to open doors for the party in the town.
@@ -96,9 +96,9 @@ After some brief deliberation, the party decided to ask Lena to reach out to [[R
 - The party agrees to start work on the sculpture the following day, with Roman offering dinner on the house and assistance in setting up meetings they might need.
 
 ### Exploring and Crafting in Zvervinka
-- In the afternoon, the party wanders through Zvervinka, drawing attention, and rumors begin to spread about them being monster hunters.
+- In the afternoon, the party wanders through [[Zvervinka]], drawing attention, and rumors begin to spread about them being monster hunters.
 - The party notices the city's class stratification and the physical stratification of the city, from the marshy fens to the wealthier upper slopes.
-- **Seeker** inquires about the presence of dragons or libraries, leading to a discovery that while there is an archives in the Watcher's Spire, Zvervinka is not an intellectually focused city.
+- **Seeker** inquires about the presence of dragons or libraries, leading to a discovery that while there is an archives in the Watcher's Spire, [[Zvervinka]] is not an intellectually focused city.
 - The party is occasionally stopped by Watchers to show their papers. They also note some residents showing tattoos instead of papers.
 - During a dinner at the Silver Wolf, **Roman** gives a speech thanking the party and instructing guests not to bother them. **Delwath** responds with thanks in broken Urskan.
 - The feast is unique, consisting largely of preserved meats and seafood, as well as unusual spices.
@@ -124,13 +124,13 @@ After some brief deliberation, the party decided to ask Lena to reach out to [[R
 ### Short Summary
 
 **Campfire Relfections and Planning**
-In preparation for entering the trade city Zvervinka, the party discusses disguises, strategies to navigate the city's strict magic regulations, and their cover story as monster hunters. They also reflect on their crew's capabilities and the importance of keeping the ship safe during their absence.
+In preparation for entering the trade city [[Zvervinka]], the party discusses disguises, strategies to navigate the city's strict magic regulations, and their cover story as monster hunters. They also reflect on their crew's capabilities and the importance of keeping the ship safe during their absence.
 
 **Entering Zvervinka**
-Upon entering Zvervinka, the party successfully convinces the gate guards of their cover as monster hunters with valuable goods to sell. They receive advice on navigating the city's market and are warned to keep their visas with them at all times to avoid legal issues.
+Upon entering [[Zvervinka]], the party successfully convinces the gate guards of their cover as monster hunters with valuable goods to sell. They receive advice on navigating the city's market and are warned to keep their visas with them at all times to avoid legal issues.
 
 **Meeting at the Silver Wolf**
-The party, after discussing their financial strategy for Zvervinka, secures accommodations at the Silver Wolf inn and engages with its owner, Roman. They agree to create a silver wolf sculpture for the inn, with Roman promising valuable connections in return, setting a tone for their stay in the city.
+The party, after discussing their financial strategy for [[Zvervinka]], secures accommodations at the Silver Wolf inn and engages with its owner, Roman. They agree to create a silver wolf sculpture for the inn, with Roman promising valuable connections in return, setting a tone for their stay in the city.
 
 **Exploring and Crafting in Zvervinka**
 During their exploration of Zvervinka, the party attracts attention, learns about the city's social structure, and successfully crafts a silver wolf sculpture for Roman at the Silver Wolf inn, which leads to Roman offering them a favor. They consider trading options at the market, focusing on acquiring magical items or gold in exchange for their monster parts.

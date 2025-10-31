@@ -16,7 +16,7 @@ The Watcher’s Spire rises above [[Zvervinka]]’s upper city, a fortress‑tow
 
 Visitors—when admitted—are required to deposit detectable magic in sealed chests at the entry vestibule, a practice intended to keep the tower’s inner sanctums free of stray enchantments. Formal hospitality within the Spire is austere but precise: tea is served, interviews are structured, and business is conducted with attention to the safety of the city beyond the tower’s doors.
 
-From the market quarters along the [[Ket]] to the gatehouses of the lower city, the Spire’s presence is a constant reminder that Zvervinka stands where civilization meets the wild. While many citizens view the Watchers with respect, a few grumble at their secrets and influence; nonetheless, in winters when ice‑spawn and worse press downriver, the Spire’s wards and messengers are decisive.
+From the market quarters along the [[Ket]] to the gatehouses of the lower city, the Spire’s presence is a constant reminder that [[Zvervinka]] stands where civilization meets the wild. While many citizens view the Watchers with respect, a few grumble at their secrets and influence; nonetheless, in winters when ice‑spawn and worse press downriver, the Spire’s wards and messengers are decisive.
 
 %%
 Meta/DM notes and campaign interactions:
