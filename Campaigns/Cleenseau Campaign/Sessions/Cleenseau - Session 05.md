@@ -41,7 +41,7 @@ Party: has gone from 3 to 4
 Orcs: have gone from about 60 to about 53
 Chaos level: incremented
 
-We rest. The teenager with the knives carefully works on cutting people free in his area and distributing goodberries to the prisoners on that side.
+We rest. [[Balthazar]] carefully works on cutting people free in his area and distributing goodberries to the prisoners on that side.
 
 The enemy camp basically has two arcs of tents on the east and west sides, each the residence of a hostile faction, with the ogre's pavilion in the center, surrounded by the prisoners. There is rough land to the south, with cover, so the plan is to evacuate as many prisoners as we can to the south; the slightly more robust skirmisher band (it has a first-level fighter and a low-level druid in it!) is there to guard the escape route.
 
@@ -185,7 +185,7 @@ Party: has gone from 3 to 4
 Orcs: have gone from about 60 to about 53  
 Chaos level: incremented  
   
-We rest. The teenager with the knives carefully works on cutting people free in his area and distributing goodberries to the prisoners on that side.  
+We rest. [[Balthazar]] carefully works on cutting people free in his area and distributing goodberries to the prisoners on that side.  
   
 The enemy camp basically has two arcs of tents on the east and west sides, each the residence of a hostile faction, with the ogre's pavilion in the center, surrounded by the prisoners. There is rough land to the south, with cover, so the plan is to evacuate as many prisoners as we can to the south; the slightly more robust skirmisher band (it has a first-level fighter _and_ a low-level druid in it!) is there to guard the escape route.  
   

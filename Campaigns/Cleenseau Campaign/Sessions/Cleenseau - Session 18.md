@@ -1,33 +1,74 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
+sessionNumber: 18
 realWorldDate: 2024-09-15
-sessionNumber: 16
+DR: 1720-02-19
+DR_end: 1720-02-21
 players: [Robin, Viepuck, Celyn, Izgil]
+tagline: in which the party is ambushed on the road and discovers court intrigue
+descTitle: Ambush and Intrigue at Veltor
 ---
 # Cleenseau - Session 18
->_in Taelgar, February 19th - 21st
->7 Robert I / DR 1720
->[[Veltor]]
->on Earth: September 15th, 2024
 
+>[!info] Ambush and Intrigue at Veltor: in which the party is ambushed on the road and discovers court intrigue
+> *Featuring: [[Robin of Abenfyrd]], [[Viepuck]], [[Celyn]], [[Izgil Moonseeker]]*
+> *In Taelgar: (DR:: 1720-02-19) to (DR:: 1720-02-21)*
+> *On Earth: September 15th, 2024*
+> *[[Veltor]], Great Road*
 
-(Taeglar dateS: Feb 19 - 21)
-Honestly the whole party is "will nobody rid me of" but I am the only cleric so I get to steal the joke. Because I'm also the rogue.  
-  
-(Also I made a Celyn icon from a drawing I did of him and Robin.)  
-  
-Our party is still three lunatics and a paladin:  
-  
-Celyn Bettws, Meddlesome Priest and Fairy Appreciator  
-Viepuck, still the Doogie Howser of Eldritch Fantasy Lawyers (new and improved recipe with added criminal law!)  
-Izgil Moonseeker, Moon Appreciator, Dwarf, and Responsible Adult  
-and of course Robin of Abenfyrd, the Paladin  
-  
-[When we left off we were about to be ambushed.](https://kiya.dreamwidth.org/788697.html)  
-  
-The party is riding along a road with a fairly sheer, wooded hillside to the right and scattered trees to the left. This is of course reasonably good terrain to set up an ambush in.  
+The party survives an assassination ambush, uncovers a fairy infiltrator in the town government, and discovers complex court politics and treachery.
+
+## Timeline
+
+- **(DR:: 1720-02-19):** The party is ambushed on the road by assassins and bandits
+- **(DR:: 1720-02-19):** Baronial guard arrives and helps defeat the remaining assassins
+- **(DR:: 1720-02-19):** The party is billeted at the barracks; prisoners are interrogated
+- **(DR:: 1720-02-20):** Meeting with the captain reveals the assassin escaped and died overnight
+- **(DR:: 1720-02-20):** The party learns that [[Damian]] has been arrested as the instigator
+- **(DR:: 1720-02-20):** The party discovers [[Lady Debrune]] is being held under guard
+- **(DR:: 1720-02-20):** The party meets with [[Lady Debrune]] and the mysterious fairy
+- **(DR:: 1720-02-20) to (DR:: 1720-02-21):** The party meets with temple officials and local dwarves and halflings
+
+## Cast of Characters
+
+- **[[Robin of Abenfyrd]]** – member of the party, paladin
+- **[[Viepuck]]** – member of the party, young warlock and legal scholar
+- **[[Celyn]]** – member of the party, rogue and cleric
+- **[[Izgil Moonseeker]]** – member of the party, dwarf
+- **[[Greymalkin]]** – [[Robin]]'s gryphon mount
+- **Assassins** – two hired killers, one captured and executed overnight
+- **Bandits** – six hired bandits, some captured
+- **Baronial Guard Captain** – rescues the party from ambush
+- **[[Damien Montrichard]]** – ranger accused of hiring the assassins
+- **Fairy Clerk** – posing as the baroness's representative, actually a shapeshifter
+- **[[Lady Debrune]]** – prisoner held under guard, cousin of the party's ally
+- **Mysterious Fey** – servant to [[Lady Debrune]], warned [[Celyn]] before about poisoned food
+- **[[Duskhound]]** – terrifying horned fey who checks on prisoners
+- **Local Magistrate** – writes requesting help with murder case
+- **Captain of Horse** – military officer helping coordinate defense
+- **Local Dwarves and Halflings** – offer to help smuggle [[Lady Debrune]]
+
+## Places
+
+- **[[Veltor]]** – town where party encounters intrigue
+- **Great Road** – site of assassination ambush
+- **Barracks** – where party is billeted
+- **Keep** – where [[Lady Debrune]] is imprisoned
+- **Warlord Temple** – where party volunteers and gathers information
+- **Halfling Community** – planning to help with escape
+
+## Rumors and Information
+
+- The assassination was apparently carried out by "someone we knew", one of the Rangers
+- [[Damian]] claimed to have infiltrated the Rangers but was with them for years
+- The baroness is obsessed with finding necromancers and has gone west chasing rumors
+- The fairy posing as clerk has replaced the actual baroness's representative
+- [[Lorin Valbert]] fled out of fear of fairies
+- A magistrate is investigating a fairy-altered murder case
+- [[Duskhound]] is a terrifying horned fey operative in the area
+
+## Narrative  
   
 It is hard to ambush a party when the person in front has a weapon that says "Oh hey by the way, you're about to be ambushed" to him. Robin passes word of the impending danger back down the line of people riding down the road, and thus we roll initiative, with several people doing well by comparison to the bad guys.  
   
@@ -74,7 +115,7 @@ Mike the Gamemaster: You have mending?
 Viepuck: And tailoring skill!  
 Mike: ... yeah it's probably better than it was before.  
   
-We go talk to Damian. Viepuck confirms that he was not in fact involved in the hiring of the assassins. We collectively agree that now that we are back in town, the better part of valor is for Damian to go back to helping deal with the undead in the mines, which is the sort of thing that we as a sixth level party are kind of overkill for and it would waste our time better spent hunting down Larger Problems that can't be brute-forced by sufficient ordinary people. Viepuck and Damian spent a while noodling out ideas for a performance he had been plotting, one that was a sort of Hamlet-style attempt to provoke the fairy who was passing herself off as the clerk, which we were plotting on backing with various spells to reveal illusions/shapeshifting power as necessary.  
+We go talk to [[Damien Montrichard]]. Viepuck confirms that he was not in fact involved in the hiring of the assassins. We collectively agree that now that we are back in town, the better part of valor is for [[Damien Montrichard]] to go back to helping deal with the undead in the mines, which is the sort of thing that we as a sixth level party are kind of overkill for and it would waste our time better spent hunting down Larger Problems that can't be brute-forced by sufficient ordinary people. Viepuck and [[Damien Montrichard]] spent a while noodling out ideas for a performance he had been plotting, one that was a sort of Hamlet-style attempt to provoke the fairy who was passing herself off as the clerk, which we were plotting on backing with various spells to reveal illusions/shapeshifting power as necessary.  
   
 We go to bed, we get up, we go to a meeting with the captain of the horse, which unfortunately also contained ... the clerk who we know has been replaced with a fairy. (Robin checked. Yep! Fairy!) We got asked who the heck would want to off us and Robin basically went, "... would you like a list? Given this litany of things we have been dealing with?" We learn that the assassin did in 'fact' make an escape attempt overnight which he did not survive, using lockpicks that he apparently produced from the boot that Celyn is absolutely certain with expert knowledge did not contain lockpicks. This is all very convenient to someone who is probably not us; on the other hand, given the guy did try to murder us we are not terribly sad about it.  
   
@@ -89,7 +130,7 @@ Me: Hey, my crazy is optimized for talking to fairies! ... except for the other 
   
 The fairy's suspicion is that the reason the lady has been hauled in is to get them (possibly him) under the observation of Her, meaning the fairy masquerading as the clerk, and that the Duskhound (terrifying horned fey) checks in on them occasionally. He would like help getting out. Celyn is not like he expected him to be. "Maybe better!" Celyn agrees we will do what we can.  
   
-The lady notes that she believes the difficulty they are having is probably resembling what Lord Punchable Face (who left Asineau out of fear of fairies) was afraid of, which is pleasantly oblique and confirms that she is in the know here. We agree that this is a problem, yes.  
+The lady notes that she believes the difficulty they are having is probably resembling what [[Lorin Valbert]] (who left Asineau out of fear of fairies) was afraid of, which is pleasantly oblique and confirms that she is in the know here. We agree that this is a problem, yes.
   
 We go to the local temple - to the Warlord - to get some space to plot that's less likely to be spied on (partly so Celyn can drop in the information he learned from the fairy). The idea of revealing the fairy with the Hamlet performance is made more complicated by these developing things, and so we back it off a bit to 'we can trigger it if it seems warranted but'. Unfortunately, Viepuck had proposed the thing to the clerk before we learned they obtained Damian so we were stuck with something.  
   
