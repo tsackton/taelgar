@@ -1,0 +1,13 @@
+About two years ago, Morgana Stoneclaw fled the Yuvanti mountains, driven out by Agata Dustmother, who did not want her interfering with plans for Dunmar and Agata's path to power.
+ 
+She traveled north, into the high peaks north of the ruins of Urlich Monastery. Here she nursed her wounds, and turned herself into a bheur hag, calling herself Morgana Frostclaw now. Her long laid plans disrupted and upended, she set herself to revenge and power, seeking a dramatic, world-shaking event to make people fear her again.
+ 
+As the first step in this plan, she learned of a frost giant stronghold in the mountains, a small enclave that had once been aggressive and expansionist, but after the Great War had lost so many people that they retreated to their old fortress and focused on stewardship of the glacier that lay near their old stronghold.
+ 
+Over time, they learned of an elemental shard, a fragment of the plane of ice, created from pure elemental water and air, sat at the center of the glacier, and they slowly learned to control this shard, growing sculptures out of the ice and shaping passageways to their liking.
+ 
+When Morgana Frostclaw learned of this elemental shard, she immediately desired it, and bent the will of two hag sisters to her purposes, forming a coven to destroy the frost giants, capture the elemental shard, and use it to bring endless cold to the mountains, even deep underground where the dwarves dwelt in ignorance of her doings.
+ 
+Over the course of a year, she and her coven slowly corrupted the frost giants, turning them against one and other, until most were dead except a few hold outs in her icy prisons or on the run, and a few so corrupted to her will that they acted as willing servants for her purposes.
+ 
+Now, she has begun to draw on the power of the elemental shard, and cold is beginning to extend from her lair. This year, winter came very early to the high mountains, with the first snows in late August, and by the time Orin Strongaze left for Voltara, rumors had already reached Zarkandur of strange weather, and refugees fleeing the surface settlements for the safety of the deep underground. By November, even the deep cities on the southern border of Am'kazhar were uninhabitable, and refugees have streamed north, telling of freezing cold, strange ice forming everywhere, lights cracking, stone splitting even. With the coldest months approaching, people are scared.

@@ -22,7 +22,7 @@ In the DR 1730s and DR 1740s, scattered [[Lizardfolk]] villages turned up myster
 %%
 GL Arc 5: portal access via a Drankorian site upriver from [[Castrella]]; soul compass plinths shut down by the party before retreating to regroup.
 
-All developed detail is in [[_dm_notes/_Great Library/Umbral Covenant Arc/Session 62|Session 62]] and backlinks.
+All developed detail is in [[GL - Session 62 - DM Notes|GL - Session 62 - DM Notes]] and backlinks.
 
 Connected to mysterious lizardfolk disapperances, e.g. [[Samso]]'s backstory. 
 

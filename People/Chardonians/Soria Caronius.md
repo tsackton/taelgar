@@ -7,15 +7,18 @@ species: human
 ancestry: Chardonian
 gender: female
 title: General
+affiliations: 
+- {type: leader, title: Commander, org: ~Voltara East Border Fort~}
 whereabouts:
-- {type: home, location: Northern Frontier}
+- {type: home, location: Northern Provinces}
 dm_notes: none
 dm_owner: none
 ---
 # General Soria Caronius
 >[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
+> A [[Chardonian]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 General Soria Caronius is the current commander of the [[~Voltara East Border Fort~]], the northeastern-most fortification in the [[Chardonian Empire]]. 

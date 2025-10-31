@@ -30,5 +30,6 @@ Not canonically determined if the dwarven ruins in Blacksilver Peak connect to t
 - DR 1747‑07‑19: Party identifies Blacksilver Peak and begins ascent; bargains with a giant eagle for passage to the Dwarven road.
 - DR 1747‑07‑25: Descent from Blacksilver Peak after events at [[Airion’s Tower]].
 
+Some more details in [[Air Scroll Adventure Overview]] and related notes
 
 %%
