@@ -1,4 +1,4 @@
-_Adrik, Samso, Brelith, and Aglath are eating lunch together in the Purple Pig Inn, where you have been put up by the Great Library in Voltara, waiting for news from Archivist Lyra. As you finish your meal, the Archvist sweeps into the inn, walking carefully and haughtly. With her are two people you don't recognize. "These two are new recruits for the Great Library, just arrived in town. They will be joining you from time to time."_
+_Adrik, Samso, Brelith, and Aglath are eating lunch together in [[the Purple Pig]] Inn, where you have been put up by the Great Library in Voltara, waiting for news from Archivist Lyra. As you finish your meal, the Archvist sweeps into the inn, walking carefully and haughtly. With her are two people you don't recognize. "These two are new recruits for the Great Library, just arrived in town. They will be joining you from time to time."_
  
 **Let Abbey and Owen and anyone else describe their characters.**
  

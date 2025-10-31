@@ -1,6 +1,6 @@
 **Set up**
  
-_You have been back in Voltara for less than 12 hours, barely getting a chance to sleep and recover, when Dravia, the proprietor of the Purple Pig knocks at your door:_
+_You have been back in Voltara for less than 12 hours, barely getting a chance to sleep and recover, when Dravia, the proprietor of [[the Purple Pig]] knocks at your door:_
  
 _"Sorry to disturb you, sirs, but you have an urgent visitor. She says it can't wait."_
  
@@ -27,7 +27,7 @@ _"My time grows short I must turn to my next appointment. But you have impressed
  
 Lyra will meet them back at the inn.
  
-_As you return from town, Archivist Lyra is waiting at the Purple Pig. As you enter, she says:_
+_As you return from town, Archivist Lyra is waiting at [[the Purple Pig]]. As you enter, she says:_
  
 _"I hope you were respectful and honest; you are my known associates and your behavior reflects on me, you know."_
  

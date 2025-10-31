@@ -44,7 +44,7 @@ On success, portal will vanish, area will begin to heal, and Xameia will rest. S
  
 Will make an ally of the order of Twilight, and perhaps also get an (additional) magic item reward -- some disposal items (potions etc).
 
-_After an uneventful, if hurried journey back to town, you find yourself on the outskirts of Voltara, approaching the Purple Pig._
+_After an uneventful, if hurried journey back to town, you find yourself on the outskirts of Voltara, approaching [[the Purple Pig]]._
  
 _Behind you lies the ruined temple of the Order of Twilight, with a portal to the Abyss in the crypt below, awaiting your attention._
  
