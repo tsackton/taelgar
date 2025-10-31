@@ -19,7 +19,7 @@ Isenborg is the primary steading of [[Kaldhalla]], and the hall of the king, [[B
 
 ## Approach
 
-![[steading-entrance.jpg|right|500]]Isenborg is located on the shoulder of a tall peak in the Hrimthur range, in the shadow of the mountain the frost giants call Spirenevald (SPEER-ehn-vahld). The northern lights constantly dance over the steading, even in daytime, giving it a strange magical glow, and illuminating the massive walls of ice and stone that encircle the steading. 
+![[steading-entrance.jpg|right|500]]Isenborg is located on the shoulder of a tall peak in the [[Svinjo Mountains|Hrimthur]] range, in the shadow of the mountain the frost giants call Spirenevald (SPEER-ehn-vahld). The northern lights constantly dance over the steading, even in daytime, giving it a strange magical glow, and illuminating the massive walls of ice and stone that encircle the steading. 
 
 The entrance to Isenborg is marked by a grand, frozen gate, adorned with intricate carvings of frost giants' myths and battles. Sentinel ice sculptures, crafted to look like fearsome beasts and legendary giants, guard the pathways.
 

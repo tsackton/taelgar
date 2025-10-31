@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/check/ai]
+tags: [place]
 whereabouts: Zvervinka
 typeOf: tower
 dm_notes: important
@@ -12,7 +12,7 @@ dm_owner: tim
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 
-The Watcher’s Spire rises above [[Zvervinka]]’s upper city, a fortress‑tower of rune‑scribed stone serving the [[Eyes of Vedmakov|Watchers/Okolov]]. More than a symbol, the Spire functions as a seat of training and oversight for those who guard Ursk against supernatural threats. Its wards glow faintly by night, and its halls are said to contain a modest archive of reports, maps, and occult references relevant to frontier defense.
+The Watcher’s Spire rises above [[Zvervinka]]’s upper city, a fortress‑tower of rune‑scribed stone serving the [[Eyes of Vedmakov|Watchers]]. More than a symbol, the Spire functions as a seat of training and oversight for those who guard Ursk against supernatural threats. Its wards glow faintly by night, and its halls are said to contain a modest archive of reports, maps, and occult references relevant to frontier defense.
 
 Visitors—when admitted—are required to deposit detectable magic in sealed chests at the entry vestibule, a practice intended to keep the tower’s inner sanctums free of stray enchantments. Formal hospitality within the Spire is austere but precise: tea is served, interviews are structured, and business is conducted with attention to the safety of the city beyond the tower’s doors.
 
