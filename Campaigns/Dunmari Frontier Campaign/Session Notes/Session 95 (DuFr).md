@@ -72,7 +72,7 @@ After some discussion, we end as the party decides that, despite the risks of ki
 
 ### At the Sign of the Silver Wolf
 
-- The party discusses travel plans at the Silver Wolf inn, considering their options to cross Ursk from east to west: either direct overland journey of approximately 300 miles, with no maintained roads, or a longer route via a more circuitous road to Vedmakov and and then Yamgov.
+- The party discusses travel plans at the Silver Wolf inn, considering their options to cross Ursk from east to west: either direct overland journey of approximately 300 miles, with no maintained roads, or a longer route via a more circuitous road to [[Vedmakov]] and and then Yamgov.
 
 - **Dewalth** suggests gathering local advice for their journey, considering their local fame might aid in acquiring useful information.
 
@@ -132,9 +132,9 @@ After some discussion, we end as the party decides that, despite the risks of ki
 
 - The party experiences a blend of merchant success stories and peculiar instances like Karel blanking out for 20 minutes, sparking curiosity about arcane wards and energy draining.
 
-- The travelers part ways with the caravan at a trading post, heading towards Vedmakov on a quieter road, encountering patrols that check their transit papers.
+- The travelers part ways with the caravan at a trading post, heading towards [[Vedmakov]] on a quieter road, encountering patrols that check their transit papers.
 
-- They bypass the city of Vedmakov, observing its strategic location and passing through lightly traveled roads and agricultural lands on their way to Yamgov.
+- They bypass the city of [[Vedmakov]], observing its strategic location and passing through lightly traveled roads and agricultural lands on their way to Yamgov.
 
 - As they near the headquarters of the Rodnya Voknaz, the landscape transitions to spring, and they spot a flickering wall of fire marking their destination.
 

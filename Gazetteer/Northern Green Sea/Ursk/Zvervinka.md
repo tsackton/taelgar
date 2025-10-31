@@ -37,4 +37,11 @@ Meta/DM notes and campaign interactions:
   - Notable figures met or prepped: [[Lena Sorokina]] (Watcher), [[Roman]] (innkeeper), Fyodar (gate guard); plus a roster of merchants, crafters, and novja community contacts in Session 94–95 DM notes.
 - Social context: “novja” are Vargaldi who underwent the krev rite to bind with Ursk’s magic; those outside the krev receive little aid and face added risk. Anecdote: a young dragon ignored krev‑bound townsfolk and attacked novja—Watchers then destroyed it (apocryphal, used in‑world as cautionary lore).
 Sources: _DM_/Session 94–95 DM Notes (location color, economy, law/magic, religion, NPCs); Philosopher’s memorandum on Ursk (approach options), [[Gazetteer/Northern Green Sea/Rivers/Ket|Ket]] overview.
+
+Religion - NOT CANON
+
+- Religion: The people of Ursk largely follow a religion that has a vibe kind of like deism in the early modern period of the real world, but with a little bit more formal organization and a focus on meditation/introspection as a way of connecting with the Creator God, who is seen not so much as non-interventionist but rather as intervening via granting magical powers to people who are able to channel their inner connection to the divine. So there are perhaps temples and things like that, but not regular church services or anything. The novja, however, while many follow this religion, also have a second secret religion that some follow, based on worship of animal spirits called Zariya
+- Tishanja Zal (The Hall of Silence): the largest of several meditation halls in Zvervinka. Usually pretty quiet, mostly modest and unassuming architecture, with thick stone walls and stained glass in abstract patterns. 
+
+
 %%
