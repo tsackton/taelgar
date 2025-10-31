@@ -122,7 +122,7 @@ The subsequent interaction with the Vargald was a blend of celebration and strat
 - Torsten, a Vargald elder, offers any assistance the party requires as thanks for their actions.
 - Kenzo suggests seeking an introduction to other clans and a guide to navigate downriver. Meanwhile, Seeker contemplates learning about soul-severing techniques to combat an enemy named Apollyon.
 - The party spends time discussing and learning about Ursk from the Vargald villagers, including trade practices and the potential effects of an arcane ritual on shapeshifting abilities.
-- They learn that disguises will be necessary to blend into Ursk due to their diverse racial appearances and receive advice on navigating through or around the city of Zvervinka.
+- They learn that disguises will be necessary to blend into Ursk due to their diverse racial appearances and receive advice on navigating through or around the city of [[Zvervinka]].
 - Seeker and Kenzo debate the merits of sneaking into Ursk via the mountains or entering through the trade city for reconnaissance.
 - The party contemplates the logistics of approaching Ursk with their ship, considering visibility and the need for invisibility or a cloud generator to avoid detection.
 - Discussion turns to the potential risks and strategies for entering Ursk, including learning the language and finding allies within the city.

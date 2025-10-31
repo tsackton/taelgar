@@ -29,7 +29,8 @@ class OutputHandler {
             }
         }
 
-        if (metadata.tags && metadata.tags.some(f => f =="source"))
+        // Some pages can have non-array tags; guard for safety
+        if (Array.isArray(metadata.tags) && metadata.tags.some(f => f == "source"))
             return currentContents
 
         // find the end of the header block -- the first newline (blank line) after the YAML block
