@@ -4,12 +4,8 @@ Hi all,
 
 I'm going to assume that you went and talked to Wymar, and this email outlines a couple of things: (a) some general background, (b) what you learned recently from Jonathon Henwyn (the steward), (c) Wymar Essford (the old lord), (d) Harold Stonebridge (the halfling child), (e) Béatrix (the woman who just miscarried a zombie baby)
 
-  
-
 My assumption is that our next session will start at about 12pm, in Essford manor, immediately after having finished talking to Wymar. Viepuck has to lead the conversation with Wymar. Everyone else can choose to either take a short rest, accompany Viepuck, or do something else. If you want to do something else, let me know.
-
   
-
 **Background**
 
 Some general background on hobgoblins, recent history, and Cleenseau might be useful. This is all stuff that everyone would know or would have learned in the 3+ months you've been in town.

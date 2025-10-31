@@ -69,6 +69,22 @@ Ainwick - Veltor: 60 miles bad road
 
 Cleenseau - Wisford = 280 miles
 Cleenseau - Embry = 370 miles
+
+
+### From Champimont
+You are in Champimont. Cleenseau is 30 miles to the west. Rinburg is 30 miles to the east. Fellburn is 80 miles east of Rinburg. The road (the Great South Road) is exceptionally good the whole way from Cleenseau to Fellburn.
+
+Travel times, approximately are:
+
+90 miles/day for the messenger system, with stationed horses every couple hours Pony Express style (but this has broken down somewhat recently)
+65 miles/day for a horse relay, a small group of people with ~3 horses/person, riding hard
+35 miles/day for a regular mounted person or small group, but without changes of horse
+20 miles/day for a disciplined large group (foot or mounted, i.e. an army) or a lone person or small group on foot
+15 miles/day for a caravans with wagons, or large undisciplined groups (i.e. refugees)
+
+These are rough numbers, and would be much lower off the Great South Road. 
+
+It is also only ~70 miles from Gowerboure to Fellburn, although on much less good roads.
 #### From Cleenseau to Veltor - Route Options
 In general, the first day is always going to be Cleenseau, stop in Dallet, then spend the night in Champimont.
 
