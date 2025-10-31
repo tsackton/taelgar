@@ -2,7 +2,7 @@
  
 ## Intro
  
--mid morning in the Wandering Toad Inn  
+-mid morning in [[the Wandering Toad]] Inn  
 -getting ready to leave, Finoc Small comes packs up some food, drink for you, thanks you for honoring inn with your business, will store stuff as long as you want and have rooms ready when you return  
 -Voltara is tense: the wide streets of the walled town are quiet, and the markets outside the walls are empty; not much trade coming or going, rumors of attacks, fear  
 -Quiet broken by the sounds of the town garrison training in the morning in camp outside of town, growing with new recruits.  

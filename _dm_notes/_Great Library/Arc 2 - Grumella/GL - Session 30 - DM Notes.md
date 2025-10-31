@@ -4,7 +4,7 @@
  
 Can decide where they want to say:
 
-- Remain at the Purple Pig. Expenses no longer covered by the Great Library. Cost is 1 gp/day for a modest lifestyle.
+- Remain at [[the Purple Pig]]. Expenses no longer covered by the Great Library. Cost is 1 gp/day for a modest lifestyle.
 - Move to a fancier inn outside the city, choosing a comfortable lifestyle. Cost is 2 gp / day.
 - Move into the walled city, where they can stay at a comfortable, wealthy, or aristocractic lodging. Cost is 2 gp, 4 gp, or 10-20 gp per day.
  

@@ -25,7 +25,7 @@ Rocs live far to the north, have long complicated names in their own tongue
  
 In Voltara:
 
-- Talk to Lyra at the Purple Pig, can hand over scroll, discuss
+- Talk to Lyra at [[the Purple Pig]], can hand over scroll, discuss
 - Lyra then says she will return to Chardon with the scrolls but will be back in a few months
  
 Orc encounter:
