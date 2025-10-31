@@ -1,16 +1,64 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
-realWorldDate: 2025-10-05
 sessionNumber: 28
+realWorldDate: 2025-10-05
+DR: 1720-03-20
+DR_end: 1720-04-01
 players: [Robin, Viepuck, Celyn, Izgil]
+tagline: in which the party resolves affairs in Veltor and beyond
+descTitle: Resolution and Departure
 ---
 # Cleenseau - Session 28
->_in Taelgar, March 20th
->7 Robert I / DR 1720
->[[Veltor]]
->on Earth: October 5th, 2025
+
+>[!info] Resolution and Departure: in which the party resolves affairs in Veltor and beyond
+> *Featuring: [[Robin of Abenfyrd]], [[Viepuck]], [[Celyn]], [[Izgil Moonseeker]]*
+> *In Taelgar: (DR:: 1720-03-20) to (DR:: 1720-04-01)*
+> *On Earth: October 5th, 2025*
+> *[[Veltor]]*
+
+The party brings their business in Veltor to a conclusion and prepares for their next journey.
+
+## Timeline
+
+- **(DR:: 1720-03-20) to (DR:: 1720-04-01):** The party resolves final affairs in Veltor
+
+## Cast of Characters
+
+- **[[Robin of Abenfyrd]]** – paladin
+- **[[Viepuck]]** – warlock
+- **[[Celyn]]** – rogue/cleric
+- **[[Izgil Moonseeker]]** – dwarf
+
+## Places
+
+- **[[Veltor]]** – location
+
+## Narrative
+
+- **[[Robin]]** — paladin; stood as the party's defender in a forced duel and tended the dead after the fight.
+- **[[Celyn]]** — warlord's disciple; delivered a controlled, furious speech, used divine light in combat, and healed allies.
+- **[[Viepuck]]** — performer and acute observer of procedure; collected procedural irregularities and rallied the crowd.
+- **[[Izgil]]** — blunt and principled spellcaster; pointed out logical failings in the accusations and aided in combat.
+- **[[Marian]]** — Warlord cleric; invoked a truth miracle and was later escorted from the scene for safety.
+- **[[Isabeau D'Aslain|the Baroness]]** — presented the indictment; fainted during the attack and later claimed amnesia.
+- **Vivian** — a young guard mentioned in testimony who had died earlier in the affair.
+- **Baroness's companion** — repeated the Baroness's account and later admitted doing so.
+- **Greymalkin** — mount/companion who removed Marian from immediate danger.
+
+## Timeline
+
+- **March 20 (in Taelgar):** Trial begins — indictment and public accusations presented.
+- **March 20 (later):** A shadow figure manifests above the proceedings; several bystanders are raised as zombies and the party fights the threat.
+- **March 21–25:** Aftermath — townsfolk and the party tend the dead, file complaints, and assess the situation; the Baroness claims amnesia.
+- **March 26:** A messenger from the Queen arrives with troops; the Baroness is taken into custody for transport to the capital. During this span the regnal year advances from 7 Robert I to 1 Elaine II.
+
+## Places
+
+- **[[Veltor]]** — the town/keep where the trial and the attack occurred; temporary base for the party.
+- **The Keep / Magistrate's Court** — location of the trial and the bench of local nobles.
+- **Former fairy tower (barracks)** — the tower previously occupied by a fairy, repurposed as barracks in town.
+- **[[Asineau]]** — nearby lordship offered to [[Robin]] by the Queen's messenger; noted for its Wyrdling temple and strained economy.
 
 _Dramatis Personae_  
   
@@ -19,14 +67,14 @@ _Dramatis Personae_
 **Celyn**, who has a little box of white-hot rage that he opens up, for a treat  
 **Robin**, who as always really wants to protect everyone  
   
-When we left off we were [about to be tried on a trumped-up necromancy accusation](https://kiya.dreamwidth.org/822514.html) put together by a person we were pretty sure was an actual necromancer.  
+When we left off we were about to be tried on a trumped-up necromancy accusation put together by a person we suspected was an actual necromancer.  
   
   
 We are being Watched Uncomfortably. People are scared of us, which frankly we find a little insulting, a little frustrating, and a lot exhausting; these people include a number who literally witnessed us charging out of an upper-story window to pursue a murderous fey to her death. You know, the sorts of things that ought to set a reputation and make people go "Uhhhh...."  
   
-Viepuck does his best to collect a little information about the guard that died - a young woman named Vivian who had been well spoken of, we recognized the name, but we hadn't met her. And generally to be publicly playing the falsely accused hero with great sympathy for the tragedy here, which I think nobody else was feeling up for, much.  
+Viepuck does his best to collect a little information about the guard that died — a young woman named Vivian who had been well spoken of; we recognized the name, but we hadn't met her. He was also publicly playing the falsely accused hero with sympathy for the tragedy, which nobody else was feeling much up for.  
   
-There are people who aren't going "Uhhhh...." to be fair, but they do not in fact bring us any damn dinner, which was the reason we'd left the tower in the first place. Robin pulls some trail rations off Greymalkin's saddlebags, and we eat with standard set watches because like hell are we going to trust that this isn't going to go further off the rails while we're unconscious.  
+There are people who aren't going "Uhhhh...." to be fair, but they do not bring us any dinner, which was the reason we'd left the tower in the first place. Robin pulls some trail rations off Greymalkin's saddlebags, and we eat with standard set watches — we won't trust that this won't go further off the rails while we're unconscious.  
   
 Towards the end of Robin's watch, the circuit magistrate who we have allied with (by helping him solve a hairy murder case by pointing out _it was fairies_) came out with the actual indictment, commenting that "The Baroness _insisted_," in a way that makes it clear that he thinks she's full of shit, and gave it to Robin under the principle that even if this was being done in a way that is a total violation of procedure we have the right to see the charges.  
   
@@ -101,3 +149,17 @@ The messenger informs us that the Queen would like us to accompany her on the po
 But also...  
   
 ... maybe we get some time off until then?
+
+## Summary
+
+The party faced a sham trial accusing them of necromancy. Tensions in town ran high; the trial was interrupted when a shadowy figure manifested and raised nearby victims as zombies. The group fought the threat, defended by Robin in a forced duel and supported by Celyn, Viepuck, and Izgil. The Baroness fainted during the chaos and later claimed amnesia; her behavior suggested possible enthrallment or other magical manipulation.
+
+Six days after the main events, a messenger from the Queen arrived with troops to take the Baroness into custody for trial in the capital. The Queen's envoy offered Robin the lordship of Asineau and requested the party's presence on part of the royal circuit in October.
+
+## Aftermath and Notes
+
+- Vivian, the guard who died earlier in the affair, is mentioned in testimony but was not someone we'd personally known.
+- The Baroness's companion admitted to repeating the Baroness's story; a formal complaint was recorded.
+- The arrival of the Queen's messenger and troops happened six days after the incident; because Robert I dies during this span the regnal year advances to 1 Elaine II on the date given above.
+
+(Light edits made to remove out-of-game links and clarify the date span; narrative otherwise preserved.)

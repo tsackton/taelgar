@@ -1,44 +1,61 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
-realWorldDate: 2024-07-28
 sessionNumber: 16
+realWorldDate: 2024-07-28
+DR: 1720-02-07
+DR_end: 1720-02-17
 players: [Robin, Viepuck, Celyn, Izgil]
+tagline: in which the party negotiates with a fey lord and discovers a larger conspiracy
+descTitle: The Bear Fey's Gambit
 ---
 # Cleenseau - Session 16
 
->_in Taelgar, February 7th - February 17th_
-> 7 Robert I / DR 1720
->[[Maudorville]], [[Ashcombe]], and the [[Maudor Hills]]
->on Earth: July 28th, 2024
->Kiya's story version here: https://kiya.dreamwidth.org/787058.html
-### Summary and Major Events
-* The party travels to [[Maudor Hills]] and meets encounters a party of harpies
-* The party discovers their boss, a fey lord, and negotiates with him over a mysterious contest
-* After agreeing to divert from defeating harpies to dealing with [[Areschera]], the fey who is pretending to be [[Marguerite Deschamps]], the party evacuates [[Ashcombe]] and retreats to [[Aslain]]
-### Rumors and Information
-* A mysterious fey calling herself the [[Midnight Lady]] (but more commonly called the Night Witch) has infiltrated [[Peydon]]
-### New People Met
-* [[Wilhem of Maudorville]], the moon-fascinated administrator of the temple of the Sibyl in [[Maudorville]]
-* [[Susanna]], an innkeeper in [[Maudorville]] desparate to discover the fate of her missing daughter
-* Samuel, [[Odo Cordwaner|Odo's]] younger brother, lost in the southern [[Maudor Hills]], recovered and escorted to his brother (waiting in [[Essenmer]]) by [[Estiasilos|Es*tiasilos]]
-### Timeline
+>[!info] The Bear Fey's Gambit: in which the party negotiates with a fey lord and discovers a larger conspiracy
+> *Featuring: [[Robin of Abenfyrd]], [[Viepuck]], [[Celyn Bettws]], [[Izgil Moonseeker]]*
+> *In Taelgar: (DR:: 1720-02-07) to (DR:: 1720-02-17)*
+> *On Earth: July 28th, 2024*
+> *[[Maudorville]], [[Ashcombe]], [[Aslain]], and the [[Maudor Hills]]*
 
+The party travels north to investigate the baroness, encounters harpies and a large fey bear lord, negotiates a truce, discovers three competing fey lords are creating chaos, and evacuates the village of Ashcombe from fey danger.
+
+## Timeline
+
+- **(DR:: 1720-02-07 to 1720-02-09):** [[Viepuck]] works as a "telegraph machine," gathering intelligence and contacting allies. [[Samuel Cordwander]], [[Odo Cordwaner|Odo's]] younger brother, is found and escorted to safety by [[Estiasilos]]. [[Gareth of Tollen|Gareth's]] interrogation reveals information about the [[Midnight Lady]].
+- **(DR:: 1720-02-09):** The party departs [[Cleenseau]] with cavalry, heading north toward [[Veltor]] to investigate the baroness, but stops at [[Maudorville]] first to gather intelligence.
+- **(DR:: 1720-02-10):** In [[Maudorville]], [[Izgil]] connects with [[Wilhem of Maudorville|Wilhem]], an administrator fascinated by the moon. The party investigates missing people and encounters singing creatures (harpies) off the road.
+- **(DR:: 1720-02-11):** Combat with harpies, bears, and fey creatures. The party tracks them to the lair of a large fey bear lord, where [[Celyn]] negotiates in proper fey fashion. The party promises not to harm specific harpies in exchange for information about three competing fey lords.
+- **(DR:: 1720-02-11):** The party convinces the village of [[Ashcombe]] to evacuate due to fey danger, leaving for [[Aslain]].
+- **(DR:: 1720-02-12 to 1720-02-17):** The party arrives at [[Aslain]], receives a mysterious letter from the bear fey, and investigates various local incidents including temple destruction evidence and a poisoning case.
+
+## Cast of Characters
+
+- **[[Robin of Abenfyrd]]** – paladin, Order of the Charitable Wanderer
+- **[[Viepuck]]** – warlock and investigator
+- **[[Celyn Bettws]]** – Wyrdling cleric
+- **[[Izgil Moonseeker]]** – arcane investigator
+- **The Bear Fey** (name/title of the [[Gloomshaper]]'s servant) – large fey bear lord controlling harpies and lesser fey
+- **[[Duskhound]]** – wild huntsman minion of the bear fey
+- **[[Wilhem of Maudorville]]** – moon-fascinated administrator of the temple of the Sibyl
+- **[[Susanna]]** – innkeeper in [[Maudorville]], desperate to find her missing daughter
+- **[[Samuel Cordwander]]** – [[Odo Cordwaner|Odo's]] younger brother, recovered from hiding
+- **[[Estiasilos]]** – companion who escorted Samuel
+- **Harpies** – fey creatures under the bear fey's control
+- **[[Greymalkin]]** – fey mount (wingless gryphon) who refused to be muzzled
+
+## Places
+
+- **[[Maudorville]]** – town with Sibyl temple
+- **[[Ashcombe]]** – village evacuated due to fey danger
+- **[[Maudor Hills]]** – site of fey lair and negotiations
+- **[[Aslain]]** – town where the party regroups
+- **[[Essenmer]]** – location where Odo awaits his brother
+- **[[Peydon]]** – dangerous town controlled by the [[Midnight Lady]]
+- **[[Veltor]]** – baronial capital, planned destination
+- **[[Tyrwingha]]** – fey realm, home of [[Celyn]] and [[Robin]]
 
 ## Narrative
-It's time for another edition of Three Lunatics and a Paladin!  
-  
-Our party is:  
-  
-* [[Celyn|Celyn Bettws]], whose most relevant hat this session is "trained at dealing with the fey in a region of the world where there are a lot of fairies, but mostly friendly ones"  
-* [[Viepuck]], the eldritch tween (and [[Estiasilos|Es*tiasilos]], his purple flying octopus)  
-* [[Izgil Moonseeker]], who would like the moon and also everything going on to start making some fucking sense any day now  
-* and of course [[Robin of Abenfyrd|Robin]], paladin of [[The Wanderer]].  
-  
-Previously we had dealt with a [[Cleenseau - Session 15|a spot of mayehm]] after which we as a party levelled up and are now level 6. This produced several substantial effects: Robin has his Aura of Protection power; Viepuck has third list spells and took '[Sending](https://www.dndbeyond.com/spells/2243-sending)', converting him into a very potent telegraph machine; Celyn hit fourth level rogue, and took the feat [Observant](http://dnd5e.wikidot.com/feat:observant), about which I have been making Magenta-from-RHPS jokes since, given also his stealth skills. ("Well-secluded, I see all!") (Izgil also picked up something but I am so cheerfully baffled by his character mechanics that I don't know what it is and also I am not 100% sure it was relevant today unless it was the lunar spellpoints thing.)  
-
-In our interstitial stuff Viepuck did a whole hell of a lot of [[Viepuck - Feburary 9th, 1720|being a telegraph machine]], collecting information and moving data around in 25-word segments to enable us to keep track of various people we have met over the course of our adventures and try to collate the problems we're dealing with. This included groups of people asking for help (and us figuring out what of them we could help with and how) and tracking down our friend [[Odo Cordwaner|Odo's]] teenaged brother, previously presumed dead, but now hiding in the local hills and afraid to come out because he fled there from zombies and zombies are alarming. We successfully coaxed him out of the hills and sent [[Estiasilos|Es*tiasilos]] (as a small dog) to escort him to his brother.  
+In our interstitial stuff Viepuck did a whole hell of a lot of [[Viepuck - Feburary 9th, 1720|being a telegraph machine]], collecting information and moving data around in 25-word segments to enable us to keep track of various people we have met over the course of our adventures and try to collate the problems we're dealing with. This included groups of people asking for help (and us figuring out what of them we could help with and how) and tracking down our friend [[Odo Cordwaner|Odo's]] teenaged brother, [[Samuel Cordwaner]], previously presumed dead, but now hiding in the local hills and afraid to come out because he fled there from zombies and zombies are alarming. We successfully coaxed him out of the hills and sent [[Estiasilos|Es*tiasilos]] (as a small dog) to escort him to his brother.  
 
 The [[Gareth of Tollen|bandit]] we captured got [[Gareth's Story|his interrogation]] in before his execution, and proceeded to tell a story in which he was being a horrible person in [[Peydon]], and an [[Midnight Lady|older woman in a tattered wolfskin cloak]] showed up and offered to tell him a secret, which he used to be even more terrible. This loops for a bit. And he heard her making deals with other people with results like "the kid she cured has made no sounds since" or "the cow she healed gives sour milk now", and so on, meanwhile the bandit did not consider the implications about what was going on with the secrets she was giving him to better fuck people over. Eventually, there was a zombie uprising, at which point he asked her for help and things got weird and bad, and then she sent him off on the tax collection mission.  
   
@@ -51,7 +68,7 @@ Celyn, in the midst of this story, managed to suppress his urge to mutter about 
 So, we collated the information that Viepuck collected and that we got from the bandit and came up with a set of problems that we needed to deal with in some order:  
 * find the baroness and figure out why the fuck she hasn't done Thing One (ride the bounds to check on the state of the demesne, or at least send a letter asking for information) since she got the position  
 * figure out what is fucking up the mail on the north-south route between the baronial capital and the river (as we previously unfucked the east-west mail route along the river)  
-* generally do the politicking thing with the baroness actually (possibly including getting Robin appointed to replace Lord Punchable Face in Asineau in the long run)  
+* generally do the politicking thing with the baroness actually (possibly including getting Robin appointed to replace [[Lorin Valbert]] in Asineau in the long run)
 * deal with the fairy making trouble as reported by the bandit somehow  
 * track down a centaur with prophetic knowledge someone told us about  
 * deal with still more rampaging undead in some old guerilla caves in the north  
