@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
-species: humanI
+species: human
 gender: female
 born: 1679
 whereabouts: Veltor
