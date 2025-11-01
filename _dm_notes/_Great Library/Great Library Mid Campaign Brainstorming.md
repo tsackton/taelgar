@@ -28,12 +28,12 @@ Plot threads:
     1. Session 9 started 4 days after the centaurs; during session 9 they traveled 5 days west, spend 1 day fighting, and traveled 5 days back to Voltara, so it is now 16 days since the centaurs (at the start of session 10).
     2. Backstory: the Order of Twilight was a monastic order of healers and hospice care associated with the Night Queen. They were particularly prevalent in Amani, and were thus heavily impacted by the Blood Years. However, a few small pockets of members survived and the Order is now growing again. [Galius Filuso](Worldbuilding/Staging/Great%20Library/People/Galius%20Filuso.md) has been scouting, recruiting, and looking for lost Order sites in the North for a while.
     3. Xameia the Forsworn will not be satisfied until restitution is made for her sins. There are a bunch of options for this:
-        1. If the party donates 2,000 gp to Galius Filuso, or to the Night Queen, making it clear this is to help restore the Order of Twilight, Xameia can rest
+        1. If the party donates 2,000 gp to [[Galius Filuso]], or to the Night Queen, making it clear this is to help restore the Order of Twilight, Xameia can rest
         2. If they find the desecrated monastery of the Order of Twilight which was the scene of the demon battle, clear the demons, and pay for the casting of a Hallow spell (1000 gp material components, 300 gp donation to a priest to cast it), that will also satisfy Xameia and let her rest.
-        3. If they make a donation to the Night Queen / Galius Filuso but it isn't 2000 gp, may add a quest in addition
+        3. If they make a donation to the Night Queen / [[Galius Filuso]] but it isn't 2000 gp, may add a quest in addition
         4. They could come up with something else, but in general should cost between 1000 and 2000 gp, with amounts on the lower end resulting in also needing some kind of quest / task
     4. If they don't complete this in 30 days, they will start to have nightmares of Xameia. Get about a week of leeway where the only real penalty is loss of downtime, then escalate. Next week is Wisdom saving throws to avoid exhaustion, and the following week Xameia appears to fight them.
-    5. Once this is complete, they will have gained an ally in Galius Filuso and the priests of the Night Queen / Order of Twilight, who can speak on their behalf with the Proconsul.
+    5. Once this is complete, they will have gained an ally in [[Galius Filuso]] and the priests of the Night Queen / Order of Twilight, who can speak on their behalf with the Proconsul.
  
 1. Orc raids
     1. Grumella the Vengeful, clan leader of the Moon Skull clan, suffered a defeat when her champion Raluhk the Orog, who had been leading the raids towards Voltara, was defeated. However, some orcs escaped, and reported to her the strange party that defeated Raluhk: a goliath, three dwarfs, and a lizardfolk.
