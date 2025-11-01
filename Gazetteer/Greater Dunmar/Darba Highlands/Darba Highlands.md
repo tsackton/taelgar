@@ -12,11 +12,11 @@ dm_notes: color
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 ## Geography
 
-The Darba Highlands are warm, monsoonal rocky highlands of isolated forests in sheltered valleys, and broad grasslands and savannas that flood during the monsoon rains. The Darba Highlands are bordered by the [[Yuvanti Mountains]] to the southeast, the [[Chataan Mountains]] to the north, the [[Nevos Sea]] to the west, and the [[Dunmari Basin]] to the northeast, stretching 200 miles or more inland, and covering the 170 or so miles between the bordering mountain ranges. 
+The Darba Highlands are warm, monsoonal rocky highlands of isolated forests in sheltered valleys, and broad grasslands and savannas that flood during the monsoon rains. The Darba Highlands are bordered by the [[Yuvanti Mountains]] to the southeast, the [[Chataan Mountains]] to the north, the [[Nevos Sea]] to the west, and the [[Hara Basin]] to the northeast, stretching 200 miles or more inland, and covering the 170 or so miles between the bordering mountain ranges. 
 
 %% note: total size is about 37,000 square miles, roughly the size of Portugal, or Virginia%%
 
-Geographically, the Darba Highlands transition to the [[Dunmari Basin]] at the height of land in the [[~Yuvanti Gap~]], between the Yuvanti and the [[Chataan Mountains]], but culturally, this region typically stretches as far as the [[Copper Hills]].
+Geographically, the Darba Highlands transition to the [[Hara Basin]] at the height of land in the [[~Yuvanti Gap~]], between the Yuvanti and the [[Chataan Mountains]], but culturally, this region typically stretches as far as the [[Copper Hills]].
 
 The largest and most significant river is the [[Rudhan]], which flows from the [[~Yuvanti Gap~]] to the [[Nevos Sea]], and passes by the city of [[Darba]]. But numerous other small rivers dot the landscape, and many more appear during the monsoon rains. 
 

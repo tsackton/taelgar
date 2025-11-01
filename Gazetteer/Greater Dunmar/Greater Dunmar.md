@@ -34,14 +34,14 @@ This region experienced considerable upheaval after the [[Great War]], as the [[
 _See more: {links}_
 
 The Central Lowlands region is dominated by four major topographical features. 
-- The [[Dunmari Basin]] lies south of the Sentinels. This is a broad, flat plain, semi-arid, but with regular summer monsoons that bring rain and support expansive grassland. 
-	- To the northwest, the [[Dunmari Basin]] is separated from the Yeraad watershed by the Myraeni Gap, a line of rugged hills between the Sentinels and the [[Chataan Mountains]]. 
-	- To the west, the [[Dunmari Basin]] is separated from the Nevos Sea by the [[Darba Highlands]] extending from the [[Copper Hills]], and the Yuvanti Mountains
+- The [[Hara Basin]] lies south of the Sentinels. This is a broad, flat plain, semi-arid, but with regular summer monsoons that bring rain and support expansive grassland. 
+	- To the northwest, the [[Hara Basin]] is separated from the Yeraad watershed by the Myraeni Gap, a line of rugged hills between the Sentinels and the [[Chataan Mountains]]. 
+	- To the west, the [[Hara Basin]] is separated from the Nevos Sea by the [[Darba Highlands]] extending from the [[Copper Hills]], and the Yuvanti Mountains
 	- To the north, the Sentinels form the edge of the basin; in the spring, snowmelt-fed streams and rivers bring life to the northern plains. 
-	- To the east, the Garamjala Plateau, a high desert, separates the [[Dunmari Basin]] from the Istaros watershed. 
-	- The only outflow from the [[Dunmari Basin]] is the ~Hara Gorge~, southeast of Askandi, that cuts through the rocky deserts on the western edge of the Garamjala Plateau. 
-- The Yuvanti Mountains separate the [[Dunmari Basin]] from the Nevos Sea. Higher and more rugged in the south, the rain shadow of the Yuvanti Moutains creates the vast Garamjala Desert. 
-	- At the northern edge of the Yuvanti Moutains, a series of hills and river valleys known as the Darba Highlands connects the Yuvanti to the [[Chataan Mountains]], and isolates the [[Dunmari Basin]] from the Nevos. 
+	- To the east, the Garamjala Plateau, a high desert, separates the [[Hara Basin]] from the Istaros watershed. 
+	- The only outflow from the [[Hara Basin]] is the ~Hara Gorge~, southeast of Askandi, that cuts through the rocky deserts on the western edge of the Garamjala Plateau. 
+- The Yuvanti Mountains separate the [[Hara Basin]] from the Nevos Sea. Higher and more rugged in the south, the rain shadow of the Yuvanti Moutains creates the vast Garamjala Desert. 
+	- At the northern edge of the Yuvanti Moutains, a series of hills and river valleys known as the Darba Highlands connects the Yuvanti to the [[Chataan Mountains]], and isolates the [[Hara Basin]] from the Nevos. 
 	- West of the Yuvanti, the broad, flat Nayan Floodplains stretch to the sea. 
 - The Garamjala Plateau is an extremely arid mid-elevation plateau, that rises between the Hara and the Mahar watersheds. This area is almost entirely inhospitable desert.
 - East and north of the Garamjala Plateau, the Istaros watershed runs from the foothills of the Sentinels near Sembara, through the Plaguelands, south into the Desolation of Cha'mutte and the fabled city of Drankor. 
@@ -94,9 +94,9 @@ _See also: {links to lists, e.g. Places in Region}_
 
 %% 
 
-## 5. [[Dunmari Basin]]
+## 5. [[Hara Basin]]
 
-*Area:* This region includes the [[Dunmari Basin]], the [[Myraeni Gap]], and the [[Garamjala Desert]] (including the orc kingdom of [[Xurkhaz]]), as well as the ancient city of [[Drankorian Empire|Drankor]] and the [[Sea of Storms]]. 
+*Area:* This region includes the [[Hara Basin]], the [[Myraeni Gap]], and the [[Garamjala Desert]] (including the orc kingdom of [[Xurkhaz]]), as well as the ancient city of [[Drankorian Empire|Drankor]] and the [[Sea of Storms]]. 
 
 *Canonical Development and Constraints:* The current day climate and geography of this entire region, and the history dated back to before the Downfall, is extensively developed, although much of the history before the Great War is developed only in broad strokes. The history, religion, and politics of Dunmar and Xurkhaz are extensively developed. The desolation around Drankor (including the ruined city itself), the wastes of the Garamjala, and the [[Awakened Jungle]] have significant, but not exhaustive, development. Any future development in this region needs to be aware of significant constraints imposed by existing development. 
 

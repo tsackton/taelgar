@@ -281,7 +281,7 @@ _5192-5210 by the Dwarven Count of Years_
 
 %% Use this section to state the basic state of play at the end of the Drankorian period as this establishes a good baseline for future development need to collate from lots of places but basically: %%
 
-In 5192, the [[First Plague]] destroys the Drankorian Empire and brings with it a massive loss of life across much of what was the Drankorian heartland. Almost immediately on the heels of the plague, the [[Dunmar|Dunmari]] come from the east and spread across the [[Dunmari Basin]], establishing modern [[Dunmar]].
+In 5192, the [[First Plague]] destroys the Drankorian Empire and brings with it a massive loss of life across much of what was the Drankorian heartland. Almost immediately on the heels of the plague, the [[Dunmar|Dunmari]] come from the east and spread across the [[Hara Basin]], establishing modern [[Dunmar]].
 
 
 ## The Rise of Cha'mutte and the Great War

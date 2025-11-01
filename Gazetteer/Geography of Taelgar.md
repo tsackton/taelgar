@@ -14,7 +14,7 @@ The world of Taelgar is a globe, slightly bigger than Earth, with Earth-like sea
 
 Many mapmakers consider the mighty [[Sentinel Range]], whose highest peaks rise more than 20,000 feet into the air, the defining feature of the land. The [[Sentinel Range|Sentinel's]] 2,500 miles of mountains and foothills divide the world into three: 
 * to the west, [[Chardon]], the great city of magic and learning, by the mouth of the the mighty [[Chasa-Nahadi Watershed]], and the smaller [[Yeraad Watershed|Yeraad River]], to the south
-* to the south, the great [[Dunmari Basin]], arid and windswept, cut off from the [[Nevos Sea]] by the [[Yuvanti Mountains]]
+* to the south, the great [[Hara Basin]], arid and windswept, cut off from the [[Nevos Sea]] by the [[Yuvanti Mountains]]
 * to the east, the [[Greater Sembara|realms of Sembara, Tyrwingha, and Vostok]] on the shores of the [[Western Gulf]] of the [[Green Sea]]
 
 The halflings navigating the [[Green Sea]] would tell a different tale, as they sailed the 3,000 miles of rugged coasts, mysterious islands, and northern forests. They would talk of the [[Northern Green Sea|northern forests]], the mysterious island of [[Irrla]], the volcanic [[Skaerhem]], and the [[Cymean Peninsula]], steeped in history. They would tell you that the familiar lands of [[Greater Sembara|Sembara and Tollen]] are just the beginning of never-ending road, running through the waves and currents of the [[Green Sea]].

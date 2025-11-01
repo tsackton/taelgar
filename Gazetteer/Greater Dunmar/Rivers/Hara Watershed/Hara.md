@@ -12,13 +12,13 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Hara flows 750 miles through the [[Dunmari Basin]], from its source in the foothills of the [[Sentinel Range]] to the [[~Hara River Gorge~]]. Once, it flowed more than twice that length in total, joining the [[Istaros]] north of [[Drankor]]. Whether it still does after the cataclysms and upheavals following the [[Great War]], no one knows.
+The Hara flows 750 miles through the [[Hara Basin]], from its source in the foothills of the [[Sentinel Range]] to the [[~Hara River Gorge~]]. Once, it flowed more than twice that length in total, joining the [[Istaros]] north of [[Drankor]]. Whether it still does after the cataclysms and upheavals following the [[Great War]], no one knows.
 
-At its source, the Hara is a swift flowing mountain river, descending to the  flat plains of the [[Dunmari Basin]]. As the Hara enters the [[Dunmari Basin]], it slows and widens as it meanders south towards [[Tokra]], joined first by the [[Sone]] and then by the [[Thandar]], along with several minor tributaries. 
+At its source, the Hara is a swift flowing mountain river, descending to the  flat plains of the [[Hara Basin]]. As the Hara enters the [[Hara Basin]], it slows and widens as it meanders south towards [[Tokra]], joined first by the [[Sone]] and then by the [[Thandar]], along with several minor tributaries. 
 
 South of the confluence with the [[Thandar]], the Hara turns broad and sluggish as it flows through the [[~North Tokra Plains~]]. Here, the Hara frequently floods during the monsoon season. 
 
-The region in the immediate vicinity of [[Tokra]] is rocky and hard, especially just south of the city, where the rocky land of the [[Darba Highlands]] protrudes into the [[Dunmari Basin]]. Here, the river widens again as it passes beneath the [[~Tokra Bridge~]]. 
+The region in the immediate vicinity of [[Tokra]] is rocky and hard, especially just south of the city, where the rocky land of the [[Darba Highlands]] protrudes into the [[Hara Basin]]. Here, the river widens again as it passes beneath the [[~Tokra Bridge~]]. 
 
 South of [[Tokra]], the river passes through a series of small canyons on the rugged [[~Southern Tokra Plains~]]. The [[Sukal]] joins between [[Tokra]] and [[Askandi]], and a number of dry washes and seasonal rivers flow into the Hara in this stretch during the monsoon. 
 
@@ -29,11 +29,11 @@ Beyond [[Askandi]], the land begins to rise again as the [[Garamjala Desert|Gara
 Beyond the [[~Hara River Gorge~]], no one knows the fate of the river. Does it feed a seasonal lake in the depths of the [[Garamjala Desert|Garamjala]]? Does it flow all the way through the plateau to join the [[Istaros]], as it once did? Or does something stranger happen?
 ## In Dunmari Culture
 
-The Hara is a central river of Dunmari myth and culture. Before the [[Great War]], when the Dunmari settled in this land, the two great rivers of the Hara and the [[Kharja]], collectively known as Jeevali's Tears, provided water and sustenance to much of the people of the [[Dunmari Basin]]. Before the [[Yuvanti Mountains]] and the [[Garamjala Desert|Garamjala]] Plateau were raised, these rivers were separated only by the high land around [[Karawa]], and the monsoons swept across the entire plains, supporting a rich grassland ecosystem.
+The Hara is a central river of Dunmari myth and culture. Before the [[Great War]], when the Dunmari settled in this land, the two great rivers of the Hara and the [[Kharja]], collectively known as Jeevali's Tears, provided water and sustenance to much of the people of the [[Hara Basin]]. Before the [[Yuvanti Mountains]] and the [[Garamjala Desert|Garamjala]] Plateau were raised, these rivers were separated only by the high land around [[Karawa]], and the monsoons swept across the entire plains, supporting a rich grassland ecosystem.
 
 Since the [[Great War]], the [[Kharja]] has nearly or completely dried up. None have traced its route into the [[Garamjala Desert|Garamjala]], but even near [[Kharsan]] it flows only fitfully, in sudden floods after rare storms, and it is presumed it no longer meets the Hara. 
 
-The Hara has thus taken on greater significance for the Dunmari. Without it, life would not be possible in the [[Dunmari Basin]]. 
+The Hara has thus taken on greater significance for the Dunmari. Without it, life would not be possible in the [[Hara Basin]]. 
 
 %% notes
 

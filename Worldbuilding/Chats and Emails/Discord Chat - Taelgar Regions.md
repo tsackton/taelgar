@@ -107,7 +107,7 @@ rsulfuratus — Today at 4:28 PM
 yeah
 I think the Yeraad river valley is definitively not Nevos culturally, and better to keep the river together. the highlands towards Dunmar (south of the mountains) are Nevos; dividing line between Nevos/Dunmar is arbitrary - Darba was at one point Illorian, after all. the mountains should all be Chardon
 the canal is clearly chardonian now, but the area is more nevos in culture. exact dividing line south of chardon TBD since that area is not invented. but for sure the canal should be nevos
-to the south, basically the "high desert" should be outside greater dunmar, with the line running Xurkhaz east to Kharja, then south, cutting across the southern edge of the Hara River Gorge (the only outflow from the [[DUnmari Basin]]), then across Yuvanti to the line of the Shrev. this splits historical dunmar a bit but makes a good dividing line in the present between "dunmar-ish" and "true desolation"
+to the south, basically the "high desert" should be outside greater dunmar, with the line running Xurkhaz east to Kharja, then south, cutting across the southern edge of the Hara River Gorge (the only outflow from the [[Hara Basin]]), then across Yuvanti to the line of the Shrev. this splits historical dunmar a bit but makes a good dividing line in the present between "dunmar-ish" and "true desolation"
 Deciusmus — Today at 4:34 PM
 Last question is this the right dividing line between "ursk-ish" and far north/eastern green sea?
 Image

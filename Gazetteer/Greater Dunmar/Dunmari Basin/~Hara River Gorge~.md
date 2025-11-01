@@ -11,4 +11,4 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The ~Hara River Gorge~ is a steep-sided canyon, where the [[Hara]] River flows out of the [[Dunmari Basin]]. 
+The ~Hara River Gorge~ is a steep-sided canyon, where the [[Hara]] River flows out of the [[Hara Basin]]. 
