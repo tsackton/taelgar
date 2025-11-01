@@ -136,21 +136,11 @@ Charlotte swallows, and starts to say: "He said..." but then pauses, like she's 
 
   
 
-"We - Hugh and I -  left Caerenad [meta: a small town on the road from Eskbridge to Tafolwern about a 3 day journey south from Eskbridge] in late November. The earl there was impressed with our shows in Tafolwern and invited us to spend the quiet weeks between Vitalae and Quintarum [meta: the "leave taking holiday", the other half of Viatale. I might change the name, and coming up on Jan 22, so just a few days from now] at his estate. Mahaut jumped at the chance. Hugh here is a Sembaran boy, like me, and had some family debts to settle in Orbas [meta: a small village near Fellburn, deserted now, you passed it on your way along the road], and Josse is finally writing that play about the Oracle of Hope he has been talking about for years. Well, one thing led to another and as I've never seen the Oracle, Hugh had family business, and a few weeks on the road together seemed nice, after Antonin... We are due to rejoin Mahaut in Eskbridge in a week... I hope all is well."
+"We - Hugh and I -  left [[Caerenad]] in late November. The earl there was impressed with our shows in Tafolwern and invited us to spend the quiet weeks between Vitalae and Quintarum [meta: the "leave taking holiday", the other half of Viatale. I might change the name, and coming up on Jan 22, so just a few days from now] at his estate. Mahaut jumped at the chance. Hugh here is a Sembaran boy, like me, and had some family debts to settle in Orbas [meta: a small village near Fellburn, deserted now, you passed it on your way along the road], and Josse is finally writing that play about the Oracle of Hope he has been talking about for years. Well, one thing led to another and as I've never seen the Oracle, Hugh had family business, and a few weeks on the road together seemed nice, after Antonin... We are due to rejoin Mahaut in Eskbridge in a week... I hope all is well."
 
   
 
 She pauses again, and beckons Celyn closer, like she wants to speak more privately. 
-
-  
-
-[Kiya: quick pause, I have more to write up in a bit but just giving Celyn a chance to jump in]
-
-
-Mike Sackton <msackton@gmail.com>
-Thu, May 30, 2024, 1:53 PM
-
-===================
 
 On May 30, 2024, at 1:53 PM, Mike Sackton <msackton@gmail.com> wrote:
 >> Still, he manages to speak more or less evenly, if not with his usual upbeat tone.  “How’ve you been, Charlotte?  How are the Players?  This is a bit off the usual route.”  If Charlotte won’t be normal at him he will be tooth-grittingly normal at her.
@@ -168,12 +158,6 @@ Celyn manages a chuckle and a nod there.
 > She pauses again, and beckons Celyn closer, like she wants to speak more privately.
 
 “I’m glad to know the Players are okay.  From what I’ve heard the troubles have mostly not reached Tyrwingha though of course I worry.”  Celyn levers himself back up to his feet - his exhaustion is still there even if he’s recovered somewhat by this point - and gives Robin’s hand another squeeze before letting go and approaching the woman to hear what she wants to say.
-
-
-Kiya Nicoll darkhawk@mindspring.com via bunny-puppy.net 
-May 30, 2024, 2:04 PM
-
-=================
 
 On May 30, 2024, at 2:04 PM, Kiya Nicoll <[darkhawk@mindspring.com](mailto:darkhawk@mindspring.com)> wrote:  
 >  

@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/mike, place]
+tags: [status/check/tim, status/check/name, place]
 campaignInfo: []
 name: Caerenad
 typeOf: town
 whereabouts: Tyrwingha
-dm_notes: color
+dm_notes: none
 dm_owner: none
 ---
 # Caerenad
@@ -13,24 +13,12 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% see AI discussion in comments about inconsistency of having an earl's manor here given invention around the role of earls in Tyrwinghan poliitcs. left for you to resolve %%
-
-Caerenad is a small Tyrwinghan town on the road between [[Eskbridge]] and [[Tafolwern]], roughly a three-day's journey south of Eskbridge. A wooded stream runs below a low hill crowned by the earl’s manor; in clear nights the pool below the slope mirrors the moon.
-
+%% some invention: two new rivers, the idea of a named circuit; the Enad is an unmapped brook that runs from about the T in Tyrwingha north across the road and the east to the mapped River, the Maerwyn
+Tim: if seems sensible, I can make stubs for the rivers.
 %%
 
-a small town on the road from Eskbridge to Tafolwern about a 3 day journey south from Eskbridge 
-used in clee as color 
+Caerenad is a small Tyrwinghan town on the road between [[Eskbridge]] and [[Tafolwern]], roughly a three-day's journey south of Eskbridge, and near where the road crosses the [[Enad]], a brook that eventually joins the [[Maerwyn]] just north of the [[Tyrwinghan Road]]. 
 
-DM notes and campaign references
-- Features in correspondence connected to the “Oracle of Hope” (see Campaigns/Cleenseau Campaign/Raw Emails: references to performances and the earl’s manor above Caerenad).
- 
-Inconsistencies and suggested resolutions (Tyrwinghan earls)
-- Observation: This note mentions “the earl’s manor” above Caerenad, a small town. In Tyrwingha, earls are high lords with wide circuits (≈50 earls realm‑wide), and governance is village‑centric rather than Sembaran‑style manorial. See: Gazetteer/Greater Sembara/Tyrwingha/Political Organization of Tyrwingha.md (earls travel for months; villages host them); Gazetteer/Greater Sembara/Tyrwingha/Nefyn.md (town “hosts the Earl on their circuit”).
-- Potential conflicts: (a) The phrase “earl’s manor” reads like a fixed Sembaran manorial seat; (b) Tyrwinghan practice emphasizes traveling courts and village hospitality rather than fixed taxation/manor structures.
-- Suggested resolutions (choose any that fit tone):
-  1) Interpret “earl’s manor” as an Earl’s Hall/Lodge maintained for the earl’s circuit stays (guest residence, ceremonial hall, storehouses), not a feudal manorial seat. Prefer “Earl’s Hall” or “Earl’s Lodge” in prose to avoid Sembaran manorial implications.
-  2) Treat the Caerenad hall as a seasonal residence on the earl’s route between [[Eskbridge]] and [[Tafolwern]], with local provisioning organized by the village’s Court of All (per Political Organization note).
-  3) If a permanent seat is desired here for story reasons, define it as a minor “house of administration” for a steward of the earl, with the earl’s principal household elsewhere; the earl visits but does not hold local taxes in Sembaran fashion.
-- Net: keep the in‑world prestige (earl presence) while aligning terminology and usage to Tyrwinghan norms (traveling court; guest halls; village provisioning).
-%%
+The earl of the Enad Circuit has traditionally kept a fortified seasonal residence here, and it is traditional to spend the quiet period between [[Viatela]] and [[Quintarum]] here. 
+
+The Enad is runs below a low hill crowned by the earl’s residence; in clear nights the pool below the slope mirrors the moon.
