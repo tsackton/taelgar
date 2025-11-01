@@ -78,7 +78,7 @@ A number of areas in the West Coast are explicitly left open, and may or may not
 
 ## Sentinels
 The [[Sentinel Range|Sentinels]] divide the continent in two, and in general, are the domain of [[Dwarves]] and [[Stoneborn]]. The human cultures that do thrive in the [[Sentinel Range|Sentinels]] and their foothills are mostly defined in the [[#Northern]] section. 
-## Dunmari Basin
+## [[Dunmari Basin]]
 
 ### Dunmari
 The [[Dunmar|Dunmari]] culture dominates this region, and are effectively the only humans between the [[Sentinel Range|Sentinels]], the [[Myraeni Gap]], and the [[Desolation of Cha'mutte]]. Although there are some different cultural strands within the Dunmari culture, between the more traditional east and the more sedentary west, at least in 1749 the Dunmari are still a single (mostly) unified culture.

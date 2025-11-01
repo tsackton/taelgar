@@ -90,7 +90,7 @@
 
 *Adventures:* Illoria has been at the edge of several Dunmari Frontier adventures, but only two sessions were actually set in the Nevos Sea, and primarily involved traveling to and then through the [[Old Chardon Canal]]. The merfolk arc of the Dunmari Frontier was partially set on the north coast of Apporia.
 
-## 5. Dunmari Basin
+## 5. [[Dunmari Basin]]
 
   
 

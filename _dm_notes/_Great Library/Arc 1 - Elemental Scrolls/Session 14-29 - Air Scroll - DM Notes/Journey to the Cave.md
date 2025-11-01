@@ -1,12 +1,12 @@
 **Overview:**
  
-The air scroll is hidden in a floating castle above a glacier in the north of the [[Fiamatara mountains]]. The floating tower was the home of Arion the Mistspeaker, the location of which has been a mystery for many years to the library.
+The air scroll is hidden in a floating castle above a glacier in the north of the [[Fiatara Mountains]]. The floating tower was the home of Arion the Mistspeaker, the location of which has been a mystery for many years to the library.
  
 Recently, researchers in the archives have uncovered information suggesting the last location of Arion's tower was above a ruined dwarven mining complex known as the 'Blacksilver Caves.' Rumor has it that, while the tower itself is hidden in mists and storms, it can be reached by ascending the Endless Stair that goes through the heart of [[Blacksilver Peak]].
  
 The exact location of Blacksilver Caves is detailed in the maps and journals the messenger was carrying. Without the maps, the messenger can remember a few clues:
 
-1. It was in the far north of the [[Fiamatara Mountains]]
+1. It was in the far north of the [[Fiatara Mountains]]
 2. [[Blacksilver Peak]] was described as a 'sharp, snow and ice covered knife edge, source of perpetual storms, even in summer'
 3. An ancient Dwarven road leads into the mountains from the plains and to the entrance to Blacksilver Caves
  

@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
-name: Fiamatara Mountains
+tags: [place]
+aliases: [Firepeaks]
+name: Fiatara Mountains
 typeOf: mountain range
 whereabouts: Northwest Coast
 dm_owner: tim
 dm_notes: none
+pronunciation: fya-TAH-rah
 ---
-# The Fiamatara Mountains
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+# The Fiatara Mountains
+*(fya-TAH-rah)*
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The principal northern range of the [[Northwest Coast]], marked by steep, rocky ridges, heavy snows, and glaciers on the highest summits. Beneath many of these peaks lie extensive pre‑Great War Dwarven excavations. These underways and vaults were widely abandoned during or after the [[Great War]], and many stand empty or have since been taken over by dangerous creatures.
@@ -26,6 +29,10 @@ The mountains trend generally north–south, forming a barrier between coastal f
 ## Environment and Travel
 
 Weather in the high country is severe, with sudden storms and treacherous footing at elevation. Lower approaches from the [[Erbalta Plains]] follow old Dwarven roads where they can be found; elsewhere, travel requires careful navigation along scree, snowfields, and precarious ledges.
+
+## Names
+
+Officially called the Fiatara Mountains by Chardonian mapmakers, softened from the ancient Drankorian *Fiam Tara*, meaning "Fire Crest". The common folk of Voltara, however, often refer to them simply as the Firepeaks. Some old sources use the now-abandoned dwarven name, Khûldram (KOOL-drahm), loosely translated as the "Crown of Hidden Fire". 
 
 %%
 Campaign Notes (GL)

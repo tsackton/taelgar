@@ -14,4 +14,4 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-One of the southernmost major peaks of the [[Fiamatara Mountains]], notable for the [[Goldpeak Mines|extensive dwarven mines]] beneath it. 
+One of the southernmost major peaks of the [[Fiatara Mountains]], notable for the [[Goldpeak Mines|extensive dwarven mines]] beneath it. 

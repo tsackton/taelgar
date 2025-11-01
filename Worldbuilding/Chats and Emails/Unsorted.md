@@ -7548,7 +7548,7 @@ i'm not sure it is ever useful to follow non-polity on a person page, unless you
 
 8:03 PM
 
-e.g., you don't want: Songara plains -> Dunmari basin -> Greater Dunmar you want Songara plains -> Dunmari basin -> Dunmar or Songara plains -> Central Dunmar -> Dunmar
+e.g., you don't want: Songara plains -> [[Dunmari basin]] -> Greater Dunmar you want Songara plains -> [[Dunmari basin]] -> Dunmar or Songara plains -> Central Dunmar -> Dunmar
 
 8:02 PM
 
@@ -9652,7 +9652,7 @@ now back to work - are you pushing this to your region branch? i might take a lo
 
 12:43 PM
 
-might include the Nashtkar as a fifth topological feature. i never quite worked out the topography here but based on the rivers, if the Dunmari Basin is indeed now an endorheic basin, the Nashtkar should be at a higher elevation and separate the Kharja rivershed from the Hara
+might include the Nashtkar as a fifth topological feature. i never quite worked out the topography here but based on the rivers, if the [[Dunmari Basin]] is indeed now an endorheic basin, the Nashtkar should be at a higher elevation and separate the Kharja rivershed from the Hara
 
 12:40 PM
 
@@ -9696,7 +9696,7 @@ Either way, from a rivers standpoint, the Greater Dunmar region has no mixed wat
 
 01/24/2025 at 11:59 AM EST
 
-I havent' done it, but the "Greater Dunmar" main page simplies to define 4 major topological features of Greater Dunmar: - Yuvanti Mts - Nayan Floodplain - Darba Highlands - Dunmari Basin And borders: - Sentinels to the North - Nevos Sea to the west & south west - Mryani Gap to the west/northwest - Garamjala Plateau to the east The current region borders have Dunmar going all the way to the Kuthul River, but I'm not sure if that is correct and perhaps "Greater Dunmar" ends at the Kharja instead.
+I havent' done it, but the "Greater Dunmar" main page simplies to define 4 major topological features of Greater Dunmar: - Yuvanti Mts - Nayan Floodplain - Darba Highlands - [[Dunmari Basin]] And borders: - Sentinels to the North - Nevos Sea to the west & south west - Mryani Gap to the west/northwest - Garamjala Plateau to the east The current region borders have Dunmar going all the way to the Kuthul River, but I'm not sure if that is correct and perhaps "Greater Dunmar" ends at the Kharja instead.
 
 
 
@@ -10514,7 +10514,7 @@ image.png
 
 01/23/2025 at 4:31 PM EST
 
-to the south, basically the "high desert" should be outside greater dunmar, with the line running Xurkhaz east to Kharja, then south, cutting across the southern edge of the Hara River Gorge (the only outflow from the DUnmari Basin), then across Yuvanti to the line of the Shrev. this splits historical dunmar a bit but makes a good dividing line in the present between "dunmar-ish" and "true desolation"
+to the south, basically the "high desert" should be outside greater dunmar, with the line running Xurkhaz east to Kharja, then south, cutting across the southern edge of the Hara River Gorge (the only outflow from the [[DUnmari Basin]]), then across Yuvanti to the line of the Shrev. this splits historical dunmar a bit but makes a good dividing line in the present between "dunmar-ish" and "true desolation"
 
 4:30 PM
 
@@ -12351,7 +12351,7 @@ the exact borders are a little vague because it is not clear exactly what is hap
 
 3:22 PM
 
-the founding is DR 1171 - DR 1173, roughly, and the dunmar probably expand to the modern "Dunmari Basin" plus some of the area stretching east to the Mahar (modern day Xurkhaz) within 10 years
+the founding is DR 1171 - DR 1173, roughly, and the dunmar probably expand to the modern "[[Dunmari Basin]]" plus some of the area stretching east to the Mahar (modern day Xurkhaz) within 10 years
 
 3:18 PM
 

@@ -23,11 +23,11 @@ The Erbalta Plains are too dry for extensive agriculture outside of irrigated fi
 
 ## Borders
 
-The Erbalata Plains refer to the entire [[Snake River]] valley grasslands in the rain shadow of the [[Fiamatara Mountains]], stretching from the northernmost peaks in the range to the confluence of the [[Snake River]] and the [[Zarnato]], south of which the rolling hills become wetter and more wooded. While technically the [[Chardonian Empire]] lays claim to this entire region, the [[Chardonian Legion]] does not effectively control any territory north of the [[~North Voltara Hills~]]. 
+The Erbalata Plains refer to the entire [[Snake River]] valley grasslands in the rain shadow of the [[Fiatara Mountains]], stretching from the northernmost peaks in the range to the confluence of the [[Snake River]] and the [[Zarnato]], south of which the rolling hills become wetter and more wooded. While technically the [[Chardonian Empire]] lays claim to this entire region, the [[Chardonian Legion]] does not effectively control any territory north of the [[~North Voltara Hills~]]. 
 
 ## Climate
 
-Isolated from the moderating influence of the [[Endless Ocean]] by the rugged [[Tawir Forest]] and the steep [[Fiamatara Mountains]], the Erbalta Plains have a cold, semi-arid climate, with limited annual precipitation that mostly falls in the late winter and early spring. Summers and long, and often hot, dry, and windy, while winters are crisp with occasional light snowfall. Occasional spring and autumn squalls along the main river provide the brief growing season that sustains the region’s hardy grasslands and scattered riparian groves.
+Isolated from the moderating influence of the [[Endless Ocean]] by the rugged [[Tawir Forest]] and the steep [[Fiatara Mountains]], the Erbalta Plains have a cold, semi-arid climate, with limited annual precipitation that mostly falls in the late winter and early spring. Summers and long, and often hot, dry, and windy, while winters are crisp with occasional light snowfall. Occasional spring and autumn squalls along the main river provide the brief growing season that sustains the region’s hardy grasslands and scattered riparian groves.
 
 %%^Campaign:none%%
 

@@ -14,7 +14,7 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-An extensive network of ancient Dwarven works under [[Goldpeak Mountain]] and adjacent peaks in the [[Fiamatara Mountains]], abandoned during or shortly after the [[Great War]] and later occupied by monsters.
+An extensive network of ancient Dwarven works under [[Goldpeak Mountain]] and adjacent peaks in the [[Fiatara Mountains]], abandoned during or shortly after the [[Great War]] and later occupied by monsters.
 
 
 %% DM

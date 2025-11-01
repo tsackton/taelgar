@@ -88,7 +88,7 @@ _See also: [[Places in the Northwest Coast]]
 
 *Brainstorming and Potential Canon:* There are a number of semi-canonical brainstorming about the history of the Mawakel Peninsula; the history since the Great War is well developed but the deeper history (i.e. where did the Mawar come from) is not committed. Earlier brainstorming suggested a northern/Drankor blend but this is not canonical and alternatives are possible. The Mawar require some different religious flavor of Mos Numena than Chardon/Drankor but the source of this is not determined.
 
-*Needs Development:*  In general the area west of Voltara including the [[Fiamatara Mountains]] is weakly developed and would benefit from some historical and cultural development. 
+*Needs Development:*  In general the area west of Voltara including the [[Fiatara Mountains]] is weakly developed and would benefit from some historical and cultural development. 
 
 *Intentionally Blank:* The [[Tawir Forest]] and [[~Mawakel Large Island~]] are best left undeveloped, except perhaps in very broad strokes, until a game requires them. The [[~North Bay~]] in general is intentionally blank as is the border with the [[Far North]].
 

@@ -17,7 +17,7 @@ dm_notes: none
 
 %% needs a more specific whereabouts but the region is not well developed yet %%
 
-A coastal village west of the [[Fiamatara Mountains]] and near the [[~North Bay~]]. 
+A coastal village west of the [[Fiatara Mountains]] and near the [[~North Bay~]]. 
 
 %%
 GL Arc 4: staging point for investigation of nearby lake caverns and the aboleth [[Ithu'rax]].
