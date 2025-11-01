@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/cleanup/gameupdate]
 name: Dunmar
 whereabouts: Greater Dunmar
 created: 1173
@@ -13,6 +13,8 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%needs to be rewritten to account for division between Sura and Karnas %%
 
 Dunmar is an ancient theocratic monarchy stretching more than 700 miles across the central lowlands of [[~Northern Continent~]], bordered by the coast of the [[Nevos Sea]] and the [[Myraeni Gap]] in the west, the [[Sentinel Range]] in the north, and the  barren wastelands of the [[Nashtkar]] and the [[Garamjala Desert]] in the east and south. Founded in DR 1173 by the great leader and first Samraat [[Bhishma]], who is now a goddess and a divine protector of her people, Dunmar survived the turmoil of the [[Great War]] and the upheavals that followed, and now occupies a land much-changed from the fertile grasslands of its founding.
 

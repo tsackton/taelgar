@@ -1,8 +1,5 @@
 ---
-tags: [organization, status/stub, status/check/ai]
-typeOf: 
-dm_owner: none
-dm_notes: none
+tags: [organization, status/stub]
 ---
 
-%% No clear in‑vault references under this exact name. Possibly related to worship of the Sibyl (see The Sibyl; Sibyl’s Hall) but usage is not established. Additional sources needed. %%
+

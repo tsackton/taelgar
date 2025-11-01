@@ -13,7 +13,7 @@ dm_owner: tim
 
 %%needs some basic cleanup, plus collating various notes in Obsidian and OneNote%%
 
-Darba is a walled city set on the rocky coast, perched above the flooded swamps of the Rudhan river. From a distance, the white walls of the old Drankorian fort that guards the harbor gleam in the sun, its six towers commanding a wide view across the bustling city. The old trade road follows the height of land north of the river, avoiding the flooded swamps of the delta in monsoon, approaching the old gates of the city, the ancient Drankorian wrought iron motifs of confronted lions framing the gate and visible even from a distance.
+Darba is a walled city set on the rocky coast, perched above the flooded swamps of the [[Rudhan]] river. From a distance, the white walls of the old Drankorian fort that guards the harbor gleam in the sun, its six towers commanding a wide view across the bustling city. The old trade road follows the height of land north of the river, avoiding the flooded swamps of the delta in monsoon, approaching the old gates of the city, the ancient Drankorian wrought iron motifs of confronted lions framing the gate and visible even from a distance.
 
 To the south of the walls, across the estuary, a shanty town of wooden dwellings and flooded, muddy streets stretches inland for some distance. Now, in the monsoon flood, small boats ply their trade back and forth along the river, many distinctive high-prowed Illorian poled boats. In the sheltered estuary, the masts of tall sailing ships can just be seen dancing on the waves at dock. Three and four masted, square rigged Chardonian trading caravels, small and fast Illorian lanteen-rigged ships, and the occasional junk-rigged sailing ship with unusual stiff sails from farther afield. The Dunmari are not know as shipbuilders, but the occasional single-masted Dunmari longship patrols the waters.
 
@@ -27,7 +27,7 @@ The north bank is less marshy than the south, and there are several weirs and wa
 
 ## History
 
-- (DR:: 377): A Drankorian fort, to provide naval defenses for the western frontier of the Empire, is constructed at the mouth of the Rudhan river, in the location that will eventually grow to become the city of Darba. 
+- (DR:: 377): A Drankorian fort, to provide naval defenses for the western frontier of the Empire, is constructed at the mouth of the [[Rudhan]] river, in the location that will eventually grow to become the city of Darba. 
 - (DR:: 1552): An Illorian captain, Chirce, claims sovreignity over Darba and the surrouding coastal plain
 - (DR:: 1558): The Samraat Nayan Kundar drives the Illorian from Darba and reclaims the city 
 - (DR:: 1644): A massive new public market is constructed in Darba by dwarven craftsfolk, commissioned by the Samraat to reflect the growing importance of Darba as a center of trade
