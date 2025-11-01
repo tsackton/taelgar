@@ -29,7 +29,7 @@ The [[Dunmar Fellowship]] enters [[Zvervinka]] posing as monster hunters, befrie
 ### Timeline
 - (DR:: 1749-03-22): The party settles into the [[Vargaldi]] camp to learn Urskan and gather information over the next couple of weeks; the one year anniversary of when [[Kenzo]], [[Delwath]], [[Seeker]], and [[Wellby]] met in [[Karawa]]
 - (DR:: 1749-03-23) - (DR_end:: 1749-03-25): Downtime in the [[Vargaldi]] camp
-- (DR:: 1749-03-26): The [[Festival of Rebirth]] is celebrated in [[Dunmar]], and quietly marked by the [[Dunmar Fellowship]] in the far north
+- (DR:: 1749-03-26): The [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Festival of Rebirth]] is celebrated in [[Dunmar]], and quietly marked by the [[Dunmar Fellowship]] in the far north
 - (DR:: 1749-03-27)- (DR_end:: 1749-04-07): Downtime in the [[Vargaldi]] camp, learning passable Urskan and gathering information and rumors.
 - (DR:: 1749-04-08): Depart the [[Vargaldi]] camp, heading east along the [[Ket]] in [[Vindristjarna]]
 - (DR:: 1749-04-09)- (DR_end:: 1749-04-10): Continue traveling east

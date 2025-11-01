@@ -10,4 +10,4 @@ dm_owner: none
 >[!info]+ Biographical Info  
 > A [[Humans|human]] (she/her)
 
-A dead woman, of unknown name, who was on a mission to destroy the Edge of Echoes during the time of Drankorian Empire. Did not succeed, and was killed. 
+A dead woman, of unknown name, who was on a mission to destroy the [[Edge of Echoes]] during the time of Drankorian Empire. Did not succeed, and was killed. 
