@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, religion/zariya, status/check/name]
+tags: [background, religion/zariya]
 dm_notes: important
 dm_owner: tim
+pronunciation: ZAH-ree-yah
 ---
 # Zariya
+*(ZAH-ree-yah)*
 
 %%although no details have been invented, this is assumed to share a lot of metaphysical truth with the tansi and kestavan traditions, and some clear vibes about the role of these animal spirits in Vargald magic and how that is affected by the krev in Ursk exist in DM notes%%
 

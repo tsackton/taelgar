@@ -21,7 +21,7 @@ Before the raising of the [[Western Wall of Sembara]], Dunmore stood closer to t
 %% 
 Tim: The "Dunmore (OneNote)" is a dead link. Suggest we lean into the "very similar to Dunfry". These - whatever there different pasts - are today the two major garrison towns of the Army of the West and should have similar feel. However I think Dunmore is the wilder of the too - more of a place where off duty soliders run around in the streets and such - Dunfry has more of a command-and-officers feel
 
-some notes from starter stone titan adventure, in particular [[Dunmore (OneNote)]] and [[Setup]]
+some notes from starter stone titan adventure, see [[Setup]]
 
 could you some invention as to how different from [[Dunfry]] or maybe it isn't it is just on the northern part of the wall. They both have "Dun" in the name.... maybe lean into the similarity
 
