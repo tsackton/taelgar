@@ -71,7 +71,7 @@ Rich people in Voltara:
  
 Livia Visanuis (older woman)
  
-**(X) Inectos Tintio** (idle son of wealthy merchant from Chardon, art collector, bought the crown jewels of volganis; rich and very elegant/formal)
+**(X) [[Inectos Tintio]]** (idle son of wealthy merchant from Chardon, art collector, bought the crown jewels of volganis; rich and very elegant/formal)
    
 
 == misc ==

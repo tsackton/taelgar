@@ -14,5 +14,5 @@ Gaius Devarro was an early metaphysical cosmologist of Chardon and one of the fo
 %%
 DM notes / sources
 - Cosmology: Echo Realms — Gaius’s synthesis within the Standard Model.
-- Limbo — “endless unmaking” via Marcion citing The Unstable Sphere; On Minds and Chaos positioning.
+- Limbo — “endless unmaking” via Marcion citing [[The Unstable Sphere]]; On Minds and Chaos positioning.
 %%

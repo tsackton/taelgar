@@ -1,7 +1,8 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, status/check/ai]
-name: Silverstorm
-aliases: [Silver Feathers of the Storm Cloud, Thunder and Lightning]
+name: Silver Feathers of the Storm Cloud, Thunder and Lightning
+aliases: [Silverstorm]
 whereabouts:
 - {type: away, location: Mountain eyrie (north)}
 campaignInfo:
@@ -9,7 +10,6 @@ campaignInfo:
 dm_owner: none
 dm_notes: none
 ---
-# Silverstorm
 
 The roc known as “Silver Feathers of the Storm Cloud, Thunder and Lightning.” The party aided in recovering a stolen egg from elemental conspirators.
 

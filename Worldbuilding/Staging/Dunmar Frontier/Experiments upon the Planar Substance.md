@@ -9,5 +9,5 @@ Experiments upon the Planar Substance is the seminal work of Arryn of Tollen on 
 %%
 DM notes / sources
 - Letters and Notes: Research about Limbo and Cha’mutte — quotes the “Action of Magic in the Plane of Chaos” (Book IV) with Arryn’s six principles.
-- Cross‑refs: On Minds and Chaos (Gaius Devarro), The Unstable Sphere (fragments), Dreamworld/Echo Realms discussions.
+- Cross‑refs: On Minds and Chaos (Gaius Devarro), [[The Unstable Sphere]] (fragments), Dreamworld/Echo Realms discussions.
 %%

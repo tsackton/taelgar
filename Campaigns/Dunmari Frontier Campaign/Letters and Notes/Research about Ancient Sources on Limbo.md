@@ -11,7 +11,7 @@ The most famous work regarding Limbo is usually translated as [[The Unstable Sph
 
 These fragments suggest a place that is totally unstable. No solid ground persists for long; worse, even the air can solidify at a moment's whim, trapping the unlucky traveler in a tomb of rock or ice or something worse. Though one can travel through the jumbled space of Limbo simply with a thought, sojourners in Limbo are in constant danger of sudden transformations. 
 
-This constant shifting makes mapping Limbo impossible. Much of The Unstable Sphere seems to have been discursions on the metacosmological nature of this instability. Was the fundamental geometry of the plane in constant flux, or did instead the material contents of the plane simply transform at whim, creating the appearance of constant flux? 
+This constant shifting makes mapping Limbo impossible. Much of [[The Unstable Sphere]] seems to have been discursions on the metacosmological nature of this instability. Was the fundamental geometry of the plane in constant flux, or did instead the material contents of the plane simply transform at whim, creating the appearance of constant flux? 
 
 All is not hopeless, though, for the traveler to Limbo. It is recorded that the strong of mind, those with intellects of steel, can hold the plane solid by sheer concentration, freezing in place the endless chaos for hours, days, even years in some exceptional cases. 
 
