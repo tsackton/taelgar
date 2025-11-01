@@ -202,7 +202,7 @@ August 6, 2025
     
 39. _[_8:59 AM_]_
     
-    there is definitely a front along the Westcliff in Addermarch, and I think you have details about Cleenseau but I didn't look them up
+    there is definitely a front along the [[Westcliff]] in Addermarch, and I think you have details about Cleenseau but I didn't look them up
     
 40. _[_8:59 AM_]_
     

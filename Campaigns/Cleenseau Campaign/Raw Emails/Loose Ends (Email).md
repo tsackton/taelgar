@@ -15,7 +15,7 @@ It mentions a number of names:
 *  Philip Mutha of Beury (the current lord's father)
 * Marcel de Valarin, from Valarin in Maseau (dead, the founder of the Order of the Charitable Wanderer)
 * Adèle Laurent, in Rinburg (unclear status, part of the Rangers)
-* Oswald Greensborn in the Barony of Vaubonne (unclear status, Vaubonne is one of the small baronies south of the Enst from Fellburn)
+* Oswald Greensborn in the [[Barony of Vaubonne]] (unclear status, Vaubonne is one of the small baronies south of the Enst from Fellburn)
 * Vahaiya, the report author (likely still alive, as they are an elf)
 
 Note also that anyone in Cleenseau who was alive during this period might have more information to share. Walter, the retired janitor, definitely was, as was Marigold. Others might have been if you ask around. You basically need to find people who are 70+ years old.

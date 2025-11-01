@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/check/ai]
+tags: [place]
 name: Torvaine Forest
 typeOf: forest
 whereabouts: Addermarch
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 ---
 # The Torvaine Forest
 >[!info]+ Information  
@@ -14,13 +14,6 @@ dm_notes: important
 
 The Torvaine Forest is a broad belt of mixed woodland in central [[Addermarch]], a tangle of oak and fir threaded by game paths and woodcutters’ trails. The forest supplies timber and charcoal to the upland shires, and shelters old stones and barrows from earlier ages beneath its leaf‑carpeted rises.
 
-## Boundaries and Use
-Villages along the margins manage coppice lots and commons according to customary rights. Foresters warn against over‑cutting near ancient markers where the forest has a “long memory.”
+One major road cuts through the forest, connecting [[Valcroix]] in the river valleys to the highland town of [[Roscombe]]. The road is protected by [[Torvaine Watch]], and well-maintained, but is frequently impassable due to heavy snow or mud between December and May. 
 
-## Folklore
-Travelers trade stories of strange music under the boughs after rain and of beasts that know when roads are safest. Such tales are part of the March’s larger tradition of wary respect for its woods.
-
-%%
-DM notes and campaign references
-- Serves as general wilderness for Addermarch travel. Specific lairs, fae paths, and encounters are DM‑defined for a given campaign.
-%%
+Most settlements in the forest lie along the [[Umber]] river valley, or along the forest's southern edges north of the [[Velan]]. 

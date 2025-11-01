@@ -647,7 +647,7 @@ but i think the highest ground actually runs kind of along the edge of the river
 
 
 [9/10/2024 4:37 PM] .deciusmus
-right. maybe westcliff is more like a sideways T
+right. maybe [[westcliff]] is more like a sideways T
 
 
 [9/10/2024 4:39 PM] .deciusmus
@@ -655,7 +655,7 @@ or I guess not quite, but the land of the Darkwood itself is hilly to the west a
 
 
 [9/10/2024 4:40 PM] rsulfuratus
-I think Westcliff is kind of a big C marked in brown, with the very steep sections the two parallel lines due west
+I think [[Westcliff]] is kind of a big C marked in brown, with the very steep sections the two parallel lines due west
 
 {Attachments}
 https://cdn.discordapp.com/attachments/1059870250440593520/1283165217051639828/image.png?ex=678b68fb&is=678a177b&hm=c2b7db4a3c8ed8046143df59fecb13fc4d772a09759ea80463226a90e80e3e6b&
@@ -695,7 +695,7 @@ so you have in the "East Aure Fork" highlands a fair bit of bare, open ground an
 [9/10/2024 5:47 PM] .deciusmus
 Geographically, the Mostreve Hills are composed of five distinct ridgelines:
 * The [[Westcliff]] ridge runs in a truncated north-south 'C', on the western edge of the Mostreve Hills, with the highest and steepest parts of the ridge along the western edge, bordering the [[Maseau Gap]]. The highest peaks of the Mostreve Hills are here, especially along the western escarpment. 
-* The ~Unnamed Aure Headwaters Ridge~ runs mostly east-west, arising from the rolling hills of the [[Aure]] river valley some 50 miles east of the Westcliff ridge, and cutting in a south-south-easterly line towards the headwaters of the [[Tarn]]. This ridgeline partially separates [[Addermarch]] from the [[Darkwood]]. 
+* The ~Unnamed Aure Headwaters Ridge~ runs mostly east-west, arising from the rolling hills of the [[Aure]] river valley some 50 miles east of the [[Westcliff]] ridge, and cutting in a south-south-easterly line towards the headwaters of the [[Tarn]]. This ridgeline partially separates [[Addermarch]] from the [[Darkwood]]. 
 * The ~Tyrwinghan Ridge~, which runs in a north-easterly line, starting north of the [[Tarn]]
 * The ~North Tyrwinghan Ridge~ which is east of the Aure, and runs in a series of lines running north-west from the Tyrwinghan ridge. These peaks are notably gentler than the other ridges, and form less of a barrier to travel.
 * The ~Orlenas Ridge~, which starts south of the [[Latazaro]] swamp and runs almost due east until it grows in the [[~Cymea Border Mountains~]]
@@ -703,8 +703,8 @@ Geographically, the Mostreve Hills are composed of five distinct ridgelines:
 
 [9/10/2024 5:49 PM] .deciusmus
 In between these ridgelines are several major gaps:
-* The [[Aure]] river cuts between the Westcliff and Tyrwinghan ridges, in a broad and relatively fertile river valley
-* The Darkwood creeps north between the Westcliff ridge and the ~Unnamed Aure Headwaters Ridge~, forming a hilly wildland on the southern borders of [[Addermarch]]
+* The [[Aure]] river cuts between the [[Westcliff]] and Tyrwinghan ridges, in a broad and relatively fertile river valley
+* The Darkwood creeps north between the [[Westcliff]] ridge and the ~Unnamed Aure Headwaters Ridge~, forming a hilly wildland on the southern borders of [[Addermarch]]
 * (Something between the Aure Headwaters Ridge and the Tyrwinghan Ridge, on the map at least it looks like it should be a hilly gap, although not sure what is here)
 * Between the ~Tyrwinghan Ridge~ and the ~Orlenas Ridge~ the land is hilly but there are few high ridgelines, and multiple passes cut through the Mostreve HIlls immediately northwest of [[Orenlas]].
 
@@ -974,7 +974,7 @@ So basically, in my "five ridgelines" the big change is really that the "Aure He
 
 
 [9/10/2024 6:27 PM] .deciusmus
-and probably that area - where the ridges intersect - is the highest and roughest terrain east of Westcliff
+and probably that area - where the ridges intersect - is the highest and roughest terrain east of [[Westcliff]]
 
 {Reactions}
 👍
