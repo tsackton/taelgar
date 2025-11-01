@@ -25,5 +25,5 @@ dm_notes: none
 A quick and aerobatic Dunmari woman from Karawa. 
 
 %%^Date:1748-04-03%%
-In April 1748, entered the staff dancing contest prior to the [[Festival of Rebirth]], and won second place, beaten only by [[Kenzo]]. 
+In April 1748, entered the staff dancing contest prior to the [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Festival of Rebirth]], and won second place, beaten only by [[Kenzo]]. 
 %%^End%%

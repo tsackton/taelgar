@@ -36,7 +36,7 @@ A Dunmari sheep herder from the area outside [[Karawa]]. Pastoralist and nomad, 
 ## Chronology
 - (DR:: 1748-03-22): Attacked with his extended family at the [[Gomat]] oasis by enraged giant lizards. One of the few survivors. 
 - (DR:: 1748-03-23): Met the [[Dunmar Fellowship]] (who [[Session 2 (DuFr)|killed the lizards]]) while returning to camp to gather supplies for the ride to [[Karawa]]. They returned his sister's amulet to him (she was killed in the giant lizard attack), helped his family recover, and made a very favorable impression. 
-- (DR:: 1748-03-27): Arrived in [[Karawa]] for the [[Festival of Rebirth]].
+- (DR:: 1748-03-27): Arrived in [[Karawa]] for the [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Festival of Rebirth]].
 - (DR:: 1748-04-07): Leaves [[Karawa]] with Dunmari evacuation
 - (DR:: 1748-04-13): Reaches [[Tokra]]
 - (DR:: 1748-06-08): Leaves [[Tokra]] to return to [[Karawa]]

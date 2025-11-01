@@ -27,13 +27,13 @@ The[[ Dunmar Fellowship]] contemplates mystical visions and participates in a fe
 - The[[ Dunmar Fellowship]] is summoned by [[Candrosa]] to attend a council regarding attacks in the region.
 - [[Kenzo]] shares his vision from [[Dreamweaver Staff|Candrosa's staff]] and mentions the [[Order of the Awakened Soul]], while [[Wellby]] tells [[Ander]]'s story about a demonic infestation at [[Raven's Hold]].
 - At [[Jasu]]'s workshop, [[Seeker]] commissions a chain throwing net and the party inspects magical spearpoints.
-- [[Kenzo]] wins the staff dancing competition, and [[Wellby]] places third in the axebeak riding competition during the festivities leading up to the [[Festival of Rebirth]].
+- [[Kenzo]] wins the staff dancing competition, and [[Wellby]] places third in the axebeak riding competition during the festivities leading up to the [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Festival of Rebirth]].
 - The council decides to evacuate [[Karawa]] due to gnoll attacks, fortify the [[Temple of Shakun]], and seek aid from Dunmar's ruler, Samraat [[Nayan Karnas]], while the party turns north to investigate [[Raven's Hold]].
 
 ### Timeline
 - (DR:: 1748-03-30): Gather information in [[Karawa]]. Speak with [[Jasu]], the smith, about minor magical artifacts.
 - (DR:: 1748-03-31): Gather information in [[Karawa]]. An anonymous benefactor leaves a dwarven book ("[[The Runes of Creation]]") for [[Seeker]] at [[Ikram’s]] caravanserai in [[Karawa]].
-- (DR:: 1748-04-01): In [[Karawa]], the games and festivities leading up to the [[Festival of Rebirth]] begin. [[Seeker]] studies. [[Delwath]] gathers rumors.
+- (DR:: 1748-04-01): In [[Karawa]], the games and festivities leading up to the [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Festival of Rebirth]] begin. [[Seeker]] studies. [[Delwath]] gathers rumors.
 - (DR:: 1748-04-02): [[Kenzo]] wins the staff dancing competition in [[Karawa]]. 
 - (DR:: 1748-04-03): [[Wellby]] places third in the axebeak races in [[Karawa]].
 - (DR:: 1748-04-04), morning: Council meeting is held with [[Havdar]], [[Alesh]], [[Candrosa]], Elder [[Kisa]], [[Suma]], and the [[Dunmar Fellowship]]. Decision made to evacuate [[Karawa]]. [[Alesh]] leaves to scout, a messenger leaves to the Samraat court in [[Nayahar]]. [[Havdar]] starts recruiting warriors who can ride and fight.

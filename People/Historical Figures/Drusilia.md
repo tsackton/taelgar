@@ -17,4 +17,4 @@ dm_notes: important
 
 %% lots of backstory around Fides Lucaris and Occulta Ludum that is not well incorporated into notes %% 
 
-A Drankorian woman, presumably long dead, who at one point lived at the Edge of Echoes.
+A Drankorian woman, presumably long dead, who at one point lived at the [[Edge of Echoes]].

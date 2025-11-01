@@ -14,7 +14,7 @@ It takes a lot of dipping in and out of [[Kharsan]] to get a sense of what is ha
 
 #### Karawa
 
-The monsoon has been good to [[Karawa]], and the rebuilding is in full swing. From your perspective at the oasis, you can see a new caravanserai under construction, close to the open fields used for tents and camps during the [[Festival of Rebirth]], and you can see new date palms beginning to grow around the oasis, the burned husks of the old trees having been cleared away.
+The monsoon has been good to [[Karawa]], and the rebuilding is in full swing. From your perspective at the oasis, you can see a new caravanserai under construction, close to the open fields used for tents and camps during the [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Festival of Rebirth]], and you can see new date palms beginning to grow around the oasis, the burned husks of the old trees having been cleared away.
 
 #### Eudomes' Tower
 
