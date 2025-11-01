@@ -20,9 +20,9 @@ Dunmar is an ancient theocratic monarchy stretching more than 700 miles across t
 
 Dunmar was founded on the territory that was formerly the heartland of the [[Drankorian Empire]], but left largely, although not entirely, empty by the [[First Plague]]. The palace and administrative center of the [[Aatmaji Dynasty]], the founding dynasty of Dunmar, was [[Kharsan]] and the [[Kharja]] river valley. When the [[Aatmaji Dynasty]] was ended after a disastrous attempt to invade and cleanse [[Drankor]], after a short period of chaos, the political and cultural center of the country moved west under the [[Dharajun Dynasty]], to the city of [[Tokra]]. Dunmar reached its peak of power and influence during this time, thanks in part to its agricultural wealth (largely in horses and sheep) and overland trade network connecting the east and west. 
 
-During the [[Great War]], however, Dunmar suffered terribly. The [[Dharajun Dynasty]] was destroyed, many Dunmari died in battle against [[Cha'mutte]]'s armies, and the eastern part of the country was destroyed. After [[Cha'mutte]]'s defeat, the land itself was reshaped: the [[Garamjala Plateau]] and the [[Yuvanti Mountains]] rose violently and suddenly, shifting the course of the [[Istaros|Mahar]] and creating the [[Dunmari Basin]]. Yet the Dunmari survived, and built a new country in the changed land. 
+During the [[Great War]], however, Dunmar suffered terribly. The [[Dharajun Dynasty]] was destroyed, many Dunmari died in battle against [[Cha'mutte]]'s armies, and the eastern part of the country was destroyed. After [[Cha'mutte]]'s defeat, the land itself was reshaped: the [[Garamjala Plateau]] and the [[Yuvanti Mountains]] rose violently and suddenly, shifting the course of the [[Istaros|Mahar]] and creating the [[Hara Basin]]. Yet the Dunmari survived, and built a new country in the changed land. 
 
-Now, Dunmar is culturally divided by the [[Yuvanti Mountains]] and the [[Darba Highlands]]. To the east, the Dunmari who live in the dry, arid grasslands and deserts of the [[Dunmari Basin]] maintain a traditional nomadic way of live, moving with their herds of horses, sheep, and goats across the plains with the seasons, and gathering at temples and religious sites to mark the festivals and turnings of the year. To the west, the people living on the coastal plains and in the river valleys and rolling hills of highlands have adopted a much more sedentary lifestyle, with a much greater focus on permanent agriculture. 
+Now, Dunmar is culturally divided by the [[Yuvanti Mountains]] and the [[Darba Highlands]]. To the east, the Dunmari who live in the dry, arid grasslands and deserts of the [[Hara Basin]] maintain a traditional nomadic way of live, moving with their herds of horses, sheep, and goats across the plains with the seasons, and gathering at temples and religious sites to mark the festivals and turnings of the year. To the west, the people living on the coastal plains and in the river valleys and rolling hills of highlands have adopted a much more sedentary lifestyle, with a much greater focus on permanent agriculture. 
 
 Nonetheless, the Dunmari remain united by their worship of the [[Five Siblings]], the divinities that protect the people, and worship of these deities is a central part of all Dunmari culture and civic life. 
 
@@ -34,13 +34,13 @@ Dunmar is the largest and most significant populated realm in the [[Greater Dunm
 
 On the western coast, the broad, flat [[Nayan Floodplains]] stretch between the [[Yuvanti Mountains]] and the [[Nevos Sea]], a largely flat expanse of subtropical and tropical savannah. Further north, the rocky river valleys of the [[Darba Highlands]] stretch between the northern edge of the [[Yuvanti Mountains]] and the [[Chataan Mountains]]. 
 
-Inland, Dunmar is dominated by the [[Dunmari Basin]], a flat depression surrounded by the [[Copper Hills]], the [[Chataan Mountains]], the [[Myraeni Gap]], the [[Sentinel Range]], and the high interior [[Garamjala Plateau]], now extremely arid and primarily [[Garamjala Desert|desert]].
+Inland, Dunmar is dominated by the [[Hara Basin]], a flat depression surrounded by the [[Copper Hills]], the [[Chataan Mountains]], the [[Myraeni Gap]], the [[Sentinel Range]], and the high interior [[Garamjala Plateau]], now extremely arid and primarily [[Garamjala Desert|desert]].
 
 ### Climate
 
 Dunmar is a subtropical country, with hot, dry winters and hot, humid summers. The climate is strongly shaped by the seasonal monsoon rains, which bring moisture from the [[Nevos Sea]] inland during the summer months, and the [[Yuvanti Mountains]], which create a rain shadow over the Garamajala. 
 
-The [[Nayan Floodplains]] and the [[Darba Highlands]] generally are a subtropical humid monsoon climate, with extensive monsoon rains in June, July, August, and September, although the climate of the Darba Highlands tends to be moderated somewhat by the topography, which brings occasional winter rains off the ocean. The [[Dunmari Basin]] is drier, with less overall rain and a shorter monsoon season. More rain falls in the west and north, and less in the south and east, so the richest grasslands tend to be the northwestern parts of Dunmar. The eastern and southern edges of the country are desert. 
+The [[Nayan Floodplains]] and the [[Darba Highlands]] generally are a subtropical humid monsoon climate, with extensive monsoon rains in June, July, August, and September, although the climate of the Darba Highlands tends to be moderated somewhat by the topography, which brings occasional winter rains off the ocean. The [[Hara Basin]] is drier, with less overall rain and a shorter monsoon season. More rain falls in the west and north, and less in the south and east, so the richest grasslands tend to be the northwestern parts of Dunmar. The eastern and southern edges of the country are desert. 
 
 ### Regions
 
@@ -147,7 +147,7 @@ In general, the practice of magic by those who are not priests or mystai is frow
 
 *See also: [[Dunmari Economy]]*
 
-Dunmar is largely agrarian, with an economy dominated by animal production. Dunmari horses are highly sought after, most notably, but the Dunmari are also known for leather products, wool, hides, and fur. Some seasonal crops are grown in the [[Dunmari Basin]], as well as near the oases of the [[Red Mesa]].
+Dunmar is largely agrarian, with an economy dominated by animal production. Dunmari horses are highly sought after, most notably, but the Dunmari are also known for leather products, wool, hides, and fur. Some seasonal crops are grown in the [[Hara Basin]], as well as near the oases of the [[Red Mesa]].
 
 While historically Dunmar gained much wealth from its central position on trade routes between the east and west, since the [[Great War]] minimal trade, mostly carried by long distance halfling caravans, moves from the [[Green Sea]] to [[Chardon]].  Nonetheless, Dunmar, especially [[Darba]] and [[Songara]], remain important trading centers, with Darba serving as a link between the dwarves of [[Ardith]] and the west, and [[Songara]] retaining its ancient role as an important horse market. [[Askandi]], in the south, is an important center of trade with the dwarves of the [[Yuvanti Mountains]], who trade metal and finished metal products to the Dunmari. 
 

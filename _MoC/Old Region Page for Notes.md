@@ -90,11 +90,11 @@
 
 *Adventures:* Illoria has been at the edge of several Dunmari Frontier adventures, but only two sessions were actually set in the Nevos Sea, and primarily involved traveling to and then through the [[Old Chardon Canal]]. The merfolk arc of the Dunmari Frontier was partially set on the north coast of Apporia.
 
-## 5. [[Dunmari Basin]]
+## 5. [[Hara Basin]]
 
   
 
-*Area:* This region includes the [[Dunmari Basin]], the [[Myraeni Gap]], and the [[Garamjala Desert]] (including the orc kingdom of [[Xurkhaz]]), as well as the ancient city of [[Drankorian Empire|Drankor]] and the [[Sea of Storms]].
+*Area:* This region includes the [[Hara Basin]], the [[Myraeni Gap]], and the [[Garamjala Desert]] (including the orc kingdom of [[Xurkhaz]]), as well as the ancient city of [[Drankorian Empire|Drankor]] and the [[Sea of Storms]].
 
   
 

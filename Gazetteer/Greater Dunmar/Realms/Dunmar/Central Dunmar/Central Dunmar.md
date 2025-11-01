@@ -15,4 +15,4 @@ dm_owner: tim
 
 %% update details of major cities and population patterns, etc %%
 
-A region in Dunmar, largely congruent with the [[Hara Watershed]] and the central region of the [[Dunmari Basin]]. 
+A region in Dunmar, largely congruent with the [[Hara Watershed]] and the central region of the [[Hara Basin]]. 

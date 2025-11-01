@@ -78,7 +78,7 @@ A number of areas in the West Coast are explicitly left open, and may or may not
 
 ## Sentinels
 The [[Sentinel Range|Sentinels]] divide the continent in two, and in general, are the domain of [[Dwarves]] and [[Stoneborn]]. The human cultures that do thrive in the [[Sentinel Range|Sentinels]] and their foothills are mostly defined in the [[#Northern]] section. 
-## [[Dunmari Basin]]
+## [[Hara Basin]]
 
 ### Dunmari
 The [[Dunmar|Dunmari]] culture dominates this region, and are effectively the only humans between the [[Sentinel Range|Sentinels]], the [[Myraeni Gap]], and the [[Desolation of Cha'mutte]]. Although there are some different cultural strands within the Dunmari culture, between the more traditional east and the more sedentary west, at least in 1749 the Dunmari are still a single (mostly) unified culture.
@@ -86,7 +86,7 @@ The [[Dunmar|Dunmari]] culture dominates this region, and are effectively the on
 The Dunmari originated as a unique migration from Hkar, originally to a homeland in the far east (exact location is not canonical). In the years immediately after the fall of Drankor, they travelled west, and somewhere in the [[Istaros Watershed]], split into two groups. One, who continued west, became the modern Dunmari. The other group did not continue west, and presumably returned to their original homeland, although this is not strictly canonical - perhaps they died in the [[~Great Desert~]] or ended up somewhere in the far south or east. 
 
 ##### Historical Note
-The historical cultures that existed in the [[Dunmari Basin]] have largely vanished, between the upheavals of the [[First Plague]] and the [[Great War]], and are not currently defined. 
+The historical cultures that existed in the [[Hara Basin]] have largely vanished, between the upheavals of the [[First Plague]] and the [[Great War]], and are not currently defined. 
 ## Istaros Watershed
 Although the [[Istaros Watershed]] is today mostly a desolate [[Plaguelands]], some important cultural trends emerged from the Istaros, or have developed on the borders.
 ### Aurbez
