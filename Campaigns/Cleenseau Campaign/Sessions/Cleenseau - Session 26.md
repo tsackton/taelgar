@@ -19,7 +19,7 @@ Dramatis Personae:
 Viepuck and Izgil, who have complicated magical theory shit going on  
 Celyn and Robin, who hit things and heal people  
   
-When we left off we had [retrieved an evil sphere and yelled for help answering what to do with it](https://kiya.dreamwidth.org/807914.html).  
+When we left off we had [[~Lich Phylactery~|retrieved an evil sphere]] and yelled for help answering what to do with it.  
   
   
 We are currently probably the second most powerful adventuring party that's in this region. (The third most powerful is working for us.) We are a seventh level party.  
@@ -30,7 +30,7 @@ In any case, they give us our choice of three locations where they could meet us
   
 We immediately eliminate the 'taunt the probable necromancer' option and go for 'shortest time before we hand off the nasty thing', thus aiming into the Old As Balls forest. We (in mild retcon) stash the horses in a less cursed portion of the ruined wizard academy to graze, because they're not going to do any good in that sort of forest and it is more dangerous to bring them than leave them. They are more likely to be okay for a week there than with us, since actual predators can't get in. We head off.  
   
-The forest is a pain in the ass to get a direct route in, due to being overgrown and complicated and not having underbrush die-off and so on, so we pick our way westward steadily but without too much eventfulness. Es*tiaslos does some scouting to try to find more plausible routes, we putter along and eventually find a place to make camp. Carrying the very cursed artifact is very unpleasant, because being near it is like having a constant case of moderate paranoia and being convinced one is being watched/heard/stalked. When we settle down to sleep, Izgil hits it with a dispel to turn it off, which lasts through Robin's watch, more or less; after that people have to make a check against nightmares, and Robin and Viepuck do not sleep well despite the soothing influence of Robin's lantern.  
+The forest is a pain in the ass to get a direct route in, due to being overgrown and complicated and not having underbrush die-off and so on, so we pick our way westward steadily but without too much eventfulness. [[Estiasilos|Es*tiasilos]] does some scouting to try to find more plausible routes, we putter along and eventually find a place to make camp. Carrying the very cursed artifact is very unpleasant, because being near it is like having a constant case of moderate paranoia and being convinced one is being watched/heard/stalked. When we settle down to sleep, Izgil hits it with a dispel to turn it off, which lasts through Robin's watch, more or less; after that people have to make a check against nightmares, and Robin and Viepuck do not sleep well despite the soothing influence of Robin's lantern.  
   
 As Celyn is finishing up his watch, he spots an odd pool of shadow gathering around the box containing the cursed item, and being a moderately impulsive cleric whose primary manifestation of divine power is literal light, he casts light on the box.  
   
@@ -82,24 +82,24 @@ Eventually he makes proper contact with one of them and asks if there's a threat
   
 Problem solved without anything getting stabbed!  
   
-And everyone managed to sleep decently despite the nightmare-in-a-box. We spot the tree in the distance and start aiming that direction, and partway there encounter Raoul the cleric, Leonora the paladin, and the rest of their party. There is some awkward flailing about confirming that everyone is sure they're dealing with the real deal either way, and then Leonora opens up a locket that seems to have a dark void in it, which swallows the evil orb entirely.  
+And everyone managed to sleep decently despite the nightmare-in-a-box. We spot the tree in the distance and start aiming that direction, and partway there encounter [[Raoul]] the cleric, [[Lenora Belles]] the paladin, and the rest of their party. There is some awkward flailing about confirming that everyone is sure they're dealing with the real deal either way, and then [[Lenora Belles|Lenora]] opens up a locket that seems to have a dark void in it, which swallows the evil orb entirely.  
   
 Izgil: Is that... a locket of holding?  
-Leonora: Basically, yes. It doesn't shield the nightmares, though.  
+[[Lenora Belles|Lenora]]: Basically, yes. It doesn't shield the nightmares, though.  
   
 We talk through what to do next. (It does not cover the concerns the party had about the wizard academy, but we can possibly talk to them after this immediate quest pattern is done. From Celyn's perspective those concerns are: 1) does smashing the cursed screaming statues free the souls trapped in them or does it damage those souls irretrievably (which at least puts them out of their misery) and 2) can we fucking do something about the artificial madness room (this is explicitly how he refers to it in my brain) it offends him professionally as a cleric of the god of protection from madness.)  
   
-The high-level party is going to go off and destroy the horcrux items and then go kill the lich who is currently impersonating the king of Sembara. They did not know what the fey were up to, Celyn does the brief professional rundown, it is noted that the Queen of Tyrwingha is currently the heir apparent to the throne of Sembara and if the Gloomshaper wants Tyrwinghan blood to lock open his portal in Sembara the _ruling monarch of Sembara_ would probably be a choice selection for land magic reasons. At least now they know to warn her.  
+The high-level party is going to go off and destroy the horcrux items and then go kill the lich who is currently impersonating the king of Sembara. They did not know what the fey were up to, Celyn does the brief professional rundown, it is noted that [[Elaine II]] is currently the heir apparent to the throne of Sembara and if the [[Umbraeth|Gloomshaper]] wants Tyrwinghan blood to lock open his portal in Sembara the _ruling monarch of Sembara_ would probably be a choice selection for land magic reasons. At least now they know to warn her.  
   
-Viepuck attempts to convince them that someone impersonating the king for a bit would be a good plan. THey are collectively rather horrified, clearly being of the more 'sunlight must expose these shenanigans' bent, and Leonora turns to Robin to say, "You must attend to his moral instruction!" to which Robin replies, a bit tartly, "If you think you can manage it you are _welcome to try_." Because explaining these things to a twelve-year-old with a distinctly chaotic bent is ... not in our wheelhouse, collectively. Leonora allows as how perhaps Viepuck needs to grow up around good examples and backs down.  
+Viepuck attempts to convince them that someone impersonating the king for a bit would be a good plan. THey are collectively rather horrified, clearly being of the more 'sunlight must expose these shenanigans' bent, and [[Lenora Belles|Lenora]] turns to Robin to say, "You must attend to his moral instruction!" to which Robin replies, a bit tartly, "If you think you can manage it you are _welcome to try_." Because explaining these things to a twelve-year-old with a distinctly chaotic bent is ... not in our wheelhouse, collectively. [[Lenora Belles|Lenora]] allows as how perhaps Viepuck needs to grow up around good examples and backs down.  
   
-We seek advice on what to do, and the concerns are either the portal in the Cleenseau Wood or the Baroness who is probably a necromancer. Celyn points out that the Baroness is likely to get news of the lich's death before the Gloomshaper and make trouble, and we remember we have Vahaia (from the third-most-powerful adventuring party) keeping an eye on the portal, so it is generally deemed that that is going to have to wait while the Things Happen Quickly happens, we will help with the Baroness.  
+We seek advice on what to do, and the concerns are either the portal in the Cleenseau Wood or the Baroness who is probably a necromancer. Celyn points out that the Baroness is likely to get news of the lich's death before the [[Umbraeth|Gloomshaper]] and make trouble, and we remember we have [[Vahaiya]] (from the third-most-powerful adventuring party) keeping an eye on the portal, so it is generally deemed that that is going to have to wait while the Things Happen Quickly happens, we will help with the Baroness.  
   
 (These are things that Celyn does for his boyfriend, who is _extremely tired_ of fey bullshit.)  
   
 The big folks note that they are going to a hell-plane to deal with the cursed items, for "the ring must go to Mordor" reasons, and they are concerned that their transit might swap some hell-plane denizens into this plane. Celyn notes that we are unaware of anyone stronger than we are in Aveil; they ask that we therefore stick around when they portal out to be clean-up crew.  
   
-After some discussion, the plan is hatched to teleport to the mining village in the hills aforementioned, travel the rest of the day into the wilderness but also closer to the giant cliff behind Veltor, rest up, and do the portal-swap in the morning. We proceed to do this.  
+After some discussion, the plan is hatched to teleport to [[Beldor]], the mining village in the hills aforementioned, travel the rest of the day into the wilderness but also closer to the giant cliff behind Veltor, rest up, and do the portal-swap in the morning. We proceed to do this.  
   
 Then the Great Planning commences.  
   
@@ -131,6 +131,6 @@ Because we have feather fall, you see.
   
 It saves a day's hike?  
   
-(Viepuck does his usual checkins with people for the rest of the day and determines that the everything is very unsettled because Aveil is usually closely aligned with Wisford for historical reasons, and the Duke of Wisford is leading the resistance to the lich-king fella, and the Baroness is a staunch royalist, and it's just giving everyone issues on top of the, y'know, civil war. We vaguely hatch up a plan to meet up with the bard from the third-most-powerful party and get a rundown on gossip.)  
+(Viepuck does his usual checkins with people for the rest of the day and determines that the everything is very unsettled because Aveil is usually closely aligned with Wisford for historical reasons, and the Duke of Wisford is leading the resistance to the lich-king fella, and the Baroness is a staunch royalist, and it's just giving everyone issues on top of the, y'know, civil war. We vaguely hatch up a plan to meet up with [[Damien Montrichard]] from the third-most-powerful party and get a rundown on gossip.)  
   
-(I have developed a theory that apparently Robin and Celyn are sharing crits and it's my turn to get to have some now, [![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://arcadinal.dreamwidth.org/profile)[**arcadinal**](https://arcadinal.dreamwidth.org/) was frustrated by his rolls today.)
+(I have developed a theory that apparently Robin and Celyn are sharing crits and it's my turn to get to have some now, Robin was frustrated by his rolls today.)
