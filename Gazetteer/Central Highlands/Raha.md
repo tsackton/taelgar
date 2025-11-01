@@ -4,7 +4,7 @@ tags: [status/needswork/old, place]
 typeOf: settlement
 typeOfAlias: village
 ancestry: Deno'qai
-whereabouts: Central Highlands
+whereabouts: Highveil Forest
 dm_notes: color
 dm_owner: tim
 ---

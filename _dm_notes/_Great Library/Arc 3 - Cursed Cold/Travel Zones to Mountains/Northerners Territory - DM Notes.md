@@ -7,7 +7,7 @@ Izkir
  
 (female)  
 Hezra (NPC scout)  
-Loma  
+[[Loma]]  
 Shuda
  
 Play like Germanic tribes -- hidden villages in the woods, secret paths.

@@ -38,7 +38,7 @@ The adventurers face unexpected dangers on the road, and encounter zombies in [[
 - **Marshal [[Hildo Brask]]** – second-in-command of [[Torvaine Watch]] (missing)    
 ## Places
 
-- **[[Valcroix]]** – riverside town at the confluence of the [[~Aure West Fork~]] and the [[Umber]], starting point of the journey
+- **[[Valcroix]]** – riverside town at the confluence of the [[Velan]] and the [[Umber]], starting point of the journey
 - **[[Roscombe]]** – trade city and destination of the caravan
 - **[[Torvaine Forest]]** – upland woodland through which the road climbs
 - **[[Torvaine Watch]]** – hilltop garrison/keep now overrun by undead 

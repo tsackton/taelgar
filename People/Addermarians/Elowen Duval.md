@@ -29,7 +29,7 @@ pronunciation: EL-oh-wen doo-VAL
 
 Elowen Duval is the castellan of [[Roscombe]], overseeing the isolated uplands of [[Carlinshire]] with measured resolve.
 ## Overview
-Lady Elowen Duval governs [[Roscombe]] and its surrounding hinterlands, coordinating defense, trade, and relief for outlying farms and hamlets. She favors reliable agents and public support for those who safeguard the marches, using targeted commissions to stabilize the frontier. Though formally sworn to the lord of [[Carlinshire]] and the [[Earl of Westcliff]], Roscombe often skipped during the earl's circuits due to its isolation. 
+Lady Elowen Duval governs [[Roscombe]] and its surrounding hinterlands, coordinating defense, trade, and relief for outlying farms and hamlets. She favors reliable agents and public support for those who safeguard the marches, using targeted commissions to stabilize the frontier. Though formally sworn to the lord of [[Carlinshire]] and the Earl of Westcliff, Roscombe often skipped during the earl's circuits due to its isolation. 
 
 ## Events
 - (DR:: 1715-05-01): Received a report on [[Torvaine Watch]]; commissioned further investigation and urged consultation with [[Owen Tavish]].

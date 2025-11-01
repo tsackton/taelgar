@@ -60,6 +60,15 @@ class DateManager {
             useDR = false;
         }
 
+        // Determine page type (when available) to avoid misclassifying non-events as ended when only DR is present
+        let pageType = "unknown";
+        try {
+            const { NameManager } = customJS;
+            pageType = NameManager.getPageType(metadata) ?? "unknown";
+        } catch (e) {
+            // If NameManager isn't available in this context, fall back to generic behavior
+        }
+
         if (metadata.born) {
             status.startDate = this.normalizeDate(metadata.born, false);
         } else if (metadata.created) {
@@ -75,7 +84,9 @@ class DateManager {
         } else if ("DR_end" in metadata && useDR) {
             // this is to allow a blank DR_end to mean "unknown"
             if (metadata.DR_end) status.endDate = this.normalizeDate(metadata.DR_end, true);
-        } else if (metadata.DR && useDR) {
+        } else if (metadata.DR && useDR && pageType == "event") {
+            // Only treat a lone DR as an end date for event-type pages.
+            // For people/places/organizations, a single DR should not imply the page has ended.
             status.endDate = this.normalizeDate(metadata.DR, true);
         }
 

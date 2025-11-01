@@ -4,7 +4,7 @@ whereabouts: Elderwood
 displayDefaults: {defArt: ""}
 typeOf: settlement
 typeOfAlias: village
-tags: [place, status/stub, status/check/ai]
+tags: [place, status/stub]
 aliases: [Te'kula village]
 dm_owner: tim
 dm_notes: important
