@@ -4,7 +4,7 @@ Caradoc has recently had word spread among the taverns in Addermarch that he is 
 
 Roscombe is a town in the lightly populated northwestern highlands of Addermarch, about 50 miles from the crossroads at Valcroix. This is hilly forests and mountains, much less settled than the prosperous Aben river valley, where people scratch out a living from the hard land. 
 
-The road, more of a cart track really, follows the relatively lower Umber for the first 15 miles or so (15.5 exactly), passing along small villages. It enters Torvaine Forest as it turns south, away from the Umber, and ascends the gentle wooded slopes for another 15 or so miles (16.5 exactly), before passing Torvaine Watch, a small keep and toll gate on the road that guards the valley. 
+The road, more of a cart track really, follows the relatively lower Umber for the first 15 miles or so (15.5 exactly), passing along small villages. It enters [[Torvaine Forest]] as it turns south, away from the Umber, and ascends the gentle wooded slopes for another 15 or so miles (16.5 exactly), before passing Torvaine Watch, a small keep and toll gate on the road that guards the valley. 
 
 From Torvaine watch, continues another 17 miles before emerging from the forest in a high-elevation valley, and crosses the Dunburn at a ford, and continues another 3 miles to Roscombe. 
 

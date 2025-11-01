@@ -42,7 +42,7 @@ Tairneach, TAR-nekh, named for its association with thunder, hinting at a place 
 
 (USED) ~~Torvaine, TOR-vayn, derived from a rocky hill and slope, indicating a village nestled on or near a prominent incline~~
 
-(USED) ~~Tygate, TY-gayt, named for a dwelling near a prominent road or entrance (with contributions from Old English and Norse influences)~~
+(USED) ~~[[Tygate]], TY-gayt, named for a dwelling near a prominent road or entrance (with contributions from Old English and Norse influences)~~
 
 ## French
 

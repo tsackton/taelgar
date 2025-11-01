@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/check/ai]
+tags: [place, status/check/mike]
 campaignInfo:
 name: Barony of Vaubonne
 typeOf: barony
@@ -22,17 +22,8 @@ Should have a "fortified frontier" vibe in some places, although the details are
 Came up in game only so far as to be mentioned as a place a small group of soldiers wandered through, somewhat lost
 
 The [[Timeline of Sembaran History]] hints at some of the events here during the Shattered Ice time; the main thing is that the Shattered Ice Clan conquered this land as settlers during the period between the 2nd and 3rd hobgoblin wars, and then brutalized it during the 3rd hobgoblin war. 
+
+tagged status/check/mike as it feels there are vibes not captured below, but hard to tell. i don't have a clear mental picture of any of the borderlands, really. 
 %%
 
-Vaubonne occupies a rugged tract of western Sembara, its ridges and deep valleys creating a patchwork of fortified villages and narrow passes. The barony as it stands today is a refoundation over older holdings that were disrupted and reshaped in the era of the [[Shattered Ice Clan]].
-
-## Landscape and Roads
-Routes thread through cuttings and over old stone arches; way‑hamlets provide fresh teams for wagons tackling steep grades. Mixed woods and scattered moorland dominate the interlocking valleys.
-
-## History
-Settled, conquered, and reclaimed across the Hobgoblin Wars, Vaubonne’s boundaries and fealties shifted repeatedly. The present line dates to post‑war reorganization, with strong ties to the western army districts.
-
-%%
-DM notes
-- Use the Shattered Ice history from the timeline as the primary historical frame; draw on “fortified frontier” tone for encounters and politics.
-%%
+The Barony of Vaubonne occupies a rugged tract of southern Sembara, in the rugged terrain between the [[Enst]] valley to the north and the [[Mostreve Hills]] to the south. Its forested ridges and deep valleys create a patchwork of fortified villages and narrow passes; navigation here is hard, and travel is difficult. 
