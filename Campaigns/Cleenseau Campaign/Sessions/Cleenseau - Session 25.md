@@ -26,11 +26,11 @@ When we left off we had [done a bit of cleanup in Peydon](https://kiya.dreamwid
   
 In the morning, we dodged the Baroness's messenger who had the proclamation that the people who had been heroically going around and killing evil fey should go to the capital for their just rewards so they don't know we got the message for certain, and wandered off into the hills to meet with Raoul, the terrifyingly powerful cleric of the goddess of You Put That Undead Back Down Where You Got It Or So Help Me I Will.  
   
-We found Raoul and his two large, alarming bodyguards. Raoul hopes that our time dealing with the troubles in Avail has not been lastingly traumatic; Robin says, "Unfortunately, it has," which the cleric did not appear to know what to do with other than apologize for asking us to deal with more of them.  
+We found Raoul and his two large, alarming bodyguards: the broad-shouldered peasant [[Julien Marteau]] and the exotic, hawk-eyed [[Sveta Dragunov]]. Raoul hopes that our time dealing with the troubles in Avail has not been lastingly traumatic; Robin says, "Unfortunately, it has," which the cleric did not appear to know what to do with other than apologize for asking us to deal with more of them.  
   
 Raoul casts a spell and a small temple appears which is, alas, not the rumored missing temple ruin in the vicinity. (Me: Ah! The [Night Queen's Tiny Temple](https://www.dndbeyond.com/spells/2619013-leomunds-tiny-hut).) This is the Tiny Temple upgraded version that blocks scrying, so the party and Raoul pile in to talk and leave the bodyguards outside.  
   
-Raoul has an explanation for a bunch of things: King Robert is dead. The King has been dead for _four years_, and has been replaced by a lich named something like Malik. The lich has, in theory, cast two nation-spanning spells, one to notify him whenever he hears people talking about himself, and one to cause the undead waves. Raoul thinks the eavesdropping spell is powerful enough to catch even people using magical/telepathic communication, as one of the clerics who was executed (for being framed for necromantic treason) was careful about speech but used the Sending spell extensively.  
+Raoul has an explanation for a bunch of things: King Robert is dead. The King has been dead for _four years_, and has been replaced by a lich named [[Malach]]. The lich has, in theory, cast two nation-spanning spells, one to notify him whenever he hears people talking about himself, and one to cause the undead waves. Raoul thinks the eavesdropping spell is powerful enough to catch even people using magical/telepathic communication, as one of the clerics who was executed (for being framed for necromantic treason) was careful about speech but used the Sending spell extensively.  
   
 Viepuck promptly develops a habit of referring to this entity as "Bobby", not merely to be annoying to nobility but also to be annoying to nobility.  
   
@@ -46,7 +46,7 @@ On the walk, Izgil does a lot of poking at his two rings to try to figure out ho
   
 When he checks in with the barkeep a day or two later he gets a message that the guards came through looking for "Timmy" (his alias) because they thought he might be in danger, but there was no interesting drama. So he used the locket to say "The guards left last night? I just came in for breakfast?" in order to perpetuate further fuckery.  
   
-Anyway. We reached the ruin where we believed (due to both theory and Izgil's magic) that the floating orb we were searching for was located, that being the ruin the baroness had been visiting and had drawings of and so on. This was, apparently, an old wizard academy; what was a lovely planned monastic/scholarly community once upon a time was now a massive ruin with an evil cloud over its sky.  
+Anyway. We reached the ruin where we believed (due to both theory and Izgil's magic) that the floating orb we were searching for was located, that being the ruin the baroness had been visiting and had drawings of and so on. This was, apparently, the old wizard academy of [[Tharwa Fea]]; what was a lovely planned monastic/scholarly community once upon a time was now a massive ruin with an evil cloud over its sky.  
   
 (Human prejudice on this is roughly coming down on the side of "The wizards went off to wizard and look, wizarding happened, at least it's not sufficiently fucked as to cause a _nation-spanning magical plague_ this time.")  
   
@@ -74,7 +74,7 @@ Viepuck eventually answers the door that he's trying to help his friends, the pe
   
 Meanwhile we have stared at the ruins. The nice townhouses are wrecked to either side. The temple-like building with the dome that is spewing evil black cloud is before us - round, four doors spaced at the quarters, and with alarming statues of tormented people on its roof. Viepuck blasts a statue, and we see movement. Viepuck interrogates another statue and only gets screaming as an answer. We are all quite disturbed. (Well, that happened.) Robin is extremely upset and wants us to smash all the statues; we are not sure whether or not that actually releases the possible tormented spirits and decide eventually to consult Raoul.  
   
-We open the door to the dome. Inside we see a floating orb (such as the one we are looking for) surrounded by an honor guard of twelve ghosts. Two ghosts detach to come attack us. We close the door (and fight the two). When we open the door again, we find that there is an honor guard of twelve ghosts. We decide to stop closing the door.  
+We open the door to the dome. Inside we see a floating orb ([[~lich phylactery~]], such as the one we are looking for) surrounded by an honor guard of twelve ghosts. Two ghosts detach to come attack us. We close the door (and fight the two). When we open the door again, we find that there is an honor guard of twelve ghosts. We decide to stop closing the door.  
   
 Izgil decides to drop a blast of light in the room to see if he can clear out the ghosts, but they are rather dextrous ghosts apparently and many of them take half-damage. Celyn thinks he sees the light shimmer through the orb and is perplexed. We learn to our general annoyance that the damage the ghosts do is difficult to heal without a long rest, though the ghosts go down fairly quickly.  
   
@@ -126,4 +126,4 @@ I will note, as a player aside, that Robin has a habit of rolling flashy critica
   
 (I then proceeded to take a photo of the dice and send [![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://arcadinal.dreamwidth.org/profile)[**arcadinal**](https://arcadinal.dreamwidth.org/) a message reading "I rolled a crit for you".)  
   
-Anyway, that ended the fight, and we retreated from the cursed compound though we did grab a couple of cloaks off the statues on the way out. We have now contacted Raoul to say, "OKAY NOW WHAT," and that is where we end.
+Anyway, that ended the fight, and we retreated from the cursed compound though we did grab a couple of cloaks off the statues on the way out. We have now contacted [[Raoul]] to say, "OKAY NOW WHAT," and that is where we end.
