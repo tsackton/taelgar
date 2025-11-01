@@ -24,30 +24,6 @@ The party navigates increasing paranoia and complex negotiations in Veltor.
 
 ## Timeline
 
-- **(DR:: 1720-03-19) to (DR:: 1720-03-21):** Events in Veltor
-
-## Cast of Characters
-
-- **[[Robin of Abenfyrd]]** – paladin
-- **[[Viepuck]]** – warlock
-- **[[Celyn]]** – rogue/cleric
-- **[[Izgil Moonseeker]]** – dwarf
-
-## Places
-
-- **[[Veltor]]** – location
-
-## Narrative
-> [!info] Three Lunatics and a Paladin: negotiation, infiltration, and rising paranoia in Veltor
-> *Featuring: [[Robin]], [[Viepuck]], [[Celyn]], [[Izgil]]*
-> *In Taelgar: March 19th – 21st (7 Robert I / DR 1720)*
-> *On Earth: September 7th, 2025*
-> *The [[Granite Mug]], [[Golden Quill]], and [[Veltor]]*
-
-Three lunatics and a paladin!
-
-## Timeline
-
 - **March 19 (predawn–morning):** Feather fall descent near [[Veltor]] and oath negotiations invoking a miracle of truth telling by [[Marian]]; careful phrasing around necromancy.
 - **March 19 (day):** Rumor-gathering at the [[Granite Mug]]; clothing discourse with the [[Merriweathers]]; alarm after mention of pact with [[Areschera|a fairy]].
 - **March 19 (late night):** [[Viepuck]]’s urchin infiltration and disappearance triggers search; [[Etienne]] later jailed.
@@ -100,7 +76,7 @@ It is worth noting that the party is known to have done three things with magic 
   
 Nobody who knows us _really_ wants us to not do these things. (Particularly #1 and #3.)  
   
-So: someone sends up to the Warlord temple to bring down [[Marian]], the senior person who can call upon miracles, to interrogate us about our intentions. [[Robin]] of course immediately says something to the effect of, "Look, we've been summoned here, but if I can't go into the city without committing to break my vows as a knight if I encounter people in need of my strength I guess we're staying out here."  
+So: someone sends up to the Warlord temple to bring down [[Marian]], the senior person who can call upon miracles, to interrogate us about our intentions. The runner ([[Alric Veillon]]) arrives a bit breathless. [[Robin]] of course immediately says something to the effect of, "Look, we've been summoned here, but if I can't go into the city without committing to break my vows as a knight if I encounter people in need of my strength I guess we're staying out here."  
   
 Now, [[Marian]] is a reasonable cleric who understands the value of the aforementioned #1 and #3 so there is an extended negotiation in which we commit to not using magic inside the city unless it is necessary for, you know, defense of the people, and swear according to powers that she accepts as legitimate ([[Robin]] on [[The Wanderer]], [[Celyn]] on [[The Wyrdling]]'s chance and fate, [[Izgil]] on the [[Baharazel]], and I ... forget how [[Viepuck]] managed to finesse his nonsense). Then we have to swear that we haven't encountered necromantic stuff in the last week, which is complicated!  
   
@@ -118,9 +94,9 @@ One of whom - the [[Pierre the Guard|dwarf fanboy]] - spots us, squeaks an, "I k
   
 ETA: [[Viepuck]] does make a point of noting that normally in an inn he would put on a show but since he can't use his illusion spells right now he is tragically unable to do this thing.  
   
-We do various planning and drift over to knock on the [[Merriweathers]]' door, as while they're usually open in the afternoon they are known to occasionally respond when people knock. We encounter one of them hanging out watching the activity in the square on the way and promptly fall into a conversation about clothes. ([[Robin]]: heavy armor, clothes not visible/relevant. [[Izgil]]: dresses as well-off merchant class. [[Viepuck]] the not-very-former-street-rat: deemed to be a sensible size by a halfling tailor. [[Celyn]], who dresses like a well-off peasant: "We can probably help you.")  
+We do various planning and drift over to knock on the [[Merriweathers]]' door, as while they're usually open in the afternoon they are known to occasionally respond when people knock. We encounter one of them ([[Primrose Merriweather]]) hanging out watching the activity in the square on the way and promptly fall into a conversation about clothes. ([[Robin]]: heavy armor, clothes not visible/relevant. [[Izgil]]: dresses as well-off merchant class. [[Viepuck]] the not-very-former-street-rat: deemed to be a sensible size by a halfling tailor. [[Celyn]], who dresses like a well-off peasant: "We can probably help you.")  
   
-At which point, [[Celyn]] launches into an extremely well-informed and clearly conscious commentary on clothing, class, the implications of wearing particular clothing, the messages conveyed thereby, and so on— a topic he has been discussing with [[Viepuck]] on and off because he feels that [[Viepuck]] as a grifter should have solid understanding of how to construct an outfit for effect rather than merely copying off people with the right vibe. [[Viepuck]], as a former tailor's apprentice, also has things to talk about regarding construction, and [[Izgil]] as a former merchant has thoughts about clothing as well, so the three of them and the two halflings talk shop for several hours. ([[Celyn]] at one point checks in with [[Robin]] about whether or not he wants to be included in the talking shop, but [[Robin]] demurs.)  
+At which point, [[Celyn]] launches into an extremely well-informed and clearly conscious commentary on clothing, class, the implications of wearing particular clothing, the messages conveyed thereby, and so on— a topic he has been discussing with [[Viepuck]] on and off because he feels that [[Viepuck]] as a grifter should have solid understanding of how to construct an outfit for effect rather than merely copying off people with the right vibe. [[Viepuck]], as a former tailor's apprentice, also has things to talk about regarding construction, and [[Izgil]] as a former merchant has thoughts about clothing as well, so the three of them and the two halflings (Primrose and her quiet brother [[Corrin Merriweather]]) talk shop for several hours. ([[Celyn]] at one point checks in with [[Robin]] about whether or not he wants to be included in the talking shop, but [[Robin]] demurs.)  
   
 (I am eternally amused that [[Celyn]] dresses to give the impression that he's a well-off peasant _extremely intentionally_, and I am glad it came out so overtly for once. The reasons are not _just_ that he's actually very class conscious _and is a well-off peasant damnit_, but they do include that.)  
   
@@ -132,7 +108,7 @@ Amongst the intel we collect in here is that it is generally put around that [[A
   
 Eventually we repair to our rooms in the [[Granite Mug]], and everyone goes to bed, with the information that [[Etienne]] will come chat with us over breakfast, and [[Isabeau D'Aslain|the Baroness]] expects to see us the day after tomorrow. Only [[Viepuck]] decides to carry on his efforts to Troll The Everliving Fuck Out Of [[Isabeau D'Aslain|the Baroness]], sneaks out of town, disguises himself as a younger, more bedraggled urchin, and reports to the gate that he was told to deliver something to [[Isabeau D'Aslain|the Baroness]] in the middle of the night.  
   
-The gate guard gets [[Etienne]], who does a perfunctory 'swear to not do magic' thing, takes the fake necklace that [[Viepuck]] had had [[Izgil]] make out of stuff we had lying around the party, goes, "This isn't what I was told to get, but okay, we'll see" and stashes the urchin in the keep. [[Viepuck]] as the urchin proceeds to explain to everyone awake around him that he's scared and hungry, gets taken to the mess hall, and ducks out when the middle of the night crew is looking the other way.  
+The gate guard ([[Marius]]) gets [[Etienne]], who does a perfunctory 'swear to not do magic' thing, takes the fake necklace that [[Viepuck]] had had [[Izgil]] make out of stuff we had lying around the party, goes, "This isn't what I was told to get, but okay, we'll see" and stashes the urchin in the keep. [[Viepuck]] as the urchin proceeds to explain to everyone awake around him that he's scared and hungry, gets taken to the mess hall (where night staffer [[Hesta Brill]] feeds him), and ducks out when the middle of the night crew is looking the other way.  
   
 Which absolutely sets the cat among the pigeons.  
   
