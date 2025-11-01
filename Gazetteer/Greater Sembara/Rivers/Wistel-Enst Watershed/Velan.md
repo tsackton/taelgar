@@ -8,7 +8,7 @@ whereabouts:
 typeOf: waterway
 typeOfAlias: river
 dm_notes: none
-dm_owner: none
+dm_owner: tim
 ---
 # The Velan
 >[!info]+ Information  
@@ -21,6 +21,6 @@ Seasonal rains and snowmelt swell the channel in late spring; in drier months th
 
 %%
 
-river that runs from Westcliff north and then turning south to join the Aure near Adderfell; near the main action in addermarch campaign and have some future ideas for dungeons to set here but nothing well-formed yet
+This river is near the main action in Addermarch campaign and I have some future ideas for dungeons to set here but nothing well-formed yet
 
 %%
