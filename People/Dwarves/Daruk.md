@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/cleanup/campaigninfo]
-campaignInfo:
+tags: [person, historical]
+campaignInfo: [{campaign: DuFr, type: mentioned to, date: 1748-06-22, wParty: "<met:U> <person> on <target>"}]
 name: Daruk
 born: 1323
 species: dwarf
@@ -13,10 +13,11 @@ dm_owner: tim
 dm_notes: important
 ---
 # Daruk
->[!info]+ Biographical Info
-> A [[Dwarves|dwarf]] (he/him), of the [[Runecrafter Thuhr]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Biographical Info  
+> A [[Dwarf|dwarf]] (he/him), of the [[Runecrafter Thuhr]]  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> %%^Campaign:DuFr%% Mentioned to the [[Dunmar Fellowship]] on June 22th, 1748 %%^End%%
 
 %%another note where it might be nice to track knowledge/rumors/awareness but not actual meeting%%
 
@@ -25,4 +26,3 @@ A dwarven scholar, who lived and died before the [[Great War]], and was fascinat
 %%^Campaign:DuFr%%
 [[Agata]], while pretending to be the fey creature [[Typhina]] whiled trapped in the [[Ring of the Warded Mind]], claimed that Daruk created the [[Ring of the Warded Mind]] and gifted it to [[Typhina]] as a present for her aid in helping him understand the nature of the magic of the [[Heartwood Grove]]. But whether there is any truth to this story, no one knows. 
 %%^End%%
-

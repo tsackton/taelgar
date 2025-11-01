@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/campaigninfo]
+tags: [person]
+campaignInfo: [{campaign: DuFr, type: attended her funeral, date: 1748-05-05, wParty: "<person:U> <met:U> on <target>"}]
 name: Camana
 born: 1721
 species: human
@@ -15,11 +16,12 @@ dm_owner: none
 dm_notes: color
 ---
 # Camana
->[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>[!info]+ Biographical Info  
+> A [[Dunmari]] [[Humans|human]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:DuFr%% The [[Dunmar Fellowship]] attended her funeral on May 5th, 1748 %%^End%%
 
 %% need to decide how to track campaign info for people party heard of but never met%%
 
