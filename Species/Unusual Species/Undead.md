@@ -15,6 +15,8 @@ A *major* distinction with important metaphysical implications is between the th
 - incorporeal undead (e.g., specters, wraiths, ghosts, etc), these are by definition the trapped souls of things that died but are prevented from leaving to the [[Land of the Dead]]. often created by more powerful undead when they kill something. 
 - sentient undead or powerful undead or whatever - don't have a good name. mummy lords, liches, vampires, Grash, this kind of thing. these are usually the result of someone who make a conscious choice to work to become undead and so never actually "died", just passed from life to undeath. vampires sometimes a bit different, but vibe is there. note these are essentially all corporeal undead. it is not obvious if it is possible to willingly become through some arcane transformation a ghost, and there aren't really traditional high-CR incorporeal undead. 
 
+(note added Oct 2025: vampires are cool villains but otherwise don't easily fit into this typology; only vampire canonically introduced in game is tied to ursk, which opens possibility of a very different metaphysics related to unique urskan magic)
+
 this, i think, roughly follows standard D&D lore and is also influenced by Flee, Mortals. 
 
 in practice, i tend to think of incorporeal undead as being associated with curses, violent deaths, etc. the plague hauntings are mostly all incorporeal undead, for example. the lesser corporeal undead tend to serve a master, although this isn't universal. 
