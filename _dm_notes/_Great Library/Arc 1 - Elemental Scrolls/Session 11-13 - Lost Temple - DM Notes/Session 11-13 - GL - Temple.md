@@ -20,7 +20,7 @@ Return to tavern -- message from Lyra: *At start of session 10, Lyra will have l
 
 ## Finding Info
 
-1. Galius Filuso:
+1. [[Galius Filuso]]:
  
 Innkeeper or Archivist Lyra can introduce. If they offer him funds/information he can reveal location of temple, but will be a bit skeptical unless good persuasion roll / convincing argument / bribery. Mention of Xameia by name will help/hurt - convince interest is real, worry about context
  
@@ -54,8 +54,8 @@ _Knowing you need to find someone willing and able to cast a Hallow spell to rem
  
 **Errands in town**
 
-1. Get items identified - will cost 50 gp per item for identify spell; **make up a name** for a wizard, who will note the history and tell them about Galius Filuso.
-2. Find someone to cast Hallow. This could be Galius Filuso, who will be interested and only request the return of the temple silver (will tell them to keep magic items), plus 1500 gp (for material components and other costs for restorting temple)
+1. Get items identified - will cost 50 gp per item for identify spell; **make up a name** for a wizard, who will note the history and tell them about [[Galius Filuso]].
+2. Find someone to cast Hallow. This could be [[Galius Filuso]], who will be interested and only request the return of the temple silver (will tell them to keep magic items), plus 1500 gp (for material components and other costs for restorting temple)
  
 **Other events in town**
 
@@ -64,7 +64,7 @@ _Knowing you need to find someone willing and able to cast a Hallow spell to rem
  
 **Back at the Temple**
 
-1. First they will have opportunity to search the temple again, with some guidance from Galius Filuso.
+1. First they will have opportunity to search the temple again, with some guidance from [[Galius Filuso]].
 2. Also will have an opportunity to set some defenses
 3. Three battles:
     1. Will need to reclear crypt of some minor demons

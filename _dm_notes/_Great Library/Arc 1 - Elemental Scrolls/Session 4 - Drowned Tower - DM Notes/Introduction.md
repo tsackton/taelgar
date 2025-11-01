@@ -2,9 +2,9 @@
  
 _It has been a week since your trip to the Pietravola Abby, and things have been quiet in Voltara. A few days ago, several large caravans arrived, coming north with the spring, which provided some moments of interest, but otherwise you have been sitting idle. So it is with some interest that you see Archivist Lyra glides into the room while you are eating dinner in the common room of [[the Purple Pig]]. She approaches your table, and says: "I guess you have not been totally useless. The books and letters you recovered from the Pietravola Abby have been quite informative._
  
-_We have learned more about Mistspeaker Airon. We now guess that the Mistspeaker was not able to hide the final two scrolls in places of safety before he disappeared during the chaos of the Blood Years and the Great War. So it is possible that the Skyborn Scroll and the Deepwater Scroll are still at or near their places of creation._
+_We have learned more about Mistspeaker Airon. We now guess that the Mistspeaker was not able to hide the final two scrolls in places of safety before he disappeared during the chaos of the Blood Years and the Great War. So it is possible that the Skyborn Scroll and the [[Deepwater Scroll]] are still at or near their places of creation._
  
-_It seems that Mistspeaker Airon was keenly interested in places where the boundary between our world and the Elemental Planes is thin. His Elemental work uses these weak spots to create powerful magic, as we are starting to learn from the scrolls you have recovered. We have found a letter that hints at a place where the Elemental Plane of Water is close to ours. This is a good place to begin your search for the Deepwater scroll."_
+_It seems that Mistspeaker Airon was keenly interested in places where the boundary between our world and the Elemental Planes is thin. His Elemental work uses these weak spots to create powerful magic, as we are starting to learn from the scrolls you have recovered. We have found a letter that hints at a place where the Elemental Plane of Water is close to ours. This is a good place to begin your search for the [[Deepwater scroll]]."_
  
 _She hands you a piece of parchment. "Here, read, and prepare for another journey."_
    

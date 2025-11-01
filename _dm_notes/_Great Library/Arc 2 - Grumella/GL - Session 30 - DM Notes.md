@@ -66,7 +66,7 @@ He will be pacing back and forth, worried, when they arrive.
 Has received a demand from Grumella. "Turn over the foul creatures that have antagonized me at every turn, or the Moon Skull will turn our wrath on the people of Voltara. The so-called heroes Aglath, Adrik, Aelar, Samso, and Brelith must be brought, unarmed and bound, to the Crystal Chasm Caves north of your town. My emissaries will await your delivery for two weeks. If you do not deliver, our wrath will follow, and blood and death at our hands. This I, Grumella the Vengeful, swear will be done."
  
 The proconsul will turn to them:  
-"The Great Library clearly sees your value, and the priest Galius Filuso has spoken on your behalf as well. But others would have you condemned to save us from war. I acknowledge your worth to this city, but must look to my people first. What do you have to say for yourselves? What would you have me do?"
+"The Great Library clearly sees your value, and the priest [[Galius Filuso]] has spoken on your behalf as well. But others would have you condemned to save us from war. I acknowledge your worth to this city, but must look to my people first. What do you have to say for yourselves? What would you have me do?"
  
 Let them talk. See what they propose.
 

@@ -41,7 +41,7 @@ The centaurs, numbering about 50 strong calvary. Commander: Aris, a young but st
 
 The dwarven guard, just arrived, numbering 400 soldiers, led by Orin Strongaxe, an older cousin of Brelith's and a seasoned commander.
 
-Galius Filuso, representing the Order of Twilight and speaking for the Mos Numena establishment. He is the
+[[Galius Filuso]], representing the Order of Twilight and speaking for the Mos Numena establishment. He is the
 
 Meerengesha of Sumana, the Djinni
 

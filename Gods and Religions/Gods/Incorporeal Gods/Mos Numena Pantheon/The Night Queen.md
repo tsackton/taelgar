@@ -32,7 +32,7 @@ The Temple of the Order of the Twilight:
 
 Session 9 started 4 days after the centaurs; during session 9 they traveled 5 days west, spend 1 day fighting, and traveled 5 days back to Voltara, so it is now 16 days since the centaurs (at the start of session 10).
 
-Backstory: the Order of Twilight was a monastic order of healers and hospice care associated with the Night Queen. They were particularly prevalent in Amani, and were thus heavily impacted by the Blood Years. However, a few small pockets of members survived and the Order is now growing again. Galius Filuso has been scouting, recruiting, and looking for lost Order sites in the North for a while.
+Backstory: the Order of Twilight was a monastic order of healers and hospice care associated with the Night Queen. They were particularly prevalent in Amani, and were thus heavily impacted by the Blood Years. However, a few small pockets of members survived and the Order is now growing again. [[Galius Filuso]] has been scouting, recruiting, and looking for lost Order sites in the North for a while.
 
 
 Xameia: paladin of the Night Queen who betrayed the Order of Twilight, details in Great Library campaign
@@ -40,14 +40,14 @@ Xameia: paladin of the Night Queen who betrayed the Order of Twilight, details i
 Xameia the Forsworn will not be satisfied until restitution is made for her sins. 
 There are a bunch of options for this:
 
-1. If the party donates 2,000 gp to Galius Filuso, or to the Night Queen, making it clear this is to help restore the Order of Twilight, Xameia can rest
+1. If the party donates 2,000 gp to [[Galius Filuso]], or to the Night Queen, making it clear this is to help restore the Order of Twilight, Xameia can rest
 2. If they find the desecrated monastery of the Order of Twilight which was the scene of the demon battle, clear the demons, and pay for the casting of a Hallow spell (1000 gp material components, 300 gp donation to a priest to cast it), that will also satisfy Xameia and let her rest.
-3. If they make a donation to the Night Queen / Galius Filuso but it isn't 2000 gp, may add a quest in addition
+3. If they make a donation to the Night Queen / [[Galius Filuso]] but it isn't 2000 gp, may add a quest in addition
 4. They could come up with something else, but in general should cost between 1000 and 2000 gp, with amounts on the lower end resulting in also needing some kind of quest / task
 
 If they don't complete this in 30 days, they will start to have nightmares of Xameia. Get about a week of leeway where the only real penalty is loss of downtime, then escalate. Next week is Wisdom saving throws to avoid exhaustion, and the following week Xameia appears to fight them.
 
-Once this is complete, they will have gained an ally in Galius Filuso and the priests of the Night Queen / Order of Twilight, who can speak on their behalf with the Proconsul.
+Once this is complete, they will have gained an ally in [[Galius Filuso]] and the priests of the Night Queen / Order of Twilight, who can speak on their behalf with the Proconsul.
 
 Seems to be part of name, and their of pieces of what might say "Dedicated by Xameia, Protector of Evensong and Dusk Guide of the Night Queen."
 
@@ -90,6 +90,6 @@ But I cannot rest until the temple I destroyed is restored.
 
 ---
 
-Galius Filuso -> priest trying to restore order of twilight. based in Voltara. approx level 9. no real details about him except this character sheet: https://www.dndbeyond.com/characters/46367292
+[[Galius Filuso]] -> priest trying to restore order of twilight. based in Voltara. approx level 9. no real details about him except this character sheet: https://www.dndbeyond.com/characters/46367292
 
 %%
