@@ -13,7 +13,7 @@ dm_owner: mike
 >[!info]+ Information
 > part of the [[Sembaran Army]], [[Sembara]]
 
-%% Update in aftermath of Undead Attacks - the army has been majorly distrupted by the undead attacks and aftermath  %%
+%% Update in aftermath of Undead Attacks - the army has been majorly distrupted by the undead attacks and aftermath - but then also restored, so actually this is largerly still true  %%
 
 The Army of the West numbers 4,000 soldiers, divided into a North Watch, Center Watch, and South Watch. The South Watch is the largest at 1,600 soldiers; the North and Center Watches are 1,200 soldiers each. Each watch is in turn divided into two regiments, for a total of six regiments. The Army of the West is commanded by [[General Ilsa Lemoine]], and each watch is commanded by a colonel, and each regiment by a major.
 
