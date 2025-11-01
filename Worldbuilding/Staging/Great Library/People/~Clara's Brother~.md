@@ -1,5 +1,5 @@
 ---
-tags: [person, status/check/ai, status/stub]
+tags: [person, status/stub]
 name: Clara's Brother
 whereabouts:
 - {type: away, start: 1748-08-23, location: Near Suwi (lakeshore logging camp)}

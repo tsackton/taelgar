@@ -1,7 +1,6 @@
 ---
 tags: [organization, status/stub, status/check/ai]
-typeOf: religious order (unclear)
-whereabouts: 
+typeOf: 
 dm_owner: none
 dm_notes: none
 ---

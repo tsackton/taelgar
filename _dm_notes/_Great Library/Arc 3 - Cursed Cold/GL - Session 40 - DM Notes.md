@@ -24,6 +24,6 @@ Shuda
 
 **Hakar:** chief, older but still wiry and strong man, graying beard, dressed in furs and buckskin
  
-**Loma:** youngish girl, maybe 13/14, skinny and quick, braided red hair, eager to explore and incredibly good at hiding, knows the woods and is blessed by Wenba, the spirit of the village whom she attracts and appeases with small sacrifices, mostly burning things but the occasional small animal especially when hunting for food. She will take party south if the deal with spiders.
+**[[Loma]]:** youngish girl, maybe 13/14, skinny and quick, braided red hair, eager to explore and incredibly good at hiding, knows the woods and is blessed by Wenba, the spirit of the village whom she attracts and appeases with small sacrifices, mostly burning things but the occasional small animal especially when hunting for food. She will take party south if the deal with spiders.
  
 **Amar**: big, burly man, muscular and quick, current champion pig riding wrestler

@@ -25,7 +25,7 @@ pronunciation: TEER-ness-ah
 Tirnessa is an ancient elven fort within the [[Highveil Forest]], now ruined. 
 
 %%^Campaign:GL%%
-The [[Silver Tempests]] briefly explored this ruin, and were almost killed by banshees, while traveling to [[Am'khazar]] with [[~Deno'qai scout~]]. 
+The [[Silver Tempests]] briefly explored this ruin, and were almost killed by banshees, while traveling to [[Am'khazar]] with [[Loma]]. 
 %%^End%%
 
 %% DM
