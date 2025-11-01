@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/name, place]
+tags: [place]
 displayDefaults: {defArt: "the"}
 whereabouts: 
 - {type: primary, location: Addermarch}

@@ -17,4 +17,4 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A small river that runs from the  [[Cleenseau Wood]] to the [[Auberonne]] in the [[Barony of Aveil]]. It is not navigable, and tends to be rocky and shallow. 
+A small river that runs from the [[Cleenseau Wood]] to the [[Auberonne]] in the [[Barony of Aveil]]. It is not navigable, and tends to be rocky and shallow. 

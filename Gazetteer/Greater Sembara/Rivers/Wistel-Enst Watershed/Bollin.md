@@ -17,4 +17,4 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A major river in [[Ardlas]] and [[Sembara]] that joins the [[Wistel]] near the town of [[Ainwick]].
+A major river in [[Ardlas]] and western [[Sembara]] that joins the [[Wistel]] near [[Ainwick]].

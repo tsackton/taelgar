@@ -14,4 +14,4 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Clavert River flows north from [[Westcliff]] to the [[Enst]]. 
+The Clavert flows north from the flanks of [[Westcliff]] to the [[Enst]]. 
