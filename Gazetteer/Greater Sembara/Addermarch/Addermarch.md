@@ -54,7 +54,7 @@ To the west and northwest Addermarch is bordered by the [[Westcliff]], a series 
 
 The eastern border is not marked, as the high terrain between Addermarch and Tyrwinghan is unpopulated. The gentler, forested slopes to the north and east are under the demense of Tyrwinghan earls, and the dryer, arid slopes to the south and west, the land of Addermarian earls.
 
-To the south, Addermarch is bordered by the high ridge of the [[Mostreve Hills]], where the [[~Aure East Fork~]] arises, and then, to the southwest, the [[Darkwood]]. This border is carefully watched for fear of what might creep out in the shadows. 
+To the south, Addermarch is bordered by the high ridge of the [[Mostreve Hills]], where the [[Tarn]] arises, and then, to the southwest, the [[Darkwood]]. This border is carefully watched for fear of what might creep out in the shadows. 
 
 ## History
 
@@ -104,7 +104,7 @@ In these golden years last until DR 1720, when the [[Undead Attacks in Sembara]]
 Natural features include:
 - The [[Westcliff]], a significant escarpment running along the western and northwestern borders, steep hills, rough terrain, some relatively impassible mountain ridges here and sharp cliffs on the western border
 - [[Darkwood]], to the south, haunted and fey-associated, colocated with the center of [[Duskmire]] in the [[Feywild]]
-- [[Torvaine Forest]], centered at mid and high elevations around the upper [[Umber]] and [[~Main Aure Fork~]], and stretching in places into the lowlands. 
+- [[Torvaine Forest]], centered at mid and high elevations around the upper [[Umber]] and [[Velan]], and stretching in places into the lowlands. 
 - Another small forest on the northern part of the western border with [[Tyrwingha]]
 - A region of higher mountains and alpine meadows on the southern part of the [[Tyrwingha]] border
 - [[Shadowmere]], a boggy lowlands on the western edge of the [[Darkwood]], also considered haunted
@@ -114,7 +114,7 @@ Settlements include:
 - [[Adderfell]], the largest settlement and only city in Addermarch, at the height of navigation of the [[Aure]], center of apple farming and brandy production
 - [[Tygate]], a small market town near the southern border
 - [[Dunwick]], a small market town in the western part of the [[Aure|Aure river]] valley
-- [[Valcroix]], a market town at the confluence of the [[Umber]] and [[~Main Aure Fork~ ]]rivers
+- [[Valcroix]], a market town at the confluence of the [[Umber]] and [[Velan]]rivers
 - [[Roscombe]], a market town in the northwestern highlands, near [[Torvaine Forest]]
 - [[Brantor]], a village near [[Roscombe]]
 

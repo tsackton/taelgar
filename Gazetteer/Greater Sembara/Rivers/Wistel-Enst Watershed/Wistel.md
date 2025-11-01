@@ -4,7 +4,9 @@ tags: [place]
 name: Wistel
 typeOf: waterway
 typeOfAlias: river
-whereabouts: Sembara
+whereabouts: 
+- {type: primary, location: Sembara}
+- {type: secondary, location: Wistel-Enst Watershed }
 dm_notes: none
 dm_owner: none
 ---

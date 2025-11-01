@@ -2,7 +2,9 @@
 headerVersion: 2023.11.25
 tags: [place]
 aliases: [Cranmère]
-whereabouts: Barony of Aveil
+whereabouts: 
+- {type: primary, location: Barony of Aveil}
+- {type: secondary, location: Wistel-Enst Watershed }
 typeOf: waterway
 typeOfAlias: river
 name: Cranmère

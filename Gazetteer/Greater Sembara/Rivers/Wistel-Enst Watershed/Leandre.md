@@ -4,7 +4,9 @@ tags: [place]
 displayDefaults: {defArt: the}
 typeOf: waterway
 typeOfAlias: river
-whereabouts: Barony of Aveil
+whereabouts: 
+- {type: primary, location: Barony of Aveil}
+- {type: secondary, location: Wistel-Enst Watershed }
 pronunciation: Leh-ahn-dray
 dm_notes: none
 dm_owner: none

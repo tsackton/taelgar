@@ -5,7 +5,9 @@ displayDefaults: {defArt: the}
 name: Bollin
 typeOf: waterway
 typeOfAlias: river
-whereabouts: Greater Sembara
+whereabouts: 
+- {type: primary, location: Greater Sembara}
+- {type: secondary, location: Wistel-Enst Watershed }
 aliases: [Bollin River, River Bollin]
 dm_notes: none
 dm_owner: none

@@ -695,8 +695,8 @@ so you have in the "East Aure Fork" highlands a fair bit of bare, open ground an
 [9/10/2024 5:47 PM] .deciusmus
 Geographically, the Mostreve Hills are composed of five distinct ridgelines:
 * The [[Westcliff]] ridge runs in a truncated north-south 'C', on the western edge of the Mostreve Hills, with the highest and steepest parts of the ridge along the western edge, bordering the [[Maseau Gap]]. The highest peaks of the Mostreve Hills are here, especially along the western escarpment. 
-* The ~Unnamed Aure Headwaters Ridge~ runs mostly east-west, arising from the rolling hills of the [[Aure]] river valley some 50 miles east of the Westcliff ridge, and cutting in a south-south-easterly line towards the headwaters of the [[~Aure East Fork~]]. This ridgeline partially separates [[Addermarch]] from the [[Darkwood]]. 
-* The ~Tyrwinghan Ridge~, which runs in a north-easterly line, starting north of the [[~Aure East Fork~]]
+* The ~Unnamed Aure Headwaters Ridge~ runs mostly east-west, arising from the rolling hills of the [[Aure]] river valley some 50 miles east of the Westcliff ridge, and cutting in a south-south-easterly line towards the headwaters of the [[Tarn]]. This ridgeline partially separates [[Addermarch]] from the [[Darkwood]]. 
+* The ~Tyrwinghan Ridge~, which runs in a north-easterly line, starting north of the [[Tarn]]
 * The ~North Tyrwinghan Ridge~ which is east of the Aure, and runs in a series of lines running north-west from the Tyrwinghan ridge. These peaks are notably gentler than the other ridges, and form less of a barrier to travel.
 * The ~Orlenas Ridge~, which starts south of the [[Latazaro]] swamp and runs almost due east until it grows in the [[~Cymea Border Mountains~]]
 
@@ -1003,7 +1003,7 @@ To the west and northwest Addermarch is bordered by the [[Westcliff]], a series 
 
 The eastern border is not marked, as the high terrain between Addermarch and Tyrwinghan is unpopulated. The gentler, forested slopes to the north and east are under the demense of Tyrwinghan earls, and the dryer, arid slopes to the south and west, the land of Addermarian earls.
 
-To the south, Addermarch is bordered by the high ridge of the [[Mostreve Hills]], where the headwaters of the [[~Aure East Fork~]] flow, and then, to the southwest, the [[Darkwood]]. This border is carefully watched for fear of what might creep out in the shadows.
+To the south, Addermarch is bordered by the high ridge of the [[Mostreve Hills]], where the headwaters of the [[Tarn]] flow, and then, to the southwest, the [[Darkwood]]. This border is carefully watched for fear of what might creep out in the shadows.
 
 
 [9/10/2024 7:04 PM] rsulfuratus
