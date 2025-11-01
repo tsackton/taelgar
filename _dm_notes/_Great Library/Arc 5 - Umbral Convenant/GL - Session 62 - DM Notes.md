@@ -4,7 +4,7 @@
 
 - Thousands of years ago, before the Downfall Wars, the Yo'nari, a tribe of proto-Deno'qai, lived in the interior mountains of Apporia. (**Yo’nari** /yo-NAH-ree/)
 - They often interacted with the fey in those days, and they called the Feywild **Nazil-Dimu** /nah-ZEEL DEE-moo/
-- They had a queen, Yeshara (**Yeshara** /yeh-SHAH-rah/), who came to believe that the fey lived in dreams, and sleep was made you vulnerable. She more or less went mad after her brother, **Ilanar** (/ee-lah-NAHR/), vanished after striking a bargain with a silver-tongued fey trickster; Yeshara later found Ilanar in a catatonic dream-torpor. This “proof” cemented her crusade.
+- They had a queen, Yeshara (**Yeshara** /yeh-SHAH-rah/), who came to believe that the fey lived in dreams, and sleep was made you vulnerable. She more or less went mad after her brother, **[[Ilanar]]** (/ee-lah-NAHR/), vanished after striking a bargain with a silver-tongued fey trickster; Yeshara later found [[Ilanar]] in a catatonic dream-torpor. This “proof” cemented her crusade.
 - Before the cult formed, Yeshara barred the longhouse doors each night, forcing her household—spouse, young daughter, elderly aunt—to chant wake-mantras until dawn. After eleven nights the child slipped into microsleep; Sarzel, panicked, doused her with scalding cauldron-water. The girl died, and Sarzel proclaimed it proof that even love could not sway the fey’s grip.
 - After this tragedy, some of the tribe fled, but the rest fell under Yeshara's sway, as the tribe descended into a cult. Yeshara:
 	- Outlawed sleep rites and lullabies.  
