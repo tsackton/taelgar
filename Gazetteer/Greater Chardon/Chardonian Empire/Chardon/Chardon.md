@@ -32,7 +32,7 @@ On the [[North Bank]] of the river, in the shadow of [[Mount Nera]], weirs and w
 
 The vast arch of the [[River Bridge (Chardon)|River Bridge]] provides the main route across the [[Chasa]]. Wide enough for four carts to pass abreast, and enchanted to rise as needed to allow ships to pass, steady foot traffic passes under the watchful eyes of the [[Praecanti Vigiles]] - traders, chalyte dealers, wizards and scholars, farmers with goods for market, and many more. Upriver, the [[Chardon Bridge]] is used more by locals, farmers as well as the rich and powerful. Smaller, series of twelve arches, this bridge marks the height of navigation for tall-masted sailing ships, although riverboat traffic is frequent here.
 
-The [[South Bank]], where the bulk of the city lies, is dominated by the hundreds of towers of Chardon, concentrated in the south and east of the city, where the Great Library stands. But many other sights and spread across the city: the three great markets and dozens of smaller markets, the Imperial Palace, the Cathedral of the Eight, The Pillar of Victory, Haldir's Tomb, the Hospital of the Mother's Grace, as well as other churches, monuments, and palaces scattered across the skyline.
+The [[South Bank]], where the bulk of the city lies, is dominated by the hundreds of towers of Chardon, concentrated in the south and east of the city, where the Great Library stands. But many other sights and spread across the city: the three great markets and dozens of smaller markets, the [[Imperial Palace]], the Cathedral of the Eight, The Pillar of Victory, Haldir's Tomb, the Hospital of the Mother's Grace, as well as other churches, monuments, and palaces scattered across the skyline.
 
 ## History
 

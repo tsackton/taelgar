@@ -47,11 +47,11 @@ Kobolds will honor ransom exchange, but will not return the message/map, which t
  
 Let the exchange play out. Kobold war leader is nervous and wants to be back in cave as soon as possible.
  
-The messenger, Amus, is a young, brash man, shaken by the experience of being a hostage. However he is dedicated to the library and once exchange is made and he is ungagged will tell them that they need to get the map.
+The messenger, [[Amus]], is a young, brash man, shaken by the experience of being a hostage. However he is dedicated to the library and once exchange is made and he is ungagged will tell them that they need to get the map.
  
 He can remember some details if they want to just go for it without facing kobolds, but this will make things more difficult (also increase chance of meeting orc party at air scroll location).
  
-**Make it obvious when talking to Amus that the kobolds kept the maps, etc, to give to someone called Grumella**
+**Make it obvious when talking to [[Amus]] that the kobolds kept the maps, etc, to give to someone called Grumella**
 
 **Rooms**
  
@@ -103,7 +103,7 @@ There are several barrels scattered about, which contain a magical blasting powd
  
 If combat starts, the chief, his war leader, and the 6 kobolds will flee out the escape tunnel, leaving the dragonscales and sorcerers to hold down the route.
  
-There is no treasure in this room (although with some work 100 gp of gems and silver can be recovered from the throne). However, a secret door (DC 13 active search to find, or DC 18 passive) leads to a treasure room. In this is the 500 gp ransom from the party, another 375 gp, 700 sp, and 1400 cp, the maps and notes from Amus, and five potions slated to be sent to Grumella: two _potions of greater healing,_ one _potion of fire resistance_, one _potion of climbing_, and one _potion of diminution_.
+There is no treasure in this room (although with some work 100 gp of gems and silver can be recovered from the throne). However, a secret door (DC 13 active search to find, or DC 18 passive) leads to a treasure room. In this is the 500 gp ransom from the party, another 375 gp, 700 sp, and 1400 cp, the maps and notes from [[Amus]], and five potions slated to be sent to Grumella: two _potions of greater healing,_ one _potion of fire resistance_, one _potion of climbing_, and one _potion of diminution_.
  
 **7: Mushroom farm**
  

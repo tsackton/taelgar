@@ -143,7 +143,7 @@ _The hobgoblin stirs under enchantment, groggy, then sits upright. His eyes dart
 
 ### Chardon Reshapes Chalyte and City
 
-- Party returns July 9; Magistress charters Imperial Chalyte Mining Company (exclusive Chataan mining) and seizes Patelios/Valdari refineries for bribery.
+- Party returns July 9; Magistress charters [[Imperial Chalyte Mining Company]] (exclusive Chataan mining) and seizes Patelios/Valdari refineries for bribery.
 - Magistrate’s deal: preserve 2–3 safe refineries for a new corporation, demolish the rest; grant the party equivalent slum land along the Chasa for redevelopment.
 - Chalyte Refining Corporation set as sole legal refiner; board split between Windcallers and workers’ guild; Emperor appoints and holds final vote but will abstain on profit‑sharing to force consensus; chalyte use proposed as license‑only.
 - Negotiations yield worker‑empowerment and reinvestment plan (use land proceeds to rebuild housing); Chardon stabilizes; first refining begins; imperial mining expedition departs for Chataan (ogres unresolved); two oligarch families decamp to Volterra; others penalized; public works expand.

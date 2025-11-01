@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/ai]
+tags: [organization]
 name: Order of Twilight
 typeOf: religious order
 dm_owner: none
@@ -21,7 +21,7 @@ In the DR 1730s and 1740s, several dedicated individuals have worked to restore 
 
 Founded as a monastic religious order devoted to the liminal work of the [[The Night Queen]], the Order of Twilight tended hospices and death‑houses, protected the dying, and watched over burials and rest. In older accounts they are described as “protectors and guides of those between life and death,” offering safe places to pray, heal, or die as the gods willed.
 
-They were particularly prevalent in [[Amani]] before the [[Blood Years]], with smaller presences elsewhere in to the south and west. The Blood Years shattered the order; only a few pockets endured the destruction of [[Amani]]. In recent years scattered survivors and sympathetic clergy have begun restoring sites and memory of the order.
+They were particularly prevalent in [[Amani]] before the [[Blood Years]], with smaller presences elsewhere in to the south and west. The [[Blood Years]] shattered the order; only a few pockets endured the destruction of [[Amani]]. In recent years scattered survivors and sympathetic clergy have begun restoring sites and memory of the order.
 
 ## People and Sites
 

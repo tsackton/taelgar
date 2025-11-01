@@ -14,5 +14,5 @@ Tiberius is a Windcaller of the Chardonian navy, attached to the service of the 
 %%
 DM notes / sources
 - Session 125 (DuFr): meeting aboard Auratan’s Pride; interrogation, security protocol, and subsequent advisory role on chalyte politics and factions.
-- Session 126 (DuFr): summons to the Imperial Palace and reception logistics.
+- Session 126 (DuFr): summons to the [[Imperial Palace]] and reception logistics.
 %%

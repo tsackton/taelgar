@@ -98,11 +98,11 @@ We end as the party departs the[[ Imperial Palace]], with orders to keep their j
 - Some merchants grumble about price controls and tariffs; factory workers note unsafe Patelios projects.
 - Magistrate rose rapidly through navy ranks; reputedly ended Alorian piracy, giving rise to legendary stories.
 - Four major oligarch families: Oraten, Veldari, Patelios, Kellorian—resentment exists but no clear favorites among workers.
-- Party receives a magical summons from Tiberius for an Imperial Palace meeting at 9 AM the next day.
+- Party receives a magical summons from Tiberius for an [[Imperial Palace]] meeting at 9 AM the next day.
 
 ### Audience with the Young Magistrate
 
-- Party enters ornate Imperial Palace, surrenders weapons and foci at guard's request
+- Party enters ornate [[Imperial Palace]], surrenders weapons and foci at guard's request
 - Magistrate welcomes them in simple, raised chair—young, fit, and well-dressed, with three rings
 - Party is thanked for their deeds, particularly for stopping Fausto and clearing their names
 - Discussion of aftermath: mind-broken victims, the Hospital of the Mother, and lycanthropy outbreak linked to recent chaos
