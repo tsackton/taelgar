@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
+tags: [place, status/check/mike]
 campaignInfo: []
 name: Enst (South Fork)
 typeOf: waterway
@@ -16,5 +16,7 @@ dm_owner: none
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% was tagged status/check/name; names seem solid to me so removed but left check/mike to confirm %%
 
 One of the three rivers (the others being the [[Enst (North Fork)|North Fork]] and [[Enst (Middle Fork)|Middle Fork]]) that join to form the [[Enst]] just west of [[Lysandale]].

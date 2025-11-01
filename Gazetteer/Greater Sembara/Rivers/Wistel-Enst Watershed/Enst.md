@@ -3,7 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: { linkText: on, defArt: the }
 name: Enst
-typeOf: river
+typeOf: waterway
+typeOfAlias: river
 whereabouts: 
 - {type: primary, location: Sembara}
 - {type: secondary, location: Wistel-Enst Watershed }
@@ -23,5 +24,3 @@ It is navigable as far upriver as [[Rinburg]], and there is some riverboat traff
 The lower reaches of the Enst, in [[Ozabal|Ozabal Swamp]] tend to be marshy and treacherous, and there is little to no river traffic beyond [[Eskbridge]]. 
 
 There are ferries at [[Rinburg]], [[Fellburn]], and [[Stavenford]], amongst other places.
-
-
