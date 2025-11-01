@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim, status/check/name]
+tags: [place, status/check/mike]
 displayDefaults: {defArt: "the"}
 name: Wistel
 typeOf: waterway
@@ -16,7 +16,8 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% name check for the tributaries in comments; if names seem good I will create pages %%
+%% names seem good to me - Tim %%
+
 A major river in [[Sembara]], the Wistel rises in the foothills of the [[Sentinel Range|Sentinels]] and flows east across the western marches before mingling with the [[Enst]] through the wetlands of [[Ozabal|Ozabal Swamp]]. From there the combined waters reach the [[Western Gulf]] of the [[Green Sea]]. 
 
 Major tributaries include the [[Bollin]], with a confluence near [[Ainwick]]; numerous lesser streams feeding the middle valley.
