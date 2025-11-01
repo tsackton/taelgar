@@ -19,7 +19,7 @@ dm_owner: tim
 >[!info]+ Biographical Info
 > A [[Giants|giant]] (the [[Giants|storm giant]]) (he/him)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Freed from [[Stormcaller Tower]], [[Eastern Dunmar]] by the [[Dunmar Fellowship]], November 23rd, 1748 %%^End%%
+>> %%^Campaign:DuFr%% Freed from [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]], [[Eastern Dunmar]] by the [[Dunmar Fellowship]], November 23rd, 1748 %%^End%%
 
 %% check the timeline of the emperor's Hralgar mentioned, especially Akestan? %%
 

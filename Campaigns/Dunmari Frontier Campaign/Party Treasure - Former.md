@@ -13,7 +13,7 @@
 	- Two vials of mercury (used for rainbow bridge)
 	- Eternal ice, from the [[Elemental Forge Hoard]], used for icicle generator
 	- Starlight dew, from the [[Elemental Forge Hoard]], used for icicle generator
-- Speak with Dead. ([[Monastery of Bhishma]]), used in [[Session 86 (DuFr)]] 
+- Speak with Dead. ([[Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma]]), used in [[Session 86 (DuFr)]] 
 - [[Things/Artifacts of Power/Scepter of Command|Scepter of Command]], destroyed in [[Session 81 (DuFr)]]
 - A small silver statue of a demon with ruby eyes (from The Flaming Tempest, tossed in the sacred waters on [[Vetta]])
 - [[Delwath's Elven Breastplate]], given to Umli in [[Session 80 (DuFr)]], who removed and blanked the [[Inkaye]] that had powered it, leaving a mundane breastplate
@@ -23,8 +23,8 @@
 - Amber Web. [Mechanics](https://www.dndbeyond.com/magic-items/3643193-amber-web). A small piece of amber with a spider trapped inside, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in battle with [[Agata]] reborn in the [[Feywild]], in [[Session 67 (DuFr)]]. 
 - Swarm Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3643187-swarm-bottle). A smoky glass bottle from which a buzzing sound can constantly be heard, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in the fight with [[Kadmos]] and [[Casian]] in [[Session 44 (DuFr)]]. 
 - Leech Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3819597-leech-bottle). A bottle filled with preserved leeches, radiating necromancy magic. Probably a creation of [[Agata]]’s. Taken from [[Agata]]’s hut. (used in battle)
--  Helm of Iron Will. [Mechanics](https://www.dndbeyond.com/magic-items/2341102-helm-of-iron-will). A helmet from the Drankorian era, enchanted to protect warriors in battle. Found in [[Raven's Hold]]. Used to protect Delwath in battle against [[Agata]]. 
--  Block of adamantine. Found in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near [[Raven's Hold]], used to reinforce Delwath's [[Dunmari Heirloom Shield]]. 
+-  Helm of Iron Will. [Mechanics](https://www.dndbeyond.com/magic-items/2341102-helm-of-iron-will). A helmet from the Drankorian era, enchanted to protect warriors in battle. Found in [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]]. Used to protect Delwath in battle against [[Agata]]. 
+-  Block of adamantine. Found in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]], used to reinforce Delwath's [[Dunmari Heirloom Shield]]. 
 - Thorn Seed Bag. Destroyed in [[Session 31 (DuFr)]].
 - [[Soul Lantern]]. Destroyed in [[Session 32 (DuFr)]].
 - Seven iron spears carved with the incantation: “[[Mad One]], come to us, let [[Jinnik]]’s howl be heard.” From the [[Fraternity of the Empty Moon]]; destroyed. 
@@ -39,7 +39,7 @@
 - Finger of Direction. A realistic carved wooden hand with an index finger that is rotting flesh, radiates divination magic. When asked, it will unerringly point north. Probably created by [[Agata]]. Taken from [[Agata]]’s hut. (destroyed)
 - Eye of Undead Sensing. A jar filled with liquid in which floats a single human eye, radiating divination magic. When an undead creature comes within 100 feet of the jar, the eye darts about as if it is looking around in panic. Probably a creation of [[Agata]]’s. Taken from [[Agata]]’s hut.  (destroyed)
 - [[Liquid Wood]]. This jar of putty-like brown goo radiates transmutation magic, and is clearly a creation of [[Agata]]’s. It is used for turning creatures into wooden servants. Taken from [[Agata]]’s hut. 
-- Battle Standard of the [[Blackened Claw]] hobgoblins. Found in [[Raven's Hold]]. Destroyed. 
+- Battle Standard of the [[Blackened Claw]] hobgoblins. Found in [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]]. Destroyed. 
 - A blood-red book of necromancy bound in human skin, containing [[Apollyon|Apollyon's]] secret knowledge for how to become a lich. Destroyed by [[Dimitaur]] with a fireball.
 ## Sold
 
@@ -55,15 +55,15 @@
 ### In Chardon
 
 - Black Light Candle. Sold as part of the deal to get the [[Chalice of the Runepriest]] back, in [[Session 49 (DuFr)]] 
-- A painting of [[Eudomes]]. A portrait of a man, wearing silver robes, holding a staff against a black, plain background. He has sharp, angular features, short dark hair, clear brown eyes, and is wearing a medallion on a silver chain with an insignia you can't quite make out; about 2' x 3'. Found in [[Stormcaller Tower]]. Not a particularly famous or skilled artist, but old and rare. Sold to a collector of portraits for 1000gp. Sold in [[Session 49 (DuFr)]].
-- A landscape of mountains rising up from a lush, rolling grassland full of flowers; about 2' x 3'. Found in [[Stormcaller Tower]]. Not a particularly famous or skilled artist. Sold in [[Chardon]] for 600gp. Sold in [[Session 49 (DuFr)]].
+- A painting of [[Eudomes]]. A portrait of a man, wearing silver robes, holding a staff against a black, plain background. He has sharp, angular features, short dark hair, clear brown eyes, and is wearing a medallion on a silver chain with an insignia you can't quite make out; about 2' x 3'. Found in [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]]. Not a particularly famous or skilled artist, but old and rare. Sold to a collector of portraits for 1000gp. Sold in [[Session 49 (DuFr)]].
+- A landscape of mountains rising up from a lush, rolling grassland full of flowers; about 2' x 3'. Found in [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]]. Not a particularly famous or skilled artist. Sold in [[Chardon]] for 600gp. Sold in [[Session 49 (DuFr)]].
 - [[Pandemonium Scroll]]. Traded to [[People/Chardonians/Fausto]] as part of the deal for [[Hralgar's Eyes]]; kept by [[People/Chardonians/Fausto]] when he betrayed the party in [[Session 49 (DuFr)]].
 
 ### In Darba
 
 (All sold in [[Session 46 (DuFr)]])
 
-- [[Lyrics of a New Age]]. A book of elvish poetry by [[Nelawe]]. Found in [[Stormcaller Tower]]. Could sell to an interested party for 50-200 gp. Sold for 220 gp. 
+- [[Lyrics of a New Age]]. A book of elvish poetry by [[Nelawe]]. Found in [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]]. Could sell to an interested party for 50-200 gp. Sold for 220 gp. 
 - Tarot Cards. Finely painted on thin ivory; Moon Tarot Card found separately on the trap keeper’s person. From the werewolf lair in [[Tokra]]. Probably worth 20-360gp. Sold for 250 gp. 
 - Iron dial used to track moon phases from werewolves in [[Tokra]]. Probably worth 5-30gp. Sold for 6 gp. 
 - A single small turquoise stone, found in wvyern lair. Sold for 70 gp.
@@ -73,7 +73,7 @@
 - Riding boots and cloak, set, from the chest in the werewolf lair’s secret room. Probably worth 10-60 gp as a set. Sold for 20 gp.
 - Dice set of six, made of ivory. From werewolf lair in [[Tokra]]. Worth 1-6 gp. Sold for 3 gp.
 - Dagger, with a well-carved wooden handle with horse design. From werewolf lair. Probably worth 10-60 gp. Sold for 30 gp.
-- Scroll case and cap, empty, matching the [[Ivory Scroll Case]] found long ago which summoned the demon in [[Raven's Hold]]. From the werewolf lair in [[Tokra]]. Worth 20-120 gp if reunited with missing cap; 5-30 gp otherwise. Sold for 80 gp.
+- Scroll case and cap, empty, matching the [[Ivory Scroll Case]] found long ago which summoned the demon in [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]]. From the werewolf lair in [[Tokra]]. Worth 20-120 gp if reunited with missing cap; 5-30 gp otherwise. Sold for 80 gp.
 - Iron pendant from the werewolf lieutenant. Probably worth 10-180gp. Exchanged with [[Harol Silversong]] for passage to [[Chardon]] on the [[Emerald Song]]. 
 - Holy symbol from giant werewolf captain. Pale moonstone depiction of a full moon, set in a larger outer ring of iron with jagged wire. Probably worth 150-900gp. Exchanged with [[Harol Silversong]] for passage to [[Chardon]] on the [[Emerald Song]].
 
@@ -85,8 +85,8 @@
 - Six white moonstone gems from the werewolf lair.
 - A malachite carving of a stalking cat, designed as a pendant. from [[Agata]]’s hut.
 - A black pearl and silver twisted flame amulet, reminiscent of one of [[Cha'mutte]]'s symbols. Taken from the undead creature in the fort east of [[Gomat]]. 
-- Two small and uncut pieces of amber from [[Raven's Hold]]
-- Silver goblet with small red gems. Found in [[Raven's Hold]], in the [[Hobgoblins|hobgoblin]] chief’s bedroom.
+- Two small and uncut pieces of amber from [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]]
+- Silver goblet with small red gems. Found in [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]], in the [[Hobgoblins|hobgoblin]] chief’s bedroom.
 
 ## Given Away
 
@@ -145,12 +145,12 @@ Other treasure returned to Milo and Tilly
 - [[Hralgar's Eyes]] (legendary major item*, party), returned to [[Hralgar]] as part of freeing him.
 - Black Iron Staff,  given to the [[Archives]] in [[Tokra]]. 
 - 175 gp wereguild for bandits, given to [[Johar]] to get to families 
-- Locket from [[Halflings|halfling]] killed by chimera. A silver locket with a faded painted portrait of a [[Halflings|halfling]] inside. Found in [[Raven's Hold]]. Given to [[Bree Charmheart]] and family in [[Tokra]].
-- Gold ring from [[Halflings|halfling]] killed by chimera. A golden ring set with bloodstones. Found in [[Raven's Hold]]. Given to [[Bree Charmheart]] and family in [[Tokra]]. 
+- Locket from [[Halflings|halfling]] killed by chimera. A silver locket with a faded painted portrait of a [[Halflings|halfling]] inside. Found in [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]]. Given to [[Bree Charmheart]] and family in [[Tokra]].
+- Gold ring from [[Halflings|halfling]] killed by chimera. A golden ring set with bloodstones. Found in [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]]. Given to [[Bree Charmheart]] and family in [[Tokra]]. 
 -  [[Govir]]’s two holy symbols of [[Laka]], returned to [[Govir]]
-- Two small garnets from [[Raven's Hold]], 10 gp each. Given to [[Charmhearts]] in [[Tokra]].
+- Two small garnets from [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]], 10 gp each. Given to [[Charmhearts]] in [[Tokra]].
 - [[Hobgoblin Notes from Raven's Hold|Looseleaf Hobgoblin Journal and log book]]. A leather satchel holding unbound pages that include notes and sketches that might portray troop movements, as well as a log book. Old. Given to [[Archives]] in [[Tokra]]
-- [[Two letters from Stormcaller Tower]], from [[Stormcaller Tower]]. Given to [[Marcella]], Chardonian adventurer, in exchange for information.
+- [[Two letters from Stormcaller Tower]], from [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]]. Given to [[Marcella]], Chardonian adventurer, in exchange for information.
 - [[Boots of False Tracks (Agata)]]. Given to [[Marcella]]. 
 - A large carved wooden statue of a dragon, painted in vivid greens and with two emeralds for eyes. Weighs at least 2000 pounds, if not more. Would be worth at least 5000 gp to the right buyer, but transport is a major issue. About 15 feet long, 10 feet wide, and 10 feet tall. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village.
 - A stuffed owlbear. Weighs at least 1000 pounds, and is big and awkward. Might be worth something to a collector, but impossible ot value. Roughly 10 feet by 10 feet by 10 feet in size. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. 
@@ -159,5 +159,5 @@ Other treasure returned to Milo and Tilly
 ## Stolen or Lost
 
 - [[Ever Spinning Top]]. Stolen by M-F Chardonians. Retrieved in [[Session 79 (DuFr)]]
-- A small silver snuff box inlaid with tiny flakes of agate. Contains: a pair of pendants made from obsidian that resemble tiny panther heads and three rings of obsidian. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Agata's Lair]].
-- Twelve ingots of pure silver, each about a pound. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Agata's Lair]].
+- A small silver snuff box inlaid with tiny flakes of agate. Contains: a pair of pendants made from obsidian that resemble tiny panther heads and three rings of obsidian. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Gazetteer/Greater Dunmar/Hara Basin/Agata's Lair]].
+- Twelve ingots of pure silver, each about a pound. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Gazetteer/Greater Dunmar/Hara Basin/Agata's Lair]].

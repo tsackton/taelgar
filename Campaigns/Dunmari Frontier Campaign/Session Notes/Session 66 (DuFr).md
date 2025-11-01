@@ -35,7 +35,7 @@ descTitle: Reflections of Danger
 - (DR:: 1748-10-16) - (DR_end:: 1748-10-22): Organize a ship and supplies from [[Wahacha]], to sail north. 
 - (DR:: 1748-10-23): Say farewell to [[Rufus]]; depart with [[Alimash]] and [[Shoal]] for the tower of [[Arryn]] the Wanderer. 
 - (DR:: 1748-10-24) - (DR_end:: 1748-11-12): Sail north, passing many strange islands along the way. 
-- (DR:: 1748-11-13): Arrive [[Arryn]]'s tower. Fight mirror shards, meet [[Gyles]] the steward, discover that [[Arryn]] is trapped in the [[Mirror Realm]]. Free [[Arryn]]. Say goodbye to [[Shoal]], who heads south again to court his lady love, and [[Alimash]], who remains in [[Arryn]]’s service for the time being. [[Wellby]] is plane shifted to [[Lastlight Falls]], the fey crossing near [[Stormcaller Tower]] in the north of [[Dunmar]], by [[Arryn]]’s magic.
+- (DR:: 1748-11-13): Arrive [[Arryn]]'s tower. Fight mirror shards, meet [[Gyles]] the steward, discover that [[Arryn]] is trapped in the [[Mirror Realm]]. Free [[Arryn]]. Say goodbye to [[Shoal]], who heads south again to court his lady love, and [[Alimash]], who remains in [[Arryn]]’s service for the time being. [[Wellby]] is plane shifted to [[Lastlight Falls]], the fey crossing near [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]] in the north of [[Dunmar]], by [[Arryn]]’s magic.
 
 
 ## Narrative

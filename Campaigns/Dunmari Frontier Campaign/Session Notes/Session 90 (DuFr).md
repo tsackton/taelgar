@@ -35,7 +35,7 @@ The [[Dunmar Fellowship]] engages in intricate diplomacy to reconcile siblings [
 - (DR:: 1749-02-02): Meet with [[Abha]]. Meet with [[Nayan Karnas]] and use the [[Mirror of the Past]] to reveal [[Agata]]'s meddling. Speak with [[Abha]] again. Return to [[Vindristjarna]].
 - (DR:: 1749-02-03): Tie up loose ends in Sura's camp. 
 - (DR:: 1749-02-04): Depart for [[Tollen]], via [[Orenlas]]. Travel to [[Orenlas]], crossing the [[~North Tokra Plains~]]. 
-- (DR:: 1749-02-05): Travel towards [[Orenlas]], passing over the [[Hara]] and the [[Thandar]], and the ruins of [[Stormcaller Tower]].  
+- (DR:: 1749-02-05): Travel towards [[Orenlas]], passing over the [[Hara]] and the [[Thandar]], and the ruins of [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]].  
 - (DR:: 1749-02-06): Travel towards [[Orenlas]], passing over the [[Sentinel Range|Sentinels]] and into the [[Plaguelands]]. 
 - (DR:: 1749-02-07): Travel towards [[Orenlas]], crossing over the [[Plaguelands]]. 
 - (DR:: 1749-02-08): Travel towards [[Orenlas]], crossing the [[Istaros]] north of the ruins of [[Isingue]]. 

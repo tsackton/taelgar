@@ -23,7 +23,7 @@ The most famous poem in this book is *A Lament for Lost Thunder*, an ode to gian
 >>upon the distant cloud on which they soar, a force unbowed 
 
 %%^Campaign:DuFr%%
-A copy of this book was recovered from [[Stormcaller Tower]] by the [[Dunmar Fellowship]], and later sold to [[Albus]] in [[Darba]]. 
+A copy of this book was recovered from [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]] by the [[Dunmar Fellowship]], and later sold to [[Albus]] in [[Darba]]. 
 
 Later it was discovered that a stanza from the *A Lament for Lost Thunder* was used by [[Eudomes]] used as the key to unlock the [[Binding Stones]] that were binding [[Hralgar]]
 %%^End%%

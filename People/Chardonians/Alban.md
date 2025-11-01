@@ -24,14 +24,14 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Grave discovered by the [[Dunmar Fellowship]] on April 15th, 1748 in [[Stormcaller Tower]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
+>> %%^Campaign:dufr%% Grave discovered by the [[Dunmar Fellowship]] on April 15th, 1748 in [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 
 %% some minor canonical locations in late 1747 - mid 1748 not captured completely in whereabouts %%
 
 An adventurer associated with the [[Society of the Open Scroll]]. 
 
 %%^Campaign:dufr%%
-Traveled with [[Dee Wildcloak]] and [[Dain Goldhammer]] to [[Stormcaller Tower]], where he was killed. 
+Traveled with [[Dee Wildcloak]] and [[Dain Goldhammer]] to [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]], where he was killed. 
 ## Chronology
 
 ```dataview

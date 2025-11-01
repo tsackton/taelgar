@@ -298,7 +298,7 @@ The upper deck consists of, from stern to prow:
 >
 >Kept in the common living is the following magic item:
 >##### Cleansing Stone
->The cleansing stone is a polished stone sphere of Drankorian make, 1 foot in diameter, embedded on top of short marble pedestal, that is permanently enchanted. While touching the stone, you can use an action to activate it and remove dirt and grime from your garments and your person. This stone was originally installed in [[Eudomes]]' bedroom in [[Stormcaller Tower]]; the party [[Session 71 (DuFr)|recovered it]] upon the destruction of the tower by [[Hralgar]] when he was freed from imprisonment. 
+>The cleansing stone is a polished stone sphere of Drankorian make, 1 foot in diameter, embedded on top of short marble pedestal, that is permanently enchanted. While touching the stone, you can use an action to activate it and remove dirt and grime from your garments and your person. This stone was originally installed in [[Eudomes]]' bedroom in [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]]; the party [[Session 71 (DuFr)|recovered it]] upon the destruction of the tower by [[Hralgar]] when he was freed from imprisonment. 
 
 
 > [!info]+ Control Room

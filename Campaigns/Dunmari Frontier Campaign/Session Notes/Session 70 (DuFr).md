@@ -16,25 +16,25 @@ name: Dunmari Frontier - Session 70
 > *Featuring: [[Seeker]], [[Delwath]],  [[Wellby]], [[Riswynn]]*
 > *In Taelgar: Nov 23, 1748 DR*
 > *On Earth: Thursday Feb 02, 2023*
-> *[[Stormcaller Tower]]*
+> *[[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]]*
 
-The [[Dunmar Fellowship]] follows a possessed [[Kenzo]] into the storm around [[Stormcaller Tower]], and engages with [[Hralgar]]'s dreams, leading to his awakening and Kenzo's release.
+The [[Dunmar Fellowship]] follows a possessed [[Kenzo]] into the storm around [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]], and engages with [[Hralgar]]'s dreams, leading to his awakening and Kenzo's release.
 
 ## Session Info
 
 ***[[Seeker]], struck full on by a magical lightning blast in [[Hralgar]]'s storm, infused with the giant's magic, learned the Shocking Grasp cantrip while nearly being fried to death.***
 ### Summary
-- The [[Dunmar Fellowship]] chases a storm-possessed [[Kenzo]] into the magical storm surrounding [[Stormcaller Tower]].
+- The [[Dunmar Fellowship]] chases a storm-possessed [[Kenzo]] into the magical storm surrounding [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]].
 - [[Wellby]] receives a vision of an orc wearing the [[Cloak of Rainbows]] in a castle.
 - The party ascends the tower, faces storm elementals, and flies to the fourth floor to find the statue of [[Hralgar]].
 - In [[Hralgar]]'s dream-like domain atop the tower, the party tells tales to help him realize he is trapped in a dream.
 - [[Hralgar]] regains his memories, [[Kenzo]] recovers from possession, and the party prepares to free [[Hralgar]] from his dream.
 
 ### Timeline
-- (DR:: 1748-11-23), late afternoon: Enter the storm around [[Stormcaller Tower]], chasing a possessed [[Kenzo]]. Dodge animated storm elementals protecting the approach. Reach [[Hralgar]]'s dreamscape, bring [[Hralgar]] back to himself with stories. 
+- (DR:: 1748-11-23), late afternoon: Enter the storm around [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]], chasing a possessed [[Kenzo]]. Dodge animated storm elementals protecting the approach. Reach [[Hralgar]]'s dreamscape, bring [[Hralgar]] back to himself with stories. 
 
 ## Narrative
-We begin as the party stands outside the swirling storm around [[Stormcaller Tower]], listening to the news the winds bring, while deciding what to do as [[Kenzo]] mediates and communes with the storm, trying to learn more of it. Suddenly, [[Kenzo]] is possessed, his eyes flashing lightning, and he begins to walk into the storm. Having to act quickly, [[Riswynn]] and [[Wellby]] get the animals settled while [[Delwath]] and [[Seeker]] get [[Hralgar's Eyes]] from the [[Portable Hole]], hoping to convince Hraglar-as-[[Kenzo]] to make the storm safe. To no avail, for [[Kenzo]] says that the weather is wonderful and charges ahead. Forced to chase, the party plunges into the storm. Enduring intense lightning strikes and thunderous wind that makes conversation impossible, the party  pushes through the storm, following [[Kenzo]]. 
+We begin as the party stands outside the swirling storm around [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]], listening to the news the winds bring, while deciding what to do as [[Kenzo]] mediates and communes with the storm, trying to learn more of it. Suddenly, [[Kenzo]] is possessed, his eyes flashing lightning, and he begins to walk into the storm. Having to act quickly, [[Riswynn]] and [[Wellby]] get the animals settled while [[Delwath]] and [[Seeker]] get [[Hralgar's Eyes]] from the [[Portable Hole]], hoping to convince Hraglar-as-[[Kenzo]] to make the storm safe. To no avail, for [[Kenzo]] says that the weather is wonderful and charges ahead. Forced to chase, the party plunges into the storm. Enduring intense lightning strikes and thunderous wind that makes conversation impossible, the party  pushes through the storm, following [[Kenzo]]. 
 
 ![[hralgar-storm-nov-1748-2.png]]
 

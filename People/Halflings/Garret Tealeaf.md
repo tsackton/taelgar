@@ -27,13 +27,13 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Freed by the [[Dunmar Fellowship]] on June 2nd, 1748 in [[Agata's Lair|Agata's Lair]], [[Garamjala Desert|Garamjala]], [[Nashtkar]], the [[Desolation of Cha'mutte]] %%^End%%
+>> %%^Campaign:DuFr%% Freed by the [[Dunmar Fellowship]] on June 2nd, 1748 in [[Gazetteer/Greater Dunmar/Hara Basin/Agata's Lair|Agata's Lair]], [[Garamjala Desert|Garamjala]], [[Nashtkar]], the [[Desolation of Cha'mutte]] %%^End%%
 >> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[The Red Lily Inn]], [[Tokra]], [[Central Dunmar]], [[Dunmar]], the [[Greater Dunmar]] %%^End%%
 
 ![[garret-tealeaf.jpg|right|300]]Garret Tealeaf grew up traveling the roads of Dunmar with the Tealeaf trading family, eventually becoming the patriarch of a group of 5 well-armed and defended caravans that regularly made the circuit from Chardon, east to [[Songara]], Tokra, and Karawa, before turning south across the Yuvanti Mountains to Nayahar, and then north along the coast to Darba, and back to Chardon. 
 %%^Campaign:DuFr%%
 ## Relationships
-- [[Charmhearts]], occasional traveling companions after being freed from imprisonment in [[Agata's Lair]]. 
+- [[Charmhearts]], occasional traveling companions after being freed from imprisonment in [[Gazetteer/Greater Dunmar/Hara Basin/Agata's Lair]]. 
 - [[Agata]], his captor and tormentor
 - [[Seeker]], who freed him from his wooden puppet form
 - [[Wellby]], who introduced him to the Charmhearts

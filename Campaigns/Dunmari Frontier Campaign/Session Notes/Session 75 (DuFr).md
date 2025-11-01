@@ -16,7 +16,7 @@ name: Dunmari Frontier - Session 75
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
 > *In Taelgar: Nov 29, 1748 DR to Dec 04, 1748 DR*
 > *On Earth: Tuesday Apr 11, 2023*
-> *From [[Stormcaller Tower]] to [[Xurkhaz]]*
+> *From [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]] to [[Xurkhaz]]*
 
 The [[Dunmar Fellowship]] successfully defends against shadow attackers, strategizes with allies, and advances eastward towards orc territory.
 

@@ -16,6 +16,6 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The now mostly dry riverbed that flows past [[Kharsan]], eventually joining with the [[Hara]] river. 
+The now mostly dry riverbed that flows past [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]], eventually joining with the [[Hara]] river. 
 
 %%SECRET[1]%%

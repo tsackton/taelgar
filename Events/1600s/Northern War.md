@@ -16,7 +16,7 @@ dm_notes: color
 
 A brutal war fought in the north of [[Dunmar]] against the [[Blackened Claw]] hobgoblin clan. Ended is a complete and total Dunmari victory, with the hobgoblins crushed. 
 
-It was during this war that the old fortress of [[Raven's Hold]] was occupied by hobgoblin troops, who used it as a base of operations to raid against Dunmari to the south and west. 
+It was during this war that the old fortress of [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]] was occupied by hobgoblin troops, who used it as a base of operations to raid against Dunmari to the south and west. 
 
 %% some additional color in old Raven's Hold DM notes in OneNote, but nothing that changes the overall historical picture. %%
 

@@ -51,7 +51,7 @@ The [[Dunmar Fellowship]] restored Vindristjarna in the course of [[Session 74 (
 
 Currently, the hull of the ship has been restored and repaired, and two stone decks constructed, creating three floors: a storage hold that is currently mostly unimproved, a lower deck, and an upper deck. 
 
-The upper deck, occupying a total of 12,000 square feet (480 squares), is dominated by a large central courtyard, greenhouse, and garden, maintained by Kenzo. Around the railing of the upper deck is also a depiction of the travels of [[Dunmar Fellowship]], and especially the stories of the people they have met, recalling the [[Hall of Stories]] in the [[Monastery of Bhishma]]. 
+The upper deck, occupying a total of 12,000 square feet (480 squares), is dominated by a large central courtyard, greenhouse, and garden, maintained by Kenzo. Around the railing of the upper deck is also a depiction of the travels of [[Dunmar Fellowship]], and especially the stories of the people they have met, recalling the [[Hall of Stories]] in the [[Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma]]. 
 
 Also constructed are a well-equipped galley and kitchen, a dining hall, a map room maintained by Wellby, a workshop and a games room maintained by Seeker and providing space for Faldrak to work, a sanctuary of the tanshi maintained by Delwath, and comfortable living quarters for ten hirelings or followers, as well as cabins for Riswynn, Delwath, Seeker, Kenzo, and Wellby, and a guest suite. 
 

@@ -1,14 +1,14 @@
 ## Found in Kharsan
 
-- Tools and glasswork from glassblower's shop in [[Kharsan]], in northern ruins ([[Kharsan]]; [[Delwath]]) We looked at these in the mirror: [[Kharsan Broken Glassware Vision]]
- - [[Longsword of Heroism]], recovered from Kharsan and repaired by Riswynn and Kethra. A magical +1 longsword; can cast heroism as a second level spell, once per day. See in the [[Mirror of the Past]]: [[Broken Dunmari Sword Vision]]. ([[Kharsan]] palace)
-- A golden necklace with a holy symbol of Jeevali, dating to before the [[Great War]], with two blue lapus lazuli gemstones representing Jeevali's tears (recovered from [[Kharsan]]) %%SECRET[1]%%
-- A pair of nice wooden spoons (from the palace kitchens in [[Kharsan]]) %%SECRET[2]%%
-- A wand, broken in half, once magical, but no longer ([[Kharsan]] palace)
-- A nice leather saddle, cut into four pieces, once magical, but no longer ([[Kharsan]] palace)
+- Tools and glasswork from glassblower's shop in [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]], in northern ruins ([[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]]; [[Delwath]]) We looked at these in the mirror: [[Kharsan Broken Glassware Vision]]
+ - [[Longsword of Heroism]], recovered from Kharsan and repaired by Riswynn and Kethra. A magical +1 longsword; can cast heroism as a second level spell, once per day. See in the [[Mirror of the Past]]: [[Broken Dunmari Sword Vision]]. ([[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] palace)
+- A golden necklace with a holy symbol of Jeevali, dating to before the [[Great War]], with two blue lapus lazuli gemstones representing Jeevali's tears (recovered from [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]]) %%SECRET[1]%%
+- A pair of nice wooden spoons (from the palace kitchens in [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]]) %%SECRET[2]%%
+- A wand, broken in half, once magical, but no longer ([[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] palace)
+- A nice leather saddle, cut into four pieces, once magical, but no longer ([[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] palace)
 ## Found in Bhishma Monastery
 
-- Monk's journal from the [[Great War]] era. A small diary, written in Dunmari, of an unnamed monk, who seemed to have lived here just before the [[Great War]]. The entries describe life in the monastery, the joy of the craft of parchment making and especially skill required to turn it into something that could take enchantments. Then, increasing danger and the growing militarization of [[Kharsan]], several attacks, news of distant heroes and great councils, then no news, which was worse. Then, people running scared of the red death, everyone fleeing east. Last entry: choosing to stay with the elders, contribute how I can to protecting our great work. [[Bhishma]] watch over my soul. No obvious value although to the right person could be worth 5-30 gp.
+- Monk's journal from the [[Great War]] era. A small diary, written in Dunmari, of an unnamed monk, who seemed to have lived here just before the [[Great War]]. The entries describe life in the monastery, the joy of the craft of parchment making and especially skill required to turn it into something that could take enchantments. Then, increasing danger and the growing militarization of [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]], several attacks, news of distant heroes and great councils, then no news, which was worse. Then, people running scared of the red death, everyone fleeing east. Last entry: choosing to stay with the elders, contribute how I can to protecting our great work. [[Bhishma]] watch over my soul. No obvious value although to the right person could be worth 5-30 gp.
 - Blank spell scroll . Valuable, could be sold to the right person for 50-300 gp. 
 - Speak with Dead.  %%SECRET[3]%%
 ## Gomat Fort

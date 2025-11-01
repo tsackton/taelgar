@@ -16,7 +16,7 @@ name: Dunmari Frontier - Session 23
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
 > *In Taelgar: May 11, 1748 DR*
 > *On Earth: Friday Apr 23, 2021*
-> *[[Monastery of Bhishma]]*
+> *[[Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma]]*
 
 [[Kenzo]]'s initiation at the monastery leads to a quest for a [[Heart of Shakun|missing artifact]], while the party learns of the land's dark history through magical memories.
 ## Session Info

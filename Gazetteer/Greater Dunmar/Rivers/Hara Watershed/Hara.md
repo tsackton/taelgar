@@ -31,7 +31,7 @@ Beyond the [[~Hara River Gorge~]], no one knows the fate of the river. Does it f
 
 The Hara is a central river of Dunmari myth and culture. Before the [[Great War]], when the Dunmari settled in this land, the two great rivers of the Hara and the [[Kharja]], collectively known as Jeevali's Tears, provided water and sustenance to much of the people of the [[Hara Basin]]. Before the [[Yuvanti Mountains]] and the [[Garamjala Desert|Garamjala]] Plateau were raised, these rivers were separated only by the high land around [[Karawa]], and the monsoons swept across the entire plains, supporting a rich grassland ecosystem.
 
-Since the [[Great War]], the [[Kharja]] has nearly or completely dried up. None have traced its route into the [[Garamjala Desert|Garamjala]], but even near [[Kharsan]] it flows only fitfully, in sudden floods after rare storms, and it is presumed it no longer meets the Hara. 
+Since the [[Great War]], the [[Kharja]] has nearly or completely dried up. None have traced its route into the [[Garamjala Desert|Garamjala]], but even near [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] it flows only fitfully, in sudden floods after rare storms, and it is presumed it no longer meets the Hara. 
 
 The Hara has thus taken on greater significance for the Dunmari. Without it, life would not be possible in the [[Hara Basin]]. 
 
