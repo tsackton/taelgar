@@ -11,7 +11,7 @@ typeOf: watershed
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Hara Watershed is the river system that drains the central plains of [[Dunmar]]. Its principal river, the [[Hara]], flows from the northern uplands past [[Tokra]] and into the lowlands, fed by tributaries such as the [[Sukal]], [[Thandar]], and [[Sone]]. Seasonal monsoon rains define the rhythm of the watershed: dry winters with low flows, and summers when rivers run bank‑full and flood meadows green the countryside.
+The Hara Watershed is the river system that drains the central plains of [[Dunmar]]. Its principal river, the [[Hara]], flows from the northern uplands past [[Tokra]], into the lowlands, fed by tributaries such as the [[Sukal]], [[Thandar]], and [[Sone]]. Seasonal monsoon rains define the rhythm of the watershed: dry winters with low flows, and summers when rivers run bank‑full and flood meadows green the countryside.
 
 Culturally, the watershed aligns with [[Central Dunmar]]. Caravan roads parallel the larger channels, linking river towns, caravanserai, and market cities. Irrigated fields and riparian pastures anchor settlement, while outlying ranchlands and uplands support herders who move with the seasons.
 
