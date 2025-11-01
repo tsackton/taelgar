@@ -1,11 +1,15 @@
 ---
----
+headerVersion: 2023.11.25
 tags: [status/stub, place, status/check/ai]
-whereabouts: [[Hara Basin]]
+whereabouts: Hara Basin
 dm_owner: tim
 dm_notes: important
 typeOf: watershed
 ---
+# The Hara Watershed
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Hara Watershed is the river system that drains the central plains of [[Dunmar]]. Its principal river, the [[Hara]], flows from the northern uplands past [[Tokra]] and into the lowlands, fed by tributaries such as the [[Sukal]], [[Thandar]], and [[Sone]]. Seasonal monsoon rains define the rhythm of the watershed: dry winters with low flows, and summers when rivers run bank‑full and flood meadows green the countryside.
 
