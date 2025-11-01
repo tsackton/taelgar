@@ -2,8 +2,6 @@
 tags: [item, status/check/ai]
 name: Staff of the Swamplands
 typeOf: staff
-campaignInfo:
-- {campaign: GL, type: used}
 dm_owner: none
 dm_notes: none
 ---

@@ -9,5 +9,5 @@ On Minds and Chaos is the magnum opus of Gaius Devarro on Limbo, collecting frag
 %%
 DM notes / sources
 - Letters and Notes: Research about Ancient Sources on Limbo — positions On Minds and Chaos within Gaius’s collected fragments; sample imagery.
-- Cosmology: Echo Realms, Limbo — Gaius’s role in early metaphysical cosmology; “endless unmaking” phrasing tied to The Unstable Sphere via Marcion of Iridel.
+- Cosmology: Echo Realms, Limbo — Gaius’s role in early metaphysical cosmology; “endless unmaking” phrasing tied to [[The Unstable Sphere]] via Marcion of Iridel.
 %%

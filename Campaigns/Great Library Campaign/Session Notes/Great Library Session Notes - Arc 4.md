@@ -108,7 +108,7 @@ Four months later, the [[Silver Tempests]] host a party, a grand opening for [[C
 
 ### Events
 
-- (DR:: 1748-03-08) - (DR_end:: 1748-03-13): In [[Voltara]], the party sells treasure to [[Quintus Percomia]] and [[Inectos]], purchases an extradimensional vault for their treasure, and employs [[Brelith]]'s and [[Galius Filuso]]' magic to protect their home base. 
+- (DR:: 1748-03-08) - (DR_end:: 1748-03-13): In [[Voltara]], the party sells treasure to [[Quintus Percomia]] and [[Inectos Tintio]], purchases an extradimensional vault for their treasure, and employs [[Brelith]]'s and [[Galius Filuso]]' magic to protect their home base. 
 - (DR:: 1748-03-14): The party leaves [[Voltara]] for [[Goldpeak Mines]]
 - (DR:: 1748-03-15): Travel
 - (DR:: 1748-03-16): The party arrives at [[Goldpeak Mines]], fights a dwarven abberation at the camp outside, descends into the chasm, and fights a cloaker and carrion crawlers. Meet [[Cassia]] and [[Alton]]. Rest.

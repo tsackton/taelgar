@@ -17,7 +17,7 @@ Extradimensional vault
 
 A wooden statue of an eagle, about 1 foot high, has been partially eaten away by acid. However, the perfect pair of aquamarine eyes (rare gemstones, 1400 average value) and the six mother-of-pearl talons (uncommon gemstones, 420 gp average value) are salvageable. On the third pillar is a collection of gems (8 gems: 2 common, 4 uncommon, 2 rare). *3300 gold, to Quintus Percomia*
 
-The top of the stone block has been polished smooth and has a shallow indentation, in which sits four gems: two diamonds (exquisite very rare), a star sapphire (exquisite rare), and a fire opal (exquisite rare). These are labeled "The Crown Jewels of Volganis".  With the gems is a relatively plain silver circlet (uncommon art object, but worth a lot more to a collector). *6000 gold, to Inectos Tintio*
+The top of the stone block has been polished smooth and has a shallow indentation, in which sits four gems: two diamonds (exquisite very rare), a star sapphire (exquisite rare), and a fire opal (exquisite rare). These are labeled "The Crown Jewels of Volganis".  With the gems is a relatively plain silver circlet (uncommon art object, but worth a lot more to a collector). *6000 gold, to [[Inectos Tintio]]*
 
 Leaning against the rest of the treasure is a glaive, made of bone and wood. The wood itself is weakened by acid, but hanging off the top is a necklace, a silver chain with mother-of-pearl between the chain links, and a pendant made from the skull of small bird with gold inlay and freshwater pearls for eyes (rare art object, 1000 gp average value) *1000 gp to Eldeth Redhammer*
 
