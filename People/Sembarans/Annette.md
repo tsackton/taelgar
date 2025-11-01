@@ -1,5 +1,5 @@
 ---
-tags: status/check/ai
+tags: [person, status/check/ai]
 ---
 # Annette
 
