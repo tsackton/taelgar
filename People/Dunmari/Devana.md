@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/campaigninfo]
+tags: [person]
+campaignInfo: [{campaign: DuFr, type: mentioned to, date: 1748-03-29, wParty: "<met:U> <person:U> on <target>"}]
 name: Devana
 species: human
 ancestry: Dunmari
@@ -11,9 +12,10 @@ dm_notes: color
 dm_owner: none
 ---
 # Devana
->[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>[!info]+ Biographical Info  
+> A [[Dunmari]] [[Humans|human]] (he/him)  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:DuFr%% Mentioned to the [[Dunmar Fellowship]] on March 29th, 1748 %%^End%%
 
 %% need to decide how to track campaign info for people party heard of but never met%%
 
