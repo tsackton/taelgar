@@ -15,7 +15,7 @@ aliases: [Eudomes' Mirror]
 
 %% this describes both the general class of "Mirror of the Past" and the specific item, Eudomes' Mirror of the Past; ideally might want to refactor to remove the campaign specific stuff, if I decide that a Mirror of the Past is a general type of object%%
 
-![[mirror-of-the-past.png|right|400]]A large ornate wall mirror, originally mounted in [[Eudomes]]' bedroom in [[Stormcaller Tower]]. The mirror is about 4 feet tall and 1 foot wide, and mounted in a heavy gold filigree frame. 
+![[mirror-of-the-past.png|right|400]]A large ornate wall mirror, originally mounted in [[Eudomes]]' bedroom in [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]]. The mirror is about 4 feet tall and 1 foot wide, and mounted in a heavy gold filigree frame. 
 
 When an object is shown to the mirror and a question is asked, the mirror shows scenes of the item, potentially reflecting the question asked, depending on the insight and willpower of the question asker.
 

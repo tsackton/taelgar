@@ -17,4 +17,4 @@ dm_owner: tim
 %%need to figure out how to properly deal with undead%%
 %%need to add whereabouts and campaign info%%
 
-The last master of the [[Order of the Awakened Soul]] at the [[Monastery of Bhishma]], now a ghost. 
+The last master of the [[Order of the Awakened Soul]] at the [[Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma]], now a ghost. 

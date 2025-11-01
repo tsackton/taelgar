@@ -1,20 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/check/name
-  - status/cleanup/map
-  - status/cleanup/image
-  - status/stub
-  - status/check/ai
+tags: [place, status/cleanup/map, status/cleanup/image, status/check/ai]
 typeOf: region
-whereabouts: Dunmari Basin
+whereabouts: Greater Dunmar
 dm_notes: important
 dm_owner: tim
 ---
-# The Dunmari Basin
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+# The Hara Basin
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%

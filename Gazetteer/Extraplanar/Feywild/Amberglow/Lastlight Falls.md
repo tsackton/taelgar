@@ -14,7 +14,7 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Lastlight Falls is a portal between the Feywild and the material plane, located in the [[Nashtkar]], northwest of [[Kharsan]] and south of the [[Sentinel Range|Sentinels]] in the material plane, and in [[Amberglow]] in the [[Feywild]]. It takes the form of a waterfall with no visible source, that seems to glow with increasing intensity as the sunset approaches. 
+Lastlight Falls is a portal between the Feywild and the material plane, located in the [[Nashtkar]], northwest of [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] and south of the [[Sentinel Range|Sentinels]] in the material plane, and in [[Amberglow]] in the [[Feywild]]. It takes the form of a waterfall with no visible source, that seems to glow with increasing intensity as the sunset approaches. 
 
 ![[amberglow-lastlight-falls.png|600]]
 

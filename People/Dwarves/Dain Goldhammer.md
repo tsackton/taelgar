@@ -25,4 +25,4 @@ dm_owner: tim
 
 An adventurer, working for the [[Society of the Open Scroll]], funded by [[People/Chardonians/Fausto]]. Often travels with [[Dee Wildcloak]]. 
 
-Part of the group that explored [[Stormcaller Tower]] and brought [[Hralgar's Eyes]] and the [[Binding Stones]] back to [[Chardon]].
+Part of the group that explored [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]] and brought [[Hralgar's Eyes]] and the [[Binding Stones]] back to [[Chardon]].

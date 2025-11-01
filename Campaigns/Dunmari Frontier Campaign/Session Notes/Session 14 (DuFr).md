@@ -18,9 +18,9 @@ name: Dunmari Frontier - Session 14
 > *Companions: [[Vola]]*
 > *In Taelgar: Apr 13, 1748 DR to Apr 15, 1748 DR*
 > *On Earth: Sunday Dec 06, 2020*
-> *[[Samtal]] and [[Stormcaller Tower]]*
+> *[[Samtal]] and [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]]*
 
-The [[Dunmar Fellowship]] braves a magical storm to uncover secrets at [[Stormcaller Tower]], discovering ominous changes in the night sky.
+The [[Dunmar Fellowship]] braves a magical storm to uncover secrets at [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]], discovering ominous changes in the night sky.
 
 ## Session Info
 
@@ -28,7 +28,7 @@ The [[Dunmar Fellowship]] braves a magical storm to uncover secrets at [[Stormca
 - The [[Dunmar Fellowship]] debates whether to trust [[Vola]] and the [[Society of the Open Scroll]] over dinner, while Vola argues for an alliance against [[Agata|Agata Dustmother]] and suggests returning to [[Chardon]].
 - The party travels towards a permanent storm, encountering a wildfire-scorched landscape.
 - Inside the storm, runes compel [[Delwath]] to attack [[Seeker]], but the party manages to move past.
-- They find [[Stormcaller Tower]] surrounded by a calm circle, with a Chardonian grave nearby.
+- They find [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]] surrounded by a calm circle, with a Chardonian grave nearby.
 - [[Delwath]] investigates the tower, finding destruction and an aggressive arcane construct.
 - At dusk, they notice that [[Fox and Hunter|familiar constellations]] are missing from the night sky.
 
@@ -37,10 +37,10 @@ The [[Dunmar Fellowship]] braves a magical storm to uncover secrets at [[Stormca
 - (DR:: 1748-04-14): Travel across the [[Samtal|plains]] towards the lightning storm.
 - (DR:: 1748-04-15), morning: Travel across the [[Samtal|plains]] towards the lightning storm.
 - (DR:: 1748-04-15), late afternoon: Arrive at the lightning storm. [[Vola]] remains outside at camp with the horses and heavy gear. 
-- (DR:: 1748-04-15), early evening: Party pushes through the storm, arriving at [[Stormcaller Tower]]. Find remains of a Chardonian adventuring party camp, before night begins to fall and party realizes stars are changed. 
+- (DR:: 1748-04-15), early evening: Party pushes through the storm, arriving at [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]]. Find remains of a Chardonian adventuring party camp, before night begins to fall and party realizes stars are changed. 
 
 ## Narrative
-We begin with the party camped a few miles west of [[Raven's Hold]], near the trade road over the mountains, listening to the recovering wildlife of open plains as the campfire crackles, and [[Vola]] brings in a brace of birds to roast for dinner.
+We begin with the party camped a few miles west of [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]], near the trade road over the mountains, listening to the recovering wildlife of open plains as the campfire crackles, and [[Vola]] brings in a brace of birds to roast for dinner.
 
 At camp, while [[Vola]] is cooking, the party spends some time trying to sort out the events of the past two days: the demon, rumors of [[Agata]] Dustmother, [[Vola]]’s rescue, the demonically possessed vine beast and the now-broken summoning circle, gnolls and rituals involving ritually slaughtered antelope, and the many packs of wild beasts kept and freed, some now audible on the plains. After discussion of [[Vola]] and whether to trust her ([[Riswynn]]: definitely no; [[Kenzo]]: maybe we should talk to her), and what to do next (travel to [[Karawa]], or investigate the storm), dinner is ready.
 
@@ -56,9 +56,9 @@ Pressing forward, the storm grows more intense, as visibility drops and the rain
 
 Some time later -- distance and time being hard to judge in the endless storm -- the weather gets darker and wetter, lightning flashes more frequently, and eventually the party reaches what seems to be a wall of wind. [[Riswynn]]’s horse cannot take any more, and bolts. The sound is deafening, and as the party attempts to push through the wind, [[Riswynn]] and [[Kenzo]] are blown off their feet, eventually rescued by [[Wellby]]’s telepathy, [[Kenzo]]’s [[Dwarven Driftglobe|Driftglobe]], and a rope. 
 
-Inside the storm, there is a circle of dead calm stretching several hundred feet across. In the middle of this calm area, a jagged piece of blue granite juts out of the ground, almost as if it were the prow of a boat, tilted at an angle rising out of the land. Rising from the granite is a [[Stormcaller Tower|tall white marble tower]], 4 or 5 stories high, with a platform stretching out across the land below from the top. All seems silent and still, with no lights or movement coming from the tower. However, in the shelter of the granite rock, a small campsite and grave marker can be found, carved crudely with the symbol of the [[The Sibyl]], the goddess of knowledge and magic, one of the [[Mos Numena|Eight Divines]] worshipped in [[Chardon]] and many other places influenced by the [[Drankorian Empire]]. These are weeks, but not months old. 
+Inside the storm, there is a circle of dead calm stretching several hundred feet across. In the middle of this calm area, a jagged piece of blue granite juts out of the ground, almost as if it were the prow of a boat, tilted at an angle rising out of the land. Rising from the granite is a [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower|tall white marble tower]], 4 or 5 stories high, with a platform stretching out across the land below from the top. All seems silent and still, with no lights or movement coming from the tower. However, in the shelter of the granite rock, a small campsite and grave marker can be found, carved crudely with the symbol of the [[The Sibyl]], the goddess of knowledge and magic, one of the [[Mos Numena|Eight Divines]] worshipped in [[Chardon]] and many other places influenced by the [[Drankorian Empire]]. These are weeks, but not months old. 
 
-[[Stormcaller Tower]] itself seems to be of considerable interest. [[Seeker]] notes valuable metal (gold and silver) near the top, as well as something hard to describe or place running through the walls, and another unusual mineral inside the granite rock. There is also a substantial ley line node directly under the tower. [[Delwath]] decides to turn invisible and go investigate the tower. There are old, worn stairs switchbacking up the side of the granite rock to the tower entrance. The doors have been blasted apart, leaving only twisted remains of a door frame intact, little bits of wrought iron and silverwork. Inside, it looks like a tornado struck the first floor. Perhaps once a main hall, there is a fireplace but otherwise little survives but tangled rubble and a curving staircase leading up. While this destruction is recent, [[Stormcaller Tower]] itself seems very, very old. As [[Delwath]] investigates, every now and then little sparks run up and down the walls, seeming to concentrate wherever [[Delwath]] is poking around the rubble. 
+[[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]] itself seems to be of considerable interest. [[Seeker]] notes valuable metal (gold and silver) near the top, as well as something hard to describe or place running through the walls, and another unusual mineral inside the granite rock. There is also a substantial ley line node directly under the tower. [[Delwath]] decides to turn invisible and go investigate the tower. There are old, worn stairs switchbacking up the side of the granite rock to the tower entrance. The doors have been blasted apart, leaving only twisted remains of a door frame intact, little bits of wrought iron and silverwork. Inside, it looks like a tornado struck the first floor. Perhaps once a main hall, there is a fireplace but otherwise little survives but tangled rubble and a curving staircase leading up. While this destruction is recent, [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]] itself seems very, very old. As [[Delwath]] investigates, every now and then little sparks run up and down the walls, seeming to concentrate wherever [[Delwath]] is poking around the rubble. 
 
 The second floor is not nearly as destroyed, and appears to be a living space, with some small rooms and one larger room, all with closed doors, the smaller ones wooden and the large room iron and silver, which [[Delwath]] passes by to ascend the stairs to the third floor. Approaching the third floor, [[Delwath]] sees a big open space, maybe a library or study of some sort -- there are bookshelves, a large table, and, as [[Delwath]] comes towards the top of the stairs, a sparking blue arcane construct of some sort, looking like a frozen lightning bolt more than anything else, emerges from the wall. As [[Delwath]] turns to run down the stairs, it follows and sends a blasting arc of lightning at him, while [[Delwath]] dives out a window to escape. 
 

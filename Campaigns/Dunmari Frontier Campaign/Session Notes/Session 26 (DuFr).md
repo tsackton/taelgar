@@ -47,7 +47,7 @@ The party speaks with [[Candrosa]], who seems to have aged with worry and exhaus
 
 After some discussion in which the party is understandably annoyed that [[Candrosa]] was not more forthcoming earlier, he admits his only excuse is that this knowledge has been secret for so long, he was genuinely unsure what would happen if he told outsiders -- the gods work in mysterious ways after all. He now no longer trusts his judgment, however, and is willing to consider something like telling [[Havdar]] and marching a small army south to try to rescue [[Cintra]] and her daughter (if they are alive), or at least recover the Heart. And he does agree to at least tell [[Tharandros]] about the Heart. But he remains nervous that revealing this secret widely will have unexpected consequences, and at [[Delwath]]’s suggestion says he will try to search in dreams to find out whether the secret has already been revealed. The party agrees to return the following evening for a ceremony to understand the nature of [[Shakun]]’s Heart and its magic.
 
-At this the party leaves to set up camp and tend to business, including showing the broken glassware from [[Kharsan]] to the mirror, seeing [[Kharsan Broken Glassware Vision|a vision of its history]]. 
+At this the party leaves to set up camp and tend to business, including showing the broken glassware from [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] to the mirror, seeing [[Kharsan Broken Glassware Vision|a vision of its history]]. 
 
 During their day in town, [[Delwath]] speaks with [[Tharandros]] and confirms that [[Candrosa]] told him of the Heart, and [[Wellby]] negotiates barding for [[Baxter]] in exchange for a nicely made map of the area they’ve traveled in, although it will take three days to be ready. 
 
@@ -57,6 +57,6 @@ He leads the party through the temple to a chamber underneath the mesa, lit by t
 
 They experience [[The Shakun Mystai Initiation]].
 
-As the initiation ritual ends, the party snaps awake to shouts in the darkness, screams, as through a veil of blue flames shadowy forms are detaching from the wall to attack. The shadows from [[Kharsan]] have tracked the party, and taken this moment of vulnerability to launch and attack. Despite the difficulties of being caught without gear, the party fights off the shadows, although not before two mystai are killed, drained of energy and turned to withered husks by the shadow creatures. 
+As the initiation ritual ends, the party snaps awake to shouts in the darkness, screams, as through a veil of blue flames shadowy forms are detaching from the wall to attack. The shadows from [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] have tracked the party, and taken this moment of vulnerability to launch and attack. Despite the difficulties of being caught without gear, the party fights off the shadows, although not before two mystai are killed, drained of energy and turned to withered husks by the shadow creatures. 
 
 We end as the party regroups, helping [[Candrosa]] tend to the bodies of the dead and preparing for a funeral and plans in the morning. 

@@ -28,10 +28,10 @@ The [[Dunmar Fellowship]] uncovers a trove of dwarven treasures and signs of an 
 - They negotiate with [[Inakara]], a creature guarding the tunnels, to gain access to a vault.
 - Inside the vault, they discover treasure including the [[Shield of the Brawnanvil Clan]], a [[Shatterstorm|magical warhammer]], potions, [[Dwarven Driftglobe|driftglobes]], and trade bars.
 - The scene of an ancient battle with a [[Ithilids|mind flayer]] raises concerns about the return of these creatures.
-- The party negotiates for access to a tunnel leading to [[Raven's Hold]] with [[Inakara]].
+- The party negotiates for access to a tunnel leading to [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]] with [[Inakara]].
 
 ### Timeline
-- (DR:: 1748-04-12), mid-afternoon: Find [[Shield of the Brawnanvil Clan|Brawnanvil Shield]] and [[Shatterstorm]] in abandoned dwarven treasury. Find signs of mind flayer incursions from centuries ago. Find tunnel to [[Raven's Hold]].
+- (DR:: 1748-04-12), mid-afternoon: Find [[Shield of the Brawnanvil Clan|Brawnanvil Shield]] and [[Shatterstorm]] in abandoned dwarven treasury. Find signs of mind flayer incursions from centuries ago. Find tunnel to [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]].
 
 ## Narrative
 As our session begins underneath the mountains, across the dusty plains and deserts of [[Dunmar]], people are moving. In the west, a tired mass of refugees flees [[Karawa]], hopefully now nearing the River [[Hara]] and the outskirts of [[Tokra]]. To the south, [[Alesh]] and her small group of companions ride quickly and quietly through the deserts, hopefully avoiding danger along the way as they try to learn what lurks in the ruins of [[Bas Udda]] and beyond. In [[Karawa]], the acolytes and initiates of the [[Shakun Mystai]] remain holed up in the [[Temple of Shakun]], as [[Centaurs]] ride fast towards them, bringing news, and perhaps aid in battle, should it be needed, and not too late already.
@@ -44,6 +44,6 @@ As the party approaches the vault, [[Inakara]] disappears, pointing them down th
 
 After taking some time to pay respects for the dead and examine the treasure, the party decided to explore the inner chamber of the vault, where a rubble-strew crack in the side of a wall formed the opening to a tunnel heading west. After [[Seeker]] cleared the loose stone, [[Delwath]] investigated the tunnel, turning invisible first to maintain stealth. Eventually, the tunnel ended in what seemed to be a mine shaft, stretching both above and below the tunnel entrance, where signs of [[adamantine]] ore remained. 
 
-Returning to the vault entrance and [[Inakara]], [[Riswynn]] with the aid of the rest of the party, and [[Kenzo]]’s soul sight, negotiates passage to a tunnel leading east towards [[Raven's Hold]] for two silver bars, plus three when they arrive at the tunnel. Along the way, some discussion of the mind flayers’ return occurs, with [[Inakara]] seemingly excited that, with the roper dead, the mind flayers have a clear path (although the rumors and legends of mind flayers suggests they are much, much more deadly than the stalagmite scavenger known as a roper).
+Returning to the vault entrance and [[Inakara]], [[Riswynn]] with the aid of the rest of the party, and [[Kenzo]]’s soul sight, negotiates passage to a tunnel leading east towards [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]] for two silver bars, plus three when they arrive at the tunnel. Along the way, some discussion of the mind flayers’ return occurs, with [[Inakara]] seemingly excited that, with the roper dead, the mind flayers have a clear path (although the rumors and legends of mind flayers suggests they are much, much more deadly than the stalagmite scavenger known as a roper).
 
 We leave our heroes contemplating a locked iron grate in front of a tunnel sloping down to the east, [[Inakara]] retreating in the distance. 

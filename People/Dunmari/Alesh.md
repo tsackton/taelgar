@@ -45,6 +45,6 @@ dm_owner: tim
 - 1 June 1748: Rides for [[Tokra]] to inform refugees it is safe to return
 - 5 June 1748: Arrives in [[Tokra]] with news of safety in [[Karawa]]
 - 6 June 1748: Leaves to return to [[Karawa]] at first light
-- 10 June 1748: Arrives back in [[Karawa]]. Reports on rumors from [[Karawa]] to [[Delwath]], and speaks with him about the Dunmari shield recovered from [[Agata's Lair]]. 
+- 10 June 1748: Arrives back in [[Karawa]]. Reports on rumors from [[Karawa]] to [[Delwath]], and speaks with him about the Dunmari shield recovered from [[Gazetteer/Greater Dunmar/Hara Basin/Agata's Lair]]. 
 - 18-19 June 1748: Celebrates the [[Feast of Bhishma]] in [[Karawa]] with [[Dunmar Fellowship]] and others. 
 %%SECRET[2]%%

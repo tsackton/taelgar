@@ -110,7 +110,7 @@
 
   
 
-*Adventures:* The Dunmar Frontier campaign has involved numerous adventures in this region, including [[Central Dunmar]], [[Darba]] and the [[Darba Highlands]], [[Eastern Dunmar]], [[Tokra]], [[Karawa]], the [[Nashtkar]] and other regions east of Karawa, including [[Kharsan]], [[Xurkhaz]], the [[Awakened Jungle]], and [[Drankor]]. The [[Oskar and Riswynn Adventures]] were largely set in [[Nardith]] and nearby regions, but did not involve much worldbuilding.
+*Adventures:* The Dunmar Frontier campaign has involved numerous adventures in this region, including [[Central Dunmar]], [[Darba]] and the [[Darba Highlands]], [[Eastern Dunmar]], [[Tokra]], [[Karawa]], the [[Nashtkar]] and other regions east of Karawa, including [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]], [[Xurkhaz]], the [[Awakened Jungle]], and [[Drankor]]. The [[Oskar and Riswynn Adventures]] were largely set in [[Nardith]] and nearby regions, but did not involve much worldbuilding.
 
 ## 6. Eastern Drankor
 
