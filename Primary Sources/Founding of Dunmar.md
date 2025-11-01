@@ -18,7 +18,7 @@ The people wept, but [[Aagir]] appeared to them in a vision, angry, saying "My s
 
 As he spoke, he was amazed, for his sister [[Bhishma]] stood and the spirit of [[Jeevali]] was beside her, and she said, speaking, "I have not been idle either, my brother, for as you conquered we prayed, and made sacrifices in the name of [[Jeevali]], and lo she is returned."
 
-And then [[Jeevali]] rose, and stepped forward to the people of [[Dunmar]] gathered at the Temple, and they rejoiced in her name and praised her and [[Bhishma]], and [[Jeevali]] admonished the people to forget not this day, and every year hence the [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Festival of Rebirth]] has been celebrated at the driest time of the year in the spring, before the seasonal rains come, to mark the death and life of [[Jeevali]] and her cleansing of the land for the Dunmari. 
+And then [[Jeevali]] rose, and stepped forward to the people of [[Dunmar]] gathered at the Temple, and they rejoiced in her name and praised her and [[Bhishma]], and [[Jeevali]] admonished the people to forget not this day, and every year hence the [[Festival of Rebirth]] has been celebrated at the driest time of the year in the spring, before the seasonal rains come, to mark the death and life of [[Jeevali]] and her cleansing of the land for the Dunmari. 
 
 Among the [[Lakan Mystai]], it is said that [[Laka]] was there as well, and turned to [[Bhishma]], and gave her the secret knowledge that the land was not given freely. A great cost would be paid, that the people of [[Dunmar]] were a bulwark against the fall of night, and that what was dealt upon their enemies would be returned to them many fold, but the sacrifice would earn the Dunmari the gratitude of the world. 
 
