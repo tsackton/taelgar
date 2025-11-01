@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
-typeOf: river
-whereabouts: Addermarch
+tags: [place, status/check/name, status/stub]
+displayDefaults: {defArt: "the"}
+typeOf: waterway
+typeOfAlias: river
+whereabouts: 
+- {type: primary, location: Addermarch}
+- {type: secondary, location: Wistel-Enst Watershed }
 dm_owner: none
 dm_notes: none
 ---
-# The ~Aure East Fork~
+# The Tarn
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

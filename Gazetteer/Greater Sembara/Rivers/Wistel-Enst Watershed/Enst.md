@@ -4,7 +4,9 @@ tags: [place]
 displayDefaults: { linkText: on, defArt: the }
 name: Enst
 typeOf: river
-whereabouts: Sembara
+whereabouts: 
+- {type: primary, location: Sembara}
+- {type: secondary, location: Wistel-Enst Watershed }
 aliases: [River Enst, Enst River]
 dm_notes: none
 dm_owner: mike

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place, status/stub, status/check/ai]
 name: Tafolwern
 typeOf: city
 whereabouts: Tyrwingha
@@ -30,4 +30,21 @@ Some notes from various emails/Discord conversations with Kiya re [[Celyn]] that
    (based on: Sudden realization that the decorations in Tafolwern that are based on Sylvan texts probably look basically like AI-generated text to people literate in it)
 
 Tafolwern culturally dominates the urban scene - like Paris in France, it is "the" city. I haven't really made up Tafolwern but there are definitely echoes of Ethlenn's court and plenty of fairy influence on the urban design
+%%
+
+Tafolwern is the pre‑eminent city of [[Tyrwingha]] and its capital, a place of broad parks, river walks, and towers whose ornament borrows the flowing lines of Sylvan script. The city’s culture radiates outward across the region: fashions, songs, and phrases begun here soon colour the speech of far towns.
+
+## Character and Layout
+Tafolwern sits astride a great bend in the river, stitched together by stone bridges and terraced gardens. Boulevards and courtyards are planned with an eye for vistas and performance spaces. Decorative friezes echo the look of Sylvan writing—often stylized by artists who do not themselves write the language, producing an intentional aesthetic rather than legible text.
+
+## People and Culture
+Theatres and salons flourish; itinerant companies make their reputations in Tafolwern before touring the provinces. Music and poetry mingle courtly tradition with woodland motifs long associated with the Wyrdling and Ethlenn’s court.
+
+## Governance and Faith
+As capital, Tafolwern houses the principal courts and ministerial offices of Tyrwingha. Temples and groves are distributed through the wards rather than concentrated in a single precinct, reflecting a balance between urban life and old pacts with the green places.
+
+%%
+DM notes and campaign references
+- See character backgrounds and travel notes touching Tafolwern (e.g., Campaigns/Cleenseau Campaign/Celyn’s stories) for tone: intimidating size, Sylvan‑inspired decoration, and a sense of cultural centrality.
+- Population ballpark used in notes: c. 35,000. Treat as campaign‑scale guidance rather than fixed census.
 %%

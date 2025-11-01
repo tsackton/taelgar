@@ -5,7 +5,9 @@ displayDefaults: {defArt: the}
 name: Aure
 typeOf: waterway
 typeOfAlias: river
-whereabouts: Addermarch
+whereabouts: 
+- {type: primary, location: Addermarch}
+- {type: secondary, location: Wistel-Enst Watershed }
 aliases: [River Aure, Aure River]
 dm_notes: none
 dm_owner: none
