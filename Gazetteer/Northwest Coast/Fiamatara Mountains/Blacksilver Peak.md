@@ -13,7 +13,7 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A jagged, ice‑shrouded summit in the far north of the [[Fiamatara Mountains]]. Blacksilver Peak is a sharp, snow‑and‑ice covered knife edge, and source of perpetual storms, even in summer. Beneath the peak lies an ancient Dwarven road and an old complex leading to the so‑called "Endless Stair" through the heart of the mountain.
+A jagged, ice‑shrouded summit in the far north of the [[Fiatara Mountains]]. Blacksilver Peak is a sharp, snow‑and‑ice covered knife edge, and source of perpetual storms, even in summer. Beneath the peak lies an ancient Dwarven road and an old complex leading to the so‑called "Endless Stair" through the heart of the mountain.
 
 %% DM
 

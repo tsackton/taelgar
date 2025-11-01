@@ -25,7 +25,7 @@ Our adventure starts on the road: [[Brelith]], [[Adrik]] , [[Samso]], and [[Alto
 
 In [[Lyra]]’s camp, the party learns their mission: search for the [[Elemental Scrolls of Airion|scrolls of elemental power]]. The location of the [[Flamekeeper Scroll]] and the [[Stonemaster Scroll]] are known, while the location of the [[Skyborn Scroll]] and the [[Deepwater Scroll]] are not. 
 
-Our heroes decide to head to the Forge of Fire, a part of an [[Goldpeak Mines|ancient Dwarven mine complex]] that once extended through much of the [[Fiamatara Mountains]], where the [[Flamekeeper Scroll ]]is thought to be. They find it is now a kobold shrine to the “fire god”, which is a rune protecting the Flamekeeper Scroll. After killing some [[kobolds]] and convincing others they are the fire god made flesh, they get the scroll, and leave, but not before triggering a magma eruption which destroys forge and probably all the kobolds. 
+Our heroes decide to head to the Forge of Fire, a part of an [[Goldpeak Mines|ancient Dwarven mine complex]] that once extended through much of the [[Fiatara Mountains]], where the [[Flamekeeper Scroll ]]is thought to be. They find it is now a kobold shrine to the “fire god”, which is a rune protecting the Flamekeeper Scroll. After killing some [[kobolds]] and convincing others they are the fire god made flesh, they get the scroll, and leave, but not before triggering a magma eruption which destroys forge and probably all the kobolds. 
 #### Events
 
 - (DR:: 1747-04-04): [[Samso]], [[Brelith]], [[Adrik]], and [[Alton]] are attacked by [[goblins]] on the road to [[Voltara]], and then meet Archivist [[Lyra]] at her camp. 
@@ -72,7 +72,7 @@ While [[Brelith]] and [[Aglath]] return to town, [[Samso]], [[Adrik]], and [[Ael
 
 - (DR:: 1747-05-29): Wolves driven mad by some magic attack [[Voltara]], and are defeated by [[Adrik]], [[Samso]], [[Aglath]], and [[Brelith]]. 
 - (DR:: 1747-05-30): [[Adrik]], [[Samso]], [[Aglath]], [[Aelar]], and [[Brelith]] meet [[Quintus Percomia]], a caravan master and [[chalyte]] trader. They learn about some [[centaurs]] to the south in trouble, but decide to head west to find the source of the wolf attacks. 
-- (DR:: 1747-06-01): [[Adrik]], [[Samso]], [[Aglath]], [[Aelar]], and [[Brelith]] arrive at the entrance to the [[Deeprivers|Deepriver Clan]] mine under [[Goldpeak Mountain]], in the [[Fiamatara Mountains]]. They enter, fight some battles, and retreat. 
+- (DR:: 1747-06-01): [[Adrik]], [[Samso]], [[Aglath]], [[Aelar]], and [[Brelith]] arrive at the entrance to the [[Deeprivers|Deepriver Clan]] mine under [[Goldpeak Mountain]], in the [[Fiatara Mountains]]. They enter, fight some battles, and retreat. 
 - (DR:: 1747-06-02): [[Brelith]] and [[Aglath]] return to town. [[Samso]], [[Adrik]], and [[Aelar]] head back to the mine, where they meet [[Oskar]] and clear the mine of the magic that was causing trouble. 
 - (DR:: 1747-06-04): [[Samso]], [[Adrik]], and [[Aelar]] return to [[Voltara]]. 
 
@@ -157,7 +157,7 @@ Returning from the success of restoring the [[Order of Twilight Temple (Voltara)
 ## Adventure 11: The Skyborn Scroll
 ### Session 17
 
-Camped outside the kobold lair, [[Adrik]], [[Brelith]], [[Aelar]], and [[Samso]] meet up with [[Aglath]] and contemplate their next move. The Skyborn scroll is thought to be located in [[Airion’s Tower]], a floating tower deep in the highest peaks of the [[Fiamatara Mountains]], near [[Blacksilver Peak]], at the northern edge of the [[Goldpeak Mines|old Dwarven fortresses]] in these mountains. The party decides to head north. Heading north on the [[Erbalta Plains|plains]], they are attacked by a hobgoblin patrol returning to camp in the mountains, and nearly killed. Only some quick thinking from [[Samso]], and an elemental summoned by [[Aelar]] while barely clinging to consciousness, keeps the party from ending up the prisoners of the hobgoblins. 
+Camped outside the kobold lair, [[Adrik]], [[Brelith]], [[Aelar]], and [[Samso]] meet up with [[Aglath]] and contemplate their next move. The Skyborn scroll is thought to be located in [[Airion’s Tower]], a floating tower deep in the highest peaks of the [[Fiatara Mountains]], near [[Blacksilver Peak]], at the northern edge of the [[Goldpeak Mines|old Dwarven fortresses]] in these mountains. The party decides to head north. Heading north on the [[Erbalta Plains|plains]], they are attacked by a hobgoblin patrol returning to camp in the mountains, and nearly killed. Only some quick thinking from [[Samso]], and an elemental summoned by [[Aelar]] while barely clinging to consciousness, keeps the party from ending up the prisoners of the hobgoblins. 
 
 ### Session 18
 

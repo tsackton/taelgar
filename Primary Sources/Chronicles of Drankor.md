@@ -12,7 +12,7 @@ Not sure if the discord chat data is worth keeping or incorporating or just dele
 A list of the Emperors of Drankor, based on Cavarrio's Chronicles of Drankor, considered the definitive history of the Empire in post-Great War Chardon. May not be accurate; written based exclusively on secondary sources, many of which have since been lost. Takes the form of annals of emperors.
 
 Cavarrio divides the history of Drankor into five eras:
-- Founding Era, when the Drankorian Empire was established and first grew across what is now the lower Istaros and the Dunmari Basin, and then into the western Green Sea. 
+- Founding Era, when the Drankorian Empire was established and first grew across what is now the lower Istaros and the [[Dunmari Basin]], and then into the western Green Sea. 
 - First Peace, a long period of peace and prosperity and stability
 - Western Expansion, when the Empire expanded north along the west coast
 - Golden Age, a second period of peace and prosperity. 

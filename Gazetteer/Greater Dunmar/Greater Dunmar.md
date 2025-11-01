@@ -94,7 +94,7 @@ _See also: {links to lists, e.g. Places in Region}_
 
 %% 
 
-## 5. Dunmari Basin
+## 5. [[Dunmari Basin]]
 
 *Area:* This region includes the [[Dunmari Basin]], the [[Myraeni Gap]], and the [[Garamjala Desert]] (including the orc kingdom of [[Xurkhaz]]), as well as the ancient city of [[Drankorian Empire|Drankor]] and the [[Sea of Storms]]. 
 

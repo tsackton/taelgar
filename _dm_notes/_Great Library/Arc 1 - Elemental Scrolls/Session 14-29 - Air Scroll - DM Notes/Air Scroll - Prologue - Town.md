@@ -38,7 +38,7 @@ _"I have important news. We have received a ransom demand from the a group of ko
 _The library is willing to pay this money in order to facilitate a quick retrieval of this critical information. I need you to bring the gold west to the meeting location along the road to the coast [she hands you a map with the location sketched crudely in charcoal, but clear enough]. Make sure that the messenger and the information he is carrying is retrieved! The messenger alone is not enough, we must have the location of the scroll as well. And be careful - kobolds are notorious tricksters and cunning foes when they want to be. Do not underestimate them!"_
  
 -time for questions, etc  
--the handover location is on the western road, close to where the road passes the [[Fiamatara Mountains]]  
+-the handover location is on the western road, close to where the road passes the [[Fiatara Mountains]]  
 -she will give them 500 gold plus 200 extra for "complications"
  
 **Journey**

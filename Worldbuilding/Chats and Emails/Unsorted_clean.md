@@ -1229,7 +1229,7 @@ Right. So a canonical way of putting it might be: Shortly after the fall of Dran
 yeah the vibe is supposed to be somewhat like spread of islam right after the death of muhammad - very quick
 
 [1/20/2025 3:22 PM] rsulfuratus
-the founding is DR 1171 - DR 1173, roughly, and the dunmar probably expand to the modern "Dunmari Basin" plus some of the area stretching east to the Mahar (modern day Xurkhaz) within 10 years
+the founding is DR 1171 - DR 1173, roughly, and the dunmar probably expand to the modern "[[Dunmari Basin]]" plus some of the area stretching east to the Mahar (modern day Xurkhaz) within 10 years
 
 [1/20/2025 3:23 PM] Deciusmus
 but isingue and dunmar are presumably neighbors
@@ -2138,7 +2138,7 @@ I think the Yeraad river valley is definitively not Nevos culturally, and better
 the canal is clearly chardonian now, but the area is more nevos in culture. exact dividing line south of chardon TBD since that area is not invented. but for sure the canal should be nevos
 
 [1/23/2025 4:31 PM] rsulfuratus
-to the south, basically the "high desert" should be outside greater dunmar, with the line running Xurkhaz east to Kharja, then south, cutting across the southern edge of the Hara River Gorge (the only outflow from the DUnmari Basin), then across Yuvanti to the line of the Shrev. this splits historical dunmar a bit but makes a good dividing line in the present between "dunmar-ish" and "true desolation"
+to the south, basically the "high desert" should be outside greater dunmar, with the line running Xurkhaz east to Kharja, then south, cutting across the southern edge of the Hara River Gorge (the only outflow from the [[DUnmari Basin]]), then across Yuvanti to the line of the Shrev. this splits historical dunmar a bit but makes a good dividing line in the present between "dunmar-ish" and "true desolation"
 
 [1/23/2025 4:34 PM] Deciusmus
 with the cavaet that the line between "Eastern green sea" and "Far north" is actually totally arbitrary since this whole "far northeast" region is completely blank
@@ -2537,7 +2537,7 @@ i think a jury-rigged implementation is fine. i think the main goal would to be 
 So at a high level everything moves smoothly.... (a) Garamjala moves to ruins of drankor (b) Chataan Mountains moves to Greater Chardon (it was previously in Darba Highlands, but Darba Highlands was also defined as "the hills south of the Chataan mts, so I think moving is correct) The River Chaudi gets a bit funny as it is in the "Nayan Floodplains" which is now split across regions (north of shrev = dunmar, south of shrev = ruins of drankor).
 
 [1/24/2025 11:59 AM] Deciusmus
-I havent' done it, but the "Greater Dunmar" main page simplies to define 4 major topological features of Greater Dunmar: - Yuvanti Mts - Nayan Floodplain - Darba Highlands - Dunmari Basin And borders: - Sentinels to the North - Nevos Sea to the west & south west - Mryani Gap to the west/northwest - Garamjala Plateau to the east The current region borders have Dunmar going all the way to the Kuthul River, but I'm not sure if that is correct and perhaps "Greater Dunmar" ends at the Kharja instead.
+I havent' done it, but the "Greater Dunmar" main page simplies to define 4 major topological features of Greater Dunmar: - Yuvanti Mts - Nayan Floodplain - Darba Highlands - [[Dunmari Basin]] And borders: - Sentinels to the North - Nevos Sea to the west & south west - Mryani Gap to the west/northwest - Garamjala Plateau to the east The current region borders have Dunmar going all the way to the Kuthul River, but I'm not sure if that is correct and perhaps "Greater Dunmar" ends at the Kharja instead.
 
 [1/24/2025 12:26 PM] Deciusmus
 Either way, from a rivers standpoint, the Greater Dunmar region has no mixed watersheds (although the map shows the Kharja and Hara joining, the text of both of the pages makes it seem like whether they do or not is unclear, and the gazetter would make more sense to have them unjoined and unclear)
@@ -2564,7 +2564,7 @@ whether either/both still join the Istaros is canonically unknown, although if y
 re: Chataan Mts, agree it makes sense and the Dunmari aren't really mountain people, but the name is Dunmari - probably should come up with a Chardonian name at some point, or an ancient pre-Drankor name
 
 [1/24/2025 12:43 PM] rsulfuratus
-might include the Nashtkar as a fifth topological feature. i never quite worked out the topography here but based on the rivers, if the Dunmari Basin is indeed now an endorheic basin, the Nashtkar should be at a higher elevation and separate the Kharja rivershed from the Hara
+might include the Nashtkar as a fifth topological feature. i never quite worked out the topography here but based on the rivers, if the [[Dunmari Basin]] is indeed now an endorheic basin, the Nashtkar should be at a higher elevation and separate the Kharja rivershed from the Hara
 
 [1/24/2025 12:44 PM] rsulfuratus
 now back to work - are you pushing this to your region branch? i might take a look later this afternoon
@@ -3650,7 +3650,7 @@ and geographic feaure -> larger feature -> region, except when the geographic fe
 i'm not sure it is ever useful to follow non-polity on a person page, unless you can't because the place isn't in a polity
 
 [1/27/2025 8:03 PM] rsulfuratus
-e.g., you don't want: Songara plains -> Dunmari basin -> Greater Dunmar you want Songara plains -> Dunmari basin -> Dunmar or Songara plains -> Central Dunmar -> Dunmar
+e.g., you don't want: Songara plains -> [[Dunmari basin]] -> Greater Dunmar you want Songara plains -> [[Dunmari basin]] -> Dunmar or Songara plains -> Central Dunmar -> Dunmar
 
 [1/27/2025 8:04 PM] Deciusmus
 right

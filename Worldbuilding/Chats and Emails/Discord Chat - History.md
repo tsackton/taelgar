@@ -194,7 +194,7 @@ rsulfuratus — Today at 3:18 PM
 
 yeah the vibe is supposed to be somewhat like spread of islam right after the death of muhammad - very quick
 
-the founding is DR 1171 - DR 1173, roughly, and the dunmar probably expand to the modern "Dunmari Basin" plus some of the area stretching east to the Mahar (modern day Xurkhaz) within 10 years
+the founding is DR 1171 - DR 1173, roughly, and the dunmar probably expand to the modern "[[Dunmari Basin]]" plus some of the area stretching east to the Mahar (modern day Xurkhaz) within 10 years
 
 the exact borders are a little vague because it is not clear exactly what is happening with Isingue at this time, and how far south it expands, etc
 

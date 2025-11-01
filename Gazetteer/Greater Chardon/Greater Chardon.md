@@ -36,7 +36,7 @@ _See more: {links}_
 
 %%
 Elves:  None
-Dwarves: Coastal Apporia (refugess of interior wars). Likely no major kingdom currently. [[Fiamatara Mountains]] may have had a destroyed dwarven civilization. Some space for more surface dwellers say along the hills around Lake Valandros but likely none
+Dwarves: Coastal Apporia (refugess of interior wars). Likely no major kingdom currently. [[Fiatara Mountains]] may have had a destroyed dwarven civilization. Some space for more surface dwellers say along the hills around Lake Valandros but likely none
 Lizardfolk: Major culture in the Yeraad River basin
 Humans:  [[Chardonian Empire]] and several Yeerad basin cultures. Chardonian empire has subsumed largely peacefully (in this region) several post Drankorian polities to be defined ([[Castrella]] is one)
 Stoneborn:  Coastal Apporia (refugess of interior wars)
