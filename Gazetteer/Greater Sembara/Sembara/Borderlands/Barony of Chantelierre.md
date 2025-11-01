@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/check/mike]
+tags: [place, status/stub]
 typeOf: barony
 whereabouts: Borderlands
 pronunciation: SHAWN-tel-ee-air
@@ -13,6 +13,4 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% borders Tyrwingha; probably older than most of the rest of borderlands. l
-
-eft with stub tag as there is not enough detail in vault for reliable AI invention %%
+%% borders Tyrwingha; probably older than most of the rest of borderlands. left with stub tag as there is not enough detail in vault for reliable AI invention %%

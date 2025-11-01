@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/check/mike]
+tags: [place, status/stub]
 whereabouts: Borderlands
 typeOf: barony
 pronunciation: Voh-klair
@@ -13,7 +13,4 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Nothing really exists about this place except the hints in the borderlands page 
-
-Left as a stub due to lack of detail in vault to expand 
-%%
+%% Nothing really exists about this place except the hints in the borderlands page  %%
