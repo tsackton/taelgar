@@ -11,6 +11,6 @@ On the first day of Quintarum, DR 1749, a rift to Pandemonium was opened in Char
 %%
 DM notes / sources
 - “Pandemonium Scroll” note: records the 1749‑05‑01 rift event in Chardon and that the scroll was destroyed when used; initial blame fell on named mages, later tied to Apollyon’s doppelganger plots.
-- Session 124–126 (DuFr): city context—riots, Eightfold Flame, martial law, and summons to the Imperial Palace.
+- Session 124–126 (DuFr): city context—riots, Eightfold Flame, martial law, and summons to the [[Imperial Palace]].
 - Related background: Fraternity of the Empty Moon (werewolf cult aligned to Pandemonium), Tokra weak points, Exile of the Fraternity of the Empty Moon event.
 %%
