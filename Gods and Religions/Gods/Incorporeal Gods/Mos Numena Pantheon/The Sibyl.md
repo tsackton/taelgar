@@ -11,15 +11,13 @@ dm_notes: none
 >[!info]+ Summary  
 > she/her
 
-%% setting status/check/mike to confirm frontmatter %%
-
-%% vibe check:
+%% vibes and note:
 - i've always thought of the sibyl as kind of part of a trio with the wanderer and the wyrdling that are seen as more personal, more present, more likely to pay attention to an individual. 
 - the original idea of the sibyl also had a focus on obsession, trying to blend e.g. scholarly obsession and romantic obsession into the divine of love and knowledge, and then sticking on magic on top as it needed a home. 
 - perhaps the most greek-goddess-like of any of the eight divines?
-%%
+- *needs some thought about holy symbol* 
 
-%% needs some thought about holy symbol %%
+%%
 
 A deity in the [[Mos Numena]] pantheon, and one of the [[Incorporeal Gods]] of humanity. 
 

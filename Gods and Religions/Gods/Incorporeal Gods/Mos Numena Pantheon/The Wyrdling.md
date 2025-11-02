@@ -10,30 +10,26 @@ dm_notes: important
 >[!info]+ Summary  
 > they/them
 
-%% needs some thought about holy symbol %%
+%% vibes and notes:
 
-%% set to joint - not sure if useful to add status/cleanup/external or any other marker of your notes; AFAIK no shared notes. i copied only relevant stuff in my dm notes below, at end. could set to dm_notes: none from my end %%
+discord on wyrdling vs wildling, repeated from wilding page:
+- the one thing I might want to keep is having weather associated with the wyrdling, not the wildling, playing up the association with chance/luck/fate and storms. which also indirectly makes the wyrdling a sort of alternate patron of sailors of a sort
+- maybe the wyrdling is associated with the effect of the weather, whereas the wildling is associated with the weather itself
+- the wyrdling though might be associated with the luck of the wind, the chance of rain; the one sailors pray to for good winds
+- if the monsoon rains don't come you worry that you offended the wilding; if you want good weather for your wedding day you make an offering to wyrdling
+-  I like that the Eight Divines are generally pretty impersonal and abstract, since it fits with the kind of Drankorian feeling. but I also think it is nice to have some that play against type so to speak and the wyrdling seems a good candidate. also contrasts with the very impersonal sense of the wildling as nature writ large
+ - the sibyl and maybe the wanderer also might have that kind of more personal feeling, with the mother, the father, and the wildling as the most vast and impersonal
+ - non-canon note in comments at end about place invented but not used in Dunmar Frontier game.
+- Mike:  I have some significant in-game experience with wyrdling  as one of my players is a cleric  of the wyrdling, some of which is worth capturing here
+- *needs some thought about holy symbol*
 
-%% Mike:  I have some significant in-game experience with wyrdling  as one of my players is a cleric  of the wyrdling, some of which is worth capturing here %%
+%%
 
 A deity in the [[Mos Numena]] pantheon, and one of the [[Incorporeal Gods]] of humanity. 
 
 The Wyrdling is rarely depicted in human form, and is depicted in many ways. The most common are chaotic and natural in nature: an embodied storm, a whirlpool, sometimes a rainbow. But some depictions show the Wyrdling as a jester with two faces, one male and one female, happy and sad at the same time. Other times they are depicted as a androgynous face, often depicted as if it was mid-shift from male to female. They are the Divine of chaos, luck, chance, and fate, and are associated with prophecy, divination, dreams, and the virtue of hope. They watch over those taking risks or chances, as well as artists and poets, and those who are lost in their own minds. They are also the Divine of transgender people, and anyone born 'out of season' with themselves. 
 
 %% In mechanical terms, their clerics would usually be associated with the Trickster or Tempest domain.
-%%
-
-%% discord on wyrdling vs wildling
-
-the one thing I might want to keep is having weather associated with the wyrdling, not the wildling, playing up the association with chance/luck/fate and storms. which also indirectly makes the wyrdling a sort of alternate patron of sailors of a sort
-
-maybe the wyrdling is associated with the effect of the weather, whereas the wildling is associated with the weather itself
-
-the wyrdling though might be associated with the luck of the wind, the chance of rain; the one sailors pray to for good winds
-
-if the monsoon rains don't come you worry that you offended the wilding; if you want good weather for your wedding day you make an offering to wyrdling
-
-
 %%
 
 %% Tim notes - a place in the Chasa river valley you never went to, but dropping here as possible color / ideas for Wyrdling. Not canon, but I kind of like the Solatine Order. 
@@ -51,10 +47,5 @@ There is a strange feeling about the place, not exactly a sense of peace but a s
 The abbey is currently occupied by a lone hermit/priest, who goes by Mel
 
 This is a safe place to rest - shadow hunters cannot get here.
-
----
- I like that the Eight Divines are generally pretty impersonal and abstract, since it fits with the kind of Drankorian feeling. but I also think it is nice to have some that play against type so to speak and the wyrdling seems a good candidate. also contrasts with the very impersonal sense of the wildling as nature writ large
- 
-the sibyl and maybe the wanderer also might have that kind of more personal feeling, with the mother, the father, and the wildling as the most vast and impersonal
 
 %%

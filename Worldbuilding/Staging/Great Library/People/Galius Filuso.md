@@ -37,6 +37,9 @@ Galius Filuso is a priest of [[The Night Queen]] based in [[Voltara]], one of th
 - (DR:: 1747-09-28): Sat on Voltara’s war council during preparations for the [[Battle of Voltara]].
 
 %% DM
+
+priest trying to restore order of twilight. based in Voltara. approx level 9. no real details about him except this character sheet: https://www.dndbeyond.com/characters/46367292
+
 ### Roleplaying Notes
 - Experienced, practical priest; mission‑focused on restoration of the Order; speaks formally in civic contexts.
 
