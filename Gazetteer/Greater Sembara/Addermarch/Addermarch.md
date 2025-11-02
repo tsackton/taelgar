@@ -113,7 +113,6 @@ Natural features include:
 Settlements include:
 - [[Adderfell]], the largest settlement and only city in Addermarch, at the height of navigation of the [[Aure]], center of apple farming and brandy production
 - [[Tygate]], a small market town near the southern border
-- [[Dunwick]], a small market town in the western part of the [[Aure|Aure river]] valley
 - [[Valcroix]], a market town at the confluence of the [[Umber]] and [[Velan]]rivers
 - [[Roscombe]], a market town in the northwestern highlands, near [[Torvaine Forest]]
 - [[Brantor]], a village near [[Roscombe]]
