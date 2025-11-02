@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/tim, place]
+tags: [place]
 typeOf: wall
 whereabouts: Sembara
 dm_owner: mike
@@ -14,7 +14,6 @@ dm_notes: none
 The Western Wall of Sembara is an impressive chain of fortifications, including extensive stone curtain walls, towers, and redoubts, supported by long a series of ditches. It runs across the western marches, anchored by the garrison towns of [[Dunfry]] in the south and [[Dunmore]] in the north.
 
 %%
-Ping-pong back to Tim; if you like the below, remove the check --
 The construction occurred after the Great War, but not before [[Dunmore]] was established as a frontier town in the 1560s or 1570s, and was complete by the middle of Cece's reign. 
 
 It was certainly raised in part by magic, but this magic was neither a singular miracle of Mos Numena nor a cadre of wizards casting wall of stone. It may have been a wish, or an artifact, or have involved giants, or likely something else more interesting than any of those. Divine magic may have extended or enhanced the wall at some point, but the vibe is not "a miracle of the gods created a massive wall".
