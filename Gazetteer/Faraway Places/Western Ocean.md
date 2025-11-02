@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim, status/cleanup/map]
+tags: [place, status/cleanup/map, status/cleanup/text]
 displayDefaults: {defArt: 'the' }
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
@@ -12,6 +12,7 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% maybe does not need a map? but probably should have an in-world-style opening paragraph %%
 ## Map
 ## Topography and Major Features
 The [[Endless Ocean]] continues for uncounted and untracked miles, and no other features are known in this region, although some suspect the sunken remains of [[Hkar]] may lie somewhere out in the deeps.

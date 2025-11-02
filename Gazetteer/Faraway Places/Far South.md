@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/map, status/check/tim]
+tags: [place, status/cleanup/map]
 name: Far South
 typeOf: region
 whereabouts: 
@@ -41,7 +41,7 @@ Nothing is known of the history of this region. Any people who live here are lik
 ## DM Notes and Meta
 *Area:* This region is poorly defined as little geographic development exists, but functionally it is everything east of the [[~Eastern Mountains~]] and south of the Green Sea coastal realms. 
 
-*Canonical Development and Constraints:* The swamps and jungles of [[Orekatu]] have some basic canonical development, primarily on geography and climate. There is canonically a great desert somewhere in this region. Dinosaurs canonically live in [[Orekatu]], at least, and are in some cases partially domesticated by [[Lizardfolk]]. 
+*Canonical Development and Constraints:* The swamps and jungles of [[Orekatu]] have some basic canonical development, primarily on geography and climate. There is canonically a great desert somewhere in this region. Dinosaurs canonically live in [[Orekatu]], at least, and are in some cases partially domesticated by [[Lizardfolk]]. Some halfling ships do occasionally trade to the south (or from the south?) to Chardon and exotic goods can be occasionally found in the markets there. Whether human ships also make these journeys is undetermined but relatively unlikely. 
 
 *Brainstorming and Potential Canon:* Gnomes are generally thought to inhabit this region, but details are vague. Hints of an ancient trading civilization (Targu) exist, but details are vague / non-existent. The Dunmari homeland is likely in this region, although the exact location is unclear.
 
