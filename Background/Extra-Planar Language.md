@@ -1,12 +1,9 @@
 ---
-tags: [background, status/check/mike]
+tags: [background]
 excludePublish: ["all"]
 dm_owner: joint
 dm_notes: none
 ---
-
-%% ping pong back to Mike; removed Shadowkar as I agree on the logic of not having it as a named language; added a campaign-none section with some thoughts on Delwath but there are multiple possible consistent interpretations of campaign events %%
-
 This page categorizes known-to-exist extra-planar languages, and includes some notes on the details. See [[Languages]] for more general coverage of this topic, including background, open questions, etc.
 
 Note: Any language that is often learned by PCs should be moved to the main [[Languages]] page once canonical details have been established and linked from here.
