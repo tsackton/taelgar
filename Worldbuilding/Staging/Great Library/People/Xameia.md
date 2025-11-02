@@ -16,4 +16,9 @@ A paladin of the [[Order of Twilight]] bound by a curse at [[Pykolon Lake]] afte
 
 %%
 GL Arc 1: bargain at the cursed lake enabled by later cleansing of the Voltara temple.
+
+**Xameia the Forsworn** was a Paladin of the Night Queen who lived several hundred years ago.  
+She was a sworn member of a sacred order that protected shrines and religious orders. However, she betrayed them for money, and through her inaction, many people were slaughtered.
+
+She is now cursed and oathsworn. To rest, she needs to restore a shrine that was desecrated by fiends.
 %%

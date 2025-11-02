@@ -10,11 +10,15 @@ dm_notes: important
 >[!info]+ Summary  
 > he/him
 
-%% needs some thought about holy symbol %%
+%% vibes and notes:
 
-%% set to joint - not sure if useful to add status/cleanup/external or any other marker of your notes; AFAIK no shared notes. i copied only relevant stuff in my dm notes below, at end. could set to dm_notes: none from my end %%
+- on Circular Island, one thing that was maybe not clear as a player is that the Wanderer was seen as guiding the overall pilgrimage enterprise, hence the port growing up around / near the statue of the Wanderer. Ties into general association with journey, but also i think this tradition would continue and the wanderer is thought to watch over pilgrimages generally
+- I like that the Eight Divines are generally pretty impersonal and abstract, since it fits with the kind of Drankorian feeling. but I also think it is nice to have some that play against type so to speak and the wyrdling seems a good candidate. also contrasts with the very impersonal sense of the wildling as nature writ large
+- the sibyl and maybe the wanderer also might have that kind of more personal feeling, with the mother, the father, and the wildling as the most vast and impersonal
+- Mike: I have some significant in-game experience with wanderer as one of my players is a paladin of the wanderer, some of which is worth capturing here 
+- *needs some thought about holy symbol *
 
-%% Mike: I have some significant in-game experience with wanderer as one of my players is a paladin of the wanderer, some of which is worth capturing here %%
+%%
 
 A deity in the [[Mos Numena]] pantheon, and one of the [[Incorporeal Gods]] of humanity. 
 
@@ -26,10 +30,6 @@ In many lands, it is traditional for [[Mos Numena]] temples to have a small room
 
 %% Tim, adding relevant notes from my DM folder
 
-re: Circular Island, one thing that was maybe not clear as a player is that the Wanderer was seen as guiding the overall pilgrimage enterprise, hence the port growing up around / near the statue of the Wanderer. Ties into general association with journey, but also i think this tradition would continue and the wanderer is thought to watch over pilgrimages generally
 
- I like that the Eight Divines are generally pretty impersonal and abstract, since it fits with the kind of Drankorian feeling. but I also think it is nice to have some that play against type so to speak and the wyrdling seems a good candidate. also contrasts with the very impersonal sense of the wildling as nature writ large
- 
-the sibyl and maybe the wanderer also might have that kind of more personal feeling, with the mother, the father, and the wildling as the most vast and impersonal
 
 %%

@@ -35,8 +35,6 @@ The order’s holy items are variants on the Night Queen’s crown‑of‑stars 
 
 %% DM Notes
 
-See also: The Night Queen page for donation hooks and broader order relations.
-
 Significant in the Great Library campaign, [[Great Library Session Notes - Arc 1]]
 
 Some details are here:
@@ -63,5 +61,15 @@ Once this is complete, they will have gained an ally in [[Galius Filuso]] and th
 Seems to be part of name, and their of pieces of what might say "Dedicated by Xameia, Protector of Evensong and Dusk Guide of the Night Queen."
 
 On success, portal will vanish, area will begin to heal, and Xameia will rest.
+
+---
+Info from Xameia: "Protected and aided those between life and death, the sick, old, infirm.  
+Hospice; safe place to pray and heal or die as the gods willed.
+
+Many would leave us gold, or land. I was weak and jealous of those with riches and power.  
+Slew my fellow acolytes, took the gold, and ran, burning our temple behind me.
+
+My god forsook me, and I was caught and killed for my crimes.  
+But I cannot rest until the temple I destroyed is restored."
 
 %%
