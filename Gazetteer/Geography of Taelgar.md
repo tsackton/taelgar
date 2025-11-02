@@ -1,13 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/tim]
+tags: [background]
 name: The World of Taelgar
 dm_notes: none
 dm_owner: none
 ---
 # The World of Taelgar
 
-%% Rewrite; tagging Tim to review %%
 %% See [[Geography - Open Questions]] for some unresolved general questions about the world %%
 
 The world of Taelgar is a globe, slightly bigger than Earth, with Earth-like seasons and climate and am Earth-like [[Sun|sun]], [[Moon]], and [[Stars|stars]]. The main landmass stretches from the [[Endless Ocean]] in the west across more than 5,000 miles of mountains, forests, rivers, swamps, farmland, desolation and deserts to the mysterious [[~Eastern Ocean~|east]].  

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim, status/cleanup/map]
+tags: [place, status/cleanup/map]
 displayDefaults: {defArt: 'the' }
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
@@ -52,15 +52,15 @@ _See also: [[Places in the Eastern Green Sea]]_
 
 *Area:* This region includes the [[~Eastern Islands~]], [[Irrla]], and the entire southern [[Green Sea]] coast east of [[~South Cymea~]]. In general, the border to the south is poorly determined, but is assumed to be either the northern edge of the [[~Great Desert~]] or the edge of the coastal/eastern/mariner culture.
 
-*Canonical Development and Constraints:* The city of [[Medju]] has been loosely invented, but only in the context of rumors that reached other places. The [[Vermillion Isles]] have been reasonably well developed. The wizard [[Arryn]] lives in some part of the [[~Eastern Islands~]] some distance north of the [[Vermillion Isles]]. Irrla has some development, and canonically contains at least a [[~Hobgoblin Pirate Kingdom of Irrla~|large hobgoblin realm]] and a human realm known as [[Republic of Svolhas]].
+*Canonical Development and Constraints:* The city of [[Medju]] has been loosely invented, but only in the context of rumors that reached other places. The [[Vermillion Isles]] have been reasonably well developed. The wizard [[Arryn]] lives in some part of the [[~Eastern Islands~]] some distance north of the [[Vermillion Isles]]. [[Irrla]] has some development, and canonically contains at least a [[~Hobgoblin Pirate Kingdom of Irrla~|large hobgoblin realm]] and a human realm known as [[Republic of Svolhas]].
 
-*Brainstorming and Potential Canon:* An aquatic elven culture living around and beneath the island of [[Quanyi]] was invented for the Wellby solo, but potentially could be retconned. The [[~Eastern Islands~]] tentatively are assumed to largely move and shift (with some exceptions, such as [[Quanyi]] that is known as the anchored island), but details are vague and what is rumor vs truth is undetermined. Some notes about winds and currents exist, but these are not strictly canonical. The Republic of Svolhas is probably mariner, but nothing about them, including religion is particularly determined, other than a recent (1740s) war with the hobgoblins provoking a naval bulidup. Some notes about patterns of wind and currents exist, but are not strictly canonical. The long-discussed but never introduced "Neo-Eastern" religion involving direct worship of the [[Divine Presence]] may or may not actually exist. There has been much brainstorming of this region's impact on the Mariner Migrations but nothing canonically committed.
+*Brainstorming and Potential Canon:* An aquatic elven culture living around and beneath the island of [[Quanyi]] was invented for the Wellby solo, but potentially could be retconned. The [[~Eastern Islands~]] tentatively are assumed to largely move and shift (with some exceptions, such as [[Quanyi]] that is known as the anchored island), but details are vague and what is rumor vs truth is undetermined. Some notes about winds and currents exist, but these are not strictly canonical. The Republic of Svolhas is probably mariner, but nothing about them, including religion is particularly determined, other than a recent (1740s) war with the hobgoblins provoking a naval bulidup. The long-discussed but never introduced "Neo-Eastern" religion involving direct worship of the [[Divine Presence]] may or may not actually exist. There has been much brainstorming of this region's impact on the Mariner Migrations but nothing canonically committed.
 
-*Needs Development:* Irrla in general is in need of more complete development.
+*Needs Development:* [[Irrla]] in general is in need of more complete development.
 
-*Intentionally Blank:* Other than Irrla, the entire region is generally blank on purpose. There is numerous brainstorming ideas (e.g., around the [[~Maritime Trade Peninsula~]]), but a general reluctance to commit to a specific detailed history in the absence of a campaign or significant series of adventures being set in this region. This is likely an area of rich and complex human civilizations. 
+*Intentionally Blank:* Other than [[Irrla]], the entire region is generally blank on purpose. There is numerous brainstorming ideas (e.g., around the [[~Maritime Trade Peninsula~]]), but a general reluctance to commit to a specific detailed history in the absence of a campaign or significant series of adventures being set in this region. This is likely an area of rich and complex human civilizations. 
 
-*Adventures:* The Wellby solo arc prequel, and the unplayed but canonical adventures of the Vindristjarna crew while the Dunmar Fellowship was in Ursk, both involved hobgoblin raiders from Irrla. The Wellby solo arc was set in the [[~Eastern Islands~]] and parts of the [[~Eastern Ocean~]], but primarily involved worldbuilding around the [[Vermillion Isles]]. 
+*Adventures:* The Wellby solo arc prequel, and the unplayed but canonical adventures of the Vindristjarna crew while the Dunmar Fellowship was in Ursk, both involved hobgoblin raiders from [[Irrla]]. The Wellby solo arc was set in the [[~Eastern Islands~]] and parts of the [[~Eastern Ocean~]], but primarily involved worldbuilding around the [[Vermillion Isles]]. 
 
 *Important Places in Staging:* In general, without more specific development the major unnamed areas are acceptable as unnamed, although an in-world name for the [[~Eastern Ocean~]] and the [[~Eastern Islands~]] would be useful. 
 %%^End%%
