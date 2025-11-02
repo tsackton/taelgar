@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
+tags: [place, status/check/name, status/stub, status/check/tim]
 typeOf: river
 whereabouts: Istaros Watershed
+aliases: [Silírë]
+name: Silírë
 dm_owner: none
 dm_notes: none
+pronunciation: see-LEER-eh 
 ---
-# The ~Orenlas Tributary~
+# Silírë
+*(see-LEER-eh)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%flows from the  lake south of Orenlas to the Istaros, joining near the ruins of Isingue%%
+%% status tim for namecheck only; %%

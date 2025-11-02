@@ -18,7 +18,7 @@ The Istaros is a major river that flows several thousand miles from its source i
 
 The source of the Istaros is [[Lake Aeulian]], which in turn is fed by the [[Andonne]] and the [[Valmont]], which flow from the Sentinels and the Mostreve Hills, respectively. Here, the Istaros once flowed through riparian forests and scenic river valleys dotted with productive agricultural villages and minor tributaries. Now, this land is cursed, and few dare venture through the now-haunted, ash-choked landscape. 
 
-Near [[Isingue]], the Istaros is joined by the [[~Orenlas Tributary~]], a major tributary from the east. The waters at this confluence were long known to be magically blessed, giving exceptional fertility to the soils of this land, which was the culturally and mystical center of the [[Istabor Alliance]]. Now, the city of Isingue is ruined, consumed by the Cha'mutte's Plague, and the fate of the life-giving magic of the land is unknown. 
+Near [[Isingue]], the Istaros is joined by the [[Thalurien|Thalúrien]], a major tributary from the east. The waters at this confluence were long known to be magically blessed, giving exceptional fertility to the soils of this land, which was the culturally and mystical center of the [[Istabor Alliance]]. Now, the city of Isingue is ruined, consumed by the Cha'mutte's Plague, and the fate of the life-giving magic of the land is unknown. 
 
 The upper Istaros ends a hundred miles or so south of Isingue, at the confluence of with the [[~Southern Plaguelands Tributary~]], where the river enters a rocky, broken landscape, where the land was shattered by Cha'mutte's magic.
 

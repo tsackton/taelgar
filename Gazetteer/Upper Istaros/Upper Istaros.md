@@ -48,7 +48,7 @@ markerTag: location-source
 ## Topography and Major Features
 _See more: [[Istaros Watershed]]_
 
-The Upper Istaros is defined by its rivers. This region contains [[Lake Aeulian]], the headwaters of the [[Istaros]], as well the river systems that feed it: the [[Aursen]], [[Douren]], [[Andonne]] , and [[Kulthul]] from the [[Sentinel Range|Sentinels]]; the [[Valmont]] and its tributaries; the [[~Orenlas Tributary~]] watershed, and the [[~Southern Plaguelands Tributary~]] watershed. 
+The Upper Istaros is defined by its rivers. This region contains [[Lake Aeulian]], the headwaters of the [[Istaros]], as well the river systems that feed it: the [[Aursen]], [[Douren]], [[Andonne]] , and [[Kulthul]] from the [[Sentinel Range|Sentinels]]; the [[Valmont]] and its tributaries; the [[Thalurien|Thalúrien]] watershed, and the [[~Southern Plaguelands Tributary~]] watershed. 
 
 %%SECRET[1]%%
 
