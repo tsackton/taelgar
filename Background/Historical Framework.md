@@ -1,11 +1,10 @@
 ---
-tags: [background, status/check/tim]
+tags: [background]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
 ---
 # History of Taelgar
-%% status/tim because this is a big re-write. I've left a few specific (TIM CHECK) comments %%
 
 This document outlines a framework for development of consistent historical events in Taelgar. Although this document avoids defining very many specific events, canonical events should generally be consistent with it.
 
@@ -40,9 +39,11 @@ Prior to the [[Riving]] time itself did not exist, and therefore events are hard
 * The [[Divine Presence]] and the [[Void Mind]] both, in some fashion, came to be, either at the start of, or during, this period
 * Highly powerful magical entities, distinct from the [[Divine Presence]], existed, and included at least (and probably only), some predecessor form of [[Dragons]], [[Fey]], [[Giants]], and [[Elementals]]. What forms these powerful creatures took is not clear or canonical. It is possible that the list above is incomplete. These might powerful beings of magic, perhaps, born some similarity to their modern day echoes, but perhaps did not. %% Prior invention has referred to elder wyrms, archfey, titans, and elder elementals but it is not clear these categories need to be strictly canonical %%
 - There are no gods but the [[Divine Presence]], and no humanoids. All that exists are the magical beings that are the predecessors of the [[Children of the Riving]]. 
-- The form of the world is totally unfixed, as the powerful entities who live on what is Taelgar then use arcane magic to constantly reshape the world into their imagining, and linear causality does not necessary work the way humanoid minds expect. 
+- The form of the world is totally unfixed, as the powerful entities who live on what is Taelgar then use magic to constantly reshape the world into their imagining, and linear causality does not necessary work the way humanoid minds expect. 
 
 In general this period should feel mythic and transitory should rarely if ever be the source of a specific event. It may appear in the stories of some sentient races, in particular the [[Giants]] and [[Fey]]. The world can be reshaped with a thought or a gesture and magic is so powerful that the idea of a single, stable reality is questionable in this period. 
+
+%% The last arc of the Dunmar Frontier campaign introduced a war between the forces of Limbo/chaos and something else, assumed to be order/Mechanus by the players but poorly defined in-game. The forces of chaos were defeated during this war, and exiled to Limbo where they could not hold a form and turned into massive chaos storms that grew and then split into tiny fragments and then grew again in an endless cycle. However, it is unclear if this war took place before time begain, or somehow during the Riving. %%
 
 ## The Riving
 _Before time_
@@ -55,6 +56,8 @@ Linear time began with an event, the [[Riving]], both instantaneous and eternal,
 - The [[Void Mind]] creates the [[Three Despairs]] as its avatars and agents in the [[Multiverse]]
 
 %% It is not clear when the first cracks to the Far Realms appeared see [[Historical Framework - Open Questions#Far Realms]] for thoughts %%
+
+%% the riving or some aftereffect of the riving also canonically created a number of powerful artifacts of various kinds, most notably the [[Crown of Purity]] and the [[Heartroot]]. %%
 ## Before Humans
 _1 - 1520 by the Dwarven Count of Years_
 
@@ -62,7 +65,7 @@ The earliest years of history are dominated by the growth and learning of the fi
 
 %% The below is meant to be one possible story. Outside of [[Alcarinque]], nothing is strictly canonical. See [[Historical Framework - Open Questions#Earliest Empires]] for some questions about the narrative below %%
 
-* The elves, while never very numerous, possessed great wisdom, exceptionally long lifespans, and a powerful command of magic. These traits made the elves the undisputed ruler of the time, and they founded two great empires. In the north, the kingdom of [[Alcarinque|Alcarinquë]]. grew to stretch from the forests south of [[Sentinel Range|Sentinels]] to the Mostreve Hills and the Cymean foothills. In the south, the kingdom of Tinwerquë spread from sea to sea in the tropical and subtropical forests south of the great savannahs of the interior.  %% Note: Tinwerquë is probably real but not definitively canonical? %%
+* The elves, while never very numerous, possessed great wisdom, exceptionally long lifespans, and a powerful command of magic. These traits made the elves the undisputed ruler of the time, and they founded two great empires. In the north, the kingdom of [[Alcarinque|Alcarinquë]]. grew to stretch from the forests south of [[Sentinel Range|Sentinels]] to the Mostreve Hills and the Cymean foothills. In the south, the kingdom of Tinwerquë spread from sea to sea in the tropical and subtropical forests south of the great savannahs of the interior.  %% Note: Tinwerquë is probably real, but is not definitively canonical %%
 * The stoneborn, even less numerous than elves, and always reclusive, do not figure greatly in the stories that remain from these times. As always, the stoneborn hid away in their barren retreats, in the high peaks, the frozen north, and the depths of deserts. However, legends of great masters of art and craft, trained by the Stoneborn, demonstrate the mark they still made on the world.  
 * The lizardfolk remained largely in their homelands, in the vast coastal swamps of the southern [[Green Sea]], stretching from north of what is now the great desert all the way to the Sembaran lowlands.
 * The dwarves grew quickly after they awoke under the [[Sentinel Range]], known to them as [[Sentinel Range|Labkhan]], and began to build great halls, delving deeper underground. In these early years, the dwarves were little seen to the outside world, as their underground kingdoms slowly grew to span all of [[Sentinel Range|Labkhan]], from the far north to the borders of [[Alcarinque|Alcarinquë]]. But by the time Hkar was raised, they were beginning to stretch out, moving to new mountains in the east and west and north, beginning to excavate and build again. 
@@ -72,14 +75,15 @@ The earliest years of history are dominated by the growth and learning of the fi
 
 In general, this period should feel safe and secure. It is a good period to locate substantial non-human achievements.
 ## Creation of the Humans
-_1520 by the Dwarven Count of Years_
+_1520 by the Dwarven Count of Years
+_
 %% Note this date is not strictly canonical but is a good approximation.  See [[Historical Framework - Discussions#Timing of Creation of Humans]] for background %%
 
 The island of [[Hkar]] was raised by the [[Divine Presence]] to be the locus of creation and homeland of humanity, and humanity is created there. Humanity is something new, the first sentience race created with the [[Divine Spark]], the ability to imagine new gods and even [[Spiritual Realms]] into existence. The first humans are isolated on [[Hkar]], and they have little impact on the larger history of Taelgar or some time. But even in the earliest days, the [[Divine Spark]] of humanity beings to impact the wider [[Multiverse]].
 
 %% Some consideration of how this plays out is discussed in [[Religious History of Taelgar]] %%
 
-Either at this point, or perhaps sometime after, the [[Void Mind]] creates [[Goblinoids]]. %% See [[Historical Framework - Open Questions#Creation of Hobgoblins]] %%
+Either at this point, or perhaps sometime after, the [[Void Mind]] creates [[Goblinoids]]. %% See [[Historical Framework - Open Questions#Creation of Hobgoblins]]; note some discussion in the [[Goblinoids]] note about the metaphysics of goblins and bugbears separate from hogoblins %%
 
 ## Pre-Downfall History
 _1520 - 4122 by the Dwarven Count of Years_
@@ -108,11 +112,12 @@ The first period of humanity on Hkar, is best thought of as the era of personal 
 
 During this time, cults start to develop, as charismatic humans realize that if other people worship their personal gods, they get stronger. This rapidly develops into a widely diverse set of beliefs that could all be characterized as "small gods". This period is characterized by a diversification of culture on Hkar, as different religious practices fragment the uniformity of the early human culture. Exactly what this means is intentionally left blank. Religiously and magically, little changes.
 
-%% exactly how the first 1000 years of humanity is divided into the "era of personal deities" and the "era of cults" is left unclear. the vibe here is rapid growth, rich miracles, and some religious experimentation towards the end of the period, but no incorporeal gods. the religious experimentation that happens is all around gods that are thought to dwell, with humans, on the material plane itself, and not in outer realms beyond th[](Land%20of%20the%20Dead.md)]].
+%% exactly how the first 1000 years of humanity is divided into the "era of personal deities" and the "era of cults" is left unclear. the vibe here is rapid growth, rich miracles, and some religious experimentation towards the end of the period, but no incorporeal gods. the religious experimentation that happens is all around gods that are thought to dwell, with humans, on the material plane itself, and not in outer realms beyond the [[Land of the Dead]].
 
 metaphysically, this is then a time of the development of a variety of fates of souls:
 - the various non-divine outer planes ("primal planes") grow around this time, as they attract/gather souls. not all of this is pleasant, and potentially some of this could involve things like demons stealing souls from the [[Land of the Dead]]. probably should be some kind of plane like Hades from Greek myth here, a kind of bland final resting place where weak souls eventually fade. might be metaphysically interesting for this to be basically empty in the modern day...
 - there are probably also some ideas about souls "returning to the plane of creation", which is ultimately made of ~[[Soulstuff]]~ anyway, and so in some cases this is kind of like a "merge with the divine presence" fate for souls once people die. in some cases this might be seen as a kind of precursor to reincarnation, even. 
+- note that subsequent invention suggests that the Spiritual Realms have no consistent invention story, so while some arise from souls as described above, not all do
 
 the general vibe is supposed to be that  this is basically "pre-history" in a sense
 %%
@@ -282,7 +287,6 @@ _5192-5210 by the Dwarven Count of Years_
 %% Use this section to state the basic state of play at the end of the Drankorian period as this establishes a good baseline for future development need to collate from lots of places but basically: %%
 
 In 5192, the [[First Plague]] destroys the Drankorian Empire and brings with it a massive loss of life across much of what was the Drankorian heartland. Almost immediately on the heels of the plague, the [[Dunmar|Dunmari]] come from the east and spread across the [[Hara Basin]], establishing modern [[Dunmar]].
-
 
 ## The Rise of Cha'mutte and the Great War
 _5192 - 5678 by the Dwarven Count of Years_
