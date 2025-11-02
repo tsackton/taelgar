@@ -1,13 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [species, status/check/mike]
+tags: [species]
 aliases: [celestial, Celestial]
 dm_notes: important
 dm_owner: tim
 ---
 # Celestials
-
-%% add check/mike in case you have thoughts on the DM note. does not seem critical to resolve anytime soon so if no obvious points to add could just remove status/check/mike and wait for someone to tackle the species directory to resolve further. %%
 
 Celestials is a broad term, used to describe the manifested representatives of divine beings on the Material Plane by many cultures and peoples across Taelgar. There is much disagreement, however, about the exact nature of these beings, and few reliable reports of their nature. Most encounters with celestials suggest they often take on characteristics of the divinities they represent or are created by. 
 

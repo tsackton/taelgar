@@ -1,0 +1,18 @@
+---
+headerVersion: 2023.11.25
+tags: [place, status/stub, status/check/name, status/check/tim]
+displayDefaults: {defArt: ""}
+name: Lathirion Lake
+typeOf: lake
+whereabouts: Istaros Watershed
+dm_owner: none
+dm_notes: none
+pronunciation: LAH-thee-ree-on
+---
+# Lathirion Lake
+*(LAH-thee-ree-on)*
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% Haven't thought about it at all; this is just a name stub %%
