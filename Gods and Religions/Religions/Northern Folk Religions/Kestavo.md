@@ -59,10 +59,13 @@ the actual game mechanics don't really matter -- and if a player ever wanted to 
   
 also helps explain why Drankor never really conquered the highlands. like, if you imagine something like all clerics can prepare 1/2 level extra spells and cast all spells at one level higher than the slot they expend within a mile of the shrine of their gods, but cannot prepare spells >3rd level and prepare only 1/2 spells per level (instead of 1) if away from home. would make them really hard to conquer, but also make it very difficult for the religion to spread far or go on the offensive.  
   
-like, I can imagine a bunch of nature paladins wandering around the highlands dropping 2nd and 3rd level smites on Drankorian armies, well in excess of their actual class power (since I generally imagine that, while there are many people with 1-3 class levels, there is a big drop through level 5, and a much bigger drop after that).%%
+like, I can imagine a bunch of nature paladins wandering around the highlands dropping 2nd and 3rd level smites on Drankorian armies, well in excess of their actual class power (since I generally imagine that, while there are many people with 1-3 class levels, there is a big drop through level 5, and a much bigger drop after that).
 
+The below is probably not canonical:
 Personal shrines are rare -- there is little point in having a shrine if the kestavo doesn’t inhabit it, and the rituals to coax a kestavo to establish a second home are long and complex. So some rare homes have personal shrines, but most do not. Some shrines are not in communities, when the kestavo happens to be attached to a natural place that no people live. Most notably, neither Romil nor Kamak live near human settlements.
 
+The expectation is that worship is focused around whereever the kestavo is,.
+%%
 Vazska don’t have homes -- they are the children of the west wind, and everywhere. Rituals around them are mostly in the form of bribes or threats to keep them away. Sometimes people ask them to bring curses on their enemies etc. 
 
 %%Priests are the companions of the kestavo in some way, supposed to be close to them and keep them happy. Most priests live at or near the shrine, to be near to their god. Several types of relationship

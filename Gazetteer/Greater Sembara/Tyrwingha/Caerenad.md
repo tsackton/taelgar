@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/mike]
+tags: [place]
 name: Caerenad
 typeOf: town
 whereabouts: Tyrwingha
@@ -14,13 +14,8 @@ pronunciation: KAI-re-nad
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%
-rivers seem sensible; added pronunciation based on Welsh
-removed "quiet" from period between Viatela and Quintarum: while I get the sense here, there is another major holiday in between (Pyravela), and I think our original  discussions were not so much "quiet" as this is a period when a lot of people didn't / don't travel. 
-%%
-
 Caerenad is a small Tyrwinghan town on the road between [[Eskbridge]] and [[Tafolwern]], roughly a three-day's journey south of Eskbridge, and near where the road crosses the [[Enad]], a brook that eventually joins the [[Maerwyn]] just north of the [[Tyrwinghan Road]]. 
 
 The earl of the Enad Circuit keeps a fortified seasonal residence here, where they traditionally spend the period between [[Viatela]] and [[Quintarum]]. 
 
-The Enad is runs below a low hill crowned by the earl’s residence; in clear nights the pool below the slope mirrors the moon.
+The Enad runs below a low hill crowned by the earl’s residence; in clear nights the pool below the slope mirrors the moon.

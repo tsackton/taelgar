@@ -1,5 +1,5 @@
 ---
-tags: [species, status/check/mike]
+tags: [species]
 ---
 
 Brainstorming and background notes on extraplanar natives in Taelgar.

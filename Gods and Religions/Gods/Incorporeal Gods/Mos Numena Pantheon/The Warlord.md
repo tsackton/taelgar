@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena, status/cleanup/image, status/check/mike]
+tags: [deity, religion/mosnumena, status/cleanup/image, status/check/tim]
 displayDefaults: {defArt: ''}
 gender: male
 dm_owner: joint
@@ -10,8 +10,7 @@ dm_notes: none
 >[!info]+ Summary  
 > he/him
 
-%% did not find anything in my dm notes that is relevant, setting check/mike to confirm status and frontmatter %%
-
+%% check tim: adding vibes note below %%
 %% needs some thought about holy symbol %%
 
 A deity in the [[Mos Numena]] pantheon, and one of the [[Incorporeal Gods]] of humanity. 
@@ -21,3 +20,8 @@ The Warlord is usually depicted as a man in his prime, armed and armored (the ex
 %%
 In mechanical terms, his clerics would usually be associated with the War or Forge domains.
 %%
+
+%% vibes
+ two major Warlord places I have are Cleenseau, which has a battle garrison army smithy vibe, and Veltor, which is also an ancient fortified place, but where the disciple of the warlord had more of a courage in the face of overwhelming odds vibe
+ expect the warlord is popular along the western wall, for example, and is often the soldier/battle/army patron, but that there is a deeper sense of courage and a steel spine and standing up for what is right no matter the cost
+ %%

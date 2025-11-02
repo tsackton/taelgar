@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/mike, place]
+tags: [status/check/tim, place]
 typeOf: wall
 whereabouts: Sembara
 dm_owner: mike
@@ -11,14 +11,13 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Mike: see below re: magic %%
-
 The Western Wall of Sembara is an impressive chain of fortifications, including extensive stone curtain walls, towers, and redoubts, supported by long a series of ditches. It runs across the western marches, anchored by the garrison towns of [[Dunfry]] in the south and [[Dunmore]] in the north.
 
 %%
-The construction occurred after the Great War and was complete by the middle of Cece's reign. Was almost certainly at least in part, if not entirely, constructed with magic.
+Ping-pong back to Tim; if you like the below, remove the check --
+The construction occurred after the Great War, but not before [[Dunmore]] was established as a frontier town in the 1560s or 1570s, and was complete by the middle of Cece's reign. 
 
-The text above likely needs some updates in order to reflect the mysterious and magical nature of this wall, it was not built by human laborers over dozens of years. It likely was created in at least two phases, and perhaps a third phase of human construction extended it.
+It was certainly raised in part by magic, but this magic was neither a singular miracle of Mos Numena nor a cadre of wizards casting wall of stone. It may have been a wish, or an artifact, or have involved giants, or likely something else more interesting than any of those. Divine magic may have extended or enhanced the wall at some point, but the vibe is not "a miracle of the gods created a massive wall".
 
-Tim: agree about magical nature, but seems contrary to Sembaran vibe for this to have been raised by mages casting wall of stone or something. but also not sure that a big miracle is quite the right vibe either. since there are a lot of possibilities and no obvious need to invent the exact details of construction right now I would leave as is just keep a note here like this. 
+It likely was created in at least two or three phases, and at least one of the phases was probably human construction.
 %%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena, status/cleanup/image, status/check/mike]
+tags: [deity, religion/mosnumena, status/cleanup/image]
 displayDefaults: {defArt: ''}
 gender: enby
 dm_owner: joint
@@ -9,8 +9,6 @@ dm_notes: none
 # The Wildling
 >[!info]+ Summary  
 > they/them
-
-%% added some minimal notes from discord; don't have any other dm notes, really %%
 
 %% needs some thought about holy symbol %%
 A deity in the [[Mos Numena]] pantheon, and one of the [[Incorporeal Gods]] of humanity. 
@@ -21,6 +19,12 @@ They are the divine of the constant change in the natural world, and are often s
 
 %% 
 In mechanical terms, their clerics would usually be associated with the Tempest or Nature domain, or perhaps the Light domain.
+
+Some druids also get their magic from the Wildling, canonically [[Perrin Voclain]]
+%%
+
+%% vibes from Cleenseau
+protection from the danger of nature, raw nature. wildling shrine along the borders of the cleenseau wood, seen as keeping the wildness of the forest at bay
 %%
 
 %% discord on wyrdling vs wildling

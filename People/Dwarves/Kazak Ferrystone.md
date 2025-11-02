@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/stub, status/check/whereabouts]
+tags: [person, status/stub]
 species: dwarf
 gender: male
 affiliations: [{org: Ferrystones, type: primary }]
 whereabouts:
 - {type: home, location: Rinburg }
 - {type: away, location: on the road to Aslain, start: 1720-02-08, end: 1720-02-10 }
-- {type: away, location: Aslain, start: 1720-02-10, end: 9999 }
+- {type: away, location: Aslain, start: 1720-02-10, end: 1720-03-10 }
 dm_notes: color
 dm_owner: mike
 ---
