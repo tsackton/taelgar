@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena, status/cleanup/image, status/check/mike]
+tags: [deity, religion/mosnumena, status/cleanup/image]
 displayDefaults: {defArt: ''}
 gender: male
 dm_owner: joint
@@ -9,8 +9,6 @@ dm_notes: none
 # The Father
 >[!info]+ Summary  
 > he/him
-
-%% i don't have any additional notes and nothing in shared, set status/check/mike to confirm status and dm_notes%%
 
 A deity in the [[Mos Numena]] pantheon, and one of the [[Incorporeal Gods]] of humanity. 
 
@@ -24,5 +22,6 @@ In mechanical terms, his clerics would usually be associated with the Light or O
 
 %% a few notes:
 - associated with the Radiant Path and the religious resistance to Apollyon's rule in Drankor. Whether this is echoing effects into the present day is unclear / undecided. 
+- Associated with the Radiant Alliance and Cece's reconquest of southern Sembara from the hobgoblins
 - another of the fairly impersonal of the divines
 %%
