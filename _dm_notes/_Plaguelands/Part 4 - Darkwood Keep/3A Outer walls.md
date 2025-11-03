@@ -1,0 +1,1 @@
+The outer walls are about 15' high, but not particularly thick, maybe 1'. There is not a walkway along the top, but the two towers looking over the ravine and guarding the front have archer / lookout platforms, as do the two guarding the postern gate in the back of the castle, near the spring. These are not currently occupied.

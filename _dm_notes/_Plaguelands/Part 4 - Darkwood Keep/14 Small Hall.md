@@ -1,0 +1,3 @@
+This is a small mess hall, doubling as sleeping chambers for servants without enough status to get bunks. Two large tables have been pushed over, rotting food is scattered across the floor, and dried blood is spattered across walls. The door to the kitchen to the south is smashed to pieces.
+ 
+A DC 10 Intelligence (Investigation) check reveals details of a battle that took place almost two weeks ago. Beating a DC 15, or a separate DC 15 Intelligence (Survival) check, reveals tracks leading to kitchen door.

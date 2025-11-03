@@ -1,0 +1,3 @@
+The barracks has been relatively untouched by fighting, although there is the occasional sign of a struggle. Some trundle beds, otherwise pallets of straw to sleep on. Little of value, but a search can turn up some coins and personal effects in small pouches and the like. Coppers and some silver, and trinkets, amount based on how good Intelligence (Investigation) roll is.
+ 
+This doubles as a mess hall, with a fireplace and tables, much less grand than great hall.

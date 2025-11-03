@@ -1,0 +1,1 @@
+Miraculously the well has not been contaminated. Can get fresh, clear water.
