@@ -105,7 +105,7 @@ People who have traveled with the [[Dunmar Fellowship]] in various contexts.
 
 <div class="grid cards ext-narrow-margin" markdown>
 
-- ![[vola.png|left|120]][[Vola]], a Chardonian adventurer rescued from [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]]. She traveled with the party until parting ways outside [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]]; later, she was mind controlled by [[The Cleansed]] using the [[Crown of Purity]], forced to fight the party, and captured in the [[Mirror of Soul Trapping]]. She was freed when [[Riswynn]] claimed the [[Crown of Purity]] and is currently on [[Vindristjarna]]. 
+- ![[vola.png|left|120]][[Vola]], a Chardonian adventurer rescued from [[Raven's Hold]]. She traveled with the party until parting ways outside [[Stormcaller Tower]]; later, she was mind controlled by [[The Cleansed]] using the [[Crown of Purity]], forced to fight the party, and captured in the [[Mirror of Soul Trapping]]. She was freed when [[Riswynn]] claimed the [[Crown of Purity]] and is currently on [[Vindristjarna]]. 
 - ![[havdar.jpg|left|120]][[Havdar]] and his [[Havdar's Warband|warband]] travelled with the [[Dunmar Fellowship]] for a time in the [[Garamjala Desert]], while investigating rumors of orcs and other strange happenings. 
 - ![[cintra.jpg|left|120]][[Cintra]], the Supreme Oracle of [[Shakun]], was rescued from[[Agata|Agata Dustmother]]'s trap at [[Shakun’s Wellspring]] by the [[Dunmar Fellowship]], and traveled with the party back to [[Karawa]]. 
 - ![[jumi.jpg|left|120]][[Jumi]], the young daughter of [[Cintra]], was freed from [[Agata]]'s curse by [[Seeker]] and traveled with the party back to [[Karawa]]. 

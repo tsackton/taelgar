@@ -65,7 +65,7 @@ As the ghost of [[Hagrim]] fades, [[Riswynn]] pours the water of the Chalice on 
 
 Over the next 6 weeks, until mid-October, [[Riswynn]] and [[Thror]] guide the refugees south to a joyous and somber reunion in [[Tharn Todor]]. It takes time and care and patience to help them reintegrate into normal society.
 
-[[Riswynn]], during this time, sends messages to her companions, learning that [[Wellby]], [[Seeker]], [[Delwath]], and[[Kenzo]] faced a green dragon, and then were scattered across the world by strange magic. But they are meeting again near [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]], so [[Riswynn]] sets out again to meet them in mid October. 
+[[Riswynn]], during this time, sends messages to her companions, learning that [[Wellby]], [[Seeker]], [[Delwath]], and[[Kenzo]] faced a green dragon, and then were scattered across the world by strange magic. But they are meeting again near [[Stormcaller Tower]], so [[Riswynn]] sets out again to meet them in mid October. 
 
 During this time, she passes through [[Tokra]], collecting a few letters for the party and checking in with [[Dag Hardstone]] and his family, as well as [[Vistra Fireforge]]. [[Tokra]] is tense, with tensions between [[Sura]] and the army of [[Nayan Karnas]] high; Vistra reports that [[Sura]] holds the hearts of the people here, but without the blessing of the Lakan monks few are willing to risk open war. 
 

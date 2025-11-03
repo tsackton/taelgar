@@ -11,7 +11,7 @@ During the course of the week, one thing [[Delwath]] does is scry on his friends
 ![[bedez-village.png|400]]
 ![[bedez-river.png|400]]
 
-*[[Wellby]]*: You look in on [[Wellby]] several times as well. The first time you see him, he is in a small boat crowded with many people: several kenku, humans dressed in strange clothes, a human warrior, sailors, and an [[Elves]] but one who looks at home in the ocean, wearing armor with sea motifs. Again, judging by the light, he is very far to the east. The next time you see him, he is soaring in the air, flying on spectral bird wings, over an island of dry scrub and vibrant red rock pillars, dotted with hidden homes perched high on cliffs that no human could reach.
+*[[People/PCs/Dunmar Fellowship/Wellby]]*: You look in on [[Wellby]] several times as well. The first time you see him, he is in a small boat crowded with many people: several kenku, humans dressed in strange clothes, a human warrior, sailors, and an [[Elves]] but one who looks at home in the ocean, wearing armor with sea motifs. Again, judging by the light, he is very far to the east. The next time you see him, he is soaring in the air, flying on spectral bird wings, over an island of dry scrub and vibrant red rock pillars, dotted with hidden homes perched high on cliffs that no human could reach.
 
 ![[wahacha-coast.png|400]]
 ![[wahacha-village.png|400]]
@@ -26,7 +26,7 @@ From [[Dunmar]]: [[Sura]], [[Johar]], [[Havdar]].
 
 Elsewhere, you also check on [[Marcella]], and [[Theba]] and the people of the [[Elderwood]]. 
 
-_In [[Chardon]]:_ Ulfgar and [[Roscelia]] are still in [[Chardon]], and there is not much to learn directly. You do gather from partial overheard conversations that [[People/Chardonians/Fausto]] has convinced much of the [[Society of the Open Scroll]] that you have stolen from him, and while it is a little nebulous if the Magistros and the might of the Imperium is really committed to [[People/Chardonians/Fausto]]'s story, it would certainly be risky to return to [[Chardon]]. 
+_In [[Chardon]]:_ Ulfgar and [[Roscelia]] are still in [[Chardon]], and there is not much to learn directly. You do gather from partial overheard conversations that [[Fausto]] has convinced much of the [[Society of the Open Scroll]] that you have stolen from him, and while it is a little nebulous if the Magistros and the might of the Imperium is really committed to [[Fausto]]'s story, it would certainly be risky to return to [[Chardon]]. 
 
 [[Kaeso]] is somewhere you have never seen before: a large inn, seemingly set over the water, a massive reconstructed skeleton of a huge beast, vastly larger than any whale or fish hanging from the ceiling. When you check in on him, he is sitting in thought with a drink. 
 
@@ -48,8 +48,8 @@ You see [[Marcella]] once. She is making her way down out of the mountains, and 
 
 #### Part 3: Visions of enemies. 
 
-[[Delwath]] is cautious scrying on enemies, and it can be a challenge. 
+[[People/PCs/Dunmar Fellowship/Delwath]] is cautious scrying on enemies, and it can be a challenge. 
 
-[[People/Chardonians/Fausto]] is either skilled at resisting scrying, or one or more rooms in his tower are protected from divination magic, for you catch only a few glimpses of him out and about in [[Chardon]]. From what you see, he seems to be going about the normal business of a wizard in [[Chardon]], such as it is. Only once, you see him in the slums on the far side of the river, wearing a poor man's cloak and muddy, thin boots, flashing some coin to a man with a blank-eyed stare lying slumped on the side of a tavern. 
+[[Fausto]] is either skilled at resisting scrying, or one or more rooms in his tower are protected from divination magic, for you catch only a few glimpses of him out and about in [[Chardon]]. From what you see, he seems to be going about the normal business of a wizard in [[Chardon]], such as it is. Only once, you see him in the slums on the far side of the river, wearing a poor man's cloak and muddy, thin boots, flashing some coin to a man with a blank-eyed stare lying slumped on the side of a tavern. 
 
-Scrying on [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]], or [[People/Other Nonhumans/Grash]], reveals a city in the midst of preparations for war. Unless you spend more time coming back to [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] again and again, it is hard to say war against who, exactly. But once you see [[People/Other Nonhumans/Grash]] sweeping through the city, hand raised, and an army of undead following him. [[Kadmos]] cannot be seen. But you do see his companions, briefly. They are apparently on the road, somewhere roughly your longitude, passing through rolling farmland and woods that reminds you a little bit of the [[Chasa]] river valley, but drier.
+Scrying on [[Kharsan]], or [[People/Other Nonhumans/Grash]], reveals a city in the midst of preparations for war. Unless you spend more time coming back to [[Kharsan]] again and again, it is hard to say war against who, exactly. But once you see [[People/Other Nonhumans/Grash]] sweeping through the city, hand raised, and an army of undead following him. [[Kadmos]] cannot be seen. But you do see his companions, briefly. They are apparently on the road, somewhere roughly your longitude, passing through rolling farmland and woods that reminds you a little bit of the [[Chasa]] river valley, but drier.

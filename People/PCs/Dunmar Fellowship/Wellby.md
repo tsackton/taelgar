@@ -49,7 +49,7 @@ affiliations: [ {org: Dunmar Fellowship}, {org: Goodbarrels, type: primary}]
 > *Examining the [[Blackened Claw]] symbol, [[Session 9 (DuFr)]]*
 > A memory drifting out of the past. A determined group of halflings, organized, with bows and spears. A battle banner bearing this mark, at the front of a large column of hobgoblin troops, maybe 150 years ago. They are too many to face. You turn and see the doubt in the eyes of your troop. Quickly sending the message to scatter and hide and live to fight again. Running, vanishing into the grass….
 > 
-> *[[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]] nightmares, [[Session 11 (DuFr)]]*
+> *[[Raven's Hold]] nightmares, [[Session 11 (DuFr)]]*
 > As you dream, you catch fragments of thoughts. A wild dog, "His hunger is all that matters, it is greater than us all."
 > 
 > A jackal, running behind you, then with you: "He drives us. He eats what we eat. He kills what we kill. He will come if we eat well."
@@ -58,7 +58,7 @@ affiliations: [ {org: Dunmar Fellowship}, {org: Goodbarrels, type: primary}]
 > 
 > Then a soft, quiet voice in the back of your mind, a small dog, just a pup, in danger of being trampled: "I want my pack. I want the shelter of my brothers and sisters. Not this. Not this."**
 > 
-> *Examining a locket found in [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]], [[Session 13 (DuFr)]]*
+> *Examining a locket found in [[Raven's Hold]], [[Session 13 (DuFr)]]*
 > An image in your mind, a memory. A small caravan, a young family traveling across the plains. Maybe a hundred years ago? Two young halfling men, scouting ahead. Brothers maybe? Swooping down from the sky, a three headed beast - a dragon, a goat, a lion. Fire erupting from the dragon’s head, blasting the ground. Running, fleeing. Your companion falling behind, caught. Diving into a ditch, hiding. Tears, sadness telling his husband….
 > 
 > *The Tale of Sigga the Storm Giant, [[Session 15 (DuFr)]]*

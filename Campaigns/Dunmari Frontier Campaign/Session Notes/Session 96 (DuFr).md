@@ -49,7 +49,7 @@ Amidst this chaos, [[Seeker]] released the venom troll, stirring a fierce battle
 
 As the party dealt with the aftermath of the battle, [[Delwath]] received an urgent message from [[Lyra]], questioning their actions and accusing them of being the instigators of a terrorist attack in [[Chardon]]. [[Delwath]] blamed the disturbances on [[Apollyon]]. Meanwhile, [[Seeker]] encountered a cursed angelic statue, adding to the eerie atmosphere of their surroundings.
 
-[[Wellby]]'s discovery of a secret door beneath the ritual room led the party into a tunnel shrouded in magical darkness. As they navigated through, they finally came face-to-face with [[Rhodar von Glauer]] himself, who declared his intention to confront them directly.
+[[People/PCs/Dunmar Fellowship/Wellby]]'s discovery of a secret door beneath the ritual room led the party into a tunnel shrouded in magical darkness. As they navigated through, they finally came face-to-face with [[Rhodar von Glauer]] himself, who declared his intention to confront them directly.
 
 Thus, the session concluded with the party poised for a direct encounter with the vampire lord, their strategies and quick thinking having navigated them through numerous perils to this pivotal moment. The challenges they faced within [[Shadowkeep]] tested their resolve and abilities, setting the stage for a dramatic continuation of their quest.
 

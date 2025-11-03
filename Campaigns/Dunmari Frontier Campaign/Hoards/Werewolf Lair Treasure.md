@@ -4,7 +4,7 @@
 ### Scrolls and Papers
 - Detect Magic. (Werewolf lair) %%SECRET[2]%%
 - See Invisibility (Werewolf lair) %%SECRET[2]%%
-- [[Pandemonium Scroll]]. Traded to [[People/Chardonians/Fausto]] as part of the deal for [[Hralgar's Eyes]]; kept by [[People/Chardonians/Fausto]] when he betrayed the party in [[Session 49 (DuFr)]].
+- [[Pandemonium Scroll]]. Traded to [[Fausto]] as part of the deal for [[Hralgar's Eyes]]; kept by [[Fausto]] when he betrayed the party in [[Session 49 (DuFr)]].
 - [[Dunmari map of Pandemonium ruins|Map of old Drankorian fort]] protecting area of [[Pandemonium]] influence. Dunmari make. Taken from werewolf lair. Faintly magical.
 - [[Papers from the Fraternity of the Empty Moon]]. Translations left at the [[Tokra]] [[Archives]] with [[Govir]]. No obvious value. 
 ## Other
@@ -21,7 +21,7 @@
 - Riding boots and cloak, set, from the chest in the werewolf lair’s secret room. Probably worth 10-60 gp as a set. Sold for 20 gp.
 - Dice set of six, made of ivory. From werewolf lair in [[Tokra]]. Worth 1-6 gp. Sold for 3 gp.
 - Dagger, with a well-carved wooden handle with horse design. From werewolf lair. Probably worth 10-60 gp. Sold for 30 gp.
-- Scroll case and cap, empty, matching the [[Ivory Scroll Case]] found long ago which summoned the demon in [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]]. From the werewolf lair in [[Tokra]]. Worth 20-120 gp if reunited with missing cap; 5-30 gp otherwise. Sold for 80 gp.
+- Scroll case and cap, empty, matching the [[Ivory Scroll Case]] found long ago which summoned the demon in [[Raven's Hold]]. From the werewolf lair in [[Tokra]]. Worth 20-120 gp if reunited with missing cap; 5-30 gp otherwise. Sold for 80 gp.
 - Iron pendant from the werewolf lieutenant. Probably worth 10-180gp. Exchanged with [[Harol Silversong]] for passage to [[Chardon]] on the [[Emerald Song]]. 
 - Holy symbol from giant werewolf captain. Pale moonstone depiction of a full moon, set in a larger outer ring of iron with jagged wire. Probably worth 150-900gp. Exchanged with [[Harol Silversong]] for passage to [[Chardon]] on the [[Emerald Song]].
 -  [[Govir]]’s two holy symbols of [[Laka]], returned to [[Govir]]
