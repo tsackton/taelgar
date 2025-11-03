@@ -19,3 +19,7 @@ dm_owner: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Patriach of the Hardstone clan, father to [[Dag Hardstone]]. 
+
+%% One Note
+Father/patriach of clan
+%%

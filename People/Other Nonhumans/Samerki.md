@@ -25,3 +25,5 @@ dm_owner: tim
 >> %%^Campaign:DuFr%% Killed by the [[Dunmar Fellowship]] on May 29th, 1748 in [[Shakun’s Wellspring]], the [[Red Mesa]], [[Eastern Dunmar]] %%^End%%
 
 A servant of [[Agata]]. 
+
+%%SECRET[1]%%

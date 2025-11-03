@@ -26,3 +26,9 @@ dv.table(["Person", "Info", "Current Location"],
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
 %%^End%%
+
+%% One Note
+Work at the archives, as architects, janitors, supers. Work some minor runic magic to protect scrolls, mend damage, and the like, as well as making magical runic imprints of particularly valuable material that can then be copied and sent to Nayahar or Darba or Chardon without risk of error.
+
+Know Seeker, but have not yet met anyone else in the party.
+%%
