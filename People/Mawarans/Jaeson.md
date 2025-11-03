@@ -15,3 +15,13 @@ dm_notes: color
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A somewhat shady character who lives in the Sunken Cliffs, just west of the main port of [[Hamri]], neighbor to [[Ryu]] and [[Trok]]. Keeps to himself but will occasionally do favors for Ryu in exchange for fish.
+
+%% One Note
+
+A somewhat shady character who lives in the Sunken Cliffs, neighbor to Ryu and Trok. Keeps to himself but will occasionally do favors for Ryu in exchange for fish.
+ 
+Mysterious backstory.
+ 
+Gatza dealer at times, occasional smuggler.
+
+%%
