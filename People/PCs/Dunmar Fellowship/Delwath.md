@@ -17,11 +17,10 @@ whereabouts:
 - {type: away }
 ---
 # Delwath
->[!info]+ Biographical Info
-> an [[Elves|elf]], he/him of the [[Dunmar Fellowship]]
-([[Elven Cycle of Generations|ka]] 36)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Biographical Info  
+> An [[Elves|elf]] (he/him), of the [[Dunmar Fellowship]] ([[Elven Cycle of Generations|ka]] 36)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% status/check/mike in case there are other status tags to add, but seems correct to me %%
@@ -50,7 +49,7 @@ whereabouts:
 > 
 > After another timeless period, he found himself falling.
 > 
-> He appeared, falling from the sky, on the edge of a ruined city (he later learned was called [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]]). He reached out with his will, and found himself on the ground, having teleported there.
+> He appeared, falling from the sky, on the edge of a ruined city (he later learned was called [[Kharsan]]). He reached out with his will, and found himself on the ground, having teleported there.
 > 
 > He walked west, and found the Dunmari. For several months he recovered under the care of an elderly herdsman and his unwed daughter, from which he learned what history he could. He was wild and barely spoke at first, but under their care regained some of his old self. After several months, he learned to tame the shadow magic within, and has even heard a voice at times, speaking to him in whispers from far away.
 > 
@@ -103,7 +102,7 @@ whereabouts:
 > 
 > ### Shield
 > 
-> Delwath shows the masterwork shield found in [[Gazetteer/Greater Dunmar/Hara Basin/Agata's Lair]] around. [[Alesh]] is back in town, and she recognizes the shield immediately. It is definitely Dunmari in design, and the insignia, a stylized head of a rearing horse in front of two crossed spears, dates it to the Dunmari army during the [[Great War]]. This was probably an officer's shield as the craftsmanship is extraordinary. [[Alesh]] thinks it must have been in someone's family for a while, kept and maintained as an heirloom, before [[Agata]] acquired it, as it would not be in this good shape had it been just abandoned somewhere for 200 years. But it could also be something like a trophy [[Agata]] took from someone she killed that she maintained as a form of gloating or remembrance of her victories. Or even something that was lost in a dry, buried location somehow protected from rust and decay. 
+> Delwath shows the masterwork shield found in [[Agata's Lair]] around. [[Alesh]] is back in town, and she recognizes the shield immediately. It is definitely Dunmari in design, and the insignia, a stylized head of a rearing horse in front of two crossed spears, dates it to the Dunmari army during the [[Great War]]. This was probably an officer's shield as the craftsmanship is extraordinary. [[Alesh]] thinks it must have been in someone's family for a while, kept and maintained as an heirloom, before [[Agata]] acquired it, as it would not be in this good shape had it been just abandoned somewhere for 200 years. But it could also be something like a trophy [[Agata]] took from someone she killed that she maintained as a form of gloating or remembrance of her victories. Or even something that was lost in a dry, buried location somehow protected from rust and decay. 
 > 
 > In any case, both [[Alesh]] and [[Havdar]] think Delwath should take it, given he fought in that war as well, and pass it along with their blessing. 
 > 
@@ -139,7 +138,7 @@ whereabouts:
 >
 >There are many rumors but few clear facts. [[Havdar]] and his troops did fight several smaller groups of gnolls on the road to [[Tokra]], and there are various rumors of those who couldn't make it to safety dying alone on the frontier. Indeed, there are definitely folks returning who lost people, who never made it to [[Tokra]]. But it is hard to say if this could have just been the gnolls that you knew about, or something else.
 >
->[[Alesh]], who has ridden probably 1000 miles over the past two months, doesn't think there were any other major fortresses like [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]] with large armies of enemies of [[Dunmar]]. But could there be a few small lairs of monsters of various kinds that enjoyed the months of hunting and raiding freely on the soft interior of [[Dunmar]]? Sure, it is possible and could explain some of the missing people.  
+>[[Alesh]], who has ridden probably 1000 miles over the past two months, doesn't think there were any other major fortresses like [[Raven's Hold]] with large armies of enemies of [[Dunmar]]. But could there be a few small lairs of monsters of various kinds that enjoyed the months of hunting and raiding freely on the soft interior of [[Dunmar]]? Sure, it is possible and could explain some of the missing people.  
 >
 >**Rumors about [[Agata]] and her motives**
 >

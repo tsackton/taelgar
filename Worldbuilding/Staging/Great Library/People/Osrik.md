@@ -15,7 +15,7 @@ dm_notes: none
 ---
 # Osrik
 >[!info]+ Biographical Info  
-> A [[Dwarf|dwarf]] (he/him), of the [[Shockstones]]  
+> A [[Dwarf - Old Draft Version|dwarf]] (he/him), of the [[Shockstones]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

@@ -19,7 +19,7 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Killed by [[Seeker]] on May 5th, 1748 in [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]], the [[Garamjala Desert]] %%^End%%
+>> %%^Campaign:DuFr%% Killed by [[Seeker]] on May 5th, 1748 in [[Kharsan]], the [[Garamjala Desert]] %%^End%%
 
 An [[Orcs|orc]] cleric in [[Grash's Horde|Grash's army]]. 
 

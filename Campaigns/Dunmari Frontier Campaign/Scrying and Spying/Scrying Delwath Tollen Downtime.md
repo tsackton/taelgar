@@ -18,7 +18,7 @@ And then the sensor is dispelled. 
 
 ## Chardon
 
-[[Delwath]] spends a significant amount of time scrying [[Chardon]], both people and especially a number of places, to get a sense of the city. 
+[[People/PCs/Dunmar Fellowship/Delwath]] spends a significant amount of time scrying [[Chardon]], both people and especially a number of places, to get a sense of the city. 
 
 For the most part, [[Sibling War|the events in Dunmar]] don’t seem to have had a dramatic impact on Chardon. You catch the occasional discussion of news from the east, a variety of garbled rumors about hags and civil war. In many of them, you feature as allies of the hag and instigators of chaos - you seem to have some notoriety in Chardon. However, no one in Chardon seems too concerned with Dunmar and there does not seem to be a drumbeat for war.
 
@@ -28,7 +28,7 @@ Nonetheless, there does seem to be a growing undercurrent of distrust of the Dun
 
 ## Marcella
 
-[[Delwath]] scries on [[Marcella]] three times: once, the scry fails, but the other two succeed. 
+[[People/PCs/Dunmar Fellowship/Delwath]] scries on [[Marcella]] three times: once, the scry fails, but the other two succeed. 
 
 In mid-February, he sees her traveling with three other people, moving quietly and quickly in single file along a barren, ashy plain. All are dressed in cloaks and breastplates, and carry swords and bows - these are clearly not mere commoners. They seem to be following the footprints of something, for they often stop to search the ground. Marcella goes last: her footsteps leave the footprints of the metal boots of a hobgoblin solider. 
 
@@ -44,7 +44,7 @@ A few weeks later, at the end of February, [[Kaeso]] is sitting in a small room,
 
 ## Johar
 
-[[Delwath]] scries on [[Johar]] several times, hoping to gain insight into the state of Sura’s camp. 
+[[People/PCs/Dunmar Fellowship/Delwath]] scries on [[Johar]] several times, hoping to gain insight into the state of Sura’s camp. 
 
 Around the middle of February, a week or so after you left the camp, most of Sura’s army departs, heading north. You see [[Johar]], standing with [[Sura]], watching many soldiers on horseback riding north in a long train. From the way they are standing together, you have the impression that there is someone else here, but you cannot see them, for some reason. 
 

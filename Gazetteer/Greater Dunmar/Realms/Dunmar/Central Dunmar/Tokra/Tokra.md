@@ -82,7 +82,7 @@ Shortly after the [[Great War]], in DR 1552, the fire giant [[Mavdyr]] attacked 
 
 Over the next 200 years, Tokra maintained significant administrative capacity as a frontier / provincial capitol, but as interest in eastern [[Dunmar]] waned in the west, Tokra's significance waned as well.
 
-Nonetheless, it remains a prosperous city, sitting on one of the major long distance trade routes from Sembara to [[Chardon]], and benefiting from the [[Hara]] river, navigable for about half the year. Aided in part by the present of the Lakan monks, Tokra has gained something of a reputation as a city of scholars, and the [[Archives]] here store not just records of the Dharajun dynasty, but many earlier records rescued from [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] and points east during the [[Great War]].
+Nonetheless, it remains a prosperous city, sitting on one of the major long distance trade routes from Sembara to [[Chardon]], and benefiting from the [[Hara]] river, navigable for about half the year. Aided in part by the present of the Lakan monks, Tokra has gained something of a reputation as a city of scholars, and the [[Archives]] here store not just records of the Dharajun dynasty, but many earlier records rescued from [[Kharsan]] and points east during the [[Great War]].
 
 The horse herders and traders descended from the Dharajun rulers remain prominent and important here, and the Lakan monks hold considerable sway as well, having preserved the [[Archives]] and history here.
 

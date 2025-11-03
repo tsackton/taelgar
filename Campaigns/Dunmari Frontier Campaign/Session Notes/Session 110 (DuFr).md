@@ -65,7 +65,7 @@ The party reached the ruins of the villa where Ra'ghemdros made her lair by earl
 >
 >Ra'ghemdros also warns of Apollyon's looming threat, stating, "All prisons fail..." while glancing at the nearby villa, which seems to be always at the forefront of her attention. 
 
-With two hours to spare, the party set out to explore the villa that Ra'ghemdros had been eyeing, and where the fiend Kenzo sensed seemed to be.  [[Wellby]] sent a rat to scout, uncovering a cellar guarded by floating acid columns, and in the cellar a room filled with statues and magical flames, until the rat was burned to a crisp by a fire trap. [[Seeker]] then used clairvoyance, discovering a crypt with urns and a symbol of a flaming red eye surrounded by shadows—signs of Cha'mutte’s influence. 
+With two hours to spare, the party set out to explore the villa that Ra'ghemdros had been eyeing, and where the fiend Kenzo sensed seemed to be. [[Wellby]] sent a rat to scout, uncovering a cellar guarded by floating acid columns, and in the cellar a room filled with statues and magical flames, until the rat was burned to a crisp by a fire trap. [[Seeker]] then used clairvoyance, discovering a crypt with urns and a symbol of a flaming red eye surrounded by shadows—signs of Cha'mutte’s influence. 
 
 Returning to Ra'ghemdros, the party presented the throne, with Kenzo reciting [[Ra'ghemdros]]' many titles as they handed over the prize and accepted the jade in return. The dragon took the throne, her satisfaction evident as she ordered her servants to spread the word of her newfound power. They left swiftly, Ra'ghemdros’ triumphant roar echoing behind them as she vanished into her lair.
 

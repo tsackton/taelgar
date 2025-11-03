@@ -10,7 +10,7 @@
 ### From Casian
 - Chalyte spell book 
 ### Other
-- The [[Ever Spinning Top]] from [[Gazetteer/Greater Dunmar/Hara Basin/Agata's Lair]], recovered by the party
+- The [[Ever Spinning Top]] from [[Agata's Lair]], recovered by the party
 - [[Antonia]]'s Chime of Opening, taken by the party
 - A large number of potions and minor items:
 	- 1 healing potion (superior)

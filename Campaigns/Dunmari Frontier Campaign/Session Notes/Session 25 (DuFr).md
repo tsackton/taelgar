@@ -16,7 +16,7 @@ name: Dunmari Frontier - Session 25
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
 > *In Taelgar: May 13, 1748 DR to May 23, 1748 DR*
 > *On Earth: Monday May 17, 2021*
-> *From [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] to [[Karawa]] via [[Pava and Avaras' House]]*
+> *From [[Kharsan]] to [[Karawa]] via [[Pava and Avaras' House]]*
 
 The Dunmar Fellowship escapes orcs, battles night shadows, consults allies, and safely returns to Karawa.
 
@@ -40,11 +40,11 @@ The Dunmar Fellowship escapes orcs, battles night shadows, consults allies, and 
 - (DR:: 1748-05-19)  - (DR_end:: 1748-05-23): Travel towards Karawa. 
 
 ## Narrative
-We begin outside [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]], just before noon, as the party is huddled beneath the arches of an old Dunmari bridge over the now-dry [[Kharja]] river, [[Delwath]] having just returned from scouting invisibly in [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]]. Pinned down a hundred yards from the shelter of the cliffs on the west side of the riverbank, [[Delwath]] turns himself and [[Seeker]] invisible, while [[Kenzo]] and [[Wellby]] attempt to dash, but the [[Orcs|orcs]] are alerted during the attempt, and horns go up from the [[Orcs|orcs|orc]] fort just south of [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]]. With horns blowing and an [[Orcs|orc]] party leaving to investigate, the party forgoes stealth and dashes for their horses, riding hard to put as much ground between them and the following [[Orcs|orcs]] as possible. 
+We begin outside [[Kharsan]], just before noon, as the party is huddled beneath the arches of an old Dunmari bridge over the now-dry [[Kharja]] river, [[Delwath]] having just returned from scouting invisibly in [[Kharsan]]. Pinned down a hundred yards from the shelter of the cliffs on the west side of the riverbank, [[Delwath]] turns himself and [[Seeker]] invisible, while [[Kenzo]] and [[Wellby]] attempt to dash, but the [[Orcs|orcs]] are alerted during the attempt, and horns go up from the [[Orcs|orcs|orc]] fort just south of [[Kharsan]]. With horns blowing and an [[Orcs|orc]] party leaving to investigate, the party forgoes stealth and dashes for their horses, riding hard to put as much ground between them and the following [[Orcs|orcs]] as possible. 
 
 Pushing hard and fast across the desert, and heading directly for [[Havdar]]’s camp to restock their water supplies, the party outdistances the [[Orcs|orcs]]. Taking precautions at night to have light available -- more worried about the shadows [[Grash]] sent than the [[Orcs|orcs]] -- the party makes it a day, a night and another day across the desert without incident. 
 
-The second night in the desert out from [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]], the party is ambushed in the night by shadowy figures, humanoid shadows, with a pack of shadowy dogs following them. While the shadows seem to drain the very strength from the body when they hit, they are hindered by daylight, and with the use of the [[Dwarven Driftglobe|driftglobes]] combined by [[Seeker]]’s magically created magnesium flare, the party is able to dispatch the threat, although not before the shadow dogs manage to kill two of the horses. 
+The second night in the desert out from [[Kharsan]], the party is ambushed in the night by shadowy figures, humanoid shadows, with a pack of shadowy dogs following them. While the shadows seem to drain the very strength from the body when they hit, they are hindered by daylight, and with the use of the [[Dwarven Driftglobe|driftglobes]] combined by [[Seeker]]’s magically created magnesium flare, the party is able to dispatch the threat, although not before the shadow dogs manage to kill two of the horses. 
 
 In the morning, the party presses on for [[Havdar]]’s camp, arriving in the evening as the sun is setting. [[Havdar]] has left -- the camp empty and packed up -- but the spring in the canyon provides welcome clean water and a sheltered place to rest. Turning southwest, the party heads for the stone house of [[Avaras]] and [[Pava]]. At [[Pava and Avaras' House]], [[Kenzo]] discusses his initiation into the [[Order of the Awakened Soul]]. Over dinner, the party summarizes the events at the monastery of [[Bhishma]], discussing [[Heart of Shakun]] and [[Bhishma]]’s message. [[Pava]] and [[Avaras]] know little of the temple of [[Shakun]], but agree that if such an artifact were lost it could explain much about the events of the past year. 
 
