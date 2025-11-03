@@ -1,5 +1,5 @@
 ---
-tags: [species, status/cleanup/text]
+tags: [species, status/cleanup/text, status/needswork/old]
 dm_owner: shared,tim
 dm_notes: important
 ---
@@ -8,6 +8,8 @@ dm_notes: important
 %% have a lot of notes still in onenote from Seeker solo %%
 
 %% needs proofreading and double-checking %%
+
+%% some thing are not correct, such as mention of Seelie / Unseelie %%
 
 The fey are the natives of the [[Feywild]], the creations and children of the powerful Archfey who ruled when the world was young, in the days of myth and legend. The people of the feywild are generally referred to as the "fey" or the "faerie", but there are distinctions, both obvious and subtle, among these folk. The fey can be mischievous, thriving on a clever trick, and even malevolent, seeking to profit from misery and finding pleasure in the suffering of others. They can also be noble, thriving on the majesty of creation and taking joy from the vast beauty of their home. 
 
