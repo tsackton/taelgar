@@ -166,7 +166,9 @@ If they attack, the illusion shatters. If they choose to search, they find scatt
  
 Cackling laughter follows them. No effect but play up the spookiness.
 
-![raft 17 14 14 IOC 1 14 1 24 1](assets/Exported%20image%2020251029113956-0.tiff)  ![POMBERO Medium fey chaotic neutral Armor Class 15 ...](Exported%20image%2020251029113959-1.png) 
+https://www.dndbeyond.com/monsters/4340030-duskthorn-dryad
+
+https://www.dndbeyond.com/monsters/4340174-pombero
 
 **Tree Blight**  
 Huge plant, neutral evil
