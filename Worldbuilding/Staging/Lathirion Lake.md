@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/check/name, status/check/tim]
+tags: [place, status/stub, status/check/name]
 displayDefaults: {defArt: ""}
 name: Lathirion Lake
 typeOf: lake
