@@ -1,9 +1,11 @@
 ---
-tags: [status/needswork/wip, background, status/check/tim]
+tags: [status/needswork/wip, background, status/check/mike]
 dm_owner: joint
 dm_notes: none
 ---
 # Goblinoids
+
+%% adding check/mike. i think for now i'm happy leaving this as campaign-none basic facts and brainstorming. feel free to add anything and bounce back; if looks reasonable for now change status to stub and remove check. can also delete comments at end if adequately captured %%
 
 %%^Campaign:none%%
 
@@ -48,16 +50,9 @@ Bugbears are clearer in the sense there is no canonical reason to consider them 
 
 They could take the "exiled fey" backstory instead of or in addition to goblins. They also don't have to be exiled and could be more like satyrs - often found on the Material Plane but also common in the Feywild. 
 
-The
+## Old Notes
 
-%%^End%%
-
-%%
-Added some questions and notes throughout
-
-i could not find any shared notes specific to goblinoids - mostly discussion of hobgoblins %%
-
-%% notes
+This are explicitly not correct but kept for posterity. *Note that some other notes still imply or state this history and will need to be changed at some point, perhaps when this is de-stubbed.*
 
 - Created by the Void Mind; hobgoblins are supposed to be like humans but lack the divine spark. instead of being endowed with the power to create things from belief they are endowed with the belief they are superior or something like that. the point is these are the Taelgar Nazi Party basically, the bad guys you can always safely fight without feeling guilty. 
 	- Haven't decided yet whether, like the orcs, they have a way to escape this evil destiny
@@ -65,6 +60,11 @@ i could not find any shared notes specific to goblinoids - mostly discussion of 
 	- [[Goblins]] are probably the most "sympathetic" of the goblinoids; probably seen equally with pity and scorn if they escape. you could imagine some [[Goblins]] living happy quiet lives far from anyone, others imitating their hobgoblin masters if they get free, others serving as pawns, intentionally or not, in hobgoblin games
 		- The work one-shot I ran (questionably canon) followed this, a local goblin tribe was not really much of a nuisance until a hobgoblin leader showed up and took over
 	- Bugbears I'm not sure about
+	
+%%^End%%
+
+
+%% notes
 
 Thoughts from Mike:
 * Are bugbears necessarily canonical? I see they came up in one or two Great Library arcs but could that be retconned to particularly fearsome hobgoblins, or something in the ogre/troll family, i.e. more like a monster and not a real species per se?
