@@ -26,7 +26,7 @@ The [[Dunmar Fellowship]] receives gifts, rumors, and magic in [[Tokra]], and th
 ### Summary
 - The party receives the[[ Portable Hole]] from [[Basu]], learning its rules and potential dangers, and [[Kenzo]] receives a special branch from his mentor, [[Rishi]].
 - They depart [[Tokra]], travel for three days, and stay at inns along the way, encountering a notable Drankorian bridge.
-- At the [[~Crossroads Caravanserai~]], they exchange stories with travelers, including rumors of a dragon, stories of kobolds, and a deal involving [[Nayan Karnas|Karnas]] and [[Chardon]].
+- At the [[~Crossroads Caravanserai~]], they exchange stories with travelers, including rumors of a dragon, stories of [[kobolds]], and a deal involving [[Nayan Karnas|Karnas]] and [[Chardon]].
 
 ### Timeline
 - (DR:: 1748-07-13): Spend time in [[Tokra]]
