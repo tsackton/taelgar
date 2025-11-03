@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name, status/check/tim]
+tags: [place]
 typeOf: river
 whereabouts: Istaros Watershed
 aliases: [Naithalë, Nimrata, Arianrith]
@@ -15,7 +15,6 @@ pronunciation: NY-thah-lay
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% tim: mostly just for name %%
 The Naithalë flows south from the [[Mostreve Hills]] to [[Lathirion Lake]] through largely uninhabited and desolate land. It is a border of sorts for the elves, and the elves of [[Orenlas]] rarely cross the Naithalë, or if they do, only with strength of arms and magic. 
 
 %%^Campaign:None%%
