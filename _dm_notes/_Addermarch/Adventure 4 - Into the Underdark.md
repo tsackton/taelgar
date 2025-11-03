@@ -302,9 +302,9 @@ This room is a chaotic mix of practicality and eccentricity. The air is warm and
     - Crumpled scrolls with failed spell formulas lie in a pile on the floor.
 3. **Decorations and Oddities**:
     
-    - Small clay figurines of dragons, kobolds, and other creatures are arranged on a shelf like trophies.
+    - Small clay figurines of dragons, [[kobolds]], and other creatures are arranged on a shelf like trophies.
     - A glowing rock hangs from the ceiling, tied with string, acting as a makeshift lamp.
-    - A crude mural painted on the wall depicts Zibzik blasting an enormous foe with a beam of magic while a crowd of adoring kobolds cheers in the background.
+    - A crude mural painted on the wall depicts Zibzik blasting an enormous foe with a beam of magic while a crowd of adoring [[kobolds]] cheers in the background.
 
 
 ### Room 21 **Bedroom**

@@ -25,7 +25,7 @@ Our adventure starts on the road: [[Brelith]], [[Adrik]] , [[Samso]], and [[Alto
 
 In [[Lyra]]’s camp, the party learns their mission: search for the [[Elemental Scrolls of Airion|scrolls of elemental power]]. The location of the [[Flamekeeper Scroll]] and the [[Stonemaster Scroll]] are known, while the location of the [[Skyborn Scroll]] and the [[Deepwater Scroll]] are not. 
 
-Our heroes decide to head to the Forge of Fire, a part of an [[Goldpeak Mines|ancient Dwarven mine complex]] that once extended through much of the [[Fiatara Mountains]], where the [[Flamekeeper Scroll ]]is thought to be. They find it is now a kobold shrine to the “fire god”, which is a rune protecting the Flamekeeper Scroll. After killing some [[kobolds]] and convincing others they are the fire god made flesh, they get the scroll, and leave, but not before triggering a magma eruption which destroys forge and probably all the kobolds. 
+Our heroes decide to head to the Forge of Fire, a part of an [[Goldpeak Mines|ancient Dwarven mine complex]] that once extended through much of the [[Fiatara Mountains]], where the [[Flamekeeper Scroll ]]is thought to be. They find it is now a kobold shrine to the “fire god”, which is a rune protecting the Flamekeeper Scroll. After killing some [[kobolds]] and convincing others they are the fire god made flesh, they get the scroll, and leave, but not before triggering a magma eruption which destroys forge and probably all the [[kobolds]]. 
 #### Events
 
 - (DR:: 1747-04-04): [[Samso]], [[Brelith]], [[Adrik]], and [[Alton]] are attacked by [[goblins]] on the road to [[Voltara]], and then meet Archivist [[Lyra]] at her camp. 
@@ -146,13 +146,13 @@ Continuing to defend the temple, in the middle of the night the remnants of the 
 
 ### Session 16
 
-Returning from the success of restoring the [[Order of Twilight Temple (Voltara)|temple]] of the [[Order of Twilight]], [[Adrik]], [[Brelith]], [[Aelar]], and [[Samso]] are invited to meet the [[Anton Lavernia|proconsul]], the governor of [[Voltara]], and given permission to enter the walled city itself. After this meeting, they receive word a messenger bearing information about the last [[Elemental Scrolls of Airion|elemental scroll]] has gone missing, and head out on a mission from Archivist [[Lyra]] to ransom the messenger from [[kobolds]]. While they are able to ransom the messenger, [[Amus]], they realize that he does not have the map they need to locate the scroll: it has been taken by the kobolds. Leaving [[Amus]] in a well-hidden camp, the party deduces that the kobolds may try to get the map to [[Grumella]]. Searching for hidden exits from the lair, they find several, and set a careful ambush. With some clever planning, the ambush is a success and the scroll is recovered, after which the party returns to their camp to rest and plot their next move. 
+Returning from the success of restoring the [[Order of Twilight Temple (Voltara)|temple]] of the [[Order of Twilight]], [[Adrik]], [[Brelith]], [[Aelar]], and [[Samso]] are invited to meet the [[Anton Lavernia|proconsul]], the governor of [[Voltara]], and given permission to enter the walled city itself. After this meeting, they receive word a messenger bearing information about the last [[Elemental Scrolls of Airion|elemental scroll]] has gone missing, and head out on a mission from Archivist [[Lyra]] to ransom the messenger from [[kobolds]]. While they are able to ransom the messenger, [[Amus]], they realize that he does not have the map they need to locate the scroll: it has been taken by the [[kobolds]]. Leaving [[Amus]] in a well-hidden camp, the party deduces that the [[kobolds]] may try to get the map to [[Grumella]]. Searching for hidden exits from the lair, they find several, and set a careful ambush. With some clever planning, the ambush is a success and the scroll is recovered, after which the party returns to their camp to rest and plot their next move. 
 ### Events
 
 - (DR:: 1747-07-08): The party arrives back in [[Voltara]]. 
 - (DR:: 1747-07-09): The party meets the [[Anton Lavernia|proconsul]], and Archivist [[Lyra]] tells them a messenger is missing. 
-- (DR:: 1747-07-10): [[Adrik]], [[Brelith]], [[Aelar]], and [[Samso]] random the messenger from the kobolds, but not the map they need to find the last scroll, the Skyborn Scroll.  
-- (DR:: 1747-07-11): The party, with [[Aglath]], ambushes the kobolds and retrieves the map to the [[Skyborn Scroll]]. 
+- (DR:: 1747-07-10): [[Adrik]], [[Brelith]], [[Aelar]], and [[Samso]] random the messenger from the [[kobolds]], but not the map they need to find the last scroll, the Skyborn Scroll.  
+- (DR:: 1747-07-11): The party, with [[Aglath]], ambushes the [[kobolds]] and retrieves the map to the [[Skyborn Scroll]]. 
 
 ## Adventure 11: The Skyborn Scroll
 ### Session 17
