@@ -45,7 +45,7 @@ Magic exists is an entirely different economy, and largely comes in 3 flavors:
  
 1. Consumable items or 'toy' enchantments (common magical items) that are reasonably common and can be bought/sold in many places, generally between 10-50 gp and in any case \< 100 gp:
 
-![Required Materials Minor Singlellse Charged Perman...](Exported%20image%2020251029102705-0.png)
+![Required Materials Minor Singlellse Charged Perman...](money-ideas-image-1.png)
 
 1. Custom-crafted items, which can be complex but require a specialized artisan to produce. In some cases these may not be technically magical, e.g. a masterwork item, but follow magic item pricing. E.g. a masterwork sword that gives +1 to damage would be an common permanent item, so around 80-100 gp plus cost of sword. This is roughly equivalent to silvered cost (100 gp).
 2. Legendary artifacts of past empires: this is a lot of the uncommon and rarer "standard" D&D magic items
