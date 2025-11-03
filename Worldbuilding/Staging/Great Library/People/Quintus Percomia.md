@@ -23,4 +23,6 @@ A caravan master and [[chalyte]] trader in [[Voltara]]. First met early in the c
 
 %%
 GL Arc 1: initial meetings around the centaur trouble; GL Arc 4: purchased party treasure during downtime.
+
+OneNote: Well dressed, rich, well-groomed, short, neat beard and mustache.
 %%

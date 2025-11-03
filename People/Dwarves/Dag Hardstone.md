@@ -27,3 +27,7 @@ Dag is the youngest member of the Hardstone clan, an extended family of dwarves 
 %%^Campaign:dufr%%
 In the summer of 1748 DR, Dag was caught by werewolves when the [[Archives]] were raided, and wounded, becoming cursed by lycanthropy. After he was subdued by the [[Dunmar Fellowship]], he was cured by [[Delwath]], with the blessing of [[Yezali]]. 
 %%^End%%
+
+%% One Note
+Kid, not yet learned his caste. Cursed by lycanthropy and cured by Delwath. As of July 2nd, not yet ready to speak with party, but will be soon.
+%%
