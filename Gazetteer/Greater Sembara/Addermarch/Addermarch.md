@@ -15,6 +15,12 @@ dm_notes: important
 
 %% Added a few comments: FROM MIKE below %%
 
+%% Old Documents from first Plaguelands campaign. Not canonical but might have useful vibes to mine:
+- [[Southern Addermarch - Gazetteer]]
+- [[Tygate - Gazetteer]]
+
+%%
+
 Nestled in the [[Mostreve Hills]] southwest of [[Tyrwingha]], east of the [[Duchy of Maseau]], south of the [[Borderlands|Sembaran Borderlands]], and north of the haunted [[Darkwood]] lies the ancient hill kingdom of Addermarch. This is a land of rolling hills, swift rivers, and dense forests; a rugged land of independent folk fiercely proud of their long history and ancient traditions. 
 
 Addermarch was settled long ago, before the [[Drankorian Empire|Drankorians]] came, by a people sharing a cultural and linguistic tradition with [[Tyrwingha]]. During the [[Drankorian Era]], it was a backwater province of the [[Drankorian Empire]], never densely settled, but supported and garrisoned as a ward against the dangers of the [[Darkwood]]. 
@@ -154,3 +160,4 @@ From Mike: some suggestions - Earl of Westcliff instead of Highlands; come up wi
 ### Economy, Trade, and Foreign Relations
 
 Addermarch does not have major trade connections to elsewhere, despite being rich in raw materials. The largest export industry is brandy, which is produced by a number of brandy houses based in Adderfell, and exported down river to Sembaran and beyond. 
+

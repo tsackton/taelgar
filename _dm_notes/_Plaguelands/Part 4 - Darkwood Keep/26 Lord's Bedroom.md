@@ -1,0 +1,1 @@
+Lord’s bedchamber - fancy bed, wardrobe, small table with a chair. Obvious signS of a struggle. Stairs leading up are partially collapsed and filled with debris.
