@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name, status/stub, status/check/tim]
+tags: [place, status/stub]
 typeOf: river
 whereabouts: Istaros Watershed
 aliases: [Silírë]
