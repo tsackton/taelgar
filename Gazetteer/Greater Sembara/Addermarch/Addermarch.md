@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [place]
 name: Addermarch
 typeOf: realm
 whereabouts: Greater Sembara
@@ -16,6 +16,7 @@ dm_notes: important
 %% Old Documents from first Plaguelands campaign. Not canonical but might have useful vibes to mine:
 - [[Southern Addermarch - Gazetteer]]
 - [[Tygate - Gazetteer]]
+- [[Addermarch - Old.pdf]]
 
 %%
 
@@ -70,16 +71,53 @@ The lesser fortification density to the west and northwest is mostly not maintai
 
 The eastern border with trywinghan has basically never been fortified, there has never really been danger from that direction.
 
+Here is an old map that, while not strictly canon (Dunwick is no more, for instance), is kind of roughly right:
+![[southern-addermarch-old-map.png]]
+
 %%^End%%
 
 Addermarch consists of four distinctive regions, each with their own culture and economy. 
 
-(to do)
+#### Western Highlands
+_See more: [[Carlinshire]], [[Weskershire]], [[Bramshire]], [[Westcliff]]_
 
-- To the west and northwest, the [[Westcliff]] is a region of rough hills and mountains that borders the flat plains of the Maseau Gap. This is a hard land with few people. This area was extensively fortified at multiple times in the past, but the castles in the hills have not all been maintained and many are now in ruins. %% very mountainous, steep cliffs, maybe Provence-like? white mountains %%
-- The center of the realm is the [[Aure]] river valley, a land of rolling hills, forests, and many rivers that cut through the hills. This region is the most densely settled, and includes [[Adderfell]], the only real city in Addermarch. This is also the major agricultural land in Addermarch, and the center of brandy production. The [[Aure]] is navigable from [[Adderfell]] to the [[Enst]], and many riverboats ply their trade along it. %% Shenandoah/Blue Hills, Susquehana river valley%%
-- To the south and east of the [[Aure]] valley are several lines of wooded hills and mountains, rising gradually to the height of land on the eaves of the [[Darkwood]]. This region is well-guarded, and lightly populated, mostly with smallholds of foresters and furriers. %% also mid-Atlantic Appalachians but very wooded%%
-- To the east and northeast, along the borders of [[Tyrwingha]], the poor soil of the hilly, rocky land keeps forests to sheltered valleys. This is largely rangeland: highland cattle graze in the high pastures in summer, and only in a few sheltered valleys do crops thrive. %% more open meadows, less forests, perhaps also a bit Provence-ish? Note the northern/eastern slopes are more wooded than the southern/western slopes%%
+To the west and northwest, the rugged terrain of the [[Westcliff]] tumbles down to the [[Velan]] river valley. This is a region of rough hills and mountains, which form high and often-impassable ramparts, especially on the western borders. It is also a region of productive, forested valleys, especially along the [[Velan]]; the lowlands near [[Valcroix]], at the confluence of the [[Velan]] and the [[Umber]], are one of the major agricultural centers of Addermarch. The high meadows, though, are more isolated, cut off from the [[Velan]] by the dense [[Torvaine Forest]], and are lightly populated by sheepherders and harder farmers. This area was extensively fortified at multiple times in the past, but the castles in the hills have not all been maintained and many are now in ruins. 
+
+%% Setting for the [[Addermarch Campaign]]. vibe is Appalachian, but also the higher peaks have a bit more rugged feel and thin soil, with lots of caves and pasturelands. Generally rolling hills gradually climbing to steep hills/mountains. Mostly sheep herders. %%
+
+%% rough map: ![[Dwarf Map from Cockatrice Cave.jpg]] %%
+
+#### Aure River Valley
+
+The heartlands of Addermarch are the Aure river valley. This is a land of gently rolling hills, open forests, and many small rivers and streams that flow from the surrounding highlands to the [[Aure]]. This region is the most densely settled of all of Addermarch, and includes the capital, [[Adderfell]], which sits at the height of navigation of the Aure. The lower reaches of the [[Tarn]] and the [[Velan]], the two most important tributaries of the [[Aure]], are also densely settled. To the north, the Aure crosses into the [[Borderlands|Sembaran Borderlands]]. This region is the center of apple production in Addermarch, and well served by riverboat traffic along the Aure, which is navigable all the way from [[Adderfell]] to the [[Enst]]. 
+
+%% 
+Shenandoah/Blue Hills, Susquehana river valley. Lots of apple orchards.
+Open question is what the northern part of the Aure valley looks like. I don't have a good sense for how far east the hobgoblins got, or where the Sembaran/Tyrwingha border is, exactly, and how far up the Enst the swamps really extend. There is definitely some fleshing out to do here. 
+%%
+
+#### Southern Borderlands
+_See more: [[Darkwood]], [[Shadowmere]]_
+
+South of Adderfell, the Aure runs swiftly from its source in [[Darkwood]], and the wilds encroach. A line of gentle hills gradually climbs along the eastern banks of the Aure, beyond which the dense forest of the [[Darkwood]] lies to trap the unwary. To the west, the [[Mournebrook]] flows northeast from the [[Shadowmere]], a haunted swamp on the western edge of the [[Darkwood]], and few dare cross its water south of its confluence with the [[Aure]]. South of the river village of [[Tygate]], this region is very lightly populated, mostly with smallholds of foresters and furriers. It is, however, well-defined: a line of fortifications watches the forest eaves (cf. [[Darkwood Keep]]) and runs along the hilltops to the east to watch for dangers from the [[Plaguelands]]. 
+
+%% 
+Also mid-Atlantic Appalachians but very wooded.
+
+The basic geography is that the western edge of the Darkwood forms a basin (the Shadowmere), out of which flows the Mournebrook (not mapped) across forested flat land to join the Aure a little north of where it exits the Darkwood. Few travel south of this confluence. 
+
+To the east, the land begins to gently rise in a series of rolling hills (think maybe Berkshires, not mountains). These are wooded, but it is a more open, less scary wood, and some timber, charcoal, and other wood products are exported via Tygate to Adderfell from here. This basically the unnamed tributary of the Tarn. 
+
+As you go further east the land gets more rocky, and higher elevation, until you meet the north-south ridge that forms the Tyrwinghan border and is much higher elevation. 
+
+The fortifications here really are probably more oriented towards the Darkwood than the Plaguelands; to a certain extent the rough terrain is presumed to be a significant barrier to anything trying to cross into Addermarch here. 
+ 
+%%
+#### Eastern Highlands
+
+To the east and northeast, along the borders of [[Tyrwingha]], the poor soil of the hilly, rocky land keeps forests to sheltered valleys. This is largely rangeland: highland cattle graze in the high pastures in summer, and only in a few sheltered valleys do crops thrive. The [[Tarn]] is the most significant river in this region, and the [[Tarn]] valley where most of the few people who live in this part of Addermarch settle. East of the headwaters of the [[Tarn]], the land turns quickly rocky, hard to travel, and dangerous; north of the Tarn, the hills get quickly steeper. The Tyrwinghan borderlands is lightly settled by cattle herders who bring their herds to the high meadows to graze in the summer. 
+
+%% more open meadows, less forests, perhaps also a bit Provence-ish? Note the northern/eastern slopes are more wooded than the southern/western slopes%%
 ### Borders
 
 To the west and northwest Addermarch is bordered by the [[Westcliff]], a series of sharp cliffs and dangerous terrain that separates the realm from the flat plains of the [[Duchy of Maseau]] to the west, and the [[Borderlands|Sembaran borderlands]] to the north. At the Aure, the high ridge of [[Westcliff]] is cut by the river, and on the eastern bank, the land is much lower. Here an ancient line of border stones running to [[~High Peak of Tyrwinghan Ridge~]] demarcates the border with [[Tyrwingha]]. These stones are said by some to be raised by Drankor, but they are marked with complex warnings in [[Sylvan Writing|Sylvan]], and many believe they have fey origins.
@@ -87,6 +125,8 @@ To the west and northwest Addermarch is bordered by the [[Westcliff]], a series 
 The eastern border is not marked, as the high terrain between Addermarch and Tyrwinghan is unpopulated. The gentler, forested slopes to the north and east are under the demense of Tyrwinghan earls, and the dryer, arid slopes to the south and west, the land of Addermarian earls.
 
 To the south, Addermarch is bordered by the high ridge of the [[Mostreve Hills]], where the [[Tarn]] arises, and then, to the southwest, the [[Darkwood]]. This border is carefully watched for fear of what might creep out in the shadows. 
+
+%% something more could be said about the northern border here. it is a bit of a blank spot on the map, but i don't have a great sense of this part of Sembara%%
 
 ## History
 
@@ -143,10 +183,9 @@ Natural features include:
 - The [[Westcliff]], a significant escarpment running along the western and northwestern borders, steep hills, rough terrain, some relatively impassible mountain ridges here and sharp cliffs on the western border
 - [[Darkwood]], to the south, haunted and fey-associated, colocated with the center of [[Duskmire]] in the [[Feywild]]
 - [[Torvaine Forest]], centered at mid and high elevations around the upper [[Umber]] and [[Velan]], and stretching in places into the lowlands. 
-- Another small forest on the northern part of the western border with [[Tyrwingha]]
-- A region of higher mountains and alpine meadows on the southern part of the [[Tyrwingha]] border
+- A region of higher mountains and alpine meadows that forms the [[Tyrwingha]] border
 - [[Shadowmere]], a boggy lowlands on the western edge of the [[Darkwood]], also considered haunted
-- [[Aure]] river valley, including the [[Aure]], which forms a lake + waterfall at [[Adderfell]], and 2-4 major tributaries with their own minor rivers (this is the only watershed in Addermarch)
+- [[Aure]] river valley, including the [[Aure]], which forms a lake + waterfall at [[Adderfell]], and its major tributaries the [[Velan]] and the [[Tarn]], each with their own tributaries. 
 
 Settlements include:
 - [[Adderfell]], the largest settlement and only city in Addermarch, at the height of navigation of the [[Aure]], center of apple farming and brandy production
@@ -163,31 +202,48 @@ The people of Addermarch are, in many ways, like the people of southern Sembaran
 
 The land is hard, especially in the hills and mountains, and the people of Addermarch are largely independent, insular, and self-sufficient. Travel is difficult, and the constant danger of the tricksy fey from the Darkwood and other dangerous places keeps people on guard against strangers and unusual happenings. There are fewer [[Dwarves|dwarves]] than one might expect, but more [[Elves|elves]], mostly from [[Orenlas]], and [[Lizardfolk|lizardfolk]], mostly from the [[Ozabal]] and [[Latazaro]] swamps. 
 
-The popular of Addermarch is very rural. There is only one significant city, [[Adderfell]], and while small market towns (often fortified) dot the landscape, most people live in small villages or isolated homesteads. 
+The population of Addermarch is very rural. There is only one significant city, [[Adderfell]], and while small market towns (often fortified) dot the landscape, most people live in small villages or isolated homesteads. 
+
 ### Political Organization, Justice, and the Law
 
-%% ALL very much in draft form %%
+%% this has kind of solidified a bit in the addermarch campaign and feels pretty solid to me, so no longer consider it draft, at least not in broad strokes. minor details are not necessarily canonical %%
 
 Addermarch is a feudal oligarchy, with power centralized in the hands of the Earl's Court, composed of the five hereditary earls of Addermarch, whose claim to power traces back to ancient days. The Earl's Court has, in times of danger, elected one of their own, or even an outsider, as the commander in chief of the army, and over time this role has been formalized into the High Lord of Addermarch, who serves as a kind of overking, and is allowed to style themselves Defender of the Realm. 
 
-Each earl functions as the monarch of a circuit, defined by the villages and towns in their demesne. Within this circuit, the Earl is responsible for administering justice and providing for the defense of their territory, and has the right to tax the labor of the land to provide for its upkeep. However, generally speaking there is no manorial feudalism in Addermarch. Instead, an Earl would typically appoint a knight of their court to serve as the lord of a particular castle or manor. However, there is no expectation that this title is inherited, and although there are often significant land holdings which provide rents for castle upkeep, the knights and castellans have no vassalage relationship with the commoners.
+Each earl functions as the monarch of a circuit, defined by the villages and towns in their demesne. Within this circuit, the Earl is responsible for administering justice and providing for the defense of their territory, and has the right to tax the labor of the land to provide for its upkeep. However, generally speaking there is no manorial feudalism in Addermarch. Instead, an Earl would typically appoint a knight of their court to serve as the lord of a particular castle or manor. However, there is no expectation that this title is inherited, and although there are often significant land holdings which provide rents for castle upkeep, the knights and castellans have no vassalage relationship with the commoners. Indeed, many villages, especially in the protected interior, have no manor, and often have a strong tradition of common land. 
+
+There are also a few hundred hereditary knights in Addermarch: while some of these are attached to possession of land holdings, often a manor, many others are, like earls, itinerant. 
 
 %% the vibe I'm aiming for is a bit of feudalism but with less hierarchy and kind of looser than Sembara. You don't have layers of vassals and lords, basically there are just earls and knights, with the knights perhaps divided into hereditary knighthoods, which must be confirmed by the full Earl's Court, and temporary ones, granted by a particular Earl. Perhaps the hereditary knights also serve as something like a House of Lords within each Earldom, or at least are required to confirm the Earl - so Earls are not absolute monarchs. But these details don't really matter that much for now.
 
-From Mike: I like the vibe; perhaps not every village necessarily has a manor? Especially the more interior places there might be a stronger tradition of the commons/common land and places where there is no particular manor. Some knights, I think should be, like earls, itinerant, but I like the vibe of a set of hereditary titles that form the basis for a House of Lords type institution. In Sembara the monarch is ultimately accountable to the dukes and major barons; in Tyrwingha the monarch is elected by the fey oracle; having a robust (100-200) body of knights who form an electoral basis for the earls feels like a nice contrast but also isn't too different 
+From Mike: Some knights, I think should be, like earls, itinerant, but I like the vibe of a set of hereditary titles that form the basis for a House of Lords type institution. In Sembara the monarch is ultimately accountable to the dukes and major barons; in Tyrwingha the monarch is elected by the fey oracle; having a robust (100-200) body of knights who form an electoral basis for the earls feels like a nice contrast but also isn't too different 
+
+Adding: a question is how new knights get created. I think probably any earl can knight someone, but to create a new hereditary title requires a vote of the full Earl's Court. 
 %%
 
 The five Earls of Addermarch are known as:
 - The Earl of Adderfell, who, unlike other Earls, is the lord of the city of Adderfell (but includes some outlying villages in their demesne) 
-- The Earl of Aure, whose circuit is largely in the Aure river valley, in particular the northern and eastern stretches, interdigitating with the Earl of the Mostreve in parts of the western Aure valely
 - The Earl of Westcliff, whose circuit includes all of the [[Westcliff]], as well as parts of the upper Aure valley, especially on the western part of Addermarch. The Earl of Westcliff is the lord of three shires: [[Bramshire]] (northern hills bordering [[Borderlands|Sembaran Borderlands]]), [[Carlinshire]] (northwestern hills, upper reaches of [[Umber]]), [[Weskershire]] (West Cliff and south). These shires are each centered around major defenses on the western and northern border, and have hereditary lords. 
+
+
+%% CHECK - these three earls don't really have good names IMO %%
+
+- The Earl of Aure, whose circuit is largely in the Aure river valley, in particular the northern and eastern stretches, interdigitating with the Earl of the Mostreve in parts of the western Aure valely
 - The Earl of the Highlands, whose circuit includes the eastern part of the Aure river valley, and the highlands along the Tyrwinghan border.
 - The Earl of the Southern Reaches, whose circuit includes the southern Aure. 
  
 Note these circuits are not strict lines on a map and often overlap, but each village is part of the domain of a single earl.
 
-%% Not sure about the titles, e.g. Earl of Adderfell works but Earl of the Southern Reaches might be too long
-From Mike: some suggestions - Earl of Westcliff instead of Highlands; come up with a name for the East Fork of the Aure and replace Earl of the Southern Reaches with Earl of ~EastForkOfAure~ 
+%% 
+
+Note that the Earls of Adderfell and Aure control typically by far the richest and most populous land, and thus are the richest and strongest. 
+
+The Earl of Westcliff and the Earl of the Southern Reaches are next, though in the 1710s-1720s the vibe of Westcliff is kind of benign neglect of the highlands and a strong focus on developing the lowlands, which has led to a lot of castles falling into ruin. But this has not really mattered as the western border is not to dangerous in this time perriod. 
+
+The Earl of the Southern Reaches must get some kind of tithe or stipend from the Earl's Court to support the common defense, as there is certainly not enough wealth in their domain to support the Darkwood fortifications themselves. In my non-canonical Plaguelands campaign, the Earl of Addermarch provided significant support to the south, FWIW. 
+
+Earl of HIghlands is poorest, at least in the 1710s. This is both sparsely populated and thought to be safe (borders Tyrwingha), so is neglected. 
+
 %%
 ### Economy, Trade, and Foreign Relations
 
