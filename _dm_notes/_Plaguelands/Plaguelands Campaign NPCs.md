@@ -104,13 +104,13 @@ Mannerisms/quirks: Constantly referencing the gods; rubs his head when he disagr
 
 ### Ellyn
 
-Proprietor of the Brass Thorn, an inn in [Adderfell](Adderfel)
+Proprietor of the Brass Thorn, an inn in Adderfell
  
 Bodily appearance: Compact  
 General appearance: Costly dress  
 Memorable mannerisms: Laughs loudly and often
  
-Friendly with party, enjoyed their company and trying to make the best of the troubles in [Adderfell](Adderfel).
+Friendly with party, enjoyed their company and trying to make the best of the troubles in Adderfell
 
 ### Hanse
 
