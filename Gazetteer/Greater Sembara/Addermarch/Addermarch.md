@@ -13,8 +13,6 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Added a few comments: FROM MIKE below %%
-
 %% Old Documents from first Plaguelands campaign. Not canonical but might have useful vibes to mine:
 - [[Southern Addermarch - Gazetteer]]
 - [[Tygate - Gazetteer]]
@@ -25,16 +23,21 @@ Nestled in the [[Mostreve Hills]] southwest of [[Tyrwingha]], east of the [[Duch
 
 Addermarch was settled long ago, before the [[Drankorian Empire|Drankorians]] came, by a people sharing a cultural and linguistic tradition with [[Tyrwingha]]. During the [[Drankorian Era]], it was a backwater province of the [[Drankorian Empire]], never densely settled, but supported and garrisoned as a ward against the dangers of the [[Darkwood]]. 
 
-%% Possibility: original settlers may have included a substantial number of exiles from Tyrwingha, or people who rejected Ethlenn's bargain, which may color the perception of the fey in Addermarch. %%
+%% some notes on this point; none of these are necessarily canonical:
+- Original settlers may have included a substantial number of exiles from Tyrwingha, or people who rejected Ethlenn's bargain
+- Addermarch is on the other side of the Sunset Gate from Ethlenn; another possibility could be that Ethlenn for some reason could only extend her protection (against, e.g. Morlaith) along the Sunset Gate, and so the people in Addermarch were the ones who stayed in their homes instead of moving back to Tyrwingha (this supposes that pre-Ethlenn, the proto-Tyrwingha spread across the Mostreve Hills, but I actually kind of like this better that point 1). 
+- Left unclear per previous discussion is where these people came from, and how they interacted with elves to south and lizardfolk to north pre-Downfall.
+- Fundamentally, though, the vibe is that it was Ethlenn/feywild politics that set Addermarch and Tyrwingha on separate courses through history
+%%
 
-With the fall of [[Drankorian Empire|Drankor]], Addermarch charted its own course as a frontier kingdom, isolated from [[Sembara]] by poor roads, difficult travel, and occasionally war. While sharing a language, a religion, and a cultural connection, Addermarch has never acknowledged the sovereignty of Sembaran monarchs, excepting during the height of the [[House of Sewick]] in the years leading to the [[Great War]]. 
+With the fall of [[Drankorian Empire|Drankor]], Addermarch charted its own course as a frontier kingdom, isolated from [[Sembara]] by poor roads, difficult travel, and occasionally war. While sharing a language, a religion, and a cultural connection, Addermarch has never acknowledged the sovereignty of Sembaran or Tyrwinghan monarchs, excepting during the height of the [[House of Sewick]] in the years leading to the [[Great War]]. 
 
 %% Note: Addermarch was never conquered in the wars since the fall of Drankor. It was isolated completely from [[Sembara]] during the height of the [[Dominion of Avatus]], although never cut off from [[Tyrwingha]]; it was besieged to the south but never entered during the [[Great War]]; and it was largely isolated except for dangerous passage along the [[Aure]] during the [[Third Hobgoblin War (Sembara)]]. 
 
 Leaving in for now that Addermarch earls acknowledged [[Derik I]] as their overking, which lasted until the death of [[Derik III]]. 
 %%
 
-Now, Addermarch is a land of small farmers, foresters, and sheepherders, known primarily for its famed apple brandy that is traded downriver into [[Sembara]], but also a significant producer of timber, wool, and cheese. Addermarch has friendly relationships with the three human kingdoms on its borders: [[Tyrwingha]], [[Sembara]], and [[Duchy of Maseau|Maseau]]. Sembara is economically and culturally dominate in the region, and many merchant houses in Addermarch have close ties to traders and bankers in Sembara. But not all in Addermarch believe that Sembara will necessarily come to Addermarch's aid, and a spirit of independence prevails in some circles.
+Now, Addermarch is a land of small farmers, foresters, highland cattle, and sheepherders, known primarily for its famed apple brandy that is traded downriver into [[Sembara]], but also a significant producer of timber, wool, and cheese. Addermarch has friendly relationships with the three human kingdoms on its borders: [[Tyrwingha]], [[Sembara]], and [[Duchy of Maseau|Maseau]]. Sembara is economically and culturally dominate in the region, and many merchant houses in Addermarch have close ties to traders and bankers in Sembara. But not all in Addermarch believe that Sembara will necessarily come to Addermarch's aid, and a spirit of independence prevails in some circles.
 ## Geography 
 
 *See more: [[Mostreve Hills]]*
@@ -47,13 +50,36 @@ Most of Addermarch has hot and humid summers, with plenty of rain, and mild wint
 %% Roughly parallel to mid-Atlantic Appalachians %%
 ### Regions
 
-%% DRAFT and might change once I make a better map. Also all names are tentative %%
+%%^Campaign:none%%
 
-Addermarch is roughly divided into four major geographic regions:
+![[addermarch-schematic-details.png]]
+
+A rough schematic to go with the player facing text below, although quality not great. 
+
+The basic vibe is four regions, in red, though there are five earls. These are described in more detail in the player section:
+- Western hills
+- Central and northern river valley
+- Southern borders
+- Eastern borders
+
+Green is roughly population density. Highest settlement is along the Aure, and the western tributaries, especially the Velan. Lighter settlement in the surrounding highlands and borderlands, though here I suspect it goes southern borders > westcliff > eastern highlands. 
+
+Orange is supposed to generally indicate fortification density. The southern reaches have always been fortified against the Darkwood, and even more so post-Great-War (so the earl of the south is really a military commander); this drives higher settlement density here to support armies. Although Addermarch armies are not actually state armies they are whatever troops the earl can muster. I kind of imagine there must be cross-earldom deals that basically support the southern earl with funds from the richer heartlands otherwise the plaguelands castles couldn't be sustained. 
+
+The lesser fortification density to the west and northwest is mostly not maintained, and dates to Avatus or the hobgoblin wars. A key part of my Addermarch game is that the earl of westcliff has not be investing in defenses, and many of the old avatus castles are now ruins to explore. But also this is bordering massau, and the plaguelands frontier in this direction is a ways south, so this is not necessarily a bad decision. 
+
+The eastern border with trywinghan has basically never been fortified, there has never really been danger from that direction.
+
+%%^End%%
+
+Addermarch consists of four distinctive regions, each with their own culture and economy. 
+
+(to do)
+
 - To the west and northwest, the [[Westcliff]] is a region of rough hills and mountains that borders the flat plains of the Maseau Gap. This is a hard land with few people. This area was extensively fortified at multiple times in the past, but the castles in the hills have not all been maintained and many are now in ruins. %% very mountainous, steep cliffs, maybe Provence-like? white mountains %%
 - The center of the realm is the [[Aure]] river valley, a land of rolling hills, forests, and many rivers that cut through the hills. This region is the most densely settled, and includes [[Adderfell]], the only real city in Addermarch. This is also the major agricultural land in Addermarch, and the center of brandy production. The [[Aure]] is navigable from [[Adderfell]] to the [[Enst]], and many riverboats ply their trade along it. %% Shenandoah/Blue Hills, Susquehana river valley%%
 - To the south and east of the [[Aure]] valley are several lines of wooded hills and mountains, rising gradually to the height of land on the eaves of the [[Darkwood]]. This region is well-guarded, and lightly populated, mostly with smallholds of foresters and furriers. %% also mid-Atlantic Appalachians but very wooded%%
-- To the east and northeast, along the borders of [[Tyrwingha]], the poor soil of the hilly, rocky land keeps forests to sheltered valleys. This is largely rangeland: sheep and cattle graze in the high pastures in summer, and only in a few sheltered valleys do crops survive. %% more open meadows, less forests, perhaps also a bit Provence-ish? Note the northern/eastern slopes are more wooded than the southern/western slopes%%
+- To the east and northeast, along the borders of [[Tyrwingha]], the poor soil of the hilly, rocky land keeps forests to sheltered valleys. This is largely rangeland: highland cattle graze in the high pastures in summer, and only in a few sheltered valleys do crops thrive. %% more open meadows, less forests, perhaps also a bit Provence-ish? Note the northern/eastern slopes are more wooded than the southern/western slopes%%
 ### Borders
 
 To the west and northwest Addermarch is bordered by the [[Westcliff]], a series of sharp cliffs and dangerous terrain that separates the realm from the flat plains of the [[Duchy of Maseau]] to the west, and the [[Borderlands|Sembaran borderlands]] to the north. At the Aure, the high ridge of [[Westcliff]] is cut by the river, and on the eastern bank, the land is much lower. Here an ancient line of border stones running to [[~High Peak of Tyrwinghan Ridge~]] demarcates the border with [[Tyrwingha]]. These stones are said by some to be raised by Drankor, but they are marked with complex warnings in [[Sylvan Writing|Sylvan]], and many believe they have fey origins.
