@@ -18,7 +18,7 @@ descTitle: Shadows of the Fallen
 > *On Earth: Friday Aug 05, 2022*
 > *[[Forest of Nightmares]]*
 
-[[Delwath]] and companions journey through the [[Forest of Nightmares]], confronting haunted battlefields and freeing [[Tanshi]] bound by cursed armbands.
+[[People/PCs/Dunmar Fellowship/Delwath]] and companions journey through the [[Forest of Nightmares]], confronting haunted battlefields and freeing [[Tanshi]] bound by cursed armbands.
 
 ## Session Info
 ### Summary

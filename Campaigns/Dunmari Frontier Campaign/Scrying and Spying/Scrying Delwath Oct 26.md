@@ -10,7 +10,7 @@ You attempt to scry on [[Radomir]] on Oct 26, just from the name and description
 
 #### Kharsan
 
-It takes a lot of dipping in and out of [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] to get a sense of what is happening, especially because scry doesn't give you an aerial view. The situation in the [[Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma]] seems much as you left it - there is a small [[Orcs|orc]] patrol, but otherwise it is quiet. In the few random places in the north of [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] you view that you walked through, the most notable thing is how the ground is disturbed, dug up, almost purposefully excavated. Almost like exhumed graves. You also see [[Orcs]], both living and dead, as well as numerous skeletons moving about the city, and some creepier undead, zombie-like creatures with bloated, decaying bodies that cough and wheeze and seem to be surrounded by faint clouds of blood or some other kind of reddish mist. And you hear the ringing sounds of forges - the [[Orcs]] seem to be in high gear constructing weapons.
+It takes a lot of dipping in and out of [[Kharsan]] to get a sense of what is happening, especially because scry doesn't give you an aerial view. The situation in the [[Monastery of Bhishma]] seems much as you left it - there is a small [[Orcs|orc]] patrol, but otherwise it is quiet. In the few random places in the north of [[Kharsan]] you view that you walked through, the most notable thing is how the ground is disturbed, dug up, almost purposefully excavated. Almost like exhumed graves. You also see [[Orcs]], both living and dead, as well as numerous skeletons moving about the city, and some creepier undead, zombie-like creatures with bloated, decaying bodies that cough and wheeze and seem to be surrounded by faint clouds of blood or some other kind of reddish mist. And you hear the ringing sounds of forges - the [[Orcs]] seem to be in high gear constructing weapons.
 
 #### Karawa
 
@@ -18,7 +18,7 @@ The monsoon has been good to [[Karawa]], and the rebuilding is in full swing. Fr
 
 #### Eudomes' Tower
 
-First scrying attempt on [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]] fails. In your second attempt, you see nothing but whirling winds and lightning, visibility almost nothing, the calm that was at the center of the storm when you last visited seemingly gone.
+First scrying attempt on [[Stormcaller Tower]] fails. In your second attempt, you see nothing but whirling winds and lightning, visibility almost nothing, the calm that was at the center of the storm when you last visited seemingly gone.
 
 #### Tokra
 

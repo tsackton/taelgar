@@ -22,3 +22,15 @@ An elder wyrm, one of the original children of the [[Divine Presence]].
 Sought to overthrow the gods, breaking the order of things that has held since the [[Riving]], freeing the elder races from the binds and power of the Embodied Gods. 
 
 Cha'mutte was defeated by the [[Heroes of the Great War]] at the [[Battle of Urlich Pass]]
+
+%% OneNote
+
+Elder dragon, ancient and from before time.
+ 
+Wanted to "free the firstborn races from their shackles", which turned into, "I hurt you because I love you, you'll be better off after I win."
+ 
+Chaos agent extraordinaire.
+ 
+Killed by Beryl, Rai, Aerin, and Kyr at site of [Urlich Monastery](Urlich%20Monastery) in the central mountains. Death caused reveberations around the world, including creation of the cursed [Plaguelands](Plaguelands) south of Sembara and east of Dunmar.
+
+%%

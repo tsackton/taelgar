@@ -51,3 +51,16 @@ dv.table(["Person", "Info", "Current Location"],
 ```
 
 %%^End%%
+
+%% One Note
+
+A halfling trader from Sembara, grandaughter of Bree and sister to Ander. Concerned about her brother, sees herself as the caretaker of the family.
+ 
+Age: early 40s 
+Current location (June 1748): In Tokra, with the rest of the Charmheart family, trying to find a cure for Ander's madness
+
+  PC Interactions
+ 
+Has spoken to Wellby a fair bit, and asked him for help. Disagreed with Bree, her grandmother's, decision to try to keep Ander's illness a secret.
+
+%%

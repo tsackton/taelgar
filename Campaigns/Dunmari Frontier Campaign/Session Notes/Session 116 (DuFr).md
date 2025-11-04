@@ -44,7 +44,7 @@ Fausto laughs grimly as Kenzo’s relentless attacks, which should kill him, onl
 
 The party shifts focus, attempting to take the Crown from Fausto. Seeker attempts to dislodge it using _Catapult_ with a chain net, Fausto dodges, leaving the attack to hit the chalyte knight. Riswynn follows with an attack with _[[Shatterstorm]]_, aiming to force the crown loose through sheer force, but it remains fixed. Wellby’s sleight-of-hand attempt also fails, leaving the party to consider alternative strategies.
 
-[[Delwath]] casts _Sleep_, successfully incapacitating [[People/Chardonians/Fausto|Fausto]] temporarily. However, when Delwath attempts to remove the crown, he suffers massive psychic backlash, throwing him 40 feet and dealing significant damage. The chalyte knight awakens Fausto, reigniting the battle.
+[[People/PCs/Dunmar Fellowship/Delwath]] casts _Sleep_, successfully incapacitating [[People/Chardonians/Fausto|Fausto]] temporarily. However, when Delwath attempts to remove the crown, he suffers massive psychic backlash, throwing him 40 feet and dealing significant damage. The chalyte knight awakens Fausto, reigniting the battle.
 
 Kenzo seizes the opportunity to grab the Crown of Purity, using Seeker’s inspiration to overcome its defenses. After a brief struggle, the crown settles on Kenzo’s head, severing its connection to Fausto and the chalyte knight. The knight kneels before Kenzo, acknowledging his new authority. Fausto’s life force fades as the crown’s power abandons him, leaving his body lifeless.
 
@@ -162,7 +162,7 @@ Fausto laughs grimly as Kenzo’s relentless attacks, which should kill him, onl
 
 The party shifts focus, attempting to take the Crown from Fausto. Seeker attempts to dislodge it using _Catapult_ with a chain net, Fausto dodges, leaving the attack to hit the chalyte knight. Riswynn follows with an attack with _[[Shatterstorm]]_, aiming to force the crown loose through sheer force, but it remains fixed. Wellby’s sleight-of-hand attempt also fails, leaving the party to consider alternative strategies.
 
-[[Delwath]] casts _Sleep_, successfully incapacitating [[People/Chardonians/Fausto|Fausto]] temporarily. However, when Delwath attempts to remove the crown, he suffers massive psychic backlash, throwing him 40 feet and dealing significant damage. The chalyte knight awakens Fausto, reigniting the battle.
+[[People/PCs/Dunmar Fellowship/Delwath]] casts _Sleep_, successfully incapacitating [[People/Chardonians/Fausto|Fausto]] temporarily. However, when Delwath attempts to remove the crown, he suffers massive psychic backlash, throwing him 40 feet and dealing significant damage. The chalyte knight awakens Fausto, reigniting the battle.
 
 Kenzo seizes the opportunity to grab the Crown of Purity, using Seeker’s inspiration to overcome its defenses. After a brief struggle, the crown settles on Kenzo’s head, severing its connection to Fausto and the chalyte knight. The knight kneels before Kenzo, acknowledging his new authority. Fausto’s life force fades as the crown’s power abandons him, leaving his body lifeless.
 

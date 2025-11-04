@@ -17,7 +17,7 @@ displayDefaults: {defArt: ""}
 These are a pair of goggles, with lenses made of polished purple gems, that are designed to allow the detailed study of objects. 
 
 %%^Campaign:DuFr%%
-This pair was [[Session 16 (DuFr)|found]] by the [[Dunmar Fellowship]] in [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]] and is now carried by [[Seeker]].
+This pair was [[Session 16 (DuFr)|found]] by the [[Dunmar Fellowship]] in [[Stormcaller Tower]] and is now carried by [[Seeker]].
 %%^End%%
 
 %%SECRET[1]%%

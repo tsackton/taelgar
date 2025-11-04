@@ -34,8 +34,8 @@ The [[Dunmar Fellowship]] engages in treacherous negotiations for powerful artif
 ### Timeline
 - (DR:: 1748-08-22), afternoon: Speak with [[Gnaeus]], learn about the [[Elderwood]] and the [[Deno'qai]]. Have tea with [[Roscelia]] and [[Lyra]].
 - (DR:: 1748-08-23): Split up and deal with errands and personal tasks. 
-- (DR:: 1748-08-23), late afternoon: Take in [[Galen]]'s lecture in the afternoon. Negotiate for the [[Chalice of the Runepriest]]. Meet [[People/Chardonians/Fausto]]. Negotiate for [[Hralgar's Eyes]]. 
-- (DR:: 1748-08-24), morning: [[Riswynn]] goes to purchase the [[Chalice of the Runepriest]] from Galen. [[Seeker]], [[Kenzo]], [[Delwath]], and [[Wellby]] go to Fausto's tower to make exchange for [[Hralgar's Eyes]], giving [[People/Chardonians/Fausto]] the [[Pandemonium Scroll]] in trade. Walk into an ambush. Flee, nearly dying in the process, with [[Hralgar's Eyes]], as [[Fausto]] rants about [[The Cleansed]]. Race through [[Chardon]] in chaos. [[Riswynn]] vanishes. Escape the city via [[Seeker]]'s magic. 
+- (DR:: 1748-08-23), late afternoon: Take in [[Galen]]'s lecture in the afternoon. Negotiate for the [[Chalice of the Runepriest]]. Meet [[Fausto]]. Negotiate for [[Hralgar's Eyes]]. 
+- (DR:: 1748-08-24), morning: [[Riswynn]] goes to purchase the [[Chalice of the Runepriest]] from Galen. [[Seeker]], [[Kenzo]], [[Delwath]], and [[Wellby]] go to Fausto's tower to make exchange for [[Hralgar's Eyes]], giving [[Fausto]] the [[Pandemonium Scroll]] in trade. Walk into an ambush. Flee, nearly dying in the process, with [[Hralgar's Eyes]], as [[Fausto]] rants about [[The Cleansed]]. Race through [[Chardon]] in chaos. [[Riswynn]] vanishes. Escape the city via [[Seeker]]'s magic. 
 
 
 ## Narrative

@@ -7,7 +7,7 @@ Unless otherwise noted, all tunnels are 3-4' in height, roughly circular. A smal
  
 The kobold lair contains, in total:
  
-52 regular kobolds  
+52 regular [[kobolds]]  
 14 kobold dragonshields  
 7 kobold inventors  
 7 kobold scale sorcerers

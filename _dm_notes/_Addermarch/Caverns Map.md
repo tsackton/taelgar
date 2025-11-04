@@ -57,7 +57,7 @@ tags: [excalidraw]
 14A ^pjC0GHpD
 
 ## Embedded Files
-ef861fa295c02e71ebe989276a33ecc5ab251145: [[Pasted Image 20241129151632_713.png]]
+ef861fa295c02e71ebe989276a33ecc5ab251145: [[addermarch-caverns-base-map.png]]
 
 %%
 ## Drawing

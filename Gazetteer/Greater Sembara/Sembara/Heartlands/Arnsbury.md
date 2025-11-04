@@ -15,3 +15,9 @@ dm_owner: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The largest city in the [[Duchy of Arnsbury]] and the seat of the Duke. Although smaller than [[Fellburn]], [[Telham]], and [[Embry]], it is larger that most other cities in Sembara and has ancient roots.
+
+%% 
+
+Old Plaguelands Campaign Note: Large market town in central Sembara; small village outside Arnsbury is where Evendur grew up
+
+%%

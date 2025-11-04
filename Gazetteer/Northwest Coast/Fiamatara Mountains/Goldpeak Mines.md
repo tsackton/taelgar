@@ -32,4 +32,6 @@ An extensive network of ancient Dwarven works under [[Goldpeak Mountain]] and ad
 
 See also: [[Goldpeak Mines - DM Notes]]
 
+Dwarves of Goldspire Peak and other places around - sword wraiths cursed to haunt the world while their story of the defense of the dwarven city against hobgoblins is forgotten.
+
 %%

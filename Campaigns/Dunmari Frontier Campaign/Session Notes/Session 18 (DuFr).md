@@ -34,11 +34,11 @@ The [[Dunmar Fellowship]] delves into discussions of otherworldly planes and str
 
 
 ## Narrative
-We open in a bare room, the party, [[Candrosa]], and [[Alesh]] clustered around a map, discussing the gnolls, what [[Alesh]] found in the south, the events at [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]], and [[Agata]] Dustmother. The conversation is wide-ranging, touching on many subjects.
+We open in a bare room, the party, [[Candrosa]], and [[Alesh]] clustered around a map, discussing the gnolls, what [[Alesh]] found in the south, the events at [[Raven's Hold]], and [[Agata]] Dustmother. The conversation is wide-ranging, touching on many subjects.
 
 The dark magic of [[Agata]], also known as the [[Agata|Old Woman of the Dusts]], is discussed, and how she makes deals that always seem to turn out worse, and darker than expected. So are demons, and how they have little power to reach the world of Taelgar, unless summoned, opening up a portal to allow them through to wreck havoc. While not common these days, many demons fought in the [[Great War]], aiding the armies of [[Cha'mutte]]. 
 
-No one is sure where the gnolls to the south came from -- whether there is another demon there, making more gnolls -- but [[Alesh]] points out that it would be possible for them to have traveled south from [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]] in the blasted plain. That raises more questions, though, like why they were heading to [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] and then into the desert. 
+No one is sure where the gnolls to the south came from -- whether there is another demon there, making more gnolls -- but [[Alesh]] points out that it would be possible for them to have traveled south from [[Raven's Hold]] in the blasted plain. That raises more questions, though, like why they were heading to [[Kharsan]] and then into the desert. 
 
 Throughout the conversation, [[Candrosa]] is distracted, worried, and nervous, and when the topic of conversation steers towards [[Shakun]]’s protection and its absence, he becomes silent and refuses to discuss further. The only time he speaks with force and vigor is when [[Delwath]] suggests there is nothing left of value in [[Karawa]] to besiege it for, as the land has been overrun already, and [[Candrosa]] corrects him that the [[Temple of Shakun]] has never fallen. As he leaves to pray, he seems shaken, and overwhelmed.
 

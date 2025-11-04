@@ -12,7 +12,7 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Hall of Stories is a a large structure, part of the [[Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma]], that houses the stories of the Dunmari. 
+The Hall of Stories is a a large structure, part of the [[Monastery of Bhishma]], that houses the stories of the Dunmari. 
 
 The building itself is a large, rectangular chamber, more than 20 feet tall, with an connected five story tower on the western end, set in the center of the monastery grounds. The outside of the hall is decorated with thousands of intricate carvings of scenes of Dunmari life. The two doors are reinforced, elaborately carved wood, again depicting scenes of the Dunmari.
 

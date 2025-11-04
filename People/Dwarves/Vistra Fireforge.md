@@ -31,7 +31,15 @@ In her youth she was a blacksmith and trader in [[Ausson's Crossing]] a crossroa
 
 
 
+%% One Note
 
+The innkeeper and owner of the Iron Swan, a dwarven tavern and inn in Tokra, in the dwarvish quarter behind the archives.
+ 
+Originally from the Yuvanti mountains, but was an adventurer for many years, now retired.
+ 
+Fairly old, late middle aged, maybe around 200. Born in the unsettled time after the Great War, one of the first generations born in the Yuvanti mountains and the Kingdom of Nardith.
+
+%%
 
 
 

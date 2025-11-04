@@ -32,7 +32,7 @@ Inside the walls, Voltara is a rich city, made wealthy on the chalyte trade. It 
 
 ## Precincts
 
-![[voltara-outline.excalidraw.png]]
+![[voltara-outline.png]]
 
 *Library (1):* At the northern edge of town is the academic precinct, which houses dormitories, a library, and various buildings associated with the archivists of the Great Library who come to study the inner workings of chalyte magic. The library complex is itself surrounded by walls, and overseen by Master Archivist Gaius. The wizard's gate leads north from this precinct. 
 

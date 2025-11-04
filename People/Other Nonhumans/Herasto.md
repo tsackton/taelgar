@@ -16,3 +16,11 @@ dm_notes: important
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%Group of centaurs currently wintering in sheltered valleys south of Voltara%%
+
+%% One Note
+Leader of the centaur band that is currently (late 1747) based near Voltara
+ 
+**Age: tbd**  
+**Current Location (Dec 1747): sheltered plains southwest of Voltara for the winter**
+
+%%

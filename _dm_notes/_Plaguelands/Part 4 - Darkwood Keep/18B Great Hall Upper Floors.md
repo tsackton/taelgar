@@ -1,0 +1,1 @@
+The galleys looking down on the great hall have no monsters or treasure but do provide a good view.

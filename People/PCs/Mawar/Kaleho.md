@@ -17,3 +17,7 @@ dm_notes: important
 > A [[Humans|human]] (he/him)
 
 A sailor who regularly passes through Hamri, obsessed with rumors of merfolk.
+
+%% One Note
+Human sailor, obsessed with merfolk. Travels through Hamri regularly.
+%%

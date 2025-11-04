@@ -21,3 +21,14 @@ dm_notes: important
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A wandering scholar and historian, funded by [[Fausto]] to find rumors of treasure. 
+
+%% One Note
+
+==Party has not met yet.==
+ 
+Age: late middle age  
+Current location: left Darba
+ 
+Learned of him from a Dunmari in session 32.
+
+%%

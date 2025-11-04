@@ -12,8 +12,8 @@ title: Head Priest
 whereabouts: Tokra
 affiliations: 
 - {place: Tokra, type: leader, start: 1742}
-dm_owner: tim
-dm_notes: important
+dm_owner: none
+dm_notes: none
 ---
 # Head Priest Kaleha
 >[!info]+ Biographical Info  
@@ -24,3 +24,11 @@ dm_notes: important
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 1st, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
 
 The head priest of the primary Dunmari temple in [[Tokra]], a position that primarily involves serving as the main civil administrator for the city.  She is a fair and talented administrator, dedicated to [[Sonkar]].
+
+%% PC Interactions
+ 
+Spoke to her July 1st, telling her of the reemergence of Sura. Wellby convinced her to pray and think on it before doing anything.
+ 
+She has spent the afternoon of July 1st in prayer to Sonkar and will emerge in the evening with a plan.
+
+%%

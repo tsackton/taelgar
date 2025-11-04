@@ -23,6 +23,7 @@ The owner of the Levithan Inn in Hamri, and unofficial guardian of the town. Tin
 ![[wazir.png]]
 
 %% Backstory notes from email's - may not be completely canonical
+
 Born in 1689, Wazir was the fourth child of the wealthy Sayani family in Hamri (more on them below), and he grew up wanting for little. His family are important members of the town council and his mother, Aihma, was often away at the Mawar Conclave. He was bookish and curious growing up, and made a habit of wandering the town, asking questions, and generally getting to know the place. Aihma's boy, as he was known, was a frequent site everywhere from the fisherman's guild hall, to town councils, to the Towers. As a teenager and especially a young man, however, he increasingly grew bored with Hamri and the narrow confines of home. His family arranged a year sojourn's around the peninsula, including overwintering at the mouth of the Sulqat river. It was during this winter of 1708-1709 that Wazir first discovered his magical abilities [looking for some events to connect to this]. 
 
 After [events of 1708] Wazir left the Mawakel peninsula, for Chardon, to see the world and learn about his newfound abilities. He spent many years in Chardon, where he joined the Great Library, and rapidly honed his abilities especially related to his magical armor, and by 26 (1715) he was married to the scion of a Chardonian merchant family and an honored member of the imperial guard. By 30 (1719) he was being feted as one of the great new prodigies of a new Chardonian age of wonder. But he was starting to question Chardonian values and Chardonian hegemony. After losing two children to illness at young ages (in 1720 and 1722), his wife began to retreat into a glamorous world of fashion, drugs, and hedonism, and Wazir started exploring the intellectual fringes of polite society. Before long, he had stumbled into a world of radical politics, and was reading magically encrypted polemics about how the Great Library and the Chardonian ruling class were destroying the cultures of those they conquered. [Feel free to add some ideas here for what the political fringe in Chardon would be like].
@@ -68,7 +69,7 @@ Arriving in Chardon in the fall of 1709, Wazir was struck by the marvel of it al
 
   
 
-[Part 2 later. A few notes: 
+Part 2 later. A few notes: 
 
 * No idea really what the big disaster was in the 1680s, but Mindknife War sounds nice and evocative with lots of scope for you to make something up :)
 
@@ -85,5 +86,43 @@ This connects him to some foreign (northern) religious folks in Chardon, and whe
  That in turn leads to more questions about his loyalty, etc, and he within a year is discharged dishonorably. And so then he gets mixed up with a radical faction that’s perhaps looking to end the chaylte trade. This faction eventually plans some kind of attack but Wazir is unwilling to join, seeing this as just as bad as Chardon in a way — of course he remembers the stories of when Mawar was a major player in the chaylte trade and feels magic isn’t the problem, it’s the attitude. 
 
 So he leaves Chardon days before whatever the attack was, and never really knew if it succeeded or failed. Or if it failed, was he fingered as part of it? Hence the nervousness of his journey — he knows he didn’t really do anything wrong, but maybe Chardon thinks he did. And by then he certainly knows that a dishonorably discharged veteran of the emperors guard, and a foreign to boot, isn’t about to get the benefit of the doubt.
+
+---
+
+## One Note
+
+Innkeeper of the Leviathan, tinkerer, has a magical suit of armor that fits him like a glove.
+ 
+Unofficial protector of Hamri.
+ 
+Spent a long time away from Hamri, returned, doesn't talk much about his experiences.
+   
+### Backstory
+ 
+Born in 1689, Wazir was the fourth child of the wealthy Sayani family in Hamri, and he grew up wanting for little. Born just after the Mindknife Wars, Wazir's generation grew up in the shadow of their parent's losses. Although Wazir's parents suffered little, many of his peers lost one or both parents in the wars, and his childhood was a time of rebuilding and recollections of better days. Wazir grew up with a great appreciation for stories, and was particularly fond of the stories his maternal grandfather told of sailing. His family were important members of the town council and his mother, Aihma, was often away at the Mawar Conclave. He was bookish and curious growing up, and made a habit of wandering the town, asking questions, and generally getting to know the place. Aihma's boy, as he was known, was a frequent sight everywhere from the fisherman's guild hall, to town councils, to the Towers.
+ 
+As a teenager, however, he started to feel constrained by the boundaries of Hamri and the slow rebuilding. Restless and longing for the days when Mawar ships sailed the coast from Chardon to the Emerald Bay, his mother arranged for him a grand tour, a year long sojourn around the peninsula. Departing from Hamri in the spring of 1708, with his cousin Malaq and letters of introduction from his mother, he eventually found his way to [[Suhaya]], a large town at the mouth of the Sulqat River, where he settled to overwinter. [[Suhaya]] suited Wazir, and he became close to a young blacksmith's daughter, now an orphan, trying to keep her father's business going. Wazir found he had an aptitude for tools and crafting, and enjoyed the long days working together at the forge. The winter was unseasonably cold, and for the first time in living memory, the river froze. His cousin, however, had fallen on harder times in [[Suhaya]]. A few years older than Wazir, Malaq's parents had both died in the Mindknife Wars, and away from home for the first time, Malaq fell under the spell of gatza, easily accessible in the bustling port town. By spring, Malaq spent too much time lost in the stories of his parents, which always seemed to end in the horror of their unnatural deaths in the war. Despite his contentment, Wazir felt he must bring Malaq away from the ocean, and so took the most obvious course: upriver, along the oddly still frozen Sulqat River. 
+ 
+That spring and summer was the 1709 second strangest journey in Wazir's life. The river remained frozen, and Malaq and Wazir moved slowly upriver, holding back, waiting for a normal thaw. In May, a large armed expedition passed them, but despite Wazir's desires, they did not join it. By midsummer, the people along the river were starving, and fleeing to the coasts. Rumors of the disappearance of the expedition spread, and the second expedition found Malaq, Wazir, and three others as the only remaining people in Aibard, one of the larger villages far upriver along the Sulqat. When the leader of the expedition asked if any of them were a smith, their armorer having fallen through the ice, Wazir volunteered, and joined the expedition. Deep in the woods near the \<EntranceMountains\> and the headwaters of the Sulqat, Wazir played a minor part in the great battle that defeated the ensorcelled ice dragon and freed the river from its curse. Key to the victory, however, were three Chardonian heroes. Wazir, only 20, was starstruck, especially by Galena, who seemed to take an interest in him for his own reasons. Encouraged by some minor magic he had been able to do on the journey, and Galena, Wazir parted ways with the Mawar and followed the heroes back to Chardon.
+ 
+Arriving in Chardon in the fall of 1709, Wazir was struck by the marvel of it all. Larger than any city he had dreamt of, and full of knowledge, and teachers, he quickly grew in skill, both magical and artisanal. Sponsored by Galena to the Great Library, his abilities grew rapidly.  By 31 (1720) he was an honored member of the Praecanti Primis, with handcrafted magical armor and an array of spells. Married to the scion of a Chardonian merchant family, and with two young sons, it seemed like there was nowhere to go but up.
+ 
+=== NOTES BELOW ===
+ 
+Probably more like, over a few years Wazir had been feeling on the outside. His wife’s family perhaps regretting an alliance with him. More questions about his loyalty. Etc. Then when his first kid dies, a big fight (that Wazir loses) about a Mawar style funeral (whatever that is and however it is different from Chardon). 
+ 
+This connects him to some foreign (northern) religious folks in Chardon, and when 2nd kid dies, he actually steals the body away and has a secret funeral. This is technically a crime, but things aren’t bad enough that his wife’s family turns him in or anything — but it leads to the split with his wife. 
+ 
+ That in turn leads to more questions about his loyalty, etc, and he within a year is discharged dishonorably. And so then he gets mixed up with a radical faction that’s perhaps looking to end the chaylte trade. This faction eventually plans some kind of attack but Wazir is unwilling to join, seeing this as just as bad as Chardon in a way — of course he remembers the stories of when Mawar was a major player in the chaylte trade and feels magic isn’t the problem, it’s the attitude. 
+ 
+So he leaves Chardon days before whatever the attack was, and never really knew if it succeeded or failed. Or if it failed, was he fingered as part of it? Hence the nervousness of his journey — he knows he didn’t really do anything wrong, but maybe Chardon thinks he did. And by then he certainly knows that a dishonorably discharged veteran of the emperors guard, and a foreign to boot, isn’t about to get the benefit of the doubt. 
+ 
+Journeying north, at first by land, but then in a rickety fishing boat, he felt like he was often just one step ahead of Chardon. Having taken to the ocean, afraid of pursuit, he went much further west into the Endless Sea than was wise. Stuck in a doldrums for several days, he despaired of reaching home, until, one dawn, he saw a massive creature, at least 150' long, surface briefly near his boat. He heard it speak, in a sonorous, deep voice (or did he imagine it? and just remember the words later, after the beast had disappeared?): Wazir, it said. Do not despair. The wind will come and blow you home. Find my brother, he must not be forgotten. His bones will speak, when the time is right, and they must be heard. Find them!
+ 
+Sure enough, the winds came up the next morning. Wazir dedicated the next few years of his life to hunting stories of leviathans, and eventually reconstructed the skeleton of one who was said to have washed ashore dead, after clearly suffering terrible injuries, during the Great War.
+ 
+Over the next 20 years, Wazir built the Leviathan, and slowly became somewhat of a fixture in Low Town, especially. The occasional need to don his armor and fight off a threat rarely changed the routine of tending to the inn, making his rounds about town, and generally listening, but mostly staying to himself.
+ 
+But he does wonder, now and then, what the bones will say, when the time is right for them to speak.
 
 %%
