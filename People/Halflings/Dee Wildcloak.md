@@ -79,3 +79,33 @@ After the [[Dunmar Fellowship]] acquired [[Hralgar's Eyes]] from [[Fausto]] and 
 TABLE events.text as Event from -"_MoC" AND -"People/Halflings/Dee Wildcloak" flatten file.lists as events where contains(events.text, this.file.name) sort events.DR
 ````
 %%^End%%
+
+%% One Note
+
+**Trait (Aspiration):** as discussed below
+ 
+Halfling adventurer (fighter, ranged battlemaster) who explored Eudomis' tower with her companions, Dain Goldhammer (dwarven paladin, oath of glory), and Alban (deceased, human sorcerer).
+ 
+She can usually be found at one of the better-class student inns, and keeps a small apartment in the academic quarter.
+ 
+## Appearance
+ 
+Young halfling woman. Wiry, quick. Short even for a halfling, her main weapon is a vicious little crossbow that she wields with deadly accuracy. Tanned and freckled, with curly brown hair and a cheerful smile.
+ 
+## Mannerisms
+ 
+Cheerful, good natured. She has a clear goal and a clear plan - earn enough money to buy a nice crossroads inn somewhere with lots of travelers, find a man, and start a family.
+ 
+May look Wellby up and down appraisingly.
+ 
+## Motivation
+ 
+She is clearly in it for the money and adventure. The pay is good, she gets to explore, and is well supported. Family is mostly sailors plying the Chardon coastal trade, often trsveling as far north as Mawar or beyond - but unusually for a halfling she hates boats and the ocean. So set off on her own to make her way in the world.
+ 
+Would like someday to settle down, run an inn at some crossroads with lots of travelers coming and going, with a nice man and have lots of little halfling babies - but needs a nice big chunk of money to do this.
+ 
+Susceptible to flirting, also generally just friendly. But reluctant to do anything that would jeopardize her status with the Open Scroll and get in the way of her nest egg.
+ 
+She figures she needs about 5000-7000 gp to buy or build an inn of the sort she wants and have enough to get it up and running. She currently has 3000 gp.
+
+%%
