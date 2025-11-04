@@ -24,3 +24,5 @@ At [[Adderfell]] the river cascades over a large waterfall into a small lake, fo
 The Aure, which is navigable from [[Adderfell]] to the Enst, is a major route for river trade, and laden boats traveling downriver from [[Adderfell]] carrying timber, brandy, and other goods are a common sight. [[Adderfell]] is by far the most significant river port on the Aure: its quays and warehouses serve as the collection point for valley produce. Merchant houses based there ship barrels downriver to markets along the Enst.
 
 For much of its length, the river supports a productive river valley. Orchards, especially apples, line the gentler slopes and lower terraces of the valley, and the region is known for cider and apple brandy. Farm villages maintain fords and mills along side‑channels and bends, and the river forms the principal artery tying the shires of Addermarch to the broader Sembaran trade.
+
+%% there are several unnamed tributaries, in particular one that joins the Velan from the north and one that joins the Tarn from the south, but there are also likely a large number of smaller brooks and streams that feed the rivers here %%
