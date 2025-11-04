@@ -1,0 +1,3 @@
+The stables are intact, and have in fact been recently repaired. Nugruk's skeletal horse is stabled here (use stats for **warhorse skeleton**). Otherwise the stables are empty, unless Nugruk is here.
+ 
+If Nugruk is found here, he will attempt to mount his horse and fight in the courtyard, summoning the skeletal archers on the walls to provide support, and his guards in the gate house to arrive. The 1st floor guards will show up at the beginning of round 3, the 2nd floor at the beginning of round 4, and the lieutenant at the beginning of round 5.

@@ -273,9 +273,9 @@ These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. I
 	- The [[Flaming Tempest log books]], recovered from the [[Flaming Tempest]]
 	- [[Papers from the Fraternity of the Empty Moon]]. Translations left at the [[Tokra]] [[Archives]] with [[Govir]]. No obvious value. Part of the [[Werewolf Lair Treasure]].
 	- [[Dunmari map of Pandemonium ruins|Map of old Drankorian fort]] protecting area of [[Pandemonium]] influence. Dunmari make. Taken from werewolf lair. Faintly magical. Part of the [[Werewolf Lair Treasure]].
-	- Monk's journal from the [[Great War]] era ([[Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma]], [[Kenzo]]). A small diary, written in Dunmari, of an unnamed monk, who seemed to have lived here just before the [[Great War]]. The entries describe life in the monastery, the joy of the craft of parchment making and especially skill required to turn it into something that could take enchantments. Then,  increasing danger and the growing militarization of [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]], several attacks, news of distant heroes and great councils, then no news, which was worse. Then, people running scared of the red death, everyone fleeing east. Last entry: choosing to stay with the elders, contribute how I can to protecting our great work. [[Bhishma]] watch over my soul. No obvious value although to the right person could be worth 5-30 gp. Part of the [[Nashtkar Treasures#Found in Bhishma Monastery|Bhishma Monastery treasure]]
+	- Monk's journal from the [[Great War]] era ([[Monastery of Bhishma]], [[Kenzo]]). A small diary, written in Dunmari, of an unnamed monk, who seemed to have lived here just before the [[Great War]]. The entries describe life in the monastery, the joy of the craft of parchment making and especially skill required to turn it into something that could take enchantments. Then,  increasing danger and the growing militarization of [[Kharsan]], several attacks, news of distant heroes and great councils, then no news, which was worse. Then, people running scared of the red death, everyone fleeing east. Last entry: choosing to stay with the elders, contribute how I can to protecting our great work. [[Bhishma]] watch over my soul. No obvious value although to the right person could be worth 5-30 gp. Part of the [[Nashtkar Treasures#Found in Bhishma Monastery|Bhishma Monastery treasure]]
 	- Captain's log and charts from The Flaming Tempest (allowing [[Wellby]] to reconstruct the journey of the [[Flaming Tempest]], with time and effort), part of the [[Flaming Tempest Hoard]].
-	- Sheaf of receipts from [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]].  Not a complete ledger, but a part of what seems to be a record of payments / receipts of wine, oil, salt, spices, written in Drankorian. Just a fragment with no dates remains. No obvious value. Part of the [[Stormcaller Tower Treasure]].
+	- Sheaf of receipts from [[Stormcaller Tower]].  Not a complete ledger, but a part of what seems to be a record of payments / receipts of wine, oil, salt, spices, written in Drankorian. Just a fragment with no dates remains. No obvious value. Part of the [[Stormcaller Tower Treasure]].
 
 ### Unusual Materials or Components
 - [[Forge Components]] from [[Apollyon's Tower Treasure]], found near the magical forge in the basement. 
@@ -289,10 +289,10 @@ These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. I
 - Eight red dragon scales, from the [[Elemental Forge Hoard]]
 - Two vials of mercury, from the [[Elemental Forge Hoard]]
 - A gilded skull of a halfling, taken from [[Kadmos]] as part of the [[Kadmos and Company Loot]]
-- Blank spell scroll ([[Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma]], [[Seeker]]). Valuable, could be sold to the right person for 50-300 gp. Can be used to construct a spell scroll in 8 hours, of up to level 2. 
+- Blank spell scroll ([[Monastery of Bhishma]], [[Seeker]]). Valuable, could be sold to the right person for 50-300 gp. Can be used to construct a spell scroll in 8 hours, of up to level 2. 
 - Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. Part of the [[Werewolf Lair Treasure]].
-- Death Water from the pool of mist ([[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]]; [[Delwath]]). No obvious value. Part of the [[Raven's Hold Treasure]]
-- Metal vial with acidic liquid from gnoll war leader ([[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]], [[Wellby]]). No obvious value. Part of the [[Raven's Hold Treasure]]
+- Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. Part of the [[Raven's Hold Treasure]]
+- Metal vial with acidic liquid from gnoll war leader ([[Raven's Hold]], [[Wellby]]). No obvious value. Part of the [[Raven's Hold Treasure]]
 
 ### Miscellany and Trade Goods
 
@@ -305,15 +305,15 @@ These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. I
 - Two suits of gold-gilded black plate armor engraved with the silhouette of a dragon, from [[Ursk Treasure|Shadowkeep]]
 - A gold-gilded black shield engraved with the image of two dragon wings, from [[Ursk Treasure|Shadowkeep]]
 - A bone key that unlocks doors in [[Shadowkeep]], from [[Ursk Treasure|Shadowkeep]]
-- A wand, broken in half, once magical, but no longer ([[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] palace), part of the [[Nashtkar Treasures]] from [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]].
-- A nice leather saddle, cut into four pieces, once magical, but no longer ([[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] palace), part of the [[Nashtkar Treasures]] from [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]].
+- A wand, broken in half, once magical, but no longer ([[Kharsan]] palace), part of the [[Nashtkar Treasures]] from [[Kharsan]].
+- A nice leather saddle, cut into four pieces, once magical, but no longer ([[Kharsan]] palace), part of the [[Nashtkar Treasures]] from [[Kharsan]].
 - [[Delwath's Elven Breastplate]] from the days of the Great War, now no longer magical 
 - A slightly decayed helmet worn by Urgall the Black, from the [[Flaming Tempest Hoard]]
-- Antique lock and key ([[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]], [[Wellby]]). Repaired by [[Riswynn]]. Probably could be sold for 5-30 gp. From the [[Raven's Hold Treasure]]. 
+- Antique lock and key ([[Raven's Hold]], [[Wellby]]). Repaired by [[Riswynn]]. Probably could be sold for 5-30 gp. From the [[Raven's Hold Treasure]]. 
 - A rope [[Ladder]] with spikes to anchor it from the [[Pandemonium]] ruins (50’ long). From the [[Werewolf Lair Treasure]]. 
 - Key ring that opens the door to the werewolf lair, as well as the cells and chains in the prison. Carried by the werewolf guard captain. No obvious value. From the [[Werewolf Lair Treasure]]. 
 - Small key that opens the chest in the secret room in the Empty Moon lair. Taken from the werewolf leader. No obvious value. From the [[Werewolf Lair Treasure]].
-- Tools and glasswork from glassblower's shop in [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]], in northern ruins ([[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]]; [[Delwath]]) We looked at these in the mirror: [[Kharsan Broken Glassware Vision]]. From the [[Nashtkar Treasures]] from [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]].
+- Tools and glasswork from glassblower's shop in [[Kharsan]], in northern ruins ([[Kharsan]]; [[Delwath]]) We looked at these in the mirror: [[Kharsan Broken Glassware Vision]]. From the [[Nashtkar Treasures]] from [[Kharsan]].
 - A longsword in a black leather scabbard, with white gems in the pommel, with a matching sword belt in black leather. It closes with a silver buckle in the form of a screaming eagle, a small moonstone as its eye (60 - 80 gp as a set), from [[Grimbaskal's Hoard]]
 - Three well-made hats (Wellby, Grimbaskal's Hoard). Halfling make, in surprisingly good shape and expertly tailored (10 - 60 gp each), from [[Grimbaskal's Hoard]]
 - A set of wind chimes (10 - 25 gp), from [[Grimbaskal's Hoard]]

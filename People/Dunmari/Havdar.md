@@ -50,7 +50,7 @@ Havdar is tall, imposing, and rugged, shaped by the relentless sun and winds of 
 
 - In March/April 1748, was heavily involved in defending [[Karawa]] from gnoll attacks. 
 - In April/May 1748, scouted the eastern deserts with [[Dunmar Fellowship]]
-- In August 1748, was petrified by a cursed sword taken from [[Gazetteer/Greater Dunmar/Hara Basin/Agata's Lair]], gifted to him by [[Dunmar Fellowship]], who were unaware it was cursed.
+- In August 1748, was petrified by a cursed sword taken from [[Agata's Lair]], gifted to him by [[Dunmar Fellowship]], who were unaware it was cursed.
 - In September 1748, was restored, but became increasingly paranoid as the subtle curse of the sword still worked its evil magic. 
 - In November 1748, the curse was broken by [[Riswynn]]'s prayers, and the cursed sword destroyed by the [[Bahrazel]], freeing Havdar of its evil influence. 
 - In December 1748, led [[Sura]]'s army in the [[Battle of Tokra]]. 

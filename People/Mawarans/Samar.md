@@ -18,3 +18,9 @@ dm_notes: color
 The twin sister of [[Reliah]], an orphaned girl who lives in the Drowned Flats. [[Wazir]] feeds her and her sister once a week, and in turn they keep an ear to the ground for him.
 
 ![[samar.png]]
+
+%% One Note
+
+Orphaned girl who lives in the Drowned Flats. Twin sister to Reliah. Wazir feeds her and her sister once a week, and in turn they keep an ear to the ground for him.
+
+%%

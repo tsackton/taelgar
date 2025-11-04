@@ -12,5 +12,6 @@ dm_notes: important
 > A mysterious creature
 
 %% notes
-a mysterious entity buried on the north of the Mawakel Peninsula, assocated with elemental fire. No details invented.
-%%
+a mysterious entity buried on the north of the Mawakel Peninsula, assocated with elemental fire. No details invented.%%
+
+%%SECRET[1]%%

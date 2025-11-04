@@ -23,7 +23,7 @@ dm_notes: color
 
 An initiate of the [[Shakun Mystai]], a young woman skilled in healing and midwifery, with a hint of divine magic about her.
 
-%%SECERT In Dec 1745, assisted in the birth of Cintra's daughter, Jumi.  %%
+%%SECERT In Dec 1745, assisted in the birth of Cintra's daughter, [[Jumi]].  %%
 
 %%^Campaign:dufr%%
 In March 1748, helped the [[Dunmar Fellowship]] battle giant hyenas attacking Karawa. 

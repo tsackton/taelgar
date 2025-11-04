@@ -32,13 +32,13 @@ dm_notes: important
 >> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
 
 A young, rambunctious and excessively curious halfling, traveling with the Charmheart trading caravan as a scout and general hand. 
-
 ## Relationships
 - [[Callie Charmheart]], older sister and traveling companion
 - [[Bree Charmheart]], grandmother and traveling companion
 %%^Date:1748%%
 - [[Garret Tealeaf]], occasional traveling companion 
 %%^End%%
+
 %%^Campaign:None%%
 ```dataview
 TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link
@@ -49,10 +49,34 @@ SORT choice(species, species, typeof)
 %%^End%%
 %%^Campaign:DuFr%%
 ## Events
-In March 1748, Ander was taken with a demonic curse as a result of accidental contact with Abyssal energy during the demon summoning at [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]]. The curse caused him to suffer from an overwhelming hunger for raw flesh. When the demon [[Oduk]] was killed by the [[Dunmar Fellowship]], Ander was released from the worst of the curse. As of the summer of 1748, he still suffered from occasional confusion and difficulty speaking and finding the right word, describing the feeling as the wounds left by the shrapnel from a chaotic bomb that exploded in his mind. 
+In March 1748, Ander was taken with a demonic curse as a result of accidental contact with Abyssal energy during the demon summoning at [[Raven's Hold]]. The curse caused him to suffer from an overwhelming hunger for raw flesh. When the demon [[Oduk]] was killed by the [[Dunmar Fellowship]], Ander was released from the worst of the curse. As of the summer of 1748, he still suffered from occasional confusion and difficulty speaking and finding the right word, describing the feeling as the wounds left by the shrapnel from a chaotic bomb that exploded in his mind. 
 
 ### Chronology
-- (DR:: 1748-03-19): While exploring the ruined Dunmari fort of [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]], Ander Charmheart heard a strange chanting, and was grabbed by a thorny vine while trying to flee. He later described this as like a wave of chaotic dark energy washing over him, and then exploding in his mind like a bomb. 
+- (DR:: 1748-03-19): While exploring the ruined Dunmari fort of [[Raven's Hold]], Ander Charmheart heard a strange chanting, and was grabbed by a thorny vine while trying to flee. He later described this as like a wave of chaotic dark energy washing over him, and then exploding in his mind like a bomb. 
 - (DR:: 1748-03-22): Ander Charmheart begins to display signs of madness, feeling either consumed by a ravenous hunger for raw flesh, or raving about the coming master who would consume the world. 
-- (DR:: 1748-04-12): Ander Charmheart is released from the demonic curse possessing him, when the demon [[Oduk]] is killed by the [[Dunmar Fellowship]] in [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]]
+- (DR:: 1748-04-12): Ander Charmheart is released from the demonic curse possessing him, when the demon [[Oduk]] is killed by the [[Dunmar Fellowship]] in [[Raven's Hold]]
 %%^End%%
+
+
+%% One Note
+ 
+A halfling trader from Sembara, grandson of Bree and brother to Callie. Curious. Explored Raven's Hold, got caught in a wave of Abyssal energy, and when mad.
+ 
+Currently, the madness is not getting worse. He has not turned in a gnoll or anything like that. But also he is not exactly better. Mostly conscious. Can describe more clearly what happened -- felt like a wave of something, washing over him, this chaotic dark energy, almost like a bomb and then the shrapnel embedded in his mind. Now the shrapnel has faded but the wounds remain. Speaks slowly, cautiously, struggles for words. Has horrible dreams at night, can't really sleep.
+ 
+A few options for healing:
+
+1. Kenzo's cleansing touch could heal him with a DC 14 Wisdom check -- maybe?
+2. With the demon ichor, a priest could figure out how to use Lesser Restoration to cure him.
+3. Dispel magic - maybe?
+ 
+Think about options, see what they try.
+ 
+Age: late 30s
+Current location (June 1748): In Tokra, with the rest of the Charmheart family, trying to find a cure for his madness
+
+PC Interactions
+ 
+Has spoken to Wellby telepathically, and if cured may remember him vaguely.
+
+%%

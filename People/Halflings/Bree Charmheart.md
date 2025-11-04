@@ -47,3 +47,18 @@ SORT choice(species, species, typeof)
 ```
 %%^End%%
 
+
+
+%% One Note
+
+ 
+A halfling trader from Sembara, grandmother of Callie and Ander. Matriarch of the clan, concerned about trading and market access, doesn't want to get a reputation of bringing strange disease. But does care for her grandchildren.
+ 
+Age: 110ish, old but hale
+Current location (June 1748): In Tokra, with the rest of the Charmheart family, trying to find a cure for Ander's madness
+
+PC Interactions
+ 
+Was reluctant to speak with PCs and discuss Ander. But will be extremely grateful if they quietly heal Ander.
+
+%%

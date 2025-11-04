@@ -1,0 +1,1 @@
+This is a small antechamber / hallway connecting the galleries of the great hall to the lord and lady's bedchambers. Nothing of interest to find.

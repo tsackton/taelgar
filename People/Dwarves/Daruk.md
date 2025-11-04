@@ -14,7 +14,7 @@ dm_notes: important
 ---
 # Daruk
 >[!info]+ Biographical Info  
-> A [[Dwarf|dwarf]] (he/him), of the [[Runecrafter Thuhr]]  
+> A [[Dwarf - Old Draft Version|dwarf]] (he/him), of the [[Runecrafter Thuhr]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> %%^Campaign:DuFr%% Mentioned to the [[Dunmar Fellowship]] on June 22th, 1748 %%^End%%

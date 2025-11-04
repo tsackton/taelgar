@@ -1,0 +1,3 @@
+Large sacks of grain and flour stacked everywhere. Nothing much to find otherwise. There is a smell of death in here, and opening the sacks will reveal that the grain has started to rot.
+ 
+Anyone eating food prepared from these materials must make a DC 13 Constitution save or succumb to zombie rot. The diseased creature can't regain hit points, has its movement speed reduced by 10 ft, and its hit point maximum decreases by 7 (2d6) at the end of every 24 hours that elapse. If the disease reduces the target's hit point maximum to 0, the target dies, and reanimates as a zombie 24 hours later. The disease lasts until cured by _Lesser Restoration_ or other effects that remove disease, such as a Paladin's Lay on Hands ability.

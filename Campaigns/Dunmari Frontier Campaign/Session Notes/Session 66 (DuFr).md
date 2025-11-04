@@ -18,7 +18,7 @@ descTitle: Reflections of Danger
 > *On Earth: Saturday Nov 19, 2022*
 > *[[Arryn's Tower]]*
 
-[[Wellby]] and new allies defeat mirror entities and rescue the wizard [[Arryn]] from the [[Mirror Realm]], who then assists Wellby in journeying to the Feywild.
+[[People/PCs/Dunmar Fellowship/Wellby]] and new allies defeat mirror entities and rescue the wizard [[Arryn]] from the [[Mirror Realm]], who then assists Wellby in journeying to the Feywild.
 ## Session Info
 ### Summary
 - [[Wellby]] and companions recover from the aboleth's defeat, and [[Artem Novolozek|Artem]] retrieves his remorhaz heart to aid his escape.
@@ -35,7 +35,7 @@ descTitle: Reflections of Danger
 - (DR:: 1748-10-16) - (DR_end:: 1748-10-22): Organize a ship and supplies from [[Wahacha]], to sail north. 
 - (DR:: 1748-10-23): Say farewell to [[Rufus]]; depart with [[Alimash]] and [[Shoal]] for the tower of [[Arryn]] the Wanderer. 
 - (DR:: 1748-10-24) - (DR_end:: 1748-11-12): Sail north, passing many strange islands along the way. 
-- (DR:: 1748-11-13): Arrive [[Arryn]]'s tower. Fight mirror shards, meet [[Gyles]] the steward, discover that [[Arryn]] is trapped in the [[Mirror Realm]]. Free [[Arryn]]. Say goodbye to [[Shoal]], who heads south again to court his lady love, and [[Alimash]], who remains in [[Arryn]]’s service for the time being. [[Wellby]] is plane shifted to [[Lastlight Falls]], the fey crossing near [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]] in the north of [[Dunmar]], by [[Arryn]]’s magic.
+- (DR:: 1748-11-13): Arrive [[Arryn]]'s tower. Fight mirror shards, meet [[Gyles]] the steward, discover that [[Arryn]] is trapped in the [[Mirror Realm]]. Free [[Arryn]]. Say goodbye to [[Shoal]], who heads south again to court his lady love, and [[Alimash]], who remains in [[Arryn]]’s service for the time being. [[Wellby]] is plane shifted to [[Lastlight Falls]], the fey crossing near [[Stormcaller Tower]] in the north of [[Dunmar]], by [[Arryn]]’s magic.
 
 
 ## Narrative

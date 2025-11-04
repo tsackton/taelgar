@@ -53,7 +53,7 @@ Reported here: [[Scrying Delwath Tollen Downtime]]
 - [[Cecilia's White Dragon Tooth Vision]]
 ## Other Information
 
-- A message from [[People/Chardonians/Fausto]] to [[Delwath]], via the Sending spell, received on Feb 25th: “[[Apollyon]] sends his regards, and asks: what's the matter, Delwath, don't you want to see the rest of my little surprise? Scared to watch?”
-- Information recovered from the [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] Archives, by the painstaking work of Nuzkar, cross-referenced to books available in Tollen and now acquired for the Vindristjarna Archives, provides a [[Dunmar#History|chronicle of Dunmari history]] in the days before the Great War, detailing the [[Aatmaji Dynasty|first dynasty of Dunmari Samraats]], which ended with a disastrous expedition to destroy the lingering evil in Drankor led by Samraat Aatmaji [[Dasa]], who died in the attempt. While most of this is fragmentary, [[Nuzkar]] is able to reconstruct two notes:
+- A message from [[Fausto]] to [[Delwath]], via the Sending spell, received on Feb 25th: “[[Apollyon]] sends his regards, and asks: what's the matter, Delwath, don't you want to see the rest of my little surprise? Scared to watch?”
+- Information recovered from the [[Kharsan]] Archives, by the painstaking work of Nuzkar, cross-referenced to books available in Tollen and now acquired for the Vindristjarna Archives, provides a [[Dunmar#History|chronicle of Dunmari history]] in the days before the Great War, detailing the [[Aatmaji Dynasty|first dynasty of Dunmari Samraats]], which ended with a disastrous expedition to destroy the lingering evil in Drankor led by Samraat Aatmaji [[Dasa]], who died in the attempt. While most of this is fragmentary, [[Nuzkar]] is able to reconstruct two notes:
 	- [[Report of the Aagiri to Samraat Dasa]]
 	- [[An Annotated (Partial) Map of Drankor]]

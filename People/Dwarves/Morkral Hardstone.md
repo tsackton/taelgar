@@ -19,3 +19,9 @@ dm_notes: color
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 [[Fallthra Hardstone]]'s brother. 
+
+%% One Note
+Uncle. War hero, fought in the Battle of Mimyazad
+
+Battle of Mimyazad: at one point, a vague idea for war where people of the rainbow allied with dwarves against hobgoblins, but dropped when I actually mapped out the distances and realized how far that was.
+%%

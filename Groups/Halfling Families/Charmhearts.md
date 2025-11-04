@@ -38,7 +38,7 @@ In 1748, the Charmhearts encountered trouble on the road from [[Ausson's Crossin
 
 The demon at Raven's Hold was later killed by [[Dunmar Fellowship]], but [[Ander Charmheart]] only slowly and partially recovered. What is more, during this time, gnoll raiders rampaged across [[Eastern Dunmar]], and little trading was possible. The Charmhearts made their way to [[Tokra]] with crowds of Dunmari refugees, but the sickness and war seriously disrupted their trading year, causing significant losses. Later, they left [[Tokra]] for [[Darba]], hoping for better luck. 
 ## Chronology
-- (DR:: 1748-03-19): [[Ander Charmheart]] caught in wave of demonic corruption near [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold]]. 
+- (DR:: 1748-03-19): [[Ander Charmheart]] caught in wave of demonic corruption near [[Raven's Hold]]. 
 - (DR:: 1748-03-28): Charmhearts arrive in [[Karawa]]
 - (DR:: 1748-03-29): Meet [[Dunmar Fellowship]] in [[Karawa]] in the evening
 - (DR:: 1748-04-13): Charmhearts reach [[Tokra]] with Dunmari refugees
@@ -46,3 +46,10 @@ The demon at Raven's Hold was later killed by [[Dunmar Fellowship]], but [[Ander
 - (DR:: 1748-07-18):  [[Garret Tealeaf]] and the Charmhearts leave [[Tokra]], planning on heading to [[Darba]] with trade goods and reconnecting with the Tealeafs, if possible.
 - (DR:: 1748-08-13): Charmhearts and [[Garret Tealeaf]] arrive in [[Darba]].
 %%^End%%
+
+
+%% One Note
+ 
+The Charmheart family of halflings traditionally has made the trip to Dunmar every spring, bringing exotic trade goods and news from Sembara, and the Karawa festival is typically one of their first major stops. This is a serious trading caravan, outfitted for danger, and well-protected. Have a number of goods for sale (apple brandy from Adderfell, spices from farther east via Tollen, furs, wine from Sembara, etc, etc). One of the Charmheart kin, a young man named Ander Charmheart, has taken ill / mad. He is babbling about the master. Bree Charmheart, the matriach of the family, is the main one to talk to strangers. But Callie Charmheart, Ander's sister, will come to the party/Wellby to ask for help. During session 4 they talked to Bree and briefly saw Ander, while Wellby talked to him telepathically.
+
+%%

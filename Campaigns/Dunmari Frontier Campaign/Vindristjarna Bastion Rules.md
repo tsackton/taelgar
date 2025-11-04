@@ -66,10 +66,10 @@ These followers are available to tend to Bastion facilities:
 [[Adam Gower]] (he/him). Tollender human. Adam does not tend a specific facility, but if [[Vindristjarna]] is in [[Tollen]] for a Bastion Turn, he can carry out any number of ***Trade*** orders. 
 
 Each PC is also able to tend Bastion facilities:
-[[Delwath]]: ***Sanctuary***, ***Gardens and Greenhouse***, ***Demiplane***
+[[People/PCs/Dunmar Fellowship/Delwath]]: ***Sanctuary***, ***Gardens and Greenhouse***, ***Demiplane***
 [[Seeker]]: ***Observatory***, ***Workshop***, ***Tools Trainer (Game Room)***, ***Archives***, ***Demiplane***
 [[Kenzo]]: ***Gardens and Greenhouse***, ***Elven Tree***, ***Hall of Stories***, ***Battle Defense (Sparring Room or Game Room)*** or ***Unarmed Attack (Sparring Room)*** trainer.
-[[Wellby]]: ***Map Room***, ***Stable***, ***Storehouse***, ***Pub***
+[[People/PCs/Dunmar Fellowship/Wellby]]: ***Map Room***, ***Stable***, ***Storehouse***, ***Pub***
 
 ## Bastion Turns
 
@@ -298,7 +298,7 @@ The upper deck consists of, from stern to prow:
 >
 >Kept in the common living is the following magic item:
 >##### Cleansing Stone
->The cleansing stone is a polished stone sphere of Drankorian make, 1 foot in diameter, embedded on top of short marble pedestal, that is permanently enchanted. While touching the stone, you can use an action to activate it and remove dirt and grime from your garments and your person. This stone was originally installed in [[Eudomes]]' bedroom in [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]]; the party [[Session 71 (DuFr)|recovered it]] upon the destruction of the tower by [[Hralgar]] when he was freed from imprisonment. 
+>The cleansing stone is a polished stone sphere of Drankorian make, 1 foot in diameter, embedded on top of short marble pedestal, that is permanently enchanted. While touching the stone, you can use an action to activate it and remove dirt and grime from your garments and your person. This stone was originally installed in [[Eudomes]]' bedroom in [[Stormcaller Tower]]; the party [[Session 71 (DuFr)|recovered it]] upon the destruction of the tower by [[Hralgar]] when he was freed from imprisonment. 
 
 
 > [!info]+ Control Room

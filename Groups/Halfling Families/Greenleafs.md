@@ -26,3 +26,7 @@ dv.table(["Person", "Info", "Current Location"],
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
 %%^End%%
+
+%% One Note
+Lyle and Alton Greenleaf. Met at crossroads inn west of Tokra. Their family is heading to Tokra, then over the passes to Sembara.
+%%

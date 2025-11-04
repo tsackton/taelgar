@@ -30,3 +30,13 @@ Romantically involved with [[Kassi]], although not formally married.
 %%^Campaign:dufr%%
 Constructed a the [[Portable Hole]] for the Dunmar Fellowship, after they helped him gather extraplanar energy of [[Arborea]] from the [[Elven Arborea Workshop]] beneath the monastery. 
 %%^End%%
+
+%%Notes
+Eccentric artisan creating magic items at the Lakan monastery. Specializes in extradimensional objects, which he makes with infused energy from the weak spot to Arborea below the monastery.
+ 
+Crotchety and a bit rude even, fairly gruff. Not the most popular in the monastery and struggles to get acolytes to train with him. But very knowledgabe about the fabric of reality.
+ 
+PC Interactions
+ 
+After aiding him in dealing with the power of Arborea in the elven ruins, he has promised to make a portal hole for the party with stone walls and a hanging organizer included. It will be done around July 15th.
+%%

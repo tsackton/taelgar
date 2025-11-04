@@ -20,3 +20,7 @@ dm_notes: color
 %%add MC campaign info%%
 
 A lizardfolk scout and hunter.
+
+%% One Note
+A young lizardfolk scout in Eskorola interested in adventuring.
+%%

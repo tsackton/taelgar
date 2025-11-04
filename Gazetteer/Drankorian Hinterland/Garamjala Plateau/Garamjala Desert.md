@@ -18,7 +18,7 @@ dm_owner: tim
 
 The Garamjala is a vast arid desert that stretches from the [[Yuvanti Mountains]] to the eastern banks of the [[Istaros]], and beyond. It was formed in the aftermath of the [[Great War]] as the upheavals in [[Dunmar]] raised the [[Yuvanti Mountains]] mountains, and lifted the central grasslands. As the rains stopped, the land turned dusty and rocky. 
 
-The desert is now largely a landscape of rocky canyons, arid plateaus and rocks shaped by the wind, interspersed with open expanses of sandy dunes that bury lost cities. However, occasional rain does reach the desert during the monsoons, and rare thunderstorms cause the landscape to burst into bloom. The interior, east of the [[Kharja]] and west of the [[Istaros]], southwest of [[Xurkhaz]] is the driest and least hospitable, with miles of bare, cracked sand. The northwestern fringes, from [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] west to [[Bas Udda]] and [[Karawa]], tend to be rockier and more likely to get occasional monsoon rain. 
+The desert is now largely a landscape of rocky canyons, arid plateaus and rocks shaped by the wind, interspersed with open expanses of sandy dunes that bury lost cities. However, occasional rain does reach the desert during the monsoons, and rare thunderstorms cause the landscape to burst into bloom. The interior, east of the [[Kharja]] and west of the [[Istaros]], southwest of [[Xurkhaz]] is the driest and least hospitable, with miles of bare, cracked sand. The northwestern fringes, from [[Kharsan]] west to [[Bas Udda]] and [[Karawa]], tend to be rockier and more likely to get occasional monsoon rain. 
 
 ## River Systems
 

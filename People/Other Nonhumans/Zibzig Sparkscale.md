@@ -5,6 +5,7 @@ name: Zibzig Sparkscale
 species: kobold
 gender: male
 whereabouts:
+- {type: home, location: }
 - {type: home, location: West Stonewolds Caves}
 campaignInfo: [{campaign: adma, type: met, date: 1715-05-13}]
 dm_owner: tim

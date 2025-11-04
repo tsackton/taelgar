@@ -20,8 +20,8 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% The Haunted energy felt by the [[Dunmar Fellowship]] on May 11th, 1748 in the [[Hall of Stories]], the [[Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma]], the [[Garamjala Desert]] %%^End%%
+>> %%^Campaign:dufr%% The Haunted energy felt by the [[Dunmar Fellowship]] on May 11th, 1748 in the [[Hall of Stories]], the [[Monastery of Bhishma]], the [[Garamjala Desert]] %%^End%%
 
-Sajan was the last Keeper of the [[Hall of Stories]], before the [[Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma]] outside [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan]] was abandoned by the [[Order of the Awakened Soul]], in the months following the [[Awakened Soul Disaster]]. 
+Sajan was the last Keeper of the [[Hall of Stories]], before the [[Monastery of Bhishma]] outside [[Kharsan]] was abandoned by the [[Order of the Awakened Soul]], in the months following the [[Awakened Soul Disaster]]. 
 
 She died in the chaos that followed, but her soul could not escape the material plane, and fell into madness. Her spirit now is trapped in the endless memories and nightmares of [[Hall of Stories]], trapped, always turning tales to the worst possible outcome. 

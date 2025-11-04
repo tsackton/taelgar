@@ -23,4 +23,14 @@ Leader of a centaur war band allied with the defense of [[Voltara]] against [[Gr
 %%
 - Arc 2: at the Voltara war council; paired with [[Adrik]] against a hill giant in the field.
 - Arc 4: visited the party’s celebration at Tempest Towers.
+
+One Note:
+ 
+Warrior and war commander of the centaur band that is currently (late 1747) based near Voltara
+ 
+Wounded in battle, now has a permanent limp and no longer leading the warriors to battle. But leaning into her druidic powers again.
+ 
+Age: tbd
+Current Location (Dec 1747): sheltered plains southwest of Voltara for the winter
+
 %%

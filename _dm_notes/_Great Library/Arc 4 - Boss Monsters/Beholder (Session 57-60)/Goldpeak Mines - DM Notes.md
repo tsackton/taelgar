@@ -4,7 +4,7 @@ Lower levels of [[Goldpeak Mines]] have been taken over by the beholder Vilaxes,
 
 Basically play him as truly crazy. Large for a beholder - blood shot - greenish ooze dripping from his eyestalks. Believes he is destined to one of the great old ones, take his place amongst the elder evils of the world, but needs to corrupt minds.  Should be gruesome evidence of his rituals around, and if the party is defeated they will be tossed in prison until he can complete a ritual / turn them. 
 
-Minions are kobolds - some corrupted aberrations, others scared slaves
+Minions are [[kobolds]] - some corrupted aberrations, others scared slaves
 
 Has corrupted minotaurs as greater minions, use a mix of minotaur and barlgura stat blocks. Also some https://www.dndbeyond.com/monsters/487575-dolgaunt
 
@@ -24,7 +24,7 @@ Should feel weird and creepy.
 
 As they party approaches the vestibule area, there are four tentacled horrors (https://www.dndbeyond.com/monsters/487575-dolgaunt) on guard. 
 
-When intruders are spotted / combat is joined, one will immediately start to run to ring the alarm, which is a lever in the wall that when pulled causes faint screams to echo throughout the entire complex. This sets Vilaxes on alert, and he will immediately order some kobolds to investigate.
+When intruders are spotted / combat is joined, one will immediately start to run to ring the alarm, which is a lever in the wall that when pulled causes faint screams to echo throughout the entire complex. This sets Vilaxes on alert, and he will immediately order some [[kobolds]] to investigate.
 
 ## Traps 
 
@@ -35,7 +35,7 @@ a false floor, that collapses to reveal a pit of quicksand
 
 ## Kobold Lair
 
-About 35 kobolds are trapped by the beholder, with an additional 15 that are "converted" into aberrations.
+About 35 [[kobolds]] are trapped by the beholder, with an additional 15 that are "converted" into aberrations.
 
 Improvise this. Should usually have 1-2 "greater minions" on watch. 
 

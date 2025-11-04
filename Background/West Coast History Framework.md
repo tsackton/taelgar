@@ -11,6 +11,8 @@ This is not intended to be published as is and is not meant to replace a more pr
 
 Draws heavily from [[Hobgoblin Movements After Cha'Mutte]] and [[Discord Chat - Chardon History]]. 
 
+See also: [[Early Brainstorming - West Coast History]] and [[West Coast History - Nymthrax Lair Brainstorming]] for some older brainstorming that might have relevant ideas. 
+
 ## Pre-Drankor
 
 **There are lots of open places for invention in this era, and the deep history of much of the West Coast remains undeveloped.**
@@ -187,3 +189,5 @@ As the hobgoblin wars end, Chardon controls the north coast, the south coast of 
 This is the chalyte expansion era of Chardon:
 - Chalyte is discovered in Voltara, and Chardon conquers north to control it, exerting control of the Voltara frontier and the northern shores of Lake Valandros (but not Mawar or NR 5 on the coast). 
 - Something is also discovered in the mountains, and Chardon conquers the rest of Yeraad (more or less) for this purpose, but it doesn't go well and Yeraad region 4 is never conquered, nor is the Illoria coast. 
+
+

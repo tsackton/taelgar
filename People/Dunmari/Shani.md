@@ -21,5 +21,5 @@ dm_notes: none
 A goat herder from the area around Karawa. 
 
 %%^Campaign:dufr%%
-In April 1748, she and the group of herders she traveled with were delayed returning to [[Karawa]] for the [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Festival of Rebirth]] because of a large fire, started by lightning from the endless storm around [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]]. She met [[Dunmar Fellowship]] on the road, and warned them to flee. 
+In April 1748, she and the group of herders she traveled with were delayed returning to [[Karawa]] for the [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Festival of Rebirth]] because of a large fire, started by lightning from the endless storm around [[Stormcaller Tower]]. She met [[Dunmar Fellowship]] on the road, and warned them to flee. 
 %%^End%%

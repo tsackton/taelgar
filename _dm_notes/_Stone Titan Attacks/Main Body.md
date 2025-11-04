@@ -65,7 +65,7 @@ This character was killed during the quaggoth battle, so if they have been to th
  
 The simulacrum dwarf will try to lure a high INT, low WIS character in. First move is charm person when in range, ideally charming at least a few characters. Ideally wants to draw in two characters. Once it has drawn memories from two characters will retreat into wall. If they follow and find a way to clear out the rubble, will try to protect oblex spawn while they retreat. If they enter door and it has drawn memories from a PC, will have a simulacrum of that PC waiting and telling them to run. Next move is hold person and/or chromatic spray while it retreats once more.
 
-![Exported image](Exported%20image%2020251029113426-0.png)               
+![Exported image](main-body-statblock-1.png)               
 
 **ENCOUNTERS: LIBRARY (#4)**
 

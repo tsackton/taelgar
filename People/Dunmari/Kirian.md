@@ -21,7 +21,7 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A retired Dunmari solider who spent his early twenties riding in the warband of [[Shandan]], a charismatic soldier, traveling in the [[Myraeni Gap]] and elsewhere. Wounded in a skirmish with kobolds in DR 1728, and returned to [[Tokra]]. 
+A retired Dunmari solider who spent his early twenties riding in the warband of [[Shandan]], a charismatic soldier, traveling in the [[Myraeni Gap]] and elsewhere. Wounded in a skirmish with [[kobolds]] in DR 1728, and returned to [[Tokra]]. 
 
 Now runs an inn, [[Kirian's]], near the Trader's Market in [[Tokra]]. 
 

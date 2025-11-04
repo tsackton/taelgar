@@ -16,7 +16,7 @@ name: Dunmari Frontier - Session 75
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
 > *In Taelgar: Nov 29, 1748 DR to Dec 04, 1748 DR*
 > *On Earth: Tuesday Apr 11, 2023*
-> *From [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower]] to [[Xurkhaz]]*
+> *From [[Stormcaller Tower]] to [[Xurkhaz]]*
 
 The [[Dunmar Fellowship]] successfully defends against shadow attackers, strategizes with allies, and advances eastward towards orc territory.
 
@@ -38,7 +38,7 @@ The [[Dunmar Fellowship]] successfully defends against shadow attackers, strateg
 - (DR:: 1748-12-04), dawn: See the edge of the [[Orcs|orcs]] territory from the air, maybe 40-50 miles distant, in the early morning light.
 
 ## Narrative
-The session begins as the party is awakened by the howls of shadow dogs, the same chalyte zombie assassins created by [[People/Chardonians/Fausto]] that chased [[Kenzo]], [[Seeker]], [[Wellby]], and [[Delwath]] down on the flight from [[Chardon]]. 
+The session begins as the party is awakened by the howls of shadow dogs, the same chalyte zombie assassins created by [[Fausto]] that chased [[Kenzo]], [[Seeker]], [[Wellby]], and [[Delwath]] down on the flight from [[Chardon]]. 
 
 ![[shadow-hunter-portrait.png|300]]![[shadow-hunter-wolf.png|300]]
 

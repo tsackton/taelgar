@@ -1,0 +1,1 @@
+The Necromancer is working to create an undead army, using captured soldiers from Darkwood Keep. It can only happen on the winter solstice, Dec 21st.

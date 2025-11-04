@@ -26,4 +26,5 @@ A showman, scholar, academic rival of sorts to [[Ulfgar Frostbeard]], and member
 Had possessed the [[Chalice of the Runepriest]], but sold it to [[Riswynn]] for a large sum of money in [[Session 49 (DuFr)]]. 
 %%^End%%
 
-%% Tim: leaving status blank; update as needed if that is wrong but the note reads as relatively complete to me %%
+
+%%SECRET[1]%%

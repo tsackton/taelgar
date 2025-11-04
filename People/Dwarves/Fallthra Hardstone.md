@@ -32,3 +32,7 @@ Matriarch of the Hardstone clan; associated with the [[Archives|Tokra Archives]]
 - Sister of [[Morkral Hardstone]]
 - Wife of [[Delig Hardstone]]
 - Colleague of archivists at the Tokra Archives, including [[Govir]] and [[Ardan]]
+
+%% One Note
+Mother/matriarch. Tried to keep Dag's lycanthropy secret once she learned of it. Grateful to Delwath for curing Dag and keeping the secret.
+%%
