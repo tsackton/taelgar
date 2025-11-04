@@ -46,3 +46,10 @@ The demon at Raven's Hold was later killed by [[Dunmar Fellowship]], but [[Ander
 - (DR:: 1748-07-18):  [[Garret Tealeaf]] and the Charmhearts leave [[Tokra]], planning on heading to [[Darba]] with trade goods and reconnecting with the Tealeafs, if possible.
 - (DR:: 1748-08-13): Charmhearts and [[Garret Tealeaf]] arrive in [[Darba]].
 %%^End%%
+
+
+%% One Note
+ 
+The Charmheart family of halflings traditionally has made the trip to Dunmar every spring, bringing exotic trade goods and news from Sembara, and the Karawa festival is typically one of their first major stops. This is a serious trading caravan, outfitted for danger, and well-protected. Have a number of goods for sale (apple brandy from Adderfell, spices from farther east via Tollen, furs, wine from Sembara, etc, etc). One of the Charmheart kin, a young man named Ander Charmheart, has taken ill / mad. He is babbling about the master. Bree Charmheart, the matriach of the family, is the main one to talk to strangers. But Callie Charmheart, Ander's sister, will come to the party/Wellby to ask for help. During session 4 they talked to Bree and briefly saw Ander, while Wellby talked to him telepathically.
+
+%%
