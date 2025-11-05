@@ -21,6 +21,3 @@ Just to give you context for answering this, at some level, anything you find Ce
   
 
 The main things he'd have felt/noticed... The song isn't a melody you can repeat. While you are experiencing it, it feels like you experience it with your ears, and hear it as a song... but afterwards, you can't reconstruct the notes, or whistle the tune, or anything like that. What's left is a memory of how you felt hearing the song. What Celyn would remember is very personal and moment dependent, but it is invariably something positive and hopeful, and brimming with life and vitality. For some it might be a beloved childhood memory, reexperienced with crystal clarity. Or self-confidence, and a feeling of strength. Or humility, and a feeling of awe at the universe. Or a feeling of belonging. Or knowledge, that a bad time would pass. Or a feeling of healing, the feeling of joy returning to the world after an overwhelming grief.
-
-Mike Sackton <msackton@gmail.com>
-May 30, 2024, 7:00 PM
