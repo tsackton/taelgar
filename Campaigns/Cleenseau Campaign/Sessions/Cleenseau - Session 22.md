@@ -54,7 +54,7 @@ In the morning, Viepuck reestablished telepathic contact with the other half of 
   
 While he was lurking there, an old lady who visibly intimidated the staff turned up for breakfast; she got served her toast and egg without ever asking for anything. She was, of course, imemdiately flagged as Probably [[Midnight Lady|the Hag]].  
   
-Meanwhile, the ferryman returns to the other side and picks up the party (who had determined that the anti-scrying charms were indeed not magically effective) and an anxious lady named Mara, who had lost her family in the undead attacks and was heading to stay with family in one of the villages north of Peydon. Viepuck had tried to get the ferryman to hassle the party by saying he'd spotted some good marks; he was only interested in taking our fares and ignoring us, but he was very distinctly not taking a fare from Mara. (Ferryman is [[Edouard]]; still very solicitous of her.)  
+Meanwhile, the ferryman returns to the other side and picks up the party (who had determined that the anti-scrying charms were indeed not magically effective) and an anxious lady named Mara, who had lost her family in the undead attacks and was heading to stay with family in one of the villages north of Peydon. Viepuck had tried to get the ferryman to hassle the party by saying he'd spotted some good marks; he was only interested in taking our fares and ignoring us, but he was very distinctly not taking a fare from Mara. (Ferryman is [[Edouard of Peydon]]; still very solicitous of her.)  
   
 Viepuck, over the telepathic link: He works for a fairy don't let her owe anyone anything!  
   
