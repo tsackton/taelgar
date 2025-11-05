@@ -35,7 +35,7 @@ Pastureland, woodlots, and rocky outcrops dominate the environs. Paths lead to h
 
 %%
 DM notes and campaign references
-- See encounters and logistics around market days and garrison responses in: [[_dm_notes/_Addermarch/Session 2 - DM Notes]].
-- Taverns and notable NPCs summarized in: [[_dm_notes/_Addermarch/Adventure 2 - Caves of the Cockatrice]] and related Addermarch prep.
+- See encounters and logistics around market days and garrison responses in: [[Session 2 - DM Notes]].
+- Taverns and notable NPCs summarized in: [[Adventure 2 - Caves of the Cockatrice]] and related Addermarch prep.
 - Use in‑world description above for general reference; specific rewards, combats, and PC outcomes vary by table.
 %%

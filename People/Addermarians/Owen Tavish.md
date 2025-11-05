@@ -34,7 +34,7 @@ Owen Tavish is a priest of the [[The Sibyl]], based out of the Temple of the Sib
 
 
 %% DM (PC interactions and sources)
-- Letters and logistics: [[Adventure 2 - Caves of the Cockatrice.md]]
+- Letters and logistics: [[Adventure 2 - Caves of the Cockatrice]]
 - Site consultations and destruction ritual: [[Addermarch - Session 06]]; [[Session 2 - DM Notes]]
 
 %%

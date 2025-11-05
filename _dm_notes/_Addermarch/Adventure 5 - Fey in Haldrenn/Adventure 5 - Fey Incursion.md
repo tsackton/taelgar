@@ -1,5 +1,7 @@
 ## Backstory
 
+See: [[Addermarch Fey Politics]]
+
 A few months ago, Duncan, a boastful young man from Haldrenn, left claiming he knew where treasure was hidden. He never returned, and the village spoke of the malign influence of the Briarheart, leading careless folk astray. People put up wards around the village, and offered beer to the Briarheart to appease them, but didn't think much of it when Duncan didn't return. That's what happens to fools, as the sayings go. 
 
 Unbeknownst to the villagers, though, something happened to Duncan.....
