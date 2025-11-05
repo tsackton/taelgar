@@ -4,7 +4,7 @@ These are pages that need checking of some kind. Usually this is just a simple r
 
 ### Needs Name Confirmation
 ```dataview
-list from #status/check/name 
+list from #status/check/name and !"Worldbuilding"
 sort file.name
 ```
 
@@ -15,7 +15,7 @@ list from #status/check/minor
 
 ### Needs AI Cleanup
 ```dataview
-list from #status/check/ai
+list from #status/check/ai and !"Worldbuilding" and !"_DM_"
 ```
 
 ### Other Checking Needed (See Note for Details)
