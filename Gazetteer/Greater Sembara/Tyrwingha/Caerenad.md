@@ -14,9 +14,7 @@ pronunciation: KAI-re-nad
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Maerwyn now used for mountains so needs to change here %%
-
-Caerenad is a small Tyrwinghan town on the road between [[Eskbridge]] and [[Tafolwern]], roughly a three-day's journey south of Eskbridge, and near where the road crosses the [[Enad]], a brook that eventually joins the Maerwyn just north of the [[Tyrwinghan Road]]. 
+Caerenad is a small Tyrwinghan town on the road between [[Eskbridge]] and [[Tafolwern]], roughly a three-day's journey south of Eskbridge, and near where the road crosses the [[Enad]], a brook that eventually joins the [[Rhewin]] just north of the [[Tyrwinghan Road]]. 
 
 The earl of the Enad Circuit keeps a fortified seasonal residence here, where they traditionally spend the period between [[Viatela]] and [[Quintarum]]. 
 
