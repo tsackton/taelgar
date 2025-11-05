@@ -1,16 +1,21 @@
+---
+headerVersion: 2023.11.25
+tags: [person]
+name: Perette
+species: human
+ancestry: Sembaran
+gender: female
+whereabouts: 
+ - { type: home, location: Veltor}
+ - { type: away, location: Embry, start: 1720-03-28 }
+dm_owner: mike
+dm_notes: color
+---
+The chamberlain of [[Isabeau D'Aslain]] and highly loyal to her mistress. She knows a lot about the goings on in [[Veltor]] but is shy and reticent about sharing with those not in the Baroness' inner circle.
+
+%% DM 
+- Secrets/GM knowledge: She lied under oath to try to protect Isabeau from the Heroes of Cleenseau, basically claiming the PCs were necromancers when really Isabeau was. Is potentially being tried for perjury or treason. Unclear if she was working with the lich via Isabeau or a dupe
+
+See [[Cleenseau - Session 28]]
 %%
-AI notes need wor
-# Perette
 
-Chamberlain overseeing the private quarters and domestic arrangements of [[Isabeau d'Aslain|Baroness Isabeau d'Aslain]]. Quiet, habitually unobtrusive, and nervously vigilant; survives by being socially "invisible" while holding extensive knowledge of movements, visitors, secret passages, and secured items within the tower.
-
-## Traits
-- Discreet to the point of near-anonymity.
-- Holds numerous sensitive secrets (guest movements, removed tapestries, secured chests) but reluctant to reveal them.
-- Nervous demeanor reflects awareness of the danger of what she knows.
-
-## In the Campaign
-- Referenced in Session 28 (initially as the Baroness's companion) giving purported eyewitness testimony later discredited as having been prompted/coached by the Baroness.
-- Appears in earlier material accompanying searches of the Baroness's tower, granting access and context for removed or suspicious items.
-
-%%
