@@ -40,4 +40,4 @@ Campaigns are in directories starting with `_` so they will sort to the top. The
 
 ## Other Directories
 
-`Old Brainstorming`: Contains a bunch of old notes, some on mechanics/homebrew, some on worldbuilding, that Tim worked on from 2019 - 2022, roughly. Anything that seems reasonably canonical should probably be moved to `Worldbuilding`. These notes are mostly kept for posterity/curiousity. 
+`Old Mechanics`: Contains a bunch of old notes on mechanics/homebrew, that Tim worked on from 2019 - 2022, roughly. These notes are mostly kept for posterity/curiousity. 
