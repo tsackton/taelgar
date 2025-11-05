@@ -226,7 +226,7 @@ The five Earls of Addermarch are known as:
 - The Earl of Westcliff, whose circuit includes all of the [[Westcliff]], as well as parts of the upper Aure valley, especially on the western part of Addermarch. The Earl of Westcliff is the lord of three shires: [[Bramshire]] (northern hills bordering [[Borderlands|Sembaran Borderlands]]), [[Carlinshire]] (northwestern hills, upper reaches of [[Umber]]), [[Weskershire]] (West Cliff and south). These shires are each centered around major defenses on the western and northern border, and have hereditary lords. 
 - The Earl of Southmarch, whose circuit includes the southern Aure. 
 - The Earl of Aurenvale, whose circuit is largely in the Aure river valley, in particular the northern and eastern stretches, interdigitating with the Earl of the Westcliff in parts of the western Aure valley, and the Earl of High Tyrn in parts of the eastern Aure valley. 
-- The Earl of High Tyrn, whose circuit includes the eastern part of the Aure river valley, and the highlands along the Tyrwinghan border.
+- The Earl of High Tyrn, whose circuit includes the eastern part of the Aure river valley, and the highlands along the Tyrwinghan border. %%Tyrn -> *TEERN*%%
  
 Note these circuits are not strict lines on a map and often overlap, but each village is part of the domain of a single earl.
 
