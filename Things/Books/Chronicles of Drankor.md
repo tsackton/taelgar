@@ -1,22 +1,29 @@
 ---
-tags: [source, status/cleanup/text, status/check/tim]
-dm_notes: color
+headerVersion: 2023.11.25
+tags: [item/book]
+name: Cavarrio's Chronicles of Drankor
+displayDefaults: {defArt: ""}
+dm_notes: none
 dm_owner: none
 ---
-
-%%need to rewrite this into a proper source, and move secrets/other details to the actual Drankorian history page
-Not sure if the discord chat data is worth keeping or incorporating or just deleting - I removed the stuff that was obviously incorporated already 
-%%
 # Cavarrio's Chronicles of Drankor
+>[!info]+ Information  
+> (book)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
-A list of the Emperors of Drankor, based on Cavarrio's Chronicles of Drankor, considered the definitive history of the Empire in post-Great War Chardon. May not be accurate; written based exclusively on secondary sources, many of which have since been lost. Takes the form of annals of emperors.
+The *Chronicles of Drankor* is an extensive history and chronicle of the Drankorian Empire. It is typically considered the most comprehensive source on Drankorian chronology by the [[Faculty of History]], and is a standard part of their curriculum. It was written by the Chardonian scholar [[Cavarrio]] in DR 1209. 
 
-Cavarrio divides the history of Drankor into five eras:
-- Founding Era, when the Drankorian Empire was established and first grew across what is now the lower Istaros and the [[Hara Basin]], and then into the western Green Sea. 
-- First Peace, a long period of peace and prosperity and stability
-- Western Expansion, when the Empire expanded north along the west coast
-- Golden Age, a second period of peace and prosperity. 
-- Decline, marked by civil war and then fruitless battles in the east, leading up to the destruction of Drankor. 
+The work is most famous for a long section, the *Annals of the Emperors*, which is considered a comprehensive list of the Emperors of Drankor and is reproduced below. Some scholars question whether it is entirely and completely accurate, as many of the sources used here have since been lost. 
+
+There is also a long discussion of the arc of Drankorian history, which Cavarrio divides into five distinct eras:
+
+- The Founding Era, when the Drankorian Empire was established and first grew across what is now the lower Istaros and the [[Hara Basin]], and then into the western Green Sea. 
+- The First Peace, a long period of peace and prosperity and stability
+- The Western Wars, when the Empire expanded north along the west coast
+- The Golden Age, a second period of peace and prosperity. 
+- The Decline and Fall, marked by civil war and then fruitless battles in the east, leading up to the destruction of Drankor. 
+
+## Annals of Emperors
 
 | Emperor | period | species/ancestry | notes | rule start | rule end |
 | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -57,20 +64,3 @@ Cavarrio divides the history of Drankor into five eras:
 | Apollyon (m) | Decline | Hkar |  | 1011 | 1059 |
 <!-- TBLFM: $7=($6-$5) -->
 <!-- TBLFM: $8=($5+4133) -->
-
-%%SECRET[1]%%
-
-
-
-%% Some notes from Discord Chat. May all be obsolete
-
-[1/16/2023 1:16 PM] rsulfuratus
-generally names are either Greek or Elvish, depending on whether they are of Peronar (half-elven) or Hkaran (human) ancestry
-
-[1/16/2023 1:18 PM] rsulfuratus
-there is a long golden age of peace and prosperity from ~628 - 965 or so, basically ending with Helea's reign and the events Caulaus sort of remembers, that has 13 total emperors ending with Helea
-
-[1/16/2023 3:37 PM] rsulfuratus
-oh also: 
-| Kylanthe (f)               | First Peace    | Hkar             | Negotiated final settlement of Sembaran wars                                                                | 451        | 499      | 48          | 4584    |
-%%

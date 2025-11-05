@@ -77,6 +77,15 @@ The emperors of Drankor, starting with the rule of Celadir, who was the first to
 
 %% notes
 Eiphis the blind - founded University of Chardon, perhaps was overly focused on academic subjects and ignored the signs of the growing power of the Omnis Pura
+
+from Discord:
+
+[1/16/2023 1:16 PM] rsulfuratus
+generally names are either Greek or Elvish, depending on whether they are of Peronar (half-elven) or Hkaran (human) ancestry
+
+[1/16/2023 1:18 PM] rsulfuratus
+there is a long golden age of peace and prosperity from ~628 - 965 or so, basically ending with Helea's reign and the events Caulaus sort of remembers, that has 13 total emperors ending with Helea
+
 %%
 ## Culture
 
