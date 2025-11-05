@@ -15,7 +15,7 @@ Brooklawn Outer is the out‑wall district west of [[Haurhill]] in [[Tollen]], k
 Hides arrive from upriver droves and are cured, scraped, and dyed here before moving to cobblers and armorers in other wards. The district’s craftsmen are practical and close‑knit; guild oversight focuses on waste‑handling and fire safety.
 
 ## Boundaries
-The Little River marks the edge between Brooklawn Outer and [[Fairgate Outer]], where the smells of bark and urine from the vats give way to the fields and gardens.
+The [[Little River]] marks the edge between Brooklawn Outer and [[Fairgate Outer]], where the smells of bark and urine from the vats give way to the fields and gardens.
 
 %%
 DM notes

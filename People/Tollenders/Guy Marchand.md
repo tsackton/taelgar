@@ -27,7 +27,7 @@ dm_notes: color
 Guy Marchand is a mapmaker from [[Tollen]], known for his meticulous craftsmanship and his thriving shop in [[Nordgate]].
 ## Overview
 
-Guy Marchand, a mapmaker and bookseller, resides in the Nordgate district of [[Tollen]], where he runs a shop on the bustling [[Scrollwright Street]]. This major thoroughfare connects [[Magnus Street]] and [[Godshome]], and is the heart of book production and related trades in [[Tollen]]. He is of Isinguese ancestry, and his shop doubles as a local center for the Isinguer diaspora in [[Tollen]]. 
+Guy Marchand, a mapmaker and bookseller, resides in the [[Nordgate]] district of [[Tollen]], where he runs a shop on the bustling [[Scrollwright Street]]. This major thoroughfare connects [[Magnus Street]] and [[Godshome]], and is the heart of book production and related trades in [[Tollen]]. He is of Isinguese ancestry, and his shop doubles as a local center for the Isinguer diaspora in [[Tollen]]. 
 ## Description
 
 ![[guy-marchand.png]]

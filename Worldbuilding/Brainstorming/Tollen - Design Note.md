@@ -34,7 +34,7 @@ District 9: poor -- slums, inside and outside the walls -- livestock and leather
  
 1. **Fairgate:** North of Guildgate, inland from the Volta. Halfling neighborhood, sometimes split into Fairgate Inner (inside walls) and Fairgate Outer (outside walls).
  
-1. **Brooklawn:** East of Fairgate, a swampy and wet area where the Little River was dammed and diverted to the east. Also often separated into Brooklawn Inner (inside the walls) and Brooklawn Outer (outside the walls). Fairly poor, slummy area. Brooklawn Outer is where much of the leatherworking and tanning happens, so smelly. Tanner's Gate separates Brooklawn Inner and Brooklawn Outer, and Brooklawn Inner is also referred to as Tannersgate.
+1. **Brooklawn:** East of Fairgate, a swampy and wet area where the [[Little River]] was dammed and diverted to the east. Also often separated into Brooklawn Inner (inside the walls) and Brooklawn Outer (outside the walls). Fairly poor, slummy area. Brooklawn Outer is where much of the leatherworking and tanning happens, so smelly. Tanner's Gate separates Brooklawn Inner and Brooklawn Outer, and Brooklawn Inner is also referred to as Tannersgate.
  
 1. **Bridgeward:** North of the Tollen Bridge, houses the largest market of the city.
  
@@ -42,9 +42,9 @@ District 9: poor -- slums, inside and outside the walls -- livestock and leather
  
 1. **Aesganstrad:** Name derives from Aesgan, a semi-mythical Skaegish hero who is said to have protected/resettled Tollen during the chaos after the Downfall. East and south along the river from Fiskurth, and with Fiskurth and Skepwalk the ancient core of the city. Best preserved of the ancient districts, now home to many of the craft guilds, especially the powerful dyer's guild.
  
-1. **Nordgate:** North of Aesganstrad, around the original north gate of Tollen, west of the university and the temple district. Now one of the major dwarven districts in the city.
+1. **[[Nordgate]]:** North of Aesganstrad, around the original north gate of Tollen, west of the university and the temple district. Now one of the major dwarven districts in the city.
  
-1. **Godshome:** east of Nordgate, along Temple Street where many different houses of worship to different gods are found.
+1. **Godshome:** east of [[Nordgate]], along Temple Street where many different houses of worship to different gods are found.
  
 1. **Magus Street:** near Godshome, where the University of Tollen is located, also the scholar's gate. Often just called Magus. 3. **Gold Street:** east along the river from Aesganstrad. Home to banks. 5. **Riversgate:** furthest east district, along the river. Also separated into Inner and Outer, with Riversgate Outer a center of timber trade coming down the Volta.
     

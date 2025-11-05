@@ -2,12 +2,12 @@
 
 A few events start the session, which begins on the 3rd Sunday in April (Day 8):
 
-### The Traveler's Rest
+### [[The Traveler's Rest]]
 
 Introduce the inn and the innkeeper. It is a Sunday morning, unseasonably warm and pleasant after a month of snow, rain, and bad weather. Over breakfast, innkeeper brings two letters.
 
 >[!info]+ Inns and Taverns in Roscombe
-> ***The Traveler's Rest.*** The only inn in Roscombe, a well-built two story building against the wall, near the South Gate (where the road from Valcroix enters town). Run by Bertrand LeBlanc, charming middle-aged man, with a personal connection to the Traveler. Efficient and organized, and a decent cook as well. 
+> ***[[The Traveler's Rest]].*** The only inn in Roscombe, a well-built two story building against the wall, near the South Gate (where the road from Valcroix enters town). Run by Bertrand LeBlanc, charming middle-aged man, with a personal connection to the Traveler. Efficient and organized, and a decent cook as well. 
 > 
 > ***The Raven's Roost.*** A popular tavern on the market square, where the locals hang out. Run by Madeline Brewer, a young woman, daughter of the old tavern keeper who died unexpectedly a few years ago. Madeline took over the family business and has been thriving. Known for their beer, and the primary brewer in town. 
 > 

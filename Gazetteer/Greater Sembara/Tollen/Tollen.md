@@ -86,13 +86,13 @@ After the [[Treaty of Marhavn|treaty of 4547]], Tollen prospers. Most of the Ska
 
 Magus Street: Often just called Magus. East of the old city ([[Fiskurth]], [[Skepwalk]], Aesganstrad), away from the river. In Drankorian times, home to small library and university outpost, which grew over time. Technically older than the University of [[Chardon]], although it was abandoned for a number of years after the fall of the [[Drankorian Empire]], and reestablished as Tollen returned to prosperity in the early days of [[Sembara]]. 
 
-Nordgate: North of Aesganstrad and east of [[Bridgeward]], around the original north gate of Tollen. Now one of the major dwarven districts in the city. 
+[[Nordgate]]: North of Aesganstrad and east of [[Bridgeward]], around the original north gate of Tollen. Now one of the major dwarven districts in the city. 
 
 ### The Sembaran City
 
 After the fall of the [[Drankorian Empire]], there was a major economic disruption in the [[Green Sea]], and Tollen suffered. The population of the city shrunk, the University drifted apart, and many Drankorian structures fell into disrepair. However, in the 5300s and 5400s, as [[Sembara]] grows, Tollen experiences a major economic boom, rapidly growing. 
 
-[[Godshome]]: West of Nordgate, along Temple Street where many different houses of worship to different gods are found. Grew around (some kind of religious complex pre-existing outside the walls in the Drankorian days, perhaps).
+[[Godshome]]: West of [[Nordgate]], along Temple Street where many different houses of worship to different gods are found. Grew around (some kind of religious complex pre-existing outside the walls in the Drankorian days, perhaps).
 
 [[Gold Street]]: West along the river from [[Bridgeward]]. Home to banks, and with [[Guildgate]] the heart of the growth boom experienced in pre-Great-War era. 
 
@@ -100,7 +100,7 @@ After the fall of the [[Drankorian Empire]], there was a major economic disrupti
 
 Fairgate: West of [[Guildgate]], inland from the [[Volta]]. [[Halflings|Halfling]] neighborhood, sometimes split into Fairgate Inner (inside walls) and Fairgate Outer (outside walls), as in the past hundred years or so the population has begun to spill out of the walls.
 
-Haurhill: rise of land, name means "hill hill" in Eastros and Westros. Height of land within Tollen and site of early fortifications (a Drankorian fort sat here, guarding the lumber yards at the confluence of the Little River and the [[Volta]]).
+Haurhill: rise of land, name means "hill hill" in Eastros and Westros. Height of land within Tollen and site of early fortifications (a Drankorian fort sat here, guarding the lumber yards at the confluence of the [[Little River]] and the [[Volta]]).
 
 ### The Current City
 
@@ -112,7 +112,7 @@ Fenslane: south side of the [[Volta]], upriver (west) from [[Southbridge]], alon
 
 Tideswell: south side of the [[Volta]], upriver (west) from Fenslane. A marshy area that floods on the high tide, mix of poorer/slums and [[Lizardfolk]] communities.
 
-Brooklawn: West of Haurhill, a swampy and wet area where the Little River was dammed and diverted into a canal. Also often separated into Brooklawn Inner (inside the walls) and Brooklawn Outer (outside the walls). Fairly poor, slummy area. Brooklawn Outer is where much of the leatherworking and tanning happens, so smelly. Tanner's Gate separates Brooklawn Inner and Brooklawn Outer, and Brooklawn Inner is also referred to as Tannersgate.
+Brooklawn: West of Haurhill, a swampy and wet area where the [[Little River]] was dammed and diverted into a canal. Also often separated into Brooklawn Inner (inside the walls) and Brooklawn Outer (outside the walls). Fairly poor, slummy area. Brooklawn Outer is where much of the leatherworking and tanning happens, so smelly. Tanner's Gate separates Brooklawn Inner and Brooklawn Outer, and Brooklawn Inner is also referred to as Tannersgate.
 
 Riversgate: furthest west district, along the river. Also separated into Inner and Outer, with Riversgate Outer a center of timber trade coming down the [[Volta]].
 
@@ -122,7 +122,7 @@ Only one bridge spans the [[Volta]]. The Tollen Bridge, the ancient Drankorian b
 
 There are eight gates in the current walls, from east to west: Old Gate, Scholar's Gate, North Gate, Temple Gate, Guild Gate, Fair Gate, Tanner's Gate, River Gate.
 
-Old Gate stands where the original pre-Skaer mariner fortication stood, defending the harbors of [[Skepwalk]]. But of course has been rebuilt many times. Scholar's Gate and North Gate are part of the original Drankorian stone wall. The fourth Drankorian Gate was demolished when the city expanded after the fall of [[Drankorian Empire|Drankor]]. North Gate, Temple Gate, Guild Gate, and Fair Gate are part of the pre-Great-War boom time walls. Tanner's Gate and River Gate are the most recent additions after the wall expanded west once more. 
+Old Gate stands where the original pre-Skaer mariner fortication stood, defending the harbors of [[Skepwalk]]. But of course has been rebuilt many times. Scholar's Gate and North Gate are part of the original Drankorian stone wall. The fourth Drankorian Gate was demolished when the city expanded after the fall of [[Drankorian Empire|Drankor]]. North Gate, Temple Gate, Guild Gate, and Fair Gate are part of the pre-Great-War boom time walls. Tanner's Gate and River Gate are the most recent additions after the wall expanded west once more.  %% note - maybe keep only North Gate as part of the original walls, with the old Drankorian scholar's gate replaced with a new gate after walls pushed east to accomodate university growth%%
 ## Governance and Laws
 
 Tollen is an open city: there are no tolls to enter, and the gates are kept open from dawn until dusk. There are fees, tolls, and tariffs on goods crossing through Tollen, market sellers, and considerable income is made via licensure of guilds and other professions and crafts. But from an adventurer's perspective, there is little to stop someone from wandering in. 

@@ -1,20 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/check/ai]
+tags: [place, status/check/metadata]
 name: Little River
 typeOf: river
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
 ---
+# The Little River
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Tollen %%
+%% fix whereabouts, needs a Volta watershed page %%
 
-The Little River is a minor watercourse threading the lanes and workshops of [[Tollen]]’s eastern districts before joining the larger waterways of the Wistel–Enst system. Its banks host small mills, dyers’ sheds, and narrow footbridges where students and tradesfolk cross between alleys.
-
-Seasonal freshets swell the channel in spring, while summer reduces it to a manageable flow that exposes shoals used for washerwomen’s stones. City wardens maintain simple weirs and sluices to manage runoff after storms.
-
-%%
-DM notes and campaign references
-- Treated as local color in Tollen district material; no major PC interactions recorded.
-%%
+The Little River is a minor watercourse, now channeled into a canal, that flows through [[Brooklawn Inner]] before joining the [[Volta]]. Inside the city, the Little River is crossed by numerous bridges over the canal. Before it enters the city, it forms the boundary between [[Brooklawn Outer]] and [[Fairgate Outer]]; this is the center of the tannery and leatherworking districts of the city, and dyers’ sheds and other infrastructure dots the river's edge. 

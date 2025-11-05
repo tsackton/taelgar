@@ -65,7 +65,7 @@ The basic vibe is four regions, in red, though there are five earls. These are d
 
 Green is roughly population density. Highest settlement is along the Aure, and the western tributaries, especially the Velan. Lighter settlement in the surrounding highlands and borderlands, though here I suspect it goes southern borders > westcliff > eastern highlands. 
 
-Orange is supposed to generally indicate fortification density. The southern reaches have always been fortified against the Darkwood, and even more so post-Great-War (so the earl of the south is really a military commander); this drives higher settlement density here to support armies. Although Addermarch armies are not actually state armies they are whatever troops the earl can muster. I kind of imagine there must be cross-earldom deals that basically support the southern earl with funds from the richer heartlands otherwise the plaguelands castles couldn't be sustained. 
+Orange is supposed to generally indicate fortification density. The southern reaches have always been fortified against the [[Darkwood]], and even more so post-Great-War (so the earl of the south is really a military commander); this drives higher settlement density here to support armies. Although Addermarch armies are not actually state armies they are whatever troops the earl can muster. I kind of imagine there must be cross-earldom deals that basically support the southern earl with funds from the richer heartlands otherwise the plaguelands castles couldn't be sustained. 
 
 The lesser fortification density to the west and northwest is mostly not maintained, and dates to Avatus or the hobgoblin wars. A key part of my Addermarch game is that the earl of westcliff has not be investing in defenses, and many of the old avatus castles are now ruins to explore. But also this is bordering massau, and the plaguelands frontier in this direction is a ways south, so this is not necessarily a bad decision. 
 
@@ -104,13 +104,13 @@ South of Adderfell, the Aure runs swiftly from its source in [[Darkwood]], and t
 %% 
 Also mid-Atlantic Appalachians but very wooded.
 
-The basic geography is that the western edge of the Darkwood forms a basin (the Shadowmere), out of which flows the Mournebrook (not mapped) across forested flat land to join the Aure a little north of where it exits the Darkwood. Few travel south of this confluence. 
+The basic geography is that the western edge of the [[Darkwood]] forms a basin (the Shadowmere), out of which flows the Mournebrook (not mapped) across forested flat land to join the Aure a little north of where it exits the [[Darkwood]]. Few travel south of this confluence. 
 
 To the east, the land begins to gently rise in a series of rolling hills (think maybe Berkshires, not mountains). These are wooded, but it is a more open, less scary wood, and some timber, charcoal, and other wood products are exported via Tygate to Adderfell from here. This basically the unnamed tributary of the [[Branth]]. 
 
 As you go further east the land gets more rocky, and higher elevation, until you meet the north-south ridge that forms the Tyrwinghan border and is much higher elevation. 
 
-The fortifications here really are probably more oriented towards the Darkwood than the Plaguelands; to a certain extent the rough terrain is presumed to be a significant barrier to anything trying to cross into Addermarch here. 
+The fortifications here really are probably more oriented towards the [[Darkwood]] than the Plaguelands; to a certain extent the rough terrain is presumed to be a significant barrier to anything trying to cross into Addermarch here. 
  
 %%
 #### Eastern Highlands
@@ -152,7 +152,7 @@ This long stasis shifts dramatically when [[Avatus]] invades [[Sembara]] in the 
 
 When [[Derik I]] marches at the head of the combined armies of [[Sembara]] and [[Tyrwingha]], the earls of Addermarch quickly join, and in support of the war establish [[Derik I]] as the overking of Addermarch. Over the next hundred years or so, a close relationship between Addermarch and [[Sembara]] develops. While the earls of Addermarch never become vassals of the Sembaran crown, when [[Derik I]] dies, [[Derik II]] is acknowledged as overking of Addermarch, a tradition that continues through the reigns of [[Charlotte I]] and [[Derik III]]. During the [[Great War]], the armies of [[Sembara]] and Addermarch fight together as one. 
 
-%% The intention here is that Addermarch fits into the "Greater Sembara" narrative of the pre-Great-War years as basically a close ally; Sembara never has any meaningful role in the internal affairs of Addermarch -- Addermarch doesn't have a strong monarch in any case -- but functionally for "defense against monsters and evil" the Sembaran monarch is the boss. I think Sembara probably also contributes funds towards building fortifications and repairing fortifications along the Darkwood in this time as well. But, once Derik III dies, this all kind of falls apart. Possibly made worse by Sembara's relative lack of aid in the various plaguelands dangers that hit Addermarch hard.%%
+%% The intention here is that Addermarch fits into the "Greater Sembara" narrative of the pre-Great-War years as basically a close ally; Sembara never has any meaningful role in the internal affairs of Addermarch -- Addermarch doesn't have a strong monarch in any case -- but functionally for "defense against monsters and evil" the Sembaran monarch is the boss. I think Sembara probably also contributes funds towards building fortifications and repairing fortifications along the [[Darkwood]] in this time as well. But, once Derik III dies, this all kind of falls apart. Possibly made worse by Sembara's relative lack of aid in the various plaguelands dangers that hit Addermarch hard.%%
 
 After the [[Great War]], Addermarch suffers during the chaos of the early part of the [[Blood Years]]. After Derik III's death, neither [[Bertram I]] nor [[Jane of Tollen]] are  acknowledged as overking (in part because in Addermarch there is no real concept of regency, in part because they are seen as out of touch with the dangers of the [[Plaguelands]]), and Addermarch turns inward. The next forty years are a dark time, plagued with constant threats from the south. 
 
@@ -200,7 +200,7 @@ Settlements include:
 
 The people of Addermarch are, in many ways, like the people of southern Sembaran and Tyrwingha. They worshop [[Mos Numena]], following the Sembaran customs to a large extent, and they speak Sembaran (with a southern dialect; unlike in Tyrwingha to the east, there is no lingering pockets of people speaking the ancient tongues, although ancient inscriptions in the Old Tollish script can be found). 
 
-The land is hard, especially in the hills and mountains, and the people of Addermarch are largely independent, insular, and self-sufficient. Travel is difficult, and the constant danger of the tricksy fey from the Darkwood and other dangerous places keeps people on guard against strangers and unusual happenings. There are fewer [[Dwarves|dwarves]] than one might expect, but more [[Elves|elves]], mostly from [[Orenlas]], and [[Lizardfolk|lizardfolk]], mostly from the [[Ozabal]] and [[Latazaro]] swamps. 
+The land is hard, especially in the hills and mountains, and the people of Addermarch are largely independent, insular, and self-sufficient. Travel is difficult, and the constant danger of the tricksy fey from the [[Darkwood]] and other dangerous places keeps people on guard against strangers and unusual happenings. There are fewer [[Dwarves|dwarves]] than one might expect, but more [[Elves|elves]], mostly from [[Orenlas]], and [[Lizardfolk|lizardfolk]], mostly from the [[Ozabal]] and [[Latazaro]] swamps. 
 
 The population of Addermarch is very rural. There is only one significant city, [[Adderfell]], and while small market towns (often fortified) dot the landscape, most people live in small villages or isolated homesteads. 
 
@@ -236,7 +236,7 @@ Note that the Earls of Adderfell and Aure control typically by far the richest a
 
 The Earl of Westcliff and the Earl of the Southern Reaches are next, though in the 1710s-1720s the vibe of Westcliff is kind of benign neglect of the highlands and a strong focus on developing the lowlands, which has led to a lot of castles falling into ruin. But this has not really mattered as the western border is not to dangerous in this time perriod. 
 
-The Earl of the Southern Reaches must get some kind of tithe or stipend from the Earl's Court to support the common defense, as there is certainly not enough wealth in their domain to support the Darkwood fortifications themselves. In my non-canonical Plaguelands campaign, the Earl of Addermarch provided significant support to the south, FWIW. 
+The Earl of the Southern Reaches must get some kind of tithe or stipend from the Earl's Court to support the common defense, as there is certainly not enough wealth in their domain to support the [[Darkwood]] fortifications themselves. In my non-canonical Plaguelands campaign, the Earl of Addermarch provided significant support to the south, FWIW. 
 
 Earl of HIghlands is poorest, at least in the 1710s. This is both sparsely populated and thought to be safe (borders Tyrwingha), so is neglected. 
 
