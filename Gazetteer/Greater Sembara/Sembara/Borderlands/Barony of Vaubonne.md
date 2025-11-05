@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [placeo]
 campaignInfo:
 name: Barony of Vaubonne
 typeOf: barony
