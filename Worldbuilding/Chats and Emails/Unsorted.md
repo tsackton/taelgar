@@ -2741,7 +2741,7 @@ For (b) - yes, that is good to do. you might grab my dataview query from the Cos
 
 12:51 PM
 
-For (c) - Rivers: KYLE sketch pencil rough (1 or 2), play with size, flow; color #181f5a
+For (c) - Rivers: KYLE sketch pencil rough (1 or 2), play with size, flow; color `#181f5a`
 
 
 
