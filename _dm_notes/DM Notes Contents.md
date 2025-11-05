@@ -40,4 +40,4 @@ Campaigns are in directories starting with `_` so they will sort to the top. The
 
 ## Other Directories
 
-`Old Mechanics`: Contains a bunch of old notes on mechanics/homebrew, that Tim worked on from 2019 - 2022, roughly. These notes are mostly kept for posterity/curiousity. 
+`Mechanics/Old Mechanics`: Contains a bunch of old notes on mechanics/homebrew, that Tim worked on from 2019 - 2022, roughly. These notes are mostly kept for posterity/curiousity. 

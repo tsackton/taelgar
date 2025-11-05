@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/tim]
+tags: [organization, status/check/mike]
 name: Army of Mostreve
 typeOf: army
 dm_notes: none
@@ -11,9 +11,9 @@ dm_owner: mike
 > An army  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
+%% bouncing back to status/check/mike with a comment %%
+
 The Army of Mostreve is a 1200-strong, divided into three companies, garrisoned along the [[Mostreve Hills]] - the garrison of the Aben, in the headwaters of the Aben River, the garrison of Cyfarthfa closest to the capital, and the garrison of Deganwy on the borders of Addermarch. The Aben garrison sees action most years, and is a gathering spot for [[The Rangers]].
-
-
 
 The army is led by the fearsome eldritch knights and an elite cadre of warlocks (arcane magic is more common here than anywhere else in Greater Sembara to a significant degree). The Army was organized by [[Derik I]] after his victories over the [[Dominion of Avatus]], and it today provides a significant route of social mobility -- but also integration into the Sembaran nobility and upper classes, as many Sembarans serve in this army alongside the Tyrwinghan knights.
 
@@ -21,4 +21,8 @@ The army is led by the fearsome eldritch knights and an elite cadre of warlocks 
 The relationship between this army and Sembara needs rethinking in light of recent invention around how infrequently they have been actually same ruler 
 Facts should stay basically the same, but it may be more directly under control of Tyrwinghan Oracle, or have some logical divisions about Sembaran and non-Sembaran troops;
 also if it is a Sembaran army, what happens when Tyrwingha is not ruled by Sembara?
+
+Tim adding: my gut feeling is that since Tyrwingha and Sembara were never actually unified in any practical sense beyond the personal union of the crowns, it is unlikely the Tyrwinghan army would actually be integrated with the Sembaran army in any meaingful way. That is not to say that Tyrwinghan and Sembara regiments wouldn't both serve together in the same war, but the administrative organizations would not be merged. This would basically require removing the last line about integration, and rephrasing a little to make clear this is actually basically the Tyrwinghan army. But I don't know if that fits with facts on the ground in your game.
+
+
 %%
