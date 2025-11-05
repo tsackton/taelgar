@@ -1,4 +1,4 @@
-Vahaiya is in Adderfell with [[Emilie]], [[Remille Vauclaire]], and [[Tristan Vaudrillard]] after a recently completed adventure of some sort in the Darkwood area on Jan 3rd, but with plans to head north to [[Barony of Estrive]] to accompany [[Remille Vauclaire]] to some family or similar event after ~TravellerLeaveTakingHoliday~
+Vahaiya is in Adderfell with [[Emilie]], [[Remille Vauclaire]], and [[Tristan Vaudrillard]] after a recently completed adventure of some sort in the [[Darkwood]] area on Jan 3rd, but with plans to head north to [[Barony of Estrive]] to accompany [[Remille Vauclaire]] to some family or similar event after ~TravellerLeaveTakingHoliday~
 
 Receives magical communication of problems on Jan 7th, and heads north immediately towards Rinburg. Meets up with two other Ranger groups ([[Adra Brightwood]] and her group, and ~some dead person~ and his group) in Vaubonne.
 

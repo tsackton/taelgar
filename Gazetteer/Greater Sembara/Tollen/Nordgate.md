@@ -1,21 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, status/check/ai, place]
+tags: [place]
 name: Nordgate
 typeOf: district
 whereabouts: Tollen
 dm_owner: none
-dm_notes: color
+dm_notes: none
 ---
-
 # Nordgate
-Nordgate is a historic district of [[Tollen]] clustered around the original north gate of the city. In the modern era it is known as a center of dwarven life, with stonecutters, smiths, and inns catering to travelers from the [[Sentinel Range]].
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-## Character and Streets
-Workshops line narrow courtyards; beer‑cellars and stone‑fronted taverns serve hearty fare. Many buildings incorporate older Drankorian foundations, giving Nordgate a layered look of brick over dressed stone.
 
-## Neighbors
-Nordgate lies east of [[Bridgeward]] and north of the approaches to [[Godshome]], with steady foot traffic between them.
+Nordgate is a historic district of [[Tollen]], clustered around the original north gate of the city, first extensively developed during the [[Drankorian Era]], when the first stone walls around Tollen were constructed. In the modern era it is known as a center of dwarven life, with stonecutters, smiths, and inns catering to travelers, especially dwarves from near and far. 
+
+In Nordgate, workshops line narrow courtyards; beer‑cellars and stone‑fronted taverns serve hearty fare. Many buildings incorporate older Drankorian foundations, giving Nordgate a layered look of brick and timber over dressed stone.
+
+Nordgate lies east of [[Bridgeward]] and north of the approaches to [[Godshome]], with steady foot traffic between them. In this section of the city, the original stone walls, repaired and rebuilt many times, still stand, and the [[North Gate (Tollen)|North Gate]] is one of the oldest still-extant gates of [[Tollen]]. 
 
 %%
 DM notes

@@ -30,7 +30,7 @@ Beyond the second river crossing is officially "wild", and the east side of the 
 
 Defenses:
 
-The Earl of Addermarch maintains a series of defensive fortifications spaced roughly 15 miles apart in a line running east from the Darkwood. The area west of the Darkwood has no developed fortifications, but is loosely patrolled by Rangers. Darkwood Keep is the largest and most important defensive point, as it guards the low point and most passable zone into Addermarch (the hills get steeper and rougher to the east), and also provides some protection against whatever may come out of the Darkwood.
+The Earl of Addermarch maintains a series of defensive fortifications spaced roughly 15 miles apart in a line running east from the [[Darkwood]]. The area west of the [[Darkwood]] has no developed fortifications, but is loosely patrolled by Rangers. [[Darkwood]] Keep is the largest and most important defensive point, as it guards the low point and most passable zone into Addermarch (the hills get steeper and rougher to the east), and also provides some protection against whatever may come out of the [[Darkwood]].
 
 Settlements:
 

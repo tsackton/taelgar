@@ -42,7 +42,7 @@ The Mostreve Hills, then, can be divided into a number of overall regions based 
 * The [[Westcliff]] Ridge and associated hills
 * The western Aure river valley, where the hills are gentler and rolling and typically wooded except where cleared for pasture and orchards. This is a land of rushing river valleys broken by rugged, hilly forests, but with few truly high peaks. 
 * The eastern Aure river valley and nearby foothills, between the [[Valenfray Hills]] and the [[Maerwyn Mountains]], where the soil is poorer and the land is  grasslands mixed with rocky outcroppings
-* The Darkwood itself, between the [[Westcliff]] and [[Valenfray Hills]], and stretching south beyond the reach of the Mostreve Hills
+* The [[Darkwood]] itself, between the [[Westcliff]] and [[Valenfray Hills]], and stretching south beyond the reach of the Mostreve Hills
 * The Tyrwinghan foothills, between [[Maerwyn Mountains|Maerwyns]] and the ~Tyrwinghan Hiills~, a land of rolling forested hills
 * The Tyrwinghan highlands, along the eastern side of the [[Maerwyn Mountains|Maerwyns]], a land of high occasionally snowcapped peaks and difficult to pass valleys
 

@@ -1,19 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/check/ai]
+tags: [place]
+displayDefaults: {defArt: ""}
 name: The Traveler's Rest
 typeOf: inn
 whereabouts: Roscombe
 dm_owner: tim
-dm_notes: color
+dm_notes: none
 ---
-
 # The Traveler's Rest
-The Traveler’s Rest is Roscombe’s principal inn, a sturdy two‑storey house set against the southern wall near the gate from [[Valcroix]]. It offers clean beds, hot meals, and reliable stabling for caravans arriving over the ridge road. The common room doubles as neutral ground where drovers, merchants, and messengers trade news over supper.
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Run by Bertrand LeBlanc—an affable, efficient host with a rumored connection to the Wanderer—the inn has a reputation for fair dealing and a well‑kept cellar. A small shrine‑niche by the hearth bears travelers’ tokens and wayfarers’ prayers.
+The Traveler’s Rest is Roscombe’s principal inn, a sturdy two‑storey house set against the southern wall, near the gate and the road to [[Valcroix]]. It offers clean beds, hot meals, and reliable stabling for the occasional travelers from river valleys around the [[Velan]] and the [[Umber]], including several rooms on the ground floor reserved for halflings.
 
-%% inn in Roscombe %%
+Run by [[Bertrand LeBlanc]], an affable, efficient host, the inn has a reputation for fair dealing and a well‑kept cellar. 
 
 %%
 DM notes and campaign references

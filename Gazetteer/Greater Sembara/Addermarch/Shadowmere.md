@@ -13,4 +13,4 @@ dm_notes: color
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% west of darkwood %%
+%% west of [[darkwood]] %%

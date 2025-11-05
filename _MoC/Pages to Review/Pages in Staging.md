@@ -1,3 +1,7 @@
+The `Staging` directory in `Worldbuilding` is used as a place to put notes that describe something that canonically exists, but is not ready to be incorporated into the main directory structure for whatever reason. 
+
+Places that are not backlinked from any canonical page should go in `Brainstorming` or `Tentative`, not `Staging`, or be linked from a canonical page, at least in a comment.
+
 This note organizes pages in the staging directory that are linked from specific vault locations to facilitate review and cleanup. 
 ## Dunmari Frontier Staging - Unique
 
@@ -22,7 +26,16 @@ SORT length(file.inlinks) DESC
 ```dataview
 TABLE 
     length(file.inlinks) as Backlinks, 
-  contains(file.tags, "status/check/ai") AS "AI Text"
+  contains(file.tags, "status/check/ai") AS "AI Text",
+  (
+    length(
+      filter(
+        file.inlinks,
+        (b) => contains(b.file.path, "Dunmari Frontier Campaign")
+      )
+    )
+    = length(file.inlinks)
+  ) AS Unique
 FROM "Worldbuilding/Staging"
 WHERE any(filter(file.inlinks, (b) => contains(meta(b).path, "Dunmari Frontier Campaign")))
 SORT length(file.inlinks) DESC
@@ -55,7 +68,16 @@ SORT length(file.inlinks) DESC
 ```dataview
 TABLE 
     length(file.inlinks) as Backlinks, 
-  contains(file.tags, "status/check/ai") AS "AI Text"
+  contains(file.tags, "status/check/ai") AS "AI Text",
+  (
+    length(
+      filter(
+        file.inlinks,
+        (b) => contains(b.file.path, "Great Library Campaign")
+      )
+    )
+    = length(file.inlinks)
+  ) AS Unique
 FROM "Worldbuilding/Staging"
 WHERE any(filter(file.inlinks, (b) => contains(meta(b).path, "Great Library Campaign")))
 SORT length(file.inlinks) DESC
@@ -89,7 +111,16 @@ SORT length(file.inlinks) DESC
 ```dataview
 TABLE 
     length(file.inlinks) as Backlinks, 
-  contains(file.tags, "status/check/ai") AS "AI Text"
+  contains(file.tags, "status/check/ai") AS "AI Text",
+  (
+    length(
+      filter(
+        file.inlinks,
+        (b) => contains(b.file.path, "Cleenseau Campaign")
+      )
+    )
+    = length(file.inlinks)
+  ) AS Unique
 FROM "Worldbuilding/Staging"
 WHERE any(filter(file.inlinks, (b) => contains(meta(b).path, "Cleenseau Campaign")))
 SORT length(file.inlinks) DESC
@@ -169,6 +200,28 @@ SORT length(file.inlinks) DESC
 
 ```
 
+
+## Staging Linked to Specific Directory
+
+Currently: Cosmology
+
+```dataview
+TABLE 
+    length(file.inlinks) as Backlinks, 
+  contains(file.tags, "status/check/ai") AS "AI Text",
+  (
+    length(
+      filter(
+        file.inlinks,
+        (b) => contains(b.file.path, "Cosmology")
+      )
+    )
+    = length(file.inlinks)
+  ) AS Unique
+FROM "Worldbuilding/Staging"
+WHERE any(filter(file.inlinks, (b) => contains(meta(b).path, "Cosmology")))
+SORT length(file.inlinks) DESC
+```
 
 ## AI Text to Review
 
