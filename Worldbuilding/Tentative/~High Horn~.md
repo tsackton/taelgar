@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, status/check/ai, place]
+tags: [place]
 name: High Horn
 typeOf: mountain pass
 whereabouts: Zimkova
@@ -8,6 +8,9 @@ dm_owner: none
 dm_notes: none
 ---
 
+Moved to tentative as, while there were "Battles of High Horn" in the old Great War campaign, it is not clear where this stands w/r/t current development of the Greater Sembara highlands. It is not necessarily clear there should or must be a canonical High Horn in this area. 
+
+%% AI GENERATED
 # High Horn
 High Horn is a high, wind‑scoured pass across the Sembaran highlands, linking the Zimkova frontier with approaches toward the Highland Kingdoms. It is one of the limited traversable saddles in the central spine between the Western Marches and the northern uplands, and has long served drovers, couriers, and small caravans seeking a straighter line than the coastal roads.
 
@@ -18,6 +21,8 @@ High Horn has been known since early Drankorian times as a seasonal alternative 
 
 ## Hazards
 Rock fall, sudden whiteouts, and banditry are the chief hazards. In years of border tension, patrols from either side may restrict movement. Travellers typically cross in small, well‑provisioned groups and avoid the height of winter.
+
+%%
 
 %% some possible old notes from high school to reuse %%
 %% pass in the Sembaran highlands %%
