@@ -1,3 +1,6 @@
+
+Partially invented fey for the Addermarch game. Lots of vibes and details have come up in play and in backlinks. Some metaphysics and politics still to work out. 
+
 # Morlaith
 
 ## Overview
