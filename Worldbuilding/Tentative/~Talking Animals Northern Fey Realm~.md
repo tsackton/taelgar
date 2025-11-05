@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/name, place]
+tags: [place]
 typeOf: realm
 whereabouts: Feywild
 dm_owner: none
@@ -12,7 +12,7 @@ dm_notes: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 
-%% Largely undefined - may not necessarily exist 
+Largely undefined - may not necessarily exist 
 
 A fey realm north of Duskmire centered on the highland regions of the eastern Sentinels. Currently only needs to exist and be powerful enough to act as a serious constraint on Umbraeth's ambitions.
 
@@ -25,4 +25,3 @@ Nature's Lair
 Awakened Den
 Nature's Awakening
 
-%%
