@@ -30,6 +30,6 @@ Wulfram was the temple steward of [[The Warlord]] at [[Torvaine Watch]], who urg
 
 %% DM (sources)
 
-Letter: [[Session 2 - DM Notes.md]]
+Letter: [[Session 2 - DM Notes]]
 
 %%

@@ -16,6 +16,6 @@ Run by Bertrand LeBlanc—an affable, efficient host with a rumored connection t
 
 %%
 DM notes and campaign references
-- Featured as the default lodging and meeting place for upland trade in Addermarch prep (see Roscombe tavern notes in [[_dm_notes/_Addermarch/Adventure 2 - Caves of the Cockatrice]]).
+- Featured as the default lodging and meeting place for upland trade in Addermarch prep (see Roscombe tavern notes in [[Adventure 2 - Caves of the Cockatrice]]).
 - Owner: Bertrand LeBlanc. Tone: respectable, orderly; good food; common room as rumor hub.
 %%

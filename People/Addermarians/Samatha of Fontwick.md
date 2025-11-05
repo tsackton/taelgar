@@ -30,6 +30,6 @@ Samantha is a dairy farmer from [[Fontwick]], a small village west of [[Roscombe
 
 %% DM (PC interactions and sources)
 
- DM Notes: [[Adventure 4 - Into the Underdark.md]]
+ DM Notes: [[Adventure 4 - Into the Underdark]]
  
 %%

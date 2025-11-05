@@ -50,5 +50,5 @@ Pragmatic and unflappable; favors diplomacy and delegation. Values competence, l
 - Household guard under [[Gareth Howell]] for patrol and rapid response.
 
 %% DM (PC interactions and sources)
-- Campaign correspondence and invitation: [[Adventure 2 - Caves of the Cockatrice.md]] (sealed letter; “doo‑VAL”).
+- Campaign correspondence and invitation: [[Adventure 2 - Caves of the Cockatrice]] (sealed letter; “doo‑VAL”).
 %%

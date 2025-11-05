@@ -9,6 +9,5 @@ Morlaith is referenced by Addermarch lore as a briar‑bound, old‑world fey pr
 ## In Addermarch Play
 - Cited in connections to the Haldrenn “Fey Incursion” hook involving a Singing Tree and missing villager.
 
-aliases: [Briarheart]
+aliases: Briarheart
 
-%% DM: The Haldrenn adventure notes identify the Singing Tree as an incursion from Morlaith and outline a path into that domain (see [[Adventure 5 - Fey Incursion|Adventure 5 - Fey Incursion]]). %%

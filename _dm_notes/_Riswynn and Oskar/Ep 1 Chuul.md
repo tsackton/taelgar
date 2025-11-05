@@ -8,7 +8,7 @@ Premise: mining under Tharn Todor has uncovered secret ancients runes and a lost
 > 
 >Knows Riswynn and Oskar; Lives in Tharn Todor.
 >
->Has a handle of very old coins (from Hkar) and a statue of the ancient aboleth Xeron.
+>Has a handle of very old coins (from Hkar) and a statue of the ancient aboleth [[Xeron]].
  
 Resolution: party killed slime monster cursed by aboleth for disturbing him, rescued dwarves except one who died
  
@@ -21,10 +21,10 @@ Adventure occurred on May 7th - May 10th 1748.
  
 Mine forperson is named Bailon, a dwarven woman
  
-The aboleth is named Xeron.
+The aboleth is named [[Xeron]].
  
 **Treasure:**
  
 Oskar: 65 gp (ADDED TO SHEET)  
-Agnor: a golden idol of Xeron, a handful of very, very old coins from Hkar or around  
+Agnor: a golden idol of [[Xeron]], a handful of very, very old coins from Hkar or around  
 Riswynn: add a handful of gold to her character sheet (DONE)
