@@ -1,58 +1,31 @@
-[meta: this is more of a roleplaying opportunity but it could definitely impact the plot, so worth trying to finish up before next game]
-
-  
-
 The Duke's command tent is fine and functional, and as the afternoon light wanes Celyn, Robin, and Viepuck find themselves gathered in the back of the tent, along with about dozen clerks, guards, courtiers, and hangers-on. The Duke is holding court, and Marcel, the captain of the guard, has invited the party for an audience when the court's business has finished. 
-
-  
 
 The Duke starts with an announcement. He, and his immediate court will be departing for Embry as the sun sets, with urgent business with the King. He is leaving behind Marcel and three regimental captains, and the bulk of the army, to help reestablish order along the Enst. He is bringing a small contingent with him to Embry, and sending home the soldiers he borrowed from the least prepared places. He reads a missive, to his barons and lords, which he is distributing far and and wide, which reads, slightly summarized: 
 
-  
-
 Protect your people, and keep them safe. Guard your lands and homes and villages. Make sure the crops are planted come spring. I am your liege and your lord, and if anyone, be they monster, fairy, god, or king orders you to do else, to leave your people unguarded, send for me.
-
-  
 
 He seems furious at the lose of life the skeletons caused, and more so the mismanagement of it.
 
   
-
-[Meta: Within the Duchy of Wisford, the Duke is sworn to the king, but the barons of Wisford are sworn to the Duke. Outside the duchies, the barons are sworn directly to the king. So some barons are feudal vassals of the Duke, whereas other barons are feudal vassals of the King direct. He is speaking here to his vassals - which notably, **does not** include Cleenseau or Aveil]
-
-  
+%%
+Within the Duchy of Wisford, the Duke is sworn to the king, but the barons of Wisford are sworn to the Duke. Outside the duchies, the barons are sworn directly to the king. So some barons are feudal vassals of the Duke, whereas other barons are feudal vassals of the King direct. He is speaking here to his vassals - which notably, **does not** include Cleenseau or Aveil
+%%
 
 With that announcement, he announces his only official order of court business: resolving the disputed succession of the Barony of Fellburn. At this point the twins you saw earlier on the wall, Lord Hubert Moreau and his sister, Lady Elise Moreau, step forward. Whatever retinues they had brought with them don't seem to be around, and the Duke turns to Lord Moreau.
 
-  
-
 "Lord Hubert, you stand accused of dereliction of duty and unfitness to lead. Your sister claims that despite your father's wish that you inherit, your actions in the recent difficulties directly led to your father's death, and thus prove you are unfit for this solemn responsibility." The Duke pauses, and holds Lord Moreau's eyes. "Your family has served mine for four generations. We stood together under the Singing Tree and heard the song of hope, after your mother died. You carry my grandfather's sword. I owe you. You owe me. Before the gods and my court tell me what is true." The Duke's speech is compelling, you can feel the weight of his command, his loyalty, the power of his voice. He is _good_ at this. 
-
-  
 
 Lord Moreau holds the Duke's eye for a minute, then bows his head. "I cannot deny the charge, although", he glances at this sister, "some would not have spread the tale so widely" (clearly, he is somewhat bitter at her). And so he tells a tale of mishap and misfortune. The details are not overly important, but the gist is that he panicked in the first moments, when the skeletons started rising, and fled, and ordered the gates of the city closed while farmers in the fields, and, his father, visiting one the family estates were kept out and slaughtered by the skeletons. It was only after his father's death, and as the death toll grew, that his sister and several others countermanded him and rode out to rescue who they could.
 
-  
-
 His story is slow to be told, with some excuses, and hemming and hawing. At the end, the Duke is silent for a moment. He looks saddened more than anything. He asks if Elise, or anyone else wishes to speak, and the scattered folks are quite. Elise only says, softly:  "Don't forget my father is dead." Which seems to pierce Hubert's heart as she speaks, and he looks pained.
-
-  
 
 The Duke glances up at that, a flash of emotion - perhaps anger? - on his face, and after another moment he continues. 
 
-  
-
-"This is my judgement: The Barony of Fellburn shall fall to Lady Elise Moreau, may she serve in honor and health. Lord Moreau, I judge your actions foolish and ill, and yes, cowardly, but not, I think, treasonous. I sentence you thus: leave here with your horse and sword and a hundred doubles [meta: ~150 gp]. Find bravery and better judgement in the wide world. Return to me at Wisford when you are wiser. Until then, you must not be seen in the Duchy. Should you not accept this judgement, you may appeal to the royal court, as is your right" He pauses again and ends more softly. "I hope you find wholeness and healing as well. I have not forgotten your father is dead."
-
-  
+"This is my judgement: The Barony of Fellburn shall fall to Lady Elise Moreau, may she serve in honor and health. Lord Moreau, I judge your actions foolish and ill, and yes, cowardly, but not, I think, treasonous. I sentence you thus: leave here with your horse and sword and a hundred doubles. Find bravery and better judgement in the wide world. Return to me at Wisford when you are wiser. Until then, you must not be seen in the Duchy. Should you not accept this judgement, you may appeal to the royal court, as is your right" He pauses again and ends more softly. "I hope you find wholeness and healing as well. I have not forgotten your father is dead."
 
 After this memorable seen, most of the courtiers and scribes disperse, to carry out the Duke's commands, and make the camp ready to leave, when Marcel presents you to the Duke:
 
-  
-
 "Your Highness, may I present Celyn, of Tyrwingha, Robin, of Abenfyrd in Tyrwingha, and Viepuck, of Embry, Robin's page. All lately from Cleenseau, where they have gained some acclaim for their deeds. This one" he points at Robin "is blessed of the Wanderer and slew a monstrous large skeleton with the strength of his devotion, I hear."
-
-  
 
 The Duke looks up, and murmurs a few words of thanks. "My gratitude for your actions, both hear and across the realm. The duchy is of course my primary responsibility, but all good souls must pull together in these times. If there is anything I can do for you, please let me know, although I must hurry to Embry. Will you be returning to Cleenseau? Is Wymar Essford still lord there? He knew my father, in the wars."
 
