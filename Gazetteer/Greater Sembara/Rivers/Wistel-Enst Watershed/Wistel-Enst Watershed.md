@@ -19,7 +19,7 @@ The Wistel–Enst watershed drains much of southern and central [[Sembara]], car
 
 - Enst system: The [[Enst]] is a cold, rocky river forming much of Sembara’s southern frontier. Above [[Cleenseau]] it splits into the “Three Fingers”: [[Enst (North Fork)]], [[Enst (Middle Fork)]], and [[Enst (South Fork)]], which rejoin near [[Lysandale]]. Key Enst tributaries include the [[Auberonne]] (forming [[Lake Rin]] at its confluence and fed by the [[Leandre]] and the [[Cranmere|Cranmère]]) and the [[Clavert]] flowing north off [[Westcliff]].
 
-- Aure system: The [[Aure]] rises in the [[Darkwood]] and runs north through [[Addermarch]] to join the Enst near the Ozabal lowlands. North of [[Adderfell]] it gathers the [[Velan]] from the west—which itself receives the [[Umber]] near [[Valcroix]]—and the short upland [[Tarn]] from the east. [[Adderfell]] sits at the height of navigation on the Aure, on a small lake. 
+- Aure system: The [[Aure]] rises in the [[Darkwood]] and runs north through [[Addermarch]] to join the Enst near the Ozabal lowlands. North of [[Adderfell]] it gathers the [[Velan]] from the west—which itself receives the [[Umber]] near [[Valcroix]]—and the short upland [[Branth]] from the east. [[Adderfell]] sits at the height of navigation on the Aure, on a small lake. 
 
 ## Character and Use 
 The [[Wistel]] supports heavy barge and river traffic on its lower reaches, particularly along the stretch between [[Ainwick]] and [[Wisford]].  There are several bridges, including major ones at [[Ainwick]], [[Gowerbourne]], and [[Wisford]] as well as some smaller ones between [[Gowerbourne]] and [[Wisford]].

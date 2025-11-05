@@ -89,7 +89,7 @@ To the west and northwest, the rugged terrain of the [[Westcliff]] tumbles down 
 
 #### Aure River Valley
 
-The heartlands of Addermarch are the Aure river valley. This is a land of gently rolling hills, open forests, and many small rivers and streams that flow from the surrounding highlands to the [[Aure]]. This region is the most densely settled of all of Addermarch, and includes the capital, [[Adderfell]], which sits at the height of navigation of the Aure. The lower reaches of the [[Tarn]] and the [[Velan]], the two most important tributaries of the [[Aure]], are also densely settled. To the north, the Aure crosses into the [[Borderlands|Sembaran Borderlands]]. This region is the center of apple production in Addermarch, and well served by riverboat traffic along the Aure, which is navigable all the way from [[Adderfell]] to the [[Enst]]. 
+The heartlands of Addermarch are the Aure river valley. This is a land of gently rolling hills, open forests, and many small rivers and streams that flow from the surrounding highlands to the [[Aure]]. This region is the most densely settled of all of Addermarch, and includes the capital, [[Adderfell]], which sits at the height of navigation of the Aure. The lower reaches of the [[Branth]] and the [[Velan]], the two most important tributaries of the [[Aure]], are also densely settled. To the north, the Aure crosses into the [[Borderlands|Sembaran Borderlands]]. This region is the center of apple production in Addermarch, and well served by riverboat traffic along the Aure, which is navigable all the way from [[Adderfell]] to the [[Enst]]. 
 
 %% 
 Shenandoah/Blue Hills, Susquehana river valley. Lots of apple orchards.
@@ -106,7 +106,7 @@ Also mid-Atlantic Appalachians but very wooded.
 
 The basic geography is that the western edge of the Darkwood forms a basin (the Shadowmere), out of which flows the Mournebrook (not mapped) across forested flat land to join the Aure a little north of where it exits the Darkwood. Few travel south of this confluence. 
 
-To the east, the land begins to gently rise in a series of rolling hills (think maybe Berkshires, not mountains). These are wooded, but it is a more open, less scary wood, and some timber, charcoal, and other wood products are exported via Tygate to Adderfell from here. This basically the unnamed tributary of the Tarn. 
+To the east, the land begins to gently rise in a series of rolling hills (think maybe Berkshires, not mountains). These are wooded, but it is a more open, less scary wood, and some timber, charcoal, and other wood products are exported via Tygate to Adderfell from here. This basically the unnamed tributary of the [[Branth]]. 
 
 As you go further east the land gets more rocky, and higher elevation, until you meet the north-south ridge that forms the Tyrwinghan border and is much higher elevation. 
 
@@ -115,7 +115,7 @@ The fortifications here really are probably more oriented towards the Darkwood t
 %%
 #### Eastern Highlands
 
-To the east and northeast, along the borders of [[Tyrwingha]], the poor soil of the hilly, rocky land keeps forests to sheltered valleys. This is largely rangeland: highland cattle graze in the high pastures in summer, and only in a few sheltered valleys do crops thrive. The [[Tarn]] is the most significant river in this region, and the [[Tarn]] valley where most of the few people who live in this part of Addermarch settle. East of the headwaters of the [[Tarn]], the land turns quickly rocky, hard to travel, and dangerous; north of the Tarn, the hills get quickly steeper. The Tyrwinghan borderlands is lightly settled by cattle herders who bring their herds to the high meadows to graze in the summer. 
+To the east and northeast, along the borders of [[Tyrwingha]], the poor soil of the hilly, rocky land keeps forests to sheltered valleys. This is largely rangeland: highland cattle graze in the high pastures in summer, and only in a few sheltered valleys do crops thrive. The [[Branth]] is the most significant river in this region, and the [[Branth]] valley where most of the few people who live in this part of Addermarch settle. East of the headwaters of the [[Branth]], the land turns quickly rocky, hard to travel, and dangerous; north of the [[Branth]], the hills get quickly steeper. The Tyrwinghan borderlands is lightly settled by cattle herders who bring their herds to the high meadows to graze in the summer. 
 
 %% more open meadows, less forests, perhaps also a bit Provence-ish? Note the northern/eastern slopes are more wooded than the southern/western slopes%%
 ### Borders
@@ -124,7 +124,7 @@ To the west and northwest Addermarch is bordered by the [[Westcliff]], a series 
 
 The eastern border is not marked, as the high terrain between Addermarch and Tyrwinghan is unpopulated. The gentler, forested slopes to the north and east are under the demense of Tyrwinghan earls, and the dryer, arid slopes to the south and west, the land of Addermarian earls.
 
-To the south, Addermarch is bordered by the high ridge of the [[Mostreve Hills]], where the [[Tarn]] arises, and then, to the southwest, the [[Darkwood]]. This border is carefully watched for fear of what might creep out in the shadows. 
+To the south, Addermarch is bordered by the high ridge of the [[Mostreve Hills]], where the [[Branth]] arises, and then, to the southwest, the [[Darkwood]]. This border is carefully watched for fear of what might creep out in the shadows. 
 
 %% something more could be said about the northern border here. it is a bit of a blank spot on the map, but i don't have a great sense of this part of Sembara%%
 
@@ -185,7 +185,7 @@ Natural features include:
 - [[Torvaine Forest]], centered at mid and high elevations around the upper [[Umber]] and [[Velan]], and stretching in places into the lowlands. 
 - A region of higher mountains and alpine meadows that forms the [[Tyrwingha]] border
 - [[Shadowmere]], a boggy lowlands on the western edge of the [[Darkwood]], also considered haunted
-- [[Aure]] river valley, including the [[Aure]], which forms a lake + waterfall at [[Adderfell]], and its major tributaries the [[Velan]] and the [[Tarn]], each with their own tributaries. 
+- [[Aure]] river valley, including the [[Aure]], which forms a lake + waterfall at [[Adderfell]], and its major tributaries the [[Velan]] and the [[Branth]], each with their own tributaries. 
 
 Settlements include:
 - [[Adderfell]], the largest settlement and only city in Addermarch, at the height of navigation of the [[Aure]], center of apple farming and brandy production
@@ -225,12 +225,8 @@ The five Earls of Addermarch are known as:
 - The Earl of Adderfell, who, unlike other Earls, is the lord of the city of Adderfell (but includes some outlying villages in their demesne) 
 - The Earl of Westcliff, whose circuit includes all of the [[Westcliff]], as well as parts of the upper Aure valley, especially on the western part of Addermarch. The Earl of Westcliff is the lord of three shires: [[Bramshire]] (northern hills bordering [[Borderlands|Sembaran Borderlands]]), [[Carlinshire]] (northwestern hills, upper reaches of [[Umber]]), [[Weskershire]] (West Cliff and south). These shires are each centered around major defenses on the western and northern border, and have hereditary lords. 
 - The Earl of Southmarch, whose circuit includes the southern Aure. 
-- The Earl of Aurenvale, whose circuit is largely in the Aure river valley, in particular the northern and eastern stretches, interdigitating with the Earl of the Westcliff in parts of the western Aure valley, and the ~Earl of the Highlands~ in parts of the eastern Aure valley. 
-
-%% CHECK - still don't have a good name for this one %%
-
-- ~The Earl of the Highlands~, whose circuit includes the eastern part of the Aure river valley, and the highlands along the Tyrwinghan border.
-
+- The Earl of Aurenvale, whose circuit is largely in the Aure river valley, in particular the northern and eastern stretches, interdigitating with the Earl of the Westcliff in parts of the western Aure valley, and the Earl of High Tyrn in parts of the eastern Aure valley. 
+- The Earl of High Tyrn, whose circuit includes the eastern part of the Aure river valley, and the highlands along the Tyrwinghan border.
  
 Note these circuits are not strict lines on a map and often overlap, but each village is part of the domain of a single earl.
 
