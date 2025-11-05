@@ -10,9 +10,9 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 ---
-# The Tarn
+# The Branth
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Tarn is a short upland river flowing west from the ridge country between [[Addermarch]] and [[Tyrwingha]] to join the [[Aure]] north of [[Adderfell]]. Its narrow valley is dry in places with thin soils but supports significant pasture; the Tarn runs swiftly in spring and dwindles to a manageable flow by late summer.
+The Branth is a short upland river flowing west from the ridge country between [[Addermarch]] and [[Tyrwingha]] to join the [[Aure]] north of [[Adderfell]]. Its narrow valley is dry in places with thin soils but supports significant pasture; the Branth runs swiftly in spring and dwindles to a manageable flow by late summer.
