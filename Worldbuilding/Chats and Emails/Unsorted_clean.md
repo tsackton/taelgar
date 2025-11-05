@@ -6074,7 +6074,7 @@ Cymean Rivers:
 (c) what brush did you use for rivers, do you know? there are 1 or 2 sembara tributaries I'd like to add to the official amp
 
 [2/3/2025 12:51 PM] rsulfuratus
-For (c) - Rivers: KYLE sketch pencil rough (1 or 2), play with size, flow; color #181f5a
+For (c) - Rivers: KYLE sketch pencil rough (1 or 2), play with size, flow; color `#181f5a`
 
 [2/3/2025 12:52 PM] rsulfuratus
 For (b) - yes, that is good to do. you might grab my dataview query from the Cosmology landing page to just make a table of backlinks in staging in directory in the dm notes for each region page

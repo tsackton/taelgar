@@ -190,7 +190,7 @@ Session 32: manticore lair
 Session 33: manticore lair aftermath, orc fight, return to centaurs  
 Session 34: wind walk to roc lair, negotiate with kobolds, fight dao  
 Session 35: close portal, finish dao lair, talk to rocs  
-Session 36: return by river to town, make battle plans and #godmod scouting  
+Session 36: return by river to town, make battle plans and `#godmod` scouting  
 Session 37: final battle with Grumella part 1  
 Session 38: final battle with Grumella part 2
  

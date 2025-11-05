@@ -43,7 +43,7 @@ The adventurers prepare in [[Roscombe]], attend a manor dinner, and then success
 ## Places
 
 - **[[Roscombe]]** – market town in the [[Stonewolds]], Addermarch’s western highlands in [[Carlinshire]]
-- **[[The Traveler's Rest]]** – Roscombe’s lone inn, base of operations for the party
+- **[[The Traveler's Rest]]** – [[Roscombe]]’s lone inn, base of operations for the party
 - **Temple of the Sibyl** – large stone church and spiritual heart of [[Roscombe]]
 - **[[Brantor]]** – nearby village where [[Caradoc]] keeps his laboratory
 - **Goblin Lair** – trapped cave-and-tunnel complex in the [[Highmoor]]

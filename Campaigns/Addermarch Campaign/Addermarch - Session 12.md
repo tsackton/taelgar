@@ -43,7 +43,7 @@ The party defeats a pack of worgs and learns about the fey.
 ## Places
 
 - **[[Haldrenn]]** – remote Highmoor village of charcoal burners
-- **[[Highmoor]] Downs** – rolling hills east of Roscombe, dotted with ridges
+- **[[Highmoor]] Downs** – rolling hills east of [[Roscombe]], dotted with ridges
 
 ## Narrative
 ### Monday, May 17th, 2 Robert I
