@@ -1,25 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, status/check/name, status/check/ai, place]
+tags: [status/check/mike, place]
+aliases: [Val Masseum]
 name: Maseau Gap
-typeOf: gap
-whereabouts: Between the Mostreve Hills and the Sentinel Range
-dm_owner: tim
-dm_notes: important
+typeOf: plain
+whereabouts: Greater Sembara
+dm_owner: none
+dm_notes: none
 ---
+# The Maseau Gap
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% the gap between the Mostreve Hills and the Sentinels %%
+%% check/mike: typeOf, basic overview, naming history %%
 
-# Maseau Gap
-The Maseau Gap is a broad saddle between the [[Mostreve Hills]] and the [[Sentinel Range]], providing one of the few practical east–west corridors across the uplands of Greater Sembara. Caravans and couriers use the route when the high passes are snowed in, and marcher lords have long maintained watch posts to control tolls and shelter travelers.
+The Maseau Gap is a broad saddle between the [[Mostreve Hills]] and the [[~Sentinel Range Spur~]], providing one of the few practical north-south corridors between the realms of [[Greater Sembara]] and the south. This is a flat, open land, dominated by plains and scrubland. The [[Great South Road]], constructed in the ancient days of the [[Drankorian Empire]] and still in nearly perfect repair, is the primary route through the Gap. 
 
-## Geography
-Rolling heather slopes and shallow, stone‑lined gullies characterize the Gap. In fair weather, the way is open and windswept; in storms, ground‑fog and driving rain can make bearings uncertain. The route connects the lowlands near [[Duchy of Maseau]] to approaches toward the central highlands.
-
-## Security and Roads
-Waystones and cairns mark the safest line across. Patrols wax and wane with border tensions; in quieter years, local herders often serve as informal guides for a few coins.
-
-%%
-DM notes
-- Serves as a strategic choke point for traffic between the Mostreve and the Sentinels; leverage for tolls, ambushes, and weather complications.
-%%
+## Names
+During the Drankorian Empire, this was referred to as the Val Masseum, the "valley beneath the mountains". 
