@@ -19,7 +19,6 @@ whereabouts:
 - {type: away, start: 1749-05-30, end: 9999, location: Garamjala Desert}
 - {type: away, start: 1749-06-14, end: 9999, location: Gulf of Chardon}
 rarity: unique
-typeOf: vehicle
 typeOfAlias: skyship
 aliases: [Star on the Wind]
 subTypeOf: magical

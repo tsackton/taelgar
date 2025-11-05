@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags: [person]
 campaignInfo: 
-campaignInfo: 
 - {campaign: dufr, person: Wellby, type: "met", date: 1748-11-13}
 name: Gyles
 born:

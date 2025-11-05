@@ -1,5 +1,4 @@
 ---
----
 tags: [status/stub, status/check/name, place, status/check/ai]
 dm_owner: tim
 dm_notes: none
