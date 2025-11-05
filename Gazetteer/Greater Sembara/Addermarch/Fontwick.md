@@ -1,18 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, status/check/ai, place]
+tags: [place]
 name: Fontwick
 typeOf: village
-dm_owner: tim
-dm_notes: color
+dm_owner: none
+dm_notes: none
 whereabouts: Stonewolds
 ---
+# Fontwick
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% minor village in Addermarch %%
-
-Fontwick is a small upland village on the edges of the [[Stonewolds]], a cluster of stone cottages and byres gathered around a spring. Its folk tend sheep on the rough grasses between rocky outcrops and cut timber from coppiced lots. A wayside shrine and a single alehouse serve as the village’s social center.
-
-%%
-DM notes and campaign references
-- Treated as a minor stop in Addermarch travel; no recorded major PC events.
-%%
+Fontwick is a small upland village on the edges of the [[Stonewolds]], a cluster of stone cottages gathered around a spring. Its folk tend sheep and some cattle on the rough grasses between rocky outcrops and cut timber from coppiced lots. 
