@@ -17,7 +17,8 @@ dm_owner: tim
 A raucous tavern and dive bar outside the walls of [[Voltara]], operated by the halfling [[Alton]] after his retirement from adventuring. 
 
 %%
-## Campaign Notes (GL)
+
+Created by a player who doesn't really play much / at all and isn't part of Isaac's core D&D crowd, so might decide it is not canon. Moved to tentative.
 
 - Opened during the party’s Arc 4 downtime as part of the city’s post‑war boom.
 

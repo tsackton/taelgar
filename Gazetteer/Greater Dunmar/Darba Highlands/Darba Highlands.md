@@ -26,7 +26,7 @@ The Darba Highlands have a strong hydrological gradient, with the area around th
 
 In the northwest, the Darba Highlands are a region of coastal mountains, where the constant sea breezes and the impact of the [[Chataan Mountains]] results in a more even rainfall pattern across the year. 
 
-To the south, the land becomes increasingly flat beyond the [[~Southern Darba River~]], and the terrain transitions to the broad, open [[Nayan Floodplains]] and the new land created as [[Greater Dunmar]] was reshaped at the end of the [[Great War]]. 
+To the south, the land becomes increasingly flat, as the terrain transitions to the broad, open [[Nayan Floodplains]] and the new land created as [[Greater Dunmar]] was reshaped at the end of the [[Great War]]. 
 
 ## Climate and Ecology
 
