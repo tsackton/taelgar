@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/kestavo, status/check/mike]
+tags: [deity, religion/kestavo]
 dm_owner: none
 dm_notes: none
 name: Vaqar

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/mike, place]
+tags: [place]
 aliases: [Val Masseum]
 name: Maseau Gap
 typeOf: plain

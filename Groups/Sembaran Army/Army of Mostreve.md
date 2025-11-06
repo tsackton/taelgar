@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/mike]
+tags: [organization, status/check/tim]
 name: Army of Mostreve
 typeOf: army
 dm_notes: none
@@ -11,18 +11,37 @@ dm_owner: mike
 > An army  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% bouncing back to status/check/mike with a comment %%
+%% Tim: write mostly to keep main page very simple, lots of brainstorming below %%
 
-The Army of Mostreve is a 1200-strong, divided into three companies, garrisoned along the [[Mostreve Hills]] - the garrison of the Aben, in the headwaters of the Aben River, the garrison of Cyfarthfa closest to the capital, and the garrison of Deganwy on the borders of Addermarch. The Aben garrison sees action most years, and is a gathering spot for [[The Rangers]].
+Tyrwingha does not have a standing army in the same way that Sembara does. However, the borderlands along the [[Mostreve Hills]] are guarded by three garrisons, loosely organized as the Army of Mostreve.
 
-The army is led by the fearsome eldritch knights and an elite cadre of warlocks (arcane magic is more common here than anywhere else in Greater Sembara to a significant degree). The Army was organized by [[Derik I]] after his victories over the [[Dominion of Avatus]], and it today provides a significant route of social mobility -- but also integration into the Sembaran nobility and upper classes, as many Sembarans serve in this army alongside the Tyrwinghan knights.
+This army is divided into three garrisons along the [[Mostreve Hills]] - the [[Aben Garrison|garrison of the Aben]], in the headwaters of the [[Aben]] River, the [[Cyfarthfa Garrison|garrison of Cyfarthfa]] closest to the capital, and the [[Deganwy Garrison|garrison of Deganwy]] on the borders of [[Addermarch]]. The Aben garrison sees action most years, and is a gathering spot for [[The Rangers]]. 
 
 %% 
-The relationship between this army and Sembara needs rethinking in light of recent invention around how infrequently they have been actually same ruler 
-Facts should stay basically the same, but it may be more directly under control of Tyrwinghan Oracle, or have some logical divisions about Sembaran and non-Sembaran troops;
-also if it is a Sembaran army, what happens when Tyrwingha is not ruled by Sembara?
+General brainstorming:
 
-Tim adding: my gut feeling is that since Tyrwingha and Sembara were never actually unified in any practical sense beyond the personal union of the crowns, it is unlikely the Tyrwinghan army would actually be integrated with the Sembaran army in any meaingful way. That is not to say that Tyrwinghan and Sembara regiments wouldn't both serve together in the same war, but the administrative organizations would not be merged. This would basically require removing the last line about integration, and rephrasing a little to make clear this is actually basically the Tyrwinghan army. But I don't know if that fits with facts on the ground in your game.
+* In game, the main vibe has been a small professional force and a much larger force called up for the undead crises
+* There are hints that the Oracle of the Riven may control a group of warlocks who work either alongside or as part of the main army
 
+My gut feeling is that the Tyrwinghan army should be more organized around commanders than soldiers and should have a culture of muster and return to villages, rather than a professional standing army like in Sembara. 
 
+Perhaps something like:, divided into three companies:
+* Company of the Sword = regular soldiers, commanded by a captain appointed by the monarch
+* Company of the Riven = warlocks, commanded by a captain appointed by the Oracle of the Riven
+
+And then maybe even some kind of Company of the Fey which used to be actually commanded by  a fey, but isn't any longer (or maybe even is?) and which contains fey and fey-touched
+
+Then the idea would be that each garrison shares troops from each company, who have their own command structure but with no definitive overall ruler. The garrison is perhaps even commanded by some type of Council of the Camp that has members of each of the three companies for that garrison, and operates by majority. 
+
+I think  the tradition of border defense probably dates back to ancient times - the Company of the Fey (needs a better name) might have gotten started defending the border against [[Morlaith]] and the Tyrwinghan Army has never been part of the Sembaran army.
+
+There are only three periods with significant overlap between the rulers of Tyrwingha and Sembara:
+
+* Great War era - basically from [[Derik I]] til the end of the Great War
+* the Radiant Alliance era - the 100 years from [[Elaine I]] through [[Cece I]], mostly with lots of hobgoblins
+* modern day, since [[Elaine II]] was crowned
+
+In general, I wonder if the modern professional army of Sembara during the Great War got its start as an offshot from some ancient Ethlenn-organized border defense structure in Tyrwingha. During the Radiant Alliance era, I suspect that the armies of Tyrwingha and Sembara were probably mostly quite separate, although perhaps by the end of Cece's reign there was some degree of intermixing. 
+
+I see the biggest Sembaran intrusion and intermixing as basically happening during the second half of Cece's reign, and during that period perhaps there was a bit of cultural intermixing in the army. But realistically, I also think that the Tyrwinghan military is probably organized much more around fey-touched warlocks and sorcerers than anything else, which makes integration with Sembara hard.
 %%
