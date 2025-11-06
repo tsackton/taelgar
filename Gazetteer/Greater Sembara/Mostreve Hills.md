@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/mike, status/cleanup/map]
+tags: [place, status/cleanup/map]
 campaignInfo: []
 name: Mostreve Hills
 typeOf: line of hills
@@ -14,8 +14,6 @@ dm_notes: color
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% bouncing back to status/check/mike; rewrote with new geographic names and cleaned up topography %%
 
 The Mostreve Hills are a stretch of rough, rocky hills, with some higher peaks, that run in a series of long ridges from the flat plains of the [[Maseau Gap]] to the [[~Cymea Border Mountains~]], dividing [[Sembara]], [[Addermarch]], and [[Tyrwingha]] from the [[Plaguelands]]. They are largely wooded, although some of the highest peaks are above treeline, and the drier southwestern sides of some ridges are high plains with only scattered trees. The climate is temperate, with warm summers, cool winters, and frequent precipitation year round, with occasional winter snowfall on the higher peaks.
 
@@ -31,7 +29,7 @@ The east-west hills are:
 
 * The [[Valenfray Hills]] form a line of gentle rolling hills that run in a broken east-west line, from roughly the [[Aure]] to where they meet the [[Maerwyn Mountains]].  This ridgeline partially separates [[Addermarch]] from the [[Darkwood]]. The easterly parts of these hills are typically gentle, rolling hills with light forests, and are settled by foresters and others. As they ascend to meet the Maerwyns, the terrain grows rougher, with many sharp ravines, making travel challenging. These hills have been extensively fortified over many years by [[Addermarch]] to guard its southern borders from the [[Plaguelands]] and the [[Darkwood]]. 
 
-- The ~Tyrwinghan Hills~ form a line of hills and valleys running roughly east-west from the [[Maerwyn Mountains|Maerwyns]] to the [[~Cymea Border Mountains~]].  %% no real details about these unless Mike has made stuff up %%
+- The ~Tyrwinghan Hills~ form a line of hills and valleys running roughly east-west from the [[Maerwyn Mountains|Maerwyns]] to the [[~Cymea Border Mountains~]].  
 
 In between these ridge lines are several major gaps:
 * The [[Aure]] river flows north between the eastern edge of the [[Westcliff]] and the western edge of the [[Maerwyn Mountains]], forming a broad and fertile river valley fed by many small streams. 

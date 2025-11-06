@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/mike]
+tags: [place]
 name: Darkwood
 typeOf: forest
 subTypeOf: haunted
@@ -12,8 +12,6 @@ dm_owner: tim
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% adding status/check/mike in case there is anything you want to review %%
 
 The Darkwood is an ancient, brooding forest along the southern border of Addermarch, a place where old paths bend unexpectedly and twilight lingers beneath the boughs. The people of [[Addermarch]] speak of it in hushed tones, claiming it has been haunted by dangerous fey since even before humans settled this area in ancient days. While scholars cannot easily confirm or deny these claims, surviving Drankorian records clearly indicate even that mighty empire feared the Darkwood and fortified defenses on its fringes. Hunters and charcoal burners keep to the lighter, open woods on its fringes, and those who enter it, for good or ill, rarely return. 
 
