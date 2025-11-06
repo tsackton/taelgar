@@ -18,3 +18,9 @@ dm_owner: none
 ```dataview
 LIST from #place where partOf = "Magnus Street"
 ```
+
+%% 
+
+Magnus Street takes its name from the concentration of magi and learned folk. Bookshops, coffee houses, and copying offices crowd its length; students and tutors share narrow flats above.
+
+%%

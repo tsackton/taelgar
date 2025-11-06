@@ -51,7 +51,7 @@ dv.table(["File", "External Backlinks"], results);
 
 // Define the target directory and directories to exclude
 const targetDir = "Worldbuilding/Tentative";
-const excludeDirs = ["Worldbuilding", "_DM_"]; 
+const excludeDirs = ["Worldbuilding", "_DM_", "_dm_notes"]; 
 
 // Function to check if a path is within the target directory 
 function isInTargetDir(path) {

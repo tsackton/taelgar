@@ -203,7 +203,7 @@ SORT length(file.inlinks) DESC
 
 ## Staging Linked to Specific Directory
 
-Currently: Cosmology
+Currently: People
 
 ```dataview
 TABLE 
@@ -213,13 +213,13 @@ TABLE
     length(
       filter(
         file.inlinks,
-        (b) => contains(b.file.path, "Cosmology")
+        (b) => contains(b.file.path, "People")
       )
     )
     = length(file.inlinks)
   ) AS Unique
 FROM "Worldbuilding/Staging"
-WHERE any(filter(file.inlinks, (b) => contains(meta(b).path, "Cosmology")))
+WHERE any(filter(file.inlinks, (b) => contains(meta(b).path, "People")))
 SORT length(file.inlinks) DESC
 ```
 
