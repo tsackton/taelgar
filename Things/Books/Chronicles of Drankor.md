@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/book]
+tags: [item]
+typeOf: book
 name: Cavarrio's Chronicles of Drankor
 displayDefaults: {defArt: ""}
 dm_notes: none

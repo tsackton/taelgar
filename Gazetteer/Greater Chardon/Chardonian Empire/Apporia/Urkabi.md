@@ -7,6 +7,8 @@ typeOf: village
 ancestry: lizardfolk
 whereabouts: Portalia
 pronunciation: oor-KAH-bee
+dm_notes: none
+dm_owner: tim
 ---
 # Urkabi
 *(oor-KAH-bee)*
