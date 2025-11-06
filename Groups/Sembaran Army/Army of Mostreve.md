@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/tim]
+tags: [organization]
 name: Army of Mostreve
 typeOf: army
 dm_notes: none
