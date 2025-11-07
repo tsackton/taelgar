@@ -6,7 +6,8 @@ born: 1721
 species: human
 ancestry: Chardonian
 gender: female
-affiliations: [Society of the Open Scroll]
+affiliations: 
+- {org: Society of the Open Scroll, type: member}
 whereabouts:
 - {type: home, start: '', end: '', location: 'Chardon'}
 - {type: away, start: 1748-11-23, end: '', prefix: travelling in, location: 'Dunmar'}
@@ -15,15 +16,11 @@ dm_owner: tim
 dm_notes: important
 ---
 # Vola Forena
->[!info]+ Biographical Info
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]], she/her
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Biographical Info  
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% needs whereabouts, campaign info updates; some cleanup to reflect various updates; needs to convert chronology to tagged dates%%
-## Overview
-![[vola.png|right|300]]A Chardonian adventurer, treasure hunter, and sellsword.
 
 Vola was born on the streets of [[Chardon]], living a life of squalor, disease, and poverty. She grew up in the [[Riverside Quarter|Riverside]] slurms, near the chalyte refineries. %%SECRET[1]%% Eventually, she was discovered by [[Agon]], who helped her grow into her power and fulfill her potential. %%SECRET[2]%% She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [[Agon]] and the [[Society of the Open Scroll]]. 
 

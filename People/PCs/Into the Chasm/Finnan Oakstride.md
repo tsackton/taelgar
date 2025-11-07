@@ -4,10 +4,16 @@ tags: [person, pc]
 species: halfling
 born: 1673
 gender: male
-affiliations: {org: Oakstrides, type: primary}
+affiliations: 
+- {org: Oakstrides, type: primary}
 whereabouts: Zimkova
 ---
-
+# Finnan Oakstride
+>[!info]+ Biographical Info  
+> A [[Halflings|halfling]] (he/him), of the [[Oakstrides]]  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 
 FInnan Oakstride is a halfling storyteller, a wanderer, and a collector of tales. 

@@ -32,7 +32,7 @@ The adventurers rescue Colette, defeat the goblin queen, and destroy the Serpent
 - **[[Drou]]** – [[Elves|elven]] bard–monk, negotiator with spiders
 - **[[Fazoth de Brune]]** – [[Humans|human]] warlock-alchemist; wielder of Witch Bolt
 - **[[Yvan Greenrabbit]]** – [[Halflings|halfling]] sorcerer; master of disguises and fiery spells
-- **[[Colette du Bois]]** – missing squire of Sir [[Gareth Howell]], rescued from [[goblins]]
+- **[[Colette du Bois]]** – missing squire of Sir [[Gareth Howell]], rescued from [[Goblins]]
 - **Goblin Queen** – leader of the bandit clan, slain in her throne room
 - **[[Caradoc]]** – eccentric alchemist; supplier of Trueflame
 - **[[Owen Tavish]]** – priest of [[the Sibyl]] who supervises the dagger’s destruction
