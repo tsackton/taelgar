@@ -21,14 +21,14 @@ We begin on the road to Chardon, as two aspiring adventurers meet...
 ## Adventure 1: The Flamekeeper Scroll
 ### Session 1
 
-Our adventure starts on the road: [[Brelith]], [[Adrik]] , [[Samso]], and [[Alton]] have traveled north towards [[Voltara]] to meet Archivist [[Lyra]], in the service of the [[Great Library]]. On the road [[goblins]] of the [[Red Knife tribe]] attack; they slay two and let the other two live, after learning that [[hobgoblins]] and [[goblins]] live in this area. The goblins are told to flee and not attack them again.
+Our adventure starts on the road: [[Brelith]], [[Adrik]] , [[Samso]], and [[Alton]] have traveled north towards [[Voltara]] to meet Archivist [[Lyra]], in the service of the [[Great Library]]. On the road [[Goblins]] of the [[Red Knife tribe]] attack; they slay two and let the other two live, after learning that [[Hobgoblins]] and [[Goblins]] live in this area. The goblins are told to flee and not attack them again.
 
 In [[Lyra]]’s camp, the party learns their mission: search for the [[Elemental Scrolls of Airion|scrolls of elemental power]]. The location of the [[Flamekeeper Scroll]] and the [[Stonemaster Scroll]] are known, while the location of the [[Skyborn Scroll]] and the [[Deepwater Scroll]] are not. 
 
 Our heroes decide to head to the Forge of Fire, a part of an [[Goldpeak Mines|ancient Dwarven mine complex]] that once extended through much of the [[Fiatara Mountains]], where the [[Flamekeeper Scroll ]]is thought to be. They find it is now a kobold shrine to the “fire god”, which is a rune protecting the Flamekeeper Scroll. After killing some [[kobolds]] and convincing others they are the fire god made flesh, they get the scroll, and leave, but not before triggering a magma eruption which destroys forge and probably all the [[kobolds]]. 
 #### Events
 
-- (DR:: 1747-04-04): [[Samso]], [[Brelith]], [[Adrik]], and [[Alton]] are attacked by [[goblins]] on the road to [[Voltara]], and then meet Archivist [[Lyra]] at her camp. 
+- (DR:: 1747-04-04): [[Samso]], [[Brelith]], [[Adrik]], and [[Alton]] are attacked by [[Goblins]] on the road to [[Voltara]], and then meet Archivist [[Lyra]] at her camp. 
 - (DR:: 1747-04-05): [[Samso]], [[Brelith]], [[Adrik]], and [[Alton]] find the [[Goldpeak Mines|Forge of Fire]] and recover the [[Flamekeeper Scroll]] from a [[kobolds|kobold]] tribe.  
 
 ## Adventure 2: The Stonemaster Scroll

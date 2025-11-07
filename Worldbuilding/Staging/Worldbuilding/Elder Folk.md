@@ -1,0 +1,1 @@
+The Elder Folk is probably a meta-term, not an in-world term, and likely needs invention to develop an "in-world" word for "Children of the Embodied Gods" that is less cumbersome than that whole phrase. 

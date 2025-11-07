@@ -22,7 +22,7 @@ descTitle: Council at Three Wells
 At [[Three Wells]], the Fellowship exposes the [[Empress of Chaos]]’ plan to corrupt the Heartroot, learns its secret from [[Cateline Malras]], receives a favorable omen, and commits the Alliance to defend the hidden valley while harrying the [[Iron Fang]] and hunting the Empress.
 ## Session Info
 ### Summary
-- [[Szoltar|Szoltár]]’s boasts and seized thoughts reveal the Empress’s design to pierce the land’s heart, marching with a 4,200‑strong army of [[Iron Fang]] [[hobgoblins]] borne by the magical warbeast known as the Iron Scourge.
+- [[Szoltar|Szoltár]]’s boasts and seized thoughts reveal the Empress’s design to pierce the land’s heart, marching with a 4,200‑strong army of [[Iron Fang]] [[Hobgoblins]] borne by the magical warbeast known as the Iron Scourge.
 - The party returns [[Szoltar|Szoltár]] to the Mirror, floats a containment-treaty idea with [[Revaka]] if the Empress falls, then flies to [[Three Wells]] and joins a heated Alliance war council.
 - At the war council, [[Cateline Malras]] discloses the guarded secret: the Heartroot, last pure remnant of [[Isingue]]’s soil-magic, hidden on the [[Aurbez Plateau]]—too frail to move safely and the Empress’s true target.
 - Strategy crystallizes: forts and [[Aursenbourg]]’s walls won’t stop the Scourge’s climbing; [[Stoneborn]] aid is ~7 days out while the [[Iron Fang]] arrives in ~6; a favorable divination prompts the Alliance to mass at the Heartroot within five days.

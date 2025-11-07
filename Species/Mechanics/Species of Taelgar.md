@@ -11,17 +11,21 @@ Taelgar is a world inhabited by many diverse [[species]], many of which are appr
 
 There are 13 species that most anyone on Taelgar has likely heard of, although most common people of the world will likely have only met a few non-humans, unless they live in a large, cosmopolitan city. 
 
-****Humans***: The most numerous species on Taelgar, [[Humans]] are adaptable and resilient. They have spread across the world, inventing diverse languages, religions, and cultures in the process.  
+****Humans***: The most numerous species on Taelgar by a wide margin, [[Humans|humans]] are adaptable and resilient. They have spread across the world, inventing diverse languages, religions, and cultures in the process.  
 
-****Elves***: Said to be the first species awakened after the [[Riving|dawn of time]], [[Elves]] have a deep connection to magic and nature through their connection their gods, [[Aldanor]], the Living Tree and [[Elmerca]], the Wild Star. Their culture and society is strongly shaped by the [[Elven Cycle of Generations|ka]], a unique cycle system of non-overlapping generations arising from elves' extremely long lifespans but limited time when they can bear children. These days, elves are rarely seen among human cities, and many common folk will have never met one. 
+****Elves***: Said to be the first species awakened after the [[Riving|dawn of time]], [[Elves|elves]] have a deep connection to magic and nature through their connection their gods, [[Aldanor]], the Living Tree and [[Elmerca]], the Wild Star. Their culture and society is strongly shaped by the [[Elven Cycle of Generations|ka]], a unique cycle system of non-overlapping generations arising from elves' extremely long lifespans but limited time when they can bear children. These days, elves are rarely seen among human cities, and many common folk will have never met one. 
 
 ****Dwarves***: [[Dwarves]] make their homes beneath the mountains of Taelgar, carving great halls of stone and light beneath the earth, aided by their innate runic magic from their connection to their gods, the [[Bahrazel]]. Their culture and society are shaped by ties of kinship and clan, and by the mystical bonds of their thuhr, a uniquely dwarven combination of guild, secret society, and found family. Dwarves are often found in human realms, as travelers, visitors, and long-term residents. 
 
 ****Halflings***: [[Halflings]] are wanderers and travelers, merchants and sailors, storytellers and poets. Though many halflings are nomadic, and rarely settle in one place for long, they are deeply connected to each other by a unique ancestral consciousness mediated by their gods, the [[First Ones]], which allows them to communicate telepathically and remember fragments of their ancestors' knowledge and lives. Halflings, while not as numerous as humans, are frequent sights across the realms of many species of Taelgar. 
- 
-****Lizardfolk***: [[Lizardfolk]] live in the swamps and riverways of Taelgar, often making their homes near to, but not amongst, humans. Despite their fierce reptilians appearance they are generally peaceful and gentle, tending to nature and harvesting food from the waters in much the same way they have for generations. Their connection to the [[Tharzen Anzinakoa]], the ancestor seasons, gives them prophetic insights into the future. 
- 
-****Stoneborn***: [[Stoneborn]] live in the high mountains and faraway places of Taelgar, preferring to settle in the inhospitable and the inaccessible places of the world. Although stoneborn prefer to settle in small and reclusive communities, travelers, craftfolk, visionaries, and warriors do travel amongst human lands. Their deep connection to [[Entamba]], the Elder Mountain, gives them unique abilities to resist damage and stay alive in the most inhospitable of places.
+
+%% NEEDS WORK - LIZARDFOLK %%
+****Lizardfolk***: [[Lizardfolk]] live in the swamps and riverways of Taelgar, often making their homes near to, but not amongst, humans. Despite their fierce reptilians appearance they are no more aggressive than any other species. Lizardfolk communities often  tending to nature and harvesting food from the waters in much the same way they have for generations. Their connection to the [[Tharzen Anzinakoa]], the ancestor seasons, gives them prophetic insights into the future. 
+%% ^^ %%
+
+%% NEEDS WORK - STONEBORN %%
+****Stoneborn***: [[Stoneborn]], among the least numerous of the species of Taelgar, live in the high mountains and faraway places, preferring to settle in the inhospitable and the inaccessible places of the world. Although stoneborn prefer to settle in small and reclusive communities, travelers, craftfolk, visionaries, and warriors do travel amongst human lands. Their deep connection to [[Entamba]], the Elder Mountain, gives them unique abilities to resist damage and stay alive in the most inhospitable of places.
+%% ^^ %%
 
 ****Centaurs***:
 
@@ -34,8 +38,6 @@ There are 13 species that most anyone on Taelgar has likely heard of, although m
 ***Hobgoblins***:
 
 ***Goblins***:
-
-***Bugbears***:
 
 ## The Fey
 
