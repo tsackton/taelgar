@@ -8,7 +8,7 @@ river exists on the other end - flows through a tunnel and then cascades down a 
 
 likely it is a portal to the plane of air - if you go down far enough you emerge into a flying island on the plane of air
 
-kenku (?) monastery in the chasm - built on a wall
+kenku (?) monastery in the chasm - built on a wall - taken over from something else. 
 
 maybe - a dwarven tunnel ends on the side? from nidzahar
 
