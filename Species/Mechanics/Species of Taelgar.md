@@ -1,12 +1,14 @@
 ---
-tags: [meta]
+tags: [meta, status/check/mike]
 dm_owner: joint
 dm_notes: none
 ---
 %% Player facing %%
 # Species of Taelgar
 
-Taelgar is a world inhabited by many diverse [[species]], many of which are appropriate options for player characters. The following species, described in brief, are well-known by most people in Taelgar. Species that are player options are marked with a ******* .
+Taelgar is a world inhabited by many diverse creatures. A large number of these creatures, whether magical or ordinary, 
+
+[[species]], many of which are appropriate options for player characters. The following species, described in brief, are well-known by most people in Taelgar. Species that are player options are marked with a ******* .
 ## Standard Species
 
 There are 13 species that most anyone on Taelgar has likely heard of, although most common people of the world will likely have only met a few non-humans, unless they live in a large, cosmopolitan city. 
@@ -59,9 +61,9 @@ Legends and rumors speak of other, stranger species in the world of Taelgar. Sai
 
 ****Plane-touched***: Very rarely, some humans are born with an unusual soul, touched by the powers of another plane. Perhaps this is one of the elemental planes, one of the realms of the divine, or a primordial spiritual realm. These people can sometimes hide their plane-touched souls, and live normal lives, but other times are born with obvious physical attributes of the plane.
 
-****Gnomes***: Long ago, before the Downfall, many dwarves left their underground homes, fleeing the dangers of the Underdark that crept into the world from cracks in multiverse, settling in empty places in the distant corners of the world. Over the centuries, as they adopted to their new aboveground homes, they forged a new identity for themselves, calling themselves gnomes. 
+***Gnomes***: Long ago, before the Downfall, many dwarves left their underground homes, fleeing the dangers of the Underdark that crept into the world from cracks in multiverse, settling in empty places in the distant corners of the world. Over the centuries, as they adopted to their new aboveground homes, they forged a new identity for themselves, calling themselves gnomes. 
 
-****Free Orcs***: Rumors speak of some orcs that have escaped the divine bonds that chain them to the will of Thark, the god of endless war. Free from the influence of their god, these orcs chart their own path in Taelgar, although usually seek to live hidden from others in isolated communities, both to avoid the wrath of Thark and to avoid the anger and fear of other peoples. 
+***Free Orcs***: Rumors speak of some orcs that have escaped the divine bonds that chain them to the will of Thark, the god of endless war. Free from the influence of their god, these orcs chart their own path in Taelgar, although usually seek to live hidden from others in isolated communities, both to avoid the wrath of Thark and to avoid the anger and fear of other peoples. 
 
 ## Mechanics
 

@@ -8,7 +8,7 @@ dm_notes: important
 %% Character facing %%
 # Species in Taelgar
 
-%% this needs to be updated per revised [[Creating New Species]] document and updated metaphysics %%
+%% this needs to be updated per revised [[Creating New Creatures]] document and updated metaphysics %%
 
 The world of Taelgar is populated by many sentient species. All sentient species in Taelgar were created, in some way, by magic, usually by the direct intervention of a deity.  
 
