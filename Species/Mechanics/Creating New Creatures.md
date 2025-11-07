@@ -154,3 +154,18 @@ D&D creature types do not perfectly map to these categories, but generally this 
 
 
 See the [[Species]] section for how this plays out.
+
+
+%% discord notes, to think about
+
+working a little more on and off in 20 minute chunks between meetings. one fundamental rework that i am contemplating is making a major distinction between what I might call "single origin" species and "multiple origin" species. i'm not sure what good terminology is, or if we need good terminology. but i think the distinction solves a lot of issues in that it makes it possible to have a diversity of creatures while keeping the worldbuliding implications contained. the fundamental distinction is: a single origin species is a creature that has a single origin and a unique creation story. every single extant member of that species either arose at that time of creation, or descends from a creature that existed at that time. i think this has key implications, in that a single origin species has cultural continuity and room for cultural evolution. a multiple origin species, in contrast, can at least potentially be created repeated. undead would be the classic example, in that undead cannot reproduce so they can only be created by repeated origins. but i think this also fits for tons of other sapient monsters and allies - medusa, minotaurs, gnolls, giant eagles, lycanthropes, and many others all make the most sense as creatures that can be at least occasionally created, and in some cases can only arise through creation. my default would be to assume that most sapient magical creatures fall into the second category. taelgar is a magical world and things happen. but just because you met a minotaur doesn't imply in comes from a long line of minotaurs going back thousands of years to a long-ago minotaur ancestor who was created in a specific describable moment.
+
+i still haven't quite locked in the terminology, and i'm less certain what to do with natives of other planes, e.g. does this make sense as a distinction for elementals too? or fey? i can kind of see it making sense there too, in the sense that say djinn have culture and continuity whereas air elementals don't and can just be created from the fundamental esssence of the plane
+
+but it is harder to sort out outside the material plane because we don't have a good idea how non-material-plane natives are created
+  
+(well i guess specifically fey and elementals - outer planes natives are maybe a little clearer in some ways)
+
+anyway have to jump on a call in a few minutes but might continue to work a little on updates to obsidian to reflect this if i don't really need to listen. but likely won't have bandwidth to reply to any thoughts until 4 pm or so
+
+%%
