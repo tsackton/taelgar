@@ -1,3 +1,47 @@
+---
+tags: [meta]
+dm_owner: joint
+dm_notes: none
+---
+## To Do - Mechanics
+
+- [ ] playing a beastfolk
+- [ ] playing a centaur 
+- [ ] playing a changeling
+- [x] playing a dwarf
+- [ ] playing a fae
+- [ ] playing a fairy
+- [ ] playing a free orc
+- [x] playing a halfling
+- [ ] playing a human
+- [ ] playing a kenku
+- [x] playing a lizardfolk
+- [ ] playing a plane-touched
+- [ ] playing a satyr
+- [ ] playing a stoneborn
+- [x] playing an elf
+
+## To Do - Lore/Intro
+
+- [ ] playing a beastfolk
+- [ ] playing a centaur 
+- [ ] playing a changeling
+- [x] playing a dwarf
+- [ ] playing a fae
+- [ ] playing a fairy
+- [ ] playing a free orc
+- [x] playing a halfling
+- [ ] playing a human
+- [ ] playing a kenku
+- [x] playing a lizardfolk
+- [x] playing a plane-touched
+- [ ] playing a satyr
+- [ ] playing a stoneborn
+- [x] playing an elf
+
+
+-----
+
 
 # (XXX) Species Details
 *See more: links to relevant pages*
