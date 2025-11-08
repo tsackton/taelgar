@@ -34,7 +34,7 @@ dm_notes: none
 - [ ] playing a human
 - [ ] playing a kenku
 - [ ] playing a lizardfolk
-- [ ] playing a plane-touched
+- [x] playing a plane-touched
 - [ ] playing a satyr
 - [ ] playing a stoneborn
 - [x] playing an elf

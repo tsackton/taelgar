@@ -42,21 +42,19 @@ Consider whether you might have taken on a different name when you realized your
 
 The species traits you will use will be determined by the nature of the plane that touches your soul: 
 - If you are touched by one of the [[Divine Realms]], use the [Aasimar](https://www.dndbeyond.com/species/1751434-aasimar) species traits. 
-- If you are touched by a fiendish plane, most likely the [[Abyss]] or the [[Nine Hells]], use the [Tiefling](https://www.dndbeyond.com/species/1751443-tiefling) species traits. You may select any tiefling lineage, which is unconnected to the plane that touches your soul. 
-- 
+- If you are touched by a fiendish plane, most likely the [[Abyss]] or the [[Nine Hells]], use the [Tiefling](https://www.dndbeyond.com/species/1751443-tiefling) species traits. You may select any tiefling lineage; your choice of lineage is mechanical only and does not need to determine the exact plane that touches your soul. 
 
+You also have the option of using the [[Playing a Human|Human]] species traits, and reflecting your plane touched nature in your class, e.g. as a sorcerer or warlock with an origin appropriate to your plane-touched nature. 
 
-%% notes only %%
+%%^Campagin:none%%
 
-Basic idea is to select either:
-(a) Aasimar, from PHB 2024
-(b) Tiefling, from PHB 2024
-(c) a home-brew updated / unified elemental
+Elemental Planes are basically genasi, but the D&D genasi need a little tweaking. 
 
-Elemental would be a standard 1/3/5, with cantrip + minor boon at 1st, 1st level spell at 3, 2nd level spell at 5th. This is pretty similar to the existing Genasi:
-https://www.dndbeyond.com/species/1026379-air-genasi
-https://www.dndbeyond.com/species/1026385-earth-genasi
-https://www.dndbeyond.com/species/1026406-water-genasi
-https://www.dndbeyond.com/species/1026388-fire-genasi
+Generally should be:
+(1) 1-2 appropriately themed boons at 1st. this could include darkvision, breath holding, amphibious, or similar traits
+(2) a protective trait, likely an appropriate damage resistance but could be something like Earth Genasi Earth Glide
+(3) A cantrip at 1st, 1st level at 3rd, 2nd level at 5th spell trait
+
+Other planes might be complicated and would need to be homebrewed for a specific player invested in them. 
 
 %% notes end %%
