@@ -8,7 +8,7 @@ dm_notes: none
 *See more: [[Elves]], [[Elven Cycle of Generations]], [[Aldanor]], [[Elmerca]]*
 D&D Beyond Link: [Elf](https://www.dndbeyond.com/species/1755491-elf)
 
-The first of the [[Elder Folk]] to walk the world, [[Elves|elves]] have a deep connection to magic and nature through their connection their gods, [[Aldanor]], the Living Tree and [[Elmerca]], the Wild Star. They do not die of old age, although many tire of the world, and it is rumored that some of the first elves to exist still walk the earth. The elves of Taelgar have also faced tragedy and loss, suffering and dying in cataclysmic wars that have shaken the world. These days, elves are few in number, and while some still look outward, others have turned inward, disavowing their ancient roles as protectors of Taelgar. Few elves live in the settlements other species, and many common folk will have never met one.
+[[Elves]] have a deep connection to magic and nature through their connection their gods, [[Aldanor]], the Living Tree and [[Elmerca]], the Wild Star. They do not die of old age, although many tire of the world, and it is rumored that some of the first elves to exist still walk the earth. The elves of Taelgar have also faced tragedy and loss, suffering and dying in cataclysmic wars that have shaken the world. These days, elves are few in number, and while some still look outward, others have turned inward, disavowing their ancient roles as protectors of Taelgar. Few elves live in the settlements other species, and many common folk will have never met one.
 
 Elven culture and society is strongly shaped by the [[Elven Cycle of Generations]], know as the _ka_, a unique cycle system of non-overlapping generations arising from elves' extremely long lifespans but limited time when they can bear children. Elves can only have children for about a 30 year period, when the roots of Aldanor tie them to the Material Plane, but can live to be hundreds, or even thousands, of years old. This means that each generation is distinct and non-overlapping, and the elves count these, numbering from the first generation of the elves. 
 
@@ -21,7 +21,9 @@ A simple answer if engaging with the lore of elves is not of interest to you is 
 
 ### Elf Names
 
-Elves in Taelgar typical have just a given name, using their ka, their homeland, or both if necessary for specificity. These names often have a lyrical sound, reflecting the Elvish language, with -o, -ion, -or, -on suffixes common for male names, and -e, -iel, -ril, -eth suffixes common for female names. To choose the name for your Elven character, you might consider looking at [name](https://realelvish.net/names/generator/) [generators](https://www.namegeneratorfun.com/elf), consider one of these ideas, or you might invent your own, which might not follow typical Elven patterns.
+Elves in Taelgar typical have just a given name, using their ka, their homeland, or both if necessary for specificity. These names often have a lyrical sound, reflecting the Elvish language, with -o, -ion, -or, -on suffixes common for male names, and -e, -iel, -ril, -eth suffixes common for female names. 
+
+To choose the name for your Elven character, you might consider looking at [name](https://realelvish.net/names/generator/) [generators](https://www.namegeneratorfun.com/elf), consider one of these ideas, or you might invent your own, which might not follow typical Elven patterns.
 
 **Gender-Neutral Names:** Anglos, Amathrod, Astordil, Belegorn, Cadwar, Celebas, Culaf, Fothes, Glaeron, Gwindil, Hastor, Iorthon, Istor, Ningannel, Nillendur, Orosser, Sereg, Suldil, Tawaren, Tordil, Umbardil, Vanima
 
