@@ -1,10 +1,12 @@
 ---
 tags: [meta]
-dm_owner: tim
-dm_notes: color
+dm_owner: joint
+dm_notes: none
 ---
 
 # Centaur Species Details
+*See more: links to relevant pages*
+D&D Beyond Link: [Species Name](link)
 
 
 ---
