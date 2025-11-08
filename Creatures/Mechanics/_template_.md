@@ -8,14 +8,14 @@ dm_notes: none
 - [ ] playing a beastfolk
 - [ ] playing a centaur 
 - [ ] playing a changeling
-- [ ] playing a dwarf
+- [x] playing a dwarf
 - [ ] playing a fae
 - [ ] playing a fairy
 - [ ] playing a free orc
-- [ ] playing a halfling
+- [x] playing a halfling
 - [ ] playing a human
 - [ ] playing a kenku
-- [ ] playing a lizardfolk
+- [x] playing a lizardfolk
 - [ ] playing a plane-touched
 - [ ] playing a satyr
 - [ ] playing a stoneborn
@@ -26,11 +26,11 @@ dm_notes: none
 - [ ] playing a beastfolk
 - [ ] playing a centaur 
 - [ ] playing a changeling
-- [ ] playing a dwarf
+- [x] playing a dwarf
 - [ ] playing a fae
 - [ ] playing a fairy
 - [ ] playing a free orc
-- [ ] playing a halfling
+- [x] playing a halfling
 - [ ] playing a human
 - [ ] playing a kenku
 - [ ] playing a lizardfolk

@@ -1,11 +1,11 @@
 ---
+headerVersion: 2023.11.25
 tags: [meta]
 dm_owner: joint
 dm_notes: none
 ---
-
-# Elf Species Details
-*See more: [[Elves]], [[Elven Cycle of Generations]]*
+# Playing an Elf
+*See more: [[Elves]], [[Elven Cycle of Generations]], [[Aldanor]], [[Elmerca]]*
 D&D Beyond Link: [Elf](https://www.dndbeyond.com/species/1755491-elf)
 
 The first of the [[Elder Folk]] to walk the world, [[Elves|elves]] have a deep connection to magic and nature through their connection their gods, [[Aldanor]], the Living Tree and [[Elmerca]], the Wild Star. They do not die of old age, although many tire of the world, and it is rumored that some of the first elves to exist still walk the earth. The elves of Taelgar have also faced tragedy and loss, suffering and dying in cataclysmic wars that have shaken the world. These days, elves are few in number, and while some still look outward, others have turned inward, disavowing their ancient roles as protectors of Taelgar. Few elves live in the settlements other species, and many common folk will have never met one.
@@ -36,7 +36,7 @@ Elves in Taelgar typical have just a given name, using their ka, their homeland
 **Size:** Medium (about 5–6 feet tall)  
 **Speed:** 30 feet  
 **Age**: Elves do not die of old age, but during each cycle of the _ka_, the pull of the material world weakens for them. Few elves remain on Taelgar beyond their fifth _ka_ (approximately 800 years).  
-**Languages:** The long lifespan of elves means they typically learn many more languages than usual. You may select six [[Languages]] during character creation. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
+**Languages:** The long lifespan of elves means they typically learn many more languages than usual. You may select six [[Languages]] during character creation, which should usually include Elvish and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
 
 ## Elf Traits
 

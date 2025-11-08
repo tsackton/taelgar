@@ -3,10 +3,11 @@ tags: [meta]
 dm_owner: joint
 dm_notes: none
 ---
-
 # Dwarf Species Details
+*See more: [[Dwarves]], [[Dwarven Kingdoms]], [[Bahrazel|Bahrâzel]]*
+D&D Beyond Link: [Dwarf](https://www.dndbeyond.com/species/1763565-dwarf)
 
-One of the [[Elder Folk]], [[Dwarves]] make their homes beneath the mountains of Taelgar, carving great halls of stone and light beneath the earth, aided by their innate runic magic from their connection to their gods, the [[Bahrazel]]. Short, broad-shouldered, and often bearded, the first dwarves built majestic underground cities of light and splendor. While many dwarves still dwell in their ancestral mountain homes, they have spread around the world and are one of the more common of the Elder Folk seen in the realms of other species on Taelgar, as travelers, visitors, and long-term residents. 
+[[Dwarves]] make their homes beneath the mountains of Taelgar, carving great halls of stone and light beneath the earth, aided by their innate runic magic from their connection to their gods, the [[Bahrazel]]. Short, broad-shouldered, and often bearded, the first dwarves built majestic underground cities of light and splendor. While many dwarves still dwell in their ancestral mountain homes, they have spread around the world and are often seen in the realms of other species on Taelgar, as travelers, visitors, and long-term residents. 
 
 Dwarven culture and society are shaped by ties of kinship and clan, and by the mystical bonds of their thuhr, a uniquely dwarven combination of guild, secret society, and found family. Dwarves, no matter where they live, have a mystical connection to the Bahrazel, that deepens when they reach adulthood and complete the rite of name-taking, becoming part of a thuhr. There are seven thuhr, each associated with one of the Bahrazel: Ruler, Runecrafter, Priest, Farmer, Stoneworker, Traveler, and Warrior. The thuhr function as a combination of guild, mentorship organization, found family, and secret society, creating ties between clans.
 
@@ -38,19 +39,22 @@ Dwarves typically have personal names, revealed to them when they make their pil
 **Size**: Your size is Medium.
 **Speed**: 30 feet
 **Age**: Dwarves mature at a little more slowly than humans, and are not considered full adults until they reach their age of majority at 25 and make a pilgrimage to the Heart of the Mountain to receive their name and thuhr. Dwarves have a long lifespan, often reaching 350 year of age.
-**Languages**: You may select four languages during character creation, which should usually include Dwarvish. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency.
+**Languages**: You may select four [[languages]] during character creation, which should usually include Dwarvish and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency.
 
 ## Dwarf Traits
 
 As an Dwarf, you have these special traits.
 
-%% dwarf design logic, taking the basic model of the PHB 2024 to be a species should consist of traits approximately the same value as (a) an origin feat, (b) a skill proficiency, and (c) a flavorful and situationally strong ability, but that species can vary a bit up or down from this for flavor
+%%^Campaign:none%%
+
+dwarf design logic, taking the basic model of the PHB 2024 to be a species should consist of traits approximately the same value as (a) an origin feat, (b) a skill proficiency, and (c) a flavorful and situationally strong ability, but that species can vary a bit up or down from this for flavor
 
 Enhanced Darkvision is slightly better than a skill
 Stonecunning is fairly situational so on the weak side for (c)
 Baharazel's blessing aiming to be roughly 1/2 an origin feat (e.g., two cantrips, or a cantrip + 1 feature, or a fairly strong feature)
 Rune Crafting is slightly weaker than a choice of a 1st level spell, but benefits from scaling casting with prof bonus and ability to give to other people to use. The second feature means focus is on non-Concentration spells to prevent breaking Concentration limits, since you eventually can effectively cast a spell 3x times as once if you give your runes to your allies.
-%%
+
+%%^End%%
 #### Darkvision
 You have Darkvision with a range of 120 feet.
 #### Stonecunning
