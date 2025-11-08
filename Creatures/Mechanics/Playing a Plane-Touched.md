@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta]
+tags: [meta, status/check/mike]
 dm_owner: tim
 dm_notes: color
 ---
 # Playing a Plane-Touched
 *See more: [[Humans]]
 D&D Beyond Link: see Plane-Touched Traits, below
+
+%% check mike for lore - i think the lore here is that these are humans with soulstuff from another plane. invented because one of isaac's friends wanted to play a tiefling but i actually think it fits really well with the soulstuff metaphysics%%
 
 Very rarely, a human is born with a soul that is connected to another plane. Perhaps some of your essence leaked from that plane, or perhaps an extraplanar power had some influence on your parents or your birth. Or perhaps you have a stranger story. 
 
