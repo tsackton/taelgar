@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/wip, background, status/check/mike]
+tags: [status/needswork/wip, background]
 dm_owner: joint
 dm_notes: none
 ---

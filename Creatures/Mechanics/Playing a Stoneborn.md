@@ -1,21 +1,35 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta]
+tags: [meta, status/check/mike]
 dm_owner: joint
 dm_notes: none
 ---
 # Playing a Stoneborn
 
+%% lore, mechanics if you have comments %%
 
-The [[Stoneborn]] in Taelgar are a reclusive species. They tend to live in isolated communities in extreme environments, especially high in the mountains, although they are not unheard of in human and dwarven settlements. They are also noted in the world of Taelgar as master artisans, skilled in many trades. It is not uncommon for individual [[Stoneborn]] to spend decades, or even a century, honing their craft. 
+[[Stoneborn]] are a reclusive species, tending to live in isolated, close-knit communities in extreme environments, especially high in the mountains. Often settling in inhospitable environments, rumors say that stoneborn rely on the hidden magic of [[Entamba]], their creator god, to thrive in places others would starve. Though few outsiders have seen their communal villages, Stoneborn are sometimes encountered in the settlements of humans, dwarves, and other species of Taelgar. These travelers are often master artisans, deeply skilled in their trades, and it is often said that individual stoneborn spend decades, or even a century, honing their craft. 
+
+Stoneborn appear to be humanoids shaped of stone, and have appearances as diverse as the varied colors and textures of stone in the world. This appearance has led outsiders to speculate that they are literally born from the stone of their mountain home; whether this rumor is true, the stoneborn do not say. 
 
 ---
 ## Creating Your Stoneborn Character
 
+When you create your stoneborn character, consider why you left your community. Many stoneborn villages share an ethos communal decision-making and consensus-building that creates extremely close-knit communities. Did you leave your home on a personal mission? A mission for your community? Or maybe a tragedy forced you to leave, or a personal mistake drove you into exile. 
 
+Many stoneborn also have a deep sense of mastery over a craft, often training for very long periods to become true masters. Do you have a craft or obsession you are connected to? Did you have a mentor or a master you apprenticed under? Or maybe you are still seeking your craft; perhaps your class represents your focus. 
 
-To make a [[Stoneborn]] adventurer, consider why you left your community. Perhaps you are a rare member of your species born among other sentient beings, in a human city, or among dwarves, or even elves. Maybe you left your home on a personal mission, or on a mission for your clan. Maybe a tragedy -- or a personal mistake -- forced you to leave. 
+A common story, if you engaging with the lore of the stoneborn does not interest you, is that you grew up in an isolated village in the [[Sentinel Range|Sentinels]], and left your home on a personal mission unrelated to your village or community. 
+
 ### Stoneborn Names
+
+Stoneborn in Taelgar typically have a single given name; in stoneborn society names are not gendered. Some stoneborn may also use the name of their community as a signifier, especially when traveling outside their homeland. 
+
+For some stoneborn, their training and discipline are as much a part of their identity as their family and community; these stoneborn may take a use name reflecting their skill. For example, a skilled stonemason may take the use name Stonebreaker or Stonecarver; a skilled warrior may take the use name Quickblade or Strongaxe; or a skilled teacher may take the use name Loremaster or Mindshaper. These use names are often used in place of a community name, and sometimes used in place of a birth name. 
+
+To choose the name for your stoneborn character, you might consider one of the birth names below, or invent your own, which might not follow typical stoneborn conventions. You might also choose to invent a use name and/or a community name for your character. 
+
+**Birth Names:** Arvid, Aglath, Anathi, Bomika, Cebo, Dumoth, Elethu, Ivak, Kamva, Lumiko, Luvoth, Malimi, Maumak, Masandith, Nandi, Onako, Saliza, Songath, Sumeyad, Thandeka, Themba, Unathid, Yandisa, Zola
 
 ---
 ## Basic Traits
