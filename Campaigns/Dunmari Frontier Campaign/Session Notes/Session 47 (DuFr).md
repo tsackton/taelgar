@@ -64,6 +64,6 @@ Before arriving, [[Riswynn]] magically constructs a small lead box, for [[Wellby
 
 Before dawn, [[Wellby]] is awakened by an unnatural wind in the sails, and sees on deck an individual wearing sky blue robes with a deep hood shadowing their face. This person has constructed a circle of some powder, and is sitting in the middle of it chanting. As they chant, the powder in the circle floats to the sky and fills the sails. The morning passes this way, watching the landscape flow past, until the ship enters a deep canyon, completely smooth sided, and eventually passes into an open lake that seems to be filling a bowl of stone. Here, the person is the sky blue robes leaves, and another takes their place. With the light of midday, [[Wellby]] catches a brief glimpse of their eyes, which have no iris and are just a sky blue color. By the time the ship exits the canal, it is full dark, the stars emerging. 
 
-During the next few days sail to [[Chardon]], [[Riswynn]] sends another message to [[Marcella]]. She says, “I’m trapped in a cave. [[Kadmos]] thinks its [[kobolds]], but I don’t know how long the deception can last. He thinks I was captured.” 
+During the next few days sail to [[Chardon]], [[Riswynn]] sends another message to [[Marcella]]. She says, “I’m trapped in a cave. [[Kadmos]] thinks its [[Kobolds]], but I don’t know how long the deception can last. He thinks I was captured.” 
 
 As the [[Emerald Song]] pulls into the [[Chardon]] docks in the midafternoon, on the 13th day after departing [[Darba]], the session ends. 

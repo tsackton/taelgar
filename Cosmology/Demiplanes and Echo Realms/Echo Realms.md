@@ -21,7 +21,7 @@ The conception of the Echo Realms in the [[Standard Multiversal Model]], however
 
 A related criticism was raised by the Stoneborn metaphysicist [[Yendalo]], who postulated a multiversal model that divides the planes into the [[Inner Realms]] and the [[Outer Realms]], based on their position with respect to the [[Land of the Dead|Divine Veil]] (more commonly known as the [[Land of the Dead]]). To Yendalo and his followers, the division of the [[Inner Realms]] beyond the split between the [[Energy Realms]] and the other Inner Realms was arbitrary, as it is not obvious what property the [[Feywild]] and the [[Dreamworld]] share that is not also shared with the [[Plane of Souls]] and even the [[Material Plane]]. 
 
-The [[fey]] themselves rarely engage in metaphysical cosmology, but the few scholars among them simply laugh at the claims of the [[Standard Multiversal Model]]. 
+The [[Fey]] themselves rarely engage in metaphysical cosmology, but the few scholars among them simply laugh at the claims of the [[Standard Multiversal Model]]. 
 
 %%^Campaign:none%%
 

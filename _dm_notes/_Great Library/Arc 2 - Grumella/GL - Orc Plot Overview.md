@@ -47,7 +47,7 @@ Day 2: travel to centaurs, arrive mid afternoon
 Day 3: travel to manticores; kill lair; rest  
 Day 4: travel back to centaurs; arrive mid-afternoon, rest to level up; get wind walk  
 Day 5: get to roc evening, spend the evening  
-Day 6: move towards [[kobolds]], spend afternoon waiting, evening head to lair  
+Day 6: move towards [[Kobolds]], spend afternoon waiting, evening head to lair  
 Day 7: at dawn, crash earth elemental cave [exhaustion Adrik and Brelith, no long rest]; spend day making a boat  
 Day 8 - 12: sail down river  
 Day 13: arrive in Voltara, leave for scouting  

@@ -22,7 +22,7 @@ The [[Dunmar Fellowship]] researches mystical lore, delves into puzzling local a
 ## Session Info
 ### Summary
 - The [[Dunmar Fellowship]] exits Elven ruins with [[Arborea]] energy, commissioning a [[Portable Hole]] from [[Basu]].
-- They meet [[Kassi]] at the library discuss the [[elves]], gods, and [[Pandemonium]].
+- They meet [[Kassi]] at the library discuss the [[Elves]], gods, and [[Pandemonium]].
 - In [[Tokra]], they converse with [[Kirian]] about a Chardonian scholar [[Servius]], and learn from [[Kaleha]] about local challenges and [[Saka]]'s whereabouts.
 - At the [[Archives]], they uncover [[Govir]]'s research on divine interventions and letters detailing a mysterious cult with lycanthropy connections.
 - The session concludes with the party considering their next move under a full moon, surrounded by the enigma of lycanthropy.

@@ -19,7 +19,7 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The dwarven kingdom of Ardith, once rich and prosperous and spreading from was overrun in the [[Great War]]. Most of the [[dwarves]] who survived settled in the [[Yuvanti Mountains]], founding the new kingdom of [[Nardith]].
+The dwarven kingdom of Ardith, once rich and prosperous and spreading from was overrun in the [[Great War]]. Most of the [[Dwarves]] who survived settled in the [[Yuvanti Mountains]], founding the new kingdom of [[Nardith]].
 
 %% Some useful notes in backlinks, and also in the [[Dwarven Outpost (Raven's Hold)]] note%%
 
@@ -28,7 +28,7 @@ In the far south, south of Urlich, is Ardith, growing rich on trade with Drankor
 %%
 
 %% notes - from Mike's email to his players in Ausson's Crossing Mini Series
-The [[dwarves]] of Ardith made fantastic steel, carved gems and gold into jewelry fit for royalty, and made even rarer metals such as [[adamantine]] and [[mithril]] with secret dwarven arts. But then the [[Great War]] came, and all of Ardith was lost -- overrun with [[Hobgoblins]], [[orcs]], [[Giants]], mind flayers, and much much worse. Many of the [[dwarves]] died, and those that didn't (save a few, such as Roe) fled south to found the kingdom of [[Nardith]] in the [[Yuvanti Mountains]], hundreds of miles south of the campaign. Although some of the Nardikhun (as the [[dwarves]] of [[Nardith]] are now called) feel a calling to their lost home, most find the [[Yuvanti Mountains]] have been kind to them, and few wish to face the dangers of their lost home.
+The [[Dwarves]] of Ardith made fantastic steel, carved gems and gold into jewelry fit for royalty, and made even rarer metals such as [[adamantine]] and [[mithril]] with secret dwarven arts. But then the [[Great War]] came, and all of Ardith was lost -- overrun with [[Hobgoblins]], [[Orcs]], [[Giants]], mind flayers, and much much worse. Many of the [[Dwarves]] died, and those that didn't (save a few, such as Roe) fled south to found the kingdom of [[Nardith]] in the [[Yuvanti Mountains]], hundreds of miles south of the campaign. Although some of the Nardikhun (as the [[Dwarves]] of [[Nardith]] are now called) feel a calling to their lost home, most find the [[Yuvanti Mountains]] have been kind to them, and few wish to face the dangers of their lost home.
 
 And to be clear, the lost kingdom of Ardith is quite dangerous. It is a place with some significant degree of wealth - in the form of fully forged steel, weapons, and jewels, but mostly in open seams of ore with fantastically clever drains and ladders to make access to these deep and rich veins of ore possible.
 
@@ -38,7 +38,7 @@ Those who succeed at plundering (or recovering) the dwarven wealth tend to be gr
 
 And those who do go seeking underground tend to fall into several different camps as well.
 
-For some, it is purely a treasure raid. They may be seeking gold, jewels, weapons, lost tombs, magic weapons, etc. Some of these folks are Nardikhun hunting for lost heirlooms (Darrek Deepmine certainly wasn't the first). Others might have connections to some dwarven communities in [[Duchy of Maseau|Maseau]] or more likely [[Sembara]], where [[dwarves]] are relatively common. But some are just basically grave robbers and adventurers, with little respect for whoever might have owned these things hundreds of years ago.
+For some, it is purely a treasure raid. They may be seeking gold, jewels, weapons, lost tombs, magic weapons, etc. Some of these folks are Nardikhun hunting for lost heirlooms (Darrek Deepmine certainly wasn't the first). Others might have connections to some dwarven communities in [[Duchy of Maseau|Maseau]] or more likely [[Sembara]], where [[Dwarves]] are relatively common. But some are just basically grave robbers and adventurers, with little respect for whoever might have owned these things hundreds of years ago.
 
-For others (and these are more common amongst the [[Humans]] of [[Ausson's Crossing]] and the people of the [[Aurbez Plateau]] in general), the dwarven treasures are dwarven, and to be respected. But they feel if one were to do the work of digging up some ore, using the dwarven mines and dwarven tunnels and sure, the secret dwarven pumps and elevators that give access to the deep mines, and keep them from flooding, it isn't really stealing. After all, does the unmined ore really belong to the [[dwarves]] who fled? And the danger is not small, so the reward feels reasonable.
+For others (and these are more common amongst the [[Humans]] of [[Ausson's Crossing]] and the people of the [[Aurbez Plateau]] in general), the dwarven treasures are dwarven, and to be respected. But they feel if one were to do the work of digging up some ore, using the dwarven mines and dwarven tunnels and sure, the secret dwarven pumps and elevators that give access to the deep mines, and keep them from flooding, it isn't really stealing. After all, does the unmined ore really belong to the [[Dwarves]] who fled? And the danger is not small, so the reward feels reasonable.
 

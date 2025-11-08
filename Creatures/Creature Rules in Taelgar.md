@@ -1,10 +1,12 @@
 ---
-tags: [meta, status/check/mike]
+headerVersion: 2023.11.25
+tags: [meta]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
 ---
-# Typology for Introducing D&D Creatures
+# Creature Rules in Taelgar
+
 
 %% see notes and open questions below - significant revisions to bring up to date with reality of actual play to date%%
 
@@ -153,7 +155,7 @@ D&D creature types do not perfectly map to these categories, but generally this 
 - Dragons, Giants, Plants, Oozes, and Monstrosities can generally just be interpreted based on standard rules. 
 
 
-See the [[Species]] section for how this plays out.
+See the [[Creatures of Taelgar]] section for how this plays out.
 
 
 %% discord notes, to think about

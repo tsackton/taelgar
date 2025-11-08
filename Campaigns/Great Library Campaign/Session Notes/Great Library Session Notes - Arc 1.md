@@ -7,17 +7,17 @@ name: Chronicles of the Quest for the Elemental Scrolls
 ---
 # Chronicles of the Quest for the Elemental Scrolls
 
-The first major adventure of the [[Silver Tempests]], before they acquired their wealth and fame, was in service of the [[Great Library]], hired by Archivist [[Lyra]] to recover the [[Elemental Scrolls of Airion|lost elemental scrolls]], that had been created by a famous wizard, [[Airion|Airion Mistspeaker]], before the [[Great War]], but lost during the chaos of the [[Blood Years]]. Along the way, they helped some [[centaurs]] with a curse; helped the soul of [[Xameia]] of the [[Order of Twilight]] find peace; helped [[Iara]], a lizardfolk woman; and made enemies of the [[Orcs|orcs]] of [[Grumella's Horde]]. 
+The first major adventure of the [[Silver Tempests]], before they acquired their wealth and fame, was in service of the [[Great Library]], hired by Archivist [[Lyra]] to recover the [[Elemental Scrolls of Airion|lost elemental scrolls]], that had been created by a famous wizard, [[Airion|Airion Mistspeaker]], before the [[Great War]], but lost during the chaos of the [[Blood Years]]. Along the way, they helped some [[Centaurs]] with a curse; helped the soul of [[Xameia]] of the [[Order of Twilight]] find peace; helped [[Iara]], a lizardfolk woman; and made enemies of the [[Orcs|orcs]] of [[Grumella's Horde]]. 
 
 We begin on the road to Chardon, as two aspiring adventurers meet...
 ## Adventure 0: Die Froggies Die
 
 ### Session 0
 
-[[Samso]] and [[Adrik]] meet on the road to [[Chardon]], both seeking adventure. Finding a dead horse, they chase some [[bullywugs]] into a swamp and recover a message bag from a messenger.
+[[Samso]] and [[Adrik]] meet on the road to [[Chardon]], both seeking adventure. Finding a dead horse, they chase some [[Bullywugs]] into a swamp and recover a message bag from a messenger.
 ### Events
 
-- (DR:: 1747-02-16): [[Samso]] and [[Adrik]] meet on the road south of [[Chardon]] and retrieve a lost messenger bag from a messenger killed by [[bullywugs]]. 
+- (DR:: 1747-02-16): [[Samso]] and [[Adrik]] meet on the road south of [[Chardon]] and retrieve a lost messenger bag from a messenger killed by [[Bullywugs]]. 
 ## Adventure 1: The Flamekeeper Scroll
 ### Session 1
 
@@ -25,21 +25,21 @@ Our adventure starts on the road: [[Brelith]], [[Adrik]] , [[Samso]], and [[Alto
 
 In [[Lyra]]’s camp, the party learns their mission: search for the [[Elemental Scrolls of Airion|scrolls of elemental power]]. The location of the [[Flamekeeper Scroll]] and the [[Stonemaster Scroll]] are known, while the location of the [[Skyborn Scroll]] and the [[Deepwater Scroll]] are not. 
 
-Our heroes decide to head to the Forge of Fire, a part of an [[Goldpeak Mines|ancient Dwarven mine complex]] that once extended through much of the [[Fiatara Mountains]], where the [[Flamekeeper Scroll ]]is thought to be. They find it is now a kobold shrine to the “fire god”, which is a rune protecting the Flamekeeper Scroll. After killing some [[kobolds]] and convincing others they are the fire god made flesh, they get the scroll, and leave, but not before triggering a magma eruption which destroys forge and probably all the [[kobolds]]. 
+Our heroes decide to head to the Forge of Fire, a part of an [[Goldpeak Mines|ancient Dwarven mine complex]] that once extended through much of the [[Fiatara Mountains]], where the [[Flamekeeper Scroll ]]is thought to be. They find it is now a kobold shrine to the “fire god”, which is a rune protecting the Flamekeeper Scroll. After killing some [[Kobolds]] and convincing others they are the fire god made flesh, they get the scroll, and leave, but not before triggering a magma eruption which destroys forge and probably all the [[Kobolds]]. 
 #### Events
 
 - (DR:: 1747-04-04): [[Samso]], [[Brelith]], [[Adrik]], and [[Alton]] are attacked by [[Goblins]] on the road to [[Voltara]], and then meet Archivist [[Lyra]] at her camp. 
-- (DR:: 1747-04-05): [[Samso]], [[Brelith]], [[Adrik]], and [[Alton]] find the [[Goldpeak Mines|Forge of Fire]] and recover the [[Flamekeeper Scroll]] from a [[kobolds|kobold]] tribe.  
+- (DR:: 1747-04-05): [[Samso]], [[Brelith]], [[Adrik]], and [[Alton]] find the [[Goldpeak Mines|Forge of Fire]] and recover the [[Flamekeeper Scroll]] from a [[Kobolds|kobold]] tribe.  
 
 ## Adventure 2: The Stonemaster Scroll
 ### Session 2
 
-[[Samso]] and [[Adrik]] meet another member of the [[Great Library]] adventurers’ team, [[Aglath]] the Goliath Fighter, at [[The Purple Pig]] in [[Voltara]]. With the map from Archivist [[Lyra]], they set forth to find the [[Stonemaster Scroll]]. Traveling north across the [[Erbalta Plains]], they encounter a few [[orcs]] before arriving at the [[Crystal Cavern|cave]] where the scroll is hidden. After defeating some puzzled orc guards, a cursed swarm of tiny orcs, and a magically shrunken hill giant, they find the scroll is a large stone chest. [[Samso]] recovers a shrunken black bear which he names [[Friend]].
+[[Samso]] and [[Adrik]] meet another member of the [[Great Library]] adventurers’ team, [[Aglath]] the Goliath Fighter, at [[The Purple Pig]] in [[Voltara]]. With the map from Archivist [[Lyra]], they set forth to find the [[Stonemaster Scroll]]. Traveling north across the [[Erbalta Plains]], they encounter a few [[Orcs]] before arriving at the [[Crystal Cavern|cave]] where the scroll is hidden. After defeating some puzzled orc guards, a cursed swarm of tiny orcs, and a magically shrunken hill giant, they find the scroll is a large stone chest. [[Samso]] recovers a shrunken black bear which he names [[Friend]].
 ### Events
 
 - (DR:: 1747-04-08): [[Samso]], [[Brelith]], and [[Adrik]] arrive in [[Voltara]]. 
 - (DR:: 1747-04-15): [[Samso]] and [[Adrik]] meet the stoneborn [[Aglath]] at [[The Purple Pig]] in [[Voltara]], and depart to seek the [[Stonemaster Scroll]]. 
-- (DR:: 1747-04-17): [[Samso]], [[Adrik]], and [[Aglath]] arrive at the [[Crystal Cavern]], where the [[Stonemaster Scroll]] is hidden, after passing through [[orcs|orc]] territory. Retrieve the scroll and befriend the miniature shrunken black bear, named [[Friend]]. 
+- (DR:: 1747-04-17): [[Samso]], [[Adrik]], and [[Aglath]] arrive at the [[Crystal Cavern]], where the [[Stonemaster Scroll]] is hidden, after passing through [[Orcs|orc]] territory. Retrieve the scroll and befriend the miniature shrunken black bear, named [[Friend]]. 
 - (DR:: 1747-04-19): [[Samso]], [[Adrik]], and [[Aglath]] arrive back in [[Voltara]]. 
 
 ## Adventure 3: Letters from the Abbey
@@ -64,14 +64,14 @@ In the abbey, the party encounters ghouls and zombies, and the talkative ghost o
 ## Adventure 5: The Dwarven Forge
 ### Session 5
 
-[[Adrik]], [[Samso]], [[Aglath]], [[Aelar]], and [[Brelith]], hanging out at [[The Purple Pig]], fend off a dire wolf attack on town. [[Brelith]] learns in town this may be connected to the dwarven ruins under [[Goldpeak Mountain]], part of the same complex of [[Goldpeak Mines|extensive dwarven ruins]] as the Forge of Fire. After a brief and rather unsuccessful meeting with traveling merchant and caravan master, [[Quintus Percomia]] who has need of adventurers to help a group of [[centaurs]] to the south, the party decides to explore the dwarven ruins and the source of the dire wolf attacks. Finding the entrance to the mine, the party fights off death dogs, ankhegs, and a chuul before deciding to retreat to safety and rest before exploring further. 
+[[Adrik]], [[Samso]], [[Aglath]], [[Aelar]], and [[Brelith]], hanging out at [[The Purple Pig]], fend off a dire wolf attack on town. [[Brelith]] learns in town this may be connected to the dwarven ruins under [[Goldpeak Mountain]], part of the same complex of [[Goldpeak Mines|extensive dwarven ruins]] as the Forge of Fire. After a brief and rather unsuccessful meeting with traveling merchant and caravan master, [[Quintus Percomia]] who has need of adventurers to help a group of [[Centaurs]] to the south, the party decides to explore the dwarven ruins and the source of the dire wolf attacks. Finding the entrance to the mine, the party fights off death dogs, ankhegs, and a chuul before deciding to retreat to safety and rest before exploring further. 
 ### Session 6
 
 While [[Brelith]] and [[Aglath]] return to town, [[Samso]], [[Adrik]], and [[Aelar]] head back to the mine to explore. At the entrance to the mine, they meet [[Oskar]], a Dwarven Ranger, and [[Stoneclaw]], his hyena companion. Continuing into the mines, they defeat a carrion crawler, subdue a giant subterranean lizard, manage to disable the haunted statue that is stirring up the local monster population, and find some Dwarven treasure ([[Thunderbrand]] and [[Coldguard]]). On the way back, some exploration turns up a small amount of [[mithril]], which [[Aelar]] keeps. 
 ### Events
 
 - (DR:: 1747-05-29): Wolves driven mad by some magic attack [[Voltara]], and are defeated by [[Adrik]], [[Samso]], [[Aglath]], and [[Brelith]]. 
-- (DR:: 1747-05-30): [[Adrik]], [[Samso]], [[Aglath]], [[Aelar]], and [[Brelith]] meet [[Quintus Percomia]], a caravan master and [[chalyte]] trader. They learn about some [[centaurs]] to the south in trouble, but decide to head west to find the source of the wolf attacks. 
+- (DR:: 1747-05-30): [[Adrik]], [[Samso]], [[Aglath]], [[Aelar]], and [[Brelith]] meet [[Quintus Percomia]], a caravan master and [[chalyte]] trader. They learn about some [[Centaurs]] to the south in trouble, but decide to head west to find the source of the wolf attacks. 
 - (DR:: 1747-06-01): [[Adrik]], [[Samso]], [[Aglath]], [[Aelar]], and [[Brelith]] arrive at the entrance to the [[Deeprivers|Deepriver Clan]] mine under [[Goldpeak Mountain]], in the [[Fiatara Mountains]]. They enter, fight some battles, and retreat. 
 - (DR:: 1747-06-02): [[Brelith]] and [[Aglath]] return to town. [[Samso]], [[Adrik]], and [[Aelar]] head back to the mine, where they meet [[Oskar]] and clear the mine of the magic that was causing trouble. 
 - (DR:: 1747-06-04): [[Samso]], [[Adrik]], and [[Aelar]] return to [[Voltara]]. 
@@ -79,10 +79,10 @@ While [[Brelith]] and [[Aglath]] return to town, [[Samso]], [[Adrik]], and [[Ael
 ## Adventure 6: The Cursed Tomb
 ### Session 7
 
-Back in town, [[Adrik]], [[Samso]], [[Aglath]], and [[Brelith]], joined by [[Scordith]], visit again with [[Quintus Percomia|Quintus]], where [[Aglath]] apologizes for his rude behavior before and the party learns more about the problems the [[centaurs]] are having. Apparently, the local water supply has been poisoned by a curse. The party heads south to investigate. After surviving oozes raining from the sky, and a wild boar charge, they meet the centaurs and head to investigate the [[Pykolon Lake|cursed lake]]. There, they find the tomb of [[Xameia|Xameia the Forsworn]], a paladin of the [[Order of Twilight]], sacred to [[The Night Queen]], who forsook her oath out of a desire for greed and was cursed. She cannot rest until the temple of her order is restored to atone for her mistakes. The party agrees to take on this challenge, and [[Xameia]] subsides, freeing the lake of her influence for 30 days. After being rewarded by the [[centaurs]], the party heads back to [[Voltara]].
+Back in town, [[Adrik]], [[Samso]], [[Aglath]], and [[Brelith]], joined by [[Scordith]], visit again with [[Quintus Percomia|Quintus]], where [[Aglath]] apologizes for his rude behavior before and the party learns more about the problems the [[Centaurs]] are having. Apparently, the local water supply has been poisoned by a curse. The party heads south to investigate. After surviving oozes raining from the sky, and a wild boar charge, they meet the centaurs and head to investigate the [[Pykolon Lake|cursed lake]]. There, they find the tomb of [[Xameia|Xameia the Forsworn]], a paladin of the [[Order of Twilight]], sacred to [[The Night Queen]], who forsook her oath out of a desire for greed and was cursed. She cannot rest until the temple of her order is restored to atone for her mistakes. The party agrees to take on this challenge, and [[Xameia]] subsides, freeing the lake of her influence for 30 days. After being rewarded by the [[Centaurs]], the party heads back to [[Voltara]].
 ### Events
 
-- (DR:: 1747-06-06): [[Samso]], [[Adrik]], [[Brelith]], [[Scordith]], and [[Aglath]] visit [[Quintus Percomia]] and learn of the problems of the [[centaurs]] to the south. 
+- (DR:: 1747-06-06): [[Samso]], [[Adrik]], [[Brelith]], [[Scordith]], and [[Aglath]] visit [[Quintus Percomia]] and learn of the problems of the [[Centaurs]] to the south. 
 - (DR:: 1747-06-08): [[Samso]], [[Adrik]], [[Brelith]], [[Scordith]], and [[Aglath]] arrive at the centaur camp and deal with the poisoned water by placating [[Xameia|Xameia the Forsworn]], a paladin of the [[Order of Twilight]] who broke her oath. They promise to restore the temple of her order in 30 days. 
 - (DR:: 1747-06-09): [[Scordith]] leaves to returns to Voltara and is never seen from again, while the others rest in the centaur camp.
 ## Adventure 7: Orcs at the Lonely Watchtower
@@ -91,14 +91,14 @@ Back in town, [[Adrik]], [[Samso]], [[Aglath]], and [[Brelith]], joined by [[Sco
 Returning from the centaur camp, [[Adrik]], [[Samso]], [[Brelith]], and [[Aglath]] are attacked on the road by bandits, where they are joined by [[Oskar]]. The bandits are desperate for treasure to pay off demands of tribute from orc raiders, but quickly surrender when it is clear they are overmatched. After gathering some information, the party heads to the[[ Lonely Watchtower]], the raiding base of this [[Grumella's Horde|group of orcs]]. There, the party makes their way through the tangleweed around the tower, defeats the orc guards, and ultimately kill [[Raluhk|Raluhk the Orog]] the leader of this raiding band. Exploring the rest of the outpost, they rescue [[Ralvaz]], a mine captain working north of [[Voltara]] who reports orc raids on numerous caravans bringing treasure from the mines to [[Voltara]]. The party then returns to [[Voltara]] with this news.
 ### Events
 
-- (DR:: 1747-06-10): On the road back to [[Voltara]], [[Adrik]], [[Samso]], [[Brelith]], and [[Aglath]] are attacked by bandits, and are joined by [[Oskar]]. Subdue the bandits, and learn they need money to pay off [[orcs]] raiding from the [[Lonely Watchtower]]. 
+- (DR:: 1747-06-10): On the road back to [[Voltara]], [[Adrik]], [[Samso]], [[Brelith]], and [[Aglath]] are attacked by bandits, and are joined by [[Oskar]]. Subdue the bandits, and learn they need money to pay off [[Orcs]] raiding from the [[Lonely Watchtower]]. 
 - (DR:: 1747-06-11): [[Adrik]], [[Samso]], [[Brelith]], [[Aglath]], and [[Oskar]] arrive at the [[Lonely Watchtower]] and destroy some [[Grumella's Horde|orcs]], including the chief [[Raluhk|Raluhk the Orog]]. Rescue [[Ralvaz]], a mine captain who reports many orc raids. 
 - (DR:: 1747-06-14): [[Adrik]], [[Samso]], [[Brelith]], and [[Aglath]] return to [[Voltara]] with news about the raids.
 
 ## Adventure 8: Iara’s Plea
 ### Session 9
 
-After returning to [[Voltara]] from the orc camp in a ruined watchtower, [[Samso]] is approached by a troubled [[lizardfolk]] woman named [[Iara]] who is looking for help after the people of her village to the west mysteriously disappeared. Joining with [[Brelith]], [[Aelar]], and [[Adrik]], the group heads to investigate. Traveling west, they find an empty lizardfolk village, and are attacked by shadowy creatures that look like evil echos of lizardfolk. They find the lair of these shadow creatures, where [[Aelar]] surprises and kills two guards with poisoned darts. In the lair, they confront and kill the leader of these shadow creatures.
+After returning to [[Voltara]] from the orc camp in a ruined watchtower, [[Samso]] is approached by a troubled [[Lizardfolk]] woman named [[Iara]] who is looking for help after the people of her village to the west mysteriously disappeared. Joining with [[Brelith]], [[Aelar]], and [[Adrik]], the group heads to investigate. Traveling west, they find an empty lizardfolk village, and are attacked by shadowy creatures that look like evil echos of lizardfolk. They find the lair of these shadow creatures, where [[Aelar]] surprises and kills two guards with poisoned darts. In the lair, they confront and kill the leader of these shadow creatures.
 
 ### Session 10
 
@@ -146,13 +146,13 @@ Continuing to defend the temple, in the middle of the night the remnants of the 
 
 ### Session 16
 
-Returning from the success of restoring the [[Order of Twilight Temple (Voltara)|temple]] of the [[Order of Twilight]], [[Adrik]], [[Brelith]], [[Aelar]], and [[Samso]] are invited to meet the [[Anton Lavernia|proconsul]], the governor of [[Voltara]], and given permission to enter the walled city itself. After this meeting, they receive word a messenger bearing information about the last [[Elemental Scrolls of Airion|elemental scroll]] has gone missing, and head out on a mission from Archivist [[Lyra]] to ransom the messenger from [[kobolds]]. While they are able to ransom the messenger, [[Amus]], they realize that he does not have the map they need to locate the scroll: it has been taken by the [[kobolds]]. Leaving [[Amus]] in a well-hidden camp, the party deduces that the [[kobolds]] may try to get the map to [[Grumella]]. Searching for hidden exits from the lair, they find several, and set a careful ambush. With some clever planning, the ambush is a success and the scroll is recovered, after which the party returns to their camp to rest and plot their next move. 
+Returning from the success of restoring the [[Order of Twilight Temple (Voltara)|temple]] of the [[Order of Twilight]], [[Adrik]], [[Brelith]], [[Aelar]], and [[Samso]] are invited to meet the [[Anton Lavernia|proconsul]], the governor of [[Voltara]], and given permission to enter the walled city itself. After this meeting, they receive word a messenger bearing information about the last [[Elemental Scrolls of Airion|elemental scroll]] has gone missing, and head out on a mission from Archivist [[Lyra]] to ransom the messenger from [[Kobolds]]. While they are able to ransom the messenger, [[Amus]], they realize that he does not have the map they need to locate the scroll: it has been taken by the [[Kobolds]]. Leaving [[Amus]] in a well-hidden camp, the party deduces that the [[Kobolds]] may try to get the map to [[Grumella]]. Searching for hidden exits from the lair, they find several, and set a careful ambush. With some clever planning, the ambush is a success and the scroll is recovered, after which the party returns to their camp to rest and plot their next move. 
 ### Events
 
 - (DR:: 1747-07-08): The party arrives back in [[Voltara]]. 
 - (DR:: 1747-07-09): The party meets the [[Anton Lavernia|proconsul]], and Archivist [[Lyra]] tells them a messenger is missing. 
-- (DR:: 1747-07-10): [[Adrik]], [[Brelith]], [[Aelar]], and [[Samso]] random the messenger from the [[kobolds]], but not the map they need to find the last scroll, the Skyborn Scroll.  
-- (DR:: 1747-07-11): The party, with [[Aglath]], ambushes the [[kobolds]] and retrieves the map to the [[Skyborn Scroll]]. 
+- (DR:: 1747-07-10): [[Adrik]], [[Brelith]], [[Aelar]], and [[Samso]] random the messenger from the [[Kobolds]], but not the map they need to find the last scroll, the Skyborn Scroll.  
+- (DR:: 1747-07-11): The party, with [[Aglath]], ambushes the [[Kobolds]] and retrieves the map to the [[Skyborn Scroll]]. 
 
 ## Adventure 11: The Skyborn Scroll
 ### Session 17
@@ -199,7 +199,7 @@ Ascending to the final floor of the tower, the party encounters [[Airion|Airion 
 
 Spent after the battle, the adventurers decide to rest in the tower and head to [[Dinia]]’s after, when the sun is down and the glacier less prone to melt beneath their feet. As they rest, a glowing rune appears, growing and pulsing. Curiously and somewhat foolishly, [[Adrik]] and [[Aelar]] sit by it, noticing that it grows faster when they get closer. After half an hour, two living lightning bolts appear and attack. The party rushes into combat, and although [[Aelar]] is knocked out, they win and resume their rest. 
 
-After a full sleep, the rune appears again, and they leave before it is activated, resources refreshed. They make it across the glacier without much trouble due to [[Samso]] and [[Brelith]]’s skills, and make it past a shifting crevice with [[Adrik]]’s (a little late) help. Before they reach [[Dinia]]’s, they encounter a wolf pack. [[Samso]] negotiates with his druidic and [[lizardfolk]] abilities, and [[Aelar]] suggests leading them to the frozen yeti corpse to eat. However, intelligent, magical alpha’s appear, interrupting. After tense bargaining, they get away, but not before [[Aelar]] acts foolishly and provokes a single parting attack. They reach [[Dinia]]’s and chat with her, learning more about [[Chardon]]’s history and the air scroll itself. Empowering by her stories, they leave on a route that the bard suggested, heading down the mountain. The session ends as an orc sentry from [[Grumella's Horde]] -- also chasing the scroll -- sees them and blows their horn.
+After a full sleep, the rune appears again, and they leave before it is activated, resources refreshed. They make it across the glacier without much trouble due to [[Samso]] and [[Brelith]]’s skills, and make it past a shifting crevice with [[Adrik]]’s (a little late) help. Before they reach [[Dinia]]’s, they encounter a wolf pack. [[Samso]] negotiates with his druidic and [[Lizardfolk]] abilities, and [[Aelar]] suggests leading them to the frozen yeti corpse to eat. However, intelligent, magical alpha’s appear, interrupting. After tense bargaining, they get away, but not before [[Aelar]] acts foolishly and provokes a single parting attack. They reach [[Dinia]]’s and chat with her, learning more about [[Chardon]]’s history and the air scroll itself. Empowering by her stories, they leave on a route that the bard suggested, heading down the mountain. The session ends as an orc sentry from [[Grumella's Horde]] -- also chasing the scroll -- sees them and blows their horn.
 
 ### Session 28
 

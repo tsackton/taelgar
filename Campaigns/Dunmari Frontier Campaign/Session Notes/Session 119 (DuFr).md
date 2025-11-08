@@ -31,7 +31,7 @@ The party enters the [[Feywild]], meets mystical beings, and is advised to proce
 
 ### Timeline
 - (DR:: 1749-05-30), night: The party rests on [[Vindristjarna]]
-- (DR:: 1749-05-31): Travel to [[Bitterwine Oak]], a [[Feywild]] portal and pass through into [[Emberwine]]. Meet satyrs; a barge of [[fey]] on a river of wine; and a rabbit-like creature called [[Auntie Mulberry]]. Travel towards [[Sunwine Hall]] and the court of the Master of Revels.  
+- (DR:: 1749-05-31): Travel to [[Bitterwine Oak]], a [[Feywild]] portal and pass through into [[Emberwine]]. Meet satyrs; a barge of [[Fey]] on a river of wine; and a rabbit-like creature called [[Auntie Mulberry]]. Travel towards [[Sunwine Hall]] and the court of the Master of Revels.  
 
 ## Narrative
 The session begins with the [[Vindristjarna]] arriving at the [[Bitterwine Oak]] portal - a massive tree with crimson wine pools at its roots, standing unnaturally in the desert. [[Lady Eventide]], who had possessed [[Seeker]], retreats back within him, leaving a streak of white in his red hair while remaining present as a passenger rather than controlling force.

@@ -21,4 +21,4 @@ The palace, located near the center of the city and set on a small hill, has an 
 
 The hall of ancestors is a large, imposing structure made of sandstone, adorned with intricate carvings depicting both the ancient legends of the origin of the [[People of the Rainbow]], and the founding of [[Xurkhaz]] under the leadership of [[Uzgash]]. 
 
-Outside the hall of ancestors is the Plaza of Freedom, the central public square of Uzgukhar. The plaza of freedom celebrates the refugees who kept the dream of the [[People of the Rainbow]] alive during the dark years when the [[Cloak of Rainbows|Cloak of Rainbows]] was lost, and also includes a monument to all [[orcs]] that still suffer under [[Thark]]'s chains. 
+Outside the hall of ancestors is the Plaza of Freedom, the central public square of Uzgukhar. The plaza of freedom celebrates the refugees who kept the dream of the [[People of the Rainbow]] alive during the dark years when the [[Cloak of Rainbows|Cloak of Rainbows]] was lost, and also includes a monument to all [[Orcs]] that still suffer under [[Thark]]'s chains. 

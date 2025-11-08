@@ -23,7 +23,7 @@ Kenzo and his lizardfolk allies meet Somi-nai, the volcano spirit, and learn abo
 
 ## Session Info
 ### Summary
-- [[Kenzo]] joins forces with [[lizardfolk]] heroes [[Izzarak]] and [[Enari]] to restore balance to the [[Azta Lekua]].
+- [[Kenzo]] joins forces with [[Lizardfolk]] heroes [[Izzarak]] and [[Enari]] to restore balance to the [[Azta Lekua]].
 - The party, guided by [[Enari]], journeys uneventfully before encountering a river of lava and fire creatures.
 - They battle a flaming ankylosaur and fire wasps to aid the fire spirit, [[Somi-nai]], the volcano's personification.
 - [[Somi-nai]] explains the disturbance at the Footprint of the Gods is due to [[Motua]], a guardian from the [[Land of the Dead]].

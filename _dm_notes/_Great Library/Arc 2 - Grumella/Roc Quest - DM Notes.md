@@ -34,7 +34,7 @@ Rocs can direct party to kobold caves, and will tell them that dao take slaves t
  
 If for some crazy reason the party decides to assault the kobold base, reuse maps etc from beginning of air scroll quest.
  
-Improvise [[kobolds]] -- they are wary and a bit nasty. Can be intimidated into revealing information, or bribed,. Appealing to their sense of nobility unlikely to work, as they are currently completely in thrall of the dao, who with ability to move through stone just completely ignores the traps and defenses of their base. Have been bringing slaves to him in exchange for protection, food, treasure.
+Improvise [[Kobolds]] -- they are wary and a bit nasty. Can be intimidated into revealing information, or bribed,. Appealing to their sense of nobility unlikely to work, as they are currently completely in thrall of the dao, who with ability to move through stone just completely ignores the traps and defenses of their base. Have been bringing slaves to him in exchange for protection, food, treasure.
  
 Kobolds feel an attack is risky, very risky, and the current situation is sustainable. Why not just bring the party as slaves, that will buy them a lot of time?
  

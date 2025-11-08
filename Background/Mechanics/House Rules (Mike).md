@@ -7,7 +7,7 @@ dm_owner: mike
 In general, the rules from the 2024 Player's Handbook are used, with several notable changes.
 
 a) Do not select a background.
-b) Select a species from [[Species of Taelgar]]
+b) Select a species from [[Playable Species of Taelgar]]
 c) Build your stats using the [[#Stats|rules below]]
 d) Use [[Competencies]] to select your starting languages, tools, and other flavor. See [[Languages]] for information on starting languages. You may select any language although a good in-game explanation may be required for [[Languages#Exotic Languages|exotic]] or [[Languages#Extra-Planar Languages|extra-planar]] languages, as well as [[Languages#Halfling|halfling]], which is not as a rule taught to outsiders. 
 e) Choose an Origin Feat as your starting feat. See [[#Feats]] for more rules about feats. 

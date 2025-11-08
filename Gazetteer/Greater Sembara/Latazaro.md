@@ -17,4 +17,4 @@ dm_owner: none
 
 %% one of the characters in the 3-session mini-adventure I did was from here, but never really developed much backstory beyond a bit of color %%
 
-A [[lizardfolk]] community on the borders of [[Tyrwingha]] and [[Western Cymea]]. 
+A [[Lizardfolk]] community on the borders of [[Tyrwingha]] and [[Western Cymea]]. 

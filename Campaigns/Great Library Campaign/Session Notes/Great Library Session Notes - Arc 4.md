@@ -19,7 +19,7 @@ After defeating were-[[Adrik]], the party arrives at a [[~Voltara East Border Fo
 
 ### Session 52
 
-After regrouping, the party heads upriver and discovers a small [[bullywugs|bullywug]] village, that appears to have been stealing the Chardonian cattle. The party attacks and nearly wipes out the entire [[~Bullywug Village~|village]] before realizing that perhaps they should have talked first. After some limited communication with drawings and diagrams – and the threat of a giant froghemoth potentially attacking them – they realize the [[bullywugs]] were driven from their home by a [[Dragons|dragon]]. The bullywugs communicate that if the dragon is killed, all will be forgiven.
+After regrouping, the party heads upriver and discovers a small [[Bullywugs|bullywug]] village, that appears to have been stealing the Chardonian cattle. The party attacks and nearly wipes out the entire [[~Bullywug Village~|village]] before realizing that perhaps they should have talked first. After some limited communication with drawings and diagrams – and the threat of a giant froghemoth potentially attacking them – they realize the [[Bullywugs]] were driven from their home by a [[Dragons|dragon]]. The bullywugs communicate that if the dragon is killed, all will be forgiven.
 
 ### Session 53
 
@@ -45,7 +45,7 @@ The party then loots [[Nymthrax's Hoard|his hoard]], finding a vast collection o
 
 ### Session 56
 
-The party spends a considerable amount of time organizing treasure and figuring out how to transport the entire hoard. With that accomplished, they head south, saying goodbye to [[Izkir]], and then meeting again with the [[bullywugs]] to tell them their home is safe and return some treasure the dragon stole from them. 
+The party spends a considerable amount of time organizing treasure and figuring out how to transport the entire hoard. With that accomplished, they head south, saying goodbye to [[Izkir]], and then meeting again with the [[Bullywugs]] to tell them their home is safe and return some treasure the dragon stole from them. 
 
 A few weeks later, they arrive back in [[Voltara]], greeting by [[Julius of Voltara|Julius]], their steward. 
 
@@ -56,7 +56,7 @@ A few weeks later, they arrive back in [[Voltara]], greeting by [[Julius of Volt
 - (DR:: 1748-01-08): [[Adrik]] cured of lycanthropy by [[Brelith]]. 
 - (DR:: 1748-01-17): [[Adrik]], [[Brelith]], [[Samso]], and [[Aelar]] arrive back in the [[Chardonian Empire]], stopped at the [[~Voltara East Border Fort~|border fort]]. Learn it is in dire straights, its winter food supplies being raided by something on the river. Attempt to scout unsuccessfully. 
 - (DR:: 1748-01-18): Head north to find out what is stealing food. 
-- (DR:: 1748-01-19): Find and attack a [[bullywugs|bullywug]] [[~Bullywug Village~|village]]. Kill many before making peace and learning the bullywugs were driven from their home by a [[Dragons|dragon]]. Agree to kill the dragon. 
+- (DR:: 1748-01-19): Find and attack a [[Bullywugs|bullywug]] [[~Bullywug Village~|village]]. Kill many before making peace and learning the bullywugs were driven from their home by a [[Dragons|dragon]]. Agree to kill the dragon. 
 - (DR:: 1748-01-21): Return to [[~Voltara East Border Fort~]] with news. Head north to find the dragon. 
 - (DR:: 1748-01-29): Party encounters [[Deno'qai ]]scouts at a portage on the river. Go to council, learn the Deno'qai want to kill the dragon too.
 - (DR:: 1748-02-01): Party leaves [[Deno'qai]] council with [[Izkir]], a guide and sorcerer blessed by the [[tanshi]], heading for the [[Blackwater Fens]], where the dragon lives.
@@ -102,7 +102,7 @@ The party confronts the beholder [[Vilaxes]] in a massive cavern dominated by a 
 
 ### Session 60
 
-Back in [[Voltara]], the [[Silver Tempests]] enjoys the rewards of their status and reputation. [[Brelith]] apprentices himself to the chef at [[Finoc Small]]’s tavern, [[The Wandering Toad]], learning to cook, and opening a restaurant, [[Cleric Cooks]]. [[Adrik]] goes on a binge of pit fighting and gambling, managing to end up with a small profit. [[Samso]] travels to visit with [[Iara]] at the [[lizardfolk]] community near [[Lake Valandros]], and learns more about the mysterious attacks. [[Alton]] opens a boisterous tavern and dive bar outside the city walls, called the [[Rogue’s Range]], with axe throwing for patrons. 
+Back in [[Voltara]], the [[Silver Tempests]] enjoys the rewards of their status and reputation. [[Brelith]] apprentices himself to the chef at [[Finoc Small]]’s tavern, [[The Wandering Toad]], learning to cook, and opening a restaurant, [[Cleric Cooks]]. [[Adrik]] goes on a binge of pit fighting and gambling, managing to end up with a small profit. [[Samso]] travels to visit with [[Iara]] at the [[Lizardfolk]] community near [[Lake Valandros]], and learns more about the mysterious attacks. [[Alton]] opens a boisterous tavern and dive bar outside the city walls, called the [[Rogue’s Range]], with axe throwing for patrons. 
 
 Four months later, the [[Silver Tempests]] host a party, a grand opening for [[Cleric Cooks]]. Many old friends are there, thanks to [[Samso]]’s new magic ability to teleport via plants: [[Dinia]], from the north; [[Brelith]]’s parents and some other dwarves of [[Zarkandur]]; and [[Aris]] and some other centaurs, who are leaving on the next stop in their migration and have come to say goodbye. It is a big success.
 

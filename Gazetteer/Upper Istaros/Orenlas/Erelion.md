@@ -16,9 +16,9 @@ dm_notes: important
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ## Overview
-An ancient elven city in the kingdom of [[Orenlas]], claimed by many [[elves]] to be the oldest continually occupied settlement on Taelgar. 
+An ancient elven city in the kingdom of [[Orenlas]], claimed by many [[Elves]] to be the oldest continually occupied settlement on Taelgar. 
 
-Erelion is a living city, growing in and among the ancient forest of [[Orenlas]]. Elaborate towers appear to grow from the surrounding trees and landscapes, their walls adorned with vines, leaves, and flowers. Bridges woven from living vines connect various parts of the city, allowing [[elves]] to traverse the canopy with grace. At night, the paths of the city are lit by bioluminescent plants and animals, their soft, soothing glow casting a dreamlike aura over the city.
+Erelion is a living city, growing in and among the ancient forest of [[Orenlas]]. Elaborate towers appear to grow from the surrounding trees and landscapes, their walls adorned with vines, leaves, and flowers. Bridges woven from living vines connect various parts of the city, allowing [[Elves]] to traverse the canopy with grace. At night, the paths of the city are lit by bioluminescent plants and animals, their soft, soothing glow casting a dreamlike aura over the city.
 
 ![[erelion-4-overview-c.png]]
 *The city and the forest are intertwined around each other.*

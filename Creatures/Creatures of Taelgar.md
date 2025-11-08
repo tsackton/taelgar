@@ -1,14 +1,40 @@
 ---
-tags: [meta, status/check/mike]
-dm_owner: joint
-dm_notes: none
+headerVersion: 2023.11.25
+name: Species in Taelgar
+tags: [background, status/needswork/old]
+dm_owner: shared
+dm_notes: important
 ---
-%% Player facing %%
+# Species in Taelgar
+
+%% Character facing %%
+
+%% this needs to be updated per revised [[Creature Rules in Taelgar]] document and updated metaphysics %%
+
+The world of Taelgar is populated by many sentient species. All sentient species in Taelgar were created, in some way, by magic, usually by the direct intervention of a deity.  
+
+The first sentient beings on Taelgar were the [[Children of the Riving]]. The [[Divine Presence]] created the [[Dragons]], [[Fey]], [[Elementals]], and [[Giants]] in the mythic age before even the [[Elder Folk]] walked the earth. Imbued with powerful magic, these creatures dominated the world in the early days of creation, when magic was strong and the various planes of existence still intertwined with the [[Material Plane]]. 
+
+While many of the descendants of these powerful beings now dwell outside the [[Material Plane]], there are exceptions. [[Dragons]], [[Elementals]], and [[Giants]] feature regularly in tales of adventure; while most common folk have never personally encountered these powerful creatures, they are the heroes and villains of many tales. The [[Centaurs]], descended from the first [[Fey]], claimed Taelgar as their home long ago, and are now rarely found in the [[Feywild]]. Many other [[Fey]], though not native to the material plane, are frequent visitors to Taelgar. And the diminutive trickster [[Kobolds]], created by powerful [[Dragons]] in days long past, can still be found in various corners of the world. 
+
+The Divine Beings also created the Embodied Gods, who were shaped from divine energy, given physical form, permanence and consciousness, and the power to create. These Firstborn created the [[Elder Folk]] in their image, who draw power and magic from the mystical connection they share with their creator gods. They are the [[Elves]], [[Dwarves|Dwarves]], [[Stoneborn]], [[Lizardfolk]], and [[Halflings]]
+
+Some Embodied Gods were not created by the Divine Beings, but instead came into existence through the corruption of the Undivine, the Void Mind, a malevolent force dedicated to emptiness, the undoing of creation itself. These evil gods are responsible for the [[Orcs]], [[Lycanthropes|the curse of lycanthropy]], and [[Undead]], as well as many monstrosities that roam the land. The [[Goblinoids]] are also the creations of the Undivine, made as servants of the forces that seek to undo creation. 
+
+The [[Humans]], the most numerous sentient species on Taelgar, were created by the Divine Beings themselves, and gifted the divine spark. Through the prayers, curses, hopes, and fears of humanity, the Incorporeal Gods and the [[Extraplanar Natives]], the fiends, celestials, and other creatures of [[Divine Realms]], were imagined into being.
+
+Scattered across Taelgar are also more [[Unusual Species]], with diverse and strange histories. These includes the [[Gnomes]], rumored to be distant relatives of the dwarves; the flying [[Kenku]] who live in secretive homes in the north and do not share their creation story with outsiders; and the various aquatic and semi-aquatic [[Merfolk]] who inhabit the oceans, swamps, and rivers of Taelgar, rarely interacting with the surface worlds; and the Creatures of the [[Far Realms]], with alien goals and strange powers. 
+
+What other sentient beings may live in the far corners of the world, deep underground or across the oceans, remains a mystery. 
+
+
 # Species of Taelgar
+
+%% Player facing %%
 
 Taelgar is a world inhabited by many diverse creatures. A large number of these creatures, whether magical or ordinary, 
 
-[[species]], many of which are appropriate options for player characters. The following species, described in brief, are well-known by most people in Taelgar. Species that are player options are marked with a ******* .
+[[Creatures of Taelgar]], many of which are appropriate options for player characters. The following species, described in brief, are well-known by most people in Taelgar. Species that are player options are marked with a ******* .
 ## Standard Species
 
 There are 13 species that most anyone on Taelgar has likely heard of, although most common people of the world will likely have only met a few non-humans, unless they live in a large, cosmopolitan city. 
@@ -64,27 +90,3 @@ Legends and rumors speak of other, stranger species in the world of Taelgar. Sai
 ***Gnomes***: Long ago, before the Downfall, many dwarves left their underground homes, fleeing the dangers of the Underdark that crept into the world from cracks in multiverse, settling in empty places in the distant corners of the world. Over the centuries, as they adopted to their new aboveground homes, they forged a new identity for themselves, calling themselves gnomes. 
 
 ***Free Orcs***: Rumors speak of some orcs that have escaped the divine bonds that chain them to the will of Thark, the god of endless war. Free from the influence of their god, these orcs chart their own path in Taelgar, although usually seek to live hidden from others in isolated communities, both to avoid the wrath of Thark and to avoid the anger and fear of other peoples. 
-
-## Mechanics
-
-The following table lists the playable species of Taelgar, and includes information about mechanical choices and role playing considerations to guide your choice.
-
-| Species                 | Group               | Key Question(s)                                                                                                                                                                                           | **Details**                                    | Starting Languages |
-| ----------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- | ------------------ |
-| [[Humans]]              | Common (Standard)   | What is your cultural and religious background?                                                                                                                                                           | [[Playing a Human]]                            | 4                  |
-| [[Halflings\|Halfling]] | Common (Standard)   | Did you grow up nomadic, or not? How did it impact you?                                                                                                                                                   | [[Playing a Halfing]]                          | 5                  |
-| [[Dwarves\|Dwarf]]      | Common (Standard)   | What is your thuhr, and how did it impact (or not) your life?                                                                                                                                             | [[Playing a Dwarf\|Playing a Dwarf]]           | 4                  |
-| [[Lizardfolk]]          | Common (Standard)   |                                                                                                                                                                                                           | [[Playing a Lizardfolk\|Playing a Lizardfolk]] | 4                  |
-| [[Elves\|Elf]]          | Uncommon (Standard) | What generation ([[Elven Cycle of Generations\|ka]]) are you from? What stage of your life are you in: is this your first time leaving your homeland (your first *leya*)? Or have you taken another path? | [[Playing an Elf]]                             | 6                  |
-| [[Stoneborn]]           | Uncommon (Standard) |                                                                                                                                                                                                           | [[Playing a Stoneborn\|Playing a Stoneborn]]   | 4                  |
-| [[Centaurs\|Centaur]]   | Uncommon (Standard) |                                                                                                                                                                                                           | [[Playing a Centaur]]                          |                    |
-| [[Kenku]]               | Uncommon (Standard) |                                                                                                                                                                                                           | [[Playing a Kenku]]                            |                    |
-| [[Fey\|Satyr]]          | Uncommon (Fey)      |                                                                                                                                                                                                           | [[Playing a Fey]]                              | 4 + Sylvan         |
-| [[Fey\|Changeling]]     | Uncommon (Fey)      |                                                                                                                                                                                                           | [[Playing a Fey]]                              | 4 + Sylvan         |
-| [[Kobolds\|Kobold]]     | Rare (Standard)     | Most non-kobolds stereotype you as a nuisance, how do you handle that?                                                                                                                                    | [[Playing a Kobold]]                           |                    |
-| [[Fey\|Fae]]            | Rare (Fey)          |                                                                                                                                                                                                           | [[Playing a Fey]]                              | 4 + Sylvan         |
-| [[Fey\|Fairy]]          | Rare (Fey)          |                                                                                                                                                                                                           | [[Playing a Fey]]                              | 4 + Sylvan         |
-| [[Fey\|Beastfolk]]      | Rare (Fey)          |                                                                                                                                                                                                           | [[Playing a Fey]]                              | 4 + Sylvan         |
-| Plane-touched           | Rare (Unusual)      | Are you open about your plane-touched heritage? If so, how has it impacted your life? If not, how do you hide it?                                                                                         | [[Playing a Plane-Touched]]                    | 4                  |
-| Gnome                   | Very Rare (Unusual) |                                                                                                                                                                                                           | N/A                                            |                    |
-| Free Orc                | Very Rare (Unusual) |                                                                                                                                                                                                           | N/A                                            |                    |

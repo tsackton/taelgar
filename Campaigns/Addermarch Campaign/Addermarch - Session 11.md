@@ -54,7 +54,7 @@ The party learns of strange happenings in [[Haldrenn]] and rescues a lost girl.
 ## Narrative
 ### Sunday, May 16th, 2 Robert I
 
-In the morning, the party receives a visit from [[Caradoc]], who has come to speak with them in [[Roscombe]] after hearing troubling rumors of mad animals in the isolated village of [[Haldrenn]], in the [[Highmoor]] to the northeast. Warning the party that dangerous [[fey]] may be involved, he asks them to investigate, but tell no one of what is happening. Agreeing, the party walks with [[Caradoc]] to [[Brantor]], where they trade a pearl and some gold for potions before heading northeast towards [[Haldrenn]]. 
+In the morning, the party receives a visit from [[Caradoc]], who has come to speak with them in [[Roscombe]] after hearing troubling rumors of mad animals in the isolated village of [[Haldrenn]], in the [[Highmoor]] to the northeast. Warning the party that dangerous [[Fey]] may be involved, he asks them to investigate, but tell no one of what is happening. Agreeing, the party walks with [[Caradoc]] to [[Brantor]], where they trade a pearl and some gold for potions before heading northeast towards [[Haldrenn]]. 
 
 Following a rough cart track through the hills, the party camps for the evening on the [[Highmoor]]. 
 
@@ -62,7 +62,7 @@ Following a rough cart track through the hills, the party camps for the evening 
 
 After nearly a full day of slow walking across the rolling hills and dales of the [[Highmoor]], the party reaches the village of [[Haldrenn]] in the late afternoon. [[Haldrenn]] is a small, isolated village, nestled in the shelter of a ridgeline which has been decorated with wood wards. The village has a reliable, year round spring, which feeds a small pond and a coppiced wood managed for charcoal. 
 
-The village is quiet as the party arrives, with only some children playing with sheep and a pig. The party speaks with one of the children, a nine-year-old boy named [[Bran]]. From him, they learn that all the adults are out looking for a 6-year-old girl named [[Rowena]], who has been missing for more than a day. She frequently forages to the east of the village, away from the cow pastures, but always returns before nightfall, until now. [[Bran]] also tells the party that [[Olay]] was killed 10 days ago, by an enraged bull, and the funeral is tonight, so everyone should be back soon. According to [[Bran]], people say the problems are because of the [[Morlaith|Briarheart]], some kind of [[fey]] entity who sends Hollow Men to get those who disobey. [[Bran]] doesn't know if this is real or not, but he tells the party the rhyme. 
+The village is quiet as the party arrives, with only some children playing with sheep and a pig. The party speaks with one of the children, a nine-year-old boy named [[Bran]]. From him, they learn that all the adults are out looking for a 6-year-old girl named [[Rowena]], who has been missing for more than a day. She frequently forages to the east of the village, away from the cow pastures, but always returns before nightfall, until now. [[Bran]] also tells the party that [[Olay]] was killed 10 days ago, by an enraged bull, and the funeral is tonight, so everyone should be back soon. According to [[Bran]], people say the problems are because of the [[Morlaith|Briarheart]], some kind of [[Fey]] entity who sends Hollow Men to get those who disobey. [[Bran]] doesn't know if this is real or not, but he tells the party the rhyme. 
 
 *Knock, knock, knock;
 The Hollow Man calls.

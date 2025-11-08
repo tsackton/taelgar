@@ -89,7 +89,7 @@ Members of the crew who have moved on to other things since traveling on [[Vindr
 
     ---
     ![[kecha-small.png|120]]
-     A [[kenku]] scout who helped guide the party through the [[Svinjo Mountains]] and the [[~Northern Boreal Forest~]], before leaving to search for kenku living on the [[~Eastern Islands~]]. 
+     A [[Kenku]] scout who helped guide the party through the [[Svinjo Mountains]] and the [[~Northern Boreal Forest~]], before leaving to search for kenku living on the [[~Eastern Islands~]]. 
 
 -   [[Algerd]]
 
