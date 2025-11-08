@@ -8,14 +8,24 @@ dm_notes: none
 *See more: [[Lizardfolk]], [[Tharzen Anzinakoa]]*
 D&D Beyond Link: [Lizardfolk](https://www.dndbeyond.com/species/1929808-lizardfolk)
 
+Lizardfolk, humanoid reptilian inhabitants of swamps, rivers, and other similar habitats, shape their aquatic homes into rich, highly productive ecosystems, teeming with abundant life and food among their simple, often semi-aquatic, dwellings. Lizardfolk can be found across Taelgar, though rarely in arid lands. Many lizardfolk live apart from the societies of other species, preferring to keep to the traditions of their own kind. Other lizardfolk settle near human settlements, existing symbiotically with them and sometimes keeping close ties to their human neighbors, though typically living apart and not integrating fully. 
 
+Lizardfolk culture is shaped by the elders, who guide lizardfolk societies, ensuring that fertility and population growth remain balanced with the rhythms of the [[Tharzen Anzinakoa]] and the needs and capabilities of the land. Through their gods, the [[Tharzen Anzinakoa]], many lizardfolk have a deep connection to prophecy and dreams, and ties to the spirits of their ancestors that some lizardfolk can call upon for aid in times of need. 
 
 ---
 ## Creating Your Lizardfolk Character
 
+When you create your lizardfolk character, you might want to consider your relationship to your elders and ancestors. Many lizardfolk villages and societies are strongly shaped by the elders, and the spirits of the ancestors, who guide villages to ensure that growth is balanced with what the land can provide. This means that most lizardfolk societies are places of ample food and leisure, but where decisions about children are controlled collectively. Did you leave your home with the blessing of the elders or ancestors? Against their wishes? Or are they uninvolved in your journey? You might also consider whether you grew up in a place isolated from other species, or a place close to humans or others. 
 
+A simple answer if the engaging with the lore of lizardfolk is not of interest might be that you are from a town or village close to human settlement, perhaps in [[Greater Sembara]] or [[Greater Chardon]] as appropriate for your campaign, and that you left your home neither with the blessing and guidance of the elders of your village, nor against their wishes. 
 
 ### Lizardfolk Names
+
+Lizardfolk in Taelgar typically have a single given name, with the name of their home village or a physical descriptor serving as a second name when needed. Lizardfolk are often named after favored ancestors, so names tend to repeat across generations and often have some meaning in family lore or history. Some lizardfolk believe that some fragment of an ancestor is reborn into a new generation; because of this believe typically names are not repeated within generations, only across generations. To chose a name for your lizardfolk character, you might consider using one of the names below or inventing your own. 
+
+**Male Names:** Arran, Aitor, Arzhider, Benat, Eneko, Ganiz, Ilari, Itzal, Mattin, Samso, Zorion, Zuzen   
+
+**Female Names:** Alasne, Amaya, Arrosa, Elixane, Iara, Irati, Joska, Leire, Maialen, Naiara, Nerea, Ximenia, Xuxa
 
 ---
 ## Basic Traits
