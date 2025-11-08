@@ -21,4 +21,8 @@ Some notes moved from the [[Metaphysics of Souls]] page that would be ideal to e
 * These shepherds enforce rules, and are the ones who prevent, say, demon lords from just camping out in the [[Land of the Dead]] and consuming souls as they flow past. 
 * Some cultures might see them as [[Celestials]], representatives of the gods, although the reality is more complicated. 
 * Other cultures are completely unaware of their existence.
+
+DM Meta:
+The girdari are not a species in the metaphysical sense. They arise from the essence of the Land of the Dead and are best thought of as some unique soulstuff accretion associated with that plane. Whether they are properly considered creatures of the inner planes or outer planes is metaphysically unclear; it is probably best to treat them as a unique and hard to classify case that shares some metaphysical aspects of both. But they do not have culture or a unique, single origin and thus are not species. 
+
 %%

@@ -72,12 +72,14 @@ The following are probably true species:
 
 * [[Gnomes]] (although they have not been used in play, and might really just be dwarves)
 * [[Ithilids]]
-* [[Dragonets]] (although relationship to dragons is unclear)
 
 The following may or may not be true species:
 * [[Bullywugs]] 
+* [[Dragonets]] (although relationship to dragons is unclear, and they might really be dragons or transformations of dragons, or they might be creatures, not species, with a unique and interesting population on the circular island)
 
-There are likely one or more true species amongst the elemental planes (i.e. [[Djinn]], [[Marid]], [[Efreeti]], [[Azer]])
+
+There are likely one or more true species amongst the elemental planes (i.e. [[Djinn]], [[Marid]], [[Efreeti]], [[Dao]], [[Azer]] and others).
+
 ### Creatures of the Inner Planes
 
 These are the large category of creatures - often monsters - who exist to provide interesting adventures and stories, but who do not represent a meaningful cultures. Typically these creatures have at least the possibility of diverse metaphysical origins. While these creatures may be intelligent, they would usually be thought of as having an "ecology" instead of a "culture", and shouldn't have a history. This includes everything from mundane beasts to classic monstrosities to gargantuan world-changing forces of nature. 

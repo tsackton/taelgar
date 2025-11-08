@@ -1,11 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta]
+tags: [meta, status/needswork/old]
 dm_owner: joint
 dm_notes: none
 ---
+# Playable Species of Taelgar
 
-## Mechanics
+Many creatures inhabit the world of Taelgar and the multiverse in which it is set, as described in [[Creatures of Taelgar]]. 
+
+A subset of these creatures are appropriate for player characters, although not all playable species will be appropriate for all campaigns. This page provides a brief summary of the playable species of Taelgar, with links to more extensive mechanics and background. 
+
+## Common Species
+
+The four most numerous playable species in Taelgar, by a wide margin, are humans, halflings, dwarves, and lizardfolk. These species can be found nearly anywhere in the world. 
+
+*Humans* 
+
+
 
 %% player facing %%
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta]
+tags: [meta, status/needswork/old]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
