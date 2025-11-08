@@ -5,10 +5,10 @@ dm_owner: joint
 dm_notes: none
 ---
 # Playing a Lizardfolk
-*See more: [[Lizardfolk]], [[Tharzen Anzinakoa]]*
+*See more: [[Lizardfolk]], [[Tharzen Anzinakoa]], [[Latazaro]], [[Ozabal|Ozabal Swamp]]*
 D&D Beyond Link: [Lizardfolk](https://www.dndbeyond.com/species/1929808-lizardfolk)
 
-%% check/mike for lore %%
+%% check/mike for lore; mechanic are fairly settled but maybe need a slight tweak? %%
 
 Lizardfolk, humanoid reptilian inhabitants of swamps, rivers, and other similar habitats, shape their aquatic homes into rich, highly productive ecosystems, teeming with abundant life and food among their simple, often semi-aquatic, dwellings. Lizardfolk can be found across Taelgar, though rarely in arid lands. Many lizardfolk live apart from the societies of other species, preferring to keep to the traditions of their own kind. Other lizardfolk settle near human settlements, existing symbiotically with them and sometimes keeping close ties to their human neighbors, though typically living apart and not integrating fully. 
 

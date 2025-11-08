@@ -1,11 +1,13 @@
 ---
-tags: [meta]
+tags: [meta, status/check/mike]
 dm_owner: joint
 dm_notes: none
 ---
 # Dwarf Species Details
 *See more: [[Dwarves]], [[Dwarven Kingdoms]], [[Bahrazel|Bahrâzel]]*
 D&D Beyond Link: [Dwarf](https://www.dndbeyond.com/species/1763565-dwarf)
+
+%% should be in good shape; just review %%
 
 [[Dwarves]] make their homes beneath the mountains of Taelgar, carving great halls of stone and light beneath the earth, aided by their innate runic magic from their connection to their gods, the [[Bahrazel]]. Short, broad-shouldered, and often bearded, the first dwarves built majestic underground cities of light and splendor. While many dwarves still dwell in their ancestral mountain homes, they have spread around the world and are often seen in the realms of other species on Taelgar, as travelers, visitors, and long-term residents. 
 

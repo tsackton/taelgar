@@ -5,6 +5,8 @@ dm_owner: joint
 dm_notes: none
 ---
 # Playing a Stoneborn
+*See more: [[Stoneborn]], [[Sentinel Range|Indalas]]*
+D&D Beyond Link: 
 
 %% lore, mechanics if you have comments %%
 
