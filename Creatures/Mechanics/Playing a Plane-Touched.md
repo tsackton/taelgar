@@ -1,10 +1,10 @@
 ---
+headerVersion: 2023.11.25
 tags: [meta]
 dm_owner: tim
 dm_notes: color
 ---
-
-# Plane-touched Species Details
+# Playing a Plane-Touched
 *See more: [[Humans]]
 D&D Beyond Link: see Plane-Touched Traits, below
 
@@ -40,9 +40,11 @@ Consider whether you might have taken on a different name when you realized your
 
 ## Plane-touched Traits
 
-The species traits you will use will be determined by the nature of the plane that touches your soul: 
+The species traits you use are determined by the nature of the plane that touches your soul: 
 - If you are touched by one of the [[Divine Realms]], use the [Aasimar](https://www.dndbeyond.com/species/1751434-aasimar) species traits. 
 - If you are touched by a fiendish plane, most likely the [[Abyss]] or the [[Nine Hells]], use the [Tiefling](https://www.dndbeyond.com/species/1751443-tiefling) species traits. You may select any tiefling lineage; your choice of lineage is mechanical only and does not need to determine the exact plane that touches your soul. 
+
+%% (elemental and "other" planes still to do - see below)%%
 
 You also have the option of using the [[Playing a Human|Human]] species traits, and reflecting your plane touched nature in your class, e.g. as a sorcerer or warlock with an origin appropriate to your plane-touched nature. 
 
