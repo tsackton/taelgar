@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [organization, status/check/tim]
 name: Army of Mostreve
 typeOf: army
 dm_notes: none
@@ -11,37 +11,39 @@ dm_owner: mike
 > An army  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% Tim: write mostly to keep main page very simple, lots of brainstorming below %%
+%% Tim: another rewrite %%
+The Army of Mostreve is the name used by many in Sembara for the three Guard Companies of Tyrwingha:
 
-Tyrwingha does not have a standing army in the same way that Sembara does. However, the borderlands along the [[Mostreve Hills]] are guarded by three garrisons, loosely organized as the Army of Mostreve.
+* The Iron Guard, soldiers and knights sworn to the service of the monarch
+* The Color Guard, the fey-touched knights sworn to the [[Oracle of the Riven]]
+* The Twilight Guard, the fey-touched warlocks sworn to the [[Oracle of the Riven]]
 
-This army is divided into three garrisons along the [[Mostreve Hills]] - the [[Aben Garrison|garrison of the Aben]], in the headwaters of the [[Aben]] River, the [[Cyfarthfa Garrison|garrison of Cyfarthfa]] closest to the capital, and the [[Deganwy Garrison|garrison of Deganwy]] on the borders of [[Addermarch]]. The Aben garrison sees action most years, and is a gathering spot for [[The Rangers]]. 
+Legend says that the Color Guard and the Twilight Guard date to ancient days, and were founded in the court of [[Archfey Ethlenn]] herself. The army is responsible for the defense of the borders of Tyrwingha, and in times of need the monarch can summon their earls and swell the Iron Guard by thousands.
 
+In less troubled times, the three guard companies are established in five garrisons:
+* the [[Cyfarthfa Garrison|garrison of Cyfarthfa]], north of the [[Rhewin]], near the [[Tyrwinghan Road]]
+* the [[Garn Tyrn Garrison|garrison of Garn Tyrn]], in the [[Maerwyn Mountains|Maerwyns]] near the source of the [[Daran]]
+* the [[Maerwyn Garrison]], in the southern [[Maerwyn Mountains|Maerwyns]] 
+* the [[Aben Garrison|garrison of the Aben]], in the [[~Tyrwinghan Hills~]] near the headwaters of the [[Aben]] River 
+* the [[Deganwy Garrison|garrison of Deganwy]], in the western [[~Tyrwinghan Hills~]], near the headwaters of the [[Llanfen]]
+
+Additionally, an ancient training ground and barracks on the shores of [[Tywynn Bay]] still serves as a headquarters and training barracks, especially for the Color Guard. 
+
+Each garrison houses around a hundred soldiers, organized into Camps of between 15 and 20. Each Camp is commanded by a Campwarden, and is in turn divided into three Hands of 5 - 7 soldiers, commanded by a Palm. The Iron Guard is the most numerous within the garrisons, and each Hand is usually a mix of Iron Guard and the warlocks of the Twilight Guard. However, each garrison hosts one or more camps of the Color Guard, typically named for a color (i.e. the Red Camp of the Aben or the Green Camp of the Maerwyn). These are shock calvary, usually fey-touched, and can be a fearsome force on the battlefield.
+
+The garrison is commanded by the Council of Camps, which consists of three members: the Iron Warden, the Color Warden, and the Twilight Warden. In times of crisis or battle, one of the three wardens is elected to serve as the Voice.
+
+%% Slang term ideas from ChatGPT, not sure if I like them:
+Palm: Knuck, Knuckle, Grip. “Knuck” often used for a rough or greenhand leader; “Grip” for one who keeps discipline.
+Campwarden: Lantern, Old Camp, Bannerhead. “Lantern” = one who keeps the camp’s light burning; “Bannerhead” mildly mocking.
+Council of Camps: The Three, The Wardens, The Table
+“The Table” if they meet in council; “The Three” is most common among the rank and file.
+The  Voice: The Mouth, High Voice, The Call
+“Mouth” is irreverent soldier humor; “Call” used respectfully.
 %% 
-General brainstorming:
+#### History
+The Color Guard and the Twilight Guard have been fixtures in Tyrwinghan storytelling and legend for as long as stories have been told, and many believe that they date to the earliest days of Tyrwingha.
 
-* In game, the main vibe has been a small professional force and a much larger force called up for the undead crises
-* There are hints that the Oracle of the Riven may control a group of warlocks who work either alongside or as part of the main army
+When [[Derik I]] became king of Tyrwingha, he organized the Iron Guard to fight [[Avatus]], and although the size and structure of the Army of Mostreve has varied, it has existed in some form since [[Derik I]].
 
-My gut feeling is that the Tyrwinghan army should be more organized around commanders than soldiers and should have a culture of muster and return to villages, rather than a professional standing army like in Sembara. 
-
-Perhaps something like:, divided into three companies:
-* Company of the Sword = regular soldiers, commanded by a captain appointed by the monarch
-* Company of the Riven = warlocks, commanded by a captain appointed by the Oracle of the Riven
-
-And then maybe even some kind of Company of the Fey which used to be actually commanded by  a fey, but isn't any longer (or maybe even is?) and which contains fey and fey-touched
-
-Then the idea would be that each garrison shares troops from each company, who have their own command structure but with no definitive overall ruler. The garrison is perhaps even commanded by some type of Council of the Camp that has members of each of the three companies for that garrison, and operates by majority. 
-
-I think  the tradition of border defense probably dates back to ancient times - the Company of the Fey (needs a better name) might have gotten started defending the border against [[Morlaith]] and the Tyrwinghan Army has never been part of the Sembaran army.
-
-There are only three periods with significant overlap between the rulers of Tyrwingha and Sembara:
-
-* Great War era - basically from [[Derik I]] til the end of the Great War
-* the Radiant Alliance era - the 100 years from [[Elaine I]] through [[Cece I]], mostly with lots of hobgoblins
-* modern day, since [[Elaine II]] was crowned
-
-In general, I wonder if the modern professional army of Sembara during the Great War got its start as an offshot from some ancient Ethlenn-organized border defense structure in Tyrwingha. During the Radiant Alliance era, I suspect that the armies of Tyrwingha and Sembara were probably mostly quite separate, although perhaps by the end of Cece's reign there was some degree of intermixing. 
-
-I see the biggest Sembaran intrusion and intermixing as basically happening during the second half of Cece's reign, and during that period perhaps there was a bit of cultural intermixing in the army. But realistically, I also think that the Tyrwinghan military is probably organized much more around fey-touched warlocks and sorcerers than anything else, which makes integration with Sembara hard.
-%%
+The current garrison system was established during the [[Blood Years]] in the aftermath of the [[Great War]]. During the [[Third Hobgoblin War (Sembara)]] many of the Army of Mostreve joined with their Sembaran brethern to fight in the west, and in the aftermath during Cece's long reign, a number of veterans of the hobgoblin wars continued to serve in the Iron Guard, and during this period some degree of cultural mixing occured, although the Twililght Guard and Color Guard remained uniquely Tyrwinghan.
