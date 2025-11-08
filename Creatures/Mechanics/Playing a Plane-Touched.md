@@ -38,7 +38,7 @@ Consider whether you might have taken on a different name when you realized your
 **Size**: Your size is Medium.
 **Speed**: 30 feet
 **Age**: You age at the same rate as humans. 
-**Languages**: Your connection to another plane grants you knowledge of the language associated with the plane that touches your soul. You may also select four additional [[Languages]] during character creation. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
+**Languages**: Your connection to another plane grants you knowledge of the language associated with the plane that touches your soul. You may also select four additional [[Languages]] during character creation, which likely include Common and the native language of your homeland. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
 
 ## Plane-touched Traits
 

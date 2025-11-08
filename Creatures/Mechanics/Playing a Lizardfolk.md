@@ -71,7 +71,7 @@ You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your 
 You can reach your ancestors through the magic of the Tharzen Anzinakoa and beseech them for aid. You always have the Augury spell prepared. You can cast each spell you gain with this trait once without expending a spell slot, and you regain the ability to cast it this way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.
 
 #### Prophetic Vision
-Your affinity for the dreamworld allows you to briefly see a moment ahead in time. If you fail a d20 Test, you can roll 1d4 and add the result to the d20, potentially changing a failure into a success. You can use this Feature a number of times equal to your Proficiency Bonus, and regain all uses after a Long Rest.
+Your affinity for the dreamworld allows you to briefly see a moment ahead in time. If you fail a d20 Test, you can roll 1d4 and add the result to the d20, potentially changing a failure into a success. You can use this feature a number of times equal to your Proficiency Bonus, and regain all uses after a Long Rest.
 
 #### Ancestral Aid
 When you reach character level 3, you can beseech your ancestors for aid using one of the options below (choose the option each time you use this feature). Once you do this, you can’t do so again until you finish a Long Rest.

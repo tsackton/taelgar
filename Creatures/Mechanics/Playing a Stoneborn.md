@@ -36,10 +36,10 @@ To choose the name for your stoneborn character, you might consider one of the b
 ---
 ## Basic Traits
 
-**Creature Type**: 
+**Creature Type**: Humanoid
 **Size**: Stoneborn are between 7 and 8 feet tall and weigh between 280 and 450 pounds. Your size is Medium.
-**Speed**: 
-**Age**: 
+**Speed**: 30 feet
+**Age**: Stoneborn age much more slowly than humans, reaching maturity around 25, but not reaching old age until 300 or later. Stoneborn metabolism slows as they age, and the eldest stoneborn seem as if they are statues, rarely moving or speaking. 
 **Languages**: 
 ## Stoneborn Traits
 

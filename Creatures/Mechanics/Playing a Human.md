@@ -1,12 +1,12 @@
 ---
+headerVersion: 2023.11.25
 tags: [meta]
 dm_owner: joint
 dm_notes: none
 ---
-
-# Human Species Details
-
-*[D&D Beyond Mechanics Link](https://www.dndbeyond.com/species/1751441-human)*
+# Playing a Human
+*See also: [[Humans]]*
+D&D Beyond Link: [Human](https://www.dndbeyond.com/species/1751441-human)
 
 
 
@@ -23,11 +23,13 @@ dm_notes: none
 **Creature Type:** Humanoid  
 **Size:** Medium (about 4–7 feet tall) or Small (about 2–4 feet tall), chosen when you select this species  
 **Speed:** 30 feet
-**Age**: 
-**Languages**: 
+**Age**: Humans reach maturity in their teens, and often live into their 70s, sometimes longer. 
+**Languages**: You may select four [[Languages]] during character creation, which likely include Common and the native language of your homeland. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency.
 ## Human Traits
 
 As a Human, you have these special traits.
+
+%% this is just the unmodified PHB human%%
 
 #### Resourceful
 
