@@ -1,9 +1,10 @@
 ---
+headerVersion: 2023.11.25
 tags: [meta, status/check/mike]
 dm_owner: joint
 dm_notes: none
 ---
-# Dwarf Species Details
+# Playing a Dwarf
 *See more: [[Dwarves]], [[Dwarven Kingdoms]], [[Bahrazel|Bahrâzel]]*
 D&D Beyond Link: [Dwarf](https://www.dndbeyond.com/species/1763565-dwarf)
 

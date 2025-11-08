@@ -13,7 +13,7 @@ dm_notes: none
 - [ ] playing a fairy
 - [ ] playing a free orc
 - [x] playing a halfling
-- [ ] playing a human
+- [x] playing a human
 - [ ] playing a kenku
 - [x] playing a lizardfolk
 - [ ] playing a plane-touched
