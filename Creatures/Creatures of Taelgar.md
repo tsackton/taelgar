@@ -85,7 +85,7 @@ Of all the many planes in the multiverse, the [[Feywild]] is by far the most acc
 
 Legends and rumors speak of other, stranger species in the world of Taelgar. Sailors tell tales of merfolk who live beneath the waves, dwarves mutter about the brain-eating mind flayers that hide deep underground, and legends speak of larger than life giants who build massive fortresses with ancient magic. Few of these species are playable options in Taelgar, but three exceptions are detailed below. These options are not appropriate for all campaigns, and people of these species will often be greeted with fear, suspicious, and disbelief. 
 
-****Plane-touched***: Very rarely, some humans are born with an unusual soul, touched by the powers of another plane. Perhaps this is one of the elemental planes, one of the realms of the divine, or a primordial spiritual realm. These people can sometimes hide their plane-touched souls, and live normal lives, but other times are born with obvious physical attributes of the plane.
+
 
 ***Gnomes***: Long ago, before the Downfall, many dwarves left their underground homes, fleeing the dangers of the Underdark that crept into the world from cracks in multiverse, settling in empty places in the distant corners of the world. Over the centuries, as they adopted to their new aboveground homes, they forged a new identity for themselves, calling themselves gnomes. 
 

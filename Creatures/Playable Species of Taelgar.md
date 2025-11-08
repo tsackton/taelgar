@@ -24,12 +24,12 @@ The four most numerous playable species in Taelgar, by a wide margin, are [[Huma
 
 *Lizardfolk* shape their homes in swamps and rivers into rich ecosystems, teeming with abundant life among their simple, often semi-aquatic, homes. Though they are usually found living with their own kind, organizing their lives around the seasonal and cyclic rhythms of their gods, the [[Tharzen Anzinakoa]], who give them prophetic insights into the future, many lizardfolk communities maintain close ties with nearby human towns and villages. 
 
-| Species                 | Key Question(s)                                               | **Details**                                    | Starting Languages |
-| ----------------------- | ------------------------------------------------------------- | ---------------------------------------------- | ------------------ |
-| [[Humans\|Human]]       | What is your cultural and religious background?               | [[Playing a Human]]                            | 4                  |
-| [[Halflings\|Halfling]] | Did you grow up nomadic, or not? How did it impact you?       | [[Playing a Halfing]]                          | 5                  |
-| [[Dwarves\|Dwarf]]      | What is your thuhr, and how did it impact (or not) your life? | [[Playing a Dwarf\|Playing a Dwarf]]           | 4                  |
-| [[Lizardfolk]]          |                                                               | [[Playing a Lizardfolk\|Playing a Lizardfolk]] | 4                  |
+| Species                 | Key Question(s)                                                     | **Details**                                    | Starting Languages |
+| ----------------------- | ------------------------------------------------------------------- | ---------------------------------------------- | ------------------ |
+| [[Humans\|Human]]       | What is your cultural and religious background?                     | [[Playing a Human]]                            | 4                  |
+| [[Halflings\|Halfling]] | Did you grow up nomadic, or not? How did it impact you?             | [[Playing a Halfing]]                          | 5                  |
+| [[Dwarves\|Dwarf]]      | What is your thuhr, and how did it impact (or not) your life?       | [[Playing a Dwarf\|Playing a Dwarf]]           | 4                  |
+| [[Lizardfolk]]          | What is your relationship to the elders and ancestors of your home? | [[Playing a Lizardfolk\|Playing a Lizardfolk]] | 4                  |
 
 ## Uncommon Species
 
@@ -79,8 +79,8 @@ There are a wide range of other species that live on Taelgar and across the mult
 
 %% Gnomes could also theorectically go here if we ever develop them %%
 
-| Species             | Key Question(s)                                                                                                   | **Details**                 | Starting Languages |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------ |
-| Plane-touched       | Are you open about your plane-touched heritage? If so, how has it impacted your life? If not, how do you hide it? | [[Playing a Plane-Touched]] | 4                  |
-| [[Orcs\|Orc]]       |                                                                                                                   | [[Playing a Free Orc]]      | 4                  |
-| [[Kobolds\|Kobold]] | Most non-kobolds stereotype you as a nuisance, how do you handle that?                                            | [[Playing a Kobold]]        | 4                  |
+| Species             | Key Question(s)                                                                                                                                 | **Details**                 | Starting Languages             |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------ |
+| Plane-touched       | Which plane touched your soul?Are you open about your plane-touched heritage? If so, how has it impacted your life? If not, how do you hide it? | [[Playing a Plane-Touched]] | 4 + the language of your plane |
+| [[Orcs\|Orc]]       |                                                                                                                                                 | [[Playing a Free Orc]]      | 4                              |
+| [[Kobolds\|Kobold]] | Most non-kobolds stereotype you as a nuisance, how do you handle that?                                                                          | [[Playing a Kobold]]        | 4                              |

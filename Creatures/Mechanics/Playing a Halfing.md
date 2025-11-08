@@ -1,12 +1,12 @@
 ---
+headerVersion: 2023.11.25
 tags: [meta]
 dm_owner: joint
 dm_notes: none
 ---
-
-# Halfling Species Details
-
-*[D&D Beyond Mechanics Link](https://www.dndbeyond.com/species/1755936-halfling)*
+# Playing a Halfing
+*See more: [[Halflings]], [[First Ones]]*
+D&D Beyond Link: [Halfling](https://www.dndbeyond.com/species/1755936-halfling)
 
 The whistle of the wind in the sails, on a ship crashing through the waves far from land. The clink of coin changing hands at the market. The crackle of the campfire and the smell of bacon and tomatoes sizzling after a long day of walking. The creak of a wagon lumbering to the next village, with a cheery tune emanating from within. [Halflings](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252ftsackton.github.io%252ftaelgarverse%252fspecies%252fchildren-of-the-embodied-gods%252fhalflings%252fhalflings%252f) love these things. A nomadic people who rarely settle in one place for long, halflings come and go with the rhythm of the seasons, making money, friends, or both along the way.
 
@@ -15,7 +15,9 @@ The most numerous of the Elder Folk, halflings are wanderers and travelers, merc
 ---
 ## Creating Your Halfling Character
 
-When you create your halfling character, you might want to consider how your past influenced your character. Many halflings are wanderers, with no fixed home, traveling in caravans, or ships, often in family groups. Sometimes these might follow regular or semi-regular paths, although others wander where whims take them. Other halflings settle, usually among other species, and often in crossroads or places where many travelers and stories cross their paths. Halflings also usually have close ties to their kin and family, especially as many halflings effectively work in the family business running a trading ship or a merchant caravan. When you create your halfling character, you might want to think about your family and what they do. Did you come from a traveling family, merchants or sailors? How did your travels impact your choices to become an adventurer? Or, are your origins from a settled community? 
+When you create your halfling character, you might want to consider how your past influenced your character. Many halflings are wanderers, with no fixed home, traveling in caravans, or ships, often in family groups. Sometimes these might follow regular or semi-regular paths, although others wander where whims take them. Other halflings settle, usually among other species, and often in crossroads or places where many travelers and stories cross their paths. 
+
+Halflings also usually have close ties to their kin and family, especially as many halflings effectively work in the family business running a trading ship or a merchant caravan. You might want to think about your family and what they do. Did you come from a traveling family, merchants or sailors? How did your travels impact your choices to become an adventurer? Or, are your origins from a settled community? 
 
 A simple answer if engaging with the lore of halflings is not of interest to you is that your family runs a merchant caravan, or perhaps sailing ship, traveling a routine route in safe places, perhaps from somewhere close, but not too close, to where your adventures begin.
 
@@ -35,20 +37,21 @@ Halflings have given names and family names, which are often derived from nickna
 **Creature Type:** Humanoid  
 **Size:** Small (about 2–4 feet tall) 
 **Speed:** 30 feet  
-**Age**: Halflings mature at the same rate as humans, and typically live to be around 100, although a rare few live substantially longer.   
-**Languages:** The frequent travels and ancestral memory of halflings exposes them to many  languages. You may select five languages during character creation, one of which should usually be Halfling. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
+**Age**: Halflings mature at roughly same rate as humans, and typically live to be around 100, although a rare few live substantially longer.   
+**Languages:** The frequent travels and ancestral memory of halflings exposes them to many languages. You may select five [[languages]] during character creation, which should including Halfling and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
 
 ## Halfling Traits
 
 As a Halfling, you have these special traits.
 
-%% hafling design logic, taking the basic model of the PHB 2024 to be a species should consist of traits approximately the same value as (a) an origin feat, (b) a skill proficiency, and (c) a flavorful and situationally strong ability, but that species can vary a bit up or down from this for flavor
+%%^Campaign:none%%
+hafling design logic, taking the basic model of the PHB 2024 to be a species should consist of traits approximately the same value as (a) an origin feat, (b) a skill proficiency, and (c) a flavorful and situationally strong ability, but that species can vary a bit up or down from this for flavor
 
 Silent Speech is strong, but not that much stronger than the Message cantrip, probably equal to 1/2 an origin feat
 Luck is situationally strong but not that much better than 1/day Heroic Inspiration
 Memory of the Ancestors not that different from a skill proficiency, although hard to exactly value
 Halfling Talent is not quite 1/2 an origin feat, but as other features are on the strong side this seems fine. 
-%%
+%%^End%%
 
 #### Silent Speech
 You have Telepathy with a range of 120 feet. You must share a language to communicate with a creature in this way.
