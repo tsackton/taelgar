@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta]
+tags: [meta, status/check/mike]
 dm_owner: joint
 dm_notes: none
 ---
 # Playing a Lizardfolk
 *See more: [[Lizardfolk]], [[Tharzen Anzinakoa]]*
 D&D Beyond Link: [Lizardfolk](https://www.dndbeyond.com/species/1929808-lizardfolk)
+
+%% check/mike for lore %%
 
 Lizardfolk, humanoid reptilian inhabitants of swamps, rivers, and other similar habitats, shape their aquatic homes into rich, highly productive ecosystems, teeming with abundant life and food among their simple, often semi-aquatic, dwellings. Lizardfolk can be found across Taelgar, though rarely in arid lands. Many lizardfolk live apart from the societies of other species, preferring to keep to the traditions of their own kind. Other lizardfolk settle near human settlements, existing symbiotically with them and sometimes keeping close ties to their human neighbors, though typically living apart and not integrating fully. 
 
@@ -21,7 +23,9 @@ A simple answer if the engaging with the lore of lizardfolk is not of interest m
 
 ### Lizardfolk Names
 
-Lizardfolk in Taelgar typically have a single given name, with the name of their home village or a physical descriptor serving as a second name when needed. Lizardfolk are often named after favored ancestors, so names tend to repeat across generations and often have some meaning in family lore or history. Some lizardfolk believe that some fragment of an ancestor is reborn into a new generation; because of this believe typically names are not repeated within generations, only across generations. To chose a name for your lizardfolk character, you might consider using one of the names below or inventing your own. 
+Lizardfolk in Taelgar typically have a single given name, with the name of their home village or a physical descriptor serving as a second name when needed. Lizardfolk are often named after favored ancestors, so names tend to repeat across generations and often have some meaning in family lore or history. Some lizardfolk believe that some fragment of an ancestor is reborn into a new generation; because of this believe typically names are not repeated within generations, only across generations. 
+
+To chose a name for your lizardfolk character, you might consider using one of the names below or inventing your own, which might not follow typical lizardfolk naming practice. 
 
 **Male Names:** Arran, Aitor, Arzhider, Benat, Eneko, Ganiz, Ilari, Itzal, Mattin, Samso, Zorion, Zuzen   
 
