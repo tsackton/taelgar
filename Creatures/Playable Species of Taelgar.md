@@ -79,8 +79,8 @@ There are a wide range of other species that live on Taelgar and across the mult
 
 %% Gnomes could also theorectically go here if we ever develop them %%
 
-| Species             | Key Question(s)                                                                                                   | **Details**                 | Starting Languages |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------ |
-| Plane-touched       | Are you open about your plane-touched heritage? If so, how has it impacted your life? If not, how do you hide it? | [[Playing a Plane-Touched]] | 4                  |
-| [[Orcs\|Orc]]       |                                                                                                                   | [[Playing a Free Orc]]      | 4                  |
-| [[Kobolds\|Kobold]] | Most non-kobolds stereotype you as a nuisance, how do you handle that?                                            | [[Playing a Kobold]]        | 4                  |
+| Species             | Key Question(s)                                                                                                   | **Details**                 | Starting Languages             |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------ |
+| Plane-touched       | Are you open about your plane-touched heritage? If so, how has it impacted your life? If not, how do you hide it? | [[Playing a Plane-Touched]] | 4 + the language of your plane |
+| [[Orcs\|Orc]]       |                                                                                                                   | [[Playing a Free Orc]]      | 4                              |
+| [[Kobolds\|Kobold]] | Most non-kobolds stereotype you as a nuisance, how do you handle that?                                            | [[Playing a Kobold]]        | 4                              |
