@@ -5,8 +5,8 @@ dm_notes: none
 ---
 
 # Elf Species Details
-
-*[D&D Beyond Mechanics Link](https://www.dndbeyond.com/species/1755491-elf)*
+*See more: [[Elves]], [[Elven Cycle of Generations]]*
+D&D Beyond Link: [Elf](https://www.dndbeyond.com/species/1755491-elf)
 
 The first of the [[Elder Folk]] to walk the world, [[Elves|elves]] have a deep connection to magic and nature through their connection their gods, [[Aldanor]], the Living Tree and [[Elmerca]], the Wild Star. They do not die of old age, although many tire of the world, and it is rumored that some of the first elves to exist still walk the earth. The elves of Taelgar have also faced tragedy and loss, suffering and dying in cataclysmic wars that have shaken the world. These days, elves are few in number, and while some still look outward, others have turned inward, disavowing their ancient roles as protectors of Taelgar. Few elves live in the settlements other species, and many common folk will have never met one.
 
@@ -42,12 +42,13 @@ Elves in Taelgar typical have just a given name, using their ka, their homeland
 
 As an Elf, you have these special traits.
 
-%% elf design logic, taking the basic model of the PHB 2024 to be a species should consist of traits approximately the same value as (a) an origin feat, (b) a skill proficiency, and (c) a flavorful and situationally strong ability, but that species can vary a bit up or down from this for flavor
+%%^Campaign:none%%
+Elf design logic, taking the basic model of the PHB 2024 to be a species should consist of traits approximately the same value as (a) an origin feat, (b) a skill proficiency, and (c) a flavorful and situationally strong ability, but that species can vary a bit up or down from this for flavor
 
 Keen senses is slightly worse than pick a skill 
 Darkvision + Resilience of the Dream + Trance better on the strong side for (c)
 Firstborn Gift is roughly on par with 2 cantrips; Elven Ritual magic is probably not quite as good as pick a 1st level spell given the restrictions, but not far out of balance IMO. So roughly equal to magic initiate origin feat together.
-%%
+%%^End%%
 
 #### Darkvision
 You have [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) with a range of 60 feet.
