@@ -16,6 +16,6 @@ The Inner Realms - whatever the metaphysical truth of this classification - are 
 
 Relavant notes:
 - [[Discord Chat - Multiverse]]
-- [[Creating New Creatures]]
+- [[Creature Rules in Taelgar]]
 
 %%^End%%

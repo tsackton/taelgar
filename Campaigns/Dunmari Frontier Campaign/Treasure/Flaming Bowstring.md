@@ -19,6 +19,6 @@ ddbLink: https://www.dndbeyond.com/magic-items/8705290-flaming-bowstring
 
 ![[flaming-bowstring-wellby.png|right|400]]This Dunmari bowstring is made of a fine silk thread, enchanted and blessed by [[Aagir]]. The magic of the thread means it can be attached to any bow or crossbow, and will grow or shrink as needed to fit. 
 
-Originally the weapon of [[Camana]], the leader of [[Havdar]]'s scouts, who died in battle against the [[orcs]] of [[Grash's Horde]], in the [[Nashtkar]]. After the [[Dunmar Fellowship]] [[Session 20 (DuFr)|aided]] [[Havdar]] in battle, was [[Session 21 (DuFr)|gifted]]to [[Wellby]]. 
+Originally the weapon of [[Camana]], the leader of [[Havdar]]'s scouts, who died in battle against the [[Orcs]] of [[Grash's Horde]], in the [[Nashtkar]]. After the [[Dunmar Fellowship]] [[Session 20 (DuFr)|aided]] [[Havdar]] in battle, was [[Session 21 (DuFr)|gifted]]to [[Wellby]]. 
 
 %%SECRET[1]%%

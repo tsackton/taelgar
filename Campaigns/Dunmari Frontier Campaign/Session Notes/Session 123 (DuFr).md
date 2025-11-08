@@ -29,7 +29,7 @@ The party narrowly escapes shadowy pursuit, frees the archfey [[Cloudspinner]] a
 - Arriving at the hidden [[Prismwell]], they fend off warg archers and shadow creatures while preparing to release [[Cloudspinner]] from her prison.
 - [[Seeker]] telekinetically lifts and plunges [[Cloudspinner]]'s crystal prison into the shimmering pool, while [[Riswynn]]'s powerful Sunburst banishes the attacking shadows.
 - The[[Cloudspinner]] emerges—restored, grateful, and imbued with sorrowful wisdom.
-- [[Wellby]] is gifted a magical hat for future planar return, and [[Riswynn]] breaks the cursed crown's old bonds, rededicating it to liberating [[orcs]] trapped under the sway of [[Thark]]. 
+- [[Wellby]] is gifted a magical hat for future planar return, and [[Riswynn]] breaks the cursed crown's old bonds, rededicating it to liberating [[Orcs]] trapped under the sway of [[Thark]]. 
 - The party leaves [[Amberglow]] on the Rainbow Bridge, returning to [[Vindristjarna]] and their awaiting crew.
 
 ### Timeline
@@ -53,7 +53,7 @@ Suddenly, the cloud wall burst into brilliant light, echoing and reflecting [[Ri
 
 [[Seeker]], overcome, kneels as the spirit of [[Lady Eventide]] departs. The Cloudspinner addresses the party, offering gratitude and a promise: they will always be welcome in [[Amberglow]]. With a gesture, she grants [[Wellby]] a shimmering, color-changing hat—an enchanted key allowing the party to return here by magic. 
 
-[[Riswynn]] seeks counsel about the [[Crown of Purity]]. The [[Cloudspinner]] explains the need for a worthy purpose, that the crown’s bonds of domination can be unraveled only by dedicating it to a new cause. [[Riswynn]], resolved to aid the oppressed [[orcs]] and foster new communities, places the crown on her head. Light flares out, severing countless bonds of control; a great burden lifts from her, while the crown’s shape settles into something more grounded and real.
+[[Riswynn]] seeks counsel about the [[Crown of Purity]]. The [[Cloudspinner]] explains the need for a worthy purpose, that the crown’s bonds of domination can be unraveled only by dedicating it to a new cause. [[Riswynn]], resolved to aid the oppressed [[Orcs]] and foster new communities, places the crown on her head. Light flares out, severing countless bonds of control; a great burden lifts from her, while the crown’s shape settles into something more grounded and real.
 
 The party exchanges farewells with the [[Cloudspinner]], as [[Valeris]] stays behind to offer to help repair the realm and maybe free himself of his curse. Our session ends as the party uses the Rainbow Bridge to return to [[Vindristjarna]], reuniting with their crew and airship in the [[Garamjala Desert]], at [[Pava and Avaras' House]]. 
 

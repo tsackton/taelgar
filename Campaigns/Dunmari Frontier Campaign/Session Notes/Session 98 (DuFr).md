@@ -41,7 +41,7 @@ The party heard three songs about merfolk:
 [[Merfolk Fortunes]]
 ### Key Rumors
 - From [[Juliana Maris]], the party learned that no one has returned from the [[Merfolk]] territory in the west in 20 years, except for the halfling captain [[Milo Thistlefoot]] and his crew, and genuine merfolk artifacts are becoming difficult to find. 
-- From rumors among sailors and people drinking in the taverns in [[Castrella]], the party learned that if you want to breath water, there are two people you might seek. One, the [[stoneborn]] alchemist [[Kazuro]], lives in an isolated cave up the coast, and can brew potions. The other, a man obsessed with merfolk named [[Dorian Almare]], touched by magic, left [[Castrella]] to find the merfolk 15 years ago and has not been seen since, but rumors persist of the "Mystic of Tamaro Bay" that might be Dorian. 
+- From rumors among sailors and people drinking in the taverns in [[Castrella]], the party learned that if you want to breath water, there are two people you might seek. One, the [[Stoneborn]] alchemist [[Kazuro]], lives in an isolated cave up the coast, and can brew potions. The other, a man obsessed with merfolk named [[Dorian Almare]], touched by magic, left [[Castrella]] to find the merfolk 15 years ago and has not been seen since, but rumors persist of the "Mystic of Tamaro Bay" that might be Dorian. 
 - From [[Isabetta]], a young singer drawing a crowd at the [[The Drunken Dolphin]], a rowdy sailor's tavern in [[Castrella]], the party heard the [[Ballad of the Jade Garden]], which seemed to spell out the location of the jade garden mentioned by [[Thomas Hawke]] and likely where the [[Jade Piece of Rai's Hand]] is located. 
 
 

@@ -1,4 +1,13 @@
-The multiverse of Taelgar contains a diverse array of self-aware creatures. This documents some metaphysics and worldbuilding about different types of creatures are different.
+---
+headerVersion: 2023.11.25
+tags: [background]
+excludePublish: ["all"]
+dm_owner: joint
+dm_notes: none
+---
+# Metaphysics of Creatures
+
+The multiverse of Taelgar contains a diverse array of self-aware creatures. This documents some metaphysics and worldbuilding about how different types of creatures are different.
 
 ### Soulstuff
 The foundation of sentience on Taelgar is soulstuff, an ineffable part of the multiverse. There is no clear definition or decision on what soulstuff is, but there are some fundamental principles about it that drive worldbuilding:
@@ -23,9 +32,9 @@ With this background, self-aware creatures can broadly be divided into seven cat
 * True species: these are creatures with a unique culture and language, and continuity across the world. There might be many different human, dragon, or kenku cultures, but they share an evolution, common history, and overarching narrative. Everything in this category should have the potential for a story for how it came to be. 
 - Creatures of the inner planes: creatures of matter and magic in some proportion that are sentient and accrete soulstuff over their lifetime because of this sentience, which rapidly disperses when they die.
 - Creatures of the outer planes: creatures of pure soulstuff, manifesting a body via the magic of their soulstuff. These creatures cannot be killed except on their native planes 
-- Creatures of the Far Realms: visitors from the Far Realms, who lack Taelgaran soulstuff. These creatures have diverse metaphysical reality but have no soul to restore after death. Note that some Far Realms creatures may be true species.
+- Creatures of the Far Realms: visitors from the Far Realms, who lack Taelgarian soulstuff. These creatures have diverse metaphysical reality but have no soul to restore after death. Note that some Far Realms creatures may be true species.
 - Constructs: creatures that are not really thinking creatures at all, but are animated by some magic which mimics sentience. They do not have souls at all and are rendered inanimate when killed, unless some magic restores them.
-- Transformations: creatures corrupted or transformed during or after death into a new form. 
+- Transformations: creatures corrupted or transformed during life or after death into a new form. 
 - Divinities: creature that have accreted enough soulstuff (via their own powerful essence or gift from elsewhere) that they have transcended the usual mortality 
 
 ### True Species
@@ -67,9 +76,28 @@ The following are probably true species:
 
 The following may or may not be true species:
 * [[Bullywugs]] 
-* [[Gidari]]
 
 There are likely one or more true species amongst the elemental planes (i.e. [[Djinn]], [[Marid]], [[Efreeti]], [[Azer]])
 ### Creatures of the Inner Planes
 
-These are the large category of creatures - often monsters - who exist to provide interesting adventures and stories, but who do not represent a meaningful 
+These are the large category of creatures - often monsters - who exist to provide interesting adventures and stories, but who do not represent a meaningful cultures. Typically these creatures have at least the possibility of diverse metaphysical origins. While these creatures may be intelligent, they would usually be thought of as having an "ecology" instead of a "culture", and shouldn't have a history. This includes everything from mundane beasts to classic monstrosities to gargantuan world-changing forces of nature. 
+
+### Creatures of the Outer Planes
+
+Creatures native to the spiritual realms are made of pure soulstuff, manifesting a body when they leave their native realms by the magic of their soulstuff. These creatures are intrinsic to their plane of origin, and their origin story should almost always be tied to the origin story of their native plane. These are not species in the sense above: though demons might have fundamental traits they share, and common stories and vibes, their is no demon culture that is separable from the "culture" of the Abyss. A notable feature of these creatures is they cannot be permanently destroyed except on their native plane. 
+
+### Creatures of the Far Realms
+
+Visitors from one of the many Far Realms, conceptually places that are outside the multiverse of Taelgar. These creatures - as they arise from outside the multiverse - lack Taelgarian soulstuff. These creatures have diverse metaphysical reality but have no soul to restore after death. Note that some Far Realms creatures may be species, if they have established a lasting presence in the multiverse. 
+
+### Constructs
+
+Some creatures are animated and given a facsimile of sentience via magic. These creatures are not really thinking creatures at all, in the metaphysical sense. They do not have souls, do not accrete soulstuff, and are rendered inanimate when killed, unless some magic restores them. Classic examples of this type are golems and animated objects, but this category can potentially include anything explicitly created and given sentience by magic alone. 
+
+### Transformations
+
+Many creatures are transformations of something else. This is a large category that includes a diverse array of curses, corruptions, and more benign transformations. Undead and lycanthropes are classic examples of transformations, but this category can also include things like supernatural corruption (medusas, gnolls) or magical experimentation (slave creatures created by mind flayers to serve them).
+
+### Divinities
+
+Divinities are unique creatures that have accreted enough soulstuff (via their own powerful essence or gift from elsewhere) that they have transcended the usual mortality. There is a wide range of power levels and metaphysics of divinities on Taelgar, but they all share the same fundamental basis, a being of powerfully concentrated soulstuff. 

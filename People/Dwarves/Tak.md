@@ -17,4 +17,4 @@ dm_notes: color
 
 %% needs campaign info, whereabouts, update to reflect events of Riswynn solo %%
 
-A young dwarf, living in [[Bleakhold]] but hoping for something better and wondering about the lives of [[dwarves]] outside [[Morkalan]], even before he knew such [[dwarves]] existed. 
+A young dwarf, living in [[Bleakhold]] but hoping for something better and wondering about the lives of [[Dwarves]] outside [[Morkalan]], even before he knew such [[Dwarves]] existed. 

@@ -18,7 +18,7 @@ descTitle: Chalice of Redemption
 > *On Earth: Monday Sep 12, 2022*
 > *[[Heart of the Mountain]] and [[Morkalan]]*
 
-[[Riswynn]] meets three other [[dwarves]] in the [[Heart of the Mountain]], all indebted to the [[Bahrazel]], and they embark on a quest to redeem an evil dwarf in the [[Shadowfolds]] realm of [[Morkalan]]. 
+[[Riswynn]] meets three other [[Dwarves]] in the [[Heart of the Mountain]], all indebted to the [[Bahrazel]], and they embark on a quest to redeem an evil dwarf in the [[Shadowfolds]] realm of [[Morkalan]]. 
 ## Session Info
 ### Summary
 - [[Riswynn]], [[Thror]], [[Merash]], and [[Rothfis]] are summoned to the [[Heart of the Mountain]] by the [[Bahrazel]].

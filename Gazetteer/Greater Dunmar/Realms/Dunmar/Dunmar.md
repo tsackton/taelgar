@@ -51,7 +51,7 @@ Although there are no formal administrative units within Dunmar larger than indi
 - [[Coastal Dunmar]], the smallest and wealthiest region, is dominated by the port city of [[Darba]] and the [[Rudhan]], which flows through the [[Darba Highlands]]. 
 - [[Western Dunmar]], the administrative and political capital of the [[Nayan Dynasty]], and the most populous region of Dunmar, contains the city of [[Nayahar]] and the [[Nayan Floodplains]].
 
-Not part of Dunmar nor claimed by Dunmari rulers, but cutting through the territory of the realm, are the [[Yuvanti Mountains]], home to the [[dwarves]] of [[Nardith]]. 
+Not part of Dunmar nor claimed by Dunmari rulers, but cutting through the territory of the realm, are the [[Yuvanti Mountains]], home to the [[Dwarves]] of [[Nardith]]. 
 
 ### Borders
 

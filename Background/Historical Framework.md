@@ -8,7 +8,7 @@ excludePublish: ["all"]
 
 This document outlines a framework for development of consistent historical events in Taelgar. Although this document avoids defining very many specific events, canonical events should generally be consistent with it.
 
-See [[Historical Framework - Open Questions]] for some unresolved topics. See [[Creating New Creatures]], [[Religious History of Taelgar]], and [[Multiverse]] for useful background. See [[Historical Framework - Discussions]] for commentary and older information.
+See [[Historical Framework - Open Questions]] for some unresolved topics. See [[Creature Rules in Taelgar]], [[Religious History of Taelgar]], and [[Multiverse]] for useful background. See [[Historical Framework - Discussions]] for commentary and older information.
 
 See also [[Canonical Events]] for a listing of key dates that are considered canonical. 
 

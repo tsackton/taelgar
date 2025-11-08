@@ -31,7 +31,7 @@ The party explores dangerous caverns, retrieves [[uligium]], meets [[Zibzig Spar
 - **[[Drou]]** – [[Elves|elven]] bard-monk; deft climber and summoner of an _Unseen Servant_
 - **[[Fazoth de Brune]]** – [[Humans|human]] warlock-alchemist; flawless diver and rope-handler
 - **[[Yvan Greenrabbit]]** – [[Halflings|halfling]] wild-magic sorcerer; cartographer of questionable talent    
-- **[[Zibzig Sparkscale]]** – eccentric [[kobolds|kobold]] “Master of Light and Shadow,” aspiring arcane inventor
+- **[[Zibzig Sparkscale]]** – eccentric [[Kobolds|kobold]] “Master of Light and Shadow,” aspiring arcane inventor
 - **Cave Fisher** – massive crab-like predator lurking above the underground river
 - **Shrieker Mushrooms** – living alarm fungi that scream when disturbed
 

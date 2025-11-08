@@ -18,7 +18,7 @@ The [[Mawakel peninsula]] was always a lightly populated and insular place. Larg
 This was a time of endless foggy mists, and dangers as fishing boats were lost, and even with the fogs, not every evil was stopped. The interior of the peninsula suffered the most -- between the endless grey, and the dangers that did penetrate -- and few of the small communities nestled amongst the pine forests emerged from this time intact. 
 ###
 
-* (DR:: 1545): The [[Grand Conclave of Mawakel]] between the Mawar and the salt [[lizardfolk]] meets, and undertakes a great magic to hide the land, and summoned the [[Fog of Mawar|great fog]] to protect the peninsula.
+* (DR:: 1545): The [[Grand Conclave of Mawakel]] between the Mawar and the salt [[Lizardfolk]] meets, and undertakes a great magic to hide the land, and summoned the [[Fog of Mawar|great fog]] to protect the peninsula.
 * (DR:: 1590), spring: Rumors of recovery in the south spread, and the [[Grand Conclave of Mawakel|conclave]] meets for the the second time, and agrees to allow the [[Fog of Mawar|mists]] to disperse
 * (DR:: 1590), summer: The first trade ships depart Mawar.
 

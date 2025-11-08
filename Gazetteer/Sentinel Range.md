@@ -45,7 +45,7 @@ Further north, the mountains are somewhat less rugged, but high enough in places
 
 Major settlements of [[Dwarves]] and [[Stoneborn]] call the Sentinels their home, and historically this area was, and is, the center of Dwarven civilization. 
 
-The Sentinels have many names: they are called the Indalas by the [[Stoneborn]], Labkhan by the [[dwarves]], Beredri by the [[Deno'qai]], and Tushara by the Dunmari. 
+The Sentinels have many names: they are called the Indalas by the [[Stoneborn]], Labkhan by the [[Dwarves]], Beredri by the [[Deno'qai]], and Tushara by the Dunmari. 
 
 
 %% OLD NAME NOTES

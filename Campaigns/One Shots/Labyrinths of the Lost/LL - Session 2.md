@@ -19,7 +19,7 @@ players: [Acescale, Gaudin, Loria, Dilion]
 - The master bedroom suite was apparently once occupied by pirates; the ghost of a pirate captain now haunts the bedroom
 - The party spoke with the ghost, and Gaudin convinced him to reveal the secret entrance to Grimstone's lair in the basement as the session ended
 ## The Protagonists
-- Asescale, a [[lizardfolk]] alchemist and gambler
+- Asescale, a [[Lizardfolk]] alchemist and gambler
 - Dilion, a [[Humans|human]] tinkerer and battlesmith
 - Gadin, a [[Humans|human]] warlock with a hint of the [[Fey]] about him
 - Loria Underbough, a [[Halflings|halfling]] wanderer and ranger

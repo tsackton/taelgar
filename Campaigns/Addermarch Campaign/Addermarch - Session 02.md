@@ -35,7 +35,7 @@ The party discovers and grapples with the dangers of a cursed dagger, leading to
 - **[[Fazoth de Brune]]** – [[Humans|human]] warlock from the [[Enst]] River valley
 - **[[Yvan Greenrabbit]]** – [[Halflings|halfling]] wanderer from [[Sembara]]
 - **[[Oona Stonebridge]]** – [[Halflings|halfling]] merchant bound for [[Roscombe]]
-- **[[Bartoz]]** – smith of [[Torvaine Watch]], slain and risen as [[undead]]
+- **[[Bartoz]]** – smith of [[Torvaine Watch]], slain and risen as [[Undead]]
 - **Marshal [[Hildo Brask]]** – devout second-in-command, found dead beneath his holy symbol
 - **Sir [[Einrik Arpaad]]** – commander of the watch, now a tormented ghost
 - **Sir [[Gareth Howell]]** – knight of Lady Duval, investigating the watch

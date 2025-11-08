@@ -18,7 +18,7 @@ players: [Acescale, Gaudin, Loria, Dilion]
 - Manage to capture Folcan, one of the leaders, and interrogate him
 - Intimidate Folcan into leaving them alone for a while; we end as Folcan flees back to the barracks with a promise to tell everyone else that the situation is sorted
 ## The Protagonists
-- Asescale, a [[lizardfolk]] alchemist and gambler
+- Asescale, a [[Lizardfolk]] alchemist and gambler
 - Dilion, a [[Humans|human]] tinkerer and battlesmith
 - Gadin, a [[Humans|human]] warlock with a hint of the [[Fey]] about him
 - Loria Underbough, a [[Halflings|halfling]] wanderer and ranger

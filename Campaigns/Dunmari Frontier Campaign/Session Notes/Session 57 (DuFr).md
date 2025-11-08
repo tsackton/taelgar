@@ -19,7 +19,7 @@ descTitle: Spiritual Sojourn
 > *On Earth: Monday Sep 19, 2022*
 > *[[Orekatu]]*
 
-[[Kenzo]] saves a [[lizardfolk]] named [[Elazar]], learns of a land's spiritual crisis, and embarks on an enlightening spirit journey with newfound allies.
+[[Kenzo]] saves a [[Lizardfolk]] named [[Elazar]], learns of a land's spiritual crisis, and embarks on an enlightening spirit journey with newfound allies.
 ## Session Info
 
 ***Kenzo learns to speak the lizardfolk language from Elazar***

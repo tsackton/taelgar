@@ -32,7 +32,7 @@ Nonetheless, there does seem to be a growing undercurrent of distrust of the Dun
 
 In mid-February, he sees her traveling with three other people, moving quietly and quickly in single file along a barren, ashy plain. All are dressed in cloaks and breastplates, and carry swords and bows - these are clearly not mere commoners. They seem to be following the footprints of something, for they often stop to search the ground. Marcella goes last: her footsteps leave the footprints of the metal boots of a hobgoblin solider. 
 
-Two weeks later, in early March, Marcella is camped near a marshy river. She is speaking quietly to a [[lizardfolk]] man, telling him that the creature is dead. It was a corrupted echo of the Shadowfell, a Sorrowsworn. The Rangers will keep watch for a few more weeks, she says, as the Sorrowsworn often appear in groups. 
+Two weeks later, in early March, Marcella is camped near a marshy river. She is speaking quietly to a [[Lizardfolk]] man, telling him that the creature is dead. It was a corrupted echo of the Shadowfell, a Sorrowsworn. The Rangers will keep watch for a few more weeks, she says, as the Sorrowsworn often appear in groups. 
 
 ## Kaeso
 

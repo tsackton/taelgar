@@ -47,7 +47,7 @@ The party reaches the [[Sunset Gate]], a massive, shimmering wall capturing all 
 
 ![[zoom-sunset-gate.png]]
 
-Turning north, the party follows the line of sunset towards [[Amberglow]], after saying farewell to [[Ismara]]. As they fly northward, the landscape becomes increasingly bleached and desaturated—signs of Amberglow's corruption. After some time, the party finally reaches Amberglow, departing [[Emberwine]]. As they cross the border, soaring on griffons and a wyvern, four enormous humanoids below yell up at them, demanding "one vial of blood each" as toll. The party circles higher and continues their journey after [[Valeris]] confirms nothing good comes from giving [[fey]] creatures blood. 
+Turning north, the party follows the line of sunset towards [[Amberglow]], after saying farewell to [[Ismara]]. As they fly northward, the landscape becomes increasingly bleached and desaturated—signs of Amberglow's corruption. After some time, the party finally reaches Amberglow, departing [[Emberwine]]. As they cross the border, soaring on griffons and a wyvern, four enormous humanoids below yell up at them, demanding "one vial of blood each" as toll. The party circles higher and continues their journey after [[Valeris]] confirms nothing good comes from giving [[Fey]] creatures blood. 
 
 Later, they spot distant figures—three giant wolves carrying armed riders with dozens of smaller wolves running alongside them. When the wolf riders begin pursuing them, the party realizes they can't outrun these endurance hunters indefinitely and formulate a battle plan.
 

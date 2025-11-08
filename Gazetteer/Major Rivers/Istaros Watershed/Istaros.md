@@ -33,4 +33,4 @@ Here, the Istaros forms the eastern border of the [[Xurkhaz]], as it enters a ro
 Once, the Istaros joined the Hara, forming a broad river that flowed past the famous city of Drankor, the center of the Drankorian Empire. Now, none know what remains of the lower Istaros, or if the Hara even still reaches the Istaros. 
 ## Names
 
-The Istaros has many names. To the original Drankorians, the refugees from [[Hkar]] after [[the Downfall]], it was known by its elvish name, Aistanë (EYE-stah-neh), meaning 'blessed water'. To the [[orcs]] of [[Xurkhaz]], it is known as the Drogar. To the Dunmari, it is known as the Mahar. The name Istaros is likely a corruption of the Elvish, in the years after the [[First Plague]] and the fall of Drankor.
+The Istaros has many names. To the original Drankorians, the refugees from [[Hkar]] after [[the Downfall]], it was known by its elvish name, Aistanë (EYE-stah-neh), meaning 'blessed water'. To the [[Orcs]] of [[Xurkhaz]], it is known as the Drogar. To the Dunmari, it is known as the Mahar. The name Istaros is likely a corruption of the Elvish, in the years after the [[First Plague]] and the fall of Drankor.

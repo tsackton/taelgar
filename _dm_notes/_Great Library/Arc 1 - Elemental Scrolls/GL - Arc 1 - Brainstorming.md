@@ -12,7 +12,7 @@ The goal of these adventures is to get the party a little deeper into Voltara an
     - If rumors are ignored, could start causing more trouble for people living in Voltara and eventually lead to an explosion or disaster of some kind in which case emergency request for help could go out
 - Kidnapped messenger (event-based, required):
     - When ready to run the air scroll adventure, have Archivist Lyra find the party, and inform them that more information about the final scroll was expected to arrive in a party from Chardon more than a week ago, but they haven't been seen. Will need to search for missing messenger and clues.
-    - The messenger was captured by [[kobolds]], who are trying to get money and power to protect themselves from goblins/hobgoblins in mountains
+    - The messenger was captured by [[Kobolds]], who are trying to get money and power to protect themselves from goblins/hobgoblins in mountains
     - Adventure based on infiltrating kobold camp, but should be options for rescue that don't involve just combat.
 - Place-based adventures (rumors of these options will circulate):
     - Mostly search for drop-in online one-shots, focus design effort on orc raiding, Voltara sewers, and kidnapped messangers
