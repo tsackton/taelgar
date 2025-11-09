@@ -15,27 +15,29 @@ D&D Beyond Link: [Species Name](link)
 (Generic naming rules if player wants to use "typical" choices)
 
 ---
-## Basic Traits
+## Orc Traits
 
-**Creature Type:**   
-**Size:** 
-**Speed:** 
-**Age**:
-**Languages:** Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
+**Creature Type:**  Humanoid
+**Size:** Your size is Medium
+**Speed:** 30 feet
+**Age**: Orcs reach maturity quickly, typically by the age of 10. Your lifespan is the same as humans. 
+**Languages:** You may select four [[Languages]] during character creation, which likely include Common and the native language of your homeland, probably Orcish. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency.
 
-## (Species) Traits
+## Orc Traits
 
-As an (species), you have these special traits.
+As an Orc, you have these special traits.
 
-%%^Campaign:none%%
+%% this is the PHB orc; it might not totally fit the vibe but it serves as a fine placeholder, no reason to modify given the unlikeliness of anyone playing an orc anytime soon %%
+#### Adrenaline Rush
 
-DM notes on design logic, if useful
+You can take the [Dash](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#DashAction) action as a Bonus Action. When you do so, you gain a number of [Temporary Hit Points](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#TemporaryHitPoints) equal to your Proficiency Bonus.
 
-%%^End%%
+You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Short or Long Rest.
 
-#### Trait 1
+#### Darkvision
 
+You have [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) with a range of 120 feet.
 
-#### Trait 2
+#### Relentless Endurance
 
-(etc)
+When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can’t do so again until you finish a Long Rest.

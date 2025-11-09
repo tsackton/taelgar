@@ -11,12 +11,13 @@ dm_notes: none
 - [x] playing a dwarf
 - [ ] playing a fae
 - [ ] playing a fairy
-- [ ] playing a free orc
+- [x] playing a free orc
 - [x] playing a halfling
 - [x] playing a human
 - [x] playing a kenku
+- [x] playing a kobold
 - [x] playing a lizardfolk
-- [ ] playing a plane-touched
+- [x] playing a plane-touched
 - [ ] playing a satyr
 - [x] playing a stoneborn
 - [x] playing an elf
@@ -33,6 +34,7 @@ dm_notes: none
 - [x] playing a halfling
 - [ ] playing a human
 - [ ] playing a kenku
+- [ ] playing a kobold
 - [x] playing a lizardfolk
 - [x] playing a plane-touched
 - [ ] playing a satyr
