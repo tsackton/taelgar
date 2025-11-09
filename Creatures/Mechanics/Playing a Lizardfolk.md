@@ -37,7 +37,7 @@ To chose a name for your lizardfolk character, you might consider using one of t
 **Creature Type**: Humanoid
 **Size**: Your size is Medium.
 **Speed**: 30 feet
-**Age**: Lizardfolk reach adulthood in their early 20s; the first 5-8 years of their life are spent as amphibious young. Most live into their second century, but few live much beyond 200 years.
+**Age**: Lizardfolk reach adulthood in their teens; the first 5-8 years of their life are spent as amphibious young. Though they reach old age in their 70s or 80s, most live as elders into their second century, though few reach 200 years. 
 **Languages**: You may select four [[languages]] during character creation, which should usually include Lizardfolk and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
 
 ## Lizardfolk Traits

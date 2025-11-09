@@ -43,7 +43,7 @@ To choose a name for your Dwarven character, you might consider using one of the
 **Creature Type**: Humanoid
 **Size**: Your size is Medium.
 **Speed**: 30 feet
-**Age**: Dwarves mature at a little more slowly than humans, and are not considered full adults until they reach their age of majority at 25 and make a pilgrimage to the Heart of the Mountain to receive their name and thuhr. Dwarves have a long lifespan, often reaching 350 year of age.
+**Age**: Dwarves mature at a little more slowly than humans, and are not considered full adults until they reach their age of majority in their mid-20s and make a pilgrimage to the Heart of the Mountain to receive their name and thuhr. Dwarves have a long lifespan, often reaching 350 year of age.
 **Languages**: You may select four [[languages]] during character creation, which should usually include Dwarvish and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency.
 
 ## Dwarf Traits
