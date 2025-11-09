@@ -44,7 +44,7 @@ Although less numerous than some other species, [[Elves|elves]], [[Stoneborn|sto
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------ |
 | [[Elves\|Elf]]        | What generation ([[Elven Cycle of Generations\|ka]]) are you from? What stage of your life are you in? Is this your first time leaving your homeland (your first *leya*)? Or have you taken another path? | [[Playing an Elf]]                           | 6                  |
 | [[Stoneborn]]         | What led you to leave the tight-knit community of your home? Do you have a particular craft or skill that is the focus of your mastery?                                                                   | [[Playing a Stoneborn\|Playing a Stoneborn]] | 4                  |
-| [[Centaurs\|Centaur]] |                                                                                                                                                                                                           | [[Playing a Centaur]]                        | 4                  |
+| [[Centaurs\|Centaur]] |                                                                                                                                                                                                           | [[Playing a Centaur]]                        | 6                  |
 | [[Kenku]]             |                                                                                                                                                                                                           | [[Playing a Kenku]]                          | 4                  |
 
 ## Fey Species
@@ -76,8 +76,8 @@ There are a wide range of other species that live on Taelgar and across the mult
 
 %% Gnomes could also theoretically go here if we ever develop them %%
 
-| Species             | Key Question(s)                                                                                                                                 | **Details**                 | Starting Languages             |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------ |
-| Plane-touched       | Which plane touched your soul?Are you open about your plane-touched heritage? If so, how has it impacted your life? If not, how do you hide it? | [[Playing a Plane-Touched]] | 4 + the language of your plane |
-| [[Orcs\|Orc]]       |                                                                                                                                                 | [[Playing a Free Orc]]      | 4                              |
-| [[Kobolds\|Kobold]] | Most non-kobolds stereotype you as a nuisance, how do you handle that?                                                                          | [[Playing a Kobold]]        | 4                              |
+| Species             | Key Question(s)                                                                                                                                  | **Details**                 | Starting Languages             |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- | ------------------------------ |
+| Plane-touched       | Which plane touched your soul? Are you open about your plane-touched heritage? If so, how has it impacted your life? If not, how do you hide it? | [[Playing a Plane-Touched]] | 4 + the language of your plane |
+| [[Orcs\|Orc]]       |                                                                                                                                                  | [[Playing a Free Orc]]      | 4                              |
+| [[Kobolds\|Kobold]] | Most non-kobolds stereotype you as a nuisance, how do you handle that?                                                                           | [[Playing a Kobold]]        | 4                              |

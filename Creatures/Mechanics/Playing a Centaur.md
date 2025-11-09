@@ -22,10 +22,29 @@ D&D Beyond Link: [Species Name](link)
 **Creature Type**: Humanoid
 **Size**: You are Medium
 **Speed**: 40 feet
-**Age**:
-**Languages**: 
+**Age**: Centaurs mature and age at the same rate as humans. 
+**Languages**: The wide wanderings of many centaurs has left them prone to learn languages quickly. You may select six [[Languages]] during character creation, which should usually include Common, Centaur, and often either Elven or Sylvan. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
 
 ## Centaur Traits
+
+%%^Campaign:none%%
+centaur design logic, taking the basic model of the PHB 2024 to be a species should consist of traits approximately the same value as (a) an origin feat, (b) a skill proficiency, and (c) a flavorful and situationally strong ability, but that species can vary a bit up or down from this for flavor
+
+Equine Build is nearly useless and may actually be detrimental
+Sure Footed is significantly weaker than 1/rest Heroic Inspiration
+40 foot speed is strong though, this is effectively permanent longstrider
+
+probably something like 2 cantrips + skill prof worth of value would be sufficient
+thematically want something fate-ish, something tied to migrations
+
+%%^End%%
+
+#### Equine Build
+You count as one size larger when determining your carrying capacity and the weight you can push or drag. In addition, any climb that requires hands and feet is especially difficult for you because of your equine legs. When you make such a climb, each foot of movement costs you 4 extra feet instead of the normal 1 extra foot.
+
+#### Sure Footed
+You have Advantage on d20 Tests you make to avoid or end the Grappled or Restrained conditions, and on Strength savings throws you make to avoid forced movement or being knocked prone. 
+
 
 %% notes only %%
 
@@ -33,14 +52,6 @@ MMoTM is:
 #### Speed
 
 Your walking speed is 40 feet.
-
-
-
-#### Equine Build
-
-You count as one size larger when determining your carrying capacity and the weight you can push or drag. In addition, any climb that requires hands and feet is especially difficult for you because of your equine legs. When you make such a climb, each foot of movement costs you 4 extra feet instead of the normal 1 extra foot.
-
----
 
 
 #### Hooves
