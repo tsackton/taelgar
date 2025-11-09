@@ -31,11 +31,11 @@ D&D Beyond Link: [Species Name](link)
 centaur design logic, taking the basic model of the PHB 2024 to be a species should consist of traits approximately the same value as (a) an origin feat, (b) a skill proficiency, and (c) a flavorful and situationally strong ability, but that species can vary a bit up or down from this for flavor
 
 Equine Build is nearly useless and may actually be detrimental
-Sure Footed is significantly weaker than 1/rest Heroic Inspiration
-40 foot speed is strong though, this is effectively permanent longstrider
+Sure Footed + Migratory Instincts is probably roughly choose 1 skill
+Touched By Fate is strictly better than human inspiration trait
+40 foot speed is strong, this is effectively permanent longstrider, and at least equal to 1/2 an origin feat
 
-probably something like 2 cantrips + skill prof worth of value would be sufficient
-thematically want something fate-ish, something tied to migrations
+so probably still need ~ 1/2 an origin feat in value, but on the weak side. twist of fate might be a little strong for this but whatever. 
 
 %%^End%%
 
@@ -45,32 +45,10 @@ You count as one size larger when determining your carrying capacity and the wei
 #### Sure Footed
 You have Advantage on d20 Tests you make to avoid or end the Grappled or Restrained conditions, and on Strength savings throws you make to avoid forced movement or being knocked prone. 
 
+#### Migratory Instincts
+You come from a long line of migratory ancestors. As long as you are on the Material Plane, you always know which way is north, and you have Proficiency in the Survival skill. 
 
-%% notes only %%
-
-MMoTM is:
-#### Speed
-
-Your walking speed is 40 feet.
+#### Twist of Fate
+You are deeply attuned to the tides of fate and can manipulate it in small ways. When a creature you can see succeeds or fails on a d20 Test, you can use your Reaction to roll a d4, and either add or subtract the number rolled from the check, potentially turning failure into success or success into failure. You can use this feature a number of times equal to your Proficiency Bonus, and regain all expended uses when you complete a Long Rest. 
 
 
-#### Hooves
-
-You have hooves that you can use to make unarmed strikes. When you hit with them, the strike deals 1d6 + your Strength modifier bludgeoning damage, instead of the bludgeoning damage normal for an unarmed strike.
-
-#### Charge
-
-If you move at least 30 feet straight toward a target and then hit it with a melee weapon attack on the same turn, you can immediately follow that attack with a bonus action, making one attack against the target with your hooves.
-
-#### Natural Affinity
-
-Your fey connection to nature gives you an intuitive connection to the natural world and the animals within it. You therefore have proficiency in one of the following skills of your choice: [Animal Handling](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#AnimalHandling), [Medicine](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Medicine), [Nature](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Nature), or [Survival](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Survival).
-
-Definitely Equine Build and Speed make sense to keep. 
-Instead of Charge, maybe steal the bonus action Dash from PHB 2024 Orcs? 
-Natural weapons are boring IMO
-Natural Affinity is mixed, a skill proficiency maybe but flavor is not quite Taelgar-centaur for me
-
-Centaur vibe has a bit of prophecy / reading the natural world; also the wandering migration, and the "we were the first children of Taelgar" / connection to the material plane. Need to think a bit about what traits might reflect that. 
-
-%% notes end %%

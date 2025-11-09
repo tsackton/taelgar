@@ -22,20 +22,24 @@ D&D Beyond Link: [Changeling](lhttps://www.dndbeyond.com/species/1026382-changel
 ---
 ## Basic Traits
 
-**Creature Type:**   
-**Size:** 
-**Speed:** 
-**Age**:
-**Languages:** Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
+**Creature Type:**  Fey
+**Size:** Medium
+**Speed:** 30 Feet
+**Age**: The fey have an unusual relationship to time. Many fey do not appear to age; those that do age may age at unpredictable rates, or may appear to grow old as if they are human. However, most typical fey cannot persist on the Material Plane for more than roughly a human lifespan. 
+**Languages:** Your connection to the Feywild grants you knowledge of Sylvan. You may also select four additional [[Languages]] during character creation, which likely includes at least Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
 
 ## Changeling Traits
 
 As a changeling, you have the following special traits. 
 
+#### Darkvision
+You have Darkvision with a range of 60 feet.
+
 #### Fey Ancestry
+You have Advantage on savings throws to avoid or end the Charmed condition. 
 
-You have advantage on saving throws you make to avoid or end the [charmed](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CharmedCondition) condition on yourself.
-
+#### Fey Nature
+You do not need to sleep, and magic cannot put your to sleep. To gain the benefits of a Long Rest, you must spend 6 hours in a dream-like state. In this state, you appear motionless, but you are not rendered Unconscious, and you can perceive as normal.
 
 
 #### Changeling Instincts

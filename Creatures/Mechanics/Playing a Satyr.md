@@ -17,25 +17,31 @@ D&D Beyond Link: [Species Name](link)
 ---
 ## Basic Traits
 
-**Creature Type:**   
-**Size:** 
-**Speed:** 
-**Age**:
-**Languages:** Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
+**Creature Type:**  Fey
+**Size:** Medium
+**Speed:** 30 Feet
+**Age**: The fey have an unusual relationship to time. Many fey do not appear to age; those that do age may age at unpredictable rates, or may appear to grow old as if they are human. However, most typical fey cannot persist on the Material Plane for more than roughly a human lifespan. 
+**Languages:** Your connection to the Feywild grants you knowledge of Sylvan. You may also select four additional [[Languages]] during character creation, which likely includes at least Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
 
-## (Species) Traits
+## Satyr Traits
 
-As an (species), you have these special traits.
+As a satyr, you have the following special traits. 
 
-%%^Campaign:none%%
+#### Darkvision
+You have Darkvision with a range of 60 feet.
 
-DM notes on design logic, if useful
+#### Fey Ancestry
+You have Advantage on savings throws to avoid or end the Charmed condition. 
 
-%%^End%%
+#### Fey Nature
+You do not need to sleep, and magic cannot put your to sleep. To gain the benefits of a Long Rest, you must spend 6 hours in a dream-like state. In this state, you appear motionless, but you are not rendered Unconscious, and you can perceive as normal.
 
-#### Trait 1
 
+#### Magic Resistance
+You have advantage on saving throws against spells.
 
-#### Trait 2
+#### Mirthful Leaps
+Whenever you make a long jump or a high jump, you can roll a d8 and add the number rolled to the number of feet you cover, even when making a standing jump. This extra distance costs movement as normal.
 
-(etc)
+#### Words of Influence
+Your words have power over those who hear them. You know the Friends and Vicious Mockery cantrips. For you, these cantrips require only Verbal components, which can appear to be normal conversation if you choose. 
