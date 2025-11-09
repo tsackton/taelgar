@@ -30,7 +30,6 @@ D&D Beyond Link: [Human](https://www.dndbeyond.com/species/1751441-human)
 As a Human, you have these special traits.
 
 %% this is just the unmodified PHB human%%
-
 #### Resourceful
 
 You gain [Heroic Inspiration](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HeroicInspiration) whenever you finish a Long Rest.

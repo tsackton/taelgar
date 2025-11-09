@@ -30,17 +30,4 @@ D&D Beyond Link: [Species Name](link)
 
 ## Beastfolk Traits
 
-As an (species), you have these special traits.
 
-%%^Campaign:none%%
-
-DM notes on design logic, if useful
-
-%%^End%%
-
-#### Trait 1
-
-
-#### Trait 2
-
-(etc)
