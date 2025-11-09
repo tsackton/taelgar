@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [place]
 name: Tyrwinghan Watershed
 typeOf: watershed
 whereabouts:
@@ -12,8 +12,6 @@ dm_notes: none
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% Tim: just names %%
 
 Tyrwingha is a small land nestled between the [[Mostreve Hills]] in the south and west, the [[Western Gulf]], in the east, and the two lizardfolk swamps [[Ozabal]] and [[Latazaro]], in the north-west and east, respectively. In between these boundaries a number of rivers flow from the [[Mostreve Hills]] to the [[Western Gulf]], the most important of which are:
 

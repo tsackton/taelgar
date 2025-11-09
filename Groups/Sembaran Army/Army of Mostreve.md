@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/tim]
+tags: [organization]
 name: Army of Mostreve
 typeOf: army
 dm_notes: none
@@ -11,7 +11,7 @@ dm_owner: mike
 > An army  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% Tim: another rewrite %%
+
 The Army of Mostreve is the name used by many in Sembara for the three Guard Companies of Tyrwingha:
 
 * The Iron Guard, soldiers and knights sworn to the service of the monarch
