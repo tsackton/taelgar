@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [meta, status/check/mike]
-dm_owner: tim
-dm_notes: color
+dm_owner: joint
+dm_notes: none
 ---
 # Playing a Plane-Touched
 *See more: [[Humans]]
@@ -44,21 +44,67 @@ Consider whether you might have taken on a different name when you realized your
 
 The species traits you use are determined by the nature of the plane that touches your soul: 
 - If you are touched by one of the [[Divine Realms]], use the [Aasimar](https://www.dndbeyond.com/species/1751434-aasimar) species traits. 
-- If you are touched by a fiendish plane, most likely the [[Abyss]] or the [[Nine Hells]], use the [Tiefling](https://www.dndbeyond.com/species/1751443-tiefling) species traits. You may select any tiefling lineage; your choice of lineage is mechanical only and does not need to determine the exact plane that touches your soul. 
-
-%% (elemental and "other" planes still to do - see below)%%
-
-You also have the option of using the [[Playing a Human|Human]] species traits, and reflecting your plane touched nature in your class, e.g. as a sorcerer or warlock with an origin appropriate to your plane-touched nature. 
+- If you are touched by one of the Spiritual Realms, but not divine, use the Plane-Touched traits below. This could be a fiendish plane like the [[Abyss]] or the [[Nine Hells]], or it could be something like [[Arborea]] or [[Limbo]]. 
+- If you are touched by an elemental plane, such as the [[Elemental Plane of Fire|Plane of Fire]] or the [[Elemental Plane of Air]], use the Elemental-Touched traits below. 
+- You also have the option of using the [[Playing a Human|Human]] species traits, and reflecting your plane touched nature in your class, e.g. as a sorcerer or warlock with an origin appropriate to your plane-touched nature. 
 
 %%^Campagin:none%%
 
-Elemental Planes are basically genasi, but the D&D genasi need a little tweaking. 
+This is basically built on the Tiefling framework, with some small tweaks. But you essentially get:
 
-Generally should be:
-(1) 1-2 appropriately themed boons at 1st. this could include darkvision, breath holding, amphibious, or similar traits
-(2) a protective trait, likely an appropriate damage resistance but could be something like Earth Genasi Earth Glide
-(3) A cantrip at 1st, 1st level at 3rd, 2nd level at 5th spell trait
+(1) Darkvision or another similar trait, such as breath holding, water breathing, ignore difficult terrain, etc
+(2) A minor magical boon such as Thaumaturgy
+(3) A protective trait, usually resistance
+(4) A planar legacy trait, that gives you a cantrip at 1st, a 1st level spell at 3rd, and a 2nd level spell at 5th
 
-Other planes might be complicated and would need to be homebrewed for a specific player invested in them. 
 
 %% notes end %%
+
+### Plane-Touched
+
+#### Darkvision
+You have [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) with a range of 60 feet.
+
+#### Otherworldly Presence
+You know the [Thaumaturgy](https://www.dndbeyond.com/spells/2619174-thaumaturgy) cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Planar Legacy Trait.
+
+#### Planar Legacy
+You are the recipient of a legacy that grants you supernatural abilities. Choose a legacy from the Planar Legacies table. You gain the level 1 benefit of the chosen legacy.
+
+When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the legacy).
+
+| Legacy   | Level 1                                                                                                                                | Level 3                                                                     | Level 5                                                                             |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Abyssal  | You have Resistance to Poison damage. You also know the [Poison Spray](https://www.dndbeyond.com/spells/2618875-poison-spray) cantrip. | [Ray of Sickness](https://www.dndbeyond.com/spells/2618935-ray-of-sickness) | [Hold Person](https://www.dndbeyond.com/spells/2619153-hold-person)                 |
+| Chthonic | You have Resistance to Necrotic damage. You also know the [Chill Touch](https://www.dndbeyond.com/spells/2618965-chill-touch) cantrip. | [False Life](https://www.dndbeyond.com/spells/2618866-false-life)           | [Ray of Enfeeblement](https://www.dndbeyond.com/spells/2618926-ray-of-enfeeblement) |
+| Infernal | You have Resistance to Fire damage. You also know the [Fire Bolt](https://www.dndbeyond.com/spells/2618890-fire-bolt) cantrip.         | [Hellish Rebuke](https://www.dndbeyond.com/spells/2619149-hellish-rebuke)   | [Darkness](https://www.dndbeyond.com/spells/2619080-darkness)                       |
+%% this is just tielfling, but would be easy to add other legacies for other planes with the same formula. Cthonic actually feels like the "anti-Arborea". Limbo would be easy to add; Arborea and Mechanus a little trickier to figure the resistance. %%
+
+### Elemental-Touched
+
+#### Elemental Essence
+Your plane-touched nature changes you. You gain one of the following benefits that represents this elemental influence. 
+
+- *Darkvision (Earth, Fire):* You have [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) with a range of 60 feet.
+- *(Water, Air):* ***????***
+- *Unending Breath (Air):* You can hold your breath indefinitely as long as you are not Incapacitated. 
+- *Amphibious (Water):* You have a Swim Speed equal to your Speed, and you can breath air and water. 
+- *Summon Flame (Fire):* As a Magic action, you can summon a flickering flame to your hand. This flame can ignite flammable objects that you touch, and it also sheds Bright Light in a 20 foot radius and Dim Light for an additional 20 feet. The flame disappears when you dismiss it (no action required). You must have a free hand to summon this flame. 
+- *Earth Walk (Earth):* You can move across Difficult Terrain caused by earth or stone, including rubble, narrow openings in earth or stone, and earthen or stone slopes, without expending extra movement. 
+
+#### Elemental Presence
+You know the Elementalism cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Elemental Legacy Trait.
+
+#### Elemental Legacy
+You are the recipient of a legacy that grants you supernatural abilities. Choose a legacy from the Elemental Legacies table. You gain the level 1 benefit of the chosen legacy.
+
+When you reach character levels 3 and 5, you learn a higher-level spell, as shown on the table. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the legacy).
+
+| Legacy | Level 1                                                                                                                                                                                                                                                                                                                               | Level 3                 | Level 5     |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ----------- |
+| Fire   | You have Resistance to Fire damage. You also know the Control Flames cantrip.                                                                                                                                                                                                                                                         | Burning Hands           |  ***????*** |
+| Earth  | As a Bonus Action, you can give yourself resistance to bludgeoning, piercing, and slashing damage that lasts until the beginning of your next turn. You can use this ability a number of times equal to your Proficiency Bonus, and you regain all expended uses when you complete a Long Rest. You also know the Mold Earth cantrip. | ***????***              | ***????***  |
+| Water  | You have Resistance to Acid damage. You also know the Shape Water cantrip.                                                                                                                                                                                                                                                            | Create or Destroy Water | Water Walk  |
+| Air    | You have Resistance to Lightning damage. You also know the Gust cantrip.                                                                                                                                                                                                                                                              | Feather Fall            | Levitate    |
+
+

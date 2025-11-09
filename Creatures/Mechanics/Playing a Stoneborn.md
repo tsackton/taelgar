@@ -46,17 +46,22 @@ To choose the name for your stoneborn character, you might consider one of the b
 
 As a Stoneborn, you have these special traits.
 
-%% stoneborn design logic is a little different as it feels like there is room for a species with one major impactful ability and not necessarily a lot of minor abilities. this is similar to the phb 2024 goliath design, or the 2024 phb gnome design.  the goal is to make Entamba's Blessing a choice of powerful thematic "anime monk" kind of abilities but probably still needs balancing work.
+%%^Campaign:none%%
 
-still need one more feature probably besides blessing and powerful build...
+Design logic is based off goliath, more or less. 
 
-%%
+Entamba's Resilience + Body of Stone replace the be large for 10 minutes feature
+Soul of the Mountain copies several of the giant ancestry features, and adds a non-combat option to capture the focus/mastery vibes
+
+Soul of the mountain options might need balancing against each other, and could conceivably use one more option
+
+%%^End%%
 
 #### Powerful Build
 You have Advantage on any ability check you make to end the [Grappled](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#GrappledCondition) condition. You also count as one size larger when determining your carrying capacity.
 
 #### Entamba's Resilience 
-If you fail a Strength, Constitution, Wisdom, or Charisma saving throw, you may call on the focus of Entamba and roll 1d6, adding the number on the die to the saving throw. If this turns a failure into a success, you may not use this feature again until you finish a Long Rest. 
+If you fail a Strength, Constitution, Wisdom, or Charisma saving throw, you may call on the resilience of Entamba and roll 1d6, adding the number on the die to the saving throw. If this turns a failure into a success, you may not use this feature again until you finish a Long Rest. 
 
 #### Body of Stone
 You only require 1/4 lb of food per day to sustain you, and you have advantage on saving throws to avoid Exhaustion from Malnutrition. You are immune to environmental effects caused by high altitude or extreme cold. 
@@ -69,4 +74,3 @@ As a Stoneborn, you are connected to [[Entamba]], the soul of the mountain. Choo
 - **Rock's Endurance**: When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.
 - **Stone's Focus**: When you make an ability check using a skill or tool you have proficiency in, you can channel Entamba's focus. You add your Proficiency Bonus to the roll one additional time. 
 
-%% soul of the mountain options might need balancing against each other, and could conceivably use one more option %%
