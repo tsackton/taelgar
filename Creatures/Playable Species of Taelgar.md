@@ -1,17 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta, status/check/mike]
+tags: [meta]
 dm_owner: joint
 dm_notes: none
 ---
 # Playable Species of Taelgar
 
-%% player facing %%
-
 Many creatures inhabit the world of Taelgar and the multiverse in which it is set, as described in [[Creatures of Taelgar]]. 
 
 A subset of these creatures are available as options for player characters, although not all playable species will be appropriate for all campaigns. This page provides a brief summary of the playable species of Taelgar, with links to more extensive mechanics and background. 
-
 ## Common Species
 
 The four most numerous playable species in Taelgar, by a wide margin, are [[Humans|humans]], [[Halflings|halflings]], [[Dwarves|dwarves]], and [[Lizardfolk|lizardfolk]]. These species can be found nearly anywhere in the world. 
@@ -77,7 +74,7 @@ There are a wide range of other species that live on Taelgar and across the mult
 
 %% Goblins need more work before they are developed here, but are likely something like kobolds in that they are kind of a "nuisance" species; so once they are developed it seems plausible that they are equally valid as PCs as kobolds. %%
 
-%% Gnomes could also theorectically go here if we ever develop them %%
+%% Gnomes could also theoretically go here if we ever develop them %%
 
 | Species             | Key Question(s)                                                                                                                                 | **Details**                 | Starting Languages             |
 | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------ |
