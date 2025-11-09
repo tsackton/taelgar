@@ -18,7 +18,7 @@ dm_notes: none
 - [x] playing a lizardfolk
 - [ ] playing a plane-touched
 - [ ] playing a satyr
-- [ ] playing a stoneborn
+- [x] playing a stoneborn
 - [x] playing an elf
 
 ## To Do - Lore/Intro

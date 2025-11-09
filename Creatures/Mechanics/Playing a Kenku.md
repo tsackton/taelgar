@@ -1,12 +1,17 @@
 ---
+headerVersion: 2023.11.25
 tags: [meta]
-dm_owner: tim
-dm_notes: color
+dm_owner: joint
+dm_notes: none
 ---
+# Playing a Kenku
+*See also: [[Kenku]]*
+D&D Beyond Link: ()
 
-# Kenku Species Details
+Kenku are a species of humanoid birds, sometimes called the birdfolk. Feathered wings sprout from their backs, giving them the ability to fly. Most kenku make their home in the cold open plains and mountains of the far north, and few talk about their history or origin to outsiders. Still, kenku can often be seen along the cities, towns, and villages of the [[Green Sea]], although rarely do any cross the mountains to the western coast of Taelgar.
 
-Kenku are a species of humanoid birds, sometimes called the birdfolk. Feathered wings sprout from their backs, giving them the ability to fly. Most kenku make their home in the cold open plains and mountains of the far north, and few talk about their history or origin to outsiders. Still, kenku can often be seen along the cities, towns, and villages of the [[Green Sea]], although few cross the mountains to the western coast of Taelgar.
+
+
 
 ---
 ## Creating Your Kenku Character

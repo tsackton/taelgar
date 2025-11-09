@@ -39,8 +39,9 @@ To choose the name for your stoneborn character, you might consider one of the b
 **Creature Type**: Humanoid
 **Size**: Stoneborn are between 7 and 8 feet tall and weigh between 280 and 450 pounds. Your size is Medium.
 **Speed**: 30 feet
-**Age**: Stoneborn age much more slowly than humans, reaching maturity around 25, but not reaching old age until 300 or later. Stoneborn metabolism slows as they age, and the eldest stoneborn seem as if they are statues, rarely moving or speaking. 
-**Languages**: 
+**Age**: Stoneborn age much more slowly than humans, reaching maturity around 25, but not reaching old age until 200 or later. Stoneborn metabolism slows as they age, and the eldest stoneborn seem as if they are statues, rarely moving or speaking. 
+**Languages**: You may select four [[Languages]] during character creation, which likely include Common and Stoneborn. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency.
+
 ## Stoneborn Traits
 
 As a Stoneborn, you have these special traits.
@@ -54,17 +55,18 @@ still need one more feature probably besides blessing and powerful build...
 #### Powerful Build
 You have Advantage on any ability check you make to end the [Grappled](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#GrappledCondition) condition. You also count as one size larger when determining your carrying capacity.
 
-#### Entamba's Blessing
-As a Stoneborn, you can use your connection to Entamba to perform feats of strength, endurance, and mental stamina. You may select one of the following disciplines:
+#### Entamba's Resilience 
+If you fail a Strength, Constitution, Wisdom, or Charisma saving throw, you may call on the focus of Entamba and roll 1d6, adding the number on the die to the saving throw. If this turns a failure into a success, you may not use this feature again until you finish a Long Rest. 
 
-- Entamba's Body: You have resistance to Poison and Cold damage, and you have Advantage on saving throws against poison. 
-- Entamba's Will: You have Advantage on Wisdom and Charisma saving throws. 
-- Entamba's Strength: When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the [Prone](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) condition. You can use this effect a number of times equal to your Proficiency Bonus, and regain all uses when you finish a Long Rest. 
-- Entamba's Protection: When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total. You can use this Reaction a number of times equal to your Proficiency Bonus, and regain all uses when you finish a Long Rest. 
+#### Body of Stone
+You only require 1/4 lb of food per day to sustain you, and you have advantage on saving throws to avoid Exhaustion from Malnutrition. You are immune to environmental effects caused by high altitude or extreme cold. 
 
-%% maybe could use one more option? %%
+#### Soul of the Mountain
+As a Stoneborn, you are connected to [[Entamba]], the soul of the mountain. Choose one of the following benefits to reflect this connection. You can use your chosen benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. 
 
+- **Glacier's Strike**: When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 Cold damage to that target and reduce its Speed by 10 feet until the start of your next turn.
+- **Avalanche's Blow**: When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the [Prone](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) condition.
+- **Rock's Endurance**: When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.
+- **Stone's Focus**: When you make an ability check using a skill or tool you have proficiency in, you can channel Entamba's focus. You add your Proficiency Bonus to the roll one additional time. 
 
-%% old option from previous iteration:
-- _Entamba's Dance (Sandborn only):_ You learn to mimic the shifting sands and blowing winds of your desert home. Your base movement speed increases to 35 feet. In addition, when a creature targets you with an attack, you can use your reaction to force that creature's attacks against you to be rolled with disadvantage until the start of your next turn. Once you use this ability, you cannot use it again until after you finish a short or a long rest.
-%%
+%% soul of the mountain options might need balancing against each other, and could conceivably use one more option %%
