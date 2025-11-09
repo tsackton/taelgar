@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [place]
 name: Zimkova
 typeOf: realm
 aliases: [ Highland Kingdoms ]
@@ -13,7 +13,6 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Rewrite based on the vibes from Chasm one-shot brainstorming %%
 
 North of [[Sembara]] the land rises towards the [[Sentinel Range]], and is the ancient homeland of the Zimka, who once inhabited the [[Enst]], [[Teft]], [[Semb]], and [[Wistel]] river valleys, as well as the foothills of the Sentinels. Today, the lands of the Zimka people can be loosely organized into three realms ([[Ardlas]], [[Lavnoch]], and [[Breva]]) and the northern lands (often called just Zimkova, or north Zimkova), less organized and without any traditional political boundaries.  
 
