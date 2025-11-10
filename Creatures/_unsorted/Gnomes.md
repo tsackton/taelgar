@@ -1,6 +1,6 @@
 ---
 tags: [species, status/stub]
-dm_owner: shared
+dm_owner: joint
 dm_notes: important
 ---
 # Gnome

@@ -1,6 +1,6 @@
 ---
 tags: [species, status/cleanup/text, status/needswork/old]
-dm_owner: shared,tim
+dm_owner: joint
 dm_notes: important
 ---
 # Fey

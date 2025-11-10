@@ -2,7 +2,7 @@
 tags: [species,  status/cleanup/text]
 name: Lizardfolk
 aliases: [lizardfolk]
-dm_owner: shared
+dm_owner: joint
 dm_notes: important
 ---
 # Lizardfolk
