@@ -13,10 +13,10 @@ This page is contains guidelines for adapting D&D rules around creatures to Tael
 
 ## Categories of Creatures
 
-There are four broad categories of creatures that exist in Taelgarian metaphysics, elaborated on in more detail in [[Metaphysics of Creatures]]. They are, briefly:
+There are four broad categories of creatures that exist in Taelgarian metaphysics, elaborated on in more detail in [[Metaphysics of Creatures]]. Except as noted, all these creatures, by the nature of their subjective perceptions, attract and accrete [[Soulstuff]], linking them to the [[Plane of Souls]]. This 
 
-* **Species**: these are creatures with a unique culture and language, and continuity across the world. There might be many different human, dragon, or kenku cultures, but they share an evolution, common history, and overarching narrative. Everything in this category should have a single origin story for how it came to be and spread across the world, even though that origin story may not have been invented yet. Natives of any plane, including the Far Realms, can be species. 
 * **Creatures**: these are sentient natives of one of the many planes in the multiverse; unlike species, they are not expected to have a single unique origin story or shared history. The trolls that one adventuring party fights in the Plaguelands might be metaphysically unrelated to the trolls another party fights in the Blackwater Fens. Note there are important subsets of creatures based on plane of origin. Creatures might have pages on ecology and tendencies. 
+* **Species**: these are creatures with a unique culture and language, and continuity across the world. There might be many different human, dragon, or kenku cultures, but they share an evolution, common history, and overarching narrative. Everything  in this category should have a single origin story for how it came to be and spread across the world, even though that origin story may not have been invented yet. Natives of any Inner Plane, or the Far Realms, can be species. Natives of Spiritual Realms 
 * **Constructs**: these are sentient creatures that are not really thinking creatures at all, but are animated by some magic which mimics sentience. They do not have souls at all and are rendered inanimate when killed, unless some magic restores them.
 * **Transformations**: these are sentient creatures that were once members of a species, or a different creature, but have been transformed, either during life or after death, into some new form. This category covers a diverse array of possible things, from undead to lycanthropes to twisted/monstrous corruptions of species into new things. The key distinction is that transformations are defined by a process of creation, such as the curse of lycanthropy or the animate dead spell, and thus fundamentally cannot have a single origin story. A transformation that arose once at a specific point in history, and now only exists as descendants of that original event, might be better classified as a species, but generally this should be avoided unless important for story reasons. 
 
@@ -34,7 +34,7 @@ To introduce a species requires, minimally, a sense of their origin story and hi
 
 #### Origin Story
 
-A central thing that makes a species a species is their unique origin story. So far, there are three relatively well developed classes of origin stories, and then two catch-all categories. Carefully consider what kind of origin story makes sense for a new species. 
+A central thing that makes a species a species is their unique origin story. So far, there are three relatively well developed classes of origin stories, and then three catch-all categories. Carefully consider what kind of origin story makes sense for a new species. 
 
 **Children of the Embodied Gods:** These are species that were directly created by one of the [[Embodied Gods]], a unique category of divine being endowed with a physical manifestation by the [[Divine Presence]] (though note the exact metaphysics of what determines whether something is an Embodied God vs Incorporeal God vs High God is not fully developed). Species with this origin story should have unique magical abilities granted by their connection to their divine creator. Metaphysically, this is represented by these species receiving a gift of soulstuff from their divine creators, which gives them power; upon death this soulstuff is assumed to pass into the beyond to be reclaimed and rejoin these divinities, whatever that might mean. The term "Firstborn" is often used to refer to the creator god or gods of a given species in this category. 
 
@@ -58,10 +58,63 @@ Notes:
 **Echoes of Ancient Powers:** These species have some origin story connected, in a vague or loose way at least, with the events prior to the [[Riving]] and with entities that existed in some form or another during the [[Primordial Cosmos]]. The origin story of these species is often poorly developed; however, there should be a strong sense of powerful magic for any species in this category, which should be reserved for species that at least potentially can be extraordinarily powerful. There are no real canonical details about the metaphysics of creatures in this category, except that typically these species should be defined by an ability to accrete very large amounts of soulstuff, but they should not receive gifted soulstuff from divine realms. 
 
 Canonically includes: [[Dragons]], [[Giants]]
-New types of giants and dragons are relatively trivial to invent. New species in this category require some thought, primarily to avoid overloading the world with too many extremely powerful creatures. 
+New types of giants and dragons are relatively safe to invent, though keep in mind the need for a shared history and origin story. Creatures like ogres, cyclops, and wyverns are likely better treated as "creatures" or "transformations". New species in this category require some thought, primarily to avoid overloading the world with too many extremely powerful creatures. 
 
 Notes:
-- There is a vibe, though not canonically developed, that these species generally don't have religion. If they do have religion, they likely worship ascended members of their own species, who 
+- These species arose not from a creator god, but from some kind of power and ancient magic of creation. Given their potentially great power and long life, many of the strongest of these creatures accrete large amounts of soulstuff, and there is the potential for deity-like entities or even true Divinities to have arisen out of the strongest of these creatures.
+- There is a vibe, though not canonically developed, that these species generally don't have religion. If they do have religion, they likely worship ascended members of their own species, who accreted sufficient soulstuff to function like divinities, but are not related in any real metaphysical way to the [[Divine Presence]] or even necessarily the [[Spiritual Realms]]. 
+- This is really intended to be a category for powerful and intelligent species that clearly need a culture but don't fit as natives of other planes; the unifying feature here is really the potential to accrete very large amounts of soulstuff and reach high CR. 
+- From Tim: I am committed to the idea that dragons and giants are somehow echoes or representatives or creations or something of pre-Riving powers, but the exact details should probably be left intentionally hazy. This does not have to involve the Divine Presence - they could be magic made flesh or something, created out of the Plane of Magic somehow, for example. 
+- Vibe from older notes: " Once, in the ancient days before the [[Riving]], when the multiverse was young and magic was strong, great powers walked the earth, reshaping it on a whim. Though few know the ultimate fate of these powers, or whether any still live today, folklore claims that the [[Giants|giants]] and [[Dragons|dragons]] trace their origins to the [[Primordial Cosmos]] in some fashion."
+
+**Transformed Species:** Some species might fit best with an origin story that involves a unique split or transformation from another species with different origin story. There are no canonical examples of this that have been invented, although brainstorming around gnomes suggests they are the sundered surface cousins of dwarves. Generally, these species need a unique transformative event in their history. This should be used sparingly - most transformations do not need to be species. Metaphysically, these species will usually inherit the metaphysics of their original species prior to the transformation, unless the transformative event specifically changed the nature of their souls, which could be possible. 
+
+Canonically includes: nothing
+Tentatively includes: [[Gnomes]]
+
+Notes:
+- This is a pretty loose category that does not have much invention behind it yet, but could be useful. 
+
+**Other Species:** A catch-all category for everything that doesn't fit into the above categories. This is generally either species with a unique and hard-to-categorize creation story, or species with no creation story invented yet but which do not obviously fit into another category. The metaphysics of these species depends on their creation story and might vary widely. 
+
+Canonically includes: [[Kenku]], [[Merfolk]], [[Centaurs]]
+Currently also includes:  [[Goblins]], [[Kobolds]], [[Fae]], [[Fairies]]
+Possibly also includes: [[Ithilids]], [[Bullywugs]], [[Dragonets]], [[Djinn]], [[Azer]], [[Efreeti]], [[Dao]], [[Marid]], [[Aboleths]]
+
+Notes:
+- Many of the species in this category simply have no origin story or metaphysics invented, and some might not even be species. They are likely in the "unique" category, but might not be. These include:
+	- Fae, Fairies - natives of the Feywild; definitely species but origin story very unclear
+	- Goblins - almost certainly a species but origin story very unclear; could, for example, be transformations of hobgoblins somehow granted the ability to accrete soulstuff
+	- Kobolds - definitely a species and very likely in this category, but origin story not invented
+	- Dragonets - might not be a species; if they are, might be transformations from dragons; if not, might just have a unique and interesting population on the circular island
+	- Bullywugs - might not be a species; if they are, might be a transformation from something, most likely a non-species 
+	- Djinn, Azer, Efreeti, Dao, Marid - natives of the elemental planes; very likely most/all of these are species, but details of how elemental planes natives arise is unclear. Could be echoes of ancient powers, for example; in an earlier conception of deep history the "elder elementals" were part of the primordial cosmos. 
+	- Aboleths, Ithilids - invaders from Far Realms; might not even be species
+- Only kenku, centaurs, and merfolk have enough invented about their origin to canonically be in this category
+
+#### Metaphysics of Souls
+
+The other thing that must be considered for a species is the metaphysics of its soul, and how it accretes soulstuff. There are three broad categories here, loosely tied to the origin story. 
+
+**Gifted Soulstuff**: Many species, including all the children of embodied gods and humans, are gifted soulstuff by a divinity upon birth. Species with this metaphysics are the only species whose souls travel beyond the Land of the Death to join divinities in the Spiritual Realms after death. Generally requires religion and a close relationship with gods for this metaphysics to work, though not all metaphysical details of this process are fully resolved. 
+
+**Accrete Soulstuff**: This should generally be the default position in the absence of any more specific invention. Most species accrete soulstuff by their sentient nature. Because they are also sapient, that soulstuff persists for some time after death, but accreted soulstuff eventually returns to their native plane, to some undetermined fate which might be simply merging back with the ambient soulstuff of that plane, or might be something more complex, but should be distinct from the category above. 
+
+**No Soulstuff:** Natives of the Far Realms generally won't accrete soulstuff, and so may not have a soul at all in the Taelgarian sense. Hobgoblins are special case, created to actively repel soulstuff; they also don't have Taelgarian souls. 
+
+#### Native Plane
+
+Species can be native to three different places. 
+
+**Material Plane:** This is the most common answer, and should likely be the default unless it is obviously not appropriate. 
+**Inner Planes**: Many species are native to the Feywild or one of the Elemental Planes. There probably aren't species native to other Inner Planes (such as the Plane of Magic, or postulated Positive/Negative Energy Realms), but technically their could be. Note that generally origin stories of species native to somewhere that is not the Material Plane don't exist yet, so there are some fuzzy details about creation here; it is especially unclear whether it is possible for natives of other planes to have gifted soulstuff, and if so what that might mean. 
+**Far Realms**: Species that come from a specific Far Realm, and have a unique creation story in that Far Realm, and a unified history on Taelgar, also exist. Note that while many Far Realms in D&D are flavored as eldritch horrors, this does not have to be the case; see, for example, [[Merfolk]] and the [[Sentient Ocean]]. 
+
+Note: species cannot be native to the Spiritual Realms. Natives of the Spiritual Realms are always creatures, with any culture and history tied to the plane they are from as much as them. In some sense, natives of the Spiritual Realms are simple extensions of the Spiritual Realms themselves. 
+
+### Is It a Construct or Transformation?
+
+Creatures that are not species might still be either constructs or transformations. 
 
 ---
 
@@ -72,19 +125,11 @@ The multiverse, gods, and the story of creation are organized somewhat different
 
 ###  Natives of the Inner Realms
 
-Sentient creatures -- those that can feel and perceive subjective experiences -- include the vast majority of creatures that inhabit the Material Plane that one might typically encounter. These creatures, by the nature of their subjective perceptions, attract and accrete [[Soulstuff]], linking them to the [[Plane of Souls]]. This connection is stronger for sapient creatures, and strongest for those who are also connected to a Divinity. When these creatures die, the accumulated [[Soulstuff]] that makes up their soul typically passes to the [[Land of the Dead]], to whatever fate awaits. 
+Sentient creatures -- those that can feel and perceive subjective experiences -- include the vast majority of creatures that inhabit the Material Plane that one might typically encounter. 
 
-What distinguishes these sentient species from each other is typically a combination of the manner of their creation and the nature of their soul. 
+This connection is stronger for sapient creatures, and strongest for those who are also connected to a Divinity. When these creatures die, the accumulated [[Soulstuff]] that makes up their soul typically passes to the [[Land of the Dead]], to whatever fate awaits. 
 
 
-3. **Echoes of Ancient Powers**. Once, in the ancient days before the [[Riving]], when the multiverse was young and magic was strong, great powers walked the earth, reshaping it on a whim. Though few know the ultimate fate of these powers, or whether any still live today, folklore claims that the [[Giants|giants]] and [[Dragons|dragons]] trace their origins to the [[Primordial Cosmos]] in some fashion. 
-
-	- Creation: Early creation magic. 
-	- Metaphysics: These species arose not from a creator god, but from some kind of power and ancient magic of creation. Given their potentially great power and long life, many of the strongest of these creatures accrete large amounts of soulstuff, and there is the potential for deity-like entities or even true Divinities to have arisen out of the strongest of these creatures. If any representatives of these creatures have religion (most likely among giants, though nothing is canonically determined), they likely worship their ancestors who ascended to Divinity.
-	- *Canonically includes: [[Giants]] and [[Dragons]]*
-	- ***New subtypes of Giants or Dragons can be freely invented; new overall categories of this kind need careful thought.***
-
-%% I am committed to the idea that dragons and giants are somehow echoes or representatives or creations or something of pre-Riving powers, but the exact details should probably be left intentionally hazy. This does not have to involve the Divine Presence - they could be magic made flesh or something, created out of the Plane of Magic somehow, for example. %%
 
 4. **Corrupted Species.** A number of sentient, self-aware creatures or species were originally something else, but have been cursed or corrupted in some way, often by agents of the [[Void Mind]]. The most common of these are lycanthropes, but others may exist. This category can also include creatures such as the [[Derro]], once dwarves whose connection to the [[Bahrazel]] was severed by mind flayers to create slaves for their underground empires. Undead are a special category of corrupted species; see [[Undead]] for more discussion. 
 
