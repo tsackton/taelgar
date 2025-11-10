@@ -1,6 +1,5 @@
 ---
 headerVersion: 2023.11.25
-typeOf: celestial
 tags: [species]
 pronunciation: gih-DAR-ee
 dm_owner: tim

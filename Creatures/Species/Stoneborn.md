@@ -2,7 +2,7 @@
 tags: [species, status/cleanup/text]
 name: Stoneborn
 aliases: [Stoneborn, stoneborn]
-dm_owner: shared
+dm_owner: joint
 dm_notes: important
 ---
 # Stoneborn

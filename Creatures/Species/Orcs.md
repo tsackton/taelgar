@@ -3,7 +3,6 @@ headerVersion: 2023.11.25
 tags: [species]
 name: Orcs
 aliases: [orc, Orc, Orcs, orcs]
-typeOf: species
 dm_notes: color
 dm_owner: none
 ---
