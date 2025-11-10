@@ -35,7 +35,7 @@ To chose a name for your lizardfolk character, you might consider using one of t
 ## Basic Traits
 
 **Creature Type**: Humanoid
-**Size**: Your size is Medium.
+**Size**: Your size is Medium (roughly 5-7 feet tall)
 **Speed**: 30 feet
 **Age**: Lizardfolk reach adulthood in their late teens; the first 5-8 years of their life are spent as amphibious young. Though they reach old age in their 70s or 80s, most live as elders into their second century, though few reach 200 years. 
 **Languages**: You may select four [[languages]] during character creation, which should usually include Lizardfolk and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
@@ -70,7 +70,7 @@ When you reach character level 3, you can beseech your ancestors for aid using o
 
 ### Status
 
-**Lore**: vibes feel fairly complete; general settlement pattern and place in the world is complete. vibe of "shape their landscape to make very high productivity ecosystems" seems to fit well. some cultural details about view of the land are only well captured in [[Land Holding in Sembara]] but should be better explored more widely. 
+**Lore**: vibes feel fairly complete; general settlement pattern and place in the world is complete. vibe of "shape their landscape to make very high productivity ecosystems" seems to fit well. some cultural details about view of the land are only well captured in [[Land Holding in Sembara]] but should be better explored more widely. history / ancient lizardfolk swamp might not be well captured in notes. 
 
 **Religion**: undeveloped, other than names there is not much sense of lizardfolk religion.
 
@@ -87,6 +87,17 @@ When you reach character level 3, you can beseech your ancestors for aid using o
 - [ ] [[Lizardfolk]]: overview page, needs updates to capture vibes better and add dm notes / meta about biology, elders, land, community
 - [ ] [[Tharzen Anzinakoa]]: stub, needs some basic ideas; see also [[Udazkena]], [[Bero]], [[Hazkunde]], and [[Negu]], which are all blank stubs
 - [ ] [[Latazaro]], [[Ozabal]], [[~Yeraad Lizardfolk Swamp~]] could all use a little bit of invention as major lizardfolk communities; others also must exist, some of which don't even have stubs (salt lizardfolk in Mawar; lizardfolk settlements in Apporia from Samso's backstory; lizardfolk community outside Darba)
+- [x] D&D Beyond Homebrew Mechanics
+- [ ] D&D Beyond Text -> Link to Taelgarverse needs to be updated to point to this page when it is pushed.
+
+**Discussions/Sources**:
+[[Discord Chat - Species]]
+[[Discord Chat - Lizardfolk]]
+[[Discord Chat - Historical Framework Pre Downfall]] (notes on ancient lizardfolk swamp)
+[[Discord Chat - Non-humans in Sembara]] (land holding)
+[[Email  - Taelgar Races]] 
+[[Email - A Few Thoughts on Taelgar Races]]
+[[Email - Brief Thoughts on Elder Races]]
 
 ### Design Logic
 
