@@ -1,12 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [meta]
 dm_owner: joint
 dm_notes: none
 ---
-
-# Centaur Species Details
-*See more: links to relevant pages*
+# Playing a Centaur
+*See more: [[Centaurs]]*
 D&D Beyond Link: [Species Name](link)
+
+%% status: mechanics are complete but could use a second pass; does not exist in D&D Beyond yet. lore and background clear but needs to be written %%
 
 
 ---
@@ -32,10 +34,8 @@ centaur design logic, taking the basic model of the PHB 2024 to be a species sho
 
 Equine Build is nearly useless and may actually be detrimental
 Sure Footed + Migratory Instincts is probably roughly choose 1 skill
-Touched By Fate is strictly better than human inspiration trait
 40 foot speed is strong, this is effectively permanent longstrider, and at least equal to 1/2 an origin feat
-
-so probably still need ~ 1/2 an origin feat in value, but on the weak side. twist of fate might be a little strong for this but whatever. 
+Twist of Fate feels strong, probably at least equal to 1/2 an origin feat, likely more
 
 %%^End%%
 
