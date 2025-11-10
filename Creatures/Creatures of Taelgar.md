@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-name: Species in Taelgar
 tags: [background, status/needswork/old]
 dm_owner: joint
 dm_notes: none
 ---
-# Species in Taelgar
+# Creatures of Taelgar
+
 
 %% Character facing %%
 
