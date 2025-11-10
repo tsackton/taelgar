@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+tags: [background, status/check/mike]
 excludePublish: ["all"]
 dm_owner: joint
 dm_notes: none
@@ -9,19 +9,26 @@ dm_notes: none
 
 The multiverse of Taelgar contains a diverse array of self-aware creatures. This documents some metaphysics and worldbuilding about how different types of creatures are different.
 
+This is a companion to [[Creature Rules in Taelgar]], which contains more explicit discussion of how to integrate these metaphysics with D&D rules. 
+
+## Fundamental Supernatural Forces
+
+There are two fundamental supernatural forces in the multiverse that make Taelgar the magical place it is: soulstuff and magic. 
+
 ### Soulstuff
 The foundation of sentience on Taelgar is soulstuff, an ineffable part of the multiverse. There is no clear definition or decision on what soulstuff is, but there are some fundamental principles about it that drive worldbuilding:
 
 * Soulstuff accretes to self-aware and perceiving creatures, meaning that (with some narrow exceptions) all creatures with motives and awareness have soulstuff
-* Soulstuff has implications for how a creature behaves: a creature with "elven" soulstuff shares some traits with other elves, although this should not be treated as absolute.
+* Soulstuff has implications for how a creature behaves: a creature with "elven" soulstuff shares some traits with other elves, although this should not be treated as absolute. 
+* Soulstuff has "flavors", typically associated with some plane of existence. So "feywild" soulstuff is not directly and exactly interchangeable with "abyssal" soulstuff. 
 * Soulstuff is powerful: beings with strong soulstuff (such as PCs) can create supernatural effects from their own internal essence
 
 ### Magic
 Magic is a fundamental part of Taelgar as well, and is ultimately sourced from the [[Plane of Magic]].  What magic is is not defined, but it has some principles as well:
 
-* Magic and soulstuff are not the same thing
+* Magic and soulstuff are not the same thing, though there exact relationship is not clear (see note below)
 * Magic is impersonal - there is no "fire magic" or "elven magic" in the way that soulstuff can be associated with the Plane of Fire or the elven divinities
-* The locus of magic is the Plane of Magic, although the mechanism by which it permeates other planes is not clear
+* The locus of magic is the Plane of Magic, although the mechanism by which it permeates other planes is not clear (note: this has something to do with ley lines, see [[Ley Lines]] for some in-world speculation and some DM notes)
 
 %% Unclear: is Magic and Soulstuff in opposition? Do divinities use magic, or does soulstuff replace magic? %%
 
@@ -48,32 +55,42 @@ These are the unique species of Taelgar, the creaures with a common culture, his
 
 Each true species should have a detailed Species page, and most - but not all - are playable by PCs. In general, new true species should be discussed and new inventions here should be quite rare. 
 
-%% There is a further typology here that could be created to distinguish humans  from elder folk from fey from giants etc %%
+Species can be further divided based their metaphysics, into three broad categories: species that are gifted soulstuff from divinities; species that accrete soulstuff from their native plane; and species that lack soulstuff. 
+#### Gifted Soulstuff
+Most common playable species of Taelgar are gifted soulstuff by a Deity. This category includes humans, elves, dwarves, lizardfolk, stoneborn, halflings, and orcs. Standard in-world knowledge about cosmology and the metaphysics of souls is typically reported from the perspective of these species, and may reflect a biased or limited understanding of reality. 
 
-The following are canonically true species:
-* [[Humans]]
-* [[Dwarves]]
-* [[Elves]]
-* [[Stoneborn]]
-* [[Halflings]]
-* [[Lizardfolk]]
-* [[Orcs]]
-* [[Hobgoblins]]
+ [[Humans]], who are created directly by the Divine Presence, native to the Material Plane, and gifted soulstuff upon birth which returns to divine realms beyond the [[Land of the Dead]] upon death. 
+
+[[Dwarves]], [[Elves]], [[Stoneborn]], [[Halflings]], and [[Lizardfolk]] are referred to as the Elder Folk, and are all created by embodied gods often referred to as the firstborn of their species. These species, like humans, are gifted soulstuff upon birth which returns to the realms of their embodied creators beyond the [[Land of the Dead]] upon death. 
+
+[[Orcs]] are created by Thark, who is metaphysically similar to the firstborn of the Elder Folk, but is a creation of the Three Despairs / Void Mind. Orcs, like the Elder Folk and humans, are gifted soulstuff by Thark, which returns to Thark upon death. 
+
+*Open Questions:*
+- The term "Elder Folk" is occasionally used to refer to the non-orc children of embodied gods, but it is not clear whether this is a meta term or an in-world term. If it is an in-world term, we might consider whether it is too Tolkien-esque. 
+- What exactly are embodied gods? The only canonical thing that distinguishes them from Incorporeal gods is that their power independent of belief (so if all the elves died Aldanor and Elmerica would still exist). The naming "Embodied Gods" to me implies they might have a physical existence, e.g. be a combination of matter and soulstuff. But this is not well developed, and it might be worth considering fleshing out categories of divinity a little better. 
+- There is clearly something different about orcs that is more extreme in some way that the normal "firstborn connection" type vibe, though whether this needs a clear metaphysical explanation or can simply derive from Thark's nature is not obvious (but might impinge on what happens to Riswynn's quest). 
+
+#### Accrete Soulstuff
+
+
+
 * [[Giants]]
 * [[Dragons]]
-* [[Kenku]]
-* [[Merfolk]]
-* [[Goblins]]
-* [[Kobolds]]
-* [[Fey]]
 * [[Centaurs]]
+* [[Fey]]
+#### Lack Soulstuff
 
-The following are probably true species:
+* [[Hobgoblins]]
+#### Unknown
+
+* [[Merfolk]]
+* [[Kobolds]]
+* [[Goblins]]
+* [[Kenku]]
+#### Tentative Species
 
 * [[Gnomes]] (although they have not been used in play, and might really just be dwarves)
 * [[Ithilids]]
-
-The following may or may not be true species:
 * [[Bullywugs]] 
 * [[Dragonets]] (although relationship to dragons is unclear, and they might really be dragons or transformations of dragons, or they might be creatures, not species, with a unique and interesting population on the circular island)
 
