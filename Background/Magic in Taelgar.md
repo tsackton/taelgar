@@ -16,6 +16,9 @@ dm_owner: joint
 
 This note collects background information about magic in Taelgar, particularly as it impacts society, to aid worldbuilding. 
 
+
+See: [[Magic in Taelgar - Open Questions]] for some discussion and unresolved points. 
+
 ## A Few Basic Truths
 
 Starting with a few basic observations about the world that should be maintained. 
