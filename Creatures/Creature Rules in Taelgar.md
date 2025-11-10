@@ -1,11 +1,69 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta, status/needswork/old]
+tags: [meta, status/check/mike]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
 ---
 # Creature Rules in Taelgar
+
+This page is contains guidelines for adapting D&D rules around creatures to Taelgar metaphysics. For background on the metaphysics of creatures, see [[Metaphysics of Creatures]]. For mechanical details of species available to PCs, see [[Playable Species of Taelgar]]. 
+
+%% Mike: complete rewrite - add notes where needed %%
+
+## Categories of Creatures
+
+There are four broad categories of creatures that exist in Taelgarian metaphysics, elaborated on in more detail in [[Metaphysics of Creatures]]. They are, briefly:
+
+* **Species**: these are creatures with a unique culture and language, and continuity across the world. There might be many different human, dragon, or kenku cultures, but they share an evolution, common history, and overarching narrative. Everything in this category should have a single origin story for how it came to be and spread across the world, even though that origin story may not have been invented yet. Natives of any plane, including the Far Realms, can be species. 
+* **Creatures**: these are sentient natives of one of the many planes in the multiverse; unlike species, they are not expected to have a single unique origin story or shared history. The trolls that one adventuring party fights in the Plaguelands might be metaphysically unrelated to the trolls another party fights in the Blackwater Fens. Note there are important subsets of creatures based on plane of origin. Creatures might have pages on ecology and tendencies. 
+* **Constructs**: these are sentient creatures that are not really thinking creatures at all, but are animated by some magic which mimics sentience. They do not have souls at all and are rendered inanimate when killed, unless some magic restores them.
+* **Transformations**: these are sentient creatures that were once members of a species, or a different creature, but have been transformed, either during life or after death, into some new form. This category covers a diverse array of possible things, from undead to lycanthropes to twisted/monstrous corruptions of species into new things. The key distinction is that transformations are defined by a process of creation, such as the curse of lycanthropy or the animate dead spell, and thus fundamentally cannot have a single origin story. A transformation that arose once at a specific point in history, and now only exists as descendants of that original event, might be better classified as a species, but generally this should be avoided unless important for story reasons. 
+
+A fifth broad category, **divinities** exists, which define creatures that have accreted so much soulstuff (via their own powerful essence or a gift from elsewhere) that they have transcended any usual concept of mortality. They have various creation/origin stories, but typically each arise as unique individuals in unique circumstances, and are largely represented by notes in the `God and Religion` directory instead of the `Creatures` directory. Note that there are at least four broad categories of divinities -- High Gods, Embodied Gods, Incorporeal Gods, and "Demigods" -- which are not well defined metaphysically but not discussed further here. 
+
+## Introducing New Creatures to Taelgar
+
+Any D&D monster or playable species, or any wild idea anyone has, can potentially fit into Taelgar in some way, though not everything will. The following outlines the general questions that need to be resolved to place a creature into Taelgarian metaphysics. Any sentient being introduced to Taelgar should be considered a creature by default. 
+
+### Is It a Species?
+
+New species should be introduced cautiously, as species need to have a place in lore in a way that creatures, constructs, and transformations don't. It is easier to promote a creature to a species later than the reverse, so until there is some in-game lore generated and canonical experience with a species, it is best not to rush. An exception is if species lore and backstory is needed for development of a campaign or campaign arc (e.g., a campaign arc around attacking a mind flayer slave camp in the Underdark might require decisions about whether mind flayers are species or creatures native to the Far Realms).
+
+To introduce a species requires, minimally, a sense of their origin story and historical development, though these do not need to be extensively detailed. Some idea about their metaphysics, souls, and religion are useful as well. 
+
+#### Origin Story
+
+A central thing that makes a species a species is their unique origin story. So far, there are three relatively well developed classes of origin stories, and then two catch-all categories. Carefully consider what kind of origin story makes sense for a new species. 
+
+**Children of the Embodied Gods:** These are species that were directly created by one of the [[Embodied Gods]], a unique category of divine being endowed with a physical manifestation by the [[Divine Presence]] (though note the exact metaphysics of what determines whether something is an Embodied God vs Incorporeal God vs High God is not fully developed). Species with this origin story should have unique magical abilities granted by their connection to their divine creator. Metaphysically, this is represented by these species receiving a gift of soulstuff from their divine creators, which gives them power; upon death this soulstuff is assumed to pass into the beyond to be reclaimed and rejoin these divinities, whatever that might mean. The term "Firstborn" is often used to refer to the creator god or gods of a given species in this category. 
+
+Canonically includes:  [[Elves]], [[Dwarves]], [[Lizardfolk]], [[Halflings]], [[Stoneborn]], [[Orcs]]
+New creations in this category need compelling justification, and significant world building to integrate into existing history. New creations in this category also need to be tied to a new Embodied God. It is assumed that each Embodied God creates only a single species. 
+
+Notes: 
+- Historically species in this category have been assumed to have more fixed cultural traits than other species, and to have fixed languages that do not change over time and drift into new languages. Several of these species are canonically much more long-lived than humans, and this can introduce unusual biology. 
+- There is unlikely to be space for new inventions in this category, except potentially around new embodied gods created by the Void Mind; e.g., potentially some "evil" species could exist that was largely wiped out during the Downfall and now only has a presence in strange lands to the south, or something like that. 
+
+**Direct Creations of a High God:** These species are those that were directly and intentionally created by a High God, either the [[Divine Presence]] or the [[Void Mind]]. These species are unique in their categories and it is likely that no new invention in this category is possible. The specific details of human and hobgoblin creation stories are covered elsewhere. Humans, unlike any other known species on Taelgar, are the direct creations of the Divine Presence breathing the essence of creation, the divine spark, into material form. Metaphysically, [[Hobgoblins|hobgoblins]] are also in this category, though they are the spawn of the [[Void Mind]], acting in secret to steal and twist the power of the [[Divine Presence]]. Humans and hobgoblins both have unique metaphysics and details of their souls. 
+
+Canonically includes: [[Humans]], [[Hobgoblins]]. 
+New creations in this category are probably not possible. 
+
+Notes: 
+- In some way, the direct creation of humans is tied to the [[Divine Spark]] and a variety of concepts around [[Incorporeal Gods]], though this is not fully developed and many ideas are not fully canonical. 
+- [[Hobgoblins]] are canonically associated with anti-soulstuff or at least the absence of soulstuff.
+- See: [[Historical Framework]] and [[Historical Framework - Open Questions]] for more about humans and hobgoblins
+
+**Echoes of Ancient Powers:** These species have some origin story connected, in a vague or loose way at least, with the events prior to the [[Riving]] and with entities that existed in some form or another during the [[Primordial Cosmos]]. The origin story of these species is often poorly developed; however, there should be a strong sense of powerful magic for any species in this category, which should be reserved for species that at least potentially can be extraordinarily powerful. There are no real canonical details about the metaphysics of creatures in this category, except that typically these species should be defined by an ability to accrete very large amounts of soulstuff, but they should not receive gifted soulstuff from divine realms. 
+
+Canonically includes: [[Dragons]], [[Giants]]
+New types of giants and dragons are relatively trivial to invent. New species in this category require some thought, primarily to avoid overloading the world with too many extremely powerful creatures. 
+
+Notes:
+- There is a vibe, though not canonically developed, that these species generally don't have religion. If they do have religion, they likely worship ascended members of their own species, who 
+
+---
 
 
 %% see notes and open questions below - significant revisions to bring up to date with reality of actual play to date%%
@@ -18,23 +76,6 @@ Sentient creatures -- those that can feel and perceive subjective experiences --
 
 What distinguishes these sentient species from each other is typically a combination of the manner of their creation and the nature of their soul. 
 
-1. **Children of the Embodied Gods**. The [[Elder Folk]] -- the elves, dwarves, halflings, lizardfolk, and stoneborn -- are the creations of the [[Embodied Gods]], a unique category of divine being endowed with a physical manifestation by the [[Divine Presence]]. These five species are granted, by connection to their creator deities, unique magical abilities, and dominated much of the early history of the world, giving them a unique place in the current day. In addition to the five species listed, variants may also exist. The gnomes, for example, represent a long-sundered lineage of dwarves, and other long-lost “branches'' of the elder species may also exist. The orcs, although not counted among the [[Elder Folk]], are metaphysically in this category, as the creations of [[Thark]], an embodied god spawned not by the [[Divine Presence]], but by the machinations of the [[Void Mind]]. 
-
-	- Creation: Intentionally by [[Embodied Gods]] 
-	- Metaphysics: These species have souls imbued with power and connection by their divine creators, and upon death this soulstuff is assumed to be reclaimed and rejoin these divinities, whatever that might mean. 
-	- *Canonically includes: [[Elves]], [[Dwarves]], [[Lizardfolk]], [[Halflings]], [[Stoneborn]], [[Orcs]], [[Gnomes]].* 
-	- ***New creations in this category need compelling justification.***
-
-%% see Open Question below about the terminology "Elder Folk" %%
-
-2. **Direct Creations of the Divine Presence.** Humans, unlike any other known species on Taelgar, are the direct creations of the Divine Presence breathing the essence of creation, the divine spark, into material form. Metaphysically, [[Hobgoblins|hobgoblins]] are also in this category, though they are the spawn of the [[Void Mind]], acting in secret to steal and twist the power of the [[Divine Presence]].
-
-	- Creation: Intentionally by a [[High Gods]], either the [[Divine Presence]] or the [[Void Mind]]
-	- Metaphysics: These species have souls imbued with power by their divine creators, but the metaphysics vary by species. Humans are endowed with the [[Divine Spark]], and their souls cross the [[Land of the Dead]] after death to join the [[Divine Presence]] in some way or another. Hobgoblins are devoid of divine connection entirely; the fate of their souls upon death is unknown. 
-	- *Canonically includes: [[Humans]] and [[Hobgoblins]]*
-	- ***New creations in this category need compelling justification***
-
-%% edited to reflect how hobgoblins/goblins/bugbears have been used in game - remove goblins and bugbears and delete Goblinoids as a category %%
 
 3. **Echoes of Ancient Powers**. Once, in the ancient days before the [[Riving]], when the multiverse was young and magic was strong, great powers walked the earth, reshaping it on a whim. Though few know the ultimate fate of these powers, or whether any still live today, folklore claims that the [[Giants|giants]] and [[Dragons|dragons]] trace their origins to the [[Primordial Cosmos]] in some fashion. 
 

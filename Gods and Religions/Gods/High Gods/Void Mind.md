@@ -11,3 +11,8 @@ The Void Mind, alien and not understood, without power, without any ability to r
 
 
 
+%% note
+
+per invention around soulstuff, the void mind might be related to anti-soulstuff
+
+%%
