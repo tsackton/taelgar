@@ -2,8 +2,8 @@
 tags: [species, status/needswork/old]
 name: Humans
 aliases: [human]
-dm_owner: none
-dm_notes: important
+dm_owner: joint
+dm_notes: none
 ---
 # Humans
 
