@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/needswork/old]
+tags: [background, status/check/mike]
 dm_owner: joint
 dm_notes: none
 ---
@@ -68,9 +68,13 @@ Of all the many planes in the multiverse, the [[Feywild]] is by far the most acc
 - [[Nymphs]], fey spirits often strongly tied to a river, stream, glade, or tree, who do not travel but are sometimes are drawn to the Material Plane;
 - [[Hags]], powerful fey known for making bargains that rarely rebound to the benefit of the petitioner, often found on the outskirts of human settlements;
 
-%% might want a term for the kind of emotion - spirit fey, things like redcaps or meenlocks or boggles or similar %%
+%% might want a term for the kind of emotion-spirit fey, things like redcaps or meenlocks or boggles or similar %%
 ### The Elementals
 
+The creatures of the elemental planes are most familiar to adventurers as the conjured allies of wizards and others who summon forth beings of pure elemental energy to serve them. But legends say these elementals are just a small fraction of the many forms of creatures that inhabit the elemental planes. Many speak of tale of genies -- the djinn of air, efreeti of fire, dao of earth, and marid of water -- who build great cities on their home planes and occasionally meddle with, or give aid to, adventurers. 
 
 ## Natives of the Spiritual Realms
 
+The native inhabitants of the [[Spiritual Realms]] are unlike other creatures one might encounter. They are reflections and extensions of their home plane, more than anything, and are said to be made purely of the soulstuff of their home, given material form. As such, they cannot be killed on the Material Plane, for if they seem to die, their bodies vanish and the soulstuff of their essence returns home, to be reborn. 
+
+Though some tales tell of divine angels, sent by the gods from their [[Divine Realms]] to aid mortals, most stories of the natives of spiritual realms concern darker creatures: demons and devils. The [[Demons|demons]], natives of the [[Abyss]], are described as a corruption, an all-consuming evil that spreads from a source of infection. Abyssal incursions are among the most feared planar events. The [[Devils|devils]], natives of the [[Nine Hells]], feature in tales of hubris and fall, for they are said to often work behind the scenes, turning the weak-willed and greedy to evil purposes. 

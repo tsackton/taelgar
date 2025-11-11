@@ -44,7 +44,7 @@ Although less numerous than some other species, [[Elves|elves]], [[Stoneborn|sto
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------ |
 | [[Elves\|Elf]]        | What generation ([[Elven Cycle of Generations\|ka]]) are you from? What stage of your life are you in? Is this your first time leaving your homeland (your first *leya*)? Or have you taken another path? | [[Playing an Elf]]                           | 6                  |
 | [[Stoneborn]]         | What led you to leave the tight-knit community of your home? Do you have a particular craft or skill that is the focus of your mastery?                                                                   | [[Playing a Stoneborn\|Playing a Stoneborn]] | 4                  |
-| [[Centaurs\|Centaur]] |                                                                                                                                                                                                           | [[Playing a Centaur]]                        | 6                  |
+| [[Centaurs\|Centaur]] | If you were raised in a nomadic herd, what made you leave that deliberate, wandering lifestyle? If you were not, how was your upbringing different from most centaurs?                                    | [[Playing a Centaur]]                        | 6                  |
 | [[Kenku]]             |                                                                                                                                                                                                           | [[Playing a Kenku]]                          | 4                  |
 
 ## Fey Species
@@ -55,13 +55,13 @@ Of all the planes, the [[Feywild]] is the closest and most accessible from the [
 
 *Fairies* are far less commonly seen on the [[Material Plane]], though this may simply because they are so good at staying out of sight. Fairies are usually small, often tiny, and frequently can fly; they take on many forms and appearances, including pixies and sprites. 
 
-| Species                     | Key Question(s) | **Details**              | Starting Languages |
-| --------------------------- | --------------- | ------------------------ | ------------------ |
-| [[Satyrs\|Satyr]]           |                 | [[Playing a Satyr]]      | 4 + Sylvan         |
-| [[Changelings\|Changeling]] |                 | [[Playing a Changeling]] | 4 + Sylvan         |
-| [[Fae]]                     |                 | [[Playing a Fae]]        | 4 + Sylvan         |
-| [[Fairies\|Fairy]]          |                 | [[Playing a Fairy]]      | 4 + Sylvan         |
-| [[Beastfolk]]               |                 | [[Playing a Beastfolk]]  | 4 + Sylvan         |
+| Species                     | Key Question(s)                                                      | **Details**              | Starting Languages |
+| --------------------------- | -------------------------------------------------------------------- | ------------------------ | ------------------ |
+| [[Satyrs\|Satyr]]           | What made you leave the Feywild to adventure on the Material Plane?  | [[Playing a Satyr]]      | 4 + Sylvan         |
+| [[Changelings\|Changeling]] | What made you leave the Feywild to adventure on the Material Plane?  | [[Playing a Changeling]] | 4 + Sylvan         |
+| [[Fae]]                     | What made you leave the Feywild to adventure on the Material Plane?  | [[Playing a Fae]]        | 4 + Sylvan         |
+| [[Fairies\|Fairy]]          | What made you leave the Feywild to adventure on the Material Plane?  | [[Playing a Fairy]]      | 4 + Sylvan         |
+| [[Beastfolk]]               | What made you leave the Feywild to adventure on the Material Plane?  | [[Playing a Beastfolk]]  | 4 + Sylvan         |
 See also: [[Fey]].
 
 ## Rare Species
@@ -76,8 +76,8 @@ There are a wide range of other species that live on Taelgar and across the mult
 
 %% Gnomes could also theoretically go here if we ever develop them %%
 
-| Species             | Key Question(s)                                                                                                                                  | **Details**                 | Starting Languages             |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- | ------------------------------ |
-| Plane-touched       | Which plane touched your soul? Are you open about your plane-touched heritage? If so, how has it impacted your life? If not, how do you hide it? | [[Playing a Plane-Touched]] | 4 + the language of your plane |
-| [[Orcs\|Orc]]       |                                                                                                                                                  | [[Playing a Free Orc]]      | 4                              |
-| [[Kobolds\|Kobold]] | Most non-kobolds stereotype you as a nuisance, how do you handle that?                                                                           | [[Playing a Kobold]]        | 4                              |
+| Species             | Key Question(s)                                                                                                                                                                               | **Details**                 | Starting Languages             |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ------------------------------ |
+| Plane-touched       | Which plane touched your soul? Are you open about your plane-touched heritage? If so, how has it impacted your life? If not, how do you hide it?                                              | [[Playing a Plane-Touched]] | 4 + the language of your plane |
+| [[Orcs\|Orc]]       | How did you escape the bonds of Thark? Were you born to a community of free orcs, or did something happen to you? How do you handle the suspicion and fear you generate in most of the world? | [[Playing a Free Orc]]      | 4                              |
+| [[Kobolds\|Kobold]] | Most non-kobolds stereotype you as a nuisance, how do you handle that?                                                                                                                        | [[Playing a Kobold]]        | 4                              |
