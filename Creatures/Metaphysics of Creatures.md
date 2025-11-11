@@ -24,6 +24,7 @@ The foundation of sentience on Taelgar is soulstuff, an ineffable part of the mu
 * Soulstuff has implications for how a creature behaves: a creature with "elven" soulstuff shares some traits with other elves, although this should not be treated as absolute. 
 * Soulstuff has "flavors", typically associated with some plane of existence. So "feywild" soulstuff is not directly and exactly interchangeable with "abyssal" soulstuff. 
 * Soulstuff is powerful: beings with strong soulstuff (such as PCs) can create supernatural effects from their own internal essence
+* Soulstuff is connected is the medium by which the dead retain their essence to be brought back to life. 
 
 ### Magic
 Magic is a fundamental part of Taelgar as well, and is ultimately sourced from the [[Plane of Magic]].  What magic is is not defined, but it has some principles as well:

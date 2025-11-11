@@ -198,3 +198,14 @@ Often D&D rules use groupings of creature types to convey particular ideas. Thes
 - Though undead are metaphysically complex given the variety of ways they can arise, for various reasons it is likely best to rely on the statblock, not Taelgarian metaphysics, here. Generally anything that is a transformation of a once-living creature fits here.
 - Plants, Oozes, and Monstrosities can generally just be interpreted based on standard rules. 
 - Dragons and Giants should generally be restricted to members of the Giant or Dragon species, potentially including transformations of those species. 
+
+## Resurrection Magic
+
+Creature metaphysics has a specific impact on resurrection magic. Soulstuff is the medium by which the essence of a creature is maintained after death, so resurrection is generally only possible while the soulstuff of a creature has some independent existence. This means that creatures that do not have a soul generally cannot be resurrected, and that normally once the soulstuff of a creature has ceased to exist as a coherent entity, resurrection is no longer possible. 
+
+In D&D, this plays out as follows:
+
+- _Revivify_ can bring back any dead creature that had a soul in life, but whose soul has not faded from the Plane of Souls, which usually happens quickly after death and explains the 1 minute limitation. This includes all creatures with soulstuff, no matter the source, and generally should not work for creatures without souls. It is possible that hobgoblins could be an exception to this rule; constructs should never be able to be affected by any resurrection magic, even revivify. 
+- _Raise Dead_, _Reincarnate_, and other spells that have a 10 day limit can retrieve a soul that has left the Material Plane, but has not yet reached its final resting place, whatever that might be. For species with soulstuff gifted by divinities, this typically would represent the time of the journey across the Land of the Dead. For species that accrete soulstuff, and who presumably don't pass into the Land of the Dead (or at least not the one connected to embodied and incorporeal gods), these spells should still work, but the time limit may vary depending on the exact metaphysics of the creature in question. 
+- _Resurrection_ can bring back the soul of a dead creature that has reached its final resting place, as long as it still exists as some coherent, individual entity. In current metaphysics, this means that Resurrection only works on species whose soulstuff is gifted by divinities, as these are the only creatures who souls pass through the Land of the Dead to the Divine Realms and continue to exist in some fashion there. 
+- _True Resurrection_ or _Wish_ are 9th level spells and as such can upend the standard limits of metaphysics. These spells are the only ones even plausibly capable of resurrected a soul that has ceased to exist as a distinct entity, and even these spells may not always succeed at this. 
