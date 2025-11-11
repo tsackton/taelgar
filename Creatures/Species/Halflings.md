@@ -33,7 +33,7 @@ Halflings reach maturity in their early 20s and commonly live a little past 100;
 
 ## Settlements and Homelands
 
-Halflings claim no singular homeland. Those that settle typically do so among other species. Halfling communities can be found in dwarven cities high in the mountains, small farming villages, bustling ports, lively cities, and even the occasional lizardfolk river-town. Lively harbor taverns, bustling crossroads inns, and market‑side yards run by halfling families are commonplace in many parts of the world, for when halflings do settle, they tend to cluster where movement concentrates: at river landings, ports, crossroads, tollgates, and market environs. In many places, halfling‑kept inns act as wayhouses, mail drops, price boards, and hubs of halfling community, providing a homely welcome, information, and gossip to travelers, while also ensuring that even settled halflings remain threaded into the wider network of travel, trade, and kin.
+Halflings are wanderers, claiming no singular homeland. Those that settle typically do so among other species. Halfling communities can be found in dwarven cities high in the mountains, human farming villages, bustling ports, cosmopolitan cities, and even the occasional lizardfolk river-town. Lively harbor taverns, bustling crossroads inns, and market‑side yards run by halfling families are commonplace in many parts of the world, for when halflings do settle, they tend to cluster where movement concentrates: at river landings, ports, crossroads, tollgates, and market environs. In many places, halfling‑kept inns act as wayhouses, mail drops, price boards, and hubs of halfling community, providing a homely welcome, information, and gossip to travelers, while also ensuring that even settled halflings remain threaded into the wider network of travel, trade, and kin.
 
 Most halflings, however, simply never settle down. Whether they sail the Green Sea, traveling from port to port, or wander the roads of the Chardonian Empire, or even make great continent spanning journeys over years of travel, small communities of halflings can be found moving from place to place, rarely staying more than a season or year. Welcomed wherever they go, but driven by wanderlust to avoid putting down roots, these communities trade stories and goods for company, food, and drink. 
 
@@ -45,56 +45,30 @@ Hospitality, memory, and fair dealing define their public face. Travelers speak 
 
 ### Religion
 
-Halflings honor their firstborn creator gods, who they call the First Ones—Nwana (the Stranger and Child), Obito (the Music‑Maker and Merchant), and Jemghari (the Storyteller and Wanderer)—through songs, toasts, and shared remembrance rather than temples. Shrines are often places of good memory: a favored overlook, a quiet grove off the trade road, the hearth of a well‑kept inn. History‑bearers and story-keepers serve as the informal clergy of halfling communities, bearing and retelling the memories that bind kin together, marking beginnings and endings with prayers to remember well. In their telling, certain events, repeatedly retold by renowned story-keepers, become layered memories, recalled not only as they occurred but as they were later narrated, reinforcing group identity across distance and generations. Nonetheless, for many halflings, simply acknowledging and paying attention to their experience as they go through life is all that is needed to pay homage to their creators.
+Most halflings honor their firstborn creator gods, who they call the First Ones—Nwana (the Stranger and Child), Obito (the Music‑Maker and Merchant), and Jemghari (the Storyteller and Wanderer)—through songs, toasts, and shared remembrance rather than temples. Shrines are often places of good memory: a favored overlook, a quiet grove off the trade road, the hearth of a well‑kept inn. History‑bearers and story-keepers serve as the informal clergy of halfling communities, bearing and retelling the memories that bind kin together, marking beginnings and endings with prayers to remember well. In their telling, certain events, repeatedly retold, become layered memories, recalled not only as they occurred but as they were later narrated. Nonetheless, for many halflings, simply acknowledging and paying attention to their experience as they go through life is all that is needed to pay homage to their creators.
 
 ### The Shared Ancestral Mind
 
-Halfling identity is anchored in a shared ancestral mind—a collective memory in which individual lives contribute to a larger continuity. The ancestral mind is described as an ocean of recollection in which persons are distinct waves: unique, transient forms arising from and returning to a common whole. This outlook shapes social conduct: in significant ways, halflings see themselves not solely as individuals: they are also always part of this whole, one single family connected, even if they haven't met. Thus, one halfling can always expect to share another’s camp and companionship, halflings treat one another as extended kin even on first meeting, and they often speak of the act of meeting as also an act of remembering. 
+Halfling identity is anchored in a shared ancestral mind—a collective memory in which individual lives contribute to a larger continuity. The ancestral mind is described as an ocean of recollection in which persons are distinct waves: unique, transient forms arising from and returning to a common whole. This outlook shapes social conduct: in significant ways, halflings see themselves not solely as individuals, but also always part of this whole, one single family connected, even if they haven't met. Thus, one halfling can always expect to share another’s camp and companionship, halflings treat one another as extended kin even on first meeting, and they often speak of the act of meeting as also an act of remembering. 
 
---- edit line ---
+### Arts and Music
 
-### Professions and Values
+Stories are central to halfling religion, and to their experience and connection to their shared ancestral mind. Thus, many halflings are noted musicians, bards, and storytellers, and halflings have their own unique musical and artistic traditions. 
 
-Halflings often favor professions compatible with mobility and exchange: caravan trading, river piloting and seamanship, innkeeping, droving, chandlery, cart-making, and itinerant crafts. Music and storytelling are highly regarded skills with practical ends—wayfinding, hazard warnings, and price intelligence are embedded in songs and tales. Material wealth is treated instrumentally; most households travel light, keeping a few prized mementos of kin and road. Company discipline and mutual aid are core values: crews and caravans pool resources, rotate responsibilities, and maintain ledgers of tolls, markets, and seasonal conditions. Wanderlust is a normative life stage for youths, who spend years “on the road” or “before the mast” before taking on steadier posts or founding new freeholds.
-
-As travelers driven by wanderlust, most halflings find themselves in professions that lend themselves to this lifestyle: traders, merchants, sailors, wandering bards, and sometimes even pirates or bandits. Natural sailors, ships crewed by halflings sail to far-away ports across the ocean and return with rare trade goods and unbelievable tales. Halflings love stories, both the telling and the hearing. They have little use for material wealth, preferring not to accumulate more than they can comfortably carry with them, but will often value a few precious mementos highly. As traders and merchants they seek unusual goods, whether rare magics or beautiful art or exotic spices. They enjoy living life to its fullest no matter where they may be, and are eternal optimists even in dire times. 
-
-
-As reflected in the nature of the First Ones, much of Halfling identity is based around encounter with other. Halflings are wanderers and the traders, seeking outward-facing encounters with other communities and races and cultures. They are also storytellers and musicians, inward-facing bearers of cultural history and identity, and the keepers of the secret halfling language, not taught to outsiders.
-
-
-### Arts and music
-
-Halfling artistic traditions emphasize improvisation over monumentality. Music is often extemporized over stable patterns, reflecting a philosophy that enduring forms are best expressed through unique performances. Public recitation and song serve archival functions within the ancestral mind, while everyday ornament—carved way-marks, stitched motifs on travel gear, and painted wagon boards—privileges portability and use over permanence.
-
-
-
-
-Halflings are also noted musicians and bards and storytellers. Halfling artists and musicians, in particular, tend to embrace the notion of music as unique and improvised experience which expresses a universal form -- that the musical changes are the changes but the thing created over them is always unique -- which mirrors halfling understanding of selfhood: that each individual is both unique and, at the same time, merely an expression of an undifferentiated universal oversoul of halfling-ness. Halfling music is usually improvisational because of this, and, in Taelgar, they are the originators of jazz and related musical traditions.
-
-
-
-Halfling art and culture embraces the idea that permanent and unchanging things get expressed in unique and changing forms, that the journey, the next step, is always different, and even the same road changes with the seasons and years. They do not build much in the way of permanent structures, and their art does not seek to create artificial perfection. Instead, they see an embrace of imperfection is more reflective of life-as-it-is than something artificially made to be perfect.
-
-
-Halflings are noted musicians and bards and storytellers. Halfling artists and musicians, in particular, tend to embrace the notion of music as unique and improvised experience which expresses a universal form -- that the musical changes are the changes but the thing created over them is always unique -- which mirrors halfling understanding of selfhood: that each individual is both unique and, at the same time, merely an expression of an undifferentiated universal oversoul of halfling-ness. Halfling music is usually improvisational because of this, and, in Taelgar, they are the originators of jazz and related musical traditions.
-
-### Governance and organization
-
-
-Halfling communities lack centralized government but maintain coherence through kin networks, company charters, and the reputational economy of the ancestral mind. Freeholds at crossroads and river landings act as nodes, hosting seasonal councils where routes are updated, disputes mediated, and apprentices placed. Decisions emphasize consensus, with story-keepers recording outcomes to guide future cases. In mixed settlements, halflings integrate local statutes with their own customs by treaty or charter, preserving the right to internal adjudication while honoring the laws of host polities.
-
-Halflings travel under a patchwork of ancient charters, road compacts, and port treaties that grant rights of passage, protection of caravans and wayhouses, and limited extraterritoriality for recognized freeholds. In Sembara, longstanding accords guarantee movement and trade along royal roads; selected inns are recognized as folkland; and a halfling Royal Observer attends the Royal Council with voice but no vote on matters affecting roads and halfling rights. Disputes within the community are commonly settled by kin-council, with story-keepers recording decisions as precedent. Memory-debts and oaths sworn “to the road” are enforceable by reputation: news of oath-breaking circulates quickly through caravans and sea companies, with offenders denied hospitality or passage until amends are made.
-
+Halfling music is often improvisational, extemporized over stable patterns, reflecting a philosophy that enduring forms are best expressed through unique performances, and connecting to the halfling understanding of selfhood: each individual is both unique and, at the same time, merely an expression of a universal ancestral mind of halfling-ness. Halfling art often strives to express the idea that permanent and unchanging things are always being expressed in unique and changing forms. The journey, the next step, is always different, and even the same road changes with the seasons and years.
 
 ## Historical Perspective
+
+Halflings don’t record their history; they remember it. The tale of years is told, and told again, created and recreated by the history-tellers and story keepers of each generation, and then recalled as their memories join the ancestral awareness when they pass on from their individual lives. This living relationship to history means that years are not numbered and dated from fixed points in time. Instead, halflings refer to the song of years and the sagas of eras to mark their history. 
 
 For generations, halfling companies and crews have tied distant ports and border towns together, carrying news and trade even in hard years. In the aftermath of the Great War and the unsettled years that followed, their caravans and cogs threaded the gaps, keeping markets supplied, stories alive, and distant kin in quiet conversation. Ballads collected as the [[Halfling Shanties of the Green Sea]] describe runs from Tollen’s dyes to kenku islands and the northern frostlands for dragonhide—routes that continue in the present day. Many of the oldest crossroads inns in Sembara and the Western Gulf trace their tenure to those years when halfling networks quietly held the world together.
 
 
 %% history 
 
-Halflings don’t record their history; they remember it. The tale of years is told, and told again, created and recreated by the history-tellers and story keepers of each generation, and then recalled as their memories join the racial awareness when they pass on from their individual lives. This living relationship to history means that years are not numbered and dated from fixed points in time. Instead, halflings refer to the song of years and the sagas of eras to mark their history. However, these tellings are held close to the halfling race, and they use more standard reckoning of dates when talking with the outside world.
+
+
+However, these tellings are held close to the halfling race, and they use more standard reckoning of dates when talking with the outside world.
 
 For halflings, remembering their history and the worship of the First Ones are deeply connected. History-bearers, those who are especially deeply connected to the racial memory through long practice, tell stories of the past, and often dedicate themselves to composing a great story or song as their life’s work. These songs become the songs of years -- some spanning eras, others a single year. While few know the full song of years, the history-bearers and their connection to the racial mind are part of the fabric of halfling culture and ensure that the old stories are not forgotten.
 
@@ -134,16 +108,27 @@ However, it is hard to get away with murder when the memories of those you kill 
 
 Between the risk of a quiet dagger and the possibility of economic retribution, most human communities tend to treat halflings well, and give them legal privileges others don’t have. Rumors of places it is not safe to go spread quickly through the halfling community, and these places soon find themselves with no halfling caravans willing to bring goods to market there, or buy goods to take to market elsewhere.
 
+---
+
+Halfling communities lack centralized government but maintain coherence through kin networks, company charters, and the reputational economy of the ancestral mind. Freeholds at crossroads and river landings act as nodes, hosting seasonal councils where routes are updated, disputes mediated, and apprentices placed. Decisions emphasize consensus, with story-keepers recording outcomes to guide future cases. In mixed settlements, halflings integrate local statutes with their own customs by treaty or charter, preserving the right to internal adjudication while honoring the laws of host polities.
+
+Halflings travel under a patchwork of ancient charters, road compacts, and port treaties that grant rights of passage, protection of caravans and wayhouses, and limited extraterritoriality for recognized freeholds. In Sembara, longstanding accords guarantee movement and trade along royal roads; selected inns are recognized as folkland; and a halfling Royal Observer attends the Royal Council with voice but no vote on matters affecting roads and halfling rights. Disputes within the community are commonly settled by kin-council, with story-keepers recording decisions as precedent. Memory-debts and oaths sworn “to the road” are enforceable by reputation: news of oath-breaking circulates quickly through caravans and sea companies, with offenders denied hospitality or passage until amends are made.
+
 ### Using Halflings in Play
 - Trade networks: use halfling companies to move news, goods, and rumors across frontiers; a single family badge can recur across ports and roads.
 - Memory‑debts: hooks where a favor owed to an ancestor is repaid—or called in—at an inconvenient moment; excellent leverage for intrigue without villains.
 - Crossroads and inns: hubs for gathering parties, black‑market exchanges, and neutral‑ground parleys. Some freeholds operate outside ordinary manorial ties.
 - Sea arcs: shanties, storms, and salvage; halfling crews make fine patrons, rivals, or employers for maritime adventures.
 
+
+As travelers driven by wanderlust, many halflings find themselves in professions that lend themselves to this lifestyle: traders, merchants, sailors, wandering bards, and sometimes even pirates or bandits. Natural sailors, ships crewed by halflings sail to far-away ports and return with rare trade goods and unbelievable tales. Those who do settle often gravitate towards inns and taverns, and are frequently innkeepers. 
+
 ### Roleplaying Halflings
 - Voice and bearing: warm, quick‑witted, and observant; direct in business, expansive in hospitality.
 - Ethics: a deal kept is a reputation earned; generosity where it binds communities together; sharp memory for slights against kin or guests.
 - Table mannerisms: spontaneous songs; toasts naming absent friends; quiet mind‑to‑mind “aside” between kin before answering a hard question.
+
+Halflings love stories, both the telling and the hearing. They have little use for material wealth, preferring not to accumulate more than they can comfortably carry with them, but will often value a few precious mementos highly. As traders and merchants they seek unusual goods, whether rare magics or beautiful art or exotic spices. They enjoy living life to its fullest no matter where they may be, and are eternal optimists even in dire times. 
 
 ### Conflicts and Open Questions
 - Geographic spread in earlier eras: some notes emphasize halflings concentrated around the eastern Green Sea, while others imply wider early presence. Clarify how far west halfling sea‑lanes and caravans reached before modern times.
