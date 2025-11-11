@@ -1,5 +1,5 @@
 ---
-tags: [species, status/stub]
+tags: [species, status/needswork/old]
 name: Kenku
 aliases: [kenku]
 dm_owner: tim
