@@ -1,13 +1,76 @@
 ---
-tags: [species, status/cleanup/text]
+headerVersion: 2023.11.25
+tags: [species, status/cleanup/ai]
 name: Halflings
-aliases: [halfling, Halfling, halflings, Halflings]
-dm_owner: none
-dm_notes: color
+aliases: [halfling, halflings, Halfling]
+dm_owner: joint
+dm_notes: none
 ---
 # Halflings
 
-%% needs proofreading and double-checking %%
+On roads and riverways, and in every harbor along the [[Green Sea]], halfling caravans and crews are a familiar sight. Most folk know them as cheerful traders and tireless sailors, quick with a song or a story and quicker still to strike a fair bargain. They travel in tight‑knit family companies, keep excellent inns at busy crossroads, and have a reputation for remembering favors—and settling them—even generations later. It is common knowledge that halflings speak mind‑to‑mind, and that their storytellers carry memories older than any living person.
+## Appearance
+
+Halflings are small and sturdy, usually 3 to 3½ feet tall, with a tendency toward a healthy stoutness and curly hair. Complexion often reflects the routes they travel—sailors and coastal traders are deeply tanned; inland caravanners vary widely. Practical garb is the norm: travel‑ready coats, trousers built for long walks, and a flash of color in a cloak or scarf.
+## Language and Naming
+
+Constant travel leaves most halflings comfortable in several tongues. Silent, mind‑to‑mind speech is ordinary among them, and they will often confer quietly as a group before answering a hard question. Names usually pair a short given name with a distinctive family name; many family names echo a trade, place, or storied deed. Family companies frequently adopt a shared badge, motto, or hallmark for their wares.
+
+%%^Campaign:None%%
+DM naming guidance can mirror family-trade patterns; link to [[Playing A Species#Species Names]] when available.
+%%^End%%
+## Lifecycle
+
+Halflings mature in their early twenties and commonly live about a century; a lucky few see a bit more.
+## Settlements and Homelands
+
+Halflings claim no singular homeland. They settle among others—human towns, dwarven hill-villages, and river hamlets—and thrive on the move: wagon caravans on the great roads, cogs and caravels on the Green Sea. Crossroads inns and market‑side yards run by halfling families are commonplace; a few such freeholds are old enough to be recognized as folkland in local law.
+## Cultural Traits
+
+Hospitality, memory, and fair dealing define their public face. Travelers speak of halfling feasts and long evenings of song; merchants learn that debts of kindness may be repaid at surprising moments, and that word of treachery travels fast. Discipline aboard ship and loyalty within the company sit alongside an easy warmth with strangers who come in peace. Most halflings honor the First Ones—Nwana, Obito, and Jemghari—through simple rites, songs, and shared remembrance rather than temples. Shrines are often places of good memory: a favored overlook, a quiet grove off the trade road, the hearth of a well‑kept inn. Story‑keepers within each company serve as informal clergy, bearing and retelling the memories that bind the kin together.
+
+## Historical Perspective
+
+For generations, halfling companies and crews have tied distant ports and border towns together, carrying news and trade even in hard years. In the aftermath of the Great War, as frontiers shifted and realms rebuilt, their caravans and cogs threaded the gaps, keeping markets supplied, stories alive, and distant kin in quiet conversation. Many old crossroads inns trace their tenure to those unsettled times.
+
+%%^Campaign:None%%
+## Details for DMs
+
+### Where You’ll Find Them
+- Green Sea trade: halfling crews and factors running dyes out of [[Tollen]], calling at kenku ports like [[Wahacha]], and ranging as far as the cold reaches around [[Praznitsky]]. See songs in [[Halfling Shanties of the Green Sea]].
+- Overland routes: family caravans linking duchies and border towns; frequent presence at crossroads inns, river landings, and toll bridges.
+- Integrated communities: halfling wards in mixed towns; folkland‑status inns that predate recent charters; small enclaves in dwarven hill country.
+
+### Religion and Metaphysics
+- The [[First Ones]]—Nwana, Obito, and Jemghari—anchor halfling belief. Formal temples are rare; shrines are often places of good memory and strong feeling.
+- Halflings share an ancestral racial memory (often called the soulmind) and commonly communicate mind‑to‑mind. History‑bearers serve as keepers of story and rite. For mechanics and tone, see [[Playing a Halfing]].
+- After death, memories are said to join the great halfling consciousness rather than linger as individual souls; priests claim this is why some memories feel “shared” among kin.
+
+### Using Halflings in Play
+- Trade networks: use halfling companies to move news, goods, and rumors across frontiers; a single family badge can recur across ports and roads.
+- Memory‑debts: hooks where a favor owed to an ancestor is repaid—or called in—at an inconvenient moment; excellent leverage for intrigue without villains.
+- Crossroads and inns: hubs for gathering parties, black‑market exchanges, and neutral‑ground parleys. Some freeholds operate outside ordinary manorial ties.
+- Sea arcs: shanties, storms, and salvage; halfling crews make fine patrons, rivals, or employers for maritime adventures.
+
+### Roleplaying Halflings
+- Voice and bearing: warm, quick‑witted, and observant; direct in business, expansive in hospitality.
+- Ethics: a deal kept is a reputation earned; generosity where it binds communities together; sharp memory for slights against kin or guests.
+- Table mannerisms: spontaneous songs; toasts naming absent friends; quiet mind‑to‑mind “aside” between kin before answering a hard question.
+
+### Conflicts and Open Questions
+- Geographic spread in earlier eras: some notes emphasize halflings concentrated around the eastern Green Sea, while others imply wider early presence. Clarify how far west halfling sea‑lanes and caravans reached before modern times.
+- Trade tongues: some discussions credit halflings with shaping the spread of Common; the languages overview frames Common as a human‑derived pidgin broadly adopted by halflings. Decide whether halfling influence was formative or primarily distributive.
+
+## Metaphysics
+
+Common belief holds that the First Ones keep halfling memories in trust and that halflings can share thoughts in silence; scholars debate how, priests call it a blessing, and most people simply accept that halflings remember what matters.
+
+## Creation Story
+
+Stories say the First Ones set halflings wandering with music, trade, and tales to bind the world together. Whether a single origin or many, the details are kept within their songs and rites rather than written in foreign books.
+
+## Old Text
+
 
 The whistle of the wind in the sails, on a ship crashing through the waves far from land. The clink of coin changing hands at the market. The crackle of the campfire and the smell of bacon and tomatoes sizzling after a long day of walking. The creak of a wagon lumbering to the next village, with a cheery tune emanating from within. Halflings love these things. A nomadic people who rarely settle in one place for long, halflings come and go with the rhythm of the seasons, making money, friends, or both along the way.
 ### Small and Charming
@@ -51,7 +114,7 @@ Halflings have given names and family names, which are often derived from nickna
 
 **Family Names**: Quicktongue, Longwalker, Wetshire, Sailsinger, Crafter, Singer, Strider, Riverfoot, Undertree, Charmheart, Goodbarrel, Greenbottle, Wanderhome, Hillcobble, Tallspinner
 
-%%
+
 Halfling ship notes - not sure where else to put for now:
 Halfling ships are organized like large halfling caravans. Usually, members of the clan that owns the ship make up at least half the crew, and fill most, although often not all, the officer positions. The rest of the crew is often made up of various individuals with their own reasons for travel: children of sedentary halflings who want adventure, or land-based clans that want to experience the sea; survivors of shipwrecks and other disasters; partners of the main clan; and other idiosyncratic folks.
 
@@ -121,7 +184,4 @@ Racial consciousness connects here too, perhaps somehow they can remember the fu
 
 Halflings count the days since time began, in a long cycle that repeats.
 
-
-%%
-
-%% brainstorming notes: 
+%%^End%%
