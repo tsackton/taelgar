@@ -1,5 +1,5 @@
 ---
-tags: [status/stub, species]
+tags: [species, status/needswork/old]
 name: Humans
 aliases: [human]
 dm_owner: none

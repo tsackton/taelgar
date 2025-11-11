@@ -1,5 +1,5 @@
 ---
-tags: [species, status/stub]
+tags: [species, status/needswork/old]
 dm_owner: joint
 dm_notes: none
 ---

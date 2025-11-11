@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 aliases: [centaur, Centaur]
-tags: [species]
+tags: [species, status/needswork/old]
 dm_notes: none
 dm_owner: none
 ---

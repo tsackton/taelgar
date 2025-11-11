@@ -1,5 +1,5 @@
 ---
-tags: [species,  status/cleanup/text]
+tags: [species, status/needswork/old]
 name: Lizardfolk
 aliases: [lizardfolk]
 dm_owner: joint
