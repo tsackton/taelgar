@@ -8,6 +8,11 @@ dm_notes: none
 ---
 # Lizardfolk
 
+>[!quote] Lizardfolk saying, author unknown
+*At misty daybreak*
+*a quiet emerald swamp dreams*
+*of the setting sun*
+
 Lizardfolk dwell where water and land meet, most commonly in swamps, river basins, and tidal marshes. Their villages are well‑kept places of fish weirs and reedcraft, hidden boardwalks and raised hearths, vibrant and teeming with life. Elders guide growth so the land is never overburdened, and omens from dreams and ancestors guide important communal decisions. Though often living in isolated villages, when they settle near other species they are usually steady allies.
 
 ## Appearance
@@ -55,9 +60,50 @@ Most venerate the [[Tharzen Anzinakoa]]—the four Firstborn of the seasons: [[H
 
 After the [[The Downfall|Downfall]] reshaped coasts and rivers, many ancient wetlands shrank or shifted. The Ozabal and Latazaro are remembered as remnants of a greater marshland that once covered much of the lowlands. Through the Blood Years and later wars, lizardfolk villages tended to endure by keeping to the water‑roads, trading quietly with nearby towns, and tending their fisheries while armies marched on drier ground.
 
-%% Old Text (Haiku): At misty daybreak; a quiet emerald swamp dreams; of the setting sun. %%
 
 %%^Campaign:None%%
+## Details for DMs
+
+### Where You’ll Find Them
+- Sembaran lowlands: Villages throughout the [[Ozabal]] swamps (Enst–Wistel confluence). Lizardfolk herbalists trade in nearby markets; cf. [[People/Lizardfolk/Gentza.md|Gentza]] (Cleenseau market), her teacher [[People/Lizardfolk/Unai.md|Unai]].
+- Western Gulf and coast: Salt‑marsh communities between Tyrwingha and Western Cymea such as [[Latazaro]]; salt subspecies appear in coastal villages like [[People/Lizardfolk/Itzal.md|Eskorola]] near Hamri; roles include sea‑watchers and salvors; cf. [[People/PCs/Mawar/Trok.md|Trok]].
+- Upper Istaros and Aurbez: Marsh hamlets along the [[Aursen Marshes]]; elders sometimes represent the marshfolk to the [[Refounded Alliance of Aurbez]] (cf. [[People/Lizardfolk/Aritza.md|Aritza]]).
+- Far South jungles: The lizardfolk realm of [[Orekatu]] with settlements like [[Bedez]] near the [[Azta Lekua|Footprint of the Gods]]; shamans and prophets feature prominently (cf. [[People/Lizardfolk/Elazar.md|Elazar]], [[People/PCs/Dunmar Fellowship/Guests/Izzarak.md|Izzarak]]).
+
+### Religion and Metaphysics
+- Tharzen Anzinakoa (Firstborn/Embodied Gods) in four seasonal faces: [[Hazkunde]] (spring), [[Bero]] (summer), [[Udazkena]] (autumn), [[Negu]] (winter). Seasonal rites pace planting, fishing, nesting, and travel; dreams and omens inform village decisions.
+- Ancestor guidance is practical: auguries for timing, warnings of sickness, approvals for marriages or departures; reflected mechanically in “Omens of the Ancestors” (Augury) on [[Creatures/Mechanics/Playing a Lizardfolk.md]].
+- Epics like ''[[The Endless Currents]]'' (see [[Cosmology/Planar Concepts/Extraplanar Weak Point.md]]) depict the Tharzen weaving connective threads across the world; some communities keep “life‑trees” (cf. ohana note under [[People/PCs/Dunmar Fellowship/Kenzo.md|Kenzo]]), believed to root in the Tharzen’s realm.
+- Afterlife: spirits are gathered by the Tharzen and reborn with the rains; elders often return home to die so rebirth remains within the community waters.
+
+### Ecology, Craft, and Trade
+- Settlement engineering: fish weirs and ponds; raised boardwalks and stilted huts; nesting rafts; seasonal camps on higher hummocks for flood months.
+- Crafts: reed boats and sails, woven traps, clay gourds for ritual water, medicinal herb lore; tattoos and inks in coastal “salt” communities (cf. Trok’s practice) sometimes tied to seasonal rites.
+- Trade: fish, herbs, reeds, ferrying and guiding services; barter with nearby humans for iron tools, dye, salt, and textiles. Some villages maintain long‑standing market rights in adjacent towns.
+
+### Polity and Custom
+- Village‑first ethos under elder councils (often matriarch‑led). Elders mediate disputes, regulate births to balance carrying capacity, and sanction rites of departure/return.
+- Burial/return: those dying far from home are brought back when possible; failure to do so risks restless spirits until ancestral rites are completed.
+
+### Using Lizardfolk in Play
+- Marsh hooks: fishing rights disputes, flood‑season evacuations, smuggling through reed‑channels, rescue/salvage under storm omens, curing a marsh‑fever with an elder’s herb lore.
+- Spirit and season: an omen warns of a bad spawning cycle; a Tharzen rite must be performed at a ley‑tangled grove; a planar “thin place” (e.g., [[Azta Lekua|Footprint of the Gods]]) turns unstable.
+- Diplomatic threads: a marsh elder seeks redress for a broken market promise; ferry rights at a new bridge; arranging safe passage for refugees through the wetlands.
+
+### Roleplaying Lizardfolk
+- Voice and bearing: calm, practical, season‑metaphor speech; village‑first pragmatism; consider pauses as if “listening” for omens.
+- Ethics: balance over excess; fairness over fury; reverence for river and reed; killing is sorrowful work, not a habit.
+- Mannerisms: test water with fingertips; carry reed tokens or water gourds; mark agreements with flowing‑water blessings.
+
+### Conflicts and Open Questions
+- Subspecies: “salt” lizardfolk appear in coastal villages (e.g., Eskorola). Are there consistent physiological/cultural differences (tattoo rites, saline diet) or is “salt” a local label? Canon not fixed.
+- Adulthood and lifespan: sources describe adulthood in “late teens” versus “early 20s”; align mechanical and lore statements in species/playing pages.
+- Afterlife mechanics: some texts imply direct rebirth from ancestral spirits; others the Elder‑Folk model of gifted soulstuff returning to divine realms. Decide if rebirth is metaphor, miracle, or norm.
+- Law and treaties: several marsh communities trade under customary rights, but extent of formal charters (e.g., market days, ferry monopolies) is not fully documented outside Ozabal/Aursen examples.
+- Language: degree of dialect diversity across riverine vs. salt‑marsh vs. jungle communities is unspecified; consider whether Common vs. Eastros usage varies by region.
+- Orekatu geography: settlements (Bedez), the role of the Azta Lekua, and the scope of the realm need mapping and political detail; interaction with extraplanar weak points is fertile ground.
+- Seasonal rites and magic: tattoos/inks, herbcraft, and ohana‑trees are attested locally; clarify which are regional traditions vs. near‑universal practices.
+
 ## Metaphysics
 
 Lizardfolk are Elder Folk created by the [[Tharzen Anzinakoa]]—Embodied Gods of the seasons. As with other Elder Folk, they are gifted soulstuff from their creators. Community rites focus on dreams, omens, and ancestor guidance; the dead are gathered to the Tharzen and return as new lives in the cycle. Lizardfolk epics such as ''[[The Endless Currents]]'' speak of the Tharzen weaving threads through the Material Plane to bind the world and prevent cosmic sundering.
@@ -70,40 +116,11 @@ In lizardfolk telling, the Tharzen walked the newborn marshes and braided water 
 - Culture and mechanics: Creatures/Mechanics/Playing a Lizardfolk.md; Creatures/Playable Species of Taelgar.md
 - Embodied gods: Gods and Religions/Gods/Embodied Gods/Embodied Gods.md
 - Settlements: Gazetteer/Greater Sembara/Ozabal.md; Gazetteer/Greater Sembara/Latazaro.md; Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Aursen Marshes.md
-- Epics and cosmology: Cosmology/Planar Concepts/Extraplanar Weak Point.md (The Endless Currents)
-- General background: Creatures/Creatures of Taelgar.md; Creatures/Metaphysics of Creatures.md; Background/Languages.md
+- Far South and epics: Cosmology/Planar Concepts/Extraplanar Weak Point.md (The Endless Currents); People/Lizardfolk/Elazar.md; People/PCs/Dunmar Fellowship/Guests/Izzarak.md
+- Coastal/salt examples: People/Lizardfolk/Itzal.md; People/PCs/Mawar/Trok.md; People/Lizardfolk/Amaya.md
+- Market ties: People/Lizardfolk/Gentza.md; People/Lizardfolk/Unai.md
+- General background: Creatures/Creatures of Taelgar.md; Creatures/Metaphysics of Creatures.md; Background/Languages.md; Worldbuilding/Chats and Emails/GDrive - History of Taelgar.md
 %%^End%%
 
-## Old Text
-%%
-%% needs proofreading and double-checking %%
-
->[!quote] Lizardfolk saying, author unknown
-*At misty daybreak*
-*a quiet emerald swamp dreams*
-*of the setting sun*
-
-The quiet flash of fireflies on a summer night, the dawn song of nesting warblers, the midday croak of the bullfrog -- these speak of home to the Lizardfolk. At home between the water and the land, Lizardfolk communities tend to grow up in wild places near water, often swamps and wetlands, where they live a peaceful life of contemplation and repose. When they venture out into the world, they have a striking and often menacing appearance, but despite their reptilian looks, Lizardfolk are compassionate friends and dedicated members of their communities, of any race.
-
-### Menacing Exteriors, Peaceful Minds
-
-Lizardfolk stand an average of six feet tall with a slightly forward crouching stance, to balance a three foot long tail. They are finely scaled and have a perpetual glistening appearance, highlighting there frightening reptilian visage. If the sun catches a lizardfolk just as emerging from the water into early morning swamp mist, the arrangement of scales along their spine creates a prism effect, scattering tiny rainbows. Infants are born a translucent pale blue, with gills that disappear as limbs sprout and the scales grow over the course of a few weeks. Youths are a vibrant blue green, often with streaks of a greenish brown, or, very rarely, brilliant blue marks about the face.
-
-For the large part of their lives, though, most Lizardfolk are a variety of greens and browns. Extremely aged Lizardfolk, especially the elders, develop a uniformly light blue or light blue green coloration and don't glisten as though wet, though in moments of insight, they seem to sparkle a bit and, on very rare occasions, seem ever so slightly transparent to direct sunlight.
-
-Lizardfolk feel a deep connection to the natural world, the elements and cycles of life, and the seasons. While they are not pacifists, they will rarely provoke fights or lose control of their tempers in a violent way. They believe very strongly in the circular nature of life, and feel that unjust deeds will be met in turn, giving them a strong sense of fairness and honor. They also believe in the preciousness of life, despite their long life spans, and see hurt, pain, and suffering as necessary evils at best. Many Lizardfolk find their calling as healers in the lands of other races. Most Lizardfolk also see themselves as protectors of their homelands; while this may necessitate violence, Lizardfolk generally strive not to become comfortable with a life of killing and destruction.
-
-Lizardfolk reach adulthood in their early 20s; the first 5-8 years of their life are spent as amphibious young. Most live into their second century, but few live much beyond 200 years.
-### Devotion to Kin and Home
-
-Lizardfolk have a strong bond with their close family, and if anything an even stronger bond with the swamps, forests, and other areas they call home. They live in small communities hidden in swamps and wet forests, usually led by a elder matriarch. They believe their ancestors’ spirits echo in the living things of their home, and even Lizardfolk who have traveled far from home will make pilgrimages to return and reconnect. Lizardfolk will also return to their homeland as they approach death; Lizardfolk who die far from home often become restless spirits until they can be given a proper burial with their ancestors. Lizardfolk see themselves as the caretakers of their land, and live in a way that preserves the wild beauty they love. They are resourceful in how they nourish themselves from the land, leaving little trace of their presence beyond their small villages and dwellings.
-
->[!tip] Emphatic Healers
-
-Lizardfolk tend towards patience and empathy, which gives them a friendly outlook on most other races. They have a special affinity for humans and halflings, and Lizardfolk who leave their homes will often be found traveling in the company of Halflings or living in Human cities.
-
-Lizardfolk find the aloofness of the Elves, the tradition-bound rigid society of the Dwarves, and the chaotic nature of the Kenku hard to understand, but they strive to empathize with all living things.
-
-Through their land, Lizardfolk also maintain connections to the spirits of their ancestors, who are protected and guided by the Firstborn deities, the  Tharzen Anzinakoa, the Eldest of Elders. They venerate with prayers and rituals four aspects of the Tharzen Anzinakoa, one for each season: Negu (winter), Udazkena (autumn), Bero (summer), and Hazkunde (spring). They see the Tharzen Anzinakoa as the bridge between themselves and the Divine, as guardian spirits, as protectors of their homelands. They believe the Tharzen Anzinakoa gather to them the spirits of Lizardfolk after they die, and create new souls from these ancestral spirits whenever a new Lizardfolk is born, and thus the cycle of birth and death is completed.
 
 %%
