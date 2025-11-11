@@ -7,6 +7,8 @@ dm_notes: none
 ---
 # Metaphysics of Creatures
 
+%% true species largely rewritten; remaining sections less so %%
+
 The multiverse of Taelgar contains a diverse array of self-aware creatures. This documents some metaphysics and worldbuilding about how different types of creatures are different.
 
 This is a companion to [[Creature Rules in Taelgar]], which contains more explicit discussion of how to integrate these metaphysics with D&D rules. 
@@ -65,37 +67,58 @@ Most common playable species of Taelgar are gifted soulstuff by a Deity. This ca
 
 [[Orcs]] are created by Thark, who is metaphysically similar to the firstborn of the Elder Folk, but is a creation of the Three Despairs / Void Mind. Orcs, like the Elder Folk and humans, are gifted soulstuff by Thark, which returns to Thark upon death. 
 
-*Open Questions:*
+*Open Questions and Discussion*
 - The term "Elder Folk" is occasionally used to refer to the non-orc children of embodied gods, but it is not clear whether this is a meta term or an in-world term. If it is an in-world term, we might consider whether it is too Tolkien-esque. 
 - What exactly are embodied gods? The only canonical thing that distinguishes them from Incorporeal gods is that their power independent of belief (so if all the elves died Aldanor and Elmerica would still exist). The naming "Embodied Gods" to me implies they might have a physical existence, e.g. be a combination of matter and soulstuff. But this is not well developed, and it might be worth considering fleshing out categories of divinity a little better. 
 - There is clearly something different about orcs that is more extreme in some way that the normal "firstborn connection" type vibe, though whether this needs a clear metaphysical explanation or can simply derive from Thark's nature is not obvious (but might impinge on what happens to Riswynn's quest). 
 
 #### Accrete Soulstuff
+Some playable species, and many classic fantasy species, especially those who can potentially reach vast heights of power, do not receive soulstuff from divinities, but instead accrete it as it typical for non-species creatures. 
 
+[[Giants]] and [[Dragons]] are natives of the Material Plane, but their origin stories are connected in some as-yet-to-be-decided way to the [[Primordial Cosmos]] and the pre-[[Riving]] history of the world. Both of these species have the ability to accrete very large quantities of soulstuff, and potentially accrete soulstuff from more than one plane. If giants or dragons worship deities, they almost certainly worship what would metaphysically be something like demigods of their species who accreted sufficient soulstuff to trancend normal mortality. 
 
+[[Fae]] and [[Fairies]] are the native species of the Feywild, collectively referred to as [[Fey]]. These species do not have a clear origin story, but canonically accrete Feywild soulstuff, and likely have no deities. Archfey might function something like divinities metaphysically, but not culturally, though exactly what archfey are remains an open question. 
 
-* [[Giants]]
-* [[Dragons]]
-* [[Centaurs]]
-* [[Fey]]
+[[Centaurs]] are native to the Material Plane; their origin myths speak of their close connection to the Material Plane. They do not worship gods, except the Material Plane itself as a kind of embodiment of divinity and creation. 
+
+*Open Questions and Discussion:*
+- Dragons and giants share the properties of coming in different "flavors", often elemental-associated and having the potential to be very powerful. One possible in-world explanation for this is that these species, as they were created before the Riving, maintain some ability to accrete soulstuff from more than one plane. So a red dragon has both material plane soulstuff and plane of fire soulstuff, for example. This could potentially be a common property of both creatures and species that have some pre-Riving connection, though it seems unlikely there would be other species worth introducing that have this property (but might work for other high-CR monstrosities). 
+- [[Fae]] is not a great name for the non-fairy species native to the Feywild, as it is better to reserve Fey for the general creature type, including both species and non-species creatures native to the Feywild. Fairies are also not necessarily the best name. There also might need to be a name for [[Fae]] + [[Fairies]] that isn't [[Fey]], if [[Fey]] includes non-species creatures as well. 
+- The Fey species could potentially use an origin story, although this is likely tied up in how the Feywild was created, which is probably but not definitely as part of the Riving. 
+- [[Centaurs]] have a clear mythology and vibe about their origin as the first species of the Material Plane that claims they were the "children of Taelgar" in some sense. This seems clearly to link them directly to soulstuff of the Material Plane, but needs a little thought for the metaphysics of how they came to exist. Early invention had them as originating as children of the archfey, but this depends on a no-longer-relevant conception of the [[Primordial Cosmos]] as being inhabited by archfey who created many things. 
+
 #### Lack Soulstuff
+Only a small number of species in Taelgar truly lack soulstuff. Besides hobgoblins, only constructs and natives of the Far Realm are likely to be in the category, and constructs are generally not expected to be species. 
 
-* [[Hobgoblins]]
+[[Hobgoblins]] are the creations of the [[Void Mind]], created to lack or perhaps even repel soulstuff. They do not worship gods, and do not accrete soulstuff despite being sapient. 
+
 #### Unknown
+These species are canonically species, but their metaphysics are unclear for various reasons. 
 
-* [[Merfolk]]
-* [[Kobolds]]
-* [[Goblins]]
-* [[Kenku]]
+[[Merfolk]] were created by the [[Sentient Ocean]], which is a native inhabitant of a Far Realm, which it fled. However, they were created on Taelgar. This is probably compatible with either "Lack Soulstuff" or "Accrete Soulstuff" depending on the exact details of this story. 
+
+[[Kobolds]] have no invention at all around their creation story or metaphysics, except that is presumably has something to do with dragons. Either "Accrete Soulstuff" or "Gifted Soulstuff" are possible, although the former is more likely. The latter likely requires that kobolds are the creation of some ancient draconic entities that accreted so much power as to become gods themselves. 
+
+[[Kenku]] were canonically created by, more or less, a time paradox that involved [[Aerin]] traveling to the [[Primordial Cosmos]] and becoming the "Kenku firstborn." This could plausibly mean Kenku are gifted soulstuff by Aerin in some manner, or could mean that Kenku accrete soulstuff. The latter seems more likely, but this is not determined canonically. 
+
+[[Goblins]] have no invention at all around their creation story or metaphysics and really any answer is plausible here. 
+
+*Open Questions and Discussion:*
+- Goblinoids no longer exist as a category, yet hobgoblins and goblins share very similar names. It feels like there should be some in-world explanation for this, although what that is is not yet clear to me. It is also possible that there is a real connection, yet to be invented, between goblins and hobgoblins in the goblin creation story. 
 #### Tentative Species
+These are creatures that either definitely exist in game, but might not be species; or creatures that are definitely species but might not exist in game. 
 
-* [[Gnomes]] (although they have not been used in play, and might really just be dwarves)
-* [[Ithilids]]
-* [[Bullywugs]] 
-* [[Dragonets]] (although relationship to dragons is unclear, and they might really be dragons or transformations of dragons, or they might be creatures, not species, with a unique and interesting population on the circular island)
+[[Gnomes]] are a longstanding invention, arising from the sundering of the dwarves pre-Downfall, but have never come up in play, even in rumor, and so don't canonically need to exist. If they do exist, though, it seems most likely they would be considered a separate species that arose via a transformation of the dwarves; but potentially these could metaphysically just be dwarves, with a different statblock. 
 
+[[Ithilids]] definitely exist, but whether they are species or not is unclear. Most likely they are, as there are a variety of threads of invention around ithilids as one of the major forces in the depths below attacking dwarves, but conceivably they could be repeat invaders from some Far Realm where the creatures are just like this. 
 
-There are likely one or more true species amongst the elemental planes (i.e. [[Djinn]], [[Marid]], [[Efreeti]], [[Dao]], [[Azer]] and others).
+[[Aboleths]] definitely exist, and might be considered species. They have a very different Far Realms vibe than ithilids and are likely from a different place, but they are rare on the Material Plane and so might also be better represented as occasional invaders and not really species. 
+
+[[Bullywugs]] canonically exist, and have villages and language, but they have no canonically history. It is equally plausible that they are a 'nuisance species', like kobodls and goblins, who typically live at the margins of other species territories, or they are creatures that arise in various ways, more like manticores than kobolds. I lean towards species (three nuisance species -- kobolds, goblins, and bullwugs -- seems like a good number), but this is undeveloped for the moment. 
+
+[[Dragonets]] canonically exist, and have a history tied to Drankor and possibly Hkar and a symbiotic relationship with humans. Whether they should be treated as a species, or as intelligent creatures with a unique and interesting population on the circular island is deeply unclear. The relationship between dragonets and dragons is also somewhat unclear. 
+
+[[Djinn]], [[Marid]], [[Efreeti]], [[Dao]], and [[Azer]] all canonically exist as natives of the Elemental Planes, and other natives of the Elemental Planes likely exist as well that have not yet been developed. However, there is no invention at all around species on the Elemental Planes, and white it is likely that some or all of these best fit as species, it is at least plausible that some or all of them are better considered creatures who are personifications of their planes. 
 
 ### Creatures of the Inner Planes
 
@@ -107,7 +130,7 @@ Creatures native to the spiritual realms are made of pure soulstuff, manifesting
 
 ### Creatures of the Far Realms
 
-Visitors from one of the many Far Realms, conceptually places that are outside the multiverse of Taelgar. These creatures - as they arise from outside the multiverse - lack Taelgarian soulstuff. These creatures have diverse metaphysical reality but have no soul to restore after death. Note that some Far Realms creatures may be species, if they have established a lasting presence in the multiverse. 
+Visitors from one of the many Far Realms, conceptually places that are outside the multiverse of Taelgar. These creatures - as they arise from outside the multiverse - lack Taelgarian soulstuff. These creatures have diverse metaphysical reality but have no soul to restore after death. Note that some Far Realms creatures may be considered species, if they have established a lasting presence in the multiverse. 
 
 ### Constructs
 
@@ -119,4 +142,8 @@ Many creatures are transformations of something else. This is a large category t
 
 ### Divinities
 
-Divinities are unique creatures that have accreted enough soulstuff (via their own powerful essence or gift from elsewhere) that they have transcended the usual mortality. There is a wide range of power levels and metaphysics of divinities on Taelgar, but they all share the same fundamental basis, a being of powerfully concentrated soulstuff. 
+Divinities are unique creatures that have accreted enough soulstuff (via their own powerful essence or gift from elsewhere) that they have transcended the usual mortality. There is a wide range of power levels and metaphysics of divinities on Taelgar that needs further invention. 
+
+While the most obvious category of divinity are the deities associated with worship, this is not the only kind of divinity. In particular, it is worth considering whether a creature that has a name and a unique history, and is intended to be functionally immortal, might be better described as a divinity. Humans who transcended normal mortality, such as Beryl and Bhishma, are also examples of divinities. 
+
+The fundamental defining feature of a divinity, though, is that it is singular. There is no "species" of deities, or archfey, or demon lords, or whatever. Each is a singular entity with its own creation story, albeit one potentially tied to a pantheon or group of similar entities. 
