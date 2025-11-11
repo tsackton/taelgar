@@ -1,5 +1,5 @@
 ---
-tags: [species, status/needswork/wip]
+tags: [species, status/needswork/old]
 dm_owner: tim
 dm_notes: important
 ---

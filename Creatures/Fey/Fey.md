@@ -1,5 +1,5 @@
 ---
-tags: [species, status/cleanup/text, status/needswork/old]
+tags: [species, status/needswork/old]
 dm_owner: joint
 dm_notes: important
 ---
