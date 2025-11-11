@@ -1,28 +1,34 @@
 ---
+headerVersion: 2023.11.25
 tags: [species, status/cleanup/ai]
 name: Lizardfolk
 aliases: [lizardfolk]
 dm_owner: joint
-dm_notes: important
+dm_notes: none
 ---
 # Lizardfolk
-Lizardfolk dwell where water and land braid together: swamps, river basins, and tidal marshes. Their villages are quiet, well‑kept places of fish weirs and reedcraft, hidden boardwalks and raised hearths. Elders guide growth so the land is never overburdened, and omens from dreams and ancestors mark when it is time to plant, to hunt, or to move the nesting rafts. They are steady allies to nearby towns, ferrying news and fish to market, trading herbs and reedwork for iron, dye, or salt.
 
-%% Old Text (Vibe): The quiet flash of fireflies on a summer night, the dawn song of nesting warblers, the midday croak of the bullfrog -- these speak of home to the Lizardfolk. At home between the water and the land, Lizardfolk communities tend to grow up in wild places near water, often swamps and wetlands, where they live a peaceful life of contemplation and repose. When they venture out into the world, they have a striking and often menacing appearance, but despite their reptilian looks, Lizardfolk are compassionate friends and dedicated members of their communities, of any race. %%
+Lizardfolk dwell where water and land meet, most commonly in swamps, river basins, and tidal marshes. Their villages are well‑kept places of fish weirs and reedcraft, hidden boardwalks and raised hearths, vibrant and teeming with life. Elders guide growth so the land is never overburdened, and omens from dreams and ancestors guide important communal decisions. Though often living in isolated villages, when they settle near other species they are usually steady allies.
 
 ## Appearance
 
-Most stand near six feet with a forward‑canted stance balanced by a heavy tail. Scales glisten when fresh from the water; in mist and early sun the spine can cast prismatic rainbows. Hatchlings emerge pale and translucent with gills, taking on limbs and scales within weeks; youths wear vibrant blue‑greens with streaks of muddy green or, rarely, brilliant facial blues. Elders often fade to light blue‑green and lose the wet sheen; in moments of deep insight some seem to sparkle, even grow faintly translucent in direct sun.
+Lizardfolk are humanoid reptiles: upright, bipedal, hairless, with distinctly reptilian heads, and powerfully built, averaging about six feet tall with a slightly forward-canted posture, especially among those with particularly large tails. Their hides are close-fitting scales rather than skin; when fresh from water, they glisten and can throw tiny prismatic rainbows in mist and early sun.
 
-%% Old Text (Appearance 1): Lizardfolk stand an average of six feet tall with a slightly forward crouching stance, to balance a three foot long tail. They are finely scaled and have a perpetual glistening appearance, highlighting there frightening reptilian visage. If the sun catches a lizardfolk just as emerging from the water into early morning swamp mist, the arrangement of scales along their spine creates a prism effect, scattering tiny rainbows. Infants are born a translucent pale blue, with gills that disappear as limbs sprout and the scales grow over the course of a few weeks. Youths are a vibrant blue green, often with streaks of a greenish brown, or, very rarely, brilliant blue marks about the face. %%
-%% Old Text (Appearance 2): For the large part of their lives, though, most Lizardfolk are a variety of greens and browns. Extremely aged Lizardfolk, especially the elders, develop a uniformly light blue or light blue green coloration and don't glisten as though wet, though in moments of insight, they seem to sparkle a bit and, on very rare occasions, seem ever so slightly transparent to direct sunlight. %%
+Lizardfolk coloration varies widely, though generally juveniles and adults are more likely to be brightly colored than elders, whose scales often fade to light blue-greens or other pastel colors, and lose the wet sheen. In moments of deep focus elders may seem to sparkle, and very rarely appear faintly translucent under direct sunlight.
 
 ## Language and Naming
 
-Lizardfolk speak their own tongue and trade easily in Common along the river routes. Names are usually a single given name, often chosen to honor a favored ancestor, with a home‑place or descriptor appended when needed abroad. Names tend not to repeat within a generation, but echo across eras as the elders remember.
+Lizardfolk speak their own tongue, Lizardling, but also speak easily in trade pidgins when they settle near other species, and often learn the languages of their neighbors as well. 
 
-%% Old Text (Names): Lizardfolk names are often passed down among families, and usually have some meaning in family lore or history. Clan names are not used; when traveling outside their homeland, they will often adopt the name of the home as a clan name when needed, however. Male Names: Arran, Aitor, Arzhider, Benat, Eneko, Ganiz, Ilari, Itzal, Mattin, Samso, Zorion, Zuzen. Female Names: Alasne, Amaya, Arrosa, Elixane, Iara, Irati, Joska, Leire, Maialen, Naiara, Nerea, Ximenia, Xuxa. %%
+Lizardfolk names are usually a single given name, often chosen to honor a favored ancestor, though names tend not to repeat within a generation. Names are often passed down in families, and frequently, but not always, have some meaning. Lizardfolk will add home‑place or descriptor when needed abroad, but tend not to use family names in their home communities. 
 
+%%^Campaign:None%%
+Lizardfolk names have often tended towards using an unusual language like Basque, to give them a distinctive feeling compared to human names, but this is not completely fixed and lizardfolk often work well for a kind of default 'fantasy' name unconnected to human languages. 
+
+Generally, though, should avoid names that feel clearly linked to real Indo-European languages, and particularly to Tokien-style Elvish or Dwarvish. 
+
+See more: [[Playing a Lizardfolk#Lizardfolk Names|Lizardfolk Names]]
+%%^End%%
 ## Lifecycle
 
 Egg‑hatchlings spend 5–8 years amphibious in shallows and reed huts, then shed gills as scales thicken and limbs strengthen. Adulthood comes in the late teens to early twenties; most live well into their second century, with a few elders passing two hundred winters.
@@ -100,9 +106,4 @@ Lizardfolk find the aloofness of the Elves, the tradition-bound rigid society of
 
 Through their land, Lizardfolk also maintain connections to the spirits of their ancestors, who are protected and guided by the Firstborn deities, the  Tharzen Anzinakoa, the Eldest of Elders. They venerate with prayers and rituals four aspects of the Tharzen Anzinakoa, one for each season: Negu (winter), Udazkena (autumn), Bero (summer), and Hazkunde (spring). They see the Tharzen Anzinakoa as the bridge between themselves and the Divine, as guardian spirits, as protectors of their homelands. They believe the Tharzen Anzinakoa gather to them the spirits of Lizardfolk after they die, and create new souls from these ancestral spirits whenever a new Lizardfolk is born, and thus the cycle of birth and death is completed.
 
-## Lizardfolk Names
-
-Lizardfolk names are often passed down among families, and usually have some meaning in family lore or history. Clan names are not used; when traveling outside their homeland, they will often adopt the name of the home as a clan name when needed, however.  
-**Male Names:** Arran, Aitor, Arzhider, Benat, Eneko, Ganiz, Ilari, Itzal, Mattin, Samso, Zorion, Zuzen  
-**Female Names:** Alasne, Amaya, Arrosa, Elixane, Iara, Irati, Joska, Leire, Maialen, Naiara, Nerea, Ximenia, Xuxa
 %%
