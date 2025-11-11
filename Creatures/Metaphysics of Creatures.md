@@ -1,13 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/tim]
+tags: [background]
 excludePublish: ["all"]
 dm_owner: joint
 dm_notes: none
 ---
 # Metaphysics of Creatures
-
-%% Tim: added a few open questions and minor edits. Edits flagged with notes %%
 
 The multiverse of Taelgar contains a diverse array of self-aware creatures. This documents some metaphysics and worldbuilding about how different types of creatures are different.
 
@@ -19,7 +17,7 @@ There are two fundamental supernatural forces in the multiverse that make Taelga
 
 ### Soulstuff
 The foundation of sentience on Taelgar is [[Soulstuff]], an ineffable part of the multiverse. There is no clear definition or decision on what soulstuff is, but there are some fundamental principles about it that drive worldbuilding:
-%% minor clarifications %%
+
 * Soulstuff accretes to self-aware and perceiving creatures, meaning that (with some narrow exceptions) all creatures with motives and awareness have soulstuff
 * Soulstuff has "flavors", typically associated with some plane of existence or a divinity. So "feywild" or "elven" soulstuff is not directly and exactly interchangeable with "abyssal" or "orcish" soulstuff. This can, but won't always, drive cultural traits and similarities.
 * Soulstuff is powerful: beings with strong soulstuff (high CR monsters, PCs, divinities) can create supernatural effects from their own internal essence
@@ -35,7 +33,7 @@ Magic is a fundamental part of Taelgar as well, and is ultimately sourced from t
 ## Creatures
 
 With this background, self-aware creatures can broadly be divided into seven categories:
-%% Tim: removed conversation about life after death here; it is covered elsewhere %%
+
 * True species: these are creatures with a unique culture and language, and continuity across the world. There might be many different human, dragon, or kenku cultures, but they share an evolution, common history, and overarching narrative. Everything in this category should have the potential for a story for how it came to be. 
 - Creatures of the inner planes: creatures of matter and magic in some proportion that are sentient and accrete soulstuff over their lifetime because of this sentience
 - Creatures of the outer planes: creatures of pure soulstuff, manifesting a body via the magic of their soulstuff. These creatures cannot be killed except on their native planes 
@@ -70,6 +68,7 @@ Most common playable species of Taelgar are gifted soulstuff by a Deity. This ca
 - What exactly are embodied gods? The only canonical thing that distinguishes them from Incorporeal gods is that their power independent of belief (so if all the elves died Aldanor and Elmerica would still exist). The naming "Embodied Gods" to me implies they might have a physical existence, e.g. be a combination of matter and soulstuff. But this is not well developed, and it might be worth considering fleshing out categories of divinity a little better. 
 - There is clearly something different about orcs that is more extreme in some way that the normal "firstborn connection" type vibe, though whether this needs a clear metaphysical explanation or can simply derive from Thark's nature is not obvious (but might impinge on what happens to Riswynn's quest). 
 - Are humans gifted soulstuff by a divinity? If so, how does one change religion? If not, do humans acquire soulstuff from the Divine Presence and/or the Plane of Creation directly? Or through the mediation of a divinity? How is this related to the [[Divine Spark]]? 
+- Note that the nature of the "gift of soulstuff" has to be flexible enough to allow Dewalth (elf who channels soulstuff from human gods) metaphysically possible. 
 
 #### Accrete Soulstuff
 Some playable species, and many classic fantasy species, especially those who can potentially reach vast heights of power, do not receive soulstuff from divinities, but instead accrete it as it typical for non-species creatures. 
@@ -140,6 +139,8 @@ Some creatures are animated and given a facsimile of sentience via magic. These 
 Many creatures are transformations of something else. This is a large category that includes a diverse array of curses, corruptions, and more benign transformations. Undead and lycanthropes are classic examples of transformations, but this category can also include things like supernatural corruption (medusas, gnolls) or magical experimentation (slave creatures created by mind flayers to serve them).
 
 ### Divinities
+
+*See [[Divinities and Powers - Discussion]] for some discussion of this concept.*
 
 Divinities are unique creatures that have accreted enough soulstuff (via their own powerful essence or gift from elsewhere) that they have transcended the usual mortality. There is a wide range of power levels and metaphysics of divinities on Taelgar that needs further invention. 
 
