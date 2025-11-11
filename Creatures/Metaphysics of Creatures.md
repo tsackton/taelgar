@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/mike]
+tags: [background, status/check/tim]
 excludePublish: ["all"]
 dm_owner: joint
 dm_notes: none
 ---
 # Metaphysics of Creatures
 
-%% true species largely rewritten; remaining sections less so %%
+%% Tim: added a few open questions and minor edits. Edits flagged with notes %%
 
 The multiverse of Taelgar contains a diverse array of self-aware creatures. This documents some metaphysics and worldbuilding about how different types of creatures are different.
 
@@ -18,14 +18,12 @@ This is a companion to [[Creature Rules in Taelgar]], which contains more explic
 There are two fundamental supernatural forces in the multiverse that make Taelgar the magical place it is: soulstuff and magic. 
 
 ### Soulstuff
-The foundation of sentience on Taelgar is soulstuff, an ineffable part of the multiverse. There is no clear definition or decision on what soulstuff is, but there are some fundamental principles about it that drive worldbuilding:
-
+The foundation of sentience on Taelgar is [[Soulstuff]], an ineffable part of the multiverse. There is no clear definition or decision on what soulstuff is, but there are some fundamental principles about it that drive worldbuilding:
+%% minor clarifications %%
 * Soulstuff accretes to self-aware and perceiving creatures, meaning that (with some narrow exceptions) all creatures with motives and awareness have soulstuff
-* Soulstuff has implications for how a creature behaves: a creature with "elven" soulstuff shares some traits with other elves, although this should not be treated as absolute. 
-* Soulstuff has "flavors", typically associated with some plane of existence. So "feywild" soulstuff is not directly and exactly interchangeable with "abyssal" soulstuff. 
-* Soulstuff is powerful: beings with strong soulstuff (such as PCs) can create supernatural effects from their own internal essence
+* Soulstuff has "flavors", typically associated with some plane of existence or a divinity. So "feywild" or "elven" soulstuff is not directly and exactly interchangeable with "abyssal" or "orcish" soulstuff. This can, but won't always, drive cultural traits and similarities.
+* Soulstuff is powerful: beings with strong soulstuff (high CR monsters, PCs, divinities) can create supernatural effects from their own internal essence
 * Soulstuff is connected is the medium by which the dead retain their essence to be brought back to life. 
-
 ### Magic
 Magic is a fundamental part of Taelgar as well, and is ultimately sourced from the [[Plane of Magic]].  What magic is is not defined, but it has some principles as well:
 
@@ -34,16 +32,15 @@ Magic is a fundamental part of Taelgar as well, and is ultimately sourced from t
 * The locus of magic is the Plane of Magic, although the mechanism by which it permeates other planes is not clear (note: this has something to do with ley lines, see [[Ley Lines]] for some in-world speculation and some DM notes)
 
 %% Unclear: is Magic and Soulstuff in opposition? Do divinities use magic, or does soulstuff replace magic? %%
-
 ## Creatures
 
 With this background, self-aware creatures can broadly be divided into seven categories:
-
+%% Tim: removed conversation about life after death here; it is covered elsewhere %%
 * True species: these are creatures with a unique culture and language, and continuity across the world. There might be many different human, dragon, or kenku cultures, but they share an evolution, common history, and overarching narrative. Everything in this category should have the potential for a story for how it came to be. 
-- Creatures of the inner planes: creatures of matter and magic in some proportion that are sentient and accrete soulstuff over their lifetime because of this sentience, which rapidly disperses when they die.
+- Creatures of the inner planes: creatures of matter and magic in some proportion that are sentient and accrete soulstuff over their lifetime because of this sentience
 - Creatures of the outer planes: creatures of pure soulstuff, manifesting a body via the magic of their soulstuff. These creatures cannot be killed except on their native planes 
-- Creatures of the Far Realms: visitors from the Far Realms, who lack Taelgarian soulstuff. These creatures have diverse metaphysical reality but have no soul to restore after death. Note that some Far Realms creatures may be true species.
-- Constructs: creatures that are not really thinking creatures at all, but are animated by some magic which mimics sentience. They do not have souls at all and are rendered inanimate when killed, unless some magic restores them.
+- Creatures of the Far Realms: visitors from the Far Realms, who lack Taelgarian soulstuff. These creatures have diverse metaphysical reality, and some Far Realms creatures may be best treated as true species.
+- Constructs: creatures that are not really thinking creatures at all, but are animated by some magic which mimics sentience. They do not have souls at all
 - Transformations: creatures corrupted or transformed during life or after death into a new form. 
 - Divinities: creature that have accreted enough soulstuff (via their own powerful essence or gift from elsewhere) that they have transcended the usual mortality 
 
@@ -72,6 +69,7 @@ Most common playable species of Taelgar are gifted soulstuff by a Deity. This ca
 - The term "Elder Folk" is occasionally used to refer to the non-orc children of embodied gods, but it is not clear whether this is a meta term or an in-world term. If it is an in-world term, we might consider whether it is too Tolkien-esque. 
 - What exactly are embodied gods? The only canonical thing that distinguishes them from Incorporeal gods is that their power independent of belief (so if all the elves died Aldanor and Elmerica would still exist). The naming "Embodied Gods" to me implies they might have a physical existence, e.g. be a combination of matter and soulstuff. But this is not well developed, and it might be worth considering fleshing out categories of divinity a little better. 
 - There is clearly something different about orcs that is more extreme in some way that the normal "firstborn connection" type vibe, though whether this needs a clear metaphysical explanation or can simply derive from Thark's nature is not obvious (but might impinge on what happens to Riswynn's quest). 
+- Are humans gifted soulstuff by a divinity? If so, how does one change religion? If not, do humans acquire soulstuff from the Divine Presence and/or the Plane of Creation directly? Or through the mediation of a divinity? How is this related to the [[Divine Spark]]? 
 
 #### Accrete Soulstuff
 Some playable species, and many classic fantasy species, especially those who can potentially reach vast heights of power, do not receive soulstuff from divinities, but instead accrete it as it typical for non-species creatures. 

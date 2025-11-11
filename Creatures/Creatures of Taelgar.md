@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/mike]
+tags: [background]
 dm_owner: joint
 dm_notes: none
 ---
@@ -19,7 +19,7 @@ Eight species make up the vast majority of adventurers in the world, and while t
 - [[Humans]], the most numerous species on Taelgar, who live in all corners of the world have created diverse cultures, religions, and language;
 - [[Dwarves]], a stout and hardy people created by the [[Bahrazel|Bahrâzel]] and carving mighty kingdoms out of stone among and beneath the great mountains of the world;
 - [[Elves]], a graceful and elegant people created by [[Elmerca]], the Wild Star, and [[Aldanor]], the living tree, who once maintained vast kingdoms beneath magical trees, but now are rarely seen;
-- [[Halflings]], a nimble, diminuitive people created by the [[First Ones]]; storytellers, travelers, merchants, and traders; who wander the world in caravans and ships making friends and leaving stories wherever they go; 
+- [[Halflings]], a nimble, diminutive people created by the [[First Ones]]; storytellers, travelers, merchants, and traders; who wander the world in caravans and ships making friends and leaving stories wherever they go; 
 - [[Lizardfolk]], a species of humanoid reptiles, created by the [[Tharzen Anzinakoa]], who tend their wetlands homes under the guidance of elders and ancestors;
 - [[Stoneborn]], created by [[Entamba]] who they call the living mountain, who take on the appearance of the stones of their mountain homes, settling in inhospitable heights;
 - [[Kenku]], the flying bird people sometimes seen soaring above the cities of the northern Green Sea; who live in reclusive aeries in the northern Green Sea, keeping their secret history to themselves;
@@ -44,7 +44,7 @@ Two species are feared and respected in equal measure, often seen as relics of a
 
 A wide range of other creatures make a home on the Material Plane. Many of these are simply mundane beasts, with no supernatural connections or magical powers, who make up the diverse ecosystems across the world. Others are more monstrous and dangerous; and stories even hint of strange species in the far reaches of the world. 
 
-Though on well patrolled roads in the heartlands of the realms of humans and other species a traveler is not likely to encounter great danger, things are different in the wilds on the edges of civilization. Sailors from [[Apporia]] and the [[Mawar Confederacy]] tell tales of merfolk who live beneath the waves; while dwarves from [[Nardith]] speak about the brain-eating alien mind flayers that hide deep underground and destroyed their ancestral kingdom in the [[Sentinel Range|Sentinels]]. Wanderers who venture beyond the safety of protected realms speak of monstrous trolls, who regenerate if wounded; taunting manticores, flying lions with human faces who crave the taste of human flesh;  terrifying basilisks, lizards that turn the unwary to stone with their gaze; carrion crawlers, segmented giant worms that feast on corpses in the depths; and many more dangers. 
+Though on well patrolled roads in the heartlands of the realms of humans and other species a traveler is not likely to encounter great danger, things are different in the wilds on the edges of civilization. Sailors from [[Apporia]] and the [[Mawar Confederacy]] tell tales of [[Merfolk|merfolk]] who live beneath the waves; while dwarves from [[Nardith]] speak about the brain-eating alien [[Ithilids|mind flayers]] that hide deep underground and destroyed their ancestral kingdom in the [[Sentinel Range|Sentinels]]. Wanderers who venture beyond the safety of protected realms speak of monstrous trolls, who regenerate if wounded; taunting manticores, flying lions with human faces who crave the taste of human flesh;  terrifying basilisks, lizards that turn the unwary to stone with their gaze; carrion crawlers, segmented giant worms that feast on corpses in the depths; and many more dangers. 
 
 More terrifying than these strange monstrosities and oddities are the curses and transformations that turn ordinary, or sometimes not so ordinary, people into monsters and terrors. The [[undead]], creatures risen from peaceful dead to haunt and harry the living, feature in many woeful tale. And [[Lycanthropes]], cursed with the madness of [[Jinnik]] to transform into vicious beasts against their will, are rarely seen but often feared. 
 
@@ -55,7 +55,6 @@ Perhaps strangest of all are those creatures that seem to mimic sentience with m
 ## Creatures of Other Planes
 
 Few travelers and adventurers make their way across the diverse realms of the multiverse, and reports of the creatures of other planes in their native habitats are nearly non-existent. But none would doubt that many denizens of the other planes make their way to the Material Plane, for diverse purposes. 
-
 ### The Fey
 
 Of all the many planes in the multiverse, the [[Feywild]] is by far the most accessible from, and connected to, the material world. Travelers cross into, and out of, the Feywild at portals scattered around Taelgar, and visitors from the Feywild are, if not a common sight, relatively unsurprising. The creatures that inhabit the Feywild, collectively called the [[Fey]], are diverse, magical, and strange, defying easy classification, but are often thought to include:
