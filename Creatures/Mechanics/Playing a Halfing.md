@@ -76,27 +76,11 @@ Halflings are generally small, quick, charming and adaptable wanderers. You may 
 **Game Mechanics**: well developed, used for Wellby plus minor characters (NPCs like Tilly and PCs like Yvan and Finnan); probably does not need any revisions
 
 **Notes:**
-- [ ] [[Halflings]]: overview page, likely needs an update to better capture vibes, and perhaps link to sources better, could also better incorporate some ideas only developed in [[Land Holding in Sembara]] and [[Taxes in Sembara]]
+- [x] [[Halflings]]: overview page, likely needs an update to better capture vibes, and perhaps link to sources better, could also better incorporate some ideas only developed in [[Land Holding in Sembara]] and [[Taxes in Sembara]]
 - [ ] [[First Ones]]: has some initial short notes; could use a little more elaboration as well as individual notes for each deity
 - [x] D&D Beyond Mechanics
 - [ ] D&D Beyond Text -> Link to Taelgarverse needs to be updated to point to this page when it is pushed.
 
-**Discussions/Sources**:
-(some are old/outdated)
-[[Discord Chat - Non-humans in Sembara]]
-[[Discord Chat - Species]]
-[[Discord Chat - Deep History]]
-[[Discord Chat - Languages and Humanity]] (suggestion halflings invented Common and related)
-[[Email - Halfling Thoughts]]
-[[Email - Halfling Religion]]
-[[Email  - Taelgar Races]] 
-[[Email - A Few Thoughts on Taelgar Races]]
-[[Email - Brief Thoughts on Elder Races]]
-[[Email - Other Sembara Thoughts]] (law and halflings)
-
-Some additional discussion about Green Sea trade impinges on halflings:
-[[Email - More Green Sea]]
-[[Email - Green Sea Trade Routes]]
 
 ## Design Notes
 

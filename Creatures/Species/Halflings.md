@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [species, status/cleanup/ai]
+tags: [species, status/check/mike]
 name: Halflings
 aliases: [halfling, halflings, Halfling]
 dm_owner: joint
@@ -57,126 +57,94 @@ Stories are central to halfling religion, and to their experience and connection
 
 Halfling music is often improvisational, extemporized over stable patterns, reflecting a philosophy that enduring forms are best expressed through unique performances, and connecting to the halfling understanding of selfhood: each individual is both unique and, at the same time, merely an expression of a universal ancestral mind of halfling-ness. Halfling art often strives to express the idea that permanent and unchanging things are always being expressed in unique and changing forms. The journey, the next step, is always different, and even the same road changes with the seasons and years.
 
+Many halfling songs are also practical, and sea shanties are common on halfling ships. These are two popular songs from the western Green Sea:
+
+The Green Sea Calls: ![[green-sea-calls.mp3]]
+The Dyes of Tollen:
+
+![[dyes-of-tollen.mp3]]
+
 ## Historical Perspective
 
 Halflings don’t record their history; they remember it. The tale of years is told, and told again, created and recreated by the history-tellers and story keepers of each generation, and then recalled as their memories join the ancestral awareness when they pass on from their individual lives. This living relationship to history means that years are not numbered and dated from fixed points in time. Instead, halflings refer to the song of years and the sagas of eras to mark their history. 
 
-For generations, halfling companies and crews have tied distant ports and border towns together, carrying news and trade even in hard years. In the aftermath of the Great War and the unsettled years that followed, their caravans and cogs threaded the gaps, keeping markets supplied, stories alive, and distant kin in quiet conversation. Ballads collected as the [[Halfling Shanties of the Green Sea]] describe runs from Tollen’s dyes to kenku islands and the northern frostlands for dragonhide—routes that continue in the present day. Many of the oldest crossroads inns in Sembara and the Western Gulf trace their tenure to those years when halfling networks quietly held the world together.
+In these ancient tales of years, halflings tell of wandering even when the world was new, when songs could sing sustenance into existence. They tell the stories of meeting humans, of the new songs of trade, of the world changing, yet always halfling journeys as a constant thread of connection. Many halflings claim they were the first to sail the Green Sea, and as the world changed again and again they were always there, to tell the new stories. 
 
-
-%% history 
-
-
-
-However, these tellings are held close to the halfling race, and they use more standard reckoning of dates when talking with the outside world.
-
-For halflings, remembering their history and the worship of the First Ones are deeply connected. History-bearers, those who are especially deeply connected to the racial memory through long practice, tell stories of the past, and often dedicate themselves to composing a great story or song as their life’s work. These songs become the songs of years -- some spanning eras, others a single year. While few know the full song of years, the history-bearers and their connection to the racial mind are part of the fabric of halfling culture and ensure that the old stories are not forgotten.
-
-%%
 
 %%^Campaign:None%%
 ## Details for DMs
 
 ### Where You’ll Find Them
-- Along the Green Sea, halfling flags are common in the Western Gulf between [[Tollen]], [[Tyrwingha]], and Sembaran ports; farther east, halfling crews run longer legs between [[Wahacha]] and the cold trading grounds near [[Praznitsky]].
-- Green Sea trade: halfling crews and factors running dyes out of [[Tollen]], calling at kenku ports like [[Wahacha]], and ranging as far as the cold reaches around [[Praznitsky]]. See songs in [[Halfling Shanties of the Green Sea]].
-- Overland routes: family caravans linking duchies and border towns; frequent presence at crossroads inns, river landings, and toll bridges.
-- Integrated communities: halfling wards in mixed towns; folkland‑status inns that predate recent charters; small enclaves in dwarven hill country.
+- Generally, halflings can show up anywhere, traveling or settled
+- Common merchant sailors in the Green Sea, both in western ports, especially [[Tollen]], and farther east, where halfling crews run longer legs including [[Wahacha]] and the cold trading grounds near [[Praznitsky]].
+- Also common in the Nevos Sea, Gulf of Chardon, and points north and south. Occasional halflings make the dangerous crossing of the [[Sea of Storms]] to the strange ports to the south. 
+- Overland caravans vary between long distance connections (e.g., Sembara <-> Dunmar), and shorter, local routes. 
+- Halfling villages and towns don't really exist, however; when they settle it is with other species
 
 ### Religion and Metaphysics
-- The [[First Ones]]—Nwana, Obito, and Jemghari—anchor halfling belief. Formal temples are rare; shrines are often places of good memory and strong feeling.
-- Halflings share an ancestral racial memory (often called the soulmind) and commonly communicate mind‑to‑mind. History‑bearers serve as keepers of story and rite. For mechanics and tone, see [[Playing a Halfing]].
-- After death, memories are said to join the great halfling consciousness rather than linger as individual souls; priests claim this is why some memories feel “shared” among kin.
+- The [[First Ones]]—Nwana, Obito, and Jemghari—anchor halfling belief. Formal temples are rare or non-existant; shrines are often places of good memory and strong feeling.
+- Halflings share an ancestral memory (often called the soulmind in older brainstorming, but no canonical name) and commonly communicate mind‑to‑mind. History‑bearers serve as keepers of story and rite.
+- After death, memories are said to join the great halfling consciousness rather than linger as individual souls; priests claim this is why some memories feel “shared” among kin. 
 
 ### Trade Practices and Institutions
-- Route‑libraries and price boards at halfling wayhouses support route knowledge and commodity rate sharing across families.
+- Route‑libraries and price boards at halfling wayhouses support route knowledge and commodity rate sharing across families
 - Guildhall‑style inns double as hiring posts, mail drops, and kin registries; caravans and ships post shares, crews, and routes.
-- Risk management varies by region: caravans in the Western Gulf operate like generational communities; long‑sea routes use tighter crews, formal shares, and ad‑hoc mutual insurance among kin companies.
 
-### Ship and Caravan Crews
-Halfling ships are organized like large halfling caravans. Usually, members of the clan that owns the ship make up at least half the crew, and fill most, although often not all, the officer positions. The rest of the crew is often made up of various individuals with their own reasons for travel: children of sedentary halflings who want adventure, or land-based clans that want to experience the sea; survivors of shipwrecks and other disasters; partners of the main clan; and other idiosyncratic folks.
+### Ship & Caravan Crews
 
-Profits of the journey are usually split evenly, after the needs o the ship have been taken care of, although typically excess funds are retained in a ship's account and paid out based on time served on departure of a crew member, or to their clan on death. Purchases with ship funds are typically agreed by majority vote, and all halflings who are part of the crew share equally, and are treated as family.
+- **Crew makeup:** Owner-clan often, but not always, supplies ≥50% of crew and most officers; remaining berths go to partner families and trusted independents (adventurous youths, land-clan sailors, shipwreck survivors, specialists).
+- **Natural sailors:** Renowned for blue-water routes and tight ship-handling; vessels are compact, efficient, and optimized for halfling crews.
+- **Profits**: Profits of the journey are usually split evenly, after the needs of the ship have been taken care of, although typically excess funds are retained in a ship's account and paid out based on time served on departure of a crew member, or to their clan on death.
+- **Governance aboard:** Major purchases by majority vote; all halfling crew treated as family; orders called aloud on watch; one-to-one counsel via **mind-speech**.
+- **Caravan parity:** Road companies mirror sea practice—pooled funds, rotating duties, and organizational structure, although vary much more widely in size.
+- **Edge cases:** A minority take to piracy or banditry; even then, crews tend to keep internal share-law and memory-debt obligations.
 
- Ship companies generally use a share system that combines pay and ownership, with shares reallocated as sailors age out and apprentices rise; accounts are settled when a crew member departs or, on death, to their clan. Vessels are sized and rigged for halfling crews—tight-decked and efficient—with orders carried aloud on watch and most one-to-one conversation conducted by mind-speech. Crews are often drawn largely from the owning clan, which fills most officer posts, with additional hands recruited from partner families and trusted independents.
+### Law, Charters & Governance
 
-### Law
-
-Halflings have no homeland, and spend most of their lives traveling through and across the lands of others. As they are small people, noted more for their good nature and quick feet than any strength in arms, if a community of larger, stronger folks decides to rob or kill them, there is often little they can do in the moment.
-
-However, it is hard to get away with murder when the memories of those you kill don’t end with their death, and halflings are deeply concerned with righting those of their kind that are wronged. While most halflings tend towards nonviolence themselves, those that don’t often justify their actions as vengeance and retribution for those of their kind that were wronged.
-
-Between the risk of a quiet dagger and the possibility of economic retribution, most human communities tend to treat halflings well, and give them legal privileges others don’t have. Rumors of places it is not safe to go spread quickly through the halfling community, and these places soon find themselves with no halfling caravans willing to bring goods to market there, or buy goods to take to market elsewhere.
-
----
-
-Halfling communities lack centralized government but maintain coherence through kin networks, company charters, and the reputational economy of the ancestral mind. Freeholds at crossroads and river landings act as nodes, hosting seasonal councils where routes are updated, disputes mediated, and apprentices placed. Decisions emphasize consensus, with story-keepers recording outcomes to guide future cases. In mixed settlements, halflings integrate local statutes with their own customs by treaty or charter, preserving the right to internal adjudication while honoring the laws of host polities.
-
-Halflings travel under a patchwork of ancient charters, road compacts, and port treaties that grant rights of passage, protection of caravans and wayhouses, and limited extraterritoriality for recognized freeholds. In Sembara, longstanding accords guarantee movement and trade along royal roads; selected inns are recognized as folkland; and a halfling Royal Observer attends the Royal Council with voice but no vote on matters affecting roads and halfling rights. Disputes within the community are commonly settled by kin-council, with story-keepers recording decisions as precedent. Memory-debts and oaths sworn “to the road” are enforceable by reputation: news of oath-breaking circulates quickly through caravans and sea companies, with offenders denied hospitality or passage until amends are made.
+- **Why privileges matter:** A small, widely traveling people are vulnerable to abuse; collective memory and reputation deter predation.
+- **Repercussions for abuse:** “Unsafe” towns lose halfling custom; economic boycotts, rumor-networks, and (among hardliners) targeted vengeance compel amends.
+- **Internal order:** No central state; cohesion via kin networks, company charters, and ancestral-mind reputation.
+- **External compacts:** Ancient charters, road compacts, and port treaties frequently guarantee passage across the realms of other species, protect caravans/wayhouses, and grant limited extraterritoriality to recognized freeholds (such as established inns).  
+- **Sembara examples:** Royal-road movement and trade guaranteed; select inns recognized as **folkland**; a halfling **Royal Observer** attends the Royal Council with voice (no vote) on roads/rights (though last may not be canon). 
+- **Enforcement norms:** Memory-debts and oaths sworn “to the road” enforced by reputation—oath-breakers denied hospitality or passage until restitution.
 
 ### Using Halflings in Play
 - Trade networks: use halfling companies to move news, goods, and rumors across frontiers; a single family badge can recur across ports and roads.
 - Memory‑debts: hooks where a favor owed to an ancestor is repaid—or called in—at an inconvenient moment; excellent leverage for intrigue without villains.
 - Crossroads and inns: hubs for gathering parties, black‑market exchanges, and neutral‑ground parleys. Some freeholds operate outside ordinary manorial ties.
 - Sea arcs: shanties, storms, and salvage; halfling crews make fine patrons, rivals, or employers for maritime adventures.
-
-
-As travelers driven by wanderlust, many halflings find themselves in professions that lend themselves to this lifestyle: traders, merchants, sailors, wandering bards, and sometimes even pirates or bandits. Natural sailors, ships crewed by halflings sail to far-away ports and return with rare trade goods and unbelievable tales. Those who do settle often gravitate towards inns and taverns, and are frequently innkeepers. 
+- Typical professions: as travelers driven by wanderlust, many halflings are traders, merchants, sailors, bards, and sometimes even pirates or bandits. Those who do settle often gravitate towards inns and taverns, and are frequently innkeepers. 
 
 ### Roleplaying Halflings
 - Voice and bearing: warm, quick‑witted, and observant; direct in business, expansive in hospitality.
 - Ethics: a deal kept is a reputation earned; generosity where it binds communities together; sharp memory for slights against kin or guests.
 - Table mannerisms: spontaneous songs; toasts naming absent friends; quiet mind‑to‑mind “aside” between kin before answering a hard question.
-
-Halflings love stories, both the telling and the hearing. They have little use for material wealth, preferring not to accumulate more than they can comfortably carry with them, but will often value a few precious mementos highly. As traders and merchants they seek unusual goods, whether rare magics or beautiful art or exotic spices. They enjoy living life to its fullest no matter where they may be, and are eternal optimists even in dire times. 
+- Vibes: halflings love stories, both the telling and the hearing. They have little use for material wealth, preferring not to accumulate more than they can comfortably carry with them, but will often value a few precious mementos highly. 
+- As traders and merchants they seek unusual goods, whether rare magics or beautiful art or exotic spices. 
+- They enjoy living life to its fullest no matter where they may be, and are eternal optimists even in dire times. 
 
 ### Conflicts and Open Questions
 - Geographic spread in earlier eras: some notes emphasize halflings concentrated around the eastern Green Sea, while others imply wider early presence. Clarify how far west halfling sea‑lanes and caravans reached before modern times.
 - Trade tongues: some discussions credit halflings with shaping the spread of Common; the languages overview frames Common as a human‑derived pidgin broadly adopted by halflings. Decide whether halfling influence was formative or primarily distributive.
- - Memory shrines: practice is described both as place‑based (natural overlooks, groves, hearths) and as memory‑network loci re‑experienced through the soulmind. Decide how overt or mystical this feels in play.
- - Ships and crews: Western Gulf voyages feel like traveling clans; long‑sea routes resemble professional share‑crews. Calibrate how often families bring elders and children aboard outside the Gulf.
- - Law and charters: scope of free‑movement treaties and folkland recognitions (especially in Sembara) varies by source; finalize the “Royal Observer” custom’s origin, term, and which family currently holds it.
+- Memory shrines: practice is described both as place‑based (natural overlooks, groves, hearths) and as memory‑network loci re‑experienced through the soulmind. Decide how overt or mystical this feels in play.
+- Ships and crews: Western Gulf voyages feel like traveling clans; long‑sea routes resemble professional share‑crews. Calibrate how often families bring elders and children aboard outside the Gulf.
+- Law and charters: scope of free‑movement treaties and folkland recognitions (especially in Sembara) varies by source; finalize the “Royal Observer” custom’s origin, term, and which family currently holds it.
+- Halflings do not have a creation story or detailed metaphysics developed, though many ideas such as the ancestral mind exist. 
+- Claim that halflings join the shared ancestral mind upon death - any implications for resurrection? Or should this be interpreted as some kind of metaphor/reflection of the divine realm of the First Ones?
 
 ### Sources
-- Primary accounts: [[Primary Sources/Story About Halfling Merchants]]; [[Primary Sources/Songs/Halfling Shanties of the Green Sea]]
-- Religion and practice: [[Gods and Religions/Religions/Halfling Religious Practice]]; [[Worldbuilding/Brainstorming/Halfling Racial Theology]]; [[Worldbuilding/Chats and Emails/Email - Halfling Religion]]
-- Culture, trade, and institutions: [[Worldbuilding/Chats and Emails/Email - Halfling Thoughts]]; [[Worldbuilding/Chats and Emails/Email - Green Sea Trade Routes]]
-- Language and trade tongues: [[Background/Languages]]; [[Worldbuilding/Chats and Emails/Discord Chat - Languages and Humanity]]
-- Legal/treaty context: [[Worldbuilding/Chats and Emails/Email - Other Sembara Thoughts]]
+- Primary accounts: [[Story About Halfling Merchants]]; [[Halfling Shanties of the Green Sea]]
+- Religion and practice: [[Halfling Religious Practice]]; [[Halfling Racial Theology]]; [[Email - Halfling Religion]]
+- Culture, trade, and institutions: [[Email - Halfling Thoughts]]; [[Email - Green Sea Trade Routes]], [[Email - More Green Sea]]
+- Language and trade tongues: [[Languages]]; [[Discord Chat - Languages and Humanity]]
+- Legal/treaty context (Sembara-focused): [[Email - Other Sembara Thoughts]]; [[Land Holding in Sembara]]; [[Taxes in Sembara]], [[Discord Chat - Non-humans in Sembara]]
+- Other Discussion (may be old/outdated): [[Discord Chat - Species]], [[Discord Chat - Deep History]],[[Email  - Taelgar Races]] ,[[Email - A Few Thoughts on Taelgar Races]], [[Email - Brief Thoughts on Elder Races]]
 
 ### Brainstorming 
-Experience time all at once
-
-The "one song"
-
-Conclave of halflings to determine the song of the year
-
-Think about how time flows for halflings
-
-Halfling gods connection to time -- the story of the years already exists and the telling is remembering in a sense
-
-Connection to firstborn, the “memories of the future”
-
-Racial consciousness connects here too, perhaps somehow they can remember the future?
-
-Halflings count the days since time began, in a long cycle that repeats.
-
-## Metaphysics
-
-Common belief holds that the First Ones keep halfling memories in trust and that halflings can share thoughts in silence; scholars debate how, priests call it a blessing, and most people simply accept that halflings remember what matters.
-
-## Creation Story
-
-Stories say the First Ones set halflings wandering with music, trade, and tales to bind the world together. Whether a single origin or many, the details are kept within their songs and rites rather than written in foreign books.
-
-## Sea Shanties
-
-Halflings sing on their ships. Here are two popular halfling songs.
-
-The Green Sea Calls: ![[green-sea-calls.mp3]]
-
-The Dyes of Tollen:
-
-![[dyes-of-tollen.mp3]]
+- Halflings perhaps experience time all at once somehow? As the "one song"? Think about how time flows for halflings
+- Conclave of halflings to determine the song of the year
+- Halflings count the days since time began, in a long cycle that repeats.
+- Halfling gods connection to time -- the story of the years already exists and the telling is remembering in a sense; connection to firstborn, the “memories of the future”. Racial consciousness connects here too, perhaps somehow they can remember the future?
+- **Creation Story:** The First Ones set halflings wandering so music, trade, and tales would bind the world; origins are preserved in songs and rites rather than foreign chronicles.
 
 %%^End%%
