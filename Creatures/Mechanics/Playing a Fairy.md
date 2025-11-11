@@ -1,3 +1,10 @@
+---
+tags: [meta, status/cleanup/incomplete]
+dm_owner: joint
+dm_notes: none
+---
+
+
 # (XXX) Species Details
 *See more: links to relevant pages*
 D&D Beyond Link: [Species Name](link)
