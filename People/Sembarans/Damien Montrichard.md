@@ -18,7 +18,7 @@ dm_owner: mike
 *(Dah-mee-en Mon-tree-shar)*
 >[!info]+ Biographical Info  
 > A [[Humans|human]] (he/him)  
-> `$[](Humans.md)ts/view/get_Affiliations")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% needs to incorporate his false imprisonment and almost execution at the hands of [[Areschera]] %%
