@@ -41,6 +41,7 @@ Llinos blew a raspberry at him and smirked.
 *** 
 
 The howl rose and fell, echoing oddly over the slope of the hill. Llinos stared up at the sky, concentrating ferociously, face twisted into a rictus of aggravation that went halfway to a snarl when Pryce poked at one shoulder with his staff. 
+
 “Bothering Cad.” 
 Cadell was the current guard dog for the goat flock, and indeed he was crouched and alert, his ears pricked forward as he tried to figure out where the wolf was. 
 “Sorry,” Llinos said a bit sullenly. “Practicing.” 
@@ -70,27 +71,42 @@ They leaned on each other and watched the sun set.
 *** 
 
 When the apothecary’s remedies stabilised Llinos’s moods, the whole family was relieved. 
+
 Certainly, their youngest’s routine furies died back to something much calmer, getting along with the other village children got easier, and particularly once Ellis managed a successful beginning of a courtship everyone was relieved that the problem had been cured. 
+
 Except that Llinos did not, entirely, get better. Yes, the regular surges of rage and vocal self-loathing vanished with the thoughtful interventions of the apothecary. The blithe child did not return; what was there was quiet and withdrawn and brooding. Wine vanished, occasionally, more than could be explained by an error in the accounting or the occasional needs of the fey, and there was nobody else plausible to blame. 
+
 Llinos had not had close friends, certainly not among agemates; Llinos was too busy being wild and fey and had always gotten on better with younger children, who could be diverted into daisy chains or peering at the undersides of mushrooms without finding the results tedious. Nobody was entirely sure why Ellis pursued his courtship, and when people asked him he would say things like, “She’s honest” and “There’s just a freedom about her, when she’s happy,” which mostly seemed to drive him to a dedication to see if Llinos could be made a little happier. If his brother knew more, well, Llew was notably more taciturn, of the twins. 
+
 Some of the things were comprehensible, for the fey-touched at least. Llinos limping home on a full moon, carrying one shoe in one hand and the drum in the other, with bruised and bloody feet, and “I don’t know where my other shoe is, I was dancing”? That was perfectly normal, expected within the span of strangeness that everyone could nod at. It wasn’t the thing that had to be done, it was beyond what had to be done, but general consensus was that if there was someone who was inclined to that sort of thing, well, it would do no harm and would build goodwill for times when tending the stones and the seasonal gifts and the major rituals was all that people managed. Similarly, the disappearance of a number of perfectly unblemished apples was chalked up to the usual sorts of fey bribes, with the only real mystery being how Llinos had made off with them unnoticed. Wine, also, disappeared, though less often, enough less that it could have been used for bargaining rather than drunkenness, perhaps, had anyone ever caught the culprit, but again, nobody ever did. 
+
 The habit of perching places - often places that others would have difficulty climbing to - and watching people was not something anyone expected, but on the other hand, it was the sort of strangeness that the deeply fey-touched might have. It was, at least, quiet and not disruptive; there were stories of the occasional other fey-touched madman from other villages, from other times, and people would nod and say, “At least she wears clothes,” and let the matter be. 
+
 Every so often someone would pull Ellis aside - usually after one of his flirtations had either gotten serious or had exploded into a cascade of teenaged drama - to make sure that things were well between him and Llinos. Some people got jealous, after all, and Llinos was known for rages, even if that seemed to have abated. Ellis only laughed and said, “She’s not like that. That’s not the sort of thing she gets angry about.” 
+
 Of course that raised the question of what sorts of things Llinos got angry about, and he shrugged and said, “People being foolish, mostly. When it’s something else she goes up into the hills so she doesn’t take it out on anyone.” 
+
 Which of course meant people thought it over, and realized that yes, Llinos went up into the hills rather often. More than they had explanation or expectation for. But the absence of someone was a lot harder to notice than the presence, so for the most part people had not noticed. Except for the Crowther boys, and except for the Bettws family, who hadn’t felt it worth gossiping about. Who had thought it was probably for the best. 
+
 “What sort of other things?” they asked Ellis, who looked at them sidelong, like he wasn’t sure he should be spilling secrets. Eventually, they managed to press him to say, “She’s just angry,” without any further or more useful commentary. “Things hurt her.” 
+
 “What things?” 
+
 Ellis could only shrug, because he didn’t know either. 
 
 *** 
 
 Among the things that Ellis didn’t tell anyone, not even his brother, was that he knew, certainly not all, but many of the places that Llinos would go to hide away, when it was just hiding, and not venturing into the deeper fey spaces. He went and checked them, every so often, because he knew that even when Llinos couldn’t bear people in general, sometimes he was welcome, and if he wasn’t, well, he could just go away again. 
+
 There were times that what he found was a Llinos wracked with sobs, curled up in a little knot of pain that was never really explained. At those times he wedged himself into the space, long limbs sprawled wherever they fit, and pulled Llinos into his lap and held on, squeezing gently, until whatever it was subsided enough for something like peace. 
+
 “What’s wrong?” he asked, every time, and always got the same sorts of answers: “It hurts,” or “I’m wrong inside”. Once it was, “I can’t take this much longer,” which got him holding and rocking that much more, until the tears came out again, until something was soothed. That time, in the quiet after, it was, “Why do you put up with me?” 
 “Because I love you.” 
 “I think that makes you the crazy one.” 
 Ellis shrugged. “Maybe. I did fancy you ever since you punched me in the face when you were eleven.” Which was funny enough to make Llinos laugh, and maybe set aside whatever the torments were for a little while. Afterwards, sometimes, Llinos would show him things in the area - a ring of mushrooms that he swore he wouldn’t touch, he didn’t particularly want to be punched again; the dapple of light through trees. A nesting magpie, and the word for ‘magpie’ in Elvish, not that Llinos explained knowing Elvish to cite in the first place. It was the sort of thing that happened, that was all. 
+
 Sometimes he would come up with the crwth slung over his shoulder, and sometimes that was a help, and he could coax Llinos out with the promise of a duet. Other times that was too much, and he was sent away again, but he tried not to worry too much about that. Sometimes, Llinos would somehow conjure up a sound to add to the music, a drone, birdsong that laced itself around the tune, nothing complicated, but certainly more than the two of them could do without magic. That didn’t get an explanation either, but it was obviously the sort of thing that fey did, and Llinos knowing that sort of thing could not surprise him. 
+
 “What do you do when you’re not places I can find you?” he asked, once. 
 “Probably fighting my shadow,” Llinos answered. “Or learning fey tricks.” 
 These were not informative answers, quite, but having them was still reassuring. 
@@ -99,12 +115,16 @@ All in all, it was a lot to carry at the age of fifteen, but Ellis was inclined 
 *** 
 
 “Why do you keep coming back to me?” Llinos asked one day as they sat on one of the stone walls that divided up the slopes of the hills. The goats were not there, right then, they were off in the pastures closer to Pryce’s shepherd’s hut off to the west of Clawyn, and nobody was likely to come that way. 
+
 “Because I like you.” Ellis had one arm draped around Llinos’s shoulders. Figuring out what Llinos would tolerate in terms of touch was complicated; at times it was ‘curled up in Ellis’s lap’, and other times it was ‘nothing much at all’, and the sort of touches that he had experimented with with the other village girls were never acceptable. 
+
 “I don’t know that I’m all that likeable.” It had, in fact, been a difficult week and a half or so, in which Llinos had snapped at Tegan over gossiping unkindly about Llew, which had brought in Gwawr and Nesta to make matters additionally difficult. Llew had gone down to Nefyn on his own to play, refusing even Ellis’s company, and then Llinos had fought with Ellis about that, too, seesawing wildly between self-blame and outrage and several other emotions that weren’t entirely clear or identifiable. But then there had been apologies, and quiet, after Llinos had spent two days up in the hills. 
+
 Llinos’s right hand had developed calluses on it, in odd places, that made Ellis think of what people who fought with swords had in the songs Llew had learned. He ran his thumb over one of them. “I still like you.” 
 “Why?” 
 “You see the world in a way nobody else does. Like there’s magic under every leaf and all we have to do is turn them over to see it.” Ellis said it immediately, but there was more he could say, once he gathered his thoughts. “There’s a joy in you, a wonderment, that enchants me. Some days it seems like you can’t see a thing in the world that isn’t a miracle.” 
 Llinos was quiet, just leaning against him. 
+
 He thought that soaking more in his thoughts would do some good, so he went on. “I know you don’t get on with everyone, but that’s because they don’t appreciate that about you. They just see that you don’t do what people expect. Starting from not working the vines, but everything after that, and they can’t figure out how to adapt.” He kissed the top of Llinos’s head gently. “Some of them, they know you do important work, but they don’t understand the work you do, so they can’t really believe in it. It’s not quite real to them.” 
 “Do you understand what I do?” 
 “No. It’s not my calling. But I understand that I don’t have to.” He shifted a little so he could stare off into the middle distance. “You do valuable, important work, but you’re more than the work. When they can deal with you it’s because they have you sorted into the little box of ‘the fey-touched one who minds the boundaries and the standing stones’, and they put everything they don’t understand there. But you’re not meant to be in a box. You break it by nature.” 
@@ -117,8 +137,11 @@ Eventually Llinos said, quietly, “So you forgive me for ... For whatever that 
 *** 
 
 There was a time, though, that when Ellis went up looking for Llinos, it was with more worry than average. He had heard rumors of wine disappearing again, and an incident where Llinos had had an argument with several people and then vanished afterwards by the point that one of them realized she had been in the wrong and wanted to apologize. He had tried to convince himself it was nothing, but nonetheless a deep, uneasy feeling sent him ranging into the hills without telling anyone where he had gone. 
+
 He was on the point of giving up, convinced that Llinos did not want to be found and had gone to some extremes to do so, when he heard a sound, something odd he could not identify. As he followed it, he suspected he was being fey-led, but he had a Tyrwinghan’s trust that that was probably not going to bring him to any harm, and perhaps it had something to do with the fact that he had been calling out Llinos’s name. 
+
 Even as he had been expecting trouble, Ellis did not at all expect what he actually found. Llinos, yes, curled up into a ball, shirt half-torn away and soaked in blood from wounds that looked like claws across one breast. “Oh no no no no.” He thought, at first, it must have been some animal attack, something that had managed to elude the protections of the fey and whatever skills Llinos had, but then he saw the knife, fallen from one limp hand, on the ground. 
+
 By some miracle, Llinos was breathing, shallowly, and he let out a soft prayer of thanks to the Mother as he picked up the knife and tucked it away, then tried to figure out how to gather the limp body into his arms, staggering as he stood up. 
 “‘Lissss.” 
 “Yes, dearest, it’s me. I’m getting you to the healer.” 
@@ -127,31 +150,49 @@ It was, perhaps, the first time he had truly lost his temper, dealing with the c
 “N’ ‘ler.” 
 “No healer? Dearest, you need—” 
 There was another thrash, and then a faint plaintive noise when Llinos realized that thrashing was doing no good. Then a soft, sullen, “Pryce.” 
+
 Pryce was no healer, but he was competent at tending the goats, and maybe that would be good enough. Ellis growled, “Fine,” and started to pick his way back down the hill. The trailing fey sound that had guided him faded back to a worried trill and was gone. 
 By the time Ellis had made it across the hill and around to Pryce’s hut, Llinos had started shivering, curled up against him, and he had cursed under his breath at not having a cloak with him, but it was summer, he hadn’t thought he would need one. 
+
 “Pryce! Pryce!” 
+
 Llinos and Pryce were peas in a pod, as much as ordinary siblings could be - not like him and Llew, of course, but both slender and yellow-haired and unassuming. Except that there was something imposing about the goatherd now, as he rose up with his staff in hand, the big guardian dog coming to his side in preparation. Pryce made a gesture that demanded explanation, without speaking. 
+ 
 “I found her in the hills. She’s hurt bad.” This was not deemed adequate, from Pryce’s repeated flick of his hand, so Ellis went on. “She said I should come to you rather than a healer, I— I don’t know if it was stupid that I listened, I just— she did it to herself.” 
 That last phrase made Pryce wince visibly, and then gesture to the hut. “In.” 
+
 Ellis did as he was told. 
+
 Pryce built up the fire and dragged over some rather moth-eaten furs to spread out in front of it. “Keep warm.” He was brusque, focused, clear; he cut away the remainder of Llinos’s shirt to slice up into bandages and wrapped them over the wounds, several deep gouges across the left side of Llinos’s chest. “Hold that.” He was steeping herbs, now, in the hot water, and then washing down the injuries with it, moving Ellis’s hands with gentle insistence so he could get a better look, then putting them back. 
+
 “She really doesn’t like me putting my hands there,” Ellis managed to say with an edge of hysteria. 
+
 Pryce snorted. “Too bad for her,” he said, and got more supplies, and then came back to add a poultice and then wind ragged strips around and around Llinos’s chest. “Going to make some broth. If she wakes up we can see if she can take it.” 
 “I— if?!” 
 “Don’t know if she fainted from pain or losing blood. Pain’s better. Losing blood’s touchy.” Pryce’s voice was level and emotionless as he worked on his broth, and it once again made Ellis furious. 
 “Don’t you even care?” 
+
 Pryce paused, and turned, and looked down. Ellis was usually taller, but Ellis was sitting with Llinos sprawled into his lap, and Pryce was suddenly a narrow pillar of fury, his eyes focused on Pryce in a way he never looked at anyone, he had never heard of Pryce looking someone in the eye. “Will shrieking and wailing heal her?” He waited for an answer, and when Ellis had none, he snorted and said, “Broth,” and turned back to his work with an irritated flick of his hand, his voice drifting back to the monotone. “Cuts are deep, but not piercing. Cut across. Don’t think she was trying to go for her heart. Mostly clotted by the time you found her. Blood on your shirt, though.” 
+
 “Is there?” Ellis had not noticed, but of course there was, smudges and spots and a bright red spot where he’d held Llinos pressed to his chest. 
+
 “Mmhmm.” Pryce peered at his work, then fetched another motheaten fur to gently tuck over Llinos. “Color’s a little better. Good sign.” 
+
 Ellis looked down. He could not tell anything about Llinos’s color. He would have to trust Pryce’s word for it. “What do I do?” he asked, plaintively. 
+
 Pryce looked over again, grimacing, but at least back to his normal indirectness of gaze. “You’ll be wanting to stay until she wakes up. We’ll get her settled. You’ll be missed, in the village.” 
+
 “So what do I do?” Ellis scrubbed at one eye with the back of his hand. “She said, she said once she didn’t think she could take hurting like this much longer. I—” 
+
 “Go home, when you go. Pray to the Mother for healing in the temple. Ask her also to ask the Wyrdling to protect Llinos from her madness.” Pryce looked down again, this time at Llinos. “I will too. Here.” 
 
 *** 
 
-After a few days, people asked Ellis if he knew where Llinos was. Fortunately, he and Pryce - and Llinos, eventually - had worked out an answer he could give, which was, “She wanted some peace and quiet for a bit so she’s staying out with her brother.” Everyone who knew how close Llinos and Pryce were, which was basically everyone, just nodded, including the family, which was what Ellis had been mostly worried about. 
+After a few days, people asked Ellis if he knew where Llinos was. Fortunately, he and Pryce - and Llinos, eventually - had worked out an answer he could give, which was, “She wanted some peace and quiet for a bit so she’s staying out with her brother.” 
+
+Everyone who knew how close Llinos and Pryce were, which was basically everyone, just nodded, including the family, which was what Ellis had been mostly worried about. 
 He did not go out every day; going out every day would have been odd. Every two to three, though, he would go, when he had a new crop of gossip or a bit of interesting pastry from the meetinghouse or wanted to play some music with company other than Llew. This time, he came up with a new shirt, one he had bought in Nefyn after giving a seamstress there some appropriate measurements. He gave Pryce a nod and then ducked into the hut. 
+
 It was good to see Llinos sitting up by the fire, the bowl of broth set to one side and at least half gone. The bandages were still wrapped tight around Llinos’s chest, but at least they were clean and showed no signs of blood now. “What’s that?” 
 “New shirt I got you.” 
 There were too many fleeting expressions there that Ellis could not read. “You shouldn’t have,” Llinos said, eventually. “That’s so expensive.” 
@@ -185,7 +226,9 @@ Llinos grunted. “It’s me, though. I’m mad. I can’t pretend I’m not mad
 *** 
 
 There was something luminous about Celyn after the miracle, Ellis thought. Not just that the madness seemed to have abated, though it certainly had, replaced with a relentness cheerfulness that reminded him of their childhood; rather, the shift in him from the touch of the god carried with it some of its own light. 
+
 It didn’t hurt that they were experimenting with kissing. Not that Ellis hadn’t kissed people before. He had kissed, by his best count, roughly two thirds of the people in Clawyn within a few years of his age - now including Celyn, who hadn’t kissed anyone else - and another few in Nefyn. He knew what he was doing with it. And Celyn, who had never stopped wrapping bandages around his chest even after those horrible wounds had healed, even let him rest a hand there sometimes when they were curled up together. 
+
 It meant that when Celyn stopped some particularly intense kissing with a faint sound of alarm he was rather unprepared for it, and stumbled a little before letting things settle. “What’s wrong, dearest?” 
 Celyn sighed softly and just rested for a little while, before saying, very quietly, “You know I’m still mad, right?” 
 “I— I hadn’t thought about it. You don’t seem mad?” 
@@ -208,25 +251,41 @@ Celyn grinned up at him suddenly. “Okay. So. Just because I don’t want to fe
 *** 
 
 “Does it bother you, being mad?” Ellis asked the question almost idly as he worked on tuning his crwth, his graceful fingers plucking the strings and adjusting the pegs. 
+
 Celyn had to think about it for a while, but he knew that Ellis would give him the space to think. Eventually he said, “I don’t think it’s healthy to be bothered by things that are true about yourself? I am what I am, and the Wyrdling gives me space to have peace.” 
+
 Ellis nodded, and gave the matter some quiet contemplation before striking a chord with his fingers and then picking up his bow. “Idris could do with being more bothered by how he is.” 
+
 Celyn grunted thoughtfully. “He chooses to be like that,” he said eventually. “I think that’s different. I didn’t choose to be mad.” 
+
 “I’m not wrong,” Ellis said, pointing at him with the bow before drawing it across the strings of the crwth. 
+
 “You’re not.” Agreement with that was easy. 
+
 They spent some time in companionable silence before Ellis spoke again. “What’s it like, being mad?” 
+
 “I’ve been several different kinds, you know that,” Celyn pointed out with a laugh. “I don’t know how to describe it. Sometimes it’s like what drowning must be like. Being swallowed up in something that doesn’t care if I live or die.” He leaned back on his hands and stared off down the slope towards the vineyard. “Sometimes it’s been an ache so deep that I could only get through it by drinking so much wine I’d have a headache when I woke up, but at least that way I could sleep a little. Sometimes it’s been dancing to fairy music until my feet are torn up from branches and stones.” 
+
 “Dancing barefoot?” 
+
 “Yeah. Sometimes.” He shrugged again. “You were there for the bad ones. These days it’s nice, mostly. I feel hopeful that I can do anything, and if I can’t do it, it doesn’t matter, it’s just how the dice fell. Fate, I guess. I don’t worry about things. Things happen, and that’s fine.” 
+
 “Even bad things?” 
+
 “Bad things happening is normal? There’s no need to fuss about them.” 
+
 Ellis frowned minutely, then nodded again. He played through several tunes, adjusting his hands every so often as he refined what he was playing, and then asked, more quietly, “You say you’ve been several kinds of mad. Are you mad about me?” 
+
 Celyn looked over at him sidelong, through a fallen lock of hair, and tried to figure out how to reply. Eventually he said, “No. I’m pretty sure I love you sanely.” He added, after a breath, “Does that bother you?” 
+
 Ellis flipped the bow around to hold it with two fingers, plucking at the crwth with his forefinger. “No. It seems a lot of responsibility, having someone mad about you. I don’t think I’d like that.” He looked up with a broad grin that punctured the serious tone the conversation had taken. 
+
 “Well, that’s all right then,” Celyn said. “Would you like me to play with you or are you still figuring out your best fingerings?” 
 
 *** 
 
 Celyn trudged up the hill from Nefyn, head down, trying to sort through all the things in his head. He felt uncommonly taciturn, or perhaps like Pryce and frustrated with the way the thoughts and the words could not be made to fit usefully together. Pryce solved this by spending time with goats, who didn’t expect him to talk much at all; Celyn was not sure how to solve it, so instead he went looking for Ellis, who was, at least, not hard to find, or to coax off to sit quietly on a wall where they wouldn’t be bothered. 
+
 It was a long silence, there, just waiting for the words to come, and Ellis nearly said something several times before subsiding and letting him work through what he needed to say. Eventually, he leaned quietly on Ellis’s shoulder. “It was always doomed, wasn’t it?” 
 Ellis draped an arm around him. “Yeah. Probably. But that’s not the important part, is it?” 
 “No.” He sighed. “You probably saved my life.” 
@@ -253,9 +312,14 @@ Ellis laughed. “You know I won’t be.”
 *** 
 
 Celyn had spent a little while in Ruthin. They’d found him a nice garret to sleep in and let him try to figure out who he was, or what his life was, but he had found no answers there. He missed home. He missed Ellis. Even knowing that they weren’t together, that being together didn’t work, didn’t change that, because even without the kissing Ellis had been his best friend forever or at least since he had been maybe twelve. Thirteen at the outside. He couldn’t remember when Ellis had taught him to juggle. 
+
 Flavie was still there, and that was nice, but she wasn’t the sort of friend Ellis was. Not even about the kissing, just there’s ‘knowing someone a year and working on learning her language to translate her poetry’ and ‘knowing someone your whole life and snogging and going through nightmares with him inexplicably always there’ and there was a gap there, and the gap hurt. Celyn felt hollow, was what it was, and somehow having Flavie there made it worse, because it made it so much more immediate how much he was missing with Ellis not there at all. 
+
 So eventually he moved on, following the road along the Trellyn north towards Tafolwern. 
 He didn’t really remember getting there. There was a lot of walking. Maybe hitching a ride on a wagon once? He couldn’t recall, after. Curling up into hedges sometimes, occasionally an inn, or taking the Wanderer’s cot in villages that weren’t big enough to have an inn. He meandered, a little, he was pretty sure, as impulses guided him, as dreams guided him, but mostly he was lonely and quiet and only having his god for company, and while the Wyrdling was always there, and secure, and a bottomless font of love and protection, the Wyrdling was not very human at all, and Celyn wished for something human. Even though he wasn’t sure how to talk to anyone. 
+
 Eventually he reached Tafolwern, and that was a shock. The size of it, the ornateness of it. He fled the city almost immediately, overwhelmed, and found himself in a small village not too far from it, with a travelling show there. He watched the show - there were jugglers, and acrobats, and a play he didn’t pay attention to, and a stage musician - and he slept, and that night he dreamed. 
+
 In the morning he found the owner’s wagon and knocked on the door. “Excuse me,” he said. “The Wyrdling thinks I should hire on with you.” 
+
 The woman looked him up and down and said, “Well. What do you know how to do, lad?”
