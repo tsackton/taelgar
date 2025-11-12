@@ -1,14 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta, status/check/mike]
+tags: [meta]
 dm_owner: joint
 dm_notes: none
 ---
 # Playing an Elf
 *See more: [[Elves]], [[Elven Cycle of Generations]], [[Aldanor]], [[Elmerca]]*
 D&D Beyond Link: [Elf](https://www.dndbeyond.com/species/1755491-elf)
-
-%% should be in good shape; just review %%
 
 [[Elves]] have a deep connection to magic and nature through their connection their gods, [[Aldanor]], the Living Tree and [[Elmerca]], the Wild Star. They do not die of old age, although many tire of the world, and it is rumored that some of the first elves to exist still walk the earth. The elves of Taelgar have also faced tragedy and loss, suffering and dying in cataclysmic wars that have shaken the world. These days, elves are few in number, and while some still look outward, others have turned inward, disavowing their ancient roles as protectors of Taelgar. Few elves live in the settlements other species, and many common folk will have never met one.
 
@@ -45,25 +43,14 @@ To choose the name for your Elven character, you might consider looking at [nam
 ## Elf Traits
 
 As an Elf, you have these special traits.
-
-%%^Campaign:none%%
-Elf design logic, taking the basic model of the PHB 2024 to be a species should consist of traits approximately the same value as (a) an origin feat, (b) a skill proficiency, and (c) a flavorful and situationally strong ability, but that species can vary a bit up or down from this for flavor
-
-Keen senses is slightly worse than pick a skill 
-Darkvision + Resilience of the Dream + Trance better on the strong side for (c)
-Firstborn Gift is roughly on par with 2 cantrips; Elven Ritual magic is probably not quite as good as pick a 1st level spell given the restrictions, but not far out of balance IMO. So roughly equal to magic initiate origin feat together.
-%%^End%%
-
 #### Darkvision
 You have [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) with a range of 60 feet.
-
 #### Firstborn Gift
 You have an innate understanding of the weave of magic from your connection to Elmerca, the Wild Star, and Aldanor, the Living Tree. You choose one of the following talents.
 
 - _Elmerca's Gift._ You know the [Prestidigitation](https://www.dndbeyond.com/spells/2213-prestidigitation) cantrip. When you finish a long rest, you can replace that cantrip with a different cantrip from the Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select this gift).
 - _Aldanor's Gift._ Your Speed increases to 35 feet, and you learn the [Druidcraft](https://www.dndbeyond.com/spells/2080-druidcraft) cantrip.
 - _Gift of the Sea._ You can breathe air and water, you gain a swimming speed equal to your walking speed, and you learn the [Shape Water](https://www.dndbeyond.com/spells/2397-shape-water) cantrip. 
-
 #### Elven Ritual Magic
 Your innate connection to the weave of magic allows you to learn one spell from among the choices below. You always have this spell prepared, you may cast this spell as a ritual, even if it does not have the ritual tag, and this spell does not require material components when you cast it as a ritual. 
 
@@ -80,9 +67,15 @@ Your innate connection to the weave of magic allows you to learn one spell from 
 
 #### Resilience of the Dream
 The connection to Elmerca and Aldanor that developed during the first years of your life has left you resilient to mental and physical tolls. You have Advantage on saving throws you make to avoid or end the [Charmed](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#CharmedCondition) condition, you are unaffected by mundane diseases, and you have Advantage on saving throws to avoid or end magical or unusual diseases.
-
 #### Keen Senses
 You have proficiency in the [Insight](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Insight), [Perception](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Perception), or [Survival](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Survival) skill.
-
 #### Trance
 You don’t need to sleep, and magic can’t put you to sleep. You can finish a Long Rest in 4 hours if you spend those hours in a trancelike meditation, during which you retain consciousness.
+
+%%^Campaign:none%%
+Elf design logic, taking the basic model of the PHB 2024 to be a species should consist of traits approximately the same value as (a) an origin feat, (b) a skill proficiency, and (c) a flavorful and situationally strong ability, but that species can vary a bit up or down from this for flavor
+
+Keen senses is slightly worse than pick a skill 
+Darkvision + Resilience of the Dream + Trance better on the strong side for (c)
+Firstborn Gift is roughly on par with 2 cantrips; Elven Ritual magic is probably not quite as good as pick a 1st level spell given the restrictions, but not far out of balance IMO. So roughly equal to magic initiate origin feat together.
+%%^End%%
