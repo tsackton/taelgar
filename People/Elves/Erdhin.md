@@ -11,7 +11,7 @@ campaignInfo:
 gender: male
 pronunciation: erd-HEEN
 dm_owner: none
-dm_notes: color
+dm_notes: none
 ---
 # Caretaker Erdhin
 *(erd-HEEN)*
