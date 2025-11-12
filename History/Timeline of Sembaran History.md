@@ -1,5 +1,5 @@
 ---
-tags: [background, status/needswork/old]
+tags: [background, status/needswork/old, status/check/mike]
 displayDefaults: {defArt: a}
 name: Timeline of Sembaran History
 timelineDescriptor: Sembaran History
@@ -8,6 +8,8 @@ dm_notes: none
 ---
 
 %% Needs to incorporate the material from [[A Chronicle of Sembaran History]], plus there are some weak points that need cleaning up. discussion in discord chats that needs to be linked %%
+
+%% see comments below, search for @Mike; probably worth cleaning this up a little when someone has time. it would be especially helpful to indicate what is canon and what is brainstorming %%
 ## The Drankorian Conquest
 DR 300 - DR 431
 
@@ -43,17 +45,47 @@ DR 1250 - DR 1400
 ### Overview
 By DR 1250, a number of lords, mostly calling themselves dukes, had established themselves across the lands once ruled by Drankor. In the lowland coastal regions, the six duchies that later would form the heartlands of Sembara had been established: [[Duchy of Sembara|Sembara]], [[Duchy of Cheimen|Cheimen]], [[Duchy of Wisford|Wisford]], [[Duchy of Seham|Seham]], [[Duchy of Telham|Telham]], and [[Duchy of Arnsbury|Arnsbury]]. Further east and south, [[Tyrwingha]] had emerged from the chaos under the leadership of the [[Oracle of the Riven]] and [[Archfey Ethlenn]]. And to the west, two border duchies had emerged: [[Marches of Brovna|Brovna]], at the headwaters of the [[Wistel]] around [[Urlich Pass]], and [[Ardlas]], along the south banks of the [[Semb]], centered around [[~LakeDerwentCity~]],  the great trading city on [[Lake Derwent]]. 
 
+%% @Mike: I think this still fits with more recent invention around Zimkova, but worth considering %%
+
 To the far south, the fertile lands of the [[Istabor Alliance]] beckoned, and much marginal land was abandoned in these years. But by 1250, the land is prospering and, from the scattered duchies that arose from Drankor, population begins to grow and spread.
 
 Along the borders of [[Marches of Brovna|Brovna]], [[Duchy of Cheimen|Cheimen]], [[Duchy of Wisford|Wisford]], [[Duchy of Telham|Telham]], and [[Duchy of Arnsbury|Arnsbury]], a slow process of expansion began. As the peaceful years continued, and the population grew, the powerful dukes claimed new lands, largely empty, and granted baronies to their favored courtiers. 
 
-One of these noble families, the [[House of Entranca]], the Dukes of Sembara from the early 1300s, slowly grew in influence and power. The Duke of Sembara had emerged from the dark years with the largest and richest demesne of any of the duchies, and had always controlled [[Embry]], the ancient seat of the Drankorian regional government. Over the early 1300s, a series of minor crises and succession disagreements allowed the Entranca's to gain the loyalty of the the Dukes of Wisford, Cheimin, and Seham, who started more and more looking towards Sembara to resolve disputes and provide money and arms when dangerous forces appeared on their doorsteps.
+One of these noble families, the [[House of Entranca]], the Dukes of Sembara from the early 1300s, slowly grew in influence and power. The Duke of Sembara had emerged from the dark years with the largest and richest demesne of any of the duchies, and had always controlled [[Embry]], the most prominent of the ancient seat of the Drankorian regional government. Over the early 1300s, a series of minor crises and succession disagreements allowed the Entranca's to gain the loyalty of the the Dukes of Wisford, Cheimin, and Seham, who started more and more looking towards Sembara to resolve disputes and provide money and arms when dangerous forces appeared on their doorsteps.
+
+%% @Mike : Sembara would not have been one big province, so there would have likely been many regional  governments here; I changed Embry to be the most prominent of the ancient seats" %%
 
 By the end of the 1300s, the Duke of Sembara was broadly acknowledged as feudal lord by the Dukes of Chemin, Seham, and Wistford as well as many of the barons along the south banks of the Enst, the Aine Hills, and the lands between the Wistel and the Enst as far west as the Cleenseau Wood. 
 
 %% The above section could use a bit more clarifying details, and there should be at least one major crisis that drives increasing support for the House of Entranca and the Dukes of Sembara, but the specifics are not something I feel like making up right now 
 
+@Mike I invented this event when I was making up stories of giants for each player, way back during the first Hralgar arc. Does not need to be canonical, but if it is, it could be an option for an event that solidifies Entranca. The details would have to be tweaked a bit, but of course the halflings might remember the halflings role more vividly than the human armies
+
+In the memories and lives of the Goodbarrels of the Green Sea, the storm giants loom the largest. Tales tell of vast undersea palaces, so big that they disturb the currents above, but rarely, if ever, do the denizens of these kingdoms venture to the surface. Still, when a particularly bad storm races across the sea, it is hard not to wonder if some angry storm giant is responsible. 
+
+One story of giants does loom large in the ocean of memories of your people. Long ago, before the Great War, in the time after the fall of the Drankorian Empire when much was unsettled in the Green Sea, was the Year of Endless Thunder. 
+
+The stories, as is the case for many halfling stories, are somewhat lacking in detail: after the fall of the Drankorian Empire, a petty king in the area now Sembara made a pact with a dragon, grew in power, until he was betrayed and the dragon ruled with an iron fist, demanding tribute in slaves and treasure from all under his sway, until the people of the Green Sea, led by seagoing peoples who had escaped the worst (the halflings and the Skagish) turned in desperation to the power of the sea, and out of the waves the giant Sigga strode to battle the dragon. 
+
+The memories, however, are vivid: 
+
+Human soldiers wearing red scale armor rushing aboard a ship at dock, seizing not just the goods but people, threatening with sword and bow, too many to fight, marching in chains, tired, until finally you are kneeling before a great beast, scaled and red with eyes of black and gold and flame, immense and looming over you, as realization dawns that you are going to die here, but at least you are not alone as your soul drifts into the embrace of your ancestors as the flames wash around you.
+
+On a ship in a storm, sailing against all sense into the heart of the winds, battered and buffeted by waves towering over the masts, halfling crew working with human crew to keep the ship afloat, the captain shouting commands as you scurry to secure a line, until suddenly all is calm and out of the sea a person emerges - but not a person, vast in scale, almost ten times bigger than a halfling, long silver hair tied in a topknot, a grim face, as she speaks in a booming voice, “I am Sigga. I have seen the threads of our fates intertwined, growing strong or fading as one. Come, we must discuss,” as a pale blue glow washes over the captain and his human first mate, and they sink below the waves to bargain with the giant.
+
+A powerful storm, a hurricane of epic proportions, battering a line of soldiers in red scale armor manning coastal fortifications. Other humans, in light armor with axes and wooden shields rushing the beach. Behind them, Sigga striding onto land, nearly 30’ tall, the wind and waves following her command. With Sigga, a grim battalion of halflings, many with bows and shortswords, but in the front one carrying no visible weapons. As Sigga strides forward, tossing giant rocks at the stone walls of the fort, you feel the power of the storm rushing through you, lightning gathering in your mind, unleashing a bolt to strike down your enemies as the epic battle of Sigga against a dragon rages above you.
+
+
+A cold morning on a wavy beach, waking at dawn, offering a word of thanks to Sigga the giant beneath the waves, a wild storm passing offshore, flashes of lightning and peals of thunder seeming to acknowledge your presence, as if the storm itself were the manifestation of Sigga herself.
+
+%%
+
+%%
+
 The intention is that in 1400, there is broadly:
+
+@Mike: this probably needs a little revision in light of  Zimkova invention, but maybe not? 
+
 * Two highland realms: Ardlas and Lavnoch, each with a fairly different character
 	* Ardlas is Mos Numena, although with strong kestavan influences than elsewhere in Sembara, and broadly culturally aligned with Sembara, speaks the same language, but with an independent monarch and a very different system of government. This was originally a Drankorian province
 	* Lavnoch is kestavan and largely speaks Zimkan, having never been a Drankorian province. Has close ties to dwarven kingdoms, and is culturally aligned with the rest of Zimkova
@@ -61,6 +93,7 @@ The intention is that in 1400, there is broadly:
 * The Duchy of Brovna, based around Urlich Pass, very culturally aligned with Sembara, but independent and not acknowledging the Sembaran overlordship, and growing rich on the trade links that are being established with Chardon. Possibly somewhat Swiss inspired, with many independent cantons/villages and a very weak Duke. This place doesn't have to be very well developed as it gets entirely destroyed in the Great War
 * Tyrwingha, an independent fey-tinged place ruled by an elected monarch and Ethlenn's guidance
 * The core Sembaran duchies
+
 %%
 
 ## The Unification
@@ -70,11 +103,21 @@ DR 1400 - DR 1462, 7 Dominick IV - 34 Derik I
 ### Overview
 By the 1400s, a number of regional powers had started to emerge on the borders of [[Sembara]]. In the northwest, from the broad lands of [[Zimkova]], the realm of [[Lavnoch]] has emerged from the collapse of the short lived [[Zimkova|Unifed Crown of Zimkova]]. 
 
+%%@Mike: the above probably doesn't make sense anymore - I doubt there was ever a unified crown of Zimkova? %%
+
 The [[Duchy of Telham]], between the [[Teft]] and the [[Volta]], had grown substantially, and commanded the loyalty of many of the small lords along the coast and the river, but was closely tied by culture and intermarriage to [[Sembara]].
 
-In the west, the Duchy of Brovna had grown into a significant presence along the mountains, trading eagerly with the growing city of Chardon, and [[Ardlas]] was growing as well, trading with dwarves.
+In the west, the Duchy of Brovna had grown into a significant presence along the mountains, trading eagerly with the powerful city of Chardon, and [[Ardlas]] was growing as well, trading with dwarves.
+
+%%@Mike for context, Chardon begins to grow as an industrial power in the 1200s, with the paper and magical scroll industry taking off in the 1350s  - so this works well with increasing trade 
+
+Ardlas might need slight revisions. 
+
+%%
 
 South of [[Sembara]] were two major powers: the Kingdom of [[Tyrwingha]], which emerged from the fall of [[Drankorian Empire|Drankor]] largely intact and still under the guardianship of the [[Archfey Ethlenn]], and the [[Dominion of Avatus]], a rising military autocracy exerting overlordship of a number of scattered baronies and small lordships in the [[Mostreve Hills]], growing in power by taxing trade and recruiting mercenaries, largely [[Hobgoblins]].
+
+%% @Mike: this might need some slight revisions, (a) to write in addermarch which is central to resistance against Avatus, and (b) to clarify geography of the Dominion %%
 
 Into this moment, [[Derik I]], of a cadet branch of the [[House of Entranca]], establishes the modern Sembara after the defeat of the [[Dominion of Avatus]]. 
 ##
@@ -133,6 +176,8 @@ The reign of [[Derik II]] is relatively uneventful, and the traditions and forma
 The only thing that mars the peace of this era is increasing tensions among the Zimka. Several small wars break out between [[Ardlas]] and [[Lavnoch]], fighting over control of the headwaters of the Semb and [[Lake Derwent]], and with it access to the lucrative Dwarven trade. Although the violence never spills over into Sembara, trade is disrupted and what to do about the highlands is a constant question during the reign of [[Derik II]]. [[Derik II]], although a strong king and diplomat, is not the military leader his father was, and was reluctant to raise taxes for an invasion.  
 
 Several times the dwarves send diplomatic missions to Sembara, asking the king to deal with the humans making trouble, and several times Derik II says there is nothing he can do. By the 1490s, it is clear the situation is untenable, as at this point both the halflings and dwarves are complaining to the king and telling him to get these unruly humans under control before they take it into their own hands, to ensure stability, but at this point Derik II is old, and uncertain, and so nothing is done.
+
+%% @Mike: this may still work, but should be considered in light of Zimkova history. In addition, there is a common thread of "trading cities on Lake Derwent" that I think originally had a kind of Dale vibe but I'm not sure where they stand - not sure the vibe of big trading cities fits the Zimka%%
 
 [[Charlotte I]], Derik II’s daughter, inherits the crisis. Unwilling to let relations with the dwarves deteriorate further, Charlotte rides with a large army up the River Semb, and in a relatively bloodless series of campaigns forces [[Ardlas]] and [[Lavnoch]] to the negotiating table, asserting suzerainty over the territory of these kingdoms. Soon after, in 1508 DR, rumors of something terrible in the north are growing. 
 #### The Preamble to the Great War
@@ -239,3 +284,5 @@ Since DR 1713 (1 Robert I)
 - (DR:: 1717), fall: [[Robert I|Robert's]] daughter, [[Arabella|Arabella of Sewick]] dies in childbirth, her son apparently possessed by a demon. Rumors spread that [[Cece I|Cece's]] ill luck with children as being passed down to her son.
 - (DR:: 1717), late winter: [[Robert I|Robert's]] younger son, [[Thaddeus of Sewick|Thaddeus]] is shipwrecked off the coast of [[Cymea]], with his wife and young child, and is never heard from again
 - (DR:: 1718), early spring: The Royal Council meets over [[Robert I|Robert's]] objections and declares [[Elaine II]] the heir to the Sembaran throne. [[Robert I]] acquiesces, although he vows to remarry and produce a new heir from his body.
+
+%% needs some further development... %%
