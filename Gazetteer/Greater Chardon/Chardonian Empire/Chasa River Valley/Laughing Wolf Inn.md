@@ -1,12 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-campaignInfo: []
 name: Laughing Wolf Inn
 typeOf: inn
 whereabouts: Arendum
 dm_owner: none
-dm_notes: color
+dm_notes: none
 ---
 # The Laughing Wolf Inn
 >[!info]+ Information  

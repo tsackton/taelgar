@@ -11,7 +11,7 @@ gender: male
 whereabouts:
 - {type: home, location: Pyhlla}
 dm_owner: none
-dm_notes: color
+dm_notes: none
 ---
 # Tulvak
 >[!info]+ Biographical Info  
