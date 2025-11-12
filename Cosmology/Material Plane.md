@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-alias: [Prime Material Plane, Prime Realm, Mundane Realm, Mundane World]
+aliases: [Prime Material Plane, Prime Realm, Mundane Realm, Mundane World]
 typeOf: plane
 whereabouts: 
 - {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}

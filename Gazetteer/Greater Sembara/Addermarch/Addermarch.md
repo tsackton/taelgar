@@ -4,7 +4,7 @@ tags: [place]
 name: Addermarch
 typeOf: realm
 whereabouts: Greater Sembara
-alias: [Addermarian]
+aliases: [Addermarian]
 dm_owner: tim
 dm_notes: important
 ---
