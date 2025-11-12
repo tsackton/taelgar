@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person, status/needswork/gameupdate]
 affiliations: [Rodnya Voknaz]
-anestry: Urskan
+ancestry: Urskan
 species: human
 gender: male
 born: 1697

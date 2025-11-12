@@ -10,7 +10,7 @@ whereabouts:
 pronunciation: PIE-koh-lon
 dm_notes: none
 dm_owner: none
-alias: [Lake Pegokolonos]
+aliases: [Lake Pegokolonos]
 ---
 # Pykolon Lake
 *(PIE-koh-lon)*
