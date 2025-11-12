@@ -31,7 +31,6 @@ Though the Chasa valley suffered terribly during the [[Great War]] and the [[Con
 Small villages dot the valley every few miles, a handful of homes and farmsteads clustered near a small shrine or temple, where travelers can usually buy food or find a barn-loft for the night. Every day’s walk or so, a chartered market town gathers trade, with gridded streets, a proper square, baths, at least one temple, and an elected magistrate who keeps the peace and tallies the taxes. Larger towns may raise a palisade and host a garrison, projecting order across rings of outlying farms and riverside hamlets.
 
 
-
 %%^Campaign:none%%
 
 ### **Vibe & Use Notes**
