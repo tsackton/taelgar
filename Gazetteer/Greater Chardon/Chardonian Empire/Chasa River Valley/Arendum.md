@@ -19,6 +19,8 @@ Arendum is a substantial provincial town, with a frontier vibe. Built on the rui
 
 %% From Cape adventure briefing emails:
 * The road is reasonably busy, and goes all the way to Arendum, about 500 miles east at the edge of the Chardonian Empire, on the eaves of the Elderwood.
+
+
+Border town and timber capital of the Elderwood province. Built on the destroyed city-state of Kin-Aska, a pre-Great War settlement of mixed Drankorian and Northros population.
+
 %%
-
-
