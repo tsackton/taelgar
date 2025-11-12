@@ -15,6 +15,9 @@ A dead region where nothing grows along the Chasa, the site of a battle during t
 
 %% notes
 
+
+- Battle of Shadowfire site - this was a major defeat for Chardon and allies during the Blood Years, dragonfire burned the land and left a scar about 1/2 mile long and between 20-100 feet wide running parallel to the river, where nothing grows. This was once the front lines of the army, wiped out by the dragon advance. Many, many unburied dead lie here, their bodies turned to ash by dragonfire. The ruins of a major fortification also stand here, largely destroyed by the battle, but are considered haunted.
+
 Mile 255 from Chardon: Site of the [[Battle of Shadowfire]], a major Chardonian defeat.
 ## The Shadowfire Battle Site
 
@@ -27,5 +30,6 @@ Investigating in these ruins will turn up unquiet dead (ghosts, specters, wraith
 But a chance for treasure too - anything non-magical would have been melted by the dragonfire, but should be arrows of slaying around, as well as some +1 weapons.
 
 This is a dangerous place - the shadow hunter's allies will have extra strength here.
+
 
 %%
