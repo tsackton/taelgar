@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [species, status/check/mike]
+tags: [species, status/check/tim]
 name: Halflings
 aliases: [halfling, halflings, Halfling]
 dm_owner: joint
 dm_notes: none
 ---
 # Halflings
+
+%% Tim: only some notes in the "details for DMS" section %%
 
 On roads and riverways, and in every harbor along the [[Green Sea]], halfling caravans and crews are a familiar sight. Most folk know them as cheerful traders and tireless sailors, quick with a song or a story and quicker still to strike a fair bargain. They travel in tight‑knit family companies, keep excellent inns at busy crossroads, and have a reputation for remembering favors—and settling them—even generations later. Halflings commonly speak mind‑to‑mind among themselves, and their storytellers are famed for carrying memories older than any living person.
 ## Appearance
@@ -30,7 +32,6 @@ Some debate about the role of halflings in inventing or popularizing trade tongu
 ## Lifecycle
 
 Halflings reach maturity in their early 20s and commonly live a little past 100; a lucky few see longer. Families are broadly extended and communitarian in habit: caravans and ship crews are typically kin companies first and businesses second, with apprentices, in‑laws, and the occasional foundling folded into the roll.
-
 ## Settlements and Homelands
 
 Halflings are wanderers, claiming no singular homeland. Those that settle typically do so among other species. Halfling communities can be found in dwarven cities high in the mountains, human farming villages, bustling ports, cosmopolitan cities, and even the occasional lizardfolk river-town. Lively harbor taverns, bustling crossroads inns, and market‑side yards run by halfling families are commonplace in many parts of the world, for when halflings do settle, they tend to cluster where movement concentrates: at river landings, ports, crossroads, tollgates, and market environs. In many places, halfling‑kept inns act as wayhouses, mail drops, price boards, and hubs of halfling community, providing a homely welcome, information, and gossip to travelers, while also ensuring that even settled halflings remain threaded into the wider network of travel, trade, and kin.
@@ -45,7 +46,7 @@ Hospitality, memory, and fair dealing define their public face. Travelers speak 
 
 ### Religion
 
-Most halflings honor their firstborn creator gods, who they call the First Ones—Nwana (the Stranger and Child), Obito (the Music‑Maker and Merchant), and Jemghari (the Storyteller and Wanderer)—through songs, toasts, and shared remembrance rather than temples. Shrines are often places of good memory: a favored overlook, a quiet grove off the trade road, the hearth of a well‑kept inn. History‑bearers and story-keepers serve as the informal clergy of halfling communities, bearing and retelling the memories that bind kin together, marking beginnings and endings with prayers to remember well. In their telling, certain events, repeatedly retold, become layered memories, recalled not only as they occurred but as they were later narrated. Nonetheless, for many halflings, simply acknowledging and paying attention to their experience as they go through life is all that is needed to pay homage to their creators.
+Most halflings honor their firstborn creator gods, who they call the [[First Ones]]—[[Nwana]] (the Stranger and Child), [[Obito]] (the Music‑Maker and Merchant), and [[Jemghari]] (the Storyteller and Wanderer)—through songs, toasts, and shared remembrance rather than temples. Shrines are often places of good memory: a favored overlook, a quiet grove off the trade road, the hearth of a well‑kept inn. History‑bearers and story-keepers serve as the informal clergy of halfling communities, bearing and retelling the memories that bind kin together, marking beginnings and endings with prayers to remember well. In their telling, certain events, repeatedly retold, become layered memories, recalled not only as they occurred but as they were later narrated. Nonetheless, for many halflings, simply acknowledging and paying attention to their experience as they go through life is all that is needed to pay homage to their creators.
 
 ### The Shared Ancestral Mind
 
@@ -72,24 +73,30 @@ In these ancient tales of years, halflings tell of wandering even when the world
 
 
 %%^Campaign:None%%
+%% Mike note: I found  the Details for DMS below kinda AI-slop-ish. I did a bit of pulling out some stuff into the two sections below, and then left a "warning non-canon" beyond %%
 ## Details for DMs
-
+### Open Questions and Further Work
+* The religious experience is only lightly developed and no canon exists on the halfling creation story or metaphysics. Do the [[First Ones]] have a Divine Realm? How does this relate to the idea of a halfling ancestral consciousness?
+* Metaphysics: halflings presumably have a gifted soul from the First Ones, but does that have any further implications?
+* Language: what is the relationship between halflings and trade tongues. Does this need to be clarified? One idea: halflings invented trade tongues. Another idea: halflings popularized and maintain trade tongues
+* Language: does the actual spoken halfling language have a specific real world analog? 
+* Creation story is completely missing as is any sense of pre-Downfall history and origin and migration points. Some notes emphasize halflings concentrated around the Green Sea, while others imply wider early presence. Is the Green Sea a "homeland" of sorts, or not?
 ### Where You’ll Find Them
 - Generally, halflings can show up anywhere, traveling or settled
-- Common merchant sailors in the Green Sea, both in western ports, especially [[Tollen]], and farther east, where halfling crews run longer legs including [[Wahacha]] and the cold trading grounds near [[Praznitsky]].
-- Also common in the Nevos Sea, Gulf of Chardon, and points north and south. Occasional halflings make the dangerous crossing of the [[Sea of Storms]] to the strange ports to the south. 
-- Overland caravans vary between long distance connections (e.g., Sembara <-> Dunmar), and shorter, local routes. 
-- Halfling villages and towns don't really exist, however; when they settle it is with other species
+- Common everyone in the [[Green Sea]], throughout the rivers and roads of [[Sembara]], in the [[Nevos Sea]] and [[Gulf of Chardon]], amongst other places. Outside of a few very unique places ([[Ursk]], [[Xurkhaz]]) there is nowhere it would be implausible for a halfling to be
+- In general, most common as a travelling caravan or vessel; plausible as a settled community or small family group anywhere there is trade, roads - but an individual or small group could really be anywhere, for unique reasons
+- However, halfling villages and towns don't really exist; when they settle it is with other species
 
+
+
+%% Note the details beyond this point are AI-generated and are not necessarily canonical. Still needs review and integration into the main note if true %%
 ### Religion and Metaphysics
 - The [[First Ones]]—Nwana, Obito, and Jemghari—anchor halfling belief. Formal temples are rare or non-existant; shrines are often places of good memory and strong feeling.
 - Halflings share an ancestral memory (often called the soulmind in older brainstorming, but no canonical name) and commonly communicate mind‑to‑mind. History‑bearers serve as keepers of story and rite.
 - After death, memories are said to join the great halfling consciousness rather than linger as individual souls; priests claim this is why some memories feel “shared” among kin. 
-
 ### Trade Practices and Institutions
 - Route‑libraries and price boards at halfling wayhouses support route knowledge and commodity rate sharing across families
 - Guildhall‑style inns double as hiring posts, mail drops, and kin registries; caravans and ships post shares, crews, and routes.
-
 ### Ship & Caravan Crews
 
 - **Crew makeup:** Owner-clan often, but not always, supplies ≥50% of crew and most officers; remaining berths go to partner families and trusted independents (adventurous youths, land-clan sailors, shipwreck survivors, specialists).
@@ -124,8 +131,6 @@ In these ancient tales of years, halflings tell of wandering even when the world
 - They enjoy living life to its fullest no matter where they may be, and are eternal optimists even in dire times. 
 
 ### Conflicts and Open Questions
-- Geographic spread in earlier eras: some notes emphasize halflings concentrated around the eastern Green Sea, while others imply wider early presence. Clarify how far west halfling sea‑lanes and caravans reached before modern times.
-- Trade tongues: some discussions credit halflings with shaping the spread of Common; the languages overview frames Common as a human‑derived pidgin broadly adopted by halflings. Decide whether halfling influence was formative or primarily distributive.
 - Memory shrines: practice is described both as place‑based (natural overlooks, groves, hearths) and as memory‑network loci re‑experienced through the soulmind. Decide how overt or mystical this feels in play.
 - Ships and crews: Western Gulf voyages feel like traveling clans; long‑sea routes resemble professional share‑crews. Calibrate how often families bring elders and children aboard outside the Gulf.
 - Law and charters: scope of free‑movement treaties and folkland recognitions (especially in Sembara) varies by source; finalize the “Royal Observer” custom’s origin, term, and which family currently holds it.
