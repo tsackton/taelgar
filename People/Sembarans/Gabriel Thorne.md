@@ -6,7 +6,6 @@ born: 1690
 species: human
 ancestry: Sembaran
 gender: male
-affiliations: 
 whereabouts: Cleenseau
 affiliations: [{org: Thornes of Cleenseau, type: primary }]
 dm_notes: none

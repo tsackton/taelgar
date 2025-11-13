@@ -1,9 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [item]
 subTypeOf: magic
 image: wayfarer-bow.jpg
-typeOf: bow
+typeOf: weapon
+typeOfAlias: bow
 pcOwner: Wellby
 whereabouts: Wellby
 ddbLink: https://www.dndbeyond.com/magic-items/9218851-wayfarers-bow-shortbow

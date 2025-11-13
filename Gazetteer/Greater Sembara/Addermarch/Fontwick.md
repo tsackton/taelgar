@@ -2,7 +2,8 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Fontwick
-typeOf: village
+typeOf: settlement
+typeOfAlias: village
 dm_owner: none
 dm_notes: none
 whereabouts: Stonewolds

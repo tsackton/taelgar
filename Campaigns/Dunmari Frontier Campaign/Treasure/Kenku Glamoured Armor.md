@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [item]
 ddbLink: https://www.dndbeyond.com/magic-items/5793008-kenku-studded-leather-enhanced
 pcOwner: Wellby
 displayDefaults: {wOrigin: "", wOriginU: "", defArt: ""}
 typeOf: armor
-subTypeOf: magical
+subTypeOf: magic
 rarity: very rare
 ancestry: kenku
 image: kenku-glamoured-armor-wellby.jpy

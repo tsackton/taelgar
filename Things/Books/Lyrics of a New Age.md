@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/other]
+tags: [item]
 typeOf: book
 typeOfAlias: poem collection
 ancestry: Elvish

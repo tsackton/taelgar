@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [item]
 name: Ring of Water Walking
 displayDefaults: {defArt: "" }
-subTypeOf: magical
+subTypeOf: magic
 typeOf: ring
 image: ring-of-water-walking-clee.png
 pcOwner: Heroes of Cleenseau

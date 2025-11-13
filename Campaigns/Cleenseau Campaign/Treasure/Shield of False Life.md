@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [item]
 typeOf: armor
 typeOfAlias: shield
 image: shield-of-false-life.png
-subtypeOf: magic
+subTypeOf: magic
 ancestry: Drankorian
 whereabouts: Celyn
 pcOwner: Celyn

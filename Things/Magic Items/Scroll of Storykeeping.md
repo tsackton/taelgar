@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/other]
+tags: [item]
 displayDefaults: {defArt: ""}
 name: Scroll of Storykeeping
 typeOf: scroll

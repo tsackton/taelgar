@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/other]
+tags: [item]
 displayDefaults: {defArt: ""}
 name: Dragonhide Armor
 typeOf: armor
