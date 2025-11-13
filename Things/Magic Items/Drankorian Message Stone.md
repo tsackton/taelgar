@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/other]
+tags: [item]
 displayDefaults: {defArt: ""}
 name: Message Stone
-typeOf: wondrous item
+typeOf: wonderous item
 subTypeOf: magic
 ancestry: Drankorian
 rarity: 

@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/other]
-typeOf: mineral
-subtypeOf: magical
+tags: [item]
+typeOf: material
+typeOfAlias: mineral
+subtypeOf: magic
 dm_owner: tim
 dm_notes: important
 ---

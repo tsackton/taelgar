@@ -1,5 +1,5 @@
 ---
-tags: [item/other, status/stub]
+tags: [item, status/stub]
 dm_owner: none
 dm_notes: important
 ---

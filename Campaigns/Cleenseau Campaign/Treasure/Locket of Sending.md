@@ -1,6 +1,7 @@
 ---
-headerVersion: 2023.11.25
-tags: [item/magic]
+tags: [item]
+typeOf: necklace
+subTypeOf: magic
 name: Locket of Sending
 campaign: Cleenseau
 ---

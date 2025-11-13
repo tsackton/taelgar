@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/other]
+tags: [item]
 typeOf: book
-subTypeOf: magical
+subTypeOf: magic
 ancestry: Drankorian
 affiliations: [ {org: Occulta Ludum, title: Handbook }]
 dm_owner: tim

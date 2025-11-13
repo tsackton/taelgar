@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, item/equipment]
-typeOf: dagger
+tags: [status/stub]
+typeOf: weapon
+typeOfAlias: dagger
 dm_notes: important
 dm_owner: tim
 ---

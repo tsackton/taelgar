@@ -1,5 +1,5 @@
 ---
-tags: [item/other, status/check/ai]
+tags: [item, status/check/ai]
 typeOf: material
 subTypeOf: planar
 whereabouts: []

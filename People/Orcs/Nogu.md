@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags: [person]
 campaignInfo: [{campaign: DuFr, type: "freed from the [[Mirror of Soul Trapping]] into [[Lubash|Lubash's]] care", date: 1748-12-05, format: "<met:u> by <person> on [[Session 71 (DuFr)|<target>]] in <current:1>"}]
-name: Orc in the Mirror
 born: 1662
 species: orc
 ancestry:

@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/other]
+tags: [item]
 displayDefaults: { defArt: "" }
 typeOf: book
+ancestry: Drankorian
 dm_owner: none
 dm_notes: none
 ---

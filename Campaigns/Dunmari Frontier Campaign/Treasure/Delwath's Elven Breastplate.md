@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [item]
 typeOf: armor
+subTypeOf: magic
 ancestry: elven
 displayDefaults: {defArt: ""}
 ---
