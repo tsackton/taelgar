@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person, pc]
 species: halfling
-born: 1673
+born: 1678
 gender: male
 affiliations: 
 - {org: Oakstrides, type: primary}
@@ -15,32 +15,17 @@ whereabouts: Zimkova
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+![[finnan-oakstride.png|right|360]]Finnan Oakstride is a halfling storyteller, a wanderer, and a collector of tales. 
 
-FInnan Oakstride is a halfling storyteller, a wanderer, and a collector of tales. 
+Finnan was born on the road outside [[Telham]], and spend his childhood on the road, like many halflings. His parents were not merchants, or traders. Instead, they told tales, sang songs, and did some juggling and acrobatics, traveling with a group about about 10 other halflings in three small wagons, sometimes trading them for a riverboat. They moved around, usually drifting among the small towns along the [[Teft]] and [[Volta]], sometimes as far east as coastal [[Vostok]], occasionally as far northwest as [[Breva]]. In most small towns, they could at least get a good night's dinner for their time, and sometimes a place to sleep, if there was space -- but when there wasn't, the wagons sufficed. 
 
-(backstory - to flesh out a bit)
+It was a happy childhood, and Finnan loved the wonder of it. He learned to sing, and play (the fiddle was his usual performance; a small clay flute was his personal favorite), and even how to weave a touch of illusion magic into his stories. But what he actually loved to do more than anything was listen to the people in each small village. He started writing down songs, collecting the melodies of the folk tunes people sang at work, or in prayer, or for entertain in the long winters. 
 
-Born in lowlands somewhere - maybe Tollen, maybe Vostok. probably not Sembara. 
+As he grew into his young adulthood, he kept pushing to go to smaller and smaller places, the more isolated, the better. For it was in the isolated tiny villages in the hills where he found people who still sung old songs in an ancient language and told tales of the kestavo. Of course, these places rarely could manage to feed the full group, and even if they did, Finnan knew they couldn't really afford to. The family humored him, but always drifted back towards the coast, towards Tollen and Telham, and the smaller market towns dotting the lower reaches of the great rivers. 
 
-Family traveled a lot, like many halflings, but they were not merchants or traders; instead, they told tales, did tricks, sang songs. Usually they could get room and board, at least, even in the small villages along the teft or volta, or the little towns on the southern vostok coast. 
+When Finnan was 28, he amicably parted ways with his family and headed into the highland woods, on the slopes of the [[Sentinel Range|Sentinels]]. 
 
-Finnan learned a touch of illusion magic young (minor illusion cantrip)
-
-from his parents he learned how to play (the fiddler was his normal show instrument, but a small clay flute was his personal favorite), and how to perform, how to put on a show
-
-but what he actually loved to do was listen to the people of each village. he started writing down songs at first, collecting the melodies of the little villages he passed through, many of which had never been written down before.
-
-(vibe here is Olive Dame Campbell a little bit)
-
-he always wanted to go to smaller and smaller places, more and more isolated villages. the further north, the deeper in the words, the better, for it was there that he found old tales of the kestavo, old songs of the ancient people. even, he thought, lingering mentions of the great lizardfolk swamp from ancient days that the stories of his people say once was here. 
-
-of course the rest of his family - his parents, his two siblings (one older sister, one younger brother), and several cousins, aunts, and uncles (i imagine the troop was about 12-15 in all) - never wanted to go into the woods. the tiny villages couldn't feed them all, and even if they could, it was a burden on them. 
-
-the family would always drift back towards the coast, or at least the lower reaches of the volta, especially in the winters, often ending up in tollen or some such place. these had no interest to finnan. the tales were interested, but there were few new stories to hear in tolllen. 
-
-(the family probably traveled frequently by riverboat, heading up the volta in the spring and coming back to more shelered lands in the winter; sometimes venturing to the teft or one of the vostok rivers)
-
-by the time he reached his late 20s/early 30s he amicably parted ways with his family and heading inland towards the mountains. 
+---
 
 over next ~20 years presumably had some adventures, and met justas
 
@@ -50,3 +35,4 @@ during this time, he has been composing the tales of the kestavo and the songs o
 
 the vibe is not really a musician, although he does play, but rather spoken word / chanted storytelling set to fiddle music. 
 
+---
