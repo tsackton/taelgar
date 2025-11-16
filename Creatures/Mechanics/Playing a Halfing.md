@@ -8,7 +8,7 @@ dm_notes: none
 *See more: [[Halflings]], [[First Ones]]*
 D&D Beyond Link: [Halfling](https://www.dndbeyond.com/species/1755936-halfling)
 
-%% bounce back for some brainstorming on mechanics; could delete or leave as potential other options %%
+
 The whistle of the wind in the sails, on a ship crashing through the waves far from land. The clink of coin changing hands at the market. The crackle of the campfire and the smell of bacon and tomatoes sizzling after a long day of walking. The creak of a wagon lumbering to the next village, with a cheery tune emanating from within. [[Halflings]] love these things. A nomadic people who rarely settle in one place for long, halflings come and go with the rhythm of the seasons, making money, friends, or both along the way.
 
 Halflings are wanderers and travelers, merchants and sailors, storytellers and poets, often seen in the communities of other species. Though many halflings are nomadic, and rarely settle in one place for long, they are deeply connected to each other by a unique ancestral consciousness mediated by their gods, the [[First Ones]], which allows them to communicate telepathically and remember fragments of their ancestors' knowledge and lives. Halflings, while not as numerous as humans, are frequent sights across the realms of many species of Taelgar. Cheerful and friendly with outsiders, but private and protective of their kin and traditions, halfling traders, wanderers, and storytellers keep the world connected. 
@@ -56,23 +56,10 @@ Halflings are generally small, quick, charming and adaptable wanderers. You may 
 - _Nwana's Grace_. You can move through the space of any creature that is of a size larger than yours, and you can use your Dexterity modifier, instead of your Strength modifier, for any Strength check to climb, swim, or jump. This does not change your default jump distance.
 - _Nwana's Stealth_. You can take the [Hide](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HideAction) action even when you are obscured only by a creature that is at least one size larger than you.
 - _Obito's Charm_. You can use a Bonus Action to project a minor telepathic aura that extends to the range of your Silent Speech. Choose one creature you can see that is within the aura. The next time you take the [Influence](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InfluenceAction) action against the target, while the target is in your telepathic aura, you have Advantage on the d20 Test. Once you use this ability, you cannot use it again until you finish a short or long rest.
-- _Obito's Knowledge_. You have a knack for picking up new things. You gain your choice of one tool proficiency. In addition, the amount of downtime required for you to learn a new tool proficiency is reduced by half. 
+- _Obito's Knowledge_. You have a knack for picking up new things. You gain your choice of one tool proficiency. In addition, you can act as an assistant when crafting items, as if you were proficient in a tool, even if you lack proficiency. 
 - _Jemghari's Bravery_. You have advantage on saving throws against being frightened.
-- _Jemghari's Speech._ You learn two languages. In addition, you only require one-third as much downtime as normal to learn a new language.
+- _Jemghari's Speech._ You have a intuitive understanding of speech and language patterns. You learn two languages, and you may communicate one to three word sentences with any creature, as long as it speaks a language, even if you do not understand the language.
 
-%% 
-One comment from Mike: the downtime rules for learning new languages and tools are not necessarily standard D&D or relevant to most games. I wonder if there is a different way to flavor this that doesn't depend on those rules - either by granting a bonus at a higher level, or by granting some type of additional ability. Not committed to any of the ideas below, just tossing out there if any of them seem relevant. I'd probably pick Speech 3 / Knowledge 1.
-
-A few ideas:
-Jemghari's Speech Option 1: You learn one language. In addition, whenever you gain a new Ability Score Increase, you may learn a new language as well.
-Jemghari's Speech Option 2: You learn two languages. In addition, you may learn an additional language at character levels 7 and 14.
-Jemghari's Speech Option 3: You learn two languages. In addition, you have a intuitive understanding of speech and language patterns. You may communicate one to three word sentences with any creature, as long as it speaks a language, even if you do not understand the language.
-
-Obito's Knowledge Option 1: You gain your choice of one tool proficiency.  In addition, whenever you make an ability check that uses a tool proficiency you lack, you can add half your proficiency bonus (rounded up) to the roll.
-Obito's Knowledge Option 2: You gain your choice of one tool proficiency.  When you finish a long rest, choose one tool proficiency. Until your next long rest, you are considered proficient with that tool.
-Obito's Knowledge Option 3: You gain your choice of one tool proficiency.  In addition, you may learn an additional tool proficiency at character levels 7 and 14.
-Obito's Knowledge Option 4: You gain your choice of one tool proficiency, or, if you are already proficiency, expertise in one tool proficiency. In addition, you can act as an assistant when crafting items, as if you were proficient in a tool, even if you lack proficiency. 
-%%
 
 %%^Campaign:none%%
 **Notes:**
@@ -88,4 +75,20 @@ Silent Speech is strong, but not that much stronger than the Message cantrip, pr
 Luck is situationally strong but not that much better than 1/day Heroic Inspiration
 Memory of the Ancestors not that different from a skill proficiency, although hard to exactly value
 Halfling Talent is not quite 1/2 an origin feat, but as other features are on the strong side this seems fine. 
+
+Leaving for brainstorming -- adopted Speech 3 and a variant of Knowledge 4
+
+One comment from Mike: the downtime rules for learning new languages and tools are not necessarily standard D&D or relevant to most games. I wonder if there is a different way to flavor this that doesn't depend on those rules - either by granting a bonus at a higher level, or by granting some type of additional ability. Not committed to any of the ideas below, just tossing out there if any of them seem relevant. I'd probably pick Speech 3 / Knowledge 1.
+
+A few ideas:
+Jemghari's Speech Option 1: You learn one language. In addition, whenever you gain a new Ability Score Increase, you may learn a new language as well.
+Jemghari's Speech Option 2: You learn two languages. In addition, you may learn an additional language at character levels 7 and 14.
+Jemghari's Speech Option 3: You learn two languages. In addition, you have a intuitive understanding of speech and language patterns. You may communicate one to three word sentences with any creature, as long as it speaks a language, even if you do not understand the language.
+
+Obito's Knowledge Option 1: You gain your choice of one tool proficiency.  In addition, whenever you make an ability check that uses a tool proficiency you lack, you can add half your proficiency bonus (rounded up) to the roll.
+Obito's Knowledge Option 2: You gain your choice of one tool proficiency.  When you finish a long rest, choose one tool proficiency. Until your next long rest, you are considered proficient with that tool.
+Obito's Knowledge Option 3: You gain your choice of one tool proficiency.  In addition, you may learn an additional tool proficiency at character levels 7 and 14.
+Obito's Knowledge Option 4: You gain your choice of one tool proficiency, or, if you are already proficiency, expertise in one tool proficiency. In addition, you can act as an assistant when crafting items, as if you were proficient in a tool, even if you lack proficiency. 
+
+
 %%^End%%
