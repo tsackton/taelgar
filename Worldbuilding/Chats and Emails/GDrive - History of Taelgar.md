@@ -599,7 +599,7 @@ GREEN SEA
 
 5678 Great War ends, Cha’mutte defeated
 
-5562 Defeat of Atavus
+5562 Defeat of [[Avatus]]
 
 5561 Derik I crowned king of Sembara and Tyrwingha
 
