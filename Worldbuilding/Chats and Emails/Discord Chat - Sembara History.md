@@ -563,7 +563,7 @@ assets/avatus-symbol-sketch.png
 
 
 [1/5/2024 11:55 AM] .deciusmus
-Any concerns? This is coming up in my game via some undead warriors ressurected from battlefields of the Atavus wars
+Any concerns? This is coming up in my game via some undead warriors ressurected from battlefields of the [[Avatus]] wars
 
 
 [1/5/2024 11:56 AM] rsulfuratus

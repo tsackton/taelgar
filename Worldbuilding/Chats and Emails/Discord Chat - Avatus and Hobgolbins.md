@@ -40,7 +40,7 @@ with humans
 
 
 [11/4/2023 9:59 AM] .deciusmus
-Right. I might tweak the Atavus period history a bit. Actually Atavus was explicitly not allied with Cha’mutte, right?
+Right. I might tweak the [[Avatus]] period history a bit. Actually [[Avatus]] was explicitly not allied with Cha’mutte, right?
 
 
 [11/4/2023 9:59 AM] rsulfuratus
@@ -48,7 +48,7 @@ correct
 
 
 [11/4/2023 10:00 AM] .deciusmus
-Maybe Atavus doesn’t sack the town at all and the halfling community especially has an uneasy truce with him.
+Maybe [[Avatus]] doesn’t sack the town at all and the halfling community especially has an uneasy truce with him.
 
 
 [11/4/2023 10:01 AM] .deciusmus
@@ -64,7 +64,7 @@ that definitely would work
 
 
 [11/4/2023 10:03 AM] rsulfuratus
-in my notes Revaka - the hobgoblin in the mirror who was trapped by Cha'mutte for refusing to join his armies - was the granddaughter of the court magician for Atavus
+in my notes Revaka - the hobgoblin in the mirror who was trapped by Cha'mutte for refusing to join his armies - was the granddaughter of the court magician for [[Avatus]]
 
 
 [11/4/2023 10:03 AM] .deciusmus
@@ -72,7 +72,7 @@ Right
 
 
 [11/4/2023 10:04 AM] rsulfuratus
-so Cha'mutte wasn't super-active during Domain of Atavus anyway, or at least was not active enough that he was punishing hobgoblins who didn't join his side
+so Cha'mutte wasn't super-active during Domain of [[Avatus]] anyway, or at least was not active enough that he was punishing hobgoblins who didn't join his side
 
 
 [11/4/2023 10:04 AM] .deciusmus
@@ -80,12 +80,12 @@ Right
 
 
 [11/4/2023 10:05 AM] rsulfuratus
-but it would be quite interesting to make the hobgoblin survivors of the domain of atavus carry with them anti-cha'mutte attitudes (presumably hobgoblins were aware of him even that far back)
+but it would be quite interesting to make the hobgoblin survivors of the domain of [[Avatus]] carry with them anti-cha'mutte attitudes (presumably hobgoblins were aware of him even that far back)
 
 
 [11/4/2023 10:05 AM] .deciusmus
 So basically you have:
-- Atavus, wants to conquer, enslaved the town
+- [[Avatus]], wants to conquer, enslaved the town
 
 
 [11/4/2023 10:06 AM] .deciusmus

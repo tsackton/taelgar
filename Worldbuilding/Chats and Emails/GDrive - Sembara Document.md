@@ -267,13 +267,13 @@ While Sembara thrived during the long peace, underneath, the seeds of conflict g
 
   
 
-In DR 1425, Atavus saw an opportunity. With a mercenary army consisting largely of hobgoblins and vicious werewolves, he launched an invasion across the Enst. A series of disasters befell the Sembarans -- the Duke of Cheimin refused to march his troops south of the Wistel, three hundred knights from Seham were lost in a summer storm at sea, and the muster of Arnsbury sent only half the men due to crown, claiming insufficient horses. And the expected help from Tyrwingha fails to materialize -- the Queen herself commanded her knights to stay within the Tyrwinghan borders. And so the Sembaran army, defeated on the field, retreated with half its force to winter north of the Wistel, and the ~MilitaryDictator~ paused to consolidate his gains, and prepared to strike north and east.
+In DR 1425, [[Avatus]] saw an opportunity. With a mercenary army consisting largely of hobgoblins and vicious werewolves, he launched an invasion across the Enst. A series of disasters befell the Sembarans -- the Duke of Cheimin refused to march his troops south of the Wistel, three hundred knights from Seham were lost in a summer storm at sea, and the muster of Arnsbury sent only half the men due to crown, claiming insufficient horses. And the expected help from Tyrwingha fails to materialize -- the Queen herself commanded her knights to stay within the Tyrwinghan borders. And so the Sembaran army, defeated on the field, retreated with half its force to winter north of the Wistel, and the ~MilitaryDictator~ paused to consolidate his gains, and prepared to strike north and east.
 
 Into this moment rode Derik I, a distant relative of the current king, but far from the kingship himself. He had married the second daughter of the Duchess of Telham, on the Northlands coast, and had made a name for himself as a military commander in a series of skirmishes against pirates on the coast, in alliance with Tollen mercenaries and halflings.
 
   
 
-In the months following the advance of Atavus to the Wistel, a lizardfolk elder had approached Derik, and told him of an omen: he was prophesied to raise a mighty Sembara to form a pillar of strength in the dark times to come, and if he did not overthrow Avatus, the smallest cloud in the coming storm, the darkest shadows of today would seem like the brightest diamonds of tomorrow. But it was also foretold, this elder said, that only the Princess of the Mist could herald his coming.
+In the months following the advance of [[Avatus]] to the Wistel, a lizardfolk elder had approached Derik, and told him of an omen: he was prophesied to raise a mighty Sembara to form a pillar of strength in the dark times to come, and if he did not overthrow Avatus, the smallest cloud in the coming storm, the darkest shadows of today would seem like the brightest diamonds of tomorrow. But it was also foretold, this elder said, that only the Princess of the Mist could herald his coming.
 
   
 

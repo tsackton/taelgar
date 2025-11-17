@@ -40,7 +40,7 @@ in either case, it becomes part of the Sembaran crown during Derik I's rule, aft
 
 
 [9/1/2024 5:45 PM] .deciusmus
-I’m not convinced that Atavus stuff has to be canonical
+I’m not convinced that [[Avatus]] stuff has to be canonical
 
 
 [9/1/2024 5:46 PM] .deciusmus
@@ -514,7 +514,7 @@ and would be done with vectors so zoomable
 
 
 [9/2/2024 4:26 PM] .deciusmus
-I read your addermarch  history which in general I quite like. The idea of the rangers originating as guerilla bands against Atavus in the 1400s is very appealing
+I read your addermarch  history which in general I quite like. The idea of the rangers originating as guerilla bands against [[Avatus]] in the 1400s is very appealing
 
 [9/2/2024 4:38 PM] .deciusmus
 One thought on addermarch - the history of 1720-1740 might be a bit hard to work out esp as it relates to Duskmire and the fey. I’m not sure if you are planning much fey involvement in the family campaign though

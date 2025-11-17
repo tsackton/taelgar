@@ -240,7 +240,7 @@ August 6, 2025
     
     ### Deciusmus _—_ 8/6/25, 10:17 AM
     
-    A few thoughts/notes... (a) My thinking re: Maseau has been entirely post-Atavaus, basically on the assumption that whatever was there before was radically transformed by the dominion of Atavus and therefore not relevant to later Sembaran history. (b) Cleenseau History Notes are worth reading re: Great South Road. There was a human settlement on the south bank of the Enst around the fall of Drankor, and the Dukes of Wisford controlled Cleenseau region (but probably not south of the Enst) from the 1200s or so (i.e. pre-Sembara)
+    A few thoughts/notes... (a) My thinking re: Maseau has been entirely post-Atavaus, basically on the assumption that whatever was there before was radically transformed by the dominion of [[Avatus]] and therefore not relevant to later Sembaran history. (b) Cleenseau History Notes are worth reading re: Great South Road. There was a human settlement on the south bank of the Enst around the fall of Drankor, and the Dukes of Wisford controlled Cleenseau region (but probably not south of the Enst) from the 1200s or so (i.e. pre-Sembara)
     
 48. _[_10:21 AM_]_
     

@@ -1,6 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/needswork/shared]
+tags:
+  - historical
+  - person
+  - status/needswork/shared
 name: Avatus
 born:
 species: human

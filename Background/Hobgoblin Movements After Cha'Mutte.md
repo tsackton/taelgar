@@ -14,7 +14,7 @@ Draws heavily from:
 - [[Discord Chat - Grand Sweep of History]]
 
 See also (primarily for Sembaran context):
-- [[Discord Chat - Avatas and Hobgolbins]]
+- [[Discord Chat - Avatus and Hobgolbins]]
 - [[Discord Chat - Fellburn]]
 - [[Discord Chat - Sembara History]]
 - [[Discord Chat - Rangers and Elves]]
