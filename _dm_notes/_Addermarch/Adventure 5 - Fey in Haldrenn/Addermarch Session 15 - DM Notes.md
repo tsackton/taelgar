@@ -83,4 +83,9 @@ yvan makes a very good likeness of the dead body with painter's kit
 tell town
 head toward roscombe and caradoc
 talk to caradoc - he reveals he went by (check name) while in the feywild, but hasn't been in many years. worried, tells them about morlaith (which they already know). says if they are going into danger should stop by, he has some old adventuring gear for them
-talk to owen tavish before dinner - tells 
+talk to owen tavish before dinner - tells them about history of war with avatus, confirms king on coins is derik i - connection to serpentine dagger
+suggests battlefields is a good next step if they want to learn more
+
+
+---
+Caradoc pulls Fazoth aside, tells him he knows of his family, and they should say Caradoc is (fey name - look up)
