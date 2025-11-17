@@ -49,12 +49,23 @@ The post-Drankor crises might be a fun time to set a game sometime, and this is 
 
 The "Great War" period is also worth revisiting at some point, but largely functions to set up the parts of the high school campaign we want to retain in world history. In particular, most of this history is oriented around positioning Dunmar, Chardon, Isingue, and Sembara to be the major powers that ally to fight against Cha'mutte. 
 
-The middle period has only a few clear trendlines / canonical facts:
+The middle period has a few clear trendlines / canonical facts:
 
 In the west, the coastal powers of Mawar and Castrella are particularly dominant, but Chardon is growing as an industrial and magical power. A number of realms (Amani, Volganis, Kin-Aska, others) are established but destroyed during the brutal Conclave War and the subsequent wars. There is a lot of space for lost history here, but generally speaking the history of this region has little bearing on current day realms, as the Conclave War and subsequent events were basically a reset. 
 
-In the south there is a well-established framework for Dunmari history, with the 
+In the south there is a well-established framework for Dunmari history, with the fall of the [[Aatmaji Dynasty]] and the rise of Jita and the [[Dharajun Dynasty]], which leads up to the Great War. 
 
+On the Green Sea, the Skaer and Cymea compete for maritime supremacy. 
+
+Sembara has a clear trajectory, growing from the Six Duchies to a true kingdom under Derik I. 
+
+Many brainstorming notes have a Cymea <-> Isingue <-> Dunmar <-> West trade axis, with Sembara a backwater, cut off by Avatus.
+
+### A Possible History
+
+So, one version of events has something like this, focusing on Greater Sembara / Upper Istaros:
+
+- By ~1250 or so, you have Isingue firmly established as a major cultural center around a growing network of fairly democratic communities. Probably stretching from something like modern day Uzgukhar, west to Dunmar, and north into something like modern day March of Andonne. To the north is small, poor duchies and independent kingdoms in what is now Massaeu. To the east whatever is in south Cymea. To the northeast Orenlas and Cymea, and then Addermarch and Tyrwingha. 
 
 ### Events 1059 - 1400
 ```dataviewjs
