@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [species, status/check/tim]
+tags: [species, status/check/ai]
 name: Halflings
 aliases: [halfling, halflings, Halfling]
 dm_owner: joint
@@ -8,7 +8,7 @@ dm_notes: none
 ---
 # Halflings
 
-%% Tim: only some notes in the "details for DMS" section %%
+%% bouncing back to status/check/ai to resolve AI slop in DM notes%%
 
 On roads and riverways, and in every harbor along the [[Green Sea]], halfling caravans and crews are a familiar sight. Most folk know them as cheerful traders and tireless sailors, quick with a song or a story and quicker still to strike a fair bargain. They travel in tight‑knit family companies, keep excellent inns at busy crossroads, and have a reputation for remembering favors—and settling them—even generations later. Halflings commonly speak mind‑to‑mind among themselves, and their storytellers are famed for carrying memories older than any living person.
 ## Appearance
