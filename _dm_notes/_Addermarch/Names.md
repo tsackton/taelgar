@@ -71,7 +71,6 @@
 **8. Female Soldier**
 
 - **Bronwen Archer** *(BRON-wen AR-cher)*
-- **Colette du Bois** *(ko-LET doo BWAH)*
 - **Niamh  *(NEEV mac-KEN-ah)*
 
 *Fearless, agile, sharp-eyed, bold, determined.*
@@ -80,7 +79,7 @@
 
 **9. Priest (Female)**
 
-- **Sister Aelwen** *(AYL-wen)*
+- **Sister 
 - **Mother Elinor du Grace** *(EL-in-or doo GRASS)*
 - **Abbess Catrin de Claire** *(KAT-rin de CLAIR)*
 

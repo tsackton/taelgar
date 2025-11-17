@@ -10,8 +10,6 @@ XP:
 This session:
 - 500 XP for defeating Singing Tree
 - 250 XP for rescuing trapped fey
-
-Upcoming:
 - 400 XP for closing portal
 
 
@@ -160,3 +158,5 @@ will regrow of course - not permanent by any means - but will take longer (meta,
 ---
 return to town after stopping to camp for the night and long rest. end in mid-afternoon of the next day as arrive back at haldrenn. 
 (meta: clock starts at midnight on day they arrive back to town, so the midnight prior; each midnight ticks up by one, so the next midnight count will be at 1)
+
+---
