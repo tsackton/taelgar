@@ -233,14 +233,202 @@ Approximate, focusing on Avatus and his dominion rather than later mirror histor
   - [[Cleenseau History Notes]] – detailed account of Cleenseau during Avatus’s wars.  
   - [[Avatus]] – basic biographical sketch, including “New Drankorian Emperor” flavor.  
   - [[Mirror of Soul Trapping]] & [[Revaka]] – detailed backstory of Avatus’s court wizard, the mirror’s creation, and its post‑Avatus history.  
-
+  
 - **Older or explicitly provisional:**  
   - [[A Chronicle of Sembaran History]] – superseded in places by Timeline of Sembaran History but still useful for flavor (especially Cha'mutte as puppet‑master).  
   - [[Tyrwingha - Ideas]] and “GDrive – Sembara Document” – mythic narrative of [[Avatus]]/Avatus and Derik I, strong on Tyrwinghan perspective and prophecy but written as brainstorming.  
   - [[Discord Chat - Avatus and Hobgolbins]], [[Discord Chat - Sembara History]], [[Discord Chat - Addermarch]], [[Discord Chat - History of Western Green Sea]] – rich for intent and vibe, but not always aligned with later writeups; good guidance for tone and unresolved questions.  
 
----
+## Intervening History: Fall of Drankor to Derik I (AI Summary)
 
+This section aggregates major events and developments across the setting between the **Fall of Drankor in (DR:: 1059)** and the rise of [[Derik I]] in the early 1400s DR.
+
+### Post‑Drankor Collapse and Refugee Movements
+
+- The **[[First Plague]]** in (DR:: 1059) destroys [[Drankor]] and ends the [[Drankorian Empire]], killing most of the heartland population and cursing the region around the old capital.  
+  - Sources: [[First Plague]], [[Drankorian Empire]], [[Canonical Events]], [[Historical Framework]].  
+- Large numbers of refugees, especially wizards and scholars, flee west to **[[Chardon]]**, which quickly becomes a major center of learning and trade.  
+  - (DR:: 1059): Population swells to ~20,000; defensive works expanded.  
+  - (DR:: 1072): Population reaches ~40,000; wooden palisade replaced with stone walls.  
+  - (DR:: 1099): Population reaches ~60,000; stone wharves built; grain trade from the [[Chasa River Valley]] booms.  
+  - Sources: [[Chardon]], [[Great Library]], [[University of Chardon]].  
+- The **[[Great Library]]** in Chardon grows out of the **Sibyline Archives**; following the fall of Drankor, it is expanded in (DR:: 1063) to preserve rescued imperial knowledge.  
+  - Source: [[Great Library]].  
+- The fall of Drankor reshapes river names and identities: the **[[Istaros]]** (Aistanë) name is increasingly used by human cultures in the years after the plague, replacing older Drankorian terms.  
+  - Source: [[Istaros]].  
+
+### Rise of Dunmar and Eastern Realignment
+
+- Immediately after the First Plague, the **[[Dunmar|Dunmari]] migration** crosses into the devastated heartland, cleansing lingering plague‑magic and founding a new realm atop Drankor’s ruins.  
+  - In CY‑dating: (CY:: 5304) Dunmari migration reaches the [[Istaros|Mahar]], (CY:: 5306) Dunmar conquers and consolidates the basin.  
+  - Sources: [[Canonical Events]], [[Historical Framework]], [[Bhishma]], [[Dunmar]].  
+- Towns like **[[Tokra]]** are resettled as minor outposts in the late 1100s DR, anchoring Dunmar’s overland routes:  
+  - (DR:: 1183): Tokra resettled by Dunmari settlers.  
+  - (DR:: 1184): The **[[Lakan Monastery]]** is founded nearby.  
+  - Sources: [[Tokra]], [[Elven Arborea Workshop]].  
+- The Lakan monks uncover and begin studying older elven and planar sites (e.g., an **[[Extraplanar Weak Point]]** to [[Arborea]]) in the 1100s–1300s DR, establishing Dunmar as a key locus of post‑Drankorian magical scholarship.  
+  - (DR:: 1194): Lakan monastery founded atop ruined elven workshop.  
+  - (DR:: 1387): Lakan monks excavate the elven cave system and rediscover the weak point.  
+  - Source: [[Elven Arborea Workshop]].  
+
+### Formation of the Six Duchies and Sembaran Core
+
+- By **(DR:: 1142)**, **[[Adrian]]** establishes himself in [[Embry]] as the first **Duke of Sembara**, marking the start of distinct post‑Drankorian Sembaran polity.  
+  - Sources: [[Timeline of Sembaran History]], [[Canonical Events]].  
+- By **(DR:: 1250)**, the **Six Duchies era** is in full swing: coastal lowland polities have stabilized into the duchies that later form the heart of Sembara—[[Duchy of Sembara|Sembara]], [[Duchy of Cheimen|Cheimen]], [[Duchy of Wisford|Wisford]], [[Duchy of Seham|Seham]], [[Duchy of Telham|Telham]], and [[Duchy of Arnsbury|Arnsbury]].  
+  - At the same time, border duchies [[Marches of Brovna|Brovna]] and [[Ardlas]] emerge in the highlands; [[Tyrwingha]] consolidates under the [[Oracle of the Riven]] and [[Archfey Ethlenn]].  
+  - Source: [[Timeline of Sembaran History]].  
+- To the south, the **[[Istabor Alliance]]** begins coalescing in fertile lands vacated or weakened by Drankor’s fall, drawing migrants away from marginal land in Sembara’s hinterlands.  
+  - Source: [[Timeline of Sembaran History]], [[Historical Framework]].  
+
+### Growth of Chardon as a Post‑Imperial Hub
+
+- In the centuries after Drankor’s fall, **Chardon** transforms from a provincial city into a major intellectual and economic hub:  
+  - The **[[University of Chardon]]** expands in (DR:: 1065), integrating refugee scholars and solidifying Chardon’s academic identity.  
+  - By the 1200s–1300s DR, Chardon’s **paper mills** and industrial infrastructure (e.g., the [[Mill Channel]] and [[River Bridge (Chardon)|River Bridge]]) fuel a growing magical‑industrial economy.  
+  - (DR:: 1324): Population reaches ~100,000; old city walls take their current shape.  
+  - (DR:: 1366–1374): Major waterworks and the River Bridge are built.  
+  - Sources: [[Chardon]], [[Great Library]], [[University of Chardon]], [[Greater Chardon]].  
+
+### Broader Cultural and Religious Shifts
+
+- The **Kestavan** and mariner religious traditions in the north gradually give way to **Mos Numena** and Dunmari‑style worships in the post‑Drankorian centuries, though older folk practices persist in highlands and among the [[Zimkova]].  
+  - Sources: [[Human Cultures of Taelgar]], [[Timeline of Sembaran History]], “GDrive – Sembara Document”.  
+- The **Dunmari Pantheon**, especially [[Bhishma]] and the **Five Siblings**, becomes central to the spiritual identity of Dunmar, explicitly tied to cleansing the plague curse left by Drankor.  
+  - Sources: [[Bhishma]], [[Dunmar]], [[The Divine Order]].  
+
+
+## Western Green Sea Historical Brainstorming (AI Summary)
+
+(these are notably worse than previous AI summaries - I think because context is getting full)
+
+Focus: **post‑Drankor, pre‑Great‑War** (roughly (DR:: 1059)–(DR:: 1462)) developments in the Western Green Sea and adjacent regions—Tollen, Cymea, Isingue/Istabor, the Istaros basin, Dunmar, Orenlas—leaving earlier Drankorian and later Great‑War/Blood Years details as context only. Where helpful, this section incorporates additional detail from Discord/email notes such as [[Discord Chat - Green Sea]], [[Email - Skaer]], [[Isingue Notes]], and [[Email - Player Background on Aurbez]].
+
+### Tollen and Tollish Power after Drankor
+
+- After the **First Plague** destroys Drankor (DR:: 1059), Tollen emerges from Drankorian oversight as a **fully independent city‑state** rather than a de‑facto protectorate.  
+  - Previously, under the [[Treaty of Marhavn]], Tollen’s foreign policy was effectively controlled by Drankor while it retained “Free City” status; with the imperial center gone, Tollender merchant houses have space to maneuver.  
+  - Sources: [[Tollen]], [[Drankorian Empire]], [[Timeline of Sembaran History]], [[Humanity in Greater Sembara]].  
+- 11th–13th centuries DR:  
+  - Tollen capitalizes on its **mixed Drankorian–Skaer–Zimka heritage**, becoming a conduit between:  
+    - Sembaran lowlands and highlands.  
+    - The recovering Drankorian hinterland and emerging Dunmar.  
+    - Coastal Vostok, the Skaer islands, and Cymea.  
+  - The **[[University of Tollen]]** grows into a serious center of magical learning, rivaled in the Western Green Sea only by some Cymean institutions and later by Chardon on the western edge.  
+  - Sources: [[Tollen]], [[University of Tollen]], [[Humanity in Greater Sembara]].  
+- By the **1300s–early 1400s DR**, Tollen is a **major mercantile and intellectual node**:  
+  - Its fleets and caravans move along the Vostok coast and toward Cymea, though full Tollender control of the Straits of Cymea is a **post‑Great‑War** development; in this era, Tollen is growing into that role rather than fully owning it.  
+  - Tollish culture spreads south into [[Duchy of Telham]] and along the coast, blending with Sembaran and Zimkovan traditions.  
+  - Sources: [[Tollen]], [[Humanity in Greater Sembara]].  
+
+### Cymea and Istabor between Plague and Great War
+
+- At the **moment of Drankor’s fall**, the western Green Sea coast and Istabor valley are firmly organized as wealthy Drankorian provinces (cotton + grain belts) with strong cultural ties to the imperial core.  
+  - Brainstorming notes stress that both [[Cymea]] and [[~South Cymea~]] are long‑term Drankorian provinces, built atop lands that were once a vast lizardfolk swamp and elven forest; by the fall of Drankor, northern Cymea is strongly Drankorian in culture and religion.  
+  - Sources: [[Green Sea Brainstorming]], [[Drankorian Empire]], [[Drankorian Empire - Open Questions]].  
+- 11th–12th centuries DR:  
+  - With the imperial center shattered, **Cymean coastal provinces** and **Istabor lowlands** continue under local elites—governors, military officers, or merchant magnates—who inherit Drankorian infrastructure but lose central coordination.  
+  - Trade continues through local ports and overland routes, but becomes more regionally focused (e.g., to Tollen, early Dunmar, and nearby city‑states) rather than empire‑wide.  
+  - At the same time, former Skaer coastal enclaves in Cymea retreat culturally back toward the Skaerhem and northern Green Sea, leaving only thin Skaer footprints where Drankor was entrenched.  
+  - Sources: [[Humanity in Greater Sembara]], [[Green Sea Brainstorming]], [[Historical Framework]], [[Email - Skaer]].  
+- 1200s–1300s DR:  
+  - Cymea remains **prosperous but politically fragmented**. City‑states and minor realms flourish along the coast and islands, claiming Drankorian heritage and competing for influence.  
+  - The **Istabor valley city‑states** (later formalized as the [[Istabor Alliance]]) grow wealthy off river trade and agricultural production, interacting with Dunmar to the east and Tollen/Sembara to the north and west.  
+  - In later centuries Cymea sees itself as the **heir of Drankor** in the western Green Sea—rich in magic, ruins, and old cities—but its political fragmentation and limited naval reach make it vulnerable to Tollender and halfling dominance at sea.  
+  - Sources: [[Humanity in Greater Sembara]], [[Istabor Alliance]], [[Historical Framework]], [[Green Sea Brainstorming]], [[Unsorted]].  
+
+### Isingue and the Proto‑Istabor Alliance
+
+- **[[Isingue]]** is a Drankorian‑derived culture centered east of the Mostreve Hills and north of the Istabor valley. After the fall of Drankor, it remains culturally Drankorian but increasingly autonomous.  
+  - Its language and religious practice (Mos Numena variants) are closely related to those of southern Sembara and Cymean provinces, but it retains distinct traditions and elites.  
+  - Source: [[Humanity in Greater Sembara]], [[Languages]].  
+- Between DR 1200–1400:  
+  - Isingue and neighboring city‑states in the Istabor valley form **regional leagues** for mutual defense and trade, precursors to the more formal [[Istabor Alliance]] described in Great‑War‑era notes.  
+  - The Istabor river corridor acts as a principal conduit between Cymea, Dunmar, and Tollen/Sembara, with Isinguese merchants heavily involved.  
+  - Sources: [[Istabor Alliance]], “GDrive – Sembara Document”, [[Humanity in Greater Sembara]].  
+- By the **early 1400s DR**, when [[Derik I]] is fighting Avatus, the Istabor region is already a complex patchwork of small powers recognizable as the **proto‑Istabor Alliance** Sembara later signs the [[Treaty of Valarin]] with (DR:: 1430).  
+  - Source: [[Timeline of Sembaran History]], [[Istabor Alliance]].  
+
+### Istaros Watershed and Aurbez in this Era
+
+- After Drankor’s fall, the **[[Istaros Watershed]]** transitions from a Drankorian core corridor to a **multi‑polar frontier** among Dunmar, Isingue/Istabor, Cymea, and emerging Sembaran influence:  
+  - Dunmar’s early Aatmaji campaigns stabilize the upper basin and eastern Hara side.  
+  - Isinguese and Istabor cities dominate the mid‑basin trade routes.  
+  - Sembara and Tollen plug into the system from the northwest via valleys like the [[Andonne]].  
+  - Later meta‑discussion suggests that the upheaval that created the Plaguelands and Yuvanti mountains may have **disrupted the Istaros system**, so the exact hydrology remembered in later ages (e.g., which tributaries still connect to the Mahar vs. draining into the Plaguelands) may differ from this earlier era.  
+  - Sources: [[Humanity in Greater Sembara]], [[Aurbez and the Andonne]], [[Geography of Taelgar]], [[Historical Framework]], [[Discord Chat - History]], [[discord-dm-log-through-20250116]].  
+- **[[Aurbez and the Andonne]]** in this pre‑Great‑War window is not yet the “Refounded Alliance” of later centuries, but the **Andonne corridor** is already a key:  
+  - It connects Maseau/Sembara to Istabor/Isingue and Cymea.  
+  - Its towns serve as transshipment points for western goods heading toward Dunmar (via overland routes) and eastern wares moving toward Tollen and Sembara.  
+  - Sources: [[Aurbez and the Andonne]], [[Humanity in Greater Sembara]], [[Upper Istaros Region]].  
+
+### Dunmar’s Western Connections Before the Great War
+
+- In **pre‑Great‑War centuries** (before DR:: 1462), Dunmar:  
+  - Consolidates control of the Hara Basin, while building roads and caravan routes through the mountains toward [[Chardon]] and the upper Istaros.  
+  - Uses **[[Tokra]]** and other frontier centers as administrative and military hubs facing west, ensuring stability along trade paths that link to Cymea and Istabor.  
+  - Sources: [[Dunmar]], [[Tokra]], [[Elven Arborea Workshop]], [[Historical Framework]].  
+- While Dunmar does not project naval power into the Western Green Sea, its **overland trade** is crucial: western goods (from Tollen, Sembara, Cymea, Istabor) pass east through Dunmari markets toward the Great Library and eastern realms.  
+  - Sources: [[Greater Dunmar]], [[Great Library]], [[Historical Framework]].  
+
+### Orenlas and the Western Green Sea (1059–1462)
+
+- After the Downfall and Drankorian expansion, **[[Orenlas]]** is one of the few surviving elven enclaves in the western part of the world. In the post‑Drankor centuries it:  
+  - Maintains a **careful neutrality**, trading selectively with Dunmar, Isingue/Istabor, and Addermarch/Sembara while avoiding deep entanglement in human wars.  
+  - Serves as a source of rare elven goods and lore for select human and Dunmari patrons (e.g., the Great Library, Tollen, or Dunmari monasteries) who can negotiate access.  
+  - Sources: [[Historical Framework]], [[Humanity in Greater Sembara]], [[Orenlas]] notes.  
+- Green‑Sea brainstorming mentions a **Drankorian lake‑city near Orenlas** that survives into this era as a magical craft center before later vanishing; this city likely acts as a conduit between Orenlas and Drankorian‑derived coastal cultures (Isingue, Cymea) during the 1100s–1300s DR.  
+  - Source: [[Green Sea Brainstorming]].  
+
+### Western Green Sea Trade (1059–1462)
+
+- In this period, the **main long‑distance trade pattern** around the Western Green Sea is:  
+  - **Tollen ↔ Vostok/Ursk** along the northern coast (furs, metals, dyes).  
+  - **Tollen/Sembara ↔ Istabor/Isingue/Cymea** via the Istaros/Andonne basin.  
+  - **Istabor/Cymea ↔ Dunmar** via the Mahar/Hara overland routes.  
+  - Halfling fleets and scattered Cymean ships supplement this network, but the fully Tollender‑dominated straits and deep east‑west halfling routes described in later notes are **post‑Great‑War developments**.  
+  - In this era, Cymean merchants still see themselves as natural brokers of east–west trade, even as Tollender reliability and shipbuilding slowly outpace Cymea’s more fractured fleets.  
+  - Sources: [[Tollen]], [[Green Sea Brainstorming]], [[Humanity in Greater Sembara]], [[Geography of Taelgar]], [[Discord Chat - Green Sea]].  
+
+### Open Questions for 1059–1462
+
+- Exact political makeup of **Cymea** and **Istabor** in this window (which city‑states exist when, how alliances shift) is intentionally under‑defined.  
+- [[Isingue]]’s internal structure and borders are mostly sketched via diaspora and later history; pre‑destruction details are still open for development.  
+- The role of **Orenlas** in specific conflicts (e.g., whether it aided any side during the Avatus wars or early Great War maneuvering) has not been specified.  
+- The balance between **Tollen** and **Cymea** as maritime powers over time between 1059–1462—when, exactly, one eclipses the other—is still loosely described and can be tuned to campaign needs.  
+
+## More AI Summaries
+
+**Istaros River & Watershed (pre–DR 1545)**
+
+- The Istaros (originally Aistanë, “blessed water”) flows from Lake Aeulian in the Mostreve Hills to the Sea of Storms, and its watershed has long been the lifeblood of fortune and empire, forming the core corridor first of the Drankorian Empire and later of the Istabor Alliance. [[Istaros]], [[Geography of Taelgar]], [[Historical Framework]]
+- During the Drankorian Founding Period (CY 4133–4483), the previously sparsely settled Istaros Watershed was heavily colonized; by late Drankorian times the Istabor valley was one of three especially wealthy agricultural provinces, focused on grain and cotton and closely tied to coastal South Cymea. [[Historical Framework]], [[Humanity in Greater Sembara]], [[Green Sea Brainstorming]]
+- Upper‑river geography notes describe the ridges west of the Istaros and the basin around Lake Aeulian/Valmont as a wide, exceptionally fertile heartland of villages, streams, and farms later remembered as the agricultural core of the Istabor Alliance. [[Upper Istaros]], [[Aurbez and the Andonne]], [[Istaros]]
+- After Drankor’s fall (DR 1059 and following), the Istaros Watershed becomes a multi‑polar frontier: Dunmari migration crosses it and splits there, Isinguese and Istabor cities dominate mid‑basin routes, and Sembara/Tollen connect from the northwest via corridors like the Andonne. [[Human Cultures of Taelgar]], [[Humanity in Greater Sembara]], [[Avatus Brainstorming]], [[Aurbez and the Andonne]]
+- The confluence of the Istaros and Thalúrien near Isingue is long believed to carry special blessing; its waters were said to grant exceptional fertility to soil and people, making the surrounding lands the mystical and cultural center of what becomes the Istabor Alliance. [[Istaros]], [[Thalurien]], [[Isingue]]
+
+**Istabor Valley & Istabor Alliance (pre–DR 1545)**
+
+- The Istabor Alliance is a loose alliance of city‑states and their hinterlands in the fertile Istabor (upper Istaros) valley; it exists as a distinct realm before the Great War and is destroyed during that conflict, leaving its rich river valleys as the Plaguelands. [[Istabor Alliance]], [[Istaros]], [[Timeline of Sembaran History]]
+- After Drankor’s collapse, the valley’s Drankorian provinces evolve into wealthy city‑states that see themselves as Drankorian heirs, growing rich on river‑borne agriculture and trade with Dunmar to the east and Sembara/Tollen to the north and west. [[Humanity in Greater Sembara]], [[Green Sea Brainstorming]], [[Avatus Brainstorming]]
+- By the Six Duchies era (~DR 1250), Sembaran histories already speak of the “fertile lands of the Istabor Alliance” to the far south, drawing settlers away from marginal Sembaran lands—evidence of an organized, prosperous region even before the Alliance’s later Great‑War‑era prominence. [[Timeline of Sembaran History]], [[Humanity in Greater Sembara]]
+- Between roughly DR 1200–1400, regional leagues in the valley coalesce into a recognizable proto‑Istabor Alliance; by DR 1429–1430, after defeating Avatus, Derik I signs the Treaty of Valarin with this emergent Alliance, fixing Sembara’s southern frontier at the edge of former Avatus dominion. [[Timeline of Sembaran History]], [[Avatus Brainstorming]], [[A Chronicle of Sembaran History]]
+- In the early Great‑War period (reign of Derik II), Sembaran chronicles describe the southern border with the Istabor Alliance as peaceful with growing trade, while older notes on Cha’mutte and hobgoblin deployments say hobgoblin footholds in the southern Sentinels are intended to keep the Alliance from consolidating into a single strong kingdom. [[Timeline of Sembaran History]], [[A Chronicle of Sembaran History]], [[Hobgoblin Movements After Cha'Mutte]], [[Avatus Brainstorming]]
+- Brainstorm and Discord notes suggest an earlier or alternative name such as “Isatabor Alliance” and emphasize a shared identity across many small towns and rural communities around Isingue and the valley, seeing themselves as part of a single Istabor/Isinguese cultural sphere tied together by the river and its magical waters. [[Isingue]], [[Green Sea Brainstorming]], [[discord-dm-log-through-20250116.txt]]
+
+**Isingue & Isinguese Culture (pre–DR 1545)**
+
+- Isingue is a city on the upper Istaros that served as the cultural and spiritual capital of the Istabor Alliance, founded (in legend) where the river’s waters granted magical, life‑giving power to land and people; dense belts of prosperous small towns and villages around it drew wealth from this unusual fertility. [[Isingue]], [[Istaros]]
+- The Thalúrien (Taloraine) joins the Istaros at Isingue; ancient elvish lore associates Thalúrien with purity and thought and Aistanë/Istaros with growth and fertility, while Isinguese names for nearby rivers (Nimrata for Naithalë, Velonere for Velassë, Taloraine for Thalúrien) and stories of dangerous or forgetful waters show a strong local river‑lore. [[Thalurien]], [[Naithale]], [[Velasse]], [[Istaros]], [[Isingue]]
+- Drankorian‑expansion notes say the Istabor valley and Cymea had few humans before Drankor; in the 5th century DR, Drankor settles them heavily, making Maseau and the Istaros watershed—including the proto‑Isingue province—some of the most purely Drankorian provinces in language, culture, and Mos Numena worship. [[Humanity in Greater Sembara]], [[Human Cultures of Taelgar]], [[Historical Framework]], [[Green Sea Brainstorming]]
+- Post‑plague, human‑culture and Green‑Sea notes describe Isinguese culture as Drankorian‑derived but increasingly autonomous: a wealthy agricultural heartland and urban center (built heavily on cotton) that inherits Drankorian traditions yet develops its own elites, language variant, and religious inflection. [[Human Cultures of Taelgar]], [[Green Sea Brainstorming]], [[Avatus Brainstorming]], [[Isingue]]
+- Discord‑embedded notes emphasize a contrast with Cymea: post‑Drankor Isingue rejects imperial ritualism in favor of more mystical/divine Mos Numena practice, is organized around many small self‑governing towns and “town‑meeting” style local rule, and treats Isingue more as a spiritual/cultural focal point than as an enormous metropolis. [[Isingue]], [[Discord Chat - History of Western Green Sea]], [[discord-dm-log-through-20250116.txt]]
+- Pre‑Great‑War trade and diplomacy put Isingue on key overland routes: the ancient Great South Road runs Embry → Cassons → Isingue and in Drankorian times continued almost 2500 miles to Drankor; other notes mention a major north–south route Cleenseau → Maseau → Isingue and strong trade Cymea ↔ Isingue ↔ Chardon, with high‑level councils between Chardon, Sembara, and Isingue often conducted in Drankorian as a shared diplomatic language. [[Great South Road]], [[Duchy of Maseau]], [[Cassons]], [[Email - Green Sea Trade Routes]], [[discord-dm-log-through-20250116.txt]]
+- Setting summaries describe Isinguese culture as “purely Drankorian” in origin but distinct after the fall of Drankor, and state that the territorial culture is destroyed when Isingue falls to Cha’mutte’s plague at the end of the Great War (DR 1545); afterward (beyond your requested timeframe) Isinguese identity persists in diaspora communities in places like Maseau, Aurbez, and Tollen. [[Human Cultures of Taelgar]], [[Isingue]], [[Hobgoblin Movements After Cha'Mutte]], [[Humanity in Greater Sembara]], [[Guy Marchand]], [[Sarah de Gray]]
+- Several meta notes suggest that The Rangers may originally have formed as guardians of the magical waters and land around Isingue, giving them a pre‑Great‑War origin tied to protecting that valley and explaining their later focus on Sembara’s southern frontier. [[Isingue]], [[The Rangers]], [[discord-dm-log-through-20250116.txt]]
+
+---
+  
 ## Important Canonical Points
 
 Trying to consolidate a few canonical facts that are critical to preserve in any redeveloped history of Avatus:
@@ -260,3 +448,16 @@ Some things that are consistent in notes but might not be canonical, depending o
 
 ## An Attempt at a Unified Narrative
 
+%%^Campaign:None%%
+```dataviewjs
+await dv.view("_scripts/view/get_EventsTable", { yearStart: 1100, yearEnd: 1199, pageFilter: "",includeAll: true } )
+```
+```dataviewjs
+await dv.view("_scripts/view/get_EventsTable", { yearStart: 1060, yearEnd: 1550, pageFilter: "", includAll: true})
+```
+
+Post-Drankor chaos:
+- Immediately after the fall of Drankor, there is clearly chaos in a variety of places. This could have many causes - the combination of Apollyon's rule, remnants of the Cleansed, famines caused by sudden loss of magical transport, lots of "big bads" showing up because of the loss of Drankor's protective envelop, even interplanar disruptions and incursions. 
+- The chaos eases in stages, but some key dates:
+	- DR 1100s -> Dunmar settled; Duke of Sembara established; Tokra settled
+	- 
