@@ -11,7 +11,7 @@ The [[Labyrinths of the Lost]] was set in [[Western Cymea]], and told the story 
 
 ### Oskar's Travels
 
-[[Oskar's Travels]] is a series of short adventures set in [[Tharn Todor]] and the surrounding area. These adventures tell of the activities of [[Riswynn]], [[Oskar]], and [[Oskar's Companions|various companions]], roughly during May and June 1748. 
+[[Oskar in Tharn Todor]] is a series of short adventures set in [[Tharn Todor]] and the surrounding area. These adventures tell of the activities of [[Riswynn]], [[Oskar]], and [[Oskar's Companions|various companions]], roughly during May and June 1748. 
 
 %%^Campaign:none%%
 

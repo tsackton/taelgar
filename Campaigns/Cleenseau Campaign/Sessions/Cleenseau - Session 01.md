@@ -29,7 +29,7 @@ DR_end: 1719-10-21
 ### Timeline
 * (DR:: 1719-10-17) Celyn arrives in [[Cleenseau]] and takes a room at [[The Fox's Flagon]]
 * (DR:: 1719-10-19) Viepuck arrives in [[Cleenseau]], and also takes a room at [[The Fox's Flagon]]
-* (DR:: 1720-10-20) Spiders attack the village of [[Taviose]]; the party saves the day
+* (DR:: 1719-10-20) Spiders attack the village of [[Taviose]]; the party saves the day
 * (DR:: 1719-10-20) The party dines with the Essford household
 * (DR:: 1719-10-21), predawn: The party is brought news of the [[Cleenseau Spider Attacks]]
 ## Narrative
