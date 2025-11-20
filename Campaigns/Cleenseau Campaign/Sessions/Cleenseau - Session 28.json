@@ -25,7 +25,7 @@
   ],
   "npcs": [
     {
-      "name": "Isabeau d'Aslain",
+      "name": "Isabeau D'Aslain",
       "context": "enemy",
       "notes": "Baroness of Aveil, architect of the sham necromancy charges and focal point of Malach's influence."
     },
@@ -143,4 +143,3 @@
     "xpAward": null
   }
 }
-
