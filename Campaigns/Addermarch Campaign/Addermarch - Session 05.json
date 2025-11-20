@@ -1,0 +1,136 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 05.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 5,
+  "name": "Addermarch Campaign - Session 5",
+  "descTitle": "Rescue and Confrontation",
+  "tagline": "in which a prisoner is freed and a queen defeated",
+  "realWorldDate": "2024-10-27",
+  "drStart": "1715-05-08",
+  "drEnd": "1715-05-09",
+  "shortSummary": "In the Highmoor and Roscombe, the party rescues Colette du Bois, slays the goblin queen, secures the glowing poison recipe, and uses Trueflame to destroy the Serpentine Dagger.",
+  "longSummary": "Deep in the goblin lair, Yvan infiltrates the guardroom disguised as a goblin and discovers Colette du Bois imprisoned, prompting a swift fight in which the party kills the drunken jailers and frees her. After a short rest, Drou negotiates with the lair's skittering spiders by bribing them with beef, allowing the group to reach the throne room through a secret door. There they battle the goblin queen and her minions in a brutal confrontation, ultimately claiming a treasure chest and the stolen glowing poison recipe Caradoc desires. That evening they return to Roscombe via Brantor to trade the recipe and gold for Trueflame, and the next morning, under Owen Tavish's supervision in the Temple of the Sibyl, they finally destroy the cursed serpentine dagger.",
+  "sessionProfile": {
+    "combat": "heavy",
+    "roleplay": "medium",
+    "travel": "light"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Colette du Bois",
+      "context": "companion",
+      "notes": "Missing squire of Sir Gareth Howell, rescued from goblin captivity and traveling out with the party."
+    },
+    {
+      "name": "Goblin Queen",
+      "context": "enemy",
+      "notes": "Leader of the goblin bandits, slain in her throne room."
+    },
+    {
+      "name": "Goblin bandits",
+      "context": "enemy",
+      "notes": "Goblin jailers and warriors who oppose the party in the lair."
+    },
+    {
+      "name": "Skittering spiders",
+      "context": "encounter",
+      "notes": "Giant spiders in the lair whom Drou persuades to accept food instead of fighting."
+    },
+    {
+      "name": "Caradoc",
+      "context": "encounter",
+      "notes": "Alchemist in Brantor who trades the finished Trueflame for the glowing poison recipe and gold."
+    },
+    {
+      "name": "Owen Tavish",
+      "context": "encounter",
+      "notes": "Priest of the Sibyl overseeing the destruction of the serpentine dagger."
+    },
+    {
+      "name": "Sir Gareth Howell",
+      "context": "mentioned",
+      "notes": "Knight for whom Colette du Bois was scouting when captured by goblins."
+    }
+  ],
+  "organizations": [
+    "Goblins",
+    "The Sibyl"
+  ],
+  "places": [
+    {
+      "name": "Goblin Lair",
+      "context": "visited",
+      "notes": "Trapped tunnel complex in the Highmoor where Colette is held and the goblin queen rules."
+    },
+    {
+      "name": "Highmoor",
+      "context": "visited",
+      "notes": "Hills north of Roscombe surrounding the goblin lair."
+    },
+    {
+      "name": "Brantor",
+      "context": "visited",
+      "notes": "Hillside hamlet and site of Caradoc's workshop where the party collects Trueflame."
+    },
+    {
+      "name": "Roscombe",
+      "context": "visited",
+      "notes": "Market town where the party returns and lodges."
+    },
+    {
+      "name": "Temple of the Sibyl (Roscombe)",
+      "context": "visited",
+      "notes": "Temple where Owen Tavish supervises the destruction of the serpentine dagger."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Goblin Lair",
+      "to": "Brantor",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Brantor",
+      "to": "Roscombe",
+      "mode": "overland on foot"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Drunken goblin jailers",
+      "location": "Goblin Lair guardroom and prison corridor",
+      "foes": [
+        "Goblin bandits"
+      ],
+      "allies": [
+        "Colette du Bois"
+      ]
+    },
+    {
+      "name": "Goblin queen's throne room",
+      "location": "Goblin Lair throne room",
+      "foes": [
+        "Goblin Queen",
+        "Goblin bandits"
+      ]
+    }
+  ],
+  "treasure": [
+    "Glowing poison recipe stolen by goblins",
+    "Treasure chest recovered from the goblin throne room",
+    "Trueflame vial used to destroy the Serpentine Dagger"
+  ],
+  "meta": {
+    "startingLevel": null,
+    "endingLevel": null,
+    "xpAward": null
+  }
+}
+

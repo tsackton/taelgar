@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 10.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 10,
+  "name": "Addermarch Campaign - Session 10",
+  "descTitle": "Battle with Darkmantles",
+  "tagline": "in which the party fights darkmantles for uligium.",
+  "realWorldDate": "2025-02-16",
+  "drStart": "1715-05-14",
+  "drEnd": "1715-05-15",
+  "shortSummary": "Leaving Zibzig's lair, the party battles darkmantles over a subterranean pool to harvest more uligium, then escapes past an ogre and wolf and returns toward Roscombe.",
+  "longSummary": "After breakfast with kobold inventor Zibzig Sparkscale, Drou, Fazoth, and Yvan accept his directions to another uligium cache deeper in the West Stonewolds Caves, along with a route back to the surface. Following his guidance to a cavern split by a chasm and a still pool, they are plunged into magical darkness as four darkmantles drop from the ceiling; Yvan's wild surges of fire, Fazoth's lightning guided by his pseudodragon's blindsight, and Drou's persistence eventually shatter the attackers. With energies still crackling, Yvan heats a glass bottle to lure fresh uligium from the tunnel walls. Guided back toward the entrance, they confront the ogre and wolf sentries but pacify them with Fazoth's Calm Emotions long enough to slip past, then trek eastward, camping in farmland before reaching Brantor to deliver their four vials of uligium and continuing on to Roscombe.",
+  "sessionProfile": {
+    "combat": "medium",
+    "roleplay": "light",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Zibzig Sparkscale",
+      "context": "companion",
+      "notes": "Kobold inventor and 'Master of Light and Shadow' who hosts the party and points them to further uligium and an exit route."
+    },
+    {
+      "name": "Darkmantles",
+      "context": "enemy",
+      "notes": "Ceiling-dwelling ambushers that swoop down under magical darkness at the uligium pool."
+    },
+    {
+      "name": "Ogre",
+      "context": "enemy",
+      "notes": "Dim-witted cave sentry at the surface entrance, calmed long enough for the party to escape."
+    },
+    {
+      "name": "Wolf",
+      "context": "enemy",
+      "notes": "Companion to the ogre, also pacified during the escape."
+    },
+    {
+      "name": "Caradoc",
+      "context": "encounter",
+      "notes": "Alchemist in Brantor who receives the vials of uligium."
+    }
+  ],
+  "organizations": [],
+  "places": [
+    {
+      "name": "West Stonewolds Caves (Zibzig's lair)",
+      "context": "visited",
+      "notes": "Zibzig Sparkscale's cozy, gadget-filled cavern home."
+    },
+    {
+      "name": "West Stonewolds Caves (uligium pool cavern)",
+      "context": "visited",
+      "notes": "Chasm-split cavern containing a still pool and tunnel walls rich in uligium."
+    },
+    {
+      "name": "West Stonewolds Caves (surface entrance)",
+      "context": "visited",
+      "notes": "Cave mouth guarded by an ogre and wolf."
+    },
+    {
+      "name": "Stonewolds",
+      "context": "visited",
+      "notes": "Rolling hills and grazeland around Roscombe that the party crosses on their return."
+    },
+    {
+      "name": "Farmland camp east of caves",
+      "context": "visited",
+      "notes": "Open fields where the party camps en route to Roscombe."
+    },
+    {
+      "name": "Brantor",
+      "context": "visited",
+      "notes": "Settlement where Caradoc receives the uligium vials."
+    },
+    {
+      "name": "Roscombe",
+      "context": "visited",
+      "notes": "Trade town where the party ultimately returns."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Zibzig's lair",
+      "to": "West Stonewolds Caves (uligium pool cavern)",
+      "mode": "underground on foot"
+    },
+    {
+      "from": "West Stonewolds Caves (surface entrance)",
+      "to": "Farmland camp east of caves",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Farmland camp east of caves",
+      "to": "Brantor",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Brantor",
+      "to": "Roscombe",
+      "mode": "overland on foot"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Darkmantles at the uligium pool",
+      "location": "Uligium pool cavern in West Stonewolds Caves",
+      "foes": [
+        "Darkmantles"
+      ]
+    }
+  ],
+  "treasure": [
+    "Four vials of uligium harvested at the pool"
+  ],
+  "meta": {
+    "startingLevel": null,
+    "endingLevel": null,
+    "xpAward": null
+  }
+}
+

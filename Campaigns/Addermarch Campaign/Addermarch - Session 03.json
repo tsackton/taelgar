@@ -1,0 +1,156 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 03.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 3,
+  "name": "Addermarch Campaign - Session 3",
+  "descTitle": "Cockatrice Hunt",
+  "tagline": "in which the party explores a cockatrice lair",
+  "realWorldDate": "2024-09-20",
+  "drStart": "1715-05-02",
+  "drEnd": "1715-05-04",
+  "shortSummary": "In Roscombe and the Stonewolds, the party hunts a cockatrice for Caradoc, bargains with a naiad, and returns stolen Duval jewels and a strange Sibylline symbol.",
+  "longSummary": "While resting at The Traveler's Rest in Roscombe, Drou, Fazoth, and Yvan receive letters from Owen Tavish and Lady Elowen Duval before meeting with the alchemist Caradoc, who hires them to retrieve a cockatrice gizzard. Traveling west through fields and into the Stonewolds, they locate a cave near the Kilrath Standing Stones, where they discover a petrified dwarf, battle a shadow-animated skeleton, and slay an adult cockatrice and its hatchlings in a cavern containing a dormant fey gate and a petrified shepherd boy. A furious naiad binds Fazoth and Yvan until they cleanse red algae from her pool, revealing lost treasure including Duval family jewels and a golden holy symbol of the Sibyl. With gizzard, eggs, and loot in hand, they camp on the road, detour to Brantor to deliver the gizzard to Caradoc, then return to Roscombe to return the jewels and claim a bandit bounty from Lady Duval.",
+  "sessionProfile": {
+    "combat": "medium",
+    "roleplay": "medium",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Owen Tavish",
+      "context": "mentioned",
+      "notes": "Priest of the Sibyl in Roscombe who writes to the party."
+    },
+    {
+      "name": "Lady Elowen Duval",
+      "context": "mentioned",
+      "notes": "Castellan of Roscombe whose letter summons the party."
+    },
+    {
+      "name": "Caradoc",
+      "context": "encounter",
+      "notes": "Reclusive alchemist who hires the party to hunt a cockatrice and later receives its gizzard in Brantor."
+    },
+    {
+      "name": "Naiad of the Kilrath Caves",
+      "context": "encounter",
+      "notes": "Water nymph guarding the subterranean pool who demands the party cleanse red algae taint."
+    },
+    {
+      "name": "Petrified dwarf treasure-hunter",
+      "context": "mentioned",
+      "notes": "Dwarf statue in the cave, likely a previous victim of the cockatrice."
+    },
+    {
+      "name": "Petrified shepherd boy",
+      "context": "mentioned",
+      "notes": "Realistic stone statue of a local boy in the hatchling chamber."
+    },
+    {
+      "name": "Lord Umbraeth (the Gloomshaper)",
+      "context": "mentioned",
+      "notes": "Fey being the naiad describes as driving her into this refuge, associated with the Darkwood/Duskmire."
+    }
+  ],
+  "organizations": [
+    "The Sibyl",
+    "Duval family"
+  ],
+  "places": [
+    {
+      "name": "The Traveler's Rest",
+      "context": "visited",
+      "notes": "Inn in Roscombe where the party stays at the session's start."
+    },
+    {
+      "name": "Roscombe",
+      "context": "visited",
+      "notes": "Hill-country trade city and Lady Duval's seat."
+    },
+    {
+      "name": "Stonewolds",
+      "context": "visited",
+      "notes": "Rocky plateau and rolling hills west of Roscombe."
+    },
+    {
+      "name": "Kilrath Standing Stones",
+      "context": "visited",
+      "notes": "Ancient stone circle near the cockatrice cave."
+    },
+    {
+      "name": "Kilrath Caves",
+      "context": "visited",
+      "notes": "Cave network containing the cockatrice lair, naiad's pool, and ruined fey gate."
+    },
+    {
+      "name": "Brantor",
+      "context": "visited",
+      "notes": "Hamlet where Caradoc lives and receives the cockatrice gizzard."
+    },
+    {
+      "name": "Darkwood",
+      "context": "mentioned",
+      "notes": "Forest to the south linked to Lord Umbraeth; known as Duskmire in the Feywild."
+    },
+    {
+      "name": "Feywild",
+      "context": "mentioned",
+      "notes": "Parallel plane referenced by the naiad when speaking of Duskmire."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Roscombe",
+      "to": "Kilrath Caves",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Kilrath Caves",
+      "to": "Brantor",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Brantor",
+      "to": "Roscombe",
+      "mode": "overland on foot"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Shadow and skeleton ambush",
+      "location": "Side passage in Kilrath Caves",
+      "foes": [
+        "Shadow",
+        "Animated skeleton"
+      ]
+    },
+    {
+      "name": "Cockatrice and hatchlings",
+      "location": "Main cockatrice cavern",
+      "foes": [
+        "Cockatrice",
+        "Cockatrice hatchlings"
+      ]
+    }
+  ],
+  "treasure": [
+    "Cockatrice gizzard",
+    "Cockatrice eggs",
+    "Dwarf's map from cockatrice cave",
+    "Duval family jewelry recovered from naiad's pool",
+    "Golden holy symbol of The Sibyl of unusual design"
+  ],
+  "meta": {
+    "startingLevel": null,
+    "endingLevel": null,
+    "xpAward": null
+  }
+}
+

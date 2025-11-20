@@ -1,0 +1,157 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 02.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 2,
+  "name": "Addermarch Campaign - Session 2",
+  "descTitle": "The Cursed Dagger's Tale",
+  "tagline": "in which a cursed dagger wreaks havoc",
+  "realWorldDate": "2024-09-15",
+  "drStart": "1715-04-28",
+  "drEnd": "1715-05-01",
+  "shortSummary": "The party finishes exploring Torvaine Watch, claims a cursed serpentine dagger, and travels with Oona to Roscombe to report the massacre.",
+  "longSummary": "Crossing the hoarding of Torvaine Watch, Drou, Fazoth, and Yvan fend off stirges, defeat the undead smith Bartoz, and raise the fort's gates. In the commander's quarters they find Marshal Hildo Brask's body, confront the wrathful ghost of Sir Einrik Arpaad, and seize the cursed serpentine dagger before fleeing under a hail of debris. After recovering Brask's body and a treasure chest, they depart with Oona, traveling through the Torvaine Forest until they meet Sir Gareth Howell and his troop sent by Lady Elowen Duval. Reaching Roscombe, they turn over news of the watch's fall and are asked to consult Owen Tavish of the Sibyl about the dagger's destruction.",
+  "sessionProfile": {
+    "combat": "medium",
+    "roleplay": "medium",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Oona Stonebridge",
+      "context": "companion",
+      "notes": "Halfling merchant traveling with the party from Torvaine Watch toward Roscombe."
+    },
+    {
+      "name": "Bartoz",
+      "context": "enemy",
+      "notes": "Undead smith of Torvaine Watch, defeated in his forge."
+    },
+    {
+      "name": "Marshal Hildo Brask",
+      "context": "mentioned",
+      "notes": "Devout second-in-command of Torvaine Watch, found dead beneath his holy symbol."
+    },
+    {
+      "name": "Sir Einrik Arpaad",
+      "context": "enemy",
+      "notes": "Commander of the watch, risen as a tormented ghost bound to the cursed dagger."
+    },
+    {
+      "name": "Sir Gareth Howell",
+      "context": "encounter",
+      "notes": "Knight of Lady Duval who meets the party on the road to investigate the silence from Torvaine Watch."
+    },
+    {
+      "name": "Lady Elowen Duval",
+      "context": "encounter",
+      "notes": "Castellan of Roscombe who hears the party's report and commissions further counsel about the dagger."
+    },
+    {
+      "name": "Owen Tavish",
+      "context": "mentioned",
+      "notes": "Priest of the Sibyl in Roscombe whom Lady Duval recommends they consult about the serpentine dagger."
+    },
+    {
+      "name": "Wulfram",
+      "context": "mentioned",
+      "notes": "Temple steward who advised Bartoz to contain the dagger; killed during the massacre at Torvaine Watch."
+    }
+  ],
+  "organizations": [
+    "Torvaine Watch",
+    "The Sibyl",
+    "Dominion of Avatus"
+  ],
+  "places": [
+    {
+      "name": "Torvaine Watch",
+      "context": "visited",
+      "notes": "Fortress where the party confronts Bartoz and Sir Einrik's ghost."
+    },
+    {
+      "name": "Torvaine Forest",
+      "context": "visited",
+      "notes": "Forest road the caravan follows leaving the watch."
+    },
+    {
+      "name": "Roadside camp south of Torvaine Watch",
+      "context": "visited",
+      "notes": "Campsite where the party spends the night with Oona and her wagon."
+    },
+    {
+      "name": "Roscombe",
+      "context": "visited",
+      "notes": "Trade city and Lady Duval's seat where the party lodges."
+    },
+    {
+      "name": "The Traveler's Rest",
+      "context": "visited",
+      "notes": "Inn in Roscombe where the session ends."
+    },
+    {
+      "name": "Temple of the Sibyl (Roscombe)",
+      "context": "mentioned",
+      "notes": "Temple where Owen Tavish serves; the party is asked to visit it in a later session."
+    },
+    {
+      "name": "Forgotten warrior's tomb",
+      "context": "mentioned",
+      "notes": "Avatus-era tomb in the woods where the cursed dagger was originally discovered."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Torvaine Watch",
+      "to": "Roscombe",
+      "mode": "overland caravan"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Stirges in the hoarding",
+      "location": "Torvaine Watch hoarding between towers",
+      "foes": [
+        "Stirges"
+      ]
+    },
+    {
+      "name": "Undead smith Bartoz",
+      "location": "Torvaine Watch smithy",
+      "foes": [
+        "Undead Bartoz"
+      ]
+    },
+    {
+      "name": "Confrontation with Sir Einrik's ghost",
+      "location": "Torvaine Watch commander's quarters",
+      "foes": [
+        "Ghost of Sir Einrik Arpaad"
+      ]
+    },
+    {
+      "name": "Cursed dagger test",
+      "location": "Torvaine Watch barracks",
+      "foes": [
+        "Fazoth's cursed familiar"
+      ]
+    }
+  ],
+  "treasure": [
+    "Serpentine Dagger (cursed blade)",
+    "Treasure chest recovered from Torvaine Watch",
+    "Coins and items marked with the Arpaad falcon crest"
+  ],
+  "meta": {
+    "startingLevel": null,
+    "endingLevel": null,
+    "xpAward": null
+  }
+}
+

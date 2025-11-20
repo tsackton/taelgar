@@ -24,7 +24,7 @@ Games that are, or at least were designed as, full length campaigns, consisting 
 #### Fully Canonical
 
 - [[Dunmari Frontier Campaign]] (*Ongoing*): Fully canonical. Started in DR 1748. Well-organized campaign directory. 
-- [[Cleenseau campaign]] (*Ongoing*): Fully canonical.  Started in DR 1719. Well-organized campaign directory. 
+- [[Cleenseau Campaign]] (*Ongoing*): Fully canonical.  Started in DR 1719. Well-organized campaign directory. 
 - [[Great Library Campaign]] (*Ongoing-ish*): Fully canonical. Started in DR 1747. Campaign directory has session notes and a timeline, but other aspects need organization; a high fraction of the campaign material for this campaign exists primarily in OneNote. 
 - [[Addermarch Campaign]] (*Ongoing*): Fully canonical. Started sometime between DR 1720s and DR 1740s, but not yet fully anchored in time. Campaign directory has session notes and handouts, but needs a least a landing page, and maybe a timeline and party treasure details. 
 
@@ -46,15 +46,18 @@ Games that are organized around episodic one-shots, but sharing a common setting
 #### Fully Canonical
 
 - [[Mawar Adventures]]. Started in DR 1747. Episodic campaign with minimal links between episodes and no firm conclusion, so potentially still active. Four episodes run so far. Fixed at level 6. Campaign directory has session notes but might need another pass to update things.
+- [[Oskar in Tharn Todor]]. Episodic adventures featuring [[Oskar]] and companions. So far, have only run adventures set in and around Tharn Todor during Riswynn's first separation from the Dunmar Fellowship (Dunmar Frontier Sessions 17 - 37).  Three sessions, level 5. Session notes, PCs, and dm notes all recorded in various places. 
+
+
+%%NOTE: Oskar's Adventures are a little complicated. The motivation to run these was to (a) give Riswynn an excuse to level up while the rest of the party was doing other stuff, and (b) have a family game occasionally while there was not an active family campaign. Oskar - a dwarven ranger - is presumably still hanging out in Tharn Todor and this could become an episodic campaign, but I don't think it is that likely. While Oskar and Riswynn are canonical, some of the guest characters may not be. %%
+
 ### One Shots
 
 Single adventures, typically running between one and four sessions. 
 #### Fully Canonical
 
-- [[LL - Player Background]]*(Finished, three sessions, level 2-3)*. Set sometime between the DR 1720s and 1740s, but not fully anchored in time. Campaign directory needs the final session notes to be added, and a better landing page. PCs are not currently recorded outside of D&D Beyond. 
-- [[Oskar in Tharn Todor]]. Episodic adventures featuring [[Oskar]] and companions. So far, have only run adventures set in and around Tharn Todor during Riswynn's first separation from the Dunmar Fellowship (Dunmar Frontier Sessions 17 - 37).  Three sessions, level 5. No session notes exist, but some brief timeline information is preserved somewhere. Adventure notes exist in OneNote. PCs (except Riswynn) are not currently recorded outside of D&D Beyond. 
+- [[LL - Player Background]] *(Finished, three sessions, level 2-3)*. Set sometime between the DR 1720s and 1740s, but not fully anchored in time. Campaign directory needs the final session notes to be added, and a better landing page. PCs are not currently recorded outside of D&D Beyond. 
 
-%%NOTE: Oskar's Adventures are a little complicated. The motivation to run these was to (a) give Riswynn an excuse to level up while the rest of the party was doing other stuff, and (b) have a family game occasionally while there was not an active family campaign. Oskar - a dwarven ranger - is presumably still hanging out in Tharn Todor and this could become an episodic campaign, but I don't think it is that likely. While Oskar and Riswynn are canonical, some of the guest characters may not be. %%
 #### Partially Canonical
 
 - Ausson's Crossing *(Finished, four sessions, level 7-8)*. Set in DR 1688. The high level setting, the basic plot arc, the major NPCs, and three of the four PCs are canonical, but other minor details are ambiguous, and the fourth PC was canonically not present (because the player reused him for Cleenseau game). The PCs are in the PC directory, but with minimal information. Some details from this game are in Worldbuilding/Campaigns/Ausson's Crossing Mini-Series. 
