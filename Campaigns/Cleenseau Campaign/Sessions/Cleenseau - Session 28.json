@@ -1,0 +1,146 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 28.md",
+  "campaign": "Cleenseau",
+  "sessionNumber": 28,
+  "name": "Cleenseau - Session 28",
+  "descTitle": "The End of Malach",
+  "tagline": "in which the party is tried for necromancy",
+  "realWorldDate": "2025-10-05",
+  "drStart": "1720-03-20",
+  "drEnd": "1720-04-01",
+  "shortSummary": "In Veltor, the sham necromancy trial erupts into Malach’s last gambit as a shadow and zombies attack, and in the aftermath the Heroes of Cleenseau are vindicated and Robin is offered the lordship of Asineau.",
+  "longSummary": "As the counterfeit necromancy trial reaches its height in Veltor, Viepuck publicly names King Robert I a lich, truly Malach in disguise, triggering the release of a summoned shadow that tears into the crowd and reanimates bystanders as zombies. Amid panicked onlookers and a bench of uneasy nobles, Robin calls down daylight, challenges the creature to face him alone, and duels it while Celyn, Viepuck, and Izgil blast zombies and shepherd civilians to safety. Greymalkin barrels through the chaos to protect people, Marian's earlier prophetic dream seems confounded, and repeated blows finally disperse the shadow as the Baroness collapses. In the following days, word arrives that Malach’s reign has ended with the regnal shift to Queen Elaine II; the Baroness is taken into custody for trial in the capital, and the Heroes of Cleenseau depart Veltor for Asineau. Upon reaching Asineau, Robin is asked to accept its lordship and the party begins assessing the region's recovery needs, with plans to accompany the Queen on her future circuit through the Cleenseau Region.",
+  "sessionProfile": {
+    "combat": "heavy",
+    "roleplay": "heavy",
+    "travel": "light"
+  },
+  "pcs": [
+    "Robin",
+    "Viepuck",
+    "Celyn",
+    "Izgil"
+  ],
+  "npcs": [
+    {
+      "name": "Isabeau d'Aslain",
+      "context": "enemy",
+      "notes": "Baroness of Aveil, architect of the sham necromancy charges and focal point of Malach's influence."
+    },
+    {
+      "name": "Malach",
+      "context": "enemy",
+      "notes": "True lich behind the events, working through the guise of King Robert I and the summoned shadow."
+    },
+    {
+      "name": "Robert I (the lich)",
+      "context": "mentioned",
+      "notes": "Name by which Malach ruled; called out by Viepuck during the trial."
+    },
+    {
+      "name": "Marian",
+      "context": "encounter",
+      "notes": "Disciple of the Warlord whose prophetic dream and truth miracle frame the trial and aftermath."
+    },
+    {
+      "name": "Etienne des Ostieux",
+      "context": "encounter",
+      "notes": "Captain of the Guard, deeply uncomfortable with the proceedings and logistics of the trial."
+    },
+    {
+      "name": "Victorine Rosseau",
+      "context": "encounter",
+      "notes": "Head magistrate overseeing a process she knows is irregular and politically driven."
+    },
+    {
+      "name": "Thomas Dyerson",
+      "context": "encounter",
+      "notes": "Circuit magistrate allied with the party, involved in the legal handling of the trial."
+    },
+    {
+      "name": "Lyra Corvin",
+      "context": "encounter",
+      "notes": "Messenger of Queen Elaine II who arrives with troops to take the Baroness into custody and offers Robin the lordship of Asineau."
+    },
+    {
+      "name": "Elaine II",
+      "context": "mentioned",
+      "notes": "Queen whose accession marks the formal end of Malach's reign."
+    },
+    {
+      "name": "Graymalkin",
+      "context": "companion",
+      "notes": "Robin's gryphon companion who helps control the panicked crowd and guard civilians."
+    },
+    {
+      "name": "Shadow manifestation",
+      "context": "enemy",
+      "notes": "Necromantic shadow unleashed in the courtyard, embodying Malach's last direct attack."
+    },
+    {
+      "name": "Zombies",
+      "context": "enemy",
+      "notes": "Reanimated bystanders raised during the shadow attack."
+    }
+  ],
+  "organizations": [
+    "Heroes of Cleenseau",
+    "Barony of Aveil",
+    "Cleenseau Region"
+  ],
+  "places": [
+    {
+      "name": "Veltor",
+      "context": "visited",
+      "notes": "Capital of the Barony of Aveil and location of the sham necromancy trial and courtyard battle."
+    },
+    {
+      "name": "Baroness's Keep",
+      "context": "visited",
+      "notes": "Fortified keep whose courtyard hosts the trial and Malach's shadow attack."
+    },
+    {
+      "name": "Asineau",
+      "context": "visited",
+      "notes": "Town and lordship offered to Robin, where the party arrives to begin stewardship."
+    },
+    {
+      "name": "Cleenseau Region",
+      "context": "mentioned",
+      "notes": "Region for which the party holds particular responsibility and which the Queen plans to visit on her circuit."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Veltor",
+      "to": "Asineau",
+      "mode": "overland on foot and road"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Malach's shadow at the trial",
+      "location": "Courtyard of the Baroness's Keep in Veltor",
+      "foes": [
+        "Shadow manifestation",
+        "Zombies"
+      ],
+      "allies": [
+        "Graymalkin"
+      ]
+    }
+  ],
+  "treasure": [
+    "Formal vindication from necromancy charges",
+    "End of Malach's reign with the accession of Queen Elaine II",
+    "Offer and acceptance of the lordship of Asineau by Robin"
+  ],
+  "meta": {
+    "startingLevel": null,
+    "endingLevel": null,
+    "xpAward": null
+  }
+}
+

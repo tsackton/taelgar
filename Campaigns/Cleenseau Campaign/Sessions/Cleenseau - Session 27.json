@@ -1,0 +1,139 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 27.md",
+  "campaign": "Cleenseau",
+  "sessionNumber": 27,
+  "name": "Cleenseau - Session 27",
+  "descTitle": "Paranoia in Veltor",
+  "tagline": "negotiation, infiltration, and rising paranoia in Veltor",
+  "realWorldDate": "2025-09-07",
+  "drStart": "1720-03-19",
+  "drEnd": "1720-03-21",
+  "shortSummary": "In Veltor, the party navigates oath-bound suspicion, rumor-gathering, and legal maneuvering around the Baroness’s possible fey pact as paranoia about necromancy escalates.",
+  "longSummary": "Arriving near Veltor by feather fall, Robin, Viepuck, Celyn, and Izgil enter a town where all magic is forbidden and must negotiate oaths under Marian’s strained truth-compelling miracle. They spend the day gathering rumors at the Granite Mug, checking in with the Merriweathers and other contacts, and probing the politics around Baroness Isabeau d'Aslain’s suspected pact with the slain fairy Areschera. After Viepuck’s urchin-disguise infiltration and disappearance triggers alarm, Etienne is jailed, consultations with Victorine Rosseau, Thomas Dyerson, and steward Emeric only heighten the sense of a rigged game, and Sylvan evidence about the Baroness’s dealings is produced but left unread. A pendant ruse using Rene d’Aslain’s sketch and Izgil’s locate-object misdirection further tangles matters, scrying on Robin is detected, and the party is shuffled to the former fairy tower barracks before a courtyard accusation of murder and necromancy culminates in Robin’s public challenge and an overnight public holding as the Heroes of the Night Queen advance their separate assault.",
+  "sessionProfile": {
+    "combat": "none",
+    "roleplay": "heavy",
+    "travel": "light"
+  },
+  "pcs": [
+    "Robin",
+    "Viepuck",
+    "Celyn",
+    "Izgil"
+  ],
+  "npcs": [
+    {
+      "name": "Isabeau d'Aslain",
+      "context": "enemy",
+      "notes": "Baroness of Aveil, suspected of making a pact with the fairy Areschera and driving the sham necromancy case."
+    },
+    {
+      "name": "Marian",
+      "context": "encounter",
+      "notes": "Disciple of the Warlord whose costly miracle of truth shapes the oath negotiations."
+    },
+    {
+      "name": "Etienne des Ostieux",
+      "context": "encounter",
+      "notes": "Captain of the Guard, later jailed amid the rising paranoia."
+    },
+    {
+      "name": "The Merriweathers",
+      "context": "encounter",
+      "notes": "Halfling tailors tied to the halfling intelligence network, consulted for rumors and later vanished."
+    },
+    {
+      "name": "Emeric",
+      "context": "encounter",
+      "notes": "Castle steward involved in consultations about the situation in Veltor."
+    },
+    {
+      "name": "Victorine Rosseau",
+      "context": "encounter",
+      "notes": "Head magistrate of Veltor, deeply uncomfortable with the Baroness's machinations."
+    },
+    {
+      "name": "Thomas Dyerson",
+      "context": "encounter",
+      "notes": "Circuit magistrate allied with the party, who delivers the irregular indictment."
+    },
+    {
+      "name": "Esme d'Aslain",
+      "context": "encounter",
+      "notes": "The Baroness's niece, fearful yet fascinated by magic."
+    },
+    {
+      "name": "Rene d'Aslain",
+      "context": "encounter",
+      "notes": "Artistic nephew whose pendant sketch is used in a locate-object ruse."
+    },
+    {
+      "name": "Graymalkin",
+      "context": "companion",
+      "notes": "Robin's gryphon companion and visible symbol of the party's reputation."
+    },
+    {
+      "name": "Robert I (the lich)",
+      "context": "mentioned",
+      "notes": "The king Viepuck names a lich, truly Malach's identity, referenced via self-detection magic."
+    },
+    {
+      "name": "Areschera",
+      "context": "mentioned",
+      "notes": "Murderous fairy previously slain by the party; her former tower and pact with the Baroness loom over events."
+    },
+    {
+      "name": "Alric Veillon",
+      "context": "encounter",
+      "notes": "Runner from the Warlord temple who fetches Marian for the oath negotiations."
+    }
+  ],
+  "organizations": [
+    "Barony of Aveil",
+    "Warlord temple",
+    "Heroes of the Night Queen"
+  ],
+  "places": [
+    {
+      "name": "Veltor",
+      "context": "visited",
+      "notes": "Capital of the Barony of Aveil and site of the unfolding paranoia."
+    },
+    {
+      "name": "Granite Mug",
+      "context": "visited",
+      "notes": "Local inn frequented by guards and townsfolk where rumors are gathered."
+    },
+    {
+      "name": "Golden Quill",
+      "context": "mentioned",
+      "notes": "Inn for law clerks in Veltor."
+    },
+    {
+      "name": "Baroness's Keep",
+      "context": "visited",
+      "notes": "Stronghold where oaths, pendant ruse, accusations, and holding take place."
+    },
+    {
+      "name": "Former Areschera Tower",
+      "context": "visited",
+      "notes": "Repurposed barracks in the former fairy's tower where the party is lodged."
+    },
+    {
+      "name": "Cleenseau Wood",
+      "context": "mentioned",
+      "notes": "Forest associated with prior necromantic events that shape suspicion."
+    }
+  ],
+  "journeys": [],
+  "combats": [],
+  "treasure": [],
+  "meta": {
+    "startingLevel": null,
+    "endingLevel": null,
+    "xpAward": null
+  }
+}
+

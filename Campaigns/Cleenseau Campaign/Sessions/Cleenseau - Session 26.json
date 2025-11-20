@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 26.md",
+  "campaign": "Cleenseau",
+  "sessionNumber": 26,
+  "name": "Cleenseau - Session 26",
+  "descTitle": "Shadows, Forest Statues, and a Hell-Plane Swap",
+  "tagline": "in which the party escorts a phylactery fragment and survives a planar exchange",
+  "realWorldDate": "2025-07-27",
+  "drStart": "1720-03-12",
+  "drEnd": "1720-03-19",
+  "shortSummary": "In Cleenseau Wood and along the Aveil Ridge, the party carries a cursed phylactery fragment through haunted forest, fights shadow manifestations and demons during a hell-plane portal swap, and ends poised above Veltor for their next move.",
+  "longSummary": "Tasked with delivering a cursed phylactery fragment to a higher-level adventuring party, Robin, Viepuck, Celyn, and Izgil choose the shortest route through the Greenwood the Great rather than approaching Veltor directly. They stash their horses at the ruined wizard academy and trek west through overgrown, ancient forest while the sphere’s psychic pressure gnaws at their nerves and dreams. In camp, Celyn's light spell reveals a pool of shadow around the box, triggering a brutal fight against a screaming shadow and its kin that lash at the party's courage and vitality, but are ultimately destroyed. Pressing on, they navigate orienteering challenges and encounter a lifelike petrified deer statue hinting at deeper dangers. Eventually, they rendezvous with their much higher-level allies to plan a transit to a hell-plane, building a pit-trap and layered spell zone to manage the expected 'equivalent exchange' as the other party departs. When the portal swap occurs, imps and barbed devils appear within the darkness; Viepuck's Hunger of Hadar, Izgil's area magic, and Robin and Celyn's melee prowess cut them down, with Celyn dramatically critting foes while invisible under Improved Invisibility. After healing and regrouping, they hike toward the cliff above Veltor, ready to leap down under feather fall as the next stage of their confrontation with the Baroness approaches.",
+  "sessionProfile": {
+    "combat": "heavy",
+    "roleplay": "medium",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Robin",
+    "Viepuck",
+    "Celyn",
+    "Izgil"
+  ],
+  "npcs": [
+    {
+      "name": "Malach",
+      "context": "enemy",
+      "notes": "Lich whose phylactery fragment the party carries and whose influence manifests as shadows."
+    },
+    {
+      "name": "High-level adventuring party",
+      "context": "encounter",
+      "notes": "Thirteenth–fourteenth-level heroes working with Raoul who arrange the hell-plane transfer and ask the party to handle planar fallout."
+    },
+    {
+      "name": "Vahaiya",
+      "context": "mentioned",
+      "notes": "Adventurer from the third-most-powerful party who watches over a portal on the party's behalf."
+    },
+    {
+      "name": "Es*tiaslos",
+      "context": "companion",
+      "notes": "Scout and ally who assists with weirdberries and battlefield support during the demon fight."
+    },
+    {
+      "name": "Isabeau d'Aslain",
+      "context": "enemy",
+      "notes": "Baroness whose schemes in Aveil motivate the need to keep the phylactery fragment away from Veltor until the time is right."
+    },
+    {
+      "name": "Shadow manifestations",
+      "context": "enemy",
+      "notes": "Ghostly horrors that erupt from the cursed phylactery box and attack the party in camp."
+    },
+    {
+      "name": "Imps",
+      "context": "enemy",
+      "notes": "Lesser fiends that arrive when the hell-plane exchange occurs and are quickly dispatched."
+    },
+    {
+      "name": "Barbed devils",
+      "context": "enemy",
+      "notes": "Spike-covered demons that attempt to impale Viepuck and battle Robin and Celyn after the portal swap."
+    }
+  ],
+  "organizations": [
+    "Night Queen's clergy",
+    "Third-most-powerful adventuring party"
+  ],
+  "places": [
+    {
+      "name": "Cleenseau Wood",
+      "context": "visited",
+      "notes": "Ancient forest where the party travels with the cursed phylactery sphere and fights shadow manifestations."
+    },
+    {
+      "name": "Aveil Ridge",
+      "context": "visited",
+      "notes": "Ridge near Veltor where the portal-swap trap is prepared and demons appear."
+    },
+    {
+      "name": "Ruined wizard academy",
+      "context": "visited",
+      "notes": "Relatively safe ruin where the party stashes their horses before entering the deep forest."
+    },
+    {
+      "name": "Greenwood the Great",
+      "context": "visited",
+      "notes": "Old and tangled forest through which the party routes to hand off the cursed item."
+    },
+    {
+      "name": "Beldor",
+      "context": "mentioned",
+      "notes": "Mining village used as a reference point for teleportation and planning."
+    },
+    {
+      "name": "Veltor",
+      "context": "mentioned",
+      "notes": "Capital of Aveil, whose cliff edge the party approaches for a feather fall descent in the following session."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Ruined wizard academy",
+      "to": "Greenwood the Great",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Greenwood the Great",
+      "to": "Aveil Ridge",
+      "mode": "overland on foot"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Shadows around the phylactery box",
+      "location": "Forest campsite in Cleenseau Wood",
+      "foes": [
+        "Shadow manifestations"
+      ]
+    },
+    {
+      "name": "Hell-plane exchange demons",
+      "location": "Portal pit on Aveil Ridge",
+      "foes": [
+        "Imps",
+        "Barbed devils"
+      ]
+    }
+  ],
+  "treasure": [],
+  "meta": {
+    "startingLevel": 7,
+    "endingLevel": 7,
+    "xpAward": null
+  }
+}
+

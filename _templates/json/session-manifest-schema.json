@@ -1,0 +1,300 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Session Manifest",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schemaVersion": {
+      "type": "string",
+      "description": "Version of the manifest schema."
+    },
+    "noteType": {
+      "type": "string",
+      "enum": [
+        "session-note",
+        "arc-summary"
+      ],
+      "description": "Type of note this manifest describes."
+    },
+    "filePath": {
+      "type": "string",
+      "description": "Path to the source Markdown note within the vault."
+    },
+    "campaign": {
+      "type": "string",
+      "description": "Name of the campaign."
+    },
+    "sessionNumber": {
+      "type": "integer",
+      "description": "Numeric session or episode index."
+    },
+    "name": {
+      "type": "string",
+      "description": "Display title for the session."
+    },
+    "descTitle": {
+      "type": "string",
+      "description": "Short descriptive title or headline."
+    },
+    "tagline": {
+      "type": "string",
+      "description": "One-line 'in which...' style tagline."
+    },
+    "realWorldDate": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "description": "Date the session was played at the table (YYYY-MM-DD)."
+    },
+    "drStart": {
+      "type": "string",
+      "description": "In-world start date (Taelgar calendar)."
+    },
+    "drEnd": {
+      "type": "string",
+      "description": "In-world end date (Taelgar calendar)."
+    },
+    "shortSummary": {
+      "type": "string",
+      "description": "Single-line summary suitable for lists."
+    },
+    "longSummary": {
+      "type": "string",
+      "description": "Three-to-four sentence prose summary of the session."
+    },
+    "sessionProfile": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "combat": {
+          "type": "string",
+          "enum": [
+            "none",
+            "light",
+            "medium",
+            "heavy"
+          ],
+          "description": "How combat-heavy the session felt."
+        },
+        "roleplay": {
+          "type": "string",
+          "enum": [
+            "none",
+            "light",
+            "medium",
+            "heavy"
+          ],
+          "description": "How roleplay/social-heavy the session felt."
+        },
+        "travel": {
+          "type": "string",
+          "enum": [
+            "none",
+            "light",
+            "medium",
+            "heavy"
+          ],
+          "description": "How travel/exploration-heavy the session felt."
+        }
+      },
+      "required": [
+        "combat",
+        "roleplay",
+        "travel"
+      ]
+    },
+    "pcs": {
+      "type": "array",
+      "description": "Player characters present in this session.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "npcs": {
+      "type": "array",
+      "description": "Non-player characters mentioned or appearing this session.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "NPC name or identifier."
+          },
+          "context": {
+            "type": "string",
+            "enum": [
+              "companion",
+              "encounter",
+              "enemy",
+              "mentioned"
+            ],
+            "description": "Relationship of the NPC to the party this session."
+          },
+          "notes": {
+            "type": "string",
+            "description": "Optional short description or role."
+          }
+        },
+        "required": [
+          "name",
+          "context"
+        ]
+      }
+    },
+    "organizations": {
+      "type": "array",
+      "description": "Organizations or factions mentioned in the session.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "places": {
+      "type": "array",
+      "description": "Places visited or mentioned in the session.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Place name."
+          },
+          "context": {
+            "type": "string",
+            "enum": [
+              "visited",
+              "mentioned"
+            ],
+            "description": "Whether the party visited the place or it was only mentioned."
+          },
+          "notes": {
+            "type": "string",
+            "description": "Optional short description or notes."
+          }
+        },
+        "required": [
+          "name",
+          "context"
+        ]
+      }
+    },
+    "journeys": {
+      "type": "array",
+      "description": "Structured travel segments within the session.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "from": {
+            "type": "string",
+            "description": "Starting location name."
+          },
+          "to": {
+            "type": "string",
+            "description": "Destination location name."
+          },
+          "mode": {
+            "type": "string",
+            "description": "Mode of travel (e.g. overland, sea, portal)."
+          }
+        },
+        "required": [
+          "from",
+          "to",
+          "mode"
+        ]
+      }
+    },
+    "combats": {
+      "type": "array",
+      "description": "List of combats or major confrontations.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Optional label for the combat."
+          },
+          "location": {
+            "type": "string",
+            "description": "Where the combat took place."
+          },
+          "foes": {
+            "type": "array",
+            "description": "Opponents faced in this combat.",
+            "items": {
+              "type": "string"
+            }
+          },
+          "allies": {
+            "type": "array",
+            "description": "Allies fighting alongside the party.",
+            "items": {
+              "type": "string"
+            }
+          }
+        },
+        "required": [
+          "foes"
+        ]
+      }
+    },
+    "treasure": {
+      "type": "array",
+      "description": "Major items, rewards, or boons gained this session.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "meta": {
+      "type": "object",
+      "additionalProperties": false,
+      "description": "Optional meta-information about levels and advancement.",
+      "properties": {
+        "startingLevel": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Party or typical PC level at the start of the session."
+        },
+        "endingLevel": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "description": "Party or typical PC level at the end of the session."
+        },
+        "xpAward": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "description": "XP gained this session (total or per-character, as you choose to interpret)."
+        }
+      }
+    }
+  },
+  "required": [
+    "schemaVersion",
+    "noteType",
+    "filePath",
+    "campaign",
+    "sessionNumber",
+    "name",
+    "realWorldDate",
+    "drStart",
+    "drEnd",
+    "shortSummary",
+    "longSummary",
+    "sessionProfile",
+    "pcs",
+    "npcs",
+    "places",
+    "combats",
+    "treasure",
+    "meta"
+  ]
+}
+

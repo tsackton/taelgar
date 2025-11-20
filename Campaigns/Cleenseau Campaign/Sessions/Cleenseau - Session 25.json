@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 25.md",
+  "campaign": "Cleenseau",
+  "sessionNumber": 25,
+  "name": "Cleenseau - Session 25",
+  "descTitle": "Houille, Peydon, and Plans Against Malach",
+  "tagline": "in which the party learns the truth about the king and takes up a phylactery quest",
+  "realWorldDate": "2025-05-18",
+  "drStart": "1720-03-05",
+  "drEnd": "1720-03-12",
+  "shortSummary": "Near Houille and Peydon, the Heroes of Cleenseau meet Raoul, learn that King Robert I has been a lich named Malach for four years, and agree to retrieve one fragment of his phylactery while dodging the Baroness’s summons.",
+  "longSummary": "After quietly leaving Peydon and avoiding the Baroness's messenger, Robin, Viepuck, Celyn, and Izgil hike into the hills to meet Raoul, a terrifyingly powerful cleric of the Night Queen, accompanied by his bodyguards Julien Marteau and Sveta Dragunov. Inside Raoul's scry-blocking Tiny Temple, they learn that King Robert I has been dead for four years and replaced by a lich named Malach, whose continent-spanning magic fuels undead waves and eavesdrops on any mention of his name. Raoul and the higher-level party plan to hunt two fragments of Malach's divided phylactery and commission the Heroes of Cleenseau to secure the third fragment believed to be in Aveil; Izgil locates which fragment lies where via divination, and the party agrees to recover it and contact Raoul. On the road, Viepuck becomes a magical telegraph using Sending, coordinating with allies in the Western Army and others, trolling the Baroness via the Sending locket, and seeding Night Queen PR in Peydon, while Izgil obsessively experiments with his rings. The group ultimately chooses a route toward the Greenwood the Great and other targets rather than walking straight into the Baroness's grasp at Veltor.",
+  "sessionProfile": {
+    "combat": "none",
+    "roleplay": "heavy",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Robin",
+    "Viepuck",
+    "Celyn",
+    "Izgil"
+  ],
+  "npcs": [
+    {
+      "name": "Raoul",
+      "context": "encounter",
+      "notes": "Terrifyingly powerful cleric of the Night Queen who explains Malach's reign and commissions the party to retrieve a phylactery fragment."
+    },
+    {
+      "name": "Julien Marteau",
+      "context": "encounter",
+      "notes": "Broad-shouldered peasant bodyguard accompanying Raoul."
+    },
+    {
+      "name": "Sveta Dragunov",
+      "context": "encounter",
+      "notes": "Exotic, hawk-eyed bodyguard accompanying Raoul."
+    },
+    {
+      "name": "Malach",
+      "context": "enemy",
+      "notes": "Lich who has secretly replaced King Robert I and powers undead waves and eavesdropping magic."
+    },
+    {
+      "name": "Robert I (the lich)",
+      "context": "mentioned",
+      "notes": "Regnal identity under which Malach rules."
+    },
+    {
+      "name": "Isabeau d'Aslain",
+      "context": "enemy",
+      "notes": "Baroness whose summons the party deliberately avoids while leaving Peydon."
+    },
+    {
+      "name": "Vahaiya",
+      "context": "mentioned",
+      "notes": "Adventurer from the third-most-powerful party, keeping watch on a portal for the Night Queen's allies."
+    },
+    {
+      "name": "Damien Montrichard",
+      "context": "mentioned",
+      "notes": "Leader of the third-most-powerful adventuring party, a planned future contact for gossip and updates."
+    }
+  ],
+  "organizations": [
+    "Night Queen's clergy",
+    "Western Army",
+    "Third-most-powerful adventuring party"
+  ],
+  "places": [
+    {
+      "name": "Houille",
+      "context": "mentioned",
+      "notes": "Town referenced in the campaign context for this stretch of travel."
+    },
+    {
+      "name": "Peydon",
+      "context": "mentioned",
+      "notes": "Town recently helped by the party, left quietly before the Baroness's messenger can confirm contact."
+    },
+    {
+      "name": "Hills near Peydon",
+      "context": "visited",
+      "notes": "Rural area where the party meets Raoul and his bodyguards."
+    },
+    {
+      "name": "Veltor",
+      "context": "mentioned",
+      "notes": "Capital of Aveil, toward which the Baroness's summons points but which the party avoids for now."
+    },
+    {
+      "name": "Greenwood the Great",
+      "context": "mentioned",
+      "notes": "Ancient forest considered as a meeting location or route in the phylactery hunt."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Peydon",
+      "to": "Hills near Peydon",
+      "mode": "overland on foot"
+    }
+  ],
+  "combats": [],
+  "treasure": [],
+  "meta": {
+    "startingLevel": 7,
+    "endingLevel": 7,
+    "xpAward": null
+  }
+}
+
