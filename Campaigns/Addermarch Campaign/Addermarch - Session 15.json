@@ -1,0 +1,155 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 15.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 15,
+  "name": "Addermarch Campaign - Session 15",
+  "descTitle": "The Haunted Cottage",
+  "tagline": "in which the party confronts a ghost and gathers clues",
+  "realWorldDate": "2025-11-16",
+  "drStart": "1715-05-19",
+  "drEnd": "1715-05-21",
+  "shortSummary": "Returning to Haldrenn, the party investigates Duncan's cottage, defeats the haunted shade in his root cellar, uncovers ancient coins and maddened notes, and brings their findings to Caradoc and Owen Tavish in Roscombe.",
+  "longSummary": "Back in Haldrenn, Drou, Fazoth, and Yvan speak with Helen of Haldrenn at the Temple of the Mother, with innkeeper Alewyn, and with Bran and Karl to reconstruct Duncan's departure: a boastful shepherd who spent winters at Alewyn's hearth, grew oddly serious about a secret treasure, and vanished during a spring storm. Visiting his one-room stone cottage on the ridge, Yvan spots blood on the doorframe while Drou and Fazoth find signs of a struggle and a broken shepherd's crook, leading them to the root cellar where a burned body lies beneath scorched produce and straw; when disturbed, a vengeful shade erupts, immolating Yvan before being trapped in the cellar and destroyed by Witch Bolts and Shatter. Searching the corpse, they discover it was likely killed by an axe, along with scattered ancient gold and silver coins, a pendant resembling an amulet of the Warlord, and fragments of mad notes about finding a new heart for 'his master' and a questing axe. On the road back through Brantor to Roscombe, Caradoc reveals his Feywild alias Aurenxis and offers gear for a future foray after Duncan's trail, while Owen Tavish identifies the coins as dating from the wars against the Dominion of Avatus under Derik I and links them to the era of the Serpentine Dagger, inspiring thoughts of old forts and battlefields to investigate.",
+  "sessionProfile": {
+    "combat": "medium",
+    "roleplay": "heavy",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Helen of Haldrenn",
+      "context": "encounter",
+      "notes": "Temple administrator at the Temple of the Mother who recounts Duncan's life and disappearance."
+    },
+    {
+      "name": "Alewyn",
+      "context": "encounter",
+      "notes": "Innkeeper whose hearth served as Duncan's winter haunt and who notes his change in seriousness."
+    },
+    {
+      "name": "Bran",
+      "context": "encounter",
+      "notes": "Young villager who recalls seeing a fire and hearing shouting on the ridge near Duncan's cottage."
+    },
+    {
+      "name": "Karl",
+      "context": "encounter",
+      "notes": "Charcoal burner who cautiously investigated the ridge after Bran's sighting."
+    },
+    {
+      "name": "Duncan of Haldrenn",
+      "context": "mentioned",
+      "notes": "Missing shepherd whose corpse and vengeful spirit are discovered in the root cellar."
+    },
+    {
+      "name": "Haunted shade in Duncan's cellar",
+      "context": "enemy",
+      "notes": "Vengeful spirit rising from the burned body beneath the straw, trapped within the root cellar."
+    },
+    {
+      "name": "Caradoc (Aurenxis)",
+      "context": "encounter",
+      "notes": "Alchemist who reveals his past Feywild alias Aurenxis and offers gear for a future venture after Duncan."
+    },
+    {
+      "name": "Owen Tavish",
+      "context": "encounter",
+      "notes": "Priest of the Sibyl in Roscombe who dates the coins to the reign of Derik I and the wars against the Dominion of Avatus."
+    },
+    {
+      "name": "Derik I",
+      "context": "mentioned",
+      "notes": "Ruler whose reign coincided with the wars against the Dominion of Avatus; his era matches the recovered coins."
+    }
+  ],
+  "organizations": [
+    "The Warlord",
+    "Dominion of Avatus"
+  ],
+  "places": [
+    {
+      "name": "Haldrenn",
+      "context": "visited",
+      "notes": "Village where the party gathers information about Duncan and spends the night."
+    },
+    {
+      "name": "Temple of the Mother (Haldrenn)",
+      "context": "visited",
+      "notes": "Local temple where Helen of Haldrenn serves."
+    },
+    {
+      "name": "Alewyn's hearth",
+      "context": "visited",
+      "notes": "Informal pub at Alewyn's home where Duncan spent winters."
+    },
+    {
+      "name": "Duncan's cottage",
+      "context": "visited",
+      "notes": "Stone-and-thatch cottage on the ridge above the coppice wood, site of the haunt and hidden body."
+    },
+    {
+      "name": "Brantor",
+      "context": "visited",
+      "notes": "Hamlet where Caradoc's cottage lies on the road back to Roscombe."
+    },
+    {
+      "name": "Caradoc's cottage",
+      "context": "visited",
+      "notes": "Home of Caradoc/Aurenxis, where he discusses the Feywild and offers old gear."
+    },
+    {
+      "name": "Roscombe",
+      "context": "visited",
+      "notes": "Trade town where Owen Tavish identifies the ancient coins."
+    },
+    {
+      "name": "The Traveler's Rest",
+      "context": "visited",
+      "notes": "Inn in Roscombe where the party returns to sleep."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Haldrenn",
+      "to": "Duncan's cottage",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Haldrenn",
+      "to": "Brantor",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Brantor",
+      "to": "Roscombe",
+      "mode": "overland on foot"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Haunted shade in Duncan's root cellar",
+      "location": "Root cellar beneath Duncan's cottage",
+      "foes": [
+        "Haunted shade in Duncan's cellar"
+      ]
+    }
+  ],
+  "treasure": [
+    "120 ancient gold coins from Duncan's cellar",
+    "300 ancient silver coins from Duncan's cellar",
+    "Pendant resembling an amulet of The Warlord",
+    "Burned note fragments about the stolen heart and questing axe"
+  ],
+  "meta": {
+    "startingLevel": null,
+    "endingLevel": null,
+    "xpAward": null
+  }
+}

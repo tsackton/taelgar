@@ -1,0 +1,140 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 11.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 11,
+  "name": "Addermarch Campaign - Session 11",
+  "descTitle": "The Cursed Song",
+  "tagline": "in which the party discovers a fey mystery.",
+  "realWorldDate": "2025-06-15",
+  "drStart": "1715-05-16",
+  "drEnd": "1715-05-17",
+  "shortSummary": "At Caradoc's request, the party travels from Roscombe to Haldrenn to investigate maddened livestock, uncovers a sinister fey song haunting the cattle, and rescues missing Rowena from a bee-filled cave just as worgs descend on the village.",
+  "longSummary": "In Roscombe, Drou, Fazoth, and Yvan receive a visit from Caradoc, who reports strange rumors of maddened animals in the isolated village of Haldrenn and quietly commissions them to investigate. After walking with him to Brantor to barter for potions, they strike northeast across the Highmoor, camping in the open hills before reaching Haldrenn the next day. There they learn from young Bran that six-year-old Rowena is missing and that a villager, Olay, was gored by his own bull; conversations with charcoal burner Karl and priest Helen of Haldrenn, along with Drou's talk with the cattle, reveal that the herd is tormented by a relentless, violent song linked to old tales of the Briarheart. Following Rowena's trail east, the party locates her hiding in a cave swarming with maddened bees and drives off the insects with Cloud of Daggers, Chromatic Orb, and Dissonant Whispers, escorting the girl home—only to crest the final ridge and hear worg howls and see their fey-lantern flare as the beasts fall upon Haldrenn.",
+  "sessionProfile": {
+    "combat": "light",
+    "roleplay": "medium",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Caradoc",
+      "context": "encounter",
+      "notes": "Alchemist in Brantor who hears of maddened animals in Haldrenn and quietly commissions the party to investigate."
+    },
+    {
+      "name": "Bran",
+      "context": "encounter",
+      "notes": "Chatty nine-year-old boy of Haldrenn who tells the party about missing Rowena and recites the Hollow Men rhyme."
+    },
+    {
+      "name": "Rowena",
+      "context": "companion",
+      "notes": "Missing six-year-old forager found hiding in a bee-filled cave and escorted back toward Haldrenn."
+    },
+    {
+      "name": "Karl",
+      "context": "encounter",
+      "notes": "Charcoal burner, Bran's father, who shares local details of the recent troubles."
+    },
+    {
+      "name": "Isolde of Haldrenn",
+      "context": "mentioned",
+      "notes": "Karl's wife, absent during the search for Rowena."
+    },
+    {
+      "name": "Helen of Haldrenn",
+      "context": "encounter",
+      "notes": "Village priest and storyteller who shares fey lore and context around Morlaith and the Hollow Men."
+    },
+    {
+      "name": "Olay",
+      "context": "mentioned",
+      "notes": "Farmer recently killed when his own maddened bull gored him."
+    },
+    {
+      "name": "Morlaith, the Briarheart",
+      "context": "mentioned",
+      "notes": "Legendary fey blamed in village tales for Hollow Men and animal madness."
+    },
+    {
+      "name": "Worg pack",
+      "context": "enemy",
+      "notes": "Howling predators whose attack on Haldrenn begins as the party returns with Rowena."
+    }
+  ],
+  "organizations": [
+    "Fey"
+  ],
+  "places": [
+    {
+      "name": "Roscombe",
+      "context": "visited",
+      "notes": "Market town where the party begins and receives Caradoc's request."
+    },
+    {
+      "name": "Brantor",
+      "context": "visited",
+      "notes": "Hamlet housing Caradoc's workshop where potions are purchased."
+    },
+    {
+      "name": "Highmoor",
+      "context": "visited",
+      "notes": "Rolling uplands between Roscombe and Haldrenn where the party camps en route."
+    },
+    {
+      "name": "Haldrenn",
+      "context": "visited",
+      "notes": "Remote village ringed by wooden wards and plagued by maddened livestock."
+    },
+    {
+      "name": "Bee Cave",
+      "context": "visited",
+      "notes": "Shallow cavern east of Haldrenn where Rowena hides among maddened bees."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Roscombe",
+      "to": "Brantor",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Brantor",
+      "to": "Highmoor",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Highmoor",
+      "to": "Haldrenn",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Haldrenn",
+      "to": "Bee Cave",
+      "mode": "overland on foot"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Maddened bee swarms",
+      "location": "Bee Cave east of Haldrenn",
+      "foes": [
+        "Bee swarms"
+      ]
+    }
+  ],
+  "treasure": [],
+  "meta": {
+    "startingLevel": null,
+    "endingLevel": null,
+    "xpAward": null
+  }
+}
+

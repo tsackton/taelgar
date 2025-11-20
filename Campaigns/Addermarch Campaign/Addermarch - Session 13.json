@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 13.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 13,
+  "name": "Addermarch Campaign - Session 13",
+  "descTitle": "The Hollow Man",
+  "tagline": "in which the party enters the Feywild",
+  "realWorldDate": "2025-10-13",
+  "drStart": "1715-05-18",
+  "drEnd": "1715-05-18",
+  "shortSummary": "Following the worg trail, the party discovers the Nightsong Roots portal, slays a burning Hollow Man, and steps into the Feywild where thorn sprites and a flying archer ambush them.",
+  "longSummary": "Continuing their pursuit across the Highmoor, Drou, Fazoth, and Yvan follow the worg trail up and down ridges until it trends toward a strange fog-filled hollow around the roots of a massive fallen tree. At the Nightsong Roots, Yvan's elemental experiments on the hanging roots produce eerie chimes that Drou learns to replicate, opening a portal in the trunk from which a burning Hollow Man emerges; focusing on fire as the old rhyme advised, the party destroys the creature. Stepping through into the Feywild, they find themselves on a path through dense, dark forest where they are attacked by small fey—a cluster of thornlike sprites and a flying archer firing ice arrows. After a tense skirmish, they defeat the ambushers and continue along the path, unnerved by the disquieting fey melody of a distant singing tree.",
+  "sessionProfile": {
+    "combat": "heavy",
+    "roleplay": "light",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Hollow Man",
+      "context": "enemy",
+      "notes": "Burning scarecrow-like creature that emerges from the Nightsong Roots portal and is destroyed with focused fire."
+    },
+    {
+      "name": "Thorn sprites",
+      "context": "enemy",
+      "notes": "Small thorn-like fey that ambush the party on the Feywild path."
+    },
+    {
+      "name": "Flying archer-fey",
+      "context": "enemy",
+      "notes": "Winged archer fey firing icy arrows during the Feywild ambush."
+    }
+  ],
+  "organizations": [
+    "Fey"
+  ],
+  "places": [
+    {
+      "name": "Highmoor Downs",
+      "context": "visited",
+      "notes": "Rolling hills east of Roscombe, where the worg tracks lead toward the portal."
+    },
+    {
+      "name": "Nightsong Roots",
+      "context": "visited",
+      "notes": "Foggy hollow around the roots of a massive fallen tree that houses the Feywild portal."
+    },
+    {
+      "name": "Feywild",
+      "context": "visited",
+      "notes": "Otherworldly forest realm where thorn sprites and a flying archer attack the party."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Highmoor Downs",
+      "to": "Nightsong Roots",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Nightsong Roots",
+      "to": "Feywild forest path",
+      "mode": "portal"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Hollow Man at Nightsong Roots",
+      "location": "Nightsong Roots portal hollow",
+      "foes": [
+        "Hollow Man"
+      ]
+    },
+    {
+      "name": "Fey ambush on the forest path",
+      "location": "Feywild forest path",
+      "foes": [
+        "Thorn sprites",
+        "Flying archer-fey"
+      ]
+    }
+  ],
+  "treasure": [],
+  "meta": {
+    "startingLevel": null,
+    "endingLevel": null,
+    "xpAward": null
+  }
+}
+

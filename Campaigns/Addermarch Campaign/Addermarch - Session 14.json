@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 14.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 14,
+  "name": "Addermarch Campaign - Session 14",
+  "descTitle": "The Singing Tree",
+  "tagline": "in which the fey threat is temporarily halted",
+  "realWorldDate": "2025-11-02",
+  "drStart": "1715-05-18",
+  "drEnd": "1715-05-19",
+  "shortSummary": "In the Feywild and Highmoor, the party destroys the corrupted Singing Tree, rescues the fey Vaelithar, partially disables the Nightsong Roots portal, and returns to Haldrenn.",
+  "longSummary": "Creeping toward a forest clearing in the Feywild, Yvan, Drou, and Fazoth close in on the scorched Singing Tree whose cursed song has been driving beasts mad. Fazoth's Witch Bolt, Yvan's fiery spells, and Drou's daggers clash with the tree's grappling roots and bludgeoning branches, while the song twists Fazoth and Drou into attacking each other until Yvan's final Sorcerous Burst fells the tree's current form. Searching the churned soil, they cut free Vaelithar of Twilight's Edge from a root-wrapped mound, learning how he and his companion Liraene nearly slew the tree before a mortal with an impossibly sharp axe and glowing green gem stole its heart, warping its song toward violence; the tree, he warns, will regrow unless its heart is returned. Recovering Liraene's body and accepting a fey pact wand and a silver ring, the party returns through the portal and, combining Yvan's ice magic with Drou's music, fractures several of the Nightsong Roots chimes to partially disable the gateway before trekking back toward Haldrenn and arriving just before lunch the next day.",
+  "sessionProfile": {
+    "combat": "heavy",
+    "roleplay": "medium",
+    "travel": "light"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Vaelithar",
+      "context": "encounter",
+      "notes": "Fey from Twilight's Edge, rescued from the Singing Tree's roots and bearer of the tale of the stolen heart."
+    },
+    {
+      "name": "Liraene",
+      "context": "mentioned",
+      "notes": "Vaelithar's fallen companion, recovered from the roots and mourned."
+    },
+    {
+      "name": "The Singing Tree",
+      "context": "enemy",
+      "notes": "Corrupted fey tree whose heart was stolen by a mortal wielding a gemmed axe, twisting its song into violence."
+    },
+    {
+      "name": "Aurenxis",
+      "context": "mentioned",
+      "notes": "Transmuter and alchemist who once traveled widely through the Feywild and may know more about the stolen heart."
+    }
+  ],
+  "organizations": [
+    "Fey"
+  ],
+  "places": [
+    {
+      "name": "Feywild",
+      "context": "visited",
+      "notes": "Otherworldly forest realm where the Singing Tree dwells and Vaelithar is rescued."
+    },
+    {
+      "name": "Twilight's Edge",
+      "context": "mentioned",
+      "notes": "Fey domain from which Vaelithar and Liraene hail."
+    },
+    {
+      "name": "Nightsong Roots",
+      "context": "visited",
+      "notes": "Wind-chime-like portal between the Feywild and the mortal world, partially disabled by the party."
+    },
+    {
+      "name": "Haldrenn",
+      "context": "visited",
+      "notes": "Village the party returns to after closing the portal."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Feywild Singing Tree clearing",
+      "to": "Nightsong Roots",
+      "mode": "portal"
+    },
+    {
+      "from": "Nightsong Roots",
+      "to": "Haldrenn",
+      "mode": "overland on foot"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Battle with the Singing Tree",
+      "location": "Forest clearing in the Feywild",
+      "foes": [
+        "The Singing Tree"
+      ]
+    }
+  ],
+  "treasure": [
+    "Silver wand (Rod of the Pact Keeper +1) gifted by Vaelithar",
+    "Braided silver ring set with six small orange gems"
+  ],
+  "meta": {
+    "startingLevel": null,
+    "endingLevel": null,
+    "xpAward": null
+  }
+}
+
