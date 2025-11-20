@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 12.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 12,
+  "name": "Addermarch Campaign - Session 12",
+  "descTitle": "Worg Attack",
+  "tagline": "in which the party defends Haldrenn and searches for answers",
+  "realWorldDate": "2025-09-01",
+  "drStart": "1715-05-17",
+  "drEnd": "1715-05-18",
+  "shortSummary": "Racing back to Haldrenn, the party defeats a pack of worgs and fey-maddened cattle, then pursues their trail into the Highmoor where they meet a nervous sprite bearing news of turmoil in Morlaith's realm.",
+  "longSummary": "Returning to Haldrenn with Rowena, Drou, Fazoth, and Yvan arrive just as a pack of worgs descends on the village, driving the villagers into a terrified line of defenders. Yvan shatters the pack's leader with a Chromatic Orb while Fazoth's Cloud of Daggers and Drou's thundering Shatter tear through the lesser wolves, even as the beasts unleash a cursed bull and cow that charge the bystanders before being brought down. After healing the wounded and sharing stew around the bonfire, the party hears from Helen of Haldrenn, Manfred, and Karl about boastful Duncan, the uneasy bargain with Morlaith the Briarheart, and fears that the worgs belong instead to the Gloomshaper. The next morning they track the worgs east across the Highmoor until Drou loses the trail on a rocky ridge, where Fazoth's fey-lantern reveals an invisible sprite messenger trying to flee Morlaith's troubled realm for Lord Serenveil's domain, who warns them that the Hollow Man will come to punish Haldrenn that night.",
+  "sessionProfile": {
+    "combat": "medium",
+    "roleplay": "medium",
+    "travel": "light"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Rowena",
+      "context": "companion",
+      "notes": "Rescued child from Haldrenn, present for the village's relief and aftermath of the worg attack."
+    },
+    {
+      "name": "Helen of Haldrenn",
+      "context": "encounter",
+      "notes": "Village priest who recounts the bargain with Morlaith and her belief that the worgs serve the Gloomshaper."
+    },
+    {
+      "name": "Manfred",
+      "context": "encounter",
+      "notes": "Rowena's fearful father, worried about fey reprisals and Duncan's folly."
+    },
+    {
+      "name": "Karl",
+      "context": "encounter",
+      "notes": "Charcoal burner and Bran's father who joins the discussion about Duncan and the worgs."
+    },
+    {
+      "name": "Duncan of Haldrenn",
+      "context": "mentioned",
+      "notes": "Boastful youth who claimed he would seize treasure from the fey and never returned."
+    },
+    {
+      "name": "Morlaith, the Briarheart",
+      "context": "mentioned",
+      "notes": "Fey lord with whom the villages of the Highmoor maintain an uneasy bargain."
+    },
+    {
+      "name": "The Gloomshaper (Lord Umbraeth)",
+      "context": "enemy",
+      "notes": "Sinister fey power believed to have allowed the vicious worgs through from his realm."
+    },
+    {
+      "name": "Unnamed sprite",
+      "context": "encounter",
+      "notes": "Jittery fey messenger seeking to reach Lord Serenveil's domain and warning of disturbance in Morlaith's realm and the coming Hollow Man."
+    },
+    {
+      "name": "Lord Serenveil",
+      "context": "mentioned",
+      "notes": "Fey lord whose northern domain the sprite is trying to reach."
+    },
+    {
+      "name": "Worg pack",
+      "context": "enemy",
+      "notes": "Worgs and their leader assaulting Haldrenn under fey influence."
+    }
+  ],
+  "organizations": [
+    "Fey"
+  ],
+  "places": [
+    {
+      "name": "Haldrenn",
+      "context": "visited",
+      "notes": "Remote Highmoor village defended from the worg attack."
+    },
+    {
+      "name": "Highmoor Downs",
+      "context": "visited",
+      "notes": "Rolling hills east of Roscombe where the party tracks the worgs."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Haldrenn",
+      "to": "Highmoor Downs ridge east of Haldrenn",
+      "mode": "overland on foot"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Worg assault on Haldrenn",
+      "location": "Fields and lanes around Haldrenn",
+      "foes": [
+        "Worg pack",
+        "Fey-maddened bull",
+        "Fey-maddened cow"
+      ]
+    }
+  ],
+  "treasure": [],
+  "meta": {
+    "startingLevel": null,
+    "endingLevel": null,
+    "xpAward": null
+  }
+}
+
