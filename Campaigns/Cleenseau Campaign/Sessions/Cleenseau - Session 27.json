@@ -11,7 +11,7 @@
   "drStart": "1720-03-19",
   "drEnd": "1720-03-21",
   "shortSummary": "In Veltor, the party navigates oath-bound suspicion, rumor-gathering, and legal maneuvering around the Baroness’s possible fey pact as paranoia about necromancy escalates.",
-  "longSummary": "Arriving near Veltor by feather fall, Robin, Viepuck, Celyn, and Izgil enter a town where all magic is forbidden and must negotiate oaths under Marian’s strained truth-compelling miracle. They spend the day gathering rumors at the Granite Mug, checking in with the Merriweathers and other contacts, and probing the politics around Baroness Isabeau d'Aslain’s suspected pact with the slain fairy Areschera. After Viepuck’s urchin-disguise infiltration and disappearance triggers alarm, Etienne is jailed, consultations with Victorine Rosseau, Thomas Dyerson, and steward Emeric only heighten the sense of a rigged game, and Sylvan evidence about the Baroness’s dealings is produced but left unread. A pendant ruse using Rene d’Aslain’s sketch and Izgil’s locate-object misdirection further tangles matters, scrying on Robin is detected, and the party is shuffled to the former fairy tower barracks before a courtyard accusation of murder and necromancy culminates in Robin’s public challenge and an overnight public holding as the Heroes of the Night Queen advance their separate assault.",
+  "longSummary": "Arriving near Veltor by feather fall, Robin, Viepuck, Celyn, and Izgil enter a town where all magic is forbidden and must negotiate oaths under Marian’s strained truth-compelling miracle. They spend the day gathering rumors at the Granite Mug, checking in with the Merriweathers and other contacts, and probing the politics around Baroness Isabeau D'Aslain’s suspected pact with the slain fairy Areschera. After Viepuck’s urchin-disguise infiltration and disappearance triggers alarm, Etienne is jailed, consultations with Victorine Rosseau, Thomas Dyerson, and steward Emeric only heighten the sense of a rigged game, and Sylvan evidence about the Baroness’s dealings is produced but left unread. A pendant ruse using Rene d’Aslain’s sketch and Izgil’s locate-object misdirection further tangles matters, scrying on Robin is detected, and the party is shuffled to the former fairy tower barracks before a courtyard accusation of murder and necromancy culminates in Robin’s public challenge and an overnight public holding as the Heroes of the Night Queen advance their separate assault.",
   "sessionProfile": {
     "combat": "none",
     "roleplay": "heavy",
@@ -25,7 +25,7 @@
   ],
   "npcs": [
     {
-      "name": "Isabeau d'Aslain",
+      "name": "Isabeau D'Aslain",
       "context": "enemy",
       "notes": "Baroness of Aveil, suspected of making a pact with the fairy Areschera and driving the sham necromancy case."
     },
@@ -60,12 +60,12 @@
       "notes": "Circuit magistrate allied with the party, who delivers the irregular indictment."
     },
     {
-      "name": "Esme d'Aslain",
+      "name": "Esme D'Aslain",
       "context": "encounter",
       "notes": "The Baroness's niece, fearful yet fascinated by magic."
     },
     {
-      "name": "Rene d'Aslain",
+      "name": "Rene D'Aslain",
       "context": "encounter",
       "notes": "Artistic nephew whose pendant sketch is used in a locate-object ruse."
     },
@@ -136,4 +136,3 @@
     "xpAward": null
   }
 }
-

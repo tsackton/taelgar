@@ -45,7 +45,7 @@
       "notes": "Scout and ally who assists with weirdberries and battlefield support during the demon fight."
     },
     {
-      "name": "Isabeau d'Aslain",
+      "name": "Isabeau D'Aslain",
       "context": "enemy",
       "notes": "Baroness whose schemes in Aveil motivate the need to keep the phylactery fragment away from Veltor until the time is right."
     },
@@ -137,4 +137,3 @@
     "xpAward": null
   }
 }
-
