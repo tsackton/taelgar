@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 04.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 4,
+  "name": "Addermarch Campaign - Session 4",
+  "descTitle": "Goblin Lair Assault",
+  "tagline": "in which the party confronts goblins and traps",
+  "realWorldDate": "2024-10-13",
+  "drStart": "1715-05-05",
+  "drEnd": "1715-05-08",
+  "shortSummary": "In Roscombe and the Highmoor, the party prepares to destroy the Serpentine Dagger, takes a job from Caradoc, and launches an assault on a trapped goblin lair.",
+  "longSummary": "Staying at The Traveler's Rest in Roscombe, Drou, Fazoth, and Yvan sell a vial of magical weapon-oil and buy extra healing supplies. At the Temple of the Sibyl they confer with Owen Tavish about ways to destroy the serpentine dagger, selling him an ancient holy symbol and learning that Trueflame might help. Visiting Caradoc's cottage near Brantor, they commission a dose of Trueflame and accept a contract to recover a stolen glowing poison recipe from local goblins. After a performance-filled manor dinner with Lady Elowen Duval and Sir Gareth Howell, where Gareth explains his missing squire and the goblins' hideout, the party treks north into the Highmoor, survives pit traps and ambushes at a cave entrance, and storms the goblins' underground living quarters in a brutal melee of spells and martial prowess.",
+  "sessionProfile": {
+    "combat": "medium",
+    "roleplay": "medium",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Owen Tavish",
+      "context": "encounter",
+      "notes": "Priest of the Sibyl in Roscombe who advises on destroying the serpentine dagger and buys an ancient holy symbol."
+    },
+    {
+      "name": "Isolde of Roscombe",
+      "context": "encounter",
+      "notes": "Temple steward who greets the party at the Temple of the Sibyl."
+    },
+    {
+      "name": "Caradoc",
+      "context": "encounter",
+      "notes": "Eccentric alchemist near Brantor who agrees to craft Trueflame and commissions the retrieval of a glowing poison recipe from goblins."
+    },
+    {
+      "name": "Lady Elowen Duval",
+      "context": "encounter",
+      "notes": "Castellan of Roscombe who hosts the manor dinner and supports the party."
+    },
+    {
+      "name": "Sir Gareth Howell",
+      "context": "encounter",
+      "notes": "Leader of Duval's household guard; informs the party of the goblin hideout and his missing squire."
+    },
+    {
+      "name": "Gareth Howell's missing squire",
+      "context": "mentioned",
+      "notes": "Young squire who went to deal with the goblins and has not returned."
+    },
+    {
+      "name": "Goblin bandits",
+      "context": "enemy",
+      "notes": "Goblin thieves occupying the trapped lair in the Highmoor."
+    }
+  ],
+  "organizations": [
+    "The Sibyl",
+    "Goblins"
+  ],
+  "places": [
+    {
+      "name": "Roscombe",
+      "context": "visited",
+      "notes": "Market town in the Stonewolds and base of operations for the party."
+    },
+    {
+      "name": "The Traveler's Rest",
+      "context": "visited",
+      "notes": "Roscombe's inn where the party stays before setting out."
+    },
+    {
+      "name": "Temple of the Sibyl (Roscombe)",
+      "context": "visited",
+      "notes": "Large stone church and spiritual center of Roscombe where Owen Tavish serves."
+    },
+    {
+      "name": "Brantor",
+      "context": "visited",
+      "notes": "Nearby village housing Caradoc's home and laboratory."
+    },
+    {
+      "name": "Caradoc's cottage",
+      "context": "visited",
+      "notes": "Hill-country home outside Brantor where the party commissions Trueflame."
+    },
+    {
+      "name": "Highmoor",
+      "context": "visited",
+      "notes": "Rolling, rocky terrain north of Roscombe where the goblin lair is located."
+    },
+    {
+      "name": "Goblin Lair",
+      "context": "visited",
+      "notes": "Trapped cave-and-tunnel complex in the Highmoor, home to the goblin bandits."
+    },
+    {
+      "name": "Torvaine Watch",
+      "context": "mentioned",
+      "notes": "Fortress Owen has just returned from after laying Sir Einrik Arpaad's ghost to rest."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Roscombe",
+      "to": "Caradoc's cottage",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Roscombe",
+      "to": "Goblin Lair",
+      "mode": "overland on foot"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Goblin sentries at cave entrance",
+      "location": "Goblin Lair entrance in the Highmoor",
+      "foes": [
+        "Goblins"
+      ]
+    },
+    {
+      "name": "Goblin living-quarters melee",
+      "location": "Goblin Lair underground living chambers",
+      "foes": [
+        "Goblins"
+      ]
+    }
+  ],
+  "treasure": [],
+  "meta": {
+    "startingLevel": null,
+    "endingLevel": null,
+    "xpAward": null
+  }
+}
+

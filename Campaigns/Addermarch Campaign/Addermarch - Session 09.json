@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 09.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 9,
+  "name": "Addermarch Campaign - Session 9",
+  "descTitle": "An Unexpected Meeting Underground",
+  "tagline": "in which the party befriends a kobold inventor and defeats a cave fisher",
+  "realWorldDate": "2025-02-02",
+  "drStart": "1715-05-13",
+  "drEnd": "1715-05-13",
+  "shortSummary": "Still in the West Stonewolds Caves, the party discovers a mushroom farm, recovers more uligium, meets kobold inventor Zibzig Sparkscale, and defeats a cave fisher blocking his river passage.",
+  "longSummary": "Continuing from their battles with oozes, Drou, Fazoth, and Yvan explore deeper into the West Stonewolds Caves and trigger a floor collapse that reveals a mushroom-lit farm below. After scouting with the pseudodragon, they slide down flowstone to investigate, finding rows of cultivated fungi and shrieker mushrooms that act as living alarms, as well as a tunnel leading toward an underground river. In a large oblong cavern, Yvan discovers a high crawlspace that ends in a poisoned pocket rich with uligium; Fazoth climbs with rope and, with Drou's unseen servant, they safely retrieve the mineral. Later they become lost in twisting passages until confronted by a booming voice claiming the home of the 'Master of Light and Shadow', who proves to be Zibzig Sparkscale, a kobold inventor eager to test his devices. Learning that a cave fisher blocks Zibzig's access to the river, the party agrees to help and quickly slays the crab-like predator by dodging its snare and striking from range, then spend the night resting in Zibzig's cozy, gadget-filled lair.",
+  "sessionProfile": {
+    "combat": "medium",
+    "roleplay": "medium",
+    "travel": "light"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Zibzig Sparkscale",
+      "context": "encounter",
+      "notes": "Kobold 'Master of Light and Shadow', an aspiring arcane inventor who befriends the party and hosts them in his lair."
+    },
+    {
+      "name": "Cave Fisher",
+      "context": "enemy",
+      "notes": "Crab-like predator dangling above the underground river, slain to clear Zibzig's route."
+    },
+    {
+      "name": "Shrieker Mushrooms",
+      "context": "enemy",
+      "notes": "Alarm-fungi that scream when disturbed in the mushroom farm."
+    }
+  ],
+  "organizations": [],
+  "places": [
+    {
+      "name": "West Stonewolds Caves (mushroom farm)",
+      "context": "visited",
+      "notes": "Glow-lit cavern with cultivated mushroom rows and shriekers."
+    },
+    {
+      "name": "West Stonewolds Caves (flowstone pool)",
+      "context": "visited",
+      "notes": "Cavern with flowstone and pool used as a route between levels."
+    },
+    {
+      "name": "West Stonewolds Caves (uligium pocket)",
+      "context": "visited",
+      "notes": "Poisoned crawlspace chamber containing rich uligium deposits."
+    },
+    {
+      "name": "Zibzig's lair",
+      "context": "visited",
+      "notes": "Cozy two-room cavern home filled with gadgets and inventions."
+    },
+    {
+      "name": "Underground river",
+      "context": "visited",
+      "notes": "Subterranean waterway where the cave fisher lurks and where Zibzig wishes to travel by boat."
+    }
+  ],
+  "journeys": [],
+  "combats": [
+    {
+      "name": "Shrieker disturbance",
+      "location": "Mushroom farm cavern",
+      "foes": [
+        "Shrieker Mushrooms"
+      ]
+    },
+    {
+      "name": "Cave fisher over the river",
+      "location": "Underground river cavern",
+      "foes": [
+        "Cave Fisher"
+      ]
+    }
+  ],
+  "treasure": [
+    "Additional uligium from the poisoned crawlspace pocket"
+  ],
+  "meta": {
+    "startingLevel": null,
+    "endingLevel": null,
+    "xpAward": null
+  }
+}
+

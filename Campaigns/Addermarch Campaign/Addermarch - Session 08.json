@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 08.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 8,
+  "name": "Addermarch Campaign - Session 8",
+  "descTitle": "Entering the Caverns",
+  "tagline": "in which the party battles skeletons and oozes",
+  "realWorldDate": "2025-01-05",
+  "drStart": "1715-05-13",
+  "drEnd": "1715-05-13",
+  "shortSummary": "Deep in the West Stonewolds Caves, the party smashes a giant skeleton, discovers ancient ruins patrolled by a sapphire dragon, and survives piercers and gray oozes while harvesting uligium.",
+  "longSummary": "In the lightless depths of the West Stonewolds Caves, Drou, Fazoth, and Yvan enter a vast cavern dominated by a giant skeleton that animates and attacks; Drou's flurry of blows and Fazoth's eldritch blast shatter it, though Yvan is briefly terrified by its disembodied arm. Fazoth's pseudodragon scouts a massive pit, glimpsing an underground road and an ancient city ruled by a sapphire dragon that casually destroys the familiar, before exploring a collapsed dwarf tunnel and returning with old coins. The party locates their first patch of uligium in a side cavern and pauses for lunch. Venturing on, they cross a shallower pit while evading piercers, then reach a damp chamber rich in uligium where two gray oozes attack; Yvan's chromatic orb alters their vulnerabilities, Drou's daggers do heavy damage despite corroding in the acid, and with help from the pseudodragon they finally slay the oozes, reviving a fallen Drou with a potion.",
+  "sessionProfile": {
+    "combat": "heavy",
+    "roleplay": "light",
+    "travel": "light"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Sapphire Dragon",
+      "context": "enemy",
+      "notes": "Powerful dragon glimpsed in ancient underground ruins that annihilates Fazoth's pseudodragon familiar."
+    },
+    {
+      "name": "Ancient dwarf",
+      "context": "mentioned",
+      "notes": "Long-dead dwarf found under a cave-in, whose armor and coins hint at old exploration of the deeps."
+    },
+    {
+      "name": "Giant Skeleton",
+      "context": "enemy",
+      "notes": "Animated guardian of the first cavern, smashed by the party."
+    },
+    {
+      "name": "Piercers",
+      "context": "enemy",
+      "notes": "Ceiling-dwelling ambushers dropping on the party at a shallow pit crossing."
+    },
+    {
+      "name": "Gray Oozes",
+      "context": "enemy",
+      "notes": "Corrosive creatures guarding a wet chamber filled with uligium."
+    }
+  ],
+  "organizations": [],
+  "places": [
+    {
+      "name": "West Stonewolds Caves (upper deeps)",
+      "context": "visited",
+      "notes": "Large caverns and side chambers where the skeleton and first uligium vein are found."
+    },
+    {
+      "name": "Underground road and city",
+      "context": "mentioned",
+      "notes": "Ancient subterranean roadway and ruined city ruled by a sapphire dragon far below."
+    }
+  ],
+  "journeys": [],
+  "combats": [
+    {
+      "name": "Giant skeleton in first cavern",
+      "location": "Large cavern in West Stonewolds Caves",
+      "foes": [
+        "Giant Skeleton"
+      ]
+    },
+    {
+      "name": "Piercer ambush",
+      "location": "Shallow pit crossing in side passage",
+      "foes": [
+        "Piercers"
+      ]
+    },
+    {
+      "name": "Gray oozes in uligium chamber",
+      "location": "Wet uligium cave in West Stonewolds Caves",
+      "foes": [
+        "Gray Oozes"
+      ]
+    }
+  ],
+  "treasure": [
+    "Four ancient golden dwarf coins",
+    "First harvested uligium from upper caverns",
+    "Additional uligium from the gray ooze chamber"
+  ],
+  "meta": {
+    "startingLevel": null,
+    "endingLevel": null,
+    "xpAward": null
+  }
+}
+

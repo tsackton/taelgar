@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 07.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 7,
+  "name": "Addermarch Campaign - Session 7",
+  "descTitle": "Into the Cave",
+  "tagline": "in which the party discovers a cave dweller",
+  "realWorldDate": "2024-12-01",
+  "drStart": "1715-05-12",
+  "drEnd": "1715-05-13",
+  "shortSummary": "Leaving Fontwick, the party survives spider ambushes in the western Stonewolds, meets Norman the Wanderer, and infiltrates an ogre-guarded cave to descend into the West Stonewolds Caves.",
+  "longSummary": "Departing Samatha of Fontwick's farm, Drou, Fazoth, and Yvan head into the rocky, web-strewn forests of the western Stonewolds. A nearly invisible web trap and a swarm of tiny spiders briefly threaten them before Yvan's flames and Fazoth's magic burn the swarm away and they flee a looming giant spider. That night they camp a few miles from the cave they seek and meet Norman the Wanderer, an eccentric hermit who complains about them being in his hills but warms to conversation, warning them about a 'double-big man' and wolf at the cave entrance and agreeing to guide them at dawn. In the morning Norman leads them to the cave where a ten-foot 'big man' butchers a cow for stew; Drou lures him away with illusory goats, Fazoth puts the wolf to sleep, and the party rappels down a deep pit into the West Stonewolds Caves, severing their upper rope to thwart the furious ogre before descending further into the lightless depths.",
+  "sessionProfile": {
+    "combat": "light",
+    "roleplay": "medium",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Norman the Wanderer",
+      "context": "encounter",
+      "notes": "Eccentric hermit of the western Stonewolds who warns of the 'double-big man' and leads the party to the cave."
+    },
+    {
+      "name": "Big Man (ogre)",
+      "context": "enemy",
+      "notes": "Towering ogre-like cave dweller at the cave entrance who favors halfling snacks and is lured away from the pit."
+    },
+    {
+      "name": "Wolf",
+      "context": "enemy",
+      "notes": "Slavering companion to the Big Man, put to sleep by Fazoth."
+    },
+    {
+      "name": "Samatha of Fontwick",
+      "context": "mentioned",
+      "notes": "Farmer the party helped in the previous session; starting point of this day's travel."
+    }
+  ],
+  "organizations": [],
+  "places": [
+    {
+      "name": "Fontwick",
+      "context": "visited",
+      "notes": "Village west of Roscombe near which the party camps before heading into the hills."
+    },
+    {
+      "name": "Western Stonewolds",
+      "context": "visited",
+      "notes": "Rugged, web-strewn forested hills where the party faces spider threats."
+    },
+    {
+      "name": "West Stonewolds Caves (surface cave)",
+      "context": "visited",
+      "notes": "Surface cave and kitchen used by the Big Man and his wolf."
+    },
+    {
+      "name": "West Stonewolds Caves (deep shaft)",
+      "context": "visited",
+      "notes": "Deep pit and lower caverns the party rappels into."
+    },
+    {
+      "name": "Roscombe",
+      "context": "mentioned",
+      "notes": "Distant home base referenced in the notes."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Samatha's farm",
+      "to": "Western Stonewolds",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Western Stonewolds",
+      "to": "West Stonewolds Caves (surface cave)",
+      "mode": "overland on foot"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Spider swarm on the trail",
+      "location": "Web-strewn forest in the western Stonewolds",
+      "foes": [
+        "Spider swarm"
+      ]
+    },
+    {
+      "name": "Wolf at cave entrance",
+      "location": "West Stonewolds surface cave",
+      "foes": [
+        "Wolf"
+      ]
+    }
+  ],
+  "treasure": [],
+  "meta": {
+    "startingLevel": null,
+    "endingLevel": null,
+    "xpAward": null
+  }
+}
+

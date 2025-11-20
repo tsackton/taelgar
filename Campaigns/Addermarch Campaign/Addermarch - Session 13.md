@@ -11,13 +11,13 @@ name: Addermarch Campaign - Session 13
 tagline: in which the party enters the Feywild
 descTitle: The Hollow Man
 ---
-# Addermarch Campaign - Session 12
+# Addermarch Campaign - Session 13
 
 >[!info] The Hollow Man: in which the party enters the Feywild
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*
 > *In Taelgar: (DR:: 1715-05-18)*
 > *On Earth: Monday October 13, 2025*
-> *[[Highmoor]] and the [[Feywild]]
+> *[[Highmoor]] and the [[Feywild]]*
 
 The party follows worg tracks to a Feywild portal, kills a Hollow Man, and enters the Feywild. 
 
@@ -43,7 +43,7 @@ The party follows worg tracks to a Feywild portal, kills a Hollow Man, and enter
 
 [[Fazoth de Brune|Fazoth]], [[Yvan Greenrabbit|Yvan]], and [[Drou]] continue to follow a worg trail across the [[Highmoor]]. Several hours pass as the trail continues up and down the next ridge, and then turns northeast towards a strange foggy depression some miles off. 
 
-By late afternoon, [[Fazoth de Brune|Fazoth]], [[Drou]], and [[Yvan Greenrabbit|Yvan]] arrive at the [[~Highmoor Fey Portal~|foggy depression]]. Their is a deep unnatural feeling to the fog, as it clings and clusters to the roots of a massive fallen tree with no regard for the sun. An occasional faint wind rustles the roots, which hang strangely like wind chimes. After some experimentation by [[Yvan Greenrabbit|Yvan]] with _Elementalism_, which causes the wind-chime-like roots to play haunting sounds, [[Drou]] is able to replicate the notes and opens a portal in the fallen tree. 
+By late afternoon, [[Fazoth de Brune|Fazoth]], [[Drou]], and [[Yvan Greenrabbit|Yvan]] arrive at the [[Nightsong Roots|foggy depression]]. Their is a deep unnatural feeling to the fog, as it clings and clusters to the roots of a massive fallen tree with no regard for the sun. An occasional faint wind rustles the roots, which hang strangely like wind chimes. After some experimentation by [[Yvan Greenrabbit|Yvan]] with _Elementalism_, which causes the wind-chime-like roots to play haunting sounds, [[Drou]] is able to replicate the notes and opens a portal in the fallen tree. 
 
 A hollow man emerges and attacks. Remembering the rhyme, the party focuses on fire damage, and the creature is quickly dispatched. Stepping into the [[Feywild]], the party follows a path through a dense, dark forest. On the path, they are attacked by small fey, a group of thorn-like creatures and a flying archer with ice arrows. 
 

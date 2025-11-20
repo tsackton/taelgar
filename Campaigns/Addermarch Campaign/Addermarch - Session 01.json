@@ -1,0 +1,123 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 01.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 1,
+  "name": "Addermarch Campaign - Session 1",
+  "descTitle": "Desolation at Torvaine Watch",
+  "tagline": "in which the party battles zombies",
+  "realWorldDate": "2024-09-08",
+  "drStart": "1715-04-25",
+  "drEnd": "1715-04-28",
+  "shortSummary": "The party escorts Oona Stonebridge from Valcroix toward Roscombe and discovers Torvaine Watch overrun by undead.",
+  "longSummary": "On the road from Valcroix toward Roscombe, Drou, Fazoth, and Yvan escort Oona Stonebridge through orchards and into the Torvaine Forest. After clearing a deadfall and surviving an ambush by burrowing mohlers, they find a blood-drained peddler apparently fleeing Torvaine Watch. Reaching the hilltop garrison, they are warned by a ghostly knight and then battle zombies in the mess hall and barracks. Looting the keep, they recover a key, treasure, and Marshal Hildo Brask's troubling letter before ending the session in his quarters.",
+  "sessionProfile": {
+    "combat": "medium",
+    "roleplay": "light",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Oona Stonebridge",
+      "context": "companion",
+      "notes": "Halfling merchant escorted from Valcroix toward Roscombe."
+    },
+    {
+      "name": "Ghostly knight of Torvaine Watch",
+      "context": "encounter",
+      "notes": "Armored spirit who warns the party they will find only death in the keep."
+    },
+    {
+      "name": "Marshal Hildo Brask",
+      "context": "mentioned",
+      "notes": "Second-in-command of Torvaine Watch; missing during the session but central to the mystery."
+    },
+    {
+      "name": "Unidentified peddler",
+      "context": "encounter",
+      "notes": "Blood-drained corpse found on the road near Torvaine Watch."
+    },
+    {
+      "name": "Caradoc",
+      "context": "mentioned",
+      "notes": "Enigmatic alchemist in Roscombe whom the party plans to serve."
+    }
+  ],
+  "organizations": [
+    "Torvaine Watch"
+  ],
+  "places": [
+    {
+      "name": "Valcroix",
+      "context": "visited",
+      "notes": "Riverside town where the session begins."
+    },
+    {
+      "name": "Torvaine Forest",
+      "context": "visited",
+      "notes": "Forested uplands the road climbs through toward the watch."
+    },
+    {
+      "name": "Torvaine Watch",
+      "context": "visited",
+      "notes": "Hilltop garrison and keep discovered overrun by undead."
+    },
+    {
+      "name": "Roscombe",
+      "context": "mentioned",
+      "notes": "Trade city and intended destination of the caravan."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Valcroix",
+      "to": "Torvaine Forest",
+      "mode": "overland caravan"
+    },
+    {
+      "from": "Torvaine Forest",
+      "to": "Torvaine Watch",
+      "mode": "overland caravan"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Mohler ambush near Torvaine Watch",
+      "location": "Road approaching Torvaine Watch",
+      "foes": [
+        "Mohlers"
+      ]
+    },
+    {
+      "name": "Mess hall zombies",
+      "location": "Torvaine Watch (mess hall)",
+      "foes": [
+        "Zombies"
+      ]
+    },
+    {
+      "name": "Barracks zombies",
+      "location": "Torvaine Watch (barracks)",
+      "foes": [
+        "Zombies"
+      ]
+    }
+  ],
+  "treasure": [
+    "Large iron key to the Torvaine Watch gathering hall",
+    "Marshal Brask's Letter",
+    "Assorted coin and loot from Torvaine Watch barracks and Marshal Brask's quarters"
+  ],
+  "meta": {
+    "startingLevel": 1,
+    "endingLevel": 1,
+    "xpAward": null
+  }
+}
+

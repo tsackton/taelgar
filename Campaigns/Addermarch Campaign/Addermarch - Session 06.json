@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 06.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 6,
+  "name": "Addermarch Campaign - Session 6",
+  "descTitle": "The Ankheg of Fontwick",
+  "tagline": "in which the party faces a burrowing menace",
+  "realWorldDate": "2024-11-17",
+  "drStart": "1715-05-09",
+  "drEnd": "1715-05-12",
+  "shortSummary": "In Roscombe and Fontwick, the party accepts Caradoc's uligium quest, tracks a burrowing menace, and slays an ankheg threatening a dairy farm.",
+  "longSummary": "After a quiet market day in Roscombe, Drou, Fazoth, and Yvan meet with Caradoc, who commissions them to descend into nearby deep caverns to recover the rare living mineral uligium. They spend the next day buying rope, climbing gear, and supplies while gathering cave lore from Colette du Bois and other locals to locate the closest subterranean system. Traveling west toward Fontwick, they encounter distraught dairy farmers Samatha and Godfrey whose herd has been slaughtered by a massive burrowing insect. Samatha leads them back to her farm, where they keep watch through the night until an ankheg erupts from the pasture; synchronized witch bolts from Fazoth and Yvan, backed by Drou, bring it down before it can cause more harm. At dawn, Yvan gifts Samatha enough coin to replace her herd, and the grateful farmer provisions the adventurers as they continue toward the rumored deep caverns.",
+  "sessionProfile": {
+    "combat": "medium",
+    "roleplay": "medium",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Caradoc",
+      "context": "encounter",
+      "notes": "Eccentric alchemist in Brantor who commissions the party to retrieve uligium from deep caverns."
+    },
+    {
+      "name": "Colette du Bois",
+      "context": "encounter",
+      "notes": "Recently rescued squire who shares local cave lore and rumors of deep systems."
+    },
+    {
+      "name": "Samatha of Fontwick",
+      "context": "encounter",
+      "notes": "Dairy farmer whose herd is attacked by an ankheg; aided by the party."
+    },
+    {
+      "name": "Godfrey of Fontwick",
+      "context": "encounter",
+      "notes": "Samatha's husband who rides to Roscombe to seek Lady Duval's aid."
+    },
+    {
+      "name": "Lady Elowen Duval",
+      "context": "mentioned",
+      "notes": "Castellan of Roscombe whom Samatha and Godfrey hope will send help."
+    },
+    {
+      "name": "Ankheg",
+      "context": "enemy",
+      "notes": "Burrowing monstrosity that attacks Samatha's pasture at night and is slain by the party."
+    }
+  ],
+  "organizations": [
+    "Caradoc's alchemical circle"
+  ],
+  "places": [
+    {
+      "name": "Roscombe",
+      "context": "visited",
+      "notes": "Market town and current base of operations."
+    },
+    {
+      "name": "The Traveler's Rest",
+      "context": "visited",
+      "notes": "Inn in Roscombe where the party lodges."
+    },
+    {
+      "name": "Fontwick",
+      "context": "visited",
+      "notes": "Rural village west of Roscombe and destination on the road to the deep caverns."
+    },
+    {
+      "name": "Samatha's farm",
+      "context": "visited",
+      "notes": "Dairy farm outside Fontwick where the ankheg attack occurs."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Roscombe",
+      "to": "Fontwick",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Fontwick",
+      "to": "Samatha's farm",
+      "mode": "overland on foot"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Ankheg at Samatha's pasture",
+      "location": "Samatha's farm fields outside Fontwick",
+      "foes": [
+        "Ankheg"
+      ]
+    }
+  ],
+  "treasure": [
+    "Provision of bread, cheese, and apples from Samatha of Fontwick"
+  ],
+  "meta": {
+    "startingLevel": null,
+    "endingLevel": null,
+    "xpAward": null
+  }
+}
+
