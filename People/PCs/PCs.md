@@ -17,7 +17,7 @@ In the DR 1700s, four groups of adventurers are most active in Taelgar:
 
 Other adventurers include:
 - The [[Adventurers of Mawar]], united by their shared home of [[Hamri]], and whose exploits are [[Mawar Adventures|told elsewhere]].
-- The [[Oskar's Companions|companions of Oskar and Riswynn]], who [[Oskar's Travels|solved some problems]] around [[Tharn Todor]] in DR 1748
+- The [[Oskar's Companions|companions of Oskar and Riswynn]], who [[Oskar in Tharn Todor|solved some problems]] around [[Tharn Todor]] in DR 1748
 - The [[Labyrinth Prisoners|prisoners of Grimstone]], who [[Labyrinths of the Lost|escaped]] from an abandoned manor in [[Western Cymea]].
 - [[Izar]], [[Roe DoTorka]], and [[Soraine]], who investigated a murder in [[Ausson's Crossing]] in DR 1688. 
 
