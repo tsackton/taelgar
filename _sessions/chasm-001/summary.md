@@ -1,3 +1,11 @@
+# Timeline
+
+
+- (DR::1730-01-08):  The [[Vejo Vaikai ]]gather some of their wisest mystics, and send them, protected by warriors of Kemeko, to investigate strange happens in the [[Great Chasm]]. 
+- (DR:: 1730-01-25), early afternoon: Ekko, Finna, Jrain, Justas, Elo, and Kalima are pulled by an unnatural storm into the [[Great Chasm]]; landing on an ice flow, they survive an attack by ice wolves, introduce themselves to each other, and prepare to explore.
+
+# Bullet Points
+
 ## Into the Chasm
 
 - The Great Chasm in Zimkova yawns like a wound in the world, spewing impossible storms, lights, strange vegetation, and other anomalies that different traditions interpret as either a place of refuge or a seat of elemental power.
