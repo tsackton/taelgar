@@ -1,0 +1,152 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 1.md",
+  "campaign": "Into the Chasm",
+  "sessionNumber": 1,
+  "name": "Into the Chasm - Episode 1",
+  "descTitle": "Into the Chasm",
+  "tagline": "in which a storm flings five strangers into Zeyfa's maze",
+  "realWorldDate": "2025-11-17",
+  "drStart": "1730-01-25",
+  "drEnd": "1730-01-25",
+  "shortSummary": "Drawn by omens around the Great Chasm, five adventurers and a terrified Zimkovan woman are torn from the world by an impossible ice storm and awaken on a lone platform in Zeyfa’s Labyrinth, where ice wolves, wind-shaped shades, and chasm wisps test their resolve before they choose to leap into a maze that may be the only way out.",
+  "longSummary": "As storms and strange signs around the Great Chasm escalate, Jrain Fanlish, Finnan Oakstride, Justas Rhostrin, Ekko, and Eolo converge on its rim from Breva, Dravnieki, and Kemeko, joined by Kalima, a Zimkovan woman who recently staggered out of the chasm speaking only Old Zimkovan. A sudden, unnatural blizzard of ice and snow rips them from the world and hurls them into darkness, leaving them stranded on a circular ice platform beneath a false storm-sky, flanked by two wolf 'statues' guarding narrow bridges. When Eolo approaches one, both wolves animate, shattering their shells and unleashing a brutal fight across slick ice as the creatures try to drag their prey over the edge, followed by the arrival of shrieking wind-shades and chasm wisps that lash minds and vision. In the aftermath, Finnan’s magic and language soothe Kalima enough for her to reveal that they stand in Zeyfa’s Labyrinth, a maze ruled by the cruel West Wind and fed by generations of sacrificial victims from her hidden people, who believe the only way out lies deeper in. Testing the hostile environment, the party confirms a lethal updraft bars descent from the platform while the bridges lead to a snow-choked chamber and four twisting tunnels; with Kalima clinging between Finnan and Justas and warning that the labyrinth’s beast 'doesn’t like waiting' and that this is no place to sleep, they leap together into the tunnels, seeking escape by going further in.",
+  "sessionProfile": {
+    "combat": "heavy",
+    "roleplay": "medium",
+    "travel": "light"
+  },  
+  "pcs": [
+    "Jrain Fanlish",
+    "Finnan Oakstride",
+    "Justas Rhostrin",
+    "Ekko",
+    "Eolo"
+  ],
+  "npcs": [
+    {
+      "name": "Kalima",
+      "context": "companion",
+      "notes": "Terrified Zimkovan woman from an isolated culture bound to the West Wind, who names their prison Zeyfa's Labyrinth and joins the party into the tunnels."
+    },
+    {
+      "name": "Zeyfa",
+      "context": "enemy",
+      "notes": "Cruel West Wind of Zimkovan legend, Kestavo of the West, said to rule the labyrinth and demand sacrifices."
+    },
+    {
+      "name": "Kestavo",
+      "context": "mentioned",
+      "notes": "Pantheon of powerful spirits and deities to whom Justas and others are devoted; Romil the Glacier King is one of them."
+    },
+    {
+      "name": "Romil the Glacier King",
+      "context": "mentioned",
+      "notes": "Kestavo whose token in Justas's possession flares with glacial light to prove some divine power still reaches the labyrinth."
+    },
+    {
+      "name": "Vejo Vaikai mystics",
+      "context": "mentioned",
+      "notes": "Mystics who previously descended into the Great Chasm with Kemeko warriors and vanished."
+    },
+    {
+      "name": "Kemeko monks",
+      "context": "mentioned",
+      "notes": "Kenku monks of the Kemeko Monastery who dance with the winds along the Chasm's cliffs."
+    },
+    {
+      "name": "Eidrikas",
+      "context": "mentioned",
+      "notes": "Vejo Vaikai mentor of Ekko who previously descended into the Chasm and has not returned."
+    },
+    {
+      "name": "Pakrinek",
+      "context": "mentioned",
+      "notes": "Kenku from Kemeko who descended into the Great Chasm with Eidrikas."
+    }
+  ],
+  "organizations": [
+    "Vejo Vaikai",
+    "Kemeko Monastery",
+    "Kestavo",
+    "Deno'qai"
+  ],
+  "places": [
+    {
+      "name": "Great Chasm",
+      "context": "visited",
+      "notes": "Vast rift in Zimkova from which strange weather and phenomena arise, and into which the party is dragged."
+    },
+    {
+      "name": "Zimkova",
+      "context": "visited",
+      "notes": "Region containing the Great Chasm and Kemeko."
+    },
+    {
+      "name": "Breva",
+      "context": "mentioned",
+      "notes": "Forest region south of the Chasm where Vejo Vaikai dwell and orc warbands ravage the land."
+    },
+    {
+      "name": "Teft",
+      "context": "mentioned",
+      "notes": "River down which strange signs—from living ice sheets to volcanic boulders—have drifted from the Chasm."
+    },
+    {
+      "name": "Selgrava",
+      "context": "mentioned",
+      "notes": "River along whose banks the Vejo Vaikai live before it joins the Teft."
+    },
+    {
+      "name": "Nidzahar",
+      "context": "mentioned",
+      "notes": "Dwarven realm north of the Chasm that fought the Ravager of Winter."
+    },
+    {
+      "name": "Dravnieki",
+      "context": "mentioned",
+      "notes": "Village on the upper Teft where Justas and Finnan wintered while defending against orcs."
+    },
+    {
+      "name": "Kemeko Monastery",
+      "context": "mentioned",
+      "notes": "Kenku monastery carved into giant-sized terraces below the rim of the Great Chasm."
+    },
+    {
+      "name": "Zeyfa's Labyrinth",
+      "context": "visited",
+      "notes": "Kalima's name for the ice platform, storm, and maze space ruled by the West Wind."
+    },
+    {
+      "name": "Ice platform",
+      "context": "visited",
+      "notes": "Roughly circular floe floating in darkness, with two ice-encased wolves and bridges leading into the labyrinth."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Great Chasm rim",
+      "to": "Ice platform in Zeyfa's Labyrinth",
+      "mode": "magical storm"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Ice wolves on the platform",
+      "location": "Ice platform in Zeyfa's Labyrinth",
+      "foes": [
+        "Ice wolves",
+        "Wind-formed shades",
+        "Chasm wisps"
+      ]
+    }
+  ],
+  "treasure": [],
+  "meta": {
+    "startingLevel": 6,
+    "endingLevel": 6,
+    "xpAward": null
+  }
+}
+
