@@ -27,6 +27,7 @@ Drawn by omens around the [[Great Chasm]], five adventurers and a terrified Zimk
 
 * (DR:: 1730-01-02) - (DR:: 1730-01-07): The sky above the [[Great Chasm]] turns black during the day, a darkness that spreads and is visible like a smudge on the sky for many miles around
 - (DR::1730-01-08):  The [[Vejo Vaikai ]]gather some of their wisest mystics, lead by [[Eidrikas]], Ekko's mentor, protected by [[Pakrinek]] one of the warriors of Kemeko, to investigate strange happens in the [[Great Chasm]]. 
+- (DR:: 1730-01-16): a cloud of superheated steam obscures the Chasm near [[Kemeko Monastery]] and fog and mist rises from the depths
 - (DR:: 1729-01-22): [[Kalima]] emerges from Great Chasm, apparently climbing the cliff face near [[Kemeko Monastery]]. She is terrified of the kenku and will not speak to them.
 - (DR:: 1730-01-25), early afternoon: Ekko, Finna, Jrain, Justas, Elo, and Kalima are pulled by an unnatural storm into the [[Great Chasm]]; landing on an ice flow, they survive an attack by ice wolves, introduce themselves to each other, and prepare to explore.
 
