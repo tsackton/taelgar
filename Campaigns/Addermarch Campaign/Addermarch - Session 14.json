@@ -39,9 +39,9 @@
       "notes": "Corrupted fey tree whose heart was stolen by a mortal wielding a gemmed axe, twisting its song into violence."
     },
     {
-      "name": "Aurenxis",
+      "name": "Caradoc",
       "context": "mentioned",
-      "notes": "Transmuter and alchemist who once traveled widely through the Feywild and may know more about the stolen heart."
+      "notes": "Transmuter and alchemist who once traveled widely through the Feywild under the alias Aurenxis and may know more about the stolen heart."
     }
   ],
   "organizations": [
@@ -100,4 +100,3 @@
     "xpAward": null
   }
 }
-
