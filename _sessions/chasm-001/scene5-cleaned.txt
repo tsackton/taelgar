@@ -32,17 +32,17 @@ DM: "Zeyfa's Labyrinth. You do not know? You speak our tongue, yet you don't kno
 Finnan: I assume I know several—many—stories about Zeyfa's Labyrinth, unless they're completely lost. Okay.
 DM: You've never heard of Zeyfa.
 Finnan: I'm gonna fake it and say, "Of course I know the stories," and I'm gonna just try to take my fiddle and just pluck on it a little bit, just, like, starting to sort of improvise a little bit of a tune. And I'm gonna tell her, "But I'm… I'm here to… I've come here to write down the songs. And yours specifically are ones I have not heard."
-DM: Mike, is this Zephia, the West Wind?
+DM: Mike, is this Zeyfa, the West Wind?
 unknown_speaker{Justas}: Yeah. The cruel west wind.
 Justas: I'll say that in—is Old Zimkoven a spoken language still? Like, people still talk it?
 DM: So, like, way up in the mountains, like, in the foothills of the Sentinels, on the fringes of civilization, there's occasionally, like, little tribes. Remember the Braugaldi from Dunmark, the people north of Ersk? The old Zimkovans are kind of related to them. They're not the same—they don't turn into animals in the same way and stuff like that—but… very few.
 DM: Like, you would have met a few people here and there on your travels that spoke it, but nobody in Breva still speaks it. It's more of a lost language from the… from the local… so it'd be surprising to see somebody speaking it. They're few and far between.
 Justas: Let's just… I'll chime in to say, over Finnan, "Zeyfa, the cruel west wind… I've met many, many, many of the Kestavo in this land, but I've never known that Zeyfa had a home."
-unknown_speaker{DM}: So you would know, I mean, the story is that Zephia lives in the chasm.
+unknown_speaker{DM}: So you would know, I mean, the story is that Zeyfa lives in the chasm.
 DM: You've never totally believed…
 Justas: Sorry, nevermind.
 DM: Yeah, you would, like… there's a… there's a myth, a legend, that…
-Justas: Well, I'll say then, "I never really believed that Zephia lived in the chasm."
+Justas: Well, I'll say then, "I never really believed that Zeyfa lived in the chasm."
 DM: "The chasm?" she says.
 Justas: What year is it?
 DM: "We don't… we don't count the years. It's been… seven… seven by seven by seven generations since we came to this land."
@@ -55,7 +55,7 @@ Justas: "Many."
 DM: …"many," right? Like, they probably… it's not really 21 generations, right? "A great cataclysm shook the earth. The swamps drained away. The… the seas changed."
 Finnan: So I'm… plucking a little bit on my fiddle as well, and trying to get her to just, like, keep… I'm sort of…
 unknown_speaker{Finnan}: …turning this into a little bit of a song as she begins to talk.
-DM: "And we came to this land to hide from the great cataclysm. But… but Zephia is here waiting. We did not know. It was their home. And now… now Zephia demands appeasement, with their labyrinth. No one escapes."
+DM: "And we came to this land to hide from the great cataclysm. But… but Zeyfa is here waiting. We did not know. It was their home. And now… now Zeyfa demands appeasement, with their labyrinth. No one escapes."
 Justas: And yet, you got out once before. Or seemed to.
 DM: She says—sorry, I'm sending Tim a little message—yes, obviously. Okay. The… yes.
 unknown_speaker{DM}: She sort of looks around all of a sudden and shrieks—
@@ -90,10 +90,10 @@ DM: Okay.
 Justas: I think I'll—
 Finnan: And I'll just keep that going, just, like, plucking on my fiddle to keep the illusion going, so recasting the cantrip every minute.
 unknown_speaker{DM}: Try—Schwartz, what were you gonna say?
-Justas: Yeah, I'll go looking among, like, all the different, like, charms and relics and symbols of the Gustavo that I've accumulated over the years for something from the high mountains—like, something that I might guess at her being familiar with, based on sort of dress and speech and… anything show where she's from.
-DM: There's a… there's a famous, well-known Gustavo called Rommel, the Glacier King, who is supposed to live on the highest peak of the Sentinels, but is also supposed to have a very ancient provenance, and, like, is the old… you know, was here when the people first came, kind of thing.
+Justas: Yeah, I'll go looking among, like, all the different, like, charms and relics and symbols of the Kestavo that I've accumulated over the years for something from the high mountains—like, something that I might guess at her being familiar with, based on sort of dress and speech and… anything show where she's from.
+DM: There's a… there's a famous, well-known Kestavo called Rommel, the Glacier King, who is supposed to live on the highest peak of the Sentinels, but is also supposed to have a very ancient provenance, and, like, is the old… you know, was here when the people first came, kind of thing.
 Justas: Yeah, I'll find, like, deep sort of in the bottom of a pocket, there's a piece of sea-glass that's blue—like, different shades of blue—that looks like a piece of glacial ice that's a symbol for him, and I'll put it in her hands. Say a few words over it.
-DM: She kind of clutches it gratefully for a moment, and then kind of looks at you and says, "There are no Gustavo here."
+DM: She kind of clutches it gratefully for a moment, and then kind of looks at you and says, "There are no Kestavo here."
 Justas: Well, we'll find our way back then.
 DM: "I can't…" I mean, you actually know this is not true. You at least have enough connection to them to cast your magic, but she says, "They cannot… they cannot hear our prayers here. We are too far away."
 unknown_speaker{Justas}: I'll say…
