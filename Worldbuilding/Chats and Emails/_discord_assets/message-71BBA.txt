@@ -1,0 +1,34 @@
+### **Style 1: "In-World" Perspective**
+
+> Written from the perspective of a scholar or traveler within the world.
+
+The western [[Green Sea]] is home to many peoples, primarily humans and lizardfolk. 
+
+Humans are, by far, the most numerous people of the region. The [[Skaerhem|Skaer]] have a long history in the [[Green Sea]] and although since the [[Great War]] they have mostly kept to themselves, Skaer sailors are commonly seen as far as [[Tollen]] and [[~South Cymea~|southern Cymea]]. [[Cymea]], once a powerful maritime empire, is in decline, and its numerous cities and coastal towns rarely exert influence beyond their borders. The lands [[~South Cymea~|to the south]], once a major [[Drankor|Drankorian province]], and later a trading partner with [[Isingue]], suffered greatly in the [[Great War]].  Although rumors of various squabbling realms have come north, few know what has emerged from the [[Blood Years]] there.
+
+The dwarves, known for their deep halls and mountain strongholds, are said to have a presence in the southern lands. In Cymea itself, they are scarce, and in the Skaer Islands, they are all but unheard of. Perhaps some secretive enclaves exist, but none have been recorded.
+
+Elves, while once more common, are now a rare sight. Most hail from distant Orenlas, but there are whispers of small communities of Rostare-born elves who may have found refuge here. If they exist, they keep to themselves, and few can say with certainty where they dwell.
+
+Lizardfolk are known to dwell in great numbers within the Latazso swamp on the western border. It is believed that many venture into Cymea and beyond, though their purpose and settlements, if any, remain unclear. Some say that the southern reaches of Cymea hold hidden lizardfolk enclaves, but no one can confirm this with certainty.
+
+The Stoneborn, if they have ever held a place in this land, have left no lasting mark. No known settlements of their kind exist here. 
+
+As for true wilderness, the land is largely tamed, at least compared to the savage expanses of the **Drankorian Hinterland** or the **Upper Istaros**. While dangers certainly exist, the deep, untamed wilds seem to lie beyond these borders.
+
+### **Style 2: "Player" Perspective**
+
+> Written for players, clearly stating what is known, unknown, and undeveloped.
+
+The region of Cymea and its surroundings is primarily home to humans, but other species are present in various ways.
+
+- **Elves**: They are rare in this region. Most elves originate from Orenlas, but there’s an idea that some elves from Rostare may have resettled here. This has not been fully defined yet.
+- **Dwarves**: There are probably significant dwarven populations around [[~South Cymea~]], but dwarves are rare in Cymea and practically nonexistent in the Skaer Islands.
+- **Lizardfolk**: The Latazso swamp on the western border is a major lizardfolk homeland, so logically, there are some lizardfolk in Cymea and further south. However, the specifics of lizardfolk in southern Cymea haven’t been determined yet.
+- **Humans**: Three major human cultures exist in this region: 
+	- the [[Skaerhem|Skaer]], who mostly settle on the [[Skaerhem|Skaer Islands]], but are common sights as mariners across the region.
+	- [[Cymea]], a Drankorian province that had a significant maritime empire sometime before the [[Great War]] but is now in decline. This is a land of city-states and coastal towns without major political cohesion
+	- [[~South Cymea~]], a poorly defined Drankorian province (or perhaps multiple provinces) that suffered greatly during the [[Great War]] and [[Blood Years]]. Some type of polity has emerged, but its exact shape is unclear, although its influence on [[Skaerhem|Skaer]], [[Tollen]], and [[Tyrwingha]] is minimal
+- **Stoneborn**: There’s no indication of a significant Stoneborn population here.
+- **Dangerous Wilderness**: This region is relatively settled, and most "dangerous wilderness" elements will probably be placed in **Drankorian Hinterland** or **Upper Istaros** instead.
+

@@ -1,0 +1,23 @@
+site_name: TaelgarVerse 1720
+theme:
+  name: material
+markdown_extensions:
+  - md_in_html
+  - footnotes
+  - nl2br
+  - attr_list
+  - sane_lists
+  - meta
+  - smarty
+  - tables
+  - def_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+plugins:
+  - search  
+  - callouts
+  - ezlinks:
+     warn_ambiguities: true
+     wikilinks: true
+     reference_links: false
