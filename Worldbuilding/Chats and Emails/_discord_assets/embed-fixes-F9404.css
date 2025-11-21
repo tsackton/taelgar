@@ -1,0 +1,11 @@
+.internal-embed[alt="natural"] .file-embed-title,
+.internal-embed[alt="natural"] .markdown-embed-title {
+display: none;
+}
+.internal-embed[alt="natural"]>.markdown-embed {
+padding: inherit;
+border: 0;
+}
+.markdown-reading-view .markdown-preview-view:not(.is-readable-line-width)>.markdown-preview-sizer {
+margin: inherit;
+}
