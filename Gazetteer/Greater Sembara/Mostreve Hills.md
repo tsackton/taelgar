@@ -27,7 +27,7 @@ The two north-south mountainous ridges are:
 
 The east-west hills are:
 
-* The [[Valenfray Hills]] form a line of gentle rolling hills that run in a broken east-west line, from roughly the [[Aure]] to where they meet the [[Maerwyn Mountains]].  This ridgeline partially separates [[Addermarch]] from the [[Darkwood]]. The easterly parts of these hills are typically gentle, rolling hills with light forests, and are settled by foresters and others. As they ascend to meet the Maerwyns, the terrain grows rougher, with many sharp ravines, making travel challenging. These hills have been extensively fortified over many years by [[Addermarch]] to guard its southern borders from the [[Plaguelands]] and the [[Darkwood]]. 
+* The [[Valenfray Hills]] form a line of gentle rolling hills that run in a broken east-west line, from roughly the [[Aure]] to where they meet the [[Maerwyn Mountains]].  This ridgeline partially separates [[Addermarch]] from the [[Darkwood]]. The westerly parts of these hills are typically gentle, rolling hills with light forests, and are settled by foresters and others. As they ascend to meet the Maerwyns, the terrain grows rougher, with many sharp ravines, making travel challenging. These hills have been extensively fortified over many years by [[Addermarch]] to guard its southern borders from the [[Plaguelands]] and the [[Darkwood]]. 
 
 - The ~Tyrwinghan Hills~ form a line of hills and valleys running roughly east-west from the [[Maerwyn Mountains|Maerwyns]] to the [[~Cymea Border Mountains~]].  
 
