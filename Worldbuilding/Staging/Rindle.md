@@ -1,1 +1,0 @@
-%% The Rindle (meandering river in Wisford, flowing north  and west joining half-way between Gowerburne and Chemelle) %%
