@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/tim]
 campaign: Addermarch
 sessionNumber: 15
 realWorldDate: 2025-11-16
@@ -11,6 +11,8 @@ name: Addermarch Campaign - Session 15
 tagline: in which the party confronts a ghost and gathers clues
 descTitle: The Haunted Cottage
 ---
+
+%% revise coins to match the correct period of history %%
 # Addermarch Campaign - Session 15
 
 >[!info] The Haunted Cottage: in which the party confronts a ghost and gathers clues
