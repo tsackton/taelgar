@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, place, historical]
+tags: [status/check/mike, place, historical]
 created: 1199
 destroyed: 1429
 typeOf: realm
@@ -13,6 +13,8 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% set status/check/mike - for Addermarch Session 16, I will focus on the 1359-1388 era in the notes below; what is before or after is less relevant and can remain non-canonical for longer.  %%
 
 The Dominion of Avatus was a realm in the [[Upper Istaros]] and [[Greater Sembara]]. Founded by its mysterious ruler [[Avatus]] on the [[Aurbez Plateau]] and lower foothills of the [[Sentinel Range|Sentinels]], at its greatest extent it spread east along the [[Andonne]] to the edges of the [[Darkwood]], and north to the [[Enst]]. Briefly, much of the [[Duchy of Wisford]] and the [[Duchy of Brovna]] was occupied by the Dominion, until [[Avatus]] was defeated by [[Derik I]] and his realm collapsed. 
 
