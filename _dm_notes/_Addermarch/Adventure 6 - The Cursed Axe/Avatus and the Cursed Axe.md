@@ -35,3 +35,5 @@ Discord from Mike:
 Tim:
 
 1. re: cleenseau / avatus - i did not realize it was also vibed as a green gem but i think it would make sense to assume this is connected somehow to magic of the court wizard of avatus
+
+
