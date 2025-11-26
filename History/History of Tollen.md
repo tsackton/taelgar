@@ -24,16 +24,16 @@ This is a brief chronicle of the history of the [[Tollen|Free City of Tollen]], 
 Tollen was originally settled on the north bank of the [[Volta]] long ago, when the elves still ruled vast forests far to the south, and great lizardfolk swamps occupied the land that is now [[Sembara]]. The [[Skaer]] say that the first Tollenders were their distant ancestors, a mariner people who came from [[Hkar]] on great ships and slowly explored and settled the shores of the [[Green Sea]], but it is clear that even from the beginning Tollen was a place where many cultures met and intermingled. This era lasted until the [[The Downfall|Downfall]] and the sinking of [[Hkar]] upended the world, reaching even as far away as the [[Green Sea]]. 
 
 %%^Campaign:none%%
+### DM Notes
+#### Basic Vibes
 
-### Basic Vibes
-
-Tollen is supposed to have (a) an ancient history, and (b) a long history of multiculturalism. It is certainly founded by the Skaer, but is presumably also a place where lizardfolk come, halfling traders dock, and multiple human cultures -- including the mariners, proto-Skaer, and northerners -- mix. Old Tollish presumably develops here out of an Eastros / mariner root (cf. [[Languages#Eastros Language Family]]). Multiple religions canonically even early on though the exact details of the mariner religion and how it develops into the Skaer religion are not invented. There is a suggestion in the history of the Skaer that the original Skaer were eastern mariners fleeing a religious schism and trying to find a quiet place to live in peace. 
+Tollen is supposed to have (a) an ancient history, and (b) a long history of multiculturalism. It is certainly founded by the Skaer, but is presumably also a place where lizardfolk come, halfling traders dock, and multiple human cultures -- including the mariners, proto-Skaer, and northerners -- mix. Old Tollish presumably develops here out of an Eastros / mariner root (cf. [[Languages#Eastros Language Family]]). Multiple religions canonically even early on though the exact details of the mariner religion and how it develops into the Skaer religion are not invented. There is a suggestion in the [[History of the Skaer]] that the original Skaer were eastern mariners fleeing a religious schism and trying to find a quiet place to live in peace. 
 
 It is not clear if any existing parts of Tollen survive from this era, or whether everything was rebuilt after the Downfall. It is possible, though not clearly established, that the [[Ancient and Honorable Guild of Philosophers]] dates to this era. 
 
 Generally, the Founding Era should mostly function as part of the myth of Tollen to the Tollish. 
 
-### Events
+#### Events
 
 - (CY:: 3902): Tollen is founded %% this is not crucial to anything in play but serves as a useful anchor for worldbuilding and should be considered fixed; this starts the founding era %%
 - (CY:: 4122): The sinking of [[Hkar]] and the end of the [[Downfall Wars]] %% see: [[Canonical Events]]; this marks the end of the founding era%%
@@ -44,87 +44,26 @@ Generally, the Founding Era should mostly function as part of the myth of Tollen
 ## The Skaer Empire
 *DR 1 - DR 402*
 
-In the aftermath of the [[The Downfall|Downfall]], the seas shifted and the land dried up, the great swamps of the lizardfolk south of Tollen shrinking to small remnants. Many people die in storms and famine. During this time, the [[Skaer]] emerge from the ancient [[~Mariners~|seafarers]] who originally settled Tollen, and become the dominant people of the [[Western Green Sea]], worshipping the ocean goddess [[Kaikkea]]. Tollen becomes a major port and trade center under [[Skaer]] rule. However, to the south, the influence of the [[Drankorian Empire]] is growing, and this era ends when the [[Skaer]] sign the [[Treaty of Marhavn]] with [[Drankorian Empire|Drankor]]. 
+In the aftermath of the [[The Downfall|Downfall]], the seas shifted, the ocean turned violent, and the land dried up, the great swamps of the lizardfolk south of Tollen shrinking to small remnants. Many people die in storms and famine. During this time, the [[Skaer]] emerge from the ancient [[~Mariners~|seafarers]] who originally settled Tollen, and become the dominant people of the [[Western Green Sea]], worshipping the ocean goddess [[Kaikkea]]. Tollen becomes a major port and trade center under [[Skaer]] rule. However, to the south, the influence of the [[Drankorian Empire]] is growing, and this era ends when the [[Skaer]] sign the [[Treaty of Marhavn]] with [[Drankorian Empire|Drankor]]. 
 
 Most people believe that the oldest parts of Tollen -- [[Fiskurth]], [[Skepwalk]], and [[Aesganstrad]] -- were settled during this era. 
 
-###
 - (DR:: 402): The [[Treaty of Marhavn]] is signed between Emperor [[Goristo]] and the [[Skaer]]
 
 
 %%^Campaign:none%%
-
-### Basic Vibes
+### DM Notes
+#### Basic Vibes
 
 The Skaer become a dominate maritime force in the pre-Drankorian western Green Sea (cf. [[History of the Skaer]]), and Tollen is 
 
-%%^End%%
+After [[The Downfall]], the expansionist strand of their religion became dominant, and the Skaer established a maritime empire stretching from the Skaer islands to the [[Western Gulf]] and much of [[Cymea]]. 
 
-## Age of Drankor
-_DR 402 - DR 1059_
-
-
-## The Free City
-_DR 1059 - DR 1715_
-
-
-## Recent Events
-_DR 1715 - current_
-
-
----- TEXT BELOW NOT EDITED ---
-
-
-- Original Skaer were eastern mariners fleeing a religious schism and trying to find a quiet place to live in peace
-- After [[The Downfall]], the expansionist strand of their religion became dominant, and the Skaer established a maritime empire stretching from the Skaer islands to the [[Western Gulf]] and much of [[Cymea]]. 
-
-## History
-
-
-### Founding
-
-Tollen was originally founded on the north bank of the [[Volta]] river by the first mariner migrants from [[Hkar]], before [[The Downfall]], in the year 3902 by the Dwarven reckoning. Although the western edge of the [[Green Sea]], and the [[Western Gulf]], is originally something of a frontier backwater, over the next 100 years Tollen becomes a center of commerce and trade, a place where the mariner culture, the northern culture of [[Highlands]], and the non-[[Humans]] ([[Lizardfolk]] and [[Halflings]], mostly) of the [[Western Green Sea]] mingle. Even in this early age, Tollen was a religiously open and cosmopolitan place, and the worship of [[Kaikkea]], the ocean goddess of the early mariners and now the Skaer people, coexisted with the developing Kestavan tradition.
-
-### Downfall and Rebirth
-
+%%
 In 4050s, [[The Downfall]] Wars begin, and Tollen is cut off from the [[Eastern Green Sea]], as long voyages become too dangerous. The ocean itself turns violent, as storms wrack the seas and the great swamps to the south start to dry. By 4122, when [[The Downfall]] Wars have ended, Tollen is virtually abandoned, and the land that will become [[Sembara]] depopulated, settled by scattered villages of farmers, with [[Embry]] and a few other river towns among the only significant population settlements.
 
 By the 4200s, the Skaer have established themselves as the dominant mariner culture in the [[Western Green Sea]], and resettle and rebuild Tollen. Over the next 300 years, the Skaer grow stronger, spreading along the coast as far south as the mouth of the [[Semb]], raiding upriver for timber and impressed sailors to row their great ships, and seeking converts for their religion. Tollen develops as a major trade center for the emerging Skaer empire, and begins to grow again.
 
-### Drankorian Influence
-
-In 4491, the Drankorians reach the [[Mostreve Hills]], and over the next 50 years or so the Drankorians assimilate the inland people of [[Sembara]] and push the Skaer out, bringing with them the [[Mos Numena]] and the traditions of their vast southern empire. 
-
-In 4535, the Drankorians and the Skaer sign a peace treaty, the [[Treaty of Marhavn]], establishing the [[Volta]] as the frontier of the [[Drankorian Empire]]. Tollen, on the north side of the [[Volta]], remains technically outside the Drankorian territorial claim. However, the Skaer are forbidden from bringing ships up the [[Volta]], and Tollen falls outside their sway and comes under the influence of [[Drankorian Empire|Drankor]]. While technically Tollen takes the name of the Free City of Tollen during this time, the [[Drankorian Empire]] controls its foreign policy as a protectorate.
-
-By the 4600s, during the Long Peace, Tollen begins to assert more autonomy. By now it has become a mixing place of Drankorian, Skaer, and Highlander culture, with diverse religious practices and where many languages can be heard. During this era the first merchant houses are established, becoming rich off the trade of dyed cloth south to [[Drankorian Empire|Drankor]], and the development of magical tattoos, especially those that could help sailors control the wind and sea.
-
-In the 4800s, as Drankorian expansion to the west begins in earnest and the might of the empire is focused to the east, the Tollen merchant houses have de facto control over Tollen, and Tollen has become a major city and one of the central mercantile powers of the [[Western Green Sea]]. It is during this era that the [[University of Tollen]] is founded.
-
-### The Fall of [[Drankorian Empire|Drankor]] and the Growth of [[Sembara]]
-
-When the Plague strikes, while Tollen is spared the worst of the chaos that envelopes the south, but plenty of chaos remains, and various wars and conflicts spiral out of control. While the university survives, and the city itself, most of its wealth is lost as trade is disrupted, and Tollen falls into a dark age. Little is recorded from the time between the Plague in 5192, and the late 5300s, when the Sembaran kings begin to grow in power.
-
-As [[Sembara]] expands in the south, Tollen recovers, and over the 5400s and 5500s Tollen experiences a renaissance of sorts, based on the growing wool and linen trade from the Sembaran heartlands. The lost art of magical tattoos are rediscovered and most of the merchant houses of Tollen today are established during this time period.
-
-In the 5600s, war comes to the [[Green Sea]], first the battles against the ancient white dragon Vimfrost, and then the [[Great War]] itself. Tollen, however, survives intact, and if anything grows in power and influence, as many of the Sembaran kings in the years after the [[Great War]] have ties by blood or marriage to the great houses of Tollen.
-
-Now, in 5881, Tollen commands a significant navy and is the undisputed master of the Western Gulf, controlling the [[Straits of Cymea]] and asserting influence over much of western [[Cymea]].
-
-## Geography
-
-![[map-tollen-drawing.png]]
-Tollen sits astride the Voltra river. Most development is on the north side, which is rockier, less marshy, and generally less prone to flooding, with the south side more recently developed and generally poorer. The height of navigation is considerably upstream of Tollen, although there are few good anchorages for large oceanic ships upriver. 
-
-The terrain around Tollen is characterized by rocky, gently rolling hills to the north and west, and swampy, marshy lowlands to the south and east. The western part of Tollen stretches into reclaimed marshlands, and is prone to tidal flooding, while the eastern and northern parts are drier. The exception is Haurhill, the area around an old Drankorian fort. 
-
-There are four small tributaries of the [[Volta]] that flow through Tollen:
-1. The [[Little River]], to the west; the largest of the Tollen rivers. In the past few hundred years has been diverted into a canal and dammed. 
-2. The <> River, flowing from the south, ...
-3. Fat Brook, now covered, flows through Guildgate and [[Gold Street]] before emptying into the Volta. Name is a corruption of Vattenbrok, the original Skaer name meaning tidal waters. 
-4. The <> River, ...
-
-Tollen is traditionally divided into 17 wards:
 
 ### The Skaer City
 
@@ -135,6 +74,30 @@ The original settlement by the mariners, as later expanded by the Skaer after [[
 [[Fiskurth]]: North side of the [[Volta]], northwest of [[Skepwalk]]. Name derives from old Eastros for fish, one of the oldest districts in the city, although little is preserved of that time. Many taverns, and a hub of activity for sailors. Largest fish market, and other scattered market streets, but somewhat "low class". 
 
 Aesganstrad: North and west along the river from [[Fiskurth]]; with [[Fiskurth]] and [[Skepwalk]] forms the ancient core of the pre-Drankorian city. Name derives from Aesgan, a semi-mythical Skaegish hero who is said to have protected/resettled Tollen during the chaos after [[The Downfall]]. Best preserved of the ancient districts, now home to many of the craft guilds, especially the powerful [[Dyer's Guild]].
+
+%%
+
+
+
+%%^End%%
+
+## Age of Drankor
+_DR 402 - DR 1059_
+
+
+
+%%
+
+
+### Drankorian Influence
+
+In 4491, the Drankorians reach the [[Mostreve Hills]], and over the next 50 years or so the Drankorians assimilate the inland people of [[Sembara]] and push the Skaer out, bringing with them the [[Mos Numena]] and the traditions of their vast southern empire. 
+
+In 4535, the Drankorians and the Skaer sign a peace treaty, the [[Treaty of Marhavn]], establishing the [[Volta]] as the frontier of the [[Drankorian Empire]]. Tollen, on the north side of the [[Volta]], remains technically outside the Drankorian territorial claim. However, the Skaer are forbidden from bringing ships up the [[Volta]], and Tollen falls outside their sway and comes under the influence of [[Drankorian Empire|Drankor]]. While technically Tollen takes the name of the Free City of Tollen during this time, the [[Drankorian Empire]] controls its foreign policy as a protectorate.
+
+By the 4600s, during the Long Peace, Tollen begins to assert more autonomy. By now it has become a mixing place of Drankorian, Skaer, and Highlander culture, with diverse religious practices and where many languages can be heard. During this era the first merchant houses are established, becoming rich off the trade of dyed cloth south to [[Drankorian Empire|Drankor]], and the development of magical tattoos, especially those that could help sailors control the wind and sea.
+
+In the 4800s, as Drankorian expansion to the west begins in earnest and the might of the empire is focused to the east, the Tollen merchant houses have de facto control over Tollen, and Tollen has become a major city and one of the central mercantile powers of the [[Western Green Sea]]. It is during this era that the [[University of Tollen]] is founded.
 
 ### The Drankorian City
 
@@ -147,6 +110,26 @@ After the [[Treaty of Marhavn|treaty of 4547]], Tollen prospers. Most of the Ska
 Magus Street: Often just called Magus. East of the old city ([[Fiskurth]], [[Skepwalk]], Aesganstrad), away from the river. In Drankorian times, home to small library and university outpost, which grew over time. Technically older than the University of [[Chardon]], although it was abandoned for a number of years after the fall of the [[Drankorian Empire]], and reestablished as Tollen returned to prosperity in the early days of [[Sembara]]. 
 
 [[Nordgate]]: North of Aesganstrad and east of [[Bridgeward]], around the original north gate of Tollen. Now one of the major dwarven districts in the city. 
+
+%%
+
+## The Free City
+_DR 1059 - DR 1715_
+
+
+%%
+
+
+### The Fall of [[Drankorian Empire|Drankor]] and the Growth of [[Sembara]]
+
+When the Plague strikes, while Tollen is spared the worst of the chaos that envelopes the south, but plenty of chaos remains, and various wars and conflicts spiral out of control. While the university survives, and the city itself, most of its wealth is lost as trade is disrupted, and Tollen falls into a dark age. Little is recorded from the time between the Plague in 5192, and the late 5300s, when the Sembaran kings begin to grow in power.
+
+As [[Sembara]] expands in the south, Tollen recovers, and over the 5400s and 5500s Tollen experiences a renaissance of sorts, based on the growing wool and linen trade from the Sembaran heartlands. The lost art of magical tattoos are rediscovered and most of the merchant houses of Tollen today are established during this time period.
+
+In the 5600s, war comes to the [[Green Sea]], first the battles against the ancient white dragon Vimfrost, and then the [[Great War]] itself. Tollen, however, survives intact, and if anything grows in power and influence, as many of the Sembaran kings in the years after the [[Great War]] have ties by blood or marriage to the great houses of Tollen.
+
+Now, in 5881, Tollen commands a significant navy and is the undisputed master of the Western Gulf, controlling the [[Straits of Cymea]] and asserting influence over much of western [[Cymea]].
+
 
 ### The Sembaran City
 
@@ -175,3 +158,10 @@ Tideswell: south side of the [[Volta]], upriver (west) from Fenslane. A marshy a
 Brooklawn: West of Haurhill, a swampy and wet area where the [[Little River]] was dammed and diverted into a canal. Also often separated into Brooklawn Inner (inside the walls) and Brooklawn Outer (outside the walls). Fairly poor, slummy area. Brooklawn Outer is where much of the leatherworking and tanning happens, so smelly. Tanner's Gate separates Brooklawn Inner and Brooklawn Outer, and Brooklawn Inner is also referred to as Tannersgate.
 
 Riversgate: furthest west district, along the river. Also separated into Inner and Outer, with Riversgate Outer a center of timber trade coming down the [[Volta]].
+
+%%
+
+
+## Recent Events
+_DR 1715 - current_
+
