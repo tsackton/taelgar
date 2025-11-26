@@ -4,7 +4,7 @@ tags: [timeline, status/needswork/wip]
 dm_owner: tim
 dm_notes: important
 ---
-# Timeline of Tollen History
+# History of Tollen
 
 %% this note covers the history of the [[Tollen|Free City of Tollen]], occasionally touching on larger events but mostly focused specifically on the city %%
 

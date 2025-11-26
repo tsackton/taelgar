@@ -18,7 +18,7 @@ dm_owner: tim
 ## Overview
 
 North of [[Chardon]], hugging the coast of the rocky, inhospitable [[Mawakel Peninsula]], the Mawar people have lived symbiotically with the ocean for generations uncounted. Tracing their ancestry to the first peoples to leave [[Hkar]] ages ago, the Mawar once settled widely across the coastal plains and shores north of [[Chardon]], as far as the northern coast of the Great Bay. But when the Drankorians spread north, they ceded the southern lands and settled largely on the [[Mawakel Peninsula]] and the near-shore islands, maintaining an uneasy peace within the Drankorian sphere of influence.
-## [[Chronicles of the Mawar|History]]
+## [[Timeline of the Mawar|History]]
 
 After the fall of [[Drankorian Empire|Drankor]], the Mawar became a significant coastal and trading power, and Mawar ships could be seen plying coastal trade routes as far south as [[Chardon]] and as far north as the far northern shores of beyond the Great Bay. All this changed with the expansion of Pandar and the coming of Cha’mutte’s armies. During the [[Great War]] and the chaos that followed, most of the inland kingdoms north of [[Chardon]] fell into ruin. The Mawar survived by retreating to their coastal villages and relying on the protection of the difficult terrain of the [[Mawakel Peninsula]] to defend them against attack. Most of the Mawar settlements outside the peninsula and the islands fell or were abandoned.
 
