@@ -57,6 +57,8 @@ Most people believe that the oldest parts of Tollen -- [[Fiskurth]], [[Skepwalk]
 
 ### Basic Vibes
 
+The Skaer become a dominate maritime force in the pre-Drankorian western Green Sea (cf. [[History of the Skaer]]), and Tollen is 
+
 ---- TEXT BELOW NOT EDITED ---
 
 
