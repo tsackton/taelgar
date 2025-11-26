@@ -48,19 +48,16 @@ In DR 1059, the [[First Plague]] came and the Drankorian Empire collapsed. Littl
 
 %%^Campaign:None%%
 #### Basic Vibes
-This is meant to be a period of collapse, reset, and depopulation. There is 
+This is meant to be a period of collapse, reset, and depopulation. There is very little historically developed about this period and it should continue to provide a blank space for rumors and unclear mythological events. In general during this period the Sembaran region should seem isolated and like a backwater. There are lots of potentially interesting events in Cymea, Isingue, etc and these probably did not have much impact on Sembara or Maseau or even Addermarch.
 #### Canonical Events
-* (DR:: 402): The [[Treaty of Marhavn]] is signed by Emperor [[Goristo]] 
-* (DR:: 423): Emperor [[Goristo]] signs the [[Treaty of Tyrwingha]] with [[Archfey Ethlenn|Ethlenn]]
-#### Context at the End of the Period
-At the end of this period, the Drankorian provinces stretch from the Sentinels to the Green Sea, and cover the modern areas of: [[Sembara]], [[Duchy of Maseau|Maseau]], [[Addermarch]], [[Tyrwingha]], and [[Ardlas]]. The Skaer Empire has largely faded away (but see [[Timeline of Skaer History]]), and there are several human cultures within and outside the Drankorian Empire:
 
-* The old Zimka in the north
-* A culture increasingly claiming to be the Zimka, opposed to Drankor (or at least, not part of Drankor), in the highlands and foothills of the Sentinels. This culture develops into the "Zimkovan kingdoms" of [[Breva]], [[Lavnoch]]
-* A central Sembaran culture, speaking Drankorian and worshipping Mos Numena, but with some lasting cultural ideas from the kestavo/Tollish/Zimka culture
-* A coastal/northern Tollish culture, worshipping Mos Numena and speaking both Drankorian and Old Tollish (this becomes Telham/Tollen area)
-* A southern culture, in [[Duchy of Maseau|Maseau]] and the [[Istaros Watershed]], somewhat more purely Drankorian, and worshipping Mos Numena
-* A Tyrwinghan culture, spreading somewhat into Addermarch as well, increasingly urbanizing and adopting some Drankorian ways, but with its own unique language and cultural identity
+#### Context at the End of the Period
+At the end of this period, a couple of things are definitely true:
+* The [[Duchy of Sembara]] is prominent and the Duke has taken a title of King/Queen, although of what exactly is not clear, but presumably it has to be more than just the single duchy
+* [[Embry]] is a major city
+* A number of other duchies are canonically independent and powerful in their own right: [[Wisford]], [[Marches of Brovna|Brovna]], [[Duchy of Maseau|Maseau]], [[Ardlas]], and [[Telham]] in particular
+* [[Addermarch]] and [[Tyrwingha]] have developed in unique ways
+
 %%^End%%
 ## Unification and Growth
 _DR 1353 - DR 1462_
