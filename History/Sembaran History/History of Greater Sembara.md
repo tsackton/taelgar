@@ -5,6 +5,8 @@ dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
 ---
+
+%% Note:  This is intended to broadly incorporate Sembara, Maseau, Addermarch, Tyrwingha, and Zimkova. It intersects with the histories of the  [[Dominion of Avatus]], [[Isingue]], [[Tollen]], and the [[Skaer]] in particular. One major region, [[Vostok]], is poorly defined and some space should be left for development %%
 ## Migration Era
 _Until the Downfall_
 
