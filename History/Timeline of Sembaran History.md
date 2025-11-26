@@ -9,28 +9,31 @@ dm_notes: none
 
 %% Needs to incorporate the material from [[A Chronicle of Sembaran History]], plus there are some weak points that need cleaning up. discussion in discord chats that needs to be linked %%
 
-%% Tim: I bounced back for the "1200s" section and lots of notes %%
+%% Mike: mostly a restructure, trying to make it easier to read and clarify what parts are canon. I have put timeline dates that I don't think are strictly canonical in () when the event happened but the timing feels unclear. I have put () around text when it is not clear the event itself is canonical, regardless of timing %%
+
 ## The Drankorian Conquest
 DR 300 - DR 431
 
 ### Overview
 In the aftermath of [[The Downfall]] the land that will become [[Sembara]] is lightly populated. The [[Kestavo|kestavo-worshipping]] [[Zimkova|Zimka]] live in the foothills of the [[Sentinel Range]], and have spread amongst the highlands, and down the valleys of the great rivers: the [[Semb]], the [[Volta]], the [[Teft]], and the [[Wistel]]. Along the coast, [[Skaer]] mariners raid, intermarry, and settle amongst the Zimka, and a Skaer-dominated mixed culture spreads from [[Tollen]] to the mouth of the [[Semb]]. The once mighty [[Lizardfolk|lizardfolk]] swamps have mostly disappeared, save for remnants: [[Ozabal]], at the mouth of the [[Wistel]] and [[Latazaro]], in the east, where a thriving lizardfolk communities remain. South of the Wistel is the mixed community of humans, clustered along the coast, united by the their shared allegiance to the [[Archfey Ethlenn]], but otherwise the southern lands are largely empty of humans. 
 
-Over a series of start-and-start campaigns over 60 years, the Drankorian armies conquer large portions of this land.
+Over a series of start-and-start campaigns over 60 years, the Drankorian armies occupy large portions of this land. %% what this "conquest" looks like in practice is unclear, and may involve Sembarans willing or even eagerly joining the Drankorian Empire; the existence of the two treaties below is canonical but they are not necessarily the result of war %%
 ###
-* (DR:: 358): [[Emperor Anates]] campaigns around the [[Mostreve Hills]]
-* (DR:: 360): [[Emperor Anates]] crosses the [[Enst]] and establishes a garrison at [[Cleenseau]]
-* (DR:: 402): The [[Treaty of Marhavn]] is signed by [[Goristo]] 
-* (DR:: 423): [[Goristo]] signs the [[Treaty of Tyrwingha]] with [[Archfey Ethlenn|Ethlenn]]
-* (DR:: 468): The Drankorian [[Highland Conquest Wars]] end with a tactical retreat by Drankor
+* ((DR:: 358)): Emperor [[Anates]] campaigns around the [[Mostreve Hills]] %% Anates is canonically the first emperor to establish a Drankorian presence in Sembara but exact timing is not canonical %%
+* (DR:: 360): Emperor [[Anates]] crosses the [[Enst]] and establishes a garrison at [[Cleenseau]]
+* (DR:: 402): The [[Treaty of Marhavn]] is signed by Emperor [[Goristo]] 
+* (DR:: 423): Emperor [[Goristo]] signs the [[Treaty of Tyrwingha]] with [[Archfey Ethlenn|Ethlenn]]
+* (DR:: 468): (The Drankorian [[Highland Conquest Wars]] end with a tactical retreat by Drankor) %% while the fact that the highlands were never incorporated into the Drankorian Empire is canonical, the existence of the Highland Conquest wars as the reason is not %%
 
 ## The Drankorian Age
 DR 431 - DR 1059
 ### Overview
 
-By DR 431, when the Drankorian army retreated from [[Zimkova]], the borders of Drankor in the east were established, and would not change for many generations. Drankor ruled all the lands between the [[Sentinel Range]] and the [[Western Gulf]] south of the [[Semb]], as well as the lowlands east of the [[Braebein]] and the lowland valleys of the [[Teft]] and [[Volta]]. The borders of the modern duchies of Telham and Arnsbury still trace to the farthest extent of the Drankorian conquest, as does the borders of Ardlas. 
+(By DR 431, when the Drankorian army retreated from [[Zimkova]], the borders of Drankor in the east were established, and would not change for many generations). %% both timing and exact nature of Drankor's "retreat" from the highlands is unclear%%
 
-The Drankorians brought modern roads, improved agricultural techniques, and a new religion to the land. Farming and pastoralism was a way of life here, with little technology and little trade. Across the "Sembaran" provinces (which included the modern day [[Sembara]], [[Ardlas]], [[Duchy of Maseau|Maseau]], [[Addermarch]], and [[Tyrwingha]]), [[Mos Numena]] spread, and a common language and culture grew, and the old [[Kestavo|Kestavan]] traditions were largely forgotten.
+Drankor ruled all the lands between the [[Sentinel Range]] and the [[Western Gulf]] south of the [[Semb]], as well as the lowlands east of the [[Braebein]] and the lowland valleys of the [[Teft]] and [[Volta]]. (The borders of the modern duchies of Telham and Arnsbury still trace to the farthest extent of the Drankorian conquest, as does the borders of Ardlas.) %% this is probably actively wrong; given upheavals in century after DR 1059 there is probably not much continuity in borders, though there may be impacts on spread of Mos Numena and languages c.f. the lack of alignment between Roman and Carolingian borders in Germany %%
+
+The Drankorians brought modern roads, improved agricultural techniques, and a new religion to the land. Farming and pastoralism was a way of life here, with little technology and little trade. Across the "Sembaran" provinces (which included the modern day [[Sembara]], [[Ardlas]], [[Duchy of Maseau|Maseau]], [[Addermarch]], and [[Tyrwingha]]), [[Mos Numena]] spread, and a common language and culture grew, and the old [[Kestavo|Kestavan]] traditions were largely forgotten. %% possibly incomplete, though maybe not relevant - would, e.g. Maseau area be included in the "Sembaran" provinces? It might not really matter except as a way to delineate language development post-Drankor %%
 
 In the highlands, the [[Zimkova|Zimka]] kept the old ways, although along the borders with Drankor Mos Numena and Drankorian culture spread. 
 
@@ -39,19 +42,26 @@ In the highlands, the [[Zimkova|Zimka]] kept the old ways, although along the bo
 DR 1059 - DR 1250
 ### Overview
 In DR 1059, the [[First Plague]] came and the Drankorian Empire collapsed. Little information survives from these years, and it was a time of much hardship, especially amongst the more populous lowland regions, where famine struck repeatedly. This was a dark time.
+
+%% some thought needs to be given to how the history in the Plague Years plays out w/r/t language family development, as this sets the seeds for divergence of Drankorian dialects into full-blown languages; c.f. [[Languages]] and [[Language - Discussions]], especially the spread of Sembaran which is an Eastros language; implies to me a strong barrier around Maseau / Enst and significant Tollish influence in Sembara in Plague Years %%
 ###
-* (DR:: 1142): [[Adrian]] establishes himself in [[Embry]] as the first [[Duchy of Sembara|Duke of Sembara]]
+* ((DR:: 1142)): [[Adrian]] establishes himself in [[Embry]] as the first [[Duchy of Sembara|Duke of Sembara]] %% not obvious date is canonical, but could be? %%
 
 ## The Six Duchies
 DR 1250 - DR 1400
 ### Overview
 By DR 1250, a number of lords, mostly calling themselves dukes, had established themselves across the lands once ruled by Drankor. In the lowland coastal regions, the six  duchies had been established: [[Duchy of Sembara|Sembara]], [[Duchy of Cheimen|Cheimen]], [[Duchy of Wisford|Wisford]], [[Duchy of Seham|Seham]], [[Duchy of Telham|Telham]], and [[Duchy of Arnsbury|Arnsbury]]. Further east and south, [[Tyrwingha]] had survived the dark years under the leadership of the [[Oracle of the Riven]] and [[Archfey Ethlenn]]. And to the west, sheltered in the eaves of the [[Sentinel Range|Sentinels]] by the great dwarven kingdom of [[Khatridun]], three border duchies had emerged: [[Marches of Brovna|Brovna]], at the headwaters of the [[Wistel]] around [[Urlich Pass]], [[Duchy of Maseau|Maseau]], at the headwaters of the [[Enst]], [[Ardlas]], along the [[Bollin]].
 
-The [[Duchy of Sembara]] was the largest and richest demesne of any of the duchies, and had always controlled [[Embry]], the only surviving ancient seat of the Drankorian regional government, and even by DR 1250, the Dukes of Sembara were styling themselves Kings (or Queens), and commanded the fealty of the duchies of [[Arnsbury]], [[Duchy of Cheimen|Cheimen]], and [[Duchy of Seham|Seham]]. Although the names of the earliest monarchs are lost, by the early 1300s, the [[House of Entranca]] rules Sembara.
+The [[Duchy of Sembara]] was the largest and richest demesne of any of the duchies, and had always controlled [[Embry]], (the only surviving ancient seat of the Drankorian regional government,) and even by DR 1250, the Dukes of Sembara were styling themselves Kings (or Queens)(, and commanded the fealty of the duchies of [[Arnsbury]], [[Duchy of Cheimen|Cheimen]], and [[Duchy of Seham|Seham]]). Although the names of the earliest monarchs are lost, by the early 1300s, the [[House of Entranca]] rules Sembara. %% it is not obvious to me that Sembara must command the loyalty of Arnsbury, Cheimen, and Sehman at the beginning of this period; these places are extremely lightly developed, often little more than a name, and it does not seem crucial to commit to a specific timing of this unification process right now. what does matter is that by the time Derik I goes to war against Avatus, only Telham, Sembara, and Wisford remain to be unified %%
+
 
 %% Tim: I rewrote this section above and believe the above should be considered canonical. I've made the details fairly light %%
+%% @Mike: though i'm not sure the timing is canonical, I think the idea that the Six Duchies, Brovna, Maseau, and Ardlas are established in the 1059-1353 timeline is important; I would contrast with Addermarch and Tyrwingha, which I think are *older* units that were administered by Drankor but actually in some sense predate Drankor, and largely due to geography, culture, and in Tyrwingha's case the fey, don't have a lot of border shifts. %%
 
-%% 
+%%^Campaign: none%%
+#### Undated Giant Events
+(these could fit into the general 1059-1350 timeline somewhere)
+
 @Tim I think the giant / dragon battle below  works better for Telham or Seham, or perhaps 1090 and 1250. Maybe the dragon is why none of the regional capitals survived except Embry
 
 @Mike I invented this event when I was making up stories of giants for each player, way back during the first Hralgar arc. Does not need to be canonical, but if it is, it could be an option for an event that solidifies Entranca. The details would have to be tweaked a bit, but of course the halflings might remember the halflings role more vividly than the human armies
@@ -73,10 +83,18 @@ A powerful storm, a hurricane of epic proportions, battering a line of soldiers 
 
 A cold morning on a wavy beach, waking at dawn, offering a word of thanks to Sigga the giant beneath the waves, a wild storm passing offshore, flashes of lightning and peals of thunder seeming to acknowledge your presence, as if the storm itself were the manifestation of Sigga herself.
 
-%%
+%%^End%%
 
-%%
+%%^Campaign:none%%
 
+(from Tim):
+Maybe this is too directly lifted from the unification of England, but I'd actually propose a slight restructuring of the framework here. I would split the narrative post-Drankor into two phases, from 1059-1353 and then from 1353-1462. The first period starts with the fall of Drankor and ends with Avatus' first war against the north; the second period then picks up and ends with Derik I's death. This kind of mirrors the Heptarchy -> Unification with Avatus kind of playing the role of the Danes. 
+
+But the logic of this split is that the only part of this history that really has come up in games is the timing around Avatus' wars and the reign of Derik I (per my addermarch development and your history of cleenseau notes). There are some constraints that are important, such as the final unification of Sembara happening via Derik I unifying crowns of Telham and Sembara; then being crowned in Tyrwingha and defeating Avatus, which brings Brovna and Wisford and Maseau into the kingdom. 
+
+This implies that by 1422, when the final war starts, there are five important duchies: Sembara, Telham, Wisford, Brovna, and Maseau. It is also important that Sembara be the more important than Telham, so that the modern-day realm is called Sembara (e.g. Derik I has to be perceived as bringing Telham under Sembaran rule, not the reverse). But it doesn't really put any constraints on exactly which of the minor duchies owes allegiance to who, and when those allegiances were given (e.g., it is perfectly consistent IMO that one of the minor duchies owes allegiance to Wisford). 
+
+(from Mike originally):
 The intention is that in 1350ish, when the second of Avatus' wars start, there is broadly:
 
 * Three highland border duchies, from north to south:
@@ -91,8 +109,12 @@ The intention is that in 1350ish, when the second of Avatus' wars start, there i
 * Telham, in the north, growing and powerful and clearly independent (with a Tollish culture)
 
 @Tim: I think the above is basically canonical although does not need to be committed to beyond what you need for Avatus history
-%%
 
+@Mike: per my comment above, I think (a) this also needs Addermarch added, and (b) it is not obvious that Sembara must command the allegiance of Seham, Cheimen, and Arnsbury in 1353. 
+%%^End%%
+
+
+%% Tim revisions end here %%
 ## The Unification
 DR 1400 - DR 1462, 7 Dominick IV - 34 Derik I
 
