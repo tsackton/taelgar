@@ -2,14 +2,13 @@
 headerVersion: 2023.11.25
 tags: [timeline, status/needswork/wip]
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 ---
 # History of Tollen
 
 %% this note covers the history of the [[Tollen|Free City of Tollen]], occasionally touching on larger events but mostly focused specifically on the city %%
 
 This is a brief chronicle of the history of the [[Tollen|Free City of Tollen]], from its founding to the present day. Tollenders are deeply proud of their long history, and many will claim that Tollen is the oldest continually occupied [[Humans|human]] city in the world. Whether true or not is hard to know, but regardless Tollen's history stretches deep into the past.
-
 
 %% conventions: 
 - events in () signal this event is not canonical and can be changed; dates in () signal the event is canonical but the date can shift
@@ -58,6 +57,20 @@ Most people believe that the oldest parts of Tollen -- [[Fiskurth]], [[Skepwalk]
 ### Basic Vibes
 
 The Skaer become a dominate maritime force in the pre-Drankorian western Green Sea (cf. [[History of the Skaer]]), and Tollen is 
+
+%%^End%%
+
+## Age of Drankor
+_DR 402 - DR 1059_
+
+
+## The Free City
+_DR 1059 - DR 1715_
+
+
+## Recent Events
+_DR 1715 - current_
+
 
 ---- TEXT BELOW NOT EDITED ---
 
