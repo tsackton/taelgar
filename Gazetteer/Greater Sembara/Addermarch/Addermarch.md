@@ -33,7 +33,7 @@ Addermarch was settled long ago, before the [[Drankorian Empire|Drankorians]] ca
 
 With the fall of [[Drankorian Empire|Drankor]], Addermarch charted its own course as a frontier kingdom, isolated from [[Sembara]] by poor roads, difficult travel, and occasionally war. While sharing a language, a religion, and a cultural connection, Addermarch has never acknowledged the sovereignty of Sembaran or Tyrwinghan monarchs, excepting during the height of the [[House of Sewick]] in the years leading to the [[Great War]]. 
 
-%% Note: Addermarch was never conquered in the wars since the fall of Drankor. It was isolated completely from [[Sembara]] during the height of the [[Dominion of Avatus]], although never cut off from [[Tyrwingha]]; it was besieged to the south but never entered during the [[Great War]]; and it was largely isolated except for dangerous passage along the [[Aure]] during the [[Third Hobgoblin War (Sembara)]]. 
+%% Note: Addermarch was never conquered in the wars since the fall of Drankor. It was isolated completely from [[Sembara]] during the height of th[](Dominion%20of%20Avatus.md)]], although never cut off from [[Tyrwingha]]; it was besieged to the south but never entered during the [[Great War]]; and it was largely isolated except for dangerous passage along the [[Aure]] during the [[Third Hobgoblin War (Sembara)]]. 
 
 Leaving in for now that Addermarch earls acknowledged [[Derik I]] as their overking, which lasted until the death of [[Derik III]]. 
 %%

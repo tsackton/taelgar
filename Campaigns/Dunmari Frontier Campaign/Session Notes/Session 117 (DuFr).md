@@ -23,7 +23,7 @@ The [[Dunmar Fellowship]] battles and defeats Apollyon, then debates the future 
 
 ***Treasure: the party returns to [[Vindristjarna]] with [[Drankorian Treasure]]***
 ### Summary
-- The [[Dunmar Fellowship]] recovers and discovers a hidden staircase in [[Apollyon's temple]].
+- The [[Dunmar Fellowship]] recovers and discovers a hidden staircase in [[Apollyon's Temple]].
 - They descend into the undercrypt, encounter traps, and face spectral undead.
 - The party battles [[Apollyon]] in his inner sanctum, gradually weakening him.
 - [[Apollyon]] is defeated after a fierce battle, and the party escapes the collapsing sanctum.
@@ -41,7 +41,7 @@ The [[Dunmar Fellowship]] battles and defeats Apollyon, then debates the future 
 - (DR:: 1749-05-30): Look at the [[Crown of Purity]] in the [[Mirror of the Past]], seeing the [[Crown of Purity Vision]] (recharge:: mirror)
 
 ## Narrative
-Our session begins in [[Apollyon's temple]], as the [[Dunmar Fellowship]] recovers from [[Apollyon]]'s initial attacks. After Apollyon’s retreat into his inner sanctum, [[Delwath]], just revived by [[Riswynn]]'s magic, leads a _Prayer of Healing_, restoring the group’s strength and offering a brief reprieve. While the party recovers, [[Wellby]] investigates the side chapels, uncovering relics of Apollyon’s failed ascension to godhood, and finding a loose floor tile concealing a hidden staircase near the central altar. [[Delwath]]’s _Ghostly Gaze_ reveals an undercrypt filled with construction debris and tools, with stairs leading even further down.
+Our session begins in [[Apollyon's Temple]], as the [[Dunmar Fellowship]] recovers from [[Apollyon]]'s initial attacks. After Apollyon’s retreat into his inner sanctum, [[Delwath]], just revived by [[Riswynn]]'s magic, leads a _Prayer of Healing_, restoring the group’s strength and offering a brief reprieve. While the party recovers, [[Wellby]] investigates the side chapels, uncovering relics of Apollyon’s failed ascension to godhood, and finding a loose floor tile concealing a hidden staircase near the central altar. [[Delwath]]’s _Ghostly Gaze_ reveals an undercrypt filled with construction debris and tools, with stairs leading even further down.
 
 The group pries open the concealed staircase, descending into the undercrypt. The pitch-dark space is littered with remnants of unfinished construction. As the chalyte knight takes point, he inadvertently triggers a trap, leaving him hearing chanting words of praise to [[Apollyon]] in Drankorian, but Riswynn’s magic dispels it before the rest of the party proceeds. A scrying sensor materializes, indicating that Apollyon is aware of their movements.
 
