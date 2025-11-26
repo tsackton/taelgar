@@ -9,7 +9,7 @@ This page is meant to collect date information that is not fully incorporated in
 All dates in the Dwarven Count of Years.
 
 * (CY:: 1520) [[Hkar]] raised and humanity created %% Not 100% canonical %%
-* (CY:: 3902) [[Tollen]] founded by mariners
+* (CY:: 3902) [[Tollen]] founded by mariners 
 * (CY:: 4005) [[Embry]] founded by mariners %% Not 100% canonical %%
 * (CY::4122) The [[The Downfall|Downfall]] and the sinking of [[Hkar]]
 * (CY::4133) The city of [[Drankor]] is founded by Hkaran refugees.
