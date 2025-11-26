@@ -19,7 +19,7 @@ This is a brief chronicle of the history of the [[Tollen|Free City of Tollen]], 
 %%
 
 ## Founding Era
-*before Drankor*
+*before the Downfall*
 
 Tollen was originally settled on the north bank of the [[Volta]] long ago, when the elves still ruled vast forests far to the south, and great lizardfolk swamps occupied the land that is now [[Sembara]]. The [[Skaer]] say that the first Tollenders were their distant ancestors, a mariner people who came from [[Hkar]] on great ships and slowly explored and settled the shores of the [[Green Sea]], but it is clear that even from the beginning Tollen was a place where many cultures met and intermingled. This era lasted until the [[The Downfall|Downfall]] and the sinking of [[Hkar]] upended the world, reaching even as far away as the [[Green Sea]]. 
 
@@ -27,9 +27,9 @@ Tollen was originally settled on the north bank of the [[Volta]] long ago, when 
 ### DM Notes
 #### Basic Vibes
 
-Tollen is supposed to have (a) an ancient history, and (b) a long history of multiculturalism. It is certainly founded by the Skaer, but is presumably also a place where lizardfolk come, halfling traders dock, and multiple human cultures -- including the mariners, proto-Skaer, and northerners -- mix. Old Tollish presumably develops here out of an Eastros / mariner root (cf. [[Languages#Eastros Language Family]]). Multiple religions canonically even early on though the exact details of the mariner religion and how it develops into the Skaer religion are not invented. There is a suggestion in the [[History of the Skaer]] that the original Skaer were eastern mariners fleeing a religious schism and trying to find a quiet place to live in peace. 
+Tollen is supposed to have (a) an ancient history, and (b) a long history of multiculturalism. It is certainly founded by the Skaer or proto-Skaer, but is presumably also a place where lizardfolk come, halfling traders dock, and multiple human cultures -- including the mariners, proto-Skaer, and northerners -- mix. Old Tollish presumably develops here out of an Eastros / mariner root (cf. [[Languages#Eastros Language Family]]). Multiple religions canonically even early on though the exact details of the mariner religion and how it develops into the Skaer religion are not invented. There is a suggestion in the [[History of the Skaer]] that the original Skaer were eastern mariners fleeing a religious schism and trying to find a quiet place to live in peace. 
 
-It is not clear if any existing parts of Tollen survive from this era, or whether everything was rebuilt after the Downfall. It is possible, though not clearly established, that the [[Ancient and Honorable Guild of Philosophers]] dates to this era. 
+It is not clear if any existing parts of Tollen survive from this era, or whether everything was rebuilt after the Downfall. It is possible, though not certain, that the [[Ancient and Honorable Guild of Philosophers]] dates to this era. 
 
 Generally, the Founding Era should mostly function as part of the myth of Tollen to the Tollish. 
 
@@ -42,7 +42,7 @@ Generally, the Founding Era should mostly function as part of the myth of Tollen
 %%^End%%
 
 ## The Skaer Empire
-*DR 1 - DR 402*
+*Downfall - DR 402*
 
 In the aftermath of the [[The Downfall|Downfall]], the seas shifted, the ocean turned violent, and the land dried up, the great swamps of the lizardfolk south of Tollen shrinking to small remnants. Many people die in storms and famine. During this time, the [[Skaer]] emerge from the ancient [[~Mariners~|seafarers]] who originally settled Tollen, and become the dominant people of the [[Western Green Sea]], worshipping the ocean goddess [[Kaikkea]]. Tollen becomes a major port and trade center under [[Skaer]] rule. However, to the south, the influence of the [[Drankorian Empire]] is growing, and this era ends when the [[Skaer]] sign the [[Treaty of Marhavn]] with [[Drankorian Empire|Drankor]]. 
 
@@ -55,11 +55,16 @@ Most people believe that the oldest parts of Tollen -- [[Fiskurth]], [[Skepwalk]
 ### DM Notes
 #### Basic Vibes
 
-The Skaer become a dominate maritime force in the pre-Drankorian western Green Sea (cf. [[History of the Skaer]]), and Tollen is 
+The Skaer become a dominate maritime force in the pre-Drankorian western Green Sea (cf. [[History of the Skaer]]), and Tollen is a significant part of their empire, but almost no details are invented about this time. It is possible that Tollen is nearly 
+
+
+
+
+
+%%
 
 After [[The Downfall]], the expansionist strand of their religion became dominant, and the Skaer established a maritime empire stretching from the Skaer islands to the [[Western Gulf]] and much of [[Cymea]]. 
 
-%%
 In 4050s, [[The Downfall]] Wars begin, and Tollen is cut off from the [[Eastern Green Sea]], as long voyages become too dangerous. The ocean itself turns violent, as storms wrack the seas and the great swamps to the south start to dry. By 4122, when [[The Downfall]] Wars have ended, Tollen is virtually abandoned, and the land that will become [[Sembara]] depopulated, settled by scattered villages of farmers, with [[Embry]] and a few other river towns among the only significant population settlements.
 
 By the 4200s, the Skaer have established themselves as the dominant mariner culture in the [[Western Green Sea]], and resettle and rebuild Tollen. Over the next 300 years, the Skaer grow stronger, spreading along the coast as far south as the mouth of the [[Semb]], raiding upriver for timber and impressed sailors to row their great ships, and seeking converts for their religion. Tollen develops as a major trade center for the emerging Skaer empire, and begins to grow again.
@@ -87,8 +92,6 @@ _DR 402 - DR 1059_
 
 
 %%
-
-
 ### Drankorian Influence
 
 In 4491, the Drankorians reach the [[Mostreve Hills]], and over the next 50 years or so the Drankorians assimilate the inland people of [[Sembara]] and push the Skaer out, bringing with them the [[Mos Numena]] and the traditions of their vast southern empire. 
