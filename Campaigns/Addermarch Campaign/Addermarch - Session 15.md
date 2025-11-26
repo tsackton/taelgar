@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note, status/check/tim]
+tags: [session-note]
 campaign: Addermarch
 sessionNumber: 15
 realWorldDate: 2025-11-16
@@ -12,7 +12,6 @@ tagline: in which the party confronts a ghost and gathers clues
 descTitle: The Haunted Cottage
 ---
 
-%% revise coins to match the correct period of history %%
 # Addermarch Campaign - Session 15
 
 >[!info] The Haunted Cottage: in which the party confronts a ghost and gathers clues
@@ -78,6 +77,6 @@ The party arrives at [[Caradoc]]'s cottage in the early afternoon. They speak wi
 
 %% Caradoc pulls Fazoth aside, tells him he knows of his family, and they should say [[Caradoc]] is Aurenxis%%
 
-The party returns to [[Roscombe]], and meets with Owen Tavish before dinner. He tells them that 300 years ago, a war was fought in these parts against the armies of the [[Dominion of Avatus]]. He identifies the old coins found on the corpse in Duncan's cottage as being dated from the reign of [[Derik I]], who ruled during the war against [[Avatus]]; indeed, these coins are from the same era as those found with the [[Serpentine Dagger]], he says. Owen suggests that the coins could plunder and to investigate old forts and battlefields from the ancient wars to find more. 
+The party returns to [[Roscombe]], and meets with Owen Tavish before dinner. He tells them that 300 years ago, a war was fought in these parts against the armies of the [[Dominion of Avatus]]. He claims the old coins found on the corpse in Duncan's cottage are dated from the reign of [[Derik I]], who ruled during the war against [[Avatus]]; indeed, these coins are from the same era as those found with the [[Serpentine Dagger]], he says. Owen suggests that the coins could plunder and to investigate old forts and battlefields from the ancient wars to find more. 
 
 We end as the party returns to [[The Traveler's Rest]] to sleep. 
