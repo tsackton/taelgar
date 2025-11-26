@@ -26,7 +26,7 @@ In general, the idea is that over 30 - 100 years (probably closer to the low end
 * (DR:: 402): The [[Treaty of Marhavn]] is signed by Emperor [[Goristo]] 
 * (DR:: 423): Emperor [[Goristo]] signs the [[Treaty of Tyrwingha]] with [[Archfey Ethlenn|Ethlenn]]
 #### Context at the End of the Period
-At the end of this period, the Drankorian provinces stretch from the Sentinels to the Green Sea, and cover the modern areas of: [[Sembara]], [[Duchy of Maseau|Maseau]], [[Addermarch]], [[Tyrwingha]], and [[Ardlas]]. The Skaer Empire has largerly faded away (but see [[Timeline of Skaer History]]), and there are several human cultures within and outside the Drankorian Empire:
+At the end of this period, the Drankorian provinces stretch from the Sentinels to the Green Sea, and cover the modern areas of: [[Sembara]], [[Duchy of Maseau|Maseau]], [[Addermarch]], [[Tyrwingha]], and [[Ardlas]]. The Skaer Empire has largely faded away (but see [[Timeline of Skaer History]]), and there are several human cultures within and outside the Drankorian Empire:
 
 * The old Zimka in the north
 * A culture increasingly claiming to be the Zimka, opposed to Drankor (or at least, not part of Drankor), in the highlands and foothills of the Sentinels. This culture develops into the "Zimkovan kingdoms" of [[Breva]], [[Lavnoch]]
@@ -41,12 +41,27 @@ At the end of this period, the Drankorian provinces stretch from the Sentinels t
 ## Age of Drankor
 _DR 400s - DR 1059_
 
-## The Plague Years
-_DR 1059 - early DR 1180s_
+## Dark Ages
+_DR 1059 - DR 1353
 
-## Rise of Avatus
-_DR 1180s - DR 1353 _
+In DR 1059, the [[First Plague]] came and the Drankorian Empire collapsed. Little information survives from these years, and it was a time of much hardship, especially amongst the more populous lowland regions, where famine struck repeatedly. 
 
+%%^Campaign:None%%
+#### Basic Vibes
+This is meant to be a period of collapse, reset, and depopulation. There is 
+#### Canonical Events
+* (DR:: 402): The [[Treaty of Marhavn]] is signed by Emperor [[Goristo]] 
+* (DR:: 423): Emperor [[Goristo]] signs the [[Treaty of Tyrwingha]] with [[Archfey Ethlenn|Ethlenn]]
+#### Context at the End of the Period
+At the end of this period, the Drankorian provinces stretch from the Sentinels to the Green Sea, and cover the modern areas of: [[Sembara]], [[Duchy of Maseau|Maseau]], [[Addermarch]], [[Tyrwingha]], and [[Ardlas]]. The Skaer Empire has largely faded away (but see [[Timeline of Skaer History]]), and there are several human cultures within and outside the Drankorian Empire:
+
+* The old Zimka in the north
+* A culture increasingly claiming to be the Zimka, opposed to Drankor (or at least, not part of Drankor), in the highlands and foothills of the Sentinels. This culture develops into the "Zimkovan kingdoms" of [[Breva]], [[Lavnoch]]
+* A central Sembaran culture, speaking Drankorian and worshipping Mos Numena, but with some lasting cultural ideas from the kestavo/Tollish/Zimka culture
+* A coastal/northern Tollish culture, worshipping Mos Numena and speaking both Drankorian and Old Tollish (this becomes Telham/Tollen area)
+* A southern culture, in [[Duchy of Maseau|Maseau]] and the [[Istaros Watershed]], somewhat more purely Drankorian, and worshipping Mos Numena
+* A Tyrwinghan culture, spreading somewhat into Addermarch as well, increasingly urbanizing and adopting some Drankorian ways, but with its own unique language and cultural identity
+%%^End%%
 ## Unification and Growth
 _DR 1353 - DR 1462_
 
@@ -78,11 +93,13 @@ Major beats:
 ## The Peace of Cece
 _DR 1650 - DR 1713_
 
+%% Status: @Tim to check %%
+
 In the autumn of 1650, after three summers of campaigning, the [[Shattered Ice Clan]] has been cleansed from the land. Three years prior, a hobgoblin dominion stretched in the Enst valley, from the [[Sentinel Range]] to the headwaters of the Aure in Addermarch, and even northwards into the [[Barony of Vaubonne]]. It is now gone, although people have only slowly started returning to the war-torn lands.
 
 The reign of [[Cece I]] is a time of peace and prosperity. The borders are secure, trade is growing, and Sembara's relations with its neighbors are friendly, and the hobgoblin threat, although not entirely gone, is isolated to [[Western Marches|the Western Marches]]. 
-## Malach
-_DR 1713 - DR 1720_
+## Recent Events
+_after DR 1713_
 
 %%^Campaign:None%%
 Major beats:
