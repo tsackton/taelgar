@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/tim]
+tags: [background, status/needswork/wip]
 dm_owner: joint
 dm_notes: none
-excludePublish: ["all"]
 ---
 
-%% Note:  This is intended to broadly incorporate Sembara, Maseau, Addermarch, Tyrwingha, and Zimkova. It intersects with the histories of the  [[Dominion of Avatus]], [[Isingue]], [[Tollen]], and the [[Skaer]] in particular. One major region, [[Vostok]], is poorly defined and some space should be left for development %%
+%%^Campaign:None%%
+This covers the history of modern day [[Sembara]], [[Zimkova]], [[Addermarch]], [[Tyrwingha]], and [[Duchy of Maseau|Maseau]], although recent events in [[Duchy of Maseau|Maseau]] may be better covered elsewhere when a history of the [[Upper Istaros]] is more developed.
+
+Some adjacent areas have significant intertwined history: [[Tollen]] (see [[History of Tollen]]), and [[Dominion of Avatus]] in particular, but also the [[Skaer]] (see [[History of the Skaer]]). [[Vostok]] has minimal development but likely is more related to the [[Skaer]] and [[Tollen]] than Sembara.
+%%^End%%
 ## Migration Era
 _Until the Downfall_
 
