@@ -13,12 +13,88 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% at some point, need to rewrite in the style of the new Dunmar page. check for details in DM notes %%
+Tollen is a bustling port on the [[Volta]], a growing naval power, a cultural mixing ground, an a entrepôt where goods from across the [[Green Sea]] are traded. Founded thousands of years ago, it has navigated the politics of the region and maintained its independent for centuries. It is a haven for merchants, traders, intellectuals, mages, poets, writers, and scholars, known for the [[University of Tollen]] and its powerful guilds. Tollen is a cosmopolitan city, where [[humans]], [[halflings]], [[dwarves]], [[stoneborn]], [[lizardfolk]], [[Kenku|kenku]], [[Elves|elves]], and more can be found living together, and where temples to many gods can be found, most prominently the [[Mos Numena|Eight Divines]] and the Skaer ocean goddess [[Kaikkea]]. 
+
+## Geography and Hydrology
+_See more: [[Hydrology of Tollen]]_
+
+Tollen sits astride the [[Volta]] river, though most development is on the north side, which is generally rockier, less marshy, and generally less prone to flooding. Five tributaries of the Volta flow through the city and its environs, from west to east: the [[Little River]], the [[Muddy River]] (the only tributary that joins the Volta on the south bank), [[Fat Brook]], the [[Carnbrook]], and the [[Greywash]]. The area around the confluence of the Volta, Little, and Muddy rivers is swampy and prone to flooding; the area around the confluence of the Greywash and the Volta, east of the city proper, is even more so. The difficult terrain around the Greywash has long discouraged eastern expansion of the city. 
+
+%% the marshes around the Greywash are a plausible place for a lizardfolk community if desired - this never really came up when the Dunmar campaign was in Tollen but might be nice to add for various reasons, though perhaps this is -- unusually -- a relatively new lizardfolk settlement (say, post Great War, or maybe just post plague), instead of a remnant of the ancient swamps %% 
+
+## City Layout
 
 %% design doc from OneNote here: [[Tollen - Design Note]] %%
 
-A bustling port on the [[Volta]], which forms the border between [[Sembara]] and [[Vostok]], the Free City of Tollen is an independent city-state. Founded thousands of years ago, it has navigated the politics of the region and maintained its independent for centuries. It is a haven for merchants, traders, intellectuals, mages, and scholars, and is known for its university as well as its reputation as a trading port. Sailors from Tollen ply the [[Green Sea]], bringing back goods from near neighbors as well as the far East. Tollen is a cosmopolitan city, where [[Humans]], [[Halflings]], [[Dwarves]], [[Stoneborn]], [[Lizardfolk]], and even [[Elves|elves]] and stranger species can be found living together. 
+Tollen sprawls astride the Volta, although most settlement is on the north bank. The oldest parts of the city are the eastern wards, which tend to have small, cramped streets and are home to the docks and the shipbuilding industry. The central part of the city, especially around the [[Tollen Bridge]], and extending west, is a major commercial hub, with markets, guildhalls, and broad boulevards. The western part of the city, clustered around the Little and Muddy rivers, is home to tanners, leatherworkers, dye-makers, and other industry; most of the recent expansion has been in this direction, including many sprawling slums outside the walls. 
+
+### Wards of Tollen
+_See more: [[Wards of Tollen]]_
+
+Tollen is divided into 17 wards, mostly on the north bank of the [[Volta]] and largely contained within the city walls, though as the population has grown in recent years the city has swelled beyond its walls, particularly to the west. 
+
+The oldest parts of the city -- the wards of [[Fiskurth]], [[Aesganstrad]], and [[Skepwalk]] -- are clustered along the banks of the Volta in the eastern (ocean-ward) part of [[Tollen]], reflecting the city's heritage as a Skaer port long ago. 
+
+[[Magus Street]], where the [[University of Tollen]] is located; [[Bridgeward]], on the north side of the [[Tollen Bridge]]; and [[Nordgate]], now home to a substantial dwarven population, surround this inner core. The rich commercial districts of [[Gold Street]] and [[Guildgate]]; [[Godshome]], with many temples; [[Fairgate]], with many markets; [[Southbridge]], on the south bank of the Volta across from [[Bridgeward]]; [[Haurhill]], on the height of land above the [[Little River]] and the site of an ancient Drankorian fort; and [[Battery]], home to extensive naval fortifications, make up the rest of the city as it stood at the time of the [[Great War]]. 
+
+More recently, as Tollen's prominence has grown, the marshy land on the south bank west of [[Southbridge]] has been drained and settled, forming the new wards of [[Fenslane]] and [[Tideswell]]; and the walls have been expanded to the west, enclosing the new wards of [[Brooklawn]] and [[Riversgate]]. 
+
+### Bridges, Walls, and Gates
+
+Only one bridge spans the [[Volta]]: the [[Tollen Bridge]], originally constructed by the [[Drankorian Empire]]. This broad stone span of many arches is a major commercial hub, lined with shops, houses, and activity, and also a defensive structure, with gatehouses at either end. Tall-masted oceanic ships cannot pass under the bridge. 
+
+While the [[Walls of Tollen|walls of Tollen]] have expanded many times during its history, their are eight gates in the current walls, from east to west: Old Gate, Scholar's Gate, North Gate, Temple Gate, Guild Gate, Fair Gate, Tanner's Gate, and River Gate. 
+
+### Landmarks
+
+Tollen has many notable landmarks. The most famous is the [[Tollen Bridge]], a vast span across the wide [[Volta]] that dates to the days of the [[Drankorian Empire]], now lined with shops. There are also many temples, particularly the Temple of [[The Wanderer]], with its massive spire, the Temple of the [[The Sibyl|Sibyl]], with its colorful dome, and the Skaer [[Temple of Kaikkea]], one of the oldest buildings in Tollen. 
+
+The guildhalls of Tollen are also notable, with several richer guilds constructing substantial palaces in the [[Gold Street]] and [[Guildgate]] districts, which are noted for their impressive architecture. 
+
+%% 
+Other landmarks could include a theater, government palace, major clock tower, other temples, and some weirder stuff like a strange dark tower associated with a lost god 
+%%
+
+%%^Campaign:None%%
+### Places in Tollen
+```dataviewjs
+const { util } = customJS
+dv.table(["Place", "Type Of"], 
+			dv.pages("#place")
+				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter))
+				.sort(s => util.s("<name:!>", s. file))
+				.sort(s => util.s("<maintype>", s.file))
+				.map(b => [util.s("<name:t>", b.file), util.s("<maintype>", b.file)]))
+				
+```
+
+%%^End%%
+
+
+
+--- 
+
+# Old
+
+## Governance and Laws
+
+Tollen is, by long custom, an open city. No toll is levied merely for stepping through its gates; the great arches are unbarred from first bell until dusk, and strangers come and go as they please. The city grows rich not by taxing feet, but by taxing cargo: every barrel and bale, every wagon and barge, pays its due at the customs houses. Licenses to sell in the markets, to practice a craft, or to bear the seal of a guild bring in more coin still.
+
+On paper, foreigners are forbidden to go “armed in the Tollish peace.” The city laws bar strangers from wearing armor or carrying war-blades larger than a dagger within the walls. In practice, the gate-guards turn a blind eye to single swords and the odd mail shirt, so long as no one marches in file or clanks about in full harness. The rule is enforced when it must be—against gangs, bravos, and rioters—but rarely against quiet travelers, and almost never against the Elder races, whom Tollenders do not truly fear.
+
+Tollen is a republic, for certain values of the word. Power rests in the hands of the guilds, whose masters send men and women to the Great Council. From their number a smaller Inner Council is chosen to rule from day to day, and every few years the guilds elect a First Councillor to speak for the city abroad. In law, all citizens are equal before the council; in truth, gold, ships, and old names weigh heavily on the scales.
+
+---
+
+
+Tollen is an open city: there are no tolls to enter, and the gates are kept open from dawn until dusk. There are fees, tolls, and tariffs on goods crossing through Tollen, market sellers, and considerable income is made via licensure of guilds and other professions and crafts. But from an adventurer's perspective, there is little to stop someone from wandering in. 
+
+Formally speaking, "foreigners", are prohibited from carrying blades larger than a dagger, and prohibited armor, but in practice this is rarely or never enforced as long as the rule is not flaunted, and especially it is unlikely to be enforced against members of the Elder races, who are perceived to be no threat to the city. The city gates are guarded, but not tightly.
+
+The city is technically a republic, with government by a council elected from the various guilds.
+
 ## History
+_See more: [[History of Tollen]]_
 
 Tollenders are deeply proud of their long history, and many will claim that Tollen is the oldest continually occupied [[Humans|human]] city in the world. Whether true or not is hard to know, but regardless Tollen's history stretches deep into the past.
 ### Founding
@@ -51,99 +127,14 @@ In the 5600s, war comes to the [[Green Sea]], first the battles against the anci
 
 Now, in 5881, Tollen commands a significant navy and is the undisputed master of the Western Gulf, controlling the [[Straits of Cymea]] and asserting influence over much of western [[Cymea]].
 
-## Geography
 
-![[map-tollen-drawing.png]]
-Tollen sits astride the Voltra river. Most development is on the north side, which is rockier, less marshy, and generally less prone to flooding, with the south side more recently developed and generally poorer. The height of navigation is considerably upstream of Tollen, although there are few good anchorages for large oceanic ships upriver. 
 
-The terrain around Tollen is characterized by rocky, gently rolling hills to the north and west, and swampy, marshy lowlands to the south and east. The western part of Tollen stretches into reclaimed marshlands, and is prone to tidal flooding, while the eastern and northern parts are drier. The exception is Haurhill, the area around an old Drankorian fort. 
-
-There are four small tributaries of the [[Volta]] that flow through Tollen:
-1. The [[Little River]], to the west; the largest of the Tollen rivers. In the past few hundred years has been diverted into a canal and dammed. 
-2. The <> River, flowing from the south, ...
-3. Fat Brook, now covered, flows through Guildgate and [[Gold Street]] before emptying into the Volta. Name is a corruption of Vattenbrok, the original Skaer name meaning tidal waters. 
-4. The <> River, ...
-
-Tollen is traditionally divided into 17 wards:
-
-### The Skaer City
-
-The original settlement by the mariners, as later expanded by the Skaer after [[The Downfall]] wars, was a small city, surrounded by a embankment and a wooden wall, set on the north side of the [[Volta]]. It mainly functioned as a port for timber and other goods leaving the [[Volta]] watershed. 
-
-[[Skepwalk]]: North side of the [[Volta]], easternmost (oceanside) district. Excellent harbor area, where a curve in the river creates a wide, deep anchorage. Name derives from old Eastros word for docks; this is the westernmost ward on the north side of the river, and among the oldest docks and shipyards in the city. Now a major shipbuilding center.
-
-[[Fiskurth]]: North side of the [[Volta]], northwest of [[Skepwalk]]. Name derives from old Eastros for fish, one of the oldest districts in the city, although little is preserved of that time. Many taverns, and a hub of activity for sailors. Largest fish market, and other scattered market streets, but somewhat "low class". 
-
-Aesganstrad: North and west along the river from [[Fiskurth]]; with [[Fiskurth]] and [[Skepwalk]] forms the ancient core of the pre-Drankorian city. Name derives from Aesgan, a semi-mythical Skaegish hero who is said to have protected/resettled Tollen during the chaos after [[The Downfall]]. Best preserved of the ancient districts, now home to many of the craft guilds, especially the powerful [[Dyer's Guild]].
-
-### The Drankorian City
-
-After the [[Treaty of Marhavn|treaty of 4547]], Tollen prospers. Most of the Skaer bitter about Drankorian influence are driven north and east, into their ancestral strongholds in the islands of the [[Western Green Sea]], and Tollen becomes a key mixing place and trade center for the rich raw materials flowing from the mountains and forests of the hinterland to the growing cities of the [[Drankorian Empire]] in what is now [[Cymea]] and [[Sembara]]. During the pre-treaty conflict, the city is sacked and the wooden walls burned; after peace is established, the first stone walls of the city are built, and the city expands north and west. 
-
-[[Bridgeward]]: West of Aesganstrad, and north of the great Tollen Bridge, build by the Drankorians to facilitate trade from the south and connect to the great Drankorian road stretching south to [[Sembara]]. Historically and in the present day a major market center, with shops, artisans, and lots of commerce. 
-
-[[Southbridge]]: south side of the [[Volta]], upriver (west) from Battery, the area south of the Tollen Bridge. Now the center of dyeing trade, and home to most of the tattoo parlors (magical or otherwise) in the city. Originally settled during the Drankorian era, and thus one of the oldest parts of the city, but retains little of its ancient character now. 
-
-Magus Street: Often just called Magus. East of the old city ([[Fiskurth]], [[Skepwalk]], Aesganstrad), away from the river. In Drankorian times, home to small library and university outpost, which grew over time. Technically older than the University of [[Chardon]], although it was abandoned for a number of years after the fall of the [[Drankorian Empire]], and reestablished as Tollen returned to prosperity in the early days of [[Sembara]]. 
-
-[[Nordgate]]: North of Aesganstrad and east of [[Bridgeward]], around the original north gate of Tollen. Now one of the major dwarven districts in the city. 
-
-### The Sembaran City
-
-After the fall of the [[Drankorian Empire]], there was a major economic disruption in the [[Green Sea]], and Tollen suffered. The population of the city shrunk, the University drifted apart, and many Drankorian structures fell into disrepair. However, in the 5300s and 5400s, as [[Sembara]] grows, Tollen experiences a major economic boom, rapidly growing. 
-
-[[Godshome]]: West of [[Nordgate]], along Temple Street where many different houses of worship to different gods are found. Grew around (some kind of religious complex pre-existing outside the walls in the Drankorian days, perhaps).
-
-[[Gold Street]]: West along the river from [[Bridgeward]]. Home to banks, and with [[Guildgate]] the heart of the growth boom experienced in pre-Great-War era. 
-
-[[Guildgate]]: North and inland from [[Gold Street]] and [[Bridgeward]], around the Guild Gate and home to many of the city's richest and most powerful merchant guilds and families. Dotted with extensive palaces of merchant houses.
-
-Fairgate: West of [[Guildgate]], inland from the [[Volta]]. [[Halflings|Halfling]] neighborhood, sometimes split into Fairgate Inner (inside walls) and Fairgate Outer (outside walls), as in the past hundred years or so the population has begun to spill out of the walls.
-
-Haurhill: rise of land, name means "hill hill" in Eastros and Westros. Height of land within Tollen and site of early fortifications (a Drankorian fort sat here, guarding the lumber yards at the confluence of the [[Little River]] and the [[Volta]]).
-
-### The Current City
-
-Tollen escaped the [[Great War]] largely unscathed, and has continued to grow in the past 200 years, despite the ups and downs of [[Sembara]] in this time. The city walls were expanded again to the west, and the city has now begun to overflow the walls. 
-
-Battery: south side of the [[Volta]], and on the easternmost (ocean) side of the city. Notable for the river fortifications that protect the main harbor; not densely populated, although small naval docks and barracks are here. Mostly dates to wars just before the [[Great War]], when Tollen was in alliance with [[Sembara]] against the dangers of the north. 
-
-Fenslane: south side of the [[Volta]], upriver (west) from [[Southbridge]], along the bend in the river. Former tidal marshland reclaimed and settled mostly by dyers, tanners, and other similar artisans expanding from [[Southbridge]]. Reasonably new.
-
-Tideswell: south side of the [[Volta]], upriver (west) from Fenslane. A marshy area that floods on the high tide, mix of poorer/slums and [[Lizardfolk]] communities.
-
-Brooklawn: West of Haurhill, a swampy and wet area where the [[Little River]] was dammed and diverted into a canal. Also often separated into Brooklawn Inner (inside the walls) and Brooklawn Outer (outside the walls). Fairly poor, slummy area. Brooklawn Outer is where much of the leatherworking and tanning happens, so smelly. Tanner's Gate separates Brooklawn Inner and Brooklawn Outer, and Brooklawn Inner is also referred to as Tannersgate.
-
-Riversgate: furthest west district, along the river. Also separated into Inner and Outer, with Riversgate Outer a center of timber trade coming down the [[Volta]].
-
-## Bridges and Gates
-
-Only one bridge spans the [[Volta]]. The Tollen Bridge, the ancient Drankorian bridge, still standing, with a huge stone drawbridge, lined with shops and activity. 
-
-There are eight gates in the current walls, from east to west: Old Gate, Scholar's Gate, North Gate, Temple Gate, Guild Gate, Fair Gate, Tanner's Gate, River Gate.
-
-Old Gate stands where the original pre-Skaer mariner fortication stood, defending the harbors of [[Skepwalk]]. But of course has been rebuilt many times. Scholar's Gate and North Gate are part of the original Drankorian stone wall. The fourth Drankorian Gate was demolished when the city expanded after the fall of [[Drankorian Empire|Drankor]]. North Gate, Temple Gate, Guild Gate, and Fair Gate are part of the pre-Great-War boom time walls. Tanner's Gate and River Gate are the most recent additions after the wall expanded west once more.  %% note - maybe keep only North Gate as part of the original walls, with the old Drankorian scholar's gate replaced with a new gate after walls pushed east to accomodate university growth%%
-## Governance and Laws
-
-Tollen is an open city: there are no tolls to enter, and the gates are kept open from dawn until dusk. There are fees, tolls, and tariffs on goods crossing through Tollen, market sellers, and considerable income is made via licensure of guilds and other professions and crafts. But from an adventurer's perspective, there is little to stop someone from wandering in. 
-
-Formally speaking, "foreigners", are prohibited from carrying blades larger than a dagger, and prohibited armor, but in practice this is rarely or never enforced as long as the rule is not flaunted, and especially it is unlikely to be enforced against members of the Elder races, who are perceived to be no threat to the city. The city gates are guarded, but not tightly.
-
-The city is technically a republic, with government by a council elected from the various guilds.
 ## Guilds
 
 Tollen is a city of guilds: the various trade associations, craft guilds, and producer's compacts are the center of power in the city. Particularly notable guilds include:
 - [[Dyer's Guild]]
 - [[Ancient and Honorable Guild of Philosophers]]
-## Landmarks
 
-Tollen has many notable landmarks. The most famous is the Tollen Bridge, a vast span across the wide [[Volta]] that dates to the days of the [[Drankorian Empire]], now lined with prestigious shops. There are also many temples, particularly the Temple of [[The Wanderer]], with its massive spire, and the Temple of the [[The Sibyl|Sibyl]], with its colorful dome, and the Skaer [[Temple of Kaikkea]], one of the oldest buildings in Tollen. 
-
-The guildhalls of Tollen are also notable, with several richer guilds constructing substantial palaces in the [[Gold Street]] and [[Guildgate]] districts, which are noted for their impressive architecture. 
-
-%% SECRET
-Other landmarks could include a theater, government palace, major clock tower, other temples, and some weirder stuff like the strange dark tower associated with a lost god 
-%%
 ## Economy and Trade
 
 Tollen is the master of the [[Western Gulf]], with significant fishing, merchant, and naval fleets. The Tollender navy controls the islands in the gulf of Tollen, as well as the Straits of [[Cymea]], and patrols the [[Western Gulf]], keeping it free of pirates. 
@@ -202,34 +193,7 @@ Notes from old GDrive doc, could be old/wrong/etc, here to incorporate/check/del
     
 - In many ways more cosmopolitan than Sembara; significant local halfling and dwarven communities, and stoneborn are not unheard of. Elves still super-rare, and lizardfolk if anything less common than in Sembara.
 
-A re-write might consider this suggestion:
-
-### 3. Urban geography consistency
-
-You’re already tracking ward growth through eras, which is fantastic. To avoid future headaches:
-
-- Somewhere (maybe a separate doc) create a simple table: Ward | Side of Volta | Era | Original Function | Modern Character.
-    
-- Make sure every time you mention wall expansions or ward enclosures, it lines up with that table.
-    
-
-That will pay off the first time your players decide to inspect the oldest gates or climb the “original” city walls.
 
 
 
 %%
-
-%%^Campaign:None%%
-### Places in Tollen
-```dataviewjs
-const { util } = customJS
-dv.table(["Place", "Type Of"], 
-			dv.pages("#place")
-				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter))
-				.sort(s => util.s("<name:!>", s. file))
-				.sort(s => util.s("<maintype>", s.file))
-				.map(b => [util.s("<name:t>", b.file), util.s("<maintype>", b.file)]))
-				
-```
-
-%%^End%%
