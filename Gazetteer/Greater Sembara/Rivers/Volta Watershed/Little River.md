@@ -2,7 +2,8 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Little River
-typeOf: river
+typeOf: waterway
+typeOfAlias: river
 whereabouts: 
 - {type: primary, location: Tollen}
 - { type: secondary, location: Volta Watershed }

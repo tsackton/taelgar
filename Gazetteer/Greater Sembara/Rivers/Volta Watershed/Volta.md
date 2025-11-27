@@ -17,3 +17,5 @@ dm_owner: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A major river that was historically a border between the [[Sembara|Sembaran]] and [[Zimkova|Zimkovan]] cultural influences. The upper reaches of the Volta in particular have always been a center of [[Kestavo|kestavan]] religious practice. 
+
+ The height of navigation on the Volta is considerably upstream of Tollen, although there are few good anchorages upriver, and the [[Tollen Bridge]] blocks passage of the biggest ships. 

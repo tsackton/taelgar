@@ -1,0 +1,3 @@
+%%
+The [[Tollen Bridge]] is a broad stone span of many arches, built in the Age of Drankor. Its piers choke the Volta into narrow, dangerous channels. Seagoing ships never pass beyond the bridge; they dock below its shadow, and cargo is carried upriver by low-masted barges that slip under the central arches. Gatehouses at either end control road traffic, but the bridge has no great drawspan—only a small lifting section at the city end to secure the roadway in time of war.
+%%

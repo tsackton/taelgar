@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Brooklawn Outer
 displayDefaults: {defArt: ""}
-typeOf: district
+typeOf: ward
 whereabouts: Tollen
 dm_owner: none
 dm_notes: color

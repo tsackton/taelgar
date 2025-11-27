@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Nordgate
-typeOf: district
+typeOf: ward
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
