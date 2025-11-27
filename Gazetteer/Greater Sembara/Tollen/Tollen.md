@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
+tags: [place, status/needswork/old]
 name: Free City of Tollen
 typeOf: city
 whereabouts: Western Green Sea
@@ -201,6 +201,21 @@ Notes from old GDrive doc, could be old/wrong/etc, here to incorporate/check/del
 - University in Tollen is major center of magical learning in the Sembara/Vostok region, only some parts of Cymea could compete in western Green Sea area. Dye industry + magic makes Tollen a center of development of magical tattoos.
     
 - In many ways more cosmopolitan than Sembara; significant local halfling and dwarven communities, and stoneborn are not unheard of. Elves still super-rare, and lizardfolk if anything less common than in Sembara.
+
+A re-write might consider this suggestion:
+
+### 3. Urban geography consistency
+
+You’re already tracking ward growth through eras, which is fantastic. To avoid future headaches:
+
+- Somewhere (maybe a separate doc) create a simple table: Ward | Side of Volta | Era | Original Function | Modern Character.
+    
+- Make sure every time you mention wall expansions or ward enclosures, it lines up with that table.
+    
+
+That will pay off the first time your players decide to inspect the oldest gates or climb the “original” city walls.
+
+
 
 %%
 

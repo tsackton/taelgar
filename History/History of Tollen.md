@@ -1,22 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [timeline, status/needswork/wip]
+tags: [timeline, status/check/mike]
 dm_owner: tim
 dm_notes: none
 ---
 # History of Tollen
 
+%% 
+status -> set check/mike for review; I believe that all canonical events are captured here; there is not a ton of tollish history invented outside the basic structuring of the city. i think status can be removed unless there is something that is unclear. 
+i set the status of tollen to status/needswork/old to reflect some now-outdated bits; this note should take precedence if they conflict
+%%
+
 %% this note covers the history of the [[Tollen|Free City of Tollen]], occasionally touching on larger events but mostly focused specifically on the city %%
 
 This is a chronicle of the history of the [[Tollen|Free City of Tollen]], from its founding to the present day. Tollenders are deeply proud of their long history, and many will claim that Tollen is the oldest continually occupied [[Humans|human]] city in the world. Whether true or not is hard to know, but regardless Tollen's history stretches deep into the past.
-
-%% conventions: 
-- events in () signal this event is not canonical and can be changed; dates in () signal the event is canonical but the date can shift
-- canonical vibes sections in DM Notes outline basic historical arcs that must be preserved
-- all player facing text should be considered strictly canonical
-- comments in player-facing sections provide context; comments are also used in DM Notes in timeline lists only, so that context will be present when pulled by a query
-- playing facing dates are not given for events prior to DR 1, though canonical dates might exist
-%%
 
 ## Founding Era
 *before the Downfall*
@@ -88,7 +85,9 @@ The Age of Drankor in Tollen ends when Drankor falls to the [[First Plague]] in 
 %%^Campaign:none%%
 ### DM Notes
 #### Basic Vibes
-Very little is established canonically, though the clear vibe is that during the Age of Drankor Tollen shifts from being fundamentally a small part of a larger Skaer culture to being its own unique thing. Presumably during this time people start calling themselves Tollenders; Old Tollish begins to diverge from Skaer and drift towards modern Tollish as it picks up many words from Drankorian. This requires the Skaer to largely depart for various reasons, or at least for Skaer outmigration to outpace inmigration; the details of this should be developed in the [[History of the Skaer]], but it is important to the vibe of Tollen that, for whatever reason, the Skaer do not persist in trying to dominant Tollen politics and culture. 
+Very little is established canonically, though the clear vibe is that during the Age of Drankor Tollen shifts from being fundamentally a small part of a larger Skaer culture to being its own unique thing. Presumably during this time people start calling themselves Tollenders; Old Tollish begins to diverge from Skaer and drift towards modern Tollish as it picks up many words from Drankorian. This requires the Skaer to largely depart for various reasons, or at least for Skaer outmigration to outpace inmigration; the details of this should be developed in the [[History of the Skaer]], but it is important to the vibe of Tollen that, for whatever reason, the Skaer do not persist in trying to dominate Tollen politics and culture. 
+
+Development of magical tattoos may date to this period, but does not need to. 
 
 The existence of an ancient temple to [[Kaikkea]], the [[Temple of Kaikkea]], is canon, and Skaer continue to maintain a presence there continually, still ongoing in DR 1749 when the Dunmari Fellowship visited Tollen. 
 
@@ -109,61 +108,47 @@ _DR 1059 - DR 1695_
 
 Tollen first came to prominence as a small part of the Skaer empire, and grew as a city under the shadow of the Drankorian Empire. After the Fall of Drankor, it truly became a free city. Though little is recorded from the years immediately after the Fall of Drankor, by the time modern Sembara is established under [[Derik I]], Tollen is a significant regional power, and during the [[Great War]], Tollen is an ally to [[Derik III]]. After the Great War, with the decline of [[Cymea]] as a maritime power, Tollen's navy grows in strength and the city begins to project strength throughout the [[Western Gulf]] and the [[Straits of Cymea]]. 
 
-During this long history, Tollen expanded in several waves. As the city grows, the walls are expanded to the north and west, incorporating [[Godshome]] and [[Guildgate]] into the city. In the years before the Great War, the walls are expanded again, and [[Fat Brook]] is covered; the western part of [[Guildgate]] is enclosed in the walls at this point, as are the districts of [[Fairgate Inner]] (then simply Fairgate) and [[Haurhill]], encompassing the hill where an old Drankorian fort once stood on the height of land above the [[Little River]]. In this period, the [[Battery]] ward, on the south bank of the Volta, is constructed to strengthen the defense the city. Some time after the Great War, the walls are expanded once more, to encompass [[Brooklawn Inner]] and [[Riversgate Inner]], and the [[Little River]] is partially covered. 
+During this long history, Tollen expanded in several waves. As the city grows, the walls are expanded to the north and west, incorporating [[Godshome]] and [[Guildgate]] into the city. In the years before the Great War, the walls are expanded again, and [[Fat Brook]] is covered; the western part of [[Guildgate]] (formerly Guildgate Outer) is enclosed in the walls at this point, as are the districts of [[Fairgate Inner]] (then simply Fairgate) and [[Haurhill]], encompassing the hill where an old Drankorian fort once stood on the height of land above the [[Little River]]. In this period, sometime near the time of the Great War, the [[Battery]] ward, on the south bank of the Volta, is constructed to strengthen the defense the city. 
 
+The end of this period is dated to the beginning of Tollish attempts to control Western Cymea.  
 
+- (DR:: 1695): Tollen starts to establish colonies in [[Western Cymea]], at least in part in response to pirate activity in the [[Western Gulf]]
 
 %%^Campaign:none%%
 ### DM Notes
+
+_Note this is a long stretch of time; it is likely this period should be subdivided as more details are invented._
 #### Basic Vibes
+There is very little developed about Tollen during this time period. However, the key vibes are:
+- The city keeps growing - it is never sacked and likely never even occupied, though there is space for some complications around this especially during the first few hundred years post-Drankor; a few possible near-misses might be useful. 
+- However, until the end of this time, it is generally not a major maritime power. Before the Great War, Cymea, and to a lesser extent the Skaer, dominant the Western Gulf. That said, it probably needs to have some shipbuilding and at least a river fleet or a locally important navy, even if it is not projecting naval power out of the Gulf of Tollen. 
+
+It is not clear exactly who has navies on the Western Gulf after the Great War; this could be Tollen, though canonically Tollen does not begin to control territory across the gulf in Cymea until 1695. The 1695 date is arbitrary, but should be considered canon in order to have a loose scaffold to build from; a date in this rough range is required for the backstory to the [[Labyrinths of the Lost]]. 
+
+Some time after the Great War, the walls are expanded once more, to encompass [[Brooklawn Inner]] and [[Riversgate Inner]], and the [[Little River]] is partially covered, but this could plausibly have been near the beginning of the "Recent Events" period, below. 
+
+#### Not Canon, But Plausible
+
+It is likely that most guilds and merchant houses date to this period, though some may claim an older Drankorian origin, or even a pre-Drankorian origin. If the art of magical tattoos does not have a Drankorian origin, it originates during this period. 
+
+Walls are likely expanded once in the 1300s, once in the 1400s, once in the early 1500s prior to the Great War, and finally sometime in the 1600s, but these are not canonical. 
+
+#### Context at End of Period
+
+The end of this period marks a shift from Tollen as a city-state to Tollen as a maritime power with growing "overseas" colonies in Western Cymea and possibly other places, such as the Vostok coast. 
 
 
 %%^End%%
 
-
-### The Fall of [[Drankorian Empire|Drankor]] and the Growth of [[Sembara]]
-
-When the Plague strikes, while Tollen is spared the worst of the chaos that envelopes the south, but plenty of chaos remains, and various wars and conflicts spiral out of control. While the university survives, and the city itself, most of its wealth is lost as trade is disrupted, and Tollen falls into a dark age. Little is recorded from the time between the Plague in 5192, and the late 5300s, when the Sembaran kings begin to grow in power.
-
-As [[Sembara]] expands in the south, Tollen recovers, and over the 5400s and 5500s Tollen experiences a renaissance of sorts, based on the growing wool and linen trade from the Sembaran heartlands. The lost art of magical tattoos are rediscovered and most of the merchant houses of Tollen today are established during this time period.
-
-In the 5600s, war comes to the [[Green Sea]], first the battles against the ancient white dragon Vimfrost, and then the [[Great War]] itself. Tollen, however, survives intact, and if anything grows in power and influence, as many of the Sembaran kings in the years after the [[Great War]] have ties by blood or marriage to the great houses of Tollen.
-
-Now, in 5881, Tollen commands a significant navy and is the undisputed master of the Western Gulf, controlling the [[Straits of Cymea]] and asserting influence over much of western [[Cymea]].
-
-
-### The Sembaran City
-
-After the fall of the [[Drankorian Empire]], there was a major economic disruption in the [[Green Sea]], and Tollen suffered. The population of the city shrunk, the University drifted apart, and many Drankorian structures fell into disrepair. However, in the 5300s and 5400s, as [[Sembara]] grows, Tollen experiences a major economic boom, rapidly growing. 
-
-[[Godshome]]: West of [[Nordgate]], along Temple Street where many different houses of worship to different gods are found. Grew around (some kind of religious complex pre-existing outside the walls in the Drankorian days, perhaps).
-
-[[Gold Street]]: West along the river from [[Bridgeward]]. Home to banks, and with [[Guildgate]] the heart of the growth boom experienced in pre-Great-War era. 
-
-[[Guildgate]]: North and inland from [[Gold Street]] and [[Bridgeward]], around the Guild Gate and home to many of the city's richest and most powerful merchant guilds and families. Dotted with extensive palaces of merchant houses.
-
-Fairgate: West of [[Guildgate]], inland from the [[Volta]]. [[Halflings|Halfling]] neighborhood, sometimes split into Fairgate Inner (inside walls) and Fairgate Outer (outside walls), as in the past hundred years or so the population has begun to spill out of the walls.
-
-Haurhill: rise of land, name means "hill hill" in Eastros and Westros. Height of land within Tollen and site of early fortifications (a Drankorian fort sat here, guarding the lumber yards at the confluence of the [[Little River]] and the [[Volta]]).
-
-### The Current City
-
-Tollen escaped the [[Great War]] largely unscathed, and has continued to grow in the past 200 years, despite the ups and downs of [[Sembara]] in this time. The city walls were expanded again to the west, and the city has now begun to overflow the walls. 
-
-Battery: south side of the [[Volta]], and on the easternmost (ocean) side of the city. Notable for the river fortifications that protect the main harbor; not densely populated, although small naval docks and barracks are here. Mostly dates to wars just before the [[Great War]], when Tollen was in alliance with [[Sembara]] against the dangers of the north. 
-
-Fenslane: south side of the [[Volta]], upriver (west) from [[Southbridge]], along the bend in the river. Former tidal marshland reclaimed and settled mostly by dyers, tanners, and other similar artisans expanding from [[Southbridge]]. Reasonably new.
-
-Tideswell: south side of the [[Volta]], upriver (west) from Fenslane. A marshy area that floods on the high tide, mix of poorer/slums and [[Lizardfolk]] communities.
-
-Brooklawn: West of Haurhill, a swampy and wet area where the [[Little River]] was dammed and diverted into a canal. Also often separated into Brooklawn Inner (inside the walls) and Brooklawn Outer (outside the walls). Fairly poor, slummy area. Brooklawn Outer is where much of the leatherworking and tanning happens, so smelly. Tanner's Gate separates Brooklawn Inner and Brooklawn Outer, and Brooklawn Inner is also referred to as Tannersgate.
-
-Riversgate: furthest west district, along the river. Also separated into Inner and Outer, with Riversgate Outer a center of timber trade coming down the [[Volta]].
-
-%%
-
-
 ## Recent Events
 _DR 1695 - current_
 
+In recent years, Tollen has grown from an important city to the strongest naval power in the Western Gulf. The city has grown larger, with the wards of Fenslane and Tideswell, on the south bank of the Volta, becoming established in recent years. Tollen's influence has also grown, as now many settlements in [[Western Cymea]] are functionally Tollish colonies, and Tollen's navies control the [[Straits of Cymea]]. 
+
+### DM Notes
+
+#### Basic Vibes
+The most important vibe is the shift from a local power to a regional one, and the appearance of Tollish colonies. The exact details of how this develops is not decided, and the timing is loose. However, this shift is supposed to be relatively recent (within living memory), and 1695 is consistent with the [[Key - LL#History|background]] for the [[Labyrinths of the Lost]] adventure set in [[Western Cymea]]. 
+
+%%
 
