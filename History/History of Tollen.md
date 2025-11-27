@@ -35,6 +35,11 @@ Generally, the Founding Era should mostly function as part of the myth of Tollen
 - (CY:: 3902): Tollen is founded %% this is not crucial to anything in play but serves as a useful anchor for worldbuilding and should be considered fixed; this starts the founding era %%
 - (CY:: 4122): The sinking of [[Hkar]] and the end of the [[Downfall Wars]] %% see: [[Canonical Events]]; this marks the end of the founding era%%
 
+#### Ideas
+
+A possibility: What if the earliest settlers of Tollen were explicitly the misfits and dissatisfied with the mariner culture, perhaps following [[Kaikkea]] specifically and rejecting the larger mariner pantheon, whatever it was. A bit of a Roger Williams or some of the other 'free thinker' early New England settlers vibe. 
+
+Development into a mercantile culture: From that earliest point, Tollen gains a reputation as a free-wheeling place of stories and misfits and those who are looking for a new life. And with them comes the curious from other cultures, and it turns out the northerners and the mariners have a lot to sell each other, so then comes the merchants.
 
 %%^End%%
 
@@ -68,6 +73,15 @@ During the height of the Skaer empire, Tollen was a small city, surrounded by an
 #### Context at the End of the Period
 
 After 402, Tollen increasingly comes under Drankorian influence, and is effectively a protectorate of Drankor. Although not administered by a Drankorian governor, Tollen retains no navy and Skaer warships are forbidden from the Volta, leaving Tollen reliant on Drankor for protection. 
+
+#### Ideas
+
+Limits of Skaer influence: Although Tollen largely becomes a Skaer city, some ancient institutions of storytellers, knowledge seekers, and free-thinkers maintain their place in the city (need some kind of event to make this work out), and Tollen remains a place where the Skaer religion does not hold sway entirely. Tollen grows as a Skaer city and center of commerce., but many supposedly ancient institutions survive in the city, although who really knows how many are truly ancient, as opposed to institutions that invented ancient roots to gain prestige or maintain independence from the Skagen protectorate.
+
+Role in the [[Treaty of Marhavn]]: Maybe Tollen is the architect of the treaty, and maybe there are reasons why. A storm giant foretold the end of [[Drankorian Empire|Drankor]] if they expanded past the Voltra, and Tollen had evidence? Some kind of divine intervention, the divinities of Mos Numera insisted Tollen remain free? Maybe there is something special about the place that makes all the various gods of Taelgar keen to ensure it is never fully controlled by a single set of gods. Maybe this is some other kind of magical great power connection, either divine, or perhaps something connected to dragons or giants or elementals. 
+
+If the Drankorians and the Skaer are at war: Perhaps it is Tollen that brokers a peace treaty, earning an uneasy freedom from both the Drankorians, who refrain from formally conqueoring the city in exchange for de facto control of its foreign policy, and from the Skaer, who are forbidden from sailing up the Voltra.
+
 
 %%^End%%
 
@@ -150,5 +164,9 @@ In recent years, Tollen has grown from an important city to the strongest naval 
 #### Basic Vibes
 The most important vibe is the shift from a local power to a regional one, and the appearance of Tollish colonies. The exact details of how this develops is not decided, and the timing is loose. However, this shift is supposed to be relatively recent (within living memory), and 1695 is consistent with the [[Key - LL#History|background]] for the [[Labyrinths of the Lost]] adventure set in [[Western Cymea]]. 
 
-%%
+%%^End%%
+
+
+
+
 
