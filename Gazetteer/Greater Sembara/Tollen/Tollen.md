@@ -18,7 +18,7 @@ dm_notes -> there are still a fair number of possibly-relevant notes to expose f
 status/check/mike -> mostly curious if this note feels complete enough that you could run an arc in Tollen that feels like it would fit, or if there are more details that need to be added in places
 %%
 
-Tollen is a bustling port on the [[Volta]], a growing naval power, a cultural mixing ground, an a entrepôt where goods from across the [[Green Sea]] are traded. Founded thousands of years ago, it has navigated the politics of the region and maintained its independent for centuries. It is a haven for merchants, traders, intellectuals, mages, poets, writers, and scholars, known for the [[University of Tollen]] and its powerful guilds. 
+Tollen is a bustling port on the [[Volta]], a growing naval power, a cultural mixing ground, and an entrepôt where goods from across the [[Green Sea]] are traded. Founded thousands of years ago, it has navigated the politics of the region and maintained its independence for centuries. It is a haven for merchants, traders, intellectuals, mages, poets, writers, and scholars, known for the [[University of Tollen]] and its powerful guilds. 
 
 Tollen is a cosmopolitan city, where [[humans]], [[halflings]], [[dwarves]], [[stoneborn]], [[lizardfolk]], [[Kenku|kenku]], [[Elves|elves]], and more can be found living together, and where temples to many gods can be found, most prominently the [[Mos Numena|Eight Divines]] and the Skaer ocean goddess [[Kaikkea]]. 
 
@@ -46,13 +46,13 @@ The oldest parts of the city -- the wards of [[Fiskurth]], [[Aesganstrad]], and 
 
 [[Magus Street]], where the [[University of Tollen]] is located; [[Bridgeward]], on the north side of the [[Tollen Bridge]]; and [[Nordgate]], now home to a substantial dwarven population, surround this inner core. The rich commercial districts of [[Gold Street]] and [[Guildgate]]; [[Godshome]], with many temples; [[Fairgate]], with many markets; [[Southbridge]], on the south bank of the Volta across from [[Bridgeward]]; [[Haurhill]], on the height of land above the [[Little River]] and the site of an ancient Drankorian fort; and [[Battery]], home to extensive naval fortifications, make up the rest of the city as it stood at the time of the [[Great War]]. 
 
-More recently, as Tollen's prominence has grown, the marshy land on the south bank west of [[Southbridge]] has been drained and settled, forming the new wards of [[Fenslane]] and [[Tideswell]]; and the walls have been expanded to the west, enclosing the new wards of [[Brooklawn]] and [[Riversgate]]. 
+More recently, as Tollen's prominence has grown, the marshy land on the south bank west of [[Southbridge]] has been drained and settled, forming the new wards of [[Fenslane]] and [[Tideswell]]; and the walls have been expanded to the west, enclosing the new wards of [[Brooklawn]], a low-lying industrial area along the [[Little River]], and [[Riversgate]], along the new western gate of the city. 
 
 ### Bridges, Walls, and Gates
 
 Only one bridge spans the [[Volta]]: the [[Tollen Bridge]], originally constructed by the [[Drankorian Empire]]. This broad stone span of many arches is a major commercial hub, lined with shops, houses, and activity, and also a defensive structure, with gatehouses at either end. Tall-masted oceanic ships cannot pass under the bridge. 
 
-While the [[Walls of Tollen|walls of Tollen]] have expanded many times during its history, their are eight gates in the current walls, from east to west: Old Gate, Scholar's Gate, North Gate, Temple Gate, Guild Gate, [[Fair Gate]], [[Tanner's Gate (Tollen)|Tanner's Gate]], and River Gate. 
+While the [[Walls of Tollen|walls of Tollen]] have expanded many times during its history, there are eight gates in the current walls, from east to west: Old Gate, Scholar's Gate, North Gate, Temple Gate, Guild Gate, [[Fair Gate]], [[Tanner's Gate (Tollen)|Tanner's Gate]], and River Gate. 
 
 ### Landmarks
 
@@ -107,7 +107,9 @@ In recent years, Tollen has extended its reach, settling colonies and establishi
 
 The economy of Tollen is powered by trade. Tollenders produce [[Tollen Dyes|dyes]], cloth, and fine clothes that are widely sought across the [[Green Sea]], and are also known for shipbuilding, fishing, [[whaling]], and the fur trade. Tollen is also famous as a center for the production of [[Tollen Magical Tattoo|magical inks and tattoos]]. 
 
-Tollen is a major entrepôt on the Green Sea: its merchant fleets travel widely, bringing exotic goods back west. While many of these are used as raw ingredients for dyes (both mundane and magical), a large portion are exported south to the realms of the [[Greater Sembara]] region. and for trade. 
+Tollen is a major entrepôt on the Green Sea: its merchant fleets travel widely, bringing exotic goods back west. While many of these are used as raw ingredients for dyes (both mundane and magical), a large portion are exported south to the realms of the [[Greater Sembara]] region.
+
+%% probably needs a sentence about imports - likely grain at least, maybe metal goods? Timber comes downriver along the Volta but not clear from who, exactly %%
 
 ## History
 _See more: [[History of Tollen]]_
@@ -118,7 +120,7 @@ Tollen’s first great turning point came with the Treaty of Marhavn in DR 402, 
 
 The Fall of Drankor and the First Plague in DR 1059 left Tollen suddenly independent. Spared the worst of the fallout from the collapse of the [[Drankorian Empire]], Tollen grew over the following centuries into a guild-ruled free city, its walls creeping outward in rings while trade made its merchant houses rich. 
 
-The city weathered the [[Great War]] intact ever being sacked, and in the last century has it stepped onto the wider stage as a naval power in its own right. With Cymea’s decline, Tollish fleets now dominate the Western Gulf and the Straits of Cymea, and Tollish free ports in Western Cymea function as colonies. Now, Tollen is both an ancient, stubbornly independent river-city and a young, hungry maritime republic, looking ever further from its old Skaer quays toward the open sea.
+The city weathered the [[Great War]] without ever being sacked, and in the last century it has stepped onto the wider stage as a naval power in its own right. With Cymea’s decline, Tollish fleets now dominate the Western Gulf and the Straits of Cymea, and Tollish free ports in Western Cymea function as colonies. Now, Tollen is both an ancient, stubbornly independent river-city and a young, hungry maritime republic, looking ever further from its old Skaer quays toward the open sea.
 
 
 %%^Campaign:none%%
