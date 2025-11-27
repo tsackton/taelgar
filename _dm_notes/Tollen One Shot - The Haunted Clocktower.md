@@ -2,14 +2,13 @@
  
 Vague sweep over Tollen - mention a few of the districts.
  
-Battery with the fortifications, Skepwalk with shipbuilding, Aesganstrad with guilds and the clocktower, across the Tollen Bridge, the bustling Fiskurth with taverns and entertainment, then drifting past the markets of Bridgeward to the slums of Brooklawn among the smells of the tanneriers, to a quiet tavern, the Spotted Cow.
+[[Battery]] with the fortifications, Skepwalk with shipbuilding, [[Aesganstrad]] with guilds and the clocktower, across the Tollen Bridge, the bustling Fiskurth with taverns and entertainment, then drifting past the markets of Bridgeward to the slums of Brooklawn among the smells of the tanneriers, to a quiet tavern, the Spotted Cow.
  
 A large, round man, bald and dressed in fine robes, several rings on his fingers all decorated with gears and wheels, stands at the head of a table. Master Wymar.
  
 ---
  
-Introduce the problem. Master Bernard was an eccentric man, some say a genius, but someone who  
-rarely shared what he was working on. His great project in the last years of his life was a new clocktower, a monument to the guild, he was constructing with his own funds on the north edge of Aesganstrad, near [[Nordgate]] on the edge of the dwarven district.
+Introduce the problem. Master Bernard was an eccentric man, some say a genius, but someone who  rarely shared what he was working on. His great project in the last years of his life was a new clocktower, a monument to the guild, he was constructing with his own funds on the north edge of [[Aesganstrad]], near [[Nordgate]] on the edge of the dwarven district.
  
 He died 6 months ago, the clocktower nearly finished but for the face. Still, it strikes the hours, the bells sounding distant and muffled and hardly audible beyond the immediate plaza of the tower itself.
  
@@ -21,7 +20,7 @@ If you succeed, we will be in your debt for a change.
  
 ## Tower Neighborhood
  
-The clocktower rises about 60 feet above a large squat building, overlooking a small plaza with a minor weekly market. The area is a mix of dwarven artisans, minor merchants, artisans. On the border of the dwarven area of [[Nordgate]] and the human-dominated and guild-centric Aesganstrad, it is a well-off, clean, and quiet part of the city that wants no trouble with ghosts.
+The clocktower rises about 60 feet above a large squat building, overlooking a small plaza with a minor weekly market. The area is a mix of dwarven artisans, minor merchants, artisans. On the border of the dwarven area of [[Nordgate]] and the human-dominated and guild-centric [[Aesganstrad]], it is a well-off, clean, and quiet part of the city that wants no trouble with ghosts.
  
 Several people in the area probably knew Bernard, who was seen as an eccentric genius. Some can provide clues or information, improve from notes below.
  
