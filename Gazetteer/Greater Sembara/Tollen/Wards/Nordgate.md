@@ -21,5 +21,5 @@ Nordgate lies east of [[Bridgeward]] and north of the approaches to [[Godshome]]
 
 %%
 DM notes
-- District summary aligns with [[Tollen|Tollen.md]] notes: dwarven concentration, proximity to Aesganstrad/Bridgeward. Good space for guild politics and dwarf‑human ties.
+- District summary aligns with [[Tollen|Tollen.md]] notes: dwarven concentration, proximity to [[Aesganstrad]]/Bridgeward. Good space for guild politics and dwarf‑human ties.
 %%

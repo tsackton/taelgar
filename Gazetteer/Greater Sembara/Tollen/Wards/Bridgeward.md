@@ -1,12 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-campaignInfo:
 name: Bridgeward
 typeOf: ward
 whereabouts: Tollen
 dm_owner: none
-dm_notes: color
+dm_notes: none
 ---
 # Bridgeward
 >[!info]+ Information  

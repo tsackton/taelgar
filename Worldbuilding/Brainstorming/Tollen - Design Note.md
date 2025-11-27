@@ -21,7 +21,7 @@ District 9: poor -- slums, inside and outside the walls -- livestock and leather
  
 **[on the south side of the Volta, much less developed]**
  
-1. **Battery:** district 1, south side of the Volta, notable for the river fortifications that protect the main harbor; not densely populated, although small naval docks and barracks are here. Mostly dates to the 5600s/5700s, replacing many iterations of older fortications.
+1. **[[Battery]]:** district 1, south side of the Volta, notable for the river fortifications that protect the main harbor; not densely populated, although small naval docks and barracks are here. Mostly dates to the 5600s/5700s, replacing many iterations of older fortications.
  
 1. **Southbridge**: west part of district 8, the area south of the bridge, center of dyeing trade now, and home to most of the tattoo parlors (magical or otherwise) in the city. While the bridge is extremely old, dating to Drankorian era, this district has only been part of city since the early 5400s, although built on reclaimed land created during the Drankorian days.
  
@@ -40,13 +40,13 @@ District 9: poor -- slums, inside and outside the walls -- livestock and leather
  
 1. **Fiskurth:** Name derives from old Eastros for fish, one of the oldest districts in the city dating to the pre-Drankorian era, although little is preserved of that time. Many taverns, entertainment, artisans, shops. Bustling center of Tollen. East of Bridgeward along the river.
  
-1. **Aesganstrad:** Name derives from Aesgan, a semi-mythical Skaegish hero who is said to have protected/resettled Tollen during the chaos after the Downfall. East and south along the river from Fiskurth, and with Fiskurth and Skepwalk the ancient core of the city. Best preserved of the ancient districts, now home to many of the craft guilds, especially the powerful dyer's guild.
+1. **[[Aesganstrad]]:** Name derives from Aesgan, a semi-mythical Skaegish hero who is said to have protected/resettled Tollen during the chaos after the Downfall. East and south along the river from Fiskurth, and with Fiskurth and Skepwalk the ancient core of the city. Best preserved of the ancient districts, now home to many of the craft guilds, especially the powerful dyer's guild.
  
-1. **[[Nordgate]]:** North of Aesganstrad, around the original north gate of Tollen, west of the university and the temple district. Now one of the major dwarven districts in the city.
+1. **[[Nordgate]]:** North of [[Aesganstrad]], around the original north gate of Tollen, west of the university and the temple district. Now one of the major dwarven districts in the city.
  
 1. **Godshome:** east of [[Nordgate]], along Temple Street where many different houses of worship to different gods are found.
  
-1. **Magus Street:** near Godshome, where the University of Tollen is located, also the scholar's gate. Often just called Magus. 3. **Gold Street:** east along the river from Aesganstrad. Home to banks. 5. **Riversgate:** furthest east district, along the river. Also separated into Inner and Outer, with Riversgate Outer a center of timber trade coming down the Volta.
+1. **Magus Street:** near Godshome, where the University of Tollen is located, also the scholar's gate. Often just called Magus. 3. **Gold Street:** east along the river from [[Aesganstrad]]. Home to banks. 5. **Riversgate:** furthest east district, along the river. Also separated into Inner and Outer, with Riversgate Outer a center of timber trade coming down the Volta.
     
 1. **Haurhill:** rise of land, name means "hill hill" in Eastros and Westros. Height of land within Tollen and site of early fortifications.
    

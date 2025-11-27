@@ -12,16 +12,16 @@ tags: [status/needswork/wip]
 
 [[Fiskurth]]: North side of the [[Volta]], northwest of [[Skepwalk]]. Name derives from old Eastros for fish, one of the oldest districts in the city, although little is preserved of that time. Many taverns, and a hub of activity for sailors. Largest fish market, and other scattered market streets, but somewhat "low class". 
 
-[[Aesganstrad]]: North and west along the river from [[Fiskurth]]; with [[Fiskurth]] and [[Skepwalk]] forms the ancient core of the pre-Drankorian city. Name derives from Aesgan, a semi-mythical Skaegish hero who is said to have protected/resettled Tollen during the chaos after [[The Downfall]]. Best preserved of the ancient districts, now home to many of the craft guilds, especially the powerful [[Dyer's Guild]].
+[[Aesganstrad]]: North and west along the river from [[Fiskurth]]; with [[Fiskurth]] and [[Skepwalk]] forms the ancient core of the pre-Drankorian city. Name derives from Aesgan, a semi-mythical Skaegish hero who is said to have protected/resettled Tollen during the chaos after [[The Downfall]]. Best preserved of the ancient districts.
 
 
-[[Bridgeward]]: West of Aesganstrad, and north of the great Tollen Bridge, build by the Drankorians to facilitate trade from the south and connect to the great Drankorian road stretching south to [[Sembara]]. Historically and in the present day a major market center, with shops, artisans, and lots of commerce. 
+[[Bridgeward]]: West of [[Aesganstrad]], and north of the great Tollen Bridge, build by the Drankorians to facilitate trade from the south and connect to the great Drankorian road stretching south to [[Sembara]]. Historically and in the present day a major market center, with shops, artisans, and lots of commerce. 
 
-[[Southbridge]]: south side of the [[Volta]], upriver (west) from Battery, the area south of the Tollen Bridge. Now the center of dyeing trade, and home to most of the tattoo parlors (magical or otherwise) in the city. Originally settled during the Drankorian era, and thus one of the oldest parts of the city, but retains little of its ancient character now. 
+[[Southbridge]]: south side of the [[Volta]], upriver (west) from [[Battery]], the area south of the Tollen Bridge. Now the center of dyeing trade, and home to most of the tattoo parlors (magical or otherwise) in the city. Originally settled during the Drankorian era, and thus one of the oldest parts of the city, but retains little of its ancient character now. 
 
-[[Magus Street]]: Often just called Magus. East of the old city ([[Fiskurth]], [[Skepwalk]], Aesganstrad), away from the river. In Drankorian times, home to small library and university outpost, which grew over time. Technically older than the University of [[Chardon]], although it was abandoned for a number of years after the fall of the [[Drankorian Empire]], and reestablished as Tollen returned to prosperity in the early days of [[Sembara]]. 
+[[Magus Street]]: Often just called Magus. East of the old city ([[Fiskurth]], [[Skepwalk]], [[Aesganstrad]]), away from the river. In Drankorian times, home to small library and university outpost, which grew over time. Technically older than the University of [[Chardon]], although it was abandoned for a number of years after the fall of the [[Drankorian Empire]], and reestablished as Tollen returned to prosperity in the early days of [[Sembara]]. 
 
-[[Nordgate]]: North of Aesganstrad and east of [[Bridgeward]], around the original north gate of Tollen. Now one of the major dwarven districts in the city. 
+[[Nordgate]]: North of [[Aesganstrad]] and east of [[Bridgeward]], around the original north gate of Tollen. Now one of the major dwarven districts in the city. 
 
 
 [[Godshome]]: West of [[Nordgate]], along Temple Street where many different houses of worship to different gods are found. Grew around (some kind of religious complex pre-existing outside the walls in the Drankorian days, perhaps).
