@@ -8,7 +8,6 @@ dm_notes: none
 
 %% 
 status -> set check/mike for review; I believe that all canonical events are captured here; there is not a ton of tollish history invented outside the basic structuring of the city. i think status can be removed unless there is something that is unclear. 
-i set the status of tollen to status/needswork/old to reflect some now-outdated bits; this note should take precedence if they conflict
 %%
 
 %% this note covers the history of the [[Tollen|Free City of Tollen]], occasionally touching on larger events but mostly focused specifically on the city %%

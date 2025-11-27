@@ -12,3 +12,5 @@ whereabouts:
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+A swampy tributary of the Volta that forms the boundary between [[Fenslane]] and [[Tideswell]] in [[Tollen]]. Though now channeled, it often floods it banks, especially at high tide. 
