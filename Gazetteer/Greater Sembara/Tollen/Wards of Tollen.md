@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/wip]
+tags: [status/needswork/old]
 ---
 
 ## Map:
@@ -50,5 +50,11 @@ tags: [status/needswork/wip]
 Create a simple table: Ward | Side of Volta | Era | Original Function | Modern Character.
 
  Make sure every time you mention wall expansions or ward enclosures, it lines up with that table.
+
+%%
+
+%% from ChatGPT on why Inner/Outer only to the west, not east
+
+In older Tollish usage, “Inner” and “Outer” are only applied to the western wards. The eastward districts were walled early and have long kept their medieval bounds, while the city’s more recent expansion has pushed the walls steadily west, cutting established neighborhoods in two. The parts brought inside were renamed “Brooklawn Inner,” “Fairgate Inner,” and “Riversgate Inner,” while the existing sprawl beyond the new walls retained their old names as “Outer” wards. To the east, where the Greywash marshes and the threat of attack from the river make building outside the walls precarious and often illegal, no such recognized “Outer” wards exist—only shacks, sheds, and nameless dockside fringe.
 
 %%

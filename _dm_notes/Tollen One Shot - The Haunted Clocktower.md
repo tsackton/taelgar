@@ -2,7 +2,7 @@
  
 Vague sweep over Tollen - mention a few of the districts.
  
-[[Battery]] with the fortifications, Skepwalk with shipbuilding, [[Aesganstrad]] with guilds and the clocktower, across the Tollen Bridge, the bustling Fiskurth with taverns and entertainment, then drifting past the markets of Bridgeward to the slums of Brooklawn among the smells of the tanneriers, to a quiet tavern, the Spotted Cow.
+[[Battery]] with the fortifications, Skepwalk with shipbuilding, [[Aesganstrad]] with guilds and the clocktower, across the Tollen Bridge, the bustling Fiskurth with taverns and entertainment, then drifting past the markets of Bridgeward to the slums of [[Brooklawn]] among the smells of the tanneriers, to a quiet tavern, the Spotted Cow.
  
 A large, round man, bald and dressed in fine robes, several rings on his fingers all decorated with gears and wheels, stands at the head of a table. Master Wymar.
  

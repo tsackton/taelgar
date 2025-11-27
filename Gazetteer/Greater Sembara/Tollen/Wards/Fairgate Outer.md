@@ -12,7 +12,7 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-One of the wards of [[Tollen]] that sits outside the walls of the city proper, that in many ways functions more like a large village than part of Tollen itself. The most prominent landmark is the Fairgrounds, a large open field that is set aside for the use of traveling halfling caravans, and often holds impromptu markets, celebrations, and events. 
+One of the wards of [[Tollen]] that sits outside the walls of the city proper, that in many ways functions more like a large village than part of Tollen itself. The most prominent landmark is the [[Fairgrounds (Tollen)|Fairgrounds]], a large open field that is set aside for the use of traveling halfling caravans, and often holds impromptu markets, celebrations, and events. 
 
 Many [[Halflings|halflings]] who settle in Tollen live in Fairgate Outer, and it has several notable halfling inns and taverns, including [[The Singing Fox]], known as a lively place to hear songs and stories, which is set on a small village square, with a well, across from a small temple of [[The Mother]]. 
 

@@ -34,7 +34,7 @@ District 9: poor -- slums, inside and outside the walls -- livestock and leather
  
 1. **Fairgate:** North of Guildgate, inland from the Volta. Halfling neighborhood, sometimes split into Fairgate Inner (inside walls) and Fairgate Outer (outside walls).
  
-1. **Brooklawn:** East of Fairgate, a swampy and wet area where the [[Little River]] was dammed and diverted to the east. Also often separated into Brooklawn Inner (inside the walls) and Brooklawn Outer (outside the walls). Fairly poor, slummy area. Brooklawn Outer is where much of the leatherworking and tanning happens, so smelly. Tanner's Gate separates Brooklawn Inner and Brooklawn Outer, and Brooklawn Inner is also referred to as Tannersgate.
+1. **[[Brooklawn]]:** East of Fairgate, a swampy and wet area where the [[Little River]] was dammed and diverted to the east. Also often separated into Brooklawn Inner (inside the walls) and Brooklawn Outer (outside the walls). Fairly poor, slummy area. Brooklawn Outer is where much of the leatherworking and tanning happens, so smelly. Tanner's Gate separates Brooklawn Inner and Brooklawn Outer, and Brooklawn Inner is also referred to as Tannersgate.
  
 1. **Bridgeward:** North of the Tollen Bridge, houses the largest market of the city.
  
