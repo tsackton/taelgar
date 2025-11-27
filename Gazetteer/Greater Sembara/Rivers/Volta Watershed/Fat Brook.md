@@ -13,6 +13,6 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A small river flowing south into the [[Volta]], through [[Tollen]]. Covered and built over. 
+A small river flowing south into the [[Volta]], through [[Tollen]], channeled and partially covered.
 
 %% Name is a corruption of Vattenbrok, the original Skaer name meaning tidal waters.  %%

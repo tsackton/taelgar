@@ -1,4 +1,12 @@
+---
+tags: [status/stub, background]
+---
 
-There are four small tributaries of the [[Volta]] that flow through Tollen: The [[Little River]], to the west, is the largest of the Tollen rivers; in the past few hundred years has been diverted into a canal between [[Brooklawn Inner]] and [[Riversgate Inner]]. [[Fat Brook]], covered in places, flows along the eastern edge of [[Guildgate]] and [[Gold Street]] before emptying into the Volta. The [[Carnbrook]], dividing [[Bridgeward]] from [[Aesganstrad]], is a small brook that vanishes into covered culverts in the city. The [[Muddy River (Tollen)|Muddy River]], a straightened drainage-channel running north through the reclaimed marshes of [[Fenslane]] and [[Tideswell]], is the only tributary to enter Tollen from the south, its reed-choked banks flooding the low wards whenever the Volta runs high. %% exact boundaries of rivers might change slightly once i draw a final map %%
+%%
+There are four small tributaries of the [[Volta]] that flow through Tollen: The [[Little River]], to the west, is the largest of the Tollen rivers; in the past few hundred years has been diverted into a canal between [[Brooklawn Inner]] and [[Riversgate Inner]]. [[Fat Brook]], covered in places, flows along the eastern edge of [[Guildgate]] and [[Gold Street]] before emptying into the Volta. The [[Carnbrook]], dividing [[Bridgeward]] from [[Aesganstrad]], is a small brook that vanishes into covered culverts in the city. The [[Muddy River (Tollen)|Muddy River]], a straightened drainage-channel running north through the reclaimed marshes of [[Fenslane]] and [[Tideswell]], is the only tributary to enter Tollen from the south, its reed-choked banks flooding the low wards whenever the Volta runs high.
+
+exact boundaries of rivers might change slightly once i draw a final map 
 
 East of the city is the [[Greywash]], a broad, silty, tidally-influenced tributary of the [[Volta]], prone to flooding. 
+
+%%

@@ -1,2 +1,12 @@
+---
+tags: [status/stub]
+---
 
-Old Gate stands where the original pre-Skaer mariner fortication stood, defending the harbors of [[Skepwalk]]. But of course has been rebuilt many times. Scholar's Gate and North Gate are part of the original Drankorian stone wall. The fourth Drankorian Gate was demolished when the city expanded after the fall of [[Drankorian Empire|Drankor]]. North Gate, Temple Gate, Guild Gate, and Fair Gate are part of the pre-Great-War boom time walls. Tanner's Gate and River Gate are the most recent additions after the wall expanded west once more.  %% note - maybe keep only North Gate as part of the original walls, with the old Drankorian scholar's gate replaced with a new gate after walls pushed east to accomodate university growth%%
+
+%% 
+
+Old Gate stands where the original pre-Skaer mariner fortication stood, defending the harbors of [[Skepwalk]]. But of course has been rebuilt many times. Scholar's Gate and North Gate are part of the original Drankorian stone wall. The fourth Drankorian Gate was demolished when the city expanded after the fall of [[Drankorian Empire|Drankor]]. North Gate, Temple Gate, Guild Gate, and Fair Gate are part of the pre-Great-War boom time walls. Tanner's Gate and River Gate are the most recent additions after the wall expanded west once more. 
+
+note - maybe keep only North Gate as part of the original walls, with the old Drankorian scholar's gate replaced with a new gate after walls pushed east to accomodate university growth
+
+%%

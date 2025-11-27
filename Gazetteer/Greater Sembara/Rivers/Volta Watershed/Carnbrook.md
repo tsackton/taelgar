@@ -13,4 +13,6 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% name from Skaer Kvernabok, Mill Brook - was outside original walls used as a mill stream %%
+A small brook that flows through [[Tollen]] in culverts. 
+
+%% The name comes from the Skaer Kvernabok (Mill Brook); during the original settlement this brook was the original walls and was used as a mill stream %%

@@ -1,3 +1,7 @@
+---
+tags: [status/needswork/wip]
+---
+
 ## Map:
  %% note rivers need to move a little %%
 ![[map-tollen-drawing.png]]
