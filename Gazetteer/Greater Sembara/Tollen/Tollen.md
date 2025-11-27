@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/old]
+tags: [place, status/check/mike]
 name: Free City of Tollen
 typeOf: city
 whereabouts: Western Green Sea
@@ -13,7 +13,16 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Tollen is a bustling port on the [[Volta]], a growing naval power, a cultural mixing ground, an a entrepôt where goods from across the [[Green Sea]] are traded. Founded thousands of years ago, it has navigated the politics of the region and maintained its independent for centuries. It is a haven for merchants, traders, intellectuals, mages, poets, writers, and scholars, known for the [[University of Tollen]] and its powerful guilds. Tollen is a cosmopolitan city, where [[humans]], [[halflings]], [[dwarves]], [[stoneborn]], [[lizardfolk]], [[Kenku|kenku]], [[Elves|elves]], and more can be found living together, and where temples to many gods can be found, most prominently the [[Mos Numena|Eight Divines]] and the Skaer ocean goddess [[Kaikkea]]. 
+%% 
+dm_notes -> there are still a fair number of possibly-relevant notes to expose from Dunmar Campaign, including some relevant to major NPCS ([[Caelynn]]) and some overall vibes that may not be fully caputred
+status/check/mike -> mostly curious if this note feels complete enough that you could run an arc in Tollen that feels like it would fit, or if there are more details that need to be added in places
+%%
+
+Tollen is a bustling port on the [[Volta]], a growing naval power, a cultural mixing ground, an a entrepôt where goods from across the [[Green Sea]] are traded. Founded thousands of years ago, it has navigated the politics of the region and maintained its independent for centuries. It is a haven for merchants, traders, intellectuals, mages, poets, writers, and scholars, known for the [[University of Tollen]] and its powerful guilds. 
+
+Tollen is a cosmopolitan city, where [[humans]], [[halflings]], [[dwarves]], [[stoneborn]], [[lizardfolk]], [[Kenku|kenku]], [[Elves|elves]], and more can be found living together, and where temples to many gods can be found, most prominently the [[Mos Numena|Eight Divines]] and the Skaer ocean goddess [[Kaikkea]]. 
+
+Tollen is also a city of guilds: the various trade associations, craft guilds, and producer's compacts are the center of economic and political power in the city. Particularly notable guilds include the [[Dyer's Guild]], controlling the magical tattoo trade, and the mysterious [[Ancient and Honorable Guild of Philosophers]], but many other guilds exist in the city. 
 
 ## Geography and Hydrology
 _See more: [[Hydrology of Tollen]]_
@@ -43,11 +52,13 @@ More recently, as Tollen's prominence has grown, the marshy land on the south ba
 
 Only one bridge spans the [[Volta]]: the [[Tollen Bridge]], originally constructed by the [[Drankorian Empire]]. This broad stone span of many arches is a major commercial hub, lined with shops, houses, and activity, and also a defensive structure, with gatehouses at either end. Tall-masted oceanic ships cannot pass under the bridge. 
 
-While the [[Walls of Tollen|walls of Tollen]] have expanded many times during its history, their are eight gates in the current walls, from east to west: Old Gate, Scholar's Gate, North Gate, Temple Gate, Guild Gate, Fair Gate, Tanner's Gate, and River Gate. 
+While the [[Walls of Tollen|walls of Tollen]] have expanded many times during its history, their are eight gates in the current walls, from east to west: Old Gate, Scholar's Gate, North Gate, Temple Gate, Guild Gate, [[Fair Gate]], [[Tanner's Gate (Tollen)|Tanner's Gate]], and River Gate. 
 
 ### Landmarks
 
-Tollen has many notable landmarks. The most famous is the [[Tollen Bridge]], a vast span across the wide [[Volta]] that dates to the days of the [[Drankorian Empire]], now lined with shops. There are also many temples, particularly the Temple of [[The Wanderer]], with its massive spire, the Temple of the [[The Sibyl|Sibyl]], with its colorful dome, and the Skaer [[Temple of Kaikkea]], one of the oldest buildings in Tollen. 
+Tollen has many notable landmarks. The most famous is the [[Tollen Bridge]], a vast span across the wide [[Volta]] that dates to the days of the [[Drankorian Empire]], now lined with shops. There are also many temples, particularly the [[Temple of The Wanderer (Tollen)|Temple of the Wanderer]], with its massive spire, the [[Temple of the Sibyl (Tollen)|Temple of the Sibyl]], with its colorful dome, and the Skaer [[Temple of Kaikkea]], one of the oldest buildings in Tollen. 
+
+%% have images of many of these in DM Notes %%
 
 The guildhalls of Tollen are also notable, with several richer guilds constructing substantial palaces in the [[Gold Street]] and [[Guildgate]] districts, which are noted for their impressive architecture. 
 
@@ -70,130 +81,57 @@ dv.table(["Place", "Type Of"],
 
 %%^End%%
 
-
-
---- 
-
-# Old
-
 ## Governance and Laws
 
-Tollen is, by long custom, an open city. No toll is levied merely for stepping through its gates; the great arches are unbarred from first bell until dusk, and strangers come and go as they please. The city grows rich not by taxing feet, but by taxing cargo: every barrel and bale, every wagon and barge, pays its due at the customs houses. Licenses to sell in the markets, to practice a craft, or to bear the seal of a guild bring in more coin still.
+By long custom, Tollen is an open city. No tolls are levied for entering the city or crossing the Tollen Bridge, the gates are unbarred from first light until dusk, and strangers come and go as they please. Goods for sale, however, are heavily taxed: every barrel and bale, every wagon and barge, must pay at the customs houses outside the gates and at the docks. 
 
-On paper, foreigners are forbidden to go “armed in the Tollish peace.” The city laws bar strangers from wearing armor or carrying war-blades larger than a dagger within the walls. In practice, the gate-guards turn a blind eye to single swords and the odd mail shirt, so long as no one marches in file or clanks about in full harness. The rule is enforced when it must be—against gangs, bravos, and rioters—but rarely against quiet travelers, and almost never against the Elder races, whom Tollenders do not truly fear.
+%% Likely halflings and some guilds should have some dispensation here, but if duties are high and halflings don't pay them it is hard to see how any non-halfling traders could survive, so this needs thought. %%
 
-Tollen is a republic, for certain values of the word. Power rests in the hands of the guilds, whose masters send men and women to the Great Council. From their number a smaller Inner Council is chosen to rule from day to day, and every few years the guilds elect a First Councillor to speak for the city abroad. In law, all citizens are equal before the council; in truth, gold, ships, and old names weigh heavily on the scales.
+City laws bar strangers from wearing armor or carrying war-blades larger than a dagger within the walls. In practice, the gate-guards will generally turn a blind eye to single swords and the odd mail shirt, so long as no one marches in file or clanks about in full harness. By custom, [[dwarves]], [[elves]], and [[stoneborn]] are treated as city residents and rarely questioned over armor or weapons, even in full plate, though city guards may ask pointed questions of armed groups of any species. 
 
----
+%% Unclear how halflings and lizardfolk are treated - maybe part of this? but they are not likely to go about in full armor. The point is an elf with a halberd or a dwarf in plate mail would not be questioned, though a human might %%
 
+Tollen is a republic, for certain values of the word. Power largely rests in the hands of the guilds, who send men and women to the Great Council. 
 
-Tollen is an open city: there are no tolls to enter, and the gates are kept open from dawn until dusk. There are fees, tolls, and tariffs on goods crossing through Tollen, market sellers, and considerable income is made via licensure of guilds and other professions and crafts. But from an adventurer's perspective, there is little to stop someone from wandering in. 
+%% This is a brief sketch. Probably there is more complicated politics but nothing has been developed so far. The Great Council may have non-guild seats; there may be a Small Council or First Councillor or both chosen from the Great Council to wield executive power on a day to day basis; the exact allocation of seats on the Great Council is unclear. The only canonical bit is (a) there is a Great Council, and (b) most of the seats are allocated to guilds, and guilds are the basis of political power in Tollen. %%
 
-Formally speaking, "foreigners", are prohibited from carrying blades larger than a dagger, and prohibited armor, but in practice this is rarely or never enforced as long as the rule is not flaunted, and especially it is unlikely to be enforced against members of the Elder races, who are perceived to be no threat to the city. The city gates are guarded, but not tightly.
+Tollen is the dominant maritime power of the [[Western Gulf]], with significant fishing, merchant, and naval fleets. The Tollender navy controls the [[Straits of Cymea]], patrols the [[Western Gulf]], keeping it free of pirates, and maintains naval fortifications in the islands in the [[~Gulf of Tollen~]]. 
 
-The city is technically a republic, with government by a council elected from the various guilds.
+%% How the navy relates to the guilds is TBD %%
+
+In recent years, Tollen has extended its reach, settling colonies and establishing political control over large swaths of [[Western Cymea]].
+
+%% Exactly how this plays out politically is TBD; the extent to which Tollen has historically exerted control over the near hinterlands is also TBD, though canonically it has not extended control across the Western Gulf until recently. Whether it only has colonies in western Cymea, or also controls parts of Vostok, is TBD, awaiting further development of Vostok. %%
+
+## Economy and Trade
+
+The economy of Tollen is powered by trade. Tollenders produce [[Tollen Dyes|dyes]], cloth, and fine clothes that are widely sought across the [[Green Sea]], and are also known for shipbuilding, fishing, [[whaling]], and the fur trade. Tollen is also famous as a center for the production of [[Tollen Magical Tattoo|magical inks and tattoos]]. 
+
+Tollen is a major entrepôt on the Green Sea: its merchant fleets travel widely, bringing exotic goods back west. While many of these are used as raw ingredients for dyes (both mundane and magical), a large portion are exported south to the realms of the [[Greater Sembara]] region. and for trade. 
 
 ## History
 _See more: [[History of Tollen]]_
 
-Tollenders are deeply proud of their long history, and many will claim that Tollen is the oldest continually occupied [[Humans|human]] city in the world. Whether true or not is hard to know, but regardless Tollen's history stretches deep into the past.
-### Founding
+Tollen was settled in ancient days on the north bank of the Volta, pre-dating even the [[Downfall Wars]] and the founding of the ruined city of [[Drankor]]. A cosmopolitan port from its earliest days, it was a place where elves, lizardfolk, halfling traders, and several human cultures met and mingled. Under the Skaer thalassocracy in the years after the [[The Downfall|Downfall]], it grew into a key harbor on the Western Green Sea, and the oldest wards—Fiskurth, Skepwalk, Aesganstrad—mostly date to this era. 
 
-Tollen was originally founded on the north bank of the [[Volta]] river by the first mariner migrants from [[Hkar]], before [[The Downfall]], in the year 3902 by the Dwarven reckoning. Although the western edge of the [[Green Sea]], and the [[Western Gulf]], is originally something of a frontier backwater, over the next 100 years Tollen becomes a center of commerce and trade, a place where the mariner culture, the northern culture of [[Highlands]], and the non-[[Humans]] ([[Lizardfolk]] and [[Halflings]], mostly) of the [[Western Green Sea]] mingle. Even in this early age, Tollen was a religiously open and cosmopolitan place, and the worship of [[Kaikkea]], the ocean goddess of the early mariners and now the Skaer people, coexisted with the developing Kestavan tradition.
+Tollen’s first great turning point came with the Treaty of Marhavn in DR 402, when Skaer power yielded to the Drankorian Empire: the Volta became the imperial border, Tollen gained stone walls and the Tollen Bridge, and the city slid into de facto status as a Drankorian protectorate, though it was never formally governed by the Empire. 
 
-### Downfall and Rebirth
+The Fall of Drankor and the First Plague in DR 1059 left Tollen suddenly independent. Spared the worst of the fallout from the collapse of the [[Drankorian Empire]], Tollen grew over the following centuries into a guild-ruled free city, its walls creeping outward in rings while trade made its merchant houses rich. 
 
-In 4050s, [[The Downfall]] Wars begin, and Tollen is cut off from the [[Eastern Green Sea]], as long voyages become too dangerous. The ocean itself turns violent, as storms wrack the seas and the great swamps to the south start to dry. By 4122, when [[The Downfall]] Wars have ended, Tollen is virtually abandoned, and the land that will become [[Sembara]] depopulated, settled by scattered villages of farmers, with [[Embry]] and a few other river towns among the only significant population settlements.
-
-By the 4200s, the Skaer have established themselves as the dominant mariner culture in the [[Western Green Sea]], and resettle and rebuild Tollen. Over the next 300 years, the Skaer grow stronger, spreading along the coast as far south as the mouth of the [[Semb]], raiding upriver for timber and impressed sailors to row their great ships, and seeking converts for their religion. Tollen develops as a major trade center for the emerging Skaer empire, and begins to grow again.
-
-### Drankorian Influence
-
-In 4491, the Drankorians reach the [[Mostreve Hills]], and over the next 50 years or so the Drankorians assimilate the inland people of [[Sembara]] and push the Skaer out, bringing with them the [[Mos Numena]] and the traditions of their vast southern empire. 
-
-In 4535, the Drankorians and the Skaer sign a peace treaty, the [[Treaty of Marhavn]], establishing the [[Volta]] as the frontier of the [[Drankorian Empire]]. Tollen, on the north side of the [[Volta]], remains technically outside the Drankorian territorial claim. However, the Skaer are forbidden from bringing ships up the [[Volta]], and Tollen falls outside their sway and comes under the influence of [[Drankorian Empire|Drankor]]. While technically Tollen takes the name of the Free City of Tollen during this time, the [[Drankorian Empire]] controls its foreign policy as a protectorate.
-
-By the 4600s, during the Long Peace, Tollen begins to assert more autonomy. By now it has become a mixing place of Drankorian, Skaer, and Highlander culture, with diverse religious practices and where many languages can be heard. During this era the first merchant houses are established, becoming rich off the trade of dyed cloth south to [[Drankorian Empire|Drankor]], and the development of magical tattoos, especially those that could help sailors control the wind and sea.
-
-In the 4800s, as Drankorian expansion to the west begins in earnest and the might of the empire is focused to the east, the Tollen merchant houses have de facto control over Tollen, and Tollen has become a major city and one of the central mercantile powers of the [[Western Green Sea]]. It is during this era that the [[University of Tollen]] is founded.
-
-### The Fall of [[Drankorian Empire|Drankor]] and the Growth of [[Sembara]]
-
-When the Plague strikes, while Tollen is spared the worst of the chaos that envelopes the south, but plenty of chaos remains, and various wars and conflicts spiral out of control. While the university survives, and the city itself, most of its wealth is lost as trade is disrupted, and Tollen falls into a dark age. Little is recorded from the time between the Plague in 5192, and the late 5300s, when the Sembaran kings begin to grow in power.
-
-As [[Sembara]] expands in the south, Tollen recovers, and over the 5400s and 5500s Tollen experiences a renaissance of sorts, based on the growing wool and linen trade from the Sembaran heartlands. The lost art of magical tattoos are rediscovered and most of the merchant houses of Tollen today are established during this time period.
-
-In the 5600s, war comes to the [[Green Sea]], first the battles against the ancient white dragon Vimfrost, and then the [[Great War]] itself. Tollen, however, survives intact, and if anything grows in power and influence, as many of the Sembaran kings in the years after the [[Great War]] have ties by blood or marriage to the great houses of Tollen.
-
-Now, in 5881, Tollen commands a significant navy and is the undisputed master of the Western Gulf, controlling the [[Straits of Cymea]] and asserting influence over much of western [[Cymea]].
+The city weathered the [[Great War]] intact ever being sacked, and in the last century has it stepped onto the wider stage as a naval power in its own right. With Cymea’s decline, Tollish fleets now dominate the Western Gulf and the Straits of Cymea, and Tollish free ports in Western Cymea function as colonies. Now, Tollen is both an ancient, stubbornly independent river-city and a young, hungry maritime republic, looking ever further from its old Skaer quays toward the open sea.
 
 
+%%^Campaign:none%%
+## DM Notes
 
-## Guilds
+Tollen should feel a little like a mix of Renaissance / early modern London and medieval Venice. It is a major port, with a semi-democratic form of government, guilds as the primary base of political power, and a growing and ambitious navy. 
 
-Tollen is a city of guilds: the various trade associations, craft guilds, and producer's compacts are the center of power in the city. Particularly notable guilds include:
-- [[Dyer's Guild]]
-- [[Ancient and Honorable Guild of Philosophers]]
+Tollen is an old city. It is a place where people still talk, at least in certain contexts (e.g. certain guilds) about the ancient days (meaning pre-Downfall). The Philosopher's Guild likely legitimately traces its origin to "ancient days" (though tread carefully with canonical invention around the Philosopher's Guild; it is best it remain very mysterious); other guilds may claim an ancient heritage (meaning either Drankorian or pre-Downfall) and in some cases may even be correct. 
 
-## Economy and Trade
+Tollen is also deeply independent. While it was a Skaer port, and then deeply influenced by Drankor, and then connected to Sembaran politics, it has never been central to anyone's empire, and has always retained a cosmopolitan identity. This is likely a point of pride for many Tollenders.
 
-Tollen is the master of the [[Western Gulf]], with significant fishing, merchant, and naval fleets. The Tollender navy controls the islands in the gulf of Tollen, as well as the Straits of [[Cymea]], and patrols the [[Western Gulf]], keeping it free of pirates. 
+Tollen is unusual in Taelgar in being a city with many religious traditions. Only Mos Numena and the Skaer worship of [[Kaikkea]] have been introduced in play, but there is space for kestavan worship and perhaps other stranger things. Tollen is a good place for a strange temple to a forgotten god to still exist, for example. 
 
-The Tollen economy is powered by trade. Tollenders produce [[Tollen Dyes|dyes]]. cloth, and fine clothes that are widely sought across the [[Green Sea]], and are also known for shipbuilding, fishing, [[Whaling]], and the fur trade. Tollender merchant fleets travel widely, bringing exotic goods back west, both as the raw ingredients for dyes (both mundane and magical) and for trade. Tollen is also a center for the production of [[Tollen Magical Tattoo|magical inks and tattoos]].
+One possibility is that there is some kind of magical or extraplanar reaason why it is so religiously open. Perhaps it has a connection to outer planes, or it was defended during the Downfall Wars by an army of small gods and something about that sacrifice magnifies the divine essence. Or something else. 
 
-%%NOTES
-1. Need to add a few more weird / magical details. For example, from an old email:
-
-* I like the idea of Tollen being a place where people still talk, at least in certain contexts or certain guilds or schools within the university, about the ancient days, meaning the early 4000s. Why not have a place like London or Rome but where some philosopher's guild founded in Roman Londonium still survives? That's about the same timeframe. It seems like it would be one of the few places where that kind of thing really fits, and a rich source of interesting stuff. Of course half the 'we were founded in the dawn days of the city' things would really have been founded at various other times with ancient backstories, but some of them are probably real.
-
-* I like the idea of Tollen always being on the 'edge' in the points where it wasn't powerful, and never being a major part of someone else's empire. That isn't to say it shouldn't have various ancient connections, but that it was never itself Sembaran, or Drankorian, or Skagen, at least not in an important sense.
-
-* Is there a place for some kind of magical / extraplanar reason for why it is so religiously open? A connection to outer planes, or maybe it was defended during [[The Downfall]] Wars by an army of small gods, and something about that sacrifice magnifies the divine essence. Or something.
-
-A few other times in history that you've outlined that seem fraught with possibility:
-
-* The Drankorian peace treaty. My history below centers Tollen as the architects of the peace treaty, and maybe there are reasons why. A storm giant foretold [[The Downfall]] of [[Drankorian Empire|Drankor]] if they expanded past the Voltra, and Tollen had evidence? Some kind of divine intervention, the divinities of Mos Numera insisted Tollen remain free? Maybe there is something special about the place that makes all the various gods of Taelgar keen to ensure it is never fully controlled by a single set of gods. 
-
-* Playing on the powerful-religion idea, maybe there are a set of worshippers of the old OceanGod floating around Tollen. Or various void-mind gods. 
-
-Here's an idea for an alternative timeline that keeps Tollen independent the whole time... not sure if it fits with your vision, I won't be offended if you toss it :)
-
-What if the earliest settlers of Tollen were explicitly the misfits and dissatisfied with the marnier culture (not sure what it is like exactly, but I imagine by the 3900s the OceanGod was dominant in a way that would allow some questioners or people not wedded to the mariner way of life to want to strike out). I'm thinking a bit of a Roger Williams or some of the other 'free thinker' early New England settlers vibe. 
-
-From that earliest point, Tollen gains a reputation as a free-wheeling place of stories and misfits and those who are looking for a new life. And with them comes the curious from other cultures, and it turns out [[Highlands]] and the mariners have a lot to sell each other, so then comes the merchants.
-
-In the 4050s, [[The Downfall]] War certainly unsettles things, but that doesn't mean Tollen has to be abandoned. The merchants flee, and the city shrinks dramatically, but it is not abandoned entirely.  
-
-By the 4200s, the Skaer re-discover Tollen, and although it largely becomes a Skagen city, some ancient institutions of storytellers, knowledge seekers, and free-thinkers maintain their place in the city (need some kind of event to make this work out), and Tollen remains a place where the Skagen religion does not hold sway entirely.
-
-Throughout the 300 years of the Skagen dominion Tollen grows as a marnier culture, and grows as a center of commerce. Many supposedly ancient institutions survive in the city however, although who really knows how many are truly ancient, as opposed to institutions that invented ancient roots to gain prestige or maintain independence from the Skagen protectorate.
-
-By 4547, the Drankors are on the doorstep and the Skaer are at war with them. It is Tollen that brokers the peace treaty between the Drankorians and the Skaer, earning an uneasy freedom from both the Drankorians, who refrain from formally conqueoring the city in exchange for de facto control of its foreign policy, and from the Skaer, who are forbidden from sailing up the Voltra.
-
-I do like the idea of Tollen as central to the treaty that stopped Drankorian expansion, and it makes sense for this to have some kind of magical "great powers" connection -- either divine, or perhaps something connected to dragons or [[Giants]] or elementals (fey are taken by [[Tyrwingha]]). Will think a bit more on this, again might be something best to see what happens during a game.
-
-Notes from old GDrive doc, could be old/wrong/etc, here to incorporate/check/delete
-#### Tollen
-
-- Masters of the Western Gulf. Significant fishing and merchant fleet. Strongest navy in the Western Gulf and major fishing industry (whales? Cod? Not sure what the key fish would be. Also no lenten red meat rules to drive a cash crop fish industry, so maybe not quite as developed as say the Basque medieval fisherman who got rich on cod)
-    
-- Controls a narrow strip of land on the north bank of the Volta as well as the Tollen city proper, and the coastal islands in the greater Tollen harbor.
-    
-- Controls the Straits of Cymea, main seafarers in the Western Gulf
-    
-- Manufacturing esp of clothes key. Silk (or cotton or a made up fiber) from Tyrwingha and wool from Sembara comes to the Tollen + northlands region to turn into fine clothes
-    
-- Big dye industry in the hinterlands
-    
-- Influential in the northlands more than anywhere else and somewhat culturally connected to that region (although with a clear, distinct identity)
-    
-- Some significant far eastern trade, although that in general is probably more halfling/Cymean; Tollen is however a major market for Cymea traders, who exchange goods from around the Green Sea for Sembaran/Tollen cloth/silk/clothes.
-    
-- University in Tollen is major center of magical learning in the Sembara/Vostok region, only some parts of Cymea could compete in western Green Sea area. Dye industry + magic makes Tollen a center of development of magical tattoos.
-    
-- In many ways more cosmopolitan than Sembara; significant local halfling and dwarven communities, and stoneborn are not unheard of. Elves still super-rare, and lizardfolk if anything less common than in Sembara.
-
-
-
-
-%%
+%%^End%%
