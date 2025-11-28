@@ -7,7 +7,7 @@ name: The Fire and Stone
 typeOf: inn
 typeOfAlias: tavern
 ancestry: dwarven
-whereabouts: Magnus Street
+whereabouts: Magus Street
 dm_owner: tim
 dm_notes: color
 ---

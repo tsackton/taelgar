@@ -12,9 +12,4 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Fair Gate is one of the principal gates in the walls of [[Tollen]], opening toward the halfling‑favored district of [[Fairgate Outer]] and the fields and gardens beyond. 
-
-%%
-DM notes
-- See the district notes in [[Tollen]] (Fairgate entry) for neighborhood context; use gate queues, inspections, or toll disputes as scene frames.
-%%
+Fair Gate is one of the principal gates in the [[walls of Tollen]], located between [[Fairgate Outer]] and [[Fairgate Inner]]. 

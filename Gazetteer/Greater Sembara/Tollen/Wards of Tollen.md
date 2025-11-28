@@ -2,13 +2,17 @@
 tags: [status/needswork/old]
 ---
 
-## Map:
- %% note rivers need to move a little %%
-![[map-tollen-drawing.png]]
+
+[[Fiskurth]]
+![[tollen-fiskurth.png]]
+
+
+[[Fairgate Outer]]
+![[fairgate-outer-v1.png]]
 
 ## Wards
 
-[[Skepwalk]]: North side of the [[Volta]], easternmost (oceanside) district. Excellent harbor area, where a curve in the river creates a wide, deep anchorage. Name derives from old Eastros word for docks; this is the westernmost ward on the north side of the river, and among the oldest docks and shipyards in the city. Now a major shipbuilding center.
+[[Skepwalk]]: North side of the [[Volta]], easternmost (oceanside) district. Excellent harbor area, where a curve in the river creates a wide, deep anchorage. Name derives from old Eastros word for docks; among the oldest docks in the city.
 
 [[Fiskurth]]: North side of the [[Volta]], northwest of [[Skepwalk]]. Name derives from old Eastros for fish, one of the oldest districts in the city, although little is preserved of that time. Many taverns, and a hub of activity for sailors. Largest fish market, and other scattered market streets, but somewhat "low class". 
 

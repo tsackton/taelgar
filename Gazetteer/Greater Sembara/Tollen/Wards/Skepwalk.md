@@ -12,4 +12,4 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-This ward dates to the original Skaer city. Now the major shipbuilding center and associated with the port of [[Tollen]]. 
+An ancient ward of Tollen, possibly the site of the original settlement in this area. It is home to the largeset deepwater harbors of the [[Port of Tollen]]. 

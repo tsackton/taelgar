@@ -7,9 +7,9 @@ whereabouts: Tollen
 dm_owner: none
 dm_notes: none
 ---
-# Riversgate Inner
+# Riversgate Outer
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Riversgate Inner is the strip of quays, warehouses, and customs houses inside the western walls, where Volta barges tie up and cargo is funneled into the city.
+Riversgate Outer sprawls beyond the western gate along the river and road, a rough district of log‑yards, sawpits, and cheap lodgings that serves as the main center of the timber trade coming down the Volta.
