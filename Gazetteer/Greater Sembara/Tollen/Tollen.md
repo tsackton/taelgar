@@ -32,7 +32,8 @@ Tollen sits astride the [[Volta]] river, though most development is on the north
 %% the marshes around the Greywash are a plausible place for a lizardfolk community if desired - this never really came up when the Dunmar campaign was in Tollen but might be nice to add for various reasons, though perhaps this is -- unusually -- a relatively new lizardfolk settlement (say, post Great War, or maybe just post plague), instead of a remnant of the ancient swamps %% 
 
 ## City Layout
-_See more: [[Port of Tollen]]_
+_See more: [[Port of Tollen]]_, _[[Map of Tollen]]_
+
 %% design doc from OneNote here: [[Tollen - Design Note]] %%
 
 Tollen sprawls astride the Volta, although most settlement is on the north bank. The oldest parts of the city are the eastern wards, which tend to have small, cramped streets and are home to the docks and the shipbuilding industry. The central part of the city, especially around the [[Tollen Bridge]], and extending west, is a major commercial hub, with markets, guildhalls, and broad boulevards. The western part of the city, clustered around the Little and Muddy rivers, is home to tanners, leatherworkers, dye-makers, and other industry; most of the recent expansion has been in this direction, including many sprawling slums outside the walls. 
@@ -52,7 +53,7 @@ More recently, as Tollen's prominence has grown, the marshy land on the south ba
 
 Only one bridge spans the [[Volta]]: the [[Tollen Bridge]], originally constructed by the [[Drankorian Empire]]. This broad stone span of many arches is a major commercial hub, lined with shops, houses, and activity, and also a defensive structure, with gatehouses at either end. Tall-masted oceanic ships cannot pass under the bridge. 
 
-While the [[Walls of Tollen|walls of Tollen]] have expanded many times during its history, there are eight gates in the current walls, from east to west: Old Gate, Scholar's Gate, North Gate, Temple Gate, Guild Gate, [[Fair Gate]], [[Tanner's Gate (Tollen)|Tanner's Gate]], and River Gate. 
+While the [[Walls of Tollen|walls of Tollen]] have expanded many times during its history, there are ten gates in the current walls, from east to west: Old Gate, Fort Gate, Scholar's Gate, North Gate, Temple Gate, Guild Gate, [[Fair Gate]], [[Tanner's Gate (Tollen)|Tanner's Gate]], River Gate, and East Gate. 
 
 ### Landmarks
 

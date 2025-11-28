@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 typeOf: ward
@@ -13,6 +13,7 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+Magus Street is the 
 
 
 %% 
