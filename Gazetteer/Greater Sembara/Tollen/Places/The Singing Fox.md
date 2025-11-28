@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/image]
+tags: [place]
 displayDefaults: {defArt: '', linkText: "at"}
 campaignInfo: []
 name: The Singing Fox
 typeOf: inn
 ancestry: halfling
 whereabouts: Fairgate Outer
-dm_owner: none
+dm_owner: tim
 dm_notes: color
 ---
 # The Singing Fox

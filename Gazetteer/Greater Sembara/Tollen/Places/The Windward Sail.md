@@ -7,7 +7,7 @@ name: The Windward Sail
 typeOf: inn
 ancestry: halfling
 whereabouts: Fiskurth
-dm_owner: none
+dm_owner: tim
 dm_notes: color
 ---
 # The Windward Sail
