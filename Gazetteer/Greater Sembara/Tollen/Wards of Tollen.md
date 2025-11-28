@@ -1,64 +1,48 @@
 ---
+headerVersion: 2023.11.25
 tags: [status/needswork/old]
 ---
+# Wards of Tollen
 
+(1) **[[Skepwalk]]** is the busy sea-facing waterfront of Tollen, lined with deep quays, cranes, and warehouses where tall-masted ships load and unload cargo from across the Green Sea.
 
-[[Fiskurth]]
+(2) **[[Fiskurth]]** is the fishing ward, a cramped stretch of low docks, fish-stalls, and sailor’s inns where the inshore fleets bring their catch ashore at dawn.
+
 ![[tollen-fiskurth.png]]
 
+(3) **[[Aesganstrad]]** is the ancient core of Tollen, a tangle of narrow streets, leaning houses, and strange old statues to forgotten heroes. 
+
+(4) **[[Magus Street]]** is the university district, crowded with bookshops, lecture halls, boarding houses, and student taverns spilling arguments and minor magic into the lanes.
+
+![[magnus-street.png]]
+
+(5) **[[Nordgate]]** is the dwarven-leaning craft ward around the old north gate, full of stone-fronted workshops and forges.
+
+(6) **[[Bridgeward]]** is the market front of the [[Tollen Bridge]], where carts, stalls, and shops cluster around market squares. 
+
+(7) **[[Southbridge]]** is the south-bank bridge ward, where exclusive magical tattoo parlors coexist with small dyers, cheap lodgings, and street artists.
+
+(8) **[[Godshome]]** is the temple district, its streets winding between crowded shrines, great houses of the Eight Divines, the [[Temple of Kaikkea]], and smaller, stranger faiths.
+
+![[temple-of-wanderer-v2.png]]
+(9) **[[Guildgate]]** is the hill of guildhalls and merchant houses, where rich guilds keep their meeting rooms, gardens, and courts and send delegates to the Great Council.
+
+(10) **[[Gold Street]]** is the main commercial avenue of Tollen, a district of broad streets, counting-houses, and moneylenders where large deals are struck and recorded.
+
+(11) **[[Fairgate]]**, split into [[Fairgate Inner]] and [[Fairgate Outer]] is the western gate district, a mix of markets, caravan inns, and halfling homes linked to the [[Fairgrounds (Tollen)|Fairgrounds]] and the farms of [[Fairgate Outer]].
 
 [[Fairgate Outer]]
 ![[fairgate-outer-v1.png]]
 
-## Wards
 
-[[Skepwalk]]: North side of the [[Volta]], easternmost (oceanside) district. Excellent harbor area, where a curve in the river creates a wide, deep anchorage. Name derives from old Eastros word for docks; among the oldest docks in the city.
+(12) **[[Haurhill]]** is the rise above the [[Little River]], built around the remains of an old Drankorian fort.
 
-[[Fiskurth]]: North side of the [[Volta]], northwest of [[Skepwalk]]. Name derives from old Eastros for fish, one of the oldest districts in the city, although little is preserved of that time. Many taverns, and a hub of activity for sailors. Largest fish market, and other scattered market streets, but somewhat "low class". 
+(13) **[[Battery]]** is the fortified south-bank ward at the harbor mouth, home to naval yards, shipbuilding slips, and large fish-processing sheds.
 
-[[Aesganstrad]]: North and west along the river from [[Fiskurth]]; with [[Fiskurth]] and [[Skepwalk]] forms the ancient core of the pre-Drankorian city. Name derives from Aesgan, a semi-mythical Skaegish hero who is said to have protected/resettled Tollen during the chaos after [[The Downfall]]. Best preserved of the ancient districts.
+(14) **[[Brooklawn]]**, split into [[Brooklawn Inner]] and [[Brooklawn Outer]], is the tanners’ and dyers’ district along the Little River, packed with vats, canals, smokehouses, and workshops that turn hides and cloth into Tollish trade goods.
 
+(15) **[[Riversgate]]** is the upriver barge and timber ward, where rafts of logs, grain barges, and other river cargo tie up at low quays and feed the city’s warehouses.
 
-[[Bridgeward]]: West of [[Aesganstrad]], and north of the great Tollen Bridge, build by the Drankorians to facilitate trade from the south and connect to the great Drankorian road stretching south to [[Sembara]]. Historically and in the present day a major market center, with shops, artisans, and lots of commerce. 
+(16) **[[Fenslane]]** is a south-bank ward on reclaimed marsh, with plank-walked lanes, modest houses, and workshops for the dockworkers and families who live near the river.
 
-[[Southbridge]]: south side of the [[Volta]], upriver (west) from [[Battery]], the area south of the Tollen Bridge. Now the center of dyeing trade, and home to most of the tattoo parlors (magical or otherwise) in the city. Originally settled during the Drankorian era, and thus one of the oldest parts of the city, but retains little of its ancient character now. 
-
-[[Magus Street]]: Often just called Magus. East of the old city ([[Fiskurth]], [[Skepwalk]], [[Aesganstrad]]), away from the river. In Drankorian times, home to small library and university outpost, which grew over time. Technically older than the University of [[Chardon]], although it was abandoned for a number of years after the fall of the [[Drankorian Empire]], and reestablished as Tollen returned to prosperity in the early days of [[Sembara]]. 
-
-[[Nordgate]]: North of [[Aesganstrad]] and east of [[Bridgeward]], around the original north gate of Tollen. Now one of the major dwarven districts in the city. 
-
-
-[[Godshome]]: West of [[Nordgate]], along Temple Street where many different houses of worship to different gods are found. Grew around (some kind of religious complex pre-existing outside the walls in the Drankorian days, perhaps).
-
-[[Gold Street]]: West along the river from [[Bridgeward]]. Home to banks, and with [[Guildgate]] the heart of the growth boom experienced in pre-Great-War era. 
-
-[[Guildgate]]: North and inland from [[Gold Street]] and [[Bridgeward]], around the Guild Gate and home to many of the city's richest and most powerful merchant guilds and families. Dotted with extensive palaces of merchant houses.
-
-[[Fairgate]]: West of [[Guildgate]], inland from the [[Volta]]. [[Halflings|Halfling]] neighborhood, sometimes split into Fairgate Inner (inside walls) and Fairgate Outer (outside walls), as in the past hundred years or so the population has begun to spill out of the walls.
-
-[[Haurhill]]: rise of land, name means "hill hill" in Eastros and Westros. Height of land within Tollen and site of early fortifications (a Drankorian fort sat here, guarding the lumber yards at the confluence of the [[Little River]] and the [[Volta]]).
-
-
-[[Battery]]: south side of the [[Volta]], and on the easternmost (ocean) side of the city. Notable for the river fortifications that protect the main harbor; not densely populated, although small naval docks and barracks are here. Mostly dates to wars just before the [[Great War]], when Tollen was in alliance with [[Sembara]] against the dangers of the north. 
-
-[[Fenslane]]: south side of the [[Volta]], upriver (west) from [[Southbridge]], along the bend in the river. Former tidal marshland reclaimed and settled mostly by dyers, tanners, and other similar artisans expanding from [[Southbridge]]. Reasonably new.
-
-[[Tideswell]]: south side of the [[Volta]], upriver (west) from Fenslane. A marshy area that floods on the high tide, mix of poorer/slums and [[Lizardfolk]] communities.
-
-[[Brooklawn]]: West of Haurhill, a swampy and wet area where the [[Little River]] was dammed and diverted into a canal. Also often separated into Brooklawn Inner (inside the walls) and Brooklawn Outer (outside the walls). Fairly poor, slummy area. Brooklawn Outer is where much of the leatherworking and tanning happens, so smelly. Tanner's Gate separates Brooklawn Inner and Brooklawn Outer, and Brooklawn Inner is also referred to as Tannersgate.
-
-[[Riversgate]]: furthest west district, along the river. Also separated into Inner and Outer, with Riversgate Outer a center of timber trade coming down the [[Volta]].
-
-%% TO DO
-
-Create a simple table: Ward | Side of Volta | Era | Original Function | Modern Character.
-
- Make sure every time you mention wall expansions or ward enclosures, it lines up with that table.
-
-%%
-
-%% from ChatGPT on why Inner/Outer only to the west, not east
-
-In older Tollish usage, “Inner” and “Outer” are only applied to the western wards. The eastward districts were walled early and have long kept their medieval bounds, while the city’s more recent expansion has pushed the walls steadily west, cutting established neighborhoods in two. The parts brought inside were renamed “Brooklawn Inner,” “Fairgate Inner,” and “Riversgate Inner,” while the existing sprawl beyond the new walls retained their old names as “Outer” wards. To the east, where the Greywash marshes and the threat of attack from the river make building outside the walls precarious and often illegal, no such recognized “Outer” wards exist—only shacks, sheds, and nameless dockside fringe.
-
-%%
+(17) **[[Tideswell]]** is the outer south-bank waterfront, a poorer strip of shacks, stilt-houses, fish sheds, and small yards, prone to flooding at high tide.

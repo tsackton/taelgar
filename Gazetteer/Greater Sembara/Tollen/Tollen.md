@@ -162,4 +162,8 @@ Tollen's key resources are: cheap fuel from timber upriver; plenty of water. Clo
 
 This implies that some goods -- timber, raw hides, maybe some flax/linen -- come from the north, so maybe enter the city via Tanner's Gate or River Gate. 
 
+### Territory
+
+An open question is exactly to what extent Tollen controls its hinterlands. It must, to a certain extent? And of course more recently it presumably controls the entire [[~Gulf of Tollen~]] in addition to the immediate hinterlands. 
+
 %%^End%%

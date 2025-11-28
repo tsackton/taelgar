@@ -6,7 +6,8 @@ tags: [background]
 
 ![[Tollen Current.png]]
 
-Wards, numbered from 1 to 17:
+## Wards
+Numbered from 1 to 17:
 
 1: [[Skepwalk]]
 2: [[Fiskurth]]
@@ -26,7 +27,15 @@ Wards, numbered from 1 to 17:
 16: [[Fenslane]]
 17: [[Tideswell]]
 
-Gates, from east to west:
+*A note about "Inner" and "Outer" wards:*
+
+Riversgate, Fairgate, and Brooklawn are split into "Inner" (inside the walls) and "Outer" (outside the walls). Riversgate and Brooklawn were divided when the walls were expanded west; Fairgate Outer grew up around the [[Fairgrounds (Tollen)]] north of the city. The boundaries of Outer wards are approximate. 
+
+The northern wards (Guildgate, Godshome, Nordgate) and eastern wards (Magnus Street, Skepwalk) are not split into "Inner" and "Outer". There is little settlement beyond the eastern walls, because of the marshes. The best farmland in the Tollen area is along the banks of the Carnbrook, so north of the northern wards is mostly fields; the small villages in this direction have not been incorporated into the city. 
+
+## Gates
+_from east to west_
+
 Old Gate
 Fort Gate
 Scholar's Gate
@@ -38,11 +47,17 @@ Guild Gate
 River Gate
 East Gate
 
-Rivers, from east to west:
+## Rivers
+_from east to west_
+
 Greywash
 Carnbrook, entirely culverted inside the city
 Fat Brook, almost entirely culverted inside the city
 Muddy River, channeled and bridged in many places but not covered
 Little River, channeled and partially covered in some places
 
-Green areas are swampy, though much of this has been drained and reclaimed. Lighter brown areas are low rises or small hills, the most significant of which is in Haurhill, to the west. 
+## Terrain
+
+Green areas are swampy, though much of this has been drained and reclaimed. 
+
+Lighter brown areas are low rises or small hills, the most significant of which is in Haurhill, to the west. 
