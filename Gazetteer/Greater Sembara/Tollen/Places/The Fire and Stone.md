@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: ''}
-campaignInfo: []
 name: The Fire and Stone
 typeOf: inn
 typeOfAlias: tavern

@@ -11,8 +11,8 @@ dm_owner: tim
 dm_notes: important
 ---
 # The Temple of Kaikkea
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 An ancient building in [[Godshome]] in [[Tollen]], built by the original [[Skaer]] settlers of this region long ago. The temple remains a highly sacred place to the Skaer, and a priest always serves to make sure that [[Kaikkea]] can still be heard here. This is also the center of the small Skaer community in [[Tollen]].
