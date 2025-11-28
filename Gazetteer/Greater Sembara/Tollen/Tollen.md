@@ -32,7 +32,7 @@ Tollen sits astride the [[Volta]] river, though most development is on the north
 %% the marshes around the Greywash are a plausible place for a lizardfolk community if desired - this never really came up when the Dunmar campaign was in Tollen but might be nice to add for various reasons, though perhaps this is -- unusually -- a relatively new lizardfolk settlement (say, post Great War, or maybe just post plague), instead of a remnant of the ancient swamps %% 
 
 ## City Layout
-
+_See more: [[Port of Tollen]]_
 %% design doc from OneNote here: [[Tollen - Design Note]] %%
 
 Tollen sprawls astride the Volta, although most settlement is on the north bank. The oldest parts of the city are the eastern wards, which tend to have small, cramped streets and are home to the docks and the shipbuilding industry. The central part of the city, especially around the [[Tollen Bridge]], and extending west, is a major commercial hub, with markets, guildhalls, and broad boulevards. The western part of the city, clustered around the Little and Muddy rivers, is home to tanners, leatherworkers, dye-makers, and other industry; most of the recent expansion has been in this direction, including many sprawling slums outside the walls. 
@@ -126,6 +126,7 @@ The city weathered the [[Great War]] without ever being sacked, and in the last 
 %%^Campaign:none%%
 ## DM Notes
 
+### Basic Vibes
 Tollen should feel a little like a mix of Renaissance / early modern London and medieval Venice. It is a major port, with a semi-democratic form of government, guilds as the primary base of political power, and a growing and ambitious navy. 
 
 Tollen is an old city. It is a place where people still talk, at least in certain contexts (e.g. certain guilds) about the ancient days (meaning pre-Downfall). The Philosopher's Guild likely legitimately traces its origin to "ancient days" (though tread carefully with canonical invention around the Philosopher's Guild; it is best it remain very mysterious); other guilds may claim an ancient heritage (meaning either Drankorian or pre-Downfall) and in some cases may even be correct. 
@@ -135,5 +136,29 @@ Tollen is also deeply independent. While it was a Skaer port, and then deeply in
 Tollen is unusual in Taelgar in being a city with many religious traditions. Only Mos Numena and the Skaer worship of [[Kaikkea]] have been introduced in play, but there is space for kestavan worship and perhaps other stranger things. Tollen is a good place for a strange temple to a forgotten god to still exist, for example. 
 
 One possibility is that there is some kind of magical or extraplanar reaason why it is so religiously open. Perhaps it has a connection to outer planes, or it was defended during the Downfall Wars by an army of small gods and something about that sacrifice magnifies the divine essence. Or something else. 
+
+### Economic Logic
+
+Tollen is not primarily a producer city; it’s a finisher and redistributor.
+
+ It pulls in raw or semi-processed materials from:
+- the Volta hinterland (hides, timber, furs, flax, some wool),
+- Sembaran uplands (raw wool especially, plus grain, wine),
+- its own colonies and trading fleets (exotic dye-stuffs, magical reagents, rare woods, oils).
+
+ It turns those into high-value, high-prestige goods, especially:
+-  dyed cloth (Tollen red and friends),    
+- fine garments,
+- leather goods,
+- magical inks and tattoos,
+- ships and rigging.
+
+Basically Bruges / Ghent / Venice / London mashed together.
+
+Probably the biggest trade flow is raw wool from Sembara that is exported as finished cloth and fine clothes from Tollen, but others (timber -> ships; hides -> leather goods) as well. 
+
+Tollen's key resources are: cheap fuel from timber upriver; plenty of water. Cloth is particularly logical because raw wool ships well. 
+
+This implies that some goods -- timber, raw hides, maybe some flax/linen -- come from the north, so maybe enter the city via Tanner's Gate or River Gate. 
 
 %%^End%%
