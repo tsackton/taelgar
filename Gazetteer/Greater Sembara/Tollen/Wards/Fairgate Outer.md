@@ -19,5 +19,3 @@ Many [[Halflings|halflings]] who settle in Tollen live in Fairgate Outer, and it
 The area has substantial farmland, particularly on the fields to the west that gently slope down to the [[Little River]], the dividing line between Fairgate Outer and the tanneries of [[Brooklawn Outer]]. Small plots of barley, oats, root vegetables, and hardy greens cluster here, although the air changes sharply at the river, with the acrid smell of curing hides wafting over the fields when the wind is from the west. 
 
 The densest settlement is clustered around the walls, and particularly the [[Fair Gate]], which sees a significant traffic. 
-
-![[fairgate-outer-v1.png]]

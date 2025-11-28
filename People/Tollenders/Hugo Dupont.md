@@ -11,7 +11,7 @@ gender: male
 affiliations: [University of Tollen]
 whereabouts:
 - {type: home, location: Tollen}
-- {type: away, start: '1748-12-29', end: '1748-12-29', location: Magnus Street}
+- {type: away, start: '1748-12-29', end: '1748-12-29', location: Magus Street}
 dm_owner: none
 dm_notes: color
 ---

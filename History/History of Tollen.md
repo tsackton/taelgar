@@ -66,7 +66,7 @@ This period ends with the Treaty of Marhavn, which ends Skaer military dominance
 
 During the height of the Skaer empire, Tollen was a small city, surrounded by an embankment and a wooden wall, set on the north side of the [[Volta]]. It mainly functioned as a port for timber and other goods leaving the [[Volta]] watershed. Three modern wards have names that reflect a Skaer heritage:
 
-- [[Skepwalk]]: North side of the [[Volta]], easternmost (oceanside) district. Excellent harbor area, where a curve in the river creates a wide, deep anchorage. Name derives from old Eastros word for docks; this is the westernmost ward on the north side of the river, and among the oldest docks and shipyards in the city. 
+- [[Skepwalk]]: North side of the [[Volta]], easternmost (oceanside) district. Excellent harbor area, where a curve in the river creates a wide, deep anchorage. Name derives from old Eastros word for docks; among the oldest docks and shipyards in the city. 
 - [[Fiskurth]]: North side of the [[Volta]], northwest of [[Skepwalk]]. Name derives from old Eastros for fish, one of the oldest districts in the city, although little is preserved of that time. 
 - [[Aesganstrad]]: North and west along the river from [[Fiskurth]]; with [[Fiskurth]] and [[Skepwalk]] forms the ancient core of the pre-Drankorian city. Name derives from Aesgan, a semi-mythical Skaegish hero who is said to have protected/resettled Tollen during the chaos after [[The Downfall]]. Best preserved of the ancient districts. Who or what Aesgan was is not canonical, but their existence in some form, at least in myth, is canonical. E.g. Aesgan could have been an elf or a dragon and later became associated with the Skaer, but should have a real existence of some kind. 
 
