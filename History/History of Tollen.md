@@ -53,6 +53,7 @@ Most people believe that the oldest parts of Tollen -- [[Fiskurth]], [[Skepwalk]
 
 %%^Campaign:none%%
 ### DM Notes
+
 #### Basic Vibes
 
 The Skaer become a dominant maritime force in the pre-Drankorian western Green Sea (cf. [[History of the Skaer]]), and Tollen is a significant part of their empire, but almost no details are invented about this time. It is possible that Tollen is nearly completely destroyed early in this period, or during the Downfall Wars, and rebuilt by the Skaer, or it is possible that a significant settlement survives the Downfall. 
@@ -70,6 +71,8 @@ During the height of the Skaer empire, Tollen was a small city, surrounded by an
 - [[Aesganstrad]]: North and west along the river from [[Fiskurth]]; with [[Fiskurth]] and [[Skepwalk]] forms the ancient core of the pre-Drankorian city. Name derives from Aesgan, a semi-mythical Skaegish hero who is said to have protected/resettled Tollen during the chaos after [[The Downfall]]. Best preserved of the ancient districts. Who or what Aesgan was is not canonical, but their existence in some form, at least in myth, is canonical. E.g. Aesgan could have been an elf or a dragon and later became associated with the Skaer, but should have a real existence of some kind. 
 
 #### Context at the End of the Period
+
+![[Tollen Skaer Era.png]]
 
 After 402, Tollen increasingly comes under Drankorian influence, and is effectively a protectorate of Drankor. Although not administered by a Drankorian governor, Tollen retains no navy and Skaer warships are forbidden from the Volta, leaving Tollen reliant on Drankor for protection. 
 
@@ -112,6 +115,8 @@ Between DR 650 and DR 900, the first merchant houses are established, becoming r
 
 #### Context at the End of the Period
 
+![[Tollen Drankorian Era.png]]
+
 Tollen has become an important city, and is well positioned to grow in influence because (a) it is not governed by a Drankorian governor and thus less impacted by Apollyon's mind magic, and (b) it is quite distant from the core of the Empire where the most chaos is. However, it has not had a shipbuilding industry or navy during the entire Age of Drankor, so it is not well-defended. 
 
 %%^End%%
@@ -147,6 +152,8 @@ It is likely that most guilds and merchant houses date to this period, though so
 Walls are likely expanded once in the 1300s, once in the 1400s, once in the early 1500s prior to the Great War, and finally sometime in the 1600s, but these are not canonical. 
 
 #### Context at End of Period
+
+![[Tollen Great War Era.png]]
 
 The end of this period marks a shift from Tollen as a city-state to Tollen as a maritime power with growing "overseas" colonies in Western Cymea and possibly other places, such as the Vostok coast. 
 
