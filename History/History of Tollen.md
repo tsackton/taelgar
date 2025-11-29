@@ -1,14 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [timeline, status/check/mike]
+tags: [timeline]
 dm_owner: tim
 dm_notes: none
 ---
 # History of Tollen
-
-%% 
-status -> set check/mike for review; I believe that all canonical events are captured here; there is not a ton of tollish history invented outside the basic structuring of the city. i think status can be removed unless there is something that is unclear. 
-%%
 
 %% this note covers the history of the [[Tollen|Free City of Tollen]], occasionally touching on larger events but mostly focused specifically on the city %%
 
@@ -58,7 +54,7 @@ Most people believe that the oldest parts of Tollen -- [[Fiskurth]], [[Skepwalk]
 
 The Skaer become a dominant maritime force in the pre-Drankorian western Green Sea (cf. [[History of the Skaer]]), and Tollen is a significant part of their empire, but almost no details are invented about this time. It is possible that Tollen is nearly completely destroyed early in this period, or during the Downfall Wars, and rebuilt by the Skaer, or it is possible that a significant settlement survives the Downfall. 
 
-There is a possibility the Skaer are a raiding culture at this time, e.g. spreading along the coast as far south as the mouth of the [[Semb]], raiding upriver for timber and impressed sailors to row their great ships, and seeking converts for their religion. But this is not canonical and might be wrong; details of the Skaer empire at this time should be developed in [[History of the Skaer]]. 
+There is a possibility the Skaer are a raiding culture at this time, e.g. spreading along the coast as far south as the mouth of the [[Semb]], raiding upriver for timber and impressed sailors to row their great ships, and seeking converts for their religion. But this is not canonical and might be wrong; details of the Skaer empire at this time should be developed in [[History of the Skaer]].  One note about this however is that there is a suggestion in the [[History of Greater Sembara]] that the Skaer are raiding during the formative period of Sembara (i.e. 1200s) which may impact earlier raiding culture - although whether this makes it more or less likely is not clear.
 
 This period ends with the Treaty of Marhavn, which ends Skaer military dominance, though not necessarily cultural influence, in Tollen. The reason for the treaty and what it contains is not invented. While the exact details of the [[Treaty of Marhavn]] are not canonical, this represents a major shift in Tollen. Any invention around the treaty and its context needs to explain how Tollen becomes effectively a Drankorian protectorate. 
 

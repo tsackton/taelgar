@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/mike]
+tags: [place]
 name: Free City of Tollen
 typeOf: city
 whereabouts: Western Green Sea
@@ -15,7 +15,6 @@ dm_notes: important
 
 %% 
 dm_notes -> there are still a fair number of possibly-relevant notes to expose from Dunmar Campaign, including some relevant to major NPCS ([[Caelynn]]) and some overall vibes that may not be fully caputred
-status/check/mike -> mostly curious if this note feels complete enough that you could run an arc in Tollen that feels like it would fit, or if there are more details that need to be added in places
 %%
 
 Tollen is a bustling port on the [[Volta]], a growing naval power, a cultural mixing ground, and an entrepôt where goods from across the [[Green Sea]] are traded. Founded thousands of years ago, it has navigated the politics of the region and maintained its independence for centuries. It is a haven for merchants, traders, intellectuals, mages, poets, writers, and scholars, known for the [[University of Tollen]] and its powerful guilds. 
@@ -106,7 +105,7 @@ In recent years, Tollen has extended its reach, settling colonies and establishi
 
 ## Economy and Trade
 
-The economy of Tollen is powered by trade. Tollenders produce [[Tollen Dyes|dyes]], cloth, and fine clothes that are widely sought across the [[Green Sea]], and are also known for shipbuilding, fishing, [[whaling]], and the fur trade. Tollen is also famous as a center for the production of [[Tollen Magical Tattoo|magical inks and tattoos]]. 
+The economy of Tollen is powered by trade. Tollenders produce [[Tollen Dyes|dyes]], cloth, and fine clothes that are widely sought across the [[Green Sea]], and are also known for shipbuilding, fishing, [[whaling]], and the fur trade. Tollen is also famous as a center for the production of [[Tollen Magical Tattoo|magical inks and tattoos]].  Tollen imports significant grain, especially from the heartlands of Sembara, and fine wool and other fibers from [[Wisford]] and [[Duchy of Cheimen|Cheimen]]. Timber from the [[Volta Watershed]] comes from upriver, usually traded by merchants from the [[Duchy of Telham]].
 
 Tollen is a major entrepôt on the Green Sea: its merchant fleets travel widely, bringing exotic goods back west. While many of these are used as raw ingredients for dyes (both mundane and magical), a large portion are exported south to the realms of the [[Greater Sembara]] region.
 
