@@ -14,3 +14,5 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 A powerful trade guild in [[Tollen]], known for the famous "[[Tollen Dyes|Tollen Red]]", a brilliant vermillion color.
+
+%% patron is The Sibyl - possibly support the Temple of the Sibyl in Tollen? %%

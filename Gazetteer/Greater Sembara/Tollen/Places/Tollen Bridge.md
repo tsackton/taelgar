@@ -1,3 +1,19 @@
-%%
-The [[Tollen Bridge]] is a broad stone span of many arches, built in the Age of Drankor. Its piers choke the Volta into narrow, dangerous channels. Seagoing ships never pass beyond the bridge; they dock below its shadow, and cargo is carried upriver by low-masted barges that slip under the central arches. Gatehouses at either end control road traffic, but the bridge has no great drawspan—only a small lifting section at the city end to secure the roadway in time of war.
-%%
+---
+headerVersion: 2023.11.25
+tags: [place]
+name: Tollen Bridge
+typeOf: bridge
+whereabouts: Tollen
+dm_owner: none
+dm_notes: none
+---
+# The Tollen Bridge
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+The [[Tollen Bridge]] is a broad stone span of many arches, built around the time the [[Drankorian Empire]] first raised stone walls around [[Tollen]].
+
+Its piers choke the [[Volta]] into narrow, dangerous channels, forming a hard barrier to navigation: tall‑masted oceanic ships cannot pass beyond the bridge, and must moor at the sea‑port below its shadow, while low‑masted barges and river craft carry cargo upriver beneath the central arches.
+
+The bridge is also a major commercial hub, lined with shops, houses, and stalls, and serves as a key defensive work, with gatehouses at either end controlling road traffic; and small lifting section at the north end that can be raised if needed for defense. 
