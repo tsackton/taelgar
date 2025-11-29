@@ -58,8 +58,6 @@ While the [[Walls of Tollen|walls of Tollen]] have expanded many times during it
 
 Tollen has many notable landmarks. The most famous is the [[Tollen Bridge]], a vast span across the wide [[Volta]] that dates to the days of the [[Drankorian Empire]], now lined with shops. There are also many temples, particularly the [[Temple of The Wanderer (Tollen)|Temple of the Wanderer]], with its massive spire, the [[Temple of the Sibyl (Tollen)|Temple of the Sibyl]], with its colorful dome, and the Skaer [[Temple of Kaikkea]], one of the oldest buildings in Tollen. 
 
-%% have images of many of these in DM Notes %%
-
 The guildhalls of Tollen are also notable, with several richer guilds constructing substantial palaces in the [[Gold Street]] and [[Guildgate]] districts, which are noted for their impressive architecture. 
 
 %% 
@@ -83,9 +81,17 @@ dv.table(["Place", "Type Of"],
 
 ## Governance and Laws
 
-By long custom, Tollen is an open city. No tolls are levied for entering the city or crossing the Tollen Bridge, the gates are unbarred from first light until dusk, and strangers come and go as they please. Goods for sale, however, are heavily taxed: every barrel and bale, every wagon and barge, must pay at the customs houses outside the gates and at the docks. 
+By long custom, Tollen is an open city. No tolls are levied for entering the city or crossing the Tollen Bridge, the gates are unbarred from first light until dusk, and strangers come and go as they please. Goods for sale, however, are heavily taxed at the customs houses outside the gates and at the docks. 
 
-%% Likely halflings and some guilds should have some dispensation here, but if duties are high and halflings don't pay them it is hard to see how any non-halfling traders could survive, so this needs thought. %%
+%% 
+The canonical fact to explain here is that the trade goods the Dunmar Fellowship brought back from Vetta were charged a high duty. 
+
+However, need to consider the economic logic on three fronts:
+- guilds would not want to pay taxes on raw materials they need for finishing, as that just drives up the costs of their inputs
+- halflings likely have some kind of longstanding arrangement, but it cannot be one that would put human traders out of business
+- tollen needs a way to get money - are custom duties a way to protect guilds, or a way to get city funds?
+
+%%
 
 City laws bar strangers from wearing armor or carrying war-blades larger than a dagger within the walls. In practice, the gate-guards will generally turn a blind eye to single swords and the odd mail shirt, so long as no one marches in file or clanks about in full harness. By custom, [[dwarves]], [[elves]], and [[stoneborn]] are treated as city residents and rarely questioned over armor or weapons, even in full plate, though city guards may ask pointed questions of armed groups of any species. 
 
@@ -105,13 +111,11 @@ In recent years, Tollen has extended its reach, settling colonies and establishi
 
 ## Economy and Trade
 
-The economy of Tollen is powered by trade. Tollenders produce [[Tollen Dyes|dyes]], cloth, and fine clothes that are widely sought across the [[Green Sea]], and are also known for shipbuilding, fishing, [[whaling]], and the fur trade. Tollen is also famous as a center for the production of [[Tollen Magical Tattoo|magical inks and tattoos]].  Tollen imports significant grain, fine wool and other fibers, and timber. 
+The economy of Tollen is powered by trade. Tollenders produce [[Tollen Dyes|dyes]], cloth, and fine clothes that are widely sought across the [[Green Sea]], and are also known for shipbuilding, fishing, [[whaling]], and the fur trade. Tollen is also famous as a center for the production of [[Tollen Magical Tattoo|magical inks and tattoos]].  To support itself and these industries, Tollen imports significant grain, fine wool and other fibers, and timber. 
 
 %% See below for more on trade. %%
 
 Tollen is a major entrepôt on the Green Sea: its merchant fleets travel widely, bringing exotic goods back west. While many of these are used as raw ingredients for dyes (both mundane and magical), a large portion are exported south to the realms of the [[Greater Sembara]] region.
-
-%% probably needs a sentence about imports - likely grain at least, maybe metal goods? Timber comes downriver along the Volta but not clear from who, exactly %%
 
 ## History
 _See more: [[History of Tollen]]_
