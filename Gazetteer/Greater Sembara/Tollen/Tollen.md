@@ -105,7 +105,9 @@ In recent years, Tollen has extended its reach, settling colonies and establishi
 
 ## Economy and Trade
 
-The economy of Tollen is powered by trade. Tollenders produce [[Tollen Dyes|dyes]], cloth, and fine clothes that are widely sought across the [[Green Sea]], and are also known for shipbuilding, fishing, [[whaling]], and the fur trade. Tollen is also famous as a center for the production of [[Tollen Magical Tattoo|magical inks and tattoos]].  Tollen imports significant grain, especially from the heartlands of Sembara, and fine wool and other fibers from [[Wisford]] and [[Duchy of Cheimen|Cheimen]]. Timber from the [[Volta Watershed]] comes from upriver, usually traded by merchants from the [[Duchy of Telham]].
+The economy of Tollen is powered by trade. Tollenders produce [[Tollen Dyes|dyes]], cloth, and fine clothes that are widely sought across the [[Green Sea]], and are also known for shipbuilding, fishing, [[whaling]], and the fur trade. Tollen is also famous as a center for the production of [[Tollen Magical Tattoo|magical inks and tattoos]].  Tollen imports significant grain, fine wool and other fibers, and timber. 
+
+%% See below for more on trade. %%
 
 Tollen is a major entrepôt on the Green Sea: its merchant fleets travel widely, bringing exotic goods back west. While many of these are used as raw ingredients for dyes (both mundane and magical), a large portion are exported south to the realms of the [[Greater Sembara]] region.
 
@@ -155,11 +157,21 @@ Tollen is not primarily a producer city; it’s a finisher and redistributor.
 
 Basically Bruges / Ghent / Venice / London mashed together.
 
-Probably the biggest trade flow is raw wool from Sembara that is exported as finished cloth and fine clothes from Tollen, but others (timber -> ships; hides -> leather goods) as well. 
-
 Tollen's key resources are: cheap fuel from timber upriver; plenty of water. Cloth is particularly logical because raw wool ships well. 
 
 This implies that some goods -- timber, raw hides, maybe some flax/linen -- come from the north, so maybe enter the city via Tanner's Gate or River Gate. 
+
+#### Trade Flows
+
+Grain, wine, foodstuffs -> largely imported from Sembaran heartlands; some from Western Cymea, Tyrwingha, Addermarch via ship, perhaps? But seems clear Sembara is the breadbasket of Tollen.
+
+Fine wool, linen, flax -> while some may come from local hinterlands, ~Volta Hills~, etc, the best wool comes from Wisford and Cheimen. This is dyed and re-exported as fine cloth and clothes. 
+
+Timber -> the Volta watershed is very rich in timber, so this largely comes downriver. Probably from a mix of colonies and Telham merchants, but this is not entirely clear. Breva is not a very trade-oriented society. This is crucial to Tollen prosperity, especially shipbuilding, so decent chance for colonial control of some hinterlands, but this might be a recent development. 
+
+Hides and especially furs may be more likely to come in from Brevan hunters and various other small operators, but this is not clear either. It is possible there is something like the Hudson Bay Company organized out of Tollen. 
+
+Unclear where metal comes from. It is possible there are mines in the ~Volta Hills~, or this is an import Tollen relies on. Tollen might have its own mint, which implies the need for a source of silver at least. 
 
 ### Territory
 
