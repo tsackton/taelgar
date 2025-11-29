@@ -7,12 +7,12 @@ typeOf: inn
 typeOfAlias: tavern
 ancestry: dwarven
 whereabouts: Magus Street
-dm_owner: tim
-dm_notes: color
+dm_owner: none
+dm_notes: none
 ---
 # The Fire and Stone
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Near the [[University of Tollen]]. Quiet, but with a reputation for good food and ale. 
+A quiet tavern near the [[University of Tollen]], with a reputation for good food and ale. 

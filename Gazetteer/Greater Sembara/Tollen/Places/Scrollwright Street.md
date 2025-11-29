@@ -2,12 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: ""}
-campaignInfo: []
 name: Scrollwright Street
 typeOf: street
 whereabouts: Tollen
-dm_notes: tim
-dm_owner: color
+dm_notes: none
+dm_owner: none
 ---
 # Scrollwright Street
 >[!info]+ Information  

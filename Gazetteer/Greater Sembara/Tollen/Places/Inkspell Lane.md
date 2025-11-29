@@ -1,15 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place]
 displayDefaults: {defArt: ""}
 typeOf: street
 whereabouts: Southbridge
-dm_notes: tim
-dm_owner: color
+dm_notes: none
+dm_owner: none
 ---
 # Inkspell Lane
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% home to tattoo parlors, especially magical ink %%
+Inkspell Lane is a street in [[Southbridge]] that forms the center of [[Tollen]]’s tattoo trade, lined with tattoo parlors and studios. Many of the most prosperous and skilled tattoo artists in the city, especially those who work with magical inks and [[Tollen Magical Tattoo|enchanted tattoos]], keep their shops along Inkspell Lane.
