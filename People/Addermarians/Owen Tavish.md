@@ -23,7 +23,6 @@ Owen Tavish is a priest of the [[The Sibyl]], based out of the Temple of the Sib
 
 ## Events
 - (DR:: 1715-05-01): Requested the [[Addermarch Mercenaries]] safeguard the Serpentine Dagger and arrange a meeting upon his return.
-- (DR:: 1715-05-05): Rode south with Sir Gareth to lay [[Einrik Arpaad]]’s ghost to rest at [[Torvaine Watch]].
 - (DR:: 1715-05-09): Supervised the application of [[Trueflame]] that unmade the [[Serpentine Dagger]].
 
 ## Relationships
