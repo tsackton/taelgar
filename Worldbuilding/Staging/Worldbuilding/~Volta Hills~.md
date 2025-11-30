@@ -1,1 +1,1 @@
-part of [[~Zimkova Foothills~]] on the east side of the [[Volta]]
+the northern end of [[~South Vostok Hills~]]. May not have a separate name.

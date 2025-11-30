@@ -1,4 +1,0 @@
----
-tags: [place, status/stub]
----
-
