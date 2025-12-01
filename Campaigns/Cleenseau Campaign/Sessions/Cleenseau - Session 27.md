@@ -76,7 +76,7 @@ It is worth noting that the party is known to have done three things with magic 
   
 Nobody who knows us _really_ wants us to not do these things. (Particularly #1 and #3.)  
   
-So: someone sends up to the Warlord temple to bring down [[Marian]], the senior person who can call upon miracles, to interrogate us about our intentions. The runner ([[Alric Veillon]]) arrives a bit breathless. [[Robin]] of course immediately says something to the effect of, "Look, we've been summoned here, but if I can't go into the city without committing to break my vows as a knight if I encounter people in need of my strength I guess we're staying out here."  
+So: someone sends up to the Warlord temple to bring down [[Marian]], the senior person who can call upon miracles, to interrogate us about our intentions. The runner arrives a bit breathless. [[Robin]] of course immediately says something to the effect of, "Look, we've been summoned here, but if I can't go into the city without committing to break my vows as a knight if I encounter people in need of my strength I guess we're staying out here."  
   
 Now, [[Marian]] is a reasonable cleric who understands the value of the aforementioned #1 and #3 so there is an extended negotiation in which we commit to not using magic inside the city unless it is necessary for, you know, defense of the people, and swear according to powers that she accepts as legitimate ([[Robin]] on [[The Wanderer]], [[Celyn]] on [[The Wyrdling]]'s chance and fate, [[Izgil]] on the [[Baharazel]], and I ... forget how [[Viepuck]] managed to finesse his nonsense). Then we have to swear that we haven't encountered necromantic stuff in the last week, which is complicated!  
   
