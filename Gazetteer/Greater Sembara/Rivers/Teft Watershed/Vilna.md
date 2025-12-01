@@ -5,7 +5,9 @@ displayDefaults: {defArt: "the"}
 name: Vilna
 typeOf: waterway
 typeOfAlias: river
-whereabouts: Sembara
+whereabouts: 
+- {type: primary, location: Zimkova }
+- {type: secondary, location: Semb Watershed }
 dm_owner: none
 dm_notes: none
 ---

@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
+displayDefaults: {defArt: "the" }
 typeOf: waterway
 typeOfAlias: river
 whereabouts: 
@@ -9,7 +10,7 @@ whereabouts:
 dm_notes: none
 dm_owner: none
 ---
-# Clavert
+# The Clavert
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

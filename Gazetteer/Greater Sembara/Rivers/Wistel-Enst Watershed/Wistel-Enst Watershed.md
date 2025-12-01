@@ -22,11 +22,13 @@ The Wistel–Enst watershed drains much of southern and central [[Sembara]], car
 - Aure system: The [[Aure]] rises in the [[Darkwood]] and runs north through [[Addermarch]] to join the Enst near the Ozabal lowlands. North of [[Adderfell]] it gathers the [[Velan]] from the west—which itself receives the [[Umber]] near [[Valcroix]]—and the short upland [[Branth]] from the east. [[Adderfell]] sits at the height of navigation on the Aure, on a small lake. 
 
 ## Character and Use 
-The [[Wistel]] supports heavy barge and river traffic on its lower reaches, particularly along the stretch between [[Ainwick]] and [[Wisford]].  There are several bridges, including major ones at [[Ainwick]], [[Gowerbourne]], and [[Wisford]] as well as some smaller ones between [[Gowerbourne]] and [[Wisford]].
+The [[Wistel]] supports heavy barge and river traffic on its lower reaches, primarily along the stretch between [[Ainwick]] and [[Wisford]].  There are several bridges, including major ones at [[Ainwick]], [[Gowerbourne]], and [[Wisford]] as well as some smaller ones between [[Gowerbourne]] and [[Wisford]].
 
 The [[Enst]], by contrast, is difficult to cross and forms a major barrier to movement: flooding, cold currents, and limited towpaths restrict navigation. Ferries (most notably at [[Rinburg]]) and a small number of bridges—most notably at [[Cleenseau]] and [[Eskbridge]]—manage crossings where the banks allow.
 
 The Aure supports regular riverboat traffic between [[Adderfell]] and the [[Enst]].
+
+Once the Enst and the Wistel join, the river becomes a marshy delta with many meandering paths as it moves through [[Ozabal|Ozabal Swamp]], and it is not generally navigated further east of Wisford (on the Wistel) and Eskbridge (on the Enst).
 
 
 %%^Campaign:None%%
