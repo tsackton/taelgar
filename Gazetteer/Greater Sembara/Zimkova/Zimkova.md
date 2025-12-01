@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/tim]
 name: Zimkova
 typeOf: realm
 aliases: [ Highland Kingdoms ]
@@ -14,11 +14,14 @@ dm_notes: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 
-North of [[Sembara]] the land rises towards the [[Sentinel Range]], and is the ancient homeland of the Zimka, who once inhabited the [[Enst]], [[Teft]], [[Semb]], and [[Wistel]] river valleys, as well as the foothills of the Sentinels. Today, the lands of the Zimka people can be loosely organized into three realms ([[Ardlas]], [[Lavnoch]], and [[Breva]]) and the northern lands (often called just Zimkova, or north Zimkova), less organized and without any traditional political boundaries.  
+North of [[Sembara]] the land rises towards the [[Sentinel Range]] along the [[Teft]] and [[Volta]] rivers. This is the homeland of the [[Zimka]]. The ancient history of this land is poorly known, but in the small fortified villages along the upper [[Teft]] or [[Volta]] tales are still told of a long migration across the mountains, and of how the people found the [[Kestavo|kestavo]] amongst the bogs and lakes of the upper [[Volta]]. Some tell of a sundering where many of the [[Zimka]] went south and east after the [[The Downfall|Downfall]], and others stayed in the north. but whether this is true or legend is not known.
+## Geography and Climate
 
-The ancient history of this land is poorly known, but in the small fortified villages along the upper [[Teft]] or [[Volta]] tales are still told of a long migration across the mountains, and of how the people found the [[Kestavo|kestavo]] amongst the woods and foothills around the [[Volta]]. Some in the wooded foothills where the [[Volta]] arises tell of a sundering where many of the [[Zimka]] went south and east after the [[The Downfall|Downfall]], and others stayed in the north. 
+Zimkova is a broad region of highland plateaus, dense forest, and boreal wetlands stretching across the northern part of [[Greater Sembara]]. Broadly, there are four main regions:
 
-#### Geography
+* The upper [[Volta]], a great depression that sits between 800' and 1200', full of scattered pine forests, peat bogs, and kettle lakes, where the Volta River arises from many small rivers
+* The Breva Forest, a hilly and forested highland, sitting between 1800' and 3000' feet, a mix of dense pine forests and 
+
 The region of Zimkova consists entirely of highlands, between the tall peaks of the [[Sentinel Range|Sentinels]] and the Sembara lowlands. In general, a line of hills runs from the [[Aine Hills]] just north of the [[Wistel]], through the [[Braebein]], between the [[Semb]] and the [[Volta]] to the [[~Volta Hills~]]. Zimkova is the land west and north of this line of hills.
 
 Three watersheds and two mountain spurs divide Zimkova:
@@ -40,44 +43,43 @@ A dense forest stretches from the [[Volta]] to [[Semb]]. Between the [[Teft]] an
 ### People and Culture
 The geography above forms three cultural regions:
 
-* South Zimkova, the lands south of the [[~Southern Sentinel Spur~]], the [[Breva Forest]], and west of the [[Braebein]]. This land has seen much intermixing with Sembara, and the realms of [[Ardlas]] and [[Lavnoch]] have been under the overlordship of Sembara at various times in their history. This land has lost many of the ancient traditions of the [[Zimka]], and although it has retained a unique culture and language, [[Mos Numena]] is the most common religion here and the worship of [[Kestavo]] has largely faded
+* South Zimkova, the lands south of the [[~Southern Sentinel Spur~]], the [[Breva Forest]], and west of the [[Braebein]]. This land has seen much intermixing with Sembara, and the realms of [[Ardlas]] and [[Lavnoch Plateau]] have been under the overlordship of Sembara at various times in their history. This land has lost many of the ancient traditions of the [[Zimka]], and although it has retained a unique culture and language, [[Mos Numena]] is the most common religion here and the worship of [[Kestavo]] has largely faded
 * Breva, nestled between the [[Teft]] and the [[Volta]], and separated from the north by the [[~Central Sentinel Spur~]], a unique blended culture, where kestavo still dominate and a fierce independent streak keeps the people independent
 * North Zimkova, lightly peopled and scattered, where the ancient ways still hold sway, a land of hunters and small fortified villages, mostly clinging to the [[Volta]] and its tributaries. 
 
 %% Notes: 
-Basic logic is that there are three "cultural" regions:
 
-- the north, almost pure kestavo, little sembara influence, centered around Volta headwaters (=2),
-- Breva, with a bit of a unique culture, definite sembaran influence but still primarily kestavo, has a ruler who maintains the riverguard and the forestguard or something like that (=1), plus with some odd stuff on the western border, where access to the Chasm is easiest,
-- the south (=4 and 5) Ardlas and Lavoch. Actually fairly isolated from the north, by the mountain spur circled in green and the dense unpopulated woods between Lavnoch and Breva. Mos Numena is mostly worshipped here, although with a few kestavo here and there. Much much more Sembaran than Breva or the north, and with potentially interesting or complicated politics. Definitely allied with dwarves
+Btrainstorming notes for Zimkova:
 
-in map below 
-1 = Breva "the land between two rivers" bordered by Volta and Teft, heavily forested, fairly traditional part of Zimka. Lots of little forified villages, a monarch of sorts who mostly organizes the "forest guard" 
-2 = north Zimkova = totally unorganized, lightly populated, no monarches, taxes, etc - but lots of little traditional villages along the volta in particular. heartland of kestavo 
-3 = Great Chasm = not really any people here, seen as taboo by Breva and north Zimkova for sure 
-4 = Lavnoch. bordered on the north by a spur of high peaks - crossable but not in winter, isolating the green circle and on the south by the Semb (although the southern border with Ardlas might be contested, or not really a border, or something) 
-5 = Ardlas = richest of the zimkova region. May not have a clear border with Lavnoch, might be more of a continuum
-6 = south spur
-7 = central spur
-8 and rest of moutains are north spur
-%%
+The map below has basic "elevation" sections. Red is "high" (for various definitions of high). Green is "medium", and yellow is "low"
 
-%% OLD Brainstorming Notes:
+![[rough-map-zimkova-2.png]]
 
-Everyhing I've made up is here or discord; there are some notes in various other obisidan docs and a long thread in discord during the language background discussions that created Tollish
+The basic idea is that Red 6 / Red 1 / Red 3 / Red 5 are all barriers to travel and lightly or not at all settled. 
 
-Ancient history: The broad swath of land from the [[Sentinel Range]] to the [[~North Vostok Mountains~]] is settled by 
+Drankor expands to  Yellow 1 / Green 1 but no were else. Today, you basically have:
 
-Note: this replaces Zovcka. Need to update the maps to remove Zovcka
+Yellow 1: The upper Semb. Intermixed Zimka/Sembara. Complex politics.
+Green 1: The heart of the Ardlas "highlands"
+Red 6:  High Ardlas, not much inhabited except maybe along the mountains and maybe a lot of dwarves
 
--   Isolationist and wants to be left alone  
--   In some of the higher steppes, still speak the old east northlander and a major reserve of worshippers of the old gods
--   A strong cultural tradition of staying out of larger politics and wanting to be left alone. 
--   Low population density
--   Hunting still important in some regions, although hardy grains (i.e. barley or an analog) and wooly mountain goats/sheep are the main food source.
-- Strong connection to stoneborn and kestavo
+Red 1: Braebin. High hill, mining in the east. Maybe stoneborn? Not a lot of human settlement, if any. Could be dwarves, but my view is the vibe of Sembara is no big dwarven mountain settlements, and this is supposed to be why Arnsbury is why it is - near the silver mines
 
-![[rough-map-zimkova.png]]
+Red 2: [[Lavnoch Plateau]]
+
+Green 3: [[Great Chasm]] might have been lots of people once, now kinda weird
+
+Red 4: "high" Zimkova. Still populated in the vallerys. but this is where you might find a lot of old Zimkovan speakers
+
+Yellow 2: bogs, boreal wetlands. "low" Zimkova
+
+Green 2: the Breva Forest. Heartland of "modern" Zimkova; only purely Zimka organized kingdom. Probably the poliltical organization is only from Volta - Teft
+
+Red 3: the "low Braebein" (might have a different name). Barrier to travel but not totally unpopulated, although there are probably some sharp ridges and  valleys that make travel difficult, keeping the Sembaran and Breva sides fairly culturally distinct.
+
+Red 5: The Vostok high plateau. Unclear what is here.
+
+
 
 %%
 
