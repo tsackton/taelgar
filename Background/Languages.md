@@ -93,7 +93,7 @@ _Real world analog: Northros languages are based on Semitic languages_
 %% note: Northos language scripts are in flux and might change, should generally not be considered canonical, excepting Mawaran%%
 
 ##### ~Old Zimkovan~
-The ancient language of the [[Zimkova|Zimka]] people, mostly no longer spoken outside of the most traditional and isolated parts of northern [[Zimkova]].
+The ancient language of the [[Zimkova|Zimka]] people, mostly no longer spoken outside of the most traditional and isolated parts of northern [[Zimkova]] and parts of the [[Lavnoch Plateau]].
 
 _Real world analog_: Maltese
 _Alphabet_: Unknown. %% Previously was stated as an alphabet based on Dwarven, but it might be better to have it be a Northros alphabet %%
@@ -143,7 +143,7 @@ The ancient language of Tollen and the Vostok and Sembaran coasts. A precursor t
 *Real world analog*: Balto-Slavic
 *Alphabet*: ~Mariner Language~ alphabet
 ##### Zimkovan
-A group of related languages and dialetics spoken in the highland kingdoms of [[Ardlas]], [[Breva]], and [[Lavnoch]]. It is commonly spoken in the rest of Zimkova as well. It is descended from Old Tollish, but was significantly influenced by Sembaran and Drankorian.
+A group of related languages and dialectics spoken in the highland kingdoms of [[Ardlas]] and  [[Breva]], and across the [[Lavnoch Plateau]]. It is commonly spoken in the rest of [[Zimkova]] as well. It is descended from Old Tollish, but was significantly influenced by Sembaran and Drankorian.
 
 *Real world mapping*:  Baltic (Lithuanian or Latvian), although with some loan words from Maltese (~Old Zimkovan~). 
 _Alphabet_: Written using the Drankorian alphabet. 

@@ -70,7 +70,7 @@ In Istabor and Cymea there are few humans as these lands were once part of the g
 The Skaer Empire largely fades away, from a combination of Drankorian pressure and internal politics, and by 4535, the cultural landscape looks like:
 
 * The old Zimka in the north, as always
-* A culture increasingly claiming to be the Zimka, opposed to Drankor (or at least, not part of Drankor), in the highlands and foothills of the Sentinels. This culture develops into the "Zimkovan kingdoms" of [[Breva]], [[Lavnoch]]
+* A culture increasingly claiming to be the Zimka, opposed to Drankor (or at least, not part of Drankor), in the highlands and foothills of the Sentinels. This culture develops into the "Zimkovan kingdom" of [[Breva]] and influences [[Ardlas]]
 * A central Sembaran culture, speaking Drankorian and worshipping Mos Numena, but with some lasting cultural ideas from the kestavo/Tollish/Zimka culture
 * A coastal/northern Tollish culture, worshipping Mos Numena and speaking both Drankorian and Old Tollish (this becomes Telham/Tollen area)
 * A southern culture, in [[Duchy of Maseau|Maseau]] and the [[Istaros Watershed]], somewhat more purely Drankorian, and worshipping Mos Numena
