@@ -60,7 +60,7 @@ _Real world analog_: Spanish or Portugese, but with some Italian.
 _Alphabet_: Cymean is written using the Drankorian alphabet
 *Intelligibility*: Isinguese is a closely related language, and is usually mutually understandable with Cymean. Sembaran shares a large vocabulary with Isinguese and to a lesser extent Cymean, but uses a different grammar; it is loosely understandable with effort to speakers of Cymean.
 ##### Isinguese
-A number of mutually understandable languages and dialects spoken throughout the [[Istaros Watershed]] before te destruction of [[Isingue]]. Today it survives amongst the Isinguese refugee communities, especially in the [[Duchy of Maseau]] and the [[Refounded Alliance of Aurbez]], and can also be occasionally heard in [[Tollen]]. 
+A number of mutually understandable languages and dialects spoken throughout the [[Istaros Watershed]] before the destruction of [[Isingue]]. Today it survives amongst the Isinguese refugee communities, especially in the [[Duchy of Maseau]] and the [[Refounded Alliance of Aurbez]], and can also be occasionally heard in [[Tollen]]. 
 
 _Real world analog_: Spanish or French, more French in the northern areas, Spanish to the south
 _Alphabet_: Isinguese is written using the Drankorian alphabet

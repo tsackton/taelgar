@@ -63,8 +63,15 @@ So at the time of the Downfall, out of the mixing of these mariner and northerne
 Some other cultures may be emerging here as well, those these are less established:
 - A Tollish culture, centered on the ~Gulf of Tollen~ and the mouth of the Volta, perhaps that is religiously unusual or otherwise is somewhat apart the other intermixed cultures
 
+%% One possible neat solution here:
 
-%% Old Brainstorming:
+The mariners are splitting into a coastal/oceanic proto-Skaer, and a river trader proto-Tollish culture. The river trader culture makes contact with Zimka, and ends up bringing trade and wealth, so you get the river trader language spreading in the river valleys, and the river traders are often the local elite. This begins to drive linguistic shift towards the Eastros. 
+
+In the Gulf of Tollen area, the river traders are dominant, and here the river traders, Skaer, and northerners mix - this is the start of the Tollish culture and Old Tollish
+
+So you get basically three diverging languages -- Zimka, Old Tollish, Skaer -- that are all growing out of the original mariner language and reflecting three cultures. 
+
+ Old Brainstorming:
 
 * The Zimka, as they came to be known, spread across three distinct regions: the foothills near the headwaters of the [[Volta]] and the [[Lavnoch Plateau]]; the upper [[Semb]] valley; and the [[Volta]] river valley and the forests it passes through
 * The Skaer, dedicated to the ocean, settled on their islands and dominating the sea and the immediate coasts
@@ -81,7 +88,7 @@ The Downfall impacts the lizardfolk and elves more than the humans. The great li
 
 During the next three hundred or so years, the Skaer blossom and an Skaegish Empire spreads along the coasts, though exactly how this Skaer culture relates to the lowland Zimka or the Tollish culture is unclear and not determined. 
 
-By the year 4400, as the Drankorian expansion begins in the south, there are several human cultures;
+By the year 4400, as the Drankorian expansion begins in the south, there are several human cultures:
 
 * The highland culture, an isolated northerner branch of the Zimka, preserving the kestavo traditions and speaking a Northros language, spreading across the highlands, particularly the [[Lavnoch Plateau]] and the isolated highlands north of the [[Great Chasm]]. 
 * A river valley culture, worshipping kestavo and retaining cultural connections to the highland culture (e.g. through pilgrimage, maybe trade), but speaking an Eastros language
@@ -127,7 +134,32 @@ For 600-700 years, Drankor rules the Sembaran Provinces in (mostly) peace, and t
 
 In the modern era (since the Great War), the Greater Sembaran region has been the home to a number of different cultural elements:
 
-* The ~Old Zimka~, a traditionalist and declining culture limited to the higher northern foothills of the Sentinels and pockets on the [[Lavnoch Plateau]]. This culture preserves many of the ancient northern ways, worships the kestavo, and speaks a Northros language. These people have never been ruled by Drankor or Sembara
-* The ~New Zimka~, a blended culture that maintains a significant shared identity with the ~Old Zimka~, but that speak a Eastros derived but Drankorian influenced language. These people were never ruled by Drankor, but have, at times, been part of the larger Sembaran Empire, although since 1650 they have been independent. Mostly worship the kestavo, although there are pockets of Mos Numena
-* The Sembarans, a Drankorian derived culture but with significant influences from both Tollenders and Zimkovans. Some cultural differences between the northern Sembarans, especially in the highlands and the Duchy of Telham, and the southern Sembarans persist. The northern strands of Sembaran culture tend to be more Tollish/Zimkovan, and the southern more Drankorian/Isinguese. Speaks a Eastros/Drankorian blended language and worships Mos Numea. 
-* The Tyrwinghans, an ancient culture of unclear origin, although with significant assimilation trends and a lot of Drankorian and Sembaran influences. Worships Mos Numena, and mostly speaks Sembaran, but with a significant minority that speak Tyrwinghan, an ancient language with some relationships to Eastros. The Tyrwinghan culture, broadly, also spreads west into parts of modern-day Addermarch, although the fey influence and fey culture is distinctly different. See [[Addermarch]] for more. 
+### Highland Zimka 
+_Old Zimka or Highland Zimka_
+
+A traditionalist and declining culture limited to the higher northern foothills of the Sentinels and pockets on the [[Lavnoch Plateau]]. This culture preserves many of the ancient northern ways, worships the kestavo, and speaks a Northros language. These people have never been ruled by Drankor or Sembara. 
+
+### Lowland Zimka
+_New Zimka or Lowland Zimka_
+
+A culture that arose in the river valleys of Sembara in ancient days, out of the interactions between the old Zimka who migrated out of the highlands, and early mariner-derived trading culture. Maintains a cultural and religious affinity with the Old Zimka, but speaks an Eastros language. These people have a complex and not-fully determined history, but in the modern day are most prominent in Breva and perhaps Ardlas, mostly worshipping the kestavo, although there are pockets of Mos Numena.
+
+### Sembarans
+
+A Drankorian derived culture but with significant influences from both Tollenders and Zimkovans. Some cultural differences between the northern Sembarans, especially in the highlands and the Duchy of Telham, and the southern Sembarans persist. The northern strands of Sembaran culture tend to be more Tollish/Zimkovan, and the southern more Drankorian/Isinguese. Speaks an Eastros language with significant Drankorian influence, and worships Mos Numea. 
+
+### Tollish
+
+A mariner-derived culture with an unclear history, but potentially the evolution of an ancient riverine/trading culture that diverged from the oceanic Skaer in the years before the Downfall. Heavily influenced by Drankor, and worship Mos Numena. Speak an Eastros language with significant Drankorian influence, similar to Sembaran. 
+
+### Tyrwinghans
+
+The Tyrwinghans, an ancient culture of unclear origin, although with significant assimilation trends and a lot of Drankorian and Sembaran influences. Worships Mos Numena, and mostly speaks Sembaran, but with a significant minority that speak Tyrwinghan, an ancient language with some relationships to Eastros. The Tyrwinghan culture, broadly, also spreads west into parts of modern-day Addermarch, although the fey influence and fey culture is distinctly different. See [[Addermarch]] for more. 
+
+### Others
+_Cultures on the borders of Greater Sembara_
+
+- In Vostok, a distinct culture that has not yet been invented. Might be in places related to Skaer or Zimka culture, but could be another unique thing altogether. Based on place names (cf [[Vostok]]), these people are called the Vos by someone, and have at least a lowland/coastal and an upland/interior cultural strands. 
+- Across the Western Gulf, the Cymeans, a Drankorian culture speaking a Drankorian language, settled across the Cymean Peninsula. This is a much more purely Drankorian culture than Sembarans, Tyrwinghans, or Tollish. 
+- South of Greater Sembara, in the upper Istaros area, the Isinguese, a Drankorian culture speaking a Drankorian language, though largely driven from their homelands by the aftermath of the Great War. 
+- In the Western Green Sea, the [[Skaer]], an oceanic mariner culture speaking an Eastros language, using the mariner alphabet, and worshipping [[Kaikkea]], the ocean goddess. The Skaer are in some manner the descendants of the ancient mariner settlers. 

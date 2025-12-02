@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [place, status/check/mike]
 name: Zimkova
 typeOf: realm
 aliases: [ Highland Kingdoms ]
@@ -13,8 +13,9 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% @Mike needs updating to reflect Lavnoch plateau and more recent discussion around Breva / upper Volta %%
 
-North of [[Sembara]] the land rises towards the [[Sentinel Range]] along the [[Teft]] and [[Volta]] rivers. This is the homeland of the [[Zimka]]. The ancient history of this land is poorly known, but in the small fortified villages along the upper [[Teft]] or [[Volta]] tales are still told of a long migration across the mountains, and of how the people found the [[Kestavo|kestavo]] amongst the bogs and lakes of the upper [[Volta]]. Some tell of a sundering where many of the [[Zimka]] went south and east after the [[The Downfall|Downfall]], and others stayed in the north. but whether this is true or legend is not known.
+North of [[Sembara]] the land rises towards the [[Sentinel Range]] along the [[Teft]] and [[Volta]] rivers. This is the homeland of the [[Zimka]]. The ancient history of this land is poorly known, but in the small fortified villages along the upper [[Teft]] or [[Volta]] tales are still told of a long migration across the mountains, and of how the people found the [[Kestavo|kestavo]] amongst the bogs and lakes of the upper [[Volta]]. Some tell of a sundering where many of the [[Zimka]] went south and east after the [[The Downfall|Downfall]], and others stayed in the north, but whether this is true or legend is not known.
 ## Geography and Climate
 
 Zimkova is a broad region of highland plateaus, dense forest, and boreal wetlands stretching across the northern part of [[Greater Sembara]]. Broadly, there are four main regions:
