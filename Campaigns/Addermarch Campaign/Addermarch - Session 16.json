@@ -1,0 +1,152 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 16.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 16,
+  "name": "Addermarch Campaign - Session 16",
+  "descTitle": "Trail to Serethwyn Tor",
+  "tagline": "in which old records point toward a cursed hill-fort",
+  "realWorldDate": "2025-11-30",
+  "drStart": "1715-05-22",
+  "drEnd": "1715-05-24",
+  "shortSummary": "Research in Roscombe and a visit to the ranger Arvanko uncovers information ancient sites from the wars with Avatus sites and points the party toward the ruined hill-fort of Serethwyn Tor.",
+  "longSummary": "Waking at The Traveler's Rest in Roscombe, Drou, Fazoth, and Yvan spend several days tracing the trail of Geoffrey, the mysterious stranger tied to Duncan’s cursed battle axe. Colette du Bois and innkeeper Bertrand recall Geoffrey’s solitary stay, his long ranging trips into the high moors, and his final departure in March laden with climbing gear, while Emma Cole describes a map covered in strange notes and the word 'Avatus' with circled points in the northern mountains. Over lunch, Lady Elowen Duval’s notes lead them to Master Ernault, an elderly scholar who remembers Geoffrey as rude and arrogant but points the party toward an old record noting Serethwyn Tor—a hill-fort destroyed and ordered sealed by rangers—as a likely resting place for ancient Avatus relics. Traveling to Caradoc’s cottage, the heroes collect magic items, commission more Trueflame to destroy the battle axe, and are directed to Arvanko the Stoneborn, a prickly ranger crafting a stone monument to fallen comrades, who confirms Serethwyn Tor’s location, speaks of a lost register of cursed serpentine weapons, and gifts them a Drankorian sending stone to report back once they reach the fort. The session ends as they retrieve their Trueflame from Caradoc and set out along the road toward Serethwyn Tor, camping en route.",
+  "sessionProfile": {
+    "combat": "none",
+    "roleplay": "heavy",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Colette du Bois",
+      "context": "encounter",
+      "notes": "Squire in Roscombe who remembers Geoffrey as a dubious visitor and points the party toward the keep’s records."
+    },
+    {
+      "name": "Bertrand",
+      "context": "encounter",
+      "notes": "Innkeeper at The Traveler's Rest who recalls Geoffrey’s solitary habits and long trips into the high moors."
+    },
+    {
+      "name": "Emma Cole",
+      "context": "encounter",
+      "notes": "Bertrand’s niece and chambermaid who glimpsed Geoffrey’s annotated map marked with Avatus and circled sites in the mountains north of the Umber."
+    },
+    {
+      "name": "Lady Elowen Duval",
+      "context": "encounter",
+      "notes": "Castellan of Roscombe whose luncheon notes confirm Geoffrey’s visit and authorize the party to consult Master Ernault."
+    },
+    {
+      "name": "Master Ernault",
+      "context": "encounter",
+      "notes": "Elderly scholar of Roscombe’s keep who recounts Avatus history, Geoffrey’s rudeness, and the warning about Serethwyn Tor in old records."
+    },
+    {
+      "name": "Geoffrey, the stranger",
+      "context": "mentioned",
+      "notes": "Mysterious visitor obsessed with Avatus-era records and high moor expeditions, likely connected to Duncan’s axe and Serethwyn Tor."
+    },
+    {
+      "name": "Caradoc",
+      "context": "encounter",
+      "notes": "Alchemist near Brantor who provides magic items, prepares more Trueflame to destroy the battle axe, and warns that Arvanko is prickly."
+    },
+    {
+      "name": "Arvanko the Stoneborn",
+      "context": "encounter",
+      "notes": "Tall Stoneborn ranger working on a monument to fallen rangers; directs the party to Serethwyn Tor and gives them a Drankorian sending stone."
+    },
+    {
+      "name": "Cadan",
+      "context": "mentioned",
+      "notes": "Ranger commemorated on Arvanko’s stone monument as having died at Serethwyn Tor."
+    }
+  ],
+  "organizations": [
+    "Rangers of Western Addermarch",
+    "Stoneborn",
+    "Dominion of Avatus"
+  ],
+  "places": [
+    {
+      "name": "Roscombe",
+      "context": "visited",
+      "notes": "Market town where the party begins their investigation into Geoffrey’s trail."
+    },
+    {
+      "name": "The Traveler's Rest",
+      "context": "visited",
+      "notes": "Roscombe inn where the party lodges and questions Bertrand and Emma about Geoffrey."
+    },
+    {
+      "name": "Caradoc's cottage",
+      "context": "visited",
+      "notes": "Hill-country home near Brantor where Caradoc provides magic, prepares Trueflame, and advises the party."
+    },
+    {
+      "name": "Arvanko's homestead",
+      "context": "visited",
+      "notes": "Ranger’s home marked by a stone monument to fallen rangers, where Arvanko shares knowledge of Serethwyn Tor."
+    },
+    {
+      "name": "Serethwyn Tor",
+      "context": "mentioned",
+      "notes": "Old hill-fort destroyed in early records and ordered undisturbed by the rangers; believed to conceal Avatus-era relics."
+    },
+    {
+      "name": "Adderfell",
+      "context": "mentioned",
+      "notes": "Distant city where a copy of the Serpentine Register may still survive."
+    },
+    {
+      "name": "Sembara",
+      "context": "mentioned",
+      "notes": "Kingdom across the sea where another copy of the Serpentine Register might exist."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Roscombe",
+      "to": "Caradoc's cottage",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Caradoc's cottage",
+      "to": "Arvanko's homestead",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Arvanko's homestead",
+      "to": "Caradoc's cottage",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Caradoc's cottage",
+      "to": "Road toward Serethwyn Tor",
+      "mode": "overland on foot"
+    }
+  ],
+  "combats": [],
+  "treasure": [
+    "Staff of the python (gift from Caradoc)",
+    "Cloak of elvenkind (gift from Caradoc)",
+    "Driftglobe (gift from Caradoc)", 
+    "Robe of Many Fashions (gift from Caradoc)", 
+    "Rope of Mending (gift from Caradoc)",
+    "Trueflame (commissioned from Caradoc)", 
+    "Low-range Drankorian Sending Stone (one of a set; gifted by Arvanko)"
+  ],
+  "meta": {
+    "startingLevel": 5,
+    "endingLevel": 5,
+    "xpAward": 625
+  }
+}
+

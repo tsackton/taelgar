@@ -99,8 +99,6 @@ Should just review [[Serpentine Weapon Backstory]] to figure out information tha
 
 Treat each piece of information as an easy encounter:
 
-- Figure out the Stranger's backstory - 250 XP for basic connections
-- Figure out the history of the weapons - 250 XP for basic connections
 - Figure out where the fort is - 500 XP for basic location
-- Getting Arvanko to talk - 250 XP 
+- Getting Arvanko to talk / trust them - 125 XP 
 
