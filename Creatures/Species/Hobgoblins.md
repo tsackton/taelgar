@@ -8,20 +8,34 @@ dm_notes: none
 ---
 # Hobgoblins
 
-Since the Great War, hobgoblin clans have appeared wherever frontiers grow thin. Most folk know them for disciplined columns, swift fortification of bridges and passes, and the grim habit of turning captured towns into garrisons and tax posts. Rumors from priests and philosophers whisper that they lack true souls, and that the dead among them do not return.
+For most people in the modern day, hobgoblins are associated with the thud of iron-shod boots marching in lockstep; perfect, disciplined ranks of pikes; the ashy burning smell of fire sorcerers in the aftermath of battle. They formed the backbone of the armies of Cha'mutte during the Great War, and in the years since have remained a significant and often implacable enemy of many human (and other) realms. News of hobgoblin armies brings terror to cities and towns, for stories speak of their grim habit of turning captured towns into brutal work-camps, or worse. Among priests, theologians, and theological cosmologists, it is claimed that hobgoblins have no soul, no connection to any of [[Divine Realms]], and indeed many suspect that they actively repel the [[Divine Presence]] and its creations. 
+
 ## Appearance
 
-%% No canonical description of hobgoblin physical appearance is recorded in current vault notes. %%
+Hobgoblins are often large and imposing, tending to be slightly larger and more muscular than humans, though with a large variation. Most hobgoblins have prominent fangs, ears, and brow ridges, and many have short horns protruding from their upper foreheads. A variety of reddish skin tones, red or golden eyes, and black hair is common. 
+
+%% There is likely wide variation here, but this is the tendency for images I've made, cf [[Revaka]] %%
+
 ## Language and Naming
 
-Many envoys use the so‑called Goblin tongue to make themselves understood. Formal ranks and brusque manners are common in parley, though the finer points of naming remain the business of their officers.
+Most hobgoblins speak a common creole, derived from the language of Cha'mutte's armies, that is called _katonylev_ (or "army tongue") by speakers, is typically referred to as simply Goblin by outsiders. Whether hobgoblins speak other languages amongst themselves is not known. 
+
+%% possibly there are clan-tongues too, or even a complex language history like humans, but this (a) not canonical, and (b) probably too complicated to develop. %%
+
 
 %%^Campaign:None%%
-DM naming guidance still needed; link to [[Playing A Species#Species Names]] when available.
+
+Katonylev is based on Hungarian, which is an Uralic language most closely related to Finnish. In general any kind of consonant heavy names that feel vaguely "harsh" likely work, but names that feel very obviously Slavic should probably be avoided. Other hobgoblin languages may have diverse real world mappings, and it is possible for names to be in languages other than Goblin or retain aspects of clan-tongues, providing an easy way to explain / contextualize diverse hobgoblin names if needed. 
+
+
 %%^End%%
 ## Lifecycle
 
-%% No lifecycle, reproduction, or lifespan details for hobgoblins have been captured outside campaign notes. %%
+Little is known about hobgoblin reproduction, age of maturity, family life, or aging. Hobgoblins have a natural lifespan similar to humans. 
+
+%% likely that hobgoblins mature quickly and also have very short old ages %%
+
+---
 ## Settlements and Homelands
 
 Hobgoblins favor hard country and chokepoints: the shoulders of the [[Sentinel Range]], the margins of the [[Plaguelands]], and exposed coasts where fleets can harry trade, such as parts of [[Irrla]]. They raise earthworks quickly, seize crossings, and garrison captured towns as command posts; one infamous example was the sack and fortification of [[Cleenseau]] during the Third Hobgoblin War. Border forts in Sembara and Dunmar still face south and west because of such campaigns.
