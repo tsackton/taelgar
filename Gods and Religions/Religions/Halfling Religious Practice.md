@@ -22,8 +22,12 @@ Halflings build no temples, rarely settling in one place for long enough to be c
 %% the following is an idea that needs refinement I think
 Halflings also believe that some particular memories become, in a way, shrines. Over time, some memories fade, even in the racial consciousness, but others, those that capture this religious feeling, are experienced and re-experienced over and over again, and accumulate more memories to them, so you can not only experience the original memory, but the memory of a particularly famous storyteller experiencing the original memory for the first time. And then layered on top of that would be new memories that echo and reflect these memories. So you might have, say, the shrine to a calm day at sea, which isn't a place, or isn't just a place, but rather is a huge accumulation of memories and experiences. There would still be places -- say a high cliff overlooking a sheltered bay -- where the experience of this memory shrine might feel particularly strong. But also a lot of halfling religious practice would involve praying alongside and in the context of their racial memories, and priests in the halfling tradition would be closely associated with tradition keepers.
 %%
+
+%% wrapping in comment as not clear this is canonical 
 ## Afterlife
  
 Halflings, when they die, do not long linger as individual, distinct souls. Instead, they slowly fade into the halfling soulmind, their memories and personalities becoming diffuse and indistinct, a part of the great ocean of halfling souls. 
 
 In this way, the Divine Realm of the First Ones is less a place than a memory, a superposition of all the experiences, hopes, and dreams of halflings since the dawn of time. 
+
+%%

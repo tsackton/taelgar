@@ -7,7 +7,7 @@ dm_owner: none
 dm_notes: none
 ---
 # Jemghari
-*(AH-zahr)*
+*(gem-GHA-ree)*
 >[!info]+ Summary  
 > they/them
 
