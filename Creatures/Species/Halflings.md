@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [species, status/check/ai]
+tags: [species, status/check/mike]
 name: Halflings
 aliases: [halfling, halflings, Halfling]
 dm_owner: joint
 dm_notes: none
 ---
 # Halflings
+
+%% @mike: cleaned up DM notes to remove AI slop, bouncing back for any final edits %%
 
 On roads and riverways, and in every harbor along the [[Green Sea]], halfling caravans and crews are a familiar sight. Most folk know them as cheerful traders and tireless sailors, quick with a song or a story and quicker still to strike a fair bargain. They travel in tight‑knit family companies, keep excellent inns at busy crossroads, and have a reputation for remembering favors—and settling them—even generations later. Halflings commonly speak mind‑to‑mind among themselves, and their storytellers are famed for carrying memories older than any living person.
 ## Appearance
@@ -82,12 +84,20 @@ In these ancient tales of years, halflings tell of wandering even when the world
 * Language: what is the relationship between halflings and trade tongues. Does this need to be clarified? One idea: halflings invented trade tongues. Another idea: halflings popularized and maintain trade tongues
 * Language: does the actual spoken halfling language have a specific real world analog? 
 * Creation story is completely missing as is any sense of pre-Downfall history and origin and migration points. Some notes emphasize halflings concentrated around the Green Sea, while others imply wider early presence. Is the Green Sea a "homeland" of sorts, or not?
+
 ### Where You’ll Find Them
 - Generally, halflings can show up anywhere, traveling or settled
 - Common everyone in the [[Green Sea]], throughout the rivers and roads of [[Sembara]], in the [[Nevos Sea]] and [[Gulf of Chardon]], amongst other places. Outside of a few very unique places ([[Ursk]], [[Xurkhaz]]) there is nowhere it would be implausible for a halfling to be
 - In general, most common as a traveling caravan or vessel; plausible as a settled community or small family group anywhere there is trade, roads - but an individual or small group could really be anywhere, for unique reasons
+- Renowned as sailors, and many long distance ships are halfling owned and crewed
 - However, halfling villages and towns don't really exist; when they settle it is with other species
 - Of all the "Elder Folk", halflings are by far the most likely to be found living with humans and others, often in long-term co-existence (cf [[Vargaldi]]) 
+
+###  Halflings in Play
+- Typical professions: as travelers driven by wanderlust, many halflings are traders, merchants, sailors, bards, and sometimes even pirates or bandits. Those who do settle often gravitate towards inns and taverns, and are frequently innkeepers. This doesn't mean there can't be like a halfling tailor in a big city, but that would be at least slightly unusual compared to a typical halfing. 
+- Vibes: many halflings are story oriented and love both the telling and the hearing of tales; many also tend not to care deeply for material wealth, preferring not to accumulate more than they can comfortably carry with them, but of course these don't have to be universally true. Halflings tend to be true to their word, and remember ancient oaths more than others, though like all people they are not necessarily perfect. Reputation, however, is likely fairly central in halfling communities and a reputation for evil spreads fast through the ancestral mind. Halfling villains are certainly possible but would usually be isolated and exiled from their halfling kin. 
+- Trade: halflings often seek unusual goods, and low-bulk, high-value goods; a halfling grain caravan is possible, but relatively unlikely compared to e.g. spices. 
+- Magic: halfling provide a good opportunity to expose strange quirks of the ancestral memory, e.g. halflings remembering someone's distant ancestors or similar. Halflings are a good opportunity for unusual magic around memory and telepathy: in the [[Great War Campaign]] halflings were used to send long distance telepathic messages, and in the [[Dunmari Frontier Campaign]] [[Wellby]] had the ability to telepathically communicate with animals, and occasionally was able to gain flashes of memories of halflings from the past (cf [[Wellby]] page).
 
 ### Religion and Metaphysics
 - A key component of halfling metaphysics is the "ancestral memory" (sometimes called the soulmind in older brainstorming). The exact details of this are not well developed. It is mechanically represented by the "Memory of the Ancestors" trait, and in play this often takes the form of having access to the memories of other halflings, in glimpses at least. However, the implications for the metaphysics of halfling gods, the fate of halflings after death, and the plane of the halfling firstborn are not invented. Some ideas:
@@ -108,7 +118,9 @@ In these ancient tales of years, halflings tell of wandering even when the world
 - Because of these considerations, halflings very frequently have special consideration in the laws of the communities they inhabit. Various kinds of charters, compacts, and treaties often guarantee passage across the realms of other species, protect caravans/wayhouses, and grant limited extraterritoriality to recognized freeholds (such as established inns).  
 
 ### Trade Practices, Ships, Caravans
-- Many halfling ships and caravans function like a mix of a family business and a small village. Though presumably the details are variable, a common model is more-or-less a worker-owned collective, though potentially family elders may have more "shares" than outsiders or newcomers. So for example a typical halfling trading vessel on the Green Sea might first take care of ship needs from profits (repairs, restocking, etc), and then pay out remaining funds equally, or equally by share. However, 
+- Many halfling ships and caravans function like a mix of a family business and a small village. Though presumably the details are variable, a common model is more-or-less a worker-owned collective, though potentially family elders may have more "shares" than outsiders or newcomers. So for example a typical halfling trading vessel on the Green Sea might first take care of ship needs from profits (repairs, restocking, etc), and then pay out remaining funds equally, or equally by share, though many of the crew would likely hold their funds in a common "bank" of some kind and only withdraw when needed. However, this doesn't have to be the only arrangement, just should probably be the most common one. Cf [[Things/Ships/Emerald Song|Emerald Song]], [[Wave Dancer]], [[Summer's Breeze]], [[Stormdancer]] for halfling ships introduced in play, and [[Charmhearts]] for a halfling family caravan introduced in play, also [[Merriweathers]] for smaller scale merchants. 
+- Halfling inns and taverns probably play a common role of helping keep information moving, find crew, etc. Cf [[Session 47 (DuFr)]], when Wellby goes to the halfling inn in Darba for information about ships, etc. Cf [[Stonebridges]] for halfling inn (though note [[Oona Stonebridge]]).
+- Halflings play a bit of a unique role in the Taelgar sailing ecosystem: they are should have a reputation as great sailors, and also adventurous sailors who are the ones that make the long journeys to distant lands and have the best blue-water ships. This doesn't mean there are no human sailors, obviously, and halfling ships tend to small and maneuverable, often carrying light, high-value cargo. But if a ship comes into port in Chardon from across the Sea of Storms bringing exotic goods from the far south, odds are it is halfling owned and crewed. Cf [[Ship Designs in Taelgar]] for some brainstorming notes. 
 
 ### Sources
 - Primary accounts: [[Story About Halfling Merchants]]; [[Halfling Shanties of the Green Sea]]
@@ -118,6 +130,13 @@ In these ancient tales of years, halflings tell of wandering even when the world
 - Legal/treaty context (Sembara-focused): [[Email - Other Sembara Thoughts]]; [[Land Holding in Sembara]]; [[Taxes in Sembara]], [[Discord Chat - Non-humans in Sembara]]
 - Other Discussion (may be old/outdated): [[Discord Chat - Species]], [[Discord Chat - Deep History]],[[Email  - Taelgar Races]] ,[[Email - A Few Thoughts on Taelgar Races]], [[Email - Brief Thoughts on Elder Races]]
 
+### Key Discord Chats
+- [[2023-01-10]]: Halfling caravan
+- [[2023-10-30]]: Species brainstorming
+- [[2023-11-04]]: Hobgoblin interactions
+- [[2024-01-05]]: Halflings and Sembara land holding and taxes
+- [[2024-07-12]]: Halflings and Common, trade pidgins, languages
+
 ### Brainstorming 
 *These are ideas that have come up, largely in discussions with Schwartz.*
 
@@ -126,35 +145,6 @@ In these ancient tales of years, halflings tell of wandering even when the world
 - Halflings count the days since time began, in a long cycle that repeats.
 - Halfling gods connection to time -- the story of the years already exists and the telling is remembering in a sense; connection to firstborn, the “memories of the future”. Racial consciousness connects here too, perhaps somehow they can remember the future?
 - Creation Story: The First Ones set halflings wandering so music, trade, and tales would bind the world; origins are preserved in songs and rites rather than foreign chronicles.
-
-%% Note the details beyond this point are AI-generated and are not necessarily canonical. Still needs review and integration into the main note if true %%
-### Trade Practices and Institutions
-- Route‑libraries and price boards at halfling wayhouses support route knowledge and commodity rate sharing across families
-- Guildhall‑style inns double as hiring posts, mail drops, and kin registries; caravans and ships post shares, crews, and routes.
-### Ship & Caravan Crews
-
-- **Crew makeup:** Owner-clan often, but not always, supplies ≥50% of crew and most officers; remaining berths go to partner families and trusted independents (adventurous youths, land-clan sailors, shipwreck survivors, specialists).
-- **Natural sailors:** Renowned for blue-water routes and tight ship-handling; vessels are compact, efficient, and optimized for halfling crews.
-- **Profits**: Profits of the journey are usually split evenly, after the needs of the ship have been taken care of, although typically excess funds are retained in a ship's account and paid out based on time served on departure of a crew member, or to their clan on death.
-- **Governance aboard:** Major purchases by majority vote; all halfling crew treated as family; orders called aloud on watch; one-to-one counsel via **mind-speech**.
-- **Caravan parity:** Road companies mirror sea practice—pooled funds, rotating duties, and organizational structure, although vary much more widely in size.
-- **Edge cases:** A minority take to piracy or banditry; even then, crews tend to keep internal share-law and memory-debt obligations.
-
-
-### Using Halflings in Play
-- Trade networks: use halfling companies to move news, goods, and rumors across frontiers; a single family badge can recur across ports and roads.
-- Memory‑debts: hooks where a favor owed to an ancestor is repaid—or called in—at an inconvenient moment; excellent leverage for intrigue without villains.
-- Crossroads and inns: hubs for gathering parties, black‑market exchanges, and neutral‑ground parleys. Some freeholds operate outside ordinary manorial ties.
-- Sea arcs: shanties, storms, and salvage; halfling crews make fine patrons, rivals, or employers for maritime adventures.
-- Typical professions: as travelers driven by wanderlust, many halflings are traders, merchants, sailors, bards, and sometimes even pirates or bandits. Those who do settle often gravitate towards inns and taverns, and are frequently innkeepers. 
-
-### Roleplaying Halflings
-- Voice and bearing: warm, quick‑witted, and observant; direct in business, expansive in hospitality.
-- Ethics: a deal kept is a reputation earned; generosity where it binds communities together; sharp memory for slights against kin or guests.
-- Table mannerisms: spontaneous songs; toasts naming absent friends; quiet mind‑to‑mind “aside” between kin before answering a hard question.
-- Vibes: halflings love stories, both the telling and the hearing. They have little use for material wealth, preferring not to accumulate more than they can comfortably carry with them, but will often value a few precious mementos highly. 
-- As traders and merchants they seek unusual goods, whether rare magics or beautiful art or exotic spices. 
-- They enjoy living life to its fullest no matter where they may be, and are eternal optimists even in dire times. 
 
 
 %%^End%%
