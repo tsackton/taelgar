@@ -26,8 +26,6 @@ Most hobgoblins speak a common creole, derived from the language of Cha'mutte's 
 %%^Campaign:None%%
 
 Katonylev is based on Hungarian, which is an Uralic language most closely related to Finnish. In general any kind of consonant heavy names that feel vaguely "harsh" likely work, but names that feel very obviously Slavic should probably be avoided. Other hobgoblin languages may have diverse real world mappings, and it is possible for names to be in languages other than Goblin or retain aspects of clan-tongues, providing an easy way to explain / contextualize diverse hobgoblin names if needed. 
-
-
 %%^End%%
 ## Lifecycle
 
@@ -61,51 +59,46 @@ Much of the decades after the [[Great War]], however, were defined by hobgoblin 
 %%^Campaign:None%%
 ## Details for DMs 
 
-### Clans and Locales
-- [[Shattered Ice Clan]] held stretches south of the [[Enst]] and west of the [[Aure]] between wars before being forced back into the Sentinels.
-- [[Blackened Claw]] entrenched near [[Raven's Hold]] until destroyed in the [[Northern War]].
-- Iron Fang remnants lingered around Isingue and the southern marches; Bitter Knife rose and fell along the Nashtkar.
-- [[Skullcleaver Clan]] controls a hobgoblin realm on northeastern [[Irrla]] and shifted to piracy during the 1730s, constrained by [[Republic of Svolhas|Svolhas]].
-- Remnants once ruled along the north [[Chardon]] coast; scattered bands still range north of [[Voltara]]. Borderworks in [[Xurkhaz]] and the [[March of Andonne]] face south because warbands still muster in ruined passes.
+### Open Questions
+- What is the nature of hobgoblin clans, exactly? Are these best thought of as nations, as armies, as something else? 
+- How are clans lead? Several canonical clans span far greater lengths than is plausible for a single leader; presumably leadership various somewhat from group to group, but really no details are developed. 
+- What are the impacts of hobgoblins unique metaphysics? Are hobgoblins strictly an "enemy species" or are neutral hobgoblins possible? How much of the current day attitude of hobgoblins is a consequence of the Great War and its aftermath? A possible aspect of this is slavery has been vaguely established as a uniquely hobgoblin institution. 
+
+### Hobgoblins in Play
+- While hobgoblins can potentially appear in any open unsettled space on the fringes of society, or in the wilderness, some care should be given to hobgoblin populations as they are typically organized and have purpose. A random orc horde can emerge from the hills and attack a town; a hobgoblin army doesn't just appear for no reason.
+- A lot of detail about hobgoblin movements and locations in the years after the Great War is in [[Hobgoblin Movements After Cha'Mutte]]; this can be added to, but shouldn't be contradicted. 
+- Known clans include:
+	- [[Shattered Ice Clan]], held stretches of southern Sembara at times but was largely wiped out during the [[Third Hobgoblin War (Sembara)]]. Some remnants may exist on the fringes of the [[Sentinel Range|Sentinels]], particularly around the source of the [[Enst]] and west of [[Duchy of Maseau|Maseau]], but possibly this group is completely destroyed. 
+	- [[Blackened Claw]], entrenched near [[Raven's Hold]] and generally the northwestern part of the [[Nashtkar]] until destroyed in the [[Northern War]]. Likely extinct in the current day. 
+	- [[Iron Fang]], involved early wars immediately after the end of the Great War in southern Sembara; pushed back deep in the [[Plaguelands]]; an [[Iron Fang]] army emerged to fight against the forces of Aurbez in 1749 but was defeated with the aid of the [[Dunmar Fellowship]]. Whether any Iron Fang remnants survive in the [[Plaguelands]] is unknown.
+	- The Bitter Knife clan fought in the [[Bitter Knife War]] against Dunmar, but was defeated. Any survivors would likely be found in the [[Nashtkar]] or the western edge of the [[Plaguelands]]. These are potentially the source of postulated hobgoblin raiders around the [[Aurbez Plateau]]. 
+	- [[Skullcleaver Clan]] controls a hobgoblin realm on northeastern [[Irrla]] and shifted to piracy during the 1730s, constrained by [[Republic of Svolhas|Svolhas]]. These were potentially not remnants of Cha'mutte's armies, and are not discussed in [[Hobgoblin Movements After Cha'Mutte]]
+	- Several clans were involved in conflicts on the west coast in the years after the [[Great War]], but details have not been invented for the most part. It is plausible that remnants of these clans, or survivors of Pandar, exist on the west coast still. 
+	- Small groups of hobgoblins exist north of [[Voltara]], but this may be a tiny group struggling to survive, rather than a full-fledged clan/army. 
+- Canonically, Cha'mutte was able to recruit (whether voluntarily or by coercion) large numbers of the hobgoblins that lived in northwestern Taelgar to fight in the Great War, so the history of hobgoblins in this part of the world was radically reshaped. But hobgoblins in the eastern Green Sea, the edges of Apporia, or the south potentially were less affected by Cha'mutte and may be more diverse. 
 
 ### Tactics and Occupation
-- Seize crossings and high ground; throw up earthworks and palisades within days.
-- Break mobility: destroy or control bridges (e.g., at [[Rinburg]]), cut roads, and anchor supply in fortified camps (e.g., near [[Dallet]]).
-- Occupation policy: confiscate arms, tax harvests, assign labor quotas; brutality scales with resistance. When a town submits, they prefer garrisons and tribute over sack—when it does not, they make examples ([[Cleenseau]]).
-- Adaptable modes of war: massed infantry with engineer cadres; in coastal realms, raiding fleets and maritime interdiction ([[Skullcleaver Clan]]).
+- Hobgoblins should be perceived as skilled and feared warriors; their lines rarely break under pressure and they are capable of winning against larger foes
+- Hobgoblin batte wizards are common, often (but not always) rely on fire magic, and typically have mechanical abilities to allow their allies to be unaffected by their spells.
+- Hobgoblin clerics do not exist; hobgoblins may have magical healing via alchemy or potions or similar, but never have divine magic.
+- Hobgoblins are more authoritarian dictators and slavers than just mindlessly brutal, and also have enough strategic foresight to balance a reputation for brutality. They may slaughter anyone who resists, but towns that surrender are often taxed and allowed to escape with relatively little death. 
+- For hobgoblins taxes and enslavement might not be far off; plausibly hobgoblins believe that lesser species naturally owe them the products of their labor, so when they govern a place they order people what to do and take what they need of the product and there is no freedom of movement. But they recognize that people need food to live and productivity is lower if the population is starving/cold, so living under hobgoblin rule is usually grueling and unpleasant, but not particularly deadly as long as you follow the rules and do what you're told.
+- However this may vary from group to group, and at least some hobgoblin armies and clans potentially do practice chattel slavery, sending humans back to live in hobgoblin towns and cities as slaves. 
+- There are significant details about the consequences of hobgoblin occupation spread across various notes; cf in particular [[Cleenseau History Notes]]
 
-### Using Hobgoblins in Play
-- Strategic pressure: make crossings, roads, and granaries the stakes; let fort-building change the map between sessions.
-- Occupier storylines: curfews, levies, banned militias, informants, and black markets. PCs break sieges, smuggle arms, rescue conscripts, or sabotage works.
-- Flexible threats: infantry columns in the marches; pirate flotillas on Irrla; disciplined mercenaries in a human tyrant’s pay.
-- Allies and foils: mind flayer advisers, dragon patrons, or rival clans; they negotiate when tribute or strategic withdrawal serves the campaign.
+### Metaphysics and Creation
+- Hobgoblins are the handiwork of the [[Void Mind]], a dark mirror to [[Humans]] in the schemes of the high gods. 
+- Tales speak of legions first raised in secret before the [[The Downfall]], and later gathered under [[Cha'mutte]] in the [[Great War]]. Whether clans share a single rite of origin, or many, remains unwritten in human records.
+- They lack soulstuff entirely, and may actively repel soulstuff. 
+- No magic can call a hobgoblin back from death, except perhaps revivify or similar magic cast within moments of death. 
 
-### Roleplaying Hobgoblins
-- Voice and bearing: clipped orders, rank-first etiquette, tactical focus; contempt for disorder, respect for efficiency and brave opponents.
-- Ethics of occupation: keep the roads open and the granaries full; punish rebels, tax the rest. Promises made by officers are enforced—until overruled by a higher rank.
-- Negotiation: they bargain cleanly for hostages, tolls, and ceasefires; treachery is rare but swift when faced with deceit or broken terms.
+### Sources
 
-## Metaphysics
 
-Hobgoblins are widely believed to be the handiwork of the [[Void Mind]], a dark mirror to [[Humans]] in the schemes of the high gods. They are said to lack soulstuff entirely; many priests claim that no magic can call a hobgoblin back from death, though scholars debate rare exceptions.
+### Key Discord Chats
 
-## Creation Story
 
-Tales speak of legions first raised in secret before the [[The Downfall]], and later gathered under [[Cha'mutte]] in the [[Great War]]. Whether clans share a single rite of origin, or many, remains unwritten in human records.
-
-%% Guidance: Keep metaphysical and origin specifics off-stage for players unless a story demands it. %%
 %%^End%%
-
-%%
-I have some DM folder notes about hobgoblin tactics and such that might contribute to the vibe but are perhaps more specific to shattered ice and similar specific clans - tagging Mike until I get a chance to review 
-
-should capture some vibes based details from various discussions and backlinks and history before marking page complete
-
-notes from Discord
-
-one other thing about hobgoblins - while I think in context it makes sense that they would have put the people of Cleenseau to death given the strategic location as a beachhead, I think of hobgoblins more as authoritarian dictators and slavers than just mindless brutality, and also having enough strategic foresight to balance a reputation for brutality. for example perhap they slaughter anyone who resists, but towns that surrender are taxed, and perhaps some are enslaved, but allowed to escape with relatively little death. and also I guess for hobgoblins taxes and enslavement might not be far off - maybe it is something like they believe that humans naturally owe hobgoblins the products of their labor, so when they govern a place they order people what to do and take what they need of the product. and there is no freedom of movement, or anything. but this isn't chattel slavery, particularly. and of course they recognize that people need food to live and productivity is lower if the population is starving/cold, so living under hobgoblin rule is usually grueling and unpleasant, but not particularly deadly as long as you follow the rules and do what you're told
-
-%%
 
 
 
