@@ -35,19 +35,31 @@ Little is known about hobgoblin reproduction, age of maturity, family life, or a
 
 %% likely that hobgoblins mature quickly and also have very short old ages %%
 
----
 ## Settlements and Homelands
 
-Hobgoblins favor hard country and chokepoints: the shoulders of the [[Sentinel Range]], the margins of the [[Plaguelands]], and exposed coasts where fleets can harry trade, such as parts of [[Irrla]]. They raise earthworks quickly, seize crossings, and garrison captured towns as command posts; one infamous example was the sack and fortification of [[Cleenseau]] during the Third Hobgoblin War. Border forts in Sembara and Dunmar still face south and west because of such campaigns.
-## Cultural Traits
+Since Cha'mutte's defeat in the [[Great War]], hobgoblins have gradually been pushed away from human realms, and now tend to occupy marginal land where they can, surviving at the margins of the [[Plaguelands]], in the foothills of the [[Sentinel Range|Sentinels]], and the northern slopes of the [[Fiatara Mountains]]. 
 
-Under clan banners they rule like occupying armies: order first, tribute second. They confiscate arms, compel labor, and parcel out the best land to their officers. Resistance is punished severely, yet communities that submit are often taxed and conscripted rather than destroyed. Some clans bargain with strange allies or turn to piracy, but all uphold strict discipline and hierarchy.
+%% no other details of hobgoblin settlements are invented, though see DM Notes below. no details about hobgoblin towns or cities are invented. %%
+
+## Cultural Traits
+Hobgoblin societies are organized around discipline and strict hierarchy, with hobgoblins inevitably seen as above all other species. Occupation of the realms of other species, when hobgoblins manage it, can be brutal, but hobgoblins are not mindlessly evil. While in some cases they will decimate towns or conscript large swaths of the population into bondage and slavery, those that surrender are often taxed and put to work instead. Hobgoblins are unusual among the species of Taelgar in their practice of slavery.
+
+Whether hobgoblins have art, or music, or other creative endeavors is not known, though a small number of decorative arts, particularly martial items, are known. 
+
+Hobgoblins have no religion, worship no gods, and have never been observed to use divine magic. 
+
+%% Presumably they suppress religion in areas they rule, but not sure if this has ever been fully established. %%
+
 ## Historical Perspective
 
-In the years after the Great War, hobgoblin hosts marched and settled through the Blood Years, sometimes ruling human lands for a generation before being driven back. Along the Enst and Aure valleys their wars reshaped borders; in Dunmar they held strongholds until northern armies erased them. The present peace rests on walls, watchtowers, and the hard memory of those years.
+The history of hobgoblins prior to the Great War is poorly known, though many fought in the wars between the [[Dominion of Avatus]] and [[Duchy of Maseau|Maseau]], [[Wisford]], [[Addermarch]], and others, and hobgoblins were a major threat in northern [[Dunmar]] and the [[Aurbez Plateau]] area in the years before the [[Great War]]. 
+
+Much of the decades after the [[Great War]], however, were defined by hobgoblin wars, shaping the history of [[Sembara]], [[Dunmar]], the [[Chardonian Empire]], and more. In these years, hobgoblins often ruled human lands for a generation, or more, before being driven back. 
+
+%% see: [[Hobgoblin Movements After Cha'Mutte]]; at some point, some player-facing summaries of the Blood Years hobgoblin wars might be useful %%
 
 %%^Campaign:None%%
-## Details for DMs
+## Details for DMs 
 
 ### Clans and Locales
 - [[Shattered Ice Clan]] held stretches south of the [[Enst]] and west of the [[Aure]] between wars before being forced back into the Sentinels.
