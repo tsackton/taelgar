@@ -4,15 +4,14 @@ These are pages that need some kind of cleanup, either metadata, text, image, or
 
 ## All Cleanup
 
-(sorted by Status, each file shows only once though)
+(sorted by backlinks)
 
 ```dataview
 TABLE join(split(file.path, "/", 2), "/") as Folder, 
-      length(file.inlinks) as Backlinks, 
-      replace(filter(file.etags, (x) => startswith(x, "#status/cleanup"))[0], "#status/cleanup/", "") as Status
+      length(file.inlinks) as Backlinks
 FROM #status/cleanup 
-FLATTEN length(file.inlinks) AS BacklinkCount FLATTEN replace(default(filter(file.etags, (x) => startswith(x, "#status/cleanup"))[0], ""), "#status/cleanup/", "") AS StatusValue 
-SORT StatusValue ASC, BacklinkCount DESC
+FLATTEN length(file.inlinks) AS BacklinkCount
+SORT BacklinkCount DESC
 ```
 
 ## Need Metadata Fixes
