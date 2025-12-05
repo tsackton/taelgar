@@ -2,6 +2,7 @@
 headerVersion: 2023.11.25
 tags: [organization]
 name: Shemra Azem
+typeOf: unknown
 whereabouts: Cairn Dor 
 dm_owner: none
 dm_notes: none

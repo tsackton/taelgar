@@ -9,6 +9,7 @@ campaignInfo:
 - {campaign: GL, type: aided}
 dm_owner: none
 dm_notes: none
+species: elemental
 ---
 
 The roc known as “Silver Feathers of the Storm Cloud, Thunder and Lightning.” The party aided in recovering a stolen egg from elemental conspirators.

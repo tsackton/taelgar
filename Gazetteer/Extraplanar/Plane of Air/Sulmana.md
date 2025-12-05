@@ -2,6 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Sulmana
+typeOf: place
 whereabouts: Elemental Plane of Air
 dm_owner: none
 dm_notes: none

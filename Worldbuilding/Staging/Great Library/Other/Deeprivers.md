@@ -2,6 +2,7 @@
 tags: [organization, status/check/ai]
 name: Deepriver Clan
 ancestry: dwarven
+typeOf: clan
 whereabouts: Goldpeak Mountain (Fiamatara Mountains)
 campaignInfo:
 - {campaign: GL, type: mentioned, date: 1747-06-01}

@@ -9,6 +9,7 @@ campaignInfo:
 - {campaign: GL, type: encountered, date: 1747-06-06}
 dm_owner: none
 dm_notes: none
+species: human
 ---
 # Xameia the Forsworn
 

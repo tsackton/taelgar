@@ -1,6 +1,7 @@
 ---
 tags: [organization, status/check/ai]
 name: Havoc Host
+typeOf: mercenary company
 whereabouts: North Bay Coast (activity)
 campaignInfo:
 - {campaign: GL, type: encountered, date: 1748-08-23}

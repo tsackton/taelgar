@@ -7,6 +7,7 @@ affiliations:
 - { org: "The Rangers"}
 dm_owner: tim
 dm_notes: none
+species: unknown
 ---
 # Cadan
 >[!info]+ Biographical Info  

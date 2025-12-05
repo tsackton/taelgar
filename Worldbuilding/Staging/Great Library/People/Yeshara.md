@@ -8,6 +8,7 @@ campaignInfo:
 - {campaign: GL, type: researched}
 dm_owner: none
 dm_notes: color
+species: unknown
 ---
 # Yeshara
 

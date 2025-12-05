@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
+typeOf: open field
 name: Tollen Fairgrounds
 whereabouts: Fairgate Outer
 dm_owner: none

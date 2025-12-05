@@ -7,6 +7,7 @@ campaignInfo:
 - {campaign: GL, type: rescued, date: 1747-06-11}
 dm_owner: none
 dm_notes: none
+species: human
 ---
 # Ralvaz
 
