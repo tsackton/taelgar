@@ -11,7 +11,7 @@ dm_notes: none
 ---
 # The Imperial Chalyte Mining Company
 >[!info]+ Information  
-> A [[Chardonian]] imperial charter company  
+> A [[Chardonian Empire|Chardonian]] imperial charter company  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 > Parent Organization: the [[Chardonian Empire]]

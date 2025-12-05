@@ -1,0 +1,26 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("place")
+        - '!file.folder.startsWith("Worldbuilding")'
+        - '!file.tags.contains("status/stub")'
+    order:
+      - file.name
+      - typeOf
+      - subtypeOf
+      - typeOfAlias
+      - ancestry
+      - population
+    sort:
+      - property: typeOf
+        direction: ASC
+      - property: subtypeOf
+        direction: ASC
+      - property: pronunciation
+        direction: ASC
+      - property: typeOfAlias
+        direction: ASC
+      - property: population
+        direction: ASC

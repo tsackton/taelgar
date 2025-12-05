@@ -12,7 +12,7 @@ dm_notes: none
 ---
 # Livia
 >[!info]+ Biographical Info  
-> A [[Chardonian]] [[Humans|human]] (she/her)  
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Mentioned to the [[Dunmar Fellowship]] on January 8th, 1749 %%^End%%
 

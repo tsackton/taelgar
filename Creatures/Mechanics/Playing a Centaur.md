@@ -6,7 +6,7 @@ dm_notes: none
 ---
 # Playing a Centaur
 *See more: [[Centaurs]]*
-D&D Beyond Link: [Species Name](link)
+D&D Beyond Link:
 
 %% status: mechanics are complete but could use a second pass; does not exist in D&D Beyond yet. lore and background clear but needs to be written %%
 

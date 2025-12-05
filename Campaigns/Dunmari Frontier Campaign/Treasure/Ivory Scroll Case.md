@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags: [item/equipment]
 typeOf: scroll case
-mundane: true
 ---
 # The Ivory Scroll Case
 >[!info]+ Information  

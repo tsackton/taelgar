@@ -15,7 +15,7 @@ dm_notes: none
 ---
 # Claudio
 >[!info]+ Biographical Info  
-> A [[Chardonian]] [[Humans|human]] (he/him)  
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Mentioned to the [[Dunmar Fellowship]] on January 8th, 1749 %%^End%%

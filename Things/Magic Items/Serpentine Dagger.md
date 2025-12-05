@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub]
+tags: [status/stub, item]
 typeOf: weapon
 typeOfAlias: dagger
 dm_notes: important

@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/stub]
+aliases: [Chardonian]
 name: Chardonian Empire
 typeOf: realm
 whereabouts: Greater Chardon

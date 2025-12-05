@@ -15,7 +15,7 @@ dm_notes: none
 ---
 # Amus
 >[!info]+ Biographical Info  
-> A [[Chardonian]] [[Humans|human]]  
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:GL%% Ransomed by the [[Silver Tempests]] on July 10th, 1747 in [[Greater Voltara]], the [[Chardonian Empire]] %%^End%%
