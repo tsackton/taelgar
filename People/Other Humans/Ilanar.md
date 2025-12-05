@@ -5,6 +5,7 @@ name: Ilanar
 dm_owner: tim
 dm_notes: none
 pronunciation: ee-lah-NAHR
+species: unknown
 ---
 # Ilanar
 *(ee-lah-NAHR)*

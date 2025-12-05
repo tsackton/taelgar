@@ -15,7 +15,7 @@ views:
       - partOf
     sort:
       - property: typeOf
-        direction: DESC
+        direction: ASC
       - property: pronunciation
         direction: ASC
       - property: typeOfAlias

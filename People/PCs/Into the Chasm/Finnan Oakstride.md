@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, pc]
+dm_owner: player
+dm_notes: important
 species: halfling
 born: 1678
 gender: male

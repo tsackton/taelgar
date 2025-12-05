@@ -2,6 +2,7 @@
 tags: [organization, status/check/ai]
 name: Red Knife tribe
 ancestry: goblin
+typeOf: clan
 whereabouts: Roads north of Voltara (encountered)
 campaignInfo:
 - {campaign: GL, type: encountered, date: 1747-04}
