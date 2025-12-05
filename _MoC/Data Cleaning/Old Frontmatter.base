@@ -10,7 +10,6 @@ views:
         - '!file.folder.startsWith("assets")'
     order:
       - file.name
-      - family
       - fc-date
       - fc-end
       - timelineDescriptor

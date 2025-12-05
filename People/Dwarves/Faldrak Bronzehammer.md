@@ -9,7 +9,8 @@ species: dwarf
 ancestry:
 gender: male
 aliases: [Faldrak]
-family: Bronzehammer
+affiliations: 
+- {org: Bronzehammers, type: primary}
 whereabouts:
 - {type: home, start: '', end: 1693-01-01, location: Fahnukan}
 - {type: away, start: 1693-01-01, end: '', location: Feywild}
@@ -22,8 +23,9 @@ dm_owner: tim
 ---
 # Faldrak Bronzehammer
 >[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him)  
+> A [[Dwarves|dwarf]] (he/him), of Bronzehammers  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% First met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
 
