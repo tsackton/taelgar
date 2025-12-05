@@ -8,7 +8,7 @@ dm_notes: none
 ---
 # Lizardfolk
 
-%% status/needswork/incomplete -> Lifecycle needs some decisions to finalize %%
+%% status/incomplete -> Lifecycle needs some decisions to finalize %%
 
 >[!quote] Lizardfolk saying, author unknown
 *At misty daybreak*

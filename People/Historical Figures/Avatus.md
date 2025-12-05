@@ -14,6 +14,8 @@ dm_owner: joint
 >[!info]+ Biographical Info  
 > A [[Humans|human]] (he/him)
 
+%% status/incomplete -> extensive discussion, brainstorming, and invention not captured; highly significant in Addermarch and Cleenseau campaigns, at least as backstory to dungeons %%
+
 The ruler of an autocracy established on the southern edge of Sembara in the DR 1420s. Commissioned the [[Mirror of Soul Trapping]]. 
 
 %% Tim: is he a human or hobgoblin or do you care? I've been thinking of him as a hobgoblin but I'm not sure it matters. He has come up a bunch in my game though so I'd like to decide. 

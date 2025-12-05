@@ -12,6 +12,7 @@ dm_owner: mike
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
+%% status/incomplete -> exactly the way this developed seems important %%
 
 An agreement between the [[Goristo]] and the [[Archfey Ethlenn]] signed in DR 423.
 

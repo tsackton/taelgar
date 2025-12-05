@@ -19,4 +19,6 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% status/incomplete ->  significant in multiple games (Addermarch, and especially Cleenseau) and page is currently very under-detailed for importance %%
+
 ![[Lord_Umbraeth_Potrait.png|right|320]]Lord Umbraeth, the Gloomshaper, is the ruler of [[Duskmire]]. 

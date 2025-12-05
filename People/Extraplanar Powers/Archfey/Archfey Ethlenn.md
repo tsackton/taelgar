@@ -15,6 +15,8 @@ dm_owner: mike
 > An [[Fey|archfey]] (she/her)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% status/incomplete ->  significant in multiple games (Addermarch, and especially Cleenseau) and page is currently very under-detailed for importance %%
+
 The ruler of [[Twilight's Grace]] and patron of [[Tyrwingha]]. 
 
 A sketch of her supposed appearance

@@ -19,7 +19,7 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% copy notes from OneNote %%
+%% status/incomplete -> significant NPC; copy notes from OneNote %%
 
 Supreme Oracle of Shakun.
 

@@ -6,6 +6,8 @@ dm_notes: color
 dm_owner: none
 ---
 
+%% status/incomplete ->  significant holiday but not enough information to actually really run  %%
+
 A festival of homecoming dedicated to the Wanderer, celebrated in December. 
 
 %% NOTES

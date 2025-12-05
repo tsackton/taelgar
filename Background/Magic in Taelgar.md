@@ -7,7 +7,7 @@ dm_owner: joint
 ---
 # Magic in Taelgar
 
-%% lots of stuff still to flesh out:
+%% status/incomplete ->  lots of stuff still to flesh out:
 - impact of rare high level spells
 - non-clerics
 - magic items (both common and rare)
