@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, historical, status/cleanup/incomplete]
+tags: [place, historical, status/incomplete]
 dm_notes: important
 dm_owner: shared,tim
 typeOf: island

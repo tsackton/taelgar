@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/cleanup/incomplete]
+tags: [background, status/incomplete]
 dm_owner: none
 dm_notes: none
 ---

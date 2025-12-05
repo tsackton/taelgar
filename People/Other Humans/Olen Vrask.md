@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/gameupdate, status/cleanup/metadata]
+tags: [person, status/gameupdate/base, status/cleanup/metadata]
 gender: male
 species: human
 ancestry: Urskan

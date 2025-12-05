@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/old, source]
+tags: [status/needswork, source]
 dm_owner: shared
 dm_notes: important
 ---

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/wip]
 displayDefaults: {defArt: 'the' }
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
@@ -21,7 +21,7 @@ dm_notes: none
 * [ ] Climate
 * [ ] Climate - Real World
 * [x] DM Notes
-%%d
+%%
 
 The halfling story of the western [[Green Sea]] is one of mariners and sailors, crumbing [[Cymea|coastal cities]] and proudly independent [[Skaer]], numerous settlements along the coast, and mystery and danger inland. This is a maritime region, and the Green Sea itself dominates the culture and topography of the region.
 ## Map

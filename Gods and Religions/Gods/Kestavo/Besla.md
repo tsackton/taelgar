@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/kestavo, status/needswork/old]
+tags: [deity, religion/kestavo, status/needswork]
 gender: female
 dm_owner: none
 dm_notes: none

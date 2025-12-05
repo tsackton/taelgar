@@ -1,17 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - historical
-  - person
-  - status/needswork/shared
+tags: [historical, person, status/incomplete]
 name: Avatus
 born:
 species: human
 ancestry:
 title: Emperor
 gender: male
-dm_notes: color
-dm_owner: mike
+dm_notes: none
+dm_owner: joint
 ---
 # Emperor Avatus
 >[!info]+ Biographical Info  

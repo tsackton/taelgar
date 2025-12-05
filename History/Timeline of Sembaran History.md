@@ -1,5 +1,5 @@
 ---
-tags: [background, status/needswork/old, status/check/tim, status/check/mike]
+tags: [background, status/needswork, status/check/tim, status/check/mike]
 displayDefaults: {defArt: a}
 name: Timeline of Sembaran History
 timelineDescriptor: Sembaran History

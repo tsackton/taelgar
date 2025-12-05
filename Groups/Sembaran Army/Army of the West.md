@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/gameupdate]
+tags: [organization, status/gameupdate/base]
 campaignInfo: []
 displayDefaults: {partOf: 'part of <partof>', boxInfo: ''}
 name: Army of the West

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/incomplete, status/check/mike]
+tags: [place, status/incomplete, status/check/mike]
 name: Ardlas
 typeOf: realm
 whereabouts: Greater Sembara

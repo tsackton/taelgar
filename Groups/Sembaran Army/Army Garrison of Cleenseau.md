@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, testcase, status/needswork/gameupdate]
+tags: [organization, testcase, status/gameupdate/base]
 displayDefaults: {partOf: '<typeof:Au> of <partof>', boxInfo: ''}
 name: Army Garrison of Cleenseau
 partOf: Dunfry Regiment

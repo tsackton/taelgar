@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/dunmarfrontier, status/active]
+tags: [pc, person, pc/dunmarfrontier]
 campaignInfo: []
 name: Kenzo
 born:

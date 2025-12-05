@@ -1,5 +1,5 @@
 ---
-tags: [event, status/cleanup/incomplete]
+tags: [event, status/incomplete]
 dm_notes: none
 dm_owner: mike
 ---

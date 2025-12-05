@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/cleanup/text, status/cleanup/map]
+tags: [background, status/cleanup/text, status/cleanup/map, status/gameupdate/base]
 excludePublish: ["all"]
 dm_owner: joint
 dm_notes: none

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/cleanup/incomplete]
+tags: [organization, status/incomplete]
 displayDefaults: {partOf: ""}
 ancestry: Chardonian
 name: Society of the Open Scroll

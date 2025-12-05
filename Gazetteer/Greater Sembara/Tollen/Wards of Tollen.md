@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/old]
+tags: [status/needswork]
 ---
 # Wards of Tollen
 

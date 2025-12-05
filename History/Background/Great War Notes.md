@@ -1,5 +1,5 @@
 ---
-tags: [background, status/cleanup/incomplete]
+tags: [background, status/incomplete]
 dm_owner: joint
 dm_notes: important
 excludePublish: ["all"]

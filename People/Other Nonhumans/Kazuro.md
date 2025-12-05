@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/cleanup/gameupdate]
+tags: [person, status/cleanup/metadata, status/gameupdate/cleanup]
 species: stoneborn
 gender: male
 dm_notes: color

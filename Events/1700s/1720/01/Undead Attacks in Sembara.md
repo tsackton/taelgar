@@ -1,9 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - event
-  - status/cleanup/incomplete
-  - status/stub
+tags: [event, status/incomplete]
 name: Zombie Plague in Cleenseau
 DR: 1720-01-06
 DR_end: 1720-02-08

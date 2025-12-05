@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ""}
-tags: [organization, status/cleanup/gameupdate, status/cleanup/metadata]
+tags: [organization, status/gameupdate/cleanup, status/cleanup/metadata]
 typeOf: horde
 dm_notes: important
 dm_owner: tim

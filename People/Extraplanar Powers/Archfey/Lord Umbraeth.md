@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/incomplete]
+tags: [person, status/incomplete]
 name: Lord Umbraeth
 excludePublish: ["clee"]
 species: fey

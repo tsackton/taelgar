@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/cleenseau, person, status/active]
+tags: [pc/cleenseau, person, status/gameupdate/active]
 name: Celyn
 born: 1697
 species: human

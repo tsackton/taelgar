@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/old, status/cleanup/gameupdate]
+tags: [organization, status/needswork, status/gameupdate/cleanup]
 displayDefaults: {partOf: '<typeof:AU> in <partof>', boxInfo: ''}
 campaignInfo: []
 aliases: [Sembaran Army, Military of Sembara]

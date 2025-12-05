@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/gameupdate, status/cleanup/metadata]
+tags: [person, status/gameupdate/cleanup, status/cleanup/metadata]
 name: Servius
 born: 1689
 species: human
@@ -24,7 +24,7 @@ A wandering scholar and historian, funded by [[Fausto]] to find rumors of treasu
 
 %% One Note
 
-==Party has not met yet.==
+Party has not met yet
  
 Age: late middle age  
 Current location: left Darba

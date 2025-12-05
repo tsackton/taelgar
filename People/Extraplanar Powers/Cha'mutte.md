@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/needswork/shared]
+tags: [historical, person, status/incomplete]
 name: Cha'mutte
 born:
 species: dragon

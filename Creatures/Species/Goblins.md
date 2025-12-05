@@ -1,5 +1,5 @@
 ---
-tags: [species, status/needswork/old]
+tags: [species, status/wip]
 dm_owner: joint
 dm_notes: none
 ---

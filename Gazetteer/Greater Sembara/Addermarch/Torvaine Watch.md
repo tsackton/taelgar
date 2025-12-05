@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/gameupdate]
+tags: [place, status/gameupdate/base]
 displayDefaults: {defArt: ""}
 typeOf: castle
 whereabouts: Torvaine Forest

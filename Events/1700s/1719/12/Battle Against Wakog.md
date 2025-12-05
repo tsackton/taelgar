@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/cleanup/incomplete]
+tags: [event, status/incomplete]
 name: Battle Against Wakog
 dm_owner: none
 dm_notes: important
