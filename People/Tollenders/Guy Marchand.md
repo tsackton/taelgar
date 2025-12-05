@@ -9,7 +9,6 @@ species: human
 ancestry: Isinguer
 gender: male
 affiliations: [University of Tollen]
-family: Marchand
 whereabouts:
 - {type: home, start: '', end: '', location: 'Tollen'}
 - {type: home, start: 1687-01-02, location: 'Nordgate'}

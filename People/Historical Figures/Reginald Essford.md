@@ -9,9 +9,9 @@ ancestry: Sembaran
 gender: male
 title: Lord
 died: 1689
-family: Essford
 affiliations:
 - { org: Manor of Cleenseau, start: 1651, type: leader}
+- {org: Essfords, type: primary}
 whereabouts:
 - { type: home, location: Cleenseau, start: 1651 }
 dm_notes: color
@@ -19,7 +19,7 @@ dm_owner: none
 ---
 # Lord Reginald Essford
 >[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[Essfords]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

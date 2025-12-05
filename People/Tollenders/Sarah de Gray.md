@@ -8,7 +8,6 @@ born: 1733
 species: human
 ancestry: Isinguer
 gender: female
-family: de Grey
 whereabouts:
 - {type: home, location: Duchy of Maseau}
 - {type: home, start: 1746, location: Tollen}

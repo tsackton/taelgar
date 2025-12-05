@@ -8,7 +8,6 @@ born: 1729
 species: dwarf
 ancestry:
 gender: male
-family: Hardstone
 whereabouts: Tokra
 affiliations: [{type: primary, org: Hardstones}]
 dm_notes: color
