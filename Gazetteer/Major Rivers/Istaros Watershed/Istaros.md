@@ -22,7 +22,6 @@ Near [[Isingue]], the Istaros is joined by the [[Thalurien|Thalúrien]], a major
 
 The upper Istaros ends a hundred miles or so south of Isingue, at the confluence of with the [[~Southern Plaguelands Tributary~]], where the river enters a rocky, broken landscape, where the land was shattered by Cha'mutte's magic.
 
-%% note: Isingue of course is covered in some kind of ooze now %%
 ## Middle Istaros
 
 The Middle Istaros, known as the Drogar to the orcs of Xurkhaz, starts just south of the confluence with the [[~Southern Plaguelands Tributary~]], among the rocky hills of the southern Plaguelands. The river flows through a series of gorges cut into the uplifted land, with several dramatic waterfalls created during the cataclysm after the Great War. 
