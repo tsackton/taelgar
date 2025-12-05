@@ -14,7 +14,7 @@ dm_owner: joint
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% a page like this is never really done. this is complete for usability, but tagging status/incomplete for:
+%% status/incomplete -> a page like this is never really done. this is complete for usability, but tagging status/incomplete for:
  - [ ] a Tyrwinghan perspective on fey inhabitants, in particular would be useful
  - [ ] additional in-world lore and stories of the Archfey would be nice
  - [ ] more non-human perspectives and non-traditional viewpoints (e.g.: orcs, Skaer, Deno'qai) would be particularly nice on a page like this

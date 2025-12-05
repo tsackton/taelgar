@@ -15,6 +15,8 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% status/incomplete -> a blank spot that has minimal clear invention; probably okay to remain status/incomplete for a while %%
+
 %% a fair bit of discussion in discord, but not sure how much of it is (a) relevant, (b) not already captured in [[Humanity in Greater Sembara]] or [[Languages]] %%
 
 %% some details to flesh out:
