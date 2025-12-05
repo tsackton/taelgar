@@ -17,7 +17,7 @@ dm_notes: color
 ---
 # Camana
 >[!info]+ Biographical Info  
-> A [[Dunmari]] [[Humans|human]] (she/her)  
+> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  

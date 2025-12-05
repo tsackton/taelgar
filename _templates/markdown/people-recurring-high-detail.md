@@ -18,7 +18,7 @@ dm_notes:  # default to none
 pronunciation: # optional, only include if available
 ---
 
-![[<optional-image-file>|right|360]]A one-sentence, in-world encyclopedia summary stating ancestry/species, titles/roles, and current base of operations. 
+`![[<optional-image-file>|right|360]]` A one-sentence, in-world encyclopedia summary stating ancestry/species, titles/roles, and current base of operations. 
 
 ## Overview
 

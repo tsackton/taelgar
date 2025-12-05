@@ -80,7 +80,7 @@ Oswyn - Earl Eofric's man, traveled to Dunwick with messenges, heading out of Ad
 ### Earl Eofric
 
 Name: Earl Siggar Eofric  
-Title: Earl Eofric, Earl of [Adderfell](_DM_/OneNote/00_Notes/NPCs/Adderfell/Adderfell.md) and Lord Protector of the Marches  
+Title: Earl Eofric, Earl of Adderfell and Lord Protector of the Marches  
 Bodily appearance: Well-muscled; Broken nose  
 General appearance: Chestnut brown hair; cruel face; soft-spoken; well-kept dress;   
 Memorable mannerisms: Frowns  

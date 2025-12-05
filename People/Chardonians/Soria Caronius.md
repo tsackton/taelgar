@@ -16,7 +16,7 @@ dm_owner: none
 ---
 # General Soria Caronius
 >[!info]+ Biographical Info  
-> A [[Chardonian]] [[Humans|human]] (she/her)  
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
