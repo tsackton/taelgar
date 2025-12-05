@@ -6,19 +6,18 @@ born: 1628
 species: human
 ancestry: Sembaran
 gender: female
-reignStart: 1648-12-11
 title: Queen
 died: 1713-09-12
-leaderOf:
-- {place: Sembara}
-- {place: Tyrwingha}
-affiliations: [House of Sewick]
+affiliations:
+- {place: Sembara, start: 1648-12-11}
+- {place: Tyrwingha, start: 1648-12-11}
+- {org: House of Sewick, type: primary}
 dm_notes: important
 dm_owner: shared
 ---
 # Queen Cece I
 >[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[House of Sewick]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 

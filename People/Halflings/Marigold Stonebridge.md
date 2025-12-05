@@ -5,8 +5,10 @@ campaignInfo: [{campaign: Clee, type: met, date: 1720-01-06}]
 name: Marigold Stonebridge
 born: 1624
 species: halfling
-affiliations: [{org: Stonebridges, type: primary}, Lord's Council of Cleenseau]
-leaderOf: [{place: The Crossroads Inn, title: Proprietor, start: 0001}]
+affiliations: 
+- {org: Stonebridges, type: primary}
+- {org: Lord's Council of Cleenseau}
+- {org: The Crossroads Inn, type: leader, title: Proprietor, start: 0001}
 ancestry: Sembaran
 gender: female
 whereabouts: 

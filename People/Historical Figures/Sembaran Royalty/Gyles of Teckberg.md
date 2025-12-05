@@ -6,7 +6,6 @@ born: 1541
 species: human
 ancestry: Sembaran
 gender: male
-reignStart:
 died: 1632
 affiliations: [{org: House of Teckberg, type: leader} ]
 dm_notes: none

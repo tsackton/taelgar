@@ -1,3 +1,6 @@
+summaries:
+  Unique: values.unique().length
+  Empty: values.filter(value.isType("null")).length
 views:
   - type: table
     name: Table
@@ -7,21 +10,19 @@ views:
         - '!file.folder.startsWith("assets")'
     order:
       - file.name
-      - reignStart
-      - leaderOf
       - family
       - fc-date
       - fc-end
       - timelineDescriptor
       - speciesAlias
     sort:
-      - property: reignStart
-        direction: ASC
-      - property: timelineDescriptor
-        direction: DESC
-      - property: leaderOf
-        direction: ASC
       - property: family
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: speciesAlias
+        direction: DESC
+      - property: timelineDescriptor
         direction: DESC
       - property: fc-date
         direction: ASC
@@ -47,13 +48,14 @@ views:
         direction: DESC
       - property: player
         direction: ASC
-      - property: speciesAlias
-        direction: ASC
       - property: summary
         direction: ASC
       - property: template
         direction: DESC
       - property: affiliations
         direction: DESC
+    summaries:
+      reignStart: Unique
     columnSize:
       note.fc-date: 207
+      note.speciesAlias: 316
