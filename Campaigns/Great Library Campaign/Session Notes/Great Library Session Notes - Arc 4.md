@@ -33,7 +33,7 @@ The party sets off into the [[Blackwater Fens]], with [[Adrik]] leading the way 
 
 In the middle of the night, the [[Nymthrax|dragon]], scouting its territory, finds them, and surprises the camp with a blast of its acid breath. While perched on a tree and taunting them, demanding they join its service or die, [[Adrik]] and [[Aelar]] manage to get on top of it, and are hasted by [[Izkir]]’s magic. As they beat on the dragon from above – and an attempted polymorph of [[Aelar]] into a T-rex is less successful than hoped – the dragon takes to the air, watching the spellcasters and attempting to disruption their concentration. Still, [[Adrik]] and [[Aelar]] do considerable damage before [[Samso]]’s conjured air elemental turns against the party as he falls unconscious, and [[Nymthrax]] flees, wounded.
 
-Rather than attempt to rest here, where the dragon is alerted to their presence, the party hikes overnight to the [[~Blackwater Fens Stone Marker~|stone monument]], and spends the day repairing it using the plan suggested by the [[Bahrazel|Bahrâzel]], at [[Brelith]]’s questioning with the Divination spell. With the monument restored, the party finally rests safely. 
+Rather than attempt to rest here, where the dragon is alerted to their presence, the party hikes overnight to the stone monument, and spends the day repairing it using the plan suggested by the [[Bahrazel|Bahrâzel]], at [[Brelith]]’s questioning with the Divination spell. With the monument restored, the party finally rests safely. 
 
 The next day is spent scrying and scouting, trying to assess the situation before heading for the lair to attack and kill the dragon. 
 
@@ -61,9 +61,9 @@ A few weeks later, they arrive back in [[Voltara]], greeting by [[Julius of Volt
 - (DR:: 1748-01-29): Party encounters [[Deno'qai ]]scouts at a portage on the river. Go to council, learn the Deno'qai want to kill the dragon too.
 - (DR:: 1748-02-01): Party leaves [[Deno'qai]] council with [[Izkir]], a guide and sorcerer blessed by the [[tanshi]], heading for the [[Blackwater Fens]], where the dragon lives.
 - (DR:: 1748-02-09): Party arrives at [[Blackwater Fens]], camps outside to plan. 
-- (DR:: 1748-02-10): Head into [[Blackwater Fens]]. Pass a ruined [[~Blackwater Fens Stone Marker~|stone monument]] marking a treaty between elves and humans. Camp. [[Nymthrax|Dragon]] attacks during the night. 
-- (DR:: 1748-02-11): Wounded and needing a place to rest, return to [[~Blackwater Fens Stone Marker~|treaty stone]] and repair it during the day. Sleep. 
-- (DR:: 1748-02-12): Spend the day scrying and scouting, sleep at the [[~Blackwater Fens Stone Marker~|treaty stone]]. 
+- (DR:: 1748-02-10): Head into [[Blackwater Fens]]. Pass a ruined stone monument marking a treaty between elves and humans. Camp. [[Nymthrax|Dragon]] attacks during the night. 
+- (DR:: 1748-02-11): Wounded and needing a place to rest, return to treaty stone and repair it during the day. Sleep. 
+- (DR:: 1748-02-12): Spend the day scrying and scouting, sleep at the treaty stone. 
 - (DR:: 1748-02-13): Travel through [[Blackwater Fens]] to approach dragon lair. 
 - (DR:: 1748-02-15): Fight bugbear minions of [[Nymthrax]], and then fight and kill [[Nymthrax]] himself. 
 - (DR:: 1748-02-18): Depart [[Nymthrax]] lair, heading back to river. 

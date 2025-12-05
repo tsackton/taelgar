@@ -18,7 +18,7 @@ dm_notes:  # default to none
 pronunciation: # optional, only include if available
 ---
 
-![[<optional-image-file>|right|360]]A one sentence overview of this person in the style of an in-world Wikipedia article.  
+`![[<optional-image-file>|right|360]]` A one sentence overview of this person in the style of an in-world Wikipedia article.  
 ## Overview
 2–4 sentences describing their role in the world, and why they matter. Include a concise vibe/identity statement. Write in the style of an in-world Wikipedia article. 
 

@@ -34,7 +34,7 @@ In general, the idea is that over 30 - 100 years (probably closer to the low end
 At the end of this period, the Drankorian provinces stretch from the Sentinels to the Green Sea, and cover the modern areas of: [[Sembara]], [[Duchy of Maseau|Maseau]], [[Addermarch]], [[Tyrwingha]], and [[Ardlas]]. The Skaer Empire has largely faded away (but see [[Timeline of Skaer History]]), and there are several human cultures within and outside the Drankorian Empire:
 
 * The old Zimka in the north
-* A culture increasingly claiming to be the Zimka, opposed to Drankor (or at least, not part of Drankor), in the highlands and foothills of the Sentinels. This culture develops into the "Zimkovan kingdoms" of [[Breva]], [[Lavnoch]]
+* A culture increasingly claiming to be the Zimka, opposed to Drankor (or at least, not part of Drankor), in the highlands and foothills of the Sentinels. This culture develops into the "Zimkovan kingdoms" of [[Breva]], [[Lavnoch Plateau|Lavnoch]]
 * A central Sembaran culture, speaking Drankorian and worshipping Mos Numena, but with some lasting cultural ideas from the kestavo/Tollish/Zimka culture
 * A coastal/northern Tollish culture, worshipping Mos Numena and speaking both Drankorian and Old Tollish (this becomes Telham/Tollen area)
 * A southern culture, in [[Duchy of Maseau|Maseau]] and the [[Istaros Watershed]], somewhat more purely Drankorian, and worshipping Mos Numena

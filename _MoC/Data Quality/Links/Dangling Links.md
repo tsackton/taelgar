@@ -2,7 +2,7 @@ This lists all the links that are linked but not yet created
 
 ```dataviewjs
 //Min Number of link before showing up
-const InterestLevel = 1 ; 
+const InterestLevel = 0 ; 
 
 //"hash" the missing links to find similar one (uppercase, space) could use some lemmatization.
 //const hashMissingLink = ( x ) => x.toUpperCase()
@@ -25,7 +25,8 @@ dv.list(
    dv.array( r )
       .groupBy( t => t.key )
       .where( t => t.rows.length > InterestLevel  )
-      .sort( t => t.rows.length , "desc")
+      .sort( t => t.key)
+//      .sort( t => t.rows.length , "desc")
       .map( t => t.rows[0].originalLink + " ("+t.rows.source.length+"): \n" + t.rows.source_and_originalLink.join("\n") + "" )
 )
 ```
