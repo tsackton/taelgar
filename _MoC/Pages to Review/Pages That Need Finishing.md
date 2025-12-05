@@ -1,6 +1,6 @@
 # Pages That Need Finishing
 
-These are pages that are not finished.
+These are pages tagged as stubs. 
 
 ## High Priority
 
@@ -13,6 +13,15 @@ where length(file.inlinks) > 9
 sort join(split(file.path, "/", 2),"/"), length(file.inlinks) DESC
 ```
 
+## Background
+
+```dataview
+TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
+from #status/stub and "Background"
+sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
+```
+
+
 ## Cosmology
 
 ```dataview
@@ -22,6 +31,13 @@ sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
 ```
 
 
+## Creatures
+
+```dataview
+TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
+from #status/stub and "Creatures"
+sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
+```
 
 ## Events
 
@@ -39,6 +55,16 @@ TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Back
 from #status/stub and "Gazetteer"
 sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
 ```
+
+
+## Gods and Religions
+
+```dataview
+TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
+from #status/stub and "Gods and Religions"
+sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
+```
+
 
 ## Groups
 
@@ -64,19 +90,11 @@ from #status/stub and "People"
 sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
 ```
 
-## Sources
+## Primary Sources
 
 ```dataview
 TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
 from #status/stub and "Primary Sources"
-sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
-```
-
-## Species
-
-```dataview
-TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
-from #status/stub and "Species"
 sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
 ```
 
@@ -87,21 +105,3 @@ TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Back
 from #status/stub and "Things"
 sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
 ```
-
-## Time
-
-```dataview
-TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
-from #status/stub and "Time"
-sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
-```
-
-## Worldbuilding
-
-```dataview
-TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
-from #status/stub and "Worldbuilding"
-sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
-```
-
-
