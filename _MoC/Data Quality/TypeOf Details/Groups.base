@@ -13,7 +13,18 @@ views:
       - typeOfAlias
       - ancestry
       - partOf
+      - deity
+      - created
+      - destroyed
     sort:
+      - property: timelineDescriptor
+        direction: ASC
+      - property: destroyed
+        direction: ASC
+      - property: created
+        direction: ASC
+      - property: deity
+        direction: ASC
       - property: typeOf
         direction: ASC
       - property: pronunciation
@@ -24,3 +35,5 @@ views:
         direction: ASC
     columnSize:
       note.typeOf: 144
+      note.partOf: 172
+      note.destroyed: 116

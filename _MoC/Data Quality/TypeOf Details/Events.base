@@ -13,14 +13,26 @@ views:
       - typeOfAlias
       - ancestry
       - partOf
+      - DR
+      - DR_end
     sort:
-      - property: typeOf
-        direction: DESC
-      - property: pronunciation
+      - property: DR
         direction: ASC
-      - property: typeOfAlias
+      - property: DR_end
+        direction: ASC
+      - property: partOf
+        direction: ASC
+      - property: typeOf
+        direction: ASC
+      - property: subtypeOf
+        direction: DESC
+      - property: campaignInfo
+        direction: ASC
+      - property: pronunciation
         direction: ASC
       - property: population
         direction: ASC
     columnSize:
       note.typeOf: 144
+      note.partOf: 173
+      note.DR_end: 146

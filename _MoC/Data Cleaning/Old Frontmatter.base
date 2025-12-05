@@ -1,0 +1,59 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!file.folder.startsWith("_")'
+        - '!file.folder.startsWith("assets")'
+    order:
+      - file.name
+      - reignStart
+      - leaderOf
+      - family
+      - fc-date
+      - fc-end
+      - timelineDescriptor
+      - speciesAlias
+    sort:
+      - property: reignStart
+        direction: ASC
+      - property: timelineDescriptor
+        direction: DESC
+      - property: leaderOf
+        direction: ASC
+      - property: family
+        direction: DESC
+      - property: fc-date
+        direction: ASC
+      - property: hide
+        direction: ASC
+      - property: tagline
+        direction: ASC
+      - property: pageTargetDate
+        direction: ASC
+      - property: title
+        direction: ASC
+      - property: campaign
+        direction: ASC
+      - property: companions
+        direction: ASC
+      - property: born
+        direction: ASC
+      - property: pcOwner
+        direction: ASC
+      - property: pronouns
+        direction: ASC
+      - property: players
+        direction: DESC
+      - property: player
+        direction: ASC
+      - property: speciesAlias
+        direction: ASC
+      - property: summary
+        direction: ASC
+      - property: template
+        direction: DESC
+      - property: affiliations
+        direction: DESC
+    columnSize:
+      note.fc-date: 207

@@ -1,0 +1,61 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("person")
+        - '!file.folder.startsWith("Worldbuilding")'
+        - '!file.tags.contains("status/stub")'
+    order:
+      - file.name
+      - species
+      - ancestry
+      - subspecies
+      - born
+      - died
+      - gender
+      - title
+      - image
+      - pronouns
+      - ka
+      - ddbLink
+      - player
+    sort:
+      - property: species
+        direction: ASC
+      - property: ka
+        direction: ASC
+      - property: ddbLink
+        direction: ASC
+      - property: image
+        direction: ASC
+      - property: subspecies
+        direction: DESC
+      - property: ancestry
+        direction: ASC
+      - property: speciesAlias
+        direction: ASC
+      - property: title
+        direction: ASC
+      - property: campaign
+        direction: ASC
+      - property: DR
+        direction: ASC
+      - property: DR_end
+        direction: ASC
+      - property: partOf
+        direction: ASC
+      - property: typeOf
+        direction: ASC
+      - property: subtypeOf
+        direction: DESC
+      - property: campaignInfo
+        direction: ASC
+      - property: pronunciation
+        direction: ASC
+      - property: population
+        direction: ASC
+    columnSize:
+      note.typeOf: 144
+      note.partOf: 173
+      note.DR_end: 146

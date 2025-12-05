@@ -3,7 +3,6 @@ headerVersion: 2023.11.25
 tags: [event, status/incomplete]
 campaignInfo: []
 name: Treaty of Tyrwingha
-summary: An agreement between the Emperor Goristo and the Archfey Ethlenn to establish Tyrwingha
 DR: 423
 dm_notes: none
 dm_owner: mike
