@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/companion, person, status/cleanup/incomplete]
+tags: [pc/companion, person, status/incomplete]
 name: Willow Wind
 species: fox
 subspecies: spirit

@@ -1,5 +1,5 @@
 ---
-tags: [species, status/needswork/old]
+tags: [species, status/needswork]
 aliases: [elemental, elementals, Elemental]
 dm_notes: important
 dm_owner: tim

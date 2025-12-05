@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image, status/cleanup/metadata, status/needswork/gameupdate]
+tags: [person, status/cleanup/image, status/cleanup/metadata, status/gameupdate/base]
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-12-27, type: scryed, format: "<met:U> by <person> in <current:fr!>, on <target>"}
 name: Havdar

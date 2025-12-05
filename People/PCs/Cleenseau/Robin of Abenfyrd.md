@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, pc/cleenseau, person, status/active]
+tags: [pc, pc/cleenseau, person, status/gameupdate/active]
 displayDefaults: { primaryOrgType: party}
 campaignInfo: []
 campaign: Cleenseau

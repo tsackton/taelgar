@@ -1,5 +1,5 @@
 ---
-tags: [species, status/check/ai]
+tags: [species, status/wip, status/check/ai]
 name: Kenku
 aliases: [kenku]
 dm_owner: joint

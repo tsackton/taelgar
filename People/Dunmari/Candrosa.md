@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image, status/cleanup/incomplete]
+tags: [person, status/cleanup/image, status/check/ai]
 campaignInfo: [{campaign: DuFr, type: met, date: 1748-03-22}, {campaign: DuFr, type: "entrusted the [[Dunmar Fellowship]] with recovering the [[Heart of Shakun]]", date: 1748-05-23}, {campaign: DuFr, type: last seen, date: 1748-06-19}]
 name: Candrosa
 born: 1715
@@ -23,8 +23,7 @@ dm_owner: tim
 >> %%^Campaign:DuFr%% The entrusted the [[Dunmar Fellowship]] with recovering the [[Heart of Shakun]] by the [[Dunmar Fellowship]] on May 23th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%  
 >> %%^Campaign:DuFr%% Last seen by the [[Dunmar Fellowship]] on June 19th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 
-![[candrosa-portrait.png|right|400]]
-Candrosa serves as Speaker of the [[Shakun Mystai]], acting as high priest, civic voice, and guardian of [[Karawa]]’s mesa-top temple. He balances political diplomacy with the desperate work of keeping [[Shakun's Protection]] functioning while the borderlands reel from gnoll incursions and otherworldly threats.
+![[candrosa-portrait.png|right|400]]Candrosa serves as Speaker of the [[Shakun Mystai]], acting as high priest, civic voice, and guardian of [[Karawa]]’s mesa-top temple. He balances political diplomacy with the desperate work of keeping [[Shakun's Protection]] functioning while the borderlands reel from gnoll incursions and otherworldly threats.
 
 ## Overview
 - Oversees rites, initiations, and the weaving of dream-visions that guide mystai acolytes and border sentinels.  

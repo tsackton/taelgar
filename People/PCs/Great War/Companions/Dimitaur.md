@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/companion, pc, person, status/needswork/gameupdate]
+tags: [pc/companion, pc, person, status/gameupdate/base]
 name: Dimitaur
 born:
 species: dragonet

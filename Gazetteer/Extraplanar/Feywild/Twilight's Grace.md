@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: "" }
-tags: [place, status/needswork/shared]
+tags: [place, status/incomplete]
 whereabouts: Feywild
 typeOf: realm
-dm_owner: mike,tim
+dm_owner: joint
 dm_notes: important
 ---
 # Twilight's Grace

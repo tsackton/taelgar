@@ -1,5 +1,5 @@
 ---
-tags: [background, status/needswork/continuity]
+tags: [background, status/needswork]
 dm_owner: shared,tim
 dm_notes: important
 ---

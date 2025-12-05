@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/shared]
+tags: [place, status/stub]
 name: Refounded Alliance of Aurbez
 typeOf: realm
 whereabouts: Upper Istaros

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/gameupdate]
+tags: [person, status/gameupdate/cleanup]
 campaignInfo: []
 name: Itar
 born: 1716

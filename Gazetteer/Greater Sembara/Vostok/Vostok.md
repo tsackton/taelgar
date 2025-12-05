@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/shared]
+tags: [place, status/incomplete]
 name: Vostok
 typeOf: realm
 whereabouts: Greater Sembara
@@ -30,7 +30,7 @@ Most of the population lives in the southern part of Vostok, called Voslaag ("ho
 
 Few people live in the forests and hills of the northern plateaus, the region called Voskald ("homeland of the people of the cold"; often referred to as North Vostok or North Vosland in Sembara). Much more than the people of Voslaag, the Voskalders are closely connected by culture and shared history with the [[Zimkova]], especially the traditionalists in the north.  
 
-Far to the north, the border of Vostok is demarcated with a massive and ancient wall. Stretching 400 miles from the [[Sentinel Range]] to the [[Svinjo Mountains]], this wall is no longer maintained or defended by the people of Vostok or anyway else. It was built in some distant mythical past, so long ago that none now remember its purpose, except perhaps among the elves. Yet, due to the skill and magic woven into its construction, it still stands nearly as strong as ever today. 
+Far to the north, the border of Vostok is demarcated with a massive and ancient wall. Stretching 400 miles from the [[Sentinel Range]] to the [[Svinjo Mountains]], this wall is no longer maintained or defended by the people of Vostok or anyone else. It was built in some distant mythical past, so long ago that none now remember its purpose, except perhaps among the elves. Yet, due to the skill and magic woven into its construction, it still stands nearly as strong as ever today. 
 
 ![[vostok-map.jpg]]
 

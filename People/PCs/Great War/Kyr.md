@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/greatwar, person, status/needswork/gameupdate]
+tags: [pc/greatwar, person, status/gameupdate/base]
 name: Kyr
 species: lizardfolk
 gender: male

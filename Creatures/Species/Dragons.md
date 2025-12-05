@@ -1,5 +1,5 @@
 ---
-tags: [species, status/needswork/old]
+tags: [species, status/wip]
 aliases: [dragon, dragons, Dragon]
 dm_notes: important
 dm_owner: tim

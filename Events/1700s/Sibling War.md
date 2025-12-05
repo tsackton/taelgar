@@ -1,5 +1,5 @@
 ---
-tags: [event, status/needswork/gameupdate]
+tags: [event, status/gameupdate/base]
 timelineDescriptor: The Siblings War
 dm_owner: tim
 dm_notes: important

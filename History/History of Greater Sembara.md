@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/needswork/wip]
+tags: [background, status/wip]
 dm_owner: joint
 dm_notes: none
 ---

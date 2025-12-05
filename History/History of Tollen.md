@@ -161,6 +161,7 @@ _DR 1695 - current_
 
 In recent years, Tollen has grown from an important city to the strongest naval power in the Western Gulf. The city has grown larger, with the wards of Fenslane and Tideswell, on the south bank of the Volta, becoming established in recent years. Tollen's influence has also grown, as now many settlements in [[Western Cymea]] are functionally Tollish colonies, and Tollen's navies control the [[Straits of Cymea]]. 
 
+%%^Campaign:none%%
 ### DM Notes
 
 #### Basic Vibes

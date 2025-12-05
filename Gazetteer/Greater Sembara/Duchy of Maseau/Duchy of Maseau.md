@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text, status/needswork/old]
+tags: [place, status/cleanup/text, status/needswork]
 name: Duchy of Maseau
 typeOf: realm
 whereabouts: Greater Sembara

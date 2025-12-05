@@ -1,5 +1,5 @@
 ---
-tags: [deity, religion/kestavo, status/needswork/old]
+tags: [deity, religion/kestavo, status/needswork]
 dm_owner: none
 dm_notes: none
 ---

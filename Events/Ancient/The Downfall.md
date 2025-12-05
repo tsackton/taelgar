@@ -1,5 +1,5 @@
 ---
-tags: [event, status/needswork/old]
+tags: [event, status/needswork]
 campaignInfo: []
 name: The Downfall
 aliases: [Downfall]

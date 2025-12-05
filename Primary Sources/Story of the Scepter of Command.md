@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/wip, source]
+tags: [status/wip, source]
 excludePublish: ["all"]
 dm_owner: tim
 dm_notes: important

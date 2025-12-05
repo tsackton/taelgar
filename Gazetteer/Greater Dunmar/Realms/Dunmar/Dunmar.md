@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/gameupdate]
+tags: [place, status/gameupdate/base]
 name: Dunmar
 whereabouts: Greater Dunmar
 created: 1173

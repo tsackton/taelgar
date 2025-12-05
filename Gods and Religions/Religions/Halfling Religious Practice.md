@@ -1,5 +1,5 @@
 ---
-tags: [background, religion/halflings, status/needswork/wip]
+tags: [background, religion/halflings, status/needswork]
 dm_owner: joint
 dm_notes: none
 ---

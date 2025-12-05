@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/gameupdate]
+tags: [person, status/gameupdate/cleanup]
 campaignInfo: [ {campaign: clee, date: 1720-01-03 }]
 name: Rosalind Essford
 born: 1677

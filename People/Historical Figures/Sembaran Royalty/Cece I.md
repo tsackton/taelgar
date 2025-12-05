@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/cleanup/incomplete]
+tags: [historical, person, status/incomplete]
 name: Cece I
 born: 1628
 species: human

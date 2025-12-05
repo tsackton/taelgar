@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/active]
+tags: [person, status/gameupdate/active]
 campaignInfo: [ { campaign: clee }]
 name: Odo Cordwaner
 born: 1700

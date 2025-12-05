@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/needswork/old]
+tags: [background, status/needswork]
 dm_owner: none
 dm_notes: important
 ---

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/cleanup/incomplete]
+tags: [background, status/incomplete]
 excludePublish: ["all"]
 dm_notes: none
 dm_owner: joint

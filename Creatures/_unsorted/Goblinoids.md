@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/old, background]
+tags: [status/needswork, background]
 dm_owner: joint
 dm_notes: none
 ---

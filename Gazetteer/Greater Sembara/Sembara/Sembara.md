@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/incomplete]
+tags: [place, status/incomplete]
 displayDefaults: { ruledBy: "Ruled by: <name> <((since )startDate())>"}
 name: Sembara
 typeOf: realm

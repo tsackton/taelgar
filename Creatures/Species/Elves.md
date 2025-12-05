@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/old, species]
+tags: [status/wip, species]
 name: Elves
 aliases: [elf, elves, Elf, Elves, elven, Elven]
 dm_owner: joint

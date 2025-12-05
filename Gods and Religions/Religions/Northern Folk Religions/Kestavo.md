@@ -1,5 +1,5 @@
 ---
-tags: [religion/kestavo, background, status/needswork/old]
+tags: [religion/kestavo, background, status/needswork]
 dm_owner: shared
 dm_notes: important
 ---
