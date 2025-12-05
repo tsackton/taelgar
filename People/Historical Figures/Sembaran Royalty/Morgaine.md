@@ -6,7 +6,6 @@ born: 1600
 species: human
 ancestry: Tyrwinghan
 gender: female
-reignStart:
 died: 1713
 affiliations: 
 - {org: House of Lils, type: primary}

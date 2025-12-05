@@ -7,12 +7,11 @@ born: 1510
 species: human
 ancestry: Sembaran
 gender: male
-reignStart: 1568
 title: King
 died: 1582
-affiliations: [{org: House of Sewick, type: primary}]
-leaderOf:
-- {place: Sembara}
+affiliations: 
+- {org: House of Sewick, type: primary}
+- {place: Sembara, start: 1568}
 dm_notes: none
 dm_owner: none
 ---

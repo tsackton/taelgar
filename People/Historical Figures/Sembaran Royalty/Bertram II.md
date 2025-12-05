@@ -6,21 +6,20 @@ born: 1537
 species: human
 ancestry: Sembaran
 gender: male
-reignStart: 1555
 died: 1561-01-17
 title: King
-leaderOf:
-- {place: Sembara, title: High King}
-- {place: Ardlas, title: High King}
-- {place: Lavnoch, title: High King}
-- {place: Breva, title: High King}
-affiliations: [House of Sewick]
+affiliations:
+- {place: Sembara, title: High King, start: 1555}
+- {place: Ardlas, title: High King, start: 1555}
+- {place: Lavnoch, title: High King, start: 1555}
+- {place: Breva, title: High King, start: 1555}
+- {org: House of Sewick, type: primary}
 dm_notes: none
 dm_owner: none
 ---
 # King Bertram II
 >[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Sewick]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 

@@ -6,7 +6,6 @@ born: 1634
 species: human
 ancestry: Sembaran
 gender: male
-reignStart:
 died: 1706
 affiliations: [{org: House of Lils, type: primary}]
 dm_notes: none

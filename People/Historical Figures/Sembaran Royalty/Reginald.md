@@ -6,7 +6,6 @@ born: 1506
 species: human
 ancestry: Sembaran
 gender: male
-reignStart:
 died: 1550
 affiliations: [{org: House of Sewick, type: primary} ]
 dm_notes: none

@@ -6,19 +6,18 @@ born: 1570
 species: human
 ancestry: Sembaran
 gender: female
-reignStart: 1600
 died: 1602
 title: Queen
-leaderOf:
-- {place: Sembara}
-- {place: Tyrwingha}
-affiliations: [House of Sewick]
+affiliations:
+- {place: Sembara, start: 1600}
+- {place: Tyrwingha, start: 1600}
+- {org: House of Sewick, type: primary}
 dm_notes: none
 dm_owner: none
 ---
 # Queen Blanche II
 >[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[House of Sewick]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
