@@ -4,7 +4,7 @@ See [[Descriptive Tags]] for the list of well-known tags. When changing that lis
 
 ```dataview
 TABLE split(file.path,"/",1)[0] as Folder, length(file.inlinks) as Backlinks
-from !"_DM_" and !"Campaigns" and !"_dm_notes" and !"_MoC" and !"assets" and !"_templates" and !"Worldbuilding"
+from !"_DM_" and !"Campaigns" and !"_dm_notes" and !"_MoC" and !"assets" and !"_templates" and !"Worldbuilding" and !"_sessions"
 where (
 !contains(tags, "item") and 
 !contains(tags, "background") and 

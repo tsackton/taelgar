@@ -13,7 +13,7 @@ dm_notes: none
 ---
 # Inectos Tintio
 >[!info]+ Biographical Info  
-> A [[Chardonian]] [[Humans|human]]  
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]]  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:GL%% Met by the [[Silver Tempests]] on March 1748 in [[Voltara]], [[Greater Voltara]], the [[Chardonian Empire]] %%^End%%
 

@@ -1,0 +1,26 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.tags.contains("organization")
+        - '!file.folder.startsWith("Worldbuilding")'
+        - '!file.tags.contains("status/stub")'
+    order:
+      - file.name
+      - typeOf
+      - subtypeOf
+      - typeOfAlias
+      - ancestry
+      - partOf
+    sort:
+      - property: typeOf
+        direction: DESC
+      - property: pronunciation
+        direction: ASC
+      - property: typeOfAlias
+        direction: ASC
+      - property: population
+        direction: ASC
+    columnSize:
+      note.typeOf: 144

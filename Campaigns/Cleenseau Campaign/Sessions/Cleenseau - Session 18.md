@@ -44,7 +44,7 @@ The party survives an assassination ambush, uncovers a fairy infiltrator in the 
 - **[[Areschera|Fairy Clerk]]** – posing as the baroness's representative, actually a shapeshifter
 - **[[Lady Debrune]]** – prisoner held under guard, cousin of the party's ally
 - **[[Istarias|Mysterious Fey]]** – servant to [[Lady Debrune]], warned [[Celyn]] before about poisoned food
-- **[[Duskhound]]** – terrifying horned fey who checks on prisoners
+- **[[Duskhounds|Duskhound]]** – terrifying horned fey who checks on prisoners
 - **[[Victorine Rosseau|Local Magistrate]]** – writes requesting help with murder case
 - **[[Marceline Dupont|Captain of Horse]]** – military officer helping coordinate defense
 - **[[Merriweather's Tailor Shop|The Merriweathers]]** – offer to help smuggle [[Lady Debrune]]
@@ -65,7 +65,7 @@ The party survives an assassination ambush, uncovers a fairy infiltrator in the 
 - [[Areschera|The fairy]] posing as clerk has replaced the actual baroness's representative
 - [[Lorin Valbert]] fled out of fear of fairies
 - A magistrate is investigating a fairy-altered murder case
-- [[Duskhound]] is a terrifying horned fey operative in the area
+- [[Duskhounds|Duskhound]] is a terrifying horned fey operative in the area
 
 ## Narrative  
   

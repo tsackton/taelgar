@@ -2,7 +2,7 @@
 
 ### Places (Excluding Tentative)
 ```dataview
-TABLE partOf, placeType from #place and !#status/stub and !"Worldbuilding/Tentative" where !typeOf 
+LIST from #place and !#status/stub and !"Worldbuilding" where !typeOf 
 ```
 
 ### Groups
@@ -12,7 +12,7 @@ LIST from #organization and !#status/stub where !typeOf
 
 ## People
 ```dataview
-LIST from #person and !#status/stub where !species
+LIST from #person and !#status/stub and !"_templates" where !species 
 ```
 
 ## Things

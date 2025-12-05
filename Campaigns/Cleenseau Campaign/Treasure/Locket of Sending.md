@@ -4,7 +4,7 @@ tags: [item]
 typeOf: necklace
 subTypeOf: magic
 name: Locket of Sending
-campaign: Cleenseau
+campaignInfo: Cleenseau
 ---
 # The Locket of Sending
 >[!info]+ Information  

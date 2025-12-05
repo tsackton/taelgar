@@ -35,7 +35,7 @@ The party travels north to investigate the baroness, encounters harpies and a la
 - **[[Celyn Bettws]]** – Wyrdling cleric
 - **[[Izgil Moonseeker]]** – arcane investigator
 - **The Bear Fey** (name/title of the [[Gloomshaper]]'s servant) – large fey bear lord controlling harpies and lesser fey
-- **[[Duskhound]]** – wild huntsman minion of the bear fey
+- **[[Duskhounds]]** – wild huntsman minion of the bear fey
 - **[[Wilhem of Maudorville]]** – moon-fascinated administrator of the temple of the Sibyl
 - **[[Susanna]]** – innkeeper in [[Maudorville]], desperate to find her missing daughter
 - **[[Samuel Cordwander]]** – [[Odo Cordwaner|Odo's]] younger brother, recovered from hiding
@@ -52,7 +52,7 @@ The party travels north to investigate the baroness, encounters harpies and a la
 - **[[Essenmer]]** – location where Odo awaits his brother
 - **[[Peydon]]** – dangerous town controlled by the [[Midnight Lady]]
 - **[[Veltor]]** – baronial capital, planned destination
-- **[[Tyrwingha]]** – fey realm, home of [[Celyn]] and [[Robin]]
+- **[[Tyrwingha]]** – fey realm, home of [[Celyn]] and [[Robin of Abenfyrd|Robin]]
 
 ## Narrative
 In our interstitial stuff Viepuck did a whole hell of a lot of [[Viepuck - Feburary 9th, 1720|being a telegraph machine]], collecting information and moving data around in 25-word segments to enable us to keep track of various people we have met over the course of our adventures and try to collate the problems we're dealing with. This included groups of people asking for help (and us figuring out what of them we could help with and how) and tracking down our friend [[Odo Cordwaner|Odo's]] teenaged brother, [[Samuel Cordwaner]], previously presumed dead, but now hiding in the local hills and afraid to come out because he fled there from zombies and zombies are alarming. We successfully coaxed him out of the hills and sent [[Estiasilos|Es*tiasilos]] (as a small dog) to escort him to his brother.  
@@ -100,7 +100,7 @@ One of the bears mauled Izgil and knocked him down, which he solved with a misty
   
 We took a rest, Robin healed people up, and then we heard murmuring in Sylvan in the distance as the sun set. (GM: "What's your passive perception?" Me: "22." GM: "... right, yes, you hear....") Also I rolled a 20 on trying to hear them, and it was an older and younger voice talking about things like "How's the hunt going?" and "Are we going to win?" and, after some discussion, we decided to follow the sound as quietly and reasonably as possible. Celyn removed Robin's stealth check penalty, and we proceeded to have a low roll of 17 on stealth, and thus tailed the voices all the way back to their lair, where we were promptly confronted with "Come out or we'll kill you" along the way.  
   
-Viepuck attempted a deception which failed, and eventually the party came out, running on Celyn's evaluation of the situation. At which point the party got to see Celyn _100% focused on something_, which is ... not a normal mode for him. Generally upbeat, easygoing doesn't-playact-being-an-airhead-he-just-kind-of-comes-across-that-way Celyn got all laser focused on the fact that we were dealing with a Large Bear Fey and his [[Duskhound]]* Minion (plus all the other fey and bears and harpies and such).  
+Viepuck attempted a deception which failed, and eventually the party came out, running on Celyn's evaluation of the situation. At which point the party got to see Celyn _100% focused on something_, which is ... not a normal mode for him. Generally upbeat, easygoing doesn't-playact-being-an-airhead-he-just-kind-of-comes-across-that-way Celyn got all laser focused on the fact that we were dealing with a Large Bear Fey and his [[Duskhounds|Duskhound]] Minion (plus all the other fey and bears and harpies and such).  
   
 * wild huntsman vibe, unpleasant manner, work for the Gloomshaper, the fey lord who has a long-running feud with the fey queen of Tyrwingha, Celyn's home nation. We ran into one of these guys before, he flattened the party and told them to fuck off from his master's territory vigorously. This one was not best pleased to see us but the bear guy kept him in check.  
   

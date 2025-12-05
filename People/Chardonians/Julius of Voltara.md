@@ -15,7 +15,7 @@ dm_notes: none
 ---
 # Julius of Voltara
 >[!info]+ Biographical Info  
-> A [[Chardonian]] [[Humans|human]]  
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

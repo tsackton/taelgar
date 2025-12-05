@@ -2,7 +2,7 @@ This lists all the links that are linked but not yet created
 
 ```dataviewjs
 //Min Number of link before showing up
-const InterestLevel = 0 ; 
+const InterestLevel = 1 ; 
 
 //"hash" the missing links to find similar one (uppercase, space) could use some lemmatization.
 //const hashMissingLink = ( x ) => x.toUpperCase()
