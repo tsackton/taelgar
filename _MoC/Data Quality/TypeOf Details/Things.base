@@ -13,13 +13,23 @@ views:
       - ancestry
       - subtypeOf
       - rarity
+      - created
+      - ddbLink
+      - destroyed
+      - pcOwner
+      - title
+      - image
     sort:
+      - property: title
+        direction: DESC
+      - property: image
+        direction: ASC
+      - property: ddbLink
+        direction: ASC
       - property: campaign
         direction: ASC
       - property: mundane
         direction: DESC
-      - property: typeOf
-        direction: ASC
       - property: typeOfAlias
         direction: ASC
       - property: population

@@ -3,7 +3,6 @@ headerVersion: 2023.11.25
 tags: [pc, pc/cleenseau, person, status/gameupdate/active]
 displayDefaults: { primaryOrgType: party}
 campaignInfo: []
-campaign: Cleenseau
 name: Robin of Abenfyrd
 born: 1700
 species: human

@@ -3,19 +3,42 @@ views:
     name: Table
     filters:
       and:
-        - file.tags.contains("event")
+        - file.tags.contains("person")
         - '!file.folder.startsWith("Worldbuilding")'
         - '!file.tags.contains("status/stub")'
     order:
       - file.name
-      - typeOf
-      - subtypeOf
-      - typeOfAlias
+      - species
       - ancestry
-      - partOf
-      - DR
-      - DR_end
+      - subspecies
+      - born
+      - died
+      - gender
+      - title
+      - image
+      - pronouns
+      - ka
+      - ddbLink
+      - player
     sort:
+      - property: species
+        direction: ASC
+      - property: ka
+        direction: ASC
+      - property: ddbLink
+        direction: ASC
+      - property: image
+        direction: ASC
+      - property: subspecies
+        direction: DESC
+      - property: ancestry
+        direction: ASC
+      - property: speciesAlias
+        direction: ASC
+      - property: title
+        direction: ASC
+      - property: campaign
+        direction: ASC
       - property: DR
         direction: ASC
       - property: DR_end

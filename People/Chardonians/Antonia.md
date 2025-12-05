@@ -9,7 +9,6 @@ species: human
 ancestry: Chardonian
 gender: female
 pronunciation: An-ton-ia
-pageTargetDate: 1748-12-09
 affiliations: [{ org: Society of the Open Scroll }]
 whereabouts:
 - {type: away, start: 1748-11-10, location: Dunmar}
