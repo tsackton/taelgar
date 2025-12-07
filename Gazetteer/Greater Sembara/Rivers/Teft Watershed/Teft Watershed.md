@@ -30,20 +30,26 @@ end (Teft): 10.10.E.09
 source: 10.10.E.11
 end (Teft): 10.10.E.09
 
-Unnamed 1:
+[[Selgrava]]:
 source (Breva): 10.10.G.23
 end (Teft): 10.11.B.02
 
-Unnamed 2:
+Unnamed 1:
 source (Breva): 10.11.B.17
 end (Teft): 10.11.B.16
 
-Unnamed 3:
+Unnamed 2:
 source (Breva): 10.11.E.11
 end (Teft): 10.11.F.07
 
-Unnamed 4:
+Unnamed 3:
 source (Aine Hills): 11.11.D.01
 end (Teft): 11.11.D.14
+
+There is probably at least two missing rivers:
+
+Approximately source (Braebin): 10.11.I.03, end (Teft): 11.11.H.05
+Approximately source (Sembara): 11.11.E.14 end (Teft): 11.11.H.10
+
 
 %%^End%%

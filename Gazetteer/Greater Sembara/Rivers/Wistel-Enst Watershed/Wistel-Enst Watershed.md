@@ -59,15 +59,22 @@ Unnamed River 1
 source (Aine Hills): 12.10.D.13
 end (Cambril): 11.10.F.08
 
-Unnamed River 2:
+[[Chemelle]]
 source (Aine Hills): 11.10.I.15
 end (Wistel): 12.10.G.22 
 
-[[Rindle]] **unmapped but might be one of the unnamed rivers**
+[[Rindle]]  (unmapped)
+source (Wisford): 12.10.G.24
+end (Wistel): 12.11.A.02/A.06 border
 
-[[Brunebeck]] **unmapped**
+[[Brunebeck]] (unmapped)
+source (Wisford): 12.11.E.13
+end (Wistel): 12.11.D.10
 
-[[Lanting]] **unmapped but might be one of the unnamed rivers**
+[[Lanting]]  (unmapped)
+source (Wisford): 12.11.A04
+end (Wistel): 12.11.A.14
+route: B.05-A.12-A.16-A.11-A.10
 
 ---
 
@@ -88,8 +95,12 @@ source (Sentinels): 12.10.C.07
 end (Enst): 13.10.D.13
 
 [[Cranmere|Cranmère]] **unmapped**
+source (Aveil Ridge): 12.10.H.17
+end (Auberonne): 12.10.H.14
 
 [[Amance Brook]] **unmapped**
+source (Cleenseau Wood): 12.10.I.13
+end (Enst): 12.10.I.13
 
 [[Leandre]]
 source (Aveil Ridge): 12.10.H.07
