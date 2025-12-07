@@ -32,7 +32,118 @@ Once the Enst and the Wistel join, the river becomes a marshy delta with many me
 
 
 %%^Campaign:None%%
-### Places in the Wistel–Enst Watershed
+
+## Rivers in the Wistel-Enst watershed
+
+[[Wistel]]
+source (Sentinels): 12.10.A02
+end (ocean): 12.11.G..10
+
+[[Bollin]]
+source (Sentinels): 11.10.A.14
+end (Wistel): 12.10.G.12
+
+[[Cambril]]
+source (Sentinels): 11.10.C.18
+end (Bollin): 11.10.F.22
+
+[[Wethlin]]
+source (Sentinels): 11.10.D.02
+end (Bollin): 11.10.B.21
+
+[[Vardell]]
+source (Sentinels): 11.10.B.16
+end (Bollin): 11.10.E.03
+
+Unnamed River 1
+source (Aine Hills): 12.10.D.13
+end (Cambril): 11.10.F.08
+
+Unnamed River 2:
+source (Aine Hills): 11.10.I.15
+end (Wistel): 12.10.G.22 
+
+[[Rindle]] **unmapped but might be one of the unnamed rivers**
+
+[[Brunebeck]] **unmapped**
+
+[[Lanting]] **unmapped but might be one of the unnamed rivers**
+
+---
+
+[[Enst]]
+source: 13.10.D.09
+end (Wistel): 12.11.G.03
+
+[[Enst (Middle Fork)]]
+source (Sentinels): 13.10.A.01
+end (Enst): 13.10.D.09
+
+[[Enst (South Fork)]]
+source (Sentinels): 13.10.A.16
+end (Enst): 13.10.D.09
+
+[[Enst (North Fork)]]
+source (Sentinels): 12.10.C.07
+end (Enst): 13.10.D.13
+
+[[Cranmere|Cranmère]] **unmapped**
+
+[[Amance Brook]] **unmapped**
+
+[[Leandre]]
+source (Aveil Ridge): 12.10.H.07
+end (Aurberonne): 12.10.H.19
+
+[[Auberonne]]
+source (Aveil Ridge): 12.10.H.14
+end (Lake Rin): 12.10.I.21
+
+[[Clavert]]
+source (Westcliff): 12.11.C.15
+end (Enst): 12.11.E.07
+
+---
+
+[[Aure]]
+source (Darkwood): 13.11.D.08
+end (Enst):12.11.E.18
+
+[[Branth]]
+source (Mostreve): 13.11.G.10
+end (Aure): 12.11.F.12
+
+Unnamed River 1
+source (Mostreve): 13.11.G.07
+end (Branth): 13.11.G.06
+
+Unnamed River 2
+source (Mostreve): 13.11.D.15
+end (Branth): 13.11.D.14
+
+[[Velan]]
+source (Mostreve): 13.11.A.17
+end (Aure): 12.11.F.16
+
+[[Umber]]
+source (Mostreve): 12.11.C.23
+end (Velan): 12.11.F.03
+
+[[Mill Brook (Roscombe)]] **unmapped**
+
+Unnamed River 3
+source (Mostreve): 12.11.F.10
+end (Velan): 12.11.F.11
+
+---
+
+Mapped lakes in the Wistel-Enst watershed:
+
+[[Lake Rin]]: 12.10.I.21
+
+Unnamed Adderfell Lake **unmapped**
+
+## Places in the Wistel–Enst Watershed
 ```dataviewjs
 const { util } = customJS
 dv.table(["Place", "Type Of"], 
@@ -41,4 +152,5 @@ dv.table(["Place", "Type Of"],
 				.sort(b => util.s("<maintype>", b.file))
 				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<maintype>", b.file)]))
 ```
+
 %%^End%%
