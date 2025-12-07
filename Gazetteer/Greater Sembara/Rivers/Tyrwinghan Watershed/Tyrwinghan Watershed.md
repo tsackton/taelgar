@@ -50,5 +50,7 @@ end (ocean): 12.12.E.07
 Unmapped waterways in Tyrwingha:
 
 [[Enad]] - small brook, flows into Rhewin 
+source: 12.12.H.09
+end (Rhewin): 12.12.H.14
 
 %%^End%%
