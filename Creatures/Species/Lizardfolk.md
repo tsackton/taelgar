@@ -53,8 +53,18 @@ Lizardfolk communities are almost invariably found near water, typically in natu
 Some of the largest lizardfolk communities can be found in the [[Ozabal]] and [[Latazaro]] swamps near the [[Western Gulf]]; the [[~Yeraad Lizardfolk Swamp~]] south of [[Chardon]]; the salt marshes of the [[Mawakel Peninsula]]; and the rivers and wetlands of [[Portalia]] and [[Apporia]]. However, many small lizardfolk communities are scattered widely throughout the world, with villages as diverse [[Ganboa]], the tiny community on the [[Enst]] downriver from [[Cleenseau]]; the substantial lizardfolk towns on the outskirts of [[Adderfell]] and [[Darba]]; and the scattered villages of the [[Aursen Marshes]], just upriver from [[Aursenbourg]]. 
 
 ---
-
 ## Cultural Traits
+
+%% Vibes seem reasonably clear?
+
+- Ancestor oriented, elder ruled: lizardfolk settlements tend to gerontocracy, e.g some kind of council of elders would likely be very common. Elders/ancestors control a lot, though exactly how much is "ancestors" vs "elders" is not always clear. E.g., do elders make decisions about who can reproduce and when, or is it ancestors? Each have different implications. 
+- Ancestor/elder orientation is likely also cultural, not just political, with maybe vaguely Confucianism vibes, though this is not really about ancestor worship per se
+- Big part of vibes is intentional balance with ecosystems: shaping ecosystems to support high carrying capacities, but also shaping reproduction to stay within carrying capacity naturally. This also has an implication of "in tune with nature" type vibes, but I think not necessarily in the context of pure conservation, or at least not always or usually in the context of conservation; this is more about knowing nature extensively so you can manipulate it, or something like that.
+- Religion has long been very weakly defined; the "seasons" are a bit complicated because seasons vary from place to place. More than any other of the Firstborn species, lizardfolk might benefit a bit from regional "sects"? E.g. perhaps the lizardfolk of Sembara see the Tharzen Anzinakoa as seasonal but it wouldn't make sense for the lizardfolk of Darba to worship a spring or autumn god when there are really only two seasons, the hot dry season and the wet rainy season. I do like the idea that the number 4 is important in lizardfolk culture, and the general vibe of 4 as being seen as kind of fractal / cyclical, and the Tharzen Anzinakoa being seen as a kind of cycle of gods in some vague way
+- Longstanding connection to prophecy and divination that should be maintained as well
+%%
+
+
 
 Their ethos is cyclical and patient: balance the taking with the giving, and keep the waters living. Elders arbitrate disputes and births so food and space match the season; many lizardfolk serve as healers, fish‑wardens, or marsh‑guides among their neighbors. They favor fairness over fury, and even when war comes, they treat killing as a sorrow, not a habit. Relations with humans and halflings are commonly warm; elves’ aloofness and dwarven rigidity puzzle them, and kenku’s wildness tests their patience, yet they strive for empathy with all living things.
 
