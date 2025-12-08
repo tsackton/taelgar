@@ -1,10 +1,12 @@
+filters:
+  and:
+    - file.tags.contains("place")
+    - '!file.folder.startsWith("Worldbuilding")'
 views:
   - type: table
     name: Table
     filters:
       and:
-        - file.tags.contains("place")
-        - '!file.folder.startsWith("Worldbuilding")'
         - '!file.tags.contains("status/stub")'
     order:
       - file.name
@@ -17,15 +19,37 @@ views:
       - destroyed
       - founded
     sort:
+      - property: typeOfAlias
+        direction: ASC
       - property: typeOf
         direction: ASC
+      - property: ancestry
+        direction: DESC
+      - property: file.name
+        direction: ASC
       - property: subtypeOf
-        direction: ASC
+        direction: DESC
       - property: pronunciation
-        direction: ASC
-      - property: typeOfAlias
         direction: ASC
       - property: population
         direction: ASC
     columnSize:
+      note.typeOf: 140
       note.founded: 149
+  - type: table
+    name: NonStandard
+    filters:
+      and:
+        - '!typeOf.containsAny("subdivision", "settlement", "realm", "inn", "building", "waterway", "watershed", "road", "holy site", "island", "plane", "region")'
+    order:
+      - file.name
+      - typeOf
+      - subtypeOf
+      - typeOfAlias
+    sort:
+      - property: typeOf
+        direction: ASC
+      - property: typeOfAlias
+        direction: ASC
+    columnSize:
+      note.typeOf: 289
