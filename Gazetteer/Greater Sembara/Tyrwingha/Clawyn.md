@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Clawyn
 typeOf: settlement
 typeOfAlias: village
@@ -9,6 +10,7 @@ whereabouts: Tyrwingha
 pronunciation: CLOW-in
 dm_notes: color
 dm_owner: mike
+subtypeOf:
 ---
 # Clawyn
 *(CLOW-in)*

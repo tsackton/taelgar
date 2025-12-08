@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 typeOf: settlement
 typeOfAlias: village
 whereabouts: Barony of Aveil
@@ -8,6 +9,7 @@ population: 498
 pronunciation: Pay-dun
 dm_notes: important
 dm_owner: mike
+subtypeOf:
 ---
 # Peydon
 *(Pay-dun)*

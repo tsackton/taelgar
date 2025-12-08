@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 whereabouts: Tollen
-displayDefaults: { defArt: ""}
-typeOf: ward
+displayDefaults:
+  defArt: ""
+typeOf: subdivision
 dm_notes: none
 dm_owner: none
+typeOfAlias: ward
 ---
 # Fairgate Inner
 >[!info]+ Information  

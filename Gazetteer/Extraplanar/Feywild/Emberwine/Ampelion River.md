@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
-aliases: [Revelwater, Everpouring Draught]
-tags: [place]
-typeOf: river
+aliases:
+  - Revelwater
+  - Everpouring Draught
+tags:
+  - place
+typeOf: waterway
 whereabouts: Emberwine
 dm_notes: none
 dm_owner: tim
+typeOfAlias: river
 ---
 # The Ampelion River
 >[!info]+ Information  

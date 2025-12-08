@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: city
+tags:
+  - place
+typeOf: settlement
 whereabouts: Ursk
 dm_owner: tim
 dm_notes: important
+typeOfAlias: city
 ---
 # Vorongrad
 >[!info]+ Information  

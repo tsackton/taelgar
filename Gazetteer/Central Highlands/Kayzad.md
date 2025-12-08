@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: river
-whereabouts: 
-- {type: primary, location: Elderwood }
-- {type: secondary, location: Yeraad River Basin }
+tags:
+  - place
+typeOf: waterway
+whereabouts:
+  - type: primary
+    location: Elderwood
+  - type: secondary
+    location: Yeraad River Basin
 pronunciation: KAY-zahd
 dm_notes: none
 dm_owner: none
+typeOfAlias: river
 ---
 # Kayzad
 *(KAY-zahd)*

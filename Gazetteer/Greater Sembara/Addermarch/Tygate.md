@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Tygate
-typeOf: market town
+typeOf: settlement
 whereabouts: Addermarch
 dm_notes: none
 dm_owner: none
+typeOfAlias: market town
 ---
 # Tygate
 >[!info]+ Information  

@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Brooklawn Outer
-displayDefaults: {defArt: ""}
-typeOf: ward
+displayDefaults:
+  defArt: ""
+typeOf: subdivision
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
+typeOfAlias: ward
 ---
 # Brooklawn Outer
 >[!info]+ Information  

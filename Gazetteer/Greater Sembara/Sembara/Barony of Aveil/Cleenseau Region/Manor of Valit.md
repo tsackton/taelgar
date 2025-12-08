@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: manor
+tags:
+  - place
+typeOf: subdivision
 created: 1490
 whereabouts: Barony of Aveil
 dm_owner: mike
 dm_notes: none
+typeOfAlias: manor
 ---
 
 # The Manor of Valit

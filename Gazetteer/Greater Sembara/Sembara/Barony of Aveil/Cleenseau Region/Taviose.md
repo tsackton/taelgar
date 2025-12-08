@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, testcase]
+tags:
+  - place
+  - testcase
 name: Taviose
 typeOfAlias: village
 typeOf: settlement
@@ -9,6 +11,7 @@ population: 30
 pronunciation: Ta-vi-ose
 dm_notes: color
 dm_owner: mike
+subtypeOf:
 ---
 # Taviose
 *(Ta-vi-ose)*

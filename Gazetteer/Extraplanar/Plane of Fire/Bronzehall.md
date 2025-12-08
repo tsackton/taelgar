@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Bronzehall
-typeOf: city
+typeOf: settlement
 whereabouts: Elemental Plane of Fire
 dm_owner: tim
 dm_notes: none
+typeOfAlias: city
 ---
 # Bronzehall
 >[!info]+ Information  

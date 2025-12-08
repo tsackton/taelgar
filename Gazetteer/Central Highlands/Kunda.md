@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Kunda
 ancestry: stoneborn
-typeOf: village
-whereabouts: 
-- {type: primary, location: Indalas }
-- {type: secondary, location: Central Highlands }
+typeOf: settlement
+whereabouts:
+  - type: primary
+    location: Indalas
+  - type: secondary
+    location: Central Highlands
 dm_owner: tim
 dm_notes: color
+typeOfAlias: village
+subtypeOf:
 ---
 # Kunda
 >[!info]+ Information  

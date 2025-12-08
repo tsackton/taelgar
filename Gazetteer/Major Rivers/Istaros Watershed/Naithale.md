@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: river
+tags:
+  - place
+typeOf: waterway
 whereabouts: Istaros Watershed
-aliases: [Naithalë, Nimrata, Arianrith]
+aliases:
+  - Naithalë
+  - Nimrata
+  - Arianrith
 name: Naithalë
 dm_owner: none
 dm_notes: none
 pronunciation: NY-thah-lay
+typeOfAlias: river
 ---
 # Naithalë
 *(NY-thah-lay)*

@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 typeOf: settlement
 typeOfAlias: village
 destroyed: 1720-01-07
 whereabouts: Barony of Aveil
 dm_notes: none
 dm_owner: none
+subtypeOf:
 ---
 # Eftly
 >[!info]+ Information  

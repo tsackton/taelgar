@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: river
+tags:
+  - place
+typeOf: waterway
 whereabouts: Istaros Watershed
-aliases: [Velassë, Velonere]
+aliases:
+  - Velassë
+  - Velonere
 name: Velassë
 dm_owner: none
 dm_notes: none
 pronunciation: veh-LAH-sseh
+typeOfAlias: river
 ---
 # Velassë
 *(veh-LAH-sseh)*

@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ""}
-typeOf: street
+tags:
+  - place
+displayDefaults:
+  defArt: ""
+typeOf: road
 whereabouts: Southbridge
 dm_notes: none
 dm_owner: none
+typeOfAlias: street
 ---
 # Inkspell Lane
 >[!info]+ Information  

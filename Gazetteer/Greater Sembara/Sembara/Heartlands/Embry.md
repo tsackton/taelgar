@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags:
+  - place
+  - status/stub
 campaignInfo:
 name: Embry
-typeOf: city
+typeOf: settlement
 whereabouts: Sembara
 population: 25000
 dm_owner: none
 dm_notes: none
+typeOfAlias: city
 ---
 # Embry
 >[!info]+ Information  

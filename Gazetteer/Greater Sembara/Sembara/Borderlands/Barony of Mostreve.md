@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Barony of Mostrevé
 whereabouts: Borderlands
-aliases: [Barony of Mostrevé]
-typeOf: barony
+aliases:
+  - Barony of Mostrevé
+typeOf: subdivision
 pronunciation: moh-strev-AY
 dm_owner: none
 dm_notes: none
+typeOfAlias: barony
 ---
 # The Barony of Mostrevé
 *(moh-strev-AY)*

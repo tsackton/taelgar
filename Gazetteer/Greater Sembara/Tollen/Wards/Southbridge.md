@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags:
+  - place
+  - status/stub
 name: Southbridge
-typeOf: ward
+typeOf: subdivision
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
+typeOfAlias: ward
 ---
 # Southbridge
 >[!info]+ Information  

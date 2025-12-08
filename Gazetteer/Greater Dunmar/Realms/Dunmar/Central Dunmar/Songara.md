@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Songara
-typeOf: city
+typeOf: settlement
 whereabouts: Central Dunmar
 dm_notes: color
 dm_owner: tim
+typeOfAlias: city
 ---
 # Songara
 >[!info]+ Information  

@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Paisa
 typeOf: settlement
 typeOfAlias: village
 whereabouts:
-- {type: primary, location: Northern Provinces}
+  - type: primary
+    location: Northern Provinces
 dm_owner: none
 dm_notes: none
+subtypeOf:
 ---
 # Paisa
 >[!info]+ Information  

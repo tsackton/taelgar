@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/check/name]
-displayDefaults: {defArt: ""}
 name: Cleric Cooks
 created: 1748-08-07
 typeOf: restaurant

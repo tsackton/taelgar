@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Erelion
 ancestry: elven
-typeOf: city
+typeOf: settlement
 whereabouts: Orenlas
 pronunciation: air-LEE-on
 dm_owner: none
 dm_notes: important
+typeOfAlias: city
 ---
 # Erelion
 *(air-LEE-on)*

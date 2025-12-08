@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: city
+tags:
+  - place
+typeOf: settlement
 whereabouts: Ursk
 dm_notes: none
 dm_owner: none
+typeOfAlias: city
 ---
 # Marinsk
 >[!info]+ Information  

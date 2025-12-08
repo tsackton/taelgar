@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: manor
+tags:
+  - place
+typeOf: subdivision
 dm_owner: mike
 dm_notes: none
 created: 1651
 whereabouts: Barony of Aveil
+typeOfAlias: manor
 ---
 # The Manor of Cleenseau
 >[!info]+ Information

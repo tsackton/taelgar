@@ -1,12 +1,18 @@
 ---
 headerVersion: 2023.11.25
-typeOf: river
-tags: [place, status/check/name, status/stub]
+typeOf: waterway
+tags:
+  - place
+  - status/check/name
+  - status/stub
 whereabouts:
-- {type: primary, location: Northern Frontier}
-- {type: secondary, location: Chasa-Nahadi Watershed}
+  - type: primary
+    location: Northern Frontier
+  - type: secondary
+    location: Chasa-Nahadi Watershed
 dm_owner: tim
 dm_notes: important
+typeOfAlias: river
 ---
 # The Snake River
 >[!info]+ Information  

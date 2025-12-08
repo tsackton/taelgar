@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Valit
 typeOfAlias: village
 whereabouts: Manor of Valit
@@ -9,6 +10,7 @@ pronunciation: Val-le
 typeOf: settlement
 dm_owner: mike
 dm_notes: important
+subtypeOf:
 ---
 # Valit
 *(Val-le)*

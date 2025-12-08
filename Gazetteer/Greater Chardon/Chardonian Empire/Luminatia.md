@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Luminatia
 typeOf: settlement
 typeOfAlias: village
 whereabouts: Chardonian Empire
 dm_owner: none
 dm_notes: color
+subtypeOf:
 ---
 # Luminatia
 >[!info]+ Information  

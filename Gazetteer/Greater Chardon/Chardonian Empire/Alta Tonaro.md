@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ""}
-typeOf: province
-whereabouts: 
-- {type: primary, location: Chardonian Empire }
+tags:
+  - place
+displayDefaults:
+  defArt: ""
+typeOf: subdivision
+whereabouts:
+  - type: primary
+    location: Chardonian Empire
 dm_owner: tim
 dm_notes: important
+typeOfAlias: province
 ---
 # Alta Tonaro
 >[!info]+ Information  

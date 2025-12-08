@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ''}
+tags:
+  - place
+displayDefaults:
+  defArt: ""
 campaignInfo: []
 name: Tharn Todor
-typeOf: city
+typeOf: settlement
 ancestry: dwarven
 whereabouts: Nardith
 dm_notes: color
 dm_owner: tim
+typeOfAlias: city
 ---
 # Tharn Todor
 >[!info]+ Information  

@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ''}
+tags:
+  - place
+displayDefaults:
+  defArt: ""
 name: Gold Street
-typeOf: ward
+typeOf: subdivision
 whereabouts: Tollen
 dm_notes: none
 dm_owner: none
+typeOfAlias: ward
 ---
 # Gold Street
 >[!info]+ Information  

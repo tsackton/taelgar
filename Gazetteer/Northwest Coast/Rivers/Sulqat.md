@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 pronunciation: sul-KAHT
 name: Sulqat
-typeOf: river
+typeOf: waterway
 whereabouts: Mawakel Peninsula
 dm_owner: none
 dm_notes: color
+typeOfAlias: river
 ---
 # Sulqat
 *(sul-KAHT)*

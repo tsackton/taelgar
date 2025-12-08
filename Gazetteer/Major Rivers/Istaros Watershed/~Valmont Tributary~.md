@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
-typeOf: river
+tags:
+  - place
+  - status/check/name
+typeOf: waterway
 whereabouts: Istaros Watershed
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 ---
 # The ~Valmont Tributary~
 >[!info]+ Information  

@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 whereabouts: Tyrwingha
 typeOf: settlement
 typeOfAlias: village
 pronunciation: NEV-yin
 dm_notes: none
 dm_owner: mike
+subtypeOf:
 ---
 # Nefyn
 *(NEV-yin)*

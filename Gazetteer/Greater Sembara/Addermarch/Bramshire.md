@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Bramshire
-typeOf: shire
+typeOf: subdivision
 whereabouts: Addermarch
 pronunciation: BRAM-shur
 dm_owner: none
 dm_notes: none
+typeOfAlias: shire
 ---
 # Bramshire
 *(BRAM-shur)*

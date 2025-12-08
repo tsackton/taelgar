@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: { defArt: }
+tags:
+  - place
+displayDefaults:
+  defArt:
 whereabouts: Duchy of Maseau
 typeOf: settlement
-typeOfAlias: camp
-subTypeOf: fortified
+typeOfAlias: fortified camp
+subTypeOf:
 ancestry: orc
 founded: 1719-08
 destroyed: 1719-12-05

@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, place]
-displayDefaults: { defArt: ""}
+tags:
+  - status/stub
+  - place
+displayDefaults:
+  defArt: ""
 whereabouts: Chardon
-typeOf: precinct
+typeOf: subdivision
 dm_notes: important
 dm_owner: tim
+typeOfAlias: precinct
 ---
 # Precinct IV
 >[!info]+ Information  

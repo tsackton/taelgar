@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork]
+tags:
+  - place
+  - status/needswork
 name: Skepwalk
-typeOf: ward
+typeOf: subdivision
 whereabouts: Tollen
 dm_notes: color
 dm_owner: tim
+typeOfAlias: ward
 ---
 # Skepwalk
 >[!info]+ Information  

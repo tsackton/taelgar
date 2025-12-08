@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: The Whale's Spout
-typeOf: tavern
+typeOf: inn
 whereabouts: Castrella
 dm_owner: none
 dm_notes: none
+typeOfAlias: tavern
 ---
 # The The Whale's Spout
 >[!info]+ Information  

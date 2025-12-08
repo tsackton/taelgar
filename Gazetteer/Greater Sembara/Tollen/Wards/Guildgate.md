@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Guildgate
-typeOf: ward
+typeOf: subdivision
 whereabouts: Tollen
 dm_owner: none
 dm_notes: color
+typeOfAlias: ward
 ---
 # Guildgate
 >[!info]+ Information  

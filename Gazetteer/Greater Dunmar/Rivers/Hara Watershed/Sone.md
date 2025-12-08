@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: river
+tags:
+  - place
+typeOf: waterway
 whereabouts: Hara Watershed
 pronunciation: SO-nay
 dm_owner: none
 dm_notes: color
+typeOfAlias: river
 ---
 # Sone
 *(SO-nay)*

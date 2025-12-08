@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: river
+tags:
+  - place
+typeOf: waterway
 whereabouts: Ursk
 pronunciation: LEE-is
 dm_owner: none
 dm_notes: color
+typeOfAlias: river
 ---
 # Leis
 *(LEE-is)*

@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: river
-aliases: [Nahadi River]
-whereabouts: 
-- {type: primary, location: Greater Chardon}
-- {type: secondary, location: Chasa-Nahadi Watershed }
+tags:
+  - place
+typeOf: waterway
+aliases:
+  - Nahadi River
+whereabouts:
+  - type: primary
+    location: Greater Chardon
+  - type: secondary
+    location: Chasa-Nahadi Watershed
 dm_notes: none
 dm_owner: none
 pronunciation: nah-HAH-dee
+typeOfAlias: river
 ---
 # Nahadi
 *(nah-HAH-dee)*

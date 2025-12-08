@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 whereabouts: Ursk
-typeOf: manor
+typeOf: building
 dm_owner: tim
 dm_notes: important
+typeOfAlias: manor
 ---
 # The Voknaz Manor
 >[!info]+ Information  

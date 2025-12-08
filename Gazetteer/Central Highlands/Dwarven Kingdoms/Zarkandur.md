@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
+tags:
+  - place
+  - status/cleanup/text
 campaignInfo: []
 name: Zarkandur
 ancestry: dwarven
-typeOf: city
+typeOf: settlement
 whereabouts: Am'khazar
 dm_notes: important
 dm_owner: tim
+typeOfAlias: city
 ---
 # Zarkandur
 >[!info]+ Information  

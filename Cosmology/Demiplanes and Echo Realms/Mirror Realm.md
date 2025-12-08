@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 typeOf: plane
-whereabouts: 
-- {type: home, location: Echo Realms, wHome: "A <subtypeOf> <typeOf> in <home:1>"}
-subtypeOf: rumored
+whereabouts:
+  - type: home
+    location: Echo Realms
+    wHome: A <subtypeOf> <typeOf> in <home:1>
+subtypeOf:
 dm_owner: none
 dm_notes: none
+typeOfAlias: rumored plane
 ---
 # The Mirror Realm
 >[!info]+ Information  

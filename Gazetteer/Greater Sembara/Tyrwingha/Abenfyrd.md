@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 campaignInfo:
 name: Abenfyrd
 typeOf: settlement
@@ -10,6 +11,7 @@ whereabouts: Tyrwingha
 pronunciation: AY-ben-veered
 dm_notes: none
 dm_owner: mike
+subtypeOf:
 ---
 # Abenfyrd
 *(AY-ben-veered)*

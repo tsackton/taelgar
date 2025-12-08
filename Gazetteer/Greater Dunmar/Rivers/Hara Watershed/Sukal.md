@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: river
+tags:
+  - place
+typeOf: waterway
 whereabouts: Hara Watershed
 name: Sukal
 pronunciation: su-KAHL
 dm_owner: none
 dm_notes: color
+typeOfAlias: river
 ---
 # Sukal
 *(su-KAHL)*

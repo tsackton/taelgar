@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Haldrenn
-typeOf: village
+typeOf: settlement
 whereabouts: Highmoor
 dm_owner: none
 dm_notes: none
 population: 72
+typeOfAlias: village
+subtypeOf:
 ---
 # Haldrenn
 >[!info]+ Information  

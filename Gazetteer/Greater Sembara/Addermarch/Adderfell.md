@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Adderfell
-typeOf: city
+typeOf: settlement
 whereabouts: Addermarch
 dm_owner: tim
 dm_notes: important
+typeOfAlias: city
 ---
 # Adderfell
 >[!info]+ Information  

@@ -1,19 +1,31 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, testcase]
-displayDefaults: {endStatus: Consumed by Cha'mutte's plague in, wOrigin: "<primary:UA> <ancestry> <typeof:UA> <home:1q>, once part of <origin:rA>", wPastHome: "<end> <target>", dPast: ""}
+tags:
+  - place
+  - testcase
+displayDefaults:
+  endStatus: Consumed by Cha'mutte's plague in
+  wOrigin: <primary:UA> <ancestry> <typeof:UA> <home:1q>, once part of <origin:rA>
+  wPastHome: <end> <target>
+  dPast: ""
 campaignInfo: []
 name: Isingue
 destroyed: 1545
-typeOf: city
+typeOf: settlement
 ancestry: Isinguer
-affiliations: 
-- { org: ruined, type: primary, start: 1545}
+affiliations:
+  - org: ruined
+    type: primary
+    start: 1545
 whereabouts:
-- {type: home, location: Istabor Alliance}
-- {type: home, start: 1545, location: Plaguelands}
+  - type: home
+    location: Istabor Alliance
+  - type: home
+    start: 1545
+    location: Plaguelands
 dm_notes: important
 dm_owner: tim
+typeOfAlias: city
 ---
 # Isingue
 >[!info]+ Information

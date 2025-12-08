@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Brantor
-typeOf: village
+typeOf: settlement
 whereabouts: Carlinshire
 dm_owner: tim
 dm_notes: color
+typeOfAlias: village
+subtypeOf:
 ---
 # Brantor
 >[!info]+ Information  

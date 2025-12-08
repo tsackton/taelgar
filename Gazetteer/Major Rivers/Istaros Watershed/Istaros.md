@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Istaros
-typeOf: river
+typeOf: waterway
 whereabouts: Istaros Watershed
-aliases: [Aistanë, Drogar, Mahar]
+aliases:
+  - Aistanë
+  - Drogar
+  - Mahar
 dm_owner: shared
 dm_notes: important
+typeOfAlias: river
 ---
 # Istaros
 >[!info]+ Information

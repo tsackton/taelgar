@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ""}
+tags:
+  - place
+displayDefaults:
+  defArt: ""
 name: Scrollwright Street
-typeOf: street
+typeOf: road
 whereabouts: Tollen
 dm_notes: none
 dm_owner: none
+typeOfAlias: street
 ---
 # Scrollwright Street
 >[!info]+ Information  

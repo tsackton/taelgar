@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
+tags:
+  - place
+  - status/cleanup/text
 name: Karawa
-typeOf: town
+typeOf: settlement
 whereabouts: Eastern Dunmar
 dm_notes: important
 dm_owner: tim
+typeOfAlias: town
 ---
 # Karawa
 >[!info]+ Information

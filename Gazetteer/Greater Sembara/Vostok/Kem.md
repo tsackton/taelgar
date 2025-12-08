@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Kem
-displayDefaults: {prep: on, defArt: the}
+displayDefaults:
+  prep: on
+  defArt: the
 pronunciation: KEM
-typeOf: river
+typeOf: waterway
 whereabouts: Vostok
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 ---
 # The Kem
 *(KEM)*

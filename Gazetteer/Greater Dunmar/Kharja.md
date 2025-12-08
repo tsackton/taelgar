@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 campaignInfo: []
 name: Kharja
-typeOf: river
-subTypeOf: intermittent
+typeOf: waterway
+subTypeOf:
 whereabouts: Istaros Watershed
 pronunciation: KHAAr-jaa
 dm_owner: tim
 dm_notes: important
+typeOfAlias: intermittent river
 ---
 # Kharja
 *(KHAAr-jaa)*

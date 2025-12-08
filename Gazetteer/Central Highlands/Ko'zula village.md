@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
+tags:
+  - place
+  - status/check/name
 whereabouts: Forest of Dreams
 ancestry: Deno'qai
 typeOf: settlement
 typeOfAlias: village
 dm_notes: important
 dm_owner: tim
+subtypeOf:
 ---
 # The Ko'zula Village
 >[!info]+ Information  

@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {defArt: ""}
-tags: [place]
-typeOf: neighborhood
+displayDefaults:
+  defArt: ""
+tags:
+  - place
+typeOf: subdivision
 whereabouts: North Bank
 dm_owner: tim
 dm_notes: important
+typeOfAlias: neighborhood
 ---
 # Nera Domains
 >[!info]+ Information  

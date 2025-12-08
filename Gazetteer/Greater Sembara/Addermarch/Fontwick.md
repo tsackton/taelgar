@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Fontwick
 typeOf: settlement
 typeOfAlias: village
 dm_owner: none
 dm_notes: none
 whereabouts: Stonewolds
+subtypeOf:
 ---
 # Fontwick
 >[!info]+ Information  

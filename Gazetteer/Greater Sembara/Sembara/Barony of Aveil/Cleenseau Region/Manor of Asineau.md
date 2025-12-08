@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: manor
+tags:
+  - place
+typeOf: subdivision
 created: 1651
 whereabouts: Barony of Aveil
 dm_notes: color
 dm_owner: mike
+typeOfAlias: manor
 ---
 # The Manor of Asineau
 >[!info]+ Information

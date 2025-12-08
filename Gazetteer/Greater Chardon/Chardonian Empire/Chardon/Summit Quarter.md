@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>" }
-typeOf: neighborhood
+tags:
+  - place
+displayDefaults:
+  wHome: <ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>
+typeOf: subdivision
 whereabouts: North Bank
 dm_owner: tim
 dm_notes: color
+typeOfAlias: neighborhood
 ---
 # The Summit Quarter
 >[!info]+ Information  

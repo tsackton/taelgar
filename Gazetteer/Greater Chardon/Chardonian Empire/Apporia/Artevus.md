@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: town
+tags:
+  - place
+typeOf: settlement
 whereabouts: Portalia
 population: 850
 dm_owner: tim
 dm_notes: color
+typeOfAlias: town
 ---
 # Artevus
 >[!info]+ Information  

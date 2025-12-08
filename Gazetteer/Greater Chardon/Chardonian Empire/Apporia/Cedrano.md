@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: province
+tags:
+  - place
+typeOf: subdivision
 whereabouts: Chardonian Empire
 pronunciation: KEH-dran-oh
 dm_owner: tim
 dm_notes: important
+typeOfAlias: province
 ---
 # Cedrano
 *(KEH-dran-oh)*

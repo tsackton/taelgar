@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork, place]
+tags:
+  - status/needswork
+  - place
 typeOf: settlement
 typeOfAlias: village
 ancestry: Deno'qai
 whereabouts: Highveil Forest
 dm_notes: color
 dm_owner: tim
+subtypeOf:
 ---
 # Raha
 >[!info]+ Information  

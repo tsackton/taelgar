@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: province
-whereabouts: 
-- {type: primary, location: Chardonian Empire }
-- {type: secondary, location: Apporia }
+tags:
+  - place
+typeOf: subdivision
+whereabouts:
+  - type: primary
+    location: Chardonian Empire
+  - type: secondary
+    location: Apporia
 dm_owner: tim
 dm_notes: important
+typeOfAlias: province
 ---
 # Portalia
 >[!info]+ Information  

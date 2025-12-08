@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Aursen
-typeOf: river
+typeOf: waterway
 whereabouts: Istaros Watershed
-aliases: [Aursen River, River Aursen]
+aliases:
+  - Aursen River
+  - River Aursen
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 ---
 # Aursen
 >[!info]+ Information  

@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 campaignInfo:
 name: Duchy of Seham
-typeOf: duchy
+typeOf: subdivision
 whereabouts: Sembara
 dm_notes: color
 dm_owner: none
+typeOfAlias: duchy
 ---
 # The Duchy of Seham
 >[!info]+ Information  

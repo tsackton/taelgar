@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Free City of Tollen
-typeOf: city
+typeOf: settlement
 whereabouts: Western Green Sea
-aliases: [Free City of Tollen, Tollen]
+aliases:
+  - Free City of Tollen
+  - Tollen
 dm_owner: tim
 dm_notes: important
+typeOfAlias: city
 ---
 # The Free City of Tollen
 >[!info]+ Information  

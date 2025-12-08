@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 campaignInfo:
 name: Marches of Enford
-typeOf: march
+typeOf: subdivision
 whereabouts: Western Marches
 dm_notes: color
 dm_owner: none
+typeOfAlias: march
 ---
 # The Marches of Enford
 >[!info]+ Information  
