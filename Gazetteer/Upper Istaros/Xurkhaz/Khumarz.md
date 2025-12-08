@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: { dPast: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <current:3Frq>, <end:U> by [[Grash]] on <enddate>", wPastHome: ""}
+tags:
+  - place
+displayDefaults:
+  dPast: <ancestry:UA> <subtypeof:UA> <typeof:UA> <current:3Frq>, <end:U> by [[Grash]] on <enddate>
+  wPastHome: ""
 campaignInfo: []
 name: Khumarz
 destroyed: 1748-12-11
-typeOf: town
+typeOf: settlement
 ancestry: orc
 whereabouts: Xurkhaz
 dm_owner: tim
 dm_notes: color
+typeOfAlias: town
 ---
 # Khumarz
 >[!info]+ Information

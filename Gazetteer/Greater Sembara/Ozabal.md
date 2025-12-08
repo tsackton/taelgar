@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Ozabal
 ancestry: lizardfolk
-typeOf: swamp
+typeOf: wetlands
 whereabouts: Greater Sembara
-aliases: [Ozabal Swamp]
+aliases:
+  - Ozabal Swamp
 dm_owner: none
 dm_notes: color
+subtypeOf: swamp
 ---
 # Ozabal
 >[!info]+ Information  

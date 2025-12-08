@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: East Bog
-typeOf: swamp
+typeOf: wetlands
 typeOfAlias: bog
 whereabouts: Barony of Aveil
 dm_notes: none
 dm_owner: none
+subtypeOf: swamp
 ---
 # The East Bog
 >[!info]+ Information  

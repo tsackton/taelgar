@@ -1,14 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
-displayDefaults: {defArt: ""}
+tags:
+  - place
+  - status/stub
+displayDefaults:
+  defArt: ""
 dm_owner: tim
 dm_notes: important
-whereabouts: 
-- {type: primary, location: Sentinels }
-- {type: secondary, location: Central Highlands }
-typeOf: palace
+whereabouts:
+  - type: primary
+    location: Sentinels
+  - type: secondary
+    location: Central Highlands
+typeOf: building
 subTypeOf: ruined
+typeOfAlias: palace
 ---
 # Hralgar's Palace
 >[!info]+ Information  

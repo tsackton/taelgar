@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
+tags:
+  - place
+  - status/check/name
 name: Cleric Cooks
 created: 1748-08-07
-typeOf: restaurant
-whereabouts: 
-- {type: primary, location: Voltara }
+typeOf: building
+whereabouts:
+  - type: primary
+    location: Voltara
 dm_notes: none
 dm_owner: player
+typeOfAlias: restaurant
 ---
 # Cleric Cooks
 >[!info]+ Information  

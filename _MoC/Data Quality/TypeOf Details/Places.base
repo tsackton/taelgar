@@ -19,9 +19,9 @@ views:
       - destroyed
       - founded
     sort:
-      - property: typeOfAlias
-        direction: ASC
       - property: typeOf
+        direction: ASC
+      - property: typeOfAlias
         direction: ASC
       - property: ancestry
         direction: DESC
@@ -40,7 +40,7 @@ views:
     name: NonStandard
     filters:
       and:
-        - '!typeOf.containsAny("subdivision", "settlement", "realm", "inn", "building", "waterway", "watershed", "road", "holy site", "island", "plane", "region")'
+        - '!typeOf.containsAny("subdivision", "settlement", "realm", "inn", "building", "waterway", "watershed", "road", "holy site", "island", "plane", "region", "lake", "wetlands", "forest")'
     order:
       - file.name
       - typeOf

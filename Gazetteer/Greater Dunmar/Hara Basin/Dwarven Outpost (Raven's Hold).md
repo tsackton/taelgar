@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
-displayDefaults: {defArt: ''}
+tags:
+  - place
+  - status/cleanup/text
+displayDefaults:
+  defArt: ""
 campaignInfo: []
 name: Dwarven Outpost (Raven's Hold)
-typeOf: fort
+typeOf: building
 ancestry: dwarven
 subTypeOf: ruined
 whereabouts: Sentinel Range
 dm_notes: important
 dm_owner: tim
+typeOfAlias: fort
 ---
 # Dwarven Outpost (Raven's Hold)
 >[!info]+ Information

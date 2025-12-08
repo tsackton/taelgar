@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ''}
+tags:
+  - place
+displayDefaults:
+  defArt: ""
 name: Arryn's Tower
-typeOf: tower
-whereabouts: 
-- {type: home, location: ~Eastern Islands~, linkText: in the}
+typeOf: building
+whereabouts:
+  - type: home
+    location: ~Eastern Islands~
+    linkText: in the
 dm_notes: none
 dm_owner: none
+typeOfAlias: tower
 ---
 # Arryn's Tower
 >[!info]+ Information  

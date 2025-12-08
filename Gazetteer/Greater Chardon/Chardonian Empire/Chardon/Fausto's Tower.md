@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
-displayDefaults: {defArt: ""}
-typeOf: tower
+tags:
+  - place
+  - status/stub
+displayDefaults:
+  defArt: ""
+typeOf: building
 whereabouts: Chardon
 dm_owner: tim
 dm_notes: important
+typeOfAlias: tower
 ---
 # Fausto's Tower
 >[!info]+ Information  
