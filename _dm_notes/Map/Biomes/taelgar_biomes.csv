@@ -1,0 +1,31 @@
+Taelgar_Habitat,WWF_Biome,D&D_Habitat,Real_World_Examples,Vibes
+Agricultural Heartland,,Settled,"Northern France farmlands, North China Plain","Intensively farmed fields, orchards, irrigation, villages everywhere."
+Rural Mosaic (Fields & Woods),,Settled; Forest; Grassland,"Medieval European countryside, New England mixed farms","Patchwork of fields, hedgerows, and woodlots with scattered villages."
+Pastoral / Rangeland,,Settled; Grassland; Hill,"Central Asian grazing lands, drier parts of Great Plains","Semi-wild grazing country with herders, fences, and long stock trails."
+Great City / Ruin-Dominated Hex,,Settled,"Rome at its height, Angkor temple complex","Dense stone, streets, walls, or sprawling ruins dominating the hex."
+Tropical Rainforest Jungle,Tropical & subtropical moist broadleaf forests,Forest,"Amazon, Congo Basin, Borneo lowlands","Steaming multi-layer jungle; very slow travel, huge biodiversity."
+Tropical Monsoon / Dry Forest,Tropical & subtropical dry broadleaf forests,Forest,"Indian monsoon deciduous forests, parts of Central America","Dense broadleaf forest that drops leaves in the long dry season; dusty, then explosively lush in the rains."
+Tropical Pine-Oak / Conifer Forest,Tropical & subtropical coniferous forests,Forest; Hill,"Mexican pine–oak forests, Central American highland conifers","Warm highland forests of pines and oaks; clear understory, good trails, foggy ridges."
+Temperate Broadleaf / Mixed Forest,Temperate broadleaf & mixed forests,Forest,"Eastern US woods, central European forests",Classic four-season forest of oaks and beeches; archetypal fantasy woods.
+Temperate Rainforest / Coastal Conifer Forest,Temperate coniferous forests,Forest; Hill; Mountain,"Pacific Northwest, coastal redwoods","Giant conifers, mist, mossy trunks, deep ravines and very wet air."
+Montane Forest Belt,Temperate coniferous forests,Mountain; Forest,"Mid-elevation Rockies, Carpathian pine belts",Steep slopes cloaked in conifers and mixed woods; deep valleys and rough trails.
+Boreal Forest / Taiga,Boreal forests / taiga,Forest; Arctic,"Siberia, interior Canada and Alaska","Endless conifers, long snowy winters, boggy hollows and biting insects."
+Mediterranean Woodland & Scrub,"Mediterranean forests, woodlands, and scrub",Forest; Grassland; Hill,"Mediterranean Basin hills, California chaparral, Chilean matorral","Hot dry summers, wet winters; oaks, scrub, frequent fires; bandit hills above wine valleys."
+Tropical Savanna Woodland,"Tropical & subtropical grasslands, savannas & shrublands",Forest; Grassland,"Indian monsoon woodlands, African miombo","Tall grass with scattered trees, strong wet–dry seasons, big storms."
+Tropical Savanna Grassland,"Tropical & subtropical grasslands, savannas & shrublands",Grassland,"Serengeti, Brazilian cerrado (open forms)","Warm open grassland with scattered trees, herds, predators, frequent fires."
+Temperate Grassland / Prairie,"Temperate grasslands, savannas & shrublands",Grassland,"North American prairies, Argentinian pampas","Deep, fertile grasses under big skies; fast travel and farming potential."
+Steppe / Semi-Arid Grassland,"Temperate grasslands, savannas & shrublands",Grassland; Hill,"Central Asian steppe, drier Great Plains","Sparser, shorter grass, big temperature swings, nomads and dust storms."
+Moor / Upland Pasture,Montane grasslands & shrublands,Hill; Grassland,"Scottish Highlands, Irish boggy uplands","Windy heaths, rough grass, heather and bogs; sheep, stones, and fog."
+Alpine Grassland & Shrub,Montane grasslands & shrublands,Mountain; Grassland; Arctic,"Alpine meadows in Alps/Rockies, Tibetan alpine pastures","High meadows and shrubs above treeline; short summers, herders and sky predators."
+Semi-Arid / Monsoon Desert,Deserts & xeric shrublands,Desert; Hill,"American Southwest, Sahel fringe","Rocky mesas and canyons, thorn scrub, dry most of the year with violent storms."
+Hyper-Arid Desert / Sand Sea,Deserts & xeric shrublands,Desert,"Central Sahara, Atacama core, Rub’ al Khali",Vast dunes or salt flats with almost no life; survival and navigation are the challenge.
+Cold / High Desert Plateau,Deserts & xeric shrublands,Desert; Mountain,"Tibetan Plateau basins, some high Andean deserts","Thin air, cold nights, stony ground with sparse shrubs and distant horizons."
+Rocky Badlands / Eroded Highlands,Deserts & xeric shrublands,Hill; Mountain; Desert,"Dakotas badlands, Cappadocia, eroded plateaus","Labyrinths of gullies, buttes, and cliffs; sparse plants, perfect ambush country."
+Marsh / Fen (Grassy Wetlands),Flooded grasslands & savannas,Swamp; Grassland,"Klamath Marshes, Okavango grasslands, large river marshes",Wide reedbeds and shallow water; boats and causeways instead of roads.
+Warm Swamp Forest,Tropical & subtropical moist broadleaf forests,Swamp; Forest,"Congo/Amazon swamp forests, parts of the Everglades","Trees standing in dark water, buttress roots, humid and buzzing with life."
+Temperate Swamp / Bayou,Temperate broadleaf & mixed forests,Swamp; Forest,"US Gulf Coast bayous, Danube floodplain woods","Moss-draped trees over slow brown channels; rot, ghosts, and hidden shacks."
+Mangrove Swamp,Mangrove,Swamp,"Sundarbans, Florida mangroves, SE Asian coasts","Brackish coastal forests with tangled roots; tides, salt, crocodiles, and smugglers."
+Bog / Muskeg,Tundra,Swamp; Arctic; Hill,"Peat bogs of Ireland/Scotland, Canadian muskeg","Spongy, peaty ground, dwarf trees, hidden pools, mist and will-o-wisps."
+Lowland Tundra,Tundra,Arctic,"Arctic coastal plains, Alaska North Slope","Permafrost plains with dwarf shrubs, thaw ponds, and reindeer or caribou."
+Alpine Tundra / High Cold Steppe,Tundra,Arctic; Mountain,"High Alps above treeline, Andean puna","Above the trees: short grass, rocks and snowfields; thin air and sudden storms."
+Glacier / Icefield,,Arctic; Mountain,"Greenland ice margins, large alpine glaciers","Bare ice and snow with crevasses; almost no forage, high environmental hazard."
