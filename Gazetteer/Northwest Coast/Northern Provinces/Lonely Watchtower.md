@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags:
   - place
 name: Lonely Watchtower
-typeOf: tower
+typeOf: building
 subtypeOf:
 whereabouts:
   - type: primary

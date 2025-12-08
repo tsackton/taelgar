@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Pietravola Abbey
-typeOf: abbey
+typeOf: holy site
 subTypeOf: ruined
 whereabouts:
-- {type: primary, location: ~North Voltara Hills~}
+  - type: primary
+    location: ~North Voltara Hills~
 dm_owner: none
 dm_notes: none
+typeOfAlias: abbey
 ---
 # Pietravola Abbey
 >[!info]+ Information  

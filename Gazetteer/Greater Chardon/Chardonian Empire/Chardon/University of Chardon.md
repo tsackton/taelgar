@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/image]
-typeOf: university
-whereabouts: 
-- { type: home, start: 980, location: Chardon }
+tags:
+  - place
+  - status/cleanup/image
+typeOf: building
+whereabouts:
+  - type: home
+    start: 980
+    location: Chardon
 founded: 939
 timelineDescriptor: University of Chardon
 dm_owner: tim
 dm_notes: important
+typeOfAlias: university
 ---
 # The University of Chardon
 >[!info]+ Information

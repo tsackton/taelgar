@@ -1,16 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
-displayDefaults: {defArt: '', wHome: "<subTypeOf:UA> <ancestry:UA> <typeOf:UA> <home:q>, once part of <origin>"}
+tags:
+  - place
+  - status/cleanup/text
+displayDefaults:
+  defArt: ""
+  wHome: <subTypeOf:UA> <ancestry:UA> <typeOf:UA> <home:q>, once part of <origin>
 campaignInfo: []
 name: Raven's Hold
 subTypeOf: ruined
-typeOf: fort
+typeOf: building
 whereabouts:
-- { type: home, location: Dunmar, end: 1544 }
-- { type: home, location: Sentinel Range, start: 1545 }
+  - type: home
+    location: Dunmar
+    end: 1544
+  - type: home
+    location: Sentinel Range
+    start: 1545
 dm_notes: important
 dm_owner: tim
+typeOfAlias: fort
 ---
 # Raven's Hold
 >[!info]+ Information

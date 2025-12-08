@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 whereabouts: Amberglow
-excludePublish: ["clee"]
+excludePublish:
+  - clee
 ancestry: fey
-typeOf: palace
+typeOf: building
 dm_notes: none
 dm_owner: tim
+typeOfAlias: palace
 ---
 # The Cloud Palace
 >[!info]+ Information  

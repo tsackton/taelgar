@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ""}
+tags:
+  - place
+displayDefaults:
+  defArt: ""
 name: Serethwyn Tor
-typeOf: ruin
+typeOf: building
 whereabouts: Carlinshire
 dm_owner: tim
 dm_notes: none
+typeOfAlias: ruin
 ---
 # Serethwyn Tor
 >[!info]+ Information  

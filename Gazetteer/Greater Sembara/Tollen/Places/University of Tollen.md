@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: University of Tollen
-typeOf: university
+typeOf: building
 whereabouts: Magus Street
 dm_notes: important
 dm_owner: tim
+typeOfAlias: university
 ---
 # The University of Tollen
 >[!info]+ Information  

@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 whereabouts: Zvervinka
-typeOf: tower
+typeOf: building
 dm_notes: important
 dm_owner: tim
+typeOfAlias: tower
 ---
 # The Watcher's Spire
 >[!info]+ Information  

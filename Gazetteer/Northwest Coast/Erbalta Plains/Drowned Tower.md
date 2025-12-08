@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags:
   - place
 name: Drowned Tower
-typeOf: tower
+typeOf: building
 subTypeOf:
 whereabouts: Erbalta Plains
 dm_owner: none

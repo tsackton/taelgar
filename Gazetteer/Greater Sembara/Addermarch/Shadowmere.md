@@ -3,8 +3,8 @@ headerVersion: 2023.11.25
 tags:
   - place
 name: Shadowmere
-typeOf: swamp
-subTypeOf:
+typeOf: wetlands
+subTypeOf: swam
 whereabouts: Addermarch
 dm_owner: tim
 dm_notes: color

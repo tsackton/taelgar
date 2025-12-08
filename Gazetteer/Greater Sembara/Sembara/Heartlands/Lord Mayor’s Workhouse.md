@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Lord Mayor’s Workhouse
-typeOf: orphanage
+typeOf: building
 whereabouts: Embry
 dm_owner: mike
 dm_notes: color
+typeOfAlias: orphanage
 ---
 # The Lord Mayor’s Workhouse
 >[!info]+ Information  

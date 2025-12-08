@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Latazaro
-typeOf: swamp
+typeOf: wetlands
 ancestry: lizardfolk
 whereabouts: Western Green Sea
 pronunciation: LAH-tah-zah-roh
 dm_notes: color
 dm_owner: none
+subtypeOf: swamp
 ---
 # Latazaro
 *(LAH-tah-zah-roh)*

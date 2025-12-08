@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Tirnessa
-typeOf: fort
+typeOf: building
 ancestry: elven
 subTypeOf: ruined
 whereabouts: Highveil Forest
@@ -14,6 +15,7 @@ campaignInfo:
 dm_owner: none
 dm_notes: none
 pronunciation: TEER-ness-ah
+typeOfAlias: fort
 ---
 # Tirnessa
 *(TEER-ness-ah)*

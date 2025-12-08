@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ""}
-typeOf: palace
+tags:
+  - place
+displayDefaults:
+  defArt: ""
+typeOf: building
 whereabouts: Emberwine
 ancestry: fey
 dm_owner: tim
 dm_notes: none
+typeOfAlias: palace
 ---
 # Sunwine Hall
 >[!info]+ Information  

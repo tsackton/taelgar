@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ''}
+tags:
+  - place
+displayDefaults:
+  defArt: ""
 name: Stormcaller Tower
 destroyed: 1748-11-23
-typeOf: tower
-whereabouts: 
-- {type: home, location: Samtal, wPastHome: "Ruined <typeOf> <current:3qr>"}
+typeOf: building
+whereabouts:
+  - type: home
+    location: Samtal
+    wPastHome: Ruined <typeOf> <current:3qr>
 dm_notes: color
 dm_owner: tim
+typeOfAlias: tower
 ---
 # Stormcaller Tower
 >[!info]+ Information  

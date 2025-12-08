@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Old Chardon Canal
-typeOf: canal
+typeOf: waterway
 whereabouts: Portalia
 dm_owner: tim
 dm_notes: important
+typeOfAlias: canal
 ---
 # The Old Chardon Canal
 >[!info]+ Information  

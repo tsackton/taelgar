@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 whereabouts: Nashtkar
-typeOf: fort
+typeOf: building
 subTypeOf: ruined
 ancestry: Dunmari
 dm_notes: important
 dm_owner: tim
+typeOfAlias: fort
 ---
 # The Dunmari Fort (Gomat)
 >[!info]+ Information
