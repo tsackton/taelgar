@@ -1,13 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {wSecondary: "<typeof:Ua> <secondary:q>", wHome: "<typeof:Ua> <home:q>"}
-typeOf: portal
-whereabouts: 
-- {location: Nashtkar, type: secondary }
-- {location: Amberglow, type: home }
+tags:
+  - place
+displayDefaults:
+  wSecondary: <typeof:Ua> <secondary:q>
+  wHome: <typeof:Ua> <home:q>
+typeOf: infrastructure
+whereabouts:
+  - location: Nashtkar
+    type: secondary
+  - location: Amberglow
+    type: home
 dm_notes: none
 dm_owner: tim
+typeOfAlias: fey portal
 ---
 # The Lastlight Falls
 >[!info]+ Information  

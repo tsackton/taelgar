@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-excludePublish: ["dufr"]
-typeOf: magical place
+tags:
+  - place
+excludePublish:
+  - dufr
+typeOf: topographical feature
 whereabouts: Feywild
 dm_owner: mike
 dm_notes: color
+typeOfAlias: magical place
 ---
 # The Sunset Gate
 >[!info]+ Information

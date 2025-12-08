@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 whereabouts: Amberglow
-excludePublish: ["clee"]
+excludePublish:
+  - clee
 ancestry: fey
-typeOf: grove
+typeOf: forest
 dm_notes: none
 dm_owner: tim
+typeOfAlias: grove
 ---
 # The Heartwood Grove
 >[!info]+ Information  

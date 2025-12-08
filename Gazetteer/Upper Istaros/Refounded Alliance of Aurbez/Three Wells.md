@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ""}
-typeOf: meeting place
-whereabouts: 
-- {type: secondary, location: Aurbez Plateau } 
-- {type: primary, location: Refounded Alliance of Aurbez }
+tags:
+  - place
+displayDefaults:
+  defArt: ""
+typeOf: infrastructure
+whereabouts:
+  - type: secondary
+    location: Aurbez Plateau
+  - type: primary
+    location: Refounded Alliance of Aurbez
 dm_notes: color
 dm_owner: tim
+typeOfAlias: meeting place
 ---
 # Three Wells
 >[!info]+ Information  

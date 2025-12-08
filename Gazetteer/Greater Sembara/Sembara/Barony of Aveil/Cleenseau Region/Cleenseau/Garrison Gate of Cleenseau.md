@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Garrison Gate of Cleenseau
-typeOf: gate
+typeOf: infrastructure
 whereabouts: Cleenseau
 dm_owner: mike
 dm_notes: none
+typeOfAlias: gate
 ---
 # The Garrison Gate of Cleenseau
 >[!info]+ Information

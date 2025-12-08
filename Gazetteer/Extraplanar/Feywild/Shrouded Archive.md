@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: library
+tags:
+  - place
+typeOf: building
 whereabouts: Feywild
 dm_owner: tim
 dm_notes: important
+typeOfAlias: library
 ---
 # The Shrouded Archive
 >[!info]+ Information  

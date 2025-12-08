@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
+tags:
+  - place
+  - status/cleanup/text
 campaignInfo:
 name: Green Sea
-typeOf: sea
-whereabouts: 
-- { type: home, location: Taelgar, linkText: in}
+typeOf: marine feature
+whereabouts:
+  - type: home
+    location: Taelgar
+    linkText: in
 dm_notes: important
 dm_owner: shared
+typeOfAlias: sea
 ---
 # The Green Sea
 >[!info]+ Information

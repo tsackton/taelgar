@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Tollen Bridge
-typeOf: bridge
+typeOf: infrastructure
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
+typeOfAlias: bridge
 ---
 # The Tollen Bridge
 >[!info]+ Information  

@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: North Wall
-typeOf: wall
+typeOf: infrastructure
 whereabouts: North Bank
 dm_owner: tim
 dm_notes: none
+typeOfAlias: wall
 ---
 # The North Wall
 >[!info]+ Information  

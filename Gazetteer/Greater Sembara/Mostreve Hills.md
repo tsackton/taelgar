@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/map]
+tags:
+  - place
+  - status/cleanup/map
 campaignInfo: []
 name: Mostreve Hills
-typeOf: line of hills
+typeOf: topographical feature
 whereabouts: Greater Sembara
 pronunciation: mohs-TRE-vuh or mohs-tre-vay
 dm_owner: mike,tim
 dm_notes: color
+typeOfAlias: line of hills
 ---
 # The Mostreve Hills
 *(mohs-TRE-vuh or mohs-tre-vay)*

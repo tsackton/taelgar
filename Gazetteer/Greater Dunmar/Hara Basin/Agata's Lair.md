@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ""}
+tags:
+  - place
+displayDefaults:
+  defArt: ""
 campaignInfo: []
 name: Agata's Lair
-typeOf: house
+typeOf: building
 typeOfAlias: lair
 whereabouts: Garamjala Desert
 dm_notes: important
 dm_owner: tim
+subtypeOf: house
 ---
 # Agata's Lair
 >[!info]+ Information

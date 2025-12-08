@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name, status/stub]
+tags:
+  - place
+  - status/check/name
+  - status/stub
 name: Merchants's Gate
-typeOf: gate
+typeOf: infrastructure
 whereabouts: North Wall (Chardon)
 dm_owner: tim
 dm_notes: none
+typeOfAlias: gate
 ---
 # The Merchants's Gate
 >[!info]+ Information  

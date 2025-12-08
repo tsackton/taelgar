@@ -5,7 +5,7 @@ tags:
   - status/check/name
 name: Cleric Cooks
 created: 1748-08-07
-typeOf: building
+typeOf: inn
 whereabouts:
   - type: primary
     location: Voltara

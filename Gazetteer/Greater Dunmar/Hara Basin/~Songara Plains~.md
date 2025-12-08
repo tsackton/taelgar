@@ -1,9 +1,12 @@
 ---
 headerVersion: 2023.11.25
-typeOf: region
+typeOf: plain
 whereabouts: Central Dunmar
-aliases: [plains of Songara]
-tags: [place, status/check/name]
+aliases:
+  - plains of Songara
+tags:
+  - place
+  - status/check/name
 dm_owner: none
 dm_notes: none
 ---

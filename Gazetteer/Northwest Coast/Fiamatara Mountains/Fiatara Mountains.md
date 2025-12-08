@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-aliases: [Firepeaks]
+tags:
+  - place
+aliases:
+  - Firepeaks
 name: Fiatara Mountains
-typeOf: mountain range
+typeOf: topographical feature
 whereabouts: Northwest Coast
 dm_owner: tim
 dm_notes: none
 pronunciation: fya-TAH-rah
+typeOfAlias: mountain range
 ---
 # The Fiatara Mountains
 *(fya-TAH-rah)*

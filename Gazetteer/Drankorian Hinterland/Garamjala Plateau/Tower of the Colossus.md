@@ -1,7 +1,10 @@
 ---
-tags: [status/stub, place]
+tags:
+  - status/stub
+  - place
 dm_owner: tim
 dm_notes: important
+typeOf: building
 ---
 
 %%SECRET[1]%%

@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
+tags:
+  - place
+  - status/check/name
 dm_owner: none
 dm_notes: none
-typeOf: gap
+typeOf: topographical feature
 whereabouts: Darba Highlands
+typeOfAlias: gap
 ---
 # The ~Yuvanti Gap~
 >[!info]+ Information  

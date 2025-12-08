@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Straits of Cymea
-typeOf: strait
+typeOf: marine feature
 whereabouts: Green Sea
 dm_owner: none
 dm_notes: none
+typeOfAlias: strait
 ---
 # The Straits of Cymea
 >[!info]+ Information  

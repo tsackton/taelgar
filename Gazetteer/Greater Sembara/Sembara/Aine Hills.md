@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 campaignInfo:
 name: Aine Hills
-typeOf: line of hills
+typeOf: topographical feature
 whereabouts: Highlands
 dm_notes: none
 dm_owner: none
+typeOfAlias: line of hills
 ---
 # The Aine Hills
 >[!info]+ Information  

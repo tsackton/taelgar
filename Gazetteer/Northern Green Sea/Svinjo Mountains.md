@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 pronunciation: SHEEF-nyo
-typeOf: mountain range
+typeOf: topographical feature
 whereabouts: Northern Green Sea
-aliases: [Hrimthur]
+aliases:
+  - Hrimthur
 dm_owner: none
 dm_notes: none
+typeOfAlias: mountain range
 ---
 # The Svinjo Mountains
 *(SHEEF-nyo)*

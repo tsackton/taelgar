@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: River Bridge
-typeOf: bridge
+typeOf: infrastructure
 whereabouts: Chardon
-aliases: [River Bridge]
+aliases:
+  - River Bridge
 dm_owner: tim
 dm_notes: color
+typeOfAlias: bridge
 ---
 # The River Bridge
 >[!info]+ Information  

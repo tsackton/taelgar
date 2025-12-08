@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Myraeni Gap
-typeOf: line of hills
+typeOf: topographical feature
 whereabouts: Greater Dunmar
 dm_notes: important
 dm_owner: tim
+typeOfAlias: line of hills
 ---
 # The Myraeni Gap
 >[!info]+ Information

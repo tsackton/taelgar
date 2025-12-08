@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Illoria
-typeOf: archipelago
+typeOf: region
 whereabouts: Nevos Sea
 pronunciation: ih-LOHR-ee-ah
 dm_notes: important
 dm_owner: tim
+typeOfAlias: archipelago
 ---
 # Illoria
 *(ih-LOHR-ee-ah)*

@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/map]
-aliases: [~Chardon Peninsula~, Apporian Peninsula]
-typeOf: peninsula
+tags:
+  - place
+  - status/cleanup/map
+aliases:
+  - ~Chardon Peninsula~
+  - Apporian Peninsula
+typeOf: topographical feature
 whereabouts: West Coast Region
 pronunciation: a-POHR-ree-ah
 dm_owner: tim
 dm_notes: important
+typeOfAlias: peninsula
 ---
 # Apporia
 *(a-POHR-ree-ah)*

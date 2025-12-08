@@ -1,7 +1,10 @@
 ---
-tags: [place, status/stub]
+tags:
+  - place
+  - status/stub
 dm_owner: tim
 dm_notes: color
+typeOf: realm
 ---
 
 %% see backlink; no other information %%

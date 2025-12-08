@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Western Gulf
-typeOf: gulf
+typeOf: marine feature
 whereabouts: Green Sea
 dm_owner: none
 dm_notes: none
+typeOfAlias: gulf
 ---
 # The Western Gulf
 >[!info]+ Information  

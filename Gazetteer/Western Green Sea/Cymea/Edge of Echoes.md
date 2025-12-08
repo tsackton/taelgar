@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 dm_notes: none
 dm_owner: none
-typeOf: cave complex
+typeOf: subterranean feature
 whereabouts:
-  - {type: primary, location: Cymea}
+  - type: primary
+    location: Cymea
+typeOfAlias: cave complex
 ---
 # The Edge of Echoes
 >[!info]+ Information  

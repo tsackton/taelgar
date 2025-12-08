@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
+tags:
+  - place
+  - status/cleanup/text
 name: Kilrath Caves
-typeOf: cave system
+typeOf: subterranean feature
 whereabouts: Stonewolds
 dm_owner: none
 dm_notes: none
+typeOfAlias: cave system
 ---
 # The Kilrath Caves
 >[!info]+ Information  

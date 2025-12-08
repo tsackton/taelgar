@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: lair
+tags:
+  - place
+typeOf: building
 ancestry: werewolf
 whereabouts: Tokra
 dm_owner: tim
 dm_notes: important
+typeOfAlias: lair
 ---
 # The Lair of the Fraternity of the Empty Moon
 >[!info]+ Information  

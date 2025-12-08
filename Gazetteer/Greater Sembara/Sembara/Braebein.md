@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Braebein
-typeOf: line of hills
+typeOf: topographical feature
 whereabouts: Highlands
 pronunciation: BRAY-been
 dm_notes: none
 dm_owner: none
+typeOfAlias: line of hills
 ---
 # Braebein
 *(BRAY-been)*

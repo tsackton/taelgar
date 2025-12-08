@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Tanner's Gate
-typeOf: gate
+typeOf: infrastructure
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
+typeOfAlias: gate
 ---
 # The Tanner's Gate
 >[!info]+ Information  

@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ""}
+tags:
+  - place
+displayDefaults:
+  defArt: ""
 whereabouts: Amberglow
-typeOf: well
+typeOf: infrastructure
 ancestry: fey
 dm_owner: tim
 dm_notes: important
+subtypeOf: magical
+typeOfAlias: well
 ---
 # Prismwell
 >[!info]+ Information  

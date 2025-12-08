@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ""}
+tags:
+  - place
+displayDefaults:
+  defArt: ""
 name: Tywynn Bay
-typeOf: bay
+typeOf: marine feature
 typeOfAlias: tidal estuary
 whereabouts: Western Gulf
 dm_owner: none
 dm_notes: none
+subtypeOf: bay
 ---
 # The Tywynn Bay
 >[!info]+ Information  

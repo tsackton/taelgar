@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {wCurrent: "Controlled by <current:1>"}
-typeOf: gulf
-whereabouts: Endless Ocean 
+tags:
+  - place
+displayDefaults:
+  wCurrent: Controlled by <current:1>
+typeOf: marine feature
+whereabouts: Endless Ocean
 dm_owner: tim
 dm_notes: important
+typeOfAlias: gulf
 ---
 # The Gulf of Chardon
 >[!info]+ Information  

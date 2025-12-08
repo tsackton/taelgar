@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 dm_notes: important
 dm_owner: tim
-typeOf: forge
+typeOf: infrastructure
 subTypeOf: ruined
 whereabouts:
-  - {type: home, location: Edge of Echoes}
+  - type: home
+    location: Edge of Echoes
+typeOfAlias: forge
 ---
 # The Elemental Forge
 >[!info]+ Information  

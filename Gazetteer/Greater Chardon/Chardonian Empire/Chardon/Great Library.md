@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Great Library
 whereabouts: Chardon
-typeOf: library
+typeOf: building
 dm_notes: important
 dm_owner: tim
+typeOfAlias: library
 ---
 # The Great Library
 >[!info]+ Information  
