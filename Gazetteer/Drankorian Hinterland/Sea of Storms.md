@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork]
+tags:
+  - place
+  - status/needswork
 name: Sea of Storms
-typeOf: sea
-whereabouts: 
-- { type: home, location: Taelgar, linkText: in}
+typeOf: marine feature
+whereabouts:
+  - type: home
+    location: Taelgar
+    linkText: in
 dm_notes: important
 dm_owner: tim
+typeOfAlias: sea
 ---
 # The Sea of Storms
 >[!info]+ Information  

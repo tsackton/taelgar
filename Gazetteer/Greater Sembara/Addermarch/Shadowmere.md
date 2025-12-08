@@ -4,7 +4,7 @@ tags:
   - place
 name: Shadowmere
 typeOf: wetlands
-subTypeOf: swam
+subTypeOf: swamp
 whereabouts: Addermarch
 dm_owner: tim
 dm_notes: color

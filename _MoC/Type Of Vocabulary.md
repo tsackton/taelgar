@@ -1,1 +1,0 @@
-Several kinds of descriptive tags can have 

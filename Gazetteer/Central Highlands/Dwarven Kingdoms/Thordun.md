@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Thordûn
-typeOf: gate
-whereabouts: Am'khazar 
+typeOf: infrastructure
+whereabouts: Am'khazar
 campaignInfo:
-- {campaign: GL, type: passed through, date: 1747-12-03, wParty: "<person:u> <met:x> on <target>"}
+  - campaign: GL
+    type: passed through
+    date: 1747-12-03
+    wParty: <person:u> <met:x> on <target>
 dm_owner: none
 dm_notes: none
 pronunciation: THOR-doon
+typeOfAlias: gate
 ---
 # Thordûn
 *(THOR-doon)*

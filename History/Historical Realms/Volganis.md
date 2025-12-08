@@ -1,7 +1,10 @@
 ---
-tags: [place, status/stub]
+tags:
+  - place
+  - status/stub
 dm_owner: tim
 dm_notes: important
+typeOf: realm
 ---
 %% a northern polity referenced in old high school material a lot, as a kingdom fighting agains[](Pandar.md)]]
 

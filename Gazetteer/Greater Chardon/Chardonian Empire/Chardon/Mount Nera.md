@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {defArt: ""}
-tags: [place]
-typeOf: mountain
+displayDefaults:
+  defArt: ""
+tags:
+  - place
+typeOf: topographical feature
 whereabouts: Chardon
 dm_owner: tim
 dm_notes: important
+typeOfAlias: mountain
 ---
 # Mount Nera
 >[!info]+ Information  

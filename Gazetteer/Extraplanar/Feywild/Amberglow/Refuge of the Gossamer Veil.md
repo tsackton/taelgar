@@ -1,10 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
-excludePublish: ["dufr"]
+tags:
+  - place
+  - status/stub
+excludePublish:
+  - dufr
 dm_owner: mike
 dm_notes: none
 whereabouts: Amberglow
+typeOf: realm
 ---
 # The Refuge of the Gossamer Veil
 >[!info]+ Information  

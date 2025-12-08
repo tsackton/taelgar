@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: open field
+tags:
+  - place
+typeOf: infrastructure
 name: Tollen Fairgrounds
 whereabouts: Fairgate Outer
 dm_owner: none
 dm_notes: none
+typeOfAlias: fairgrounds
 ---
 # The Tollen Fairgrounds
 >[!info]+ Information  

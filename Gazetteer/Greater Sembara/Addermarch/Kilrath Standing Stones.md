@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Kilrath Standing Stones
-typeOf: standing stones
+typeOf: infrastructure
 whereabouts: Stonewolds
 dm_owner: tim
 dm_notes: none
+typeOfAlias: standing stones
 ---
 # The Kilrath Standing Stones
 >[!info]+ Information  

@@ -1,12 +1,18 @@
 ---
 headerVersion: 2023.11.25
-typeOf: grassland
+typeOf: plain
 whereabouts: Central Dunmar
-tags: [place, status/check/name]
-aliases: [plains north of Tokra]
-displayDefaults: { linkText: "on", ltPlace: "on" }
+tags:
+  - place
+  - status/check/name
+aliases:
+  - plains north of Tokra
+displayDefaults:
+  linkText: on
+  ltPlace: on
 dm_owner: tim
 dm_notes: important
+typeOfAlias: grassland
 ---
 # The ~North Tokra Plains~
 >[!info]+ Information  

@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: geographic region
+tags:
+  - place
+typeOf: region
 whereabouts: Greater Dunmar
 dm_notes: color
 dm_owner: tim
+typeOfAlias: geographic region
 ---
 # The Nayan Floodplains
 >[!info]+ Information  

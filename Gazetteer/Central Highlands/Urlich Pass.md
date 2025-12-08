@@ -1,14 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
-displayDefaults: {defArt: ""}
+tags:
+  - place
+  - status/stub
+displayDefaults:
+  defArt: ""
 name: Urlich Pass
-typeOf: pass
-whereabouts: 
-- {type: primary, location: Sentinel Range }
-- {type: secondary, location: Central Highlands }
+typeOf: topographical feature
+whereabouts:
+  - type: primary
+    location: Sentinel Range
+  - type: secondary
+    location: Central Highlands
 dm_notes: important
 dm_owner: none
+typeOfAlias: pass
 ---
 # Urlich Pass
 >[!info]+ Information  

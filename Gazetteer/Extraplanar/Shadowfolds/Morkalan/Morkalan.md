@@ -1,16 +1,25 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {wPastHome: "Destroyed on <endDate> by [[Riswynn]] and companions", wHome: "", dPastHasStart: "", dCurrent: ""}
-tags: [place]
-typeOf: domain
-created: 1575 
+displayDefaults:
+  wPastHome: Destroyed on <endDate> by [[Riswynn]] and companions
+  wHome: ""
+  dPastHasStart: ""
+  dCurrent: ""
+tags:
+  - place
+typeOf: realm
+created: 1575
 destroyed: 1748-08-26
-ancestry: Shadowfolds 
-whereabouts: 
-- {type: home, location: Hagrim, wOrigin: "<ancestry:UA> <subtypeof:UA> <typeof:UA>, brought into being in <startDate> by <origin:Px>"}
-- {type: home, location: Shadowfolds}
+ancestry: Shadowfolds
+whereabouts:
+  - type: home
+    location: Hagrim
+    wOrigin: <ancestry:UA> <subtypeof:UA> <typeof:UA>, brought into being in <startDate> by <origin:Px>
+  - type: home
+    location: Shadowfolds
 dm_notes: none
 dm_owner: tim
+typeOfAlias: domain
 ---
 # Morkalan
 >[!info]+ Information  

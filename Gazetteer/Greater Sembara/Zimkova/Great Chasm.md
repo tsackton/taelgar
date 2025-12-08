@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/mike]
-displayDefaults: {defArt: "the"}
+tags:
+  - place
+  - status/check/mike
+displayDefaults:
+  defArt: the
 name: Great Chasm
-typeOf: gorge
+typeOf: topographical feature
 typeOfAlias: chasm
 whereabouts: Zimkova
 dm_notes: none
 dm_owner: none
+subtypeOf: gorge
 ---
 # The Great Chasm
 >[!info]+ Information  

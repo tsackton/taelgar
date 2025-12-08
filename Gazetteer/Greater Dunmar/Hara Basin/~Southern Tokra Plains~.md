@@ -1,10 +1,15 @@
 ---
 headerVersion: 2023.11.25
-typeOf: region
+typeOf: plain
 whereabouts: Central Dunmar
-aliases: [plains south of Tokra]
-displayDefaults: { linkText: "on", ltPlace: "on" }
-tags: [place, status/check/name]
+aliases:
+  - plains south of Tokra
+displayDefaults:
+  linkText: on
+  ltPlace: on
+tags:
+  - place
+  - status/check/name
 dm_owner: tim
 dm_notes: color
 ---

@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: landform
+tags:
+  - place
+typeOf: topographical feature
 typeOfAlias: ridge
 whereabouts: Barony of Aveil
 pronunciation: Ah-vayl Ridge

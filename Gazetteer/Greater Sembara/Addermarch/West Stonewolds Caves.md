@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: West Stonewolds Caves
-typeOf: cave system
+typeOf: subterranean feature
 whereabouts: Stonewolds
 dm_owner: none
 dm_notes: none
+typeOfAlias: cave system
 ---
 # The West Stonewolds Caves
 >[!info]+ Information  

@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ""}
+tags:
+  - place
+displayDefaults:
+  defArt: ""
 whereabouts: Amberglow
-typeOf: keep
+typeOf: building
 ancestry: fey
 dm_owner: tim
 dm_notes: important
+typeOfAlias: keep
 ---
 # Night's Edge Keep
 >[!info]+ Information  

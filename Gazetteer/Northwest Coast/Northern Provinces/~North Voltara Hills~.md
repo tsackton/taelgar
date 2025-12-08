@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
-displayDefaults: {wHome: "<typeof:xU> in <home>"}
+tags:
+  - place
+  - status/check/name
+displayDefaults:
+  wHome: <typeof:xU> in <home>
 name: North Voltara Hills
-typeOf: hills
+typeOf: topographical feature
 whereabouts: Erbalta Plains
 dm_owner: none
 dm_notes: none
+typeOfAlias: line of hills
 ---
 # The North Voltara Hills
 >[!info]+ Information  

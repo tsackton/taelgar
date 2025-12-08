@@ -1,10 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name, status/stub]
-typeOf: line of hills
+tags:
+  - place
+  - status/check/name
+  - status/stub
+typeOf: topographical feature
 whereabouts: Chardonian Empire
 dm_notes: none
 dm_owner: none
+typeOfAlias: line of hills
 ---
 # The ~Chardon Hills~
 >[!info]+ Information  

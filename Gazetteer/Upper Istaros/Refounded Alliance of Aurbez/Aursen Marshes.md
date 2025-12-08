@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: marsh
+tags:
+  - place
+typeOf: wetlands
 whereabouts:
-- {type: secondary, location: Aursen, linkText: "on the"}
-- {type: primary, location: Refounded Alliance of Aurbez}
+  - type: secondary
+    location: Aursen
+    linkText: on the
+  - type: primary
+    location: Refounded Alliance of Aurbez
 dm_notes: color
 dm_owner: joint
+typeOfAlias: marsh
 ---
 # The Aursen Marshes
 >[!info]+ Information  

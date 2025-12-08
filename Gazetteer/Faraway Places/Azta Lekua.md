@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ''}
+tags:
+  - place
+displayDefaults:
+  defArt: ""
 name: Azta Lekua
 whereabouts: Orekatu
-aliases: [Footprint of the Gods]
-typeOf: place
+aliases:
+  - Footprint of the Gods
+typeOf: region
 dm_notes: important
 dm_owner: tim
 ---

@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Gomat Oasis
-typeOf: oasis
+typeOf: lake
 whereabouts: Eastern Dunmar
-aliases: [Gomat, Gomat Oasis]
+aliases:
+  - Gomat
+  - Gomat Oasis
 dm_notes: none
 dm_owner: none
+typeOfAlias: oasis
 ---
 # The Gomat Oasis
 >[!info]+ Information  

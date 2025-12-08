@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 campaignInfo: []
 name: Plataca Hills
-typeOf: line of hills
+typeOf: topographical feature
 pronunciation: PLAH-tah-kah
 whereabouts: Western Cymea
 dm_notes: color
 dm_owner: none
+typeOfAlias: line of hills
 ---
 # The Plataca Hills
 *(PLAH-tah-kah)*

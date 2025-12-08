@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 whereabouts: Cinder Wastes
-typeOf: landmark
+typeOf: place
 dm_owner: tim
 dm_notes: none
+typeOfAlias: landmark
 ---
 # The Oracle's Pyre
 >[!info]+ Information  

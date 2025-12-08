@@ -1,3 +1,6 @@
 ---
-tags: [status/stub, place]
+tags:
+  - status/stub
+  - place
+typeOf: waterway
 ---

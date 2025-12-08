@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 campaignInfo: []
 name: Nevos Sea
-typeOf: sea
+typeOf: marine feature
 whereabouts:
-- { type: home, location: Taelgar, linkText: in}
+  - type: home
+    location: Taelgar
+    linkText: in
 dm_owner: tim
 dm_notes: important
+typeOfAlias: sea
 ---
 # The Nevos Sea
 >[!info]+ Information  

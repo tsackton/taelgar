@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Blacksilver Peak
-typeOf: mountain
+typeOf: topographical feature
 whereabouts:
-- {type: primary, location: Fiamatara Mountains}
+  - type: primary
+    location: Fiamatara Mountains
 dm_owner: tim
 dm_notes: important
+typeOfAlias: mountain
 ---
 # Blacksilver Peak
 >[!info]+ Information  

@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: fen
+tags:
+  - place
+typeOf: wetlands
 whereabouts: Northern Sentinels
 dm_owner: none
 dm_notes: none
+typeOfAlias: fen
 ---
 # The Blackwater Fens
 >[!info]+ Information  

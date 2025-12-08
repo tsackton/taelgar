@@ -1,7 +1,10 @@
 ---
-tags: [place, status/stub]
+tags:
+  - place
+  - status/stub
 dm_notes: important
 dm_owner: tim
+typeOf: building
 ---
 
 

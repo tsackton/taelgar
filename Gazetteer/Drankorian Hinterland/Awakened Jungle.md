@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 whereabouts: Drankorian Hinterland
-typeOf: jungle
+typeOf: forest
 dm_owner: tim
 dm_notes: important
+typeOfAlias: jungle
 ---
 # The Awakened Jungle
 >[!info]+ Information  

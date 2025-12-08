@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/metadata]
-typeOf: keep
+tags:
+  - place
+  - status/cleanup/metadata
+typeOf: building
 whereabouts: Northern Green Sea
 destroyed: 1749-05-03
 dm_owner: tim
 dm_notes: important
+typeOfAlias: keep
 ---
 # Shadowkeep
 >[!info]+ Information  

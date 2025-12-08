@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: guildhall
+tags:
+  - place
+typeOf: building
 whereabouts: Tollen
 name: Dyer's Guildhall
 dm_owner: none
 dm_notes: none
+typeOfAlias: guildhall
 ---
 # The Dyer's Guildhall
 >[!info]+ Information  

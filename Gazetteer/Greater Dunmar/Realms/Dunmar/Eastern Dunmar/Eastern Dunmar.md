@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ''}
+tags:
+  - place
+displayDefaults:
+  defArt: ""
 name: Eastern Dunmar
-typeOf: subregion
+typeOf: region
 whereabouts: Dunmar
 dm_notes: color
 dm_owner: tim
+typeOfAlias: subregion
 ---
 # Eastern Dunmar
 >[!info]+ Information

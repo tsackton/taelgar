@@ -1,13 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {wSecondary: "<typeof:Ua> <secondary:q>", wHome: "<typeof:Ua> <home:q>"}
-typeOf: portal
-whereabouts: 
-- {location: Garamjala Desert, type: secondary }
-- {location: Emberwine, type: home }
+tags:
+  - place
+displayDefaults:
+  wSecondary: <typeof:Ua> <secondary:q>
+  wHome: <typeof:Ua> <home:q>
+typeOf: infrastructure
+whereabouts:
+  - location: Garamjala Desert
+    type: secondary
+  - location: Emberwine
+    type: home
 dm_notes: none
 dm_owner: tim
+typeOfAlias: fey portal
 ---
 # The Bitterwine Oak
 >[!info]+ Information  

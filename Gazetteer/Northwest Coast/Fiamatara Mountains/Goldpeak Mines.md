@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ""}
+tags:
+  - place
+displayDefaults:
+  defArt: ""
 name: Goldpeak Mines
-typeOf: mine
+typeOf: subterranean feature
 whereabouts:
-- {type: primary, location: Goldpeak Mountain}
+  - type: primary
+    location: Goldpeak Mountain
 dm_owner: none
 dm_notes: none
+typeOfAlias: mine
 ---
 # Goldpeak Mines
 >[!info]+ Information  

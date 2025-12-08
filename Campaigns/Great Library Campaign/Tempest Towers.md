@@ -1,6 +1,9 @@
 ---
-tags: [place, status/stub]
+tags:
+  - place
+  - status/stub
 whereabouts: Voltara
+typeOf: building
 ---
 
 

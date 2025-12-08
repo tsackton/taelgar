@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Highmoor
-typeOf: moor
+typeOf: plain
 whereabouts: Carlinshire
 dm_owner: none
 dm_notes: none
+typeOfAlias: moor
 ---
 # Highmoor
 >[!info]+ Information  

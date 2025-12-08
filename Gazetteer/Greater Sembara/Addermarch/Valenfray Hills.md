@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: "the"}
+tags:
+  - place
+displayDefaults:
+  defArt: the
 name: Valenfray Hills
-typeOf: line of hills
+typeOf: topographical feature
 whereabouts: Mostreve Hills
 dm_owner: none
 dm_notes: none
+typeOfAlias: line of hills
 ---
 # The Valenfray Hills
 >[!info]+ Information  

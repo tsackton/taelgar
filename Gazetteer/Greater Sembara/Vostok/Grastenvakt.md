@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
 name: Gråstenvakt
-aliases: [Gråstenvakt, Grastenvakt]
-tags: [place]
-typeOf: wall
+aliases:
+  - Gråstenvakt
+  - Grastenvakt
+tags:
+  - place
+typeOf: infrastructure
 whereabouts: Vostok
 pronunciation: GROH-sten-vahkt
 dm_notes: important
 dm_owner: tim
+typeOfAlias: wall
 ---
 # Gråstenvakt
 *(GROH-sten-vahkt)*

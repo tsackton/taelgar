@@ -5,9 +5,6 @@ filters:
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - '!file.tags.contains("status/stub")'
     order:
       - file.name
       - typeOf
@@ -40,7 +37,7 @@ views:
     name: NonStandard
     filters:
       and:
-        - '!typeOf.containsAny("subdivision", "settlement", "realm", "inn", "building", "waterway", "watershed", "road", "holy site", "island", "plane", "region", "lake", "wetlands", "forest")'
+        - '!typeOf.containsAny("subdivision", "settlement", "realm", "inn", "building", "waterway", "watershed", "road", "holy site", "island", "plane", "region", "lake", "wetlands", "forest", "topographical feature", "subterranean feature", "infrastructure", "plain", "desert", "marine feature", "place")'
     order:
       - file.name
       - typeOf
@@ -53,3 +50,22 @@ views:
         direction: ASC
     columnSize:
       note.typeOf: 289
+  - type: table
+    name: Cleanup
+    groupBy:
+      property: typeOf
+      direction: ASC
+    order:
+      - file.name
+      - typeOf
+      - typeOfAlias
+      - subtypeOf
+      - ancestry
+      - aliases
+    sort:
+      - property: typeOfAlias
+        direction: ASC
+      - property: subtypeOf
+        direction: ASC
+    columnSize:
+      note.typeOf: 258

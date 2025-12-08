@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Endless Ocean
-typeOf: ocean
-whereabouts: 
-- { type: home, location: Taelgar, linkText: in}
+typeOf: marine feature
+whereabouts:
+  - type: home
+    location: Taelgar
+    linkText: in
 dm_notes: important
 dm_owner: tim
+typeOfAlias: ocean
 ---
 # The Endless Ocean
 >[!info]+ Information
