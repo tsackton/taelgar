@@ -11,6 +11,7 @@ views:
       - species
       - ancestry
       - subspecies
+      - speciesAlias
       - born
       - died
       - gender
@@ -21,8 +22,12 @@ views:
       - ddbLink
       - player
     sort:
+      - property: speciesAlias
+        direction: DESC
       - property: species
-        direction: ASC
+        direction: DESC
+      - property: ancestry
+        direction: DESC
       - property: ka
         direction: ASC
       - property: ddbLink
@@ -31,10 +36,6 @@ views:
         direction: ASC
       - property: subspecies
         direction: DESC
-      - property: ancestry
-        direction: ASC
-      - property: speciesAlias
-        direction: ASC
       - property: title
         direction: ASC
       - property: campaign
@@ -56,6 +57,4 @@ views:
       - property: population
         direction: ASC
     columnSize:
-      note.typeOf: 144
-      note.partOf: 173
-      note.DR_end: 146
+      note.species: 195
