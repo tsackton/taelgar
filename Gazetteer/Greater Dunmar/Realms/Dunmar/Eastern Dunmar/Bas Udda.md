@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ""}
+tags:
+  - place
+displayDefaults:
+  defArt: ""
 name: Bas Udda
 typeOf: settlement
 typeOfAlias: village
 whereabouts: Eastern Dunmar
 dm_notes: color
 dm_owner: tim
+subtypeOf:
 ---
 # Bas Udda
 >[!info]+ Information  

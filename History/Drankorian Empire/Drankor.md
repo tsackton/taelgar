@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
 whereabouts: Drankorian Empire
-tags: [place]
-typeOf: city
+tags:
+  - place
+typeOf: settlement
 dm_notes: important
 dm_owner: tim
+typeOfAlias: city
 ---
 # Drankor
 >[!info]+ Information

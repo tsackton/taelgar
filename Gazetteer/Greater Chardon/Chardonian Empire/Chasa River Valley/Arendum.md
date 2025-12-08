@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Arendum
-typeOf: city
+typeOf: settlement
 whereabouts: Chasa River Valley
 dm_notes: important
 dm_owner: tim
+typeOfAlias: city
 ---
 # Arendum
 >[!info]+ Information

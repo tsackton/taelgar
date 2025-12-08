@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {defArt: ""}
-tags: [place]
+displayDefaults:
+  defArt: ""
+tags:
+  - place
 whereabouts: Castrella
-typeOf: tavern
+typeOf: inn
 dm_owner: tim
 dm_notes: color
+typeOfAlias: tavern
 ---
 # The Drunken Dolphin
 >[!info]+ Information  

@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: urban area
+tags:
+  - place
+typeOf: subdivision
 whereabouts: Chardon
 dm_owner: tim
 dm_notes: none
+typeOfAlias: urban area
 ---
 # The North Bank
 >[!info]+ Information  

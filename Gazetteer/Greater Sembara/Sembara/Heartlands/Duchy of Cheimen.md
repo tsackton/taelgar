@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 campaignInfo:
 name: Duchy of Cheimen
-typeOf: duchy
+typeOf: subdivision
 whereabouts: Heartlands
 dm_owner: none
 dm_notes: color
+typeOfAlias: duchy
 ---
 # The Duchy of Cheimen
 >[!info]+ Information

@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Weskershire
-typeOf: shire
+typeOf: subdivision
 whereabouts: Addermarch
 dm_owner: none
 dm_notes: none
+typeOfAlias: shire
 ---
 # Weskershire
 >[!info]+ Information  

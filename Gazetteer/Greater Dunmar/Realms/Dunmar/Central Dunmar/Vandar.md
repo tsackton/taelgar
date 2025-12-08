@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Vandar
-typeOf: village
+typeOf: settlement
 ancestry: Dunmari
-subTypeOf: abandoned
+subTypeOf:
 whereabouts: Copper Hills
 dm_notes: important
 dm_owner: tim
+typeOfAlias: village
 ---
 # Vandar
 >[!info]+ Information

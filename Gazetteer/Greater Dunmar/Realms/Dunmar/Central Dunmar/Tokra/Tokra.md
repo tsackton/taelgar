@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
+tags:
+  - place
+  - status/cleanup/text
 name: Tokra
-typeOf: city
+typeOf: settlement
 whereabouts: Central Dunmar
 dm_notes: important
 dm_owner: tim
+typeOfAlias: city
 ---
 # Tokra
 >[!info]+ Information  

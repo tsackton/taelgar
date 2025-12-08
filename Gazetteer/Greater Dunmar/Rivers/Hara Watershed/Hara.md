@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Hara
-typeOf: river
+typeOf: waterway
 whereabouts: Hara Watershed
 dm_notes: color
 dm_owner: tim
+typeOfAlias: river
 ---
 # Hara
 >[!info]+ Information

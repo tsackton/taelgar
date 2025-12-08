@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Greater Voltara
-displayDefaults: {defArt: ""}
-whereabouts: 
-- {type: primary, location: Northern Provinces }
-- {type: secondary, location: Northwest Coast }
-typeOf: province
+displayDefaults:
+  defArt: ""
+whereabouts:
+  - type: primary
+    location: Northern Provinces
+  - type: secondary
+    location: Northwest Coast
+typeOf: subdivision
 dm_notes: none
 dm_owner: none
+typeOfAlias: province
 ---
 # Greater Voltara
 >[!info]+ Information  

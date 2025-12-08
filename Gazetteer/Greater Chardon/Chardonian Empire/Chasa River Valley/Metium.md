@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Metium
-typeOf: city
+typeOf: settlement
 whereabouts: Chasa River Valley
 dm_owner: tim
 dm_notes: none
+typeOfAlias: city
 ---
 # Metium
 >[!info]+ Information  

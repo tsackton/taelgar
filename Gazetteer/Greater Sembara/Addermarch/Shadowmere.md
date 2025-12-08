@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Shadowmere
 typeOf: swamp
-subTypeOf: haunted
+subTypeOf:
 whereabouts: Addermarch
 dm_owner: tim
 dm_notes: color
+typeOfAlias: haunted swamp
 ---
 # Shadowmere
 >[!info]+ Information  

@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 whereabouts: Western Marches
-typeOf: barony
+typeOf: subdivision
 dm_notes: none
 dm_owner: none
+typeOfAlias: barony
 ---
 # The Barony of Usbourg
 >[!info]+ Information

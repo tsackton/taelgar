@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: The Laughing Gull
-typeOf: tavern
+typeOf: inn
 whereabouts: Castrella
 dm_owner: none
 dm_notes: none
+typeOfAlias: tavern
 ---
 # The The Laughing Gull
 >[!info]+ Information  

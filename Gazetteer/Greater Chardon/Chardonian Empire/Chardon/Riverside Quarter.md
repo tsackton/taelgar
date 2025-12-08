@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>" }
-typeOf: neigborhood
+tags:
+  - place
+displayDefaults:
+  wHome: <ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>
+typeOf: subdivision
 whereabouts: North Bank
 dm_owner: tim
 dm_notes: important
+typeOfAlias: neighborhood
 ---
 # The Riverside Quarter
 >[!info]+ Information  

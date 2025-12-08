@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: city
-whereabouts: 
-- {type: primary, location: Alta Tonaro }
+tags:
+  - place
+typeOf: settlement
+whereabouts:
+  - type: primary
+    location: Alta Tonaro
 dm_owner: tim
 dm_notes: important
+typeOfAlias: city
 ---
 # Argento
 >[!info]+ Information  

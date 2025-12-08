@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 whereabouts: Barony of Aveil
 typeOf: settlement
 typeOfAlias: village
 dm_notes: none
 dm_owner: none
 pronunciation: oo-yee
+subtypeOf:
 ---
 # Houille
 *(oo-yee)*

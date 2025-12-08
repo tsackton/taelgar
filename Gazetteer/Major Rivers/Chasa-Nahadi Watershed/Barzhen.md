@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Barzhen
-typeOf: river
-whereabouts: 
-- {type: primary, location: Blackwater Fens}
-- {type: secondary, location: Chasa-Nahadi Watershed }
+typeOf: waterway
+whereabouts:
+  - type: primary
+    location: Blackwater Fens
+  - type: secondary
+    location: Chasa-Nahadi Watershed
 pronunciation: bar-SHEN
 dm_notes: none
 dm_owner: none
+typeOfAlias: river
 ---
 # Barzhen
 *(bar-SHEN)*

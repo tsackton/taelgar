@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Barony of Aveil
-typeOf: barony
+typeOf: subdivision
 whereabouts: Sembara
 pronunciation: Ah-veh-eel
 dm_notes: color
 dm_owner: mike
+typeOfAlias: barony
 ---
 # The Barony of Aveil
 *(Ah-veh-eel)*

@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: tavern
+tags:
+  - place
+typeOf: inn
 whereabouts: Chalyte Levels
-displayDefaults: {defArt: ""}
+displayDefaults:
+  defArt: ""
 dm_notes: none
 dm_owner: none
+typeOfAlias: tavern
 ---
 # The Cackling Swan
 >[!info]+ Information  

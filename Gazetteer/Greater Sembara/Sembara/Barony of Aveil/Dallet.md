@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 campaignInfo:
 name: Dallet
 typeOfAlias: village
@@ -10,6 +11,7 @@ pronunciation: da-LEH
 population: 308
 dm_notes: color
 dm_owner: mike
+subtypeOf:
 ---
 # Dallet
 *(da-LEH)*

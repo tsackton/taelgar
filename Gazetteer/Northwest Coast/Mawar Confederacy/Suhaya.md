@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Suhaya
 whereabouts: Mawar Confederacy
-typeOf: town
+typeOf: settlement
 dm_notes: color
 dm_owner: tim
+typeOfAlias: town
 ---
 # Suhaya
 >[!info]+ Information  

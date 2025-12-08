@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
-typeOf: river
+tags:
+  - place
+  - status/stub
+typeOf: waterway
 whereabouts: Istaros Watershed
-aliases: [Silírë]
+aliases:
+  - Silírë
 name: Silírë
 dm_owner: none
 dm_notes: none
-pronunciation: see-LEER-eh 
+pronunciation: see-LEER-eh
+typeOfAlias: river
 ---
 # Silírë
 *(see-LEER-eh)*

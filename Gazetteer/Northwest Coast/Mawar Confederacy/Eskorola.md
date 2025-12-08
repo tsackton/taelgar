@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Eskorola
-typeOf: village
+typeOf: settlement
 ancestry: lizardfolk
 whereabouts: Mawar Confederacy
 pronunciation: es-ko-ROH-lah
 dm_owner: none
 dm_notes: color
+typeOfAlias: village
+subtypeOf:
 ---
 # Eskorola
 *(es-ko-ROH-lah)*

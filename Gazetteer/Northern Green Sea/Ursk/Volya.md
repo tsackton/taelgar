@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: village
+tags:
+  - place
+typeOf: settlement
 typeOfAlias: trading post
 whereabouts: Ursk
 pronunciation: VOH-leeah
 dm_owner: none
 dm_notes: color
+subtypeOf:
 ---
 # Volya
 *(VOH-leeah)*

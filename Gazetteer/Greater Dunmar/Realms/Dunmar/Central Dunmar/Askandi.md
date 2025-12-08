@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/metadata]
+tags:
+  - place
+  - status/cleanup/metadata
 pronunciation: uh-SKUN-dee
 name: Askandi
-typeOf: city
+typeOf: settlement
 ancestry: Dunmari
 whereabouts:
-- {type: home, location: Central Dunmar}
+  - type: home
+    location: Central Dunmar
 dm_notes: important
 dm_owner: tim
+typeOfAlias: city
 ---
 # Askandi
 *(uh-SKUN-dee)*

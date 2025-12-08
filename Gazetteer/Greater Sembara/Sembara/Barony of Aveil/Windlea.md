@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 typeOf: settlement
 typeOfAlias: village
 whereabouts: Barony of Aveil
 population: 174
 dm_notes: none
 dm_owner: mike
+subtypeOf:
 ---
 # Windlea
 >[!info]+ Information  

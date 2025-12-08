@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Medju
-typeOf: city
+typeOf: settlement
 whereabouts: Eastern Green Sea
 dm_notes: important
 dm_owner: tim
+typeOfAlias: city
 ---
 # Medju
 >[!info]+ Information  

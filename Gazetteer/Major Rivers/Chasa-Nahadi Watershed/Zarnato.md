@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-typeOf: river
-tags: [place, status/stub]
+typeOf: waterway
+tags:
+  - place
+  - status/stub
 whereabouts:
-- {type: primary, location: Northwest Coast}
-- {type: secondary, location: Chasa-Nahadi Watershed}
+  - type: primary
+    location: Northwest Coast
+  - type: secondary
+    location: Chasa-Nahadi Watershed
 dm_owner: tim
 dm_notes: important
 pronunciation: zahr-NAH-toh
+typeOfAlias: river
 ---
 # Zarnato
 *(zahr-NAH-toh)*

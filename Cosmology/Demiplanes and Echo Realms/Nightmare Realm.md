@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-whereabouts: 
-- {type: primary, location: Echo Realms, wHome: "A <subtypeOf> <typeOf> in <home:1>"}
-subtypeOf: rumored
+tags:
+  - place
+whereabouts:
+  - type: primary
+    location: Echo Realms
+    wHome: A <subtypeOf> <typeOf> in <home:1>
+subtypeOf:
 typeOf: plane
 dm_notes: none
 dm_owner: tim
+typeOfAlias: rumored plane
 ---
 # The Nightmare Realm
 >[!info]+ Information  

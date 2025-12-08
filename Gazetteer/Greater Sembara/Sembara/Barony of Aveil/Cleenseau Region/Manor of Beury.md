@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: manor
+tags:
+  - place
+typeOf: subdivision
 created: 1562
 whereabouts: Barony of Aveil
 dm_owner: none
 dm_notes: none
+typeOfAlias: manor
 ---
 # The Manor of Beury
 >[!info]+ Information  

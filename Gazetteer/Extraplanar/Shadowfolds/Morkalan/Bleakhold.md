@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 whereabouts: Morkalan
 typeOf: settlement
 typeOfAlias: village
@@ -8,6 +9,7 @@ destroyed: 1748-08-26
 name: Bleakhold
 dm_notes: none
 dm_owner: tim
+subtypeOf:
 ---
 # Bleakhold
 >[!info]+ Information  

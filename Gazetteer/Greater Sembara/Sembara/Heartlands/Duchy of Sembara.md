@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
+tags:
+  - place
+  - status/cleanup/text
 campaignInfo:
 name: Duchy of Sembara
-typeOf: duchy
+typeOf: subdivision
 whereabouts: Sembara
 dm_owner: none
 dm_notes: important
+typeOfAlias: duchy
 ---
 # The Duchy of Sembara
 >[!info]+ Information  

@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Nayahar
-typeOf: city
+typeOf: settlement
 ancestry: Dunmari
 created: 1557
 whereabouts: Western Dunmar
 dm_owner: tim
 dm_notes: none
+typeOfAlias: city
 ---
 # Nayahar
 >[!info]+ Information

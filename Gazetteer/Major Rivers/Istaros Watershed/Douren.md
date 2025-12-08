@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Douren
-typeOf: river
+typeOf: waterway
 whereabouts: Istaros Watershed
-aliases: [River Douren, Douren River]
+aliases:
+  - River Douren
+  - Douren River
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 ---
 # Douren
 >[!info]+ Information

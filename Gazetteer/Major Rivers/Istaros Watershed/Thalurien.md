@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: river
+tags:
+  - place
+typeOf: waterway
 whereabouts: Istaros Watershed
-aliases: [Thalúrien, Taloraine]
+aliases:
+  - Thalúrien
+  - Taloraine
 name: Thalúrien
 dm_owner: none
 dm_notes: none
 pronunciation: THAH-loo-ree-en
+typeOfAlias: river
 ---
 # Thalúrien
 *(THAH-loo-ree-en)*

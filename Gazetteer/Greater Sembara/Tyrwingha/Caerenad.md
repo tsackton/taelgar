@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Caerenad
-typeOf: town
+typeOf: settlement
 whereabouts: Tyrwingha
 dm_notes: none
 dm_owner: none
 pronunciation: KAI-re-nad
+typeOfAlias: town
 ---
 # Caerenad
 *(KAI-re-nad)*

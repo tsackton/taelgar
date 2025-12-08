@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork]
+tags:
+  - place
+  - status/needswork
 campaignInfo: []
 name: March of Andonne
-typeOf: march
+typeOf: subdivision
 whereabouts: Duchy of Maseau
 dm_owner: none
 dm_notes: none
+typeOfAlias: march
 ---
 # The March of Andonne
 >[!info]+ Information  

@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 whereabouts: Duchy of Wisford
 typeOf: settlement
 typeOfAlias: village
 destroyed: 1720-01-10
 dm_notes: color
 dm_owner: none
+subtypeOf:
 ---
 # Orbas
 >[!info]+ Information  

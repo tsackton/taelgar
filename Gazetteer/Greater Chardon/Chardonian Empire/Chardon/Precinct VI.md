@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ""}
-typeOf: precinct
+tags:
+  - place
+displayDefaults:
+  defArt: ""
+typeOf: subdivision
 whereabouts: Chardon
 dm_owner: tim
 dm_notes: important
+typeOfAlias: precinct
 ---
 # Precinct VI
 >[!info]+ Information  

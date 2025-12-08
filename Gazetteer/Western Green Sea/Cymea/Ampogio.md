@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 whereabouts: Cymea
 pronunciation: ahm-POH-joh
-typeOf: river
+typeOf: waterway
 dm_owner: tim
 dm_notes: color
+typeOfAlias: river
 ---
 # Ampogio
 *(ahm-POH-joh)*

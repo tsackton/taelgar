@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Ganboa
 pronunciation: Gan-bo-a
 whereabouts: Barony of Aveil
@@ -10,6 +11,7 @@ typeOfAlias: village
 population: 62
 dm_notes: none
 dm_owner: none
+subtypeOf:
 ---
 # Ganboa
 *(Gan-bo-a)*

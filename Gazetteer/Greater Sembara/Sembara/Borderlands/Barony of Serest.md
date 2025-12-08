@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: barony
+tags:
+  - place
+typeOf: subdivision
 whereabouts: Borderlands
 dm_owner: none
 dm_notes: none
+typeOfAlias: barony
 ---
 # The Barony of Serest
 >[!info]+ Information  

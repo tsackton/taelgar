@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: river
+tags:
+  - place
+typeOf: waterway
 whereabouts: Istaros Watershed
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 ---
 # Kulthul
 >[!info]+ Information  

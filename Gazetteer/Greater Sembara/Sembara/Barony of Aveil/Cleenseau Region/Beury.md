@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Beury
 typeOfAlias: village
 typeOf: settlement
@@ -9,6 +10,7 @@ population: 492
 pronunciation: BUH-ree
 dm_notes: none
 dm_owner: mike
+subtypeOf:
 ---
 # Beury
 *(BUH-ree)*

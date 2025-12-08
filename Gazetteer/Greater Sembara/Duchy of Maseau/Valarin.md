@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Valarin
-typeOf: city
+typeOf: settlement
 whereabouts: Duchy of Maseau
 dm_notes: none
 dm_owner: none
+typeOfAlias: city
 ---
 # Valarin
 >[!info]+ Information  

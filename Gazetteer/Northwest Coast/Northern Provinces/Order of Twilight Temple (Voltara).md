@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Order of Twilight Temple (Voltara)
-typeOf: temple
+typeOf: holy site
 whereabouts:
-- {type: primary, location: Northern Provinces}
+  - type: primary
+    location: Northern Provinces
 dm_owner: none
 dm_notes: none
+typeOfAlias: temple
 ---
 
 # Order of Twilight Temple (Voltara)

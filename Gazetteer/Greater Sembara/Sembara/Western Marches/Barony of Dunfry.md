@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 campaignInfo:
 name: Barony of Dunfry
-typeOf: barony
+typeOf: subdivision
 dm_notes: color
 dm_owner: mike
 whereabouts: Western Marches
+typeOfAlias: barony
 ---
 # The Barony of Dunfry
 >[!info]+ Information

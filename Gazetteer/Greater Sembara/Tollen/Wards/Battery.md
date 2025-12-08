@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Battery
-typeOf: ward
+typeOf: subdivision
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
+typeOfAlias: ward
 ---
 # Battery
 >[!info]+ Information  

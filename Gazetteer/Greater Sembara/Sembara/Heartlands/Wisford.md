@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 campaignInfo:
 name: Wisford
-typeOf: city
+typeOf: settlement
 whereabouts: Duchy of Wisford
 population: 8500
 pronunciation: Wis-ford
 dm_owner: mike
 dm_notes: color
+typeOfAlias: city
 ---
 # Wisford
 *(Wis-ford)*

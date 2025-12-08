@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: "the"}
+tags:
+  - place
+displayDefaults:
+  defArt: the
 campaignInfo: []
 name: Andonne
-typeOf: river
+typeOf: waterway
 whereabouts: Greater Sembara
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 ---
 # The Andonne
 >[!info]+ Information  

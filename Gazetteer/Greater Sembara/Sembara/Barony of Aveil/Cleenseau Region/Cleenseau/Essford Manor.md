@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Essford Manor
-typeOf: house
-subTypeOf: manor
+typeOf: building
+subTypeOf:
 dm_owner: mike
 dm_notes: color
 whereabouts: Cleenseau
+typeOfAlias: manor
 ---
 # The Essford Manor
 >[!info]+ Information

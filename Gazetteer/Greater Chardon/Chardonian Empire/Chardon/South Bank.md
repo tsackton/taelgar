@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: urban area
+tags:
+  - place
+typeOf: subdivision
 whereabouts: Chardon
 dm_owner: tim
 dm_notes: important
+typeOfAlias: urban area
 ---
 # The South Bank
 >[!info]+ Information  

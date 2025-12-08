@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Bridgeward
-typeOf: ward
+typeOf: subdivision
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
+typeOfAlias: ward
 ---
 # Bridgeward
 >[!info]+ Information  

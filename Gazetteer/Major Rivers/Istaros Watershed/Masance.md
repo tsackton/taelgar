@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
+tags:
+  - place
+  - status/cleanup/text
 name: Masance
-typeOf: river
+typeOf: waterway
 whereabouts: Istaros Watershed
-aliases: [River Masance, Masance River]
+aliases:
+  - River Masance
+  - Masance River
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 ---
 # Masance
 >[!info]+ Information

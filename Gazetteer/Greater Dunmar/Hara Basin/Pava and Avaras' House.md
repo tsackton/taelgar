@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ""}
+tags:
+  - place
+displayDefaults:
+  defArt: ""
 campaignInfo: []
 name: Pava and Avaras' House
-typeOf: house
+typeOf: building
 whereabouts: Garamjala Desert
 dm_owner: tim
 dm_notes: important
+typeOfAlias: house
 ---
 # Pava and Avaras' House
 >[!info]+ Information

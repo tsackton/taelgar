@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 campaignInfo:
 name: Yeraad
-typeOf: river
+typeOf: waterway
 whereabouts: Chardonian Empire
 dm_owner: tim
 dm_notes: none
+typeOfAlias: river
 ---
 # Yeraad
 >[!info]+ Information

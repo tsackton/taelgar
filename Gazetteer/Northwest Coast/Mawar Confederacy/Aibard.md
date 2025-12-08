@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Aibard
-typeOf: village
+typeOf: settlement
 whereabouts: Mawar Confederacy
 dm_owner: none
 dm_notes: none
+typeOfAlias: village
+subtypeOf:
 ---
 # Aibard
 >[!info]+ Information  

@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Nordgate
-typeOf: ward
+typeOf: subdivision
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
+typeOfAlias: ward
 ---
 # Nordgate
 >[!info]+ Information  

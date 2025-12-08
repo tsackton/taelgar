@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
-typeOf: barony
+tags:
+  - place
+  - status/stub
+typeOf: subdivision
 whereabouts: Borderlands
 pronunciation: SHAWN-tel-ee-air
 dm_notes: none
 dm_owner: none
+typeOfAlias: barony
 ---
 # The Barony of Chantelierre
 *(SHAWN-tel-ee-air)*

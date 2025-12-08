@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Barony of Montsé
 whereabouts: Borderlands
-aliases: [Barony of Montsé]
-typeOf: barony
+aliases:
+  - Barony of Montsé
+typeOf: subdivision
 pronunciation: Mohn-say
 dm_owner: none
 dm_notes: none
+typeOfAlias: barony
 ---
 # The Barony of Montsé
 *(Mohn-say)*

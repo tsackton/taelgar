@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 campaignInfo:
 name: Zakat
-typeOf: city
-subTypeOf: trading
+typeOf: settlement
+subTypeOf:
 ancestry: Urskan
 pronunciation: zuh-KAHT
-whereabouts: 
-- {type: home, location: Ursk, startFilter: f}
+whereabouts:
+  - type: home
+    location: Ursk
+    startFilter: f
 dm_owner: tim
 dm_notes: important
+typeOfAlias: trading city
 ---
 # Zakat
 *(zuh-KAHT)*

@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {wOriginU: "<ancestry:Ua> <typeof>, location unknown", wCurrent: ""}
-typeOf: city
+tags:
+  - place
+displayDefaults:
+  wOriginU: <ancestry:Ua> <typeof>, location unknown
+  wCurrent: ""
+typeOf: settlement
 ancestry: mythical
 dm_owner: none
 dm_notes: none
+typeOfAlias: city
 ---
 # Pu'aatar
 >[!info]+ Information  

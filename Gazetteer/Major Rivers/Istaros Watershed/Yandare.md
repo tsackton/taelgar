@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: river
+tags:
+  - place
+typeOf: waterway
 name: Yandarë
 pronunciation: yahn-DAH-reh
 whereabouts: Istaros Watershed
 aliases: Vistala
 dm_owner: none
 dm_notes: none
+typeOfAlias: river
 ---
 # Yandarë
 *(yahn-DAH-reh)*
