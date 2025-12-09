@@ -6,10 +6,11 @@ displayDefaults:
   wOriginU: <ancestry:Ua> <typeof>, location unknown
   wCurrent: ""
 typeOf: settlement
-ancestry: mythical
+ancestry:
 dm_owner: none
 dm_notes: none
-typeOfAlias: city
+typeOfAlias: mythical city
+subtypeOf:
 ---
 # Pu'aatar
 >[!info]+ Information  

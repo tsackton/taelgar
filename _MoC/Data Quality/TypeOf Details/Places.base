@@ -69,6 +69,7 @@ views:
         direction: ASC
     columnSize:
       note.typeOf: 258
+      note.typeOfAlias: 167
   - type: table
     name: Structures
     filters:
