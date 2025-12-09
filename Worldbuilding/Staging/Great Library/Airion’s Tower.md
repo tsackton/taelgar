@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags:
+  - place
+  - status/check/ai
 name: Airion’s Tower
 whereabouts: Blacksilver Peak
 dm_owner: tim
 dm_notes: important
+typeOf: building
 ---
 # The Airion’s Tower
 >[!info]+ Information  

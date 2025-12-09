@@ -4,6 +4,7 @@ tags:
   - status/stub
 dm_owner: tim
 dm_notes: important
+typeOf: topographical feature
 ---
 
 %% 

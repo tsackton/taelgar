@@ -1,6 +1,8 @@
 ---
-tags: [place]
-typeOf: bay
+tags:
+  - place
+typeOf: marine feature
+typeOfAlias: bay
 ---
 
 The large bay north of the [[Mawakel Peninsula]] along the west coast

@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: High Horn
-typeOf: mountain pass
+typeOf: topographical feature
 whereabouts: Zimkova
 dm_owner: none
 dm_notes: none
+typeOfAlias: mountain pass
 ---
 
 Moved to tentative as, while there were "Battles of High Horn" in the old Great War campaign, it is not clear where this stands w/r/t current development of the Greater Sembara highlands. It is not necessarily clear there should or must be a canonical High Horn in this area. 
