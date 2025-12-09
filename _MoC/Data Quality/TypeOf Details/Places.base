@@ -4,6 +4,28 @@ filters:
     - '!file.path.startsWith("Worldbuilding/Tentative")'
 views:
   - type: table
+    name: Clean TypeOfs
+    filters:
+      and:
+        - typeOf.containsAny("region", "realm", "neighborhood", "settlement", "watershed")
+    groupBy:
+      property: typeOf
+      direction: ASC
+    order:
+      - file.name
+      - typeOf
+      - typeOfAlias
+      - subtypeOf
+      - ancestry
+    sort:
+      - property: typeOfAlias
+        direction: ASC
+      - property: ancestry
+        direction: ASC
+    columnSize:
+      note.typeOf: 180
+      note.typeOfAlias: 206
+  - type: table
     name: Table
     order:
       - file.name
@@ -33,43 +55,6 @@ views:
     columnSize:
       note.typeOf: 140
       note.founded: 149
-  - type: table
-    name: NonStandard
-    filters:
-      and:
-        - '!typeOf.containsAny("subdivision", "settlement", "realm", "inn", "building", "waterway", "watershed", "road", "holy site", "island", "plane", "region", "lake", "wetlands", "forest", "topographical feature", "subterranean feature", "infrastructure", "plain", "desert", "marine feature", "place")'
-    order:
-      - file.name
-      - typeOf
-      - subtypeOf
-      - typeOfAlias
-    sort:
-      - property: typeOf
-        direction: ASC
-      - property: typeOfAlias
-        direction: ASC
-    columnSize:
-      note.typeOf: 289
-  - type: table
-    name: Cleanup
-    groupBy:
-      property: typeOf
-      direction: ASC
-    order:
-      - file.name
-      - typeOf
-      - typeOfAlias
-      - subtypeOf
-      - ancestry
-      - aliases
-    sort:
-      - property: typeOfAlias
-        direction: ASC
-      - property: subtypeOf
-        direction: ASC
-    columnSize:
-      note.typeOf: 258
-      note.typeOfAlias: 167
   - type: table
     name: Structures
     filters:
@@ -102,8 +87,3 @@ views:
     columnSize:
       note.typeOf: 258
       note.typeOfAlias: 222
-  - type: table
-    name: Communities
-    filters:
-      and:
-        - typeOf.containsAny("settlement", "realm", "neighborhood")
