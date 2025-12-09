@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 ancestry: Chardonian
-typeOf: palace
+typeOf: building
 whereabouts: Chardon
 dm_owner: none
 dm_notes: none
+typeOfAlias: palace
 ---
 # The Imperial Palace
 >[!info]+ Information  

@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
-displayDefaults: {defArt: "the"}
+tags:
+  - place
+  - status/check/ai
+displayDefaults:
+  defArt: the
 name: Nightsong Roots
-typeOf: portal
+typeOf: infrastructure
 whereabouts: Highmoor
 dm_owner: none
 dm_notes: none
+typeOfAlias: portal
 ---
 # The Nightsong Roots
 >[!info]+ Information  

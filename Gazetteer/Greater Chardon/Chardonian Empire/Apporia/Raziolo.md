@@ -5,6 +5,7 @@ tags:
 dm_owner: tim
 dm_notes: important
 typeOf: subdivision
+typeOfAlias: province
 ---
 
 %%SECRET[1]%%

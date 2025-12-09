@@ -5,7 +5,7 @@ tags:
 displayDefaults:
   defArt: ""
 name: Goldpeak Mines
-typeOf: subterranean feature
+typeOf: infrastructure
 whereabouts:
   - type: primary
     location: Goldpeak Mountain

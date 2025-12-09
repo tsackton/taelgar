@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
-typeOf: archipelago
+typeOf: region
 whereabouts:
-- {type: primary, location: Green Sea }
-- {type: secondary, location: Eastern Green Sea }
-tags: [place, status/stub]
+  - type: primary
+    location: Green Sea
+  - type: secondary
+    location: Eastern Green Sea
+tags:
+  - place
+  - status/stub
 dm_notes: important
 dm_owner: tim
+typeOfAlias: archipelago
 ---
 # The ~Eastern Islands~
 >[!info]+ Information  

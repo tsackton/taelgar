@@ -1,12 +1,16 @@
 ---
-tags: [place, status/check/ai]
+tags:
+  - place
+  - status/check/ai
 name: Cleaver-Stone
-typeOf: gate
+typeOf: infrastructure
 whereabouts: Kedron valley (upriver from Castrella)
 campaignInfo:
-- {campaign: GL, type: found}
+  - campaign: GL
+    type: found
 dm_owner: none
 dm_notes: none
+typeOfAlias: gate
 ---
 # Cleaver-Stone
 >[!info]+ Information  

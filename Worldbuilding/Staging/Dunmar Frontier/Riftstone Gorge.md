@@ -1,9 +1,12 @@
 ---
-tags: [place, status/check/ai]
-typeOf: gorge
+tags:
+  - place
+  - status/check/ai
+typeOf: topographical feature
 whereabouts: Chataan Mountains
 dm_owner: none
 dm_notes: important
+typeOfAlias: gorge
 ---
 
 Riftstone Gorge is a deep valley below Thundercrown in the Chataan Mountains. In DR 1715, imperial legions suffered a catastrophic defeat here—the Riftstone Disaster—when a suspended chalyte‑crystal turret, chained by lightning between twin peaks, unleashed a violet lance that reduced cohorts to ash and collapsed cliffs in molten ruin. Later reports identified a stone‑giant tyrant, Dhrukmir, as the architect of this engine, ruling over Ulgrathar through chalyte‑powered terror until his fall.

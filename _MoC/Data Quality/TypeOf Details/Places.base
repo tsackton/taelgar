@@ -1,7 +1,7 @@
 filters:
   and:
     - file.tags.contains("place")
-    - '!file.folder.startsWith("Worldbuilding")'
+    - '!file.path.startsWith("Worldbuilding/Tentative")'
 views:
   - type: table
     name: Table
@@ -69,3 +69,35 @@ views:
         direction: ASC
     columnSize:
       note.typeOf: 258
+  - type: table
+    name: Structures
+    filters:
+      and:
+        - typeOf.containsAny("building", "inn", "holy site", "infrastructure", "road")
+    order:
+      - file.name
+      - typeOf
+      - typeOfAlias
+      - subtypeOf
+      - ancestry
+    sort:
+      - property: typeOf
+        direction: ASC
+      - property: typeOfAlias
+        direction: ASC
+  - type: table
+    name: Landforms
+    filters:
+      and:
+        - typeOf.containsAny("subterranean feature", "topographical feature", "island")
+    order:
+      - file.name
+      - typeOf
+      - typeOfAlias
+      - subtypeOf
+    sort:
+      - property: typeOf
+        direction: ASC
+    columnSize:
+      note.typeOf: 258
+      note.typeOfAlias: 222

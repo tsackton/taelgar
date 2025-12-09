@@ -8,23 +8,28 @@ views:
       and:
         - '!file.folder.startsWith("_")'
         - '!file.folder.startsWith("assets")'
+        - or:
+            - '!note["fc-end"].isEmpty()'
+            - '!note["fc-date"].isEmpty()'
+            - "!timelineDescriptor.isEmpty()"
     order:
       - file.name
       - fc-date
       - fc-end
       - timelineDescriptor
-      - speciesAlias
     sort:
+      - property: timelineDescriptor
+        direction: ASC
+      - property: fc-end
+        direction: DESC
+      - property: fc-date
+        direction: DESC
       - property: family
         direction: ASC
       - property: file.name
         direction: ASC
       - property: speciesAlias
         direction: DESC
-      - property: timelineDescriptor
-        direction: DESC
-      - property: fc-date
-        direction: ASC
       - property: hide
         direction: ASC
       - property: tagline

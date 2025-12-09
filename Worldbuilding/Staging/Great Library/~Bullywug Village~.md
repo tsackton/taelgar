@@ -1,11 +1,14 @@
 ---
-tags: [place, status/stub]
+tags:
+  - place
+  - status/stub
 name: Bullywug Village
-typeOf: village
+typeOf: settlement
 ancestry: bullywug
-whereabouts: 
+whereabouts:
 dm_owner: none
 dm_notes: none
+typeOfAlias: village
 ---
 # Bullywug Village
 >[!info]+ Information  

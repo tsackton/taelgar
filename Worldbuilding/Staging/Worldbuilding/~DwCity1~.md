@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, place]
+tags:
+  - status/stub
+  - place
 whereabouts: Khatridun
-typeOf: city
+typeOf: settlement
 subTypeOf: ruined
 dm_owner: tim
 dm_notes: important
+typeOfAlias: city
 ---
 # ~DwCity1~
 >[!info]+ Information  

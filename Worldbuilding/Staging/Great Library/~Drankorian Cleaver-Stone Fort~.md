@@ -1,13 +1,17 @@
 ---
-tags: [place, status/check/ai]
+tags:
+  - place
+  - status/check/ai
 name: Drankorian Cleaver-Stone Fort
-typeOf: fort
+typeOf: building
 ancestry: Drankorian
 whereabouts: Kedron valley (upriver from Castrella)
 campaignInfo:
-- {campaign: GL, type: explored}
+  - campaign: GL
+    type: explored
 dm_owner: none
 dm_notes: none
+typeOfAlias: fort
 ---
 # Drankorian Cleaver-Stone Fort
 >[!info]+ Information  
