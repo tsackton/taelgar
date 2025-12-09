@@ -8,7 +8,7 @@ typeOf: region
 whereabouts: Greater Dunmar
 dm_owner: tim
 dm_notes: color
-typeOfAlias: geographic region
+typeOfAlias:
 ---
 # The Darba Highlands
 >[!info]+ Information  

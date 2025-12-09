@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-typeOf: region
+typeOf: island
 whereabouts:
   - type: primary
     location: Green Sea

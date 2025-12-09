@@ -46,32 +46,46 @@ Place typeOf categories are organized into several broad groups. These are not t
 
 How ancestry, typeofAlias,and subtypeOf might be used in association with typeOfs is discussed below. 
 #### People
+_Status: clean_
 
 There are three place typeOf categories that generally relate to places where communities exist on a landscape. 
 
 - **settlement** is used to describe any note about a current or former community of people; obvious examples are things like villages, towns, and cities, but transient settlements (a camp) and ruined settlements fit here too. There is no specific minimum size, but generally a single house would be considered a structure, not a settlement, and a building complex with a singular purpose (castle, monastery) would also generally be a structure, even if people make their home there. 
 - **neighborhood** is used to describe subparts of a settlement; obvious examples are things like wards of Tollen or the North Bank of Chardon. Any note that describes a subdivision of a settlement that is larger than a single building or building complex should use the neighborhood typeOf. 
-- **realm** is used to describe collections of settlements; this can be at any level of organization, from small groups like Sembaran manors or Addermanian shires, to intermediate-scale clusters (the Duchy of Wisford), to kingdoms (Sembara), to groups of realms (Dwarven Kingdoms of the Sentinels). Pages which focus on the physical landscape as opposed to the human landscape generally should use the region typeOf not the realm typeOf. Realms that have a magical existence (fey domains, etc), should use the extraplanar domain typeOf. 
+- **realm** is used to describe collections of settlements; this can be at any level of organization, from small groups like Sembaran manors or Addermanian shires, to intermediate-scale clusters (the Duchy of Wisford), to kingdoms (Sembara), to groups of realms (Dwarven Kingdoms of the Sentinels). Pages which focus on the physical landscape as opposed to the species landscape generally should use the region typeOf not the realm typeOf. Realms that have a magical existence (fey domains, etc), should use the extraplanar domain typeOf. 
 
 Other frontmatter: 
 - No other frontmatter is required for this group of typeOfs, though generally it will be desirable to at least include a typeofAlias for the header. 
 - Typically the typeofAlias should be one of the suggested phrases below, possibly with one or more adjectives prepended. Descriptors are arbitrary, and the absence of a descriptor does not indicate lack of that feature (e.g. a city may still have walls even if it is not listed as a fortified city, and a town may still have a market even if it is not listed as a market town). 
 	- settlement: village, town, and city are suggested
 	- neighborhood: ward, precinct, district or similar are suggested for official administrative subdivisions; neighborhood (e.g. typeofAlias blank) or urban area for informal settlement parts
-	- realm: kingdom, march, duchy, barony, shire, republic, empire or similar are suggested for singular realms; "group of x" is suggested for pages about groups of realms; and various terms like alliance or trading league are suggested for pages about in-world collections of realms (e.g., potentially Istabor Alliance). 
+	- realm: kingdom, march, duchy, barony, shire, republic, empire or similar are suggested for singular realms; "group of x" is suggested for pages about groups of realms; and various terms like alliance or trading league are suggested for pages about in-world collections of realms (e.g., potentially Istabor Alliance). But see note on Geographic Regions, below. 
 - subtypeOf is not used currently for any of these tags, though potentially some descriptors could get moved to subtype if it turns out to consistently be useful to filter or select on them.
 - ancestry is encouraged to be used, but it is principally for display; typeOf: settlement and ancestry: dwarven does not consistently get all dwarven cities, for example, and should not generally be expected to. 
 
+#### Geographic Regions
+_Status: minor work_
+
+There are two typeOf categories that relate to geographic areas of the world. 
+
+- **region**: is used to describe any geographic subdivision of the world. While the distinction between "realm" and "region" is a little arbitrary, region pages typically focus on physical geography, topography, climate, etc, instead of politics, law, economy. 
+- **watershed**: is used specifically to describe watersheds, that is collections of rivers and drainage basins. Note this is not used strictly to refer to unique drainage basins, e.g. [[Tyrwinghan Watershed]] describes the drainage basins of several nearby rivers. 
+
+Other frontmatter:
+- No other frontmatter is required for this group of typeOfs, and typeofAliases are rarely used. Typically "region" or "watershed" is fine for display purposes. 
+- subtypeOf and ancestry are not currently used for these pages and generally don't have a useful meaning here. 
+
+***Note***: "region" is actually a little squishy in practice. From a quick browse, there are three kinds of pages tagged with region: 
+- The regional overview pages that divide up the Gazette
+- Groupings of political subdivisions ([[Northern Provinces]], [[Borderlands]], [[Western Marches]]), which are usually actually about groups of realms
+- Sub-components of overview regions, e.g. [[Plaguelands]], [[Aurbez and the Andonne]], [[Desolation of Cha'mutte]]. 
+- Some pages themselves are pretty squishy, like [[Central Dunmar]] which is kind of a subdivision of Dunmar but not really since Dunmar has a very flat political structure. 
+
+The best option is probably to treat "region" as just a typeOf for generic subdivisions of the world: anything that isn't a specific feature, and anything that isn't a realm. So here things like "Borderlands" would remain a region. 
 
 
-Geographic regions:
-
-typeOf categories that relate to collections of geographic features
-
-- region (a collection of geographic features)
-- watershed (river systems)
-
-Extraplanar
+---
+#### Extraplanar
 
 typeOf categories that relate to extraplanar features
 
@@ -79,7 +93,7 @@ typeOf categories that relate to extraplanar features
 - extraplanar domain (a page about a specific subregion of a page)
 - portal (a page about portal, extraplanar weak point, extraplanar vortex, or other kind of planar connection)
 
-Biomes
+#### Biomes
 
 typeOf categories that relate to biomes / biological terrain
 

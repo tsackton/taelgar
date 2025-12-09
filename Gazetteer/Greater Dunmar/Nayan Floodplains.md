@@ -6,7 +6,7 @@ typeOf: region
 whereabouts: Greater Dunmar
 dm_notes: color
 dm_owner: tim
-typeOfAlias: geographic region
+typeOfAlias:
 ---
 # The Nayan Floodplains
 >[!info]+ Information  
