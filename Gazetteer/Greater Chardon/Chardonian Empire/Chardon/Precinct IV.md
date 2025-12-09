@@ -6,7 +6,7 @@ tags:
 displayDefaults:
   defArt: ""
 whereabouts: Chardon
-typeOf: subdivision
+typeOf: neighborhood
 dm_notes: important
 dm_owner: tim
 typeOfAlias: precinct

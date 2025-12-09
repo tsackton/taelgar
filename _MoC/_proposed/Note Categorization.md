@@ -35,7 +35,7 @@ Pages that do not have any of these tags are listed here [[Missing Tags]].
 See: [[Descriptive Tags - Discussion]] for discussion and proposals around tags. 
 
 ## TypeOf
-***Last update: 12/08/2025***
+***Last update: 12/09/2025***
 
 Certain descriptive tags require a secondary classification using typeOf (or the synonym species). The details of how typeOf is used depend on the descriptive tag, as outlined below. 
 
@@ -103,9 +103,9 @@ typeOf categories that relate to biomes / biological terrain
 - desert
 
 
-
-
 ---
+
+Unclear
 
 Structures:
 - inn

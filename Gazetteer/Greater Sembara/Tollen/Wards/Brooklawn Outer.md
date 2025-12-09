@@ -5,7 +5,7 @@ tags:
 name: Brooklawn Outer
 displayDefaults:
   defArt: ""
-typeOf: subdivision
+typeOf: neighborhood
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none

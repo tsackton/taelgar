@@ -4,7 +4,7 @@ tags:
   - place
 dm_owner: tim
 dm_notes: important
-typeOf: subdivision
+typeOf: realm
 typeOfAlias: province
 ---
 

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags:
   - place
-typeOf: subdivision
+typeOf: realm
 dm_owner: mike
 dm_notes: none
 created: 1651

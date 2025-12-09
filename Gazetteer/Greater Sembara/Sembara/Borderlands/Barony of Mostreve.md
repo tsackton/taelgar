@@ -6,7 +6,7 @@ name: Barony of Mostrevé
 whereabouts: Borderlands
 aliases:
   - Barony of Mostrevé
-typeOf: subdivision
+typeOf: realm
 pronunciation: moh-strev-AY
 dm_owner: none
 dm_notes: none

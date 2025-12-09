@@ -4,7 +4,7 @@ tags:
   - place
 campaignInfo:
 name: Barony of Vaubonne
-typeOf: subdivision
+typeOf: realm
 whereabouts: Sembara
 pronunciation: Voh-bun
 dm_notes: none

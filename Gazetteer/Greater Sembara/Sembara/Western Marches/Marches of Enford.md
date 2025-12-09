@@ -4,7 +4,7 @@ tags:
   - place
 campaignInfo:
 name: Marches of Enford
-typeOf: subdivision
+typeOf: realm
 whereabouts: Western Marches
 dm_notes: color
 dm_owner: none

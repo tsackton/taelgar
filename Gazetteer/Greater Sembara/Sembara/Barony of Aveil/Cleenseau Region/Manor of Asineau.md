@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags:
   - place
-typeOf: subdivision
+typeOf: realm
 created: 1651
 whereabouts: Barony of Aveil
 dm_notes: color

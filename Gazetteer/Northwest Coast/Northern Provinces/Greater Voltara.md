@@ -10,7 +10,7 @@ whereabouts:
     location: Northern Provinces
   - type: secondary
     location: Northwest Coast
-typeOf: subdivision
+typeOf: realm
 dm_notes: none
 dm_owner: none
 typeOfAlias: province

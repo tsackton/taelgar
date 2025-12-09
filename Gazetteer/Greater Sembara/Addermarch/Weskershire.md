@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags:
   - place
 name: Weskershire
-typeOf: subdivision
+typeOf: realm
 whereabouts: Addermarch
 dm_owner: none
 dm_notes: none

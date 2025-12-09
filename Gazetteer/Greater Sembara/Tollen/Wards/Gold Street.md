@@ -5,7 +5,7 @@ tags:
 displayDefaults:
   defArt: ""
 name: Gold Street
-typeOf: subdivision
+typeOf: neighborhood
 whereabouts: Tollen
 dm_notes: none
 dm_owner: none

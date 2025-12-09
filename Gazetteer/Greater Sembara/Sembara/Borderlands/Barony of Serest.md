@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags:
   - place
-typeOf: subdivision
+typeOf: realm
 whereabouts: Borderlands
 dm_owner: none
 dm_notes: none

@@ -4,7 +4,7 @@ displayDefaults:
   defArt: ""
 tags:
   - place
-typeOf: subdivision
+typeOf: neighborhood
 whereabouts: North Bank
 dm_owner: tim
 dm_notes: important

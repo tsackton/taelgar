@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags:
   - place
 name: Barony of Aveil
-typeOf: subdivision
+typeOf: realm
 whereabouts: Sembara
 pronunciation: Ah-veh-eel
 dm_notes: color

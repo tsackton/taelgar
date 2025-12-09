@@ -4,7 +4,7 @@ tags:
   - place
 campaignInfo:
 name: Duchy of Cheimen
-typeOf: subdivision
+typeOf: realm
 whereabouts: Heartlands
 dm_owner: none
 dm_notes: color

@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags:
   - place
 whereabouts: Western Marches
-typeOf: subdivision
+typeOf: realm
 dm_notes: none
 dm_owner: none
 typeOfAlias: barony

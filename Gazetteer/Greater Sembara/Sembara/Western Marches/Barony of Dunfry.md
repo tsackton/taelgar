@@ -4,7 +4,7 @@ tags:
   - place
 campaignInfo:
 name: Barony of Dunfry
-typeOf: subdivision
+typeOf: realm
 dm_notes: color
 dm_owner: mike
 whereabouts: Western Marches

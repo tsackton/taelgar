@@ -5,7 +5,7 @@ tags:
   - status/needswork
 campaignInfo: []
 name: March of Andonne
-typeOf: subdivision
+typeOf: realm
 whereabouts: Duchy of Maseau
 dm_owner: none
 dm_notes: none
