@@ -6,7 +6,6 @@ whereabouts:
   - type: primary
     location: Echo Realms
     wHome: A <subtypeOf> <typeOf> in <home:1>
-subtypeOf:
 typeOf: plane
 dm_notes: none
 dm_owner: tim
