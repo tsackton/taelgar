@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-typeOf: realm
+tags:
+  - place
+typeOf: extraplanar domain
 ancestry: fey
 whereabouts: Feywild
 dm_owner: tim

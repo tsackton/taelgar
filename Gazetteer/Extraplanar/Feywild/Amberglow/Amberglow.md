@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 whereabouts: Feywild
-excludePublish: ["clee"]
+excludePublish:
+  - clee
 ancestry: fey
-typeOf: realm
+typeOf: extraplanar domain
 dm_notes: none
 dm_owner: mike,tim
 ---

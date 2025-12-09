@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: ""}
+tags:
+  - place
+displayDefaults:
+  defArt: ""
 name: Cairn Dor
-typeOf: realm
+typeOf: extraplanar domain
 whereabouts: Shadowfolds
 dm_owner: none
 dm_notes: none

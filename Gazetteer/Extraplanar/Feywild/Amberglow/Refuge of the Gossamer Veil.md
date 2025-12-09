@@ -8,7 +8,7 @@ excludePublish:
 dm_owner: mike
 dm_notes: none
 whereabouts: Amberglow
-typeOf: realm
+typeOf: extraplanar domain
 ---
 # The Refuge of the Gossamer Veil
 >[!info]+ Information  

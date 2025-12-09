@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-excludePublish: ["dufr"]
+tags:
+  - place
+excludePublish:
+  - dufr
 whereabouts: Feywild
-typeOf: realm
+typeOf: extraplanar domain
 dm_owner: none
 dm_notes: color
 ---

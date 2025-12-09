@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
-campaignInfo: []
+tags:
+  - place
+  - status/cleanup/text
 typeOf: realm
+typeOfAlias: group of kingdoms
 name: Dwarven Kingdoms
 whereabouts: Labkhan
 dm_owner: joint
 dm_notes: none
+ancestry:
 ---
 # The Dwarven Kingdoms
 >[!info]+ Information  

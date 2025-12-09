@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 campaignInfo:
 name: Cymea
-typeOf: realm
+typeOf: region
 whereabouts: Western Green Sea
 dm_owner: tim
 dm_notes: color
@@ -13,7 +13,7 @@ dm_notes: color
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Cymea is a realm of coastal city‑states and river towns spread across the [[Cymean Peninsula]] on the [[Western Green Sea]]. Once a prominent Drankorian province, noted for the martime skill of its sailors, Cymea today is a loose tapestry of independent polities that trade, rival, and occasionally ally with one another. Nonetheless, Cymea still largely looks to the sea: harbors line the peninsula’s shores, and most of the prominent Cymea cities are ports. 
+Cymea is a region of coastal city‑states and river towns spread across the [[Cymean Peninsula]] on the [[Western Green Sea]]. Once a prominent Drankorian province, noted for the martime skill of its sailors, Cymea today is a loose tapestry of independent polities that trade, rival, and occasionally ally with one another. Nonetheless, Cymea still largely looks to the sea: harbors line the peninsula’s shores, and most of the prominent Cymea cities are ports. 
 
 %%
 Meta/DM notes and campaign interactions:

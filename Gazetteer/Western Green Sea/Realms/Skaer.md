@@ -1,8 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
+tags: [culture, status/cleanup/text]
 name: Skaer
-typeOf: realm
 whereabouts: Skaerhem
 dm_notes: color
 dm_owner: tim

@@ -4,13 +4,14 @@ tags: [place]
 aliases: [Sembaran Borderlands]
 displayDefaults: { defArt: the }
 whereabouts: Sembara
-typeOf: region
+typeOf: realm
+typeOfAlias: group of baronies
 dm_owner: none
 dm_notes: none
 ---
 # The Borderlands
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Sembaran Borderlands is a name for the baronies between the [[Aure]] in the east, the [[Enst]] in the north, and the [[Mostreve Hills]] in the south. These baronies are mostly newly established since the [[Third Hobgoblin War (Sembara)|hobgoblin wars]], and are traditionally quite loyal to the crown. 
