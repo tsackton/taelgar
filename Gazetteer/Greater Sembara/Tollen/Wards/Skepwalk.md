@@ -4,7 +4,7 @@ tags:
   - place
   - status/needswork
 name: Skepwalk
-typeOf: subdivision
+typeOf: neighborhood
 whereabouts: Tollen
 dm_notes: color
 dm_owner: tim

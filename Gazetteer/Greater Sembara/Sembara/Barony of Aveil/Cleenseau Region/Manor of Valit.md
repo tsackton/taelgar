@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags:
   - place
-typeOf: subdivision
+typeOf: realm
 created: 1490
 whereabouts: Barony of Aveil
 dm_owner: mike

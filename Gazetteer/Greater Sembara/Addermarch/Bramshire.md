@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags:
   - place
 name: Bramshire
-typeOf: subdivision
+typeOf: realm
 whereabouts: Addermarch
 pronunciation: BRAM-shur
 dm_owner: none

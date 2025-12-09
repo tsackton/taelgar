@@ -5,7 +5,7 @@ tags:
   - status/cleanup/text
 campaignInfo:
 name: Duchy of Wisford
-typeOf: subdivision
+typeOf: realm
 whereabouts: Sembara
 dm_owner: mike
 dm_notes: important

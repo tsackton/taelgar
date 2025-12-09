@@ -5,7 +5,7 @@ tags:
   - status/cleanup/text
 campaignInfo:
 name: Duchy of Sembara
-typeOf: subdivision
+typeOf: realm
 whereabouts: Sembara
 dm_owner: none
 dm_notes: important

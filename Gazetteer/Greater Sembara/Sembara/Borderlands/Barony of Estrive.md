@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags:
   - place
   - status/stub
-typeOf: subdivision
+typeOf: realm
 whereabouts: Borderlands
 pronunciation: ess-TREEV
 dm_notes: none

@@ -4,7 +4,7 @@ tags:
   - place
 displayDefaults:
   defArt: ""
-typeOf: subdivision
+typeOf: realm
 whereabouts:
   - type: primary
     location: Chardonian Empire

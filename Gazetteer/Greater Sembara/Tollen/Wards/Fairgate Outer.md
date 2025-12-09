@@ -5,7 +5,7 @@ tags:
 whereabouts: Tollen
 displayDefaults:
   defArt: ""
-typeOf: subdivision
+typeOf: neighborhood
 dm_notes: none
 dm_owner: none
 typeOfAlias: ward

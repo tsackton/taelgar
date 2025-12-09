@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags:
   - place
 name: Barony of Brumecliff
-typeOf: subdivision
+typeOf: realm
 whereabouts: Borderlands
 pronunciation: Broom-cliff
 dm_owner: none

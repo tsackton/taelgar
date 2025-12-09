@@ -4,7 +4,7 @@ tags:
   - place
 campaignInfo:
 name: Duchy of Arnsbury
-typeOf: subdivision
+typeOf: realm
 whereabouts: Sembara
 dm_notes: color
 dm_owner: none

@@ -4,7 +4,7 @@ tags:
   - place
 campaignInfo:
 name: Barony of Ainwick
-typeOf: subdivision
+typeOf: realm
 whereabouts: Western Marches
 dm_notes: none
 dm_owner: none

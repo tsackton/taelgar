@@ -4,7 +4,7 @@ tags:
   - place
 displayDefaults:
   defArt: ""
-typeOf: subdivision
+typeOf: neighborhood
 whereabouts: Chardon
 dm_owner: tim
 dm_notes: important

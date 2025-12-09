@@ -4,7 +4,7 @@ tags:
   - place
   - status/stub
 whereabouts: Borderlands
-typeOf: subdivision
+typeOf: realm
 pronunciation: Voh-klair
 dm_notes: none
 dm_owner: none

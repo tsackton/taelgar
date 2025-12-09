@@ -4,7 +4,7 @@ tags:
   - place
   - status/stub
 name: Southbridge
-typeOf: subdivision
+typeOf: neighborhood
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none

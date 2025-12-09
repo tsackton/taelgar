@@ -4,7 +4,7 @@ tags:
   - place
 campaignInfo:
 name: Duchy of Seham
-typeOf: subdivision
+typeOf: realm
 whereabouts: Sembara
 dm_notes: color
 dm_owner: none

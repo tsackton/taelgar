@@ -4,7 +4,7 @@ tags:
   - place
 ancestry: Sembaran
 whereabouts: Western Marches
-typeOf: subdivision
+typeOf: realm
 dm_owner: none
 dm_notes: none
 typeOfAlias: march

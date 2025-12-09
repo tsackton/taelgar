@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags:
   - place
-typeOf: subdivision
+typeOf: neighborhood
 whereabouts: Chardon
 dm_owner: tim
 dm_notes: important
