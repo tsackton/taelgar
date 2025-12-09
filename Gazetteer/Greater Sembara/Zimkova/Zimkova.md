@@ -1,9 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/mike]
+tags:
+  - place
+  - status/check/mike
 name: Zimkova
-typeOf: realm
-aliases: [ Highland Kingdoms ]
+typeOf: region
+aliases:
+  - Highland Kingdoms
 whereabouts: Greater Sembara
 dm_owner: joint
 dm_notes: none

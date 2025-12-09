@@ -5,6 +5,7 @@ tags:
 dm_owner: tim
 dm_notes: important
 typeOf: realm
+typeOfAlias: destroyed realm
 ---
 %% a northern polity referenced in old high school material a lot, as a kingdom fighting agains[](Pandar.md)]]
 

@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 typeOf: realm
 ancestry: giant
 whereabouts: Chataan Mountains
 dm_notes: important
 dm_owner: tim
+typeOfAlias: kingdom
 ---
 # Ulgrathar
 >[!info]+ Information  

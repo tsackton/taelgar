@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
-aliases: [Chardonian]
+tags:
+  - place
+  - status/stub
+aliases:
+  - Chardonian
 name: Chardonian Empire
 typeOf: realm
 whereabouts: Greater Chardon
 dm_owner: tim
 dm_notes: important
+typeOfAlias: empire
 ---
 # The Chardonian Empire
 >[!info]+ Information  

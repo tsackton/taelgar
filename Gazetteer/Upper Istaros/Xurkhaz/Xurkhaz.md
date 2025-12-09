@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
+tags:
+  - place
+  - status/cleanup/text
 name: Xurkhaz
 created: 1583
 typeOf: realm
@@ -8,6 +10,8 @@ whereabouts: Garamjala Desert
 pronunciation: ZURK-kaz
 dm_owner: tim
 dm_notes: important
+ancestry: free orc
+typeOfAlias: monarchy
 ---
 # Xurkhaz
 *(ZURK-kaz)*

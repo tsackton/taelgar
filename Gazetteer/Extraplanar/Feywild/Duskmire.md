@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 whereabouts: Feywild
-typeOf: realm
-excludePublish: ["all"]
+typeOf: extraplanar domain
+excludePublish:
+  - all
 dm_notes: important
 dm_owner: mike,tim
 ---

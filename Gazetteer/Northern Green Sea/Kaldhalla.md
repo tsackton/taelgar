@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 typeOf: realm
 ancestry: frost giant
 whereabouts: Hrimthur
 pronunciation: KAHL-hal-lah
 dm_owner: tim
 dm_notes: important
+typeOfAlias: monarchy
 ---
 # Kaldhalla
 *(KAHL-hal-lah)*

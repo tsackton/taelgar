@@ -7,7 +7,7 @@ displayDefaults:
   dCurrent: ""
 tags:
   - place
-typeOf: realm
+typeOf: extraplanar domain
 created: 1575
 destroyed: 1748-08-26
 ancestry: Shadowfolds

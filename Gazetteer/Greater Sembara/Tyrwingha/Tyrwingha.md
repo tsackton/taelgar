@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
+tags:
+  - place
+  - status/cleanup/text
 name: Tyrwingha
 typeOf: realm
 whereabouts: Greater Sembara
-aliases: [Tyrwinghan]
+aliases:
+  - Tyrwinghan
 dm_notes: important
 dm_owner: shared,mike
+typeOfAlias: monarchy
 ---
 # Tyrwingha
 >[!info]+ Information  

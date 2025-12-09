@@ -64,25 +64,16 @@ Other frontmatter:
 - ancestry is encouraged to be used, but it is principally for display; typeOf: settlement and ancestry: dwarven does not consistently get all dwarven cities, for example, and should not generally be expected to. 
 
 #### Geographic Regions
-_Status: minor work_
+_Status: clean_
 
 There are two typeOf categories that relate to geographic areas of the world. 
 
-- **region**: is used to describe any geographic subdivision of the world. While the distinction between "realm" and "region" is a little arbitrary, region pages typically focus on physical geography, topography, climate, etc, instead of politics, law, economy. 
+- **region**: is used to describe any geographic subdivision of the world. While the distinction between "realm" and "region" is a little arbitrary, region pages typically focus on physical geography, topography, climate, etc, instead of politics, law, economy. Generally pages that are clearly about collections of realms (cf [[Dwarven Kingdoms]]; [[Borderlands]]) should be realm, whereas pages that are ambiguous or lean more towards geography should be regions (cf [[Central Dunmar]]; [[Zimkova]]). But this is admittedly a judgement call. 
 - **watershed**: is used specifically to describe watersheds, that is collections of rivers and drainage basins. Note this is not used strictly to refer to unique drainage basins, e.g. [[Tyrwinghan Watershed]] describes the drainage basins of several nearby rivers. 
 
 Other frontmatter:
 - No other frontmatter is required for this group of typeOfs, and typeofAliases are rarely used. Typically "region" or "watershed" is fine for display purposes. 
 - subtypeOf and ancestry are not currently used for these pages and generally don't have a useful meaning here. 
-
-***Note***: "region" is actually a little squishy in practice. From a quick browse, there are three kinds of pages tagged with region: 
-- The regional overview pages that divide up the Gazette
-- Groupings of political subdivisions ([[Northern Provinces]], [[Borderlands]], [[Western Marches]]), which are usually actually about groups of realms
-- Sub-components of overview regions, e.g. [[Plaguelands]], [[Aurbez and the Andonne]], [[Desolation of Cha'mutte]]. 
-- Some pages themselves are pretty squishy, like [[Central Dunmar]] which is kind of a subdivision of Dunmar but not really since Dunmar has a very flat political structure. 
-
-The best option is probably to treat "region" as just a typeOf for generic subdivisions of the world: anything that isn't a specific feature, and anything that isn't a realm. So here things like "Borderlands" would remain a region. 
-
 
 ---
 #### Extraplanar

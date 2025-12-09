@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Stonewolds
 displayDefaults: {defArt: "the"}
-typeOf: region
+typeOf: 
 whereabouts: Carlinshire
 dm_owner: tim
 dm_notes: color

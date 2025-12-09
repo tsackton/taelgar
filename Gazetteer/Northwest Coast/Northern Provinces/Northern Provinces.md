@@ -5,7 +5,8 @@ name: Northern Provinces
 whereabouts: 
 - {type: primary, location: Chardonian Empire }
 - {type: secondary, location: Northwest Coast }
-typeOf: region
+typeOf: realm
+typeOfAlias: group of provinces
 dm_notes: none
 dm_owner: tim
 ---

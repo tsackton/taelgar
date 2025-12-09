@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/incomplete]
-displayDefaults: { ruledBy: "Ruled by: <name> <((since )startDate())>"}
+tags:
+  - place
+  - status/incomplete
+displayDefaults:
+  ruledBy: "Ruled by: <name> <((since )startDate())>"
 name: Sembara
 typeOf: realm
 whereabouts: Greater Sembara
 dm_owner: shared
 dm_notes: important
+typeOfAlias: monarchy
 ---
 # Sembara
 >[!info]+ Information  

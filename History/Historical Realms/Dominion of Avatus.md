@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/mike, place, historical]
+tags:
+  - status/check/mike
+  - place
+  - historical
 created: 1199
 destroyed: 1429
 typeOf: realm
 whereabouts: Greater Sembara
 dm_owner: joint
 dm_notes: none
+typeOfAlias: destroyed empire
 ---
 # The Dominion of Avatus
 >[!info]+ Information  

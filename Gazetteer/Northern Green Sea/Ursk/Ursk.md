@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
+tags:
+  - place
+  - status/cleanup/text
 campaignInfo: []
-aliases: [Urskan]
+aliases:
+  - Urskan
 name: Ursk
 typeOf: realm
 whereabouts: Northern Green Sea
 dm_notes: important
 dm_owner: tim
+typeOfAlias: secretive magocracy
 ---
 # Ursk
 >[!info]+ Information
