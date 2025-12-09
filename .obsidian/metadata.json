@@ -1,0 +1,274 @@
+{
+    "fragmentsThatDontAutoLink": [
+        "somewhere",
+        "unknown",
+        "of",
+        "in",
+        "near",
+        "imprisoned",
+        "drifting",
+        "traveling"        
+    ],
+    "campaigns": [
+        {
+            "prefix": "DuFr",
+            "sessionNoteFolder": "Campaigns/Dunmari Frontier/Session Notes"
+        },
+        {
+            "prefix": "Clee",
+            "sessionNoteFolder": "Campaigns/Cleenseau Campaign/Sessions"
+        }
+    ],
+    "requiredDisplayDefaults": {
+        "startStatus": "",
+        "endStatus": "",
+        "wOrigin": "<origin:3Fru>",
+        "wOriginU": "<origin:3Fru>",
+        "wHome": "<home:3Fru>",
+        "wHomeU": "",
+        "wPastHome": "<home:3Fru>",
+        "wPastHomeU": "",
+        "wCurrent": "Currently <current:3Frq>",
+        "wPast": "<end:u> <current:3Frq>",
+        "wLastKnown": "Last known location (as of <lastknowndate>): <lastknown:3Fr>",
+        "wLastNoDate": "Last known location: <lastknown:3Fr>",
+        "wParty": "<met:u> <person:q> on <target> <current:3Frq>",
+        "wSecondary" : "",
+        "dCurrent": "<start:u> <startDate>",
+        "dPastHasStart": "<start:u> <startDate> - <end> <endDate>",
+        "dPast": "<end:u> <endDate>",
+        "boxName": "Information",
+        "partOf": "",
+        "boxInfo": "",
+        "aNoDate": "<affiliationtitle:tx> of <affiliations>",
+        "aPast": "<affiliationtitle:tx> of <affiliations> (until <endDate>)",
+        "aCurrent": "<affiliationtitle:tx> of <affiliations> (since <startDate>)",
+        "aPastHasStart": "<affiliationtitle:tx> of <affiliations> (<startDate> - <endDate>)", 
+        "mechanicsLink": "",
+        "linkText": "",
+        "ruledBy" : ""        
+    },
+    "typeDisplayDefaults": {
+        "culture" : {
+            "boxInfo": "<partOf:AU> <species:AU> <typeOf:AU> <(based in )whereabouts>"    
+        },
+        "deity": {
+            "boxName": "Summary",
+            "defArt": "",
+            "boxInfo": "<pronouns>"
+        },
+        "person": {
+            "boxName": "Biographical Info",
+            "startStatus": "born",
+            "endStatus": "died",
+            "defArt": "",
+            "wOrigin": "Originally from: <origin:3Fr>",
+            "wOriginU": "Originally from: <origin:3Fr>",
+            "wHome": "Based <home:3Frq>",
+            "wPast": "<end:u> <current:3Frq>",
+            "wPastHome": "Lived <home:3Frq>",
+            "wParty": "<met:u> <person:q> on <target> <current:3Frq>",
+            "dCurrent": "<start:u> <startDate> (<length> old)",
+            "dPastHasStart": "b. <startDate> - d. <endDate>, <end> at age <length>",
+            "dPast": "<end:u> <endDate>",
+            "boxInfo": "<ancestry:UA> <species:sAU> <(()subspecies:s())> <(()pronouns())>, <(of )primary>\n<(()ka())>",
+            "mechanicsLink": "Character Sheet",
+            "linkText": "by",
+            "ltPlace": "in",
+            "ltPerson": "by",
+            "ltItem": "by",
+            "ltOrg": "member of"
+        },
+        "place": {
+            "startStatus": "founded",
+            "endStatus": "destroyed",
+            "wOrigin": "",
+            "wOriginU": "",
+            "dCurrent": "<start:u> <startDate> (<length> ago)",
+            "dPastHasStart": "existed <startDate> - <endDate>, <end> after <length>",
+            "dPast": "<end:u> <endDate>",
+            "wCurrent" : "Located <current:5Fq>",
+            "wPast": "Was located <current:5Frq>",
+            "wHome" :  "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:5Fq>",
+            "wPastHome": "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:5Fq>",
+            "wSecondary": "Located <secondary:5Fq>",
+            "partOf": "",
+            "boxInfo": "<population>",                        
+            "ruledBy" : "<affiliationtitle:tx>: <name> <((since )startDate())>",
+            "linkText": "in"            
+        },
+        "item": {
+            "startStatus": "created",
+            "endStatus": "destroyed",
+            "wOrigin": "<start:u> <origin:3Frq>",
+            "wOriginU": "<start:u> by <origin:3Frq>",
+            "wHome": "Owned <home:lirq>",
+            "wPastHome": "Was owned <home:lirq>",
+            "wCurrent": "Owned <current:lirq>",
+            "dCurrent": "<start:u> <startDate> (<length> ago)",
+            "dPastHasStart": "existed <startDate> - <endDate>, <end> after <length>",
+            "dPast": "<end:u> <endDate>",
+            "boxInfo": "(<rarity:s> <ancestry> <subtypeof:s> <typeof:s>)",
+            "mechanicsLink": "Mechanics",
+            "linkText": "in",
+            "ltPlace": "in"
+        },
+        "organization": {   
+            "startStatus": "founded",
+            "endStatus": "disbanded",
+            "wOrigin": "<start:u> <origin:q>",
+            "wOriginU": "",
+            "wHome": "Based <home:q>",
+            "wPastHome": "Was based <home:q>",
+            "dCurrent": "<start:u> <startDate> (<length> ago)",
+            "dPastHasStart": "existed <startDate> - <endDate>, <end> after <length>",
+            "dPast": "<end:u> <endDate>",
+            "partOf": "<(Parent Organization: )partof>",
+            "boxInfo": "<ancestry:UA> <subtypeof:UA> <typeof:UA>",            
+            "ruledBy" : "<affiliationtitle:tx>: <name> <((since )startDate())>",
+            "linkText": "by",
+            "ltPlace": "in",
+            "ltPerson": "with",
+            "ltItem": "owned by",
+            "ltOrg": "part of"
+        },
+        "event": {
+            "startStatus": "started in",
+            "endStatus": "ended in",
+            "wOrigin": "<startStatus:u> <origin:q>",
+            "wHome": "Occurring <home:q>",
+            "wPastHome": "Happened <home:q>",
+            "dCurrent": "<start:u> <startDate> (<length> ago)",
+            "dPastHasStart": "<startDate> - <endDate>, lasted <length>",
+            "dPast": "<end:u> <endDate>",
+            "partOf": "<(part of )partof:ty>"
+        },
+        "unknown": {
+            "startStatus": "created",
+            "endStatus": "destroyed",
+            "defArt": ""
+        }
+    },
+    "linkmap": [
+        {
+            "from" : "Taelgar",
+            "to" : "Gazetteer",
+            "isAlias" : true
+        },
+        {
+            "from": "fire elemental",
+            "to": "Elementals",
+            "isAlias": true
+        },
+        {
+            "from": "archfey",
+            "to": "fey",
+            "isAlias": true
+        },
+        {
+            "from": "nymph",
+            "to": "fey",
+            "isAlias": true
+        },
+        {
+            "from": "storm giant",
+            "to": "giants",
+            "isAlias": true
+        },
+        {
+            "from": "Ardikhun",
+            "to": "Ardith",
+            "isAlias": true
+        },
+        {
+            "from": "Maseaun",
+            "to": "Duchy of Maseau",
+            "isAlias": true
+        },
+        {
+            "from": "fire giant",
+            "to": "giants",
+            "isAlias": true
+        },
+        {
+            "from": "elder wrym",
+            "to": "Dragons",
+            "isAlias": true
+        },
+        {
+            "from": "green dragon",
+            "to": "Dragons",
+            "isAlias": true
+        },
+        {
+            "from": "clee",
+            "to": "Heroes of Cleenseau"
+        },
+        {
+            "from": "ka",
+            "to": "The Cycle of Generations",
+            "isAlias": true
+        },
+        {
+            "from": "DuFr",
+            "to": "Dunmar Fellowship"
+        },
+        {
+            "from": "adma",
+            "to": "Addermarch Mercenaries"
+        },     
+        {
+            "from": "GW",
+            "to": "Heroes of the Great War"
+        },
+        {
+            "from": "GL",
+            "to": "Silver Tempests"
+        },
+        {
+            "from": "Dunmari",
+            "to": "Dunmar",
+            "isAlias": true
+        },
+        {
+            "from": "Skaegish",
+            "to": "Skaer",
+            "isAlias": true
+        },
+        {
+            "from": "Sembaran",
+            "to": "Sembara",
+            "isAlias": true
+        },
+        {
+            "from": "Tyrwinghan",
+            "to": "Tyrwingha",
+            "isAlias": true
+        },
+        {
+            "from": "Chardonian",
+            "to": "Chardonian Empire",
+            "isAlias": true
+        },
+        {
+            "from": "Drankorian",
+            "to": "Drankorian Empire",
+            "isAlias": true
+        },
+        {
+            "from": "Tollender",
+            "to": "Tollen",
+            "isAlias": true
+        },
+        {
+            "from": "Isinguer",
+            "to": "Istabor Alliance",
+            "isAlias": true
+        },
+        {
+            "from": "Cymean",
+            "to": "Cymea",
+            "isAlias": true
+        }
+    ]
+}
