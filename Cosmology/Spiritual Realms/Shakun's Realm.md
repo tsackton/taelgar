@@ -1,15 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-excludePublish: ["clee"]
-displayDefaults: {defArt: ""}
-whereabouts: 
-- {type: home, location: Divine Realms, wHome: "A <ancestry> <subtypeof><typeOf> in the <home:1>"}
-subtypeOf: demi
+tags:
+  - place
+excludePublish:
+  - clee
+displayDefaults:
+  defArt: ""
+whereabouts:
+  - type: home
+    location: Divine Realms
+    wHome: A <ancestry> <subtypeof><typeOf> in the <home:1>
+subtypeOf:
 typeOf: plane
 ancestry: Dunmari
 dm_notes: none
 dm_owner: tim
+typeOfAlias: demiplane
 ---
 # Shakun's Realm
 >[!info]+ Information  

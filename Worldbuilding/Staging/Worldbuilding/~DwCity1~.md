@@ -5,10 +5,10 @@ tags:
   - place
 whereabouts: Khatridun
 typeOf: settlement
-subTypeOf: ruined
+subTypeOf:
 dm_owner: tim
 dm_notes: important
-typeOfAlias: city
+typeOfAlias: ruined city
 ---
 # ~DwCity1~
 >[!info]+ Information  

@@ -6,7 +6,8 @@ tags:
 typeOf: settlement
 dm_notes: important
 dm_owner: tim
-typeOfAlias: city
+typeOfAlias: ruined city
+subtypeOf:
 ---
 # Drankor
 >[!info]+ Information

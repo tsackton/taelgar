@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Orenlas
 typeOf: realm
 ancestry: elven
-subTypeOf: forest
+subTypeOf:
 whereabouts: Istaros Watershed
 pronunciation: o-REN-las
 dm_notes: important
 dm_owner: none
+typeOfAlias: forest realm
 ---
 # Orenlas
 *(o-REN-las)*
