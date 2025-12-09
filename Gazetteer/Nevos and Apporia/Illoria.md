@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags:
   - place
 name: Illoria
-typeOf: region
+typeOf: island
 whereabouts: Nevos Sea
 pronunciation: ih-LOHR-ee-ah
 dm_notes: important

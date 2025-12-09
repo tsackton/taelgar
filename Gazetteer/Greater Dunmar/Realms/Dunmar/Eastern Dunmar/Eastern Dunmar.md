@@ -9,7 +9,7 @@ typeOf: region
 whereabouts: Dunmar
 dm_notes: color
 dm_owner: tim
-typeOfAlias: subregion
+typeOfAlias:
 ---
 # Eastern Dunmar
 >[!info]+ Information
