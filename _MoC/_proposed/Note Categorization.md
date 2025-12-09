@@ -77,12 +77,20 @@ Other frontmatter:
 
 ---
 #### Extraplanar
+_Status: clean_
 
-typeOf categories that relate to extraplanar features
+There are three typeOf categories that relate specifically to extraplanar features. 
 
-- plane (a page about a plane)
-- extraplanar domain (a page about a specific subregion of a page)
-- portal (a page about portal, extraplanar weak point, extraplanar vortex, or other kind of planar connection)
+- **plane**: is used to describe pages about planes as a whole (for example, [[Feywild]] or [[Material Plane]]); these should live in Cosmology, not Gazetteer, but otherwise are treated as locations. 
+- **extraplanar domain**: is used to describe pages about planar regions where the character of the region is magically influenced by its ruler; the most obvious examples of these are fey realms like [[Twilight's Grace]] or [[Amberglow]], though others may exist and have not been invented yet. This would be an appropriate typeOf for a layer of the [[Abyss]], for example, if such things exist in Taeglar. 
+- **planar link**: is used to describe pages about specific [[Planar Connections]], most commonly portals between the Feywild and the Material Plane. 
+
+Other frontmatter:
+- The `plane` typeOf generally does not need or expect other categorization frontmatter; because planar classification is intentionally left unclear, it is better to use whereabouts where multiple classifications are supported (e.g., see [[Feywild]] for an example). 
+- The `extraplanar domain` typeOf often uses both whereabouts and ancestry to specify what type of extraplanar domain it is; fey realms, in particular, should always specify `ancestry: fey`. `typeOfAlias` is also typically expected: traditionally `realm` is used for fey domains and `domain` for [[Shadowfolds]] domains. 
+- The `planar link` typeOf should use `typeOfAlias` to identify whether it is a weak point, a vortex, or a portal; see [[Planar Connections]] for details. 
+
+---
 
 #### Biomes
 
@@ -93,8 +101,6 @@ typeOf categories that relate to biomes / biological terrain
 - plain
 - desert
 
-
----
 
 Unclear
 
