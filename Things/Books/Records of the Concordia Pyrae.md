@@ -1,5 +1,5 @@
 ---
-tags: [status/stub, item/equipment]
+tags: [status/stub, item]
 dm_owner: tim
 dm_notes: important
 ---

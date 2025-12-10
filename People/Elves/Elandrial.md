@@ -25,4 +25,4 @@ dm_notes: important
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% The [[Dunmar Fellowship]] heard about him on January 8th, 1749 %%^End%%
 
-A elf who was active during the [[Drankorian Era]]. Participated in attempts to decipher the [[Enchiridion of the Occulta Ludum]].
+A elf who was active during the [[History of the Drankorian Empire|Drankorian Era]]. Participated in attempts to decipher the [[Enchiridion of the Occulta Ludum]].

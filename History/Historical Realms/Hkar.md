@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, historical, status/incomplete]
+tags: [place, status/incomplete]
 dm_notes: important
-dm_owner: shared,tim
+dm_owner: joint
 typeOf: island
-ancestry: sunken
+typeOfAlias: sunken island
 whereabouts: Endless Ocean
 ---
 # Hkar

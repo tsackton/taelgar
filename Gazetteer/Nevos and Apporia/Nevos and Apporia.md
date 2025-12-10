@@ -66,7 +66,7 @@ _See also: {links to lists, e.g. Places in Region}_
 
 *Canonical Development and Constraints:* The general vibes of Illoria are canonical. There is some significant post-Great War historical development, mostly concerning Dunmar and Apporia, that involves Illoria and needs to be considered in any future developments concerning Illoria. 
 
-*Brainstorming and Potential Canon:* The exact cultural heritage of [[Illoria]] is unclear, as is its history during the [[Drankorian Era]].
+*Brainstorming and Potential Canon:* The exact cultural heritage of [[Illoria]] is unclear, as is its history during the [[History of the Drankorian Empire|Drankorian Era]].
 
 *Needs Development:* Illoria itself lacks anything more than some basic vibes, and the Emerald Bay coast of the Apporian Peninsula, outside the terminus of the [[Old Chardon Canal]], is nearly entirely blank. The southern and eastern coasts of the Apporian Peninsula is plausibly either Illorian or something mysterious, but has not been canonically developed at all. The overall history of this region, at least outside the intentionally blank areas, could use development building on the existing fragments. 
 

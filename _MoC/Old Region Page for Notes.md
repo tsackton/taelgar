@@ -80,7 +80,7 @@
 
   
 
-*Non-Canonical Development:* There are a number of lightly defined regions here (in particular, [[Illoria]] and the [[Yeraad Watershed]] are lightly sketched, at best). The exact cultural heritage of [[Illoria]] is unclear, as is its history during the [[Drankorian Era]].
+*Non-Canonical Development:* There are a number of lightly defined regions here (in particular, [[Illoria]] and the [[Yeraad Watershed]] are lightly sketched, at best). The exact cultural heritage of [[Illoria]] is unclear, as is its history during the [[History of the Drankorian Empire]].
 
   
 

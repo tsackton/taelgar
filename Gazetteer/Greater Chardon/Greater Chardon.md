@@ -56,7 +56,7 @@ Dangerous Wildernesses: No
 ## Major Historical Eras
 _See more: {links}_
 
-This area saw much disruption and loss of life in the [[Blood Years]] and many details of the early history of the region are lost. The scholars of Chardon have preserved better records of the [[Drankorian Era]], and a rough history can be reconstructed. 
+This area saw much disruption and loss of life in the [[Blood Years]] and many details of the early history of the region are lost. The scholars of Chardon have preserved better records of the [[History of the Drankorian Empire|Drankorian Era]], and a rough history can be reconstructed. 
 #### Before Drankor
 _Before DR 597_
 Little is known of the history of this region before the [[Drankorian Western Wars|the coming of Drankor]].  It is widely believed that early migrants from [[Hkar]] lived along the [[~North Chardon Coast~]] in the shadow of [[Alcarinque|Alcarinquë]] before the [[The Downfall|Downfall]] but the cultures and civilizations these migrants formed during and after the Downfall is not recorded. 
@@ -181,7 +181,7 @@ Major features include a major river, large forests to the east against the ~Cen
 
 *Canonical Development and Constraints:* 
 
-*Non-Canonical Development:* There are a number of lightly defined regions here (in particular, [[Illoria]] and the [[Yeraad Watershed]] are lightly sketched, at best). The exact cultural heritage of [[Illoria]] is unclear, as is its history during the [[Drankorian Era]].
+*Non-Canonical Development:* There are a number of lightly defined regions here (in particular, [[Illoria]] and the [[Yeraad Watershed]] are lightly sketched, at best). The exact cultural heritage of [[Illoria]] is unclear, as is its history during the [[History of the Drankorian Empire]].
 
 *Blank Regions*: Illoria itself lacks anything more than some basic vibes, and the Emerald Bay coast of the Apporian Peninsula, outside the terminus of the [[Old Chardon Canal]], is nearly entirely blank. These areas are not intentionally blank and could use development. On the Apporia Peninsula, the interior and western coasts are intentionally left blank and mysterious. The southern and eastern coasts of the Apporian Peninsula is plausibly either Illorian or something mysterious, but has not been canonically developed at all.  The overall history of this region, at least outside the intentionally blank areas, could use development building on the existing fragments. 
 

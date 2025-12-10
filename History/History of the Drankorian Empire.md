@@ -1,38 +1,72 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Drankorian Empire
-aliases: [Drankor]
-timelineDescriptor: Drankorian History
-typeOf: realm
+tags: [background]
 dm_owner: tim
 dm_notes: important
-typeOfAlias: destroyed empire
 ---
-# The Drankorian Empire
+# History of the Drankorian Empire
 
-%% lots of additional history and timelines in DM notes, especially civil war - end  %%
-%% [[Drankorian History - Discussion]] for some background %%
+%%^Campaign:none%%
+This note covers the history of much of the developed area of Taelgar, from the point of view of Drankor. 
 
-The Drankorian Empire was a vast, continent-spanning empire that stretched from the [[Endless Ocean]] to the [[Green Sea]] and ruled over much of humanity during the millenia following [[The Downfall]] of [[Hkar]]. The Drankorian Empire was known for its strength in magic; the battle mages of [[Drankor]] not only protected the Empire from magical and extraplanar threats but also meant that few could stand against the full might of the Empire in battle. A civilization rich in scholarly traditions, [[Drankor]] was filled with learned societies, organizations dedicated to magical lore.
-## History
+Note that I have left dm_notes and dm_owner as I have extensive additional historical notes that need to be collated from the Dunmar Campaign; much of this will likely turn into DM sections, which are absent for now.
+%%^End%%
 
-The Drankorian Empire grew out of the city of Drankor, founded near the mouth of the [[Istaros|Aistanë]] river, largely by refugees fleeing the destruction of Hkar. From this base, the Drankorians quickly came to rule over the fertile plains along the coast, and the Crescara river valley. In Drankorian reckoning, which dates to the founding of Drankor in 4133 by the dwarven count of years, the following major events summarize the history of Drankor (taken from Cavarrio's Chronicles of Drankor.):
+## Beginnings of Empire
+_DR 1 - DR 331_
+
+The city of Drankor was founded in the year 4133 by the Dwarven count of years, which became the first year of the Drankorian reckoning.  The early years of growth and recovery in the shadow of the destroyed forests of [[Alcarinque|Alcarinquë]] are poorly recorded. By the end of this era, the fledging Drankorian Empire has settled and controls the entire [[Istaros Watershed]]. 
 
 - (DR:: 1): The city of [[Drankor]] is founded by refugees from [[Hkar]] fleeing the wars of [[The Downfall]]
 - (DR:: 169): Celadir is proclaimed the first Emperor of [[Drankor]], laying claim to the coastal plains and the rich Isatros river valley.
-- (DR::402): The [[Treaty of Marhavn]] is signed by Emperor Goristo, and establishes the Volta as the northern border of the Drankorian Empire; the Skaer and other descendants of the ancient mariner cultures living in what is now Sembara and Cymea are imperial subjects.
+
+## First Age of Expansion
+_DR 331 to DR 528_
+
+While during the founding era the empire grew from its roots as a powerful city to a great river realm, during much of this time it was settling land left changed and unpopulated by the [[Downfall Wars]], land that had once been occupied largely by the elven realm of [[Alcarinque|Alcarinquë]]. In the DR 330s, Drankor began to spread its influence into lands populated by other human survivors of the Downfall Wars. This era was marked by expansion and increasing diversity in the imperial population, but also by war and tragedy. %% this is left intentionally a little vague the vibe here is extraplanar evil and part of the motivation of the shift towards magical research and planar control in Drankorian society %%
+
+- (DR::402): The [[Treaty of Marhavn]] is signed by Emperor Goristo, and establishes the Volta as the northern border of the Drankorian Empire; the people living in what is now Sembara and Cymea are imperial subjects.
 - (DR:: 525) - (DR_end:: 528): The Demonfire Wars, fought against a severe abyssal incursion. Emperor Ingwelir, a renowned wizard and warrior, died at the gates of Drankor defending the city against a demon lord. 
+
+## The Peace of Drankor
+_DR 528 - 595_
+
+A great age of peace and prosperity across the Empire. 
+
 - (DR:: 528) - (DR_end:: 595): The Peace of Drankor, a time of peace and prosperity in the aftermath of the Demonfire Wars. Ended by the fratricide of Oros the Cruel. Later known as the First Peace or the First Golden Age. 
+
+## The Western Wars
+_DR 595 - DR 647_
+
+During this era, the Empire turns to conquest, and fights a series of wars in the west, conquering the western coast as far as Lake Valandros. 
+
 - (DR:: 597): The Battle of Yaroket ("Yah-roh-keht"), won by Drankor in the Myraeni Gap, begins the Western Wars and the conquest of the western coast by Drankor
 - (DR:: 634): The Battle of Tawir Forest ends the Drankorian conquest of the west on the northern shores of Lake Valandros. 
+
+## The Golden Age
+_DR 647 - DR 965_
+
+A long period of peace, and a time that recalled the early days of Drankor's glory. Many significant institutions (such what would become the [[Great Library]] of Chardon) are founded during this time, and for more than three hundred years the city of Drankor serves as the protector of all against extraplanar incursions and the evils of the world. 
+
 - (DR:: 647): The beginning of the Great Peace, sometimes called the Golden Age of Drankor, a period of 300 years of sustained peace and prosperity across the empire.  
 - (DR:: 688): The Sibyline Archives, which will eventually become the Great Library, is founded in the developing city of Chardon
-- (DR:: 965): The Drankorian Civil War begins with the assassination of Emperor Helea by allies of the [[Omnis Pura]], and is won by Emperor Vestian, associated with [[Omnis Pura]]
-- (DR:: 1001) - (DR_end:: 1013): The Dominion Wars, a series of attempted conquests to the east
-- (DR:: 1059): The destruction of [[Drankor]] by the Plague Mist
 
-## Rulers
+## Civil War
+_DR 965 - DR 997_
+
+Corruption and darkness grew in the shadows during the Golden Age. The age of peace ended abruptly, with the assassination of the Emperor and the beginning of the Drankorian Civil War. 
+
+- (DR:: 965): The Drankorian Civil War begins with the assassination of Emperor Helea by allies of the [[Omnis Pura]], and is won by Emperor Vestian, associated with [[Omnis Pura]]
+
+## Dominion and Downfall
+_DR 997 - DR 1059_
+
+After the victory of [[Omnis Pura]] in the Drankorian Civil War, the Empire gradually grew darker and darker, until in the end the full might of imperial power was turned to raising [[Apollyon]] to godhood, only to see defeat at the last second from a magical plague that spread through the heartlands of the empire destroying nearly everyone it touched. 
+
+- (DR:: 1001) - (DR_end:: 1013): The Dominion Wars, a series of attempted conquests to the east
+- (DR:: 1059): The destruction of [[Drankor]] by the [[First Plague]]. 
+
+# Rulers
 
 The emperors of Drankor, starting with the rule of Celadir, who was the first to proclaim the Drankorian Empire. 
 
@@ -42,8 +76,8 @@ The emperors of Drankor, starting with the rule of Celadir, who was the first to
 | Elenwe (f)                 | Peronar          |                                                                                                             | 231        | 244      |
 | Serime (f)                 | Peronar          |                                                                                                             | 244        | 294      |
 | Mirodor (m)                | Peronar          |                                                                                                             | 294        | 331      |
-| Anates (m)                 | Hkar             | First human emperor; began conquest of Sembaran region                                                      | 331        | 366      |
-| Goristo (m)                | Hkar             | Renowned general and mage, negotiated final settlement of Sembaran Wars                                     | 366        | 433      |
+| Anates (m)                 | Hkar             | First human emperor; began expansion into the Sembaran region                                               | 331        | 366      |
+| Goristo (m)                | Hkar             | Renowned general and mage, negotiated [[Treaty of Marhavn]]                                                 | 366        | 433      |
 | Liasa (f)                  | Hkar             | Died under suspicious circumstances                                                                         | 433        | 439      |
 | Estragon (m)               | Peronar          | Victor of contested succession                                                                              | 439        | 451      |
 | Kylanthe (f)               | Hkar             |                                                                                                             | 451        | 499      |
@@ -88,22 +122,3 @@ generally names are either Greek or Elvish, depending on whether they are of Per
 there is a long golden age of peace and prosperity from ~628 - 965 or so, basically ending with Helea's reign and the events Caulaus sort of remembers, that has 13 total emperors ending with Helea
 
 %%
-## Culture
-
-As Drankor grew into a major power, then great empire, a few aspects of its culture stood out, and have remained associated with Drankor even after its fall. 
-
-- Magic was absolutely central to Drankorian culture. The Drankorians didn’t draw strong divisions among types of magic: to them, it is all just the manipulation of extraplanar energy. Whether that is the Void via a Divine intermediary, the Plane of Magic, or the Feywild through a Archfey intermediary is of only secondary importance.
-
-- Drankor, founded in the aftermath of perhaps the greatest supernatural catastrophe humankind had ever experienced, was deeply, deeply concerned with learning as much as possible about the secrets of the multiverse, and protecting its people from supernatural danger. While the strength of Drankorian magic meant that few, if any, extant human cultures could present an existential threat to the empire (they lost wars, but pretty much only when overextended on the frontier), supernatural dangers -- dragons, giants, undead, fiends, and similar creatures -- could still present real danger. 
-
-- Drankor was a culture of communities -- societies, secret and not, orders, guilds, and clubs, all these kinds of factions and affiliations were very common across all of Drankorian society. 
-
-### Drankorian Secret Societies
-
-Little has come to modern times about the exact nature of Drankorian secret societies, but three at least have been noted by students and travelers. 
-
-- [[Omnis Pura]]: The [[Omnis Pura]] were heavily involved in the Drankorian Civil War, seen by later historians as a revolt against the increasing power and influence of diverse human cultures, including those who had left Hkar long before the Downfall, in the empire. The power behind the throne in the last hundred years of the Empire. Apollyon, the last emperor of Drankor, was strongly associated with [[Omnis Pura]]. 
-- [[Occulta Ludum]]: The Occulta Ludum were associated with the development of magic and especially with practical inventions of harnessing magical power. While they rejected the extremist claims of the [[Omnis Pura]] in the later years of the Empire, there is little evidence that has come down to current day that they actively opposed [[Omnis Pura]].
-- [[Fides Lucaris]]: The Fides Lucaris were associated with the Emperor Helea and the losing side of the Drankorian civil war. Little is known about what they did in the last few hundred years of the Empire; the only records that have readily been accessible to historians are those of executions and exile when members of the Fides Lucaris were caught. They seem to have been a cross-species alliance, involving at least humans and elves. 
-
-%%SECRET[1]%%
