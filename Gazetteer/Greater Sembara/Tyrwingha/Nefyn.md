@@ -8,7 +8,6 @@ typeOfAlias: village
 pronunciation: NEV-yin
 dm_notes: none
 dm_owner: mike
-subtypeOf:
 ---
 # Nefyn
 *(NEV-yin)*

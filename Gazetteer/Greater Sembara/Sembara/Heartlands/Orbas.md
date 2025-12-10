@@ -8,7 +8,6 @@ typeOfAlias: village
 destroyed: 1720-01-10
 dm_notes: color
 dm_owner: none
-subtypeOf:
 ---
 # Orbas
 >[!info]+ Information  

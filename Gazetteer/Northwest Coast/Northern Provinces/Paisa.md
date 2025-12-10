@@ -10,7 +10,6 @@ whereabouts:
     location: Northern Provinces
 dm_owner: none
 dm_notes: none
-subtypeOf:
 ---
 # Paisa
 >[!info]+ Information  

@@ -10,7 +10,7 @@ aliases:
   - Ozabal Swamp
 dm_owner: none
 dm_notes: color
-subtypeOf: swamp
+typeOfAlias: swamp
 ---
 # Ozabal
 >[!info]+ Information  

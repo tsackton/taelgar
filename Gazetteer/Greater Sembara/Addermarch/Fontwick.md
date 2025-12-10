@@ -8,7 +8,6 @@ typeOfAlias: village
 dm_owner: none
 dm_notes: none
 whereabouts: Stonewolds
-subtypeOf:
 ---
 # Fontwick
 >[!info]+ Information  

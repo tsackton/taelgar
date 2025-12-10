@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [item]
 displayDefaults: {defArt: ""}
 typeOf: book
-subtypeOf: lost
+subTypeOf: lost
 dm_owner: none
 dm_notes: none
 ---

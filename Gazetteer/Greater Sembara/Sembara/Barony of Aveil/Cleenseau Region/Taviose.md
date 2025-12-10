@@ -11,7 +11,6 @@ population: 30
 pronunciation: Ta-vi-ose
 dm_notes: color
 dm_owner: mike
-subtypeOf:
 ---
 # Taviose
 *(Ta-vi-ose)*

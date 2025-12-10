@@ -9,7 +9,6 @@ population: 498
 pronunciation: Pay-dun
 dm_notes: important
 dm_owner: mike
-subtypeOf:
 ---
 # Peydon
 *(Pay-dun)*

@@ -10,7 +10,6 @@ ancestry:
 dm_owner: none
 dm_notes: none
 typeOfAlias: mythical city
-subtypeOf:
 ---
 # Pu'aatar
 >[!info]+ Information  

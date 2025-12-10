@@ -12,7 +12,6 @@ pronunciation: oor-KAH-bee
 dm_notes: none
 dm_owner: tim
 typeOfAlias: village
-subtypeOf:
 ---
 # Urkabi
 *(oor-KAH-bee)*

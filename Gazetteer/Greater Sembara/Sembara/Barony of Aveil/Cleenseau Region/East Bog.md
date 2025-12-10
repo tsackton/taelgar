@@ -8,7 +8,6 @@ typeOfAlias: bog
 whereabouts: Barony of Aveil
 dm_notes: none
 dm_owner: none
-subtypeOf: swamp
 ---
 # The East Bog
 >[!info]+ Information  

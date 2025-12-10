@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [item/equipment]
 displayDefaults: {defArt: ""}
 typeOf: circlet
-subtypeOf: magic
+subTypeOf: magic
 name: Circlet of Telepathy
 whereabouts: Viepuck
 image: circlet-of-telepathy.png

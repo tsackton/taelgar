@@ -10,7 +10,7 @@ whereabouts: Tyrwingha
 pronunciation: CLOW-in
 dm_notes: color
 dm_owner: mike
-subtypeOf:
+subTypeOf:
 ---
 # Clawyn
 *(CLOW-in)*

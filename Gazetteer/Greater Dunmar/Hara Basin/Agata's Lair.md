@@ -11,7 +11,7 @@ typeOfAlias: lair
 whereabouts: Garamjala Desert
 dm_notes: important
 dm_owner: tim
-subtypeOf: house
+subTypeOf: house
 ---
 # Agata's Lair
 >[!info]+ Information

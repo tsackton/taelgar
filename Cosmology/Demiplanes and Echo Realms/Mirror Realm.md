@@ -6,8 +6,7 @@ typeOf: plane
 whereabouts:
   - type: home
     location: Echo Realms
-    wHome: A <subtypeOf> <typeOf> in <home:1>
-subtypeOf:
+    wHome: A <typeOf> in <home:1>
 dm_owner: none
 dm_notes: none
 typeOfAlias: rumored plane

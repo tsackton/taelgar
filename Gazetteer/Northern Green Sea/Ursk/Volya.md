@@ -8,7 +8,6 @@ whereabouts: Ursk
 pronunciation: VOH-leeah
 dm_owner: none
 dm_notes: color
-subtypeOf:
 ---
 # Volya
 *(VOH-leeah)*

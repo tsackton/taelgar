@@ -4,7 +4,6 @@ tags:
   - place
 name: Roscombe
 typeOf: settlement
-subtypeOf:
 whereabouts: Carlinshire
 dm_notes: important
 dm_owner: tim

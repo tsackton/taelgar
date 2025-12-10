@@ -7,7 +7,6 @@ whereabouts: Refounded Alliance of Aurbez
 dm_notes: none
 dm_owner: mike
 typeOfAlias: village
-subtypeOf:
 ---
 # Laicon
 >[!info]+ Information  

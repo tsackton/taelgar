@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [item]
 displayDefaults: {defArt: ""}
 typeOf: tattoo
-subtypeOf: magic
+subTypeOf: magic
 ancestry: Tollender
 dm_owner: none
 dm_notes: none

@@ -10,7 +10,6 @@ pronunciation: es-ko-ROH-lah
 dm_owner: none
 dm_notes: color
 typeOfAlias: village
-subtypeOf:
 ---
 # Eskorola
 *(es-ko-ROH-lah)*

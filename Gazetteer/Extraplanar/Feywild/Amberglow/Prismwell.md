@@ -9,7 +9,7 @@ typeOf: infrastructure
 ancestry: fey
 dm_owner: tim
 dm_notes: important
-subtypeOf: magical
+subTypeOf: magical
 typeOfAlias: well
 ---
 # Prismwell

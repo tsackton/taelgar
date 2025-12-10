@@ -4,7 +4,6 @@ tags:
   - place
 name: Lonely Watchtower
 typeOf: building
-subtypeOf:
 whereabouts:
   - type: primary
     location: ~North Voltara Hills~

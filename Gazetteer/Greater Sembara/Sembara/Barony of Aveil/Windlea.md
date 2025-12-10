@@ -8,7 +8,6 @@ whereabouts: Barony of Aveil
 population: 174
 dm_notes: none
 dm_owner: mike
-subtypeOf:
 ---
 # Windlea
 >[!info]+ Information  

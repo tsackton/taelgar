@@ -9,7 +9,7 @@ whereabouts: Western Green Sea
 pronunciation: LAH-tah-zah-roh
 dm_notes: color
 dm_owner: none
-subtypeOf: swamp
+typeOfAlias: swamp
 ---
 # Latazaro
 *(LAH-tah-zah-roh)*

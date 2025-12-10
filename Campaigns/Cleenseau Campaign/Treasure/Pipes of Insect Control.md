@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [item/equipment]
 displayDefaults: {defArt: ""}
 typeOf: pipes
-subtypeOf: magic
+subTypeOf: magic
 name: Pipes of Insect Control
 whereabouts: Viepuck
 image: pipes-of-insect-control.png

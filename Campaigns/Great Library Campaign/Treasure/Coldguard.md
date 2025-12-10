@@ -4,7 +4,7 @@ tags: [item]
 name: Coldguard
 typeOf: shield
 ancestry: dwarven
-subtypeOf: magical
+subTypeOf: magical
 campaignInfo:
 - {campaign: GL, type: found, person: Brelith, date: 1747-06-01}
 dm_owner: none

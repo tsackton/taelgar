@@ -10,7 +10,7 @@ typeOfAlias: tidal estuary
 whereabouts: Western Gulf
 dm_owner: none
 dm_notes: none
-subtypeOf: bay
+subTypeOf: bay
 ---
 # The Tywynn Bay
 >[!info]+ Information  

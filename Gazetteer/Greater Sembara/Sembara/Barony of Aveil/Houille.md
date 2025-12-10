@@ -8,7 +8,6 @@ typeOfAlias: village
 dm_notes: none
 dm_owner: none
 pronunciation: oo-yee
-subtypeOf:
 ---
 # Houille
 *(oo-yee)*

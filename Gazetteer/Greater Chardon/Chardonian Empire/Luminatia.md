@@ -8,7 +8,6 @@ typeOfAlias: village
 whereabouts: Chardonian Empire
 dm_owner: none
 dm_notes: color
-subtypeOf:
 ---
 # Luminatia
 >[!info]+ Information  

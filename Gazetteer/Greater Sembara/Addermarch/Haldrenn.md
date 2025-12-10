@@ -9,7 +9,6 @@ dm_owner: none
 dm_notes: none
 population: 72
 typeOfAlias: village
-subtypeOf:
 ---
 # Haldrenn
 >[!info]+ Information  

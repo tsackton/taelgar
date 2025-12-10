@@ -8,7 +8,7 @@ whereabouts:
   - type: home
     start: 980
     location: Chardon
-founded: 939
+created: 939
 timelineDescriptor: University of Chardon
 dm_owner: tim
 dm_notes: important
