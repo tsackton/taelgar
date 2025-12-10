@@ -9,7 +9,6 @@ typeOf: settlement
 typeOfAlias: village
 dm_notes: important
 dm_owner: tim
-subtypeOf:
 ---
 # The Ko'zula Village
 >[!info]+ Information  

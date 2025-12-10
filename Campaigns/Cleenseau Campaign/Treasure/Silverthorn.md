@@ -5,7 +5,7 @@ typeOf: weapon
 typeOfAlias: rapier
 rarity: unique
 ancestry: halfling
-subtypeOf: magic
+subTypeOf: magic
 whereabouts: Celyn
 image: silverthorn.png
 pcOwner: Celyn

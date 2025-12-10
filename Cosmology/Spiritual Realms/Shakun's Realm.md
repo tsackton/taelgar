@@ -10,7 +10,6 @@ whereabouts:
   - type: home
     location: Divine Realms
     wHome: A <ancestry> <subtypeof><typeOf> in the <home:1>
-subtypeOf:
 typeOf: plane
 ancestry: Dunmari
 dm_notes: none

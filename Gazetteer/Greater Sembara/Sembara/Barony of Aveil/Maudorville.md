@@ -9,7 +9,6 @@ typeOfAlias: village
 population: 448
 dm_notes: none
 dm_owner: none
-subtypeOf:
 ---
 # Maudorville
 >[!info]+ Information  

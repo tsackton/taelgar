@@ -12,7 +12,6 @@ whereabouts: Yuvanti Mountains
 dm_owner: none
 dm_notes: none
 typeOfAlias: village
-subtypeOf:
 ---
 # Narazara
 >[!info]+ Information  

@@ -10,7 +10,6 @@ pronunciation: Val-le
 typeOf: settlement
 dm_owner: mike
 dm_notes: important
-subtypeOf:
 ---
 # Valit
 *(Val-le)*

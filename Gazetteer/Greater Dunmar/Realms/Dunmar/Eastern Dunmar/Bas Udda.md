@@ -10,7 +10,6 @@ typeOfAlias: village
 whereabouts: Eastern Dunmar
 dm_notes: color
 dm_owner: tim
-subtypeOf:
 ---
 # Bas Udda
 >[!info]+ Information  

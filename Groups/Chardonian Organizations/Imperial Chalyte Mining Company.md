@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [organization]
 typeOf: company
 created: 1749-07-09
-subtypeOf: imperial charter
+subTypeOf: imperial charter
 ancestry: Chardonian
 partOf: Chardonian Empire
 dm_owner: none

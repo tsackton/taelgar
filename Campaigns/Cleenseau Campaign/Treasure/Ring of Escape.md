@@ -3,11 +3,10 @@ headerVersion: 2023.11.25
 tags: [item/equipment]
 displayDefaults: {defArt: ""}
 typeOf: ring
-subtypeOf: magic
+subTypeOf: magic
 name: Ring of Escape
 image: gareths-ring.jpg
 pcOwner: Viepuck
-image: gareths-ring.jpg
 ---
 # Ring of Escape
 >[!info]+ Information  

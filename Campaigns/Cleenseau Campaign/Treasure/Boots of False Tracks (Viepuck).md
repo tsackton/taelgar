@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [item/equipment]
 displayDefaults: {defArt: ""}
 typeOf: boots
-subtypeOf: magic
+subTypeOf: magic
 name: Boots of False Tracks
 whereabouts: Viepuck
 image: boots-of-false-tracks-viepuck.png

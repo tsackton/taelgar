@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [item]
 name: Thunderbrand
 typeOf: warhammer
-subtypeOf: magical
+subTypeOf: magical
 ancestry: dwarven
 campaignInfo:
 - {campaign: GL, type: found, person: Adrik, date: 1747-06-01}

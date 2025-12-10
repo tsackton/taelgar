@@ -9,7 +9,7 @@ typeOf: settlement
 typeOfAlias: fortified camp
 subTypeOf:
 ancestry: orc
-founded: 1719-08
+created: 1719-08
 destroyed: 1719-12-05
 dm_notes: color
 dm_owner: none

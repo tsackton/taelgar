@@ -11,7 +11,7 @@ typeOfAlias: chasm
 whereabouts: Zimkova
 dm_notes: none
 dm_owner: none
-subtypeOf: gorge
+subTypeOf: gorge
 ---
 # The Great Chasm
 >[!info]+ Information  

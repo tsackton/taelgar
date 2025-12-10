@@ -8,7 +8,6 @@ destroyed: 1720-01-07
 whereabouts: Barony of Aveil
 dm_notes: none
 dm_owner: none
-subtypeOf:
 ---
 # Eftly
 >[!info]+ Information  

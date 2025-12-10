@@ -8,7 +8,6 @@ whereabouts: Carlinshire
 dm_owner: tim
 dm_notes: color
 typeOfAlias: village
-subtypeOf:
 ---
 # Brantor
 >[!info]+ Information  

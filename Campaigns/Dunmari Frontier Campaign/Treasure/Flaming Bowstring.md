@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [item/equipment]
 typeOf: weapon
 ancestry: Dunmari
-subtypeOf: magical
+subTypeOf: magical
 rarity: uncommon
 displayDefaults: {defArt: ""}
 whereabouts: Wellby

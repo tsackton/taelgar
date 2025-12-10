@@ -44,7 +44,7 @@ Currently, person, place, item, and organization require typeOfs; event can have
 
 Place typeOf categories are organized into several broad groups. These are not tagged anywhere, but are meant to be small enough that it is feasible to write simple dataview queries or base filters to pull up all of a category. In the future this may be revised (e.g., an additional layer such as typeCategory might be added to frontmatter, potentially auto-populated). 
 
-How ancestry, typeofAlias,and subtypeOf might be used in association with typeOfs is discussed below. 
+How ancestry, typeOfAlias,and subTypeOf might be used in association with typeOfs is discussed below. 
 #### People
 _Status: clean_
 

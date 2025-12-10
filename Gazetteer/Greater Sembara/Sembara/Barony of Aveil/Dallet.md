@@ -11,7 +11,6 @@ pronunciation: da-LEH
 population: 308
 dm_notes: color
 dm_owner: mike
-subtypeOf:
 ---
 # Dallet
 *(da-LEH)*

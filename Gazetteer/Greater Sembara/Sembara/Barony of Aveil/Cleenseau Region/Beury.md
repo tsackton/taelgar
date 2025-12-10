@@ -10,7 +10,6 @@ population: 492
 pronunciation: BUH-ree
 dm_notes: none
 dm_owner: mike
-subtypeOf:
 ---
 # Beury
 *(BUH-ree)*

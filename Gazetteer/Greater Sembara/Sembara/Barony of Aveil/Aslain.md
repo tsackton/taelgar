@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: settlement
 typeOfAlias: town
-founded: 1652
+created: 1652
 whereabouts: Barony of Aveil
 population: 1187
 pronunciation: Ahz-lane

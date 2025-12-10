@@ -8,7 +8,6 @@ whereabouts: Mawar Confederacy
 dm_owner: none
 dm_notes: none
 typeOfAlias: village
-subtypeOf:
 ---
 # Aibard
 >[!info]+ Information  

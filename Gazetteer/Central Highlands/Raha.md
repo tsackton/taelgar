@@ -9,7 +9,6 @@ ancestry: Deno'qai
 whereabouts: Highveil Forest
 dm_notes: color
 dm_owner: tim
-subtypeOf:
 ---
 # Raha
 >[!info]+ Information  

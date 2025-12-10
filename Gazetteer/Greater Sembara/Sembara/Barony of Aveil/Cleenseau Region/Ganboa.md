@@ -11,7 +11,6 @@ typeOfAlias: village
 population: 62
 dm_notes: none
 dm_owner: none
-subtypeOf:
 ---
 # Ganboa
 *(Gan-bo-a)*

@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [item]
 displayDefaults: {defArt: ""}
 typeOf: weapon
-subtypeOf: magic
+subTypeOf: magic
 ancestry: Urskan
 ddbLink: https://www.dndbeyond.com/magic-items/5400-weapon-1
 dm_owner: none

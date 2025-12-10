@@ -9,7 +9,6 @@ typeOf: settlement
 typeOfAlias: village
 dm_notes: none
 dm_owner: none
-subtypeOf:
 ---
 # Essenmer
 *(Essen-MER)*

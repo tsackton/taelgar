@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags:
   - place
-subtypeOf:
 typeOf: settlement
 pronunciation: RAH-veen-yak
 whereabouts: Bramshire

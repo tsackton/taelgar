@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [item/equipment]
 displayDefaults: {defArt: ""}
 typeOf: cloak
-subtypeOf: magic
+subTypeOf: magic
 whereabouts: Celyn
 image: ranger-cloak-of-concealment.png
 pcOwner: Celyn

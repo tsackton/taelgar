@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [item]
 typeOf: material
 typeOfAlias: mineral
-subtypeOf: magic
+subTypeOf: magic
 dm_owner: tim
 dm_notes: important
 ---

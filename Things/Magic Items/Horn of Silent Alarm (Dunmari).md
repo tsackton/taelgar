@@ -4,7 +4,7 @@ tags: [item]
 displayDefaults: {defArt: ""}
 ddbLink: https://www.dndbeyond.com/magic-items/horn-of-silent-alarm
 typeOf: horn
-subtypeOf: magic
+subTypeOf: magic
 ancestry: Dunmari
 rarity: common
 dm_owner: none
