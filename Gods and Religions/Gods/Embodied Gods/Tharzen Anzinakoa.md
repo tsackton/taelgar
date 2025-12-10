@@ -6,7 +6,7 @@ dm_notes: none
 
 # Tharzen Anzinakoa
 
-The Tharzen Anzinakoa, often shortened to “the Tharzen,” are the four Embodied Gods of the seasons who created the [[Lizardfolk]]. Counted among the [[Embodied Gods|Firstborn of the Elder Folk]], they were shaped by the [[Divine Presence]] alongside [[Aldanor]] and [[Elmerca]], [[Entamba]], the [[Bahrazel]], and the [[First Ones]]. Lizardfolk stories describe them as the Eldest of Elders and the bridge between their people and the Divine.
+The Tharzen Anzinakoa, often shortened to “the Tharzen,” are the four Embodied Gods of the seasons who created the [[Lizardfolk]]. Counted among the [[Embodied Gods|Firstborn of the Elder Folk]], they were shaped by the [[Divine Presence]]. Lizardfolk stories describe them as the Eldest of Elders and the bridge between their people and the Divine.
 
 In lizardfolk telling, the Tharzen walked the newborn marshes and braided water with soil, raising reeds and fish where their feet fell. Rains and floodwaters are said to follow their wanderings, and the swamps and riverlands that became lizardfolk homelands are remembered as places where the Tharzen lingered. They gather the spirits of the dead, keeping them safe until new souls are woven and born again, completing the cycle of birth, death, and rebirth that shapes lizardfolk views of life and justice.
 
