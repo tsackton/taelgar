@@ -1,13 +1,14 @@
 ---
-tags: [deity, status/stub, status/check/ai]
-affiliations: [elves]
+headerVersion: 2023.11.25
+tags: [deity, religion/elven, status/stub, status/check/ai]
 dm_owner: joint
 dm_notes: none
 ---
-
 # Aldanor
+>[!info]+ Summary  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
-Aldanor, the Living Tree, is one of the two Firstborn creator deities of the [[Elves]], alongside [[Elmerca]], the Wild Star. In elven lore the pair are counted among the [[Embodied Gods]], through whom the [[Divine Presence]] gave rise to the Elder race of elves; Aldanor embodies rooted life, growth, and endurance, the body and breath of the people.
+Aldanor, the Living Tree, is one of the two deities of the [[Elves]], alongside [[Elmerca]], the Wild Star. In elven lore the pair are counted among the [[Embodied Gods]], through whom the [[Divine Presence]] gave rise to the Elder race of elves; Aldanor embodies rooted life, growth, and endurance, the body and breath of the people.
 
 Elven traditions describe Aldanor as the source of elven vitality and longevity. When an elf is born they have only a tenuous connection to Aldanor, but in the Age of Beginning they are said to be “entwined in the great Tree of Life,” their bodies strengthened as Aldanor’s lifeforce flows into them. This connection underlies the [[Elven Cycle of Generations|cycle of generations]] and the elven belief that, so long as Aldanor endures, elves can choose when to let go of the mortal world rather than simply aging and dying.
 

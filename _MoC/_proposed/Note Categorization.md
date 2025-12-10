@@ -34,18 +34,21 @@ Pages that do not have any of these tags are listed here [[Missing Tags]].
 
 See: [[Descriptive Tags - Discussion]] for discussion and proposals around tags. 
 
+Descriptive tags are used to determine the page type, which is important for header generation. The page types that have meaningful header automation are `person`, `place`, `organization`, `event`, and `item`. See [[Display Control]] for more. 
+
 ## TypeOf
 ***Last update: 12/09/2025***
 
 Certain descriptive tags require a secondary classification using typeOf (or the synonym species). The details of how typeOf is used depend on the descriptive tag, as outlined below. 
 
 Currently, person, place, item, and organization require typeOfs; event can have them but usually doesn't. Currently, only place has a controlled vocabulary for typeOf. 
+
 ### Place TypeOfs
 
 Place typeOf categories are organized into several broad groups. These are not tagged anywhere, but are meant to be small enough that it is feasible to write simple dataview queries or base filters to pull up all of a category. In the future this may be revised (e.g., an additional layer such as typeCategory might be added to frontmatter, potentially auto-populated). 
 
 How ancestry, typeOfAlias,and subTypeOf might be used in association with typeOfs is discussed below. 
-#### People
+#### Communities
 _Status: clean_
 
 There are three place typeOf categories that generally relate to places where communities exist on a landscape. 

@@ -1,21 +1,21 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {wOrigin: "Home area: <origin>", ruledBy: "<affiliationtitle:t>: <name> <(of )primary>" }
+displayDefaults: {wOrigin: "Home area: <origin>", ruledBy: "<affiliationtitle:t>: <name> <(of )primary>", wHome: "", wCurrent: "Current location: <current:3Frq>"}
 tags: [item/vehicle, testcase]
 ancestry: halfling
 typeOf: vehicle
 typeOfAlias: boat
 whereabouts: 
-- {type: home, end: 0001, location: Eastern Green Sea, startFilter: "" }
+- {type: home, end: 0001, location: Eastern Green Sea}
 - {type: away, start: 1748-09-30, end: 1748-10-11, location: sailing to Wahacha, startFilter: "2" }
-- {type: away, start: 1748-10-12, end: 1748-10-14, alias: main port of Wacahca, location: Wahacha, linkText: moored in, startFilter: "2" }
+- {type: away, start: 1748-10-12, end: 1748-10-14, alias: main port of Wacahca, location: Wahacha, linkText: moored in, format: "<name:q>", startFilter: "2" }
 dm_owner: none
 dm_notes: color
 ---
 # The Wave Dancer
->[!info]+ Information
-> ([[Halflings|halfling]] boat)
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> ([[Halflings|halfling]] boat)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A halfling ship plying the trade routes of the eastern Green Sea, regularly visiting [[Praznitsky]], [[Wahacha]], [[Quanyi]], and [[Medju]].  
