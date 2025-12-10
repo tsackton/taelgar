@@ -1,8 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/stub
+tags: [place, status/incomplete]
 name: Tafolwern
 typeOf: settlement
 whereabouts: Tyrwingha
@@ -21,7 +19,7 @@ The capital city of Tyrwingha.
 
 %% 
 
-Left as stub. 
+Tagged status/incomplete as it seems like it probably could use at least a few more sentences, but perhaps best to wait until a campaign goes there for new invention. 
 
 Very little has been invented or come up, even in my game with lots of Tyrwinghan backstory
 Some notes from various emails/Discord conversations with Kiya re [[Celyn]] that need to be incorporated:
@@ -37,7 +35,7 @@ Some notes from various emails/Discord conversations with Kiya re [[Celyn]] that
 
 Tafolwern culturally dominates the urban scene - like Paris in France, it is "the" city. I haven't really made up Tafolwern but there are definitely echoes of Ethlenn's court and plenty of fairy influence on the urban design
 
-AI generated notes below
+AI generated notes below - probably not useful
 
 Tafolwern is the pre‑eminent city of [[Tyrwingha]] and its capital, a place of broad parks, river walks, and towers whose ornament borrows the flowing lines of Sylvan script. The city’s culture radiates outward across the region: fashions, songs, and phrases begun here soon colour the speech of far towns.
 
@@ -46,6 +44,4 @@ Tafolwern sits astride a great bend in the river, stitched together by stone bri
 Theatres and salons flourish; itinerant companies make their reputations in Tafolwern before touring the provinces. Music and poetry mingle courtly tradition with woodland motifs long associated with the Wyrdling and Ethlenn’s court.
 
 As capital, Tafolwern houses the principal courts and ministerial offices of Tyrwingha. Temples and groves are distributed through the wards rather than concentrated in a single precinct, reflecting a balance between urban life and old pacts with the green places.
-
-Population ballpark used in notes: c. 35,000. Treat as campaign‑scale guidance rather than fixed census.
 %%
