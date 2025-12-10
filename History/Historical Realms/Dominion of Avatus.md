@@ -1,9 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - status/check/mike
-  - place
-  - historical
+tags: [status/check/mike, place]
 created: 1199
 destroyed: 1429
 typeOf: realm

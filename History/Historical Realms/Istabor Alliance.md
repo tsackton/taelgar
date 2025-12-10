@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/incomplete, historical]
+tags: [place, status/incomplete]
 name: Istabor Alliance
 typeOf: realm
-dm_owner: shared
+dm_owner: joint
 dm_notes: none
 ---
 # The Istabor Alliance

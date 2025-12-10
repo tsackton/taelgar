@@ -22,7 +22,7 @@ dm_notes: important
 
 Nestled in the [[Mostreve Hills]] southwest of [[Tyrwingha]], east of the [[Duchy of Maseau]], south of the [[Borderlands|Sembaran Borderlands]], and north of the haunted [[Darkwood]] lies the ancient hill kingdom of Addermarch. This is a land of rolling hills, swift rivers, and dense forests; a rugged land of independent folk fiercely proud of their long history and ancient traditions. 
 
-Addermarch was settled long ago, before the [[Drankorian Empire|Drankorians]] came, by a people sharing a cultural and linguistic tradition with [[Tyrwingha]]. During the [[Drankorian Era]], it was a backwater province of the [[Drankorian Empire]], never densely settled, but supported and garrisoned as a ward against the dangers of the [[Darkwood]]. 
+Addermarch was settled long ago, before the [[Drankorian Empire|Drankorians]] came, by a people sharing a cultural and linguistic tradition with [[Tyrwingha]]. During the [[History of the Drankorian Empire|Drankorian Era]], it was a backwater province of the [[Drankorian Empire]], never densely settled, but supported and garrisoned as a ward against the dangers of the [[Darkwood]]. 
 
 %% some notes on this point; none of these are necessarily canonical:
 - Original settlers may have included a substantial number of exiles from Tyrwingha, or people who rejected Ethlenn's bargain

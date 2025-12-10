@@ -21,7 +21,7 @@ The University supports faculties in rhetoric, natural philosophy, history, magi
 ![[university-of-tollen-v1.png]]
 
 %%
-Not canon: Many of the buildings now occupied by the University were originally constructed as libraries and collegium during the [[Drankorian Era]], but the University itself has only been in continuous operation since the growth of Tollen as a mercantile power after the fall of Drankor. 
+Not canon: Many of the buildings now occupied by the University were originally constructed as libraries and collegium during the [[History of the Drankorian Empire|Drankorian Era]], but the University itself has only been in continuous operation since the growth of Tollen as a mercantile power after the fall of Drankor. 
 
 Another idea: much of the university was built on the ruins of the old eastern river fort
 %%
