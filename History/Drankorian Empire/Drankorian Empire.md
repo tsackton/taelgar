@@ -1,10 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+tags: [place]
 name: Drankorian Empire
-aliases:
-  - Drankor
+aliases: [Drankor]
 timelineDescriptor: Drankorian History
 typeOf: realm
 dm_owner: tim

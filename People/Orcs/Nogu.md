@@ -6,12 +6,13 @@ born: 1662
 species: orc
 ancestry:
 gender: female
-affiliations: [{org: People of the Rainbow, type: primary}]
-excludePublish: ["clee"]
+affiliations:
+  - { org: People of the Rainbow, type: primary}
+excludePublish: [clee]
 name: Nogu
 whereabouts:
-- {type: home, location: Xurkhaz }
-- {type: away, location: Mirror of Soul Trapping, start: 1680, end: 1748-12-04 } # start is approximate
+  - {type: home, location: Xurkhaz}
+  - {type: away, location: Mirror of Soul Trapping, start: 1680, end: 1748-12-04}
 dm_owner: tim
 dm_notes: color
 ---

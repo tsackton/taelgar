@@ -1,9 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-displayDefaults:
-  defArt: ""
+tags: [place]
+displayDefaults: {defArt: ""}
 campaignInfo: []
 typeOf: neighborhood
 whereabouts: Tollen
