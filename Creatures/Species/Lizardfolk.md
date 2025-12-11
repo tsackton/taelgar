@@ -52,56 +52,72 @@ Lizardfolk communities are almost invariably found near water, typically in natu
 
 Some of the largest lizardfolk communities can be found in the [[Ozabal]] and [[Latazaro]] swamps near the [[Western Gulf]]; the [[~Yeraad Lizardfolk Swamp~]] south of [[Chardon]]; the salt marshes of the [[Mawakel Peninsula]]; and the rivers and wetlands of [[Portalia]] and [[Apporia]]. However, many small lizardfolk communities are scattered widely throughout the world, with villages as diverse [[Ganboa]], the tiny community on the [[Enst]] downriver from [[Cleenseau]]; the substantial lizardfolk towns on the outskirts of [[Adderfell]] and [[Darba]]; and the scattered villages of the [[Aursen Marshes]], just upriver from [[Aursenbourg]]. 
 
----
 ## Cultural Traits
 
 %% Vibes seem reasonably clear?
 
 - Ancestor oriented, elder ruled: lizardfolk settlements tend to gerontocracy, e.g some kind of council of elders would likely be very common. Elders/ancestors control a lot, though exactly how much is "ancestors" vs "elders" is not always clear. E.g., do elders make decisions about who can reproduce and when, or is it ancestors? Each have different implications. 
-- Ancestor/elder orientation is likely also cultural, not just political, with maybe vaguely Confucianism vibes, though this is not really about ancestor worship per se
-- Big part of vibes is intentional balance with ecosystems: shaping ecosystems to support high carrying capacities, but also shaping reproduction to stay within carrying capacity naturally. This also has an implication of "in tune with nature" type vibes, but I think not necessarily in the context of pure conservation, or at least not always or usually in the context of conservation; this is more about knowing nature extensively so you can manipulate it, or something like that.
-- Religion has long been very weakly defined; the "seasons" are a bit complicated because seasons vary from place to place. More than any other of the Firstborn species, lizardfolk might benefit a bit from regional "sects"? E.g. perhaps the lizardfolk of Sembara see the Tharzen Anzinakoa as seasonal but it wouldn't make sense for the lizardfolk of Darba to worship a spring or autumn god when there are really only two seasons, the hot dry season and the wet rainy season. I do like the idea that the number 4 is important in lizardfolk culture, and the general vibe of 4 as being seen as kind of fractal / cyclical, and the Tharzen Anzinakoa being seen as a kind of cycle of gods in some vague way
+- Ancestor/elder orientation is likely also cultural, not just political, with maybe vaguely Confucianism vibes, though this is not really about ancestor worship per se; strong familial bonds though would be common. 
+- Big part of vibes is intentional balance with ecosystems: shaping ecosystems to support high carrying capacities, but also shaping reproduction to stay within carrying capacity naturally. This also has an implication of "in tune with nature" type vibes, but I think not necessarily in the context of pure conservation, or at least not always or usually in the context of conservation; this is more about knowing nature extensively so you can manipulate it, or something like that. This also plays into kind of "hidden communities" vibes - lizardfolk are not building huge cities. 
+- There is a vibe of a kind of special connection to homeland in older texts that might be worth connecting here. 
+- Religion has long been very weakly defined; the "seasons" are a bit complicated because seasons vary from place to place. More than any other of the Firstborn species, lizardfolk might benefit a bit from regional "sects"? E.g. perhaps the lizardfolk of Sembara see the Tharzen Anzinakoa as seasonal but it wouldn't make sense for the lizardfolk of Darba to worship a spring or autumn god when there are really only two seasons, the hot dry season and the wet rainy season. I do like the idea that the number 4 is important in lizardfolk culture, and the general vibe of 4 as being seen as kind of fractal / cyclical, and the Tharzen Anzinakoa being seen as a kind of cycle of gods in some vague way. See more in [[Tharzen Anzinakoa]]
 - Longstanding connection to prophecy and divination that should be maintained as well
+- Generally, a vibe of cycles, cyclical understanding, ancestral wisdom
+- There is an older vibe of healing/pacifism that I'm not sure makes sense, and probably should be tossed. 
 %%
-
-
-
-Their ethos is cyclical and patient: balance the taking with the giving, and keep the waters living. Elders arbitrate disputes and births so food and space match the season; many lizardfolk serve as healers, fish‑wardens, or marsh‑guides among their neighbors. They favor fairness over fury, and even when war comes, they treat killing as a sorrow, not a habit. Relations with humans and halflings are commonly warm; elves’ aloofness and dwarven rigidity puzzle them, and kenku’s wildness tests their patience, yet they strive for empathy with all living things.
-
-Most venerate the [[Tharzen Anzinakoa]]—the four Firstborn of the seasons: [[Hazkunde]] (spring), [[Bero]] (summer), [[Udazkena]] (autumn), and [[Negu]] (winter). Prayers and songs mark the seasonal round; dreams and omens from ancestors guide timing and taboo. The spirits of the dead are gathered by the Tharzen and return as new life when the waters rise again.
-
-%% Old Text (Temperament): Lizardfolk feel a deep connection to the natural world, the elements and cycles of life, and the seasons. While they are not pacifists, they will rarely provoke fights or lose control of their tempers in a violent way. They believe very strongly in the circular nature of life, and feel that unjust deeds will be met in turn, giving them a strong sense of fairness and honor. They also believe in the preciousness of life, despite their long life spans, and see hurt, pain, and suffering as necessary evils at best. Many Lizardfolk find their calling as healers in the lands of other races. Most Lizardfolk also see themselves as protectors of their homelands; while this may necessitate violence, Lizardfolk generally strive not to become comfortable with a life of killing and destruction. %%
-%% Old Text (Relations): Lizardfolk tend towards patience and empathy, which gives them a friendly outlook on most other races. They have a special affinity for humans and halflings, and Lizardfolk who leave their homes will often be found traveling in the company of Halflings or living in Human cities. Lizardfolk find the aloofness of the Elves, the tradition-bound rigid society of the Dwarves, and the chaotic nature of the Kenku hard to understand, but they strive to empathize with all living things. %%
-%% Old Text (Tharzen): Through their land, Lizardfolk also maintain connections to the spirits of their ancestors, who are protected and guided by the Firstborn deities, the Tharzen Anzinakoa, the Eldest of Elders. They venerate with prayers and rituals four aspects of the Tharzen Anzinakoa, one for each season: Negu (winter), Udazkena (autumn), Bero (summer), and Hazkunde (spring). They see the Tharzen Anzinakoa as the bridge between themselves and the Divine, as guardian spirits, as protectors of their homelands. They believe the Tharzen Anzinakoa gather to them the spirits of Lizardfolk after they die, and create new souls from these ancestral spirits whenever a new Lizardfolk is born, and thus the cycle of birth and death is completed. %%
-
-%% Old Text (Kin and Home): Lizardfolk have a strong bond with their close family, and if anything an even stronger bond with the swamps, forests, and other areas they call home. They live in small communities hidden in swamps and wet forests, usually led by a elder matriarch. They believe their ancestors’ spirits echo in the living things of their home, and even Lizardfolk who have traveled far from home will make pilgrimages to return and reconnect. Lizardfolk will also return to their homeland as they approach death; Lizardfolk who die far from home often become restless spirits until they can be given a proper burial with their ancestors. Lizardfolk see themselves as the caretakers of their land, and live in a way that preserves the wild beauty they love. They are resourceful in how they nourish themselves from the land, leaving little trace of their presence beyond their small villages and dwellings. %%
-
 
 ## Historical Perspective
 
-After the [[The Downfall|Downfall]] reshaped coasts and rivers, many ancient wetlands shrank or shifted. The Ozabal and Latazaro are remembered as remnants of a greater marshland that once covered much of the lowlands. Through the Blood Years and later wars, lizardfolk villages tended to endure by keeping to the water‑roads, trading quietly with nearby towns, and tending their fisheries while armies marched on drier ground.
+Lizardfolk communities are typically led by elders, with a strong connection to their ancestors. This perspective informs lizardfolk views of history: they often have deep ties to the local history of the land they live on, and many lizardfolk settlements claim to have lived in the same place since time immemorial. Indeed, many current lizardfolk communities are the remnants of vast ancient wetlands from before the [[The Downfall|Downfall]] reshaped coasts and rivers, and many ancient wetlands shrank or shifted.
+
+%% a bit thin but probably covers the vibes of deep ties to the history of the land; there is probably a little more to extract here from [[Land Holding in Sembara]] %%
 
 
 %%^Campaign:None%%
 ## Details for DMs
 
+### Open Questions and Further Work
+- Lizardfolk lifecycle and lizardfolk cultural traits / religion are largely based on loose vibes at the moment. These could use some solid decisions and minor invention to clarify any loose ends. 
+- Other open questions probably exist but are minor compared to the major gaps above; more will likely arise when someone plays a lizardfolk PC in a long campaign, but that has not happened yet (outside Sasha with Samso, but the Great Library campaign was very much not roleplay focused when it was running frequently).
+- Subspecies: “salt” lizardfolk appear in coastal villages (e.g., Eskorola). Are there consistent physiological or cultural differences, is “salt” a local label specifically for Mawar, are their other "salt lizardfolk" communities?
+- Afterlife mechanics: lots of variation and uncertainty about role of direct rebirth from ancestral spirits and generally how this connects to the  model of gifted soulstuff returning to divine realms. 
 ### Where You’ll Find Them
-- Sembaran lowlands: Villages throughout the [[Ozabal]] swamps (Enst–Wistel confluence). Lizardfolk herbalists trade in nearby markets; cf. [[People/Lizardfolk/Gentza.md|Gentza]] (Cleenseau market), her teacher [[People/Lizardfolk/Unai.md|Unai]].
-- Western Gulf and coast: Salt‑marsh communities between Tyrwingha and Western Cymea such as [[Latazaro]]; salt subspecies appear in coastal villages like [[People/Lizardfolk/Itzal.md|Eskorola]] near Hamri; roles include sea‑watchers and salvors; cf. [[People/PCs/Mawar/Trok.md|Trok]].
-- Upper Istaros and Aurbez: Marsh hamlets along the [[Aursen Marshes]]; elders sometimes represent the marshfolk to the [[Refounded Alliance of Aurbez]] (cf. [[People/Lizardfolk/Aritza.md|Aritza]]).
-- Far South jungles: The lizardfolk realm of [[Orekatu]] with settlements like [[Bedez]] near the [[Azta Lekua|Footprint of the Gods]]; shamans and prophets feature prominently (cf. [[People/Lizardfolk/Elazar.md|Elazar]], [[People/PCs/Dunmar Fellowship/Guests/Izzarak.md|Izzarak]]).
+- Lizardfolk tend to be found in their own communities, often near human settlements, and invariably associated with water, usually with wetlands. 
+- Lone lizardfolk travelers are plausible almost anywhere, but typically would need a reason for traveling. 
+- Lizardfolk almost never settle embedded within human communities. A lone lizardfolk, a small group, or a lizardfolk enclave living in the city of another species needs a special explanation. A lone lizardfolk living alone in the wilderness would be less surprising and could have any number of reasons. 
+- Invented regions with high numbers of lizardfolk include:
+	- Greater Sembara: Major community in the [[Ozabal]] swamps (Enst–Wistel confluence) and the [[Latazaro]] (east of [[Tyrwingha]]), and scattered, potentially densely scattered, communities along the [[Enst]] (cf. [[Ganboa]]) and almost certainly many other places.  
+	- Western Coast: Salt‑marsh communities in coastal villages like [[People/Lizardfolk/Itzal.md|Eskorola]] on the [[Mawakel Peninsula]]; fairly dense settlement in [[Apporia]] as well. 
+	- Upper Istaros and Aurbez: Marsh hamlets along the [[Aursen Marshes]]
+	- Far South jungles: The lizardfolk realm of [[Orekatu]] with settlements like [[Bedez]] near the [[Azta Lekua|Footprint of the Gods]].
 
 ### Religion and Metaphysics
-- Tharzen Anzinakoa (Firstborn/Embodied Gods) in four seasonal faces: [[Hazkunde]] (spring), [[Bero]] (summer), [[Udazkena]] (autumn), [[Negu]] (winter). Seasonal rites pace planting, fishing, nesting, and travel; dreams and omens inform village decisions.
-- Ancestor guidance is practical: auguries for timing, warnings of sickness, approvals for marriages or departures; reflected mechanically in “Omens of the Ancestors” (Augury) on [[Creatures/Mechanics/Playing a Lizardfolk.md]].
-- Epics like ''[[The Endless Currents]]'' (see [[Cosmology/Planar Concepts/Extraplanar Weak Point.md]]) depict the Tharzen weaving connective threads across the world; some communities keep “life‑trees” (cf. ohana note under [[People/PCs/Dunmar Fellowship/Kenzo.md|Kenzo]]), believed to root in the Tharzen’s realm.
-- Afterlife: spirits are gathered by the Tharzen and reborn with the rains; elders often return home to die so rebirth remains within the community waters.
+- There is a LOT that is undeveloped about lizardfolk religion and metaphysics. The best current brainstorming is in [[Tharzen Anzinakoa]]. 
+- Asking the ancestors for guidance is very common among lizardfolk, and is reflected mechanically in the “Omens of the Ancestors” trait. 
+- Creation story: some detail was invented for the Kenzo solo, specifically the idea that the [[Azta Lekua]] is the footprint of the gods, a relic from when the Firstborn walked the earth, their footsteps bringing rain and rivers and maybe wetlands to the world. 
+- Some details of various kinds of lizardfolk-associated ki are in [[Kenzo]] notes. See below for relevant section.
+
+### Lizardfolk Ki from Orekatu
+*these notes might reflect general lizardfolk metaphysics / vibes, or might reflect something specific to the jungle lizardfolk of Orekatu*
+
+The lizardfolk call ki arima, and at its most basic level, consider it the concentrated energy of the [[Plane of Souls]], which any living being on Taelgar can, in principle, learn to channel. However, the lizardfolk spirit guides and prophets speak of many other forms of ki, which are the echoes and resonances of the higher spiritual planes, and which are often difficult or impossible to channel without an appropriate focus. While the lizardfolk think of this ki as “spiritual harmonics”, these echoes of other planes in the fabric of Taelgar has other names in other places. Chalyte, for example, is a stone that gathers the resonances of the [[Plane of Magic]]. 
+
+Kenzo learned about the following plants and the kinds of ki they can channel: 
+
+Amezza: Amezza is the name for a common jungle tree, generally short and shrubby, that grows in openings and clearings. The name, roughly translated, means “dreamberry”; the aromatic berries are dried and traded as a spice. When the tree grows in a place rich in connections to the [[Dreamworld]], the berries collect amezza, also known as dream ki. But care must be taken, because Amezza can also absorb the energy of nightmares and not everything in the Dreamworld is friendly. 
+
+Hutsu: Hutsu in the name for a flowering vine that is common across the tropical regions of Taelgar, which grows up the trunks of large trees. When it grows near places of peaceful death, the leaves occasionally turn white, giving it its translated name in Common, “whiteleaf vine”. When hutsu vines grow in places with a strong connection to the [[Land of the Dead]], the white leaves collect hutsu, also known as spirit ki.
+
+Ohana: Ohana is the name for the largest of the jungle trees, a species that is typically dominant among the emergent trees that grow above the rainforest canopy. These trees grow in places rich in connection to the outer planes of primal power, particularly [[Arborea]] but also any other spiritual plane that is connected to primal forces of nature, growth, abundance, wildness. When they grow in such places, they will often grow small branches that drop off naturally, the bark of which is infused with ohana, also known as life ki or lushness ki. The lizardfolk believe that Ohana trees have a special connection to Zerua, the home of the Tharzen Anzinakoa. %%name Zerua is not canonical and could be changed %%
+
+Urtaro: Urtaro is the name for a lilypad that grows in still water and swamps, frequently cultivated by lizardfolk communities for its beauty and also as food (the tubers are highly nutritious and are made into a starch used to make a variety of things). When grown in places of great peace and beauty, especially places cultivated and tended, urtaro flowers sometimes develop a connection to planes of order and beauty. The flowers become infused with urtaro, also known as solid ki or permanence ki, thought of as the energy of solid things, the bones, the mountains, the earth, the permanent structures on which life can grow and thrive. 
 
 ### Ecology, Craft, and Trade
-- Settlement engineering: fish weirs and ponds; raised boardwalks and stilted huts; nesting rafts; seasonal camps on higher hummocks for flood months.
-- Crafts: reed boats and sails, woven traps, clay gourds for ritual water, medicinal herb lore; tattoos and inks in coastal “salt” communities (cf. Trok’s practice) sometimes tied to seasonal rites.
-- Trade: fish, herbs, reeds, ferrying and guiding services; barter with nearby humans for iron tools, dye, salt, and textiles. Some villages maintain long‑standing market rights in adjacent towns.
+- Lizardfolk are exceptionally good at settlement engineering: they make fish weirs and ponds; raised boardwalks and stilted huts; nesting rafts; and generally coax extreme productivity from the lands they settle, usually without obvious, intensive agriculture (no fields of wheat or anything). 
+- In many games, lizardfolk have been associated with herbalism, medicinal herb lore, and general plant lore; in Mawar, [[Trok]] is a tattoo warrior, with tattoos associated with the salt lizardfolk, but unclear if this is general. 
+- Lizardfolk often trade with human communities (cf [[Ganboa]]). 
 
+---
 ### Polity and Custom
 - Village‑first ethos under elder councils (often matriarch‑led). Elders mediate disputes, regulate births to balance carrying capacity, and sanction rites of departure/return.
 - Burial/return: those dying far from home are brought back when possible; failure to do so risks restless spirits until ancestral rites are completed.
@@ -116,32 +132,15 @@ After the [[The Downfall|Downfall]] reshaped coasts and rivers, many ancient wet
 - Ethics: balance over excess; fairness over fury; reverence for river and reed; killing is sorrowful work, not a habit.
 - Mannerisms: test water with fingertips; carry reed tokens or water gourds; mark agreements with flowing‑water blessings.
 
-### Conflicts and Open Questions
-- Subspecies: “salt” lizardfolk appear in coastal villages (e.g., Eskorola). Are there consistent physiological/cultural differences (tattoo rites, saline diet) or is “salt” a local label? Canon not fixed.
-- Adulthood and lifespan: sources describe adulthood in “late teens” versus “early 20s”; align mechanical and lore statements in species/playing pages.
-- Afterlife mechanics: some texts imply direct rebirth from ancestral spirits; others the Elder‑Folk model of gifted soulstuff returning to divine realms. Decide if rebirth is metaphor, miracle, or norm.
-- Law and treaties: several marsh communities trade under customary rights, but extent of formal charters (e.g., market days, ferry monopolies) is not fully documented outside Ozabal/Aursen examples.
-- Language: degree of dialect diversity across riverine vs. salt‑marsh vs. jungle communities is unspecified; consider whether Common vs. Eastros usage varies by region.
-- Orekatu geography: settlements (Bedez), the role of the Azta Lekua, and the scope of the realm need mapping and political detail; interaction with extraplanar weak points is fertile ground.
-- Seasonal rites and magic: tattoos/inks, herbcraft, and ohana‑trees are attested locally; clarify which are regional traditions vs. near‑universal practices.
+---
+### Key Discord Chats and Emails
+- [[2023-10-30]]: General brainstorming
+- [[2024-01-05]], [[Land Holding in Sembara]], [[Taxes in Sembara]]: Sembaran context, land holding, taxes
+- [[2024-02-12]]: Family structure
+- [[2025-02-01]], [[Green Sea Brainstorming]]: Distribution across Taelgar
+- [[2025-10-17]]: Relation to human villages
+- [[Email - More Green Sea]]; [[Email - Brief Thoughts on Elder Races]]; [[Email - A Few Thoughts on Taelgar Races]]
+- [[GL - Session 62 - DM Notes]] - *not canon* but some thinking about lizardfolk/Dreamworld and other contexts
 
-## Metaphysics
-
-Lizardfolk are Elder Folk created by the [[Tharzen Anzinakoa]]—Embodied Gods of the seasons. As with other Elder Folk, they are gifted soulstuff from their creators. Community rites focus on dreams, omens, and ancestor guidance; the dead are gathered to the Tharzen and return as new lives in the cycle. Lizardfolk epics such as ''[[The Endless Currents]]'' speak of the Tharzen weaving threads through the Material Plane to bind the world and prevent cosmic sundering.
-
-## Creation Story
-
-In lizardfolk telling, the Tharzen walked the newborn marshes and braided water with soil, raising reeds and fish where their feet fell. They set elders to keep balance, taught the first songs, and promised that those who pass beneath the waters will return when the rains rise again.
-
-### Sources
-- Culture and mechanics: Creatures/Mechanics/Playing a Lizardfolk.md; Creatures/Playable Species of Taelgar.md
-- Embodied gods: Gods and Religions/Gods/Embodied Gods/Embodied Gods.md
-- Settlements: Gazetteer/Greater Sembara/Ozabal.md; Gazetteer/Greater Sembara/Latazaro.md; Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Aursen Marshes.md
-- Far South and epics: Cosmology/Planar Concepts/Extraplanar Weak Point.md (The Endless Currents); People/Lizardfolk/Elazar.md; People/PCs/Dunmar Fellowship/Guests/Izzarak.md
-- Coastal/salt examples: People/Lizardfolk/Itzal.md; People/PCs/Mawar/Trok.md; People/Lizardfolk/Amaya.md
-- Market ties: People/Lizardfolk/Gentza.md; People/Lizardfolk/Unai.md
-- General background: Creatures/Creatures of Taelgar.md; Creatures/Metaphysics of Creatures.md; Background/Languages.md; Worldbuilding/Chats and Emails/GDrive - History of Taelgar.md
 %%^End%%
 
-
-%%

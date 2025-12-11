@@ -76,7 +76,6 @@ In these ancient tales of years, halflings tell of wandering even when the world
 
 
 %%^Campaign:None%%
-%% Mike note: I found  the Details for DMS below kinda AI-slop-ish. I did a bit of pulling out some stuff into the two sections below, and then left a "warning non-canon" beyond %%
 ## Details for DMs
 ### Open Questions and Further Work
 * The religious experience is only lightly developed and no canon exists on the halfling creation story or metaphysics. Do the [[First Ones]] have a Divine Realm? How does this relate to the idea of a halfling ancestral consciousness?
