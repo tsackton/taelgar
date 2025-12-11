@@ -1,15 +1,17 @@
 ---
-tags: [status/stub, deity, status/check/ai]
+tags: [deity]
 dm_owner: none
 dm_notes: none
 ---
-
 # The Endless Chaos
 
-The Endless Chaos is a rumored Embodied God associated with the [[Three Despairs]] and the unmaking of ordered creation. Elven histories and theological treatises record stories that, during the [[Riving]], as [[Divine Presence|Arha]] and [[Divine Presence|Malik]] shaped the [[Embodied Gods]] and sundered the planes, the Three Despairs used stolen divine power to create their own children. Out of the union of [[Umidzka]] and [[G'Zab]] came [[Thark]], the God of War Without End; the Endless Chaos is said to be the offspring of Umidzka and [[Jinnik]].
+The Endless Chaos is a rumored [[Embodied Gods|Embodied God]] associated with the [[Three Despairs]] and the unmaking of ordered creation, said to spring from the union of [[Umidzka]] and [[Jinnik]]. Though elven loremasters speak of a  being that delights in unbinding forms, dissolving borders between planes, and returning creation to swirling formlessness, no reliable accounts firmly establish whether such a god truly exists or whether the idea simply personifies the destructive upheavals wrought by the [[Downfall Wars]]. 
 
-Unlike Thark, whose existence is widely acknowledged because of the orcs, the Endless Chaos remains a matter of rumor and fearful speculation. Some elven sources speak of a being that delights in unbinding forms, dissolving borders between planes, and returning creation to swirling formlessness, but even these accounts admit scholars do not know whether such a god truly exists or whether the idea personifies the destructive impulses of the Void Mind. No organized cults of the Endless Chaos are known in the northwestern lands of Taelgar.
+%% general note
+Of the various children of the three despairs, Thark and the Mad One clearly exist and have metaphysics associated with them. Ghesyn seems plausible, provides good fodder for undead cults and the like, and has a plausible planar home in some Hades-in-Greek-myth or other 'plane of despair' type thing. 
 
-Because the Three Despairs are also blamed in some texts for unleashing curses such as undeath and lycanthropy, later writers sometimes conflate those stories with the figure of the Endless Chaos. Careful theologians tend to treat the Endless Chaos as a cautionary myth about the dangers of unfettered dissolution rather than a clearly attested deity.
+However the Endless Chaos is complicated, as they are clearly not associated with Limbo and it isn't obvious there is design space for another 'chaos-like' plane outside of Limbo and (kind of) the Abyss. 
 
-%% AI note: Expanded from stub using [[Background/Player's Guide]], [[Gods and Religions/Gods/Embodied Gods/Embodied Gods]], [[Worldbuilding/Chats and Emails/GDrive - History of Taelgar]], and [[Worldbuilding/Chats and Emails/GDrive - The Divine Order]]. The existence and nature of the Endless Chaos are explicitly presented in these sources as rumor rather than established fact, and this note preserves that ambiguity. %%
+So for now I have leaned into the "might not exist" vibe. 
+
+%%
