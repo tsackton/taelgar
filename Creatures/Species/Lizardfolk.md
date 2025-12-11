@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [species, status/check/ai, status/wip, status/incomplete]
+tags: [species, status/incomplete, status/check/mike]
 name: Lizardfolk
 aliases: [lizardfolk]
 dm_owner: joint
@@ -8,7 +8,7 @@ dm_notes: none
 ---
 # Lizardfolk
 
-%% status/incomplete -> Lifecycle needs some decisions to finalize %%
+%% status/incomplete -> Lifecycle needs some decisions to finalize, same with cultural traits %%
 
 >[!quote] Lizardfolk saying, author unknown
 *At misty daybreak*
@@ -91,6 +91,7 @@ Lizardfolk communities are typically led by elders, with a strong connection to 
 	- Upper Istaros and Aurbez: Marsh hamlets along the [[Aursen Marshes]]
 	- Far South jungles: The lizardfolk realm of [[Orekatu]] with settlements like [[Bedez]] near the [[Azta Lekua|Footprint of the Gods]].
 
+
 ### Religion and Metaphysics
 - There is a LOT that is undeveloped about lizardfolk religion and metaphysics. The best current brainstorming is in [[Tharzen Anzinakoa]]. 
 - Asking the ancestors for guidance is very common among lizardfolk, and is reflected mechanically in the “Omens of the Ancestors” trait. 
@@ -112,27 +113,12 @@ Ohana: Ohana is the name for the largest of the jungle trees, a species that is 
 
 Urtaro: Urtaro is the name for a lilypad that grows in still water and swamps, frequently cultivated by lizardfolk communities for its beauty and also as food (the tubers are highly nutritious and are made into a starch used to make a variety of things). When grown in places of great peace and beauty, especially places cultivated and tended, urtaro flowers sometimes develop a connection to planes of order and beauty. The flowers become infused with urtaro, also known as solid ki or permanence ki, thought of as the energy of solid things, the bones, the mountains, the earth, the permanent structures on which life can grow and thrive. 
 
-### Ecology, Craft, and Trade
+### Ecology, Craft, Settlement, and Trade
 - Lizardfolk are exceptionally good at settlement engineering: they make fish weirs and ponds; raised boardwalks and stilted huts; nesting rafts; and generally coax extreme productivity from the lands they settle, usually without obvious, intensive agriculture (no fields of wheat or anything). 
 - In many games, lizardfolk have been associated with herbalism, medicinal herb lore, and general plant lore; in Mawar, [[Trok]] is a tattoo warrior, with tattoos associated with the salt lizardfolk, but unclear if this is general. 
 - Lizardfolk often trade with human communities (cf [[Ganboa]]). 
+- Lizardfolk villages and communities are typically led by an elder or council of elders, who often look to ancestors for advice; in some fashion, ancestors and/or elders control settlement size, keeping lizardfolk communities from growing beyond the carrying capacity of the land. 
 
----
-### Polity and Custom
-- Village‑first ethos under elder councils (often matriarch‑led). Elders mediate disputes, regulate births to balance carrying capacity, and sanction rites of departure/return.
-- Burial/return: those dying far from home are brought back when possible; failure to do so risks restless spirits until ancestral rites are completed.
-
-### Using Lizardfolk in Play
-- Marsh hooks: fishing rights disputes, flood‑season evacuations, smuggling through reed‑channels, rescue/salvage under storm omens, curing a marsh‑fever with an elder’s herb lore.
-- Spirit and season: an omen warns of a bad spawning cycle; a Tharzen rite must be performed at a ley‑tangled grove; a planar “thin place” (e.g., [[Azta Lekua|Footprint of the Gods]]) turns unstable.
-- Diplomatic threads: a marsh elder seeks redress for a broken market promise; ferry rights at a new bridge; arranging safe passage for refugees through the wetlands.
-
-### Roleplaying Lizardfolk
-- Voice and bearing: calm, practical, season‑metaphor speech; village‑first pragmatism; consider pauses as if “listening” for omens.
-- Ethics: balance over excess; fairness over fury; reverence for river and reed; killing is sorrowful work, not a habit.
-- Mannerisms: test water with fingertips; carry reed tokens or water gourds; mark agreements with flowing‑water blessings.
-
----
 ### Key Discord Chats and Emails
 - [[2023-10-30]]: General brainstorming
 - [[2024-01-05]], [[Land Holding in Sembara]], [[Taxes in Sembara]]: Sembaran context, land holding, taxes
