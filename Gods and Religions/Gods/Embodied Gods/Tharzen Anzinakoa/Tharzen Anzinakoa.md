@@ -1,17 +1,30 @@
 ---
-tags: [status/stub, deity, status/check/ai]
+headerVersion: 2023.11.25
+tags: [deity, status/check/mike, religion/lizardfolk]
 dm_owner: none
 dm_notes: none
+pronunciation: tar-SEN an-see-NA-ko-ah
 ---
-
 # Tharzen Anzinakoa
+*(tar-SEN an-see-NA-ko-ah)*
 
-The Tharzen Anzinakoa, often shortened to “the Tharzen,” are the four Embodied Gods of the seasons who created the [[Lizardfolk]]. Counted among the [[Embodied Gods|Firstborn of the Elder Folk]], they were shaped by the [[Divine Presence]]. Lizardfolk stories describe them as the Eldest of Elders and the bridge between their people and the Divine.
+The Tharzen Anzinakoa are [[Embodied Gods|Embodied Divinities]], known as the Firstborn divine creators of the [[Lizardfolk|lizardfolk]]. In lizardfolk lore, they were given life during the [[Riving]] by the [[Divine Presence]], and as they walked the earth in those days outside time, their footsteps shaped the course of rivers. Rains and floodwaters are said to follow their wanderings, and the swamps and riverlands that became lizardfolk homelands are the places where they lingered. 
 
-In lizardfolk telling, the Tharzen walked the newborn marshes and braided water with soil, raising reeds and fish where their feet fell. Rains and floodwaters are said to follow their wanderings, and the swamps and riverlands that became lizardfolk homelands are remembered as places where the Tharzen lingered. They gather the spirits of the dead, keeping them safe until new souls are woven and born again, completing the cycle of birth, death, and rebirth that shapes lizardfolk views of life and justice.
+Most lizardfolk venerate the Tharzen Anzinakoa both collectively, as guardians, guides, and protectors of the great cycles of life, and through their four faces: [[Negu]], [[Hazkunde]], [[Bero]], and [[Udazkena]]. Unusually for [[Embodied Gods]], different aspects of each face are often emphasized in different lizardfolk communities, though the Tharzen as a whole are always viewed as integral to the cycles of birth, death, and rebirth that shapes lizardfolk theology. 
 
-Most communities venerate the Tharzen both collectively and through their four named faces: [[Hazkunde]] (spring), [[Bero]] (summer), [[Udazkena]] (autumn), and [[Negu]] (winter). Seasonal rites pace planting, fishing, nesting, and travel; prayers and songs marking the turning of the year call on the Tharzen and their seasonal aspects, and elders interpret dreams and omens as messages carried by them. To outsiders, lizardfolk devotion can look diffuse, but within lizardfolk cultures the Tharzen are ever-present in ritual, proverb, and daily decision-making.
+The name Tharzen Anzinakoa is translated from the lizardfolk to Common as the Fourbound of the Endless Wheel, or of the Great Cycle. In lizardfolk usage, they are often refered to as the Tharzen, the four-bound-as-one. 
 
-Lizardfolk epics such as ''[[The Endless Currents]]'' ascribe to the Tharzen a role in the wider multiverse, describing them as weaving threads of spirit and planar energy through the [[Material Plane]] to keep the world from sundering. Scholars debate how literally to take these stories, but they echo broader myths of the Embodied Gods reshaping Taelgar during the [[Riving]].
 
-%% AI note: Expanded from stub using [[Background/Player's Guide]], [[Creatures/Species/Lizardfolk]], [[Gods and Religions/Gods/Embodied Gods/Embodied Gods]], [[Worldbuilding/Old Documents/Lizardfolk - Old Documents]], [[Cosmology/Planar Concepts/Extraplanar Weak Point]], [[Worldbuilding/Chats and Emails/GDrive - History of Taelgar]], and [[Creatures/Playable Species of Taelgar]]. Mythic language about their footsteps, rains, and cosmic weaving summarizes existing lore from these sources. %%
+%%^Campaign:none%%
+
+The basic idea is to emphasize the ties to cycles and the maybe-vaguely-Buddhist lizardfolk idea of everything being a great circle that repeats and repeats. This is meant to connect to:
+- Lizardfolk vibes of prophecy and the dreamworld
+- The semi-canonical idea that somehow lizardfolk souls are reborn, or at least soulstuff is gifted from ancestors to newborns, and this serves to limit fertility and population growth because the ancestors have to gift you a soul
+- The basic kind of natural vibes of lizardfolk religion (tied to land)
+
+At the same time, the connection to the land / ecosystem, to me, makes the idea that lizardfolk actually have kind of different strands of worship appealing. You might have:
+- In the ancient swamps that are now Sembara, with a kind of traditional northern European climate, you have a strong sense of seasons - winter/spring/summer/fall connected to ancestors/dormancy; birth/planting; adulthood/parenthood/growing; elders/wisdom/harvest. 
+- In Oretaku, with a tropical jungle vibe, you might not have a strong connection to seasonality, but instead be more tied to say the vibe of a plant itself, something like dormancy/growing/fruiting/seed or something, or maybe just a strict sense of the cycle of lizardfolk life, ancestors/birth/adulthood/elder. 
+The details are not as important as the vibe of lizardfolk cultures potentially having different spins on the Tharzen.
+
+%%^End%%
