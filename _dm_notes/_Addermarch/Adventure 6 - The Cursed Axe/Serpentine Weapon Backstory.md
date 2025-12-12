@@ -90,7 +90,7 @@ Crucially, **this part is _not_ the Patron’s doing**:
 
 From there your existing chronology proceeds:
 
-- Dolf pockets the dagger → curse → kills Piri (1715-03-09) → Wulfram → Bartoz → PCs → Trueflame.
+- Dolf pockets the dagger → curse → kills Piri (1715-03-09) → Wulfram → Bartoz → PCs → [[Trueflame]].
 
 **In-world, no one except the Patron and that antiquarian ever knows** that this was one of a handful of “weapons not recovered” flagged in a 300-year-old ledger. To Torvaine, it looks like:
 

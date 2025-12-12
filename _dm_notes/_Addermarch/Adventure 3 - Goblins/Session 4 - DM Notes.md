@@ -15,10 +15,10 @@ Day 12 (Thursday):
 - Temple of the Sibyl: Isolde
 - [[The Sibyl]]
 - Owen Tavish: speaking about destroying the dagger
-- Tavish suggests Trueflame, an alchemical substance that helps make flame burn exceptionally hot 
+- Tavish suggests [[Trueflame]], an alchemical substance that helps make flame burn exceptionally hot 
 - Thaumaturgy games, play a game of chess, sell holy symbol
-- Ask Caradoc about Trueflame, needs mercury ash, which is very expensive. Asks for 150 gold to pay for the ingredients. Wants the recipe for Glowing Poison from the Jagged Edge goblins, will pay 210 gold for it. 
-	- Downpayment: 50 gold given for Trueflame
+- Ask Caradoc about [[Trueflame]], needs mercury ash, which is very expensive. Asks for 150 gold to pay for the ingredients. Wants the recipe for Glowing Poison from the Jagged Edge goblins, will pay 210 gold for it. 
+	- Downpayment: 50 gold given for [[Trueflame]]
 - Return to town
 
 Day 13 (Friday):

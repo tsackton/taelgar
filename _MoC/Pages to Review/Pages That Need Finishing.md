@@ -52,8 +52,8 @@ sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
 
 ```dataview
 TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
-from #status/stub and "Gazetteer"
-sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
+from #status/stub and "Gazetteer" and !#status/check/ai
+sort join(split(file.path, "/", 2),"/"), length(file.inlinks) DESC
 ```
 
 
@@ -87,7 +87,7 @@ sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
 ```dataview
 TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
 from #status/stub and "People"
-sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
+sort join(split(file.path, "/", 2),"/"), length(file.inlinks) DESC
 ```
 
 ## Primary Sources
@@ -102,6 +102,6 @@ sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
 
 ```dataview
 TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
-from #status/stub and "Things"
+from #status/stub and "Things" and !#status/check/ai
 sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
 ```
