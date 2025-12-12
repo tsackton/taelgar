@@ -1,10 +1,7 @@
 ---
 headerVersion: 2023.11.25
+tags: [place, status/check/name, status/stub, status/check/ai]
 typeOf: waterway
-tags:
-  - place
-  - status/check/name
-  - status/stub
 whereabouts:
   - type: primary
     location: Erblata Plains
@@ -18,3 +15,7 @@ typeOfAlias: river
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+The Wild River is a tributary of the [[Snake River]], cutting across the plains northeast of [[Voltara]] before joining the Snake.
+
+%% AI note: Expanded from existing vault sources: [[Chasa-Nahadi Watershed]]. %%
