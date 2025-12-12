@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place, status/stub, status/check/ai]
 name: Refounded Alliance of Aurbez
 typeOf: realm
 whereabouts: Upper Istaros
@@ -11,6 +11,31 @@ dm_notes: none
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+The Refounded Alliance of Aurbez is the realm of the [[Aurbez Plateau]] and the high valleys around it, a borderland between the [[Sentinel Range|Sentinels]] and the [[Plaguelands]].
+
+## Land and People
+
+The heart of the Alliance is the Aurbez Plateau itself: a high country of rushing brooks fed by snowmelt, scattered stands of quaking aspens and highland pines, and broad upland meadows. Small farms and clusters of villages cling to reliable water; goat and sheep herders range the rougher slopes; and miners and prospectors work marginal claims in the hills.
+
+The largest settlements lie near the marshy upper [[Aursen]], before the river spills off the plateau in waterfalls and begins its descent toward the lowlands.
+
+## After the Great War
+
+Local tradition holds that the plateau was among the first safer refuges after the fall of [[Isingue]], and many families trace their roots to those who fled west into the high country in the years after the war.
+
+## Travel and Trade
+
+The [[Maseau - Dunmar Road]] runs through the wider Aurbez borderlands, and traffic along it grows year by year. Even so, much of the plateau remains remote, and travel away from the road is often slow and uncertain.
+
+## See also
+
+- [[Aurbez Plateau]]
+- [[Aurbez and the Andonne]]
+- [[Aursen]]
+- [[Isingue]]
+- [[Maseau - Dunmar Road]]
+- [[Plaguelands]]
 
 
 %% history notes - expanded

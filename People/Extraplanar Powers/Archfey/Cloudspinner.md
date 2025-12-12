@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
+tags: [person, status/cleanup/metadata, status/gameupdate]
 campaignInfo: []
 name: Cloudspinner
 species: fey

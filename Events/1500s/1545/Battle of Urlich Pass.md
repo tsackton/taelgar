@@ -16,3 +16,9 @@ dm_owner: tim
 > Part of The [[Great War]]
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+
+%%
+
+The Battle of Urlich Pass, canonically now, was a large battle between Sembara + allies, including elves, and Cha'mutte's forces, mostly hobgoblins, with the HS party vs Cha'mutte happening within sight but not immediately in the pass itself. Vahaiya, elf now in [[Orenlas]], canonically fought in the Battle of Urlich Pass.
+
+%%
