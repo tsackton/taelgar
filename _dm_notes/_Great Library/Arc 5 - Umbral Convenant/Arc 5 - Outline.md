@@ -11,7 +11,7 @@ Next session will be back in Voltara, downtime/research, level ups. Learn that t
 - The dwarven kingdom below Enderra (needs a name), on the Apporian Peninsula, was completed destroyed.
 - A series of border forts were constructed by Chardon, but these are largely abandoned now, and the peninsula has been quiet for many years
 - That said, few dare venture into the mountainous interior of the Apporian Peninsula, once the heartland of the Umbral Conclave; if there are any clues to be found, that is where
-- Start at the port town of Castrella, and head the Kedron river; there is still a manned fort near the headwaters, and they can give you more information if you wish to venture into the wastes. 
+- Start at the port town of Castrella, and head the [[Kedron]] river; there is still a manned fort near the headwaters, and they can give you more information if you wish to venture into the wastes. 
 
 Basic adventure will be:
 1-2 sessions downtime/travel; Castrella, and then up the river to a maintained border fort

@@ -1,28 +1,16 @@
 ---
-tags:
-  - status/stub
-  - place
-  - status/check/ai
+headerVersion: 2023.11.25
+tags: [place]
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 typeOf: building
+typeOfAlias: fort
+ancestry: Chardonian
+whereabouts: Portalia
 ---
-# Fort Varian
+# The Fort Varian
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Fort Varian guards the northern mouth of the [[Old Chardon Canal]], where the canal meets the [[Gulf of Chardon]]. It is built on a small island in the marshlands of [[Portalia]]; services and a safer port may be found nearby at [[Nevium]].
-
-## Sources
-
-- [[Old Chardon Canal]]
-- [[Portalia]]
-- [[Nevium]]
-
-%%^Campaign:none%%
-
-## DM notes
-
-- Fort Varian is treated in several DM notes as a significant naval base and a dangerous place for intruders.
-
-%% DM sources: `Old Chardon Canal` (%%SECRET[1]%%
-
-%%^End%%
+Fort Varian guards the northern mouth of the [[Old Chardon Canal]], where the canal meets the [[Gulf of Chardon]]. It is built on a small island in the marshlands, but has no accessible harbor for merchant ships or travelers.  Services and a safe port may be found nearby at [[Nevium]].
