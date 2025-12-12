@@ -30,18 +30,18 @@ The [[Dunmar Fellowship]] successfully repairs the skyship [[Vindristjarna]].
 
 ### Timeline
 - (DR:: 1748-11-24), evening: Return to the crash of [[Vindristjarna]] by evening with [[Hralgar]]'s wind blessing.
-- (DR:: 1748-11-25): Work on skyship. Convert [[Delwath]]'s shield to an adamantine harness to hold phasing stone.
+- (DR:: 1748-11-25): Work on skyship. Convert [[Delwath]]'s shield to an [[adamantine]] harness to hold phasing stone.
 - (DR:: 1748-11-26): Work on skyship, finishing the stone helm on which the phasing stone will be mounted; scry on [[Kharsan]], [[Kadmos]].
 - (DR:: 1748-11-27):  Work on skyship, converting gold and silver to wire to construct the channeling device. Meet [[Alesh]]; speak with her about events in [[Dunmar]] and give her letter and sending stone for [[Sura]]. Sending with Ulfgar and [[Govir]], who both agree to do research.
 - (DR:: 1748-11-28): Continue to work on the channeling device; scry [[Kharsan]] and see army leaving. [[Seeker]] dreams of shadow hunter threatening that he is coming.
 - (DR:: 1748-11-29): Finish work on [[Vindristjarna]]. [[Seeker]] attunes to the phasing stone, and begins to practice flying. Shadow dogs attack at midnight.
 
 ## Narrative
-We begin at dusk, at site of the crashed [[Vindristjarna|airship]], as the party settles in for the night and begins to determine what is necessary to repair [[Vindristjarna]]. From the notes and information gleaned in [[Hralgar]]'s library, [[Seeker]], [[Riswynn]], and [[Delwath]] are able to determine that three steps are necessary to repair the ship: the construction of an adamantine harness for the phasing stone; the construction of stone console to hold the phasing stone apparatus; and the construction of a gold and silver focus to channel the energy. 
+We begin at dusk, at site of the crashed [[Vindristjarna|airship]], as the party settles in for the night and begins to determine what is necessary to repair [[Vindristjarna]]. From the notes and information gleaned in [[Hralgar]]'s library, [[Seeker]], [[Riswynn]], and [[Delwath]] are able to determine that three steps are necessary to repair the ship: the construction of an [[adamantine]] harness for the phasing stone; the construction of stone console to hold the phasing stone apparatus; and the construction of a gold and silver focus to channel the energy. 
 
 ![[vindristjarna-crash-location.png]]
 
-Over the next two days, [[Seeker]] and [[Riswynn]] work to construct the adamantine harness and the stone console to mount the phasing stone to, guided by [[Riswynn]]'s magic and the knowledge of both the [[Dwarves]]. During these days of work, [[Wellby]] and [[Kenzo]] tend the camp and keep watch, and Delawth scrys, seeing [[Kadmos]] and company marching in the desert to the south, in the heart of the [[Garamjala Desert|Garamjala]]. 
+Over the next two days, [[Seeker]] and [[Riswynn]] work to construct the [[adamantine]] harness and the stone console to mount the phasing stone to, guided by [[Riswynn]]'s magic and the knowledge of both the [[Dwarves]]. During these days of work, [[Wellby]] and [[Kenzo]] tend the camp and keep watch, and Delawth scrys, seeing [[Kadmos]] and company marching in the desert to the south, in the heart of the [[Garamjala Desert|Garamjala]]. 
 
 On the third day, November 27th, [[Riswynn]] and [[Seeker]] construct considerable quantities of gold and silver thread with [[Riswynn]]'s magic, to shape and forge the final piece of the control apparatus for [[Vindristjarna]]. [[Wellby]], however, sees a rider on the horizon, and heads to scout, finding [[Alesh]] riding towards the former site of the [[Stormcaller Tower]].
 

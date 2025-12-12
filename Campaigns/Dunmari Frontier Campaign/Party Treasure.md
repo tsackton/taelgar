@@ -279,7 +279,7 @@ These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. I
 
 ### Unusual Materials or Components
 - [[Forge Components]] from [[Apollyon's Tower Treasure]], found near the magical forge in the basement. 
-- A half-pound or so of adamantine scraps, from [[Apollyon's Tower Treasure]], the remains of the materials used to construct his phylactery.
+- A half-pound or so of [[adamantine]] scraps, from [[Apollyon's Tower Treasure]], the remains of the materials used to construct his phylactery.
 - Two small metallic flies, about two inches across and made of a strange black metal, perhaps some kind of unusual iron. Inert. From [[Apollyon's Tower Treasure]].
 - Two cracked pieces of once-magical crystal that powered the constructs, from [[Apollyon's Tower Treasure]].
 - Four magical glass lenses of a variety of sizes, once apparently part of a telescope. From the [[Tower of the Colossus Treasure]]. 
