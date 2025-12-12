@@ -5,8 +5,14 @@ name: Rene d'Aslain
 species: human
 ancestry: Sembaran
 gender: male
+dm_owner: mike
+dm_notes: important
 affiliations:
-- { org: d'Aslains, type: family }
+- { org: d'Aslains, type: primary }
 ---
-# Rene d'Aslain
-A nephew of [[Isabeau D'Aslain]] noted for artistic skill; produced a sketch of the Baroness's described pendant during a locate-object ruse involving the party.
+# Rene D'Aslain
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[d'Aslains]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
+
+A nephew of [[Isabeau D'Aslain]] noted for artistic skill. 
