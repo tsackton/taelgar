@@ -1,34 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - status/stub
-  - place
-  - status/check/ai
+tags: [place]
 dm_owner: tim
 dm_notes: important
 typeOf: topographical feature
-subTypeOf: hidden
-whereabouts:
-  - type: primary
-    location: Sentinels
-  - type: secondary
-    location: Central Highlands
-typeOfAlias: valley
+whereabouts: Sentinels
+typeOfAlias: rumored hidden valley
+aliases: [Naun Tarvanos]
 ---
 # The Valley of the Hidden Forest
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Valley of the Hidden Forest is a secluded valley in the [[Sentinel Range|Sentinels]].
+The Valley of the Hidden Forest is a rumored hidden valley in the [[Sentinel Range|Sentinels]], which may or may not exist. 
 
-Elven sources preserve the name *Naun Tarvanos*, “Valley of the Hidden Forest”. In at least one modern account, the elf [[Rai]] spoke the name while weaving powerful concealment magic, and his familiar [[Dimitaur]] associated it with a distant place Rai once visited.
-
-%% AI note: The vault currently contains only a few references to this place; details beyond its name and association with Rai/Dimitaur are not yet recorded. %%
-
-## See also
-
-- [[Rai]]
-- [[Dimitaur]]
-- [[Session 113 (DuFr)]]
-- [[Central Highlands]]
+%%^Campaign:dufr%%
+The Valley of the Hidden Forest, called *Naun Tarvanos* in Elvish, was a pre-Great-War refuge, part of the legend of [[Rai]] and rumored to be a place where [[Rai]] trained. The name [[Session 113 (DuFr)|was heard]] by the [[Dunmar Fellowship]] in a vision of [[Rai]], and his familiar [[Dimitaur]] associated it with a distant place where [[Rai]] trained and learned.
+%%^End%%
