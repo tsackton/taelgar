@@ -71,7 +71,7 @@ A collection of twenty boxes, each containing a small quantity of a fine powder.
 
 A large book with a deep crimson cover made of bloodstained human skin, radiating necromancy magic, and outlining the process by which a spellcaster can become a lich. Briefly laid a curse on Seeker. Destroyed by Dimitaur. %%SECRET[10]%%
 
-A locked book with a plain leather cover, unassuming from the outside. Written in a cypher. Contains notes about Apollyon's spells, functioning as a spellbook. Also contains information and research about the process of lich transformation, and the mechanisms by which the forge in Apollyon's tower can be used. %%SECRET[11]%%
+A locked book with a plain leather cover, unassuming from the outside. Written in a cypher. Contains notes about Apollyon's spells, functioning as a spellbook. Also contains information and research about the process of lich transformation, and the mechanisms by which the forge in [[Apollyon's tower]] can be used. %%SECRET[11]%%
 
 ### Remnants of Apollyon's Constructs
 

@@ -24,7 +24,7 @@ Lirien is a willowy, flame-haired fae with a presence that flickers between fier
 She is the last Lanternkeeper of [[Redsun Watch]], a minor member of [[Redsun Watch]], charged with using the [[Amberlight]] to seal cracks in the [[Sunset Gate]] that would sometimes appear from [[Darkfall]]. When [[Redsun Watch]] finally fell, she fled, taking the [[Amberlight]] with her and running to [[Everlight's Bloom]]. 
 
 %%^Campaign:dufr%%
-When the [[Dunmar Fellowship]] brought the [[Cloudspinner]] out of [[Cha'mutte]]'s prison on the [[~Circular Island~]], Lirien's [[Amberlight]] flickered to life again, and she left [[Everlight's Bloom]] to search for the [[Cloudspinner]]. She found [[Vindristjarna]], but was tragically killed in an attack by minions of [[Harrow]] and [[Wend]]. 
+When the [[Dunmar Fellowship]] brought the [[Cloudspinner]] out of [[Cha'mutte]]'s prison on the [[Circular Island]], Lirien's [[Amberlight]] flickered to life again, and she left [[Everlight's Bloom]] to search for the [[Cloudspinner]]. She found [[Vindristjarna]], but was tragically killed in an attack by minions of [[Harrow]] and [[Wend]]. 
 %%^End%%
 
 

@@ -17,7 +17,7 @@ descTitle: Ra'ghemdros' Fall
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]]*
 > *In Taelgar: May 19, 1749 DR to May 21, 1749 DR*
 > *On Earth: Saturday Sep 28, 2024*
-> *[[~Circular Island~]]*
+> *[[Circular Island]]*
 
 The [[Dunmar Fellowship]] acquires the last fragment of jade, frees the [[Cloudspinner]] from [[Cha'mutte]]'s prison, and defeats the dragon [[Ra'ghemdros]], securing a significant victory and treasure for their quest.
 ## Session Info

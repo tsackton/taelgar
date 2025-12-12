@@ -115,7 +115,7 @@ Back at the [[Temple of the Eight Divines]], the party reacts in concern to a cr
 - After confirming no additional traps, and figuring out how to unlcok the chest, Delwath opens the chest using *Mage Hand* to avoid any lingering dangers.
 - Inside the chest lies a plain dagger made of adamantium, confirmed to be Apollyon’s phylactery.
 - Kenzo’s soul sight reveals the phylactery contains seven souls, each sacrificed to create the vessel for Apollyon’s essence.
-- Seeker studies the dagger with the aid of Kenzo and other party members, and with careful attention arcane notes from Apollyon's tower on the Circular Island. The group learns the following:
+- Seeker studies the dagger with the aid of Kenzo and other party members, and with careful attention arcane notes from [[Apollyon's tower]] on the Circular Island. The group learns the following:
 	- The seven souls were Drankorians, mostly humans with a few mixed species, who lived in the city during Apollyon’s reign.
 	- These individuals were falsely accused of crimes, taken to the island, and sacrificed by Apollyon to bind their essences into the phylactery.
 	- The souls form a protective cocoon around Apollyon’s essence within the dagger.

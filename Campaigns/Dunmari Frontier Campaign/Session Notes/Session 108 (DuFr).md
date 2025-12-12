@@ -16,7 +16,7 @@ descTitle: Meeting Dragonets
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]]*
 > *In Taelgar: May 18, 1749 DR to May 19, 1749 DR*
 > *On Earth: Friday Sep 27, 2024*
-> *[[~Circular Island~]]*
+> *[[Circular Island]]*
 
 The [[Dunmar Fellowship]] navigates alliances with [[Dragonets]], explores ancient memorials, and seeks a way to address [[Ra'ghemdros]] and [[Apollyon]]'s threats.
 

@@ -138,7 +138,7 @@ Other treasure returned to Milo and Tilly
 - Cassian's chalyte spell book (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about Rai and Apollyon, in [[Session 84 (DuFr)]]
 - [[Floating Disc Coin]] (common minor item), given to [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Frankar]] in [[Session 84 (DuFr)]]
 ### Other Gifts
-- [[Apollyon|Apollyon's]] throne, taken from [[Apollyon's Tower|his tower]]. A large grey mottled marble and granite throne encrusted with gemstones. Left on the [[~Circular Island~]] in [[Dimitaur]]'s possession. 
+- [[Apollyon|Apollyon's]] throne, taken from [[Apollyon's Tower|his tower]]. A large grey mottled marble and granite throne encrusted with gemstones. Left on the [[Circular Island]] in [[Dimitaur]]'s possession. 
 - A golden circlet set with four small green alexandrite gems (at least 500 gp, possibly more, [[Grimbaskal's Hoard]]). Given to [[Ghesh]] in exchange for keeping the party secret from [[Ra'ghemdros]]
 - The Watcher Pendant - a very elaborate design, set with diamonds, taken from Rhodar von Glauer in [[Ursk Treasure|Shadowkeep]]. Given to [[Olen Vrask]] as proof of the death of [[Rhodar von Glauer]].
 - A giant-sized hunting horn carved from a mammoth tusk and scrimshawed with elaborate patterns (400 - 650 gp, from [[Grimbaskal's Hoard]]), given to [[Brimskarda]] as a gift 

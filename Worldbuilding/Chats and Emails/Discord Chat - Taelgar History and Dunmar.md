@@ -14,14 +14,14 @@ yeah
 Deciusmus — Today at 2:58 PM
 Everything to the east of that circle is "intentionally poorly defined"
 rsulfuratus — Today at 2:58 PM
-a good chunk of southern part of that circle was rostaure
+a good chunk of southern part of that circle was [[rostaure]]
 basically the entire north shore of that weird bay
 Deciusmus — Today at 2:59 PM
 to the west and north (with a few exceptions around Cymea) is fairly well defined
 rsulfuratus — Today at 2:59 PM
 no idea what is there now, though. presumably wilderness
 Deciusmus — Today at 3:00 PM
-is rostaure meant to be another surival of the big pre-downfall elves? or a new foundation
+is [[rostaure]] meant to be another surival of the big pre-downfall elves? or a new foundation
 ?
 we had a lot of talk earlier about a huge Pantal/Everglades inland swamp, but I think that was to the east of the circle
 I think the theory is that most of that coastline along the green sea (between the mountain ranges) would have been empty land post-Downfall

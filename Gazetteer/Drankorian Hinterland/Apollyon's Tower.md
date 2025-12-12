@@ -1,22 +1,23 @@
 ---
-tags:
-  - place
-  - status/stub
-  - status/check/ai
+headerVersion: 2023.11.25
+tags: [place]
+displayDefaults: {defArt: ""}
 dm_notes: important
 dm_owner: tim
 typeOf: building
+typeOfAlias: tower
+whereabouts: 
+- {type: home, location: Circular Island, startFilter: "1", linkText: "on"}
 ---
-
 # Apollyon's Tower
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Apollyon's Tower is a black marble spire on the coast of the [[~Circular Island~]], once a stronghold and retreat of the Drankorian emperor [[Apollyon]]. In the height of the [[Drankorian Empire]], it served as an imperial seat far from [[Drankor]], and in Apollyon’s later years it became a place of dark study and craft.
+Apollyon's Tower is a black marble spire on the coast of the [[Circular Island]], once a stronghold and retreat of the Drankorian emperor [[Apollyon]], a place of dark study and craft. The tower itself is almost 250 feet tall, with a main section that rises 140 feet from the ground, and battlements and a tower extension that rise another 100 feet, capped with a platform open to the sky. After the [[Fall of Drankor]], the tower stood abandoned and warded, looming over the island’s storm‑lashed shore. 
 
-After the [[Fall of Drankor]] the tower stood abandoned and warded, looming over the island’s storm‑lashed shore. In DR 1749 the [[Dunmar Fellowship]] assaulted the ruin, uncovering its forge, libraries, and throne room, and carrying away the treasures now catalogued as [[Apollyon's Tower Treasure]].
+%%^Campaign:dufr%%
+In DR 1749 the [[Dunmar Fellowship]] assaulted the ruin, uncovering its forge, libraries, and throne room, and carrying away the treasures now catalogued as [[Apollyon's Tower Treasure]].
+%%^End%%
 
 %%SECRET[1]%%
-
-%% AI note: Player-facing summary expanded from [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 109 (DuFr)]], [[Campaigns/Dunmari Frontier Campaign/Hoards/Apollyon's Tower Treasure]], and [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Apollyon's Crystal Ball Vision]]. %%

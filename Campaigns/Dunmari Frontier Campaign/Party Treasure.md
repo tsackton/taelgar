@@ -12,7 +12,7 @@ This records the magic items and mundane treasure acquired by the [[Dunmar Fello
 | ![[lynx-shield.png\|240]]                 | [[Deno'qai Lynx Shield]]           | Major item, Legendary | [[Gifts and Purchases\|Gift]] from [[Enon]], and blessed by the [[Meswati]] as they were freed. Later enhanced with [[Skaer Steel]] by [[Umli]]. | [Mechanics](https://www.dndbeyond.com/magic-items/5360068-lynx-denoqai-shield)  |
 | ![[narengril.png\|240]]                   | [[Narengril]]                      | Major item, Rare      | Found in [[Grimbaskal's Hoard]]                                                                                                                  | [Mechanics](https://www.dndbeyond.com/magic-items/5346819-narengril)            |
 | ![[denoqai-scale-armor-delwath.png\|240]] | [[Deno'qai Scale Mail]]            | Major item, Uncommon  | [[Gifts and Purchases\|Gift]] from [[Enon]]                                                                                                      | [Mechanics](https://www.dndbeyond.com/magic-items/5372382-denoqai-scale-mail)   |
-|                                           | [[Rod of Elmerca's Bond]]          | Major item, Rare      | Take from [[Apollyon's Tower Treasure\|Apollyon's Tower]] on the [[~Circular Island~]].                                                          | [Mechanics](https://www.dndbeyond.com/magic-items/9217523-rod-of-elmercas-bond) |
+|                                           | [[Rod of Elmerca's Bond]]          | Major item, Rare      | Take from [[Apollyon's Tower Treasure\|Apollyon's Tower]] on the [[Circular Island]].                                                          | [Mechanics](https://www.dndbeyond.com/magic-items/9217523-rod-of-elmercas-bond) |
 | ![[horn-of-warning-1.png\|240]]           | [[Horn of Silent Alarm (Dunmari)]] | Minor item, Common    | Taken from [[Justan]] in the [[Copper Hills Treasure\|Copper Hills]] after he was killed by [[Casian]]                                           | [Mechanics](https://www.dndbeyond.com/magic-items/horn-of-silent-alarm)         |
 | ![[ring-of-sharp-mind-delwath.jpg\|240]]  | Ring of Sharp Mind                 | Minor item, Rare      | Constructed by [[Faldrak Bronzehammer\|Faldrak]] and [[Seeker]] at the [[Elemental Forge Hoard\|Elemental Forge]]                                | [Mechanics](https://www.dndbeyond.com/magic-items/7632123-ring-of-sharp-mind)   |
 | ![[magic-cooking-pouch.jpg\|240]]         | Magic Cooking Pouch                | Minor item, Uncommon  | [[Gifts and Purchases#Purchases\|Purchased]] from the [[Te'kula]] in exchange for a portion of [[Grimbaskal's Hoard]]                            | [Mechanics](https://www.dndbeyond.com/magic-items/6210885-magic-cooking-pouch)  |
@@ -146,8 +146,8 @@ These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. I
 - 1,000 mixed silver and 80 mixed gold coins from [[The Laughing Wave]] in [[Drankor]], part of the [[Drankorian Treasure]]
 - 20,000 Drankorian gold coins from [[Ra'ghemdros' Hoard]]
 - 300,000 Drankorian silver coins from [[Ra'ghemdros' Hoard]]
-- 250 gold Drankorian coins (250 gp), taken from [[Apollyon's Tower Treasure|Apollyon's Tower]] on the [[~Circular Island~]]
-- 3000 tarnished Drankorian silver coins (300 gp), taken from [[Apollyon's Tower Treasure|Apollyon's Tower]] on the [[~Circular Island~]] 
+- 250 gold Drankorian coins (250 gp), taken from [[Apollyon's Tower Treasure|Apollyon's Tower]] on the [[Circular Island]]
+- 3000 tarnished Drankorian silver coins (300 gp), taken from [[Apollyon's Tower Treasure|Apollyon's Tower]] on the [[Circular Island]] 
 - 109 Dunmari silver coins, from [[Merfolk Quest Treasure]]
 - 93 strange silver coins of a design you have never seen, with a small hole in the center and strange writing around the edge, from [[Merfolk Quest Treasure]].
 - 50 pounds of gold in trade bars (2,500 gp), from [[Ursk Treasure|Shadowkeep]]
@@ -252,7 +252,7 @@ These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. I
 - Approximately 100 scrolls from the Drankorian Customs House, consisting mostly of shipping records, part of the [[Drankorian Treasure]]
 - The [[Book of Martyrs of the Radiant Path]], part of the [[Drankorian Treasure]], found in the administrative complex of the [[Temple of the Eight Divines]]
 - [[Apollyon|Appollyon's]] backup spellbook containing notes on how to use the forge in [[Apollyon's Tower|his tower]], notes on how to become a lich, and perhaps other hidden secrets.
-- Ten fireproof [[Compendium of Fire|books of records and lore]] about the [[Elemental Plane of Fire]], and a chronicle of the history of the [[~Circular Island~]], taken from the [[Concordia Pyrae]] villa where Cloudspinner was imprisoned. 
+- Ten fireproof [[Compendium of Fire|books of records and lore]] about the [[Elemental Plane of Fire]], and a chronicle of the history of the [[Circular Island]], taken from the [[Concordia Pyrae]] villa where Cloudspinner was imprisoned. 
 - Six scrolls (five copies, one original) of Drankorian and Elvish literary works (poems and plays), found as part of the [[Tower of the Colossus Treasure]]
 - [[The Lore of the Feywild]], by [[Ulfgar Frostbeard]], received as a [[Gifts and Purchases|gift]]
 - [[On the Lost People of the Forests]], by [[Gnaeus]] received as a [[Gifts and Purchases|gift]]

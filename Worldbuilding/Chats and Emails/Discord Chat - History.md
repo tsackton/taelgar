@@ -74,7 +74,7 @@ Everything to the east of that circle is "intentionally poorly defined"
 
 rsulfuratus — Today at 2:58 PM
 
-a good chunk of southern part of that circle was rostaure
+a good chunk of southern part of that circle was [[rostaure]]
 
 basically the entire north shore of that weird bay
 
@@ -88,7 +88,7 @@ no idea what is there now, though. presumably wilderness
 
 Deciusmus — Today at 3:00 PM
 
-is rostaure meant to be another surival of the big pre-downfall elves? or a new foundation
+is [[rostaure]] meant to be another surival of the big pre-downfall elves? or a new foundation
 
 ?
 
