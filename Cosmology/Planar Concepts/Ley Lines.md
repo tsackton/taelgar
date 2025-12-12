@@ -23,7 +23,7 @@ While Seeker can see them, it is not determined whether this is something all ar
 Whether they have any in-world or mechanical effects is less clear:
 - At one point early on I developed a bunch of ley line mechanics for Eric to use, but he never really was interested in them and they (a) never got play tested, and (b) are from a point when I was just starting to homebrew things for D&D and probably aren't that great anyway. Nonetheless, they exist and could be copied here if desired. This is why there are "important" dm notes. 
 - Early in the Dunmar Frontier campaign there was some concept (carried over from high school) of nodes, where ley lines intersect and create points of particular magical power. This is largely obsolete.
-- More likely is that ley lines are more or less everywhere, although the density may vary, but regions with a stark absence of ley lines may also be dead magic zones or otherwise "weird" magically. In Seeker's backstory, there is a note about an unusual volcano erupting and distorting ley lines around it (potentially on the edge of the ruins of Urlich Pass). Since Darakun is not in a region typically associated with volcano activity there may be something to this. 
+- More likely is that ley lines are more or less everywhere, although the density may vary, but regions with a stark absence of ley lines may also be dead magic zones or otherwise "weird" magically. In Seeker's backstory, there is a note about an unusual volcano erupting and distorting ley lines around it (potentially on the edge of the ruins of [[Urlich Pass]]). Since Darakun is not in a region typically associated with volcano activity there may be something to this. 
 
 %%^End%%
 
