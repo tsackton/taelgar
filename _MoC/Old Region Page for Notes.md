@@ -2,7 +2,7 @@
 
   
 
-*Area*: This includes everything west of [[Apporia|Apporian Peninsula]] and the [[~North Chardon Coast~]]. Primarily, this is the [[~Sayuna Islands~]], as well as any mysterious additional islands or underwater features lurking in the Endless Ocean.
+*Area*: This includes everything west of [[Apporia|Apporian Peninsula]] and the [[Coastlands]]. Primarily, this is the [[~Sayuna Islands~]], as well as any mysterious additional islands or underwater features lurking in the Endless Ocean.
 
   
 
@@ -48,7 +48,7 @@
 
   
 
-*Area:* This region stretches north from the [[~South Chardon River~]] and includes the [[Chasa-Nahadi Watershed]], [[Lake Valandros]], and the [[Voltara]] region, as well as the [[~North Chardon Coast~]], the [[Tawir Forest]], and the [[Mawakel Peninsula]].
+*Area:* This region stretches north from the [[Dashun]] and includes the [[Chasa-Nahadi Watershed]], [[Lake Valandros]], and the [[Voltara]] region, as well as the [[Coastlands]], the [[Tawir Forest]], and the [[Mawakel Peninsula]].
 
   
 
@@ -60,7 +60,7 @@
 
   
 
-*Blank Regions:* The [[~North Chardon Coast~]], [[Lake Valandros]], and the region stretching from the [[Tawir Forest]] to the coast west of [[Voltara]] are largely blank, but could use some additional development. The history and current political culture of this region exists only in very broad strokes, for the most part, and could use additional development. Nowhere in this region is intentionally left blank, except perhaps the [[Tawir Forest]] itself.
+*Blank Regions:* The [[Coastlands]], [[Lake Valandros]], and the region stretching from the [[Tawir Forest]] to the coast west of [[Voltara]] are largely blank, but could use some additional development. The history and current political culture of this region exists only in very broad strokes, for the most part, and could use additional development. Nowhere in this region is intentionally left blank, except perhaps the [[Tawir Forest]] itself.
 
   
 

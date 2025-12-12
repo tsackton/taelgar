@@ -59,16 +59,16 @@ _See more: {links}_
 This area saw much disruption and loss of life in the [[Blood Years]] and many details of the early history of the region are lost. The scholars of Chardon have preserved better records of the [[History of the Drankorian Empire|Drankorian Era]], and a rough history can be reconstructed. 
 #### Before Drankor
 _Before DR 597_
-Little is known of the history of this region before the [[Drankorian Western Wars|the coming of Drankor]].  It is widely believed that early migrants from [[Hkar]] lived along the [[~North Chardon Coast~]] in the shadow of [[Alcarinque|Alcarinquë]] before the [[The Downfall|Downfall]] but the cultures and civilizations these migrants formed during and after the Downfall is not recorded. 
+Little is known of the history of this region before the [[Drankorian Western Wars|the coming of Drankor]].  It is widely believed that early migrants from [[Hkar]] lived along the [[Coastlands]] in the shadow of [[Alcarinque|Alcarinquë]] before the [[The Downfall|Downfall]] but the cultures and civilizations these migrants formed during and after the Downfall is not recorded. 
 #### Western Wars
 _DR 597 - DR 634_
-Between DR 597 and DR 634, Drankor fought a series of [[Drankorian Western Wars|series of wars]] to force the people of the [[Yeraad Watershed]] and [[~North Chardon Coast~]] into the growing Drankorian Empire.  In the telling of the [[Faculty of History]] at the [[University of Chardon]], the  wars brought civilization and safety to a land full of dangers. The [[Society of Ocean Watchers]] in [[Hamri]] would tell a different tale, of Drankorian conquest seeking treasure and plunder, and agricultural land for their expanding empire, with no concerns for the inhabitants of the land.
+Between DR 597 and DR 634, Drankor fought a series of [[Drankorian Western Wars|series of wars]] to force the people of the [[Yeraad Watershed]] and [[Coastlands]] into the growing Drankorian Empire.  In the telling of the [[Faculty of History]] at the [[University of Chardon]], the  wars brought civilization and safety to a land full of dangers. The [[Society of Ocean Watchers]] in [[Hamri]] would tell a different tale, of Drankorian conquest seeking treasure and plunder, and agricultural land for their expanding empire, with no concerns for the inhabitants of the land.
 #### Drankorian Era
 _DR 634 - DR 1059_
 For the next five hundred years, Drankor ruled in peace and prosperity. The city of [[Chardon]] was founded, and grew and prospered. Few records are well attested of this time, although surely the [[Faculty of History]] has lost scrolls or hidden records that tell of the growth of the city of Chardon, at least.
 #### Fall of Drankor and Post-Imperial Era
 _DR 1059 - DR 1540_
-When Drankor fell to [[First Plague|plague]] and the empire shattered, the imperial provinces were left to fend for themselves. In the chaos, [[Chardon]] emerged as a leading light, first amongst equals in the post-Drankorian landscape, growing rich on the wisdom and fame of its [[University of Chardon|university]] and [[Great Library|library]], as well as trade with Dunmar through the [[Myraeni Gap]] and [[Sembara]] along the [[Yeraad]] river and over the [[Sentinel Range|Sentinels]] at [[Urlich Pass]].  Although tales of the small kingdoms that grew from the imperial provinces along the [[~North Chardon Coast~]] must exist, they are not widely known, and this period is largely a blank in the popular imagination.
+When Drankor fell to [[First Plague|plague]] and the empire shattered, the imperial provinces were left to fend for themselves. In the chaos, [[Chardon]] emerged as a leading light, first amongst equals in the post-Drankorian landscape, growing rich on the wisdom and fame of its [[University of Chardon|university]] and [[Great Library|library]], as well as trade with Dunmar through the [[Myraeni Gap]] and [[Sembara]] along the [[Yeraad]] river and over the [[Sentinel Range|Sentinels]] at [[Urlich Pass]].  Although tales of the small kingdoms that grew from the imperial provinces along the [[Coastlands]] must exist, they are not widely known, and this period is largely a blank in the popular imagination.
 
 #### The Blood Years
 _DR 1545 - DR 1597_
@@ -112,7 +112,7 @@ _See also: [[Places in Greater Chardon]]
 
 *Adventures:* The Dunmar Frontier campaign Chardon/Elderwood arc was partly set in this region, and the Apporia/Merfolk arc mostly set here. Despite the centrality of Chardon to the politics and culture of the Dunmar Frontier campaign, only a small number of sessions have been set in Greater Chardon.  
 
-*Important Places in Staging:* The [[~North Chardon Coast~]] and the [[~Chardon Hills~]] are the two most important places.
+*Important Places in Staging:* The [[Coastlands]] and the [[~Chardon Hills~]] are the two most important places.
 
 %%^End%%
 
@@ -133,7 +133,7 @@ The West Coast Region includes the entirety of the [[Chardonian Empire]], as wel
 
 %%much of this region is not well developed, so more uncertainty here; some things can go to worldbuilding or commets as needed%%
 
-- [[~North Chardon Coast~]]: *The wide coastland north of Chardon. Canonically all that is developed about this area is that it is fertile agricultural land. This is approx. 38 N to 45 N latitudes. Probably the southern part is more strictly Mediterranean, with extensive cotton, olive, and wine production (Metium is a major wine-producer), while the northern part is highly productive for grains. Basic geographic/climatic outline is Mediterranean in the south transitioning to a more oceanic influence in the north, with grain cultivation in river valleys and hot-summer crops like olives in the hills. Probably should extend the oceanic climate of Mawar into the northern stretches of this area, around 45 N. Real world influences would include parts of Italy, southern France, and other Med agricultural areas, and California Central Valley.*
+- [[Coastlands]]: *The wide coastland north of Chardon. Canonically all that is developed about this area is that it is fertile agricultural land. This is approx. 38 N to 45 N latitudes. Probably the southern part is more strictly Mediterranean, with extensive cotton, olive, and wine production (Metium is a major wine-producer), while the northern part is highly productive for grains. Basic geographic/climatic outline is Mediterranean in the south transitioning to a more oceanic influence in the north, with grain cultivation in river valleys and hot-summer crops like olives in the hills. Probably should extend the oceanic climate of Mawar into the northern stretches of this area, around 45 N. Real world influences would include parts of Italy, southern France, and other Med agricultural areas, and California Central Valley.*
 - [[Lake Valandros]]: *Huge lake, with no canonical details. Likely somewhat dry on the west side and humid and rainy on the east side, just from mountain influence. Probably also agricultural - rice production for example might be common.*
 - [[Mawakel Peninsula]]: *See Mawar notes. Currently unresolved is if this is more of a Cool Maritime Climate (Cfb) with limited winter snow, as currently marked (analogy: coastal Ireland, Pacific NW), or if this is more of a Subpolar Oceanic Climate (Cfc) with heavy winter snowfall and limited agriculture (analogy: Iceland or Norwegian coasts). I guess I have leaned towards the former, with the further north coast beyond Mawar more of the Norway analog.*
 - [[~North Bay~]]: *Lots of land northeast of Mawar. The east coast, near Voltara, has a bit of detail from Great Library campaign, but otherwise this is totally open and undeveloped.*
@@ -165,13 +165,13 @@ Major features include a major river, large forests to the east against the ~Cen
 
 ### 3. Chardonian Empire and the Mawakel Peninsula
 
-*Area:* This region stretches north from the [[~South Chardon River~]] and includes the [[Chasa-Nahadi Watershed]], [[Lake Valandros]], and the [[Voltara]] region, as well as the [[~North Chardon Coast~]], the [[Tawir Forest]], and the [[Mawakel Peninsula]].
+*Area:* This region stretches north from the [[Dashun]] and includes the [[Chasa-Nahadi Watershed]], [[Lake Valandros]], and the [[Voltara]] region, as well as the [[Coastlands]], the [[Tawir Forest]], and the [[Mawakel Peninsula]].
 
 *Canonical Development and Constraints:* 
 
 *Non-Canonical Development:* 
 
-*Blank Regions:* The  [[~North Chardon Coast~]], [[Lake Valandros]], and the region stretching from the [[Tawir Forest]] to the coast west of [[Voltara]] are largely blank, but could use some additional development. Nowhere in this region is intentionally left blank, except perhaps the [[Tawir Forest]] itself. 
+*Blank Regions:* The  [[Coastlands]], [[Lake Valandros]], and the region stretching from the [[Tawir Forest]] to the coast west of [[Voltara]] are largely blank, but could use some additional development. Nowhere in this region is intentionally left blank, except perhaps the [[Tawir Forest]] itself. 
 
 *Adventures:* The [[Mawar Adventures]] episodes are entirely set in this region, on the [[Mawakel Peninsula]]; the [[Great Library Campaign]] is based in [[Voltara]] with several adventures covering the local area around Voltara; the Dunmar Frontier campaign Chardon/Elderwood arc was set in this region. 
 

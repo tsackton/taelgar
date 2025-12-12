@@ -1,28 +1,20 @@
 ---
-tags:
-  - status/stub
-  - place
-  - status/check/ai
-dm_owner: tim
-dm_notes: important
+headerVersion: 2023.11.25
+tags: [place]
+displayDefaults: {defArt: ""}
+dm_owner: none
+dm_notes: none
 typeOf: building
+typeOfAlias: fort
+whereabouts: 
+- {type: primary, location: Portalia, startFilter: "r"}
+- {type: secondary, location: Apporia, startFilter: "1"}
 ---
 # Fort Ameli
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Fort Ameli is an old Drankorian fort that guards the entrance to the [[Old Chardon Canal]]. It lies at Mile 10 of the canal, north of the tidal estuary near [[Pergia]].
+Fort Ameli is a [[Chardonian Empire|Chardonian]] fort that guards the entrance to the [[Old Chardon Canal]]. It lies on the canal, about 10 miles inland from southern entrance, where the broad tidal estuary around [[Pergia]] narrows to the canal proper. The fort was originally constructed during the [[History of the Drankorian Empire|Drankorian Era]], though it has been expanded and rebuilt several times since. 
 
-Ships making passage through the canal are required to dock at Fort Ameli to pay tolls and, for sailing vessels, to take on a windcaller pilot.
-
-## Sources
-
-- [[Old Chardon Canal]]
-- [[Portalia]]
-- [[Pergia]]
-
-%%^Campaign:none%%
-
-## DM notes
-
-%% DM sources: _DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Session 47 %%
-
-%%^End%%
+Ships making passage through the canal are required to dock here, pay tolls, and take on a windcaller pilot.

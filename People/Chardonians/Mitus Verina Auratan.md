@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/incomplete]
 ancestry: Chardonian
 name: Mitus Verina Auratan
 title: Magistros
@@ -9,7 +9,6 @@ species: human
 whereabouts: Chardon
 dm_notes: important
 dm_owner: tim
-aliases: [Magistros]
 ---
 # Magistros Mitus Verina Auratan
 >[!info]+ Biographical Info  

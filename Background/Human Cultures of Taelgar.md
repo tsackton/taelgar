@@ -58,7 +58,7 @@ The **[[Chardonian Empire|Chardonian]]** culture is a mostly purely Drankorian/D
 ### North-Coastal Apporia
 The northern coasts of the  [[Apporia|Apporian Peninsula]] has a unique culture, of a pure Drankorian/Downfall Refugee derivation, worshipping [[Mos Numena]]. In the modern day this has come under the broad influence of Chardon but presumably retains some cultural differences.
 ### Northern Realms
-In general, the areas north and east of Chardon, including especially the [[~North Chardon Coast~]], [[Lake Valandros]] and [[Voltara]], share a common cultural history, which includes:
+In general, the areas north and east of Chardon, including especially the [[Coastlands]], [[Lake Valandros]] and [[Voltara]], share a common cultural history, which includes:
 * Descent from the earlier northern migrations
 * Conquest or at least significant influence by Drankor during the [[Historical Framework#Western Expansion]] 
 * Devastation by Cha'mutte, or his armies, during the Great War and Blood Years

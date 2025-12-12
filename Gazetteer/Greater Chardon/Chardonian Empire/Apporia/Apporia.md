@@ -7,7 +7,7 @@ aliases:
   - ~Chardon Peninsula~
   - Apporian Peninsula
 typeOf: topographical feature
-whereabouts: West Coast Region
+whereabouts: Greater Chardon
 pronunciation: a-POHR-ree-ah
 dm_owner: tim
 dm_notes: important

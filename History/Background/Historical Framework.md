@@ -138,7 +138,7 @@ Amidst the cultural, religious, and social upheavals spiraling from contact with
 
 At the beginning of this period, around 2500, the first humans leave Hkar (the [[~Northerners~]], in later parlance). The reasons for this are undefined and unclear, but:
 * These migrants are not explorers or colonists, but settlers. That is, they do not have a lot of contact back with Hkar %%although some exceptions might exist%%
-* They land first on the western coast - perhaps [[Apporia]] or [[Illoria]], but perhaps as far north as the [[~North Chardon Coast~]] - and spread north on the western side of the [[Sentinel Range|Sentinels]], before crossing the mountains in the far north and spreading east. They bring with them a variety of [[Northern Folk Religions]], all derived from the common religious practices.
+* They land first on the western coast - perhaps [[Apporia]] or [[Illoria]], but perhaps as far north as the [[Coastlands]] - and spread north on the western side of the [[Sentinel Range|Sentinels]], before crossing the mountains in the far north and spreading east. They bring with them a variety of [[Northern Folk Religions]], all derived from the common religious practices.
 * This first wave of migrants peaks around 2800, and declines quickly after that. 
 * This is probably associated in part with a cultural/religious transition on Hkar, such that there are few/no worshippers of "small gods" left on Hkar after about 2800-2900. 
 
