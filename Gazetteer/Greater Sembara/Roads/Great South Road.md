@@ -13,6 +13,6 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-An ancient road that runs from [[Embry]] to [[Cassons]], and then onward into the [[Plaguelands]]. It is said to still be in good repair as far south as [[Isingue]], and before the Great War, continued almost 2500 miles to [[Drankorian Empire|Drankor]] itself.
+An ancient road that runs from [[Tollen]] through [[Embry]] to [[Cassons]], and then onward into the [[Plaguelands]]. It is said to still be in good repair as far south as [[Isingue]], and before the Great War, continued almost 2500 miles to [[Drankorian Empire|Drankor]] itself.
 
 It is in remarkably good repair, and for much of its length it is paved with wide, smooth stones with drainage ditches on both sides. According to legend many of the stones in the road are a thousand years old, and have never cracked.
