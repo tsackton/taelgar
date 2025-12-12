@@ -67,7 +67,7 @@ get past ogre with calm emotions
 75 for safely returning to Roscombe with at least one uligium vial
 ## Setup
 
-- Currently Sunday. Reintroduce Roscombe, the destruction of the serpentine dagger. Market day, if anyone wants to buy or sell anything. 
+- Currently Sunday. Reintroduce Roscombe, the destruction of the [[serpentine dagger]]. Market day, if anyone wants to buy or sell anything. 
 - Reintroduce inns, Caradoc:
 	**_[[The Traveler's Rest]]._** The only inn in Roscombe, a well-built two story building against the wall, near the South Gate (where the road from Valcroix enters town). Run by Bertrand LeBlanc, charming middle-aged man, with a personal connection to the Traveler. Efficient and organized, and a decent cook as well.
 	**_The Raven's Roost._** A popular tavern on the market square, where the locals hang out. Run by Madeline Brewer, a young woman, daughter of the old tavern keeper who died unexpectedly a few years ago. Madeline took over the family business and has been thriving. Known for their beer, and the primary brewer in town.

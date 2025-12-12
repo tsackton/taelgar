@@ -1,13 +1,13 @@
 ---
-tags: [status/stub, item, status/check/ai]
-dm_owner: tim
-dm_notes: important
+headerVersion: 2023.11.25
+tags: [item]
+typeOf: book
+dm_owner: none
+dm_notes: none
 ---
+# The Records of the Concordia Pyrae
+>[!info]+ Information  
+> (book)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
-# Records of the Concordia Pyrae
-
-This book is referenced in the vault only by its title. No further details about its contents or provenance are currently recorded.
-
-%%SECRET[1]%%
-
-%% AI note: No additional references to this book were found elsewhere in the vault at time of edit. %%
+A collection of notes gathered by the ancient Drankorian society the [[Concordia Pyrae]], concerning the history of the [[Circular Island]] and the society. 
