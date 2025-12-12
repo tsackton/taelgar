@@ -22,7 +22,7 @@ The Dunmar Fellowship liberates seven souls and destroys Apollyon's phylactery, 
 ## Session Info
 ### Summary
 - The Dunmar Fellowship returns to the Temple of the Eight Divines and learns of wider threats while resolving to destroy Apollyon's phylactery.
-- Using Wellby's pathfinding, they reach the University of the Blessed Waters and overcome animated guardian statues.
+- Using Wellby's pathfinding, they reach the [[University of the Blessed Waters]] and overcome animated guardian statues.
 - Inside Minarith's former office, the party finds a magical bird and a note, crucial for their ritual.
 - Teleporting to Tollen, the party consults the Ancient and Honorable Guild of Philosophers for guidance on the [[Land of the Dead]].
 - The group enters the [[Land of the Dead]] and successfully frees seven souls, destroying the phylactery.
@@ -112,17 +112,17 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 	- Discovering a punch bowl and fireworks casings connected to Seraphina’s joyful memories of halflings celebrating on the tavern’s roof.
 	- Finding a foreign coin tied to [[Khemut of Targu]] in the tavern’s cellar.
 	- Exploring the Customs House, where they encountered a swirling red mist and recovered important scrolls and a shipping manifest tied to [[Khemut of Targu]]’s ship.
-	- Identifying a connection to [[Minarith]], linked to the University of the Blessed Waters.
+	- Identifying a connection to [[Minarith]], linked to the [[University of the Blessed Waters]].
 - Wellby shares news from Sura, indicating that Chardonian forces have begun attacking Dunmar. Sura’s army faces shadowy assassins and advancing legions, creating a dire situation.
 - While concerned about Fausto, a recurring adversary, potentially targeting [[Vindristjarna]], and the situation in Dunmar, the group decides to focus on finding the last memento and accessing the [[Land of the Dead]], reasoning that destroying Apollyon is the most effective way to help Dunmar.
-- [[Wellby]] uses his magical bow to locate the University of the Blessed Waters, firing an arrow that vanishes and reveals a path visible only to him.
+- [[Wellby]] uses his magical bow to locate the [[University of the Blessed Waters]], firing an arrow that vanishes and reveals a path visible only to him.
 - The university is approximately a mile away to the southeast. The party prepares to follow Welby’s lead, moving swiftly through the ruins of Drankor.
 
 
 ### Entering the Garden of Statues
 - The group follows [[Wellby]] through the jungle and ruins, avoiding unnatural creaks and whispers emanating from the buildings they bypass.
 - Heavy rain begins to fall, but the jungle canopy offers some protection as they navigate the humid terrain.
-- The path leads to an overgrown garden with two intact statues flanking the entrance to the University of the Blessed Waters.
+- The path leads to an overgrown garden with two intact statues flanking the entrance to the [[University of the Blessed Waters]].
 - As the group enters the garden, Kenzo notices the statues subtly shift and move, becoming animated guardians of the area.
 - Kenzo rushes forward to engage one statue but discovers their ability to teleport as it evades his attacks.
 - Seeker uses *Summon Construct* to create a stone ally, which provides additional melee support.

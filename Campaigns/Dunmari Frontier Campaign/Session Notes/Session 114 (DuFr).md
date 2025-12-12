@@ -25,7 +25,7 @@ The Dunmar Fellowship secures crucial mementos of trapped souls in Drankor, enco
 - They travel through Drankor, evading undead threats and finding [[Seraphina Appleblossom]]'s tavern, where they secure two mementos.
 - After battling spirits at the docks, they retrieve fireworks casing linked to Seraphina.
 - At the Custom House, they recover a shipping manifest related to [[Khemut of Targu]] and scrolls detailing Drankorian commerce.
-- Kenzo finds a scroll identifying Minarith as a faculty member of The Thalorian, leading to their next mission.
+- Kenzo finds a scroll identifying Minarith as a faculty member of The [[University of the Blessed Waters|Thalorian]], leading to their next mission.
 
 ### Timeline
 - (DR:: 1749-05-22), evening: The party rests in the Temple of the Eight Divines in Drankor.
@@ -146,6 +146,6 @@ Among the recovered scrolls are trade records and manifests detailing [[Drankori
 - The red mist does not pursue them beyond the room.
 - Among the scrolls are trade records and manifests providing insight into Drankor’s past commerce, including mentions of three major universities: the Imperial University, Valtrius University, and the University of the Blessed Waters (The Thalorian). But there is no mention of [[Minarith]].
 - Kenzo senses a connection to [[Minarith]] still in the room with the red mist, and runs back to find it, dodging attacks from the creature, which has returned.
-- Kenzo grabs the scroll and flees. The scroll references [[Minarith]], listed as a faculty member of the Thalorian, providing a crucial lead for the party.
+- Kenzo grabs the scroll and flees. The scroll references [[Minarith]], listed as a faculty member of the [[University of the Blessed Waters|Thalorian]], providing a crucial lead for the party.
 - With key information secured, the party decides to return to the temple to regroup and prepare for their next move: locating the Thalorian and finding a memento of [[Minarith]].
 

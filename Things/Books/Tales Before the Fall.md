@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [item, status/stub, status/check/ai]
+tags: [item]
+displayDefaults: {defArt: ""}
 typeOf: book
-dm_owner: tim
-dm_notes: important
+ancestry: giant
+dm_owner: none
+dm_notes: none
 ---
-
 # Tales Before the Fall
+>[!info]+ Information  
+> ([[Giants|giant]] book)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
-Tales Before the Fall is a vast book written in Giant, preserving stories of the giants from the [[Age of Creation]]. A chained copy was kept in the library of [[Eudomes]] at [[Stormcaller Tower]], alongside other ancient works on giants and the old world.
+Tales Before the Fall is a large book, standing 4 feet tall, written in Giant, that preserves ancient myths and legends telling of the origin of giants and their deeds in age days. Only one original copy, now kept in the library on [[Vindristjarna]], is known to survive outside of giant strongholds, though others may yet be discovered; the myths and legends, however, are recorded elsewhere in translation.  
 
-%% Minimal details available; no further excerpts are recorded in the current vault. %%
+The extant copy was originally discovered by the [[Dunmar Fellowship]] in the library of [[Eudomes]] at [[Stormcaller Tower]], alongside other rare and ancient works on giants. 
 
-%% AI note: Expanded from [[Campaigns/Dunmari Frontier Campaign/Hoards/Stormcaller Tower Treasure]] and [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 16 (DuFr)]]. %%
