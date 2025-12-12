@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/name, status/stub, place, status/check/ai]
+tags: [status/check/name, place]
 displayDefaults: {defArt: "the"}
 whereabouts:
 - {type: primary, location: Ardlas}

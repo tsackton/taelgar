@@ -1,9 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/stub
-  - status/check/ai
+tags: [place]
 typeOf: realm
 whereabouts: Borderlands
 pronunciation: SHAWN-tel-ee-air
@@ -17,16 +14,6 @@ typeOfAlias: barony
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Barony of Chantelierre is the easternmost of the baronies of the [[Borderlands]]. It is bounded to the east by the [[Aure]] and lies between the southern slopes of the [[Mostreve Hills]] and the northern frontier of the [[Enst]] valley.
+The Barony of Chantelierre is the easternmost of the baronies of the [[Borderlands]]. It is bounded to the east by the [[Aure]] and lies between the slopes of the [[Mostreve Hills]] and the [[Enst]] valley.
 
-%% borders Tyrwingha; probably older than most of the rest of borderlands. left with stub tag as there is not enough detail in vault for reliable AI invention %%
-
-%%^Campaign:none%%
-
-## DM notes
-
-- No additional references found in `_DM_` or `_dm_notes`.
-
-%%^End%%
-
-%% AI note: Expanded from existing vault sources: [[Borderlands]], [[Aure]]. %%
+%% borders Tyrwingha; probably older than most of the rest of borderlands.  %%

@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [status/check/name, place]
 displayDefaults: {defArt: "the"}
 whereabouts:
-- {type: primary, location: Wisford, startFilter: "r"}
+- {type: primary, location: Duchy of Wisford, startFilter: "r"}
 - {type: secondary, location: Wistel-Enst Watershed, startFilter: "1"}
 typeOf: waterway
 typeOfAlias: river
