@@ -14,7 +14,7 @@ Long hidden within the ruins of the [[Temple of the Eight Divines]] in [[Drankor
 
 ## DM notes
 
-- The [[Dunmar Fellowship]]’s visions in the [[Mirror of the Past]] show Apollyon forging the dagger in his tower, using layered metal and an adamantine sheath. The phylactery was fed by sacrifices restrained in [[Apollyon's Soulbinding Manacles]].
+- The [[Dunmar Fellowship]]’s visions in the [[Mirror of the Past]] show Apollyon forging the dagger in his tower, using layered metal and an [[adamantine]] sheath. The phylactery was fed by sacrifices restrained in [[Apollyon's Soulbinding Manacles]].
 - The seven souls bound within, named in Apollyon’s notes: [[Antonius Patrius]], [[Floria of Aphasium]], [[Marius of Drankor]], [[Valanthe]], [[Seraphina Appleblossom]], [[Khemut of Targu]], and [[Minarith]].
 - Destruction method (DR 1749-05-24): carry the dagger to the Land of the Dead and use mementos tied to each soul to help them remember and pass on, unraveling the cocoon around Apollyon’s essence.
 

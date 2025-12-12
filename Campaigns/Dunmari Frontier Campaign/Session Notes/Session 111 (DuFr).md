@@ -34,7 +34,7 @@ The [[Dunmar Fellowship]] prepares to cautiously enter Drankor and deal with und
 ## Narrative
 The party returned to [[Vindristjarna]] after their recent adventures, bringing with them a massive crystal block containing the [[Cloudspinner]] in suspended animation, among [[Ra'ghemdros' Hoard|other treasure]] from the black dragon [[Ra'ghemdros]]. They reunited with [[Riswynn]], and the crew of [[Vindristjarna]], who were eager to hear about their exploits. They unloaded their treasure and discussed dividing it, while joking about potential uses for the magical items.
 
-After sorting through the treasure, the party began making preparations for their next steps. [[Milo Thistlefoot]] and [[Tilly Brineheart]] decided to leave the group, intending to sail west and track down their former crew. Two halfling crew members, [[Willow Copperharp]] and [[Mica Copperharp]], chose to stay with the party for a while. The remaining crew discussed their course of action regarding [[Drankor]] and [[Apollyon]]'s phylactery—a plain adamantine dagger—and debated the risks of taking [[Vindristjarna]] into the city. They ultimately decided to set course towards [[Drankor]], planning to scout and gather information once they arrived.
+After sorting through the treasure, the party began making preparations for their next steps. [[Milo Thistlefoot]] and [[Tilly Brineheart]] decided to leave the group, intending to sail west and track down their former crew. Two halfling crew members, [[Willow Copperharp]] and [[Mica Copperharp]], chose to stay with the party for a while. The remaining crew discussed their course of action regarding [[Drankor]] and [[Apollyon]]'s phylactery—a plain [[adamantine]] dagger—and debated the risks of taking [[Vindristjarna]] into the city. They ultimately decided to set course towards [[Drankor]], planning to scout and gather information once they arrived.
 
 As they approached [[Drankor]], the party discussed their strategy for entering the city. They considered scouting and scrying to gather information, recalling that the city was overgrown and potentially inhabited by skeletal undead. They also weighed the risks of flying over the river versus approaching from the west. They discussed how to deal with Apollyon's doppelgangers, deciding to use scrying to better understand their enemies' positions and to minimize risk as much as possible.
 
@@ -63,7 +63,7 @@ The party sorts through their treasure and makes preparations for their next ste
 - The crew recalls what they know about Apollyon's transformation into a lich, his phylactery, and how it could be found.
 - Ultimately, they decide to set a course for Drankor, with plans to scout and gather more information upon arrival.
 - The group also discusses the possible dangers in Drankor, including the presence of plague mist and the magical towers known as the Teeth of Drankor, capable of striking attackers with lightning.
-- They recall that Apollyon's phylactery, a plain adamantine dagger, was last seen at the Temple of the Eight Divines in Drankor, and they plan to use various spells and abilities to search for it.
+- They recall that Apollyon's phylactery, a plain [[adamantine]] dagger, was last seen at the Temple of the Eight Divines in Drankor, and they plan to use various spells and abilities to search for it.
 - Faldrak sets a course towards Drankor, with the ship expected to reach land by nightfall.
 
 
