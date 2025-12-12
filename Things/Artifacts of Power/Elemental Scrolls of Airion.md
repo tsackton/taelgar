@@ -1,22 +1,19 @@
 ---
-tags: [item/equipment, status/stub, status/check/ai]
+headerVersion: 2023.11.25
+tags: [item]
+typeOf: scroll
 dm_owner: tim
 dm_notes: important
 ---
+# The Elemental Scrolls of Airion
+>[!info]+ Information  
+> (scroll)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
-# Elemental Scrolls of Airion
+The Elemental Scrolls of Airion are four legendary scrolls of elemental power crafted by the wizard [[Airion |Airion Mistspeaker]] before the [[Great War]], but lost amid the upheavals of the [[Blood Years]]. The four scrolls are known as the [[Flamekeeper Scroll]], the [[Stonemaster Scroll]], the [[Skyborn Scroll]], and the [[Deepwater Scroll]]. 
 
-The Elemental Scrolls of Airion are four legendary scrolls of elemental power crafted by the wizard [[Airion Mistspeaker|Airion]] before the [[Great War]]. Lost amid the upheavals of the [[Blood Years]], they became the subject of a long search by the [[Great Library]].
-
-The four scrolls are known as the [[Flamekeeper Scroll]], the [[Stonemaster Scroll]], the [[Skyborn Scroll]], and the [[Deepwater Scroll]]. In DR 1747, the adventurers later called the [[Silver Tempests]] recovered all four for Archivist [[Lyra]] of the Great Library, an exploit that first brought them renown.
-
-%%^Campaign:none%%
-
-## DM notes
-
-- The Great Library’s commission to the Silver Tempests began with known locations for the Flamekeeper and Stonemaster scrolls, while the Skyborn and Deepwater scrolls were missing.
-- The recovery of the full set formed the core of the Silver Tempests’ first major adventure.
-
+%%^Date:1747%%
+In DR 1747, they became the subject of a long search by the [[Great Library]]. A group of treasure seekers, who would later become known as the [[Silver Tempests]], were hired by [[Lyra|Archivist Lyra]] of the [[Great Library]] to recover these scrolls, from various locations associated with [[Airion]] in [[Greater Voltara]] and environs. They succeeded, and all four scrolls were returned to [[Chardon]] in the summer of DR 1747. 
 %%^End%%
 
-%% AI note: Expanded from [[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 1]], and [[People/PCs/Silver Tempests/Silver Tempests]]. %%
+%% Exactly what they do or why they are important was never decided. %%

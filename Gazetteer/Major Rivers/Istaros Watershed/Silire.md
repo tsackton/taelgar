@@ -1,12 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/stub
+tags: [place]
 typeOf: waterway
 whereabouts: Istaros Watershed
-aliases:
-  - Silírë
+aliases: [Silírë]
 name: Silírë
 dm_owner: none
 dm_notes: none
@@ -19,4 +16,4 @@ typeOfAlias: river
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% status tim for namecheck only; %%
+The Silírë is the easternmost of the three rivers that feed [[Lathirion Lake]]. Together with the [[Naithale|Naithalë]] and the [[Velasse|Velassë]], its waters form the [[Thalurien|Thalúrien]] downstream of the lake.
