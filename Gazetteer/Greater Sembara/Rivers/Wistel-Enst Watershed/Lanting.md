@@ -1,8 +1,18 @@
 ---
-tags:
-  - status/stub
-  - place
+headerVersion: 2023.11.25
+tags: [status/check/name, place]
+displayDefaults: {defArt: "the"}
+whereabouts:
+- {type: primary, location: Wisford, startFilter: "r"}
+- {type: secondary, location: Wistel-Enst Watershed, startFilter: "1"}
 typeOf: waterway
+typeOfAlias: river
+dm_notes: none
+dm_info: none
 ---
+# The Lanting
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% the Lanting (arises near the same spot as the [[Rindle]], flows north-east along the road and turns north-west to join just east of Gowerbourne) %% 
+The Lanting is a small tributary of the [[Wistel]], joining the river between [[Gowerbourne]] and [[Wisford]]. 
