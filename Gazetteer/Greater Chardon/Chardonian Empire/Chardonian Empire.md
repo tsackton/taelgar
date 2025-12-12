@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags:
   - place
   - status/stub
+  - status/check/ai
 aliases:
   - Chardonian
 name: Chardonian Empire
@@ -16,6 +17,21 @@ typeOfAlias: empire
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+The Chardonian Empire is a growing realm ruled from the city of [[Chardon]]. Its power rests on the legions, the city’s institutions of learning and magic, and the wealth of the [[chalyte]] trade.
+
+Chardonian historians often date the empire’s rise to the aftermath of the [[War of the Dark Rift]], when Chardon defeated the Shadow Armada and began to extend its authority over neighboring provinces and coasts.
+
+## Territories
+
+- [[Chardon]] (capital)
+- The Apporian Provinces of [[Portalia]], [[Cedrano]], and [[Raziolo]] (on [[Apporia|the Apporian Peninsula]])
+
+## Sources
+
+- [[Chardon]]
+- [[Apporia]]
+- [[Letter from Chardon for Samso on the Umbral Covenant]]
 
 %%needs tons of work, mostly can't pull from existing notes%%
 
@@ -45,5 +61,15 @@ dv.table(["Place", "Type Of"],
 				.sort(b => util.s("<maintype>", b.file))
 				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<maintype>", b.file)]))
 ```
+
+%%^End%%
+
+%%^Campaign:none%%
+
+## DM notes
+
+%% AI note: This page is intentionally conservative; a lot of existing empire-level detail lives in campaign and staging materials. %%
+
+%% DM sources: _DM_/Staging/Mitus Verina Auratan Revised; _DM_/_Dunmari Frontier/*; _DM_/Secret Worldbuilding/* %%
 
 %%^End%%
