@@ -1,21 +1,16 @@
 ---
-tags:
-  - status/stub
-  - place
-  - status/check/ai
+headerVersion: 2023.11.25
+tags: [place]
+displayDefaults: {defArt: "the"}
+typeOfAlias: river
 typeOf: waterway
+whereabouts:
+- {type: primary, location: Tyrwingha}
+- {type: secondary, location: Tyrwinghan Watershed, startFilter: "1"}
 ---
-
 # The Daran
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Daran is a small river of [[Tyrwingha]]. Rising in the [[Mostreve Hills]], it flows north to join the [[Aben]] upstream of [[Tafolwern]].
-
-%%^Campaign:none%%
-
-## DM notes
-
-- Coordinates (per [[Tyrwinghan Watershed]]): source 12.12.C.02; confluence with [[Aben]] 12.12.C.01.
-
-%%^End%%
-
-%% AI note: Expanded from existing vault sources: [[Tyrwinghan Watershed]], [[Aben]], [[Tyrwingha]], [[Tafolwern]]. %%

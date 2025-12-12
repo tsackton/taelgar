@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: "the"}
-name: Mill Brook (Roscombe)
+name: Mill Brook
 typeOf: waterway
 typeOfAlias: brook
 whereabouts: 
@@ -11,7 +11,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 ---
-# The Mill Brook (Roscombe)
+# The Mill Brook
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

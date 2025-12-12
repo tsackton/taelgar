@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/check/ai]
+tags: [place]
 typeOf: realm
 whereabouts: Borderlands
 pronunciation: ess-TREEV
@@ -21,13 +21,3 @@ The Barony of Estrive is one of the baronies of the [[Borderlands]], lying near 
 other than location, no real details exist; would almost certainly have been created post hobgoblin wars or at least occupied by hobgoblins during war 
 
 %%
-
-%%^Campaign:none%%
-
-## DM notes
-
-- No additional references found in `_DM_` or `_dm_notes`.
-
-%%^End%%
-
-%% AI note: Expanded from existing vault sources: [[Borderlands]], [[Lake Rin]]. %%
