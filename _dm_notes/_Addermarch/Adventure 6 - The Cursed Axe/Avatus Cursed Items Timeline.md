@@ -56,7 +56,7 @@ See above for elaborations
 - (DR:: 1715-04-30): On the road to Roscombe they convince Sir Gareth Howell to let them conceal the relic rather than surrender it to the Roscombe garrison (Campaigns/Addermarch Campaign/Addermarch - Session 02.md:29-30).
 - (DR:: 1715-05-01): Lady Elowen Duval hears their account, rewards them for garrison salvage, and insists they consult Owen Tavish before deciding the dagger’s fate (Campaigns/Addermarch Campaign/Addermarch - Session 02.md:31-32,80-83).
 - (DR:: 1715-05-02): Owen Tavish’s letter from the road warns them to keep the dagger secret until he returns from cleansing Einrik’s ghost, reinforcing the urgency of containment (Campaigns/Addermarch Campaign/Addermarch - Session 03.md:25-31).
-- (DR:: 1715-05-05 to 1715-05-06): Owen examines the dagger in Roscombe, recommends the alchemical fire Trueflame, and the party immediately commissions Caradoc to craft a dose (Campaigns/Addermarch Campaign/Addermarch - Session 04.md:26-29,57-60).
+- (DR:: 1715-05-05 to 1715-05-06): Owen examines the dagger in Roscombe, recommends the alchemical fire [[Trueflame]], and the party immediately commissions Caradoc to craft a dose (Campaigns/Addermarch Campaign/Addermarch - Session 04.md:26-29,57-60).
 - (DR:: 1715-05-08): After ransoming Caradoc’s glowing-poison recipe from goblins, they receive the prepared vial of Trueflame in Brantor (Campaigns/Addermarch Campaign/Addermarch - Session 05.md:26-28,55-57).
 - (DR:: 1715-05-09): Within the Temple of the Sibyl, Isolde secures the sanctum while Owen oversees the application of Trueflame that finally unmade the Serpentine Dagger (Campaigns/Addermarch Campaign/Addermarch - Session 05.md:28,57-58; People/Addermarians/Isolde of Roscombe.md:31-34).
 

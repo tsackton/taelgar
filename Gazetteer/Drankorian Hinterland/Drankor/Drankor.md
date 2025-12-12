@@ -1,8 +1,7 @@
 ---
 headerVersion: 2023.11.25
-whereabouts: Drankorian Empire
-tags:
-  - place
+whereabouts: Drankorian Hinterland
+tags: [place, status/incomplete]
 typeOf: settlement
 dm_notes: important
 dm_owner: tim

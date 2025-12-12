@@ -80,7 +80,7 @@ get past ogre with calm emotions
 
 Caradoc is pleased; the party has proven resourceful and skilled. Wonders if they are up for a more difficult challenge. 
 
-There grows deep beneath the ground, in the dark tunnels where sun never shines, a strange kind of living rock, that can be harvested and used in alchemical recipes. Called uligium (oo-lee-ghee-um) by the scholars of Chardon and in the ancient texts, it is rare, but can be recognized as it will slowly ooze and flow towards heat, especially fire. Tends to look like a whitish patch on a wall. Be wary, for it will (slowly) grow over the unawares, if you happen to fall asleep nearby!
+There grows deep beneath the ground, in the dark tunnels where sun never shines, a strange kind of living rock, that can be harvested and used in alchemical recipes. Called [[uligium]] (oo-lee-ghee-um) by the scholars of Chardon and in the ancient texts, it is rare, but can be recognized as it will slowly ooze and flow towards heat, especially fire. Tends to look like a whitish patch on a wall. Be wary, for it will (slowly) grow over the unawares, if you happen to fall asleep nearby!
 
 Will hand them three metal vials. Bring back as much as you can! Will pay 150 gold for each vial that you fill. Easiest way to harvest it is to pour some lamp oil in the bottom of a vial, and light it with a wick, and let the stone crawl into the flaming vial itself. 
 
