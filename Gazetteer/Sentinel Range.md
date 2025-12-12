@@ -1,21 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/cleanup/text
+tags: [place, status/cleanup/text]
 name: Sentinel Range
+diplayDefaults: {defArt: "the"}
 typeOf: topographical feature
-aliases:
-  - Sentinels
-  - Sentinel Mountains
-  - Indalas
-  - Labkhan
-  - Beredri
-  - Tushara
-whereabouts:
-  - type: home
-    location: Taelgar
-    linkText: in
+aliases: [Sentinels, Sentinel Mountains, Indalas, Labkhan, Beredri, Tushara]
+whereabouts: 
+- {type: home, location: Taelgar, linkText: in}
 dm_owner: none
 dm_notes: color
 typeOfAlias: mountain range
