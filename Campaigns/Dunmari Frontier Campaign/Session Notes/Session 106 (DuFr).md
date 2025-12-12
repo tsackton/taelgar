@@ -17,7 +17,7 @@ descTitle: The Eldest Tree's Awakening
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]]*
 > *In Taelgar: May 16, 1749 DR to May 18, 1749 DR*
 > *On Earth: Thursday Sep 12, 2024*
-> *The [[Awakened Jungle]] and a [[~Circular Island~|mysterious island]]*
+> *The [[Awakened Jungle]] and a [[Circular Island|mysterious island]]*
 
 The Dunmar Fellowship battles corruption at the Eldest tree and navigates a tumultuous storm to reach a mysterious island.
 ## Session Info
@@ -35,7 +35,7 @@ The Dunmar Fellowship battles corruption at the Eldest tree and navigates a tumu
 - (DR:: 1749-05-16), night: The Eldest tree awakens and communicates with the party.
 - (DR:: 1749-05-17), morning: The party speaks to the Eldest tree, learning about the monkeys and the flying lizards. The party meets the coastal monkeys and learns about the jade's possible location in the [[Sea of Storms]]. On [[Vindristjarna]], the party flies into the [[Sea of Storms]].
 - (DR:: 1749-05-17), evening: The party encounters the massive storm at sea and decides to rest for the night.
-- (DR:: 1749-05-18) morning: The party attempts and fails to explore underwater to bypass the storm; Milo volunteers to sail through the storm with the party in the folding boat. Despite damage to the boat, the party arrives at the [[~Circular Island~]].
+- (DR:: 1749-05-18) morning: The party attempts and fails to explore underwater to bypass the storm; Milo volunteers to sail through the storm with the party in the folding boat. Despite damage to the boat, the party arrives at the [[Circular Island]].
 ## Narrative
 On the evening of (DR:: 1749-05-16), the party confronted the corrupted Eldest tree, a once mighty sentinel of the jungle now ensnared in thorny, writhing vines. The air was eerily silent, with none of the usual sounds of the jungle life [[Pip]] the bat had described. As the group approached, the vines suddenly attacked, lashing out at them with surprising speed. [[Wellby]] scouted and found a pulsing knot at the vine's center, which seemed to serve as its core. [[Kenzo]] fought fiercely to sever the vines that had entangled [[Seeker]], and [[Delwath]] used radiant magic to burn away sections of the corrupted plant. After a prolonged battle, [[Kenzo]] managed to destroy the central knot, causing the vines to retreat, leaving behind the scarred but still-standing Eldest tree.
 

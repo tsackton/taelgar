@@ -16,7 +16,7 @@ descTitle: Assault on Apollyon's Tower
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]]*
 > *In Taelgar: May 19, 1749 DR*
 > *On Earth: Friday Sep 27, 2024*
-> *[[Apollyon's Tower]] on the [[~Circular Island~]] *
+> *[[Apollyon's Tower]] on the [[Circular Island]] *
 
 The [[Dunmar Fellowship]] infiltrates [[Apollyon's tower]], uncovers its secrets, and returns with valuable treasures and knowledge.
 ## Session Info
@@ -31,7 +31,7 @@ The [[Dunmar Fellowship]] infiltrates [[Apollyon's tower]], uncovers its secrets
 - They gather treasures and return to [[Dimitaur]], who destroys the necromancy book.
 
 ### Timeline
-- (DR:: 1749-05-19), morning: Depart west for [[Apollyon's tower]] across the [[~Circular Island~]]
+- (DR:: 1749-05-19), morning: Depart west for [[Apollyon's tower]] across the [[Circular Island]]
 - (DR:: 1749-05-19), noon: Reach [[Apollyon's tower]] as ospreys; fight constructs
 -  (DR:: 1749-05-19), afternoon: Explore [[Apollyon's tower]]; find lich chamber; destroy undead in the grand hall
 -  (DR:: 1749-05-19), evening: Find Apollyon's forge, destroy void sword protecting it. Load Apollyon's throne into Portable Hole, along with [[Apollyon's Tower Treasure]]. Teleport back to [[Dimitaur]] at the summit of the mountain.  
@@ -138,7 +138,7 @@ The party prepares to leave [[Apollyon's tower]], making important decisions abo
 - The party rests, preparing to plan their approach to [[Ra'ghemdros]] in the morning. 
 
 ## Raw Notes
-- Kenzo senses area again; party decides to go west to Apollyon's Tower
+- Kenzo senses area again; party decides to go west to [[Apollyon's Tower]]
 - use Animals Shapes to turn into ospreys
 - fly to tower; attacked by constructs at the top, fall out of osprey form
 - land at top of tower; constructs surprise, wellby + kenzo still get the jump; party flees into lich chamber

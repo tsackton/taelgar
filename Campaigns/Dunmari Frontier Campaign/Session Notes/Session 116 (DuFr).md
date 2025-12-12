@@ -18,7 +18,7 @@ descTitle: Battle for the Crown
 > *On Earth: Wednesday Jan 01, 2025*
 > *[[Drankor]]*
 
-The Dunmar Fellowship battles Fausto in Drankor, claims the Crown of Purity, and enters Apollyon's temple. 
+The Dunmar Fellowship battles Fausto in Drankor, claims the Crown of Purity, and enters [[Apollyon's temple]]. 
 ## Session Info
 
 ***Character advancement: the party reaches level 16***
@@ -31,7 +31,7 @@ The Dunmar Fellowship battles Fausto in Drankor, claims the Crown of Purity, and
 
 ### Timeline
 - (DR:: 1749-05-24), midday: Fight [[People/Chardonians/Fausto|Fausto]] and his allies. Take the [[Crown of Purity]] and defeat Fausto. Debate morality of the crown.
-- (DR:: 1749-05-24), early afternoon: Travel to Apollyon's temple. Fly over the red mist, enter. Face off against Apollyon, who flees after killing [[Delwath]] with a word. 
+- (DR:: 1749-05-24), early afternoon: Travel to [[Apollyon's temple]]. Fly over the red mist, enter. Face off against Apollyon, who flees after killing [[Delwath]] with a word. 
 ## Narrative
 
 We begin as the party teleports to the [[Temple of the Eight Divines]] in [[Drankor]], where [[People/Chardonians/Fausto|Fausto]] and his allies, a [[chalyte]] knight and seven Chardonian war wizards, unexpected await the party, poised for battle. The tension is palpable as the confrontation begins. [[Kenzo]]’s _Soul Sight_ reveals [[People/Chardonians/Fausto|Fausto]]’s enhanced power, emanating from the sinister [[Crown of Purity]] upon his head. Magical tendrils extend from the crown to various points, including into the [[Mirror of Soul Trapping]] and the chalyte knight. [[Kenzo]] wastes no time, unleashing a _Fireball_ from the Necklace of Fireballs, damaging [[People/Chardonians/Fausto|Fausto]] and the war wizards but failing to kill them.
