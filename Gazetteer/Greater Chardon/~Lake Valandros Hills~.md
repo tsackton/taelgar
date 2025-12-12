@@ -10,16 +10,16 @@ typeOf: topographical feature
 
 # The ~Lake Valandros Hills~
 
-The Lake Valandros Hills are the hills west of [[Lake Valandros]]. Several small rivers are described as rising in these hills and flowing west to the [[Endless Ocean]] along the [[~North Chardon Coast~]].
+The Lake Valandros Hills are the hills west of [[Lake Valandros]]. Several small rivers are described as rising in these hills and flowing west to the [[Endless Ocean]] along the [[Coastlands]].
 
 ## Sources
 
 - [[Lake Valandros]]
-- [[~North Chardon Coast~]]
-- [[~North Coast River 1~]]
-- [[~North Coast River 2~]]
-- [[~North Coast River 3~]]
-- [[~North Coast River 4~]]
+- [[Coastlands]]
+- [[Breakrock]]
+- [[Corvessa]]
+- [[Sevros]]
+- [[Zar]]
 
 %% the hills west of [[Lake Valandros]] %%
 

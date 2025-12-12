@@ -37,7 +37,7 @@ Once the Enst and the Wistel join, the river becomes a marshy delta with many me
 
 [[Wistel]]
 source (Sentinels): 12.10.A02
-end (ocean): 12.11.G..10
+end (ocean): 12.11.G.10
 
 [[Bollin]]
 source (Sentinels): 11.10.A.14

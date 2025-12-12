@@ -78,11 +78,11 @@ The Shattered Ice clan joins the Conclave War, but for whatever (as yet undeterm
 About a generation later, they launch the [[First Hobgoblin War (Sembara)]], and over the next 100 years conquer and then lose a bunch of territory in [[Greater Sembara]], (cf [[Timeline of Sembaran History#The Hobgoblin Wars]]). At the conclusion of the [[Third Hobgoblin War (Sembara)]], the Shattered Ice clan is functionally destroyed, although isolated hobgoblin raiding groups survive in the lower slopes of the Sentinels. 
 
 ### Western Split
-_[[~North Chardon Coast~]] Conquest, 1550s - 1650s_
+_[[Coastlands]] Conquest, 1550s - 1650s_
 
-On part of the northern army - potentially more interested in a place to live and conquest than revenge or destruction - appears on the North Chardon Coast in the 1550s. They methodically conquer the [[~North Chardon Coast~]] over the next several years (exact timeframe is unclear but likely a relatively quick push south, perhaps over just a year or so). This force is stopped by a Chardonian army somewhere not to far from Chardon, and then a stalemate occurs. 
+On part of the northern army - potentially more interested in a place to live and conquest than revenge or destruction - appears on the North Chardon Coast in the 1550s. They methodically conquer the [[Coastlands]] over the next several years (exact timeframe is unclear but likely a relatively quick push south, perhaps over just a year or so). This force is stopped by a Chardonian army somewhere not to far from Chardon, and then a stalemate occurs. 
 
-For the next 30 - 50 years, these western hobgoblins rule over a [[~North Chardon Coast~]] realm. Sometime after the [[War of the Dark Rift]], Chardon turns north and methodically eliminates these hobgoblins.
+For the next 30 - 50 years, these western hobgoblins rule over a [[Coastlands]] realm. Sometime after the [[War of the Dark Rift]], Chardon turns north and methodically eliminates these hobgoblins.
 
 Open questions:
 * How did they get to the north coast? Presumably some type of magic sailing option, but other ideas could be Cha'mutte's armbands/teleport stuff

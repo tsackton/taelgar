@@ -1,13 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+tags: [place]
 displayDefaults:
-  wCurrent: Controlled by <current:1>
+  wSecondary: Controlled by <secondary:1>
 typeOf: marine feature
-whereabouts: Endless Ocean
+whereabouts: 
+- {type: primary, location: Endless Ocean}
+- {type: secondary, location: Chardonian Empire}
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 typeOfAlias: gulf
 ---
 # The Gulf of Chardon

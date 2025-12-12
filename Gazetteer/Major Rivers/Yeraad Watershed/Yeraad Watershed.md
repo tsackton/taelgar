@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-whereabouts: Chardonian Empire
+whereabouts: Greater Chardon
 typeOf: watershed
 dm_owner: tim
 dm_notes: important
