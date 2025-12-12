@@ -1,55 +1,35 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment, status/stub, status/check/ai]
+tags: [item]
 typeOf: crown
+subTypeOf: magical
+rarity: artifact
 created: 1
-whereabouts:
-  - type: home
-    location: Apollyon
-  - type: home
-    location: Fausto
+whereabouts: 
+- {type: home, end: 1, location: unknown}
+- {type: home, end: 1059, location: Apollyon}
+- {type: home, end: 1749-05-24, location: Fausto}
+- {type: home, start: 1749-05-24, end: 9999, location: Riswynn}
 dm_owner: tim
 dm_notes: important
 ---
 # The Crown of Purity
 >[!info]+ Information  
-> (crown)  
+> (artifact magical crown)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-One of the relics of Apollyon. Now possessed by Fausto, and used to enslave and mind control troublemakers. 
+The Crown of Purity is an ancient and immensely powerful relic, rumored to be created from a fragment of reality during the [[Riving]], whose form shifts to match its bearer. In the last days of the [[Drankorian Empire]], it was part of Apollyon’s imperial regalia and a focus for his dominion over the people of [[Drankor]]. After his fall it passed out of sight, resurfacing centuries later in [[Chardon]].
 
-The Crown of Purity is an ancient relic whose form shifts to match its bearer. In the days of the [[Drankorian Empire]], it was part of Apollyon’s imperial regalia and a focus for his dominion over the people of [[Drankor]]. After his fall it passed out of sight, resurfacing centuries later in [[Chardon]].
+In modern times the cult known as [[The Cleansed]] used the crown to enthrall and command those they deemed impure, including forcing numerous [[Chardonian Empire|Chardonians]] to serve [[Fausto]]. When claimed by [[Riswynn]] in DR 1749, its magic shifted and its appearance changed again, reflecting a new bearer and purpose.
 
-In modern times the cult known as [[The Cleansed]] used the crown to enthrall and command those they deemed impure, including forcing several Chardonian allies to serve [[Fausto]]. When claimed by [[Riswynn]] in DR 1749, its magic quieted and its appearance changed again, reflecting a new bearer and purpose.
 
-%%
-The mask is sitting on a table, next to a black crown, seemingly made of some kind of matte black iron with dark gems, black pearls or opal of some kind, set in the points. A faint dark smoke seems to be seeping from the crown.
 
-a black crown made of some kind of matte, black iron, with 4 dark dark gems
-%%
+%%SECRET[1]%%SECRET` block and `_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/The Relics of Apollyon.md` describe the crown as “constructed by Apollyon” as part of a suite of relics tied to “Hkaran purity” and/or manipulation of the divine spark of humanity.
+- **Dating conflict:** `_DM_/Timelines/Cloak of Rainbows Timeline.md` includes “(DR::1058): apollyon constructs Crown of Purity”, which conflicts with the “created: 1” frontmatter here and the Riving-era origin in the mirror vision.
 
-%%SECRET[1]%%
-
-%% AI note: Expanded from [[Groups/The Cleansed]], [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Crown of Purity Vision]], and [[Campaigns/Dunmari Frontier Campaign/Dunmar Fellowship Associates]]. %%
-
-%%^Campaign:none%%
-
-## DM notes
-
-### At-a-glance
-
-- **Current campaign state (DuFr, DR 1749):** Although this note’s lead text says “Now possessed by Fausto”, campaign notes indicate the crown was taken from Fausto and subsequently worn by [[Riswynn]] (see [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 117 (DuFr)|Session 117]], [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 124 (DuFr)|Session 124]], and [[Campaigns/Dunmari Frontier Campaign/Party Treasure|Party Treasure]]).
-- **Primary antagonist tie-in:** The crown is consistently treated as one of Apollyon’s key relics and a major tool used by [[The Cleansed]] to enthrall targets (see [[People/Chardonians/Fausto]], [[Groups/The Cleansed]], and `_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/The Relics of Apollyon.md`).
-
-### Origin and timeline (with inconsistencies)
-
-This vault contains multiple overlapping origin stories:
-
-- **Riving-era relic:** The [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Crown of Purity Vision|Mirror of the Past vision]] presents the crown as a fragment of primordial power formed during the Riving (“something was caught when the world was pulled apart … curled itself into a circlet”), pre-dating humanity.
-- **Downfall War use on Hkar:** The same vision shows the crown used by priests of the Eight Divines to animate/raise a walking island as Hkar faced invasion; this matches a note in [[Gods and Religions/Religions/Mos Numena/Mos Numena]] describing the crown being used during the Downfall War to create/animate/summon a massive walking island refuge for Hkar’s population.
-- **Apollyon-built artifact:** This note’s existing `%%SECRET[2]%% Open question for review: decide whether Apollyon *created* the crown outright, or *recovered/repurposed* a much older Riving-era circlet into the Crown of Purity as imperial regalia. Current notes support both framings. %%
+Open question for review: decide whether Apollyon *created* the crown outright, or *recovered/repurposed* a much older Riving-era circlet into the Crown of Purity as imperial regalia. Current notes support both framings.
 
 ### Known manifestations and “forms”
 
@@ -61,14 +41,14 @@ The crown is repeatedly described as a chameleon-like relic that changes shape t
 - **Fausto-era table description (in this note):** matte black iron with dark gems; faint dark smoke seeping.
 - **Riswynn-era form:** The vision shows the crown as silver with ruby insets, seven points, dwarven runes and hammer motifs, once it is removed from the Portable Hole and shown to the mirror (see [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Crown of Purity Vision|Crown of Purity Vision]]).
 
-%% Potential continuity note: the vision depicts the crown “shattering” when thrown during Apollyon’s fall; later scenes still show it as an intact wearable crown. Treat “shattering” as symbolic/vision logic unless/until clarified. %%
+Potential continuity note: the vision depicts the crown “shattering” when thrown during Apollyon’s fall; later scenes still show it as an intact wearable crown. Treat “shattering” as symbolic/vision logic unless/until clarified.
 
 ### What the crown does (as currently written across notes)
 
 The crown is consistently tied to coercion/identity-magic, plus additional “amplifier” effects:
 
 - **Mass dominion / enthrallment:** The crown is presented as the focus by which Apollyon controlled thousands in Drankor (vision), and in modern times as the tool used by [[The Cleansed]] to enthrall “impure” targets (this note; [[Groups/The Cleansed]]).
-- **Cleansed initiation / “purification”:** `_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/The Relics of Apollyon.md` frames the crown as a centerpiece of Cleansed initiation rituals; this is consistent with this note’s `%%SECRET[3]%%SECRET` chronology; campaign summary notes say she was mind controlled using the crown (see [[Campaigns/Dunmari Frontier Campaign/Dunmar Fellowship Associates]]).
+- **Cleansed initiation / “purification”:** `_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/The Relics of Apollyon.md` frames the crown as a centerpiece of Cleansed initiation rituals; this is consistent with this note’s `%%SECRET[2]%%SECRET` chronology; campaign summary notes say she was mind controlled using the crown (see [[Campaigns/Dunmari Frontier Campaign/Dunmar Fellowship Associates]]).
 - [[People/Chardonians/Amelia]]: controlled by Fausto using the crown; left mentally adrift when control was broken.
 - Chardonian officials/oligarch-adjacent bureaucrats: campaign notes describe multiple “mind-broken” bureaucrats formerly controlled by Fausto, and a list of affected citizens obtained when Kenzo briefly controlled the crown (see [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 126 (DuFr)|Session 126]]).
 
@@ -96,4 +76,4 @@ Multiple DM and campaign notes treat the crown as one of several linked Apollyon
 - `_DM_/Timelines/Apollyon Endgame Timeline.md` and `_DM_/Timelines/Cloak of Rainbows Timeline.md` include additional DM chronology hooks involving the crown.
 - `History/Background/Historical Framework.md` contains a note that the Riving (or its aftermath) created powerful artifacts “most notably the Crown of Purity and the Heartroot.”
 
-%%^End%%
+%%
