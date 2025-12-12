@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/mike]
+tags: [place]
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
 dm_owner: tim
@@ -10,8 +10,6 @@ dm_notes: important
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% rewrite in the "halfling style", fill in a few additional details %%
 
 Even among the halflings, few reliable tales come from the northern reaches of the great [[Sentinel Range]]. This is a wild and unpeopled land, haunted by the scars of the [[Great War]], and spoken of uncertainly, in hushed tones even among the adventurous. What stories do drift south speak of vast pine forests, uninhabitable bogs, and the tall mountain peaks of the [[Sentinel Range#Northern Sentinels|northern Sentinels]], painting a picture of a rugged and beautiful, but inhospitable and dangerous, landscape. 
 
@@ -38,8 +36,6 @@ markerTag: location-source
 
 ## Topography and Major Features
 
-%% _See more: [[Sentinel Range#Northern Sentinels|North Sentinels]]_  I'm not sure the North Sentinels section of the Sentinels is useful as a see more.  There is almost nothing there, and it seems more sensible to repeat it here. %%
-
 Even among the halflings, few have dared to map this region, nestled on the west side of the [[Sentinel Range]], and even among the most daring traders, few find profit traveling these dangerous lands. Much of the region dominated by the northern [[Sentinel Range|Sentinels]] and the forests and rivers on their western slopes, making travel slope and difficult. The mountains themselves are snowy and rocky, with the highest peaks cold and frozen year round. 
 
 The information reported here largely derives from the [[Northern Tribes|scattered human tribes]] in the area speak of the dangerous forests and swamps:
@@ -53,8 +49,6 @@ There are two major river systems that originate in this region:
 - The [[K'eye]] in the local language, and translated by halflings as the Red River, flows from the [[Sentinel Range|Sentinels]] to the [[~North Bay~]]. 
 - The [[Nahadi]] in the local language, and translated by halflings at the Great River, flows from its origins in the [[Blackwater Fens]] south to [[Lake Valandros]] and beyond. %% see note in Nahadi page about naming %%
 ## Civilizations and Cultures
-
-%% *See more: [[Northern Tribes]]* I wouldn't actually put this as "see more" - it is immediately linked below. I tend to think of the see more pages as expanded overviews more than links to highlight. %%
 
 There are few humans in this region, although the [[Northern Tribes|northern Deno'qai tribes]] make their home here. The dwarven kingdom of [[Fahnukan]] lies beneath the northern Sentinels, and [[Stoneborn|stoneborn]] are known to live in the highlands and foothills of the [[Sentinel Range|Sentinels]].
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [species, status/check/mike]
+tags: [species]
 name: Hobgoblins
 aliases: [hobgoblin, hobgoblins, Hobgoblin]
 dm_owner: joint
@@ -9,7 +9,6 @@ dm_notes: none
 # Hobgoblins
 
 For most people in the modern day, hobgoblins are associated with the thud of iron-shod boots marching in lockstep; perfect, disciplined ranks of pikes; the ashy burning smell of fire sorcerers in the aftermath of battle. They formed the backbone of the armies of Cha'mutte during the Great War, and in the years since have remained a significant and often implacable enemy of many human (and other) realms. News of hobgoblin armies brings terror to cities and towns, for stories speak of their grim habit of turning captured towns into brutal work-camps, or worse. Among priests, theologians, and theological cosmologists, it is claimed that hobgoblins have no soul, no connection to any of [[Divine Realms]], and indeed many suspect that they actively repel the [[Divine Presence]] and its creations. 
-
 ## Appearance
 
 Hobgoblins are often large and imposing, tending to be slightly larger and more muscular than humans, though with a large variation. Most hobgoblins have prominent fangs, ears, and brow ridges, and many have short horns protruding from their upper foreheads. A variety of reddish skin tones, red or golden eyes, and black hair is common. 
@@ -22,9 +21,7 @@ Most hobgoblins speak a common creole, derived from the language of Cha'mutte's 
 
 %% possibly there are clan-tongues too, or even a complex language history like humans, but this (a) not canonical, and (b) probably too complicated to develop. %%
 
-
 %%^Campaign:None%%
-
 Katonylev is based on Hungarian, which is an Uralic language most closely related to Finnish. In general any kind of consonant heavy names that feel vaguely "harsh" likely work, but names that feel very obviously Slavic should probably be avoided. Other hobgoblin languages may have diverse real world mappings, and it is possible for names to be in languages other than Goblin or retain aspects of clan-tongues, providing an easy way to explain / contextualize diverse hobgoblin names if needed. 
 %%^End%%
 ## Lifecycle
@@ -63,6 +60,7 @@ Much of the decades after the [[Great War]], however, were defined by hobgoblin 
 - What is the nature of hobgoblin clans, exactly? Are these best thought of as nations, as armies, as something else? 
 - How are clans lead? Several canonical clans span far greater lengths than is plausible for a single leader; presumably leadership various somewhat from group to group, but really no details are developed. 
 - What are the impacts of hobgoblins unique metaphysics? Are hobgoblins strictly an "enemy species" or are neutral hobgoblins possible? How much of the current day attitude of hobgoblins is a consequence of the Great War and its aftermath? A possible aspect of this is slavery has been vaguely established as a uniquely hobgoblin institution. 
+- Are there any substantial hobgoblin realms remaining? Where would major hobgoblin armies come from in the modern era, or did the ending of the last phase of the hobgoblin wars mostly defeat the last of the major hobgoblin armies?
 
 ### Hobgoblins in Play
 - While hobgoblins can potentially appear in any open unsettled space on the fringes of society, or in the wilderness, some care should be given to hobgoblin populations as they are typically organized and have purpose. A random orc horde can emerge from the hills and attack a town; a hobgoblin army doesn't just appear for no reason.
