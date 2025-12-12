@@ -15,3 +15,5 @@ dm_owner: tim
 A stoneborn hermit living somewhere on the coast of [[Cedrano]], known for his skill in alchemy and attunement to the ocean. 
 
 ![[kazuro-portrait.png]]
+
+%%SECRET[1]%%

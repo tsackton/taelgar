@@ -1,28 +1,17 @@
 ---
-tags:
-  - status/stub
-  - place
-  - status/check/ai
-dm_owner: tim
-dm_notes: color
+headerVersion: 2023.11.25
+tags: [place]
+dm_owner: none
+dm_notes: none
 typeOf: marine feature
+whereabouts: Nevos Sea
+typeOfAlias: bay
 ---
-# Emerald Bay
+# The Emerald Bay
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Emerald Bay is a broad bay on the [[Nevos Sea]] side of [[Apporia|the Apporian Peninsula]]. The [[Yeraad]] reaches the sea here, and the southern entrance to the [[Old Chardon Canal]] opens onto the bay near [[Pergia]].
+Emerald Bay is a broad bay in the [[Nevos Sea]], south of [[Apporia|the Apporian Peninsula]]. The [[Yeraad]] reaches the sea here, and the southern entrance to the [[Old Chardon Canal]] opens onto the bay near [[Pergia]].
 
-## Sources
-
-- [[Apporia]]
-- [[Old Chardon Canal]]
-- [[Yeraad]]
-
-%%^Campaign:none%%
-
-## DM notes
-
-%% AI note: No clearly relevant `%%SECRET[1]%%
-
-%% DM sources: _DM_/Secret Worldbuilding/Language and Culture From OneNote; _DM_/Secret Worldbuilding/Dunmar Notes %%
-
-%%^End%%
+This area is dotted with small islands, and has significant merchant traffic. 

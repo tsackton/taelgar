@@ -86,7 +86,7 @@ Crucially, **this part is _not_ the Patron’s doing**:
 - They pry up more stones (now loosened by the winter), break into the shallow officer’s grave / collapsed shelter:
     - bones, some rusted gear,
     - a small coffer with **old Sembaran royal silver**,
-    - and the **serpentine dagger** that once belonged to the lieutenant.
+    - and the **[[serpentine dagger]]** that once belonged to the lieutenant.
 
 From there your existing chronology proceeds:
 

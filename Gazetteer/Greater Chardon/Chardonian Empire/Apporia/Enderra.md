@@ -1,28 +1,25 @@
 ---
-tags:
-  - status/stub
-  - place
-  - status/check/ai
+headerVersion: 2023.11.25
+tags: [place]
 dm_owner: tim
 dm_notes: important
 typeOf: realm
+typeOfAlias: lost realm
+whereabouts: Apporia
 ---
 # Enderra
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Enderra is remembered in the histories of [[Apporia|the Apporian Peninsula]] as a dwarven and stoneborn realm in the interior mountains. It was destroyed during the [[War of the Dark Rift]].
-
-Surviving accounts of Enderra focus largely on its fall, and on the emergence of the [[Umbral Covenant]] in the wars that followed.
-
-## Sources
-
-- [[Apporia]]
-- [[Letter from Chardon for Samso on the Umbral Covenant]]
+Enderra a stoneborn realm that once existed in the interior mountains of the [[Apporia|Apporian Peninsula]]. It was destroyed during the [[War of the Dark Rift]].
 
 %%^Campaign:none%%
 
-## DM notes
+Important in Great Library Arc 5
+[[Kazuro]] backstory has some relevant information as well.
 
-- `_dm_notes/_Great Library/Arc 5 - Umbral Convenant/*` includes rumors tying the Umbral Covenant to Enderra and speculation about how the conflict began.
-- `_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 99 - DM Notes` includes Enderra-related backstory (including Kazuro) and an outline for the war’s origin.
+Unclear if this refers to the mountains, the stoneborn realm, or both. Unclear if any stoneborn still live there. 
+There was also a dwarven kingdom beneath the mountains. Its fate is not decided but likely largely destroyed. 
 
 %%^End%%
