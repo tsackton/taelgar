@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place, status/stub, status/check/ai]
 name: Teft Watershed
 typeOf: watershed
 whereabouts:
@@ -13,10 +13,18 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+The Teft watershed drains the northern marches of [[Sembara]] into the [[Western Gulf]]. Its principal river, the [[Teft]], gathers swift mountain waters from the [[Sentinel Range|Sentinels]]—including the [[Berze|Bērze]] and the [[Vilna]]—before plunging through the [[Great Chasm]] on its way to the sea north of [[Embry]].
+
+Long treated as a natural border, the Teft and its ravines mark a cultural divide between the Sembaran [[Heartlands]] and the [[Northlands]].
+
 
 %%^Campaign:none%%
 
-Mapped Rivers of the Teft Watershed:
+## DM notes
+
+### Mapped rivers
+
+Mapped rivers of the Teft Watershed:
 
 [[Teft]]: 
 source: 10.10.B18
@@ -51,5 +59,10 @@ There is probably at least two missing rivers:
 Approximately source (Braebin): 10.11.I.03, end (Teft): 11.11.H.05
 Approximately source (Sembara): 11.11.E.14 end (Teft): 11.11.H.10
 
+### Notes from `_dm_notes`
+
+- `_dm_notes/_Into the Chasm/Into the Chasm Intros.md` frames the [[Great Chasm]] as a place of strange storms and inexplicable ruins; consider this as adventure tone for the upper Teft.
 
 %%^End%%
+
+%% AI note: Expanded from existing vault sources: [[Teft]], [[Berze]], [[Vilna]], [[Great Chasm]], [[Western Gulf]], [[Embry]], [[Heartlands]], [[Northlands]]. DM-only references checked: `_dm_notes/_Into the Chasm/Into the Chasm Intros.md` (Great Chasm campaign framing). %%
