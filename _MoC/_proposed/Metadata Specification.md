@@ -1,6 +1,3 @@
----
-tags: [status/check/mike]
----
 # Metadata Specification
 
 This note summarizes the metadata specification for YAML frontmatter. 
@@ -16,17 +13,17 @@ This note summarizes the metadata specification for YAML frontmatter.
 - `name`: Canonical page name used by display code. If omitted, the file name is used. 
 - `aliases`: List of alternate names for the subject, including accented forms and alternate identities. Used primarily in link resolution.
 - `pronunciation`: Human‑readable pronunciation guide (e.g. `yoo-VAHN-tee`). 
-- `image`: Lead image filename (and optionally path) associated with the page (e.g. `egnir-small.png`). Currently not really used but potentially useful for auto-generated tables in the future. 
+- `image`: Lead image filename (and optionally path) associated with the page (e.g. `egnir-small.png`). Not used by any core header generation functions but very useful in data view tables, i.e. of items.
 
 ### Classification and Type Fields
 
 - `typeOf`: Primary type classification for the page (e.g. `settlement`, `region`, `war`, `mirror`, `mystery cult`, `skyship`). Required for many descriptive tags and used by header scripts and dataview queries. Controlled vocabulary; see: [[Note Categorization]].
-- `species`: Species of a person or creature (e.g. `human`, `elf`, `orc`). Used as an alias for typeOf on `person` pages. See: [[Note Categorization]].
+- `species`: Species of a person or creature (e.g. `human`, `elf`, `orc`). Used as an alias for typeOf on `person` pages. This should usually match the name or an alias of a creature page, and will generate a link in the header if it matches. See: [[Note Categorization]].
 - `typeOfAlias`: Human‑friendly display string for `typeOf` (e.g. “mountain range”, “city”). Free text, not controlled. Used to provide more specific and more useful header text than a plain `typeOf` value. See: [[Note Categorization]].
 - `subTypeOf`: Secondary type classifier. *Potentially obsolete, and used inconsistently; avoid adding new for now*. See: [[Note Categorization]].
 - `subspecies`: Alias for subTypeOf used on person pages. *Potentially obsolete, and used inconsistently across pages; avoid adding new for now.* See: [[Note Categorization]].
 - `speciesAlias`: Alias for typeOfAlias used on person pages. *Potentially obsolete, and used inconsistently across pages; avoid adding new for now.* See: [[Note Categorization]].
-- `ancestry`:Cultural or ancestry descriptor (e.g. `Chardonian`, `Sembaran`, `Dunmari`, `Dwarven`). Can potentially be used on any note. See: [[Note Categorization]].
+- `ancestry`:Cultural or ancestry descriptor (e.g. `Chardonian`, `Sembaran`, `Dunmari`, `Dwarven`). Can potentially be used on any note. This should usually match the name or alias of a culture or realm page, and will generate a link in the header if it matches. See: [[Note Categorization]].
 - `deity`: On religious organization pages, the associated deity (e.g. `Laka`, `Bhishma`). Typically matches the name of a deity page. ***Warning: possibly obsolete / will likely be depreciated.**
 
 ### Temporal and Chronology Fields
@@ -34,7 +31,7 @@ This note summarizes the metadata specification for YAML frontmatter.
 See: [[Metadata Specification#Date Formats|Date Formats]]
 
 - `born` / `created`: Start date for a person, organization, place, or item. Typically in DR as `YYYY`, `YYYY‑MM`, or `YYYY‑MM‑DD`. Synonyms and treated the same way in code. `born` is used for person notes, `created` for other notes. 
-- `died` / `destroyed`: End date for a person, organization, place, or item. Same date formats as `born`/`created`. Synonyms and treated the same way in code. `died` is used for person notes, `destroyed` for other notes. 
+- `died` / `destroyed`: End date for a person, organization, place, or item. Same date formats as `born`/`created`. Synonyms and treated the same way in code. `died` is used for person notes, `destroyed` for other notes. Note that a died of 0001 can be used to indicate "died at a unknown but long ago date"
 - `DR`: Primary in‑world date for an event or session. Typically `YYYY`, `YYYY‑MM`, or `YYYY‑MM‑DD` in Drankorian Reckoning.
 - `DR_end`: End date for a DR range, used when the event or session spans multiple days. Same date format as DR. 
 - `realWorldDate`: Real‑world date a session was played, in `YYYY‑MM‑DD` form.
@@ -47,7 +44,7 @@ For person pages, for additional display/identity information:
 - `title`: In‑world title or honorific (e.g. `Queen`, `High King`, `Captain`). Combined with `name` to produce a full name; see [[Display Control]].
 - `gender`: Textual gender marker. Common values are `male`, `female`, or other strings; header scripts derive default pronouns from this.
 - `pronouns`: Explicit pronoun string when the default from `gender` is not appropriate.
-- `ka`: Numeric “ka” value, used for elves to indicate their cycle/generation (see `Elven Cycle of Generations`). Only appears on elven character notes.
+- `ka`: Numeric “ka” value, used for elves to indicate their cycle/generation (see [[Elven Cycle of Generations]]). Only appears on elven character notes.
 
 For PC pages:
 - `player`: Real‑world player name on PC notes (e.g. `player: Chris Kelly`).
@@ -454,12 +451,12 @@ campaignInfo:
 
 ## Date Formats
 
-Date handling is centralized in `DateManager`. Currently, most dates are assumed to be DR dates, input as number or strings, in `YYYY`, `YYYY-MM`, or `YYYY-MM-DD` formats. Some legacy code works with FantasyCalendar style dates in { year, month, day} format as well. There is the potential for `DateManager` to handle non-DR dates, but this is not yet implemented cleanly. 
+Date handling is centralized in `DateManager`. Currently, most dates are assumed to be DR dates, input as number or strings, in `YYYY`, `YYYY-MM`, or `YYYY-MM-DD` formats.  There is the potential for `DateManager` to handle non-DR dates, but this is not yet implemented cleanly. 
 
-Normalization: `normalizeDate(value, isEnd)` returns `{display, sort, year, days, isHiddenDate}` using DR as the base calendar. Numeric years default to Jan 1 for starts and Dec 31 for ends; month-level strings default to the last day of the month for starts and the first day for ends; quoted year strings may have unpredictable behavior, so prefer unquoted numbers for plain years. Sentinel years `0001`/`9999` are hidden but usable for ranges; see below. 
+Normalization: `normalizeDate(value, isEnd)` returns `{display, sort, year, days, isHiddenDate}` using DR as the base calendar. Numeric years default to Jan 1 for starts and Dec 31 for ends; month-level strings default to the last day of the month for starts and the first day for ends. Sentinel years `0001`/`9999` are hidden but usable for ranges; see below. 
 
 Page dates: `born/created` set the start date; `died/destroyed` set the end date. For event pages, `DR`/`DR_end` act as start/end when no born/created/destroyed dates exist. `pageTargetDate` overrides the “current date”; otherwise Calendarium/Fantasy Calendar supplies it.
 
-Display and math: DR display uses `Month Day, Year` (e.g., “December 9th, 1748”). Age/length calculations use the `days` delta between normalized dates, with `0001`/`9999` omitted from display.
+Display and math: DR display uses `Month Day, Year` (e.g., “December 9th, 1748”). Age/length calculations use the `days` delta between normalized dates, with `0001`/`9999` omitted from display. 
 
 Special dates: `0001` and `9999` are treated as special dates. They are never displayed, and treated as "before all possible dates" and "after all possible dates", respectively. The `0001` date is useful for people who are definitely dead in modern campaigns but don't have an assigned date of death; the `9999` date is useful for away whereabouts to imply "at a temporary location at all future times". 

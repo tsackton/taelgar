@@ -1,7 +1,3 @@
----
-tags: [status/check/mike]
----
-
 # Display Control
 
 ## Overview of Display Generation

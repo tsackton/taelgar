@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/elven, status/check/mike]
+tags: [deity, religion/elven]
 dm_owner: joint
 dm_notes: none
 ---
