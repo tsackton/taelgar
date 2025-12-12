@@ -1,8 +1,5 @@
 ---
-tags:
-  - place
-  - status/stub
-  - status/check/ai
+tags: [place, status/check/ai, status/check/name]
 dm_notes: none
 dm_owner: tim
 typeOf: topographical feature
