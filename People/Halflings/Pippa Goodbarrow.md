@@ -18,6 +18,6 @@ dm_notes: color
 
 ![[pippa-greenbarrow-portrait.png|right|400]]Pippa is a cheerful halfling woman, with a warm, welcoming smile, often seen wearing a wide-brimmed hat. She has a love of good food, great ale, and great company, and attracts like-minded crew to her ship, the [[Summer's Breeze]]. 
 
-She has no fixed route or typical path, but is welcome is every port along the [[Apporia|Apporian Peninsula]] and the [[~Emerald Coast~]] for her genial nature, and her tendency to throw impromptu parties on deck. 
+She has no fixed route or typical path, but is welcome is every port along the [[Apporia|Apporian Peninsula]] for her genial nature, and her tendency to throw impromptu parties on deck. 
 
 %%SECRET[1]%%
