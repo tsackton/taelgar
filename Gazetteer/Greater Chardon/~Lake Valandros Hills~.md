@@ -1,29 +1,17 @@
 ---
-tags: [place, status/check/ai, status/check/name]
+headerVersion: 2023.11.25
+tags: [place, status/check/name]
 dm_notes: none
-dm_owner: tim
+dm_owner: none
 typeOf: topographical feature
+whereabouts: Chardonian Empire
+typeOfAlias: line of hills
 ---
-
 # The ~Lake Valandros Hills~
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Lake Valandros Hills are the hills west of [[Lake Valandros]]. Several small rivers are described as rising in these hills and flowing west to the [[Endless Ocean]] along the [[Coastlands]].
+A region of rugged hills and rough terrain west of [[Lake Valandros]]. Many small rivers rise in these hills and flow west to the [[Endless Ocean]] through the [[Coastlands]]. 
 
-## Sources
-
-- [[Lake Valandros]]
-- [[Coastlands]]
-- [[Breakrock]]
-- [[Corvessa]]
-- [[Sevros]]
-- [[Zar]]
-
-%% the hills west of [[Lake Valandros]] %%
-
-%%^Campaign:none%%
-
-## DM notes
-
-%% AI note: No relevant `%%SECRET[1]%%
-
-%%^End%%
+%% some previous brainstorming suggests possibly a region of mining for Chardon; also an area where refugees hid out during the hobgoblin occupation of the upper coast of the [[Coastlands]] %%

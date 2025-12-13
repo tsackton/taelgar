@@ -1,10 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/check/name
-  - status/stub
-  - status/check/ai
+tags: [place, status/check/name]
 name: Merchants's Gate
 typeOf: infrastructure
 whereabouts: North Wall (Chardon)
@@ -19,20 +15,8 @@ typeOfAlias: gate
 
 The Merchants's Gate is the principal gate through the [[North Wall (Chardon)|North Wall]] by which the northern trade road enters [[Chardon]]. The neighborhoods immediately inside the gate—especially the [[Bastion Quarter]]—are full of inns, taverns, and warehouses catering to river and overland merchants.
 
-## Sources
-
-- [[North Bank]]
-- [[Bastion Quarter]]
-- [[North Wall (Chardon)]]
-
-%% gate through with the north trade road passes into the city %%
-
-%% merchant's gate maybe not quite right? %%
-
 %%^Campaign:none%%
 
-## DM notes
-
-%% AI note: No relevant `%%SECRET[1]%%
+Don't love the name.  It is the largest gate in the north wall, but not clear how much traffic actually comes overland, vs via coastal ship. It is probably only the immediate hinterland that is sending wagons through the north gate. The north road was heavily fortified and mostly destroyed during the hobgoblin years, too. 
 
 %%^End%%

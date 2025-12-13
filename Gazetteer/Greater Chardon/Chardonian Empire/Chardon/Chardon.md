@@ -83,7 +83,7 @@ Chardon emerged from the [[War of the Dark Rift]] as the capital city of a small
 
 Chardon is organized into 21 administrative precincts, as well as a number of unincorporated suburbs south of the city. 
 
-Precincts I - VII are the inner core of the original Drankorian city, and are enclosed by the walls constructed during the expansion of the city in the 1300s. The modern port is largely congruent with [[Precinct VI]]; the university district is Precinct IV; the imperial administrative center is in Precinct I. 
+Precincts I - VII are the inner core of the original Drankorian city, and are enclosed by the walls constructed during the expansion of the city in the 1300s. The modern port is largely congruent with [[Precinct VI]]; the university district is [[Precinct IV]]; the imperial administrative center is in Precinct I. 
 
 Precincts VIII - XVI form the outer core of the [[South Bank]], numbered from VIII in the southwest to XVI in the northeast. Precinct VIII is adjacent to the naval arsenal; Precinct X houses the massive Kylos Market.
 
