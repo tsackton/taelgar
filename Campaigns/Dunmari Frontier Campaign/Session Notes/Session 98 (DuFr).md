@@ -125,7 +125,7 @@ The session ended in evening, as the party convinced the crew of [[Summer's Bree
 - As evening approaches, the party gathers rumors on the docks of Castrella, learning about historical interactions with merfolk and hearing about a Mystic of Tamaro Bay, possibly Dorian Almare, who left 15 years ago to find the merfolk and is rumored to be able to breathe underwater.
 - They discover the existence of ballads about merfolk, including 'The Fog and Fortune' and learn about a stoneborne hermit named Kazuro, skilled in potions and alchemy, who might know how to breathe underwater.
 - A detailed ballad is heard and recounted by the party, highlighting the merfolk's mysterious and possibly benevolent nature.
-- The concept of the merfolk and their connection with jade is explored through another ballad, suggesting the Merfolk tend to gardens of jade deep under the sea, west of Tamaro Bay. 
+- The concept of the merfolk and their connection with jade is explored through another ballad, suggesting the Merfolk tend to gardens of jade deep under the sea, west of [[Tamaro Bay]]. 
 - The party debates how to approach the halfling ship crew to aid them in their quest, considering a cook-off and the potential rescue of Milo Thistlefoot as motivators.
 - After persuasion efforts, the halfling crew agrees to a week-long expedition to search for Milo Thistlefoot, motivated by concern for Milo and the promise of a grand party.
 

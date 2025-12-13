@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/check/ai]
+tags: [place]
 displayDefaults: {defArt: ''}
 name: Lake Valandros
 typeOf: lake
 whereabouts: 
 - {type: secondary, location: Chasa-Nahadi Watershed } 
 - {type: primary, location: Chardonian Empire }
-dm_notes: color
+dm_notes: none
 dm_owner: tim
 ---
 # Lake Valandros
@@ -15,47 +15,10 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Lake Valandros is a vast lake in the northern branch of the [[Chasa-Nahadi Watershed]]. Many rivers flow into it from the north, while the [[Nahadi]] is its only outflow, joining the [[Chasa]] near [[Chardon]].
+Lake Valandros is a vast lake in the [[Chasa-Nahadi Watershed]], gathering all the waters from the northern part of the watershed, which then exit the lake via the broad [[Nahadi]]. 
 
-The lake lies along key routes between [[Voltara]] and [[Chardon]]. Goods from the northern frontier are often carried overland to the lake and continue south by riverboat along the Nahadi and Chasa.
+The western shores of the lake are generally hilly, densely settled, and are a productive source of iron and silver for the [[Chardonian Empire]]. The eastern shores are less populated, with patchy forests that spread east to join the [[Crimson Forest]] in the foothills of the [[Sentinel Range|Sentinels]]. 
 
-## Geography
+Lake Valandros serves as a major trade connection between the [[Northern Provinces]] and the hinterlands of the [[Chardonian Empire]]. Goods from the northern frontier, especially [[chalyte]] from [[Voltara]], are carried overland to the lake and continue south by riverboat along the Nahadi and Chasa.
 
-- The [[Zarnato]] and the [[Snake River]] join north of the lake, and their combined waters ultimately reach it.
-- The [[Crimson Forest]] stretches east from the lake towards the [[Sentinel Range|Sentinels]].
-
-## Sources
-
-- [[Chasa-Nahadi Watershed]]
-- [[Nahadi]]
-- [[Zarnato]]
-- [[Snake River]]
-- [[Crimson Forest]]
-- [[Erbalta Plains]]
-
-
-%% (Drankorian name, named after the emperor Valandros ) 
-
-- Big lake on north branch of ~MainRiver~
-    
-- Low rolling hills on the west, forests on the east
-    
-- Western hills settled, productive iron and silver mines
-    
-- Eastern shore less dense, scattered forest
-    
-- Several medium/large cities, center of much metalworking in empire
-    
-- Port on north of lake major trade stopover for goods coming from north, most especially the incredibly valuable chalyte from Voltara
-    
-%%
-
-%%^Campaign:none%%
-
-## DM notes
-
-- Several campaign timelines and notes treat Lake Valandros as a key economic hinterland for Chardon, including riverboat traffic downriver.
-
-%% DM sources: _DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Timeline; _DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part I To Arendum/Chasa River Valley (OneNote) %%
-
-%%^End%%
+%% nothing else really invented. probably a major population center for the Chardonian Empire but not clear %%

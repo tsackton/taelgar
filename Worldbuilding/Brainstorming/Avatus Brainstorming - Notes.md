@@ -1,7 +1,3 @@
----
-tags: [status/check/mike]
----
-
 Some of this should probably be split off into more general brainstorming, as it touches more than just Avatus
 
 ## Important Canonical Points
