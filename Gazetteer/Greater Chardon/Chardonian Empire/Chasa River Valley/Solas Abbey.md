@@ -1,33 +1,31 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place]
+displayDefaults: {defArt: ""}
 name: Solas Abbey
-typeOf: building
-typeOfAlias: abbey
+typeOf: holy site
+typeOfAlias: abandoned abbey
 whereabouts:
-  - {type: home, location: Chasa River Valley, linkText: in}
-dm_notes: color
+  - {type: home, location: Chasa River Valley, startFilter: "r"}
+dm_notes: none
 dm_owner: none
 ---
-
 # Solas Abbey
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Solas Abbey is a ruined religious house on the upper road of the [[Chasa River Valley]]. It is remembered as the first home of the Solatine Order—an itinerant order devoted to [[The Wyrdling]]—and now stands as a lonely landmark for those traveling upriver toward [[Arendum]].
+Solas Abbey is a partially ruined religious house on the upper road of the [[Chasa River Valley]], once the home of the [[Solatine Order]], a now-defunct itinerant order devoted to [[The Wyrdling]]. 
 
 %%^Campaign:none%%
 
-## DM notes
+**Fits into a general vibe of a lot of "lost religious orders" around the west coast, cf [[Galius Filuso]] and [[Order of Twilight]], but details are not canon as this place was never visited in game.**
 
-%% Original notes (preserved): %%
-%%
-## Solas Abbey
+Solas Abbey, the original but now ruined home of the Solatine Order, an iterant order of worshippers the Wyrdling who historically watched over orphans and outcasts, especially those who struggled with their gender identity. While the order is lost and defunct, and the Abbey mostly in ruins, a hermit/priest dedicated to the Wyrdling still lives here, and they still train apprentices.
 
-- Solas Abbey, the original but now ruined home of the Solatine Order, an iterant order of worshippers the Wyrdling who historically watched over orphans and outcasts, especially those who struggled with their gender identity. While the order is lost and defunct, and the Abbey mostly in ruins, a hermit/priest dedicated to the Wyrdling still lives here, and they still train apprentices.
+The building is reminiscent of some Tuscan abbeys, e.g. [https://en.wikipedia.org/wiki/Abbey_of_Sant%27Antimo](https://en.wikipedia.org/wiki/Abbey_of_Sant%27Antimo). 
 
-The building is reminiscent of some Tuscan abbeys, e.g. [https://en.wikipedia.org/wiki/Abbey_of_Sant%27Antimo](https://en.wikipedia.org/wiki/Abbey_of_Sant%27Antimo). Sits above the river on a downslope of a hill, near a minor tributary.
+Sits above the river on a downslope of a hill, near a minor tributary.
  
 While no longer occupied by a religious order, the structure itself is relatively intact, although most of the outbuildings are gone. The original chapel of the Wyrdling remains well-kept, and the current occupant has established quarters in the old chapter room.
  
@@ -36,12 +34,5 @@ A large statue of the Wyrdling in human form, depicted as a two-faced jester, on
 There is a strange feeling about the place, not exactly a sense of peace but a sense of belonging. Whatever doubts you might feel about yourself, your place in the world, you feel like someone hears them and cares.
  
 The abbey is currently occupied by a lone hermit/priest, who goes by [Mel](Elderwood%20Arc%20NPCs.md).
- 
-This is a safe place to rest - shadow hunters cannot get here.
- road (in Elderwood where road passes close to trees); pack of wolves; owlbear(s).  
-
-%%
-
-- Related deity notes include additional Solas Abbey color in comments: [[The Wyrdling]].
 
 %%^End%%
