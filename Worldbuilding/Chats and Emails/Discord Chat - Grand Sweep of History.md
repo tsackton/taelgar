@@ -366,7 +366,7 @@ We originally had some Tyrwinghan marches, but the development of Tyrwingha so f
 
 
 
-Sentinel Range War - 1560ish. Mostly highland kingdoms, minimal impact on Sembara.
+[[Sentinel Range War]] - 1560ish. Mostly highland kingdoms, minimal impact on Sembara.
 
 
 [10/30/2023 10:08 PM] .deciusmus

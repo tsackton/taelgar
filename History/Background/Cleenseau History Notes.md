@@ -36,7 +36,7 @@ When Avatus is defeated the town is recaptured largely intact, although the Dran
 
 During the later 1450s the town is resettled as trade between Isingue and Sembara grows, although it is a peaceful place and no garrison or walls are built. The Great War does not reach this far north, and for the most part Cleenseau is untouched, save for the men and women who leave to fight and die and never return.  However, in 1546, as the hobgoblin threat in the south grows, [[Derik III]] establishes the first military garrison here and some substantial fortifications are built a bit to the east of the Crossroads Inn.
 
-This garrison is substantially increased in the 1550s during and after the Blood Plague, as Cleenseau becomes more of a border town and the road south to Maseau becomes more dangerous. Town walls are built, although smaller than the current walls (and the Crossroads Inn is outside them). 
+This garrison is substantially increased in the 1550s during and after the [[Blood Plague]], as Cleenseau becomes more of a border town and the road south to Maseau becomes more dangerous. Town walls are built, although smaller than the current walls (and the Crossroads Inn is outside them). 
 
 ## The Hobgoblin Wars
 

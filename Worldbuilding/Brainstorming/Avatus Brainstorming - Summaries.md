@@ -102,7 +102,7 @@ From [[Timeline of Sembaran History]]:
  A more mythic account in [[Tyrwingha  Ideas]] (and older “GDrive – Sembara Document”) presents Avatus/[[Avatus]] as a **military dictator ravaging Sembara** with hobgoblins and werewolves while prophets in Tyrwingha proclaim looming End Times.  
  The Sembaran dukes’ pleas for aid are initially ignored; Tyrwingha’s queen is paralyzed by prophetic nightmares of her realm’s downfall if she intervenes.  
  Into this crisis rides **Derik I**, already a minor hero from pirate skirmishes, who receives a prophecy from a **lizardfolk elder**: if he does not overthrow **Avatus**, the “smallest cloud in the coming storm,” future horrors will be much worse.  
- When Derik lands in Tyrwingha, the Archfey **[[Ethlenn]]** appears, blesses him, and endorses him as king; his subsequent victory over Avatus and the Treaty of Wisford become the basis for the **unification of the crowns** of Sembara, Tyrwingha, and Telham.  
+ When Derik lands in Tyrwingha, the Archfey **[[Ethlenn]]** appears, blesses him, and endorses him as king; his subsequent victory over Avatus and the [[Treaty of Wisford]] become the basis for the **unification of the crowns** of Sembara, Tyrwingha, and Telham.  
 
 #### Cleenseau‑specific events
 

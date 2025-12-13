@@ -86,7 +86,7 @@ not sure the details matter exactly right now, just trying to get a rough pictur
 
 
 [11/5/2023 8:14 PM] rsulfuratus
-the rangers are an obvious place for a lone elf solider, but not sure exactly what they would have been doing after the bloodlust wars, the blood plague, and all the chaos of the 1550s
+the rangers are an obvious place for a lone elf solider, but not sure exactly what they would have been doing after the [[bloodlust wars]], the [[blood plague]], and all the chaos of the 1550s
 
 
 [11/5/2023 8:14 PM] .deciusmus
@@ -100,7 +100,7 @@ There is a ton of stuff in the Chronicle of Sembaran histor that isn't in the ti
 👍
 
 [11/5/2023 8:15 PM] rsulfuratus
-maybe the rangers as beryl knew them don't really survive the blood years intact - they were invovled in dealing with the blood plague, for example
+maybe the rangers as beryl knew them don't really survive the blood years intact - they were invovled in dealing with the [[blood plague]], for example
 
 
 [11/5/2023 8:15 PM] rsulfuratus

@@ -151,7 +151,7 @@ As news spread like wildfire of a knight from the north who had been blessed by 
 
   
 
-Cloaked in glory and honor and fey-enhanced charisma, Derik forged modern Sembara at the Treaty of Wisford, signed that fall, which established the Royal Council, codified the independence of lizardfolk in the realm forevermore, and cemented the House of Sewick as the rulers of the Joined Crowns of Sembara, Tyrwingha, and Telham.    
+Cloaked in glory and honor and fey-enhanced charisma, Derik forged modern Sembara at the [[Treaty of Wisford]], signed that fall, which established the Royal Council, codified the independence of lizardfolk in the realm forevermore, and cemented the House of Sewick as the rulers of the Joined Crowns of Sembara, Tyrwingha, and Telham.    
 
   
 

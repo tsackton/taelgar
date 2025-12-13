@@ -15,7 +15,7 @@ that works imo
 [10/30/2023 9:08 PM] .deciusmus
 Right. So maybe its just been a continual project since way back in the immediate aftermath of the Great War that has grown in fits and starts
 [10/30/2023 9:06 PM] .deciusmus
-I'm leaning towards "the Sentinel Range War" in the early 1560s (mostly the highland kingdoms and dwarves) being against something really scary and inspiring a period of fortifications in the 1560s in the west, which seem prophetic when the 1st hobgoblin war is in that area.
+I'm leaning towards "the [[Sentinel Range War]]" in the early 1560s (mostly the highland kingdoms and dwarves) being against something really scary and inspiring a period of fortifications in the 1560s in the west, which seem prophetic when the 1st hobgoblin war is in that area.
 
 The wall is extended in the 1570s after the 1st hobgoblin war, but the 2nd and 3rd hobgoblin wars are fought along the Enst, not the western frontier
 
