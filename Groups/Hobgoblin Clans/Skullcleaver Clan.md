@@ -16,7 +16,7 @@ dm_owner: none
 The Skullcleaver Clan is a group of hobgoblins based in the northeastern part of [[Irrla]]. A relatively disorganized clan, as far as hobgoblins go, and hemmed in by the fortified and heavily defended borders of the [[Republic of Svolhas]]. The Skullcleavers are largely pirates and raiders; they have significant naval forces, and pose a notable danger to traders sailing from the ports of [[Ursk]]. 
 
 %%^Campaign:none%%
-The Skullcleaver clan was not always a major pirate danger. During the late 1730s and 1740s, they have grown considerably as a naval threat, turning to piracy and coastal raids. The exact reasons for this are not yet determined, but it has prompted the Republic of Svolhas to dramatically increase its naval investment over the 1740s. 
+The Skullcleaver clan was not always a major pirate danger. During the late 1730s and 1740s, they have grown considerably as a naval threat, turning to piracy and coastal raids. The exact reasons for this are not yet determined, but it has prompted the [[Republic of Svolhas]] to dramatically increase its naval investment over the 1740s. 
 %%^End%%
 
 

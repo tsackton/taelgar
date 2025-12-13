@@ -1,6 +1,6 @@
 (Oct 2022)
 
-forwarding you my not-necessarily-entirely-need-to-remain canon notes to John about Irrla for the Wellby one shot. The hobgoblins, the recent history of the Republic of Svolhas, and the general vibe of "trying to build a navy fast" are definitely canon, but the climate and the economics are up for grabs.  
+forwarding you my not-necessarily-entirely-need-to-remain canon notes to John about Irrla for the Wellby one shot. The hobgoblins, the recent history of the [[Republic of Svolhas]], and the general vibe of "trying to build a navy fast" are definitely canon, but the climate and the economics are up for grabs.  
   
 
 ---------- Forwarded message ---------  
@@ -13,11 +13,11 @@ Here is a bit of background for reference about the island your character is fro
 
   
 
-1. Irrla (ear-la) is the name the humans of the Republic of Svolhas (ss-vol-las) give to the large island in the middle of the Green Sea, a massive inland ocean stretching more than 2000 miles from Sembara to the edge of the known world. A large, temperate island, it has cool, rainy summers with occasional weeks of hot dry weather, and cool, damp winters with little snow (think like a slightly warmer Ireland). The Republic is centered around the fertile land and good harbors of the southeastern coast of Irrla, which is vaguely "southern england" in climate and flavor.
+1. Irrla (ear-la) is the name the humans of the [[Republic of Svolhas]] (ss-vol-las) give to the large island in the middle of the Green Sea, a massive inland ocean stretching more than 2000 miles from Sembara to the edge of the known world. A large, temperate island, it has cool, rainy summers with occasional weeks of hot dry weather, and cool, damp winters with little snow (think like a slightly warmer Ireland). The Republic is centered around the fertile land and good harbors of the southeastern coast of Irrla, which is vaguely "southern england" in climate and flavor.
 
   
 
-2. The Republic of Svolhas is an "Athenian-style" democracy based around several important coastal cities, of which Rava is the largest and most important, with a substantial interior hinterland of mostly smallholds and rural villages that are generally ruled (often without direct representation) by a city to which they owe allegiance. Each city is ruled independently by the council of citizens, with a Senate consisting of representatives from each city that meets in Rava and controls foreign policy. Svolhas lives largely on trade: the Svolhas merchants often act as intermediaries between the desert cities (such as Medju) where exotic goods and spices are traded, and the Western Gulf (Sembara, Cymea, and Tollen). 
+2. The [[Republic of Svolhas]] is an "Athenian-style" democracy based around several important coastal cities, of which Rava is the largest and most important, with a substantial interior hinterland of mostly smallholds and rural villages that are generally ruled (often without direct representation) by a city to which they owe allegiance. Each city is ruled independently by the council of citizens, with a Senate consisting of representatives from each city that meets in Rava and controls foreign policy. Svolhas lives largely on trade: the Svolhas merchants often act as intermediaries between the desert cities (such as Medju) where exotic goods and spices are traded, and the Western Gulf (Sembara, Cymea, and Tollen). 
 
   
 
@@ -25,7 +25,7 @@ Here is a bit of background for reference about the island your character is fro
 
   
 
-4. The navy of the Republic of Svolhas has grown fast in the past generation, with lots of opportunities for advancement. While originally a largely galley-based fleet designed for coastal defense, in the past 10 years the Svolhasian Navy has made a name for itself on the eastern Green Sea, and there is much debate within Rava and other cities about finishing the job that was partially done 40 years ago, and driving the Skullcleaver clan and its remaining followers off the island for good. 
+4. The navy of the [[Republic of Svolhas]] has grown fast in the past generation, with lots of opportunities for advancement. While originally a largely galley-based fleet designed for coastal defense, in the past 10 years the Svolhasian Navy has made a name for itself on the eastern Green Sea, and there is much debate within Rava and other cities about finishing the job that was partially done 40 years ago, and driving the Skullcleaver clan and its remaining followers off the island for good. 
 
   
 

@@ -149,15 +149,15 @@ Major oceanic features: The sound/bay in South Cymea between the coast and the i
 
   
 
-Notes: Irrla has at least two major powers (hobgoblin pirates, Republic of Svolhas) and has room for 2-3 more. Eastern Dunmari not mariners particularly. MTP likely has mariner-descended coastal population and something else inland, perhaps non-human. South Cymea remans a blank. 
+Notes: Irrla has at least two major powers (hobgoblin pirates, [[Republic of Svolhas]]) and has room for 2-3 more. Eastern Dunmari not mariners particularly. MTP likely has mariner-descended coastal population and something else inland, perhaps non-human. South Cymea remans a blank. 
 
   
 
-Major maritime powers: MTP coastal, although Republic of Svolhas is an emerging maritime power.
+Major maritime powers: MTP coastal, although [[Republic of Svolhas]] is an emerging maritime power.
 
 The Gulf of Arazeja is dominated by the coastal <MTP>, who criss-cross the Gulf (and are likely the dominant maritime power in the region) and who sail along the southern coast as far east as the <MagicIsles>, but who rarely sail north, and who are more of a sailing culture than a merchantile one, and therefore perhaps often crew the ships of Medju and other southern powers. 
 
-Republic of Svolhas has a rapidly expanding navy, in response to the hobgoblin threat on its northern borders, but is not a traditional maritime power. 
+[[Republic of Svolhas]] has a rapidly expanding navy, in response to the hobgoblin threat on its northern borders, but is not a traditional maritime power. 
 
 Other notes:
 
