@@ -7,7 +7,7 @@ typeOf: waterway
 typeOfAlias: river
 whereabouts: 
 - {type: primary, location: Zimkova }
-- {type: secondary, location: Semb Watershed }
+- {type: secondary, location: Teft Watershed }
 dm_owner: none
 dm_notes: none
 ---

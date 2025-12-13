@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/check/ai]
+tags: [place]
 name: Semb Watershed
 typeOf: watershed
 whereabouts:
@@ -26,7 +26,7 @@ The city of [[Embry]] stands above the Semb and serves as one of the great river
 
 Mapped rivers of the Semb Watershed:
 
-Semb:
+[[Semb]]:
 source (Lake Derwent): 11.10.D.21
 end (ocean): 11.11.I.08
 
@@ -76,14 +76,19 @@ end (Semb): 11.11.C.21
 
 Mapped Lakes of the Semb Watershed:
 
-Lake Derwent:
+[[Lake Derwent]]:
 10.10.F.16, 10.10.F20, 11.10.D.13, 11.10.D.17, 11.10.D21
 
-### Notes from `_dm_notes`
-
-- `_dm_notes/_Whitesparrow Trouble/Setting.md` describes “Blackwater Bridge” as a walled market town on the upper Semb, where highland wool is traded downriver toward Embry (and overland toward Arnsbury, Telham, and Tollen).
-- The same DM note describes the Semb as swift and rapid-filled above and below Blackwater Bridge, with little river traffic in that immediate area. This may be a local condition and could be reconciled with broader statements elsewhere that the Semb is navigable for much of its length.
+## Places in the Semb Watershed
+```dataviewjs
+const { util } = customJS
+dv.table(["Place", "Type Of"], 
+			dv.pages("#place")
+				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter, dv.current().pageTargetDate) && (f.typeOf == "river" || f.typeOf == "waterway" || f.typeOf == "lake"))
+				.sort(b => util.s("<maintype>", b.file))
+				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<maintype>", b.file)]))
+```
 
 %%^End%%
 
-%% AI note: Expanded from existing vault sources: [[Semb]], [[Lake Derwent]], [[Ardlas]], [[Western Gulf]], [[Heartlands]], [[Embry]]. DM-only references checked: `_dm_notes/_Whitesparrow Trouble/Setting.md`. %%
+
