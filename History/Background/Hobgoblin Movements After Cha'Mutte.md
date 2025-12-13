@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/cleanup/text, status/cleanup/map, status/gameupdate/base]
+tags: [background, status/cleanup/text, status/cleanup/map, status/gameupdate]
 excludePublish: ["all"]
 dm_owner: joint
 dm_notes: none
@@ -28,11 +28,11 @@ As the plague spreads along the Upper Istaros after Cha'mutte's death, many of t
 
 ### Iron Fang
 
-*Bloodlust Wars: Iron Fang against Sembara in 1540ss*
+*[[Bloodlust Wars]]: Iron Fang against Sembara in 1540ss*
 
 North of [[Isingue]], the Iron Fang clan survives mostly intact, and once the red mists leave, launches an attack on Sembara. This is the [[Bloodlust Wars]], from ~DR 1547 - DR 1549, although exact dates are probably not canonical. They are defeated, but not totally eliminated. Some hobgoblins flee into the Plaguelands, while others maybe join with remnants of [[Revaka]]'s people who refused to fight for [[Cha'mutte]] in the southeastern foothills of the Sentinels. 
 
-It is not clear how far the Iron Fang clan got, and the extent of this war is flexible. Fighting reached at least into [[Duchy of Maseau|Maseau]] (e.g., Derik III is killed fighting near [[Valarin]]), but while [[Cleenseau]] is fortified it is not directly threatened during the Bloodlust Wars ([[Cleenseau History Notes]]). 
+It is not clear how far the Iron Fang clan got, and the extent of this war is flexible. Fighting reached at least into [[Duchy of Maseau|Maseau]] (e.g., Derik III is killed fighting near [[Valarin]]), but while [[Cleenseau]] is fortified it is not directly threatened during the [[Bloodlust Wars]] ([[Cleenseau History Notes]]). 
 
 Possibly some historians consider this part of the Great War. 
 
@@ -111,7 +111,7 @@ In the current day, the remnants of Cha'mutte's armies may be found:
 ### South and East of the Sentinels
 
 *Canonical*
-- In the Plaguelands, some remnant of the Iron Fang survived, and potentially established a robust hobgoblin realm somewhere in the Plaguelands. These have been relatively isolated from humans since their defeat in the [[Bloodlust Wars]], but could potentially be a source of any hobgoblin attack on Orenlas, Addermarch, or related areas. 
+- In the Plaguelands, some remnant of the Iron Fang survived, and potentially established a robust hobgoblin realm somewhere in the Plaguelands. These have been relatively isolated from humans since their defeat in the [[Bloodlust Wars]], but could potentially be a source of any hobgoblin attack on Orenlas, Addermarch, or related areas. **NOTE: this needs to be updated for the events of the Dunmar Frontier campaign.**
 - In the Plaguelands are also some scattered remnants of the Southern Army, not really well organized into proper clans. These would occupy the far southeastern foothills of the Sentinels, and areas north, possibly along the upper reaches of the [[Kulthul]]. These hobgoblins are too disorganized and scattered to pose a significant threat, but could explain details such as watchtowers on the northwestern borders of [[Xurkhaz]], and the general vibe of defensive fortifications in [[Refounded Alliance of Aurbez]] and the [[March of Andonne]]. Note: while the existence of the possibility of hobgoblin raiders around the western edge of the Plaguelands is canonical, whether they are as disorganized as this makes it seem is undetermined, and a more organized group may have their own reasons for not advancing in force west or north.
 - In the southern [[Sentinel Range|Sentinels]], around the destruction of [[Urlich Pass]] and the areas immediately south (e.g., the destroyed region of [[Ardith]]), some survivors of the [[Shattered Ice Clan]] and potentially other hobgoblins (e.g., remnants of the [[Dominion of Avatus]] who did not fight for Cha'mutte, or survivors of the [[Bitter Knife War]] or the [[Northern War]]) linger. These are presumably not a well organized group either, but they are a significant enough reserve to occasionally form warbands to try to raid against Sembara in an organized way. There needs to be a sufficient threat for the [[Army of the West]] to be professionalized and important, although the exact history between 1720 and 1749 is unclear.
 

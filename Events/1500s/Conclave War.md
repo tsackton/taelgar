@@ -1,18 +1,47 @@
 ---
-tags: [status/stub, event]
+headerVersion: 2023.11.25
+tags: [event, status/stub, status/check/ai]
+name: Conclave War
+typeOf: war
+timelineDescriptor: Conclave War
+DR: 1555
+DR_end: 1557
 dm_owner: tim
-dm_notes: none
+dm_notes: color
 ---
 
-%% all my notes are here but i have opinions about the history here %%
+# The Conclave War
+
+The Conclave War was one of the defining conflicts of the [[Blood Years]] on the west coast. It is remembered in Chardonian histories as the moment when a host of hobgoblins and monsters—led by a conclave of dragons—advanced down the [[Chasa]] river valley and brought the war to the doorstep of [[Chardon]].
+
+The war’s key turning point was the [[Battle of Metium]], fought only a few days’ ride upriver from Chardon, where the dragon host was checked and its leadership shattered.
+
+![[Chardon-expansion-BloodYears.jpg]]
+
+## Notable Battles
+
+- [[Battle of Kin-Aska]]
+- [[Battle of Shadowfire]]
+- [[Battle of Metium]]
+
+## Sources
+
+- [[Battle of Kin-Aska]]
+- [[Battle of Shadowfire]]
+- [[Battle of Metium]]
+- [[Great War]]
+- [[Greater Chardon]]
 
 %%^Campaign:none%%
+
+## DM notes
+
+%% all my notes are here but i have opinions about the history here %%
 
 Battles:
 ```dataview
 list from "" where partof = "Conclave War"
 ```
-%%^End%%
 
 %% notes 
 basic outline of conclave war is dragon conclave takes command of remnants of Cha'mutte's army and marches south, destroying as they go, eventually moving down the Chasa river valley.
@@ -20,7 +49,6 @@ forward advance stopped at the [[Battle of Metium]] only 50-60 miles upriver fro
 at that point war continues for a bit longer but Metium is turning point
 
 Conclave war more or less refers to the eastern advance here, but the details of how everything connects is not clear yet. 
-![[Chardon-expansion-BloodYears.jpg]]
 
 See also: [[West Coast History Framework#After the Great War]]
 
@@ -43,3 +71,4 @@ A huge defeat for Chardon and allies, where the dragon conclave unleashed devast
 Metium was a Chardonian outpost that was largely ruined in the wars, but resettled and rebuilt in the past 150 years.
 
 %%
+%%^End%%

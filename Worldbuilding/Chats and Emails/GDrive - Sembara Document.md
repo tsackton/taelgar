@@ -293,7 +293,7 @@ By the end of the summer of 1428, the war was over. Derik’s alliance, followin
 
   
 
-Cloaked in glory and honor from his decisive military leadership and fey-enhanced charisma, Derik forged modern Sembara at the Treaty of Wisford, signed in the late fall of 1428, which established the Royal Council, codified the independence of lizardfolk in the realm forevermore, and cemented the House of Sewick as the rulers of the Joined Crowns of Sembara, Tyrwingha, and Telham.  
+Cloaked in glory and honor from his decisive military leadership and fey-enhanced charisma, Derik forged modern Sembara at the [[Treaty of Wisford]], signed in the late fall of 1428, which established the Royal Council, codified the independence of lizardfolk in the realm forevermore, and cemented the House of Sewick as the rulers of the Joined Crowns of Sembara, Tyrwingha, and Telham.  
 
   
 
