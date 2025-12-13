@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags:
+  - place
 name: Wistel–Enst Watershed
 typeOf: watershed
 whereabouts:
-- { type: home, location: Greater Sembara, linkText: in }
+  - type: home
+    location: Greater Sembara
+    linkText: in
 dm_owner: none
 dm_notes: none
 ---

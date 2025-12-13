@@ -1,19 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/mike]
+tags: [place]
 name: Andonne Plain
 typeOf: plain
 whereabouts:
   - {type: home, location: Aurbez and the Andonne}
-dm_notes: color
-dm_owner: mike
+dm_notes: none
+dm_owner: none
 ---
 # The Andonne Plain
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% dm frontmatter, missing details? %%
 
 The broad, flat Andonne Plain stretches from the eastern edge of the [[Aurbez Plateau]] across the upper [[Masance]] toward [[Westcliff]] and the eaves of the [[Darkwood]]. It is a land of scrubby grasses and small, hardy trees, where rain is scarce and much of the year’s water comes from spring snowmelt and sudden floods after thunderstorms. 
 

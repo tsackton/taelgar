@@ -23,9 +23,9 @@ The Wethlin is a tributary of the [[Bollin]], joining the river near its headwat
 
 ## DM notes
 
-- Coordinates (per [[Wistel–Enst Watershed]]): source 11.10.D.02; confluence with [[Bollin]] 11.10.B.21.
+- Coordinates (per [[Wistel-Enst Watershed]]): source 11.10.D.02; confluence with [[Bollin]] 11.10.B.21.
 - No additional references found in `_DM_` or `_dm_notes`.
 
 %%^End%%
 
-%% AI note: Expanded from existing vault sources: [[Bollin]], [[Wistel–Enst Watershed]]. %%
+%% AI note: Expanded from existing vault sources: [[Bollin]], [[Wistel-Enst Watershed]]. %%

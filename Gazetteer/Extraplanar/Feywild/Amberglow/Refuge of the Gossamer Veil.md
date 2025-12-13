@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/metadata, status/check/mike]
+tags: [place]
 displayDefaults:
  wPastHome: "A former <ancestry:sx> <typeof:UA> of <origin:1>"
  dPastHasStart: "Existed <startDate> - <endDate>, <end> after <length>"
@@ -28,7 +28,7 @@ typeOfAlias: realm
 The Refuge of the Gossamer Veil was a hidden redoubt in [[Amberglow]], remembered in stories as one of the last pockets of safety after the realm began to fade after [[Cloudspinner]]'s disappearance. 
 
 %%^Campaign:clee%%
-The Refuge of the Gossamer Veil was home to [[Greymalkin]], who [[Greymalkin's Story|recounted]] being born in there in the years before the [[Great War]], and serving beside [[Aelirios Sunblade]] in its defense. In time, though, [[Lord Umbraeth]] coveted the Refuge and attacked; Aelirios fell, and the Gossamer Veil was lost. Greymalkin survived only to have his wings shorn, and to carry the memory of the Refuge’s fall into later years.
+The Refuge of the Gossamer Veil was home to [[Greymalkin]], who [[Greymalkin's Story|recounted]] being born there in the years before the [[Great War]], and serving beside [[Aelirios Sunblade]] in its defense. In time, though, [[Lord Umbraeth]] coveted the Refuge and attacked; Aelirios fell, and the Gossamer Veil was lost. Greymalkin survived only to have his wings shorn, and to carry the memory of the Refuge’s fall into later years.
 %%^End%%
 
 %% 

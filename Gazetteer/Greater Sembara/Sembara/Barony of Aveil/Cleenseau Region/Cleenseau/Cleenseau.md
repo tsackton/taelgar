@@ -17,8 +17,6 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%tagged status/mike just to look at status tags and see if it needs a needswork tag or can be considered complete for now%%
-
 Cleenseau is a small market town of twelve hundred souls, nestled on the north bank of the River Enst. Situated at a major crossing of the river, it is a natural gathering place and trade crossroads. The reason for the town’s existence, and most important feature, is the massive stone bridge over the River Enst, the [[Cleenseau Bridge]]. Built a thousand years ago by the Drankorians (or perhaps, even longer ago by the giants, some scholars say), it is wide enough for eight oxen; it spans the 1200 feet of the Enst in ten graceful arches.
 
 The town of Cleenseau itself stands some five hundred yards from the river, just beyond the road as it curves to follow the course of the river east. The soil here is rocky and poor, and the landscape a mix of small wooded copses and rocky shrubland. The immediate surroundings of the town are fields, hard-won from the rocky soil, and to the east a large pasture and woodlot. In the summer, a handful of wooden docks appear along the bank by the village of [[Auloutte]], and small rafts fish for river trout, but these docks often wash away in the spring floods. The lifeblood of the town is the trade that comes along the [[Great South Road]] - without the river crossing, the land would be too marginal to really support such a large concentration of people.  
