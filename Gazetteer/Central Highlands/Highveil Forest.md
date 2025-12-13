@@ -26,7 +26,7 @@ In DR 1747, the [[Silver Tempests]] met some [[Deno'qai]] here, and [[Great Libr
 %% DM
 GL Arc 3: southern approach to Am’khazar.
 
-north of Crimson Forest and south of Forest of Nightmares. Deno'qai, from Great Library adventures.
+north of [[Crimson Forest]] and south of Forest of Nightmares. Deno'qai, from Great Library adventures.
 
 Saharlûn (sa-har-LOON), “gentle slopes” that echo  dawnlight on the mountains.
 

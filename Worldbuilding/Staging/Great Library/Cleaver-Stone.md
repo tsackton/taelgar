@@ -3,7 +3,7 @@ tags:
   - place
   - status/check/ai
 name: Cleaver-Stone
-typeOf: infrastructure
+typeOf: planar link
 whereabouts: Kedron valley (upriver from Castrella)
 campaignInfo:
   - campaign: GL

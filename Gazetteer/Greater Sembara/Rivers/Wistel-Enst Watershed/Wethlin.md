@@ -8,7 +8,7 @@ whereabouts:
 typeOf: waterway
 typeOfAlias: river
 dm_notes: none
-dm_info: none
+dm_owner: none
 ---
 # The Wethlin
 >[!info]+ Information  

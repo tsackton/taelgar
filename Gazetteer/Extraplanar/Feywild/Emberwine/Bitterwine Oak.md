@@ -5,7 +5,7 @@ tags:
 displayDefaults:
   wSecondary: <typeof:Ua> <secondary:q>
   wHome: <typeof:Ua> <home:q>
-typeOf: infrastructure
+typeOf: planar link
 whereabouts:
   - location: Garamjala Desert
     type: secondary

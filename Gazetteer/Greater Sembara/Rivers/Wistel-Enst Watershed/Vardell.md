@@ -8,7 +8,7 @@ whereabouts:
 typeOf: waterway
 typeOfAlias: river
 dm_notes: none
-dm_info: none
+dm_owner: none
 pronunciation: VAR-dell
 ---
 # The Vardell

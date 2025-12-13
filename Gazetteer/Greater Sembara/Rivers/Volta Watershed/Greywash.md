@@ -7,6 +7,8 @@ typeOfAlias: river
 whereabouts: 
 - {type: primary, location: Tollen}
 - { type: secondary, location: Volta Watershed }
+dm_notes: none
+dm_owner: tim
 ---
 # The Greywash
 >[!info]+ Information  

@@ -7,6 +7,8 @@ typeOf: waterway
 whereabouts:
 - {type: primary, location: Tyrwingha}
 - {type: secondary, location: Tyrwinghan Watershed, startFilter: "1"}
+dm_notes: none
+dm_owner: none
 ---
 # The Daran
 >[!info]+ Information  

@@ -7,6 +7,8 @@ typeOfAlias: brook
 whereabouts: 
 - {type: primary, location: Tollen}
 - { type: secondary, location: Volta Watershed }
+dm_notes: none
+dm_owner: none
 ---
 # Fat Brook
 >[!info]+ Information  

@@ -124,7 +124,7 @@ In the current day, the remnants of Cha'mutte's armies may be found:
 - Some hobgoblins (exact ancestry and history undetermined) live in the plains and mountains north of Voltara, although they didn't really impact [[Grumella's War]], so are likely either fairly scattered and disorganized, or have their own reasons for staying out of conflict with humans. 
 
 *Brainstorming*
-- [[Tawir Forest]], the [[~Mawakel Border Mountains~]], the northwest coast of Lake Valandros, the forests on the eastern shores of Lake Valandros, the Crimson Forest, parts of the northern Myraeni Gap, and potentially the islands of of Mawar all could provide space for hobgoblins with various degrees of organization. 
+- [[Tawir Forest]], the [[~Mawakel Border Mountains~]], the northwest coast of Lake Valandros, the forests on the eastern shores of Lake Valandros, the [[Crimson Forest]], parts of the northern Myraeni Gap, and potentially the islands of of Mawar all could provide space for hobgoblins with various degrees of organization. 
 
 
 

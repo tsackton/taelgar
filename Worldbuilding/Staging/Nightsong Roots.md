@@ -6,7 +6,7 @@ tags:
 displayDefaults:
   defArt: the
 name: Nightsong Roots
-typeOf: infrastructure
+typeOf: planar link
 whereabouts: Highmoor
 dm_owner: none
 dm_notes: none
