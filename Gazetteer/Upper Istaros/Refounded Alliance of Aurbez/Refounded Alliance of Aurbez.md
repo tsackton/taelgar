@@ -12,7 +12,7 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Refounded Alliance of Aurbez is the realm of the [[Aurbez Plateau]] and the high valleys around it, a borderland between the [[Sentinel Range|Sentinels]] and the [[Plaguelands]].
+The Refounded Alliance of Aurbez occupies the [[Aurbez Plateau]] and the surrounding area, serving as a borderland between the [[Sentinel Range|Sentinels]] and the [[Plaguelands]].
 
 ## Land and People
 
