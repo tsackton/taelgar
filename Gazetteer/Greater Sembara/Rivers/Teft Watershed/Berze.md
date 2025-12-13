@@ -8,6 +8,8 @@ typeOfAlias: river
 whereabouts: 
 - {type: primary, location: Zimkova }
 - {type: secondary, location: Teft Watershed }
+dm_notes: none
+dm_owner: none
 ---
 # Bērze
 >[!info]+ Information  

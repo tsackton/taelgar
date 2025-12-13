@@ -87,5 +87,3 @@ views:
     columnSize:
       note.typeOf: 258
       note.typeOfAlias: 222
-  - type: table
-    name: Temp

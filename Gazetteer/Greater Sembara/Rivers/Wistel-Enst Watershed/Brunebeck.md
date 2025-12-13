@@ -7,6 +7,8 @@ typeOfAlias: river
 whereabouts:
 - {type: primary, location: Duchy of Wisford, startFilter: "r"}
 - {type: secondary, location: Wistel-Enst Watershed, startFilter: "1"}
+dm_notes: none
+dm_owner: mike
 ---
 # The Brunebeck
 >[!info]+ Information  
