@@ -17,8 +17,6 @@ The Teft watershed drains northwestern [[Sembara]] into the [[Western Gulf]]. It
 
 %%^Campaign:none%%
 
-## DM notes
-
 ### Mapped rivers
 
 Mapped rivers of the Teft Watershed:
@@ -67,4 +65,4 @@ dv.table(["Place", "Type Of"],
 				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<maintype>", b.file)]))
 ```
 
- %%
+ %%^End%%

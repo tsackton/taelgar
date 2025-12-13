@@ -20,8 +20,6 @@ The city of [[Embry]] stands above the Semb and serves as one of the great river
 
 %%^Campaign:none%%
 
-## DM notes
-
 ### Mapped rivers
 
 Mapped rivers of the Semb Watershed:
