@@ -21,7 +21,7 @@ Travel is slow, visibility is often poor, and footing is treacherous. Movement t
 
 The fens are low‑lying peatlands broken by hummocks, sedge flats, and scattered groves on slightly raised ground. Interlaced pools and sluggish channels dominate the surface, and seasonal rains from the western face of the [[Sentinel Range]] periodically inundate large areas.
 
-The [[Barzhen]] serves as the principal outlet, gathering flow from numerous small lakes and anabranching streams before departing the wetlands. Together with minor courses, the fens form one of the headwater systems that feed the [[Chasa-Nahadi Watershed]], ultimately reaching [[Lake Valandros]]. The waters are typically dark and tannin‑stained.
+The [[Barzhen]] serves as the principal outlet, gathering flow from numerous small lakes and and branching streams before departing the wetlands. Together with minor courses, the fens form one of the headwater systems that feed the [[Chasa-Nahadi Watershed]], ultimately reaching [[Lake Valandros]]. The waters are typically dark and tannin‑stained.
 
 Winters are long, cold, and wet, with frequent ground mists and occasional crusts of ice that rarely harden across the breadth of the bog. Summers are short and cool, marked by heavy insect hatches and persistent fog along the waterways.
 
