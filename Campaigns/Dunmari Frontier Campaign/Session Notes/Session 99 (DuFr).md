@@ -33,7 +33,7 @@ The [[Dunmar Fellowship]] secures water-breathing potions from [[Kazuro]], cures
 - (DR:: 1749-05-08), midday: Reach [[Calcara Island]]; find [[Kazuro]]; convince him to share transformation herbs that will turn lungs to gills and back in exchange for returning later to help him build a small school and recruit students. Depart north sailing for [[Tamaro Bay]].
 - (DR:: 1749-05-09): Sail northwest uneventfully.
 - (DR:: 1749-05-10), midday: Round the northernmost point of the [[Apporia|Apporian Peninsula]]. 
-- (DR::1749-05-10), afternoon: Reach Tamaro Bay. Cure [[Dorian Almare]] of a oceanic curse; speak with him about [[Merfolk]]. 
+- (DR::1749-05-10), afternoon: Reach [[Tamaro Bay]]. Cure [[Dorian Almare]] of a oceanic curse; speak with him about [[Merfolk]]. 
 - (DR:: 1749-05-10), evening: Sail west into the [[Endless Ocean]]. 
 - (DR:: 1749-05-11), pre-dawn: Reach a place with no winds and strange oceans, above a portal to the [[Elemental Plane of Water]]. Part company with [[Summer's Breeze]] and dive underwater.
 
@@ -138,8 +138,8 @@ The party discusses teleportation logistics and the practicality of using their 
 They decide to travel to Tamaro Bay, estimating a two-day journey under good conditions, with halflings committing to sail around the clock.
 During the first leg of the journey, the weather is favorable, and they sail smoothly, aiming to cover 430 miles to their destination.
 The party exchanges light-hearted banter and some strategic discussions about teleportation and water-breathing items during the voyage.
-On the second day, they approach Tamaro Bay, and the weather remains favorable. The party debates their exact course of action upon arrival.
-They notice a wooden structure on a cliff near Tamaro Bay and decide to investigate it, considering it might hold significance.
+On the second day, they approach [[Tamaro Bay]], and the weather remains favorable. The party debates their exact course of action upon arrival.
+They notice a wooden structure on a cliff near [[Tamaro Bay]] and decide to investigate it, considering it might hold significance.
 The structure turns out to be a crude watchtower made of driftwood. They also spot a single-masted row sailboat in a cove on the leeward side of the island.
 Wellby offers to scout further to the cove to locate any inhabitants or further clues, while the rest of the party plans their landing strategy.
 #### The Mystic of Tamaro Bay
