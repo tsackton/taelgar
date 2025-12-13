@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place, status/check/mike]
 name: Selgrava
 typeOf: waterway
 typeOfAlias: river
@@ -9,25 +9,17 @@ whereabouts:
   - {type: secondary, location: Teft Watershed}
 pronunciation: SELL-grah-vah
 dm_notes: color
-dm_owner: none
+dm_owner: mike
 ---
-
 # Selgrava
-*(SELL-grah-vah)*
+
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% check mike for dm frontmatter, check for additional details to add %%
+
 The Selgrava is a small river in [[Breva]] that joins the [[Teft]].
 
-%%^Campaign:none%%
+%% Vejo Vaikai live along here %%
 
-## DM notes
-
-- Mapped as a tributary of the Teft: [[Teft Watershed]].
-- The mystics known as the [[Vejo Vaikai]] are associated (in campaign notes) with the forests along the Selgrava: [[Into the Chasm Intros]].
-
-%% Original stub note (preserved): %%
-%% SELL-grah-vah, Vejo Vaikai live along here %%
-
-%%^End%%

@@ -20,4 +20,4 @@ Caerenad is a small Tyrwinghan town on the road between [[Eskbridge]] and [[Tafo
 
 The earl of the Enad Circuit keeps a fortified seasonal residence here, where they traditionally spend the period between [[Viatela]] and [[Quintarum]]. 
 
-The Enad runs below a low hill crowned by the earl’s residence; in clear nights the pool below the slope mirrors the moon.
+The [[Enad]] runs below a low hill crowned by the earl’s residence; in clear nights the pool below the slope mirrors the moon.

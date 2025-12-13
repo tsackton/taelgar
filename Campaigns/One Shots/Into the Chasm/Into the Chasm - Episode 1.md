@@ -60,7 +60,7 @@ In the aftermath, Finnan’s magic and patience win the woman’s trust long eno
 
 - The [[Great Chasm]] in [[Zimkova]] yawns like a wound in the world, spewing impossible storms, lights, strange vegetation, and other anomalies that different traditions interpret as either a place of refuge or a seat of elemental power.
 - After the orcish Ravager of Winter is defeated north of the chasm, scattered warbands ravage Breva while the chasm itself grows ever stranger: a summer thunderstorm in October, a searing sandstorm in November, a green‑flamed volcanic boulder floating downriver, a rainbow that shatters into glass and falls into the rift, and a living sheet of ice that swims down the Teft.
-- When a five‑day curtain of darkness settles over the chasm, the mystics of the Vejo Vaikai and warriors of the Kemeko Monastery descend to investigate and vanish; weeks later, a new band of heroes is swept into the same mystery.
+- When a five‑day curtain of darkness settles over the chasm, the mystics of the Vejo Vaikai and warriors of the [[Kemeko Monastery]] descend to investigate and vanish; weeks later, a new band of heroes is swept into the same mystery.
 - Those heroes tumble through a blinding white storm, separated from almost all their possessions and forced to choose what to clutch: Eolo keeps his quiver and twin crossbows, Ekko his armor and amulet of the Moon, Justas his axe, shield, and battered backpack, Jrain her bow, cloak, and a scant handful of arrows, and Finnan his fiddle, clay pipe, and cherished writing case.
 
 ### Strangers on the Ice
