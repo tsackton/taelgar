@@ -63,7 +63,7 @@ A few random thoughts — will reply in more depth when I have time tomorrow. I 
 
   
 
-3. Irrla could easily have 3-4 civs in addition to Republic of Svolhas and the hobgoblins. Could be a place for the neo-Eastern religion. Perhaps also something kind of pirate-y. Or something really strange like a city state ruled for 1000 years by an ancient gold dragon. Or a kingdom of giants.
+3. Irrla could easily have 3-4 civs in addition to [[Republic of Svolhas]] and the hobgoblins. Could be a place for the neo-Eastern religion. Perhaps also something kind of pirate-y. Or something really strange like a city state ruled for 1000 years by an ancient gold dragon. Or a kingdom of giants.
 
 ==========
 

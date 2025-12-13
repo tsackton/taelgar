@@ -247,7 +247,7 @@
 
   
 
-*Non-Canonical Development:* The Republic of Svolhas is probably mariner, but nothing about them, including religion is particularly determined, other than a recent (1740s) war with the hobgoblins provoking a naval bulidup. Some notes about patterns of wind and currents exist, but are not strictly canonical. The pirate ship [[Flaming Tempest]] visited the unnamed island off the coast of Cymea, but the details of why are not canonically determined.
+*Non-Canonical Development:* The [[Republic of Svolhas]] is probably mariner, but nothing about them, including religion is particularly determined, other than a recent (1740s) war with the hobgoblins provoking a naval bulidup. Some notes about patterns of wind and currents exist, but are not strictly canonical. The pirate ship [[Flaming Tempest]] visited the unnamed island off the coast of Cymea, but the details of why are not canonically determined.
 
   
 

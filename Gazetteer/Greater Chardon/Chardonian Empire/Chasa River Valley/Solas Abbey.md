@@ -1,8 +1,28 @@
 ---
-tags: [status/stub, place]
+headerVersion: 2023.11.25
+tags: [place, status/check/ai]
+name: Solas Abbey
 typeOf: building
+typeOfAlias: abbey
+whereabouts:
+  - {type: home, location: Chasa River Valley, linkText: in}
+dm_notes: color
+dm_owner: none
 ---
 
+# Solas Abbey
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+Solas Abbey is a ruined religious house on the upper road of the [[Chasa River Valley]]. It is remembered as the first home of the Solatine Order—an itinerant order devoted to [[The Wyrdling]]—and now stands as a lonely landmark for those traveling upriver toward [[Arendum]].
+
+%%^Campaign:none%%
+
+## DM notes
+
+%% Original notes (preserved): %%
+%%
 ## Solas Abbey
 
 - Solas Abbey, the original but now ruined home of the Solatine Order, an iterant order of worshippers the Wyrdling who historically watched over orphans and outcasts, especially those who struggled with their gender identity. While the order is lost and defunct, and the Abbey mostly in ruins, a hermit/priest dedicated to the Wyrdling still lives here, and they still train apprentices.
@@ -20,3 +40,8 @@ The abbey is currently occupied by a lone hermit/priest, who goes by [Mel](Elder
 This is a safe place to rest - shadow hunters cannot get here.
  road (in Elderwood where road passes close to trees); pack of wolves; owlbear(s).  
 
+%%
+
+- Related deity notes include additional Solas Abbey color in comments: [[The Wyrdling]].
+
+%%^End%%
