@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place] 
 name: Aurbez and the Andonne
 typeOf: region
-whereabouts: Istaros Watershed
+whereabouts: Upper Istaros
 dm_owner: none
 dm_notes: none
 ---

@@ -29,7 +29,7 @@ In less troubled times, the three guard companies are established in five garris
 
 Additionally, an ancient training ground and barracks on the shores of [[Tywynn Bay]] still serves as a headquarters and training barracks, especially for the Color Guard. 
 
-Each garrison houses around a hundred soldiers, organized into Camps of between 15 and 20. Each Camp is commanded by a Campwarden, and is in turn divided into three Hands of 5 - 7 soldiers, commanded by a Palm. The Iron Guard is the most numerous within the garrisons, and each Hand is usually a mix of Iron Guard and the warlocks of the Twilight Guard. However, each garrison hosts one or more camps of the Color Guard, typically named for a color (i.e. the Red Camp of the Aben or the Green Camp of the Maerwyn). These are shock calvary, usually fey-touched, and can be a fearsome force on the battlefield.
+Each garrison houses around a hundred soldiers, organized into Camps of between 15 and 20. Each Camp is commanded by a Campwarden, and is in turn divided into three Hands of 5 - 7 soldiers, commanded by a Palm. The Iron Guard is the most numerous within the garrisons, and each Hand is usually a mix of Iron Guard and the warlocks of the Twilight Guard. However, each garrison hosts one or more camps of the Color Guard, typically named for a color (i.e. the Red Camp of the Aben or the Green Camp of the [[Maerwyn Mountains|Maerwyn]]). These are shock calvary, usually fey-touched, and can be a fearsome force on the battlefield.
 
 The garrison is commanded by the Council of Camps, which consists of three members: the Iron Warden, the Color Warden, and the Twilight Warden. In times of crisis or battle, one of the three wardens is elected to serve as the Voice.
 

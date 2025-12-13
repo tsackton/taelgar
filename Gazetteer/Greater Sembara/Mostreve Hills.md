@@ -1,14 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/cleanup/map
-campaignInfo: []
+tags: [place, status/cleanup/map, status/check/name]
 name: Mostreve Hills
 typeOf: topographical feature
 whereabouts: Greater Sembara
 pronunciation: mohs-TRE-vuh or mohs-tre-vay
-dm_owner: mike,tim
+dm_owner: joint
 dm_notes: color
 typeOfAlias: line of hills
 ---
@@ -17,6 +14,8 @@ typeOfAlias: line of hills
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% check/name -> a little weird to have Mountains instead of Hills; maybe Mostreve Uplands? Or just the Mostreve? think about where this name comes from? %%
 
 The Mostreve Hills are a stretch of rough, rocky hills, with some higher peaks, that run in a series of long ridges from the flat plains of the [[Maseau Gap]] to the [[~Cymea Border Mountains~]], dividing [[Sembara]], [[Addermarch]], and [[Tyrwingha]] from the [[Plaguelands]]. They are largely wooded, although some of the highest peaks are above treeline, and the drier southwestern sides of some ridges are high plains with only scattered trees. The climate is temperate, with warm summers, cool winters, and frequent precipitation year round, with occasional winter snowfall on the higher peaks.
 
@@ -30,7 +29,7 @@ The two north-south mountainous ridges are:
 
 The east-west hills are:
 
-* The [[Valenfray Hills]] form a line of gentle rolling hills that run in a broken east-west line, from roughly the [[Aure]] to where they meet the [[Maerwyn Mountains]].  This ridgeline partially separates [[Addermarch]] from the [[Darkwood]]. The westerly parts of these hills are typically gentle, rolling hills with light forests, and are settled by foresters and others. As they ascend to meet the Maerwyns, the terrain grows rougher, with many sharp ravines, making travel challenging. These hills have been extensively fortified over many years by [[Addermarch]] to guard its southern borders from the [[Plaguelands]] and the [[Darkwood]]. 
+* The [[Valenfray Hills]] form a line of gentle rolling hills that run in a broken east-west line, from roughly the [[Aure]] to where they meet the [[Maerwyn Mountains]].  This ridgeline partially separates [[Addermarch]] from the [[Darkwood]]. The westerly parts of these hills are typically gentle, rolling hills with light forests, and are settled by foresters and others. As they ascend to meet the [[Maerwyn Mountains|Maerwyns]], the terrain grows rougher, with many sharp ravines, making travel challenging. These hills have been extensively fortified over many years by [[Addermarch]] to guard its southern borders from the [[Plaguelands]] and the [[Darkwood]]. 
 
 - The ~Tyrwinghan Hills~ form a line of hills and valleys running roughly east-west from the [[Maerwyn Mountains|Maerwyns]] to the [[~Cymea Border Mountains~]].  
 
@@ -55,7 +54,7 @@ The Mostreve Hills, then, can be divided into a number of overall regions based 
 **Note**: in the above player-facing text:
 W = Westcliff
 A except (1) = Valenfray Hills
-A(1), T, and NT = Maerwyn Mountains
+A(1), T, and NT = [[Maerwyn Mountains]]
 O except (1) = ~Tyrwinghan Hlls~
 O(1) = part of ~Cymean Border Mountains~
 

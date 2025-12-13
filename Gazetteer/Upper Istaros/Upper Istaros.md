@@ -52,7 +52,7 @@ The Upper Istaros is defined by its rivers. This region contains [[Lake Aeulian]
 
 %%SECRET[1]%%
 
-In the northwest, the land is flat along the [[Andonne Plain]], although now much of the former ranchlands and wheatfields are turned to dust and ash. The Andonne Plain ends abruptly at the [[Westcliff]], the western edge of the [[Mostreve Hills]]. 
+In the northwest, the land is flat along the [[Andonne Plain]], although now much of the former ranchlands and wheatfields are turned to dust and ash. The [[Andonne Plain]] ends abruptly at the [[Westcliff]], the western edge of the [[Mostreve Hills]]. 
 
 %%SECRET[2]%%
 
