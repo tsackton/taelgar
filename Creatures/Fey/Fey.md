@@ -1,5 +1,6 @@
 ---
 tags: [species, status/needswork]
+aliases: [fey]
 dm_owner: joint
 dm_notes: important
 ---

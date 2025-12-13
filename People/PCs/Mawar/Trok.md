@@ -21,7 +21,7 @@ A lizardfolk warrior, covered in tattoos, who lives on the beach north of the Dr
 
 %% One Note
 
-An outcast lizardfolk who has an unhealthy relationship with [gatza](gatza).
+An outcast lizardfolk who has an unhealthy relationship with [Gatza](Gatza.md).
  
 Tattoo artist, tattooed with different animals that give him powers he can activate.
  

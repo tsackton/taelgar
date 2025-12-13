@@ -2,7 +2,7 @@
 
 ### Places (Excluding Tentative)
 ```dataview
-LIST from #place and !#status/stub and !"Worldbuilding" where !typeOf 
+LIST from #place and !"Worldbuilding" where !typeOf 
 ```
 
 ### Groups

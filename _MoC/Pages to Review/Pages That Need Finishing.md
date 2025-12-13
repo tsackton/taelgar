@@ -43,7 +43,7 @@ sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
 
 ```dataview
 TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
-from #status/stub and "Events"
+from #status/stub and "Events" and !#status/check/ai
 sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
 ```
 
