@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name, status/check/ai]
+tags: [place, status/check/name]
 displayDefaults: {defArt: ""}
 name: Lathirion Lake
 typeOf: lake
 whereabouts:
-  - {type: home, location: Istaros Watershed, linkText: in}
+  - {type: home, location: Istaros Watershed}
 dm_owner: none
-dm_notes: color
+dm_notes: none
 pronunciation: LAH-thee-ree-on
 ---
 # Lathirion Lake
@@ -20,16 +20,8 @@ Lathirion Lake is a lake in the upper [[Istaros Watershed]]. It is fed by three 
 
 The central tributary, the Velassë, is said to flow from within [[Orenlas]] itself, and thus the lake’s shores are little described in the writings of outsiders.
 
-%%^Campaign:none%%
-
-## DM notes
-
-%% Original stub notes (preserved): %%
-%% Haven't thought about it at all; this is just a name stub %%
-
 %% General idea is that this name isn't great. Some other ideas:
 Sindëtêra SEEN-deh-TEH-rah 
 Têrasiriel TEH-rah-sin-dee-el
 %%
 
-%%^End%%

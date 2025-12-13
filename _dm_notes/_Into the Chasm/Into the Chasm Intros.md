@@ -1,6 +1,6 @@
 **For as long as anyone remembers, the Great Chasm has split Zimkova like a wound—an impossible cleft that plunges into endless depths, from which strangeness emerges: spires of impossible buildings, unexpected lights, storms and winds that seem to defy gravity, and unusual and unseasonable plants. 
 
-Although many see it as the home of Zeyfa, the cruel west wind of the Zimkovan legends, not all do: the kenku monks of the Kemeko Monastery see it as a place of safety and refuge, and the mystics of the Vejo Vaikai believe the Chasm is a place of elemental balance.
+Although many see it as the home of Zeyfa, the cruel west wind of the Zimkovan legends, not all do: the kenku monks of the [[Kemeko Monastery]] see it as a place of safety and refuge, and the mystics of the Vejo Vaikai believe the Chasm is a place of elemental balance.
 
 The summer of 1729 in Zimkova started fine and fair, but by late August, rumors of an orcish horde lead by a fearsome orc calling herself the Ravager of Winter, had started to spread across Breva. In early September the news came: a great battle had been fought north of the Great Chasm between the dwarves of Nidzahar, apparently aided by a large contingent of Stoneborn, and the orcish horde. The Ravager was killed, and the bulk of the orcs were defeated - but scattered bands fled south to Breva like angry wasps, and the Mezhai – the woodswalkers – and many others were kept busy defending the people.
 

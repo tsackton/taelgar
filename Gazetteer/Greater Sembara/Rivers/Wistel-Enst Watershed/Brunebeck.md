@@ -17,4 +17,4 @@ dm_owner: mike
 
 The Brunebeck is a tributary of the [[Wistel]], joining the river at [[Wisford]].
 
-%% Arises near the Enst west and north of Eskbridge, and then follows the line of the Tyrwinghan Road until it joins the Wistel at Wisford. This is presumably the source of the [[de Brunes]] name %%
+%% Arises near the Enst west and north of Eskbridge, and then follows the line of the [[Tyrwinghan Road]] until it joins the Wistel at Wisford. This is presumably the source of the [[de Brunes]] name %%
