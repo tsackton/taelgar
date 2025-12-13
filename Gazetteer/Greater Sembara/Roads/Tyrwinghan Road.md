@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/mike]
+tags: [place]
 name: Tyrwinghan Road
 typeOf: road
 whereabouts:
@@ -12,7 +12,5 @@ dm_owner: none
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% check mike for dm frontmatter, additional details, check route %%
 
 The Tyrwinghan Road is a major route linking [[Tafolwern]] and [[Eskbridge]]. From Eskbridge, the road continues to [[Wisford]]. 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/mike]
+tags: [place]
 name: Enad
 typeOf: waterway
 typeOfAlias: brook
