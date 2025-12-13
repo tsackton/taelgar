@@ -1,30 +1,26 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place]
 name: Cymean Peninsula
 typeOf: region
 typeOfAlias: peninsula
 whereabouts:
-  - {type: home, location: Western Green Sea, linkText: in}
-dm_notes: color
+  - {type: home, location: Western Green Sea}
+dm_notes: none
 dm_owner: none
 ---
-
 # The Cymean Peninsula
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Cymean Peninsula is a large stretch of coast and uplands on the [[Western Green Sea]]. It helps shelter the [[Western Gulf]] and is separated from the wider Green Sea by the narrow [[Straits of Cymea]].
+The Cymean Peninsula is a large peninsula that separates the sheltered [[Western Gulf]] from the larger [[Green Sea]]. The narrow [[Straits of Cymea]] separate the peninsula from coastal [[Vostok]]. 
 
-Long a Drankorian province, the peninsula is now better known for the city‑states and river towns collectively called [[Cymea]]. Halfling sailors speak of Cymea as a place of old stone, proud harbors, and rival polities, where Drankorian inheritance still shapes law and culture even as modern powers rise and fall.
+A line of highlands, known as the [[Plataca Hills]], separates the western part of the peninsula from the broad coastal plains to the east. The southern third of the peninsula rises through a series of karst uplands to the  [[~Cymea Border Mountains~]].
 
-The peninsula is divided by the [[Plataca Hills]]; to the south, the uplands give way toward the ill-defined barrier of the [[~Cymea Border Mountains~]].
-
-%%^Campaign:none%%
-
-## DM notes
-
-- Regional framing and development constraints: see the `%%^Campaign:None%%` meta sections in [[Western Green Sea]] and [[Cymea]].
-
-%%^End%%
+%% 
+minimal climatic and geographic development, except for:
+- western cymea separated from rest of cymea by difficult terrain
+- uplands around [[Edge of Echoes]] / [[Elemental Forge]] is karst landscape with caves
+- cymea border mountains are essentially impassable
+%%
