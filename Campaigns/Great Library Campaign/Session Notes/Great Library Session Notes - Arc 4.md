@@ -80,7 +80,7 @@ A few weeks later, they arrive back in [[Voltara]], greeting by [[Julius of Volt
 The party spends some time in [[Voltara]]. They sell treasure, decorate their manor, and purchase an extradimensional vault from an [[Eldeth Redhammer|eccentric dwarven artificer]]. They also receive letters: 
 - from [[Dinia]], saying that [[Airion’s Tower]] is gone; 
 - from [[Iara]], the lizardfolk, saying her people are heading south to [[Lake Valandros]]; 
-- from Archivist [[Lyra]], saying that the elemental scrolls were well-received, that should they find any more of Arion’s treasure they should come to [[Chardon]] to sell it, and also asking if they would look into the disappearance of another group of adventurers in the [[Goldpeak Mine]]s. 
+- from Archivist [[Lyra]], saying that the elemental scrolls were well-received, that should they find any more of Arion’s treasure they should come to [[Chardon]] to sell it, and also asking if they would look into the disappearance of another group of adventurers in the [[Goldpeak Mines]].
 
 With their treasure protected by magic and with [[Julius of Voltara|Julius]] paid and the manor restocked, the party heads out to [[Goldpeak Mines]], where they find a mysterious abandoned camp with dead bodies.
 

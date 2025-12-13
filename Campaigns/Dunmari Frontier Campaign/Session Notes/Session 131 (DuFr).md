@@ -37,7 +37,7 @@ Across three days, the party battered the Iron Fang—tsunami, earthquake, infil
 
 ## Narrative
 
-Our session begins at first light, after a [[The Fox and Hunter Defend Aurbez|night of dreams]] of the [[Fox and Hunter]]. At first light, as the rest of the party made preparations for the battle campaign of the day ahead, Kenzo walked north and reached for the [[Heartroot]]. Warm bread, rain, yeast; the spring of moss underfoot. He felt an ancient fecund mind, bent and constrained, straining toward home, safe but out of place in this land away from the [[Istaros]]. 
+Our session begins at first light, after a night of dreams of the [[Fox and Hunter]]. At first light, as the rest of the party made preparations for the battle campaign of the day ahead, Kenzo walked north and reached for the [[Heartroot]]. Warm bread, rain, yeast; the spring of moss underfoot. He felt an ancient fecund mind, bent and constrained, straining toward home, safe but out of place in this land away from the [[Istaros]]. 
 
 Back at camp in [[Three Wells]], the party spoke again with [[Revaka]], asking for council on their plan of attacks against the marching hobgoblin army of the [[Empress of Chaos]]. Revaka counseled that hobgoblins follow only proven strength, and that if they wanted to dislodge her from control of her army, they must show that she could not protect and lead. 
 

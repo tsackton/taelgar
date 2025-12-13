@@ -11,7 +11,7 @@
 	- Imposed vigil-fasts: waxing-moon weeks with no rest. 
 	- Punished “dream-taint” with public banishment to night-bogs. 
 - Culminated in the Mid-winter Rite, when Yeshara tried to sever the connection between the people of her tribe and the Plane of Consciousness, assuming this would stop them from sleeping and dreaming and thus save them.
-	- To enact the Mid Winter Rite, Yeshara constructed the Cleaver-Stone, an enormous bronze-and-obsidian trilith topped by a wolf-carved lintel.
+	- To enact the Mid Winter Rite, Yeshara constructed the [[Cleaver-Stone]], an enormous bronze-and-obsidian trilith topped by a wolf-carved lintel.
 - In this evil act, the domain of Cairn Dor was created, and Yeshara and her people transported. The Cleaver-Stone became a portal between realms. 
 
 ### The Shadow Wars

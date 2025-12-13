@@ -26,7 +26,7 @@ Plot threads:
  
 1. The Temple of the Order of the Twilight:
     1. Session 9 started 4 days after the centaurs; during session 9 they traveled 5 days west, spend 1 day fighting, and traveled 5 days back to Voltara, so it is now 16 days since the centaurs (at the start of session 10).
-    2. Backstory: the Order of Twilight was a monastic order of healers and hospice care associated with the Night Queen. They were particularly prevalent in Amani, and were thus heavily impacted by the Blood Years. However, a few small pockets of members survived and the Order is now growing again. [Galius Filuso](Worldbuilding/Staging/Great%20Library/People/Galius%20Filuso.md) has been scouting, recruiting, and looking for lost Order sites in the North for a while.
+    2. Backstory: the Order of Twilight was a monastic order of healers and hospice care associated with the Night Queen. They were particularly prevalent in Amani, and were thus heavily impacted by the Blood Years. However, a few small pockets of members survived and the Order is now growing again. [Galius Filuso](Galius%20Filuso.md) has been scouting, recruiting, and looking for lost Order sites in the North for a while.
     3. Xameia the Forsworn will not be satisfied until restitution is made for her sins. There are a bunch of options for this:
         1. If the party donates 2,000 gp to [[Galius Filuso]], or to the Night Queen, making it clear this is to help restore the Order of Twilight, Xameia can rest
         2. If they find the desecrated monastery of the Order of Twilight which was the scene of the demon battle, clear the demons, and pay for the casting of a Hallow spell (1000 gp material components, 300 gp donation to a priest to cast it), that will also satisfy Xameia and let her rest.

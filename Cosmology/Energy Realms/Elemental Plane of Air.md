@@ -59,6 +59,6 @@ There are rumors of more powerful and strange things in the Plane of Air: vast, 
 
 No reliable maps exist of the Plane of Air. Nonetheless, careful scholarship suggests a few landmarks that are likely real:
 
-- [[Sumana]], the City of Clouds, and home of the Dukes of the Four Winds. This is reported to be one of the great cities of the [[Elementals|Djinn]], a place of towering domes built of spun clouds. 
+- [[Sulmana]], the City of Clouds, and home of the Dukes of the Four Winds. This is reported to be one of the great cities of the [[Elementals|Djinn]], a place of towering domes built of spun clouds. 
 - The [[Breath of Aerys]], at the very center of the Plane of Air itself, said to be a place of pure stillness, the source of air itself. The djinni speak of this place as holy, and guard this place from travelers to the Plane of Air. 
 - The [[Azure Archipelago]], a cluster of floating islands, described in [[The Lay of Estar]] and in many subsequent reports. They are said to be lush, verdant islands, drifting in a synchronized dance, surrounded by walls of perpetual mist. 

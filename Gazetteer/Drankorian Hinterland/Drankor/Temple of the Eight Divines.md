@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place]
 dm_owner: tim
 dm_notes: important
@@ -8,7 +9,6 @@ affiliations: [{org: Eight Divines, type: primary}]
 whereabouts: 
 - {type: home, location: Drankor, startFilter: "1"}
 ---
-
 # The Temple of the Eight Divines
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
