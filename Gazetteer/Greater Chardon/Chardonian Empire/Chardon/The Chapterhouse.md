@@ -14,5 +14,5 @@ dm_notes: color
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A quiet student tavern in Precinct IV, the university district of [[Chardon]]
+A quiet student tavern in [[Precinct IV]], the university district of [[Chardon]]
 
