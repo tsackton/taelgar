@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/stub, testcase, status/check/ai]
+tags: [event, testcase]
 DR: 1545
-displayDefaults: {wPastHome: "Fought <home:q>"}
+displayDefaults: 
+ wPastHome: "Fought <home:q>"
+ dPastHasStart: "Fought in <startDate>"
 name: Battle of Urlich Pass
 partOf: Great War
 typeOf: battle
 whereabouts: Urlich Pass
-dm_notes: important
+dm_notes: none
 dm_owner: tim
 ---
 # The Battle of Urlich Pass
@@ -16,27 +18,12 @@ dm_owner: tim
 > Part of The [[Great War]]
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+The Battle of Urlich Pass was the climactic battle of the [[Great War]] in DR 1545. It was fought in the central [[Sentinel Range]] at [[Urlich Pass]], where the armies of [[Sembara]] and [[Ainumarya]], and many allies, met the mostly [[Hobgoblins|hobgoblin]] armies of [[Cha'mutte]].
 
-The Battle of Urlich Pass was the climactic battle of the [[Great War]] in DR 1545. It was fought in the central [[Sentinel Range]] at [[Urlich Pass]], where the armies of [[Sembara]] and their allies met the forces of [[Cha'mutte]].
+The smaller combat between [[Cha'mutte]] himself and the [[Heroes of the Great War]] occurred nearby, within sight of the massed armies; [[Cha'mutte]]'s death marked the true end of the [[Great War]]. 
 
-Later accounts often distinguish between the massed fighting in and around the pass, and the smaller, decisive struggle in which Cha'mutte was slain nearby—an act remembered as the war’s true turning point.
+%% 
 
-%% The prior stub text and notes are kept below for review:
-
-The Battle of Urlich Pass, canonically now, was a large battle between Sembara + allies, including elves, and Cha'mutte's forces, mostly hobgoblins, with the HS party vs Cha'mutte happening within sight but not immediately in the pass itself. Vahaiya, elf now in [[Orenlas]], canonically fought in the Battle of Urlich Pass.
+Vahaiya, elf now in [[Orenlas]], canonically fought in the Battle of Urlich Pass.
 
 %%
-
-## Sources
-
-- [[Great War]]
-- [[Cha'mutte]]
-- [[Vahaiya]]
-
-%%^Campaign:none%%
-
-## DM notes
-
-%% No additional DM-folder notes were collated for this battle during this pass; the most detailed current narrative is preserved in [[Vahaiya]]’s notes and related Great War material. %%
-
-%%^End%%

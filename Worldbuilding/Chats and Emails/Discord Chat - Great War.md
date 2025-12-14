@@ -88,7 +88,7 @@ I think Ulrich Pass should be what people talk about, that's where the huge batt
 
 
 [11/5/2023 8:40 PM] rsulfuratus
-i am happy with [[urlich pass]], and the Battle of Urlich Pass as the final battle of the Great War
+i am happy with [[urlich pass]], and the [[Battle of Urlich Pass]] as the final battle of the Great War
 
 
 [11/5/2023 8:41 PM] rsulfuratus
@@ -132,7 +132,7 @@ Yeah, it is more satisfying to have had it taking place in the sky above the hug
 
 
 [11/5/2023 8:46 PM] rsulfuratus
-with the Battle of Urlich Pass being you all gainst Cha'mutte
+with the [[Battle of Urlich Pass]] being you all gainst Cha'mutte
 
 
 [11/5/2023 8:46 PM] .deciusmus

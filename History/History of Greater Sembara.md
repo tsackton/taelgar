@@ -77,7 +77,7 @@ _DR 1545 - DR 1574_
 Major beats:
 * [[Sentinel Range War]] with hobgoblins
 * Conflict between Anne and Elaine I
-* [[Interregum of 1568]]
+* [[Interregnum of 1568]]
 
 %%^End%%
 ## The Hobgoblin Wars
