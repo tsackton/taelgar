@@ -83,7 +83,7 @@ The [[Sentinel Range|Sentinels]] divide the continent in two, and in general, ar
 ### Dunmari
 The [[Dunmar|Dunmari]] culture dominates this region, and are effectively the only humans between the [[Sentinel Range|Sentinels]], the [[Myraeni Gap]], and the [[Desolation of Cha'mutte]]. Although there are some different cultural strands within the Dunmari culture, between the more traditional east and the more sedentary west, at least in 1749 the Dunmari are still a single (mostly) unified culture.
 
-The Dunmari originated as a unique migration from Hkar, originally to a homeland in the far east (exact location is not canonical). In the years immediately after the fall of Drankor, they travelled west, and somewhere in the [[Istaros Watershed]], split into two groups. One, who continued west, became the modern Dunmari. The other group did not continue west, and presumably returned to their original homeland, although this is not strictly canonical - perhaps they died in the [[~Great Desert~]] or ended up somewhere in the far south or east. 
+The Dunmari originated as a unique migration from Hkar, originally to a homeland in the far east (exact location is not canonical). In the years immediately after the [[fall of Drankor]], they travelled west, and somewhere in the [[Istaros Watershed]], split into two groups. One, who continued west, became the modern Dunmari. The other group did not continue west, and presumably returned to their original homeland, although this is not strictly canonical - perhaps they died in the [[~Great Desert~]] or ended up somewhere in the far south or east. 
 
 ##### Historical Note
 The historical cultures that existed in the [[Hara Basin]] have largely vanished, between the upheavals of the [[First Plague]] and the [[Great War]], and are not currently defined. 
@@ -94,7 +94,7 @@ The people of the [[Aurbez and the Andonne]] are broadly descended from a mix of
 ### Maseau
 The people of [[Duchy of Maseau|Maseau]] were mostly new settlers in the wake of the defeat of the [[Dominion of Avatus]], largely from [[Sembara]].  Close cultural connections have broadly kept language and culture from diverging. 
 ### Isingue
-The Isinguese culture is a purely Drankorian culture. Originally a Drankorian province, it gained a unique culturally identity after the Fall of Drankor. During the Great War, Isingue was destroyed but the culture and language survive in a diaspora. 
+The Isinguese culture is a purely Drankorian culture. Originally a Drankorian province, it gained a unique culturally identity after the [[Fall of Drankor]]. During the Great War, Isingue was destroyed but the culture and language survive in a diaspora. 
 ## Western Green Sea
 
 %% TODO

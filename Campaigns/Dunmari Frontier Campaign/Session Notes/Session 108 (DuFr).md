@@ -179,7 +179,7 @@ The party travels invisibly to the elvish forest, facing new challenges and maki
 The party encounters an ancient memorial at the edge of the forest, gaining insight into the island's history and making a significant connection.
 - They find a clearing where two unusually tall trees stand, with a curving piece of pale gray stone growing between them. The stone bears hundreds of names of elves in Elvish script that seems to drift through the stone like a living memorial.
 - When Delwath touches the stone, a name drifts toward his hand, and he experiences a vision of an elf in battle, providing a glimpse of the [[Downfall Wars]].
-- The trees speak to Kenzo, revealing that there have been no pilgrims for many years, dating back to the fall of Drankor. The trees remember those who died in battle and offer glimpses into their past lives.
+- The trees speak to Kenzo, revealing that there have been no pilgrims for many years, dating back to the [[fall of Drankor]]. The trees remember those who died in battle and offer glimpses into their past lives.
 - The party learns that the memorial was created by elves who were once part of the Drankorian society, which welcomed many different species before its decline.
 - Kenzo speaks to the trees, gaining their trust and receiving a memory of a time when the island was vibrant, filled with people of different species traveling as pilgrims to visit this memorial to ancient Hkar and the dead of the [[Downfall Wars]].
 - They decide to continue their journey, now more aware of the island's deep history and the lingering sorrow that still haunts its ancient places.
