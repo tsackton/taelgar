@@ -1,6 +1,6 @@
 ## Information Blue Has Learned
 
-- The Umbral Covenant were the aggressors in a war against the famous city of Chardon, call the War of the Dark Rift. This war was fought more than 100 years ago, and the Umbral Covenant were conclusively defeated in a naval encounter in the Bay of Chardon. 
+- The Umbral Covenant were the aggressors in a war against the famous city of Chardon, call the [[War of the Dark Rift]]. This war was fought more than 100 years ago, and the Umbral Covenant were conclusively defeated in a naval encounter in the Bay of Chardon. 
 - During the war, however, the Umbral Covenant captured much of the Apporian Peninsula (a penisula west of Chardon), and destroyed the dwarven kingdom of Enderra which had thrived in the interior mountains of the peninsula. 
 - Many rumors suggest that the Umbral Covenant in fact started the war from somewhere, emerging in the middle of Enderra somehow. Some people claim the dwarves brought doom upon themselves by experimenting with dangerous magic. 
 - Many of the soldiers in the army of the Umbral Covenant seemed to be some kind of corrupted shadow dwarves, nightmares of their former selves, now somehow turned to fight for their shadow masters. 

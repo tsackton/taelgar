@@ -34,7 +34,7 @@ Among the most commonly named regions of the empire are:
 - The [[Coastlands]], the long western littoral of farms, rivers, beaches, and wetlands that runs north and south of Chardon.
 - The shores and tributaries of [[Lake Valandros]], a key inland route linking the northern frontier to the imperial core.
 - The [[Northern Provinces]] beyond Lake Valandros, a lightly settled frontier whose wealth is tied to [[Voltara]] and [[Chalyte|chalyte]].
-- The Apporian provinces on the [[Apporia|Apporian Peninsula]], a coastal realm shaped by the canal trade and the memory of the War of the Dark Rift.
+- The Apporian provinces on the [[Apporia|Apporian Peninsula]], a coastal realm shaped by the canal trade and the memory of the [[War of the Dark Rift]].
 - The southern mining province of [[Alta Tonaro]], centered on [[Argento]] in the northern [[Chataan Mountains]].
 - The archipelago of [[Illoria]], recently conquered and governed as a protectorate.
 

@@ -52,7 +52,7 @@ Most people believe that the oldest parts of Tollen -- [[Fiskurth]], [[Skepwalk]
 
 #### Basic Vibes
 
-The Skaer become a dominant maritime force in the pre-Drankorian western Green Sea (cf. [[History of the Skaer]]), and Tollen is a significant part of their empire, but almost no details are invented about this time. It is possible that Tollen is nearly completely destroyed early in this period, or during the Downfall Wars, and rebuilt by the Skaer, or it is possible that a significant settlement survives the Downfall. 
+The Skaer become a dominant maritime force in the pre-Drankorian western Green Sea (cf. [[History of the Skaer]]), and Tollen is a significant part of their empire, but almost no details are invented about this time. It is possible that Tollen is nearly completely destroyed early in this period, or during the [[Downfall Wars]], and rebuilt by the Skaer, or it is possible that a significant settlement survives the Downfall. 
 
 There is a possibility the Skaer are a raiding culture at this time, e.g. spreading along the coast as far south as the mouth of the [[Semb]], raiding upriver for timber and impressed sailors to row their great ships, and seeking converts for their religion. But this is not canonical and might be wrong; details of the Skaer empire at this time should be developed in [[History of the Skaer]].  One note about this however is that there is a suggestion in the [[History of Greater Sembara]] that the Skaer are raiding during the formative period of Sembara (i.e. 1200s) which may impact earlier raiding culture - although whether this makes it more or less likely is not clear.
 

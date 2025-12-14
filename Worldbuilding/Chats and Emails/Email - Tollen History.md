@@ -6,9 +6,9 @@ Sketched out a brief history of Tollen in context of a possible one-shot with Er
   
 Tollen was originally founded on the north bank of the Voltra river by the first mariner migrants from Hkar, before the Downfall, in the year 3902 by the Dwarven reckoning. Originally something of a backwater at the far eastern edge of the Green Sea, over the next 100 years it became a center of commerce and trade, and a place where the mariner culture, the northern culture of the highlands, and the non-humans (lizardfolk and halflings, mostly) of the western Green sea mingled. Even in this early age, Tollen was a religiously open and cosmopolitan place, and the worship of ~OceanGod~ coexisted with the developing Kestavan tradition.  
   
-In 4050s, the Downfall Wars begin, and Tollen is cut off from the eastern Green Sea as long voyages become too dangerous and the ocean itself turns violent as storms wrack the seas and the great swamps to the south start to dry.  
+In 4050s, the [[Downfall Wars]] begin, and Tollen is cut off from the eastern Green Sea as long voyages become too dangerous and the ocean itself turns violent as storms wrack the seas and the great swamps to the south start to dry.  
   
-Cities become dangerous and by 4122 when the Downfall Wars have ended, Tollen is virtually abandoned, and the land that will become Sembara depopulated, settled by scattered villages of farmers, with Embry and a few other river towns among the only significant population settlements.  
+Cities become dangerous and by 4122 when the [[Downfall Wars]] have ended, Tollen is virtually abandoned, and the land that will become Sembara depopulated, settled by scattered villages of farmers, with Embry and a few other river towns among the only significant population settlements.  
   
 By the 4200s, the Skaer have established themselves as the dominant mariner culture in the western Green Sea, and resettle Tollen. Over the next 300 years, the Skaer grow stronger, spreading along the coast as far south as the mouth of the Semb, raiding upriver for timber and impressed sailors to row their great ships, and seeking converts for their religion. Tollen develops as a major trade center for the emerging Skaer empire, and begins to grow again.  
   
@@ -42,7 +42,7 @@ a few thoughts, a little disjointed....
   
 * I like the idea of Tollen always being on the 'edge' in the points where it wasn't powerful, and never being a major part of someone else's empire. That isn't to say it shouldn't have various ancient connections, but that it was never itself Sembaran, or Drankorian, or Skagen, at least not in an important sense.
 
-* Is there a place for some kind of magical / extraplanar reason for why it is so religiously open? A connection to outer planes, or maybe it was defended during the Downfall Wars by an army of small gods, and something about that sacrifice magnifies the divine essence. Or something.
+* Is there a place for some kind of magical / extraplanar reason for why it is so religiously open? A connection to outer planes, or maybe it was defended during the [[Downfall Wars]] by an army of small gods, and something about that sacrifice magnifies the divine essence. Or something.
 
 A few other times in history that you've outlined that seem fraught with possibility:
 
@@ -85,7 +85,7 @@ From here, your history keeps it independent as well.
 ===========
 Lots of great ideas here. 
 
-Definitely like the idea of people still talking about the ancient days in Tollen, although of course what is true is always hard to know, but some of the institutions that claim to date from the old mariner days before the Downfall wars actually do. 
+Definitely like the idea of people still talking about the ancient days in Tollen, although of course what is true is always hard to know, but some of the institutions that claim to date from the old mariner days before the [[Downfall wars]] actually do. 
 
 I also like the idea that it was never the center of anyone else's empire. It was the western edge of the Skaer empire, the northern edge of Drankor, etc. During the Great War years when Derik III claimed overlordship of all the land of Sembara, Vostok, and Tyrwingha was probably its least independent moment in some sense, but even then it was never truly Sembaran (although this sets the stage for the intertwining of the Sembaran royal house and the upper echelons of the Tollen merchant class in the 1600s). 
 
@@ -95,7 +95,7 @@ I will think a bit about the gods and why it is such an open place. Doesn't need
 
   
 
-I do think it is useful/interesting to have a few "gaps" in Tollish history, specifically around the Downfall Wars and around the First Plague. Doesn't mean the city was entirely abandoned -- maybe the only people who stayed through the Downfall Wars were the ancient philosopher's guild or whomever, and when the Skaer resettled 100 years later they found weird old sages living in the ruins. 
+I do think it is useful/interesting to have a few "gaps" in Tollish history, specifically around the [[Downfall Wars]] and around the First Plague. Doesn't mean the city was entirely abandoned -- maybe the only people who stayed through the [[Downfall Wars]] were the ancient philosopher's guild or whomever, and when the Skaer resettled 100 years later they found weird old sages living in the ruins. 
 
   
 
@@ -109,7 +109,7 @@ On Sun, Jan 9, 2022 at 4:45 PM Tim Sackton <[timsackton@gmail.com](mailto:timsac
 > 
 >   
 > 
-> Definitely like the idea of people still talking about the ancient days in Tollen, although of course what is true is always hard to know, but some of the institutions that claim to date from the old mariner days before the Downfall wars actually do. 
+> Definitely like the idea of people still talking about the ancient days in Tollen, although of course what is true is always hard to know, but some of the institutions that claim to date from the old mariner days before the [[Downfall wars]] actually do. 
 > 
 >   
 > 

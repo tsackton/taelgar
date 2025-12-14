@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/stub, status/check/ai]
+tags: [event, status/cleanup/metadata]
 name: Summer Gnoll Raids of 1748
 typeOf: raids
 DR: 1748-04
@@ -9,28 +9,13 @@ whereabouts: Eastern Dunmar
 dm_notes: important
 dm_owner: tim
 ---
+# The Summer Gnoll Raids of 1748
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-# Summer Gnoll Raids
+%% dates approx, can extract precise info from session and dm notes %%
 
-In the spring and summer of DR 1748, gnoll warbands swept across [[Eastern Dunmar]], attacking villages and caravans and driving waves of refugees westward. The raids struck hardest along the fringe of the [[Nashtkar]] and the lands around [[Karawa]] and [[Bas Udda]].
+In the spring and summer of DR 1748, gnoll warbands swept across [[Eastern Dunmar]], attacking villages and pastoralist camps, and driving waves of refugees westward towards [[Tokra]]. The raids struck hardest around [[Karawa]] and [[Bas Udda]], both of which suffered heavy damage, and took advantage of the disruption in [[Shakun's Protection]] caused by the meddling of [[Agata|Agata Dustmother]]. 
 
-The raids weakened the border cults that defended Dunmar’s eastern marches; in particular, the [[Shakun Mystai]] suffered heavy losses, and communities across the east were left shaken for months afterward.
-
-%% stub for the events of the early campaign %%
-
-## Sources
-
-- [[Bas Udda]]
-- [[Shakun Mystai]]
-- [[Nayan Sura]]
-
-%%^Campaign:none%%
-
-## DM notes
-
-- Campaign notes connect the raids to the activities of the [[Fraternity of the Empty Moon]] and [[Agata]]; see:
-  - [[Ivory Scroll Case]]
-  - [[Session 39 (DuFr)]]
-- This page should be reviewed against any “public” Dunmari chronicles that the party recovered or that exist elsewhere in the vault, to separate rumor from attested history.
-
-%%^End%%
+%% full story is mostly captured in [[Session 39 (DuFr)]] %%

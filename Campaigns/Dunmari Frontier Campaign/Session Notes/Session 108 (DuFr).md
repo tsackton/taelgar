@@ -178,10 +178,10 @@ The party travels invisibly to the elvish forest, facing new challenges and maki
 ### Elven Memorial and Memories
 The party encounters an ancient memorial at the edge of the forest, gaining insight into the island's history and making a significant connection.
 - They find a clearing where two unusually tall trees stand, with a curving piece of pale gray stone growing between them. The stone bears hundreds of names of elves in Elvish script that seems to drift through the stone like a living memorial.
-- When Delwath touches the stone, a name drifts toward his hand, and he experiences a vision of an elf in battle, providing a glimpse of the Downfall Wars.
+- When Delwath touches the stone, a name drifts toward his hand, and he experiences a vision of an elf in battle, providing a glimpse of the [[Downfall Wars]].
 - The trees speak to Kenzo, revealing that there have been no pilgrims for many years, dating back to the fall of Drankor. The trees remember those who died in battle and offer glimpses into their past lives.
 - The party learns that the memorial was created by elves who were once part of the Drankorian society, which welcomed many different species before its decline.
-- Kenzo speaks to the trees, gaining their trust and receiving a memory of a time when the island was vibrant, filled with people of different species traveling as pilgrims to visit this memorial to ancient Hkar and the dead of the Downfall Wars.
+- Kenzo speaks to the trees, gaining their trust and receiving a memory of a time when the island was vibrant, filled with people of different species traveling as pilgrims to visit this memorial to ancient Hkar and the dead of the [[Downfall Wars]].
 - They decide to continue their journey, now more aware of the island's deep history and the lingering sorrow that still haunts its ancient places.
 
 
@@ -218,7 +218,7 @@ The party encounters the elderly dragonet Dimitaur, who tests their intentions a
 - Decided to travel towards the elven forest and look for the rumored elder; traveled invisibly until reaching the edge of the forest, arriving around 5 pm (in-world).
 - Followed pilgrim’s path towards mountain peak:
 - Found a damaged memory pool; Kenzo looked but avoided triggering it; passed by a second memory pool.
-- Passed an elven memorial, resembling branches grown into stone between two trees on the side of the path; Delwath touched it and received a short memory and vision of an elven warrior — a quartermaster who had become a soldier and died in the Downfall Wars.
+- Passed an elven memorial, resembling branches grown into stone between two trees on the side of the path; Delwath touched it and received a short memory and vision of an elven warrior — a quartermaster who had become a soldier and died in the [[Downfall Wars]].
 - Kenzo spoke to the tree, which communicated that the forest was one organism that had come to the island when it turned from a refuge to a memorial.
 - Kenzo sensed a dragonet at the summit; Delwath sent a lynx to bring a message (no response). Delwath then scried and saw the dragonet making a trap in the temple of the Sibyl; short rest.
 - Reached the temple: Avoided the trap carefully (Wellby), then encountered Dimitaur, who was hiding in a tunnel that Seeker sensed (using tremorsense/stone sense) and using a cantrip to project a booming voice pretending to be the god statue speaking.

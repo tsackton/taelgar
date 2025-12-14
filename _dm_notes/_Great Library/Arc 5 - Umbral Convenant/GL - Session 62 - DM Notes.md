@@ -2,7 +2,7 @@
 
 ### Yeshara and Cairn Dor
 
-- Thousands of years ago, before the Downfall Wars, the Yo'nari, a tribe of proto-Deno'qai, lived in the interior mountains of Apporia. (**Yo’nari** /yo-NAH-ree/)
+- Thousands of years ago, before the [[Downfall Wars]], the Yo'nari, a tribe of proto-Deno'qai, lived in the interior mountains of Apporia. (**Yo’nari** /yo-NAH-ree/)
 - They often interacted with the fey in those days, and they called the Feywild **Nazil-Dimu** /nah-ZEEL DEE-moo/
 - They had a queen, Yeshara (**Yeshara** /yeh-SHAH-rah/), who came to believe that the fey lived in dreams, and sleep was made you vulnerable. She more or less went mad after her brother, **[[Ilanar]]** (/ee-lah-NAHR/), vanished after striking a bargain with a silver-tongued fey trickster; Yeshara later found [[Ilanar]] in a catatonic dream-torpor. This “proof” cemented her crusade.
 - Before the cult formed, Yeshara barred the longhouse doors each night, forcing her household—spouse, young daughter, elderly aunt—to chant wake-mantras until dawn. After eleven nights the child slipped into microsleep; Sarzel, panicked, doused her with scalding cauldron-water. The girl died, and Sarzel proclaimed it proof that even love could not sway the fey’s grip.
@@ -25,9 +25,9 @@
 		- Because of this, until the fall of Drankor, no more shadow wars happened
 	- A war in the 1100s / early 1200s, in the aftermath of the fall of Drankor, when Castrella is just beginning to emerge as a major power, and the fort had been abandoned. This is when the "hero of the crystal" fights (connection to Blue's backstory). Possibly a small party reaches the fort / Cleaver-Stone, but never returns? The soul compass is damaged during this war, and the Cleaver-Stone portal locked again, but the fort is not restored. This is the war where the name, the Umbral Covenant, is invented for the enemies - but the Umbral Covenant is not what the shadow armies call themselves, they are the Shemra-Azem, the "Guardians of the Eternal Waking". 
 		- For a time, neither Yeshara nor anyone else occupies the fort. The details don't really matter here but perhaps somehow it is lost, Yeshara is temporarily bound, something. 
-	- The War of the Dark Rift, about 150 years ago, involved the destruction of a dwarven kingdom near the Cleaver-Stone, and ended with a major defeat of the shadow forces but did not involve any investigation of the interior. 
-		- The War of the Dark Rift erupted not from the Cleaver-Stone -- which was still lost to Yeshara -- but somehow (details TBD) from a separate rift. 
-		- While Yeshara and the Shemra-Azem were defeated and suffered a major setback in terms of number of warriors, as a consequence of the War of the Dark Rift they were able to recapture the fort and rediscover the Cleaver-Stone
+	- The [[War of the Dark Rift]], about 150 years ago, involved the destruction of a dwarven kingdom near the Cleaver-Stone, and ended with a major defeat of the shadow forces but did not involve any investigation of the interior. 
+		- The [[War of the Dark Rift]] erupted not from the Cleaver-Stone -- which was still lost to Yeshara -- but somehow (details TBD) from a separate rift. 
+		- While Yeshara and the Shemra-Azem were defeated and suffered a major setback in terms of number of warriors, as a consequence of the [[War of the Dark Rift]] they were able to recapture the fort and rediscover the Cleaver-Stone
 	- Now, another shadow war is starting during the long, slow build up (lizardfolk village incursions).
 		- With access to the Cleaver-Stone and the soul compass, Yeshara can be sneaky and infiltrate almost anywhere. Lizardfolk, due to their connection to the Dreamworld, are particularly strong as "dreamers", and so Yeshara has focused on stealing lizardfolk, taking whole villages to leave a mystery. But people in Apporia have also been affected. 
 
@@ -47,7 +47,7 @@ The first part of the adventure is getting to the fort. Information should point
 
 ### Blue's Backstory Connection
 
-The story of Blue's crystal starts during the War of Severed Dreams (the war before the War of the Dark Rift). 
+The story of Blue's crystal starts during the War of Severed Dreams (the war before the [[War of the Dark Rift]]). 
 
 During this war, the human forces fight mostly to a stalemate, but a small group of adventurers fights their way to the fort. They manage to damage the soul compass and reactivate the Drankorian portal locks, but are killed. 
 
@@ -108,7 +108,7 @@ Basic vibes of secrets and clues fall into a few categories.
 
 (1) A number of rumors, from refugees of mountain villages (and maybe lizardfolk), point to something bad happening in the mountains. Waves of insomnia, sleeping sickness in babies from the river valley. People fleeing. Villages abandoned with no one knowing what happened. More recent disappearances have been scattered across the west coast, but the first were in a cluster, before Yeshara focused in on lizardfolk. But more this is about villages being abandoned because of the weird sleep-related problems in the mountains than anything else. 
 
-(2) A number of rumors, particularly from stoneborn, about the history. Rumors of the War of the Dark Rift, and in particular rumors that the Umbral Covenant was originally hunting for something in the mountains. 
+(2) A number of rumors, particularly from stoneborn, about the history. Rumors of the [[War of the Dark Rift]], and in particular rumors that the Umbral Covenant was originally hunting for something in the mountains. 
 
 (3) Deep ancestral legends, from bards and singers and people who are attuned to folk legends. These hint at the ancient people, the legends of the wolf-eyed queen, the legends of the sleepless watch and the midnight rite, basically this is all about how Yeshara is a folk witch now, who comes to steal your dreams. 
 

@@ -2,8 +2,8 @@ Vril'ghaal, Harbinger of the Shadowed Tides
 
 Defeated the aboleth, revealing that the aboleth was working for a secret group called the Umbral Conclave. He was raising an army for some purpose.
 
-Next session will be back in Voltara, downtime/research, level ups. Learn that the Umbral Conclave was a group behind the the War of the Dark Rift, to the south. Can possibly find some clues:
-- The Umbral Conclave was associated with a extraplanar incursion from the Shadowfell, that sparked the War of the Dark Rift
+Next session will be back in Voltara, downtime/research, level ups. Learn that the Umbral Conclave was a group behind the the [[War of the Dark Rift]], to the south. Can possibly find some clues:
+- The Umbral Conclave was associated with a extraplanar incursion from the Shadowfell, that sparked the [[War of the Dark Rift]]
 - They were defeated by Chardonian armies, after the Shadow Armanda was destroyed
 - The Umbral Conclave were said to be commanded by a creature known as Vril'ghaal, the Harbinger of the Shadowed Tides
 - They were assumed to all be killed, although know one knows for sure

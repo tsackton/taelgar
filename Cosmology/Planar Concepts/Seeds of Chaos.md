@@ -17,7 +17,7 @@ Rai, however, apparently never returned from his [[Second Dream of Rai|encounter
 
 The only canonical invention around Seeds of Chaos has to do with Cha'mutte's death and the aftereffects. However, there is no reason the basic concept must be limited to Cha'mutte. 
 
-The same process could be reused for other upheavals, e.g. the end of the Downfall Wars. 
+The same process could be reused for other upheavals, e.g. the end of the [[Downfall Wars]]. 
 
 %%^End%%
 
