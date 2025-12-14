@@ -1,13 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/mike]
+tags: [place]
 name: Dravnieki
 typeOf: settlement
 typeOfAlias: village
-whereabouts:
-  - {type: home, location: Zimkova}
+whereabouts: Breva
 pronunciation: DRAHV-nyeh-kee
-dm_notes: color
+dm_notes: none
 dm_owner: mike
 ---
 # Dravnieki
@@ -15,8 +14,6 @@ dm_owner: mike
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% status/check/mike for metadata, additional details if relevant %%
 
 Dravnieki is a small village in [[Zimkova]], on the upper reaches of the [[Teft]]. 
 
