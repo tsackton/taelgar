@@ -21,4 +21,4 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The eldest son of [[Eloise|Eloise]], he ruled Sembara after the [[Interregum of 1568]]. He was a mostly ineffectual king and was partly selected as a compromise because he had no children and thus no immediate heir. He was known to be close to his husband, Alfred. 
+The eldest son of [[Eloise|Eloise]], he ruled Sembara after the [[Interregnum of 1568]]. He was a mostly ineffectual king and was partly selected as a compromise because he had no children and thus no immediate heir. He was known to be close to his husband, Alfred. 

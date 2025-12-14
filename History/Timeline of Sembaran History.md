@@ -262,7 +262,7 @@ DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 - (DR:: 1564): A year of fine harvests and the first year in living memory when the borders of Sembara are at peace
 - (DR:: 1565): [[Blanche I]] departs on her [[Grand Ambassadorship of Blanche I]] to the [[Green Sea]]
 - (DR:: 1566): [[Blanche I]] returns from her grand tour, and starts to show significant favoritism to her sister [[Elaine I]]
-- (DR:: 1568): The [[Interregum of 1568]]. [[Wisym I]] appointed King.
+- (DR:: 1568): The [[Interregnum of 1568]]. [[Wisym I]] appointed King.
 ## The Hobgoblin Wars
 DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 

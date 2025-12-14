@@ -20,7 +20,7 @@ Urlich Pass is a high pass through the [[Sentinel Range|Sentinels]]. Before the 
 
 In the [[Feywild]], the region around Urlich Pass is echoed by [[Sharpspire]], a realm said to have fallen since the Great War and now described as a no-man’s-land.
 
-The site of the final battle against Cha'mutte, the Battle of Urlich Pass, which was the climatic event of the high school campaign. Canonically, that battle took place at Urlich Monastery, which was somehow associated with the dwarven firstborn or some way to make it easier for Cha'mutte to attack the firstborn. Likely this was a special kind of extraplanar weak spot, somehow connecting to the firstborn realms, and also the site of some kind of structure - perhaps a dwarven monastery, perhaps something else. 
+The site of the final battle against Cha'mutte, the [[Battle of Urlich Pass]], which was the climatic event of the high school campaign. Canonically, that battle took place at Urlich Monastery, which was somehow associated with the dwarven firstborn or some way to make it easier for Cha'mutte to attack the firstborn. Likely this was a special kind of extraplanar weak spot, somehow connecting to the firstborn realms, and also the site of some kind of structure - perhaps a dwarven monastery, perhaps something else. 
 
 See also:
 

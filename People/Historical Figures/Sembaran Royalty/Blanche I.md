@@ -23,7 +23,7 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-A ruler of Sembara during the 1560s, she was the second child of [[Reginald]]. Her death launched the [[Interregum of 1568]], as her sisters, [[Anne]] and [[Elaine I]] disputed the succession.
+A ruler of Sembara during the 1560s, she was the second child of [[Reginald]]. Her death launched the [[Interregnum of 1568]], as her sisters, [[Anne]] and [[Elaine I]] disputed the succession.
 
 %%
 
