@@ -42,19 +42,19 @@ The party survives an assassination ambush, uncovers a fairy infiltrator in the 
 - **[[Marceline Dupont|Baronial Guard Captain]]** – rescues the party from ambush
 - **[[Damien Montrichard]]** – ranger accused of hiring the assassins
 - **[[Areschera|Fairy Clerk]]** – posing as the baroness's representative, actually a shapeshifter
-- **[[Lady Debrune]]** – prisoner held under guard, cousin of the party's ally
-- **[[Istarias|Mysterious Fey]]** – servant to [[Lady Debrune]], warned [[Celyn]] before about poisoned food
+- **[[Sabine de Brune]]** – prisoner held under guard, cousin of the party's ally
+- **[[Istarias|Mysterious Fey]]** – servant to [[Sabine de Brune]], warned [[Celyn]] before about poisoned food
 - **[[Duskhounds|Duskhound]]** – terrifying horned fey who checks on prisoners
 - **[[Victorine Rosseau|Local Magistrate]]** – writes requesting help with murder case
 - **[[Marceline Dupont|Captain of Horse]]** – military officer helping coordinate defense
-- **[[Merriweather's Tailor Shop|The Merriweathers]]** – offer to help smuggle [[Lady Debrune]]
+- **[[Merriweather's Tailor Shop|The Merriweathers]]** – offer to help smuggle [[Sabine de Brune]]
 
 ## Places
 
 - **[[Veltor]]** – town where party encounters intrigue
 - **Great Road** – site of assassination ambush
 - **Barracks** – where party is billeted
-- **Keep** – where [[Lady Debrune]] is imprisoned
+- **Keep** – where [[Sabine de Brune]] is imprisoned
 - **Warlord Temple** – where party volunteers and gathers information
 
 ## Rumors and Information
