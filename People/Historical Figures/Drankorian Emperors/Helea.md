@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person]
+tags: [status/incomplete, person]
 name: Helea
 born:
 title: Emperor

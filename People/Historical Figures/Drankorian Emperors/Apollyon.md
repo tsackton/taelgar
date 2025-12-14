@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, testcase, status/gameupdate/base]
+tags: [person, testcase, status/gameupdate/base]
 displayDefaults: {boxInfo: '<subspecies> (<species:s>), <pronouns>'}
 campaignInfo: []
 name: Apollyon

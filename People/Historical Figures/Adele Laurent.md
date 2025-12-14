@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person]
 affiliations: [The Rangers]
 name: Adèle Laurent
 whereabouts: 

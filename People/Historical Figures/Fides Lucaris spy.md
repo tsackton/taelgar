@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person]
 species: human
 gender: female
+died: 1
 dm_notes: color
 dm_owner: none
 ---

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/cleanup/text]
+tags: [person, status/cleanup/text]
 name: Blanche I
 born: 1538
 species: human
