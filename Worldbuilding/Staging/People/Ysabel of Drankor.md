@@ -1,5 +1,5 @@
 ---
-tags: [person, historical, status/check/ai]
+tags: [person, status/check/ai]
 campaignInfo: []
 species: human
 ancestry: Drankorian

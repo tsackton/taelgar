@@ -14,8 +14,8 @@ gender: enby
 affiliations: [{org: The Rangers, start: 1640, end: 1720 }]
 whereabouts:
 - {type: home, start: '', end: 1545, location: Ainumarya}
-- {type: away, start: 1545, end: 1721, location: 'traveling around greater Sembara'}
-- {type: home, start: 1721, location: Erelion}
+- {type: away, start: 1545, end: 1720-07-30, location: 'traveling around greater Sembara'}
+- {type: home, start: 1720-07-31, location: Erelion}
 dm_owner: mike,tim
 dm_notes: none
 ---
@@ -30,7 +30,7 @@ dm_notes: none
 
 ![[vahaiya-portrait.png|right|400]]Vahaiya is a warrior, traveler, adventurer, and veteran of the [[Great War]]. They fought with the Sembaran Army in the in the [[Battle of Urlich Pass]], and survived. After the Great War, they traveled extensively around [[Addermarch]], the [[Aurbez Plateau]], [[Duchy of Maseau|Maseau]], and other Sembaran borderlands for many years. They made a name for themselves in the Sembaran hobgoblin wars.
 
-%%^Date:1721%%
+%%^Date:1720-07-30%%
 Growing tiring of fighting after many years, they settled in [[Erelion]], where they now live, spending time as an artist and art collector. 
 %%^End%%
 
