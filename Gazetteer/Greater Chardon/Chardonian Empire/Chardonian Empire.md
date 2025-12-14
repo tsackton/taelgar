@@ -74,7 +74,7 @@ The dominant tongue of the empire is [[Languages#Chardonian|Chardonian]], a desc
 
 ## A Brief History
 
-The empire is young by the standards of Chardon, whose own founding as a Drankorian fortress‑town predates it by more than a millennium. In the centuries after the [[fall of Drankor]], Chardon grew as a city of learning and trade; in the generations after the [[Great War]], it began to consolidate power beyond its walls.
+The empire is young by the standards of Chardon, whose own founding as a Drankorian fortress‑town predates it by more than a millennium. In the centuries after the [[Fall of Drankor]], Chardon grew as a city of learning and trade; in the generations after the [[Great War]], it began to consolidate power beyond its walls.
 
 In the most commonly told imperial chronology:
 

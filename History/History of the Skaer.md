@@ -63,7 +63,7 @@ Nothing is invented about the Skaer during the Drankorian era, except that the S
 ## Competition
 _DR 1059 - DR 1700ish
 
-After the [[fall of Drankor]], the Skaer culture grows in the absence of Drankorian control, does not establish an empire or control significant territory within the Western Gulf, partly due to increased maritime competition from [[Cymea]] in this era. 
+After the [[Fall of Drankor]], the Skaer culture grows in the absence of Drankorian control, does not establish an empire or control significant territory within the Western Gulf, partly due to increased maritime competition from [[Cymea]] in this era. 
 
 %%^Campaign:none%%
 ### DM Notes

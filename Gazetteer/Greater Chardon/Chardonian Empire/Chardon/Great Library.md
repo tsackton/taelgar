@@ -20,7 +20,7 @@ The oldest building and organization in Chardon, dedicated to collecting and pre
 
 ## History
 - (DR:: 688): *(Great Library)*: A small library is constructed in Chardon, known as the Sibyline Archives, associated with the [[Sibylinites]], a secret order in Drankor devoted to secret knowledge of [[The Sibyl]]. 
-- (DR:: 1063): *(Great Library)*: The Sibyline Archives are expanded, nearly doubling in size, to accomodate books and knowledge saved from the [[fall of Drankor]]. Become known as The Great Library of Chardon
+- (DR:: 1063): *(Great Library)*: The Sibyline Archives are expanded, nearly doubling in size, to accomodate books and knowledge saved from the [[Fall of Drankor]]. Become known as The Great Library of Chardon
 
 %%SECRET[1]%%
 

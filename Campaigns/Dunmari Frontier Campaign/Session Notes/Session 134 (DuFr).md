@@ -75,7 +75,7 @@ As the party returned to their camp to discuss, urgency met caution. They had th
 ### Vision of the Limbo Wound
 
 - The party returned to camp and found Cuddle in Malra, Ranger devotee of the Fox and Hunter, in prayer to Beryl.
-- Malra recalled that the Green Man once spoke with the Fox and the Hunter before the War of the Ashen Horde and vanished on a quest.
+- Malra recalled that the Green Man once spoke with the Fox and the Hunter before the [[War of the Ashen Horde]] and vanished on a quest.
 - Malra led an incense prayer to Beryl beneath the rising Fox and the Hunter, opening a shared vision.
 - Beryl revealed the calamity was a planar wound rather than a portal, a vortex of Limbo spilling into Isengay.
 - The vision showed Rye on the Isteros River before Isengay with monks of the Awakened Soul, attempting to close it and vanishing as his hand shattered into five.

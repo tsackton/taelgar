@@ -11,6 +11,6 @@ The Battle of Heartroot Vale (DR 1749) was the climactic engagement that blunted
 %%
 DM notes / sources
 - Session 130 (DuFr): Three Wells council; revelation of the Heartroot’s nature; muster decision following a favorable omen from the Fox and Hunter.
-- Session 132–134 (DuFr): battle arc and aftermath; notes on casualties, Stoneborn arrival closing the retreat, camp recollections of earlier threats (Ashen Horde).
-- See also: Heartroot; Refounded Alliance of Aurbez; Iron Fang; Fox and Hunter (omen); War of the Ashen Horde.
+- Session 132–134 (DuFr): battle arc and aftermath; notes on casualties, Stoneborn arrival closing the retreat, camp recollections of earlier threats ([[War of the Ashen Horde|Ashen Horde]]).
+- See also: Heartroot; Refounded Alliance of Aurbez; Iron Fang; Fox and Hunter (omen); [[War of the Ashen Horde]].
 %%

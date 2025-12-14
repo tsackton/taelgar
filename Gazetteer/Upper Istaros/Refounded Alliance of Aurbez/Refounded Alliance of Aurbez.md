@@ -93,7 +93,7 @@ Old stories and place-names remember an early alliance of humans, lizardfolk, an
 - DR 1620s - DR 1630s. road regularly opened from Dunmar to Aursen, though few travel north of there and March is still quite dangerous. 
 - DR 1650s - DR 1680s - wave of settlement after hobgoblin wars end, especially in March of Andonne. road fully open to Sembara. 
 - DR 1670s - DR 1710s - much debate about politics - Isingue as past or future, etc. 
-- DR 1720 - War of the Ashen Hoard. Mutual defense pacts and militias organized; alliance is refounded. this is when the "Refounded Aliliance" name is coined. 
+- DR 1720 - War of the [[War of the Ashen Horde|Ashen Hoard]]. Mutual defense pacts and militias organized; alliance is refounded. this is when the "Refounded Aliliance" name is coined. 
 
 %%
 
