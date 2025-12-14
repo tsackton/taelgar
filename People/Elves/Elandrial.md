@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person]
 campaignInfo: [{campaign: DuFr, type: heard about him, date: 1749-01-08, wParty: "<person:U> <met> on <target>"}]
 name: Elandrial
 born:

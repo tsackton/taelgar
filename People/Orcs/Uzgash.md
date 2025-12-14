@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person]
 name: Uzgash
 born:
 species: orc
-ancestry:
+died: 1
 gender: male
 affiliations: [{org: People of the Rainbow, type: primary}]
 dm_owner: tim

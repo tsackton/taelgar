@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/cleanup/metadata, person, historical]
+tags: [status/cleanup/metadata, person]
 species: giant
 subspecies: frost
 gender: male

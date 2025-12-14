@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/check/minor, status/needswork, testcase]
+tags: [person, status/check/minor, status/needswork, testcase]
 name: Derik III
 born: 1484
 species: human

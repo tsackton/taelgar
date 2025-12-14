@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person]
 name: Cedric Cyfenwid
 species: human
+died: 1535
 ancestry: Tyrwinghan
 gender: male
 dm_notes: none

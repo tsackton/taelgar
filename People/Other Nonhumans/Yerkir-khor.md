@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person]
+tags: [status/stub, person]
 name: Yerkir-khor
 species: elemental
 dm_owner: tim

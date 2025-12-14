@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical,  person]
+tags: [person]
 name: Balati
 born: 1520
 species: human

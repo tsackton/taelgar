@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person]
 campaignInfo: [{campaign: DuFr, type: mentioned to, date: 1748-06-22, wParty: "<met:U> <person> on <target>"}]
 name: Daruk
 born: 1323

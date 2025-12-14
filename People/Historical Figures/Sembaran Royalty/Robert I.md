@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/gameupdate/cleanup]
+tags: [person, status/gameupdate/cleanup]
 name: Robert I
 born: 1660
 species: human
