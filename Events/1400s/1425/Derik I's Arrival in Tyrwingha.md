@@ -1,32 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/stub, status/check/ai]
-campaignInfo: []
+tags: [event, status/check/mike]
+displayDefaults: {defArt: ""}
 name: Derik I's Arrival in Tyrwingha
 typeOf: diplomatic visit
 DR: 1425-11-19
 dm_owner: joint
 dm_notes: none
 ---
-
-%% Needs collation from various sources: [[Stories of Tyrwingha for Profit]], [[Timeline of Sembaran History]] %%
-
 # Derik I's Arrival in Tyrwingha
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 
-Derik I’s arrival in [[Tyrwingha]] is remembered in Sembara as the moment when a little‑known noble of the north first stepped into the southern realm’s crisis and emerged as its champion. The most popular accounts are preserved in folktales and in storyteller’s guides, which describe fog parting at his feet and [[Archfey Ethlenn|Ethlenn]] appearing to bless him before the people.
+In DR 1425, during the wars against the [[Dominion of Avatus]], Derik I, then a little-known noble of [[Telham]], arrived in [[Tyrwingha]]. Most tales of the day describe the morning fog parting in golden light at his feet, and [[Archfey Ethlenn|Ethlenn]] herself appearing to bless him before the people. 
 
-Whatever the embellishments of the tale, Derik’s arrival marked the beginning of his rise as a royal figure in Tyrwingha, and it foreshadowed the later political settlement associated with the [[Treaty of Wisford]].
-
-## Sources
-
-- [[Stories of Tyrwingha for Profit]]
-- [[Derik I]]
-- [[Timeline of Sembaran History]]
+This marked the beginning of Derik I's rise as a royal figure, eventually leading to the foundation of modern Sembara at the [[Treaty of Wisford]] and the personal union of thrones of [[Sembara]] and [[Tyrwingha]] under the [[House of Sewick]]. 
 
 %%^Campaign:none%%
 
-## DM notes
-
-- [[Stories of Tyrwingha for Profit]] presents the “fog and blessing” episode as a commonly told story; the note also contains meta commentary on which parts are “basically true”.
+Sources: 
+[[Stories of Tyrwingha for Profit]] - implies fog and blessing is a commonly told story
+[[Timeline of Sembaran History]] - vibes
 
 %%^End%%
