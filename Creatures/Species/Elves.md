@@ -335,4 +335,4 @@ Unlike others of the elder races, the Peronar lived closely with humans, and wer
 
   
 
-After the fall of Drankor, little is known about what happened to the Peronar. Many died in the FirstPlague, but rumors persist of some that fled east, and other, stranger rumors hint that some fled to other planes. Small pockets of Peronar, living with humans or in their own society, must have survived somewhere.**
+After the [[fall of Drankor]], little is known about what happened to the Peronar. Many died in the FirstPlague, but rumors persist of some that fled east, and other, stranger rumors hint that some fled to other planes. Small pockets of Peronar, living with humans or in their own society, must have survived somewhere.**

@@ -265,7 +265,7 @@ Then comes the fall. Many survivors from Drankor end up in WP3 and WP1. For <mum
 
   
 
-In the years between the fall of Drankor and the Great War, then, you have the following developments:
+In the years between the [[fall of Drankor]] and the Great War, then, you have the following developments:
 
 - WP1 and WP3 become wealthy centers. Isingue becomes a rich agricultural city, and CBC and MTMC become major centers of revived Drankorian culture, although with many squabbles around who is the true heir, and a minor wars and territorial disputes fragment South Cymea. (It is probably not, at least at this point, called South Cymea, but rather two major regions named after the two main cities in WP3 and their constantly shifting hinterlands)
     

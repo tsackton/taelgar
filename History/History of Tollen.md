@@ -92,7 +92,7 @@ This is a time of significant expansion for the city. The [[Tollen Bridge]] is c
 
 The Age of Drankor in Tollen ends when Drankor falls to the [[First Plague]] in DR 1059. 
 
-- (DR:: 1059): The Fall of Drankor and the First Plague ends the Age of Drankor in Tollen
+- (DR:: 1059): The [[Fall of Drankor]] and the First Plague ends the Age of Drankor in Tollen
 
 %%^Campaign:none%%
 ### DM Notes
@@ -120,7 +120,7 @@ Tollen has become an important city, and is well positioned to grow in influence
 ## The Free City
 _DR 1059 - DR 1695_
 
-Tollen first came to prominence as a small part of the Skaer empire, and grew as a city under the shadow of the Drankorian Empire. After the Fall of Drankor, it truly became a free city. Though little is recorded from the years immediately after the Fall of Drankor, by the time modern Sembara is established under [[Derik I]], Tollen is a significant regional power, and during the [[Great War]], Tollen is an ally to [[Derik III]]. After the Great War, with the decline of [[Cymea]] as a maritime power, Tollen's navy grows in strength and the city begins to project strength throughout the [[Western Gulf]] and the [[Straits of Cymea]]. 
+Tollen first came to prominence as a small part of the Skaer empire, and grew as a city under the shadow of the Drankorian Empire. After the [[Fall of Drankor]], it truly became a free city. Though little is recorded from the years immediately after the [[Fall of Drankor]], by the time modern Sembara is established under [[Derik I]], Tollen is a significant regional power, and during the [[Great War]], Tollen is an ally to [[Derik III]]. After the Great War, with the decline of [[Cymea]] as a maritime power, Tollen's navy grows in strength and the city begins to project strength throughout the [[Western Gulf]] and the [[Straits of Cymea]]. 
 
 During this long history, Tollen expanded in several waves. As the city grows, the walls are expanded to the north and west, incorporating [[Godshome]] and [[Guildgate]] into the city. In the years before the Great War, the walls are expanded again, and [[Fat Brook]] is covered; the western part of [[Guildgate]] (formerly Guildgate Outer) is enclosed in the walls at this point, as are the districts of [[Fairgate Inner]] (then simply Fairgate) and [[Haurhill]], encompassing the hill where an old Drankorian fort once stood on the height of land above the [[Little River]]. In this period, sometime near the time of the Great War, the [[Battery]] ward, on the south bank of the Volta, is constructed to strengthen the defense the city. 
 

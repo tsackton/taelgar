@@ -226,7 +226,7 @@ Canonically, there are few to no humans here - this land primarily was the remai
 %% There has been no discussion of WHY the elves are gone from [[Alcarinque]], but it is considered canonical that somehow, after the Downfall, there is nothing left save the fragment in [[Orenlas]] %%
 
 %% Tim adding:
-- immediately post-Downfall, there are likely other remnants of Alcarinque. Rostarue, for one, could be; there is also still a massive tree in Tokra that might mark another pocket that existed for some time, perhaps even through the fall of Drankor. Orenlas is the only fragment that survives to the modern day. 
+- immediately post-Downfall, there are likely other remnants of Alcarinque. Rostarue, for one, could be; there is also still a massive tree in Tokra that might mark another pocket that existed for some time, perhaps even through the [[fall of Drankor]]. Orenlas is the only fragment that survives to the modern day. 
 - the general assumption is that something happens that kills the trees, and that is was causes the depopulation of Alcarinque. Maybe this is some kind of evil curse released by hobgoblin wizards, or a massive firestorm, or something else
 %%
 
