@@ -1,5 +1,7 @@
 ---
 tags: [status/stub, event]
+dm_notes: important
+dm_owner: tim
 ---
 
 %%

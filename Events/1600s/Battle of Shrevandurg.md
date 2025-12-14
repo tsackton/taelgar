@@ -1,30 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/stub, status/check/ai]
+tags: [event]
 name: Battle of Shrevandurg
 typeOf: battle
 displayDefaults: {defArt: the}
 DR: 1639
-dm_notes: important
+dm_notes: none
 dm_owner: tim
 ---
 # The Battle of Shrevandurg
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 
-A mysterious event in Dunmari history, remembered as a great victory in the long defense of the [[Shrev]] frontier.
+A poorly documented battle on the [[Shrev]] frontier in [[Western Dunmar]], studied by [[Govir]] as an example of divine power aiding the [[Dunmar|Dunmari]] in battle. 
 
-What is preserved in surviving records is fragmentary: a name, a place, and later claims of divine intervention. Scholars of [[Dunmar]] sometimes cite the battle alongside other half‑documented victories—events invoked to legitimize rulers and priesthoods, rather than described in full narrative detail.
+%%
 
-## Sources
+Old notes (not canon) describe this as a Dunmari victory against an incursion of spore zombies attacking across the Shrev from the southern jungles, but the main point is it is a mysterious battle along the Shrev somewhere. 
 
-- [[Session 35 (DuFr)]]
-
-%%^Campaign:none%%
-
-## DM notes
-
-- DM notes for the Dunmari Frontier campaign place this battle in DR 1639 and describe it as a Dunmari victory against an incursion of spore zombies attacking across the Shrev from the southern jungles.
-- See DM-folder references:
-  - `Session 84 - Dunmar Notes`
-  - `Tokra/Clues` and `Session 36` (Tokra arc DM notes)
-
-%%^End%%
+%%
