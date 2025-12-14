@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Drankorian Empire
-aliases: [Drankor]
+aliases: [Drankor, Drankorian]
 typeOf: realm
 dm_owner: tim
 dm_notes: important

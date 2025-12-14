@@ -1,16 +1,21 @@
 ---
-tags: [event, status/check/ai]
+headerVersion: 2023.11.25
+tags: [event]
 typeOf: incursion
 whereabouts: Chardon
-dm_owner: none
+dm_owner: tim
 dm_notes: important
+DR: 1749-05-01
 ---
+# The Pandemonium Incursion in Chardon
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-On the first day of Quintarum, DR 1749, a rift to Pandemonium was opened in Chardon, unleashing devastation in the city. The incursion ignited violent unrest and accelerated the political crisis already brewing around the chalyte trade. Order was restored only after swift imperial intervention and emergency measures across the river crossings. The incident remains a touchstone in later histories of Chardon’s turbulent 1749.
+Early in the morning on May 1st, 1749, a shimmering gray wall of a strange fog appears in the Kylos Market, a major market on the [[South Bank]]. Those closest to the fog -- anyone who came in contact with the mists -- were blown away, never to be seen again, their fate unknown. Those who escaped reported hearing a terrifying howling wind. For the next few days, strange winds would blow across the city at night, and more than a few people awoke with a madness in their eyes, their minds destroyed by the winds. 
 
-%%
-DM notes / sources
-- “Pandemonium Scroll” note: records the 1749‑05‑01 rift event in Chardon and that the scroll was destroyed when used; initial blame fell on named mages, later tied to Apollyon’s doppelganger plots.
-- Session 124–126 (DuFr): city context—riots, Eightfold Flame, martial law, and summons to the [[Imperial Palace]].
-- Related background: Fraternity of the Empty Moon (werewolf cult aligned to Pandemonium), Tokra weak points, Exile of the Fraternity of the Empty Moon event.
-%%
+By the middle of May, the winds were contained, and the strange gray mist wall was identified as a [[Pandemonium]] [[Elemental Vortex|vortex]], though the vortex was not fully closed for several weeks after. 
+
+The [[Kylos Market]], though, is never the same and is quietly abandoned. 
+
+%%SECRET[1]%%

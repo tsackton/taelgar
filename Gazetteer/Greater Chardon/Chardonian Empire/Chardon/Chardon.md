@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags:
   - place
   - status/cleanup/image
+  - status/incomplete
 name: Chardon
 typeOf: settlement
 whereabouts: Chardonian Empire
@@ -43,7 +44,7 @@ Chardon has grown by alternating periods of slow accretion and swift expansion. 
 
 ### Founding
 
-Conventionally, Chardonian scholars date the beginning of the city of Chardon to the construction of a small Drankorian fortress on the spur of [[Mount Nera]] in DR 609, during the [[Drankorian Western Wars]], although given the protected harbor, rich natural resources, and easy climate, it is very likely that settlement in the area long predates the coming of the [[Drankorian Empire]]. Over the next 450 years, Chardon grew slowly, primarily through the influx of scholars and wizards curious about the secrets that [[Mount Nera]] might hide. 
+Conventionally, Chardonian scholars date the beginning of the city of Chardon to the construction of a small Drankorian fortress on the spur of [[Mount Nera]] in DR 609, during the [[Western Wars]], although given the protected harbor, rich natural resources, and easy climate, it is very likely that settlement in the area long predates the coming of the [[Drankorian Empire]]. Over the next 450 years, Chardon grew slowly, primarily through the influx of scholars and wizards curious about the secrets that [[Mount Nera]] might hide. 
 
 - (DR:: 609): Fort Chardon, on the [[Chasa|Chasa River]], is constructed by [[Drankorian Empire|Drankorian]] armies to protect a sheltered harbor. 
 - (DR:: 644): Chardon reaches a population of 1000 people, as a small settlement grows in the shadow of [[Mount Nera]], primarily serving as a local market town and safe harbor along the [[Chasa]].
@@ -85,7 +86,7 @@ Chardon is organized into 21 administrative precincts, as well as a number of un
 
 Precincts I - VII are the inner core of the original Drankorian city, and are enclosed by the walls constructed during the expansion of the city in the 1300s. The modern port is largely congruent with [[Precinct VI]]; the university district is [[Precinct IV]]; the imperial administrative center is in Precinct I. 
 
-Precincts VIII - XVI form the outer core of the [[South Bank]], numbered from VIII in the southwest to XVI in the northeast. Precinct VIII is adjacent to the naval arsenal; Precinct X houses the massive Kylos Market.
+Precincts VIII - XVI form the outer core of the [[South Bank]], numbered from VIII in the southwest to XVI in the northeast. Precinct VIII is adjacent to the naval arsenal; Precinct X houses the massive [[Kylos Market]].
 
 Precincts XVII - XXI are on the [[North Bank]]; while Precincts XVIII and XIX are inside the north walls, XVII, XX, and XXI are the administrative units for the northern suburbs, with XVII containing the largest part of the chalyte refineries and the slums of the [[Riverside Quarter]]. 
 

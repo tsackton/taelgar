@@ -39,7 +39,7 @@ A great age of peace and prosperity across the Empire.
 ## The Western Wars
 _DR 595 - DR 647_
 
-During this era, the Empire turns to conquest, and fights a series of wars in the west, conquering the western coast as far as Lake Valandros. 
+During this era, the Empire turns to conquest, and fights a series of wars in the west, conquering the western coast as far as Lake Valandros. See: [[Western Wars]]. 
 
 - (DR:: 597): The Battle of Yaroket ("Yah-roh-keht"), won by Drankor in the Myraeni Gap, begins the Western Wars and the conquest of the western coast by Drankor
 - (DR:: 634): The Battle of Tawir Forest ends the Drankorian conquest of the west on the northern shores of Lake Valandros. 
