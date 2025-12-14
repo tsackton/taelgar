@@ -1,36 +1,33 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/stub, status/cleanup/metadata, status/check/ai]
+tags: [event]
 name: Bitter Knife War
 typeOf: war
-timelineDescriptor: Bitter Knife War
 DR: 1559
 DR_end: 1586
-whereabouts: Nashtkar
+whereabouts: Greater Dunmar
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 ---
-
 # The Bitter Knife War
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Bitter Knife War was a long series of campaigns between [[Dunmar]] and a hobgoblin power known as the Bitter Knife, associated with the blasted plains of the [[Nashtkar]] on Dunmar’s eastern frontier. Dunmari histories place this war among the formative struggles of the early [[Nayan Dynasty]].
+The Bitter Knife War was a long series of campaigns fought between [[Dunmar]] and the Bitter Knife hobgoblin clan, remnants of Cha'mutte's army who occupied a large territory in the [[Nashtkar]] and the upper [[Kharja]] valley in the years after the [[Great War]]. Over a series of bitter campaigns lasting many years, the Bitter Knife hobgoblins were slowly crushed, and finally obliterated in DR 1586. 
 
-Later accounts treat the war as decisive: the Bitter Knife were eventually broken as a coherent force, and survivors—if any—were scattered into the wilderness.
+%%^Campaign:none%%
 
-%% AI note: The vault contains multiple, slightly inconsistent date ranges for this war; the frontmatter dates should be treated as provisional until reconciled. %%
-
-## Sources
+Sources:
 
 - [[Dunmar]]
 - [[Timeline of the Nayan Dynasty]]
 - [[Hobgoblin Movements After Cha'Mutte]]
 - [[Hobgoblins]]
 
-%%^Campaign:none%%
+From DM notes but not necesarily canon:
+DR 1559 - DR 1586: Bitter Knife Wars. A series of campaigns against a hobgoblin slaver nation established in the Kharja valley and east in the Nashtkar, during the early part of the Nayan Dynasty. The wars against the Bitter Knife clan cement the rule of the Nayan dynasty, in part as Nayan Kundar marches east with a large army -- both a show of force against the hobgoblins and an establishment of power over eastern Dunmar. 
 
-## DM notes
-
-- Date ranges in circulation include “DR 1550s, lasting ~30 years” and “DR 1559–1586”; reconcile against any future consolidated Nayan chronicle.
-- A DM-facing summary describing the Bitter Knife as a hobgoblin slaver nation and framing the war as a key moment in cementing early Nayan rule appears in `Session 84 - Dunmar Notes` (in the `_DM_` folder).
+DR: 1579: Nayan Kundar killed in battle against ogres and hobgoblins, during a campaign against the Bitter Knife. His son, Nayan Bhara, becomes Samraat. 
 
 %%^End%%
