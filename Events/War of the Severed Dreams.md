@@ -1,15 +1,22 @@
 ---
-tags: [event, status/check/ai]
+headerVersion: 2023.11.25
+tags: [event]
 name: War of the Severed Dreams
-campaignInfo:
-- {campaign: GL, type: researched}
-dm_owner: none
-dm_notes: color
+DR: 1191
+DR_end: 1196
+whereabouts: Apporia
+dm_owner: tim
+dm_notes: none
 ---
-# War of the Severed Dreams
+# The War of the Severed Dreams
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A conflict from folk traditions linking [[Yeshara]] and the [[Shemra Azem]] across the northwest coast. Official histories may diverge, grouping it differently from the later [[War of the Dark Rift]].
+A war fought against [[Yeshara]] and the [[Shemra Azem]], called the [[Umbral Covenant]], who supposedly fought against sleep itself and killed their enemies by severing their ability to dream. 
 
 %%
-GL Arc 5: appears in legends gathered in [[Castrella]].
+Mentioned only by rumor in GL Arc 5: [[Great Library Session Notes - Arc 5]]
+DM notes: [[GL - Session 62 - DM Notes]]
+Potentially connected to PC backstory: [[Blue]] (see: [[Blue's Clues]])
 %%

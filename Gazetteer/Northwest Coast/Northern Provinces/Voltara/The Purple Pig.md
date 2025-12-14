@@ -34,5 +34,5 @@ Metagame and campaign notes
 - The Great Library sometimes billeted visitors here while working in Voltara; numerous early meetings with Archivist Lyra took place in the common room.
 - DM notes describe midday as quiet, with Dravia arranging meetings (e.g., introduction to [[Quintus Percomia]] at the inn; “1 silver each” as her fee in one scene).
 - Used as a practical starting point for excursions to nearby sites (e.g., [[Pietravola Abbey]], the [[Drowned Tower]]).
-- Destroyed during Grumella’s attacks on the outskirts prior to/around the Battle of Voltara; no canon record here of a reconstruction timeline.
+- Destroyed during Grumella’s attacks on the outskirts prior to/around the [[Battle of Voltara]]; no canon record here of a reconstruction timeline.
 %%

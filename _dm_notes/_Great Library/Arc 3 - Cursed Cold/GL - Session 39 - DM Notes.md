@@ -1,6 +1,6 @@
 ## Intro
  
-_We start as you are finishing lunch and a brief rest on an unseasonably warm November day, camped a few hundred yards down the track from piles of dead orc bodies, the remains of what seems like a relatively poor band of orcs, perhaps survivors of the battle of Voltara, seeking revenge for the death of Grumella._
+_We start as you are finishing lunch and a brief rest on an unseasonably warm November day, camped a few hundred yards down the track from piles of dead orc bodies, the remains of what seems like a relatively poor band of orcs, perhaps survivors of the [[battle of Voltara]], seeking revenge for the death of Grumella._
  
 _The cart track continues east, towards the garrison camp and eventually the mountains of Brelith's home._
  
