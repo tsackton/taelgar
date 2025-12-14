@@ -5,12 +5,12 @@ ancestry: Dunmari
 species: human
 title: Samraat
 gender: male
-born: 1676
+born: 1668
 died: 1740
 name: Nayan Marathu
 affiliations: 
 - {org: Nayan Dynasty, type: primary}
-- {org: Dunmar, start: 1736, end: 1740, type: leader}
+- {org: Dunmar, start: 1728, end: 1740, type: leader}
 dm_notes: important
 dm_owner: tim
 ---
