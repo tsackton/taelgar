@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags: [event, status/cleanup/metadata]
 name: Summer Gnoll Raids of 1748
 typeOf: raids
+partOf: Betrayer Moon Plot
 DR: 1748-04
 DR_end: 1748-07
 whereabouts: Eastern Dunmar
@@ -12,6 +13,7 @@ dm_owner: tim
 # The Summer Gnoll Raids of 1748
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> Part of The [[Betrayer Moon Plot]]  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% dates approx, can extract precise info from session and dm notes %%

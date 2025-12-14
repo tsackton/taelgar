@@ -41,7 +41,7 @@ Secretly a member of the [[Shakun Mystai]].
 **Purpose:** ally to Kenzo, information-giver and supporter  
 **Trait (Value):** The exploitation and commercialization of magic in Chardon is a mistake. This manifests both in his doubts about the Society of the Open Scroll and its mission to learn everything about everything; and in his concern about the influence of chalyte on the imperial side of things.
  
-Kenzo's mentor/patron/protector in Chardon. Lives in the Panemsgate neighborhood, south of the [[Kylos market]].
+Kenzo's mentor/patron/protector in Chardon. Lives in the Panemsgate neighborhood, south of the [[Kylos Market]].
  
 Trained at the university, including higher learning from the faculty of Magic, but never a great caster [he is probably something like a level 3-5 melee bard], more an adventurer type, "practical magician". After his training, left to seek knowledge elsewhere, eventually ending up in Karawa and joining the Shakun Mystai.
  
