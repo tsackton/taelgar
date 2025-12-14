@@ -90,7 +90,7 @@ _See also: [[Places in the Drankorian Hinterland]]
 
 *Needs Development:* Much of the history of the Drankorian Empire is only loosely sketched: see [[Drankorian Empire - Open Questions]] for potential development needs. The climate and topography of the eastern part of this region (between the [[Istaros]] and the [[~Eastern Mountains~]] is largely blank, although generally assumed to be arid in the current day. The topography of the eastern part of this region may be better left blank until needed to be developed for [[~South Cymea~]] development.
 
-*Intentionally Blank:* The desolation around Drankor and the wastes of the [[Garamjala Desert|Garamjala]] may hold many mysteries (e.g., the [[Tower of the Colossus]], and are best left as a blank area until needed for a game. The exact impact of the Downfall Wars on [[Alcarinque]], and the fall of the elven empires, is explicitly left blank, to be explored in a potential future Downfall Wars campaign. 
+*Intentionally Blank:* The desolation around Drankor and the wastes of the [[Garamjala Desert|Garamjala]] may hold many mysteries (e.g., the [[Tower of the Colossus]], and are best left as a blank area until needed for a game. The exact impact of the [[Downfall Wars]] on [[Alcarinque]], and the fall of the elven empires, is explicitly left blank, to be explored in a potential future [[Downfall Wars]] campaign. 
 
 *Adventures:* The Dunmar Frontier campaign traveled across the [[Garamjala Plateau]], to the [[Awakened Jungle]], the [[Circular Island]], and [[Drankor]], during the end of the Apollyon arc. 
 

@@ -145,7 +145,7 @@ Tollen is also deeply independent. While it was a Skaer port, and then deeply in
 
 Tollen is unusual in Taelgar in being a city with many religious traditions. Only Mos Numena and the Skaer worship of [[Kaikkea]] have been introduced in play, but there is space for kestavan worship and perhaps other stranger things. Tollen is a good place for a strange temple to a forgotten god to still exist, for example. 
 
-One possibility is that there is some kind of magical or extraplanar reaason why it is so religiously open. Perhaps it has a connection to outer planes, or it was defended during the Downfall Wars by an army of small gods and something about that sacrifice magnifies the divine essence. Or something else. 
+One possibility is that there is some kind of magical or extraplanar reaason why it is so religiously open. Perhaps it has a connection to outer planes, or it was defended during the [[Downfall Wars]] by an army of small gods and something about that sacrifice magnifies the divine essence. Or something else. 
 
 ### Economic Logic
 

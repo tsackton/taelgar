@@ -24,7 +24,7 @@ This is not considered canonical but is worth preserving as a potential idea.
 ### Downfall Refugees
 Older text:
 
->The Downfall Wars involve a major war in Hkar that (somehow) leads to the destruction of the entire continent and the reshaping of the world. The highly magical urban culture, with a strong pantheon, at this point dominates much of Hkar, and it is this culture that is the predominate culture of the refugees who found Drankor. This is the **Drankorian** culture. 
+>The [[Downfall Wars]] involve a major war in Hkar that (somehow) leads to the destruction of the entire continent and the reshaping of the world. The highly magical urban culture, with a strong pantheon, at this point dominates much of Hkar, and it is this culture that is the predominate culture of the refugees who found Drankor. This is the **Drankorian** culture. 
 
 >There of course may be other refugees that fled at the same time, and founded other cultures as yet determined, with different characteristics. 
 
@@ -32,7 +32,7 @@ This implies that there might have been Downfall Refugees potentially worshippin
 
 ---
 Tim, 1/22/2025:
->A key point that needs to be kept in mind w/r/t Downfall Refugees is that, for the most part, the assumption is there would have really been no way for large quantities of people to flee _except_ via the divine miracle / crown of purity construction of the walking Circular Island. While leaving space for a potential future Downfall Wars campaign, I think the basic vibe is that Mos Numena worshipping, highly magical urban culture is the one that stays to defend Hkar against the armadas of the Void Mind, and ultimately (in some undetermined way) helps or allows or otherwise contributes to its destruction. These people, the "Defenders of Hkar" probably are entirely Mos Numena, and probably entirely escape - those who do, anyway - via the Circular Island. 
+>A key point that needs to be kept in mind w/r/t Downfall Refugees is that, for the most part, the assumption is there would have really been no way for large quantities of people to flee _except_ via the divine miracle / crown of purity construction of the walking Circular Island. While leaving space for a potential future [[Downfall Wars]] campaign, I think the basic vibe is that Mos Numena worshipping, highly magical urban culture is the one that stays to defend Hkar against the armadas of the Void Mind, and ultimately (in some undetermined way) helps or allows or otherwise contributes to its destruction. These people, the "Defenders of Hkar" probably are entirely Mos Numena, and probably entirely escape - those who do, anyway - via the Circular Island. 
 >
 >Where there is potentially space for other refugee populations, IMO, is among the various other cultures that potentially existed on Hkar, keeping in mind that after the departure of the mariners en masse Hkar is dominated by the urban Mos Numena culture, so anything else that exists would have to be minor. I think nothing canonical needs to be invented here, but it is worth keeping space for Dunmari-like minor cultures that maybe have become regionally significant somewhere. 
 >

@@ -122,12 +122,12 @@ There are a couple of major things happening here:
 
 1559 - 1584: Apporian pirate kingdoms
 
-1584 - 1597: War of the Dark Rift
+1584 - 1597: [[War of the Dark Rift]]
 
 post 1560: settlement of Chasa River valley by Chardonians 
 By the end of this period, the following things need to be true:
 Mawar feels safe enough to dismiss the fog
-Chardon starts to become truly imperial, absorbing the Approian provinces in the aftermath of the War of the Dark Rift
+Chardon starts to become truly imperial, absorbing the Approian provinces in the aftermath of the [[War of the Dark Rift]]
 The following things should not have happened yet:
 Chardon absorbs/conqueors the North Chardon coast, Lake Valandaros, of Voltara
 Unclear:

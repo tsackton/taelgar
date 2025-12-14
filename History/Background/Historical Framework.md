@@ -182,7 +182,7 @@ _4000 - 4133 by the Dwarven Count of Years_
 * A handful of explicitly undefined places, that may or may not have humans: the [[Apporia|Apporian Peninsula]], the [[Nevos Sea]], the [[Yeraad Watershed]], and the [[Mawakel Peninsula]]
 * In general: the areas to the east and south, as well as the very far north, are not canonically defined in this period
 
-The exact length of the Downfall Wars is not canonical, but it was likely at least two generations of humans. The Downfall itself occurred in CY 4122, but the period immediately before and after were a time of destruction and war. 
+The exact length of the [[Downfall Wars]] is not canonical, but it was likely at least two generations of humans. The Downfall itself occurred in CY 4122, but the period immediately before and after were a time of destruction and war. 
 
 The Downfall is a catacylismic event that restructures the very shape of the continents. It is a massive, total war between the [[Elder Folk]], lead by the elven empires, and the forces of the [[Void Mind]], lead by massive [[Hobgoblins|hobgoblin]] armies. Although the exact chronology is unclear, the end result is the sinking of [[Hkar]]. 
 
@@ -192,7 +192,7 @@ The Downfall had diverse effects on all places and peoples of Taelgar, and is a 
 - The dwarven kingdoms, especially those of the [[Sentinel Range|Sentinels]] retreat from their deepest depths and fortify the dark passages of the Underdark, far below the surface, against the evils that still lurk in the shadows. Many dwarves found new cities above ground, and look to growing human kingdoms as trading partners. 
 * Loss of sustained contact with the "Southern" human culture, which, although canonical, did not play a meaningful role in the developments in western and central Taelgar
 
-It is possible that the Downfall had less cataclysmic effects in the [[Eastern Green Sea]] but in general canonical events should mostly avoid this period, to preserve narrative space for the Downfall Wars themselves to be developed in a future campaign.
+It is possible that the Downfall had less cataclysmic effects in the [[Eastern Green Sea]] but in general canonical events should mostly avoid this period, to preserve narrative space for the [[Downfall Wars]] themselves to be developed in a future campaign.
 ## The Drankorian Era
 _4133 - 5192 by the Dwarven Count of Years_
 

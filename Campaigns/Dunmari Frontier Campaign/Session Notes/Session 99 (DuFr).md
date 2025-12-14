@@ -113,7 +113,7 @@ The stoneborn hermit stands and walks towards the dock to greet the party.
 **Kazuro (DM)**: Questions the party's origins and the reasons behind their request for his help.
 **Kenzo**: Shares the party members' origins and emphasizes their quest to prevent an impending evil.
 **DM**: Kazuro shows mixed emotions, including curiosity and hidden trauma, when Kenzo mentions fighting great evil.
-**Seeker**: Recalls the War of the Dark Rift, an ancient and devastating conflict involving the dwarven civilization.
+**Seeker**: Recalls the [[War of the Dark Rift]], an ancient and devastating conflict involving the dwarven civilization.
 **Delwath**: Expresses interest in Kazuro’s wisdom but highlights the party’s urgency.
 **Kenzo**: Offers to establish a monastery to preserve Kazuro’s teachings and extend his legacy.
 **DM**: Kazuro is genuinely intrigued and pleased by the offer, expressing his long-held wish to build a small school.
