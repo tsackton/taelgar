@@ -8,7 +8,7 @@ These are stubs that have 10 or more backlinks and should be cleaned as quickly 
 
 ```dataview
 TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
-from #status/stub 
+from #status/stub  and !#status/check/ai
 where length(file.inlinks) > 9
 sort join(split(file.path, "/", 2),"/"), length(file.inlinks) DESC
 ```
