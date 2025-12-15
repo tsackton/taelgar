@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/minor, status/needswork, testcase]
+tags: [person, status/check/minor, status/errors, testcase]
 name: Derik III
 born: 1484
 species: human
@@ -25,7 +25,7 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% tagging needswork to retthink High King of details, especially re: Lavnoch %%
+%% status/errors ->  High King of X details, especially re: Lavnoch %%
 
 The king of Sembara during the [[Great War]]; of the [[House of Sewick]]. He reigned from his mother [[Charlotte I|Charlotte I's]] death in DR 1519 until his death, shortly after the end of the Great War, in DR 1549. 
 

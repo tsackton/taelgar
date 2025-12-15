@@ -1,17 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork]
+tags: [organization, status/errors]
 typeOf: clan
 ancestry: hobgoblin
 dm_notes: important
-dm_owner: shared,mike
+dm_owner: joint
 ---
 # The Shattered Ice Clan
 >[!info]+ Information  
 > A [[Hobgoblins|hobgoblin]] clan  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% check dm frontmatter makes sense %%
+%% lots of continuity errors here; needs a complete rewrite %%
+
 %% I have some notes from sketching out battles where undead would have risen from, and some similar information, mostly about the hobgoblin wars, but that should be reviewed to see if it is relevant here
 
 This does not currently align with [[Discord Chat - Grand Sweep of History]] which postulates that the Shattered Ice Clan is behind all three hobgoblin wars in Sembara, and that the only war that is not them is the [[Sentinel Range War]].

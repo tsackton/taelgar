@@ -1,12 +1,15 @@
 ---
-tags: [event, status/needswork]
+tags: [event, status/stub]
 campaignInfo: []
 name: The Downfall
 aliases: [Downfall]
 dm_owner: tim
 dm_notes: important
 ---
-%% needs major rewrite%%
+
+%% no useful player-facing text; tagging as stub and setting to comment %%
+
+%%
 ### The Downfall
 
 The scholars of the elves describe the Downfall, the events surrounding the fall of Hkar and the wars against the spawn of the Three Despairs, thusly:
@@ -19,3 +22,4 @@ Among the humans, the destruction was greatest on Hkar. Many refugees from Hkar,
 
 Thus, at the end of the Third Age all was changed, the elder races diminished, and the time of the humans at hand.
 
+%%

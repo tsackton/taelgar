@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/needswork]
+tags: [background, status/errors]
 dm_owner: none
 dm_notes: important
 ---
 # Embodied Gods
 
-%% needs a rewrite. fix three despairs to make the uniqueness of Thark more clear. add in often known as the Firstborn, alluding both to their role as creators/progenitors and the fact that [[Embodied Gods]] were the first divinities created explicitly by the [[Divine Presence]]), %%
+%% status/errors -> needs a rewrite. fix three despairs to make the uniqueness of Thark more clear. add in often known as the Firstborn, alluding both to their role as creators/progenitors and the fact that [[Embodied Gods]] were the first divinities created explicitly by the [[Divine Presence]]), %%
 
 The divinities known as the Embodied Gods are the direct creations of the [[High Gods]], given physical form, permanence and consciousness, and the power to create. Unlike the [[Incorporeal Gods]], the Embodied Gods do not depend upon belief for their power. 
 

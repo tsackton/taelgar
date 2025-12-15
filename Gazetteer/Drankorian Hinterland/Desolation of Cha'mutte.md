@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork]
+tags: [place, status/errors]
 whereabouts: Drankorian Hinterland
 typeOf: region
 name: Desolation of Cha'mutte
@@ -12,7 +12,7 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% this note is a little complicated as it lumps together multiple different areas that have different causes, magic, and histories %%
+%% status/errors -> lumps together diverse areas with different causes and metaphysics, which need to be disentangled %%
 
 The Desolation of Cha'mutte is a large area that is magically corrupted as a result of the [[First Plague]] and the [[Great War]]. 
 

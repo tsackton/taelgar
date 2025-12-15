@@ -1,11 +1,10 @@
 ---
-tags: [status/needswork, background]
+tags: [status/stub, background]
 dm_owner: joint
 dm_notes: none
 ---
 # Goblinoids
 
-%% adding check/mike. i think for now i'm happy leaving this as campaign-none basic facts and brainstorming. feel free to add anything and bounce back; if looks reasonable for now change status to stub and remove check. can also delete comments at end if adequately captured %%
 
 %%^Campaign:none%%
 

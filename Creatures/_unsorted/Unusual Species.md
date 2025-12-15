@@ -1,11 +1,13 @@
 ---
-tags: [background, status/needswork]
+tags: [background, status/stub]
 dm_owner: none
 dm_notes: none
 ---
-# Unusual Species
 
-%% tagging cleanup/incomplete as a reminder to add a sentence about centaurs and and a sentence about kobolds here %%
+%% concept is obsolete, may delete. tagging as a stub for now %%
+
+%%
+# Unusual Species
 
 Not every sentient species in Taelgar has a simple origin story. 
 
@@ -19,7 +21,6 @@ Many sailors claim to have seen the aquatic [[Merfolk]], or their semi-aquatic c
 
 All of these species -- and others, not yet described -- share an unusual history, with origin stories that may not match the typical creation myths of other sentient beings on Taelgar.
 
-%%
 # Children of the Riving
 
 In the early days of myth and wonder, before the multiverse was fixed in form, great beings of magical energy endlessly shaped and reshaped the land. When the [[Divine Presence]] sundered the planes, the echoes of the Riving rippled across the Multiverse, creating the Children of the Riving. 
