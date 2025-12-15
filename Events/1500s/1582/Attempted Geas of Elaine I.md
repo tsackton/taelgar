@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/check/imike]
+tags: [event, status/check/mike]
 name: Attempted Geas of Elaine I
 typeOf: succession crisis
 DR: 1582
