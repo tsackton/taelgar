@@ -1,15 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/gameupdate/cleanup]
+tags: [person, status/gameupdate/gl]
 name: Grumella the Vengeful
 born:
 species: orc
-activeYear: 1745
 gender: female
 died: 1747
-affiliations: [{org: Grumella's Horde, type: leader}]
+affiliations: 
+- {org: Grumella's Horde, type: leader}
 whereabouts:
-- {type: home, prefix: northern, location: Voltara Plains}
+- {type: home, location: Erbalta Plains}
 dm_notes: important
 dm_owner: tim
 ---

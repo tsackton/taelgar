@@ -284,7 +284,7 @@ Simiarly, the core of Maseau (the southern 1/3 or so where the land is better) i
 
 
 [3/27/2024 2:31 PM] rsulfuratus
-i'm not entirely sure what is canon and what is speculation at this point, but why not have the hobgoblins move east instead of stretching their territory? at the end of the first hobgoblin war (more or less Sembaran victory) they are confined to what is quite marginal land in western Maseau and Enford; second hobgoblin war starts basically because the hobgoblins want better land, and is more-or-less a hobgoblin victory
+i'm not entirely sure what is canon and what is speculation at this point, but why not have the hobgoblins move east instead of stretching their territory? at the end of the first hobgoblin war (more or less Sembaran victory) they are confined to what is quite marginal land in western Maseau and Enford; [[Second Hobgoblin War (Sembara)|second hobgoblin war]] starts basically because the hobgoblins want better land, and is more-or-less a hobgoblin victory
 
 
 [3/27/2024 2:32 PM] rsulfuratus

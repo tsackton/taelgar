@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/cleanup/text, status/cleanup/map, status/gameupdate]
+tags: [background, status/cleanup/text, status/cleanup/map, status/gameupdate/dufr]
 excludePublish: ["all"]
 dm_owner: joint
 dm_notes: none
 ---
 # Hobgoblin Movements After Cha'Mutte
+
+%% needs Iron Fang, plaguelands updates post Dunmar Campaign %%
 
 After the death of Cha'mutte, the large hobgoblin forces assembled for the Great War are left without magical support, and begin to disperse, move, and raid in various ways. In many ways, the movements of these hobgoblin groups define the period from ~1545 - 1600, often referred to as the [[Blood Years]]. 
 

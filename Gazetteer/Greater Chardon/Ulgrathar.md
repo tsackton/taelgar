@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/gameupdate]
+tags: [place, status/gameupdate/dufr]
 typeOf: realm
 ancestry: giant
 whereabouts:

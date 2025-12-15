@@ -57,7 +57,7 @@ Aris and Orin tend to stay in the background, although Orin is an experienced co
 
 --------
 
-The strength of Grumella's Horde is not known, but early estimates place it between 1k - 5k orcs and allies. Scouting can help refine these estimates.
+The strength of [[Grumella's Horde]] is not known, but early estimates place it between 1k - 5k orcs and allies. Scouting can help refine these estimates.
 
 ------
 

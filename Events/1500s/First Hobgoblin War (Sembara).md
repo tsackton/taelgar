@@ -1,37 +1,33 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/stub, status/check/ai]
+tags: [event, status/check/mike]
 name: First Hobgoblin War (Sembara)
 typeOf: war
 DR: 1574
 DR_end: 1578
-whereabouts: Enst
-dm_owner: joint
-dm_notes: color
+whereabouts: Greater Sembara
+dm_owner: none
+dm_notes: none
 ---
-
 # The First Hobgoblin War (Sembara)
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The First Hobgoblin War was the first major clash between [[Sembara]] and the [[Shattered Ice Clan]] after the [[Blood Years]]. Later Sembaran tradition places the fighting in the upper [[Enst]] valley and remembers it as the beginning of a long pattern: dangers from the west, wars along the marches, and the slow hardening of Sembara’s frontier institutions.
+%% dates are approx %%
 
-%% AI note: This event is only lightly developed in current vault sources; the DM notes preserve planning material and open questions without presenting them as settled canon. %%
-
-## Sources
-
-- [[History of Greater Sembara]]
-- [[Hobgoblins]]
-- [[Shattered Ice Clan]]
+The first of three major wars between [[Sembara]] and allies and the [[Shattered Ice Clan]]. This war began when the [[Shattered Ice Clan]] crossed the [[Sentinel Range|Sentinels]] in force, attacking across the southwestern frontier of [[Sembara]]. It ended with in a stalemate: the [[Shattered Ice Clan]] advance was halted, but hobgoblins remained established in parts of the [[Western Marches]] and in the western edges of [[Duchy of Maseau|Maseau]]. 
 
 %%^Campaign:none%%
 
-## DM notes
+This is the first attempt by the [[Shattered Ice Clan]] to establish a homeland or realm in the upper Enst valley. The logic in [[Hobgoblin Movements After Cha'Mutte]] has the Shattered Ice hobgoblins moving east across the Sentinels after escaping destruction in the Conclave War, and attacking Sembara. 
 
-This is the first attempt by the [[Shattered Ice Clan]] to establish a homeland or realm in the upper Enst valley. 
+The exact borders of the hobgoblin territory at the end of the war is, I think, not canonically settled beyond a general "western marches / western Maseau" vibe, basically along the edges of the Sentinels but certainly not extending far east enough for the [[Barony of Aveil]] to be the frontier. 
 
-Not a lot has been canonically invented about this war, except:
+This war potentially involved mindflayers as allies or leaders of the hobgoblins; if so it may have been the setting for the Stone titan one-shot (though the [[Sentinel Range War]] is also plausible here). 
+
+Important canonical details:
 * Dates are approximately 1574 - 1578; these don't need to be precise, but it needs to have ended a year or two before [[Wisym I]] so that the events related to [[Elaine I]] and [[Anne]] are not taking place during a war
-* It likely involved mindflayers as allies or leaders of the hobgoblins
-* It may have been the setting for the Stone titan one-shot
 * Sembara largely was successful at pushing back the hobgoblins, but it established a strong idea in imagination that "dangers come from the west" and the rise of the [[Army of the West]] to preeminence should date from this period
 
 %%^End%%

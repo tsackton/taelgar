@@ -271,7 +271,7 @@ In 1590, in alliance with some of the scattered clans of hobgoblins south of the
 
 
 [10/29/2023 6:57 PM] .deciusmus
-The Second Hobgoblin War lasts from 1590 until 1602. At the end of it, the hobgoblins control a swath of territory fairly far East from the mountains. But the war faction of the hobgoblins have been defeated and exhaustion sets in.
+The [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] lasts from 1590 until 1602. At the end of it, the hobgoblins control a swath of territory fairly far East from the mountains. But the war faction of the hobgoblins have been defeated and exhaustion sets in.
 
 
 [10/29/2023 6:58 PM] .deciusmus

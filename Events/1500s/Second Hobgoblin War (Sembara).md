@@ -1,36 +1,35 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/stub, status/check/ai]
+tags: [event, status/check/mike, status/gameupdate/dufr]
+aliases: [Second Hobgoblin War]
 name: Second Hobgoblin War (Sembara)
 typeOf: war
 DR: 1590
 DR_end: 1602
-whereabouts: Enst
+whereabouts: Greater Sembara
 dm_owner: joint
-dm_notes: color
+dm_notes: none
 ---
-
-%% all info about this is in backlinks %%
-%% some discussion in discord  that need to be linked%%
-
 # The Second Hobgoblin War (Sembara)
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Second Hobgoblin War was a major war between [[Sembara]] and the [[Shattered Ice Clan]] in the late 16th century DR, fought largely in the borderlands south of the [[Enst]] and along the western approaches to [[Duchy of Maseau|Maseau]]. Later summaries emphasize both the cost of the war and its unresolved ending: the Shattered Ice hobgoblins remained entrenched on the frontier, and the borderlands suffered decades of raid and repression under occupation.
+%% there is some backstory context w/r/t to [[Iron Fang]] hobgoblins I had been keeping back until after the [[Empress of Chaos]] and [[Isingue]] arcs, which potentially could be usefully fleshed out here, but I have to disentangle brainstorming from what actually was revealed in play in my DM notes %%
 
-%% AI note: The broad outline and end‑state (hobgoblin occupation of parts of the borderlands) is reflected in multiple Gazetteer notes, but many specifics of the war’s chronology and treaties currently come from timeline/framework material that should be reviewed. %%
-
-## Sources
-
-- [[Addermarch]]
-- [[Barony of Vaubonne]]
-- [[Cleenseau History Notes]]
-- [[Third Hobgoblin War (Sembara)]]
-- [[Timeline of Sembaran History]]
+The second major war between [[Sembara]] and the [[Shattered Ice Clan]], fought largely in the borderlands south of the [[Enst]], and in the [[Duchy of Maseau]]. The war ends with Sembara conceding the lands south of the [[Enst]] to the hobgoblins. 
 
 %%^Campaign:none%%
 
-## DM notes
+The basic vibe here (see: [[2024-03-27]]) is fundamentally the Shattered Ice clan are trapped in marginal land in the Sentinel foothills, and want better land, and so attack. Sembara commits heavily to defending the line of the Enst, but loses all the territory south of the Enst to hobgoblins. 
 
-- Some timelines place the start of the war around DR 1590 and its end in DR 1602, via a treaty known as the “Treaty of Châteauclair”; no dedicated treaty note currently exists in the vault.
+It is I think not totally resolved how much of Maseau is retained, but at least some part of Maseau is unoccupied during this time (and is potentially intentionally kept intact by Shattered Ice as a buffer against the [[Iron Fang]] hobgoblins in the Plaguelands). 
+
+See also: [[First Hobgoblin War (Sembara)]], [[Second Hobgoblin War (Sembara)]]
+
+See:
+- [[Addermarch]]
+- [[Barony of Vaubonne]]
+- [[Cleenseau History Notes]]
 
 %%^End%%
