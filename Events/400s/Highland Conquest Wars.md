@@ -1,5 +1,5 @@
 ---
-tags: [event, status/errors]
+tags: [event, status/check/errors]
 dm_owner: shared
 dm_notes: important
 ---

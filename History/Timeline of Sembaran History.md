@@ -1,5 +1,5 @@
 ---
-tags: [background, status/errors]
+tags: [background, status/check/errors]
 displayDefaults: {defArt: a}
 name: Timeline of Sembaran History
 timelineDescriptor: Sembaran History

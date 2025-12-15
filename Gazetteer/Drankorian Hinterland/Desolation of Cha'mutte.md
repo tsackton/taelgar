@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/errors]
+tags: [place, status/check/errors]
 whereabouts: Drankorian Hinterland
 typeOf: region
 name: Desolation of Cha'mutte
