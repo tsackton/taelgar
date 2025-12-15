@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image, status/incomplete]
+tags: [person]
 campaignInfo: 
 - {campaign: DuFr, type: met, date: 1748-03-22}
 - {campaign: DuFr, type: "entrusted the [[Dunmar Fellowship]] with recovering the [[Heart of Shakun]]", date: 1748-05-23, wParty: "<met:ux> on <target> in <current:1>"}

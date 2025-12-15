@@ -1,11 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/incomplete, person]
+tags: [person]
 campaignInfo: []
 name: Vestian
-born:
 species: human
-ancestry:
 gender: male
 title: Emperor
 dm_notes: important

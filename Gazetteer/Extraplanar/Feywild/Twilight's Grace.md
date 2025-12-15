@@ -1,10 +1,7 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults:
-  defArt: ""
-tags:
-  - place
-  - status/incomplete
+displayDefaults: {defArt: ""}
+tags: [place]
 whereabouts: Feywild
 typeOf: extraplanar domain
 dm_owner: joint

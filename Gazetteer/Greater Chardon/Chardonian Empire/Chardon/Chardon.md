@@ -1,9 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/cleanup/image
-  - status/incomplete
+tags: [place, status/review]
 name: Chardon
 typeOf: settlement
 whereabouts: Chardonian Empire

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/incomplete]
+tags: [event, status/review]
 name: Great War
 typeOf: war
 timelineDescriptor: Great War

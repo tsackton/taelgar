@@ -1,24 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - person
-  - status/incomplete
+tags: [person, status/review]
 name: Lord Umbraeth
-excludePublish:
-  - clee
+excludePublish: ["clee"]
 species: fey
 gender: male
-aliases:
-  - Gloomshaper
+aliases: [Gloomshaper]
 affiliations:
-  - org: Duskmire
-    type: leader
-    title: Master
+  - {org: Duskmire, type: leader, title: Master}
 whereabouts:
-  - type: home
-    location: Twilight's Grace
-  - type: home
-    location: Duskmire
+  - {type: home, location: Twilight's Grace}
+  - {type: home, location: Duskmire}
 dm_notes: important
 dm_owner: mike
 ---

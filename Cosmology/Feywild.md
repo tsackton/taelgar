@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/incomplete]
+tags: [place, status/review]
 typeOf: plane
 displayDefaults: {wSecondary: "Sometimes considered one of the <secondary:1>", defArt: "the"}
 whereabouts: 

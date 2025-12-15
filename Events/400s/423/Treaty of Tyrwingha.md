@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/incomplete]
-campaignInfo: []
+tags: [event, status/stub]
 name: Treaty of Tyrwingha
 DR: 423
 dm_notes: none

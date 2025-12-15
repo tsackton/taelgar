@@ -1,8 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/incomplete, person]
+tags: [person]
 name: Helea
-born:
 title: Emperor
 species: human
 ancestry:
