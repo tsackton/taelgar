@@ -1,12 +1,12 @@
 ---
-tags: [religion/kestavo, background, status/needswork]
+tags: [religion/kestavo, background, status/check/mike, status/gameupdate/chasm]
 dm_owner: shared
 dm_notes: important
 ---
 
 # The *kestavo*
 
-%% needs a pass to determine what is canon, what is brainstorming, what is obsolete %%
+%% tagging check/mike and status/gameupdate/chasm instead of errors, but feel free to add errors if needed: needs a pass to determine what is canon, what is brainstorming, what is obsolete %%
 
 The *kestavo* is the ancient religion of northern Sembara and the Highlands, and is still practiced in some places in the highlands. It is a religion focused around small gods, the spirits of villages, streams, and hills, who are celebrated in their communities. These spirits, the kestavo, bring the prayers of their communities to [[Divine Presence|Ako]], the Divine. 
 

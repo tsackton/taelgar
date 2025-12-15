@@ -1,9 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/needswork
-campaignInfo: []
+tags: [place, status/errors]
 name: March of Andonne
 typeOf: realm
 whereabouts: Duchy of Maseau

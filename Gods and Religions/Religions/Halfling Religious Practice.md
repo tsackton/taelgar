@@ -1,11 +1,15 @@
 ---
-tags: [background, religion/halflings, status/needswork]
+tags: [background, religion/halflings, status/errors]
 dm_owner: joint
 dm_notes: none
 ---
 # Halfling Religious Practice
 
-%% these are notes developed in part with Schwartz, but not necessarily fully canonical. see more here: [[Email - Halfling Religion]] %%
+%% 
+needs review for canon
+these are notes developed in part with Schwartz, but not necessarily fully canonical. 
+see more here: [[Email - Halfling Religion]] 
+%%
 
 Halflings do not have deep traditions of prayer, or organized religious practice. For many halflings, the First Ones are simply the backdrop to life, the guardians and creators of the racial ancestral mind and memory. Every experience, every memory of a halfling’s life will eventually contribute in some small way to the greater halfling consciousness, and for many halflings simply acknowledging and paying attention to their experience as they go through life is the extent of their worship practice.  
 

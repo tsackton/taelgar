@@ -1,14 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/needswork
+tags: [place]
 name: Sea of Storms
 typeOf: marine feature
-whereabouts:
-  - type: home
-    location: Taelgar
-    linkText: in
+whereabouts: 
+  - {type: home, location: Taelgar, linkText: in}
 dm_notes: important
 dm_owner: tim
 typeOfAlias: sea
@@ -18,6 +14,4 @@ typeOfAlias: sea
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The nearly-unnavigable sea south of [[Greater Dunmar]], wracked by storms and dangers. The few ships that manage to cross it often return with strange riches and delicacies from the south. 
-
-%% Clean up based on moving regions %%
+The nearly-unnavigable sea south of [[Greater Dunmar]] and the [[Drankorian Hinterland]], wracked by storms and dangers. The few ships that manage to cross it often return with strange riches and delicacies from the south. 
