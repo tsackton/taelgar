@@ -48,8 +48,7 @@ Transition: rename item to object, if desired, but no retagging is needed, excep
 
 ### Groups
 
-
-
+***needs thought***
 
 * **organization**: a specific group of people or other type of organization, including things like pantheons or families or clans.
 * **culture**: a page describing a specific culture
