@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text, status/needswork]
+tags: [place, status/errors]
 name: Duchy of Maseau
 typeOf: realm
 whereabouts: Greater Sembara
@@ -13,7 +13,7 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% needs some rewriting and updating, minimally to incorporate comments - the vibe below is also a bit outdated %%
+%% needs some rewriting and updating, minimally to incorporate comments - the vibe below is also a bit outdated; not clear it was depopulated during the Great War; hobgoblin war context is mostly missing; Avatus context is missing %%
 
 This land is a borderland and was essentially depopulated during the Great War. It was never a land blessed with rich natural resources, and before the Great War thrived on the trade flowing through the gap in the Mostreve Hills. During the war it suffered significant population loses, and to the extent that it recovered, it was from refugees who fled north from the fall of [[Isingue]] and the [[Istabor Alliance]].
 

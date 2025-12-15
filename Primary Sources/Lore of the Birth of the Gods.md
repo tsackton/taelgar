@@ -1,8 +1,10 @@
 ---
-tags: [status/needswork, source]
+tags: [status/stub, source]
 dm_owner: shared
 dm_notes: important
 ---
+
+%% concept is obsolete and full page is comments; tagging as stub %%
 
 %%
 From Google Doc:

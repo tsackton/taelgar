@@ -1,8 +1,10 @@
 ---
-tags: [deity, religion/kestavo, status/needswork]
+tags: [deity, religion/kestavo, status/check/mike]
 dm_owner: none
 dm_notes: none
 ---
+
+%% status/check/mike -> marked as status/needswork but nothing obviously wrong to me %%
 ### Romil
 *he/him*
 

@@ -1,10 +1,10 @@
 ---
-tags: [status/needswork, source]
+tags: [status/errors, source]
 dm_owner: tim
 dm_notes: color
 ---
 
-%% some (minor) details are not quite correct and this needs to be revised before it is used in game %%
+%% status/errors -> some (minor) details are not quite correct and this needs to be revised before it is used in game %%
 
 This is the story of the founding of [[Dunmar]], as told by the Dunmari:
 

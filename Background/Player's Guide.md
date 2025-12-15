@@ -1,8 +1,10 @@
 ---
-tags: [meta]
+tags: [meta, status/errors]
 dm_owner: joint
 dm_notes: none
 ---
+
+%% probably not really high priority as probably don't have too many new players coming in anytime soon but worth reviewing for errors and updating based on current invention %%
 
 This short guide provides an overview to the races of Taelgar, magic and religion, and basic geography, places, and history. It is written loosely from the perspective of an educated commoner in the 1740s, by the  [[Calendar Eras#Drankorian Reckoning|common reckoning of human scholars]], or the 5880s, as the [[Calendar Eras#Dwarven Count of Years|dwarves count the years of the world]]. 
 

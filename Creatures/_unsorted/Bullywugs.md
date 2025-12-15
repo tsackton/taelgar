@@ -1,5 +1,5 @@
 ---
-tags: [species, status/needswork]
+tags: [species]
 dm_owner: tim
 dm_notes: important
 ---
@@ -9,8 +9,3 @@ Notes:
 - Live secretively in freshwater; some villages make a living by raiding, but certainly not all, or even most
 - Origin story unclear
 - Speak their own language
-
-%%
-Little detail decided yet, but introduced to game.
-TBD creation story, purpose, etc.
-%%
