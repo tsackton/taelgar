@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags:
   - place
-  - status/gameupdate/base
+  - status/gameupdate/dufr
 displayDefaults:
   dPast: ""
 destroyed: 1545

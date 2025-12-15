@@ -1,16 +1,17 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ""}
-tags: [organization, status/gameupdate/cleanup, status/cleanup/metadata]
+tags: [organization]
 typeOf: horde
-dm_notes: important
-dm_owner: tim
+ancestry: orc
+dm_notes: none
+dm_owner: none
+destroyed: 1747
 ---
 # Grumella's Horde
 >[!info]+ Information  
-> A horde  
+> An [[Orcs|orc]] horde  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The army of [[Orcs]] gathered under the leadership of [[Grumella]] to assault [[Voltara]] and the northern border of the [[Chardonian Empire]]. 
-
-Defeated in battle outside [[Voltara]] in October DR 1747. 
+An orc horde that was gathered under the leadership of [[Grumella|Grumella the Vengeful]] in DR 1747. This horde attacked [[Voltara]] in October of DR 1747, and was defeated at the [[Battle of Voltara]]. The survivors of the battle fled, disorganized, into the [[Erbalta Plains]] and the horde as an army ceased to exist. 

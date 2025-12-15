@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/gameupdate]
+tags: [place, status/gameupdate/dufr]
 displayDefaults: {defArt: ""}
 typeOf: building
 whereabouts: Chardon

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
+tags: [event, status/gameupdate/dufr]
 DR: 1644-04
 DR_end: 1653-08
 typeOf: war
@@ -13,6 +13,8 @@ dm_notes: none
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% there is some backstory context w/r/t to [[Iron Fang]] hobgoblins I had been keeping back until after the [[Empress of Chaos]] and [[Isingue]] arcs, which potentially could be usefully fleshed out here, but I have to disentangle brainstorming from what actually was revealed in play in my DM notes %%
 
 A major conflict between the [[Shattered Ice Clan]] of hobgoblins and the [[Duchy of Maseau]] and [[Sembara]] during the reign of [[Arryn II]], [[Charlotte I]], and [[Cece I]]. It devastated much of the [[Barony of Aveil]], the [[Barony of Dunfry]], as well as [[Rinburg]] and parts of the [[Duchy of Wisford]].
 

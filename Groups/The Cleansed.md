@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/gameupdate/base, status/cleanup/metadata]
+tags: [organization, status/gameupdate/dufr]
 displayDefaults: {defArt: ''}
 name: The Cleansed
 typeOf: cult

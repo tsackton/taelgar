@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/gameupdate/base]
-campaignInfo: []
+tags: [person, status/gameupdate/dufr]
 name: Nayan Karnas
 aliases: [Karnas]
 born: 1716

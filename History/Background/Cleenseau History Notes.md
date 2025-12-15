@@ -42,9 +42,9 @@ This garrison is substantially increased in the 1550s during and after the [[Blo
 
 The First Hobgoblin War is largely fought to the north and west of Cleenseau, and some of its garrison is pulled into the fighting. Little is remembered from that time but as Cleenseau was a very military town with a large garrison, many people would have lost relatives. 
 
-The Second Hobgoblin War is fought just south of the Enst, and Cleenseau was a major garrison and logistics point for the armies fighting to the south, as the only safe river crossing for many miles. The Sembaran general, as the battles were going badly, even tried to destroy the bridge to protect Sembara but it was undestrucible. Maybe this cursed the garrison for some period of time.
+The [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] is fought just south of the Enst, and Cleenseau was a major garrison and logistics point for the armies fighting to the south, as the only safe river crossing for many miles. The Sembaran general, as the battles were going badly, even tried to destroy the bridge to protect Sembara but it was undestrucible. Maybe this cursed the garrison for some period of time.
 
-After [[Treaty of Châteauclair]] in 1602, the Second Hobgoblin War ends and the [[Shattered Ice Clan]] is established just south of Cleenseau, and trade largely ceases. The walls are strengthened, taking many stones from the (at the time) somewhat intact Drankorian fort on the south bank of the Enst. The next 40 years, until the Third Hobgoblin War starts in 1644, are tense and highly fortified.
+After [[Treaty of Châteauclair]] in 1602, the [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] ends and the [[Shattered Ice Clan]] is established just south of Cleenseau, and trade largely ceases. The walls are strengthened, taking many stones from the (at the time) somewhat intact Drankorian fort on the south bank of the Enst. The next 40 years, until the Third Hobgoblin War starts in 1644, are tense and highly fortified.
 
 In late fall DR 1646, during the darkest period of the Third Hobgoblin War, Cleenseau is sacked and conqueored by the hobgoblins. The entire population is put to death, and the hobgoblins massively fortify it as a "beachhead" on the north side of the Enst from which many raids are launched. In particular, the build a hillfort on top of the old Sembaran garrison, and a wall that incorporates the Crossroads Inn, which is used as a headquarters and feasting hall. The entire area around Cleenseau is depopulated as either hobgoblin raids kill people or they flee to safer places.
 
@@ -60,7 +60,7 @@ Over the 1650s the wall is rebuild, and the garrison reestablished, and the [[Re
 * DR 1425 - DR 1427: Avatus rules, population enslaved
 * DR 1427 - DR 1546: Sembaran, interior town, safe, no garrison
 * DR 1546 - DR 1595: Sembara, increasingly fortified, 1st walls built in this period
-* DR 1595 - DR 1602: Major army garrison for Second Hobgoblin War
+* DR 1595 - DR 1602: Major army garrison for [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]]
 * DR 1602 - DR 1645: Sembara, still a major fortification
 * DR 1645 - DR 1648: Shattered Ice 3rd war - pop put to death
 * DR 1648 - DR 1651: Army garrison but tents, not rebuilt

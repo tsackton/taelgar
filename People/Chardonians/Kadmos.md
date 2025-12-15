@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/gameupdate/base, status/cleanup/metadata]
+tags: [person, testcase, status/gameupdate/dufr]
 displayDefaults: { endStatus: killed }
 campaignInfo:
 - {campaign: dufr, date: 1748-12-08, type: encountered}
