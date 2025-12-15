@@ -8,7 +8,7 @@ ancestry: Sembaran
 gender: male
 dm_owner: player
 dm_notes: none
-tags: [person, pc/addermarch, status/gameupdate/active]
+tags: [person, pc/addermarch]
 whereabouts:
 - {type: home, location: Eskbridge}
 - {type: home, location: Addermarch}

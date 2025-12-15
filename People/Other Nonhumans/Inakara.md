@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/cleanup, status/cleanup/metadata]
+tags: [person, status/gameupdate/dufr]
 displayDefaults: {endStatus: "killed by [[Magran Boulderbeard]]" }
 campaignInfo: []
 name: Inakara

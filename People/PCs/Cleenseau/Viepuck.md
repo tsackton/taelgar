@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/cleenseau, person, status/gameupdate/active]
+tags: [pc/cleenseau, person, status/gameupdate/clee]
 campaignInfo: []
 name: Viepuck
 born: 1706-10-01

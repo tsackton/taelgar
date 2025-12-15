@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/greatwar, person]
+tags: [pc/greatwar, person, status/gameupdate/dufr]
 name: Rai
 born:
 species: elf

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/addermarch, person, status/gameupdate/active]
+tags: [pc/addermarch, person]
 species: elf
 gender: female
 ddbLink: https://www.dndbeyond.com/characters/131356005
