@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [species, status/incomplete, status/check/mike]
+tags: [species, status/wip, status/check/mike]
 name: Lizardfolk
 aliases: [lizardfolk]
 dm_owner: joint

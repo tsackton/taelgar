@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 whereabouts: Drankorian Hinterland
-tags: [place, status/incomplete]
+tags: [place, status/stub]
 typeOf: settlement
 dm_notes: important
 dm_owner: tim

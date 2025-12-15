@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/incomplete]
+tags: [person, status/review]
 name: Archfey Ethlenn
 species: fey
 speciesAlias: archfey

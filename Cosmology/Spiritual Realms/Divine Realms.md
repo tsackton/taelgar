@@ -1,12 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/incomplete]
+tags: [background]
 dm_owner: none
 dm_notes: none
 ---
 # Divine Realms
-
-%% status/incomplete -> could, as some point, use some brief descriptions of other Firstborn realms, once sufficient details are invented to be worth summarizing here.%%
 
 Theological cosmologists, dating back to the influential Drankorian work [[On the Classification of Divinity]], have distinguished between [[Embodied Gods]], powerful celestial beings with an embodied physical manifestation, and [[Incorporeal Gods]], spiritual essences spun out of the divine power of creation itself. Current theological understanding, as represented in the [[Standard Multiversal Model]], suggests that these distinctions are critical for probing the nature of the divine realms. 
 

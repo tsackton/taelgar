@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/incomplete]
+tags: [background, status/review]
 excludePublish: ["all"]
 dm_notes: none
 dm_owner: joint
 ---
 # Magic in Taelgar
 
-%% status/incomplete ->  lots of stuff still to flesh out:
+%% ots of stuff still to flesh out:
 - impact of rare high level spells
 - non-clerics
 - magic items (both common and rare)

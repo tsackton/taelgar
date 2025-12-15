@@ -1,13 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/incomplete
+tags: [place, status/review]
 name: Vostok
 typeOf: region
 whereabouts: Greater Sembara
-aliases:
-  - Vosland
+aliases: [Vosland]
 pronunciation: VOS-tok
 dm_owner: joint
 dm_notes: none

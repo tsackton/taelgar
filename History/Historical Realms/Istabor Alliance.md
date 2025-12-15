@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/incomplete]
+tags: [place, status/errors]
 name: Istabor Alliance
 typeOf: realm
 dm_owner: joint

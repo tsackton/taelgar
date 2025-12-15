@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/incomplete]
+tags: [person, status/stub]
 campaignInfo:
 name: Cintra
 born: 1705
@@ -18,8 +18,6 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% status/incomplete -> significant NPC; copy notes from OneNote %%
 
 Supreme Oracle of Shakun.
 

@@ -1,5 +1,5 @@
 ---
-tags: [status/incomplete, holiday]
+tags: [status/stub, holiday]
 name: Viatela
 fc-date: {day: 11, month: 12}
 dm_notes: color
