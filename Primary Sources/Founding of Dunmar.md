@@ -1,5 +1,5 @@
 ---
-tags: [status/errors, source]
+tags: [status/check/errors, source]
 dm_owner: tim
 dm_notes: color
 ---

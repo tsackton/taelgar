@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/errors]
+tags: [meta, status/check/errors]
 dm_owner: joint
 dm_notes: none
 ---

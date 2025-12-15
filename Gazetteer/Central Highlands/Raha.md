@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags:
-  - status/errors
+  - status/check/errors
   - place
 typeOf: settlement
 typeOfAlias: village

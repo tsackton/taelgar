@@ -1,5 +1,5 @@
 ---
-tags: [background, status/errors]
+tags: [background, status/check/errors]
 dm_owner: shared,tim
 dm_notes: important
 ---

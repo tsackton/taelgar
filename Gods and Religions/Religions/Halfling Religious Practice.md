@@ -1,5 +1,5 @@
 ---
-tags: [background, religion/halflings, status/errors]
+tags: [background, religion/halflings, status/check/errors]
 dm_owner: joint
 dm_notes: none
 ---

@@ -1,5 +1,5 @@
 ---
-tags: [species, status/errors]
+tags: [species, status/check/errors]
 aliases: [fey]
 dm_owner: joint
 dm_notes: important
