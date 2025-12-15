@@ -1,5 +1,5 @@
 ---
-tags: [background, status/needswork, status/check/tim, status/check/mike]
+tags: [background, status/errors]
 displayDefaults: {defArt: a}
 name: Timeline of Sembaran History
 timelineDescriptor: Sembaran History
@@ -10,6 +10,8 @@ dm_notes: none
 %% Needs to incorporate the material from [[A Chronicle of Sembaran History]], plus there are some weak points that need cleaning up. discussion in discord chats that needs to be linked %%
 
 %% Mike: mostly a restructure, trying to make it easier to read and clarify what parts are canon. I have put timeline dates that I don't think are strictly canonical in () when the event happened but the timing feels unclear. I have put () around text when it is not clear the event itself is canonical, regardless of timing %%
+
+%% status/errors -> old in places %%
 
 ## The Drankorian Conquest
 DR 300 - DR 431

@@ -124,7 +124,7 @@ Tollen is a major entrepôt on the Green Sea: its merchant fleets travel widely,
 ## History
 _See more: [[History of Tollen]]_
 
-Tollen was settled in ancient days on the north bank of the Volta, pre-dating even the [[Downfall Wars]] and the founding of the ruined city of [[Drankor]]. A cosmopolitan port from its earliest days, it was a place where elves, lizardfolk, halfling traders, and several human cultures met and mingled. Under the Skaer thalassocracy in the years after the [[The Downfall|Downfall]], it grew into a key harbor on the Western Green Sea, and the oldest wards—Fiskurth, Skepwalk, [[Aesganstrad]]—mostly date to this era. 
+Tollen was settled in ancient days on the north bank of the Volta, pre-dating even the [[Downfall Wars]] and the founding of the ruined city of [[Drankor]]. A cosmopolitan port from its earliest days, it was a place where elves, lizardfolk, halfling traders, and several human cultures met and mingled. Under the Skaer thalassocracy in the years after the [[The Downfall|Downfall]], it grew into a key harbor on the Western Green Sea, and the oldest wards—Fiskurth, [[Skepwalk]], [[Aesganstrad]]—mostly date to this era. 
 
 Tollen’s first great turning point came with the Treaty of Marhavn in DR 402, when Skaer power yielded to the Drankorian Empire: the Volta became the imperial border, Tollen gained stone walls and the Tollen Bridge, and the city slid into de facto status as a Drankorian protectorate, though it was never formally governed by the Empire. 
 

@@ -1,9 +1,11 @@
 ---
-tags: [background, status/needswork]
+tags: [background, status/errors]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
 ---
+
+%% see warning but not totally obvious what the errors are %%
 
 **WARNING: THIS DOCUMENT IS SHOULD NOT BE CONSIDERED FULLY CANONICAL**
 

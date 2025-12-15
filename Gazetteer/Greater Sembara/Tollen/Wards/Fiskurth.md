@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+tags: [place]
 name: Fiskurth
 typeOf: neighborhood
 whereabouts: Tollen
@@ -21,4 +20,6 @@ An ancient district in [[Tollen]] and part of the original Skaer city, Fiskurth 
 vibe is narrow warrens, sailor's inns, smelly fish markets, loud, bustle; generally smaller docks, fewer warehouses, and more activity 
 
 Ancient: some roads are paved with Drankorian stone which is still smooth after so many years, and there are odd things like the occasional small square with an ancient statue to a forgotten Skaer or mariner hero. 
+
+Name derives from old Eastros word for fish
 %%

@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+tags: [place]
 name: Brooklawn Outer
 displayDefaults:
   defArt: ""
