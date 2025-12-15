@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork]
+tags: [place, status/gameupdate/clee, status/check/mike]
 name: Northlands
 typeOf: region
 whereabouts: Sembara
@@ -11,6 +11,8 @@ dm_notes: none
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% check/mike -> not sure if errors or gameupdate most appropriate %%
 
 %% needs some review against recently developed sembara history and culture in Cleenseau game  %%
 

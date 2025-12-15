@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/needswork, status/check/mike]
+tags: [background, status/check/tim, status/check/mike]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
 ---
 # Humanity in Greater Sembara
+
+%% probably needs a review for canon content but isn't immediately obvious there are errors here %%
 
 This note tries to draw together information from various sources to form a semi-canonical history of humanity in the Greater Sembaran region, intended to inform development of Sembara, Tyrwingha, Maseau, Addermarch, Tollen, Zimkova, and Vostok. Sections in %% notes %% should not be considered canonical. The rest generally is, although this specific background doc is not meant as direct world lore. 
 
