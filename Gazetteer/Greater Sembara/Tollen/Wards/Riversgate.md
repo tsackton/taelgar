@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+tags: [place]
 typeOf: neighborhood
 whereabouts: Tollen
 dm_owner: none

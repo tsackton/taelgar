@@ -35,7 +35,7 @@ The [[Dunmar Fellowship]] has received many of these letters, from a variety of 
 %%^End%%
 ## Guildhall
 
-The Ancient and Honorable Order of Philosophers maintains a guild hall in [[Skepwalk]], the oldest part of the city of [[Tollen]]. Although Skepwalk is mostly known for narrow streets and the bustling fish markets, the guild hall of the Philosopher's Guild is an oasis of calm and quiet, where the din of the streets seems to fade into nothingness as soon as you cross into the strangely out-of-season garden on the guildhall grounds. Visitors are welcome to the grounds and the tea rooms of the guildhall, but no further, and no one outside the Philosopher's Guild knows what occupies the majority of the guildhall building itself.  
+The Ancient and Honorable Order of Philosophers maintains a guild hall in [[Skepwalk]], the oldest part of the city of [[Tollen]]. Although [[Skepwalk]] is mostly known for narrow streets and the bustling fish markets, the guild hall of the Philosopher's Guild is an oasis of calm and quiet, where the din of the streets seems to fade into nothingness as soon as you cross into the strangely out-of-season garden on the guildhall grounds. Visitors are welcome to the grounds and the tea rooms of the guildhall, but no further, and no one outside the Philosopher's Guild knows what occupies the majority of the guildhall building itself.  
 ## Known Members
 
 - [[Delios the Sage]], an elderly scholar with a magic scroll that seems to allow querying information from some mysterious source
