@@ -1,6 +1,14 @@
 # Note Categorization
+*last update: Dec 15th 2025*
 
 Notes (pages) are categorized based on the combination of a descriptive tag, and a typeOf string. Both descriptive tags and typeOf strings are controlled vocabulary, and pages that do not have a canonical descriptive tag + typeOf combination will be flagged in queries in Data Cleaning. 
+
+There are five primary categories of notes that have specific header generation code:
+- Person
+- Place
+- Group
+- Thing
+- Event
 
 ## Descriptive Tags
 ***Last update: 12/08/2025***

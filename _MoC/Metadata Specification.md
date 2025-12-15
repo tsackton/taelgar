@@ -1,6 +1,10 @@
 # Metadata Specification
+*last update: Dec 15th 2025*
 
 This note summarizes the metadata specification for YAML frontmatter. 
+
+Some brainstorming and ideas:
+- [[Metadata Brainstorming - Discussion]] (old but still potentially relevant)
 
 ## Metadata Field Definitions
 

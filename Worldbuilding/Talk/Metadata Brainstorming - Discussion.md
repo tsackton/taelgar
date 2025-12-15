@@ -1,3 +1,5 @@
+*Older but potentially still relevant brainstorming about metadata*
+
 Trying to brainstorm some ideas about metadata, independent of questions about header formatting.
 
 My basic thought is there are three super-fundamental bits of metadata that are valuable to query:

@@ -1,4 +1,5 @@
 # Display Control
+*last update: Dec 15th 2025*
 
 ## Overview of Display Generation
 

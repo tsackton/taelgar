@@ -13,9 +13,12 @@ Metadata is primarily used to control automatic header generation, and allow dat
 
 ## Vault Organization
 
-*Note this hasn't been updated but probably could be moved without editing; the basic structure of the Vault organization page is good, it might just require updates.*
-
 [[Vault Organization]] contains information about the actual directory structure of the Vault and how it is used / organized. 
+
+## Scripts and Code
+
+[[Taelgarverse Code]]: contains information about Python and JavaScript code associated with header generation, dataviewJS queries, etc. 
+[[Templates]]: describes templates that can be used, both for the Templater plugin and plain Markdown templates that can be copied and filled out. 
 
 ## Subdirectories
 
@@ -26,4 +29,3 @@ Metadata is primarily used to control automatic header generation, and allow dat
 - Data Quality: Contains various pages with queries meant to uncover potentially missing things, or various other kinds of issues that don't rise to the level of major data issues 
 - Queries: Contains examples of various useful dataview and dataviewjs queries that might be reused; also contains information about how to write new queries. (formerly "Examples")
 - Pages to Review: Contains pages that need review in various ways, usually based on status tags and/or dm_notes. 
-- Templates and Scripts: Contains templates of various kinds and information about using scripts (e.g. building Taelgarverse)

@@ -1,3 +1,6 @@
+# Vault Organization
+*last update: Dec 15th 2025*
+
 The Taelgar Obsidian vault is organized broadly speaking into top-level directories that capture specific pages. 
 
 Some of these are fairly disorganized and inconsistent, but we are slowly cleaning up organization over time. This page tracks the meaning of existing directories, and the state of the slow-moving reorganization.
@@ -31,7 +34,7 @@ These directories have well defined content, and are organizationally correct, a
 
 **Cosmology**: This directory contains **in-world** pages about the planes and related concepts. Could be published as is, or selectively, or not at all, as desired. 
 
-**Species**: This directory contains **in-world**, **character-facing**, **player-facing**, and **meta** pages about the species of Taelgar. Player-facing pages should be kept in the Species\Mechanics folder, as should any "rules-heavy" meta pages.
+**Creatures**: This directory contains **in-world**, **character-facing**, **player-facing**, and **meta** pages about the species of Taelgar. Player-facing pages should be kept in the Creatures\Mechanics folder, as should any "rules-heavy" meta pages.
 
 **Worldbuilding**: This directory contains world building information of various kinds, including brainstorming and undeveloped ideas. See [[Purpose of Worldbuilding]] for more. Note that subdirectories are controlled here as well. 
 
@@ -58,7 +61,6 @@ These directories do not have a consistent organization and often have open ques
 **People**
 **Primary Sources**
 **Things**
-
 
 ### Open Questions
 * Where do larger pages about culture of species go, i.e. [[People of the Rainbow]], [[Dwarven Kingdoms]], or [[Story About Halfling Merchants]]

@@ -73,7 +73,7 @@ Old stories and place-names remember an early alliance of humans, lizardfolk, an
 
 ## DM notes
 
-- *Canonical development:* The Alliance’s detailed politics and history (especially after the 1680s) are only lightly sketched in current notes. See [[Upper Istaros]] and [[_MoC/Old Region Page for Notes]].
+- *Canonical development:* The Alliance’s detailed politics and history (especially after the 1680s) are only lightly sketched in current notes. See [[Upper Istaros]] and [[Old Region Page for Notes]].
 - *Hobgoblin pressure:* Hobgoblin raiders along the western edge of the [[Plaguelands]] are canonically possible; the exact organization and strength of these groups is not settled. See [[Hobgoblin Movements After Cha'Mutte]].
 
 ### Archived source notes (pre-rewrite)

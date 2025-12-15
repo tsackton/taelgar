@@ -1,4 +1,5 @@
 # Javascript Notes
+**WARNING: outdated and incomplete**
 
 The `_scripts` directory has three kinds of Javascript code. 
 

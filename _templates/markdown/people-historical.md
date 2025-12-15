@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person]
 campaignInfo: [] # [{campaign: , person: (optional), type: , date: YYYY-MM-DD}]
 name:  # Person's full name
 aliases: []  # optional
