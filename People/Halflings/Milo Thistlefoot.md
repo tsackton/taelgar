@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/base, status/cleanup/metadata]
+tags: [person, status/gameupdate/dufr]
 species: halfling
 gender: male
 dm_owner: tim

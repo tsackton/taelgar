@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, pc/cleenseau, person, status/gameupdate/active]
+tags: [pc, pc/cleenseau, person, status/gameupdate/clee]
 displayDefaults: { primaryOrgType: party}
 campaignInfo: []
 name: Robin of Abenfyrd

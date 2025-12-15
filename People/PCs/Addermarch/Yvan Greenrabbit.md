@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 aliases: [Yvan]
-tags: [pc/addermarch, person, status/gameupdate/active]
+tags: [pc/addermarch, person]
 player: Isaac Sackton
 ddbLink: https://www.dndbeyond.com/characters/131340283
 species: halfling

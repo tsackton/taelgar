@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/cleanup]
+tags: [person, status/gameupdate/clee]
 name: Rinault Essford
 born: 1688
 species: human
