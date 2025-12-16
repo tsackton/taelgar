@@ -19,7 +19,7 @@ There are seven major categories of notes that are defined by descriptive tags a
 
 (6) Sources. These are primary sources, either session notes (`#session-note`), or text written in a way that is intended to represent a handout or other kind of in-world game information (`#souce`). These currently have no automatic header generation. 
 
-(7) Conceptual. These are pages that don't belong to any other group. These include world background pages (`#background`), which represent in-world information that is not any of the other defined types above (typically things like holidays, history, and overview pages about concepts such as [[Land Holding in Sembara]]). These also include pages with meta-information (timelines, map of content style information, game mechanics, and things like that). Meta pages (tagged with `#meta`) shouldn't contain in-world text themselves (though they can collate information from other notes). 
+(7) Conceptual. These are pages that don't belong to any other group. These include world background pages (`#background`), which represent in-world information that is not any of the other defined types above (typically things like holidays, history, and overview pages about concepts such as [[Land Holding in Sembara]]). These also include pages with meta-information (timelines, map of content style information, game mechanics, and things like that). Meta pages (tagged with `#meta`) shouldn't contain in-world text themselves (though they can collate information from other notes). These currently have no automatic header generation. 
 
 ## Descriptive Tags
 ***Last update: 12/08/2025***
@@ -34,14 +34,13 @@ The following descriptive tags are considered canonical. Note that while item pa
 * **place**: a specific geographical place
 * **event**: a page about a specific event
 * **item**: a specific item, or a type of item, or a material. 
-
 * **organization**: a specific group of people or other type of organization, including things like pantheons or families or clans.
-* **background**: a conceptual page that describes world background. This is still canonical information (or at least, potentially canonical, depending on the status tags) but it doesn't refer to a specific living being, place, group, thing, or event (i.e. Land Owning in Sembara or Climate Background). A good catch-all for otherwise unclear pages. Includes holidays, which should have a typeOf: holiday and (usually) a religion tag. 
-* **session-note**: a page about a specific session
-* **timeline**: a page that is entirely or mostly about the chronology of events
-* **meta**: a page about pages, for example this page. Does not contain world information, but may contain information about world information. Can also be used for map of content-style pages that are outside the \_MoC folder, for example indexes of NPCs or indexes of events.
-* **source**: a page containing the actual text or a paraphrase of actual in-world information, typically intended to be given to players as is. 
 * **culture**: a page describing a specific culture
+* **session-note**: a page about a specific session
+* **source**: a page containing the actual text or a paraphrase of actual in-world information, typically intended to be given to players as is. 
+* **meta**: a page about pages, for example this page. Does not contain world information, but may contain information about world information. Can also be used for map of content-style pages that are outside the \_MoC folder, for example indexes of NPCs or indexes of events.
+* **background**: a conceptual page that describes world background. This is still canonical information (or at least, potentially canonical, depending on the status tags) but it doesn't refer to a specific living being, place, group, thing, or event (i.e. Land Owning in Sembara or Climate Background). A good catch-all for otherwise unclear pages. Includes holidays, which should have a typeOf: holiday and (usually) a religion tag. 
+
 
 There are three other tags that can be added to clarify the page but one of these items on its own is not sufficient to remove the page from the missing tags list:
 * **pc**: a page describing a player character. Use a subtype for the campaign, i.e. pc/greatwar or pc/cleenseau

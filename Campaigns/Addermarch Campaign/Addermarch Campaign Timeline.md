@@ -1,5 +1,6 @@
 ---
-tags: [timeline]
+tags: [meta]
+typeOf: timeline
 name: Addermarch Timeline
 timelineDescriptor: Addermarch Campaign
 ---
