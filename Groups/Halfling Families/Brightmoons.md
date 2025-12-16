@@ -1,5 +1,5 @@
 ---
-tags: [organization, status/stub]
+tags: [organization, status/stub, status/check/ai]
 displayDefaults: {defArt: the}
 name: Brightmoons
 typeOf: family
@@ -7,6 +7,19 @@ ancestry: halfling
 dm_notes: none
 dm_owner: none
 ---
+
+# The Brightmoons
+>[!info]+ Information  
+> A [[Halflings|halfling]] family  
+> `$=dv.view("_scripts/view/get_Affiliations")`
+
+The Brightmoons are a seafaring halfling clan, closely associated with the ship [[Wave Dancer]]. The clan’s matriarch, [[Wella Brightmoon]], serves as the Wave Dancer’s captain; among her kin are [[Pearl Brightmoon]] (first mate) and [[Rose Brightmoon]] (musician).
+
+## Sources
+
+- [[Pearl Brightmoon]]
+- [[Rose Brightmoon]]
+- [[Wella Brightmoon]]
 
 %%^Campaign:None%%
 ### Members

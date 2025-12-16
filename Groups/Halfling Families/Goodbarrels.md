@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/stub]
+tags: [organization, status/stub, status/check/ai]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Goodbarrels
@@ -14,7 +14,14 @@ dm_owner: tim
 > A [[Halflings|halfling]] family  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% some Wellby backstory notes to incorporate %%
+The Goodbarrels are a wide‑flung halfling trading clan, long associated with life on the road and on the water. Many Goodbarrels have spent their lives crisscrossing the lands around the [[Green Sea]]—caravans and riverboats, markets and inns—maintaining family ties across great distances.
+
+In the present day, the clan is best known through its scattered members: travelers like [[Wellby]] and settled hosts like [[Harriet Goodbarrel]] at [[The Singing Fox]].
+
+## Sources
+
+- [[Harriet Goodbarrel]]
+- [[Wellby]]
 
 %%^Campaign:None%%
 ### Members

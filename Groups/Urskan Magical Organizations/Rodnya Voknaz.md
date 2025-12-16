@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/stub]
+tags: [organization, status/stub, status/check/ai]
 ancestry: Urskan
 displayDefaults: {defArt: ""}
 typeOf: magical bloodline
@@ -14,4 +14,17 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 
-A mysterious group, one of the eight rodnye that rule Ursk. 
+The Rodnya Voknaz is one of the eight [[Rodnya|rodnye]] that rule [[Ursk]]. Voknaz is based in the western reaches of the country and is known for war magic: shaping elemental forces into destructive spells, and arguing that offensive power is the best defense against the threats of the far north.
+
+The Rodnya’s headquarters is the [[Voknaz Manor]], a heavily warded estate that includes at least one extraplanar portal to the [[Frostfell]].
+
+## Notable members
+
+- [[Branek Mirov]]
+
+## Sources
+
+- [[Branek Mirov]]
+- [[Rodnya]]
+- [[Ursk]]
+- [[Voknaz Manor]]

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/stub]
+tags: [organization, status/stub, status/check/ai]
 ancestry: Urskan
 displayDefaults: {defArt: ""}
 typeOf: magical bloodline
@@ -14,4 +14,9 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 
-A mysterious group, one of the eight rodnye that rule Ursk. 
+The Rodnya Morozmir is one of the eight [[Rodnya|rodnye]] that rule [[Ursk]]. Morozmir is based in the southeast of the country and is best known for defensive magic; it is often credited with involvement in the vast arcane wards that protect much of Ursk.
+
+## Sources
+
+- [[Rodnya]]
+- [[Ursk]]
