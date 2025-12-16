@@ -29,6 +29,15 @@ list from #status/check/tim and !#status/check/mike
 list from #status/check/tim and #status/check/mike
 ```
 
+## Errors
+
+```dataview
+TABLE join(split(file.path, "/", 2), "/") as Folder, 
+      length(file.inlinks) as Backlinks
+FROM #status/check/errors and !"Worldbuilding" and !"_DM_"
+FLATTEN length(file.inlinks) AS BacklinkCount
+SORT BacklinkCount DESC, join(split(file.path, "/", 2), "/")
+```
 ## Names
 
 ### Needs Name Confirmation
@@ -53,6 +62,6 @@ list from #status/check/minor
 
 ### Other Checking Needed (See Note for Details)
 ```dataview
-list from #status/check and !#status/check/tim and !#status/check/name and !#status/check/mike and !#status/check/minor and !#status/check/ai
+list from #status/check and !#status/check/tim and !#status/check/name and !#status/check/mike and !#status/check/minor and !#status/check/ai and !#status/check/errors
 ```
 
