@@ -1,5 +1,6 @@
 ---
-tags: [holiday]
+tags: [background, religion/fivesiblings]
+typeOf: holiday
 name: Feast of Bhishma
 fc-date: {day: 17, month: 6, year: 1748}
 fc-end: {day: 19, month: 6, year: 1748}

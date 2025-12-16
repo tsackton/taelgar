@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [holiday, religion/mosnumena]
+tags: [background, religion/mosnumena]
+typeOf: holiday
 name: Miracle of the Hopeful Heat
 fc-date: {day: 7, month: 1}
 dm_owner: mike

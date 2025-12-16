@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/vehicle]
+tags: [item]
 displayDefaults: {wHome: "Home port: <home>", ruledBy: "<affiliationtitle:t>: <name> <(of )primary>" }
 ancestry: Chardonian
 typeOf: vehicle

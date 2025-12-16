@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [holiday]
+tags: [background, religion/fivesiblings]
+typeOf: holiday
 name: Aagirvala
 fc-date: {day: 30, month: 9, year: 1748}
 dm_owner: tim

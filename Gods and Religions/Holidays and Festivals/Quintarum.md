@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/name, holiday, religion/mosnumena]
+tags: [status/check/name, background, religion/mosnumena]
+typeOf: holiday
 name: Quintarum
 fc-date: {day: 22, month: 1}
 dm_owner: none
