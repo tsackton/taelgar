@@ -63,10 +63,14 @@ where dm_owner = this.selected
 
 ## Note Status
 
-lastChecked:: 2025-12-01
+lastChecked:: 2020-12-01
+### Modified Files with No Status Tags
+
+All files modified after last checked date, that lack status tags. 
 
 ```dataview
-list from "Background" and !"Background/Background.md" where file.mtime > this.lastChecked
+list from "Background" and !"Background/Background.md" and !"#status"
+where file.mtime > this.lastChecked
 ```
 
 
