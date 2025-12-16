@@ -52,12 +52,24 @@ list from "Background"
 where dm_owner != "tim" and dm_owner != "mike" and dm_owner != "joint" and dm_owner != "none"
 ```
 
+### Selected DM Owner
+
+selected:: tim
+
+```dataview
+list from "Background"
+where dm_owner = this.selected
+```
+
+## Note Status
+
+lastChecked:: 2025-12-01
+
+```dataview
+list from "Background" and !"Background/Background.md" where file.mtime > this.lastChecked
+```
 
 
-
-
-
-## Pages with Status Tags
 ### Status: Needs Work
 
 Includes stubs and active
