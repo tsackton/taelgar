@@ -1,11 +1,7 @@
----
-tags: [status/check/ai]
----
-
 ## Entering the Labyrinth
 - The party stands on an icy bridge/arch at the “ceiling” of the labyrinth’s entrance chamber, looking down about 6–8 feet into an irregular oval space (roughly 10–15 feet across) piled with snow.
 - Above is an opaque, stormy white “sky” they can’t see through; below (outside the platform area) is the super-strong wind that previously threw them back upward.
-- Kalima clutches a glowing rock “blessed” by Rommel the Glacier King and repeatedly prays for protection from ice and snow, visibly terrified but willing to proceed with coaxing from Justas and Finnan.
+- Kalima clutches a glowing rock “blessed” by Romil the Glacier King and repeatedly prays for protection from ice and snow, visibly terrified but willing to proceed with coaxing from Justas and Finnan.
 - The group briefly reorients: if the bridge is “south,” two passages trend northward (northeast-ish) and two trend southwest-ish; Finnan begins mapping despite the uncertainty.
 - Ekko’s amulet is reviewed: when he becomes a Large beast he gains *Jump* (30-foot jump), and when he becomes a tiny beast he gains advantage on Stealth checks.
 - The party establishes marching order (Rolla scouting ahead; kenku choosing positions); Finnan ensures light coverage by casting *Light* on one of Jrain’s arrows (after moving it off his ocarina), while Kalima keeps her own light.
@@ -72,4 +68,3 @@ tags: [status/check/ai]
 - Ekko picks up Kalima despite her suspicion (“He dropped me last time”); Finnan reassures her, but she immediately tries to scramble away from the center and warns that a beast is here.
 - Finnan casts *Minor Illusion* to extend the ice wall and give Kalima a place to hide while Justas drops down (taking 3 damage on a failed Dex save) and prepares for a fight.
 - Justas draws attention by bellowing and banging axe on shield; a 10-foot-tall shaggy white beast with dark red eyes emerges roaring, while frost gathers near the walls into shadowy bestial forms beneath each kenku.
-- Finnan confirms his lore-item can treat this as a “hunted” beast for learning truths about Zeyfa’s minion, setting the stage for the next scene’s confrontation.
