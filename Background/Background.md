@@ -9,7 +9,7 @@ dm_notes: none
 
 This directory generally should contain **meta** pages almost exclusively. Not intended to be published, but rather intended to be a place to store canonical information that informs worldbuliding but is not directly player-facing. 
 
-## Tagging Information
+## Note Categories
 
 Excludes missing tags, which should be caught by [[Missing Tags]]
 
@@ -29,13 +29,12 @@ SORT Combo ASC
 
 ```
 
-## DM Frontmatter Info
+## Note Ownership
 
 ### Counts
 ```dataview
 TABLE WITHOUT ID
   split(Combo, "\\|")[0] AS "DM Owner",
-  split(Combo, "\\|")[1] AS "DM Notes",
   length(rows) AS "Count"
 
 FROM "Background" 
@@ -44,55 +43,18 @@ SORT Combo ASC
 
 ```
 
-### DM Notes: Cleanup
-
-Pages that have anything except none in dm_notes
-
-```dataview
-TABLE 
-    length(file.inlinks) AS Backlinks,
-    dm_notes AS Notes
-FROM "Background"
-WHERE dm_notes != "none" or !dm_notes
-SORT dm_notes
-```
-
-
 ### Nonstandard DM Owner
 
 Pages that have dm_owner not in: tim, mike, joint, player, none
 
-```dataviewjs
-// Define the list of allowed owners
-const allowedOwners = ["tim", "mike", "joint", "player", "none"];
-
-// Fetch all pages from the "Background" directory
-const pages = dv.pages('"Background"');
-
-// Filter pages where dm_owner contains any owner not in allowedOwners
-const filteredPages = pages.filter(page => {
-    // Ensure dm_owner exists and is a non-empty string
-    if (!page.dm_owner || typeof page.dm_owner !== "string") {
-        return true; // Exclude pages without dm_owner or with dm_owner not as a string
-    }
-
-    // Split the dm_owner string into an array, trimming whitespace
-    const owners = page.dm_owner.split(",").map(owner => owner.trim().toLowerCase());
-
-    // Check if any owner is not in the allowedOwners list
-    return owners.some(owner => !allowedOwners.includes(owner));
-});
-
-// Create the table with File, Backlinks, and Owner columns
-dv.table(
-    ["File", "Backlinks", "Owner"],
-    filteredPages.map(page => [
-        page.file.link,                // Clickable link to the file
-        page.file.inlinks.length,      // Number of backlinks
-        page.dm_owner                   // Owner(s) as the original string
-    ])
-);
+```dataview
+list from "Background"
+where dm_owner != "tim" and dm_owner != "mike" and dm_owner != "joint" and dm_owner != "none"
 ```
+
+
+
+
 
 
 ## Pages with Status Tags
