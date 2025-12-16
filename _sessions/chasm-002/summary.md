@@ -1,3 +1,14 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
+
+## Session Summary
+
+Drawn onward by the shifting geometry of Zeyfa’s Labyrinth, the party descends from the entrance chamber into tight, snowy tunnels of stone and hoarfrost, trying to keep bearings as wind gusts swirl and passages fork unpredictably. In a low, ice-walled chamber split by a warm crevasse fringed with ice “ferns,” they test the depths with a lighted snowball—only to watch the light abruptly vanish, feel the wind and snow thicken, and struggle to get everyone across as Kalima pleads to turn back. Pressing forward, they find a human corpse pinned by ice and use *Speak with Dead* to learn of Melusa, a cliff-carved village that offers sacrifices to Zeyfa; the dead insist the labyrinth does not let anyone escape, while Finnan’s Memory of the Ancestors links Melusa to old Teft stories of a waterfall shrine tied to a kestavo called Melua.
+
+The storm worsens into whiteout as ice seems to grow beneath their feet and the maze rearranges itself around booming pulses and shadowy wind-creatures that sweep through open rooms. Kalima is injured in the chaos and becomes even more fearful of being carried by the kenku, while the party relies on rope, stealth, and spells to keep moving through narrowing choices and vanishing exits. Eventually, a right-hand tunnel of hanging ice veils becomes a trap: Ekko’s *Create Bonfire* shatters the ice and triggers collapses and an avalanche-like surge, forcing the party to leap into darkness and slide down slick, non-reflective black ice. They spill out into a quiet black-stone chamber with sheer ice walls, just in time for Kalima to warn of a hidden beast—and for a towering shaggy white monster (with frost forming into new shapes nearby) to answer Justas’s challenge.
+
 ## Entering the Labyrinth
 - The party stands on an icy bridge/arch at the “ceiling” of the labyrinth’s entrance chamber, looking down about 6–8 feet into an irregular oval space (roughly 10–15 feet across) piled with snow.
 - Above is an opaque, stormy white “sky” they can’t see through; below (outside the platform area) is the super-strong wind that previously threw them back upward.
