@@ -41,17 +41,24 @@ Each village chooses a local chief, with chiefs gathering in council to resolve 
 
 Alongside civil leadership, the godcallers who interpret the will of the tanshi hold significant influence, with informal hierarchies of respect based on perceived closeness to the spirits.
 
+## Recent history
+
+In 1748 DR, [[Mezzar|Grimbaskal]] was slain in the depths of the [[Elderwood]]. His death weakened the forces that had been spreading corruption through the forest, and news of his deception spread by messenger to the other Deno'qai tribes. Among the Baz'aku, the end of Grimbaskal's influence has sharpened debate over raiding and war, and strengthened those who argue for a return to trade and diplomacy along the [[Chasa River Valley]].
+
 ## Sources
 
 - [[Elderwood]]
 - [[On the Lost People of the Forests]]
 - [[Deno'qai]]
+- [[Session 52 (DuFr)]]
 
 %%need to copy notes from OneNote %%
 
 %%^Campaign:none%%
 
 ## Overview
+
+%% AI note: The following update extrapolates likely Baz'aku political shifts after Grimbaskal's death, based on [[Session 52 (DuFr)]] and the existing DM notes in this file. %%
  
 Historically a tribe of merchants and middlemen, acting as intermediaries between the more isolated forest tribes and the Chardonians. Traded timber, wood products, rare herbs collected from the forests, meat/leather/hide/fur from wild animals. The Deno'qai don't really grow cash crops, most of the animals they raise and the plants they grow are for local consumption - cash crops are harvested from the wilds of the Elderwood.
  

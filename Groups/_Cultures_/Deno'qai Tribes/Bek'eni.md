@@ -21,20 +21,28 @@ Bek'eni oral tradition holds that their tribe long stood closest to the elves of
 
 ## Territory and settlements
 
-The Bek'eni are scattered across many small villages and family hamlets in the interior of the Elderwood, perhaps fifteen villages of fifty to two hundred people apiece, alongside denser clusters of small settlements. Bek'eni villages are poorer than those of the [[Baz'aku]], with fewer luxuries and a harsher, more self-contained way of life.
+The Bek'eni are scattered across many small villages and family hamlets in the interior of the Elderwood, about fifteen villages of fifty to two hundred people apiece, alongside denser clusters of small settlements. Bek'eni villages are poorer than those of the [[Baz'aku]], with fewer luxuries and a harsher, more self-contained way of life.
 
 ## Relations
 
 Historically, the Bek'eni traded and intermarried with the [[Baz'aku]], and maintained less contact with the towns of the [[Chasa River Valley]] than the river tribes did. In recent memory, they have become markedly isolationist and distrustful of outsiders. Bek'eni rumor often casts the Baz'aku as collaborators who have turned away from tradition, and the deep-forest [[Te'kula]] as a people under a malign influence.
+
+## Recent history
+
+In 1748 DR, the elf called [[Mezzar]] was unmasked at a Deno'qai god tree as the green dragon [[Mezzar|Grimbaskal]]. Grimbaskal was slain soon after, and the corruption that had spread through the southern Elderwood began to recede. News of Mezzar's deception was carried to the tribes in part through the work of [[Theba]], a former Bek'eni godcaller. The Bek'eni now reckon with the losses and divisions left behind by Mezzar's rule, including the disappearance of warriors taken into his service and the collapse of village authority built around him.
 
 ## Sources
 
 - [[Deno'qai]]
 - [[Elderwood]]
 - [[On the Lost People of the Forests]]
+- [[Session 51 (DuFr)]]
+- [[Session 52 (DuFr)]]
 
 %%^Campaign:dufr%%
-Ruled for more than 20 years by the green dragon [[Mezzar|Grimbaskal]], posing as an elf under the name [[Mezzar]]. 
+For decades, the Bek'eni followed the green dragon [[Mezzar|Grimbaskal]], who posed as an elf under the name [[Mezzar]]. In 1748 DR he was exposed and slain.  
+
+%% AI note: [[Session 51 (DuFr)]] describes Mezzar as advising the Bek'eni for "the past 10 years", while [[Session 52 (DuFr)]] frames his wider influence as "over the past twenty years or more". %%
 %%^End%%
 
 %%^Campaign:none%%
