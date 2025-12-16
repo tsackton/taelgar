@@ -1,5 +1,6 @@
 ---
-tags: [holiday]
+tags: [background, religion/fivesiblings]
+typeOf: holiday
 name: Festival of Rebirth
 fc-date: 1748-4-6
 dm_notes: none

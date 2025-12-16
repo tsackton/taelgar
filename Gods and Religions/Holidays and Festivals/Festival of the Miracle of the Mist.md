@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [holiday, religion/mosnumena]
+tags: [background, religion/mosnumena]
+typeOf: holiday
 name: Festival of the Miracle of the Mist
 fc-date: {day: 18, month: 4}
 dm_owner: mike

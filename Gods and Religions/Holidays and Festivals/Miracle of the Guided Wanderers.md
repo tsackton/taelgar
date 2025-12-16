@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [holiday, religion/mosnumena]
+tags: [background, religion/mosnumena]
+typeOf: holiday
 name: Miracle of the Guided Wanderers
 fc-date: {day: 11, month: 9}
 dm_owner: mike

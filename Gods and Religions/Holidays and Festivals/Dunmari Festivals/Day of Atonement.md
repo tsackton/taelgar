@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [holiday, religion/fivesiblings]
+tags: [background, religion/fivesiblings]
+typeOf: holiday
 name: Day of Atonement
 aliases: ["Feast of Sonkar's Blessing"]
 fc-date: {day: 21, month: 12}

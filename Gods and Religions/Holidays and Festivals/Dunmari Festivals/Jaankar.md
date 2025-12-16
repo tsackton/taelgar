@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [holiday, religion/fivesiblings]
+tags: [background, religion/fivesiblings]
+typeOf: holiday
 fc-date: {day: 21, month: 7}
 fc-end: {day: 22, month: 7}
 pronunciation: JAWN-kar
