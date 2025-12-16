@@ -1,6 +1,6 @@
 Finnan: So let’s continue… down this passageway.
 DM: You continue down the passageway for, I mean, the… the…
-DM: The… storm is pretty… pretty tough at the moment, right? Like, as you go… you’re… it’s difficult to move. It’s not really gotten… maybe it’s gotten a tiny bit better, right, as you leave this… this corpse behind. But it’s definitely… there are strong gusts of wind. The… the… the… you hear, like, as you’re walking, you hear, like, a crack of ice in, like, a boom. You can’t pinpoint it—like, just in the distance, right? Like… you… you know, the… you can only see about 20 feet, 30 feet—complete whiteout conditions beyond 30 feet. You can make out dim shapes 20 feet away. You—walking, like I said, like, as you walk, the ice is forming, like, under your feet. It almost seems to be trying to trip you. If you… walk more than half speed, it’s difficult. <Bad to me>[Hard to move|Likely ASR error]. But you make your way down. There’s… as you’re walking down this corridor, there are two passageways that go off on the left or right.
+DM: The… storm is pretty… pretty tough at the moment, right? Like, as you go… you’re… it’s difficult to move. It’s not really gotten… maybe it’s gotten a tiny bit better, right, as you leave this… this corpse behind. But it’s definitely… there are strong gusts of wind. The… the… the… you hear, like, as you’re walking, you hear, like, a crack of ice in, like, a boom. You can’t pinpoint it—like, just in the distance, right? Like… you… you know, the… you can only see about 20 feet, 30 feet—complete whiteout conditions beyond 30 feet. You can make out dim shapes 20 feet away. You—walking, like I said, like, as you walk, the ice is forming, like, under your feet. It almost seems to be trying to trip you. If you… walk more than half speed, it’s difficult. Hard to move. But you make your way down. There’s… as you’re walking down this corridor, there are two passageways that go off on the left or right.
 DM: Like, just gaps in the darkness.
 Finnan: And it continues beyond that.
 DM: 80 straight, yeah.
@@ -58,7 +58,7 @@ Finnan: I mean, I’m hap—perfectly happy to… run. I’m just worried about�
 DM: Kalima?
 Finnan: Kalima.
 Justas: Let’s get her through first, yeah.
-Justas: Can <Koos flyer down?>[the two fly her down?|Likely ASR error] What’s that?
+Justas: Can the two fly her down? What’s that?
 Jrain: Yeah, why don’t we roll as a party—somebody roll a Strength check for the kenku?
 DM: So I’m gonna make a Strength check for each of the kenku.
 Finnan: Eolo rolled a 13.
@@ -106,7 +106,7 @@ DM: Okay.
 Jrain: We just—
 Justas: It’s minor, if the—
 DM: Yeah, yeah, yep, yep. Yep.
-DM: As you go down the corridor, it actually… you see it branches into… it, like… it… it comes to a stop in, like, an icy, like… snow. You’re back on snow now instead of stone. And there’s, like, seven passageways, like, all sort of only two and a half feet wide, weeding out of this snowy… kind of, again, like, another finger. Two of them are, like—<But with some coming back>[two loop back?|ASR unclear], sort of almost going back the way you came. It looks much more twisty all of a sudden.
+DM: As you go down the corridor, it actually… you see it branches into… it, like… it… it comes to a stop in, like, an icy, like… snow. You’re back on snow now instead of stone. And there’s, like, seven passageways, like, all sort of only two and a half feet wide, weeding out of this snowy… kind of, again, like, another finger. Two of them, like, loop back—sort of almost going back the way you came. It looks much more twisty all of a sudden.
 Jrain: The right!
 Justas: Yep—rightmost. That’s—
 Finnan: Yeah, I mean—
@@ -114,7 +114,7 @@ DM: You take the rightmost, and you go, and it’s… and it’s… it’s turni
 Justas: In a maze of twisting little passages all alike?
 DM: It could have been twisted back around. Like, you’re not sure—maybe you came back in and two of the passages disappeared. It’s quite hard to tell.
 Jrain: I mean, what I have to do is we’re disappearing and… go ahead.
-Finnan: Sorry, <upshore>[you first?|ASR unclear].
+Finnan: Sorry, you first.
 Justas: I’ll write— I’ll pull out a sheet of paper, I’ll write on the sheet of paper “5 passages,” and I’ll put it on the floor under enough snow so that it’s not gonna blow away.
 DM: Okay.
 Finnan: Yeah.
@@ -130,7 +130,7 @@ DM: Sorry.
 Finnan: Three to your left?
 DM: One to your left, three to your right—I got it back—and one straight ahead.
 Finnan: Okay, well, we just go to the furthest rightmost one.
-DM: You go to the furthest rightmost one. Okay. So, you go along to… you go to the furthest rightmost one, you go down… again, it’s very twisty. It curves. It curves sharply. And you come out again—now you come out in a room that has two passageways to your left, one passageway to your right, and one straight ahead. The snow is blowing quite… it’s… I mean, it’s… you curved… when you went down the passageway to the right, you curved sharply… I don’t know if you’re quite seeing it, right? It’s like… it’s like a hand, right? You came up on one of them, you went down to go to the rightmost, and it curved sharply to the right as you went down it. But when you come back into another room now, with one passageway to your right, and two to your left, and one straight ahead… there’s, like, as you walk out into the passageway, there’s, like, this huge gust of, like—there’s just snow. You can only see maybe two feet in front of you. And you see… you see a shape. Or two shapes—maybe three—it’s really hard to tell how many there are. Like shadows, almost snow-shadows, like, peeling off the wall and, like, flying towards you. Like, they have, like— they’re made of, like… sinew. Like, there’s, like… they’re sort of humanoid forms. They seem to mostly be made of wind, and maybe some, like, bone and <weather>[leather|Likely ASR error], held together by swirling wind. They have, like, sort of heads, and their arms are, like—look like they’re… you can, like, see, like, knife edges, like, on their arms.
+DM: You go to the furthest rightmost one. Okay. So, you go along to… you go to the furthest rightmost one, you go down… again, it’s very twisty. It curves. It curves sharply. And you come out again—now you come out in a room that has two passageways to your left, one passageway to your right, and one straight ahead. The snow is blowing quite… it’s… I mean, it’s… you curved… when you went down the passageway to the right, you curved sharply… I don’t know if you’re quite seeing it, right? It’s like… it’s like a hand, right? You came up on one of them, you went down to go to the rightmost, and it curved sharply to the right as you went down it. But when you come back into another room now, with one passageway to your right, and two to your left, and one straight ahead… there’s, like, as you walk out into the passageway, there’s, like, this huge gust of, like—there’s just snow. You can only see maybe two feet in front of you. And you see… you see a shape. Or two shapes—maybe three—it’s really hard to tell how many there are. Like shadows, almost snow-shadows, like, peeling off the wall and, like, flying towards you. Like, they have, like— they’re made of, like… sinew. Like, there’s, like… they’re sort of humanoid forms. They seem to mostly be made of wind, and maybe some, like, bone and leather, held together by swirling wind. They have, like, sort of heads, and their arms are, like—look like they’re… you can, like, see, like, knife edges, like, on their arms.
 Jrain: Turn around rapidly and go some other direction? It’s not through the—
 DM: Back the way you—so you came out again… you came out of a passageway. The wind creatures are sweeping—there’s four of them, or three… three or four, you can’t really tell—are sweeping across. There’s one passageway to your right, two to your left, and one straight ahead.
 Finnan: Yeah, just immediately turn to the right and run down that passageway as quickly as we can.
@@ -207,7 +207,7 @@ Justas: That’s how stealthy he is.
 DM: 70-year-old stealth for Kong.
 Finnan: 29 for Ekko.
 DM: You see… I mean, it’s… it’s… it’s tricky to… luckily, you’re trying to move slowly, because you can barely see, and you can barely walk, right? You’re, like, can barely move more than… you know, the wind is, like, howling. You can… you can… you can see, like, as you step under your feet, like, sometimes it just won’t be ground. It’ll just be, like, snow, or, like… it’s, like, almost trying to trip you. But you all manage to sneak out through the other side. And as you come out into this other corridor, the… the wind kinda calms down a little bit. Like, it’s not at all calm. But you… you get… you sort of… all of a sudden, you could see for… for… 15 feet instead of… or 20 feet instead of 10 feet, right? Like, as you… as you come out into this…
-Finnan: Sort of wide, icy corridor, but… do we still see the booming… <Care the.>[up ahead|Likely ASR error] in front of us?
+Finnan: Sort of wide, icy corridor, but… do we still see the booming… up ahead?
 DM: The booming is still in front of… yes, it is up ahead. You can hear it up ahead.
 Finnan: So maybe that was all just a dead end? And I’ll say—
 Justas: Well, now we know it.
@@ -223,7 +223,7 @@ Jrain: So I just rushed past it again. Do I need to check?
 DM: No.
 Justas: Alright, so—
 Jrain: Your secure— I brought your security rope, Justas.
-Justas: Thank you, I appreciate that. I’ll go through again also with <Kaluna>[Kalima|Likely ASR error] this time.
+Justas: Thank you, I appreciate that. I’ll go through again also with Kalima this time.
 DM: Yeah, okay, make—did you make a Strength check?
 Justas: Yeah, that’s an 11.
 DM: That’s good enough.

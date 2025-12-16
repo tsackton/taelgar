@@ -10,15 +10,15 @@ Ekko: Gotta get outta here, right?
 Jrain: Yeah.
 Justas: Are you trying to get out, or find the center, or… isn’t there something that lives in here that we’re meant to… find and—
 Finnan: That’s… according to Kalima, that’s the only way out—is to find the…
-Finnan: Stop Zypher’s… something.
+Finnan: Stop Zeyfa’s… something.
 Jrain: Beast, champion, something, something.
 Eolo: Hmm…
 Finnan: So can we walk into the… I mean, does the crack extend all the way to the entrance?
-DM: It… no, no, no. The <crap>[crack|Likely ASR error] is going horizontally. Like, you’re… you can go up to the—
+DM: It… no, no, no. The crack is going horizontally. Like, you’re… you can go up to the—
 Finnan: Oh, okay.
 DM: The room this way, right.
 Eolo: Mmm…
-Jrain: But we can’t cross the <crab criteria side>[crack to the other side|Likely ASR error; meaning inferred]. You can’t cross—wow. I mean… some of us can fight, yeah, yeah. Yeah.
+Jrain: But we can’t cross the crack to the other side. You can’t cross—wow. I mean… some of us can fight, yeah, yeah. Yeah.
 DM: There is a… there is a challenge in crossing the crack to the other side.
 Eolo: Get nervous.
 Jrain: Does it, like, taper towards the walls, or is it… it’s just equally 15 feet wide everywhere?
@@ -33,7 +33,7 @@ Justas: Make a snowball and cast Light on it, and… ask, Eolo, wanna… drop th
 DM: So when you cast Light, Kalima’s light goes out, but that’s okay. Yeah.
 Justas: Yeah.
 Eolo: Eolo has the ability to telekinetically move objects around. The target must be a loose object that is Large or smaller, or a willing creature—transport up to 30 feet.
-Eolo: <Oh, let me do it once per short rest.>[I can do it once per short rest.|Grammar]
+Eolo: I can do it once per short rest.
 Finnan: Well, if we’re gonna try to cross this, Finnan’s gonna look pointedly at the wings on the back of Ekko and Eolo.
 Eolo: Yeah, I suppose I could… I could lift someone over in that way, instead of using it to just toss a chunk of ice. I mean, I do have hands—I could toss a chunk of ice. And he strolls up to within a few feet of the crack and… and lobs it in.
 DM: As you get… as you come up, like, you notice the weaving bits of, like… what look like ferns, but seem to be made of ice. They get very still as you come close to them. And you can definitely feel this, like, warm air coming up through the crack. And as you throw the thing over… it has Light on it?
@@ -64,7 +64,7 @@ Justas: Alright, I’ll… Light back on, you know, something we’ve got it han
 Jrain: There are two other passages. We don’t have to go across this one.
 Finnan: I’m gonna just look over at Eolo like, “What’s the worst that’s gonna happen?”
 Eolo: Exactly.
-DM: You hear a sort of <fowl>[foul|Likely ASR error]… you hear sort of a howl on the wind. Like, there’s just this, like, howling. Like, this wind has picked up, and there’s now, like, a swirling wind blowing in almost a circle in this room. And you hear sort of a howl come on the wind.
+DM: You hear a sort of foul… you hear sort of a howl on the wind. Like, there’s just this, like, howling. Like, this wind has picked up, and there’s now, like, a swirling wind blowing in almost a circle in this room. And you hear sort of a howl come on the wind.
 Eolo: The sound originates—
 Jrain: Ding.
 Eolo: From within the room, or down the chasm—the crack—or somewhere else?
@@ -103,13 +103,13 @@ Justas: Yeah. I’ll pull out a coil—50 feet of rope. I’m traveling light, b
 Eolo: A minute.
 Finnan: You’re welcome.
 Justas: Toss it over, yeah.
-Finnan: We’ll look at the… the two <Kenko>[kenku|Likely ASR error], and suggest that if we tie a rope around one of your legs—so you can’t fall endlessly down to the bottom of the chasm—maybe somebody flies across with some light and sees what’s on the other side.
+Finnan: We’ll look at the… the two kenku, and suggest that if we tie a rope around one of your legs—so you can’t fall endlessly down to the bottom of the chasm—maybe somebody flies across with some light and sees what’s on the other side.
 Jrain: I mean, I could send Rolla to see what’s on the other side. They have darkvision.
 Finnan: Oh, that’s also a good idea.
 DM: Can Rolla talk to you, right?
-Jrain: Yeah. <What good widow.>[With Goodwill.|Likely ASR error]
-DM: <Dad?>[Yeah?|Likely ASR error]
-Jrain: <Extreme be without a communication aspect.>[Except we don’t have a communication aspect.|Likely ASR error]
+Jrain: Yeah. With goodwill.
+DM: Yeah?
+Jrain: Except we don’t have a communication aspect.
 Finnan: Hmm… Rolla does not speak any languages.
 DM: Yeah, I thought some… some beasts only understand you; they can’t communicate.
 Finnan: But you… you have Speak with Animals. So all you need to do is spend 10 minutes to ritual-cast Speak with Animals.
@@ -146,8 +146,8 @@ DM: I’m… when you jump, you can make a long—sorry, I’m just looking at�
 Eolo: But Eolo has—
 DM: You could… you could clear it.
 Eolo: Oh, I thought it was more than 10 feet wide.
-DM: It’s… I mean… tell you what: it’s, like, right at the edge. You might have to make a check to, like, get your <bat>[footing|Likely ASR error]—you know, it might be six inches past. It’s about 10 feet wide. You don’t have a… you don’t have a laser finder measurer, right? Like, it’s right on the edge.
-Eolo: What Eolo has is 100% confidence in his ability to make this <job>[jump|Likely ASR error]. Damn.
+DM: It’s… I mean… tell you what: it’s, like, right at the edge. You might have to make a check to, like, get your footing—you know, it might be six inches past. It’s about 10 feet wide. You don’t have a… you don’t have a laser finder measurer, right? Like, it’s right on the edge.
+Eolo: What Eolo has is 100% confidence in his ability to make this jump. Damn.
 DM: There you go. Make a DEX—so you start to run towards it—make a DEX check.
 Eolo: Wait, oh, not an Acrobatics check? Okay.
 DM: It could be Acrobatics, if you want—proficiency. You can have proficiency if you have Acrobatics.
@@ -226,11 +226,11 @@ Jrain: But would I provide any… would my spell provide enough lift to help Kal
 DM: You could probably manage that, yeah. If a kenku was sort of holding half of her and you were… like, two people could easily carry her—one holding her shoulders, one holding her legs.
 Jrain: So we split up… we split up the weight, and the kenku provides the direction with their actual scale.
 DM: What?
-Jrain: <lying.>[Flying.|Likely ASR error]
+Jrain: Flying.
 DM: Yeah. Alright. You could do that.
 Jrain: I’m gonna… I’m gonna expend a use—the power of my cloak—to levitate to get across this, that way I can lend Kalima a hand.
 DM: Okay.
-Jrain: <Hong>[Ekko|Likely ASR error]—are you still on our side of the pit? Did you come back? I forget who’s on which.
+Jrain: Ekko—are you still on our side of the pit? Did you come back? I forget who’s on which.
 DM: I mean, the kenku could fly back in… like, it’s… it’s… the wind is blowing, but it’s not—
 Jrain: But we’re… we’re trying to minimize the trips across, because it’s making the wind worse, so—
 Ekko: We’re going back, yeah. I can just fly back over.
@@ -247,7 +247,7 @@ Finnan: Man, we really need Seeker on this adventure. Performance of Creation—
 Eolo: Justas is… a willing creature. So I—
 Finnan: Telekinetically just—
 DM: Can I just tell him?
-Eolo: <Tim McCross.>[To move him across.|Likely ASR error; meaning inferred]
+Eolo: To move him across.
 DM: Yes, you could.
 Eolo: But I, I think—
 Justas: Something my size, you can telekin—neat?
@@ -276,7 +276,7 @@ DM: The rope is tied to you, and they’re on the other side, so you fall and yo
 Justas: Yeah, but—
 Jrain: We’re holding a lot.
 DM: Nice.
-Justas: <black.>[Okay.|Likely ASR error]
+Justas: Okay.
 DM: Like, 15 feet of slack, so you… you swing down 15 feet. You’re in pitch blackness when you go down 15 feet. Like, you can’t see above you.
 Eolo: So, so I’m—
 DM: And you feel like hot air all around you.
@@ -292,7 +292,7 @@ DM: I mean, this all takes about… maybe… I don’t know. You hit the far sid
 Justas: I mean, I’ll smash the spiky end of the battleaxe into the wall to stop my descent.
 DM: Yeah, I mean, you’re not descending rapidly. It’s not like… it’s like you feel you jumped out, but you can’t see anything. But you feel yourself fall down one or two sides. You… you, by feel, smash the battleaxe into the wall, and you kind of get a decent hold.
 Jrain: Isn’t Eolo also yanking on him?
-DM: Are you <talcan eating>[telekinesing|Likely ASR error] him?
+DM: Are you telekinesing him?
 Eolo: Yet.
 DM: Well, if you do, he just comes flying up.
 Finnan: Yep.
@@ -318,7 +318,7 @@ Finnan: Right.
 Jrain: Toward the door that we’re planning to head towards—does it seem like a continuation of that storm, or, like, a way out of it?
 DM: I mean, you can barely see the two exits. You can go into one of them.
 Jrain: That’s what I’m saying. Let’s go to the threshold of the one on the right.
-DM: I mean, the wind is coming just as strongly from up—like, as you step into the threshold, there’s, like, a burst of a snowy gust that’s blowing up the <quarter>[corridor|Likely ASR error] towards you.
+DM: I mean, the wind is coming just as strongly from up—like, as you step into the threshold, there’s, like, a burst of a snowy gust that’s blowing up the corridor towards you.
 Jrain: This doesn’t seem to be getting any better—this weather condition that we’re having locally.
 DM: Do you want to quickly try the other—
 Jrain: Thing and see if the weather is different in the other tunnel before we go too far down this blizzard?
