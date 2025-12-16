@@ -1,7 +1,8 @@
 ---
 name: Cleenseau Campaign - Timeline
 timelineDescriptor: Cleenseau Campaign
-tags: [timeline]
+tags: [meta]
+typeOf: timeline
 ---
 
 # 7 Robert I / 1719 DR

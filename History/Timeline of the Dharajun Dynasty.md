@@ -1,5 +1,5 @@
 ---
-tags: [status/stub, timeline]
+tags: [status/stub, background]
 dm_owner: tim
 dm_notes: important
 ---
