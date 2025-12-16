@@ -1,6 +1,6 @@
 ---
 tags: [background]
-dm_owner: mike,tim
+dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
 ---
