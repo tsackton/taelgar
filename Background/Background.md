@@ -69,8 +69,8 @@ lastChecked:: 2020-12-01
 All files modified after last checked date, that lack status tags. 
 
 ```dataview
-list from "Background" and !"Background/Background.md" and !"#status"
-where file.mtime > this.lastChecked
+list from "Background" and !"Background/Background.md" 
+where file.mtime > this.lastChecked and !contains(file.etags, "status")
 ```
 
 
@@ -88,7 +88,6 @@ WHERE startswith(tag, "#status/") AND !startswith(tag, "#status/cleanup") AND !s
 SORT replace(tag, "#status/", "") ASC, length(file.inlinks) DESC
 
 ```
-
 
 ### Status: Check
 
@@ -140,31 +139,5 @@ WHERE !contains(excludePublish, "all") and excludePublish
 FLATTEN excludePublish as exPub
 SORT length(file.inlinks) DESC
 
-```
-
-## Unnamed In-Links
-
-Pages that link to a background page and are currently unnamed. 
-```dataview
-TABLE 
-    length(file.inlinks) AS Backlinks
-FROM ""
-WHERE 
-    startswith(file.name, "~") AND
-    any(filter(file.inlinks, (b) => contains(meta(b).path, "Background")))
-SORT length(file.inlinks) DESC
-
-```
-
-## Staging
-
-These are staging pages linked to pages in the Background directory. 
-
-```dataview
-TABLE 
-    length(file.inlinks) as Backlinks
-FROM "Worldbuilding/Staging"
-WHERE any(filter(file.inlinks, (b) => contains(meta(b).path, "Background")))
-SORT length(file.inlinks) DESC
 ```
 
