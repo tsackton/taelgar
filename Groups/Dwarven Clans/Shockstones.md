@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [organization, status/stub]
 displayDefaults: {defArt: the}
 name: Shockstones
 typeOf: clan
