@@ -6,8 +6,8 @@ name: Baz'aku
 typeOf: tribe
 ancestry: Deno'qai
 whereabouts: Elderwood
-dm_notes: none
-dm_owner: none
+dm_notes: important
+dm_owner: tim
 pronunciation: bahz-AH-koo
 ---
 # The Baz'aku
@@ -15,19 +15,39 @@ pronunciation: bahz-AH-koo
 >[!info]+ Information  
 > A [[Deno'qai]] tribe based in the [[Elderwood]], [[Ainumarya]]
 
-The Baz'aku are a Deno'qai tribe living on the edges of the [[Elderwood]], known to trade with the people of the [[Chasa River Valley]]. In [[On the Lost People of the Forests]], the Baz'aku claim the land between the [[Chasa]] and the [[Kayan]].
+## Overview
+
+The Baz'aku are a Deno'qai tribe living on the edges of the [[Elderwood]]. They are known to trade with the people of the [[Chasa River Valley]]. In [[On the Lost People of the Forests]], the Baz'aku claim the land between the [[Chasa]] and the [[Kayan]].
 
 Much of what is written of the Baz'aku in Chardon comes from the work of the scholar [[Gnaeus]], who spent months living among them and learning their stories and customs.
 
+%% Previous text:
+The Baz'aku are a Deno'qai tribe living on the edges of the [[Elderwood]], known to trade with the people of the [[Chasa River Valley]]. In [[On the Lost People of the Forests]], the Baz'aku claim the land between the [[Chasa]] and the [[Kayan]].
+
+Much of what is written of the Baz'aku in Chardon comes from the work of the scholar [[Gnaeus]], who spent months living among them and learning their stories and customs.
+%%
+
+## Tradition and religion
+
+In the telling recorded by [[On the Lost People of the Forests]], the Baz'aku preserve the shared myths of the Deno'qai: that their people trace their ancestry back to the first humans to leave [[Hkar]], long before [[The Downfall]] and the founding of [[Drankor]]; and that in the oldest days they ranged across vast forests from the mountains to the sea. In these stories, the heart of their “old ways” is the worship of the [[Tanshi|tanshi]], the spirits of the forest who bring prayers to the creator, [[Divine Presence|Anida]].
+
+%% Previous text:
 ## Tradition and memory
 
 In the telling recorded by [[On the Lost People of the Forests]], the Baz'aku preserve the shared myths of the Deno'qai: that their people trace their ancestry back to the first humans to leave [[Hkar]], long before [[The Downfall]] and the founding of [[Drankor]]; and that in the oldest days they ranged across vast forests from the mountains to the sea. In these stories, the heart of their “old ways” is the worship of the [[Tanshi|tanshi]], the spirits of the forest who bring prayers to the creator, [[Divine Presence|Anida]].
+%%
 
 ## Economy and way of life
 
 Chardonian accounts and Baz'aku storytelling alike describe the tribe as traders and intermediaries: gatherers of forest wealth—timber, crafted wood, rare herbs, and the products of hunting—who exchange what the Elderwood provides for metalwork and goods from the river towns. The Baz'aku practice careful forestry, keeping small plots of cultivation at the edges of their clearings rather than attempting large-scale farming in the deep woods.
 
+Some recent reports from [[Arendum]] describe an increase in raiding against caravans and forester camps along the forest's margins. These reports have coincided with a more visible Chardonian military presence on the frontier.
+
+%% Previous text:
+Chardonian accounts and Baz'aku storytelling alike describe the tribe as traders and intermediaries: gatherers of forest wealth—timber, crafted wood, rare herbs, and the products of hunting—who exchange what the Elderwood provides for metalwork and goods from the river towns. The Baz'aku practice careful forestry, keeping small plots of cultivation at the edges of their clearings rather than attempting large-scale farming in the deep woods.
+
 Some recent reports from [[Arendum]] emphasize an increase in raiding against caravans and forester camps along the forest's margins. Such reports are politically fraught, but they have coincided with a more visible Chardonian military presence on the frontier.
+%%
 
 ## Settlements
 
@@ -35,15 +55,33 @@ Baz'aku villages cluster around a central gathering hall and a green or clearing
 
 Settlements nearer the rivers keep docks for boats and rafts, including large dugout canoes hewn from single trees. Baz'aku villages commonly keep pigs and chickens, and their food is centered on beer and pork.
 
+%% Previous text:
+Baz'aku villages cluster around a central gathering hall and a green or clearing, often with a well. A shrine or altar to the tanshi—typically a great tree, standing stone, or other natural landmark—serves as a focal point for rites and sacrifices.
+
+Settlements nearer the rivers keep docks for boats and rafts, including large dugout canoes hewn from single trees. Baz'aku villages commonly keep pigs and chickens, and their food is centered on beer and pork.
+%%
+
 ## Society and leadership
 
 Each village chooses a local chief, with chiefs gathering in council to resolve disputes and, when necessary, agree on matters of war. Surplus is shared between settlements, and formal taxes or tribute are not generally part of Baz'aku governance.
 
 Alongside civil leadership, the godcallers who interpret the will of the tanshi hold significant influence, with informal hierarchies of respect based on perceived closeness to the spirits.
 
+%% Previous text:
+Each village chooses a local chief, with chiefs gathering in council to resolve disputes and, when necessary, agree on matters of war. Surplus is shared between settlements, and formal taxes or tribute are not generally part of Baz'aku governance.
+
+Alongside civil leadership, the godcallers who interpret the will of the tanshi hold significant influence, with informal hierarchies of respect based on perceived closeness to the spirits.
+%%
+
 ## Recent history
 
+%% Speculative extrapolation generated by AI at user request, based on [[Session 52 (DuFr)]]. %%
+
 In 1748 DR, [[Mezzar|Grimbaskal]] was slain in the depths of the [[Elderwood]]. His death weakened the forces that had been spreading corruption through the forest, and news of his deception spread by messenger to the other Deno'qai tribes. Among the Baz'aku, the end of Grimbaskal's influence has sharpened debate over raiding and war, and strengthened those who argue for a return to trade and diplomacy along the [[Chasa River Valley]].
+
+%% Previous text:
+In 1748 DR, [[Mezzar|Grimbaskal]] was slain in the depths of the [[Elderwood]]. His death weakened the forces that had been spreading corruption through the forest, and news of his deception spread by messenger to the other Deno'qai tribes. Among the Baz'aku, the end of Grimbaskal's influence has sharpened debate over raiding and war, and strengthened those who argue for a return to trade and diplomacy along the [[Chasa River Valley]].
+%%
 
 ## Sources
 
@@ -52,13 +90,13 @@ In 1748 DR, [[Mezzar|Grimbaskal]] was slain in the depths of the [[Elderwood]]. 
 - [[Deno'qai]]
 - [[Session 52 (DuFr)]]
 
-%%need to copy notes from OneNote %%
+%% need to copy notes from OneNote %%
 
 %%^Campaign:none%%
 
-## Overview
+## DM notes
 
-%% AI note: The following update extrapolates likely Baz'aku political shifts after Grimbaskal's death, based on [[Session 52 (DuFr)]] and the existing DM notes in this file. %%
+### Overview
  
 Historically a tribe of merchants and middlemen, acting as intermediaries between the more isolated forest tribes and the Chardonians. Traded timber, wood products, rare herbs collected from the forests, meat/leather/hide/fur from wild animals. The Deno'qai don't really grow cash crops, most of the animals they raise and the plants they grow are for local consumption - cash crops are harvested from the wilds of the Elderwood.
  
@@ -66,7 +104,7 @@ In the past 5ish years, the Baz'aku have shifted to getting much more of their w
  
 Has led to Chardonian legions striking back, and there is now a major military presence in Arendum.
  
-## Villages / Territory
+### Villages / Territory
  
 The Baz'aku are not a particularly large tribe -- they occupy about 10 larger villages, each between 50-200 people (see map for territory and locations), and numerous smaller villages, just a handful of families.
  
@@ -82,7 +120,7 @@ Separate from the "civil" tribal leadership, each village has a Godcaller who sp
  
 Draw inspiration / vibes from the Netflix Barbarians series.
  
-## Interactions with Grimbaskal
+### Interactions with Grimbaskal
  
 This is the tribe that, when Gnaeus was here, had historically traded with Arendum, been merchants and middlemen between the Deno'qai people and the rest of the world. In the past 20 years, relations with Chardon have significantly soured, driven in part by Chardonian encroachment on Baz'aku territory, primarily for better old growth forest for timber, and in part by Baz'aku beligerence encouraged by Grimbaskal (who goes by Arenga, the spirit of vengeance, among the Baz'aku).
  
@@ -94,7 +132,7 @@ War faction under full sway of Grimbaskal, eager to escalate against Chardon, po
  
 Peace faction, the few that remain, are wary of Grimbaskal. They remind the people that not long ago, the Chardonians and the Deno'qai and the Elves were close allies, and without Chardon's might the Deno'qai may have been completely wiped from the face of the Earth. Yes, be wary, watch for signs of imperial aggression, and defend our homes if need be. But if Chardon wants to trade instead of fight, we should embrace that. This faction also believes that the Te'kula are hiding for a good reason, although they are not sure what. Don't agree with the increasing demonization of the Te'kula.
  
-## Interactions with the Party
+### Interactions with the Party
  
 In most cases, party should probably be led to the main village / "capitol" when they first meet the Baz'aku. Certainly if they aid the war party, they will be taken to "main" village. Can just narrate this, etc. Hidden paths through the forests, little prayers and burnt leaves as offerings. People dressed in hides, red/blonde hair, sometimes brown, generally worn long. Shields/spears with lots of color on the shields, but covered with dull leather when not in battle. Maybe some with face paint? Mix of skin colors, ranging from pale to olive/brown, but most tended towards a ruddy, light tan complexation.
  
