@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/stub]
+tags: [organization, status/stub, status/check/ai]
 ancestry: Urskan
 displayDefaults: {defArt: ""}
 typeOf: magical bloodline
@@ -14,4 +14,12 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 
-A mysterious group, one of the eight rodnye that rule Ursk. 
+The Rodnya Zoryana is one of the eight [[Rodnya|rodnye]] that rule [[Ursk]]. It is most closely associated with divination magic: an “uncanny ability to see what is, was, and might be,” and a reputation for finding truths that others would prefer remain hidden.
+
+%% AI note: Sources disagree on Zoryana’s seat of power (Rodnya.md describes them as “based in the center of the country”, while [[Session 94 (DuFr)]] places them “to the southwest”). %%
+
+## Sources
+
+- [[Rodnya]]
+- [[Ursk]]
+- [[Session 94 (DuFr)]]

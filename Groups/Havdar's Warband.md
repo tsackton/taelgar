@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/stub, status/cleanup/metadata]
+tags: [organization, status/stub, status/cleanup/metadata, status/check/ai]
 displayDefaults: {defArt: ""}
 campaignInfo:
 name:
@@ -20,6 +20,19 @@ dm_owner: tim
 > A warband army  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+Havdar’s Warband is the personal warband of [[Havdar]], a Dunmari war leader and the chief general of Nayan [[Sura]]. In recent years the band has grown from a close‑knit group of riders into an elite force, active across [[Eastern Dunmar]] and in Sura’s service.
+
+## Notable members
+
+- [[Aram]], a holy warrior of [[Aagir]] and the warband’s unofficial spiritual leader
+- [[Camana]] (deceased), a warrior and scout associated with Havdar’s riders
+
+## Sources
+
+- [[Aram]]
+- [[Camana]]
+- [[Havdar]]
 
 
 %% fill in whereabouts %%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, organization]
+tags: [status/stub, organization, status/check/ai]
 typeOf: religious order
 dm_notes: important
 dm_owner: mike
@@ -9,6 +9,15 @@ dm_owner: mike
 >[!info]+ Information  
 > A religious order  
 > `$=dv.view("_scripts/view/get_Affiliations")`
+
+The Order of the Charitable Wanderer is a [[Mos Numena]] religious order dedicated to [[The Wanderer]]. Its oathsworn are known for walking the roads of Taelgar, practicing the Wanderer’s virtues of charity and hospitality, and offering protection to travelers in dangerous borderlands.
+
+%% AI note: The note below (and other campaign materials) contains additional detail that should be reviewed and promoted into this page only if it reflects settled canon. %%
+
+## Sources
+
+- [[The Wanderer]]
+- [[Cleenseau - Session 15]]
 
 %% numerous notes in my DM folder and various campaign emails; plus Robin (Dan's character) has some backstory here %%
 

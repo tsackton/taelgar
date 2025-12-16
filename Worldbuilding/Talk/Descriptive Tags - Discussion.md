@@ -48,10 +48,32 @@ Transition: rename item to object, if desired, but no retagging is needed, excep
 
 ### Groups
 
-***needs thought***
+Right now, we have:
 
 * **organization**: a specific group of people or other type of organization, including things like pantheons or families or clans.
 * **culture**: a page describing a specific culture
+
+Fundamentally, though, we really are capturing three or maybe four different things. 
+
+(1) Organizations in the traditional sense: membership groups that you join and that function like clubs or guilds or cults or whatever. There are things like [[Dyer's Guild]], [[Society of the Open Scroll]], [[Sonkar Mystai]], etc. These also include things like dwarven thuhrs and uskan rodyna that are magical but still basically membership organizations. 
+
+(2) Families/lineages. These are things like halfling families, dwarven clans, royal dynasties, or just prominent families like the [[Auratan Family]] or the [[de Brunes]] or the [[Garay Family]]. 
+
+(3) Cultures. We have some pages for kind of cultural groups that don't have a clear realm page as a stand-in. Zimka, ~Northerner~, Vargaldi all fit here; some realm pages (e.g. Dunmar) kind of mix culture, politics, history, and geography into a single page that doubles as the cultural group. 
+
+(4) Realms. Some pages are really more "realm" pages, like [[Shattered Ice Clan]] or maybe [[People of the Rainbow]]. 
+
+I think that (1) and (2) are very clear; (3) and (4) blur together a lot and are not consistently kept in Groups. 
+
+Part of the challenge here is, IMO, that the game and world building needs, and the reality of the patchwork invention that defines a hobby project of a fantasy world, means that the kind of information is uneven. In some cases we have a culture with no politics; in some cases just a realm with no separate culture page; sometimes both are mixed into the same note. 
+
+Nonetheless, there is a possible logic to reorganizing groups into three different components:
+
+- organizations, in the traditional sense (keep organization for this)
+- lineage, to represent a familial group
+- culture or ancestry, to represent cultural groups
+
+Then, separate realms from cultures and try to keep the "main" page for a culture separate from the political organization of the realm, though obviously they'd link to each other. 
 
 ### Events
 

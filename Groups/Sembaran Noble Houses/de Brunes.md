@@ -1,8 +1,29 @@
 ---
-tags: [organization, status/stub, status/check/mike, status/check/tim]
+tags: [organization, status/stub, status/check/mike, status/check/tim, status/check/ai]
 dm_owner: mike,tim
 dm_notes: none
 ---
+
+# The de Brunes
+>[!info]+ Information  
+> A noble house  
+> `$=dv.view("_scripts/view/get_Affiliations")`
+
+The de Brunes are a wealthy mercantile family with long roots in the [[Enst]] river valley. Although [[Eskbridge]] is their primary center of power, the family maintains outposts and connections along the Enst, including a longstanding presence in the [[Cleenseau Region]].
+
+In recent years, de Brune business in the Cleenseau region has been shaped by [[Catherine de Brune]]’s investments and trade ties.
+
+## Notable members
+
+- [[Catherine de Brune]]
+- [[Sabine de Brune]]
+- [[Fazoth de Brune]]
+
+## Sources
+
+- [[Catherine de Brune]]
+- [[Fazoth de Brune]]
+- [[Sabine de Brune]]
 
 %% putting status/check/mike, status/check/tim as this needs a bit of joint work to write a centralized note. i have nothing in my dm notes except what is here%%
 
