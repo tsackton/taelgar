@@ -2,13 +2,13 @@
 headerVersion: 2023.11.25
 tags: [organization]
 displayDefaults: {defArt: the}
-name: Hardstones
+name: Hardstone Clan
 typeOf: clan
 ancestry: dwarven
 dm_notes: none
 dm_owner: none
 ---
-# The Hardstones
+# The Hardstone Clan
 >[!info]+ Information  
 > A [[Dwarves|dwarven]] clan  
 > `$=dv.view("_scripts/view/get_Affiliations")`
