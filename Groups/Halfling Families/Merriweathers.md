@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/cleanup/text]
+tags: [organization, status/check/mike]
 displayDefaults: {defArt: "the" }
 ancestry: halfling
 typeOf: family
@@ -12,7 +12,11 @@ dm_owner: mike
 > A [[Halflings|halfling]] family  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% The merriweather family is an important halfling trading family in Aveil, especially plying the route along the [[Auberonne]] between Asalin and Rinburg. 
+%% check mike for tags, and if there is more to say %%
+
+The Merriweathers are a notable halfling family in the [[Barony of Aveil]], especially plying the route along the [[Auberonne]] betwen [[Aslain]] and [[Rinburg]]. 
+
+%% 
 
 The family was involved in the exile of the old baron of aveil. (Reginald Rusebek) in that they found out about his embezzlement and he killed them to try to cover it up. It was the murder of several important halflings that led to his execution and his family scattering mostly volunteerly.
 
@@ -20,7 +24,6 @@ It is possible but not decided that this was all faked by the lich. If faked, th
 
 From game intro:
 - The Merriweather's, a halfling family in the area, who are apparently the family the old lord killed (Reginald Rusebek) to cover up his embezzlement. Fin (mentioned above) is one of them
-
 
 %%
 
