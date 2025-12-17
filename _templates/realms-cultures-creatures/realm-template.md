@@ -3,6 +3,9 @@ headerVersion: 2023.11.25
 tags: [place]
 name: name
 aliases: [any common]
+whereabouts: 
+created: 1173
+typeOf: realm
 dm_owner: joint
 dm_notes: none
 ---
