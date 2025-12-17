@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [culture]
+tags: [background]
 name: culture name
 aliases: [culture singluar, culture plural]
 dm_owner: joint
