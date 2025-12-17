@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization]
 displayDefaults: {defArt: the}
 name: Brightmoons
@@ -7,7 +8,6 @@ ancestry: halfling
 dm_notes: none
 dm_owner: none
 ---
-
 # The Brightmoons
 >[!info]+ Information  
 > A [[Halflings|halfling]] family  
