@@ -21,16 +21,27 @@ class NameManager {
         else if (metadata.file?.tags && Array.isArray(metadata.file.tags)) tags = metadata.file.tags;
         else if (metadata.file?.etags && Array.isArray(metadata.file.etags)) tags = metadata.file.etags.map(t => t.replace(/^#/, ''));
 
-        if (tags.some(f => f.startsWith("person"))) return "person"
-        else if (metadata.location || tags.some(f => f.startsWith("place"))) return "place"
-        else if (tags.some(f => f.startsWith("organization"))) return "organization"
-        else if (tags.some(f => f.startsWith("culture"))) return "culture"
-        else if (tags.some(f => f.startsWith("item"))) return "item"
-        else if (tags.some(f => f.startsWith("deity"))) return "deity"
-        else if (tags.some(f => f.startsWith("religion"))) return "religion"
-        else if (tags.some(f => f.startsWith("species"))) return "species"
-        else if (tags.some(f => f.startsWith("event")) || metadata.DR || metadata.DR_end || metadata.CY || metadata.CY_end) return "event"
+        // define fixed types
+        const typePrefixes = [
+            "person",
+            "place",
+            "organization",
+            "culture",
+            "thing",
+            "power",
+            "religion",
+            "creature",
+            "event",
+        ];
 
+        for (const tag of tags) {
+            if (typeof tag !== "string") continue;
+            for (const type of typePrefixes) {
+                if (tag.startsWith(type)) {
+                    return type;
+                }
+            }
+        }
         return "unknown"
     }
 
