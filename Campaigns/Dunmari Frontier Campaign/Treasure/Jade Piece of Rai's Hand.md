@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ""}
-tags: [item/equipment]
+tags: [object]
 name: Jade Piece of Rai's Hand
 rarity: unique
 typeOf: gemstone

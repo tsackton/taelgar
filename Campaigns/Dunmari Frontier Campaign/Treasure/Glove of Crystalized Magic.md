@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 ddbLink: https://www.dndbeyond.com/magic-items/5865922-glove-of-crystallized-magic
 pcOwner: Seeker
 displayDefaults: {wOrigin: "", wOriginU: "", defArt: ""}

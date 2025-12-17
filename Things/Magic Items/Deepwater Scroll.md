@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 name: Deepwater Scroll
 typeOf: scroll 
 campaignInfo:

@@ -1,17 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 name: Ring of Wounding
 displayDefaults: {defArt: "" }
-subTypeOf: magical
-subTypeOf: necromantic
+subTypeOf: magical necromantic
 typeOf: ring
 image: ring-of-wounding.png
 pcOwner: Heroes of Cleenseau
 ---
 # Ring of Wounding
 >[!info]+ Information  
-> (necromantic ring)  
+> (magical necromantic ring)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 ![[ring-of-wounding.png|right|420]]A band of solid blackness that is ring-shaped, but appears to absorb all light and is not clearly made of any material at all. Deeply necromantic, but not extremely powerful. Something about it makes you nervous about trying to use it. Taken from a skeleton that attacked the [[Heroes of Cleenseau]] with necromantic magic beneath [[Essford Manor]].

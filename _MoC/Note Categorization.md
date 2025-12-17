@@ -7,13 +7,13 @@ Notes (pages) are categorized based on the combination of a descriptive tag, and
 
 There are seven major categories of notes that are defined by descriptive tags and that are used by header code to generate specific headers. 
 
-(1) Living Beings. This includes individual people, which are defined by the `#person` tag, powers (sometimes called divinities; see: [[Metaphysics of Creatures]] and [[Divinities and Powers - Discussion]]) which are defined with the `#power` tag, and notes about species or other types of creatures, defined by the `#creature` tag. (**Note: as of 12/16/12025, powers and creatures still use deity and species**).
+(1) Living Beings. This includes individual people, which are defined by the `#person` tag, powers (sometimes called divinities; see: [[Metaphysics of Creatures]] and [[Divinities and Powers - Discussion]]) which are defined with the `#power` tag, and notes about species or other types of creatures, defined by the `#creature` tag. 
 
 (2) Places. These are, well, places, and use the `#place` tag. Places must have a typeOf, and have a controlled typeOf vocabulary, see below. 
 
 (3) Events. These are specific events that have a start and end date (so this excludes things like timelines or holidays which recur each year). These use the `#event` tag. 
 
-(4) Things. These are pages about specific things (Vindristjarna's Phasing Stone), general classes of things (Phasing Stones), materials (chalyte), books, vehicles, and generally any inanimate object that is not a place (structures, roads, walls all belong in places). There is some arbitrariness here, but generally if it moves, it's a Thing, if it doesn't move, it's a Place. Uses the `#thing` tag (**Note: as of 12/16/2025, things still use the older item tag**). 
+(4) Things. These are pages about specific things (Vindristjarna's Phasing Stone), general classes of things (Phasing Stones), materials (chalyte), books, vehicles, and generally any inanimate object that is not a place (structures, roads, walls all belong in places). There is some arbitrariness here, but generally if it moves, it's a Thing, if it doesn't move, it's a Place. Uses the `#object` tag 
 
 (5) Groups. These are pages about groups of people. This can include lineages (such as dwarven clans, noble houses, or other family groups you are born into), cultures (ancestries and any other kind of ethnic or linguistic group), and organizations (anything you join, including magical groups such as thuhr as well as more typical groups like guilds and cults). There is some fuzziness here, but typically a realm that is defined by borders and physical control over space is a place, not a group, even it is fairly monolithic (though note that many ancestries have either a culture page or a realm page, but not both). Traditionally, the main page for a religion has been considered background, not groups, although religious orders are considered groups. Currently this is defined by the `#organization` and `#culture` tags, but this might change. 
 
@@ -29,18 +29,20 @@ Every page should have a descriptive tag, excluding pages in meta directories (e
 The following descriptive tags are considered canonical. Note that while item pages often have subtags (e.g. `item/vehicle`), these are not consistently used and should be considered obsolete/depreciated, unless otherwise noted. 
 
 * **person**: a specific individual
-* **deity**: a specific page about a god or other deity
-* **species**: a page about a specific type of creature. Can be used for broad types (humans) as well as more specific types (sea hags)
+* **power**: a specific page about a power or divinity
+* **creature**: a page about a specific type of creature. Can be used for broad types (humans) as well as more specific types (sea hags)
 * **place**: a specific geographical place
 * **event**: a page about a specific event
-* **item**: a specific item, or a type of item, or a material. 
+* **object**: a specific item, or a type of item, or a material. 
+---
 * **organization**: a specific group of people or other type of organization, including things like pantheons or families or clans.
 * **culture**: a page describing a specific culture
+---
 * **session-note**: a page about a specific session
 * **source**: a page containing the actual text or a paraphrase of actual in-world information, typically intended to be given to players as is. 
+---
 * **meta**: a page about pages, for example this page. Does not contain world information, but may contain information about world information. Can also be used for map of content-style pages that are outside the \_MoC folder, for example indexes of NPCs or indexes of events.
 * **background**: a conceptual page that describes world background. This is still canonical information (or at least, potentially canonical, depending on the status tags) but it doesn't refer to a specific living being, place, group, thing, or event (i.e. Land Owning in Sembara or Climate Background). A good catch-all for otherwise unclear pages. Includes holidays, which should have a typeOf: holiday and (usually) a religion tag. 
-
 
 There are three other tags that can be added to clarify the page but one of these items on its own is not sufficient to remove the page from the missing tags list:
 * **pc**: a page describing a player character. Use a subtype for the campaign, i.e. pc/greatwar or pc/cleenseau
@@ -51,7 +53,7 @@ Pages that do not have any of these tags are listed here [[Missing Tags]].
 
 See: [[Descriptive Tags - Discussion]] for discussion and proposals around tags. 
 
-Descriptive tags are used to determine the page type, which is important for header generation. The page types that have meaningful header automation are `person`, `place`, `organization`, `event`, and `item`. See [[Display Control]] for more. 
+Descriptive tags are used to determine the page type, which is important for header generation. The page types that have meaningful header automation are `person`, `place`, `organization`, `event`, and `object`. See [[Display Control]] for more. 
 
 ## TypeOf
 ***Last update: 12/09/2025***

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 aliases: [Stoneworker, The Stoneworker]
 gender: female
-tags: [deity, religion/dwarven]
+tags: [power, religion/dwarven]
 pronunciation: tar-BAH-kah
 dm_owner: none
 dm_notes: none

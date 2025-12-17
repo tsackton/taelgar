@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena]
+tags: [power, religion/mosnumena]
 displayDefaults: {defArt: ''}
 gender: female
 dm_owner: joint

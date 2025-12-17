@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [species, status/wip]
+tags: [creature, status/wip]
 name: Dwarves
 aliases: [dwarf, Dwarf, Dwarves, dwarves, dwarven]
 dm_owner: joint

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 name: On the Lost People of the Forests
 typeOf: book
 ancestry: Chardonian

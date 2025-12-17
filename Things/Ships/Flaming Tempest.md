@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 displayDefaults: {boxInfo: "<ancestry> <subTypeOf>", ruledBy: "<affiliationtitle:t>: <name> <(of )primary>"}
 typeOf: vehicle
 subTypeOf: pirate ship

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 aliases: [Ruler, The Ruler]
 gender: male
-tags: [deity, religion/dwarven]
+tags: [power, religion/dwarven]
 pronunciation: UZ-dahn
 dm_owner: none
 dm_notes: none

@@ -1,5 +1,5 @@
 ---
-tags: [status/stub, species]
+tags: [status/stub, creature]
 excludePublish: ["dufr"]
 aliases: [duskhound, Duskhounds, Duskhound]
 dm_owner: mike

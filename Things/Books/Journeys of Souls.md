@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 typeOf: book
 ancestry: Hkaran
 name: Journey of the Souls

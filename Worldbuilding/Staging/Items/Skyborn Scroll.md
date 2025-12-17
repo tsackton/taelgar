@@ -1,5 +1,5 @@
 ---
-tags: [item, status/check/ai]
+tags: [object, status/check/ai]
 name: Skyborn Scroll
 typeOf: scroll (Airion)
 whereabouts: Airion’s Tower (recovered)

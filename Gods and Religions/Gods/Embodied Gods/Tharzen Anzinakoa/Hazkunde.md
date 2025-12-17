@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [religion/lizardfolk, deity]
+tags: [religion/lizardfolk, power]
 dm_owner: none
 dm_notes: none
 pronunciation: has-KOON-dee

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 destroyed: 1749-07-05
 name: Dauðleiptr
 typeOf: death ray

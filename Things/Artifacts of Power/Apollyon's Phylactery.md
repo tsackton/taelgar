@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 displayDefaults: {defArt: "", endStatus: "unmade by the [[Dunmar Fellowship]] on"}
 destroyed: 1749-05-24
 typeOf: dagger

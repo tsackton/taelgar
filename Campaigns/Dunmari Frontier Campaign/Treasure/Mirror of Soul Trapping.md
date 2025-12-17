@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 typeOf: mirror
 subTypeOf: magical
-tags: [item/equipment]
+tags: [object]
 whereabouts:
 - {type: home, location: unknown hobgoblin wizard, linkText: by an }
 - {type: home, location: dufr}

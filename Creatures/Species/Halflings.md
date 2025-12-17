@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [species, status/check/mike]
+tags: [creature, status/check/mike]
 name: Halflings
 aliases: [halfling, halflings, Halfling]
 dm_owner: joint

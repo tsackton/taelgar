@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 name: Warhammer of Vigilance
 displayDefaults: {defArt: ""}
 typeOf: weapon

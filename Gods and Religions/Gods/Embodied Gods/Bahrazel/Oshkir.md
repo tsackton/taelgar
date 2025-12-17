@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 aliases: [Farmer, The Farmer]
 pronunciation: OSH-keer
-tags: [deity, religion/dwarven]
+tags: [power, religion/dwarven]
 gender: male
 dm_owner: none
 dm_notes: none

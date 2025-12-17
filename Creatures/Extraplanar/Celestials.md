@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [species]
+tags: [creature]
 aliases: [celestial, Celestial]
 dm_notes: important
 dm_owner: tim

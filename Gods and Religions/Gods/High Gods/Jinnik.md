@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity]
+tags: [power]
 dm_notes: none
 dm_owner: none
 ---

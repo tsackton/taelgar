@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/kestavo, status/check/mike]
+tags: [power, religion/kestavo, status/check/mike]
 gender: female
 dm_owner: none
 dm_notes: none

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/halflings]
+tags: [power, religion/halflings]
 gender: enby
 pronunciation: gem-GHA-ree
 dm_owner: none

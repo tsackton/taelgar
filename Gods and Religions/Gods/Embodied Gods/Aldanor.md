@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/elven]
+tags: [power, religion/elven]
 dm_owner: joint
 dm_notes: none
 ---

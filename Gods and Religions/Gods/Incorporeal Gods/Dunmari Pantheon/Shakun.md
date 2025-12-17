@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/fivesiblings, status/cleanup/image]
+tags: [power, religion/fivesiblings, status/cleanup/image]
 gender: female
 dm_owner: tim
 dm_notes: important
