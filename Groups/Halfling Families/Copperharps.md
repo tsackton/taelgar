@@ -13,6 +13,8 @@ dm_owner: none
 > A [[Halflings|halfling]] family
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
+%% nothing invented %%
+
 %%^Campaign:None%%
 ### Members
 

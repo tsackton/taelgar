@@ -5,7 +5,7 @@ displayDefaults: {defArt: the}
 name: Sunmeadows
 typeOf: family
 ancestry: halfling
-dm_notes: color
+dm_notes: none
 dm_owner: none
 ---
 # The Sunmeadows

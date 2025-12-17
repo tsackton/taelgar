@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/stub, status/check/ai]
+tags: [organization]
 displayDefaults: {defArt: the}
 name: Wildcloaks
 typeOf: family
@@ -13,11 +13,7 @@ dm_notes: none
 > A [[Halflings|halfling]] family  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The Wildcloaks are a halfling family known through scattered members in the great cities of the west. One notable Wildcloak is [[Dee Wildcloak]], an adventurer active in and around [[Chardon]] in the years leading up to DR 1749.
-
-## Sources
-
-- [[Dee Wildcloak]]
+%% nothing invented %%
 
 %%^Campaign:None%%
 ### Members

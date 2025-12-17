@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags: [organization]
 displayDefaults: {defArt: the}
-campaignInfo: []
 name: Strongbones
 typeOf: family
 ancestry: halfling

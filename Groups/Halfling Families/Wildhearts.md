@@ -13,7 +13,7 @@ dm_owner: none
 > A [[Halflings|halfling]] family  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The Wildhearts are a halfling family based in the eastern Green Sea. Two brothers, [[Corrin Wildheart]] and [[Lerry Wildheart]], are crew on the [[Wave Dancer]]. 
+The Wildhearts are a halfling family based in the [[Eastern Green Sea]]. Two brothers, [[Corrin Wildheart]] and [[Lerry Wildheart]], are crew on the [[Wave Dancer]]. 
 
 %%^Campaign:None%%
 ### Members
