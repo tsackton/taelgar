@@ -1,5 +1,5 @@
 ---
-tags: [deity]
+tags: [power]
 dm_owner: none
 dm_notes: none
 ---

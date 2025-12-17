@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 displayDefaults: {wOrigin: "", wOriginU: "", defArt: ""}
 name: Agata's Raven Whistle
 typeOf: instrument

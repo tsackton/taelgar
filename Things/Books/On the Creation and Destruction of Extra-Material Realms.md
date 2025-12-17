@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 displayDefaults: { defArt: "" }
 typeOf: book
 ancestry: Drankorian

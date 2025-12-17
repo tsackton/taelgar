@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 displayDefaults:
   endStatus: "Unmade by the [[Addermarch Mercenaries]] with [[Trueflame]] on"
 typeOf: weapon

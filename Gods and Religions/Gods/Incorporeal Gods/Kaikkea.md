@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/skaer]
+tags: [power, religion/skaer]
 gender: female
 pronunciation: KAI-key-ah
 dm_notes: color

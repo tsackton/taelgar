@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 typeOf: mace
 subTypeOf: magical
 ddbLink: https://www.dndbeyond.com/magic-items/4672-mace-of-terror

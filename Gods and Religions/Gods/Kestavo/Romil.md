@@ -1,5 +1,5 @@
 ---
-tags: [deity, religion/kestavo, status/check/mike]
+tags: [power, religion/kestavo, status/check/mike]
 dm_owner: none
 dm_notes: none
 ---

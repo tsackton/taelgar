@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 typeOf: weapon
 ancestry: Dunmari
 subTypeOf: magical

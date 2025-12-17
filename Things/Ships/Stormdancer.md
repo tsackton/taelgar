@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {wOrigin: "Home area: <origin>", prep: "on", wHome: ""}
-tags: [item, status/cleanup/whereabouts]
+tags: [object, status/cleanup/whereabouts]
 typeOf: vehicle
 ancestry: halfling
 typeOfAlias: boat

@@ -1,5 +1,5 @@
 ---
-tags: [species]
+tags: [creature]
 dm_notes: important
 dm_owner: tim
 ---

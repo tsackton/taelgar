@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/dwarven]
+tags: [power, religion/dwarven]
 aliases: [Warrior, The Warrior]
 gender: male
 pronunciation: AH-zahr

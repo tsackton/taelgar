@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/lizardfolk]
+tags: [power, religion/lizardfolk]
 dm_owner: none
 dm_notes: none
 pronunciation: tar-SEN an-see-NA-ko-ah

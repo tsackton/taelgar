@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena, status/check/mike]
+tags: [power, religion/mosnumena, status/check/mike]
 displayDefaults: {defArt: ''}
 gender: female
 dm_owner: joint

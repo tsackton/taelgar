@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 aliases: [Traveler, The Traveler]
-tags: [deity, religion/dwarven]
+tags: [power, religion/dwarven]
 gender: female
 pronunciation: MAH-gahn-nah
 dm_owner: none

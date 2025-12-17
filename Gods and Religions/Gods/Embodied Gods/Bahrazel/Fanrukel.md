@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 aliases: [Priest, The Priest]
-tags: [deity, religion/dwarven]
+tags: [power, religion/dwarven]
 gender: female
 name: Fanrukel
 pronunciation: FAN-roo-kel

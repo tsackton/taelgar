@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena, status/cleanup/image, status/check/mike]
+tags: [power, religion/mosnumena, status/cleanup/image, status/check/mike]
 displayDefaults: {defArt: ''}
 gender: male
 dm_owner: joint

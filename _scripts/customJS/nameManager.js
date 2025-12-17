@@ -25,13 +25,9 @@ class NameManager {
         const typePrefixes = [
             "person",
             "place",
-            "organization",
-            "culture",
-            "thing",
-            "power",
-            "religion",
-            "creature",
+            "object",
             "event",
+            "organization"
         ];
 
         for (const tag of tags) {
@@ -278,7 +274,7 @@ class NameManager {
             case "place":
                 prep = displayData.ltPlace != undefined ? displayData.ltPlace : displayData.linkText
                 break
-            case "item":
+            case "object":
                 prep = displayData.ltItem != undefined ? displayData.ltItem : displayData.linkText
                 break
             default:

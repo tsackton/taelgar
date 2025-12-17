@@ -172,11 +172,11 @@ class WhereaboutsManager {
         }
 
         if (formatStr.contains("I")) {
-            if (pageType != "item") return typeFilterFailed
+            if (pageType != "object") return typeFilterFailed
         }
 
         if (formatStr.contains("i")) {
-            if (pageType == "item") return typeFilterFailed
+            if (pageType == "object") return typeFilterFailed
         }
 
         if (formatStr.contains("O")) {

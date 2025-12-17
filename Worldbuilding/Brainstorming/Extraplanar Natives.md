@@ -1,5 +1,5 @@
 ---
-tags: [species]
+tags: [creature]
 ---
 
 Brainstorming and background notes on extraplanar natives in Taelgar.
