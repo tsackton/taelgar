@@ -3,7 +3,8 @@ headerVersion: 2023.11.25
 tags: [person]
 campaignInfo: []
 name: Khathayi the Flametongue
-species: mysterious creature
+species: unknown
+speciesAlias: mysterious creature
 died: 1
 dm_owner: tim
 dm_notes: important

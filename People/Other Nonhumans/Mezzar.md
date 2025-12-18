@@ -16,11 +16,11 @@ dm_notes: important
 dm_owner: tim
 ---
 # Grimbaskal
->[!info]+ Biographical Info
-> a [[Dragons|green dragon]], he/him
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Killed by the [[Dunmar Fellowship]] on September 15th, 1748 in the [[Elderwood]], [[Ainumarya]], [[Central Highlands Region]] %%^End%%
+>[!info]+ Biographical Info  
+> A [[Dragons|dragon]] ([[Dragons|green dragon]]) (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:DuFr%% Killed by the [[Dunmar Fellowship]] on September 15th, 1748 in the [[Elderwood]], [[Ainumarya]] %%^End%%
 
 %% fix campaign info, whereabouts; many historical notes missing, in DM notes %%
 

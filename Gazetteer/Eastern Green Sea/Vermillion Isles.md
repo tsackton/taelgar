@@ -8,6 +8,7 @@ typeOf: island
 whereabouts: ~Eastern Islands~
 aliases:
   - Chasoka
+  - Islander
 dm_notes: important
 dm_owner: tim
 typeOfAlias: archipelago

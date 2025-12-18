@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
+aliases: [Nardikhun]
 name: Nardith
 typeOf: realm
 whereabouts: Yuvanti Mountains

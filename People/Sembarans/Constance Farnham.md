@@ -5,13 +5,13 @@ whereabouts: Cleenseau
 affiliations: [{org: The River's Blessing, title: Proprietor, type: leader}]
 gender: female
 species: human
-ancestry: Sembara
+ancestry: Sembaran
 dm_notes: none
 dm_owner: none
 ---
 # Constance Farnham
 >[!info]+ Biographical Info  
-> A [[Sembara]] [[Humans|human]] (she/her)  
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

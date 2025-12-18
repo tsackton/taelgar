@@ -1,25 +1,90 @@
 # Note Categorization
-*last update: Dec 16th 2025*
+*last update: Dec 18th 2025*
 
 Notes (pages) are categorized based on the combination of a descriptive tag, and a typeOf string. Both descriptive tags and typeOf strings are controlled vocabulary, and pages that do not have a canonical descriptive tag + typeOf combination will be flagged in queries in Data Cleaning. 
 
-### Major Note Types
+There are 12 primary note categories, which are described below. These are not meant to exhaustively categorize every note in the vault; instead, they guide both Markdown templates / formatting, required/expecting metadata, and automatic header generation.
 
-There are seven major categories of notes that are defined by descriptive tags and that are used by header code to generate specific headers. 
+## Person
+**Tag: `#person`**
 
-(1) Living Beings. This includes individual people, which are defined by the `#person` tag, powers (sometimes called divinities; see: [[Metaphysics of Creatures]] and [[Divinities and Powers - Discussion]]) which are defined with the `#power` tag, and notes about species or other types of creatures, defined by the `#creature` tag. 
+Definition: a specific individual.
 
-(2) Places. These are, well, places, and use the `#place` tag. Places must have a typeOf, and have a controlled typeOf vocabulary, see below. 
+The person tag is used for all named sentient beings, except those who are sufficiently powerful to transcend normal mortality (these are powers, see below). Named pets, familiars, companions, beasts, and similar should be considered persons. 
 
-(3) Events. These are specific events that have a start and end date (so this excludes things like timelines or holidays which recur each year). These use the `#event` tag. 
+The person note expects the following metadata:
 
-(4) Objects. These are pages about specific things (Vindristjarna's Phasing Stone), general classes of things (Phasing Stones), materials (chalyte), books, vehicles, and generally any inanimate object that is not a place (structures, roads, walls all belong in places). There is some arbitrariness here, but generally if it moves, it's a Thing, if it doesn't move, it's a Place. Uses the `#object` tag 
+Classification: species (required), ancestry, subspecies, gender
+Other: pronouns (only use if different from gender), title, ka (for elves), ddbLink (for PCs or NPCs with character sheets)
+Dates: born, died
+Accepts whereabouts: yes
+Accept affiliations: yes
 
-(5) Groups. These are pages about groups of people. This can include lineages (such as dwarven clans, noble houses, or other family groups you are born into), cultures (ancestries and any other kind of ethnic or linguistic group), and organizations (anything you join, including magical groups such as thuhr as well as more typical groups like guilds and cults). There is some fuzziness here, but typically a realm that is defined by borders and physical control over space is a place, not a group, even it is fairly monolithic (though note that many ancestries have either a culture page or a realm page, but not both). Traditionally, the main page for a religion has been considered background, not groups, although religious orders are considered groups. Currently this is defined by the `#organization` and `#culture` tags, but this might change. 
+Type-specific displayDefaults? Yes, defined in metadata.json
+Type-specific header code for website? Yes, computed by outputs.js
 
-(6) Sources. These are primary sources, either session notes (`#session-note`), or text written in a way that is intended to represent a handout or other kind of in-world game information (`#souce`). These currently have no automatic header generation. 
+### Classification Requirements
 
-(7) Conceptual. These are pages that don't belong to any other group. These include world background pages (`#background`), which represent in-world information that is not any of the other defined types above (typically things like holidays, history, and overview pages about concepts such as [[Land Holding in Sembara]]). These also include pages with meta-information (timelines, map of content style information, game mechanics, and things like that). Meta pages (tagged with `#meta`) shouldn't contain in-world text themselves (though they can collate information from other notes). These currently have no automatic header generation. 
+Species and ancestry metadata are loosely controlled vocabulary. While it is not predefined, any species used in a person note is expected to have a corresponding creature page, and any ancestry used is expected to have a corresponding ancestry page (though in some cases, a realm might stand in for an ancestry page).  Subspecies should be reserved for species subtypes that purely cultural (e.g., fire elemental vs water elemental). Generally, if a creature has a partOf relationship to another creature, the subordinate page is a subspecies and the other page is the species. 
+
+## Power
+**Tag: `#power`**
+
+Definition: a sentient being who has accreted so much soulstuff, either through their own powerful essence, or as a gift, as to transcend ordinary mortality. See more: [[Metaphysics of Creatures]], [[Divinities and Powers - Discussion]]. The fundamental trait of powers is that they are singular: while they might fall into some common types, they each have a unique origin story. 
+
+The power tag is used for all kinds of divinities, as well as extraplanar powers. Note that this is not simply a place for named demons, for example. If something has a statblock and can be killed in normal combat, it is not a power, it is a person. 
+
+Classification: typeOf (required), subTypeOf, gender
+Other: pronouns (only use if different from gender), title
+Dates: born, died
+Accepts whereabouts: no
+Accepts affiliations: yes; typically these would be either a religion, a pantheon, or a realm (e.g., an archfey might be the ruler of a fey domain, while The Mother might be a member of the Eight Divines and Mos Numena)
+
+Type-specific displayDefaults? No.
+Type-specific header code for website? No. 
+
+### Classification Requirements
+
+Neither typeOf nor subTypeOf are currently controlled vocabulary. These should be used as makes sense, and following existing notes where logical. At some future date these might become controlled vocabulary. subTypeOf need not duplicate affiliations, so for example The Mother is probably typeOf: incorporeal god, subtypeOf blank, with affiliations with Eight Divines and Mos Numena. It is not obvious subTypeOf has any real use here. 
+
+## Place
+**Tag: `#place`**
+
+Definition: a physical location in the word. 
+
+The place tag is used for anything that has a (mostly) permanent location in the world. This includes geographic regions and natural features, as well as settlements, structures, and other constructed infrastructure. There is some fuzziness here with what is a place vs an ancestry, and what is a place vs an object. In general, if the subject of the note is defined by physical borders in the world, it is a place, even if the note content is largely about culture or politics. If it is stationary, it is a place even if it is constructed; only things that routinely move (ships, etc) should be treated as objects. 
+
+Classification: typeOf (required), subTypeOf, typeOfAlias, subTypeOfAlias, ancestry
+Other: pronouns (only use if different from gender), title
+Dates: created, destroyed
+Accepts whereabouts: yes
+Accepts affiliations: yes
+
+Type-specific displayDefaults? Yes, defined in metadata.json
+Type-specific header code for website? Yes, computed by outputs.js
+
+### Classification Requirements
+
+Places use a controlled vocabulary for typeOf. See: [[#Place TypeOfs|Place Classification]]. 
+
+## Event
+
+## Object
+
+## Group
+
+## Ancestry
+
+## Creature
+
+## Session Note
+
+## Primary Source
+
+## Background
+
+## Meta
+
 
 ## Descriptive Tags
 ***Last update: 12/08/2025***
@@ -28,10 +93,7 @@ Every page should have a descriptive tag, excluding pages in meta directories (e
 
 The following descriptive tags are considered canonical. Note that while item pages often have subtags (e.g. `item/vehicle`), these are not consistently used and should be considered obsolete/depreciated, unless otherwise noted. 
 
-* **person**: a specific individual
-* **power**: a specific page about a power or divinity
 * **creature**: a page about a specific type of creature. Can be used for broad types (humans) as well as more specific types (sea hags)
-* **place**: a specific geographical place
 * **event**: a page about a specific event
 * **object**: a specific item, or a type of item, or a material. 
 ---

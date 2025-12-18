@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [power]
 campaignInfo:
 - {campaign: dufr, person: Seeker, date: 1748-11-10, type: met}
 name: Lightdancer
