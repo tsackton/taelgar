@@ -16,5 +16,5 @@
 - A black pearl and silver twisted flame amulet, reminiscent of one of [[Cha'mutte]]'s symbols. Taken from the undead creature in the fort east of [[Gomat]].  %%SECRET[4]%%
 - [[Floating Disc Coin]] (common minor item), given to [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Frankar]] in [[Session 84 (DuFr)]]
 - [[Aagir's Everlight]] (common minor item). Found in the ruined temple that was part of the fort, and was once used to light the temple space. 
-- [[Horn of Silent Alarm (Dunmari)]] (common minor item), sacrificed as part of the ritual to uncurse Kenzo from the soul chain bound to him during [[Motua]]'s rescue.
+- [[Horn of Silent Alarm (Dunmari)]] (common minor item), sacrificed as part of the ritual to uncurse Kenzo from the soul chain bound to him during [[People/Other Nonhumans/Motua]]'s rescue.
 - Black Iron Staff,  given to the [[Archives]] in [[Tokra]].  A staff of black iron, carved with words in Draconic, but not magical. Words read: "I bind you to the black wind, I bind you to my flame, I bind you in my power until the sun fails and the moon is dead."  Taken from the undead creature in the fort east of Gomat, and given to the [[Tokra]] [[Archives]]. %%SECRET[5]%%

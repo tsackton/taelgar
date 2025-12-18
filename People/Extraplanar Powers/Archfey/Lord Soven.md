@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [power]
 name: Lord Sorven
 species: fey
 speciesAlias: archfey

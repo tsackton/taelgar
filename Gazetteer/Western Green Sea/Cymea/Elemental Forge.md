@@ -23,5 +23,5 @@ At the heart of the complex stood the binding apparatus that held [[Sh’shethis
 %%
 Meta/DM notes and campaign interactions:
 - Explored in [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 86 (DuFr)|DuFr 86]]–[[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 87 (DuFr)|87]] (workrooms, durable artifacts, release of Sh’shethis). See [[Campaigns/Dunmari Frontier Campaign/Hoards/Elemental Forge Hoard|Elemental Forge Hoard]].
-- Related: [[People/Extraplanar Powers/Sh’shethis|Sh’shethis]], [[Cosmology/Planar Concepts/Extraplanar Weak Point|Extraplanar Weak Points]], [[Occulta Ludum|Occulta Ludum]].
+- Related: [[Sh’shethis|Sh’shethis]], [[Cosmology/Planar Concepts/Extraplanar Weak Point|Extraplanar Weak Points]], [[Occulta Ludum|Occulta Ludum]].
 %%

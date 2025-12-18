@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [power]
 species: fey
 subspecies: archfey
 gender: male

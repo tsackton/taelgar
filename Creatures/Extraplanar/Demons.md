@@ -1,5 +1,6 @@
 ---
 tags: [creature]
+aliases: [demon]
 dm_notes: important
 dm_owner: tim
 ---

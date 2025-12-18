@@ -22,7 +22,7 @@ The river approach requires careful navigation: the Freccilia runs swift through
 %%
 Meta/DM notes and campaign interactions:
 - Featured in [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 85 (DuFr)|DuFr 85]]–[[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 86 (DuFr)|86]] (river approach, elementals, Drankorian works); connected to [[People/Dwarves/Faldrak Bronzehammer|Faldrak Bronzehammer]]’s research.
-- Related entries: [[Elemental Forge]], [[Cosmology/Planar Concepts/Extraplanar Weak Point|Extraplanar Weak Points]], [[People/Extraplanar Powers/Sh’shethis|Sh’shethis]].
+- Related entries: [[Elemental Forge]], [[Cosmology/Planar Concepts/Extraplanar Weak Point|Extraplanar Weak Points]], [[Sh’shethis|Sh’shethis]].
 
 
 Scholars of planar phenomena identify the Edge as an [[Cosmology/Planar Concepts/Extraplanar Weak Point|extraplanar weak point]], a location where energies from beyond the Material seep into the world. In Drankorian times, an entity of elemental air—[[Sh’shethis]]—was bound within the Forge, apparently to maintain or exploit that permeability. In recent years, the bindings were broken and the bound power released, and the caves have grown quieter by report, though the place retains its reputation for thin veils and lingering echoes.

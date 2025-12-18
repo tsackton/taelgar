@@ -4,7 +4,7 @@ tags: [place, status/check/errors]
 name: Duchy of Maseau
 typeOf: realm
 whereabouts: Greater Sembara
-aliases: [Maseau]
+aliases: [Maseau] 
 dm_notes: color
 dm_owner: mike
 ---

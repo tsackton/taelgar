@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/check/errors]
+aliases: [Mawaran]
 campaignInfo:
 name: Mawar Confederacy
 typeOf: realm

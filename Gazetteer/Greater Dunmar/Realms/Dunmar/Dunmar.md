@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags:
   - place
   - status/gameupdate/dufr
+aliases: [Dunmari]
 name: Dunmar
 whereabouts: Greater Dunmar
 created: 1173

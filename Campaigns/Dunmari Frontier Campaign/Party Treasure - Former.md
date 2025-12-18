@@ -19,7 +19,7 @@
 - [[Delwath's Elven Breastplate]], given to Umli in [[Session 80 (DuFr)]], who removed and blanked the [[Inkaye]] that had powered it, leaving a mundane breastplate
 - [[Dunmari Heirloom Shield]] (uncommon major item), used to make the [[adamantine]] required for the phasing stone harness on [[Vindristjarna]]
 - A perfect emerald hung on a silver chain (from Grimbaskal's Hoard), used as a focus to power the phasing stone on [[Vindristjarna]] 
-- [[Horn of Silent Alarm (Dunmari)]] (common minor item), sacrificed as part of the ritual to uncurse Kenzo from the soul chain bound to him during [[Motua]]'s rescue.
+- [[Horn of Silent Alarm (Dunmari)]] (common minor item), sacrificed as part of the ritual to uncurse Kenzo from the soul chain bound to him during [[People/Other Nonhumans/Motua]]'s rescue.
 - Amber Web. [Mechanics](https://www.dndbeyond.com/magic-items/3643193-amber-web). A small piece of amber with a spider trapped inside, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in battle with [[Agata]] reborn in the [[Feywild]], in [[Session 67 (DuFr)]]. 
 - Swarm Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3643187-swarm-bottle). A smoky glass bottle from which a buzzing sound can constantly be heard, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in the fight with [[Kadmos]] and [[Casian]] in [[Session 44 (DuFr)]]. 
 - Leech Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3819597-leech-bottle). A bottle filled with preserved leeches, radiating necromancy magic. Probably a creation of [[Agata]]’s. Taken from [[Agata]]’s hut. (used in battle)

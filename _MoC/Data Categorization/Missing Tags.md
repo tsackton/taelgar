@@ -17,7 +17,7 @@ where (
 !contains(tags, "session-note") and
 !contains(tags, "event") and 
 !contains(tags, "source") and 
-!contains(tags, "culture")
+!contains(tags, "ancestry")
 )
 SORT split(file.path,"/",1)[0], length(file.inlinks) DESC
 ```

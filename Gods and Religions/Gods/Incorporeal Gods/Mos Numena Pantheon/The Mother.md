@@ -2,13 +2,17 @@
 headerVersion: 2023.11.25
 tags: [power, religion/mosnumena]
 displayDefaults: {defArt: ''}
+affiliations: 
+- {org: Mos Numena, title: Divinity}
+- {org: Eight Divines}
+typeOf: incorporeal god
 gender: female
 dm_owner: joint
 dm_notes: none
 ---
 # The Mother
->[!info]+ Summary  
-> she/her
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% vibes and notes:
 - presumably seen as a crucial deity, watching over births and food
