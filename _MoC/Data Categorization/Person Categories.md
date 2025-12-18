@@ -1,6 +1,7 @@
 # Species
 
-## Missing Species
+## People with Missing Species
+*Species is blank*
 
 ```dataview
 LIST
@@ -8,8 +9,8 @@ FROM #person AND !#status/stub AND !"_templates"
 WHERE !species
 ```
 
-## Unknown Species
-
+## People with Unknown Species
+*Species is explicitly listed as unknown*
 
 ```dataview
 LIST
@@ -17,73 +18,59 @@ FROM #person AND !#status/stub AND !"_templates"
 WHERE species = "unknown"
 ```
 
-## Species Counts
-
-```dataview
-TABLE WITHOUT ID
-  species AS Species,
-  length(rows) AS "Count"
-FROM #person AND !#status/stub AND !"_templates"
-WHERE species != "unknown"
-GROUP BY species
-```
-
-## Species Pages
+## Species Count
 
 ```dataviewjs
-// 1) Collect all species values from #person notes
-// 2) For each species, check whether a note exists whose filename OR alias matches it
-// 3) Output a table: species name | has note? | link to note
-
 const norm = (x) =>
   (x ?? "")
     .toString()
-    .replace(/^\[\[|\]\]$/g, "") // strip [[...]] if someone stored species that way
+    .replace(/^\[\[|\]\]$/g, "")
     .trim()
     .toLowerCase();
 
 const asArray = (v) => (v == null ? [] : Array.isArray(v) ? v : [v]);
 
-// Build a lookup map: "name or alias" -> page
+// Lookup: "name or alias" -> page
 const lookup = new Map();
 for (const p of dv.pages()) {
   lookup.set(norm(p.file.name), p);
   for (const a of (p.file.aliases ?? [])) lookup.set(norm(a), p);
 }
 
-// Pull unique species from #person notes
-const speciesDisplayByKey = new Map();
+// speciesKey -> { display, peoplePaths:Set }
+const speciesMap = new Map();
 
 for (const person of dv.pages("#person")) {
   for (const raw of asArray(person.species)) {
     if (!raw) continue;
-    if (raw == "unknown") continue;
+    if (raw == "unknown") continue; 
 
-    // If species is already a link (e.g., [[Elf]]), Dataview often gives an object with .path
     const display =
-      (raw?.path ? raw.display ?? raw.path.split("/").pop().replace(/\.md$/, "") : raw.toString());
+      raw?.path
+        ? (raw.display ?? raw.path.split("/").pop().replace(/\.md$/, ""))
+        : raw.toString();
 
     const key = norm(display);
     if (!key) continue;
 
-    // keep first-seen casing as display value
-    if (!speciesDisplayByKey.has(key)) speciesDisplayByKey.set(key, display);
+    if (!speciesMap.has(key)) speciesMap.set(key, { display, peoplePaths: new Set() });
+    speciesMap.get(key).peoplePaths.add(person.file.path);
   }
 }
 
-// Create rows
-const rows = [...speciesDisplayByKey.entries()]
-  .sort((a, b) => a[1].localeCompare(b[1], undefined, { sensitivity: "base" }))
-  .map(([key, display]) => {
+const rows = [...speciesMap.entries()]
+  .sort((a, b) => a[1].display.localeCompare(b[1].display, undefined, { sensitivity: "base" }))
+  .map(([key, info]) => {
     const page = lookup.get(key);
     return [
-      display,
+      info.display,
+      info.peoplePaths.size,
       page ? "✅" : "—",
       page ? page.file.link : ""
     ];
   });
 
-dv.table(["Species", "Has Note?", "Note"], rows);
+dv.table(["Species", "Count", "Has Note?", "Link"], rows);
 
 ```
 
@@ -151,71 +138,57 @@ dv.table(["Species", "Num People", "Notes"], rows);
 
 ## Ancestry Counts
 
-```dataview
-TABLE WITHOUT ID
-  ancestry AS Ancestry,
-  length(rows) AS "Count"
-FROM #person AND !#status/stub AND !"_templates"
-WHERE ancestry != "unknown"
-GROUP BY ancestry
-```
-
-## Ancestry Pages
-
 ```dataviewjs
-// 1) Collect all species values from #person notes
-// 2) For each species, check whether a note exists whose filename OR alias matches it
-// 3) Output a table: species name | has note? | link to note
-
 const norm = (x) =>
   (x ?? "")
     .toString()
-    .replace(/^\[\[|\]\]$/g, "") // strip [[...]] if someone stored species that way
+    .replace(/^\[\[|\]\]$/g, "")
     .trim()
     .toLowerCase();
 
 const asArray = (v) => (v == null ? [] : Array.isArray(v) ? v : [v]);
 
-// Build a lookup map: "name or alias" -> page
+// Lookup: "name or alias" -> page
 const lookup = new Map();
 for (const p of dv.pages()) {
   lookup.set(norm(p.file.name), p);
   for (const a of (p.file.aliases ?? [])) lookup.set(norm(a), p);
 }
 
-// Pull unique species from #person notes
-const speciesDisplayByKey = new Map();
+// speciesKey -> { display, peoplePaths:Set }
+const speciesMap = new Map();
 
 for (const person of dv.pages("#person")) {
   for (const raw of asArray(person.ancestry)) {
     if (!raw) continue;
-    if (raw == "unknown") continue;
+    if (raw == "unknown") continue; 
 
-    // If species is already a link (e.g., [[Elf]]), Dataview often gives an object with .path
     const display =
-      (raw?.path ? raw.display ?? raw.path.split("/").pop().replace(/\.md$/, "") : raw.toString());
+      raw?.path
+        ? (raw.display ?? raw.path.split("/").pop().replace(/\.md$/, ""))
+        : raw.toString();
 
     const key = norm(display);
     if (!key) continue;
 
-    // keep first-seen casing as display value
-    if (!speciesDisplayByKey.has(key)) speciesDisplayByKey.set(key, display);
+    if (!speciesMap.has(key)) speciesMap.set(key, { display, peoplePaths: new Set() });
+    speciesMap.get(key).peoplePaths.add(person.file.path);
   }
 }
 
-// Create rows
-const rows = [...speciesDisplayByKey.entries()]
-  .sort((a, b) => a[1].localeCompare(b[1], undefined, { sensitivity: "base" }))
-  .map(([key, display]) => {
+const rows = [...speciesMap.entries()]
+  .sort((a, b) => a[1].display.localeCompare(b[1].display, undefined, { sensitivity: "base" }))
+  .map(([key, info]) => {
     const page = lookup.get(key);
     return [
-      display,
+      info.display,
+      info.peoplePaths.size,
       page ? "✅" : "—",
       page ? page.file.link : ""
     ];
   });
 
-dv.table(["Ancestry", "Has Note?", "Link"], rows);
+dv.table(["Ancestry", "Count", "Has Note?", "Link"], rows);
 
 ```
 
@@ -275,6 +248,18 @@ const rows = [...missing.values()]
     [...people.values()]
   ]);
 
-dv.table(["Species", "Num People"], rows);
+dv.table(["Ancestry", "Num People"], rows);
 
+```
+
+
+## People with Missing Ancestry
+
+```dataview
+TABLE WITHOUT ID
+  species AS Species,
+  length(rows) AS "Count"
+FROM #person  AND !#status/stub AND !"_templates"
+WHERE !ancestry and species != "unknown"
+GROUP BY species 
 ```

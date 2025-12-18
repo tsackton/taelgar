@@ -5,7 +5,7 @@ campaignInfo:
 name: Soraine
 born: 1650
 species: human
-ancestry: Maseaun
+ancestry: Mazeanne
 gender: male
 player: Matt Rand
 dm_owner: player
@@ -13,7 +13,7 @@ dm_notes: important
 ---
 # Soraine
 >[!info]+ Biographical Info  
-> A [[Duchy of Maseau|Maseaun]] [[Humans|human]] (he/him)  
+> A [[Duchy of Maseau|Maseanne]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
 %%
