@@ -17,7 +17,7 @@ The nature of the [[Incorporeal Gods]], however, has long been a puzzle and matt
 *A bloom upon Creation’s heart unfolding,*  
 *Ever in flower.*
 
-Whether theologians of the most prominent other human religion, the [[Five Siblings]] of the [[Dunmar|Dunmari]], agree, is unknown, as the [[Dunmari Mystery Cults|Dunmari Mystai]] do not share their secret knowledge with outsiders. 
+Whether theologians of the most prominent other human religion, the [[Dunmari Religion]] of the [[Dunmar|Dunmari]], agree, is unknown, as the [[Dunmari Mystery Cults|Dunmari Mystai]] do not share their secret knowledge with outsiders. 
 
 %%^Campaign:none%%
 

@@ -2,13 +2,18 @@
 headerVersion: 2023.11.25
 tags: [power, religion/mosnumena, status/check/mike]
 displayDefaults: {defArt: ''}
+affiliations: 
+- {org: Mos Numena, type: primary}
+- {org: Eight Divines, title: One}
+typeOf: incorporeal god
 gender: female
 dm_owner: joint
 dm_notes: none
 ---
 # The Night Queen
->[!info]+ Summary  
-> she/her
+>[!info]+ Information  
+> An [[Incorporeal Gods|incorporeal god]] (she/her), part of [[Mos Numena]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% vibes and notes:
 - Has some sense of a kind of "counterpart" to the Mother, in the sense that the Night Queen steps from the shadows and gives you mercy when the Mother's healing can no longer keep you alive. 

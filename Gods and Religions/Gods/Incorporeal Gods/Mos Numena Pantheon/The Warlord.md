@@ -2,13 +2,18 @@
 headerVersion: 2023.11.25
 tags: [power, religion/mosnumena, status/cleanup/image]
 displayDefaults: {defArt: ''}
+affiliations: 
+- {org: Mos Numena, type: primary}
+- {org: Eight Divines, title: One}
+typeOf: incorporeal god
 gender: male
 dm_owner: joint
 dm_notes: none
 ---
 # The Warlord
->[!info]+ Summary  
-> he/him
+>[!info]+ Information  
+> An [[Incorporeal Gods|incorporeal god]] (he/him), part of [[Mos Numena]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% vibes and notes
 -  two major Warlord places I have are Cleenseau, which has a battle garrison army smithy vibe, and Veltor, which is also an ancient fortified place, but where the disciple of the warlord had more of a courage in the face of overwhelming odds vibe

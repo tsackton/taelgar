@@ -71,6 +71,10 @@
             "ltItem": "by",
             "ltOrg": "member of"
         },
+        "power": {
+            "defArt": "",
+            "boxInfo": "<typeof:sAU> <(()pronouns())>, <(part of )primary>"
+        },
         "place": {
             "startStatus": "founded",
             "endStatus": "destroyed",
@@ -148,51 +152,6 @@
             "isAlias" : true
         },
         {
-            "from": "fire elemental",
-            "to": "Elementals",
-            "isAlias": true
-        },
-        {
-            "from": "archfey",
-            "to": "fey",
-            "isAlias": true
-        },
-        {
-            "from": "nymph",
-            "to": "fey",
-            "isAlias": true
-        },
-        {
-            "from": "storm giant",
-            "to": "giants",
-            "isAlias": true
-        },
-        {
-            "from": "Ardikhun",
-            "to": "Ardith",
-            "isAlias": true
-        },
-        {
-            "from": "Maseaun",
-            "to": "Duchy of Maseau",
-            "isAlias": true
-        },
-        {
-            "from": "fire giant",
-            "to": "giants",
-            "isAlias": true
-        },
-        {
-            "from": "elder wrym",
-            "to": "Dragons",
-            "isAlias": true
-        },
-        {
-            "from": "green dragon",
-            "to": "Dragons",
-            "isAlias": true
-        },
-        {
             "from": "clee",
             "to": "Heroes of Cleenseau"
         },
@@ -216,51 +175,6 @@
         {
             "from": "GL",
             "to": "Silver Tempests"
-        },
-        {
-            "from": "Dunmari",
-            "to": "Dunmar",
-            "isAlias": true
-        },
-        {
-            "from": "Skaegish",
-            "to": "Skaer",
-            "isAlias": true
-        },
-        {
-            "from": "Sembaran",
-            "to": "Sembara",
-            "isAlias": true
-        },
-        {
-            "from": "Tyrwinghan",
-            "to": "Tyrwingha",
-            "isAlias": true
-        },
-        {
-            "from": "Chardonian",
-            "to": "Chardonian Empire",
-            "isAlias": true
-        },
-        {
-            "from": "Drankorian",
-            "to": "Drankorian Empire",
-            "isAlias": true
-        },
-        {
-            "from": "Tollender",
-            "to": "Tollen",
-            "isAlias": true
-        },
-        {
-            "from": "Isinguer",
-            "to": "Istabor Alliance",
-            "isAlias": true
-        },
-        {
-            "from": "Cymean",
-            "to": "Cymea",
-            "isAlias": true
         }
     ]
 }

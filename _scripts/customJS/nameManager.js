@@ -27,7 +27,8 @@ class NameManager {
             "place",
             "object",
             "event",
-            "organization"
+            "organization",
+            "power"
         ];
 
         for (const tag of tags) {

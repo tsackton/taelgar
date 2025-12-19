@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
 tags: [power, religion/mosnumena, status/cleanup/image]
-displayDefaults: {defArt: ''}
+displayDefaults: {defArt: ""}
+affiliations: 
+- {org: Mos Numena, type: primary}
+- {org: Eight Divines, title: One}
+typeOf: incorporeal god
 gender: male
 dm_owner: joint
 dm_notes: none
 ---
 # The Father
->[!info]+ Summary  
-> he/him
+>[!info]+ Information  
+> An [[Incorporeal Gods|incorporeal god]] (he/him), part of [[Mos Numena]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% vibes and notes:
 - associated with the Radiant Path and the religious resistance to Apollyon's rule in Drankor. Whether this is echoing effects into the present day is unclear / undecided. 
