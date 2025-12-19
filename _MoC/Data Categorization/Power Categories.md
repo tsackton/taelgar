@@ -1,3 +1,5 @@
+# Power Categories
+
 ## Powers with Missing TypeOf
 *TypeOf is blank*
 

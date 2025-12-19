@@ -4,10 +4,14 @@ tags: [power, religion/fivesiblings, status/cleanup/image]
 gender: female
 dm_owner: tim
 dm_notes: important
+typeOf: demigod
+affiliations: 
+- {org: Dunmari Religion, type: primary}
 ---
 # Shakun
->[!info]+ Summary  
-> she/her
+>[!info]+ Information  
+> A demigod (she/her), part of the [[Dunmari Religion]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 A demigod associated with the [[Dunmari Religion|the Five Siblings]] of the Dunmari religion, and one of the [[Incorporeal Gods]] of humanity. 
 

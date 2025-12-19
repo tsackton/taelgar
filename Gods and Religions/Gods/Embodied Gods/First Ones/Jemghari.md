@@ -5,11 +5,15 @@ gender: enby
 pronunciation: gem-GHA-ree
 dm_owner: none
 dm_notes: none
+typeOf: embodied god
+affiliations:
+- {org: First Ones, title: One}
 ---
 # Jemghari
 *(gem-GHA-ree)*
->[!info]+ Summary  
-> they/them
+>[!info]+ Information  
+> An [[Embodied Gods|embodied god]] (they/them)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 Jemghari, the Storyteller/Wanderer, reflects the journey and the halfling concept of stories, which are central to their culture. 
 

@@ -1,10 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [power, status/gameupdate/dufr]
-campaignInfo: []
 name: Cloudspinner
-species: fey
-subspecies: archfey
+typeOf: archfey
 gender: female
 aliases: [Queen of Sunset]
 whereabouts:
@@ -17,8 +15,8 @@ dm_notes: important
 dm_owner: tim
 ---
 # Cloudspinner
->[!info]+ Biographical Info  
-> A [[Fey|fey]] ([[Fey|archfey]]) (she/her)  
+>[!info]+ Information  
+> An archfey (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% fix whereabouts, campaign info; update page with lore about cloak of rainbows and people of the rainbow and conflict with Cha'mutte  %%

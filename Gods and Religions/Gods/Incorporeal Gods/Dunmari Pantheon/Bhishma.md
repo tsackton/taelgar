@@ -6,11 +6,14 @@ name: Bhishma
 gender: female
 dm_notes: important
 dm_owner: tim
+typeOf: demigod
+affiliations: 
+- {org: Dunmari Religion, type: primary}
 ---
 # Bhishma
 *(BHEESH-ma)*
 >[!info]+ Information  
-> An [[Incorporeal Gods|incorporeal god]] (she/her), part of the [[Dunmari Religion]]  
+> A demigod (she/her), part of the [[Dunmari Religion]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 A demigod associated with the [[Dunmari Religion|the Five Siblings]] of the Dunmari religion, and one of the [[Incorporeal Gods]] of humanity. 

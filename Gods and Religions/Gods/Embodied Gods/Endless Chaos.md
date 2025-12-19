@@ -2,6 +2,7 @@
 tags: [power]
 dm_owner: none
 dm_notes: none
+typeOf: embodied god
 ---
 # The Endless Chaos
 

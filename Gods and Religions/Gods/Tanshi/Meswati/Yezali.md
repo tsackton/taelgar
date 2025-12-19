@@ -6,9 +6,15 @@ aliases: [Aaviskar]
 pronunciation: yeh-ZAH-lee
 dm_owner: none
 dm_notes: none
+typeOf: tanshi
+affiliations: 
+- {org: Meswati, type: primary}
 ---
 # Yezali
 *(yeh-ZAH-lee)*
+>[!info]+ Information  
+> A [[Tanshi|tanshi]] , part of the [[Meswati]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The spirit of the hunt, the moon, and the night. Particularly attracted by offerings from a fresh hunt. 
 

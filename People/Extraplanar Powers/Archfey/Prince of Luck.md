@@ -3,9 +3,7 @@ headerVersion: 2023.11.25
 tags: [power]
 campaignInfo:
 name: Prince of Luck
-born:
-species: fey
-subspecies: archfey
+typeOf: archfey
 gender: male
 aliases: [Chanceweaver]
 affiliations: [{org: Fortune's Rest, type: leader, title: Master}]

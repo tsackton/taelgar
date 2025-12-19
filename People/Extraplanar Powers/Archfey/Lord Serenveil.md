@@ -1,15 +1,17 @@
 ---
 headerVersion: 2023.11.25
 tags: [power]
-species: fey
-subspecies: archfey
+typeOf: archfey
 gender: male
 dm_owner: tim
 dm_notes: important
+affiliations:
+  - {org: Twilight's Edge, type: leader, title: Lord}
 ---
 # Lord Serenveil
->[!info]+ Biographical Info  
-> A [[Fey|fey]] ([[Fey|archfey]]) (he/him)
+>[!info]+ Information  
+> An archfey (he/him)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 ![[lord-serenveil.jpg|right|300]]Lord Serenveil, know as the Prince of the Vesperwind and the Guardian of Twilight's Edge, is a tall, towering figure, with long flowing silver hair, fiery eyes, like fading sunset, and dark skin. He usually dresses in robes that shift colors between deep purples, dusky blues, and silvery grays.
 
