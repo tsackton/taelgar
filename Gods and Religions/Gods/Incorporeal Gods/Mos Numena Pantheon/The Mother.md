@@ -3,8 +3,8 @@ headerVersion: 2023.11.25
 tags: [power, religion/mosnumena]
 displayDefaults: {defArt: ''}
 affiliations: 
-- {org: Mos Numena, title: Divinity}
-- {org: Eight Divines}
+- {org: Mos Numena, type: primary}
+- {org: Eight Divines, title: One}
 typeOf: incorporeal god
 gender: female
 dm_owner: joint
@@ -12,6 +12,7 @@ dm_notes: none
 ---
 # The Mother
 >[!info]+ Information  
+> An [[Incorporeal Gods|incorporeal god]] (she/her), part of [[Mos Numena]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% vibes and notes:

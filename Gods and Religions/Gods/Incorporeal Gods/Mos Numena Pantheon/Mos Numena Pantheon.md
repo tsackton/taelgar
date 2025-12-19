@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [background, religion/mosnumena]
+displayDefaults: {defArt: "the"}
+aliases: [Eight Divines]
 name: Eight Divines
 dm_owner: joint
 dm_notes: none

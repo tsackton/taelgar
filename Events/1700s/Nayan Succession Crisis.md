@@ -22,7 +22,7 @@ Though [[Dunmar]] had been formally at peace for over a hundred years, the early
 
 ## The Crisis
 
-After the death of Samraat Nayan Lina, the temple conclave, dominated by western priests with ties to the [[Nayan Dynasty]], proposed Kalyan of Nayahar, a close cousin of Nayan Lin and widely seen as dynastic choice to ensure the rule of [[Dunmar]] remained with the descendants of Na[[Yarad|yan Y]]arad. Many of the eastern temples revolted, claiming that the [[Nayan dynasty]] had ceased to listen to the [[Five Siblings]]. To the surprise of everyone, Kalyan agreed with his critics. He claimed he could not feel the divine will in his actions, and was sure he was not chosen by the [[Five Siblings]] to be Samraat, and so could not in good conscience take this power. 
+After the death of Samraat Nayan Lina, the temple conclave, dominated by western priests with ties to the [[Nayan Dynasty]], proposed Kalyan of Nayahar, a close cousin of Nayan Lin and widely seen as dynastic choice to ensure the rule of [[Dunmar]] remained with the descendants of Na[[Yarad|yan Y]]arad. Many of the eastern temples revolted, claiming that the [[Nayan dynasty]] had ceased to listen to the [[Dunmari Religion]]. To the surprise of everyone, Kalyan agreed with his critics. He claimed he could not feel the divine will in his actions, and was sure he was not chosen by the [[Dunmari Religion]] to be Samraat, and so could not in good conscience take this power. 
 
 After many weeks of prayer and debate, [[Marathu]], an elder from one of the western clans from the high plains between [[Darba]] and [[Tokra]] is asked to lead. Samraat Nayan [[Marathu]] takes over as Samraat in 172 Nayan, at the age of 60, seen as a caretaker to begin the process of building unity across [[Dunmar]]. 
 

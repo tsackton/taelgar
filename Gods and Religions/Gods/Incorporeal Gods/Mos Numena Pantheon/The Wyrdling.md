@@ -2,13 +2,18 @@
 headerVersion: 2023.11.25
 tags: [power, religion/mosnumena, status/cleanup/image, status/check/mike]
 displayDefaults: {defArt: ""}
+affiliations: 
+- {org: Mos Numena, type: primary}
+- {org: Eight Divines, title: One}
+typeOf: incorporeal god
 gender: enby
 dm_owner: joint
 dm_notes: important
 ---
 # The Wyrdling
->[!info]+ Summary  
-> they/them
+>[!info]+ Information  
+> An [[Incorporeal Gods|incorporeal god]] (they/them), part of [[Mos Numena]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% vibes and notes:
 
