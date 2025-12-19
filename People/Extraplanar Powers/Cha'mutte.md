@@ -2,9 +2,7 @@
 headerVersion: 2023.11.25
 tags: [power, status/review]
 name: Cha'mutte
-born:
-species: dragon
-subspecies: elder wyrm
+typeOf: elder wyrm
 gender: male
 died: 1545
 dm_owner: tim

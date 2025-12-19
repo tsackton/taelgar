@@ -4,9 +4,15 @@ tags: [religion/lizardfolk, power]
 dm_owner: none
 dm_notes: none
 pronunciation: EH-goo
+typeOf: embodied god
+affiliations:
+- {org: Tharzen Anzinakoa, title: One}
 ---
 # Negu
 *(EH-goo)*
+>[!info]+ Information  
+> An [[Embodied Gods|embodied god]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 Negu is one of the four [[Tharzen Anzinakoa]] of the [[lizardfolk]], usually seen as the guardian of the ancestral spirits. 
 

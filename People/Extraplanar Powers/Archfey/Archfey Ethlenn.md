@@ -2,17 +2,19 @@
 headerVersion: 2023.11.25
 tags: [power, status/review]
 name: Archfey Ethlenn
-species: fey
-speciesAlias: archfey
+typeOf: archfey
 gender: female
 aliases: [Queen of the Evening Mist]
+affiliations:
+  - {org: Twilight's Grace, type: leader, title: Queen}
 whereabouts: Twilight's Grace
 dm_notes: important
 dm_owner: mike
 ---
 # Archfey Ethlenn
->[!info]+ Biographical Info
-> An [[Fey|archfey]] (she/her)
+>[!info]+ Information  
+> An archfey (she/her)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% status/incomplete ->  significant in multiple games (Addermarch, and especially Cleenseau) and page is currently very under-detailed for importance %%

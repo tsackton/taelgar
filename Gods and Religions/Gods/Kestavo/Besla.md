@@ -4,10 +4,11 @@ tags: [power, religion/kestavo, status/check/mike]
 gender: female
 dm_owner: none
 dm_notes: none
+typeOf: kestavo
 ---
 # Besla
->[!info]+ Summary  
-> she/her
+>[!info]+ Information  
+> A [[Kestavo|kestavo]] (she/her)
 
 %% status/check/mike -> marked as status/needswork but nothing obviously wrong to me %%
 

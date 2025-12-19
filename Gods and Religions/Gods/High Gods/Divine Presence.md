@@ -5,8 +5,11 @@ tags: [power]
 displayDefaults: {defArt: "the"}
 dm_owner: none
 dm_notes: important
+typeOf: high god
 ---
 # The Divine Presence
+>[!info]+ Information  
+> A [[High Gods|high god]]
 
 %% does not currently address non-humans - not clear what exactly they believe %%
 

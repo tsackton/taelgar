@@ -5,11 +5,14 @@ gender: male
 pronunciation: AAD-rah
 dm_owner: tim
 dm_notes: none
+typeOf: demigod
+affiliations: 
+- {org: Dunmari Religion, type: primary}
 ---
 # Adra
 *(AAD-rah)*
 >[!info]+ Information  
-> An [[Incorporeal Gods|incorporeal god]] (he/him), part of the [[Dunmari Religion]]  
+> A demigod (he/him), part of the [[Dunmari Religion]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 A demigod associated with the [[Dunmari Religion|the Five Siblings]] of the Dunmari religion, and one of the [[Incorporeal Gods]] of humanity. 

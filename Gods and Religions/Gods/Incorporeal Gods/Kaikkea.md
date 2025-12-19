@@ -5,11 +5,12 @@ gender: female
 pronunciation: KAI-key-ah
 dm_notes: color
 dm_owner: tim
+typeOf: incorporeal god
 ---
 # Kaikkea
 *(KAI-key-ah)*
->[!info]+ Summary  
-> she/her
+>[!info]+ Information  
+> An [[Incorporeal Gods|incorporeal god]] (she/her)
 
 Kaikkea, known as the Great Ocean Mother, the Water of Life, and the Eternal Source, is the god of the Skaer people. She is worshipped as the source of all, the mother ocean, the giver of life, but also the bringer of storms and the embodiment of the ocean in all its moods. 
 

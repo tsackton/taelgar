@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: "the"}
-tags: [power, religion/halflings]
+tags: [background, religion/halflings]
 dm_owner: none
 dm_notes: color
 ---

@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [power, religion/elven]
+typeOf: embodied god
 dm_owner: joint
 dm_notes: none
 ---
