@@ -263,3 +263,28 @@ FROM #person  AND !#status/stub AND !"_templates"
 WHERE !ancestry and species != "unknown"
 GROUP BY species 
 ```
+
+# Other Classifications
+
+## Uses subspecies
+
+```dataview
+TABLE 
+species AS "Species",
+subspecies AS "Subspecies",
+ancestry AS "Ancestry"
+from #person 
+where subspecies
+sort species, subspecies
+```
+
+## Uses speciesAlias
+
+```dataview
+TABLE 
+species AS "Species",
+speciesAlias AS "Alias"
+from #person 
+where speciesAlias
+sort species, subspecies
+```

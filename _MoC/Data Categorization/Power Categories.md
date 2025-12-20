@@ -64,3 +64,13 @@ const rows = [...speciesMap.entries()]
 dv.table(["Type Of Power", "Count", "Has Note?", "Link"], rows);
 
 ```
+
+## Uses other categorization
+
+*subTypeOf, typeOfAlias, ancestry*
+
+```dataview
+LIST
+FROM #power AND !#status/stub AND !"_templates"
+WHERE subTypeOf or typeOfAlias or ancestry
+```

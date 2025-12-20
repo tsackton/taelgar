@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Andonne Plain
-typeOf: plain
+typeOf: grassland
 whereabouts:
   - {type: home, location: Aurbez and the Andonne}
 dm_notes: none
