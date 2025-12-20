@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: plain
+typeOf: grassland
 whereabouts: 
 - {type: secondary, location: Northern Provinces }
 - {type: primary, location: Northwest Coast }
