@@ -27,7 +27,12 @@ Type-specific header code for website? Yes, computed by outputs.js
 
 See: [[Person Categories]]
 
-Species and ancestry metadata are loosely controlled vocabulary. While it is not predefined, any species used in a person note is expected to have a corresponding creature page, and any ancestry used is expected to have a corresponding ancestry page (though in some cases, a realm might stand in for an ancestry page).  Subspecies should be reserved for species subtypes that purely cultural (e.g., fire elemental vs water elemental). Generally, if a creature has a partOf relationship to another creature, the subordinate page is a subspecies and the other page is the species. 
+Species and ancestry metadata are loosely controlled vocabulary. While it is not predefined, any species used in a person note is expected to have a corresponding creature page, and any ancestry used is expected to have a corresponding ancestry page (though in some cases, a realm might stand in for an ancestry page). 
+
+The usage of subspecies and speciesAlias are somewhat arbitrary. In general:
+- species should be used if a page exists for the species
+- subspecies should be used if a page exists for both the subspecies and the main species, or if a page theoretically could  exist, and the subspecies is NOT purely a cultural variant. Generally, if a creature has a partOf relationship to another creature, the subordinate page is a subspecies and the other page is the species. Note that in many cases what are currently used as subspecies should properly be ancestries. 
+- speciesAlias should be used primarily to give a more meaningful header text for people with unknown species, or other complex situations where the display text and search text diverge. 
 
 ## Power
 **Tag: `#power`**
