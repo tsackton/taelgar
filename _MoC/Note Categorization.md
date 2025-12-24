@@ -1,5 +1,5 @@
 # Note Categorization
-*last update: Dec 18th 2025*
+*last update: Dec 24th 2025*
 
 Notes (pages) are categorized based on the combination of a descriptive tag, and a typeOf string. Both descriptive tags and typeOf strings are controlled vocabulary, and pages that do not have a canonical descriptive tag + typeOf combination will be flagged in queries in Data Cleaning. 
 
@@ -47,7 +47,7 @@ Dates: born, died
 Accepts whereabouts: no
 Accepts affiliations: yes; typically these would be either a religion, a pantheon, or a realm (e.g., an archfey might be the ruler of a fey domain, while The Mother might be a member of the Eight Divines and Mos Numena)
 
-Type-specific displayDefaults? No.
+Type-specific displayDefaults? Yes, defined in metadata.json.
 Type-specific header code for website? No. 
 
 ### Classification Requirements
@@ -136,22 +136,157 @@ _Related specifically to extraplanar features._
 - **infrastructure** is used for all other kinds of infrastructure
 
 ## Event
+**Tag: `#event`**
+
+Definition: A defined event that has a start and end date and represents a description of something that happened at a fixed time. Anything time-related without a defined start and end should use the `#background` tag, most likely. 
+
+The event note expects the following metadata:
+
+Classification:  typeOf (required), ancestry, subTypeOf
+Other: partOf
+Dates: DR, DR_end
+Accepts whereabouts: Yes, though typically only an undated home whereabouts makes sense.
+Accept affiliations: No. Events should use partOf to indicate a sub-event within a larger category (e.g., a battle that is part of a war). 
+
+Type-specific displayDefaults? Yes
+Type-specific header code for website? Yes
+
+### Classification Requirements
+
+See: [[Event Categories]]
+
+Neither typeOf nor subTypeOf are currently controlled vocabulary, though typeOf may become controlled at some point. These should be used as makes sense, and following existing notes where logical. To indicate sub-events within a larger event, use partOf. 
 
 ## Object
+**Tag: `#object`**
+
+Definition:
+
+The object note expects the following metadata:
+
+Classification: 
+Other: 
+Dates: 
+Accepts whereabouts: 
+Accept affiliations: 
+
+Type-specific displayDefaults? 
+Type-specific header code for website? 
 
 ## Group
+**Tag: `#group`**
+
+Definition:
+
+The group note expects the following metadata:
+
+Classification: 
+Other: 
+Dates: 
+Accepts whereabouts: 
+Accept affiliations: 
+
+Type-specific displayDefaults? 
+Type-specific header code for website? 
 
 ## Ancestry
+**Tag: `#ancestry`**
+
+Definition:
+
+The ancestry note expects the following metadata:
+
+Classification: 
+Other: 
+Dates: 
+Accepts whereabouts: 
+Accept affiliations: 
+
+Type-specific displayDefaults? 
+Type-specific header code for website? 
 
 ## Creature
+**Tag: `#creature`**
+
+Definition:
+
+The creature note expects the following metadata:
+
+Classification: 
+Other: 
+Dates: 
+Accepts whereabouts: 
+Accept affiliations: 
+
+Type-specific displayDefaults? 
+Type-specific header code for website? 
 
 ## Session Note
+**Tag: `#session-note`**
+
+Definition:
+
+The session-note note expects the following metadata:
+
+Classification: 
+Other: 
+Dates: 
+Accepts whereabouts: 
+Accept affiliations: 
+
+Type-specific displayDefaults? 
+Type-specific header code for website? 
 
 ## Primary Source
+**Tag: `#source`**
+
+Definition:
+
+The source note expects the following metadata:
+
+Classification: 
+Other: 
+Dates: 
+Accepts whereabouts: 
+Accept affiliations: 
+
+Type-specific displayDefaults? 
+Type-specific header code for website? 
+
 
 ## Background
+**Tag: `#background`**
+
+Definition:
+
+The background note expects the following metadata:
+
+Classification: 
+Other: 
+Dates: 
+Accepts whereabouts: 
+Accept affiliations: 
+
+Type-specific displayDefaults? 
+Type-specific header code for website? 
+
 
 ## Meta
+**Tag: `#meta`**
+
+Definition:
+
+The meta note expects the following metadata:
+
+Classification: 
+Other: 
+Dates: 
+Accepts whereabouts: 
+Accept affiliations: 
+
+Type-specific displayDefaults? 
+Type-specific header code for website? 
+
 
 
 ## Descriptive Tags
@@ -162,7 +297,6 @@ Every page should have a descriptive tag, excluding pages in meta directories (e
 The following descriptive tags are considered canonical. Note that while item pages often have subtags (e.g. `item/vehicle`), these are not consistently used and should be considered obsolete/depreciated, unless otherwise noted. 
 
 * **creature**: a page about a specific type of creature. Can be used for broad types (humans) as well as more specific types (sea hags)
-* **event**: a page about a specific event
 * **object**: a specific item, or a type of item, or a material. 
 ---
 * **organization**: a specific group of people or other type of organization, including things like pantheons or families or clans.
