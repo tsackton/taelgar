@@ -182,18 +182,24 @@ Objects probably should have a better controlled vocabulary for typeOf, and more
 ## Group
 **Tag: `#group`**
 
-Definition: The group tag is used for 
+Definition: The group tag is used for notes that contain information about specific groups of people. 
 
 The group note expects the following metadata:
 
-Classification: 
-Other: 
-Dates: 
-Accepts whereabouts: 
-Accept affiliations: 
+Classification: typeOf, subTypeOf, typeOfAlias, ancestry
+Other: partOf
+Dates: created, destroyed
+Accepts whereabouts: Yes
+Accept affiliations: Yes, but typically should only accept primary affiliations, often used for gods. Use partOf for sub-group relationships. 
 
-Type-specific displayDefaults? 
-Type-specific header code for website? 
+Type-specific displayDefaults? Yes.
+Type-specific header code for website? Yes.
+
+### Classification Requirements
+
+See: [[Group Categories]]
+
+Groups probably should have a better controlled vocabulary for typeOf, and more consistent / clean use of other metadata, but currently are a bit of a mess. See link above for current state. 
 
 ## Ancestry
 **Tag: `#ancestry`**
