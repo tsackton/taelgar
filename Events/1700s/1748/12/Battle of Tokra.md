@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [event]
 displayDefaults: { dPastHasStart: "Fought on <startDate>" }
 DR: 1748-12-14
-partOf: Siblings War
+partOf: Sibling War
 typeOf: battle
 dm_owner: tim
 dm_notes: important

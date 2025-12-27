@@ -155,12 +155,74 @@ Type-specific header code for website? Yes
 
 See: [[Event Categories]]
 
-Neither typeOf nor subTypeOf are currently controlled vocabulary, though typeOf may become controlled at some point. These should be used as makes sense, and following existing notes where logical. To indicate sub-events within a larger event, use partOf. 
+Neither typeOf nor subTypeOf are currently controlled vocabulary, though typeOf may become controlled at some point. These should be used as makes sense, and following existing notes where logical. To indicate sub-events within a larger event, use partOf. PartOf should always point to another note.
+
+## Creature
+**Tag: `#creature`**
+
+Definition: Any note about either a general type of creature (e.g., `undead` or `elementals`) or a specific species (e.g., `elf`) uses the creature tag. 
+
+The creature note expects the following metadata:
+
+Classification: typeOf
+Other: partOf
+Dates: Not allowed.
+Accepts whereabouts: Not allowed.
+Accept affiliations: Not allowed.
+
+Type-specific displayDefaults? No.
+Type-specific header code for website? No.
+
+### Classification Requirements
+
+See: [[Creature Categories]]
+
+Generally, creature notes have little or no frontmatter and no header. typeOf could be used for things like species, creature type, playable species, or similar, but this should grow organically as species are organized. "Subtype" pages (e.g., fire elementals as a subtype of elementals, or hags as a subtype of fey) should probably use partOf relationships. 
+
+## Session Note
+**Tag: `#session-note`**
+
+Definition: The session-note tag is used exclusively for session notes. 
+
+The session-note note expects the following metadata:
+
+Classification: campaign
+Other: sessionNumber, players, tagline, descTitle, name
+Dates: DR, DR_end, realWorldDate
+Accepts whereabouts: No.
+Accept affiliations:  No.
+
+Type-specific displayDefaults?  No, but should have one.
+Type-specific header code for website? No, but should have one.
+
+All metadata is required, and more may be added, see: [[session-manifest-schema.json]].
+
+## Primary Source
+**Tag: `#source`**
+
+Definition: The primary source tag is used for notes that represent in-world text, meant to be shared directly with players (e.g., letters, handouts, journals). Notes that summarize in-world text generally should use background instead, but this is a judgement call. 
+
+The source note does not currently expect additional metadata, and does not have a header.
+## Background
+**Tag: `#background`**
+
+Definition: The background tag is used for world information that does not obviously fit into any of the above categories. This is still canonical information (or at least, potentially canonical, depending on the status tags) but it doesn't refer to a specific living being, place, group, thing, or event (i.e. Land Owning in Sembara or Climate Background). A good catch-all for otherwise unclear pages. 
+
+While generally backgrounds do not expect metadata, and do not have type-specific displayDefaults or type-specific header code for the website, typeOf is occasionally used for more specific classification. 
+
+See: [[Background Categories]]
+
+## Meta
+**Tag: `#meta`**
+
+Definition: The meta tag is used for pages about pages, for example this page. Does not contain world information, but may contain information about world information. Can also be used for map of content-style pages that are outside the \_MoC folder, for example indexes of NPCs or indexes of events. Can also be used for pages about mechanics or other player-facing (as opposed to character-facing) details. 
+
+The meta tag does not currently expect additional metadata, and does not have a header.
 
 ## Object
 **Tag: `#object`**
 
-Definition:
+Definition: 
 
 The object note expects the following metadata:
 
@@ -205,111 +267,16 @@ Accept affiliations:
 Type-specific displayDefaults? 
 Type-specific header code for website? 
 
-## Creature
-**Tag: `#creature`**
-
-Definition:
-
-The creature note expects the following metadata:
-
-Classification: 
-Other: 
-Dates: 
-Accepts whereabouts: 
-Accept affiliations: 
-
-Type-specific displayDefaults? 
-Type-specific header code for website? 
-
-## Session Note
-**Tag: `#session-note`**
-
-Definition:
-
-The session-note note expects the following metadata:
-
-Classification: 
-Other: 
-Dates: 
-Accepts whereabouts: 
-Accept affiliations: 
-
-Type-specific displayDefaults? 
-Type-specific header code for website? 
-
-## Primary Source
-**Tag: `#source`**
-
-Definition:
-
-The source note expects the following metadata:
-
-Classification: 
-Other: 
-Dates: 
-Accepts whereabouts: 
-Accept affiliations: 
-
-Type-specific displayDefaults? 
-Type-specific header code for website? 
-
-
-## Background
-**Tag: `#background`**
-
-Definition:
-
-The background note expects the following metadata:
-
-Classification: 
-Other: 
-Dates: 
-Accepts whereabouts: 
-Accept affiliations: 
-
-Type-specific displayDefaults? 
-Type-specific header code for website? 
-
-
-## Meta
-**Tag: `#meta`**
-
-Definition:
-
-The meta note expects the following metadata:
-
-Classification: 
-Other: 
-Dates: 
-Accepts whereabouts: 
-Accept affiliations: 
-
-Type-specific displayDefaults? 
-Type-specific header code for website? 
-
 
 
 ## Descriptive Tags
 ***Last update: 12/08/2025***
 
-Every page should have a descriptive tag, excluding pages in meta directories (e.g., any starting with `_` and assets), the Campaign directory, or the Worldbuilding. 
-
-The following descriptive tags are considered canonical. Note that while item pages often have subtags (e.g. `item/vehicle`), these are not consistently used and should be considered obsolete/depreciated, unless otherwise noted. 
-
-* **creature**: a page about a specific type of creature. Can be used for broad types (humans) as well as more specific types (sea hags)
 * **object**: a specific item, or a type of item, or a material. 
----
 * **organization**: a specific group of people or other type of organization, including things like pantheons or families or clans.
 * **culture**: a page describing a specific culture
----
-* **session-note**: a page about a specific session
-* **source**: a page containing the actual text or a paraphrase of actual in-world information, typically intended to be given to players as is. 
----
-* **meta**: a page about pages, for example this page. Does not contain world information, but may contain information about world information. Can also be used for map of content-style pages that are outside the \_MoC folder, for example indexes of NPCs or indexes of events.
-* **background**: a conceptual page that describes world background. This is still canonical information (or at least, potentially canonical, depending on the status tags) but it doesn't refer to a specific living being, place, group, thing, or event (i.e. Land Owning in Sembara or Climate Background). A good catch-all for otherwise unclear pages. Includes holidays, which should have a typeOf: holiday and (usually) a religion tag. 
 
 There are three other tags that can be added to clarify the page but one of these items on its own is not sufficient to remove the page from the missing tags list:
-* **pc**: a page describing a player character. Use a subtype for the campaign, i.e. pc/greatwar or pc/cleenseau
 * **religion**: a page something about a specific religion. Use a subtype to define the type of religion. Also should be used for organization and deity pages that are part of this religion, i.e. religion/mosnumena should get all of the pages about the Mos Numena religion.
 * **testcase**: this page makes use of complex Javascript features and is a good page for testing changes with
 

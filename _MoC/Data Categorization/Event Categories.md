@@ -46,7 +46,71 @@ FROM #event AND !#status/stub AND !"_templates"
 WHERE subTypeOf or typeOfAlias or ancestry
 ```
 
+## Part Of Usages
 
+```dataview
+TABLE
+partOf as "Part Of",
+typeOf as "Type Of"
+FROM #event AND !#status/stub AND !"_templates"
+WHERE partOf
+SORT partOf
+```
+
+```dataviewjs
+const norm = (x) =>
+  (x ?? "")
+    .toString()
+    .replace(/^\[\[|\]\]$/g, "")
+    .trim()
+    .toLowerCase();
+
+const asArray = (v) => (v == null ? [] : Array.isArray(v) ? v : [v]);
+
+// Lookup: "name or alias" -> page
+const lookup = new Map();
+for (const p of dv.pages()) {
+  lookup.set(norm(p.file.name), p);
+  for (const a of (p.file.aliases ?? [])) lookup.set(norm(a), p);
+}
+
+// speciesKey -> { display, linkPaths:Set }
+const noteMap = new Map();
+
+// change these two links to point to source and field 
+for (const note of dv.pages("#event")) {
+  for (const raw of asArray(note.partOf)) {
+    if (!raw) continue;
+    if (raw == "unknown") continue; 
+
+    const display =
+      raw?.path
+        ? (raw.display ?? raw.path.split("/").pop().replace(/\.md$/, ""))
+        : raw.toString();
+
+    const key = norm(display);
+    if (!key) continue;
+
+    if (!noteMap.has(key)) noteMap.set(key, { display, linkPaths: new Set() });
+    noteMap.get(key).linkPaths.add(note.file.path);
+  }
+}
+
+const rows = [...noteMap.entries()]
+  .sort((a, b) => a[1].display.localeCompare(b[1].display, undefined, { sensitivity: "base" }))
+  .map(([key, info]) => {
+    const page = lookup.get(key);
+    return [
+      info.display,
+      info.linkPaths.size,
+      page ? "✅" : "—",
+      page ? page.file.link : ""
+    ];
+  });
+
+dv.table(["Part Of", "Count", "Has Note?", "Link"], rows);
+
+```
 
 ## Ancestry Counts
 
