@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/dunmarfrontier]
+tags: [person]
 campaignInfo: []
 name: Wellby
 born:

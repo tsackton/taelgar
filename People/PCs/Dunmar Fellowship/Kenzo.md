@@ -1,19 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/dunmarfrontier]
+tags: [person]
 campaignInfo: []
 name: Kenzo
 born:
 species: human
 ancestry: Dunmari
+affiliations: [{org: Dunmar Fellowship, type: primary}]
 gender: male
 player: David Kong
 dm_owner: player
 dm_notes: important
 ---
 # Kenzo
->[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
+>[!info]+ Biographical Info  
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him), of the [[Dunmar Fellowship]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 ![[kenzo-full.jpg|400]]
 

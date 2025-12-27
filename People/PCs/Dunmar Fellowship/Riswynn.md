@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/dunmarfrontier]
+tags: [person]
 campaignInfo:
 name: Riswynn
 born:
@@ -10,7 +10,7 @@ gender: female
 player: Kate Sackton
 dm_owner: player
 dm_notes: important
-affiliations: [ "The Dunmar Fellowship"]
+affiliations: [{org: Dunmar Fellowship, type: primary}]
 ---
 # Riswynn
 >[!info]+ Biographical Info  
