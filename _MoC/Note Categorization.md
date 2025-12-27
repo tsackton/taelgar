@@ -182,7 +182,7 @@ Objects probably should have a better controlled vocabulary for typeOf, and more
 ## Group
 **Tag: `#group`**
 
-Definition: The group tag is used for notes that contain information about specific groups of people. 
+Definition: The group tag is used for notes that contain information about specific groups of people. This includes traditional membership organizations, and families/lineages, but does not include generic cultures (which get `#ancestry` tags) or religions (which currently `#background`) tags. While the borders can be a little fuzzy, for the most part, if a collection of people represents something you join it is a group, if it represents a heritage it is an ancestry, although familial lineages are also part of group. Something that has, or could potentially have, a leader or a founding date is typically a group. 
 
 The group note expects the following metadata:
 
@@ -204,19 +204,11 @@ Groups probably should have a better controlled vocabulary for typeOf, and more 
 ## Ancestry
 **Tag: `#ancestry`**
 
-Definition:
+Definition: The ancestry tag is used for pages about cultures. 
 
-The ancestry note expects the following metadata:
+Ancestries currently expect no metadata, and do not have a generated header. However, ancestries could potentially have partOf relationships, similar to creatures, and could potentially also have typeOf metadata. 
 
-Classification: 
-Other: 
-Dates: 
-Accepts whereabouts: 
-Accept affiliations: 
-
-Type-specific displayDefaults? 
-Type-specific header code for website? 
-
+See:  [[Ancestry Categories]]
 
 ## Creature
 **Tag: `#creature`**
@@ -280,20 +272,8 @@ Definition: The meta tag is used for pages about pages, for example this page. D
 
 The meta tag does not currently expect additional metadata, and does not have a header.
 
+## Other Descriptive Tags
 
-## Descriptive Tags
-***Last update: 12/08/2025***
-
-* **object**: a specific item, or a type of item, or a material. 
-* **organization**: a specific group of people or other type of organization, including things like pantheons or families or clans.
-* **culture**: a page describing a specific culture
-
-There are three other tags that can be added to clarify the page but one of these items on its own is not sufficient to remove the page from the missing tags list:
+There are two other tags that can be added to clarify the page but one of these items on its own is not sufficient to remove the page from the missing tags list:
 * **religion**: a page something about a specific religion. Use a subtype to define the type of religion. Also should be used for organization and deity pages that are part of this religion, i.e. religion/mosnumena should get all of the pages about the Mos Numena religion.
 * **testcase**: this page makes use of complex Javascript features and is a good page for testing changes with
-
-Pages that do not have any of these tags are listed here [[Missing Tags]].
-
-See: [[Descriptive Tags - Discussion]] for discussion and proposals around tags. 
-
-Descriptive tags are used to determine the page type, which is important for header generation. The page types that have meaningful header automation are `person`, `place`, `organization`, `event`, and `object`. See [[Display Control]] for more. 
