@@ -7,12 +7,13 @@ views:
     order:
       - file.name
       - ancestry
-      - deity
       - partOf
       - subTypeOf
       - typeOf
       - typeOfAlias
     sort:
+      - property: deity
+        direction: DESC
       - property: typeOf
         direction: ASC
       - property: typeOfAlias
@@ -20,8 +21,6 @@ views:
       - property: subTypeOf
         direction: ASC
       - property: partOf
-        direction: ASC
-      - property: deity
         direction: ASC
       - property: founded
         direction: ASC

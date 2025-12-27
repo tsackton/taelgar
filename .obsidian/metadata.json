@@ -120,7 +120,7 @@
             "dPastHasStart": "existed <startDate> - <endDate>, <end> after <length>",
             "dPast": "<end:u> <endDate>",
             "partOf": "<(Parent Organization: )partof>",
-            "boxInfo": "<ancestry:UA> <subtypeof:UA> <typeof:UA>",            
+            "boxInfo": "<ancestry:UA> <subtypeof:UA> <typeof:UA>, <(of )primary>",            
             "ruledBy" : "<affiliationtitle:tx>: <name> <((since )startDate())>",
             "linkText": "by",
             "ltPlace": "in",
