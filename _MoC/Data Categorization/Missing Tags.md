@@ -4,8 +4,8 @@ See [[Note Categorization]] for the list of well-known tags. When changing that 
 
 ```dataview
 TABLE split(file.path,"/",1)[0] as Folder, length(file.inlinks) as Backlinks
-from !"_DM_" and !"Campaigns" and !"_dm_notes" and !"_MoC" and !"assets" and !"_templates" and !"Worldbuilding" and !"_sessions" and !"AGENTS.md"
-where (
+From !"Worldbuilding" and !"assets" and !"AGENTS"
+WHERE !startswith(file.folder, "_") and (
 !contains(tags, "object") and 
 !contains(tags, "background") and 
 !contains(tags, "person") and 
@@ -13,11 +13,11 @@ where (
 !contains(tags, "place") and  
 !contains(tags, "creature") and 
 !contains(tags, "meta") and 
-!contains(tags, "organization") and 
+!contains(tags, "group") and 
 !contains(tags, "session-note") and
 !contains(tags, "event") and 
 !contains(tags, "source") and 
-!contains(tags, "culture")
+!contains(tags, "ancestry")
 )
 SORT split(file.path,"/",1)[0], length(file.inlinks) DESC
 ```
