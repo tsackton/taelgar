@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/cleenseau, person, status/gameupdate/clee]
-campaignInfo: []
+tags: [person, status/gameupdate/clee]
 name: Viepuck
 born: 1706-10-01
 species: human

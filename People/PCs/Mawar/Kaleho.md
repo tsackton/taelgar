@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/mawar]
+tags: [person]
 campaignInfo:
 name: Kaleho
 born:
@@ -9,6 +9,7 @@ ancestry:
 gender: male
 player: John Leeker
 affiliations:
+- {org: Adventurers of Mawar}
 dm_owner: player
 dm_notes: important
 ---

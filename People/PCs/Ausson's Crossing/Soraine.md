@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/aussons, status/stub]
+tags: [person, status/stub]
 campaignInfo:
 name: Soraine
 born: 1650

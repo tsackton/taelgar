@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/greatlibrary]
+tags: [person]
 species: human
 subspecies: plane-touched, fiendish
 ancestry: Isinguer
@@ -8,6 +8,7 @@ name: Blue
 gender: female
 born: 1622
 affiliations:
+- {org: Silver Tempests}
 whereabouts: 
 - {type: home, end: 1644, location: Maseau}
 - {type: away, start: 1644, end: 1746, location: Plaguelands}
@@ -19,6 +20,7 @@ dm_notes: none
 >[!info]+ Biographical Info  
 > An [[Istabor Alliance|Isinguer]] [[Humans|human]] (plane-touched, fiendish) (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 > [!warning]- Blue's Secret Backstory
