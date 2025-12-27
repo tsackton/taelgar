@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 typeOf: family
 subTypeOf: dynasty
 name: Nayan dynasty

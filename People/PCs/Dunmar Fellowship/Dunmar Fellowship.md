@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/gameupdate/dufr]
+tags: [group, status/gameupdate/dufr]
 displayDefaults: {ltPerson: "by"}
 campaignInfo: []
 name: Dunmar Fellowship

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [culture]
+tags: [ancestry]
 name: Te'kula
 typeOf: tribe
 partOf: Deno'qai

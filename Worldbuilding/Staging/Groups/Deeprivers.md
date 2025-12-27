@@ -1,5 +1,5 @@
 ---
-tags: [organization, status/check/ai]
+tags: [group, status/check/ai]
 name: Deepriver Clan
 ancestry: dwarven
 typeOf: clan

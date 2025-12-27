@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 excludePublish: ["all"]
 typeOf: fey court
 dm_owner: mike,tim

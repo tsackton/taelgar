@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 displayDefaults: {boxInfo: "<ancestry:UA> <subtypeof>"}
 name: Aatmaji dynasty
 typeOf: family

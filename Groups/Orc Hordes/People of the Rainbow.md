@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 displayDefaults: {partOf: ""}
 created: 843 
 typeOf: clan
@@ -15,9 +15,10 @@ dm_notes: important
 dm_owner: tim
 ---
 # The People of the Rainbow
->[!info]+ Information
-> An [[Orcs|orc]] clan
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Information  
+> An [[Orcs|orc]] clan  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The name for the [[Orcs]] of [[Xurkhaz]] who have lived free from [[Thark]]'s curse for many generations.

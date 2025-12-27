@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 campaignInfo: []
 name: Army of the North
 partOf: Sembaran Army

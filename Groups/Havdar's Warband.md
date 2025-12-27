@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/stub, status/cleanup/metadata, status/check/ai]
+tags: [group, status/stub, status/cleanup/metadata, status/check/ai]
 displayDefaults: {defArt: ""}
 campaignInfo:
 name:

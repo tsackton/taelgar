@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/mike]
+tags: [group, status/check/mike]
 typeOf: army
 ancestry: Sembaran
 dm_owner: mike

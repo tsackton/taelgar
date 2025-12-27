@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/cleanup/text]
+tags: [group, status/cleanup/text]
 displayDefaults: {defArt: '', boxInfo: ""}
 name: The Rangers
 typeOf: army

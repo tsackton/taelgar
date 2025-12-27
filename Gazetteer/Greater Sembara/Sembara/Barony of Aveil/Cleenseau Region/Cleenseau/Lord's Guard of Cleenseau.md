@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 displayDefaults: {boxInfo: ""}
 name: Lord's Guard of Cleenseau
 typeOf: army
