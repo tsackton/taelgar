@@ -129,7 +129,7 @@ class OutputHandler {
             return output
         }
 
-        if (pageType == "organization") {
+        if (pageType == "group") {
             output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
             output += "-\n"
 
@@ -286,7 +286,7 @@ class OutputHandler {
             }
         }
 
-        if (metadata.leaderOf || metadata.affiliations || pageType == "place" || pageType == "organization" || pageType == "object") {
+        if (metadata.leaderOf || metadata.affiliations || pageType == "place" || pageType == "group" || pageType == "object") {
 
             let line = '`$=dv.view(\"_scripts/view/get_Affiliations\")`'
             if (!dynamic) {

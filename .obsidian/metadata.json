@@ -109,7 +109,7 @@
             "linkText": "in",
             "ltPlace": "in"
         },
-        "organization": {   
+        "group": {   
             "startStatus": "founded",
             "endStatus": "disbanded",
             "wOrigin": "<start:u> <origin:q>",
