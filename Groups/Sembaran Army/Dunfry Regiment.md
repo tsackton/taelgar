@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {partOf: '<typeof:AU> of <partof>', boxInfo: ''}
-tags: [organization, status/cleanup/text]
+tags: [group, status/cleanup/text]
 typeOf: regiment
 partOf: Army of the West
 dm_notes: important

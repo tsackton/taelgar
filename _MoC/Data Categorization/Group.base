@@ -4,3 +4,26 @@ filters:
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - ancestry
+      - deity
+      - partOf
+      - subTypeOf
+      - typeOf
+      - typeOfAlias
+    sort:
+      - property: typeOf
+        direction: ASC
+      - property: typeOfAlias
+        direction: ASC
+      - property: subTypeOf
+        direction: ASC
+      - property: partOf
+        direction: ASC
+      - property: deity
+        direction: ASC
+      - property: founded
+        direction: ASC
+      - property: created
+        direction: ASC

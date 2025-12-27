@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [culture, status/check/ai]
+tags: [ancestry, status/check/ai]
 displayDefaults: {defArt: the, boxInfo: <ancestry:UA> <typeof:UA> based in <home:r>}
 name: Baz'aku
 typeOf: tribe

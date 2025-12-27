@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [culture, status/stub, status/check/ai]
+tags: [ancestry, status/stub, status/check/ai]
 name: ~Northerner~
 dm_notes: important
 dm_owner: joint

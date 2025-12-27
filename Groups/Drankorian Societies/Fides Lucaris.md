@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ""}
-tags: [organization, status/stub, status/check/ai]
+tags: [group, status/stub, status/check/ai]
 dm_notes: important
 dm_owner: tim
 ---

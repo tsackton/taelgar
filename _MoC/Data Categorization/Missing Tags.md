@@ -1,4 +1,6 @@
-# Pages outside DM/Campaign/MOC with no "well-defined tag"
+# Pages with No Page Type
+
+Excludes pages in assets and pages in `_` directories. Includes campaigns. 
 
 See [[Note Categorization]] for the list of well-known tags. When changing that list, please update the data-query here.
 
@@ -19,6 +21,5 @@ WHERE !startswith(file.folder, "_") and (
 !contains(tags, "source") and 
 !contains(tags, "ancestry")
 )
-SORT split(file.path,"/",1)[0], length(file.inlinks) DESC
 ```
 

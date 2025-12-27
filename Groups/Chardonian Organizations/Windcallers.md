@@ -1,5 +1,5 @@
 ---
-tags: [status/stub, organization, status/check/ai]
+tags: [status/stub, group, status/check/ai]
 dm_notes: important
 dm_owner: tim
 ---

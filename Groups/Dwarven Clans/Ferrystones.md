@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/cleanup/text, organization]
+tags: [status/cleanup/text, group]
 typeOf: clan
 displayDefaults: {defArt: "the" }
 ancestry: dwarven

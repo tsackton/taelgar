@@ -1,5 +1,5 @@
 ---
-tags: [organization, status/check/ai]
+tags: [group, status/check/ai]
 name: Red Knife tribe
 ancestry: goblin
 typeOf: clan
