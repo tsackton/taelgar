@@ -25,7 +25,7 @@ Type-specific header code for website? Yes, computed by outputs.js
 
 ### Classification Requirements
 
-See: [[Person Categories]]
+See: [[People Categories]]
 
 Species and ancestry metadata are loosely controlled vocabulary. While it is not predefined, any species used in a person note is expected to have a corresponding creature page, and any ancestry used is expected to have a corresponding ancestry page (though in some cases, a realm might stand in for an ancestry page). 
 
@@ -157,6 +157,61 @@ See: [[Event Categories]]
 
 Neither typeOf nor subTypeOf are currently controlled vocabulary, though typeOf may become controlled at some point. These should be used as makes sense, and following existing notes where logical. To indicate sub-events within a larger event, use partOf. PartOf should always point to another note.
 
+## Object
+**Tag: `#object`**
+
+Definition: The object tag is used for any kind of physical object, including both specific objects (the Crown of Purity, Delwath's Shadow Breastplate), general classes of objects (Drankorian Message Stones), books, materials (chalyte), and vehicles (Vindristjarna, The Emerald Song). 
+
+The object note expects the following metadata:
+
+Classification: typeOf (required), subTypeOf, ancestry
+Other: rarity, pcOwner, ddbLink
+Dates: created, destroyed
+Accepts whereabouts: Yes.
+Accept affiliations: Yes.
+
+Type-specific displayDefaults? Yes.
+Type-specific header code for website? Yes.
+
+### Classification Requirements
+
+See: [[Object Categories]]
+
+Objects probably should have a better controlled vocabulary for typeOf, and more consistent / clean use of whereabouts, but currently are a bit of a mess. See link above for current state. 
+
+## Group
+**Tag: `#group`**
+
+Definition: The group tag is used for 
+
+The group note expects the following metadata:
+
+Classification: 
+Other: 
+Dates: 
+Accepts whereabouts: 
+Accept affiliations: 
+
+Type-specific displayDefaults? 
+Type-specific header code for website? 
+
+## Ancestry
+**Tag: `#ancestry`**
+
+Definition:
+
+The ancestry note expects the following metadata:
+
+Classification: 
+Other: 
+Dates: 
+Accepts whereabouts: 
+Accept affiliations: 
+
+Type-specific displayDefaults? 
+Type-specific header code for website? 
+
+
 ## Creature
 **Tag: `#creature`**
 
@@ -218,55 +273,6 @@ See: [[Background Categories]]
 Definition: The meta tag is used for pages about pages, for example this page. Does not contain world information, but may contain information about world information. Can also be used for map of content-style pages that are outside the \_MoC folder, for example indexes of NPCs or indexes of events. Can also be used for pages about mechanics or other player-facing (as opposed to character-facing) details. 
 
 The meta tag does not currently expect additional metadata, and does not have a header.
-
-## Object
-**Tag: `#object`**
-
-Definition: 
-
-The object note expects the following metadata:
-
-Classification: 
-Other: 
-Dates: 
-Accepts whereabouts: 
-Accept affiliations: 
-
-Type-specific displayDefaults? 
-Type-specific header code for website? 
-
-## Group
-**Tag: `#group`**
-
-Definition:
-
-The group note expects the following metadata:
-
-Classification: 
-Other: 
-Dates: 
-Accepts whereabouts: 
-Accept affiliations: 
-
-Type-specific displayDefaults? 
-Type-specific header code for website? 
-
-## Ancestry
-**Tag: `#ancestry`**
-
-Definition:
-
-The ancestry note expects the following metadata:
-
-Classification: 
-Other: 
-Dates: 
-Accepts whereabouts: 
-Accept affiliations: 
-
-Type-specific displayDefaults? 
-Type-specific header code for website? 
-
 
 
 ## Descriptive Tags

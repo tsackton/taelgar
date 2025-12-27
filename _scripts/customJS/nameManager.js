@@ -27,7 +27,7 @@ class NameManager {
             "place",
             "object",
             "event",
-            "organization",
+            "group",
             "power"
         ];
 
@@ -269,7 +269,7 @@ class NameManager {
             case "person":
                 prep = displayData.ltPerson != undefined ? displayData.ltPerson : displayData.linkText
                 break
-            case "organization":
+            case "group":
                 prep = displayData.ltOrg != undefined ? displayData.ltOrg : displayData.linkText
                 break
             case "place":

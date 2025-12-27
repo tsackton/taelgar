@@ -23,7 +23,7 @@ class TokenParser {
         P = include people only; p = exclude people
         I = include items only; i = exclude items
         F = include first step always; f = exclude first step
-        O = include organizations only; o = exclude organizations
+        O = include groups only; o = exclude groups
     ***/
 
     filterChars = "rRpPlLiIoOfF";
@@ -330,7 +330,7 @@ class TokenParser {
         if ("typeOf" in metadata) return ""
 
         if (metadata.tags && metadata.tags.length > 0) {
-            let baseTag = metadata.tags.filter(f => f.startsWith("item") || f.startsWith("place") || f.startsWith("culture") || f.startsWith("organization") || f.startsWith("person")).first()
+            let baseTag = metadata.tags.filter(f => f.startsWith("object") || f.startsWith("place") || f.startsWith("ancestry") || f.startsWith("group") || f.startsWith("person")).first()
             if (baseTag) {
                 let value = baseTag.split("/")
                 if (value.length == 2) return value[1]
