@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/mike]
+tags: [group, status/check/mike]
 displayDefaults: {defArt: "the" }
 ancestry: halfling
 typeOf: family

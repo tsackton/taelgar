@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [species]
+tags: [creature]
 name: Hobgoblins
 aliases: [hobgoblin, hobgoblins, Hobgoblin]
 dm_owner: joint

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/mawar]
+tags: [person]
 campaignInfo:
 name: Trok
 born:
@@ -9,13 +9,15 @@ subspecies: salt
 gender: male
 player: Eric Rosenbaum
 affiliations:
+- {org: Adventurers of Mawar}
 excludePublish: ["clee"]
 dm_owner: player
 dm_notes: important
 ---
 # Trok
 >[!info]+ Biographical Info  
-> A salt [[Lizardfolk|lizardfolk]] (he/him)
+> A [[Lizardfolk|lizardfolk]] (salt) (he/him)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 A lizardfolk warrior, covered in tattoos, who lives on the beach north of the Drowned Flats neighborhood of Hamri. Recovering gatza addict who is somewhat estranged from his family.
 

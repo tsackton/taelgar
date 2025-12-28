@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment, testcase]
+tags: [object, testcase]
 rarity: unique
 campaignInfo:
 - {campaign: DuFr, type: destroyed, date: 1748-12-25}

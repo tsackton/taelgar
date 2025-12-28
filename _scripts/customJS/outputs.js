@@ -92,19 +92,9 @@ class OutputHandler {
             }
         }
 
-        if (pageType == "culture") {
-            let hasTypeOf = typeOf && typeOf.trim().length > 0
-            if (hasTypeOf) {
-                output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
-                output += "-"
-                output += "    :octicons-info-24: " + typeOf + "  \n"
-                output += "</div>\n\n"
-            }
-        }
-
         if (pageType == "place") {
             let hasTypeOf = typeOf && typeOf.trim().length > 0
-            let hasPlaces = metadata.whereabouts || metadata.partOf
+            let hasPlaces = metadata.whereabouts
 
             let lineCount = 0
             if (hasPageDates) lineCount++
@@ -139,7 +129,7 @@ class OutputHandler {
             return output
         }
 
-        if (pageType == "organization") {
+        if (pageType == "group") {
             output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
             output += "-\n"
 
@@ -162,7 +152,7 @@ class OutputHandler {
         }
 
 
-        if (pageType == "item") {
+        if (pageType == "object") {
             let typeOfTitle = TokenParser.formatDisplayString("<rarity:t> <ancestry:t> <subtypeof:t> <typeof:t>", file)
             if (!hasPageDates && !metadata.ddbLink && !metadata.whereabouts) {
                 if (typeOf && typeOf.length > 0) {
@@ -234,7 +224,7 @@ class OutputHandler {
             output += "</div>\n\n"
         }
 
-        if (pageType != "culture" && (metadata.whereabouts || (pageType == "place" && metadata.partOf))) {
+        if (metadata.whereabouts) {
             if (whereaboutsStrings.current.trim() && !whereaboutsStrings.isCurrentUnknown) {
                 output += ":octicons-location-24:{ .lg .middle } " + whereaboutsStrings.current + "\n" // has 1 newline, we want 2
             } else if (whereaboutsStrings.lastKnown.trim()) {
@@ -296,7 +286,7 @@ class OutputHandler {
             }
         }
 
-        if (metadata.leaderOf || metadata.affiliations || pageType == "place" || pageType == "organization" || pageType == "item") {
+        if (metadata.leaderOf || metadata.affiliations || pageType == "place" || pageType == "group" || pageType == "object") {
 
             let line = '`$=dv.view(\"_scripts/view/get_Affiliations\")`'
             if (!dynamic) {
@@ -314,7 +304,7 @@ class OutputHandler {
             summaryBlockLines.push("> " + partOf)
         }
 
-        if (pageType != "culture" && (metadata.whereabouts || (pageType == "place" && metadata.partOf))) {
+        if (metadata.whereabouts) {
             let line = '`$=dv.view(\"_scripts/view/get_Whereabouts\")`';
             if (!dynamic) {
                 line = OutputHandler.outputWhereabouts(fileName, metadata).split("\n")

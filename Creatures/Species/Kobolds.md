@@ -1,5 +1,6 @@
 ---
-tags: [species, status/wip]
+tags: [creature, status/wip]
+aliases: [kobold]
 dm_owner: joint
 dm_notes: important
 ---

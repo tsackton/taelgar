@@ -1,10 +1,13 @@
 ---
-tags: [deity, religion/kestavo, status/check/mike]
+headerVersion: 2023.11.25
+tags: [power, religion/kestavo, status/check/mike]
 dm_owner: none
 dm_notes: none
+typeOf: kestavo
 ---
 # Kamak
-*he/him*
+>[!info]+ Information  
+> A [[Kestavo|kestavo]]
 
 %% status/check/mike -> marked as status/needswork but nothing obviously wrong to me %%
 

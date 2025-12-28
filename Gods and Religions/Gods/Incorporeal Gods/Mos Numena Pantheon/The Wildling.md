@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena, status/cleanup/image]
+tags: [power, religion/mosnumena, status/cleanup/image]
 displayDefaults: {defArt: ''}
+affiliations: 
+- {org: Mos Numena, type: primary}
+- {org: Eight Divines, title: One}
+typeOf: incorporeal god
 gender: enby
 dm_owner: joint
 dm_notes: none
 ---
 # The Wildling
->[!info]+ Summary  
-> they/them
+>[!info]+ Information  
+> An [[Incorporeal Gods|incorporeal god]] (they/them), part of [[Mos Numena]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% vibes and notes
 - protection from the danger of nature, raw nature. wildling shrine along the borders of the cleenseau wood, seen as keeping the wildness of the forest at bay

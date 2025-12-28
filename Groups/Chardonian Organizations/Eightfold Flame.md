@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 typeOf: cult
 dm_notes: important
 dm_owner: tim

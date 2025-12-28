@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/cleanup/text, organization]
+tags: [status/cleanup/text, group]
 displayDefaults: {defArt: 'the'}
 typeOf: family
 ancestry: Sembaran

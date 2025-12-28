@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment, status/cleanup/text, status/cleanup/image]
+tags: [object, status/cleanup/text, status/cleanup/image]
 typeOf: staff
 whereabouts: Kenzo
 rarity: unique

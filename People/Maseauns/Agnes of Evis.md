@@ -6,7 +6,7 @@ campaignInfo:
 name: Agnés of Evis
 born: 1690-04-03
 species: human
-ancestry: Maseaun
+ancestry: Mazeanne
 aliases: [Agnés of Evis]
 gender: female
 whereabouts:
@@ -19,7 +19,7 @@ dm_owner: none
 ---
 # Agnés of Evis
 >[!info]+ Biographical Info  
-> A [[Duchy of Maseau|Maseaun]] [[Humans|human]] (she/her)  
+> A [[Duchy of Maseau|Maseanne]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on December 7th, 1719 in [[Cleenseau]], the [[Manor of Cleenseau]], the [[Barony of Aveil]] %%^End%%

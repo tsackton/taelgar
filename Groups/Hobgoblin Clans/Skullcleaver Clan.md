@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 ancestry: hobgoblin
 whereabouts: Irrla
 typeOf: clan

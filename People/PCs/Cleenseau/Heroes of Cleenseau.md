@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 displayDefaults: {startStatus: met, partOf: "", linkText: "by", ltPerson: "by"}
 name: Heroes of Cleenseau
 created: 1719-10-20

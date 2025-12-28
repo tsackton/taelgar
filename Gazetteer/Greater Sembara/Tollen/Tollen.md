@@ -8,6 +8,7 @@ whereabouts: Western Green Sea
 aliases:
   - Free City of Tollen
   - Tollen
+  - Tollender
 dm_owner: tim
 dm_notes: important
 typeOfAlias: city

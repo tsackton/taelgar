@@ -1,5 +1,5 @@
 ---
-tags: [item, status/check/ai]
+tags: [object, status/check/ai]
 typeOf: relic
 subTypeOf: soil‑blessing
 whereabouts:

@@ -2,12 +2,11 @@
 headerVersion: 2023.11.25
 tags: [religion/fivesiblings, background]
 displayDefaults: {defArt: the}
-name: Five Siblings
 aliases: [Five Siblings of the Dunmari, Dunmari gods]
 dm_notes: important
 dm_owner: tim
 ---
-# The Five Siblings
+# The Dunmari Religion
 
 
 The religion of the Dunmari is an old religion, adapted and evolved from the old ways when the Dunmari were a nomadic people living far to the south, before they settled among the ruins of [[Drankorian Empire|Drankor]]. The Dunmari worship a [[Dunmari Pantheon|family pantheon]], the Five Siblings, along with other minor gods and goddesses. 

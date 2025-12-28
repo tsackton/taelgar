@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/review]
 displayDefaults:
   ruledBy: "Ruled by: <name> <((since )startDate())>"
+aliases: [Sembaran]
 name: Sembara
 typeOf: realm
 whereabouts: Greater Sembara

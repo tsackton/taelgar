@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [species]
+tags: [creature]
 pronunciation: gih-DAR-ee
 dm_owner: tim
 dm_notes: important

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-campaignInfo:
+aliases: [Cymean]
 name: Cymea
 typeOf: region
 whereabouts: Western Green Sea

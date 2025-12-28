@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/check/errors]
+aliases: [Isinguer, Isinguese]
 name: Istabor Alliance
 typeOf: realm
 dm_owner: joint

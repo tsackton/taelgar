@@ -1,5 +1,5 @@
 ---
-tags: [item, status/check/ai]
+tags: [object, status/check/ai]
 name: Staff of the Swamplands
 typeOf: staff
 dm_owner: none

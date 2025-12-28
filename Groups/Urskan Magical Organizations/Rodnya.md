@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 ancestry: Urskan
 name: Rodnye
 displayDefaults: {defArt: "the", indefArt: ""}

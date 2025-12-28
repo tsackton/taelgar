@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 aliases: [Val Masseum]
 name: Maseau Gap
-typeOf: plain
+typeOf: grassland
 whereabouts: Greater Sembara
 dm_owner: none
 dm_notes: none

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/gameupdate/clee]
+tags: [group, status/gameupdate/clee]
 campaignInfo: []
 displayDefaults: {partOf: 'part of <partof>', boxInfo: ''}
 name: Army of the West

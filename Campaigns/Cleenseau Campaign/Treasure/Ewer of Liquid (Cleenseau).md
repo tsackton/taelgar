@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 name: Ewer of Liquid
 displayDefaults: {defArt: "" }
 subTypeOf: magical
 typeOf: ewer
-whereabouts: { location: Heroes of Cleenseau, linkText: ""}
+whereabouts: Heroes of Cleenseau
 ancestry: Drankorian
 image: ewer-of-liquid.png
 pcOwner: Heroes of Cleenseau

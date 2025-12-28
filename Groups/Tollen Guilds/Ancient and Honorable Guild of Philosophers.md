@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 displayDefaults: {boxInfo: "A <typeof> in <home:fr>", wHome: ""}
 name: Ancient and Honorable Guild of Philosophers
 aliases: [Philosopher's Guild]

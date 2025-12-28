@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/gameupdate/dufr]
-displayDefaults: {partOf: ""}
+tags: [group, status/gameupdate/dufr]
 ancestry: Chardonian
 name: Society of the Open Scroll
 typeOf: scholary society

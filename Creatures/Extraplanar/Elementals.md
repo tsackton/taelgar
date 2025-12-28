@@ -1,5 +1,5 @@
 ---
-tags: [species]
+tags: [creature]
 aliases: [elemental, elementals, Elemental]
 dm_notes: important
 dm_owner: tim

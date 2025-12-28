@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 name: Order of Twilight
 typeOf: religious order
 dm_owner: none

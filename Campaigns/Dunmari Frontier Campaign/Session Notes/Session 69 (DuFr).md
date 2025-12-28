@@ -60,7 +60,7 @@ The [[Dunmar Fellowship]] breaks curses afflicting [[Kenzo]] and [[Havdar]], lea
 | Are they within a week of us? | **NO** | 22 Nov 1748 |  
 | Was [[Apollyon]] behind [[Sura]]'s kidnapping?  | **NO** | 23 Nov 1748 
 ## Narrative
-We begin as the party settles in for the night outside [[Lastlight Falls]], after a long evening of talking and reconnecting. In the morning, [[Riswynn]] prepares the magic she needs to attempt to free [[Kenzo]] from the cursed chain bound to his soul from his encounter with [[Motua]]. The ritual succeeds, with the aid of the prayers of [[Delwath]] to the tanshi and [[Seeker]]'s runic inspiration magic, and [[Kenzo]] is freed, at the cost of the [[Horn of Silent Alarm (Dunmari)|Horn of Silent Alarm]] carried for many months. 
+We begin as the party settles in for the night outside [[Lastlight Falls]], after a long evening of talking and reconnecting. In the morning, [[Riswynn]] prepares the magic she needs to attempt to free [[Kenzo]] from the cursed chain bound to his soul from his encounter with [[People/Other Nonhumans/Motua]]. The ritual succeeds, with the aid of the prayers of [[Delwath]] to the tanshi and [[Seeker]]'s runic inspiration magic, and [[Kenzo]] is freed, at the cost of the [[Horn of Silent Alarm (Dunmari)|Horn of Silent Alarm]] carried for many months. 
 
 Over the course of the next week, the party falls into a routine as they hurry across the plains of [[Dunmar]], now sprung to life with the monsoon rains.
 

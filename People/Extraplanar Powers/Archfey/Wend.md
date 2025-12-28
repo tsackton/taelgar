@@ -1,17 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [power]
 name: Wend
-species: fey
-speciesAlias: archfey
+typeOf: archfey
 gender: female
 dm_notes: none
 dm_owner: tim
 whereabouts: Hollowdark
+affiliations:
+  - {org: Hollowdark, type: leader, title: Master}
 ---
 # Wend
->[!info]+ Biographical Info  
-> An [[Fey|archfey]] (she/her)  
+>[!info]+ Information  
+> An archfey (she/her)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Wend, the Silence That Follows, an archfey and the ruler of [[Hollowdark]]. She is often spoken of in the same sentence as [[Harrow]], the Shadow That Looms, ruler of [[Darkfall]]; whether these are truly two separate entities, or two aspects of the same dread, is not known. 

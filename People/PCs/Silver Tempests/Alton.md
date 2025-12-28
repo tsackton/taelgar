@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/greatlibrary]
+tags: [person]
 species: halfling
 name: Alton
 gender: male
 born: 1722
+affiliations:
+- {org: Silver Tempests}
 whereabouts: 
 - {type: home, end: 1747-01-01, location: Chardon}
 - {type: home, start: 1747-04-08, location: Voltara}

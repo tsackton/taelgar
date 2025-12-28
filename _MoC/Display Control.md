@@ -510,7 +510,7 @@ The JSON blocks below show the effective displayDefaults for the primary page ty
 }
 ```
 
-### Organization
+### Group
 ```json
 // organization
 {
@@ -533,7 +533,7 @@ The JSON blocks below show the effective displayDefaults for the primary page ty
   "dPast": "<end:u> <endDate>",
   "boxName": "Information",
   "partOf": "<(Parent Organization: )partof>",
-  "boxInfo": "<ancestry:UA> <subtypeof:UA> <typeof:UA>",
+  "boxInfo": "<ancestry:UA> <subtypeof:UA> <typeof:UA>, <(of )primary>\\n",
   "aNoDate": "<affiliationtitle:tx> of <affiliations>",
   "aPast": "<affiliationtitle:tx> of <affiliations> (until <endDate>)",
   "aCurrent": "<affiliationtitle:tx> of <affiliations> (since <startDate>)",

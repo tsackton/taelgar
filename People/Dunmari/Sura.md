@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/gameupdate/dufr, testcase]
+tags: [status/gameupdate/dufr, testcase, person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-26, type: scryed}
 name: Nayan Sura

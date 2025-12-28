@@ -5,7 +5,7 @@ displayDefaults: { endStatus: killed by Deno'qai}
 campaignInfo: []
 name: Zegron
 species: giant
-speciesAlias: fire giant
+subspecies: fire giant
 gender: male
 died: 1545
 dm_owner: none

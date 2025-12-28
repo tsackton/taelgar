@@ -8,9 +8,9 @@ dm_notes: color
 
 %% have some misc color notes in OneNote, but nothing significant %%
 
-The Dunmari mystery cults are magical, semi-secret organizations dedicated to the worship and service of the divinities of the [[Five Siblings]] faith. While the existence of mystery cults is well known, the exact magic and practices of each cult is generally kept secret. These organizations exist somewhat outside the normal religious hierarchy of [[Dunmar#Religion|Dunmari religious practice]], and initiates of these mystery cults, known as mystai, are usually treated with respect and admiration by the [[Dunmar|Dunmari]]. 
+The Dunmari mystery cults are magical, semi-secret organizations dedicated to the worship and service of the divinities of the [[Dunmari Religion]] faith. While the existence of mystery cults is well known, the exact magic and practices of each cult is generally kept secret. These organizations exist somewhat outside the normal religious hierarchy of [[Dunmar#Religion|Dunmari religious practice]], and initiates of these mystery cults, known as mystai, are usually treated with respect and admiration by the [[Dunmar|Dunmari]]. 
 
-While most Dunmari typically assume there are mystery cults associated with all the gods and demi-gods of the [[Five Siblings]], only three are widely known and common across Dunmar:
+While most Dunmari typically assume there are mystery cults associated with all the gods and demi-gods of the [[Dunmari Religion]], only three are widely known and common across Dunmar:
 - The [[Aagir Mystai]], known as the Aagiri, patrol the roads of Dunmar and keep the land safe by might of arms. They have no fixed home, at least not any that is widely known, but their history tells of a time when they maintained and patrolled a series of fortifications along the edges of the [[Desolation of Cha'mutte]], guarding against the dangers of the ruined city of [[Drankor]]. 
 - The [[Sonkar Mystai]], who can see the truth of things and are often called to resolve disputes of justice. %%note: must have a monastery somewhere, but never determined where %%
 - The [[Lakan Mystai]], who keep the secrets of Dunmari history, and also study the secrets of metaphysics and the multiverse. They are based at an [[Lakan Monastery|ancient monastery]] on the outskirts of [[Tokra]], although they have a presence elsewhere as well. 

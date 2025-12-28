@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 displayDefaults: {defArt: '', boxInfo: ""}
 name: Oracle of the Riven
 typeOf: council

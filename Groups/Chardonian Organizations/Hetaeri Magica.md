@@ -1,17 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 name: Hetaeri Magica
 typeOf: magical society
 ancestry: Chardonian
 whereabouts: Chardon
-founded: 1125
+created: 1125
 dm_notes: none
 dm_owner: tim
 ---
 # The Hetaeri Magica
 >[!info]+ Information  
 > A [[Chardonian Empire|Chardonian]] magical society  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
