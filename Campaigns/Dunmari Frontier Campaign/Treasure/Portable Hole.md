@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 typeOf: container
 name: Dunmar Fellowship's Portal Hole
 subTypeOf: magical

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 displayDefaults: {defArt: '', endStatus: destroyed in battle on, boxInfo: ""}
 campaignInfo: []
 name: Grash's Horde

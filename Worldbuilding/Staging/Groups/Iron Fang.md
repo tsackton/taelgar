@@ -1,5 +1,5 @@
 ---
-tags: [organization, status/check/ai]
+tags: [group, status/check/ai]
 typeOf: hobgoblin clan
 ancestry: hobgoblin
 whereabouts: Plaguelands

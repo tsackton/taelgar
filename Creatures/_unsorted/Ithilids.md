@@ -1,6 +1,6 @@
 ---
 aliases: [Mindflayer, Mind Flayer, Illithid]
-tags: [species, status/stub]
+tags: [creature, status/stub]
 dm_owner: joint
 dm_notes: none
 ---

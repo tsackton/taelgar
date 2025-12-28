@@ -1,0 +1,27 @@
+filters:
+  and:
+    - file.tags.contains("object")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - subTypeOf
+      - typeOf
+      - typeOfAlias
+      - rarity
+      - ancestry
+      - pcOwner
+      - ddbLink
+      - whereabouts
+    sort:
+      - property: whereabouts
+        direction: ASC
+      - property: pcOwner
+        direction: ASC
+      - property: affiliations
+        direction: ASC
+      - property: typeOf
+        direction: DESC
+      - property: typeOfAlias
+        direction: ASC

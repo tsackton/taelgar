@@ -1,7 +1,6 @@
 ---
 tags: [religion/mosnumena, background, status/check/mike]
 name: Mos Numena
-aliases: [Eight Divines]
 dm_owner: joint
 dm_notes: none
 ---

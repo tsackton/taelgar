@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 aliases: [Yvan]
-tags: [pc/addermarch, person]
+tags: [person]
 player: Isaac Sackton
 ddbLink: https://www.dndbeyond.com/characters/131340283
 species: halfling
@@ -10,13 +10,15 @@ dm_owner: player
 dm_notes: none
 affiliations: 
 - {org: Greenrabbits, type: primary }
+- {type: primary, org: "Addermarch Mercenaries"}
 whereabouts:
 - {type: home, location: Sembara}
 - {type: home, location: Addermarch}
 ---
 # Yvan Greenrabbit
 >[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (he/him), of Greenrabbits  
+> A [[Halflings|halfling]] (he/him), of Greenrabbits, and the [[Addermarch Mercenaries]]  
+> [Character Sheet](https://www.dndbeyond.com/characters/131340283)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

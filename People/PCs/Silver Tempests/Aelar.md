@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/greatlibrary]
+tags: [person]
 species: elf
 name: Aelar
 gender: male

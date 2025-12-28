@@ -58,7 +58,7 @@ After speaking with [[Umli]], the party meets [[Caelynn]] the Seer at her small,
 
 Leaving [[Caelynn]]'s, [[Kenzo]] returns to the [[Temple of Kaikkea]] to bond with [[Iskra]], collect [[Iskra's Story|her story]], and impress her with his large spiritual presence, while the rest of the party returns to the inn. 
 
-The next morning, [[Kenzo]] returns to [[Cecilia Lister]]'s tattoo parlor, listens to her [[Cecilia Lister's Story|story]], and has his tattoos of [[Lengau]] and [[Motua]] magically enhanced, as well as receiving a letter of introduction to [[Escobar Garavito]], a well-connected student at the University, supported by a [[Dyer's Guild]] scholarship. The party reschedules dinner with [[Melindir]] and postpones meeting [[Sarah de Gray]], as after lunch they depart, heading north and east towards [[Antaka]]. 
+The next morning, [[Kenzo]] returns to [[Cecilia Lister]]'s tattoo parlor, listens to her [[Cecilia Lister's Story|story]], and has his tattoos of [[Lengau]] and [[People/Other Nonhumans/Motua]] magically enhanced, as well as receiving a letter of introduction to [[Escobar Garavito]], a well-connected student at the University, supported by a [[Dyer's Guild]] scholarship. The party reschedules dinner with [[Melindir]] and postpones meeting [[Sarah de Gray]], as after lunch they depart, heading north and east towards [[Antaka]]. 
 
 ***Part 2: [[Skaerhem]]***
 

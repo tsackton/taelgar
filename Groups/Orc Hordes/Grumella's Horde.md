@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ""}
-tags: [organization]
+tags: [group]
 typeOf: horde
 ancestry: orc
 dm_notes: none

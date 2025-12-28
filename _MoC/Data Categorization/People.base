@@ -22,20 +22,20 @@ views:
       - ddbLink
       - player
     sort:
-      - property: speciesAlias
-        direction: DESC
-      - property: species
-        direction: DESC
       - property: ancestry
-        direction: DESC
+        direction: ASC
+      - property: species
+        direction: ASC
+      - property: speciesAlias
+        direction: ASC
+      - property: subspecies
+        direction: ASC
       - property: ka
         direction: ASC
       - property: ddbLink
         direction: ASC
       - property: image
         direction: ASC
-      - property: subspecies
-        direction: DESC
       - property: title
         direction: ASC
       - property: campaign
@@ -58,3 +58,4 @@ views:
         direction: ASC
     columnSize:
       note.species: 195
+      note.subspecies: 179

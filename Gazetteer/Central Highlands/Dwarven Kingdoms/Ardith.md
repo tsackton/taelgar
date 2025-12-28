@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
+aliases: [Ardikhun]
 displayDefaults: {endStatus: overrun in}
-campaignInfo: []
 name: Ardith
 typeOf: realm
 ancestry: dwarven

@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena, status/cleanup/image]
+tags: [power, religion/mosnumena, status/cleanup/image]
 displayDefaults: {defArt: ''}
+affiliations: 
+- {org: Mos Numena, type: primary}
+- {org: Eight Divines, title: One}
+typeOf: incorporeal god
 aliases: [Sibyl]
 gender: female
 dm_owner: joint
 dm_notes: none
 ---
 # The Sibyl
->[!info]+ Summary  
-> she/her
+>[!info]+ Information  
+> An [[Incorporeal Gods|incorporeal god]] (she/her), part of [[Mos Numena]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% vibes and note:
 - i've always thought of the sibyl as kind of part of a trio with the wanderer and the wyrdling that are seen as more personal, more present, more likely to pay attention to an individual. 

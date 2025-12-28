@@ -17,5 +17,5 @@ LIST from #person and !#status/stub and !"_templates" where !species
 
 ## Things
 ```dataview
-list from #item and !#status/stub where !typeOf
+list from #object and !#status/stub where !typeOf
 ```

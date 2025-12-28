@@ -1,19 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/fivesiblings, status/cleanup/image]
+tags: [power, religion/fivesiblings, status/cleanup/image]
 gender: male
-affiliations: [{org: Five Siblings, title: Deity }]
+affiliations: 
+- {org: Dunmari Religion, type: primary}
+- {org: Five Siblings, title: One}
+typeOf: incorporeal god
 pronunciation: AA-gir
 dm_notes: color
 dm_owner: tim
 ---
 # Aagir
 *(AA-gir)*
->[!info]+ Summary  
-> he/him  
+>[!info]+ Information  
+> An [[Incorporeal Gods|incorporeal god]] (he/him), part of the [[Dunmari Religion]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-One of [[Five Siblings|the Five Siblings]] of the Dunmari religion, and one of the [[Incorporeal Gods]] of humanity. 
+One of [[Dunmari Religion|the Five Siblings]] of the Dunmari religion, and one of the [[Incorporeal Gods]] of humanity. 
 
 Aagir is god of war, fire, and death. He is the protector of warriors, the fierce defender of the honor of Dunmari and of his siblings, the god of battle, and also the god of redemption, the one who helps the souls of those who were not deemed worthy in life redeem themselves. He is seen sometimes as the rash brother, the one urging action, the one prone to righteous fury and a demand to make things better. He watches over warriors most of all.
 

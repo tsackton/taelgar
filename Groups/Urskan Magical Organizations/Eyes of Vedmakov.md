@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 aliases: [Watchers, Okolov]
-tags: [organization]
+tags: [group]
 ancestry: Urskan
 typeOf: magical bloodline
 partOf: Rodnya

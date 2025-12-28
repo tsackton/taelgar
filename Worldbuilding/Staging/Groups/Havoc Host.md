@@ -1,5 +1,5 @@
 ---
-tags: [organization, status/check/ai]
+tags: [group, status/check/ai]
 name: Havoc Host
 typeOf: mercenary company
 whereabouts: North Bay Coast (activity)

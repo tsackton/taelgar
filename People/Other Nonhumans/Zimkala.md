@@ -4,8 +4,7 @@ tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1749-08-07, type: met}
 name: Zimkala
-born: 
-species: Stoneborn
+species: stoneborn
 ancestry:
 gender: male
 aliases: 

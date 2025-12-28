@@ -93,7 +93,7 @@ class WhereaboutsManager {
             P = include people only; p = exclude people
             I = include items only; p = exclude items
             F = include first step only; f = exclude first step
-            O = include organizations only; o = exclude organizations
+            O = include groups only; o = exclude groups
          */
 
         let successResult = {
@@ -172,19 +172,19 @@ class WhereaboutsManager {
         }
 
         if (formatStr.contains("I")) {
-            if (pageType != "item") return typeFilterFailed
+            if (pageType != "object") return typeFilterFailed
         }
 
         if (formatStr.contains("i")) {
-            if (pageType == "item") return typeFilterFailed
+            if (pageType == "object") return typeFilterFailed
         }
 
         if (formatStr.contains("O")) {
-            if (pageType != "organization") return typeFilterFailed
+            if (pageType != "group") return typeFilterFailed
         }
 
         if (formatStr.contains("o")) {
-            if (pageType == "organization") return typeFilterFailed
+            if (pageType == "group") return typeFilterFailed
         }
 
         // this has to be last, or we allow types that are at the max depth but are the wrong kind

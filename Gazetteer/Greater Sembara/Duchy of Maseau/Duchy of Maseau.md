@@ -4,9 +4,10 @@ tags: [place, status/check/errors]
 name: Duchy of Maseau
 typeOf: realm
 whereabouts: Greater Sembara
-aliases: [Maseau]
+aliases: [Maseau, Mazeanne] 
 dm_notes: color
 dm_owner: mike
+pronunciation: mah-ZOH
 ---
 # The Duchy of Maseau
 >[!info]+ Information  

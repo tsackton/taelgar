@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 typeOf: company
 created: 1749-07-09
 subTypeOf: imperial charter

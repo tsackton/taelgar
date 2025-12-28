@@ -1,5 +1,5 @@
 ---
-tags: [species, status/wip]
+tags: [creature, status/wip]
 name: Stoneborn
 aliases: [Stoneborn, stoneborn]
 dm_owner: joint

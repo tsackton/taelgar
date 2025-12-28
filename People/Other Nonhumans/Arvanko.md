@@ -4,7 +4,7 @@ tags: [person]
 campaignInfo:
 - {campaign: adma, type: met, date: 1715-05-23}
 name: Arvanko
-species: Stoneborn
+species: stoneborn
 born: 1445
 affiliations: 
 - {org: The Rangers}

@@ -1,4 +1,4 @@
 ---
-tags: [item, status/stub]
+tags: [object, status/stub]
 typeOf: book
 ---

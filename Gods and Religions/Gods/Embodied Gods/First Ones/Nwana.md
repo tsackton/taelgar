@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
 pronunciation: n-WAH-nah
-tags: [deity, religion/halflings]
+tags: [power, religion/halflings]
 gender: enby
 dm_owner: none
 dm_notes: none
+typeOf: embodied god
+affiliations:
+- {org: First Ones, title: One}
 ---
 # Nwana
 *(n-WAH-nah)*
->[!info]+ Summary  
-> they/them
+>[!info]+ Information  
+> An [[Embodied Gods|embodied god]] (they/them)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 Nwana, the Stranger/Child, is often thought to watch over both the family you have, and the family you don’t yet know. 
 

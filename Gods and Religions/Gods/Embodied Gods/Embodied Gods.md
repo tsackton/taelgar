@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [background, status/check/errors]
+aliases: [embodied god]
 dm_owner: none
 dm_notes: important
 ---

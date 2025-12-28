@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/stoneborn]
+tags: [power, religion/stoneborn]
+typeOf: embodied god
 dm_owner: none
 dm_notes: none
 ---

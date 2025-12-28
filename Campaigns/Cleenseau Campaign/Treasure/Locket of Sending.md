@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 typeOf: necklace
 subTypeOf: magic
 name: Locket of Sending

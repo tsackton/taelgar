@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [background, religion/fivesiblings]
+displayDefaults: {defArt: "the"}
+name: Five Siblings
+aliases: [Five Siblings]
 dm_owner: tim
 dm_notes: color
 ---
-# The Dunmari Pantheon
-
+# The Five Siblings
 
 The Dunmari worship a tight pantheon of divinities they believe represent the Divine Family. These include five siblings, and associated demigods. 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [species]
+tags: [creature]
 name: species name
 aliases: [species singluar, species plural]
 dm_owner: joint

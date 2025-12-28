@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/aussons]
+tags: [person, status/stub]
 name: Izar
 born: 1579
 species: lizardfolk

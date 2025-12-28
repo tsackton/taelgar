@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags:
   - place
   - status/gameupdate/dufr
+aliases: [Dunmari]
 name: Dunmar
 whereabouts: Greater Dunmar
 created: 1173
@@ -27,7 +28,7 @@ During the [[Great War]], however, Dunmar suffered terribly. The [[Dharajun Dyna
 
 Now, Dunmar is culturally divided by the [[Yuvanti Mountains]] and the [[Darba Highlands]]. To the east, the Dunmari who live in the dry, arid grasslands and deserts of the [[Hara Basin]] maintain a traditional nomadic way of live, moving with their herds of horses, sheep, and goats across the plains with the seasons, and gathering at temples and religious sites to mark the festivals and turnings of the year. To the west, the people living on the coastal plains and in the river valleys and rolling hills of highlands have adopted a much more sedentary lifestyle, with a much greater focus on permanent agriculture. 
 
-Nonetheless, the Dunmari remain united by their worship of the [[Five Siblings]], the divinities that protect the people, and worship of these deities is a central part of all Dunmari culture and civic life. 
+Nonetheless, the Dunmari remain united by their worship of the [[Dunmari Religion]], the divinities that protect the people, and worship of these deities is a central part of all Dunmari culture and civic life. 
 
 ## Geography 
 
@@ -106,7 +107,7 @@ In the 191st year of the Nayan Dynasty (DR 1748), Sura was freed from captivity 
 
 ### Culture
 
-The Dunmari have long been a nomadic people, traditionally moving seasonally with their horses and herds, and only returning to permanent settlements and temples for major festivals. They are known for skill with animals, prowess in battle, and a close connection to their gods, the [[Five Siblings]]. The traditional focus of Dunmari settlement on religious, monumental, and administrative buildings has led to a variety of distinctive [[Dunmari Architecture|Dunmari architectural styles]]. 
+The Dunmari have long been a nomadic people, traditionally moving seasonally with their horses and herds, and only returning to permanent settlements and temples for major festivals. They are known for skill with animals, prowess in battle, and a close connection to their gods, the [[Dunmari Religion]]. The traditional focus of Dunmari settlement on religious, monumental, and administrative buildings has led to a variety of distinctive [[Dunmari Architecture|Dunmari architectural styles]]. 
 
 During the Nayan Dynasty, a more sedentary culture has developed on the fertile [[Nayan Floodplains]] and [[Darba Highlands]]. 
 
@@ -114,11 +115,11 @@ During the Nayan Dynasty, a more sedentary culture has developed on the fertile 
 
 *See more: [[Dunmari Government]]*
 
-Dunmar is a theocratic monarchy, in which all power ultimately flows from the gods. The land of Dunmar itself is held in trust for the gods, and cannot be owned in a formal sense by mortals. The Samraat is the representative of the [[Five Siblings]] on Taelgar, and is formally both the head of state and the head of the temple organization in Dunmar, which are traditionally considered the same office. 
+Dunmar is a theocratic monarchy, in which all power ultimately flows from the gods. The land of Dunmar itself is held in trust for the gods, and cannot be owned in a formal sense by mortals. The Samraat is the representative of the [[Dunmari Religion]] on Taelgar, and is formally both the head of state and the head of the temple organization in Dunmar, which are traditionally considered the same office. 
 
 Administratively, the Dunmari state is organized and run through temple districts. All Dunmari are members of a particular temple, a home region to return to for festivals and other significant religious events. It is through these temples that taxes and justice and other instruments of state operate. Indeed, Dunmar does not define itself by borders drawn on a map: to be part of the kingdom of Dunmar is to be part of a temple that acknowledges the supremacy of the Samraat.
 
-While the Samraat is the supreme leader of the temple organization, there is little other formal hierarchy, and the head priests of each temple district are legally equal. Each head priest is also, by virtual of being a head priest, a member of the temple conclave, which also includes the speakers of the various mystical cults dedicated to specific divinities in Dunmar. The most important responsibility of the temple conclave is the election of the Samraat, which involves interpreting the divine will of the [[Five Siblings]].
+While the Samraat is the supreme leader of the temple organization, there is little other formal hierarchy, and the head priests of each temple district are legally equal. Each head priest is also, by virtual of being a head priest, a member of the temple conclave, which also includes the speakers of the various mystical cults dedicated to specific divinities in Dunmar. The most important responsibility of the temple conclave is the election of the Samraat, which involves interpreting the divine will of the [[Dunmari Religion]].
 
 ### Justice and the Law
 
@@ -130,9 +131,9 @@ Punishments in Dunmar rarely involve humiliation or pain, which is seen as cruel
 
 ### Religion
 
-*See more: [[Five Siblings|Five Siblings of the Dunmari]]*
+*See more: [[Dunmari Religion|Five Siblings of the Dunmari]]*
 
-The Dunmari worship a close pantheon of deities, known as the [[Five Siblings]], as well as a small number of associated lesser divinities. Religion is closely intertwined with the Dunmari culture: indeed, to be Dunmari is to be in covenant with the Five Siblings, and vice versa. 
+The Dunmari worship a close pantheon of deities, known as the [[Dunmari Religion]], as well as a small number of associated lesser divinities. Religion is closely intertwined with the Dunmari culture: indeed, to be Dunmari is to be in covenant with the Five Siblings, and vice versa. 
 
 For most Dunmari, the yearly cycle of [[Dunmari Festivals]] define their relationships to the gods. In particular, the major festivals of the year are typically celebrated at temples, and most Dunmari travel to their home temple for these occasions. Many Dunmari also carry with them shrines -- small icons and statuary of the gods, often carved or sculpted, that serve as a locus for prayer among a nomadic people. 
 

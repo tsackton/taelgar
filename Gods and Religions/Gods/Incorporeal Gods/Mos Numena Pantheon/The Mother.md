@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena]
+tags: [power, religion/mosnumena]
 displayDefaults: {defArt: ''}
+affiliations: 
+- {org: Mos Numena, type: primary}
+- {org: Eight Divines, title: One}
+typeOf: incorporeal god
 gender: female
 dm_owner: joint
 dm_notes: none
 ---
 # The Mother
->[!info]+ Summary  
-> she/her
+>[!info]+ Information  
+> An [[Incorporeal Gods|incorporeal god]] (she/her), part of [[Mos Numena]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% vibes and notes:
 - presumably seen as a crucial deity, watching over births and food

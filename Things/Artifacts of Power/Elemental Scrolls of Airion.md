@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [object]
 typeOf: scroll
 dm_owner: tim
 dm_notes: important

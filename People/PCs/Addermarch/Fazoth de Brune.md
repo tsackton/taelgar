@@ -8,15 +8,18 @@ ancestry: Sembaran
 gender: male
 dm_owner: player
 dm_notes: none
-tags: [person, pc/addermarch]
+affiliations:
+- {type: primary, org: "Addermarch Mercenaries"}
+tags: [person]
 whereabouts:
 - {type: home, location: Eskbridge}
 - {type: home, location: Addermarch}
 ---
 # Fazoth de Brune
 >[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[Addermarch Mercenaries]]  
 > [Character Sheet](https://www.dndbeyond.com/characters/131334028)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[assets/fazoth-full.png|right|400]]Fazoth de Brune, a younger scion of the wealthy de Brune family, grew up with a life of privilege on the outskirts of [[Eskbridge]], thanks to his family's wealth and position. At the age of 22, he left [[Sembara]] for [[Addermarch]]. 

@@ -1,0 +1,28 @@
+filters:
+  and:
+    - file.tags.contains("group")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - ancestry
+      - partOf
+      - subTypeOf
+      - typeOf
+      - typeOfAlias
+    sort:
+      - property: deity
+        direction: DESC
+      - property: typeOf
+        direction: ASC
+      - property: typeOfAlias
+        direction: ASC
+      - property: subTypeOf
+        direction: ASC
+      - property: partOf
+        direction: ASC
+      - property: founded
+        direction: ASC
+      - property: created
+        direction: ASC

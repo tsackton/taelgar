@@ -1,5 +1,5 @@
 ---
-tags: [organization, status/check/ai]
+tags: [group, status/check/ai]
 typeOf: chartered corporation
 partOf: Chardon
 whereabouts: Chardon

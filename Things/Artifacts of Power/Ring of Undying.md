@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 displayDefaults: { wPastHome: "Was owned by: <current:1>", dPast: "Destroyed by [[Wellby]] on <endDate>"}
 typeOf: ring
 rarity: unique

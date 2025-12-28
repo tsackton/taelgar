@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/fivesiblings, status/cleanup/image]
+tags: [power, religion/fivesiblings, status/cleanup/image]
 gender: female
 dm_owner: tim
 dm_notes: important
+typeOf: demigod
+affiliations: 
+- {org: Dunmari Religion, type: primary}
 ---
 # Shakun
->[!info]+ Summary  
-> she/her
+>[!info]+ Information  
+> A demigod (she/her), part of the [[Dunmari Religion]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
-A demigod associated with the [[Five Siblings|the Five Siblings]] of the Dunmari religion, and one of the [[Incorporeal Gods]] of humanity. 
+A demigod associated with the [[Dunmari Religion|the Five Siblings]] of the Dunmari religion, and one of the [[Incorporeal Gods]] of humanity. 
 
 Shakun is the goddess of illusion, magic, prophecy, and dreams; often said to be the mystical protector of the Dunmari, looking to unseen dangers and magical threats. She is the Divine twin sister of [[Kotana]], the second Samraat of the [[Aatmaji Dynasty]]; Shakun and [[Kotana]] are said to be the children of [[Bhishma]], the founder of [[Dunmar]], and the god [[Laka]]. 
 

@@ -86,7 +86,7 @@ class DateManager {
             if (metadata.DR_end) status.endDate = this.normalizeDate(metadata.DR_end, true);
         } else if (metadata.DR && useDR && pageType == "event") {
             // Only treat a lone DR as an end date for event-type pages.
-            // For people/places/organizations, a single DR should not imply the page has ended.
+            // For people/places/groups, a single DR should not imply the page has ended.
             status.endDate = this.normalizeDate(metadata.DR, true);
         }
 

@@ -1,12 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/tanshi]
+tags: [power, religion/tanshi]
 pronunciation: yah-LEEK-ee
 dm_owner: none
 dm_notes: none
+typeOf: tanshi
+affiliations: 
+- {org: Meswati, type: primary}
 ---
 # Yalik'i
 *(yah-LEEK-ee)*
+>[!info]+ Information  
+> A [[Tanshi|tanshi]] , part of the [[Meswati]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The [[Tanshi]] of crisp, cold weather, frosty mornings and autumn rains. Particularly fond the first frost of the year, when it is said they exert all their power to listen everywhere. Associated with the clear thoughts of a sharp, crisp morning.
 

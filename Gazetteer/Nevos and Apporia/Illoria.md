@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+tags: [place]
+aliases: [Illorian]
 name: Illoria
 typeOf: island
 whereabouts: Nevos Sea

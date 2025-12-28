@@ -4,7 +4,7 @@ tags: [person]
 name: Lucas
 born: 1667
 species: human
-ancestry: Maseuan
+ancestry: Mazeanne
 gender: male
 whereabouts: Evis
 dm_notes: none
@@ -12,7 +12,7 @@ dm_owner: none
 ---
 # Lucas
 >[!info]+ Biographical Info  
-> A Maseuan [[Humans|human]] (he/him)  
+> A [[Duchy of Maseau|Maseanne]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

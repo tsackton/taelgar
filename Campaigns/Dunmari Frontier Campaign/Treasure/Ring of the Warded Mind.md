@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment]
+tags: [object]
 displayDefaults: {defArt: ""}
 name: Ring of the Warded mind
 typeOf: ring

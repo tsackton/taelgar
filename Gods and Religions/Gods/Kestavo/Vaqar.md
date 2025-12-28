@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/kestavo]
+tags: [power, religion/kestavo]
 dm_owner: none
 dm_notes: none
 name: Vaqar
 pronunciation: VAH-kar
 ---
 # Vaqar
-*(VAH-kar)*
+
 
 A malevolent spirit in the tradition of the *[[Kestavo]]*, known as the fire-below. Their children are the spirits of war and destruction, of injury, of sudden death, of the burning home. They are feared and driven off, whenever possible.
 

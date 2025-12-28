@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 destroyed: 1748-11-20
-tags: [item/equipment]
+tags: [object]
 typeOf: sword
 subTypeOf: cursed
 whereabouts: Havdar

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 displayDefaults: {defArt: "", wHome: "", wCurrent: "", boxInfo: "<typeOf:UA> of <partOf>", partOf: ""}
 partOf: University of Chardon
 typeOf: lecti

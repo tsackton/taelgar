@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [background, status/check/mike, status/check/tim]
+aliases: [incorporeal god]
 dm_owner: none
 dm_notes: important
 ---

@@ -1,20 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/mawar]
+tags: [person]
 name: Wazir
 born:
 species: human
 ancestry: Mawaran
 gender: male
 player: Mike Sackton
-affiliations: [ {place: Leviathan Inn, title: Owner} ]
+affiliations: 
+- {place: Leviathan Inn, title: Owner}
+- {org: Adventurers of Mawar}
 whereabouts: Hamri
 dm_owner: player
 dm_notes: important
 ---
 # Wazir
 >[!info]+ Biographical Info  
-> A Mawaran [[Humans|human]] (he/him)  
+> A [[Mawar Confederacy|Mawaran]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

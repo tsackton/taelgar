@@ -6,7 +6,7 @@ dm_notes: none
 ---
 # Praise the Divine Family
 
-A praise song sung by the [[Dunmar|Dunmari]] about the [[Five Siblings]]
+A praise song sung by the [[Dunmar|Dunmari]] about the [[Dunmari Religion]]
 ![[praise-the-divine-family.mp3]]
 ## Lyrics
 

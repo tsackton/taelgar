@@ -1,5 +1,5 @@
 ---
-tags: [status/stub, person, pc]
+tags: [status/stub, person]
 dm_notes: important
 dm_owner: player
 ---

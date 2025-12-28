@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [group]
 ancestry: orc
 typeOf: communal society
 dm_notes: important

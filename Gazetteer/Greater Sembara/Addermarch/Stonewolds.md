@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Stonewolds
 displayDefaults: {defArt: "the", wHome: "<ancestry:UA> <subtypeof:UA> <typeof:U> <(of )primary> <home:5Fq>"}
-typeOf: topographic feature
+typeOf: topographical feature
 typeOfAlias: rugged hills
 whereabouts: Carlinshire
 dm_owner: tim

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/gameupdate/clee]
+tags: [group, status/gameupdate/clee]
 displayDefaults: {partOf: '<typeof:AU> in <partof>', boxInfo: ''}
 campaignInfo: []
 aliases: [Sembaran Army, Military of Sembara]

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/mawar]
+tags: [person]
 campaignInfo:
 name: Ryu
 born:
@@ -9,12 +9,14 @@ ancestry: Mawaran
 gender: male
 player: David Kong
 affiliations:
+- {org: Adventurers of Mawar}
 dm_owner: player
 dm_notes: important
 ---
 # Ryu
 >[!info]+ Biographical Info  
-> A Mawaran [[Humans|human]] (he/him)
+> A [[Mawar Confederacy|Mawaran]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 A deep sea fisherman and native of Hamri, in his late 20s, who lives in an abandoned watcher’s tower north of the city, across the bay. Noted as an expert in finding fish and other sea creatures with an abundance of gatza.
 

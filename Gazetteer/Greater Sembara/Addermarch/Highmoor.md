@@ -1,9 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+tags: [place]
 name: Highmoor
-typeOf: plain
+typeOf: grassland
 whereabouts: Carlinshire
 dm_owner: none
 dm_notes: none

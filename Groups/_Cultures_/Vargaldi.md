@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [culture]
+tags: [ancestry]
 whereabouts: Northern Green Sea
 partOf: ~Northerner~
 dm_notes: color

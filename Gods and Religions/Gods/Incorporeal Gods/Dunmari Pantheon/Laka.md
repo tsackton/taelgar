@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/fivesiblings, status/cleanup/image]
+tags: [power, religion/fivesiblings, status/cleanup/image]
+affiliations: 
+- {org: Dunmari Religion, type: primary}
+- {org: Five Siblings, title: One}
+typeOf: incorporeal god
 gender: male
 dm_owner: tim
 dm_notes: important
 ---
 # Laka
->[!info]+ Summary  
-> he/him
+>[!info]+ Information  
+> An [[Incorporeal Gods|incorporeal god]] (he/him), part of the [[Dunmari Religion]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
-One of [[Five Siblings|the Five Siblings]] of the Dunmari religion, and one of the [[Incorporeal Gods]] of humanity. 
+One of [[Dunmari Religion|the Five Siblings]] of the Dunmari religion, and one of the [[Incorporeal Gods]] of humanity. 
 
 Laka is the god of knowledge, history, time, memories, of the seasons, of the ancestors, and the passage of the year. Often seen as the keeper of traditions, as the one who determines the right moment for things, of the god of beginnings and endings. He is seen as the cool head, the rational one, among the Divine Siblings, the one counseling for caution and certainty and less risky courses of action. He is often seen as the second most important of the Divines, after [[Jeevali]], and the one who is the keeper of the history of the Dunmari. He especially watches over funerals, and the memory of ancestors, and is the protector of the ruler of [[Dunmar]] and the government. The one who understands the reason for things.
 

@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/review]
+tags: [power, status/review]
 name: Lord Umbraeth
 excludePublish: ["clee"]
-species: fey
+typeOf: archfey
 gender: male
 aliases: [Gloomshaper]
 affiliations:

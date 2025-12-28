@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-typeOf: plain
+typeOf: grassland
 whereabouts: Central Dunmar
 aliases:
   - plains of Songara

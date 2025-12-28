@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [culture, status/cleanup/text]
+tags: [ancestry, status/cleanup/text]
 name: Skaer
 whereabouts: Skaerhem
 dm_notes: color

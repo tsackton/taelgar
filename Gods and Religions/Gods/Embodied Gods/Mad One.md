@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity]
+tags: [power]
+typeOf: embodied god
 displayDefaults: {defArt: "the"}
 dm_notes: color
 dm_owner: none

@@ -1,8 +1,7 @@
 ---
 tags: [person, status/check/ai]
 name: Ithu'rax
-species: aberration
-subspecies: aboleth
+species: aboleth
 whereabouts:
 - {type: past, end: 1748-08-24, location: Caverns near North Bay Coast lake}
 campaignInfo:

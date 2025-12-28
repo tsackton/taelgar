@@ -4,7 +4,7 @@ tags: [person]
 name: Peyre Vayler
 born: 1655
 species: human
-ancestry: Maseaun
+ancestry: Mazeanne
 gender: male
 whereabouts: Evis
 title: Lord
@@ -14,7 +14,7 @@ dm_owner: none
 ---
 # Lord Peyre Vayler
 >[!info]+ Biographical Info  
-> A [[Duchy of Maseau|Maseaun]] [[Humans|human]] (he/him)  
+> A [[Duchy of Maseau|Maseanne]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

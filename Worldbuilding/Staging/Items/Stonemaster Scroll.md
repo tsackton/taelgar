@@ -1,5 +1,5 @@
 ---
-tags: [item, status/check/ai]
+tags: [object, status/check/ai]
 name: Stonemaster Scroll
 typeOf: scroll (Airion)
 whereabouts: Crystal Cavern (recovered)

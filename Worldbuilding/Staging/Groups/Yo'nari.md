@@ -1,5 +1,5 @@
 ---
-tags: [culture, status/check/ai]
+tags: [ancestry, status/check/ai]
 name: Yo'nari
 whereabouts: Northwest coast (Apporia) and Cairn Dor (legends)
 campaignInfo:
