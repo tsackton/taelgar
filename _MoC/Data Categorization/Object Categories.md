@@ -4,7 +4,7 @@
 
 ```dataview
 LIST
-FROM #object AND !#status/stub
+FROM #object AND !"Worldbuilding"
 WHERE !typeOf and !startswith(file.folder, "_")
 ```
 

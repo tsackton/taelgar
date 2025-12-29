@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>"}
 DR: 1748-08-18
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # Chardon Fan Vision
 >[!info]+ Information  

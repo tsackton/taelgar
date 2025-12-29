@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>"}
 DR: 1749-01-27
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # The Broken Dunmari Sword Vision
 >[!info]+ Information

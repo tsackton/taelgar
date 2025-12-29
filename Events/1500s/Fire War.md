@@ -7,6 +7,7 @@ DR: 1552-05-17
 DR_end: 1553-07-10
 dm_owner: none
 dm_notes: color
+typeOf: war
 ---
 # The Fire War
 >[!info]+ Information

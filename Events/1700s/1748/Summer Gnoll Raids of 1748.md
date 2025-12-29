@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [event, status/cleanup/metadata]
 name: Summer Gnoll Raids of 1748
-typeOf: raids
+typeOf: raid
 partOf: Betrayer Moon Plot
 DR: 1748-04
 DR_end: 1748-07

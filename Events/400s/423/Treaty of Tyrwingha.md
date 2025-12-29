@@ -5,6 +5,7 @@ name: Treaty of Tyrwingha
 DR: 423
 dm_notes: none
 dm_owner: mike
+typeOf: treaty
 ---
 # The Treaty of Tyrwingha
 >[!info]+ Information

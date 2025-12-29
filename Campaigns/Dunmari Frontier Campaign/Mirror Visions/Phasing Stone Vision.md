@@ -5,6 +5,7 @@ displayDefaults: {dPastHasStart: "Seen on <startdate>"}
 name: Phasing Stone Vision
 DR: 1749-03-27
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # The Phasing Stone Vision
 >[!info]+ Information  

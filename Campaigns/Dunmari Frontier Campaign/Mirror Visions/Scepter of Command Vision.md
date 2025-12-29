@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 DR: 1748-06-01
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # Scepter of Command Vision
 >[!info]+ Information  

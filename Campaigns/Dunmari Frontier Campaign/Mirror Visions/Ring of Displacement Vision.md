@@ -5,6 +5,7 @@ displayDefaults: {dPastHasStart: "Seen on <startdate>"}
 name: Ring of Displacement Vision
 DR: 1748-07-24
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # The Ring of Displacement Vision
 >[!info]+ Information  

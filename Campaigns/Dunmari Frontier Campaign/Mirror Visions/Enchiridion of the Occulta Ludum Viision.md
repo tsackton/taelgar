@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 DR: 1748-11-24
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # Enchiridion of the Occulta Ludum Viision
 >[!info]+ Information  

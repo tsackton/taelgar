@@ -5,6 +5,7 @@ displayDefaults: {dPastHasStart: "Seen on <startdate>"}
 name: Crown of Purity Vision
 DR: 1749-05-30
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # The Crown of Purity Vision
 >[!info]+ Information  

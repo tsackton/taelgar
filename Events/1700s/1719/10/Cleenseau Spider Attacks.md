@@ -7,6 +7,7 @@ headerVersion: 2023.11.25
 dm_notes: important
 dm_owner: none
 name: Cleenseau Spider Attacks
+typeOf: raid
 ---
 # The Cleenseau Spider Attacks
 >[!info]+ Information  

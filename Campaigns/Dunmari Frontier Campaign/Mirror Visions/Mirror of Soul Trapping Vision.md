@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 DR: 1748-06-08
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # Mirror of Soul Trapping Vision
 >[!info]+ Information  

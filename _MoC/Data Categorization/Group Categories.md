@@ -4,12 +4,12 @@
 
 ```dataview
 LIST
-FROM #group AND !#status/stub
+FROM #group and !"Worldbuilding"
 WHERE !typeOf and !startswith(file.folder, "_")
 ```
 
 
-## Group TypOfs
+## Group Type Ofs
 
 ```dataview
 TABLE WITHOUT ID

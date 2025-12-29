@@ -1,6 +1,7 @@
 ---
 tags: [event, status/check/errors]
-dm_owner: shared
+typeOf: war
+dm_owner: joint
 dm_notes: important
 ---
 

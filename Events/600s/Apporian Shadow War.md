@@ -6,6 +6,7 @@ dm_owner: tim
 dm_notes: none
 DR: 657
 DR_end: 661
+typeOf: war
 ---
 # The Apporian Shadow War
 >[!info]+ Information  

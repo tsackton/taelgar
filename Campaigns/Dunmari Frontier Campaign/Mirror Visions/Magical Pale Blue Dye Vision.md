@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 DR: 1749-02-17
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # Magical Pale Blue Dye Vision
 >[!info]+ Information  

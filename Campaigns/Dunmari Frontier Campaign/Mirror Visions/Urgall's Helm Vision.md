@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 DR: 1748-12-23
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # Urgall's Helm Vision
 >[!info]+ Information  

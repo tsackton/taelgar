@@ -5,6 +5,7 @@ displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 name: Apollyon's Crystal Ball Vision
 DR: 1749-06-16
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # Apollyon's Crystal Ball Vision
 >[!info]+ Information  

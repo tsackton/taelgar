@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 DR: 1748-04-27
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # Kenzo's Jade Vision
 >[!info]+ Information  

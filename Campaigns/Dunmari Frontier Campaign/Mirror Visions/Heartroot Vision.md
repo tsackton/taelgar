@@ -5,6 +5,7 @@ displayDefaults: {dPastHasStart: "Seen on <startdate>"}
 name: Heartroot Vision
 DR: 1749-08-12
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # The Heartroot Vision
 >[!info]+ Information  
