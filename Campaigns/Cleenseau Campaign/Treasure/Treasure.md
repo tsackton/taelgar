@@ -1,3 +1,6 @@
+---
+tags: [meta]
+---
 # Party Treasure
 
 ## Treasure Hordes

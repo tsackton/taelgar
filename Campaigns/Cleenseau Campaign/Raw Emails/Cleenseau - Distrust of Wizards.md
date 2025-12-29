@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 > (BTW, what is the actual cultural reason that people are so wary of wizards?  Is it that they are assumed to tend to go bad like the one in Viepuck’s backstory, reasons related to deep history, or what?)   
 
 There is no one event or specific reason why wizards are distrusted in Sembara, but there is a long cultural tradition dating back hundreds of years that is suspicious of "learned magic" and in particular magic as something you study and unpack how it works and then use that knowledge to make more of it. Where exactly it developed none of you would know, but since the Great War, a number of events have occurred that enforce and seem to confirm the suspicion. The most notable was the story of Elaine I and her twin sister Anne, which is long and tragic and something I will write up in more detail sometime - but in is briefest form there was a contest for the throne between Elaine and Anne, and in the course of that contest Anne studied magic deeply so she could learn to cast a powerful geas to force Elaine to give up the throne. This ended up failing (was found out, and undone) but it was seen as a confirmation of the worst things about wizards. The year after Anne's treachery was the Cursed Cold, when for five months fire radiated cold, not heat, and the days grew colder, not warmer, as the sun rose. This devastated the areas it impacted (cooking and growing crops are both hard without heat) and was seen by many as somehow related to Anne's treachery and a cost the entire kingdom bore for her magic. 

@@ -1,3 +1,8 @@
+---
+tags: [meta]
+typeOf: timeline
+---
+
 # Index of Mirror Visions
 
 ```dataview

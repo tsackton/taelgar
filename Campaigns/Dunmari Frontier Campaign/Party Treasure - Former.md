@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 # Former Party Treasure
 
 *Anything that was lost, sold, given away, or used goes here.*

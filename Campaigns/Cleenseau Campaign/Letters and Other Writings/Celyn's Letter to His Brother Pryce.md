@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 Pryce —  
   
         I’m writing to you rather than Mama or anyone and I trust that you’ll tell people the things that are best for them to know.  I know Mama will worry and I know you can keep mum when need be.  

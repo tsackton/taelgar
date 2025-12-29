@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 Here are the loose ends I recall from the session.
 
 Stench Monster

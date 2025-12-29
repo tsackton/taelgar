@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 *He tells of the first days of the [[People of the Rainbow]], before there was a cloak. He tells of Ilios the Bright, who fell through the world when he was just an infant, not yet chained to [[Thark]]'s will, and grew strong in the [[Fey]] realm of [[Amberglow]], under a sunset sky free of [[Thark]]'s influence. Ilios, it is said, had a [[Fey]] energy that could not be contained. His eyes shone with moonlight, and his swords flashed silver. He began to raid across the foothills of the [[Sentinel Range|Sentinels]], where small, disorganized groups of [[Orcs]], families and tribes hidden from the Drankorian patrols lived. Ilios stole the unchained babies from these tribes, and brought them to [[Amberglow]], where The [[People of the Rainbow]] grew in secret, protected by the [[Cloudspinner]].* 
 
 *And then Azagar speaks of the blackness that tore out the sun, the rift through which darkness leaked. The invasion of [[Amberglow]] by a far distant evil, something of no world. Ilios leapt through this blackness and severed the cords that held this rift open, trapping himself to an unknown fate, but saving [[Amberglow]]. In honor of his sacrifice, the [[Cloudspinner]] wove the [[Cloak of Rainbows]], each thread plucked from the immortal sunsets of [[Amberglow]], each thread grasping the essence of the [[Riving]], the long pause, the splitting of the planes that created the [[Feywild]], and wrapping that energy of pulling, separating into a cloak that cut the wearer from the divine.*

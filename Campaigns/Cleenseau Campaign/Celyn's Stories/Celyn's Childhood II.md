@@ -1,4 +1,9 @@
-  Llinos did not spend much time with Blodwen, who was a full decade older and entirely busy with adult things.  She had finished her apprenticeship in the winery proper and had clearly constructed an ambition to pursue, about which she had a relentless sort of ferocity that Llinos actually admired, without having a clear sense of what might be worth pursuing.  Blodwen was small - Cynog was the only one of the family that had inherited their father’s bulk, while the rest of them favored their mother - but always gave the impression of being twice as tall as she actually was.  
+---
+tags: [source]
+---
+  
+Llinos did not spend much time with Blodwen, who was a full decade older and entirely busy with adult things.  She had finished her apprenticeship in the winery proper and had clearly constructed an ambition to pursue, about which she had a relentless sort of ferocity that Llinos actually admired, without having a clear sense of what might be worth pursuing.  Blodwen was small - Cynog was the only one of the family that had inherited their father’s bulk, while the rest of them favored their mother - but always gave the impression of being twice as tall as she actually was.  
+  
         All of which meant that Llinos was very startled when Blodwen turned up one day, hands on her hips, and said, “I hear you’re to apprentice with cousin Ilean and Tudur.”  
         “Mostly cousin Ilean,” Llinos said, after a moment.  “Tudur says his knees don’t like to go up in the hills anymore.”  
         Blodwen sniffed her disapproval.  “Well,” she said, “he’s not a Bettws for certain.  Come on.”  

@@ -1,6 +1,8 @@
 ---
 excludePublish: ["all"]
+tags: [source]
 ---
+
 Of all the acrobats, Alys was Celyn’s favorite.  She was shorter than he was, and also much broader, with a solidly built muscularity that put her in support roles more than the flashy top tumbles that the lighter performers would do.  Not that she couldn’t do them, and with flair, but the lightr acrobats couldn’t do the anchoring that she handled with equal panache.  She was a glorious performer with a mane of autumn-leaf colored curls that reminded Celyn a little bit of his sister’s red hair, though everything about its texture and style was different.  
 
 Possibly he was just a little homesick.  

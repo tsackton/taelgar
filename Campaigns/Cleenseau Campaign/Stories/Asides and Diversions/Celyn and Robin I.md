@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 So: while the operation to extract Lady Debrune and her fey associate from genteel imprisonment went off entirely without a hitch, Celyn returns from getting them to their next hiding place looking deeply unsettled, enough so that it actually shows through his usual happy-go-lucky manner.  Any expression of concern from Robin gets waved off, a bit apologetically, with a, “Not here, also not enough time to explain” and an earnest, “I *need* to tell you though, I won’t forget.”
   
 Celyn is still at least slightly oblique about talking about this, at least partly because he’s still disconcerted by it - not upset, just unnerved.  He refers to the fey as “The lady’s companion” and says that he “is from a small kingdom wedged between home and this part of Sembara”, rather than specifying the name of the place in the Feywild.  “Someone from Twilight’s Grace asked his lord to send someone to keep an eye on me.  Specifically.”

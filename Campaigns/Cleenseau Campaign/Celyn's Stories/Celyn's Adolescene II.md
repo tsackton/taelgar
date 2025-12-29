@@ -1,4 +1,8 @@
-  The three of them were settled in the dappled shade of the foothills, not up into spaces the fey claimed, but looking over the pasture.  Not that any of them were looking that way; Ellis was leaning up against a tree, with Celyn sprawled into his lap.  Llew had claimed a different tree and was mirroring Ellis’s pose, long legs spread out, though he was thoughtfully drilling holes into a new pipe.  
+---
+tags: [source]
+---
+
+The three of them were settled in the dappled shade of the foothills, not up into spaces the fey claimed, but looking over the pasture.  Not that any of them were looking that way; Ellis was leaning up against a tree, with Celyn sprawled into his lap.  Llew had claimed a different tree and was mirroring Ellis’s pose, long legs spread out, though he was thoughtfully drilling holes into a new pipe.  
         Of course, having Celyn in his lap meant that Ellis had to set the crwth aside, which he had done, propping it up on Celyn’s drum.  He was idly running his fingers through Celyn’s hair.  
         “Is my hair getting too long?  I can’t tell.”  
         “One,” said Ellis, “if you can’t tell if it’s too long it’s obviously not too long.  And two, your decision about when it’s too long comes about through some process that is absolutely invisible to anyone else, and which appears to be completely random.”  

@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 # [[El|El's]] Story
 _As told to Celyn, in [[Asineau]], January 11th, 1720, in response to [[Celyn's Story of Getting His Name]]_
 

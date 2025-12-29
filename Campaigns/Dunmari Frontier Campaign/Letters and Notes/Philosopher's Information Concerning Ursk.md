@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 Dear Delwath, and companions, 
 
 You wish to travel to [[Ursk]], and explore its cities undetected. A foolish task. Do you speak the language? Do you know the local dress and customs? You blaze with magic - how will you evade the Okolov, the [[Eyes of Vedmakov]]? What do you understand of the cold north, the icy winds that blow from the dragon wastes, the frozen rivers, the rime frost forming strange figures on the frozen mountains? Stay in the soft lands of the south, where you belong.

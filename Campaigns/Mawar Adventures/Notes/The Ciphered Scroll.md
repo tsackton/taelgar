@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 ## The Ciphered Scroll of Azar
 (written in coded text)
 

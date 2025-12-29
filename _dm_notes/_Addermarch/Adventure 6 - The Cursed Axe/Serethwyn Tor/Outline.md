@@ -23,3 +23,4 @@ Four areas:
 (4) Serpentine Temple / Boss Fight
 
 Let's aim for 1-2 encounters at the main fort. Need to sketch out a basic map and flow chart. Probably can stop when they enter the mine today, so only need the fort and the entrances. 
+

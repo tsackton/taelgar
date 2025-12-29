@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 Six years ago, his wife and two teenage boys drowned on the way to market, in a small village on the eastern coast of the Mawakel Peninsula. Azar was devastated, and turned to gatza in his grief. Lost in the imagined world of the voices of his dead family, he became addicted. Until one day, a year later, he heard another voice, the voice of Gazankoa, promising him help in exchange for his service. Soon after, a knife washed ashore. Azar doesn't clearly remember all his actions in those early years; he started writing things down in his clearer moments so he would remember his purpose was to save his wife. He knows he killed several people, stabbing them with the knife and watching their blood turn to dust, then filling their bodies with the ocean. But they never lived and never spoke with his wife's voice.
  
 Some time later, he learned of Airion. He doesn't remember exactly how, or from who. But he took the knife and went into the mountains, hoping to learn more and maybe find answers. The time in the mountains is mostly a blank; he remembers the dreams more clearly than his waking moments, and the strength of Gazankoa flowing through him, saving him many times. 

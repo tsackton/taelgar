@@ -1,3 +1,6 @@
+---
+tags: [meta]
+---
 # Index of Changes
 This page lists plot relevant or otherwise interesting updates I've made, organized by date, focusing on pages that are relevant to the Cleenseau Campaign. 
 

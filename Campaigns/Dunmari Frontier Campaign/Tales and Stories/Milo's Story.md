@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 *The latest journey had been such a joy. The Stormdancer left Cedrano early in the spring, over a year ago now, heading south. In a month, they were south of Illoria; in two, sailing through the strange waters of the Sea of Storms, dodging storms and passing arcane islands dotted with ancient ruins. Then, months of sailing strange coastlines, seeing the vast gleaming city of gold (Takano), the islands of living bridges connected by great vines growing across the channels, the bustling markets in the kingdom full of the most tempting smells. By the time we turned north, the Stormdancer's hold was full of delicacies and our hearts full of strange tales of the south.
 
 *But of course the wonders of the sea are ever-present, and there was no way we were going to travel a straight course. In the southern reaches of Illoria, we heard tell of a fallen star in the vast mangroves on the western coast of Apporia, that light up the lagoons at night. Of course, how could we resist. so we sailed the long western route, instead of through the canal. It was this that brought the Stormdancer to the silent sea, the dead calm above the city of Omi, and all that came next.*

@@ -1,6 +1,8 @@
 ---
 excludePublish: ["all"]
+tags: [source]
 ---
+
 Travelling with the Players was very good for what Celyn considered his most important work: taking care of the Wyrdling’s people.  Which was, on the one hand, looking out for Josse, as a playwright, and also possibly a bit mad, but on the other, they went through any number of small villages that might have people like him, who he could find and help.  Sometimes he got a little nudging sense to go somewhere and find someone, and more often than not it meant finding someone to help, in particular.  
 
 It was quiet, satisfying work, but the sort of quiet and satisfying that he thought would not last forever.  Still, it was good to come back through a village and see one of the people he thought of as his people turn up at the show, doing well - maybe with more curves, or a deeper voice, or having found the interesting combination of being that served them best.  He was always glad of it, and them.  

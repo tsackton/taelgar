@@ -1,3 +1,8 @@
+---
+tags: [meta]
+---
+
+
 The [[Jacques Bellemont|Duke's]] camp is a busy place, and in the course of the evening, much information is exchanged. In particular, you speak for some time with [[Marcel Desrosiers]], the captain of the Duke's household guard, who is currently serving as something of a liaison with various soldiers, army regimental commanders, and so on, and [[Yolande Leclair]], a disciple of the Night Queen, and servant of [[Raoul Boulain]]. Raoul himself seems to have disappeared, although Yolande will only say that she trusts he is where the Night Queen needs him to be. [[Armand]] seems unphased by his disappearance, and adds that Raoul was very interested in the body of the zombie eel, currently at the Night Queen's temple in [[Rinburg]]. 
 
 From Marcel, you learn the basic lay of the land:   

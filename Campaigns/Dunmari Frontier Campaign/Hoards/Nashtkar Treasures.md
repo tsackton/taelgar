@@ -1,3 +1,8 @@
+---
+tags: [meta]
+typeOf: hoard
+---
+
 ## Found in Kharsan
 
 - Tools and glasswork from glassblower's shop in [[Kharsan]], in northern ruins ([[Kharsan]]; [[Delwath]]) We looked at these in the mirror: [[Kharsan Broken Glassware Vision]]

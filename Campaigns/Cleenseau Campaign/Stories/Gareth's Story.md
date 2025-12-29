@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 # [[Gareth of Tollen|Gareth's]] Story
 _As told to the [[Heroes of Cleenseau]], in [[Cleenseau]], February 6th, 1720, during his interrogation before his execution for banditry._
 

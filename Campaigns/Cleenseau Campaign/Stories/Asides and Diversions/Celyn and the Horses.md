@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 # Celyn Talks to Horses
 
 It wasn’t most days, but it was a number of them, that Celyn would go and take his time making sure the horses were fed, tracing out the slow patterns that meant that by the time they were settled and ready to be tacked up he could hear them whickering and muttering among themselves and understand what they meant by it.  

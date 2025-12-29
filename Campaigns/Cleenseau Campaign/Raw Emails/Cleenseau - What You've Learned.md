@@ -1,6 +1,9 @@
+---
+tags: [meta]
+---
+
 Hi all,  
 
-  
 
 I'm going to assume that you went and talked to Wymar, and this email outlines a couple of things: (a) some general background, (b) what you learned recently from Jonathon Henwyn (the steward), (c) Wymar Essford (the old lord), (d) Harold Stonebridge (the halfling child), (e) Béatrix (the woman who just miscarried a zombie baby)
 

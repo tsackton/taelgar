@@ -1,4 +1,7 @@
-
+---
+tags: [meta]
+typeOf: hoard
+---
 ## Gifts
 
 **Magic**

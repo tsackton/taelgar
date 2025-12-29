@@ -1,3 +1,7 @@
+---
+tags: [meta]
+typeOf: hoard
+---
 # Treasure from the Elemental Forge
 
 The treasure recovered from the [[Elemental Forge]].

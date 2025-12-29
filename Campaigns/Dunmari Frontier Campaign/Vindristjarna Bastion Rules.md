@@ -1,3 +1,6 @@
+---
+tags: [meta]
+---
 # Vindristjarna Bastion Mechanics
 
 Vindristjarna carries with it a number of special facilities that provide in game benefits. Currently, Vindristjarna has the following special facilities, described in detail below, and associated with the following people.

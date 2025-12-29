@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 # First Dream of Rai
 (shared by [[Alayah]] and [[Kenzo]] in the [[~Te'kula village~|Te'kula village]])
 

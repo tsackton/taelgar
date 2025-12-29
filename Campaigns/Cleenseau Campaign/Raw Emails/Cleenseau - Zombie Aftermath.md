@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 Here's a summary of what you know and what has happened so far....
 
 About an hour and a half after sunrise, Robin went to the Temple of the Warlord (the large temple in the stone plaza, on the map), and shortly after Béatrix came seeking him. They left the temple and had a quiet conversation around the side of the temple nearest the manor, and then arrived at Margaret Ashford's midwifery about thirty minutes later. Béatrix was inside for about 10 minutes before the zombie attack. In the aftermath of the attack, you immediately started quizzing Maragret about other pregnant women or recent births in town. She tells you about the following:

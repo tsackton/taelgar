@@ -1,48 +1,49 @@
 ---
+tags: [source]
 excludePublish: ["all"]
 ---
 
-“Come on, Llinos!  Don’t be lagging!”  
-        Cynog was grumpy, but he was often grumpy, particularly with his youngest sibling - seven years younger and easily distracted, in this case by a flight of geese headed for the river to the west.  It was a gruff fondness, more often than not, rather than real annoyance.  
-        Said youngest sibling waited for the geese to pass to the far side of the sky before making certain of the grip on a bundle of flowers and hurrying along behind Cynog.  They were going to Nefyn, and Nefyn was rather exciting compared to Clawyn; more specifically, they were going to see Delyth the Dyer.  
-        The one called Llinos was more than a little uncertain of the web of trade and favor-trading that was involved there, but did know a few things.  First, that Delyth the Dyer needed lots of different sorts of plants, in quantity, to deal with the wool from Rassau and the mohair from Clawyn and whoever else had fleece, there were probably others.  Rassau was simply the known factor, up in the hills like Clawyn but not having the right sunlight or something for vines.  Second, that the people who supplied those plants were sometimes paid in coin, and sometimes in favors for later, which is how Cynog had his bright red coat that he was so pleased with.  And, of particular relevance to this hike, that the new leaves off the apple trees were among the things that Delyth the Dyer could make use of, which is why the whole family - and several others - had been up in the branches in the grove thinning leaves to put in the sack that Cynog was carrying.  
-        All in all it was a wondrous and magical trip, even if Cynog was grumpy about having an eight-year-old tagging along behind.  
-        The dyer’s house was surrounded by strictly organized gardens.  The dye-weed was in bloom, its bright yellow flowers in their clusters spilling scent everywhere; neighboring beds were full of plants whose season had not yet come for blooming.  Right up near the door were four beds that seemed to have the same plant - one thick with green stems and slender leaves, but with a sign stuck to the front of it with an arc of stars over a crown, where the bed marked with flowers and a full moon was thin of plants.  Llinos turned in place to confirm that, yes, the other two beds had signs too, one with the sun over grain, and one with a hammer and autumn leaves.  
-        “Mistress Delyth?  It’s Cynog Bettws from Clawyn, we’ve the apple leaves for this season.”  
-        Mistress Delyth opened the door.  She was an adult, but not old enough to have grey in her glossy hair, and she wore the blue that came of dye-weed.  “And who’s this, then?” she asked.  
-        Cynog nudged Llinos, who bowed, careful not to drop the armful of flowers.  “You may call me Llinos.”  
-        “A fine name.  Come in, let me get my book.  What are the shares?”  
-        Cynog swung the sack around and put it where she pointed.  When she had the book down he said, “Four share for Bettws, three for the Crowthers, one each for the Lloyds and the Rheons.  And a half share for old lady Medwin.”  
-        Delyth looked up.  “A half share?”  
-        “Nye Medwin, he passed on at midwinter, and we all agreed on a half-share’s worth for the widow, ma’am.  She could do with some new bright.”  
-        The dyer looked like she wanted to say something, but eventually just pursed her lips slightly and said, “Kind of you all to think of her.”  
-        “Ma’am.”  
-        “Why aren’t you happy about it?” Llinos asked.  
-        “Llinos!” Cynog said, sharp and scandalized.  
-        Delyth laughed.  “Oh, it’s just that a half-share messes my maths.  But I’ve put you in for eight shares for Bettws, six for the Crowthers, two for the other families, and one for the widow, and that works out just fine.”  
-        “Oh,” said Llinos.  “Okay.”  
-        “That’s twice as much as we brought, ma’am, that’s hardly fair to you.”  
-        She shook her head and rubbed the bridge of her nose.  “Don’t you worry about it.  I’ll do it out by the weight of what you have.”  
-        Cynog looked uncertain and anxious about it.  Llinos watched him for a moment and then asked, “Why does the plant in front of your house with the most, um, the most plants have the Night Queen sign?  And the one with hardly any have the Mother sign?”  
-        That seemed to defuse the confusing situation.  Delyth chuckled and scooped up the sack and poured out the leaves into a basket for weighing.  “The madder root is harvested just before winter.  The Night Queen marks the one that I’m to harvest then.  Then I replant the new roots, and move the signs one season around, so the new planting is in spring, with the Mother, and it has four years to get nice fat roots before I dig it up again.”  
-        “Moving the signs every time you harvest,” Llinos said thoughtfully.  “Okay.”  
-        “And what is it you have there, Llinos?”  
-        “Queen’s lace.”  
-        “Queen’s lace?  You’re certain you have that and not hemlock.”  
-        Llinos sighed the sigh of someone who did not understand why all the adults kept asking that question.  “The stems are sort of fuzzy, the flowers are resting in a cup of leaves, and the green isn’t blotched with purple like someone who’s got poison in them.  It’s Queen’s lace.”  After a pause, there was an additional sulky, “The lady said you’d like it.”  
-        “The lady?”  
-        “The green lady.  But she told me not to take all of it, just half.  But this is half.”  
-        “The ... green lady.”  Delyth paused in her scooping up the weighed leaves to look at Cynog.  
-        He cleared his throat.  “We suspect some sort of forest nymph, ma’am, but don’t you worry, she’s got the knack of making them like her, she’d not have poison from there.”  
-        The dyer considered a moment and then accepted the bundle of flowers.  “An uncanny one, then.  All right.”  
-        “She’ll be apprenticing to mind the standing stones and such when she’s a little older, ayup.  Keeps her out of trouble.”  He ruffled Llinos’s hair, causing a profound pout.  
-        “And this is all Bettws share?”  
-        “Yes,” said Cynog, and Llinos did not appear to object.  “Come on, we’ve got errands.”  
-        Llinos laughed, sulk forgotten.  “You just want to go see Ffraid.”  
-        Cynog’s complexion was the sort that showed blushes quite well.  
-        “He thinks Mama doesn’t know,” the child added to Delyth.  “But she lets him do most of the errands to Nefyn.”  
-        The dyer laughed, her tension defused somewhat by a more normal sort of uncanny perceptiveness.  “I don’t think your brother wanted you to notice that.  Possibly not your mother either.”  
-        Llinos shrugged, and followed Cynog out as he departed, his ears still bright red.  
+	“Come on, Llinos!  Don’t be lagging!” 
+	Cynog was grumpy, but he was often grumpy, particularly with his youngest sibling - seven years younger and easily distracted, in this case by a flight of geese headed for the river to the west.  It was a gruff fondness, more often than not, rather than real annoyance.  
+	Said youngest sibling waited for the geese to pass to the far side of the sky before making certain of the grip on a bundle of flowers and hurrying along behind Cynog.  They were going to Nefyn, and Nefyn was rather exciting compared to Clawyn; more specifically, they were going to see Delyth the Dyer.  
+	The one called Llinos was more than a little uncertain of the web of trade and favor-trading that was involved there, but did know a few things.  First, that Delyth the Dyer needed lots of different sorts of plants, in quantity, to deal with the wool from Rassau and the mohair from Clawyn and whoever else had fleece, there were probably others.  Rassau was simply the known factor, up in the hills like Clawyn but not having the right sunlight or something for vines.  Second, that the people who supplied those plants were sometimes paid in coin, and sometimes in favors for later, which is how Cynog had his bright red coat that he was so pleased with.  And, of particular relevance to this hike, that the new leaves off the apple trees were among the things that Delyth the Dyer could make use of, which is why the whole family - and several others - had been up in the branches in the grove thinning leaves to put in the sack that Cynog was carrying.  
+	All in all it was a wondrous and magical trip, even if Cynog was grumpy about having an eight-year-old tagging along behind.  
+	The dyer’s house was surrounded by strictly organized gardens.  The dye-weed was in bloom, its bright yellow flowers in their clusters spilling scent everywhere; neighboring beds were full of plants whose season had not yet come for blooming.  Right up near the door were four beds that seemed to have the same plant - one thick with green stems and slender leaves, but with a sign stuck to the front of it with an arc of stars over a crown, where the bed marked with flowers and a full moon was thin of plants.  Llinos turned in place to confirm that, yes, the other two beds had signs too, one with the sun over grain, and one with a hammer and autumn leaves.  
+	“Mistress Delyth?  It’s Cynog Bettws from Clawyn, we’ve the apple leaves for this season.”  
+	Mistress Delyth opened the door.  She was an adult, but not old enough to have grey in her glossy hair, and she wore the blue that came of dye-weed.  “And who’s this, then?” she asked.  
+	Cynog nudged Llinos, who bowed, careful not to drop the armful of flowers.  “You may call me Llinos.”  
+	“A fine name.  Come in, let me get my book.  What are the shares?”  
+	Cynog swung the sack around and put it where she pointed.  When she had the book down he said, “Four share for Bettws, three for the Crowthers, one each for the Lloyds and the Rheons.  And a half share for old lady Medwin.”  
+	Delyth looked up.  “A half share?”  
+	“Nye Medwin, he passed on at midwinter, and we all agreed on a half-share’s worth for the widow, ma’am.  She could do with some new bright.”  
+	The dyer looked like she wanted to say something, but eventually just pursed her lips slightly and said, “Kind of you all to think of her.”  
+	“Ma’am.”  
+	“Why aren’t you happy about it?” Llinos asked.  
+	“Llinos!” Cynog said, sharp and scandalized.  
+	Delyth laughed.  “Oh, it’s just that a half-share messes my maths.  But I’ve put you in for eight shares for Bettws, six for the Crowthers, two for the other families, and one for the widow, and that works out just fine.”  
+	“Oh,” said Llinos.  “Okay.”  
+	“That’s twice as much as we brought, ma’am, that’s hardly fair to you.”  
+	She shook her head and rubbed the bridge of her nose.  “Don’t you worry about it.  I’ll do it out by the weight of what you have.”  
+	Cynog looked uncertain and anxious about it.  Llinos watched him for a moment and then asked, “Why does the plant in front of your house with the most, um, the most plants have the Night Queen sign?  And the one with hardly any have the Mother sign?”  
+	That seemed to defuse the confusing situation.  Delyth chuckled and scooped up the sack and poured out the leaves into a basket for weighing.  “The madder root is harvested just before winter.  The Night Queen marks the one that I’m to harvest then.  Then I replant the new roots, and move the signs one season around, so the new planting is in spring, with the Mother, and it has four years to get nice fat roots before I dig it up again.”  
+	“Moving the signs every time you harvest,” Llinos said thoughtfully.  “Okay.”  
+	“And what is it you have there, Llinos?”  
+	“Queen’s lace.”  
+	“Queen’s lace?  You’re certain you have that and not hemlock.”  
+	Llinos sighed the sigh of someone who did not understand why all the adults kept asking that question.  “The stems are sort of fuzzy, the flowers are resting in a cup of leaves, and the green isn’t blotched with purple like someone who’s got poison in them.  It’s Queen’s lace.”  After a pause, there was an additional sulky, “The lady said you’d like it.”  
+	“The lady?”  
+	“The green lady.  But she told me not to take all of it, just half.  But this is half.”  
+	“The ... green lady.”  Delyth paused in her scooping up the weighed leaves to look at Cynog.  
+	He cleared his throat.  “We suspect some sort of forest nymph, ma’am, but don’t you worry, she’s got the knack of making them like her, she’d not have poison from there.”  
+	The dyer considered a moment and then accepted the bundle of flowers.  “An uncanny one, then.  All right.”  
+	“She’ll be apprenticing to mind the standing stones and such when she’s a little older, ayup.  Keeps her out of trouble.”  He ruffled Llinos’s hair, causing a profound pout.  
+	“And this is all Bettws share?”  
+	“Yes,” said Cynog, and Llinos did not appear to object.  “Come on, we’ve got errands.”  
+	Llinos laughed, sulk forgotten.  “You just want to go see Ffraid.”  
+	Cynog’s complexion was the sort that showed blushes quite well.  
+	“He thinks Mama doesn’t know,” the child added to Delyth.  “But she lets him do most of the errands to Nefyn.”  
+	The dyer laughed, her tension defused somewhat by a more normal sort of uncanny perceptiveness.  “I don’t think your brother wanted you to notice that.  Possibly not your mother either.”  
+	Llinos shrugged, and followed Cynog out as he departed, his ears still bright red.  
   
 ***  
   

@@ -1,3 +1,6 @@
+---
+tags: [status/stub, object]
+---
 
 
 

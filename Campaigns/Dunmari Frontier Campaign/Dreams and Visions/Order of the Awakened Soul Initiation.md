@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 # Order of the Awakened Soul Initiation
 
 

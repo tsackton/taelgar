@@ -1,3 +1,7 @@
+---
+tags: [meta]
+typeOf: hoard
+---
 # Treasure from the Copper Hills
 
 ### Magic 

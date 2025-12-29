@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 Viepuck at some point when the chaos starts winding down will note that he is intending to meet Lenora before either we or she leaves.  This isn’t quite stated as an invitation, but isn’t NOT an invitation?  He won’t motion for anyone else to come along but also won’t stop them.   
   
 When Lenora is finally spotted, assuming we spot her first, Viepuck will sort of que-up-to-be-noticed.  A bit hesitant, not wanting to get in the way, obviously nervous in that way of someone meeting a bigger-than-life idol.  When he gets a chance to speak it will staggered, choppy and coming-up-to-speed in a way that you’ve never seen him hesitate speaking before.   

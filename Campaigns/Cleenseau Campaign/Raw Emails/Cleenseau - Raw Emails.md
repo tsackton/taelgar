@@ -1,1 +1,5 @@
+---
+tags: [meta]
+---
+
 This folder contains a number of raw emails that were sent to my players, or that served as play-by-email back and forth, that contain either meaningful Taelgar in-world information, or serve as mini-session notes.

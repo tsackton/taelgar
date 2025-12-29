@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 One background note, that at least Viepuck would definitely know. The Royal Council being called here is a specific legal thing - specifically if the king wants to raise certain taxes (i.e. the War Tax [https://msackton.github.io/taelgarverse1720/gazetteer/greater-sembara/sembara/taxes-in-sembara/#war-taxes](https://msackton.github.io/taelgarverse1720/gazetteer/greater-sembara/sembara/taxes-in-sembara/#war-taxes)) it requires assent of his major vassals, in particular the six dukes (of Sembara, Wisford, Telham, Arnsbury, Cheimin, and Seham). Other similarly major royal initiatives (i.e. a major change to the army, declaration of a new heir, certain legal decrees, accusations of crimes against a duke, etc) would usually be presented to the royal council for their assent. Beyond that, in times of crisis, one of the things a vassal owes their lord is counsel and support.
 
 For example -- and this is very much just an example, I don't mean to imply you have any evidence this is true -- if the King had evidence that the Duke of Sembara (Sembara is a duchy as well as the realm itself, and a very powerful one) was causing problems, it would be fairly unlikely that he would just move against the Duke, without first presenting evidence to the other dukes and getting their agreement. 

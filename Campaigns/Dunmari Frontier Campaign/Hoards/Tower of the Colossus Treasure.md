@@ -1,3 +1,8 @@
+---
+tags: [meta]
+typeOf: hoard
+---
+
 ## Treasure from the Tower of the Colossus
 
 - A [[Taurion's Manual of Golems|manual of stone golems]], found in the basement storeroom guarded by a stone golem.

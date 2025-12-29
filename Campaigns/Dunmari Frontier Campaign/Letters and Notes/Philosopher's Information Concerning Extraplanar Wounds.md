@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 To the petitioners who inquire how a wound between worlds is made to cease its respiration,
 
 How exquisite that you ask. I keep a catalogue of such lesions and confess pleasure in their anatomy. Attend to the first and only generality: there is no universal closure for such rifts. Gates obey craft; tempests, vortexes, and upwellings do not. Each breach between planes presents its own configuration of strain, flow, and habit. One studies that wound or one fails it.

@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 A bit of background for the game today.
 
   

@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 Dear those who would cross the endless chaos,
 
 You ask how to go, and how to remain long enough to do work, in Limbo, the place without shores. Though I do not enter such a place, for my bonds do not allow it, I keep my watch and see all that passes too and fro, and compile this guide to from the footsteps of those who travel into chaos. 

@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 *This is a collection of notes and information gathered for you by the [[Mitus Verina Auratan|Magistros]], concerning [[chalyte]] in the [[Chataan Mountains]], on the southern border of the [[Chardonian Empire]]*
 
 ## A Short History of Alta Tonaro

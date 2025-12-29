@@ -1,3 +1,8 @@
+---
+tags: [meta]
+typeOf: hoard
+---
+
 ## Magic
 
 - [[Dwarven Driftglobe]] (uncommon minor item). Found two of these in the [[Dwarven Outpost (Raven's Hold)]], once belonging to the dwarves who lived there. 

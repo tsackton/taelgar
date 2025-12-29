@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 Across Dunmar, the coming of the rains marks the turning of the seasons, the transition from the hot, dusty summer at the end of the dry season, to the lush green of the monsoon.
 
 In the south and west, on the other side of the Yuvanti Mountains, it has been raining for weeks already. The rivers are in flood, the Nayan and the Shrev overflowing their banks and nourishing the fields and farms of western Dunmar. The grass and trees of the dry savannah are springing to life, as animals -- wild and domestic -- feast on the fresh shoots.

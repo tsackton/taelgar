@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 While in [[Champimont]], you hear a number of rumors, listed below. I've added notes about sources and what information [[Vahaiya]] or some of their Rangers can confirm. Some of these are potentially repeats of rumors you heard elsewhere.
 
 There are a number of people with family or relationships with the Western Army who seem to be fleeing towards the army, with the idea that it might provide safety. These people are your main source of reliable news. There do not seem to be any official messengers or dispatch riders, although perhaps the lord of Champimont, Lord [[Raoul Montagu]], would know more. (You could certainly call on him in the morning if you wanted, although that might delay your start to [[Rinburg]]).

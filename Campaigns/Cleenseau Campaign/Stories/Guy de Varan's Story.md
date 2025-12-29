@@ -1,3 +1,6 @@
+---
+tags: [source]
+---
 # Guy de Varan's Story of Orc Raids
 _As told to the [[Heroes of Cleenseau]], in [[Cleenseau]], December 4th, 1719_
 

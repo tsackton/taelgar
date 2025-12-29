@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 meta: continuing to split this up; this contains the results of the search of the Tower of Records; one more email about the mind-reading of the chamberlain and the discussion on the group still to come. for those with minimum energy skip down to the bit I've flagged as **MOST INTERESTING PART**]
 
   
