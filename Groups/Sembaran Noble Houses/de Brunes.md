@@ -2,6 +2,7 @@
 tags: [group, status/stub, status/check/mike, status/check/tim, status/check/ai]
 dm_owner: mike,tim
 dm_notes: none
+typeOf: family
 ---
 
 # The de Brunes

@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 DR: 1748-09-22
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # Hralgar's Eyes Vision
 >[!info]+ Information  

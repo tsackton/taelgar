@@ -7,6 +7,7 @@ DR: 965
 DR_end: 971
 dm_owner: tim
 dm_notes: important
+typeOf: war
 ---
 # The Drankorian Civil War
 >[!info]+ Information

@@ -2,6 +2,7 @@
 tags: [status/stub, group, status/check/ai]
 dm_notes: important
 dm_owner: tim
+typeOf: army
 ---
 
 # The Umbral Covenant

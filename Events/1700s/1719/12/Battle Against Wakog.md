@@ -5,6 +5,7 @@ name: Battle Against Wakog
 dm_owner: none
 dm_notes: important
 DR: 1719-12-06
+typeOf: battle
 ---
 # The Battle Against Wakog
 >[!info]+ Information  

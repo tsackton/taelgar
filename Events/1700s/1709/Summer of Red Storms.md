@@ -5,6 +5,7 @@ DR: 1709-06
 DR_end: 1709-08
 dm_notes: important
 dm_owner: tim
+typeOf: raid
 ---
 # The Summer of Red Storms
 >[!info]+ Information

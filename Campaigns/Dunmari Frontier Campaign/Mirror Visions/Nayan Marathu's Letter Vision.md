@@ -5,6 +5,7 @@ displayDefaults: {dPastHasStart: "Seen on <startdate>"}
 name: Nayan Marathu's Letter Vision
 DR: 1749-02-02
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # The Nayan Marathu's Letter Vision
 >[!info]+ Information

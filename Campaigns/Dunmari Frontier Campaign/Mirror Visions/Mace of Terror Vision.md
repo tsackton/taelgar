@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 DR: 1748-09-14
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # Mace of Terror Vision
 >[!info]+ Information  

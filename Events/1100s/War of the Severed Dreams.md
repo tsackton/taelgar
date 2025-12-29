@@ -7,6 +7,7 @@ DR_end: 1196
 whereabouts: Apporia
 dm_owner: tim
 dm_notes: none
+typeOf: war
 ---
 # The War of the Severed Dreams
 >[!info]+ Information  

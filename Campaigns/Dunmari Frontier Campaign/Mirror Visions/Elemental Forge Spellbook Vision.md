@@ -5,6 +5,7 @@ displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 name: Elemental Forge Spellbook Vision
 DR: 1749-06-23
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # Elemental Forge Spellbook Vision
 >[!info]+ Information  

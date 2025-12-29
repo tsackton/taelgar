@@ -1,5 +1,6 @@
 ---
-tags: [object]
+tags: [meta]
+typeOf: hoard
 ---
 ### Forge Metals
 

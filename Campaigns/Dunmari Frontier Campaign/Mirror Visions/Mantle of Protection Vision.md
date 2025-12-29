@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 DR: 1748-12-09
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # Mantle of Protection Vision
 >[!info]+ Information  

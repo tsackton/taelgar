@@ -5,6 +5,7 @@ displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 name: Apollyon's Soulbinding Manacles Vision
 DR: 1749-05-19
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # Apollyon's Soulbinding Manacles Vision
 >[!info]+ Information  

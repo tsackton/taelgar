@@ -4,6 +4,7 @@ tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 DR: 1748-08-29
 timelineDescriptor: Dunmari Frontier Campaign
+typeOf: vision
 ---
 # Shadow Hunter's Mask Vision
 >[!info]+ Information  

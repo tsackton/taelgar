@@ -1,5 +1,6 @@
 ---
-tags: [object]
+tags: [object, status/stub]
+typeOf: wonderous item
 ---
 
 ## Rod of Elmerca

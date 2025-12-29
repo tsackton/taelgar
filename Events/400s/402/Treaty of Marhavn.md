@@ -5,6 +5,7 @@ name: Treaty of Marhavn
 DR: 402
 dm_owner: none
 dm_notes: none
+typeOf: treaty
 ---
 # The Treaty of Marhavn
 >[!info]+ Information
