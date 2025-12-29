@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 Before the miracle, Celyn had never thought much about appearances.  He had been a furious, feral child, who had the sort of responsibilities that the fey-touched and peculiar had, and that did not at all depend on looking like anything in particular.  If his hair had sometimes been full of leaves, that was not out of the ordinary for what he was, unlike perhaps the normal sorts of village girls like he had never been.
 
 His hair was shorter now, and unlikely to hold onto any leaves.  He fidgeted with the ends of it as it brushed his jawline.  It helped people remember that he had a new name, at least, though not everyone was as good at it as Ellis.  But Ellis was a special case, and saw through to the heart of him from the beginning, and asked gently about things like where he could touch and whether they needed to spend less time kissing so that Celyn’s pain at being aware of himself would ease.  He could even trust Ellis to stand guard when he needed it, washing up in the hills, in perfect faith that no matter what Ellis saw, he knew he was seeing a man.  Other people would adjust, sooner or later; he wasn’t worried about that. He had talked with Grandfather Trefor in Nefyn, and Grandfather Trefor had assured him it would happen soon enough.

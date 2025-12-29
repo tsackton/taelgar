@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 *As the noise of battle echoes above, [[Govir]] crouches among the empty barrels of this basement storeroom. With the scent of blood, a image flashes through his mind: leaning over a dead body, tearing at flesh. He briefly is overcome by imagining leaping up, letting the wild strength rush over his body, reveling in the power of his hands growing to claws, his teeth to fangs. But, like so many times before, he pushes the desire away, muttering a soft prayer to [[Jeevali]] to keep him safe, to keep him in control.
 
 *He thinks of the nightmare his life has become in the past month, not daring yet to hope his unexpected rescuers may succeed, winning not just the battle above but finding a cure for his curse. A month ago, he was riding high on the joy of discovery, after [[Hada]] uncovered letters from [[Ila]], and a map. Here was a chance to do some real exploring, to uncover the mysteries that surrounded the [[Fraternity of the Empty Moon]]! The gods are great and would lead him to knowledge, surely. Of course he rushed off with [[Hada]] to explore, stopping only to ask the old veterans at [[Darshana's Caravanserai]] if they knew anything more. Who could wait when the thrill of discovery was right there?

@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 # In the destruction of Eftly
 _A background story, January 16th, 1720_
 

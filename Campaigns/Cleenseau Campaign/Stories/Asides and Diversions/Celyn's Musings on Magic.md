@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 # Celyn's Musings on Magic
 
 >[!Info]- This is Celyn's thoughts on magic; please don't read it unless it has been revealed in game

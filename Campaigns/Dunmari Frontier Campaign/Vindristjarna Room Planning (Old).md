@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 # Upper Deck
 *480 squares*
 

@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 # Scrying, Feb/March 1749
 
 ## Apollyon

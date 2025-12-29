@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 Dear Samso,
 
 It is my pleasure to pass along the research I have been able to gather concerning the Umbral Covenant and the strange sigil you have found in several places. I am currently stuck dealing with political troubles in Chardon, but I hope to return to Voltara soon and speak with you and your companions again. Rumors of your prowess reach me even here. 

@@ -1,3 +1,8 @@
+---
+tags: [meta]
+typeOf: hoard
+---
+
 ## Acquired from Shadowkeep
 
 A gold-gilded black breastplate engraved with the silhouette of a dragon %%SECRET[1]%%

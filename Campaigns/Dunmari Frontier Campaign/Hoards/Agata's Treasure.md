@@ -1,3 +1,7 @@
+---
+tags: [meta]
+typeOf: hoard
+---
 # Agata Dustmother's Treasure
 
 ## Taken from Agata's Person

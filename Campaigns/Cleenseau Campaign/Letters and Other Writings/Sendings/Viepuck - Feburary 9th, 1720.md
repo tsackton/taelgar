@@ -1,3 +1,8 @@
+---
+tags: [source]
+---
+
+
 From Viepuck to [[Damien Montrichard]]: 
 > Haven’t heard from you, RuOk? Help is on the way, I can message them 4U.  25 words.
 > Response: Near [[Veltor]]] Zombies stubborn - skeletons arose in old caves some trouble. Rallying.troops need more. Sent for help - Rinburg - Fellburn - no responses - worried.

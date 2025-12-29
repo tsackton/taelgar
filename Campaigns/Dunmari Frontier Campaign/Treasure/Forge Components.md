@@ -1,3 +1,6 @@
+---
+tags: [object]
+---
 ### Forge Metals
 
 A total of 132 small metal bars, neatly organized. Each bar is roughly 8 inches long, 4 inches wide, and 4 inches tall. Each is labeled in small, cramped Drankorian writing etched into the surface of the metal bar. 

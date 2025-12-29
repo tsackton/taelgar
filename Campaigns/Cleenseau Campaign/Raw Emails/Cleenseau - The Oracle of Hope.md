@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 As afternoon stretched into evening, the audience with the Duke over, the party is watching a stream of people walking up the hill from Fellburn to the Oracle of Hope, sometimes called the Singing Tree or the Crystal of Time, among the wizards, the twisted beacon of hope that has sat on the hill above Fellburn for time immemorial.
 
 The Oracle of Hope

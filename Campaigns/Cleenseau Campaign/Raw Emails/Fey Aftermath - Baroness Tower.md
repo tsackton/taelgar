@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 After exploring the Tower of Records, Areschera's domain, the party and your witnesses move on to the Baroness' Tower. Unlike the Tower of Records, this tower is not empty of people, although it is not as full as normal.  
   
 You enter through the main door, which brings you to a small guardroom and another door, beyond which is the central spiral staircase and two small sitting rooms. There is a guard in the guardroom, looking a bit tired and bored - guarding the Baroness' tower when she is away from the castle, especially during the day, is clearly not the most interesting job. She perks up a bit when you enter, and looks fascinated by the tale of the fey. On Perette's authority she happily allows you all to pass.

@@ -1,3 +1,7 @@
+---
+tags: [meta]
+typeOf: hoard
+---
 ## Apollyon's Tower Treasure
 
 ### Magic Items

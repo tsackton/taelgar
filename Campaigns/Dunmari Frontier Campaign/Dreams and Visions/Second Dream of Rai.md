@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 # Second Dream of Rai
 
 (shared by [[Alayah]] and [[Kenzo]] in [[Session 52 (DuFr)]])

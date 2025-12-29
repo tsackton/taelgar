@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 The Writhing Chaos consumes.
 
 The Writhing Chaos sees.

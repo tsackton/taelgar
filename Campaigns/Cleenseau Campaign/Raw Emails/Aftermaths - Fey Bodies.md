@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 >Obviously at some point we loot the magic items.  We should make sure to keep the bodies of the dusk hound and Areschera separated?  Ceyln, I’m not sure what appropriate fey disposal process is?  Bury?  Burn?  Throw in the woods to be eaten by birds (this seems like really bad idea that would likely have consequences)? 
 
   

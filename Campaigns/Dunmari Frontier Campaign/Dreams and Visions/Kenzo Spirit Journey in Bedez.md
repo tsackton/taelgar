@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 # Kenzo Spirit Journey in Bedez
 
 ![[plane-of-consciousness.png|500]]

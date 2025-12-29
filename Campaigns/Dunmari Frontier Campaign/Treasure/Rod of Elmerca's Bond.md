@@ -1,3 +1,7 @@
+---
+tags: [object]
+---
+
 ## Rod of Elmerca
 
  +1 Rod of the Pact Keeper

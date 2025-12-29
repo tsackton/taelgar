@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 A vision seen by the party upon gaining the third [[Jade Piece of Rai's Hand]].
 
 *As Kenzo grabs the jade fragment, the world shifts.*

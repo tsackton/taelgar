@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 ## The Last Jade Vision
 
 As you drift off to sleep, you all find yourselves in a shared dream. The first thing you see is something you've seen before. You're standing on top of a high mountain pass, with this massive shadow dragon above you, and then Rai, like, everybody fighting. Beryl had a quarterstaff, and Aerin had some weird shadow dagger. Then, the moment when Cha'mutte dies—there's this silent flash that crosses the world, and suddenly you're yanked as Rai teleports to Drankor. You see what you haven't seen before: standing right outside this elaborate tomb, a structure where you gather Apollyon is buried, and there's a dagger flying towards the door. Rai grabs it in his hand moments before it strikes the door and stands there. 

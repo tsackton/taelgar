@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 The Duke's command tent is fine and functional, and as the afternoon light wanes Celyn, Robin, and Viepuck find themselves gathered in the back of the tent, along with about dozen clerks, guards, courtiers, and hangers-on. The Duke is holding court, and Marcel, the captain of the guard, has invited the party for an audience when the court's business has finished. 
 
 The Duke starts with an announcement. He, and his immediate court will be departing for Embry as the sun sets, with urgent business with the King. He is leaving behind Marcel and three regimental captains, and the bulk of the army, to help reestablish order along the Enst. He is bringing a small contingent with him to Embry, and sending home the soldiers he borrowed from the least prepared places. He reads a missive, to his barons and lords, which he is distributing far and and wide, which reads, slightly summarized: 

@@ -1,3 +1,8 @@
+---
+tags: [meta]
+typeOf: hoard
+---
+
 ## Treasure Acquired in [[Apporia]] 
 
 - 6 potions of transformation, plus 6 doses of antidote. The potions of transformation are literally that, transformations. While under the effects, you gain gills but lose lungs. You can now breath water, but not air. Have no effect on swim speed, and last until the antidote is taken or the magical transformation is dispelled. A gift from [[Kazuro]] in exchange for a [[Session 99 (DuFr)|promise to return and help him build a monastery and find a student]].

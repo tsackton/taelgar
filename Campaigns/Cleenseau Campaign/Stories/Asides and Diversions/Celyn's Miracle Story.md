@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 # Celyn's Miracle Story
 
 >[!Info]- This is Celyn's story of a personal miracle, as told to Robin. Please don't read it unless Celyn has revealed in game.

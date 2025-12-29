@@ -1,3 +1,8 @@
+---
+tags: [meta]
+typeOf: hoard
+---
+
 ### From Kadmos
 
 - Rod of the Pact Keeper, an iron rod decorated with a bejeweled skull. %%SECRET[1]%%

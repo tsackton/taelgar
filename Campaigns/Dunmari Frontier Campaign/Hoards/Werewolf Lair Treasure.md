@@ -1,3 +1,8 @@
+---
+tags: [meta]
+typeOf: hoard
+---
+
 ## Magic Items
 
 - Vicious Shortsword (rare major item) %%SECRET[1]%%

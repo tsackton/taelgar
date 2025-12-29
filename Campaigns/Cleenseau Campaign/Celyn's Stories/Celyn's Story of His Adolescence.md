@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 # Celyn's Story of Getting His Adolescence
 
 >[!Info]- This is Celyn's story of his adolescence; don't read unless it has been revealed in game

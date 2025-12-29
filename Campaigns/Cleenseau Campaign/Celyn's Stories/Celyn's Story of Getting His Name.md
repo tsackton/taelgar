@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 # Celyn's Story of Getting His Name
 
 >[!Info]- This is Celyn's story of how he got his name; please don't read it unless it has been revealed in game

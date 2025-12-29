@@ -1,3 +1,8 @@
+---
+tags: [meta]
+---
+
+
 # Vindristjarna Mechanics
 
 Vindristjarna can be controlled by manipulation of [[Hralgar's Phasing Stone]], which is installed in the Control Room. This outlines the basic mechanics of controlling [[Vindristjarna]] and the permanent magic that can be controlled via the phasing stone (the Planar Prism and the Icicle Turret). 

@@ -1,6 +1,8 @@
 ---
 excludePublish: ["all"]
+tags: [source]
 ---
+
 %% Approximately summer 1715 %%
 Celyn had been two months at the temple in Ruthin when he brought forth light.  It had been a strange sensation, a burning surge of ... something ... and now his inkpot was glowing.  Not knowing what to do about it, he picked up the pot and brought it to Eirian.  
 

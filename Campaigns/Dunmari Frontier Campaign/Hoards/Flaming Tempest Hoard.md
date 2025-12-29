@@ -1,3 +1,7 @@
+---
+tags: [meta]
+typeOf: hoard
+---
 # Treasure Recovered from Vetta
 
 - The [[Flaming Tempest]], once [[Urgall the Black|Urgall]]'s pirate ship. Badly damaged. Potentially worth 20,000 gold if repaired and fixed up, considerably less in it's current state. 

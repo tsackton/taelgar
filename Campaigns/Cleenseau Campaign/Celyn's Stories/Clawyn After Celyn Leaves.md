@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 Ellis had a thick pottery flask swinging from a leather strap and an expression Llew could not quite find a description for.  It was neither dour nor brooding.  Melancholy, perhaps.  Melancholy would have to do.  Llew frowned minutely before raising one hand to wave to his twin.  “Play or talk?” he asked.
 
 “Walk.  Talk after.  Pryce has the goats in the near field though.”

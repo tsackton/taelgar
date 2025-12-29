@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 An hour after sunset, the meal, cooked by unseen hands eaten, and plans for the next day discussed, quiet settles over the table.  
   
 Armand, stands, excusing himself with a brief apology: "I wish to say my prayers to the night, and prepare for tomorrow. I wish you good rest." Odo was uncomfortable all evening, being served by an unseen servant, and, looking withdrawn and a little homesick, stands, stammering: "I th-thi-think I would bed now, please, if I may."  

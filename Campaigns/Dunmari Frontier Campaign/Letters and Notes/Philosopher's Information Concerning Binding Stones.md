@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 Dear Seeker of Highkeep, and companions,
 
 Your gift was of much interest. It is unusual to recover powerful weapons blessed by [[The Warlord]]. The magic of the Divine is the most challenging to unravel, and the most mysterious to us. We have endeavored to provide a worthwhile value for such a gift.

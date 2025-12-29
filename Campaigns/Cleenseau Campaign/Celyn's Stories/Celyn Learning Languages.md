@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 When Llinos was five, Blodwen declared that she was going to learn Sembaran.  It became a whole thing, because “learning Sembaran” was not the sort of thing that the family tended to care much about; the vines didn’t care about the language of a distant and largely irrelevant capital.  
         “I don’t understand why.”  Hywel, their father, was not the sort of man who would end that ‘why you want to waste your time on that’ but he was the sort of man who liked straightforward, clear explanations and expected to receive them.  
         Blodwen, on the other hand, was the sort of person who would not propose a course of action without having an answer, and thus responded immediately, “The vintners have to talk with traders and take orders from Tafolwern wealthy and earls and what have you.  If I want to advance in the winery, not just the field labor, then knowing how to speak Sembaran will put me at an advantage over others striving for the same goal.”  

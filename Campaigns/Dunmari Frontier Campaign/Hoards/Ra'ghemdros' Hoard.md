@@ -1,3 +1,8 @@
+---
+tags: [meta]
+typeOf: hoard
+---
+
 %%
 # Portable Hole Calculations
 

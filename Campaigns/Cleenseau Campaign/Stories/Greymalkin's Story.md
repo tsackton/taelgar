@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 During the two and a half day journey from Ashcombe to Aslain,  
 Greymalkin does not seem himself. He is extremely solicitous of Robin,  
 constantly making sure he is ok, has a good place to sleep, often  

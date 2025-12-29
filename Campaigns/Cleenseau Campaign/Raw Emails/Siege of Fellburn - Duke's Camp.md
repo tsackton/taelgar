@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 [meta: switching to the main list for the rest of this. Matt, the rough background here is that the party has witnessed the end of the siege of Fellburn, and are now visiting with the Duke of Wisford, who was instrumental in breaking the siege, in his camp, before departing, presumably to return to Cleenseau. This email is the plot/info dump email, mostly outlining the people you meet and what you learn. I'm going to send two other emails, for more roleplaying background purposes - a scene by the Oracle of Hope, and an audience with the Duke]
 
   

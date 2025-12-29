@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 # [[Elizabeth of Cassen|Elizabeths's]] Story
 _As told to the [[Heroes of Cleenseau]], in [[Cleenseau]], February 7th, 1720, in response to questions about how [[Gareth of Tollen]] came to be illegally collecting taxes in Cleenseau. The events take place between January 7th and February 5th_
 

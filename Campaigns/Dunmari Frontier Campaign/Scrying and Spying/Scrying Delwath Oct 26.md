@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 **(Oct 21 - Oct 26)**
 
 #### [[Havdar]]

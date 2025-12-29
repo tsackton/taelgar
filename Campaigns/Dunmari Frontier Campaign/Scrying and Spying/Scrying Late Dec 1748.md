@@ -1,3 +1,6 @@
+---
+tags: [meta]
+---
 
 *In [[Xurkhaz]], [[Grash]]'s undead armies have been besieging the city of Uzgukar for 10 days now. But, you hear from [[Riswynn]] of the glorious first day, before [[Grash]] realized what was in store, when hundreds upon hundreds of zombies burned in the holy fire of the [[Bahrazel]]. Unfortunately, [[Grash]] learned his lesson, and retreated, settling in for a long siege. A few days ago siege weapons appeared on the horizon, and while no undead army can enter the city, the bombardment over the past two days has done considerable damage to the walls and the Hall of Ancestors in the center of Uzgukar. This morning, [[Murook]] and [[Riswynn]] led a sortie, aided by a deva messenger of the [[Bahrazel]], called forth by [[Riswynn]], and burned a dozen catapults. It will take time for [[Grash]] to rebuild, and for now the city is quiet, although [[Grash]] does not seem inclined to leave while [[Lubash]] remains hidden inside the palace.
 

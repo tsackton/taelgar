@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 Aida,
 
 It is with great sadness that I write you. I am Marshal [[Hildo Brask]], second in command of [[Torvaine Watch]] under Sir [[Einrik Arpaad]]. Our chaplain, [[Wulfram]], has no doubt reached you by now with the news of Piri’s accidental passing and has returned your brother’s possessions to you. Unfortunately, our commander dispatched [[Wulfram]] so suddenly that I did not realize he was going until he had already gone. Otherwise, I would have sent this letter and these items along with him.

@@ -1,5 +1,6 @@
 ---
-tags: [source]
+tags: [meta]
+typeOf: timeline
 ---
 
 - (DR:: 1747-07-23) *(Mawar Adventures)*: Trok, Wazir, and Ryu defeat an elemental attack and help Illius, a merfolk recover a vial of water from the sentient ocean. 

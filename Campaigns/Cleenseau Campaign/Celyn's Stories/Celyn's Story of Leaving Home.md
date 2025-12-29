@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 # Celyn's Story of Leaving Home
 
 >[!Info]- This is Celyn's story of how he left home; please don't read it unless it has been revealed in game

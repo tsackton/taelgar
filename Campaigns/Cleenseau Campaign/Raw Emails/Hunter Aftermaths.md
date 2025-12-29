@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 n the aftermath of the battle, the waning moon shining down, everyone is still for a minute. The Hunter is still out there, scurrying away towards his escape home. The Duskhound's body is oddly distorted, the moonlight seeming to flee away from it, and dark lines starting to grow from it towards the enchanted tree stump.
 
   

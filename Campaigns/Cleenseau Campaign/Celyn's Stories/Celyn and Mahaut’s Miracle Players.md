@@ -1,3 +1,7 @@
+---
+tags: [source]
+---
+
 # Celyn and Mahaut's Miracle Players
 
 >[!Info]- This is Celyn's story of his time with an acting troupe. Please don't read unless it has been revealed in game

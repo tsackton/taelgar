@@ -1,3 +1,7 @@
+---
+tags: [meta]
+typeOf: hoard
+---
 ## From Exploring Drankor
 
 - Approximately 100 scrolls from the Drankorian Customs House, consisting mostly of shipping records

@@ -1,3 +1,8 @@
+---
+tags: [meta]
+typeOf: hoard
+---
+
 # Treasure from Hralgar's Palace
 
 - [[Hralgar's Phasing Stone]] (powers [[Vindristjarna]], party), recovered from Hralgar's ancient, now abandoned, palace in the southern part of the [[Sentinel Range]]. 

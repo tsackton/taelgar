@@ -1,5 +1,7 @@
 ---
 excludePublish: ["all"]
+tags: [meta]
+typeOf: timeline
 ---
 
 - 9 or so: starts learning the fey diplomacy stuff and walking the bounds with his cousin and whoever trained her 

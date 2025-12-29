@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 # Dunmar Fellowship Treasure
 
 This records the magic items and mundane treasure acquired by the [[Dunmar Fellowship]] in the course of their adventures. Treasure that has been lost, used, destroyed, sold, or given away is [[Party Treasure - Former|listed elsewhere]].

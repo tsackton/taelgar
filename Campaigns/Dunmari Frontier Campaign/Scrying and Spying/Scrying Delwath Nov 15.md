@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 **(Nov 11 - Nov 15)**
 
 #### Kharsan

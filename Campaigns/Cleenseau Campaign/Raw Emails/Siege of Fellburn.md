@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 Meta notes
 
 (1) I'm keeping this off the list for now in case anyone wants to preserve the ability to report this in game to Matt; I can forward him the whole thing and/or move it onto the list if no one wants to roleplay the report back to Izgil

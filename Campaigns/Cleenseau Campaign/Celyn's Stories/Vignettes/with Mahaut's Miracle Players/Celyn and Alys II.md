@@ -1,5 +1,6 @@
 ---
 excludePublish: ["all"]
+tags: [source]
 ---
 
 Celyn was dicing with Alys again.  Just the two of them, this time; they were between villages and nobody wanted to get between Celyn’s occasional runs of luck and Alys’s drive to win.  
