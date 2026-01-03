@@ -16,7 +16,6 @@ https://www.dndbeyond.com/monsters/4485815-decrepit-skeleton
 https://www.dndbeyond.com/monsters/4486000-skeleton-mcdm
 https://www.dndbeyond.com/monsters/5195127-minotaur-skeleton
 
-
 ## Scene 2
 
 Barracks
@@ -26,9 +25,9 @@ Barracks
 Officer's Mess
 
 8 Skeletons (50 XP each, total 400 XP)
-3 Flaming Skeletons (700 XP each, total 2100 XP)
+2 Flaming Skeletons (700 XP each, total 2100 XP)
 
-Total = 400 + 2100 = 2500
+Total = 400 + 1400 = 1800
 
 https://www.dndbeyond.com/monsters/4486000-skeleton-mcdm
 https://www.dndbeyond.com/monsters/5194996-flaming-skeleton
@@ -49,15 +48,13 @@ First mine area
 
 Plug
 
-6 Skeletons (50 XP each, total 300 XP)
-2 Wights (700 XP each, total 1400 XP)
-1 Deathlock (1,100 XP)
+4 Skeletons (50 XP each, total 200 XP)
+3 Wights (700 XP each, total 2100 XP)
 
-Total = 2800 XP
+Total = 2300 XP
 
 https://www.dndbeyond.com/monsters/4486000-skeleton-mcdm
 https://www.dndbeyond.com/monsters/5195269-wight (use Vitality Theft from: https://www.dndbeyond.com/monsters/4486044-wight-mcdm instead of life drain)
-https://www.dndbeyond.com/monsters/2560767-deathlock (give high initiative plus, say +6)
 
 ## Scene 8
 
