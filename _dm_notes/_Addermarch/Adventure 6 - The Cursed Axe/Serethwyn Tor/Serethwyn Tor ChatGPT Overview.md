@@ -69,7 +69,6 @@ Heavier stonework, better sited, and more defensible: the officers’ mess is a 
 **What’s to be found**
 
 - A **banner-stone base** or wall relief with a hobgoblin legion/spear sigil (deep-cut).
-    
 - A **stone shelf niche** built to hold formal objects (helm, standard, ritual bowl), now empty.
     
 

@@ -11,12 +11,12 @@ class OutputHandler {
         let version = metadata.version
 
         let vnToUse = versionNumber
-        if (version == "next") vnToUse = nextVersionNumber
-        else if (version == "old") vnToUse = prevVersionNumber
+        if (version === "next") vnToUse = nextVersionNumber
+        else if (version === "old") vnToUse = prevVersionNumber
 
 
         // the end of the yaml -- this is 0-counting, so if the file is just a yaml start and end it will be 1
-        let indexOfYamlEnd = currentContents.findIndex((f, i) => i > 0 && f == "---");
+        let indexOfYamlEnd = currentContents.findIndex((f, i) => i > 0 && f === "---");
 
         if (indexOfYamlEnd > 0) {
             let yaml = currentContents.filter((v, i) => i >= 0 && i < indexOfYamlEnd)
@@ -29,34 +29,30 @@ class OutputHandler {
             }
         }
 
-        // Some pages can have non-array tags; guard for safety
-        if (Array.isArray(metadata.tags) && metadata.tags.some(f => f == "source"))
-            return currentContents
-
         // find the end of the header block -- the first newline (blank line) after the YAML block
-        let indexOfHeaderBlockEnd = currentContents.findIndex((f, i) => i > indexOfYamlEnd && f.trim() == "");
+        let indexOfHeaderBlockEnd = currentContents.findIndex((f, i) => i > indexOfYamlEnd && f.trim() === "");
 
         // the file is ONLY yaml
-        if (indexOfHeaderBlockEnd == -1) {
+        if (indexOfHeaderBlockEnd === -1) {
             indexOfHeaderBlockEnd = currentContents.length;
         }
 
         // starting from the first newline, find the first non-newline
-        let emptySpaceEnd = currentContents.findIndex((f, i) => i > indexOfHeaderBlockEnd && f.trim() != "");
-        if (emptySpaceEnd != -1) {
+        let emptySpaceEnd = currentContents.findIndex((f, i) => i > indexOfHeaderBlockEnd && f.trim() !== "");
+        if (emptySpaceEnd !== -1) {
             indexOfHeaderBlockEnd = emptySpaceEnd - 1
         }
 
-        if (currentContents.slice(indexOfYamlEnd, indexOfHeaderBlockEnd).filter(f => f.trim().startsWith("#")).length == 0) {
+        if (currentContents.slice(indexOfYamlEnd, indexOfHeaderBlockEnd).filter(f => f.trim().startsWith("#")).length === 0) {
             // there is no H1 block in the "header" so it cannot have been an actual header. 
             indexOfHeaderBlockEnd = indexOfYamlEnd
         }
 
         let data = ""
 
-        if (headerType == "obs") data = this.generateHeader(fileName, metadata, true, version)
-        else if (headerType == "static") data = this.generateHeader(fileName, metadata, false, version)
-        else if (headerType == "website") data = this.generateWebsiteHeader(fileName, metadata)
+        if (headerType === "obs") data = this.generateHeader(fileName, metadata, true)
+        else if (headerType === "static") data = this.generateHeader(fileName, metadata, false)
+        else if (headerType === "website") data = this.generateWebsiteHeader(fileName, metadata)
 
         // remove the header block
         currentContents.splice(indexOfYamlEnd + 1, indexOfHeaderBlockEnd - indexOfYamlEnd);
@@ -83,7 +79,19 @@ class OutputHandler {
 
         let output = TokenParser.formatDisplayString("# <name:tn>", file) + "\n"
         let whereaboutsStrings = OutputHandler.getWhereaboutsStrings(fileName, metadata)
-        let typeOf = TokenParser.formatDisplayString(displayDefaults.boxInfo, file).trim()
+        let boxInfo = TokenParser.formatDisplayString(displayDefaults.boxInfo, file).trim()
+        const hasText = (value) => value && value.trim().length > 0
+        const appendTrimmedLine = (value, prefix) => {
+            if (hasText(value)) {
+                output += prefix + value.trim() + "  \n"
+            }
+        }
+        const appendRawLine = (value, prefix) => {
+            if (hasText(value)) {
+                output += prefix + value
+            }
+        }
+        const hasBoxInfo = hasText(boxInfo)
 
         if (metadata.pronunciation) {
             let secondary = TokenParser.formatDisplayString("<pronunciation>", file)
@@ -92,14 +100,13 @@ class OutputHandler {
             }
         }
 
-        if (pageType == "place") {
-            let hasTypeOf = typeOf && typeOf.trim().length > 0
+        if (pageType === "place") {
             let hasPlaces = metadata.whereabouts
 
             let lineCount = 0
             if (hasPageDates) lineCount++
             if (hasPlaces) lineCount++
-            if (hasTypeOf) lineCount++
+            if (hasBoxInfo) lineCount++
 
             if (lineCount > 0) {
                 output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
@@ -108,19 +115,17 @@ class OutputHandler {
 
             if (lineCount > 1) output += "  \n"
 
-            if (typeOf && typeOf.trim().length > 0) {
-                output += "    :octicons-people-24: " + typeOf + "  \n"
-            }
+            appendTrimmedLine(boxInfo, "    :octicons-people-24: ")
 
             if (hasPageDates) {
                 let line = OutputHandler.outputPageDatedValue(fileName, metadata).trim()
-                if (line && line.length > 0) output += "   :material-calendar: " + line + "  \n"
+                appendTrimmedLine(line, "   :material-calendar: ")
             }
 
             if (hasPlaces) {
-                if (whereaboutsStrings.origin.trim()) output += "   :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.origin.trim() + "  \n"
-                if (whereaboutsStrings.home.trim()) output += "    :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.home.trim() + "  \n"
-                if (whereaboutsStrings.secondary.trim()) output += "    :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.secondary.trim() + "  \n"
+                appendTrimmedLine(whereaboutsStrings.origin, "   :octicons-location-24:{ .lg .middle } ")
+                appendTrimmedLine(whereaboutsStrings.home, "    :octicons-location-24:{ .lg .middle } ")
+                appendTrimmedLine(whereaboutsStrings.secondary, "    :octicons-location-24:{ .lg .middle } ")
             }
 
             if (lineCount > 0) {
@@ -129,22 +134,20 @@ class OutputHandler {
             return output
         }
 
-        if (pageType == "group") {
+        if (pageType === "group") {
             output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
             output += "-\n"
 
-            if (typeOf && typeOf.length > 0) {
-                output += "   :octicons-info-24:{ .lg .middle } " + typeOf + "  \n"
-            }
+            appendTrimmedLine(boxInfo, "   :octicons-info-24:{ .lg .middle } ")
 
             if (hasPageDates) {
                 let line = OutputHandler.outputPageDatedValue(fileName, metadata).trim()
-                if (line && line.length > 0) output += "   :material-calendar: " + line + "  \n"
+                appendTrimmedLine(line, "   :material-calendar: ")
             }
 
             if (metadata.whereabouts || metadata.partOf) {
-                if (whereaboutsStrings.origin.trim()) output += "   :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.origin.trim() + "  \n"
-                if (whereaboutsStrings.home.trim()) output += "    :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.home.trim() + "  \n"
+                appendTrimmedLine(whereaboutsStrings.origin, "   :octicons-location-24:{ .lg .middle } ")
+                appendTrimmedLine(whereaboutsStrings.home, "    :octicons-location-24:{ .lg .middle } ")
             }
 
             output += "</div>\n\n"
@@ -152,26 +155,25 @@ class OutputHandler {
         }
 
 
-        if (pageType == "object") {
-            let typeOfTitle = TokenParser.formatDisplayString("<rarity:t> <ancestry:t> <subtypeof:t> <typeof:t>", file)
+        if (pageType === "object") {
             if (!hasPageDates && !metadata.ddbLink && !metadata.whereabouts) {
-                if (typeOf && typeOf.length > 0) {
-                    output += ":octicons-info-24:{ .lg .middle } **" + typeOfTitle + "**  \n"
+                if (hasBoxInfo) {
+                    output += ":octicons-info-24:{ .lg .middle } **" + boxInfo + "**  \n"
                 }
                 return output
             }
 
             output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
-            output += "- :octicons-info-24:{ .lg .middle } __" + typeOfTitle + "__  \n"
+            output += "- :octicons-info-24:{ .lg .middle } __" + boxInfo + "__  \n"
 
             if (hasPageDates) {
                 let line = OutputHandler.outputPageDatedValue(fileName, metadata).trim()
-                if (line && line.length > 0) output += "   " + line + "  \n"
+                appendTrimmedLine(line, "   ")
             }
 
             if (metadata.whereabouts || metadata.partOf) {
-                if (whereaboutsStrings.origin.trim()) output += "   " + whereaboutsStrings.origin.trim() + "  \n"
-                if (whereaboutsStrings.home.trim()) output += "   " + whereaboutsStrings.home.trim() + "  \n"
+                appendTrimmedLine(whereaboutsStrings.origin, "   ")
+                appendTrimmedLine(whereaboutsStrings.home, "   ")
             }
 
             if (metadata.ddbLink && displayDefaults.mechanicsLink && displayDefaults.mechanicsLink.length > 0) {
@@ -182,14 +184,14 @@ class OutputHandler {
             // we intentionally don't return here to pickup current whereabouts and other stuff        
         }
 
-        if (pageType == "person") {
+        if (pageType === "person") {
             let hasData = false
             output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
             output += "- :octicons-info-24:{ .lg .middle } __Biographical Information__\n\n"
-            if (typeOf && typeOf.length > 0) 
+            if (hasBoxInfo) 
             {
                 hasData = true
-                output += "    " + typeOf + "  \n"
+                output += "    " + boxInfo + "  \n"
             }
 
             if (hasPageDates) {
@@ -212,9 +214,9 @@ class OutputHandler {
 
             if (hasData) output += "    { .bio }\n\n"
 
-            if (metadata.whereabouts || (pageType == "place" && metadata.partOf)) {
-                if (whereaboutsStrings.origin.trim()) output += "    " + whereaboutsStrings.origin
-                if (whereaboutsStrings.home.trim()) output += "    " + whereaboutsStrings.home
+            if (metadata.whereabouts || (pageType === "place" && metadata.partOf)) {
+                appendRawLine(whereaboutsStrings.origin, "    ")
+                appendRawLine(whereaboutsStrings.home, "    ")
             }
 
             if (metadata.ddbLink && displayDefaults.mechanicsLink && displayDefaults.mechanicsLink.length > 0) {
@@ -225,9 +227,9 @@ class OutputHandler {
         }
 
         if (metadata.whereabouts) {
-            if (whereaboutsStrings.current.trim() && !whereaboutsStrings.isCurrentUnknown) {
+            if (hasText(whereaboutsStrings.current) && !whereaboutsStrings.isCurrentUnknown) {
                 output += ":octicons-location-24:{ .lg .middle } " + whereaboutsStrings.current + "\n" // has 1 newline, we want 2
-            } else if (whereaboutsStrings.lastKnown.trim()) {
+            } else if (hasText(whereaboutsStrings.lastKnown)) {
                 output += ":octicons-location-24:{ .lg .middle } " + whereaboutsStrings.lastKnown + "\n" // has 1 newline, we want 2
             }
         }
@@ -241,7 +243,7 @@ class OutputHandler {
         return output
     }
 
-    generateHeader(fileName, metadata, dynamic = true, version = undefined) {
+    generateHeader(fileName, metadata, dynamic = true) {
 
         const { EventManager } = customJS
         const { NameManager } = customJS
@@ -264,9 +266,9 @@ class OutputHandler {
 
         let summaryBlockLines = []
 
-        let typeOf = TokenParser.formatDisplayString(displayDefaults.boxInfo, file)
-        if (typeOf && typeOf.length > 0) {
-            summaryBlockLines.push("> " + typeOf)
+        let boxInfo = TokenParser.formatDisplayString(displayDefaults.boxInfo, file)
+        if (boxInfo && boxInfo.length > 0) {
+            summaryBlockLines.push("> " + boxInfo)
         }
 
         if (metadata.ddbLink && displayDefaults.mechanicsLink && displayDefaults.mechanicsLink.length > 0) {
@@ -286,7 +288,7 @@ class OutputHandler {
             }
         }
 
-        if (metadata.leaderOf || metadata.affiliations || pageType == "place" || pageType == "group" || pageType == "object") {
+        if (metadata.leaderOf || metadata.affiliations || pageType === "place" || pageType === "group" || pageType === "object") {
 
             let line = '`$=dv.view(\"_scripts/view/get_Affiliations\")`'
             if (!dynamic) {
@@ -327,12 +329,7 @@ class OutputHandler {
         }
 
         if (summaryBlockLines.length > 0) {
-            if (!dynamic) {
-                output += ">[!info]+ " + displayDefaults.boxName + "  \n"
-            }
-            else {
-                output += ">[!info]+ " + displayDefaults.boxName + "  \n"
-            }
+            output += ">[!info]+ " + displayDefaults.boxName + "  \n"
         }
 
 
