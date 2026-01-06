@@ -1,0 +1,89 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 17.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 17,
+  "name": "Addermarch Campaign - Session 17",
+  "descTitle": "Skeletons at Serethwyn Tor",
+  "tagline": "in which the party reaches Serethwyn Tor and survives a skeleton host",
+  "realWorldDate": "2025-12-28",
+  "drStart": "1715-05-24",
+  "drEnd": "1715-05-26",
+  "shortSummary": "Following clues to the cursed Serpentine Battleaxe, the party crosses the Highmoor, reaches Serethwyn Tor, fights a large skeleton force, and uncovers signs of recent disturbance and a broken mine map pointing deeper underground.",
+  "longSummary": "From camp on the Highmoor road, Drou, Fazoth, and Yvan travel in fair spring weather and camp in the foothills of Westcliff before climbing toward Serethwyn Tor. A warning marker notes the fort is sealed by order of The Rangers, and Fazoth's pseudodragon scout is killed by a mass of skeletons inside the walls. The party battles dozens of skeleton soldiers with sergeants, captains, and skeletal ogre bodyguards, then searches the ruins, finding recent disturbed earth, old scorch marks, and a broken mine map that hints at multiple levels and serpentine sources below.",
+  "sessionProfile": {
+    "combat": "heavy",
+    "roleplay": "light",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Duncan of Haldrenn",
+      "context": "mentioned",
+      "notes": "Missing shepherd whose trail leads the party toward Serethwyn Tor and the Serpentine Battleaxe."
+    },
+    {
+      "name": "Fazoth's pseudodragon",
+      "context": "companion",
+      "notes": "Scout familiar sent ahead of the wall; killed by skeletons."
+    }
+  ],
+  "organizations": [
+    "The Rangers"
+  ],
+  "places": [
+    {
+      "name": "Highmoor",
+      "context": "visited",
+      "notes": "High moorland road the party follows toward Serethwyn Tor."
+    },
+    {
+      "name": "Westcliff",
+      "context": "visited",
+      "notes": "Foothills and peaks where the party camps and climbs toward the fort."
+    },
+    {
+      "name": "Serethwyn Tor",
+      "context": "visited",
+      "notes": "Ruined hill-fort in Westcliff, sealed by order of The Rangers and guarded by skeletons."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Highmoor road",
+      "to": "Westcliff foothills",
+      "mode": "overland on foot"
+    },
+    {
+      "from": "Westcliff foothills",
+      "to": "Serethwyn Tor",
+      "mode": "overland on foot"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Skeleton host at Serethwyn Tor",
+      "location": "Serethwyn Tor (outer wall)",
+      "foes": [
+        "Skeleton soldiers",
+        "Skeleton sergeants",
+        "Skeleton captains",
+        "Ogre skeleton bodyguards"
+      ]
+    }
+  ],
+  "treasure": [
+    "Broken pieces of a mine map showing multiple levels, serpentine sources, and air shafts"
+  ],
+  "meta": {
+    "startingLevel": 5,
+    "endingLevel": 5,
+    "xpAward": 750
+  }
+}
