@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 18.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 18,
+  "name": "Addermarch Campaign - Session 18",
+  "descTitle": "Into the Mine",
+  "tagline": "in which the party clears the barracks and descends into a blocked mine",
+  "realWorldDate": "2026-01-02",
+  "drStart": "1715-05-26",
+  "drEnd": "1715-05-27",
+  "shortSummary": "At Serethwyn Tor, the party clears fire-resistant skeletons from the officer's barracks, discovers signs of ancient burning and ranger dead, finds what appears to be Duncan's camp, and fights skeletons and serpentine wights near an intentionally collapsed mine passage before taking a long rest underground.",
+  "longSummary": "Continuing their exploration of Serethwyn Tor, Drou, Fazoth, and Yvan fight through the officer's barracks, discovering that some skeletons resist fire and that the undead explode into dangerous shards when destroyed. After a short rest and a search that turns up evidence of old fire damage, possible ranger bodies under collapsed stone, and Avatus' symbol on rusting gear, they move to the mine entrance and locate what appears to be Duncan's camp in a nearby work shed. Inside the mine, they follow the main tunnel to a massive cave-in that looks intentional; there they clash with more undead, including serpentine wights, until Drou's hypnotic pattern and a unicorn summoned by Yvan's wild magic swing the fight. With the upper mine chambers briefly quiet and fresh footprints suggesting another route in and out, the party settles in to rest, ending the session in the mine the next morning.",
+  "sessionProfile": {
+    "combat": "heavy",
+    "roleplay": "none",
+    "travel": "light"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Duncan of Haldrenn",
+      "context": "mentioned",
+      "notes": "Missing shepherd; evidence of his presence is found near the mine entrance, and his footprints are suspected deeper inside."
+    },
+    {
+      "name": "Fazoth's pseudodragon",
+      "context": "companion",
+      "notes": "Scouts ahead in the mine and is killed by serpentine wights."
+    },
+    {
+      "name": "Summoned unicorn",
+      "context": "encounter",
+      "notes": "Appears via Yvan's wild magic surge during the mine fight, helps destroy undead and indicates the upper mine chambers are safe to rest in."
+    }
+  ],
+  "organizations": [
+    "The Rangers"
+  ],
+  "places": [
+    {
+      "name": "Serethwyn Tor",
+      "context": "visited",
+      "notes": "Ruined hill-fort where the party battles undead and searches the barracks and mine entrance."
+    },
+    {
+      "name": "Officer's barracks",
+      "context": "visited",
+      "notes": "Barracks and mess area where the party fights skeletons and finds signs of old fire damage and buried bodies."
+    },
+    {
+      "name": "Mine entrance work shed",
+      "context": "visited",
+      "notes": "Work shed outside the mine where the party finds what appears to be Duncan's camp."
+    },
+    {
+      "name": "Serethwyn Tor mine (upper chambers)",
+      "context": "visited",
+      "notes": "Upper mine tunnels and chambers where the party follows the main path toward a major blockage."
+    },
+    {
+      "name": "Cave-in chamber",
+      "context": "visited",
+      "notes": "Massive blockage inside the mine that appears intentional; site of the fight with skeletons and serpentine wights."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Serethwyn Tor (officer's barracks)",
+      "to": "Mine entrance work shed",
+      "mode": "on foot"
+    },
+    {
+      "from": "Mine entrance",
+      "to": "Cave-in chamber",
+      "mode": "on foot"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Skeletons in the officer's barracks",
+      "location": "Officer's barracks at Serethwyn Tor",
+      "foes": [
+        "Skeletons (some fire-immune)"
+      ],
+      "allies": [
+        "Giant constrictor snake (from Staff of the Python)",
+        "Summoned fey ally"
+      ]
+    },
+    {
+      "name": "Undead at the cave-in",
+      "location": "Cave-in chamber in the Serethwyn Tor mine",
+      "foes": [
+        "Skeletons",
+        "Serpentine wights"
+      ]
+    }
+  ],
+  "treasure": [],
+  "meta": {
+    "startingLevel": 5,
+    "endingLevel": 5,
+    "xpAward": 0
+  }
+}
