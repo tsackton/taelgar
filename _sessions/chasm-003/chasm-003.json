@@ -1,0 +1,190 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "_sessions/chasm-003/summary.md",
+  "campaign": "Into the Chasm",
+  "sessionNumber": 3,
+  "name": "Into the Chasm - Chasm-003",
+  "descTitle": "The Beast Falls, and Melusa Opens",
+  "tagline": "in which living snow defends a white beast, the maze breaks, and the Ice Palace stirs",
+  "realWorldDate": "0000-00-00",
+  "drStart": "",
+  "drEnd": "",
+  "shortSummary": "The party finishes the brutal fight in the black-stone chamber, kills the shaggy white beast, follows a new earthen tunnel out to the cliffside village of Melusa, and learns that an Ice Palace and its soldiers are watching—and building a bridge toward the village.",
+  "longSummary": "The battle in the black-stone chamber escalates as “Living Snow” echoes harry the party and actively protect the shaggy white beast from mundane attacks, forcing the group to lean on Spirit Guardians, summoned creatures, and psionic damage to break through. When the beast finally falls, the wind stops and the chamber melts back into granite and earth, splitting open a tunnel that Kalima recognizes as the way forward. Crawling through permafrost, the party emerges onto a cliffside switchback overlooking floating rocks and an isolated Ice Palace, then slips into Melusa to shelter with Kalima’s family and question the village’s strange myths of endurance, fog, and sacrifice. Finnan’s Clairvoyance and Ekko’s scouting reveal activity within the palace and an ice bridge beginning to grow toward Melusa as soldiers search for a “trickster” spirit who taunted their master.",
+  "sessionProfile": {
+    "combat": "heavy",
+    "roleplay": "medium",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Jrain Fanlish",
+    "Finnan Oakstride",
+    "Justas Rhostrin",
+    "Ekko",
+    "Eolo"
+  ],
+  "npcs": [
+    {
+      "name": "Kalima",
+      "context": "companion",
+      "notes": "Terrified woman from Melusa who survives the beast fight by hiding behind illusion, then leads the party home and into her sister’s house."
+    },
+    {
+      "name": "Rala",
+      "context": "companion",
+      "notes": "Jrain’s avian companion; used in combat to strike the Living Snow echoes."
+    },
+    {
+      "name": "Shaggy white beast",
+      "context": "enemy",
+      "notes": "The monster guarding the black-stone chamber; protected by Living Snow echoes and defeated after a prolonged fight."
+    },
+    {
+      "name": "Living Snow echoes",
+      "context": "enemy",
+      "notes": "Ice-and-shadow duplicates that harry the party, slow movement, and seem to defend the beast by deflecting attacks."
+    },
+    {
+      "name": "Barquarian the Frostbinder",
+      "context": "mentioned",
+      "notes": "Named as the beast’s master via Finnan’s ‘three true facts’; described as the Frostbinder."
+    },
+    {
+      "name": "Xypher? (name uncertain)",
+      "context": "enemy",
+      "notes": "Named as the one who lives in the Ice Palace; soldiers invoke the name while searching for a ‘trickster’ spirit."
+    },
+    {
+      "name": "Nura",
+      "context": "encounter",
+      "notes": "Kalima’s sister in Melusa; shelters the party and speaks cautiously about the village’s beliefs and taboos."
+    },
+    {
+      "name": "Khalid",
+      "context": "encounter",
+      "notes": "Nura’s husband; describes Melusa’s worldview of endurance and fog and is wary of outsiders, especially around children."
+    },
+    {
+      "name": "Samir",
+      "context": "encounter",
+      "notes": "Nura and Khalid’s baby; unusually quiet and treated as potentially vulnerable to ‘remembering too much’."
+    },
+    {
+      "name": "Yasem? (name uncertain)",
+      "context": "mentioned",
+      "notes": "Name overheard via Clairvoyance as soldiers coordinate search orders near the Ice Palace."
+    },
+    {
+      "name": "Zeyfa",
+      "context": "enemy",
+      "notes": "Figure tied to the labyrinth; villagers say their ancestors were brought here by Zeyfa and that night ends only with sacrifice."
+    },
+    {
+      "name": "Romil the Glacier King",
+      "context": "mentioned",
+      "notes": "A famous kestavo name the villagers recognize; invoked in stories and prayer."
+    },
+    {
+      "name": "Besla",
+      "context": "mentioned",
+      "notes": "A kestavo name the villagers recognize in stories."
+    },
+    {
+      "name": "Rabel",
+      "context": "mentioned",
+      "notes": "A kestavo name mentioned among the villagers’ fragmentary stories."
+    },
+    {
+      "name": "Isau? (name uncertain)",
+      "context": "mentioned",
+      "notes": "A kestavo name mentioned as a bringer of spring; details are unclear."
+    }
+  ],
+  "organizations": [
+    "Kestavo"
+  ],
+  "places": [
+    {
+      "name": "Zeyfa's Labyrinth",
+      "context": "visited",
+      "notes": "The shifting maze that traps the party; the black-stone chamber and the tunnel out are within it."
+    },
+    {
+      "name": "Black-stone chamber",
+      "context": "visited",
+      "notes": "Combat site where the shaggy white beast and Living Snow echoes are defeated; changes as the beast dies."
+    },
+    {
+      "name": "Earthen tunnel",
+      "context": "visited",
+      "notes": "A manhole-sized opening that forms as frost melts; the party crawls through permafrost to escape the chamber."
+    },
+    {
+      "name": "Great Chasm",
+      "context": "visited",
+      "notes": "Seen from the cliffside switchback; floating rocks and the Ice Palace hang in the fog."
+    },
+    {
+      "name": "Ice Palace",
+      "context": "mentioned",
+      "notes": "Floating palace not connected by bridges; scouted via summoned fey and Clairvoyance; soldiers begin forming an ice bridge toward Melusa."
+    },
+    {
+      "name": "Melusa",
+      "context": "visited",
+      "notes": "Cliff-carved village on a ledge with a pond, river, goats, cattle, and a worldview defined by fog, endurance, and sacrifice."
+    },
+    {
+      "name": "Cliff gashes (five portals)",
+      "context": "visited",
+      "notes": "Five jagged cuts in the cliff face showing different hostile ‘elsewheres’ (lightning, metal, colors, ash, and a mirrored chasm view)."
+    },
+    {
+      "name": "Ice wolf statue",
+      "context": "visited",
+      "notes": "A towering ice wolf statue standing guard near the gashes; villagers keep their distance."
+    },
+    {
+      "name": "Cattle rock",
+      "context": "mentioned",
+      "notes": "Floating rock with a partially frozen pond and a herd of cattle; connected by rope bridge to the lush rock."
+    },
+    {
+      "name": "Lush rock",
+      "context": "mentioned",
+      "notes": "Floating rock with trees, thick growth, and steam; produces food (including apples) brought to Melusa by rope bridge."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Black-stone chamber",
+      "to": "Cliffside switchback",
+      "mode": "tunnel crawl"
+    },
+    {
+      "from": "Cliffside switchback",
+      "to": "Melusa",
+      "mode": "on foot"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Shaggy white beast and Living Snow echoes",
+      "location": "Black-stone chamber",
+      "foes": [
+        "Shaggy white beast",
+        "Living Snow echoes"
+      ]
+    }
+  ],
+  "treasure": [
+    "Severed head of the shaggy white beast (trophy)"
+  ],
+  "meta": {
+    "startingLevel": 6,
+    "endingLevel": 6,
+    "xpAward": null
+  }
+}
+
