@@ -10,7 +10,7 @@
   "realWorldDate": "0000-00-00",
   "drStart": "",
   "drEnd": "",
-  "shortSummary": "Kalima is taken into hiding by Zahara as Melusa reels from soldiers’ searches and a baby’s wrong soul; the party questions Escandar, bargains with Malquin in the Ice Palace for a proof-of-reality quest, and steps through the “safe” gash into the true Great Chasm—where Eidrikas is holding a broken planar mechanism together and needs them to hunt down the orcs who stole a key stone.",
+  "shortSummary": "Kalima is taken into hiding by Zahara as Melusa reels from soldiers’ searches and a baby’s wrong soul; the party questions Iskander, bargains with Malqen in the Ice Palace for a proof-of-reality quest, and steps through the “safe” gash into the true Great Chasm—where Eidrikas is holding a broken planar mechanism together and needs them to hunt down the orcs who stole a key stone.",
   "longSummary": "After a tense night watch in Nura and Khalid’s house, the party learns Kalima was secretly moved by Zahara while soldiers searched nearby. In the morning, the baby Koema speaks with a not-childlike voice and remembers a fall into the labyrinth, prompting Nura to describe the village’s recurring fear of children born with “the wrong soul.” Finnan’s ring reveals the realm’s hard boundaries (mists, a controlled sky) and that its time is separated from Taelgar, and the party chooses to seek information from the troublemakers rather than the elders. Escandar explains that the five cliff gashes appeared months ago and that Malquin and his ice wolf guardian have blocked the only one that looks safe, while a small group around Zahara quietly hopes to escape. After Eolo pulls a razor-sharp metal shard from the metal gash, the party crosses the narrow ice bridge into the Ice Palace and confronts Malquin the Vaccar, whose shifting voices and panic center on the fear of “ending.” Malquin offers a bargain: take his necklace through the safe gash, show it to a mysterious “knight” beyond, and return with proof that the outside world is real; in return, he promises not to impede escape and to help close the planar cracks. The party immediately tests the bargain and emerges into the true Great Chasm among floating, rune-carved platforms as new tears flicker open in the sky. Clairvoyance reveals Eidrikas below, using his body as a conduit to keep a broken planar mechanism from failing; he explains orcs stole a key stone after a battle and fled down into a descending network of platforms, leaving the party poised to chase them into the sky dungeon.",
   "sessionProfile": {
     "combat": "light",
@@ -41,12 +41,12 @@
       "notes": "Kalima’s sister; describes the curse of children born with the “wrong soul” and points the party toward Zahara, the elders, or the Ice Palace."
     },
     {
-      "name": "Khalid",
+      "name": "Khaled",
       "context": "encounter",
       "notes": "Nura’s husband; visibly shaken by Koema’s speaking and tries to keep the family steady amid fear of the village’s curse."
     },
     {
-      "name": "Koema",
+      "name": "Samir",
       "context": "encounter",
       "notes": "Nura and Khalid’s baby; speaks with a not-childlike voice and remembers a past life and a fall into the labyrinth."
     },
@@ -66,7 +66,7 @@
       "notes": "One of Melusa’s elders; named (with Sama) as an authority on the village’s beliefs about the “wrong soul.”"
     },
     {
-      "name": "Escandar",
+      "name": "Iskander",
       "context": "encounter",
       "notes": "A troublemaker aligned with Zahara; explains the history of the gashes and the ice wolf, and quietly hopes for escape."
     },
@@ -76,7 +76,7 @@
       "notes": "Name given for the ruler controlling the demiplane’s sky; villagers call him Malquin."
     },
     {
-      "name": "Malquin the Vaccar",
+      "name": "Malquin the Vaqar",
       "context": "encounter",
       "notes": "Ruler of the Ice Palace; fractured, shifting voices and fear of “ending,” offers a proof-of-reality bargain involving a necklace and a mysterious “knight.”"
     },
@@ -183,7 +183,7 @@
   "combats": [],
   "treasure": [
     "Razor-sharp shimmering metal shard (from the metal gash)",
-    "Malquin’s necklace (to be shown to the ‘knight’ beyond the gash)"
+    "Malquin’s necklace (to be shown to the night sky beyond the gash)"
   ],
   "meta": {
     "startingLevel": 6,
