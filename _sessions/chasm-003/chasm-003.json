@@ -41,17 +41,12 @@
       "notes": "The monster guarding the black-stone chamber; protected by Living Snow echoes and defeated after a prolonged fight."
     },
     {
-      "name": "Living Snow echoes",
-      "context": "enemy",
-      "notes": "Ice-and-shadow duplicates that harry the party, slow movement, and seem to defend the beast by deflecting attacks."
-    },
-    {
-      "name": "Barquarian the Frostbinder",
+      "name": "Forquarion the Frostbinder",
       "context": "mentioned",
       "notes": "Named as the beast’s master via Finnan’s ‘three true facts’; described as the Frostbinder."
     },
     {
-      "name": "Xypher? (name uncertain)",
+      "name": "Zeyfa",
       "context": "enemy",
       "notes": "Named as the one who lives in the Ice Palace; soldiers invoke the name while searching for a ‘trickster’ spirit."
     },
@@ -61,7 +56,7 @@
       "notes": "Kalima’s sister in Melusa; shelters the party and speaks cautiously about the village’s beliefs and taboos."
     },
     {
-      "name": "Khalid",
+      "name": "Khaled",
       "context": "encounter",
       "notes": "Nura’s husband; describes Melusa’s worldview of endurance and fog and is wary of outsiders, especially around children."
     },
@@ -71,7 +66,7 @@
       "notes": "Nura and Khalid’s baby; unusually quiet and treated as potentially vulnerable to ‘remembering too much’."
     },
     {
-      "name": "Yasem? (name uncertain)",
+      "name": "Yāsim",
       "context": "mentioned",
       "notes": "Name overheard via Clairvoyance as soldiers coordinate search orders near the Ice Palace."
     },
@@ -94,11 +89,6 @@
       "name": "Rabel",
       "context": "mentioned",
       "notes": "A kestavo name mentioned among the villagers’ fragmentary stories."
-    },
-    {
-      "name": "Isau? (name uncertain)",
-      "context": "mentioned",
-      "notes": "A kestavo name mentioned as a bringer of spring; details are unclear."
     }
   ],
   "organizations": [

@@ -54,33 +54,17 @@
       "name": "Romil the Glacier King",
       "context": "mentioned",
       "notes": "Name invoked by Kalima in prayer and associated with the glacial light she clutches."
-    },
-    {
-      "name": "Seeker",
-      "context": "mentioned",
-      "notes": "Referenced as the sort of scholar who might investigate planar stories connected to the Chasm."
     }
   ],
   "organizations": [
     "Vejo Vaikai",
     "Kestavo",
-    "Philosopher's Guild"
   ],
   "places": [
     {
       "name": "Zeyfa's Labyrinth",
       "context": "visited",
       "notes": "The shifting ice-and-stone maze in which the party is trapped."
-    },
-    {
-      "name": "Crevasse room",
-      "context": "visited",
-      "notes": "Low-ceilinged ice chamber split by a warm crack lined with ice ‘ferns’ and rising wind."
-    },
-    {
-      "name": "Black-stone chamber",
-      "context": "visited",
-      "notes": "Stormless chamber reached by sliding down non-reflective black ice; site of the beast’s appearance."
     },
     {
       "name": "Great Chasm",

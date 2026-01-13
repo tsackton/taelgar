@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/check/mike]
+tags: [event]
 name: Cursed Cold
 typeOf: plague
 DR: 1583-05

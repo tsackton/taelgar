@@ -2,13 +2,21 @@
 headerVersion: 2023.11.25
 tags: [status/check/ai]
 ---
+# Timeline
+
+(DR::1730-01-25), afternoon:  The accidental explorers defeat a beast of snow and ice and emerge in a village perched in a endless fog on the edge of a chasm
+
+(DR::1730-01-25), evening: The explorers find refugee in Kalima's sister's house, and gather what information they can about the strange place they are in.
 
 ## Narrative Summary
 
-Pinned in the black-stone chamber, the party fights through the beast’s “Living Snow” echoes—shadows of ice and hunger that slow, harry, and confuse. As ordinary arrows and claws prove unreliable, they improvise: Ekko’s conjured pack tears through the melee, Justas’s Spirit Guardians forces space and attrition, and Eolo’s psionic strikes punch through defenses when mundane damage fails. With Kalima hiding behind illusion and the beast’s chilling gaze repeatedly stared down, the group identifies that the echoes are actively defending their master—and finally brings the shaggy white monster crashing to the ground.
+Pinned in the black-stone chamber, the party fights through the beast’s “Living Snow” echoes—shadows of ice and hunger that slow, harry, and confuse. As ordinary arrows and claws prove unreliable, they improvise: Ekko’s conjured pack tears through the melee, Justas’s Spirit Guardians forces space and attrition, and Eolo’s psionic strikes punch through defenses when mundane damage fails. With Kalima hiding behind illusion and the beast’s chilling gaze repeatedly stared down, the group identifies that the echoes are tuned to each one of them, and actively defending their master. As they switch attacks - each one using their attacks against a beast that was summoned to fight another - they defeat the echoes and, finally bring the shaggy white monster crashing to the ground. 
 
-When the beast dies, the howling wind stops and the chamber itself changes: frost weeps away, granite shows through, and an earthy tunnel splits open in the floor. The party follows Kalima through the permafrost passage and emerges onto a cliffside switchback overlooking the Great Chasm, where an isolated Ice Palace floats near two bridged rocks—one lush with strange growth, one grazed by cattle. Guided to the cliff-carved village of Melusa, they take shelter with Kalima’s family and learn unsettling truths about a life defined by fog, endurance, and sacrifice. Finnan’s scouting magic and Ekko’s quiet reconnaissance reveal signs of movement within the Ice Palace—and an ice bridge beginning to grow toward the village as soldiers search for a “trickster” spirit.
+When the beast dies, the howling wind stops and the chamber itself changes: frost weeps away, granite shows through, and an earthy tunnel splits open in the floor. The party follows Kalima through the permafrost passage and emerges onto a cliffside switchback overlooking the Great Chasm, where an isolated Ice Palace floats near two bridged rocks—one lush with strange growth, one grazed by cattle. Guided to the cliff-carved village of Melusa, they take shelter with Kalima’s family and learn unsettling truths about a life defined by fog, endurance, and sacrifice.  Finnan sends a conjured fey to speak with the master of the Ice Palace - known to be [[Forquarion]] the Frostbinder, from Finnan's earlier magic.  After the fey does not return, he uses _Clairvoyance_ to discover a complex circular stone with writing in [[Sylvan Writing|sylvan]] at the very top of the highest spire, and later to discover an ice bridge beginning to grow toward the village as soldiers search for a “trickster” spirit.
 
+Ekko meanwhile, scouts as a cat, and discovers five magical gashes in the cliff face, guarded by a squad of human guards and a 40 foot tall ice status of a wolf. Each of the gashes looks into a different, hostile elsewhere (a lightning storm, metallic spikes shimmering, impossible flashing colors, swirling ash and ice, and a mirror-like chasm view without the village).
+
+As the scouting winds down, the party decides to rest, after a augury of Justas' to the kestavo reports a positive outcome.
 ## Zefya's Beast
 - The party regains their footing in the dark chamber at the bottom of the slide; Jrain’s lighted arrow and Justas’s light provide the only illumination, while Finnan rides on Eolo’s back as Eolo flies.
 - Justas challenges the lurking creature; the shaggy white beast roars, and multiple “Living Snow” echoes rise from the icy ground near each of the party (and one near Kalima’s hiding place).
