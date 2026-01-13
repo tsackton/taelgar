@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/ai]
+tags: [status/check/ai, status/check/mike]
 ---
 # Timeline
 
@@ -17,6 +17,7 @@ When the beast dies, the howling wind stops and the chamber itself changes: fros
 Ekko meanwhile, scouts as a cat, and discovers five magical gashes in the cliff face, guarded by a squad of human guards and a 40 foot tall ice status of a wolf. Each of the gashes looks into a different, hostile elsewhere (a lightning storm, metallic spikes shimmering, impossible flashing colors, swirling ash and ice, and a mirror-like chasm view without the village).
 
 As the scouting winds down, the party decides to rest, after a augury of Justas' to the kestavo reports a positive outcome.
+
 ## Zefya's Beast
 - The party regains their footing in the dark chamber at the bottom of the slide; Jrain’s lighted arrow and Justas’s light provide the only illumination, while Finnan rides on Eolo’s back as Eolo flies.
 - Justas challenges the lurking creature; the shaggy white beast roars, and multiple “Living Snow” echoes rise from the icy ground near each of the party (and one near Kalima’s hiding place).
