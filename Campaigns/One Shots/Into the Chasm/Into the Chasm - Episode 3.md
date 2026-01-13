@@ -13,7 +13,7 @@ tagline: in which living snow defends a white beast, the maze breaks, and the Ic
 > *Featuring: [[Jrain Fanlish]], [[Finnan Oakstride]], [[Justas Rhostrin]], [[Ekko]], [[Eolo]]*
 > *In Taelgar: (DR:: 1730-01-25)*
 > *On Earth: Tuesday, December 16th, 2025*
-> *Zeyfa's Labyrinth, [[Great Chasm]], and [[Melusa]]*
+> *Zeyfa's Labyrinth and [[Melusa]]*
 
 The party finishes the brutal fight in the black‑stone chamber, kills the shaggy white beast, follows a new earthen tunnel out to the cliffside village of [[Melusa]], and learns that an Ice Palace and its soldiers are watching.
 
