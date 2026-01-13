@@ -1,6 +1,6 @@
 DM: Alright, let me—
 DM: Share. Audio…
-DM: So… when we… left our intrepid heroes, you were hiding in Khalid and Nura’s house—the family of Kalima. A small, sort of one-and-a-half-room hut. Hot in this odd village set on the side of the chasm in a mysterious land where the sun never seems to set, or at least only sets rarely. Ruled by… Lord—oh, I gotta find—I have the wrong notes. Ruled by this lord, Lord Foraquin—<Foraquarin>[Foraquin|Name consistency]—the Frostbinder, also called Malk… <Malkin>[Malquin|Name consistency; later used by villagers].
+DM: So… when we… left our intrepid heroes, you were hiding in Khalid and Nura’s house—the family of Kalima. A small, sort of one-and-a-half-room hut. Hot in this odd village set on the side of the chasm in a mysterious land where the sun never seems to set, or at least only sets rarely. Ruled by… Lord—oh, I gotta find—I have the wrong notes. Ruled by this lord, Lord Foraquin—Foraquin—the Frostbinder, also called Malk… Malquin.
 DM: And you had just discovered not very much about the people here. The cowed Khalid and Nura were not that talkative. Kalima was withdrawn and shaken from her experience. But you did, through Finnan’s clairvoyance, see Foraquin send a group of soldiers from his ice palace, across a bridge of ice that extended from this floating rock to the side of the cliff. And they started marching. Then the clairvoyance ended, and it was also fixed, so what they were doing is unclear.
 DM: And, of course, the cat, Ekko, as the cat, discovered a pond full of fish, and explored it a little closer to these five cracks in the wall: one flashing sort of ice and, when flashing, storms; one flashing odd colors—purple and… and…; one flashing, like, sharp shards of metal and odd forms; and one showing what looks like a reflection of the chasm itself—of this place—but without the ice palace, right? Just looking out into more openness.
 DM: And so you decided, on the advice of a spouse, to go to sleep. And as we begin, you’re huddled together… I guess, or apart? I don’t know—you’re huddled in the corner, basically, in the half-room of this one-and-a-half-room hut, a little bit away from the family, who are also settling in to go to sleep, because… well, it’s not nighttime, but it’s the end of the day. And… you go to sleep. Are you keeping a watch or anything like that?
@@ -34,10 +34,10 @@ DM: That—you got… so, the main house is, like—
 Jrain: You’re asleep.
 Eolo: Okay.
 Jrain: Who’s asleep? Our mom watched.
-DM: You are. You are asleep. You are asleep. <YOLO>[Eolo|ASR name correction] is not allowed to perform <YOLO feats>[Eolo feats|ASR] at this given moment, because you are asleep.
+DM: You are. You are asleep. You are asleep. Eolo is not allowed to perform Eolo feats at this given moment, because you are asleep.
 Eolo: But wait, there was that one thing, Mike.
 DM: Fig.
-Eolo: Oh, in the stuff I made up about <YOLO>[Eolo|ASR]? Yeah. That happens when he’s asleep?
+Eolo: Oh, in the stuff I made up about Eolo? Yeah. That happens when he’s asleep?
 DM: Oh, that’s true. What happens… I forget what you said, though. What happens when he’s asleep? He sleepwalks. He sleep-fights—he does something when he’s asleep.
 Eolo: I mean, it’s not even necessarily fully aware of whatever it is. He denies it.
 DM: Okay.
@@ -48,7 +48,7 @@ Jrain: But everyone who I would want to not be seen is in a part of the room whe
 Jrain: We didn’t wisely choose a corner that wasn’t visible from the door.
 DM: No, I assume you did choose a corner that wasn’t visible from the door. That’s what I’m trying to say. But you are presumably keeping watch somewhere where you can see the door. It would be silly to keep watch hidden in the corner, where you couldn’t see anything.
 Jrain: So they’re not visible, but I am.
-DM: <Cat.>[Ekko.|ASR; Ekko is the cat’s name]
+DM: Ekko.
 Jrain: Probably. Except that I can see that the door is cracking. I could try to, like, dash around the corner, and they might just think I’m one of the—
 DM: Yeah.
 Jrain: —gross.
@@ -60,7 +60,7 @@ DM: 14. Okay. You hear a… you can’t really… you can’t make out words, bu
 Jrain: Too quiet to make out. Now that you’ve gone around the corner, or hiding, it’s too quiet to make out.
 DM: And you hear another, like, footfall or two. Like, it almost sounds like somebody’s standing up. Like, standing up from—like, you hear a thump sound, like somebody standing up from lying down or something like that. And you hear another whispery noise. Yell if you’re gonna do anything—I’m just gonna keep telling you what happens, but stop me if you want to do something.
 Jrain: I poke one of the people who speaks the language. Quietly shake them awake.
-DM: Okay. Finnan and <Injustice>[Justas|ASR nickname; keep character name consistent] are both of them. Yeah—whoever’s closer to you. Alright. Justas, you’re wakened up.
+DM: Okay. Finnan and Justas are both of them. Yeah—whoever’s closer to you. Alright. Justas, you’re wakened up.
 Justas: Hmm? Yeah.
 Jrain: There’s somebody here.
 DM: You hear… you hear the door close more—like, you didn’t hear it open, but you hear it shut. Like, you hear the noise of a door shutting.
@@ -69,7 +69,7 @@ DM: Kalima is gone.
 Jrain: Oh, boy.
 Jrain: So I rush to the door and, like, open it to see if I can see which way she’s disappearing—in some direction. And Finnan probably notices that I’m, like, dashing to the door.
 DM: Justas, yeah? Justas is awake, yeah.
-Finnan: Finnan, not <Finian>[Finnan|Name correction]. Everybody keeps saying <Finian>[Finnan|Name correction]—that’s not my name.
+Finnan: Finnan, not Finnan. Everybody keeps saying Finnan—that’s not my name.
 Jrain: And then—
 Justas: Justas starts…
 Jrain: Yay.
@@ -95,7 +95,7 @@ Jrain: Oh, you did? Okay.
 Finnan: No, I haven’t, but I can. I’m just saying… is the middle of the night the time for this conversation? I mean… what are we hoping to accomplish by waking up the parents and—
 Jrain: If they’re about to be disciplined by their community for housing hidden strangers, maybe they’d appreciate some warning. And maybe they’d want to get rid of us, if they have any ways to help us escape so they don’t face that consequence. That’s why I would wake them.
 Finnan: I’ll… I’ll look over at Justas and… just kind of…
-Finnan: Finnan’s a little concerned whether Justas’s magic—whether the gods are unable to see the future here, or are lying to us. Like… you did ask the <Gestavo>[Gustavo|Term consistency; later “Gestavo” used repeatedly] before we slept if that was a wise course of action, and they said yes, right?
+Finnan: Finnan’s a little concerned whether Justas’s magic—whether the gods are unable to see the future here, or are lying to us. Like… you did ask the kestavo before we slept if that was a wise course of action, and they said yes, right?
 DM: I mean, nothing bad has happened yet.
 Justas: I mean, I suppose I could ask again.
 Jrain: I appreciate your face.
@@ -105,7 +105,7 @@ Jrain: Maybe it’s safe because if we just stay here in this corner hidden, the
 Justas: I assume we did not actually get a long rest out of the night so far?
 DM: I mean… yeah, if you’re on watch, no—you haven’t gotten a long rest yet.
 Justas: Hmm…
-DM: You would have gotten a short rest. If you still have slots, you could use them and you’d get them back. Although, actually, I think technically the D&D rules are if you fight in the middle of the night, I don’t… anyway, it’s fine if you want to use this. You don’t feel any sense that the custody— I mean, you feel… that the Gustavo— I mean, there’s a bit of a, like, distance, but it doesn’t feel corrupted or anything.
+DM: You would have gotten a short rest. If you still have slots, you could use them and you’d get them back. Although, actually, I think technically the D&D rules are if you fight in the middle of the night, I don’t… anyway, it’s fine if you want to use this. You don’t feel any sense that the custody— I mean, you feel… that the kestavo— I mean, there’s a bit of a, like, distance, but it doesn’t feel corrupted or anything.
 Justas: Justas will say… as, like, an old man—well into his 50s—he’s been in some fights today. He’s tired. Yeah, he needs to go back to sleep.
 Finnan: This is what Finnan is thinking, too. Finnan is just gonna roll over and go back to sleep.
 DM: Okay?
@@ -118,9 +118,9 @@ DM: Eolo was probably the first watch. Finnan was the second watch. You’re the
 Jrain: Alright, well, I’ll wake up Ekko when my watch is over, then.
 DM: The rest of the night passes uneventfully. You can now all click the long rest button. You wake up feeling… somewhat refreshed.
 DM: The… family—I mean, Nura and Khalid—kind of… when, as you’re waking up, sort of whisper to each other. They seem… like, kind of giving each other glances, like looking at you, looking at your weapons. Seem kind of… there’s a lot of significant glances passing between them. They sort of—kind of—offer: Would you like some food? Will you be on your way? Where are you going?
-Finnan: <Brendan’s>[Finnan’s|ASR/identity slip] just gonna start laughing when they say that. Just, like… belly laugh. Like, where is there to go in this place?
+Finnan: Finnan’s just gonna start laughing when they say that. Just, like… belly laugh. Like, where is there to go in this place?
 DM: Someone else’s house?
-Justas: Justas will… I’ll turn to <Finney>[Finnan|Name/nickname consistency] and say—
+Justas: Justas will… I’ll turn to Finnan and say—
 Finnan: I mean, I’m not doing— the point is, it’s in a friendly way.
 DM: Yeah.
 Finnan: Not mocking.
@@ -134,12 +134,12 @@ Justas: Fast.
 DM: Out loud: Zahara came for her. They… they are my— and then the baby stops for a minute. Like, it’s kind of weird. But they are… wow. They weren’t… and then stops again, like not quite sure how to finish this. Koema will be safe.
 DM: And the parents are looking quite disturbed—like, you know, obviously having a baby talking. The baby’s not old enough to talk. It’s disturbing the parents a little bit, but they don’t look surprised. They look more nervous.
 Justas: What’s happening here? I’ll ask them. I’ve never heard a baby speak like that.
-DM: So there are sort of… Khalid sort of takes the baby away—the father kind of takes the baby away—and… and Nura says: This happens sometimes to children here. They’re born with a curse, or some affliction from this place. She’s sort of looking very downbeat, right? Like… it usually means they do not survive. It’s a… we think it’s—some say, some of the elders say it’s when a soul that was sacrificed <distracted them>[was trapped in them|ASR; fits “wrong soul” explanation]. Others say it’s a curse from Malquin. Either way, it is somebody born wrong.
-Finnan: <Bye.>[Uh…|ASR interjection] While Justas is talking to the woman, Finnan will also telepathically reach out to the baby again and say—and ask—what’s the last thing you remember from your past life. And I’ll give explicit instructions: don’t speak out loud; just think it in your mind and imagine me hearing it. There’s no need to scare your parents.
+DM: So there are sort of… Khalid sort of takes the baby away—the father kind of takes the baby away—and… and Nura says: This happens sometimes to children here. They’re born with a curse, or some affliction from this place. She’s sort of looking very downbeat, right? Like… it usually means they do not survive. It’s a… we think it’s—some say, some of the elders say it’s when a soul that was sacrificed was trapped in them. Others say it’s a curse from Malquin. Either way, it is somebody born wrong.
+Finnan: Uh… While Justas is talking to the woman, Finnan will also telepathically reach out to the baby again and say—and ask—what’s the last thing you remember from your past life. And I’ll give explicit instructions: don’t speak out loud; just think it in your mind and imagine me hearing it. There’s no need to scare your parents.
 DM: I’m sure they loved you.
 DM: You get an image of a person, sort of androgynous—like, non-binary—standing, looking over the chasm. The perspective is, like, from somebody falling. Like, you asked for the last thing they remember from their old—yeah—their perspective is from somebody falling, right? Looking up towards the edge of the chasm where the village is. And there’s this person looking down at them with tears coming down their face and muttering something. Tears, but also a look of determination. And you get the idea this person who’s falling—falling towards the labyrinth—is saying, “Zahara, my child,” referring to the person standing.
 Finnan: What was your name?
-DM: <Taquin?>[Taquin|Unclear proper noun; ASR uncertain]
+DM: Taquin
 Finnan: And you don’t remember anything that happened after you fell.
 DM: No.
 Finnan: Okay. Finnan will stop and think for a moment. And I want to try and formulate… I don’t know if— I mean, Finnan is not sure if this is true, but is gonna try and spin a story of: this is not a curse; this is a blessing. You’ve given somebody a new life, and you don’t have to be scared. We just need to figure out what’s going on. Basically trying to explain to the parents that there’s a deeper mystery—this isn’t just some random curse that—
@@ -147,26 +147,26 @@ DM: —has—
 Finnan: —befallen your family.
 DM: The—
 Finnan: I’ll ask them what they named their baby.
-DM: <Some year.>[Koema.|ASR; baby name likely Koema, used earlier]
+DM: Koema.
 Finnan: Okay.
 DM: The mother is like, “Well… you say this is something we have to figure out. The elders tell us—Sama and Aram—the elders. They tell us this happens when… this has been happening since… since we were punished and came here, in the dawn of our memory. Some people are born with the wrong soul—one that still remembers, they say. And they go bad, and cannot live. We’ve seen it.”
 DM: She looks quite down. “You say we can solve this, but… it has happened before. Those born with souls that still remember cannot grow into their own person. The soul that is stuck in them is…” And she just sort of closes her eyes and looks quite— “Samir is gone.”
-DM: And Khalid sort of pats her on the shoulder, like: We can’t <target you out>[take it out|ASR; comfort phrase], stay strong—like—
+DM: And Khalid sort of pats her on the shoulder, like: We can’t take it out on you, stay strong—like—
 DM: Do you… do you… She sort of looks up. “Can the world change? I… I think not. It never has before.”
-Finnan: Finnan will look over at Justas, and the two can <goo>[go|ASR]. And then glance at Jrain and… just say: It has already.
+Finnan: Finnan will look over at Justas, and the two can go. And then glance at Jrain and… just say: It has already.
 DM: I mean… they don’t quite know what to make of you guys, that’s certainly true. I think there’s a certain acknowledgement in her shrug and voice, like… yes, maybe you will bring change. We have never seen somebody like you before.
 Finnan: So maybe it’s time to stop listening to your elders.
 Finnan: But… we don’t know anything about this place. So… we need information if we’re to bring any sort of change.
-Finnan: All I do know is that this village was not always here. There is an ancient story from many, many years ago—long ago, even in the memory of my people—of a waterfall where a <Gestavo>[Gustavo|Term consistency] named <Melusa>[Melusa|Unclear proper noun; ASR uncertain] was worshipped.
+Finnan: All I do know is that this village was not always here. There is an ancient story from many, many years ago—long ago, even in the memory of my people—of a waterfall where a kestavo named Melua was worshipped.
 DM: She says, “Well… if you want to know more,” the people she thinks know stuff are either—she says, “Well, there’s Zahara and their band of troublemakers, always talking about change.”
 Justas: That would make her sound like good people for us to talk to.
 Ekko: I mean, this… Zahara is… is… is the—the baby’s—
 DM: —kid, right. The baby soul’s kid, who is the one who took Kalima. Or you could talk to the elders.
 Finnan: I’m not interested in the elders.
 DM: Or, of course… there’s always—she sort of points across the—there’s only these tiny little windows, basically no windows, so you can’t see out—but she points in the direction of the ice palace. “Malquin knows much.”
-DM: Malquin being their name for the… they never use the name—the fey name for—<Quan Yin>[Foraquin|ASR; Frostbinder’s actual name in this scene is Foraquin]—they always call… you’ve only ever heard this person, the Frostbinder, referred to as Malquin by the people here. <Adam. Heat.>[???|ASR garble]
+DM: Malquin being their name for the… they never use the name—the fey name for—Foraquin—they always call… you’ve only ever heard this person, the Frostbinder, referred to as Malquin by the people here. [unintelligible]
 DM: You could, you know… there are paths to the palace. But there’s always information. I’m sure there’s information there.
-DM: But she can tell you where, like, <Zipher>[Zahara|ASR; speaker self-corrects]—not Saifa, sorry, Zahara—tends to stay on the edge of the village. And there’s a few houses; she could direct you to one of the houses where Zahara lives, and where their crowd tends to hang out in the evenings and stuff like that. This village is only 300, 400 people, right? It’s not like—or—she could also tell you where you could find the elders. There don’t seem to still be soldiers running around; they seem to have finished their search.
+DM: But she can tell you where, like, Zahara—not Zeyfa, sorry, Zahara—tends to stay on the edge of the village. And there’s a few houses; she could direct you to one of the houses where Zahara lives, and where their crowd tends to hang out in the evenings and stuff like that. This village is only 300, 400 people, right? It’s not like—or—she could also tell you where you could find the elders. There don’t seem to still be soldiers running around; they seem to have finished their search.
 Finnan: I think we should go talk to the troublemakers. Agreed. Before we do anything else— but first, since my ring regained all its charges, I’m going to use all five charges again to learn three true facts about a place I have slept.
 Justas: Meh…
 DM: Okay, 32 facts about a place you have slept.
@@ -176,7 +176,7 @@ DM: I know, I know.
 Finnan: —I slept, and I slept here, I would have prepared.
 DM: Yeah, I’m realizing I should have prepared… I mean, I know plenty of true facts about the place, I just haven’t figured out the right ones to tell you.
 Justas: For what it’s worth, Mike, I absolutely would not have prepared three true facts about anything.
-DM: Yeah. This place is separated in time from Talgar. And time passes slowly here—meaning it’s passing… one year here is much less than one year on Talgar. Or—somewhat—less than one year on Talgar.
+DM: Yeah. This place is separated in time from Taelgar. And time passes slowly here—meaning it’s passing… one year here is much less than one year on Taelgar. Or—somewhat—less than one year on Taelgar.
 Finnan: So time passes—
 DM: Faster.
 Finnan: Okay.
@@ -190,51 +190,51 @@ Finnan: Okay.
 Justas: Probably have another day or two before it starts to stink too bad.
 Finnan: Put some ice in there.
 Finnan: So we’re trapped in some sort of fey demiplane. Let’s go talk to the troublemakers. But Finnan will say he’s half-tempted to just go talk to the fey, if the troublemakers don’t have anything useful to say.
-Justas: Finnan, you’re saying “fey,” but… do you mean fey? You don’t think this is actually one of the Gustavo trapping them here. You know, it’s not the wind; it’s—
+Justas: Finnan, you’re saying “fey,” but… do you mean fey? You don’t think this is actually one of the kestavo trapping them here. You know, it’s not the wind; it’s—
 Finnan: …because, well, I saw a bunch of Sylvan writing in a giant circular table in the palace.
 Justas: Right, right.
-Finnan: And… does anything about this feel Gustavan to you?
-Justas: Actually, Justas takes a deep pause and a slow breath, and tries to see the whole place with fresh eyes again. Are there any of, like… like, I think of the hallmarks of Gustavo being, like… people wearing symbols, or wearing little handmade bits, or some token of the wind, or orienting their houses along similar axes that are meaningful to that. And the connections—those weird doorways—that’s not a Gustavo, sir. I’ve never run into something like that.
-DM: The cracks in the cliff face are very odd, but do not seem Gustavo at all.
+Finnan: And… does anything about this feel Kestavan to you?
+Justas: Actually, Justas takes a deep pause and a slow breath, and tries to see the whole place with fresh eyes again. Are there any of, like… like, I think of the hallmarks of kestavo being, like… people wearing symbols, or wearing little handmade bits, or some token of the wind, or orienting their houses along similar axes that are meaningful to that. And the connections—those weird doorways—that’s not a kestavo, sir. I’ve never run into something like that.
+DM: The cracks in the cliff face are very odd, but do not seem kestavo at all.
 Justas: I wonder if it’s someone pretending, then? Imitating it?
-Finnan: Just… I mean, you know better than I, Justas, but… all those stories about… about <Cypher>[Zahara|ASR; likely mixing names] and <Saifa’s>[Sama’s|ASR; “Sama and Aram” named as elders] children are… are… they’re still Gustavan, right? They’re still the same rituals and—
+Finnan: Just… I mean, you know better than I, Justas, but… all those stories about… about Zahara and Sama’s children are… are… they’re still Kestavan, right? They’re still the same rituals and—
 Justas: Oh, yeah.
 Finnan: You know, except now the prayers are to ward them off, and… nobody here has talked like that. They talk like… this ice palace is… it’s a— it sounds like fey lore, not a— not any evil god.
 DM: It—
 Finnan: Or even a trickster god.
-DM: It looks— I mean, literally, the palace itself looks elaborate in a way that Gustavo are just much more fundamentally simple.
+DM: It looks— I mean, literally, the palace itself looks elaborate in a way that kestavo are just much more fundamentally simple.
 Justas: Yeah.
 DM: Like, it has spires and towers and crenellations and—like—
 Justas: Right—where, like, if it really was the Palace of the Wind coming down from the glacier, it would have been subtle: wind-carved patterns in ice, or the way the swirls of snow move through the space, yeah.
-DM: The Gustavo are fundamentally about places. That’s the most—they’re spirits of place, right? And they tend to take on the characteristics of a place. So, like, a Gustavo of a waterfall wouldn’t build a— the Gustavo of the West Wind would probably be wind-like. I mean, the swirling sort of thing down below has more of a vibe of the thing that hides the labyrinth—definitely more of a West Wind vibe—but the ice palace really doesn’t, right?
-DM: Like… you’ve been to, like, hundreds of Gustavo shrines, right? They’re simple. They fit into the natural environment. They celebrate the place that the Gustavo is sacred to. They’re not <Constantatious>[ostentatious|ASR] like this.
-DM: I mean, it definitely feels to Finnan more like stories you’d hear of a fey palace, or a— it’s just… a wizard’s tower. I mean, it doesn’t really look like a wizard’s tower, but, like, a wizard’s tower or something. Like, it’s showy in a way that the Gustavo usually wouldn’t be.
+DM: The kestavo are fundamentally about places. That’s the most—they’re spirits of place, right? And they tend to take on the characteristics of a place. So, like, a kestavo of a waterfall wouldn’t build a— the kestavo of the West Wind would probably be wind-like. I mean, the swirling sort of thing down below has more of a vibe of the thing that hides the labyrinth—definitely more of a West Wind vibe—but the ice palace really doesn’t, right?
+DM: Like… you’ve been to, like, hundreds of kestavo shrines, right? They’re simple. They fit into the natural environment. They celebrate the place that the kestavo is sacred to. They’re not ostentatious like this.
+DM: I mean, it definitely feels to Finnan more like stories you’d hear of a fey palace, or a— it’s just… a wizard’s tower. I mean, it doesn’t really look like a wizard’s tower, but, like, a wizard’s tower or something. Like, it’s showy in a way that the kestavo usually wouldn’t be.
 Justas: Hmm.
 Finnan: Let’s… let’s go speak to these troublemakers and see what they have to say.
 Justas: Maybe they can draw off the guards while we head to the palace afterwards.
 Finnan: I mean, if there is a fey lord in that palace, we have absolutely no hope of defeating them by any means whatsoever. Our only logical course of action would be to negotiate. Maybe they’re also bored of what’s been happening for the past thousand years here.
-DM: Although it could have been less than a thousand years, by the way. You don’t know what the timescale dilation is. If it was really the downfall, it would have been, what, 1,700 years in Talgar, either.
-Finnan: You just told me that the one true fact was that time runs faster here than in Talgar.
+DM: Although it could have been less than a thousand years, by the way. You don’t know what the timescale dilation is. If it was really the downfall, it would have been, what, 1,700 years in Taelgar, either.
+Finnan: You just told me that the one true fact was that time runs faster here than in Taelgar.
 DM: Yeah, yeah, yeah.
-Finnan: So it has to—so if it’s been over a thousand years in Talgar, it’s gotta be over a thousand years here.
+Finnan: So it has to—so if it’s been over a thousand years in Taelgar, it’s gotta be over a thousand years here.
 DM: Wait. I’m just… now I’m getting faster and—
-Finnan: If time runs faster here, then for every one year in Talgar, two years pass, say. So 1,000 years ago would be 2,000 years ago. A thousand years ago on the outside would be 2,000 years on the inside.
-DM: No, no, no. I mean the opposite. Time doesn’t run faster in Talgar. Time runs slower here. Time runs slower here. I said it right the first time.
+Finnan: If time runs faster here, then for every one year in Taelgar, two years pass, say. So 1,000 years ago would be 2,000 years ago. A thousand years ago on the outside would be 2,000 years on the inside.
+DM: No, no, no. I mean the opposite. Time doesn’t run faster in Taelgar. Time runs slower here. Time runs slower here. I said it right the first time.
 Finnan: When will I have been—
-Justas: But, like, when was Olds and Coven in common use?
+Justas: But, like, when was Old Zimkovan in common use?
 DM: Like, 1,500 years ago.
 Justas: I mean, there’s a date right there.
-DM: Yeah. But—no, no, no—I’m saying 1,500 years ago in Talgar, but it hasn’t necessarily been 1,500 years here, subjectively, because time runs slower here than in Talgar. So one year in Talgar is less than one year here.
+DM: Yeah. But—no, no, no—I’m saying 1,500 years ago in Taelgar, but it hasn’t necessarily been 1,500 years here, subjectively, because time runs slower here than in Taelgar. So one year in Taelgar is less than one year here.
 Justas: Got it.
 Ekko: Guys, what everything’s going on?
 Finnan: We’re trapped in a… some kind of—
-Ekko: <temporal wealth>[temporal whelp|ASR; unclear phrase]
-Finnan: —a mockery of Gustavan—
+Ekko: temporal whelp
+Finnan: —a mockery of Kestavan—
 Ekko: God—that is inside the chasm.
 Finnan: I don’t think we’re inside the chasm anymore.
 DM: Well, it sure looks like being inside the chasm.
 Finnan: Yeah, but it’s not inside the chasm. Maybe it is. I’m dubious.
-DM: Isn’t it a fact about Talgarian planes that many of them mirror Talgar, in a way?
+DM: Isn’t it a fact about Taelgarian planes that many of them mirror Taelgar, in a way?
 Finnan: We might be inside. Yeah, I mean, there’s many possibilities here.
 DM: What makes you think that there isn’t a chasm in some other—
 Finnan: —in the Feywilds.
