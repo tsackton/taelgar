@@ -17,3 +17,5 @@ The party consists of
 
 There adventures so far:
 - [[Into the Chasm - Episode 1]]
+- [[Into the Chasm - Episode 2]]
+- [[Into the Chasm - Episode 3]]
