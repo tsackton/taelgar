@@ -1,0 +1,173 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 4.md",
+  "campaign": "Into the Chasm",
+  "sessionNumber": 4,
+  "name": "Into the Chasm - Episode 4",
+  "descTitle": "A Bargain with Malquin",
+  "tagline": "in which a child speaks, Malquin demands proof, and Eidrikas holds back the chasm",
+  "realWorldDate": "0000-00-00",
+  "drStart": "1730-01-26",
+  "drEnd": "1730-01-29",
+  "shortSummary": "Kalima vanishes into hiding as the Ice Palace’s influence tightens around Melusa; the party bargains with Malquin in the Ice Palace and steps through the “safe” gash into the true Great Chasm, where Eidrikas holds back a failing planar mechanism.",
+  "longSummary": "The night after the Ice Palace’s soldiers search Melusa, Kalima vanishes from Nura and Khaled’s house—spirited away by Zahara. In the morning, the family’s baby speaks with a voice and memories that are not its own, warning that Kalima will be safe and recalling a fall into the labyrinth; Nura explains that children are sometimes born with the wrong soul, a sign of the village’s curse. The party questions Iskander, learns that the five gashes in the cliff appeared months ago, and that Malquin’s guards and the forty-foot ice wolf have blocked the one that looks like it leads home. After Eolo is injured testing the metal gash, the party crosses into the Ice Palace and bargains with Malquin the Vaqar, a ruler terrified of ending and desperate for proof that an outside world exists. Malquin gives them a necklace and demands they show it to the night beyond the safe gash and return with proof; in return he promises to let people pass and aid in closing the planar cracks. When the party steps through, they emerge into the true Great Chasm amid floating rune-carved platforms and new tears opening briefly in the sky. Clairvoyance reveals Eidrikas below, literally holding a broken planar mechanism together; he explains that orcs stole a key stone after a battle and fled downward into a descending network of platforms, and the party prepares to pursue them before the mechanism fails.",
+  "sessionProfile": {
+    "combat": "light",
+    "roleplay": "heavy",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Jrain Fanlish",
+    "Finnan Oakstride",
+    "Justas Rhostrin",
+    "Ekko",
+    "Eolo"
+  ],
+  "npcs": [
+    {
+      "name": "Kalima",
+      "context": "mentioned",
+      "notes": "Removed from Nura and Khaled’s house during the night and hidden by Zahara while soldiers searched the village."
+    },
+    {
+      "name": "Zahara",
+      "context": "mentioned",
+      "notes": "Leader of the village troublemakers; takes Kalima into hiding and maintains a secret refuge."
+    },
+    {
+      "name": "Nura",
+      "context": "encounter",
+      "notes": "Kalima’s sister; describes the curse of children born with the “wrong soul” and points the party toward Zahara, Iskander, and the Ice Palace."
+    },
+    {
+      "name": "Khaled",
+      "context": "encounter",
+      "notes": "Nura’s husband; shaken by the baby’s speaking and fearful of the village’s curse."
+    },
+    {
+      "name": "Samir",
+      "context": "encounter",
+      "notes": "Nura and Khaled’s baby; speaks with a voice and memories that are not its own."
+    },
+    {
+      "name": "Taquin",
+      "context": "mentioned",
+      "notes": "Name given by the soul speaking through Samir when Finnan probes telepathically."
+    },
+    {
+      "name": "Sama",
+      "context": "mentioned",
+      "notes": "One of Melusa’s elders; named (with Aram) as an authority on the village’s beliefs about the “wrong soul.”"
+    },
+    {
+      "name": "Aram",
+      "context": "mentioned",
+      "notes": "One of Melusa’s elders; named (with Sama) as an authority on the village’s beliefs about the “wrong soul.”"
+    },
+    {
+      "name": "Iskander",
+      "context": "encounter",
+      "notes": "A troublemaker aligned with Zahara; explains the history of the gashes and the ice wolf, and quietly hopes for escape."
+    },
+    {
+      "name": "Lord Foraquin (the Frostbinder)",
+      "context": "mentioned",
+      "notes": "Name given for the ruler controlling the demiplane’s sky; villagers call him Malquin."
+    },
+    {
+      "name": "Malquin the Vaqar",
+      "context": "encounter",
+      "notes": "Ruler of the Ice Palace; fractured voices and fear of “ending,” offers a proof-of-reality bargain involving a necklace."
+    },
+    {
+      "name": "Ice wolf guardian",
+      "context": "encounter",
+      "notes": "Forty-foot-tall ice wolf standing before the safest-looking gash; reacts to disturbance but allows the party to pass."
+    },
+    {
+      "name": "Eidrikas",
+      "context": "encounter",
+      "notes": "Ekko’s mentor; found in the true Great Chasm using his body as a conduit to keep a broken planar mechanism from failing."
+    },
+    {
+      "name": "Orcs",
+      "context": "enemy",
+      "notes": "Stole a key stone from Eidrikas’s planar mechanism after a battle and fled downward into a descending platform network."
+    }
+  ],
+  "organizations": [
+    "Kestavo",
+    "Vejo Vaikai",
+    "Kemeko Monastery"
+  ],
+  "places": [
+    {
+      "name": "Melusa",
+      "context": "visited",
+      "notes": "Cliff-carved village where the party shelters with Kalima’s family and meets Iskander; site of the five gashes and the Ice Palace’s influence."
+    },
+    {
+      "name": "Nura and Khalid’s house",
+      "context": "visited",
+      "notes": "Safehouse in Melusa where the party sleeps, loses Kalima during the night, and witnesses the baby’s speaking."
+    },
+    {
+      "name": "Cliff gashes (five portals)",
+      "context": "visited",
+      "notes": "Five jagged cuts in the cliff face showing different hostile elsewheres (including a metal storm and a gash that looks like the chasm)."
+    },
+    {
+      "name": "Watchwood Islands",
+      "context": "mentioned",
+      "notes": "Overgrown orchards/woods of fruit trees where Zahara keeps a secret hideaway."
+    },
+    {
+      "name": "Ice Palace",
+      "context": "visited",
+      "notes": "Floating palace ruled by Malquin the Vaqar; reached by a narrow ice bridge."
+    },
+    {
+      "name": "Great Chasm",
+      "context": "visited",
+      "notes": "The party’s home chasm in Taelgar; reached by stepping through the “safe” gash."
+    },
+    {
+      "name": "Floating platform network",
+      "context": "visited",
+      "notes": "Floating stone platforms carved with geometric channels, with brief tears opening in the sky."
+    },
+    {
+      "name": "Planar mechanism platform",
+      "context": "visited",
+      "notes": "A sparking platform where Eidrikas holds unstable planar energy in place as cracks open in the sky."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Nura and Khalid’s house",
+      "to": "Iskander (in Melusa)",
+      "mode": "on foot"
+    },
+    {
+      "from": "Melusa",
+      "to": "Ice Palace",
+      "mode": "ice bridge"
+    },
+    {
+      "from": "Melusa (safe gash)",
+      "to": "Great Chasm",
+      "mode": "portal"
+    }
+  ],
+  "combats": [],
+  "treasure": [
+    "Razor-sharp shimmering metal shard (from the metal gash)",
+    "Malquin’s necklace (to be shown to the night sky beyond the gash)"
+  ],
+  "meta": {
+    "startingLevel": 6,
+    "endingLevel": 6,
+    "xpAward": null
+  }
+}
