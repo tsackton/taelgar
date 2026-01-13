@@ -14,7 +14,7 @@ DM: No, you didn’t go through the crack. You emerged from the labyrinth into t
 Jrain: Labyrinth was in the demiplane, and completing the labyrinth put us in a different part of the demiplane.
 DM: Most likely, yes, yes. Basically, when the adventure started—when you fell into the chasm in the very beginning—you fell into the demiplane instead of the chasm.
 Ekko: I feel—
-DM: The labyrinth was a <demi point>[demipoint|ASR; unclear term].
+DM: The labyrinth was a demiplane.
 Ekko: This isn’t what Ekko would do, but I feel like Eolo would really want to fly through one of those five portals that are just, like, doorways into another dimension, but I’m not trying to put any, you know—
 Eolo: That seems correct, yes.
 DM: Four of them—so, to remind you with the portals: one of them is, like, a violent lightning storm. One of them is, like… ice and snow, and jagged icicles shooting through the air and shattering. It looks like sort of infinite winter. One of them is just, like, weird flashing lights, cycling through different colors—colors you can’t even name or describe. One of them is, like, all sharp pieces of metal, and strange twisted metal formations that look like they’re breathing and moving through other metal. It’s hard to even see where—like, it looks like you’d sort of just run into iron or something.
@@ -37,7 +37,7 @@ Justas: I’ll look around to the rest of you, like… I’ll take suggestions. 
 Eolo: Hmm.
 Finnan: It’s—
 DM: And it also just kind of shakes his head. I mean—
-Finnan: Let’s just go. My <clue.>[call.|ASR]
+Finnan: Let’s just go. My call.
 Jrain: My cloak is made of feathers. Like, I don’t know, like—
 Finnan: Finnan’s feeling is, like, after talking to Nura and her husband: these people… these people need to be aware that the world can change. Let’s be the change we want to see in the world.
 Jrain: We can protect them if somebody comes after them to make them face consequences for harboring us, so let’s just—
@@ -49,7 +49,7 @@ Finnan: The people have to rise up and free themselves. We’re fomenting a rebe
 Jrain: Let’s get the nice people in trouble so that they’ll have to suffer. Sounds good.
 Finnan: Oh, they’re already suffering.
 DM: So you have to cross—so, the place they pointed you to is… the village is divided into two sections. There’s a bigger section on this side of the river. So there’s a big waterfall that comes down out from the mists, splashes down to the ground, and then forms a pool where that’s teeming with fish, right? And then it goes down off the edge of the chasm and just… vanishes, right?
-DM: So you can cross it—I mean, it’s shallow, right? On both sides of the pool, it’s relatively shallow, and you can just kind of walk across it. It’s not even that—it’s surprisingly not that cold. There’s a larger village that you’re part of right now, on the side of the river you’re on. Zahara—you’re pointed to, like, three huts on the other—on the far side—close to the bridge to the <Cattle Island>[Cattle Island|Unclear place-name; ASR uncertain], and… so you can just splash across.
+DM: So you can cross it—I mean, it’s shallow, right? On both sides of the pool, it’s relatively shallow, and you can just kind of walk across it. It’s not even that—it’s surprisingly not that cold. There’s a larger village that you’re part of right now, on the side of the river you’re on. Zahara—you’re pointed to, like, three huts on the other—on the far side—close to the bridge to the Cattle Island, and… so you can just splash across.
 DM: The fish look really tasty to Ekko the cat. Like big, fat salmon.
 Ekko: Ekko the cat dives in and gets one of the salmon.
 DM: That’s delicious.
@@ -57,21 +57,21 @@ Ekko: Ekko the cat stays there and eats more salmon until he is satiated.
 DM: Yeah, I mean, they’re—you know—if you’re just a house cat, you don’t need to eat that many salmon to be satiated, but—
 Finnan: Don’t change into your polar bear form, then.
 DM: Yeah.
-Jrain: <of one salmon.>[Off one salmon.|ASR; unclear phrasing]
+Jrain: Off one salmon.
 DM: Yeah, I mean, it’s definitely Fat Bear Week kind of salmon here. Like, it’s teeming with salmon. Where they come from, you don’t know, because—
 Ekko: Magic. Seeing that makes sense.
 DM: Probably.
 Ekko: Food in the circular island.
 DM: Yep. Nobody— I mean, a few people stare at you as you walk across. Like, one guy who’s scooping salmon with a net is just staring at this cat who’s eating salmon. Doesn’t actually look like he’s ever seen a cat. Maybe not.
 Jrain: Yeah, so you can—
-DM: Conspicuous. And he’s staring at the rest of you. He just drops his net and is just, like… staring at you. And then, like, grabs his <neck before it walks away>[net and walks away|ASR], but is still staring at you until you leave. But doesn’t say anything.
+DM: Conspicuous. And he’s staring at the rest of you. He just drops his net and is just, like… staring at you. And then, like, grabs his net and walks away, but is still staring at you until you leave. But doesn’t say anything.
 DM: And you get to this hut. I mean, the door’s closed.
 Justas: Justas knocks politely.
 DM: An older man with sort of balding hair. A little bit heavyset, but not like—maybe in his 50s or 60s, you would guess—opens the door and kind of looks you up and down, and sort of steps back for a minute. And then—
 DM: Justas, interpreting that as an invitation, comes in.
 Justas: So—
 DM: Yeah—no, no, no. He motions with his hand for a minute.
-DM: You must be those who came with Kalima. <Deep.>[Indeed.|ASR]
+DM: You must be those who came with Kalima. Indeed.
 DM: He kind of looks around. Wha—what can I do for you?
 Justas: Well, I mean, not to put too fine a point on it: our hope was to break the grip of the fey impostor who’s kidnapped you—destroy the wolf who keeps you trapped here—and lead everyone to freedom. How does that line up with your priorities?
 DM: He kinda looks a little bit—he actually just bursts out laughing. Impossible dreamers.
@@ -79,25 +79,25 @@ Justas: Ha ha ha ha.
 DM: Escandar, he introduced himself. Escandar.
 DM: It’s—how did you get here? That’s a story I would like to hear.
 Ekko: Where is here? That’s another question.
-Finnan: Meh. That’s a story we would also like to hear. <fit in.>[Finnan.|ASR speaker/name slip]
+Finnan: Meh. That’s a story we would also like to hear. Finnan.
 Ekko: What’s that?
-DM: Here. Well… the elders say, he says, here is <zifa’s realm?>[Saifa’s realm?|ASR; “Saifa”/West Wind referenced later]. We’ve been brought here for sins of the ancient past, and… we are stuck forever.
-Ekko: <Hoosins?>[Whose sins?|ASR]
+DM: Here. Well… the elders say, he says, here is Zeyfa’s realm? We’ve been brought here for sins of the ancient past, and… we are stuck forever.
+Ekko: Whose sins?
 Jrain: Nope, nope.
 DM: Our ancestors, I guess—the story says—although nobody’s ever been able to tell us what those sins are, exactly. It is just… he kind of looks at it as just: some people are born unlucky. The elders say it is us—all of us—who are perpetually born unlucky in this place, and we will never… change does not come here.
 Finnan: When did the cracks in the wall appear?
-DM: Wow. That’s when we started to think the elders might be wrong. <Zam… Man, I… let’s see,>[Uh… man, I… let’s see—|ASR] about four months—no, about six months ago.
+DM: Wow. That’s when we started to think the elders might be wrong. Uh… man, I… let’s see— about four months—no, about six months ago.
 Ekko: Anything happen six months ago that might have precipitated that happening?
 DM: Other than—
 Ekko: —that might have precipitated that happening?
 Jrain: Well, it lines up with the mess going on with our own chasm. And there’s crazy, weird storms and bits of metal flying around, and funny blights. In our chasm, too, right?
 DM: True.
 Jrain: An interplanar interface leak.
-Justas: Have you ever seen… <Zipfest>[Saifa|ASR] or anyone in the palace?
-DM: The—the—Malquin—<marl Quinn. Malcwin the Vakar>[Malquin the Frostbinder|ASR; title unclear]—Saifa’s lieutenant, supposedly—emerges when the sun sets. And… damn… some of us… worship him, as if he was <Xypher>[Saifa|ASR; term confusion].
-Finnan: To interrupt: nobody’s ever worshipped Saifa.
+Justas: Have you ever seen… Zeyfa or anyone in the palace?
+DM: The—the—Malquin—Malquin the Frostbinder—Zeyfa’s lieutenant, supposedly—emerges when the sun sets. And… damn… some of us… worship him, as if he was Zeyfa.
+Finnan: To interrupt: nobody’s ever worshipped Zeyfa.
 DM: He looks at you oddly.
-Finnan: Where we come from—and where your people come from—Saifa is not a creature that is worshipped. Saifa is warded off. One doesn’t worship the West Wind. The West Wind brings cold, and frost, and starvation.
+Finnan: Where we come from—and where your people come from—Zeyfa is not a creature that is worshipped. Zeyfa is warded off. One doesn’t worship the West Wind. The West Wind brings cold, and frost, and starvation.
 DM: Right? I’ll look over at Justas.
 Justas: Justas nods.
 DM: The West Wind only carries bad news.
@@ -108,19 +108,19 @@ Ekko: Picture.
 DM: Can you see that?
 Finnan: Yep.
 Justas: Yeah.
-Ekko: <S.>[Uh-huh.|ASR]
+Ekko: Uh-huh.
 DM: Bad.
 Ekko: Thing.
 Justas: Huh.
 DM: But, like, human. I mean, human: arms, legs, six and a half feet tall.
-Finnan: So… are Gustavo ever depicted in humanoid form?
-DM: Not really. I mean, I think occasionally they’re semi-personified. Like, some of the more powerful ones would be—like, <Belsa>[Belsa|Unclear proper noun; ASR uncertain], the West Wind—like the… sorry, the Bringer of Spring, you know, the warm wind from the Green Sea—might be feminine in personification, right? And might occasionally be, like, a wind with arms and a little bit of a face kind of thing, right? Or, like… <Braubel>[Braubel|Unclear proper noun; ASR uncertain], the Glacier King, you might imagine as—
+Finnan: So… are kestavo ever depicted in humanoid form?
+DM: Not really. I mean, I think occasionally they’re semi-personified. Like, some of the more powerful ones would be—like, Belsa, the West Wind—like the… sorry, the Bringer of Spring, you know, the warm wind from the Green Sea—might be feminine in personification, right? And might occasionally be, like, a wind with arms and a little bit of a face kind of thing, right? Or, like… Braubel, the Glacier King, you might imagine as—
 Finnan: So, sort of—
-DM: —a glacier, like a little bit of an anthropomorphic glacier, but not humanoid, right? Like, you wouldn’t normally imagine a Gustavo as having arms and legs and a face and five fingers and five toes and—
+DM: —a glacier, like a little bit of an anthropomorphic glacier, but not humanoid, right? Like, you wouldn’t normally imagine a kestavo as having arms and legs and a face and five fingers and five toes and—
 Justas: Yeah.
-Finnan: So I’ll take out my book of my collected tales and songs of <Zimkova>[Zimkova|Unclear proper noun; ASR uncertain]. And I will begin, sort of, showing this to… I forget—Escandar.
+Finnan: So I’ll take out my book of my collected tales and songs of Zimkova. And I will begin, sort of, showing this to… I forget—Escandar.
 DM: That is kind of—
-Finnan: —a scandal. These are Gustavo. That is not a <Gestapo>[Gustavo|ASR]. I’ll read him tales—like some of the stories.
+Finnan: —a scandal. These are kestavo. That is not a kestavo. I’ll read him tales—like some of the stories.
 DM: He sort of stops you as you’re talking, and—
 DM: And what of it? I’m just saying, don’t—
 Finnan: Don’t say you’re living in the prison of the West Wind when you’re not. Truth matters.
@@ -150,8 +150,8 @@ Jrain: Last night.
 DM: Zahara hid her down in the—down in the mines, the holes in the cliff, down… Nobody’s supposed to come back. It’s not clear what Malquin would do to her, or what she means, or how she came back, or… we don’t know.
 Finnan: I’m gonna telepathically say to Justas: show him the hat.
 Justas: Yeah, I… I don’t think this guy needs convincing. I think we should head on. Let’s either go chat with the wolf, or with the fey impostor.
-DM: He says if Zahara—our leader—they tend to… there’s more privacy and safety on the <jungle>[orchards/woods|ASR; later described as fruit trees]. He points to the lush, thickly dense—when Zahara needs time to think and space away from this.
-DM: He tells you that you can find it if you go to the <Washfood Islands>[Watchwood Islands|ASR; place-name uncertain], right? Which is, like, a dense, thickly overgrown forest of fruit trees and crops and all kinds. Find the tallest apple tree, and there’s a thicket next to it where Zahara built a little hideaway. Don’t be obvious about it, though. We don’t think anybody knows about that.
+DM: He says if Zahara—our leader—they tend to… there’s more privacy and safety on the orchards/woods. He points to the lush, thickly dense—when Zahara needs time to think and space away from this.
+DM: He tells you that you can find it if you go to the Watchwood Islands, right? Which is, like, a dense, thickly overgrown forest of fruit trees and crops and all kinds. Find the tallest apple tree, and there’s a thicket next to it where Zahara built a little hideaway. Don’t be obvious about it, though. We don’t think anybody knows about that.
 Justas: How many of you are there who feel this way?
 DM: There’s about seven. There was more, but there’s seven we trust. We are— I mean, he says—we would like to go through. We think that’s the way out. Wherever this place is, we don’t believe that leaving here will cause our souls to be eaten.
 DM: But I would say maybe another 20 or 30 don’t think we’re wrong. But many are convinced by the elders who do believe our souls will be eaten if we leave.
@@ -159,7 +159,7 @@ DM: So he has basically, like, seven inner circle, and another 20 or 30 who are 
 Jrain: If we dispatch it, but that act makes the exit unstable—do you have a plan for convincing or mobilizing beyond your… have you ever thought of trying to rescue everyone?
 DM: Nope. Why would we do that? I mean, I don’t mean it—if we can get out, that’s enough for me.
 DM: He seems sort of… I mean, his attitude is a bit—
-Jrain: <AI. What’d you? I said white guy.>[Yeah… he’s kind of a “I got mine” guy.|ASR; unclear exchange]
+Jrain: Yeah… he’s kind of a “I got mine” guy.
 DM: A little bit, yeah. But no, it’s also a little bit just cynical. And a little bit bitter. Like, you know… if these people don’t want to believe what’s good for them, then… it’s not my job to save them. I mean, you get the sense maybe one of the people who died is like his closest—like, he’s definitely bitter about something, right?
 Ekko: So just to be, like—like, nobody’s asked us to save anybody or do anything, right?
 Finnan: No.
@@ -184,22 +184,22 @@ Ekko: So you mean, like, start with the wolf as in try to kill the wolf, or—
 Justas: Yeah.
 Finnan: Hell yeah. Okay.
 Justas: I mean, don’t get me wrong—it’s a big wolf. It’s the biggest wolf I’ve ever seen. But I… I’ve killed wolves before.
-Jrain: So… some of these people want to get out. We want to change this unjust and vaguely sacrilegious situation just on principle. But also, we kind of want to address the giant supernatural disruption to our own homeworld, and when we get back, maybe have it be a better place because we were gone. So if this—<failure>[fey realm|ASR] can give us any insight into the set of cracks, maybe they’re worth talking to in a non-confrontational way for that reason.
-Jrain: Because it would be really nice if our chasm wasn’t raining thunderstorms that sent you through <interventional>[interplanar|ASR] metal storms.
+Jrain: So… some of these people want to get out. We want to change this unjust and vaguely sacrilegious situation just on principle. But also, we kind of want to address the giant supernatural disruption to our own homeworld, and when we get back, maybe have it be a better place because we were gone. So if this—fey realm can give us any insight into the set of cracks, maybe they’re worth talking to in a non-confrontational way for that reason.
+Jrain: Because it would be really nice if our chasm wasn’t raining thunderstorms that sent you through interplanar metal storms.
 Finnan: Yeah, I mean, I mean—
 Ekko: Yeah.
 Finnan: But it kinda does that sometimes, doesn’t it? How do we know that’s related?
 Jrain: It’s gotten a lot worse lately. That’s why I’ve been worried about… that’s why I’ve been sending out parties that have put themselves in peril. We still don’t know what happened to the… people whose names I can’t remember. In the last about—
-DM: Well, in the last about—wait, what did I say? I said it was eight months? It’s been about… in the last two months or so, it’s been much worse in Talgar, right? Like, there’s always weird stuff, but it was, like, late fall—so, like, about two months ago—when all the really weird omens started happening. Like, you know, the rainbow of strange colors that shattered into glass and fell over, and the lightning storm. Like, there’s just been a bunch of these odd omens that started happening about… about two months ago.
-Jrain: So, like, <Parenchis and Ajakis>[Parenko and Drakeus|ASR; names clarified later] are trying to solve this problem, and—
+DM: Well, in the last about—wait, what did I say? I said it was eight months? It’s been about… in the last two months or so, it’s been much worse in Taelgar, right? Like, there’s always weird stuff, but it was, like, late fall—so, like, about two months ago—when all the really weird omens started happening. Like, you know, the rainbow of strange colors that shattered into glass and fell over, and the lightning storm. Like, there’s just been a bunch of these odd omens that started happening about… about two months ago.
+Jrain: So, like, Pakrinek and Eidrikas are trying to solve this problem, and—
 DM: Yes.
 Jrain: Yeah. We can’t quite rescue them if we can’t rescue ourselves, but also, if we don’t use this opportunity to learn more about what’s going on—
-DM: Right. Like, a living sheet of ice that drifted down the <teft>[rift|ASR] like a predator. A rainbow of glass that had a hundred different—thousand different—colors, right? Like, a thunderstorm with crazy lightning, and—
+DM: Right. Like, a living sheet of ice that drifted down the rift like a predator. A rainbow of glass that had a hundred different—thousand different—colors, right? Like, a thunderstorm with crazy lightning, and—
 Finnan: We are—those names you mentioned, Jrain?
 Finnan: Go ahead.
 DM: I was gonna say—and now I’m trying to find their names. Wait—oh, here we go. I got it.
-DM: Drakeus was Ekko’s mentor. Drakeus was Ekko’s mentor—part of the <Vekai>[Vekai|Unclear faction name; ASR uncertain]—who went into… and… Parenko was one of the warriors of <Cameco>[Cameco|Unclear faction/place; ASR uncertain]. Who went about—what—three weeks ago into the chasm to investigate, to try and see why it has gotten so weird. And they never returned.
-DM: And—Jrain was recruited partly to help carry messages to them, right? With her bird and stuff like that. And about a week ago, a cloud of superheated steam killed your bird and obscured what was going on, and fogs and mists started rising, and nobody knew what Drakeus and <Perink, orinkitik>[Parenko|ASR] were doing after that.
-DM: But, like, Ekko—this is your mentor, Drakeus, right? Like, he’s, like, a druid of the chasm of the <Vehovah Kai>[Vekai|ASR; name drift]. He’s worried that something wrong is happening down there. And that’s actually why you came: to go after him originally.
+DM: Eidrikas was Ekko’s mentor. Eidrikas was Ekko’s mentor—part of the Vejo Vaikai—who went into… and… Pakrinek was one of the warriors of Kemeko. Who went about—what—three weeks ago into the chasm to investigate, to try and see why it has gotten so weird. And they never returned.
+DM: And—Jrain was recruited partly to help carry messages to them, right? With her bird and stuff like that. And about a week ago, a cloud of superheated steam killed your bird and obscured what was going on, and fogs and mists started rising, and nobody knew what Eidrikas and Pakrinek were doing after that.
+DM: But, like, Ekko—this is your mentor, Eidrikas, right? Like, he’s, like, a druid of the chasm of the Vejo Vaikai. He’s worried that something wrong is happening down there. And that’s actually why you came: to go after him originally.
 Ekko: Right, right, right. So… okay. Well… I mean, I definitely wanna help my mentor.
 Jrain: That’s a spirit.

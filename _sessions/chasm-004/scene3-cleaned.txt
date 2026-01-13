@@ -1,5 +1,5 @@
 DM: South. You guys are— I mean, Escandar’s happy to keep talking to you. You could go investigate the wolf, you could go find… Zahara, although… it’s not clear they know that much more than— they’re more the active wing, and might have a better sense of specific plans, or things, or help plan plans. But you could also go knock— I mean…
-DM: Escandar does not think the lord would, like, kill you. Like, he doesn’t kill people. He doesn’t… he’s not, like, violent. But who knows? I mean, he might throw you back in the labyrinth, I guess. But… damn. You could go knock on the door and talk to <Malklin>[Malquin|Name correction]. Or, as you know— I mean, you know he has another name, right? Which I made up and now can never pronounce, but—
+DM: Escandar does not think the lord would, like, kill you. Like, he doesn’t kill people. He doesn’t… he’s not, like, violent. But who knows? I mean, he might throw you back in the labyrinth, I guess. But… damn. You could go knock on the door and talk to Malquin. Or, as you know— I mean, you know he has another name, right? Which I made up and now can never pronounce, but—
 DM: So what are you doing?
 Jrain: Go on.
 Finnan: Anybody have opinions?
@@ -16,12 +16,12 @@ DM: It did growl at one of the people who tried to go through. Like, it turned i
 Ekko: As a cat—when I got close to it—did it notice anything?
 DM: Yep. But you were pretty stealthy.
 Ekko: Right.
-DM: But it did not wake up when <Echoes of Cat>[Ekko the cat|ASR] got close to it.
+DM: But it did not wake up when Ekko the cat got close to it.
 Ekko: And sorry—Ekko’s mentor is where, potentially?
 DM: So… you think that you’re in a demiplane that’s echoing the chasm, right? But as far as you know, your mentor is actually in the chasm.
 Ekko: That—
 DM: Who was investigating whatever strange magic was causing the chasm to start spewing all kinds of… strange things. Right? So all kinds of weird magic started coming out of the chasm—like weird effects. And it’s just… the chasm normally—yes, it’s not like things are normal—but they’re not normally so… normally it’s more in tune with the elements, and it seemed like what was coming out of it was very out of tune, right?
-DM: There was, like, these weird… just out of season, and… it made the <Veho Vaikai>[Vekai|ASR; faction name uncertain] very nervous. Like, what’s going on here, right? And so this guy—this <Adrakis>[Drakeus|Name correction; established earlier]—one of the sort of elder druids, went into the chasm with one of the monks from the <Kameko>[Cameco|ASR; faction/place uncertain], right? One of the kenku, to investigate, right? And they’re apparently still down there, as far as you know.
+DM: There was, like, these weird… just out of season, and… it made the Vejo Vaikai very nervous. Like, what’s going on here, right? And so this guy—this Eidrikas—one of the sort of elder druids, went into the chasm with one of the monks from the Kemeko, right? One of the kenku, to investigate, right? And they’re apparently still down there, as far as you know.
 Ekko: Alright, well—okay. I guess Ekko is more motivated to figure out ways to help his mentor, primarily. But, you know, we’re obviously in a weird little spot right now.
 Ekko: I mean, I’m down to attack a nice wolf, if that’s what we want to do.
 Jrain: I think we want to charm the pants off this fey lord and get him to change what he’s doing, and put his talents to use solving world peace.
@@ -41,11 +41,11 @@ Finnan: And I’ll tell everybody, and it’s fine. I’ll actually—I’ll swi
 DM: He’ll go bring your message and leave you alone. That’s fine. He goes off. He tells you, no, yeah—he’s fine. He says: I don’t know what you’re planning, but… we’ll be ready to run if an opportunity presents.
 Finnan: So, Finnan suggests—back in our world, one of the things that happened was some kind of weird rainbow—strange colors that shattered into glass.
 DM: Yep.
-Finnan: Who’s to say that’s not the same planar disturbance that caused the rainbow, swirly color gash? Or where the ice that froze the <Taft>[rift|ASR] is not the same planar disturbance that caused the gash to—the ice world here.
+Finnan: Who’s to say that’s not the same planar disturbance that caused the rainbow, swirly color gash? Or where the ice that froze the rift is not the same planar disturbance that caused the gash to—the ice world here.
 Finnan: So why don’t we tell this fey that he’s in danger, and we need ten volunteers to come with us and figure out what’s going on before the whole thing collapses?
 Jrain: Or 27? I don’t know.
 Finnan: Or if we can pull off 27.
-Justas: Sounds like… it’s been a number of <ski.>[skepticism.|ASR]
+Justas: Sounds like… it’s been a number of skepticism.
 Finnan: Think we can get away with.
 Ekko: Just so you know, there’s no music, Mike.
 Finnan: I mean, as far as we know, nobody knows where we came from.
@@ -57,7 +57,7 @@ Jrain: Yep.
 Finnan: I’ll look over at Eolo. I’ve only known you—I actually don’t know how long—but I think now’s your moment. Brash overconfidence is what I think we’re going for here.
 Eolo: Oh, I’m actually the world’s expert in that.
 Finnan: So lead the way. Let’s just march on the palace. We’re here on a mission; we’re asking for his help.
-Eolo: Very good. <Yellow…>[Eolo…|ASR]
+Eolo: Very good. Eolo…
 Finnan: Just remember that we’re on a mission, and we’re asking for his help.
 Jrain: You can still shoot first.
 Finnan: You are not shooting him. That’s all we need to remember. I’m sure there’ll be something to shoot later.
@@ -132,23 +132,23 @@ Eolo: Very high. Like, greatest intelligence of all. I have a 16.
 DM: The wolf— I mean… you convince yourself for a second it doesn’t exist, and then you realize you’re being dumb, and it’s really right there.
 Eolo: Still there. But it may as well not be.
 Finnan: Come back this way so we can go bother this fey dude.
-DM: You do need to take a short rest to see what—<Not from these errors>[happens with these arrows|ASR].
+DM: You do need to take a short rest to see what—happens with these arrows.
 Eolo: Yep.
-Finnan: Yeah, let’s talk to <Buffet>[the Frostbinder/Malquin|ASR] first, and then we can short rest before we do anything else. Unless you want to short rest now, although we’ve already made our scene, so it’s gonna kind of dilute our impact if we stomp around town and then vanish for an hour.
+Finnan: Yeah, let’s talk to the Frostbinder/Malquin first, and then we can short rest before we do anything else. Unless you want to short rest now, although we’ve already made our scene, so it’s gonna kind of dilute our impact if we stomp around town and then vanish for an hour.
 DM: So, hold on. While this is happening, what is Ekko doing? Are you just still a cat?
 Ekko: Yeah, I’m still a cat. Just… looking at Eolo with—just—
 DM: You could snack again, right? Like, the salmon was really good.
 Ekko: Yeah, yeah. I’ll continue eating salmon.
 DM: Ed, what’s Justas doing?
-Justas: Justas is praying and reconnecting with the <Gestavo>[Gustavo|Term consistency]. He’s real unsettled by this turn—
+Justas: Justas is praying and reconnecting with the kestavo. He’s real unsettled by this turn—
 DM: Okay.
-Justas: —that it’s not really like Gustavo space that we’re in.
-DM: And Tim—Finnan was—<Finian>[Finnan|Name correction] was, like, casting some sort of spell?
+Justas: —that it’s not really like kestavo space that we’re in.
+DM: And Tim—Finnan was—Finnan was, like, casting some sort of spell?
 Finnan: No, I’m just… I’m waiting for everybody. Once we’re all gathered together, I just use Minor Illusion to boost my voice louder.
 DM: That’s a—yeah, okay.
 DM: So, you know, Eolo comes back after a few minutes with a bleeding hand and this weird piece of metal, which I guess you’ve thrown in your quiver. Nothing’s happened with the bridge, although there’s now maybe about 15 people who have variously stopped to look at you. So there’s a little—nobody’s come close to you, it’s not like there’s a crowd around you, but there’s definitely people looking.
 Finnan: I’ll just look over at us and ask if anybody speaks Sylvan.
-Ekko: <->[…|ASR silence]
+Ekko: …
 DM: I don’t know if you guys all—some of you didn’t really pick languages.
 Justas: Probably worse.
 Finnan: She doesn’t speak any languages, which is fine.
@@ -161,4 +161,4 @@ Jrain: I say that exactly—in Sylvan—but following Finnan’s intonations and
 DM: Okay. After a minute, the bridge extends—or a bridge extends. It’s narrow, right? It’s only, like, maybe six inches or eight inches across. You could walk it, but it’s definitely not two-abreast.
 DM: And you see a door on the palace kind of swing open. Like, the front door just kind of swings open, but you don’t hear any response.
 Finnan: That’s an invitation.
-Jrain: <into the door.>[Onward to the door.|ASR]
+Jrain: Onward to the door.
