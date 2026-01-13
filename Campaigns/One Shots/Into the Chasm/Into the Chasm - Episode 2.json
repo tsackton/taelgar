@@ -1,0 +1,146 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 2.md",
+  "campaign": "Into the Chasm",
+  "sessionNumber": 2,
+  "name": "Into the Chasm - Episode 2",
+  "descTitle": "The Labyrinth",
+  "tagline": "in which the maze shifts, the dead speak, and the beast appears",
+  "realWorldDate": "2025-12-03",
+  "drStart": "1730-01-25",
+  "drEnd": "1730-01-25",
+  "shortSummary": "The party pushes deeper into Zeyfa’s Labyrinth, surviving a warm crevasse and worsening storm, questioning a dead man from Melusa, and emerging into a black-stone chamber where a shaggy white beast appears.",
+  "longSummary": "Drawn onward by the shifting geometry of Zeyfa’s Labyrinth, the party descends from the entrance chamber into tight, snowy tunnels of stone and hoarfrost, trying to keep their bearings as wind gusts swirl and passages fork unpredictably. In a low, ice-walled chamber split by a warm crevasse fringed with ice “ferns,” they test the depths with a lighted snowball, only to watch the light abruptly vanish, feel the wind and snow thicken, and struggle to get everyone across as Kalima pleads to turn back. Pressing forward, they find a human corpse pinned by ice and use Speak with Dead to learn of Melusa, a cliff-carved village that offers sacrifices to Zeyfa; the dead insists the labyrinth does not let anyone escape, while Finnan’s Memory of the Ancestors links Melusa to old stories of a waterfall shrine along the Teft tied to a kestavo called Melua. The storm worsens into whiteout as the maze rearranges itself around booming pulses and shadowy wind-creatures. Kalima is injured in the chaos, and after a collapse and an avalanche-like surge, the party slides down slick black ice into a quiet black-stone chamber—just in time for a towering shaggy white beast to answer Justas’s challenge.",
+  "sessionProfile": {
+    "combat": "light",
+    "roleplay": "medium",
+    "travel": "heavy"
+  },
+  "pcs": [
+    "Jrain Fanlish",
+    "Finnan Oakstride",
+    "Justas Rhostrin",
+    "Ekko",
+    "Eolo"
+  ],
+  "npcs": [
+    {
+      "name": "Kalima",
+      "context": "companion",
+      "notes": "Terrified woman from Melusa who names their prison Zeyfa’s Labyrinth; injured during the booming storm corridors and increasingly fearful of being carried by the kenku."
+    },
+    {
+      "name": "Rala",
+      "context": "companion",
+      "notes": "Jrain’s avian companion used for scouting and situational help."
+    },
+    {
+      "name": "Unnamed man of Melusa",
+      "context": "encounter",
+      "notes": "Dead villager trapped in ice; questioned via Speak with Dead about Melusa, Zeyfa’s minion, and escape."
+    },
+    {
+      "name": "Zeyfa",
+      "context": "enemy",
+      "notes": "Cruel West Wind of Zimkovan/kestavo lore, said to rule the labyrinth and demand sacrifices."
+    },
+    {
+      "name": "Melua",
+      "context": "mentioned",
+      "notes": "A kestavo associated (by Finnan’s remembered stories) with an old waterfall shrine on the upper Teft; possibly linguistically linked to Melusa."
+    },
+    {
+      "name": "Romil the Glacier King",
+      "context": "mentioned",
+      "notes": "Name invoked in prayer and associated with the glacial light Kalima clutches."
+    },
+    {
+      "name": "Shaggy white beast",
+      "context": "enemy",
+      "notes": "A towering monster that emerges in the black-stone chamber as the session ends."
+    }
+  ],
+  "organizations": [
+    "Kestavo",
+    "Kemeko Monastery",
+    "Vejo Vaikai"
+  ],
+  "places": [
+    {
+      "name": "Zeyfa's Labyrinth",
+      "context": "visited",
+      "notes": "The shifting ice-and-stone maze in which the party is trapped."
+    },
+    {
+      "name": "Great Chasm",
+      "context": "mentioned",
+      "notes": "Referenced for comparison and lore; Ekko compares the labyrinth’s feel to the Chasm."
+    },
+    {
+      "name": "Teft",
+      "context": "mentioned",
+      "notes": "River referenced in Finnan’s remembered stories connected to an old waterfall shrine and Melua."
+    },
+    {
+      "name": "Melusa",
+      "context": "mentioned",
+      "notes": "Cliffside village named by the dead; described as carved into ice with a river running through it."
+    },
+    {
+      "name": "Crevasse room",
+      "context": "visited",
+      "notes": "Low-ceilinged chamber split by a warm crack and fringed with ice “ferns.”"
+    },
+    {
+      "name": "Black-stone chamber",
+      "context": "visited",
+      "notes": "Stormless chamber reached by sliding down black ice; the white beast appears here."
+    },
+    {
+      "name": "Sentinel Range",
+      "context": "mentioned",
+      "notes": "Referenced when comparing local stone to familiar mountain caves."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Zeyfa's Labyrinth (entrance chamber)",
+      "to": "Crevasse room",
+      "mode": "on foot"
+    },
+    {
+      "from": "Crevasse room",
+      "to": "Black-stone chamber",
+      "mode": "fall / slide"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Wind-creatures in the blizzard rooms",
+      "location": "Zeyfa's Labyrinth (storm rooms)",
+      "foes": [
+        "Wind-creatures"
+      ]
+    },
+    {
+      "name": "Shaggy white beast (cliffhanger)",
+      "location": "Black-stone chamber",
+      "foes": [
+        "Shaggy white beast",
+        "Ice-formed shapes beneath the kenku"
+      ]
+    }
+  ],
+  "treasure": [
+    "Two torches",
+    "A bundle of arrows (about 20)",
+    "Two daggers",
+    "Plain silver ring worn on a necklace"
+  ],
+  "meta": {
+    "startingLevel": 6,
+    "endingLevel": 6,
+    "xpAward": null
+  }
+}
