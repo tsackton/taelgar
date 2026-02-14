@@ -25,6 +25,6 @@ March 16th - arrive at Goldpeak Mine, fight dwarven abberation at the camp, desc
 
 (four months downtime)
 
-~early July: [[Cleric Cooks]] party
+~early July: [[The Hero's Feast]] party
 
 ~mid July: next arc

@@ -6,7 +6,7 @@ Start with introducing Mabist. Have Marco roleplay this, but start with the foll
 
 Party arrived back in Voltara from killing Vilaxes on 2 Apr 1748. 
 
-[[Cleric Cooks]] opened on 7 Aug 1748. 
+[[The Hero's Feast]] opened on 7 Aug 1748. 
 
 Pick up two weeks later. Have the party run two Bastion turns to get started, have that fill the gap between 7 Aug and 21 Aug (Marco can run Bastion turns for Brelith).
 

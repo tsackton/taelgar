@@ -1,8 +1,3 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai, status/check/mike]
----
-
 # Timeline
 
 (DR::1730-01-25):  The accidental explorers investigate [[Zeyfa|Zeyfa's]] labyrinth as it fights back. 

@@ -1,7 +1,3 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
 ## Timeline
 
 - **(DR:: 1730-01-26), morning:**  The party meets with Iskander and speaks with Malqen, and escapes the mysterious realm of Melusa

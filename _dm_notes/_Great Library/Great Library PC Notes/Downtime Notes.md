@@ -2,7 +2,7 @@
 (restart in late July  / early August 1748)
 
 Brelith:
-learns to cook, opens restaurant (trains with Finoc Small), [[Cleric Cooks]], fancy-ish inside the walls
+learns to cook, opens restaurant (trains with Finoc Small), [[The Hero's Feast]], fancy-ish inside the walls
 
 Alton:
 open Rogue's Range, crossbow shooting bar (like axe throwing)

@@ -21,6 +21,6 @@ A small, welcoming inn just inside the city walls of [[Voltara]]. Known for wild
 
  Considered comfortable accommodations, 2 gp for food, drink, lodging.
 
-Served as lodging for the party during planning for the [[Battle of Voltara]]. [[Brelith]] apprenticed with the chef here before opening [[Cleric Cooks]].
+Served as lodging for the party during planning for the [[Battle of Voltara]]. [[Brelith]] apprenticed with the chef here before opening [[The Hero's Feast]].
 
 %%

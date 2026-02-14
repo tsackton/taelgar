@@ -1,7 +1,3 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai, status/check/mike]
----
 # Timeline
 
 (DR::1730-01-25), afternoon:  The accidental explorers defeat a beast of snow and ice and emerge in a village perched in a endless fog on the edge of a chasm
