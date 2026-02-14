@@ -35,6 +35,6 @@ Greater Voltara extends in the east to the [[Snake River]], in the west to the [
 ## Campaign Notes (GL)
 
 - DR 1747‑07‑09: Party meets [[Anton Lavernia]]; later recover clues toward the last [[Elemental Scrolls of Airion|elemental scroll]].
-- DR 1747: Orc activity culminates in the [[Battle of Voltara]]; subsequent months see reconstruction and growth in civic life (e.g., opening of [[Cleric Cooks]] and [[Rogue’s Range]]).
+- DR 1747: Orc activity culminates in the [[Battle of Voltara]]; subsequent months see reconstruction and growth in civic life (e.g., opening of [[The Hero's Feast]] and [[Rogue’s Range]]).
 
 %%

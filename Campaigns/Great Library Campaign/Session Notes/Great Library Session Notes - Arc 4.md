@@ -102,9 +102,9 @@ The party confronts the beholder [[Vilaxes]] in a massive cavern dominated by a 
 
 ### Session 60
 
-Back in [[Voltara]], the [[Silver Tempests]] enjoys the rewards of their status and reputation. [[Brelith]] apprentices himself to the chef at [[Finoc Small]]’s tavern, [[The Wandering Toad]], learning to cook, and opening a restaurant, [[Cleric Cooks]]. [[Adrik]] goes on a binge of pit fighting and gambling, managing to end up with a small profit. [[Samso]] travels to visit with [[Iara]] at the [[Lizardfolk]] community near [[Lake Valandros]], and learns more about the mysterious attacks. [[Alton]] opens a boisterous tavern and dive bar outside the city walls, called the [[Rogue’s Range]], with axe throwing for patrons. 
+Back in [[Voltara]], the [[Silver Tempests]] enjoys the rewards of their status and reputation. [[Brelith]] apprentices himself to the chef at [[Finoc Small]]’s tavern, [[The Wandering Toad]], learning to cook, and opening a restaurant, [[The Hero's Feast]]. [[Adrik]] goes on a binge of pit fighting and gambling, managing to end up with a small profit. [[Samso]] travels to visit with [[Iara]] at the [[Lizardfolk]] community near [[Lake Valandros]], and learns more about the mysterious attacks. [[Alton]] opens a boisterous tavern and dive bar outside the city walls, called the [[Rogue’s Range]], with axe throwing for patrons. 
 
-Four months later, the [[Silver Tempests]] host a party, a grand opening for [[Cleric Cooks]]. Many old friends are there, thanks to [[Samso]]’s new magic ability to teleport via plants: [[Dinia]], from the north; [[Brelith]]’s parents and some other dwarves of [[Zarkandur]]; and [[Aris]] and some other centaurs, who are leaving on the next stop in their migration and have come to say goodbye. It is a big success.
+Four months later, the [[Silver Tempests]] host a party, a grand opening for [[The Hero's Feast]]. Many old friends are there, thanks to [[Samso]]’s new magic ability to teleport via plants: [[Dinia]], from the north; [[Brelith]]’s parents and some other dwarves of [[Zarkandur]]; and [[Aris]] and some other centaurs, who are leaving on the next stop in their migration and have come to say goodbye. It is a big success.
 
 ### Events
 
@@ -117,7 +117,7 @@ Four months later, the [[Silver Tempests]] host a party, a grand opening for [[C
 - (DR:: 1748-03-19): Travel back to [[Voltara]].
 - (DR:: 1748-03-20): Arrive back in [[Voltara]], victorious. 
 - (DR:: 1748-03-21) - (DR_end:: 1748-08-06): Downtime in [[Voltara]]
-- (DR:: 1748-08-07): [[Brelith]]'s [[Cleric Cooks|restaurant]] opens as the [[Silver Tempests]] host a party. 
+- (DR:: 1748-08-07): [[Brelith]]'s [[The Hero's Feast|restaurant]] opens as the [[Silver Tempests]] host a party. 
 
 
 ## Adventure 19: Saving Grandma Yoda (This Shit’s Kinda’ Fishy)

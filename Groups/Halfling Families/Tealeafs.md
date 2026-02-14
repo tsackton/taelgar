@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/stub, status/check/ai]
+tags: [group]
 displayDefaults: {defArt: the}
 name: Tealeafs
 typeOf: family
@@ -13,19 +13,11 @@ dm_notes: none
 > A [[Halflings|halfling]] family  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The Tealeafs are a halfling trading family known for long caravan circuits between [[Chardon]] and [[Dunmar]]. In recent decades, they are most closely associated with the patriarch [[Garret Tealeaf]] and with the far‑reaching routes their wagons once traveled through [[Songara]], [[Tokra]], and [[Karawa]].
+The Tealeafs are a halfling trading family based in the [[Greater Dunmar]] area. They were a rich and prominent family of long-distance traders,  known for long overland caravan circuits between [[Chardon]], [[Songara]], [[Tokra]], and [[Eastern Dunmar]], in first decades of the DR 1700s. 
 
-In DR 1737 the Tealeaf caravan was attacked by [[Agata]] and [[Dustthorn Horde]] raiders. Garret was captured and held for eleven years, until he was freed by the [[Dunmar Fellowship]]; the surviving Tealeafs altered their routes in the aftermath of the attack.
+In DR 1737 the Tealeaf caravan was attacked by [[Agata]] and [[Dustthorn Horde]] orc raiders. [[Garret Tealeaf]], the patriarch of the family, was captured, and the family wealth was scattered among the survivors, who turned to shorter, safer, and less profitable routes. 
 
-## Sources
-
-- [[Garret Tealeaf]]
-- [[Oswalt Tealeaf]]
-
-%%notes from Garret - this should be everything I have on the tealeafs
-The patriarch of a halfling trading family that would make a long circuit from Chardon east to [[Songara]], Tokra, and Karawa before turning south, trading with the dwarves, and then crossing the mountains to Nayahar, then traveling along the coast and turning north again for Chardon. The Tealeafs were a large family, traveling often in 4-5 wagons, well armed and defended. Eleven years ago, as [[Agata]] was starting to build her [[Orcs|orc]] horde and gain the loyalty of those who would become the Dustthorn Horde, the [[Orcs]] attempted to raid the Tealeaf caravan, and were unexpectedly repulsed, suffering many causalities. In revenge, [[Agata]] attacked, killing about half the clan with AoE spells and then diving down on her giant fly to grapple and drag away Garret. She told the survivors that if they did not come east of the [[Hara]] River for 15 years, she would return Garret to them. Since then, the Tealeaf clan has shortened their route to turn south from [[Songara]], trading at Darba and Nayahar then back to Chardon.
-%%
-
+Garret was freed eleven years later, in DR 1748, by the [[Dunmar Fellowship]], though was left changed by his imprisonment, and the family has not recovered its former wealth and prominence. 
 
 %%^Campaign:None%%
 ### Members

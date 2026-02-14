@@ -1,19 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/check/name
-name: Cleric Cooks
+tags: [place]
+displayDefaults: {defArt: ""}
+name: The Hero's Feast
 created: 1748-08-07
 typeOf: inn
 whereabouts:
-  - type: primary
-    location: Voltara
+- {type: primary, location: Voltara, startFilter: "2r"}
 dm_notes: none
 dm_owner: player
 typeOfAlias: restaurant
 ---
-# Cleric Cooks
+# The Hero's Feast
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  

@@ -18,7 +18,7 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Owner of [[The Wandering Toad]], an inn in [[Voltara]], known for wild game, mushrooms, and ale. [[Brelith]] apprenticed with the chef there before opening [[Cleric Cooks]].
+Owner of [[The Wandering Toad]], an inn in [[Voltara]], known for wild game, mushrooms, and ale. [[Brelith]] apprenticed with the chef there before opening [[The Hero's Feast]].
 
 %%
 Voltara description calls him a large halfling; appears in GL downtime notes for Brelith.
