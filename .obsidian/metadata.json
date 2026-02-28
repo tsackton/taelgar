@@ -11,12 +11,28 @@
     ],
     "campaigns": [
         {
-            "prefix": "DuFr",
-            "sessionNoteFolder": "Campaigns/Dunmari Frontier Campaign/Session Notes"
+            "code": "DuFr",
+            "partyPage": "Dunmar Fellowship",
+            "sessionNoteFolder": "Campaigns/Dunmari Frontier Campaign/Session Notes",
+            "aliases": ["dufr", "Dunmari Frontier", "Dunmari Frontier Campaign", "Dunmar Frontier", "Dunmar Frontier Campaign"]
         },
         {
-            "prefix": "Clee",
-            "sessionNoteFolder": "Campaigns/Cleenseau Campaign/Sessions"
+            "code": "Clee",
+            "partyPage": "Heroes of Cleenseau",
+            "sessionNoteFolder": "Campaigns/Cleenseau Campaign/Sessions",
+            "aliases": ["clee", "Cleenseau", "Cleenseau Campaign"]
+        },
+        {
+            "code": "GL",
+            "partyPage": "Silver Tempests",
+            "sessionNoteFolder": "Campaigns/Great Library Campaign/Session Notes",
+            "aliases": ["gl", "Great Library", "Great Library Campaign"]
+        },
+        {
+            "code": "adma",
+            "partyPage": "Addermarch Mercenaries",
+            "sessionNoteFolder": "Campaigns/Addermarch Campaign",
+            "aliases": ["ADMA", "Addermarch", "Addermarch Campaign"]
         }
     ],
     "requiredDisplayDefaults": {
