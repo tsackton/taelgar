@@ -500,7 +500,7 @@ class OutputHandler {
 
     }
 
-    outputCampaignInteractions(fileName, page) {
+    outputCampaignInteractions(fileName, page, campaignFilter) {
         // Intended for use from Dataview views (dv.current()) where file inlinks exist.
         // Produces a compact, stable summary so NPC pages don't need campaignInfo logs.
 
@@ -549,26 +549,29 @@ class OutputHandler {
             let path = linkedPage?.file?.path ?? ""
 
             for (let c of coreCampaigns) {
-                if (c?.sessionNoteFolder && path.startsWith(c.sessionNoteFolder)) return c.prefix
+                if (c?.sessionNoteFolder && path.startsWith(c.sessionNoteFolder)) return (c.code ?? c.prefix)
             }
 
             // Session file names often end with "(DuFr)" style codes.
             let name = linkedPage?.file?.name ?? ""
             let m = name.match(/\(([^)]+)\)\s*$/)
-            if (m && m[1]) return m[1].trim()
+            if (m && m[1]) {
+                let cfg = NameManager.getCampaignConfig(m[1].trim())
+                return cfg?.code ?? m[1].trim()
+            }
 
             // Try any parens group if not at end.
             m = name.match(/\(([^)]+)\)/)
-            if (m && m[1]) return m[1].trim()
+            if (m && m[1]) {
+                let cfg = NameManager.getCampaignConfig(m[1].trim())
+                return cfg?.code ?? m[1].trim()
+            }
 
             // Fall back to campaign field if present (try to map to a known prefix).
             if (linkedPage.campaign) {
                 let campaignName = String(linkedPage.campaign).trim()
-                let mapped = coreCampaigns.find(c => {
-                    if (!c?.sessionNoteFolder) return false
-                    return c.sessionNoteFolder.toLowerCase().includes(campaignName.toLowerCase())
-                })
-                return mapped?.prefix ?? campaignName
+                let cfg = NameManager.getCampaignConfig(campaignName)
+                return cfg?.code ?? campaignName
             }
 
             return "Unknown"
@@ -620,6 +623,17 @@ class OutputHandler {
             return `_No session-note links found._`
         }
 
+        let canonicalFilter = undefined
+        if (campaignFilter && (typeof campaignFilter === "string" || campaignFilter instanceof String)) {
+            let cfg = NameManager.getCampaignConfig(campaignFilter)
+            canonicalFilter = (cfg?.code ?? String(campaignFilter)).trim()
+        }
+
+        if (canonicalFilter) {
+            sessionEntries = sessionEntries.filter(e => (e.campaign ?? "").toString().toLowerCase() === canonicalFilter.toLowerCase())
+            if (sessionEntries.length === 0) return `_No session-note links found._`
+        }
+
         // Group by campaign, then sort within each campaign.
         let byCampaign = new Map()
         for (let e of sessionEntries) {
@@ -648,12 +662,8 @@ class OutputHandler {
 
             let partyLabel = campaignCode
             try {
-                let nameObj = NameManager.getNameObject(campaignCode, "person")
-                if (nameObj?.linkTarget) {
-                    partyLabel = (nameObj.name === nameObj.linkTarget)
-                        ? `[[${nameObj.linkTarget}]]`
-                        : `[[${nameObj.linkTarget}|${nameObj.name}]]`
-                }
+                let cfg = NameManager.getCampaignConfig(campaignCode)
+                if (cfg?.partyPage) partyLabel = `[[${cfg.partyPage}]]`
             } catch (e) {
                 // ignore
             }

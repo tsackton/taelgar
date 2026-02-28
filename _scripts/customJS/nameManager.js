@@ -54,16 +54,54 @@ class NameManager {
             join(' ')
     }
 
-    getCampaignSessionNoteFolder(prefix) {
-        let metadata = this.#getElementFromMetadata("campaigns")
-        if (metadata) {
-            let cmp = metadata.filter(f => f.prefix.toLowerCase() == prefix.toLowerCase()).first()
-            if (cmp) {
-                return cmp.sessionNoteFolder
+    getCampaignConfig(codeOrAlias) {
+        // Canonical campaign config lives in `.obsidian/metadata.json` under `campaigns`.
+        // Backwards compatible with legacy `{prefix, sessionNoteFolder}` entries.
+
+        const normalize = (value) => (value ?? "").toString().trim()
+        const normalizeKey = (value) => normalize(value).toLowerCase()
+
+        let query = normalizeKey(codeOrAlias)
+        if (!query) return undefined
+
+        let campaigns = this.#getElementFromMetadata("campaigns")
+        if (!Array.isArray(campaigns)) return undefined
+
+        const resolvePartyPageFallback = (code) => {
+            let linkmap = this.#getElementFromMetadata("linkmap")
+            if (!Array.isArray(linkmap)) return undefined
+            let match = linkmap.find(m => normalizeKey(m?.from) === normalizeKey(code))
+            return match?.to ? normalize(match.to) : undefined
+        }
+
+        for (let c of campaigns) {
+            if (!c) continue
+
+            let code = normalize(c.code ?? c.prefix)
+            let partyPage = normalize(c.partyPage) || resolvePartyPageFallback(code)
+            let sessionNoteFolder = normalize(c.sessionNoteFolder)
+            let aliases = Array.isArray(c.aliases) ? c.aliases.map(a => normalize(a)).filter(Boolean) : []
+
+            let keys = [code, ...aliases].map(normalizeKey).filter(Boolean)
+            if (!keys.includes(query)) continue
+
+            return {
+                code,
+                partyPage,
+                sessionNoteFolder,
+                aliases
             }
         }
 
         return undefined
+    }
+
+    getCampaignPartyPage(codeOrAlias) {
+        return this.getCampaignConfig(codeOrAlias)?.partyPage
+    }
+
+    getCampaignSessionNoteFolder(codeOrAlias) {
+        return this.getCampaignConfig(codeOrAlias)?.sessionNoteFolder
     }
 
     getFileForTarget(target, filter = undefined) {

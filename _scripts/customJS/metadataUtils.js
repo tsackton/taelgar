@@ -92,7 +92,7 @@ class util {
         if (personMetadata.tags) {
             if (allowTag) {
                 let campaignTags = personMetadata.tags.filter(f => f.toLowerCase().startsWith(campaignPrefix.toLowerCase()))
-                if (campaignTags.some(f => !f.contains("unaware") && !f.contains("unknown") && !f.contains("unsorted")))
+                if (campaignTags.some(f => !f.includes("unaware") && !f.includes("unknown") && !f.includes("unsorted")))
                     return true
             }
         }
@@ -103,7 +103,7 @@ class util {
             }
 
             if (campaignFolder) {
-                return DataviewAPI.page(file).file.inlinks.some(f => f.path.contains("Campaigns/" + campaignFolder + "/Session Notes") || f.path.contains(campaignFolder))
+                return DataviewAPI.page(file).file.inlinks.some(f => (f?.path ?? "").startsWith(campaignFolder) || (f?.path ?? "").includes(campaignFolder))
             }
         }
 

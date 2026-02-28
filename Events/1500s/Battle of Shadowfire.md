@@ -1,21 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/cleanup/metadata]
+tags: [event]
 typeOf: battle
+DR: 1555
 dm_owner: none
 dm_notes: none
 partOf: Conclave War
 ---
 # The Battle of Shadowfire
 >[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > Part of The [[Conclave War]]
 
-%% TO DO %%
-
 A major defeat for [[Chardon]] during the [[Conclave War]], when the dragon conclave unleashed their full might during the wars of the [[Blood Years]].  Fought on the banks of the [[Chasa]], about 250 miles northeast of [[Chardon]]. The [[Scar of Shadowfire|remnants of the dragonfire]] of this battle still scar the land, and nothing grows. 
-
-%%
-
-- [ ] clean up as part of general Conclave War update
-
-%%
