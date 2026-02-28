@@ -13,8 +13,6 @@ dm_notes: color
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
-
-
 The Conclave War was one of the defining conflicts of the [[Blood Years]] in [[Greater Chardon]].  the west coast. It is remembered in Chardonian histories as the moment when a host of hobgoblins and monsters—led by a conclave of dragons—advanced down the [[Chasa]] river valley and brought the war to the doorstep of [[Chardon]].
 
 The war’s key turning point was the [[Battle of Metium]], fought only a few days’ ride upriver from Chardon, where the dragon host was checked and its leadership shattered.

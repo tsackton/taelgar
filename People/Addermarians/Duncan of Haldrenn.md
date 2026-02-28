@@ -20,6 +20,8 @@ dm_notes: important
 
 A boastful villager from [[Haldrenn]] who claimed to know the location of hidden wealth; he vanished into the [[Highmoor]] hills in early DR 1715.
 
+
+
 %% DM 
 
 Linked in prep to a fey Singing Tree incursion tied to [[Morlaith]], see [[Adventure 5 - Fey Incursion]]
