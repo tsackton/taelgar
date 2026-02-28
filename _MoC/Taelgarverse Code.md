@@ -1,3 +1,7 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
 # Javascript Notes
 **WARNING: outdated and incomplete**
 
@@ -17,3 +21,28 @@ This folder contains dataview functions that can be used with dv.view("/path/to/
 
 #### **templater**
 This folder contains templater user functions. 
+
+## KnownTo and Campaign Interactions
+
+To track and summarize party interactions with NPCs (and other entities) without cluttering YAML with long logs:
+
+- Use `knownTo` in frontmatter as the **source of truth** for “this party knows this subject”.
+  - Example: `knownTo: [DuFr, Clee]`
+- Rely on session notes as **evidence**: session notes should link entities that appear in them.
+- Add a generated “Campaign Interactions” section to the subject page to avoid manually searching backlinks.
+
+Example section on an NPC page:
+
+```markdown
+## Campaign Interactions
+`$=customJS.OutputHandler.outputCampaignInteractions(dv.current().file.name, dv.current())`
+```
+
+To show interactions for a single campaign only:
+
+```markdown
+## Campaign Interactions (DuFr)
+`$=customJS.OutputHandler.outputCampaignInteractions(dv.current().file.name, dv.current(), "DuFr")`
+```
+
+Campaign codes (and mapping to party pages and session-note folders) are configured in `.obsidian/metadata.json` under `campaigns` (`code`, `partyPage`, `sessionNoteFolder`, optional `aliases`).
