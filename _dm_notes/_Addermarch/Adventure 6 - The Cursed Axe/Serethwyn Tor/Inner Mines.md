@@ -22,7 +22,7 @@ Have old coins - a few hundred silver. Avatus' symbol on shields. One is wearing
 2 Wights (700 XP each, total 1400 XP)
 
 https://www.dndbeyond.com/monsters/5195269-wight (use Vitality Theft from: https://www.dndbeyond.com/monsters/4486044-wight-mcdm instead of life drain; the one with the amulet can use life drain as a bonus action)
-https://www.dndbeyond.com/monsters/4486045-wight-siphoner
+ 
 
 ### 3: Heading In
 
@@ -64,8 +64,6 @@ Stairs up to level 3 are cracked - only a 4 foot gap, should be jump-able, but w
 
 (stop here)
 ### 8: Antechamber to Serpentine Temple
-
-**Easy combat**
 
 Twisting passage in the back with a weird green glow (faint). 
 

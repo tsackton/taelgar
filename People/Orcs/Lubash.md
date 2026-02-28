@@ -4,6 +4,7 @@ tags: [status/cleanup/metadata, person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-10, type: met}
 name: Lubash
+knownTo: [DuFr]
 born: 1691
 activeYear: 1735
 species: orc
@@ -41,5 +42,13 @@ Lubash has a pale green complexion and is bald. His features are striking, chara
 
 - Came to power in DR 1745 after his older brother's family was killed by hill [[Giants]].
 - In DR 1748-1749, led the [[Orcs]] of [[Xurkhaz]] in the war against [[Grash]], aided by [[Dunmar Fellowship]]
+
+## Campaign Interactions
+%%^Campaign:DuFr%%
+```dataviewjs
+await dv.view("_scripts/view/get_CampaignInteractions")
+```
+%%^End%%
+
 
 %%SECRET[1]%%
