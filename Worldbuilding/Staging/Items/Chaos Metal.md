@@ -18,5 +18,5 @@ DM notes / sources
 - Session 132 (DuFr): captured worm‑snake decoheres into Limbo chaos metal; Identify notes control range and inert behavior beyond ~2 miles.
 - Session 133 (DuFr): Empress’s armor of chaos metal; surge events during confrontation at the Heartroot.
 - Session 134 (DuFr): use of chaos metal as planar connection point noted in recap; prep for Limbo research.
-- Limbo behavior context: Letters and Notes on ancient Limbo sources; Arryn of Tollen, Experiments upon the Planar Substance; Gaius Devarro, On Minds and Chaos.
+- Limbo behavior context: Letters and Notes on ancient Limbo sources; Arryn of Tollen, Experiments upon the Planar Substance; Gaius Devarro, [[On Minds and Chaos]].
 %%

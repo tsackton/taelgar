@@ -31,7 +31,7 @@ I therefore commend to the University and to the Imperial Cartographic Office a 
 ## Report of the Riftstone Gorge Disaster
 *This letter, from the commander of the southern legions, describes the Riftstone Disaster, a stunning and utter defeat (in DR 1715) of the Chardonian legions at the hands of some fiendish chalyte powered weapon of destruction. While the events of the Riftstone Disaster have been suppressed in official histories, it was only a few years later that the Chataan Mountains were interdicted from further exploration.*
 
-I place before you a plain account of the reverse suffered yesterday at Riftstone Gorge, that Your Excellency may judge what remedy is yet possible.
+I place before you a plain account of the reverse suffered yesterday at [[Riftstone Gorge]], that Your Excellency may judge what remedy is yet possible.
 
 At dawn the host advanced in three columns: **Legio XIII “Iron-Ward”** on the right, **Legio XVII “Storm-Ward”** on the left, **Legio VI “Dawn-Guard”** following. Two earth-shaker batteries and two dozen sworn war mages marched with us. The ridge above the gorge was already held by a company of mountain giants. Between their twin needle-peaks hung a thing most dreadful: a turret wrought of stone and dark-violet crystal, kept aloft by two roaring chains of lightning. Thunder rolled from those chains even in calm air.
 
