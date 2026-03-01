@@ -68,7 +68,7 @@ Confident in their new understanding and alliances, the party withdrew, teleport
 - Travels on navy ship Vindisharna, witnesses aftermath of Seeker and [[Faldrak Bronzehammer|Faldrak]]’s ice experiments
 - Arrives near Thunder Crown, researches geography, stone giant lore, and Drukmir via Bastion facilities
 - Learns Drukmir created the chelite-powered death ray, enslaves other giants, and is physically altered by chelite
-- Scouts Riftstone Gorge, detects 18 giants (2 radiate unnatural power), hundreds of lesser creatures present, plans stealthy reconnaissance
+- Scouts [[Riftstone Gorge]], detects 18 giants (2 radiate unnatural power), hundreds of lesser creatures present, plans stealthy reconnaissance
 
 ### Scouting Thundercrown and Ogre Interrogation
 
