@@ -15,7 +15,7 @@ chardon is settling chasa valley here
 DR 1574 - DR 1597
 During mawar renai; hobgoblins are stilla round the malakel entrance, but somewhat hemmed in by something in the north so don't really have a good expansion plan; perhaps even being somewhat decent rulers in a way; chardon growing in the chasa valley but not really an empire just yet
 
- DR 1597, when the Umbral Covenant launches the Shadow Armada to conquer Chardon, and loses badly - awakening moment - empire is working this is not like the conclave war at all leads to first serious wave of expansion
+ DR 1597, when the [[Umbral Covenant]] launches the Shadow Armada to conquer Chardon, and loses badly - awakening moment - empire is working this is not like the conclave war at all leads to first serious wave of expansion
 #### Imperial Expansion
 DR 1597 - present
 three phases: 
@@ -110,7 +110,7 @@ Deciusmus — Today at 3:44 PM
 Here's the version I have so far, slightly modified from last night, and trying to leave the right "blank spaces" while still being a solid framework.
 
 Great War and Blood Years
-In Chardon this is basically 1545 - 1597 (the defeat of the Umbral Covenant being the conventional "end of the Blood Years") in Chardon at least.
+In Chardon this is basically 1545 - 1597 (the defeat of the [[Umbral Covenant]] being the conventional "end of the Blood Years") in Chardon at least.
 
 There are a couple of major things happening here:
 

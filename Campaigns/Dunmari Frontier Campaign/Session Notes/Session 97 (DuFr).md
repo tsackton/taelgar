@@ -119,12 +119,12 @@ The session ended with [[Seeker]]'s successful teleportation to [[Nevium]] on th
 #### Return to the Voknaz Manor
 - The party decides to execute their plan of showing up at the gates with the Watcher's Medallion instead of teleporting inside to steal the jade fragment.
 - Upon arrival, they are greeted by the scribe who had previously sent them on their mission. The scribe, appearing nervous, inquires if they have the proof of the vampire's death, the medallion.
-- Dewalth confirms they have the medallion and mentions they have a messenger from Rodnya Kinzal in their custody. The scribe dismisses the concern for the messenger, focusing on the task of verifying the vampire's death.
+- Dewalth confirms they have the medallion and mentions they have a messenger from [[Rodnya Kinzal]] in their custody. The scribe dismisses the concern for the messenger, focusing on the task of verifying the vampire's death.
 - After waiting for several hours, the party is approached by the scribe carrying a lead box containing the piece of jade they sought, warning them of its dream-disturbing properties.
 - The party discusses internally the potential to offload the Kinzal messenger and the implications of using a dagger they possess.
 - They inquire about getting a pass or permission for future returns to trade or for diplomatic entry, which the scribe agrees to consider, offering a writ of trade to the port cities for the time being.
 - The scribe reveals that the Kinzal messenger likely returned home using a return stone, suggesting his escape from their captivity.
-- The party is led to believe that their names will not be heavily associated with the vampire's defeat, implying that the victory will be attributed to Rodnya Voknaz.
+- The party is led to believe that their names will not be heavily associated with the vampire's defeat, implying that the victory will be attributed to [[Rodnya Voknaz]].
 - The scribe grants the party access to a portal for future visits, marking the end of their transaction.
 - As Kenzo attaches the jade piece to his staff, the party is transported to a dream vision revealing the fragile state of magical bonds restraining a powerful entity named Apollyon and the urgency to act before these bonds break.
 - The party debates their next moves, considering the importance of collecting more jade pieces to strengthen the bonds holding Apollyon and prevent his release.

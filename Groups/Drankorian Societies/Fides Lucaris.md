@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ""}
-tags: [group, status/stub, status/check/ai]
-dm_notes: important
+tags: [group]
+dm_notes: none
 dm_owner: tim
 ---
 # Fides Lucaris
@@ -10,9 +10,6 @@ dm_owner: tim
 > An organization  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The Fides Lucaris were a Drankorian secret society associated with the Emperor [[Helea]] and the losing side of the Drankorian civil wars. In the surviving historical record, they are best known through scattered notices of executions and exile when members were caught; these notices also suggest the Fides Lucaris were a cross‑species alliance, involving at least humans and elves.
+The Fides Lucaris was a Drankorian secret society associated with clandestine actions against Drankorian imperial power in the years following the [[Drankorian Civil War]]. 
 
-## Sources
-
-- [[Arheste]]
-- [[Drankorian Empire]]
+%%SECRET[1]%%

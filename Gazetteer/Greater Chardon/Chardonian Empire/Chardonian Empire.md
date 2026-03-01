@@ -67,7 +67,7 @@ The empire is young by the standards of Chardon, whose own founding as a Drankor
 
 In the most commonly told imperial chronology:
 
-- DR 1584–1597: The [[War of the Dark Rift]] erupts on [[Apporia]]. In DR 1597 the Umbral Covenant launches the Shadow Armada against Chardon and is destroyed; Chardonian writers often treat this as the decisive turning point, the moment when Chardon began to see itself not as an isolated city-state, but the seat of a nascent empire. 
+- DR 1584–1597: The [[War of the Dark Rift]] erupts on [[Apporia]]. In DR 1597 the [[Umbral Covenant]] launches the Shadow Armada against Chardon and is destroyed; Chardonian writers often treat this as the decisive turning point, the moment when Chardon began to see itself not as an isolated city-state, but the seat of a nascent empire. 
 - DR 1597–1619: Chardon’s campaigns in Apporia secure [[Portalia]] and establish imperial control over the [[Old Chardon Canal]]; the canal is reopened under Chardonian authority in DR 1619, and cities like [[Nevium]] flourish anew.
 - Late DR 1600s onward: The discovery and exploitation of [[Chalyte|chalyte]] near [[Voltara]] transforms the empire’s finances and reach, tightening imperial control over the [[Northern Provinces]] and fueling the rise of chalyte‑powered magic and industry.
 - DR 1689–1720: The chalyte boom in [[Alta Tonaro]] leads to rapid growth around [[Argento]], followed by decline as surface chalyte deposits dwindle and the [[Chataan Mountains]] are increasingly treated as unsafe for travel.

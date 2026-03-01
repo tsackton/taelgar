@@ -102,7 +102,7 @@ After some discussion, we end as the party decides that, despite the risks of ki
 
 - The DM provides information on the Rodnya, painting them as a secretive, politically aligned group with a focus on arcane magic, mentioning that everyone in the inner circle has some magical ability.
 
-- Roman arranges for the party to have dinner with Jela Drask, a low-level arcane magic user associated with Rodnya Nivik, promising an opportunity for the party to learn more about local magic users and politics.
+- Roman arranges for the party to have dinner with Jela Drask, a low-level arcane magic user associated with [[Rodnya Nivik]], promising an opportunity for the party to learn more about local magic users and politics.
 
 - Riswynn and Seeker investigate local craftsmanship and Roman finalizes preparations for the party's journey, including acquiring horses and supplies for their travel.
 
@@ -212,7 +212,7 @@ In the session, the party strategizes their journey across Ursk, weighing the ad
 
 **Exploring Zvervinka**
 
-The party engages with the local town of Zvervinka, exploring its social and economic divisions, and preparing for their journey with the help of Roman. They also have dinner with Jela Drask, a member of Rodnya Nivik, attempting to gain insights into the local arcane practices and political landscape.
+The party engages with the local town of Zvervinka, exploring its social and economic divisions, and preparing for their journey with the help of Roman. They also have dinner with Jela Drask, a member of [[Rodnya Nivik]], attempting to gain insights into the local arcane practices and political landscape.
 
   
 

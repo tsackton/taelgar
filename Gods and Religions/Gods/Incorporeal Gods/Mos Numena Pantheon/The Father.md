@@ -16,7 +16,7 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% vibes and notes:
-- associated with the Radiant Path and the religious resistance to Apollyon's rule in Drankor. Whether this is echoing effects into the present day is unclear / undecided. 
+- associated with the [[Radiant Path]] and the religious resistance to Apollyon's rule in Drankor. Whether this is echoing effects into the present day is unclear / undecided. 
 - Associated with the Radiant Alliance and Cece's reconquest of southern Sembara from the hobgoblins
 - another of the fairly impersonal of the divines
 - contrast with warlord: the father is the noble cause, but the warlord is your personal courage in battle. 

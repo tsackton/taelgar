@@ -44,6 +44,6 @@ Twice, you see something out of the ordinary. One morning, a man rides up in a w
 
 "My dear Yelena,
 
-Sister, I am sure you wish your disgraced brother would be silent as commanded, but I must write. The nightmares have not ended. I had the dream of the winged creature attacking the monks again, while I was petrified and could not do anything. And a few days ago, the dream of being on a sinking ship, wracked by waves. I cannot go on like this. You have sway over the Rodnya Voknaz, I know, can you not ask them to destroy the thing once and for all? I am sure they would succeed where I failed."
+Sister, I am sure you wish your disgraced brother would be silent as commanded, but I must write. The nightmares have not ended. I had the dream of the winged creature attacking the monks again, while I was petrified and could not do anything. And a few days ago, the dream of being on a sinking ship, wracked by waves. I cannot go on like this. You have sway over the [[Rodnya Voknaz]], I know, can you not ask them to destroy the thing once and for all? I am sure they would succeed where I failed."
 
 At that he stops, sighs, and crumples the letter, throwing into the fire.

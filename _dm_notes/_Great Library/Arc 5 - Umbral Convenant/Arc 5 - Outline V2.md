@@ -11,7 +11,7 @@ Facts to connect:
 
 
 Mysteries:
-- How was the Umbral Covenant able to compel or at least enlist the aid of an aboleth?
+- How was the [[Umbral Covenant]] able to compel or at least enlist the aid of an aboleth?
 - Why at they geographically so dispersed?
 - Why lizardfolk specifically?
 
@@ -24,7 +24,7 @@ Original idea was that Umbral Convenant and aboleth were both servants of the sa
 
 **Option 2**
 
-One possibility is disentangling the feywild war from the Umbral Covenant. In this framing, the fathomless gets tied to the plane of water and we have a high level elemental planes arc that ties in Zadkai and the elemental scrolls as well. 
+One possibility is disentangling the feywild war from the [[Umbral Covenant]]. In this framing, the fathomless gets tied to the plane of water and we have a high level elemental planes arc that ties in Zadkai and the elemental scrolls as well. 
 
 Here, the focus of the Umbral Covenant is the shadowfell domain and the darklord. But this raises some concerns about why an aboleth which feels a little to neatly tied to the fathomless. But, then again, the flavor of the fathomless is less cosmic horror / aberration and more ancient water elemental. 
 

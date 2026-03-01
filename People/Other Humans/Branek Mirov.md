@@ -17,7 +17,7 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[branek-mirov-portrait-v2.png|right|400]]Branek is a powerful wizard and high-ranking member of the Rodnya Voknaz, based at the Voknaz Manor, the headquarters of the rodnya. 
+![[branek-mirov-portrait-v2.png|right|400]]Branek is a powerful wizard and high-ranking member of the [[Rodnya Voknaz]], based at the Voknaz Manor, the headquarters of the rodnya. 
 
 He is devoted to the [[Rodnya Voknaz]], and has dedicated his life to the organization. 
 

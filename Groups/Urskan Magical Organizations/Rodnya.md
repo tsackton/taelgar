@@ -18,7 +18,7 @@ The eight rodnye of [[Ursk]] (singular: Rodnya) are the secretive magical bloodl
 The eight rodnye are:
 - The [[Rodnya Voknaz]], based in the western part of Ursk, and known primarily for their skill in war and in shaping elemental forces into destructive magic. Long a proponent of offensive power as the best defense against dragon invasion. 
 - The [[Rodnya Morozmir]], based in the southeast of Ursk, and specialists in defensive magic. Said to be particularly strange, and likely involved somehow in the vast arcane wards that protect much of the country. 
-- The [[Rodnya Zoryana]], based in the center of the country, known for their penetrating gaze and uncanny ability to see what is, was, and might be. 
+- The [[Rodnya Zoryana]], known for their penetrating gaze and uncanny ability to see what is, was, and might be. 
 - The [[Rodnya Kinzal]], enchanters and illusionists
 - The [[Rodnya Nivik]], conjurers and teleportation specialists
 %%SECRET[1]%%
