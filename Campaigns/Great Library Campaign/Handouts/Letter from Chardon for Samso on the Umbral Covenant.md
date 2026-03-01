@@ -4,7 +4,7 @@ tags: [source]
 
 Dear Samso,
 
-It is my pleasure to pass along the research I have been able to gather concerning the Umbral Covenant and the strange sigil you have found in several places. I am currently stuck dealing with political troubles in Chardon, but I hope to return to Voltara soon and speak with you and your companions again. Rumors of your prowess reach me even here. 
+It is my pleasure to pass along the research I have been able to gather concerning the [[Umbral Covenant]] and the strange sigil you have found in several places. I am currently stuck dealing with political troubles in Chardon, but I hope to return to Voltara soon and speak with you and your companions again. Rumors of your prowess reach me even here. 
 
 The sigil, I must report, is a puzzle even to our most knowledgable scholars. There is nothing like it in all the records of the Great Library, nor have my colleagues at the University of Chardon found any copies of an identical sigil in their records. All I am able to report is the information from a arcane linguist, but what she says makes little sense. She claims it resembles a glyph used in spellcasting, but it is unrelated to any known spell. Stranger, one can potentially deconstruct it into three runes of the ancient Northros language, which, if true, mean "Sleep Nevermore". But how an extinct language might be connected to an unknown spell glyph is far from clear! 
 

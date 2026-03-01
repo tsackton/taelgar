@@ -154,7 +154,7 @@ It is likely that during the period the remnants of NR 1, on the north shores of
 However, this period ends with hope:
 - While the hobgoblin kingdoms remain, they are not expansionist for whatever reason
 - The Evil realm is defeated (somehow, tbd), which leads to Mawar reemerging and a northern renaissance. 
-- Chardon defeats the Shadow Armada of the Umbral Covenant, and realizes it is strong. The vibe here is that the victory against the dragon conclave felt like a defeat - a huge number of Chardonians died and the city itself survived just barely. The victory against the Shadow Armanda was different - Chardon won, decisively. 
+- Chardon defeats the Shadow Armada of the [[Umbral Covenant]], and realizes it is strong. The vibe here is that the victory against the dragon conclave felt like a defeat - a huge number of Chardonians died and the city itself survived just barely. The victory against the Shadow Armanda was different - Chardon won, decisively. 
 
 At the end of the Retrenchement Period, you have:
 - Evil realm defeated, and the reemergence of the northern coastal culture, with Mawar and NR 5, on the coast, forming the basis of a renaissance.

@@ -1,6 +1,5 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/ai]
 ---
 # Javascript Notes
 **WARNING: outdated and incomplete**

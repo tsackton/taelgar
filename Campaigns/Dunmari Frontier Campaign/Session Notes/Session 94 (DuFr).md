@@ -65,7 +65,7 @@ After some brief deliberation, the party decided to ask Lena to reach out to [[R
 - The party plans to present themselves as monster hunters (Riswynn, Seeker, and Delwath), accompanied by local guides (Kenzo and and Wellby) to enter [[Zvervinka]], considering using their monster parts (from an ice worm and a dragon) as trade goods.
 - They discuss the political and magical landscape of Ursk, focusing on the importance of the krev rite and the distinction between those who are bound by it and outsiders.
 - The group contemplates the implications of Ursk's societal norms on magic and non-humans, theorizing about the motivations behind the city's high concentration of powerful wizards and the control over magical practices.
-- As part of their cover, they consider how to use their knowledge of the Rodnya and the stories surrounding the magical protections of Ursk to navigate the city and gather information on the fragment of jade they seek, and the Rodnya Voknaz.
+- As part of their cover, they consider how to use their knowledge of the Rodnya and the stories surrounding the magical protections of Ursk to navigate the city and gather information on the fragment of jade they seek, and the [[Rodnya Voknaz]].
 - The team reflects on their crew left behind on the ship, emphasizing their trust and instructions to ensure the ship's safety in their absence.
 - In preparation for entering the city, they consider casting buff spells for protection, weighing the benefits against the risk of drawing unwanted attention from the city's magical authorities.
 
@@ -118,7 +118,7 @@ After some brief deliberation, the party decided to ask Lena to reach out to [[R
 - Lena expressed curiosity about the party's true motives, sensing inconsistencies in their story, but was reassured when Delwath admitted to seeking information about dimensions disturbances. 
 - The party offered to perform services for the Watchers in exchange for information and assistance, specifically concerning dimensional disturbances they were investigating.
 - Lena suggested she could connect the party with one of three factions of the Rodnya, powerful wizards of Ursk, each specializing in different aspects of magic.
-- The party expressed interest in potentially aligning with the Rodnya Voknaz, described as desperate but potentially rewarding allies, for their quest.
+- The party expressed interest in potentially aligning with the [[Rodnya Voknaz]], described as desperate but potentially rewarding allies, for their quest.
 - Lena agreed to seek approval for their travel pass and promised to reach out to them at the Silver Wolf inn once arrangements were made.
 
 ### Short Summary

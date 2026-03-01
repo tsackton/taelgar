@@ -63,7 +63,7 @@ These people, call the novja (loosely, new people), still have not, for the most
 
 ### Recent Events
 
-Over the past decade, the question of the novja has divided the eight rodnya. One of the rodnye, the Rodnya Kinzal, is particularly known for their dislike of the novja. Another, Rodnya Voknaz, is known for their pragmatism and is particularly concerned with Various Dangers Up North, rather than squabbling over who is or isn't a citizen. Voknaz has been the most open to novja, especially those who show strength of arms.
+Over the past decade, the question of the novja has divided the eight rodnya. One of the rodnye, the [[Rodnya Kinzal]], is particularly known for their dislike of the novja. Another, Rodnya Voknaz, is known for their pragmatism and is particularly concerned with Various Dangers Up North, rather than squabbling over who is or isn't a citizen. Voknaz has been the most open to novja, especially those who show strength of arms.
 
   
 
