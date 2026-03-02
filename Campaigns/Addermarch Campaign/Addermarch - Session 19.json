@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 19.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 19,
+  "name": "Addermarch Campaign - Session 19",
+  "descTitle": "Down the Ventilation Shaft",
+  "tagline": "in which a failed anchor sends the party falling and they fight their way deeper",
+  "realWorldDate": "2026-02-16",
+  "drStart": "1715-05-27",
+  "drEnd": "1715-05-27",
+  "shortSummary": "Starting from their resting place in the upper mine, the party backtracks to Duncan's camp, finds a ventilation shaft into the lower works, suffers a fall when their spike anchor fails, fights serpentine ghouls on two levels, and ends pressing toward a deeper boss fight marked by rhythmic thudding.",
+  "longSummary": "After a long rest in the upper mine chambers beneath Serethwyn Tor, Drou, Fazoth, and Yvan retrace their steps past Duncan's camp and locate a ventilation shaft leading into the lower levels. Descending by rope, their iron spike anchor pulls free under the load, sending Drou and Yvan tumbling before they recover and continue downward. They fight serpentine ghouls and burn the bodies, taking about 300 silver pieces, then follow signs of Duncan's passage past crushed, non-animated corpses and deeper into tight, rubble-choked tunnels where more ghouls attack. With the fights won and a rhythmic thudding echoing ahead, the party chooses not to rest and advances toward the next confrontation.",
+  "sessionProfile": {
+    "combat": "heavy",
+    "roleplay": "none",
+    "travel": "medium"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Duncan of Haldrenn",
+      "context": "mentioned",
+      "notes": "Evidence of his camp and tracks point to his route into the lower mine levels."
+    },
+    {
+      "name": "Fazoth's pseudodragon",
+      "context": "companion",
+      "notes": "Scouts the ventilation shaft and participates in combat; its poison proves ineffective against the ghouls."
+    },
+    {
+      "name": "Serpentine ghouls",
+      "context": "enemy",
+      "notes": "Undead encountered near the ventilation shaft and again on the lowest level, drawn to serpentine residue."
+    }
+  ],
+  "organizations": [],
+  "places": [
+    {
+      "name": "Serethwyn Tor mine (upper chambers)",
+      "context": "visited",
+      "notes": "Starting point after the party's long rest."
+    },
+    {
+      "name": "Mine entrance work shed",
+      "context": "visited",
+      "notes": "Work shed near the mine entrance where Duncan's camp is found."
+    },
+    {
+      "name": "Ventilation shaft (surface entrance)",
+      "context": "visited",
+      "notes": "A shaft found by climbing the hill above the mine; used to reach lower levels."
+    },
+    {
+      "name": "Ventilation shaft (lower levels)",
+      "context": "visited",
+      "notes": "Descent route where the anchor failure causes a fall and where serpentine ghouls are encountered."
+    },
+    {
+      "name": "Serethwyn Tor mine (abandoned workings)",
+      "context": "visited",
+      "notes": "Dusty, largely bypassed mine area between the shaft and the deeper route."
+    },
+    {
+      "name": "Serethwyn Tor mine (lowest level)",
+      "context": "visited",
+      "notes": "Tight quarters where ghouls lick serpentine residue from the walls and attack in waves."
+    },
+    {
+      "name": "Boss-fight approach",
+      "context": "mentioned",
+      "notes": "Area ahead of the party marked by rhythmic thudding as they advance at the end of the session."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Serethwyn Tor mine (upper chambers)",
+      "to": "Ventilation shaft (surface entrance)",
+      "mode": "on foot / climb"
+    },
+    {
+      "from": "Ventilation shaft (surface entrance)",
+      "to": "Ventilation shaft (lower levels)",
+      "mode": "climb down"
+    },
+    {
+      "from": "Ventilation shaft (lower levels)",
+      "to": "Serethwyn Tor mine (lowest level)",
+      "mode": "on foot / descent"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Serpentine ghouls at the ventilation shaft",
+      "location": "Ventilation shaft (lower levels)",
+      "foes": [
+        "Serpentine ghouls"
+      ]
+    },
+    {
+      "name": "Ghouls on the lowest level",
+      "location": "Serethwyn Tor mine (lowest level)",
+      "foes": [
+        "Serpentine ghouls"
+      ]
+    }
+  ],
+  "treasure": [
+    "About 300 silver pieces"
+  ],
+  "meta": {
+    "startingLevel": 5,
+    "endingLevel": 5,
+    "xpAward": null
+  }
+}
