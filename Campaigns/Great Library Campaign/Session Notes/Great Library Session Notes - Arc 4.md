@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [session-note]
 DR: 1748-01-06
 DR_end: 1748-08-25
-name: Chronicles of the Quest to Defeat the Cursed Cold
+name: Chronicles of the Silver Tempests Ascendant
 ---
 # Chronicles of the Silver Tempests Ascendant
 

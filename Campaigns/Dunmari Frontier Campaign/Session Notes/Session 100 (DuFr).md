@@ -31,7 +31,7 @@ The Dunmar Fellowship scouts the underwater city of Omi, locates a portal, and f
 - They find signs of occupation and nearly alert the guardian while scouting the building.
 
 ### Timeline
-- (DR:: 1749-05-11), morning: Pass through the [[Sentient Ocean]] guarding the [[Merfolk]] city of [[Omi]]. Scout the city. Find a portal to the [[Elemental Plane of Water]]. Plan how to get past the guardian. 
+- (DR::1749-05-11), morning: Pass through the [[Sentient Ocean]] guarding the [[Merfolk]] city of [[Omi]]. Scout the city. Find a portal to the [[Elemental Plane of Water]]. Plan how to get past the guardian. 
 ## Narrative
 The session begins underwater, as the party begins to sink, the water growing darker and more surreal as the party descends below the surface, using their magical gills from [[Kazuro]]'s potion to breath (except [[Kenzo]], who has his cloak of the mantra ray). 
 

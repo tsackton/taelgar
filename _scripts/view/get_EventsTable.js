@@ -5,8 +5,33 @@ async function get_table(input) {
     const { DateManager } = customJS
     const { WhereaboutsManager } = customJS
 
-    let yearStart = DateManager.normalizeDate(input.yearStart);
-    let yearEnd = input.yearEnd ?  DateManager.normalizeDate(input.yearEnd) : input.yearStart;
+    function normalizeRangeInput(value, isEnd, fieldName) {
+        if (value === undefined || value === null || value === "") return undefined;
+
+        if (typeof value === "number") {
+            if (!Number.isInteger(value) || value < 0 || value > 9999) {
+                throw new Error("get_EventsTable: " + fieldName + " must be a 4-digit year or YYYY-MM-DD date string.");
+            }
+            return DateManager.normalizeDate(value, isEnd);
+        }
+
+        if (typeof value === "string" || value instanceof String) {
+            const trimmed = value.trim();
+            if (/^\d{4}$/.test(trimmed)) {
+                return DateManager.normalizeDate(parseInt(trimmed, 10), isEnd);
+            }
+            if (/^\d{4}-\d{2}-\d{2}$/.test(trimmed)) {
+                return DateManager.normalizeDate(trimmed, isEnd);
+            }
+            throw new Error("get_EventsTable: " + fieldName + " must be a 4-digit year or YYYY-MM-DD date string.");
+        }
+
+        throw new Error("get_EventsTable: " + fieldName + " must be a number or string.");
+    }
+
+    let yearStart = normalizeRangeInput(input.yearStart, false, "yearStart");
+    if (!yearStart) throw new Error("get_EventsTable: yearStart is required.");
+    let yearEnd = normalizeRangeInput(input.yearEnd ?? input.yearStart, true, "yearEnd");
     let pageWhere = input.where ?? (f => true)
     let map = input.map ?? (f => [f.date, f.text, dv.fileLink(f.file)])
     let header = input.header ?? ["Date", "Event", "File"]
