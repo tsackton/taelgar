@@ -1,0 +1,123 @@
+{
+  "schemaVersion": "1.0",
+  "noteType": "session-note",
+  "filePath": "Campaigns/Addermarch Campaign/Addermarch - Session 20.md",
+  "campaign": "Addermarch",
+  "sessionNumber": 20,
+  "name": "Addermarch Campaign - Session 20",
+  "descTitle": "The Heart Beneath Serethwyn Tor",
+  "tagline": "in which the warlock falls, the axe is unmade, and the stolen heart is recovered",
+  "realWorldDate": "2026-03-08",
+  "drStart": "1715-05-27",
+  "drEnd": "1715-05-28",
+  "shortSummary": "The party defeats the serpentine warlock beneath Serethwyn Tor, recovers Duncan's letters and the stolen fey heart, uses Trueflame to destroy the Serpentine Battleaxe, learns more of the Avatus wars from a dead ranger, and sets out for Caradoc's to seek a way back into the Feywild.",
+  "longSummary": "Pressing on from the deeper mine levels, Drou, Fazoth, and Yvan confront and quickly overwhelm the serpentine warlock beneath Serethwyn Tor, with Fazoth's repeated bursts of power helping bring down the wielder of the cursed axe. In the aftermath they find Duncan's decapitated body, the Serpentine Battleaxe, a pendant of serpentine, scattered coins, scraped piles of serpentine dust, and the stolen fey heart resting on a small altar veined with corruption. Using the Trueflame prepared by Caradoc, they destroy the axe and pendant, recover the heart, and read Duncan's increasingly rambling letters to Kelvyn in Adderfell, which reveal that Geoffrey had been funded by a mysterious patron to search for serpentine. Escaping back through the shaft and questioning a dead ranger, they learn more about the Avatus wars and the lost Serpentine Register before camping in the upper mine and setting out the next morning for Caradoc's to find a path back into the Feywild.",
+  "sessionProfile": {
+    "combat": "heavy",
+    "roleplay": "light",
+    "travel": "light"
+  },
+  "pcs": [
+    "Drou",
+    "Fazoth de Brune",
+    "Yvan Greenrabbit"
+  ],
+  "npcs": [
+    {
+      "name": "Serpentine warlock",
+      "context": "enemy",
+      "notes": "Warlock wielding the Serpentine Battleaxe in the deepest chamber beneath Serethwyn Tor."
+    },
+    {
+      "name": "Duncan of Haldrenn",
+      "context": "encounter",
+      "notes": "Found dead and decapitated in the boss chamber; his letters reveal Geoffrey had been paid to search for serpentine."
+    },
+    {
+      "name": "Geoffrey, the stranger",
+      "context": "mentioned",
+      "notes": "Named in Duncan's letters as a serpentine seeker funded by an unknown patron."
+    },
+    {
+      "name": "Kelvyn",
+      "context": "mentioned",
+      "notes": "Recipient of Duncan's letters in Adderfell, said to be a guard in the Earl of Adderfell's household."
+    },
+    {
+      "name": "Dead ranger of Serethwyn Tor",
+      "context": "encounter",
+      "notes": "Questioned with Speak with Dead about the Avatus wars, the war over serpentine, and the Serpentine Register."
+    },
+    {
+      "name": "Arvanko",
+      "context": "mentioned",
+      "notes": "His earlier reference to the Serpentine Register is confirmed by the dead ranger."
+    },
+    {
+      "name": "Caradoc",
+      "context": "mentioned",
+      "notes": "The party plans to seek him to find a way back into the Feywild."
+    }
+  ],
+  "organizations": [
+    "The Rangers",
+    "Dominion of Avatus"
+  ],
+  "places": [
+    {
+      "name": "Serethwyn Tor Mine",
+      "context": "visited",
+      "notes": "Mines and tunnels beneath the fort."
+    },
+    {
+      "name": "Serpentine Warlock's Lair",
+      "context": "visited",
+      "notes": "Deep chamber containing the serpentine warlock, Duncan's body, the altar, and the stolen fey heart."
+    },
+    {
+      "name": "Adderfell",
+      "context": "mentioned",
+      "notes": "Home of Kelvyn and a place where surviving copies of the Serpentine Register may exist."
+    },
+    {
+      "name": "Feywild",
+      "context": "mentioned",
+      "notes": "Destination the party hopes to re-enter in order to return the stolen heart."
+    }
+  ],
+  "journeys": [
+    {
+      "from": "Serethwyn Tor Mine",
+      "to": "Serpentine Warlock's Lair",
+      "mode": "on foot"
+    },
+    {
+      "from": "Serpentine Warlock's Lair",
+      "to": "Serethwyn Tor Mine",
+      "mode": "on foot / climb"
+    },
+    {
+      "from": "Serethwyn Tor Mine",
+      "to": "Road toward Caradoc's cottage",
+      "mode": "on foot"
+    }
+  ],
+  "combats": [
+    {
+      "name": "Serpentine warlock boss fight",
+      "location": "Serpentine Warlock's Lair",
+      "foes": [
+        "Serpentine warlock"
+      ]
+    }
+  ],
+  "treasure": [
+    "Fey heart recovered from the altar",
+    "Duncan's letters to Kelvyn",
+    "About 300 silver pieces"
+  ],
+  "meta": {
+    "startingLevel": 5,
+    "endingLevel": 5
+  }
+}
