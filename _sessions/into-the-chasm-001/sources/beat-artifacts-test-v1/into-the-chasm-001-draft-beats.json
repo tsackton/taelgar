@@ -1,0 +1,128 @@
+{
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Omens at the Chasm and the Sudden Fall",
+      "startUid": "u0001",
+      "endUid": "u0182",
+      "dateStart": "1730-01-25",
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "Session setup and world prologue give way to the party awakening on the ice platform.",
+      "dateEvidence": [
+        "session.yaml sets drStart and drEnd to 1730-01-25",
+        "DM states 'It's now January 22nd' only within the backstory recap before play",
+        "Episode 1 note places the party's arrival on 1730-01-25, early afternoon"
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Strangers Wake on the Ice",
+      "startUid": "u0183",
+      "endUid": "u0363",
+      "dateStart": "1730-01-25",
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "The party surveys the platform, introduces themselves, and investigates the environment until Eolo provokes the wolf guardians.",
+      "dateEvidence": [
+        "DM says before the fall it was 'like, 3 o'clock in the afternoon'",
+        "No rest, sleep, or next-day transition occurs after the awakening"
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Ice Wolves Spring to Life",
+      "startUid": "u0364",
+      "endUid": "u0623",
+      "dateStart": "1730-01-25",
+      "timeWindow": "afternoon",
+      "containsCombat": true,
+      "boundaryReason": "Combat begins when Eolo touches the wolves, and this first phase centers on the initial wolf assault before shadow-creatures fully join the battle.",
+      "dateEvidence": [
+        "This fight follows directly from the same 3 PM platform scene",
+        "No narrative sign of a day change or substantial elapsed downtime appears during the first combat phase"
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Shades Descend on the Platform",
+      "startUid": "u0624",
+      "endUid": "u0917",
+      "dateStart": "1730-01-25",
+      "timeWindow": "afternoon",
+      "containsCombat": true,
+      "boundaryReason": "The encounter escalates when wind-shades arrive, the Zimkovan woman drops, and the first dead wolf releases chasm wisps that change the fight.",
+      "dateEvidence": [
+        "This beat is contiguous with the same ongoing platform combat on 1730-01-25",
+        "No sleep, long rest, sunrise, or other day-transition cue interrupts the battle"
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Darkness, Wisps, and the Final Cleanup",
+      "startUid": "u0918",
+      "endUid": "u1255",
+      "dateStart": "1730-01-25",
+      "timeWindow": "afternoon",
+      "containsCombat": true,
+      "boundaryReason": "After the first wisp is destroyed, the fight shifts into a final close-quarters cleanup in darkness until every remaining enemy is dead.",
+      "dateEvidence": [
+        "This remains the same uninterrupted combat sequence on the session's start date",
+        "No evidence suggests a day or major time-of-day transition before the field is cleared"
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Kalima Names the Labyrinth",
+      "startUid": "u1256",
+      "endUid": "u1462",
+      "dateStart": "1730-01-25",
+      "containsCombat": false,
+      "boundaryReason": "With the fight over, Finnan and Justas stabilize the woman and extract her first coherent account of Zeyfa's Labyrinth and her people's history.",
+      "dateEvidence": [
+        "Kalima says 'The sun must have risen by now,' implying the same day is still in progress",
+        "No overnight rest occurs between combat end and this conversation"
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "The Party Trades Histories",
+      "startUid": "u1463",
+      "endUid": "u1835",
+      "dateStart": "1730-01-25",
+      "containsCombat": false,
+      "boundaryReason": "The focus shifts from Kalima's testimony to the party's own introductions, motives, and theories about whether this place is truly the chasm.",
+      "dateEvidence": [
+        "Conversation continues seamlessly from Kalima's revelations on the same date",
+        "No line indicates sleeping, waking, or a move into the next day"
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Short Rest and Dangerous Reconnaissance",
+      "startUid": "u1836",
+      "endUid": "u2182",
+      "dateStart": "1730-01-25",
+      "containsCombat": false,
+      "boundaryReason": "The group questions Kalima about sacrifices, takes a short rest, probes the platform's exits, and confirms the wind below is deadly while Rala scouts the bridge ahead.",
+      "dateEvidence": [
+        "DM explicitly says the party may as well take a short rest",
+        "Kalima notes 'The sun must have risen by now' and there is still no sunset or next-day cue",
+        "A short rest advances time within the same day rather than to a new date"
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Kalima Agrees to Go In",
+      "startUid": "u2183",
+      "endUid": "u2254",
+      "dateStart": "1730-01-25",
+      "containsCombat": false,
+      "boundaryReason": "After scouting reveals four tunnels, the party persuades Kalima to stay between Finnan and Justas and commits to entering the labyrinth.",
+      "dateEvidence": [
+        "This decision follows immediately after the same short-rest scene and scouting report",
+        "The transcript ends before any sunset, sleep, or next-day transition"
+      ]
+    }
+  ]
+}

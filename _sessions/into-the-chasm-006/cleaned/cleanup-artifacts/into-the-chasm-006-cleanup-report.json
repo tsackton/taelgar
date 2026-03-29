@@ -1,0 +1,1586 @@
+{
+  "summary": {
+    "changedLineCount": 221,
+    "replacementCount": 68,
+    "repeatedReplacementCount": 26,
+    "topReplacements": [
+      {
+        "from": "Echo",
+        "to": "Ekko",
+        "count": 46,
+        "headers": [
+          "[u0228 | 00:19:27.450-00:19:33.449 | DM]",
+          "[u0254 | 00:21:15.780-00:21:23.209 | Ekko]",
+          "[u0258 | 00:21:37.420-00:21:40.890 | Ekko]",
+          "[u0263 | 00:21:57.190-00:22:06.099 | Eolo]",
+          "[u0312 | 00:25:47.480-00:25:52.939 | Eolo]",
+          "[u0356 | 00:28:02.590-00:28:05.640 | Ekko]",
+          "[u0493 | 00:37:06.650-00:37:15.830 | Finnan]",
+          "[u0504 | 00:37:50.880-00:37:55.960 | Ekko]",
+          "[u0512 | 00:38:12.450-00:38:14.930 | Eolo]",
+          "[u0535 | 00:39:49.450-00:39:54.019 | DM]",
+          "[u0537 | 00:39:55.430-00:39:58.500 | DM]",
+          "[u0560 | 00:41:43.800-00:41:47.769 | Ekko]",
+          "[u0603 | 00:44:55.530-00:45:01.280 | DM]",
+          "[u0640 | 00:48:04.580-00:48:09.910 | Ekko]",
+          "[u0841 | 01:05:06.330-01:05:09.390 | DM]",
+          "[u0842 | 01:05:10.160-01:05:15.670 | Ekko]",
+          "[u0846 | 01:05:23.630-01:05:29.300 | Ekko]",
+          "[u0906 | 01:11:23.690-01:11:26.649 | Ekko]",
+          "[u0908 | 01:11:29.250-01:11:32.810 | Ekko]",
+          "[u1192 | 01:33:45.060-01:33:48.650 | Finnan]",
+          "[u1202 | 01:34:27.520-01:34:34.580 | Finnan]",
+          "[u1204 | 01:34:41.070-01:34:43.120 | Ekko]",
+          "[u1222 | 01:36:05.020-01:36:13.219 | Finnan]",
+          "[u1225 | 01:36:18.670-01:36:22.610 | Ekko]",
+          "[u1443 | 01:56:20.850-01:56:24.109 | Finnan]",
+          "[u1445 | 01:56:30.270-01:56:38.549 | Finnan]",
+          "[u1523 | 02:02:46.600-02:02:50.910 | Finnan]",
+          "[u1566 | 02:05:39.370-02:05:41.110 | Finnan]",
+          "[u1626 | 02:09:02.660-02:09:07.459 | DM]",
+          "[u1627 | 02:09:08.160-02:09:21.709 | Ekko]",
+          "[u1675 | 02:12:49.080-02:12:58.109 | DM]",
+          "[u1677 | 02:13:04.590-02:13:06.630 | Ekko]",
+          "[u1682 | 02:13:22.350-02:13:31.020 | DM]",
+          "[u1687 | 02:13:49.390-02:13:57.969 | DM]",
+          "[u1709 | 02:14:51.460-02:14:56.170 | Finnan]",
+          "[u1741 | 02:16:42.889-02:16:52.379 | DM]",
+          "[u1748 | 02:17:12.540-02:17:13.530 | DM]",
+          "[u1750 | 02:17:19.959-02:17:22.719 | Finnan]",
+          "[u1777 | 02:19:43.370-02:19:48.370 | DM]",
+          "[u1783 | 02:20:05.260-02:20:09.840 | Finnan]",
+          "[u1850 | 02:23:51.370-02:23:53.379 | DM]",
+          "[u1927 | 02:28:49.910-02:28:54.770 | DM]",
+          "[u1969 | 02:32:42.370-02:32:47.569 | DM]",
+          "[u2133 | 02:46:49.800-02:46:56.879 | Eolo]"
+        ]
+      },
+      {
+        "from": "YOLO",
+        "to": "Eolo",
+        "count": 34,
+        "headers": [
+          "[u0254 | 00:21:15.780-00:21:23.209 | Ekko]",
+          "[u0261 | 00:21:51.640-00:21:53.650 | DM]",
+          "[u0363 | 00:28:29.300-00:28:35.590 | Justas]",
+          "[u0410 | 00:31:33.120-00:31:40.590 | Eolo]",
+          "[u0435 | 00:32:55.690-00:32:59.450 | DM]",
+          "[u0447 | 00:33:47.430-00:33:51.030 | Eolo]",
+          "[u0463 | 00:34:32.040-00:34:37.759 | Finnan]",
+          "[u0496 | 00:37:24.600-00:37:27.340 | Finnan]",
+          "[u0535 | 00:39:49.450-00:39:54.019 | DM]",
+          "[u0537 | 00:39:55.430-00:39:58.500 | DM]",
+          "[u0641 | 00:48:09.910-00:48:12.499 | DM]",
+          "[u0790 | 01:00:56.950-01:00:58.019 | Justas]",
+          "[u0799 | 01:01:39.480-01:01:41.369 | DM]",
+          "[u0818 | 01:02:45.940-01:02:48.949 | DM]",
+          "[u0860 | 01:07:01.050-01:07:13.210 | DM]",
+          "[u1160 | 01:31:09.970-01:31:14.019 | DM]",
+          "[u1194 | 01:33:54.980-01:33:56.620 | Finnan]",
+          "[u1443 | 01:56:20.850-01:56:24.109 | Finnan]",
+          "[u1451 | 01:56:50.470-01:56:54.169 | Finnan]",
+          "[u1474 | 01:58:52.100-01:58:53.989 | Finnan]",
+          "[u1475 | 01:58:57.940-01:59:03.559 | Jrain]",
+          "[u1479 | 01:59:09.920-01:59:14.029 | DM]",
+          "[u1480 | 01:59:14.030-01:59:18.999 | Jrain]",
+          "[u1540 | 02:03:46.060-02:03:52.080 | DM]",
+          "[u1549 | 02:04:24.090-02:04:28.539 | Finnan]",
+          "[u1594 | 02:07:11.620-02:07:20.550 | DM]",
+          "[u1608 | 02:08:21.480-02:08:24.569 | DM]",
+          "[u1746 | 02:17:08.860-02:17:10.910 | DM]",
+          "[u1916 | 02:28:07.480-02:28:13.219 | Finnan]",
+          "[u2122 | 02:46:12.640-02:46:15.690 | DM]",
+          "[u2133 | 02:46:49.800-02:46:56.879 | Eolo]"
+        ]
+      },
+      {
+        "from": "Justice",
+        "to": "Justas",
+        "count": 33,
+        "headers": [
+          "[u0411 | 00:31:40.800-00:31:47.530 | Eolo]",
+          "[u0456 | 00:34:16.239-00:34:18.739 | Ekko]",
+          "[u0469 | 00:34:56.389-00:35:10.509 | Justas]",
+          "[u0474 | 00:35:20.150-00:35:26.400 | Jrain]",
+          "[u0482 | 00:36:15.610-00:36:19.720 | Justas]",
+          "[u0732 | 00:56:35.810-00:56:37.430 | Jrain]",
+          "[u1163 | 01:31:23.580-01:31:24.760 | Finnan]",
+          "[u1192 | 01:33:45.060-01:33:48.650 | Finnan]",
+          "[u1287 | 01:41:51.900-01:41:58.090 | Justas]",
+          "[u1295 | 01:42:27.620-01:42:31.130 | Finnan]",
+          "[u1337 | 01:46:32.240-01:46:40.209 | Justas]",
+          "[u1373 | 01:49:27.050-01:49:30.899 | DM]",
+          "[u1375 | 01:49:36.900-01:49:43.519 | Jrain]",
+          "[u1387 | 01:50:49.080-01:50:51.080 | Ekko]",
+          "[u1392 | 01:51:20.970-01:51:24.700 | Finnan]",
+          "[u1436 | 01:55:58.340-01:56:01.110 | Finnan]",
+          "[u1445 | 01:56:30.270-01:56:38.549 | Finnan]",
+          "[u1489 | 01:59:56.280-01:59:58.530 | DM]",
+          "[u1522 | 02:02:41.900-02:02:45.610 | DM]",
+          "[u1524 | 02:02:51.120-02:02:56.249 | Ekko]",
+          "[u1537 | 02:03:35.660-02:03:38.990 | DM]",
+          "[u1560 | 02:05:06.960-02:05:11.819 | DM]",
+          "[u1561 | 02:05:11.970-02:05:24.700 | DM]",
+          "[u1587 | 02:06:42.970-02:06:48.940 | Justas]",
+          "[u1627 | 02:09:08.160-02:09:21.709 | Ekko]",
+          "[u1706 | 02:14:39.670-02:14:47.650 | DM]",
+          "[u1876 | 02:25:22.410-02:25:24.910 | DM]",
+          "[u1880 | 02:25:34.220-02:25:38.550 | Finnan]",
+          "[u2044 | 02:38:59.030-02:39:05.899 | Finnan]",
+          "[u2047 | 02:39:16.760-02:39:33.769 | Finnan]"
+        ]
+      },
+      {
+        "from": "justice",
+        "to": "Justas",
+        "count": 20,
+        "headers": [
+          "[u0162 | 00:14:00.780-00:14:06.369 | DM]",
+          "[u0448 | 00:33:51.490-00:33:57.459 | Eolo]",
+          "[u0862 | 01:07:19.440-01:07:26.810 | DM]",
+          "[u0900 | 01:10:53.720-01:10:59.500 | Justas]",
+          "[u1149 | 01:30:24.280-01:30:26.270 | Jrain]",
+          "[u1150 | 01:30:26.410-01:30:27.310 | Finnan]",
+          "[u1402 | 01:52:17.300-01:52:22.340 | Justas]",
+          "[u1417 | 01:53:44.850-01:53:48.340 | Finnan]",
+          "[u1481 | 01:59:21.930-01:59:30.649 | Finnan]",
+          "[u1517 | 02:02:03.620-02:02:08.469 | Finnan]",
+          "[u1518 | 02:02:09.140-02:02:23.009 | Finnan]",
+          "[u1597 | 02:07:24.840-02:07:29.920 | DM]",
+          "[u1670 | 02:12:26.060-02:12:31.300 | Finnan]",
+          "[u1676 | 02:12:58.340-02:13:03.769 | DM]",
+          "[u1754 | 02:17:34.120-02:17:36.890 | DM]",
+          "[u1838 | 02:23:12.000-02:23:18.550 | Finnan]",
+          "[u1913 | 02:27:57.520-02:28:02.389 | Finnan]",
+          "[u2033 | 02:37:47.700-02:37:51.910 | Finnan]"
+        ]
+      },
+      {
+        "from": "Finnen",
+        "to": "Finnan",
+        "count": 13,
+        "headers": [
+          "[u0387 | 00:29:25.230-00:29:31.630 | Finnan]",
+          "[u0430 | 00:32:38.850-00:32:42.349 | DM]",
+          "[u0923 | 01:12:34.960-01:12:50.939 | DM]",
+          "[u1024 | 01:21:15.190-01:21:18.769 | Jrain]",
+          "[u1211 | 01:35:10.050-01:35:17.420 | Finnan]",
+          "[u1289 | 01:41:59.620-01:42:01.149 | Justas]",
+          "[u1292 | 01:42:08.360-01:42:12.810 | Finnan]",
+          "[u1313 | 01:44:21.200-01:44:32.489 | Finnan]",
+          "[u1372 | 01:49:20.330-01:49:26.680 | DM]",
+          "[u1475 | 01:58:57.940-01:59:03.559 | Jrain]",
+          "[u1971 | 02:32:51.080-02:32:54.060 | Finnan]",
+          "[u2040 | 02:38:41.060-02:38:45.050 | Finnan]",
+          "[u2046 | 02:39:07.290-02:39:14.370 | Finnan]"
+        ]
+      },
+      {
+        "from": "Drain",
+        "to": "Jrain",
+        "count": 12,
+        "headers": [
+          "[u0418 | 00:32:05.660-00:32:12.950 | Finnan]",
+          "[u0474 | 00:35:20.150-00:35:26.400 | Jrain]",
+          "[u0835 | 01:04:32.030-01:04:35.590 | Finnan]",
+          "[u0839 | 01:04:58.450-01:05:02.220 | DM]",
+          "[u0855 | 01:06:25.410-01:06:27.990 | DM]",
+          "[u0923 | 01:12:34.960-01:12:50.939 | DM]",
+          "[u1238 | 01:37:28.220-01:37:31.790 | Finnan]",
+          "[u1635 | 02:09:49.230-02:09:56.730 | DM]",
+          "[u1727 | 02:16:06.110-02:16:12.150 | Finnan]",
+          "[u1835 | 02:23:05.140-02:23:06.770 | Jrain]",
+          "[u2046 | 02:39:07.290-02:39:14.370 | Finnan]",
+          "[u2073 | 02:42:02.190-02:42:06.269 | Jrain]"
+        ]
+      },
+      {
+        "from": "Rolla",
+        "to": "Rala",
+        "count": 10,
+        "headers": [
+          "[u1003 | 01:19:32.580-01:19:39.190 | Finnan]",
+          "[u1007 | 01:19:56.790-01:20:04.360 | Jrain]",
+          "[u1011 | 01:20:22.960-01:20:27.239 | DM]",
+          "[u1012 | 01:20:29.270-01:20:31.189 | DM]",
+          "[u1018 | 01:20:54.200-01:20:58.190 | Finnan]",
+          "[u1025 | 01:21:18.910-01:21:21.359 | Jrain]",
+          "[u1026 | 01:21:21.360-01:21:23.870 | DM]",
+          "[u1027 | 01:21:24.320-01:21:31.589 | DM]"
+        ]
+      },
+      {
+        "from": "Finan",
+        "to": "Finnan",
+        "count": 8,
+        "headers": [
+          "[u0431 | 00:32:42.730-00:32:44.240 | Jrain]",
+          "[u0909 | 01:11:34.420-01:11:36.409 | DM]",
+          "[u0955 | 01:15:57.970-01:16:06.890 | Finnan]",
+          "[u1186 | 01:33:06.280-01:33:15.560 | Finnan]",
+          "[u1257 | 01:38:41.830-01:38:44.489 | DM]",
+          "[u1287 | 01:41:51.900-01:41:58.090 | Justas]",
+          "[u1417 | 01:53:44.850-01:53:48.340 | Finnan]",
+          "[u1635 | 02:09:49.230-02:09:56.730 | DM]"
+        ]
+      },
+      {
+        "from": "Yolo",
+        "to": "Eolo",
+        "count": 5,
+        "headers": [
+          "[u0312 | 00:25:47.480-00:25:52.939 | Eolo]",
+          "[u0352 | 00:27:44.050-00:27:53.380 | Eolo]",
+          "[u0359 | 00:28:11.180-00:28:19.440 | Justas]",
+          "[u1802 | 02:21:13.880-02:21:22.670 | DM]",
+          "[u1917 | 02:28:14.700-02:28:16.890 | Jrain]"
+        ]
+      },
+      {
+        "from": "Faye",
+        "to": "Fey",
+        "count": 4,
+        "headers": [
+          "[u1744 | 02:16:57.840-02:16:59.259 | Finnan]",
+          "[u1791 | 02:20:39.860-02:20:42.610 | Finnan]",
+          "[u1812 | 02:21:46.190-02:21:46.790 | Finnan]",
+          "[u1831 | 02:22:48.510-02:22:52.690 | Finnan]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 2228,
+  "changedLineCount": 221,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0024 | 00:01:34.460-00:01:40.749 | Finnan]",
+      "lineNumber": 24,
+      "originalText": "Feywild Session Zero, or alternatively, we could schedule a Malwar one-shot in March if",
+      "cleanedText": "Feywild Session Zero, or alternatively, we could schedule a Mawar one-shot in March if"
+    },
+    {
+      "header": "[u0026 | 00:01:43.970-00:01:52.549 | Justas]",
+      "lineNumber": 26,
+      "originalText": "Alright, Maurer One-Shot would be great before Failwild Zero. I see, though, a session both on February 24th and 6th, should one of those come off?",
+      "cleanedText": "Alright, Mawar one-shot would be great before Feywild Zero. I see, though, a session both on February 24th and 6th, should one of those come off?"
+    },
+    {
+      "header": "[u0051 | 00:03:49.630-00:03:53.499 | Finnan]",
+      "lineNumber": 51,
+      "originalText": "No, this isn't… It says, target malware.",
+      "cleanedText": "No, this isn't… It says, target Mawar."
+    },
+    {
+      "header": "[u0062 | 00:05:19.320-00:05:24.000 | DM]",
+      "lineNumber": 62,
+      "originalText": "contraption that Adricius is holding together with his body right now.",
+      "cleanedText": "contraption that Eidrikas is holding together with his body right now."
+    },
+    {
+      "header": "[u0162 | 00:14:00.780-00:14:06.369 | DM]",
+      "lineNumber": 162,
+      "originalText": "So… justice, the… the orcs, there's…",
+      "cleanedText": "So… Justas, the… the orcs, there's…"
+    },
+    {
+      "header": "[u0217 | 00:18:48.920-00:18:50.449 | Jrain]",
+      "lineNumber": 217,
+      "originalText": "Rappager people.",
+      "cleanedText": "Ravager people."
+    },
+    {
+      "header": "[u0228 | 00:19:27.450-00:19:33.449 | DM]",
+      "lineNumber": 228,
+      "originalText": "Cognos, does Echo… so you walk over to the stone, like, it's just sitting there, what do you do?",
+      "cleanedText": "Kong, does Ekko… so you walk over to the stone, like, it's just sitting there, what do you do?"
+    },
+    {
+      "header": "[u0229 | 00:19:34.680-00:19:38.639 | Ekko]",
+      "lineNumber": 229,
+      "originalText": "Has, Finian, completed the Detect Magic?",
+      "cleanedText": "Has, Finnan, completed the Detect Magic?"
+    },
+    {
+      "header": "[u0254 | 00:21:15.780-00:21:23.209 | Ekko]",
+      "lineNumber": 254,
+      "originalText": "you know, Echo is potentially channeling his inner YOLO and just wants to, like, lick it, but is it gonna not do that?",
+      "cleanedText": "you know, Ekko is potentially channeling his inner Eolo and just wants to, like, lick it, but is it gonna not do that?"
+    },
+    {
+      "header": "[u0258 | 00:21:37.420-00:21:40.890 | Ekko]",
+      "lineNumber": 258,
+      "originalText": "Echo is sort of like, hey, should we just pick it up?",
+      "cleanedText": "Ekko is sort of like, hey, should we just pick it up?"
+    },
+    {
+      "header": "[u0259 | 00:21:44.160-00:21:45.760 | Ekko]",
+      "lineNumber": 259,
+      "originalText": "Yolis, you wanna pick it up?",
+      "cleanedText": "Eolo, you wanna pick it up?"
+    },
+    {
+      "header": "[u0261 | 00:21:51.640-00:21:53.650 | DM]",
+      "lineNumber": 261,
+      "originalText": "Okay? So YOLO picks it up.",
+      "cleanedText": "Okay? So Eolo picks it up."
+    },
+    {
+      "header": "[u0263 | 00:21:57.190-00:22:06.099 | Eolo]",
+      "lineNumber": 263,
+      "originalText": "I fly down next to Echo, and take a look at it, and actually, like, poke it with my toe first. It's like, hmm, what is this thing?",
+      "cleanedText": "I fly down next to Ekko, and take a look at it, and actually, like, poke it with my toe first. It's like, hmm, what is this thing?"
+    },
+    {
+      "header": "[u0308 | 00:25:25.260-00:25:31.940 | Jrain]",
+      "lineNumber": 308,
+      "originalText": "Well, Greg has told us to bring back this piece, so somebody told us something, and that's what we're supposed to be trying to do.",
+      "cleanedText": "Well, Eidrikas has told us to bring back this piece, so somebody told us something, and that's what we're supposed to be trying to do."
+    },
+    {
+      "header": "[u0312 | 00:25:47.480-00:25:52.939 | Eolo]",
+      "lineNumber": 312,
+      "originalText": "Here, Echo, you get the other end, and Yolo reaches down to pick up one end.",
+      "cleanedText": "Here, Ekko, you get the other end, and Eolo reaches down to pick up one end."
+    },
+    {
+      "header": "[u0321 | 00:26:15.600-00:26:16.710 | Ekko]",
+      "lineNumber": 321,
+      "originalText": "It looks like yellow…",
+      "cleanedText": "It looks like Eolo…"
+    },
+    {
+      "header": "[u0349 | 00:27:33.730-00:27:37.489 | Jrain]",
+      "lineNumber": 349,
+      "originalText": "They'll be down there after we bring this piece back to Adrakus. It's only, like.",
+      "cleanedText": "They'll be down there after we bring this piece back to Eidrikas. It's only, like."
+    },
+    {
+      "header": "[u0350 | 00:27:38.270-00:27:41.539 | Jrain]",
+      "lineNumber": 350,
+      "originalText": "A met, you know, 500 meters away or something.",
+      "cleanedText": "I meant, you know, 500 meters away or something."
+    },
+    {
+      "header": "[u0352 | 00:27:44.050-00:27:53.380 | Eolo]",
+      "lineNumber": 352,
+      "originalText": "Yolo starts to sort of… Just, like, smoothly back away.",
+      "cleanedText": "Eolo starts to sort of… Just, like, smoothly back away."
+    },
+    {
+      "header": "[u0356 | 00:28:02.590-00:28:05.640 | Ekko]",
+      "lineNumber": 356,
+      "originalText": "Echo will… get in the way.",
+      "cleanedText": "Ekko will… get in the way."
+    },
+    {
+      "header": "[u0359 | 00:28:11.180-00:28:19.440 | Justas]",
+      "lineNumber": 359,
+      "originalText": "Yolo, why don't… why don't we wrap that thing up in a cloak or something? I can stuff it in the backpack, and none of us have to… to deal with it.",
+      "cleanedText": "Eolo, why don't… why don't we wrap that thing up in a cloak or something? I can stuff it in the backpack, and none of us have to… to deal with it."
+    },
+    {
+      "header": "[u0363 | 00:28:29.300-00:28:35.590 | Justas]",
+      "lineNumber": 363,
+      "originalText": "I'm sort of imagining the four of us, like, as YOLO's backing up, the four of us just sort of, like…",
+      "cleanedText": "I'm sort of imagining the four of us, like, as Eolo's backing up, the four of us just sort of, like…"
+    },
+    {
+      "header": "[u0374 | 00:28:57.850-00:28:58.870 | Eolo]",
+      "lineNumber": 374,
+      "originalText": "yellow.",
+      "cleanedText": "Eolo."
+    },
+    {
+      "header": "[u0387 | 00:29:25.230-00:29:31.630 | Finnan]",
+      "lineNumber": 387,
+      "originalText": "Okay, so, Finnen will look up… from the soft…",
+      "cleanedText": "Okay, so, Finnan will look up… from the soft…"
+    },
+    {
+      "header": "[u0410 | 00:31:33.120-00:31:40.590 | Eolo]",
+      "lineNumber": 410,
+      "originalText": "So, so YOLO is going to attempt to lob the artifact On a high arc.",
+      "cleanedText": "So, so Eolo is going to attempt to lob the artifact On a high arc."
+    },
+    {
+      "header": "[u0411 | 00:31:40.800-00:31:47.530 | Eolo]",
+      "lineNumber": 411,
+      "originalText": "to land at Justice, turn and fly towards one of the hatches.",
+      "cleanedText": "to land at Justas, turn and fly towards one of the hatches."
+    },
+    {
+      "header": "[u0418 | 00:32:05.660-00:32:12.950 | Finnan]",
+      "lineNumber": 418,
+      "originalText": "Okay, if you roll well, Drain, and let me go first, I can try and break him out of this.",
+      "cleanedText": "Okay, if you roll well, Jrain, and let me go first, I can try and break him out of this."
+    },
+    {
+      "header": "[u0430 | 00:32:38.850-00:32:42.349 | DM]",
+      "lineNumber": 430,
+      "originalText": "So, are you swapping with… you can swap with Finnen.",
+      "cleanedText": "So, are you swapping with… you can swap with Finnan."
+    },
+    {
+      "header": "[u0431 | 00:32:42.730-00:32:44.240 | Jrain]",
+      "lineNumber": 431,
+      "originalText": "I'm swapping with Finan.",
+      "cleanedText": "I'm swapping with Finnan."
+    },
+    {
+      "header": "[u0435 | 00:32:55.690-00:32:59.450 | DM]",
+      "lineNumber": 435,
+      "originalText": "YOLO. It's a DC-15 charisma saving throw.",
+      "cleanedText": "Eolo. It's a DC-15 charisma saving throw."
+    },
+    {
+      "header": "[u0447 | 00:33:47.430-00:33:51.030 | Eolo]",
+      "lineNumber": 447,
+      "originalText": "YOLO looks like he's snapping out of something.",
+      "cleanedText": "Eolo looks like he's snapping out of something."
+    },
+    {
+      "header": "[u0448 | 00:33:51.490-00:33:57.459 | Eolo]",
+      "lineNumber": 448,
+      "originalText": "But still goes to throw the artifact to justice anyway, but doesn't jump into the air to fly.",
+      "cleanedText": "But still goes to throw the artifact to Justas anyway, but doesn't jump into the air to fly."
+    },
+    {
+      "header": "[u0456 | 00:34:16.239-00:34:18.739 | Ekko]",
+      "lineNumber": 456,
+      "originalText": "Don't touch it. Justice, don't touch it.",
+      "cleanedText": "Don't touch it. Justas, don't touch it."
+    },
+    {
+      "header": "[u0463 | 00:34:32.040-00:34:37.759 | Finnan]",
+      "lineNumber": 463,
+      "originalText": "Of YOLO is also immune to charm and frightening conditions for the next minute.",
+      "cleanedText": "Of Eolo is also immune to charm and frightening conditions for the next minute."
+    },
+    {
+      "header": "[u0469 | 00:34:56.389-00:35:10.509 | Justas]",
+      "lineNumber": 469,
+      "originalText": "I think Justice does not have speedy reflexes. I think Justice thinks, oh, I'm gonna grab my cloak, and I'll pull it around, and I'll catch it in the cloak, and I'll tie it up, but by the time he finishes thinking through that, already he has caught the crystal in his hands.",
+      "cleanedText": "I think Justas does not have speedy reflexes. I think Justas thinks, oh, I'm gonna grab my cloak, and I'll pull it around, and I'll catch it in the cloak, and I'll tie it up, but by the time he finishes thinking through that, already he has caught the crystal in his hands."
+    },
+    {
+      "header": "[u0474 | 00:35:20.150-00:35:26.400 | Jrain]",
+      "lineNumber": 474,
+      "originalText": "Drain was with… Justice, like, rummaging through bodies, trying to find, like, spare something to…",
+      "cleanedText": "Jrain was with… Justas, like, rummaging through bodies, trying to find, like, spare something to…"
+    },
+    {
+      "header": "[u0482 | 00:36:15.610-00:36:19.720 | Justas]",
+      "lineNumber": 482,
+      "originalText": "Justice tosses the stone up a few times. That's… That's really weird.",
+      "cleanedText": "Justas tosses the stone up a few times. That's… That's really weird."
+    },
+    {
+      "header": "[u0493 | 00:37:06.650-00:37:15.830 | Finnan]",
+      "lineNumber": 493,
+      "originalText": "So I will tell… while I'm sort of humming this counter-charm, I'll also tell Echo…",
+      "cleanedText": "So I will tell… while I'm sort of humming this counter-charm, I'll also tell Ekko…"
+    },
+    {
+      "header": "[u0496 | 00:37:24.600-00:37:27.340 | Finnan]",
+      "lineNumber": 496,
+      "originalText": "YOLO when it ends, so let's…",
+      "cleanedText": "Eolo when it ends, so let's…"
+    },
+    {
+      "header": "[u0504 | 00:37:50.880-00:37:55.960 | Ekko]",
+      "lineNumber": 504,
+      "originalText": "Echo is definitely, like, motivated to try to get back to Enriquez now that we've got this. He's like…",
+      "cleanedText": "Ekko is definitely, like, motivated to try to get back to Eidrikas now that we've got this. He's like…"
+    },
+    {
+      "header": "[u0512 | 00:38:12.450-00:38:14.930 | Eolo]",
+      "lineNumber": 512,
+      "originalText": "So Echo, maybe you should hold the thing, though.",
+      "cleanedText": "So Ekko, maybe you should hold the thing, though."
+    },
+    {
+      "header": "[u0527 | 00:39:04.440-00:39:07.910 | DM]",
+      "lineNumber": 527,
+      "originalText": "towards the Dracus, but… Wow, okay, so remember…",
+      "cleanedText": "towards the Eidrikas, but… Wow, okay, so remember…"
+    },
+    {
+      "header": "[u0535 | 00:39:49.450-00:39:54.019 | DM]",
+      "lineNumber": 535,
+      "originalText": "You have a floating rock that Echo and YOLO can tap, can tuck.",
+      "cleanedText": "You have a floating rock that Ekko and Eolo can tap, can tuck."
+    },
+    {
+      "header": "[u0537 | 00:39:55.430-00:39:58.500 | DM]",
+      "lineNumber": 537,
+      "originalText": "If Echo and YOLO fly back to a Dracus.",
+      "cleanedText": "If Ekko and Eolo fly back to Eidrikas."
+    },
+    {
+      "header": "[u0545 | 00:40:15.150-00:40:23.960 | DM]",
+      "lineNumber": 545,
+      "originalText": "Yeah, okay. So… so you're gonna… you're gonna park on your floating rock, and… And wait for… yellow and…",
+      "cleanedText": "Yeah, okay. So… so you're gonna… you're gonna park on your floating rock, and… And wait for… Eolo and…"
+    },
+    {
+      "header": "[u0549 | 00:40:27.300-00:40:38.630 | DM]",
+      "lineNumber": 549,
+      "originalText": "And… and… Okay, so… you fly back to Adracus, I mean, he looks…",
+      "cleanedText": "And… and… Okay, so… you fly back to Eidrikas, I mean, he looks…"
+    },
+    {
+      "header": "[u0560 | 00:41:43.800-00:41:47.769 | Ekko]",
+      "lineNumber": 560,
+      "originalText": "Echo reveals, opens up the blanket to reveal the stone.",
+      "cleanedText": "Ekko reveals, opens up the blanket to reveal the stone."
+    },
+    {
+      "header": "[u0576 | 00:43:10.490-00:43:13.000 | Finnan]",
+      "lineNumber": 576,
+      "originalText": "Maybe a Dracus has some ideas.",
+      "cleanedText": "Maybe Eidrikas has some ideas."
+    },
+    {
+      "header": "[u0603 | 00:44:55.530-00:45:01.280 | DM]",
+      "lineNumber": 603,
+      "originalText": "he says to Echo is… is one of… Free.",
+      "cleanedText": "he says to Ekko is… is one of… Free."
+    },
+    {
+      "header": "[u0620 | 00:46:26.200-00:46:27.249 | Ekko]",
+      "lineNumber": 620,
+      "originalText": "In the farewell.",
+      "cleanedText": "In the Feywild."
+    },
+    {
+      "header": "[u0640 | 00:48:04.580-00:48:09.910 | Ekko]",
+      "lineNumber": 640,
+      "originalText": "Echo, is everybody… was that just me and… me and Andrikas? Like, we're… everybody.",
+      "cleanedText": "Ekko, is everybody… was that just me and… me and Eidrikas? Like, we're… everybody."
+    },
+    {
+      "header": "[u0641 | 00:48:09.910-00:48:12.499 | DM]",
+      "lineNumber": 641,
+      "originalText": "YOLO is kind of standing around the corner, but…",
+      "cleanedText": "Eolo is kind of standing around the corner, but…"
+    },
+    {
+      "header": "[u0655 | 00:49:26.200-00:49:40.420 | DM]",
+      "lineNumber": 655,
+      "originalText": "clearly Faye Lord of some kind, named the Frostbinder, who they call, who they thought was Zifa's henchman. They called him Thakar.",
+      "cleanedText": "clearly Fey lord of some kind, named the Frostbinder, who they call, who they thought was Zeyfa's henchman. They called him Thakar."
+    },
+    {
+      "header": "[u0658 | 00:49:44.720-00:49:50.880 | DM]",
+      "lineNumber": 658,
+      "originalText": "this ancient Gustavo myth about… or a reality about, sort of, the… the…",
+      "cleanedText": "this ancient Kestavo myth about… or a reality about, sort of, the… the…"
+    },
+    {
+      "header": "[u0660 | 00:49:57.370-00:50:05.229 | DM]",
+      "lineNumber": 660,
+      "originalText": "Melissa was… supposedly… It's this village, right, that believes it's in…",
+      "cleanedText": "Melusa was… supposedly… It's this village, right, that believes it's in…"
+    },
+    {
+      "header": "[u0661 | 00:50:05.490-00:50:13.640 | DM]",
+      "lineNumber": 661,
+      "originalText": "in Zypha's domain, as far as you could tell, it's not really Zypha's domain, it's actually… it's actually a…",
+      "cleanedText": "in Zeyfa's domain, as far as you could tell, it's not really Zeyfa's domain, it's actually… it's actually a…"
+    },
+    {
+      "header": "[u0662 | 00:50:14.350-00:50:16.730 | DM]",
+      "lineNumber": 662,
+      "originalText": "Feylord, who rules this place.",
+      "cleanedText": "Fey lord, who rules this place."
+    },
+    {
+      "header": "[u0668 | 00:50:39.160-00:50:48.739 | DM]",
+      "lineNumber": 668,
+      "originalText": "Belusa was, like, was, like, a small place, right? Like, there was a village on a ledge, there was, like, 3 floating rocks in the middle of the chasm. Like, it clearly was echo… an echo of the chasm.",
+      "cleanedText": "Melusa was, like, was, like, a small place, right? Like, there was a village on a ledge, there was, like, 3 floating rocks in the middle of the chasm. Like, it clearly was echo… an echo of the chasm."
+    },
+    {
+      "header": "[u0716 | 00:54:56.500-00:55:07.299 | Jrain]",
+      "lineNumber": 716,
+      "originalText": "I think we only wanted to help the Bay not be crazy, because it seemed like it would increase the likelihood of us being able to get the people out of Melusa who want to leave Melusa.",
+      "cleanedText": "I think we only wanted to help the Fey not be crazy, because it seemed like it would increase the likelihood of us being able to get the people out of Melusa who want to leave Melusa."
+    },
+    {
+      "header": "[u0727 | 00:56:12.490-00:56:17.339 | Jrain]",
+      "lineNumber": 727,
+      "originalText": "an hour of Adrakus' time here is only an hour of Adracus' time here, it's not…",
+      "cleanedText": "an hour of Eidrikas' time here is only an hour of Eidrikas' time here, it's not…"
+    },
+    {
+      "header": "[u0732 | 00:56:35.810-00:56:37.430 | Jrain]",
+      "lineNumber": 732,
+      "originalText": "I like that blend, Justice.",
+      "cleanedText": "I like that blend, Justas."
+    },
+    {
+      "header": "[u0790 | 01:00:56.950-01:00:58.019 | Justas]",
+      "lineNumber": 790,
+      "originalText": "I'll look at YOLO.",
+      "cleanedText": "I'll look at Eolo."
+    },
+    {
+      "header": "[u0799 | 01:01:39.480-01:01:41.369 | DM]",
+      "lineNumber": 799,
+      "originalText": "So YOLO jumps through.",
+      "cleanedText": "So Eolo jumps through."
+    },
+    {
+      "header": "[u0818 | 01:02:45.940-01:02:48.949 | DM]",
+      "lineNumber": 818,
+      "originalText": "YOLO jumps through.",
+      "cleanedText": "Eolo jumps through."
+    },
+    {
+      "header": "[u0829 | 01:03:52.780-01:03:57.990 | DM]",
+      "lineNumber": 829,
+      "originalText": "That's me. You guys, like, you just jump right after… right after yellow? You wait for a minute.",
+      "cleanedText": "That's me. You guys, like, you just jump right after… right after Eolo? You wait for a minute."
+    },
+    {
+      "header": "[u0835 | 01:04:32.030-01:04:35.590 | Finnan]",
+      "lineNumber": 835,
+      "originalText": "I'll… I'll follow, sort of, immediately behind Drain.",
+      "cleanedText": "I'll… I'll follow, sort of, immediately behind Jrain."
+    },
+    {
+      "header": "[u0839 | 01:04:58.450-01:05:02.220 | DM]",
+      "lineNumber": 839,
+      "originalText": "So, you, Tim Finnan's going right after Drain?",
+      "cleanedText": "So, you, Tim Finnan's going right after Jrain?"
+    },
+    {
+      "header": "[u0841 | 01:05:06.330-01:05:09.390 | DM]",
+      "lineNumber": 841,
+      "originalText": "And… Kong, what's Echo doing?",
+      "cleanedText": "And… Kong, what's Ekko doing?"
+    },
+    {
+      "header": "[u0842 | 01:05:10.160-01:05:15.670 | Ekko]",
+      "lineNumber": 842,
+      "originalText": "Echo… Echo, I think, is gonna bail on this whole thing and just head home.",
+      "cleanedText": "Ekko… Ekko, I think, is gonna bail on this whole thing and just head home."
+    },
+    {
+      "header": "[u0846 | 01:05:23.630-01:05:29.300 | Ekko]",
+      "lineNumber": 846,
+      "originalText": "What's the big… no, Echo, we'll pause, gotta give a big sigh, and then…",
+      "cleanedText": "What's the big… no, Ekko, we'll pause, gotta give a big sigh, and then…"
+    },
+    {
+      "header": "[u0855 | 01:06:25.410-01:06:27.990 | DM]",
+      "lineNumber": 855,
+      "originalText": "Kate, when Drain comes through.",
+      "cleanedText": "Kate, when Jrain comes through."
+    },
+    {
+      "header": "[u0860 | 01:07:01.050-01:07:13.210 | DM]",
+      "lineNumber": 860,
+      "originalText": "And most of them swarm… are swarming around YOLO, like, attacking and stinging and flashing him with… with, these little… these little…",
+      "cleanedText": "And most of them swarm… are swarming around Eolo, like, attacking and stinging and flashing him with… with, these little… these little…"
+    },
+    {
+      "header": "[u0862 | 01:07:19.440-01:07:26.810 | DM]",
+      "lineNumber": 862,
+      "originalText": "justice. Like, some of them have come towards justice, and then… there's a… there's… some of them come towards…",
+      "cleanedText": "Justas. Like, some of them have come towards Justas, and then… there's a… there's… some of them come towards…"
+    },
+    {
+      "header": "[u0900 | 01:10:53.720-01:10:59.500 | Justas]",
+      "lineNumber": 900,
+      "originalText": "Alright, well, ju- justice will… Wave them away, like annoying little biting insects, and…",
+      "cleanedText": "Alright, well, ju- Justas will… Wave them away, like annoying little biting insects, and…"
+    },
+    {
+      "header": "[u0903 | 01:11:06.580-01:11:08.990 | DM]",
+      "lineNumber": 903,
+      "originalText": "Yellow?",
+      "cleanedText": "Eolo?"
+    },
+    {
+      "header": "[u0906 | 01:11:23.690-01:11:26.649 | Ekko]",
+      "lineNumber": 906,
+      "originalText": "Echo came through and wasn't actually actively attacked by anything.",
+      "cleanedText": "Ekko came through and wasn't actually actively attacked by anything."
+    },
+    {
+      "header": "[u0908 | 01:11:29.250-01:11:32.810 | Ekko]",
+      "lineNumber": 908,
+      "originalText": "Yeah, Echo will just fly away, just, just, away from the portal.",
+      "cleanedText": "Yeah, Ekko will just fly away, just, just, away from the portal."
+    },
+    {
+      "header": "[u0909 | 01:11:34.420-01:11:36.409 | DM]",
+      "lineNumber": 909,
+      "originalText": "Finan and… and drain?",
+      "cleanedText": "Finnan and… and Jrain?"
+    },
+    {
+      "header": "[u0923 | 01:12:34.960-01:12:50.939 | DM]",
+      "lineNumber": 923,
+      "originalText": "successful… so they're, like, flying, and, like, you're trying to bot them off with your shield and stuff like that. Drain, you get hit for another 5 points of damage, and Finnen gets hit for 5 points of damage, and the rest of you fend them off successfully.",
+      "cleanedText": "successful… so they're, like, flying, and, like, you're trying to bot them off with your shield and stuff like that. Jrain, you get hit for another 5 points of damage, and Finnan gets hit for 5 points of damage, and the rest of you fend them off successfully."
+    },
+    {
+      "header": "[u0955 | 01:15:57.970-01:16:06.890 | Finnan]",
+      "lineNumber": 955,
+      "originalText": "So, Finan will take a moment and say to everybody, Let's not spend any…",
+      "cleanedText": "So, Finnan will take a moment and say to everybody, Let's not spend any…"
+    },
+    {
+      "header": "[u1003 | 01:19:32.580-01:19:39.190 | Finnan]",
+      "lineNumber": 1003,
+      "originalText": "Maybe send… I'll say to Dread, can you send Rolla to scout over the… didn't…",
+      "cleanedText": "Maybe send… I'll say to Dread, can you send Rala to scout over the… didn't…"
+    },
+    {
+      "header": "[u1007 | 01:19:56.790-01:20:04.360 | Jrain]",
+      "lineNumber": 1007,
+      "originalText": "I was trying to figure out where Rolla would go that was any further than where we are right now, but that's a good idea. The other island is a good idea.",
+      "cleanedText": "I was trying to figure out where Rala would go that was any further than where we are right now, but that's a good idea. The other island is a good idea."
+    },
+    {
+      "header": "[u1008 | 01:20:06.520-01:20:10.700 | DM]",
+      "lineNumber": 1008,
+      "originalText": "Can Rawa talk? Is… can you say… I forget what Rawa can do.",
+      "cleanedText": "Can Rala talk? Is… can you say… I forget what Rala can do."
+    },
+    {
+      "header": "[u1011 | 01:20:22.960-01:20:27.239 | DM]",
+      "lineNumber": 1011,
+      "originalText": "Right, okay, so you could tell Rolla to do something X, and then Rolla could do it.",
+      "cleanedText": "Right, okay, so you could tell Rala to do something X, and then Rala could do it."
+    },
+    {
+      "header": "[u1012 | 01:20:29.270-01:20:31.189 | DM]",
+      "lineNumber": 1012,
+      "originalText": "So what are you telling Rolla to do?",
+      "cleanedText": "So what are you telling Rala to do?"
+    },
+    {
+      "header": "[u1018 | 01:20:54.200-01:20:58.190 | Finnan]",
+      "lineNumber": 1018,
+      "originalText": "But… but Rolla understands you no matter what. It's only to understand…",
+      "cleanedText": "But… but Rala understands you no matter what. It's only to understand…"
+    },
+    {
+      "header": "[u1024 | 01:21:15.190-01:21:18.769 | Jrain]",
+      "lineNumber": 1024,
+      "originalText": "We need some sort of code, like Finnen just said, because I…",
+      "cleanedText": "We need some sort of code, like Finnan just said, because I…"
+    },
+    {
+      "header": "[u1025 | 01:21:18.910-01:21:21.359 | Jrain]",
+      "lineNumber": 1025,
+      "originalText": "I need to know what Rolla finds out.",
+      "cleanedText": "I need to know what Rala finds out."
+    },
+    {
+      "header": "[u1026 | 01:21:21.360-01:21:23.870 | DM]",
+      "lineNumber": 1026,
+      "originalText": "I just mean you have to pre-tell Rolla.",
+      "cleanedText": "I just mean you have to pre-tell Rala."
+    },
+    {
+      "header": "[u1027 | 01:21:24.320-01:21:31.589 | DM]",
+      "lineNumber": 1027,
+      "originalText": "Rawa can't describe what she sees, right? So you have to tell me what you're telling Rolla, so I can tell you what Rolla does.",
+      "cleanedText": "Rala can't describe what she sees, right? So you have to tell me what you're telling Rala, so I can tell you what Rala does."
+    },
+    {
+      "header": "[u1114 | 01:27:52.730-01:27:54.890 | DM]",
+      "lineNumber": 1114,
+      "originalText": "Is Vaccar… gone?",
+      "cleanedText": "Is Vaqar… gone?"
+    },
+    {
+      "header": "[u1128 | 01:28:45.230-01:28:51.260 | Justas]",
+      "lineNumber": 1128,
+      "originalText": "You know, I'll say, to drain a little… or in a little bit more quietly.",
+      "cleanedText": "You know, I'll say, to Jrain a little… or in a little bit more quietly."
+    },
+    {
+      "header": "[u1149 | 01:30:24.280-01:30:26.270 | Jrain]",
+      "lineNumber": 1149,
+      "originalText": "That's, again, justice, so…",
+      "cleanedText": "That's, again, Justas, so…"
+    },
+    {
+      "header": "[u1150 | 01:30:26.410-01:30:27.310 | Finnan]",
+      "lineNumber": 1150,
+      "originalText": "justice.",
+      "cleanedText": "Justas."
+    },
+    {
+      "header": "[u1160 | 01:31:09.970-01:31:14.019 | DM]",
+      "lineNumber": 1160,
+      "originalText": "They definitely swarmed more strongly around YOLO.",
+      "cleanedText": "They definitely swarmed more strongly around Eolo."
+    },
+    {
+      "header": "[u1163 | 01:31:23.580-01:31:24.760 | Finnan]",
+      "lineNumber": 1163,
+      "originalText": "Justice?",
+      "cleanedText": "Justas?"
+    },
+    {
+      "header": "[u1186 | 01:33:06.280-01:33:15.560 | Finnan]",
+      "lineNumber": 1186,
+      "originalText": "I will… Finan will say to the group, I will take 20 minutes and go around… Making some noise.",
+      "cleanedText": "I will… Finnan will say to the group, I will take 20 minutes and go around… Making some noise."
+    },
+    {
+      "header": "[u1192 | 01:33:45.060-01:33:48.650 | Finnan]",
+      "lineNumber": 1192,
+      "originalText": "So, maybe… Justice and Echo?",
+      "cleanedText": "So, maybe… Justas and Ekko?"
+    },
+    {
+      "header": "[u1194 | 01:33:54.980-01:33:56.620 | Finnan]",
+      "lineNumber": 1194,
+      "originalText": "YOLO, do you…",
+      "cleanedText": "Eolo, do you…"
+    },
+    {
+      "header": "[u1202 | 01:34:27.520-01:34:34.580 | Finnan]",
+      "lineNumber": 1202,
+      "originalText": "Echo, as a polar bear, you can take some hits, right? Are you willing to try and draw off some of the wisps?",
+      "cleanedText": "Ekko, as a polar bear, you can take some hits, right? Are you willing to try and draw off some of the wisps?"
+    },
+    {
+      "header": "[u1204 | 01:34:41.070-01:34:43.120 | Ekko]",
+      "lineNumber": 1204,
+      "originalText": "Echo changes into a polar bear.",
+      "cleanedText": "Ekko changes into a polar bear."
+    },
+    {
+      "header": "[u1211 | 01:35:10.050-01:35:17.420 | Finnan]",
+      "lineNumber": 1211,
+      "originalText": "So, Finnen is not gonna wait for discussion. I'm gonna go out, I'm gonna, like, take my…",
+      "cleanedText": "So, Finnan is not gonna wait for discussion. I'm gonna go out, I'm gonna, like, take my…"
+    },
+    {
+      "header": "[u1216 | 01:35:49.330-01:35:51.920 | DM]",
+      "lineNumber": 1216,
+      "originalText": "The Pied Piper of Belusa.",
+      "cleanedText": "The Pied Piper of Melusa."
+    },
+    {
+      "header": "[u1222 | 01:36:05.020-01:36:13.219 | Finnan]",
+      "lineNumber": 1222,
+      "originalText": "No, that's actually good. Echo, you go eat some fish, and I will tell everybody, meet by the polar bear.",
+      "cleanedText": "No, that's actually good. Ekko, you go eat some fish, and I will tell everybody, meet by the polar bear."
+    },
+    {
+      "header": "[u1225 | 01:36:18.670-01:36:22.610 | Ekko]",
+      "lineNumber": 1225,
+      "originalText": "Alright. Echo will change into a polar bear and, start eating fish.",
+      "cleanedText": "Alright. Ekko will change into a polar bear and, start eating fish."
+    },
+    {
+      "header": "[u1238 | 01:37:28.220-01:37:31.790 | Finnan]",
+      "lineNumber": 1238,
+      "originalText": "I want to give Drain Bardic inspiration before we separate.",
+      "cleanedText": "I want to give Jrain Bardic inspiration before we separate."
+    },
+    {
+      "header": "[u1257 | 01:38:41.830-01:38:44.489 | DM]",
+      "lineNumber": 1257,
+      "originalText": "Finan's going to…",
+      "cleanedText": "Finnan's going to…"
+    },
+    {
+      "header": "[u1281 | 01:41:09.010-01:41:15.350 | DM]",
+      "lineNumber": 1281,
+      "originalText": "Rawa came back quiet. There was no people there. But you might have gathered that from the fact that Zahara was…",
+      "cleanedText": "Rala came back quiet. There was no people there. But you might have gathered that from the fact that Zahara was…"
+    },
+    {
+      "header": "[u1287 | 01:41:51.900-01:41:58.090 | Justas]",
+      "lineNumber": 1287,
+      "originalText": "I think at about this point, Justice probably circles back and… and meets up with Finan.",
+      "cleanedText": "I think at about this point, Justas probably circles back and… and meets up with Finnan."
+    },
+    {
+      "header": "[u1289 | 01:41:59.620-01:42:01.149 | Justas]",
+      "lineNumber": 1289,
+      "originalText": "What's going on here, Finnen?",
+      "cleanedText": "What's going on here, Finnan?"
+    },
+    {
+      "header": "[u1292 | 01:42:08.360-01:42:12.810 | Finnan]",
+      "lineNumber": 1292,
+      "originalText": "I… Yeah, I'm not sure if Finnen is actually, like…",
+      "cleanedText": "I… Yeah, I'm not sure if Finnan is actually, like…"
+    },
+    {
+      "header": "[u1295 | 01:42:27.620-01:42:31.130 | Finnan]",
+      "lineNumber": 1295,
+      "originalText": "I'm gonna give it a shot, but… so I'll tell Justice, I mean.",
+      "cleanedText": "I'm gonna give it a shot, but… so I'll tell Justas, I mean."
+    },
+    {
+      "header": "[u1313 | 01:44:21.200-01:44:32.489 | Finnan]",
+      "lineNumber": 1313,
+      "originalText": "I mean, I don't have a great mental image of how big this village is, but Finnen's main goal is to make sure that everybody in the village hears what he has to say in the next",
+      "cleanedText": "I mean, I don't have a great mental image of how big this village is, but Finnan's main goal is to make sure that everybody in the village hears what he has to say in the next"
+    },
+    {
+      "header": "[u1337 | 01:46:32.240-01:46:40.209 | Justas]",
+      "lineNumber": 1337,
+      "originalText": "Justice will say to you, Justice, feeling more of an obligation to help get those people out, perhaps, than you do…",
+      "cleanedText": "Justas will say to you, Justas, feeling more of an obligation to help get those people out, perhaps, than you do…"
+    },
+    {
+      "header": "[u1350 | 01:47:48.630-01:47:56.270 | Finnan]",
+      "lineNumber": 1350,
+      "originalText": "The… I don't know what's going on with this Feylord. The fact that the palace is dark, and the…",
+      "cleanedText": "The… I don't know what's going on with this Fey lord. The fact that the palace is dark, and the…"
+    },
+    {
+      "header": "[u1372 | 01:49:20.330-01:49:26.680 | DM]",
+      "lineNumber": 1372,
+      "originalText": "assuming you… I mean, Tim, I take it that Finnen's was just gonna keep going, he wasn't, like…",
+      "cleanedText": "assuming you… I mean, Tim, I take it that Finnan's was just gonna keep going, he wasn't, like…"
+    },
+    {
+      "header": "[u1373 | 01:49:27.050-01:49:30.899 | DM]",
+      "lineNumber": 1373,
+      "originalText": "engaging, unless Justice wants to engage.",
+      "cleanedText": "engaging, unless Justas wants to engage."
+    },
+    {
+      "header": "[u1375 | 01:49:36.900-01:49:43.519 | Jrain]",
+      "lineNumber": 1375,
+      "originalText": "Justice, are you staying to talk to them, well, before they get all riled up by the lady, or you want to come talk to us?",
+      "cleanedText": "Justas, are you staying to talk to them, well, before they get all riled up by the lady, or you want to come talk to us?"
+    },
+    {
+      "header": "[u1387 | 01:50:49.080-01:50:51.080 | Ekko]",
+      "lineNumber": 1387,
+      "originalText": "I mean, Justice, you could always stay.",
+      "cleanedText": "I mean, Justas, you could always stay."
+    },
+    {
+      "header": "[u1392 | 01:51:20.970-01:51:24.700 | Finnan]",
+      "lineNumber": 1392,
+      "originalText": "I will… I will say to Justice…",
+      "cleanedText": "I will… I will say to Justas…"
+    },
+    {
+      "header": "[u1399 | 01:52:00.790-01:52:09.350 | Justas]",
+      "lineNumber": 1399,
+      "originalText": "Mike, this is… remind me, I apologize, my poor memory from past sessions. This is… the Faey Lord is, like, they understand that to be…",
+      "cleanedText": "Mike, this is… remind me, I apologize, my poor memory from past sessions. This is… the Fey lord is, like, they understand that to be…"
+    },
+    {
+      "header": "[u1402 | 01:52:17.300-01:52:22.340 | Justas]",
+      "lineNumber": 1402,
+      "originalText": "Yeah, like, I think for justice, this, like, offends his… his, like…",
+      "cleanedText": "Yeah, like, I think for Justas, this, like, offends his… his, like…"
+    },
+    {
+      "header": "[u1404 | 01:52:25.340-01:52:28.960 | Justas]",
+      "lineNumber": 1404,
+      "originalText": "Gestavo, like, all over these forests, like, there's a way that…",
+      "cleanedText": "Kestavo, like, all over these forests, like, there's a way that…"
+    },
+    {
+      "header": "[u1406 | 01:52:36.410-01:52:40.320 | Justas]",
+      "lineNumber": 1406,
+      "originalText": "If it was just a Feylord being a Faey lord, that's one thing, but…",
+      "cleanedText": "If it was just a Fey lord being a Fey lord, that's one thing, but…"
+    },
+    {
+      "header": "[u1407 | 01:52:40.720-01:52:45.730 | Justas]",
+      "lineNumber": 1407,
+      "originalText": "To pretend to be a Gestavo, it's just not right.",
+      "cleanedText": "To pretend to be a Kestavo, it's just not right."
+    },
+    {
+      "header": "[u1416 | 01:53:37.600-01:53:44.449 | Finnan]",
+      "lineNumber": 1416,
+      "originalText": "Frenin… I mean, Frenin sympathizes with… I mean, we've traveled a lot together, right? So I think…",
+      "cleanedText": "Finnan… I mean, Finnan sympathizes with… I mean, we've traveled a lot together, right? So I think…"
+    },
+    {
+      "header": "[u1417 | 01:53:44.850-01:53:48.340 | Finnan]",
+      "lineNumber": 1417,
+      "originalText": "Finan kind of gets where justice is coming from, but…",
+      "cleanedText": "Finnan kind of gets where Justas is coming from, but…"
+    },
+    {
+      "header": "[u1436 | 01:55:58.340-01:56:01.110 | Finnan]",
+      "lineNumber": 1436,
+      "originalText": "Justice and Polar Bear.",
+      "cleanedText": "Justas and Polar Bear."
+    },
+    {
+      "header": "[u1443 | 01:56:20.850-01:56:24.109 | Finnan]",
+      "lineNumber": 1443,
+      "originalText": "Oh, sorry, YOLO, YOLO, not Echo.",
+      "cleanedText": "Oh, sorry, Eolo, Eolo, not Ekko."
+    },
+    {
+      "header": "[u1444 | 01:56:26.580-01:56:27.969 | Finnan]",
+      "lineNumber": 1444,
+      "originalText": "Yellow's the…",
+      "cleanedText": "Eolo's the…"
+    },
+    {
+      "header": "[u1445 | 01:56:30.270-01:56:38.549 | Finnan]",
+      "lineNumber": 1445,
+      "originalText": "Echo and Justice are gonna be distractors. Get… try and get the things to swarm around you as much as possible.",
+      "cleanedText": "Ekko and Justas are gonna be distractors. Get… try and get the things to swarm around you as much as possible."
+    },
+    {
+      "header": "[u1451 | 01:56:50.470-01:56:54.169 | Finnan]",
+      "lineNumber": 1451,
+      "originalText": "No, just… just catch, YOLO.",
+      "cleanedText": "No, just… just catch, Eolo."
+    },
+    {
+      "header": "[u1474 | 01:58:52.100-01:58:53.989 | Finnan]",
+      "lineNumber": 1474,
+      "originalText": "Well, that's what YOLO is for.",
+      "cleanedText": "Well, that's what Eolo is for."
+    },
+    {
+      "header": "[u1475 | 01:58:57.940-01:59:03.559 | Jrain]",
+      "lineNumber": 1475,
+      "originalText": "YOLO in the first 10, and then… I mean, we have to go through eventually, Finnen.",
+      "cleanedText": "Eolo in the first 10, and then… I mean, we have to go through eventually, Finnan."
+    },
+    {
+      "header": "[u1479 | 01:59:09.920-01:59:14.029 | DM]",
+      "lineNumber": 1479,
+      "originalText": "Okay, so, like, so, like, YOLO runs through first? What's… what's the…",
+      "cleanedText": "Okay, so, like, so, like, Eolo runs through first? What's… what's the…"
+    },
+    {
+      "header": "[u1480 | 01:59:14.030-01:59:18.999 | Jrain]",
+      "lineNumber": 1480,
+      "originalText": "Yes, YOLO runs through first, and we start sending people with him… to him.",
+      "cleanedText": "Yes, Eolo runs through first, and we start sending people with him… to him."
+    },
+    {
+      "header": "[u1481 | 01:59:21.930-01:59:30.649 | Finnan]",
+      "lineNumber": 1481,
+      "originalText": "Okay, so, and justice, move into the zone of contact first, and move, like, move away from the…",
+      "cleanedText": "Okay, so, and Justas, move into the zone of contact first, and move, like, move away from the…"
+    },
+    {
+      "header": "[u1489 | 01:59:56.280-01:59:58.530 | DM]",
+      "lineNumber": 1489,
+      "originalText": "Are you casting any spells, Justice?",
+      "cleanedText": "Are you casting any spells, Justas?"
+    },
+    {
+      "header": "[u1517 | 02:02:03.620-02:02:08.469 | Finnan]",
+      "lineNumber": 1517,
+      "originalText": "bounce around in front of justice, and…",
+      "cleanedText": "bounce around in front of Justas, and…"
+    },
+    {
+      "header": "[u1518 | 02:02:09.140-02:02:23.009 | Finnan]",
+      "lineNumber": 1518,
+      "originalText": "catch as many of them as possible in a cube of darkness to sow as much confusion as it can, while staying out of justice's way. Don't… never get within 15 feet of justice. Try and drag them",
+      "cleanedText": "catch as many of them as possible in a cube of darkness to sow as much confusion as it can, while staying out of Justas's way. Don't… never get within 15 feet of Justas. Try and drag them"
+    },
+    {
+      "header": "[u1522 | 02:02:41.900-02:02:45.610 | DM]",
+      "lineNumber": 1522,
+      "originalText": "Okay? So, Justice is the only one trying to…",
+      "cleanedText": "Okay? So, Justas is the only one trying to…"
+    },
+    {
+      "header": "[u1523 | 02:02:46.600-02:02:50.910 | Finnan]",
+      "lineNumber": 1523,
+      "originalText": "I think Echo in polar bear form is also going to… Okay.",
+      "cleanedText": "I think Ekko in polar bear form is also going to… Okay."
+    },
+    {
+      "header": "[u1524 | 02:02:51.120-02:02:56.249 | Ekko]",
+      "lineNumber": 1524,
+      "originalText": "I'll stand behind Justice, though. I'll let him, I'll, I'll, you know…",
+      "cleanedText": "I'll stand behind Justas, though. I'll let him, I'll, I'll, you know…"
+    },
+    {
+      "header": "[u1526 | 02:03:03.480-02:03:06.639 | Finnan]",
+      "lineNumber": 1526,
+      "originalText": "Justin should just dodge. That's the strongest thing you.",
+      "cleanedText": "Justas should just dodge. That's the strongest thing you."
+    },
+    {
+      "header": "[u1537 | 02:03:35.660-02:03:38.990 | DM]",
+      "lineNumber": 1537,
+      "originalText": "Round 1, Justice runs up.",
+      "cleanedText": "Round 1, Justas runs up."
+    },
+    {
+      "header": "[u1540 | 02:03:46.060-02:03:52.080 | DM]",
+      "lineNumber": 1540,
+      "originalText": "And, what, YOLO leads the first group through?",
+      "cleanedText": "And, what, Eolo leads the first group through?"
+    },
+    {
+      "header": "[u1549 | 02:04:24.090-02:04:28.539 | Finnan]",
+      "lineNumber": 1549,
+      "originalText": "No, YOLO doesn't need inspiration. YOLO IS inspiration.",
+      "cleanedText": "No, Eolo doesn't need inspiration. Eolo IS inspiration."
+    },
+    {
+      "header": "[u1560 | 02:05:06.960-02:05:11.819 | DM]",
+      "lineNumber": 1560,
+      "originalText": "Oh, pretty much, pretty much, so Justice runs up in, like, the, the…",
+      "cleanedText": "Oh, pretty much, pretty much, so Justas runs up in, like, the, the…"
+    },
+    {
+      "header": "[u1561 | 02:05:11.970-02:05:24.700 | DM]",
+      "lineNumber": 1561,
+      "originalText": "the creatures all swarm him, right? Like, pretty much the entire thing comes off and starts swarming around Justice. There are, like, dozens of these things, hundreds of them, it feels like. And yet, they seem to keep…",
+      "cleanedText": "the creatures all swarm him, right? Like, pretty much the entire thing comes off and starts swarming around Justas. There are, like, dozens of these things, hundreds of them, it feels like. And yet, they seem to keep…"
+    },
+    {
+      "header": "[u1566 | 02:05:39.370-02:05:41.110 | Finnan]",
+      "lineNumber": 1566,
+      "originalText": "Echo, you have…",
+      "cleanedText": "Ekko, you have…"
+    },
+    {
+      "header": "[u1587 | 02:06:42.970-02:06:48.940 | Justas]",
+      "lineNumber": 1587,
+      "originalText": "Justice is, like, roaring with rage and delight and pure enjoyment.",
+      "cleanedText": "Justas is, like, roaring with rage and delight and pure enjoyment."
+    },
+    {
+      "header": "[u1594 | 02:07:11.620-02:07:20.550 | DM]",
+      "lineNumber": 1594,
+      "originalText": "And YOLO, you're running… the people are running through. The first group is fairly chaotic. In the first round, maybe only,",
+      "cleanedText": "And Eolo, you're running… the people are running through. The first group is fairly chaotic. In the first round, maybe only,"
+    },
+    {
+      "header": "[u1597 | 02:07:24.840-02:07:29.920 | DM]",
+      "lineNumber": 1597,
+      "originalText": "But the entire group still seems to be focused on… justice.",
+      "cleanedText": "But the entire group still seems to be focused on… Justas."
+    },
+    {
+      "header": "[u1608 | 02:08:21.480-02:08:24.569 | DM]",
+      "lineNumber": 1608,
+      "originalText": "What's everybody? So, YOLO, you're on the other side, with 5 of them.",
+      "cleanedText": "What's everybody? So, Eolo, you're on the other side, with 5 of them."
+    },
+    {
+      "header": "[u1626 | 02:09:02.660-02:09:07.459 | DM]",
+      "lineNumber": 1626,
+      "originalText": "M… What's Echo doing?",
+      "cleanedText": "M… What's Ekko doing?"
+    },
+    {
+      "header": "[u1627 | 02:09:08.160-02:09:21.709 | Ekko]",
+      "lineNumber": 1627,
+      "originalText": "Well, Echo was gonna go help Justice, but now it's just like, wow, this is like, he was born to do this. Echo will stay as a polar bear and be near Justice in case anything goes awry, but it's sort of there as backup.",
+      "cleanedText": "Well, Ekko was gonna go help Justas, but now it's just like, wow, this is like, he was born to do this. Ekko will stay as a polar bear and be near Justas in case anything goes awry, but it's sort of there as backup."
+    },
+    {
+      "header": "[u1635 | 02:09:49.230-02:09:56.730 | DM]",
+      "lineNumber": 1635,
+      "originalText": "Okay, and… Finan and Drain, are you doing anything?",
+      "cleanedText": "Okay, and… Finnan and Jrain, are you doing anything?"
+    },
+    {
+      "header": "[u1661 | 02:11:38.170-02:11:43.870 | Finnan]",
+      "lineNumber": 1661,
+      "originalText": "on my… My fae is also up there with spinning, or with Justin.",
+      "cleanedText": "on my… My fae is also up there with spinning, or with Justas."
+    },
+    {
+      "header": "[u1670 | 02:12:26.060-02:12:31.300 | Finnan]",
+      "lineNumber": 1670,
+      "originalText": "And it's trying to, like, lead them away from… justice. Okay.",
+      "cleanedText": "And it's trying to, like, lead them away from… Justas. Okay."
+    },
+    {
+      "header": "[u1675 | 02:12:49.080-02:12:58.109 | DM]",
+      "lineNumber": 1675,
+      "originalText": "Okay, so… the Fae… so they start to spread, right? Like, so… Echo, you see the, the…",
+      "cleanedText": "Okay, so… the Fae… so they start to spread, right? Like, so… Ekko, you see the, the…"
+    },
+    {
+      "header": "[u1676 | 02:12:58.340-02:13:03.769 | DM]",
+      "lineNumber": 1676,
+      "originalText": "A big group of them are sort of moving back towards the portal, away from justice.",
+      "cleanedText": "A big group of them are sort of moving back towards the portal, away from Justas."
+    },
+    {
+      "header": "[u1677 | 02:13:04.590-02:13:06.630 | Ekko]",
+      "lineNumber": 1677,
+      "originalText": "Yeah, Echo, we'll, go grab those and…",
+      "cleanedText": "Yeah, Ekko, we'll, go grab those and…"
+    },
+    {
+      "header": "[u1682 | 02:13:22.350-02:13:31.020 | DM]",
+      "lineNumber": 1682,
+      "originalText": "they don't get that far away from you, like, they're maybe 15 feet away from you. Like, they're not at the portal, they're drifting back towards it, and then Echo goes to intercept.",
+      "cleanedText": "they don't get that far away from you, like, they're maybe 15 feet away from you. Like, they're not at the portal, they're drifting back towards it, and then Ekko goes to intercept."
+    },
+    {
+      "header": "[u1687 | 02:13:49.390-02:13:57.969 | DM]",
+      "lineNumber": 1687,
+      "originalText": "the Fae. So, like, a group of them sort of attacks… a group of them just goes to attack Echo,",
+      "cleanedText": "the Fae. So, like, a group of them sort of attacks… a group of them just goes to attack Ekko,"
+    },
+    {
+      "header": "[u1706 | 02:14:39.670-02:14:47.650 | DM]",
+      "lineNumber": 1706,
+      "originalText": "Justice, as they swim around you, the fey distracts them, and your dodging dodges around, and you get hit by none of them.",
+      "cleanedText": "Justas, as they swim around you, the fey distracts them, and your dodging dodges around, and you get hit by none of them."
+    },
+    {
+      "header": "[u1709 | 02:14:51.460-02:14:56.170 | Finnan]",
+      "lineNumber": 1709,
+      "originalText": "Echo take? Okay, so that means you actually just have 3 temporary hit points left.",
+      "cleanedText": "Ekko take? Okay, so that means you actually just have 3 temporary hit points left."
+    },
+    {
+      "header": "[u1727 | 02:16:06.110-02:16:12.150 | Finnan]",
+      "lineNumber": 1727,
+      "originalText": "Yeah, I'm… I'm gonna go with Drain in the last… the last batch of 5.",
+      "cleanedText": "Yeah, I'm… I'm gonna go with Jrain in the last… the last batch of 5."
+    },
+    {
+      "header": "[u1741 | 02:16:42.889-02:16:52.379 | DM]",
+      "lineNumber": 1741,
+      "originalText": "Echo, are you… are… is anybody… so anybody who's trying to keep their attention make a attack roll…",
+      "cleanedText": "Ekko, are you… are… is anybody… so anybody who's trying to keep their attention make a attack roll…"
+    },
+    {
+      "header": "[u1744 | 02:16:57.840-02:16:59.259 | Finnan]",
+      "lineNumber": 1744,
+      "originalText": "Meaning for the Faye.",
+      "cleanedText": "Meaning for the Fey."
+    },
+    {
+      "header": "[u1746 | 02:17:08.860-02:17:10.910 | DM]",
+      "lineNumber": 1746,
+      "originalText": "Okay, what about YOLO?",
+      "cleanedText": "Okay, what about Eolo?"
+    },
+    {
+      "header": "[u1748 | 02:17:12.540-02:17:13.530 | DM]",
+      "lineNumber": 1748,
+      "originalText": "I mean, Echo.",
+      "cleanedText": "I mean, Ekko."
+    },
+    {
+      "header": "[u1750 | 02:17:19.959-02:17:22.719 | Finnan]",
+      "lineNumber": 1750,
+      "originalText": "Echo rolled a 21.",
+      "cleanedText": "Ekko rolled a 21."
+    },
+    {
+      "header": "[u1754 | 02:17:34.120-02:17:36.890 | DM]",
+      "lineNumber": 1754,
+      "originalText": "justice at this point. He seems dangerous.",
+      "cleanedText": "Justas at this point. He seems dangerous."
+    },
+    {
+      "header": "[u1777 | 02:19:43.370-02:19:48.370 | DM]",
+      "lineNumber": 1777,
+      "originalText": "They're now mostly all swimming around, Echo, though.",
+      "cleanedText": "They're now mostly all swimming around, Ekko, though."
+    },
+    {
+      "header": "[u1783 | 02:20:05.260-02:20:09.840 | Finnan]",
+      "lineNumber": 1783,
+      "originalText": "I mean, the Fae is gonna go try and reinforce Echo.",
+      "cleanedText": "I mean, the Fae is gonna go try and reinforce Ekko."
+    },
+    {
+      "header": "[u1791 | 02:20:39.860-02:20:42.610 | Finnan]",
+      "lineNumber": 1791,
+      "originalText": "Get the Faye to… to help you out.",
+      "cleanedText": "Get the Fey to… to help you out."
+    },
+    {
+      "header": "[u1802 | 02:21:13.880-02:21:22.670 | DM]",
+      "lineNumber": 1802,
+      "originalText": "at Spiritual Guardians, they're swarming Yolo again. Are you healing yourself, or are you… Dodging.",
+      "cleanedText": "at Spiritual Guardians, they're swarming Eolo again. Are you healing yourself, or are you… Dodging."
+    },
+    {
+      "header": "[u1812 | 02:21:46.190-02:21:46.790 | Finnan]",
+      "lineNumber": 1812,
+      "originalText": "Faye.",
+      "cleanedText": "Fey."
+    },
+    {
+      "header": "[u1831 | 02:22:48.510-02:22:52.690 | Finnan]",
+      "lineNumber": 1831,
+      "originalText": "Oh, yeah, yeah, no, no, it's the Trixie Faye, he's trying to be Trixie.",
+      "cleanedText": "Oh, yeah, yeah, no, no, it's the Trixie Fey, he's trying to be Trixie."
+    },
+    {
+      "header": "[u1835 | 02:23:05.140-02:23:06.770 | Jrain]",
+      "lineNumber": 1835,
+      "originalText": "And Drain goes with them.",
+      "cleanedText": "And Jrain goes with them."
+    },
+    {
+      "header": "[u1837 | 02:23:08.710-02:23:11.999 | DM]",
+      "lineNumber": 1837,
+      "originalText": "Frenin will stand at the edge of the portal and make sure that.",
+      "cleanedText": "Finnan will stand at the edge of the portal and make sure that."
+    },
+    {
+      "header": "[u1838 | 02:23:12.000-02:23:18.550 | Finnan]",
+      "lineNumber": 1838,
+      "originalText": "justice and echo, Retreat, and come back through.",
+      "cleanedText": "Justas and echo, Retreat, and come back through."
+    },
+    {
+      "header": "[u1850 | 02:23:51.370-02:23:53.379 | DM]",
+      "lineNumber": 1850,
+      "originalText": "Echo takes 10 points of damage.",
+      "cleanedText": "Ekko takes 10 points of damage."
+    },
+    {
+      "header": "[u1861 | 02:24:32.400-02:24:35.249 | Finnan]",
+      "lineNumber": 1861,
+      "originalText": "Bay is dead, you don't have a lot of support.",
+      "cleanedText": "Fey is dead, you don't have a lot of support."
+    },
+    {
+      "header": "[u1876 | 02:25:22.410-02:25:24.910 | DM]",
+      "lineNumber": 1876,
+      "originalText": "So, so Justice is just gonna hang around?",
+      "cleanedText": "So, so Justas is just gonna hang around?"
+    },
+    {
+      "header": "[u1880 | 02:25:34.220-02:25:38.550 | Finnan]",
+      "lineNumber": 1880,
+      "originalText": "I'm standing on the edge of the portal until you retreat. I'm not leaving Justice.",
+      "cleanedText": "I'm standing on the edge of the portal until you retreat. I'm not leaving Justas."
+    },
+    {
+      "header": "[u1890 | 02:26:31.080-02:26:34.670 | Justas]",
+      "lineNumber": 1890,
+      "originalText": "when they face the power of real Gestapo, and not… not this.",
+      "cleanedText": "when they face the power of real Kestavo, and not… not this."
+    },
+    {
+      "header": "[u1913 | 02:27:57.520-02:28:02.389 | Finnan]",
+      "lineNumber": 1913,
+      "originalText": "Okay, I'll step through with justice and the last person.",
+      "cleanedText": "Okay, I'll step through with Justas and the last person."
+    },
+    {
+      "header": "[u1916 | 02:28:07.480-02:28:13.219 | Finnan]",
+      "lineNumber": 1916,
+      "originalText": "I'll just first quickly check to make sure YOLO hasn't YOLO'd anyone off the edge.",
+      "cleanedText": "I'll just first quickly check to make sure Eolo hasn't Eolo'd anyone off the edge."
+    },
+    {
+      "header": "[u1917 | 02:28:14.700-02:28:16.890 | Jrain]",
+      "lineNumber": 1917,
+      "originalText": "Dream's been helping Yolo stay organized.",
+      "cleanedText": "Dream's been helping Eolo stay organized."
+    },
+    {
+      "header": "[u1922 | 02:28:32.280-02:28:34.420 | Finnan]",
+      "lineNumber": 1922,
+      "originalText": "I guess that specific KenQ.",
+      "cleanedText": "I guess that specific Kenku."
+    },
+    {
+      "header": "[u1925 | 02:28:37.470-02:28:42.330 | DM]",
+      "lineNumber": 1925,
+      "originalText": "you… signal atracus, and… Tell them to…",
+      "cleanedText": "you… signal Eidrikas, and… Tell them to…"
+    },
+    {
+      "header": "[u1927 | 02:28:49.910-02:28:54.770 | DM]",
+      "lineNumber": 1927,
+      "originalText": "the Kenko could fly down, I mean, I don't know, is Echo fly down, or… it doesn't really matter, but…",
+      "cleanedText": "the Kenku could fly down, I mean, I don't know, is Ekko fly down, or… it doesn't really matter, but…"
+    },
+    {
+      "header": "[u1929 | 02:28:58.690-02:29:08.209 | DM]",
+      "lineNumber": 1929,
+      "originalText": "Adracus takes this piece, and… Puts it back in, and sort of steps away, and",
+      "cleanedText": "Eidrikas takes this piece, and… Puts it back in, and sort of steps away, and"
+    },
+    {
+      "header": "[u1931 | 02:29:12.730-02:29:17.280 | DM]",
+      "lineNumber": 1931,
+      "originalText": "the runes and channels on this, like, platform that Adrakus is on light up.",
+      "cleanedText": "the runes and channels on this, like, platform that Eidrikas is on light up."
+    },
+    {
+      "header": "[u1946 | 02:30:52.800-02:30:57.739 | Finnan]",
+      "lineNumber": 1946,
+      "originalText": "I mean… I'm gonna make that a Dracus's problem.",
+      "cleanedText": "I mean… I'm gonna make that Eidrikas's problem."
+    },
+    {
+      "header": "[u1969 | 02:32:42.370-02:32:47.569 | DM]",
+      "lineNumber": 1969,
+      "originalText": "he's not actually super sure about talking to any of you except Echo, but, like, he'll… he'll sort of…",
+      "cleanedText": "he's not actually super sure about talking to any of you except Ekko, but, like, he'll… he'll sort of…"
+    },
+    {
+      "header": "[u1971 | 02:32:51.080-02:32:54.060 | Finnan]",
+      "lineNumber": 1971,
+      "originalText": "Well, I… I'm not… Finnen doesn't really…",
+      "cleanedText": "Well, I… I'm not… Finnan doesn't really…"
+    },
+    {
+      "header": "[u2007 | 02:36:02.860-02:36:09.170 | Finnan]",
+      "lineNumber": 2007,
+      "originalText": "So, one of you, Kengu, can probably fly that in… Less than an hour.",
+      "cleanedText": "So, one of you, Kenku, can probably fly that in… Less than an hour."
+    },
+    {
+      "header": "[u2008 | 02:36:11.010-02:36:16.070 | DM]",
+      "lineNumber": 2008,
+      "originalText": "Yeah, I mean, you could… we could send, I mean, we could send to Kameko for help.",
+      "cleanedText": "Yeah, I mean, you could… we could send, I mean, we could send to Kemeko for help."
+    },
+    {
+      "header": "[u2021 | 02:37:05.550-02:37:11.040 | Justas]",
+      "lineNumber": 2021,
+      "originalText": "I mean, can we… can we bring other Cancun to help? I mean, can you go…",
+      "cleanedText": "I mean, can we… can we bring other Kenku to help? I mean, can you go…"
+    },
+    {
+      "header": "[u2024 | 02:37:15.640-02:37:18.610 | DM]",
+      "lineNumber": 2024,
+      "originalText": "Ask the… we can ask the Kameko for help, yes.",
+      "cleanedText": "Ask the… we can ask the Kemeko for help, yes."
+    },
+    {
+      "header": "[u2033 | 02:37:47.700-02:37:51.910 | Finnan]",
+      "lineNumber": 2033,
+      "originalText": "And Finanel suggests… will take justice aside and say.",
+      "cleanedText": "And Finnan says… he'll take Justas aside and say."
+    },
+    {
+      "header": "[u2037 | 02:38:14.630-02:38:21.180 | Finnan]",
+      "lineNumber": 2037,
+      "originalText": "old Zim Kobin, who might be willing to take some of these people in.",
+      "cleanedText": "Old Zimkovan, who might be willing to take some of these people in."
+    },
+    {
+      "header": "[u2040 | 02:38:41.060-02:38:45.050 | Finnan]",
+      "lineNumber": 2040,
+      "originalText": "This is… I mean, Finnen… I feel like Finnan's traveled around…",
+      "cleanedText": "This is… I mean, Finnan… I feel like Finnan's traveled around…"
+    },
+    {
+      "header": "[u2044 | 02:38:59.030-02:39:05.899 | Finnan]",
+      "lineNumber": 2044,
+      "originalText": "go talk to some people. Leave the rescue operation to… Justice and the Kenkyu.",
+      "cleanedText": "go talk to some people. Leave the rescue operation to… Justas and the Kenku."
+    },
+    {
+      "header": "[u2046 | 02:39:07.290-02:39:14.370 | Finnan]",
+      "lineNumber": 2046,
+      "originalText": "and leave the… I mean… I don't know what Drain wants to do, but… Finnen wants to kinda…",
+      "cleanedText": "and leave the… I mean… I don't know what Jrain wants to do, but… Finnan wants to kinda…"
+    },
+    {
+      "header": "[u2047 | 02:39:16.760-02:39:33.769 | Finnan]",
+      "lineNumber": 2047,
+      "originalText": "you know, start talking to people around in some villages, and try and find, like, yeah, exactly what Justice suggested. Like, an isolated village where there's at least a few people who speak Ods and Kobin, that, you know, maybe a place that has, sort of.",
+      "cleanedText": "you know, start talking to people around in some villages, and try and find, like, yeah, exactly what Justas suggested. Like, an isolated village where there's at least a few people who speak Old Zimkovan, that, you know, maybe a place that has, sort of."
+    },
+    {
+      "header": "[u2049 | 02:39:50.660-02:39:58.189 | DM]",
+      "lineNumber": 2049,
+      "originalText": "I mean, Draco says if, if… It is not… yes.",
+      "cleanedText": "I mean, Eidrikas says if, if… It is not… yes."
+    },
+    {
+      "header": "[u2057 | 02:40:49.450-02:40:52.720 | DM]",
+      "lineNumber": 2057,
+      "originalText": "the… Wavnock Plateau, though, is like…",
+      "cleanedText": "the… Lavnoch Plateau, though, is like…"
+    },
+    {
+      "header": "[u2067 | 02:41:25.340-02:41:33.129 | DM]",
+      "lineNumber": 2067,
+      "originalText": "you could set off to try and find them somewhere. Like, Infinan would have been there, right? You could definitely find a village that's…",
+      "cleanedText": "you could set off to try and find them somewhere. Like, and Finnan would have been there, right? You could definitely find a village that's…"
+    },
+    {
+      "header": "[u2069 | 02:41:42.900-02:41:47.649 | DM]",
+      "lineNumber": 2069,
+      "originalText": "south to Tolland for jobs, that kind of vibe, right? Like…",
+      "cleanedText": "south to Tollen for jobs, that kind of vibe, right? Like…"
+    },
+    {
+      "header": "[u2070 | 02:41:47.840-02:41:56.660 | DM]",
+      "lineNumber": 2070,
+      "originalText": "That sort of vibe certainly exists, right? There's still people who speak Obs and COVID up in the foothills off that way.",
+      "cleanedText": "That sort of vibe certainly exists, right? There's still people who speak Old Zimkovan up in the foothills off that way."
+    },
+    {
+      "header": "[u2073 | 02:42:02.190-02:42:06.269 | Jrain]",
+      "lineNumber": 2073,
+      "originalText": "any memories or leads Drain has, she tells Spin and…",
+      "cleanedText": "any memories or leads Jrain has, she tells Finnan and…"
+    },
+    {
+      "header": "[u2079 | 02:42:32.150-02:42:42.160 | DM]",
+      "lineNumber": 2079,
+      "originalText": "you know, a Dracus does turn into a swan, and flies some up, and talks to a Kenku, and like, a giant swan, right? Like, the size of, you know, 50… well, not 50, like…",
+      "cleanedText": "you know, Eidrikas does turn into a swan, and flies some up, and talks to a Kenku, and like, a giant swan, right? Like, the size of, you know, 50… well, not 50, like…"
+    },
+    {
+      "header": "[u2087 | 02:43:29.550-02:43:30.670 | Finnan]",
+      "lineNumber": 2087,
+      "originalText": "in Calle?",
+      "cleanedText": "Inkaya?"
+    },
+    {
+      "header": "[u2088 | 02:43:30.670-02:43:32.440 | DM]",
+      "lineNumber": 2088,
+      "originalText": "In Calle. Right.",
+      "cleanedText": "Inkaya. Right."
+    },
+    {
+      "header": "[u2090 | 02:43:42.500-02:43:45.769 | DM]",
+      "lineNumber": 2090,
+      "originalText": "And the veil of Akai are sort of…",
+      "cleanedText": "And the Vejo Vaikai are sort of…"
+    },
+    {
+      "header": "[u2122 | 02:46:12.640-02:46:15.690 | DM]",
+      "lineNumber": 2122,
+      "originalText": "Wow, YOLO could bring it with him on his next adventure.",
+      "cleanedText": "Wow, Eolo could bring it with him on his next adventure."
+    },
+    {
+      "header": "[u2133 | 02:46:49.800-02:46:56.879 | Eolo]",
+      "lineNumber": 2133,
+      "originalText": "My favorite thing was… was… YOLO and Echo meeting each other, and then flying… synchronized flying together.",
+      "cleanedText": "My favorite thing was… was… Eolo and Ekko meeting each other, and then flying… synchronized flying together."
+    },
+    {
+      "header": "[u2156 | 02:48:17.490-02:48:22.930 | DM]",
+      "lineNumber": 2156,
+      "originalText": "When I originally planned this adventure, I didn't think you would even ever go back to the… to Melissa, once you escaped it.",
+      "cleanedText": "When I originally planned this adventure, I didn't think you would even ever go back to the… to Melusa, once you escaped it."
+    }
+  ]
+}

@@ -33,9 +33,9 @@ Kalima vanishes into hiding as the Ice Palace’s influence tightens around [[Me
 - **Nura** – Kalima’s sister in [[Melusa]], explaining the village’s curse and fears.
 - **Khaled** – Nura’s husband, frightened for his child and wary of questions.
 - **Samir** – Nura and Khaled’s baby, who speaks with a voice and memories not its own.
-- **Taquin** – the name given by the soul speaking through Samir.
-- **Iskander** – one of Zahara’s circle, explaining the gashes, Malquin’s guards, and the ice wolf.
-- **Zahara** – leader of Melusa’s troublemakers, hiding Kalima and maintaining a secret refuge.
+- **[[Taquin]]** – the name given by the soul speaking through Samir.
+- **[[Iskander]]** – one of Zahara’s circle, explaining the gashes, Malquin’s guards, and the ice wolf.
+- **[[Zahara]]** – leader of Melusa’s troublemakers, hiding Kalima and maintaining a secret refuge.
 - **Malquin the Vaqar** – ruler of the Ice Palace, terrified of “ending” and bargaining for proof of reality.
 - **Ice wolf guardian** – a forty-foot ice wolf placed before the “safe” gash, watching but allowing passage.
 - **[[Eidrikas]]** – Ekko’s mentor, holding a broken planar mechanism together in the Great Chasm.

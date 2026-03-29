@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
-name: Umber
+name: Umber of Dunmar
 born:
 species: human
 ancestry: Dunmari
