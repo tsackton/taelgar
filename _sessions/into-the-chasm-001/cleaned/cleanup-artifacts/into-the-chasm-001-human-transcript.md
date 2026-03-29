@@ -1,0 +1,2701 @@
+# Human-Readable Transcript
+
+**Ekko:** Yeah, isn't… Should we also acknowledge this momentous occasion?
+
+**Finnan:** That's awesome, I love it.
+
+**DM:** Tim as a player. I know.
+
+**Ekko:** like, no, this has been, like, what, our lifetimes in the making? Tim as a player, in fact.
+
+**DM:** It's true.
+
+**Ekko:** Turning over the reins to his brother, his beloved brother, now, as the DM. This is pretty fucking epic, I'm just saying. Great.
+
+**DM:** Tim's kind of a high, high, a difficult act to follow.
+
+**Eolo:** Yeah, it's true.
+
+**Finnan:** I'm sure it will be amazing.
+
+**Ekko:** I'm stoked, though, Mike. This is…
+
+**DM:** Fast.
+
+**Ekko:** Yeah, shout out to Tim, this is great.
+
+**DM:** So… forget everything we said last session. I mean, obviously all the world building and character building, fine, but I have a… I have a new intro to start over with, and then… and if we're feeling complicated, I might break us into two breakout rooms to do two different things. Just to get every… because you're in two separate spots. Right, because…
+
+**Ekko:** Breakout rooms. I like those.
+
+**Finnan:** We did that at the beginning of the Dunmari campaign.
+
+**DM:** that way.
+
+**Finnan:** Every now. Yeah. Like, the very f- the very first adventure.
+
+**DM:** session.
+
+**Finnan:** breakout.
+
+**DM:** Yeah.
+
+**Finnan:** Session, a breakout room with each one of you for the intros.
+
+**DM:** South. Let me just turn on… sorry, the…
+
+**Finnan:** Good.
+
+**DM:** For as long as anybody remembers, the Great Chasm has split Zimkova like a wound, an impossible cleft that plunges into endless depths, from which strangeness typically emerges. Spires of impossible buildings, unexpected lights, storms and winds that seem to defy gravity, and unusual and unseasonable plants that the Kenku sometimes harvest. Although many in the region see it as the home of Zeyfa, the cruel west wind of Zimkovan legends, not all do. The Kenku monks of the Kemeko Monastery see it as a place of safety and refuge, where they can train unwatched by the outside world, and safe from danger. And the mystics of the Vejo Vaikai believe the chasm is a place of elemental balance and great power. The summer of 1729 in Zimkova started fine and fair, but by late August. Rumors of an orcish horde led by a fearsome orc calling herself the Ravager of Winter. had started to spread across Breva. In early September, the news came. A great battle had been fought north of the chasm between the dwarves of Nidzahar, apparently aided by a large contingent of Stoneborn and the orcish horde. The Ravager was killed, and the bulk of the orcs were defeated. But scattered bands fled south to Breva like angry wasps, and the Mezai, the Woodswalkers. And many others were kept busy defending the people from these scattered orc hordes. So few noticed as the first signs came of the chasm changing. A summer thunderstorm, thick and warm, burst forth from the chasm in October. But this had happened before, and although it wasn't common, no one really remarked on it. A sandstorm, thick and dry, with scorching heat, came out of the chasm in November. A boulder of volcanic stone, a flame with green fire, tumbled down the river that flows out of the chasm and floated all the way to the green sea, unquenched by water. That was remarked on as mighty strange. In December, a rainbow appeared. That stretched across the sky over the chasm, and a day later, it shattered into hundreds of thousands of glass shards that drifted to the ground across the chasm and fell in. That was widely seen as an omen, but few could say what it meant. When the rainbow sign was followed by a living sheet of ice that swam out of the chasm and left behind… and swam down the Teft, the main river, like a predator, leaving behind dead fish and… frozen banks in its wake, many in Breva began to believe Zeyfa was angry, and the chasm needed to be appeased. And then, at the start of January, the sky above the chasm turned black, and held darkness, blotting out the sun over the chasm, like a huge dark cloud on the horizon. For 5 days and nights. And so, on January 8th. of 1730. Two weeks before Quintarim, the Sambaran feast day of the Wanderer. The Vejo Vaikai gathered some of their wisest mystics and sent them, with a few of the warriors of the Kemeko, to investigate They… What might be going on? It's now January… 22nd. More than two weeks have passed, and none have returned. So, I'm gonna break out Tim and… let's see… create two… three breakout rooms. So, Dave and Eric are in one… Wait. Tim, where are you? I can't add you to a breakout room. Are you also a host?
+
+**Eolo:** Maybe he can…
+
+**DM:** Can you add yourself to room 2?
+
+**Finnan:** Yeah.
+
+**Ekko:** Sorry, we join the rooms, and what happens?
+
+**DM:** So, I'm kicking off each group of you separately, so just join the breakout room, and then we'll rejoin. I'll join, I'll sequentially go through each room. Wait, did… Eric and Kong don't seem to have closed. Why is nobody here? But…
+
+**Finnan:** No, it's just timing. They, they need to…
+
+**DM:** Okay.
+
+**Finnan:** It gives you 60 seconds for the rooms to close if you don't hit the.
+
+**DM:** Oh, oh, okay, I see. They have 34 seconds to join.
+
+**Jrain:** Slow Zoom response time, come on, guys.
+
+**Finnan:** It'll kick them back in 34 seconds, but they're not… they're probably just chatting and didn't notice.
+
+**DM:** Right. So everybody just… I'll tell this to them when they come, but as you… oh, here they are. Okay. So, it's all white, you can't see anything. As you fall, You can keep your armor. One thing that you can clutch to your chest, and one thing in each hand. So you have to pick what you're keeping. From your equipment. I mean, you could clutch a backpack to your chest if you have nothing else you want to clutch.
+
+**Finnan:** We need to open Roll20. Mike?
+
+**DM:** What?
+
+**Ekko:** Do we need to roll… open Roll20?
+
+**DM:** I'm gonna run… combat just in D&D Beyond. There's a map in D&D Beyond. I'll send you a link when we get to it. So, as you fall. I mean, I assume, Eric, you are probably clutching your quiver… Yes. …and your two crossbows, right?
+
+**Eolo:** Yes, I was just thinking that that's not really any other option for that, yeah.
+
+**DM:** Yeah. So you end up with no equipment except your quiver and your two crossbows, so you wouldn't… you wouldn't have… you'd have to find the dag… you wouldn't have a dagger.
+
+**Eolo:** And should I… what do I do on my character sheet?
+
+**DM:** you shouldn't… .
+
+**Finnan:** Do you have any equipment that's not a crossbow, or…
+
+**DM:** If you have any equipment on your character sheet that's not a crossbow or your armor, delete it.
+
+**Eolo:** Okay.
+
+**DM:** Except the quiver, keep the quiver.
+
+**Eolo:** I deleted my dagger.
+
+**DM:** Yeah, I think that was your only piece of equipment that wasn't…
+
+**Eolo:** backpack full of stuff. Do I delete that, too?
+
+**DM:** Delete that. No, you can't… your backpack goes flying off in the storm, because you're clutching your quiver, not your backpack.
+
+**Eolo:** How do I do that? Okay.
+
+**DM:** M…
+
+**Eolo:** Delete.
+
+**DM:** And Ekko doesn't have any equipment, so there's nothing for you to lose. You just… you just have your, you know, ring your… you have your amulet of the storm, of the… your amulet of your beast form, and whatever armor you're wearing.
+
+**Ekko:** Amuleted. Might not happen.
+
+**DM:** Amulet of the Moon. There you go. your Amulet of the Moon. And you probably should have armor. Yeah.
+
+**Ekko:** Plate, plate mail? No, you can't wear a plate.
+
+**Finnan:** Something like.
+
+**Ekko:** leather?
+
+**Finnan:** You want something like a breastplate, something that doesn't slow you down too much.
+
+**DM:** Yeah. And then…
+
+**Finnan:** Not a breastplate.
+
+**Ekko:** Breastplate? Alright.
+
+**DM:** Schwartz, I assume Justas would keep your axe and your shield and your armor, but you could clutch a third thing. You could keep something else.
+
+**Justas:** Hey! I…
+
+**DM:** Might not.
+
+**Justas:** I don't know, like, I think it would… I could clutch that backpack.
+
+**DM:** Good.
+
+**Justas:** Yeah.
+
+**DM:** Good!
+
+**Justas:** I'll clutch it. I'm strong.
+
+**DM:** Yeah, you are. But I'm gonna look at what's in your backpack. Some random things from your backpack are gonna vanish. You don't have that much in your backpack.
+
+**Ekko:** Alright. Traveling light this year.
+
+**Jrain:** I'll clutch my bow if I can manage to clutch a quiver at the same time as my bow, I will, otherwise I'll just have to deal with ammunition.
+
+**DM:** You have… you have two hands, so you can have a quiver… you could clutch your… your cloak, you probably need to hold onto, or it's gonna fly off. So you probably want to clutch your cloak, and then you can hold a bow in one hand and a quiver in another, and lose your sword. Or you could… Clutch your bow and your sword and lose your quiver.
+
+**Finnan:** You don't need a sword.
+
+**Jrain:** What? What if I clutch my bow and my cloak and hold her hand? I'm very worried about her.
+
+**DM:** Oh, that's true. If you wanna… if you wanna try and hold her hand, you might not have 3 things. You could lose your… you could lose your quiver, too. You might have to lose your quiver, too. You could, you could, you could keep a couple arrows. Tell you what, you have 10 arrows. But you have to keep track of 10… your individual 10 arrows.
+
+**Finnan:** I'm keeping track of your arrows for you, sweetie.
+
+**Jrain:** The scholastic one in the party.
+
+**DM:** Yeah.
+
+**Finnan:** Well, no. Well, last night, when we were working on our character, I was helping Kate add equipment, and I was like, we should add arrows, and Kate rolled her eyes and said, I'm not gonna have to keep track of ammunition, am I?
+
+**DM:** Bam.
+
+**Finnan:** And I thought, Mike won't care about that.
+
+**DM:** Okay, so I deleted a few things from Justas's backpack that randomly fell out, but you have what's left. You have everything else. And then, Tim, Finnan's… What's Finnan keeping?
+
+**Finnan:** I'm… as I fall, I'm… grabbing my… Little, ocarina, my clay pipe, and my fiddle in one hand, and… Clutching my writing case. And if my cloak… I mean, if my cloak blows off, that's fine. I assume my rings aren't gonna disappear.
+
+**DM:** Yeah, yeah, your rings, you don't have to do any. Your rings, you keep. But you can keep one thing in one hand, one thing in another hand. You're keeping both of your music.
+
+**Finnan:** my ocarina.
+
+**DM:** Okay.
+
+**Finnan:** And…
+
+**DM:** So, Finnan is letting… yeah, okay.
+
+**Ekko:** So…
+
+**DM:** No, you have your fiddle, your ocarina, your writing case. Okay. So, I don't mind.
+
+**Finnan:** I don't need weapons.
+
+**DM:** That's true.
+
+**Finnan:** Instruments are my weapons.
+
+**DM:** okay. So, you can delete your whole backpack then, Tim.
+
+**Finnan:** I did already.
+
+**DM:** There we go. Okay. Say you land.
+
+**Finnan:** Can you start the music, Mike?
+
+**DM:** I just did, isn't… I wasn't not playing through the…
+
+**Finnan:** It's not shared, you have to reshare it.
+
+**DM:** Okay.
+
+**Ekko:** Okay.
+
+**DM:** Advanced… You awaken in the dark, lying on a platform of ice. Apparently floating in the darkness. Three body lengths above you is the howling whiteness of snow. You can't see into it, and it looks like it's moving very quickly. It would probably be dangerous to fly in it. And the wind shrieks, even here, lying on the ice beneath it, the wind shrieks. And. The occasional gust seems to, like, come and almost steal your breath away. As you open your eyes, first of all, you see everybody here. And then you also see a dim blue light glowing from two places inside this platform of ice, which is enough light to let you see… although you can't really see the edges, it's all just in shadows and darkness, you can see two bridges, one in front of you, one behind you, leading off the platform into darkness. In front of each bridge, there's a large wolf. encased almost entirely in ice, like, totally encased in ice. But, like, not in a block of ice, like, thin layer of ice around the wolf's body. Almost looks like a… Ice. Sculpture. Double. Why doesn't everybody say what their characters look like? If you had a moment to think about it. As you lie here in the darkness. We're staring up into the whiteness of the howling wind.
+
+**Finnan:** I'll… I can go first, so… The first thing… I don't know if anybody has darkvision, but assuming nobody has darkvision, the first thing you notice is not What you see, but the sound…
+
+**DM:** Of.
+
+**Finnan:** a, like, simple melody being played on a… on a clay pipe. And as the sound is played, suddenly a light begins to glow brightly. And you look up, and I'm casting the light spell, and you see… a halfling, maybe… I don't know, in his mid-40s, early 50s, but, you know, pretty healthy and hail, well-traveled, holding now in his hand a glowing Clay, pipe. That's casting a bright light around all of us. He sets up.
+
+**DM:** Briefly shaking his head, you can see…
+
+**Finnan:** He's… he has, like, curly… thick, curly brown hair. not…
+
+**DM:** Not wearing a cloak.
+
+**Finnan:** Green eyes, a sort of cheerful complexion, The only things that you see, he's wearing, leather armor, studded leather armor, well-traveled, he's… everything about him is he clearly travels a lot. He's holding what seems to be his most precious possession is a leather writing case clutched around his two arms, stuffed with notes and papers and…
+
+**DM:** Other things that you can't clearly see.
+
+**Finnan:** And as he sits up, you can see that he's got 3 rings on his fingers, a silver ring, a gold ring, and a… I never decided what this other ring looks like, or Mike never decided what that looks like. And a… and a… sort of a… two silver rings and a gold ring. Any kind of shh… Sits up, shakes his head, and looks around at all of you.
+
+**Eolo:** Not far away, there's a Russell. as… A raven-like kenku. Flips his body up. from… Lying prone on his back. all in one… Fluid gesture to land on his feet. Two crossbows sweep out. And he does a spin, looking all around. Wild-eyed. Points them up. and then…
+
+**DM:** Drops them back down to his sides.
+
+**Eolo:** What the hell? Eolo is a young Kenku. Wearing leather armor, and strapped to his back is a… Quiver. With glowing runes.
+
+**Ekko:** as, Eolo, like, pulls out his two crossbows and is, like, looking at everybody, like, you know, about ready to potentially do something or not do something, and slowly is withdrawing. you see this, like, giant Kenku wing, like, like, go in front of the two crossbows, and then… and then, like, kind of slightly covering Eolo's face, and then you see, like, kind of leaning up a second Kenku, also right next to Eolo, sitting up slowly. Wearing, A dark green, cloak. And, and you notice, you know, interesting eyes. He's got, you know, one, one really, like, kind of sapphire, like, emerald, like, really, like, or sorry, emerald, like, green eye, and another one, like, a brown eye. This, like, green-brown eye combo, which is very good.
+
+**Eolo:** Raw.
+
+**Ekko:** And… And, but no other, you know, maybe a little bit of armor under the leather coke, but nothing else really, really to speak of. Looks young, not quite as young as Eolo, but, you know, on the younger side, as far as you may be able to surmise with Kenku. And, you know, keeping the wing in front of Eolo, And you see him kind of, like, whispering, like, dude, watch where you're pointing at, watch where you're pointing this. A little, you know, a little aggressive.
+
+**Eolo:** Okay.
+
+**Ekko:** It's a little aggressive.
+
+**Eolo:** Twice, live once, bro.
+
+**Ekko:** Yep, it's a little aggressive.
+
+**DM:** You're.
+
+**Ekko:** kind of at a… you're at a 12, let's, like, dial it back to, like, a 7, you know, just, like, a little bit.
+
+**Eolo:** happened, though, man.
+
+**Ekko:** And kind of looking around and, you know, seeing, seeing everybody as not looking overly threatening, says, Not sure how we all ended up here, but, I'm, I'm Ekko. And, this is Eolo.
+
+**Eolo:** low bows.
+
+**Ekko:** Ekko also will give a little, a little breath.
+
+**Justas:** large and powerfully built human in his probably early 50s gets to his feet and nods to all of you, says, justice. He's bald, with a big beard flowing, and this, set of… Armor, you know, head to toe, this long sort of coat of, splint mail, and… greaves and armored all over, with a massive shield that's carved with, these rapids on it. When you look out of the corner of your eye, it seems like the water on it's flowing, and when you look squarely at it, it just looks like a carved shield. He's got, in the other hand, As he drops the backpack that he's been clutching to his chest. In his other hand, carries a massive battle axe, and The closer you look at the loop, this leather loop on the end of it, there's these different… charms, which, if you're familiar with the area, you might recognize Charms for some of the Kestavo, the local spirits, all, you know, in a 100-mile radius from where we are. But this funny collection of things, like a sprig of mistletoe, and an acorn, and a little vial of water, and… others on a necklace around his neck that he's tucking back under his armor again. You know, all these different charms of the local gods, and he… Smiles grimly, and looks around, and… Just gives a little sigh and a shake of his head.
+
+**Jrain:** With a glance at her, companion.
+
+**DM:** I'll get to her. She made it.
+
+**Jrain:** Yeah. Stands up and… Somehow manages to… Twitch her cloak and her hair, which is long and black and flowing. So that all of a sudden, she falls into place, and she's, regained her composure and sorted everything out with her bow and, and arrows. And her, large… Warm-looking gray cloak of, owl feathers.
+
+**DM:** It goes with her.
+
+**Jrain:** gray pants and… black shirt and, you know, worn… worn practical traveling clothes. And.
+
+**DM:** She's…
+
+**Jrain:** Already alert, and looking around and smiling at those she knows, and… Greeting those who are new.
+
+**Ekko:** What's her name again?
+
+**Jrain:** Jrain, J-R-A-I-N.
+
+**DM:** Lying next to Jrain, is a young woman… well… She looks about… maybe 25, 30-ish? She's wearing a well-made fur cloak, although, actually, that… she's not anymore. She was wearing a well-made fur cloak, it snapped off in the wind. And now she's just… she's wearing, sort of. plainly made, like, leathers and fur clothes. They're sort of an unfamiliar style. There's no cloth, it's all, nothing woven. animal, all made from, like, weather or fur, and sort of pieced together. Several different layers, it looks like it would be warm. Her face is sort of round, slightly dark, sort of like, like, Native American, like, sort of slightly dark-skinned, but not… not, like… brown. And she has, like… she's missing a tooth, and she has a large scar on one cheek, but otherwise, fairly attractive sort of face. But as soon as she, Hold on, let me… okay, Kong, I see what you said, but…
+
+**Ekko:** I'll do that.
+
+**DM:** Yeah, no, no, no, it's good, just give me one second. As soon as she… as soon as she lands, she, like, walks up, there's a look of total terror, like, she looks… Terrified. She starts saying something. A language you don't understand, although actually, hold on… And wait, Schwartz, Justas speaks Old Zimkovan, right?
+
+**Justas:** Yep.
+
+**DM:** Okay, I sent the two of you what she's saying. And she… she starts standing up, And… is, like, looking around. Like… looks like she's about to do something, although you have a moment if you wanna… if you wanna do anything.
+
+**Jrain:** I reached out a hand in case she wanted a hand getting up.
+
+**Justas:** Like, sorry?
+
+**Finnan:** Is she…
+
+**Justas:** I didn't see anything. In chat, you sent something?
+
+**DM:** Oh, sorry, I sent it to the wrong person. I sent it to Kong, not Schwartz, not you. Ignore what she said. Ignore what I said, it doesn't really matter.
+
+**Ekko:** I didn't read anything. What are you talking about? No messages.
+
+**Finnan:** Is she… is she scared? Is she…
+
+**DM:** scared.
+
+**Finnan:** Okay. I will… Holding my, Actually, I'm gonna just… I'm gonna start, chanting in Old Zimkovan, and, there's a… a sort of… Casting calm emotions. So what's a…
+
+**DM:** Okay.
+
+**Finnan:** DC15 Charisma Save. it… Makes her not hostile, she's hostile, and suppresses charm and fear.
+
+**DM:** Okay, she… as you start to… Wait, does that have a… .
+
+**Finnan:** It's a 20-foot… sphere. So, anybody else who's frightened. Of this situation is also going to be calmed.
+
+**DM:** You start… as you start to sing, make a… this… this has… well, all your spells have verbal components, make a… make a constitution saving throw.
+
+**Ekko:** All of us?
+
+**DM:** No, just Tim.
+
+**Finnan:** Dean.
+
+**DM:** As you start to sing, the wind picks up a little bit, and it, like, almost… you, like, it, like, blows across you, and, like, it takes a minute for you to, like, regain the strength of your song. It's almost like the wind is trying to steal your voice. But you recover the strength of your song, and you… you finish, and she comes down, and… and looks around.
+
+**Ekko:** him, am I?
+
+**DM:** She seems calmed, like, the spell clearly, clearly worked on.
+
+**Finnan:** That's only… it only lasts a minute, so I'm gonna quickly… Ask her where we are and why it's… So… Bad.
+
+**Ekko:** Wait, just before we do any of that, Oh, yeah, yeah. Are we in a place that… because, like, out of everybody here, Ekko's probably the only one that's actually, like, actively, like, hung, you know, floating around in the chasm and, like, knows it… like, knows at least the top layers.
+
+**DM:** Yeah.
+
+**Ekko:** You know? Are we someplace he recognizes, or like, can he place where we are?
+
+**DM:** No, this… Ekko doesn't… it feels… something feels off to you about this, like…
+
+**Eolo:** Mmm.
+
+**DM:** the… the… The darkness on both sides, and, like, the unnatural sort of… storm above you. It doesn't… It doesn't feel… the way the chasm would normally feel. The chasm normally feels like… sort of… Nature, twisted in an unexpected way, but still kind of natural.
+
+**Ekko:** Right? This has kind of a…
+
+**DM:** this sort of, like, it's not normal, like, normally it would be, like, weather, but with gravity going the wrong way, right? Yeah. But it's still weather, it still has this chaos of, like, this is, like, this regular, like, weird… White cloud above you that almost… as you look at it, it's almost, like, beating down on you with, like, a presence, like, that it doesn't want you… that, like, you're not supposed to be here. It definitely does not feel like the place you've been.
+
+**Ekko:** What, what is it, is it… was it dark out before?
+
+**DM:** It was, like, 3 o'clock in the afternoon. So, I mean, it was getting dark, because it's midwinter, and you're pretty far north, but…
+
+**Ekko:** Now, where we are, we're, like, when we look around, we're blocked out, like, the sky's blocked out, like, we can't see anything, we're, like, in the.
+
+**DM:** Yeah, so you're, like, lying on a platform that's floating in, like, a black space. So if you look to the left or right, or back or front, it's all blackness, except there's these two glowing lights that are illuminating these two wolves carved out of, like, ice wolves, that then are…
+
+**Eolo:** Hmm.
+
+**DM:** positioned like they're guarding two bridges, right? And then above you, there's just this whiteness that's, like, spreading across like a sky, but it's not a real sky, it's a storm.
+
+**Finnan:** How big is this platform?
+
+**DM:** you can't… how… what's the radius of white? It's 30 feet in all directions.
+
+**Finnan:** in all directions.
+
+**DM:** 40 feet in all directions, and they've been looking at my map. you can see the… it's just about 40 feet in all directions. You can just… not quite, you can see to your left and right, just the edge… like, the edge of the platform, it just drops off. But to your… to your… same with… it's kind of the ice… where the bridges are, you can't quite… where these two ice bridges are leaving off, it's just a little bit more elongated in those two directions, so you can't quite see… The edge there, but for the most part, you're standing kind of on a… not perfectly spherical, but a roughly shaped 40-foot diameter sphere. Like oval. Like, circle. Yeah, it's not a perfect circle, but it's close-ish to a circle.
+
+**Eolo:** Eolo's gonna start strolling towards one of the wolves with the aim of, Kind of kicking at it with a foot a little bit, and leaning down to investigate.
+
+**DM:** Raw initiative.
+
+**Ekko:** No, that's… that's the fight. You know.
+
+**Finnan:** Eolo!
+
+**Ekko:** I don't even know who anybody is, like, do we trust.
+
+**DM:** I don't know!
+
+**Ekko:** The only one… the only one I… the only one I know here is Eolo, and I definitely don't trust him, so I'm…
+
+**DM:** Let me.
+
+**Ekko:** this whole situation.
+
+**Finnan:** Is it… wait, is it a… is it within 20 feet of the woman?
+
+**DM:** Is the wolf now?
+
+**Finnan:** Okay.
+
+**Ekko:** Ekko is what?
+
+**DM:** Here's the map. Wait, so you guys… let me just… you should be… Here, let me change the music, and… you should be able to go to this map. Go to this link.
+
+**Finnan:** I see it.
+
+**Ekko:** Aw, man, I feel like we need to roleplay for one more second here, because we don't know anybody, so now it's like, like, I don't even know who to fight.
+
+**Finnan:** No, no, it's good. It's great to have a combat when you don't know anybody. I know, I know, I know a few people here.
+
+**DM:** So you should s-.
+
+**Ekko:** Cool.
+
+**DM:** You should be able to see on this map the Zimka woman and the two frozen wolves.
+
+**Eolo:** Yep.
+
+**DM:** And you should… Oh, let me actually expand the Fog of War, because you have your white spell now. So you can kind of see all the way into the darkness.
+
+**Eolo:** Nice.
+
+**DM:** Yeah, I drew it. Well, I used stamps, but… I was proud of myself. So, you can't quite see, like, kinda where these bridges go. Okay.
+
+**Ekko:** Are we really couldn't?
+
+**DM:** Yeah, Rally Roll Initiative.
+
+**Ekko:** limits.
+
+**DM:** When Eolo started moving towards the wolves, they started moving.
+
+**Ekko:** 16.
+
+**Finnan:** I…
+
+**Eolo:** 20… 23.
+
+**DM:** Hold on, wait, wait, wait, wait, wait, don't… Tell me. yet, because I don't… Sorry, I don't know how to use… How do you set… Oh, adult tokens, okay, here we go. Okay, so… Tell me… Ekko? 16?
+
+**Ekko:** Yep.
+
+**DM:** Oh, it actually took all your roles. Did you all just roll in D&D Beyond?
+
+**Jrain:** 16.
+
+**Justas:** 23, 9, 15, 4?
+
+**DM:** Awesome. Okay, so… Okay. Let's see, I hope this doesn't… So… What happens if I hit start combat? Ack! Now. Can you guys see all the things in the list now? Did it just show all the things that are gonna show up?
+
+**Finnan:** There is a list of things, yes.
+
+**DM:** Oops. Yeah, I was supposed to see.
+
+**Finnan:** that. You have to hide… well, does this not have a GM layer?
+
+**DM:** You can't see the creatures, but I don't know how to take them off of… oh, wait, hide, there we go.
+
+**Finnan:** Yeah.
+
+**DM:** They might not show up. They might be friends. We haven't met. They might be friends.
+
+**Finnan:** back.
+
+**DM:** Yeah. They might be friends. Now you cannot see them, right? Oh.
+
+**Finnan:** Well… We don't really know each other, so… But Jrain has alerts, so theoretically, if you wanted to swap with somebody, you could.
+
+**DM:** Okay, I just gotta bring up Tim's combat mix.
+
+**Eolo:** Hmm.
+
+**DM:** So… Eolo gets the jump, so you see, as you start walking to the wolf, it… it… it… Starts moving, like, it's starting to, like, gather… It's body, like it's gonna pounce on you. But, you're way faster than it, and you get the jump on it before it can successfully pounce.
+
+**Eolo:** Oh, so it… it wasn't… Made of ice, it was just covered with ice, and his attack.
+
+**DM:** No, it's moving, it's made of ice, it's just attacking you.
+
+**Eolo:** Nope.
+
+**DM:** It's encased in ice, the ice doesn't break. It's just… Starting to move. Like, it, it's, it's, it's, it… It's…
+
+**Eolo:** Oh, I think I missed something you said.
+
+**DM:** I just said it's gathering its body to pounce.
+
+**Eolo:** Well, I will make several crossbow attacks then. Let's see… How many attacks do I get?
+
+**DM:** You can make 3 crossbow attacks if you use your bonus action.
+
+**Eolo:** How about I'll… can I…
+
+**Ekko:** Are you saying?
+
+**Eolo:** I can do my…
+
+**Ekko:** Are you shooting at anybody else?
+
+**Eolo:** Just…
+
+**Ekko:** We don't know what the fuck anybody is. Dude, like, you and I don't know who the fuck anybody else is. Like, this is why this is all confusing and shit.
+
+**Eolo:** I'll start by trying to do a telekinetic shove. To push it off the platform.
+
+**DM:** Like. So that used you… Your bonus action, or your action?
+
+**Eolo:** It's a magic action, it says.
+
+**DM:** So that would… that would be instead of an… you could do that, but it would be instead of an attack. Oh, it says, Elizabeth.
+
+**Eolo:** Bonus action, you can telekinetically shove one creature within 30 feet of yourself.
+
+**DM:** Then you can do it as a person.
+
+**Eolo:** The strength saving throw DC14.
+
+**DM:** Okay. Okay. Yep.
+
+**Eolo:** Oh, and it only moves at 5 feet. Huh. Well…
+
+**DM:** It… it… it doesn't… it just… your… your telekinetic fist just sort of shoves against it.
+
+**Eolo:** Hmm.
+
+**DM:** And it just doesn't… It just stands there, like, like, it doesn't… it doesn't seem to be bothered by it.
+
+**Eolo:** Okay, so I… Fire my crossbow, my left crossbow. Oh. Okay. Bye. Fire wildly into the air.
+
+**DM:** 10 misses, quite… oh, and what kind of arrows do you have, Eric?
+
+**Eolo:** Oh. Right.
+
+**DM:** What are your arrows? You, you see, everybody else sees as Elo goes to pull an arrow out of his quiver, there are no arrows in his quiver. They just… it just appears as he pulls it out.
+
+**Justas:** Awesome.
+
+**Eolo:** I've been playing.
+
+**DM:** just make them fire arrows? Yeah, sure, yes. I mean, that would be an obvious thing to have made. Already, pre-prior to. It's fine for them to be prior.
+
+**Eolo:** Yeah, yeah.
+
+**DM:** I mean, you can't change… it takes a short rest to change what they are, but you can declare right now that they're fire heirs. Because ELO would have arrows. It's winter! What else do you bring with you on winter? You bring fire arrows. Maybe a frost worm or something. Exactly.
+
+**Eolo:** Mmm… So that's… but… so.
+
+**DM:** But… A tad messes.
+
+**Eolo:** But you get…
+
+**DM:** I'm a link.
+
+**Eolo:** I rolled a 2 that time.
+
+**DM:** And a weapon also misses.
+
+**Eolo:** So, two glowing streaks. Zoom away, well clear of the wolf.
+
+**DM:** So the wolf… Leaps forward towards this creature who was attacking it. And… It's, like, as it moves, the ice is, like, cracking. But it's like, you can see there's almost a wolf body inside, but it's encased in ice, and moving, like, the ice is moving with it. And it weeps towards you, you're not very far away, but it weeps towards you, and tries to attack you.
+
+**Eolo:** Oh, boy.
+
+**DM:** Tearing at you with its… With its teeth! And your AC is… 16!
+
+**Eolo:** 15.
+
+**DM:** So it… it hits you. It's… it's, As it leaps towards you, its teeth tear into you. You take, 7 points of piercing damage and 2 points of cold damage. And it knocks you down. And as you're lying on the back, as you're lying on your back, because it knocked you down, it's standing over you. And it just tears into your throat a second time. I like to just rip out. Your throat. Oh, and it gets a tooth, solidly into your throat.
+
+**Eolo:** Oh, boy.
+
+**DM:** You take another 7 points of damage. And as its jaw comes away from your throat, like, dripping with blood, you feel, like, an icy shard, like, embedded in your neck, like, pulsing with cold. Ekka, you're up.
+
+**Ekko:** Is wild shaping an action, or a bonus.
+
+**Finnan:** Bonus action.
+
+**DM:** Bonus action. So you can wild shape, and then still move, and then still attack.
+
+**Ekko:** I get two attacks as a polar bear, right?
+
+**DM:** Do you? Do you get an extra attack as a…
+
+**Ekko:** as the bear mix to a.
+
+**DM:** Oh, yeah, yeah, then absolutely. Yeah, yeah, yeah, yeah, you're looking at the polar bear stat. Yeah, of course, you get two attacks as a bear.
+
+**Ekko:** Alright, cool. Ekko is, like, looks at Eolo like, what the fuck, you dumbass? And then it's like… And then, and basically, like.
+
+**Eolo:** Somebody had to do something.
+
+**Ekko:** He, like, rolls forward, like, tucks his wings in and rolls forward, like, like, as a ball, and then kind of rolls, and then rolls up into, like, probably tripling in size into a… How many… how big is this polar bear? Don't say it on the thing.
+
+**Finnan:** It's So it's, like… Four squares.
+
+**DM:** I don't know… I don't know if I can make this… I don't know if I can make the polar bear… Controlled by you.
+
+**Ekko:** That's fine.
+
+**DM:** I don't think I can. But you're large.
+
+**Ekko:** Yeah, rolls forward, quadrupling in size into this, like, large polar bear, and flips up and just, like, roars mightily, and then… Swoops in to go to attack. First I'll do… oh, so they're both plus… oh, plus 8. Or plus 7 to hit.
+
+**DM:** Yep. How do I do that? I just roll… Just roll a D20 and add 7.
+
+**Finnan:** Yeah.
+
+**Ekko:** D20… And a roll.
+
+**DM:** So… Jrain is next.
+
+**Ekko:** Wait, 18.
+
+**DM:** 18 net hits, your first claw just impacts, cracking along the ice.
+
+**Ekko:** Okay, great, and that does D8 plus 5. Hold on one second… There's the 8. 6 damage, and then second attack, Claw Attack.
+
+**DM:** As you hit it. These shards of ice come flying off its body. Towards you, make a deck safe.
+
+**Ekko:** it's… And I missed, badly, the last one.
+
+**DM:** You take, you take 3 points of damage from flying ice.
+
+**Ekko:** And then, make a deck safe.
+
+**Finnan:** Polar bears are resistant to cold damage, by the way.
+
+**DM:** Okay, you take… you take 1 point of damage… oh, no, you take… Yeah. You take, one point of damage from Flying Ice.
+
+**Ekko:** Okay, got it. My, my second…
+
+**DM:** You moved up to, like, here, right? And you missed, you rolled a 1 on your second attack?
+
+**Finnan:** Also, you get 18 temp HP when you shift, so add that to your character. Perfect. So you should have 17 temp HP now.
+
+**DM:** Jrain, you're up.
+
+**Jrain:** I cast a…
+
+**DM:** intense bail…
+
+**Jrain:** Baleful glance at my, Opponent in this battle. Which is a hunter's Rest.
+
+**DM:** I just mark.
+
+**Jrain:** Hunter's Mark, thank you. Okay. And then I…
+
+**DM:** Shoot at Dean.
+
+**Jrain:** Thing with an arrow.
+
+**DM:** Okay. But you're… but you're all.
+
+**Jrain:** I am trying, but my computer is being slow, and so the clicking is not happening very fast.
+
+**DM:** And I think you get 2 attacks as well, right?
+
+**Jrain:** Yes. Yep. That's a 25.
+
+**DM:** That hits.
+
+**Jrain:** 11 points of piercing damage. Plus D6. Okay.
+
+**Finnan:** For Hunter's Mark. Thank you.
+
+**Jrain:** more. Alright. And… Did… did that, like… Hit into it and lodge in a place that I can still see it.
+
+**DM:** The arrow? Yeah, it's, it, like, it, it smashed through the ice and seems to have hurt it. I mean, it definitely hurt it. It, it, The arrow probably is stuck in the ice right now.
+
+**Jrain:** Great. Counting them, you know.
+
+**DM:** Yeah, yeah?
+
+**Jrain:** Alright, so I shoot again, emboldened by my first success.
+
+**DM:** That hits, that definitely hits.
+
+**Jrain:** So that was a 10, and then the extra dice is a… 5.
+
+**DM:** Okay, so 10, so 15 total?
+
+**Finnan:** And it… its speed is reduced by 10 feet from slow.
+
+**DM:** Right. As you hit it, as… As that hits it a second time. It, it, like, the ice cracks around and it reels back, it's bloodied. And then… Before, Finnan gets a chance to move, coming flying from… flying from the… the side, this… this… Dark Shadow. Almost made of just wind. Comes flying… comes, like, gusting in almost with this burst of wind. And it comes flying… Over here, towards Finnan. And… I should just go grab my physical dice, that would be so much easier.
+
+**Jrain:** Taking that.
+
+**DM:** What is your AC, Tim?
+
+**Finnan:** 13.
+
+**DM:** 13.
+
+**Finnan:** But I do have cutting words, so I can use a reaction to make it subtract.
+
+**DM:** It's… It's…
+
+**Finnan:** 2nd.
+
+**DM:** This, this wa- this, it just… it's like, are you using that? It's… it's just barely grazing, like, this.
+
+**Finnan:** Well, are you gonna… are you gonna play the way I play and let you know what the role is?
+
+**DM:** Oh, wow.
+
+**Finnan:** You cast Shield.
+
+**DM:** Yes, yes, yes, yes, it hits. It hit. Yeah, it hit by one.
+
+**Finnan:** I'm… yes, I'm… I'm disturbed by this situation, so I am going to… Cutting words.
+
+**DM:** Okay, it'll definitely.
+
+**Finnan:** I will.
+
+**DM:** words.
+
+**Finnan:** Yeah, yeah, I will use a bardic Inspiration to, Just, speak again, like, a warding curse against, The… the west wind, and deflect its attack.
+
+**DM:** A second one… comes off.
+
+**Finnan:** Of course!
+
+**DM:** You're the only one they can reach, unfortunately, for you. A second one comes up and does the same thing. Again, this wind towel. Actually, this one… This one shrieks. This one stops right here. And shrieks this, like, lets forth, this gust of wail, of just, like, this horrible noise of wind. And Finnan… Justas and Jrain off to make a wisdom save. Oh, but you have com- your calm emotions is still up?
+
+**Finnan:** Yep.
+
+**DM:** Okay.
+
+**Finnan:** So… I'm at least immune to… well, I guess it depends on who…
+
+**DM:** We'll…
+
+**Finnan:** woman is immune to calm emotions. I'm immune to calm emotions. I guess Justas would probably… or immune to fright. I guess Justas would probably know.
+
+**DM:** Justas with doubt.
+
+**Finnan:** Yeah. I don't know if Jrain or Ekko or Eolo would just be like, hey, this spell is great. I'm gonna…
+
+**DM:** Yeah, that's a good question. Actually, Eolo, Ekko, and Jrain, the weird bard saying a song that was a magical effect, did you let it take effect? It seems to be something he was targeting at the, the Zimka woman. Did you let it take effect, or did you try and resist it?
+
+**Ekko:** I tried to resist it.
+
+**DM:** Make a… Charisma savings for Tim? No, Wisdom.
+
+**Finnan:** I'm gonna save.
+
+**DM:** That's crazy.
+
+**Ekko:** Charisma safe?
+
+**Jrain:** I went with it. I could tell what he was doing, and I know him a little bit, and…
+
+**DM:** Yeah, you could have let it happen.
+
+**Ekko:** 13. I failed anyway.
+
+**DM:** Okay.
+
+**Ekko:** Eric, I was calmed?
+
+**DM:** It means you're immune to fright, which is useful, because you're about to get a fright effect hitting you. Well, not you, actually, because you're not in the cone.
+
+**Eolo:** I…
+
+**DM:** Of course.
+
+**Eolo:** So, my roles have been 1, 2, and 20. 20, of course, was for my role to resist the buff.
+
+**DM:** So, you shake off the weird spell, but, but, Jrain, Finnan, and Justas still need to make a, wisdom save.
+
+**Finnan:** I rolled a 4.
+
+**DM:** Okay, so you take 5 points of psych… you take 5 points of psychic damage.
+
+**Jrain:** I rolled at 11.
+
+**DM:** You also take 5 points of psychic damage.
+
+**Ekko:** I think your roles are in character. This is perfect.
+
+**Finnan:** I'm gonna…
+
+**Eolo:** So far.
+
+**Finnan:** Schwartz, what'd you got?
+
+**Justas:** What did I get?
+
+**DM:** Wisdom.
+
+**Justas:** 12.
+
+**DM:** 12! Wow, you guys are really rolling poorly. That's your roll, that's with your plus, right? You also take 5 points of psychic damage.
+
+**Finnan:** I'm giving myself advantage on the, on the… Concentration check. With luck.
+
+**DM:** Okay. Which makes… means I succeed. That… however, none of you are scared of the thing. It seems terrifying, but you just feel very calm. And it really doesn't bother you that it seems terrifying. Bam. However, the Zimka woman falls to the ground. Bhh. I mean, she also took the psychic damage, but probably doesn't have that many hit points.
+
+**Finnan:** I mean, she falls to the ground, as in she's unconscious, or…
+
+**DM:** Yeah, yeah, yeah, yeah, yeah, yeah.
+
+**Finnan:** Okay.
+
+**DM:** She's… she's unconscious. And… The other wolf… Comes charging. 1, 2, 3, Justas! It charges towards… You… . What is your AC?
+
+**Justas:** T.
+
+**Ekko:** You have a 19AC? That's pretty sweet.
+
+**DM:** It just… it comes up towards you, and it just… it… it… just… its claws, or its bite, you just… you just casually push it aside with your shield. Like, what, are you gonna bite me through the shield? No, you're not. I shake my head.
+
+**Justas:** a bit disappointed.
+
+**DM:** It's Finnan's turn.
+
+**Finnan:** I am going to, let's see… where can I go? I will bonus… let's see…
+
+**DM:** And Schwartz, you're next, and then Eolo goes again.
+
+**Finnan:** There's nowhere good. Is this the edge of the platform here? Like.
+
+**DM:** Are you…
+
+**Finnan:** The edge of the platform is what's shown on the map, there's not any other space.
+
+**DM:** Correct. Correct.
+
+**Finnan:** Okay.
+
+**DM:** He's.
+
+**Finnan:** name. It just came from off the platform.
+
+**DM:** Yeah, yeah, they're flying. They're like, they're almost more wind than shadow. And they came drifting from… they just came blowing in on the wind from off the platform.
+
+**Finnan:** Okay. It's not a great spot for me to go, but I am going to, bonus action… Hope justice can keep this occupied, and Misty Stapp… 2. What is going on here? Okay. Where is I? 1, 2, 3… 4… 5… 6, I'm gonna… So…
+
+**DM:** Is that ain That has thermal components?
+
+**Finnan:** I'm using… I'm casting it without a spell slot. I'm using my Fae Touch. Okay. bonus action. So I'm going to… Vanish and reappear over there. And then… So let me mark off that. Okay, Finnan is scared. I don't like this. And, begins chanting again, playing on his little flute, actually. And… Do I have to make a roll?
+
+**DM:** Are you casting a… what spell are you casting?
+
+**Finnan:** mirror image.
+
+**DM:** Yes. The wind, again, blows down. Every time… like, it seems like when you're trying to summon strong magical effects, there's this… This wind comes and tries to steal your…
+
+**Finnan:** Dean.
+
+**DM:** Don't falter at all.
+
+**Finnan:** And, you now see four Finnans next to each other.
+
+**Eolo:** Whoa.
+
+**Finnan:** All standing, looking at the wolves, unhappily.
+
+**DM:** Justas? I'm over at Justas, like, what's going on, dude?
+
+**Justas:** That was mine.
+
+**Finnan:** bonus act. I can't give inspiration a lot.
+
+**DM:** Or, shorts.
+
+**Justas:** Justas, touches on a necklace a, this little bear figurine with the head of a wolf, he's casting Spiritual Weapon? Do I need to do anything, or the… that just… Is the wind trying to steal my breath, or…
+
+**DM:** But Wayne does translate… yes, does it have verbal components? It is verbal, right?
+
+**Justas:** It does have verbal components.
+
+**DM:** I'm interested, so I'd make a con safe.
+
+**Justas:** Ugh, that's a 4.
+
+**DM:** So, you feel like a choking? You could definitely… you could… you could push through it? It would… it would hurt, but you could cast the spell anyway, or you could let the wind steal it.
+
+**Justas:** No, that's just fine to hurt.
+
+**DM:** You take 4 points of damage.
+
+**Justas:** Awesome. Alright, and, hoists his battle axe, and then a glowing, bluish, identical copy of it appears next to him, and he swings with both of them at once. I'm using a bonus action.
+
+**DM:** That's actually a cat, yeah, yeah.
+
+**Justas:** Regularly, yeah. So, alright.
+
+**DM:** So you're…
+
+**Eolo:** All these extra people coming from?
+
+**Justas:** 19?
+
+**DM:** That hits? That's 5 points damage…
+
+**Justas:** And then the spiritual weapon… Same effect, that's, 23…
+
+**DM:** Yeah, that hits.
+
+**Eolo:** I bet.
+
+**Justas:** And that is 11 points of damage.
+
+**DM:** Make a deck save.
+
+**Justas:** That is not a thing that I do. That's a 6.
+
+**DM:** You take two points of cold damage as the… your weapons just smash into it, chipping away ice, and it shivers a little bit, and these shards of ice come flying at you, and they just sneak through the cracks of your armor. Awesome. And… Eolo, you're up. You can redeem yourself. You're on the ground, and the wolf is standing on top of you.
+
+**Eolo:** Oh, do I have to take an action to get up again?
+
+**DM:** If you want to stand up, you have to use half your move.
+
+**Eolo:** Half my move to stand up. Okay, well…
+
+**DM:** Also, you feel this… this… this, fang that's stuck in your… And your neck pulse with cold, and you take, 3 points of… Cold damage.
+
+**Eolo:** Alright. I will fire my heavy crossbow.
+
+**DM:** Are you switching weapons to your heavy crossbow, or you're doing your two white crossbows? You don't have a heavy crust, though.
+
+**Eolo:** Oh, I was looking at the, they're only…
+
+**DM:** thing… the push effect. I know, but you didn't keep your heavy crossbow. Remember, you only have the two things you held onto, which were your two-hand crossbows?
+
+**Eolo:** I thought I only had the two. Okay, I didn't know there was a different crossbow. Okay.
+
+**DM:** Yeah, there's also a heavy crossbow, which… You might have, it's like a big thing. It's two-handed.
+
+**Eolo:** I see, I didn't realize that.
+
+**DM:** Yeah.
+
+**Eolo:** anyways, I shoot with a crossbow.
+
+**DM:** Standing up!
+
+**Eolo:** Oh, I stand up first.
+
+**DM:** Okay.
+
+**Eolo:** Shoot with a crossbow, yes.
+
+**DM:** 12 misses.
+
+**Eolo:** And… I could shoot again.
+
+**DM:** Yep.
+
+**Eolo:** 2020.
+
+**DM:** Two heads! You can act.
+
+**Eolo:** That's, where's the image there? But then… That's 5…
+
+**DM:** Add a D4 as well. D45.
+
+**Eolo:** for the fire damage. Yeah. How do I roll a D4 here?
+
+**DM:** If you just click on the little dice icon in the bottom… Oh, oh, on the character sheet, yeah. On the character sheet, you can just… so 3. So that was 8 total…
+
+**Finnan:** Me, but you can use it.
+
+**DM:** just use TIMS.
+
+**Finnan:** I was just showing how to roll it, but I realized it doesn't actually show you anything useful whatsoever.
+
+**DM:** So… That was your two attacks, with your bonus action, you could make a third attack, or you could do something else.
+
+**Finnan:** Remember, you got advantage.
+
+**Eolo:** So, yeah, yeah, but first… Immediately after you hit a target within 30 feet with an attack and deal damage to it with a weapon, you can expend one psionic energy die to deal 1d8.
+
+**DM:** Nath.
+
+**Eolo:** free force damage. So that's 9 more.
+
+**DM:** 9 more damage, okay. So, as Eolo shoots your remaining arrow, it flies towards the creature, and you just guide it unerringly with your psychic power, and it goes right through its head, and it falls down dead.
+
+**Eolo:** Nice.
+
+**Justas:** Nicely done, justice calls out.
+
+**Eolo:** Yeah. I will…
+
+**DM:** Use the rest of my move. Which I should have, like, 15 feet left. Yep.
+
+**Eolo:** But where should I go?
+
+**Finnan:** Then I'll yell out, kill the other wolf!
+
+**Ekko:** Yeah. Go there, I have to… I have to go there to attack that one.
+
+**DM:** You probably don't want to go too close to it. You don't need to be in Meiwei, you have… you have crossbows.
+
+**Finnan:** 30 foot range.
+
+**Eolo:** But Eolo wants to be.
+
+**Finnan:** Hayley, obviously. You can come stand next to me.
+
+**Eolo:** Oh, I can't get that far, though. I was, like, over here.
+
+**Finnan:** You only have 15 feet, right?
+
+**Eolo:** Yeah, I'll just… I'll go right there. And then, wait, do I have another action, you're saying? Because I have a bonus action.
+
+**DM:** You have a bonus action, which you could use. To make a second… because with two-weapon fighting, you can make a second attack with your bonus action. So you can shoot one crossbow each with your regular attack, and then you… somehow… you have a third hand, I don't know, I don't know how it works, but you somehow get a crossbow bolt out of your quiver, and shoot a third time in the same…
+
+**Finnan:** H4.
+
+**DM:** That's what the feed is for, yes.
+
+**Eolo:** Shoot a third time.
+
+**DM:** That's right.
+
+**Eolo:** 29. Now I'm rolling dice.
+
+**DM:** There you go.
+
+**Eolo:** That's right.
+
+**Finnan:** Hey, that's a crack.
+
+**DM:** You critted! So, did you… did you roll twice damage, roll damage again, and then also roll 2d4?
+
+**Eolo:** A 7 and a 9, and then…
+
+**Finnan:** Well, it's just a 5, so it's 12 plus 2d4.
+
+**Eolo:** 5 is the 2D4.
+
+**DM:** Okay. So… Eolo finishes your turn. Out of the… Out of the body… out of… as this ice shatters? Four little. Four little… Motes, almost, of, like… of life? Wait, where is… so, your white spell is… You have a license?
+
+**Finnan:** I don't know how to do ranges on here, it's 40 feet from me.
+
+**DM:** Yeah, yeah, yeah, yeah, that's fine. One of these comes flying by Finnan. And as it gets close to you. It darts towards your white, and it goes out.
+
+**Finnan:** My light goes out?
+
+**DM:** My light spell vanishes, yes.
+
+**Eolo:** Okay.
+
+**DM:** Whoa.
+
+**Finnan:** So how dark is that?
+
+**DM:** No, these two, this point right here is shedding dim light, and this point right here is shedding dim light. Here, let me put the… Everything that's now black? is… dark. Does anybody have darkvision?
+
+**Finnan:** That's why I have the light spell.
+
+**Ekko:** Can't cool of Dark Vision?
+
+**DM:** Kenku don't have darkvision. So, none of you have darkvision.
+
+**Jrain:** Nope.
+
+**DM:** So basically, it reduces the vision to that. That's fine. And then…
+
+**Ekko:** Ekko.
+
+**DM:** Yeah, these guys are going. Two of them swarm by Ekko. And one of them swarms… towards Eolo. And they are… as they swarm around you. These, they, they… Actually, one swarms to each of you. All, Jrain, Eolo, and Ekko all make a constitution saving throw.
+
+**Jrain:** Ugh.
+
+**Eolo:** 23.
+
+**Ekko:** 50.
+
+**DM:** These… each one of them just, like. Shimmers and shivers and this burst of, like… Ice? Comes flying out around your face. Eolo and Ekko sort of blink and dodge in time. Jrain, you're blinded.
+
+**Eolo:** Oh, great.
+
+**DM:** And now it is Ekko's turn.
+
+**Ekko:** Am I engaged with the two… the two things? The chickpe, the wisps?
+
+**DM:** Yeah, the wisp is, like, buzzing around your head. Okay. It's only about the size of a… Robin?
+
+**Ekko:** That's fine. Alright, I will, I will do a claw attack against the one that's buzzing me.
+
+**DM:** Okay. Right?
+
+**Ekko:** That is… 20.
+
+**DM:** That hits.
+
+**Ekko:** And… I do 2D6 plus 5. That's cool. Let's see, so… Oh, 2, okay, there we go. 2D6… That's 8 plus 13?
+
+**Jrain:** Well, it doesn't matter because I'm blinded, but it says that I do have darkvision, I don't know how, but it's right here under my saving throws are done with certain dice. I have passive perception of 15 and darkvision of 60 feet.
+
+**Eolo:** O?
+
+**Jrain:** But I'm blind. I don't know.
+
+**Finnan:** Wait, where do you get the acronym from?
+
+**Jrain:** I don't know, maybe I took a feat, God only knows. I'm just reading my sheet.
+
+**Eolo:** How does D&D work?
+
+**Finnan:** It doesn't say, dark… are you… Mike can… I don't think you have darkvision.
+
+**DM:** Maybe I don't. I don't know, I just… Where are you looking that it says you have darkvision?
+
+**Jrain:** If I look in my actions… It tells me to… It's like, your actions in combat.
+
+**DM:** Your beast has dark visions.
+
+**Jrain:** Okay, thank you.
+
+**DM:** So, as Ekko swings a claw up at this annoying little beast, it just… you kill it.
+
+**Ekko:** Okay. Alright, I will then move, and engage the bear, the wolf.
+
+**DM:** Okay.
+
+**Ekko:** And… I will do my bite attack to the… the wolf. Some Baron-wolf action. And that is what… Dope, that's a 12th.
+
+**DM:** Dope. Okay, that misses.
+
+**Ekko:** Okay. And… that's my turn. Oh wait, can I bonus action do anything? What can I do with the bonus action?
+
+**DM:** I don't think polar bears have much with bonus action.
+
+**Eolo:** Oh, polar bear echo.
+
+**DM:** drain Europe.
+
+**Ekko:** I, I, I, I bonus action scratched my ass.
+
+**DM:** Okay, train your eye.
+
+**Jrain:** Well… Vaguely remembering… That I was in the middle of a bunch of enemies, and now I can't see anything. I… fall to the ground in the sort of vague direction of where the Zimkovan woman was to sort of get out of the way, if at all possibly can.
+
+**DM:** Okay. Is, oh, is anybody doing anything about the Zimka woman who's currently bleeding to death on the ground?
+
+**Eolo:** -Oh.
+
+**Finnan:** I… I… I can. I can't. Since it's my turn.
+
+**DM:** Okay. One of the shades disappears. Tim, make a, Hold on, where did I… Make a strength saving throw.
+
+**Finnan:** 19!
+
+**DM:** Ow!
+
+**Finnan:** The best I can roll.
+
+**DM:** This shade appears right next to you. Wait, it appears, like, amongst the four of you. And it's like the wind just shivers as it appears, and you feel like you're pushed backwards, but you resist, you don't get, you don't get pushed. And then it attacks you. What's Tracy?
+
+**Finnan:** 15.
+
+**DM:** It misses. The second shade… Appears… The second shade attacks… Actually, it… you know what? It appears on top of Finn as well. Make another strength saving throw.
+
+**Finnan:** 14.
+
+**DM:** You resist a second time!
+
+**Eolo:** Nice. As these things are trying to push you off the side.
+
+**DM:** But they don't succeed.
+
+**Jrain:** Because there's 4 of them.
+
+**DM:** Well, how does, how does Mirror Image work?
+
+**Finnan:** Did one hit me?
+
+**DM:** Yeah, one just critted.
+
+**Finnan:** It hits a mirror instead.
+
+**DM:** Okay. Whatever you're…
+
+**Finnan:** One of… one of the four Finnans vanishes in a puff of, light, and… well, you can't actually see… nobody can see what happens. Correct.
+
+**DM:** Yes.
+
+**Eolo:** Hmm.
+
+**DM:** But Wolf, then. walks in… swings at… Justas. You said you have a 19 AC? It just hits you, just barely. You get knocked to the ground. You take… 11 points of piercing damage, and 2 points of cold damage.
+
+**Justas:** Awesome.
+
+**DM:** And then, as you're on the ground, it weeps at your jaw, it goes for your throat. Tearing into it. And you take another… 6 points of slashing damage, and again, it leaves a tooth. There's a jagged tooth in your neck. And now it is the Zimkovan woman's turn? Doesn't look super healthy… let's see how she does. Well, she doesn't fail, she… Does not fail her death saving throw. Finnan, you're up.
+
+**Finnan:** Oh, okay, do I have any idea how many shades are around? I think it's two, right?
+
+**DM:** You know there's two of them appeared, but it's hard to actually see them.
+
+**Finnan:** And they can obviously see in the dark.
+
+**DM:** I can see in the dark, yes.
+
+**Finnan:** Too many things to do. Okay, I will… Bonus action, Shout a… A magic word of healing? Just, like, a faint sort of resonant,
+
+**DM:** a song.
+
+**Finnan:** at the Zimkovan woman.
+
+**DM:** Okay.
+
+**Finnan:** Casting Healing Word.
+
+**DM:** Yep.
+
+**Finnan:** So… That heals her 10.
+
+**DM:** Yep.
+
+**Finnan:** And then, I am going to… use… Vicious mockery on one of the shades next to me.
+
+**Eolo:** Yes, yes.
+
+**Finnan:** saving throw?
+
+**Eolo:** So I will curse…
+
+**Finnan:** the spirits of… The wild wind. DC15 Wisdom Safe?
+
+**DM:** I made it.
+
+**Finnan:** And then… I've got my…
+
+**DM:** Justas, you're next, while Tim decides what he does.
+
+**Finnan:** I'm thinking about whether I want to run.
+
+**DM:** Well, Justas Schwartz, go ahead and go while Tim thinks about what he does. You'll have a while before the enemies would have a chance.
+
+**Justas:** First I'll make two attacks on the, the wolf, with my axe and with the… 13? 13's a mess.
+
+**DM:** You take 2 points of damage, or 3 points of damage, and you feel the icy tooth in your neck melt away.
+
+**Justas:** Awesome. I'm sorry.
+
+**Finnan:** I can't actually move my character, Mike, because I'm… In a fog of war.
+
+**DM:** Bah.
+
+**Eolo:** But I… I don't want… I don't like being this close to the edge. I'm gonna run…
+
+**DM:** Now you should be able to move it. Charts, the AC is 15, just tell me if you hit.
+
+**Justas:** That's a natural 20 on one of them, and a miss on the other.
+
+**DM:** Okay.
+
+**Justas:** So, that is 9 points damage…
+
+**DM:** 9 total?
+
+**Justas:** 9 total, yep. That wolves, underwolf.
+
+**DM:** It's badly hit, hurt, but it's not dead. Eolo, you're up.
+
+**Justas:** Hold up, I'll use, I'll do… Bonus action, I'll cast Light.
+
+**Eolo:** Mmm. Right?
+
+**Finnan:** It's not a bonus action.
+
+**DM:** That's not a… that's not a bonus action.
+
+**Justas:** It's not a cantrip?
+
+**DM:** You can't cast anything. It's a cantrip, but it's an action.
+
+**Eolo:** Hmm.
+
+**Justas:** Camp trips can't be…
+
+**DM:** You can't cast… unless it says bonus action on the casting time, you can't cast it as a bonus action.
+
+**Justas:** Got it.
+
+**DM:** If you could cast your spell on the bonus action, you could cast your cantrip in the same turn, but… Okay. Eolo, you're out.
+
+**Eolo:** So there's a Chasm Wisp right behind me, right?
+
+**DM:** It's like a little ice creature the size, or a little glowing shard the size of a robin. Ekko killed one with one blow.
+
+**Eolo:** I will pop a crossbow bolt in it. Okay. 25 to hit.
+
+**DM:** That hits.
+
+**Eolo:** That's the one right next to me.
+
+**DM:** Yep, how much.
+
+**Eolo:** Oh, I rolled, I wrote, oops, 9. And then… Cross Evolve?
+
+**DM:** Kills it.
+
+**Eolo:** With the plus the D4, okay. And… Continuing his graceful spin, Eolo. Should I just take out the other one, or should I hit the wolf? I'll hit the wolf two more times. 15 to hit.
+
+**DM:** That hits.
+
+**Eolo:** And then I'll use… let's see, so I roll… that's 8, and then I roll my… D4… That's another 2… And then I'll use that, what was it called? The Psionic Strike, to do another…
+
+**DM:** that again, okay? So tell me how.
+
+**Eolo:** 11…
+
+**DM:** 11…
+
+**Finnan:** 21 total.
+
+**DM:** Eolo! Kills the second wolf. With another sciatic strike to the head. But you also take 4 points of damage from its tooth that's still embedded in your neck.
+
+**Eolo:** I'll let that get you?
+
+**Ekko:** your head.
+
+**Eolo:** Ugh. What, you mean my endless success?
+
+**DM:** Yeah, don't let your endless success get… keep… get…
+
+**Eolo:** their head.
+
+**DM:** Having killed both of the wolves? This little… this little, Creature. comes over and… Bursts a burst of… Like, needling ice. towards Eolo. But… it just goes… All around you, but somehow none of the little ice shards hit you. The second one… comes by Finnan and does the same thing. Much more effectively. As the ice shards go flying right towards…
+
+**Finnan:** Luxury duplicate.
+
+**DM:** an illusionary duplicate, so you have one left.
+
+**Finnan:** Now you can see a second one… I've got one left.
+
+**DM:** Okay, Ekko, you're up.
+
+**Finnan:** I'm gonna just yell, little help.
+
+**DM:** Oh, girl.
+
+**Ekko:** Sorry, I'm dealing with it. Sorry, just hold on for one second.
+
+**DM:** There's a guy.
+
+**Ekko:** Actually, can you just roll attacks for me? For just polar bear attack? Bear and bite?
+
+**DM:** you can't really… all you can see to hit is the Chasm Wisp.
+
+**Ekko:** All I can see to hit his what?
+
+**Finnan:** The little, the little…
+
+**DM:** I guess this… that shade you can see, no, you can see one of the shades. Actually, you can see that shade. Somebody can just roll Ekko's attack against that shade.
+
+**Finnan:** the 16 and a 19 without modifiers, so I assume…
+
+**DM:** It does both hit, yeah, yeah.
+
+**Eolo:** Nice.
+
+**Ekko:** Alright, sorry about that, y'all.
+
+**DM:** That's okay.
+
+**Finnan:** No worries.
+
+**Ekko:** White thing. Alright, so what, what just happened? Did I, did I… what am I attacking?
+
+**Finnan:** Both your attacks hit the shade, but I haven't rolled damage yet.
+
+**Ekko:** Perfect. So it's 2d6 plus 5 and 1d8 plus… Where's the other one?
+
+**DM:** Just tell me what the total damage is.
+
+**Ekko:** Okay. Here, let me, let me roll it right now. Okay, so… I wanna roll… Oh, I can roll multiple dice at the same time, right? So 1DA, and then… 2D6, and this is plus 11. 21 damage total. Or 20 damage total, sorry, 20 damage total.
+
+**DM:** You… you slam into this… oh, but wait, hold on, there's this…
+
+**Finnan:** This one here, I assume.
+
+**DM:** Yeah, yeah, yeah, yeah, yeah, yeah, yeah. You don't seem to hurt it as badly as you wished you had.
+
+**Finnan:** But you can… you can do… no, Moon Druids at level 6 don't do… Yeah, you could do radiant. Legendary force damage with their attacks, or Radiant.
+
+**DM:** Nevermind! Your claws glow with the strength of your inner… of the strength of the chasm's magic, and it tears through it, even though it seems resistant to regular claws. Yeah, Kate, Jrain can see again.
+
+**Jrain:** Oh, wonderful! Love how that works. Well then… I… I guess I'm just gonna… Is it even possible to shoot at a chasm Wisp from close range? Sure!
+
+**DM:** You have Sharpshooter, right?
+
+**Jrain:** Yeah, true.
+
+**DM:** So, you can shoot in melee.
+
+**Jrain:** Fine. I do. I, however, roll a 12.
+
+**DM:** A 12 will miss.
+
+**Jrain:** But you can take a second attack. I will try again.
+
+**DM:** At first, you don't succeed.
+
+**Jrain:** 16.
+
+**DM:** That also misses. Okay, the shades, are really… Each… the shades, one of them… Swings… this one swings at… Finnan. What's JC again? Is it 14 or 13?
+
+**Finnan:** 13.
+
+**DM:** It hit a… he'd rolled a 14.
+
+**Finnan:** I'm gonna cutting words out again.
+
+**DM:** Okay?
+
+**Finnan:** It misses… well, yeah, it definitely misses.
+
+**DM:** And then the second shade… the second shade…
+
+**Finnan:** Evil.
+
+**DM:** appears… M… And you're… it appears right on top of you, again. Shuddering with… with… with air. Make a strength saving throw. Finnan is tottering on the edge. The shade blows Finnan towards the edge, and you're basically balanced on the edge. Any… any, like, you're… you're sort of… Inches from the edge, any push would knock you over. But, the shades do not still have an attack. And it's your turn.
+
+**Finnan:** I can't see anything.
+
+**DM:** No, correct. You're standing in the dark, on a precipice in the dark. You feel like if you move, you might fall.
+
+**Finnan:** I'm… I am going to use my action to cast light.
+
+**DM:** Okay.
+
+**Eolo:** Hmm.
+
+**DM:** Now you can see! Let's reveal the world.
+
+**Finnan:** So, none of them can… Okay, I'm gonna run. 1, 2…
+
+**DM:** 3…
+
+**Finnan:** for… Five… 6… One of those two shades was wounded, right?
+
+**DM:** Badly winded, yeah.
+
+**Finnan:** I will.
+
+**DM:** way.
+
+**Finnan:** Again, try to…
+
+**DM:** Curse it.
+
+**Finnan:** Oh, sorry, I cast Light.
+
+**DM:** Flight, yeah.
+
+**Finnan:** I will, bonus action, give justice and inspiration.
+
+**DM:** Justas, you're up!
+
+**Justas:** Hmm, mmm, mmm.
+
+**DM:** You're gonna go axe one of the shades?
+
+**Justas:** Am I in melee with the Chasm Wisp? Do I need to take that out first?
+
+**DM:** You are, it's, like, buzzing around your head. It's like the size of a robin.
+
+**Finnan:** Yeah. Ignore it.
+
+**Justas:** Chop that guy first.
+
+**Finnan:** shade.
+
+**Justas:** I'm gonna ignore it. I'm gonna do what Min says, and go.
+
+**DM:** Chop up the shades.
+
+**Eolo:** Here we go.
+
+**DM:** It, it does shoot its little icicle things at you. Oh, it actually hits you. This… this gust of needles come flying at you. You take…
+
+**Finnan:** Ekko is a giant polar bear, so you have to be one below, but you can still kill the wounded shade.
+
+**DM:** You take 3 points of damage as you run away from the robin. The top one is the wounded one.
+
+**Justas:** 1, 2, 3, 4, 5… let me just come around, like, to the side.
+
+**DM:** Yeah. You can also move your spiritual weapon, too, and put it anywhere you want.
+
+**Justas:** Yeah, it's just gonna fall out… next to me?
+
+**DM:** Okay.
+
+**Justas:** Yeah. I'll attack the wounded one first.
+
+**DM:** Okay?
+
+**Justas:** That is another natural 20!
+
+**DM:** That kills it. As far hit points.
+
+**Justas:** And then Spiritual Weapon on the other one. That is another natural.
+
+**DM:** Okay, so…
+
+**Eolo:** Outrageous.
+
+**Finnan:** Nation is really doing a lot of work here.
+
+**Justas:** Wow. Holy shit.
+
+**DM:** 18 damage.
+
+**Justas:** 18.
+
+**DM:** It's badly hurt, that's more than half its health. Oh, wait, is this normal… is this a normal weapon attack?
+
+**Finnan:** Spiritual weapon, it's…
+
+**DM:** Oh, it's Spiritual Weapon. It's not a normal weapon attack. Eolo, you're up! There's not much left.
+
+**Eolo:** I will… Fire at the shade.
+
+**DM:** Okay. Just crit?
+
+**Eolo:** Yes. That's a 29 to hit. Okay. And a crit. Yeah.
+
+**DM:** That hits. Sorry.
+
+**Eolo:** role, Once, for damage, that's 8, and then I roll again.
+
+**DM:** Yep. Is that correct? Yep. That's another 6, so…
+
+**Eolo:** 14, and then a little 2D4.
+
+**Finnan:** You only had the D6, not the plus 4.
+
+**DM:** But then you roll 2d4 fire damage.
+
+**Finnan:** Yeah.
+
+**DM:** And it has currently 2 hit points. Oh, oops, I just damaged… I think I just damaged Eolo instead of… oh, no, I didn't. I didn't, I didn't. It only has 2 hit points left, so your 2D4 fire damage definitely kills it.
+
+**Eolo:** Bam. And then…
+
+**DM:** Eolo continues to clear the field, twirling and shooting his… after that first mistake, you've really got your footing.
+
+**Eolo:** Totally. And then I have 2 more attacks remaining, right, so I can take out both Chasm Whisps, hopefully.
+
+**DM:** Was that your first attack, yeah?
+
+**Eolo:** You good?
+
+**DM:** Yeah?
+
+**Eolo:** Second one is a 15 to hit on the one close to me.
+
+**DM:** They… they dart around, they're fast, they have high AC, you miss it.
+
+**Eolo:** And… with my third attack… I've had…
+
+**DM:** That heads?
+
+**Eolo:** 4… 9.
+
+**DM:** 9, you… which one are you shooting at? The close one.
+
+**Eolo:** The one… the close one.
+
+**DM:** It is dead. the last… Wisp. It doesn't seem to be concerned that everybody else is gone, and it just… tries to… Shoot. A needle gusts at whoever's nearest, which in this case is justice. But it goes wide. And Ekko didn't kill, I mean… Somebody just killed it, the last thing.
+
+**Jrain:** Yeah. Ekko kills the last thing.
+
+**Finnan:** Ekko kills it. End it.
+
+**DM:** Ekko kills the last thing. ads…
+
+**Eolo:** Hmm.
+
+**DM:** The triumphant music plays, and Eolo's had, and Eolo's had. Something soundtrack in the background there. as… Everything, it seems… The danger seems to be gone. As you all.
+
+**Jrain:** Arrows from where the wolf body disintegrated.
+
+**DM:** Yeah, how many years did you… you can recover, like.
+
+**Finnan:** used for.
+
+**DM:** You can recover, actually, you can recover… All of them. It's pretty easy to recover them.
+
+**Eolo:** Eolo looks around and says, well. Thank goodness I was here. My name is Eolo.
+
+**Ekko:** You already said that. You already introduced yourself earlier.
+
+**Finnan:** Oh, well…
+
+**Ekko:** You don't have to save your name twice, and live once, you can just save your name once. And live once.
+
+**Finnan:** Finn and Finn and… there's still two Finnans, walks over, and both Finns give Eolo a little bow. com… And he says. That was good shooting.
+
+**Eolo:** Thank you. Looks like you did some good work yourself.
+
+**Finnan:** no, we'll see. I… I was caught a little unprepared there.
+
+**Eolo:** Yeah, don't.
+
+**Finnan:** I'm gonna laugh, though.
+
+**Eolo:** Oh, yeah, how's she doing?
+
+**DM:** She's… so she's currently, like. Kinda cowered on the ground, like, huddled in a little ball, like… Ow. Oh, you healed her, so she's not dead or anything. But she's like… Actually, is the combo motion still… you didn't…
+
+**Finnan:** Never lost concentration, it lasts for a minute, so… Okay.
+
+**DM:** It has another 30 seconds or so. That was only 3 rounds of combat. So she's kind of looking around, like. She kind of slowly looks up, clearly the calm of motion is still… calming her. But she… she still looks… really… uncertain.
+
+**Finnan:** I, I will… I will say to Eolo and, like, nod. Kind of at the polar bear, I would love to speak more, but I am afraid when this spell ends. this woman is going to be terrified, and I think we must get whatever we can out of her in these 30 seconds we have. And so I will turn back to her and say, in Old Zimkovan. What is this place? Why are you so afraid? In my best, sort of, calming, like… You know, getting stories out of people's voices.
+
+**DM:** Okay. Make a charisma check with proficiency.
+
+**Finnan:** Sorry, I just made the, Okay, I'm debating… no, I don't need to use luck on this, that's fine. 14 plus 3, so…
+
+**DM:** plus charisma, so 21. So, she kinda looks up. And only, only… she's talking in this ancient language that nobody understands except Finnan and justice, but, she kind of… Looks up at you a little bit, like… like… puzzled. And says, sorry, remind me what you asked her?
+
+**Finnan:** what is this place? Why are you still afraid? But the basic question is just, like, tell me your story.
+
+**DM:** Right.
+
+**Eolo:** Hmm.
+
+**Finnan:** Why are you here? What happened?
+
+**DM:** She… she walks around at this… at this place. And the ice bridges, and… you can see, like, just this sinking… Sensation in her eyes, like… Like, sort of… just… just almost a life draining out of her. She's not terrified, she's clearly underselling her reaction, but she says. I'm… back. nobody… Nobody escapes. And yet, Somehow I did. And now I'm back?
+
+**Finnan:** Back where?
+
+**DM:** She sort of points around, and she says. Zeyfa is home… Zeyfa… What's the… what's the name? Zeyfa! Zeyfa's Labyrinth. You do not know? You speak our tongue, yet you don't know the stories?
+
+**Finnan:** I assume I know several… many stories about Zeyfa's Labyrinth, unless they're completely lost, okay.
+
+**DM:** I've never heard of Zeyfa.
+
+**Finnan:** I'm gonna fake it and say… of course I know the stories, and I'm gonna just try to take my fiddle and just pluck on it a little bit, just, like, starting to sort of improvise a little bit of a tune. And I'm gonna tell her, but I'm… I'm here to… I've come here to write down the songs. And yours specifically are ones I have not heard.
+
+**DM:** Mike, is this safe for the West Wind? Yeah. The cruel west wind.
+
+**Justas:** I'll say that in, is Old Zimkovan a spoken language still? Yeah. Like, people still talk about it?
+
+**DM:** So, like, way up in the mountains, like, in the foothills of the Sentinels, on the fringes of civilization, there's occasionally, like, little tribes. Remember the Vargaldi from… Dunbar, the people north of Ersk. The old Zimkovans are kind of related to them. They're not the same… they don't turn into animals in the same way and stuff like that, but… Very few. Like, you would have met a few people here and there on your travels that spoke it, but nobody in Breva still speaks it. It's more of a lost language from the… from the local… Though it'd be surprising to see somebody speaking it. They're few and far between.
+
+**Justas:** Let's just a… I'll chime in to say, over Finnan, Zeyfa the Cruel West Wind, I've… met many, many, many of the Kestavo in this land, but I've never known that Zeyfa had a home.
+
+**DM:** So you would know, I mean, the story is that Zeyfa lives in the castle. You've never totally believed.
+
+**Justas:** Sorry, nevermind.
+
+**DM:** Yeah, you would, like… There's a… there's a myth, a legend, that.
+
+**Justas:** Well, I'll say then, I never really believed that Sif Alif lived in the chasm.
+
+**DM:** The chasm? she says.
+
+**Justas:** What year is it?
+
+**DM:** We don't… We don't count the years. It's been… 7… Seven by seven by seven generations since we came to this land. Or so the grandfathers say. But…
+
+**Finnan:** I'll… I'll try and riff off Justas a little and say, when she's talking about the grandfathers. And they must have stories and songs.
+
+**DM:** They tell the… They tell of a great… Cataclysm that changed the face of the Earth. And… Well… We… we hid from that cataclysm. Many, many years ago, 7x7x7… I mean, you would probably recognize 7x7x7 is almost certainly just…
+
+**Justas:** many.
+
+**DM:** Many, right? Like, they probably… it's not really 21 generations, right? A great cataclysm shook the earth. The swamp strained away. the… The seas changed.
+
+**Finnan:** So I'm… fucking a little bit on my fiddle as well, and trying to get her to just, like, keep…
+
+**DM:** I'm sort of…
+
+**Finnan:** Turning this into a little bit of a song as she begins to talk.
+
+**DM:** And we came to this land to hide from the great cataclysm. But… But Zeyfa is here waiting. We did not know. It was their home. And now… Now Zeyfa demands appeasement. With their labyrinth. No one escapes.
+
+**Justas:** And yet, you got out once before. Or seemed to.
+
+**DM:** She says, sorry, I'm sending Tim a little message. Yes, obviously. Okay. The… Yes. She sort of looks around all of a sudden and shrieks. No, it starts just saying, no, no! I can't. No, and it's, like, just, like, huddled, like, collapses in a ball, and it started just repeating. The Comb Emotions Act.
+
+**Finnan:** Yeah.
+
+**DM:** I… she started… she sort of… I… I can't go in again. The only way out is in, and I can't go in again. No. And just, like, just, like, muttering, like, just, like, saying again and again in, in, in sort of terror. The beast, she says.
+
+**Finnan:** Sorry, what?
+
+**DM:** She says, the beast. And sort of shakes her head. If you find the beast. It… it… she sort of looks at the… looks at the… the fallen, cracked ice. Maybe you… You could… you could kill it, maybe, but I… no. And… hides again, like, in a ball.
+
+**Finnan:** I'm still just trying to, you know. walking at my fiddle a little bit and just trying to get, like, a soothing vibe going, but I'm pretty pessimistic that that's going to… Too much, just not, like, totally ready to give up on her.
+
+**DM:** Go ahead and roll… I don't know. I mean, yeah, you'd have proficiency in this, so sure, roll another charisma check. I can't understand a word of what's going on, but I've been with her for a while, so I'm just sort of sitting next to her reassuringly as I can.
+
+**Finnan:** So… 19?
+
+**Jrain:** Like a scared wild animal.
+
+**DM:** Kate, roll a… do you have… wait, does your background have any… you have, like, a wild animal. I forget what your narrative proficiencies are. What did you write down?
+
+**Finnan:** Diplomacy, bringing messages…
+
+**DM:** Anything about calming…
+
+**Finnan:** move.
+
+**DM:** Calming frightened people? Not really, right?
+
+**Jrain:** No, that was…
+
+**Finnan:** No.
+
+**Jrain:** It was not one, just connecting with animals.
+
+**DM:** Wolf. Nevermind, then. Damn.
+
+**Finnan:** Right.
+
+**DM:** So she… she seems, I mean, she's… she's, like, huddled in a heap, and seems completely unwilling to… like, Shola, you could certainly coax a few… She seems to have a connection with Finnan. You could certainly coax maybe a few… a few small facts out of her, if there was specific questions and you, like, took a few minutes to, like, try and repeat the question and, like, calm her down, but she seems like… Like, just in complete despair and kind of huddled on the floor, like… Totally unsure of what to even do next.
+
+**Finnan:** So, I am going to… Just leave her… She's huddled in a… in a… like, crouched down, right?
+
+**DM:** Yeah, yeah, yeah, she's, like, curled up around herself, like, hugging.
+
+**Finnan:** I will just gently tell her that she's… You know, she's safe for now, and… I will use Minor Illusion to create on top of her a… An image of… Like, the inside of… whatever I can, like, think of as a, you know, a house of… Maybe whatever the, like. cottage in the… in the sort of far north looked like, but it's only 5 feet, so this is basically sitting in front of a hearth with 5 feet of light, and then it's all sort of darkness around. Just to try and give her a safe place so that we can talk.
+
+**DM:** Okay.
+
+**Justas:** I think I'll.
+
+**Finnan:** And I'll just keep that going, just, like, plucking on my fiddle to keep the illusion going, so recasting the cantrip every minute.
+
+**DM:** Try swing, are you gonna say?
+
+**Justas:** Yeah, I'll go looking among, like, all the different, like, charms and relics and symbols of the Kestavo that I've accumulated over the years for something from the high mountains, like, something that I might guess at her being familiar with based on, sort of, dress and speech and… Anything short?
+
+**DM:** Church.
+
+**Justas:** But where she's from.
+
+**DM:** There's a… there's a famous, well-known Kestavo called Romil, the Glacier King, who is supposed to live on the highest peak of the Sentinels, but is also supposed to have a very ancient provenance, and, like, is the old, you know, is… Was here when the people first came, kind of thing.
+
+**Justas:** Yeah, I'll find, like, deep, sort of in the bottom of a pocket, there's, it's a piece of, sea glass that's blue, like, different shades of blue, that looks like a piece of glacial ice that's a symbol for him, and I'll put it in her hands. Say a few words over it.
+
+**DM:** She kind of clutches it gratefully for a moment, and then kind of looks at you and says. There are no Kestavo here.
+
+**Justas:** Well, we'll find our way back then.
+
+**DM:** I can't… I mean, you actually know this is not true. You at least have enough connection to them to cast your magic, but she says, they cannot… they cannot hear our prayers here. We are too far away. I'll say…
+
+**Justas:** I think we may not be too far, and I'll cast light on that little relic thing.
+
+**DM:** Okay.
+
+**Justas:** Glows in her hands and say it's… The Glacier King. Whose power makes this shine.
+
+**DM:** Even here. She kind of clutches it pretty gratefully, like, clutching it close to her and kind of looking at the hearth and is, like, singing a little lullaby to herself, which you've never heard before. It's… it's clearly… not related, doesn't sound related to any of the songs you've collected, right? Like, it seems like a totally different style of vocal arrangement, right? Like, you would actually… Finnan's sense would be it's not even a clear derivative, like, it's clearly very different, right? And it's sort of, like, calming down a little bit, but is still, like, pretty… despairing about her future. But again, you could probably coax a few questions out of her if you had specific questions you wanted to ask.
+
+**Finnan:** At this point, though, I think I will turn. For the rest of the group. And… start to tell the story. Oh, perfect, Kong's back. Kong. Are you still a polar bear? I guess you can understand us if you're a polar bear.
+
+**Ekko:** I'll hang out to polar bears still, why not?
+
+**Finnan:** So… so I'm… Finn and Justas have just been talking to the woman, and now she is… Slightly calm. And Finnan will turn to the group. And, changes the tune on his fiddlest lady, and will begin to tell a story. of… The land as it used to be. back when the Oaks Dreads first… traveled the Green Sea, and I'll stop, and I'll say that Duplicate has disappeared now, I'll say. I'm sorry we weren't properly introduced before. I'm Finnan Oakstride. I am… Quite interested to hear your stories. But let me tell you a story first, what I think we learned from this woman, and I'll begin to tell the tale of A long time ago, like, a couple thousand years ago. Before the big empire in the South, Drankor even existed. All this… most of this land was… swamps.
+
+**DM:** There was a great lizardfolk empire, and that's, in his family legend, anyway, that's when the first.
+
+**Finnan:** Oak Strides. came to the Green Sea. And where is not remembered, or at least he is not willing to tell you. And he says, I think this woman, which she seems to be saying is her people. fled the Great War. ago, not the Great War that we call the Great War, but the Great War that's now Kind of forgotten from many of the stories. The Great War, at the end of which… Land changed, and the swamps dried out, and the lizardfolk sweat, and… I guess the mountains maybe shifted. The myths are confused on this point, exactly what happened.
+
+**DM:** But maybe it was when the chasm…
+
+**Finnan:** came to be. We don't know. But she says her people…
+
+**DM:** Hid here from that war.
+
+**Finnan:** generations and generations ago. And the only way out is through some kind of maze. So, and he gives another short little strum on his fiddle, sort of a dramatic ending. I guess it's a story for how to meet somebody. It's hard to top that.
+
+**Ekko:** Wait, so are you saying she's thousands of years old?
+
+**DM:** Twitter.
+
+**Finnan:** Well, her people have been here thousands of years.
+
+**DM:** She said, like, Herb. The, you know, grandfather's grandfather's 7x7 generations came in here ages ago, not implying that she was that old. Right. There's some people, she's… she's talking about some people.
+
+**Finnan:** Finnan's interpreting this as… yeah.
+
+**DM:** I mean, Kong, Ekko has never heard of any humans living in the chasm.
+
+**Ekko:** Yeah, this is weird.
+
+**DM:** Totally weird, super weird. Like, you've never heard of any such thing as humans living in the chasm. But she seems to be implying she lives here, or near here.
+
+**Ekko:** Okay, so this is all great, and… Sorry, my Zoom… Is my internet… was I freezing?
+
+**DM:** You froze a little bit, yeah.
+
+**Ekko:** So apologies for my friend here for, both starting and ending that.
+
+**DM:** That's.
+
+**Ekko:** battle, but .
+
+**DM:** Who?
+
+**Ekko:** Who, who are you all? What… what is going on here? What are… what's, what is… what is this? What is this place? Where… where… where… who are, who are all of you? Why are you here?
+
+**Jrain:** Do I? Recognize him? Do I know that there are… Okay. But I know…
+
+**DM:** You know the Kenku, right? You know… you know… you've been to the Kemeko Monastery plenty of times, you recognize Kenku, right? You just have never met either of these two Kenku specifically.
+
+**Jrain:** You're giving the impression that you're one of the Kenku from Kemeko. I'm not sure. If we've ever met, but I've… Been called here to… help, find someone who could talk to this woman. She crawled out of the chasm recently in all of this craziness. And nobody could understand her.
+
+**Ekko:** So…
+
+**Jrain:** So, justice and…
+
+**Ekko:** Go ahead, sorry.
+
+**Jrain:** So, Justas and Finn… We're called to come and talk to her. We weren't here when the magic storm brought us here, but… We were coming to… they were coming specifically to talk to her and find out her story. Because she seems to have come out of the chasm.
+
+**Ekko:** But who are you?
+
+**Jrain:** I'm just a local messenger. I… I've been, fighting most recently against the orcs and coordinating the battles that have Been cleaning up after. All of that, ravager. Mess.
+
+**Ekko:** What do you know of the monastery?
+
+**Jrain:** I'm not a frequent visitor, I've just… Noah… no, it's a place where, people… your… Your, group lives. I know very little about what you do.
+
+**Eolo:** Hmm.
+
+**DM:** That's where I'm headed.
+
+**Eolo:** But, does anyone know where we are now?
+
+**Justas:** No.
+
+**Finnan:** I suspect… In the chasm.
+
+**Eolo:** to change.
+
+**Ekko:** Maybe.
+
+**Justas:** Although, the old woman also said we're in the West Winds Labyrinth right now, which maybe is in the chasm?
+
+**DM:** Mike, can you change the music?
+
+**Finnan:** Yeah, that's not the best playlist for this. That's like, you know, sitting around camp music.
+
+**DM:** Yeah, yeah, no, it got… sorry, I… I had a combat playlist, but then it got away from me, let me put so…
+
+**Ekko:** No, you're good, you're good, you're good. The music actually was fine, it was just the, the, the harmonizing,
+
+**DM:** Yeah, yeah, yeah.
+
+**Ekko:** Yeah. Yes. So… I don't know any of you or your history with the Chasm, but I've… Chasm is… is… both. A home and a place to be. Very, very… Aware of, and alert of, too. Ekko will have a look up at the… Ekko will kind of, in a jump, he'll, like… he's still a bear, a bear, has been sitting there, kind of like, you know. Licking his paws and just kinda, you know, scratching himself. It's sort of like, this is so much better as a bear.
+
+**Eolo:** That is…
+
+**Ekko:** And then, he, he, he jumps up, and, like, again, like, does this kind of, like, barrel flip, and then turns into a, into a, back into a Kenku. And, Tim, you're… so this… or sorry, huh, reflex. Mike, so this, the sky, like, you know how you said the sky is all white? Is it, like, like, white as far as the eye-can-see, like, end-to-end type of thing? Like, what's the.
+
+**DM:** Wow, it's dark, so you can really…
+
+**Eolo:** our kids.
+
+**DM:** it's real dark, right? So you can really only see the, like, 40 feet ahead… like, the area right above you, where the… the white spell is, right? But what you see when you look straight up is a dense snowstorm. Right? Like, it looks like the storm you fell through. Like, really intense winds, strong… strong…
+
+**Ekko:** I'm gonna ask… I'm gonna ask you a spiritual question. So, you know, again, this is… does… For… from all of Ekko's intuition, are we inside the chasm right now?
+
+**Eolo:** Hmm.
+
+**DM:** Ekko!
+
+**Ekko:** Chevron, can I check or something?
+
+**DM:** Sure, roll of wisdom. Roll wisdom. Add your proficiency. Well, say one of your, background proficiencies is, is, is… one of your narrative proficiencies is… The War of the chasm.
+
+**Ekko:** Alright, so I'm just rolling Wisdom… is it plus 4?
+
+**DM:** Wisdom plus… roll your wisdom, which is plus… roll a D20 and add 7.
+
+**Ekko:** Okay. Oh, at 7.
+
+**DM:** Okay, I rolled… well, I rolled an 18, so plus 7 is 25. Ekko feels… You can't explain why. But you feel like something's wrong with this place. It doesn't… it doesn't… feel like the chasm. It doesn't feel like wet, like, the biggest thing you can point to is looking up at the sky. It doesn't feel like weather, it doesn't really look like a sky. Okay. Right? It actually looks more like a spell. Okay. When you look at it, right? And it just… it bothers you. You can't put it together.
+
+**Ekko:** So, it actually doesn't necessarily feel like… we could not be in the chasm.
+
+**DM:** you could potentially not be… I mean, you can't really explain how you would fall into the chasm and then not be in the chasm.
+
+**Ekko:** Got it, perfect, perfect. Yeah, so Ekko, Ekko, like, you know, flips, flips into a bird, hovers there for a second, is kind of, like, looking around, is like. I know this place well, and when I say this place, I mean the chasm. It's hard to explain, but… Everything… I'm guessing all of us would guess, would be that we fell in here. I know Ekko and I, or Eolo and I certainly fell in here, but… Wherever the here is, I don't think we're in the chasm.
+
+**Finnan:** Steve, you see my message?
+
+**Jrain:** For us, it didn't feel like falling. We were outside at the camp just north of the chasm. And a big storm hit, and just… could have whisked us up into the sky, as far as we know, or off to a distant mountain. Like, it just transported us, it didn't really feel like falling. Into the chasm. But I thought, since she said. she was back here with… I assume you conveyed that general language. In your storytelling. Fit in? Yes. Since she said she was back here, and my knowledge of where she was most recently is in the chasm, and she crawled out. That we must be in the chasm.
+
+**Ekko:** I don't… I'm not…
+
+**Eolo:** Dune.
+
+**Ekko:** Chasm.
+
+**Jrain:** Well, maybe she wasn't either, but she somehow got from wherever this is to the chasm, and managed to crawl out of the chasm. which is what I want to learn how to do, because I'm very worried about the Vejo Vaikai party, Eidrikas and Pakrinek, who… Did disappear in here.
+
+**DM:** And Eidrikas, by the way, is a name you… that's your mentor.
+
+**Ekko:** Yeah, yeah, yeah. Wait, you know Eidrikas?
+
+**Jrain:** Yes, I was sending birds to watch their progress as they… ventured into the chasm to try to figure out what was wrong, and so when the giant cloud of steam…
+
+**Ekko:** Sending birds? Like, are you talking about us, or what are you, what are you…
+
+**DM:** What kind of.
+
+**Jrain:** No, not… not, kenku. Little birds.
+
+**Eolo:** Don't call me.
+
+**Ekko:** I mean, you just referred to us as that group earlier, and now you're talking about… anyways, it's fine, don't worry about it.
+
+**DM:** Somebody has to be racist to somebody in every game we play.
+
+**Ekko:** She called us the group. I don't know what group she's referring to.
+
+**Jrain:** Do I know that you're a religious group? The monks, or what?
+
+**DM:** No, you, you know the… you… you actually would have known, you know the, the Vejo Vaikai as well. You wouldn't, you wouldn't, you wouldn't, you'd be… there are no, as far as you know, there are no Kenku who are part of the Vejo Vaikai. Bate. I assume that the Kenku are a part of the Kemeko Monastery. But the Mystic group is not unknown to you.
+
+**Jrain:** So, I think that… I assumed that you were part of the Kemeko and their religious practices. If you know, Pakrinek… then…
+
+**Ekko:** I don't know.
+
+**Jrain:** or…
+
+**Ekko:** assume a lot.
+
+**Jrain:** Well, I'm worried about them, because I last saw them in danger.
+
+**Ekko:** You know, you know, Eidrikas?
+
+**Jrain:** Eidrikas was being accompanied by Pakrinek. And all of the Vejo Vaikai We're hoping that they were their best chance as a party to figure out what was going on down here. But we needed to follow their adventures. to… keep communication flowing. And as a messenger. I do that by talking to Birds who would normally be without speech, but with whom I can… Bond and communicate. And so, those… messengers. Go back and forth. I also have a close friend, Rala, who… I hope… will come back to me in… in the morning. Who can take the shape of a bird and… and voyage. So…
+
+**Ekko:** What needs to have of the group?
+
+**Jrain:** the last that I saw of them, there was a horrible hot storm of… painfully hot mist that… that killed my friend Rala. And… I hope that those with arts and skills evaded its… Fiery… not fiery, hot.
+
+**DM:** Smoky, steamy. F.
+
+**Jrain:** effects. But I don't know, and I am worried.
+
+**Eolo:** Hmm…
+
+**Ekko:** I share your worry.
+
+**Eolo:** The storms here are coming. Different flavors. You know, strange.
+
+**Jrain:** is steam… Shards of rainbows.
+
+**Ekko:** What have you, Large Man?
+
+**Justas:** What of me? My… my story, or my thoughts on… Where we are and where to go.
+
+**Ekko:** Why are you here?
+
+**Justas:** Well, I was traveling with the halfling. We were coming because we'd heard of her come out of the chasm.
+
+**Eolo:** I'm one of the…
+
+**Justas:** Keepers of the Kestavo's houses, the spirits who live in this land all over.
+
+**Ekko:** Mike, what are the Kestavo houses? Did I know about those?
+
+**DM:** So you would know, but yeah, so the Kestavo are the local religion. It's basically a sort of small gods tradition, where the idea is that there's, like, a god in every… a little god in a brook, or in a tree, or in a mountain, or in a… in a… waterfall, or… and so… and people sort of build little shrines to the different small gods in these different little places, and worship them, and it's kind of the… it's faded a bit, because the Mos Numena, like, the Eight Divines religion, has kind of come up from Sambara, and is… A more powerful set of gods, and so it's not as widespread as it was, but… They would… you would know. I mean, it's the local religion. You would think of it kind of like, sort of… Shinto, Japanese… With God.
+
+**Ekko:** Sounds very shitty, yeah.
+
+**DM:** Yeah.
+
+**Ekko:** What's the relationship between those and the Mystics? Is it, like, mutual?
+
+**DM:** I think… I think, I think they… I think they are friend… like, I think a lot of the mystics might see the Chasm as kind of, related to the Kestavo in a way, right? Like, some of them probably even believe that Kestavo… one of the vibes of the mystics is that… one of the stories in the local area is that Zeyfa, this evil spirit, the cruel west wind who has to be appeased. To keep from stealing your crops and your children, and so on, right? is… lives in the chasm. But the… and so some of the Kestavo worshippers actually believe that, and are very negative. And the Vejo Vaikai are anti that. They're like, no, the chasm is part of the world that has these… this elemental balance to it. But probably some of your compatriot mystics would believe that actually there are Kestavo, like, there are religious… gods, who are… pro-human, like, you know, not this kind of evil, cruel West Wind who live in the chasm. Others might think it's unrelated to the gods, but it's either… either friendly or neutral. Not… there's no conflict between the mystics.
+
+**Ekko:** I see, I see, okay. Okay. Yeah. Ekko, Ekko, like, like, relaxes a bit. It's like… Kestavo, haven't seen… seen you around here. In a bit, one of you here.
+
+**Justas:** No, I don't… I've never been to the monastery itself, though I've met.
+
+**DM:** More than a handful of…
+
+**Justas:** Kenku trained there over the years?
+
+**Eolo:** What are they like?
+
+**Justas:** Thoughtful.
+
+**DM:** Although, remember, like, come back at the monastery, the Kemeko monastery is, like, The battle-hardened, like…
+
+**Ekko:** Monastery is a weird word to use for that.
+
+**DM:** It's a weird word, right? It's not really a monastery, right? It's like a…
+
+**Ekko:** It's a trip.
+
+**DM:** It's a, it's like a… it's like a, it's like a barracks.
+
+**Ekko:** Yeah, that's exactly what it is.
+
+**DM:** It's really like the… so… so, the Vejo Vaikai, the mystics that Ekko is part of, don't live in the monastery, right? Kemeko, you guys live, like, away a bit from the chasm. You come to the chasm, but you don't live, like, on… it's, like, too sacred of a space to live, like, on its shore, right? On its edge. You, like, live a little downstream. The monastery is, like, a Kenku barracks.
+
+**Ekko:** where they.
+
+**DM:** They, like, train in aerial fighting in the chasm to be, like, to keep alive the deadly arts that Eren taught the Kenku in the Great War, because you have to keep alive the deadly arts.
+
+**Jrain:** But they do that in a chasm so not everybody knows it, so do we think they're just a bunch of peaceful birds who… excuse me… Oh, oh!
+
+**Ekko:** Bunch of birds!
+
+**DM:** It's possible that some… some people… I mean, the Kemeko are… they're… they're… Got that one for you.
+
+**Justas:** Hashtag not all humans.
+
+**Ekko:** I'm gonna huff up my feathers now.
+
+**DM:** Now, that…
+
+**Ekko:** My feathers all up in a huff.
+
+**DM:** The Kemeko is, like… they're very… they're fairly secretive, right? They would probably… there'd be all kinds of stories about what they really are. You would know, you've been there. Like, like, and listen, Ekko. Ekko, like, grew up there. You know they're, like, a battle-hearted group of warriors. You don't really care about the chasm, other than… it's a place to train, right?
+
+**Ekko:** It's a sweet place to train. Yeah, that's like… that's like their… that's like the hashtag, a sweet place to train.
+
+**DM:** Exactly.
+
+**Jrain:** Whereas my impression is that they're some sort of… religious group, because they live in the chasm away from everybody else. So I've been calling them monks and, like, not knowing what they do, because it's mysterious.
+
+**Ekko:** Echoed the whole time is like, humans are weird. You think that they're religious, and you think they're thoughtful? This is a very strange group of humans.
+
+**Jrain:** Clearly, we've never met the Kenku of… that…
+
+**Justas:** barracks. Thoughtful in the sense of not being rash. Not… they're not impulsive, like…
+
+**DM:** Yeah, that's true. Yeah, no, I don't think they're impulsive.
+
+**Justas:** Warriors aren't gonna, like, rush into… like, that sort of discipline is not to be fucked with, but, like, they're not gonna go out seeking people to fuck with.
+
+**DM:** Yeah, I think, I think they're very disciplined. I think they're, like, they're almost more like, they're like, you know, they drill, they, like, have just, you know, they're, they're, they're keeping a, you know, they're definitely.
+
+**Justas:** Justas will amend it. Disciplined is a better word.
+
+**Ekko:** Discipline, that is very good, yeah.
+
+**Eolo:** Like… like me.
+
+**Finnan:** Yes.
+
+**DM:** Not, not like me.
+
+**Finnan:** So, how did you end up in here? Looking at the polar bear.
+
+**Ekko:** I'm not a bird. I flipped up.
+
+**Finnan:** Oh, okay, looking at the… Ekko.
+
+**Ekko:** Well, Well, wherever here is, I'm not sure where here is totally, but we'll get to that in a moment, but…
+
+**Finnan:** Yeah.
+
+**Ekko:** The, the chasm, I… The short version of the story is that I lived at the monastery. I was born, and I lived in the monastery, and know it well, but Well, this wasn't quite for me, so… What's the name of the Mystics again, Mike?
+
+**DM:** the Vejo Vaikai?
+
+**Ekko:** You know of the veil of Ichai.
+
+**Finnan:** I assume I would, no. Yeah, yeah, yeah. They're not…
+
+**Jrain:** Everybody knows them.
+
+**DM:** They're not.
+
+**Jrain:** secretive.
+
+**DM:** Well, they're a little secretive.
+
+**Ekko:** Yeah.
+
+**DM:** They're not really a little secretive.
+
+**Ekko:** Yeah. Right?
+
+**DM:** But…
+
+**Finnan:** print some tails.
+
+**DM:** Yeah.
+
+**Ekko:** Yeah, I… I… I live… I live amongst them, with them, and they've… It's home there. It's home there with them. Humans I trust. They're not looking at as bad. And.
+
+**Finnan:** I guess I was more curious what brought you to this place now.
+
+**Ekko:** Oh, yeah, that's just more, Trying to help my friend here. We were trying to… we were headed to the monastery, and then… Got hit by that storm. I mean, there's all kinds of strange weather here you need to be prepared for and ready for, but… Whatever that was, was… Whatever the normal level of unusual and chaos is related to the chasm, that definitely was… more unusual. But we were just on our way to the monastery.
+
+**Finnan:** And you were also caught in a storm, which you couldn't see through?
+
+**Ekko:** That's right. Same, same for yourself?
+
+**Finnan:** We were about to speak to this woman, and Finnan nods over at the… the Zimkovan woman, who is presumably still huddled by the illusory hearth. This whole time, Finnan's been sort of plucking on his fiddle a little bit, maintaining this illusion. We were about to speak to her when… A great wind and storm of snow. Grabbed us, and… Dragged us somewhere. But I begin to wonder if this really is the chasm.
+
+**Ekko:** I'm not sure that it is. How many of you been to the Chasm?
+
+**Finnan:** Not below the river.
+
+**Ekko:** YouTube, looking at the two at two other humans.
+
+**Finnan:** I'm not human, I'm a halfling.
+
+**Ekko:** I know, the two… sorry, the two humans.
+
+**Finnan:** Yeah.
+
+**Justas:** You can tell by his height, mostly. It… Have we never in the chasm? you know, I've seen it from different… Parts of it from a distance. I know the contours of the place, but never in.
+
+**Ekko:** Yeah.
+
+**Jrain:** I have business in Kemeko from time to time.
+
+**Ekko:** Hmm. Hmm. Well… And sorry if I missed this, so did you all speak to the woman, or no?
+
+**Finnan:** Yeah.
+
+**Ekko:** Okay, and she… and then you told the story, you're saying that…
+
+**Eolo:** True. Does the monastery at Kemeko Is it below the river or above it?
+
+**Ekko:** Below, right?
+
+**Finnan:** low.
+
+**DM:** It's… it's in the cliffside, about 600 or 800 feet below the river, and you have to get there either by flying, which is the expected way, or by climbing down these giant steps that are about 25 feet tall, that then have separate steps carved into them.
+
+**Jrain:** It's a lot of climbing.
+
+**Eolo:** Not for everyone.
+
+**DM:** I mean, it usually takes a day… usually people take 2 days to climb down, right? It's like… Probably 5,000 steps, or something like that, and you usually would camp On one of these giant steps, which is a nice little platform to camp on, and then keep going down the lake the second day.
+
+**Ekko:** And, and we.
+
+**Jrain:** I love a lot of climbing, but…
+
+**Ekko:** We think it's the, the giants that made this, the monastery.
+
+**DM:** It's certainly sized for giants. Whether they actually made it, nobody really knows.
+
+**Ekko:** But is the mon… what's the… is the monastery giant-sized, or is it human-sized?
+
+**DM:** No, the buildings are all big. I mean, the Kenku have restructured it to fit the Kenku, but the monastery itself is large. It's big.
+
+**Ekko:** Got it. But…
+
+**DM:** It's also kind of too, like, it's weird, like, nobody really can explain it, right? Like… The Kenku took over and abandoned. like, the Kenku are the only ones that anybody knows who have inhabited it, but they didn't build it. It was already there when they moved in.
+
+**Ekko:** Oh, this is… this is random. The Kenku in the… in the monastery should have, like… because I was thinking about, like, ways that they do, like, insignias and, like, ranks and shit like that, because they would be all about that, and I was like, oh, maybe they… I was like, they should have blood feathers. They should have, like, you know, blood feathers for, like, different, you know, blood from different animals and stuff that they find and kill inside the chasm. And then, like, different types of, like, blood feathers in different places, like, mean different things. Cool. Also, it's a cool turn, blood feathers.
+
+**Eolo:** I like it.
+
+**Finnan:** So… Where do you think we are?
+
+**Ekko:** Who are you looking at?
+
+**Finnan:** at… sorry. It's hard when you're not in person. I'm looking at Ekko, who seems to be… the most deeply connected to the chasm from the short conversation we've had.
+
+**Ekko:** Do any of you, are you familiar with elemental magic, or any other magic? The reason I ask is, you know, I can't shake the feeling that Wherever we are, this is, magical in nature, and… this environment. We might be in the chasm, but… Somehow, in a… in a… In another space.
+
+**Finnan:** Hmm. Familiar with magic, but more of the magic of… stories than elements. I've been collecting stories for many years now, and… I find the strands of magic in many of them. But there's… Some strange story is about the West Wind, and about… the people here… I spent a while traveling On the other side of the Sentinels, about 10 years ago. So, people there, the Deno'qai, who speak A language that… Sounds strangely similar to Old Zimkovan, although I never quite picked up the tongue. And among the elders of the Deno'qai, there are stories about when people first came to the forests on the western slopes. And sometimes would think, The trickster fae were gods. It makes me wonder…
+
+**Ekko:** You think the fan?
+
+**Finnan:** Could be.
+
+**Ekko:** Mike, have there been… have there's ever there ever been a history? Is ECHO aware of anything, aware of any fixture, FE, FEY activity around here?
+
+**DM:** I don't… I think… I mean, the fey are not common. They're not… it's not like you've never heard of, sort of, fae activity, but they're not, like, a big part of, the… their experience. There are, you know, there are people who appease the cruel West Wind, and to some outsiders, it does seem kind of fey-like, in a way, right? Like, people will… people will leave out, you know. some food for the West Wind's children, right? And we'll… or will, you know, give… throw the… the best fish into the river to appease the West Winds children. And some outsiders sometimes think that is a little bit… GitHub. Fey-ish? But… but to… to the locals, most people would say, no, no, no, what are you talking about? It's the… it's the spirits of the West Wind.
+
+**Jrain:** if we can get a coherent answer, I'm kind of curious what she thinks you do to appease the West Wind, because I kind of have the feeling it's more than… Throwing a fish in the river.
+
+**DM:** Like I said, you could ask her, you could probably coax, like, 2 or 3 questions out of her. You could ask her.
+
+**Finnan:** Oh, absolutely.
+
+**Jrain:** she said that we could follow up on, as far as I'm concerned, are the only way out is in And… something about appeasing the west wind.
+
+**DM:** She… she kind of… she kind of looks, like, at Finnan a little bit, like… She kind of is noticing for the first time that you don't look… Human? And it's like, looks at you a second time? Kind of puzzled, like, actually, she's clearly never met a halfling. What… and she looks at you kind of oddly for a minute, like… Wh-what are you?
+
+**Finnan:** Finnan will be very, like, calm and understanding and gentle, and talk about… Just, like, spin a tale about travelers and wanderers who have… Pass through the world. For many, many years, even when there were Great. Swamps in the lowlands? And will apologize that none of them have found her village yet, and… Say that he is trying to make up for that deficit and bring… Stories and songs. To her people, too. And that's what his people do.
+
+**DM:** She seems… she sort of processes that, but doesn't seem too bothered, right? Like, she sort of calms… she, like, realizes, okay, I guess you're a traveler. She kind of accepts that story. She doesn't seem to have put together the two bird-like creatures as things keep talking.
+
+**Jrain:** And she's not saying anything about Elo, and…
+
+**DM:** Well, neither of them have tried to talk to her. She doesn't seem to be processing them as, like, humans, as sentient creatures. I mean, she doesn't… she's, like, not even really noticing she's, like, barely looking up, like, she's basically huddled like this, and kind of only looks up when Finnan comes to talk to her.
+
+**Jrain:** I mean, she came up into the Kemeko Monastery, though, she was…
+
+**DM:** She was terrified of the Kenku, though. She wouldn't talk to them.
+
+**Jrain:** Okay.
+
+**DM:** Right? She, like, had no idea. She, like, was… that's one of the reasons.
+
+**Jrain:** She didn't know she could talk to them. That was one of the problems.
+
+**DM:** Yes, exactly. One of the… one of the challenges, and one of the reasons you left with her was because she was… thought the Kenku were basically monsters, like, she was totally… and probably they were all carrying their blood feathers around and be like, we killed 17 bloodhawks today, we're the coolest, right? They probably were not the most welcoming, but… She says. Sorry, go ahead.
+
+**Ekko:** beans.
+
+**DM:** beings.
+
+**Ekko:** Just looking at the non-Kenku, like, not people, beings.
+
+**Jrain:** Oh. Okay. Thank you.
+
+**Ekko:** Yeah, it's alright, just so you know.
+
+**DM:** She says to figure it out.
+
+**Ekko:** Human-focused, that's all. Go ahead, sorry.
+
+**DM:** To answer the question, she, she, she says, well, once… when the… When the sun sets. And the… and the new… and the new ones are… old enough. the West Wind demands… A sacrifice. And… and one of us… is sent. She kind of looks up. Through the cloud. Into its labyrinth.
+
+**Jrain:** And after the visit, do you… well, I don't know, I can't ask questions.
+
+**DM:** Hey. I do not know what she just… she looks like. The sun must have risen by now. It will be a while before the next sacrifice.
+
+**Finnan:** Hmm. Finnan will… well, kind of… Thoughtfully look up at the clouds.
+
+**DM:** And you can't… I mean, you can't see anything except the light from the dim… from your light. Like, you can just see the very bottom of the storm. So… I mean, I'm gonna say, you guys may as well take a short… you've been talking for long enough that you can probably just… you should probably just take a short rest.
+
+**Finnan:** Yeah.
+
+**DM:** Unless you… unless you… Want to do something else. Bet. I mean, as you're talking, after maybe…
+
+**Finnan:** Oh, so the other thing I'm gonna do, actually, when there's a… when there's a minute. when Finnan's not, like, actively engaged, or has a minute to kind of step away from the group, I'm gonna ritual cast. Detect Magic.
+
+**DM:** Okay?
+
+**Ekko:** dude.
+
+**DM:** M… Justas's shield is magic.
+
+**Finnan:** That drains Clocus magic.
+
+**DM:** Ehhh.
+
+**Finnan:** With no other magic anywhere.
+
+**Ekko:** Kaizen Magic?
+
+**Jrain:** Giant white cloud is not magic.
+
+**DM:** The… The sky… is not… I mean… It's actually an interesting ques… I actually don't… I know I have to consult with you, Tim, about what is patching. You get this, I mean…
+
+**Ekko:** The spell's like, meh.
+
+**DM:** Ehh… No, you don't, you don't… nothing to tag, nothing's magical.
+
+**Finnan:** Okay.
+
+**Ekko:** I mean… Obviously, we'd come back, but we could just try flying out of here and seeing what's on the other side of that cloud. Eolo, she wanna go check it out?
+
+**Eolo:** -Oh, just recharging my… Nick Power thing.
+
+**DM:** Don't they only be checked on a long rest?
+
+**Eolo:** It says, you can… you remain one…
+
+**DM:** Yeah, you were getting one and a short rest. Yeah.
+
+**Finnan:** I mean… Tom.
+
+**DM:** As you've been talking, the… like… After… you've sort of been talking for a while, and like, you've been engaged with each other and stuff, and the… but you've noticed the… the… the cloud is kind of… shrinking lower, and the wind is now just howling a little bit more. There's, like, occasional direct swirls come out of the cloud down, like, little mini whirlwinds of snow come down and, like, touch the… touch the ice. And the draft is higher, right? Like, I guess you don't have any… you have nothing that would actually flicker in the… but, like, your feathers ruffle a little bit more, like, the wind is just blowing a little bit stronger. And every once in a while, you… you just… you hear, like, a howl on the wind, like, not… That, like, animal… just, like… just, like… It doesn't sound like the wind, but it doesn't really sound like an animal either, it just sounds primal. And, you know, so as one of these whirlwinds of snow, touches down the, The woman, like, curls even tighter into herself, and is like… It doesn't like waiting.
+
+**Ekko:** The wind?
+
+**DM:** The beast.
+
+**Ekko:** What beast.
+
+**DM:** Zyphus… Minion. The beast in the… in the maze.
+
+**Ekko:** Where's the maze?
+
+**Eolo:** Maybe we're in it.
+
+**DM:** to kind of…
+
+**Justas:** platforms and bridges.
+
+**Finnan:** I'm gonna… there's, like… what is the ground made out of?
+
+**DM:** Ice.
+
+**Eolo:** Nice.
+
+**Finnan:** I'm just gonna, like, chip off enough ice to make, like, a little snowball, cast light on it, and, like… Chuck it down the path of one of the bridges.
+
+**DM:** It… Skitters down the bridge about 20… 15 or 20 feet, and then… fall, like. You see it kind of go over a little bit of an edge, and then you can see, glowing, like, there's still a faint glow coming up from the edge of the bridge. Like, it skittered along the bridge, and then it rolled off on the far end, which… it was hard to see the details, because…
+
+**Finnan:** It's like…
+
+**DM:** But you could still see the glove, I mean, it's still… it couldn't have fallen that far, because you still see the glow. Like, it just fell maybe 10 feet, and it's now, like, you can see a glow coming up. Kind of illuminating, a space.
+
+**Finnan:** Same thing on the other bridge.
+
+**DM:** Yep. It kind of maybe… it's maybe, like, fell into a snowbank or something? Like, it's hard to tell exactly what it fell into without walking over there.
+
+**Justas:** I'll do the same thing, but lean over the edge of the platform and just drop something straight down below me with light on it.
+
+**DM:** So, it… it… Falls about… 10 feet, and then it comes, like, you hear a gust of wind, like a strong sound of the wind, and it comes, like, at high speed, flying back up and slams into the… into the ice. I mean, presumably this was a piece of ice, so it… I mean, whatever it was, if it was another piece of ice, shatters and skitters across the ice.
+
+**Eolo:** Hmm… Eolo looks over at Ekko and says, I wonder… Starts to step over to the edge.
+
+**Ekko:** Ekko also gets over to the edge. Let's do it.
+
+**Eolo:** Count of 3.
+
+**Ekko:** 2… 1… Alright, we go.
+
+**DM:** What are you, what are you doing?
+
+**Eolo:** Well, Eolo's idea was just to leap straight down and see if the, gust pushes him back up and do an amazing trick.
+
+**Ekko:** Too much… too much testiculating. Okay, there you go.
+
+**Justas:** just turns to Finn, and they seemed nice. Where to now?
+
+**DM:** So… so hold on. So, Eolo jumps!
+
+**Ekko:** No, we both jumped, we both jumped.
+
+**DM:** Okay, so you're jumping, and just see what happens.
+
+**Ekko:** We're diving into the… we're just going down. Yeah, we're diving down.
+
+**DM:** Make strength saving throws.
+
+**Eolo:** Oh, boy.
+
+**Ekko:** I'm sure this is gonna be good. I really just wanted to do the arm thing with Eric, that was kind That was our main discussion in the breakout room? about that.
+
+**Eolo:** Whew! Unusual role for strength like that at 22.
+
+**Ekko:** One.
+
+**DM:** Okay.
+
+**Ekko:** I rolled a 2, but I have a minus 1 on my strength, so…
+
+**DM:** Right. And wait, you got a 22, you said?
+
+**Eolo:** Yeah.
+
+**Ekko:** How'd you do that?
+
+**Eolo:** I rolled very high.
+
+**Ekko:** What's your, what's your modifier for Strike?
+
+**Eolo:** I think it's also minus 1.
+
+**Finnan:** But he has a plus…
+
+**Eolo:** Oh, no, it's…
+
+**Finnan:** You've got a plus 3 to the strength save.
+
+**DM:** Right.
+
+**Eolo:** Oh, from some…
+
+**Finnan:** You're proficient in strength.
+
+**Eolo:** So, you both jump off.
+
+**DM:** And… you… glide, you know, you sort of fly down maybe 15 feet when this very strong wind, catches, like, this… just this gust of this, like, wind. It catches you. Ekko, you're just flung up, like, with violent force, and, like, catapulted over the… the… back onto the platform and smashed face-first into the ice, you take 16 points of damage.
+
+**Ekko:** Dammit.
+
+**DM:** Eolo, you are not… the wind is buffeting you, and you're… but you… but you maintain your position, right? Like, you… you're kind of… you're hovering carefully, like… a few minutes, you know, I don't know if you, if you, if you wait, another gust will probably come, and you can't go down it.
+
+**Eolo:** My intention was to see what was down there, and then use the power of the gust to do an amazing, like, triple backflip back onto the platform.
+
+**DM:** Okay, so are you gonna… so you can't keep going, like, swimming… not swimming, flying further down, it feels impossible, right? I mean, maybe if you were much stronger, you could try and push your way, but at the moment, you're, like, being pushed up with a strong enough force that you can't keep going. But you're, like, balancing such that it's not actually flinging you up. So, you could try and just…
+
+**Eolo:** clean trick. Yeah.
+
+**DM:** You're gonna try to do that.
+
+**Eolo:** Push myself down, and then bounce back up, yeah.
+
+**DM:** Okay, make a… make a dex. make a DEX.
+
+**Eolo:** Acrobatics.
+
+**DM:** well, just roll DEX, and you don't have any… do you have any reason why you'd be proficient in this kind of thing? Well, I forget what you said, your background, your background… so the idea behind the narrative proficiencies is I'm trying to say instead of what skill to use, just what ability to use, and then if your narrative proficiencies.
+
+**Eolo:** Ugh.
+
+**DM:** would apply, you could say, well, I'm really good at this, and you get to add your proficiency bonus.
+
+**Eolo:** Eolo has an unwavering and insanely powerful belief in himself to do tricks. He is ultra-confident.
+
+**DM:** Specifically, because you can't just say he's ultra-confident and therefore gets to succeed.
+
+**Finnan:** It applies to all ability checks that involve showing off.
+
+**DM:** There you go, perfect! That's what I'm doing.
+
+**Eolo:** That's what I'm talking about.
+
+**DM:** That's what you're asking for. Like a competition, or… Right, right, yeah, yeah, yeah, okay.
+
+**Eolo:** Very true.
+
+**DM:** Add 7, roll D20, add 7.
+
+**Eolo:** Nice. Alright, so… I don't know how to do the plus on this stuff.
+
+**DM:** You just roll a straight D20, or just roll… click on the… see the plus 4 under your decks? Just roll the decks, and then add 3 to that.
+
+**Eolo:** Oh, so my raw D20 roll was 11.
+
+**DM:** Okay, so add 7 as an 18. Yeah. So, y'all, Comes flying out, does a backflip, skates along the ice, a triple backflip, lands with one foot along the ice, puts the back foot claw down to drag to a halt, and stops right in front of Ekko, who is bleeding with his face punched in by the ice.
+
+**Eolo:** Oh man, Ekko, what happened?
+
+**Ekko:** Ekko gets up, wipes the blood off his face. Beak. He smooths out his feathers. Well, yeah, so we can't fly down there, that's for sure.
+
+**Eolo:** Well.
+
+**Ekko:** Looks like we have to go one of these two paths, huh?
+
+**Finnan:** Yeah, I think… We're gonna have to walk out of here. Hannah… Interested to see… I'll look over at the… the Zimkova woman, and… If I haven't before, I'm gonna ask her what her name is.
+
+**DM:** Oh, yeah. Her name… no, no, no, I had it, I just… I closed it to look at the Gestapo. Her name is Kalima.
+
+**Finnan:** I'll say to Kalima. Which, I'll just try and get a sense from her if she has any idea, like, are the… does the path matter? Like, do people…
+
+**DM:** she sort of shakes her head and is, like, the… All paths lead to the beast. I… I don't know how I escaped.
+
+**Eolo:** What is this beast?
+
+**DM:** She'd never met the Beast, right? All she knows is this story. I mean, she kind of… She's not totally convinced you guys couldn't kill the beast, you did a pretty good job killing these scary wolf things.
+
+**Eolo:** That's right.
+
+**DM:** but she, she doesn't… I mean, there's… she doesn't have any specific knowledge of what the beast is, but… but she sort of… she tells you that it's kind of like… it… it's… it's… she doesn't know, like… like, she doesn't really know how she found a way out. She said she found… she saw a… a… An earthen tunnel, and she just dug through it. But she doesn't know how she found it. Ed.
+
+**Eolo:** I know.
+
+**DM:** And the paths generally all lead to the beast, she says.
+
+**Ekko:** Wait, so when we… can she only understand Finnan, or can she understand.
+
+**DM:** and justice, only if they need justice. But they can translate. Although. Although, if you guys… if you, like, if Ekko… Well, tell me what you're trying to do.
+
+**Ekko:** Just wanna talk. Can we just talk and then assume that the translating is happening?
+
+**Finnan:** I'm… I'm, like, still trying to keep this illusion up so that she can't… she can't see outside of the… Okay.
+
+**DM:** So you're keeping the Kentu kind of hidden from her, right.
+
+**Finnan:** Yes.
+
+**Ekko:** Oh, fine.
+
+**Finnan:** I don't want her to freak out.
+
+**Ekko:** Fine, fine, fine, yeah, get it.
+
+**DM:** But you can talk and pass along the message. Yeah, that's what we're doing, yeah.
+
+**Ekko:** So, just… are we in the maze now?
+
+**DM:** Yeah, this is the entrance. Which way? This is… she… I mean, she fell through the same…
+
+**Ekko:** Yeah, yeah, yeah.
+
+**DM:** sheet.
+
+**Ekko:** There's… but there's two paths right now, right?
+
+**DM:** doesn't matter. The maze takes you where the maze wants to take you.
+
+**Eolo:** Hmm.
+
+**Ekko:** Let's… let's get out of here, then. Let's move… let's keep moving.
+
+**Finnan:** So, just one quick metagame thing, so Druids can use… a… either a spell slot or a use of Wild Shape to cast Find Familiar without material components, so if you wanted to, you could summon a familiar, and send it to Go Scout. But it might just vanish into the mists, and you'd never see it again.
+
+**Ekko:** Cool.
+
+**DM:** Nate can also summon her bird.
+
+**Finnan:** Not according to the rules.
+
+**Jrain:** And he said it had to be right after a long rest.
+
+**Finnan:** You can only summon the beast when you complete a long rest. But you don't have to play it that way.
+
+**DM:** No, I think you could… you could… .
+
+**Finnan:** Normally, if it dies, you have to… if it dies, you have to take a… either.
+
+**DM:** Yay!
+
+**Finnan:** spell slot to heal it, or…
+
+**DM:** Yeah, yeah, yeah, yeah. But, but, I didn't intend… .
+
+**Jrain:** You didn't intend you can only have 10 arrows and everything you can.
+
+**DM:** No, no, no, no, no, sorry, I didn't realize how your… I… when it burned up, and that was several days ago.
+
+**Jrain:** Right. So…
+
+**DM:** Here's what I… In Denver.
+
+**Jrain:** You tell me if you're the DM.
+
+**DM:** Yeah, yeah.
+
+**Jrain:** But I heard that every morning I wake up. And Rala appears, and we have a frolicking fun day together. Yeah. Except that this morning I woke up, and Rala appeared, and I went off to go travel with a Zimkovan woman, and a giant storm of immense wind capacity whipped me into another dimension.
+
+**DM:** Yeah, but Rollo could have survived the storm.
+
+**Jrain:** Okay, so she's.
+
+**DM:** Because, I mean, the Zimkovan woman only had 5 hit points, she survived the storm. So there's no reason why Rala wouldn't have survived the storm. I thought it was like a familiar that you summoned and dismissed whenever you wanted. So, I thought you just didn't have… no, Rala would have survived the storm. There's not a… I mean, none of you took damage.
+
+**Jrain:** She wasn't so battered by the wind that she disappeared, and I can't see her again until tomorrow morning.
+
+**DM:** Yes, yes.
+
+**Jrain:** That's good news.
+
+**DM:** I mean…
+
+**Ekko:** Yeah, I'd do that. I, I, I get up, familiar.
+
+**DM:** Are you using…
+
+**Ekko:** What are… what are some good animals?
+
+**Finnan:** Well, your only choices are… Your only choices are…
+
+**DM:** You… you do… just one… one note, you do get a strong sense from this… from Kalima, that, like. This is not… the labyrinth is not the kind of place you sleep.
+
+**Eolo:** Hmm.
+
+**Ekko:** I don't want to waste both slots doing this.
+
+**Finnan:** Yeah, I mean…
+
+**Jrain:** If Rala's already here, maybe we should just send her.
+
+**Ekko:** Yeah, I'll see that. Rawl is here, let's see that.
+
+**Jrain:** Right. Having gone unnoticed as she stayed through…
+
+**DM:** I'm gonna say she was battered by the fall and recovered. You nursed her back to life as… to health as part of the short rest.
+
+**Jrain:** Alright, Grace.
+
+**DM:** You guys also, by the way, anybody who wants to spend hit dice during the short rest, you certainly can.
+
+**Finnan:** Yep.
+
+**Justas:** Yep.
+
+**DM:** Yeah, so you're sending Rala?
+
+**Jrain:** I am sending Rala.
+
+**DM:** What is Rala? I guess I should have read your Beastmaster abilities more carefully. Rala has darkvision, and can Rala communicate with you mentally?
+
+**Finnan:** No.
+
+**Jrain:** No.
+
+**DM:** So you just, like, give her instructions, and she goes off and then comes back?
+
+**Finnan:** Yes.
+
+**DM:** Okay, what instructions are you giving her?
+
+**Jrain:** I say… We're gonna head off in this direction, can you go a short ways and see if there's any obvious, dangerous beasts?
+
+**DM:** She… how… Okay, she… she comes back a few minutes later and basically tells you there's a… There's a… there's a room. Like, the bridge leads… into, like, the ceiling of a… of, like, a snowbank, basically. And there's an opening, but you can jump down into the snow. It's like… And then there's four, sort of, passageways going off into, like, Going, like. The geometry is kind of a little hard to understand, like, it doesn't quite seem… Like, it totally fits, but there's basically four branches, like, 4 going, like, into the… it, like, tunnels into the snow. So it's almost like a massive snow bank, and there's, like, these four narrow tunnels, like, weaving… Bleeding into the snow. Each going out. So it's probably your best mental picture, is you're in an empty black space, floating, with all this wind, and then there's snow over there somewhere, and you can jump into it, and then there's these four tunnels, each… your bird didn't go down through any of the four tunnels. But there was no signs of any creatures.
+
+**Jrain:** Alright, let's go get ourselves lost.
+
+**Finnan:** Yeah.
+
+**Jrain:** Are we gonna… I mean, poor… Poor Kalima doesn't seem to have the vibe of wanting to go back in, but on the other hand, she doesn't seem to be safe just sitting here.
+
+**DM:** Indeed! She's not gonna go back in, unless you physically drag her.
+
+**Jrain:** Alright.
+
+**DM:** I mean… You could physically drag her.
+
+**Finnan:** Wow.
+
+**DM:** It's not necessarily…
+
+**Finnan:** the stronger. I guess Justas could probably physically drag her. Maybe drain.
+
+**Justas:** I feel like we… I… we can persuade her. I'm gonna take a crack at, like, persuading her to… Like, she's gonna be safer, for sure, with us than…
+
+**DM:** Left alone? Like, who knows what random shit's gonna show up to…
+
+**Justas:** Chomper.
+
+**DM:** Alright, make a… make a persuasion check.
+
+**Finnan:** I'm… I'm gonna… I'm gonna help Justas with this.
+
+**DM:** Okay.
+
+**Justas:** That's, 18… I still have… I think I still have a Bardic Inspiration floating around, if.
+
+**Finnan:** It only lasts an hour, so if we took a short rest, you don't.
+
+**Justas:** Oh, okay, nevermind.
+
+**Finnan:** But I'm… I'm helping with you, so you have advantage.
+
+**Justas:** Right. Do that again… 18 is the better of the two.
+
+**DM:** What's, what's your, like, your argument it should be safer with you?
+
+**Justas:** Yeah.
+
+**DM:** She kind of looks around at you for a minute, at the group of you, and kind of… Looks at the two… Bird creatures? What are they?
+
+**Justas:** They're, they're a Kenku. They're, they're perfectly ordinary, results of COVID that they can't understand, I presume.
+
+**Jrain:** They're perfectly ordinary.
+
+**Justas:** Person-bird hybrids, you know, it's… It's just one of those things, they're from another… Another part of the country. I've seen… I've seen so many Kenku. They're perfectly lovely. They're, you know, they're on their own trip, but they're… they're nice.
+
+**Ekko:** I think he's saying good stuff about us.
+
+**DM:** She looks? A little terrified, but is like… Wait, who cast healing on her?
+
+**Finnan:** Finn in.
+
+**DM:** spinning. She's like… if I could… if I could… stay between the two of you, maybe, pointing to Justas and Finnan.
+
+**Justas:** Yeah.
+
+**Finnan:** Yeah.
+
+**Justas:** Yeah, yeah, yeah. You know, until you get to know them a little bit better.
+
+**DM:** Don't… Don't… promise… on the Kestavo, who are not here. That you won't leave me down there.
+
+**Justas:** I promise, says Justas.
+
+**DM:** Okay, you convince her. She'll come with you.
+
+**Justas:** I'll say in common. She's coming with us. She hasn't met Kenku before, so she's a little freaked out by the… The two of you, just… just because it's new and different, not… Not because humans automatically have problems with Kenku.
+
+**Eolo:** She's gonna love it.
+
+**Justas:** I mean, like, she's literally never seen a Kenku before, so it's… It's just a lot for her. Go easy.
+
+**DM:** So, are you, jumping down into the snow tunnel?
+
+**Justas:** Let's do it.
+
+**Finnan:** Yeah.
+
+**DM:** It's, it's 11.45. Are people good going another, like, 20 minutes, or do we want to stop now?
+
+**Finnan:** I'm good, but I'm not the one who falls asleep, so… I'll go with the group. Eric probably wants to go to bed.
+
+**Eolo:** I, I, yeah.
+
+**DM:** We can stop now.
+
+**Justas:** Lots of stuff now, yeah.
+
+**DM:** Yeah, yeah, we can stop now. We should… I realize it occurs to me we have not scheduled. We have to schedule.
+
+**Finnan:** Yeah.
+
+**Eolo:** Cool.
+
+**DM:** Wow, I found this really fun, I hope you enjoyed it. It's not exactly what I expected to happen, but that's okay.
+
+**Finnan:** Never is.
+
+**Eolo:** That's called the Indy.
+
+**DM:** Yep. No, it's fine.

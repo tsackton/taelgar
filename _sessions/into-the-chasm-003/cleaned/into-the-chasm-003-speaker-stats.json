@@ -1,0 +1,68 @@
+{
+  "totalDurationSeconds": 9239.126,
+  "speakers": [
+    {
+      "transcriptIdentifier": "Audio shared by Mike",
+      "name": "Mike Sackton",
+      "gameRole": "DM",
+      "segmentCount": 601,
+      "durationSeconds": 2595.526,
+      "fraction": 0.2809,
+      "wordCount": 6275
+    },
+    {
+      "transcriptIdentifier": "David S. Kong",
+      "name": "David Kong",
+      "gameRole": "Ekko",
+      "segmentCount": 220,
+      "durationSeconds": 557.234,
+      "fraction": 0.0603,
+      "wordCount": 1668
+    },
+    {
+      "transcriptIdentifier": "Eric Rosenbaum",
+      "name": "Eric Rosenbaum",
+      "gameRole": "Eolo",
+      "segmentCount": 106,
+      "durationSeconds": 266.392,
+      "fraction": 0.0288,
+      "wordCount": 717
+    },
+    {
+      "transcriptIdentifier": "Kate Sackton",
+      "name": "Kate Sackton",
+      "gameRole": "Jrain",
+      "segmentCount": 129,
+      "durationSeconds": 349.761,
+      "fraction": 0.0379,
+      "wordCount": 930
+    },
+    {
+      "transcriptIdentifier": "Mike",
+      "name": "Mike Sackton",
+      "gameRole": "DM",
+      "segmentCount": 825,
+      "durationSeconds": 3307.571,
+      "fraction": 0.358,
+      "wordCount": 8197
+    },
+    {
+      "transcriptIdentifier": "Rev. David Schwartz (he/him)",
+      "name": "David Schwartz",
+      "gameRole": "Justas",
+      "segmentCount": 165,
+      "durationSeconds": 424.855,
+      "fraction": 0.046,
+      "wordCount": 1203
+    },
+    {
+      "transcriptIdentifier": "Tim Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "Finnan",
+      "segmentCount": 540,
+      "durationSeconds": 1737.787,
+      "fraction": 0.1881,
+      "wordCount": 4595
+    }
+  ]
+}

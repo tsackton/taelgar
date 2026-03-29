@@ -1,0 +1,137 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/cleaned/into-the-chasm-001-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Portents and the Fall",
+      "startUid": "u0001",
+      "endUid": "u0182",
+      "lineCount": 182,
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "Table talk and the DM's omens-heavy prologue lead into the moment the party awakens on the ice platform.",
+      "dateEvidence": [
+        "session.yaml sets drStart and drEnd to 1730-01-25",
+        "the next in-scene beat is explicitly described as taking place around 3 o'clock in the afternoon",
+        "no sleep, rest, or next-day cue appears before the awakening"
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Strangers on the Ice",
+      "startUid": "u0183",
+      "endUid": "u0363",
+      "lineCount": 181,
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "The party surveys the floating ice platform, introduces themselves, and studies the storm and wolves until Eolo walks up to a guardian and triggers initiative.",
+      "dateEvidence": [
+        "DM says it was 'like, 3 o'clock in the afternoon' before the fall",
+        "the platform scene follows immediately from that fall with no sign of a day change"
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Ice Wolves Awaken",
+      "startUid": "u0364",
+      "endUid": "u0623",
+      "lineCount": 260,
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": true,
+      "boundaryReason": "Combat begins when Eolo approaches the wolf statue, and the first phase centers on the wolves' initial rush before the second wave of shadow-creatures fully enters the fight.",
+      "dateEvidence": [
+        "this is the first combat immediately after the 3 PM platform scene",
+        "no downtime or day-transition cue interrupts the encounter"
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Shades in the Wind",
+      "startUid": "u0624",
+      "endUid": "u0917",
+      "lineCount": 294,
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": true,
+      "boundaryReason": "A new combat phase starts when a second shade arrives, the shrieking wind attack drops the Zimkovan woman, and the battlefield fills with darkness and additional threats.",
+      "dateEvidence": [
+        "the fight continues without any break on the same date",
+        "there is no rest, sleep, sunset, or explicit time advance during this phase"
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Darkness and Final Blows",
+      "startUid": "u0918",
+      "endUid": "u1255",
+      "lineCount": 338,
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": true,
+      "boundaryReason": "After Ekko kills the first wisp of this phase, the remaining wolves, shades, and wisps are cleaned up in a final scramble until the platform falls quiet.",
+      "dateEvidence": [
+        "this remains the same uninterrupted combat sequence on 1730-01-25",
+        "the battle ends before any rest or day-transition cue appears"
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Kalima Names the Labyrinth",
+      "startUid": "u1256",
+      "endUid": "u1462",
+      "lineCount": 207,
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "With the fight over, Finnan and Justas calm the woman enough to learn that this is Zeyfa's Labyrinth and to hear the first fragments of her people's history and fear.",
+      "dateEvidence": [
+        "this conversation begins immediately after combat ends on the same platform",
+        "no rest or next-day transition occurs before Kalima's explanation"
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Stories on the Platform",
+      "startUid": "u1463",
+      "endUid": "u1835",
+      "lineCount": 373,
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "The focus shifts from extracting facts from Kalima to the party exchanging introductions, motives, and theories about the chasm, the Kestavo, and what sort of place they have entered.",
+      "dateEvidence": [
+        "the discussion is continuous with Kalima's testimony on the same day",
+        "no sleep, waking, or calendar advance is indicated"
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Rest, Recon, and Descent",
+      "startUid": "u1836",
+      "endUid": "u2254",
+      "lineCount": 419,
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "The party questions Kalima further, takes a short rest, tests the platform's exits, learns the drop is wind-locked, scouts the snow chamber ahead, persuades Kalima to come, and commits to entering the tunnels.",
+      "dateEvidence": [
+        "DM explicitly says the group may as well take a short rest",
+        "a short rest advances time within the same day rather than to a new date",
+        "the transcript ends before any sunset, sleep, or next-morning cue"
+      ]
+    }
+  ]
+}

@@ -30,10 +30,10 @@ The party finishes the brutal fight in the black‑stone chamber, kills the shag
 - **[[Ekko]]** – kenku druid, scouting as beast and calling up primal allies when steel fails.
 - **[[Eolo]]** – young kenku warrior, whose psionic strikes land even when mundane shots fail.
 - **[[Kalima]]** – Melusan woman and reluctant guide, hiding behind illusion during the fight and then leading the party to shelter.
-- **Rala** – Jrain’s avian companion, harrying the “living snow” in the fight. 
-- **Nura** – Kalima’s sister in [[Melusa]], sheltering the party. 
-- **Khaled** - Nura's husband 
-- **Samir** – Nura and Khaled’s infant kin, unnervingly quiet.
+- **[[Rala]]** – Jrain’s avian companion, harrying the “living snow” in the fight. 
+- **[[Nura]]** – Kalima’s sister in [[Melusa]], sheltering the party. 
+- **[[Khaled]]** - Nura's husband 
+- **[[Samir]]** – Nura and Khaled’s infant kin, unnervingly quiet.
 - **[[Forquarion]] the Frostbinder** – named as the master of the Ice Palace (in Finnan’s earlier magic and this session’s scouting).
 - **[[Zeyfa]]** – named as tied to the labyrinth and its sacrifices; feared in Zimkovan lore. 
 

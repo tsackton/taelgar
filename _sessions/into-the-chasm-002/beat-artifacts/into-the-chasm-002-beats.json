@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/cleaned/into-the-chasm-002-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/cleaned/into-the-chasm-002-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Into the Labyrinth",
+      "startUid": "u0001",
+      "endUid": "u0308",
+      "lineCount": 308,
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "The session opens with the party recovering from the prior fight, choosing an entrance, and probing the first branching tunnels until they reach the warmer chamber split by a dark crack.",
+      "dateEvidence": [
+        "session.yaml sets drStart and drEnd to 1730-01-25",
+        "the DM says the party has already taken its short rest when the session begins",
+        "the transcript resumes directly from the prior exploration with no sleep, long rest, or next-day cue"
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "The Booming Fissure",
+      "startUid": "u0309",
+      "endUid": "u0579",
+      "lineCount": 271,
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "In the warm room the party studies the chasm-like split, tests the icy fern growth, triggers worsening wind and heat from below, and finally commits to crossing after the first failed leap.",
+      "dateEvidence": [
+        "this beat follows immediately from the opening exploration on the same continuous delve",
+        "the party is still acting under the same post-short-rest momentum with no rest or sleep transition",
+        "the transcript gives no explicit sunset, dusk, or next-day signal before the crossing attempt"
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Past the Storm Gate",
+      "startUid": "u0580",
+      "endUid": "u0844",
+      "lineCount": 265,
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "After organizing the crossing, the group forces everyone through the booming barrier, adapts to the shifting passages beyond it, and presses forward until a frozen side chamber appears.",
+      "dateEvidence": [
+        "the crossing and the deeper exploration are continuous with the previous beat",
+        "no rest, sleep, sunrise, or other day-change marker occurs during the move beyond the fissure",
+        "the only time progression shown is short-term traversal through the same labyrinth on 1730-01-25"
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Questions for the Dead",
+      "startUid": "u0845",
+      "endUid": "u1222",
+      "lineCount": 378,
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "The party discovers a frozen corpse, uses Speak with Dead to learn about Melusa, Zeyfa's sacrifice cycle, and the trapped soul, then gathers gear and relics before moving on.",
+      "dateEvidence": [
+        "the corpse chamber is reached directly after the storm-gate traversal with no interruption in the same expedition",
+        "the questioning, history check, and looting all happen before any rest or overnight pause",
+        "the transcript still provides no cue that the date has advanced beyond 1730-01-25"
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "The Looping White Maze",
+      "startUid": "u1223",
+      "endUid": "u1576",
+      "lineCount": 354,
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "The party leaves the corpse behind, follows booming corridors into impossible loops, glimpses wind-formed hunters, and finally sneaks through the collapsing maze into calmer passage.",
+      "dateEvidence": [
+        "this beat begins immediately after the corpse investigation and remains part of the same uninterrupted delve",
+        "the party discusses worsening cold and whiteout conditions but never stops for a rest or sleep",
+        "escaping the loop happens on the same day because no transcript evidence supports a date advance"
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Toward Zeyfa's Minion",
+      "startUid": "u1577",
+      "endUid": "u1965",
+      "lineCount": 389,
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "Beyond the maze, the group retraces the booming gap, descends into a deeper circular chamber, hides Kalima, and ends on the cliffhanger reveal of the shaggy beast and its ice-born shadows as they prepare for initiative.",
+      "dateEvidence": [
+        "the party comes straight out of the looping maze and continues deeper with no break in the expedition",
+        "Kalima's warning and the cliffhanger initiative call occur before any rest, camp, or next-morning cue",
+        "session.yaml still bounds the entire session to 1730-01-25 and nothing in the transcript contradicts that"
+      ]
+    }
+  ]
+}

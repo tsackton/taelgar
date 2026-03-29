@@ -1,0 +1,41 @@
+schemaVersion: '1.0'
+sourceType: transcript
+campaign: Into the Chasm
+sessionNumber: 2
+realWorldDate: 2025-12-03
+drStart: 1730-01-25
+drEnd: 1730-01-25
+drStartTime: null
+drEndTime: null
+participants:
+- name: Tim Sackton
+  gameRole: Finnan
+  transcriptIdentifiers:
+  - Tim Sackton
+- name: Kate Sackton
+  gameRole: Jrain
+  transcriptIdentifiers:
+  - Kate Sackton
+- name: Eric Rosenbaum
+  gameRole: Eolo
+  transcriptIdentifiers:
+  - Eric Rosenbaum
+- name: David Kong
+  gameRole: Ekko
+  transcriptIdentifiers:
+  - David S. Kong
+- name: David Schwartz
+  gameRole: Justas
+  transcriptIdentifiers:
+  - Rev. David Schwartz (he/him)
+- name: Mike Sackton
+  gameRole: DM
+  transcriptIdentifiers:
+  - Audio shared by Mike
+  - Mike
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/sources/GMT20251204-015914_Recording.transcript.vtt
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/sources/chasm-session2.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/sources/chasm-players.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/cleaned/into-the-chasm-002-source-prepared.md
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/cleaned/into-the-chasm-002-speaker-stats.json
