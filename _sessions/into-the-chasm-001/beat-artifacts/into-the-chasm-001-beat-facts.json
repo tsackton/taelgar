@@ -103,7 +103,6 @@
         "mainEnemies": [
           {
             "name": "ice wolf guardians",
-            "role": "enemy",
             "notes": "Two frozen wolf guardians animate and launch the encounter."
           }
         ],
@@ -139,17 +138,14 @@
         "mainEnemies": [
           {
             "name": "wind-shades",
-            "role": "enemy",
             "notes": "They gust in from beyond the platform and become the new central threat."
           },
           {
             "name": "ice wolf guardians",
-            "role": "enemy",
             "notes": "At least one wolf remains active through this phase."
           },
           {
             "name": "chasm wisps",
-            "role": "enemy",
             "notes": "The first wisps emerge from the broken wolves near the end of the beat."
           }
         ],
@@ -185,17 +181,14 @@
         "mainEnemies": [
           {
             "name": "ice wolf guardians",
-            "role": "enemy",
             "notes": "The last active wolf is finished during this beat."
           },
           {
             "name": "wind-shades",
-            "role": "enemy",
             "notes": "The remaining shades try to push Finnan over the edge before being cut down."
           },
           {
             "name": "chasm wisps",
-            "role": "enemy",
             "notes": "The last wisps are picked off as the combat winds down."
           }
         ],
