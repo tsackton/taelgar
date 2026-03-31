@@ -1,0 +1,549 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/cleaned/into-the-chasm-002-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/cleaned/into-the-chasm-002-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/cleaned/into-the-chasm-002-beat-facts.json",
+  "session": {
+    "campaign": "Into the Chasm",
+    "sessionNumber": 2,
+    "realWorldDate": "2025-12-03",
+    "drStart": "1730-01-25",
+    "drEnd": "1730-01-25"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003",
+        "beat-004",
+        "beat-005",
+        "beat-006"
+      ],
+      "locationRefs": [
+        "Zeyfa's Labyrinth"
+      ],
+      "npcRefs": [
+        "Kalima",
+        "Unnamed man of Melusa",
+        "wind-creatures",
+        "shaggy white beast",
+        "shadowy beast creatures"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Romil's token",
+        "plain silver ring"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party descends from the entrance bridge into Zeyfa's Labyrinth and feels its first branching tunnels shift from ordinary stone into something more alive and hostile.",
+        "The party studies a warm fissure lined with ice ferns, watches the room grow more violent, and finally commits to crossing after Eolo's failed leap proves how dangerous it is.",
+        "The party forces a crossing over the fissure and pushes onward through storm-lashed corridors where the maze shifts and ice grows beneath every step.",
+        "In a frozen corpse chamber, the party questions a dead villager about Melusa and Zeyfa's sacrifices, then loots a few useful relics before moving on.",
+        "The party leaves the corpse behind, gets trapped in a looping white maze full of wind-creatures and booming passages, and finally sneaks out through the last remaining exit.",
+        "The party breaks into a collapsing ice passage, rides a black chute into a stormless chamber, and ends face to face with the shaggy beast Kalima fears."
+      ],
+      "sourceLongSummaries": [
+        "After a short rest and a brief reorientation, the party helps Kalima down from the icy bridge into the labyrinth's entrance chamber, lights the way, and starts testing the first forked passages. The early routes lead through snowy, cramped stone tunnels and dead ends, and Ekko notes that unlike the Great Chasm's abandoned depths, this place feels active and alive as they press deeper toward a warmer chamber ahead.",
+        "The tunnels open into a broad chamber split by a dark crack with warm air rising from below and strange ice ferns waving at the edge. As the party experiments with light, distance, and possible routes, the wind and snow intensify around the fissure, Kalima grows more alarmed, and Eolo's slipping attempt shows that the crossing is riskier than it first looked; by the end of the beat, the group decides they have to get everyone across anyway.",
+        "Using flight, levitation, rope, and brute force, the party gets everyone across the fissure, with Justas briefly plunging into the gap and discovering a pocket of hot, lightless blackness inside it. Beyond the crossing, the labyrinth becomes harsher rather than safer: the wind howls, exits move, visibility drops, and ice thickens underfoot as the group follows changing passages deeper toward a side chamber ahead.",
+        "The party discovers a human corpse pinned to the wall by ice and uses Speak with Dead to learn that he came from Melusa, died when the wind came alive, and had entered the labyrinth as a sunrise sacrifice. Kalima confirms the village name, the corpse describes Melusa as a cliffside settlement fed by a river and fish, and Finnan's ancestral memory links the name to Melua, an old waterfall Kestavo on the Teft; once the questioning ends, the party searches the body and takes a few salvageable items before continuing down the passage.",
+        "Past the corpse chamber, the labyrinth turns into a whiteout of snow hubs, booming corridors, and passages that loop back into the same room with fewer exits each time. Kalima is dropped and injured when the kenku try to carry her through the wind, Justas heals her and forces her through on foot, and the party repeatedly dodges the shadowy wind-creatures sweeping the maze until Finnan's ink mark proves the loop and Jrain's Pass Without Trace lets everyone slip through the final opening.",
+        "After reaching calmer ground, the party retraces the booming hazard, emerges into a circular snow room, and chooses a right-hand tunnel hung with thin ice veils. Ekko's bonfire shatters the veils and triggers a collapse and avalanche, forcing everyone to jump into darkness and slide down slick black ice into a stormless black-stone chamber where Kalima panics, warns that a beast is here, and hides behind Finnan's illusion just before Justas calls the creature out and a towering shaggy white beast appears with shadowy forms growing nearby."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Into the Labyrinth",
+      "beatIds": [
+        "beat-001"
+      ],
+      "transcriptRange": {
+        "startUid": "u0001",
+        "endUid": "u0308"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0308"
+        }
+      ],
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Zeyfa's Labyrinth"
+      ],
+      "npcRefs": [
+        "Kalima"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Romil's token"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party descends from the entrance bridge into Zeyfa's Labyrinth and feels its first branching tunnels shift from ordinary stone into something more alive and hostile."
+      ],
+      "sourceLongSummaries": [
+        "After a short rest and a brief reorientation, the party helps Kalima down from the icy bridge into the labyrinth's entrance chamber, lights the way, and starts testing the first forked passages. The early routes lead through snowy, cramped stone tunnels and dead ends, and Ekko notes that unlike the Great Chasm's abandoned depths, this place feels active and alive as they press deeper toward a warmer chamber ahead."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "The Booming Fissure",
+      "beatIds": [
+        "beat-002"
+      ],
+      "transcriptRange": {
+        "startUid": "u0309",
+        "endUid": "u0579"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0309",
+          "endUid": "u0579"
+        }
+      ],
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Zeyfa's Labyrinth"
+      ],
+      "npcRefs": [
+        "Kalima"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party studies a warm fissure lined with ice ferns, watches the room grow more violent, and finally commits to crossing after Eolo's failed leap proves how dangerous it is."
+      ],
+      "sourceLongSummaries": [
+        "The tunnels open into a broad chamber split by a dark crack with warm air rising from below and strange ice ferns waving at the edge. As the party experiments with light, distance, and possible routes, the wind and snow intensify around the fissure, Kalima grows more alarmed, and Eolo's slipping attempt shows that the crossing is riskier than it first looked; by the end of the beat, the group decides they have to get everyone across anyway."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Past the Storm Gate",
+      "beatIds": [
+        "beat-003"
+      ],
+      "transcriptRange": {
+        "startUid": "u0580",
+        "endUid": "u0844"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0580",
+          "endUid": "u0844"
+        }
+      ],
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Zeyfa's Labyrinth"
+      ],
+      "npcRefs": [
+        "Kalima"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party forces a crossing over the fissure and pushes onward through storm-lashed corridors where the maze shifts and ice grows beneath every step."
+      ],
+      "sourceLongSummaries": [
+        "Using flight, levitation, rope, and brute force, the party gets everyone across the fissure, with Justas briefly plunging into the gap and discovering a pocket of hot, lightless blackness inside it. Beyond the crossing, the labyrinth becomes harsher rather than safer: the wind howls, exits move, visibility drops, and ice thickens underfoot as the group follows changing passages deeper toward a side chamber ahead."
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Questions for the Dead",
+      "beatIds": [
+        "beat-004"
+      ],
+      "transcriptRange": {
+        "startUid": "u0845",
+        "endUid": "u1222"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0845",
+          "endUid": "u1222"
+        }
+      ],
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Zeyfa's Labyrinth"
+      ],
+      "npcRefs": [
+        "Unnamed man of Melusa",
+        "Kalima"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "plain silver ring"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "In a frozen corpse chamber, the party questions a dead villager about Melusa and Zeyfa's sacrifices, then loots a few useful relics before moving on."
+      ],
+      "sourceLongSummaries": [
+        "The party discovers a human corpse pinned to the wall by ice and uses Speak with Dead to learn that he came from Melusa, died when the wind came alive, and had entered the labyrinth as a sunrise sacrifice. Kalima confirms the village name, the corpse describes Melusa as a cliffside settlement fed by a river and fish, and Finnan's ancestral memory links the name to Melua, an old waterfall Kestavo on the Teft; once the questioning ends, the party searches the body and takes a few salvageable items before continuing down the passage."
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "The Looping White Maze",
+      "beatIds": [
+        "beat-005"
+      ],
+      "transcriptRange": {
+        "startUid": "u1223",
+        "endUid": "u1576"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u1223",
+          "endUid": "u1576"
+        }
+      ],
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Zeyfa's Labyrinth"
+      ],
+      "npcRefs": [
+        "Kalima",
+        "wind-creatures"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party leaves the corpse behind, gets trapped in a looping white maze full of wind-creatures and booming passages, and finally sneaks out through the last remaining exit."
+      ],
+      "sourceLongSummaries": [
+        "Past the corpse chamber, the labyrinth turns into a whiteout of snow hubs, booming corridors, and passages that loop back into the same room with fewer exits each time. Kalima is dropped and injured when the kenku try to carry her through the wind, Justas heals her and forces her through on foot, and the party repeatedly dodges the shadowy wind-creatures sweeping the maze until Finnan's ink mark proves the loop and Jrain's Pass Without Trace lets everyone slip through the final opening."
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "beat",
+      "title": "Toward Zeyfa's Minion",
+      "beatIds": [
+        "beat-006"
+      ],
+      "transcriptRange": {
+        "startUid": "u1577",
+        "endUid": "u1965"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u1577",
+          "endUid": "u1965"
+        }
+      ],
+      "dateStart": "1730-01-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Zeyfa's Labyrinth"
+      ],
+      "npcRefs": [
+        "Kalima",
+        "shaggy white beast",
+        "shadowy beast creatures"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party breaks into a collapsing ice passage, rides a black chute into a stormless chamber, and ends face to face with the shaggy beast Kalima fears."
+      ],
+      "sourceLongSummaries": [
+        "After reaching calmer ground, the party retraces the booming hazard, emerges into a circular snow room, and chooses a right-hand tunnel hung with thin ice veils. Ekko's bonfire shatters the veils and triggers a collapse and avalanche, forcing everyone to jump into darkness and slide down slick black ice into a stormless black-stone chamber where Kalima panics, warns that a beast is here, and hides behind Finnan's illusion just before Justas calls the creature out and a towering shaggy white beast appears with shadowy forms growing nearby."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Kalima",
+        "beatIds": [
+          "beat-001",
+          "beat-002",
+          "beat-003",
+          "beat-004",
+          "beat-005",
+          "beat-006"
+        ],
+        "relationKinds": [
+          "companion"
+        ]
+      },
+      {
+        "name": "Unnamed man of Melusa",
+        "beatIds": [
+          "beat-004"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "wind-creatures",
+        "beatIds": [
+          "beat-005"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "shaggy white beast",
+        "beatIds": [
+          "beat-006"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "shadowy beast creatures",
+        "beatIds": [
+          "beat-006"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [],
+    "majorLocations": [
+      {
+        "name": "Zeyfa's Labyrinth",
+        "beatIds": [
+          "beat-001",
+          "beat-002",
+          "beat-003",
+          "beat-004",
+          "beat-005",
+          "beat-006"
+        ],
+        "relationKinds": [
+          "traveled-through",
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Kalima",
+          "relationKinds": [
+            "companion"
+          ],
+          "contextHint": "frightened guide",
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-003",
+            "beat-004",
+            "beat-005",
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Zeyfa's Labyrinth",
+              "dateStart": "1730-01-25",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Unnamed man of Melusa",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "dead sacrifice questioned with magic",
+          "beatIds": [
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Zeyfa's Labyrinth",
+              "dateStart": "1730-01-25",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "wind-creatures",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "shadowy hunters sweeping the blizzard rooms",
+          "beatIds": [
+            "beat-005"
+          ],
+          "history": [
+            {
+              "location": "Zeyfa's Labyrinth",
+              "dateStart": "1730-01-25",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "shaggy white beast",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "revealed minion in the black-stone chamber",
+          "beatIds": [
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Zeyfa's Labyrinth",
+              "dateStart": "1730-01-25",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "shadowy beast creatures",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "ice-formed echoes near the walls",
+          "beatIds": [
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Zeyfa's Labyrinth",
+              "dateStart": "1730-01-25",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Zeyfa's Labyrinth",
+          "relationKinds": [
+            "traveled-through",
+            "visited"
+          ],
+          "contextHint": "descending from the ice bridge and probing the first forked passages within the labyrinth",
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-003",
+            "beat-004",
+            "beat-005",
+            "beat-006"
+          ],
+          "visits": [
+            {
+              "dateStart": "1730-01-25",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            },
+            {
+              "dateStart": "1730-01-25",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Romil's token",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Zeyfa's Labyrinth",
+              "dateStart": "1730-01-25",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "plain silver ring",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Zeyfa's Labyrinth",
+              "dateStart": "1730-01-25",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Zeyfa",
+          "contextHint": "cruel west wind tied to sacrifice and the labyrinth"
+        },
+        {
+          "name": "Melua",
+          "contextHint": "waterfall Kestavo recalled from halfling memory"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Kestavo",
+          "contextHint": null
+        }
+      ],
+      "items": []
+    }
+  }
+}

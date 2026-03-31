@@ -1,0 +1,815 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/cleaned/into-the-chasm-004-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/cleaned/into-the-chasm-004-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/cleaned/into-the-chasm-004-beat-facts.json",
+  "session": {
+    "campaign": "Into the Chasm",
+    "sessionNumber": 4,
+    "realWorldDate": "2026-01-08",
+    "drStart": "1730-01-26",
+    "drEnd": "1730-01-29"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1730-01-26",
+      "dateEnd": "1730-01-27",
+      "timeWindow": "night",
+      "resolution": "date-range",
+      "beatIds": [
+        "beat-001"
+      ],
+      "locationRefs": [
+        "Melusa"
+      ],
+      "npcRefs": [
+        "Kalima",
+        "Zahara",
+        "Samir"
+      ],
+      "organizationRefs": [
+        "Malquin's guards"
+      ],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "While hiding in Nura and Khaled's house, the party watches Kalima slip into the whiteout with a secret escort as Malquin's soldiers search Melusa."
+      ],
+      "sourceLongSummaries": [
+        "The night watch in Nura and Khaled's cramped house turns tense when Jrain notices the door crack open, hears whispered speech, and then sees Kalima slipping away into the storm with a stealthy guide later identified as Zahara. Soldiers are visible in the whiteout outside, the party chooses not to chase into the snow, and the rest of the night passes quietly into a completed long rest."
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1730-01-27",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-002",
+        "beat-003",
+        "beat-004"
+      ],
+      "locationRefs": [
+        "Melusa"
+      ],
+      "npcRefs": [
+        "Nura",
+        "Samir",
+        "Taquin",
+        "Iskander",
+        "Ice wolf guardian"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Shimmering metal shard"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "In the morning, Samir speaks with Taquin's voice, Nura explains Melusa's curse of the wrong soul, and the party decides to seek Zahara's troublemakers.",
+        "The party crosses Melusa to meet Iskander, who explains the gashes, the failed escape attempts, and Zahara's hidden refuge.",
+        "After deciding to confront Malquin directly, the party warns Zahara's circle, tests the metal gash, and publicly calls for the bridge to the Ice Palace."
+      ],
+      "sourceLongSummaries": [
+        "Back in the same house after the long rest, the party questions the family and hears Samir answer with an older voice that identifies Zahara as Kalima's rescuer and later gives the name Taquin. Nura explains the village belief that some children are born with the wrong soul and rarely survive, while Finnan's magic confirms broader truths about the realm's bounded mists and its ruler; by the end of the beat, the group turns away from the elders and toward Zahara's circle as the best source of change.",
+        "Leaving the family house openly, the party crosses the river through Melusa to a hut near the bridge to the cattle island and meets Iskander, one of Zahara's allies. He explains that the cracks appeared about six months earlier, that the safest-looking one is now blocked by guards and a forty-foot ice wolf, and that repeated attempts to escape failed; he also points the party toward Zahara's more secluded hideaway and makes clear how small and cautious the actual rebel circle is.",
+        "The conversation with Iskander shifts into strategy as the party weighs helping Melusa against solving the growing crisis in the true chasm and decides that Malquin himself is the fastest route to answers. They send Iskander to warn Zahara that they are about to stir the pot, march to the cliffside gashes, let Eolo risk a grab into the metal opening for a shimmering shard, and then use Sylvan speech and illusion to announce themselves until the bridge to the Ice Palace extends."
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1730-01-27",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-005"
+      ],
+      "locationRefs": [
+        "Ice Palace"
+      ],
+      "npcRefs": [
+        "Malquin the Vaqar"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Malquin's necklace"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Inside the Ice Palace, the party bargains with Malquin, who demands proof that the outside world is real before he will let others leave."
+      ],
+      "sourceLongSummaries": [
+        "Crossing the newly formed bridge, the party enters the Ice Palace and meets a ruler who flickers between tones, positions, and apparent selves before naming himself Malquin the Vaqar. He fears being consumed or ended, repeats what the whispers say about the outside being false, and reacts strangely to the severed head from the labyrinth; eventually he settles on a bargain, giving the party a necklace to show the knight beyond the safe gash and promising help, passage, and less interference if they return with proof that the outside world is real and safe."
+      ]
+    },
+    {
+      "blockId": "timeline-004",
+      "dateStart": "1730-01-27",
+      "dateEnd": "1730-01-29",
+      "timeWindow": null,
+      "resolution": "date-range",
+      "beatIds": [
+        "beat-006"
+      ],
+      "locationRefs": [
+        "Melusa",
+        "Great Chasm"
+      ],
+      "npcRefs": [
+        "Eidrikas",
+        "Orcs"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party steps through the safe gash into the true Great Chasm, finds Eidrikas holding a broken planar mechanism together, and learns that orcs fled downward with the missing stone."
+      ],
+      "sourceLongSummaries": [
+        "After tying a safety rope to the ice wolf and leaping through the safe gash, the party emerges on a sheer cliff face in the true Great Chasm, where floating carved platforms hang beneath a dim afternoon sun and new tears flash open in the sky. Clairvoyance and flight reveal Eidrikas using his own body as a living circuit to keep a broken chasm mechanism from collapsing into chaos; he explains that orcs killed Pakrinek after a battle on the site, escaped downward through the platform network with a large missing stone from the structure, and can only give the party days, not weeks, before failure. By comparing his count of days to Jrain's memory of the bird, the party realizes four extra days have passed outside while they were trapped in Melusa."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Kalima Slips Into Night",
+      "beatIds": [
+        "beat-001"
+      ],
+      "transcriptRange": {
+        "startUid": "u0001",
+        "endUid": "u0228"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0228"
+        }
+      ],
+      "dateStart": "1730-01-26",
+      "dateEnd": "1730-01-27",
+      "timeWindow": "night",
+      "resolution": "date-range",
+      "locationRefs": [
+        "Melusa"
+      ],
+      "npcRefs": [
+        "Kalima",
+        "Zahara",
+        "Samir"
+      ],
+      "organizationRefs": [
+        "Malquin's guards"
+      ],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "While hiding in Nura and Khaled's house, the party watches Kalima slip into the whiteout with a secret escort as Malquin's soldiers search Melusa."
+      ],
+      "sourceLongSummaries": [
+        "The night watch in Nura and Khaled's cramped house turns tense when Jrain notices the door crack open, hears whispered speech, and then sees Kalima slipping away into the storm with a stealthy guide later identified as Zahara. Soldiers are visible in the whiteout outside, the party chooses not to chase into the snow, and the rest of the night passes quietly into a completed long rest."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "The Baby Speaks Back",
+      "beatIds": [
+        "beat-002"
+      ],
+      "transcriptRange": {
+        "startUid": "u0229",
+        "endUid": "u0510"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0229",
+          "endUid": "u0510"
+        }
+      ],
+      "dateStart": "1730-01-27",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Melusa"
+      ],
+      "npcRefs": [
+        "Nura",
+        "Samir",
+        "Taquin"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "In the morning, Samir speaks with Taquin's voice, Nura explains Melusa's curse of the wrong soul, and the party decides to seek Zahara's troublemakers."
+      ],
+      "sourceLongSummaries": [
+        "Back in the same house after the long rest, the party questions the family and hears Samir answer with an older voice that identifies Zahara as Kalima's rescuer and later gives the name Taquin. Nura explains the village belief that some children are born with the wrong soul and rarely survive, while Finnan's magic confirms broader truths about the realm's bounded mists and its ruler; by the end of the beat, the group turns away from the elders and toward Zahara's circle as the best source of change."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Road to the Troublemakers",
+      "beatIds": [
+        "beat-003"
+      ],
+      "transcriptRange": {
+        "startUid": "u0511",
+        "endUid": "u0844"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0511",
+          "endUid": "u0844"
+        }
+      ],
+      "dateStart": "1730-01-27",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Melusa"
+      ],
+      "npcRefs": [
+        "Iskander"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party crosses Melusa to meet Iskander, who explains the gashes, the failed escape attempts, and Zahara's hidden refuge."
+      ],
+      "sourceLongSummaries": [
+        "Leaving the family house openly, the party crosses the river through Melusa to a hut near the bridge to the cattle island and meets Iskander, one of Zahara's allies. He explains that the cracks appeared about six months earlier, that the safest-looking one is now blocked by guards and a forty-foot ice wolf, and that repeated attempts to escape failed; he also points the party toward Zahara's more secluded hideaway and makes clear how small and cautious the actual rebel circle is."
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "A Plan for Malquin",
+      "beatIds": [
+        "beat-004"
+      ],
+      "transcriptRange": {
+        "startUid": "u0845",
+        "endUid": "u1241"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0845",
+          "endUid": "u1241"
+        }
+      ],
+      "dateStart": "1730-01-27",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Melusa"
+      ],
+      "npcRefs": [
+        "Iskander",
+        "Ice wolf guardian"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Shimmering metal shard"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "After deciding to confront Malquin directly, the party warns Zahara's circle, tests the metal gash, and publicly calls for the bridge to the Ice Palace."
+      ],
+      "sourceLongSummaries": [
+        "The conversation with Iskander shifts into strategy as the party weighs helping Melusa against solving the growing crisis in the true chasm and decides that Malquin himself is the fastest route to answers. They send Iskander to warn Zahara that they are about to stir the pot, march to the cliffside gashes, let Eolo risk a grab into the metal opening for a shimmering shard, and then use Sylvan speech and illusion to announce themselves until the bridge to the Ice Palace extends."
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "Bargain in the Ice Palace",
+      "beatIds": [
+        "beat-005"
+      ],
+      "transcriptRange": {
+        "startUid": "u1242",
+        "endUid": "u1645"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u1242",
+          "endUid": "u1645"
+        }
+      ],
+      "dateStart": "1730-01-27",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Ice Palace"
+      ],
+      "npcRefs": [
+        "Malquin the Vaqar"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Malquin's necklace"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Inside the Ice Palace, the party bargains with Malquin, who demands proof that the outside world is real before he will let others leave."
+      ],
+      "sourceLongSummaries": [
+        "Crossing the newly formed bridge, the party enters the Ice Palace and meets a ruler who flickers between tones, positions, and apparent selves before naming himself Malquin the Vaqar. He fears being consumed or ended, repeats what the whispers say about the outside being false, and reacts strangely to the severed head from the labyrinth; eventually he settles on a bargain, giving the party a necklace to show the knight beyond the safe gash and promising help, passage, and less interference if they return with proof that the outside world is real and safe."
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "beat",
+      "title": "Back to the Real Chasm",
+      "beatIds": [
+        "beat-006"
+      ],
+      "transcriptRange": {
+        "startUid": "u1646",
+        "endUid": "u2002"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u1646",
+          "endUid": "u2002"
+        }
+      ],
+      "dateStart": "1730-01-27",
+      "dateEnd": "1730-01-29",
+      "timeWindow": null,
+      "resolution": "date-range",
+      "locationRefs": [
+        "Melusa",
+        "Great Chasm"
+      ],
+      "npcRefs": [
+        "Eidrikas",
+        "Orcs"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party steps through the safe gash into the true Great Chasm, finds Eidrikas holding a broken planar mechanism together, and learns that orcs fled downward with the missing stone."
+      ],
+      "sourceLongSummaries": [
+        "After tying a safety rope to the ice wolf and leaping through the safe gash, the party emerges on a sheer cliff face in the true Great Chasm, where floating carved platforms hang beneath a dim afternoon sun and new tears flash open in the sky. Clairvoyance and flight reveal Eidrikas using his own body as a living circuit to keep a broken chasm mechanism from collapsing into chaos; he explains that orcs killed Pakrinek after a battle on the site, escaped downward through the platform network with a large missing stone from the structure, and can only give the party days, not weeks, before failure. By comparing his count of days to Jrain's memory of the bird, the party realizes four extra days have passed outside while they were trapped in Melusa."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Kalima",
+        "beatIds": [
+          "beat-001"
+        ],
+        "relationKinds": [
+          "companion"
+        ]
+      },
+      {
+        "name": "Zahara",
+        "beatIds": [
+          "beat-001"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Samir",
+        "beatIds": [
+          "beat-001",
+          "beat-002"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Nura",
+        "beatIds": [
+          "beat-002"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Taquin",
+        "beatIds": [
+          "beat-002"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Iskander",
+        "beatIds": [
+          "beat-003",
+          "beat-004"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Ice wolf guardian",
+        "beatIds": [
+          "beat-004"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Malquin the Vaqar",
+        "beatIds": [
+          "beat-005"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Eidrikas",
+        "beatIds": [
+          "beat-006"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Orcs",
+        "beatIds": [
+          "beat-006"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [],
+    "majorLocations": [
+      {
+        "name": "Melusa",
+        "beatIds": [
+          "beat-001",
+          "beat-002",
+          "beat-003",
+          "beat-004",
+          "beat-006"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Ice Palace",
+        "beatIds": [
+          "beat-005"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Great Chasm",
+        "beatIds": [
+          "beat-006"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Kalima",
+          "relationKinds": [
+            "companion"
+          ],
+          "contextHint": "hidden guest",
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Melusa",
+              "dateStart": "1730-01-26",
+              "dateEnd": "1730-01-27"
+            }
+          ]
+        },
+        {
+          "name": "Zahara",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "secret guide in the whiteout",
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Melusa",
+              "dateStart": "1730-01-26",
+              "dateEnd": "1730-01-27"
+            }
+          ]
+        },
+        {
+          "name": "Samir",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "wakeful baby",
+          "beatIds": [
+            "beat-001",
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Melusa",
+              "dateStart": "1730-01-26",
+              "dateEnd": "1730-01-27"
+            }
+          ]
+        },
+        {
+          "name": "Nura",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "host and interpreter of village beliefs",
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Melusa",
+              "dateStart": "1730-01-27",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Taquin",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "remembering soul speaking through Samir",
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Melusa",
+              "dateStart": "1730-01-27",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Iskander",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "Zahara's contact in Melusa",
+          "beatIds": [
+            "beat-003",
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Melusa",
+              "dateStart": "1730-01-27",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Ice wolf guardian",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "watcher at the safe gash",
+          "beatIds": [
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Melusa",
+              "dateStart": "1730-01-27",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Malquin the Vaqar",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "ruler of the demiplane",
+          "beatIds": [
+            "beat-005"
+          ],
+          "history": [
+            {
+              "location": "Ice Palace",
+              "dateStart": "1730-01-27",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Eidrikas",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "druid holding the mechanism together",
+          "beatIds": [
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Melusa -> Great Chasm",
+              "dateStart": "1730-01-27",
+              "dateEnd": "1730-01-29"
+            }
+          ]
+        },
+        {
+          "name": "Orcs",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "fugitives below the mechanism",
+          "beatIds": [
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Melusa -> Great Chasm",
+              "dateStart": "1730-01-27",
+              "dateEnd": "1730-01-29"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Melusa",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "Nura and Khaled's house during the night watch, with the snowy lane outside visible through the door",
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-003",
+            "beat-004",
+            "beat-006"
+          ],
+          "visits": [
+            {
+              "dateStart": "1730-01-26",
+              "dateEnd": "1730-01-27",
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1730-01-27",
+              "dateEnd": "1730-01-29",
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Ice Palace",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "the entrance hall and throne-room-like audience chamber",
+          "beatIds": [
+            "beat-005"
+          ],
+          "visits": [
+            {
+              "dateStart": "1730-01-27",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Great Chasm",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "crossing the safe gash out of Melusa and orienting at the broken mechanism site",
+          "beatIds": [
+            "beat-006"
+          ],
+          "visits": [
+            {
+              "dateStart": "1730-01-27",
+              "dateEnd": "1730-01-29",
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Malquin's guards",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Melusa",
+              "dateStart": "1730-01-26",
+              "dateEnd": "1730-01-27"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "name": "Shimmering metal shard",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Melusa",
+              "dateStart": "1730-01-27",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Malquin's necklace",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-005"
+          ],
+          "history": [
+            {
+              "location": "Ice Palace",
+              "dateStart": "1730-01-27",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Pakrinek",
+          "contextHint": "fallen kenku companion"
+        }
+      ],
+      "locations": [],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Missing mechanism stone",
+          "contextHint": null
+        }
+      ]
+    }
+  }
+}

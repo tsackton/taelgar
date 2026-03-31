@@ -1,0 +1,250 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-005/beat-artifacts/into-the-chasm-005-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party confirms Eidrikas is truly himself, learns what the stolen stone did to the chasm mechanism, and commits to descending after the orcs.",
+      "longSummary": "From the floating rock beside the broken runic platform, the party studies Eidrikas, the dead from the earlier battles, and the strange cylindrical structure hanging below. Ekko confirms his mentor is genuine, Eidrikas explains that the orcs stole a black runic stone from the mechanism, warns them about the large Thark-marked leader among the survivors, and sends them down to recover the piece before the failing structure overwhelms him.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Great Chasm",
+        "context": "floating rock beside Eidrikas's tilted runic platform above the suspended cylindrical structure",
+        "notes": "The party remains on the approach rock while surveying the platform and deciding how to descend."
+      },
+      "npcs": [
+        {
+          "name": "Eidrikas",
+          "role": "encountered",
+          "context": "injured mentor and caretaker",
+          "notes": "Ekko confirms his identity and receives the mission to recover the stolen stone before the mechanism fails."
+        },
+        {
+          "name": "God Caller",
+          "role": "mentioned",
+          "context": "Thark-marked orc leader",
+          "notes": "Back-applied from the later combat; Eidrikas warns about a large orc leader marked with Thark among the surviving orcs."
+        }
+      ],
+      "items": [
+        {
+          "name": "Black runic stone",
+          "role": "mentioned",
+          "notes": "The stolen machine component Eidrikas needs returned to stabilize the structure."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Vejo Vaikai",
+          "role": "mentioned",
+          "notes": "Eidrikas is identified as one of the druids who guard and study the Great Chasm."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party edges the floating stone into the upper chamber, tests the blue column and shifting gravity, and finds a way down to the next level.",
+      "longSummary": "After positioning their floating rock so they can retreat if needed, the party surveys the top open chamber of the cylindrical structure. They discover the blue column rising through the room, realize the gravity shifts around it, recover the hanging rope, and work out how to descend through the cracked floors into the chamber below without getting smashed like the dead orc nearby.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Great Chasm",
+        "context": "upper open chamber of the suspended cylindrical structure, with the blue column and crushed orc corpse",
+        "notes": "The beat stays in the first room beneath Eidrikas's platform while the party experiments with its gravity effects."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "In the next chamber down, the party wakes a broken custodian automaton and learns only that repairs cannot resume until the threat below is resolved.",
+      "longSummary": "The next level reveals crystal structures, floor hatches, and a damaged stone-and-metal automaton still trying to perform its duties. Finnan questions it in Giant, confirms that the orcs who came through were unauthorized, and keeps pressing for help, but the broken custodian can only repeat that repair functions are suspended until the active threat condition is removed.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Great Chasm",
+        "context": "middle chamber of the suspended structure, with crystal pillars, floor hatches, and a damaged automaton alcove",
+        "notes": "The party remains in this chamber while inspecting the hatches and speaking with the custodian."
+      },
+      "npcs": [
+        {
+          "name": "Damaged custodian automaton",
+          "role": "encountered",
+          "context": "broken guardian and repair functionary",
+          "notes": "It recognizes the orcs as unauthorized but can only repeat that repairs are suspended until the threat below is resolved."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party abandons the lightning-filled route, struggles back out, repositions the floating stone to the lowest level, and peers into the ruined bottom chamber.",
+      "longSummary": "Unable or unwilling to tackle the lightning-filled conduit room directly, the party fights its way back up through the heavy gravity, regroups in the upper chamber, and drags the floating stone around to the larger bottom section of the structure. Opening the final hatch reveals a wrecked chamber below, a cluster of arguing orcs, and a separate lightning-shrouded orc off to one side, setting up the ambush.",
+      "location": {
+        "kind": "journey",
+        "from": "middle chamber (Great Chasm suspended structure)",
+        "to": "bottom chamber hatch (Great Chasm suspended structure)",
+        "context": "climbing out, repositioning the floating stone, and opening the last hatch into the larger lower section",
+        "notes": "The beat is mostly movement between sub-areas of the same suspended structure and ends with the first clear view into the bottom chamber."
+      },
+      "npcs": [
+        {
+          "name": "Lightning-shrouded orc",
+          "role": "encountered",
+          "context": "seen below the final hatch",
+          "notes": "A separate orc crackling with lightning is visible apart from the arguing group."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Dropping through the hatch, the party opens the battle with Hypnotic Pattern, locks down most of the lesser orcs, and begins cutting through the ones still active.",
+      "longSummary": "The ambush starts with Finnan's Hypnotic Pattern catching several of the orcs beneath the hatch while the party focuses the few enemies still moving. As the fight takes shape, the group identifies a Thark-marked god caller among the orcs, tries to avoid waking the entranced enemies, and begins thinning the field before the separate lightning-shrouded orc finally rushes in and one of the sleepers is shaken awake.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Great Chasm",
+        "context": "ruined bottom chamber of the suspended structure, directly beneath the final hatch",
+        "notes": "The fight begins around the cluster of arguing orcs, with the lightning-shrouded foe still off to one side until the end of the beat."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "God Caller",
+            "notes": "The Thark-marked orc priest or champion among the clustered enemies below the hatch."
+          },
+          {
+            "name": "Lesser orcs below the hatch",
+            "notes": "The initial group of guards and arguers, several of whom are incapacitated by Hypnotic Pattern."
+          },
+          {
+            "name": "Lightning-shrouded orc",
+            "notes": "A separate crackling foe enters late in the beat and helps reactivate the sleeping orcs."
+          }
+        ],
+        "notes": "Opening combat phase focused on the ambush and keeping the hypnotized orcs disabled while the separate lightning foe closes."
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The fight turns messy once the lightning orc rejoins the battle, fear effects start spreading, and the god caller becomes the center of the melee.",
+      "longSummary": "The command spell buys only a moment before the lightning-wreathed orc crackles, flees, and then loops back into the fight, while surviving lesser orcs continue to press the party at close range. The god caller's battle cries and curses start frightening Ekko and Eolo, the group scrambles to finish off the remaining support enemies, and by the end of the beat the battle has narrowed toward the god caller as the real problem.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Great Chasm",
+        "context": "ruined bottom chamber of the suspended structure, spread across the orc cluster and the crackling conduit side of the room",
+        "notes": "The fight stays in the same chamber but stretches across a wider area as the lightning foe runs and the party repositions."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "God Caller",
+            "notes": "The Thark-scarred champion turns into the main threat, using fear effects and heavy axe blows."
+          },
+          {
+            "name": "Lightning-shrouded orc",
+            "notes": "Its crackling body damages nearby creatures, and it repeatedly shifts the party's positioning."
+          },
+          {
+            "name": "Surviving lesser orcs",
+            "notes": "The remaining rampart and conduit orcs keep the party tied up while the god caller advances."
+          }
+        ],
+        "notes": "Middle combat phase marked by the god caller's fear effects and the party trying to peel off the last supporting orcs."
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "After enduring the god caller's lightning and terror effects, the party kills the last lightning orc, survives its explosion, and finally brings the god caller down.",
+      "longSummary": "The final phase opens with the god caller blasting the field with lightning, renewing his terror curse, and refusing to slow down even as most of his allies fall. Justas destroys the last nearby lightning orc and is caught in its violent death burst, but the party keeps pouring damage into the god caller until Eolo's arrows finally drop him for good, leaving only cleanup and the promised search for the stolen stone.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Great Chasm",
+        "context": "ruined bottom chamber of the suspended structure, in the killing ground around the god caller and the last lightning arc",
+        "notes": "The combat never leaves the chamber; the beat ends as the DM defers the post-fight search to next session."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "God Caller",
+            "notes": "The Thark-scarred leader unleashes lightning, fear, and relentless greataxe attacks until Eolo kills him."
+          },
+          {
+            "name": "Remaining lightning-shrouded orc",
+            "notes": "One remaining crackling orc explodes on death and nearly drops Justas."
+          }
+        ],
+        "notes": "End combat phase focused on grinding down the god caller after the exploding lightning orcs are nearly cleared."
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The in-world aftermath is pushed to next session, and the transcript shifts entirely into scheduling and campaign planning.",
+      "longSummary": "Once the DM calls the combat aftermath for next time, the session leaves the fiction behind and turns into scheduling, pacing, and discussion of how many Chasm sessions remain before the next campaign transition. No further in-world actions are played out, though the party is left poised to search the chamber and recover the stolen stone when play resumes.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Great Chasm",
+        "context": "ruined bottom chamber of the suspended structure, with the search and recovery paused until next session",
+        "notes": "There is no further in-world scene in this beat, but the fiction is still paused in the same chamber after the god caller falls."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}
