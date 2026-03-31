@@ -1,0 +1,439 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-beats.json",
+  "facts": [
+    {
+      "beatId": "b01",
+      "dateStart": "1747-10-23",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Kaleho dines with Trok in Hamri when Orden begs them to help find his missing daughter Hiyasa.",
+      "longSummary": "On the beach at Hamri, Kaleho joins Trok for an evening meal and hears a recap of their earlier adventure before Orden arrives in distress. He explains that Hiyasa, his daughter, recently returned after a decade away, spoke of treasure upriver, and vanished eight days ago. Trok and Kaleho agree to look into it and decide to seek out Ryu the next morning.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Hamri",
+        "context": "Trok's shack on the beach below the towers",
+        "notes": "The opening scene takes place at Trok's home on the shore."
+      },
+      "npcs": [
+        {
+          "name": "Orden",
+          "role": "encountered",
+          "context": "petitioner",
+          "notes": "A beach-dweller in Hamri who asks the party to find Hiyasa."
+        },
+        {
+          "name": "Hiyasa",
+          "role": "mentioned",
+          "context": "missing daughter",
+          "notes": "Recently returned to Hamri and then vanished while seeking treasure upriver."
+        },
+        {
+          "name": "Airion the Mistspeaker",
+          "role": "mentioned",
+          "context": "earlier Mawar mystery",
+          "notes": "Referenced while the group recalls the prior tower adventure."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b02",
+      "dateStart": "1747-10-24",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The next morning Trok and Kaleho visit Ryu, and Nerissa joins the expedition after introducing herself at his tower.",
+      "longSummary": "At breakfast the next morning, Trok and Kaleho bring the problem to Ryu and explain Orden's request. Their conversation is interrupted by Nerissa, an older and well-traveled scholar who lives in a nearby tower and introduces herself over tea and biscuits. Once she hears of the upriver search, she volunteers to come along in hopes of seeing more of the peninsula's history for herself.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Hamri",
+        "context": "Ryu's tower above the bay",
+        "notes": "The party gathers here for breakfast and planning."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b03",
+      "dateStart": "1747-10-24",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Before leaving Hamri, the party questions Abelard at the Leviathan and learns that Hiyasa went upriver in search of an ancient tomb.",
+      "longSummary": "The party stops at the Leviathan to gather rumor and detail before setting out. There they find Abelard, a hangover-ridden singer and teller of tall tales, who confirms that a woman matching Hiyasa's description headed up the Mirmir after boasting of treasure in an ancient tomb. He cannot provide much more than that, but the conversation is enough to send the group back to Ryu and onto the trail.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Hamri",
+        "context": "the Leviathan Inn",
+        "notes": "The group stops here for local rumor and direction."
+      },
+      "npcs": [
+        {
+          "name": "Abelard",
+          "role": "encountered",
+          "context": "singer and rumor source",
+          "notes": "Confirms that Hiyasa headed upriver after speaking of an ancient tomb."
+        },
+        {
+          "name": "Hiyasa",
+          "role": "mentioned",
+          "context": "search target",
+          "notes": "Abelard recognizes her description and route."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b04",
+      "dateStart": "1747-10-24",
+      "dateEnd": "1747-10-25",
+      "timeWindow": null,
+      "shortSummary": "Ryu leads the party up the Mirmir, where they track Hiyasa through the forest, camp overnight, and find her abandoned campsite the next day.",
+      "longSummary": "Leaving Hamri, the group climbs above the waterfall and follows the Mirmir inland through the autumn forest, relying on Ryu's tracking and Blue's scouting to stay on Hiyasa's trail. They make camp after dark, keep a quiet watch through the cold night, and continue in the morning. Before long they discover a recently abandoned campsite, confirming that they remain on Hiyasa's path but have still not caught up with her.",
+      "location": {
+        "kind": "journey",
+        "from": "Hamri",
+        "to": "Mirmir River interior",
+        "context": "overland tracking upriver through the forest",
+        "notes": "The beat includes the first day's travel, an overnight camp, and the following morning's search."
+      },
+      "npcs": [
+        {
+          "name": "Hiyasa",
+          "role": "mentioned",
+          "context": "trail quarry",
+          "notes": "The party follows the signs of her recent passage."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b05",
+      "dateStart": "1747-10-26",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "shortSummary": "Two days into the interior, the party reaches a buried monument of Yerkir-khor and descends into the darkness below it.",
+      "longSummary": "After continued pursuit upriver, the party comes upon a towering stone monument hidden in the forest, shaped like a brutal flower of stone around a central shaft. Terran inscriptions identify it as the resting place of Yerkir-khor the Undaunted, Prince of Earth and Guardian of the Crystal Skies. Finding clear signs that someone entered recently, the group opens the way below and descends into the ancient complex in search of Hiyasa.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Yerkir-khor monument",
+        "context": "partially buried stone structure in the inland forest",
+        "notes": "The monument stands above the tomb proper."
+      },
+      "npcs": [
+        {
+          "name": "Yerkir-khor",
+          "role": "mentioned",
+          "context": "buried earth lord",
+          "notes": "Named in the Terran inscriptions on the monument."
+        },
+        {
+          "name": "Hiyasa",
+          "role": "mentioned",
+          "context": "recent intruder",
+          "notes": "Fresh signs suggest she entered the monument before the party."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b06",
+      "dateStart": "1747-10-26",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "shortSummary": "Inside the tomb, the party explores dazzling crystal chambers and works through the first sequence of traps and hazards.",
+      "longSummary": "The descent reveals a glittering underworld of gemstone light, monumental stonework, and strange mechanisms. The party tests the shaft, studies the polished stone halls, and makes its way carefully through an initial set of hazards, including a blade trap and a treacherous route deeper inside. Their progress is slow and cautious as Nerissa records what she can and the group tries to understand the tomb before blundering into something worse.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Yerkir-khor tomb",
+        "context": "upper crystal halls and trapped approach chambers",
+        "notes": "The party has fully entered the buried complex."
+      },
+      "npcs": [
+        {
+          "name": "Yerkir-khor",
+          "role": "mentioned",
+          "context": "tomb owner",
+          "notes": "The group discusses the ancient ruler while exploring the interior."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b07",
+      "dateStart": "1747-10-26",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "shortSummary": "The tomb's guardians awaken, forcing the party through a hard fight against stone gargoyles and a serpent statue.",
+      "longSummary": "Their caution gives way to violence when the chamber's carved guardians animate and attack. The party fights through stone gargoyles and a serpent-headed statue construct amid narrow footing and heavy stone architecture, with Nerissa's thunderous magic proving especially effective against the brittle bodies. When the chamber finally falls quiet, the party studies the broken guardians and the strange stone tokens they wore before pushing deeper into the tomb.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Yerkir-khor tomb",
+        "context": "guardian chamber near the upper halls",
+        "notes": "This chamber houses the first active defenders of the tomb."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "stone neck tokens",
+          "role": "encountered",
+          "notes": "Small stone talismans found on the shattered gargoyles after the fight."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "stone gargoyles",
+            "notes": "Winged stone guardians animated to defend the chamber."
+          },
+          {
+            "name": "serpent statue construct",
+            "notes": "A snake-headed guardian tied to the chamber's defenses."
+          }
+        ],
+        "notes": "Nerissa's thunder magic helps crack the stone defenders and turn the fight."
+      }
+    },
+    {
+      "beatId": "b08",
+      "dateStart": "1747-10-26",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "After healing and looting, the party follows muddy tracks through more traps and chambers toward the deepest room of the tomb.",
+      "longSummary": "With the first guardians destroyed, the party regroups, tends wounds, and examines the room for valuables and clues. They then continue through more dangerous passages, using improvised solutions to cross hazards and following the muddy signs of Hiyasa's route into the lower complex. By the end of the beat they have traced the disturbance to the threshold of the inner sanctum.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Yerkir-khor tomb",
+        "context": "lower corridors and trapped passages",
+        "notes": "The group advances steadily toward the deepest chamber."
+      },
+      "npcs": [
+        {
+          "name": "Hiyasa",
+          "role": "mentioned",
+          "context": "tracked intruder",
+          "notes": "Her muddy trail shows the group where she went after surviving earlier traps."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b09",
+      "dateStart": "1747-10-26",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party finds Hiyasa trapped in stone beside the tomb's great guardian and fails to satisfy its demand for tribute.",
+      "longSummary": "In the inner chamber the party finally finds Hiyasa, half-entombed in stone at the feet of a towering guardian of Yerkir-khor. Murals, jars, and gemstones frame a room clearly meant for ritual offering, and the guardian demands tribute from any who claim to be faithful. The party tries bargaining with shells, sand, and whatever else they can think of, but nothing persuades the construct to relent.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Yerkir-khor tomb",
+        "context": "inner sanctum before the central altar",
+        "notes": "The final chamber contains Hiyasa and the tomb's greatest guardian."
+      },
+      "npcs": [
+        {
+          "name": "Hiyasa",
+          "role": "encountered",
+          "context": "half-entombed survivor",
+          "notes": "She is alive but trapped in stone when the party finds her."
+        },
+        {
+          "name": "Yerkir-khor",
+          "role": "mentioned",
+          "context": "lord honored by the guardian",
+          "notes": "The guardian speaks in the name of the buried earth lord."
+        }
+      ],
+      "items": [
+        {
+          "name": "gem-stoppered jars",
+          "role": "encountered",
+          "notes": "Heavy jars placed around the inner sanctum as offerings or treasure."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b10",
+      "dateStart": "1747-10-26",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "When tribute fails, the guardian attacks and the party scrambles to survive the opening phase of the tomb battle.",
+      "longSummary": "The guardian's patience ends as soon as the party's offerings prove unworthy, and the fight erupts around Hiyasa's prison of stone. The construct reveals immense physical strength and control over earth and stone, forcing the party to spread out, improvise, and test what kinds of attacks can actually damage it. The battle quickly becomes a struggle not just to win but to keep from being pinned or trapped by the chamber itself.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Yerkir-khor tomb",
+        "context": "inner sanctum around Hiyasa's stone prison",
+        "notes": "Combat begins in the same room where tribute negotiations failed."
+      },
+      "npcs": [
+        {
+          "name": "Hiyasa",
+          "role": "companion",
+          "context": "endangered rescue target",
+          "notes": "Still trapped in stone while the fight begins around her."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "stone guardian of Yerkir-khor",
+            "notes": "The enormous construct that judges tribute in the inner tomb."
+          }
+        ],
+        "notes": "The opening rounds establish the guardian's earth-shaping powers and the danger of the room itself."
+      }
+    },
+    {
+      "beatId": "b11",
+      "dateStart": "1747-10-26",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party begins to turn the fight by hammering the guardian with thunder, psychic force, and repeated pressure.",
+      "longSummary": "As the battle grinds on, the party settles into a rhythm of cracking, blasting, and harrying the stone colossus while avoiding its punishing blows. Nerissa's sound-based magic and the others' steady pressure visibly damage the guardian, even as it keeps driving them around the chamber. The fight remains dangerous, but for the first time the construct seems vulnerable rather than inevitable.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Yerkir-khor tomb",
+        "context": "inner sanctum during the running fight with the guardian",
+        "notes": "The party is still engaged in continuous combat with the same foe."
+      },
+      "npcs": [
+        {
+          "name": "Hiyasa",
+          "role": "companion",
+          "context": "trapped by the fight",
+          "notes": "She remains stuck in stone while the party tries to win quickly."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "stone guardian of Yerkir-khor",
+            "notes": "Still the only major enemy in the final chamber."
+          }
+        ],
+        "notes": "This phase centers on sustained damage and positional pressure before the mud crisis."
+      }
+    },
+    {
+      "beatId": "b12",
+      "dateStart": "1747-10-26",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The guardian turns the floor to mud and nearly entombs Trok, but Ryu kills it before the stone can close forever.",
+      "longSummary": "In the battle's most dangerous turn, the guardian liquefies the floor into mud and begins using the room itself as a weapon. Trok is knocked unconscious and hurled into the mire as the mud starts to harden back toward stone, threatening to bury him alive. The party manages to keep fighting through the chaos, and Ryu finally destroys the guardian in time for Trok and Hiyasa to be pulled back from the edge of entombment.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Yerkir-khor tomb",
+        "context": "inner sanctum as the stone floor turns to mud",
+        "notes": "The battlefield itself becomes the main hazard in the closing rounds."
+      },
+      "npcs": [
+        {
+          "name": "Hiyasa",
+          "role": "companion",
+          "context": "rescued captive",
+          "notes": "Freed only once the guardian is destroyed and the immediate threat passes."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "stone guardian of Yerkir-khor",
+            "notes": "Destroyed after nearly killing Trok by entombment."
+          }
+        ],
+        "notes": "Ryu's decisive attack ends the fight before the mud can harden around Trok."
+      }
+    },
+    {
+      "beatId": "b13",
+      "dateStart": "1747-10-26",
+      "dateEnd": "1747-10-28",
+      "timeWindow": null,
+      "shortSummary": "With Hiyasa safe, the party loots the tomb, returns to Hamri, and leaves its strangest scrolls for Wazir to decipher.",
+      "longSummary": "After the guardian falls, the party questions Hiyasa, gathers the tomb's treasure, and sorts through the valuable jars, gems, and papers she found or stole along the way. A few days later they are back in Hamri dividing the spoils and considering what the haul may mean. Hiyasa gives them a copy of her treasure map in thanks, while the more enigmatic scrolls are set aside for Wazir to study.",
+      "location": {
+        "kind": "journey",
+        "from": "Yerkir-khor tomb",
+        "to": "Hamri",
+        "context": "aftermath, return travel, and division of spoils at the inn",
+        "notes": "The beat spans the tomb's immediate aftermath and the later return to town."
+      },
+      "npcs": [
+        {
+          "name": "Hiyasa",
+          "role": "companion",
+          "context": "rescued treasure hunter",
+          "notes": "Returns with the party and thanks them with a copy of the treasure map."
+        }
+      ],
+      "items": [
+        {
+          "name": "Hiyasa's treasure map",
+          "role": "encountered",
+          "notes": "Given to the party in thanks after the rescue."
+        },
+        {
+          "name": "unknown scrolls",
+          "role": "encountered",
+          "notes": "Recovered from the tomb and set aside for Wazir to decipher."
+        },
+        {
+          "name": "gem-stoppered jars",
+          "role": "encountered",
+          "notes": "Part of the tomb treasure divided on the return to town."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

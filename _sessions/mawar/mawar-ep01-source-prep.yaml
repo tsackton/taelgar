@@ -1,0 +1,18 @@
+# No recording/transcript is currently available for Mawar Episode 1.
+sourcePath:
+sourceType: transcript
+outputDir: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar"
+
+campaign: Mawar Adventures
+sessionNumber: 1
+realWorldDate: 2021-07-24
+drStart: 1747-07-23
+drEnd: 1747-07-23
+drStartTime:
+drEndTime:
+
+participantsPath: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-participants.yaml"
+
+transcriptFormat: auto
+narrativeUnit: sentence
+minSpeakerFraction: 0.01

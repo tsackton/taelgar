@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Tea at the Towers",
+      "startUid": "u0001",
+      "endUid": "u0318",
+      "lineCount": 318,
+      "dateStart": "1747-11-08",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "containsCombat": false,
+      "boundaryReason": "Opening reunion scene at Ryu's tower before the rumor hook arrives.",
+      "dateEvidence": [
+        "The session opens in early November with late-morning tea at Ryu's tower.",
+        "The campaign timeline places Ander's visit to Ryu on 1747-11-08."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Rumor on the Docks",
+      "startUid": "u0319",
+      "endUid": "u0649",
+      "lineCount": 331,
+      "dateStart": "1747-11-08",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "The party forms, sails north, and reaches Eskorola to hear the village account.",
+      "dateEvidence": [
+        "The group decides to investigate the same day after hearing Jaeson's rumor.",
+        "The campaign timeline places their arrival at Eskorola in the late afternoon of 1747-11-08."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Tracks in the Marsh",
+      "startUid": "u0650",
+      "endUid": "u0937",
+      "lineCount": 288,
+      "dateStart": "1747-11-08",
+      "dateEnd": "1747-11-09",
+      "timeWindow": null,
+      "containsCombat": false,
+      "boundaryReason": "Amaya leads the scouting trip, the party inspects the attack site, then rests overnight before dawn.",
+      "dateEvidence": [
+        "The attack-site visit happens after the late-afternoon arrival at Eskorola.",
+        "The beat explicitly ends with an overnight rest and the line “as morning dawns.”"
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Into the Mists",
+      "startUid": "u0938",
+      "endUid": "u1389",
+      "lineCount": 452,
+      "dateStart": "1747-11-09",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "containsCombat": false,
+      "boundaryReason": "A fresh dawn departure leads to scouting, note inspection, and the stealthy canoe approach before contact.",
+      "dateEvidence": [
+        "The beat begins immediately after “as morning dawns.”",
+        "The session timeline places the marsh expedition on 1747-11-09 morning."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Steam in the Fog",
+      "startUid": "u1390",
+      "endUid": "u1562",
+      "lineCount": 173,
+      "dateStart": "1747-11-09",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "containsCombat": true,
+      "boundaryReason": "The ambush by steam creatures starts as Nerissa's spell reveals the first attackers in the mist.",
+      "dateEvidence": [
+        "This follows directly from the same dawn approach through the marsh.",
+        "No sleep, meal, or travel break suggests a date change."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "The Burning Guardian",
+      "startUid": "u1563",
+      "endUid": "u2029",
+      "lineCount": 467,
+      "dateStart": "1747-11-09",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "containsCombat": true,
+      "boundaryReason": "A larger fire cultist joins the battle at the tunnel and the fight ends with a shrapnel explosion.",
+      "dateEvidence": [
+        "The guardian enters immediately during the ongoing marsh fight.",
+        "The scene remains continuous and on the same morning."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Over the Nest",
+      "startUid": "u2030",
+      "endUid": "u2185",
+      "lineCount": 156,
+      "dateStart": "1747-11-09",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "containsCombat": false,
+      "boundaryReason": "After a short recovery, the party regroups, climbs the mound, and discovers the dragon turtle below.",
+      "dateEvidence": [
+        "The party takes only a brief pause to heal and reassess after the explosion.",
+        "No later day marker appears before they climb the nest."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Arrow in the Neck",
+      "startUid": "u2186",
+      "endUid": "u2465",
+      "lineCount": 280,
+      "dateStart": "1747-11-09",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "containsCombat": true,
+      "boundaryReason": "The second battle opens with the party trying to reach the dragon turtle and loosen the black spear.",
+      "dateEvidence": [
+        "Initiative is rolled immediately after the party spots the mage and turtle below.",
+        "The encounter is continuous with the same morning assault on the nest."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Breaking the Charm",
+      "startUid": "u2466",
+      "endUid": "u2914",
+      "lineCount": 449,
+      "dateStart": "1747-11-09",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": true,
+      "boundaryReason": "Once the spear comes free, the fight shifts to freeing Chaessenth and dropping the mage's control.",
+      "dateEvidence": [
+        "The campaign timeline places the dragon turtle rescue and mage fight on 1747-11-09.",
+        "The session manifest ends in the afternoon, matching the long fight and immediate aftermath."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Songs of the Deep",
+      "startUid": "u2915",
+      "endUid": "u3192",
+      "lineCount": 278,
+      "dateStart": "1747-11-09",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "The battle gives way to conversation with Chaessenth, new lore, and the return toward Eskorola and Hamri.",
+      "dateEvidence": [
+        "This begins immediately after the mage falls and Chaessenth is healed.",
+        "The campaign timeline places the revelations and departure west later the same day."
+      ]
+    }
+  ]
+}

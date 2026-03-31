@@ -1,0 +1,862 @@
+{
+  "summary": {
+    "changedLineCount": 116,
+    "replacementCount": 73,
+    "repeatedReplacementCount": 18,
+    "topReplacements": [
+      {
+        "from": "Troc",
+        "to": "Trok",
+        "count": 16,
+        "headers": [
+          "[u0458 | 00:43:18.390-00:43:26.160 | Wazir]",
+          "[u1310 | 01:50:51.500-01:50:56.580 | DM]",
+          "[u1380 | 01:55:00.180-01:55:07.670 | DM]",
+          "[u1459 | 01:59:39.730-01:59:47.239 | Ryu]",
+          "[u1532 | 02:03:32.830-02:03:34.779 | Trok]",
+          "[u1535 | 02:03:53.720-02:03:56.900 | Trok]",
+          "[u1695 | 02:12:41.400-02:12:44.020 | DM]",
+          "[u1935 | 02:27:55.040-02:28:01.540 | DM]",
+          "[u2152 | 02:42:44.170-02:42:58.429 | DM]",
+          "[u2184 | 02:45:29.970-02:45:33.260 | DM]",
+          "[u2440 | 03:02:30.320-03:02:35.980 | DM]",
+          "[u2652 | 03:16:46.850-03:16:50.120 | DM]",
+          "[u2669 | 03:17:51.200-03:18:06.079 | DM]",
+          "[u2713 | 03:21:12.250-03:21:18.449 | DM]"
+        ]
+      },
+      {
+        "from": "Truck",
+        "to": "Trok",
+        "count": 14,
+        "headers": [
+          "[u0168 | 00:17:24.980-00:17:36.370 | Trok]",
+          "[u0644 | 00:59:47.690-00:59:54.040 | DM]",
+          "[u0667 | 01:02:26.220-01:02:31.739 | DM]",
+          "[u1003 | 01:25:54.930-01:25:56.210 | Ryu]",
+          "[u1149 | 01:37:37.750-01:37:42.379 | DM]",
+          "[u1657 | 02:10:15.640-02:10:16.670 | DM]",
+          "[u1673 | 02:11:15.310-02:11:22.369 | DM]",
+          "[u1774 | 02:17:20.930-02:17:23.219 | DM]",
+          "[u1831 | 02:20:51.930-02:20:55.250 | DM]",
+          "[u2106 | 02:39:41.500-02:39:48.129 | DM]",
+          "[u2177 | 02:44:57.390-02:45:03.989 | Nerissa]",
+          "[u2341 | 02:56:48.040-02:56:48.720 | Wazir]",
+          "[u2342 | 02:56:48.720-02:56:49.530 | DM]",
+          "[u2595 | 03:11:54.120-03:11:59.400 | DM]"
+        ]
+      },
+      {
+        "from": "Homri",
+        "to": "Hamri",
+        "count": 11,
+        "headers": [
+          "[u0023 | 00:02:07.870-00:02:15.269 | DM]",
+          "[u0060 | 00:05:17.200-00:05:26.160 | DM]",
+          "[u0090 | 00:09:41.530-00:09:59.250 | DM]",
+          "[u0227 | 00:23:51.260-00:24:03.049 | DM]",
+          "[u0242 | 00:25:17.540-00:25:20.729 | DM]",
+          "[u0244 | 00:25:28.810-00:25:36.109 | DM]",
+          "[u0284 | 00:28:16.610-00:28:19.040 | DM]",
+          "[u0399 | 00:36:51.320-00:37:07.990 | DM]",
+          "[u0410 | 00:37:54.020-00:37:57.960 | DM]",
+          "[u0533 | 00:50:37.840-00:50:41.949 | DM]",
+          "[u2752 | 03:24:47.240-03:24:54.680 | DM]"
+        ]
+      },
+      {
+        "from": "Reyna",
+        "to": "Raina",
+        "count": 10,
+        "headers": [
+          "[u0317 | 00:31:29.450-00:31:30.080 | DM]",
+          "[u0321 | 00:31:36.250-00:31:42.319 | Ryu]",
+          "[u0636 | 00:59:16.060-00:59:21.019 | DM]",
+          "[u0710 | 01:04:54.620-01:05:02.210 | DM]",
+          "[u0814 | 01:12:50.150-01:12:59.090 | Ryu]",
+          "[u1049 | 01:28:58.870-01:29:05.949 | DM]",
+          "[u1209 | 01:43:25.710-01:43:28.359 | Ryu]",
+          "[u1470 | 02:00:29.230-02:00:31.769 | Ryu]",
+          "[u1493 | 02:01:38.870-02:01:41.219 | Ryu]",
+          "[u2691 | 03:19:44.470-03:19:51.679 | DM]"
+        ]
+      },
+      {
+        "from": "Wazira",
+        "to": "Wazir",
+        "count": 8,
+        "headers": [
+          "[u0546 | 00:51:55.940-00:52:02.459 | DM]",
+          "[u0780 | 01:09:36.970-01:09:48.720 | DM]",
+          "[u1631 | 02:08:27.930-02:08:30.610 | DM]",
+          "[u1935 | 02:27:55.040-02:28:01.540 | DM]",
+          "[u1947 | 02:28:27.950-02:28:31.050 | DM]",
+          "[u2171 | 02:44:10.830-02:44:25.820 | DM]",
+          "[u2373 | 02:58:20.300-02:58:22.899 | DM]",
+          "[u2440 | 03:02:30.320-03:02:35.980 | DM]"
+        ]
+      },
+      {
+        "from": "Trock",
+        "to": "Trok",
+        "count": 7,
+        "headers": [
+          "[u0029 | 00:02:39.650-00:02:41.729 | DM]",
+          "[u0252 | 00:26:05.260-00:26:07.119 | Trok]",
+          "[u0875 | 01:17:28.970-01:17:38.680 | DM]",
+          "[u0915 | 01:20:00.860-01:20:03.150 | DM]",
+          "[u1561 | 02:05:04.840-02:05:13.890 | Trok]",
+          "[u1635 | 02:08:38.960-02:08:45.800 | DM]",
+          "[u1669 | 02:11:05.160-02:11:06.230 | DM]"
+        ]
+      },
+      {
+        "from": "Anders",
+        "to": "Ander",
+        "count": 4,
+        "headers": [
+          "[u0154 | 00:16:04.900-00:16:09.670 | Ander]",
+          "[u0378 | 00:35:30.940-00:35:32.759 | Ryu]",
+          "[u0600 | 00:56:08.770-00:56:13.059 | Ryu]",
+          "[u0925 | 01:20:44.770-01:20:46.780 | Ander]"
+        ]
+      },
+      {
+        "from": "Homery",
+        "to": "Hamri",
+        "count": 4,
+        "headers": [
+          "[u0004 | 00:00:20.800-00:00:23.540 | DM]",
+          "[u0198 | 00:20:30.930-00:20:32.420 | DM]",
+          "[u0344 | 00:33:02.360-00:33:04.099 | DM]",
+          "[u0405 | 00:37:14.330-00:37:21.700 | DM]"
+        ]
+      },
+      {
+        "from": "Marwar",
+        "to": "Mawar",
+        "count": 4,
+        "headers": [
+          "[u0082 | 00:08:09.500-00:08:29.119 | DM]",
+          "[u0409 | 00:37:35.410-00:37:53.399 | DM]",
+          "[u0496 | 00:46:53.920-00:47:02.369 | DM]"
+        ]
+      },
+      {
+        "from": "truck",
+        "to": "Trok",
+        "count": 4,
+        "headers": [
+          "[u0471 | 00:44:11.880-00:44:18.039 | Ryu]",
+          "[u0504 | 00:47:53.260-00:47:59.279 | Ryu]",
+          "[u0546 | 00:51:55.940-00:52:02.459 | DM]",
+          "[u2106 | 02:39:41.500-02:39:48.129 | DM]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 2755,
+  "changedLineCount": 116,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0004 | 00:00:20.800-00:00:23.540 | DM]",
+      "lineNumber": 4,
+      "originalText": "In the park town of Homery.",
+      "cleanedText": "In the port town of Hamri."
+    },
+    {
+      "header": "[u0023 | 00:02:07.870-00:02:15.269 | DM]",
+      "lineNumber": 23,
+      "originalText": "wanderers, but others occupied by the Ocean Watchers, the people in Homri who…",
+      "cleanedText": "wanderers, but others occupied by the Ocean Watchers, the people in Hamri who…"
+    },
+    {
+      "header": "[u0029 | 00:02:39.650-00:02:41.729 | DM]",
+      "lineNumber": 29,
+      "originalText": "A lizardfolk named Trock.",
+      "cleanedText": "A lizardfolk named Trok."
+    },
+    {
+      "header": "[u0060 | 00:05:17.200-00:05:26.160 | DM]",
+      "lineNumber": 60,
+      "originalText": "It's not till May of that year that the winter… that the weather finally breaks. And as spring turns to summer, the port of Homri fills with news and trade.",
+      "cleanedText": "It's not till May of that year that the winter… that the weather finally breaks. And as spring turns to summer, the port of Hamri fills with news and trade."
+    },
+    {
+      "header": "[u0061 | 00:05:26.550-00:05:42.069 | DM]",
+      "lineNumber": 61,
+      "originalText": "Wild rumors from the north of an ancient black dragon, a vicious beast that defeated even the best Chardonian legions, and drove the orc warlord Grumella before him in fear, finally killed by the heroes of the Battle of Volterra.",
+      "cleanedText": "Wild rumors from the north of an ancient black dragon, a vicious beast that defeated even the best Chardonian legions, and drove the orc warlord Grumella before him in fear, finally killed by the heroes of the Battle of Voltara."
+    },
+    {
+      "header": "[u0066 | 00:06:04.570-00:06:11.950 | DM]",
+      "lineNumber": 66,
+      "originalText": "But none of these expeditions ever come to Malwar, or at least not to Habri, and it's hard to tell if these are just stories.",
+      "cleanedText": "But none of these expeditions ever come to Mawar, or at least not to Hamri, and it's hard to tell if these are just stories."
+    },
+    {
+      "header": "[u0068 | 00:06:22.410-00:06:29.489 | DM]",
+      "lineNumber": 68,
+      "originalText": "The Leviathan is full of the usual make-believe stories from far away, demons and centaurs fighting in the deserts of Dunbar.",
+      "cleanedText": "The Leviathan is full of the usual make-believe stories from far away, demons and centaurs fighting in the deserts of Dunmar."
+    },
+    {
+      "header": "[u0071 | 00:06:45.020-00:07:02.380 | DM]",
+      "lineNumber": 71,
+      "originalText": "As summer chose to fall, rumors spread from the south of a daring theft, the merchants say. Powerful magic stolen from a great wizard of Chardin, who has viciously attacked and betrayed by outsiders in the city. Something about a giant's crown full of ancient elemental magic.",
+      "cleanedText": "As summer chose to fall, rumors spread from the south of a daring theft, the merchants say. Powerful magic stolen from a great wizard of Chardon, who was viciously attacked and betrayed by outsiders in the city. Something about a giant's crown full of ancient elemental magic."
+    },
+    {
+      "header": "[u0081 | 00:08:05.750-00:08:08.510 | DM]",
+      "lineNumber": 81,
+      "originalText": "Wondering what these events meant for Malwar.",
+      "cleanedText": "Wondering what these events meant for Mawar."
+    },
+    {
+      "header": "[u0082 | 00:08:09.500-00:08:29.119 | DM]",
+      "lineNumber": 82,
+      "originalText": "Could it be long before Chartan looked to claim Marwar itself. After all, Arian the Mistspeaker had long spoken of the Marwakal Peninsula, which is where the Marwar Confederacy is, as an important locus of elemental power, and Arian's scrolls of elemental power had turned up in Chardon recently, Kaiso had learned.",
+      "cleanedText": "Could it be long before Chardon looked to claim Mawar itself. After all, Arian the Mistspeaker had long spoken of the Mawakel Peninsula, which is where the Mawar Confederacy is, as an important locus of elemental power, and Arian's scrolls of elemental power had turned up in Chardon recently, Kaiso had learned."
+    },
+    {
+      "header": "[u0084 | 00:08:39.520-00:08:46.569 | DM]",
+      "lineNumber": 84,
+      "originalText": "Kaisler took this hard and spent many days alone in his room, but emerged to say that Dunbar held, though he would not say how he knew.",
+      "cleanedText": "Kaiso took this hard and spent many days alone in his room, but emerged to say that Dunmar held, though he would not say how he knew."
+    },
+    {
+      "header": "[u0088 | 00:09:11.710-00:09:32.389 | DM]",
+      "lineNumber": 88,
+      "originalText": "But few and harm really cared about the events of far-off Dunbar. The traders from Chardon whispered that something seemed wrong. While the amount of chalite flowing into the city was greater than ever, constant shortages led to the first outbreak of cholera in years, though Kaisa would point out, the traders don't seem to count the sickness that spreads in the slums of the North Bank here.",
+      "cleanedText": "But few in Hamri really cared about the events of far-off Dunmar. The traders from Chardon whispered that something seemed wrong. While the amount of chalyte flowing into the city was greater than ever, constant shortages led to the first outbreak of cholera in years, though Kaiso would point out, the traders don't seem to count the sickness that spreads in the slums of the North Bank there."
+    },
+    {
+      "header": "[u0089 | 00:09:32.910-00:09:39.969 | DM]",
+      "lineNumber": 89,
+      "originalText": "It was getting harder to ignore the growing number of people wandering the city, their minds consumed by chalite overuse.",
+      "cleanedText": "It was getting harder to ignore the growing number of people wandering the city, their minds consumed by chalyte overuse."
+    },
+    {
+      "header": "[u0090 | 00:09:41.530-00:09:59.250 | DM]",
+      "lineNumber": 90,
+      "originalText": "It is now May 26, 1749. Not long ago, news reached Homri of a vicious, unprovoked magical attack at the heart of Charglin itself, caused by none other than two of the thieves, Kenzo, a Dunmari spy, and Delwith, an evil elf, corrupted by shadows.",
+      "cleanedText": "It is now May 26, 1749. Not long ago, news reached Hamri of a vicious, unprovoked magical attack at the heart of Chardon itself, caused by none other than two of the thieves, Kenzo, a Dunmari spy, and Delwath, an evil elf, corrupted by shadows."
+    },
+    {
+      "header": "[u0091 | 00:10:00.740-00:10:08.829 | DM]",
+      "lineNumber": 91,
+      "originalText": "Many had died in the colorless market as a fragment of pandemonium was ripped into this world. Fausto, one of the leaders of the wizards, was.",
+      "cleanedText": "Many had died in the Colorless Market as a fragment of Pandemonium was ripped into this world. Fausto, one of the leaders of the wizards, was."
+    },
+    {
+      "header": "[u0098 | 00:10:44.440-00:10:57.650 | DM]",
+      "lineNumber": 98,
+      "originalText": "In the evening of a pleasantly warm spring day, Wazir has asked Ryu, Trok, Marissa, and Ander to join him to hear the strange tale of a woman just arrived.",
+      "cleanedText": "In the evening of a pleasantly warm spring day, Wazir has asked Ryu, Trok, Nerissa, and Ander to join him to hear the strange tale of a woman just arrived."
+    },
+    {
+      "header": "[u0108 | 00:11:26.870-00:11:30.809 | Trok]",
+      "lineNumber": 108,
+      "originalText": "And… The attack in Jardin was…",
+      "cleanedText": "And… the attack in Chardon was…"
+    },
+    {
+      "header": "[u0123 | 00:12:44.560-00:12:52.690 | DM]",
+      "lineNumber": 123,
+      "originalText": "Leviathan to hear this woman's story. So maybe everybody could just get us back in Mahwar, give a…",
+      "cleanedText": "Leviathan to hear this woman's story. So maybe everybody could just get us back in Mawar, give a…"
+    },
+    {
+      "header": "[u0150 | 00:15:40.860-00:15:42.959 | DM]",
+      "lineNumber": 150,
+      "originalText": "Narissa always has her…",
+      "cleanedText": "Nerissa always has her…"
+    },
+    {
+      "header": "[u0154 | 00:16:04.900-00:16:09.670 | Ander]",
+      "lineNumber": 154,
+      "originalText": "Anders is a, powerfully built.",
+      "cleanedText": "Ander is a, powerfully built."
+    },
+    {
+      "header": "[u0168 | 00:17:24.980-00:17:36.370 | Trok]",
+      "lineNumber": 168,
+      "originalText": "Truck… Strolls in… Looking skeptical of everything. A tall… muscular…",
+      "cleanedText": "Trok… Strolls in… Looking skeptical of everything. A tall… muscular…"
+    },
+    {
+      "header": "[u0195 | 00:20:00.410-00:20:14.080 | DM]",
+      "lineNumber": 195,
+      "originalText": "this woman, Raina, begins to tell you her story, and she's come looking for somebody. I mean, she doesn't… she's not from Hanri, she doesn't know anybody, but was obviously told at the port, like, you know.",
+      "cleanedText": "this woman, Raina, begins to tell you her story, and she's come looking for somebody. I mean, she doesn't… she's not from Hamri, she doesn't know anybody, but was obviously told at the port, like, you know."
+    },
+    {
+      "header": "[u0198 | 00:20:30.930-00:20:32.420 | DM]",
+      "lineNumber": 198,
+      "originalText": "director of Homery kind of vibe.",
+      "cleanedText": "director of Hamri kind of vibe."
+    },
+    {
+      "header": "[u0216 | 00:22:19.000-00:22:38.360 | DM]",
+      "lineNumber": 216,
+      "originalText": "She never knew her father, and her mother was kind of too busy to pay much attention to her, but she was raised by her maternal grandfather, Caleb, who would tell her all these stories about Mawar. I mean, she is… she was Mawarin by descent, even though she doesn't live… probably not from Hamre, from somewhere else in Mawar.",
+      "cleanedText": "She never knew her father, and her mother was kind of too busy to pay much attention to her, but she was raised by her maternal grandfather, Caleb, who would tell her all these stories about Mawar. I mean, she is… she was Mawarin by descent, even though she doesn't live… probably not from Hamri, from somewhere else in Mawar."
+    },
+    {
+      "header": "[u0225 | 00:23:32.500-00:23:44.569 | DM]",
+      "lineNumber": 225,
+      "originalText": "strange undersea cities of kelp forests full of memories, but also of malware long ago, of Guzu the Mariner standing on the prowess ship. Guzu the Mariner is, like, one of the…",
+      "cleanedText": "strange undersea cities of kelp forests full of memories, but also of Mawar long ago, of Guzu the Mariner standing on the prow of a ship. Guzu the Mariner is, like, one of the…"
+    },
+    {
+      "header": "[u0226 | 00:23:44.790-00:23:50.049 | DM]",
+      "lineNumber": 226,
+      "originalText": "heroes of Mara, it's like… it's like a local… he's like a local saint, basically. People…",
+      "cleanedText": "heroes of Mawar, it's like… it's like a local… he's like a local saint, basically. People…"
+    },
+    {
+      "header": "[u0227 | 00:23:51.260-00:24:03.049 | DM]",
+      "lineNumber": 227,
+      "originalText": "send their prayers to the Eight Divines via Uzu, at least in Homri. And there's a bunch of these other, like, heroes of Mawar that function as saints.",
+      "cleanedText": "send their prayers to the Eight Divines via Guzu, at least in Hamri. And there's a bunch of these other, like, heroes of Mawar that function as saints."
+    },
+    {
+      "header": "[u0232 | 00:24:22.680-00:24:26.220 | DM]",
+      "lineNumber": 232,
+      "originalText": "Kayla was nervous, not sure what it meant.",
+      "cleanedText": "Caleb was nervous, not sure what it meant."
+    },
+    {
+      "header": "[u0233 | 00:24:26.510-00:24:38.549 | DM]",
+      "lineNumber": 233,
+      "originalText": "But for a while, they didn't think much of it. A few years after that, the ship was wrapped, and most of the crew, including Caleb, died, Raina survived, but it was a dark few years after that recovering.",
+      "cleanedText": "But for a while, they didn't think much of it. A few years after that, the ship was wrecked, and most of the crew, including Caleb, died, Raina survived, but it was a dark few years after that recovering."
+    },
+    {
+      "header": "[u0242 | 00:25:17.540-00:25:20.729 | DM]",
+      "lineNumber": 242,
+      "originalText": "The cliffs in her image look like Homri, and…",
+      "cleanedText": "The cliffs in her image look like Hamri, and…"
+    },
+    {
+      "header": "[u0243 | 00:25:21.240-00:25:27.000 | DM]",
+      "lineNumber": 243,
+      "originalText": "Guzu was always associated with Omri in Caleb's stories, and so she came here.",
+      "cleanedText": "Guzu was always associated with Hamri in Caleb's stories, and so she came here."
+    },
+    {
+      "header": "[u0244 | 00:25:28.810-00:25:36.109 | DM]",
+      "lineNumber": 244,
+      "originalText": "She doesn't know where it is, but she thinks somewhere in the cliffs of… of Homri.",
+      "cleanedText": "She doesn't know where it is, but she thinks somewhere in the cliffs of… of Hamri."
+    },
+    {
+      "header": "[u0252 | 00:26:05.260-00:26:07.119 | Trok]",
+      "lineNumber": 252,
+      "originalText": "Does Trock know of such a statute?",
+      "cleanedText": "Does Trok know of such a statue?"
+    },
+    {
+      "header": "[u0284 | 00:28:16.610-00:28:19.040 | DM]",
+      "lineNumber": 284,
+      "originalText": "Exploring the cliffs of Homri.",
+      "cleanedText": "Exploring the cliffs of Hamri."
+    },
+    {
+      "header": "[u0317 | 00:31:29.450-00:31:30.080 | DM]",
+      "lineNumber": 317,
+      "originalText": "Reyna?",
+      "cleanedText": "Raina?"
+    },
+    {
+      "header": "[u0321 | 00:31:36.250-00:31:42.319 | Ryu]",
+      "lineNumber": 321,
+      "originalText": "cert… like… just really gives, like, Reyna a little, like, once-over, like.",
+      "cleanedText": "cert… like… just really gives, like, Raina a little, like, once-over, like."
+    },
+    {
+      "header": "[u0344 | 00:33:02.360-00:33:04.099 | DM]",
+      "lineNumber": 344,
+      "originalText": "I've never been to Homery before.",
+      "cleanedText": "I've never been to Hamri before."
+    },
+    {
+      "header": "[u0368 | 00:34:54.889-00:34:57.949 | Trok]",
+      "lineNumber": 368,
+      "originalText": "Oh, from the last… Malware campaign?",
+      "cleanedText": "Oh, from the last… Mawar campaign?"
+    },
+    {
+      "header": "[u0378 | 00:35:30.940-00:35:32.759 | Ryu]",
+      "lineNumber": 378,
+      "originalText": "I like where you're going with this, Anders.",
+      "cleanedText": "I like where you're going with this, Ander."
+    },
+    {
+      "header": "[u0387 | 00:36:06.500-00:36:08.049 | Wazir]",
+      "lineNumber": 387,
+      "originalText": "Yeah, when Zira comes back.",
+      "cleanedText": "Yeah, when Yaz comes back."
+    },
+    {
+      "header": "[u0398 | 00:36:41.680-00:36:49.579 | DM]",
+      "lineNumber": 398,
+      "originalText": "the local, like… so Mawar worships Masnumina, the same religion of Chardin, but their take on it is very much alike.",
+      "cleanedText": "the local, like… so Mawar worships Mos Numena, the same religion of Chardon, but their take on it is very much alike."
+    },
+    {
+      "header": "[u0399 | 00:36:51.320-00:37:07.990 | DM]",
+      "lineNumber": 399,
+      "originalText": "heavily into the local heroes as divine representatives on Earth vibe. So rather than worshipping the mother or whatever, they worship, like, the founder of Homri, or whoever Guizu was. None of you actually are very religious, or maybe Wazir knows history?",
+      "cleanedText": "heavily into the local heroes as divine representatives on Earth vibe. So rather than worshipping the mother or whatever, they worship, like, the founder of Hamri, or whoever Guzu was. None of you actually are very religious, or maybe Wazir knows history?"
+    },
+    {
+      "header": "[u0405 | 00:37:14.330-00:37:21.700 | DM]",
+      "lineNumber": 405,
+      "originalText": "Boozoo is not… the popular story is usually that he was, like, the founder of Homery or something, but actually that's…",
+      "cleanedText": "Guzu is not… the popular story is usually that he was, like, the founder of Hamri or something, but actually that's…"
+    },
+    {
+      "header": "[u0409 | 00:37:35.410-00:37:53.399 | DM]",
+      "lineNumber": 409,
+      "originalText": "Marwar sort of came into existence as a country in the… in the turbulent times after the plague and the fall of Drancor, and so there was lots of, like, crazy monsters in the ocean and things like that. And so Guzu was, like, instrumental in some of the early defenses of",
+      "cleanedText": "Mawar sort of came into existence as a country in the… in the turbulent times after the plague and the fall of Drankor, and so there was lots of, like, crazy monsters in the ocean and things like that. And so Guzu was, like, instrumental in some of the early defenses of"
+    },
+    {
+      "header": "[u0410 | 00:37:54.020-00:37:57.960 | DM]",
+      "lineNumber": 410,
+      "originalText": "of Homri, and really a lot, like, along this whole, sort of.",
+      "cleanedText": "of Hamri, and really a lot, like, along this whole, sort of."
+    },
+    {
+      "header": "[u0414 | 00:38:21.170-00:38:24.830 | DM]",
+      "lineNumber": 414,
+      "originalText": "the Mawah Peninsula… the Mawakal Peninsula.",
+      "cleanedText": "the Mawar Peninsula… the Mawakel Peninsula."
+    },
+    {
+      "header": "[u0458 | 00:43:18.390-00:43:26.160 | Wazir]",
+      "lineNumber": 458,
+      "originalText": "We're looking for… something. The zero gesture to… to Troc, who's been drawing.",
+      "cleanedText": "We're looking for… something. I'll gesture to… to Trok, who's been drawing."
+    },
+    {
+      "header": "[u0462 | 00:43:46.270-00:43:51.530 | Wazir]",
+      "lineNumber": 462,
+      "originalText": "But it's, something to do with a statue of Guzo?",
+      "cleanedText": "But it's, something to do with a statue of Guzu?"
+    },
+    {
+      "header": "[u0471 | 00:44:11.880-00:44:18.039 | Ryu]",
+      "lineNumber": 471,
+      "originalText": "Not one in town. This is more, kind of, in a vision type of situation. Yeah, truck's got a picture. This is what it looks like.",
+      "cleanedText": "Not one in town. This is more, kind of, in a vision type of situation. Yeah, Trok's got a picture. This is what it looks like."
+    },
+    {
+      "header": "[u0485 | 00:45:33.250-00:45:38.260 | DM]",
+      "lineNumber": 485,
+      "originalText": "So, so Yazrin, looks at this, he says.",
+      "cleanedText": "So, so Yaz looks at this, he says."
+    },
+    {
+      "header": "[u0486 | 00:45:43.090-00:46:00.449 | DM]",
+      "lineNumber": 486,
+      "originalText": "Interesting, there… I do believe that many years ago, there was, shrine Belt… The goose do.",
+      "cleanedText": "Interesting, there… I do believe that many years ago, there was a shrine built to Guzu."
+    },
+    {
+      "header": "[u0496 | 00:46:53.920-00:47:02.369 | DM]",
+      "lineNumber": 496,
+      "originalText": "you know, chart and spread and such things when Marwar was the wealthiest traders in this region.",
+      "cleanedText": "you know, Chardon spread and such things when Mawar was the wealthiest traders in this region."
+    },
+    {
+      "header": "[u0504 | 00:47:53.260-00:47:59.279 | Ryu]",
+      "lineNumber": 504,
+      "originalText": "Based on a… description. A truck special.",
+      "cleanedText": "Based on a… description. A Trok special."
+    },
+    {
+      "header": "[u0514 | 00:48:47.240-00:48:53.630 | Ryu]",
+      "lineNumber": 514,
+      "originalText": "Marina, is there anything else you can tell us? I mean, now we've got a general area, we could just go search out there, but, you know, might take a…",
+      "cleanedText": "Raina, is there anything else you can tell us? I mean, now we've got a general area, we could just go search out there, but, you know, might take a…"
+    },
+    {
+      "header": "[u0530 | 00:50:16.660-00:50:17.819 | DM]",
+      "lineNumber": 530,
+      "originalText": "Oh, Vina.",
+      "cleanedText": "Oh, Ovina."
+    },
+    {
+      "header": "[u0531 | 00:50:23.250-00:50:27.499 | DM]",
+      "lineNumber": 531,
+      "originalText": "Ovina is a blacksmith with a shop near the Shark Stock.",
+      "cleanedText": "Ovina is a blacksmith with a shop near the Shark's Dock."
+    },
+    {
+      "header": "[u0532 | 00:50:29.580-00:50:37.229 | DM]",
+      "lineNumber": 532,
+      "originalText": "sometimes… Gets rid of treasure of dubious origin, which he smelts down and shells to the next ship.",
+      "cleanedText": "sometimes… Gets rid of treasure of dubious origin, which she smelts down and sells to the next ship."
+    },
+    {
+      "header": "[u0533 | 00:50:37.840-00:50:41.949 | DM]",
+      "lineNumber": 533,
+      "originalText": "But she has been a fixture in the port of Homri for a hundred.",
+      "cleanedText": "But she has been a fixture in the port of Hamri for a hundred."
+    },
+    {
+      "header": "[u0546 | 00:51:55.940-00:52:02.459 | DM]",
+      "lineNumber": 546,
+      "originalText": "I mean, she doesn't know Ander, but she knows… Ryu and… Wazira and truck.",
+      "cleanedText": "I mean, she doesn't know Ander, but she knows… Ryu and… Wazir and Trok."
+    },
+    {
+      "header": "[u0600 | 00:56:08.770-00:56:13.059 | Ryu]",
+      "lineNumber": 600,
+      "originalText": "Go check it out. I mean, Anders and I, we can go dive down there and see what's going on.",
+      "cleanedText": "Go check it out. I mean, Ander and I, we can go dive down there and see what's going on."
+    },
+    {
+      "header": "[u0636 | 00:59:16.060-00:59:21.019 | DM]",
+      "lineNumber": 636,
+      "originalText": "All of you, plus… Plus, Reyna.",
+      "cleanedText": "All of you, plus… Plus, Raina."
+    },
+    {
+      "header": "[u0644 | 00:59:47.690-00:59:54.040 | DM]",
+      "lineNumber": 644,
+      "originalText": "Truck just swims, he doesn't bother with the whole, like, why would you need a boat sort of thing.",
+      "cleanedText": "Trok just swims, he doesn't bother with the whole, like, why would you need a boat sort of thing."
+    },
+    {
+      "header": "[u0667 | 01:02:26.220-01:02:31.739 | DM]",
+      "lineNumber": 667,
+      "originalText": "No! One of those was… Truck, and one of those was…",
+      "cleanedText": "No! One of those was… Trok, and one of those was…"
+    },
+    {
+      "header": "[u0710 | 01:04:54.620-01:05:02.210 | DM]",
+      "lineNumber": 710,
+      "originalText": "into something else, and it's roughly in the place where Reyna said it should be. Or, sorry, where Ovina, the dwarf, said it should be.",
+      "cleanedText": "into something else, and it's roughly in the place where Raina said it should be. Or, sorry, where Ovina, the dwarf, said it should be."
+    },
+    {
+      "header": "[u0773 | 01:08:53.040-01:09:10.270 | DM]",
+      "lineNumber": 773,
+      "originalText": "statue of Guzu the Marin on a white sandy beach with warm, glowing blue light filling with space. They realized it was a cave where a shrine had been built, and between Ryu's cartography and talking to a dwarf who remembered the cave and various other clues.",
+      "cleanedText": "statue of Guzu the Mariner on a white sandy beach with warm, glowing blue light filling the space. They realized it was a cave where a shrine had been built, and between Ryu's cartography and talking to a dwarf who remembered the cave and various other clues."
+    },
+    {
+      "header": "[u0776 | 01:09:15.729-01:09:22.270 | DM]",
+      "lineNumber": 776,
+      "originalText": "It used to be a popular shrine to this… basically a saint, Guzu the Mariner, a saint of Demos Numina.",
+      "cleanedText": "It used to be a popular shrine to this… basically a saint, Guzu the Mariner, a saint of Mos Numena."
+    },
+    {
+      "header": "[u0778 | 01:09:25.310-01:09:31.960 | DM]",
+      "lineNumber": 778,
+      "originalText": "And now everybody's just about to explore the entrance to the collapse Game, which is where you are.",
+      "cleanedText": "And now everybody's just about to explore the entrance to the collapsed cave, which is where you are."
+    },
+    {
+      "header": "[u0779 | 01:09:32.130-01:09:36.410 | DM]",
+      "lineNumber": 779,
+      "originalText": "So, as Turk dives down,",
+      "cleanedText": "So, as Trok dives down,"
+    },
+    {
+      "header": "[u0780 | 01:09:36.970-01:09:48.720 | DM]",
+      "lineNumber": 780,
+      "originalText": "and the mechanical fish that Wazira has created dives down, it is immediately obvious that something has disturbed this. There is, like, a clean.",
+      "cleanedText": "and the mechanical fish that Wazir has created dives down, it is immediately obvious that something has disturbed this. There is, like, a clean."
+    },
+    {
+      "header": "[u0814 | 01:12:50.150-01:12:59.090 | Ryu]",
+      "lineNumber": 814,
+      "originalText": "Yeah, Ryu will tell everybody what he sees, and in particular, Reyna, like, what's your reaction to this? Do you have any idea what these creatures are?",
+      "cleanedText": "Yeah, Ryu will tell everybody what he sees, and in particular, Raina, like, what's your reaction to this? Do you have any idea what these creatures are?"
+    },
+    {
+      "header": "[u0875 | 01:17:28.970-01:17:38.680 | DM]",
+      "lineNumber": 875,
+      "originalText": "But… Trock has Mariner armor, which, lets him… swim… easily.",
+      "cleanedText": "But… Trok has Mariner armor, which, lets him… swim… easily."
+    },
+    {
+      "header": "[u0915 | 01:20:00.860-01:20:03.150 | DM]",
+      "lineNumber": 915,
+      "originalText": "What do you and Trock do, maybe? .",
+      "cleanedText": "What do you and Trok do, maybe? ."
+    },
+    {
+      "header": "[u0925 | 01:20:44.770-01:20:46.780 | Ander]",
+      "lineNumber": 925,
+      "originalText": "We come in peace, shouts Anders.",
+      "cleanedText": "We come in peace, shouts Ander."
+    },
+    {
+      "header": "[u1003 | 01:25:54.930-01:25:56.210 | Ryu]",
+      "lineNumber": 1003,
+      "originalText": "Truck.",
+      "cleanedText": "Trok."
+    },
+    {
+      "header": "[u1049 | 01:28:58.870-01:29:05.949 | DM]",
+      "lineNumber": 1049,
+      "originalText": "Frock drew from Reyna's description. In front of the statue is an altar.",
+      "cleanedText": "Trok drew from Raina's description. In front of the statue is an altar."
+    },
+    {
+      "header": "[u1149 | 01:37:37.750-01:37:42.379 | DM]",
+      "lineNumber": 1149,
+      "originalText": "Truck is poking around at the offerings in the back.",
+      "cleanedText": "Trok is poking around at the offerings in the back."
+    },
+    {
+      "header": "[u1209 | 01:43:25.710-01:43:28.359 | Ryu]",
+      "lineNumber": 1209,
+      "originalText": "Should I go get Reyna, and, like, escort her in here?",
+      "cleanedText": "Should I go get Raina, and, like, escort her in here?"
+    },
+    {
+      "header": "[u1243 | 01:45:35.370-01:45:41.009 | Wazir]",
+      "lineNumber": 1243,
+      "originalText": "Well, while Marissa's doing that, Wazir will tinker with a few tools and create a crowbar.",
+      "cleanedText": "Well, while Nerissa's doing that, Wazir will tinker with a few tools and create a crowbar."
+    },
+    {
+      "header": "[u1267 | 01:47:40.560-01:47:45.749 | Nerissa]",
+      "lineNumber": 1267,
+      "originalText": "Narissa reckons maybe the acoustics are better if she kneels down, so she kneels down.",
+      "cleanedText": "Nerissa reckons maybe the acoustics are better if she kneels down, so she kneels down."
+    },
+    {
+      "header": "[u1308 | 01:50:48.650-01:50:50.629 | Nerissa]",
+      "lineNumber": 1308,
+      "originalText": "Are Trox friends still here?",
+      "cleanedText": "Are Trok's friends still here?"
+    },
+    {
+      "header": "[u1310 | 01:50:51.500-01:50:56.580 | DM]",
+      "lineNumber": 1310,
+      "originalText": "One of Troc's friends is still here, and yells, Bossman!",
+      "cleanedText": "One of Trok's friends is still here, and yells, Bossman!"
+    },
+    {
+      "header": "[u1380 | 01:55:00.180-01:55:07.670 | DM]",
+      "lineNumber": 1380,
+      "originalText": "So, so, as you… as Troc begins to grow to this larger size, and then…",
+      "cleanedText": "So, so, as you… as Trok begins to grow to this larger size, and then…"
+    },
+    {
+      "header": "[u1459 | 01:59:39.730-01:59:47.239 | Ryu]",
+      "lineNumber": 1459,
+      "originalText": "Yeah, just… No, no, actually, Ryu will point at Troc, and says in Primordial, Boss Man.",
+      "cleanedText": "Yeah, just… No, no, actually, Ryu will point at Trok, and says in Primordial, Boss Man."
+    },
+    {
+      "header": "[u1470 | 02:00:29.230-02:00:31.769 | Ryu]",
+      "lineNumber": 1470,
+      "originalText": "Yeah, we leave with the shard, we get it to Reyna, and then we're done.",
+      "cleanedText": "Yeah, we leave with the shard, we get it to Raina, and then we're done."
+    },
+    {
+      "header": "[u1493 | 02:01:38.870-02:01:41.219 | Ryu]",
+      "lineNumber": 1493,
+      "originalText": "Go, go, go to Reyna, and then run here!",
+      "cleanedText": "Go, go, go to Raina, and then run here!"
+    },
+    {
+      "header": "[u1532 | 02:03:32.830-02:03:34.779 | Trok]",
+      "lineNumber": 1532,
+      "originalText": "So Troc will just kind of, like…",
+      "cleanedText": "So Trok will just kind of, like…"
+    },
+    {
+      "header": "[u1535 | 02:03:53.720-02:03:56.900 | Trok]",
+      "lineNumber": 1535,
+      "originalText": "Troc is gonna get in position to do Kate's idea.",
+      "cleanedText": "Trok is gonna get in position to do Kate's idea."
+    },
+    {
+      "header": "[u1561 | 02:05:04.840-02:05:13.890 | Trok]",
+      "lineNumber": 1561,
+      "originalText": "So… Trock is gonna subtly signal to everyone that we're just gonna, like… Jenkins.",
+      "cleanedText": "So… Trok is gonna subtly signal to everyone that we're just gonna, like… Jenkins."
+    },
+    {
+      "header": "[u1631 | 02:08:27.930-02:08:30.610 | DM]",
+      "lineNumber": 1631,
+      "originalText": "What was… Wazira was 16? Yeah.",
+      "cleanedText": "What was… Wazir was 16? Yeah."
+    },
+    {
+      "header": "[u1635 | 02:08:38.960-02:08:45.800 | DM]",
+      "lineNumber": 1635,
+      "originalText": "Okay, so, 20 for Ander, Trock, 22 for Rio, 16 for Wazir, 12 for Nerissa, is that right?",
+      "cleanedText": "Okay, so, 20 for Ander, Trok, 22 for Ryu, 16 for Wazir, 12 for Nerissa, is that right?"
+    },
+    {
+      "header": "[u1657 | 02:10:15.640-02:10:16.670 | DM]",
+      "lineNumber": 1657,
+      "originalText": "Truck!",
+      "cleanedText": "Trok!"
+    },
+    {
+      "header": "[u1669 | 02:11:05.160-02:11:06.230 | DM]",
+      "lineNumber": 1669,
+      "originalText": "Trock?",
+      "cleanedText": "Trok?"
+    },
+    {
+      "header": "[u1673 | 02:11:15.310-02:11:22.369 | DM]",
+      "lineNumber": 1673,
+      "originalText": "Okay, so Truck succeeds, and is not…",
+      "cleanedText": "Okay, so Trok succeeds, and is not…"
+    },
+    {
+      "header": "[u1695 | 02:12:41.400-02:12:44.020 | DM]",
+      "lineNumber": 1695,
+      "originalText": "That's right. Troc takes 15 points of cold damage.",
+      "cleanedText": "That's right. Trok takes 15 points of cold damage."
+    },
+    {
+      "header": "[u1774 | 02:17:20.930-02:17:23.219 | DM]",
+      "lineNumber": 1774,
+      "originalText": "Sales passed away. Truck, you're up.",
+      "cleanedText": "Sails past away. Trok, you're up."
+    },
+    {
+      "header": "[u1831 | 02:20:51.930-02:20:55.250 | DM]",
+      "lineNumber": 1831,
+      "originalText": "Okay, so that ends Truck's turn with zeros up next.",
+      "cleanedText": "Okay, so that ends Trok's turn, with Wazir up next."
+    },
+    {
+      "header": "[u1935 | 02:27:55.040-02:28:01.540 | DM]",
+      "lineNumber": 1935,
+      "originalText": "reaction to run into the room, Wazira and Troc both get opportunity attacks if you want to spend your reaction.",
+      "cleanedText": "reaction to run into the room, Wazir and Trok both get opportunity attacks if you want to spend your reaction."
+    },
+    {
+      "header": "[u1947 | 02:28:27.950-02:28:31.050 | DM]",
+      "lineNumber": 1947,
+      "originalText": "Alright, Wazira's hits and Trox both hit, yeah.",
+      "cleanedText": "Alright, Wazir's hits and Trok's both hit, yeah."
+    },
+    {
+      "header": "[u2106 | 02:39:41.500-02:39:48.129 | DM]",
+      "lineNumber": 2106,
+      "originalText": "So, that ends Ander's turn, as Truck steps up, giant, massive truck steps up to…",
+      "cleanedText": "So, that ends Ander's turn, as Trok steps up, giant, massive Trok steps up to…"
+    },
+    {
+      "header": "[u2152 | 02:42:44.170-02:42:58.429 | DM]",
+      "lineNumber": 2152,
+      "originalText": "Okay, so I'm gonna assume that Troc, knowing Wazir wants to attack, is gonna step out of the way, because Troc is, remember, 15 feet tall and massive, so unless Troc steps to the side, Wazir will not be able to fight.",
+      "cleanedText": "Okay, so I'm gonna assume that Trok, knowing Wazir wants to attack, is gonna step out of the way, because Trok is, remember, 15 feet tall and massive, so unless Trok steps to the side, Wazir will not be able to fight."
+    },
+    {
+      "header": "[u2171 | 02:44:10.830-02:44:25.820 | DM]",
+      "lineNumber": 2171,
+      "originalText": "With these blows from Wazira, the creature staggers back a little, and you can see it beginning to sort of, look around, nervous, like, uncertain what's happening, yelling for its minions to help.",
+      "cleanedText": "With these blows from Wazir, the creature staggers back a little, and you can see it beginning to sort of, look around, nervous, like, uncertain what's happening, yelling for its minions to help."
+    },
+    {
+      "header": "[u2177 | 02:44:57.390-02:45:03.989 | Nerissa]",
+      "lineNumber": 2177,
+      "originalText": "Is there a path for me past Giant Truck, or, like, do I have enough move to go all the way around past Wazir, or…",
+      "cleanedText": "Is there a path for me past Giant Trok, or, like, do I have enough move to go all the way around past Wazir, or…"
+    },
+    {
+      "header": "[u2184 | 02:45:29.970-02:45:33.260 | DM]",
+      "lineNumber": 2184,
+      "originalText": "Oh, really should get an opportunity attack against Troc.",
+      "cleanedText": "Oh, really should get an opportunity attack against Trok."
+    },
+    {
+      "header": "[u2217 | 02:47:32.100-02:47:39.240 | DM]",
+      "lineNumber": 2217,
+      "originalText": "And that ends Narissa's turn, and these creatures now will… Rush forward…",
+      "cleanedText": "And that ends Nerissa's turn, and these creatures now will… Rush forward…"
+    },
+    {
+      "header": "[u2341 | 02:56:48.040-02:56:48.720 | Wazir]",
+      "lineNumber": 2341,
+      "originalText": "Truck?",
+      "cleanedText": "Trok?"
+    },
+    {
+      "header": "[u2342 | 02:56:48.720-02:56:49.530 | DM]",
+      "lineNumber": 2342,
+      "originalText": "Truck.",
+      "cleanedText": "Trok."
+    },
+    {
+      "header": "[u2373 | 02:58:20.300-02:58:22.899 | DM]",
+      "lineNumber": 2373,
+      "originalText": "So… Wazira's up.",
+      "cleanedText": "So… Wazir's up."
+    },
+    {
+      "header": "[u2440 | 03:02:30.320-03:02:35.980 | DM]",
+      "lineNumber": 2440,
+      "originalText": "Wazira and Troc can make… Opportunity attacks, as that…",
+      "cleanedText": "Wazir and Trok can make… Opportunity attacks, as that…"
+    },
+    {
+      "header": "[u2595 | 03:11:54.120-03:11:59.400 | DM]",
+      "lineNumber": 2595,
+      "originalText": "at… Truck, which is going to… that's a 22.",
+      "cleanedText": "at… Trok, which is going to… that's a 22."
+    },
+    {
+      "header": "[u2652 | 03:16:46.850-03:16:50.120 | DM]",
+      "lineNumber": 2652,
+      "originalText": "And then it's gonna make a wider whip attack against Troc.",
+      "cleanedText": "And then it's gonna make a wider whip attack against Trok."
+    },
+    {
+      "header": "[u2669 | 03:17:51.200-03:18:06.079 | DM]",
+      "lineNumber": 2669,
+      "originalText": "the whip strikes out at Troc, but then you basically just take your giant arm and you knock it away, one of your pet pus flaring as you do, and it strikes this one, nearly killing it with one blow.",
+      "cleanedText": "the whip strikes out at Trok, but then you basically just take your giant arm and you knock it away, one of your pet pus flaring as you do, and it strikes this one, nearly killing it with one blow."
+    },
+    {
+      "header": "[u2691 | 03:19:44.470-03:19:51.679 | DM]",
+      "lineNumber": 2691,
+      "originalText": "kill all these last two creatures, keeping them from swimming off and potentially attacking Reyna.",
+      "cleanedText": "kill all these last two creatures, keeping them from swimming off and potentially attacking Raina."
+    },
+    {
+      "header": "[u2713 | 03:21:12.250-03:21:18.449 | DM]",
+      "lineNumber": 2713,
+      "originalText": "I mean… Troc already looted all of the offerings.",
+      "cleanedText": "I mean… Trok already looted all of the offerings."
+    },
+    {
+      "header": "[u2714 | 03:21:18.730-03:21:22.660 | DM]",
+      "lineNumber": 2714,
+      "originalText": "Left here for Guzo the Mariner.",
+      "cleanedText": "Left here for Guzu the Mariner."
+    },
+    {
+      "header": "[u2743 | 03:24:09.410-03:24:16.809 | DM]",
+      "lineNumber": 2743,
+      "originalText": "To sail across the big expanse of the Mawar Ocean in the Gulf of Chardin to reach Aporia.",
+      "cleanedText": "To sail across the big expanse of the Mawar Ocean in the Gulf of Chardon to reach Apporia."
+    },
+    {
+      "header": "[u2752 | 03:24:47.240-03:24:54.680 | DM]",
+      "lineNumber": 2752,
+      "originalText": "As life returns to normal in Homri, disturbed,",
+      "cleanedText": "As life returns to normal in Hamri, disturbed,"
+    }
+  ]
+}

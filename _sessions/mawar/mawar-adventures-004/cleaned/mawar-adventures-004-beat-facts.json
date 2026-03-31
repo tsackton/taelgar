@@ -1,0 +1,382 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1747-11-08",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Ander reunites with Ryu at the towers, and Jaeson arrives with a rumor about a beast extorting lizardfolk gatza to the north.",
+      "longSummary": "The session opens with Ander finding Ryu at his weathered tower above Hamri, where the two old friends catch up over tea and talk about changes in town and the strange pull of gatza and the sea. Their reunion is interrupted when Jaeson brings news from the coast: something monstrous is killing lizardfolk near Eskorola and demanding their gatza, hinting at profit even as the threat sounds serious.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Hamri",
+        "context": "Ryu's tower on the cliffs above the bay",
+        "notes": "Ander visits Ryu here after returning home to Mawar."
+      },
+      "npcs": [
+        {
+          "name": "Jaeson",
+          "role": "encountered",
+          "context": "rumor source",
+          "notes": "He brings the story of the beast troubling Eskorola and frames it as a gatza opportunity."
+        }
+      ],
+      "items": [
+        {
+          "name": "gatza pearl",
+          "role": "encountered",
+          "notes": "Ryu uses a pearl as part of explaining how the ocean and gatza have changed his life."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1747-11-08",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Ryu and Ander recruit Nerissa, sail to Eskorola, and hear Itzal describe killings, steam, and a threat demanding tribute.",
+      "longSummary": "After deciding the rumor is worth investigating, Ryu and Ander bring Nerissa into the plan and head north along the coast to the lizardfolk village of Eskorola. There they speak with the elder Itzal, who explains that villagers have been killed by a strange sea beast, that a burned corpse washed ashore with a warning note, and that the attacker seems to want a full payment of gatza left for it in the harbor.",
+      "location": {
+        "kind": "journey",
+        "from": "Hamri",
+        "to": "Eskorola",
+        "context": "a half-day sail north to the lizardfolk village",
+        "notes": "The beat ends with the party meeting the village elder after arriving."
+      },
+      "npcs": [
+        {
+          "name": "Itzal",
+          "role": "encountered",
+          "context": "village elder",
+          "notes": "He briefs the party on the deaths, the note, and the village crisis."
+        }
+      ],
+      "items": [
+        {
+          "name": "threat note",
+          "role": "encountered",
+          "notes": "A handwritten note recovered with a burned body demands gatza tribute within three days."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1747-11-08",
+      "dateEnd": "1747-11-09",
+      "timeWindow": null,
+      "shortSummary": "Amaya guides the party to the attack site, where Ryu finds a massive claw print and signs of boiling heat before the group waits out the night.",
+      "longSummary": "With Itzal's permission, the young scout Amaya ferries the party to the marshy shoreline where the most recent attack occurred. Ryu studies the site and finds a webbed claw print far larger than any local beast, while scorched plants suggest blasts of scalding water; Blu's reconnaissance later reveals a huge mist-shrouded mound deeper in the marsh, convincing the party to rest in Eskorola and make a dawn approach.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Eskorola",
+        "context": "the marshy attack site south of the mist-shrouded nest",
+        "notes": "The beat includes the scouting trip and the party's overnight stay back in the village."
+      },
+      "npcs": [
+        {
+          "name": "Amaya",
+          "role": "encountered",
+          "context": "young scout and guide",
+          "notes": "She takes the party out to the site of the most recent attack."
+        }
+      ],
+      "items": [
+        {
+          "name": "threat note",
+          "role": "encountered",
+          "notes": "The party inspects the note more closely while planning the next day's approach."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1747-11-09",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "At dawn the party paddles into the misty marsh, studies the note again, and edges toward the huge mound Blu spotted the night before.",
+      "longSummary": "After an uneasy night in Eskorola, the party sets out at first light into a marsh thick with fog, cold rain, and drifting steam. They talk through what little they know, inspect the crude warning note once more, and use Blu's report of a vast mound of vegetation to guide a slow canoe approach toward the hidden lair.",
+      "location": {
+        "kind": "journey",
+        "from": "Eskorola",
+        "to": "salt marsh north of Eskorola",
+        "context": "canoe approach through narrow channels toward the mist-covered mound",
+        "notes": "Visibility is poor and the mound itself remains mostly hidden."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "threat note",
+          "role": "encountered",
+          "notes": "The party examines the handwriting and bottle again before entering the marsh."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1747-11-09",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Nerissa's spell flushes out steam creatures in the fog, and the first wave of defenders attacks the party's canoe.",
+      "longSummary": "As Nerissa casts into the mist to reveal anything lying in wait, the marsh answers with the beating of unseen wings and a burst of hostile steam creatures. The party fends off the ambush from their canoe, with Nerissa's magic and Ryu's spear thinning the attackers while the fog keeps the rest of the threat half-hidden around them.",
+      "location": {
+        "kind": "fixed",
+        "primary": "salt marsh north of Eskorola",
+        "context": "mist-choked canoe channel at the edge of the hidden nest",
+        "notes": "The fight happens in shallow marsh water with very poor visibility."
+      },
+      "npcs": [
+        {
+          "name": "steam imps",
+          "role": "enemy",
+          "context": "flying mist guardians",
+          "notes": "They attack from concealment and breathe scalding steam."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "steam imps",
+            "notes": "Ambushers hidden in the fog around the canoe."
+          }
+        ],
+        "notes": "The opening clash begins as the party enters the hidden approach to the nest."
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1747-11-09",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "A towering fire cult guardian bursts from the water, wrecks the canoe fight, and dies in an explosion of flaming shrapnel.",
+      "longSummary": "The initial ambush gives way to a more dangerous defender when a towering armored cultist wades out of the marsh and attacks the canoe with a flaming spear. The party weathers scalding steam, a near-capsize, and brutal close fighting before bringing the guardian down, only for his body and gear to detonate in a blast that leaves Ryu and Nerissa badly wounded.",
+      "location": {
+        "kind": "fixed",
+        "primary": "salt marsh north of Eskorola",
+        "context": "shallow water beside the underwater tunnel leading into the nest",
+        "notes": "The canoe is damaged and the party ends the fight standing in or beside the water."
+      },
+      "npcs": [
+        {
+          "name": "fire cult guardian",
+          "role": "enemy",
+          "context": "armored tunnel defender",
+          "notes": "He fights with a flaming spear and explodes when killed."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "fire cult guardian",
+            "notes": "A larger defender who joins after the steam creatures and holds the tunnel mouth."
+          }
+        ],
+        "notes": "This closes the first marsh fight and leaves the party wounded but still advancing."
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1747-11-09",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "After patching themselves up, the party climbs over the mound and discovers a captive dragon turtle and a fire mage below.",
+      "longSummary": "With nothing else rushing out of the tunnel, the party takes a brief moment to heal, reconsider the underwater route, and choose the safer option of climbing over the mound itself. A weak section of the nest roof gives them a view into the chamber below, where they see a giant dragon turtle with a black spear lodged in its neck and a crackling fire mage driving it onward.",
+      "location": {
+        "kind": "journey",
+        "from": "outer marsh tunnel mouth",
+        "to": "top of the mist-nest above the interior pool",
+        "context": "climbing the rotting mound to find another way inside",
+        "notes": "The beat ends when the party first spots the mage and the bound dragon turtle."
+      },
+      "npcs": [
+        {
+          "name": "Chaessenth",
+          "role": "encountered",
+          "context": "captive dragon turtle",
+          "notes": "He appears to be controlled by a black spear burning in his neck."
+        },
+        {
+          "name": "fire mage",
+          "role": "enemy",
+          "context": "controller on the inner shore",
+          "notes": "He commands the dragon turtle from the dry bank below."
+        }
+      ],
+      "items": [
+        {
+          "name": "black spear",
+          "role": "encountered",
+          "notes": "A burning black spear or arrow is lodged deep in Chaessenth's neck."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1747-11-09",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The second battle begins with the party trying to reach Chaessenth and tear free the black spear while the fire mage hammers them from shore.",
+      "longSummary": "Once initiative starts in the chamber below, Ryu, Blu, and Nerissa focus on the black spear pinning Chaessenth in place while Ander closes on the mage. The work proves painfully difficult: the weapon burns anyone who touches it, the turtle thrashes under compulsion, and the mage keeps pressure on the party while trying to maintain control of his captive monster.",
+      "location": {
+        "kind": "fixed",
+        "primary": "mist-nest interior pool",
+        "context": "the interior chamber with a central pool, a low beach of rotting vegetation, and the mage's firing position",
+        "notes": "The party fights from the roof, water, and turtle's back all at once."
+      },
+      "npcs": [
+        {
+          "name": "fire mage",
+          "role": "enemy",
+          "context": "spellcaster on the inner shore",
+          "notes": "He keeps his distance while directing the fight with fire magic."
+        },
+        {
+          "name": "Chaessenth",
+          "role": "encountered",
+          "context": "enspelled captive",
+          "notes": "He remains hostile only because the black spear is magically controlling him."
+        }
+      ],
+      "items": [
+        {
+          "name": "black spear",
+          "role": "encountered",
+          "notes": "The party spends the beat trying to loosen it despite the heat and pain."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "fire mage",
+            "notes": "Primary hostile controller in the chamber."
+          }
+        ],
+        "notes": "The goal shifts from simple survival to freeing Chaessenth from magical control."
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1747-11-09",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The spear finally comes free, Chaessenth turns against the mage, and the party breaks the fire mage's control long enough to kill him.",
+      "longSummary": "After repeated painful attempts, the black spear comes loose and Chaessenth can finally speak enough to explain that the mage's concentration must be broken. The battle turns into a desperate scramble across collapsing footing and deep water as Nerissa and the dragon turtle are briefly caught in a dazzling spell, but Blu wakes the turtle in time and Chaessenth lunges in for the killing blow that ends the mage's hold for good.",
+      "location": {
+        "kind": "fixed",
+        "primary": "mist-nest interior pool",
+        "context": "the same chamber as the struggle shifts toward freeing and rallying the dragon turtle",
+        "notes": "The fight ends in the chamber with the mage dead and Chaessenth conscious."
+      },
+      "npcs": [
+        {
+          "name": "fire mage",
+          "role": "enemy",
+          "context": "failing controller",
+          "notes": "He relies on concentration and illusion before Chaessenth kills him."
+        },
+        {
+          "name": "Chaessenth",
+          "role": "companion",
+          "context": "freed dragon turtle ally",
+          "notes": "Once the spear is removed, he helps the party finish the battle."
+        }
+      ],
+      "items": [
+        {
+          "name": "black spear",
+          "role": "encountered",
+          "notes": "Its removal is the turning point that lets Chaessenth resist the mage."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "fire mage",
+            "notes": "The last active enemy once Chaessenth is freed."
+          }
+        ],
+        "notes": "The chamber fight ends when Chaessenth kills the mage after the party breaks his control."
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1747-11-09",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "With the mage dead, the party heals Chaessenth, learns of Khathayi and the Wanui Teora, and parts ways as the young dragon turtle heads west.",
+      "longSummary": "The aftermath turns from battle to revelation as Nerissa heals the freed dragon turtle and the party learns his name, Chaessenth. He explains that the slain mage wanted gatza to commune with the long-dead Khathayi the Flametongue, and he speaks of the songs of the ocean and the Wanui Teora before swimming west into the deep, while the party notes that the mage's golden amulet matches the symbol on Hiyasa's treasure map.",
+      "location": {
+        "kind": "journey",
+        "from": "mist-nest interior pool",
+        "to": "open western sea beyond Eskorola",
+        "context": "the chamber conversation gives way to Chaessenth's departure back into the ocean",
+        "notes": "The party returns toward the village while Chaessenth leaves for deeper waters."
+      },
+      "npcs": [
+        {
+          "name": "Chaessenth",
+          "role": "encountered",
+          "context": "newly freed dragon turtle",
+          "notes": "He shares what he knows and then chooses to head west into the deep."
+        },
+        {
+          "name": "Khathayi the Flametongue",
+          "role": "mentioned",
+          "context": "dead fire-linked figure sought by the mage",
+          "notes": "The mage wanted enough gatza to speak with Khathayi."
+        }
+      ],
+      "items": [
+        {
+          "name": "golden amulet",
+          "role": "encountered",
+          "notes": "Its symbol matches the mark on Hiyasa's treasure map."
+        },
+        {
+          "name": "Hiyasa's treasure map",
+          "role": "encountered",
+          "notes": "The party realizes the map and amulet point toward the same northern island."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

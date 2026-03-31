@@ -1,0 +1,153 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Into the Bolthole",
+      "startUid": "u0001",
+      "endUid": "u0190",
+      "lineCount": 190,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "containsCombat": false,
+      "boundaryReason": "The session opens with recap, exploration of the old pirate bolthole, and Acescale's initial scout of the cavern below. The beat ends once the party has actionable information about the undead shades and the layout.",
+      "dateEvidence": [
+        "This continues immediately from the prior session's cliffhanger at the trapdoor beneath the master bedroom.",
+        "Later table talk places the descent and first fights around lunchtime on the same day."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Shades in the Cavern",
+      "startUid": "u0191",
+      "endUid": "u0556",
+      "lineCount": 366,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "containsCombat": true,
+      "boundaryReason": "Once Acescale reports back, the group plans an ambush, fights the shades and shadows, investigates the burnt cavern, and takes a short rest. The beat ends when the rest is complete and they are ready to open the next door.",
+      "dateEvidence": [
+        "No rest or sleep transition advances the day.",
+        "The short rest is brief and occurs immediately after the first cavern fight."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Bluffing Past Arturo",
+      "startUid": "u0557",
+      "endUid": "u0859",
+      "lineCount": 303,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "containsCombat": false,
+      "boundaryReason": "After resting, the party opens the inner door, sneaks to the next chamber, meets Grimstone's human servant, and talks their way through a tense social scene instead of fighting. The beat ends after they search Arturo's belongings and regroup.",
+      "dateEvidence": [
+        "The room beyond is entered immediately after the short rest in the same underground complex.",
+        "The scene remains continuous with no indication of a day change."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Schemes and Guard Kill",
+      "startUid": "u0860",
+      "endUid": "u1263",
+      "lineCount": 404,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": true,
+      "boundaryReason": "The party debates how to reach Grimstone, attempts a bluff-based lure, then pivots to tricking and killing Arturo before pausing for a real-world break. The beat ends at the break boundary, which cleanly separates setup from the boss assault.",
+      "dateEvidence": [
+        "Dialogue places the delve in the early afternoon by this point.",
+        "There is no in-world rest or overnight transition before the break."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Approaching Grimstone",
+      "startUid": "u1264",
+      "endUid": "u1419",
+      "lineCount": 156,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "Following the break, the group makes a fresh plan, discusses invisibility and disarming Grimstone, and creeps back toward the laboratory. The beat ends the moment Grimstone spots the intrusion and initiative is rolled.",
+      "dateEvidence": [
+        "This resumes the same in-world moment after an out-of-character pause.",
+        "No time jump is implied before initiative begins."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Grimstone's Last Experiment",
+      "startUid": "u1420",
+      "endUid": "u1722",
+      "lineCount": 303,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": true,
+      "boundaryReason": "Initiative begins and the party battles Grimstone through smoke, potion blasts, and the first animated construct. The beat ends when Loria kills Grimstone, marking a strong combat-phase transition even though the construct threat remains active.",
+      "dateEvidence": [
+        "This is a continuous combat scene in the same lab encounter.",
+        "No rest or day transition occurs before Grimstone falls."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Aftermath in the Lab",
+      "startUid": "u1723",
+      "endUid": "u1965",
+      "lineCount": 243,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": true,
+      "boundaryReason": "After Grimstone dies, the party still has to finish the remaining spider swarm and stone wasp, rescue Acescale from repeated petrification, and sort Grimstone's potions and lab treasure. The beat ends once they decide to take another short rest before exploring the final rooms.",
+      "dateEvidence": [
+        "The lab aftermath follows directly from the boss fight.",
+        "The party explicitly discusses taking a short rest in the same afternoon."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Treasure Room and Long Rest",
+      "startUid": "u1966",
+      "endUid": "u2116",
+      "lineCount": 151,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "containsCombat": false,
+      "boundaryReason": "The party short rests, explores Grimstone's remaining chambers, recovers Dilion's real dog and treasure, avoids a mimic, and settles in for a long rest. The beat ends at the explicit overnight transition before the dawn escape.",
+      "dateEvidence": [
+        "The group discusses taking a short rest in the afternoon before checking the last rooms.",
+        "After looting and searching the final chambers, the transcript explicitly states, 'you rest. recover.'",
+        "No morning escape has begun yet within this beat."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Dawn Escape and Epilogues",
+      "startUid": "u2117",
+      "endUid": "u2192",
+      "lineCount": 76,
+      "dateStart": "1748-10-19",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "containsCombat": false,
+      "boundaryReason": "At dawn the party slips out of Perdoli Manor, divides treasure on the road down into the valley, and narrates where each character goes next. The beat ends with the table's closing epilogue chatter.",
+      "dateEvidence": [
+        "The transcript explicitly says they 'find yourself early in the morning.'",
+        "The group is sneaking out before the manor fully wakes up.",
+        "This is the only material that clearly belongs to the next day."
+      ]
+    }
+  ]
+}

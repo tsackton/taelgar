@@ -1,0 +1,50 @@
+{
+  "totalDurationSeconds": 9220.5,
+  "speakers": [
+    {
+      "transcriptIdentifier": "David Kong (he/him) Organizer, MIT Media Lab",
+      "name": "David Kong",
+      "gameRole": "Ryu",
+      "segmentCount": 860,
+      "durationSeconds": 2586.089,
+      "fraction": 0.2805,
+      "wordCount": 9192
+    },
+    {
+      "transcriptIdentifier": "Kate",
+      "name": "Kate Sackton",
+      "gameRole": "Nerissa",
+      "segmentCount": 329,
+      "durationSeconds": 851.67,
+      "fraction": 0.0924,
+      "wordCount": 2531
+    },
+    {
+      "transcriptIdentifier": "Rev. David (he/him)",
+      "name": "David Schwartz",
+      "gameRole": "Ander",
+      "segmentCount": 349,
+      "durationSeconds": 851.97,
+      "fraction": 0.0924,
+      "wordCount": 2885
+    },
+    {
+      "transcriptIdentifier": "Timothy Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 1513,
+      "durationSeconds": 4854.421,
+      "fraction": 0.5265,
+      "wordCount": 13634
+    },
+    {
+      "transcriptIdentifier": "Unknown",
+      "name": null,
+      "gameRole": "Unknown",
+      "segmentCount": 141,
+      "durationSeconds": 76.35,
+      "fraction": 0.0083,
+      "wordCount": 191
+    }
+  ]
+}

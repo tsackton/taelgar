@@ -1,0 +1,1021 @@
+{
+  "summary": {
+    "changedLineCount": 146,
+    "replacementCount": 140,
+    "repeatedReplacementCount": 10,
+    "topReplacements": [
+      {
+        "from": "a scale",
+        "to": "Acescale",
+        "count": 20,
+        "headers": [
+          "[u0111 | 00:11:25.910-00:11:35.779 | DM]",
+          "[u0308 | 00:32:01.670-00:32:11.289 | Dilion]",
+          "[u0314 | 00:32:34.990-00:32:40.000 | DM]",
+          "[u0490 | 00:50:10.130-00:50:21.749 | Dilion]",
+          "[u0859 | 01:26:17.810-01:26:30.389 | DM]",
+          "[u1592 | 02:37:12.290-02:37:18.039 | DM]",
+          "[u1751 | 02:52:04.140-02:52:08.070 | DM]",
+          "[u1762 | 02:52:54.660-02:52:56.869 | DM]",
+          "[u1799 | 02:56:57.790-02:57:09.869 | DM]",
+          "[u1820 | 02:58:29.930-02:58:33.080 | DM]",
+          "[u1833 | 02:59:26.560-02:59:33.020 | DM]",
+          "[u1865 | 03:02:35.540-03:02:43.950 | Loria]",
+          "[u1879 | 03:03:46.370-03:03:49.709 | DM]",
+          "[u1895 | 03:05:14.250-03:05:17.679 | DM]",
+          "[u1918 | 03:07:20.770-03:07:25.550 | Loria]",
+          "[u2063 | 03:21:52.460-03:21:58.570 | Acescale]",
+          "[u2072 | 03:22:39.380-03:22:46.769 | Dilion]",
+          "[u2095 | 03:24:37.170-03:24:45.309 | Dilion]",
+          "[u2155 | 03:30:33.140-03:30:42.729 | Acescale]"
+        ]
+      },
+      {
+        "from": "Laura",
+        "to": "Loria",
+        "count": 8,
+        "headers": [
+          "[u0128 | 00:12:57.350-00:13:04.550 | DM]",
+          "[u0635 | 01:05:13.840-01:05:16.559 | DM]",
+          "[u1169 | 01:54:11.670-01:54:20.790 | DM]",
+          "[u1390 | 02:20:46.430-02:20:51.430 | DM]",
+          "[u1524 | 02:31:21.760-02:31:23.119 | Unknown]",
+          "[u1540 | 02:32:42.480-02:32:46.160 | DM]",
+          "[u1691 | 02:47:05.100-02:47:07.269 | DM]",
+          "[u2183 | 03:33:51.450-03:33:56.200 | Gaudin]"
+        ]
+      },
+      {
+        "from": "Lauria",
+        "to": "Loria",
+        "count": 8,
+        "headers": [
+          "[u0342 | 00:35:21.370-00:35:27.400 | Loria]",
+          "[u0401 | 00:41:19.550-00:41:24.250 | DM]",
+          "[u0444 | 00:45:12.720-00:45:21.560 | DM]",
+          "[u1386 | 02:20:23.510-02:20:32.810 | DM]",
+          "[u1415 | 02:23:03.620-02:23:07.159 | Loria]",
+          "[u1595 | 02:37:33.900-02:37:38.230 | DM]",
+          "[u1850 | 03:01:00.190-03:01:14.070 | DM]",
+          "[u2172 | 03:32:50.720-03:32:56.120 | Loria]"
+        ]
+      },
+      {
+        "from": "Eldridge",
+        "to": "eldritch",
+        "count": 6,
+        "headers": [
+          "[u0395 | 00:40:37.890-00:40:47.310 | Gaudin]",
+          "[u0461 | 00:46:47.250-00:46:53.219 | Gaudin]",
+          "[u0619 | 01:03:30.530-01:03:34.019 | Gaudin]",
+          "[u1204 | 01:57:29.640-01:57:34.520 | Gaudin]",
+          "[u1428 | 02:23:46.520-02:23:49.059 | Gaudin]",
+          "[u1741 | 02:51:11.390-02:51:14.539 | Gaudin]"
+        ]
+      },
+      {
+        "from": "Gordon",
+        "to": "Gaudin",
+        "count": 4,
+        "headers": [
+          "[u0460 | 00:46:38.000-00:46:46.560 | DM]",
+          "[u0941 | 01:34:29.250-01:34:35.499 | DM]",
+          "[u1090 | 01:47:26.820-01:47:30.189 | DM]",
+          "[u1723 | 02:49:58.190-02:50:02.139 | DM]"
+        ]
+      },
+      {
+        "from": "quarter",
+        "to": "corridor",
+        "count": 4,
+        "headers": [
+          "[u0157 | 00:15:36.570-00:15:47.370 | DM]",
+          "[u0621 | 01:03:40.440-01:03:44.380 | DM]",
+          "[u0666 | 01:08:06.840-01:08:15.430 | DM]",
+          "[u1256 | 02:02:19.550-02:02:21.400 | DM]"
+        ]
+      },
+      {
+        "from": "Gloria",
+        "to": "Loria",
+        "count": 3,
+        "headers": [
+          "[u0370 | 00:38:05.610-00:38:08.360 | DM]",
+          "[u0708 | 01:12:28.330-01:12:32.179 | Gaudin]",
+          "[u1203 | 01:57:22.140-01:57:27.670 | Loria]"
+        ]
+      },
+      {
+        "from": "manner",
+        "to": "manor",
+        "count": 3,
+        "headers": [
+          "[u0028 | 00:02:59.150-00:03:01.740 | Acescale]",
+          "[u0052 | 00:05:17.530-00:05:27.629 | DM]",
+          "[u2118 | 03:26:43.100-03:26:46.870 | DM]"
+        ]
+      },
+      {
+        "from": "steam pop",
+        "to": "steampup",
+        "count": 2,
+        "headers": [
+          "[u0081 | 00:08:23.930-00:08:36.640 | Dilion]",
+          "[u0525 | 00:54:18.230-00:54:23.580 | Dilion]"
+        ]
+      },
+      {
+        "from": "swag mites",
+        "to": "stalagmites",
+        "count": 2,
+        "headers": [
+          "[u0610 | 01:02:48.230-01:02:56.469 | DM]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 2192,
+  "changedLineCount": 146,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0003 | 00:00:11.620-00:00:13.710 | DM]",
+      "lineNumber": 3,
+      "originalText": "in the spadrum.",
+      "cleanedText": "in the bedroom."
+    },
+    {
+      "header": "[u0005 | 00:00:18.840-00:00:30.219 | DM]",
+      "lineNumber": 5,
+      "originalText": "what was once, long ago like hundreds of years ago, the the master bedroom suite of this Ferdolli family that built this manor.",
+      "cleanedText": "what was once, long ago like hundreds of years ago, the the master bedroom suite of this Perdoli family that built this manor."
+    },
+    {
+      "header": "[u0011 | 00:00:59.620-00:01:05.510 | DM]",
+      "lineNumber": 11,
+      "originalText": "Got in convincing the pirate that you, in fact, were his lost love.",
+      "cleanedText": "Gaudin convincing the pirate that you, in fact, were his lost love."
+    },
+    {
+      "header": "[u0012 | 00:01:05.640-00:01:18.770 | DM]",
+      "lineNumber": 12,
+      "originalText": "What was her name? Pertola? He revealed that Grimstone comes up and down this trap door once a week when he goes to petrify his victims.",
+      "cleanedText": "What was her name? Petrona? He revealed that Grimstone comes up and down this trap door once a week when he goes to petrify his victims."
+    },
+    {
+      "header": "[u0017 | 00:01:54.220-00:01:59.719 | DM]",
+      "lineNumber": 17,
+      "originalText": "pet with a 10 foot ladder that drops down to a stone room below",
+      "cleanedText": "pit with a 10 foot ladder that drops down to a stone room below"
+    },
+    {
+      "header": "[u0024 | 00:02:32.240-00:02:39.450 | Dilion]",
+      "lineNumber": 24,
+      "originalText": "Was there any objections to stolen ahead",
+      "cleanedText": "Was there any objection to scouting ahead"
+    },
+    {
+      "header": "[u0028 | 00:02:59.150-00:03:01.740 | Acescale]",
+      "lineNumber": 28,
+      "originalText": "dime a dozen in this manner.",
+      "cleanedText": "dime a dozen in this manor."
+    },
+    {
+      "header": "[u0031 | 00:03:14.790-00:03:16.859 | Unknown]",
+      "lineNumber": 31,
+      "originalText": "So you jumped down into the bulk hole.",
+      "cleanedText": "So you jumped down into the bolthole."
+    },
+    {
+      "header": "[u0036 | 00:03:45.310-00:03:46.020 | Unknown]",
+      "lineNumber": 36,
+      "originalText": "app.",
+      "cleanedText": "gap."
+    },
+    {
+      "header": "[u0052 | 00:05:17.530-00:05:27.629 | DM]",
+      "lineNumber": 52,
+      "originalText": "manner, this construction. The nicely laid masonry, was like the same style of construction as the rest of the manor that you've seen. This was probably like a",
+      "cleanedText": "manor, this construction. The nicely laid masonry, was like the same style of construction as the rest of the manor that you've seen. This was probably like a"
+    },
+    {
+      "header": "[u0053 | 00:05:28.320-00:05:34.850 | DM]",
+      "lineNumber": 53,
+      "originalText": "a much older vocal constructed by the original occupants of the manor and the",
+      "cleanedText": "a much older bolthole constructed by the original occupants of the manor and the"
+    },
+    {
+      "header": "[u0055 | 00:05:43.990-00:05:49.259 | DM]",
+      "lineNumber": 55,
+      "originalText": "There's evidence that this has been. This phone call has been looted like you can see that there's",
+      "cleanedText": "There's evidence that this has been. This bolthole has been looted like you can see that there's"
+    },
+    {
+      "header": "[u0069 | 00:07:27.610-00:07:31.059 | Dilion]",
+      "lineNumber": 69,
+      "originalText": "We sorry, sir? Alright! It's not darkfish, and",
+      "cleanedText": "Sorry, sure. Alright. It's not darkvision, and"
+    },
+    {
+      "header": "[u0070 | 00:07:31.480-00:07:47.190 | Dilion]",
+      "lineNumber": 70,
+      "originalText": "yes, and I don't have dark vision. So I imagine we're also going to probably light some sort of watch if the darkness is strong enough, because, you see, there's some light coming through in this original. Yeah. So as soon as you enter this corridor that leads north.",
+      "cleanedText": "yes, and I don't have darkvision. So I imagine we're also going to probably light some sort of torch if the darkness is strong enough, because, you see, there's some light coming through in this original. Yeah. So as soon as you enter this corridor that leads north."
+    },
+    {
+      "header": "[u0072 | 00:07:49.790-00:07:51.520 | Unknown]",
+      "lineNumber": 72,
+      "originalText": "that's been dead out of the earth.",
+      "cleanedText": "that's been dug out of the earth."
+    },
+    {
+      "header": "[u0078 | 00:08:12.040-00:08:13.770 | Acescale]",
+      "lineNumber": 78,
+      "originalText": "Is the pop.",
+      "cleanedText": "Is the pup"
+    },
+    {
+      "header": "[u0079 | 00:08:13.860-00:08:17.970 | Acescale]",
+      "lineNumber": 79,
+      "originalText": "Yes, the steam cup fully healed at this point, or would you like",
+      "cleanedText": "Yes, the steampup fully healed at this point, or would you like"
+    },
+    {
+      "header": "[u0081 | 00:08:23.930-00:08:36.640 | Dilion]",
+      "lineNumber": 81,
+      "originalText": "I thought amending. Don't bother rolling that just oh, yeah, I think it's automatic. Let's just do it. Yeah, okay, quick. A quick mending spell would give the steam pop back to full health.",
+      "cleanedText": "I thought amending. Don't bother rolling that just oh, yeah, I think it's automatic. Let's just do it. Yeah, okay, quick. A quick mending spell would give the steampup back to full health."
+    },
+    {
+      "header": "[u0088 | 00:09:22.060-00:09:23.189 | DM]",
+      "lineNumber": 88,
+      "originalText": "who's after Stephen?",
+      "cleanedText": "who's after steampup?"
+    },
+    {
+      "header": "[u0091 | 00:09:41.050-00:09:44.530 | Loria]",
+      "lineNumber": 91,
+      "originalText": "Yeah, okay, I can go behind steamp.",
+      "cleanedText": "Yeah, okay, I can go behind steampup."
+    },
+    {
+      "header": "[u0096 | 00:09:59.550-00:10:15.420 | DM]",
+      "lineNumber": 96,
+      "originalText": "So the wounded warlock is taking up the rear. But he can tug on me violently. Yes. So so the steam Puck begins to slowly lead you down this dark corridor,",
+      "cleanedText": "So the wounded warlock is taking up the rear. But he can tug on me violently. Yes. So so the steampup begins to slowly lead you down this dark corridor,"
+    },
+    {
+      "header": "[u0100 | 00:10:28.240-00:10:35.709 | DM]",
+      "lineNumber": 100,
+      "originalText": "1020, 30, 40 feet, suddenly the dog stops short.",
+      "cleanedText": "10, 20, 30, 40 feet, suddenly the dog stops short."
+    },
+    {
+      "header": "[u0103 | 00:10:41.420-00:10:51.679 | DM]",
+      "lineNumber": 103,
+      "originalText": "m motions, and so use a scale. Who's in front? Who's can see over the tiny little hop like you notice that there's a giant hole",
+      "cleanedText": "motions, and so you, Acescale, who's in front, who can see over the tiny little pup, notice that there's a giant hole"
+    },
+    {
+      "header": "[u0111 | 00:11:25.910-00:11:35.779 | DM]",
+      "lineNumber": 111,
+      "originalText": "a scale? You can see the bottom there. It's about 30 feet to the bottom. It looks like a cavern of some kind that you're looking down into",
+      "cleanedText": "Acescale? You can see the bottom there. It's about 30 feet to the bottom. It looks like a cavern of some kind that you're looking down into"
+    },
+    {
+      "header": "[u0112 | 00:11:37.470-00:11:41.680 | Dilion]",
+      "lineNumber": 112,
+      "originalText": "like natural. Look, Doug, like a natural cavern. Yeah.",
+      "cleanedText": "like natural-looking, like a natural cavern. Yeah."
+    },
+    {
+      "header": "[u0128 | 00:12:57.350-00:13:04.550 | DM]",
+      "lineNumber": 128,
+      "originalText": "but Laura is pretty small, so I think you can probably squeeze past her and look down over the edge.",
+      "cleanedText": "but Loria is pretty small, so I think you can probably squeeze past her and look down over the edge."
+    },
+    {
+      "header": "[u0135 | 00:13:33.520-00:13:38.369 | DM]",
+      "lineNumber": 135,
+      "originalText": "I mean, it's dark, so it counts as dim light for dark version. So minus 5. So",
+      "cleanedText": "I mean, it's dark, so it counts as dim light for darkvision. So minus 5. So"
+    },
+    {
+      "header": "[u0157 | 00:15:36.570-00:15:47.370 | DM]",
+      "lineNumber": 157,
+      "originalText": "so you wanna fly across the poll first and see where the quarter goes. Yeah, I'll fly across the little gap. Okay, you fly across the gap",
+      "cleanedText": "so you wanna fly across the pit first and see where the corridor goes. Yeah, I'll fly across the little gap. Okay, you fly across the gap"
+    },
+    {
+      "header": "[u0177 | 00:17:36.390-00:17:38.319 | Acescale]",
+      "lineNumber": 177,
+      "originalText": "Pitt is yeah.",
+      "cleanedText": "pit is yeah."
+    },
+    {
+      "header": "[u0188 | 00:18:42.630-00:18:50.529 | DM]",
+      "lineNumber": 188,
+      "originalText": "hint of like, you know, Stellar's coats with high necks and like little pirate taps on their heads.",
+      "cleanedText": "hint of like, you know, sailors' coats with high necks and like little pirate caps on their heads."
+    },
+    {
+      "header": "[u0189 | 00:18:51.780-00:19:04.830 | DM]",
+      "lineNumber": 189,
+      "originalText": "They are they are ghosties, they are ghosty. I mean, they're not ghosts like the guy upstairs was like battery shades. But they're incorporated. Yes, they seem not to have noticed.",
+      "cleanedText": "They are they are ghosties, they are ghosty. I mean, they're not ghosts like the guy upstairs was, they're like better shades. But they're incorporeal. Yes, they seem not to have noticed."
+    },
+    {
+      "header": "[u0199 | 00:19:56.440-00:20:00.980 | Unknown]",
+      "lineNumber": 199,
+      "originalText": "Anybody who has Arkana or religion can roll a check?",
+      "cleanedText": "Anybody who has Arcana or religion can roll a check?"
+    },
+    {
+      "header": "[u0200 | 00:20:01.640-00:20:05.720 | Dilion]",
+      "lineNumber": 200,
+      "originalText": "Anybody has proficiency in our economy or religion.",
+      "cleanedText": "Anybody has proficiency in Arcana or religion."
+    },
+    {
+      "header": "[u0205 | 00:20:18.940-00:20:25.439 | Dilion]",
+      "lineNumber": 205,
+      "originalText": "poor solita 9 for",
+      "cleanedText": "Poor result, a 9 total."
+    },
+    {
+      "header": "[u0219 | 00:21:22.070-00:21:33.409 | Acescale]",
+      "lineNumber": 219,
+      "originalText": "I could have to splash the weak looking ones from on high in the sky, and then and then fly back or get pulled violently by you all, if you like.",
+      "cleanedText": "I could acid splash the weak looking ones from on high in the sky, and then and then fly back or get pulled violently by you all, if you like."
+    },
+    {
+      "header": "[u0225 | 00:22:18.080-00:22:23.409 | Acescale]",
+      "lineNumber": 225,
+      "originalText": "I think there's a railroad at the bottom of the cavern as well.",
+      "cleanedText": "I think there's a rope ladder at the bottom of the cavern as well."
+    },
+    {
+      "header": "[u0228 | 00:22:31.620-00:22:42.120 | Dilion]",
+      "lineNumber": 228,
+      "originalText": "any sort of spic? I think I might cast, and like a light spell, because that would either attract them like moths or 2. Would",
+      "cleanedText": "any sort of spell? I think I might cast like a light spell, because that would either attract them like moths or 2, would"
+    },
+    {
+      "header": "[u0236 | 00:23:24.570-00:23:27.280 | Loria]",
+      "lineNumber": 236,
+      "originalText": "Yeah. But Portuguese, right?",
+      "cleanedText": "Yeah. But torches, right?"
+    },
+    {
+      "header": "[u0254 | 00:25:07.000-00:25:10.970 | Dilion]",
+      "lineNumber": 254,
+      "originalText": "Elizabeth Elizabeth folk a",
+      "cleanedText": "Acescale a"
+    },
+    {
+      "header": "[u0256 | 00:25:27.300-00:25:29.920 | Acescale]",
+      "lineNumber": 256,
+      "originalText": "Paypal down there, too.",
+      "cleanedText": "pebble down there, too."
+    },
+    {
+      "header": "[u0258 | 00:25:43.760-00:25:46.240 | Acescale]",
+      "lineNumber": 258,
+      "originalText": "There's a rope letter. Yeah.",
+      "cleanedText": "There's a rope ladder. Yeah."
+    },
+    {
+      "header": "[u0265 | 00:26:16.440-00:26:21.489 | Acescale]",
+      "lineNumber": 265,
+      "originalText": "I turn to to Gabon, and I say",
+      "cleanedText": "I turn to Gaudin, and I say"
+    },
+    {
+      "header": "[u0280 | 00:27:45.220-00:27:46.900 | DM]",
+      "lineNumber": 280,
+      "originalText": "exet. The",
+      "cleanedText": "exit. The"
+    },
+    {
+      "header": "[u0287 | 00:28:20.990-00:28:28.320 | Dilion]",
+      "lineNumber": 287,
+      "originalText": "pocket pibbles and just like, scare me. Yeah. Scattered them around quite violently. I don't know.",
+      "cleanedText": "pocket pebbles and just like, scare me. Yeah. Scattered them around quite violently. I don't know."
+    },
+    {
+      "header": "[u0297 | 00:29:47.110-00:29:59.090 | Dilion]",
+      "lineNumber": 297,
+      "originalText": "Yeah, we have the tools you can touch a tiny, non-edual object doesn't actually give. She is bright, light and 5 foot. So it's like a light tantrum, but a lot, but like less intense.",
+      "cleanedText": "Yeah, we have the tools. You can touch a tiny, nonmagical object. It actually gives bright light in 5 feet. So it's like a light cantrip, but less intense."
+    },
+    {
+      "header": "[u0300 | 00:30:12.160-00:30:39.919 | Dilion]",
+      "lineNumber": 300,
+      "originalText": "I think we do. Okay, let's have a let's let's just call it a bag of distractions differently. One pimple that's extra light, extra bright. I've made like a an explosion sound a scream and and something that just reeks of cabbage.",
+      "cleanedText": "I think we do. Okay, let's have a let's let's just call it a bag of distractions. One pebble that's extra light, extra bright. I've made like an explosion sound, a scream, and something that just reeks of cabbage."
+    },
+    {
+      "header": "[u0308 | 00:32:01.670-00:32:11.289 | Dilion]",
+      "lineNumber": 308,
+      "originalText": "ready done! Alright. Plan goes. Well, float down a scale floats down, holding",
+      "cleanedText": "ready done! Alright. Plan goes. Well, float down Acescale floats down, holding"
+    },
+    {
+      "header": "[u0314 | 00:32:34.990-00:32:40.000 | DM]",
+      "lineNumber": 314,
+      "originalText": "the so you begin to climb down the ladder as a scale floats down",
+      "cleanedText": "the so you begin to climb down the ladder as Acescale floats down"
+    },
+    {
+      "header": "[u0317 | 00:33:09.440-00:33:21.590 | DM]",
+      "lineNumber": 317,
+      "originalText": "Dylan is not invisible, and you're just climbing down. Okay? So Dylan, make a South Jack as you.",
+      "cleanedText": "Dylan is not invisible, and you're just climbing down. Okay? So Dylan, make a stealth check as you."
+    },
+    {
+      "header": "[u0342 | 00:35:21.370-00:35:27.400 | Loria]",
+      "lineNumber": 342,
+      "originalText": "f. 5 for Dylan. 13. What did Lauria roll?",
+      "cleanedText": "f. 5 for Dylan. 13. What did Loria roll?"
+    },
+    {
+      "header": "[u0346 | 00:36:00.050-00:36:08.779 | DM]",
+      "lineNumber": 346,
+      "originalText": "scattered over now. So yes. But Aeska, Loria, and Dowden, I'll get the jump from them.",
+      "cleanedText": "scattered over now. So yes. But Acescale, Loria, and Gaudin, all get the jump on them."
+    },
+    {
+      "header": "[u0370 | 00:38:05.610-00:38:08.360 | DM]",
+      "lineNumber": 370,
+      "originalText": "Gloria's next and then got in.",
+      "cleanedText": "Loria's next and then Gaudin."
+    },
+    {
+      "header": "[u0391 | 00:40:24.000-00:40:25.790 | DM]",
+      "lineNumber": 391,
+      "originalText": "Gareth, and you're up",
+      "cleanedText": "Gaudin, and you're up"
+    },
+    {
+      "header": "[u0395 | 00:40:37.890-00:40:47.310 | Gaudin]",
+      "lineNumber": 395,
+      "originalText": "Eldridge",
+      "cleanedText": "eldritch"
+    },
+    {
+      "header": "[u0401 | 00:41:19.550-00:41:24.250 | DM]",
+      "lineNumber": 401,
+      "originalText": "as the 2 shadows now close in on Lauria.",
+      "cleanedText": "as the 2 shadows now close in on Loria."
+    },
+    {
+      "header": "[u0444 | 00:45:12.720-00:45:21.560 | DM]",
+      "lineNumber": 444,
+      "originalText": "I get to fly this combat. I won't get to fly the next one. I'm hanging out. Okay, stay out of danger. Lauria, and then garden.",
+      "cleanedText": "I get to fly this combat. I won't get to fly the next one. I'm hanging out. Okay, stay out of danger. Loria, and then garden."
+    },
+    {
+      "header": "[u0460 | 00:46:38.000-00:46:46.560 | DM]",
+      "lineNumber": 460,
+      "originalText": "to a second sorrow. As Gordon, you look down and see now only one shade remaining.",
+      "cleanedText": "to a second sorrow. As Gaudin, you look down and see now only one shade remaining."
+    },
+    {
+      "header": "[u0461 | 00:46:47.250-00:46:53.219 | Gaudin]",
+      "lineNumber": 461,
+      "originalText": "so I lock eyes with it. And, Eldridge, blast",
+      "cleanedText": "so I lock eyes with it. And, eldritch, blast"
+    },
+    {
+      "header": "[u0473 | 00:47:55.270-00:48:10.609 | DM]",
+      "lineNumber": 473,
+      "originalText": "you see just like it looks like fire would just port into this entire room like somebody stood up above and just cast a few fireballs down there. But long ago. This isn't fresh. This is",
+      "cleanedText": "you see just like it looks like fire was just poured into this entire room like somebody stood up above and just cast a few fireballs down there. But long ago. This isn't fresh. This is"
+    },
+    {
+      "header": "[u0477 | 00:48:24.770-00:48:37.940 | Loria]",
+      "lineNumber": 477,
+      "originalText": "clutching my ribs. Kind of hold place. Are we gonna do a short rest, I assume? Yes, I think I think lauriel needs",
+      "cleanedText": "clutching my ribs. Kind of hold place. Are we gonna do a short rest, I assume? Yes, I think I think Loria needs"
+    },
+    {
+      "header": "[u0490 | 00:50:10.130-00:50:21.749 | Dilion]",
+      "lineNumber": 490,
+      "originalText": "I'm I'm I'm with them. a scale. Make an investigation check, or both of you making this",
+      "cleanedText": "I'm I'm I'm with them. Acescale. Make an investigation check, or both of you making this"
+    },
+    {
+      "header": "[u0515 | 00:52:58.050-00:53:07.480 | DM]",
+      "lineNumber": 515,
+      "originalText": "this, like other country, Tolen or City tollen, pretty much rules this area. But you know, 50 years ago this was basically like a pirate",
+      "cleanedText": "this, like other country, Tollen or the city of Tollen, pretty much rules this area. But you know, 50 years ago this was basically like a pirate"
+    },
+    {
+      "header": "[u0525 | 00:54:18.230-00:54:23.580 | Dilion]",
+      "lineNumber": 525,
+      "originalText": "just a chew toy for the steam pop. And I think I was, I was able to",
+      "cleanedText": "just a chew toy for the steampup. And I think I was, I was able to"
+    },
+    {
+      "header": "[u0532 | 00:54:47.950-00:54:54.790 | DM]",
+      "lineNumber": 532,
+      "originalText": "your Gloria, your taxes restored as you complete your short rest.",
+      "cleanedText": "your dex is restored as you complete your short rest."
+    },
+    {
+      "header": "[u0566 | 00:58:38.680-00:58:44.549 | Gaudin]",
+      "lineNumber": 566,
+      "originalText": "Can my mage hand like, gently caress the door to ascertain its its dornus.",
+      "cleanedText": "Can my mage hand like, gently caress the door to ascertain its, its doorness."
+    },
+    {
+      "header": "[u0601 | 01:01:58.750-01:02:10.250 | DM]",
+      "lineNumber": 601,
+      "originalText": "the the corridor, and you can see like ahead of you. Well, I don't know. What do you? What what's happened to all the light puddles is somebody carrying them? Are they shielded? Is it pitch black?",
+      "cleanedText": "the the corridor, and you can see like ahead of you. Well, I don't know. What do you? What what's happened to all the light pebbles is somebody carrying them? Are they shielded? Is it pitch black?"
+    },
+    {
+      "header": "[u0609 | 01:02:39.490-01:02:48.010 | DM]",
+      "lineNumber": 609,
+      "originalText": "into this corridor, which looks like a narrow natural cave corridor, right like this is like, there's the rag tights on the top. There's",
+      "cleanedText": "into this corridor, which looks like a narrow natural cave corridor, right like this is like, there's the stalactites on the top. There's"
+    },
+    {
+      "header": "[u0610 | 01:02:48.230-01:02:56.469 | DM]",
+      "lineNumber": 610,
+      "originalText": "swag mites on the bottom. It's just like I mean that? Well, the swag mites on the bottom have been crushed right. It's like people have been walking back and forth here.",
+      "cleanedText": "stalagmites on the bottom. It's just like I mean that? Well, the stalagmites on the bottom have been crushed right. It's like people have been walking back and forth here."
+    },
+    {
+      "header": "[u0615 | 01:03:14.720-01:03:18.610 | Loria]",
+      "lineNumber": 615,
+      "originalText": "Oh, Gloria Dylan Dowden.",
+      "cleanedText": "Oh, Loria, Dilion, Gaudin."
+    },
+    {
+      "header": "[u0616 | 01:03:18.640-01:03:24.539 | Loria]",
+      "lineNumber": 616,
+      "originalText": "Gavin, how are you feeling after the rest? Are you okay? I'm up. I'm up to my 24. So oh, yeah.",
+      "cleanedText": "Gaudin, how are you feeling after the rest? Are you okay? I'm up. I'm up to my 24. So oh, yeah."
+    },
+    {
+      "header": "[u0619 | 01:03:30.530-01:03:34.019 | Gaudin]",
+      "lineNumber": 619,
+      "originalText": "excellent! My Eldridge blast is loaded. So",
+      "cleanedText": "excellent! My eldritch blast is loaded. So"
+    },
+    {
+      "header": "[u0621 | 01:03:40.440-01:03:44.380 | DM]",
+      "lineNumber": 621,
+      "originalText": "quietly down this quarter. Can everybody make a stop? Check",
+      "cleanedText": "quietly down this corridor. Can everybody make a stealth check"
+    },
+    {
+      "header": "[u0635 | 01:05:13.840-01:05:16.559 | DM]",
+      "lineNumber": 635,
+      "originalText": "Laura, you hear",
+      "cleanedText": "Loria, you hear"
+    },
+    {
+      "header": "[u0653 | 01:06:44.150-01:06:46.989 | DM]",
+      "lineNumber": 653,
+      "originalText": "I mean, steam pops nearly as big as you.",
+      "cleanedText": "I mean, steampups nearly as big as you."
+    },
+    {
+      "header": "[u0655 | 01:06:52.520-01:06:54.830 | Loria]",
+      "lineNumber": 655,
+      "originalText": "steam pump is",
+      "cleanedText": "steampup is"
+    },
+    {
+      "header": "[u0656 | 01:06:56.610-01:07:08.909 | Loria]",
+      "lineNumber": 656,
+      "originalText": "steam up as medium. You are small steam pops actually bigger than you. I would like to be riding steam. Pub, please.",
+      "cleanedText": "steampup is Medium. You are Small. steampup's actually bigger than you. I would like to be riding steampup, please."
+    },
+    {
+      "header": "[u0666 | 01:08:06.840-01:08:15.430 | DM]",
+      "lineNumber": 666,
+      "originalText": "like coming from around the the bend the quarter ahead of you. Bend slightly to the right, and there's flickering torchlight",
+      "cleanedText": "like coming from around the the bend in the corridor ahead of you. Bend slightly to the right, and there's flickering torchlight"
+    },
+    {
+      "header": "[u0680 | 01:09:33.729-01:09:40.290 | DM]",
+      "lineNumber": 680,
+      "originalText": "a half lane. I'm a dog rounds the corner and you see",
+      "cleanedText": "a halfling. I'm a dog rounds the corner and you see"
+    },
+    {
+      "header": "[u0708 | 01:12:28.330-01:12:32.179 | Gaudin]",
+      "lineNumber": 708,
+      "originalText": "I kind of cringe, and I and I kick Gloria on the ground",
+      "cleanedText": "I kind of cringe, and I and I kick Loria on the ground"
+    },
+    {
+      "header": "[u0712 | 01:12:41.720-01:12:44.780 | Unknown]",
+      "lineNumber": 712,
+      "originalText": "This like a special treat for Grimsthin?",
+      "cleanedText": "This like a special treat for Grimstone?"
+    },
+    {
+      "header": "[u0719 | 01:13:05.610-01:13:08.259 | Unknown]",
+      "lineNumber": 719,
+      "originalText": "aflang is for a Grimstone, but it's",
+      "cleanedText": "halfling is for a Grimstone, but it's"
+    },
+    {
+      "header": "[u0859 | 01:26:17.810-01:26:30.389 | DM]",
+      "lineNumber": 859,
+      "originalText": "It's like empty stuff, right? Like it's a bunch of glass like he spent a while rooting around, and there was nothing was all just like empty glass vials like you, a scale would recognize this. This is basically a complete set of Alcatra",
+      "cleanedText": "It's like empty stuff, right? Like it's a bunch of glass like he spent a while rooting around, and there was nothing was all just like empty glass vials like you, Acescale would recognize this. This is basically a complete set of alchemist's"
+    },
+    {
+      "header": "[u0868 | 01:27:15.670-01:27:24.710 | Acescale]",
+      "lineNumber": 868,
+      "originalText": "wore some of these clothes. and when it interrupted grim scale in there. say the basilisk is escaping, or something.",
+      "cleanedText": "wore some of these clothes. and when it interrupted Grimstone in there. say the basilisk is escaping, or something."
+    },
+    {
+      "header": "[u0878 | 01:28:13.540-01:28:19.280 | Gaudin]",
+      "lineNumber": 878,
+      "originalText": "I mean, we don't even need, though, like we could just bang on the door and say the Baskolas has escaped.",
+      "cleanedText": "I mean, we don't even need, though, like we could just bang on the door and say the basilisk has escaped."
+    },
+    {
+      "header": "[u0928 | 01:32:59.360-01:33:05.199 | Unknown]",
+      "lineNumber": 928,
+      "originalText": "I will knock on the door as the deuce this guy! So the Baskolis has escaped.",
+      "cleanedText": "I will knock on the door as the deuce this guy! So the basilisk has escaped."
+    },
+    {
+      "header": "[u0929 | 01:33:05.760-01:33:16.349 | Gaudin]",
+      "lineNumber": 929,
+      "originalText": "So so it's not remember it's not a door, it's just a oh, sorry door, so it's a corridor. I will start screaming the vasculus, the vasculus, and I'll run in. I don't have his voice",
+      "cleanedText": "So, so it's not, remember, it's not a door, it's just a, oh, sorry, corridor. So I will start screaming, \"The basilisk! The basilisk!\" and I'll run in. I don't have his voice."
+    },
+    {
+      "header": "[u0941 | 01:34:29.250-01:34:35.499 | DM]",
+      "lineNumber": 941,
+      "originalText": "As Gordon comes around the bend of the corridor you can see that it",
+      "cleanedText": "As Gaudin comes around the bend of the corridor you can see that it"
+    },
+    {
+      "header": "[u0954 | 01:35:55.490-01:36:04.019 | DM]",
+      "lineNumber": 954,
+      "originalText": "carefully. He's wearing like robes, but also he's got what looks like a ocean bandelier like strung across his",
+      "cleanedText": "carefully. He's wearing like robes, but also he's got what looks like a potion bandolier like strung across his"
+    },
+    {
+      "header": "[u0967 | 01:37:00.660-01:37:03.799 | Unknown]",
+      "lineNumber": 967,
+      "originalText": "as this potion-yuck. You explodes",
+      "cleanedText": "as this potion hits you. It explodes"
+    },
+    {
+      "header": "[u0968 | 01:37:05.350-01:37:10.570 | Gaudin]",
+      "lineNumber": 968,
+      "originalText": "and he yells, get out! Now, you may have ruined this. the basilis. It's escaped.",
+      "cleanedText": "and he yells, get out! Now, you may have ruined this. The basilisk. It's escaped."
+    },
+    {
+      "header": "[u1023 | 01:41:33.620-01:41:38.109 | Gaudin]",
+      "lineNumber": 1023,
+      "originalText": "Was there anybody else in the post-it room that I saw?",
+      "cleanedText": "Was there anybody else in the potion room that I saw?"
+    },
+    {
+      "header": "[u1028 | 01:41:56.360-01:42:08.370 | Gaudin]",
+      "lineNumber": 1028,
+      "originalText": "fairly large spider, also about 3 feet long, but they look like stone statues. There wasn't anybody else moving. Okay, they were the only intact statute in the room. Everything else was like pieces of statue.",
+      "cleanedText": "fairly large spider, also about 3 feet long, but they look like stone statues. There wasn't anybody else moving. Okay, they were the only intact statue in the room. Everything else was like pieces of statue."
+    },
+    {
+      "header": "[u1090 | 01:47:26.820-01:47:30.189 | DM]",
+      "lineNumber": 1090,
+      "originalText": "Gordon just materializes right here.",
+      "cleanedText": "Gaudin just materializes right here."
+    },
+    {
+      "header": "[u1148 | 01:52:19.780-01:52:21.699 | Unknown]",
+      "lineNumber": 1148,
+      "originalText": "That wasn't. That was crossbar sorry",
+      "cleanedText": "That wasn't. That was crossbow, sorry"
+    },
+    {
+      "header": "[u1169 | 01:54:11.670-01:54:20.790 | DM]",
+      "lineNumber": 1169,
+      "originalText": "Okay, Laura. You don't get to make your bonus action attack, but you can still make your regular short sort of regular short sword",
+      "cleanedText": "Okay, Loria. You don't get to make your bonus action attack, but you can still make your regular short sword"
+    },
+    {
+      "header": "[u1203 | 01:57:22.140-01:57:27.670 | Loria]",
+      "lineNumber": 1203,
+      "originalText": "Gloria.",
+      "cleanedText": "Loria."
+    },
+    {
+      "header": "[u1204 | 01:57:29.640-01:57:34.520 | Gaudin]",
+      "lineNumber": 1204,
+      "originalText": "I'll try one more passing Eldridge blast. Can I get close enough to blast him down the corridor.",
+      "cleanedText": "I'll try one more passing eldritch blast. Can I get close enough to blast him down the corridor."
+    },
+    {
+      "header": "[u1231 | 01:59:45.260-01:59:52.160 | DM]",
+      "lineNumber": 1231,
+      "originalText": "That misses! Oh, no, that hits, because that's a puzzle. Okay, the dog's gonna murder him in cold blood.",
+      "cleanedText": "That misses! Oh, no, that hits, because that's a plus 2. Okay, the dog's gonna murder him in cold blood."
+    },
+    {
+      "header": "[u1234 | 02:00:05.980-02:00:20.029 | DM]",
+      "lineNumber": 1234,
+      "originalText": "So as he's kneeling down like his hands up, please don't kill me. The steam puff just leaps at his chest, knocks, knocking him down, and his head whacks the back of the",
+      "cleanedText": "So as he's kneeling down like his hands up, please don't kill me. The steampup just leaps at his chest, knocks, knocking him down, and his head whacks the back of the"
+    },
+    {
+      "header": "[u1256 | 02:02:19.550-02:02:21.400 | DM]",
+      "lineNumber": 1256,
+      "originalText": "in the quarter you started with",
+      "cleanedText": "in the corridor you started with"
+    },
+    {
+      "header": "[u1386 | 02:20:23.510-02:20:32.810 | DM]",
+      "lineNumber": 1386,
+      "originalText": "so so where is everybody else? As Lauria begins to head down the the corridor.",
+      "cleanedText": "so so where is everybody else? As Loria begins to head down the the corridor."
+    },
+    {
+      "header": "[u1390 | 02:20:46.430-02:20:51.430 | DM]",
+      "lineNumber": 1390,
+      "originalText": "Yeah, okay, so, Laura, make us stuff check with advantage.",
+      "cleanedText": "Yeah, okay, so, Loria, make a stealth check with advantage."
+    },
+    {
+      "header": "[u1415 | 02:23:03.620-02:23:07.159 | Loria]",
+      "lineNumber": 1415,
+      "originalText": "I got that 9 for 9 for Lauria.",
+      "cleanedText": "I got that 9 for 9 for Loria."
+    },
+    {
+      "header": "[u1425 | 02:23:34.090-02:23:41.639 | DM]",
+      "lineNumber": 1425,
+      "originalText": "as he looks up and yells and like grabs this potion and begins to throw it gout, and you get the jump. You can do whatever you'd like.",
+      "cleanedText": "as he looks up and yells and like grabs this potion and begins to throw it, Gaudin, and you get the jump. You can do whatever you'd like."
+    },
+    {
+      "header": "[u1428 | 02:23:46.520-02:23:49.059 | Gaudin]",
+      "lineNumber": 1428,
+      "originalText": "can I try to. Eldridge blast the potion.",
+      "cleanedText": "can I try to. eldritch blast the potion."
+    },
+    {
+      "header": "[u1524 | 02:31:21.760-02:31:23.119 | Unknown]",
+      "lineNumber": 1524,
+      "originalText": "Laura, you're up.",
+      "cleanedText": "Loria, you're up."
+    },
+    {
+      "header": "[u1540 | 02:32:42.480-02:32:46.160 | DM]",
+      "lineNumber": 1540,
+      "originalText": "That ends Laura's turn.",
+      "cleanedText": "That ends Loria's turn."
+    },
+    {
+      "header": "[u1592 | 02:37:12.290-02:37:18.039 | DM]",
+      "lineNumber": 1592,
+      "originalText": "come over here. Look at a scale for a moment, also ducking behind this",
+      "cleanedText": "come over here. Look at Acescale for a moment, also ducking behind this"
+    },
+    {
+      "header": "[u1595 | 02:37:33.900-02:37:38.230 | DM]",
+      "lineNumber": 1595,
+      "originalText": "Lauria, as you start your turn in this cloud of",
+      "cleanedText": "Loria, as you start your turn in this cloud of"
+    },
+    {
+      "header": "[u1638 | 02:41:35.600-02:41:49.509 | Acescale]",
+      "lineNumber": 1638,
+      "originalText": "take my Cross Co. And point from nearly point blank range and say, No, give me back poker wings, and I will try to hit him with better than a one this time, and I do.",
+      "cleanedText": "take my crossbow and point from nearly point blank range and say, No, give me back poker winnings, and I will try to hit him with better than a one this time, and I do."
+    },
+    {
+      "header": "[u1691 | 02:47:05.100-02:47:07.269 | DM]",
+      "lineNumber": 1691,
+      "originalText": "Sorry, Laura. Why did you roll?",
+      "cleanedText": "Sorry, Loria. What did you roll?"
+    },
+    {
+      "header": "[u1723 | 02:49:58.190-02:50:02.139 | DM]",
+      "lineNumber": 1723,
+      "originalText": "As Gordon is still surrounded by a swarm of",
+      "cleanedText": "As Gaudin is still surrounded by a swarm of"
+    },
+    {
+      "header": "[u1724 | 02:50:02.250-02:50:05.420 | Loria]",
+      "lineNumber": 1724,
+      "originalText": "stone spiders. Oh, yeah, sorry, Gaddaf.",
+      "cleanedText": "stone spiders. Oh, yeah, sorry, Gaudin."
+    },
+    {
+      "header": "[u1728 | 02:50:16.860-02:50:22.699 | Gaudin]",
+      "lineNumber": 1728,
+      "originalText": "is. The storm was susceptible to force",
+      "cleanedText": "Is the swarm susceptible to force"
+    },
+    {
+      "header": "[u1741 | 02:51:11.390-02:51:14.539 | Gaudin]",
+      "lineNumber": 1741,
+      "originalText": "Okay, so I will just Eldridge glass them.",
+      "cleanedText": "Okay, so I will just eldritch glass them."
+    },
+    {
+      "header": "[u1751 | 02:52:04.140-02:52:08.070 | DM]",
+      "lineNumber": 1751,
+      "originalText": "well, a scale, I guess, is the closest obvious target.",
+      "cleanedText": "well, Acescale, I guess, is the closest obvious target."
+    },
+    {
+      "header": "[u1762 | 02:52:54.660-02:52:56.869 | DM]",
+      "lineNumber": 1762,
+      "originalText": "a scale begins to",
+      "cleanedText": "Acescale begins to"
+    },
+    {
+      "header": "[u1780 | 02:54:55.500-02:55:02.690 | Dilion]",
+      "lineNumber": 1780,
+      "originalText": "Can I go? This is not the same as the as the basilis poison. This is a different poison. Can I go this way over the",
+      "cleanedText": "Can I go? This is not the same as the as the basilisk poison. This is a different poison. Can I go this way over the"
+    },
+    {
+      "header": "[u1799 | 02:56:57.790-02:57:09.869 | DM]",
+      "lineNumber": 1799,
+      "originalText": "Yeah, it's I mean, it just swooped down to stab a scale. So it's not high in the sky. I mean, you might have to stand on your tiptoes. But",
+      "cleanedText": "Yeah, it's I mean, it just swooped down to stab Acescale. So it's not high in the sky. I mean, you might have to stand on your tiptoes. But"
+    },
+    {
+      "header": "[u1820 | 02:58:29.930-02:58:33.080 | DM]",
+      "lineNumber": 1820,
+      "originalText": "just gonna go back to trying to finish off a scale.",
+      "cleanedText": "just gonna go back to trying to finish off Acescale."
+    },
+    {
+      "header": "[u1833 | 02:59:26.560-02:59:33.020 | DM]",
+      "lineNumber": 1833,
+      "originalText": "a scale is now turning back to stones and making it the Constitution saving throw",
+      "cleanedText": "Acescale is now turning back to stones and making it the Constitution saving throw"
+    },
+    {
+      "header": "[u1850 | 03:01:00.190-03:01:14.070 | DM]",
+      "lineNumber": 1850,
+      "originalText": "In the interest of time Lauria and Gadden are easily able to do the remaining 4, 3 hit points of damage needed to crush the last stone spiders before they attack again.",
+      "cleanedText": "In the interest of time Loria and Gadden are easily able to do the remaining 4, 3 hit points of damage needed to crush the last stone spiders before they attack again."
+    },
+    {
+      "header": "[u1865 | 03:02:35.540-03:02:43.950 | Loria]",
+      "lineNumber": 1865,
+      "originalText": "more people in this party could tell me what a healing potion looks like, I would like to refer to a scale.",
+      "cleanedText": "more people in this party could tell me what a healing potion looks like, I would like to refer to Acescale."
+    },
+    {
+      "header": "[u1879 | 03:03:46.370-03:03:49.709 | DM]",
+      "lineNumber": 1879,
+      "originalText": "feed this potion to a scale, a scale, you start",
+      "cleanedText": "feed this potion to Acescale, Acescale, you start"
+    },
+    {
+      "header": "[u1895 | 03:05:14.250-03:05:17.679 | DM]",
+      "lineNumber": 1895,
+      "originalText": "was just fed to a scale, and",
+      "cleanedText": "was just fed to Acescale, and"
+    },
+    {
+      "header": "[u1909 | 03:06:21.040-03:06:26.629 | DM]",
+      "lineNumber": 1909,
+      "originalText": "that was a good enough archonic Jack that you do know. Okay, I got one fail",
+      "cleanedText": "that was a good enough Arcana check that you do know. Okay, I got one fail"
+    },
+    {
+      "header": "[u1918 | 03:07:20.770-03:07:25.550 | Loria]",
+      "lineNumber": 1918,
+      "originalText": "So, looking around a scale, you",
+      "cleanedText": "So, looking around Acescale, you"
+    },
+    {
+      "header": "[u1967 | 03:12:48.810-03:12:53.280 | Loria]",
+      "lineNumber": 1967,
+      "originalText": "right. But remember, if you only have 3 hit dates. So if you use.",
+      "cleanedText": "Right. But remember, if you only have 3 hit dice, so if you use."
+    },
+    {
+      "header": "[u1968 | 03:12:53.290-03:12:57.870 | DM]",
+      "lineNumber": 1968,
+      "originalText": "you only get to use those many hit places you didn't use last short rest.",
+      "cleanedText": "you only get to use that many hit dice you didn't use last short rest."
+    },
+    {
+      "header": "[u1970 | 03:13:02.440-03:13:05.739 | DM]",
+      "lineNumber": 1970,
+      "originalText": "you still get your spouse back if you're a warlock.",
+      "cleanedText": "you still get your spells back if you're a warlock."
+    },
+    {
+      "header": "[u1976 | 03:13:51.610-03:13:58.709 | Dilion]",
+      "lineNumber": 1976,
+      "originalText": "artificial is my hit dive or not, it's should be one d. 8 plus your con d 8 plus",
+      "cleanedText": "Artificer is my hit die, or not, it should be 1d8 plus your Con, d8 plus"
+    },
+    {
+      "header": "[u1982 | 03:14:20.820-03:14:23.299 | Dilion]",
+      "lineNumber": 1982,
+      "originalText": "So I guess we're looking down the other whole ways right?",
+      "cleanedText": "So I guess we're looking down the other hallways right?"
+    },
+    {
+      "header": "[u1995 | 03:15:19.740-03:15:25.559 | DM]",
+      "lineNumber": 1995,
+      "originalText": "a whole set of notes about baselists how to catch and keep them.",
+      "cleanedText": "a whole set of notes about basilisks, how to catch and keep them."
+    },
+    {
+      "header": "[u1997 | 03:15:41.480-03:15:50.850 | DM]",
+      "lineNumber": 1997,
+      "originalText": "a mystical substance, that when pattern allows the creation of particularly powerful potions and elixirs. and it's like.",
+      "cleanedText": "a mystical substance, that when powdered allows the creation of particularly powerful potions and elixirs. and it's like."
+    },
+    {
+      "header": "[u2063 | 03:21:52.460-03:21:58.570 | Acescale]",
+      "lineNumber": 2063,
+      "originalText": "II was just gonna say, I'm worried that a scale would start to get like a little curious about it. At this point",
+      "cleanedText": "II was just gonna say, I'm worried that Acescale would start to get like a little curious about it. At this point"
+    },
+    {
+      "header": "[u2072 | 03:22:39.380-03:22:46.769 | Dilion]",
+      "lineNumber": 2072,
+      "originalText": "244 gold pieces, including a scale's poker winnings. Thank you.",
+      "cleanedText": "244 gold pieces, including Acescale's poker winnings. Thank you."
+    },
+    {
+      "header": "[u2095 | 03:24:37.170-03:24:45.309 | Dilion]",
+      "lineNumber": 2095,
+      "originalText": "I slipped the ring onto my finger before a scale can see it.",
+      "cleanedText": "I slipped the ring onto my finger before Acescale can see it."
+    },
+    {
+      "header": "[u2104 | 03:25:25.960-03:25:29.449 | Gaudin]",
+      "lineNumber": 2104,
+      "originalText": "II can open it with made chains as we step away.",
+      "cleanedText": "II can open it with mage hand as we step away."
+    },
+    {
+      "header": "[u2118 | 03:26:43.100-03:26:46.870 | DM]",
+      "lineNumber": 2118,
+      "originalText": "What creeping out of the manner before anybody is awake?",
+      "cleanedText": "What creeping out of the manor before anybody is awake?"
+    },
+    {
+      "header": "[u2141 | 03:28:39.950-03:28:41.320 | DM]",
+      "lineNumber": 2141,
+      "originalText": "Good thanks.",
+      "cleanedText": "Good, thanks."
+    },
+    {
+      "header": "[u2155 | 03:30:33.140-03:30:42.729 | Acescale]",
+      "lineNumber": 2155,
+      "originalText": "yeah, I think that's that's probably a scale a little bit. Little bit of gambling and a little bit of 9 to 5 potion crafting.",
+      "cleanedText": "yeah, I think that's that's probably Acescale a little bit. Little bit of gambling and a little bit of 9 to 5 potion crafting."
+    },
+    {
+      "header": "[u2159 | 03:30:55.470-03:31:04.999 | Gaudin]",
+      "lineNumber": 2159,
+      "originalText": "Gayden his first real adventure as a warlock. So he is gained a lot of experience in deception.",
+      "cleanedText": "Gaudin, his first real adventure as a warlock, so he has gained a lot of experience in deception."
+    },
+    {
+      "header": "[u2172 | 03:32:50.720-03:32:56.120 | Loria]",
+      "lineNumber": 2172,
+      "originalText": "I think that Lauria, now that she has her ring of bird calls is",
+      "cleanedText": "I think that Loria, now that she has her ring of bird calls is"
+    },
+    {
+      "header": "[u2183 | 03:33:51.450-03:33:56.200 | Gaudin]",
+      "lineNumber": 2183,
+      "originalText": "And Laura was pretty. I mean, you had a few crucial natural 20. S. Yeah.",
+      "cleanedText": "And Loria was pretty. I mean, you had a few crucial natural 20s. Yeah."
+    },
+    {
+      "header": "[u2185 | 03:34:07.150-03:34:10.289 | DM]",
+      "lineNumber": 2185,
+      "originalText": "laying on it. Pretty convenient welding is.",
+      "cleanedText": "laying on it. Pretty convenient dual wielding is."
+    },
+    {
+      "header": "[u2186 | 03:34:10.570-03:34:16.330 | Loria]",
+      "lineNumber": 2186,
+      "originalText": "Do like, do it? Welding ranges are pretty good. We'll make this fun. This is the first time I've done",
+      "cleanedText": "Do like, dual wielding ranger's pretty good. Well, maybe it's fun. This is the first time I've done"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "totalDurationSeconds": 10370.36,
+  "speakers": [
+    {
+      "transcriptIdentifier": "Dylan",
+      "name": "Dylan",
+      "gameRole": "Dilion",
+      "segmentCount": 335,
+      "durationSeconds": 1997.102,
+      "fraction": 0.1926,
+      "wordCount": 4366
+    },
+    {
+      "transcriptIdentifier": "John L",
+      "name": "John Leeker",
+      "gameRole": "Gaudin",
+      "segmentCount": 254,
+      "durationSeconds": 1065.558,
+      "fraction": 0.1028,
+      "wordCount": 2311
+    },
+    {
+      "transcriptIdentifier": "Phil Grayson",
+      "name": "Phil Grayson",
+      "gameRole": "Acescale",
+      "segmentCount": 263,
+      "durationSeconds": 1261.41,
+      "fraction": 0.1216,
+      "wordCount": 2987
+    },
+    {
+      "transcriptIdentifier": "Sara/Loria (she/her)",
+      "name": "Sara Smith",
+      "gameRole": "Loria",
+      "segmentCount": 242,
+      "durationSeconds": 1091.091,
+      "fraction": 0.1052,
+      "wordCount": 2320
+    },
+    {
+      "transcriptIdentifier": "Tim Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 847,
+      "durationSeconds": 4293.3,
+      "fraction": 0.414,
+      "wordCount": 9436
+    },
+    {
+      "transcriptIdentifier": "Unknown",
+      "name": null,
+      "gameRole": "Unknown",
+      "segmentCount": 251,
+      "durationSeconds": 661.899,
+      "fraction": 0.0638,
+      "wordCount": 1501
+    }
+  ]
+}

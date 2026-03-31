@@ -1,0 +1,41 @@
+schemaVersion: '1.0'
+sourceType: transcript
+campaign: Mawar Adventures
+sessionNumber: 4
+realWorldDate: 2021-12-27
+drStart: 1747-11-08
+drEnd: 1747-11-09
+drStartTime: morning
+drEndTime: afternoon
+participants:
+- name: David Kong
+  gameRole: Ryu
+  transcriptIdentifiers:
+  - David Kong (he/him) Organizer, MIT Media Lab
+- name: Mike Sackton
+  gameRole: Wazir
+  transcriptIdentifiers: []
+- name: Eric Rosenbaum
+  gameRole: Trok
+  transcriptIdentifiers: []
+- name: John Leeker
+  gameRole: Kaleho
+  transcriptIdentifiers: []
+- name: Kate Sackton
+  gameRole: Nerissa
+  transcriptIdentifiers:
+  - Kate
+- name: David Schwartz
+  gameRole: Ander
+  transcriptIdentifiers:
+  - Rev. David (he/him)
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers:
+  - Timothy Sackton
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/sources/merged.transcript.vtt
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/sources/mawar-ep04-source-prep.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/sources/mawar-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-source-prepared.md
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-speaker-stats.json
