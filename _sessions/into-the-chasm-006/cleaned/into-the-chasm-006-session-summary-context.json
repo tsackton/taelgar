@@ -1,0 +1,668 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-006/cleaned/into-the-chasm-006-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-006/cleaned/into-the-chasm-006-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-006/cleaned/into-the-chasm-006-beat-facts.json",
+  "session": {
+    "campaign": "Into the Chasm",
+    "sessionNumber": 6,
+    "realWorldDate": "2026-02-04",
+    "drStart": "1730-01-29",
+    "drEnd": "1730-01-29"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "locationRefs": [
+        "Great Chasm"
+      ],
+      "npcRefs": [
+        "Eidrikas"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Keystone"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "In the damaged lower hall of the runic engine, the party studies the black pillars, examines the recovered keystone, and realizes the strange hatches below are still active.",
+        "After the stone's charm nearly sends Eolo into the lower hatches, the party contains the keystone, brings it back to Eidrikas, and decides to return to Melusa before repairing the machinery."
+      ],
+      "sourceLongSummaries": [
+        "With the orcs dead, the party finally has time to inspect the vast lower hall beneath Eidrikas's platform. They study the six light-drinking pillars, the runic keystone the raiders dropped, the debris scattered across the floor, and the glowing hatches around the pillars, until Eolo's curiosity about the openings below pushes the scene toward action.",
+        "Finnan's calm emotions stops Eolo from diving after the stone, the party wraps the strangely light keystone, and the kenku carry it back to Eidrikas's platform. There Eidrikas explains again that restoring the missing arc would stabilize the chasm's machinery but probably close chaotic portals, so the group chooses to buy a little more time with a short rest and one last trip to Melusa to deal with the realm's trapped refugees."
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-003",
+        "beat-004",
+        "beat-005",
+        "beat-006",
+        "beat-007"
+      ],
+      "locationRefs": [
+        "Great Chasm",
+        "Melusa"
+      ],
+      "npcRefs": [
+        "Zahara",
+        "Older Melusan woman",
+        "Iskander",
+        "Kalima",
+        "Eidrikas"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Keystone"
+      ],
+      "combatBeatIds": [
+        "beat-003",
+        "beat-006"
+      ],
+      "sourceShortSummaries": [
+        "After a short rest carries them into starlight, the party reenters Melusa through the white portal and fights clear of a dense swarm of portal wisps.",
+        "The party finds Zahara's group hiding in a cramped house, learns the palace guards were smashed by something from the ash portal, and organizes a fast rescue for whoever is ready to flee.",
+        "Finnan turns the rescue into a public appeal, but most of Melusa hesitates under an older woman's challenge, leaving the party to commit to a smaller evacuation of the willing.",
+        "In a round-by-round evacuation, Justas and Ekko draw the wisps away from the portal while Eolo receives refugees on Eidrikas's platform and the keystone is finally restored.",
+        "With the portal beginning to peel away, the party and Eidrikas turn from rescue to logistics, planning how to feed, house, and eventually resettle the Melusan refugees."
+      ],
+      "sourceLongSummaries": [
+        "Resting on the true-chasm side carries the party into full night, and then they step back through the portal expecting only a quick errand. Instead they emerge into a cloud of dozens of glowing wisps beside the shattered ice wolf, retreat from the portal while batting off shocks, and only then get their bearings enough to see the dark palace, the abandoned guard site, and the silent village still spread around the salmon pool.",
+        "Choosing the dissidents over the darkened palace, the party goes to Iskander's side of Melusa and finds Zahara with a few allies crowded into a small house beside the corpse of someone who died trying to cross the white lights alone. Zahara reports that a giant fist from the ash realm destroyed the guards and the ice wolf, that no one knows what became of the Vaqar, and that only a small number are prepared to risk escape; with time collapsing, the party settles on a direct evacuation plan instead of trying to win over the whole village.",
+        "Moving through the village with loud music and urgent warnings, Finnan draws dozens of Melusans into the square and tells them the gateway will not stay open much longer. An older woman blames the party for the curse and argues that a capricious god is better than none, the crowd wavers, and the party briefly debates whether to fake or seek the absent fae lord's authority; by the end of the beat, they abandon any hope of convincing the whole settlement and focus on the thirty-odd people already gathering around Ekko's polar bear form.",
+        "The rescue becomes a tactical extraction as Justas charges the swarm under spirit guardians, Finnan's tricksy fae spreads darkness, Ekko joins the distraction as a polar bear, and Jrain meters each wave of refugees so the portal does not choke with panic. Eolo catches and organizes people on the far side while the number of wisps gradually thins; after nearly everyone is across, Justas lingers to finish off the last of the swarm, one final young villager bolts through, and the party signals Eidrikas to reinstall the keystone and stabilize the mechanism.",
+        "Once the mechanism stabilizes, the immediate chaos gives way to a crowded aftermath on the floating platform, where the refugees marvel at their new surroundings and Eidrikas reluctantly turns from secrecy to triage. He points the group toward the safer machinery below, suggests sending to Kemeko for kenku help, explains that the orcs and perhaps Stoneborn likely reached the site through nearby tunnels, and agrees that the refugees can be camped and lifted out over time; the party then starts thinking ahead to food, transport, and Old Zimkovan-speaking communities that might eventually take the Melusans in."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Hall of Pillars",
+      "beatIds": [
+        "beat-001"
+      ],
+      "transcriptRange": {
+        "startUid": "u0001",
+        "endUid": "u0412"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0412"
+        }
+      ],
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Great Chasm"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Keystone"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "In the damaged lower hall of the runic engine, the party studies the black pillars, examines the recovered keystone, and realizes the strange hatches below are still active."
+      ],
+      "sourceLongSummaries": [
+        "With the orcs dead, the party finally has time to inspect the vast lower hall beneath Eidrikas's platform. They study the six light-drinking pillars, the runic keystone the raiders dropped, the debris scattered across the floor, and the glowing hatches around the pillars, until Eolo's curiosity about the openings below pushes the scene toward action."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Stone Returned to Eidrikas",
+      "beatIds": [
+        "beat-002"
+      ],
+      "transcriptRange": {
+        "startUid": "u0413",
+        "endUid": "u0733"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0413",
+          "endUid": "u0733"
+        }
+      ],
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Great Chasm"
+      ],
+      "npcRefs": [
+        "Eidrikas"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Keystone"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "After the stone's charm nearly sends Eolo into the lower hatches, the party contains the keystone, brings it back to Eidrikas, and decides to return to Melusa before repairing the machinery."
+      ],
+      "sourceLongSummaries": [
+        "Finnan's calm emotions stops Eolo from diving after the stone, the party wraps the strangely light keystone, and the kenku carry it back to Eidrikas's platform. There Eidrikas explains again that restoring the missing arc would stabilize the chasm's machinery but probably close chaotic portals, so the group chooses to buy a little more time with a short rest and one last trip to Melusa to deal with the realm's trapped refugees."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "combat",
+      "title": "Night Return to Melusa",
+      "beatIds": [
+        "beat-003"
+      ],
+      "transcriptRange": {
+        "startUid": "u0734",
+        "endUid": "u0959"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0734",
+          "endUid": "u0959"
+        }
+      ],
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Great Chasm",
+        "Melusa"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [
+        "Portal wisps"
+      ],
+      "sourceShortSummaries": [
+        "After a short rest carries them into starlight, the party reenters Melusa through the white portal and fights clear of a dense swarm of portal wisps."
+      ],
+      "sourceLongSummaries": [
+        "Resting on the true-chasm side carries the party into full night, and then they step back through the portal expecting only a quick errand. Instead they emerge into a cloud of dozens of glowing wisps beside the shattered ice wolf, retreat from the portal while batting off shocks, and only then get their bearings enough to see the dark palace, the abandoned guard site, and the silent village still spread around the salmon pool."
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Refugees Gathered",
+      "beatIds": [
+        "beat-004"
+      ],
+      "transcriptRange": {
+        "startUid": "u0960",
+        "endUid": "u1209"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0960",
+          "endUid": "u1209"
+        }
+      ],
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Melusa"
+      ],
+      "npcRefs": [
+        "Zahara"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party finds Zahara's group hiding in a cramped house, learns the palace guards were smashed by something from the ash portal, and organizes a fast rescue for whoever is ready to flee."
+      ],
+      "sourceLongSummaries": [
+        "Choosing the dissidents over the darkened palace, the party goes to Iskander's side of Melusa and finds Zahara with a few allies crowded into a small house beside the corpse of someone who died trying to cross the white lights alone. Zahara reports that a giant fist from the ash realm destroyed the guards and the ice wolf, that no one knows what became of the Vaqar, and that only a small number are prepared to risk escape; with time collapsing, the party settles on a direct evacuation plan instead of trying to win over the whole village."
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "The Town Crier's Plea",
+      "beatIds": [
+        "beat-005"
+      ],
+      "transcriptRange": {
+        "startUid": "u1210",
+        "endUid": "u1485"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u1210",
+          "endUid": "u1485"
+        }
+      ],
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Melusa"
+      ],
+      "npcRefs": [
+        "Older Melusan woman",
+        "Iskander",
+        "Kalima"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Finnan turns the rescue into a public appeal, but most of Melusa hesitates under an older woman's challenge, leaving the party to commit to a smaller evacuation of the willing."
+      ],
+      "sourceLongSummaries": [
+        "Moving through the village with loud music and urgent warnings, Finnan draws dozens of Melusans into the square and tells them the gateway will not stay open much longer. An older woman blames the party for the curse and argues that a capricious god is better than none, the crowd wavers, and the party briefly debates whether to fake or seek the absent fae lord's authority; by the end of the beat, they abandon any hope of convincing the whole settlement and focus on the thirty-odd people already gathering around Ekko's polar bear form."
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "combat",
+      "title": "Evacuation Through the Wisps",
+      "beatIds": [
+        "beat-006"
+      ],
+      "transcriptRange": {
+        "startUid": "u1486",
+        "endUid": "u1934"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u1486",
+          "endUid": "u1934"
+        }
+      ],
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Melusa",
+        "Great Chasm"
+      ],
+      "npcRefs": [
+        "Eidrikas"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Keystone"
+      ],
+      "combatEnemyRefs": [
+        "Portal wisps"
+      ],
+      "sourceShortSummaries": [
+        "In a round-by-round evacuation, Justas and Ekko draw the wisps away from the portal while Eolo receives refugees on Eidrikas's platform and the keystone is finally restored."
+      ],
+      "sourceLongSummaries": [
+        "The rescue becomes a tactical extraction as Justas charges the swarm under spirit guardians, Finnan's tricksy fae spreads darkness, Ekko joins the distraction as a polar bear, and Jrain meters each wave of refugees so the portal does not choke with panic. Eolo catches and organizes people on the far side while the number of wisps gradually thins; after nearly everyone is across, Justas lingers to finish off the last of the swarm, one final young villager bolts through, and the party signals Eidrikas to reinstall the keystone and stabilize the mechanism."
+      ]
+    },
+    {
+      "blockId": "recap-007",
+      "kind": "beat",
+      "title": "Aftermath and Debrief",
+      "beatIds": [
+        "beat-007"
+      ],
+      "transcriptRange": {
+        "startUid": "u1935",
+        "endUid": "u2228"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u1935",
+          "endUid": "u2228"
+        }
+      ],
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Great Chasm"
+      ],
+      "npcRefs": [
+        "Eidrikas"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "With the portal beginning to peel away, the party and Eidrikas turn from rescue to logistics, planning how to feed, house, and eventually resettle the Melusan refugees."
+      ],
+      "sourceLongSummaries": [
+        "Once the mechanism stabilizes, the immediate chaos gives way to a crowded aftermath on the floating platform, where the refugees marvel at their new surroundings and Eidrikas reluctantly turns from secrecy to triage. He points the group toward the safer machinery below, suggests sending to Kemeko for kenku help, explains that the orcs and perhaps Stoneborn likely reached the site through nearby tunnels, and agrees that the refugees can be camped and lifted out over time; the party then starts thinking ahead to food, transport, and Old Zimkovan-speaking communities that might eventually take the Melusans in."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Eidrikas",
+        "beatIds": [
+          "beat-002",
+          "beat-006",
+          "beat-007"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Zahara",
+        "beatIds": [
+          "beat-004"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Older Melusan woman",
+        "beatIds": [
+          "beat-005"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Iskander",
+        "beatIds": [
+          "beat-005"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Kalima",
+        "beatIds": [
+          "beat-005"
+        ],
+        "relationKinds": [
+          "companion"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-003",
+        "beatIds": [
+          "beat-003"
+        ],
+        "enemyRefs": [
+          "Portal wisps"
+        ],
+        "dateStart": "1730-01-29",
+        "dateEnd": null
+      },
+      {
+        "blockId": "recap-006",
+        "beatIds": [
+          "beat-006"
+        ],
+        "enemyRefs": [
+          "Portal wisps"
+        ],
+        "dateStart": "1730-01-29",
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Great Chasm",
+        "beatIds": [
+          "beat-001",
+          "beat-002",
+          "beat-003",
+          "beat-006",
+          "beat-007"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Melusa",
+        "beatIds": [
+          "beat-003",
+          "beat-004",
+          "beat-005",
+          "beat-006"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Eidrikas",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "mentor and living bridge in the mechanism",
+          "beatIds": [
+            "beat-002",
+            "beat-006",
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Great Chasm",
+              "dateStart": "1730-01-29",
+              "dateEnd": null
+            },
+            {
+              "location": "Melusa -> Great Chasm",
+              "dateStart": "1730-01-29",
+              "dateEnd": null
+            },
+            {
+              "location": "Great Chasm",
+              "dateStart": "1730-01-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Zahara",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "leader of the dissidents",
+          "beatIds": [
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Melusa",
+              "dateStart": "1730-01-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Older Melusan woman",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "skeptical elder rallying people to stay",
+          "beatIds": [
+            "beat-005"
+          ],
+          "history": [
+            {
+              "location": "Melusa",
+              "dateStart": "1730-01-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Iskander",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "organizer of the willing group",
+          "beatIds": [
+            "beat-005"
+          ],
+          "history": [
+            {
+              "location": "Melusa",
+              "dateStart": "1730-01-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Kalima",
+          "relationKinds": [
+            "companion"
+          ],
+          "contextHint": "refugee among the willing",
+          "beatIds": [
+            "beat-005"
+          ],
+          "history": [
+            {
+              "location": "Melusa",
+              "dateStart": "1730-01-29",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Great Chasm",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "damaged lower hall of the runic engine beneath Eidrikas's platform, threaded with six black pillars and ringed with glowing hatches",
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-003",
+            "beat-006",
+            "beat-007"
+          ],
+          "visits": [
+            {
+              "dateStart": "1730-01-29",
+              "dateEnd": null,
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1730-01-29",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Melusa",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "through the white portal and away from the broken ice-wolf plaza beside the salmon pool",
+          "beatIds": [
+            "beat-003",
+            "beat-004",
+            "beat-005",
+            "beat-006"
+          ],
+          "visits": [
+            {
+              "dateStart": "1730-01-29",
+              "dateEnd": null,
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1730-01-29",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Keystone",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Great Chasm",
+              "dateStart": "1730-01-29",
+              "dateEnd": null
+            },
+            {
+              "location": "Melusa -> Great Chasm",
+              "dateStart": "1730-01-29",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Malquin the Vaqar",
+          "contextHint": "missing ruler of Melusa"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Kemeko Monastery",
+          "contextHint": null
+        }
+      ],
+      "items": []
+    }
+  }
+}

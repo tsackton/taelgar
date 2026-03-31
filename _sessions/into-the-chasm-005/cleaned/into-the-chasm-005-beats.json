@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-005/cleaned/into-the-chasm-005-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-005/cleaned/into-the-chasm-005-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Eidrikas Sends Them Below",
+      "startUid": "u0001",
+      "endUid": "u0403",
+      "lineCount": 403,
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "The session opens with Eidrikas and the suspended runic platform, covers Ekko's confirmation that his mentor is genuine, and ends once the party finishes its initial reconnaissance and commits to taking the floating stone down toward the cylindrical structure.",
+      "dateEvidence": [
+        "session.yaml sets both drStart and drEnd to 1730-01-29",
+        "the prior session established the party reached the real chasm in mid-afternoon, and this session resumes that same expedition without any rest or travel montage",
+        "nothing in this opening scene indicates sunset, sleep, or a new calendar day"
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Testing the Upper Chamber",
+      "startUid": "u0404",
+      "endUid": "u0859",
+      "lineCount": 456,
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "After moving the floating stone into position, the party enters the upper chamber, experiments with the blue column and shifting gravity, retrieves the rope, and works its way down through the cracked floors into the next level.",
+      "dateEvidence": [
+        "the entire beat follows immediately from the approach decision in beat 1",
+        "the group is still in one continuous dungeon-exploration sequence with no pause for a short rest or any time skip",
+        "the transcript contains only immediate movement and experimentation inside the structure, so the date stays on 1730-01-29"
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Parley with the Custodian",
+      "startUid": "u0860",
+      "endUid": "u1209",
+      "lineCount": 350,
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "On the next level down, the party gets a full description of the chamber, wakes the damaged automaton custodian, questions it about authorization and repairs, and learns only that threat conditions must be resolved before repair can resume.",
+      "dateEvidence": [
+        "this beat begins the moment the party lands in the chamber below the gravity beam",
+        "the conversation with the automaton is uninterrupted and does not include any rest or long travel",
+        "there is no explicit time-of-day shift anywhere in the exchange, so the scene remains on the same afternoon"
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Retreat and Bottom Entry",
+      "startUid": "u1210",
+      "endUid": "u1564",
+      "lineCount": 355,
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "The party abandons the idea of fixing the lightning-filled conduit directly, struggles back out of the chamber, repositions the floating rock to the lowest section, opens the final hatch, and spots the arguing orcs and the lightning-shrouded figure below.",
+      "dateEvidence": [
+        "the beat starts as the group decides to stop debating the automaton's repair problem and instead refocus on retrieving Eidrikas's stolen piece",
+        "all of the climbing, jumping, and repositioning happen in one continuous push with no rest",
+        "the transcript still gives no indication of evening, sleep, or a new day"
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Ambush Below the Hatch",
+      "startUid": "u1565",
+      "endUid": "u1907",
+      "lineCount": 343,
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": true,
+      "boundaryReason": "The party drops into the bottom chamber, opens the fight with Finnan's hypnotic pattern, and starts cutting down the lesser orcs before the separate lightning-wreathed enemy crosses the battlefield and the sleeping orcs are reactivated.",
+      "dateEvidence": [
+        "combat begins immediately after the final hatch is opened in beat 4",
+        "this is a continuous battle on the same floor with no rest or pause",
+        "the transcript marks no date or time transition before the first reinforcement surge changes the fight's shape"
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Lightning Orcs Counterattack",
+      "startUid": "u1908",
+      "endUid": "u2380",
+      "lineCount": 473,
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": true,
+      "boundaryReason": "Once the lightning-shrouded orc joins the melee and the hypnotized enemies start getting woken back up, the fight shifts into a harder second phase with fear effects, explosive deaths, and the god caller taking over as the main threat.",
+      "dateEvidence": [
+        "the beat split is driven by a clear tactical transition inside the same ongoing combat",
+        "no rest, retreat, or elapsed-day cue separates this from the prior phase",
+        "the action remains part of the same afternoon battle on 1730-01-29"
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "God Caller Falls",
+      "startUid": "u2381",
+      "endUid": "u2755",
+      "lineCount": 375,
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": true,
+      "boundaryReason": "After the god caller disengages, unleashes a lightning blast, and tries to turn the fight again, the party rallies, burns down the last serious foe, and stops at the edge of the post-combat search when the DM pushes the aftermath into the next session.",
+      "dateEvidence": [
+        "this final beat is the concluding phase of the same battle and immediate aftermath",
+        "the transcript ends before any rest, sunset, or later camp scene occurs",
+        "session.yaml keeps the whole session on 1730-01-29, which fits this uninterrupted closing stretch"
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Aftermath Deferred",
+      "startUid": "u2756",
+      "endUid": "u2850",
+      "lineCount": 95,
+      "dateStart": "1730-01-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "Once the DM explicitly pauses the dungeon aftermath for next session, the transcript shifts out of in-character action and into scheduling, campaign pacing, and session closeout, which is a strong enough break to stand as a short terminal beat.",
+      "dateEvidence": [
+        "this beat starts immediately after the DM says the aftermath of the combat will be handled next time",
+        "the remaining transcript is table scheduling rather than an in-world scene, so there is no evidence for any in-fiction date advance",
+        "the session still closes under the same 1730-01-29 session date recorded in session.yaml"
+      ]
+    }
+  ]
+}

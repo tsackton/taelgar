@@ -33,9 +33,16 @@
         "Zeyfa's Labyrinth"
       ],
       "npcRefs": [
-        "Kalima"
+        "Zeyfa",
+        "Kalima",
+        "Eidrikas",
+        "Pakrinek"
       ],
-      "organizationRefs": [],
+      "organizationRefs": [
+        "Kemeko Monastery",
+        "Vejo Vaikai",
+        "Kestavo"
+      ],
       "itemRefs": [
         "Romil's token"
       ],
@@ -93,9 +100,13 @@
         "unknown ice platform"
       ],
       "npcRefs": [
+        "Zeyfa",
         "Kalima"
       ],
-      "organizationRefs": [],
+      "organizationRefs": [
+        "Kemeko Monastery",
+        "Vejo Vaikai"
+      ],
       "itemRefs": [],
       "combatEnemyRefs": [],
       "sourceShortSummaries": [
@@ -222,9 +233,12 @@
         "Zeyfa's Labyrinth"
       ],
       "npcRefs": [
-        "Kalima"
+        "Kalima",
+        "Zeyfa"
       ],
-      "organizationRefs": [],
+      "organizationRefs": [
+        "Kestavo"
+      ],
       "itemRefs": [
         "Romil's token"
       ],
@@ -261,9 +275,15 @@
         "Zeyfa's Labyrinth"
       ],
       "npcRefs": [
-        "Kalima"
+        "Kalima",
+        "Eidrikas",
+        "Pakrinek"
       ],
-      "organizationRefs": [],
+      "organizationRefs": [
+        "Vejo Vaikai",
+        "Kemeko Monastery",
+        "Kestavo"
+      ],
       "itemRefs": [],
       "combatEnemyRefs": [],
       "sourceShortSummaries": [
@@ -363,7 +383,7 @@
           "beat-001"
         ],
         "relationKinds": [
-          "visited"
+          "traveled-through"
         ]
       },
       {
@@ -391,7 +411,6 @@
           "relationKinds": [
             "met"
           ],
-          "contextHint": "terrified Zimkovan woman caught in the fall",
           "beatIds": [
             "beat-001",
             "beat-002",
@@ -404,14 +423,31 @@
           ],
           "history": [
             {
-              "location": "Great Chasm -> unknown ice platform",
               "dateStart": "1730-01-25",
-              "dateEnd": null
+              "dateEnd": null,
+              "locationRefs": [
+                "Great Chasm",
+                "unknown ice platform"
+              ],
+              "beatIds": [
+                "beat-001"
+              ]
             },
             {
-              "location": "Zeyfa's Labyrinth",
               "dateStart": "1730-01-25",
-              "dateEnd": null
+              "dateEnd": null,
+              "locationRefs": [
+                "Zeyfa's Labyrinth"
+              ],
+              "beatIds": [
+                "beat-002",
+                "beat-003",
+                "beat-004",
+                "beat-005",
+                "beat-006",
+                "beat-007",
+                "beat-008"
+              ]
             }
           ]
         }
@@ -422,32 +458,34 @@
           "relationKinds": [
             "traveled-through"
           ],
-          "contextHint": "swept by unnatural storm into darkness below",
           "beatIds": [
             "beat-001"
           ],
-          "visits": [
+          "visitDates": [
             {
               "dateStart": "1730-01-25",
               "dateEnd": null,
-              "kind": "traveled-through"
+              "beatIds": [
+                "beat-001"
+              ]
             }
           ]
         },
         {
           "name": "unknown ice platform",
           "relationKinds": [
-            "visited"
+            "traveled-through"
           ],
-          "contextHint": "swept by unnatural storm into darkness below",
           "beatIds": [
             "beat-001"
           ],
-          "visits": [
+          "visitDates": [
             {
               "dateStart": "1730-01-25",
               "dateEnd": null,
-              "kind": "visited"
+              "beatIds": [
+                "beat-001"
+              ]
             }
           ]
         },
@@ -456,7 +494,6 @@
           "relationKinds": [
             "visited"
           ],
-          "contextHint": "floating ice platform between two bridges",
           "beatIds": [
             "beat-002",
             "beat-003",
@@ -466,11 +503,19 @@
             "beat-007",
             "beat-008"
           ],
-          "visits": [
+          "visitDates": [
             {
               "dateStart": "1730-01-25",
               "dateEnd": null,
-              "kind": "visited"
+              "beatIds": [
+                "beat-002",
+                "beat-003",
+                "beat-004",
+                "beat-005",
+                "beat-006",
+                "beat-007",
+                "beat-008"
+              ]
             }
           ]
         }
@@ -482,15 +527,19 @@
           "relationKinds": [
             "encountered"
           ],
-          "contextHint": null,
           "beatIds": [
             "beat-006"
           ],
           "history": [
             {
-              "location": "Zeyfa's Labyrinth",
               "dateStart": "1730-01-25",
-              "dateEnd": null
+              "dateEnd": null,
+              "locationRefs": [
+                "Zeyfa's Labyrinth"
+              ],
+              "beatIds": [
+                "beat-006"
+              ]
             }
           ]
         }
@@ -498,33 +547,15 @@
     },
     "mentioned": {
       "npcs": [
-        {
-          "name": "Zeyfa",
-          "contextHint": "cruel west wind of Zimkovan legend"
-        },
-        {
-          "name": "Eidrikas",
-          "contextHint": "missing mystic and Ekko's mentor"
-        },
-        {
-          "name": "Pakrinek",
-          "contextHint": "missing Kemeko companion"
-        }
+        "Zeyfa",
+        "Eidrikas",
+        "Pakrinek"
       ],
       "locations": [],
       "organizations": [
-        {
-          "name": "Kemeko Monastery",
-          "contextHint": null
-        },
-        {
-          "name": "Vejo Vaikai",
-          "contextHint": null
-        },
-        {
-          "name": "Kestavo",
-          "contextHint": null
-        }
+        "Kemeko Monastery",
+        "Vejo Vaikai",
+        "Kestavo"
       ],
       "items": []
     }

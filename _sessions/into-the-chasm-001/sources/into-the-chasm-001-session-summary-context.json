@@ -33,9 +33,16 @@
         "Zeyfa's Labyrinth"
       ],
       "npcRefs": [
-        "Kalima"
+        "Zeyfa",
+        "Kalima",
+        "Eidrikas",
+        "Pakrinek"
       ],
-      "organizationRefs": [],
+      "organizationRefs": [
+        "Kemeko Monastery",
+        "Vejo Vaikai",
+        "Kestavo"
+      ],
       "itemRefs": [
         "Romil's token"
       ],
@@ -93,9 +100,13 @@
         "unknown ice platform"
       ],
       "npcRefs": [
+        "Zeyfa",
         "Kalima"
       ],
-      "organizationRefs": [],
+      "organizationRefs": [
+        "Kemeko Monastery",
+        "Vejo Vaikai"
+      ],
       "itemRefs": [],
       "combatEnemyRefs": [],
       "sourceShortSummaries": [
@@ -222,9 +233,12 @@
         "Zeyfa's Labyrinth"
       ],
       "npcRefs": [
-        "Kalima"
+        "Kalima",
+        "Zeyfa"
       ],
-      "organizationRefs": [],
+      "organizationRefs": [
+        "Kestavo"
+      ],
       "itemRefs": [
         "Romil's token"
       ],
@@ -261,9 +275,15 @@
         "Zeyfa's Labyrinth"
       ],
       "npcRefs": [
-        "Kalima"
+        "Kalima",
+        "Eidrikas",
+        "Pakrinek"
       ],
-      "organizationRefs": [],
+      "organizationRefs": [
+        "Vejo Vaikai",
+        "Kemeko Monastery",
+        "Kestavo"
+      ],
       "itemRefs": [],
       "combatEnemyRefs": [],
       "sourceShortSummaries": [
@@ -363,7 +383,7 @@
           "beat-001"
         ],
         "relationKinds": [
-          "visited"
+          "traveled-through"
         ]
       },
       {
@@ -391,7 +411,8 @@
           "relationKinds": [
             "met"
           ],
-          "contextHint": "terrified Zimkovan woman caught in the fall",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
           "beatIds": [
             "beat-001",
             "beat-002",
@@ -402,16 +423,26 @@
             "beat-007",
             "beat-008"
           ],
-          "history": [
+          "locationRefs": [
+            "Great Chasm",
+            "unknown ice platform",
+            "Zeyfa's Labyrinth"
+          ],
+          "whereaboutsCandidates": [
             {
-              "location": "Great Chasm -> unknown ice platform",
-              "dateStart": "1730-01-25",
-              "dateEnd": null
+              "location": "Great Chasm",
+              "type": "away",
+              "start": "1730-01-25"
+            },
+            {
+              "location": "unknown ice platform",
+              "type": "away",
+              "start": "1730-01-25"
             },
             {
               "location": "Zeyfa's Labyrinth",
-              "dateStart": "1730-01-25",
-              "dateEnd": null
+              "type": "away",
+              "start": "1730-01-25"
             }
           ]
         }
@@ -422,41 +453,32 @@
           "relationKinds": [
             "traveled-through"
           ],
-          "contextHint": "swept by unnatural storm into darkness below",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
           "beatIds": [
             "beat-001"
           ],
-          "visits": [
-            {
-              "dateStart": "1730-01-25",
-              "dateEnd": null,
-              "kind": "traveled-through"
-            }
-          ]
+          "whereaboutsCandidates": []
         },
         {
           "name": "unknown ice platform",
           "relationKinds": [
-            "visited"
+            "traveled-through"
           ],
-          "contextHint": "swept by unnatural storm into darkness below",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
           "beatIds": [
             "beat-001"
           ],
-          "visits": [
-            {
-              "dateStart": "1730-01-25",
-              "dateEnd": null,
-              "kind": "visited"
-            }
-          ]
+          "whereaboutsCandidates": []
         },
         {
           "name": "Zeyfa's Labyrinth",
           "relationKinds": [
             "visited"
           ],
-          "contextHint": "floating ice platform between two bridges",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
           "beatIds": [
             "beat-002",
             "beat-003",
@@ -466,13 +488,7 @@
             "beat-007",
             "beat-008"
           ],
-          "visits": [
-            {
-              "dateStart": "1730-01-25",
-              "dateEnd": null,
-              "kind": "visited"
-            }
-          ]
+          "whereaboutsCandidates": []
         }
       ],
       "organizations": [],
@@ -482,15 +498,19 @@
           "relationKinds": [
             "encountered"
           ],
-          "contextHint": null,
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
           "beatIds": [
             "beat-006"
           ],
-          "history": [
+          "locationRefs": [
+            "Zeyfa's Labyrinth"
+          ],
+          "whereaboutsCandidates": [
             {
               "location": "Zeyfa's Labyrinth",
-              "dateStart": "1730-01-25",
-              "dateEnd": null
+              "type": "away",
+              "start": "1730-01-25"
             }
           ]
         }
@@ -498,33 +518,15 @@
     },
     "mentioned": {
       "npcs": [
-        {
-          "name": "Zeyfa",
-          "contextHint": "cruel west wind of Zimkovan legend"
-        },
-        {
-          "name": "Eidrikas",
-          "contextHint": "missing mystic and Ekko's mentor"
-        },
-        {
-          "name": "Pakrinek",
-          "contextHint": "missing Kemeko companion"
-        }
+        "Zeyfa",
+        "Eidrikas",
+        "Pakrinek"
       ],
       "locations": [],
       "organizations": [
-        {
-          "name": "Kemeko Monastery",
-          "contextHint": null
-        },
-        {
-          "name": "Vejo Vaikai",
-          "contextHint": null
-        },
-        {
-          "name": "Kestavo",
-          "contextHint": null
-        }
+        "Kemeko Monastery",
+        "Vejo Vaikai",
+        "Kestavo"
       ],
       "items": []
     }
