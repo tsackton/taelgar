@@ -1,0 +1,647 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-beat-facts.json",
+  "session": {
+    "campaign": "Labyrinths of the Lost",
+    "sessionNumber": 1,
+    "realWorldDate": "2023-11-12",
+    "drStart": "1748-10-17",
+    "drEnd": "1748-10-17"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1748-10-17",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-001"
+      ],
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "smith's tools",
+        "tinker's tools",
+        "magical formal outfit"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Four newly awakened prisoners break out of their crude cell, arm themselves from the abandoned smithy, and settle on an ambush after overhearing drunk goblin guards nearby."
+      ],
+      "sourceLongSummaries": [
+        "Acescale, Gaudin, Loria, and Dilion awaken in a rough prison built inside an abandoned smithy on the grounds of Perdoli Manor in Western Cymea. After introducing themselves and probing the cell, they discover a rotten plank wall, crawl into the workshop, gather improvised tools and gear, overhear drunk goblin guards complaining about Ulgna, Folcan, and Grimstone, and inspect a tidier side room full of scavenged clothing and armor before committing to an attack on the guards."
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1748-10-17",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-002",
+        "beat-003",
+        "beat-004",
+        "beat-005",
+        "beat-006"
+      ],
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [
+        "Morky",
+        "Norrica",
+        "Skelver",
+        "Folcan"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Loria's short swords",
+        "Acescale's playing cards",
+        "silver ring with weathered pearl",
+        "stolen rations and brandy"
+      ],
+      "combatBeatIds": [
+        "beat-002",
+        "beat-005"
+      ],
+      "sourceShortSummaries": [
+        "The party's clumsy two-door ambush still succeeds, and the three drunken jailer goblins are killed in the forge-side guard room.",
+        "With the first guards dead, the party loots back their gear, rests in the smithy, and surveys the grounds and nearby barracks of Perdoli Manor before choosing a stealthier next move.",
+        "The party stages a fake prisoner transfer outside the barracks, using Gaudin's goblin disguise and Loria's telepathic translation, but Folcan grows suspicious and the deception starts to collapse.",
+        "Loria's fog cloud turns the failed bluff into a fast street fight, and the party kills the barracks guards while taking Folcan alive before the rest of the goblins can respond.",
+        "Interrogating the captured Folcan, the party learns how Grimstone's prisoner racket works and where hidden tunnels might lead into the manor's wine cellar."
+      ],
+      "sourceLongSummaries": [
+        "After discovering one of the two doors into the goblin room is barred, the party improvises a distraction and bursts into the first fight of the session. The goblin jailers are drunk but armed, and the brawl turns messy with darkness, acid, arrows, and Loria's brutal work at the knees, yet the group keeps the noise contained and kills the three guards before the rest of the manor notices.",
+        "Once the immediate danger passes, the group searches the goblin room and recovered stores, reclaiming weapons, cards, food, and scattered personal gear. They step outside long enough to understand that they are on the edge of sprawling Perdoli Manor, with gardens, hedges, a distant main villa, and a nearby barracks, then settle in for a short rest, a level-up pause, and a longer planning discussion about whether to leave, hide, or probe the goblins further.",
+        "Hoping to learn more without attacking a full barracks, the party builds a complicated ruse: Gaudin disguises himself as a goblin, Loria pretends to be bound, and the others hide behind a hedge with the steel defender ready. The approach works just long enough to pull barracks goblins out onto the path, but Folcan proves sharper than the first drunk guards, dismisses the act, and begins punishing the supposed troublemakers, forcing the party toward open action.",
+        "The moment the bluff fails, Loria drops a fog cloud across the path and hedgerow, cutting sight lines and throwing the barracks-side goblins into confusion. Fighting through the obscuring mist, the party tears down the nearby guards with spells, steel defender pressure, and Loria's blades, then hauls the surviving Folcan back toward the smithy before the wider barracks can react to the noise.",
+        "Back at the smithy, the party revives and threatens Folcan until he finally explains the arrangement: Grimstone, masked in white marble and black robes, takes one prisoner a week from the manor while the goblins keep silver, copper, and lesser spoils. Folcan also reveals that about ten goblins plus Ulgna remain in the barracks, that hobgoblins guard the main approach, and that a tunnel network may connect the barracks, the kitchen, and perhaps the ruined chapel to the manor's wine cellar, giving the group a plausible infiltration route for next session."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Waking in the Cell",
+      "beatIds": [
+        "beat-001"
+      ],
+      "transcriptRange": {
+        "startUid": "u0001",
+        "endUid": "u0423"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0423"
+        }
+      ],
+      "dateStart": "1748-10-17",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "smith's tools",
+        "tinker's tools",
+        "magical formal outfit"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Four newly awakened prisoners break out of their crude cell, arm themselves from the abandoned smithy, and settle on an ambush after overhearing drunk goblin guards nearby."
+      ],
+      "sourceLongSummaries": [
+        "Acescale, Gaudin, Loria, and Dilion awaken in a rough prison built inside an abandoned smithy on the grounds of Perdoli Manor in Western Cymea. After introducing themselves and probing the cell, they discover a rotten plank wall, crawl into the workshop, gather improvised tools and gear, overhear drunk goblin guards complaining about Ulgna, Folcan, and Grimstone, and inspect a tidier side room full of scavenged clothing and armor before committing to an attack on the guards."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "combat",
+      "title": "The Drunk Goblins Fall",
+      "beatIds": [
+        "beat-002"
+      ],
+      "transcriptRange": {
+        "startUid": "u0424",
+        "endUid": "u0805"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0424",
+          "endUid": "u0805"
+        }
+      ],
+      "dateStart": "1748-10-17",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [
+        "Morky",
+        "Norrica",
+        "Skelver"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Loria's short swords"
+      ],
+      "combatEnemyRefs": [
+        "Morky, Norrica, and Skelver"
+      ],
+      "sourceShortSummaries": [
+        "The party's clumsy two-door ambush still succeeds, and the three drunken jailer goblins are killed in the forge-side guard room."
+      ],
+      "sourceLongSummaries": [
+        "After discovering one of the two doors into the goblin room is barred, the party improvises a distraction and bursts into the first fight of the session. The goblin jailers are drunk but armed, and the brawl turns messy with darkness, acid, arrows, and Loria's brutal work at the knees, yet the group keeps the noise contained and kills the three guards before the rest of the manor notices."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Breather on the Manor Grounds",
+      "beatIds": [
+        "beat-003"
+      ],
+      "transcriptRange": {
+        "startUid": "u0806",
+        "endUid": "u1207"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0806",
+          "endUid": "u1207"
+        }
+      ],
+      "dateStart": "1748-10-17",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Acescale's playing cards",
+        "silver ring with weathered pearl",
+        "stolen rations and brandy"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "With the first guards dead, the party loots back their gear, rests in the smithy, and surveys the grounds and nearby barracks of Perdoli Manor before choosing a stealthier next move."
+      ],
+      "sourceLongSummaries": [
+        "Once the immediate danger passes, the group searches the goblin room and recovered stores, reclaiming weapons, cards, food, and scattered personal gear. They step outside long enough to understand that they are on the edge of sprawling Perdoli Manor, with gardens, hedges, a distant main villa, and a nearby barracks, then settle in for a short rest, a level-up pause, and a longer planning discussion about whether to leave, hide, or probe the goblins further."
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "A Goblin Ruse Unravels",
+      "beatIds": [
+        "beat-004"
+      ],
+      "transcriptRange": {
+        "startUid": "u1208",
+        "endUid": "u1531"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u1208",
+          "endUid": "u1531"
+        }
+      ],
+      "dateStart": "1748-10-17",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [
+        "Folcan"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party stages a fake prisoner transfer outside the barracks, using Gaudin's goblin disguise and Loria's telepathic translation, but Folcan grows suspicious and the deception starts to collapse."
+      ],
+      "sourceLongSummaries": [
+        "Hoping to learn more without attacking a full barracks, the party builds a complicated ruse: Gaudin disguises himself as a goblin, Loria pretends to be bound, and the others hide behind a hedge with the steel defender ready. The approach works just long enough to pull barracks goblins out onto the path, but Folcan proves sharper than the first drunk guards, dismisses the act, and begins punishing the supposed troublemakers, forcing the party toward open action."
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "combat",
+      "title": "Fog Fight by the Barracks",
+      "beatIds": [
+        "beat-005"
+      ],
+      "transcriptRange": {
+        "startUid": "u1532",
+        "endUid": "u1806"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u1532",
+          "endUid": "u1806"
+        }
+      ],
+      "dateStart": "1748-10-17",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [
+        "Folcan"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [
+        "Folcan and barracks goblins"
+      ],
+      "sourceShortSummaries": [
+        "Loria's fog cloud turns the failed bluff into a fast street fight, and the party kills the barracks guards while taking Folcan alive before the rest of the goblins can respond."
+      ],
+      "sourceLongSummaries": [
+        "The moment the bluff fails, Loria drops a fog cloud across the path and hedgerow, cutting sight lines and throwing the barracks-side goblins into confusion. Fighting through the obscuring mist, the party tears down the nearby guards with spells, steel defender pressure, and Loria's blades, then hauls the surviving Folcan back toward the smithy before the wider barracks can react to the noise."
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "beat",
+      "title": "Folcan Names the Tunnels",
+      "beatIds": [
+        "beat-006"
+      ],
+      "transcriptRange": {
+        "startUid": "u1807",
+        "endUid": "u2113"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u1807",
+          "endUid": "u2113"
+        }
+      ],
+      "dateStart": "1748-10-17",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [
+        "Folcan"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Interrogating the captured Folcan, the party learns how Grimstone's prisoner racket works and where hidden tunnels might lead into the manor's wine cellar."
+      ],
+      "sourceLongSummaries": [
+        "Back at the smithy, the party revives and threatens Folcan until he finally explains the arrangement: Grimstone, masked in white marble and black robes, takes one prisoner a week from the manor while the goblins keep silver, copper, and lesser spoils. Folcan also reveals that about ten goblins plus Ulgna remain in the barracks, that hobgoblins guard the main approach, and that a tunnel network may connect the barracks, the kitchen, and perhaps the ruined chapel to the manor's wine cellar, giving the group a plausible infiltration route for next session."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Morky",
+        "beatIds": [
+          "beat-002"
+        ],
+        "relationKinds": [
+          "fought"
+        ]
+      },
+      {
+        "name": "Norrica",
+        "beatIds": [
+          "beat-002"
+        ],
+        "relationKinds": [
+          "fought"
+        ]
+      },
+      {
+        "name": "Skelver",
+        "beatIds": [
+          "beat-002"
+        ],
+        "relationKinds": [
+          "fought"
+        ]
+      },
+      {
+        "name": "Folcan",
+        "beatIds": [
+          "beat-004",
+          "beat-005",
+          "beat-006"
+        ],
+        "relationKinds": [
+          "met",
+          "fought"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-002",
+        "beatIds": [
+          "beat-002"
+        ],
+        "enemyRefs": [
+          "Morky, Norrica, and Skelver"
+        ],
+        "dateStart": "1748-10-17",
+        "dateEnd": null
+      },
+      {
+        "blockId": "recap-005",
+        "beatIds": [
+          "beat-005"
+        ],
+        "enemyRefs": [
+          "Folcan and barracks goblins"
+        ],
+        "dateStart": "1748-10-17",
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Perdoli Manor",
+        "beatIds": [
+          "beat-001",
+          "beat-002",
+          "beat-003",
+          "beat-004",
+          "beat-005",
+          "beat-006"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Morky",
+          "relationKinds": [
+            "fought"
+          ],
+          "contextHint": "drunk goblin guard",
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-17",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Norrica",
+          "relationKinds": [
+            "fought"
+          ],
+          "contextHint": "drunk goblin guard",
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-17",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Skelver",
+          "relationKinds": [
+            "fought"
+          ],
+          "contextHint": "drunk goblin guard",
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-17",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Folcan",
+          "relationKinds": [
+            "met",
+            "fought"
+          ],
+          "contextHint": "goblin boss with a staff",
+          "beatIds": [
+            "beat-004",
+            "beat-005",
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-17",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Perdoli Manor",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "crude prison cell, abandoned smithy, and adjoining storage room",
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-003",
+            "beat-004",
+            "beat-005",
+            "beat-006"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-10-17",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "smith's tools",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-17",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "tinker's tools",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-17",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "magical formal outfit",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-17",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Loria's short swords",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-17",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Acescale's playing cards",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-17",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "silver ring with weathered pearl",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-17",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "stolen rations and brandy",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-17",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Ulgna",
+          "contextHint": "goblin superior blamed by the guards"
+        },
+        {
+          "name": "Grimstone",
+          "contextHint": "mysterious master taking prisoners"
+        }
+      ],
+      "locations": [],
+      "organizations": [],
+      "items": []
+    }
+  }
+}

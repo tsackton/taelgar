@@ -1,0 +1,1002 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-beat-facts.json",
+  "session": {
+    "campaign": "Labyrinths of the Lost",
+    "sessionNumber": 3,
+    "realWorldDate": "2023-12-10",
+    "drStart": null,
+    "drEnd": null
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003"
+      ],
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [
+        "pirate captain's ghost",
+        "undead pirate shades",
+        "Arturo"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "melted silver-and-gold ingot",
+        "alchemist's tools"
+      ],
+      "combatBeatIds": [
+        "beat-002"
+      ],
+      "sourceShortSummaries": [
+        "The party descends from the haunted bedroom into the old pirate bolthole beneath Perdoli Manor and scouts the cavern beyond.",
+        "The party ambushes the undead pirate shades in the entrance cavern, wins, and learns how the hideout was destroyed.",
+        "After the rest, the party finds Arturo in the next cave room and bluffs their way past him instead of fighting."
+      ],
+      "sourceLongSummaries": [
+        "After recapping Gaudin's deception of the pirate ghost and Petrona's name, the party enters the looted bolthole hidden beneath the master bedroom of Perdoli Manor. They confirm the chamber is an old pirate hideaway with a smashed tunnel to the north, organize a marching order in the dark, and send Acescale ahead to scout the wider cavern below.",
+        "Acescale reports seven undead pirates in the burned entrance cavern below, and the party engineers an ambush with light tricks, flight, and the steampup. They destroy the shades and shadows, examine the scorched skeletons, recover a melted silver-and-gold ingot, infer that a navy assault once burned the pirates alive here, and then take a short rest before pressing deeper.",
+        "Leaving the scorched cavern, the party opens the incongruous wooden door into the next section of the lair and sneaks to a torchlit guard room where a burly human servant is working out. Gaudin and Loria improvise a story about bringing ingredients to Grimstone, Arturo nervously half-believes them, tries a basilisk draught on the steampup, and ultimately backs off while the party pockets empty vials and other alchemical gear."
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-004",
+        "beat-005",
+        "beat-006",
+        "beat-007"
+      ],
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [
+        "Arturo",
+        "Grimstone",
+        "stone wasp"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "potion bandolier",
+        "volatile potion bandolier",
+        "anti-petrification potions",
+        "healing potions",
+        "glowing poison recipe",
+        "oil of slipperiness"
+      ],
+      "combatBeatIds": [
+        "beat-004",
+        "beat-006",
+        "beat-007"
+      ],
+      "sourceShortSummaries": [
+        "The party hatches risky plans, scouts Grimstone's lab, and finally tricks Arturo into a chase they turn lethal.",
+        "After the break, the party settles on an invisible flanking plan and creeps back toward Grimstone's laboratory.",
+        "Grimstone's lab fight erupts as the party swarms the masked alchemist and he answers with fire, poison, smoke, and animated stone spiders.",
+        "Even after Grimstone falls, the party has to destroy the stone wasp, save Acescale from repeated petrification, and sort the surviving potions in the lab."
+      ],
+      "sourceLongSummaries": [
+        "Back in Arturo's room, the group debates disguises, fires, fake alarms, and whether to draw Grimstone out before Gaudin briefly scouts the laboratory and confirms the masked alchemist is too absorbed in his work to come out easily. They pivot to one more deception, lure Arturo back into the caverns, ambush him in the corridor, and kill him so he cannot raise the alarm.",
+        "The table resumes after a real-world pause, chats briefly, and then reorients on the assault. They decide to send an invisible Loria forward to strip Grimstone's potion belt while the others wait just behind the bend, but the plan starts to collapse the moment she accidentally kicks a glass vial and Grimstone snaps to attention.",
+        "Initiative breaks out in Grimstone's cluttered laboratory as he hurls volatile potions while the party dives around benches and shattered statuary to pin him down. Acescale poisons him with ray of sickness, Loria slips under the bench to cut at his legs, Gaudin trades eldritch blasts with him, and the steampup leaps the table, but Grimstone still fills the room with smoke and animates the stone spider swarm before Loria finally cuts him down.",
+        "With Grimstone dead, the encounter stays dangerous as the last spiders and an animated stone wasp keep attacking, repeatedly dropping Acescale to zero with petrifying venom before Dilion and Loria finally stabilize the situation. Once the constructs are broken, the party identifies the lab's surviving stock, including healing draughts, anti-petrification potions, a potion of growth, a potion of advantage, a glowing poison recipe, and oil of slipperiness, then decides to rest before sweeping the final rooms."
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-008"
+      ],
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [
+        "Dilion's real dog",
+        "mimic"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "The Way of the Stone",
+        "pirate hideout maps",
+        "ring of birdcalls",
+        "charlatan's die"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "After another short rest, the party clears Grimstone's remaining rooms, recovers Dilion's real dog and the treasure cache, avoids a mimic, and beds down safely for the night."
+      ],
+      "sourceLongSummaries": [
+        "The party short rests, searches Grimstone's private notes on the Prime Arcana Stone, and then opens the storeroom where Dilion's flesh-and-blood dog is tied beside two treasure chests. They recover a key, the old book The Way of the Stone, pirate-route maps and valuables including Acescale's poker winnings, a ring of birdcalls, and a loaded gambler's die, realize the second chest is a mimic and back away, then settle in for a long rest in the cleared lair."
+      ]
+    },
+    {
+      "blockId": "timeline-004",
+      "dateStart": "1748-10-19",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-009"
+      ],
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "pirate hideout maps",
+        "ring of birdcalls",
+        "charlatan's die"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "At dawn the party slips out of Perdoli Manor, divides the spoils on the road down into the valley, and narrates their futures."
+      ],
+      "sourceLongSummaries": [
+        "Early the next morning the party sneaks out through the chaos around Perdoli Manor while hobgoblins rage over Grimstone's disappearance and the goblins scatter. On the road down into the valley they divide their treasure, and each character sketches a future: Acescale plans a potion shop and gambling hustle with the charlatan's die, Gaudin starts chasing pirate leads from the recovered maps, Dilion heads back into the wilderness with two dogs, and Loria turns south again with her ring of birdcalls and a quieter sense of purpose."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Into the Bolthole",
+      "beatIds": [
+        "beat-001"
+      ],
+      "transcriptRange": {
+        "startUid": "u0001",
+        "endUid": "u0190"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0190"
+        }
+      ],
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [
+        "pirate captain's ghost"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party descends from the haunted bedroom into the old pirate bolthole beneath Perdoli Manor and scouts the cavern beyond."
+      ],
+      "sourceLongSummaries": [
+        "After recapping Gaudin's deception of the pirate ghost and Petrona's name, the party enters the looted bolthole hidden beneath the master bedroom of Perdoli Manor. They confirm the chamber is an old pirate hideaway with a smashed tunnel to the north, organize a marching order in the dark, and send Acescale ahead to scout the wider cavern below."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "combat",
+      "title": "Shades in the Cavern",
+      "beatIds": [
+        "beat-002"
+      ],
+      "transcriptRange": {
+        "startUid": "u0191",
+        "endUid": "u0556"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0191",
+          "endUid": "u0556"
+        }
+      ],
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [
+        "undead pirate shades"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "melted silver-and-gold ingot"
+      ],
+      "combatEnemyRefs": [
+        "undead pirate shades",
+        "shadows"
+      ],
+      "sourceShortSummaries": [
+        "The party ambushes the undead pirate shades in the entrance cavern, wins, and learns how the hideout was destroyed."
+      ],
+      "sourceLongSummaries": [
+        "Acescale reports seven undead pirates in the burned entrance cavern below, and the party engineers an ambush with light tricks, flight, and the steampup. They destroy the shades and shadows, examine the scorched skeletons, recover a melted silver-and-gold ingot, infer that a navy assault once burned the pirates alive here, and then take a short rest before pressing deeper."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Bluffing Past Arturo",
+      "beatIds": [
+        "beat-003"
+      ],
+      "transcriptRange": {
+        "startUid": "u0557",
+        "endUid": "u0859"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0557",
+          "endUid": "u0859"
+        }
+      ],
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [
+        "Arturo"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "alchemist's tools"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "After the rest, the party finds Arturo in the next cave room and bluffs their way past him instead of fighting."
+      ],
+      "sourceLongSummaries": [
+        "Leaving the scorched cavern, the party opens the incongruous wooden door into the next section of the lair and sneaks to a torchlit guard room where a burly human servant is working out. Gaudin and Loria improvise a story about bringing ingredients to Grimstone, Arturo nervously half-believes them, tries a basilisk draught on the steampup, and ultimately backs off while the party pockets empty vials and other alchemical gear."
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "combat",
+      "title": "Schemes and Guard Kill",
+      "beatIds": [
+        "beat-004"
+      ],
+      "transcriptRange": {
+        "startUid": "u0860",
+        "endUid": "u1263"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0860",
+          "endUid": "u1263"
+        }
+      ],
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [
+        "Arturo",
+        "Grimstone"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [
+        "Arturo"
+      ],
+      "sourceShortSummaries": [
+        "The party hatches risky plans, scouts Grimstone's lab, and finally tricks Arturo into a chase they turn lethal."
+      ],
+      "sourceLongSummaries": [
+        "Back in Arturo's room, the group debates disguises, fires, fake alarms, and whether to draw Grimstone out before Gaudin briefly scouts the laboratory and confirms the masked alchemist is too absorbed in his work to come out easily. They pivot to one more deception, lure Arturo back into the caverns, ambush him in the corridor, and kill him so he cannot raise the alarm."
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "Approaching Grimstone",
+      "beatIds": [
+        "beat-005"
+      ],
+      "transcriptRange": {
+        "startUid": "u1264",
+        "endUid": "u1419"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u1264",
+          "endUid": "u1419"
+        }
+      ],
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [
+        "Grimstone"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "potion bandolier"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "After the break, the party settles on an invisible flanking plan and creeps back toward Grimstone's laboratory."
+      ],
+      "sourceLongSummaries": [
+        "The table resumes after a real-world pause, chats briefly, and then reorients on the assault. They decide to send an invisible Loria forward to strip Grimstone's potion belt while the others wait just behind the bend, but the plan starts to collapse the moment she accidentally kicks a glass vial and Grimstone snaps to attention."
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "combat",
+      "title": "Grimstone's Last Experiment to Aftermath in the Lab",
+      "beatIds": [
+        "beat-006",
+        "beat-007"
+      ],
+      "transcriptRange": {
+        "startUid": "u1420",
+        "endUid": "u1965"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u1420",
+          "endUid": "u1722"
+        },
+        {
+          "startUid": "u1723",
+          "endUid": "u1965"
+        }
+      ],
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [
+        "Grimstone",
+        "stone wasp"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "volatile potion bandolier",
+        "anti-petrification potions",
+        "healing potions",
+        "glowing poison recipe",
+        "oil of slipperiness"
+      ],
+      "combatEnemyRefs": [
+        "Grimstone",
+        "stone spider swarm",
+        "stone wasp"
+      ],
+      "sourceShortSummaries": [
+        "Grimstone's lab fight erupts as the party swarms the masked alchemist and he answers with fire, poison, smoke, and animated stone spiders.",
+        "Even after Grimstone falls, the party has to destroy the stone wasp, save Acescale from repeated petrification, and sort the surviving potions in the lab."
+      ],
+      "sourceLongSummaries": [
+        "Initiative breaks out in Grimstone's cluttered laboratory as he hurls volatile potions while the party dives around benches and shattered statuary to pin him down. Acescale poisons him with ray of sickness, Loria slips under the bench to cut at his legs, Gaudin trades eldritch blasts with him, and the steampup leaps the table, but Grimstone still fills the room with smoke and animates the stone spider swarm before Loria finally cuts him down.",
+        "With Grimstone dead, the encounter stays dangerous as the last spiders and an animated stone wasp keep attacking, repeatedly dropping Acescale to zero with petrifying venom before Dilion and Loria finally stabilize the situation. Once the constructs are broken, the party identifies the lab's surviving stock, including healing draughts, anti-petrification potions, a potion of growth, a potion of advantage, a glowing poison recipe, and oil of slipperiness, then decides to rest before sweeping the final rooms."
+      ]
+    },
+    {
+      "blockId": "recap-007",
+      "kind": "beat",
+      "title": "Treasure Room and Long Rest",
+      "beatIds": [
+        "beat-008"
+      ],
+      "transcriptRange": {
+        "startUid": "u1966",
+        "endUid": "u2116"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u1966",
+          "endUid": "u2116"
+        }
+      ],
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [
+        "Dilion's real dog",
+        "mimic"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "The Way of the Stone",
+        "pirate hideout maps",
+        "ring of birdcalls",
+        "charlatan's die"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "After another short rest, the party clears Grimstone's remaining rooms, recovers Dilion's real dog and the treasure cache, avoids a mimic, and beds down safely for the night."
+      ],
+      "sourceLongSummaries": [
+        "The party short rests, searches Grimstone's private notes on the Prime Arcana Stone, and then opens the storeroom where Dilion's flesh-and-blood dog is tied beside two treasure chests. They recover a key, the old book The Way of the Stone, pirate-route maps and valuables including Acescale's poker winnings, a ring of birdcalls, and a loaded gambler's die, realize the second chest is a mimic and back away, then settle in for a long rest in the cleared lair."
+      ]
+    },
+    {
+      "blockId": "recap-008",
+      "kind": "beat",
+      "title": "Dawn Escape and Epilogues",
+      "beatIds": [
+        "beat-009"
+      ],
+      "transcriptRange": {
+        "startUid": "u2117",
+        "endUid": "u2192"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u2117",
+          "endUid": "u2192"
+        }
+      ],
+      "dateStart": "1748-10-19",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Perdoli Manor"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "pirate hideout maps",
+        "ring of birdcalls",
+        "charlatan's die"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "At dawn the party slips out of Perdoli Manor, divides the spoils on the road down into the valley, and narrates their futures."
+      ],
+      "sourceLongSummaries": [
+        "Early the next morning the party sneaks out through the chaos around Perdoli Manor while hobgoblins rage over Grimstone's disappearance and the goblins scatter. On the road down into the valley they divide their treasure, and each character sketches a future: Acescale plans a potion shop and gambling hustle with the charlatan's die, Gaudin starts chasing pirate leads from the recovered maps, Dilion heads back into the wilderness with two dogs, and Loria turns south again with her ring of birdcalls and a quieter sense of purpose."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "pirate captain's ghost",
+        "beatIds": [
+          "beat-001"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "undead pirate shades",
+        "beatIds": [
+          "beat-002"
+        ],
+        "relationKinds": [
+          "fought"
+        ]
+      },
+      {
+        "name": "Arturo",
+        "beatIds": [
+          "beat-003",
+          "beat-004"
+        ],
+        "relationKinds": [
+          "met",
+          "fought"
+        ]
+      },
+      {
+        "name": "Grimstone",
+        "beatIds": [
+          "beat-004",
+          "beat-005",
+          "beat-006"
+        ],
+        "relationKinds": [
+          "met",
+          "fought"
+        ]
+      },
+      {
+        "name": "stone wasp",
+        "beatIds": [
+          "beat-007"
+        ],
+        "relationKinds": [
+          "fought"
+        ]
+      },
+      {
+        "name": "Dilion's real dog",
+        "beatIds": [
+          "beat-008"
+        ],
+        "relationKinds": [
+          "companion"
+        ]
+      },
+      {
+        "name": "mimic",
+        "beatIds": [
+          "beat-008"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-002",
+        "beatIds": [
+          "beat-002"
+        ],
+        "enemyRefs": [
+          "undead pirate shades",
+          "shadows"
+        ],
+        "dateStart": "1748-10-18",
+        "dateEnd": null
+      },
+      {
+        "blockId": "recap-004",
+        "beatIds": [
+          "beat-004"
+        ],
+        "enemyRefs": [
+          "Arturo"
+        ],
+        "dateStart": "1748-10-18",
+        "dateEnd": null
+      },
+      {
+        "blockId": "recap-006",
+        "beatIds": [
+          "beat-006",
+          "beat-007"
+        ],
+        "enemyRefs": [
+          "Grimstone",
+          "stone spider swarm",
+          "stone wasp"
+        ],
+        "dateStart": "1748-10-18",
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Perdoli Manor",
+        "beatIds": [
+          "beat-001",
+          "beat-002",
+          "beat-003",
+          "beat-004",
+          "beat-005",
+          "beat-006",
+          "beat-007",
+          "beat-008",
+          "beat-009"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "pirate captain's ghost",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "cursed guard in the bedroom above",
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "undead pirate shades",
+          "relationKinds": [
+            "fought"
+          ],
+          "contextHint": "entrance cavern sentries",
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Arturo",
+          "relationKinds": [
+            "met",
+            "fought"
+          ],
+          "contextHint": "human servant and guard",
+          "beatIds": [
+            "beat-003",
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Grimstone",
+          "relationKinds": [
+            "met",
+            "fought"
+          ],
+          "contextHint": "masked alchemist at work in the lab beyond",
+          "beatIds": [
+            "beat-004",
+            "beat-005",
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "stone wasp",
+          "relationKinds": [
+            "fought"
+          ],
+          "contextHint": "animated construct",
+          "beatIds": [
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Dilion's real dog",
+          "relationKinds": [
+            "companion"
+          ],
+          "contextHint": "captive hound in the treasure room",
+          "beatIds": [
+            "beat-008"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "mimic",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "false treasure chest",
+          "beatIds": [
+            "beat-008"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Perdoli Manor",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "the master bedroom and the hidden bolthole beneath it",
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-003",
+            "beat-004",
+            "beat-005",
+            "beat-006",
+            "beat-007",
+            "beat-008",
+            "beat-009"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-10-18",
+              "dateEnd": "1748-10-19",
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "melted silver-and-gold ingot",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "alchemist's tools",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "potion bandolier",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-005"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "volatile potion bandolier",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "anti-petrification potions",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "healing potions",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "glowing poison recipe",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "oil of slipperiness",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "The Way of the Stone",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-008"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "pirate hideout maps",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-008",
+            "beat-009"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": "1748-10-19"
+            }
+          ]
+        },
+        {
+          "name": "ring of birdcalls",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-008",
+            "beat-009"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": "1748-10-19"
+            }
+          ]
+        },
+        {
+          "name": "charlatan's die",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-008",
+            "beat-009"
+          ],
+          "history": [
+            {
+              "location": "Perdoli Manor",
+              "dateStart": "1748-10-18",
+              "dateEnd": "1748-10-19"
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Tollen Navy",
+          "contextHint": null
+        }
+      ],
+      "items": []
+    }
+  }
+}

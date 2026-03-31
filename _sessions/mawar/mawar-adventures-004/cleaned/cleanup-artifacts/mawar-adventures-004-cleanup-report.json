@@ -1,0 +1,1004 @@
+{
+  "summary": {
+    "changedLineCount": 138,
+    "replacementCount": 139,
+    "repeatedReplacementCount": 19,
+    "topReplacements": [
+      {
+        "from": "marissa",
+        "to": "Nerissa",
+        "count": 19,
+        "headers": [
+          "[u0005 | 00:00:18.810-00:00:27.000 | Ryu]",
+          "[u0019 | 00:01:36.030-00:01:43.800 | DM]",
+          "[u0283 | 00:25:13.440-00:25:13.950 | Unknown]",
+          "[u0390 | 00:34:08.550-00:34:09.540 | Ander]",
+          "[u0530 | 00:49:07.920-00:49:18.930 | Nerissa]",
+          "[u0893 | 01:21:51.150-01:21:54.720 | Ryu]",
+          "[u1430 | 02:11:58.920-02:12:01.020 | DM]",
+          "[u1587 | 02:24:24.360-02:24:29.940 | DM]",
+          "[u1865 | 02:44:49.170-02:44:49.890 | DM]",
+          "[u1958 | 02:51:05.850-02:51:06.990 | DM]",
+          "[u2029 | 02:56:33.720-02:56:42.990 | DM]",
+          "[u2211 | 03:12:09.450-03:12:10.950 | DM]",
+          "[u2216 | 03:12:48.900-03:12:52.050 | DM]",
+          "[u2766 | 03:52:06.270-03:52:08.670 | Ryu]",
+          "[u2777 | 03:52:44.820-03:52:53.100 | DM]",
+          "[u2824 | 03:56:09.840-03:56:17.280 | DM]",
+          "[u2881 | 03:59:59.550-04:00:02.010 | Ryu]",
+          "[u2921 | 04:02:24.180-04:02:29.340 | DM]",
+          "[u2949 | 04:04:18.990-04:04:20.490 | DM]"
+        ]
+      },
+      {
+        "from": "review",
+        "to": "Ryu",
+        "count": 16,
+        "headers": [
+          "[u0019 | 00:01:36.030-00:01:43.800 | DM]",
+          "[u0184 | 00:17:16.590-00:17:20.490 | DM]",
+          "[u0329 | 00:28:53.880-00:29:04.920 | Ryu]",
+          "[u0475 | 00:43:52.830-00:44:03.990 | Ryu]",
+          "[u0507 | 00:46:42.180-00:46:51.330 | Ryu]",
+          "[u0523 | 00:48:33.120-00:48:39.450 | DM]",
+          "[u0764 | 01:09:47.910-01:09:53.070 | Ryu]",
+          "[u0865 | 01:19:50.490-01:19:57.030 | Ryu]",
+          "[u1046 | 01:39:23.670-01:39:28.230 | Ryu]",
+          "[u1957 | 02:50:53.190-02:51:02.970 | DM]",
+          "[u1959 | 02:51:07.560-02:51:11.850 | Ander]",
+          "[u2210 | 03:12:06.960-03:12:08.430 | DM]",
+          "[u2502 | 03:33:17.520-03:33:19.350 | Ryu]",
+          "[u3018 | 04:10:17.940-04:10:21.120 | Nerissa]",
+          "[u3169 | 04:22:39.990-04:22:48.300 | Nerissa]"
+        ]
+      },
+      {
+        "from": "reuse",
+        "to": "Ryu",
+        "count": 13,
+        "headers": [
+          "[u0042 | 00:04:08.910-00:04:14.970 | Ryu]",
+          "[u0047 | 00:04:46.800-00:04:57.000 | Ryu]",
+          "[u0050 | 00:05:18.180-00:05:22.620 | Ryu]",
+          "[u0325 | 00:28:18.180-00:28:23.760 | Ryu]",
+          "[u0326 | 00:28:24.330-00:28:30.990 | Ryu]",
+          "[u0327 | 00:28:31.590-00:28:44.310 | Ryu]",
+          "[u0329 | 00:28:53.880-00:29:04.920 | Ryu]",
+          "[u0358 | 00:31:05.280-00:31:11.430 | Nerissa]",
+          "[u0456 | 00:40:48.420-00:41:02.070 | DM]",
+          "[u0590 | 00:54:19.980-00:54:22.620 | Ryu]",
+          "[u0674 | 01:01:43.800-01:01:53.700 | Ryu]",
+          "[u1861 | 02:44:23.070-02:44:29.250 | DM]",
+          "[u1986 | 02:52:38.850-02:52:45.390 | Nerissa]"
+        ]
+      },
+      {
+        "from": "json",
+        "to": "Jaeson",
+        "count": 12,
+        "headers": [
+          "[u0185 | 00:17:21.690-00:17:32.040 | DM]",
+          "[u0186 | 00:17:33.330-00:17:35.820 | Ryu]",
+          "[u0236 | 00:21:14.550-00:21:18.450 | Ryu]",
+          "[u0242 | 00:21:55.200-00:22:01.050 | Ryu]",
+          "[u0261 | 00:23:25.290-00:23:27.750 | Ryu]",
+          "[u0271 | 00:24:00.690-00:24:08.790 | Ryu]",
+          "[u0313 | 00:27:03.690-00:27:13.680 | Ryu]",
+          "[u0316 | 00:27:22.230-00:27:25.680 | Ryu]",
+          "[u0402 | 00:35:14.940-00:35:18.510 | Ryu]",
+          "[u0404 | 00:35:28.350-00:35:32.460 | Ryu]",
+          "[u0413 | 00:36:33.660-00:36:49.860 | Ryu]"
+        ]
+      },
+      {
+        "from": "Rio",
+        "to": "Ryu",
+        "count": 9,
+        "headers": [
+          "[u0024 | 00:02:12.690-00:02:16.680 | DM]",
+          "[u0398 | 00:34:49.980-00:34:54.720 | Nerissa]",
+          "[u0523 | 00:48:33.120-00:48:39.450 | DM]",
+          "[u0532 | 00:49:23.310-00:49:29.130 | Ryu]",
+          "[u0724 | 01:06:11.340-01:06:24.090 | Ryu]",
+          "[u0766 | 01:09:54.750-01:10:01.920 | Ryu]",
+          "[u1766 | 02:37:30.630-02:37:31.260 | DM]",
+          "[u1772 | 02:37:59.190-02:38:02.490 | DM]",
+          "[u2800 | 03:54:17.250-03:54:19.860 | DM]"
+        ]
+      },
+      {
+        "from": "i",
+        "to": "I",
+        "count": 8,
+        "headers": [
+          "[u0422 | 00:37:47.190-00:37:58.530 | Ryu]",
+          "[u0708 | 01:04:30.360-01:04:33.390 | Ryu]",
+          "[u0724 | 01:06:11.340-01:06:24.090 | Ryu]",
+          "[u1367 | 02:06:40.380-02:06:42.450 | Ryu]",
+          "[u2228 | 03:13:52.500-03:14:02.460 | Ryu]",
+          "[u2921 | 04:02:24.180-04:02:29.340 | DM]",
+          "[u3161 | 04:22:10.350-04:22:14.910 | DM]"
+        ]
+      },
+      {
+        "from": "Andrew",
+        "to": "Ander",
+        "count": 5,
+        "headers": [
+          "[u0034 | 00:03:11.520-00:03:22.680 | Ryu]",
+          "[u0054 | 00:05:52.920-00:05:55.980 | Ryu]",
+          "[u0055 | 00:05:58.140-00:06:00.300 | Ander]",
+          "[u0071 | 00:07:31.080-00:07:33.240 | Ryu]",
+          "[u2665 | 03:45:10.800-03:45:11.940 | DM]"
+        ]
+      },
+      {
+        "from": "Review",
+        "to": "Ryu",
+        "count": 4,
+        "headers": [
+          "[u0038 | 00:03:31.500-00:03:38.790 | Ryu]",
+          "[u0544 | 00:50:00.240-00:50:04.950 | Ryu]",
+          "[u0893 | 01:21:51.150-01:21:54.720 | Ryu]",
+          "[u1580 | 02:23:51.750-02:23:53.580 | DM]"
+        ]
+      },
+      {
+        "from": "and are",
+        "to": "Ander",
+        "count": 3,
+        "headers": [
+          "[u0016 | 00:01:09.000-00:01:17.280 | DM]",
+          "[u0419 | 00:37:29.460-00:37:32.790 | Nerissa]",
+          "[u1050 | 01:39:40.650-01:39:56.100 | Ryu]"
+        ]
+      },
+      {
+        "from": "real",
+        "to": "Ryu",
+        "count": 3,
+        "headers": [
+          "[u0025 | 00:02:20.670-00:02:27.510 | DM]",
+          "[u2023 | 02:55:40.739-02:55:42.120 | DM]",
+          "[u2220 | 03:13:03.060-03:13:07.710 | DM]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 3192,
+  "changedLineCount": 138,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0001 | 00:00:03.540-00:00:06.060 | Ryu]",
+      "lineNumber": 1,
+      "originalText": "And just a reminder again marissa.",
+      "cleanedText": "And just a reminder again, Nerissa."
+    },
+    {
+      "header": "[u0004 | 00:00:18.090-00:00:18.660 | Ryu]",
+      "lineNumber": 4,
+      "originalText": "speaker.",
+      "cleanedText": "Nerissa."
+    },
+    {
+      "header": "[u0005 | 00:00:18.810-00:00:27.000 | Ryu]",
+      "lineNumber": 5,
+      "originalText": "Because I was like what the Fuck like she's so powerful and like kicking ass and I was like why doesn't the secret do that, like, why does the secret like just like destroy people, the way that marissa was.",
+      "cleanedText": "Because I was like what the fuck, like she's so powerful and like kicking ass, and I was like why doesn't Nerissa do that, like why doesn't Nerissa just destroy people the way that Nerissa was."
+    },
+    {
+      "header": "[u0006 | 00:00:30.330-00:00:33.270 | DM]",
+      "lineNumber": 6,
+      "originalText": "yeah she might have slightly better spells one speaker.",
+      "cleanedText": "yeah she might have slightly better spells than Nerissa."
+    },
+    {
+      "header": "[u0016 | 00:01:09.000-00:01:17.280 | DM]",
+      "lineNumber": 16,
+      "originalText": "early November, and you know I think and are you've sort of just gotten your bearings and have.",
+      "cleanedText": "early November, and you know I think Ander you've sort of just gotten your bearings and have."
+    },
+    {
+      "header": "[u0019 | 00:01:36.030-00:01:43.800 | DM]",
+      "lineNumber": 19,
+      "originalText": "role 20 map right where review and marissa live are sort of on this peninsula and these abandoned towers.",
+      "cleanedText": "Roll20 map right where Ryu and Nerissa live are sort of on this peninsula and these abandoned towers."
+    },
+    {
+      "header": "[u0024 | 00:02:12.690-00:02:16.680 | DM]",
+      "lineNumber": 24,
+      "originalText": "You know this Peninsula to reconnect with Rio.",
+      "cleanedText": "You know this peninsula to reconnect with Ryu."
+    },
+    {
+      "header": "[u0025 | 00:02:20.670-00:02:27.510 | DM]",
+      "lineNumber": 25,
+      "originalText": "So, in a typical cold rainy November day what is real doing.",
+      "cleanedText": "So, in a typical cold rainy November day, what is Ryu doing."
+    },
+    {
+      "header": "[u0030 | 00:02:41.700-00:02:44.160 | Ryu]",
+      "lineNumber": 30,
+      "originalText": "Is this is not toggle revisited right, this is.",
+      "cleanedText": "This is not Taelgar Revisited, right, this is."
+    },
+    {
+      "header": "[u0031 | 00:02:45.810-00:02:52.620 | DM]",
+      "lineNumber": 31,
+      "originalText": "This is mark confederacy enroll 22nd.",
+      "cleanedText": "This is Mawar Confederacy in Roll20."
+    },
+    {
+      "header": "[u0034 | 00:03:11.520-00:03:22.680 | Ryu]",
+      "lineNumber": 34,
+      "originalText": "Because, as Andrew probably were remembered from from his youth, but you know there's a series of watchtowers up along the edge of the coast and.",
+      "cleanedText": "Because, as Ander probably would remember from his youth, you know there's a series of watchtowers up along the edge of the coast and."
+    },
+    {
+      "header": "[u0038 | 00:03:31.500-00:03:38.790 | Ryu]",
+      "lineNumber": 38,
+      "originalText": "Review you hear from town that you know ryu has has taken up residence in one of those towers, it was also like got he's like.",
+      "cleanedText": "Ryu you hear from town that you know ryu has has taken up residence in one of those towers, it was also like got he's like."
+    },
+    {
+      "header": "[u0042 | 00:04:08.910-00:04:14.970 | Ryu]",
+      "lineNumber": 42,
+      "originalText": "You know, kept up pretty well because you know reuse gotten some friends and spend some time like upkeep a little what quite well.",
+      "cleanedText": "You know, kept up pretty well because you know Ryu gotten some friends and spend some time like upkeep a little what quite well."
+    },
+    {
+      "header": "[u0047 | 00:04:46.800-00:04:57.000 | Ryu]",
+      "lineNumber": 47,
+      "originalText": "And you know reuse is often and he is right now, just like sitting on that little kind of second deck there with a fire going and it's you know the fire is like just covered, but you know.",
+      "cleanedText": "And you know Ryu is often and he is right now, just like sitting on that little kind of second deck there with a fire going and it's you know the fire is like just covered, but you know."
+    },
+    {
+      "header": "[u0049 | 00:05:03.510-00:05:16.620 | Ryu]",
+      "lineNumber": 49,
+      "originalText": "Reuse just kind of like sitting there and then you see, at the very, very top of this power purchase the very top of the Tower this this beautiful like blue spray that's just kind of like park perched over there and just like staring out of the ocean.",
+      "cleanedText": "Ryu is just kind of like sitting there and then you see, at the very, very top of this tower perched, at the very top of the tower, this beautiful blue osprey just kind of perched over there and just like staring out at the ocean."
+    },
+    {
+      "header": "[u0050 | 00:05:18.180-00:05:22.620 | Ryu]",
+      "lineNumber": 50,
+      "originalText": "and reuse just kind of you know kind of chillin like you see him like wiggling something with a knife.",
+      "cleanedText": "and Ryu just kind of you know kind of chillin like you see him like wiggling something with a knife."
+    },
+    {
+      "header": "[u0051 | 00:05:23.910-00:05:34.260 | Ryu]",
+      "lineNumber": 51,
+      "originalText": "As you as you walk up and so review review has got you know very, very long hair normally tied up in a top notch top novel you haven't seen you, since he was like you know quite young so.",
+      "cleanedText": "As you walk up, Ryu has got very, very long hair normally tied up in a topknot; you haven't seen him since he was quite young, so."
+    },
+    {
+      "header": "[u0054 | 00:05:52.920-00:05:55.980 | Ryu]",
+      "lineNumber": 54,
+      "originalText": "As you as you walk up and what what is, what does Andrew look like.",
+      "cleanedText": "As you as you walk up and what what is, what does Ander look like."
+    },
+    {
+      "header": "[u0055 | 00:05:58.140-00:06:00.300 | Ander]",
+      "lineNumber": 55,
+      "originalText": "So Andrew is in his.",
+      "cleanedText": "So Ander is in his."
+    },
+    {
+      "header": "[u0071 | 00:07:31.080-00:07:33.240 | Ryu]",
+      "lineNumber": 71,
+      "originalText": "you're going to try to kill me later today aren't you Andrew.",
+      "cleanedText": "you're going to try to kill me later today aren't you Ander."
+    },
+    {
+      "header": "[u0082 | 00:08:14.430-00:08:28.080 | Ryu]",
+      "lineNumber": 82,
+      "originalText": "Here first come up and get out of the rain review kind of waves him up to the to the you know up the steps of the tower and then then kind of like properly like looks at him and it's like holy shit man it's you and gives you like a really, really big hug.",
+      "cleanedText": "Here first, come up and get out of the rain. Ryu kind of waves him up the steps of the tower and then properly looks at him and it's like holy shit man it's you and gives you a really, really big hug."
+    },
+    {
+      "header": "[u0083 | 00:08:31.260-00:08:36.990 | Ander]",
+      "lineNumber": 83,
+      "originalText": "pulling it tight for that book man, so you live in in the bed and tower, this is pretty sweet things.",
+      "cleanedText": "pulling it tight for that hug, man, so you live in the abandoned tower, this is pretty sweet."
+    },
+    {
+      "header": "[u0097 | 00:09:57.030-00:09:58.260 | Ryu]",
+      "lineNumber": 97,
+      "originalText": "You heard about the gotcha.",
+      "cleanedText": "You heard about the gatza."
+    },
+    {
+      "header": "[u0104 | 00:10:16.470-00:10:18.000 | Ryu]",
+      "lineNumber": 104,
+      "originalText": "This this shorts know about Gaza.",
+      "cleanedText": "Does Trok know about gatza."
+    },
+    {
+      "header": "[u0129 | 00:12:13.980-00:12:24.390 | Ryu]",
+      "lineNumber": 129,
+      "originalText": "The bigger features that have been swimming around in the ocean and just absorbing absorbing the Gaza and it's making them weird man it's making its making the whole ocean.",
+      "cleanedText": "The bigger features that have been swimming around in the ocean and just absorbing absorbing the gatza and it's making them weird man it's making its making the whole ocean."
+    },
+    {
+      "header": "[u0184 | 00:17:16.590-00:17:20.490 | DM]",
+      "lineNumber": 184,
+      "originalText": "So as you're talking i'm review you see.",
+      "cleanedText": "So as you're talking i'm Ryu you see."
+    },
+    {
+      "header": "[u0185 | 00:17:21.690-00:17:32.040 | DM]",
+      "lineNumber": 185,
+      "originalText": "The somewhat shady friend of yours json kind of lurking around the base of your tower trying to catch your eye and sort of wave up to you.",
+      "cleanedText": "The somewhat shady friend of yours Jaeson kind of lurking around the base of your tower trying to catch your eye and sort of wave up to you."
+    },
+    {
+      "header": "[u0186 | 00:17:33.330-00:17:35.820 | Ryu]",
+      "lineNumber": 186,
+      "originalText": "yeah json what's up.",
+      "cleanedText": "yeah Jaeson what's up."
+    },
+    {
+      "header": "[u0190 | 00:17:48.240-00:17:58.440 | Ryu]",
+      "lineNumber": 190,
+      "originalText": "you're not going to know Andrew json but on Andrew has been in Marwan before you before before you're even here man, but super old friend, you can say in front of him is fine what's up.",
+      "cleanedText": "you're not going to know Ander. Jaeson, I mean Ander has been in Mawar before you were even here, man, but super old friend, you can say it in front of him, it's fine, what's up."
+    },
+    {
+      "header": "[u0203 | 00:18:55.680-00:18:58.020 | DM]",
+      "lineNumber": 203,
+      "originalText": "No interesting news about the godson mark as.",
+      "cleanedText": "No interesting news about the gatza mark as."
+    },
+    {
+      "header": "[u0215 | 00:19:42.510-00:19:44.010 | DM]",
+      "lineNumber": 215,
+      "originalText": "corner the godson market.",
+      "cleanedText": "corner the gatza market."
+    },
+    {
+      "header": "[u0222 | 00:20:11.040-00:20:12.630 | Ryu]",
+      "lineNumber": 222,
+      "originalText": "where's escrow rola on this map.",
+      "cleanedText": "where's Eskorola on this map."
+    },
+    {
+      "header": "[u0229 | 00:20:35.790-00:20:40.380 | Ryu]",
+      "lineNumber": 229,
+      "originalText": "shit dude if it's already an escrow rola it's not far from here I mean.",
+      "cleanedText": "shit dude if it's already an Eskorola it's not far from here I mean."
+    },
+    {
+      "header": "[u0236 | 00:21:14.550-00:21:18.450 | Ryu]",
+      "lineNumber": 236,
+      "originalText": "You know json and a real give them a big pat on the back.",
+      "cleanedText": "You know Jaeson and a real give them a big pat on the back."
+    },
+    {
+      "header": "[u0242 | 00:21:55.200-00:22:01.050 | Ryu]",
+      "lineNumber": 242,
+      "originalText": "I yeah json, what do you see you want to leave soon this you want to do this today or tomorrow.",
+      "cleanedText": "I yeah Jaeson, what do you see you want to leave soon this you want to do this today or tomorrow."
+    },
+    {
+      "header": "[u0261 | 00:23:25.290-00:23:27.750 | Ryu]",
+      "lineNumber": 261,
+      "originalText": "Well, you sure you don't want to come json.",
+      "cleanedText": "Well, you sure you don't want to come Jaeson."
+    },
+    {
+      "header": "[u0271 | 00:24:00.690-00:24:08.790 | Ryu]",
+      "lineNumber": 271,
+      "originalText": "They also should know json in the details critical details of slip your mind like right before like we're about to fight this fucking thing.",
+      "cleanedText": "They also should know Jaeson in the details critical details of slip your mind like right before like we're about to fight this fucking thing."
+    },
+    {
+      "header": "[u0283 | 00:25:13.440-00:25:13.950 | Unknown]",
+      "lineNumber": 283,
+      "originalText": "marissa.",
+      "cleanedText": "Nerissa."
+    },
+    {
+      "header": "[u0313 | 00:27:03.690-00:27:13.680 | Ryu]",
+      "lineNumber": 313,
+      "originalText": "we'll look, you know it seems like we want to go hop on this opportunity or whatever the hell, this is again just as json left by the way, that's him json Islam.",
+      "cleanedText": "we'll look, you know it seems like we want to go hop on this opportunity or whatever the hell, this is again just as Jaeson left by the way, that's him Jaeson Islam."
+    },
+    {
+      "header": "[u0316 | 00:27:22.230-00:27:25.680 | Ryu]",
+      "lineNumber": 316,
+      "originalText": "yeah you know I would take I would take json.",
+      "cleanedText": "yeah you know I would take I would take Jaeson."
+    },
+    {
+      "header": "[u0325 | 00:28:18.180-00:28:23.760 | Ryu]",
+      "lineNumber": 325,
+      "originalText": "And then do like a pretty like sweet move and just like land and catch like right on right on reuse a forearm.",
+      "cleanedText": "And then do like a pretty like sweet move and just like land and catch like right on right on Ryu a forearm."
+    },
+    {
+      "header": "[u0326 | 00:28:24.330-00:28:30.990 | Ryu]",
+      "lineNumber": 326,
+      "originalText": "And then reuse kind of just like you know stroking hit the back of his head and it's this beautiful like dark blue shimmering.",
+      "cleanedText": "And then Ryu kind of just like you know stroking hit the back of his head and it's this beautiful like dark blue shimmering."
+    },
+    {
+      "header": "[u0327 | 00:28:31.590-00:28:44.310 | Ryu]",
+      "lineNumber": 327,
+      "originalText": "osprey but you see another you're up close it's like a blue but it's also like it almost looks like his his like feathers are kind of changing color a little bit and the texture is kind of dynamic and changing as well, and so reuse kind of like.",
+      "cleanedText": "osprey but you see another you're up close it's like a blue but it's also like it almost looks like his his like feathers are kind of changing color a little bit and the texture is kind of dynamic and changing as well, and so Ryu kind of like."
+    },
+    {
+      "header": "[u0329 | 00:28:53.880-00:29:04.920 | Ryu]",
+      "lineNumber": 329,
+      "originalText": "and reuse kind of like like kind of checking them out and blue blue sort of like the first is like looking at review and then like kind of looks over at right at and or it's just sort of like staring at you.",
+      "cleanedText": "and Ryu kind of like like kind of checking them out and blue blue sort of like the first is like looking at Ryu and then like kind of looks over at right at and or it's just sort of like staring at you."
+    },
+    {
+      "header": "[u0358 | 00:31:05.280-00:31:11.430 | Nerissa]",
+      "lineNumber": 358,
+      "originalText": "My tower is not quite as Nice as reuse yet, because I haven't been working on it for as long.",
+      "cleanedText": "My tower is not quite as Nice as Ryu yet, because I haven't been working on it for as long."
+    },
+    {
+      "header": "[u0390 | 00:34:08.550-00:34:09.540 | Ander]",
+      "lineNumber": 390,
+      "originalText": "You them marissa.",
+      "cleanedText": "You them Nerissa."
+    },
+    {
+      "header": "[u0398 | 00:34:49.980-00:34:54.720 | Nerissa]",
+      "lineNumber": 398,
+      "originalText": "journey to to um I guess you, you know Rio, so this must be home.",
+      "cleanedText": "journey to to um I guess you, you know Ryu, so this must be home."
+    },
+    {
+      "header": "[u0402 | 00:35:14.940-00:35:18.510 | Ryu]",
+      "lineNumber": 402,
+      "originalText": "not sure if you remember my friend json kind of.",
+      "cleanedText": "not sure if you remember my friend Jaeson kind of."
+    },
+    {
+      "header": "[u0404 | 00:35:28.350-00:35:32.460 | Ryu]",
+      "lineNumber": 404,
+      "originalText": "So json, let us know that what's name of the town TIM.",
+      "cleanedText": "So Jaeson, let us know that what's name of the town TIM."
+    },
+    {
+      "header": "[u0406 | 00:35:36.990-00:35:38.370 | DM]",
+      "lineNumber": 406,
+      "originalText": "yeah asked her all.",
+      "cleanedText": "yeah Eskorola."
+    },
+    {
+      "header": "[u0408 | 00:35:42.600-00:35:53.970 | Ryu]",
+      "lineNumber": 408,
+      "originalText": "A lizard folk village not too far from here about a day sale, as per rola and apparently there was some kind of beast in the ocean, that is.",
+      "cleanedText": "A lizard folk village not too far from here about a day sale, Eskorola and apparently there was some kind of beast in the ocean, that is."
+    },
+    {
+      "header": "[u0410 | 00:35:59.850-00:36:13.650 | Ryu]",
+      "lineNumber": 410,
+      "originalText": "trying to get there gotcha and also somehow has written there's a handwritten note involved that was on a raft telling them to bring all their godson that they otherwise more would die, the entire village of burn.",
+      "cleanedText": "trying to get their gatza, and also somehow there was a handwritten note involved that was on a raft telling them to bring all their gatza or otherwise more would die, the entire village would burn."
+    },
+    {
+      "header": "[u0413 | 00:36:33.660-00:36:49.860 | Ryu]",
+      "lineNumber": 413,
+      "originalText": "And you know json makes a good point that I mean json is kind of an ass and wanted to steal the gods that from the directive from the lizard folk I think truck might be pretty pissed off to you if we just did that, but I think there's something to be said for.",
+      "cleanedText": "And you know Jaeson makes a good point that, I mean, Jaeson is kind of an ass and wanted to steal the gatza tribute from the lizardfolk. I think Trok might be pretty pissed off too if we just did that, but I think there's something to be said for."
+    },
+    {
+      "header": "[u0417 | 00:37:15.540-00:37:20.970 | Nerissa]",
+      "lineNumber": 417,
+      "originalText": "I think that anything that's killing off lizard folks whether they're in the guts to trade or not.",
+      "cleanedText": "I think that anything that's killing off lizardfolk, whether they're in the gatza trade or not."
+    },
+    {
+      "header": "[u0419 | 00:37:29.460-00:37:32.790 | Nerissa]",
+      "lineNumber": 419,
+      "originalText": "Pretty able bodied friend in town and are.",
+      "cleanedText": "Pretty able bodied friend in town Ander."
+    },
+    {
+      "header": "[u0422 | 00:37:47.190-00:37:58.530 | Ryu]",
+      "lineNumber": 422,
+      "originalText": "You know i'm going to go and before we head out i'm going to leave word at the Leviathan was zero into the truck in case they happen to Oh, and what was what was some john's character's name.",
+      "cleanedText": "You know I'm going to go and before we head out I'm going to leave word at the Leviathan with Wazir and Trok in case they happen to, oh, and what was John's character's name."
+    },
+    {
+      "header": "[u0424 | 00:38:01.110-00:38:02.220 | Ryu]",
+      "lineNumber": 424,
+      "originalText": "What was kalo steel again.",
+      "cleanedText": "What was Kaleho still again."
+    },
+    {
+      "header": "[u0456 | 00:40:48.420-00:41:02.070 | DM]",
+      "lineNumber": 456,
+      "originalText": "You know, reuse, a talented sailor so managed to to you know you start the coast follow along the coastline, which stays rocky cliffs for a while.",
+      "cleanedText": "You know, Ryu, a talented sailor so managed to to you know you start the coast follow along the coastline, which stays rocky cliffs for a while."
+    },
+    {
+      "header": "[u0475 | 00:43:52.830-00:44:03.990 | Ryu]",
+      "lineNumber": 475,
+      "originalText": "Blue blues been kind of like flying around kind of near the boat and sort of a scattering ahead, and you know you see review kind of says something and then blue, just like takes off towards it, I sent I sent boo to go check it out.",
+      "cleanedText": "Blue blues been kind of like flying around kind of near the boat and sort of a scattering ahead, and you know you see Ryu kind of says something and then blue, just like takes off towards it, I sent I sent boo to go check it out."
+    },
+    {
+      "header": "[u0507 | 00:46:42.180-00:46:51.330 | Ryu]",
+      "lineNumber": 507,
+      "originalText": "So this is a review from from Hungary and with friends here also from Hungary we are.",
+      "cleanedText": "So this is a Ryu from from Hungary and with friends here also from Hungary we are."
+    },
+    {
+      "header": "[u0513 | 00:47:23.940-00:47:28.710 | DM]",
+      "lineNumber": 513,
+      "originalText": "Let me go i'll be i'll be right back let let me get it's all have want to hear this.",
+      "cleanedText": "Let me go, I'll be right back, let me get Itzal; he'll want to hear this."
+    },
+    {
+      "header": "[u0515 | 00:47:32.040-00:47:34.710 | Ryu]",
+      "lineNumber": 515,
+      "originalText": "Real quick it's all the Elder here.",
+      "cleanedText": "Real quick, Itzal the elder here."
+    },
+    {
+      "header": "[u0523 | 00:48:33.120-00:48:39.450 | DM]",
+      "lineNumber": 523,
+      "originalText": "Power slightly and racking then then racking as as you review and says Rio.",
+      "cleanedText": "Power slightly and racking then then racking as as you Ryu and says Ryu."
+    },
+    {
+      "header": "[u0530 | 00:49:07.920-00:49:18.930 | Nerissa]",
+      "lineNumber": 530,
+      "originalText": "My name is marissa i'm a new resident of hungry and have had that opportunity to get never you and we'd appreciate getting to know.",
+      "cleanedText": "My name is Nerissa i'm a new resident of hungry and have had that opportunity to get never you and we'd appreciate getting to know."
+    },
+    {
+      "header": "[u0532 | 00:49:23.310-00:49:29.130 | Ryu]",
+      "lineNumber": 532,
+      "originalText": "Rio kind of leans over a little bit nervous as being a little humble but she's got some.",
+      "cleanedText": "Ryu kind of leans over a little bit nervous as being a little humble but she's got some."
+    },
+    {
+      "header": "[u0544 | 00:50:00.240-00:50:04.950 | Ryu]",
+      "lineNumber": 544,
+      "originalText": "Review youthfully looks at the lizard poke at the lizard man, the other.",
+      "cleanedText": "Ryu youthfully looks at the lizard poke at the lizard man, the other."
+    },
+    {
+      "header": "[u0580 | 00:53:28.950-00:53:30.480 | DM]",
+      "lineNumber": 580,
+      "originalText": "All the gods that we had.",
+      "cleanedText": "All the gatza we had."
+    },
+    {
+      "header": "[u0590 | 00:54:19.980-00:54:22.620 | Ryu]",
+      "lineNumber": 590,
+      "originalText": "I reuse asking just because you know.",
+      "cleanedText": "I Ryu asking just because you know."
+    },
+    {
+      "header": "[u0596 | 00:55:12.750-00:55:29.520 | Ryu]",
+      "lineNumber": 596,
+      "originalText": "it's all maybe it would be you know, maybe we can go investigate that site i'd love to see if I could get a track or anything learn about this piece learn a little bit what we're up against I sent blue to go and check out the steam a little worried for me it'll be fine but.",
+      "cleanedText": "Itzal, maybe it would be, you know, maybe we can go investigate that site. I'd love to see if I could get a track or anything, learn about this beast, learn a little bit what we're up against. I sent Blu to go and check out the steam; I'm a little worried for him. He'll be fine, but."
+    },
+    {
+      "header": "[u0607 | 00:56:29.820-00:56:30.990 | Ryu]",
+      "lineNumber": 607,
+      "originalText": "And are you have any questions.",
+      "cleanedText": "Ander you have any questions."
+    },
+    {
+      "header": "[u0623 | 00:57:26.250-00:57:27.750 | Ryu]",
+      "lineNumber": 623,
+      "originalText": "what's your best guess on what it is it's all.",
+      "cleanedText": "what's your best guess on what it is, Itzal."
+    },
+    {
+      "header": "[u0651 | 00:59:39.990-00:59:49.590 | Ryu]",
+      "lineNumber": 651,
+      "originalText": "yeah it's all a who can see the body, I might be able to learn something from it and same thing by investigating location of the attack, maybe I can learn a little bit more about what we're what we're up against.",
+      "cleanedText": "yeah Itzal, who can see the body? I might be able to learn something from it and same thing by investigating the location of the attack, maybe I can learn a little bit more about what we're up against."
+    },
+    {
+      "header": "[u0656 | 01:00:11.520-01:00:12.690 | DM]",
+      "lineNumber": 656,
+      "originalText": "Itzhak says.",
+      "cleanedText": "Itzal says."
+    },
+    {
+      "header": "[u0658 | 01:00:18.360-01:00:19.320 | DM]",
+      "lineNumber": 658,
+      "originalText": "i'm a Maya.",
+      "cleanedText": "Amaya."
+    },
+    {
+      "header": "[u0665 | 01:00:55.110-01:01:04.020 | Ryu]",
+      "lineNumber": 665,
+      "originalText": "You before we do that it's all um anybody that handled any of those bodies are seen any the bodies around that I could just ask a few questions.",
+      "cleanedText": "Before we do that, Itzal, anybody that handled any of those bodies or has seen any of the bodies around that I could just ask a few questions."
+    },
+    {
+      "header": "[u0674 | 01:01:43.800-01:01:53.700 | Ryu]",
+      "lineNumber": 674,
+      "originalText": "TIM reuse starts thinking about everything he knows so far giant creature scalding you know, like what the Fuck is this can you can you make some guesses survival.",
+      "cleanedText": "TIM Ryu starts thinking about everything he knows so far giant creature scalding you know, like what the Fuck is this can you can you make some guesses survival."
+    },
+    {
+      "header": "[u0702 | 01:03:52.590-01:03:56.580 | Ryu]",
+      "lineNumber": 702,
+      "originalText": "yeah it's all thank you for for your help, I think we can go with the Maya and.",
+      "cleanedText": "yeah Itzal, thank you for your help. I think we can go with Amaya and."
+    },
+    {
+      "header": "[u0708 | 01:04:30.360-01:04:33.390 | Ryu]",
+      "lineNumber": 708,
+      "originalText": "i'm here to help we're friends of it's all and.",
+      "cleanedText": "I'm here to help, we're friends of Itzal and."
+    },
+    {
+      "header": "[u0724 | 01:06:11.340-01:06:24.090 | Ryu]",
+      "lineNumber": 724,
+      "originalText": "Any little clue that he can oh and Rio kind of looks over at Marisa i'm about to do some investigating, but you can help me make it even more likely that i'm going to succeed in my investigation right interesting.",
+      "cleanedText": "Any little clue that he can. Oh, and Ryu kind of looks over at Nerissa. I'm about to do some investigating, but you can help me make it even more likely that I'm going to succeed in my investigation, right, interesting."
+    },
+    {
+      "header": "[u0764 | 01:09:47.910-01:09:53.070 | Ryu]",
+      "lineNumber": 764,
+      "originalText": "Okay okay so review like i'm presuming review is like diving in the water, and like.",
+      "cleanedText": "Okay okay so Ryu like i'm presuming Ryu is like diving in the water, and like."
+    },
+    {
+      "header": "[u0766 | 01:09:54.750-01:10:01.920 | Ryu]",
+      "lineNumber": 766,
+      "originalText": "yeah so so at some point, you know Rio after doing some investigation comes out gets back into the canoe and it's just like.",
+      "cleanedText": "yeah so so at some point, you know Ryu after doing some investigation comes out gets back into the canoe and it's just like."
+    },
+    {
+      "header": "[u0858 | 01:19:00.720-01:19:05.100 | Ryu]",
+      "lineNumber": 858,
+      "originalText": "Where are we in the three day cycle, where they've got to like put all the gas out are ready dies.",
+      "cleanedText": "Where are we in the three-day cycle, where they've got to put all the gatza out already, guys."
+    },
+    {
+      "header": "[u0862 | 01:19:23.400-01:19:31.440 | DM]",
+      "lineNumber": 862,
+      "originalText": "They are haven't decided yet whether they're going to just give up the gods out or flee or try and fight it off.",
+      "cleanedText": "They have not decided yet whether they are going to just give up the gatza or flee or try and fight it off."
+    },
+    {
+      "header": "[u0865 | 01:19:50.490-01:19:57.030 | Ryu]",
+      "lineNumber": 865,
+      "originalText": "His review alarms is this like you know it's like Oh, like in a real is kind of like khaki you know.",
+      "cleanedText": "His Ryu alarms is this like you know it's like Oh, like in a real is kind of like khaki you know."
+    },
+    {
+      "header": "[u0893 | 01:21:51.150-01:21:54.720 | Ryu]",
+      "lineNumber": 893,
+      "originalText": "Review kind of looks over at marissa you got anything for Anders that can help them.",
+      "cleanedText": "Ryu kind of looks over at Nerissa you got anything for Anders that can help them."
+    },
+    {
+      "header": "[u0934 | 01:25:25.830-01:25:36.480 | DM]",
+      "lineNumber": 934,
+      "originalText": "So they put you off for the for the night, the lizard folk do attempt to gots a ceremony just to try and reach the spirit of the dead warrior but.",
+      "cleanedText": "So they put you up for the night. The lizardfolk do attempt a gatza ceremony just to try and reach the spirit of the dead warrior, but."
+    },
+    {
+      "header": "[u1046 | 01:39:23.670-01:39:28.230 | Ryu]",
+      "lineNumber": 1046,
+      "originalText": "Then yeah I guess review will will power us will power us there.",
+      "cleanedText": "Then yeah I guess Ryu will will power us will power us there."
+    },
+    {
+      "header": "[u1050 | 01:39:40.650-01:39:56.100 | Ryu]",
+      "lineNumber": 1050,
+      "originalText": "You know, blue blue kind of takes off off into the distance starts taking off and then and are you see like you know real I kind of had a little couple little little conversation with blue like right before I left and you see blue kind of is like up up up up, then all of a sudden, like.",
+      "cleanedText": "You know, Blu kind of takes off off into the distance, starts taking off, and then Ander you see, like, you know, Ryu had a little conversation with Blu right before I left, and you see Blu kind of is like up, up, up, up, then all of a sudden, like."
+    },
+    {
+      "header": "[u1152 | 01:48:35.790-01:48:37.470 | Ryu]",
+      "lineNumber": 1152,
+      "originalText": "So it's all period.",
+      "cleanedText": "So, Itzal, period."
+    },
+    {
+      "header": "[u1220 | 01:53:43.020-01:53:49.650 | Ryu]",
+      "lineNumber": 1220,
+      "originalText": "Reuse this leg like dude we gotta swim into this fucking tunnel man like that the creatures down there inside this tunnel.",
+      "cleanedText": "Ryu this leg like dude we gotta swim into this fucking tunnel man like that the creatures down there inside this tunnel."
+    },
+    {
+      "header": "[u1240 | 01:55:05.910-01:55:11.280 | Ryu]",
+      "lineNumber": 1240,
+      "originalText": "And are you see like kind of near and under the book this like this, like slim.",
+      "cleanedText": "Ander, you see like kind of near and under the boat this slim."
+    },
+    {
+      "header": "[u1244 | 01:55:21.600-01:55:29.880 | Ryu]",
+      "lineNumber": 1244,
+      "originalText": "And then you see like this that that the this figure like kind of go and it looks like it looks like a like a shark and under the water.",
+      "cleanedText": "And then you see this figure kind of go, and it looks like a shark under the water."
+    },
+    {
+      "header": "[u1255 | 01:56:27.540-01:56:39.330 | Ryu]",
+      "lineNumber": 1255,
+      "originalText": "Lou actually changes into a totally different creature he becomes Turk when he's in the water he's a sharp different personality towards kind of a pain in the ass To be honest, but blue I easy blues the most reasonable, one might be a bit.",
+      "cleanedText": "Blu actually changes into a totally different creature. He becomes Turk when he is in the water; he is a shark, different personality too, kind of a pain in the ass to be honest, but Blu, I mean, Blu is the most reasonable one, might be a bit."
+    },
+    {
+      "header": "[u1366 | 02:06:31.290-02:06:39.900 | DM]",
+      "lineNumber": 1366,
+      "originalText": "Yes, you're now where is his Turk under neath you where is your spell has worn off, so you can't see through his eyes anymore.",
+      "cleanedText": "Yes, you're now where Turk is beneath you; your spell has worn off, so you can't see through his eyes anymore."
+    },
+    {
+      "header": "[u1367 | 02:06:40.380-02:06:42.450 | Ryu]",
+      "lineNumber": 1367,
+      "originalText": "yeah i'll keep Turkey Turkey right next the boat.",
+      "cleanedText": "yeah I'll keep Turk right next to the boat."
+    },
+    {
+      "header": "[u1430 | 02:11:58.920-02:12:01.020 | DM]",
+      "lineNumber": 1430,
+      "originalText": "And marissa you are.",
+      "cleanedText": "And Nerissa you are."
+    },
+    {
+      "header": "[u1515 | 02:18:30.390-02:18:32.100 | DM]",
+      "lineNumber": 1515,
+      "originalText": "Your turn review and or Europe.",
+      "cleanedText": "Your turn, Ryu, and Ander, you are up."
+    },
+    {
+      "header": "[u1561 | 02:22:06.720-02:22:12.570 | DM]",
+      "lineNumber": 1561,
+      "originalText": "nervous and review, but succeed and take two points of damage you fail and take four points of fire damage.",
+      "cleanedText": "Nerissa and Ryu both succeed and take two points of damage; you fail and take four points of fire damage."
+    },
+    {
+      "header": "[u1580 | 02:23:51.750-02:23:53.580 | DM]",
+      "lineNumber": 1580,
+      "originalText": "Review make a.",
+      "cleanedText": "Ryu make a."
+    },
+    {
+      "header": "[u1587 | 02:24:24.360-02:24:29.940 | DM]",
+      "lineNumber": 1587,
+      "originalText": "Step step here and take a swing at marissa.",
+      "cleanedText": "Step step here and take a swing at Nerissa."
+    },
+    {
+      "header": "[u1611 | 02:26:26.700-02:26:27.840 | DM]",
+      "lineNumber": 1611,
+      "originalText": "stab it and are.",
+      "cleanedText": "stab at Ander."
+    },
+    {
+      "header": "[u1766 | 02:37:30.630-02:37:31.260 | DM]",
+      "lineNumber": 1766,
+      "originalText": "at Rio.",
+      "cleanedText": "at Ryu."
+    },
+    {
+      "header": "[u1772 | 02:37:59.190-02:38:02.490 | DM]",
+      "lineNumber": 1772,
+      "originalText": "Rio, you are swimming in the water.",
+      "cleanedText": "Ryu, you are swimming in the water."
+    },
+    {
+      "header": "[u1861 | 02:44:23.070-02:44:29.250 | DM]",
+      "lineNumber": 1861,
+      "originalText": "moving out of the reach of reuse, so you get an opportunity attack you can use reaction.",
+      "cleanedText": "moving out of the reach of Ryu, so you get an opportunity attack you can use reaction."
+    },
+    {
+      "header": "[u1865 | 02:44:49.170-02:44:49.890 | DM]",
+      "lineNumber": 1865,
+      "originalText": "marissa.",
+      "cleanedText": "Nerissa."
+    },
+    {
+      "header": "[u1926 | 02:48:43.080-02:48:44.490 | DM]",
+      "lineNumber": 1926,
+      "originalText": "don't forget about real to.",
+      "cleanedText": "don't forget about Ryu too."
+    },
+    {
+      "header": "[u1929 | 02:48:48.930-02:48:51.000 | DM]",
+      "lineNumber": 1929,
+      "originalText": "token is labeled real that Mrs.",
+      "cleanedText": "token is labeled Ryu; that misses."
+    },
+    {
+      "header": "[u1957 | 02:50:53.190-02:51:02.970 | DM]",
+      "lineNumber": 1957,
+      "originalText": "that's a 14 which Mrs and 16 which messages and when it review, which is an 11 he's clearly somewhat shaken at this point.",
+      "cleanedText": "that's a 14 which Mrs and 16 which messages and when it Ryu, which is an 11 he's clearly somewhat shaken at this point."
+    },
+    {
+      "header": "[u1958 | 02:51:05.850-02:51:06.990 | DM]",
+      "lineNumber": 1958,
+      "originalText": "And marissa Europe.",
+      "cleanedText": "And Nerissa Europe."
+    },
+    {
+      "header": "[u1959 | 02:51:07.560-02:51:11.850 | Ander]",
+      "lineNumber": 1959,
+      "originalText": "Oh hang on i'm gonna use my Sentinel attack your tech review so i'm gonna.",
+      "cleanedText": "Oh hang on i'm gonna use my Sentinel attack your tech Ryu so i'm gonna."
+    },
+    {
+      "header": "[u1986 | 02:52:38.850-02:52:45.390 | Nerissa]",
+      "lineNumber": 1986,
+      "originalText": "dance swim with my sword, since this fire thing and reuse right about that all right.",
+      "cleanedText": "dance swim with my sword, since this fire thing and Ryu right about that all right."
+    },
+    {
+      "header": "[u2018 | 02:55:24.030-02:55:24.960 | DM]",
+      "lineNumber": 2018,
+      "originalText": "A giant wiener.",
+      "cleanedText": "A giant swimmer."
+    },
+    {
+      "header": "[u2023 | 02:55:40.739-02:55:42.120 | DM]",
+      "lineNumber": 2023,
+      "originalText": "that's real damage.",
+      "cleanedText": "that's Ryu damage."
+    },
+    {
+      "header": "[u2029 | 02:56:33.720-02:56:42.990 | DM]",
+      "lineNumber": 2029,
+      "originalText": "And and marissa you take 13 points of piercing damage as you managed to dodge partially out of the way.",
+      "cleanedText": "And and Nerissa you take 13 points of piercing damage as you managed to dodge partially out of the way."
+    },
+    {
+      "header": "[u2210 | 03:12:06.960-03:12:08.430 | DM]",
+      "lineNumber": 2210,
+      "originalText": "review is for.",
+      "cleanedText": "Ryu is four."
+    },
+    {
+      "header": "[u2211 | 03:12:09.450-03:12:10.950 | DM]",
+      "lineNumber": 2211,
+      "originalText": "marissa was.",
+      "cleanedText": "Nerissa was."
+    },
+    {
+      "header": "[u2216 | 03:12:48.900-03:12:52.050 | DM]",
+      "lineNumber": 2216,
+      "originalText": "marissa you react first to these blasts of fire.",
+      "cleanedText": "Nerissa you react first to these blasts of fire."
+    },
+    {
+      "header": "[u2220 | 03:13:03.060-03:13:07.710 | DM]",
+      "lineNumber": 2220,
+      "originalText": "So real you are in danger of of falling.",
+      "cleanedText": "So Ryu you are in danger of falling."
+    },
+    {
+      "header": "[u2228 | 03:13:52.500-03:14:02.460 | Ryu]",
+      "lineNumber": 2228,
+      "originalText": "I mean i'm just you know it's all negative it can try to pull the spear out, I think, really is going to sprint across the top of the NASA try to get closer to melee combat with spell caster.",
+      "cleanedText": "I mean I'm just, you know, if Blu can try to pull the spear out, I think Ryu is going to sprint across the top of the nest to try to get closer to melee combat with the spellcaster."
+    },
+    {
+      "header": "[u2463 | 03:30:47.400-03:30:50.760 | DM]",
+      "lineNumber": 2463,
+      "originalText": "Ah let's see that ends return marissa you're up.",
+      "cleanedText": "let's see, that ends her turn. Nerissa, you're up."
+    },
+    {
+      "header": "[u2502 | 03:33:17.520-03:33:19.350 | Ryu]",
+      "lineNumber": 2502,
+      "originalText": "review to throw it throw it out the because.",
+      "cleanedText": "Ryu to throw it throw it out the because."
+    },
+    {
+      "header": "[u2665 | 03:45:10.800-03:45:11.940 | DM]",
+      "lineNumber": 2665,
+      "originalText": "Andrew is after you yep.",
+      "cleanedText": "Ander is after you yep."
+    },
+    {
+      "header": "[u2749 | 03:50:31.980-03:50:37.290 | DM]",
+      "lineNumber": 2749,
+      "originalText": "dragon turtle now is going to yell in mechanic I hope you can swim.",
+      "cleanedText": "The dragon turtle now is going to yell in Draconic, I hope you can swim."
+    },
+    {
+      "header": "[u2766 | 03:52:06.270-03:52:08.670 | Ryu]",
+      "lineNumber": 2766,
+      "originalText": "yeah this one marissa and I are.",
+      "cleanedText": "yeah this one Nerissa and I are."
+    },
+    {
+      "header": "[u2777 | 03:52:44.820-03:52:53.100 | DM]",
+      "lineNumber": 2777,
+      "originalText": "A dazzling pattern appears in the air flashing above marissa and the turtle.",
+      "cleanedText": "A dazzling pattern appears in the air flashing above Nerissa and the turtle."
+    },
+    {
+      "header": "[u2800 | 03:54:17.250-03:54:19.860 | DM]",
+      "lineNumber": 2800,
+      "originalText": "Rio, you are in the water now.",
+      "cleanedText": "Ryu, you are in the water now."
+    },
+    {
+      "header": "[u2819 | 03:55:53.010-03:55:56.640 | DM]",
+      "lineNumber": 2819,
+      "originalText": "All right, marissa you are outdated until somebody.",
+      "cleanedText": "All right, Nerissa, you are out-dated until somebody."
+    },
+    {
+      "header": "[u2824 | 03:56:09.840-03:56:17.280 | DM]",
+      "lineNumber": 2824,
+      "originalText": "marissa you are incapacitated and so somebody shakes you awake so that ends your turn and they're.",
+      "cleanedText": "Nerissa you are incapacitated and so somebody shakes you awake so that ends your turn and they're."
+    },
+    {
+      "header": "[u2880 | 03:59:58.290-03:59:59.160 | Ander]",
+      "lineNumber": 2880,
+      "originalText": "Wake up marissa.",
+      "cleanedText": "Wake up, Nerissa."
+    },
+    {
+      "header": "[u2881 | 03:59:59.550-04:00:02.010 | Ryu]",
+      "lineNumber": 2881,
+      "originalText": "Alright blue, how does, how does will make a wake up marissa.",
+      "cleanedText": "All right, Blu, how does he wake up Nerissa."
+    },
+    {
+      "header": "[u2921 | 04:02:24.180-04:02:29.340 | DM]",
+      "lineNumber": 2921,
+      "originalText": "And it says i'm in Jakarta I assume marissa is translating.",
+      "cleanedText": "And it says I'm in Draconic; I assume Nerissa is translating."
+    },
+    {
+      "header": "[u2949 | 04:04:18.990-04:04:20.490 | DM]",
+      "lineNumber": 2949,
+      "originalText": "And looks at marissa.",
+      "cleanedText": "And looks at Nerissa."
+    },
+    {
+      "header": "[u3011 | 04:09:40.680-04:09:44.070 | Ryu]",
+      "lineNumber": 3011,
+      "originalText": "review is he still in the water we're just where we are now.",
+      "cleanedText": "Ryu, is he still in the water or where are we now."
+    },
+    {
+      "header": "[u3018 | 04:10:17.940-04:10:21.120 | Nerissa]",
+      "lineNumber": 3018,
+      "originalText": "He said, these are my friends review and enter.",
+      "cleanedText": "He said, these are my friends Ryu and Ander."
+    },
+    {
+      "header": "[u3020 | 04:10:24.600-04:10:28.230 | Nerissa]",
+      "lineNumber": 3020,
+      "originalText": "You and Andrew I tell you in common that his name is john cena.",
+      "cleanedText": "Ryu and Ander, I tell you in Common that his name is Chaessenth."
+    },
+    {
+      "header": "[u3073 | 04:14:17.610-04:14:22.230 | DM]",
+      "lineNumber": 3073,
+      "originalText": "That the songs of the one new era.",
+      "cleanedText": "The songs of the Wanui Teora."
+    },
+    {
+      "header": "[u3161 | 04:22:10.350-04:22:14.910 | DM]",
+      "lineNumber": 3161,
+      "originalText": "i'm just going to leave this here in case anybody wants to look at it, I asked his truck treasure map.",
+      "cleanedText": "I'm just going to leave this here in case anybody wants to look at it. I guess Trok's treasure map."
+    },
+    {
+      "header": "[u3169 | 04:22:39.990-04:22:48.300 | Nerissa]",
+      "lineNumber": 3169,
+      "originalText": "into review her core and we were just told about a island north, it has a little X on it also.",
+      "cleanedText": "into Ryu her core and we were just told about a island north, it has a little X on it also."
+    }
+  ]
+}

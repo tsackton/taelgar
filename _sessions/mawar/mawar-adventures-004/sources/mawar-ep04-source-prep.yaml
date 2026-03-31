@@ -1,0 +1,17 @@
+sourcePath: /Users/tim/Documents/RPGs/sessions/recordings/mawar/Ep4/merged.transcript.vtt
+sourceType: transcript
+outputDir: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar"
+
+campaign: Mawar Adventures
+sessionNumber: 4
+realWorldDate: 2021-12-27
+drStart: 1747-11-08
+drEnd: 1747-11-09
+drStartTime: morning
+drEndTime: afternoon
+
+participantsPath: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-participants.yaml"
+
+transcriptFormat: auto
+narrativeUnit: sentence
+minSpeakerFraction: 0.01

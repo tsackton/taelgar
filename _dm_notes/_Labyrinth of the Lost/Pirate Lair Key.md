@@ -1,4 +1,4 @@
-The Perdoli manor had a bolt hole under the master bedroom, designed as a place to hide if needed. The pirates started to expand this, and broken through into a small cave system, which is now Grimstone's lair. 
+The Perdoli Manor had a bolt hole under the master bedroom, designed as a place to hide if needed. The pirates started to expand this, and broken through into a small cave system, which is now Grimstone's lair. 
 
 If undead are quieted and Arturo neutralized, anywhere in the lair is safe for a short rest, but not a long rest. 
 

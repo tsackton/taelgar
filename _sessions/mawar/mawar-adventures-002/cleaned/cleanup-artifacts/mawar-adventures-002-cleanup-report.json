@@ -1,0 +1,1497 @@
+{
+  "summary": {
+    "changedLineCount": 214,
+    "replacementCount": 173,
+    "repeatedReplacementCount": 22,
+    "topReplacements": [
+      {
+        "from": "truck",
+        "to": "Trok",
+        "count": 64,
+        "headers": [
+          "[u0069 | 00:05:54.810-00:05:57.690 | Trok]",
+          "[u0134 | 00:11:00.750-00:11:03.540 | Trok]",
+          "[u0336 | 00:28:13.410-00:28:21.180 | DM]",
+          "[u0375 | 00:32:20.550-00:32:21.300 | Ryu]",
+          "[u0380 | 00:32:42.480-00:32:52.530 | Kaleho]",
+          "[u0431 | 00:38:00.180-00:38:03.810 | Ryu]",
+          "[u0441 | 00:38:57.960-00:39:00.930 | Wazir]",
+          "[u0455 | 00:40:06.390-00:40:08.970 | Ryu]",
+          "[u0476 | 00:41:39.960-00:41:43.230 | Ryu]",
+          "[u0538 | 00:47:41.040-00:47:42.360 | Trok]",
+          "[u0558 | 00:48:46.500-00:48:48.150 | DM]",
+          "[u0643 | 00:55:42.240-00:55:53.670 | DM]",
+          "[u0723 | 01:04:17.700-01:04:30.930 | DM]",
+          "[u0731 | 01:04:58.110-01:05:03.330 | Trok]",
+          "[u0740 | 01:05:24.150-01:05:26.880 | DM]",
+          "[u0752 | 01:06:05.760-01:06:07.230 | DM]",
+          "[u0765 | 01:07:19.170-01:07:21.780 | Kaleho]",
+          "[u0780 | 01:08:18.210-01:08:22.110 | DM]",
+          "[u0782 | 01:08:25.440-01:08:31.230 | Wazir]",
+          "[u0837 | 01:13:33.810-01:13:40.020 | Ryu]",
+          "[u0841 | 01:14:01.290-01:14:03.210 | Wazir]",
+          "[u0847 | 01:14:38.250-01:14:46.170 | DM]",
+          "[u0848 | 01:14:48.360-01:14:51.270 | DM]",
+          "[u0851 | 01:14:58.350-01:14:59.580 | Unknown]",
+          "[u0855 | 01:15:17.490-01:15:18.030 | Ryu]",
+          "[u0862 | 01:15:37.590-01:15:42.150 | Ryu]",
+          "[u0867 | 01:15:57.090-01:16:02.760 | Ryu]",
+          "[u0876 | 01:16:22.830-01:16:27.090 | Wazir]",
+          "[u0893 | 01:17:27.150-01:17:43.320 | DM]",
+          "[u0920 | 01:19:44.490-01:19:45.240 | Wazir]",
+          "[u0930 | 01:20:38.580-01:20:42.630 | DM]",
+          "[u0949 | 01:21:51.570-01:21:56.580 | DM]",
+          "[u0991 | 01:25:27.330-01:25:30.840 | Ryu]",
+          "[u1002 | 01:26:20.280-01:26:25.500 | DM]",
+          "[u1017 | 01:27:30.690-01:27:37.230 | Ryu]",
+          "[u1198 | 01:40:18.750-01:40:23.280 | DM]",
+          "[u1389 | 01:55:20.580-01:55:28.560 | DM]",
+          "[u1400 | 01:56:15.990-01:56:27.090 | Wazir]",
+          "[u1412 | 01:57:33.630-01:57:35.610 | DM]",
+          "[u1414 | 01:57:40.860-01:57:43.050 | Trok]",
+          "[u1434 | 01:58:43.140-01:58:47.790 | DM]",
+          "[u1443 | 01:59:17.520-01:59:24.240 | Ryu]",
+          "[u1704 | 02:23:18.270-02:23:19.740 | Wazir]",
+          "[u1706 | 02:23:21.240-02:23:22.200 | Kaleho]",
+          "[u1709 | 02:23:34.350-02:23:44.250 | DM]",
+          "[u1816 | 02:33:26.160-02:33:27.810 | DM]",
+          "[u2123 | 02:57:07.770-02:57:10.260 | Ryu]",
+          "[u2252 | 03:07:38.730-03:07:42.600 | Ryu]",
+          "[u2703 | 03:37:35.880-03:37:38.070 | DM]",
+          "[u2804 | 03:44:30.750-03:44:34.590 | DM]",
+          "[u2894 | 03:49:45.540-03:49:46.770 | Trok]",
+          "[u3068 | 03:58:58.140-03:58:58.710 | Ryu]",
+          "[u3069 | 03:58:59.130-03:58:59.940 | DM]",
+          "[u3070 | 03:59:03.210-03:59:09.480 | DM]",
+          "[u3112 | 04:02:11.910-04:02:13.170 | Trok]",
+          "[u3144 | 04:04:14.160-04:04:17.010 | DM]",
+          "[u3150 | 04:04:36.750-04:04:39.630 | DM]",
+          "[u3201 | 04:07:38.820-04:07:41.580 | Wazir]",
+          "[u3205 | 04:07:54.720-04:07:57.660 | Trok]",
+          "[u3306 | 04:13:24.090-04:13:26.790 | Trok]",
+          "[u3417 | 04:19:40.200-04:19:42.750 | DM]",
+          "[u3428 | 04:20:25.740-04:20:29.190 | DM]"
+        ]
+      },
+      {
+        "from": "was here",
+        "to": "Wazir",
+        "count": 31,
+        "headers": [
+          "[u0123 | 00:10:19.260-00:10:21.960 | Trok]",
+          "[u0255 | 00:20:47.670-00:20:59.010 | DM]",
+          "[u0485 | 00:42:44.370-00:42:47.250 | Ryu]",
+          "[u0490 | 00:43:07.650-00:43:09.240 | Ryu]",
+          "[u0550 | 00:48:20.460-00:48:28.860 | DM]",
+          "[u0585 | 00:51:02.100-00:51:05.940 | DM]",
+          "[u0708 | 01:02:37.920-01:02:44.460 | DM]",
+          "[u0723 | 01:04:17.700-01:04:30.930 | DM]",
+          "[u0902 | 01:18:20.580-01:18:24.510 | Trok]",
+          "[u0983 | 01:24:51.540-01:24:56.970 | DM]",
+          "[u1102 | 01:33:16.350-01:33:26.010 | DM]",
+          "[u1338 | 01:50:10.710-01:50:20.100 | DM]",
+          "[u1365 | 01:53:01.560-01:53:03.660 | Kaleho]",
+          "[u1392 | 01:55:35.730-01:55:36.960 | Wazir]",
+          "[u1680 | 02:21:18.540-02:21:29.790 | Wazir]",
+          "[u1709 | 02:23:34.350-02:23:44.250 | DM]",
+          "[u1819 | 02:33:42.660-02:33:57.870 | DM]",
+          "[u1824 | 02:34:30.090-02:34:36.690 | DM]",
+          "[u1830 | 02:34:57.900-02:35:04.050 | DM]",
+          "[u1954 | 02:44:43.440-02:44:44.790 | Ryu]",
+          "[u2044 | 02:50:03.030-02:50:07.590 | DM]",
+          "[u2380 | 03:16:16.770-03:16:18.030 | Ryu]",
+          "[u2430 | 03:19:38.940-03:19:41.430 | Wazir]",
+          "[u2484 | 03:24:09.150-03:24:13.110 | DM]",
+          "[u2634 | 03:33:54.720-03:33:59.820 | DM]",
+          "[u2956 | 03:53:02.790-03:53:08.340 | DM]",
+          "[u2963 | 03:53:41.520-03:53:46.590 | DM]",
+          "[u3093 | 04:01:01.890-04:01:03.270 | DM]",
+          "[u3174 | 04:06:02.220-04:06:04.470 | DM]",
+          "[u3188 | 04:06:35.070-04:06:42.600 | DM]",
+          "[u3340 | 04:15:40.200-04:15:41.700 | DM]"
+        ]
+      },
+      {
+        "from": "kalo",
+        "to": "Kaleho",
+        "count": 8,
+        "headers": [
+          "[u1127 | 01:35:27.900-01:35:33.090 | Wazir]",
+          "[u1192 | 01:39:44.790-01:39:54.720 | Kaleho]",
+          "[u1397 | 01:56:03.450-01:56:09.870 | Wazir]",
+          "[u1604 | 02:11:40.830-02:11:50.760 | DM]",
+          "[u1709 | 02:23:34.350-02:23:44.250 | DM]",
+          "[u1722 | 02:25:33.090-02:25:34.770 | DM]",
+          "[u2354 | 03:14:20.550-03:14:21.300 | Trok]"
+        ]
+      },
+      {
+        "from": ".",
+        "to": "?",
+        "count": 6,
+        "headers": [
+          "[u0044 | 00:03:00.930-00:03:02.220 | Trok]",
+          "[u1402 | 01:56:35.700-01:56:38.820 | Wazir]",
+          "[u1979 | 02:46:04.380-02:46:09.240 | Wazir]",
+          "[u2165 | 03:00:50.070-03:00:58.290 | Ryu]",
+          "[u2213 | 03:04:44.790-03:04:47.580 | Ryu]",
+          "[u2550 | 03:29:02.280-03:29:03.570 | Wazir]"
+        ]
+      },
+      {
+        "from": "Jason",
+        "to": "Jaeson",
+        "count": 4,
+        "headers": [
+          "[u0431 | 00:38:00.180-00:38:03.810 | Ryu]",
+          "[u0990 | 01:25:25.590-01:25:27.270 | Ryu]",
+          "[u0993 | 01:25:31.230-01:25:32.850 | Ryu]",
+          "[u0998 | 01:26:06.270-01:26:12.390 | Ryu]"
+        ]
+      },
+      {
+        "from": "gotcha",
+        "to": "gatza",
+        "count": 4,
+        "headers": [
+          "[u0044 | 00:03:00.930-00:03:02.220 | Trok]",
+          "[u0087 | 00:07:50.940-00:07:53.820 | Trok]",
+          "[u1081 | 01:32:03.120-01:32:04.200 | DM]",
+          "[u2043 | 02:49:59.970-02:50:02.190 | DM]"
+        ]
+      },
+      {
+        "from": ".",
+        "to": ",",
+        "count": 3,
+        "headers": [
+          "[u1238 | 01:43:12.600-01:43:14.100 | DM]",
+          "[u1450 | 01:59:48.480-01:59:50.160 | DM]",
+          "[u1467 | 02:01:15.780-02:01:17.460 | DM]"
+        ]
+      },
+      {
+        "from": "Bennett",
+        "to": "Benat",
+        "count": 3,
+        "headers": [
+          "[u1411 | 01:57:29.400-01:57:31.770 | Wazir]",
+          "[u1571 | 02:08:46.770-02:08:48.150 | Wazir]",
+          "[u1613 | 02:12:48.300-02:12:52.380 | Wazir]"
+        ]
+      },
+      {
+        "from": "Gaza",
+        "to": "gatza",
+        "count": 3,
+        "headers": [
+          "[u0074 | 00:06:35.970-00:06:46.710 | Ryu]",
+          "[u0861 | 01:15:33.930-01:15:35.910 | Kaleho]",
+          "[u1152 | 01:36:54.600-01:37:00.750 | Wazir]"
+        ]
+      },
+      {
+        "from": "Hungary",
+        "to": "Hamri",
+        "count": 3,
+        "headers": [
+          "[u0270 | 00:22:17.550-00:22:19.170 | Wazir]",
+          "[u0271 | 00:22:20.160-00:22:23.730 | Wazir]",
+          "[u1578 | 02:09:14.670-02:09:21.000 | DM]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 3597,
+  "changedLineCount": 214,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0005 | 00:00:20.310-00:00:21.030 | Wazir]",
+      "lineNumber": 5,
+      "originalText": "Medina.",
+      "cleanedText": "Medin."
+    },
+    {
+      "header": "[u0007 | 00:00:25.590-00:00:28.230 | Ryu]",
+      "lineNumber": 7,
+      "originalText": "What does the scroll say, are we able to decipher it was here.",
+      "cleanedText": "What does the scroll say, are we able to decipher it, Wazir?"
+    },
+    {
+      "header": "[u0025 | 00:01:26.370-00:01:27.150 | Ryu]",
+      "lineNumber": 25,
+      "originalText": "yeah was here.",
+      "cleanedText": "Yeah, Wazir."
+    },
+    {
+      "header": "[u0033 | 00:01:56.640-00:01:59.040 | Wazir]",
+      "lineNumber": 33,
+      "originalText": "I think God says involved in some fashion.",
+      "cleanedText": "I think Gazankoa's involved in some fashion."
+    },
+    {
+      "header": "[u0041 | 00:02:47.760-00:02:49.470 | Wazir]",
+      "lineNumber": 41,
+      "originalText": "That sounds like gots it.",
+      "cleanedText": "That sounds like gatza."
+    },
+    {
+      "header": "[u0043 | 00:02:52.740-00:03:00.300 | Wazir]",
+      "lineNumber": 43,
+      "originalText": "Some know he's died with water pouring out of his mouth which doesn't sound like god's though maybe you would know more.",
+      "cleanedText": "And somebody dies with water pouring out of his mouth, which doesn't sound like gatza, though maybe you would know more."
+    },
+    {
+      "header": "[u0044 | 00:03:00.930-00:03:02.220 | Trok]",
+      "lineNumber": 44,
+      "originalText": "TIM, is that a gotcha thing.",
+      "cleanedText": "Tim, is that a gatza thing?"
+    },
+    {
+      "header": "[u0045 | 00:03:03.330-00:03:04.830 | Trok]",
+      "lineNumber": 45,
+      "originalText": "You ever to cough up some sea water.",
+      "cleanedText": "You ever cough up some seawater?"
+    },
+    {
+      "header": "[u0063 | 00:05:10.800-00:05:15.600 | Trok]",
+      "lineNumber": 63,
+      "originalText": "And the land of the dead is not where i'm trying to talk to with God say it's the beyond.",
+      "cleanedText": "And the land of the dead is not where I'm trying to talk to with gatza; it's the beyond."
+    },
+    {
+      "header": "[u0065 | 00:05:18.420-00:05:25.500 | DM]",
+      "lineNumber": 65,
+      "originalText": "yeah it's the Left never entirely clear where God takes you are what you see visions of but it's.",
+      "cleanedText": "Yeah, it's never entirely clear where gatza takes you or what visions you see, but it's."
+    },
+    {
+      "header": "[u0066 | 00:05:26.700-00:05:43.830 | DM]",
+      "lineNumber": 66,
+      "originalText": "An end it's not always the same thing right, oh no it's not like you don't see it's not like you take dots and go to some place that's always the same place right, you have different visions and different experiences depending on all sorts of things like when you take.",
+      "cleanedText": "An end it's not always the same thing right, oh no it's not like you don't see it's not like you take gatza and go to some place that's always the same place right, you have different visions and different experiences depending on all sorts of things like when you take."
+    },
+    {
+      "header": "[u0069 | 00:05:54.810-00:05:57.690 | Trok]",
+      "lineNumber": 69,
+      "originalText": "that's why truck is always ranting about set and setting.",
+      "cleanedText": "that's why Trok is always ranting about set and setting."
+    },
+    {
+      "header": "[u0074 | 00:06:35.970-00:06:46.710 | Ryu]",
+      "lineNumber": 74,
+      "originalText": "Some of your tattoos related to like god's art, it must be all gods are like you know artists that are on Gaza that then like create crazy like you know paintings and shit like that.",
+      "cleanedText": "Some of your tattoos related to, like, gatza art? It must be all gatza, like, you know, artists that are on gatza that then create crazy, like, you know, paintings and shit like that."
+    },
+    {
+      "header": "[u0087 | 00:07:50.940-00:07:53.820 | Trok]",
+      "lineNumber": 87,
+      "originalText": "I got some some bad gotcha.",
+      "cleanedText": "I got some some bad gatza."
+    },
+    {
+      "header": "[u0123 | 00:10:19.260-00:10:21.960 | Trok]",
+      "lineNumber": 123,
+      "originalText": "What was your expeditions purpose was here.",
+      "cleanedText": "What was your expeditions purpose Wazir."
+    },
+    {
+      "header": "[u0134 | 00:11:00.750-00:11:03.540 | Trok]",
+      "lineNumber": 134,
+      "originalText": "And truck kind of grunts tix this entire muzzle into it and.",
+      "cleanedText": "And Trok kind of grunts tix this entire muzzle into it and."
+    },
+    {
+      "header": "[u0243 | 00:19:56.580-00:19:59.940 | Wazir]",
+      "lineNumber": 243,
+      "originalText": "wow when co helo when did you see this, this is a month ago.",
+      "cleanedText": "Wow, Kaleho, when did you see this? This is a month ago."
+    },
+    {
+      "header": "[u0252 | 00:20:27.780-00:20:29.940 | Kaleho]",
+      "lineNumber": 252,
+      "originalText": "As coho have any.",
+      "cleanedText": "Does Kaleho have any."
+    },
+    {
+      "header": "[u0255 | 00:20:47.670-00:20:59.010 | DM]",
+      "lineNumber": 255,
+      "originalText": "So let's see I mean you would have you would have heard stories of this area in the midst speaker, similar to what was here has heard right, you know.",
+      "cleanedText": "So let's see I mean you would have you would have heard stories of this area in the midst speaker, similar to what Wazir has heard right, you know."
+    },
+    {
+      "header": "[u0262 | 00:21:45.780-00:21:46.380 | DM]",
+      "lineNumber": 262,
+      "originalText": "madden.",
+      "cleanedText": "Medin."
+    },
+    {
+      "header": "[u0265 | 00:21:50.220-00:22:00.360 | Wazir]",
+      "lineNumber": 265,
+      "originalText": "It came to him and he came to him Mari having what he says, having made a sacrifice to guys oka cousin.",
+      "cleanedText": "It came to him in Hamri, having, what he says, made a sacrifice to Gazankoa."
+    },
+    {
+      "header": "[u0266 | 00:22:01.140-00:22:05.520 | Wazir]",
+      "lineNumber": 266,
+      "originalText": "cousin cousin color to guarantee his transportation.",
+      "cleanedText": "to guarantee his transportation."
+    },
+    {
+      "header": "[u0270 | 00:22:17.550-00:22:19.170 | Wazir]",
+      "lineNumber": 270,
+      "originalText": "And then he says he's in Hungary.",
+      "cleanedText": "And then he says he's in Hamri."
+    },
+    {
+      "header": "[u0271 | 00:22:20.160-00:22:23.730 | Wazir]",
+      "lineNumber": 271,
+      "originalText": "And the master brought him something in Hungary.",
+      "cleanedText": "And the marid brought him something in Hamri."
+    },
+    {
+      "header": "[u0273 | 00:22:36.120-00:22:40.050 | Wazir]",
+      "lineNumber": 273,
+      "originalText": "right that the summoning within medland.",
+      "cleanedText": "right that the summoning within Medin."
+    },
+    {
+      "header": "[u0275 | 00:22:46.260-00:22:52.200 | Wazir]",
+      "lineNumber": 275,
+      "originalText": "use our this creature summit, and then you saw this chrome writer, I think, come we've medland and.",
+      "cleanedText": "use our this creature summit, and then you saw this chrome writer, I think, come we've Medin and."
+    },
+    {
+      "header": "[u0336 | 00:28:13.410-00:28:21.180 | DM]",
+      "lineNumber": 336,
+      "originalText": "And you, you also actually can you both truck and review make charisma saving throws.",
+      "cleanedText": "And you, you also actually can you both Trok and review make charisma saving throws."
+    },
+    {
+      "header": "[u0375 | 00:32:20.550-00:32:21.300 | Ryu]",
+      "lineNumber": 375,
+      "originalText": "Waiting truck.",
+      "cleanedText": "Waiting Trok."
+    },
+    {
+      "header": "[u0380 | 00:32:42.480-00:32:52.530 | Kaleho]",
+      "lineNumber": 380,
+      "originalText": "there's a glint in his eyes, not unlike what truck gets in his eyes when he thinks about his recreational chemicals and.",
+      "cleanedText": "there's a glint in his eyes, not unlike what Trok gets in his eyes when he thinks about his recreational chemicals and."
+    },
+    {
+      "header": "[u0431 | 00:38:00.180-00:38:03.810 | Ryu]",
+      "lineNumber": 431,
+      "originalText": "You know truck we should talk to Jason as well he's the.",
+      "cleanedText": "You know Trok we should talk to Jaeson as well he's the."
+    },
+    {
+      "header": "[u0441 | 00:38:57.960-00:39:00.930 | Wazir]",
+      "lineNumber": 441,
+      "originalText": "truck that your troubles overtake you but.",
+      "cleanedText": "Trok that your troubles overtake you but."
+    },
+    {
+      "header": "[u0446 | 00:39:22.530-00:39:27.390 | Wazir]",
+      "lineNumber": 446,
+      "originalText": "Somebody came to town looking to find gazza where would they go.",
+      "cleanedText": "Somebody came to town looking to find gatza where would they go."
+    },
+    {
+      "header": "[u0448 | 00:39:39.780-00:39:43.320 | DM]",
+      "lineNumber": 448,
+      "originalText": "Are you a homegrown gazza or do you have a supplier somewhere.",
+      "cleanedText": "Are you a homegrown gatza or do you have a supplier somewhere."
+    },
+    {
+      "header": "[u0455 | 00:40:06.390-00:40:08.970 | Ryu]",
+      "lineNumber": 455,
+      "originalText": "Now I kind of conceive of truck is like you know.",
+      "cleanedText": "Now I kind of conceive of Trok is like you know."
+    },
+    {
+      "header": "[u0456 | 00:40:09.450-00:40:23.520 | Ryu]",
+      "lineNumber": 456,
+      "originalText": "kind of like the ultimate stoner but for Gaza like grows his own we like knows everything about the different strains like has a very specific like you distill it this way to get this type of a flavoring and this type of way to get it to start with this way.",
+      "cleanedText": "kind of like the ultimate stoner, but for gatza, like grows his own, like knows everything about the different strains, like has a very specific, like, you distill it this way to get this type of a flavoring and this type of way to get it to start with this way."
+    },
+    {
+      "header": "[u0476 | 00:41:39.960-00:41:43.230 | Ryu]",
+      "lineNumber": 476,
+      "originalText": "Really crosses like his boots up onto the table in front of truck.",
+      "cleanedText": "Really crosses like his boots up onto the table in front of Trok."
+    },
+    {
+      "header": "[u0485 | 00:42:44.370-00:42:47.250 | Ryu]",
+      "lineNumber": 485,
+      "originalText": "All they're definitely strange metrics that are you and I both know that was here.",
+      "cleanedText": "All they're definitely strange metrics that are you and I both know that Wazir."
+    },
+    {
+      "header": "[u0490 | 00:43:07.650-00:43:09.240 | Ryu]",
+      "lineNumber": 490,
+      "originalText": "Monday was here, what else wasn't that just.",
+      "cleanedText": "Monday Wazir, what else wasn't that just."
+    },
+    {
+      "header": "[u0538 | 00:47:41.040-00:47:42.360 | Trok]",
+      "lineNumber": 538,
+      "originalText": "truck is climbing to the top.",
+      "cleanedText": "Trok is climbing to the top."
+    },
+    {
+      "header": "[u0550 | 00:48:20.460-00:48:28.860 | DM]",
+      "lineNumber": 550,
+      "originalText": "let's see I guess investigate cal out was here and kelo would be investigation.",
+      "cleanedText": "let's see I guess investigate cal out Wazir and Kaleho would be investigation."
+    },
+    {
+      "header": "[u0558 | 00:48:46.500-00:48:48.150 | DM]",
+      "lineNumber": 558,
+      "originalText": "truck making athletics jack.",
+      "cleanedText": "Trok making athletics jack."
+    },
+    {
+      "header": "[u0585 | 00:51:02.100-00:51:05.940 | DM]",
+      "lineNumber": 585,
+      "originalText": "Ah The other thing that you notice was here and.",
+      "cleanedText": "Ah The other thing that you notice Wazir and."
+    },
+    {
+      "header": "[u0643 | 00:55:42.240-00:55:53.670 | DM]",
+      "lineNumber": 643,
+      "originalText": "So so truck at the top, I mean you, you have got a nice view you can see it's a clear day starting to get hot, even in the middle of August or early August um.",
+      "cleanedText": "So so Trok at the top, I mean you, you have got a nice view you can see it's a clear day starting to get hot, even in the middle of August or early August um."
+    },
+    {
+      "header": "[u0708 | 01:02:37.920-01:02:44.460 | DM]",
+      "lineNumber": 708,
+      "originalText": "Are let's they are you are you wearing your cloak of the manta Ray was here.",
+      "cleanedText": "Are let's they are you are you wearing your cloak of the manta Ray Wazir."
+    },
+    {
+      "header": "[u0723 | 01:04:17.700-01:04:30.930 | DM]",
+      "lineNumber": 723,
+      "originalText": "filaments and occasion like snapping and eating something off of them, but it's you know, although truck and was here, you see this in our sort of curious kayla you are struggling to pay attention as the.",
+      "cleanedText": "filaments and occasion like snapping and eating something off of them, but it's you know, although Trok and Wazir, you see this in our sort of curious kayla you are struggling to pay attention as the."
+    },
+    {
+      "header": "[u0731 | 01:04:58.110-01:05:03.330 | Trok]",
+      "lineNumber": 731,
+      "originalText": "i'm going in truck is gonna dive and swim as fast as you can.",
+      "cleanedText": "i'm going in Trok is gonna dive and swim as fast as you can."
+    },
+    {
+      "header": "[u0740 | 01:05:24.150-01:05:26.880 | DM]",
+      "lineNumber": 740,
+      "originalText": "truck you smash your head into a stone wall.",
+      "cleanedText": "Trok you smash your head into a stone wall."
+    },
+    {
+      "header": "[u0752 | 01:06:05.760-01:06:07.230 | DM]",
+      "lineNumber": 752,
+      "originalText": "Actually truck as well.",
+      "cleanedText": "Actually Trok as well."
+    },
+    {
+      "header": "[u0765 | 01:07:19.170-01:07:21.780 | Kaleho]",
+      "lineNumber": 765,
+      "originalText": "No try to grab truck so it doesn't hurt themselves.",
+      "cleanedText": "No try to grab Trok so it doesn't hurt themselves."
+    },
+    {
+      "header": "[u0776 | 01:07:58.050-01:08:02.190 | Ryu]",
+      "lineNumber": 776,
+      "originalText": "Real shot up truck truck it's a rock you're not in water.",
+      "cleanedText": "Real shot up Trok Trok it's a rock you're not in water."
+    },
+    {
+      "header": "[u0780 | 01:08:18.210-01:08:22.110 | DM]",
+      "lineNumber": 780,
+      "originalText": "yeah you see now truck is actually coming kind of close to the stairs.",
+      "cleanedText": "yeah you see now Trok is actually coming kind of close to the stairs."
+    },
+    {
+      "header": "[u0782 | 01:08:25.440-01:08:31.230 | Wazir]",
+      "lineNumber": 782,
+      "originalText": "I am going to go over to truck grab him and say it's not real with.",
+      "cleanedText": "I am going to go over to Trok grab him and say it's not real with."
+    },
+    {
+      "header": "[u0837 | 01:13:33.810-01:13:40.020 | Ryu]",
+      "lineNumber": 837,
+      "originalText": "For you, as a watching all of this unfold watching truck like bashes head ball down into things.",
+      "cleanedText": "For you, as a watching all of this unfold watching Trok like bashes head ball down into things."
+    },
+    {
+      "header": "[u0841 | 01:14:01.290-01:14:03.210 | Wazir]",
+      "lineNumber": 841,
+      "originalText": "i'm just gonna have to go save truck at some point.",
+      "cleanedText": "i'm just gonna have to go save Trok at some point."
+    },
+    {
+      "header": "[u0847 | 01:14:38.250-01:14:46.170 | DM]",
+      "lineNumber": 847,
+      "originalText": "Which truck fell through they like go along the edge of the cliff law and then after the broken part they come onto this platform where the chest.",
+      "cleanedText": "Which Trok fell through they like go along the edge of the cliff law and then after the broken part they come onto this platform where the chest."
+    },
+    {
+      "header": "[u0848 | 01:14:48.360-01:14:51.270 | DM]",
+      "lineNumber": 848,
+      "originalText": "And truck is now in the pool of water, where you fought the element.",
+      "cleanedText": "And Trok is now in the pool of water, where you fought the element."
+    },
+    {
+      "header": "[u0851 | 01:14:58.350-01:14:59.580 | Unknown]",
+      "lineNumber": 851,
+      "originalText": "You might want to rescue truck.",
+      "cleanedText": "You might want to rescue Trok."
+    },
+    {
+      "header": "[u0855 | 01:15:17.490-01:15:18.030 | Ryu]",
+      "lineNumber": 855,
+      "originalText": "A truck.",
+      "cleanedText": "A Trok."
+    },
+    {
+      "header": "[u0861 | 01:15:33.930-01:15:35.910 | Kaleho]",
+      "lineNumber": 861,
+      "originalText": "Talk I have some Gaza with me.",
+      "cleanedText": "Trok, I have some gatza with me."
+    },
+    {
+      "header": "[u0862 | 01:15:37.590-01:15:42.150 | Ryu]",
+      "lineNumber": 862,
+      "originalText": "that's truck I have some tasty tasty guts up here dude.",
+      "cleanedText": "that's Trok I have some tasty tasty guts up here dude."
+    },
+    {
+      "header": "[u0867 | 01:15:57.090-01:16:02.760 | Ryu]",
+      "lineNumber": 867,
+      "originalText": "really important i've got a giant tuna liver up here, full of gossip truck.",
+      "cleanedText": "really important i've got a giant tuna liver up here, full of gossip Trok."
+    },
+    {
+      "header": "[u0876 | 01:16:22.830-01:16:27.090 | Wazir]",
+      "lineNumber": 876,
+      "originalText": "you're in pretty deep water their truck why don't you take my cloak so you can breathe.",
+      "cleanedText": "you're in pretty deep water their Trok why don't you take my cloak so you can breathe."
+    },
+    {
+      "header": "[u0893 | 01:17:27.150-01:17:43.320 | DM]",
+      "lineNumber": 893,
+      "originalText": "TAO So you see now like truck like jumping now, this is because you've been able to swim fine until now, but you try to swim up and it's like there's a force pressing down on you like trying to keep you down.",
+      "cleanedText": "TAO So you see now like Trok like jumping now, this is because you've been able to swim fine until now, but you try to swim up and it's like there's a force pressing down on you like trying to keep you down."
+    },
+    {
+      "header": "[u0902 | 01:18:20.580-01:18:24.510 | Trok]",
+      "lineNumber": 902,
+      "originalText": "I look over it was here and say what was that you were going to give me.",
+      "cleanedText": "I look over it Wazir and say what was that you were going to give me."
+    },
+    {
+      "header": "[u0920 | 01:19:44.490-01:19:45.240 | Wazir]",
+      "lineNumber": 920,
+      "originalText": "Yes, truck.",
+      "cleanedText": "Yes, Trok."
+    },
+    {
+      "header": "[u0930 | 01:20:38.580-01:20:42.630 | DM]",
+      "lineNumber": 930,
+      "originalText": "What is kilo and then truck doing at this point.",
+      "cleanedText": "What is kilo and then Trok doing at this point."
+    },
+    {
+      "header": "[u0949 | 01:21:51.570-01:21:56.580 | DM]",
+      "lineNumber": 949,
+      "originalText": "And now you are stint well truck and was zero standing in the water um.",
+      "cleanedText": "And now you are stint well Trok and was zero standing in the water um."
+    },
+    {
+      "header": "[u0968 | 01:23:26.130-01:23:36.600 | Ryu]",
+      "lineNumber": 968,
+      "originalText": "I was there were saying earlier Jason he frequents these towers he's near here, you would have seen something in the past weeks Orton you're saying as well truck.",
+      "cleanedText": "I mean, like we were saying earlier, Jaeson, he frequents these towers, he's near here, he would have seen something in the past weeks. Orden, you're saying as well, Trok."
+    },
+    {
+      "header": "[u0971 | 01:23:53.280-01:23:55.320 | Wazir]",
+      "lineNumber": 971,
+      "originalText": "Smart and wired.",
+      "cleanedText": "Samar and Reliah."
+    },
+    {
+      "header": "[u0973 | 01:23:58.110-01:24:01.350 | Wazir]",
+      "lineNumber": 973,
+      "originalText": "orphan girls, I know who keep an ear out for.",
+      "cleanedText": "orphan girls I know who keep an ear out for"
+    },
+    {
+      "header": "[u0982 | 01:24:39.990-01:24:49.950 | DM]",
+      "lineNumber": 982,
+      "originalText": "So so let's say i'm so it's like mid morning now so i'm review is going to talk to Jason truck is looking for a word in.",
+      "cleanedText": "So let's say it's mid-morning now, so Ryu is going to talk to Jaeson, Trok is looking for Orden,"
+    },
+    {
+      "header": "[u0983 | 01:24:51.540-01:24:56.970 | DM]",
+      "lineNumber": 983,
+      "originalText": "Canada, who do you want to go and was here is going to go talk to these two orphans, do you want to go and then you'll meet at the market.",
+      "cleanedText": "Kaleho, do you want to go, and Wazir is going to go talk to these two orphans? Do you want to go, and then you'll meet at the market."
+    },
+    {
+      "header": "[u0990 | 01:25:25.590-01:25:27.270 | Ryu]",
+      "lineNumber": 990,
+      "originalText": "To Jason I say.",
+      "cleanedText": "To Jaeson I say."
+    },
+    {
+      "header": "[u0991 | 01:25:27.330-01:25:30.840 | Ryu]",
+      "lineNumber": 991,
+      "originalText": "I would say truck and I probably know both both these characters so like.",
+      "cleanedText": "I would say Trok and I probably know both both these characters so like."
+    },
+    {
+      "header": "[u0993 | 01:25:31.230-01:25:32.850 | Ryu]",
+      "lineNumber": 993,
+      "originalText": "We can go, we can go visit Jason together.",
+      "cleanedText": "We can go, we can go visit Jaeson together."
+    },
+    {
+      "header": "[u0998 | 01:26:06.270-01:26:12.390 | Ryu]",
+      "lineNumber": 998,
+      "originalText": "Real like kinda you know taps at the door with Dora Dora with the staff Jason yeah.",
+      "cleanedText": "Real like kinda you know taps at the door with Dora Dora with the staff Jaeson yeah."
+    },
+    {
+      "header": "[u1002 | 01:26:20.280-01:26:25.500 | DM]",
+      "lineNumber": 1002,
+      "originalText": "yeah right day to day oh hey really truck nice to see you.",
+      "cleanedText": "yeah right day to day oh hey really Trok nice to see you."
+    },
+    {
+      "header": "[u1017 | 01:27:30.690-01:27:37.230 | Ryu]",
+      "lineNumber": 1017,
+      "originalText": "This yeah really takes his like his spirit like kind of taps truck like see the friends, we make easy let's.",
+      "cleanedText": "This yeah really takes his like his spirit like kind of taps Trok like see the friends, we make easy let's."
+    },
+    {
+      "header": "[u1081 | 01:32:03.120-01:32:04.200 | DM]",
+      "lineNumber": 1081,
+      "originalText": "smell some gotcha.",
+      "cleanedText": "smell some gatza."
+    },
+    {
+      "header": "[u1093 | 01:32:46.650-01:32:52.320 | Ryu]",
+      "lineNumber": 1093,
+      "originalText": "That was a little weird That was a little weird well Jason this has been valuable I got.",
+      "cleanedText": "That was a little weird, that was a little weird. Well, Jaeson, this has been valuable. I got"
+    },
+    {
+      "header": "[u1102 | 01:33:16.350-01:33:26.010 | DM]",
+      "lineNumber": 1102,
+      "originalText": "Ah, so was here and kayla you've made it back to town not crossing all the way over to the docks of the main part of town, but i'm.",
+      "cleanedText": "Ah, so Wazir and Kaleho, you've made it back to town, not crossing all the way over to the docks of the main part of town, but"
+    },
+    {
+      "header": "[u1111 | 01:34:38.280-01:34:38.820 | Wazir]",
+      "lineNumber": 1111,
+      "originalText": "Some are.",
+      "cleanedText": "Samar."
+    },
+    {
+      "header": "[u1112 | 01:34:39.480-01:34:40.080 | DM]",
+      "lineNumber": 1112,
+      "originalText": "Some are.",
+      "cleanedText": "Samar."
+    },
+    {
+      "header": "[u1127 | 01:35:27.900-01:35:33.090 | Wazir]",
+      "lineNumber": 1127,
+      "originalText": "So all i'll introduce kalo briefly, this is my friend kalo.",
+      "cleanedText": "So all i'll introduce Kaleho briefly, this is my friend Kaleho."
+    },
+    {
+      "header": "[u1152 | 01:36:54.600-01:37:00.750 | Wazir]",
+      "lineNumber": 1152,
+      "originalText": "that's what I was kind of wondering about if any of any of the Gaza smokers that God missing.",
+      "cleanedText": "That's what I was kind of wondering about, if any of the gatza smokers had gone missing."
+    },
+    {
+      "header": "[u1160 | 01:37:28.200-01:37:36.240 | Wazir]",
+      "lineNumber": 1160,
+      "originalText": "Maybe not wanting to say much maybe what can to buy gazza maybe look into talk to those who smoke it.",
+      "cleanedText": "Maybe not wanting to say much maybe what can to buy gatza maybe look into talk to those who smoke it."
+    },
+    {
+      "header": "[u1192 | 01:39:44.790-01:39:54.720 | Kaleho]",
+      "lineNumber": 1192,
+      "originalText": "And does kalo like notice, given that this is his element of his senses you notice anybody following him or following us or anything.",
+      "cleanedText": "And does Kaleho like notice, given that this is his element of his senses you notice anybody following him or following us or anything."
+    },
+    {
+      "header": "[u1198 | 01:40:18.750-01:40:23.280 | DM]",
+      "lineNumber": 1198,
+      "originalText": "Okay, so truck and review, are you Where are you heading from jason's.",
+      "cleanedText": "Okay, so Trok and review, are you Where are you heading from jason's."
+    },
+    {
+      "header": "[u1200 | 01:40:26.850-01:40:27.510 | Trok]",
+      "lineNumber": 1200,
+      "originalText": "Sign ordinance.",
+      "cleanedText": "See Orden."
+    },
+    {
+      "header": "[u1205 | 01:40:36.060-01:40:37.140 | DM]",
+      "lineNumber": 1205,
+      "originalText": "origin is sitting.",
+      "cleanedText": "Orden is sitting."
+    },
+    {
+      "header": "[u1226 | 01:42:17.160-01:42:17.940 | Trok]",
+      "lineNumber": 1226,
+      "originalText": "That all tower.",
+      "cleanedText": "That old tower."
+    },
+    {
+      "header": "[u1238 | 01:43:12.600-01:43:14.100 | DM]",
+      "lineNumber": 1238,
+      "originalText": "me and Rio was like.",
+      "cleanedText": "me and Ryu were like,"
+    },
+    {
+      "header": "[u1270 | 01:45:18.420-01:45:21.900 | Ryu]",
+      "lineNumber": 1270,
+      "originalText": "Anything else order hey i'll see you remember, any other things you seen recently.",
+      "cleanedText": "Anything else, Orden? Hey, if you remember any other things you've seen recently."
+    },
+    {
+      "header": "[u1294 | 01:46:39.870-01:46:40.650 | Ryu]",
+      "lineNumber": 1294,
+      "originalText": "Well we've got Gordon.",
+      "cleanedText": "Well, we've got Orden."
+    },
+    {
+      "header": "[u1298 | 01:46:53.520-01:46:59.550 | Ryu]",
+      "lineNumber": 1298,
+      "originalText": "I remember where did I mean Orton I didn't realize that he was so had such a great personality, but I liked him a lot.",
+      "cleanedText": "I remember where did I mean Orden I didn't realize that he was so had such a great personality, but I liked him a lot."
+    },
+    {
+      "header": "[u1301 | 01:47:09.390-01:47:14.370 | Ryu]",
+      "lineNumber": 1301,
+      "originalText": "let's go let's go to the marketplace, I think we got some good information now for for was here.",
+      "cleanedText": "Let's go to the marketplace. I think we got some good information now for Wazir."
+    },
+    {
+      "header": "[u1312 | 01:47:39.000-01:47:50.760 | Wazir]",
+      "lineNumber": 1312,
+      "originalText": "Yes, yes um The other thing I would like to do, maybe after we go to the market, but was here is actually probably the best Smith in the entire town and would probably know every single blacksmith and tap.",
+      "cleanedText": "Yes, yes. The other thing I would like to do, maybe after we go to the market, is that Wazir is actually probably the best smith in the entire town and would probably know every single blacksmith in town."
+    },
+    {
+      "header": "[u1315 | 01:47:55.440-01:48:03.510 | Wazir]",
+      "lineNumber": 1315,
+      "originalText": "When he was here has a bit of a problem with making things kind of just for fun, he has a whole back room where he liked builds random.",
+      "cleanedText": "I mean, Wazir has a bit of a problem with making things kind of just for fun. He has a whole back room where he builds random"
+    },
+    {
+      "header": "[u1338 | 01:50:10.710-01:50:20.100 | DM]",
+      "lineNumber": 1338,
+      "originalText": "I mean i've so one thing that you do know was here is that it wasn't like you know six bodies didn't wash up on the shore.",
+      "cleanedText": "I mean i've so one thing that you do know Wazir is that it wasn't like you know six bodies didn't wash up on the shore."
+    },
+    {
+      "header": "[u1365 | 01:53:01.560-01:53:03.660 | Kaleho]",
+      "lineNumber": 1365,
+      "originalText": "Sorry i'm motion towards was here to.",
+      "cleanedText": "Sorry i'm motion towards Wazir to."
+    },
+    {
+      "header": "[u1389 | 01:55:20.580-01:55:28.560 | DM]",
+      "lineNumber": 1389,
+      "originalText": "truck you would probably be aware of him, but possibly not particularly excited to talk to them, given your history.",
+      "cleanedText": "Trok you would probably be aware of him, but possibly not particularly excited to talk to them, given your history."
+    },
+    {
+      "header": "[u1392 | 01:55:35.730-01:55:36.960 | Wazir]",
+      "lineNumber": 1392,
+      "originalText": "was here will sort of.",
+      "cleanedText": "Wazir will sort of."
+    },
+    {
+      "header": "[u1397 | 01:56:03.450-01:56:09.870 | Wazir]",
+      "lineNumber": 1397,
+      "originalText": "i'll come back to the table and and sort of pass out sit down he'll he'll introduce some kalo and and.",
+      "cleanedText": "i'll come back to the table and and sort of pass out sit down he'll he'll introduce some Kaleho and and."
+    },
+    {
+      "header": "[u1400 | 01:56:15.990-01:56:27.090 | Wazir]",
+      "lineNumber": 1400,
+      "originalText": "You and truck as well just for those who might not will pass out the drinks will say you know my friend tears in town that was telling about the ocean watchers the towers.",
+      "cleanedText": "You and Trok as well just for those who might not will pass out the drinks will say you know my friend tears in town that was telling about the ocean watchers the towers."
+    },
+    {
+      "header": "[u1402 | 01:56:35.700-01:56:38.820 | Wazir]",
+      "lineNumber": 1402,
+      "originalText": "about these towers does anybody know what the oldest one is.",
+      "cleanedText": "about these towers. Does anybody know what the oldest one is?"
+    },
+    {
+      "header": "[u1404 | 01:57:00.150-01:57:02.730 | DM]",
+      "lineNumber": 1404,
+      "originalText": "If you really want to know she says um.",
+      "cleanedText": "If you really want to know, she says,"
+    },
+    {
+      "header": "[u1406 | 01:57:06.180-01:57:11.670 | DM]",
+      "lineNumber": 1406,
+      "originalText": "Dan at was the lizard folk you know or or go talk to talk to.",
+      "cleanedText": "Benat was the lizard folk you know or or go talk to talk to."
+    },
+    {
+      "header": "[u1407 | 01:57:14.940-01:57:18.120 | DM]",
+      "lineNumber": 1407,
+      "originalText": "i'm sorry hold on go talk to guys.",
+      "cleanedText": "I'm sorry, hold on. Go talk to Yaz,"
+    },
+    {
+      "header": "[u1409 | 01:57:21.000-01:57:24.180 | DM]",
+      "lineNumber": 1409,
+      "originalText": "All this living ocean watcher lives up in the towers.",
+      "cleanedText": "oldest living ocean watcher, lives up in the towers."
+    },
+    {
+      "header": "[u1411 | 01:57:29.400-01:57:31.770 | Wazir]",
+      "lineNumber": 1411,
+      "originalText": "Bennett you want to tell us a story, though.",
+      "cleanedText": "Benat you want to tell us a story, though."
+    },
+    {
+      "header": "[u1412 | 01:57:33.630-01:57:35.610 | DM]",
+      "lineNumber": 1412,
+      "originalText": "He looks skeptically it truck.",
+      "cleanedText": "He looks skeptically it Trok."
+    },
+    {
+      "header": "[u1414 | 01:57:40.860-01:57:43.050 | Trok]",
+      "lineNumber": 1414,
+      "originalText": "truck does a extremely toothy grin.",
+      "cleanedText": "Trok does a extremely toothy grin."
+    },
+    {
+      "header": "[u1429 | 01:58:21.900-01:58:24.000 | DM]",
+      "lineNumber": 1429,
+      "originalText": "area in the misspeak or how to tower here.",
+      "cleanedText": "Airion the Mistspeaker had a tower here."
+    },
+    {
+      "header": "[u1434 | 01:58:43.140-01:58:47.790 | DM]",
+      "lineNumber": 1434,
+      "originalText": "looking again at chuck maybe maybe if truck will come visit home.",
+      "cleanedText": "looking again at chuck maybe maybe if Trok will come visit home."
+    },
+    {
+      "header": "[u1443 | 01:59:17.520-01:59:24.240 | Ryu]",
+      "lineNumber": 1443,
+      "originalText": "You kind of leans over truck shoulder and like pat them on the chest truck wants to visit know that the truck.",
+      "cleanedText": "You kind of leans over Trok shoulder and like pat them on the chest Trok wants to visit know that the Trok."
+    },
+    {
+      "header": "[u1450 | 01:59:48.480-01:59:50.160 | DM]",
+      "lineNumber": 1450,
+      "originalText": "area and they say.",
+      "cleanedText": "Airion, they say,"
+    },
+    {
+      "header": "[u1461 | 02:00:39.660-02:00:44.580 | DM]",
+      "lineNumber": 1461,
+      "originalText": "An area in haunted places where portals could be opened or closed.",
+      "cleanedText": "And Airion hunted places where portals could be opened or closed."
+    },
+    {
+      "header": "[u1462 | 02:00:47.520-02:00:51.570 | DM]",
+      "lineNumber": 1462,
+      "originalText": "And rumor is there are two in harmony.",
+      "cleanedText": "And rumor is there are two in Hamri."
+    },
+    {
+      "header": "[u1467 | 02:01:15.780-02:01:17.460 | DM]",
+      "lineNumber": 1467,
+      "originalText": "And when area and built his tower.",
+      "cleanedText": "And when Airion built his tower,"
+    },
+    {
+      "header": "[u1511 | 02:04:31.740-02:04:35.250 | Wazir]",
+      "lineNumber": 1511,
+      "originalText": "There does seem to be some magic inhabiting errands or tower.",
+      "cleanedText": "There does seem to be some magic inhabiting Airion's tower."
+    },
+    {
+      "header": "[u1535 | 02:06:23.910-02:06:26.220 | DM]",
+      "lineNumber": 1535,
+      "originalText": "Aaron could draw water from.",
+      "cleanedText": "Airion could draw water from"
+    },
+    {
+      "header": "[u1544 | 02:06:52.290-02:06:55.620 | DM]",
+      "lineNumber": 1544,
+      "originalText": "But an area is day it was sad the wow was open and you could.",
+      "cleanedText": "But in Airion's day it was said the well was open and you could"
+    },
+    {
+      "header": "[u1553 | 02:07:23.790-02:07:26.730 | DM]",
+      "lineNumber": 1553,
+      "originalText": "A story our ancestors towel, I believe it to be true.",
+      "cleanedText": "A story our ancestors told. I believe it to be true."
+    },
+    {
+      "header": "[u1571 | 02:08:46.770-02:08:48.150 | Wazir]",
+      "lineNumber": 1571,
+      "originalText": "Bennett, thank you for the tale.",
+      "cleanedText": "Benat, thank you for the tale."
+    },
+    {
+      "header": "[u1577 | 02:09:09.090-02:09:10.830 | DM]",
+      "lineNumber": 1577,
+      "originalText": "I mean Aaron.",
+      "cleanedText": "I mean, Airion."
+    },
+    {
+      "header": "[u1578 | 02:09:14.670-02:09:21.000 | DM]",
+      "lineNumber": 1578,
+      "originalText": "have to find a story and I don't know if there are any really in Hungary.",
+      "cleanedText": "You'd have to find a story, and I don't know if there are any really in Hamri."
+    },
+    {
+      "header": "[u1581 | 02:09:26.400-02:09:27.030 | DM]",
+      "lineNumber": 1581,
+      "originalText": "madden.",
+      "cleanedText": "Medin."
+    },
+    {
+      "header": "[u1587 | 02:09:50.340-02:10:01.200 | DM]",
+      "lineNumber": 1587,
+      "originalText": "Sure, in the archives of chart and there is much to learn about area and but that's miles and miles and weeks and weeks of selling never bothered to take the journey myself.",
+      "cleanedText": "Sure, in the archives of Chardon there is much to learn about Airion, but that's miles and miles and weeks and weeks of sailing. Never bothered to take the journey myself."
+    },
+    {
+      "header": "[u1598 | 02:10:50.850-02:11:01.020 | DM]",
+      "lineNumber": 1598,
+      "originalText": "So you don't know a fence exactly but actually both of you both kayla and was here would know that there's a there's a.",
+      "cleanedText": "So you don't know a fence exactly, but actually both of you, both Kaleho and Wazir, would know that there's a"
+    },
+    {
+      "header": "[u1599 | 02:11:02.100-02:11:06.180 | DM]",
+      "lineNumber": 1599,
+      "originalText": "poor man, woman Smith named a veena.",
+      "cleanedText": "poor Mawaran smith named Ovina."
+    },
+    {
+      "header": "[u1604 | 02:11:40.830-02:11:50.760 | DM]",
+      "lineNumber": 1604,
+      "originalText": "Never you've never really connected, which is sort of unusual and you know and kalo like you know, this is the person who you know.",
+      "cleanedText": "Never you've never really connected, which is sort of unusual and you know and Kaleho like you know, this is the person who you know."
+    },
+    {
+      "header": "[u1605 | 02:11:52.110-02:12:09.330 | DM]",
+      "lineNumber": 1605,
+      "originalText": "not exactly a fence, but like if you have some questionable gold, or you know you've come across some you know, a silver ring, that you will them down and turn into trade bars that you know, nobody will you know.",
+      "cleanedText": "not exactly a fence, but like if you have some questionable gold, or, you know, you've come across some silver ring that you want melted down and turned into trade bars that nobody will"
+    },
+    {
+      "header": "[u1613 | 02:12:48.300-02:12:52.380 | Wazir]",
+      "lineNumber": 1613,
+      "originalText": "It was also yeah as who was just mentioned Bennett.",
+      "cleanedText": "It was also yeah as who was just mentioned Benat."
+    },
+    {
+      "header": "[u1631 | 02:13:57.090-02:14:09.450 | DM]",
+      "lineNumber": 1631,
+      "originalText": "yeah it's like the CD it's like the so like the in on the map here right, like most of those ships to tie up on like this part of the harbor is like the Nice part of the harbor.",
+      "cleanedText": "Yeah, it's like the seedy, like on the map here, right, most of those ships tie up on this part of the harbor, which is the nice part of the harbor."
+    },
+    {
+      "header": "[u1632 | 02:14:09.810-02:14:17.580 | DM]",
+      "lineNumber": 1632,
+      "originalText": "This is, these are called the shark's teeth these islands that are out here, and the sharks Doc is like the oldest and most rundown.",
+      "cleanedText": "These are called the Shark's Teeth, these islands that are out here, and the Shark's Dock is like the oldest and most rundown"
+    },
+    {
+      "header": "[u1654 | 02:19:31.980-02:19:45.360 | DM]",
+      "lineNumber": 1654,
+      "originalText": "yeah that was um so like the so areas, the story that Ben at told was that, like hundreds of years ago aaron's tower was partly made of stone, but then the upper floors are all made of solid is.",
+      "cleanedText": "yeah that was um so like the so areas, the story that Benat told was that, like hundreds of years ago aaron's tower was partly made of stone, but then the upper floors are all made of solid is."
+    },
+    {
+      "header": "[u1680 | 02:21:18.540-02:21:29.790 | Wazir]",
+      "lineNumber": 1680,
+      "originalText": "But like you have like that picture I posted it was here it's just like I made an operator it's like you tweak the like white or black or Asian or indiana you tweak the happy, are they.",
+      "cleanedText": "But like you have like that picture I posted it Wazir it's just like I made an operator it's like you tweak the like white or black or Asian or indiana you tweak the happy, are they."
+    },
+    {
+      "header": "[u1694 | 02:22:23.160-02:22:26.400 | Wazir]",
+      "lineNumber": 1694,
+      "originalText": "I wonder if Klaus should go and talk to.",
+      "cleanedText": "I wonder if Kaleho should go and talk to"
+    },
+    {
+      "header": "[u1695 | 02:22:29.130-02:22:30.420 | Wazir]",
+      "lineNumber": 1695,
+      "originalText": "The Smith, I forget her name.",
+      "cleanedText": "the smith, I forget her name."
+    },
+    {
+      "header": "[u1696 | 02:22:33.210-02:22:34.020 | DM]",
+      "lineNumber": 1696,
+      "originalText": "Of INA.",
+      "cleanedText": "Ovina."
+    },
+    {
+      "header": "[u1698 | 02:22:39.450-02:22:53.100 | Wazir]",
+      "lineNumber": 1698,
+      "originalText": "I mean we could all split up again somebody could go talk to ya as somebody it was Erica go talk to Sophie and co could go talk to veena we could meet up and poke around the sharks Doc in an hour.",
+      "cleanedText": "I mean, we could all split up again. Somebody could go talk to Yaz, somebody, Wazir or Ryu, could go talk to Sofi, and Kaleho could go talk to Ovina. We could meet up and poke around the Shark's Dock in an hour."
+    },
+    {
+      "header": "[u1704 | 02:23:18.270-02:23:19.740 | Wazir]",
+      "lineNumber": 1704,
+      "originalText": "Riyadh it off, I tried to bring truck.",
+      "cleanedText": "Riyadh it off, I tried to bring Trok."
+    },
+    {
+      "header": "[u1706 | 02:23:21.240-02:23:22.200 | Kaleho]",
+      "lineNumber": 1706,
+      "originalText": "i'll take truck.",
+      "cleanedText": "i'll take Trok."
+    },
+    {
+      "header": "[u1709 | 02:23:34.350-02:23:44.250 | DM]",
+      "lineNumber": 1709,
+      "originalText": "So kalo and truck are heading to the blacksmith was here and re you are going to try to get an audience with um.",
+      "cleanedText": "So Kaleho and Trok are heading to the blacksmith Wazir and re you are going to try to get an audience with um."
+    },
+    {
+      "header": "[u1722 | 02:25:33.090-02:25:34.770 | DM]",
+      "lineNumber": 1722,
+      "originalText": "Oh, Sir kalo.",
+      "cleanedText": "Oh, Sir Kaleho."
+    },
+    {
+      "header": "[u1816 | 02:33:26.160-02:33:27.810 | DM]",
+      "lineNumber": 1816,
+      "originalText": "truck nice to finally meet you.",
+      "cleanedText": "Trok nice to finally meet you."
+    },
+    {
+      "header": "[u1819 | 02:33:42.660-02:33:57.870 | DM]",
+      "lineNumber": 1819,
+      "originalText": "was here and review, you had up cliffside like up these like steep switch back trails i'm to glitter cliff this like like nearly to the top nearly up to the towers i'm the.",
+      "cleanedText": "Wazir and Ryu, you head up the cliffside, up these steep switchback trails to Glitter Cliff, nearly up to the towers."
+    },
+    {
+      "header": "[u1824 | 02:34:30.090-02:34:36.690 | DM]",
+      "lineNumber": 1824,
+      "originalText": "So I mean was here you mean you are known to her well enough that, like the you know the.",
+      "cleanedText": "So I mean Wazir you mean you are known to her well enough that, like the you know the."
+    },
+    {
+      "header": "[u1830 | 02:34:57.900-02:35:04.050 | DM]",
+      "lineNumber": 1830,
+      "originalText": "know the nature of your business was here self is, as always, quite busy.",
+      "cleanedText": "know the nature of your business Wazir self is, as always, quite busy."
+    },
+    {
+      "header": "[u1896 | 02:40:44.730-02:40:46.440 | Wazir]",
+      "lineNumber": 1896,
+      "originalText": "That what what's his name ogden.",
+      "cleanedText": "That what what's his name Orden."
+    },
+    {
+      "header": "[u1908 | 02:41:29.250-02:41:31.110 | Ryu]",
+      "lineNumber": 1908,
+      "originalText": "Why can't we just have a conversation was here.",
+      "cleanedText": "Why can't we just have a conversation, Wazir?"
+    },
+    {
+      "header": "[u1954 | 02:44:43.440-02:44:44.790 | Ryu]",
+      "lineNumber": 1954,
+      "originalText": "Why do you think that was here.",
+      "cleanedText": "Why do you think that Wazir."
+    },
+    {
+      "header": "[u1968 | 02:45:25.140-02:45:31.320 | Kaleho]",
+      "lineNumber": 1968,
+      "originalText": "Air man i'm messa is angry.",
+      "cleanedText": "The marid, Nimessa, is angry."
+    },
+    {
+      "header": "[u1971 | 02:45:36.900-02:45:39.210 | Wazir]",
+      "lineNumber": 1971,
+      "originalText": "done with the water creature you saw kalo.",
+      "cleanedText": "done with the water creature you saw, Kaleho."
+    },
+    {
+      "header": "[u1972 | 02:45:40.740-02:45:44.190 | Wazir]",
+      "lineNumber": 1972,
+      "originalText": "I think he summons and a message that go steal the sentence ocean.",
+      "cleanedText": "I think he summons Nimessa to go steal the Sentient Ocean."
+    },
+    {
+      "header": "[u1976 | 02:45:59.310-02:46:00.390 | Trok]",
+      "lineNumber": 1976,
+      "originalText": "A Venus off.",
+      "cleanedText": "Ovina off."
+    },
+    {
+      "header": "[u1977 | 02:46:00.450-02:46:01.530 | Unknown]",
+      "lineNumber": 1977,
+      "originalText": "And he gave to a veena.",
+      "cleanedText": "And he gave to Ovina."
+    },
+    {
+      "header": "[u1979 | 02:46:04.380-02:46:09.240 | Wazir]",
+      "lineNumber": 1979,
+      "originalText": "Is the is the ring of control airlines ring.",
+      "cleanedText": "Is the ring Airion's ring?"
+    },
+    {
+      "header": "[u1993 | 02:47:13.290-02:47:18.450 | Wazir]",
+      "lineNumber": 1993,
+      "originalText": "I think so, first of all, I think the knife, the thing that's haunting his dreams is guys okay.",
+      "cleanedText": "I think so. First of all, I think the knife, the thing that's haunting his dreams, is Gazankoa."
+    },
+    {
+      "header": "[u1999 | 02:47:36.030-02:47:40.800 | Wazir]",
+      "lineNumber": 1999,
+      "originalText": "But guys oka I think is the is the true the true danger here.",
+      "cleanedText": "But Gazankoa, I think, is the true danger here."
+    },
+    {
+      "header": "[u2002 | 02:47:44.370-02:47:45.240 | Wazir]",
+      "lineNumber": 2002,
+      "originalText": "guys on camera.",
+      "cleanedText": "Gazankoa."
+    },
+    {
+      "header": "[u2004 | 02:47:50.100-02:47:56.880 | Wazir]",
+      "lineNumber": 2004,
+      "originalText": "got some color fills his dreams with turbulent never ending seek guys and cola has an ulterior motive.",
+      "cleanedText": "Gazankoa fills his dreams with a turbulent, never-ending sea. Gazankoa has an ulterior motive."
+    },
+    {
+      "header": "[u2036 | 02:49:46.740-02:49:50.430 | Ryu]",
+      "lineNumber": 2036,
+      "originalText": "yeah let's go let's go hang up by the let's go try to find yes.",
+      "cleanedText": "Yeah, let's go try to find Yaz."
+    },
+    {
+      "header": "[u2042 | 02:49:58.560-02:49:59.790 | DM]",
+      "lineNumber": 2042,
+      "originalText": "Like all this.",
+      "cleanedText": "Like, all this."
+    },
+    {
+      "header": "[u2043 | 02:49:59.970-02:50:02.190 | DM]",
+      "lineNumber": 2043,
+      "originalText": "Oh gotcha towers.",
+      "cleanedText": "Oh gatza towers."
+    },
+    {
+      "header": "[u2044 | 02:50:03.030-02:50:07.590 | DM]",
+      "lineNumber": 2044,
+      "originalText": "let's go find yes okay so was here and kind of knock on.",
+      "cleanedText": "let's go find yes okay so Wazir and kind of knock on."
+    },
+    {
+      "header": "[u2046 | 02:50:11.070-02:50:21.660 | DM]",
+      "lineNumber": 2046,
+      "originalText": "A Venus door again, and she opens it up and initially says sees Claire is like up what are you doing back and then sees zero like what are you doing here.",
+      "cleanedText": "Ovina's door again, and she opens it up and initially sees Kaleho and is like, what are you doing back, and then sees Wazir, like, what are you doing here."
+    },
+    {
+      "header": "[u2047 | 02:50:23.970-02:50:24.480 | Wazir]",
+      "lineNumber": 2047,
+      "originalText": "dina.",
+      "cleanedText": "Ovina."
+    },
+    {
+      "header": "[u2048 | 02:50:27.420-02:50:29.070 | DM]",
+      "lineNumber": 2048,
+      "originalText": "veena veena.",
+      "cleanedText": "Ovina, Ovina."
+    },
+    {
+      "header": "[u2050 | 02:50:33.750-02:50:34.290 | Wazir]",
+      "lineNumber": 2050,
+      "originalText": "A veena.",
+      "cleanedText": "Ovina."
+    },
+    {
+      "header": "[u2051 | 02:50:38.190-02:50:38.880 | Wazir]",
+      "lineNumber": 2051,
+      "originalText": "kill here.",
+      "cleanedText": "Kaleho."
+    },
+    {
+      "header": "[u2123 | 02:57:07.770-02:57:10.260 | Ryu]",
+      "lineNumber": 2123,
+      "originalText": "hell, yes it's real and truck.",
+      "cleanedText": "Hail, Yaz. It's Ryu and Trok."
+    },
+    {
+      "header": "[u2144 | 02:58:57.900-02:59:02.310 | Ryu]",
+      "lineNumber": 2144,
+      "originalText": "I can see why you picked this as your tower, this has got to be one of the best views and all omri.",
+      "cleanedText": "I can see why you picked this as your tower, this has got to be one of the best views in all Hamri."
+    },
+    {
+      "header": "[u2159 | 03:00:12.570-03:00:23.970 | Ryu]",
+      "lineNumber": 2159,
+      "originalText": "There are some strange things happening, I mean they're always strange things happening, it seems, but um you may have seen last week truck myself was here, we were involved in a.",
+      "cleanedText": "There are some strange things happening. I mean, there are always strange things happening, it seems, but you may have seen that last week Trok, myself, and Wazir were involved in a"
+    },
+    {
+      "header": "[u2165 | 03:00:50.070-03:00:58.290 | Ryu]",
+      "lineNumber": 2165,
+      "originalText": "varian air in areas old tower, did you know about this area is old tower on the North side of the point.",
+      "cleanedText": "Airion's old tower. Did you know about this old tower on the north side of the point?"
+    },
+    {
+      "header": "[u2199 | 03:03:25.590-03:03:34.620 | Ryu]",
+      "lineNumber": 2199,
+      "originalText": "Part of what's really strange as whoever's been living in areas old tower we think he's been around.",
+      "cleanedText": "Part of what's really strange is whoever's been living in Airion's old tower, we think he's been around"
+    },
+    {
+      "header": "[u2204 | 03:03:54.450-03:03:58.410 | Ryu]",
+      "lineNumber": 2204,
+      "originalText": "Some people down by the drown flats.",
+      "cleanedText": "some people down by the Drowned Flats."
+    },
+    {
+      "header": "[u2213 | 03:04:44.790-03:04:47.580 | Ryu]",
+      "lineNumber": 2213,
+      "originalText": "Is there anything else you know about the Tower aaron's tower.",
+      "cleanedText": "Is there anything else you know about the tower, Airion's tower?"
+    },
+    {
+      "header": "[u2252 | 03:07:38.730-03:07:42.600 | Ryu]",
+      "lineNumber": 2252,
+      "originalText": "Yes, you should come down with me and truck some time will take you out Far West.",
+      "cleanedText": "Yes, you should come down with me and Trok some time will take you out Far West."
+    },
+    {
+      "header": "[u2354 | 03:14:20.550-03:14:21.300 | Trok]",
+      "lineNumber": 2354,
+      "originalText": "Maybe kalo.",
+      "cleanedText": "Maybe Kaleho."
+    },
+    {
+      "header": "[u2380 | 03:16:16.770-03:16:18.030 | Ryu]",
+      "lineNumber": 2380,
+      "originalText": "was here, who is this guy.",
+      "cleanedText": "Wazir, who is this guy."
+    },
+    {
+      "header": "[u2430 | 03:19:38.940-03:19:41.430 | Wazir]",
+      "lineNumber": 2430,
+      "originalText": "was here can be the one that having the conversation.",
+      "cleanedText": "Wazir can be the one that having the conversation."
+    },
+    {
+      "header": "[u2484 | 03:24:09.150-03:24:13.110 | DM]",
+      "lineNumber": 2484,
+      "originalText": "Okay, so about so was here, are you hiding.",
+      "cleanedText": "Okay, so about so Wazir, are you hiding."
+    },
+    {
+      "header": "[u2494 | 03:24:59.700-03:25:14.670 | DM]",
+      "lineNumber": 2494,
+      "originalText": "A Venus shop, who has opened early in anticipation of this event i'm aware that you are all hanging around and he just kind of head straight for the shop crossing this Plaza where you're sort of later going to go into the into the shop.",
+      "cleanedText": "Ovina shop, who has opened early in anticipation of this event i'm aware that you are all hanging around and he just kind of head straight for the shop crossing this Plaza where you're sort of later going to go into the into the shop."
+    },
+    {
+      "header": "[u2505 | 03:25:53.610-03:26:00.210 | DM]",
+      "lineNumber": 2505,
+      "originalText": "carrying this chest this box under one arm, it seems to be heading back for the dogs not.",
+      "cleanedText": "carrying this chest, this box under one arm. It seems to be heading back for the docks now."
+    },
+    {
+      "header": "[u2517 | 03:26:35.820-03:26:39.630 | Ryu]",
+      "lineNumber": 2517,
+      "originalText": "yeah I think you also have a bottle of the 70 and ocean, you know what i'm talking about.",
+      "cleanedText": "Yeah, I think you also have a bottle of the Sentient Ocean. You know what I'm talking about."
+    },
+    {
+      "header": "[u2550 | 03:29:02.280-03:29:03.570 | Wazir]",
+      "lineNumber": 2550,
+      "originalText": "isn't the Dean safe.",
+      "cleanedText": "Isn't Nadine safe?"
+    },
+    {
+      "header": "[u2592 | 03:31:39.690-03:31:41.070 | Wazir]",
+      "lineNumber": 2592,
+      "originalText": "nadeem his wife's name.",
+      "cleanedText": "Nadine, his wife's name."
+    },
+    {
+      "header": "[u2594 | 03:31:42.030-03:31:42.870 | Ryu]",
+      "lineNumber": 2594,
+      "originalText": "Dean, there you go.",
+      "cleanedText": "Nadine, there you go."
+    },
+    {
+      "header": "[u2602 | 03:31:58.020-03:32:01.350 | DM]",
+      "lineNumber": 2602,
+      "originalText": "He turns around and he says, I am a bizarre.",
+      "cleanedText": "He turns around and he says, I am Azar."
+    },
+    {
+      "header": "[u2603 | 03:32:03.420-03:32:03.900 | Ryu]",
+      "lineNumber": 2603,
+      "originalText": "bizarre.",
+      "cleanedText": "Azar."
+    },
+    {
+      "header": "[u2607 | 03:32:13.890-03:32:14.760 | Ryu]",
+      "lineNumber": 2607,
+      "originalText": "And Gaza and Cola.",
+      "cleanedText": "And Gazankoa."
+    },
+    {
+      "header": "[u2613 | 03:32:29.940-03:32:31.320 | DM]",
+      "lineNumber": 2613,
+      "originalText": "There are many lost dad.",
+      "cleanedText": "There are many lost dead."
+    },
+    {
+      "header": "[u2634 | 03:33:54.720-03:33:59.820 | DM]",
+      "lineNumber": 2634,
+      "originalText": "Maybe sounds about it has like hot site so so wait was here you're.",
+      "cleanedText": "Maybe sounds about it has like hot site so so wait Wazir you're."
+    },
+    {
+      "header": "[u2703 | 03:37:35.880-03:37:38.070 | DM]",
+      "lineNumber": 2703,
+      "originalText": "Okay, who am I missing truck.",
+      "cleanedText": "Okay, who am I missing Trok."
+    },
+    {
+      "header": "[u2804 | 03:44:30.750-03:44:34.590 | DM]",
+      "lineNumber": 2804,
+      "originalText": "Okay well that's good that he's jumped in his boat that's going to end his turn truck Europe.",
+      "cleanedText": "Okay well that's good that he's jumped in his boat that's going to end his turn Trok Europe."
+    },
+    {
+      "header": "[u2894 | 03:49:45.540-03:49:46.770 | Trok]",
+      "lineNumber": 2894,
+      "originalText": "To make truck mad.",
+      "cleanedText": "To make Trok mad."
+    },
+    {
+      "header": "[u2956 | 03:53:02.790-03:53:08.340 | DM]",
+      "lineNumber": 2956,
+      "originalText": "actually now he can't swim he's not gonna jump in the water 1234 he's gonna go attack was here.",
+      "cleanedText": "actually now he can't swim he's not gonna jump in the water 1234 he's gonna go attack Wazir."
+    },
+    {
+      "header": "[u2963 | 03:53:41.520-03:53:46.590 | DM]",
+      "lineNumber": 2963,
+      "originalText": "grappling you so you're you're not take no damage but you're considered grappled was here.",
+      "cleanedText": "grappling you so you're you're not take no damage but you're considered grappled Wazir."
+    },
+    {
+      "header": "[u3068 | 03:58:58.140-03:58:58.710 | Ryu]",
+      "lineNumber": 3068,
+      "originalText": "A truck.",
+      "cleanedText": "A Trok."
+    },
+    {
+      "header": "[u3069 | 03:58:59.130-03:58:59.940 | DM]",
+      "lineNumber": 3069,
+      "originalText": "My truck.",
+      "cleanedText": "My Trok."
+    },
+    {
+      "header": "[u3070 | 03:59:03.210-03:59:09.480 | DM]",
+      "lineNumber": 3070,
+      "originalText": "He is going to um to turn to you truck and whisper.",
+      "cleanedText": "He is going to um to turn to you Trok and whisper."
+    },
+    {
+      "header": "[u3093 | 04:01:01.890-04:01:03.270 | DM]",
+      "lineNumber": 3093,
+      "originalText": "Next to was here.",
+      "cleanedText": "Next to Wazir."
+    },
+    {
+      "header": "[u3112 | 04:02:11.910-04:02:13.170 | Trok]",
+      "lineNumber": 3112,
+      "originalText": "Well truck doesn't know that.",
+      "cleanedText": "Well Trok doesn't know that."
+    },
+    {
+      "header": "[u3144 | 04:04:14.160-04:04:17.010 | DM]",
+      "lineNumber": 3144,
+      "originalText": "i'm sorry truck you get the entire Brent bet.",
+      "cleanedText": "i'm sorry Trok you get the entire Brent bet."
+    },
+    {
+      "header": "[u3150 | 04:04:36.750-04:04:39.630 | DM]",
+      "lineNumber": 3150,
+      "originalText": "truck falls unconscious and floats to the surface.",
+      "cleanedText": "Trok falls unconscious and floats to the surface."
+    },
+    {
+      "header": "[u3174 | 04:06:02.220-04:06:04.470 | DM]",
+      "lineNumber": 3174,
+      "originalText": "zombie because, while I was here it's right next to him.",
+      "cleanedText": "zombie because, while I Wazir it's right next to him."
+    },
+    {
+      "header": "[u3188 | 04:06:35.070-04:06:42.600 | DM]",
+      "lineNumber": 3188,
+      "originalText": "Okay, this this thing is single mindedly on was here is going to swing it you again and again.",
+      "cleanedText": "Okay, this this thing is single mindedly on Wazir is going to swing it you again and again."
+    },
+    {
+      "header": "[u3201 | 04:07:38.820-04:07:41.580 | Wazir]",
+      "lineNumber": 3201,
+      "originalText": "try and help truck but can't really.",
+      "cleanedText": "try and help Trok but can't really."
+    },
+    {
+      "header": "[u3205 | 04:07:54.720-04:07:57.660 | Trok]",
+      "lineNumber": 3205,
+      "originalText": "Well truck doesn't have much to say about it at this point.",
+      "cleanedText": "Well Trok doesn't have much to say about it at this point."
+    },
+    {
+      "header": "[u3306 | 04:13:24.090-04:13:26.790 | Trok]",
+      "lineNumber": 3306,
+      "originalText": "yeah a truck has been unconscious for.",
+      "cleanedText": "yeah a Trok has been unconscious for."
+    },
+    {
+      "header": "[u3340 | 04:15:40.200-04:15:41.700 | DM]",
+      "lineNumber": 3340,
+      "originalText": "that's gonna miss was here.",
+      "cleanedText": "that's gonna miss Wazir."
+    },
+    {
+      "header": "[u3417 | 04:19:40.200-04:19:42.750 | DM]",
+      "lineNumber": 3417,
+      "originalText": "truck is just like how do I.",
+      "cleanedText": "Trok is just like how do I."
+    },
+    {
+      "header": "[u3428 | 04:20:25.740-04:20:29.190 | DM]",
+      "lineNumber": 3428,
+      "originalText": "bursting out of truck just slamming into this.",
+      "cleanedText": "bursting out of Trok just slamming into this."
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Scroll at the Leviathan",
+      "startUid": "u0001",
+      "endUid": "u0487",
+      "lineCount": 487,
+      "dateStart": "1747-08-03",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "containsCombat": false,
+      "boundaryReason": "The session opens with the party reconvening at the Leviathan, hearing Wazir's decipherment of Azar's scroll, comparing it to Trok's gatza visions, and deciding that their next concrete step is to inspect the ruined tower the next morning.",
+      "dateEvidence": [
+        "session.yaml sets drStart to 1747-08-03 with drStartTime evening",
+        "the episode note explicitly places this whole opening meeting at the Leviathan on the evening of 3 August",
+        "the beat ends when the group commits to visiting the tower in the morning, which sets up the next-day transition"
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Searching Airion's Tower",
+      "startUid": "u0488",
+      "endUid": "u0960",
+      "lineCount": 473,
+      "dateStart": "1747-08-04",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "containsCombat": false,
+      "boundaryReason": "This beat covers one continuous investigation scene the next morning as the party reaches the north-face tower, inspects the hidden older stonework and planar illusion within, and leaves only once they decide the best next move is to ask town contacts for context.",
+      "dateEvidence": [
+        "the prior beat ends with an explicit plan to return in the morning",
+        "the episode note places the tower investigation on the morning of 4 August",
+        "nothing in the tower sequence suggests a rest or another day change before they head back to town"
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Jaeson and the Orphans",
+      "startUid": "u0961",
+      "endUid": "u1380",
+      "lineCount": 420,
+      "dateStart": "1747-08-04",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "containsCombat": false,
+      "boundaryReason": "After leaving the tower, the party splits into parallel morning interviews with Jaeson, Samar, Reliah, and Orden, gathering evidence about the occupied tower, the collapsed Drowned Flats shack, gatza addicts, and the suspicious request for a lead-lined box before regrouping for the market.",
+      "dateEvidence": [
+        "the transcript treats these interviews as the immediate follow-up to the tower search on the same morning",
+        "the episode note places the contact rounds before lunch on 4 August",
+        "the beat ends at the clear regroup prompt to meet back at the market, before any midday shift"
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Benat's Tower Tale",
+      "startUid": "u1381",
+      "endUid": "u1638",
+      "lineCount": 258,
+      "dateStart": "1747-08-04",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "containsCombat": false,
+      "boundaryReason": "The party reconvenes in the fish market after lunch, trades rumors with the elders, and gets Benat's longer account of Airion, Hamri's planar weak spots, and the hidden well on the Splinters before deciding on a second round of afternoon inquiries.",
+      "dateEvidence": [
+        "the DM introduces this scene as just past lunch at the market",
+        "the episode note places the market discussion with Benat around lunch on 4 August",
+        "the next beat begins only after the party breaks away to pursue separate afternoon leads"
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Ovina and Sofi",
+      "startUid": "u1639",
+      "endUid": "u1891",
+      "lineCount": 253,
+      "dateStart": "1747-08-04",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "This beat follows the party's next round of interviews, centered on Kaleho and Trok extracting the truth about the lead-lined box from Ovina while Wazir and Ryu attempt, with only partial success, to get information from Sofi before everyone meets again at the Shark's Dock.",
+      "dateEvidence": [
+        "the fish-market scene explicitly hands off into a new set of afternoon errands",
+        "the DM marks the reunion near the end of the beat as around five in the afternoon",
+        "there is no overnight break before the party reconvenes at the dock"
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Yaz and the Living Ocean",
+      "startUid": "u1892",
+      "endUid": "u2284",
+      "lineCount": 393,
+      "dateStart": "1747-08-04",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "containsCombat": false,
+      "boundaryReason": "The group regathers at the Shark's Dock, confirms what they know about the phantom boat and Azar's motives, then Wazir and Ryu seek out Yaz, whose sunset lore about the living ocean and the Splinters deepens the mystery before they return to the Leviathan after dark.",
+      "dateEvidence": [
+        "the beat begins with the explicit late-afternoon reunion at the Shark's Dock",
+        "the Yaz scene plays through sunset but remains the same calendar day",
+        "the return to the Leviathan happens only once it is dark, still before the overnight planning beat"
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Night Plan at the Leviathan",
+      "startUid": "u2285",
+      "endUid": "u2443",
+      "lineCount": 159,
+      "dateStart": "1747-08-04",
+      "dateEnd": "1747-08-05",
+      "timeWindow": "night",
+      "containsCombat": false,
+      "boundaryReason": "Back at the Leviathan after dark, the party debates whether Azar is victim or threat, settles on a cautious interception plan, rests, and then the transcript advances straight into their predawn ambush setup on the following morning.",
+      "dateEvidence": [
+        "the beat starts with the dark return to the Leviathan at the end of 4 August",
+        "the group explicitly discusses what to do tomorrow and then sleeps before the next scene",
+        "the beat ends during the early-morning setup on 5 August, so it legitimately spans consecutive days"
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Parley at Shark's Dock",
+      "startUid": "u2444",
+      "endUid": "u2799",
+      "lineCount": 356,
+      "dateStart": "1747-08-05",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "containsCombat": true,
+      "boundaryReason": "At dawn the party spots Azar's approach, tries to stop him without bloodshed, learns just enough about Nadine and Gazankoa to confirm his identity, and then loses the chance for peaceful resolution when the confrontation breaks into tentacles, opportunity attacks, and a scramble around the phantom boat.",
+      "dateEvidence": [
+        "the prior beat already advanced the timeline to the next morning",
+        "the transcript opens this scene with Blue spotting the incoming ship just after dawn",
+        "the scene remains one continuous confrontation until Azar is in the boat and the fight has fully broken open"
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Ice Armor and Tentacles",
+      "startUid": "u2800",
+      "endUid": "u3149",
+      "lineCount": 350,
+      "dateStart": "1747-08-05",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "containsCombat": true,
+      "boundaryReason": "Once Azar is dragged into the water, the fight shifts into a second tactical phase focused on his defenses: the boat is cut loose, Ryu is trapped in grasping tentacles, Trok grapples Azar underwater, and Armor of Agathys brutally punishes every melee attempt until Trok is knocked unconscious.",
+      "dateEvidence": [
+        "this beat begins immediately after Azar reaches the boat and the first exchange settles into full tactical play",
+        "no rest or time skip interrupts the combat",
+        "the next beat begins only after the healing spirit and shatter turn the fight toward its final resolution on the same morning"
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Azar Falls and the Aftermath",
+      "startUid": "u3150",
+      "endUid": "u3597",
+      "lineCount": 448,
+      "dateStart": "1747-08-05",
+      "dateEnd": "1747-08-09",
+      "timeWindow": "morning",
+      "containsCombat": true,
+      "boundaryReason": "The final combat phase starts with Trok rescued by the healing spirit and ends with Azar beaten unconscious, the drowned servant destroyed, and the party stabilizing the scene; from there the transcript rolls directly into narrated interrogation results, the recovery of the knife and lair, Wazir's later item identification, and Azar's escorted departure from Hamri days later.",
+      "dateEvidence": [
+        "the beat continues the same 5 August morning combat without any scene break",
+        "the DM's narrated wrap-up explicitly summarizes later events on 5 August, 6 August, and 9 August rather than playing them scene by scene",
+        "using dateEnd 1747-08-09 captures that the final narrated aftermath spans several consecutive days inside one closing beat"
+      ]
+    }
+  ]
+}

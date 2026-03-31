@@ -1,0 +1,36 @@
+schemaVersion: '1.0'
+sourceType: transcript
+campaign: Labyrinths of the Lost
+sessionNumber: 3
+realWorldDate: 2023-12-10
+drStart: null
+drEnd: null
+drStartTime: null
+drEndTime: null
+participants:
+- name: Phil Grayson
+  gameRole: Acescale
+  transcriptIdentifiers:
+  - Phil Grayson
+- name: John Leeker
+  gameRole: Gaudin
+  transcriptIdentifiers:
+  - John L
+- name: Sara Smith
+  gameRole: Loria
+  transcriptIdentifiers:
+  - Sara/Loria (she/her)
+- name: Dylan
+  gameRole: Dilion
+  transcriptIdentifiers:
+  - Dylan
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers:
+  - Tim Sackton
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-003/sources/GMT20231211-000541_Recording.transcript.vtt
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-003/sources/lablost-ep03-source-prep.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-003/sources/lablost-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-source-prepared.md
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-speaker-stats.json

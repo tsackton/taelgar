@@ -1,0 +1,244 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-10-17",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "The party settles into the workshop for a cautious overnight rest instead of pushing farther into the manor after dark.",
+      "longSummary": "After reminding one another who they are, Acescale, Gaudin, Loria, and Dilion decide not to press farther into the estate after dark and instead fortify the old workshop where they escaped in the previous session. They eat from the stolen supplies, settle their nerves, and sleep safely through the night, keeping the session's opening focused on securing a refuge inside Perdoli Manor rather than risking another nighttime push.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "workshop prison room, cloakroom, and nearby grounds at sunset and night",
+        "notes": "The party starts where it ended the prior session, then spends the night there before moving out."
+      },
+      "npcs": [
+        {
+          "name": "Folcan",
+          "role": "mentioned",
+          "context": "released goblin captive from the previous night",
+          "notes": "The party confirms that Folcan was sent back to warn the other goblins away."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "shortSummary": "At dawn the party wakes, settles on the chapel approach, slips across the overgrown grounds, and reaches the hidden trapdoor beneath the ruined chapel.",
+      "longSummary": "Waking in dim pre-sunrise light, the party talks through tunnel options, the goblin and hobgoblin threat, and whether the ruined chapel or kitchens offer the best way deeper into the manor. Once the chapel route wins out, the group crosses the weedy vineyards and formal grounds that separate the workshop from the manor proper. Loria spots a stealthy hobgoblin patrol slipping along the wall, so Dilion sends steampup away barking to pull the patrol and nearby goblins off course while the group threads through hedges, glimpses the statue of a medusa by the fountain, and cuts across the gardens toward the ruined chapel. There they search frantically, find a square of flowers hiding disturbed earth, and uncover the buried trapdoor into the crypt just as pursuit closes in.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "overgrown vineyards, formal garden, medusa fountain, and ruined chapel",
+        "notes": "The beat covers the route from the workshop across the manor grounds to the chapel entrance."
+      },
+      "npcs": [
+        {
+          "name": "shadow-cloaked hobgoblin patrol",
+          "role": "enemy",
+          "context": "stealthy wall patrol",
+          "notes": "The patrol is avoided rather than fought after steampup draws it away."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "In the chapel crypt, the party rigs the hatch with grease and snare, kills the hobgoblin shadowsneak who drops in, and finishes a second pursuer before the crypt settles again.",
+      "longSummary": "The trapdoor opens into a dusty family crypt beneath the chapel, peaceful enough at first to tempt a quick search and a torch. That calm vanishes once Gaudin's ring starts glowing and the party hears hobgoblins above. Dilion and Loria turn the hatch into a killing ground with grease and snare, catching the first intruder, a shadowy hobgoblin scout, in a brutal close-quarters ambush before resetting the trap for a second enemy. By the time the second pursuer is down, the crypt is quiet again and the immediate danger above has been blunted.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "chapel crypt beneath the ruined chapel",
+        "notes": "The party fights entirely inside the crypt after hiding below the chapel."
+      },
+      "npcs": [
+        {
+          "name": "hobgoblin shadowsneak",
+          "role": "enemy",
+          "context": "first crypt intruder",
+          "notes": "The shadow-cloaked hobgoblin drops through the hatch into the party's prepared trap."
+        },
+        {
+          "name": "second hobgoblin pursuer",
+          "role": "enemy",
+          "context": "follow-up crypt intruder",
+          "notes": "A second hobgoblin comes to investigate after the first scout disappears."
+        }
+      ],
+      "items": [
+        {
+          "name": "silver candlesticks",
+          "role": "encountered",
+          "notes": "The crypt contains old religious silver before the ambush begins."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "hobgoblin crypt scouts",
+            "notes": "Two hobgoblins investigate the chapel hatch and are killed in the party's trap."
+          }
+        ],
+        "notes": "Grease, snare, and the cramped crypt let the party kill both pursuers without turning the whole manor into an open fight."
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "With the crypt secure, the party uncovers hidden valuables, finds a secret passage into a sealed Perdoli study, and works out the rotating bookcase that offers a way deeper into the manor.",
+      "longSummary": "After the ambush, the group searches the crypt properly instead of fleeing at once. They recover valuables and useful supplies, including a hidden scroll, potion, gemstones, and alchemical fire, then discover the concealed route out of the crypt and follow it into a dusty private study untouched for decades. There they identify the Perdoli family name, confirm the room has been sealed off from the rest of the manor, take a short rest in relative safety, and finally decode the fake books and hidden button that control a rotating bookcase and the next leg of the infiltration.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "chapel crypt, secret passage, and hidden Perdoli study",
+        "notes": "The secret route links the chapel crypt to an old family room inside the manor proper."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "alchemist's fire",
+          "role": "encountered",
+          "notes": "Taken from the dead hobgoblin after the crypt fight."
+        },
+        {
+          "name": "topaz",
+          "role": "encountered",
+          "notes": "Recovered from the crypt while searching around the tomb."
+        },
+        {
+          "name": "cure wounds scroll",
+          "role": "encountered",
+          "notes": "Found in a hidden niche in the crypt."
+        },
+        {
+          "name": "potion of watchful rest",
+          "role": "encountered",
+          "notes": "Found with the hidden scroll in the crypt."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party pushes through the rotating bookcase, beats nearby hobgoblin guards without raising a full alarm, and then discovers that a chained basilisk haunts the inner courtyard.",
+      "longSummary": "Once the party opens the hidden bookcase, the manor turns dangerous again almost immediately. A cautious scout of the adjoining routes reveals a chamber full of giant insects on one side and a more exposed gallery route on the other, and the group chooses the gallery to keep away from the swarms. That decision leads them into a brief but sharp fight with hobgoblin guards inside the manor, which they win quickly enough to keep the estate from fully mobilizing. Their reward is a new shock: when Gaudin peers over the courtyard wall, he catches the gaze of a chained basilisk and begins turning to stone before the group hacks the crusted stone back off him.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "rotating bookcase exit, open gallery, adjoining guard rooms, and the inner courtyard wall",
+        "notes": "The beat moves from the hidden study into the lived-in manor interior and ends at the basilisk's chain point."
+      },
+      "npcs": [
+        {
+          "name": "hobgoblin manor guards",
+          "role": "enemy",
+          "context": "quiet manor watch",
+          "notes": "They rush the party after the gallery crossing but are killed before a wider alarm spreads."
+        },
+        {
+          "name": "chained basilisk",
+          "role": "encountered",
+          "context": "courtyard horror",
+          "notes": "The basilisk appears to be the source of many of the headless stone statues in the manor."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "hobgoblin manor guards",
+            "notes": "A small interior guard group that the party defeats quickly while staying quiet."
+          }
+        ],
+        "notes": "The skirmish is contained to the nearby interior rooms, and the basilisk only enters the beat as the next threat once the fighting stops."
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Recovering from the basilisk scare, the party explores the master chambers, pieces together pirate clues around J.M. and Petrona, and persuades the ghostly captain to reveal Grimstone's lair beneath the bedroom.",
+      "longSummary": "After debating whether the basilisk can be turned against the manor, the party continues through the private chambers rather than pressing the courtyard. In the old master rooms they find smashed mirrors, headless statues, a silver locket, pirate maps, and letters addressed to J.M. from P., which slowly recast the manor as a former pirate refuge layered atop the older Perdoli villa. Those clues give Gaudin enough to risk speaking with the pacing sailor ghost in the bedroom. By using the locket and then disguising himself as Petrona, Gaudin breaks through the ghost's rage and grief, learns that Grimstone lied to him for years, and gets the crucial revelation that Grimstone's hideout lies beneath the room in the old pirate base below.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "former master bedchambers, pirate-used rooms, and the haunted bedroom above the hidden cellar entrance",
+        "notes": "The final beat stays in the manor's private chambers and ends with the trapdoor location under the bedroom."
+      },
+      "npcs": [
+        {
+          "name": "J.M.",
+          "role": "encountered",
+          "context": "pirate ghost guarding the bedroom",
+          "notes": "The ghost mourns Petrona and finally turns against Grimstone after Gaudin's deception succeeds."
+        },
+        {
+          "name": "Petrona",
+          "role": "mentioned",
+          "context": "lost lover identified from the locket and letters",
+          "notes": "The letters and the locket reveal that P. was Petrona."
+        },
+        {
+          "name": "Grimstone",
+          "role": "mentioned",
+          "context": "white-faced liar beneath the manor",
+          "notes": "The ghost identifies Grimstone as the man who promised news and rest but kept him trapped instead."
+        }
+      ],
+      "items": [
+        {
+          "name": "silver locket",
+          "role": "encountered",
+          "notes": "Inscribed to J.M. from P.; it becomes the key to calming the ghost."
+        },
+        {
+          "name": "pirate maps",
+          "role": "encountered",
+          "notes": "The papers in the chambers include smuggling and pirate-route materials."
+        },
+        {
+          "name": "love letters to J.M.",
+          "role": "encountered",
+          "notes": "The letters explain the bond between J.M. and Petrona and help the party interpret the haunting."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,967 @@
+allReplacements:
+- from: marissa
+  to: Nerissa
+  count: 19
+  headers:
+  - '[u0005 | 00:00:18.810-00:00:27.000 | Ryu]'
+  - '[u0019 | 00:01:36.030-00:01:43.800 | DM]'
+  - '[u0283 | 00:25:13.440-00:25:13.950 | Unknown]'
+  - '[u0390 | 00:34:08.550-00:34:09.540 | Ander]'
+  - '[u0530 | 00:49:07.920-00:49:18.930 | Nerissa]'
+  - '[u0893 | 01:21:51.150-01:21:54.720 | Ryu]'
+  - '[u1430 | 02:11:58.920-02:12:01.020 | DM]'
+  - '[u1587 | 02:24:24.360-02:24:29.940 | DM]'
+  - '[u1865 | 02:44:49.170-02:44:49.890 | DM]'
+  - '[u1958 | 02:51:05.850-02:51:06.990 | DM]'
+  - '[u2029 | 02:56:33.720-02:56:42.990 | DM]'
+  - '[u2211 | 03:12:09.450-03:12:10.950 | DM]'
+  - '[u2216 | 03:12:48.900-03:12:52.050 | DM]'
+  - '[u2766 | 03:52:06.270-03:52:08.670 | Ryu]'
+  - '[u2777 | 03:52:44.820-03:52:53.100 | DM]'
+  - '[u2824 | 03:56:09.840-03:56:17.280 | DM]'
+  - '[u2881 | 03:59:59.550-04:00:02.010 | Ryu]'
+  - '[u2921 | 04:02:24.180-04:02:29.340 | DM]'
+  - '[u2949 | 04:04:18.990-04:04:20.490 | DM]'
+- from: review
+  to: Ryu
+  count: 16
+  headers:
+  - '[u0019 | 00:01:36.030-00:01:43.800 | DM]'
+  - '[u0184 | 00:17:16.590-00:17:20.490 | DM]'
+  - '[u0329 | 00:28:53.880-00:29:04.920 | Ryu]'
+  - '[u0475 | 00:43:52.830-00:44:03.990 | Ryu]'
+  - '[u0507 | 00:46:42.180-00:46:51.330 | Ryu]'
+  - '[u0523 | 00:48:33.120-00:48:39.450 | DM]'
+  - '[u0764 | 01:09:47.910-01:09:53.070 | Ryu]'
+  - '[u0865 | 01:19:50.490-01:19:57.030 | Ryu]'
+  - '[u1046 | 01:39:23.670-01:39:28.230 | Ryu]'
+  - '[u1957 | 02:50:53.190-02:51:02.970 | DM]'
+  - '[u1959 | 02:51:07.560-02:51:11.850 | Ander]'
+  - '[u2210 | 03:12:06.960-03:12:08.430 | DM]'
+  - '[u2502 | 03:33:17.520-03:33:19.350 | Ryu]'
+  - '[u3018 | 04:10:17.940-04:10:21.120 | Nerissa]'
+  - '[u3169 | 04:22:39.990-04:22:48.300 | Nerissa]'
+- from: reuse
+  to: Ryu
+  count: 13
+  headers:
+  - '[u0042 | 00:04:08.910-00:04:14.970 | Ryu]'
+  - '[u0047 | 00:04:46.800-00:04:57.000 | Ryu]'
+  - '[u0050 | 00:05:18.180-00:05:22.620 | Ryu]'
+  - '[u0325 | 00:28:18.180-00:28:23.760 | Ryu]'
+  - '[u0326 | 00:28:24.330-00:28:30.990 | Ryu]'
+  - '[u0327 | 00:28:31.590-00:28:44.310 | Ryu]'
+  - '[u0329 | 00:28:53.880-00:29:04.920 | Ryu]'
+  - '[u0358 | 00:31:05.280-00:31:11.430 | Nerissa]'
+  - '[u0456 | 00:40:48.420-00:41:02.070 | DM]'
+  - '[u0590 | 00:54:19.980-00:54:22.620 | Ryu]'
+  - '[u0674 | 01:01:43.800-01:01:53.700 | Ryu]'
+  - '[u1861 | 02:44:23.070-02:44:29.250 | DM]'
+  - '[u1986 | 02:52:38.850-02:52:45.390 | Nerissa]'
+- from: json
+  to: Jaeson
+  count: 12
+  headers:
+  - '[u0185 | 00:17:21.690-00:17:32.040 | DM]'
+  - '[u0186 | 00:17:33.330-00:17:35.820 | Ryu]'
+  - '[u0236 | 00:21:14.550-00:21:18.450 | Ryu]'
+  - '[u0242 | 00:21:55.200-00:22:01.050 | Ryu]'
+  - '[u0261 | 00:23:25.290-00:23:27.750 | Ryu]'
+  - '[u0271 | 00:24:00.690-00:24:08.790 | Ryu]'
+  - '[u0313 | 00:27:03.690-00:27:13.680 | Ryu]'
+  - '[u0316 | 00:27:22.230-00:27:25.680 | Ryu]'
+  - '[u0402 | 00:35:14.940-00:35:18.510 | Ryu]'
+  - '[u0404 | 00:35:28.350-00:35:32.460 | Ryu]'
+  - '[u0413 | 00:36:33.660-00:36:49.860 | Ryu]'
+- from: Rio
+  to: Ryu
+  count: 9
+  headers:
+  - '[u0024 | 00:02:12.690-00:02:16.680 | DM]'
+  - '[u0398 | 00:34:49.980-00:34:54.720 | Nerissa]'
+  - '[u0523 | 00:48:33.120-00:48:39.450 | DM]'
+  - '[u0532 | 00:49:23.310-00:49:29.130 | Ryu]'
+  - '[u0724 | 01:06:11.340-01:06:24.090 | Ryu]'
+  - '[u0766 | 01:09:54.750-01:10:01.920 | Ryu]'
+  - '[u1766 | 02:37:30.630-02:37:31.260 | DM]'
+  - '[u1772 | 02:37:59.190-02:38:02.490 | DM]'
+  - '[u2800 | 03:54:17.250-03:54:19.860 | DM]'
+- from: i
+  to: I
+  count: 8
+  headers:
+  - '[u0422 | 00:37:47.190-00:37:58.530 | Ryu]'
+  - '[u0708 | 01:04:30.360-01:04:33.390 | Ryu]'
+  - '[u0724 | 01:06:11.340-01:06:24.090 | Ryu]'
+  - '[u1367 | 02:06:40.380-02:06:42.450 | Ryu]'
+  - '[u2228 | 03:13:52.500-03:14:02.460 | Ryu]'
+  - '[u2921 | 04:02:24.180-04:02:29.340 | DM]'
+  - '[u3161 | 04:22:10.350-04:22:14.910 | DM]'
+- from: Andrew
+  to: Ander
+  count: 5
+  headers:
+  - '[u0034 | 00:03:11.520-00:03:22.680 | Ryu]'
+  - '[u0054 | 00:05:52.920-00:05:55.980 | Ryu]'
+  - '[u0055 | 00:05:58.140-00:06:00.300 | Ander]'
+  - '[u0071 | 00:07:31.080-00:07:33.240 | Ryu]'
+  - '[u2665 | 03:45:10.800-03:45:11.940 | DM]'
+- from: Review
+  to: Ryu
+  count: 4
+  headers:
+  - '[u0038 | 00:03:31.500-00:03:38.790 | Ryu]'
+  - '[u0544 | 00:50:00.240-00:50:04.950 | Ryu]'
+  - '[u0893 | 01:21:51.150-01:21:54.720 | Ryu]'
+  - '[u1580 | 02:23:51.750-02:23:53.580 | DM]'
+- from: and are
+  to: Ander
+  count: 3
+  headers:
+  - '[u0016 | 00:01:09.000-00:01:17.280 | DM]'
+  - '[u0419 | 00:37:29.460-00:37:32.790 | Nerissa]'
+  - '[u1050 | 01:39:40.650-01:39:56.100 | Ryu]'
+- from: real
+  to: Ryu
+  count: 3
+  headers:
+  - '[u0025 | 00:02:20.670-00:02:27.510 | DM]'
+  - '[u2023 | 02:55:40.739-02:55:42.120 | DM]'
+  - '[u2220 | 03:13:03.060-03:13:07.710 | DM]'
+- from: ''' s'
+  to: is
+  count: 2
+  headers:
+  - '[u1255 | 01:56:27.540-01:56:39.330 | Ryu]'
+- from: ','
+  to: .
+  count: 2
+  headers:
+  - '[u0702 | 01:03:52.590-01:03:56.580 | Ryu]'
+  - '[u3161 | 04:22:10.350-04:22:14.910 | DM]'
+- from: Gaza
+  to: gatza
+  count: 2
+  headers:
+  - '[u0104 | 00:10:16.470-00:10:18.000 | Ryu]'
+  - '[u0129 | 00:12:13.980-00:12:24.390 | Ryu]'
+- from: blue
+  to: Blu
+  count: 2
+  headers:
+  - '[u0596 | 00:55:12.750-00:55:29.520 | Ryu]'
+  - '[u1050 | 01:39:40.650-01:39:56.100 | Ryu]'
+- from: escrow rola
+  to: Eskorola
+  count: 2
+  headers:
+  - '[u0222 | 00:20:11.040-00:20:12.630 | Ryu]'
+  - '[u0229 | 00:20:35.790-00:20:40.380 | Ryu]'
+- from: godson
+  to: gatza
+  count: 2
+  headers:
+  - '[u0203 | 00:18:55.680-00:18:58.020 | DM]'
+  - '[u0215 | 00:19:42.510-00:19:44.010 | DM]'
+- from: it ' s all
+  to: ', Itzal'
+  count: 2
+  headers:
+  - '[u0515 | 00:47:32.040-00:47:34.710 | Ryu]'
+  - '[u0623 | 00:57:26.250-00:57:27.750 | Ryu]'
+- from: it ' s all
+  to: Itzal,
+  count: 2
+  headers:
+  - '[u0596 | 00:55:12.750-00:55:29.520 | Ryu]'
+  - '[u0702 | 01:03:52.590-01:03:56.580 | Ryu]'
+- from: marissa
+  to: ', Nerissa'
+  count: 2
+  headers:
+  - '[u0001 | 00:00:03.540-00:00:06.060 | Ryu]'
+  - '[u2880 | 03:59:58.290-03:59:59.160 | Ander]'
+- from: ''' re'
+  to: are
+  count: 1
+  headers:
+  - '[u0862 | 01:19:23.400-01:19:31.440 | DM]'
+- from: ''' s'
+  to: was
+  count: 1
+  headers:
+  - '[u0410 | 00:35:59.850-00:36:13.650 | Ryu]'
+- from: ','
+  to: '?'
+  count: 1
+  headers:
+  - '[u0651 | 00:59:39.990-00:59:49.590 | Ryu]'
+- from: ', how does will make a'
+  to: he
+  count: 1
+  headers:
+  - '[u2881 | 03:59:59.550-04:00:02.010 | Ryu]'
+- from: ', really'
+  to: Ryu
+  count: 1
+  headers:
+  - '[u2228 | 03:13:52.500-03:14:02.460 | Ryu]'
+- from: ', the lizard folk'
+  to: . The lizardfolk
+  count: 1
+  headers:
+  - '[u0934 | 01:25:25.830-01:25:36.480 | DM]'
+- from: Alright blue
+  to: All right, Blu
+  count: 1
+  headers:
+  - '[u2881 | 03:59:59.550-04:00:02.010 | Ryu]'
+- from: And are
+  to: Ander
+  count: 1
+  headers:
+  - '[u0607 | 00:56:29.820-00:56:30.990 | Ryu]'
+- from: And are
+  to: Ander,
+  count: 1
+  headers:
+  - '[u1240 | 01:55:05.910-01:55:11.280 | Ryu]'
+- from: Andrew
+  to: Ander,
+  count: 1
+  headers:
+  - '[u3020 | 04:10:24.600-04:10:28.230 | Nerissa]'
+- from: Andrew json but on Andrew
+  to: Ander. Jaeson, I mean Ander
+  count: 1
+  headers:
+  - '[u0190 | 00:17:48.240-00:17:58.440 | Ryu]'
+- from: Elder
+  to: elder
+  count: 1
+  headers:
+  - '[u0515 | 00:47:32.040-00:47:34.710 | Ryu]'
+- from: Fuck
+  to: fuck,
+  count: 1
+  headers:
+  - '[u0005 | 00:00:18.810-00:00:27.000 | Ryu]'
+- from: Is this
+  to: This
+  count: 1
+  headers:
+  - '[u0030 | 00:02:41.700-00:02:44.160 | Ryu]'
+- from: Itzhak
+  to: Itzal
+  count: 1
+  headers:
+  - '[u0656 | 01:00:11.520-01:00:12.690 | DM]'
+- from: Jakarta
+  to: Draconic;
+  count: 1
+  headers:
+  - '[u2921 | 04:02:24.180-04:02:29.340 | DM]'
+- from: Lou
+  to: Blu
+  count: 1
+  headers:
+  - '[u1255 | 01:56:27.540-01:56:39.330 | Ryu]'
+- from: Marisa i
+  to: Nerissa. I
+  count: 1
+  headers:
+  - '[u0724 | 01:06:11.340-01:06:24.090 | Ryu]'
+- from: Marwan
+  to: Mawar
+  count: 1
+  headers:
+  - '[u0190 | 00:17:48.240-00:17:58.440 | Ryu]'
+- from: Mrs
+  to: misses
+  count: 1
+  headers:
+  - '[u1929 | 02:48:48.930-02:48:51.000 | DM]'
+- from: NASA
+  to: nest to
+  count: 1
+  headers:
+  - '[u2228 | 03:13:52.500-03:14:02.460 | Ryu]'
+- from: Oh
+  to: ', oh'
+  count: 1
+  headers:
+  - '[u0422 | 00:37:47.190-00:37:58.530 | Ryu]'
+- from: Peninsula
+  to: peninsula
+  count: 1
+  headers:
+  - '[u0024 | 00:02:12.690-00:02:16.680 | DM]'
+- from: Reuse
+  to: Ryu
+  count: 1
+  headers:
+  - '[u1220 | 01:53:43.020-01:53:49.650 | Ryu]'
+- from: Reuse
+  to: Ryu is
+  count: 1
+  headers:
+  - '[u0049 | 00:05:03.510-00:05:16.620 | Ryu]'
+- from: That the
+  to: The
+  count: 1
+  headers:
+  - '[u3073 | 04:14:17.610-04:14:22.230 | DM]'
+- from: This this shorts
+  to: Does Trok
+  count: 1
+  headers:
+  - '[u0104 | 00:10:16.470-00:10:18.000 | Ryu]'
+- from: To
+  to: to
+  count: 1
+  headers:
+  - '[u1255 | 01:56:27.540-01:56:39.330 | Ryu]'
+- from: Tower this
+  to: tower,
+  count: 1
+  headers:
+  - '[u0049 | 00:05:03.510-00:05:16.620 | Ryu]'
+- from: Turkey Turkey
+  to: Turk
+  count: 1
+  headers:
+  - '[u1367 | 02:06:40.380-02:06:42.450 | Ryu]'
+- from: You
+  to: Ryu
+  count: 1
+  headers:
+  - '[u3020 | 04:10:24.600-04:10:28.230 | Nerissa]'
+- from: You before
+  to: Before
+  count: 1
+  headers:
+  - '[u0665 | 01:00:55.110-01:01:04.020 | Ryu]'
+- from: and so review review
+  to: ', Ryu'
+  count: 1
+  headers:
+  - '[u0051 | 00:05:23.910-00:05:34.260 | Ryu]'
+- from: are
+  to: or has
+  count: 1
+  headers:
+  - '[u0665 | 01:00:55.110-01:01:04.020 | Ryu]'
+- from: are haven ' t
+  to: have not
+  count: 1
+  headers:
+  - '[u0862 | 01:19:23.400-01:19:31.440 | DM]'
+- from: are ready dies
+  to: already, guys
+  count: 1
+  headers:
+  - '[u0858 | 01:19:00.720-01:19:05.100 | Ryu]'
+- from: as per rola
+  to: Eskorola
+  count: 1
+  headers:
+  - '[u0408 | 00:35:42.600-00:35:53.970 | Ryu]'
+- from: asked her all
+  to: Eskorola
+  count: 1
+  headers:
+  - '[u0406 | 00:35:36.990-00:35:38.370 | DM]'
+- from: asked his truck
+  to: guess Trok ' s
+  count: 1
+  headers:
+  - '[u3161 | 04:22:10.350-04:22:14.910 | DM]'
+- from: bed and
+  to: abandoned
+  count: 1
+  headers:
+  - '[u0083 | 00:08:31.260-00:08:36.990 | Ander]'
+- from: before before you ' re
+  to: were
+  count: 1
+  headers:
+  - '[u0190 | 00:17:48.240-00:17:58.440 | Ryu]'
+- from: blue
+  to: Blu,
+  count: 1
+  headers:
+  - '[u1255 | 01:56:27.540-01:56:39.330 | Ryu]'
+- from: blue blue
+  to: Blu
+  count: 1
+  headers:
+  - '[u1050 | 01:39:40.650-01:39:56.100 | Ryu]'
+- from: blue like
+  to: Blu
+  count: 1
+  headers:
+  - '[u1050 | 01:39:40.650-01:39:56.100 | Ryu]'
+- from: book
+  to: boat
+  count: 1
+  headers:
+  - '[u1240 | 01:55:05.910-01:55:11.280 | Ryu]'
+- from: book
+  to: hug,
+  count: 1
+  headers:
+  - '[u0083 | 00:08:31.260-00:08:36.990 | Ander]'
+- from: common
+  to: Common
+  count: 1
+  headers:
+  - '[u3020 | 04:10:24.600-04:10:28.230 | Nerissa]'
+- from: directive from the lizard folk
+  to: lizardfolk.
+  count: 1
+  headers:
+  - '[u0413 | 00:36:33.660-00:36:49.860 | Ryu]'
+- from: does the secret like
+  to: doesn ' t Nerissa
+  count: 1
+  headers:
+  - '[u0005 | 00:00:18.810-00:00:27.000 | Ryu]'
+- from: easy blues
+  to: mean, Blu is
+  count: 1
+  headers:
+  - '[u1255 | 01:56:27.540-01:56:39.330 | Ryu]'
+- from: enter
+  to: Ander
+  count: 1
+  headers:
+  - '[u3018 | 04:10:17.940-04:10:21.120 | Nerissa]'
+- from: for
+  to: four
+  count: 1
+  headers:
+  - '[u2210 | 03:12:06.960-03:12:08.430 | DM]'
+- from: gas
+  to: gatza
+  count: 1
+  headers:
+  - '[u0858 | 01:19:00.720-01:19:05.100 | Ryu]'
+- from: gods out
+  to: gatza
+  count: 1
+  headers:
+  - '[u0862 | 01:19:23.400-01:19:31.440 | DM]'
+- from: gods that
+  to: gatza
+  count: 1
+  headers:
+  - '[u0580 | 00:53:28.950-00:53:30.480 | DM]'
+- from: gods that
+  to: gatza tribute
+  count: 1
+  headers:
+  - '[u0413 | 00:36:33.660-00:36:49.860 | Ryu]'
+- from: godson that they
+  to: gatza or
+  count: 1
+  headers:
+  - '[u0410 | 00:35:59.850-00:36:13.650 | Ryu]'
+- from: gotcha
+  to: gatza
+  count: 1
+  headers:
+  - '[u0097 | 00:09:57.030-00:09:58.260 | Ryu]'
+- from: guts to
+  to: gatza
+  count: 1
+  headers:
+  - '[u0417 | 00:37:15.540-00:37:20.970 | Nerissa]'
+- from: he
+  to: . He
+  count: 1
+  headers:
+  - '[u1255 | 01:56:27.540-01:56:39.330 | Ryu]'
+- from: his Turk under neath
+  to: beneath
+  count: 1
+  headers:
+  - '[u1366 | 02:06:31.290-02:06:39.900 | DM]'
+- from: i
+  to: . I
+  count: 1
+  headers:
+  - '[u0596 | 00:55:12.750-00:55:29.520 | Ryu]'
+- from: i ' ll be i
+  to: ', I'
+  count: 1
+  headers:
+  - '[u0513 | 00:47:23.940-00:47:28.710 | DM]'
+- from: i ' m a Maya
+  to: Amaya
+  count: 1
+  headers:
+  - '[u0658 | 01:00:18.360-01:00:19.320 | DM]'
+- from: is
+  to: ', it '' s'
+  count: 1
+  headers:
+  - '[u0190 | 00:17:48.240-00:17:58.440 | Ryu]'
+- from: it
+  to: Itzal; he
+  count: 1
+  headers:
+  - '[u0513 | 00:47:23.940-00:47:28.710 | DM]'
+- from: it ' s all
+  to: ', Itzal,'
+  count: 1
+  headers:
+  - '[u1152 | 01:48:35.790-01:48:37.470 | Ryu]'
+- from: it ' s all
+  to: Itzal
+  count: 1
+  headers:
+  - '[u0708 | 01:04:30.360-01:04:33.390 | Ryu]'
+- from: it ' s all a
+  to: Itzal,
+  count: 1
+  headers:
+  - '[u0651 | 00:59:39.990-00:59:49.590 | Ryu]'
+- from: it ' s all negative it
+  to: ', if Blu'
+  count: 1
+  headers:
+  - '[u2228 | 03:13:52.500-03:14:02.460 | Ryu]'
+- from: it ' s all um
+  to: ', Itzal,'
+  count: 1
+  headers:
+  - '[u0665 | 01:00:55.110-01:01:04.020 | Ryu]'
+- from: it and are
+  to: at Ander
+  count: 1
+  headers:
+  - '[u1611 | 02:26:26.700-02:26:27.840 | DM]'
+- from: john cena
+  to: Chaessenth
+  count: 1
+  headers:
+  - '[u3020 | 04:10:24.600-04:10:28.230 | Nerissa]'
+- from: json
+  to: ', Jaeson'
+  count: 1
+  headers:
+  - '[u0413 | 00:36:33.660-00:36:49.860 | Ryu]'
+- from: kalo steel
+  to: Kaleho still
+  count: 1
+  headers:
+  - '[u0424 | 00:38:01.110-00:38:02.220 | Ryu]'
+- from: let
+  to: ','
+  count: 1
+  headers:
+  - '[u0513 | 00:47:23.940-00:47:28.710 | DM]'
+- from: lizard folks
+  to: lizardfolk,
+  count: 1
+  headers:
+  - '[u0417 | 00:37:15.540-00:37:20.970 | Nerissa]'
+- from: marissa
+  to: Nerissa,
+  count: 1
+  headers:
+  - '[u2819 | 03:55:53.010-03:55:56.640 | DM]'
+- from: mark confederacy enroll 22nd
+  to: Mawar Confederacy in Roll20
+  count: 1
+  headers:
+  - '[u0031 | 00:02:45.810-00:02:52.620 | DM]'
+- from: me it
+  to: him. He
+  count: 1
+  headers:
+  - '[u0596 | 00:55:12.750-00:55:29.520 | Ryu]'
+- from: mechanic
+  to: Draconic,
+  count: 1
+  headers:
+  - '[u2749 | 03:50:31.980-03:50:37.290 | DM]'
+- from: nervous
+  to: Nerissa
+  count: 1
+  headers:
+  - '[u1561 | 02:22:06.720-02:22:12.570 | DM]'
+- from: of
+  to: at
+  count: 1
+  headers:
+  - '[u0049 | 00:05:03.510-00:05:16.620 | Ryu]'
+- from: of
+  to: would
+  count: 1
+  headers:
+  - '[u0410 | 00:35:59.850-00:36:13.650 | Ryu]'
+- from: off for the
+  to: up
+  count: 1
+  headers:
+  - '[u0934 | 01:25:25.830-01:25:36.480 | DM]'
+- from: oh
+  to: . Oh,
+  count: 1
+  headers:
+  - '[u0724 | 01:06:11.340-01:06:24.090 | Ryu]'
+- from: one new era
+  to: Wanui Teora
+  count: 1
+  headers:
+  - '[u3073 | 04:14:17.610-04:14:22.230 | DM]'
+- from: one speaker
+  to: than Nerissa
+  count: 1
+  headers:
+  - '[u0006 | 00:00:30.330-00:00:33.270 | DM]'
+- from: or Europe
+  to: Ander, you are up
+  count: 1
+  headers:
+  - '[u1515 | 02:18:30.390-02:18:32.100 | DM]'
+- from: outdated
+  to: out - dated
+  count: 1
+  headers:
+  - '[u2819 | 03:55:53.010-03:55:56.640 | DM]'
+- from: piece
+  to: beast,
+  count: 1
+  headers:
+  - '[u0596 | 00:55:12.750-00:55:29.520 | Ryu]'
+- from: power purchase
+  to: tower perched, at
+  count: 1
+  headers:
+  - '[u0049 | 00:05:03.510-00:05:16.620 | Ryu]'
+- from: real
+  to: Ryu;
+  count: 1
+  headers:
+  - '[u1929 | 02:48:48.930-02:48:51.000 | DM]'
+- from: real I kind of
+  to: ', Ryu'
+  count: 1
+  headers:
+  - '[u1050 | 01:39:40.650-01:39:56.100 | Ryu]'
+- from: real to
+  to: Ryu too
+  count: 1
+  headers:
+  - '[u1926 | 02:48:43.080-02:48:44.490 | DM]'
+- from: return marissa
+  to: her turn. Nerissa,
+  count: 1
+  headers:
+  - '[u2463 | 03:30:47.400-03:30:50.760 | DM]'
+- from: review
+  to: ', Ryu,'
+  count: 1
+  headers:
+  - '[u1515 | 02:18:30.390-02:18:32.100 | DM]'
+- from: review
+  to: . Ryu
+  count: 1
+  headers:
+  - '[u0082 | 00:08:14.430-00:08:28.080 | Ryu]'
+- from: review
+  to: Ryu,
+  count: 1
+  headers:
+  - '[u3011 | 04:09:40.680-04:09:44.070 | Ryu]'
+- from: review, but
+  to: Ryu both
+  count: 1
+  headers:
+  - '[u1561 | 02:22:06.720-02:22:12.570 | DM]'
+- from: role 20
+  to: Roll20
+  count: 1
+  headers:
+  - '[u0019 | 00:01:36.030-00:01:43.800 | DM]'
+- from: s all have
+  to: ll
+  count: 1
+  headers:
+  - '[u0513 | 00:47:23.940-00:47:28.710 | DM]'
+- from: sharp
+  to: shark,
+  count: 1
+  headers:
+  - '[u1255 | 01:56:27.540-01:56:39.330 | Ryu]'
+- from: speaker
+  to: Nerissa
+  count: 1
+  headers:
+  - '[u0004 | 00:00:18.090-00:00:18.660 | Ryu]'
+- from: spell caster
+  to: the spellcaster
+  count: 1
+  headers:
+  - '[u2228 | 03:13:52.500-03:14:02.460 | Ryu]'
+- from: spray that ' s
+  to: osprey
+  count: 1
+  headers:
+  - '[u0049 | 00:05:03.510-00:05:16.620 | Ryu]'
+- from: the Maya
+  to: Amaya
+  count: 1
+  headers:
+  - '[u0702 | 01:03:52.590-01:03:56.580 | Ryu]'
+- from: the secret
+  to: Nerissa
+  count: 1
+  headers:
+  - '[u0005 | 00:00:18.810-00:00:27.000 | Ryu]'
+- from: there gotcha
+  to: their gatza,
+  count: 1
+  headers:
+  - '[u0410 | 00:35:59.850-00:36:13.650 | Ryu]'
+- from: to you
+  to: too
+  count: 1
+  headers:
+  - '[u0413 | 00:36:33.660-00:36:49.860 | Ryu]'
+- from: toggle revisited
+  to: Taelgar Revisited,
+  count: 1
+  headers:
+  - '[u0030 | 00:02:41.700-00:02:44.160 | Ryu]'
+- from: top notch top novel
+  to: topknot;
+  count: 1
+  headers:
+  - '[u0051 | 00:05:23.910-00:05:34.260 | Ryu]'
+- from: towards
+  to: too,
+  count: 1
+  headers:
+  - '[u1255 | 01:56:27.540-01:56:39.330 | Ryu]'
+- from: truck
+  to: Trok
+  count: 1
+  headers:
+  - '[u0413 | 00:36:33.660-00:36:49.860 | Ryu]'
+- from: was zero into the truck
+  to: with Wazir and Trok
+  count: 1
+  headers:
+  - '[u0422 | 00:37:47.190-00:37:58.530 | Ryu]'
+- from: were remembered from
+  to: would remember
+  count: 1
+  headers:
+  - '[u0034 | 00:03:11.520-00:03:22.680 | Ryu]'
+- from: what was some john
+  to: John
+  count: 1
+  headers:
+  - '[u0422 | 00:37:47.190-00:37:58.530 | Ryu]'
+- from: where is
+  to: ;
+  count: 1
+  headers:
+  - '[u1366 | 02:06:31.290-02:06:39.900 | DM]'
+- from: wiener
+  to: swimmer
+  count: 1
+  headers:
+  - '[u2018 | 02:55:24.030-02:55:24.960 | DM]'
+- from: you,
+  to: him
+  count: 1
+  headers:
+  - '[u0051 | 00:05:23.910-00:05:34.260 | Ryu]'
+repeatedReplacements:
+- from: marissa
+  to: Nerissa
+  count: 19
+  headers:
+  - '[u0005 | 00:00:18.810-00:00:27.000 | Ryu]'
+  - '[u0019 | 00:01:36.030-00:01:43.800 | DM]'
+  - '[u0283 | 00:25:13.440-00:25:13.950 | Unknown]'
+  - '[u0390 | 00:34:08.550-00:34:09.540 | Ander]'
+  - '[u0530 | 00:49:07.920-00:49:18.930 | Nerissa]'
+  - '[u0893 | 01:21:51.150-01:21:54.720 | Ryu]'
+  - '[u1430 | 02:11:58.920-02:12:01.020 | DM]'
+  - '[u1587 | 02:24:24.360-02:24:29.940 | DM]'
+  - '[u1865 | 02:44:49.170-02:44:49.890 | DM]'
+  - '[u1958 | 02:51:05.850-02:51:06.990 | DM]'
+  - '[u2029 | 02:56:33.720-02:56:42.990 | DM]'
+  - '[u2211 | 03:12:09.450-03:12:10.950 | DM]'
+  - '[u2216 | 03:12:48.900-03:12:52.050 | DM]'
+  - '[u2766 | 03:52:06.270-03:52:08.670 | Ryu]'
+  - '[u2777 | 03:52:44.820-03:52:53.100 | DM]'
+  - '[u2824 | 03:56:09.840-03:56:17.280 | DM]'
+  - '[u2881 | 03:59:59.550-04:00:02.010 | Ryu]'
+  - '[u2921 | 04:02:24.180-04:02:29.340 | DM]'
+  - '[u2949 | 04:04:18.990-04:04:20.490 | DM]'
+- from: review
+  to: Ryu
+  count: 16
+  headers:
+  - '[u0019 | 00:01:36.030-00:01:43.800 | DM]'
+  - '[u0184 | 00:17:16.590-00:17:20.490 | DM]'
+  - '[u0329 | 00:28:53.880-00:29:04.920 | Ryu]'
+  - '[u0475 | 00:43:52.830-00:44:03.990 | Ryu]'
+  - '[u0507 | 00:46:42.180-00:46:51.330 | Ryu]'
+  - '[u0523 | 00:48:33.120-00:48:39.450 | DM]'
+  - '[u0764 | 01:09:47.910-01:09:53.070 | Ryu]'
+  - '[u0865 | 01:19:50.490-01:19:57.030 | Ryu]'
+  - '[u1046 | 01:39:23.670-01:39:28.230 | Ryu]'
+  - '[u1957 | 02:50:53.190-02:51:02.970 | DM]'
+  - '[u1959 | 02:51:07.560-02:51:11.850 | Ander]'
+  - '[u2210 | 03:12:06.960-03:12:08.430 | DM]'
+  - '[u2502 | 03:33:17.520-03:33:19.350 | Ryu]'
+  - '[u3018 | 04:10:17.940-04:10:21.120 | Nerissa]'
+  - '[u3169 | 04:22:39.990-04:22:48.300 | Nerissa]'
+- from: reuse
+  to: Ryu
+  count: 13
+  headers:
+  - '[u0042 | 00:04:08.910-00:04:14.970 | Ryu]'
+  - '[u0047 | 00:04:46.800-00:04:57.000 | Ryu]'
+  - '[u0050 | 00:05:18.180-00:05:22.620 | Ryu]'
+  - '[u0325 | 00:28:18.180-00:28:23.760 | Ryu]'
+  - '[u0326 | 00:28:24.330-00:28:30.990 | Ryu]'
+  - '[u0327 | 00:28:31.590-00:28:44.310 | Ryu]'
+  - '[u0329 | 00:28:53.880-00:29:04.920 | Ryu]'
+  - '[u0358 | 00:31:05.280-00:31:11.430 | Nerissa]'
+  - '[u0456 | 00:40:48.420-00:41:02.070 | DM]'
+  - '[u0590 | 00:54:19.980-00:54:22.620 | Ryu]'
+  - '[u0674 | 01:01:43.800-01:01:53.700 | Ryu]'
+  - '[u1861 | 02:44:23.070-02:44:29.250 | DM]'
+  - '[u1986 | 02:52:38.850-02:52:45.390 | Nerissa]'
+- from: json
+  to: Jaeson
+  count: 12
+  headers:
+  - '[u0185 | 00:17:21.690-00:17:32.040 | DM]'
+  - '[u0186 | 00:17:33.330-00:17:35.820 | Ryu]'
+  - '[u0236 | 00:21:14.550-00:21:18.450 | Ryu]'
+  - '[u0242 | 00:21:55.200-00:22:01.050 | Ryu]'
+  - '[u0261 | 00:23:25.290-00:23:27.750 | Ryu]'
+  - '[u0271 | 00:24:00.690-00:24:08.790 | Ryu]'
+  - '[u0313 | 00:27:03.690-00:27:13.680 | Ryu]'
+  - '[u0316 | 00:27:22.230-00:27:25.680 | Ryu]'
+  - '[u0402 | 00:35:14.940-00:35:18.510 | Ryu]'
+  - '[u0404 | 00:35:28.350-00:35:32.460 | Ryu]'
+  - '[u0413 | 00:36:33.660-00:36:49.860 | Ryu]'
+- from: Rio
+  to: Ryu
+  count: 9
+  headers:
+  - '[u0024 | 00:02:12.690-00:02:16.680 | DM]'
+  - '[u0398 | 00:34:49.980-00:34:54.720 | Nerissa]'
+  - '[u0523 | 00:48:33.120-00:48:39.450 | DM]'
+  - '[u0532 | 00:49:23.310-00:49:29.130 | Ryu]'
+  - '[u0724 | 01:06:11.340-01:06:24.090 | Ryu]'
+  - '[u0766 | 01:09:54.750-01:10:01.920 | Ryu]'
+  - '[u1766 | 02:37:30.630-02:37:31.260 | DM]'
+  - '[u1772 | 02:37:59.190-02:38:02.490 | DM]'
+  - '[u2800 | 03:54:17.250-03:54:19.860 | DM]'
+- from: i
+  to: I
+  count: 8
+  headers:
+  - '[u0422 | 00:37:47.190-00:37:58.530 | Ryu]'
+  - '[u0708 | 01:04:30.360-01:04:33.390 | Ryu]'
+  - '[u0724 | 01:06:11.340-01:06:24.090 | Ryu]'
+  - '[u1367 | 02:06:40.380-02:06:42.450 | Ryu]'
+  - '[u2228 | 03:13:52.500-03:14:02.460 | Ryu]'
+  - '[u2921 | 04:02:24.180-04:02:29.340 | DM]'
+  - '[u3161 | 04:22:10.350-04:22:14.910 | DM]'
+- from: Andrew
+  to: Ander
+  count: 5
+  headers:
+  - '[u0034 | 00:03:11.520-00:03:22.680 | Ryu]'
+  - '[u0054 | 00:05:52.920-00:05:55.980 | Ryu]'
+  - '[u0055 | 00:05:58.140-00:06:00.300 | Ander]'
+  - '[u0071 | 00:07:31.080-00:07:33.240 | Ryu]'
+  - '[u2665 | 03:45:10.800-03:45:11.940 | DM]'
+- from: Review
+  to: Ryu
+  count: 4
+  headers:
+  - '[u0038 | 00:03:31.500-00:03:38.790 | Ryu]'
+  - '[u0544 | 00:50:00.240-00:50:04.950 | Ryu]'
+  - '[u0893 | 01:21:51.150-01:21:54.720 | Ryu]'
+  - '[u1580 | 02:23:51.750-02:23:53.580 | DM]'
+- from: and are
+  to: Ander
+  count: 3
+  headers:
+  - '[u0016 | 00:01:09.000-00:01:17.280 | DM]'
+  - '[u0419 | 00:37:29.460-00:37:32.790 | Nerissa]'
+  - '[u1050 | 01:39:40.650-01:39:56.100 | Ryu]'
+- from: real
+  to: Ryu
+  count: 3
+  headers:
+  - '[u0025 | 00:02:20.670-00:02:27.510 | DM]'
+  - '[u2023 | 02:55:40.739-02:55:42.120 | DM]'
+  - '[u2220 | 03:13:03.060-03:13:07.710 | DM]'
+- from: ''' s'
+  to: is
+  count: 2
+  headers:
+  - '[u1255 | 01:56:27.540-01:56:39.330 | Ryu]'
+- from: ','
+  to: .
+  count: 2
+  headers:
+  - '[u0702 | 01:03:52.590-01:03:56.580 | Ryu]'
+  - '[u3161 | 04:22:10.350-04:22:14.910 | DM]'
+- from: Gaza
+  to: gatza
+  count: 2
+  headers:
+  - '[u0104 | 00:10:16.470-00:10:18.000 | Ryu]'
+  - '[u0129 | 00:12:13.980-00:12:24.390 | Ryu]'
+- from: blue
+  to: Blu
+  count: 2
+  headers:
+  - '[u0596 | 00:55:12.750-00:55:29.520 | Ryu]'
+  - '[u1050 | 01:39:40.650-01:39:56.100 | Ryu]'
+- from: escrow rola
+  to: Eskorola
+  count: 2
+  headers:
+  - '[u0222 | 00:20:11.040-00:20:12.630 | Ryu]'
+  - '[u0229 | 00:20:35.790-00:20:40.380 | Ryu]'
+- from: godson
+  to: gatza
+  count: 2
+  headers:
+  - '[u0203 | 00:18:55.680-00:18:58.020 | DM]'
+  - '[u0215 | 00:19:42.510-00:19:44.010 | DM]'
+- from: it ' s all
+  to: ', Itzal'
+  count: 2
+  headers:
+  - '[u0515 | 00:47:32.040-00:47:34.710 | Ryu]'
+  - '[u0623 | 00:57:26.250-00:57:27.750 | Ryu]'
+- from: it ' s all
+  to: Itzal,
+  count: 2
+  headers:
+  - '[u0596 | 00:55:12.750-00:55:29.520 | Ryu]'
+  - '[u0702 | 01:03:52.590-01:03:56.580 | Ryu]'
+- from: marissa
+  to: ', Nerissa'
+  count: 2
+  headers:
+  - '[u0001 | 00:00:03.540-00:00:06.060 | Ryu]'
+  - '[u2880 | 03:59:58.290-03:59:59.160 | Ander]'
+unresolvedPhrases: []

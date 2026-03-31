@@ -1,0 +1,59 @@
+{
+  "totalDurationSeconds": 10450.232,
+  "speakers": [
+    {
+      "transcriptIdentifier": "Kaleho",
+      "name": "John Leeker",
+      "gameRole": "Kaleho",
+      "segmentCount": 248,
+      "durationSeconds": 736.83,
+      "fraction": 0.0705,
+      "wordCount": 2145
+    },
+    {
+      "transcriptIdentifier": "Ryu",
+      "name": "David Kong",
+      "gameRole": "Ryu",
+      "segmentCount": 539,
+      "durationSeconds": 1405.68,
+      "fraction": 0.1345,
+      "wordCount": 5258
+    },
+    {
+      "transcriptIdentifier": "Tim Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 1517,
+      "durationSeconds": 5336.34,
+      "fraction": 0.5106,
+      "wordCount": 15487
+    },
+    {
+      "transcriptIdentifier": "Trok",
+      "name": "Eric Rosenbaum",
+      "gameRole": "Trok",
+      "segmentCount": 429,
+      "durationSeconds": 875.7,
+      "fraction": 0.0838,
+      "wordCount": 2936
+    },
+    {
+      "transcriptIdentifier": "Unknown",
+      "name": null,
+      "gameRole": "Unknown",
+      "segmentCount": 140,
+      "durationSeconds": 82.29,
+      "fraction": 0.0079,
+      "wordCount": 229
+    },
+    {
+      "transcriptIdentifier": "Wazir",
+      "name": "Mike Sackton",
+      "gameRole": "Wazir",
+      "segmentCount": 724,
+      "durationSeconds": 2013.392,
+      "fraction": 0.1927,
+      "wordCount": 6260
+    }
+  ]
+}

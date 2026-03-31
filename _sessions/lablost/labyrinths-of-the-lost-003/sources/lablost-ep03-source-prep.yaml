@@ -1,0 +1,18 @@
+# Session 3 is listed in LL - Player Background, but no session note was found in the vault.
+sourcePath: /Users/tim/Documents/RPGs/sessions/recordings/lab-lost/Ep3/GMT20231211-000541_Recording.transcript.vtt
+sourceType: transcript
+outputDir: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost"
+
+campaign: Labyrinths of the Lost
+sessionNumber: 3
+realWorldDate: 2023-12-10
+drStart:
+drEnd:
+drStartTime:
+drEndTime:
+
+participantsPath: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/lablost-participants.yaml"
+
+transcriptFormat: auto
+narrativeUnit: sentence
+minSpeakerFraction: 0.01

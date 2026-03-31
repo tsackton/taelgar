@@ -1,0 +1,903 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-beat-facts.json",
+  "session": {
+    "campaign": "Mawar Adventures",
+    "sessionNumber": 5,
+    "realWorldDate": "2026-03-10",
+    "drStart": null,
+    "drEnd": null
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1749-05-26",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "locationRefs": [
+        "Leviathan Inn"
+      ],
+      "npcRefs": [
+        "Raina",
+        "Yaz",
+        "Ovina"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Trok's shrine sketch"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "At the Leviathan Inn, Raina tells the party that the ocean's song has returned and begs them to recover a trapped fragment of it from a hidden shrine near Hamri.",
+        "The party questions Raina, consults Yaz and Ovina, and learns that the vision likely points to a long-buried shrine of Guzu in the sea caves of Hamri's North Cliff."
+      ],
+      "sourceLongSummaries": [
+        "The session opens with a broad recap of Hamri's recent history before Wazir gathers Ryu, Trok, Nerissa, and Ander at the Leviathan Inn to hear out a storm-battered sailor named Raina. She explains that she has heard the ocean speak in visions since childhood, that the songs fell silent years ago after a nightmare of tearing and loss, and that only recently they returned with a plea about something trapped under rock yet still resting on the waves. The voice showed her a shrine of Guzu the Mariner and begged for a fragment of song to be restored, so she has come to Hamri asking for help from people she has been told can be trusted.",
+        "Still at the Leviathan, the group presses Raina for more detail and works from Trok's sketch of the place shown in her vision. Yaz recognizes the picture as matching an old shrine of Guzu the Mariner once built in a sea cave on the North Cliff, while Ovina, an old dwarf who has been in Hamri for more than a century, remembers the cave and confirms it collapsed long ago near the last tower in the line. With their clues aligned around a buried coastal shrine and a likely low-tide approach, the party settles on taking Ryu's boat out in the morning to search the site directly."
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1749-05-27",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-003",
+        "beat-004"
+      ],
+      "locationRefs": [
+        "Leviathan Inn",
+        "North Cliff sea cave outside Hamri",
+        "buried sea cave shrine of Guzu"
+      ],
+      "npcRefs": [
+        "Raina"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "shattered reinforced door"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The next morning the party sails to the North Cliff, finds the old collapse, and confirms that a blasted opening now leads back into the buried shrine cave.",
+        "Swimming through the breach, the party finds the blue-lit beach and ruined outer temple of Guzu's shrine, spots idle water creatures, and advances toward the building."
+      ],
+      "sourceLongSummaries": [
+        "After sleeping on the plan, the group meets the next morning, takes breakfast, and boards Ryu's small boat with Raina along for the ride. They follow the North Cliff shoreline to the place Ovina described, use scouting and shared checks to study the rockfall, and realize that the cave has recently been punched open again by some force far cleaner than a natural collapse. With Ryu linked through Turk's senses and Wazir's mechanical fish scouting alongside, they confirm there is still a navigable way into the old shrine beyond the rubble.",
+        "The party dives through the newly blasted underwater opening and surfaces inside a hidden sea cave whose interior matches Raina's vision: a warm blue glow, a strip of sandy beach, and a white shrine building on the shore. They quickly realize the collapse was not the only recent disturbance, because the breach and the shattered doorway deeper inside both look as if magic blasted straight through stone and timber. A cluster of watery, frog-like shrine creatures loiters around the beach and temple, and after sizing up the scene the party presses inward instead of retreating for a longer plan."
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1749-05-27",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-005",
+        "beat-006"
+      ],
+      "locationRefs": [
+        "Guzu shrine inner temple",
+        "hidden chamber of Guzu's shrine"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "prayer book",
+        "saints' story book",
+        "prayer ledger",
+        "song fragment crystal"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Inside the shrine, the party uncovers books and offerings, finds the ancestor prayer that opens a hidden stone passage, and reveals a trapped water elemental clutching the crystal fragment.",
+        "The trapped elemental offers to spare the party if they free it and let it take the crystal to Gazankoa, but the blue light's binding effect and the creature's threats convince the group to fight instead."
+      ],
+      "sourceLongSummaries": [
+        "With the outer approach secured for the moment, the party searches the main temple and the side chapel in earnest. They study the statue of Guzu, the glowing altar, scattered offerings, and a damaged stone chest that still preserves a prayer book, a saintly story collection, and a ledger of prayers left at the shrine. The Mawarin inscription about kneeling and praying Guzu's ancestor prayer leads Nerissa to the right text, and when she sings it the hidden slab door vanishes to expose a deeper chamber. Inside waits a large water elemental figure pinned by the shrine's blue light and holding the crystal fragment the party came to recover.",
+        "Before steel is drawn, the party talks with the elemental in the hidden chamber and learns how badly things have gone inside the shrine. The creature explains that it forced its way in, seized the crystal fragment, and triggered the blue light bound to the altar, which now prevents its teleportation and keeps it trapped despite the opened passage. It offers to return to the plane of water and even let the party present the crystal to Gazankoa, but the more it talks the clearer it becomes that it will simply keep hunting the shard and anyone carrying it. By the end of the exchange, the party settles on bottling the creature up inside the shrine and killing it rather than trusting any bargain."
+      ]
+    },
+    {
+      "blockId": "timeline-004",
+      "dateStart": "1749-05-27",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-007",
+        "beat-008",
+        "beat-009",
+        "beat-010"
+      ],
+      "locationRefs": [
+        "Guzu shrine inner temple",
+        "Guzu shrine sea cave",
+        "Leviathan Inn"
+      ],
+      "npcRefs": [
+        "Raina"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "song fragment crystal"
+      ],
+      "combatBeatIds": [
+        "beat-007",
+        "beat-008",
+        "beat-009",
+        "beat-010"
+      ],
+      "sourceShortSummaries": [
+        "The elemental opens the fight with a brutal jet of water, hurling the party back, dropping Geo, and turning the doorway ambush into a hard scramble for control.",
+        "The shrine's blue light begins to work against the elemental, and Nerissa's magic drives it back into the chamber while the party piles on damage.",
+        "Desperate and badly hurt, the elemental fights through grapples and minion pressure, turns to mist to flee the chamber, and nearly slips away while the party holds the beach-temple choke point.",
+        "The party kills the fleeing elemental and the last shrine creatures, recovers the crystal, returns it to Raina, and learns the fragment belongs in the merfolk city of Omni."
+      ],
+      "sourceLongSummaries": [
+        "When the parley breaks down, initiative starts and the trapped elemental wastes no time, lashing the shrine interior with a massive jet of frigid water. The opening blast batters Trok, Ryu, Ander, Geo, and the nearby shrine creatures, immediately showing how dangerous the foe is even while confined by the blue light. Ryu recovers enough to answer with thrown trident strikes and Hunter's Mark, Ander fights his way back into the doorway, and the party's neat plan to contain the creature turns into a messy opening brawl in the temple.",
+        "As the melee settles into its middle phase, the same blue glow binding the elemental starts actively helping the party. Nerissa's dissonant whispers bite especially hard under the altar's influence and force the elemental backward into the chamber, where opportunity attacks from Trok and Wazir leave it staggering and bloodied. The lesser shrine creatures rush the stairs and doorway, but the party keeps pressure on the main foe and turns the cramped temple layout into an advantage instead of a trap.",
+        "The battle stretches on with more boiling water, lightning-laced whip attacks, and close-quarters grappling around the altar and stairs. The lesser creatures keep harrying Ryu and Ander while Nerissa and the others carve away at the elemental's remaining strength, and eventually the main foe abandons a straight fight for a desperate escape. It dissolves into watery mist and moves through the wall, trying to reposition and survive, but the party keeps enough control of the shrine entrance and beach approach to prevent a clean withdrawal.",
+        "The final exchanges of combat end with the elemental deflating into a dying swirl of water and the last shrine creatures cut down before they can swim off after Raina. In the quiet that follows, Nerissa hears the crystal sing with gratitude and longing, and the party confirms there is little else of value left in the ruined shrine beyond the offerings Trok already gathered. They swim back out to Raina, hand over the recovered fragment, and all of them share a vision of an undersea home being rebuilt among kelp and fishfolk. Raina recognizes the destination as the merfolk city of Omni somewhere off the coast of Vaporia, takes responsibility for carrying the crystal onward, and returns with the party to the Leviathan Inn to prepare for departure the next morning."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Recap and Raina's Plea",
+      "beatIds": [
+        "beat-001"
+      ],
+      "transcriptRange": {
+        "startUid": "u0001",
+        "endUid": "u0246"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0246"
+        }
+      ],
+      "dateStart": "1749-05-26",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Leviathan Inn"
+      ],
+      "npcRefs": [
+        "Raina"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "At the Leviathan Inn, Raina tells the party that the ocean's song has returned and begs them to recover a trapped fragment of it from a hidden shrine near Hamri."
+      ],
+      "sourceLongSummaries": [
+        "The session opens with a broad recap of Hamri's recent history before Wazir gathers Ryu, Trok, Nerissa, and Ander at the Leviathan Inn to hear out a storm-battered sailor named Raina. She explains that she has heard the ocean speak in visions since childhood, that the songs fell silent years ago after a nightmare of tearing and loss, and that only recently they returned with a plea about something trapped under rock yet still resting on the waves. The voice showed her a shrine of Guzu the Mariner and begged for a fragment of song to be restored, so she has come to Hamri asking for help from people she has been told can be trusted."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Questions Around the Leviathan",
+      "beatIds": [
+        "beat-002"
+      ],
+      "transcriptRange": {
+        "startUid": "u0247",
+        "endUid": "u0599"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0247",
+          "endUid": "u0599"
+        }
+      ],
+      "dateStart": "1749-05-26",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Leviathan Inn"
+      ],
+      "npcRefs": [
+        "Raina",
+        "Yaz",
+        "Ovina"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Trok's shrine sketch"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party questions Raina, consults Yaz and Ovina, and learns that the vision likely points to a long-buried shrine of Guzu in the sea caves of Hamri's North Cliff."
+      ],
+      "sourceLongSummaries": [
+        "Still at the Leviathan, the group presses Raina for more detail and works from Trok's sketch of the place shown in her vision. Yaz recognizes the picture as matching an old shrine of Guzu the Mariner once built in a sea cave on the North Cliff, while Ovina, an old dwarf who has been in Hamri for more than a century, remembers the cave and confirms it collapsed long ago near the last tower in the line. With their clues aligned around a buried coastal shrine and a likely low-tide approach, the party settles on taking Ryu's boat out in the morning to search the site directly."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Finding the Buried Shrine",
+      "beatIds": [
+        "beat-003"
+      ],
+      "transcriptRange": {
+        "startUid": "u0600",
+        "endUid": "u0777"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0600",
+          "endUid": "u0777"
+        }
+      ],
+      "dateStart": "1749-05-27",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Leviathan Inn",
+        "North Cliff sea cave outside Hamri"
+      ],
+      "npcRefs": [
+        "Raina"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The next morning the party sails to the North Cliff, finds the old collapse, and confirms that a blasted opening now leads back into the buried shrine cave."
+      ],
+      "sourceLongSummaries": [
+        "After sleeping on the plan, the group meets the next morning, takes breakfast, and boards Ryu's small boat with Raina along for the ride. They follow the North Cliff shoreline to the place Ovina described, use scouting and shared checks to study the rockfall, and realize that the cave has recently been punched open again by some force far cleaner than a natural collapse. With Ryu linked through Turk's senses and Wazir's mechanical fish scouting alongside, they confirm there is still a navigable way into the old shrine beyond the rubble."
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Into the Sea Cave",
+      "beatIds": [
+        "beat-004"
+      ],
+      "transcriptRange": {
+        "startUid": "u0778",
+        "endUid": "u1037"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u0778",
+          "endUid": "u1037"
+        }
+      ],
+      "dateStart": "1749-05-27",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "buried sea cave shrine of Guzu"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "shattered reinforced door"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Swimming through the breach, the party finds the blue-lit beach and ruined outer temple of Guzu's shrine, spots idle water creatures, and advances toward the building."
+      ],
+      "sourceLongSummaries": [
+        "The party dives through the newly blasted underwater opening and surfaces inside a hidden sea cave whose interior matches Raina's vision: a warm blue glow, a strip of sandy beach, and a white shrine building on the shore. They quickly realize the collapse was not the only recent disturbance, because the breach and the shattered doorway deeper inside both look as if magic blasted straight through stone and timber. A cluster of watery, frog-like shrine creatures loiters around the beach and temple, and after sizing up the scene the party presses inward instead of retreating for a longer plan."
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "Secrets of Guzu's Shrine",
+      "beatIds": [
+        "beat-005"
+      ],
+      "transcriptRange": {
+        "startUid": "u1038",
+        "endUid": "u1404"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u1038",
+          "endUid": "u1404"
+        }
+      ],
+      "dateStart": "1749-05-27",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Guzu shrine inner temple"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "prayer book",
+        "saints' story book",
+        "prayer ledger",
+        "song fragment crystal"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Inside the shrine, the party uncovers books and offerings, finds the ancestor prayer that opens a hidden stone passage, and reveals a trapped water elemental clutching the crystal fragment."
+      ],
+      "sourceLongSummaries": [
+        "With the outer approach secured for the moment, the party searches the main temple and the side chapel in earnest. They study the statue of Guzu, the glowing altar, scattered offerings, and a damaged stone chest that still preserves a prayer book, a saintly story collection, and a ledger of prayers left at the shrine. The Mawarin inscription about kneeling and praying Guzu's ancestor prayer leads Nerissa to the right text, and when she sings it the hidden slab door vanishes to expose a deeper chamber. Inside waits a large water elemental figure pinned by the shrine's blue light and holding the crystal fragment the party came to recover."
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "beat",
+      "title": "A Bad Deal Offered",
+      "beatIds": [
+        "beat-006"
+      ],
+      "transcriptRange": {
+        "startUid": "u1405",
+        "endUid": "u1612"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u1405",
+          "endUid": "u1612"
+        }
+      ],
+      "dateStart": "1749-05-27",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "hidden chamber of Guzu's shrine"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "song fragment crystal"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The trapped elemental offers to spare the party if they free it and let it take the crystal to Gazankoa, but the blue light's binding effect and the creature's threats convince the group to fight instead."
+      ],
+      "sourceLongSummaries": [
+        "Before steel is drawn, the party talks with the elemental in the hidden chamber and learns how badly things have gone inside the shrine. The creature explains that it forced its way in, seized the crystal fragment, and triggered the blue light bound to the altar, which now prevents its teleportation and keeps it trapped despite the opened passage. It offers to return to the plane of water and even let the party present the crystal to Gazankoa, but the more it talks the clearer it becomes that it will simply keep hunting the shard and anyone carrying it. By the end of the exchange, the party settles on bottling the creature up inside the shrine and killing it rather than trusting any bargain."
+      ]
+    },
+    {
+      "blockId": "recap-007",
+      "kind": "combat",
+      "title": "Jet of Water to The Song Fragment Returns",
+      "beatIds": [
+        "beat-007",
+        "beat-008",
+        "beat-009",
+        "beat-010"
+      ],
+      "transcriptRange": {
+        "startUid": "u1613",
+        "endUid": "u2755"
+      },
+      "transcriptRanges": [
+        {
+          "startUid": "u1613",
+          "endUid": "u1908"
+        },
+        {
+          "startUid": "u1909",
+          "endUid": "u2171"
+        },
+        {
+          "startUid": "u2172",
+          "endUid": "u2445"
+        },
+        {
+          "startUid": "u2446",
+          "endUid": "u2755"
+        }
+      ],
+      "dateStart": "1749-05-27",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Guzu shrine inner temple",
+        "Guzu shrine sea cave",
+        "Leviathan Inn"
+      ],
+      "npcRefs": [
+        "Raina"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "song fragment crystal"
+      ],
+      "combatEnemyRefs": [
+        "trapped water elemental",
+        "shrine water creatures",
+        "remaining shrine water creatures"
+      ],
+      "sourceShortSummaries": [
+        "The elemental opens the fight with a brutal jet of water, hurling the party back, dropping Geo, and turning the doorway ambush into a hard scramble for control.",
+        "The shrine's blue light begins to work against the elemental, and Nerissa's magic drives it back into the chamber while the party piles on damage.",
+        "Desperate and badly hurt, the elemental fights through grapples and minion pressure, turns to mist to flee the chamber, and nearly slips away while the party holds the beach-temple choke point.",
+        "The party kills the fleeing elemental and the last shrine creatures, recovers the crystal, returns it to Raina, and learns the fragment belongs in the merfolk city of Omni."
+      ],
+      "sourceLongSummaries": [
+        "When the parley breaks down, initiative starts and the trapped elemental wastes no time, lashing the shrine interior with a massive jet of frigid water. The opening blast batters Trok, Ryu, Ander, Geo, and the nearby shrine creatures, immediately showing how dangerous the foe is even while confined by the blue light. Ryu recovers enough to answer with thrown trident strikes and Hunter's Mark, Ander fights his way back into the doorway, and the party's neat plan to contain the creature turns into a messy opening brawl in the temple.",
+        "As the melee settles into its middle phase, the same blue glow binding the elemental starts actively helping the party. Nerissa's dissonant whispers bite especially hard under the altar's influence and force the elemental backward into the chamber, where opportunity attacks from Trok and Wazir leave it staggering and bloodied. The lesser shrine creatures rush the stairs and doorway, but the party keeps pressure on the main foe and turns the cramped temple layout into an advantage instead of a trap.",
+        "The battle stretches on with more boiling water, lightning-laced whip attacks, and close-quarters grappling around the altar and stairs. The lesser creatures keep harrying Ryu and Ander while Nerissa and the others carve away at the elemental's remaining strength, and eventually the main foe abandons a straight fight for a desperate escape. It dissolves into watery mist and moves through the wall, trying to reposition and survive, but the party keeps enough control of the shrine entrance and beach approach to prevent a clean withdrawal.",
+        "The final exchanges of combat end with the elemental deflating into a dying swirl of water and the last shrine creatures cut down before they can swim off after Raina. In the quiet that follows, Nerissa hears the crystal sing with gratitude and longing, and the party confirms there is little else of value left in the ruined shrine beyond the offerings Trok already gathered. They swim back out to Raina, hand over the recovered fragment, and all of them share a vision of an undersea home being rebuilt among kelp and fishfolk. Raina recognizes the destination as the merfolk city of Omni somewhere off the coast of Vaporia, takes responsibility for carrying the crystal onward, and returns with the party to the Leviathan Inn to prepare for departure the next morning."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Raina",
+        "beatIds": [
+          "beat-001",
+          "beat-002",
+          "beat-003",
+          "beat-010"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Yaz",
+        "beatIds": [
+          "beat-002"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Ovina",
+        "beatIds": [
+          "beat-002"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-007",
+        "beatIds": [
+          "beat-007",
+          "beat-008",
+          "beat-009",
+          "beat-010"
+        ],
+        "enemyRefs": [
+          "trapped water elemental",
+          "shrine water creatures",
+          "remaining shrine water creatures"
+        ],
+        "dateStart": "1749-05-27",
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Leviathan Inn",
+        "beatIds": [
+          "beat-001",
+          "beat-002",
+          "beat-003",
+          "beat-010"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "North Cliff sea cave outside Hamri",
+        "beatIds": [
+          "beat-003"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "buried sea cave shrine of Guzu",
+        "beatIds": [
+          "beat-004"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Guzu shrine inner temple",
+        "beatIds": [
+          "beat-005",
+          "beat-007",
+          "beat-008",
+          "beat-009"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "hidden chamber of Guzu's shrine",
+        "beatIds": [
+          "beat-006"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Guzu shrine sea cave",
+        "beatIds": [
+          "beat-010"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Raina",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "sailor carrying the ocean's plea",
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-003",
+            "beat-010"
+          ],
+          "history": [
+            {
+              "location": "Leviathan Inn",
+              "dateStart": "1749-05-26",
+              "dateEnd": null
+            },
+            {
+              "location": "Leviathan Inn -> North Cliff sea cave outside Hamri",
+              "dateStart": "1749-05-27",
+              "dateEnd": null
+            },
+            {
+              "location": "Guzu shrine sea cave -> Leviathan Inn",
+              "dateStart": "1749-05-27",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Yaz",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "elderly local source on Hamri's older shrines",
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Leviathan Inn",
+              "dateStart": "1749-05-26",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Ovina",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "long-lived dwarf blacksmith with old harbor memory",
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Leviathan Inn",
+              "dateStart": "1749-05-26",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Leviathan Inn",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "common room gathering as Wazir hears out a newly arrived sailor",
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-003",
+            "beat-010"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-26",
+              "dateEnd": "1749-05-27",
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1749-05-27",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "North Cliff sea cave outside Hamri",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "morning boat trip and shoreline search for the collapsed Guzu shrine",
+          "beatIds": [
+            "beat-003"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-27",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "buried sea cave shrine of Guzu",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "sandy inner beach and ruined outer temple beyond the blasted underwater passage",
+          "beatIds": [
+            "beat-004"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-27",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Guzu shrine inner temple",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "main sanctuary, side chapel, and newly revealed hidden chamber",
+          "beatIds": [
+            "beat-005",
+            "beat-007",
+            "beat-008",
+            "beat-009"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-27",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "hidden chamber of Guzu's shrine",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "threshold between the glowing altar room and the elemental's prison chamber",
+          "beatIds": [
+            "beat-006"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-27",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Guzu shrine sea cave",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "aftermath at the shrine gives way to the crystal handoff at Raina's boat and a return to town",
+          "beatIds": [
+            "beat-010"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-27",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Trok's shrine sketch",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Leviathan Inn",
+              "dateStart": "1749-05-26",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "shattered reinforced door",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "buried sea cave shrine of Guzu",
+              "dateStart": "1749-05-27",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "prayer book",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-005"
+          ],
+          "history": [
+            {
+              "location": "Guzu shrine inner temple",
+              "dateStart": "1749-05-27",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "saints' story book",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-005"
+          ],
+          "history": [
+            {
+              "location": "Guzu shrine inner temple",
+              "dateStart": "1749-05-27",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "prayer ledger",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-005"
+          ],
+          "history": [
+            {
+              "location": "Guzu shrine inner temple",
+              "dateStart": "1749-05-27",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "song fragment crystal",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-005",
+            "beat-006",
+            "beat-010"
+          ],
+          "history": [
+            {
+              "location": "Guzu shrine inner temple",
+              "dateStart": "1749-05-27",
+              "dateEnd": null
+            },
+            {
+              "location": "hidden chamber of Guzu's shrine",
+              "dateStart": "1749-05-27",
+              "dateEnd": null
+            },
+            {
+              "location": "Guzu shrine sea cave -> Leviathan Inn",
+              "dateStart": "1749-05-27",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Caleb",
+          "contextHint": "Raina's grandfather"
+        },
+        {
+          "name": "Kaiso",
+          "contextHint": "Chardonian scholar recently staying in Hamri"
+        },
+        {
+          "name": "Guzu the Mariner",
+          "contextHint": "Mawarin saint seen in Raina's visions"
+        },
+        {
+          "name": "Gazankoa",
+          "contextHint": "power invoked by the trapped elemental's minion"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Ocean Watchers",
+          "contextHint": null
+        }
+      ],
+      "items": [
+        {
+          "name": "fragment of song",
+          "contextHint": null
+        }
+      ]
+    }
+  }
+}
