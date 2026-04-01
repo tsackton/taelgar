@@ -3,7 +3,7 @@
 ## Session Header
 
 - Title: The Fall of Grimstone
-- Tagline: in which the prisoners break Grimstone's hidden lair, survive his final experiments, and escape Perdoli Manor at dawn
+- Tagline: in which Grimstone falls and the prisoners escape
 - One-Sentence Summary: On Oct 18th and 19th, 1748, the prisoners beneath Perdoli Manor fought through the pirate bolthole, killed Grimstone in his laboratory, looted his secrets, and slipped away at dawn.
 - Campaign: Labyrinths of the Lost
 - Session Number: 3

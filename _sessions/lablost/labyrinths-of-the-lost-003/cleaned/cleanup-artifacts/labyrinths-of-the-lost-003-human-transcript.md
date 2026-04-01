@@ -1,10 +1,6 @@
 # Human-Readable Transcript
 
-**DM:** So so just to set the scene. Oh, here, let me let me get some music going. So so you are currently standing in the bedroom. a what was once, long ago like hundreds of years ago, the the master bedroom suite of this Perdoli family that built this manor. but much more recently, apparently, was occupied by pirates. and from the ghost of the pirate captain you learned that the pirates had excavated a a secret hideout underneath the manor. and this has now been taken over as Grimstone's lair. after some
-
-**Unknown:** very clever deception from
-
-**DM:** Gaudin convincing the pirate that you, in fact, were his lost love. What was her name? Petrona? He revealed that Grimstone comes up and down this trap door once a week when he goes to petrify his victims. and had been attending or encouraging, telling this ghost that he would bring news of. Yes. woman he lost never did until you pretended to be her, and he turned angrily against. yeah, that was awesome. Yes, that was a very clever bit of role playing there. So you're now staring down into this dark pit with a 10 foot ladder that drops down to a stone room below the ghost. who said he can't leave this room. He's tied here by the curse that has left him bound to this world, but angrily encouraging you to go find the betrayer who's lied and slaughter him so with that you can jump in the hole.
+**DM:** So so just to set the scene. Oh, here, let me let me get some music going. So so you are currently standing in the bedroom. a what was once, long ago like hundreds of years ago, the the master bedroom suite of this Perdoli family that built this manor. but much more recently, apparently, was occupied by pirates. and from the ghost of the pirate captain you learned that the pirates had excavated a a secret hideout underneath the manor. and this has now been taken over as Grimstone's lair. after some very clever deception from Gaudin convincing the pirate that you, in fact, were his lost love. What was her name? Petrona? He revealed that Grimstone comes up and down this trap door once a week when he goes to petrify his victims. and had been attending or encouraging, telling this ghost that he would bring news of. Yes. woman he lost never did until you pretended to be her, and he turned angrily against. yeah, that was awesome. Yes, that was a very clever bit of role playing there. So you're now staring down into this dark pit with a 10 foot ladder that drops down to a stone room below the ghost. who said he can't leave this room. He's tied here by the curse that has left him bound to this world, but angrily encouraging you to go find the betrayer who's lied and slaughter him so with that you can jump in the hole.
 
 **Gaudin:** you can retreat.
 
@@ -20,41 +16,23 @@
 
 **Dilion:** Yes.
 
-**DM:** you.
+**DM:** you. So you jumped down into the bolthole. This is the room that's there's a ladder that goes down. It drops down about 10 feet into a small square room, maybe 20 foot by 20 foot, made of stone. There is in the north wall, the the like nicely laid masonry of the wall has been smashed open. And there's just this gap. this rough hole in the wall that leads to like a circular tunnel that's been excavated in from the dirt going into the darkness. No other apparent entrances or exits from this room.
 
-**Unknown:** So you jumped down into the bolthole.
+**Loria:** can we? Investigate the room? See if there's any sort of anything that might not be obvious.
 
-**DM:** This is the room that's there's a ladder that goes down. It drops down about 10 feet into a small square room, maybe 20 foot by 20 foot, made of stone. There is in the north wall, the the like nicely laid masonry of the wall has been smashed open. And there's just this
+**DM:** Sure. Look around, spend spend a few minutes searching before you proceed. go ahead and make pick 2 of you to make either a perception or investigation. Check the lead searchers.
 
-**Unknown:** gap.
-
-**DM:** this rough hole in the wall that leads to like a circular tunnel that's been excavated in
-
-**Unknown:** from the dirt going into the darkness. No other apparent entrances or exits from this room.
-
-**Loria:** can we? Investigate the room? See if there's any sort of
-
-**Unknown:** anything that might not be obvious. Sure.
-
-**DM:** Look around, spend spend a few minutes searching before you proceed.
-
-**Unknown:** go ahead and make pick 2 of you to make either a perception or investigation. Check the lead searchers. I'm pretty perceptive, but I'm not super.
+**Unknown:** I'm pretty perceptive, but I'm not super.
 
 **Acescale:** I forgot investigation.
 
 **Unknown:** Okay. 13 for perception. or, again, for investigation.
 
-**DM:** Just get those out of the way. Now. There's there's no signs of exits from this room besides the hole that's been smashed in the wall. One thing that does seem clear is this, I mean this manor, this construction. The nicely laid masonry, was like the same style of construction as the rest of the manor that you've seen. This was probably like a a much older bolthole constructed by the original occupants of the manor and the
-
-**Unknown:** wall that's been smashed open on the north side is newer, not super new. but certainly newer.
-
-**DM:** There's evidence that this has been. This bolthole has been looted like you can see that there's a corner of the room where there's like a faded square marking, where, like a wooden chest sat for a super long time, but it's been removed
-
-**Unknown:** quite some time ago. otherwise nothing which to find here.
+**DM:** Just get those out of the way. Now. There's there's no signs of exits from this room besides the hole that's been smashed in the wall. One thing that does seem clear is this, I mean this manor, this construction. The nicely laid masonry, was like the same style of construction as the rest of the manor that you've seen. This was probably like a a much older bolthole constructed by the original occupants of the manor and the wall that's been smashed open on the north side is newer, not super new. but certainly newer. There's evidence that this has been. This bolthole has been looted like you can see that there's a corner of the room where there's like a faded square marking, where, like a wooden chest sat for a super long time, but it's been removed quite some time ago. otherwise nothing which to find here.
 
 **Gaudin:** There's still some light shining down from the room above.
 
-**Unknown:** Are you ready to move forward?
+**DM:** Are you ready to move forward?
 
 **Loria:** Think so?
 
@@ -62,17 +40,11 @@
 
 **Gaudin:** Slowly and quietly. Maybe
 
-**DM:** this is this is a narrow corridor. It's like a 5 foot wide
-
-**Unknown:** corridor. So what order are you? And are you walking in? Does the dog have like? I can't imagine mechanical dog smells all that. Well.
+**DM:** this is this is a narrow corridor. It's like a 5 foot wide corridor. So what order are you? And are you walking in? Does the dog have like? I can't imagine mechanical dog smells all that. Well.
 
 **Dilion:** Oh, cause you know how sometimes like a pit has like advantage on like I honest, I don't see it on the step blocks. I I'm I'm just trying to suggest that we want. It's not bad. No, for sure. Why, we can. We can let take a sort of lead cause Sad to say, that the mechanical dog is somewhat expendable compared to the rest of us. Sorry, sure. Alright. It's not darkvision, and yes, and I don't have darkvision. So I imagine we're also going to probably light some sort of torch if the darkness is strong enough, because, you see, there's some light coming through in this original. Yeah. So as soon as you enter this corridor that leads north.
 
-**DM:** this like 5 foot circular
-
-**Unknown:** that's been dug out of the earth.
-
-**DM:** It's pitch blackness, there's no light. The light from the trap door doesn't
+**DM:** this like 5 foot circular that's been dug out of the earth. It's pitch blackness, there's no light. The light from the trap door doesn't
 
 **Gaudin:** just illuminates the room that you're in. Ca, I have dark vision if that helps any.
 
@@ -124,59 +96,27 @@
 
 **Gaudin:** Hmm.
 
-**Dilion:** Oh, now, that's
+**Dilion:** Oh, now, that's hmm. Here we go. That's better. Forest jump
 
-**Unknown:** hmm. Here we go. That's better.
-
-**Dilion:** Forest jump
-
-**Acescale:** okay, 10 feet sharp turn. Don't know what's there?
-
-**Unknown:** Cavern down 30 feet. Don't know what's there. Correct?
-
-**Acescale:** I would. I'll turn to everyone else. Say, oh, I could. I could drink this and then fly for a few minutes? That would probably allow me to at least determine which of these we want to do next. But
-
-**Unknown:** Then I can't fly again, so I don't know.
+**Acescale:** okay, 10 feet sharp turn. Don't know what's there? Cavern down 30 feet. Don't know what's there. Correct? I would. I'll turn to everyone else. Say, oh, I could. I could drink this and then fly for a few minutes? That would probably allow me to at least determine which of these we want to do next. But Then I can't fly again, so I don't know.
 
 **Loria:** So can you see anything at the bottom of the cavern? I'll get there like yeah. was like, so
 
-**DM:** you can. I guess you can squeeze. The. The
-
-**Unknown:** funnel is pretty tight.
-
-**DM:** but Loria is pretty small, so I think you can probably squeeze past her and look down over the edge.
-
-**Unknown:** Make a perception check
-
-**DM:** and that is gonna have a because it's dim light that's oops. That was a performance check
+**DM:** you can. I guess you can squeeze. The. The funnel is pretty tight. but Loria is pretty small, so I think you can probably squeeze past her and look down over the edge. Make a perception check and that is gonna have a because it's dim light that's oops. That was a performance check
 
 **Unknown:** that the same as perception for you.
 
-**DM:** Sorry they're both minus one. Okay? And because of dim light.
-
-**Unknown:** you have minus 5 to perception checks.
-
-**DM:** I mean, it's dark, so it counts as dim light for darkvision. So minus 5. So
+**DM:** Sorry they're both minus one. Okay? And because of dim light. you have minus 5 to perception checks. I mean, it's dark, so it counts as dim light for darkvision. So minus 5. So
 
 **Unknown:** I mean.
 
-**DM:** there's a there's a cavern floor. Can't really get a good line on how big the cavern is, but it seems like you know.
+**DM:** there's a there's a cavern floor. Can't really get a good line on how big the cavern is, but it seems like you know. from the angle you're looking. It's at least another like 20 feet that extends out 20 feet. Once you reach the floor. otherwise it's hard to say like there's you don't immediately see anything moving on them down below. There's no no sources of light. There's no torches. There's nothing like glinting, reflecting. It's just dark. Looks like just a kind of flat, gray expanse view.
 
-**Unknown:** from the angle you're looking. It's at least
-
-**DM:** another like 20 feet that extends out 20 feet. Once you reach the floor. otherwise it's hard to say like there's you don't immediately see anything moving on them down below.
-
-**Unknown:** There's no
-
-**DM:** no sources of light. There's no torches. There's nothing like glinting, reflecting. It's just dark. Looks like just a kind of flat, gray expanse view.
-
-**Unknown:** Hello! Does somebody have a torch?
+**Acescale:** Hello! Does somebody have a torch?
 
 **Loria:** I do.
 
-**Unknown:** I can send Mage hand down, holding the torch.
-
-**Gaudin:** Get a little better view. So if anything's down there it will, it will. Yeah.
+**Gaudin:** I can send Mage hand down, holding the torch. Get a little better view. So if anything's down there it will, it will. Yeah.
 
 **Acescale:** I don't mind using my flight here. but maybe with a rope tied around my waist so that you can call me back if I'm swarmed by spiders, or something
 
@@ -210,7 +150,7 @@
 
 **DM:** And as you continue down the next thing you see is as you come maybe 20 feet down towards the bottom. you see. So the cavern is maybe 50 feet across from end to end. and maybe 20 feet wide from side to side. At the far end. There is a a passage, looks like a natural, like cave passage. and milling about in this like near where the entrance is. where the or where sorry where the exit from this room is. You see what look like 7 kind of shadowy creatures. shades of some kind kind of pacing back and forth great hint of like, you know, sailors' coats with high necks and like little pirate caps on their heads. They are they are ghosties, they are ghosty. I mean, they're not ghosts like the guy upstairs was, they're like better shades. But they're incorporeal. Yes, they seem not to have noticed.
 
-**Unknown:** Yeah, I will drift back up
+**Acescale:** Yeah, I will drift back up
 
 **DM:** and
 
@@ -220,9 +160,7 @@
 
 **Acescale:** do they? Do. I know enough that it wouldn't make sense to try and talk to a shade? Or is there like a
 
-**DM:** potential
-
-**Unknown:** Anybody who has Arcana or religion can roll a check?
+**DM:** potential Anybody who has Arcana or religion can roll a check?
 
 **Dilion:** Anybody has proficiency in Arcana or religion.
 
@@ -236,11 +174,7 @@
 
 **Dilion:** Poor result, a 9 total.
 
-**DM:** so so you know, I mean, okay. You know this much. You know that most incorporeal undead can understand the languages that they spoke when they were alive here, and many of them are able to communicate. Whether it makes sense to talk to them. even if they understand you is you just don't know, you know. like
-
-**Unknown:** they can probably understand you. They might be able to talk back.
-
-**DM:** What else is going on?
+**DM:** so so you know, I mean, okay. You know this much. You know that most incorporeal undead can understand the languages that they spoke when they were alive here, and many of them are able to communicate. Whether it makes sense to talk to them. even if they understand you is you just don't know, you know. like they can probably understand you. They might be able to talk back. What else is going on?
 
 **Dilion:** Yeah, obvious. Or maybe they don't want to talk. It's kind of
 
@@ -360,13 +294,7 @@
 
 **Gaudin:** not having
 
-**DM:** not like paying close attention to what's going on. Looking at this form in the dark, but as you. as you reach the bottom and come into their line of sight, it's pretty impossible you to be hiding at this moment you hear?
-
-**Unknown:** This like
-
-**DM:** kind of hoarse voice shouting.
-
-**Unknown:** Who goes there?
+**DM:** not like paying close attention to what's going on. Looking at this form in the dark, but as you. as you reach the bottom and come into their line of sight, it's pretty impossible you to be hiding at this moment you hear? This like kind of hoarse voice shouting. Who goes there?
 
 **Dilion:** Cool? Huh? bag of distractions? Yes.
 
@@ -392,17 +320,11 @@
 
 **Gaudin:** I mean, and the touch of light. So you all can see them.
 
-**DM:** Yeah, yeah, it's bright enough that you can see now, because you've got a bunch of light. You've got 4 lights on scattered over now. So yes. But Acescale, Loria, and Gaudin, all get the jump on them.
-
-**Unknown:** So you, whenever you'd like to do the 3 of you
+**DM:** Yeah, yeah, it's bright enough that you can see now, because you've got a bunch of light. You've got 4 lights on scattered over now. So yes. But Acescale, Loria, and Gaudin, all get the jump on them. So you, whenever you'd like to do the 3 of you
 
 **Loria:** who's first a scales first. still flying, still invisible, you make as advantage.
 
-**Acescale:** I assume that the the Lord of the rings looking ones are the minions, the 5, the square ones are the minions. Yup.
-
-**Unknown:** Okay, I will.
-
-**Acescale:** I will drop a and where did it go? I'll drop an acid splash on the the one closest to the door with the 2, 2 next to it. And so oh, I guess I get to choose to. So both of the ones that are get against the wall. And yeah, save yeah.
+**Acescale:** I assume that the the Lord of the rings looking ones are the minions, the 5, the square ones are the minions. Yup. Okay, I will. I will drop a and where did it go? I'll drop an acid splash on the the one closest to the door with the 2, 2 next to it. And so oh, I guess I get to choose to. So both of the ones that are get against the wall. And yeah, save yeah.
 
 **DM:** that's a natural one.
 
@@ -466,25 +388,15 @@
 
 **DM:** Dylan, distracted by bag of distraction, now finally shakes it off and gets to do something
 
-**Dilion:** I like how I was supposed to be the front line fighter, and then just let someone fall in front, and I lit my pop notes. attack! They attack the ghosts. I feel like he knows what that means. cause. I think that whether they can be attacked by the dog is a whole nother question.
-
-**Unknown:** But I'll attack
-
-**Dilion:** The one is not coming up on my overall. 20, but the one right next to
+**Dilion:** I like how I was supposed to be the front line fighter, and then just let someone fall in front, and I lit my pop notes. attack! They attack the ghosts. I feel like he knows what that means. cause. I think that whether they can be attacked by the dog is a whole nother question. But I'll attack The one is not coming up on my overall. 20, but the one right next to
 
 **DM:** right there.
 
-**Dilion:** Yep, yeah. Yep, yep.
-
-**Unknown:** I'll tack that one. Let's see.
+**Dilion:** Yep, yeah. Yep, yep. I'll tack that one. Let's see.
 
 **DM:** Okay, yes, I think I think they'll hit
 
-**Dilion:** So it's 2D. 8 plus 4, and this is my infused weapon as well. So have them magical trait. Yep.
-
-**Unknown:** just in case. So it's 2D 8. So I'm just gonna click twice. One look that was rough.
-
-**Dilion:** That was also kind of rough. As damage goes. Damn 7 damage on the
+**Dilion:** So it's 2D. 8 plus 4, and this is my infused weapon as well. So have them magical trait. Yep. just in case. So it's 2D 8. So I'm just gonna click twice. One look that was rough. That was also kind of rough. As damage goes. Damn 7 damage on the
 
 **DM:** still enough to pretty badly wound up. It's definitely blow half health with that hair, and then and the dog.
 
@@ -524,17 +436,7 @@
 
 **Unknown:** you got it?
 
-**DM:** 18 that hits that was another to hit, not your image. although that would have been a better to hit roll.
-
-**Unknown:** That's a good damage roll that is enough to kill it.
-
-**DM:** So the second shadow dissipates as a blast from got in high above smacks into it, and like puff of smoke.
-
-**Unknown:** vanishes.
-
-**DM:** and you look around now, the light from your bag of distraction, now revealing the scene of the cavern, and everything is like scorched and black, you see, like these. 7 skeletons, like all like black. burned like they were burned to a crisp you see just like it looks like fire was just poured into this entire room like somebody stood up above and just cast a few fireballs down there. But long ago. This isn't fresh. This is
-
-**Unknown:** very old.
+**DM:** 18 that hits that was another to hit, not your image. although that would have been a better to hit roll. That's a good damage roll that is enough to kill it. So the second shadow dissipates as a blast from got in high above smacks into it, and like puff of smoke. vanishes. and you look around now, the light from your bag of distraction, now revealing the scene of the cavern, and everything is like scorched and black, you see, like these. 7 skeletons, like all like black. burned like they were burned to a crisp you see just like it looks like fire was just poured into this entire room like somebody stood up above and just cast a few fireballs down there. But long ago. This isn't fresh. This is very old.
 
 **Acescale:** II was like. I'm like, damn! I was joking about jumping down. That's crazy.
 
@@ -582,11 +484,7 @@
 
 **DM:** If you click the if you click short, rest. if the automatically apply healing is, and then you click. You have to check those little boxes off
 
-**Gaudin:** and then hit take short rest. And once you hit confirm, yeah, yeah.
-
-**Unknown:** you're
-
-**Gaudin:** still didn't.
+**Gaudin:** and then hit take short rest. And once you hit confirm, yeah, yeah. you're still didn't.
 
 **DM:** Well, you can always just roll and add it yourself.
 
@@ -644,25 +542,11 @@
 
 **Loria:** Laurie is all bandaged up and ready to go. So I'm happy in first. Try the see if it's open. Jiggle the handle
 
-**DM:** smile. Yeah, it's it actually doesn't so when you jiggle that there's like, I wanna like a big iron knocker. And actually, as soon as you like, push on it.
-
-**Unknown:** It's like, clear. This isn't really
-
-**DM:** like it can swing in any direction doesn't have
-
-**Unknown:** real hinges. It's just like like bolted into the wall a little bit so you can push it, pull it, push it. It's not locked.
-
-**DM:** it seems
-
-**Unknown:** possibly to not do much. but anyway, it swings open as you push.
+**DM:** smile. Yeah, it's it actually doesn't so when you jiggle that there's like, I wanna like a big iron knocker. And actually, as soon as you like, push on it. It's like, clear. This isn't really like it can swing in any direction doesn't have real hinges. It's just like like bolted into the wall a little bit so you can push it, pull it, push it. It's not locked. it seems possibly to not do much. but anyway, it swings open as you push.
 
 **Loria:** Can I reach the big iron knocker that's on it or no. Yeah, it's like it's like nose height. Okay? I want to like, hold that
 
-**DM:** as I slowly and sneakily, or at least quietly.
-
-**Unknown:** make a self-check.
-
-**DM:** It's not the quietest you've heard anybody open a door.
+**DM:** as I slowly and sneakily, or at least quietly. make a self-check. It's not the quietest you've heard anybody open a door.
 
 **Loria:** It's not super loud, I mean
 
@@ -726,25 +610,13 @@
 
 **Loria:** You usually swing in your sword at the front.
 
-**Unknown:** I toss you a potion that'll give you plus one A/C you.
-
-**Acescale:** That's the end of my alchemy.
+**Acescale:** I toss you a potion that'll give you plus one A/C you. That's the end of my alchemy.
 
 **DM:** So you continue, although if you want to play again, remember, you can spend the First Level slot to make another person have like a time limit? Or is it just a permanent increase.
 
 **Dilion:** perfect long enough for like a 5.
 
-**DM:** So as you continue
-
-**Unknown:** forward. the sound of this punching gets louder, and now you can see.
-
-**DM:** like coming from around the the bend in the corridor ahead of you. Bend slightly to the right, and there's flickering torchlight
-
-**Unknown:** shining now into the corridor from like around the bend, and from the direction that this punching sound is coming from definitely. Sounds like somebody is working out. You probably know, more than
-
-**DM:** 20 feet from from the bend in the corridor where
-
-**Unknown:** you know that's illuminated with torch lighting
+**DM:** So as you continue forward. the sound of this punching gets louder, and now you can see. like coming from around the the bend in the corridor ahead of you. Bend slightly to the right, and there's flickering torchlight shining now into the corridor from like around the bend, and from the direction that this punching sound is coming from definitely. Sounds like somebody is working out. You probably know, more than 20 feet from from the bend in the corridor where you know that's illuminated with torch lighting
 
 **Acescale:** silly question. But what time of day is it at this point?
 
@@ -756,29 +628,9 @@
 
 **Loria:** Yeah, up to the back.
 
-**DM:** So a halfling. I'm a dog rounds the corner and you see
+**DM:** So a halfling. I'm a dog rounds the corner and you see a briefly staring at you in total surprise. This large man. oh. maybe 6 foot tall, bare arms, has got a bandage wrapped around one arm. He's got this like scruffy beard, black hair just wearing like a sort of tattered. tattered shirt, and with like a suit of like this. Not very well maintained leather armor on top of it. does not seem to have any weapons nearby. Any rap means like there's like this is like, another cavern, right? But what you can see as you as you glance here is. There's like straw bedding in a corner. There's 3 torches around the room. The room itself is maybe 20 foot by 20 foot. There's 3 passageways that exit from this room. So basically, every wall has a has a corridor that leads out from it, including the one you're coming in from and like this. like straw punching bag has been nailed into the ceiling and is hanging from this iron chain, and, like this man, is just frozen for a minute as he sees halfling, riding, a mechanical dog appearing in the corridor, lit by like the torches that are lighting up this entire room. He just looks puzzled. Like what? Like moving slightly, violently, slightly, uncertainly, in your direction.
 
-**Unknown:** a
-
-**DM:** briefly staring at you in total surprise. This large man. oh. maybe 6 foot tall, bare arms, has got a bandage wrapped around one arm. He's got this like scruffy beard, black hair just wearing like a sort of tattered. tattered shirt, and with like a suit of like this. Not very well maintained leather armor on top of it. does not seem to have any weapons nearby. Any rap means like there's like this is like, another cavern, right? But what you can
-
-**Unknown:** see as you as you glance here is.
-
-**DM:** There's like straw bedding in a corner. There's 3 torches around the room. The room itself is maybe 20 foot by 20 foot. There's 3 passageways that exit from this room. So basically, every wall has a has a corridor that leads out from it, including the one you're coming in from and like this. like straw punching bag has been nailed into the ceiling and is hanging from this iron chain, and, like this
-
-**Unknown:** man, is just frozen for a minute as he sees
-
-**DM:** halfling, riding, a mechanical dog appearing in the corridor, lit by like the torches that are lighting up this entire room.
-
-**Unknown:** He just looks puzzled. Like what?
-
-**DM:** Like moving slightly, violently, slightly, uncertainly, in your direction.
-
-**Loria:** I think not expecting company, is he.
-
-**Unknown:** No, I think I took a wrong turn.
-
-**Loria:** Is this the way to the wine cellar?
+**Loria:** I think not expecting company, is he. No, I think I took a wrong turn. Is this the way to the wine cellar?
 
 **DM:** Moves down the hallway a little bit in your direction? Make a deception check. Oh, no, this is this is where I popped my car.
 
@@ -790,11 +642,13 @@
 
 **Gaudin:** and I'm like.
 
-**Unknown:** they never shut up, don't they? This like a special treat for Grimstone?
+**DM:** they never shut up, don't they? This like a special treat for Grimstone?
 
 **Gaudin:** What are you doing now?
 
-**Unknown:** I just do what I'm told. Can you point me where I need to take him. Haven't even had lunch yet. I'm not certain what's happening here.
+**DM:** I just do what I'm told.
+
+**Unknown:** Can you point me where I need to take him. Haven't even had lunch yet. I'm not certain what's happening here.
 
 **DM:** This
 
@@ -1760,35 +1614,17 @@
 
 **Unknown:** it's not an attack. All I'm gonna get hit for it.
 
-**Acescale:** Oh, wait! Just lucky. Maybe I should. yeah, I'm gonna use lucky I haven't got left for that.
+**Acescale:** Oh, wait! Just lucky. Maybe I should. yeah, I'm gonna use lucky I haven't got left for that. Let's try that again. Perfect. I'll get rid of 2 bad rules and then get hit for a lot of fire.
 
-**Unknown:** Let's try that again.
-
-**Acescale:** Perfect. I'll get rid of 2 bad rules and then get hit for a lot of fire.
-
-**DM:** You take 12 points of fire damage as a potion explodes at your feet
-
-**Unknown:** and he yells.
-
-**DM:** you've ruined
-
-**Unknown:** everything
+**DM:** You take 12 points of fire damage as a potion explodes at your feet and he yells. you've ruined everything
 
 **Dilion:** good
 
 **Gaudin:** looks around.
 
-**DM:** and that's bonus action. He's going to take out of his pocket this like thick, goopy thing and hurl it
+**DM:** and that's bonus action. He's going to take out of his pocket this like thick, goopy thing and hurl it at the statue of the Spider. Nope, that's gonna end his term. Loria, you're up.
 
-**Unknown:** at the statue of the Spider.
-
-**DM:** Nope, that's gonna end his term.
-
-**Unknown:** Loria, you're up.
-
-**Loria:** you're invisible. So any attack you make has advantage. Okay? So I'm gonna can I reach over his lab bench? If I only get to in front of it. You can reach under his lab bench for sure under his lap. So it's not like a like bolted to the floor like, no, no, it's just like a table. Basically, it's like, it's like 5 feet high. So you could stand underneath of it.
-
-**Unknown:** Yeah, going for the ankles is my signature. So I'm gonna run in. And then I am going to attack with
+**Loria:** you're invisible. So any attack you make has advantage. Okay? So I'm gonna can I reach over his lab bench? If I only get to in front of it. You can reach under his lab bench for sure under his lap. So it's not like a like bolted to the floor like, no, no, it's just like a table. Basically, it's like, it's like 5 feet high. So you could stand underneath of it. Yeah, going for the ankles is my signature. So I'm gonna run in. And then I am going to attack with
 
 **DM:** both my short swords.
 
@@ -1796,49 +1632,27 @@
 
 **DM:** 23 that hits
 
-**Unknown:** nice.
+**Loria:** nice. That's 5 for that, and then my swarm is going to attack. Oh, sorry! Oh, no, not that. My swarm is going to attack for another 3, and then I'm gonna go short for the other Achilles.
 
-**Loria:** That's 5 for that, and then my swarm is going to attack. Oh, sorry!
+**DM:** 16 that hits. and that's another 7 points of damage. He's not looking super happy with you all showing up and ruining his experiments. That ends Loria's turn. Kayden, you're up
 
-**Unknown:** Oh, no, not that.
-
-**Loria:** My swarm is going to attack for another 3, and then I'm gonna go short for the other Achilles.
-
-**DM:** 16 that hits. and that's another 7 points of damage. He's not looking super happy with you all showing up and ruining his experiments. That ends Loria's turn.
-
-**Unknown:** Kayden, you're up
-
-**Gaudin:** so
-
-**Unknown:** I move and
-
-**Gaudin:** bit for spacing. so somebody else can also sneak in, and I will outrage. Blast
+**Gaudin:** so I move and bit for spacing. so somebody else can also sneak in, and I will outrage. Blast
 
 **Unknown:** alright
 
-**DM:** That hits this one's aim squarely at the body this time
-
-**Unknown:** 4 points of damage! He yells in anger as his bolt of force strikes him. and on initiative, count 20. This statue of a giant spider that he threw this potion hat
-
-**DM:** animates and splits into about
+**DM:** That hits this one's aim squarely at the body this time 4 points of damage! He yells in anger as his bolt of force strikes him. and on initiative, count 20. This statue of a giant spider that he threw this potion hat animates and splits into about
 
 **Gaudin:** 50 tiny little spiders
 
 **Unknown:** that run towards gate in and swarm all over you. Did you say? 15 or 50?
 
-**DM:** It's a swarm. It's like 50 tiny little spiders.
-
-**Unknown:** But that's only going to be an 8 to hit
-
-**DM:** So I think that misses you.
-
-**Unknown:** and that ends the spider's turn.
+**DM:** It's a swarm. It's like 50 tiny little spiders. But that's only going to be an 8 to hit So I think that misses you. and that ends the spider's turn.
 
 **Gaudin:** It's still on main right? They're still crawling all over you. Yeah, yeah.
 
 **Acescale:** Sorry. Was that me up?
 
-**Unknown:** That's you up? Yup.
+**DM:** That's you up? Yup.
 
 **Acescale:** okay, I will shoot with the crossbow at the guy. Natty was. That that will be that. I'm going to move from everyone else and maybe duck down behind this table if possible. Okay, that'll give you partial cover.
 
@@ -1894,7 +1708,7 @@
 
 **DM:** yeah. Okay. So he rolled a 9 so that fail. There was a swarm roll the 9. So that fails. So how much damage does it do? You killed about 20% of the little stone spiders as this burst of of stone flies out. smashing little well puffs of dust as a good 20% of them get smacked by these swords as that ends your turn. And then the spider is trying chew on you. That is going to be 16 to hit.
 
-**Unknown:** I hit.
+**Acescale:** I hit.
 
 **DM:** Okay, so you take 10 points of piercing damage as a bunch of these little
 
@@ -1914,11 +1728,7 @@
 
 **Dilion:** hey? And just for the dog's sake, is it poison? Because I think he's immune to poison. No, you've got a plus
 
-**DM:** So you take
-
-**Unknown:** you take 8 points of poison damage and you are poisoned until the start of your next turn.
-
-**DM:** Poison means I have disadvantaged all the tax and stuff things like that. Yeah.
+**DM:** So you take you take 8 points of poison damage and you are poisoned until the start of your next turn. Poison means I have disadvantaged all the tax and stuff things like that. Yeah.
 
 **Dilion:** yeah. So the the dog is immune both from damage. Yeah. So he's fine. can we see out of this like, is it okay to just walk out? Let us know. Yeah, I mean you. You are aware enough of their your surroundings to know where the exits are. But you cannot see anything. Cloud. Okay, I just tell my dog to follow Dan. and then I'll just do what I need to, but I guess I have disadvantage. You've got disadvantage on your attack. Now, if I chose to use my last luck point
 
@@ -1956,11 +1766,7 @@
 
 **Dilion:** 6 damage.
 
-**DM:** Sorry, Loria. What did you roll? Oh, I got a 9. II wasn't even close to Savior. now pretty hurt at this point, having just dropped a flaming potion at his feet.
-
-**Unknown:** He is going to
-
-**DM:** Look around. And now take another one of these like green gloopy potions and hurl it at the stone wasp.
+**DM:** Sorry, Loria. What did you roll? Oh, I got a 9. II wasn't even close to Savior. now pretty hurt at this point, having just dropped a flaming potion at his feet. He is going to Look around. And now take another one of these like green gloopy potions and hurl it at the stone wasp.
 
 **Loria:** Okay? I'm gonna use up my last spell. Slot to. Oh, yeah, zephyr. Strike.
 
@@ -2064,9 +1870,7 @@
 
 **Dilion:** Amazing. That's what I had.
 
-**Loria:** No dog misses. And now is dog dies. Okay, dog is done. Dog is done. Okay, so
-
-**Unknown:** do I know how well Gadden's doing with the spiders?
+**Loria:** No dog misses. And now is dog dies. Okay, dog is done. Dog is done. Okay, so do I know how well Gadden's doing with the spiders?
 
 **DM:** It looks like I don't know. 80% of this little swarm has been crushed by his last
 
@@ -2074,21 +1878,9 @@
 
 **DM:** Yeah, I'm annoyed at this point. Can I hit the wasp? If it is flying like, am I tall enough to hit it? Yeah, it's I mean, it just swooped down to stab Acescale. So it's not high in the sky. I mean, you might have to stand on your tiptoes. But
 
-**Loria:** just kind of like, wave in there. Okay, I'm gonna attack with my short sword. Okay?
+**Loria:** just kind of like, wave in there. Okay, I'm gonna attack with my short sword. Okay? And nineteenth. that hits. That's 80, that's a 4 for that. And then my swarm of birds is gonna do 4. And then I'm gonna attack with my second short sword with a sixteenth that hits.
 
-**Unknown:** And nineteenth. that hits.
-
-**Loria:** That's 80, that's a 4 for that. And then my swarm of birds is gonna do 4. And then I'm gonna attack with my second short sword
-
-**Unknown:** with a sixteenth
-
-**Loria:** that hits.
-
-**DM:** and that does 8 damage with the second sword. That's that second strike like the stone cracks.
-
-**Unknown:** and this wasp is clearly badly hurt.
-
-**DM:** Gaiden, you're up!
+**DM:** and that does 8 damage with the second sword. That's that second strike like the stone cracks. and this wasp is clearly badly hurt. Gaiden, you're up!
 
 **Gaudin:** I see the wasp as it is hurt, and want to finish it off. Aldridge. Blast that just misses.
 
@@ -2148,19 +1940,13 @@
 
 **Dilion:** the real steam hub that could be.
 
-**DM:** Yeah. there's 2 other passageways you haven't explored yet.
-
-**Unknown:** Here, however, you see
-
-**DM:** quite a number of like our chemical ingredients. There's potions in various states of completion. There's notes kind of scattered around. All the statues now are totally smashed after you smashed the 2 intact ones.
+**DM:** Yeah. there's 2 other passageways you haven't explored yet. Here, however, you see quite a number of like our chemical ingredients. There's potions in various states of completion. There's notes kind of scattered around. All the statues now are totally smashed after you smashed the 2 intact ones.
 
 **Acescale:** so is scale lying unconscious on the ground. says, Who who are any of these healing potions?
 
 **DM:** Some of them do look like Healy cushions.
 
-**Unknown:** If one of the
-
-**Loria:** more people in this party could tell me what a healing potion looks like, I would like to refer to Acescale.
+**Loria:** If one of the more people in this party could tell me what a healing potion looks like, I would like to refer to Acescale.
 
 **DM:** Yeah, you can definitely find a healing person things that look healing potion.
 
@@ -2168,13 +1954,7 @@
 
 **DM:** as as you pick up the potion, just roll a d. 4, please.
 
-**Unknown:** as I do. Oh, no!
-
-**Loria:** And then roll the roll, the healing.
-
-**Unknown:** 3 on the d. 4. Okay.
-
-**Loria:** And then what would be the alien for I don't know what I'm doing.
+**Loria:** as I do. Oh, no! And then roll the roll, the healing. 3 on the d. 4. Okay. And then what would be the alien for I don't know what I'm doing.
 
 **DM:** A person of healing is, I think.
 
@@ -2182,9 +1962,7 @@
 
 **Dilion:** 2, d. 4, plus 2,
 
-**Loria:** 2D. 4 plus 2.
-
-**Unknown:** So 6 total.
+**Loria:** 2D. 4 plus 2. So 6 total.
 
 **DM:** Okay, as you feed this potion to Acescale, Acescale, you start
 
@@ -2192,29 +1970,19 @@
 
 **Loria:** Oh, make a oh, sorry. Okay,
 
-**Acescale:** I make a concept.
-
-**Unknown:** Yeah.
-
-**Acescale:** Okay.
+**Acescale:** I make a concept. Yeah. Okay.
 
 **Loria:** okay. So
 
-**Unknown:** you still take
-
-**DM:** 6 poison damage, which just, I guess, sets you from stable to unstable poison. Somebody will have to think quick to do something to stabilize you.
+**DM:** you still take 6 poison damage, which just, I guess, sets you from stable to unstable poison. Somebody will have to think quick to do something to stabilize you.
 
 **Dilion:** You're probably the only one who has medicine proficiency right?
 
 **DM:** Exactly the right. The worst person to be unconscious in this situation. make an arc make a arkana check. Actually.
 
-**Unknown:** like I'm not potion, savvy? But maybe 25. Look at that! So.
+**Dilion:** like I'm not potion, savvy? But maybe 25. Look at that! So.
 
-**DM:** looking at the potion that was just fed to Acescale, and
-
-**Unknown:** the 3 remaining healing potions. you notice that one of them.
-
-**DM:** one of the 3 remaining just has this like. So there's something subtly off about it. It doesn't quite look right. You're not trained as an alchemist, but you have enough, like artificial background, to realize that one of the other 3 is probably also poison. But as far as you can tell. The other 2 are probably safe.
+**DM:** looking at the potion that was just fed to Acescale, and the 3 remaining healing potions. you notice that one of them. one of the 3 remaining just has this like. So there's something subtly off about it. It doesn't quite look right. You're not trained as an alchemist, but you have enough, like artificial background, to realize that one of the other 3 is probably also poison. But as far as you can tell. The other 2 are probably safe.
 
 **Unknown:** hey?
 
@@ -2334,11 +2102,7 @@
 
 **Dilion:** the reunite reunited.
 
-**DM:** and there are 2 chests pushed up against the wall here, amid like what looks like.
-
-**Unknown:** Used to be some storeroom, or some.
-
-**DM:** you know, some were where a bunch of stuff was stored, where, like. you know, barrels of flour and bolts of cloth and wine and stuff, but this has all been smashed, and it's just like rotted wood and and sort of everything's been cleared away to make space for these 2 chests that are pushed up against the wall.
+**DM:** and there are 2 chests pushed up against the wall here, amid like what looks like. Used to be some storeroom, or some. you know, some were where a bunch of stuff was stored, where, like. you know, barrels of flour and bolts of cloth and wine and stuff, but this has all been smashed, and it's just like rotted wood and and sort of everything's been cleared away to make space for these 2 chests that are pushed up against the wall.
 
 **Loria:** I would like to open, and
 
@@ -2352,9 +2116,7 @@
 
 **Loria:** the one on the left. and how they're oriented
 
-**DM:** the one on the left? Okay, it seems
-
-**Unknown:** to be locked. It doesn't immediately open.
+**DM:** the one on the left? Okay, it seems to be locked. It doesn't immediately open.
 
 **Acescale:** We didn't check the guy's corpse, did. We? Didn't check for for keys in his pockets. You did not check the guy's corpse. Oh, back and check the guy's corpse.
 
@@ -2364,17 +2126,7 @@
 
 **Gaudin:** like pat down the body.
 
-**DM:** It's there, is there? He has a pouch that does have a key. and
-
-**Unknown:** a like a little small book. like.
-
-**DM:** almost like a small prayer book
-
-**Unknown:** that's written.
-
-**DM:** seems to be like I don't know what
-
-**Unknown:** what languages do you speak?
+**DM:** It's there, is there? He has a pouch that does have a key. and a like a little small book. like. almost like a small prayer book that's written. seems to be like I don't know what what languages do you speak?
 
 **Dilion:** Speak? That's jaconic, isn't it?
 
@@ -2396,15 +2148,11 @@
 
 **Loria:** Man. Okay, I can't do it. Then it was worth a shot, though.
 
-**DM:** Once you unlock the chest.
-
-**Unknown:** it has
+**DM:** Once you unlock the chest. it has
 
 **Dilion:** 244 gold pieces, including Acescale's poker winnings. Thank you.
 
-**DM:** A ring of bird calls birds a die that seems
-
-**Unknown:** strangely weighted.
+**DM:** A ring of bird calls birds a die that seems strangely weighted.
 
 **Acescale:** Is that someone that could be useful?
 
@@ -2414,25 +2162,11 @@
 
 **Loria:** Okay.
 
-**DM:** it feels
-
-**Unknown:** heavier in hand as you roll it, and like you can almost
-
-**DM:** feel you can almost feel it as you roll it like in your mind. You can see it clicking around all
-
-**Unknown:** besides, and as it stops you see a second before it stops. What the number is
+**DM:** it feels heavier in hand as you roll it, and like you can almost feel you can almost feel it as you roll it like in your mind. You can see it clicking around all besides, and as it stops you see a second before it stops. What the number is
 
 **Loria:** I can't imagine why this would be handy at all, and I just pocket it.
 
-**DM:** There are. There's a necklace of pearls.
-
-**Unknown:** probably worth a good chunk of money.
-
-**DM:** There's a small silver decanter also, probably worth a good chunk of money that has a nice decoration of a stag standing in a glade. And there's 6 wooden goblets, each with 2 very small pieces of turquoise set into them. I mean, these are basically the nicer stuff stolen from various merchant
-
-**Unknown:** freighter caravans over the
-
-**DM:** years over the months. Oh, and there's a. There's a small handful, probably 6 small garnet gemstones.
+**DM:** There are. There's a necklace of pearls. probably worth a good chunk of money. There's a small silver decanter also, probably worth a good chunk of money that has a nice decoration of a stag standing in a glade. And there's 6 wooden goblets, each with 2 very small pieces of turquoise set into them. I mean, these are basically the nicer stuff stolen from various merchant freighter caravans over the years over the months. Oh, and there's a. There's a small handful, probably 6 small garnet gemstones.
 
 **Gaudin:** Let's split it up amongst all of us, plus we take our original possessions. If they're here.
 
@@ -2460,19 +2194,13 @@
 
 **Gaudin:** cool. Yeah. No dogs out.
 
-**Unknown:** so you rest. recover. and
+**DM:** so you rest. recover. and find yourself early in the morning. What creeping out of the manor before anybody is awake?
 
-**DM:** find yourself early in the morning. What creeping out of the manor before anybody is awake?
-
-**Loria:** What's your what's your like epilogue of of
-
-**Unknown:** what's happening as you leave and return to wherever you're returning to.
+**Loria:** What's your what's your like epilogue of of what's happening as you leave and return to wherever you're returning to.
 
 **Gaudin:** Well, my character has been inspired by the the century, the location of all the the pirate paraphernalia and kind of like hub of pirates. and this will be kind of impacting some of his business adventures.
 
-**DM:** So I guess I'm thinking, given that it's, you know, 20 min or so till 25 min till end, rather than playing out hob goblins, which seems sort of boring at this stage. Just give you each few minutes to narrate like your character's future from here.
-
-**Unknown:** So you sneak out
+**DM:** So I guess I'm thinking, given that it's, you know, 20 min or so till 25 min till end, rather than playing out hob goblins, which seems sort of boring at this stage. Just give you each few minutes to narrate like your character's future from here. So you sneak out
 
 **Dilion:** past the hobgoblins.
 
@@ -2498,9 +2226,7 @@
 
 **Gaudin:** he's
 
-**Unknown:** she parts ways, apologizing for her
-
-**Loria:** somewhat feeble spirit in the face of adversity. And knowing that this isn't really her path, this this whole combat thing, unless she's like forced into it. She decide to set off back south again. Try to find the King more of us, and to see if she can be admitted to it, and as she walks down like a very soft boot of owls as she goes, and her little birds fly around her go off, and she sort of almost disappears in a little bit of a flurry of wings. Alfred Hitchcock. Much like
+**Loria:** she parts ways, apologizing for her somewhat feeble spirit in the face of adversity. And knowing that this isn't really her path, this this whole combat thing, unless she's like forced into it. She decides to set off back south again. Try to find Orenlas, and to see if she can be admitted to it, and as she walks down like a very soft boot of owls as she goes, and her little birds fly around her go off, and she sort of almost disappears in a little bit of a flurry of wings. Alfred Hitchcock. Much like
 
 **Dilion:** that's cool.
 
