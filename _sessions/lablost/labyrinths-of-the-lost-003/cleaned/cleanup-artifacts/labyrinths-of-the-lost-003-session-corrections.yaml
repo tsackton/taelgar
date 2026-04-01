@@ -377,6 +377,11 @@ allReplacements:
   count: 1
   headers:
   - '[u0072 | 00:07:49.790-00:07:51.520 | Unknown]'
+- from: decide
+  to: decides
+  count: 1
+  headers:
+  - '[u2177 | 03:33:16.940-03:33:30.709 | Loria]'
 - from: dive
   to: die,
   count: 1
@@ -682,6 +687,11 @@ allReplacements:
   count: 1
   headers:
   - '[u0188 | 00:18:42.630-00:18:50.529 | DM]'
+- from: the King more of us
+  to: Orenlas
+  count: 1
+  headers:
+  - '[u2177 | 03:33:16.940-03:33:30.709 | Loria]'
 - from: the basilis
   to: The basilisk
   count: 1

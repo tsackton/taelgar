@@ -1,8 +1,8 @@
 # Cleanup Summary
 
 - Transcript lines: 2192
-- Changed lines: 146
-- Replacement patterns: 140
+- Changed lines: 147
+- Replacement patterns: 142
 - Repeated replacements: 10
 - Unresolved phrases: 0
 
@@ -116,6 +116,9 @@
 - dark vision (1x)
 - darkfish (1x)
 
+### decides
+- decide (1x)
+
 ### dex is
 - Gloria, your taxes (1x)
 
@@ -223,6 +226,9 @@
 
 ### on
 - from (1x)
+
+### Orenlas
+- the King more of us (1x)
 
 ### pebble
 - Paypal (1x)
