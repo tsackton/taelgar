@@ -1,0 +1,103 @@
+[ gaming ] An interlude, soon to be slightly on fire
+
+Published: 2025-11-09T22:40:00
+Original URL: https://kiya.dreamwidth.org/824905.html
+
+Summarizing some emailed events and today's session.
+
+_Dramatis Personae_
+
+Izgil, who did not do much because his player was out this session
+
+Celyn, who has complicated class issues
+
+Viepuck, who is very busy causing chaos as usual
+
+Robin, who is doing a lot of engineering lately
+
+When we concluded last session, the party was [having something of a vacation in Robin's new demesne of the village of Asineau](https://kiya.dreamwidth.org/823914.html).
+
+
+The party goes to the trial of the Baroness we successfully deposed. They are unable to convict her of necromancy (Celyn is faintly peeved by this) but do manage to convict her of _treason_, as investigation reveals that she had set up a frame job for the previous lord and arranged the murder of a band of halflings (that she got him executed for), so at least she is Dealt With. A Tyrwinghan is appointed as the new baron, and Robin accepts the post of lord of the village of Asineau.
+
+The people of Asineau are very happy to have their new lord installed, and are perhaps a bit smug about being The Place The Heroes Live. The party have pooled their resources (and an optional rule from the latest D&D revision) in order to give the village one hell of a makeover.
+
+(On a mechanics level: the new revision of D&D reintroduces the old "adventurers can have a fortress" concept as a mechanic accessible at lower levels, and the individual improvements that each individual party member can cause can be pooled. Thus, we have a bunch of stuff that we can build and it Just Kinda Happens because of game mechanics, and we are building story out of it.)
+
+Asineau was not in great shape when we got possession of it. Lord Punchable Face (Mike pointed out that I never use this guy's actual name but I can't remember it (it's [Lorin Valbert](https://msackton.github.io/taelgarverse1720/people/sembarans/lorin-valbert/))) was the sort of person who would slightly overtax the people so that he could buy gold-plated swords and fancy tapestries to console himself over being made lord of a backwater. The food situation is ordinarily fine but the taxation caused things to be a little scant, and the fishing runs (this is a fishing and farming village) were not great last year, and so on.
+
+So the party sweeps in and proceeds to Establish Our Home Base Complete With Game Mechanics. There are some things built in the town that can be immediately turned into home base mechanical stuff, and then we get to build up. (Barracks, Armory, Sanctuary (temple to the Wyrdling, Celyn's god), Stable.) Robin, as lord, promptly turns his hand to figuring out the village defenses; it is not that it doesn't have a wall because walls aren't a thing, but because while it's self-sufficient it does not have the surplus to afford a decent one. So he sets in to fix that. Meanwhile Celyn, as lord's _consort_, wants to fix the local economy, because he is from a village of about this size and has _opinions_ about how economics make sense.
+
+This cascade of events leads to, among other things, a retired dwarven smith settling in Asineau with our newly-constructed Smithy to train the brother of our buddy Odo, now our captain of the guard, as a smith (basic smithing had to go to the somewhat larger village up the road previously, is how poor Asineau was), and the telescope-obsessed tinkering dwarf and their spouse settling in Asineau to supervise our Workshop, which will make Asineau host to a more stable selection of craftsmen. Amongst the craftsmen we are looking to attract is a glassworker (unless Brot the tinkerer is handling this), both because Izgil and Brot want lenses and mirrors, and because glassware is an import in this region and having a local source will make Celyn happy for multiple reasons, the obvious one of which is "we now have a desirable export fancier than smoked fish, which will make all the necessities trade much easier and allow for luxury". A local rich lady serves as our glassworks factor, which was partly 'playing politics' and partly 'she's genuinely got a trade network, easier to use it than build our own'.
+
+Getting the glassworks running, of course, requires sand to supply materials. This is a solvable problem, because we have previously been of assistance to the nearby lizardfolk village (investigating a murder of one of their people) and thus they are not wholly isolationist about us. Robin extends an offer of mutual defense and invites them to our parties; an assortment of their people are willing to get sand from the bottom of the river (as they can swim that deep easily) in exchange for fishing nets and snails we can easily obtain in trade, among other things.
+
+Celyn is happy to support Robin's diplomatic overtures and is, additionally, keeping an eye on the racist-against-lizardfolk miller in town, because he has taken a dislike to the man for being an unpleasant bigot. While he fully accepts that Some People Are Like That (as a complex matter of spiritual discipline), he also would like to see if they can gently rearrange life such that the man has some sort of consequences for being a shithead, and thus making lizardfolk more common sights in town has him feeling Exceptionally Popcorn. (Celyn is not Machiavellian in the slightest but his sense of humor has at least a _shade_ of fairy prankster to it.)
+
+Izgil meanwhile establishes some research resources in town, and Celyn insists on a Garden because _damnit he is a farm boy_. (Celyn has several other things going on with the Garden.) The fishing is excellent and the season looks good, so clearly the land/god of nature/both appreciate Robin's accession (or the end of the lich that had replaced the king, or both).
+
+Asineau continues to settle into its new state of governance. Robin hosts a festival event with combat games added to the festivities (we are looking, in the long run, to continue to be training local people to fight, including against monsters and the like, so this is part of the Long Term Plan). A caravan of halflings comes to town and has a _long_ conversation with Celyn and whoever else joins in about appropriate clothing for the proper theatrics of local governance (which is _exactly_ how Celyn thinks of it, and his default costuming is Well-Off Peasant which does not suit Lord's Consort at all). The halflings indicate they will come sell fancy tailoring here every so often in the future. (This human village is becoming increasingly multi-namegiver in mode. Celyn continues to keep an eye on the miller while he monitors town gossip, which he often does by joining spinning circles. He is actually extremely good at spinning and a village always needs more spinners.)
+
+The high-level adventuring party who killed the lich drop by to leave us some of their magic items before they go on a quest Across The Sea to attempt to resurrect their fallen party member, who was the one who could cast "resurrection". The new baron comes by on his riding the bounds and we do appropriate things about that. There are rumors of elemental dust from the Plaguelands in the south sweeping around and causing problems.
+
+In high summer, Vahaiya, the elf who has been kicking around in the vicinity keeping an eye on the portal to the Feywild for us, brings us news that there is a dragon causing trouble on the border between Tyrwingha and Addermarch, and they are Concerned. (They have been muttering about wanting to retire and go home for months, but elves do not have a large sense of urgency about time on that scale; however, the dragon is motivating.) We in fact get rumors about the dragon both originating in Addermarch and with the army garrison on the other side of the mountain ridge in Tyrwingha, and everyone would like someone to deal with the dragon. (The Earl on the Addermarch side lost most of a full troop of knights trying.)
+
+Unfortunately for "dealing with the dragon" purposes, much of the army of Sembara was deliberately disrupted and/or destroyed by the lich; much of the functional army of Sembara and the Rangers have gone south to try to figure out what's up with these elemental dust or ash clouds that are apparently attacking things; everyone is, in short, hoping that Someone Will Step Up.
+
+So we step up.
+
+Vaihaiya is a veteran of the Great War against a dragon that was also something nearly godlike and was there for the destruction of its death throes, which included the spawning of a fire dragon from outgassing from the corpse. Vaihaiya is very alarmed by the possibility that that thing might have come out of its known lair and started marauding. Viepuck does some mental research on dragons. We have a great deal of discussion about this on the road east, and eventually decide to go down the west side of the mountain range into Addermarch rather than the east side deeper into Tyrwingha because those people have more direct information about this specific dragon and its behaviors.
+
+So we make our way to Marwick, the castle in the vicinity of the dragon's attacks. The castle itself is half-abandoned; while the Earl is in place, she has been encouraging all non-essential personnel to retreat into the lowlands, including the herdsmen who would normally have their cattle up in the summer slopes of the mountains. We scope out the map of the vicinity, noting where all of the summer villages have been destroyed. The dragon is reputed to steal cattle and people, presumably to eat, and does not appear to care what sort of meat it gets, though it does seem to have a particular taste for horses. Or distaste. The dragon is, at least, not the scale of the one that Vahaiya is alarmed by, and they are greatly relieved that this is likely one of its spawn, not the thing that emerged back then.
+
+Robin, who has been studying siege engineering as part of his efforts to fortify and properly defend his demesne, lays out plans for a ballista specially designed to deal with the "dragons fly very fast and this is a substantial fraction of what makes them dangerous" portion of the problem. Celyn goes to scout out the destroyed villages to see if more intel can be obtained, after promising Robin that he will be careful. Robin keeps Izgil to work with him, where Celyn takes Viepuck because Viepuck actually has the attention span to do serious investigation of Clues, which Celyn does ... not. (This is part roleplay, and part I have +10 to _notice things_ and +1 to _figure out clues_.) The scouting party takes one of the three surviving ones of the Earl's knights to help us figure things out, and goes up the mountain to investigate things.
+
+The first wrecked mountain village is rubble and clawmarks and mud, and we don't find anything useful, so we putter along to a second wrecked mountain village, where Celyn— recently proficient with spotting tracks, specifically— finds in a sheltered spot a clawmark that looks like a _tiny_ dragon took off. "Kobolds," we say. We camp out in the wilds and Celyn spends the next day up on the ridge trying to spy out the dragon, which leaves around teatime to go west and wreak destruction and steal silverware; having gotten this intel we return to the castle and Viepuck helps Robin put the finishing touches on the ballista with his power of Bardic Moral Support.
+
+The plan: we obtain some cows fit to haul a wagon with the ballista parts in it and go to one of the wrecked villages. Here, we assemble and conceal the ballista under an illusion of a large boulder and lie in wait, in the hope that the dragon will come within range to nab the cows and we can ruin its day. Es*tiaslos goes up to the ridge where Celyn kept watch yesterday, and Celyn takes a watch point a little further down, closer to the ruined village, and we proceed to Lurk.
+
+A little after teatime, Es*tiaslos is startled and conveys, "Dragons are big, right?" Celyn spots a group of four kobolds sneaking along the valley, with a fifth one - this one winged - gliding over them, though still fairly low to the ground. They are, of course, interested in The Cow. As they approach the ruined village, Celyn ghosts in behind them.
+
+The rest of the party does not have a stealth rating in the high twenties. The kobolds pause again, having spotted Izgil, and decide to try sneaking around him to get to the cow. As they loop past, Viepuck hits them with a sleep spell, downing three of them. Agitated, the winged one wakes up one of them, the other one wakes up another.
+
+Izgil causes the sleeping one to sink into a pit, and Viepuck casts light on his hand and steps out from 'behind' the illusory boulder to threaten them. The kobolds dither a bit about whether or not Viepuck was the one who put them to sleep and Celyn, who is not sure whether they're about to do something stupid, decides to provide reinforcements by ghosting out of the shadows and declaring, "Hi!" (And, as is common for Celyn, rolling a four on intimidation. The only time he actually scares anyone is when he's holding a bloody weapon....)
+
+We convince the kobolds to surrender without a fight, and proceed to start pumping them for information. THe flying one is effectively their party leader, though her sister (who was in the pit) is not enthralled with her resulting charisma, merely indulgent and patient about it. The kobolds are unconvinced that we can kill the dragon until Robin (on Greymalkin) emerges from concealment.
+
+Kobold: _THat's_ better. [gestures at Viepuck] You did not look like you could stab a dragon. [looks at Celyn, pauses] You look stabby.
+
+Celyn: I'm stabby. He's [indicating Robin] smashy.
+
+The flying kobold has a number of suggestions about what we should do now that founder on the fact that we can't fly. She is of the opinion that "Flight makes right!" and preens her wings at us. Eventually she nods firmly and says that we have _magic_ flying powers that we don't want to tell her about, but we will eventually go up to the dragon with our magic powers and destroy it.
+
+When we say the cow was to lure the dragon she basically goes, "Are you stupid?" at us. The dragon, you see, is a terrifying force of destruction motivated by burning things, not by cows. Cows are for motivating kobolds. They are motivated. See? ... can they have a cow for being so helpful?
+
+We continue to pump the kobolds for information; Viepuck is reading thoughts on the winged one at this point, having dropped the telepathic link he had to Celyn when Celyn was scouting. It comes out over time that there are eighteen kobolds that were brought up from the south when something is rumored to have _eaten_ the dragon that Vahaiya is afraid of. One of those elemental ash cloud things. It's very exciting in the south right now. Faction one of the kobolds wishes the dragon to grow strong by careful action until it can return south and deal with this nonsense. Faction two wants the dragon to rampage for plunder and glory. Faction three, who we happen to be talking to, thinks this is all kind of a lot and would run away except that if they do that the dragon will hunt them down and roast them and they are not in favor of being kebabs. (They would, however, like us to take out the other faction heads.)
+
+Celyn: Does the dragon have weak spots?
+
+Kobold: I don't think so. He's very strong.
+
+Celyn, grinning: I _like_ weak spots.
+
+Kobold: [edging away nervously]
+
+After further discussion, we determine two possible plans.
+
+Plan A: The kobolds go back to the lair and keep mum. We move the ballista into the valley between the ridges, conceal, and hide until teatime when the dragon goes out to wreck something.
+
+Plan A.1: The dragon, upon departure, either picks the direction the party is in or spots the party, and we counter-ambush its attack with the ballista.
+
+Plan A.2: The dragon departs, and we go up, deal with the kobolds who are likely to help the dragon in a fight, then move the ballista to where we can get the dragon when it returns around midnight.
+
+Plan B: The kobolds do _not_ return, which will enrage the dragon when he comes back to the lair and send him hunting for them, at which point we will ambush.
+
+The kobolds are unwilling to support Plan B (we are a little unwilling to let them go back because they are not that bright and might let something slip) until Viepuck disguises himself as the winged one and says, "But if you were here roasting a cow, he'd come for you, right?" The winged kobold pokes a finger through the wing, determining it is an illusion, and Viepuck confides that he is sad that it is an illusion, because "Wings are awesome," which of course makes her preen again.
+
+Robin - with the assistance of a little Bardic Moral Support - convinces the kobolds to stick close enough that they can help fight the rampage-and-plunder faction of other kobolds if they show up, because Robin has tremendous persuasive power.
+
+Es*tiaslos goes up to the vicinity of the lair to provide us the five minute warning of impending dragon. At about one in the morning, it reports that the dragon and five kobolds are en route.
+
+(Robin wants to adopt the kobolds and take them back to Asineau after this fight.)
+
+(Celyn does not have enough popcorn for how the miller's going to take that.)

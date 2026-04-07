@@ -1,0 +1,32 @@
+schemaVersion: '1.0'
+sourceType: narrative
+scope: session
+campaign: Cleenseau
+sessionNumber: 13
+realWorldDate: '2024-03-31'
+drStart: null
+drEnd: null
+drStartTime: null
+drEndTime: null
+participants:
+- name: Dan Walters
+  gameRole: Robin
+  transcriptIdentifiers: []
+- name: Chris Kelly
+  gameRole: Viepuck
+  transcriptIdentifiers: []
+- name: Kiya Nicoll
+  gameRole: Celyn
+  transcriptIdentifiers: []
+- name: Matt Rand
+  gameRole: Izgil
+  transcriptIdentifiers: []
+- name: Mike Sackton
+  gameRole: DM
+  transcriptIdentifiers: []
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-013/sources/Cleenseau
+  - Session 13.md
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-013/sources/cleenseau-session013.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-013/sources/cleenseau-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-013/cleaned/cleenseau-013-source-prepared.md
+narrativeUnit: sentence

@@ -1,0 +1,29 @@
+schemaVersion: '1.0'
+sourceType: narrative
+scope: session
+campaign: Addermarch
+sessionNumber: 17
+realWorldDate: '2025-12-28'
+drStart: '1715-05-24'
+drEnd: '1715-05-26'
+drStartTime: null
+drEndTime: null
+participants:
+- name: Isaac Sackton
+  gameRole: Yvan Greenrabbit
+  transcriptIdentifiers: []
+- name: Kate Sackton
+  gameRole: Drou
+  transcriptIdentifiers: []
+- name: Nathaniel Sackton
+  gameRole: Fazoth de Brune
+  transcriptIdentifiers: []
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers: []
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/addermarch/addermarch-017/sources/Addermarch
+  - Session 17.md
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/addermarch/addermarch-017/sources/addermarch-session017.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/addermarch/addermarch-017/sources/addermarch-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/addermarch/addermarch-017/cleaned/addermarch-017-source-prepared.md
+narrativeUnit: sentence

@@ -1,0 +1,89 @@
+[u0001] [ gaming ] Monty Python's Flying Royalty
+[u0002] Published: 2026-02-01T20:32:00 Original URL: https://kiya.dreamwidth.org/826614.html
+[u0003] Dramatis Personae, from the POV of the major NPCs:
+[u0004] Sir Robin, Lord of Asineau Village, with Greymalkin the wingless gryphon
+[u0005] Celyn Bettws, Lord's Consort in Asineau
+[u0006] Viepuck, squire and herald to Sir Robin, with Es*tiaslos the purple eldritch flying octopus
+[u0007] _and_
+[u0008] Izgil, the dwarf scholar who hangs out in Asineau
+[u0009] When we left off we had just [killed a dragon](https://kiya.dreamwidth.org/826037.html).
+[u0010] Our nonsense, in this case, included a selection of dragon bits that Izgil had selected as good candidates for him to tinker with for future development of magical items.
+[u0011] The remainder of the marketable dragon bits were sent with the elf Vahaiya on their return trip to their home in elven lands, to bestow upon a magical crafter there, who will then feel obligated to return magical items of equivalent value to the party because of the nature of elven culture.
+[u0012] The rest of our nonsense included the crew of kobolds who have decided that they will venerate Greymalkin and do what he says, which, at least, makes them easy to bring back in line when need be.
+[u0013] But Robin is working on making Asineau a multiculturally-friendly town, and having kobold retainers is a good step on that.
+[u0014] One of the kobolds winds up hanging out with (and getting semi-adopted by) the lizardfolk teenagers who cheerfully fish up sand for the glassworks in town, which means we are reducing juvenile delinquency across the board really.
+[u0015] The human teenagers are losing to the lizardfolk in regular swimming competitions— nobody expects any other result— but sport fishing is a bit more even.
+[u0016] Celyn has developed a project: he is compiling all of the information we have about fey realms in the Feywild and their corresponding territory in the mortal world and heavily annotating a nap with notes about it.
+[u0017] This attracts Izgil's attention, which is useful, because Izgil actually has cartography skills, so they nerd out about fey lore and maps together.
+[u0018] They are very clear on Ethlenn's territory (Tyrwingha), have some strong theories about the Gloomshaper's claimed territory, know more or less where a couple of minor realms go and pencil those in, and get information from Greymalkin about his realm-of-origin to guess where it goes on the map.
+[u0019] (It was conquered by the Gloomshaper.
+[u0020] Greymalkin carries a grudge about this.
+[u0021] Greymalkin is extremely good at grudges.) This project is enhanced when he receives a letter from his childhood sweetheart, who passes on some information about a fey realm that appears to be associated with western Addermarch (the dragon was in eastern Addermarch) and a party of adventurers destroying a portal there.
+[u0022] Early in October, a group of eight royal retainers arrive to discuss with us how well-equipped we are to host the queen overnight.
+[u0023] Obviously, as the poorest village in the region we cannot be expected to properly entertain a royal entourage for an extended stay, so she will be moving on to Cleenseau after the single night, but since we have been kind of essential to all of the recent events in the region we are being honored and acknowledged.
+[u0024] One of the royal minions: Have you ever hosted an entourage before?
+[u0025] Robin: ...
+[u0026] we've been here for three months.
+[u0027] No.
+[u0028] The matron in charge, paraphrased: Maybe you should talk to them about what needs to be done rather than just ask harassing questions?
+[u0029] It turns out that Robin's desire to host major festivals to encourage local unity is in fact reasonable prep for the royal arrival, so we putter along.
+[u0030] We have information about when the queen is due to leave her current location, the kitchens have their instructions, we have figured out where everyone will sleep (with Robin and Celyn likely just leaving the queen to their room and wandering off to sleep under the stars), all is good.
+[u0031] They ask if we have Tyrwinghan wine.
+[u0032] Celyn, who trolled his sister with a purchase request a few months ago, can blithely declare we do, and there is a good deal of talking before he asks what they think of the wine.
+[u0033] They prefer the northern varietals to the southern one, but it was deemed good of kind, "where did you get it?" "It's from my home village." He is easily amused.
+[u0034] The security people are eventually like, "So the swamps between there and here are a bit sketchy, is there anything we actually have to worry about?" and Celyn says "they used to be full of undead but I don't think they are anymore?" but the general consensus is that we'll head up the day before, camp on the far side of the swamp, and act as escort.
+[u0035] After all she asked us to join her for part of the ride in Aveil, why not start a little early.
+[u0036] We have packed up the kobolds to come with us and act as forward scouts, and they come in and report that they have spotted some giant deer with red eyes charging the baggage train.
+[u0037] Izgil remembers that the animals that the Hunter ensorcelled had their eyes turn red, and we are at, "Welp." We warn the queen's entourage that this is a sign of a fey that likes to run kidnappings, they ring her, and we hold fast to let the wagons catch up a bit so the guards are more consolidated.
+[u0038] Viepuck casts a telepathic link with Robin and he and Izgil break off a bit to deal with the bespelled elk.
+[u0039] (Celyn in my head spent a bit of time being cranky about this because Robin at one point told him that Robin likes elk and thus he upgrades his grudge against the Hunter from "making Robin upset about substantial things" to include "also possibly making Robin sad about smaller things".) Izgil also casts a Locate Object on the _spear_ the Hunter carries, confirming that the guy is in the neighborhood; this information gets passed accordingly.
+[u0040] Robin casts a spell to protect the guard from fear effects and moves himself to be between the Hunter and the entourage and queen.
+[u0041] Celyn hands off his horse's reins to a random courtier in the road and slips into the shadow of a tree near the side of the road.
+[u0042] When he spots the Hunter, he casts a faerie fire, which starts to take effect and then blinks out again.
+[u0043] Robin signals the kobolds on the north side of the road to go to the south side because they are small and squishable.
+[u0044] Greymalkin yells into the woods demanding the Hunter come out and fight him like a gryphon, more or less.
+[u0045] Me: He burned his legendary resistance on _faerie fire_?
+[u0046] Me: That is sure a choice he made!
+[u0047] (I could make that meta a comment because due to some cleverness and research, Izgil basically had access to The Game Mechanics Portion Of The Hunter's Character Sheet so we knew exactly what he was capable of in a fight.)
+[u0048] Viepuck and Izgil deal with the elk with grim efficiency.
+[u0049] Viepuck casts fly on his horse and positions himself to see what's going on because he has ludicrous blasting range and is not affected by cover.
+[u0050] The Hunter throws a spear at one of the guards, but Robin deflects it slightly; regardless the giant half-bear teleports to where his spear is and the melee is engaged.
+[u0051] Then there is a cry of alarm from the kobolds (now on the south side) as a Duskhound teleports in or manifests or something out of nowhere and charges the entourage.
+[u0052] Robin directs the guards to kill the Duskhound and let the party take the Hunter.
+[u0053] Various forms of violence ensue (the specifics of which I do not recall because there was a lengthy discussion of whether or not it was safe to fireball that has overwritten them; the answer was, for the record, 'no').
+[u0054] The Hunter tried to make the guard he had injured run away, but as always spell effects are a lot harder to land on people standing next to paladins.
+[u0055] After the first exchanges, various things have happened, which include: Robin has thumped the Hunter _a lot_.
+[u0056] The Hunter has teleported to inside the circle of royal guard.
+[u0057] The _Duskhound_ has teleported to inside the circle of the royal guard and siezed the queen, but Izgil counterspelled its efforts to teleport back out again, which led the Hunter to basically smash a horse out of the ring to make an egress point and drop it on one of the guard.
+[u0058] He also stabs a spear into Robin's side and twists it so it stays there, which is terribly unpleasant.
+[u0059] The whole 'the teleporting monster just grabbed the queen' makes certain things very urgent, but fortunately Viepuck is an extremely lateral thinker, asks Izgil if he can break the Duskhound's hold on the queen, and upon getting that confirmation, Es*tiaslos darts into the melee to deliver a touch spell from Viepuck:
+[u0060] **Fly.**
+[u0061] Izgil gets into the melee, also touches the queen, and casts his own touch spell:
+[u0062] **Dimension Door.**
+[u0063] To maximum range.
+[u0064] 400 feet straight up.
+[u0065] (And then he starts falling back to earth, but he's not worrying about that yet.)
+[u0066] The Hunter bellows in rage and loses his shit in a barbarianesque way, directing the Duskhound in Sylvan— which the whole party understands, so there is no opsec here— to get back and "warn the Gloomshaper".
+[u0067] We are not at all sure what the warning is about, but proceed to beat the Hunter into a thin red paste.
+[u0068] (I mean he wound up standing right next to where I was hiding when he shoved the horse?
+[u0069] What was I supposed to do, _not_ stab him?)
+[u0070] Various things happen.
+[u0071] The Duskhound starts to book it.
+[u0072] Izgil casts a feather fall on himself but due to the vagaries of chance it goes off a little earlier than he wants so he has not fallen back into combat spell range yet.
+[u0073] Robin toggles the haste power on Greymalkin's saddle, they sweep by and pick up Celyn, and pursue the Duskhound.
+[u0074] Various shenanigans are arranged to make sure that if Viepuck casts fly on his own horse again or any other concentration spell Izgil will be able to catch the queen when she drops as a result.
+[u0075] Greymalkin with the haste spell is substantially faster than even an all-out-running-and-teleporting Duskhound, which basically means we agree that he is keeping pace and we can just keep hitting the thing.
+[u0076] Which is mostly Celyn hitting the thing because Robin occasionally has to heal himself (so he can pull the spear out without keeling over immediately), Greymalkin (so the chase can continue), and so on.
+[u0077] Robin and Celyn both manage a single crit over the course of this, on the third attack my trip ability manages to slow the damn thing down a little, Viepuck manages to afflict the thing with visions of being stabbed by tiny Celyns (kind of like [those mushrooms that make people see the fairies](https://painfullymeta.tumblr.com/post/807406367148310528/every-year-doctors-at-a-hospital-in-the-yunnan)), and Celyn finally finishes it off.
+[u0078] By the time everyone regroups the queen is organizing matters and wants to know next steps, which are, obviously, to get her safely to Cleenseau which would be harder for fey to invade to abduct her from than the road through the swamp.
+[u0079] She wants to know if the danger is past and if timing is urgent, and Celyn does a breakdown: the Gloomshaper will not get a report back, but since he can use the Duskhounds as a sort of communicator he can potentially learn that the _Duskhound_ is dead at any time.
+[u0080] We don't know what the Hunter thought his boss needed to be warned about, but we have a moment for a breather but should be dealing with this promptly.
+[u0081] He didn't know when the queen would be on the move through the ambush zone, but that might mean he was checking in regularly....
+[u0082] But we inform the queen that as long as she's in Aveil she is likely in danger from this fuckery.
+[u0083] The queen asks if there's any way to end the threat.
+[u0084] Celyn says, "The only way I can think of to thwart him— and it probably won't be forever, but for a good while— is to permanently close the portal."
+[u0085] Robin sighs, and murmurs, "I don't want to." Robin is very tired of dealing with evil fey.
+[u0086] Robin needs a vacation.
+[u0087] The queen says, "I'm going to ask you to, though."
+[u0088] We are responsible adventurers and will go close the portal.
+[u0089] So the plan is now: get the queen to Cleenseau, with a quick stop in Asineau to tell our people what the deal is, check if we have any more information from our research team (we will not, but in character we check), get to Cleenseau, kit up, sleep, and head out in the early morning to hit the portal ideally before the Gloomshaper reinforces it or sends out more forces.
