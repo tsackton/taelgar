@@ -1,0 +1,373 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-001/cleaned/mawar-adventures-001-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-001/cleaned/mawar-adventures-001-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-001/cleaned/mawar-adventures-001-beats.json",
+  "selectedBeatIds": [
+    "beat-001",
+    "beat-002",
+    "beat-003",
+    "beat-004"
+  ],
+  "supplementalSources": [],
+  "contexts": [
+    {
+      "beat": {
+        "beatId": "beat-001",
+        "title": "Portents in Hamri",
+        "startUid": "u0001",
+        "endUid": "u0003",
+        "lineCount": 3,
+        "dateStart": "1747-07-23",
+        "dateEnd": null,
+        "timeWindow": null,
+        "containsCombat": false,
+        "boundaryReason": "This opening beat frames the episode by identifying the party, naming the merfolk crisis, and establishing the strange harbor omens that culminate on 23 July 1747 before the active confrontation begins.",
+        "dateEvidence": [
+          "session.yaml sets both drStart and drEnd to 1747-07-23",
+          "the cleaned source includes the heading '23 July 1747'",
+          "these opening lines present the setup for the events of that same day rather than a separate later scene"
+        ],
+        "startIndex": 0,
+        "endIndex": 2
+      },
+      "previousBeat": null,
+      "nextBeat": {
+        "beatId": "beat-002",
+        "title": "The Merfolk Ship",
+        "dateStart": "1747-07-23",
+        "dateEnd": null
+      },
+      "session": {
+        "title": null,
+        "campaign": "Mawar Adventures",
+        "scope": "session",
+        "sourceType": "narrative",
+        "sessionNumber": 1,
+        "drStart": "1747-07-23",
+        "drEnd": "1747-07-23",
+        "realWorldDate": "2021-07-24",
+        "participants": [
+          {
+            "name": "David Kong",
+            "role": null,
+            "gameRole": "Ryu"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "Wazir"
+          },
+          {
+            "name": "Eric Rosenbaum",
+            "role": null,
+            "gameRole": "Trok"
+          },
+          {
+            "name": "John Leeker",
+            "role": null,
+            "gameRole": "Kaleho"
+          },
+          {
+            "name": "Kate Sackton",
+            "role": null,
+            "gameRole": "Nerissa"
+          },
+          {
+            "name": "David Schwartz",
+            "role": null,
+            "gameRole": "Ander"
+          },
+          {
+            "name": "Tim Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
+        {
+          "uid": "u0001",
+          "header": "[u0001 | source]",
+          "text": "# Episode 1: The Merfolk Visitor *In which [[Ryu]], [[Wazir]], and [[Trok]] uncover a mysterious plot involving a strange ship, a [[Sentient Ocean]], and merfolk.*",
+          "raw": "[u0001 | source] # Episode 1: The Merfolk Visitor *In which [[Ryu]], [[Wazir]], and [[Trok]] uncover a mysterious plot involving a strange ship, a [[Sentient Ocean]], and merfolk.*"
+        },
+        {
+          "uid": "u0002",
+          "header": "[u0002 | source]",
+          "text": "PCs: [[Ryu]], [[Wazir]], [[Trok]]",
+          "raw": "[u0002 | source] PCs: [[Ryu]], [[Wazir]], [[Trok]]"
+        },
+        {
+          "uid": "u0003",
+          "header": "[u0003 | source]",
+          "text": "### 23 July 1747 The summer of 1747 has been strange, with unusual events noted in the harbor: a phantom ship docking one night, a massive creature of epic proportions disturbing the normal bioluminescent glow of the harbor, a day when no fish could be found anywhere along the coast.",
+          "raw": "[u0003 | source] ### 23 July 1747 The summer of 1747 has been strange, with unusual events noted in the harbor: a phantom ship docking one night, a massive creature of epic proportions disturbing the normal bioluminescent glow of the harbor, a day when no fish could be found anywhere along the coast."
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "beat-002",
+        "title": "The Merfolk Ship",
+        "startUid": "u0004",
+        "endUid": "u0004",
+        "lineCount": 1,
+        "dateStart": "1747-07-23",
+        "dateEnd": null,
+        "timeWindow": null,
+        "containsCombat": true,
+        "boundaryReason": "This beat covers the first active scene of the episode: the mysterious ship's arrival, the party's interception, and the harbor battle in which the merfolk expedition is nearly wiped out before the vessel is brought to safety.",
+        "dateEvidence": [
+          "the line explicitly says the strangest event happened on July 23rd when the ship came to port",
+          "the harbor encounter follows directly from the setup beat with no day break",
+          "nothing indicates a time skip before the party moves from the ship incident to pursuing the stolen ocean"
+        ],
+        "startIndex": 3,
+        "endIndex": 3
+      },
+      "previousBeat": {
+        "beatId": "beat-001",
+        "title": "Portents in Hamri",
+        "dateStart": "1747-07-23",
+        "dateEnd": null
+      },
+      "nextBeat": {
+        "beatId": "beat-003",
+        "title": "The Tidal Cave",
+        "dateStart": "1747-07-23",
+        "dateEnd": null
+      },
+      "session": {
+        "title": null,
+        "campaign": "Mawar Adventures",
+        "scope": "session",
+        "sourceType": "narrative",
+        "sessionNumber": 1,
+        "drStart": "1747-07-23",
+        "drEnd": "1747-07-23",
+        "realWorldDate": "2021-07-24",
+        "participants": [
+          {
+            "name": "David Kong",
+            "role": null,
+            "gameRole": "Ryu"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "Wazir"
+          },
+          {
+            "name": "Eric Rosenbaum",
+            "role": null,
+            "gameRole": "Trok"
+          },
+          {
+            "name": "John Leeker",
+            "role": null,
+            "gameRole": "Kaleho"
+          },
+          {
+            "name": "Kate Sackton",
+            "role": null,
+            "gameRole": "Nerissa"
+          },
+          {
+            "name": "David Schwartz",
+            "role": null,
+            "gameRole": "Ander"
+          },
+          {
+            "name": "Tim Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
+        {
+          "uid": "u0004",
+          "header": "[u0004 | source]",
+          "text": "But the strangest event of this month happened on July 23rd, the day a ship came to port, racing against the tide, with no obvious means of propulsion. Intercepted by [[Wazir]], the owner of the Leviathan, [[Trok]], a tattooed [[Lizardfolk]] outcast, and [[Ryu]], a noted fisherman and deep sea diver, the ship was a vessel for a merfolk expedition sent to recover a drop of [[Sentient Ocean]] stolen from their home. While water elementals and twisted fish-like humanoids attacked and killed most of the merfolk aboard, Turk, [[Ryu]]’s shark companion, managed to help steer the merfolk ship to safety.",
+          "raw": "[u0004 | source] But the strangest event of this month happened on July 23rd, the day a ship came to port, racing against the tide, with no obvious means of propulsion. Intercepted by [[Wazir]], the owner of the Leviathan, [[Trok]], a tattooed [[Lizardfolk]] outcast, and [[Ryu]], a noted fisherman and deep sea diver, the ship was a vessel for a merfolk expedition sent to recover a drop of [[Sentient Ocean]] stolen from their home. While water elementals and twisted fish-like humanoids attacked and killed most of the merfolk aboard, Turk, [[Ryu]]’s shark companion, managed to help steer the merfolk ship to safety."
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "beat-003",
+        "title": "The Tidal Cave",
+        "startUid": "u0005",
+        "endUid": "u0005",
+        "lineCount": 1,
+        "dateStart": "1747-07-23",
+        "dateEnd": null,
+        "timeWindow": null,
+        "containsCombat": true,
+        "boundaryReason": "After the ship is secured, the narrative shifts to a new objective and location as the party tracks the stolen vial inland to the tidal cave and abandoned tower, defeats the remaining elementals, and restores the drop of Sentient Ocean to Illius.",
+        "dateEvidence": [
+          "the line opens with 'Soon after,' which marks a same-day scene transition rather than a new day",
+          "session.yaml still anchors the whole episode to 1747-07-23",
+          "the source gives no evidence of sleep, travel overnight, or a next-morning reset between the harbor attack and the cave expedition"
+        ],
+        "startIndex": 4,
+        "endIndex": 4
+      },
+      "previousBeat": {
+        "beatId": "beat-002",
+        "title": "The Merfolk Ship",
+        "dateStart": "1747-07-23",
+        "dateEnd": null
+      },
+      "nextBeat": {
+        "beatId": "beat-004",
+        "title": "The Coded Scroll",
+        "dateStart": "1747-07-23",
+        "dateEnd": null
+      },
+      "session": {
+        "title": null,
+        "campaign": "Mawar Adventures",
+        "scope": "session",
+        "sourceType": "narrative",
+        "sessionNumber": 1,
+        "drStart": "1747-07-23",
+        "drEnd": "1747-07-23",
+        "realWorldDate": "2021-07-24",
+        "participants": [
+          {
+            "name": "David Kong",
+            "role": null,
+            "gameRole": "Ryu"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "Wazir"
+          },
+          {
+            "name": "Eric Rosenbaum",
+            "role": null,
+            "gameRole": "Trok"
+          },
+          {
+            "name": "John Leeker",
+            "role": null,
+            "gameRole": "Kaleho"
+          },
+          {
+            "name": "Kate Sackton",
+            "role": null,
+            "gameRole": "Nerissa"
+          },
+          {
+            "name": "David Schwartz",
+            "role": null,
+            "gameRole": "Ander"
+          },
+          {
+            "name": "Tim Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
+        {
+          "uid": "u0005",
+          "header": "[u0005 | source]",
+          "text": "Soon after, [[Ryu]], [[Wazir]], and [[Trok]] were able to track the bottled ocean, with the aid of [[Illius]]’s compass (the surviving merfolk), to a tidal cave beneath the cliffs to the west of [[Hamri|Hamri]], connecting to a long-abandoned abandoned seawatch tower. After defeating the last of the water elementals, [[Ryu]], [[Wazir]], and [[Trok]] were able to recover the drop of [[Sentient Ocean]] and return it safely to [[Illius]], who claimed that marids from the [[Elemental Plane of Water]] had been after the ocean for generations, and believed that one finally found a way to penetrate the defenses to steal a drop.",
+          "raw": "[u0005 | source] Soon after, [[Ryu]], [[Wazir]], and [[Trok]] were able to track the bottled ocean, with the aid of [[Illius]]’s compass (the surviving merfolk), to a tidal cave beneath the cliffs to the west of [[Hamri|Hamri]], connecting to a long-abandoned abandoned seawatch tower. After defeating the last of the water elementals, [[Ryu]], [[Wazir]], and [[Trok]] were able to recover the drop of [[Sentient Ocean]] and return it safely to [[Illius]], who claimed that marids from the [[Elemental Plane of Water]] had been after the ocean for generations, and believed that one finally found a way to penetrate the defenses to steal a drop."
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "beat-004",
+        "title": "The Coded Scroll",
+        "startUid": "u0006",
+        "endUid": "u0006",
+        "lineCount": 1,
+        "dateStart": "1747-07-23",
+        "dateEnd": null,
+        "timeWindow": null,
+        "containsCombat": false,
+        "boundaryReason": "The final beat is a clean aftermath scene focused on the treasure-chest discoveries, especially the coded scroll and strange silver amulet, and on Wazir's decision to begin deciphering the larger mystery behind the episode's events.",
+        "dateEvidence": [
+          "this discovery follows immediately after the cave recovery in the same narrative sequence",
+          "the source offers no sign of a day transition before Wazir takes the scroll",
+          "session.yaml continues to bound the episode to 1747-07-23"
+        ],
+        "startIndex": 5,
+        "endIndex": 5
+      },
+      "previousBeat": {
+        "beatId": "beat-003",
+        "title": "The Tidal Cave",
+        "dateStart": "1747-07-23",
+        "dateEnd": null
+      },
+      "nextBeat": null,
+      "session": {
+        "title": null,
+        "campaign": "Mawar Adventures",
+        "scope": "session",
+        "sourceType": "narrative",
+        "sessionNumber": 1,
+        "drStart": "1747-07-23",
+        "drEnd": "1747-07-23",
+        "realWorldDate": "2021-07-24",
+        "participants": [
+          {
+            "name": "David Kong",
+            "role": null,
+            "gameRole": "Ryu"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "Wazir"
+          },
+          {
+            "name": "Eric Rosenbaum",
+            "role": null,
+            "gameRole": "Trok"
+          },
+          {
+            "name": "John Leeker",
+            "role": null,
+            "gameRole": "Kaleho"
+          },
+          {
+            "name": "Kate Sackton",
+            "role": null,
+            "gameRole": "Nerissa"
+          },
+          {
+            "name": "David Schwartz",
+            "role": null,
+            "gameRole": "Ander"
+          },
+          {
+            "name": "Tim Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
+        {
+          "uid": "u0006",
+          "header": "[u0006 | source]",
+          "text": "In the chest with the vial of [[Sentient Ocean]] was also a scroll of written notes, in some kind of code, and a silver amulet of a strange design. [[Wazir]] took the scroll to attempt to decipher its meaning, wondering if indeed the phantom ship brought someone new to town involved in the schemes of the marids of the plane of water.",
+          "raw": "[u0006 | source] In the chest with the vial of [[Sentient Ocean]] was also a scroll of written notes, in some kind of code, and a silver amulet of a strange design. [[Wazir]] took the scroll to attempt to decipher its meaning, wondering if indeed the phantom ship brought someone new to town involved in the schemes of the marids of the plane of water."
+        }
+      ],
+      "supplementalSources": []
+    }
+  ]
+}

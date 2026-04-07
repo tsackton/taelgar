@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Cleenseau
-realWorldDate: 2025-04-06
+realWorldDate: 2025-03-30
 sessionNumber: 24
 players: [Robin, Viepuck, Celyn, Izgil]
 ---
@@ -10,7 +10,7 @@ players: [Robin, Viepuck, Celyn, Izgil]
 >_in Taelgar, March 4th - 5th
 >7 Robert I / DR 1720
 >[[Houille]] and [[Peydon]]
->on Earth: April 6th, 2025
+>on Earth: March 30th, 2025
 >
 
   

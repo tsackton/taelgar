@@ -9,9 +9,6 @@ players: [Robin, Viepuck, Celyn, Izgil]
 tagline: negotiation, infiltration, and rising paranoia in Veltor
 descTitle: Paranoia in Veltor
 ---
-descTitle: Three Lunatics and a Paladin
-descTitle: Paranoia in Veltor
----
 # Cleenseau - Session 27
 
 >[!info] Paranoia in Veltor: negotiation, infiltration, and rising paranoia

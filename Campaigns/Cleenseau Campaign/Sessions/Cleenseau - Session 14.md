@@ -1,5 +1,5 @@
 ---
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Cleenseau
 realWorldDate: 2024-04-28
 sessionNumber: 14
@@ -9,7 +9,7 @@ players: [Robin, Viepuck, Celyn]
 >_in Taelgar, January 24th
 >7 Robert I / DR 1720
 >[[Rinburg]] and [[Lake Rin]]
->on Earth: March 31st, 2024
+>on Earth: April 28th, 2024
 
 The party, missing Izgil, and accompanied by [[Armand]], [[Emilie]], and [[Odo Cordwaner]], deals with a problem: a local lake appears to have a lake monster. It appears to be a giant undead eel. Further, said lake monster is a) getting larger and b) has recently slaughtered the adventuring party attached to the relevant lake city, with the sole survivor being the local wizard who washed ashore, unconscious. Cultural assumptions are that wizards are Up To No Good so this has not helped her reputation at all.  
     
