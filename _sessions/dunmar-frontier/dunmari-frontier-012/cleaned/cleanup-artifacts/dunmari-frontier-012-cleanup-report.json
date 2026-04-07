@@ -1,0 +1,743 @@
+{
+  "summary": {
+    "changedLineCount": 98,
+    "replacementCount": 39,
+    "repeatedReplacementCount": 15,
+    "topReplacements": [
+      {
+        "from": "Knowles",
+        "to": "gnolls",
+        "count": 13,
+        "headers": [
+          "[u0107 | 00:11:48.210-00:11:50.910 | Kenzo]",
+          "[u0511 | 00:39:52.710-00:39:55.260 | Seeker]",
+          "[u1754 | 02:05:02.580-02:05:03.420 | Unknown]",
+          "[u2125 | 02:30:37.230-02:30:39.990 | Seeker]",
+          "[u2134 | 02:31:08.010-02:31:09.900 | Wellby]",
+          "[u2151 | 02:32:25.830-02:32:46.410 | DM]",
+          "[u2221 | 02:39:47.850-02:39:56.760 | Delwath]",
+          "[u2308 | 02:46:32.310-02:46:39.090 | Seeker]",
+          "[u2386 | 02:54:18.270-02:54:20.910 | Kenzo]",
+          "[u2478 | 03:01:11.520-03:01:19.290 | Delwath]",
+          "[u2531 | 03:04:43.680-03:04:52.230 | Kenzo]",
+          "[u2537 | 03:05:20.010-03:05:33.360 | Kenzo]",
+          "[u2538 | 03:05:35.220-03:05:40.860 | Seeker]"
+        ]
+      },
+      {
+        "from": "hacks",
+        "to": "hex",
+        "count": 10,
+        "headers": [
+          "[u0452 | 00:35:30.060-00:35:32.760 | Delwath]",
+          "[u0458 | 00:35:55.860-00:35:56.760 | DM]",
+          "[u0512 | 00:39:55.710-00:40:06.780 | Delwath]",
+          "[u0836 | 01:03:42.930-01:03:46.620 | DM]",
+          "[u1221 | 01:27:29.460-01:27:31.890 | Delwath]",
+          "[u1527 | 01:48:22.770-01:48:27.390 | Delwath]",
+          "[u1528 | 01:48:27.960-01:48:32.910 | Delwath]",
+          "[u1704 | 02:01:13.020-02:01:18.030 | Delwath]",
+          "[u1711 | 02:01:36.150-02:01:37.170 | Delwath]",
+          "[u2061 | 02:25:39.750-02:25:44.310 | Delwath]"
+        ]
+      },
+      {
+        "from": "well be",
+        "to": "Wellby",
+        "count": 9,
+        "headers": [
+          "[u0018 | 00:02:53.190-00:03:01.230 | Wellby]",
+          "[u0338 | 00:27:28.560-00:27:37.890 | Seeker]",
+          "[u0416 | 00:33:10.020-00:33:12.540 | DM]",
+          "[u0583 | 00:45:52.830-00:45:57.630 | DM]",
+          "[u0898 | 01:07:07.020-01:07:17.130 | DM]",
+          "[u1185 | 01:25:37.530-01:25:39.660 | DM]",
+          "[u1652 | 01:57:46.920-01:57:47.730 | DM]",
+          "[u1760 | 02:05:44.130-02:05:48.240 | DM]",
+          "[u2598 | 03:10:03.390-03:10:09.480 | DM]"
+        ]
+      },
+      {
+        "from": "nodes",
+        "to": "gnolls",
+        "count": 8,
+        "headers": [
+          "[u0005 | 00:00:43.500-00:01:00.750 | DM]",
+          "[u0525 | 00:41:05.340-00:41:10.680 | DM]",
+          "[u1007 | 01:15:02.310-01:15:14.520 | DM]",
+          "[u1368 | 01:37:52.020-01:38:00.540 | DM]",
+          "[u1917 | 02:16:05.220-02:16:06.780 | DM]",
+          "[u2009 | 02:22:16.590-02:22:19.920 | DM]",
+          "[u2316 | 02:47:11.910-02:47:17.190 | Kenzo]",
+          "[u2510 | 03:03:37.950-03:03:46.650 | Delwath]"
+        ]
+      },
+      {
+        "from": "Kansas",
+        "to": "Kenzo",
+        "count": 6,
+        "headers": [
+          "[u0009 | 00:01:35.310-00:01:44.340 | DM]",
+          "[u0821 | 01:02:51.180-01:02:53.220 | DM]",
+          "[u0977 | 01:12:50.940-01:12:54.480 | Seeker]",
+          "[u1444 | 01:43:09.660-01:43:14.520 | Kenzo]",
+          "[u1448 | 01:43:24.510-01:43:27.090 | Seeker]",
+          "[u1835 | 02:10:21.180-02:10:23.610 | DM]"
+        ]
+      },
+      {
+        "from": "Ken ' s",
+        "to": "Kenzo",
+        "count": 5,
+        "headers": [
+          "[u1160 | 01:23:50.940-01:23:54.720 | DM]",
+          "[u1368 | 01:37:52.020-01:38:00.540 | DM]",
+          "[u1596 | 01:54:03.960-01:54:07.140 | DM]",
+          "[u2006 | 02:22:04.200-02:22:09.330 | Wellby]",
+          "[u2261 | 02:43:44.820-02:43:57.000 | Kenzo]"
+        ]
+      },
+      {
+        "from": "Kenza",
+        "to": "Kenzo",
+        "count": 5,
+        "headers": [
+          "[u0985 | 01:13:17.250-01:13:20.610 | Seeker]",
+          "[u1898 | 02:14:06.720-02:14:11.100 | DM]",
+          "[u2062 | 02:25:45.330-02:25:48.240 | Delwath]",
+          "[u2078 | 02:27:12.120-02:27:12.990 | DM]",
+          "[u2423 | 02:57:07.500-02:57:14.850 | Wellby]"
+        ]
+      },
+      {
+        "from": "noles",
+        "to": "gnolls",
+        "count": 5,
+        "headers": [
+          "[u1820 | 02:09:30.390-02:09:36.480 | Seeker]",
+          "[u2310 | 02:46:42.480-02:46:48.420 | Kenzo]",
+          "[u2312 | 02:46:53.130-02:46:57.210 | Kenzo]",
+          "[u2424 | 02:57:15.870-02:57:23.670 | Wellby]",
+          "[u2505 | 03:03:08.010-03:03:21.240 | Kenzo]"
+        ]
+      },
+      {
+        "from": "ravens hold",
+        "to": "Raven ' s Hold",
+        "count": 4,
+        "headers": [
+          "[u0002 | 00:00:13.080-00:00:17.699 | DM]",
+          "[u0004 | 00:00:36.450-00:00:42.480 | DM]",
+          "[u0006 | 00:01:03.360-00:01:19.620 | DM]",
+          "[u0016 | 00:02:28.200-00:02:45.120 | DM]"
+        ]
+      },
+      {
+        "from": "Nolan",
+        "to": "gnoll",
+        "count": 3,
+        "headers": [
+          "[u1210 | 01:26:49.170-01:26:52.140 | DM]",
+          "[u1822 | 02:09:39.840-02:09:47.100 | Wellby]",
+          "[u2612 | 03:11:10.650-03:11:12.720 | Riswynn]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 2658,
+  "changedLineCount": 98,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0002 | 00:00:13.080-00:00:17.699 | DM]",
+      "lineNumber": 2,
+      "originalText": "We begin tonight as the morning sun rises over ravens hold",
+      "cleanedText": "We begin tonight as the morning sun rises over Raven's Hold"
+    },
+    {
+      "header": "[u0003 | 00:00:18.869-00:00:34.620 | DM]",
+      "lineNumber": 3,
+      "originalText": "As only a week ago that you woke in Carolina getting ready to watch the precession of the faithful during the festival of the rebirth as Kara prepared to evacuate and flee West and then the attack on the town that set you on your current course.",
+      "cleanedText": "As only a week ago that you woke in Karawa getting ready to watch the precession of the faithful during the festival of the rebirth as Karawa prepared to evacuate and flee West and then the attack on the town that set you on your current course."
+    },
+    {
+      "header": "[u0004 | 00:00:36.450-00:00:42.480 | DM]",
+      "lineNumber": 4,
+      "originalText": "Yesterday after traveling through the Durban strongholds finding your way into ravens hold underneath the valley.",
+      "cleanedText": "Yesterday after traveling through the dwarven strongholds finding your way into Raven's Hold underneath the valley."
+    },
+    {
+      "header": "[u0005 | 00:00:43.500-00:01:00.750 | DM]",
+      "lineNumber": 5,
+      "originalText": "And rescuing the Charter nian adventure bola Farina you began to uncover the secrets of this place a small group of nodes seems to have made this a base where they're hurting and keeping animals wild dogs jackals hyenas lines and more for some apparent ritual of",
+      "cleanedText": "And rescuing the Chardonian adventurer Vola Farina you began to uncover the secrets of this place a small group of gnolls seems to have made this a base where they're hurting and keeping animals wild dogs jackals hyenas lines and more for some apparent ritual of"
+    },
+    {
+      "header": "[u0006 | 00:01:03.360-00:01:19.620 | DM]",
+      "lineNumber": 6,
+      "originalText": "Investigating the inner keep of ravens hold you found a demon occupying it and patiently waiting for something and beginning to corrupt the dead bodies of antelope other pray for some unknown purpose.",
+      "cleanedText": "Investigating the inner keep of Raven's Hold you found a demon occupying it and patiently waiting for something and beginning to corrupt the dead bodies of antelope other pray for some unknown purpose."
+    },
+    {
+      "header": "[u0008 | 00:01:28.830-00:01:32.370 | DM]",
+      "lineNumber": 8,
+      "originalText": "Dangerous poison stinger on its BB tail and",
+      "cleanedText": "Dangerous poison stinger on its barbed tail and"
+    },
+    {
+      "header": "[u0009 | 00:01:35.310-00:01:44.340 | DM]",
+      "lineNumber": 9,
+      "originalText": "Disease it the poison diseases caused you prevailed watching the demons body disintegrate after Kansas killing blow.",
+      "cleanedText": "Disease it the poison diseases caused you prevailed watching the demons body disintegrate after Kenzo killing blow."
+    },
+    {
+      "header": "[u0010 | 00:01:46.620-00:01:48.810 | DM]",
+      "lineNumber": 10,
+      "originalText": "Thinking back a month ago and carola",
+      "cleanedText": "Thinking back a month ago and Karawa"
+    },
+    {
+      "header": "[u0016 | 00:02:28.200-00:02:45.120 | DM]",
+      "lineNumber": 16,
+      "originalText": "So, as you all just to kind of get us back into the scene of ravens hold and everybody's characters as you all awake and begin to get ready for breakfast, and the day we just go around and everybody to, you know, describe the character briefly what you're doing.",
+      "cleanedText": "So, as you all just to kind of get us back into the scene of Raven's Hold and everybody's characters as you all awake and begin to get ready for breakfast, and the day we just go around and everybody to, you know, describe the character briefly what you're doing."
+    },
+    {
+      "header": "[u0018 | 00:02:53.190-00:03:01.230 | Wellby]",
+      "lineNumber": 18,
+      "originalText": "So well be is a half laying in studded leather armor with the",
+      "cleanedText": "So Wellby is a half laying in studded leather armor with the"
+    },
+    {
+      "header": "[u0069 | 00:08:12.900-00:08:19.710 | DM]",
+      "lineNumber": 69,
+      "originalText": "Viola is shaken, but looks more well rested than some of the rest of you.",
+      "cleanedText": "Vola is shaken, but looks more well rested than some of the rest of you."
+    },
+    {
+      "header": "[u0107 | 00:11:48.210-00:11:50.910 | Kenzo]",
+      "lineNumber": 107,
+      "originalText": "Wait, so there's nine Knowles. How many flying that's",
+      "cleanedText": "Wait, so there's nine gnolls. How many flying that's"
+    },
+    {
+      "header": "[u0338 | 00:27:28.560-00:27:37.890 | Seeker]",
+      "lineNumber": 338,
+      "originalText": "As I see well be take out his crossbow I fling a tiny spiraling room that begins to orbit him.",
+      "cleanedText": "As I see Wellby take out his crossbow I fling a tiny spiraling room that begins to orbit him."
+    },
+    {
+      "header": "[u0416 | 00:33:10.020-00:33:12.540 | DM]",
+      "lineNumber": 416,
+      "originalText": "Ah, let's see, well be already had his turn.",
+      "cleanedText": "Ah, let's see, Wellby already had his turn."
+    },
+    {
+      "header": "[u0452 | 00:35:30.060-00:35:32.760 | Delwath]",
+      "lineNumber": 452,
+      "originalText": "Okay, I will hacks that fat guy.",
+      "cleanedText": "Okay, I will hex that fat guy."
+    },
+    {
+      "header": "[u0458 | 00:35:55.860-00:35:56.760 | DM]",
+      "lineNumber": 458,
+      "originalText": "Right from hacks.",
+      "cleanedText": "Right from hex."
+    },
+    {
+      "header": "[u0511 | 00:39:52.710-00:39:55.260 | Seeker]",
+      "lineNumber": 511,
+      "originalText": "The Knowles and not get the other guys.",
+      "cleanedText": "The gnolls and not get the other guys."
+    },
+    {
+      "header": "[u0512 | 00:39:55.710-00:40:06.780 | Delwath]",
+      "lineNumber": 512,
+      "originalText": "It's actually way more useful for you if you for me if you don't put the leader to sleep because then if you do I can move if he dies, I can move my hacks to another creature. But if he's just asleep. I can't",
+      "cleanedText": "It's actually way more useful for you if you for me if you don't put the leader to sleep because then if you do I can move if he dies, I can move my hex to another creature. But if he's just asleep. I can't"
+    },
+    {
+      "header": "[u0525 | 00:41:05.340-00:41:10.680 | DM]",
+      "lineNumber": 525,
+      "originalText": "So these are there's high enough nodes and then they'll either. This is the leader of the one next to the Spiritual Weapon.",
+      "cleanedText": "So these are there's high enough gnolls and then they'll either. This is the leader of the one next to the Spiritual Weapon."
+    },
+    {
+      "header": "[u0573 | 00:44:47.130-00:44:47.940 | DM]",
+      "lineNumber": 573,
+      "originalText": "At Viola",
+      "cleanedText": "At Vola"
+    },
+    {
+      "header": "[u0583 | 00:45:52.830-00:45:57.630 | DM]",
+      "lineNumber": 583,
+      "originalText": "I'm bouncing off the wall one flying towards well be missing.",
+      "cleanedText": "I'm bouncing off the wall one flying towards Wellby missing."
+    },
+    {
+      "header": "[u0753 | 00:57:59.970-00:58:04.470 | Wellby]",
+      "lineNumber": 753,
+      "originalText": "I feel like it should be. It should be batch like a you know a Kensal the monk know",
+      "cleanedText": "I feel like it should be. It should be batch like a you know a Kenzo the monk know"
+    },
+    {
+      "header": "[u0782 | 00:59:33.090-00:59:38.250 | DM]",
+      "lineNumber": 782,
+      "originalText": "Viola go on to move out.",
+      "cleanedText": "Vola go on to move out."
+    },
+    {
+      "header": "[u0821 | 01:02:51.180-01:02:53.220 | DM]",
+      "lineNumber": 821,
+      "originalText": "OK, so that was Kansas while beef.",
+      "cleanedText": "OK, so that was Kenzo while beef."
+    },
+    {
+      "header": "[u0836 | 01:03:42.930-01:03:46.620 | DM]",
+      "lineNumber": 836,
+      "originalText": "Perception is fogged by the hacks that is",
+      "cleanedText": "Perception is fogged by the hex that is"
+    },
+    {
+      "header": "[u0872 | 01:05:31.260-01:05:34.650 | DM]",
+      "lineNumber": 872,
+      "originalText": "Well, he has not fallen down as the arrow Pearson's him.",
+      "cleanedText": "Well, he has not fallen down as the arrow pierces him."
+    },
+    {
+      "header": "[u0883 | 01:06:01.890-01:06:09.960 | Seeker]",
+      "lineNumber": 883,
+      "originalText": "Um, it just says us immediately after the creature roles. The Bartok inspiration die to add it to an attack roll thunder based attack.",
+      "cleanedText": "Um, it just says us immediately after the creature roles. The bardic inspiration die to add it to an attack roll thunder based attack."
+    },
+    {
+      "header": "[u0898 | 01:07:07.020-01:07:17.130 | DM]",
+      "lineNumber": 898,
+      "originalText": "The room is the room is circling around well be. And when Welby expands the room. If you choose, you can then cause it to explode around",
+      "cleanedText": "The room is the room is circling around Wellby. And when Welby expands the room. If you choose, you can then cause it to explode around"
+    },
+    {
+      "header": "[u0977 | 01:12:50.940-01:12:54.480 | Seeker]",
+      "lineNumber": 977,
+      "originalText": "I also heard Kansas reaction to the",
+      "cleanedText": "I also heard Kenzo reaction to the"
+    },
+    {
+      "header": "[u0985 | 01:13:17.250-01:13:20.610 | Seeker]",
+      "lineNumber": 985,
+      "originalText": "So you have rubric inspiration Kenza",
+      "cleanedText": "So you have rubric inspiration Kenzo"
+    },
+    {
+      "header": "[u1007 | 01:15:02.310-01:15:14.520 | DM]",
+      "lineNumber": 1007,
+      "originalText": "Not, not back, stop it, stop it, stop it records horrible. OK, so now this these three two nodes are just gonna rush forward headlong into this gate.",
+      "cleanedText": "Not, not back, stop it, stop it, stop it records horrible. OK, so now this these three two gnolls are just gonna rush forward headlong into this gate."
+    },
+    {
+      "header": "[u1076 | 01:19:04.110-01:19:06.540 | DM]",
+      "lineNumber": 1076,
+      "originalText": "You can deflect missiles bola de cannon.",
+      "cleanedText": "You can deflect missiles Vola de cannon."
+    },
+    {
+      "header": "[u1139 | 01:22:24.870-01:22:27.720 | DM]",
+      "lineNumber": 1139,
+      "originalText": "Okay so so bola well",
+      "cleanedText": "Okay so so Vola well"
+    },
+    {
+      "header": "[u1160 | 01:23:50.940-01:23:54.720 | DM]",
+      "lineNumber": 1160,
+      "originalText": "And that will bring us to Ken's out",
+      "cleanedText": "And that will bring us to Kenzo out"
+    },
+    {
+      "header": "[u1185 | 01:25:37.530-01:25:39.660 | DM]",
+      "lineNumber": 1185,
+      "originalText": "Okay. So that brings us to well be.",
+      "cleanedText": "Okay. So that brings us to Wellby."
+    },
+    {
+      "header": "[u1210 | 01:26:49.170-01:26:52.140 | DM]",
+      "lineNumber": 1210,
+      "originalText": "Nolan, the distance fall over.",
+      "cleanedText": "gnoll, the distance fall over."
+    },
+    {
+      "header": "[u1221 | 01:27:29.460-01:27:31.890 | Delwath]",
+      "lineNumber": 1221,
+      "originalText": "I'll bonus action. My hacks on to the wounded one",
+      "cleanedText": "I'll bonus action. My hex on to the wounded one"
+    },
+    {
+      "header": "[u1368 | 01:37:52.020-01:38:00.540 | DM]",
+      "lineNumber": 1368,
+      "originalText": "Ken's are now being partially blocked by the cluster of nodes there but still figuring he's going to take a shot at Kenzo",
+      "cleanedText": "Kenzo are now being partially blocked by the cluster of gnolls there but still figuring he's going to take a shot at Kenzo"
+    },
+    {
+      "header": "[u1444 | 01:43:09.660-01:43:14.520 | Kenzo]",
+      "lineNumber": 1444,
+      "originalText": "Like in Kansas pissed off, but now all three of these dudes are wounded right that are that are down next to me.",
+      "cleanedText": "Like in Kenzo pissed off, but now all three of these dudes are wounded right that are that are down next to me."
+    },
+    {
+      "header": "[u1448 | 01:43:24.510-01:43:27.090 | Seeker]",
+      "lineNumber": 1448,
+      "originalText": "I like how it just says Kansas turn like 17 times in a row.",
+      "cleanedText": "I like how it just says Kenzo turn like 17 times in a row."
+    },
+    {
+      "header": "[u1452 | 01:43:34.290-01:43:38.040 | DM]",
+      "lineNumber": 1452,
+      "originalText": "Volo first bullet first. So she's also going to send a",
+      "cleanedText": "Vola first bullet first. So she's also going to send a"
+    },
+    {
+      "header": "[u1458 | 01:44:06.390-01:44:08.220 | DM]",
+      "lineNumber": 1458,
+      "originalText": "OK, so she's hiding so well being.",
+      "cleanedText": "OK, so she's hiding so Wellby."
+    },
+    {
+      "header": "[u1527 | 01:48:22.770-01:48:27.390 | Delwath]",
+      "lineNumber": 1527,
+      "originalText": "I forgot to have my hacks know was turning like glass. Turn the guy that my axon died right",
+      "cleanedText": "I forgot to have my hex know was turning like glass. Turn the guy that my axon died right"
+    },
+    {
+      "header": "[u1528 | 01:48:27.960-01:48:32.910 | Delwath]",
+      "lineNumber": 1528,
+      "originalText": "Yes. Alright, so I'm going to hacks. The hunter and I'll just blast them.",
+      "cleanedText": "Yes. Alright, so I'm going to hex. The hunter and I'll just blast them."
+    },
+    {
+      "header": "[u1578 | 01:52:48.300-01:52:53.070 | DM]",
+      "lineNumber": 1578,
+      "originalText": "And also attack Kensal but with disadvantage, which messages.",
+      "cleanedText": "And also attack Kenzo but with disadvantage, which messages."
+    },
+    {
+      "header": "[u1584 | 01:53:13.590-01:53:14.880 | DM]",
+      "lineNumber": 1584,
+      "originalText": "Let's see. Voila.",
+      "cleanedText": "Let's see. Vola."
+    },
+    {
+      "header": "[u1596 | 01:54:03.960-01:54:07.140 | DM]",
+      "lineNumber": 1596,
+      "originalText": "And that will enter turn so Ken's out your up",
+      "cleanedText": "And that will enter turn so Kenzo out your up"
+    },
+    {
+      "header": "[u1652 | 01:57:46.920-01:57:47.730 | DM]",
+      "lineNumber": 1652,
+      "originalText": "Okay well be.",
+      "cleanedText": "Okay Wellby."
+    },
+    {
+      "header": "[u1704 | 02:01:13.020-02:01:18.030 | Delwath]",
+      "lineNumber": 1704,
+      "originalText": "So I'll go over the web. I'll use a bonus action to move the hacks to",
+      "cleanedText": "So I'll go over the web. I'll use a bonus action to move the hex to"
+    },
+    {
+      "header": "[u1711 | 02:01:36.150-02:01:37.170 | Delwath]",
+      "lineNumber": 1711,
+      "originalText": "Five from hacks.",
+      "cleanedText": "Five from hex."
+    },
+    {
+      "header": "[u1718 | 02:02:12.630-02:02:21.060 | Riswynn]",
+      "lineNumber": 1718,
+      "originalText": "So why don't I just dash to try to get to the stairs at this point since that within well being and they're clogging up the group space.",
+      "cleanedText": "So why don't I just dash to try to get to the stairs at this point since that within Wellby and they're clogging up the group space."
+    },
+    {
+      "header": "[u1754 | 02:05:02.580-02:05:03.420 | Unknown]",
+      "lineNumber": 1754,
+      "originalText": "Of Knowles",
+      "cleanedText": "Of gnolls"
+    },
+    {
+      "header": "[u1760 | 02:05:44.130-02:05:48.240 | DM]",
+      "lineNumber": 1760,
+      "originalText": "And well be like limping on a slightly hurt ankle on the ground.",
+      "cleanedText": "And Wellby like limping on a slightly hurt ankle on the ground."
+    },
+    {
+      "header": "[u1820 | 02:09:30.390-02:09:36.480 | Seeker]",
+      "lineNumber": 1820,
+      "originalText": "And also, like, one of the noles made it back to warn everybody else like not great.",
+      "cleanedText": "And also, like, one of the gnolls made it back to warn everybody else like not great."
+    },
+    {
+      "header": "[u1822 | 02:09:39.840-02:09:47.100 | Wellby]",
+      "lineNumber": 1822,
+      "originalText": "We just look. Let's go get that Nolan killer. Well, he's gonna start sprinting up after that. No, I think I attached the thing",
+      "cleanedText": "We just look. Let's go get that gnoll killer. Well, he's gonna start sprinting up after that. No, I think I attached the thing"
+    },
+    {
+      "header": "[u1835 | 02:10:21.180-02:10:23.610 | DM]",
+      "lineNumber": 1835,
+      "originalText": "You probably save Kansas life with your",
+      "cleanedText": "You probably save Kenzo life with your"
+    },
+    {
+      "header": "[u1898 | 02:14:06.720-02:14:11.100 | DM]",
+      "lineNumber": 1898,
+      "originalText": "So, wow, well the and Kenza running after this know",
+      "cleanedText": "So, wow, well the and Kenzo running after this know"
+    },
+    {
+      "header": "[u1917 | 02:16:05.220-02:16:06.780 | DM]",
+      "lineNumber": 1917,
+      "originalText": "Where the other two nodes are",
+      "cleanedText": "Where the other two gnolls are"
+    },
+    {
+      "header": "[u1940 | 02:17:21.750-02:17:24.750 | DM]",
+      "lineNumber": 1940,
+      "originalText": "Sorry cancer and wellbeing. I know I keep saying Seager",
+      "cleanedText": "Sorry cancer and wellbeing. I know I keep saying Seeker"
+    },
+    {
+      "header": "[u1947 | 02:18:05.820-02:18:10.710 | Kenzo]",
+      "lineNumber": 1947,
+      "originalText": "And the one directly, like in front of us is that that Knoll is not injured or injured.",
+      "cleanedText": "And the one directly, like in front of us is that that gnoll is not injured or injured."
+    },
+    {
+      "header": "[u2006 | 02:22:04.200-02:22:09.330 | Wellby]",
+      "lineNumber": 2006,
+      "originalText": "Really when I lift my hand to Ken's of run. Oh look, I thought",
+      "cleanedText": "Really when I lift my hand to Kenzo of run. Oh look, I thought"
+    },
+    {
+      "header": "[u2009 | 02:22:16.590-02:22:19.920 | DM]",
+      "lineNumber": 2009,
+      "originalText": "Resin still running. Now these nodes are gonna go",
+      "cleanedText": "Resin still running. Now these gnolls are gonna go"
+    },
+    {
+      "header": "[u2061 | 02:25:39.750-02:25:44.310 | Delwath]",
+      "lineNumber": 2061,
+      "originalText": "Right. Okay. And then I will move my hacks to the guy.",
+      "cleanedText": "Right. Okay. And then I will move my hex to the guy."
+    },
+    {
+      "header": "[u2062 | 02:25:45.330-02:25:48.240 | Delwath]",
+      "lineNumber": 2062,
+      "originalText": "That Kenza was attacking and I'll just blast.",
+      "cleanedText": "That Kenzo was attacking and I'll just blast."
+    },
+    {
+      "header": "[u2078 | 02:27:12.120-02:27:12.990 | DM]",
+      "lineNumber": 2078,
+      "originalText": "In front of Kenza",
+      "cleanedText": "In front of Kenzo"
+    },
+    {
+      "header": "[u2079 | 02:27:15.930-02:27:17.010 | DM]",
+      "lineNumber": 2079,
+      "originalText": "Okay well be Europe.",
+      "cleanedText": "Okay, Wellby, you're up."
+    },
+    {
+      "header": "[u2093 | 02:28:08.190-02:28:19.020 | DM]",
+      "lineNumber": 2093,
+      "originalText": "Kenzo and and while be I started doing their thing. And then this last of divine energy comes flying past Kensal your face and just knock this know back flat on its back.",
+      "cleanedText": "Kenzo and Wellby start doing their thing. And then this last bit of divine energy comes flying past Kenzo's face and just knocks this gnoll back flat on its back."
+    },
+    {
+      "header": "[u2113 | 02:29:41.910-02:29:43.770 | DM]",
+      "lineNumber": 2113,
+      "originalText": "So cancer just runs forward.",
+      "cleanedText": "So Kenzo just runs forward."
+    },
+    {
+      "header": "[u2114 | 02:29:43.800-02:29:48.480 | DM]",
+      "lineNumber": 2114,
+      "originalText": "Bam second punch and the know goes flying back",
+      "cleanedText": "Bam second punch and the gnoll goes flying back"
+    },
+    {
+      "header": "[u2116 | 02:29:52.350-02:29:57.210 | DM]",
+      "lineNumber": 2116,
+      "originalText": "All of the nose dead now. I'm everything quiet, except for the",
+      "cleanedText": "All of the gnolls are dead now. Everything quiet, except for the"
+    },
+    {
+      "header": "[u2125 | 02:30:37.230-02:30:39.990 | Seeker]",
+      "lineNumber": 2125,
+      "originalText": "I'm wishing should make sure that there are more Knowles around",
+      "cleanedText": "I'm wishing should make sure that there are more gnolls around"
+    },
+    {
+      "header": "[u2134 | 02:31:08.010-02:31:09.900 | Wellby]",
+      "lineNumber": 2134,
+      "originalText": "scout the area, look for other Knowles",
+      "cleanedText": "scout the area, look for other gnolls"
+    },
+    {
+      "header": "[u2136 | 02:31:19.080-02:31:23.550 | Riswynn]",
+      "lineNumber": 2136,
+      "originalText": "Okay. Um, it is drove back and tell bola what's up and Teller",
+      "cleanedText": "Okay. Um, it is drove back and tell Vola what's up and Teller"
+    },
+    {
+      "header": "[u2148 | 02:32:08.790-02:32:14.760 | DM]",
+      "lineNumber": 2148,
+      "originalText": "You are all now sort of gathered Volta with sort of running after you as well. So everybody is now gathered",
+      "cleanedText": "You are all now sort of gathered Vola with sort of running after you as well. So everybody is now gathered"
+    },
+    {
+      "header": "[u2151 | 02:32:25.830-02:32:46.410 | DM]",
+      "lineNumber": 2151,
+      "originalText": "Case Cavan piles of rubble that block the entrance to the caverns where you originally listening to the animals and watching the patrols of Knowles pacing back and forth in and setting up on this plaza that says the sort of ruined remains of what was perhaps once a parade ground or",
+      "cleanedText": "Case Cavan piles of rubble that block the entrance to the caverns where you originally listening to the animals and watching the patrols of gnolls pacing back and forth in and setting up on this plaza that says the sort of ruined remains of what was perhaps once a parade ground or"
+    },
+    {
+      "header": "[u2221 | 02:39:47.850-02:39:56.760 | Delwath]",
+      "lineNumber": 2221,
+      "originalText": "Yeah, keep keep a lookout for, you know, another bat demon or Knowles on the plane, you know, in the right in the",
+      "cleanedText": "Yeah, keep keep a lookout for, you know, another bat demon or gnolls on the plane, you know, in the right in the"
+    },
+    {
+      "header": "[u2242 | 02:42:15.300-02:42:24.930 | Seeker]",
+      "lineNumber": 2242,
+      "originalText": "Huh Kinzer maybe we can offer them something to eat. If they give us some information do we have anything in kind of thing on you something.",
+      "cleanedText": "Huh Kenzo maybe we can offer them something to eat. If they give us some information do we have anything in kind of thing on you something."
+    },
+    {
+      "header": "[u2261 | 02:43:44.820-02:43:57.000 | Kenzo]",
+      "lineNumber": 2261,
+      "originalText": "I basically tried to even though you know i you know Ken's was unable to cast these spells, but just from like sheer presence is just really trying to tune into like the vibe of the communication going on between between seeker and the",
+      "cleanedText": "I basically tried to even though you know i you know Kenzo was unable to cast these spells, but just from like sheer presence is just really trying to tune into like the vibe of the communication going on between between seeker and the"
+    },
+    {
+      "header": "[u2308 | 02:46:32.310-02:46:39.090 | Seeker]",
+      "lineNumber": 2308,
+      "originalText": "They're collecting these creatures did they turn into Knowles or they just using them for this ritual is that about summoning",
+      "cleanedText": "They're collecting these creatures did they turn into gnolls or they just using them for this ritual is that about summoning"
+    },
+    {
+      "header": "[u2310 | 02:46:42.480-02:46:48.420 | Kenzo]",
+      "lineNumber": 2310,
+      "originalText": "Feels like the noles are either being transmitted from these these hyenas, or they're",
+      "cleanedText": "Feels like the gnolls are either being transmitted from these these hyenas, or they're"
+    },
+    {
+      "header": "[u2312 | 02:46:53.130-02:46:57.210 | Kenzo]",
+      "lineNumber": 2312,
+      "originalText": "The height is or or the noles are coming directly from whatever portal.",
+      "cleanedText": "The height is or or the gnolls are coming directly from whatever portal."
+    },
+    {
+      "header": "[u2316 | 02:47:11.910-02:47:17.190 | Kenzo]",
+      "lineNumber": 2316,
+      "originalText": "You know, next time we should not kill all the nodes we should try to keep one for interrogation. Now that I think about it.",
+      "cleanedText": "You know, next time we should not kill all the gnolls we should try to keep one for interrogation. Now that I think about it."
+    },
+    {
+      "header": "[u2386 | 02:54:18.270-02:54:20.910 | Kenzo]",
+      "lineNumber": 2386,
+      "originalText": "Do you think that blowing the horn causes an army of Knowles to come",
+      "cleanedText": "Do you think that blowing the horn causes an army of gnolls to come"
+    },
+    {
+      "header": "[u2423 | 02:57:07.500-02:57:14.850 | Wellby]",
+      "lineNumber": 2423,
+      "originalText": "Well, I head back towards the animals with that stuff and Kenza give you the spear and",
+      "cleanedText": "Well, I head back towards the animals with that stuff and Kenzo give you the spear and"
+    },
+    {
+      "header": "[u2424 | 02:57:15.870-02:57:23.670 | Wellby]",
+      "lineNumber": 2424,
+      "originalText": "Whoever can take a look at the locket and then I'll I think I'm on my way back. I'll try and drag. One of the noles from the courtyard with me.",
+      "cleanedText": "Whoever can take a look at the locket and then I'll I think I'm on my way back. I'll try and drag. One of the gnolls from the courtyard with me."
+    },
+    {
+      "header": "[u2443 | 02:58:38.040-02:58:48.300 | DM]",
+      "lineNumber": 2443,
+      "originalText": "And well being of sort of poke around. And these buildings without any sort of careful exploration, but enough to to detect that there's nothing living in those anymore.",
+      "cleanedText": "And Wellby of sort of poke around. And these buildings without any sort of careful exploration, but enough to to detect that there's nothing living in those anymore."
+    },
+    {
+      "header": "[u2473 | 03:00:50.100-03:00:50.820 | Unknown]",
+      "lineNumber": 2473,
+      "originalText": "Calvary.",
+      "cleanedText": "Cavalry."
+    },
+    {
+      "header": "[u2478 | 03:01:11.520-03:01:19.290 | Delwath]",
+      "lineNumber": 2478,
+      "originalText": "And we're thinking that if we left them free and then go run to the meat of the Knowles and, but how does that",
+      "cleanedText": "And we're thinking that if we left them free and then go run to the meat of the gnolls and, but how does that"
+    },
+    {
+      "header": "[u2486 | 03:01:55.140-03:02:07.110 | Riswynn]",
+      "lineNumber": 2486,
+      "originalText": "If we give them food and water here in the form of know corpses and some fresh water, then maybe they could make it somewhere like if they're smart enough not to drink the water",
+      "cleanedText": "If we give them food and water here in the form of gnoll corpses and some fresh water, then maybe they could make it somewhere like if they're smart enough not to drink the water"
+    },
+    {
+      "header": "[u2505 | 03:03:08.010-03:03:21.240 | Kenzo]",
+      "lineNumber": 2505,
+      "originalText": "On I. Well, I certainly agree we should we should release all of the hyenas. Before we go, and if we've we've killed all the noles when we killed that fucking demon. I mean, you know, it feels like we've cleaned this place out pretty well.",
+      "cleanedText": "On I. Well, I certainly agree we should we should release all of the hyenas. Before we go, and if we've we've killed all the gnolls when we killed that fucking demon. I mean, you know, it feels like we've cleaned this place out pretty well."
+    },
+    {
+      "header": "[u2510 | 03:03:37.950-03:03:46.650 | Delwath]",
+      "lineNumber": 2510,
+      "originalText": "There's gotta be something else here or somebody can I mean these these these nodes are not the masterminds of the demonic ritual.",
+      "cleanedText": "There's gotta be something else here or somebody can I mean these these these gnolls are not the masterminds of the demonic ritual."
+    },
+    {
+      "header": "[u2531 | 03:04:43.680-03:04:52.230 | Kenzo]",
+      "lineNumber": 2531,
+      "originalText": "Okay, yes, let's try to put this all together, who has been here you've got demons. You've got Knowles you got hyenas.",
+      "cleanedText": "Okay, yes, let's try to put this all together, who has been here you've got demons. You've got gnolls you got hyenas."
+    },
+    {
+      "header": "[u2535 | 03:04:59.520-03:05:02.580 | Kenzo]",
+      "lineNumber": 2535,
+      "originalText": "And a little bad demons. So they're all working together somehow",
+      "cleanedText": "And a little bat demons. So they're all working together somehow"
+    },
+    {
+      "header": "[u2537 | 03:05:20.010-03:05:33.360 | Kenzo]",
+      "lineNumber": 2537,
+      "originalText": "One idea might be that these hyenas are being turned into Knowles that might be possible, but we haven't seen any evidence for that yet. Right. And we don't know what the ritual either right",
+      "cleanedText": "One idea might be that these hyenas are being turned into gnolls that might be possible, but we haven't seen any evidence for that yet. Right. And we don't know what the ritual either right"
+    },
+    {
+      "header": "[u2538 | 03:05:35.220-03:05:40.860 | Seeker]",
+      "lineNumber": 2538,
+      "originalText": "Tim, do we know anything about Knowles. Like, do they actually come from corrupted heinous or",
+      "cleanedText": "Tim, do we know anything about gnolls. Like, do they actually come from corrupted heinous or"
+    },
+    {
+      "header": "[u2560 | 03:07:23.070-03:07:24.660 | DM]",
+      "lineNumber": 2560,
+      "originalText": "A Bissell energy",
+      "cleanedText": "abyssal energy"
+    },
+    {
+      "header": "[u2598 | 03:10:03.390-03:10:09.480 | DM]",
+      "lineNumber": 2598,
+      "originalText": "I mean what you remember from I forgot who was, I think, as well be who is watching that right what you remember is that it was",
+      "cleanedText": "I mean what you remember from I forgot who was, I think, as Wellby who is watching that right what you remember is that it was"
+    },
+    {
+      "header": "[u2612 | 03:11:10.650-03:11:12.720 | Riswynn]",
+      "lineNumber": 2612,
+      "originalText": "For Nolan, the insects.",
+      "cleanedText": "For gnoll, the insects."
+    }
+  ]
+}

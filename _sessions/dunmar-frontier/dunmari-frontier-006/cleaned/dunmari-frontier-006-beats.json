@@ -1,0 +1,146 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-session.yaml",
+  "beats": [
+    {
+      "beatId": "b01",
+      "title": "Council Aftermath",
+      "startUid": "u0001",
+      "endUid": "u0318",
+      "lineCount": 318,
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The session opens immediately after the council meeting as the party recaps the evacuation plan, reviews the map, and starts deciding what errands to handle before leaving town.",
+      "dateEvidence": [
+        "The DM says the party has just stepped out of the council meeting.",
+        "The manifest starts the session on 1748-04-04.",
+        "The DM says they have the afternoon before the Festival of Rebirth begins the next evening."
+      ]
+    },
+    {
+      "beatId": "b02",
+      "title": "Errands in Karawa",
+      "startUid": "u0319",
+      "endUid": "u0620",
+      "lineCount": 302,
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party splits up around Karawa, gathering local information from the Charmhearts, inspecting the mesa and temple, and questioning Candrosa about the north.",
+      "dateEvidence": [
+        "This beat continues directly from the afternoon council aftermath.",
+        "The scenes remain focused on same-day errands before Alesh's evening departure."
+      ]
+    },
+    {
+      "beatId": "b03",
+      "title": "Supplies and Farewell",
+      "startUid": "u0621",
+      "endUid": "u0993",
+      "lineCount": 373,
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Preparation shifts into logistics as the group buys supplies, Seeker plans temple fortifications, and Alesh rides out south after agreeing on a rendezvous plan.",
+      "dateEvidence": [
+        "The transcript stays on the same pre-festival day until Alesh says they are leaving that evening before the festival.",
+        "The beat ends when Alesh rides off and the DM asks what the party does before tomorrow's festival."
+      ]
+    },
+    {
+      "beatId": "b04",
+      "title": "Fortify and Meet Riswynn",
+      "startUid": "u0994",
+      "endUid": "u1189",
+      "lineCount": 196,
+      "dateStart": "1748-04-05",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "A new day begins with Seeker reinforcing the temple, the party finishing preparations, and Riswynn arriving at the caravanserai to join the Raven's Hold expedition.",
+      "dateEvidence": [
+        "The DM asks what the party does before tomorrow's festival, then moves into work that takes most of the next day.",
+        "The beat ends with Riswynn explaining her background shortly before the festival begins.",
+        "The manifest covers the next day of preparations before the evening festival rite."
+      ]
+    },
+    {
+      "beatId": "b05",
+      "title": "Festival Ambush Begins",
+      "startUid": "u1190",
+      "endUid": "u1499",
+      "lineCount": 310,
+      "dateStart": "1748-04-05",
+      "dateEnd": "1748-04-06",
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The first Jeevali rite and the next day's procession frame the town's fear until the ambush erupts at the edge of the crowd and the opening rounds of combat begin.",
+      "dateEvidence": [
+        "The DM narrates the first night of the festival, then explicitly says that in the morning the procession continues.",
+        "The ambush begins during the next afternoon's shrine procession, so this beat spans two consecutive festival days."
+      ]
+    },
+    {
+      "beatId": "b06",
+      "title": "Maws in the Crowd",
+      "startUid": "u1500",
+      "endUid": "u1899",
+      "lineCount": 400,
+      "dateStart": "1748-04-06",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The fight tightens as the maw-creatures crash into the party's line, everyone scrambles for position, and Kenzo takes the brunt of the assault.",
+      "dateEvidence": [
+        "This beat begins in the middle of the ambush after the procession scene has already shifted into combat.",
+        "The battle is still happening in the same afternoon festival crowd outside town."
+      ]
+    },
+    {
+      "beatId": "b07",
+      "title": "Gnolls Broken",
+      "startUid": "u1900",
+      "endUid": "u2292",
+      "lineCount": 393,
+      "dateStart": "1748-04-06",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The tide turns as the remaining attackers are cut down, one gnoll is left sleeping and bound, and the immediate combat gives way to emergency triage and decisions.",
+      "dateEvidence": [
+        "The action continues without a scene break from the earlier combat phase.",
+        "The beat ends once initiative effectively stops and the party starts discussing what to do with the sleeping gnoll."
+      ]
+    },
+    {
+      "beatId": "b08",
+      "title": "Flight at First Light",
+      "startUid": "u2293",
+      "endUid": "u2743",
+      "lineCount": 451,
+      "dateStart": "1748-04-06",
+      "dateEnd": "1748-04-07",
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "After the battle the party examines the surviving gnoll and strange maws, confers with Havdar and Candrosa, then spends a tense night preparing while the town flees west at dawn.",
+      "dateEvidence": [
+        "The beat starts immediately after initiative ends on the day of the ambush.",
+        "The transcript then explicitly moves through the evening and into the next morning's evacuation and departure.",
+        "The morning departure is inferred to be the following day because the party rests overnight before the dawn exodus."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-beat-facts.json",
+  "session": {
+    "campaign": "Cleenseau",
+    "scope": "session",
+    "sessionNumber": 29,
+    "realWorldDate": "2025-11-09",
+    "drStart": null,
+    "drEnd": null
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "undated",
+      "beatIds": [
+        "b01",
+        "b02",
+        "b03"
+      ],
+      "locationRefs": [
+        "Asineau",
+        "Marwick",
+        "destroyed summer villages above Marwick"
+      ],
+      "npcRefs": [
+        "Vahaiya",
+        "the Earl of Marwick",
+        "the Earl's surviving knight"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Robin takes possession of Asineau, and the party begins rebuilding the village into a stronger, wealthier, and more welcoming home base.",
+        "Vahaiya brings news of a marauding dragon, and the party rides east to Marwick to assess the threat and volunteer to face it.",
+        "Robin designs a ballista for the dragon while Celyn and Viepuck scout the ruined villages, find kobold traces, and pin down the beast's habits."
+      ],
+      "sourceLongSummaries": [
+        "After the fallen Baroness is convicted of treason and Robin accepts the lordship of Asineau, the party throws itself into remaking the village. Robin focuses on defenses, Celyn on the local economy, and Izgil on research and craft infrastructure, while new smithing, workshop, garden, and glassmaking projects begin to take shape. The village draws in craftsmen, opens trade with the nearby lizardfolk, hosts festivals and halfling merchants, and starts to settle into a more confident and prosperous life under its new lord.",
+        "In high summer, Vahaiya warns the party that a dragon is ravaging the border between Tyrwingha and Addermarch and may be linked to an older, more terrible draconic threat from the Great War. With local rulers short on troops and the broader southern crisis tying down the Sembaran response, the party decides to intervene. They travel east to Marwick, where they find a half-emptied stronghold, learn how the dragon has been destroying the summer villages, and confirm that it is dangerous but not the ancient terror Vahaiya feared.",
+        "At Marwick, Robin applies his new interest in siegecraft to the problem of grounding a fast-moving dragon, laying out a specialized ballista while the others gather field intelligence. Celyn, Viepuck, and one of the Earl's surviving knights search the destroyed settlements, discover signs that kobolds are active around the lair, and spend the next day watching the dragon's movements from the ridge. Once they confirm when it leaves to hunt and plunder, the party returns to finish the weapon and prepare an ambush."
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "undated",
+      "beatIds": [
+        "b04"
+      ],
+      "locationRefs": [
+        "ruined mountain village near the dragon's lair"
+      ],
+      "npcRefs": [
+        "the winged kobold leader",
+        "the winged kobold's sister"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party intercepts a kobold foraging group, talks them into surrender, and turns their grudging testimony into an ambush plan for the dragon."
+      ],
+      "sourceLongSummaries": [
+        "Using cows and the concealed ballista as bait, the party waits in a ruined village and catches a small kobold group sneaking in ahead of the dragon. Viepuck and Celyn help force a surrender, and the party teases out a surprising amount of information from the captives: the kobolds were driven north from the south by the same ash-cloud disaster now unsettling the realm, their dragon commands several rival factions, and not all of them are eager to die for its glory. By the end of the conversation Robin has persuaded the least enthusiastic kobolds to stay nearby and support a trap when the dragon returns."
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "undated",
+      "beatIds": [
+        "b05"
+      ],
+      "locationRefs": [
+        "valley below the dragon's lair"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "With the trap reset and the allied kobolds in place, the party waits outside the lair until a midnight warning announces the dragon's approach."
+      ],
+      "sourceLongSummaries": [
+        "After settling on the details of the ambush, the party sends Es*tiaslos up near the lair to watch for movement and takes positions in the valley. Robin also begins imagining what might happen if the surviving kobolds were brought back to Asineau, a prospect that delights Celyn mostly because of the local uproar it would cause. The quiet ends when the warning comes in after midnight: the dragon is on the move with five kobolds and is heading straight toward them."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Asineau Ascendant",
+      "beatIds": [
+        "b01"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0020"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0020"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "undated",
+      "locationRefs": [
+        "Asineau"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Robin takes possession of Asineau, and the party begins rebuilding the village into a stronger, wealthier, and more welcoming home base."
+      ],
+      "sourceLongSummaries": [
+        "After the fallen Baroness is convicted of treason and Robin accepts the lordship of Asineau, the party throws itself into remaking the village. Robin focuses on defenses, Celyn on the local economy, and Izgil on research and craft infrastructure, while new smithing, workshop, garden, and glassmaking projects begin to take shape. The village draws in craftsmen, opens trade with the nearby lizardfolk, hosts festivals and halfling merchants, and starts to settle into a more confident and prosperous life under its new lord."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Dragon Rumors East",
+      "beatIds": [
+        "b02"
+      ],
+      "sourceRange": {
+        "startUid": "u0021",
+        "endUid": "u0025"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0025"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "undated",
+      "locationRefs": [
+        "Asineau",
+        "Marwick"
+      ],
+      "npcRefs": [
+        "Vahaiya",
+        "the Earl of Marwick"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Vahaiya brings news of a marauding dragon, and the party rides east to Marwick to assess the threat and volunteer to face it."
+      ],
+      "sourceLongSummaries": [
+        "In high summer, Vahaiya warns the party that a dragon is ravaging the border between Tyrwingha and Addermarch and may be linked to an older, more terrible draconic threat from the Great War. With local rulers short on troops and the broader southern crisis tying down the Sembaran response, the party decides to intervene. They travel east to Marwick, where they find a half-emptied stronghold, learn how the dragon has been destroying the summer villages, and confirm that it is dangerous but not the ancient terror Vahaiya feared."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Scouting the Ruins",
+      "beatIds": [
+        "b03"
+      ],
+      "sourceRange": {
+        "startUid": "u0026",
+        "endUid": "u0027"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0026",
+          "endUid": "u0027"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "undated",
+      "locationRefs": [
+        "Marwick",
+        "destroyed summer villages above Marwick"
+      ],
+      "npcRefs": [
+        "the Earl's surviving knight"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Robin designs a ballista for the dragon while Celyn and Viepuck scout the ruined villages, find kobold traces, and pin down the beast's habits."
+      ],
+      "sourceLongSummaries": [
+        "At Marwick, Robin applies his new interest in siegecraft to the problem of grounding a fast-moving dragon, laying out a specialized ballista while the others gather field intelligence. Celyn, Viepuck, and one of the Earl's surviving knights search the destroyed settlements, discover signs that kobolds are active around the lair, and spend the next day watching the dragon's movements from the ridge. Once they confirm when it leaves to hunt and plunder, the party returns to finish the weapon and prepare an ambush."
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Kobolds Take the Cow",
+      "beatIds": [
+        "b04"
+      ],
+      "sourceRange": {
+        "startUid": "u0028",
+        "endUid": "u0048"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0028",
+          "endUid": "u0048"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "undated",
+      "locationRefs": [
+        "ruined mountain village near the dragon's lair"
+      ],
+      "npcRefs": [
+        "the winged kobold leader",
+        "the winged kobold's sister"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party intercepts a kobold foraging group, talks them into surrender, and turns their grudging testimony into an ambush plan for the dragon."
+      ],
+      "sourceLongSummaries": [
+        "Using cows and the concealed ballista as bait, the party waits in a ruined village and catches a small kobold group sneaking in ahead of the dragon. Viepuck and Celyn help force a surrender, and the party teases out a surprising amount of information from the captives: the kobolds were driven north from the south by the same ash-cloud disaster now unsettling the realm, their dragon commands several rival factions, and not all of them are eager to die for its glory. By the end of the conversation Robin has persuaded the least enthusiastic kobolds to stay nearby and support a trap when the dragon returns."
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "Night Watch",
+      "beatIds": [
+        "b05"
+      ],
+      "sourceRange": {
+        "startUid": "u0049",
+        "endUid": "u0051"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0049",
+          "endUid": "u0051"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "undated",
+      "locationRefs": [
+        "valley below the dragon's lair"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "With the trap reset and the allied kobolds in place, the party waits outside the lair until a midnight warning announces the dragon's approach."
+      ],
+      "sourceLongSummaries": [
+        "After settling on the details of the ambush, the party sends Es*tiaslos up near the lair to watch for movement and takes positions in the valley. Robin also begins imagining what might happen if the surviving kobolds were brought back to Asineau, a prospect that delights Celyn mostly because of the local uproar it would cause. The quiet ends when the warning comes in after midnight: the dragon is on the move with five kobolds and is heading straight toward them."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Vahaiya",
+        "beatIds": [
+          "b02"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "the Earl of Marwick",
+        "beatIds": [
+          "b02"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "the Earl's surviving knight",
+        "beatIds": [
+          "b03"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "the winged kobold leader",
+        "beatIds": [
+          "b04"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "the winged kobold's sister",
+        "beatIds": [
+          "b04"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [],
+    "majorLocations": [
+      {
+        "name": "Asineau",
+        "beatIds": [
+          "b01",
+          "b02"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Marwick",
+        "beatIds": [
+          "b02",
+          "b03"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "destroyed summer villages above Marwick",
+        "beatIds": [
+          "b03"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "ruined mountain village near the dragon's lair",
+        "beatIds": [
+          "b04"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "valley below the dragon's lair",
+        "beatIds": [
+          "b05"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Vahaiya",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "messenger and dragon witness",
+          "beatIds": [
+            "b02"
+          ],
+          "history": []
+        },
+        {
+          "name": "the Earl of Marwick",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "local ruler under siege",
+          "beatIds": [
+            "b02"
+          ],
+          "history": []
+        },
+        {
+          "name": "the Earl's surviving knight",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "guide and local escort",
+          "beatIds": [
+            "b03"
+          ],
+          "history": []
+        },
+        {
+          "name": "the winged kobold leader",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "captured spokesperson",
+          "beatIds": [
+            "b04"
+          ],
+          "history": []
+        },
+        {
+          "name": "the winged kobold's sister",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "captured second-in-command",
+          "beatIds": [
+            "b04"
+          ],
+          "history": []
+        }
+      ],
+      "locations": [
+        {
+          "name": "Asineau",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "Robin's new demesne and the village works being expanded around it",
+          "beatIds": [
+            "b01",
+            "b02"
+          ],
+          "visits": []
+        },
+        {
+          "name": "Marwick",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "eastward travel to the castle nearest the dragon's attacks",
+          "beatIds": [
+            "b02",
+            "b03"
+          ],
+          "visits": []
+        },
+        {
+          "name": "destroyed summer villages above Marwick",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "scouting the ravaged uplands and observing the dragon from the ridge",
+          "beatIds": [
+            "b03"
+          ],
+          "visits": []
+        },
+        {
+          "name": "ruined mountain village near the dragon's lair",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "the baited ambush site with concealed ballista and cow decoy",
+          "beatIds": [
+            "b04"
+          ],
+          "visits": []
+        },
+        {
+          "name": "valley below the dragon's lair",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "the concealed overnight ambush position outside the lair approach",
+          "beatIds": [
+            "b05"
+          ],
+          "visits": []
+        }
+      ],
+      "organizations": [],
+      "items": []
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Lorin Valbert",
+          "contextHint": "former lord"
+        },
+        {
+          "name": "Odo Cordwaner",
+          "contextHint": "captain of the guard"
+        },
+        {
+          "name": "Brot Starsearcher",
+          "contextHint": "tinkering dwarf"
+        },
+        {
+          "name": "the miller",
+          "contextHint": "local bigot"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Sembaran Army",
+          "contextHint": null
+        },
+        {
+          "name": "The Rangers",
+          "contextHint": null
+        }
+      ],
+      "items": []
+    }
+  }
+}

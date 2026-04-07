@@ -1,0 +1,77 @@
+{
+  "totalDurationSeconds": 9599.662,
+  "speakers": [
+    {
+      "transcriptIdentifier": "David Kong",
+      "name": "David Kong",
+      "gameRole": "Kenzo",
+      "segmentCount": 6,
+      "durationSeconds": 42.546,
+      "fraction": 0.0044,
+      "wordCount": 106
+    },
+    {
+      "transcriptIdentifier": "David Kong (he/him) Organizer, MIT Media Lab",
+      "name": "David Kong",
+      "gameRole": "Kenzo",
+      "segmentCount": 346,
+      "durationSeconds": 1710.2,
+      "fraction": 0.1782,
+      "wordCount": 4201
+    },
+    {
+      "transcriptIdentifier": "Eric Rosenbaum",
+      "name": "Eric Rosenbaum",
+      "gameRole": "Seeker",
+      "segmentCount": 126,
+      "durationSeconds": 496.028,
+      "fraction": 0.0517,
+      "wordCount": 1224
+    },
+    {
+      "transcriptIdentifier": "Kate Sackton",
+      "name": "Kate Sackton",
+      "gameRole": "Riswynn",
+      "segmentCount": 91,
+      "durationSeconds": 414.636,
+      "fraction": 0.0432,
+      "wordCount": 1036
+    },
+    {
+      "transcriptIdentifier": "Mike Sackton",
+      "name": "Mike Sackton",
+      "gameRole": "Delwath",
+      "segmentCount": 510,
+      "durationSeconds": 2456.134,
+      "fraction": 0.2559,
+      "wordCount": 5562
+    },
+    {
+      "transcriptIdentifier": "Tim Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 931,
+      "durationSeconds": 4107.704,
+      "fraction": 0.4279,
+      "wordCount": 8710
+    },
+    {
+      "transcriptIdentifier": "UU Church of Boulder",
+      "name": "David Schwartz",
+      "gameRole": "Wellby",
+      "segmentCount": 65,
+      "durationSeconds": 288.546,
+      "fraction": 0.0301,
+      "wordCount": 692
+    },
+    {
+      "transcriptIdentifier": "Unknown",
+      "name": null,
+      "gameRole": "Unknown",
+      "segmentCount": 50,
+      "durationSeconds": 83.868,
+      "fraction": 0.0087,
+      "wordCount": 93
+    }
+  ]
+}

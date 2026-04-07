@@ -1,0 +1,358 @@
+{
+  "summary": {
+    "changedLineCount": 42,
+    "replacementCount": 57,
+    "repeatedReplacementCount": 5,
+    "topReplacements": [
+      {
+        "from": "ravens hold",
+        "to": "Raven ' s Hold",
+        "count": 4,
+        "headers": [
+          "[u0072 | 00:06:55.650-00:07:02.940 | Wellby]",
+          "[u0542 | 00:43:52.770-00:43:55.950 | DM]",
+          "[u0825 | 01:03:53.820-01:04:01.170 | Wellby]",
+          "[u0903 | 01:10:14.790-01:10:26.940 | DM]"
+        ]
+      },
+      {
+        "from": "Kerala",
+        "to": "Karawa",
+        "count": 3,
+        "headers": [
+          "[u0825 | 01:03:53.820-01:04:01.170 | Wellby]",
+          "[u0899 | 01:09:42.630-01:09:47.340 | DM]",
+          "[u2970 | 03:49:18.330-03:49:19.230 | DM]"
+        ]
+      },
+      {
+        "from": "done Mari",
+        "to": "Dunmari",
+        "count": 3,
+        "headers": [
+          "[u0791 | 01:00:41.430-01:00:43.170 | DM]",
+          "[u2586 | 03:17:34.290-03:17:41.730 | Kenzo]",
+          "[u2665 | 03:24:11.760-03:24:17.340 | Kenzo]"
+        ]
+      },
+      {
+        "from": "Carla",
+        "to": "Candrosa",
+        "count": 2,
+        "headers": [
+          "[u2840 | 03:37:52.800-03:37:53.340 | Delwath]",
+          "[u2841 | 03:37:56.940-03:37:57.810 | DM]"
+        ]
+      },
+      {
+        "from": "center",
+        "to": "centaur",
+        "count": 2,
+        "headers": [
+          "[u2467 | 03:07:30.210-03:07:35.070 | DM]",
+          "[u2586 | 03:17:34.290-03:17:41.730 | Kenzo]"
+        ]
+      },
+      {
+        "from": ", South Carolina",
+        "to": "south to Karawa",
+        "count": 1,
+        "headers": [
+          "[u0238 | 00:20:44.610-00:20:53.220 | Delwath]"
+        ]
+      },
+      {
+        "from": ". And",
+        "to": ", and",
+        "count": 1,
+        "headers": [
+          "[u2442 | 03:05:38.760-03:05:46.230 | Kenzo]"
+        ]
+      },
+      {
+        "from": "Carol was",
+        "to": "Karawa is",
+        "count": 1,
+        "headers": [
+          "[u2860 | 03:39:20.850-03:39:27.720 | Delwath]"
+        ]
+      },
+      {
+        "from": "Centaurs",
+        "to": "centaurs are",
+        "count": 1,
+        "headers": [
+          "[u2442 | 03:05:38.760-03:05:46.230 | Kenzo]"
+        ]
+      },
+      {
+        "from": "Darren Dros",
+        "to": "Tharandros",
+        "count": 1,
+        "headers": [
+          "[u2960 | 03:47:59.250-03:48:01.560 | DM]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 2978,
+  "changedLineCount": 42,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0006 | 00:01:13.680-00:01:22.080 | DM]",
+      "lineNumber": 6,
+      "originalText": "The festival rebirth has been one like no other coming in the midst of rumors of devastation to the Sabbath and unknown evils crossing the borders of done",
+      "cleanedText": "The Festival of Rebirth has been one like no other coming in the midst of rumors of devastation to the south and unknown evils crossing the borders of Dunmar"
+    },
+    {
+      "header": "[u0009 | 00:01:43.800-00:01:54.000 | DM]",
+      "lineNumber": 9,
+      "originalText": "Vicious mouth full of teeth and blood from some other world. It was not without cost as Kenza was brought near death by the fury of the attack.",
+      "cleanedText": "Vicious mouths full of teeth and blood from some other world. It was not without cost as Kenzo was brought near death by the fury of the attack."
+    },
+    {
+      "header": "[u0044 | 00:04:16.650-00:04:24.420 | Seeker]",
+      "lineNumber": 44,
+      "originalText": "So I thought we could solve the dispute using one of these I hold up a stone cube with renick markings on each of the six sites.",
+      "cleanedText": "So I thought we could solve the dispute using one of these I hold up a stone cube with runic markings on each of the six sides."
+    },
+    {
+      "header": "[u0072 | 00:06:55.650-00:07:02.940 | Wellby]",
+      "lineNumber": 72,
+      "originalText": "But the question I wonder, also, is do we want to head straight to ravens hold or do we want to try tracking the mall and the nor",
+      "cleanedText": "But the question I wonder, also, is do we want to head straight to Raven's Hold or do we want to try tracking the maw and the gnolls"
+    },
+    {
+      "header": "[u0099 | 00:09:40.200-00:09:45.240 | Delwath]",
+      "lineNumber": 99,
+      "originalText": "See if we can find that out before we ride hard but if they seem to have been coming from Raven sold",
+      "cleanedText": "See if we can find that out before we ride hard but if they seem to have been coming from Raven's Hold"
+    },
+    {
+      "header": "[u0188 | 00:17:05.010-00:17:08.070 | Seeker]",
+      "lineNumber": 188,
+      "originalText": "Can we differentiate the noles in the malls.",
+      "cleanedText": "Can we differentiate the gnolls and the maws."
+    },
+    {
+      "header": "[u0238 | 00:20:44.610-00:20:53.220 | Delwath]",
+      "lineNumber": 238,
+      "originalText": "It's like a large group came from the northeast disagreed about direction and then some of them went off to the west and some of the ones, South Carolina.",
+      "cleanedText": "It's like a large group came from the northeast, disagreed about direction, and then some of them went off to the west and some of the ones south to Karawa."
+    },
+    {
+      "header": "[u0260 | 00:22:41.610-00:22:44.190 | Seeker]",
+      "lineNumber": 260,
+      "originalText": "We saw those Knowles move very fast in combat.",
+      "cleanedText": "We saw those gnolls move very fast in combat."
+    },
+    {
+      "header": "[u0261 | 00:22:47.100-00:22:48.300 | Wellby]",
+      "lineNumber": 261,
+      "originalText": "They're headed for took read on.",
+      "cleanedText": "They're headed for Tokra then."
+    },
+    {
+      "header": "[u0542 | 00:43:52.770-00:43:55.950 | DM]",
+      "lineNumber": 542,
+      "originalText": "From ravens hold and should be crossing the road tomorrow.",
+      "cleanedText": "From Raven's Hold and should be crossing the road tomorrow."
+    },
+    {
+      "header": "[u0791 | 01:00:41.430-01:00:43.170 | DM]",
+      "lineNumber": 791,
+      "originalText": "Half a dozen done Mari",
+      "cleanedText": "Half a dozen Dunmari"
+    },
+    {
+      "header": "[u0812 | 01:02:41.070-01:02:52.440 | DM]",
+      "lineNumber": 812,
+      "originalText": "Weapons or anything. She's carrying, you know, a couple of spirits, but they seem, you know, she's not a warrior right these are not none of these are particularly fighters and she",
+      "cleanedText": "Weapons or anything. She's carrying, you know, a couple of spears, but they seem, you know, she's not a warrior right these are not none of these are particularly fighters and she"
+    },
+    {
+      "header": "[u0825 | 01:03:53.820-01:04:01.170 | Wellby]",
+      "lineNumber": 825,
+      "originalText": "My companions, and I have been in Kerala this last week, and after a series of attacks. Some coming from ravens hold",
+      "cleanedText": "My companions, and I have been in Karawa this last week, and after a series of attacks. Some coming from Raven's Hold"
+    },
+    {
+      "header": "[u0826 | 01:04:02.280-01:04:10.260 | Wellby]",
+      "lineNumber": 826,
+      "originalText": "They and I have been traveling to ravens hold try and find the source. It looks like you all may have encountered some of the",
+      "cleanedText": "They and I have been traveling to Raven's Hold to try and find the source. It looks like you all may have encountered some of the"
+    },
+    {
+      "header": "[u0899 | 01:09:42.630-01:09:47.340 | DM]",
+      "lineNumber": 899,
+      "originalText": "As the fire was burning across the plains, as we were trying to come directly to Kerala.",
+      "cleanedText": "As the fire was burning across the plains, as we were trying to come directly to Karawa."
+    },
+    {
+      "header": "[u0903 | 01:10:14.790-01:10:26.940 | DM]",
+      "lineNumber": 903,
+      "originalText": "So that's this in the map enroll 20 it's this thing right here. So it's in the it's sort of just south of the mountains, but a good bit west of ravens hold",
+      "cleanedText": "So that's this in the map in Roll20 it's this thing right here. So it's sort of just south of the mountains, but a good bit west of Raven's Hold"
+    },
+    {
+      "header": "[u0949 | 01:15:06.090-01:15:16.470 | Kenzo]",
+      "lineNumber": 949,
+      "originalText": "There are still some mistakes at the temple and carwash and they're staying four to five there so you may be able to find some safety there, you may be able to find some provisions there.",
+      "cleanedText": "There are still some mystai at the temple in Karawa and they're staying for a time there so you may be able to find some safety there, you may be able to find some provisions there."
+    },
+    {
+      "header": "[u0958 | 01:15:55.380-01:15:56.910 | DM]",
+      "lineNumber": 958,
+      "originalText": "That flows past okra.",
+      "cleanedText": "That flows past Hara."
+    },
+    {
+      "header": "[u0968 | 01:16:36.510-01:16:41.490 | DM]",
+      "lineNumber": 968,
+      "originalText": "Looking for us, I believe, as we were late for the festival and warned us",
+      "cleanedText": "Looking for us, I believe, as we were late for the festival, and warned us"
+    },
+    {
+      "header": "[u0974 | 01:17:15.330-01:17:18.330 | DM]",
+      "lineNumber": 974,
+      "originalText": "The all the land east of the river are had been",
+      "cleanedText": "That all the land east of the River Hara had been"
+    },
+    {
+      "header": "[u2319 | 02:56:13.680-02:56:22.710 | DM]",
+      "lineNumber": 2319,
+      "originalText": "off in that direction. The mountains ahead of you. And I'm and to the right, where Raven sold his rise up sharply from the plane.",
+      "cleanedText": "off in that direction. The mountains ahead of you. And to the right, where Raven's Hold is, rise up sharply from the plain."
+    },
+    {
+      "header": "[u2321 | 02:56:35.490-02:56:36.900 | DM]",
+      "lineNumber": 2321,
+      "originalText": "Towards ravens hole and",
+      "cleanedText": "Towards Raven's Hold and"
+    },
+    {
+      "header": "[u2378 | 03:01:02.370-03:01:06.750 | Delwath]",
+      "lineNumber": 2378,
+      "originalText": "North so neither Raven hold nor the thing",
+      "cleanedText": "North so neither Raven's Hold nor the thing"
+    },
+    {
+      "header": "[u2442 | 03:05:38.760-03:05:46.230 | Kenzo]",
+      "lineNumber": 2442,
+      "originalText": "Venus, do we know what's our the Centaurs. Do we know what they are. And we've heard of these things. And I've already these things and done more.",
+      "cleanedText": "I mean, do we know what the centaurs are. Do we know what they are. And we've heard of these things, and I've heard of these things in Dunmar."
+    },
+    {
+      "header": "[u2464 | 03:07:20.730-03:07:23.160 | DM]",
+      "lineNumber": 2464,
+      "originalText": "The planes of the FE and",
+      "cleanedText": "The planes of the Fey and"
+    },
+    {
+      "header": "[u2467 | 03:07:30.210-03:07:35.070 | DM]",
+      "lineNumber": 2467,
+      "originalText": "Your rarely come away from talking to a center with",
+      "cleanedText": "You rarely come away from talking to a centaur with"
+    },
+    {
+      "header": "[u2586 | 03:17:34.290-03:17:41.730 | Kenzo]",
+      "lineNumber": 2586,
+      "originalText": "At this pause in the conversation kinds of kind of just raises hand slightly. It says, You speak done Mari by chance to the center.",
+      "cleanedText": "At this pause in the conversation Kenzo just raises his hand slightly. It says, You speak Dunmari by chance to the centaur."
+    },
+    {
+      "header": "[u2597 | 03:18:21.570-03:18:28.950 | Kenzo]",
+      "lineNumber": 2597,
+      "originalText": "We're on a journey to to ravens hold you know anything, do you haven't. Do you have any understanding of what's happening there.",
+      "cleanedText": "We're on a journey to Raven's Hold. Do you have any understanding of what's happening there."
+    },
+    {
+      "header": "[u2665 | 03:24:11.760-03:24:17.340 | Kenzo]",
+      "lineNumber": 2665,
+      "originalText": "That he's referring to about, is he saying that humans have created this or that the done Mari specifically",
+      "cleanedText": "That he's referring to about, is he saying that humans have created this or that the Dunmari specifically"
+    },
+    {
+      "header": "[u2840 | 03:37:52.800-03:37:53.340 | Delwath]",
+      "lineNumber": 2840,
+      "originalText": "Carla.",
+      "cleanedText": "Candrosa."
+    },
+    {
+      "header": "[u2841 | 03:37:56.940-03:37:57.810 | DM]",
+      "lineNumber": 2841,
+      "originalText": "Carla, no.",
+      "cleanedText": "Candrosa, no."
+    },
+    {
+      "header": "[u2859 | 03:39:08.040-03:39:13.920 | Kenzo]",
+      "lineNumber": 2859,
+      "originalText": "If you, if you encounter any other than Lori, can you let them know that you've seen us and let them know this danger.",
+      "cleanedText": "If you, if you encounter any other Dunmari, can you let them know that you've seen us and let them know this danger."
+    },
+    {
+      "header": "[u2860 | 03:39:20.850-03:39:27.720 | Delwath]",
+      "lineNumber": 2860,
+      "originalText": "Can we tell them where the, I mean, I asked him again. Carol was not far",
+      "cleanedText": "Can we tell them where the, I mean, I ask him again. Karawa is not far"
+    },
+    {
+      "header": "[u2871 | 03:40:38.910-03:40:41.100 | DM]",
+      "lineNumber": 2871,
+      "originalText": "Do not see what the Dunbar, I have",
+      "cleanedText": "Do not see what the Dunmari have"
+    },
+    {
+      "header": "[u2913 | 03:43:52.110-03:43:57.300 | Delwath]",
+      "lineNumber": 2913,
+      "originalText": "I think you would find the ones you the ones remaining and Cara.",
+      "cleanedText": "I think you would find the ones remaining in Karawa."
+    },
+    {
+      "header": "[u2933 | 03:45:27.690-03:45:31.110 | Wellby]",
+      "lineNumber": 2933,
+      "originalText": "Trying to figure out like how, how does centers work here.",
+      "cleanedText": "Trying to figure out like how, how do centaurs work here."
+    },
+    {
+      "header": "[u2935 | 03:45:36.900-03:45:40.230 | Wellby]",
+      "lineNumber": 2935,
+      "originalText": "In Denmark, because I really doubt this be happening.",
+      "cleanedText": "In Dunmari, because I really doubt this'd be happening."
+    },
+    {
+      "header": "[u2938 | 03:45:48.240-03:45:52.800 | Wellby]",
+      "lineNumber": 2938,
+      "originalText": "They know their how to walk between this world and agreement world.",
+      "cleanedText": "They know how to walk between this world and the Dreamworld."
+    },
+    {
+      "header": "[u2954 | 03:47:24.120-03:47:25.890 | DM]",
+      "lineNumber": 2954,
+      "originalText": "Make these pastors safe again.",
+      "cleanedText": "Make these pastures safe again."
+    },
+    {
+      "header": "[u2960 | 03:47:59.250-03:48:01.560 | DM]",
+      "lineNumber": 2960,
+      "originalText": "My name is Darren Dros",
+      "cleanedText": "My name is Tharandros"
+    },
+    {
+      "header": "[u2970 | 03:49:18.330-03:49:19.230 | DM]",
+      "lineNumber": 2970,
+      "originalText": "Towards Kerala.",
+      "cleanedText": "Towards Karawa."
+    },
+    {
+      "header": "[u2974 | 03:49:29.550-03:49:44.070 | DM]",
+      "lineNumber": 2974,
+      "originalText": "To the mountains. We will stop here as the road heading up into the past is ahead of you, the planes heading east towards the wall of ravens holds",
+      "cleanedText": "To the mountains. We will stop here as the road heading up into the pass is ahead of you, the plains heading east towards the walls of Raven's Hold"
+    }
+  ]
+}

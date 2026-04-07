@@ -1,0 +1,40 @@
+schemaVersion: '1.0'
+sourceType: transcript
+scope: session
+campaign: Dunmari Frontier
+sessionNumber: 63
+realWorldDate: '2022-11-05'
+drStart: '1748-10-03'
+drEnd: '1748-10-12'
+drStartTime: null
+drEndTime: null
+participants:
+- name: Eric Rosenbaum
+  gameRole: Seeker
+  transcriptIdentifiers:
+  - Eric Rosenbaum
+- name: Isaac Sackton
+  gameRole: Raven
+  transcriptIdentifiers:
+  - Isaac Sackton (Raven)
+  - Raven
+- name: Kate Sackton
+  gameRole: Spirala
+  transcriptIdentifiers:
+  - Kate Sackton (Spirala
+  - Spirala
+- name: David Kong
+  gameRole: Mikasa
+  transcriptIdentifiers:
+  - David Kong (he/him) Organizer, MIT Media Lab
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers:
+  - Timothy Sackton
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-063/sources/GMT20221105-003201_Recording.transcript.vtt
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-063/sources/dunmar-frontier-session063.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-063/sources/dunmar-frontier-session063-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-source-prepared.md
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-063/sources/zoom-session-063.speaker_mapping.json
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-speaker-stats.json

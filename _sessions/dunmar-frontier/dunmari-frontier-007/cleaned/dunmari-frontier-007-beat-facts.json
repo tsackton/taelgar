@@ -1,0 +1,349 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-04-07",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party leaves Karawa after the festival attack, studies the fresh tracks north of town, and decides to follow the trail toward Raven's Hold rather than chase the western raiders.",
+      "longSummary": "On the morning after Karawa's defense, the party rides out from the village and quickly reaches the split tracks left by the attackers. Seeker presents maps and pace calculations, while Delwath, Wellby, and the others argue through whether speed or caution matters more on the open plains. By the end of the beat they have read enough of the trail to conclude that the larger movement came from the northeast, making Raven's Hold the likeliest source worth pursuing first.",
+      "location": {
+        "kind": "journey",
+        "from": "Karawa",
+        "to": "Northern Dunmar Plains",
+        "context": "the departure from Karawa and the open grassland north of town where the tracks split",
+        "notes": "The beat begins in Karawa and shifts into overland travel across the northern plains."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Seeker's route maps",
+          "role": "encountered",
+          "notes": "Seeker uses prepared maps and travel estimates to frame the party's route debate."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-04-07",
+      "dateEnd": "1748-04-08",
+      "timeWindow": null,
+      "shortSummary": "After weighing the split tracks and the lack of any quick warning system, the party commits to a hard ride on a straight line toward Raven's Hold and spends an uneventful first night on the plains.",
+      "longSummary": "The route argument continues as the party measures whether the western raiders can even be caught and whether Tokra or other settlements can be warned in time. Once they accept that no fast mundane message network will help them, they choose to cut northeast across the plains instead of spending extra time rejoining the road. Riswynn also shares maps drawn by Eberk Brawnanvil, giving the group more confidence in the direct line, and the beat closes with late-day riding, camp, and the next day's quiet travel north.",
+      "location": {
+        "kind": "journey",
+        "from": "Northern Dunmar Plains",
+        "to": "Northern Dunmar Plains",
+        "context": "a direct overland ride northeast toward Raven's Hold, crossing away from the road and camping in the open prairie",
+        "notes": "This beat spans the first full stretch of travel after leaving Karawa."
+      },
+      "npcs": [
+        {
+          "name": "Eberk Brawnanvil",
+          "role": "mentioned",
+          "context": "source of Riswynn's maps",
+          "notes": "His old maps become part of the group's navigation discussion even though he is not present."
+        }
+      ],
+      "items": [
+        {
+          "name": "Eberk Brawnanvil's maps",
+          "role": "encountered",
+          "notes": "Riswynn produces her uncle's maps to help Wellby compare landmarks and confirm the direct route."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-04-09",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "At a road crossing north of Karawa, the party meets Shani and other goat-herders fleeing gnolls, learns of an unnatural storm and prairie fire, and sends them south toward safety.",
+      "longSummary": "On the third day of travel the party reaches the road and spots a dusty group hurrying south with surviving goats. The travelers are led by Shani, who explains that lightning and fire drove them from the plains and that inhuman predators attacked their band during the flight. The party offers healing, shares what it knows about Karawa and Raven's Hold, and comes away with a clearer picture of the spreading disorder: the storm to the north is unnatural, the gnolls are roaming widely, and civilians are already abandoning the uplands.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Northern Dunmar Plains",
+        "context": "the road crossing where the party intercepts a southbound refugee band with goats",
+        "notes": "The whole beat stays at the roadside meeting point."
+      },
+      "npcs": [
+        {
+          "name": "Shani",
+          "role": "encountered",
+          "context": "leader of the fleeing goat-herders",
+          "notes": "She describes the fire, the storm, and the gnoll attack that forced her people off the plains."
+        },
+        {
+          "name": "goat-herders",
+          "role": "encountered",
+          "context": "southbound refugees",
+          "notes": "Their flight confirms that the danger around Raven's Hold is already driving people from their homes."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Temple of Shakun",
+          "role": "mentioned",
+          "notes": "Kenzo directs Shani's band toward the mystai and temple shelter in Karawa."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-04-09",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "After camping on the plains, the party is ambushed in the night by gnolls and allied maw-creatures, forcing a scramble for cover among the rocks.",
+      "longSummary": "The warning from Shani proves immediate. Once the party settles for the night, attackers come out of the dark and strike hard before everyone is fully ready, combining brutal chargers with more disciplined ranged support. The opening phase of the battle is chaotic and defensive, as the party tries to understand the number and kind of enemies around them while surviving the first rush.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Northern Dunmar Plains",
+        "context": "the party's night camp among scattered rocks north of the road",
+        "notes": "The encounter begins in darkness at the same campsite used after leaving Shani's group."
+      },
+      "npcs": [
+        {
+          "name": "gnolls",
+          "role": "enemy",
+          "context": "night raiders attacking from the darkness",
+          "notes": "The attackers include more tactical gnolls using missiles and coordinated movement."
+        },
+        {
+          "name": "maws",
+          "role": "enemy",
+          "context": "charging beast-creatures mixed into the ambush",
+          "notes": "These creatures are more feral and less organized than the gnolls supporting them."
+        }
+      ],
+      "items": [
+        {
+          "name": "rabbit crates",
+          "role": "encountered",
+          "notes": "Seeker's recently purchased rabbits become part of the party's improvised thinking during the ambush."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "gnolls and maws",
+            "notes": "A mixed raiding group attacks the camp under cover of darkness."
+          }
+        ],
+        "notes": "This beat covers the opening scramble as the party reacts to the nighttime ambush."
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-04-09",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "The fight settles into a hard ranged exchange as the party uses rocks, spells, and Seeker's floating rabbit trick to blunt the gnolls' pressure.",
+      "longSummary": "Once the opening shock passes, the battle turns into a tense middle phase dominated by arrows, spears, and partial cover. Seeker uses a strange coin to conjure a floating-disc distraction that presents the attackers with panicked rabbits, while the rest of the party trades shots and tries to isolate the more dangerous archers. The beat makes clear that some of the enemy are thinking tactically and using poison and positioning rather than simply charging.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Northern Dunmar Plains",
+        "context": "the same rocky night camp, now fought over at range from cover to cover",
+        "notes": "No location change occurs; the combat continues across the same campsite."
+      },
+      "npcs": [
+        {
+          "name": "gnolls",
+          "role": "enemy",
+          "context": "archers and spear-fighters pressing the camp",
+          "notes": "The more organized gnolls coordinate ranged attacks and include poison users."
+        }
+      ],
+      "items": [
+        {
+          "name": "floating-disc coin",
+          "role": "encountered",
+          "notes": "Seeker uses the coin-driven trick to create a hovering distraction for the attackers."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "gnolls",
+            "notes": "The main pressure in this phase comes from the more disciplined gnoll archers and spear-fighters."
+          }
+        ],
+        "notes": "This beat covers the sustained exchange of arrows, poison, and battlefield repositioning."
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-04-10",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "shortSummary": "As dawn breaks, the party finally turns the fight, cuts down the remaining gnolls, and prevents the last survivor from escaping.",
+      "longSummary": "The long night fight carries into the first light of morning, but by then the attackers are worn down and losing ground. The party focuses fire on the surviving gnolls, chases down the one who tries to flee, and ends the ambush before reinforcements can be drawn in. With the final attackers dead, the encounter shifts from survival to recovery and assessment.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Northern Dunmar Plains",
+        "context": "the same campsite at dawn after hours of fighting",
+        "notes": "The combat resolves at the original camp as daylight begins to return."
+      },
+      "npcs": [
+        {
+          "name": "gnolls",
+          "role": "enemy",
+          "context": "the last surviving attackers at dawn",
+          "notes": "The final gnolls are killed as they falter and try to break away."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "gnolls",
+            "notes": "The remaining gnolls are finished off as the fight tips decisively in the party's favor."
+          }
+        ],
+        "notes": "This beat covers the last combat turns and the failed escape of the final attacker."
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-04-10",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "After searching the dead and taking stock of how dangerous the gnolls are, the party finishes its rest and Seeker questions a vulture about movement near Raven's Hold and the storm.",
+      "longSummary": "Morning brings cleanup and a more sober view of what the ambush means. The party finds only crude weapons and a grisly bone necklace on the fallen leader, concluding that the gnolls are equipped from local materials but may be learning discipline. As they recover and prepare to move, Seeker uses magic to speak with a vulture overhead and gains a sparse warning: there is feeding and movement around the fortress and stormward lands, but not the kind of mass migration the party feared.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Northern Dunmar Plains",
+        "context": "the dawn camp after the ambush, with vultures circling over the dead",
+        "notes": "The beat stays at camp while the party recovers, searches bodies, and questions a carrion bird."
+      },
+      "npcs": [
+        {
+          "name": "vulture",
+          "role": "encountered",
+          "context": "carrion bird questioned with magic",
+          "notes": "Its answers give the party only broad signs of feeding, motion, and danger near the fortress and storm."
+        }
+      ],
+      "items": [
+        {
+          "name": "goat-bone necklace",
+          "role": "encountered",
+          "notes": "The gnoll leader carries a necklace made from bloody goat knuckle bones."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-04-10",
+      "dateEnd": "1748-04-11",
+      "timeWindow": null,
+      "shortSummary": "With the ambush behind them, the party rides north across increasingly silent plains, watching the blackened stormfront and the mountains around Raven's Hold draw closer.",
+      "longSummary": "After the vulture exchange, the group resumes its overland push toward Raven's Hold. The travel is quiet enough to feel wrong: little moves on the plains, smoke and smoldering blackness mark the storm's direction, and the mountains rise more sharply as the party nears the fortress. By the end of the beat they can make out features of the terrain ahead, including a distant waterfall and the rough approach toward the pass, but not yet the full shape of what waits at Raven's Hold.",
+      "location": {
+        "kind": "journey",
+        "from": "Northern Dunmar Plains",
+        "to": "Approach to Raven's Hold",
+        "context": "the open plains north of Karawa, closing on the mountains, the pass, and the eastern approaches to Raven's Hold",
+        "notes": "This beat is continuous travel over two quiet days."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-04-11",
+      "dateEnd": "1748-04-12",
+      "timeWindow": null,
+      "shortSummary": "Camping near the mountains, the party notices the tainted stillness of the land and wakes to a fast-approaching band of centaurs coming in from the east.",
+      "longSummary": "As the party makes camp close to the pass and the mountain approaches, the plains feel emptied out, with only vultures, flies, and a foul drift of sulfurous rot moving on the wind. Nothing attacks in the night, but the land itself feels spoiled and watchful. At dawn that silence breaks when a large group of mounted figures races in from the east, and the party gradually realizes they are not riders on horses at all but centaurs heading straight toward camp.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Approach to Raven's Hold",
+        "context": "a campsite near the mountains and southern pass below Raven's Hold",
+        "notes": "The beat covers one evening's camp and the dawn arrival of the centaur band."
+      },
+      "npcs": [
+        {
+          "name": "centaur band",
+          "role": "encountered",
+          "context": "fast-moving travelers from the east",
+          "notes": "The group approaches in force at dawn and becomes the focus of the next scene."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party parleys with the centaur leader Tharandros, learns that poisoned water is spreading outward from Raven's Hold through a planar tether, and persuades the centaurs to warn Karawa before seeking safety farther west.",
+      "longSummary": "What begins as a tense dawn encounter becomes a long exchange of fragments, translation, and theory. The centaur leader, Tharandros, explains that his people are abandoning the region because streams and watering holes have been poisoned, a corruption he believes spreads outward from Raven's Hold while some tether to another realm remains in place. The conversation turns to demon-haunted planes, old human beliefs that gave shape to such horrors, and the possibility that healing the land will require severing the tether rather than merely surviving its consequences. Before the party moves on, Delwath and the others convince Tharandros to ride south toward Karawa and share what his people know so the Dunmari are not left blind to the danger.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Approach to Raven's Hold",
+        "context": "the dawn campsite near the pass, with Raven's Hold and the western storm visible from the plains",
+        "notes": "The scene remains at camp until the centaurs turn south and the party prepares to continue toward the hold."
+      },
+      "npcs": [
+        {
+          "name": "Tharandros",
+          "role": "encountered",
+          "context": "centaur leader speaking for his people",
+          "notes": "He describes the poisoned water, the tether to another realm, and the centaurs' decision to leave the region."
+        },
+        {
+          "name": "centaurs",
+          "role": "encountered",
+          "context": "Tharandros's migrating band",
+          "notes": "They are moving west and south in search of clean water and safer pastures."
+        },
+        {
+          "name": "Candrosa",
+          "role": "mentioned",
+          "context": "possible contact in Karawa",
+          "notes": "The party suggests the centaurs may be able to find wisdom or aid among the remaining sages in Karawa."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

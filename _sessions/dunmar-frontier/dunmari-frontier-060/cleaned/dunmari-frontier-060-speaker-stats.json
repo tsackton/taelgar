@@ -1,0 +1,32 @@
+{
+  "totalDurationSeconds": 4241.351,
+  "speakers": [
+    {
+      "transcriptIdentifier": "Rev. David Schwartz (he/him)",
+      "name": "David Schwartz",
+      "gameRole": "Wellby",
+      "segmentCount": 354,
+      "durationSeconds": 1118.583,
+      "fraction": 0.2637,
+      "wordCount": 2986
+    },
+    {
+      "transcriptIdentifier": "Timothy Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 866,
+      "durationSeconds": 3076.335,
+      "fraction": 0.7253,
+      "wordCount": 7234
+    },
+    {
+      "transcriptIdentifier": "Unknown",
+      "name": null,
+      "gameRole": "Unknown",
+      "segmentCount": 27,
+      "durationSeconds": 46.433,
+      "fraction": 0.0109,
+      "wordCount": 96
+    }
+  ]
+}

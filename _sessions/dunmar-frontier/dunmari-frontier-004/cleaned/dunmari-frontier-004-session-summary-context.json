@@ -1,0 +1,863 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 4,
+    "realWorldDate": "2020-07-09",
+    "drStart": "1748-03-26",
+    "drEnd": "1748-03-29"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1748-03-26",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b01"
+      ],
+      "locationRefs": [
+        "Dunmari Fort"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [
+        "Five Siblings"
+      ],
+      "itemRefs": [
+        "black iron staff",
+        "obsidian orb",
+        "holy symbol of Aagir"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party finishes searching the ruined fort, discusses the relics they recovered, and prepares to head back west."
+      ],
+      "sourceLongSummaries": [
+        "After waking in the fort's old temple, the party reviews what they found there, including the black iron staff, the obsidian orb, and sacred objects tied to the Five Siblings. They debate what the undead hobgoblin and its relics might mean, gather what they can carry, recover their trapped horse, and decide to return toward Kerala with their findings."
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1748-03-26",
+      "dateEnd": "1748-03-29",
+      "timeWindow": null,
+      "resolution": "date-range",
+      "beatIds": [
+        "b02"
+      ],
+      "locationRefs": [
+        "Dunmari Fort",
+        "Kerala"
+      ],
+      "npcRefs": [
+        "Kesa"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party rides back to Kerala over several days, finds the land quieter, and reports their success to Kesa."
+      ],
+      "sourceLongSummaries": [
+        "Leaving the ruined fort, the party notices a palpable easing in the land and travels back through border country that feels calmer than before. By the time they reach Kerala, the town is swelling with visitors for the Festival of Rebirth. Kesa receives them in relief, hears that the source of the disturbances has been destroyed, and shares grim news of recent attacks on travelers despite the town's temporary quiet."
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b03",
+        "b04"
+      ],
+      "locationRefs": [
+        "Kerala"
+      ],
+      "npcRefs": [
+        "Krom"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "At Krom's inn, the party is welcomed back as local heroes and begins asking about Arcas and the recent flow of strange travelers.",
+        "The party keeps following the Arcas trail, comparing maps and rumors until their suspicions point them toward the smith and older war relics."
+      ],
+      "sourceLongSummaries": [
+        "After Kesa sends them off with food and drink on the town, the party settles into Krom's now-crowded inn amid the pre-festival bustle. Krom identifies Seeker's sketch as the traveler Arcas, recalls his odd coinage and his interest in ancient artifacts, and points the party toward the smith who may know more. The conversation also turns to local battlefields, the town's recent tragedies, and the festival competitions now drawing crowds into Kerala.",
+        "The inn discussion stretches into wider talk of geography, trade routes, Chardon, Sambara, and the lands around Gomat as the group compares what each of them knows. Krom's recollections about Arcas, old battlefields, and relic-hunting sharpen the party's sense that the petrified traveler may have been pursuing something tied to the Great War. By the end of the conversation, they decide to follow the lead to Josue the blacksmith."
+      ]
+    },
+    {
+      "blockId": "timeline-004",
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b05",
+        "b06"
+      ],
+      "locationRefs": [
+        "Kerala"
+      ],
+      "npcRefs": [
+        "Josue",
+        "Bree Charmheart",
+        "unnamed halfling caravaner"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Josue confirms that Arcas brought him unusual spearheads and wanted them mounted, but the metal resisted every attempt to work it.",
+        "At the halfling camp, the party discovers that Bree Charmheart is traveling with a companion who hears a sinister voice much like the one tied to the staff."
+      ],
+      "sourceLongSummaries": [
+        "The party catches Josue at the end of his workday and follows him back to Krom's for a longer talk. He confirms that Arcas came through Kerala looking for ancient Dunmari relics, left behind silver spearheads to be mounted on shafts, and never returned to collect them. What troubles Josue most is that the spearheads seem unnaturally resistant to heat and tools, reinforcing the party's suspicion that Arcas found something more than ordinary battlefield salvage.",
+        "Moving through the outer camps as dusk deepens, the party visits the halfling caravan led by Bree Charmheart. What begins as ordinary traveler talk turns uneasy when Wellby notices a wagon kept slightly apart and presses Bree about a sick companion. The hidden halfling stumbles out raving about a master who speaks to him and will soon consume him, convincing the party that the corruption they faced at the fort may already have spread along the roads."
+      ]
+    },
+    {
+      "blockId": "timeline-005",
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b07",
+        "b08"
+      ],
+      "locationRefs": [
+        "Kerala"
+      ],
+      "npcRefs": [
+        "Candrosa"
+      ],
+      "organizationRefs": [
+        "Shakun Mystai"
+      ],
+      "itemRefs": [
+        "black iron staff",
+        "healing mud vials"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Delwath and Seeker keep vigil at the oasis while Kenzo drinks in town, until Candrosa comes to summon the party to the temple.",
+        "In the temple, Candrosa tests the party with a zone of truth and confesses that Shakun's protection is failing across the Dunmari border."
+      ],
+      "sourceLongSummaries": [
+        "Disturbed by what they learned at the halfling camp, the party shifts into a late-night watch around the oasis, where Delwath pursues an old local legend about receiving a true glimpse of the future through all-night meditation. Seeker joins him while Wellby keeps watch and Kenzo remains at the inn, half drunk and slow to take the summons seriously. Before the vigil can amount to much, Candrosa arrives from the temple, clearly urgent, and pulls the group together for a private conversation.",
+        "Once the party reaches the Temple of Shakun, Candrosa drops his reserve and subjects them to a zone of truth before speaking plainly. He explains that after the Great War, Shakun's protection and the work of her mystai kept evil things from crossing the border, but that the recent attacks, a spreading madness, storms, and fresh reports from Havdar all suggest those defenses are breaking down. Though shaken and embarrassed by his secrecy, he begs the party to help watch over Kerala through the coming festival and to consider aiding Dunmar more broadly as the border crisis deepens."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Fort Aftermath",
+      "beatIds": [
+        "b01"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0420"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0420"
+        }
+      ],
+      "dateStart": "1748-03-26",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Dunmari Fort"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [
+        "Five Siblings"
+      ],
+      "itemRefs": [
+        "black iron staff",
+        "obsidian orb",
+        "holy symbol of Aagir"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party finishes searching the ruined fort, discusses the relics they recovered, and prepares to head back west."
+      ],
+      "sourceLongSummaries": [
+        "After waking in the fort's old temple, the party reviews what they found there, including the black iron staff, the obsidian orb, and sacred objects tied to the Five Siblings. They debate what the undead hobgoblin and its relics might mean, gather what they can carry, recover their trapped horse, and decide to return toward Kerala with their findings."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Return to Kerala",
+      "beatIds": [
+        "b02"
+      ],
+      "sourceRange": {
+        "startUid": "u0421",
+        "endUid": "u0699"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0421",
+          "endUid": "u0699"
+        }
+      ],
+      "dateStart": "1748-03-26",
+      "dateEnd": "1748-03-29",
+      "timeWindow": null,
+      "resolution": "date-range",
+      "locationRefs": [
+        "Dunmari Fort",
+        "Kerala"
+      ],
+      "npcRefs": [
+        "Kesa"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party rides back to Kerala over several days, finds the land quieter, and reports their success to Kesa."
+      ],
+      "sourceLongSummaries": [
+        "Leaving the ruined fort, the party notices a palpable easing in the land and travels back through border country that feels calmer than before. By the time they reach Kerala, the town is swelling with visitors for the Festival of Rebirth. Kesa receives them in relief, hears that the source of the disturbances has been destroyed, and shares grim news of recent attacks on travelers despite the town's temporary quiet."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Stories at Krom's",
+      "beatIds": [
+        "b03"
+      ],
+      "sourceRange": {
+        "startUid": "u0700",
+        "endUid": "u0979"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0700",
+          "endUid": "u0979"
+        }
+      ],
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Kerala"
+      ],
+      "npcRefs": [
+        "Krom"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "At Krom's inn, the party is welcomed back as local heroes and begins asking about Arcas and the recent flow of strange travelers."
+      ],
+      "sourceLongSummaries": [
+        "After Kesa sends them off with food and drink on the town, the party settles into Krom's now-crowded inn amid the pre-festival bustle. Krom identifies Seeker's sketch as the traveler Arcas, recalls his odd coinage and his interest in ancient artifacts, and points the party toward the smith who may know more. The conversation also turns to local battlefields, the town's recent tragedies, and the festival competitions now drawing crowds into Kerala."
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Maps and Suspicions",
+      "beatIds": [
+        "b04"
+      ],
+      "sourceRange": {
+        "startUid": "u0980",
+        "endUid": "u1355"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0980",
+          "endUid": "u1355"
+        }
+      ],
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Kerala"
+      ],
+      "npcRefs": [
+        "Krom"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party keeps following the Arcas trail, comparing maps and rumors until their suspicions point them toward the smith and older war relics."
+      ],
+      "sourceLongSummaries": [
+        "The inn discussion stretches into wider talk of geography, trade routes, Chardon, Sambara, and the lands around Gomat as the group compares what each of them knows. Krom's recollections about Arcas, old battlefields, and relic-hunting sharpen the party's sense that the petrified traveler may have been pursuing something tied to the Great War. By the end of the conversation, they decide to follow the lead to Josue the blacksmith."
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "Josue's Spearheads",
+      "beatIds": [
+        "b05"
+      ],
+      "sourceRange": {
+        "startUid": "u1356",
+        "endUid": "u1549"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1356",
+          "endUid": "u1549"
+        }
+      ],
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Kerala"
+      ],
+      "npcRefs": [
+        "Josue"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Josue confirms that Arcas brought him unusual spearheads and wanted them mounted, but the metal resisted every attempt to work it."
+      ],
+      "sourceLongSummaries": [
+        "The party catches Josue at the end of his workday and follows him back to Krom's for a longer talk. He confirms that Arcas came through Kerala looking for ancient Dunmari relics, left behind silver spearheads to be mounted on shafts, and never returned to collect them. What troubles Josue most is that the spearheads seem unnaturally resistant to heat and tools, reinforcing the party's suspicion that Arcas found something more than ordinary battlefield salvage."
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "beat",
+      "title": "Halfling Camp Warning",
+      "beatIds": [
+        "b06"
+      ],
+      "sourceRange": {
+        "startUid": "u1550",
+        "endUid": "u1794"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1550",
+          "endUid": "u1794"
+        }
+      ],
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Kerala"
+      ],
+      "npcRefs": [
+        "Bree Charmheart",
+        "unnamed halfling caravaner"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "At the halfling camp, the party discovers that Bree Charmheart is traveling with a companion who hears a sinister voice much like the one tied to the staff."
+      ],
+      "sourceLongSummaries": [
+        "Moving through the outer camps as dusk deepens, the party visits the halfling caravan led by Bree Charmheart. What begins as ordinary traveler talk turns uneasy when Wellby notices a wagon kept slightly apart and presses Bree about a sick companion. The hidden halfling stumbles out raving about a master who speaks to him and will soon consume him, convincing the party that the corruption they faced at the fort may already have spread along the roads."
+      ]
+    },
+    {
+      "blockId": "recap-007",
+      "kind": "beat",
+      "title": "Oasis Vigil",
+      "beatIds": [
+        "b07"
+      ],
+      "sourceRange": {
+        "startUid": "u1795",
+        "endUid": "u2060"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1795",
+          "endUid": "u2060"
+        }
+      ],
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Kerala"
+      ],
+      "npcRefs": [
+        "Candrosa"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Delwath and Seeker keep vigil at the oasis while Kenzo drinks in town, until Candrosa comes to summon the party to the temple."
+      ],
+      "sourceLongSummaries": [
+        "Disturbed by what they learned at the halfling camp, the party shifts into a late-night watch around the oasis, where Delwath pursues an old local legend about receiving a true glimpse of the future through all-night meditation. Seeker joins him while Wellby keeps watch and Kenzo remains at the inn, half drunk and slow to take the summons seriously. Before the vigil can amount to much, Candrosa arrives from the temple, clearly urgent, and pulls the group together for a private conversation."
+      ]
+    },
+    {
+      "blockId": "recap-008",
+      "kind": "beat",
+      "title": "Kendrasar's Truth",
+      "beatIds": [
+        "b08"
+      ],
+      "sourceRange": {
+        "startUid": "u2061",
+        "endUid": "u2485"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2061",
+          "endUid": "u2485"
+        }
+      ],
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Kerala"
+      ],
+      "npcRefs": [
+        "Candrosa"
+      ],
+      "organizationRefs": [
+        "Shakun Mystai"
+      ],
+      "itemRefs": [
+        "black iron staff",
+        "healing mud vials"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "In the temple, Candrosa tests the party with a zone of truth and confesses that Shakun's protection is failing across the Dunmari border."
+      ],
+      "sourceLongSummaries": [
+        "Once the party reaches the Temple of Shakun, Candrosa drops his reserve and subjects them to a zone of truth before speaking plainly. He explains that after the Great War, Shakun's protection and the work of her mystai kept evil things from crossing the border, but that the recent attacks, a spreading madness, storms, and fresh reports from Havdar all suggest those defenses are breaking down. Though shaken and embarrassed by his secrecy, he begs the party to help watch over Kerala through the coming festival and to consider aiding Dunmar more broadly as the border crisis deepens."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Kesa",
+        "beatIds": [
+          "b02"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Krom",
+        "beatIds": [
+          "b03",
+          "b04"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Josue",
+        "beatIds": [
+          "b05"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Bree Charmheart",
+        "beatIds": [
+          "b06"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "unnamed halfling caravaner",
+        "beatIds": [
+          "b06"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Candrosa",
+        "beatIds": [
+          "b07",
+          "b08"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [],
+    "majorLocations": [
+      {
+        "name": "Dunmari Fort",
+        "beatIds": [
+          "b01",
+          "b02"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Kerala",
+        "beatIds": [
+          "b02",
+          "b03",
+          "b04",
+          "b05",
+          "b06",
+          "b07",
+          "b08"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Kesa",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "informal head of Kerala's council",
+          "beatIds": [
+            "b02"
+          ],
+          "history": [
+            {
+              "location": "Dunmari Fort -> Kerala",
+              "dateStart": "1748-03-26",
+              "dateEnd": "1748-03-29"
+            }
+          ]
+        },
+        {
+          "name": "Krom",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "innkeeper",
+          "beatIds": [
+            "b03",
+            "b04"
+          ],
+          "history": [
+            {
+              "location": "Kerala",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Josue",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "blacksmith",
+          "beatIds": [
+            "b05"
+          ],
+          "history": [
+            {
+              "location": "Kerala",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Bree Charmheart",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "halfling caravan leader",
+          "beatIds": [
+            "b06"
+          ],
+          "history": [
+            {
+              "location": "Kerala",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "unnamed halfling caravaner",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "Bree's afflicted companion",
+          "beatIds": [
+            "b06"
+          ],
+          "history": [
+            {
+              "location": "Kerala",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Candrosa",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "mystai priest of Shakun",
+          "beatIds": [
+            "b07",
+            "b08"
+          ],
+          "history": [
+            {
+              "location": "Kerala",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Dunmari Fort",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "the ruined fort and its temple east of Gomat, where the party spent the night after destroying the source of the disturbances",
+          "beatIds": [
+            "b01",
+            "b02"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-03-26",
+              "dateEnd": null,
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1748-03-26",
+              "dateEnd": "1748-03-29",
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Kerala",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "several days on the road west, ending at Kesa's council chamber in Kerala",
+          "beatIds": [
+            "b02",
+            "b03",
+            "b04",
+            "b05",
+            "b06",
+            "b07",
+            "b08"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-03-26",
+              "dateEnd": "1748-03-29",
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Five Siblings",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b01"
+          ],
+          "history": [
+            {
+              "location": "Dunmari Fort",
+              "dateStart": "1748-03-26",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Shakun Mystai",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b08"
+          ],
+          "history": [
+            {
+              "location": "Kerala",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "name": "black iron staff",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b01",
+            "b08"
+          ],
+          "history": [
+            {
+              "location": "Dunmari Fort",
+              "dateStart": "1748-03-26",
+              "dateEnd": null
+            },
+            {
+              "location": "Kerala",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "obsidian orb",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b01"
+          ],
+          "history": [
+            {
+              "location": "Dunmari Fort",
+              "dateStart": "1748-03-26",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "holy symbol of Aagir",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b01"
+          ],
+          "history": [
+            {
+              "location": "Dunmari Fort",
+              "dateStart": "1748-03-26",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "healing mud vials",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b08"
+          ],
+          "history": [
+            {
+              "location": "Kerala",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "zombie hobgoblin",
+          "contextHint": "fallen wielder of the staff"
+        },
+        {
+          "name": "Alash",
+          "contextHint": "local scout"
+        },
+        {
+          "name": "Arcas",
+          "contextHint": "mysterious traveler turned to stone"
+        },
+        {
+          "name": "Havdar",
+          "contextHint": "war leader returning from the border"
+        }
+      ],
+      "locations": [],
+      "organizations": [],
+      "items": [
+        {
+          "name": "odd silver coin",
+          "contextHint": null
+        },
+        {
+          "name": "silver spearheads",
+          "contextHint": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-beats.json",
+  "facts": [
+    {
+      "beatId": "b01",
+      "dateStart": "1748-03-30",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "shortSummary": "Candrosa wakes Kenzo before dawn, brings him to the mesa, and sends him through the Dreamworld with the temple staff.",
+      "longSummary": "On a secluded mesa above Karawa, Candrosa confides that his dreams have shown a cracked jade hand connected to Kenzo's amulet. Using the Dreamweaver Staff, he guides Kenzo into the Dreamworld, where Kenzo restores the jade hand, meets a robed figure with a jade arm, and is told to seek the Order of the Awakened Soul. He returns changed, able to glimpse auras and carrying a stronger sense of the strange power tied to his amulet.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "a hidden mesa overlook east of the village where Candrosa leads Kenzo for a private rite",
+        "notes": "The beat never leaves the mesa, even while Kenzo's consciousness travels into the Dreamworld."
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "encountered",
+          "context": "mystic of the Temple of Shakun",
+          "notes": "He shares his recurring jade-hand vision and performs the rite that sends Kenzo into the Dreamworld."
+        },
+        {
+          "name": "jade-handed figure",
+          "role": "encountered",
+          "context": "mysterious robed man in the Dreamworld",
+          "notes": "He tells Kenzo to seek the Order of the Awakened Soul before shattering into fragments."
+        }
+      ],
+      "items": [
+        {
+          "name": "Dreamweaver Staff",
+          "role": "encountered",
+          "notes": "Candrosa uses the staff to open a path between the waking world and the Dreamworld."
+        },
+        {
+          "name": "jade amulet fragment",
+          "role": "encountered",
+          "notes": "Kenzo uses the fragment to complete the cracked jade hand in the vision."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "mentioned",
+          "notes": "The Dreamworld figure tells Kenzo to seek this order."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b02",
+      "dateStart": "1748-03-30",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Back in Karawa, Kenzo recounts the Dreamworld vision over breakfast and the party starts fitting it into Candrosa's fears for the village.",
+      "longSummary": "The group gathers the next morning with Candrosa's note in hand and listens as Kenzo describes the Dreamworld, the jade-handed figure, and the warning about the Order of the Awakened Soul. Their conversation quickly expands from Kenzo's vision to Candrosa's anxiety, the silence of Shakun, and the sense that Karawa's old protections are failing. By the end of the beat, the vision is no longer Kenzo's private mystery but part of the larger danger hanging over the frontier.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "the inn and nearby mesa overlook where the party spends the morning talking through Candrosa's note and Kenzo's vision",
+        "notes": "The conversation remains inside Karawa's immediate bounds."
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "mentioned",
+          "context": "author of the note and source of the earlier rite",
+          "notes": "His worries and instructions frame the whole discussion even while he is away in retreat."
+        }
+      ],
+      "items": [
+        {
+          "name": "letter from Candrosa",
+          "role": "encountered",
+          "notes": "The party reads and discusses Candrosa's written request that they remain in Karawa for the coming council."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "mentioned",
+          "notes": "The party begins trying to interpret what the order might be and why Kenzo was directed toward it."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b03",
+      "dateStart": "1748-03-30",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The mesa discussion turns into a broader theory session about Shakun's fading protection, the sick halfling, and the strange danger tied to Raven's Hold.",
+      "longSummary": "As the group keeps talking on the mesa, Wellby shares what he learned from the afflicted halfling caravaner about Raven's Hold, the blood-red vines there, and the voice calling to a devouring master. The party compares that story to the obsidian staff, the maddened animals, and Shakun's failing border illusions, trying to decide whether all of it points to a single spreading corruption. They resolve to stay in Karawa through the coming council and to use the intervening days to gather more information.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "continued planning on the mesa above the village after breakfast",
+        "notes": "Raven's Hold is discussed extensively, but the party remains in Karawa."
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "mentioned",
+          "context": "absent mystic whose concerns anchor the discussion",
+          "notes": "The group keeps returning to his report that Shakun has gone silent."
+        },
+        {
+          "name": "unnamed halfling caravaner",
+          "role": "mentioned",
+          "context": "the sick traveler Wellby interviewed",
+          "notes": "His account of Raven's Hold and the red vines becomes a major clue."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Five Siblings",
+          "role": "mentioned",
+          "notes": "The party talks through the Dunmari gods while trying to understand whether multiple divine protections are failing."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b04",
+      "dateStart": "1748-03-30",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "At Jasu's forge, the party inspects Arcus's silver spearpoints and learns they were meant to be remounted for another journey east.",
+      "longSummary": "The party visits Jasu after lunch and studies the odd silver-coated spearpoints Arcus left behind. Jasu explains that he was supposed to mount them back onto spear shafts, but the relics resist heat and ordinary smithing despite still holding a deadly edge. Between Jasu's testimony and the party's magical inspection, the spearpoints look like Great War weapons made to pierce undead defenses, sharpening the mystery of what Arcus was hunting and why he never returned.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Jasu's smithy during the afternoon follow-up to the mesa discussion",
+        "notes": "The beat is centered on the forge and the relic examination."
+      },
+      "npcs": [
+        {
+          "name": "Jasu",
+          "role": "encountered",
+          "context": "blacksmith",
+          "notes": "He shows the spearpoints, explains Arcus's commission, and confirms Arcus expected to return within a week or two."
+        },
+        {
+          "name": "Arcus",
+          "role": "mentioned",
+          "context": "artifact hunter turned to stone",
+          "notes": "Jasu remembers him as a traveler interested in Great War relics who headed east and never came back."
+        }
+      ],
+      "items": [
+        {
+          "name": "silver spearpoints",
+          "role": "encountered",
+          "notes": "The relic spearpoints appear to be magical Great War weapons meant for fighting undead."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b05",
+      "dateStart": "1748-03-30",
+      "dateEnd": "1748-04-02",
+      "timeWindow": null,
+      "shortSummary": "During Karawa's festival buildup, the party receives gifts from the town, Seeker is given The Runes of Creation, and Kenzo wins the staff-dancing contest.",
+      "longSummary": "Over the next several days, the party splits its attention between research, training, and local celebration as word of their deeds spreads through Karawa. The townsfolk leave gifts for them, Krom passes Seeker a mysterious blank dwarven book titled The Runes of Creation, and Kenzo turns his recent training into a show-stopping victory in the staff-dancing competition. The montage confirms that the heroes are now public figures in town even as the festival remains shadowed by unease.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "the inn, market, and competition grounds during several days of festival buildup",
+        "notes": "This is a town-wide montage rather than a single room or street."
+      },
+      "npcs": [
+        {
+          "name": "Krom",
+          "role": "encountered",
+          "context": "innkeeper",
+          "notes": "He helps pass along the townsfolk's gratitude and gives Seeker the mysterious dwarven book."
+        }
+      ],
+      "items": [
+        {
+          "name": "The Runes of Creation",
+          "role": "encountered",
+          "notes": "An anonymous dwarven book left for Seeker with a note addressed to the heroes of Karawa."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b06",
+      "dateStart": "1748-04-02",
+      "dateEnd": "1748-04-03",
+      "timeWindow": null,
+      "shortSummary": "Delwath's rumor hunting reveals more winter travelers and more questions about Raven's Hold while the town grows nervous ahead of the axebeak races.",
+      "longSummary": "As the festival deepens, Delwath learns that unusual travelers have been passing through Karawa all winter, many of them asking after old ruins and, in a few cases, Raven's Hold. The tips he gathers about axebeaks are comic, but the broader mood is not: many locals fear that the gods have withdrawn their favor and that Jeevali's festival could end in a bad omen. By the time the party settles in for the night, Karawa feels outwardly festive but inwardly brittle.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "tea shops, camp gossip, and late-night conversation around the festival grounds before the races",
+        "notes": "The beat stays within town while focusing on rumors and public mood."
+      },
+      "npcs": [
+        {
+          "name": "Arcus",
+          "role": "mentioned",
+          "context": "one of several strange winter travelers",
+          "notes": "The rumors suggest he was not the only outsider passing through Karawa in search of old sites."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Five Siblings",
+          "role": "mentioned",
+          "notes": "Locals openly worry that the gods may have withdrawn their favor from Karawa."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b07",
+      "dateStart": "1748-04-03",
+      "dateEnd": "1748-04-04",
+      "timeWindow": null,
+      "shortSummary": "On axebeak day, Wellby places third, Kenzo joins the chaos for fun, and the return of the scouts sets up the next morning's emergency council.",
+      "longSummary": "The axebeak competition proves exactly as unruly as advertised, with Wellby riding well enough to place and Kenzo treating the whole spectacle with more enthusiasm than success. Later that day Havdar returns from the south, and by evening Alesh rides in even more exhausted from her broader circuit. Their arrival makes it clear that the town's scattered worries are about to harden into a formal crisis, and Candrosa's summons brings the party to the brink of the council meeting.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "the axebeak grounds, the inn, and the village streets as the scouts ride back in",
+        "notes": "The beat spans the public competitions and the scouts' returns later that day."
+      },
+      "npcs": [
+        {
+          "name": "Havdar",
+          "role": "encountered",
+          "context": "southern scout and rider",
+          "notes": "He returns first, visibly exhausted from riding hard and fast."
+        },
+        {
+          "name": "Alesh",
+          "role": "encountered",
+          "context": "frontier scout",
+          "notes": "She arrives after dark, even more worn down than Havdar, and confirms the council will meet in the morning."
+        },
+        {
+          "name": "Candrosa",
+          "role": "mentioned",
+          "context": "caller of the next morning's council",
+          "notes": "His written summons frames the transition from festival play to emergency response."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b08",
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "At the council, Havdar and Alesh report frontier devastation and unnatural signs on every side, forcing Karawa to confront the scale of the threat.",
+      "longSummary": "The council gathers with Kisa, Candrosa, Havdar, Alesh, and Suma to hear the scouts' news. Havdar reports hyena-like raiders tearing through southern farms and sending refugees north, while Alesh describes a fixed storm, a blood-foul black river, and similar creatures ranging beyond Karawa's borders. Their combined testimony convinces the room that this is no single local raid and that any response will have to account for both immediate survival and a larger, still-hidden enemy.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "the village council chamber during the emergency morning meeting",
+        "notes": "The beat stays at the council table as the scouts give their reports."
+      },
+      "npcs": [
+        {
+          "name": "Kisa",
+          "role": "encountered",
+          "context": "elder and council leader",
+          "notes": "She convenes the meeting and asks the scouts to speak first."
+        },
+        {
+          "name": "Candrosa",
+          "role": "encountered",
+          "context": "mystic of the Temple of Shakun",
+          "notes": "He supports the need for hard choices while still trying to protect the temple."
+        },
+        {
+          "name": "Havdar",
+          "role": "encountered",
+          "context": "southern scout",
+          "notes": "He reports the attacks on farms and the coming refugees."
+        },
+        {
+          "name": "Alesh",
+          "role": "encountered",
+          "context": "scout of the outer frontier",
+          "notes": "She reports the fixed storm, black water, and wider magical disorder."
+        },
+        {
+          "name": "Suma",
+          "role": "encountered",
+          "context": "priestess of Jeevali",
+          "notes": "She listens before weighing in on the survival of Karawa's people."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Karawa council",
+          "role": "encountered",
+          "notes": "The village leadership and the party gather to decide how Karawa will answer the growing threat."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b09",
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party ties Arcus and Raven's Hold more firmly into the crisis and pushes the council to clarify what Karawa can actually defend.",
+      "longSummary": "Once the immediate reports are on the table, the conversation turns back to Arcus, Raven's Hold, and the old Great War forts. Alesh confirms that Arcus had been asking her about those ruins, especially Raven's Hold, and the party shares more of what they found on his body and in the Gomat fort. The council then tests the practical limits of each option, weighing Tokra's safety, the scale of an evacuation, the temple's defensibility, and how long Karawa could hold without help.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "continued deliberation in the council chamber as the discussion shifts from reports to concrete options",
+        "notes": "The beat remains in the same council meeting."
+      },
+      "npcs": [
+        {
+          "name": "Alesh",
+          "role": "encountered",
+          "context": "scout who met Arcus before his death",
+          "notes": "She remembers Arcus as a quiet, scholarly traveler asking about Great War forts, especially Raven's Hold."
+        },
+        {
+          "name": "Arcus",
+          "role": "mentioned",
+          "context": "artifact hunter turned to stone",
+          "notes": "His questions and relic trail now look increasingly tied to the same danger facing Karawa."
+        },
+        {
+          "name": "Candrosa",
+          "role": "encountered",
+          "context": "guardian of the temple",
+          "notes": "He admits the temple once felt impregnable but no longer trusts Shakun's protection as fully as he once did."
+        }
+      ],
+      "items": [
+        {
+          "name": "scout's horn",
+          "role": "encountered",
+          "notes": "The party shows the old horn from the ruined fort while discussing Arcus's interests and old Dunmari relics."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b10",
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Kenzo's proposal becomes the council's plan: evacuate west, fortify the temple, send for the king, scout south lightly, and send the party north to Raven's Hold.",
+      "longSummary": "Kenzo argues that Karawa's people matter more than the town's buildings and that the safest plan is to move them west under Havdar's protection while still preparing the temple as a fallback stronghold. Suma and Kisa back the evacuation, Candrosa accepts a smaller defensive holdout at the temple, and Alesh volunteers to help split the wider response between a ride to the king and fresh scouting to the south. By the meeting's end, the broad strategy is set: the villagers will begin withdrawing after the festival, the temple will be fortified, and the party will head north toward Raven's Hold to pursue the strongest lead they have.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "the council chamber at the close of the emergency meeting",
+        "notes": "The beat is the final decision phase of the same council scene."
+      },
+      "npcs": [
+        {
+          "name": "Kisa",
+          "role": "encountered",
+          "context": "elder coordinating the retreat",
+          "notes": "She accepts the evacuation plan and prepares to organize the town after the festival."
+        },
+        {
+          "name": "Candrosa",
+          "role": "encountered",
+          "context": "mystic remaining with the temple",
+          "notes": "He agrees to stay with the temple and trust the party's wider judgment."
+        },
+        {
+          "name": "Havdar",
+          "role": "encountered",
+          "context": "mounted scout captain",
+          "notes": "He commits to protecting the evacuation west and then regrouping for later action."
+        },
+        {
+          "name": "Alesh",
+          "role": "encountered",
+          "context": "scout and courier",
+          "notes": "She offers to divide responsibilities between seeking the king's help and supporting further reconnaissance."
+        },
+        {
+          "name": "Suma",
+          "role": "encountered",
+          "context": "priestess of Jeevali",
+          "notes": "She supports warning the wider people during the festival and helping lead the withdrawal west."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Karawa council",
+          "role": "encountered",
+          "notes": "The council adopts the evacuation and reconnaissance plan and entrusts the party with the northern mission."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

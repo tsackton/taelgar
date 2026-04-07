@@ -1,0 +1,762 @@
+allReplacements:
+- from: ravens hold
+  to: Raven ' s Hold
+  count: 10
+  headers:
+  - '[u0332 | 00:25:15.510-00:25:23.640 | DM]'
+  - '[u0401 | 00:33:04.650-00:33:08.430 | Seeker]'
+  - '[u0565 | 00:46:24.570-00:46:31.200 | Kenzo]'
+  - '[u0584 | 00:47:46.770-00:47:50.670 | Kenzo]'
+  - '[u0949 | 01:12:01.860-01:12:03.660 | Kenzo]'
+  - '[u0980 | 01:15:14.910-01:15:24.450 | DM]'
+  - '[u1062 | 01:22:20.880-01:22:31.200 | DM]'
+  - '[u1093 | 01:26:01.830-01:26:05.190 | Kenzo]'
+  - '[u1104 | 01:27:40.290-01:27:45.120 | Riswynn]'
+  - '[u2557 | 03:23:31.800-03:23:33.030 | DM]'
+- from: G volley
+  to: Jeevali
+  count: 4
+  headers:
+  - '[u0422 | 00:34:34.830-00:34:37.800 | DM]'
+  - '[u1212 | 01:37:38.070-01:37:50.310 | DM]'
+  - '[u1251 | 01:43:23.460-01:43:41.370 | DM]'
+  - '[u1254 | 01:43:56.550-01:44:04.260 | DM]'
+- from: Denmark
+  to: Dunmar
+  count: 3
+  headers:
+  - '[u0527 | 00:43:36.180-00:43:52.470 | DM]'
+  - '[u0897 | 01:06:42.510-01:06:50.850 | DM]'
+  - '[u1212 | 01:37:38.070-01:37:50.310 | DM]'
+- from: Kendra
+  to: Candrosa
+  count: 3
+  headers:
+  - '[u0595 | 00:48:32.580-00:48:38.970 | DM]'
+  - '[u0901 | 01:07:11.280-01:07:13.620 | DM]'
+  - '[u2596 | 03:27:03.870-03:27:08.250 | DM]'
+- from: Kendra ' s
+  to: Candrosa
+  count: 3
+  headers:
+  - '[u0898 | 01:06:52.320-01:07:01.530 | DM]'
+  - '[u0928 | 01:09:45.570-01:09:54.540 | Kenzo]'
+  - '[u0941 | 01:11:00.300-01:11:04.440 | DM]'
+- from: ambassador
+  to: Bas Udda
+  count: 3
+  headers:
+  - '[u0395 | 00:32:13.530-00:32:19.950 | DM]'
+  - '[u0910 | 01:08:24.270-01:08:28.230 | DM]'
+  - '[u0912 | 01:08:32.640-01:08:41.760 | DM]'
+- from: done Mari
+  to: Dunmari
+  count: 3
+  headers:
+  - '[u0011 | 00:00:52.710-00:00:57.750 | DM]'
+  - '[u0847 | 01:02:14.250-01:02:29.850 | DM]'
+  - '[u1079 | 01:24:12.570-01:24:23.940 | Kenzo]'
+- from: have dar
+  to: Havdar
+  count: 3
+  headers:
+  - '[u0019 | 00:01:39.900-00:01:49.770 | DM]'
+  - '[u0897 | 01:06:42.510-01:06:50.850 | DM]'
+  - '[u2553 | 03:23:11.580-03:23:18.600 | DM]'
+- from: Avanti
+  to: Yuvanti
+  count: 2
+  headers:
+  - '[u0963 | 01:13:31.140-01:13:42.720 | DM]'
+  - '[u1095 | 01:26:11.160-01:26:27.090 | Riswynn]'
+- from: Cairo
+  to: Karawa
+  count: 2
+  headers:
+  - '[u0916 | 01:08:46.590-01:08:48.660 | Kenzo]'
+  - '[u0944 | 01:11:20.100-01:11:37.080 | DM]'
+- from: Can dress
+  to: Candrosa
+  count: 2
+  headers:
+  - '[u0197 | 00:14:02.970-00:14:06.780 | DM]'
+  - '[u0518 | 00:42:27.600-00:42:29.040 | Kenzo]'
+- from: G Bali
+  to: Jeevali
+  count: 2
+  headers:
+  - '[u1212 | 01:37:38.070-01:37:50.310 | DM]'
+  - '[u1226 | 01:40:17.910-01:40:25.140 | DM]'
+- from: Kenza
+  to: Kenzo
+  count: 2
+  headers:
+  - '[u1213 | 01:37:51.630-01:38:08.160 | DM]'
+  - '[u2608 | 03:28:06.930-03:28:11.130 | DM]'
+- from: Kerala
+  to: Karawa
+  count: 2
+  headers:
+  - '[u0434 | 00:35:27.390-00:35:31.920 | DM]'
+  - '[u1225 | 01:40:02.640-01:40:16.620 | DM]'
+- from: Kesa
+  to: Kisa
+  count: 2
+  headers:
+  - '[u0266 | 00:18:39.780-00:19:02.010 | DM]'
+  - '[u2596 | 03:27:03.870-03:27:08.250 | DM]'
+- from: Ravens hold
+  to: Raven ' s Hold
+  count: 2
+  headers:
+  - '[u0334 | 00:25:33.930-00:25:35.910 | DM]'
+  - '[u0951 | 01:12:08.340-01:12:13.320 | DM]'
+- from: She volley
+  to: Jeevali
+  count: 2
+  headers:
+  - '[u1222 | 01:39:16.080-01:39:33.270 | DM]'
+  - '[u1234 | 01:41:29.310-01:41:32.010 | DM]'
+- from: Tokyo
+  to: Tokra
+  count: 2
+  headers:
+  - '[u0893 | 01:06:23.730-01:06:28.200 | Wellby]'
+  - '[u0900 | 01:07:08.310-01:07:10.140 | DM]'
+- from: dervish
+  to: dwarvish
+  count: 2
+  headers:
+  - '[u1096 | 01:26:28.230-01:26:38.730 | Riswynn]'
+  - '[u1100 | 01:27:05.160-01:27:20.160 | Riswynn]'
+- from: ravens whole
+  to: Raven ' s Hold
+  count: 2
+  headers:
+  - '[u0058 | 00:04:40.620-00:04:42.000 | Delwath]'
+  - '[u0302 | 00:22:04.170-00:22:19.260 | Kenzo]'
+- from: toker
+  to: Tokra
+  count: 2
+  headers:
+  - '[u0898 | 01:06:52.320-01:07:01.530 | DM]'
+  - '[u0921 | 01:08:59.340-01:09:09.060 | DM]'
+- from: A lash
+  to: Alesh
+  count: 1
+  headers:
+  - '[u0044 | 00:03:58.770-00:04:04.740 | Kenzo]'
+- from: A lashes
+  to: Alesh ' s
+  count: 1
+  headers:
+  - '[u0593 | 00:48:20.910-00:48:30.390 | DM]'
+- from: Braden told
+  to: Raven ' s Hold
+  count: 1
+  headers:
+  - '[u0959 | 01:13:12.870-01:13:14.550 | Kenzo]'
+- from: Can just.
+  to: Candrosa,
+  count: 1
+  headers:
+  - '[u0552 | 00:45:29.520-00:45:33.720 | Kenzo]'
+- from: Caroline
+  to: Karawa
+  count: 1
+  headers:
+  - '[u0905 | 01:07:47.430-01:08:04.230 | DM]'
+- from: Caroll
+  to: Karawa
+  count: 1
+  headers:
+  - '[u0016 | 00:01:17.310-00:01:20.940 | DM]'
+- from: Donmar
+  to: Dunmar
+  count: 1
+  headers:
+  - '[u1223 | 01:39:34.380-01:39:46.680 | DM]'
+- from: Doors
+  to: dwarves
+  count: 1
+  headers:
+  - '[u0963 | 01:13:31.140-01:13:42.720 | DM]'
+- from: Dunbar
+  to: Dunmari
+  count: 1
+  headers:
+  - '[u0969 | 01:14:18.660-01:14:22.650 | DM]'
+- from: G volleys
+  to: Jeevali ' s
+  count: 1
+  headers:
+  - '[u2586 | 03:26:03.300-03:26:15.450 | DM]'
+- from: Giant
+  to: A giant
+  count: 1
+  headers:
+  - '[u0078 | 00:05:56.910-00:05:58.140 | DM]'
+- from: Giovanni
+  to: Jeevali
+  count: 1
+  headers:
+  - '[u0025 | 00:02:41.400-00:02:48.120 | DM]'
+- from: God volley
+  to: Jeevali
+  count: 1
+  headers:
+  - '[u1223 | 01:39:34.380-01:39:46.680 | DM]'
+- from: Hora
+  to: Hara
+  count: 1
+  headers:
+  - '[u0922 | 01:09:10.290-01:09:16.440 | DM]'
+- from: Josue
+  to: Jasu
+  count: 1
+  headers:
+  - '[u0170 | 00:12:27.840-00:12:33.630 | DM]'
+- from: Kansas
+  to: Kenzo ' s
+  count: 1
+  headers:
+  - '[u1079 | 01:24:12.570-01:24:23.940 | Kenzo]'
+- from: Keith
+  to: Kisa
+  count: 1
+  headers:
+  - '[u0902 | 01:07:17.790-01:07:21.720 | DM]'
+- from: Kendra ' s ISA
+  to: Candrosa
+  count: 1
+  headers:
+  - '[u2560 | 03:23:43.860-03:23:55.230 | DM]'
+- from: Kendra answer
+  to: Candrosa
+  count: 1
+  headers:
+  - '[u0515 | 00:42:09.600-00:42:11.730 | DM]'
+- from: Kendra, as
+  to: Kisa
+  count: 1
+  headers:
+  - '[u2613 | 03:28:24.630-03:28:29.250 | DM]'
+- from: Mari
+  to: dwarves
+  count: 1
+  headers:
+  - '[u0980 | 01:15:14.910-01:15:24.450 | DM]'
+- from: Miss die
+  to: mystai
+  count: 1
+  headers:
+  - '[u2604 | 03:27:37.830-03:27:45.600 | DM]'
+- from: Mrs Gandhi
+  to: Askandi
+  count: 1
+  headers:
+  - '[u0894 | 01:06:28.830-01:06:36.780 | Wellby]'
+- from: Omari
+  to: Dunmari
+  count: 1
+  headers:
+  - '[u0922 | 01:09:10.290-01:09:16.440 | DM]'
+- from: Robbie has been
+  to: Probably to spend
+  count: 1
+  headers:
+  - '[u0061 | 00:04:47.430-00:04:52.260 | DM]'
+- from: Russ when
+  to: Riswynn
+  count: 1
+  headers:
+  - '[u1094 | 01:26:06.960-01:26:10.140 | Riswynn]'
+- from: Ryan ' s
+  to: winds
+  count: 1
+  headers:
+  - '[u1251 | 01:43:23.460-01:43:41.370 | DM]'
+- from: Shark Kuhn
+  to: Shakun
+  count: 1
+  headers:
+  - '[u0041 | 00:03:46.320-00:03:47.040 | DM]'
+- from: Shutterfly
+  to: Alesh found
+  count: 1
+  headers:
+  - '[u0052 | 00:04:18.240-00:04:20.190 | DM]'
+- from: Summa
+  to: Suma
+  count: 1
+  headers:
+  - '[u1202 | 01:36:25.770-01:36:28.560 | DM]'
+- from: TOKEN
+  to: in Tokra
+  count: 1
+  headers:
+  - '[u0902 | 01:07:17.790-01:07:21.720 | DM]'
+- from: The Shack when
+  to: the Shakun mystai
+  count: 1
+  headers:
+  - '[u0042 | 00:03:47.490-00:03:54.870 | Kenzo]'
+- from: Up dar
+  to: Havdar
+  count: 1
+  headers:
+  - '[u0035 | 00:03:27.300-00:03:27.750 | Kenzo]'
+- from: a gear
+  to: Aagir
+  count: 1
+  headers:
+  - '[u0553 | 00:45:35.220-00:45:36.420 | Kenzo]'
+- from: a lash
+  to: Alesh
+  count: 1
+  headers:
+  - '[u0061 | 00:04:47.430-00:04:52.260 | DM]'
+- from: a lashes
+  to: Alesh ' s
+  count: 1
+  headers:
+  - '[u0595 | 00:48:32.580-00:48:38.970 | DM]'
+- from: artists
+  to: Ardith
+  count: 1
+  headers:
+  - '[u1098 | 01:26:54.840-01:27:00.780 | Riswynn]'
+- from: as Gandhi
+  to: Askandi
+  count: 1
+  headers:
+  - '[u0905 | 01:07:47.430-01:08:04.230 | DM]'
+- from: bass outta
+  to: Bas Udda
+  count: 1
+  headers:
+  - '[u0907 | 01:08:09.390-01:08:15.420 | Kenzo]'
+- from: bird trying
+  to: burned shrine
+  count: 1
+  headers:
+  - '[u1253 | 01:43:45.090-01:43:55.110 | DM]'
+- from: bounty
+  to: Yuvanti
+  count: 1
+  headers:
+  - '[u1098 | 01:26:54.840-01:27:00.780 | Riswynn]'
+- from: can draw
+  to: Candrosa
+  count: 1
+  headers:
+  - '[u2613 | 03:28:24.630-03:28:29.250 | DM]'
+- from: cancer is
+  to: Candrosa has
+  count: 1
+  headers:
+  - '[u2599 | 03:27:18.000-03:27:21.690 | Kenzo]'
+- from: caraway
+  to: Karawa
+  count: 1
+  headers:
+  - '[u1197 | 01:35:54.840-01:36:01.170 | DM]'
+- from: care a while
+  to: Karawa
+  count: 1
+  headers:
+  - '[u0887 | 01:05:55.500-01:06:06.480 | Kenzo]'
+- from: carved ours
+  to: Karawa ' s
+  count: 1
+  headers:
+  - '[u0266 | 00:18:39.780-00:19:02.010 | DM]'
+- from: characterize the Jenkins
+  to: Candrosa kind of chuckles
+  count: 1
+  headers:
+  - '[u0574 | 00:47:06.060-00:47:07.920 | DM]'
+- from: cobra
+  to: Tokra
+  count: 1
+  headers:
+  - '[u0032 | 00:03:17.700-00:03:21.120 | Kenzo]'
+- from: controls
+  to: Candrosa
+  count: 1
+  headers:
+  - '[u2604 | 03:27:37.830-03:27:45.600 | DM]'
+- from: crumb crumb
+  to: Krom
+  count: 1
+  headers:
+  - '[u1089 | 01:25:35.940-01:25:38.640 | DM]'
+- from: discarded note
+  to: the edge of the crowd
+  count: 1
+  headers:
+  - '[u1260 | 01:44:24.810-01:44:35.130 | DM]'
+- from: disembark
+  to: to Dunmar
+  count: 1
+  headers:
+  - '[u0957 | 01:12:46.200-01:12:59.730 | DM]'
+- from: do nice
+  to: '? Do we know it '' s'
+  count: 1
+  headers:
+  - '[u0069 | 00:05:29.190-00:05:32.970 | Wellby]'
+- from: doors
+  to: dwarves
+  count: 1
+  headers:
+  - '[u0966 | 01:13:51.300-01:14:04.020 | DM]'
+- from: drink Korean
+  to: Drankorian
+  count: 1
+  headers:
+  - '[u1213 | 01:37:51.630-01:38:08.160 | DM]'
+- from: dunmurry
+  to: Dunmari
+  count: 1
+  headers:
+  - '[u1213 | 01:37:51.630-01:38:08.160 | DM]'
+- from: dwarves and
+  to: dwarven
+  count: 1
+  headers:
+  - '[u0966 | 01:13:51.300-01:14:04.020 | DM]'
+- from: fast food
+  to: Bas Udda
+  count: 1
+  headers:
+  - '[u0905 | 01:07:47.430-01:08:04.230 | DM]'
+- from: g volley Augie
+  to: Jeevali, Aagir,
+  count: 1
+  headers:
+  - '[u0542 | 00:44:56.760-00:45:05.730 | DM]'
+- from: garden jalan desert
+  to: Garamjala Desert
+  count: 1
+  headers:
+  - '[u0905 | 01:07:47.430-01:08:04.230 | DM]'
+- from: great gosh
+  to: Great Gorge
+  count: 1
+  headers:
+  - '[u0905 | 01:07:47.430-01:08:04.230 | DM]'
+- from: have our weeds
+  to: Havdar leaves
+  count: 1
+  headers:
+  - '[u2619 | 03:28:46.290-03:28:55.710 | Delwath]'
+- from: hob dar
+  to: Havdar
+  count: 1
+  headers:
+  - '[u0929 | 01:09:55.680-01:10:05.700 | Kenzo]'
+- from: keys
+  to: Kisa
+  count: 1
+  headers:
+  - '[u0197 | 00:14:02.970-00:14:06.780 | DM]'
+- from: lashes
+  to: Alesh
+  count: 1
+  headers:
+  - '[u0592 | 00:48:14.820-00:48:19.650 | DM]'
+- from: let ' s just
+  to: Alesh is
+  count: 1
+  headers:
+  - '[u0055 | 00:04:22.680-00:04:30.780 | Kenzo]'
+- from: locker a notice on
+  to: local knowledge and
+  count: 1
+  headers:
+  - '[u0040 | 00:03:42.390-00:03:44.760 | Kenzo]'
+- from: manda
+  to: on a
+  count: 1
+  headers:
+  - '[u1097 | 01:26:39.690-01:26:53.760 | Riswynn]'
+- from: mystics are
+  to: mystai here
+  count: 1
+  headers:
+  - '[u0928 | 01:09:45.570-01:09:54.540 | Kenzo]'
+- from: on Mari
+  to: Dunmar
+  count: 1
+  headers:
+  - '[u0966 | 01:13:51.300-01:14:04.020 | DM]'
+- from: our gear
+  to: Aagir
+  count: 1
+  headers:
+  - '[u0530 | 00:44:06.780-00:44:08.430 | DM]'
+- from: port
+  to: poured
+  count: 1
+  headers:
+  - '[u1217 | 01:38:24.150-01:38:33.570 | DM]'
+- from: ravens club
+  to: Raven ' s Hold
+  count: 1
+  headers:
+  - '[u1095 | 01:26:11.160-01:26:27.090 | Riswynn]'
+- from: ravens cold
+  to: Raven ' s Hold
+  count: 1
+  headers:
+  - '[u1100 | 01:27:05.160-01:27:20.160 | Riswynn]'
+- from: ravens health
+  to: Raven ' s Hold
+  count: 1
+  headers:
+  - '[u1091 | 01:25:48.060-01:25:54.750 | DM]'
+- from: ravens holders sat in a
+  to: Raven ' s Hold is set
+  count: 1
+  headers:
+  - '[u0337 | 00:25:43.290-00:25:58.110 | DM]'
+- from: ravens hole
+  to: Raven ' s Hold
+  count: 1
+  headers:
+  - '[u0965 | 01:13:46.410-01:13:49.140 | DM]'
+- from: read and soul
+  to: Raven ' s Hold
+  count: 1
+  headers:
+  - '[u1093 | 01:26:01.830-01:26:05.190 | Kenzo]'
+- from: risk when
+  to: Riswynn
+  count: 1
+  headers:
+  - '[u2553 | 03:23:11.580-03:23:18.600 | DM]'
+- from: see
+  to: sea
+  count: 1
+  headers:
+  - '[u1217 | 01:38:24.150-01:38:33.570 | DM]'
+- from: share couldn ' t
+  to: Shakun
+  count: 1
+  headers:
+  - '[u2580 | 03:25:20.760-03:25:25.980 | Seeker]'
+- from: she volley
+  to: Jeevali
+  count: 1
+  headers:
+  - '[u1233 | 01:41:07.620-01:41:27.780 | DM]'
+- from: starting Twitter
+  to: the city of Nardith
+  count: 1
+  headers:
+  - '[u1095 | 01:26:11.160-01:26:27.090 | Riswynn]'
+- from: tempo
+  to: temple
+  count: 1
+  headers:
+  - '[u1200 | 01:36:19.410-01:36:22.500 | DM]'
+- from: thing
+  to: things
+  count: 1
+  headers:
+  - '[u1097 | 01:26:39.690-01:26:53.760 | Riswynn]'
+- from: to
+  to: two
+  count: 1
+  headers:
+  - '[u0072 | 00:05:36.660-00:05:39.480 | Seeker]'
+- from: told
+  to: ''' s Hold,'
+  count: 1
+  headers:
+  - '[u1060 | 01:22:12.420-01:22:14.070 | DM]'
+- from: tollcross
+  to: Tokra
+  count: 1
+  headers:
+  - '[u0916 | 01:08:46.590-01:08:48.660 | Kenzo]'
+- from: trying
+  to: shrine
+  count: 1
+  headers:
+  - '[u1225 | 01:40:02.640-01:40:16.620 | DM]'
+- from: us, Gandhi
+  to: Askandi
+  count: 1
+  headers:
+  - '[u0904 | 01:07:41.370-01:07:46.860 | Kenzo]'
+- from: volley
+  to: Jeevali
+  count: 1
+  headers:
+  - '[u1199 | 01:36:09.120-01:36:18.180 | DM]'
+- from: volume
+  to: Jeevali
+  count: 1
+  headers:
+  - '[u1237 | 01:41:46.290-01:41:49.350 | DM]'
+- from: well 20
+  to: Ikram ' s
+  count: 1
+  headers:
+  - '[u0066 | 00:05:09.030-00:05:13.230 | Delwath]'
+- from: wines
+  to: winds
+  count: 1
+  headers:
+  - '[u1253 | 01:43:45.090-01:43:55.110 | DM]'
+- from: you ' ve already
+  to: Jeevali
+  count: 1
+  headers:
+  - '[u1217 | 01:38:24.150-01:38:33.570 | DM]'
+repeatedReplacements:
+- from: ravens hold
+  to: Raven ' s Hold
+  count: 10
+  headers:
+  - '[u0332 | 00:25:15.510-00:25:23.640 | DM]'
+  - '[u0401 | 00:33:04.650-00:33:08.430 | Seeker]'
+  - '[u0565 | 00:46:24.570-00:46:31.200 | Kenzo]'
+  - '[u0584 | 00:47:46.770-00:47:50.670 | Kenzo]'
+  - '[u0949 | 01:12:01.860-01:12:03.660 | Kenzo]'
+  - '[u0980 | 01:15:14.910-01:15:24.450 | DM]'
+  - '[u1062 | 01:22:20.880-01:22:31.200 | DM]'
+  - '[u1093 | 01:26:01.830-01:26:05.190 | Kenzo]'
+  - '[u1104 | 01:27:40.290-01:27:45.120 | Riswynn]'
+  - '[u2557 | 03:23:31.800-03:23:33.030 | DM]'
+- from: G volley
+  to: Jeevali
+  count: 4
+  headers:
+  - '[u0422 | 00:34:34.830-00:34:37.800 | DM]'
+  - '[u1212 | 01:37:38.070-01:37:50.310 | DM]'
+  - '[u1251 | 01:43:23.460-01:43:41.370 | DM]'
+  - '[u1254 | 01:43:56.550-01:44:04.260 | DM]'
+- from: Denmark
+  to: Dunmar
+  count: 3
+  headers:
+  - '[u0527 | 00:43:36.180-00:43:52.470 | DM]'
+  - '[u0897 | 01:06:42.510-01:06:50.850 | DM]'
+  - '[u1212 | 01:37:38.070-01:37:50.310 | DM]'
+- from: Kendra
+  to: Candrosa
+  count: 3
+  headers:
+  - '[u0595 | 00:48:32.580-00:48:38.970 | DM]'
+  - '[u0901 | 01:07:11.280-01:07:13.620 | DM]'
+  - '[u2596 | 03:27:03.870-03:27:08.250 | DM]'
+- from: Kendra ' s
+  to: Candrosa
+  count: 3
+  headers:
+  - '[u0898 | 01:06:52.320-01:07:01.530 | DM]'
+  - '[u0928 | 01:09:45.570-01:09:54.540 | Kenzo]'
+  - '[u0941 | 01:11:00.300-01:11:04.440 | DM]'
+- from: ambassador
+  to: Bas Udda
+  count: 3
+  headers:
+  - '[u0395 | 00:32:13.530-00:32:19.950 | DM]'
+  - '[u0910 | 01:08:24.270-01:08:28.230 | DM]'
+  - '[u0912 | 01:08:32.640-01:08:41.760 | DM]'
+- from: done Mari
+  to: Dunmari
+  count: 3
+  headers:
+  - '[u0011 | 00:00:52.710-00:00:57.750 | DM]'
+  - '[u0847 | 01:02:14.250-01:02:29.850 | DM]'
+  - '[u1079 | 01:24:12.570-01:24:23.940 | Kenzo]'
+- from: have dar
+  to: Havdar
+  count: 3
+  headers:
+  - '[u0019 | 00:01:39.900-00:01:49.770 | DM]'
+  - '[u0897 | 01:06:42.510-01:06:50.850 | DM]'
+  - '[u2553 | 03:23:11.580-03:23:18.600 | DM]'
+- from: Avanti
+  to: Yuvanti
+  count: 2
+  headers:
+  - '[u0963 | 01:13:31.140-01:13:42.720 | DM]'
+  - '[u1095 | 01:26:11.160-01:26:27.090 | Riswynn]'
+- from: Cairo
+  to: Karawa
+  count: 2
+  headers:
+  - '[u0916 | 01:08:46.590-01:08:48.660 | Kenzo]'
+  - '[u0944 | 01:11:20.100-01:11:37.080 | DM]'
+- from: Can dress
+  to: Candrosa
+  count: 2
+  headers:
+  - '[u0197 | 00:14:02.970-00:14:06.780 | DM]'
+  - '[u0518 | 00:42:27.600-00:42:29.040 | Kenzo]'
+- from: G Bali
+  to: Jeevali
+  count: 2
+  headers:
+  - '[u1212 | 01:37:38.070-01:37:50.310 | DM]'
+  - '[u1226 | 01:40:17.910-01:40:25.140 | DM]'
+- from: Kenza
+  to: Kenzo
+  count: 2
+  headers:
+  - '[u1213 | 01:37:51.630-01:38:08.160 | DM]'
+  - '[u2608 | 03:28:06.930-03:28:11.130 | DM]'
+- from: Kerala
+  to: Karawa
+  count: 2
+  headers:
+  - '[u0434 | 00:35:27.390-00:35:31.920 | DM]'
+  - '[u1225 | 01:40:02.640-01:40:16.620 | DM]'
+- from: Kesa
+  to: Kisa
+  count: 2
+  headers:
+  - '[u0266 | 00:18:39.780-00:19:02.010 | DM]'
+  - '[u2596 | 03:27:03.870-03:27:08.250 | DM]'
+- from: Ravens hold
+  to: Raven ' s Hold
+  count: 2
+  headers:
+  - '[u0334 | 00:25:33.930-00:25:35.910 | DM]'
+  - '[u0951 | 01:12:08.340-01:12:13.320 | DM]'
+- from: She volley
+  to: Jeevali
+  count: 2
+  headers:
+  - '[u1222 | 01:39:16.080-01:39:33.270 | DM]'
+  - '[u1234 | 01:41:29.310-01:41:32.010 | DM]'
+- from: Tokyo
+  to: Tokra
+  count: 2
+  headers:
+  - '[u0893 | 01:06:23.730-01:06:28.200 | Wellby]'
+  - '[u0900 | 01:07:08.310-01:07:10.140 | DM]'
+- from: dervish
+  to: dwarvish
+  count: 2
+  headers:
+  - '[u1096 | 01:26:28.230-01:26:38.730 | Riswynn]'
+  - '[u1100 | 01:27:05.160-01:27:20.160 | Riswynn]'
+- from: ravens whole
+  to: Raven ' s Hold
+  count: 2
+  headers:
+  - '[u0058 | 00:04:40.620-00:04:42.000 | Delwath]'
+  - '[u0302 | 00:22:04.170-00:22:19.260 | Kenzo]'
+- from: toker
+  to: Tokra
+  count: 2
+  headers:
+  - '[u0898 | 01:06:52.320-01:07:01.530 | DM]'
+  - '[u0921 | 01:08:59.340-01:09:09.060 | DM]'
+unresolvedPhrases: []

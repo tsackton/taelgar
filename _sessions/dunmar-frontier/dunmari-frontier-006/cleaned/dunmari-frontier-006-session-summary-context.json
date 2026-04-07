@@ -1,0 +1,900 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 6,
+    "realWorldDate": "2020-08-06",
+    "drStart": "1748-04-04",
+    "drEnd": "1748-04-06"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b01",
+        "b02"
+      ],
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Candrosa",
+        "Callie Charmheart"
+      ],
+      "organizationRefs": [
+        "Shakun Mystai"
+      ],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Leaving the council, the party reviews the evacuation plan for Karawa, compares priorities, and decides to spend the afternoon preparing for Raven's Hold.",
+        "The party spends the afternoon chasing local knowledge, learning more about Raven's Hold, the Red Mesa, and the divine forces at work around Karawa."
+      ],
+      "sourceLongSummaries": [
+        "The session opens in the uneasy aftermath of the evacuation council as rumors spread through Karawa and Havdar starts rallying anyone who can ride and fight. The party talks through the plan to send most of the town west to Tokra while Candrosa and the Shakun mystai fortify the temple, Alesh scouts south, and the group itself heads north to Raven's Hold. Their recap also turns toward the lightning storm, the battered frontier villages, and what they still need to learn before they leave.",
+        "With the broad plan set, the group scatters across Karawa to gather what local knowledge they can before the northern expedition. Wellby presses the Charmhearts for more about Raven's Hold and the route there, Seeker studies the strange age and layered stone of the Red Mesa, and Kenzo questions Candrosa about the north, Aagir, and old Dunmari shrines. By the end of the beat, the party has a clearer picture of Raven's Hold as an old border fort and trade post, but not the certainty they were hoping for."
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "b03"
+      ],
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Alesh"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "healing potions",
+        "red healing mud"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "As fear deepens in Karawa, the party gathers supplies, plans a rendezvous, and says farewell to Alesh before she rides south."
+      ],
+      "sourceLongSummaries": [
+        "The rest of the day becomes practical preparation. Delwath scrounges potions and other supplies while Seeker starts thinking through how best to harden the temple against a siege, and the group works out how long the northern and southern scouting missions might take. When Alesh arrives with two companions, they agree to regroup in roughly three weeks if they can, discuss Havdar, Tokra, and the emptying villages to the south, and then watch her ride off into the desert before the festival begins."
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1748-04-05",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b04"
+      ],
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Krom"
+      ],
+      "organizationRefs": [
+        "Shakun Mystai"
+      ],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "On the day before departure, Seeker helps fortify the temple and the party meets Riswynn, a dwarf treasure-hunter also bound for Raven's Hold."
+      ],
+      "sourceLongSummaries": [
+        "The next day is spent in preparation rather than debate. Seeker uses both masonry and magic to strengthen the Temple of Shakun's doors, walls, and approach, leaving Candrosa's people with a much better chance of holding out if the town falls. Back at Ikram's caravanserai, Krom introduces the party to Riswynn Brawnanvil, a dwarf from the Yuvanti Mountains seeking a family heirloom in Raven's Hold, and the group quickly sees that their plans align well enough to travel together."
+      ]
+    },
+    {
+      "blockId": "timeline-004",
+      "dateStart": "1748-04-05",
+      "dateEnd": "1748-04-06",
+      "timeWindow": null,
+      "resolution": "date-range",
+      "beatIds": [
+        "b05"
+      ],
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Suma"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "rebirth shrine"
+      ],
+      "combatBeatIds": [
+        "b05"
+      ],
+      "sourceShortSummaries": [
+        "Karawa's fearful Festival of Rebirth turns from solemn ritual into panic when gnolls and grotesque maw-creatures charge the crowd from the north."
+      ],
+      "sourceLongSummaries": [
+        "The first night of the festival begins with Suma leading the people of Karawa through Jeevali's story of drought, tears, renewal, and the miracle that made Dunmar livable. By the next day's procession the town is still frightened but trying to read hope into every sign, rebuilding the shrine together while preparing to flee west. That fragile calm shatters when a murmur at the edge of the crowd becomes a panic and the party races north to meet a sudden assault by gnolls and monstrous maws."
+      ]
+    },
+    {
+      "blockId": "timeline-005",
+      "dateStart": "1748-04-06",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b06",
+        "b07"
+      ],
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Ander Charmheart",
+        "Havdar"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [
+        "b06",
+        "b07"
+      ],
+      "sourceShortSummaries": [
+        "The battle tightens around the refugee camp as the maws crash into the line, Ander Charmheart stumbles toward them, and Kenzo is mauled nearly to death.",
+        "The party breaks the attackers, leaves one gnoll alive for a moment, and learns from Seeker that the maw-creatures may be extraplanar servants of hunger."
+      ],
+      "sourceLongSummaries": [
+        "Once the fight is fully joined, the maw-creatures prove faster and stranger than the gnolls, bounding across the ground and forcing the party to improvise around walls, elevation, and chaos in the camp. Ander Charmheart emerges in the middle of the attack in a trance-like state, seemingly trying to throw himself to the monsters, and Seeker has to hinder him while also helping hold the line. The fight turns desperate when Kenzo takes a brutal series of bites and collapses to the edge of death just as the party is still trying to understand what these creatures even are.",
+        "The second half of the fight goes decisively in the party's favor as the last maws and gnolls are brought down or subdued. Delwath ties up the sleeping gnoll, but the creature can only snarl and lash out while Ander mirrors the same incoherent bloodlust nearby. As the battlefield settles, Seeker recalls a book on darker planes and identifies the maw-creatures as something not native to this world, turning a local ambush into evidence of a much deeper magical threat."
+      ]
+    },
+    {
+      "blockId": "timeline-006",
+      "dateStart": "1748-04-06",
+      "dateEnd": "1748-04-07",
+      "timeWindow": null,
+      "resolution": "date-range",
+      "beatIds": [
+        "b08"
+      ],
+      "locationRefs": [
+        "Karawa",
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Havdar",
+        "Candrosa",
+        "Kisa"
+      ],
+      "organizationRefs": [
+        "Shakun Mystai"
+      ],
+      "itemRefs": [
+        "maw tooth"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "In the battle's wake, Karawa abandons any delay: Havdar orders flight at first light, Candrosa and the mystai seal themselves in, and the party turns north at dawn."
+      ],
+      "sourceLongSummaries": [
+        "With initiative over, the group quickly learns that the surviving gnoll cannot be questioned usefully and that the maw-creatures decay with unnatural speed. Havdar arrives bloodied from a parallel skirmish, sees enough to decide the town can no longer wait, and orders the evacuation to begin at first light rather than after another day. Kisa and Candrosa thank the party, the temple is loaded like a siegehold for the mystai who will stay behind, and after a tense night of reflection, packing, and Kenzo's unsettling trance, the town finally pours west toward Tokra while the party picks up the attackers' tracks and rides north toward Raven's Hold."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Council Aftermath",
+      "beatIds": [
+        "b01"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0318"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0318"
+        }
+      ],
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Leaving the council, the party reviews the evacuation plan for Karawa, compares priorities, and decides to spend the afternoon preparing for Raven's Hold."
+      ],
+      "sourceLongSummaries": [
+        "The session opens in the uneasy aftermath of the evacuation council as rumors spread through Karawa and Havdar starts rallying anyone who can ride and fight. The party talks through the plan to send most of the town west to Tokra while Candrosa and the Shakun mystai fortify the temple, Alesh scouts south, and the group itself heads north to Raven's Hold. Their recap also turns toward the lightning storm, the battered frontier villages, and what they still need to learn before they leave."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Errands in Karawa",
+      "beatIds": [
+        "b02"
+      ],
+      "sourceRange": {
+        "startUid": "u0319",
+        "endUid": "u0620"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0319",
+          "endUid": "u0620"
+        }
+      ],
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Candrosa",
+        "Callie Charmheart"
+      ],
+      "organizationRefs": [
+        "Shakun Mystai"
+      ],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party spends the afternoon chasing local knowledge, learning more about Raven's Hold, the Red Mesa, and the divine forces at work around Karawa."
+      ],
+      "sourceLongSummaries": [
+        "With the broad plan set, the group scatters across Karawa to gather what local knowledge they can before the northern expedition. Wellby presses the Charmhearts for more about Raven's Hold and the route there, Seeker studies the strange age and layered stone of the Red Mesa, and Kenzo questions Candrosa about the north, Aagir, and old Dunmari shrines. By the end of the beat, the party has a clearer picture of Raven's Hold as an old border fort and trade post, but not the certainty they were hoping for."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Supplies and Farewell",
+      "beatIds": [
+        "b03"
+      ],
+      "sourceRange": {
+        "startUid": "u0621",
+        "endUid": "u0993"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0621",
+          "endUid": "u0993"
+        }
+      ],
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Alesh"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "healing potions",
+        "red healing mud"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "As fear deepens in Karawa, the party gathers supplies, plans a rendezvous, and says farewell to Alesh before she rides south."
+      ],
+      "sourceLongSummaries": [
+        "The rest of the day becomes practical preparation. Delwath scrounges potions and other supplies while Seeker starts thinking through how best to harden the temple against a siege, and the group works out how long the northern and southern scouting missions might take. When Alesh arrives with two companions, they agree to regroup in roughly three weeks if they can, discuss Havdar, Tokra, and the emptying villages to the south, and then watch her ride off into the desert before the festival begins."
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Fortify and Meet Riswynn",
+      "beatIds": [
+        "b04"
+      ],
+      "sourceRange": {
+        "startUid": "u0994",
+        "endUid": "u1189"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0994",
+          "endUid": "u1189"
+        }
+      ],
+      "dateStart": "1748-04-05",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Krom"
+      ],
+      "organizationRefs": [
+        "Shakun Mystai"
+      ],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "On the day before departure, Seeker helps fortify the temple and the party meets Riswynn, a dwarf treasure-hunter also bound for Raven's Hold."
+      ],
+      "sourceLongSummaries": [
+        "The next day is spent in preparation rather than debate. Seeker uses both masonry and magic to strengthen the Temple of Shakun's doors, walls, and approach, leaving Candrosa's people with a much better chance of holding out if the town falls. Back at Ikram's caravanserai, Krom introduces the party to Riswynn Brawnanvil, a dwarf from the Yuvanti Mountains seeking a family heirloom in Raven's Hold, and the group quickly sees that their plans align well enough to travel together."
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "combat",
+      "title": "Festival Ambush Begins to Gnolls Broken",
+      "beatIds": [
+        "b05",
+        "b06",
+        "b07"
+      ],
+      "sourceRange": {
+        "startUid": "u1190",
+        "endUid": "u2292"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1190",
+          "endUid": "u1499"
+        },
+        {
+          "startUid": "u1500",
+          "endUid": "u1899"
+        },
+        {
+          "startUid": "u1900",
+          "endUid": "u2292"
+        }
+      ],
+      "dateStart": "1748-04-05",
+      "dateEnd": "1748-04-06",
+      "timeWindow": null,
+      "resolution": "date-range",
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Suma",
+        "Ander Charmheart",
+        "Havdar"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "rebirth shrine"
+      ],
+      "combatEnemyRefs": [
+        "gnolls",
+        "maw-creatures"
+      ],
+      "sourceShortSummaries": [
+        "Karawa's fearful Festival of Rebirth turns from solemn ritual into panic when gnolls and grotesque maw-creatures charge the crowd from the north.",
+        "The battle tightens around the refugee camp as the maws crash into the line, Ander Charmheart stumbles toward them, and Kenzo is mauled nearly to death.",
+        "The party breaks the attackers, leaves one gnoll alive for a moment, and learns from Seeker that the maw-creatures may be extraplanar servants of hunger."
+      ],
+      "sourceLongSummaries": [
+        "The first night of the festival begins with Suma leading the people of Karawa through Jeevali's story of drought, tears, renewal, and the miracle that made Dunmar livable. By the next day's procession the town is still frightened but trying to read hope into every sign, rebuilding the shrine together while preparing to flee west. That fragile calm shatters when a murmur at the edge of the crowd becomes a panic and the party races north to meet a sudden assault by gnolls and monstrous maws.",
+        "Once the fight is fully joined, the maw-creatures prove faster and stranger than the gnolls, bounding across the ground and forcing the party to improvise around walls, elevation, and chaos in the camp. Ander Charmheart emerges in the middle of the attack in a trance-like state, seemingly trying to throw himself to the monsters, and Seeker has to hinder him while also helping hold the line. The fight turns desperate when Kenzo takes a brutal series of bites and collapses to the edge of death just as the party is still trying to understand what these creatures even are.",
+        "The second half of the fight goes decisively in the party's favor as the last maws and gnolls are brought down or subdued. Delwath ties up the sleeping gnoll, but the creature can only snarl and lash out while Ander mirrors the same incoherent bloodlust nearby. As the battlefield settles, Seeker recalls a book on darker planes and identifies the maw-creatures as something not native to this world, turning a local ambush into evidence of a much deeper magical threat."
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "beat",
+      "title": "Flight at First Light",
+      "beatIds": [
+        "b08"
+      ],
+      "sourceRange": {
+        "startUid": "u2293",
+        "endUid": "u2743"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2293",
+          "endUid": "u2743"
+        }
+      ],
+      "dateStart": "1748-04-06",
+      "dateEnd": "1748-04-07",
+      "timeWindow": null,
+      "resolution": "date-range",
+      "locationRefs": [
+        "Karawa",
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Havdar",
+        "Candrosa",
+        "Kisa"
+      ],
+      "organizationRefs": [
+        "Shakun Mystai"
+      ],
+      "itemRefs": [
+        "maw tooth"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "In the battle's wake, Karawa abandons any delay: Havdar orders flight at first light, Candrosa and the mystai seal themselves in, and the party turns north at dawn."
+      ],
+      "sourceLongSummaries": [
+        "With initiative over, the group quickly learns that the surviving gnoll cannot be questioned usefully and that the maw-creatures decay with unnatural speed. Havdar arrives bloodied from a parallel skirmish, sees enough to decide the town can no longer wait, and orders the evacuation to begin at first light rather than after another day. Kisa and Candrosa thank the party, the temple is loaded like a siegehold for the mystai who will stay behind, and after a tense night of reflection, packing, and Kenzo's unsettling trance, the town finally pours west toward Tokra while the party picks up the attackers' tracks and rides north toward Raven's Hold."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Candrosa",
+        "beatIds": [
+          "b02",
+          "b08"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Callie Charmheart",
+        "beatIds": [
+          "b02"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Alesh",
+        "beatIds": [
+          "b03"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Krom",
+        "beatIds": [
+          "b04"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Suma",
+        "beatIds": [
+          "b05"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Ander Charmheart",
+        "beatIds": [
+          "b06",
+          "b07"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Havdar",
+        "beatIds": [
+          "b07",
+          "b08"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Kisa",
+        "beatIds": [
+          "b08"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-005",
+        "beatIds": [
+          "b05",
+          "b06",
+          "b07"
+        ],
+        "enemyRefs": [
+          "gnolls",
+          "maw-creatures"
+        ],
+        "dateStart": "1748-04-05",
+        "dateEnd": "1748-04-06"
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Karawa",
+        "beatIds": [
+          "b01",
+          "b02",
+          "b03",
+          "b04",
+          "b05",
+          "b06",
+          "b07",
+          "b08"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Raven's Hold",
+        "beatIds": [
+          "b08"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "mystai priest answering Kenzo's questions",
+          "beatIds": [
+            "b02",
+            "b08"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-04-04",
+              "dateEnd": null
+            },
+            {
+              "location": "Karawa -> Raven's Hold",
+              "dateStart": "1748-04-06",
+              "dateEnd": "1748-04-07"
+            }
+          ]
+        },
+        {
+          "name": "Callie Charmheart",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "halfling traveler familiar with the road north",
+          "beatIds": [
+            "b02"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-04-04",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Alesh",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "scout leaving with two companions",
+          "beatIds": [
+            "b03"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-04-04",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Krom",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "innkeeper and matchmaker for the new alliance",
+          "beatIds": [
+            "b04"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-04-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Suma",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "priestess leading Jeevali's rites",
+          "beatIds": [
+            "b05"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-04-05",
+              "dateEnd": "1748-04-06"
+            }
+          ]
+        },
+        {
+          "name": "Ander Charmheart",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "halfling caravaner behaving as if drawn toward the maws",
+          "beatIds": [
+            "b06",
+            "b07"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-04-06",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Havdar",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "war leader arriving from the other side of the hill",
+          "beatIds": [
+            "b07",
+            "b08"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-04-06",
+              "dateEnd": null
+            },
+            {
+              "location": "Karawa -> Raven's Hold",
+              "dateStart": "1748-04-06",
+              "dateEnd": "1748-04-07"
+            }
+          ]
+        },
+        {
+          "name": "Kisa",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "elder helping coordinate the retreat",
+          "beatIds": [
+            "b08"
+          ],
+          "history": [
+            {
+              "location": "Karawa -> Raven's Hold",
+              "dateStart": "1748-04-06",
+              "dateEnd": "1748-04-07"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Karawa",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "the oasis and town center immediately after the evacuation council",
+          "beatIds": [
+            "b01",
+            "b02",
+            "b03",
+            "b04",
+            "b05",
+            "b06",
+            "b07",
+            "b08"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-04",
+              "dateEnd": "1748-04-06",
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1748-04-06",
+              "dateEnd": "1748-04-07",
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Raven's Hold",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "the battle's aftermath in and around town, ending with the party taking up the northern trail at dawn",
+          "beatIds": [
+            "b08"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-06",
+              "dateEnd": "1748-04-07",
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b02",
+            "b04",
+            "b08"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-04-04",
+              "dateEnd": "1748-04-05"
+            },
+            {
+              "location": "Karawa -> Raven's Hold",
+              "dateStart": "1748-04-06",
+              "dateEnd": "1748-04-07"
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "name": "healing potions",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b03"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-04-04",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "red healing mud",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b03"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-04-04",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "rebirth shrine",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b05"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-04-05",
+              "dateEnd": "1748-04-06"
+            }
+          ]
+        },
+        {
+          "name": "maw tooth",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b08"
+          ],
+          "history": [
+            {
+              "location": "Karawa -> Raven's Hold",
+              "dateStart": "1748-04-06",
+              "dateEnd": "1748-04-07"
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Aagir",
+          "contextHint": "god associated with frontier soldiers and destruction"
+        }
+      ],
+      "locations": [],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Brawnanvil heirloom",
+          "contextHint": null
+        },
+        {
+          "name": "Runes of Creation",
+          "contextHint": null
+        },
+        {
+          "name": "Intrusions from the Darker Planes",
+          "contextHint": null
+        }
+      ]
+    }
+  }
+}

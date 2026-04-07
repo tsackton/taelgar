@@ -1,0 +1,59 @@
+{
+  "totalDurationSeconds": 8082.56,
+  "speakers": [
+    {
+      "transcriptIdentifier": "Merash (Sara)",
+      "name": "Sara Smith",
+      "gameRole": "Merash",
+      "segmentCount": 138,
+      "durationSeconds": 492.485,
+      "fraction": 0.0609,
+      "wordCount": 1160
+    },
+    {
+      "transcriptIdentifier": "Rev. David Schwartz (he/him)",
+      "name": "David Schwartz",
+      "gameRole": "Thror",
+      "segmentCount": 147,
+      "durationSeconds": 457.418,
+      "fraction": 0.0566,
+      "wordCount": 1149
+    },
+    {
+      "transcriptIdentifier": "Riswyn",
+      "name": "Kate Sackton",
+      "gameRole": "Riswynn",
+      "segmentCount": 236,
+      "durationSeconds": 758.956,
+      "fraction": 0.0939,
+      "wordCount": 1809
+    },
+    {
+      "transcriptIdentifier": "Rothfis",
+      "name": "Phil Grayson",
+      "gameRole": "Rothfis",
+      "segmentCount": 328,
+      "durationSeconds": 1190.456,
+      "fraction": 0.1473,
+      "wordCount": 2820
+    },
+    {
+      "transcriptIdentifier": "Timothy Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 1484,
+      "durationSeconds": 5058.99,
+      "fraction": 0.6259,
+      "wordCount": 10877
+    },
+    {
+      "transcriptIdentifier": "Unknown",
+      "name": null,
+      "gameRole": "Unknown",
+      "segmentCount": 88,
+      "durationSeconds": 124.255,
+      "fraction": 0.0154,
+      "wordCount": 240
+    }
+  ]
+}

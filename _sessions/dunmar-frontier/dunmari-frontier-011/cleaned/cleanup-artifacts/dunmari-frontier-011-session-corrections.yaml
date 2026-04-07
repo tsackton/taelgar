@@ -1,0 +1,168 @@
+allReplacements:
+- from: Viola
+  to: Vola
+  count: 5
+  headers:
+  - '[u0163 | 00:14:42.840-00:14:46.590 | Delwath]'
+  - '[u0347 | 00:28:46.050-00:29:03.750 | DM]'
+  - '[u1740 | 02:19:10.410-02:19:15.990 | DM]'
+  - '[u2034 | 02:39:54.270-02:39:59.850 | DM]'
+  - '[u2530 | 03:20:21.030-03:20:25.410 | DM]'
+- from: bola
+  to: Vola
+  count: 5
+  headers:
+  - '[u0064 | 00:06:33.090-00:06:35.100 | Kenzo]'
+  - '[u0552 | 00:44:55.140-00:45:07.290 | Kenzo]'
+  - '[u2338 | 03:04:03.720-03:04:05.070 | DM]'
+  - '[u2514 | 03:18:56.640-03:19:03.270 | DM]'
+- from: bullet
+  to: Vola
+  count: 5
+  headers:
+  - '[u0128 | 00:11:37.380-00:11:42.780 | DM]'
+  - '[u1560 | 02:05:47.490-02:05:57.210 | DM]'
+  - '[u1701 | 02:16:02.040-02:16:05.190 | DM]'
+  - '[u2346 | 03:04:44.580-03:04:47.100 | Delwath]'
+  - '[u2607 | 03:26:30.600-03:26:32.970 | Wellby]'
+- from: ravens hold
+  to: Raven ' s Hold
+  count: 4
+  headers:
+  - '[u0106 | 00:09:35.550-00:09:51.870 | Wellby]'
+  - '[u0118 | 00:10:54.720-00:11:08.220 | DM]'
+  - '[u0120 | 00:11:09.150-00:11:15.090 | DM]'
+  - '[u0156 | 00:14:14.220-00:14:20.970 | Wellby]'
+- from: a gotta dust mother
+  to: Agata Dustmother
+  count: 3
+  headers:
+  - '[u0019 | 00:02:30.060-00:02:43.440 | DM]'
+  - '[u0126 | 00:11:29.610-00:11:32.340 | Seeker]'
+  - '[u0130 | 00:11:49.590-00:12:06.810 | DM]'
+- from: open scroll
+  to: Open Scroll
+  count: 3
+  headers:
+  - '[u0068 | 00:06:47.610-00:06:50.340 | Kenzo]'
+  - '[u0183 | 00:16:24.870-00:16:30.660 | Kenzo]'
+  - '[u0194 | 00:17:15.660-00:17:18.450 | Kenzo]'
+- from: Volvo
+  to: Vola
+  count: 2
+  headers:
+  - '[u0092 | 00:08:23.160-00:08:29.820 | DM]'
+  - '[u2346 | 03:04:44.580-03:04:47.100 | Delwath]'
+- from: chart in
+  to: Chardon
+  count: 2
+  headers:
+  - '[u0182 | 00:16:19.080-00:16:23.700 | Kenzo]'
+  - '[u0190 | 00:16:55.410-00:17:05.310 | Kenzo]'
+- from: Bullet
+  to: Vola
+  count: 1
+  headers:
+  - '[u0029 | 00:03:50.250-00:03:51.810 | DM]'
+- from: I gotta dust mother
+  to: Agata Dustmother
+  count: 1
+  headers:
+  - '[u0437 | 00:37:08.580-00:37:10.290 | DM]'
+- from: VIOLA
+  to: Vola
+  count: 1
+  headers:
+  - '[u0018 | 00:02:20.490-00:02:29.520 | DM]'
+- from: Viola for a number
+  to: Vola Forena
+  count: 1
+  headers:
+  - '[u0019 | 00:02:30.060-00:02:43.440 | DM]'
+- from: done Marty
+  to: Dunmari
+  count: 1
+  headers:
+  - '[u0014 | 00:01:42.690-00:01:55.290 | DM]'
+- from: done, Mary
+  to: Dunmari
+  count: 1
+  headers:
+  - '[u0006 | 00:00:40.410-00:00:48.840 | DM]'
+- from: drink Korean
+  to: Drankorian
+  count: 1
+  headers:
+  - '[u0442 | 00:37:36.660-00:37:42.840 | DM]'
+- from: hop goblins
+  to: hobgoblins
+  count: 1
+  headers:
+  - '[u0014 | 00:01:42.690-00:01:55.290 | DM]'
+- from: ravens holes
+  to: Raven ' s Hold
+  count: 1
+  headers:
+  - '[u0006 | 00:00:40.410-00:00:48.840 | DM]'
+repeatedReplacements:
+- from: Viola
+  to: Vola
+  count: 5
+  headers:
+  - '[u0163 | 00:14:42.840-00:14:46.590 | Delwath]'
+  - '[u0347 | 00:28:46.050-00:29:03.750 | DM]'
+  - '[u1740 | 02:19:10.410-02:19:15.990 | DM]'
+  - '[u2034 | 02:39:54.270-02:39:59.850 | DM]'
+  - '[u2530 | 03:20:21.030-03:20:25.410 | DM]'
+- from: bola
+  to: Vola
+  count: 5
+  headers:
+  - '[u0064 | 00:06:33.090-00:06:35.100 | Kenzo]'
+  - '[u0552 | 00:44:55.140-00:45:07.290 | Kenzo]'
+  - '[u2338 | 03:04:03.720-03:04:05.070 | DM]'
+  - '[u2514 | 03:18:56.640-03:19:03.270 | DM]'
+- from: bullet
+  to: Vola
+  count: 5
+  headers:
+  - '[u0128 | 00:11:37.380-00:11:42.780 | DM]'
+  - '[u1560 | 02:05:47.490-02:05:57.210 | DM]'
+  - '[u1701 | 02:16:02.040-02:16:05.190 | DM]'
+  - '[u2346 | 03:04:44.580-03:04:47.100 | Delwath]'
+  - '[u2607 | 03:26:30.600-03:26:32.970 | Wellby]'
+- from: ravens hold
+  to: Raven ' s Hold
+  count: 4
+  headers:
+  - '[u0106 | 00:09:35.550-00:09:51.870 | Wellby]'
+  - '[u0118 | 00:10:54.720-00:11:08.220 | DM]'
+  - '[u0120 | 00:11:09.150-00:11:15.090 | DM]'
+  - '[u0156 | 00:14:14.220-00:14:20.970 | Wellby]'
+- from: a gotta dust mother
+  to: Agata Dustmother
+  count: 3
+  headers:
+  - '[u0019 | 00:02:30.060-00:02:43.440 | DM]'
+  - '[u0126 | 00:11:29.610-00:11:32.340 | Seeker]'
+  - '[u0130 | 00:11:49.590-00:12:06.810 | DM]'
+- from: open scroll
+  to: Open Scroll
+  count: 3
+  headers:
+  - '[u0068 | 00:06:47.610-00:06:50.340 | Kenzo]'
+  - '[u0183 | 00:16:24.870-00:16:30.660 | Kenzo]'
+  - '[u0194 | 00:17:15.660-00:17:18.450 | Kenzo]'
+- from: Volvo
+  to: Vola
+  count: 2
+  headers:
+  - '[u0092 | 00:08:23.160-00:08:29.820 | DM]'
+  - '[u2346 | 03:04:44.580-03:04:47.100 | Delwath]'
+- from: chart in
+  to: Chardon
+  count: 2
+  headers:
+  - '[u0182 | 00:16:19.080-00:16:23.700 | Kenzo]'
+  - '[u0190 | 00:16:55.410-00:17:05.310 | Kenzo]'
+unresolvedPhrases: []

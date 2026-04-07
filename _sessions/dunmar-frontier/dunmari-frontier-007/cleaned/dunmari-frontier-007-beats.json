@@ -1,0 +1,177 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Leaving Karawa",
+      "startUid": "u0001",
+      "endUid": "u0242",
+      "lineCount": 242,
+      "dateStart": "1748-04-07",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Opening departure scene from Karawa through the first major trail analysis at the creature split site.",
+      "dateEvidence": [
+        "The session opens the next morning after the attack on Karawa.",
+        "The party departs in pre-dawn light and reaches the track junction by midday or early afternoon."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Choosing the Route",
+      "startUid": "u0243",
+      "endUid": "u0542",
+      "lineCount": 300,
+      "dateStart": "1748-04-07",
+      "dateEnd": "1748-04-08",
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party shifts from trail interpretation into route planning, first-night camp discussion, and the uneventful next day of northbound travel.",
+      "dateEvidence": [
+        "The party decides to ride straight for Raven's Hold and makes camp after the first day.",
+        "A later DM transition marks the next day of travel as uneventful."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Meeting Shani",
+      "startUid": "u0543",
+      "endUid": "u1005",
+      "lineCount": 463,
+      "dateStart": "1748-04-09",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "A new travel day begins at the road crossing and centers on scouting, meeting Shani's refugee band, and learning about the storm and gnolls.",
+      "dateEvidence": [
+        "The beat begins with 'The next day' as the party approaches the road.",
+        "Shani describes the previous night's gnoll attack, placing the encounter on the third day of travel."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Ambush at Camp",
+      "startUid": "u1006",
+      "endUid": "u1385",
+      "lineCount": 380,
+      "dateStart": "1748-04-09",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The party settles into camp and the gnoll ambush erupts, covering the opening rounds and the first scramble for cover.",
+      "dateEvidence": [
+        "The party makes camp after leaving Shani's band.",
+        "The fight interrupts their rest during the night."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Trading Arrows",
+      "startUid": "u1386",
+      "endUid": "u1739",
+      "lineCount": 354,
+      "dateStart": "1748-04-09",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The ambush settles into a ranged exchange as the party uses rocks, magic, and the floating rabbit distraction to survive the middle of the fight.",
+      "dateEvidence": [
+        "This beat continues the same overnight combat.",
+        "The party is still under arrow fire and has not yet ended the encounter."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Breaking the Gnolls",
+      "startUid": "u1740",
+      "endUid": "u1895",
+      "lineCount": 156,
+      "dateStart": "1748-04-10",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The final combat phase turns in the party's favor as the wounded gnolls are finished off and the remaining attackers break.",
+      "dateEvidence": [
+        "The combat has carried long enough to bridge into the next morning.",
+        "This phase ends when only the cleanup and recovery remain."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Vulture Warnings",
+      "startUid": "u1896",
+      "endUid": "u2189",
+      "lineCount": 294,
+      "dateStart": "1748-04-10",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "After the fight the party regroups, tends to recovery, and Seeker questions a vulture about movement near the fortress and storm.",
+      "dateEvidence": [
+        "The battle is over and the party is packing camp later that morning.",
+        "The vulture scene happens after dawn with thermals rising."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Across the Silent Plains",
+      "startUid": "u2190",
+      "endUid": "u2347",
+      "lineCount": 158,
+      "dateStart": "1748-04-10",
+      "dateEnd": "1748-04-11",
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "After the vulture exchange, the party resumes northbound travel over two quiet days until they camp near the mountains.",
+      "dateEvidence": [
+        "The party departs after the morning vulture scene.",
+        "A later DM transition marks the next day as another hot, quiet ride near the mountains."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Centaurs at Dawn",
+      "startUid": "u2348",
+      "endUid": "u2518",
+      "lineCount": 171,
+      "dateStart": "1748-04-11",
+      "dateEnd": "1748-04-12",
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party camps south of the mountains, senses the tainted land at dusk, and wakes to the sudden arrival of a centaur band.",
+      "dateEvidence": [
+        "The beat begins as the party sets camp for the night near the pass.",
+        "The next morning they are surprised by fast-moving riders from the east."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Parley with Tharandros",
+      "startUid": "u2519",
+      "endUid": "u2978",
+      "lineCount": 460,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The final scene is the long centaur parley, ending when Tharandros agrees to ride south and the party halts short of Raven's Hold.",
+      "dateEvidence": [
+        "The centaur conversation follows immediately after the dawn encounter.",
+        "The session ends after the centaurs depart south and the party turns toward Raven's Hold."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml",
+  "beats": [
+    {
+      "beatId": "b01",
+      "title": "Debating the Mountain Route",
+      "startUid": "u0001",
+      "endUid": "u0449",
+      "lineCount": 449,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Opening discussion scene at the mountain pass ends when the party starts actively searching for the hidden route.",
+      "dateEvidence": [
+        "Session manifest date is 1748-04-12.",
+        "DM opening establishes mid-morning at the mountain pass.",
+        "This beat is continuous planning before the search begins."
+      ]
+    },
+    {
+      "beatId": "b02",
+      "title": "Rune Stones and Gorge",
+      "startUid": "u0450",
+      "endUid": "u0584",
+      "lineCount": 135,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "A short investigative scene covers locating the numbered guide stones, identifying the gorge entrance, and testing the stream water.",
+      "dateEvidence": [
+        "Same-day continuation from the morning approach.",
+        "Session note timeline places discovery of the back door around noon.",
+        "No rest or overnight transition occurs."
+      ]
+    },
+    {
+      "beatId": "b03",
+      "title": "Flooded Tunnel Entrance",
+      "startUid": "u0585",
+      "endUid": "u1076",
+      "lineCount": 492,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party leaves the horses behind, pushes through the flooded entry tunnel, and drains the water barrier by pulling the hidden chain.",
+      "dateEvidence": [
+        "Continuous movement from the gorge into the tunnel.",
+        "Still part of the noon discovery and entry sequence.",
+        "No date change or long pause is indicated."
+      ]
+    },
+    {
+      "beatId": "b04",
+      "title": "Escape Hatch and False Rubble",
+      "startUid": "u1077",
+      "endUid": "u1365",
+      "lineCount": 289,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "After clearing the water trap, the party explores the guard passage, opens the escape hatch, passes the illusionary rubble, and finds the hidden wall mechanism.",
+      "dateEvidence": [
+        "Continuous exploration immediately after draining the tunnel.",
+        "Still before the encounter with the cavern inhabitants.",
+        "No date transition is suggested."
+      ]
+    },
+    {
+      "beatId": "b05",
+      "title": "Inakara's Bargain",
+      "startUid": "u1366",
+      "endUid": "u1741",
+      "lineCount": 376,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The hidden door opens into the inhabited cavern, leading to first contact with Inakara and her people and ending when she shoves the party toward the promised fight.",
+      "dateEvidence": [
+        "Session note timeline marks the meeting with Inakara in the early afternoon.",
+        "This is a direct continuation after entering the cavern complex.",
+        "No rest or date change is present."
+      ]
+    },
+    {
+      "beatId": "b06",
+      "title": "The Roper Strikes",
+      "startUid": "u1742",
+      "endUid": "u2130",
+      "lineCount": 389,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Combat begins as the party enters the trading hall, the roper ambushes Wellby, and the group starts figuring out how its tentacles and stone hide work.",
+      "dateEvidence": [
+        "Immediate continuation from Inakara leading the party to the threat.",
+        "Session note timeline places the roper fight in the early afternoon.",
+        "Same-day combat with no intervening break."
+      ]
+    },
+    {
+      "beatId": "b07",
+      "title": "Learning the Safe Distance",
+      "startUid": "u2131",
+      "endUid": "u2500",
+      "lineCount": 370,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The middle of the fight focuses on repeated grapples, repositioning, and the dawning realization that the roper can barely move beyond its tentacle reach.",
+      "dateEvidence": [
+        "Mid-combat continuation with no scene break.",
+        "The fight remains in the same cavern and same stretch of the afternoon.",
+        "No date or time jump occurs."
+      ]
+    },
+    {
+      "beatId": "b08",
+      "title": "Wearing the Roper Down",
+      "startUid": "u2501",
+      "endUid": "u2907",
+      "lineCount": 407,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Once the party establishes the safe radius, the combat resolves as they kite the roper to death and secure Inakara's promised passage before ending the session.",
+      "dateEvidence": [
+        "Final phase of the same afternoon combat.",
+        "The session ends immediately after the roper dies and passage is discussed.",
+        "No date change or rest intervenes."
+      ]
+    }
+  ]
+}

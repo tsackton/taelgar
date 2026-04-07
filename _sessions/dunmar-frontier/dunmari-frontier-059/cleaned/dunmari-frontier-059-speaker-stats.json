@@ -1,0 +1,59 @@
+{
+  "totalDurationSeconds": 8046.917,
+  "speakers": [
+    {
+      "transcriptIdentifier": "David Kong (he/him) Organizer, MIT Media Lab",
+      "name": "David Kong",
+      "gameRole": "Kenzo",
+      "segmentCount": 360,
+      "durationSeconds": 1913.056,
+      "fraction": 0.2377,
+      "wordCount": 5651
+    },
+    {
+      "transcriptIdentifier": "Eric Rosenbaum",
+      "name": "Eric Rosenbaum",
+      "gameRole": "Izzarak",
+      "segmentCount": 424,
+      "durationSeconds": 1194.123,
+      "fraction": 0.1484,
+      "wordCount": 2854
+    },
+    {
+      "transcriptIdentifier": "It's Del",
+      "name": null,
+      "gameRole": "It's Del",
+      "segmentCount": 1,
+      "durationSeconds": 1.049,
+      "fraction": 0.0001,
+      "wordCount": 0
+    },
+    {
+      "transcriptIdentifier": "Timothy Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 1216,
+      "durationSeconds": 4852.779,
+      "fraction": 0.6031,
+      "wordCount": 11706
+    },
+    {
+      "transcriptIdentifier": "Unknown",
+      "name": null,
+      "gameRole": "Unknown",
+      "segmentCount": 62,
+      "durationSeconds": 84.96,
+      "fraction": 0.0106,
+      "wordCount": 158
+    },
+    {
+      "transcriptIdentifier": "Wow",
+      "name": null,
+      "gameRole": "Wow",
+      "segmentCount": 1,
+      "durationSeconds": 0.95,
+      "fraction": 0.0001,
+      "wordCount": 0
+    }
+  ]
+}

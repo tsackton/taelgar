@@ -1,0 +1,39 @@
+schemaVersion: '1.0'
+sourceType: transcript
+scope: session
+campaign: Dunmari Frontier
+sessionNumber: 56
+realWorldDate: '2022-09-12'
+drStart: '1748-08-24'
+drEnd: '1748-08-25'
+drStartTime: null
+drEndTime: null
+participants:
+- name: Kate Sackton
+  gameRole: Riswynn
+  transcriptIdentifiers:
+  - Riswyn
+- name: Phil Grayson
+  gameRole: Rothfis
+  transcriptIdentifiers:
+  - Phil Grayson (Rothfis)
+  - Rothfis
+- name: Sara Smith
+  gameRole: Merash
+  transcriptIdentifiers:
+  - Merash (Sara)
+- name: David Schwartz
+  gameRole: Thror
+  transcriptIdentifiers:
+  - Rev. David Schwartz (he/him)
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers:
+  - Timothy Sackton
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-056/sources/GMT20220912-001836_Recording.transcript.vtt
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-056/sources/dunmar-frontier-session056.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-056/sources/dunmar-frontier-session056-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-source-prepared.md
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-056/sources/zoom-session-056.speaker_mapping.json
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-speaker-stats.json

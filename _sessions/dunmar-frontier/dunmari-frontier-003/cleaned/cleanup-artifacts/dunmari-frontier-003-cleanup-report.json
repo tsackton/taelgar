@@ -1,0 +1,298 @@
+{
+  "summary": {
+    "changedLineCount": 33,
+    "replacementCount": 61,
+    "repeatedReplacementCount": 3,
+    "topReplacements": [
+      {
+        "from": ".",
+        "to": ",",
+        "count": 2,
+        "headers": [
+          "[u0893 | 01:11:24.540-01:11:27.210 | DM]",
+          "[u1702 | 02:11:45.870-02:11:55.290 | DM]"
+        ]
+      },
+      {
+        "from": ".",
+        "to": "?",
+        "count": 2,
+        "headers": [
+          "[u1281 | 01:42:36.600-01:42:47.010 | Kenzo]",
+          "[u1947 | 02:33:02.970-02:33:04.650 | Delwath]"
+        ]
+      },
+      {
+        "from": "down with",
+        "to": "Delwath",
+        "count": 2,
+        "headers": [
+          "[u0035 | 00:03:06.480-00:03:14.850 | DM]",
+          "[u1263 | 01:41:02.370-01:41:12.990 | DM]"
+        ]
+      },
+      {
+        "from": ", this is not",
+        "to": ";",
+        "count": 1,
+        "headers": [
+          "[u1165 | 01:33:37.020-01:33:48.270 | DM]"
+        ]
+      },
+      {
+        "from": ". Pick",
+        "to": "and pick",
+        "count": 1,
+        "headers": [
+          "[u3033 | 03:49:15.210-03:49:23.490 | DM]"
+        ]
+      },
+      {
+        "from": "Ah",
+        "to": "A",
+        "count": 1,
+        "headers": [
+          "[u2205 | 02:50:27.240-02:50:30.060 | DM]"
+        ]
+      },
+      {
+        "from": "Cancer",
+        "to": "Kenzo",
+        "count": 1,
+        "headers": [
+          "[u1216 | 01:38:21.840-01:38:25.470 | Wellby]"
+        ]
+      },
+      {
+        "from": "Dallas",
+        "to": ", Delwath",
+        "count": 1,
+        "headers": [
+          "[u1389 | 01:50:46.770-01:50:48.390 | Delwath]"
+        ]
+      },
+      {
+        "from": "Dealt with",
+        "to": "Delwath,",
+        "count": 1,
+        "headers": [
+          "[u1702 | 02:11:45.870-02:11:55.290 | DM]"
+        ]
+      },
+      {
+        "from": "Dunbar",
+        "to": "Dunmari",
+        "count": 1,
+        "headers": [
+          "[u1167 | 01:33:55.080-01:34:10.830 | DM]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 3098,
+  "changedLineCount": 33,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0009 | 00:00:39.870-00:00:44.700 | DM]",
+      "lineNumber": 9,
+      "originalText": "Okay, so you then had approached the ruins of the outskirts of this Marty fort.",
+      "cleanedText": "Okay, so you then had approached the ruins of the outskirts of this Dunmari fort."
+    },
+    {
+      "header": "[u0025 | 00:02:12.570-00:02:17.040 | DM]",
+      "lineNumber": 25,
+      "originalText": "Well be maybe realized that they seemed like they were hobgoblin skeletons.",
+      "cleanedText": "Wellby maybe realized that they seemed like they were hobgoblin skeletons."
+    },
+    {
+      "header": "[u0035 | 00:03:06.480-00:03:14.850 | DM]",
+      "lineNumber": 35,
+      "originalText": "To have you, I forget, I think, Kenzo and down with still have the fading bits of room Nick inspiration.",
+      "cleanedText": "To have you, I forget, I think, Kenzo and Delwath still have the fading bits of runic inspiration."
+    },
+    {
+      "header": "[u0259 | 00:20:54.390-00:21:00.270 | DM]",
+      "lineNumber": 259,
+      "originalText": "Kansas fairly quiet when he cracks bones with his staff I gas.",
+      "cleanedText": "Kenzo's fairly quiet when he cracks bones with his staff, I guess."
+    },
+    {
+      "header": "[u0432 | 00:35:19.290-00:35:20.250 | Delwath]",
+      "lineNumber": 432,
+      "originalText": "Well well be.",
+      "cleanedText": "Well, Wellby."
+    },
+    {
+      "header": "[u0502 | 00:41:04.020-00:41:10.050 | DM]",
+      "lineNumber": 502,
+      "originalText": "comes flying out of the earth and grabs well be in",
+      "cleanedText": "comes flying out of the earth and grabs Wellby in"
+    },
+    {
+      "header": "[u0891 | 01:10:57.750-01:11:17.160 | DM]",
+      "lineNumber": 891,
+      "originalText": "Kind of just floating in the air, casting light around amen from the light of this, this flame. You can see the area inside looks as if a large earthquake has struck it, it's been shaken and things are cracked. Um, but it's clearly a temple TO THE FIVE SIBLINGS to the Marty pantheon.",
+      "cleanedText": "Kind of just floating in the air, casting light around and from the light of this, this flame. You can see the area inside looks as if a large earthquake has struck it, it's been shaken and things are cracked. Um, but it's clearly a temple to the Five Siblings, to the Dunmari pantheon."
+    },
+    {
+      "header": "[u0893 | 01:11:24.540-01:11:27.210 | DM]",
+      "lineNumber": 893,
+      "originalText": "To volley, the goddess of life and rebirth.",
+      "cleanedText": "Jeevali, the goddess of life and rebirth,"
+    },
+    {
+      "header": "[u0894 | 01:11:28.350-01:11:48.750 | DM]",
+      "lineNumber": 894,
+      "originalText": "home and family locker, the god of knowledge and seasons and time I gear. The God of War fire and death, and that is the the wall that has the flame burning on it Sankara the goddess of beauty truth and justice and chinodya the goddess of nature and animals.",
+      "cleanedText": "home and family; Laka, the god of knowledge and seasons and time; Aagir, the god of war, fire, and death, and that is the wall that has the flame burning on it; Sonkar, the goddess of beauty, truth, and justice; and Chidya, the goddess of nature and animals."
+    },
+    {
+      "header": "[u1154 | 01:32:46.860-01:32:56.670 | DM]",
+      "lineNumber": 1154,
+      "originalText": "Horn made out of, out of like a ram's horn, but with a silver sword is filigree design on it and the glint of the silver in the sun catches your eye.",
+      "cleanedText": "Horn made out of, out of like a ram's horn, but with a silver filigree design on it, and the glint of the silver in the sun catches your eye."
+    },
+    {
+      "header": "[u1165 | 01:33:37.020-01:33:48.270 | DM]",
+      "lineNumber": 1165,
+      "originalText": "So, I mean, Kenzo yeah dealt with doesn't know anything, this is not this is outside of your, your area but Kenza you do recognize this is",
+      "cleanedText": "So, I mean, Kenzo, yeah, Delwath doesn't know anything; this is outside of your area, but Kenzo, you do recognize this as"
+    },
+    {
+      "header": "[u1167 | 01:33:55.080-01:34:10.830 | DM]",
+      "lineNumber": 1167,
+      "originalText": "Various artifacts of the sort of various like banner ads and standards and things of the Dunbar army in particular its associated with the with the army from around the time of the of the Great War and shortly after",
+      "cleanedText": "Various artifacts, the sort of various banners and standards and things of the Dunmari army. In particular it's associated with the army from around the time of the Great War and shortly after."
+    },
+    {
+      "header": "[u1169 | 01:34:15.630-01:34:18.180 | Kenzo]",
+      "lineNumber": 1169,
+      "originalText": "Interesting. Yeah, this is it. This is done Mari",
+      "cleanedText": "Interesting. Yeah, this is it. This is Dunmari."
+    },
+    {
+      "header": "[u1216 | 01:38:21.840-01:38:25.470 | Wellby]",
+      "lineNumber": 1216,
+      "originalText": "Yep. Cancer is cancer, Denmark, yeah.",
+      "cleanedText": "Yep. Kenzo is carrying that, yeah."
+    },
+    {
+      "header": "[u1263 | 01:41:02.370-01:41:12.990 | DM]",
+      "lineNumber": 1263,
+      "originalText": "The crumbling hole in the floor slopes down in a in this fairly narrow tunnel so down with and Kenza, you have to duck your heads.",
+      "cleanedText": "The crumbling hole in the floor slopes down in this fairly narrow tunnel, so Delwath and Kenzo, you have to duck your heads."
+    },
+    {
+      "header": "[u1281 | 01:42:36.600-01:42:47.010 | Kenzo]",
+      "lineNumber": 1281,
+      "originalText": "Me. Can we all do like Perception checks to see if we can learn something about like like is this dude done Mari is the human is the you know any other kind of notable things about this dude.",
+      "cleanedText": "Me. Can we all do like Perception checks to see if we can learn something about, like, is this dude Dunmari? Is the human? Is there any other kind of notable thing about this dude?"
+    },
+    {
+      "header": "[u1389 | 01:50:46.770-01:50:48.390 | Delwath]",
+      "lineNumber": 1389,
+      "originalText": "So I'm going to Dallas sort of starts",
+      "cleanedText": "So I'm going to, Delwath sort of starts"
+    },
+    {
+      "header": "[u1473 | 01:56:44.700-01:56:46.200 | Delwath]",
+      "lineNumber": 1473,
+      "originalText": "That you look them Denmark.",
+      "cleanedText": "Do they look Dunmari?"
+    },
+    {
+      "header": "[u1520 | 01:59:48.840-01:59:59.520 | Wellby]",
+      "lineNumber": 1520,
+      "originalText": "Yeah, the chart and coin from 200 years ago 300 years ago. I mean, they haven't minted these in ages. But it's definitely a coin of chart.",
+      "cleanedText": "Yeah, a Chardon coin from 200 years ago, 300 years ago. I mean, they haven't minted these in ages. But it's definitely a coin of Chardon."
+    },
+    {
+      "header": "[u1648 | 02:07:42.420-02:08:01.080 | DM]",
+      "lineNumber": 1648,
+      "originalText": "And there's a money pit that surrounded by six, sort of like chicken sized maybe small chicken sized things that look like a cross between a check in and some sort of reptilian lizard snake thing.",
+      "cleanedText": "And there's a muddy pit surrounded by six sort of like chicken-sized, maybe small chicken-sized things that look like a cross between a chicken and some sort of reptilian lizard-snake thing."
+    },
+    {
+      "header": "[u1702 | 02:11:45.870-02:11:55.290 | DM]",
+      "lineNumber": 1702,
+      "originalText": "Dealt with they. I mean, you have heard of cockatoo races creatures that are you know are known to be able to temporarily turn things down and",
+      "cleanedText": "Delwath, they, I mean, you have heard of cockatrices, creatures that are, you know, known to be able to temporarily turn things to stone, and"
+    },
+    {
+      "header": "[u1947 | 02:33:02.970-02:33:04.650 | Delwath]",
+      "lineNumber": 1947,
+      "originalText": "I don't know aneuploidy an altar.",
+      "cleanedText": "I don't know, an obelisk? An altar?"
+    },
+    {
+      "header": "[u2205 | 02:50:27.240-02:50:30.060 | DM]",
+      "lineNumber": 2205,
+      "originalText": "Ah hobgoblin of sorts.",
+      "cleanedText": "A hobgoblin of sorts."
+    },
+    {
+      "header": "[u2206 | 02:50:31.200-02:50:34.590 | DM]",
+      "lineNumber": 2206,
+      "originalText": "Flash rotting pieces of this unit porn falling apart.",
+      "cleanedText": "Flesh rotting, pieces of its uniform falling apart."
+    },
+    {
+      "header": "[u2220 | 02:51:23.940-02:51:34.770 | DM]",
+      "lineNumber": 2220,
+      "originalText": "As it steps into the cave and it it's it's speaks in a rapidly hissing voice in archaic but understandable common",
+      "cleanedText": "As it steps into the cave and it speaks in a rapidly hissing voice in archaic but understandable Common:"
+    },
+    {
+      "header": "[u2221 | 02:51:36.090-02:51:40.110 | DM]",
+      "lineNumber": 2221,
+      "originalText": "Run puny creatures this power is my",
+      "cleanedText": "Run, puny creatures. This power is mine."
+    },
+    {
+      "header": "[u2503 | 03:11:25.620-03:11:29.700 | DM]",
+      "lineNumber": 2503,
+      "originalText": "Crystal polished glass obsidian ON THE TOP OF IT staff.",
+      "cleanedText": "Crystal, polished-glass obsidian on the top of its staff."
+    },
+    {
+      "header": "[u2544 | 03:14:07.020-03:14:13.620 | Seeker]",
+      "lineNumber": 2544,
+      "originalText": "Munich magic in viewing power in this piece of obsidian, which is acting as a magical focus",
+      "cleanedText": "Unique magic imbued in power in this piece of obsidian, which is acting as a magical focus"
+    },
+    {
+      "header": "[u2683 | 03:24:22.860-03:24:24.180 | DM]",
+      "lineNumber": 2683,
+      "originalText": "shocker and mysteries.",
+      "cleanedText": "Shakun Mystai."
+    },
+    {
+      "header": "[u2690 | 03:24:44.220-03:24:53.520 | Wellby]",
+      "lineNumber": 2690,
+      "originalText": "Well, we've seen everything there is to see down here, except the Kuchar traces closer up. So I think we should get out of here now.",
+      "cleanedText": "Well, we've seen everything there is to see down here, except the cockatrices closer up. So I think we should get out of here now."
+    },
+    {
+      "header": "[u2729 | 03:27:56.220-03:28:07.830 | Delwath]",
+      "lineNumber": 2729,
+      "originalText": "schmutz or or a relic left behind some unused magic to drive the opposing armies mad and tear each other apart.",
+      "cleanedText": "Cha'mutte, or a relic left behind, some unused magic to drive the opposing armies mad and tear each other apart."
+    },
+    {
+      "header": "[u2905 | 03:40:01.050-03:40:02.670 | Kenzo]",
+      "lineNumber": 2905,
+      "originalText": "I put the spirit point into the",
+      "cleanedText": "I put the spearpoint into the"
+    },
+    {
+      "header": "[u3033 | 03:49:15.210-03:49:23.490 | DM]",
+      "lineNumber": 3033,
+      "originalText": "Ah, it's, yeah, it seems that it as you like. If you reach out. Pick it up, it just seems like normal Soviet now.",
+      "cleanedText": "Ah, it's, yeah, it seems that as you reach out and pick it up, it just seems like normal obsidian now."
+    }
+  ]
+}
