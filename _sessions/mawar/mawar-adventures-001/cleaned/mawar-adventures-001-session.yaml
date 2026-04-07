@@ -1,0 +1,38 @@
+schemaVersion: '1.0'
+sourceType: narrative
+scope: session
+campaign: Mawar Adventures
+sessionNumber: 1
+realWorldDate: 2021-07-24
+drStart: 1747-07-23
+drEnd: 1747-07-23
+drStartTime: null
+drEndTime: null
+participants:
+- name: David Kong
+  gameRole: Ryu
+  transcriptIdentifiers: []
+- name: Mike Sackton
+  gameRole: Wazir
+  transcriptIdentifiers: []
+- name: Eric Rosenbaum
+  gameRole: Trok
+  transcriptIdentifiers: []
+- name: John Leeker
+  gameRole: Kaleho
+  transcriptIdentifiers: []
+- name: Kate Sackton
+  gameRole: Nerissa
+  transcriptIdentifiers: []
+- name: David Schwartz
+  gameRole: Ander
+  transcriptIdentifiers: []
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers: []
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-001/sources/Mawar
+  Epsiode 01.md
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-001/sources/mawar-ep01-source-prep.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-001/sources/mawar-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-001/cleaned/mawar-adventures-001-source-prepared.md
+narrativeUnit: sentence

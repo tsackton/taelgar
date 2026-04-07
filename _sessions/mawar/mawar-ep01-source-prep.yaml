@@ -1,6 +1,6 @@
-# No recording/transcript is currently available for Mawar Episode 1.
-sourcePath:
-sourceType: transcript
+sourcePath: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/Campaigns/Mawar Adventures/Episodes/Mawar Epsiode 01.md"
+sourceType: narrative
+scope: session
 outputDir: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar"
 
 campaign: Mawar Adventures
@@ -13,6 +13,5 @@ drEndTime:
 
 participantsPath: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-participants.yaml"
 
-transcriptFormat: auto
+supplementalSources: []
 narrativeUnit: sentence
-minSpeakerFraction: 0.01

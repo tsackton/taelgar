@@ -1,7 +1,7 @@
 ---
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Cleenseau
-realWorldDate: 2023-10-22
+realWorldDate: 2023-11-12
 sessionNumber: 8
 players: [Izgil, Robin, Viepuck, Celyn]
 DR: 1720-01-06
@@ -58,4 +58,3 @@ The session ends as the party finds an entrance hall infested with ghouls.
 
 >[[Viepuck]]: Do we want to make a giant crashing sound coming down the stairs?
    [[Izgil Moonseeker|Izgil]]: I don't want to, but rock's in the way!
-

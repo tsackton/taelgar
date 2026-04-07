@@ -1,0 +1,349 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-001/cleaned/mawar-adventures-001-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-001/cleaned/mawar-adventures-001-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-001/cleaned/mawar-adventures-001-beat-facts.json",
+  "session": {
+    "campaign": "Mawar Adventures",
+    "scope": "session",
+    "sessionNumber": 1,
+    "realWorldDate": "2021-07-24",
+    "drStart": "1747-07-23",
+    "drEnd": "1747-07-23"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1747-07-23",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003",
+        "beat-004"
+      ],
+      "locationRefs": [
+        "Hamri"
+      ],
+      "npcRefs": [
+        "Illius"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Illius's compass",
+        "Sentient Ocean",
+        "Ciphered Scroll",
+        "silver amulet"
+      ],
+      "combatBeatIds": [
+        "beat-002",
+        "beat-003"
+      ],
+      "sourceShortSummaries": [
+        "Hamri's harbor has been troubled by a phantom ship, disturbed glowing waters, and a day when no fish could be found anywhere along the coast.",
+        "A strange ship races into Hamri against the tide, and Ryu, Wazir, and Trok help the surviving merfolk fend off elemental attackers and bring it safely in.",
+        "Guided by Illius's compass, Ryu, Wazir, and Trok track the stolen vial to a tidal cave west of Hamri, defeat the last elemental guardians, and restore it to the merfolk.",
+        "Among the stolen treasures, Wazir claims a coded scroll and a strange silver amulet that hint at the larger plot behind the phantom ship."
+      ],
+      "sourceLongSummaries": [
+        "The summer of 1747 has been strange, with unusual events noted in the harbor: a phantom ship docking one night, a massive creature of epic proportions disturbing the normal bioluminescent glow of the harbor, and a day when no fish could be found anywhere along the coast.",
+        "On July 23rd, a ship came to port, racing against the tide, with no obvious means of propulsion. Intercepted by Wazir, the owner of the Leviathan, Trok, a tattooed lizardfolk outcast, and Ryu, a noted fisherman and deep sea diver, the ship was a vessel for a merfolk expedition sent to recover a drop of the Sentient Ocean stolen from their home. While water elementals and twisted fish-like humanoids attacked and killed most of the merfolk aboard, Turk, Ryu's shark companion, managed to help steer the merfolk ship to safety.",
+        "Soon after, Ryu, Wazir, and Trok were able to track the bottled ocean, with the aid of Illius's compass, to a tidal cave beneath the cliffs to the west of Hamri, connecting to a long-abandoned seawatch tower. After defeating the last of the water elementals, they were able to recover the drop of the Sentient Ocean and return it safely to Illius, who claimed that marids from the Elemental Plane of Water had been after the ocean for generations and believed that one finally found a way to penetrate the defenses to steal a drop.",
+        "In the chest with the vial of the Sentient Ocean was also a scroll of written notes, in some kind of code, and a silver amulet of a strange design. Wazir took the scroll to attempt to decipher its meaning, wondering if indeed the phantom ship brought someone new to town involved in the schemes of the marids of the plane of water."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Portents in Hamri",
+      "beatIds": [
+        "beat-001"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0003"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0003"
+        }
+      ],
+      "dateStart": "1747-07-23",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Hamri"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Hamri's harbor has been troubled by a phantom ship, disturbed glowing waters, and a day when no fish could be found anywhere along the coast."
+      ],
+      "sourceLongSummaries": [
+        "The summer of 1747 has been strange, with unusual events noted in the harbor: a phantom ship docking one night, a massive creature of epic proportions disturbing the normal bioluminescent glow of the harbor, and a day when no fish could be found anywhere along the coast."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "combat",
+      "title": "The Merfolk Ship to The Tidal Cave",
+      "beatIds": [
+        "beat-002",
+        "beat-003"
+      ],
+      "sourceRange": {
+        "startUid": "u0004",
+        "endUid": "u0005"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0004"
+        },
+        {
+          "startUid": "u0005",
+          "endUid": "u0005"
+        }
+      ],
+      "dateStart": "1747-07-23",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Hamri"
+      ],
+      "npcRefs": [
+        "Illius"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Illius's compass",
+        "Sentient Ocean"
+      ],
+      "combatEnemyRefs": [
+        "water elementals",
+        "twisted fish-like humanoids"
+      ],
+      "sourceShortSummaries": [
+        "A strange ship races into Hamri against the tide, and Ryu, Wazir, and Trok help the surviving merfolk fend off elemental attackers and bring it safely in.",
+        "Guided by Illius's compass, Ryu, Wazir, and Trok track the stolen vial to a tidal cave west of Hamri, defeat the last elemental guardians, and restore it to the merfolk."
+      ],
+      "sourceLongSummaries": [
+        "On July 23rd, a ship came to port, racing against the tide, with no obvious means of propulsion. Intercepted by Wazir, the owner of the Leviathan, Trok, a tattooed lizardfolk outcast, and Ryu, a noted fisherman and deep sea diver, the ship was a vessel for a merfolk expedition sent to recover a drop of the Sentient Ocean stolen from their home. While water elementals and twisted fish-like humanoids attacked and killed most of the merfolk aboard, Turk, Ryu's shark companion, managed to help steer the merfolk ship to safety.",
+        "Soon after, Ryu, Wazir, and Trok were able to track the bottled ocean, with the aid of Illius's compass, to a tidal cave beneath the cliffs to the west of Hamri, connecting to a long-abandoned seawatch tower. After defeating the last of the water elementals, they were able to recover the drop of the Sentient Ocean and return it safely to Illius, who claimed that marids from the Elemental Plane of Water had been after the ocean for generations and believed that one finally found a way to penetrate the defenses to steal a drop."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "The Coded Scroll",
+      "beatIds": [
+        "beat-004"
+      ],
+      "sourceRange": {
+        "startUid": "u0006",
+        "endUid": "u0006"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0006",
+          "endUid": "u0006"
+        }
+      ],
+      "dateStart": "1747-07-23",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Hamri"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Ciphered Scroll",
+        "silver amulet"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Among the stolen treasures, Wazir claims a coded scroll and a strange silver amulet that hint at the larger plot behind the phantom ship."
+      ],
+      "sourceLongSummaries": [
+        "In the chest with the vial of the Sentient Ocean was also a scroll of written notes, in some kind of code, and a silver amulet of a strange design. Wazir took the scroll to attempt to decipher its meaning, wondering if indeed the phantom ship brought someone new to town involved in the schemes of the marids of the plane of water."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Illius",
+        "beatIds": [
+          "beat-002",
+          "beat-003"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-002",
+        "beatIds": [
+          "beat-002",
+          "beat-003"
+        ],
+        "enemyRefs": [
+          "water elementals",
+          "twisted fish-like humanoids"
+        ],
+        "dateStart": "1747-07-23",
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Hamri",
+        "beatIds": [
+          "beat-001",
+          "beat-002",
+          "beat-003",
+          "beat-004"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Illius",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "surviving merfolk expedition member",
+          "beatIds": [
+            "beat-002",
+            "beat-003"
+          ],
+          "history": [
+            {
+              "location": "Hamri",
+              "dateStart": "1747-07-23",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Hamri",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "the harbor and waterfront, where a run of strange omens has unsettled the town",
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-003",
+            "beat-004"
+          ],
+          "visits": [
+            {
+              "dateStart": "1747-07-23",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Illius's compass",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": [
+            {
+              "location": "Hamri",
+              "dateStart": "1747-07-23",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Sentient Ocean",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": [
+            {
+              "location": "Hamri",
+              "dateStart": "1747-07-23",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Ciphered Scroll",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Hamri",
+              "dateStart": "1747-07-23",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "silver amulet",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Hamri",
+              "dateStart": "1747-07-23",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [],
+      "locations": [],
+      "organizations": [],
+      "items": []
+    }
+  }
+}

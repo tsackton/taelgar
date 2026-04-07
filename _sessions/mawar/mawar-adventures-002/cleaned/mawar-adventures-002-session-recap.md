@@ -3,7 +3,7 @@
 ## Session Header
 
 - Title: The Tragedy of Azar
-- Tagline: in which Azar's plot comes ashore
+- Tagline: in which the party confronts a warlock driven mad by gatza
 - One-Sentence Summary: The party traces Airion's tower, uncovers Azar's plan for the whispering knife, confronts him at Shark's Dock, and spends the following days containing the damage his bargain with Gazankoa has done to Hamri.
 - Campaign: Mawar Adventures
 - Session Number: 2
