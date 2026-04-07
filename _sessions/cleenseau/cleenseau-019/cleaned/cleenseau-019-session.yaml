@@ -1,0 +1,36 @@
+schemaVersion: '1.0'
+sourceType: narrative
+scope: session
+campaign: Cleenseau
+sessionNumber: 19
+realWorldDate: '2024-10-13'
+drStart: '1720-02-21'
+drEnd: '1720-02-21'
+drStartTime: null
+drEndTime: null
+participants:
+- name: Dan Walters
+  gameRole: Robin
+  transcriptIdentifiers: []
+- name: Chris Kelly
+  gameRole: Viepuck
+  transcriptIdentifiers: []
+- name: Kiya Nicoll
+  gameRole: Celyn
+  transcriptIdentifiers: []
+- name: Matt Rand
+  gameRole: Izgil
+  transcriptIdentifiers: []
+- name: Mike Sackton
+  gameRole: DM
+  transcriptIdentifiers: []
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-019/sources/Cleenseau
+  - Session 19.md
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-019/sources/cleenseau-session019.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-019/sources/cleenseau-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-019/cleaned/cleenseau-019-source-prepared.md
+supplementalSources:
+- original: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/to-process/cleenseau-blog/cleenseau-blog-790141.md
+  sourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/to-process/cleenseau-blog/cleenseau-blog-790141.md
+  archivedPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-019/sources/supplemental/01-cleenseau-blog-790141.md
+narrativeUnit: sentence
