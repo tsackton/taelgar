@@ -1,0 +1,663 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 8,
+    "realWorldDate": "2020-09-03",
+    "drStart": "1748-04-12",
+    "drEnd": "1748-04-12"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b01"
+      ],
+      "locationRefs": [
+        "Mountain pass south of Raven's Hold"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Riswynn's map of the Dwarven Outpost"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "At the mountain pass south of Raven's Hold, the party reviews what the centaurs told them and argues over whether to try the front approach, the water route, or a hidden back entrance."
+      ],
+      "sourceLongSummaries": [
+        "The party stands at the foot of the mountains discussing the poisoned water, the corruption spreading from Raven's Hold, and the uncertain link between the stronghold and the otherworldly threat described by Tharandros. Drawing on Riswynn's maps and their memory of the dwarven layout, they gradually settle on searching for a concealed route through the mountains rather than braving the cursed open approach."
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b02",
+        "b03",
+        "b04"
+      ],
+      "locationRefs": [
+        "Gorge entrance west of Raven's Hold",
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Taster"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Dwarven marker stones",
+        "Entrance chain mechanism",
+        "Concealed hatch and ladder",
+        "Illusionary rubble"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Following Riswynn's map and Seeker's searches, the party finds numbered dwarven marker stones, reaches the gorge entrance, and decides the stream water is safe enough to enter.",
+        "The party leaves the horses behind, wades into the tunnel, and solves the flooded entrance by pulling a hidden chain that drops a metal plate and drains the water away.",
+        "Beyond the drained tunnel, the party explores a dwarven escape passage, opens a concealed hatch and ladder, ignores a suspicious lever, and passes through an illusion of rubble to reach a hidden wall."
+      ],
+      "sourceLongSummaries": [
+        "The party leaves the road and works eastward through rough ground until Seeker and Wellby identify displaced volcanic stones carved with descending dwarven numbers. The markers lead them up a stream valley to a gorge inscribed with an invitation to enter; after cautious testing, including forcing Taster the rabbit to drink, they conclude the visible water is not immediately tainted and commit to the hidden route.",
+        "Pressing into the gorge, the party advances through an increasingly tight watercourse until the horses and most supplies can go no farther. In the fully flooded tunnel Delwath scouts ahead, Riswynn works the submerged chain loose, and the group discovers the dwarven entrance was designed to redirect the water through a floor grate once the hidden mechanism is triggered.",
+        "With the entrance cleared, the party moves through the old guard passage and tries to understand the purpose of an escape room with stairs, a hatch, and a visible lever that looks more like a trap than a welcome. They eventually discover the concealed ladder, continue deeper through the dwarf-sized corridor, identify a false pile of rubble as a lingering illusion, and locate the hidden stone knob that opens the next secret door."
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b05",
+        "b06",
+        "b07",
+        "b08"
+      ],
+      "locationRefs": [
+        "Outer cavern of the Dwarven Outpost",
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Inakara"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [
+        "b06",
+        "b07",
+        "b08"
+      ],
+      "sourceShortSummaries": [
+        "The hidden door opens into an occupied cavern where Inakara and her people confront the party, then agree to let them pass if they kill a dangerous creature for her.",
+        "Led into the old trading hall, the party is ambushed by a roper whose first tentacle snatches Wellby and forces the group to improvise under pressure.",
+        "As the fight drags on, the party endures repeated grapples and misses but gradually realizes the roper can barely move beyond the reach of its tentacles.",
+        "Once they establish the safe radius, the party methodically kites the roper to death, and Inakara promptly points them toward the passage leading farther into the outpost."
+      ],
+      "sourceLongSummaries": [
+        "The secret door reveals a large, filthy grotto whose pools and walkways are now inhabited by pale, bruised-looking cavern dwellers. Their leader, Inakara, reacts with alarm when the party appears from the hidden side, questions them in broken Dwarven, and finally steers the conversation toward a bargain: if the newcomers can kill the monster troubling her domain, she will show them the way onward.",
+        "Inakara leads the party across the cavern and shoves them toward the former trading hall, where a torchlit approach reveals strange carved stone forms and deep shadow before the real threat shows itself. The roper lashes out from the darkness, grabs Wellby, and opens the fight with a punishing close-range ambush that forces the party to test attacks against its stony hide while trying to free their companion.",
+        "The middle of the battle is a messy cycle of tentacles, failed escapes, and uncertain positioning as the party struggles to hurt the creature efficiently. Through experimentation, Kenzo's soul sight, and hard-won observation, they learn that the roper lacks useful vulnerabilities and moves only slowly, turning the problem from a desperate melee into a question of reach, line of sight, and surviving its grasp long enough to reset the field.",
+        "With the creature's effective range finally understood, the party spreads out and turns the fight into a slow execution of arrows, cantrips, and opportunistic strikes while staying beyond the tentacles. The roper eventually cracks apart under the sustained barrage, Inakara and her people cheer from the sidelines, and she immediately redirects the party toward the darkness beyond the cavern where their route toward Raven's Hold continues."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Debating the Mountain Route",
+      "beatIds": [
+        "b01"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0449"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0449"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Mountain pass south of Raven's Hold"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Riswynn's map of the Dwarven Outpost"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "At the mountain pass south of Raven's Hold, the party reviews what the centaurs told them and argues over whether to try the front approach, the water route, or a hidden back entrance."
+      ],
+      "sourceLongSummaries": [
+        "The party stands at the foot of the mountains discussing the poisoned water, the corruption spreading from Raven's Hold, and the uncertain link between the stronghold and the otherworldly threat described by Tharandros. Drawing on Riswynn's maps and their memory of the dwarven layout, they gradually settle on searching for a concealed route through the mountains rather than braving the cursed open approach."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Rune Stones and Gorge",
+      "beatIds": [
+        "b02"
+      ],
+      "sourceRange": {
+        "startUid": "u0450",
+        "endUid": "u0584"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0450",
+          "endUid": "u0584"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Gorge entrance west of Raven's Hold"
+      ],
+      "npcRefs": [
+        "Taster"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Dwarven marker stones"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Following Riswynn's map and Seeker's searches, the party finds numbered dwarven marker stones, reaches the gorge entrance, and decides the stream water is safe enough to enter."
+      ],
+      "sourceLongSummaries": [
+        "The party leaves the road and works eastward through rough ground until Seeker and Wellby identify displaced volcanic stones carved with descending dwarven numbers. The markers lead them up a stream valley to a gorge inscribed with an invitation to enter; after cautious testing, including forcing Taster the rabbit to drink, they conclude the visible water is not immediately tainted and commit to the hidden route."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Flooded Tunnel Entrance",
+      "beatIds": [
+        "b03"
+      ],
+      "sourceRange": {
+        "startUid": "u0585",
+        "endUid": "u1076"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0585",
+          "endUid": "u1076"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Entrance chain mechanism"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party leaves the horses behind, wades into the tunnel, and solves the flooded entrance by pulling a hidden chain that drops a metal plate and drains the water away."
+      ],
+      "sourceLongSummaries": [
+        "Pressing into the gorge, the party advances through an increasingly tight watercourse until the horses and most supplies can go no farther. In the fully flooded tunnel Delwath scouts ahead, Riswynn works the submerged chain loose, and the group discovers the dwarven entrance was designed to redirect the water through a floor grate once the hidden mechanism is triggered."
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Escape Hatch and False Rubble",
+      "beatIds": [
+        "b04"
+      ],
+      "sourceRange": {
+        "startUid": "u1077",
+        "endUid": "u1365"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1077",
+          "endUid": "u1365"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Concealed hatch and ladder",
+        "Illusionary rubble"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Beyond the drained tunnel, the party explores a dwarven escape passage, opens a concealed hatch and ladder, ignores a suspicious lever, and passes through an illusion of rubble to reach a hidden wall."
+      ],
+      "sourceLongSummaries": [
+        "With the entrance cleared, the party moves through the old guard passage and tries to understand the purpose of an escape room with stairs, a hatch, and a visible lever that looks more like a trap than a welcome. They eventually discover the concealed ladder, continue deeper through the dwarf-sized corridor, identify a false pile of rubble as a lingering illusion, and locate the hidden stone knob that opens the next secret door."
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "Inakara's Bargain",
+      "beatIds": [
+        "b05"
+      ],
+      "sourceRange": {
+        "startUid": "u1366",
+        "endUid": "u1741"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1366",
+          "endUid": "u1741"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Outer cavern of the Dwarven Outpost"
+      ],
+      "npcRefs": [
+        "Inakara"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The hidden door opens into an occupied cavern where Inakara and her people confront the party, then agree to let them pass if they kill a dangerous creature for her."
+      ],
+      "sourceLongSummaries": [
+        "The secret door reveals a large, filthy grotto whose pools and walkways are now inhabited by pale, bruised-looking cavern dwellers. Their leader, Inakara, reacts with alarm when the party appears from the hidden side, questions them in broken Dwarven, and finally steers the conversation toward a bargain: if the newcomers can kill the monster troubling her domain, she will show them the way onward."
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "combat",
+      "title": "The Roper Strikes to Wearing the Roper Down",
+      "beatIds": [
+        "b06",
+        "b07",
+        "b08"
+      ],
+      "sourceRange": {
+        "startUid": "u1742",
+        "endUid": "u2907"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1742",
+          "endUid": "u2130"
+        },
+        {
+          "startUid": "u2131",
+          "endUid": "u2500"
+        },
+        {
+          "startUid": "u2501",
+          "endUid": "u2907"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Inakara"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [
+        "Roper"
+      ],
+      "sourceShortSummaries": [
+        "Led into the old trading hall, the party is ambushed by a roper whose first tentacle snatches Wellby and forces the group to improvise under pressure.",
+        "As the fight drags on, the party endures repeated grapples and misses but gradually realizes the roper can barely move beyond the reach of its tentacles.",
+        "Once they establish the safe radius, the party methodically kites the roper to death, and Inakara promptly points them toward the passage leading farther into the outpost."
+      ],
+      "sourceLongSummaries": [
+        "Inakara leads the party across the cavern and shoves them toward the former trading hall, where a torchlit approach reveals strange carved stone forms and deep shadow before the real threat shows itself. The roper lashes out from the darkness, grabs Wellby, and opens the fight with a punishing close-range ambush that forces the party to test attacks against its stony hide while trying to free their companion.",
+        "The middle of the battle is a messy cycle of tentacles, failed escapes, and uncertain positioning as the party struggles to hurt the creature efficiently. Through experimentation, Kenzo's soul sight, and hard-won observation, they learn that the roper lacks useful vulnerabilities and moves only slowly, turning the problem from a desperate melee into a question of reach, line of sight, and surviving its grasp long enough to reset the field.",
+        "With the creature's effective range finally understood, the party spreads out and turns the fight into a slow execution of arrows, cantrips, and opportunistic strikes while staying beyond the tentacles. The roper eventually cracks apart under the sustained barrage, Inakara and her people cheer from the sidelines, and she immediately redirects the party toward the darkness beyond the cavern where their route toward Raven's Hold continues."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Taster",
+        "beatIds": [
+          "b02"
+        ],
+        "relationKinds": [
+          "companion"
+        ]
+      },
+      {
+        "name": "Inakara",
+        "beatIds": [
+          "b05",
+          "b08"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-006",
+        "beatIds": [
+          "b06",
+          "b07",
+          "b08"
+        ],
+        "enemyRefs": [
+          "Roper"
+        ],
+        "dateStart": "1748-04-12",
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Mountain pass south of Raven's Hold",
+        "beatIds": [
+          "b01"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Gorge entrance west of Raven's Hold",
+        "beatIds": [
+          "b02"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Raven's Hold",
+        "beatIds": [
+          "b03",
+          "b04",
+          "b06",
+          "b07",
+          "b08"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Outer cavern of the Dwarven Outpost",
+        "beatIds": [
+          "b05"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Taster",
+          "relationKinds": [
+            "companion"
+          ],
+          "contextHint": "rabbit water tester",
+          "beatIds": [
+            "b02"
+          ],
+          "history": [
+            {
+              "location": "Gorge entrance west of Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Inakara",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "self-proclaimed ruler of the cavern",
+          "beatIds": [
+            "b05",
+            "b08"
+          ],
+          "history": [
+            {
+              "location": "Outer cavern of the Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Mountain pass south of Raven's Hold",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Roadside approach at the foot of the mountains where the party debates how to enter the outpost.",
+          "beatIds": [
+            "b01"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Gorge entrance west of Raven's Hold",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Hidden approach marked by dwarven guide stones and a stream cutting into the mountain.",
+          "beatIds": [
+            "b02"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Raven's Hold",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Water-filled western access passage beneath the gorge.",
+          "beatIds": [
+            "b03",
+            "b04",
+            "b06",
+            "b07",
+            "b08"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Outer cavern of the Dwarven Outpost",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Occupied grotto with pools, walkways, refuse, and Inakara's living area.",
+          "beatIds": [
+            "b05"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Riswynn's map of the Dwarven Outpost",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b01"
+          ],
+          "history": [
+            {
+              "location": "Mountain pass south of Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Dwarven marker stones",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b02"
+          ],
+          "history": [
+            {
+              "location": "Gorge entrance west of Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Entrance chain mechanism",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b03"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Concealed hatch and ladder",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b04"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Illusionary rubble",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b04"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Tharandros",
+          "contextHint": "centaur leader"
+        },
+        {
+          "name": "Candrosa",
+          "contextHint": "Karawa priestess"
+        }
+      ],
+      "locations": [],
+      "organizations": [],
+      "items": []
+    }
+  }
+}

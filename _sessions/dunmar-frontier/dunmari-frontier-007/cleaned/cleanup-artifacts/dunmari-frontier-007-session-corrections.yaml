@@ -1,0 +1,331 @@
+allReplacements:
+- from: ravens hold
+  to: Raven ' s Hold
+  count: 4
+  headers:
+  - '[u0072 | 00:06:55.650-00:07:02.940 | Wellby]'
+  - '[u0542 | 00:43:52.770-00:43:55.950 | DM]'
+  - '[u0825 | 01:03:53.820-01:04:01.170 | Wellby]'
+  - '[u0903 | 01:10:14.790-01:10:26.940 | DM]'
+- from: Kerala
+  to: Karawa
+  count: 3
+  headers:
+  - '[u0825 | 01:03:53.820-01:04:01.170 | Wellby]'
+  - '[u0899 | 01:09:42.630-01:09:47.340 | DM]'
+  - '[u2970 | 03:49:18.330-03:49:19.230 | DM]'
+- from: done Mari
+  to: Dunmari
+  count: 3
+  headers:
+  - '[u0791 | 01:00:41.430-01:00:43.170 | DM]'
+  - '[u2586 | 03:17:34.290-03:17:41.730 | Kenzo]'
+  - '[u2665 | 03:24:11.760-03:24:17.340 | Kenzo]'
+- from: Carla
+  to: Candrosa
+  count: 2
+  headers:
+  - '[u2840 | 03:37:52.800-03:37:53.340 | Delwath]'
+  - '[u2841 | 03:37:56.940-03:37:57.810 | DM]'
+- from: center
+  to: centaur
+  count: 2
+  headers:
+  - '[u2467 | 03:07:30.210-03:07:35.070 | DM]'
+  - '[u2586 | 03:17:34.290-03:17:41.730 | Kenzo]'
+- from: ', South Carolina'
+  to: south to Karawa
+  count: 1
+  headers:
+  - '[u0238 | 00:20:44.610-00:20:53.220 | Delwath]'
+- from: . And
+  to: ', and'
+  count: 1
+  headers:
+  - '[u2442 | 03:05:38.760-03:05:46.230 | Kenzo]'
+- from: Carol was
+  to: Karawa is
+  count: 1
+  headers:
+  - '[u2860 | 03:39:20.850-03:39:27.720 | Delwath]'
+- from: Centaurs
+  to: centaurs are
+  count: 1
+  headers:
+  - '[u2442 | 03:05:38.760-03:05:46.230 | Kenzo]'
+- from: Darren Dros
+  to: Tharandros
+  count: 1
+  headers:
+  - '[u2960 | 03:47:59.250-03:48:01.560 | DM]'
+- from: Denmark
+  to: Dunmari
+  count: 1
+  headers:
+  - '[u2935 | 03:45:36.900-03:45:40.230 | Wellby]'
+- from: Dunbar, I
+  to: Dunmari
+  count: 1
+  headers:
+  - '[u2871 | 03:40:38.910-03:40:41.100 | DM]'
+- from: FE
+  to: Fey
+  count: 1
+  headers:
+  - '[u2464 | 03:07:20.730-03:07:23.160 | DM]'
+- from: Kenza
+  to: Kenzo
+  count: 1
+  headers:
+  - '[u0009 | 00:01:43.800-00:01:54.000 | DM]'
+- from: Knowles
+  to: gnolls
+  count: 1
+  headers:
+  - '[u0260 | 00:22:41.610-00:22:44.190 | Seeker]'
+- from: Sabbath
+  to: south
+  count: 1
+  headers:
+  - '[u0006 | 00:01:13.680-00:01:22.080 | DM]'
+- from: The
+  to: That
+  count: 1
+  headers:
+  - '[u0974 | 01:17:15.330-01:17:18.330 | DM]'
+- from: Venus
+  to: I mean
+  count: 1
+  headers:
+  - '[u2442 | 03:05:38.760-03:05:46.230 | Kenzo]'
+- from: Your
+  to: You
+  count: 1
+  headers:
+  - '[u2467 | 03:07:30.210-03:07:35.070 | DM]'
+- from: agreement world
+  to: the Dreamworld
+  count: 1
+  headers:
+  - '[u2938 | 03:45:48.240-03:45:52.800 | Wellby]'
+- from: already
+  to: heard of
+  count: 1
+  headers:
+  - '[u2442 | 03:05:38.760-03:05:46.230 | Kenzo]'
+- from: and Cara
+  to: in Karawa
+  count: 1
+  headers:
+  - '[u2913 | 03:43:52.110-03:43:57.300 | Delwath]'
+- from: and carwash
+  to: in Karawa
+  count: 1
+  headers:
+  - '[u0949 | 01:15:06.090-01:15:16.470 | Kenzo]'
+- from: and done more
+  to: in Dunmar
+  count: 1
+  headers:
+  - '[u2442 | 03:05:38.760-03:05:46.230 | Kenzo]'
+- from: asked
+  to: ask
+  count: 1
+  headers:
+  - '[u2860 | 03:39:20.850-03:39:27.720 | Delwath]'
+- from: does centers
+  to: do centaurs
+  count: 1
+  headers:
+  - '[u2933 | 03:45:27.690-03:45:31.110 | Wellby]'
+- from: done
+  to: Dunmar
+  count: 1
+  headers:
+  - '[u0006 | 00:01:13.680-00:01:22.080 | DM]'
+- from: enroll 20
+  to: in Roll20
+  count: 1
+  headers:
+  - '[u0903 | 01:10:14.790-01:10:26.940 | DM]'
+- from: festival rebirth
+  to: Festival of Rebirth
+  count: 1
+  headers:
+  - '[u0006 | 00:01:13.680-00:01:22.080 | DM]'
+- from: four to five
+  to: for a time
+  count: 1
+  headers:
+  - '[u0949 | 01:15:06.090-01:15:16.470 | Kenzo]'
+- from: hold
+  to: ''' s Hold'
+  count: 1
+  headers:
+  - '[u2378 | 03:01:02.370-03:01:06.750 | Delwath]'
+- from: kinds of kind of
+  to: Kenzo
+  count: 1
+  headers:
+  - '[u2586 | 03:17:34.290-03:17:41.730 | Kenzo]'
+- from: mall
+  to: maw
+  count: 1
+  headers:
+  - '[u0072 | 00:06:55.650-00:07:02.940 | Wellby]'
+- from: malls
+  to: maws
+  count: 1
+  headers:
+  - '[u0188 | 00:17:05.010-00:17:08.070 | Seeker]'
+- from: mistakes
+  to: mystai
+  count: 1
+  headers:
+  - '[u0949 | 01:15:06.090-01:15:16.470 | Kenzo]'
+- from: mouth
+  to: mouths
+  count: 1
+  headers:
+  - '[u0009 | 00:01:43.800-00:01:54.000 | DM]'
+- from: noles in
+  to: gnolls and
+  count: 1
+  headers:
+  - '[u0188 | 00:17:05.010-00:17:08.070 | Seeker]'
+- from: nor
+  to: gnolls
+  count: 1
+  headers:
+  - '[u0072 | 00:06:55.650-00:07:02.940 | Wellby]'
+- from: okra
+  to: Hara
+  count: 1
+  headers:
+  - '[u0958 | 01:15:55.380-01:15:56.910 | DM]'
+- from: past
+  to: pass
+  count: 1
+  headers:
+  - '[u2974 | 03:49:29.550-03:49:44.070 | DM]'
+- from: pastors
+  to: pastures
+  count: 1
+  headers:
+  - '[u2954 | 03:47:24.120-03:47:25.890 | DM]'
+- from: plane
+  to: plain
+  count: 1
+  headers:
+  - '[u2319 | 02:56:13.680-02:56:22.710 | DM]'
+- from: planes
+  to: plains
+  count: 1
+  headers:
+  - '[u2974 | 03:49:29.550-03:49:44.070 | DM]'
+- from: ravens hold
+  to: Raven ' s Hold to
+  count: 1
+  headers:
+  - '[u0826 | 01:04:02.280-01:04:10.260 | Wellby]'
+- from: ravens holds
+  to: Raven ' s Hold
+  count: 1
+  headers:
+  - '[u2974 | 03:49:29.550-03:49:44.070 | DM]'
+- from: ravens hole
+  to: Raven ' s Hold
+  count: 1
+  headers:
+  - '[u2321 | 02:56:35.490-02:56:36.900 | DM]'
+- from: renick
+  to: runic
+  count: 1
+  headers:
+  - '[u0044 | 00:04:16.650-00:04:24.420 | Seeker]'
+- from: river are
+  to: River Hara
+  count: 1
+  headers:
+  - '[u0974 | 01:17:15.330-01:17:18.330 | DM]'
+- from: sites
+  to: sides
+  count: 1
+  headers:
+  - '[u0044 | 00:04:16.650-00:04:24.420 | Seeker]'
+- from: sold
+  to: ''' s Hold'
+  count: 1
+  headers:
+  - '[u0099 | 00:09:40.200-00:09:45.240 | Delwath]'
+- from: sold his
+  to: ''' s Hold is,'
+  count: 1
+  headers:
+  - '[u2319 | 02:56:13.680-02:56:22.710 | DM]'
+- from: spirits
+  to: spears
+  count: 1
+  headers:
+  - '[u0812 | 01:02:41.070-01:02:52.440 | DM]'
+- from: t
+  to: s Hold
+  count: 1
+  headers:
+  - '[u2597 | 03:18:21.570-03:18:28.950 | Kenzo]'
+- from: than Lori
+  to: Dunmari
+  count: 1
+  headers:
+  - '[u2859 | 03:39:08.040-03:39:13.920 | Kenzo]'
+- from: to ravens hold you know anything, do you haven
+  to: Raven
+  count: 1
+  headers:
+  - '[u2597 | 03:18:21.570-03:18:28.950 | Kenzo]'
+- from: took read on
+  to: Tokra then
+  count: 1
+  headers:
+  - '[u0261 | 00:22:47.100-00:22:48.300 | Wellby]'
+- from: wall
+  to: walls
+  count: 1
+  headers:
+  - '[u2974 | 03:49:29.550-03:49:44.070 | DM]'
+repeatedReplacements:
+- from: ravens hold
+  to: Raven ' s Hold
+  count: 4
+  headers:
+  - '[u0072 | 00:06:55.650-00:07:02.940 | Wellby]'
+  - '[u0542 | 00:43:52.770-00:43:55.950 | DM]'
+  - '[u0825 | 01:03:53.820-01:04:01.170 | Wellby]'
+  - '[u0903 | 01:10:14.790-01:10:26.940 | DM]'
+- from: Kerala
+  to: Karawa
+  count: 3
+  headers:
+  - '[u0825 | 01:03:53.820-01:04:01.170 | Wellby]'
+  - '[u0899 | 01:09:42.630-01:09:47.340 | DM]'
+  - '[u2970 | 03:49:18.330-03:49:19.230 | DM]'
+- from: done Mari
+  to: Dunmari
+  count: 3
+  headers:
+  - '[u0791 | 01:00:41.430-01:00:43.170 | DM]'
+  - '[u2586 | 03:17:34.290-03:17:41.730 | Kenzo]'
+  - '[u2665 | 03:24:11.760-03:24:17.340 | Kenzo]'
+- from: Carla
+  to: Candrosa
+  count: 2
+  headers:
+  - '[u2840 | 03:37:52.800-03:37:53.340 | Delwath]'
+  - '[u2841 | 03:37:56.940-03:37:57.810 | DM]'
+- from: center
+  to: centaur
+  count: 2
+  headers:
+  - '[u2467 | 03:07:30.210-03:07:35.070 | DM]'
+  - '[u2586 | 03:17:34.290-03:17:41.730 | Kenzo]'
+unresolvedPhrases: []

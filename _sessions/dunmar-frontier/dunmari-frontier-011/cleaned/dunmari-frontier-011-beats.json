@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-session.yaml",
+  "beats": [
+    {
+      "beatId": "b01",
+      "title": "Vola's Story",
+      "startUid": "u0001",
+      "endUid": "u0479",
+      "lineCount": 479,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The session opens in the north tower with Vola recounting her captivity, Agata Dustmother, and the unfinished ritual before the party shifts from information gathering into operational planning.",
+      "dateEvidence": [
+        "The manifest starts the session on 1748-04-12.",
+        "The DM opening says the sun is setting and the group is catching its breath at dusk."
+      ]
+    },
+    {
+      "beatId": "b02",
+      "title": "Scouting Plan",
+      "startUid": "u0480",
+      "endUid": "u0679",
+      "lineCount": 200,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "After hearing about the ritual and corrupted animals, the party stops questioning Vola and settles on a stealthy scouting approach with invisibility and a short rest.",
+      "dateEvidence": [
+        "This discussion continues directly from the dusk tower scene on the same evening.",
+        "The group is still deciding whether to press on before full dark."
+      ]
+    },
+    {
+      "beatId": "b03",
+      "title": "Reconnaissance Run",
+      "startUid": "u0680",
+      "endUid": "u0979",
+      "lineCount": 300,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Kenzo and Wellby make the first covert pass through the keep grounds, discover the ruined chapel, the undead gnoll, and the goat-like demon, then return to report after less than an hour.",
+      "dateEvidence": [
+        "The scout happens after sunset once the courtyard is described as pitch black apart from the keep fires.",
+        "The party completes a short rest while the pair scout and return later the same night."
+      ]
+    },
+    {
+      "beatId": "b04",
+      "title": "Kill It Tonight",
+      "startUid": "u0980",
+      "endUid": "u1438",
+      "lineCount": 459,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Back in the tower, the party analyzes the scout report, debates whether the ritual can wait, and finally crosses the courtyard to spring an ambush on the keep.",
+      "dateEvidence": [
+        "The scene begins immediately after the night scout returns.",
+        "The approach to the keep is described as happening in full darkness with the fires as the only illumination."
+      ]
+    },
+    {
+      "beatId": "b05",
+      "title": "Ambush in the Keep",
+      "startUid": "u1439",
+      "endUid": "u1811",
+      "lineCount": 373,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The assault opens with surprise attacks on the demon and undead gnolls, then the fight turns dangerous as the demon closes in and the party struggles to hold the line.",
+      "dateEvidence": [
+        "This beat begins the moment initiative is rolled during the night ambush.",
+        "No rest or time jump intervenes before the fight escalates."
+      ]
+    },
+    {
+      "beatId": "b06",
+      "title": "Oduk Falls",
+      "startUid": "u1812",
+      "endUid": "u2084",
+      "lineCount": 273,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The second phase of the battle centers on poison, emergency healing, and the final coordinated push that destroys the demon and mops up the last undead gnoll.",
+      "dateEvidence": [
+        "The combat continues uninterrupted from the previous beat.",
+        "The demon vanishes and the last gnoll is finished off before the party begins any post-fight investigation."
+      ]
+    },
+    {
+      "beatId": "b07",
+      "title": "Searching the Ruins",
+      "startUid": "u2085",
+      "endUid": "u2449",
+      "lineCount": 365,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "With the demon down, the party searches the keep, puts out the ritual fires, finds more hobgoblin papers, and decides whether the tower is safe enough for the night.",
+      "dateEvidence": [
+        "The battle has just ended and the group immediately begins searching before sleeping.",
+        "It remains full night outside, with darkness deepening as the main fire is banked."
+      ]
+    },
+    {
+      "beatId": "b08",
+      "title": "Troubled Rest",
+      "startUid": "u2450",
+      "endUid": "u2810",
+      "lineCount": 361,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party retreats to the tower, survives a night of bad dreams and incomplete recovery, and wakes at dawn to plan the next day's push against the remaining gnolls and the corrupted grounds.",
+      "dateEvidence": [
+        "The manifest ends the session on 1748-04-13.",
+        "The rest resolves overnight and the DM explicitly says the party wakes in the morning."
+      ]
+    }
+  ]
+}

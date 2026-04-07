@@ -1,0 +1,35 @@
+schemaVersion: '1.0'
+sourceType: narrative
+scope: session
+campaign: Dunmari Frontier
+sessionNumber: 96
+realWorldDate: '2024-04-14'
+drStart: '1749-05-03'
+drEnd: '1749-05-03'
+drStartTime: null
+drEndTime: null
+participants:
+- name: David Kong
+  gameRole: Kenzo
+  transcriptIdentifiers: []
+- name: David Schwartz
+  gameRole: Wellby
+  transcriptIdentifiers: []
+- name: Mike Sackton
+  gameRole: Delwath
+  transcriptIdentifiers: []
+- name: Eric Rosenbaum
+  gameRole: Seeker
+  transcriptIdentifiers: []
+- name: Kate Sackton
+  gameRole: Riswynn
+  transcriptIdentifiers: []
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers: []
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-096/sources/Session
+  96 (DuFr).md
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-096/sources/dunmar-frontier-session096.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-096/sources/dunmar-frontier-core-plus-riswynn-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-096/cleaned/dunmari-frontier-096-source-prepared.md
+narrativeUnit: sentence

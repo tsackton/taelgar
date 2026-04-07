@@ -1,0 +1,285 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-beats.json",
+  "facts": [
+    {
+      "beatId": "b01",
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party reviews what they found at the ruined fort, inspects the disturbed campsite and causeway, and surveys the surviving structures before moving closer.",
+      "longSummary": "After a brief recap of the prior fight with the mound skeletons, the party studies the ruined Dunmari fort in more detail. They examine the disturbed campsite and tracks near the causeway, note the central headquarters, temple, towers, and cistern, and cautiously approach the central building while trying to work out what has recently moved through the site.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmari Fort (Gomat)",
+        "context": "outer ruins, campsite, causeway, and the approach to the central building",
+        "notes": "The beat stays on the surface around the fort entrance."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b02",
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "An ankheg bursts from the ground near the headquarters and the party kills it after a tense ambush on Wellby.",
+      "longSummary": "While Wellby creeps toward the central building, a burrowing desert predator erupts from the earth and seizes him in its mandibles. Delwath recognizes the creature too late to warn the others, but the party rallies quickly, frees Wellby, and kills the ankheg after a sharp, close-quarters fight in the forecourt.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmari Fort (Gomat)",
+        "context": "forecourt outside the central headquarters building",
+        "notes": "The ankheg erupts from a tunnel beneath the fort yard."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "ankheg",
+            "notes": "A burrowing desert ambush predator driven unusually aggressive."
+          }
+        ],
+        "notes": "The entire ankheg fight is contained within this beat."
+      }
+    },
+    {
+      "beatId": "b03",
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "After the fight, the party explores the ruined headquarters and temple, finds Aagir's Everlight, and takes a short rest in the safer building.",
+      "longSummary": "The party searches the ankheg's feeding ground and finds a sloping hole into a cave system beneath the fort, along with signs that many beasts have passed through the area. Before descending, they inspect the intact five-sided temple, identify it as a shrine of the Five Siblings, and recover Aagir's Everlight and other salvageable religious objects while pausing to rest and regroup.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmari Fort (Gomat)",
+        "context": "the ruined headquarters and the intact temple inside the fort",
+        "notes": "The party uses the temple as a temporary safe point before returning to the surface search."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Aagir's Everlight",
+          "role": "encountered",
+          "notes": "A silver spearpoint statuette burning with continual flame on Aagir's altar."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b04",
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party searches the gate towers, finds the remains of an old Dunmari scout, and recovers a magical horn with a running-horse design.",
+      "longSummary": "Once rested, the group finishes searching the fort's towers. One is choked with rubble, but the better-preserved tower holds a long-dead scout or outrider from the Great War era, along with a magical horn marked by the Dunmari running-horse motif. With the horn and the everlight in hand, the party turns back to the cave below.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmari Fort (Gomat)",
+        "context": "the gate towers overlooking the causeway",
+        "notes": "The remains are found in the more intact tower by the entrance."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Horn of Silent Alarm (Dunmari)",
+          "role": "encountered",
+          "notes": "Recovered from the remains of a Dunmari scout or outrider in the tower."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b05",
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Descending into the caves, the party finds a petrified explorer near a heavy Chardonian coin that unfolds into a floating disk.",
+      "longSummary": "The tunnel beneath the fort opens into a first cavern where the party finds a remarkably lifelike stone figure of a recently petrified human, an arm torn away, along with broken stone remains of animals nearby. Seeker senses obsidian deeper in the complex, Delwath confirms the strange coin is magical, and when Seeker flips it, the coin transforms into a floating disk that begins following him through the caves.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmari Fort (Gomat)",
+        "context": "the first cave chamber beneath the fort, with the petrified explorer and branching tunnels",
+        "notes": "This chamber acts as the hub for the deeper passages."
+      },
+      "npcs": [
+        {
+          "name": "Arcus",
+          "role": "encountered",
+          "context": "petrified explorer",
+          "notes": "The party does not name him in the moment, but the petrified human later corresponds to Arcus."
+        }
+      ],
+      "items": [
+        {
+          "name": "Floating Disc Coin",
+          "role": "encountered",
+          "notes": "A heavy old coin near the petrified explorer that unfolds into a floating disk."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b06",
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party scouts a cockatrice nursery, avoids provoking it, and circles through the cistern cavern toward the deeper source of the disturbance.",
+      "longSummary": "Further in, the group finds a muddy nursery chamber where baby cockatrices peck at eggs, one another, and a lion repeatedly turning from flesh to stone and back again. Unwilling to risk the unseen parents while Seeker is depleted, they retreat, pass through the dry cistern cavern, and continue south toward the obsidian presence Seeker sensed deeper under the fort.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmari Fort (Gomat)",
+        "context": "the cave system beneath the fort, including the cockatrice nursery and the dry cistern cavern",
+        "notes": "The party moves through several connected lower chambers without leaving the fort complex."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b07",
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "In the deeper caverns, three skeletons drop from above and the party fights them off while tracing the glow of the true source farther in.",
+      "longSummary": "As the party edges into a larger cavern, Delwath freezes under a moment of pressure from the unseen source, then three skeletons descend from the ceiling and attack in the dark. The group forms up in the narrow passage, with Kenzo closing, Delwath holding the front, and Seeker trying to use the floating disk for cover while the fight reveals a faint glow farther back in the chamber.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmari Fort (Gomat)",
+        "context": "a deeper cavern beyond the cistern passage",
+        "notes": "The glow of the true source lies farther back beyond the skeleton skirmish."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "three animated skeletons",
+            "notes": "They attack first while the deeper source remains just out of sight."
+          }
+        ],
+        "notes": "This beat contains the first part of the final cavern fight, before the staff-bearer enters."
+      }
+    },
+    {
+      "beatId": "b08",
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "An undead hobgoblin carrying a black iron staff enters the fight, speaks in archaic Common, and is eventually brought down, leaving the obsidian-topped relic behind.",
+      "longSummary": "The deeper threat emerges as a rotting undead hobgoblin carrying a black iron staff capped with polished obsidian, radiating darkness and rage. It tries to drive the party away, hurls dark energy, and fuels the battle's psychological pressure, but the party focuses it down after the skeletons fall. When the creature finally crumbles, the staff and its crystal remain as the obvious source of the fort's corruption.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmari Fort (Gomat)",
+        "context": "the deepest combat chamber in the caves beneath the fort",
+        "notes": "The obsidian-topped staff is found here after the undead hobgoblin falls."
+      },
+      "npcs": [
+        {
+          "name": "undead hobgoblin staff-bearer",
+          "role": "enemy",
+          "context": "final guardian of the obsidian relic",
+          "notes": "An undead hobgoblin speaking archaic Common and wielding the black iron staff."
+        }
+      ],
+      "items": [
+        {
+          "name": "black iron staff with obsidian crystal",
+          "role": "encountered",
+          "notes": "The relic at the center of the corruption, recovered after the undead hobgoblin falls."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "undead hobgoblin staff-bearer",
+            "notes": "The obsidian-topped staff makes it the real danger of the chamber."
+          }
+        ],
+        "notes": "The skeleton skirmish has already shifted into the fight with the staff-bearing undead."
+      }
+    },
+    {
+      "beatId": "b09",
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "With the chamber secure, the party studies the black staff, recognizes it as a malign relic, and works out that the obsidian crystal has a flaw that might let them shatter it.",
+      "longSummary": "Once the undead guardian is down, the party feels the pull and menace of the staff more clearly. Kenzo senses familiar runic elements and the crystal's malevolence, Delwath links the relic to Great War magic and possibly Cha'mutte, and Seeker identifies a structural flaw in the obsidian and starts thinking through how to exploit it without carrying the corruption back to the surface.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmari Fort (Gomat)",
+        "context": "the lower relic chamber after the battle",
+        "notes": "The party stays in place to study the staff before attempting to destroy it."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "black iron staff with obsidian crystal",
+          "role": "encountered",
+          "notes": "The party studies the relic closely and identifies a flaw in the crystal."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b10",
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The party exploits the flaw in the obsidian crystal, shatters it after several painful attempts, and feels the entire fort settle into calm before camping in the temple.",
+      "longSummary": "As insects begin gathering around them, the party abandons any thought of carrying the relic away and instead attacks it where it stands. Kenzo first drives Aagir's Everlight into the flaw and cracks the crystal at personal cost, Wellby widens the fracture, and Delwath finally shatters the obsidian with a shadow-forged blade. The psychic pressure vanishes, the surrounding creatures calm, and the party decides to bring the statue and their finds back to the temple and rest there through the night.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmari Fort (Gomat)",
+        "context": "the lower relic chamber, then the temple above where the party makes camp",
+        "notes": "The beat begins at the obsidian relic and ends with the party settling in the fort temple."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Aagir's Everlight",
+          "role": "encountered",
+          "notes": "Used as the silver spearpoint that opens the flaw in the obsidian crystal."
+        },
+        {
+          "name": "black iron staff with obsidian crystal",
+          "role": "encountered",
+          "notes": "Destroyed in place when the cracked crystal is finally shattered."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

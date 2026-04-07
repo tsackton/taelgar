@@ -1,0 +1,144 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-session.yaml",
+  "beats": [
+    {
+      "beatId": "b01",
+      "title": "Fort Aftermath",
+      "startUid": "u0001",
+      "endUid": "u0420",
+      "lineCount": 420,
+      "dateStart": "1748-03-26",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The session opens with the party wrapping up their investigation at the ruined fort and deciding what to carry back before leaving the site.",
+      "dateEvidence": [
+        "The DM says the party awakens after the night in the temple.",
+        "The manifest starts the session on 1748-03-26."
+      ]
+    },
+    {
+      "beatId": "b02",
+      "title": "Return to Kerala",
+      "startUid": "u0421",
+      "endUid": "u0699",
+      "lineCount": 279,
+      "dateStart": "1748-03-26",
+      "dateEnd": "1748-03-29",
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party leaves the fort, rides west for several days, and arrives back in Kerala to report to Kesa.",
+      "dateEvidence": [
+        "The DM says it is about three or four days back to town.",
+        "The manifest ends the session on 1748-03-29.",
+        "The arrival scene states it is late afternoon when they come into town."
+      ]
+    },
+    {
+      "beatId": "b03",
+      "title": "Stories at Krom's",
+      "startUid": "u0700",
+      "endUid": "u0979",
+      "lineCount": 280,
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "After reporting in, the group settles at the inn, questions Krom about Arcas and recent travelers, and learns more about the festival atmosphere in Kerala.",
+      "dateEvidence": [
+        "The party has just returned to town in late afternoon.",
+        "Krom serves them drinks and the DM describes a typical summer afternoon at the inn."
+      ]
+    },
+    {
+      "beatId": "b04",
+      "title": "Maps and Suspicions",
+      "startUid": "u0980",
+      "endUid": "u1355",
+      "lineCount": 376,
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The inn conversation broadens into map talk, travel routes, and growing suspicion that Arcas and the strange artifacts point to a larger threat.",
+      "dateEvidence": [
+        "This scene continues directly from the afternoon inn visit.",
+        "The group is still at Krom's before heading out to the smith."
+      ]
+    },
+    {
+      "beatId": "b05",
+      "title": "Josue's Spearheads",
+      "startUid": "u1356",
+      "endUid": "u1549",
+      "lineCount": 194,
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The group visits Josue the blacksmith, confirms Arcas's interest in Great War relics, and learns about the strange spearheads he left behind.",
+      "dateEvidence": [
+        "Josue says he is finishing up and heading for a drink in the coolness of the evening.",
+        "The party leaves the inn and starts evening errands."
+      ]
+    },
+    {
+      "beatId": "b06",
+      "title": "Halfling Camp Warning",
+      "startUid": "u1550",
+      "endUid": "u1794",
+      "lineCount": 245,
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "At the halfling camp, the party meets Bree Charmheart, discovers a caravan member hearing the same kind of voice, and realizes the danger may be spreading beyond the fort.",
+      "dateEvidence": [
+        "The party walks through the festival camps at dinnertime.",
+        "The scene ends with the DM confirming it is night."
+      ]
+    },
+    {
+      "beatId": "b07",
+      "title": "Oasis Vigil",
+      "startUid": "u1795",
+      "endUid": "u2060",
+      "lineCount": 266,
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Delwath and later Seeker keep vigil by the oasis while Kenzo drinks at the inn, and Kendrasar interrupts the night to summon the group to the temple.",
+      "dateEvidence": [
+        "The party explicitly decides who is spending the night by the oasis.",
+        "The DM says the sun sets, the moon rises, and it is around 10:30 or 11 PM."
+      ]
+    },
+    {
+      "beatId": "b08",
+      "title": "Kendrasar's Truth",
+      "startUid": "u2061",
+      "endUid": "u2485",
+      "lineCount": 425,
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "In the temple, Kendrasar tests the party with a zone of truth, reveals that Shakun's protection is failing, and asks for their help before the festival.",
+      "dateEvidence": [
+        "The scene begins immediately after the late-night summons from the oasis.",
+        "Kendrasar closes by saying it is late and they should talk more in the morning."
+      ]
+    }
+  ]
+}

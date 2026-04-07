@@ -1,0 +1,177 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-session.yaml",
+  "beats": [
+    {
+      "beatId": "b01",
+      "title": "Surveying the fort",
+      "startUid": "u0001",
+      "endUid": "u0437",
+      "lineCount": 437,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The beat covers the recap, the campsite investigation, and the outer-fort survey before the lurking creature reveals itself.",
+      "dateEvidence": [
+        "session.yaml sets the session date to 1748-03-25",
+        "the party is continuing the same fort investigation from earlier that day"
+      ]
+    },
+    {
+      "beatId": "b02",
+      "title": "Ankheg ambush",
+      "startUid": "u0438",
+      "endUid": "u0721",
+      "lineCount": 284,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The quiet reconnaissance turns into a self-contained combat with the burrowing predator and ends once it is killed.",
+      "dateEvidence": [
+        "the combat follows directly from the same fort approach",
+        "no rest or day change occurs during the fight"
+      ]
+    },
+    {
+      "beatId": "b03",
+      "title": "Temple and respite",
+      "startUid": "u0722",
+      "endUid": "u1092",
+      "lineCount": 371,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "After the ankheg fight, the party inspects the ruined headquarters and temple, finds Aagir's everlight, and takes a short rest.",
+      "dateEvidence": [
+        "the party treats the temple stop as a same-day break after combat",
+        "the discussion still refers to it as early afternoon"
+      ]
+    },
+    {
+      "beatId": "b04",
+      "title": "Towers and old horn",
+      "startUid": "u1093",
+      "endUid": "u1213",
+      "lineCount": 121,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party leaves the temple to search the towers, recovering the scout's magical horn before committing to the cave below.",
+      "dateEvidence": [
+        "the tower search follows immediately after the short rest",
+        "the group is still discussing the same afternoon's exploration"
+      ]
+    },
+    {
+      "beatId": "b05",
+      "title": "Statue and floating disk",
+      "startUid": "u1214",
+      "endUid": "u1630",
+      "lineCount": 417,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The cave descent leads to the petrified explorer, clues about recent intrusion, and the floating-disc coin, ending once the party reforms its marching order.",
+      "dateEvidence": [
+        "the tunnel descent and first cavern exploration are continuous",
+        "no meal, camp, or overnight transition interrupts the delve"
+      ]
+    },
+    {
+      "beatId": "b06",
+      "title": "Cockatrice nursery",
+      "startUid": "u1631",
+      "endUid": "u1965",
+      "lineCount": 335,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party scouts the cockatrice hatchery, debates the danger, then circles through the cistern cavern toward the deeper source instead of fighting there.",
+      "dateEvidence": [
+        "the group explicitly treats this as a brief scout before pressing on",
+        "the same descent continues without a rest or sunset break"
+      ]
+    },
+    {
+      "beatId": "b07",
+      "title": "Skeletons in the dark",
+      "startUid": "u1966",
+      "endUid": "u2201",
+      "lineCount": 236,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "A new cavern opens into an immediate skeleton fight, which ends as the deeper threat steps into view.",
+      "dateEvidence": [
+        "the party is still in the same cave expedition",
+        "the skeleton attack is an uninterrupted continuation of the same delve"
+      ]
+    },
+    {
+      "beatId": "b08",
+      "title": "The black staff",
+      "startUid": "u2202",
+      "endUid": "u2499",
+      "lineCount": 298,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The undead hobgoblin and its obsidian-topped staff take over the scene, and the beat ends once the creature falls and the staff is left behind.",
+      "dateEvidence": [
+        "the staff-bearer enters the same combat immediately after the skeletons",
+        "the encounter resolves before the party shifts into analysis and salvage"
+      ]
+    },
+    {
+      "beatId": "b09",
+      "title": "Reading the relic",
+      "startUid": "u2500",
+      "endUid": "u2804",
+      "lineCount": 305,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "With the undead destroyed, the party studies the obsidian staff, identifies the flaw in the crystal, and debates whether to move it or break it in place.",
+      "dateEvidence": [
+        "the party pauses after combat to inspect the artifact",
+        "the conversation treats the delve as still part of the same afternoon"
+      ]
+    },
+    {
+      "beatId": "b10",
+      "title": "Shattering the obsidian",
+      "startUid": "u2805",
+      "endUid": "u3098",
+      "lineCount": 294,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The group strikes the flaw, destroys the obsidian crystal, watches the fort calm, and settles on resting in the temple before the session closes out.",
+      "dateEvidence": [
+        "the party decides to camp in the temple after destroying the crystal",
+        "the wrap-up includes the fort feeling calm through the night and into the next morning"
+      ]
+    }
+  ]
+}

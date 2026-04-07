@@ -1,0 +1,1254 @@
+{
+  "summary": {
+    "changedLineCount": 177,
+    "replacementCount": 73,
+    "repeatedReplacementCount": 26,
+    "topReplacements": [
+      {
+        "from": "XP",
+        "to": "axebeak",
+        "count": 35,
+        "headers": [
+          "[u0315 | 00:31:41.280-00:31:45.240 | DM]",
+          "[u0895 | 01:17:15.300-01:17:19.650 | DM]",
+          "[u0903 | 01:18:03.900-01:18:13.920 | DM]",
+          "[u0913 | 01:18:41.700-01:18:44.310 | Kenzo]",
+          "[u0954 | 01:21:15.150-01:21:18.630 | Wellby]",
+          "[u1160 | 01:34:42.000-01:34:45.090 | Kenzo]",
+          "[u1162 | 01:34:46.530-01:34:48.090 | DM]",
+          "[u1170 | 01:35:11.850-01:35:19.830 | Seeker]",
+          "[u1338 | 01:44:51.720-01:44:57.840 | Seeker]",
+          "[u1652 | 02:07:50.400-02:07:52.170 | Wellby]",
+          "[u1698 | 02:12:20.250-02:12:25.590 | Delwath]",
+          "[u1699 | 02:12:29.760-02:12:35.310 | Kenzo]",
+          "[u1719 | 02:14:02.640-02:14:07.140 | DM]",
+          "[u1723 | 02:14:17.910-02:14:21.120 | Kenzo]",
+          "[u1731 | 02:14:44.220-02:14:56.820 | DM]",
+          "[u1741 | 02:15:23.730-02:15:30.390 | Seeker]",
+          "[u1799 | 02:18:46.980-02:18:49.260 | Kenzo]",
+          "[u1811 | 02:19:31.470-02:19:33.960 | DM]",
+          "[u1818 | 02:19:53.670-02:19:58.530 | Kenzo]",
+          "[u1822 | 02:20:16.260-02:20:16.860 | DM]",
+          "[u1827 | 02:20:25.740-02:20:28.290 | DM]",
+          "[u1830 | 02:20:38.250-02:20:48.330 | DM]",
+          "[u1833 | 02:20:56.430-02:21:05.670 | DM]",
+          "[u1852 | 02:22:13.650-02:22:19.620 | Wellby]",
+          "[u1858 | 02:22:40.560-02:22:41.430 | Wellby]",
+          "[u1868 | 02:23:30.960-02:23:39.060 | DM]",
+          "[u1935 | 02:29:44.460-02:29:50.520 | Kenzo]",
+          "[u1963 | 02:31:39.240-02:31:40.500 | Seeker]",
+          "[u1969 | 02:32:03.360-02:32:17.340 | Kenzo]",
+          "[u1971 | 02:32:20.940-02:32:24.000 | Kenzo]",
+          "[u2000 | 02:34:22.740-02:34:40.140 | DM]",
+          "[u2005 | 02:35:09.840-02:35:13.170 | Wellby]",
+          "[u2022 | 02:36:13.860-02:36:17.130 | Kenzo]",
+          "[u2029 | 02:36:56.010-02:37:04.950 | DM]",
+          "[u2809 | 03:41:57.180-03:41:59.670 | DM]"
+        ]
+      },
+      {
+        "from": "Kendra",
+        "to": "Candrosa",
+        "count": 20,
+        "headers": [
+          "[u0083 | 00:08:43.320-00:09:04.380 | DM]",
+          "[u0233 | 00:24:15.150-00:24:32.580 | DM]",
+          "[u0253 | 00:26:01.380-00:26:03.450 | Kenzo]",
+          "[u0309 | 00:30:11.250-00:30:29.760 | DM]",
+          "[u0406 | 00:39:52.110-00:39:58.320 | DM]",
+          "[u0484 | 00:45:22.920-00:45:29.700 | Kenzo]",
+          "[u2061 | 02:40:11.670-02:40:15.090 | DM]",
+          "[u2069 | 02:40:57.450-02:40:58.320 | DM]",
+          "[u2143 | 02:51:27.750-02:51:39.330 | DM]",
+          "[u2223 | 03:00:18.150-03:00:22.020 | DM]",
+          "[u2238 | 03:02:18.600-03:02:22.320 | DM]",
+          "[u2257 | 03:03:21.810-03:03:26.850 | DM]",
+          "[u2459 | 03:17:13.080-03:17:14.820 | DM]",
+          "[u2819 | 03:43:03.180-03:43:08.670 | Kenzo]",
+          "[u2857 | 03:46:03.270-03:46:15.300 | Kenzo]",
+          "[u2915 | 03:50:14.550-03:50:15.900 | DM]",
+          "[u2927 | 03:50:56.550-03:51:00.060 | DM]",
+          "[u2951 | 03:52:48.180-03:52:49.170 | Unknown]",
+          "[u3137 | 04:03:31.350-04:03:32.580 | DM]"
+        ]
+      },
+      {
+        "from": "Kesa",
+        "to": "Kisa",
+        "count": 11,
+        "headers": [
+          "[u0309 | 00:30:11.250-00:30:29.760 | DM]",
+          "[u2113 | 02:47:18.900-02:47:34.440 | DM]",
+          "[u2124 | 02:48:34.890-02:48:46.230 | DM]",
+          "[u2200 | 02:57:46.320-02:57:47.610 | DM]",
+          "[u2223 | 03:00:18.150-03:00:22.020 | DM]",
+          "[u2898 | 03:48:40.410-03:48:52.500 | Kenzo]",
+          "[u2922 | 03:50:36.030-03:50:42.000 | DM]",
+          "[u2957 | 03:53:07.500-03:53:09.720 | DM]",
+          "[u3082 | 04:00:21.270-04:00:22.320 | DM]",
+          "[u3136 | 04:03:25.800-04:03:30.780 | DM]"
+        ]
+      },
+      {
+        "from": "Denmark",
+        "to": "Dunmar",
+        "count": 9,
+        "headers": [
+          "[u0002 | 00:00:02.879-00:00:17.190 | DM]",
+          "[u0347 | 00:34:16.980-00:34:26.370 | DM]",
+          "[u0352 | 00:34:53.040-00:35:08.400 | DM]",
+          "[u0742 | 01:05:33.870-01:05:45.180 | DM]",
+          "[u2180 | 02:55:14.940-02:55:18.840 | DM]",
+          "[u2183 | 02:55:39.240-02:55:44.400 | DM]",
+          "[u2214 | 02:59:13.230-02:59:22.020 | DM]",
+          "[u2600 | 03:28:02.940-03:28:04.800 | DM]",
+          "[u2770 | 03:38:55.410-03:39:01.620 | DM]"
+        ]
+      },
+      {
+        "from": "Tokyo",
+        "to": "Tokra",
+        "count": 8,
+        "headers": [
+          "[u0389 | 00:38:35.160-00:38:36.810 | DM]",
+          "[u2191 | 02:56:24.540-02:56:38.100 | DM]",
+          "[u2373 | 03:11:03.480-03:11:04.740 | Kenzo]",
+          "[u2623 | 03:29:55.980-03:30:00.900 | Kenzo]",
+          "[u2660 | 03:31:53.580-03:31:56.010 | Kenzo]",
+          "[u2742 | 03:36:42.720-03:36:50.730 | Kenzo]",
+          "[u2764 | 03:38:00.090-03:38:03.120 | Kenzo]"
+        ]
+      },
+      {
+        "from": "Josue",
+        "to": "Jasu",
+        "count": 6,
+        "headers": [
+          "[u0308 | 00:29:58.350-00:30:10.170 | DM]",
+          "[u0310 | 00:30:30.450-00:30:48.930 | DM]",
+          "[u0988 | 01:23:28.920-01:23:30.840 | DM]",
+          "[u1030 | 01:27:02.940-01:27:13.800 | DM]",
+          "[u1194 | 01:36:21.000-01:36:23.790 | DM]",
+          "[u1674 | 02:09:48.300-02:09:58.770 | DM]"
+        ]
+      },
+      {
+        "from": "Donmar",
+        "to": "Dunmar",
+        "count": 5,
+        "headers": [
+          "[u0002 | 00:00:02.879-00:00:17.190 | DM]",
+          "[u0380 | 00:37:30.690-00:37:36.090 | DM]",
+          "[u2177 | 02:55:00.330-02:55:08.430 | Kenzo]",
+          "[u2179 | 02:55:11.700-02:55:13.290 | DM]",
+          "[u2197 | 02:57:11.820-02:57:29.700 | DM]"
+        ]
+      },
+      {
+        "from": "Kenza",
+        "to": "Kenzo",
+        "count": 5,
+        "headers": [
+          "[u0319 | 00:31:59.040-00:32:03.120 | DM]",
+          "[u0329 | 00:32:46.500-00:32:49.680 | Delwath]",
+          "[u1865 | 02:23:08.010-02:23:22.020 | Kenzo]",
+          "[u1930 | 02:29:03.660-02:29:05.400 | DM]",
+          "[u2910 | 03:49:50.730-03:49:54.060 | Seeker]"
+        ]
+      },
+      {
+        "from": "done Mari",
+        "to": "Dunmari",
+        "count": 5,
+        "headers": [
+          "[u0178 | 00:18:59.250-00:19:01.980 | DM]",
+          "[u1677 | 02:10:22.170-02:10:30.090 | DM]",
+          "[u2177 | 02:55:00.330-02:55:08.430 | Kenzo]",
+          "[u2561 | 03:24:42.390-03:24:48.510 | DM]",
+          "[u2711 | 03:35:12.540-03:35:17.070 | Kenzo]"
+        ]
+      },
+      {
+        "from": "Kansas",
+        "to": "Kenzo",
+        "count": 4,
+        "headers": [
+          "[u0322 | 00:32:16.860-00:32:19.290 | Seeker]",
+          "[u0474 | 00:44:45.330-00:44:55.530 | Kenzo]",
+          "[u1433 | 01:51:56.310-01:52:02.220 | DM]",
+          "[u2843 | 03:45:17.820-03:45:19.170 | Delwath]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 3141,
+  "changedLineCount": 177,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0002 | 00:00:02.879-00:00:17.190 | DM]",
+      "lineNumber": 2,
+      "originalText": "The transcripts work super well like the zoom cloud translation is amazingly good although it's it's really funny. I was reading through it Donmar and Denmark get transcribed is all sorts of weird things",
+      "cleanedText": "The transcripts work super well like the zoom cloud translation is amazingly good although it's it's really funny. I was reading through it Dunmar and Dunmar get transcribed is all sorts of weird things"
+    },
+    {
+      "header": "[u0006 | 00:00:36.840-00:00:40.830 | DM]",
+      "lineNumber": 6,
+      "originalText": "standing outside is can trust. Trust in his silver trimmed oka",
+      "cleanedText": "standing outside is Candrosa in his silver trimmed oka"
+    },
+    {
+      "header": "[u0083 | 00:08:43.320-00:09:04.380 | DM]",
+      "lineNumber": 83,
+      "originalText": "And as the pace of the beats increase you realize that the light flashing from this amulet is forming a hand of jade in front of you as Kendra described reaching out to you as if to take your hand or the deep gash down the palm exactly as Kendra, as described",
+      "cleanedText": "And as the pace of the beats increase you realize that the light flashing from this amulet is forming a hand of jade in front of you as Candrosa described reaching out to you as if to take your hand or the deep gash down the palm exactly as Candrosa, as described"
+    },
+    {
+      "header": "[u0094 | 00:09:57.990-00:10:05.520 | DM]",
+      "lineNumber": 94,
+      "originalText": "Contrasted described happening to him your hand just sort of passes through through the Jade and as you as your hand passes through at this",
+      "cleanedText": "Candrosa described happening to him your hand just sort of passes through through the Jade and as you as your hand passes through at this"
+    },
+    {
+      "header": "[u0127 | 00:14:09.750-00:14:11.070 | DM]",
+      "lineNumber": 127,
+      "originalText": "I can dress it looks at you.",
+      "cleanedText": "I Candrosa it looks at you."
+    },
+    {
+      "header": "[u0137 | 00:15:15.720-00:15:23.790 | DM]",
+      "lineNumber": 137,
+      "originalText": "So, as he turned in. Look at can dress a keeping this this sort of image in your mind. I'm opening your eyes.",
+      "cleanedText": "So, as he turns to look at Candrosa, keeping this sort of image in your mind and opening your eyes."
+    },
+    {
+      "header": "[u0138 | 00:15:25.260-00:15:44.610 | DM]",
+      "lineNumber": 138,
+      "originalText": "It feels like you're opening more than just one set of eyes and looking at can dress that you can see around him, the sort of faint glowing aura churning with concern and confusion as he looks to you and says, slowly.",
+      "cleanedText": "It feels like you're opening more than just one set of eyes, and looking at Candrosa you can see around him, the sort of faint glowing aura churning with concern and confusion as he looks to you and says, slowly."
+    },
+    {
+      "header": "[u0178 | 00:18:59.250-00:19:01.980 | DM]",
+      "lineNumber": 178,
+      "originalText": "Old done Mari and mystical order.",
+      "cleanedText": "Old Dunmari and mystical order."
+    },
+    {
+      "header": "[u0211 | 00:21:56.520-00:22:07.230 | Kenzo]",
+      "lineNumber": 211,
+      "originalText": "Um, Tim, what I know where to research more about these these these kind of majors like chart in some places are like a library, are there are there, kind of, you know, places where I would actually be able to study.",
+      "cleanedText": "Um, Tim, what I know where to research more about these these these kind of majors like Chardon some places are like a library, are there are there, kind of, you know, places where I would actually be able to study."
+    },
+    {
+      "header": "[u0214 | 00:22:17.430-00:22:22.920 | DM]",
+      "lineNumber": 214,
+      "originalText": "You know, you're, you're sort of experience of Charleston is one where you are kind of excluded from the",
+      "cleanedText": "You know, you're, you're sort of experience of Chardon is one where you are kind of excluded from the"
+    },
+    {
+      "header": "[u0223 | 00:23:17.520-00:23:20.400 | DM]",
+      "lineNumber": 223,
+      "originalText": "But I mean, how they lived in in Charleston. Right.",
+      "cleanedText": "But I mean, how they lived in in Chardon. Right."
+    },
+    {
+      "header": "[u0230 | 00:24:00.480-00:24:01.470 | DM]",
+      "lineNumber": 230,
+      "originalText": "The shark. Cool.",
+      "cleanedText": "The Shakun."
+    },
+    {
+      "header": "[u0231 | 00:24:02.760-00:24:06.600 | DM]",
+      "lineNumber": 231,
+      "originalText": "Mysteries. Are you know show Kuhn is the goddess of magic and prophecy",
+      "cleanedText": "Mysteries. Are you know Shakun is the goddess of magic and prophecy"
+    },
+    {
+      "header": "[u0233 | 00:24:15.150-00:24:32.580 | DM]",
+      "lineNumber": 233,
+      "originalText": "past month or two right as play quickie was saying at the end of last session when Kendra's it was talking that you know there's somehow the power of Chicago, and that had protected the borders with these illusions was gone and that cocoon was not",
+      "cleanedText": "past month or two right as play quickie was saying at the end of last session when Candrosa's it was talking that you know there's somehow the power of Shakun, and that had protected the borders with these illusions was gone and that Shakun was not"
+    },
+    {
+      "header": "[u0237 | 00:24:54.390-00:24:56.010 | DM]",
+      "lineNumber": 237,
+      "originalText": "shaku and but at the moment.",
+      "cleanedText": "Shakun but at the moment."
+    },
+    {
+      "header": "[u0253 | 00:26:01.380-00:26:03.450 | Kenzo]",
+      "lineNumber": 253,
+      "originalText": "You know, Kendra. So I thank you for",
+      "cleanedText": "You know, Candrosa. So I thank you for"
+    },
+    {
+      "header": "[u0260 | 00:26:41.460-00:26:44.700 | DM]",
+      "lineNumber": 260,
+      "originalText": "In Kerala. Right now I am",
+      "cleanedText": "In Karawa. Right now I am"
+    },
+    {
+      "header": "[u0270 | 00:27:29.130-00:27:40.590 | DM]",
+      "lineNumber": 270,
+      "originalText": "More, more can be said then of the dangers and troubles of terroir as to these greater mystery is these questions about",
+      "cleanedText": "More, more can be said then of the dangers and troubles of Karawa as to these greater mystery is these questions about"
+    },
+    {
+      "header": "[u0308 | 00:29:58.350-00:30:10.170 | DM]",
+      "lineNumber": 308,
+      "originalText": "You add you spent some time in the ruins of the for exploring a bit and then you've returned spoke to several people including Ingram and Josue the",
+      "cleanedText": "You add you spent some time in the ruins of the for exploring a bit and then you've returned spoke to several people including Ikram and Jasu the"
+    },
+    {
+      "header": "[u0309 | 00:30:11.250-00:30:29.760 | DM]",
+      "lineNumber": 309,
+      "originalText": "Smith and elder Kesa the sort of Mayor of town. And then eventually to Kendra. So who was sort of a mix of nervous and scared and concerned and uncertain, but kind of seemed just daddy himself at the end and was grateful.",
+      "cleanedText": "Smith and elder Kisa the sort of Mayor of town. And then eventually to Candrosa. So who was sort of a mix of nervous and scared and concerned and uncertain, but kind of seemed just daddy himself at the end and was grateful."
+    },
+    {
+      "header": "[u0310 | 00:30:30.450-00:30:48.930 | DM]",
+      "lineNumber": 310,
+      "originalText": "For your help. And then you return to the end, having told Josue that you are gonna come by his, his shop in the morning to look at these silver Spirit points that have been left by the statue. The now statue of Marcus.",
+      "cleanedText": "For your help. And then you return to the end, having told Jasu that you are gonna come by his, his shop in the morning to look at these silver Spirit points that have been left by the statue. the now-statue of Arcus."
+    },
+    {
+      "header": "[u0315 | 00:31:41.280-00:31:45.240 | DM]",
+      "lineNumber": 315,
+      "originalText": "XP writing, which is, you know, the one everybody's looking forward to the most",
+      "cleanedText": "axebeak writing, which is, you know, the one everybody's looking forward to the most"
+    },
+    {
+      "header": "[u0317 | 00:31:51.750-00:31:54.960 | DM]",
+      "lineNumber": 317,
+      "originalText": "At breakfast perusing the letter from kind of dress.",
+      "cleanedText": "At breakfast perusing the letter from Candrosa."
+    },
+    {
+      "header": "[u0319 | 00:31:59.040-00:32:03.120 | DM]",
+      "lineNumber": 319,
+      "originalText": "Our session. And again, Kenza was not there.",
+      "cleanedText": "Our session. And again, Kenzo was not there."
+    },
+    {
+      "header": "[u0322 | 00:32:16.860-00:32:19.290 | Seeker]",
+      "lineNumber": 322,
+      "originalText": "Wonder where Kansas. Anybody know what he's up to.",
+      "cleanedText": "Wonder where Kenzo. Anybody know what he's up to."
+    },
+    {
+      "header": "[u0329 | 00:32:46.500-00:32:49.680 | Delwath]",
+      "lineNumber": 329,
+      "originalText": "I'll just ask that person if they saw Kenza we've this morning.",
+      "cleanedText": "I'll just ask that person if they saw Kenzo we've this morning."
+    },
+    {
+      "header": "[u0338 | 00:33:35.400-00:33:37.470 | DM]",
+      "lineNumber": 338,
+      "originalText": "At sound of the letter A FEW DAYS.",
+      "cleanedText": "At sound of the letter a few days."
+    },
+    {
+      "header": "[u0343 | 00:33:55.890-00:34:00.270 | Seeker]",
+      "lineNumber": 343,
+      "originalText": "Tim, what do we know about the deity or what I know about the deity should Kuhn itself.",
+      "cleanedText": "Tim, what do we know about the deity or what I know about the deity Shakun itself."
+    },
+    {
+      "header": "[u0344 | 00:34:04.560-00:34:07.260 | DM]",
+      "lineNumber": 344,
+      "originalText": "So sure Kuhn is the goddess of",
+      "cleanedText": "So Shakun is the goddess of"
+    },
+    {
+      "header": "[u0347 | 00:34:16.980-00:34:26.370 | DM]",
+      "lineNumber": 347,
+      "originalText": "Denmark Pantheon, one of a handful of sort of Demi gods or, you know, other kind of minor gods who are not sort of part of the major",
+      "cleanedText": "Dunmar Pantheon, one of a handful of sort of Demi gods or, you know, other kind of minor gods who are not sort of part of the major"
+    },
+    {
+      "header": "[u0349 | 00:34:29.160-00:34:33.210 | DM]",
+      "lineNumber": 349,
+      "originalText": "Ceremony OF THE FIVE SIBLINGS that dominates Dunbar, a religion.",
+      "cleanedText": "Ceremony OF THE FIVE SIBLINGS that dominates Dunmari religion."
+    },
+    {
+      "header": "[u0352 | 00:34:53.040-00:35:08.400 | DM]",
+      "lineNumber": 352,
+      "originalText": "The Dunbar, a miss Diane and Denmark religions and although she is technically the goddess of magic and and prophecy. It seems like what that actually translates to is largely dreams and kind of",
+      "cleanedText": "The Dunmari miss Diane and Dunmar religions and although she is technically the goddess of magic and and prophecy. It seems like what that actually translates to is largely dreams and kind of"
+    },
+    {
+      "header": "[u0359 | 00:35:41.250-00:35:45.030 | Seeker]",
+      "lineNumber": 359,
+      "originalText": "Yeah dreams and illusion and check one is at the center of it.",
+      "cleanedText": "Yeah dreams and illusion and Shakun is at the center of it."
+    },
+    {
+      "header": "[u0360 | 00:35:45.510-00:35:56.100 | Seeker]",
+      "lineNumber": 360,
+      "originalText": "And the illusions protecting all have done more. Not just, I think I was under the impression at first that these this ring of illusion protecting something was around this oasis that we're in, but it's actually the whole country.",
+      "cleanedText": "And the illusions protecting all have Dunmar. Not just, I think I was under the impression at first that these this ring of illusion protecting something was around this oasis that we're in, but it's actually the whole country."
+    },
+    {
+      "header": "[u0366 | 00:36:17.850-00:36:25.440 | DM]",
+      "lineNumber": 366,
+      "originalText": "And really the the down here is not really part of done more like here.",
+      "cleanedText": "And really the the down here is not really part of Dunmar like here."
+    },
+    {
+      "header": "[u0379 | 00:37:20.340-00:37:29.730 | Delwath]",
+      "lineNumber": 379,
+      "originalText": "I was gonna say just looking at the map is there is like carwash mean are there. There's only there's bigger cities is tollcross sort of the main city of",
+      "cleanedText": "I was gonna say just looking at the map is there is like Karawa mean are there. There's only there's bigger cities is tollcross sort of the main city of"
+    },
+    {
+      "header": "[u0380 | 00:37:30.690-00:37:36.090 | DM]",
+      "lineNumber": 380,
+      "originalText": "Topeka is probably the biggest city so Donmar sort of divided into",
+      "cleanedText": "Tokra is probably the biggest city so Dunmar sort of divided into"
+    },
+    {
+      "header": "[u0388 | 00:38:21.960-00:38:34.380 | DM]",
+      "lineNumber": 388,
+      "originalText": "And then, you know, going towards charge and there's more cities, there's more sort of settlements off in this direction. Probably the biggest city that the sort of big city in this area.",
+      "cleanedText": "And then, you know, going towards Chardon there's more cities, there's more sort of settlements off in this direction. Probably the biggest city that the sort of big city in this area."
+    },
+    {
+      "header": "[u0389 | 00:38:35.160-00:38:36.810 | DM]",
+      "lineNumber": 389,
+      "originalText": "Of Dunbar is Tokyo that's",
+      "cleanedText": "Of Dunbar is Tokra that's"
+    },
+    {
+      "header": "[u0393 | 00:38:47.910-00:38:48.780 | Wellby]",
+      "lineNumber": 393,
+      "originalText": "Words ravens hope.",
+      "cleanedText": "Words Raven's Hold."
+    },
+    {
+      "header": "[u0401 | 00:39:18.720-00:39:23.640 | DM]",
+      "lineNumber": 401,
+      "originalText": "And hands you a brief scrub note from Ken dresser that says",
+      "cleanedText": "And hands you a brief scrub note from Candrosa that says"
+    },
+    {
+      "header": "[u0402 | 00:39:26.280-00:39:29.160 | DM]",
+      "lineNumber": 402,
+      "originalText": "Friends wine Kenzo",
+      "cleanedText": "Friends, while Kenzo"
+    },
+    {
+      "header": "[u0406 | 00:39:52.110-00:39:58.320 | DM]",
+      "lineNumber": 406,
+      "originalText": "I do not know if he wishes to be disturbed and then Kendra is the scroll and the messenger kind of bows and then heads out",
+      "cleanedText": "I do not know if he wishes to be disturbed and then Candrosa is the scroll and the messenger kind of bows and then heads out"
+    },
+    {
+      "header": "[u0420 | 00:40:46.560-00:40:49.560 | DM]",
+      "lineNumber": 420,
+      "originalText": "For a long time, that shaku in this guy went there, so",
+      "cleanedText": "For a long time, that Shakun this guy went there, so"
+    },
+    {
+      "header": "[u0429 | 00:41:24.690-00:41:32.430 | Seeker]",
+      "lineNumber": 429,
+      "originalText": "I thought, well, we I find this whole situation very interesting because of the relationship between the goddess chicken and",
+      "cleanedText": "I thought, well, we I find this whole situation very interesting because of the relationship between the goddess Shakun and"
+    },
+    {
+      "header": "[u0430 | 00:41:34.110-00:41:36.000 | Seeker]",
+      "lineNumber": 430,
+      "originalText": "The plane of dreams. The dream world.",
+      "cleanedText": "the plane of dreams, the Dreamworld."
+    },
+    {
+      "header": "[u0432 | 00:41:48.120-00:41:50.880 | Seeker]",
+      "lineNumber": 432,
+      "originalText": "The dream world. The world we're in. And maybe",
+      "cleanedText": "the Dreamworld, the world we're in. And maybe"
+    },
+    {
+      "header": "[u0474 | 00:44:45.330-00:44:55.530 | Kenzo]",
+      "lineNumber": 474,
+      "originalText": "Then, then as as you kind of get closer, you know, Kenzo Kansas or just, you know, turns around and sees you, and kind of gets up gets up out of his out of his meditation and smiles and",
+      "cleanedText": "Then, then as as you kind of get closer, you know, Kenzo Kenzo or just, you know, turns around and sees you, and kind of gets up gets up out of his out of his meditation and smiles and"
+    },
+    {
+      "header": "[u0484 | 00:45:22.920-00:45:29.700 | Kenzo]",
+      "lineNumber": 484,
+      "originalText": "I feel pretty embarrassed. I think when I, when we were with Kendra. So I think I was I was, I was pretty drunk.",
+      "cleanedText": "I feel pretty embarrassed. I think when I, when we were with Candrosa. So I think I was I was, I was pretty drunk."
+    },
+    {
+      "header": "[u0498 | 00:46:19.320-00:46:26.130 | Kenzo]",
+      "lineNumber": 498,
+      "originalText": "Been bizarre and maybe enlightening as well. Early this morning can dress.",
+      "cleanedText": "Been bizarre and maybe enlightening as well. Early this morning Candrosa."
+    },
+    {
+      "header": "[u0507 | 00:47:05.370-00:47:09.930 | Kenzo]",
+      "lineNumber": 507,
+      "originalText": "The staff, he carries, I think there's an artifact that chicken that enables",
+      "cleanedText": "The staff, he carries, I think there's an artifact that Shakun that enables"
+    },
+    {
+      "header": "[u0514 | 00:47:37.410-00:47:45.300 | Kenzo]",
+      "lineNumber": 514,
+      "originalText": "And 10 Rossa shared with me that he's been he's had strange dreams himself that have somehow involved me",
+      "cleanedText": "And Candrosa shared with me that he's been he's had strange dreams himself that have somehow involved me"
+    },
+    {
+      "header": "[u0518 | 00:48:00.330-00:48:15.240 | Kenzo]",
+      "lineNumber": 518,
+      "originalText": "Reason for being here is to try to understand more of the mystics cocoon. So of course I said yes, it was a little I, you know, frankly, I'm not much to totally trust you know strange men with staffs when they offer me to do something, but",
+      "cleanedText": "Reason for being here is to try to understand more of the mystics Shakun. So of course I said yes, it was a little I, you know, frankly, I'm not much to totally trust you know strange men with staffs when they offer me to do something, but"
+    },
+    {
+      "header": "[u0526 | 00:48:59.070-00:49:03.930 | Kenzo]",
+      "lineNumber": 526,
+      "originalText": "Who told me to seek the order of the awakens the",
+      "cleanedText": "Who told me to seek the order of the Awakened"
+    },
+    {
+      "header": "[u0542 | 00:50:07.560-00:50:13.110 | DM]",
+      "lineNumber": 542,
+      "originalText": "Since you dealt with since you got to Cairo, there's no connection to anything from your past.",
+      "cleanedText": "Since you dealt with since you got to Karawa, there's no connection to anything from your past."
+    },
+    {
+      "header": "[u0552 | 00:50:58.560-00:51:06.900 | Kenzo]",
+      "lineNumber": 552,
+      "originalText": "Congrats. Congrats. I don't, I'm not sure if he shared with a super this with you this, you mentioned that there would be a council meeting soon. He's gone to meditate and secret retreat. But he'll be back.",
+      "cleanedText": "Candrosa. I don't, I'm not sure if he shared with a super this with you this, you mentioned that there would be a council meeting soon. He's gone to meditate and secret retreat. But he'll be back."
+    },
+    {
+      "header": "[u0692 | 01:02:05.970-01:02:13.020 | Kenzo]",
+      "lineNumber": 692,
+      "originalText": "Conducive staff this artifact it it somehow enables a connection to the dream world from this world in this plane.",
+      "cleanedText": "Candrosa's staff this artifact it it somehow enables a connection to the dream world from this world in this plane."
+    },
+    {
+      "header": "[u0715 | 01:03:44.700-01:03:48.780 | Kenzo]",
+      "lineNumber": 715,
+      "originalText": "You seem worried the drug can dress a dress. He's",
+      "cleanedText": "You seem worried the drug Candrosa a dress. He's"
+    },
+    {
+      "header": "[u0718 | 01:03:59.340-01:04:02.700 | Wellby]",
+      "lineNumber": 718,
+      "originalText": "Prayed or commune with chicken and received no answer.",
+      "cleanedText": "Prayed or commune with Shakun and received no answer."
+    },
+    {
+      "header": "[u0742 | 01:05:33.870-01:05:45.180 | DM]",
+      "lineNumber": 742,
+      "originalText": "The Denmark gods are represented as as basically siblings. Right. And so, um, so, so today is really the the you know the one who the the herders and the",
+      "cleanedText": "The Dunmar gods are represented as as basically siblings. Right. And so, um, so, so today is really the the you know the one who the the herders and the"
+    },
+    {
+      "header": "[u0751 | 01:06:22.260-01:06:34.530 | DM]",
+      "lineNumber": 751,
+      "originalText": "You know, to, to keep them safe as they travel and her her worship tends to be substantially less organized and central that many of the other ones right so G Bali has this big festival",
+      "cleanedText": "You know, to, to keep them safe as they travel and her her worship tends to be substantially less organized and central that many of the other ones right so Jeevali has this big festival"
+    },
+    {
+      "header": "[u0810 | 01:11:24.180-01:11:32.520 | Wellby]",
+      "lineNumber": 810,
+      "originalText": "The clip reminded me of the way the animals for change. He said inside Raven salty heard someone chanting he heard someone's voice someone testing.",
+      "cleanedText": "The clip reminded me of the way the animals for change. He said inside Raven's Hold heard someone chanting he heard someone's voice someone testing."
+    },
+    {
+      "header": "[u0818 | 01:12:05.460-01:12:10.020 | Kenzo]",
+      "lineNumber": 818,
+      "originalText": "cocoon here. It feels like all of this is a connected somehow",
+      "cleanedText": "Shakun here. It feels like all of this is a connected somehow"
+    },
+    {
+      "header": "[u0880 | 01:16:11.370-01:16:22.080 | DM]",
+      "lineNumber": 880,
+      "originalText": "I mean the celebration that so the festival starts with this big market that's like a regional market. Everybody comes. That's part of what the half links are here for us to sell their goods to the market.",
+      "cleanedText": "I mean the celebration that so the festival starts with this big market that's like a regional market. Everybody comes. That's part of what the halflings are here for us to sell their goods to the market."
+    },
+    {
+      "header": "[u0885 | 01:16:50.340-01:16:51.630 | Kenzo]",
+      "lineNumber": 885,
+      "originalText": "Control said he was coming back.",
+      "cleanedText": "Candrosa said he was coming back."
+    },
+    {
+      "header": "[u0895 | 01:17:15.300-01:17:19.650 | DM]",
+      "lineNumber": 895,
+      "originalText": "How you don't know exactly when the XP races are",
+      "cleanedText": "How you don't know exactly when the axebeak races are"
+    },
+    {
+      "header": "[u0903 | 01:18:03.900-01:18:13.920 | DM]",
+      "lineNumber": 903,
+      "originalText": "Don't know exactly the date of XP. You haven't actually asked anybody. When's that you just been asking people how do you when you haven't actually bothered to ask them.",
+      "cleanedText": "Don't know exactly the date of axebeak. You haven't actually asked anybody. When's that you just been asking people how do you when you haven't actually bothered to ask them."
+    },
+    {
+      "header": "[u0913 | 01:18:41.700-01:18:44.310 | Kenzo]",
+      "lineNumber": 913,
+      "originalText": "Well be I am interested in supporting you in this XP.",
+      "cleanedText": "Well be I am interested in supporting you in this axebeak."
+    },
+    {
+      "header": "[u0941 | 01:20:26.790-01:20:33.120 | Wellby]",
+      "lineNumber": 941,
+      "originalText": "So will be will check in with the happening camping at least stores particular at least once a day just to",
+      "cleanedText": "So will be will check in with the halfling camping at least stores particular at least once a day just to"
+    },
+    {
+      "header": "[u0954 | 01:21:15.150-01:21:18.630 | Wellby]",
+      "lineNumber": 954,
+      "originalText": "I definitely want to. So whenever the XP Chris come definitely",
+      "cleanedText": "I definitely want to. So whenever the axebeak Chris come definitely"
+    },
+    {
+      "header": "[u0988 | 01:23:28.920-01:23:30.840 | DM]",
+      "lineNumber": 988,
+      "originalText": "Talk to Josue about right.",
+      "cleanedText": "Talk to Jasu about right."
+    },
+    {
+      "header": "[u1030 | 01:27:02.940-01:27:13.800 | DM]",
+      "lineNumber": 1030,
+      "originalText": "And he archives, but not did not say exactly where he found them, but the implication was Josue at fault. The implication was west of here, but he didn't really know",
+      "cleanedText": "And he archives, but not did not say exactly where he found them, but the implication was Jasu at fault. The implication was west of here, but he didn't really know"
+    },
+    {
+      "header": "[u1038 | 01:27:38.430-01:27:39.450 | Kenzo]",
+      "lineNumber": 1038,
+      "originalText": "From chart in this guy.",
+      "cleanedText": "From Chardon this guy."
+    },
+    {
+      "header": "[u1142 | 01:33:48.660-01:33:51.030 | Kenzo]",
+      "lineNumber": 1142,
+      "originalText": "Might have to win some money in that XP XP grace.",
+      "cleanedText": "Might have to win some money in that axebeak axebeak grace."
+    },
+    {
+      "header": "[u1160 | 01:34:42.000-01:34:45.090 | Kenzo]",
+      "lineNumber": 1160,
+      "originalText": "Which which competition is more lucrative the I'm guessing the XP.",
+      "cleanedText": "Which which competition is more lucrative the I'm guessing the axebeak."
+    },
+    {
+      "header": "[u1162 | 01:34:46.530-01:34:48.090 | DM]",
+      "lineNumber": 1162,
+      "originalText": "At just the XP contest.",
+      "cleanedText": "At just the axebeak contest."
+    },
+    {
+      "header": "[u1170 | 01:35:11.850-01:35:19.830 | Seeker]",
+      "lineNumber": 1170,
+      "originalText": "Is there a thing where like previous years XP winners come with like an entourage and like branded year and you know like flags and",
+      "cleanedText": "Is there a thing where like previous years axebeak winners come with like an entourage and like branded year and you know like flags and"
+    },
+    {
+      "header": "[u1194 | 01:36:21.000-01:36:23.790 | DM]",
+      "lineNumber": 1194,
+      "originalText": "Is there anything. I mean, you want to talk to Josue anymore, are you",
+      "cleanedText": "Is there anything. I mean, you want to talk to Jasu anymore, are you"
+    },
+    {
+      "header": "[u1267 | 01:40:30.660-01:40:33.210 | Delwath]",
+      "lineNumber": 1267,
+      "originalText": "Marcus was like, did he do",
+      "cleanedText": "Arcus was like, did he do"
+    },
+    {
+      "header": "[u1313 | 01:43:07.980-01:43:08.940 | DM]",
+      "lineNumber": 1313,
+      "originalText": "Yeah, Marcus.",
+      "cleanedText": "Yeah, Arcus."
+    },
+    {
+      "header": "[u1338 | 01:44:51.720-01:44:57.840 | Seeker]",
+      "lineNumber": 1338,
+      "originalText": "It would be really unfortunate if all these competitors XP were to just suddenly encounter some rough terrain unexpectedly.",
+      "cleanedText": "It would be really unfortunate if all these competitors axebeak were to just suddenly encounter some rough terrain unexpectedly."
+    },
+    {
+      "header": "[u1386 | 01:48:21.390-01:48:40.170 | DM]",
+      "lineNumber": 1386,
+      "originalText": "It was left here early this morning with a short note. See this gets to the heroes of Kerala, nothing more. I'm not sure who who dropped it off, but knowing your dwarf. And this is Dorfman even though it's blank. I thought maybe you'd like it for for notes or something.",
+      "cleanedText": "It was left here early this morning with a short note. See this gets to the heroes of Karawa, nothing more. I'm not sure who who dropped it off, but knowing your dwarf. And this is Dorfman even though it's blank. I thought maybe you'd like it for for notes or something."
+    },
+    {
+      "header": "[u1433 | 01:51:56.310-01:52:02.220 | DM]",
+      "lineNumber": 1433,
+      "originalText": "Okay, and let's see Kansas gonna go find in a staff dancing competition.",
+      "cleanedText": "Okay, and let's see Kenzo gonna go find in a staff dancing competition."
+    },
+    {
+      "header": "[u1553 | 02:00:09.540-02:00:23.400 | DM]",
+      "lineNumber": 1553,
+      "originalText": "Yeah, there wasn't there wasn't incumbent, but you're, you know, you feel like the crowd is sort of swinging in your favor and especially given your status is like the hero of of terroir and sort of word has gotten around",
+      "cleanedText": "Yeah, there wasn't there wasn't incumbent, but you're, you know, you feel like the crowd is sort of swinging in your favor and especially given your status is like the hero of of Karawa and sort of word has gotten around"
+    },
+    {
+      "header": "[u1652 | 02:07:50.400-02:07:52.170 | Wellby]",
+      "lineNumber": 1652,
+      "originalText": "And we made it very nice XP kind of",
+      "cleanedText": "And we made it very nice axebeak kind of"
+    },
+    {
+      "header": "[u1674 | 02:09:48.300-02:09:58.770 | DM]",
+      "lineNumber": 1674,
+      "originalText": "You don't hear much i mean you what you hear about Arkansas is really that you know you only spend a few days in town that people to talk to you are our EQ from Alaska and Josue",
+      "cleanedText": "You don't hear much i mean you what you hear about Arcus is really that you know you only spend a few days in town that people to talk to you are our EQ from Alaska and Jasu"
+    },
+    {
+      "header": "[u1676 | 02:10:08.220-02:10:21.030 | DM]",
+      "lineNumber": 1676,
+      "originalText": "That you're talking to in the tea shop that there has been more traffic than usual in winter for Cara this past season like normally almost nobody comes out here until the festival, but",
+      "cleanedText": "That you're talking to in the tea shop that there has been more traffic than usual in winter for Karawa past season like normally almost nobody comes out here until the festival, but"
+    },
+    {
+      "header": "[u1677 | 02:10:22.170-02:10:30.090 | DM]",
+      "lineNumber": 1677,
+      "originalText": "You know, and some of them came through seem foreign like not it's not done Mari pilgrims coming to shock Kuhn, it seems like",
+      "cleanedText": "You know, and some of them came through seem foreign like not it's not Dunmari pilgrims coming to shock Kuhn, it seems like"
+    },
+    {
+      "header": "[u1680 | 02:10:41.580-02:10:56.430 | DM]",
+      "lineNumber": 1680,
+      "originalText": "You know, people speculate about about what they were doing, you know one person is convinced that the great library and chart and is trying to steal done Murray history and you know says they've been trying, you know, chart ins, but on our borders, trying to plunder.",
+      "cleanedText": "You know, people speculate about about what they were doing, you know one person is convinced that the great library and chart and is trying to steal Dunmari history and you know says they've been trying, you know, Chardons, but on our borders, trying to plunder."
+    },
+    {
+      "header": "[u1686 | 02:11:10.560-02:11:16.650 | DM]",
+      "lineNumber": 1686,
+      "originalText": "Another person tells you that the Temple of Shah Kuhn themselves has a bunch of",
+      "cleanedText": "Another person tells you that the Temple of Shakun themselves has a bunch of"
+    },
+    {
+      "header": "[u1687 | 02:11:18.450-02:11:27.870 | DM]",
+      "lineNumber": 1687,
+      "originalText": "Hidden artifacts and mysteries from the past and that may be all these people were traveling here to try and find the shaku artifacts.",
+      "cleanedText": "Hidden artifacts and mysteries from the past and that may be all these people were traveling here to try and find the Shakun artifacts."
+    },
+    {
+      "header": "[u1692 | 02:11:43.770-02:11:58.260 | DM]",
+      "lineNumber": 1692,
+      "originalText": "You know mostly it's, it's, you know, go mad or or just ruins, although a few people mentioned that they heard the name ravens hold which catches in your mind after having heard Bobby mentioned that",
+      "cleanedText": "You know mostly it's, it's, you know, go mad or or just ruins, although a few people mentioned that they heard the name Raven's Hold which catches in your mind after having heard Bobby mentioned that"
+    },
+    {
+      "header": "[u1697 | 02:12:16.320-02:12:18.300 | DM]",
+      "lineNumber": 1697,
+      "originalText": "Where you get your ravens forward from",
+      "cleanedText": "Where you get your Raven's Hold from"
+    },
+    {
+      "header": "[u1698 | 02:12:20.250-02:12:25.590 | Delwath]",
+      "lineNumber": 1698,
+      "originalText": "As an aside, I'm also going to ask if anybody has any really good XP writing tips.",
+      "cleanedText": "As an aside, I'm also going to ask if anybody has any really good axebeak writing tips."
+    },
+    {
+      "header": "[u1699 | 02:12:29.760-02:12:35.310 | Kenzo]",
+      "lineNumber": 1699,
+      "originalText": "Honestly, well be. I feel like if we tried hard. They're not even try that hard at all. You can get yourself an XP practice off.",
+      "cleanedText": "Honestly, well be. I feel like if we tried hard. They're not even try that hard at all. You can get yourself an axebeak practice off."
+    },
+    {
+      "header": "[u1719 | 02:14:02.640-02:14:07.140 | DM]",
+      "lineNumber": 1719,
+      "originalText": "Nobody can actually write an XP. You just hang on, until you fall on your but",
+      "cleanedText": "Nobody can actually write an axebeak. You just hang on, until you fall on your but"
+    },
+    {
+      "header": "[u1723 | 02:14:17.910-02:14:21.120 | Kenzo]",
+      "lineNumber": 1723,
+      "originalText": "Okay, I think I made during this XP competition to you.",
+      "cleanedText": "Okay, I think I made during this axebeak competition to you."
+    },
+    {
+      "header": "[u1731 | 02:14:44.220-02:14:56.820 | DM]",
+      "lineNumber": 1731,
+      "originalText": "It's pretty chaotic. Basically, there's an XP running around somebody has a leash and it has like a lead somebody holds it down you jump on they let go. And then they count how long you stay off.",
+      "cleanedText": "It's pretty chaotic. Basically, there's an axebeak running around somebody has a leash and it has like a lead somebody holds it down you jump on they let go. And then they count how long you stay off."
+    },
+    {
+      "header": "[u1741 | 02:15:23.730-02:15:30.390 | Seeker]",
+      "lineNumber": 1741,
+      "originalText": "Suddenly possessed with the idea that they might have a little inspirational chat with the asked XP itself.",
+      "cleanedText": "Suddenly possessed with the idea that they might have a little inspirational chat with the asked axebeak itself."
+    },
+    {
+      "header": "[u1775 | 02:17:31.230-02:17:33.300 | DM]",
+      "lineNumber": 1775,
+      "originalText": "The festival of G volley will be",
+      "cleanedText": "The festival of Jeevali will be"
+    },
+    {
+      "header": "[u1778 | 02:17:38.700-02:17:45.000 | DM]",
+      "lineNumber": 1778,
+      "originalText": "There will be a bad omen at the festival, it will be, you know, let's hope that G volley shows us the sign of favor and that we haven't",
+      "cleanedText": "There will be a bad omen at the festival, it will be, you know, let's hope that Jeevali shows us the sign of favor and that we haven't"
+    },
+    {
+      "header": "[u1799 | 02:18:46.980-02:18:49.260 | Kenzo]",
+      "lineNumber": 1799,
+      "originalText": "While the, I think I'm going to join you in this XP competition.",
+      "cleanedText": "While the, I think I'm going to join you in this axebeak competition."
+    },
+    {
+      "header": "[u1811 | 02:19:31.470-02:19:33.960 | DM]",
+      "lineNumber": 1811,
+      "originalText": "The day of the XP competition arrives.",
+      "cleanedText": "The day of the axebeak competition arrives."
+    },
+    {
+      "header": "[u1818 | 02:19:53.670-02:19:58.530 | Kenzo]",
+      "lineNumber": 1818,
+      "originalText": "So are we able to be like, Is it random how we get the XP or like how's how's this for",
+      "cleanedText": "So are we able to be like, Is it random how we get the axebeak or like how's how's this for"
+    },
+    {
+      "header": "[u1822 | 02:20:16.260-02:20:16.860 | DM]",
+      "lineNumber": 1822,
+      "originalText": "The XP.",
+      "cleanedText": "The axebeak."
+    },
+    {
+      "header": "[u1827 | 02:20:25.740-02:20:28.290 | DM]",
+      "lineNumber": 1827,
+      "originalText": "And there's a pen of like 12 of these XP.",
+      "cleanedText": "And there's a pen of like 12 of these axebeak."
+    },
+    {
+      "header": "[u1830 | 02:20:38.250-02:20:48.330 | DM]",
+      "lineNumber": 1830,
+      "originalText": "And they're sort of milling about. And you can see that there's a track that's been set up in a flat area in the desert. And the way it works is that there's a handler who grabs from XP at random from this pen.",
+      "cleanedText": "And they're sort of milling about. And you can see that there's a track that's been set up in a flat area in the desert. And the way it works is that there's a handler who grabs from axebeak at random from this pen."
+    },
+    {
+      "header": "[u1833 | 02:20:56.430-02:21:05.670 | DM]",
+      "lineNumber": 1833,
+      "originalText": "And it's up to you to control the direction that the XP goes and stay on as long as you can and your distance as marked as",
+      "cleanedText": "And it's up to you to control the direction that the axebeak goes and stay on as long as you can and your distance as marked as"
+    },
+    {
+      "header": "[u1852 | 02:22:13.650-02:22:19.620 | Wellby]",
+      "lineNumber": 1852,
+      "originalText": "Just a long time I quit next to the panel climb up on to the side of it, study the XP.",
+      "cleanedText": "Just a long time I quit next to the panel climb up on to the side of it, study the axebeak."
+    },
+    {
+      "header": "[u1858 | 02:22:40.560-02:22:41.430 | Wellby]",
+      "lineNumber": 1858,
+      "originalText": "Yeah, than the XP.",
+      "cleanedText": "Yeah, than the axebeak."
+    },
+    {
+      "header": "[u1865 | 02:23:08.010-02:23:22.020 | Kenzo]",
+      "lineNumber": 1865,
+      "originalText": "I, I kind of get near the pen, but near sort of in between the pen and whenever the race is going to happen like slightly off to the side and I just I just sit down and start getting into meditative focus that you see Kenza just like kind of sit down and just start getting in the zone.",
+      "cleanedText": "I, I kind of get near the pen, but near sort of in between the pen and whenever the race is going to happen like slightly off to the side and I just I just sit down and start getting into meditative focus that you see Kenzo just like kind of sit down and just start getting in the zone."
+    },
+    {
+      "header": "[u1868 | 02:23:30.960-02:23:39.060 | DM]",
+      "lineNumber": 1868,
+      "originalText": "The XP cuz dragged over it's it's standing there like top towering above you. Actually, it's more than twice your height.",
+      "cleanedText": "The axebeak cuz dragged over it's it's standing there like top towering above you. Actually, it's more than twice your height."
+    },
+    {
+      "header": "[u1930 | 02:29:03.660-02:29:05.400 | DM]",
+      "lineNumber": 1930,
+      "originalText": "Okay, Kenza, what's your strategy.",
+      "cleanedText": "Okay, Kenzo, what's your strategy."
+    },
+    {
+      "header": "[u1935 | 02:29:44.460-02:29:50.520 | Kenzo]",
+      "lineNumber": 1935,
+      "originalText": "When I approach my XP I'm basically trying to just just, you know, or otherwise.",
+      "cleanedText": "When I approach my axebeak I'm basically trying to just just, you know, or otherwise."
+    },
+    {
+      "header": "[u1941 | 02:30:12.570-02:30:13.590 | DM]",
+      "lineNumber": 1941,
+      "originalText": "Let me just check one thing",
+      "cleanedText": "Let me just Shakun thing"
+    },
+    {
+      "header": "[u1963 | 02:31:39.240-02:31:40.500 | Seeker]",
+      "lineNumber": 1963,
+      "originalText": "First XP surfer.",
+      "cleanedText": "First axebeak surfer."
+    },
+    {
+      "header": "[u1969 | 02:32:03.360-02:32:17.340 | Kenzo]",
+      "lineNumber": 1969,
+      "originalText": "Yeah, that, that's good. So I'll do the standard animal handling, but as I fall. I'm going to try to either like like get a swing myself from the XP to, like, you know, use its head and then swing myself back on to it, like, as I'm falling if once I get to that point. All right.",
+      "cleanedText": "Yeah, that, that's good. So I'll do the standard animal handling, but as I fall. I'm going to try to either like like get a swing myself from the axebeak to, like, you know, use its head and then swing myself back on to it, like, as I'm falling if once I get to that point. All right."
+    },
+    {
+      "header": "[u1971 | 02:32:20.940-02:32:24.000 | Kenzo]",
+      "lineNumber": 1971,
+      "originalText": "Oh, can I do that, how far the XP gets right not have our Harper.",
+      "cleanedText": "Oh, can I do that, how far the axebeak gets right not have our Harper."
+    },
+    {
+      "header": "[u2000 | 02:34:22.740-02:34:40.140 | DM]",
+      "lineNumber": 2000,
+      "originalText": "You think you're being tricky trying to, you know, swing around its neck and launch yourself down the field to try and get another like five or 10 feet or maybe 15 feet with a role. Um, but the XP makes another sudden cut and you actually go flying five feet backwards.",
+      "cleanedText": "You think you're being tricky trying to, you know, swing around its neck and launch yourself down the field to try and get another like five or 10 feet or maybe 15 feet with a role. Um, but the axebeak makes another sudden cut and you actually go flying five feet backwards."
+    },
+    {
+      "header": "[u2005 | 02:35:09.840-02:35:13.170 | Wellby]",
+      "lineNumber": 2005,
+      "originalText": "So what kinds of everyone's cut out to be an XP writer.",
+      "cleanedText": "So what kinds of everyone's cut out to be an axebeak writer."
+    },
+    {
+      "header": "[u2022 | 02:36:13.860-02:36:17.130 | Kenzo]",
+      "lineNumber": 2022,
+      "originalText": "Now, but the competition is about the the the XP riding in the",
+      "cleanedText": "Now, but the competition is about the the the axebeak riding in the"
+    },
+    {
+      "header": "[u2026 | 02:36:33.450-02:36:39.600 | Kenzo]",
+      "lineNumber": 2026,
+      "originalText": "Kenza Kenza just kinda just laughs He's like, you know, sometimes I talk shit but sometimes I'm a monk. I don't care about the money.",
+      "cleanedText": "Kenzo Kenzo just kinda just laughs He's like, you know, sometimes I talk shit but sometimes I'm a monk. I don't care about the money."
+    },
+    {
+      "header": "[u2029 | 02:36:56.010-02:37:04.950 | DM]",
+      "lineNumber": 2029,
+      "originalText": "Horseback riding and it seems during the XP writing competition half Dr. Who is one of the scouts um has returned",
+      "cleanedText": "Horseback riding and it seems during the axebeak writing competition half Dr. Who is one of the scouts um has returned"
+    },
+    {
+      "header": "[u2061 | 02:40:11.670-02:40:15.090 | DM]",
+      "lineNumber": 2061,
+      "originalText": "I cannot stay long. I must go speak with Kendra's briefly but",
+      "cleanedText": "I cannot stay long. I must go speak with Candrosa's briefly but"
+    },
+    {
+      "header": "[u2069 | 02:40:57.450-02:40:58.320 | DM]",
+      "lineNumber": 2069,
+      "originalText": "From Kendra is",
+      "cleanedText": "From Candrosa is"
+    },
+    {
+      "header": "[u2113 | 02:47:18.900-02:47:34.440 | DM]",
+      "lineNumber": 2113,
+      "originalText": "You recognize some people you see can dress in there, who nods and acknowledges you and also Kesa who smiles at you as you enter and and greet each one of you, in turn, warmly and again with her things",
+      "cleanedText": "You recognize some people you see Candrosa in there, who nods and acknowledges you and also Kisa who smiles at you as you enter and and greet each one of you, in turn, warmly and again with her things"
+    },
+    {
+      "header": "[u2116 | 02:47:47.100-02:47:53.370 | DM]",
+      "lineNumber": 2116,
+      "originalText": "And then there's one additional person who you who most of you don't recognize Suma the priestess of Giovanni",
+      "cleanedText": "And then there's one additional person who you who most of you don't recognize Suma the priestess of Jeevali"
+    },
+    {
+      "header": "[u2124 | 02:48:34.890-02:48:46.230 | DM]",
+      "lineNumber": 2124,
+      "originalText": "And then she says I'm as, as you all enter Kesa then kind of urges everybody to sit down and there's a circular table now in here and chairs around that.",
+      "cleanedText": "And then she says I'm as, as you all enter Kisa then kind of urges everybody to sit down and there's a circular table now in here and chairs around that."
+    },
+    {
+      "header": "[u2129 | 02:49:11.040-02:49:31.680 | DM]",
+      "lineNumber": 2129,
+      "originalText": "And brash and and a younger Dunbar, a but clearly skilled in both writing and and battle, and he has a share of of scars and he looks, you know, of all of the of the people gathered here accepting you he seems like the one who is perhaps actually seen combat himself.",
+      "cleanedText": "And brash and and a younger Dunmari but clearly skilled in both writing and and battle, and he has a share of of scars and he looks, you know, of all of the of the people gathered here accepting you he seems like the one who is perhaps actually seen combat himself."
+    },
+    {
+      "header": "[u2135 | 02:50:17.940-02:50:31.050 | DM]",
+      "lineNumber": 2135,
+      "originalText": "HAVE TORN through our southern and southeastern farmlands and holdings, I expect within a day, a large column of refugees will be arriving terawatt",
+      "cleanedText": "HAVE TORN through our southern and southeastern farmlands and holdings, I expect within a day, a large column of refugees will be arriving Karawa"
+    },
+    {
+      "header": "[u2143 | 02:51:27.750-02:51:39.330 | DM]",
+      "lineNumber": 2143,
+      "originalText": "You know, some some acknowledgement Kendra's in particular is, you know, tends to support tends to sort of nod, along with what hundred is saying.",
+      "cleanedText": "You know, some some acknowledgement Candrosa's in particular is, you know, tends to support tends to sort of nod, along with what hundred is saying."
+    },
+    {
+      "header": "[u2177 | 02:55:00.330-02:55:08.430 | Kenzo]",
+      "lineNumber": 2177,
+      "originalText": "Quick question about just done Mari politics and all of our politics. Is there a king who is the king, the king of Donmar or",
+      "cleanedText": "Quick question about just Dunmari politics and all of our politics. Is there a king who is the king, the king of Dunmar or"
+    },
+    {
+      "header": "[u2179 | 02:55:11.700-02:55:13.290 | DM]",
+      "lineNumber": 2179,
+      "originalText": "So Donmar has a king.",
+      "cleanedText": "So Dunmar has a king."
+    },
+    {
+      "header": "[u2180 | 02:55:14.940-02:55:18.840 | DM]",
+      "lineNumber": 2180,
+      "originalText": "The king Denmark is not a super organized and",
+      "cleanedText": "The king Dunmar is not a super organized and"
+    },
+    {
+      "header": "[u2183 | 02:55:39.240-02:55:44.400 | DM]",
+      "lineNumber": 2183,
+      "originalText": "In common. Right. There's not a lot of private ownership of land and across the plains of Denmark.",
+      "cleanedText": "In common. Right. There's not a lot of private ownership of land and across the plains of Dunmar."
+    },
+    {
+      "header": "[u2191 | 02:56:24.540-02:56:38.100 | DM]",
+      "lineNumber": 2191,
+      "originalText": "While the king does you know is that traveling court right so might spend some time in in in Tokyo, or in this city here in the winter and the summer that is almost certainly like here or or down on the coast.",
+      "cleanedText": "While the king does you know is that traveling court right so might spend some time in in in Tokra, or in this city here in the winter and the summer that is almost certainly like here or or down on the coast."
+    },
+    {
+      "header": "[u2197 | 02:57:11.820-02:57:29.700 | DM]",
+      "lineNumber": 2197,
+      "originalText": "You know, make sure that nobody is rebelling and stuff like that. But especially in Dunbar, there's a strong divide between the East and the West and South Eastern Donmar is pretty much, you know, completely independent and the really the only real influence the king has is",
+      "cleanedText": "You know, make sure that nobody is rebelling and stuff like that. But especially in Dunbar, there's a strong divide between the East and the West and South Eastern Dunmar is pretty much, you know, completely independent and the really the only real influence the king has is"
+    },
+    {
+      "header": "[u2200 | 02:57:46.320-02:57:47.610 | DM]",
+      "lineNumber": 2200,
+      "originalText": "No Kesa is",
+      "cleanedText": "No Kisa is"
+    },
+    {
+      "header": "[u2214 | 02:59:13.230-02:59:22.020 | DM]",
+      "lineNumber": 2214,
+      "originalText": "People make the Denmark not places we are used to traveling. We're used to living on the road if we stay here, I'm afraid, many more will die.",
+      "cleanedText": "People make the Dunmar not places we are used to traveling. We're used to living on the road if we stay here, I'm afraid, many more will die."
+    },
+    {
+      "header": "[u2223 | 03:00:18.150-03:00:22.020 | DM]",
+      "lineNumber": 2223,
+      "originalText": "Kendra, as it kind of looks around and looks at Kesa and Kesa looks at you.",
+      "cleanedText": "Candrosa, as it kind of looks around and looks at Kisa and Kisa looks at you."
+    },
+    {
+      "header": "[u2226 | 03:00:36.630-03:00:39.150 | DM]",
+      "lineNumber": 2226,
+      "originalText": "To to defend terroir",
+      "cleanedText": "To to defend Karawa"
+    },
+    {
+      "header": "[u2238 | 03:02:18.600-03:02:22.320 | DM]",
+      "lineNumber": 2238,
+      "originalText": "I Kendra's and keys, a look",
+      "cleanedText": "I Candrosa's and keys, a look"
+    },
+    {
+      "header": "[u2257 | 03:03:21.810-03:03:26.850 | DM]",
+      "lineNumber": 2257,
+      "originalText": "Suma and Kendra, as it kind of looks at each other and contrast. It says",
+      "cleanedText": "Suma and Candrosa, as it kind of looks at each other and contrast. It says"
+    },
+    {
+      "header": "[u2341 | 03:08:42.780-03:08:44.640 | Seeker]",
+      "lineNumber": 2341,
+      "originalText": "The mysteries within the Temple of Chicago.",
+      "cleanedText": "The mysteries within the Temple of Shakun."
+    },
+    {
+      "header": "[u2373 | 03:11:03.480-03:11:04.740 | Kenzo]",
+      "lineNumber": 2373,
+      "originalText": "Town, or to travel to Tokyo.",
+      "cleanedText": "Town, or to travel to Tokra."
+    },
+    {
+      "header": "[u2458 | 03:17:09.150-03:17:11.280 | DM]",
+      "lineNumber": 2458,
+      "originalText": "When you mentioned the darkness at Raven whole",
+      "cleanedText": "When you mentioned the darkness at Raven's Hold"
+    },
+    {
+      "header": "[u2459 | 03:17:13.080-03:17:14.820 | DM]",
+      "lineNumber": 2459,
+      "originalText": "Kendra's also",
+      "cleanedText": "Candrosa's also"
+    },
+    {
+      "header": "[u2460 | 03:17:17.970-03:17:23.130 | DM]",
+      "lineNumber": 2460,
+      "originalText": "You know, you've mentioned several times now the darkness at at Raven halt.",
+      "cleanedText": "You know, you've mentioned several times now the darkness at at Raven's Hold."
+    },
+    {
+      "header": "[u2475 | 03:18:23.010-03:18:24.000 | DM]",
+      "lineNumber": 2475,
+      "originalText": "Raven Holt",
+      "cleanedText": "Raven's Hold"
+    },
+    {
+      "header": "[u2504 | 03:20:48.930-03:21:01.800 | DM]",
+      "lineNumber": 2504,
+      "originalText": "And then, but I've heard. And then the other one I mentioned to him was ravens hold, which is, if anything, you know, a bigger, more impressive fort. That was one of the main strongholds.",
+      "cleanedText": "And then, but I've heard. And then the other one I mentioned to him was Raven's Hold, which is, if anything, you know, a bigger, more impressive fort. That was one of the main strongholds."
+    },
+    {
+      "header": "[u2561 | 03:24:42.390-03:24:48.510 | DM]",
+      "lineNumber": 2561,
+      "originalText": "That's a I mean that's done Mari MOTIF THAT ACTUALLY DATES I think from a little bit after the Great War.",
+      "cleanedText": "That's a I mean that's Dunmari MOTIF THAT ACTUALLY DATES I think from a little bit after the Great War."
+    },
+    {
+      "header": "[u2600 | 03:28:02.940-03:28:04.800 | DM]",
+      "lineNumber": 2600,
+      "originalText": "Doesn't matter. It's another Denmark.",
+      "cleanedText": "Doesn't matter. It's another Dunmar."
+    },
+    {
+      "header": "[u2623 | 03:29:55.980-03:30:00.900 | Kenzo]",
+      "lineNumber": 2623,
+      "originalText": "Well, for the town's people. It feels like there's only two options, either to stay here or to go to Tokyo.",
+      "cleanedText": "Well, for the town's people. It feels like there's only two options, either to stay here or to go to Tokra."
+    },
+    {
+      "header": "[u2660 | 03:31:53.580-03:31:56.010 | Kenzo]",
+      "lineNumber": 2660,
+      "originalText": "And so if the village were to move to Tokyo.",
+      "cleanedText": "And so if the village were to move to Tokra."
+    },
+    {
+      "header": "[u2696 | 03:34:22.170-03:34:26.130 | DM]",
+      "lineNumber": 2696,
+      "originalText": "Because cocoon does not speak in a clear voice at all times.",
+      "cleanedText": "Because Shakun does not speak in a clear voice at all times."
+    },
+    {
+      "header": "[u2711 | 03:35:12.540-03:35:17.070 | Kenzo]",
+      "lineNumber": 2711,
+      "originalText": "200 done Mari on horseback skilled riders.",
+      "cleanedText": "200 Dunmari on horseback skilled riders."
+    },
+    {
+      "header": "[u2742 | 03:36:42.720-03:36:50.730 | Kenzo]",
+      "lineNumber": 2742,
+      "originalText": "And provide more information either to Tokyo or here whatever place we feel like is the is has the greater defense but it seems like Tokyo might be the safest place.",
+      "cleanedText": "And provide more information either to Tokra or here whatever place we feel like is the is has the greater defense but it seems like Tokra might be the safest place."
+    },
+    {
+      "header": "[u2764 | 03:38:00.090-03:38:03.120 | Kenzo]",
+      "lineNumber": 2764,
+      "originalText": "Should should should have been moved to Tokyo that yeah",
+      "cleanedText": "Should should should have been moved to Tokra that yeah"
+    },
+    {
+      "header": "[u2770 | 03:38:55.410-03:39:01.620 | DM]",
+      "lineNumber": 2770,
+      "originalText": "And for sure, my man could protect a column of of Denmark running South running West",
+      "cleanedText": "And for sure, my man could protect a column of of Dunmar running South running West"
+    },
+    {
+      "header": "[u2791 | 03:40:27.120-03:40:33.480 | DM]",
+      "lineNumber": 2791,
+      "originalText": "Perhaps nothing as big and sort of notable landmark as ravens hold but um",
+      "cleanedText": "Perhaps nothing as big and sort of notable landmark as Raven's Hold but um"
+    },
+    {
+      "header": "[u2809 | 03:41:57.180-03:41:59.670 | DM]",
+      "lineNumber": 2809,
+      "originalText": "Is an XP. Right. Or maybe you're suited to",
+      "cleanedText": "Is an axebeak. Right. Or maybe you're suited to"
+    },
+    {
+      "header": "[u2819 | 03:43:03.180-03:43:08.670 | Kenzo]",
+      "lineNumber": 2819,
+      "originalText": "You could then return back here to carwash help fortify Carla here along with Kendra.",
+      "cleanedText": "You could then return back here to Karawa help fortify Karawa here along with Candrosa."
+    },
+    {
+      "header": "[u2843 | 03:45:17.820-03:45:19.170 | Delwath]",
+      "lineNumber": 2843,
+      "originalText": "Thank Kansas speaks with",
+      "cleanedText": "Thank Kenzo speaks with"
+    },
+    {
+      "header": "[u2857 | 03:46:03.270-03:46:15.300 | Kenzo]",
+      "lineNumber": 2857,
+      "originalText": "While the evacuation. If that were to happen, what happened. Well actually fortifying the temple, no matter what will be swapped. Well, what we should do that. Anyways, because if this is going to become a fortress, even if it's just for Kendra said for the mystics",
+      "cleanedText": "While the evacuation. If that were to happen, what happened. Well actually fortifying the temple, no matter what will be swapped. Well, what we should do that. Anyways, because if this is going to become a fortress, even if it's just for Candrosa said for the mystics"
+    },
+    {
+      "header": "[u2864 | 03:46:38.340-03:46:45.900 | Kenzo]",
+      "lineNumber": 2864,
+      "originalText": "Have the have the temple. Well, fortified and ready for for both can dresses sake, but also when a hop dar",
+      "cleanedText": "Have the have the temple. Well, fortified and ready for for both Candrosaes sake, but also when a hop dar"
+    },
+    {
+      "header": "[u2898 | 03:48:40.410-03:48:52.500 | Kenzo]",
+      "lineNumber": 2898,
+      "originalText": "Be of greatest service in protecting the town's people, the family. It's and as, as was a dresser Kesa said car was not this place. Carol was its",
+      "cleanedText": "Be of greatest service in protecting the town's people, the family. It's and as, as was a dresser Kisa said car was not this place. Carol was its"
+    },
+    {
+      "header": "[u2910 | 03:49:50.730-03:49:54.060 | Seeker]",
+      "lineNumber": 2910,
+      "originalText": "I'm making an animated version of the Kenza plan.",
+      "cleanedText": "I'm making an animated version of the Kenzo plan."
+    },
+    {
+      "header": "[u2915 | 03:50:14.550-03:50:15.900 | DM]",
+      "lineNumber": 2915,
+      "originalText": "Kendra's I know",
+      "cleanedText": "Candrosa's I know"
+    },
+    {
+      "header": "[u2922 | 03:50:36.030-03:50:42.000 | DM]",
+      "lineNumber": 2922,
+      "originalText": "That will keep the most people alive and Kesa kind of nods as she's speaking",
+      "cleanedText": "That will keep the most people alive and Kisa kind of nods as she's speaking"
+    },
+    {
+      "header": "[u2927 | 03:50:56.550-03:51:00.060 | DM]",
+      "lineNumber": 2927,
+      "originalText": "Cannot be abandoned Kendra's and I'm not asking you to do that.",
+      "cleanedText": "Cannot be abandoned Candrosa's and I'm not asking you to do that."
+    },
+    {
+      "header": "[u2951 | 03:52:48.180-03:52:49.170 | Unknown]",
+      "lineNumber": 2951,
+      "originalText": "To support Kendra.",
+      "cleanedText": "To support Candrosa."
+    },
+    {
+      "header": "[u2957 | 03:53:07.500-03:53:09.720 | DM]",
+      "lineNumber": 2957,
+      "originalText": "I will lead the evacuation with Kesa",
+      "cleanedText": "I will lead the evacuation with Kisa"
+    },
+    {
+      "header": "[u2967 | 03:53:47.490-03:53:51.360 | DM]",
+      "lineNumber": 2967,
+      "originalText": "Time in carwash and all of my experience.",
+      "cleanedText": "Time in Karawa and all of my experience."
+    },
+    {
+      "header": "[u3082 | 04:00:21.270-04:00:22.320 | DM]",
+      "lineNumber": 3082,
+      "originalText": "Kesa answer.",
+      "cleanedText": "Kisa answer."
+    },
+    {
+      "header": "[u3116 | 04:02:19.800-04:02:21.420 | Kenzo]",
+      "lineNumber": 3116,
+      "originalText": "In carwash",
+      "cleanedText": "In Karawa"
+    },
+    {
+      "header": "[u3136 | 04:03:25.800-04:03:30.780 | DM]",
+      "lineNumber": 3136,
+      "originalText": "To you and Alaska and to have dar basically everybody who's not Kesa",
+      "cleanedText": "To you and Alaska and to have dar basically everybody who's not Kisa"
+    },
+    {
+      "header": "[u3137 | 04:03:31.350-04:03:32.580 | DM]",
+      "lineNumber": 3137,
+      "originalText": "Suma or Kendra's",
+      "cleanedText": "Suma or Candrosa's"
+    }
+  ]
+}

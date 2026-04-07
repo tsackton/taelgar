@@ -1,0 +1,329 @@
+allReplacements:
+- from: .
+  to: ','
+  count: 2
+  headers:
+  - '[u0893 | 01:11:24.540-01:11:27.210 | DM]'
+  - '[u1702 | 02:11:45.870-02:11:55.290 | DM]'
+- from: .
+  to: '?'
+  count: 2
+  headers:
+  - '[u1281 | 01:42:36.600-01:42:47.010 | Kenzo]'
+  - '[u1947 | 02:33:02.970-02:33:04.650 | Delwath]'
+- from: down with
+  to: Delwath
+  count: 2
+  headers:
+  - '[u0035 | 00:03:06.480-00:03:14.850 | DM]'
+  - '[u1263 | 01:41:02.370-01:41:12.990 | DM]'
+- from: ', this is not'
+  to: ;
+  count: 1
+  headers:
+  - '[u1165 | 01:33:37.020-01:33:48.270 | DM]'
+- from: . Pick
+  to: and pick
+  count: 1
+  headers:
+  - '[u3033 | 03:49:15.210-03:49:23.490 | DM]'
+- from: Ah
+  to: A
+  count: 1
+  headers:
+  - '[u2205 | 02:50:27.240-02:50:30.060 | DM]'
+- from: Cancer
+  to: Kenzo
+  count: 1
+  headers:
+  - '[u1216 | 01:38:21.840-01:38:25.470 | Wellby]'
+- from: Dallas
+  to: ', Delwath'
+  count: 1
+  headers:
+  - '[u1389 | 01:50:46.770-01:50:48.390 | Delwath]'
+- from: Dealt with
+  to: Delwath,
+  count: 1
+  headers:
+  - '[u1702 | 02:11:45.870-02:11:55.290 | DM]'
+- from: Dunbar
+  to: Dunmari
+  count: 1
+  headers:
+  - '[u1167 | 01:33:55.080-01:34:10.830 | DM]'
+- from: Flash
+  to: Flesh
+  count: 1
+  headers:
+  - '[u2206 | 02:50:31.200-02:50:34.590 | DM]'
+- from: I gear. The God
+  to: ; Aagir, the god
+  count: 1
+  headers:
+  - '[u0894 | 01:11:28.350-01:11:48.750 | DM]'
+- from: Kansas
+  to: Kenzo ' s
+  count: 1
+  headers:
+  - '[u0259 | 00:20:54.390-00:21:00.270 | DM]'
+- from: Kenza
+  to: Kenzo
+  count: 1
+  headers:
+  - '[u1263 | 01:41:02.370-01:41:12.990 | DM]'
+- from: Kenza
+  to: Kenzo,
+  count: 1
+  headers:
+  - '[u1165 | 01:33:37.020-01:33:48.270 | DM]'
+- from: Kuchar traces
+  to: cockatrices
+  count: 1
+  headers:
+  - '[u2690 | 03:24:44.220-03:24:53.520 | Wellby]'
+- from: Marty
+  to: Dunmari
+  count: 1
+  headers:
+  - '[u0009 | 00:00:39.870-00:00:44.700 | DM]'
+- from: Marty
+  to: Five Siblings, to the Dunmari
+  count: 1
+  headers:
+  - '[u0891 | 01:10:57.750-01:11:17.160 | DM]'
+- from: Munich
+  to: Unique
+  count: 1
+  headers:
+  - '[u2544 | 03:14:07.020-03:14:13.620 | Seeker]'
+- from: ON THE TOP OF IT
+  to: on the top of its
+  count: 1
+  headers:
+  - '[u2503 | 03:11:25.620-03:11:29.700 | DM]'
+- from: Sankara
+  to: ; Sonkar,
+  count: 1
+  headers:
+  - '[u0894 | 01:11:28.350-01:11:48.750 | DM]'
+- from: Soviet
+  to: obsidian
+  count: 1
+  headers:
+  - '[u3033 | 03:49:15.210-03:49:23.490 | DM]'
+- from: That you
+  to: Do they
+  count: 1
+  headers:
+  - '[u1473 | 01:56:44.700-01:56:46.200 | Delwath]'
+- from: To volley
+  to: Jeevali
+  count: 1
+  headers:
+  - '[u0893 | 01:11:24.540-01:11:27.210 | DM]'
+- from: War
+  to: war,
+  count: 1
+  headers:
+  - '[u0894 | 01:11:28.350-01:11:48.750 | DM]'
+- from: Well be
+  to: Wellby
+  count: 1
+  headers:
+  - '[u0025 | 00:02:12.570-00:02:17.040 | DM]'
+- from: amen
+  to: and
+  count: 1
+  headers:
+  - '[u0891 | 01:10:57.750-01:11:17.160 | DM]'
+- from: aneuploidy
+  to: ','
+  count: 1
+  headers:
+  - '[u1947 | 02:33:02.970-02:33:04.650 | Delwath]'
+- from: are
+  to: ','
+  count: 1
+  headers:
+  - '[u1702 | 02:11:45.870-02:11:55.290 | DM]'
+- from: cancer, Denmark
+  to: carrying that
+  count: 1
+  headers:
+  - '[u1216 | 01:38:21.840-01:38:25.470 | Wellby]'
+- from: chart
+  to: Chardon
+  count: 1
+  headers:
+  - '[u1520 | 01:59:48.840-01:59:59.520 | Wellby]'
+- from: check in
+  to: chicken
+  count: 1
+  headers:
+  - '[u1648 | 02:07:42.420-02:08:01.080 | DM]'
+- from: chinodya
+  to: Chidya,
+  count: 1
+  headers:
+  - '[u0894 | 01:11:28.350-01:11:48.750 | DM]'
+- from: cockatoo races
+  to: cockatrices,
+  count: 1
+  headers:
+  - '[u1702 | 02:11:45.870-02:11:55.290 | DM]'
+- from: common
+  to: 'Common:'
+  count: 1
+  headers:
+  - '[u2220 | 02:51:23.940-02:51:34.770 | DM]'
+- from: dealt with
+  to: ', Delwath'
+  count: 1
+  headers:
+  - '[u1165 | 01:33:37.020-01:33:48.270 | DM]'
+- from: done Mari
+  to: Dunmari.
+  count: 1
+  headers:
+  - '[u1169 | 01:34:15.630-01:34:18.180 | Kenzo]'
+- from: done Mari is
+  to: Dunmari? Is
+  count: 1
+  headers:
+  - '[u1281 | 01:42:36.600-01:42:47.010 | Kenzo]'
+- from: down
+  to: to stone,
+  count: 1
+  headers:
+  - '[u1702 | 02:11:45.870-02:11:55.290 | DM]'
+- from: gas
+  to: guess
+  count: 1
+  headers:
+  - '[u0259 | 00:20:54.390-00:21:00.270 | DM]'
+- from: in
+  to: . In
+  count: 1
+  headers:
+  - '[u1167 | 01:33:55.080-01:34:10.830 | DM]'
+- from: is
+  to: as
+  count: 1
+  headers:
+  - '[u1165 | 01:33:37.020-01:33:48.270 | DM]'
+- from: is the you know
+  to: '? Is there'
+  count: 1
+  headers:
+  - '[u1281 | 01:42:36.600-01:42:47.010 | Kenzo]'
+- from: its
+  to: it ' s
+  count: 1
+  headers:
+  - '[u1167 | 01:33:55.080-01:34:10.830 | DM]'
+- from: like
+  to: ','
+  count: 1
+  headers:
+  - '[u1281 | 01:42:36.600-01:42:47.010 | Kenzo]'
+- from: like banner ads
+  to: banners
+  count: 1
+  headers:
+  - '[u1167 | 01:33:55.080-01:34:10.830 | DM]'
+- from: locker
+  to: ; Laka
+  count: 1
+  headers:
+  - '[u0894 | 01:11:28.350-01:11:48.750 | DM]'
+- from: money
+  to: muddy
+  count: 1
+  headers:
+  - '[u1648 | 02:07:42.420-02:08:01.080 | DM]'
+- from: my
+  to: mine.
+  count: 1
+  headers:
+  - '[u2221 | 02:51:36.090-02:51:40.110 | DM]'
+- from: of
+  to: ','
+  count: 1
+  headers:
+  - '[u1167 | 01:33:55.080-01:34:10.830 | DM]'
+- from: room Nick
+  to: runic
+  count: 1
+  headers:
+  - '[u0035 | 00:03:06.480-00:03:14.850 | DM]'
+- from: schmutz or
+  to: Cha ' mutte,
+  count: 1
+  headers:
+  - '[u2729 | 03:27:56.220-03:28:07.830 | Delwath]'
+- from: shocker and mysteries
+  to: Shakun Mystai
+  count: 1
+  headers:
+  - '[u2683 | 03:24:22.860-03:24:24.180 | DM]'
+- from: spirit point
+  to: spearpoint
+  count: 1
+  headers:
+  - '[u2905 | 03:40:01.050-03:40:02.670 | Kenzo]'
+- from: the chart and
+  to: a Chardon
+  count: 1
+  headers:
+  - '[u1520 | 01:59:48.840-01:59:59.520 | Wellby]'
+- from: them Denmark.
+  to: Dunmari?
+  count: 1
+  headers:
+  - '[u1473 | 01:56:44.700-01:56:46.200 | Delwath]'
+- from: things
+  to: thing
+  count: 1
+  headers:
+  - '[u1281 | 01:42:36.600-01:42:47.010 | Kenzo]'
+- from: this
+  to: . This
+  count: 1
+  headers:
+  - '[u2221 | 02:51:36.090-02:51:40.110 | DM]'
+- from: this unit porn
+  to: its uniform
+  count: 1
+  headers:
+  - '[u2206 | 02:50:31.200-02:50:34.590 | DM]'
+- from: well be
+  to: ', Wellby'
+  count: 1
+  headers:
+  - '[u0432 | 00:35:19.290-00:35:20.250 | Delwath]'
+- from: well be
+  to: Wellby
+  count: 1
+  headers:
+  - '[u0502 | 00:41:04.020-00:41:10.050 | DM]'
+repeatedReplacements:
+- from: .
+  to: ','
+  count: 2
+  headers:
+  - '[u0893 | 01:11:24.540-01:11:27.210 | DM]'
+  - '[u1702 | 02:11:45.870-02:11:55.290 | DM]'
+- from: .
+  to: '?'
+  count: 2
+  headers:
+  - '[u1281 | 01:42:36.600-01:42:47.010 | Kenzo]'
+  - '[u1947 | 02:33:02.970-02:33:04.650 | Delwath]'
+- from: down with
+  to: Delwath
+  count: 2
+  headers:
+  - '[u0035 | 00:03:06.480-00:03:14.850 | DM]'
+  - '[u1263 | 01:41:02.370-01:41:12.990 | DM]'
+unresolvedPhrases: []

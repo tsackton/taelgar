@@ -1,0 +1,26 @@
+schemaVersion: '1.0'
+sourceType: transcript
+scope: session
+campaign: Dunmari Frontier
+sessionNumber: 57
+realWorldDate: '2022-09-19'
+drStart: '1748-09-30'
+drEnd: '1748-11-02'
+drStartTime: null
+drEndTime: null
+participants:
+- name: David Kong
+  gameRole: Kenzo
+  transcriptIdentifiers:
+  - David Kong (he/him) Organizer, MIT Media Lab
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers:
+  - Timothy Sackton
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-057/sources/GMT20220919-003601_Recording.transcript.vtt
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-057/sources/dunmar-frontier-session057.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-057/sources/dunmar-frontier-session057-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-source-prepared.md
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-057/sources/zoom-session-057.speaker_mapping.json
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-speaker-stats.json

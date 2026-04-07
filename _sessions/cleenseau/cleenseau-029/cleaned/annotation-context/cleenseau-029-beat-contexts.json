@@ -1,0 +1,657 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-beats.json",
+  "selectedBeatIds": [
+    "b01",
+    "b02",
+    "b03",
+    "b04",
+    "b05"
+  ],
+  "supplementalSources": [],
+  "contexts": [
+    {
+      "beat": {
+        "beatId": "b01",
+        "title": "Asineau Ascendant",
+        "startUid": "u0001",
+        "endUid": "u0020",
+        "lineCount": 20,
+        "dateStart": null,
+        "dateEnd": null,
+        "timeWindow": null,
+        "containsCombat": false,
+        "boundaryReason": "The opening montage covers Robin's appointment, the rebuilding of Asineau, and the party's local political and economic projects before the next major adventure hook arrives.",
+        "dateEvidence": [],
+        "startIndex": 0,
+        "endIndex": 19
+      },
+      "previousBeat": null,
+      "nextBeat": {
+        "beatId": "b02",
+        "title": "Dragon Rumors East",
+        "dateStart": null,
+        "dateEnd": null
+      },
+      "session": {
+        "title": null,
+        "campaign": "Cleenseau",
+        "scope": "session",
+        "sourceType": "narrative",
+        "sessionNumber": 29,
+        "drStart": null,
+        "drEnd": null,
+        "realWorldDate": "2025-11-09",
+        "participants": [
+          {
+            "name": "Dan Walters",
+            "role": null,
+            "gameRole": "Robin"
+          },
+          {
+            "name": "Chris Kelly",
+            "role": null,
+            "gameRole": "Viepuck"
+          },
+          {
+            "name": "Kiya Nicoll",
+            "role": null,
+            "gameRole": "Celyn"
+          },
+          {
+            "name": "Matt Rand",
+            "role": null,
+            "gameRole": "Izgil"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
+        {
+          "uid": "u0001",
+          "header": "[u0001 | source]",
+          "text": "[ gaming ] An interlude, soon to be slightly on fire",
+          "raw": "[u0001 | source] [ gaming ] An interlude, soon to be slightly on fire"
+        },
+        {
+          "uid": "u0002",
+          "header": "[u0002 | source]",
+          "text": "Published: 2025-11-09T22:40:00 Original URL: https://kiya.dreamwidth.org/824905.html",
+          "raw": "[u0002 | source] Published: 2025-11-09T22:40:00 Original URL: https://kiya.dreamwidth.org/824905.html"
+        },
+        {
+          "uid": "u0003",
+          "header": "[u0003 | source]",
+          "text": "Summarizing some emailed events and today's session.",
+          "raw": "[u0003 | source] Summarizing some emailed events and today's session."
+        },
+        {
+          "uid": "u0004",
+          "header": "[u0004 | source]",
+          "text": "_Dramatis Personae_",
+          "raw": "[u0004 | source] _Dramatis Personae_"
+        },
+        {
+          "uid": "u0005",
+          "header": "[u0005 | source]",
+          "text": "Izgil, who did not do much because his player was out this session",
+          "raw": "[u0005 | source] Izgil, who did not do much because his player was out this session"
+        },
+        {
+          "uid": "u0006",
+          "header": "[u0006 | source]",
+          "text": "Celyn, who has complicated class issues",
+          "raw": "[u0006 | source] Celyn, who has complicated class issues"
+        },
+        {
+          "uid": "u0007",
+          "header": "[u0007 | source]",
+          "text": "Viepuck, who is very busy causing chaos as usual",
+          "raw": "[u0007 | source] Viepuck, who is very busy causing chaos as usual"
+        },
+        {
+          "uid": "u0008",
+          "header": "[u0008 | source]",
+          "text": "Robin, who is doing a lot of engineering lately",
+          "raw": "[u0008 | source] Robin, who is doing a lot of engineering lately"
+        },
+        {
+          "uid": "u0009",
+          "header": "[u0009 | source]",
+          "text": "When we concluded last session, the party was [having something of a vacation in Robin's new demesne of the village of Asineau](https://kiya.dreamwidth.org/823914.html).",
+          "raw": "[u0009 | source] When we concluded last session, the party was [having something of a vacation in Robin's new demesne of the village of Asineau](https://kiya.dreamwidth.org/823914.html)."
+        },
+        {
+          "uid": "u0010",
+          "header": "[u0010 | source]",
+          "text": "The party goes to the trial of the Baroness we successfully deposed. They are unable to convict her of necromancy (Celyn is faintly peeved by this) but do manage to convict her of _treason_, as investigation reveals that she had set up a frame job for the previous lord and arranged the murder of a band of halflings (that she got him executed for), so at least she is Dealt With. A Tyrwinghan is appointed as the new baron, and Robin accepts the post of lord of the village of Asineau.",
+          "raw": "[u0010 | source] The party goes to the trial of the Baroness we successfully deposed. They are unable to convict her of necromancy (Celyn is faintly peeved by this) but do manage to convict her of _treason_, as investigation reveals that she had set up a frame job for the previous lord and arranged the murder of a band of halflings (that she got him executed for), so at least she is Dealt With. A Tyrwinghan is appointed as the new baron, and Robin accepts the post of lord of the village of Asineau."
+        },
+        {
+          "uid": "u0011",
+          "header": "[u0011 | source]",
+          "text": "The people of Asineau are very happy to have their new lord installed, and are perhaps a bit smug about being The Place The Heroes Live. The party have pooled their resources (and an optional rule from the latest D&D revision) in order to give the village one hell of a makeover.",
+          "raw": "[u0011 | source] The people of Asineau are very happy to have their new lord installed, and are perhaps a bit smug about being The Place The Heroes Live. The party have pooled their resources (and an optional rule from the latest D&D revision) in order to give the village one hell of a makeover."
+        },
+        {
+          "uid": "u0012",
+          "header": "[u0012 | source]",
+          "text": "(On a mechanics level: the new revision of D&D reintroduces the old \"adventurers can have a fortress\" concept as a mechanic accessible at lower levels, and the individual improvements that each individual party member can cause can be pooled. Thus, we have a bunch of stuff that we can build and it Just Kinda Happens because of game mechanics, and we are building story out of it.)",
+          "raw": "[u0012 | source] (On a mechanics level: the new revision of D&D reintroduces the old \"adventurers can have a fortress\" concept as a mechanic accessible at lower levels, and the individual improvements that each individual party member can cause can be pooled. Thus, we have a bunch of stuff that we can build and it Just Kinda Happens because of game mechanics, and we are building story out of it.)"
+        },
+        {
+          "uid": "u0013",
+          "header": "[u0013 | source]",
+          "text": "Asineau was not in great shape when we got possession of it. Lord Punchable Face (Mike pointed out that I never use this guy's actual name but I can't remember it (it's [Lorin Valbert](https://msackton.github.io/taelgarverse1720/people/sembarans/lorin-valbert/))) was the sort of person who would slightly overtax the people so that he could buy gold-plated swords and fancy tapestries to console himself over being made lord of a backwater. The food situation is ordinarily fine but the taxation caused things to be a little scant, and the fishing runs (this is a fishing and farming village) were not great last year, and so on.",
+          "raw": "[u0013 | source] Asineau was not in great shape when we got possession of it. Lord Punchable Face (Mike pointed out that I never use this guy's actual name but I can't remember it (it's [Lorin Valbert](https://msackton.github.io/taelgarverse1720/people/sembarans/lorin-valbert/))) was the sort of person who would slightly overtax the people so that he could buy gold-plated swords and fancy tapestries to console himself over being made lord of a backwater. The food situation is ordinarily fine but the taxation caused things to be a little scant, and the fishing runs (this is a fishing and farming village) were not great last year, and so on."
+        },
+        {
+          "uid": "u0014",
+          "header": "[u0014 | source]",
+          "text": "So the party sweeps in and proceeds to Establish Our Home Base Complete With Game Mechanics. There are some things built in the town that can be immediately turned into home base mechanical stuff, and then we get to build up. (Barracks, Armory, Sanctuary (temple to the Wyrdling, Celyn's god), Stable.) Robin, as lord, promptly turns his hand to figuring out the village defenses; it is not that it doesn't have a wall because walls aren't a thing, but because while it's self-sufficient it does not have the surplus to afford a decent one. So he sets in to fix that. Meanwhile Celyn, as lord's _consort_, wants to fix the local economy, because he is from a village of about this size and has _opinions_ about how economics make sense.",
+          "raw": "[u0014 | source] So the party sweeps in and proceeds to Establish Our Home Base Complete With Game Mechanics. There are some things built in the town that can be immediately turned into home base mechanical stuff, and then we get to build up. (Barracks, Armory, Sanctuary (temple to the Wyrdling, Celyn's god), Stable.) Robin, as lord, promptly turns his hand to figuring out the village defenses; it is not that it doesn't have a wall because walls aren't a thing, but because while it's self-sufficient it does not have the surplus to afford a decent one. So he sets in to fix that. Meanwhile Celyn, as lord's _consort_, wants to fix the local economy, because he is from a village of about this size and has _opinions_ about how economics make sense."
+        },
+        {
+          "uid": "u0015",
+          "header": "[u0015 | source]",
+          "text": "This cascade of events leads to, among other things, a retired dwarven smith settling in Asineau with our newly-constructed Smithy to train the brother of our buddy Odo, now our captain of the guard, as a smith (basic smithing had to go to the somewhat larger village up the road previously, is how poor Asineau was), and the telescope-obsessed tinkering dwarf and their spouse settling in Asineau to supervise our Workshop, which will make Asineau host to a more stable selection of craftsmen. Amongst the craftsmen we are looking to attract is a glassworker (unless Brot the tinkerer is handling this), both because Izgil and Brot want lenses and mirrors, and because glassware is an import in this region and having a local source will make Celyn happy for multiple reasons, the obvious one of which is \"we now have a desirable export fancier than smoked fish, which will make all the necessities trade much easier and allow for luxury\". A local rich lady serves as our glassworks factor, which was partly 'playing politics' and partly 'she's genuinely got a trade network, easier to use it than build our own'.",
+          "raw": "[u0015 | source] This cascade of events leads to, among other things, a retired dwarven smith settling in Asineau with our newly-constructed Smithy to train the brother of our buddy Odo, now our captain of the guard, as a smith (basic smithing had to go to the somewhat larger village up the road previously, is how poor Asineau was), and the telescope-obsessed tinkering dwarf and their spouse settling in Asineau to supervise our Workshop, which will make Asineau host to a more stable selection of craftsmen. Amongst the craftsmen we are looking to attract is a glassworker (unless Brot the tinkerer is handling this), both because Izgil and Brot want lenses and mirrors, and because glassware is an import in this region and having a local source will make Celyn happy for multiple reasons, the obvious one of which is \"we now have a desirable export fancier than smoked fish, which will make all the necessities trade much easier and allow for luxury\". A local rich lady serves as our glassworks factor, which was partly 'playing politics' and partly 'she's genuinely got a trade network, easier to use it than build our own'."
+        },
+        {
+          "uid": "u0016",
+          "header": "[u0016 | source]",
+          "text": "Getting the glassworks running, of course, requires sand to supply materials. This is a solvable problem, because we have previously been of assistance to the nearby lizardfolk village (investigating a murder of one of their people) and thus they are not wholly isolationist about us. Robin extends an offer of mutual defense and invites them to our parties; an assortment of their people are willing to get sand from the bottom of the river (as they can swim that deep easily) in exchange for fishing nets and snails we can easily obtain in trade, among other things.",
+          "raw": "[u0016 | source] Getting the glassworks running, of course, requires sand to supply materials. This is a solvable problem, because we have previously been of assistance to the nearby lizardfolk village (investigating a murder of one of their people) and thus they are not wholly isolationist about us. Robin extends an offer of mutual defense and invites them to our parties; an assortment of their people are willing to get sand from the bottom of the river (as they can swim that deep easily) in exchange for fishing nets and snails we can easily obtain in trade, among other things."
+        },
+        {
+          "uid": "u0017",
+          "header": "[u0017 | source]",
+          "text": "Celyn is happy to support Robin's diplomatic overtures and is, additionally, keeping an eye on the racist-against-lizardfolk miller in town, because he has taken a dislike to the man for being an unpleasant bigot. While he fully accepts that Some People Are Like That (as a complex matter of spiritual discipline), he also would like to see if they can gently rearrange life such that the man has some sort of consequences for being a shithead, and thus making lizardfolk more common sights in town has him feeling Exceptionally Popcorn. (Celyn is not Machiavellian in the slightest but his sense of humor has at least a _shade_ of fairy prankster to it.)",
+          "raw": "[u0017 | source] Celyn is happy to support Robin's diplomatic overtures and is, additionally, keeping an eye on the racist-against-lizardfolk miller in town, because he has taken a dislike to the man for being an unpleasant bigot. While he fully accepts that Some People Are Like That (as a complex matter of spiritual discipline), he also would like to see if they can gently rearrange life such that the man has some sort of consequences for being a shithead, and thus making lizardfolk more common sights in town has him feeling Exceptionally Popcorn. (Celyn is not Machiavellian in the slightest but his sense of humor has at least a _shade_ of fairy prankster to it.)"
+        },
+        {
+          "uid": "u0018",
+          "header": "[u0018 | source]",
+          "text": "Izgil meanwhile establishes some research resources in town, and Celyn insists on a Garden because _damnit he is a farm boy_. (Celyn has several other things going on with the Garden.) The fishing is excellent and the season looks good, so clearly the land/god of nature/both appreciate Robin's accession (or the end of the lich that had replaced the king, or both).",
+          "raw": "[u0018 | source] Izgil meanwhile establishes some research resources in town, and Celyn insists on a Garden because _damnit he is a farm boy_. (Celyn has several other things going on with the Garden.) The fishing is excellent and the season looks good, so clearly the land/god of nature/both appreciate Robin's accession (or the end of the lich that had replaced the king, or both)."
+        },
+        {
+          "uid": "u0019",
+          "header": "[u0019 | source]",
+          "text": "Asineau continues to settle into its new state of governance. Robin hosts a festival event with combat games added to the festivities (we are looking, in the long run, to continue to be training local people to fight, including against monsters and the like, so this is part of the Long Term Plan). A caravan of halflings comes to town and has a _long_ conversation with Celyn and whoever else joins in about appropriate clothing for the proper theatrics of local governance (which is _exactly_ how Celyn thinks of it, and his default costuming is Well-Off Peasant which does not suit Lord's Consort at all). The halflings indicate they will come sell fancy tailoring here every so often in the future. (This human village is becoming increasingly multi-namegiver in mode. Celyn continues to keep an eye on the miller while he monitors town gossip, which he often does by joining spinning circles. He is actually extremely good at spinning and a village always needs more spinners.)",
+          "raw": "[u0019 | source] Asineau continues to settle into its new state of governance. Robin hosts a festival event with combat games added to the festivities (we are looking, in the long run, to continue to be training local people to fight, including against monsters and the like, so this is part of the Long Term Plan). A caravan of halflings comes to town and has a _long_ conversation with Celyn and whoever else joins in about appropriate clothing for the proper theatrics of local governance (which is _exactly_ how Celyn thinks of it, and his default costuming is Well-Off Peasant which does not suit Lord's Consort at all). The halflings indicate they will come sell fancy tailoring here every so often in the future. (This human village is becoming increasingly multi-namegiver in mode. Celyn continues to keep an eye on the miller while he monitors town gossip, which he often does by joining spinning circles. He is actually extremely good at spinning and a village always needs more spinners.)"
+        },
+        {
+          "uid": "u0020",
+          "header": "[u0020 | source]",
+          "text": "The high-level adventuring party who killed the lich drop by to leave us some of their magic items before they go on a quest Across The Sea to attempt to resurrect their fallen party member, who was the one who could cast \"resurrection\". The new baron comes by on his riding the bounds and we do appropriate things about that. There are rumors of elemental dust from the Plaguelands in the south sweeping around and causing problems.",
+          "raw": "[u0020 | source] The high-level adventuring party who killed the lich drop by to leave us some of their magic items before they go on a quest Across The Sea to attempt to resurrect their fallen party member, who was the one who could cast \"resurrection\". The new baron comes by on his riding the bounds and we do appropriate things about that. There are rumors of elemental dust from the Plaguelands in the south sweeping around and causing problems."
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "b02",
+        "title": "Dragon Rumors East",
+        "startUid": "u0021",
+        "endUid": "u0025",
+        "lineCount": 5,
+        "dateStart": null,
+        "dateEnd": null,
+        "timeWindow": null,
+        "containsCombat": false,
+        "boundaryReason": "Vahaiya's warning about the dragon shifts the session from civic downtime into a new mission, and the beat ends once the party reaches Marwick and gathers the local threat picture.",
+        "dateEvidence": [],
+        "startIndex": 20,
+        "endIndex": 24
+      },
+      "previousBeat": {
+        "beatId": "b01",
+        "title": "Asineau Ascendant",
+        "dateStart": null,
+        "dateEnd": null
+      },
+      "nextBeat": {
+        "beatId": "b03",
+        "title": "Scouting the Ruins",
+        "dateStart": null,
+        "dateEnd": null
+      },
+      "session": {
+        "title": null,
+        "campaign": "Cleenseau",
+        "scope": "session",
+        "sourceType": "narrative",
+        "sessionNumber": 29,
+        "drStart": null,
+        "drEnd": null,
+        "realWorldDate": "2025-11-09",
+        "participants": [
+          {
+            "name": "Dan Walters",
+            "role": null,
+            "gameRole": "Robin"
+          },
+          {
+            "name": "Chris Kelly",
+            "role": null,
+            "gameRole": "Viepuck"
+          },
+          {
+            "name": "Kiya Nicoll",
+            "role": null,
+            "gameRole": "Celyn"
+          },
+          {
+            "name": "Matt Rand",
+            "role": null,
+            "gameRole": "Izgil"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
+        {
+          "uid": "u0021",
+          "header": "[u0021 | source]",
+          "text": "In high summer, Vahaiya, the elf who has been kicking around in the vicinity keeping an eye on the portal to the Feywild for us, brings us news that there is a dragon causing trouble on the border between Tyrwingha and Addermarch, and they are Concerned. (They have been muttering about wanting to retire and go home for months, but elves do not have a large sense of urgency about time on that scale; however, the dragon is motivating.) We in fact get rumors about the dragon both originating in Addermarch and with the army garrison on the other side of the mountain ridge in Tyrwingha, and everyone would like someone to deal with the dragon. (The Earl on the Addermarch side lost most of a full troop of knights trying.)",
+          "raw": "[u0021 | source] In high summer, Vahaiya, the elf who has been kicking around in the vicinity keeping an eye on the portal to the Feywild for us, brings us news that there is a dragon causing trouble on the border between Tyrwingha and Addermarch, and they are Concerned. (They have been muttering about wanting to retire and go home for months, but elves do not have a large sense of urgency about time on that scale; however, the dragon is motivating.) We in fact get rumors about the dragon both originating in Addermarch and with the army garrison on the other side of the mountain ridge in Tyrwingha, and everyone would like someone to deal with the dragon. (The Earl on the Addermarch side lost most of a full troop of knights trying.)"
+        },
+        {
+          "uid": "u0022",
+          "header": "[u0022 | source]",
+          "text": "Unfortunately for \"dealing with the dragon\" purposes, much of the army of Sembara was deliberately disrupted and/or destroyed by the lich; much of the functional army of Sembara and the Rangers have gone south to try to figure out what's up with these elemental dust or ash clouds that are apparently attacking things; everyone is, in short, hoping that Someone Will Step Up.",
+          "raw": "[u0022 | source] Unfortunately for \"dealing with the dragon\" purposes, much of the army of Sembara was deliberately disrupted and/or destroyed by the lich; much of the functional army of Sembara and the Rangers have gone south to try to figure out what's up with these elemental dust or ash clouds that are apparently attacking things; everyone is, in short, hoping that Someone Will Step Up."
+        },
+        {
+          "uid": "u0023",
+          "header": "[u0023 | source]",
+          "text": "So we step up.",
+          "raw": "[u0023 | source] So we step up."
+        },
+        {
+          "uid": "u0024",
+          "header": "[u0024 | source]",
+          "text": "Vaihaiya is a veteran of the Great War against a dragon that was also something nearly godlike and was there for the destruction of its death throes, which included the spawning of a fire dragon from outgassing from the corpse. Vaihaiya is very alarmed by the possibility that that thing might have come out of its known lair and started marauding. Viepuck does some mental research on dragons. We have a great deal of discussion about this on the road east, and eventually decide to go down the west side of the mountain range into Addermarch rather than the east side deeper into Tyrwingha because those people have more direct information about this specific dragon and its behaviors.",
+          "raw": "[u0024 | source] Vaihaiya is a veteran of the Great War against a dragon that was also something nearly godlike and was there for the destruction of its death throes, which included the spawning of a fire dragon from outgassing from the corpse. Vaihaiya is very alarmed by the possibility that that thing might have come out of its known lair and started marauding. Viepuck does some mental research on dragons. We have a great deal of discussion about this on the road east, and eventually decide to go down the west side of the mountain range into Addermarch rather than the east side deeper into Tyrwingha because those people have more direct information about this specific dragon and its behaviors."
+        },
+        {
+          "uid": "u0025",
+          "header": "[u0025 | source]",
+          "text": "So we make our way to Marwick, the castle in the vicinity of the dragon's attacks. The castle itself is half-abandoned; while the Earl is in place, she has been encouraging all non-essential personnel to retreat into the lowlands, including the herdsmen who would normally have their cattle up in the summer slopes of the mountains. We scope out the map of the vicinity, noting where all of the summer villages have been destroyed. The dragon is reputed to steal cattle and people, presumably to eat, and does not appear to care what sort of meat it gets, though it does seem to have a particular taste for horses. Or distaste. The dragon is, at least, not the scale of the one that Vahaiya is alarmed by, and they are greatly relieved that this is likely one of its spawn, not the thing that emerged back then.",
+          "raw": "[u0025 | source] So we make our way to Marwick, the castle in the vicinity of the dragon's attacks. The castle itself is half-abandoned; while the Earl is in place, she has been encouraging all non-essential personnel to retreat into the lowlands, including the herdsmen who would normally have their cattle up in the summer slopes of the mountains. We scope out the map of the vicinity, noting where all of the summer villages have been destroyed. The dragon is reputed to steal cattle and people, presumably to eat, and does not appear to care what sort of meat it gets, though it does seem to have a particular taste for horses. Or distaste. The dragon is, at least, not the scale of the one that Vahaiya is alarmed by, and they are greatly relieved that this is likely one of its spawn, not the thing that emerged back then."
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "b03",
+        "title": "Scouting the Ruins",
+        "startUid": "u0026",
+        "endUid": "u0027",
+        "lineCount": 2,
+        "dateStart": null,
+        "dateEnd": null,
+        "timeWindow": null,
+        "containsCombat": false,
+        "boundaryReason": "This field-investigation beat runs from the ballista plan through scouting the destroyed villages, discovering kobold sign, observing the dragon's route, and returning to complete the trap.",
+        "dateEvidence": [],
+        "startIndex": 25,
+        "endIndex": 26
+      },
+      "previousBeat": {
+        "beatId": "b02",
+        "title": "Dragon Rumors East",
+        "dateStart": null,
+        "dateEnd": null
+      },
+      "nextBeat": {
+        "beatId": "b04",
+        "title": "Kobolds Take the Cow",
+        "dateStart": null,
+        "dateEnd": null
+      },
+      "session": {
+        "title": null,
+        "campaign": "Cleenseau",
+        "scope": "session",
+        "sourceType": "narrative",
+        "sessionNumber": 29,
+        "drStart": null,
+        "drEnd": null,
+        "realWorldDate": "2025-11-09",
+        "participants": [
+          {
+            "name": "Dan Walters",
+            "role": null,
+            "gameRole": "Robin"
+          },
+          {
+            "name": "Chris Kelly",
+            "role": null,
+            "gameRole": "Viepuck"
+          },
+          {
+            "name": "Kiya Nicoll",
+            "role": null,
+            "gameRole": "Celyn"
+          },
+          {
+            "name": "Matt Rand",
+            "role": null,
+            "gameRole": "Izgil"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
+        {
+          "uid": "u0026",
+          "header": "[u0026 | source]",
+          "text": "Robin, who has been studying siege engineering as part of his efforts to fortify and properly defend his demesne, lays out plans for a ballista specially designed to deal with the \"dragons fly very fast and this is a substantial fraction of what makes them dangerous\" portion of the problem. Celyn goes to scout out the destroyed villages to see if more intel can be obtained, after promising Robin that he will be careful. Robin keeps Izgil to work with him, where Celyn takes Viepuck because Viepuck actually has the attention span to do serious investigation of Clues, which Celyn does ... not. (This is part roleplay, and part I have +10 to _notice things_ and +1 to _figure out clues_.) The scouting party takes one of the three surviving ones of the Earl's knights to help us figure things out, and goes up the mountain to investigate things.",
+          "raw": "[u0026 | source] Robin, who has been studying siege engineering as part of his efforts to fortify and properly defend his demesne, lays out plans for a ballista specially designed to deal with the \"dragons fly very fast and this is a substantial fraction of what makes them dangerous\" portion of the problem. Celyn goes to scout out the destroyed villages to see if more intel can be obtained, after promising Robin that he will be careful. Robin keeps Izgil to work with him, where Celyn takes Viepuck because Viepuck actually has the attention span to do serious investigation of Clues, which Celyn does ... not. (This is part roleplay, and part I have +10 to _notice things_ and +1 to _figure out clues_.) The scouting party takes one of the three surviving ones of the Earl's knights to help us figure things out, and goes up the mountain to investigate things."
+        },
+        {
+          "uid": "u0027",
+          "header": "[u0027 | source]",
+          "text": "The first wrecked mountain village is rubble and clawmarks and mud, and we don't find anything useful, so we putter along to a second wrecked mountain village, where Celyn— recently proficient with spotting tracks, specifically— finds in a sheltered spot a clawmark that looks like a _tiny_ dragon took off. \"Kobolds,\" we say. We camp out in the wilds and Celyn spends the next day up on the ridge trying to spy out the dragon, which leaves around teatime to go west and wreak destruction and steal silverware; having gotten this intel we return to the castle and Viepuck helps Robin put the finishing touches on the ballista with his power of Bardic Moral Support.",
+          "raw": "[u0027 | source] The first wrecked mountain village is rubble and clawmarks and mud, and we don't find anything useful, so we putter along to a second wrecked mountain village, where Celyn— recently proficient with spotting tracks, specifically— finds in a sheltered spot a clawmark that looks like a _tiny_ dragon took off. \"Kobolds,\" we say. We camp out in the wilds and Celyn spends the next day up on the ridge trying to spy out the dragon, which leaves around teatime to go west and wreak destruction and steal silverware; having gotten this intel we return to the castle and Viepuck helps Robin put the finishing touches on the ballista with his power of Bardic Moral Support."
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "b04",
+        "title": "Kobolds Take the Cow",
+        "startUid": "u0028",
+        "endUid": "u0048",
+        "lineCount": 21,
+        "dateStart": null,
+        "dateEnd": null,
+        "timeWindow": "evening",
+        "containsCombat": false,
+        "boundaryReason": "The ruined-village stakeout becomes a contained social-intelligence scene as the party intercepts the kobolds, wins their surrender, learns the factions around the dragon, and settles on an ambush plan.",
+        "dateEvidence": [],
+        "startIndex": 27,
+        "endIndex": 47
+      },
+      "previousBeat": {
+        "beatId": "b03",
+        "title": "Scouting the Ruins",
+        "dateStart": null,
+        "dateEnd": null
+      },
+      "nextBeat": {
+        "beatId": "b05",
+        "title": "Night Watch",
+        "dateStart": null,
+        "dateEnd": null
+      },
+      "session": {
+        "title": null,
+        "campaign": "Cleenseau",
+        "scope": "session",
+        "sourceType": "narrative",
+        "sessionNumber": 29,
+        "drStart": null,
+        "drEnd": null,
+        "realWorldDate": "2025-11-09",
+        "participants": [
+          {
+            "name": "Dan Walters",
+            "role": null,
+            "gameRole": "Robin"
+          },
+          {
+            "name": "Chris Kelly",
+            "role": null,
+            "gameRole": "Viepuck"
+          },
+          {
+            "name": "Kiya Nicoll",
+            "role": null,
+            "gameRole": "Celyn"
+          },
+          {
+            "name": "Matt Rand",
+            "role": null,
+            "gameRole": "Izgil"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
+        {
+          "uid": "u0028",
+          "header": "[u0028 | source]",
+          "text": "The plan: we obtain some cows fit to haul a wagon with the ballista parts in it and go to one of the wrecked villages. Here, we assemble and conceal the ballista under an illusion of a large boulder and lie in wait, in the hope that the dragon will come within range to nab the cows and we can ruin its day. Es*tiaslos goes up to the ridge where Celyn kept watch yesterday, and Celyn takes a watch point a little further down, closer to the ruined village, and we proceed to Lurk.",
+          "raw": "[u0028 | source] The plan: we obtain some cows fit to haul a wagon with the ballista parts in it and go to one of the wrecked villages. Here, we assemble and conceal the ballista under an illusion of a large boulder and lie in wait, in the hope that the dragon will come within range to nab the cows and we can ruin its day. Es*tiaslos goes up to the ridge where Celyn kept watch yesterday, and Celyn takes a watch point a little further down, closer to the ruined village, and we proceed to Lurk."
+        },
+        {
+          "uid": "u0029",
+          "header": "[u0029 | source]",
+          "text": "A little after teatime, Es*tiaslos is startled and conveys, \"Dragons are big, right?\" Celyn spots a group of four kobolds sneaking along the valley, with a fifth one - this one winged - gliding over them, though still fairly low to the ground. They are, of course, interested in The Cow. As they approach the ruined village, Celyn ghosts in behind them.",
+          "raw": "[u0029 | source] A little after teatime, Es*tiaslos is startled and conveys, \"Dragons are big, right?\" Celyn spots a group of four kobolds sneaking along the valley, with a fifth one - this one winged - gliding over them, though still fairly low to the ground. They are, of course, interested in The Cow. As they approach the ruined village, Celyn ghosts in behind them."
+        },
+        {
+          "uid": "u0030",
+          "header": "[u0030 | source]",
+          "text": "The rest of the party does not have a stealth rating in the high twenties. The kobolds pause again, having spotted Izgil, and decide to try sneaking around him to get to the cow. As they loop past, Viepuck hits them with a sleep spell, downing three of them. Agitated, the winged one wakes up one of them, the other one wakes up another.",
+          "raw": "[u0030 | source] The rest of the party does not have a stealth rating in the high twenties. The kobolds pause again, having spotted Izgil, and decide to try sneaking around him to get to the cow. As they loop past, Viepuck hits them with a sleep spell, downing three of them. Agitated, the winged one wakes up one of them, the other one wakes up another."
+        },
+        {
+          "uid": "u0031",
+          "header": "[u0031 | source]",
+          "text": "Izgil causes the sleeping one to sink into a pit, and Viepuck casts light on his hand and steps out from 'behind' the illusory boulder to threaten them. The kobolds dither a bit about whether or not Viepuck was the one who put them to sleep and Celyn, who is not sure whether they're about to do something stupid, decides to provide reinforcements by ghosting out of the shadows and declaring, \"Hi!\" (And, as is common for Celyn, rolling a four on intimidation. The only time he actually scares anyone is when he's holding a bloody weapon....)",
+          "raw": "[u0031 | source] Izgil causes the sleeping one to sink into a pit, and Viepuck casts light on his hand and steps out from 'behind' the illusory boulder to threaten them. The kobolds dither a bit about whether or not Viepuck was the one who put them to sleep and Celyn, who is not sure whether they're about to do something stupid, decides to provide reinforcements by ghosting out of the shadows and declaring, \"Hi!\" (And, as is common for Celyn, rolling a four on intimidation. The only time he actually scares anyone is when he's holding a bloody weapon....)"
+        },
+        {
+          "uid": "u0032",
+          "header": "[u0032 | source]",
+          "text": "We convince the kobolds to surrender without a fight, and proceed to start pumping them for information. THe flying one is effectively their party leader, though her sister (who was in the pit) is not enthralled with her resulting charisma, merely indulgent and patient about it. The kobolds are unconvinced that we can kill the dragon until Robin (on Greymalkin) emerges from concealment.",
+          "raw": "[u0032 | source] We convince the kobolds to surrender without a fight, and proceed to start pumping them for information. THe flying one is effectively their party leader, though her sister (who was in the pit) is not enthralled with her resulting charisma, merely indulgent and patient about it. The kobolds are unconvinced that we can kill the dragon until Robin (on Greymalkin) emerges from concealment."
+        },
+        {
+          "uid": "u0033",
+          "header": "[u0033 | source]",
+          "text": "Kobold: _THat's_ better. [gestures at Viepuck] You did not look like you could stab a dragon. [looks at Celyn, pauses] You look stabby.",
+          "raw": "[u0033 | source] Kobold: _THat's_ better. [gestures at Viepuck] You did not look like you could stab a dragon. [looks at Celyn, pauses] You look stabby."
+        },
+        {
+          "uid": "u0034",
+          "header": "[u0034 | source]",
+          "text": "Celyn: I'm stabby. He's [indicating Robin] smashy.",
+          "raw": "[u0034 | source] Celyn: I'm stabby. He's [indicating Robin] smashy."
+        },
+        {
+          "uid": "u0035",
+          "header": "[u0035 | source]",
+          "text": "The flying kobold has a number of suggestions about what we should do now that founder on the fact that we can't fly. She is of the opinion that \"Flight makes right!\" and preens her wings at us. Eventually she nods firmly and says that we have _magic_ flying powers that we don't want to tell her about, but we will eventually go up to the dragon with our magic powers and destroy it.",
+          "raw": "[u0035 | source] The flying kobold has a number of suggestions about what we should do now that founder on the fact that we can't fly. She is of the opinion that \"Flight makes right!\" and preens her wings at us. Eventually she nods firmly and says that we have _magic_ flying powers that we don't want to tell her about, but we will eventually go up to the dragon with our magic powers and destroy it."
+        },
+        {
+          "uid": "u0036",
+          "header": "[u0036 | source]",
+          "text": "When we say the cow was to lure the dragon she basically goes, \"Are you stupid?\" at us. The dragon, you see, is a terrifying force of destruction motivated by burning things, not by cows. Cows are for motivating kobolds. They are motivated. See? ... can they have a cow for being so helpful?",
+          "raw": "[u0036 | source] When we say the cow was to lure the dragon she basically goes, \"Are you stupid?\" at us. The dragon, you see, is a terrifying force of destruction motivated by burning things, not by cows. Cows are for motivating kobolds. They are motivated. See? ... can they have a cow for being so helpful?"
+        },
+        {
+          "uid": "u0037",
+          "header": "[u0037 | source]",
+          "text": "We continue to pump the kobolds for information; Viepuck is reading thoughts on the winged one at this point, having dropped the telepathic link he had to Celyn when Celyn was scouting. It comes out over time that there are eighteen kobolds that were brought up from the south when something is rumored to have _eaten_ the dragon that Vahaiya is afraid of. One of those elemental ash cloud things. It's very exciting in the south right now. Faction one of the kobolds wishes the dragon to grow strong by careful action until it can return south and deal with this nonsense. Faction two wants the dragon to rampage for plunder and glory. Faction three, who we happen to be talking to, thinks this is all kind of a lot and would run away except that if they do that the dragon will hunt them down and roast them and they are not in favor of being kebabs. (They would, however, like us to take out the other faction heads.)",
+          "raw": "[u0037 | source] We continue to pump the kobolds for information; Viepuck is reading thoughts on the winged one at this point, having dropped the telepathic link he had to Celyn when Celyn was scouting. It comes out over time that there are eighteen kobolds that were brought up from the south when something is rumored to have _eaten_ the dragon that Vahaiya is afraid of. One of those elemental ash cloud things. It's very exciting in the south right now. Faction one of the kobolds wishes the dragon to grow strong by careful action until it can return south and deal with this nonsense. Faction two wants the dragon to rampage for plunder and glory. Faction three, who we happen to be talking to, thinks this is all kind of a lot and would run away except that if they do that the dragon will hunt them down and roast them and they are not in favor of being kebabs. (They would, however, like us to take out the other faction heads.)"
+        },
+        {
+          "uid": "u0038",
+          "header": "[u0038 | source]",
+          "text": "Celyn: Does the dragon have weak spots?",
+          "raw": "[u0038 | source] Celyn: Does the dragon have weak spots?"
+        },
+        {
+          "uid": "u0039",
+          "header": "[u0039 | source]",
+          "text": "Kobold: I don't think so. He's very strong.",
+          "raw": "[u0039 | source] Kobold: I don't think so. He's very strong."
+        },
+        {
+          "uid": "u0040",
+          "header": "[u0040 | source]",
+          "text": "Celyn, grinning: I _like_ weak spots.",
+          "raw": "[u0040 | source] Celyn, grinning: I _like_ weak spots."
+        },
+        {
+          "uid": "u0041",
+          "header": "[u0041 | source]",
+          "text": "Kobold: [edging away nervously]",
+          "raw": "[u0041 | source] Kobold: [edging away nervously]"
+        },
+        {
+          "uid": "u0042",
+          "header": "[u0042 | source]",
+          "text": "After further discussion, we determine two possible plans.",
+          "raw": "[u0042 | source] After further discussion, we determine two possible plans."
+        },
+        {
+          "uid": "u0043",
+          "header": "[u0043 | source]",
+          "text": "Plan A: The kobolds go back to the lair and keep mum. We move the ballista into the valley between the ridges, conceal, and hide until teatime when the dragon goes out to wreck something.",
+          "raw": "[u0043 | source] Plan A: The kobolds go back to the lair and keep mum. We move the ballista into the valley between the ridges, conceal, and hide until teatime when the dragon goes out to wreck something."
+        },
+        {
+          "uid": "u0044",
+          "header": "[u0044 | source]",
+          "text": "Plan A.1: The dragon, upon departure, either picks the direction the party is in or spots the party, and we counter-ambush its attack with the ballista.",
+          "raw": "[u0044 | source] Plan A.1: The dragon, upon departure, either picks the direction the party is in or spots the party, and we counter-ambush its attack with the ballista."
+        },
+        {
+          "uid": "u0045",
+          "header": "[u0045 | source]",
+          "text": "Plan A.2: The dragon departs, and we go up, deal with the kobolds who are likely to help the dragon in a fight, then move the ballista to where we can get the dragon when it returns around midnight.",
+          "raw": "[u0045 | source] Plan A.2: The dragon departs, and we go up, deal with the kobolds who are likely to help the dragon in a fight, then move the ballista to where we can get the dragon when it returns around midnight."
+        },
+        {
+          "uid": "u0046",
+          "header": "[u0046 | source]",
+          "text": "Plan B: The kobolds do _not_ return, which will enrage the dragon when he comes back to the lair and send him hunting for them, at which point we will ambush.",
+          "raw": "[u0046 | source] Plan B: The kobolds do _not_ return, which will enrage the dragon when he comes back to the lair and send him hunting for them, at which point we will ambush."
+        },
+        {
+          "uid": "u0047",
+          "header": "[u0047 | source]",
+          "text": "The kobolds are unwilling to support Plan B (we are a little unwilling to let them go back because they are not that bright and might let something slip) until Viepuck disguises himself as the winged one and says, \"But if you were here roasting a cow, he'd come for you, right?\" The winged kobold pokes a finger through the wing, determining it is an illusion, and Viepuck confides that he is sad that it is an illusion, because \"Wings are awesome,\" which of course makes her preen again.",
+          "raw": "[u0047 | source] The kobolds are unwilling to support Plan B (we are a little unwilling to let them go back because they are not that bright and might let something slip) until Viepuck disguises himself as the winged one and says, \"But if you were here roasting a cow, he'd come for you, right?\" The winged kobold pokes a finger through the wing, determining it is an illusion, and Viepuck confides that he is sad that it is an illusion, because \"Wings are awesome,\" which of course makes her preen again."
+        },
+        {
+          "uid": "u0048",
+          "header": "[u0048 | source]",
+          "text": "Robin - with the assistance of a little Bardic Moral Support - convinces the kobolds to stick close enough that they can help fight the rampage-and-plunder faction of other kobolds if they show up, because Robin has tremendous persuasive power.",
+          "raw": "[u0048 | source] Robin - with the assistance of a little Bardic Moral Support - convinces the kobolds to stick close enough that they can help fight the rampage-and-plunder faction of other kobolds if they show up, because Robin has tremendous persuasive power."
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "b05",
+        "title": "Night Watch",
+        "startUid": "u0049",
+        "endUid": "u0051",
+        "lineCount": 3,
+        "dateStart": null,
+        "dateEnd": null,
+        "timeWindow": "night",
+        "containsCombat": false,
+        "boundaryReason": "The final beat is a short cliffhanger in which the party waits outside the lair until Es*tiaslos reports the dragon and its escort approaching after midnight.",
+        "dateEvidence": [],
+        "startIndex": 48,
+        "endIndex": 50
+      },
+      "previousBeat": {
+        "beatId": "b04",
+        "title": "Kobolds Take the Cow",
+        "dateStart": null,
+        "dateEnd": null
+      },
+      "nextBeat": null,
+      "session": {
+        "title": null,
+        "campaign": "Cleenseau",
+        "scope": "session",
+        "sourceType": "narrative",
+        "sessionNumber": 29,
+        "drStart": null,
+        "drEnd": null,
+        "realWorldDate": "2025-11-09",
+        "participants": [
+          {
+            "name": "Dan Walters",
+            "role": null,
+            "gameRole": "Robin"
+          },
+          {
+            "name": "Chris Kelly",
+            "role": null,
+            "gameRole": "Viepuck"
+          },
+          {
+            "name": "Kiya Nicoll",
+            "role": null,
+            "gameRole": "Celyn"
+          },
+          {
+            "name": "Matt Rand",
+            "role": null,
+            "gameRole": "Izgil"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
+        {
+          "uid": "u0049",
+          "header": "[u0049 | source]",
+          "text": "Es*tiaslos goes up to the vicinity of the lair to provide us the five minute warning of impending dragon. At about one in the morning, it reports that the dragon and five kobolds are en route.",
+          "raw": "[u0049 | source] Es*tiaslos goes up to the vicinity of the lair to provide us the five minute warning of impending dragon. At about one in the morning, it reports that the dragon and five kobolds are en route."
+        },
+        {
+          "uid": "u0050",
+          "header": "[u0050 | source]",
+          "text": "(Robin wants to adopt the kobolds and take them back to Asineau after this fight.)",
+          "raw": "[u0050 | source] (Robin wants to adopt the kobolds and take them back to Asineau after this fight.)"
+        },
+        {
+          "uid": "u0051",
+          "header": "[u0051 | source]",
+          "text": "(Celyn does not have enough popcorn for how the miller's going to take that.)",
+          "raw": "[u0051 | source] (Celyn does not have enough popcorn for how the miller's going to take that.)"
+        }
+      ],
+      "supplementalSources": []
+    }
+  ]
+}

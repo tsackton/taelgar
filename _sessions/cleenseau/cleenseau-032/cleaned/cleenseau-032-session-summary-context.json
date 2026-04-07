@@ -1,0 +1,662 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-032/cleaned/cleenseau-032-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-032/cleaned/cleenseau-032-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-032/cleaned/cleenseau-032-beat-facts.json",
+  "session": {
+    "campaign": "Cleenseau",
+    "scope": "session",
+    "sessionNumber": 32,
+    "realWorldDate": "2026-03-08",
+    "drStart": null,
+    "drEnd": null
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "undated",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003"
+      ],
+      "locationRefs": [
+        "Cleenseau",
+        "thorn maze in the Feywild"
+      ],
+      "npcRefs": [
+        "Greymalkin"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "barrel of tar",
+        "Robin's lantern"
+      ],
+      "combatBeatIds": [
+        "beat-002",
+        "beat-003"
+      ],
+      "sourceShortSummaries": [
+        "The party equips itself in Cleenseau, slips through the portal under concealment, and maps a cautious long route into the thorn maze beyond.",
+        "Hostile grabby vines force the party to learn the maze's rules the hard way and fight their way onward with radiant magic and lantern light.",
+        "At the maze's heart, the party survives a collapsing chamber, destroys the thorn knot powering the portal, kills its guardian, and escapes through the dead maze."
+      ],
+      "sourceLongSummaries": [
+        "After recapping the queen's request that they permanently close the Feywild portal, the party gathers specialized supplies, prays for concealment, and enters the portal. On the far side they find a cold, soggy thorn maze under ritual strain, spot magical tendrils running toward a distant peak, and use Es*tiaslos and Izgil's mapping skills to choose the longer route inward on the theory that the direct path is a trap.",
+        "At the roofed portion of the maze the party discovers that the hanging thorn vines are very much alive and react badly to experimentation. Necrotic damage only enrages them, physical attacks are ineffective, and each dead vine bursts with poisonous ichor, so Celyn and Izgil settle on burning them down with radiant cantrips while Robin's lantern and magical lights keep the twisting passages navigable on the way to the center.",
+        "The center chamber reveals a massive thorn knot fed by ritual energy from a distant peak, and the room immediately turns hostile when the roof drops on Viepuck. Once he escapes, the party studies the knot under pressure, with Viepuck opening a Far Realms rift against it and Celyn forcing his insight through with divine aid while Izgil floods the chamber with moonlight. As the immobile knot burns down, a thorn monster emerges to protect it, but the party stalls and beats it long enough for Viepuck to destroy the last glowing remnant, collapsing the ritual, stilling the maze, and letting the group escape after setting more of the thorns ablaze."
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "undated",
+      "beatIds": [
+        "beat-004",
+        "beat-005"
+      ],
+      "locationRefs": [
+        "thorn maze in the Feywild",
+        "pine forest cottage in the Feywild"
+      ],
+      "npcRefs": [
+        "Greymalkin",
+        "old lady of the pine cottage",
+        "goatboy servant"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Robin's lantern"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "After sealing the portal, the party races east through the Gloomshaper's lands, finds uncannily favorable travel, and reaches a suspicious cottage in a pine forest.",
+        "Inside the cottage, the party survives a strict etiquette test, dreadful tea, and Greymalkin's outrage while slowly learning that a goat-headed servant fled Izar the Red."
+      ],
+      "sourceLongSummaries": [
+        "Once the maze is behind them, the party cloaks its tracks again and flees east in hopes of reaching the edge of the Gloomshaper's directly claimed territory before resting. The escape goes unnervingly well, as if they have stepped onto a cosmic conveyor belt, and after two hard hours they reach a gentler stretch of hills and pine woods where a welcoming path leads straight to a cottage watched by a raven with one bright human eye.",
+        "The cottage proves to belong to an archetypal little old lady who insists on civilized behavior, even as the party discovers a goat-headed servant in the back and Greymalkin loudly objects to the whole arrangement. By sitting, speaking politely, repairing broken crockery, and flattering her truly terrible tea, the group gradually restores her approval. In the course of that careful social dance, Viepuck learns that the goatboy once served Izar the Red, a frightening figure who keeps trophies taken from defeated fey."
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "undated",
+      "beatIds": [
+        "beat-006"
+      ],
+      "locationRefs": [
+        "pine forest cottage in the Feywild"
+      ],
+      "npcRefs": [
+        "old lady of the pine cottage",
+        "goatboy servant",
+        "Greymalkin"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Questioning the goatboy reveals that Izar keeps wings that may be Greymalkin's, and over dinner the old lady all but invites the party to move against him."
+      ],
+      "sourceLongSummaries": [
+        "With the old lady's permission, the party speaks to the goatboy directly and learns that his brother is still trapped in Izar's service and that Izar keeps a pair of wings in his trophy room that may once have belonged to Greymalkin. Dinner follows, with the old lady serving a deeply strange but carefully endured meal while the party discusses Izar more openly. She makes it clear that he is bad for the neighborhood and that she would not object if someone did something about him."
+      ]
+    },
+    {
+      "blockId": "timeline-004",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "undated",
+      "beatIds": [
+        "beat-007"
+      ],
+      "locationRefs": [
+        "pine forest cottage in the Feywild",
+        "Izar's keep"
+      ],
+      "npcRefs": [
+        "old lady of the pine cottage",
+        "goatboy servant"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "weirdberry cakes"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "By morning the party has traded for the goatboy, taken directions to Izar's keep, and marched halfway there before stopping at lunch to decide how they can help him."
+      ],
+      "sourceLongSummaries": [
+        "In the morning the old lady gives the party directions, and Viepuck trades a hundred weirdberries for the goatboy, whose transformation has already shifted again. She makes clear that she will not reverse the curse herself, but the goatboy may still be useful if he can guide the party into Izar's keep. The group heads out, pauses halfway there over lunch, and closes the session while deciding what limited aid they can offer him before the confrontation ahead."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Toward the Portal",
+      "beatIds": [
+        "beat-001"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0015"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0015"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "undated",
+      "locationRefs": [
+        "Cleenseau",
+        "thorn maze in the Feywild"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "barrel of tar"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party equips itself in Cleenseau, slips through the portal under concealment, and maps a cautious long route into the thorn maze beyond."
+      ],
+      "sourceLongSummaries": [
+        "After recapping the queen's request that they permanently close the Feywild portal, the party gathers specialized supplies, prays for concealment, and enters the portal. On the far side they find a cold, soggy thorn maze under ritual strain, spot magical tendrils running toward a distant peak, and use Es*tiaslos and Izgil's mapping skills to choose the longer route inward on the theory that the direct path is a trap."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "combat",
+      "title": "Vines on the Long Route to The Gazebo Falls",
+      "beatIds": [
+        "beat-002",
+        "beat-003"
+      ],
+      "sourceRange": {
+        "startUid": "u0016",
+        "endUid": "u0030"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0016",
+          "endUid": "u0018"
+        },
+        {
+          "startUid": "u0019",
+          "endUid": "u0030"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "undated",
+      "locationRefs": [
+        "thorn maze in the Feywild"
+      ],
+      "npcRefs": [
+        "Greymalkin"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Robin's lantern",
+        "barrel of tar"
+      ],
+      "combatEnemyRefs": [
+        "grabby vines",
+        "thorn knot",
+        "thorn monster"
+      ],
+      "sourceShortSummaries": [
+        "Hostile grabby vines force the party to learn the maze's rules the hard way and fight their way onward with radiant magic and lantern light.",
+        "At the maze's heart, the party survives a collapsing chamber, destroys the thorn knot powering the portal, kills its guardian, and escapes through the dead maze."
+      ],
+      "sourceLongSummaries": [
+        "At the roofed portion of the maze the party discovers that the hanging thorn vines are very much alive and react badly to experimentation. Necrotic damage only enrages them, physical attacks are ineffective, and each dead vine bursts with poisonous ichor, so Celyn and Izgil settle on burning them down with radiant cantrips while Robin's lantern and magical lights keep the twisting passages navigable on the way to the center.",
+        "The center chamber reveals a massive thorn knot fed by ritual energy from a distant peak, and the room immediately turns hostile when the roof drops on Viepuck. Once he escapes, the party studies the knot under pressure, with Viepuck opening a Far Realms rift against it and Celyn forcing his insight through with divine aid while Izgil floods the chamber with moonlight. As the immobile knot burns down, a thorn monster emerges to protect it, but the party stalls and beats it long enough for Viepuck to destroy the last glowing remnant, collapsing the ritual, stilling the maze, and letting the group escape after setting more of the thorns ablaze."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Flight to the Pine Forest",
+      "beatIds": [
+        "beat-004"
+      ],
+      "sourceRange": {
+        "startUid": "u0031",
+        "endUid": "u0035"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0031",
+          "endUid": "u0035"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "undated",
+      "locationRefs": [
+        "thorn maze in the Feywild",
+        "pine forest cottage in the Feywild"
+      ],
+      "npcRefs": [
+        "Greymalkin",
+        "old lady of the pine cottage"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "After sealing the portal, the party races east through the Gloomshaper's lands, finds uncannily favorable travel, and reaches a suspicious cottage in a pine forest."
+      ],
+      "sourceLongSummaries": [
+        "Once the maze is behind them, the party cloaks its tracks again and flees east in hopes of reaching the edge of the Gloomshaper's directly claimed territory before resting. The escape goes unnervingly well, as if they have stepped onto a cosmic conveyor belt, and after two hard hours they reach a gentler stretch of hills and pine woods where a welcoming path leads straight to a cottage watched by a raven with one bright human eye."
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Tea Under House Rules",
+      "beatIds": [
+        "beat-005"
+      ],
+      "sourceRange": {
+        "startUid": "u0036",
+        "endUid": "u0044"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0036",
+          "endUid": "u0044"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "undated",
+      "locationRefs": [
+        "pine forest cottage in the Feywild"
+      ],
+      "npcRefs": [
+        "old lady of the pine cottage",
+        "Greymalkin",
+        "goatboy servant"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Robin's lantern"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Inside the cottage, the party survives a strict etiquette test, dreadful tea, and Greymalkin's outrage while slowly learning that a goat-headed servant fled Izar the Red."
+      ],
+      "sourceLongSummaries": [
+        "The cottage proves to belong to an archetypal little old lady who insists on civilized behavior, even as the party discovers a goat-headed servant in the back and Greymalkin loudly objects to the whole arrangement. By sitting, speaking politely, repairing broken crockery, and flattering her truly terrible tea, the group gradually restores her approval. In the course of that careful social dance, Viepuck learns that the goatboy once served Izar the Red, a frightening figure who keeps trophies taken from defeated fey."
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "Wings in the Trophy Room",
+      "beatIds": [
+        "beat-006"
+      ],
+      "sourceRange": {
+        "startUid": "u0045",
+        "endUid": "u0050"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0045",
+          "endUid": "u0050"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "undated",
+      "locationRefs": [
+        "pine forest cottage in the Feywild"
+      ],
+      "npcRefs": [
+        "old lady of the pine cottage",
+        "goatboy servant",
+        "Greymalkin"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Questioning the goatboy reveals that Izar keeps wings that may be Greymalkin's, and over dinner the old lady all but invites the party to move against him."
+      ],
+      "sourceLongSummaries": [
+        "With the old lady's permission, the party speaks to the goatboy directly and learns that his brother is still trapped in Izar's service and that Izar keeps a pair of wings in his trophy room that may once have belonged to Greymalkin. Dinner follows, with the old lady serving a deeply strange but carefully endured meal while the party discusses Izar more openly. She makes it clear that he is bad for the neighborhood and that she would not object if someone did something about him."
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "beat",
+      "title": "Morning Trade and Pursuit",
+      "beatIds": [
+        "beat-007"
+      ],
+      "sourceRange": {
+        "startUid": "u0051",
+        "endUid": "u0053"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0051",
+          "endUid": "u0053"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "undated",
+      "locationRefs": [
+        "pine forest cottage in the Feywild",
+        "Izar's keep"
+      ],
+      "npcRefs": [
+        "old lady of the pine cottage",
+        "goatboy servant"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "weirdberry cakes"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "By morning the party has traded for the goatboy, taken directions to Izar's keep, and marched halfway there before stopping at lunch to decide how they can help him."
+      ],
+      "sourceLongSummaries": [
+        "In the morning the old lady gives the party directions, and Viepuck trades a hundred weirdberries for the goatboy, whose transformation has already shifted again. She makes clear that she will not reverse the curse herself, but the goatboy may still be useful if he can guide the party into Izar's keep. The group heads out, pauses halfway there over lunch, and closes the session while deciding what limited aid they can offer him before the confrontation ahead."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Greymalkin",
+        "beatIds": [
+          "beat-003",
+          "beat-004",
+          "beat-005",
+          "beat-006"
+        ],
+        "relationKinds": [
+          "companion"
+        ]
+      },
+      {
+        "name": "old lady of the pine cottage",
+        "beatIds": [
+          "beat-004",
+          "beat-005",
+          "beat-006",
+          "beat-007"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "goatboy servant",
+        "beatIds": [
+          "beat-005",
+          "beat-006",
+          "beat-007"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-002",
+        "beatIds": [
+          "beat-002",
+          "beat-003"
+        ],
+        "enemyRefs": [
+          "grabby vines",
+          "thorn knot",
+          "thorn monster"
+        ],
+        "dateStart": null,
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Cleenseau",
+        "beatIds": [
+          "beat-001"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "thorn maze in the Feywild",
+        "beatIds": [
+          "beat-001",
+          "beat-002",
+          "beat-003",
+          "beat-004"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "pine forest cottage in the Feywild",
+        "beatIds": [
+          "beat-004",
+          "beat-005",
+          "beat-006",
+          "beat-007"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Izar's keep",
+        "beatIds": [
+          "beat-007"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Greymalkin",
+          "relationKinds": [
+            "companion"
+          ],
+          "contextHint": "Robin's wingless gryphon",
+          "beatIds": [
+            "beat-003",
+            "beat-004",
+            "beat-005",
+            "beat-006"
+          ],
+          "history": []
+        },
+        {
+          "name": "old lady of the pine cottage",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "host at the cottage",
+          "beatIds": [
+            "beat-004",
+            "beat-005",
+            "beat-006",
+            "beat-007"
+          ],
+          "history": []
+        },
+        {
+          "name": "goatboy servant",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "former servant of Izar the Red",
+          "beatIds": [
+            "beat-005",
+            "beat-006",
+            "beat-007"
+          ],
+          "history": []
+        }
+      ],
+      "locations": [
+        {
+          "name": "Cleenseau",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "final preparations in town, the hidden approach to the portal, and the first mapped passages beyond it",
+          "beatIds": [
+            "beat-001"
+          ],
+          "visits": []
+        },
+        {
+          "name": "thorn maze in the Feywild",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "final preparations in town, the hidden approach to the portal, and the first mapped passages beyond it",
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-003",
+            "beat-004"
+          ],
+          "visits": []
+        },
+        {
+          "name": "pine forest cottage in the Feywild",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "a hurried eastward retreat across the Gloomshaper's territory into a less oppressive pine wood",
+          "beatIds": [
+            "beat-004",
+            "beat-005",
+            "beat-006",
+            "beat-007"
+          ],
+          "visits": []
+        },
+        {
+          "name": "Izar's keep",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "the morning departure from the cottage and the midday halt halfway to the keep",
+          "beatIds": [
+            "beat-007"
+          ],
+          "visits": []
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "barrel of tar",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001",
+            "beat-003"
+          ],
+          "history": []
+        },
+        {
+          "name": "Robin's lantern",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-002",
+            "beat-005"
+          ],
+          "history": []
+        },
+        {
+          "name": "weirdberry cakes",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-007"
+          ],
+          "history": []
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Ethlenn",
+          "contextHint": "fey queen of Tyrwingha"
+        },
+        {
+          "name": "Gloomshaper",
+          "contextHint": "archfey whose territory the party is fleeing"
+        },
+        {
+          "name": "Izar the Red",
+          "contextHint": "frightening master named by the goatboy's memories"
+        },
+        {
+          "name": "Cloudspinner",
+          "contextHint": "absent ruler of Amberglow"
+        }
+      ],
+      "locations": [],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Greymalkin's wings",
+          "contextHint": null
+        }
+      ]
+    }
+  }
+}

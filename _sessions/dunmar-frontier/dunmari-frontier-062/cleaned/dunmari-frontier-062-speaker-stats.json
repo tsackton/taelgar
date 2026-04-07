@@ -1,0 +1,86 @@
+{
+  "totalDurationSeconds": 12934.984,
+  "speakers": [
+    {
+      "transcriptIdentifier": "Alimash- Human Battlemaster Fighter",
+      "name": "Alimash (player unknown)",
+      "gameRole": "Alimash",
+      "segmentCount": 338,
+      "durationSeconds": 1399.57,
+      "fraction": 0.1082,
+      "wordCount": 3708
+    },
+    {
+      "transcriptIdentifier": "Artem Novolozek (he/human/wizard)",
+      "name": "Mike Sackton",
+      "gameRole": "Artem Novolozek",
+      "segmentCount": 559,
+      "durationSeconds": 2116.046,
+      "fraction": 0.1636,
+      "wordCount": 5554
+    },
+    {
+      "transcriptIdentifier": "Eric Rosenbaum",
+      "name": "Eric Rosenbaum",
+      "gameRole": "Rufus",
+      "segmentCount": 176,
+      "durationSeconds": 540.501,
+      "fraction": 0.0418,
+      "wordCount": 1321
+    },
+    {
+      "transcriptIdentifier": "Nope",
+      "name": null,
+      "gameRole": "Nope",
+      "segmentCount": 1,
+      "durationSeconds": 0.85,
+      "fraction": 0.0001,
+      "wordCount": 0
+    },
+    {
+      "transcriptIdentifier": "Rev. David (he/him)",
+      "name": "David Schwartz",
+      "gameRole": "Wellby",
+      "segmentCount": 211,
+      "durationSeconds": 808.751,
+      "fraction": 0.0625,
+      "wordCount": 2036
+    },
+    {
+      "transcriptIdentifier": "Shoal - Sea Elf Rune Knight",
+      "name": "Phil Grayson",
+      "gameRole": "Shoal",
+      "segmentCount": 247,
+      "durationSeconds": 1210.537,
+      "fraction": 0.0936,
+      "wordCount": 2781
+    },
+    {
+      "transcriptIdentifier": "Timothy Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 1779,
+      "durationSeconds": 6747.268,
+      "fraction": 0.5216,
+      "wordCount": 15619
+    },
+    {
+      "transcriptIdentifier": "Um",
+      "name": null,
+      "gameRole": "Um",
+      "segmentCount": 1,
+      "durationSeconds": 1.2,
+      "fraction": 0.0001,
+      "wordCount": 0
+    },
+    {
+      "transcriptIdentifier": "Unknown",
+      "name": null,
+      "gameRole": "Unknown",
+      "segmentCount": 84,
+      "durationSeconds": 110.261,
+      "fraction": 0.0085,
+      "wordCount": 185
+    }
+  ]
+}

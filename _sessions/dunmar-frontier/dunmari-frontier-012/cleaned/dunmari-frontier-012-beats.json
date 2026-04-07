@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session.yaml",
+  "beats": [
+    {
+      "beatId": "recap-01",
+      "title": "Morning at Raven's Hold",
+      "startUid": "u0001",
+      "endUid": "u0337",
+      "lineCount": 337,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The beat covers the wake-up recap, character check-in, and first sighting of the approaching gnolls before the first attack is launched.",
+      "dateEvidence": [
+        "The opening narration places the scene at morning on 1748-04-13 at Raven's Hold.",
+        "The party has only just awakened and begun preparing breakfast when the threat appears."
+      ]
+    },
+    {
+      "beatId": "recap-02",
+      "title": "Demon Falls at the Gate",
+      "startUid": "u0338",
+      "endUid": "u0781",
+      "lineCount": 444,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Combat begins with Wellby's opening shot and stays focused on the initial ranged exchange while the party holds the towers.",
+      "dateEvidence": [
+        "The attack follows immediately from the same morning wake-up scene with no time break.",
+        "The session note describes the demon being killed first as the opening turn of the fight."
+      ]
+    },
+    {
+      "beatId": "recap-03",
+      "title": "Holding the Gatehouse Door",
+      "startUid": "u0782",
+      "endUid": "u1185",
+      "lineCount": 404,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The fight shifts into the choke-point defense at the doors, with Kenzo preparing to hold the opening as the gnolls press forward.",
+      "dateEvidence": [
+        "The combat continues continuously from the opening exchange on the same morning.",
+        "The action remains at the gatehouse with no travel or rest transition."
+      ]
+    },
+    {
+      "beatId": "recap-04",
+      "title": "Gnolls Breach the Gate",
+      "startUid": "u1186",
+      "endUid": "u1579",
+      "lineCount": 394,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The doors are open and the melee turns into the main gate struggle until only one fleeing gnoll remains.",
+      "dateEvidence": [
+        "This is the same uninterrupted battle sequence on 1748-04-13.",
+        "The transcript has not advanced beyond the early morning fight at Raven's Hold."
+      ]
+    },
+    {
+      "beatId": "recap-05",
+      "title": "Last Gnoll Breaks Away",
+      "startUid": "u1580",
+      "endUid": "u1805",
+      "lineCount": 226,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The last gate gnoll flees and the party improvises ropes, movement, and finishing blows before the chase properly begins.",
+      "dateEvidence": [
+        "The fleeing gnoll sequence happens immediately after the gate fight with no pause.",
+        "Hyenas are still asleep from the same ongoing combat scene, confirming the same morning."
+      ]
+    },
+    {
+      "beatId": "recap-06",
+      "title": "Chasing the Fleeing Gnoll",
+      "startUid": "u1806",
+      "endUid": "u2094",
+      "lineCount": 289,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The scene moves from the gate to the outer plaza, where Kenzo and Wellby pursue the fleeing gnoll and the party clears the last attackers.",
+      "dateEvidence": [
+        "The pursuit runs directly out of the gate combat with no elapsed-day change.",
+        "The transcript still identifies the time as morning during the chase."
+      ]
+    },
+    {
+      "beatId": "recap-07",
+      "title": "Exploring the Outer Plaza",
+      "startUid": "u2095",
+      "endUid": "u2472",
+      "lineCount": 378,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Once the last gnolls die, the party shifts into exploration of the plaza, stables, barracks, and the captured animals.",
+      "dateEvidence": [
+        "The DM states it is about eight in the morning after the fighting ends.",
+        "The party moves directly into scouting, talking to animals, and searching the ruined buildings."
+      ]
+    },
+    {
+      "beatId": "recap-08",
+      "title": "Theorizing Over Breakfast",
+      "startUid": "u2473",
+      "endUid": "u2658",
+      "lineCount": 186,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The exploration settles into discussion, theory-building about the demonic corruption, a short rest, and the decision to investigate further next time.",
+      "dateEvidence": [
+        "The party takes a short rest and breakfast after the fighting, with the sun only a bit higher in the sky.",
+        "No overnight break or date change occurs before the session ends."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+allReplacements:
+- from: Kenza
+  to: Kenzo
+  count: 3
+  headers:
+  - '[u0116 | 00:10:41.970-00:10:43.200 | DM]'
+  - '[u0740 | 01:02:45.270-01:02:48.240 | Wellby]'
+  - '[u1566 | 02:05:01.470-02:05:04.080 | Delwath]'
+- from: Knowles
+  to: gnolls
+  count: 3
+  headers:
+  - '[u0009 | 00:01:25.830-00:01:32.490 | DM]'
+  - '[u0488 | 00:40:49.560-00:40:58.770 | Kenzo]'
+  - '[u1317 | 01:45:02.820-01:45:07.080 | DM]'
+- from: noles
+  to: gnolls
+  count: 3
+  headers:
+  - '[u0057 | 00:05:39.570-00:05:49.380 | DM]'
+  - '[u0060 | 00:06:03.720-00:06:06.150 | Seeker]'
+  - '[u0176 | 00:16:27.210-00:16:37.410 | DM]'
+- from: and
+  to: in
+  count: 2
+  headers:
+  - '[u0004 | 00:00:27.270-00:00:42.660 | DM]'
+  - '[u0010 | 00:01:33.960-00:01:43.890 | DM]'
+- from: dealt with
+  to: Delwath
+  count: 2
+  headers:
+  - '[u1794 | 02:20:58.620-02:21:04.650 | DM]'
+  - '[u1797 | 02:21:23.370-02:21:30.210 | DM]'
+- from: nose
+  to: gnolls
+  count: 2
+  headers:
+  - '[u0003 | 00:00:18.000-00:00:26.670 | DM]'
+  - '[u1468 | 01:58:14.970-01:58:17.550 | DM]'
+- from: well be
+  to: Wellby
+  count: 2
+  headers:
+  - '[u1980 | 02:33:45.510-02:33:54.090 | Wellby]'
+  - '[u2440 | 03:09:38.460-03:09:41.100 | DM]'
+- from: ''' ve run laughed at'
+  to: short rested
+  count: 1
+  headers:
+  - '[u1467 | 01:58:12.780-01:58:14.970 | DM]'
+- from: ', I think secret giving you some'
+  to: Seeker
+  count: 1
+  headers:
+  - '[u0716 | 01:00:47.280-01:00:53.820 | Kenzo]'
+- from: . And
+  to: ', and'
+  count: 1
+  headers:
+  - '[u1458 | 01:57:23.280-01:57:33.420 | DM]'
+- from: . Well, being dealt with her
+  to: ': Wellby and Delwath are'
+  count: 1
+  headers:
+  - '[u1686 | 02:13:32.010-02:13:35.160 | Delwath]'
+- from: Brisbane in Kinzer
+  to: Riswynn and Kenzo
+  count: 1
+  headers:
+  - '[u0107 | 00:10:05.400-00:10:07.560 | DM]'
+- from: Dallas
+  to: Delwath
+  count: 1
+  headers:
+  - '[u1688 | 02:13:36.900-02:13:41.700 | Delwath]'
+- from: Damaris beer
+  to: leader ' s spear
+  count: 1
+  headers:
+  - '[u0009 | 00:01:25.830-00:01:32.490 | DM]'
+- from: Demon
+  to: demon
+  count: 1
+  headers:
+  - '[u1468 | 01:58:14.970-01:58:17.550 | DM]'
+- from: Far well be dealt with
+  to: For Wellby, Delwath,
+  count: 1
+  headers:
+  - '[u1599 | 02:06:50.280-02:06:55.680 | DM]'
+- from: Kenza things
+  to: Kenzo thinks
+  count: 1
+  headers:
+  - '[u1659 | 02:10:41.250-02:10:42.750 | DM]'
+- from: Miss
+  to: mists
+  count: 1
+  headers:
+  - '[u0006 | 00:00:52.350-00:01:01.350 | DM]'
+- from: Now
+  to: No,
+  count: 1
+  headers:
+  - '[u1686 | 02:13:32.010-02:13:35.160 | Delwath]'
+- from: Now well he
+  to: No, Wellby
+  count: 1
+  headers:
+  - '[u0115 | 00:10:39.390-00:10:41.370 | Delwath]'
+- from: To
+  to: Two
+  count: 1
+  headers:
+  - '[u1794 | 02:20:58.620-02:21:04.650 | DM]'
+- from: VIOLA
+  to: Vola
+  count: 1
+  headers:
+  - '[u0111 | 00:10:15.990-00:10:18.660 | DM]'
+- from: Viola
+  to: Vola
+  count: 1
+  headers:
+  - '[u0184 | 00:17:30.960-00:17:33.600 | DM]'
+- from: Will be
+  to: Wellby
+  count: 1
+  headers:
+  - '[u0740 | 01:02:45.270-01:02:48.240 | Wellby]'
+- from: accurate
+  to: acrid
+  count: 1
+  headers:
+  - '[u0009 | 00:01:25.830-00:01:32.490 | DM]'
+- from: across
+  to: . Across
+  count: 1
+  headers:
+  - '[u0006 | 00:00:52.350-00:01:01.350 | DM]'
+- from: adventures as
+  to: adventurers are
+  count: 1
+  headers:
+  - '[u0002 | 00:00:09.030-00:00:16.680 | DM]'
+- from: and
+  to: ','
+  count: 1
+  headers:
+  - '[u0488 | 00:40:49.560-00:40:58.770 | Kenzo]'
+- from: and seeker
+  to: Seeker,
+  count: 1
+  headers:
+  - '[u1599 | 02:06:50.280-02:06:55.680 | DM]'
+- from: and we ' re
+  to: were
+  count: 1
+  headers:
+  - '[u0488 | 00:40:49.560-00:40:58.770 | Kenzo]'
+- from: are
+  to: ', a'
+  count: 1
+  headers:
+  - '[u0010 | 00:01:33.960-00:01:43.890 | DM]'
+- from: are
+  to: were
+  count: 1
+  headers:
+  - '[u0003 | 00:00:18.000-00:00:26.670 | DM]'
+- from: bull
+  to: Vola
+  count: 1
+  headers:
+  - '[u0700 | 00:59:26.310-00:59:29.760 | Riswynn]'
+- from: coffin. This
+  to: cacophonous
+  count: 1
+  headers:
+  - '[u0004 | 00:00:27.270-00:00:42.660 | DM]'
+- from: dealt
+  to: Delwath,
+  count: 1
+  headers:
+  - '[u0115 | 00:10:39.390-00:10:41.370 | Delwath]'
+- from: dealt with
+  to: ', Delwath'
+  count: 1
+  headers:
+  - '[u1021 | 01:23:25.650-01:23:35.640 | Riswynn]'
+- from: dealt with
+  to: ', Delwath,'
+  count: 1
+  headers:
+  - '[u1592 | 02:06:04.110-02:06:11.070 | Wellby]'
+- from: dealt with those
+  to: Delwath touched.
+  count: 1
+  headers:
+  - '[u1850 | 02:24:57.390-02:24:59.820 | Seeker]'
+- from: down with
+  to: . Delwath
+  count: 1
+  headers:
+  - '[u0024 | 00:02:51.060-00:02:54.210 | DM]'
+- from: down with
+  to: Delwath
+  count: 1
+  headers:
+  - '[u1935 | 02:30:52.020-02:30:57.210 | DM]'
+- from: down with
+  to: Delwath,
+  count: 1
+  headers:
+  - '[u0876 | 01:11:39.270-01:11:40.890 | DM]'
+- from: down with experiments
+  to: Delwath? Experiments
+  count: 1
+  headers:
+  - '[u0071 | 00:07:06.090-00:07:16.620 | Riswynn]'
+- from: down with what you were the source of
+  to: ', Delwath,'
+  count: 1
+  headers:
+  - '[u1442 | 01:56:01.620-01:56:06.180 | DM]'
+- from: eaten
+  to: eat and
+  count: 1
+  headers:
+  - '[u0008 | 00:01:13.050-00:01:24.270 | DM]'
+- from: family
+  to: faintly
+  count: 1
+  headers:
+  - '[u1534 | 02:02:34.080-02:02:39.270 | DM]'
+- from: fans
+  to: sounds
+  count: 1
+  headers:
+  - '[u0003 | 00:00:18.000-00:00:26.670 | DM]'
+- from: give me
+  to: giving him
+  count: 1
+  headers:
+  - '[u2379 | 03:04:54.570-03:04:57.930 | Wellby]'
+- from: hacks
+  to: hex
+  count: 1
+  headers:
+  - '[u1989 | 02:34:46.350-02:34:51.630 | DM]'
+- from: is
+  to: . It ' s
+  count: 1
+  headers:
+  - '[u1508 | 02:00:17.550-02:00:28.020 | DM]'
+- from: is
+  to: has
+  count: 1
+  headers:
+  - '[u0006 | 00:00:52.350-00:01:01.350 | DM]'
+- from: kids out
+  to: . Kenzo!
+  count: 1
+  headers:
+  - '[u1566 | 02:05:01.470-02:05:04.080 | Delwath]'
+- from: like one slams
+  to: thing slam
+  count: 1
+  headers:
+  - '[u1794 | 02:20:58.620-02:21:04.650 | DM]'
+- from: line
+  to: lion
+  count: 1
+  headers:
+  - '[u2402 | 03:06:40.920-03:06:50.310 | DM]'
+- from: looked clients
+  to: glanced
+  count: 1
+  headers:
+  - '[u0028 | 00:03:15.180-00:03:20.610 | DM]'
+- from: mist
+  to: mists
+  count: 1
+  headers:
+  - '[u1797 | 02:21:23.370-02:21:30.210 | DM]'
+- from: noles
+  to: gnolls,
+  count: 1
+  headers:
+  - '[u1467 | 01:58:12.780-01:58:14.970 | DM]'
+- from: nose like
+  to: gnolls
+  count: 1
+  headers:
+  - '[u1508 | 02:00:17.550-02:00:28.020 | DM]'
+- from: reason isn ' t
+  to: Riswynn is in,
+  count: 1
+  headers:
+  - '[u0118 | 00:10:45.780-00:10:47.130 | DM]'
+- from: resin
+  to: ', Riswynn,'
+  count: 1
+  headers:
+  - '[u1935 | 02:30:52.020-02:30:57.210 | DM]'
+- from: room
+  to: rune
+  count: 1
+  headers:
+  - '[u1797 | 02:21:23.370-02:21:30.210 | DM]'
+- from: rough day
+  to: rested,
+  count: 1
+  headers:
+  - '[u1508 | 02:00:17.550-02:00:28.020 | DM]'
+- from: secret
+  to: Seeker
+  count: 1
+  headers:
+  - '[u1040 | 01:25:01.260-01:25:05.100 | DM]'
+- from: secret
+  to: Seeker,
+  count: 1
+  headers:
+  - '[u2379 | 03:04:54.570-03:04:57.930 | Wellby]'
+- from: seeker
+  to: Seeker
+  count: 1
+  headers:
+  - '[u0116 | 00:10:41.970-00:10:43.200 | DM]'
+- from: some well be. You
+  to: ', Wellby, you'
+  count: 1
+  headers:
+  - '[u1534 | 02:02:34.080-02:02:39.270 | DM]'
+- from: the noles the know leaders sphere
+  to: gnolls ' leader ' s spear
+  count: 1
+  headers:
+  - '[u0324 | 00:28:33.270-00:28:37.710 | DM]'
+- from: there
+  to: '? There'
+  count: 1
+  headers:
+  - '[u2440 | 03:09:38.460-03:09:41.100 | DM]'
+- from: translated
+  to: translation,
+  count: 1
+  headers:
+  - '[u1592 | 02:06:04.110-02:06:11.070 | Wellby]'
+- from: us down with isn ' t isn ' t mainly
+  to: ', as Delwath is in melee'
+  count: 1
+  headers:
+  - '[u1858 | 02:25:32.610-02:25:35.880 | DM]'
+- from: vol ago
+  to: ', Vola'
+  count: 1
+  headers:
+  - '[u1458 | 01:57:23.280-01:57:33.420 | DM]'
+- from: well be an endpoint
+  to: ', with Wellby, and then point'
+  count: 1
+  headers:
+  - '[u1688 | 02:13:36.900-02:13:41.700 | Delwath]'
+- from: well be that
+  to: 'Wellby:'
+  count: 1
+  headers:
+  - '[u2402 | 03:06:40.920-03:06:50.310 | DM]'
+- from: well beam
+  to: Wellby
+  count: 1
+  headers:
+  - '[u0012 | 00:01:50.910-00:01:52.710 | DM]'
+- from: wrestling
+  to: Riswynn
+  count: 1
+  headers:
+  - '[u0117 | 00:10:45.030-00:10:45.450 | Delwath]'
+- from: wrestling.
+  to: Riswynn
+  count: 1
+  headers:
+  - '[u1989 | 02:34:46.350-02:34:51.630 | DM]'
+repeatedReplacements:
+- from: Kenza
+  to: Kenzo
+  count: 3
+  headers:
+  - '[u0116 | 00:10:41.970-00:10:43.200 | DM]'
+  - '[u0740 | 01:02:45.270-01:02:48.240 | Wellby]'
+  - '[u1566 | 02:05:01.470-02:05:04.080 | Delwath]'
+- from: Knowles
+  to: gnolls
+  count: 3
+  headers:
+  - '[u0009 | 00:01:25.830-00:01:32.490 | DM]'
+  - '[u0488 | 00:40:49.560-00:40:58.770 | Kenzo]'
+  - '[u1317 | 01:45:02.820-01:45:07.080 | DM]'
+- from: noles
+  to: gnolls
+  count: 3
+  headers:
+  - '[u0057 | 00:05:39.570-00:05:49.380 | DM]'
+  - '[u0060 | 00:06:03.720-00:06:06.150 | Seeker]'
+  - '[u0176 | 00:16:27.210-00:16:37.410 | DM]'
+- from: and
+  to: in
+  count: 2
+  headers:
+  - '[u0004 | 00:00:27.270-00:00:42.660 | DM]'
+  - '[u0010 | 00:01:33.960-00:01:43.890 | DM]'
+- from: dealt with
+  to: Delwath
+  count: 2
+  headers:
+  - '[u1794 | 02:20:58.620-02:21:04.650 | DM]'
+  - '[u1797 | 02:21:23.370-02:21:30.210 | DM]'
+- from: nose
+  to: gnolls
+  count: 2
+  headers:
+  - '[u0003 | 00:00:18.000-00:00:26.670 | DM]'
+  - '[u1468 | 01:58:14.970-01:58:17.550 | DM]'
+- from: well be
+  to: Wellby
+  count: 2
+  headers:
+  - '[u1980 | 02:33:45.510-02:33:54.090 | Wellby]'
+  - '[u2440 | 03:09:38.460-03:09:41.100 | DM]'
+unresolvedPhrases: []

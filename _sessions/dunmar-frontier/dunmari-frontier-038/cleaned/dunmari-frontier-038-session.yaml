@@ -1,0 +1,42 @@
+schemaVersion: '1.0'
+sourceType: transcript
+scope: session
+campaign: Dunmari Frontier
+sessionNumber: 38
+realWorldDate: '2022-01-23'
+drStart: '1748-07-02'
+drEnd: '1748-07-03'
+drStartTime: null
+drEndTime: null
+participants:
+- name: David Kong
+  gameRole: Kenzo
+  transcriptIdentifiers:
+  - David Kong (he/him) Organizer, MIT Media Lab
+- name: David Schwartz
+  gameRole: Wellby
+  transcriptIdentifiers:
+  - Rev. David Schwartz (he/him)
+- name: Mike Sackton
+  gameRole: Delwath
+  transcriptIdentifiers:
+  - Mike Sackton
+- name: Eric Rosenbaum
+  gameRole: Seeker
+  transcriptIdentifiers:
+  - Eric Rosenbaum
+- name: Kate Sackton
+  gameRole: Riswynn
+  transcriptIdentifiers:
+  - kate
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers:
+  - Timothy Sackton
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-038/sources/GMT20220124-014108_Recording.transcript.vtt
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-038/sources/dunmar-frontier-session038.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-038/sources/dunmar-frontier-core-plus-riswynn-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-source-prepared.md
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-038/sources/zoom-session-038.speaker_mapping.json
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-speaker-stats.json

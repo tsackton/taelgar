@@ -1,0 +1,50 @@
+{
+  "totalDurationSeconds": 7541.82,
+  "speakers": [
+    {
+      "transcriptIdentifier": "Aristaea",
+      "name": "Kate Sackton",
+      "gameRole": "Aristaea",
+      "segmentCount": 200,
+      "durationSeconds": 443.04,
+      "fraction": 0.0587,
+      "wordCount": 1378
+    },
+    {
+      "transcriptIdentifier": "Delwath",
+      "name": "Mike Sackton",
+      "gameRole": "Delwath",
+      "segmentCount": 751,
+      "durationSeconds": 1981.35,
+      "fraction": 0.2627,
+      "wordCount": 6757
+    },
+    {
+      "transcriptIdentifier": "Iascaire",
+      "name": "Phil Grayson",
+      "gameRole": "Iascaire",
+      "segmentCount": 514,
+      "durationSeconds": 1150.44,
+      "fraction": 0.1525,
+      "wordCount": 3443
+    },
+    {
+      "transcriptIdentifier": "Timothy Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 1245,
+      "durationSeconds": 3904.32,
+      "fraction": 0.5177,
+      "wordCount": 11031
+    },
+    {
+      "transcriptIdentifier": "Unknown",
+      "name": null,
+      "gameRole": "Unknown",
+      "segmentCount": 128,
+      "durationSeconds": 62.67,
+      "fraction": 0.0083,
+      "wordCount": 181
+    }
+  ]
+}

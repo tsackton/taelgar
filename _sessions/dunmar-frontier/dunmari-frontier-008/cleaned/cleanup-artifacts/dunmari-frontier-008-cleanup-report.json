@@ -1,0 +1,370 @@
+{
+  "summary": {
+    "changedLineCount": 42,
+    "replacementCount": 39,
+    "repeatedReplacementCount": 8,
+    "topReplacements": [
+      {
+        "from": "technical",
+        "to": "tentacle",
+        "count": 8,
+        "headers": [
+          "[u2105 | 02:44:10.020-02:44:11.880 | DM]",
+          "[u2231 | 02:52:44.520-02:52:45.480 | Seeker]",
+          "[u2251 | 02:53:26.910-02:53:29.070 | Kenzo]",
+          "[u2494 | 03:09:36.210-03:09:38.580 | Kenzo]",
+          "[u2497 | 03:09:43.800-03:09:56.850 | Kenzo]",
+          "[u2652 | 03:19:25.080-03:19:29.310 | Kenzo]",
+          "[u2662 | 03:20:08.790-03:20:12.630 | Kenzo]"
+        ]
+      },
+      {
+        "from": "ravens hold",
+        "to": "Raven ' s Hold",
+        "count": 6,
+        "headers": [
+          "[u0088 | 00:06:33.240-00:06:45.780 | Wellby]",
+          "[u0115 | 00:09:19.680-00:09:31.440 | Kenzo]",
+          "[u0117 | 00:09:35.730-00:09:51.480 | Kenzo]",
+          "[u0122 | 00:10:15.330-00:10:22.080 | Kenzo]",
+          "[u0290 | 00:25:29.940-00:25:33.390 | DM]",
+          "[u0614 | 00:52:06.540-00:52:09.210 | DM]"
+        ]
+      },
+      {
+        "from": "wrestling",
+        "to": "Riswynn",
+        "count": 5,
+        "headers": [
+          "[u0536 | 00:45:37.230-00:45:39.270 | Kenzo]",
+          "[u1722 | 02:16:15.210-02:16:20.220 | DM]",
+          "[u2431 | 03:04:57.090-03:05:00.810 | DM]",
+          "[u2437 | 03:05:29.910-03:05:35.370 | DM]",
+          "[u2601 | 03:15:51.780-03:15:53.430 | DM]"
+        ]
+      },
+      {
+        "from": "door of an",
+        "to": "dwarven",
+        "count": 3,
+        "headers": [
+          "[u0267 | 00:22:50.400-00:22:53.340 | Seeker]",
+          "[u0270 | 00:23:01.590-00:23:10.230 | DM]",
+          "[u0692 | 00:57:01.560-00:57:09.900 | DM]"
+        ]
+      },
+      {
+        "from": "planes",
+        "to": "plains",
+        "count": 2,
+        "headers": [
+          "[u0002 | 00:00:14.130-00:00:28.830 | DM]",
+          "[u0003 | 00:00:33.840-00:00:41.400 | DM]"
+        ]
+      },
+      {
+        "from": "raise when",
+        "to": "Riswynn",
+        "count": 2,
+        "headers": [
+          "[u1066 | 01:23:02.820-01:23:14.280 | DM]",
+          "[u1385 | 01:48:02.130-01:48:05.160 | DM]"
+        ]
+      },
+      {
+        "from": "ravens hole",
+        "to": "Raven ' s Hold",
+        "count": 2,
+        "headers": [
+          "[u0093 | 00:07:19.770-00:07:26.970 | DM]",
+          "[u0114 | 00:09:11.760-00:09:18.210 | Kenzo]"
+        ]
+      },
+      {
+        "from": "sold",
+        "to": "' s Hold",
+        "count": 2,
+        "headers": [
+          "[u0037 | 00:03:19.770-00:03:23.010 | DM]",
+          "[u0294 | 00:25:52.200-00:25:58.290 | Kenzo]"
+        ]
+      },
+      {
+        "from": ". I had",
+        "to": "ahead,",
+        "count": 1,
+        "headers": [
+          "[u0008 | 00:01:12.300-00:01:18.900 | DM]"
+        ]
+      },
+      {
+        "from": ". Moving",
+        "to": "moving",
+        "count": 1,
+        "headers": [
+          "[u0011 | 00:01:40.650-00:01:46.110 | DM]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 2907,
+  "changedLineCount": 42,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0002 | 00:00:14.130-00:00:28.830 | DM]",
+      "lineNumber": 2,
+      "originalText": "We opened tonight on jargon mountains rising from the planes are sharp boundary between the flat expanses of Dunbar, the planes and deserts that stretch away to the south and the massive central mountain range that divides the content into",
+      "cleanedText": "We open tonight on mountains rising from the plains, a sharp boundary between the flat expanses of Dunmar, the plains and deserts that stretch away to the south, and the massive central mountain range that divides the continent."
+    },
+    {
+      "header": "[u0003 | 00:00:33.840-00:00:41.400 | DM]",
+      "lineNumber": 3,
+      "originalText": "Well paths wander through the mountain ranges from the planes below. They just upward peaky and snow cap against the wild flowers blooming in the spring.",
+      "cleanedText": "Worn paths wander through the mountain ranges from the plains below. They jut upward, peaky and snow-capped, against the wildflowers blooming in the spring."
+    },
+    {
+      "header": "[u0004 | 00:00:42.840-00:00:50.910 | DM]",
+      "lineNumber": 4,
+      "originalText": "It's mid morning the center is having last shortly a gal and you stand looking north at the mountain wall in front of you.",
+      "cleanedText": "It's mid-morning, the centaurs having left shortly ago, and you stand looking north at the mountain wall in front of you."
+    },
+    {
+      "header": "[u0005 | 00:00:52.890-00:01:00.060 | DM]",
+      "lineNumber": 5,
+      "originalText": "In the distance you can still see the center's willing south towards carwash convinced to travel to the Dunbar, he lands to warn can dress.",
+      "cleanedText": "In the distance you can still see the centaurs riding south towards Karawa, convinced to travel to the Dunmari lands to warn Candrosa."
+    },
+    {
+      "header": "[u0006 | 00:01:01.680-00:01:05.820 | DM]",
+      "lineNumber": 6,
+      "originalText": "And the rest of the Denmark about the possible danger of the spreading corruption in the north.",
+      "cleanedText": "And the rest of the Dunmari about the possible danger of the spreading corruption in the north."
+    },
+    {
+      "header": "[u0008 | 00:01:12.300-00:01:18.900 | DM]",
+      "lineNumber": 8,
+      "originalText": "A short distance. I had a flat clearing and camping area stand before the gentlest sent up to the past.",
+      "cleanedText": "A short distance ahead, a flat clearing and camping area stand before the gentle ascent up to the pass."
+    },
+    {
+      "header": "[u0009 | 00:01:19.890-00:01:32.370 | DM]",
+      "lineNumber": 9,
+      "originalText": "To the east, the wall of the mountains continues, but you can see two small streams cascading God from the snowy heights and a few miles distance along wall guarding the approach the valley of ravens hold",
+      "cleanedText": "To the east, the wall of the mountains continues, but you can see two small streams cascading down from the snowy heights and, a few miles distant along the wall, guarding the approach to the valley of Raven's Hold."
+    },
+    {
+      "header": "[u0010 | 00:01:33.420-00:01:39.420 | DM]",
+      "lineNumber": 10,
+      "originalText": "Faint were from something rotten and burning carries from the east, despite the stillness and quiet of the plans.",
+      "cleanedText": "A faint whiff of something rotten and burning carries from the east, despite the stillness and quiet of the plains."
+    },
+    {
+      "header": "[u0011 | 00:01:40.650-00:01:46.110 | DM]",
+      "lineNumber": 11,
+      "originalText": "But nothing. Moving on the wind and an unnatural silence around you, you contemplate your next move.",
+      "cleanedText": "But with nothing moving on the wind and an unnatural silence around you, you contemplate your next move."
+    },
+    {
+      "header": "[u0017 | 00:02:17.400-00:02:20.730 | Kenzo]",
+      "lineNumber": 17,
+      "originalText": "Actually meta game. What did we talked to the seminars about",
+      "cleanedText": "Actually meta game. What did we talked to the centaurs about"
+    },
+    {
+      "header": "[u0037 | 00:03:19.770-00:03:23.010 | DM]",
+      "lineNumber": 37,
+      "originalText": "Points in our corruption have been spreading from Raven sold you know I",
+      "cleanedText": "Points in our corruption have been spreading from Raven's Hold you know I"
+    },
+    {
+      "header": "[u0039 | 00:03:24.450-00:03:39.330 | Wellby]",
+      "lineNumber": 39,
+      "originalText": "Disease and poison flowing from a rope that binds the land to another plane poisoned water funding from Raven hold and contaminating more and more land, if I remember right demons that secondly earth and how all the infinite",
+      "cleanedText": "Disease and poison flowing from a rope that binds the land to another plane poisoned water funding from Raven's Hold and contaminating more and more land, if I remember right demons that secondly earth and how all the infinite"
+    },
+    {
+      "header": "[u0088 | 00:06:33.240-00:06:45.780 | Wellby]",
+      "lineNumber": 88,
+      "originalText": "Don't know definitively that this like finding or portal or whatever to the other plane is in ravens hold we know is that true didn't say like that portal is in ratings.",
+      "cleanedText": "Don't know definitively that this like finding or portal or whatever to the other plane is in Raven's Hold we know is that true didn't say like that portal is in ratings."
+    },
+    {
+      "header": "[u0093 | 00:07:19.770-00:07:26.970 | DM]",
+      "lineNumber": 93,
+      "originalText": "Corruption that they were fleeing was coming from ravens hole, but whether those were necessarily directly connected to",
+      "cleanedText": "Corruption that they were fleeing was coming from Raven's Hold, but whether those were necessarily directly connected to"
+    },
+    {
+      "header": "[u0106 | 00:08:41.850-00:08:49.770 | Wellby]",
+      "lineNumber": 106,
+      "originalText": "And the other is trying to find the backdoor into the dorm stronghold disadvantage being we have no idea where it is.",
+      "cleanedText": "And the other is trying to find the backdoor into the dwarf stronghold disadvantage being we have no idea where it is."
+    },
+    {
+      "header": "[u0114 | 00:09:11.760-00:09:18.210 | Kenzo]",
+      "lineNumber": 114,
+      "originalText": "Before we we speak more deeply about how to get into ravens hole. Can we contemplate for a moment, the larger picture.",
+      "cleanedText": "Before we we speak more deeply about how to get into Raven's Hold. Can we contemplate for a moment, the larger picture."
+    },
+    {
+      "header": "[u0115 | 00:09:19.680-00:09:31.440 | Kenzo]",
+      "lineNumber": 115,
+      "originalText": "There appears to be some type of connection with ravens hold to whatever the sources of this demonic evil that we are now seeing that is clearly spreading",
+      "cleanedText": "There appears to be some type of connection with Raven's Hold to whatever the sources of this demonic evil that we are now seeing that is clearly spreading"
+    },
+    {
+      "header": "[u0117 | 00:09:35.730-00:09:51.480 | Kenzo]",
+      "lineNumber": 117,
+      "originalText": "Do any of you have a sense of what the connection between ravens hold is and these beasts, or do we have thoughts on what that might be. I just, I, I just think of a little bit about what we might find there and what we might need to prepare ourselves for",
+      "cleanedText": "Do any of you have a sense of what the connection between Raven's Hold is and these beasts, or do we have thoughts on what that might be. I just, I, I just think of a little bit about what we might find there and what we might need to prepare ourselves for"
+    },
+    {
+      "header": "[u0122 | 00:10:15.330-00:10:22.080 | Kenzo]",
+      "lineNumber": 122,
+      "originalText": "It could be coming from the storm or they could be coming from ravens hold or they can be coming from someplace farther east",
+      "cleanedText": "It could be coming from the storm or they could be coming from Raven's Hold or they can be coming from someplace farther east"
+    },
+    {
+      "header": "[u0267 | 00:22:50.400-00:22:53.340 | Seeker]",
+      "lineNumber": 267,
+      "originalText": "The door of an outpost is at the top left of the map of reason.",
+      "cleanedText": "The dwarven outpost is at the top left of the map of reason."
+    },
+    {
+      "header": "[u0270 | 00:23:01.590-00:23:10.230 | DM]",
+      "lineNumber": 270,
+      "originalText": "On the right, which is the dunmurry for and the Dwarf Fortress on the left which is the door of an outpost as a road that goes between them.",
+      "cleanedText": "On the right, which is the dunmurry for and the Dwarf Fortress on the left which is the dwarven outpost as a road that goes between them."
+    },
+    {
+      "header": "[u0290 | 00:25:29.940-00:25:33.390 | DM]",
+      "lineNumber": 290,
+      "originalText": "Of the wall of ravens hold sort of peeking out there. So there's like",
+      "cleanedText": "Of the wall of Raven's Hold sort of peeking out there. So there's like"
+    },
+    {
+      "header": "[u0294 | 00:25:52.200-00:25:58.290 | Kenzo]",
+      "lineNumber": 294,
+      "originalText": "So when people say Raven sold either referring to all of the stuff that's off the waterfall. I",
+      "cleanedText": "So when people say Raven's Hold either referring to all of the stuff that's off the waterfall. I"
+    },
+    {
+      "header": "[u0331 | 00:28:28.140-00:28:32.220 | DM]",
+      "lineNumber": 331,
+      "originalText": "You have paths Valley Raven Tools.",
+      "cleanedText": "You have paths Valley Raven's Hold."
+    },
+    {
+      "header": "[u0536 | 00:45:37.230-00:45:39.270 | Kenzo]",
+      "lineNumber": 536,
+      "originalText": "So seeker and wrestling is this",
+      "cleanedText": "So seeker and Riswynn is this"
+    },
+    {
+      "header": "[u0614 | 00:52:06.540-00:52:09.210 | DM]",
+      "lineNumber": 614,
+      "originalText": "You're heading directly for ravens hold",
+      "cleanedText": "You're heading directly for Raven's Hold"
+    },
+    {
+      "header": "[u0692 | 00:57:01.560-00:57:09.900 | DM]",
+      "lineNumber": 692,
+      "originalText": "If this is actually the entrance to the door of an outpost. And if there's a relatively straight route. You're not talking even a day of just walking time",
+      "cleanedText": "If this is actually the entrance to the dwarven outpost. And if there's a relatively straight route. You're not talking even a day of just walking time"
+    },
+    {
+      "header": "[u0718 | 00:58:34.260-00:58:51.690 | DM]",
+      "lineNumber": 718,
+      "originalText": "Raise when seeker and well being are walking in and Kenzo and down with her sort of crouched over shuffling forward and the water level is starting to rise a little bit. It's also now pitch black. So, Kenzo and while we cannot see anything.",
+      "cleanedText": "Riswynn seeker and well being are walking in and Kenzo and down with her sort of crouched over shuffling forward and the water level is starting to rise a little bit. It's also now pitch black. So, Kenzo and while we cannot see anything."
+    },
+    {
+      "header": "[u1066 | 01:23:02.820-01:23:14.280 | DM]",
+      "lineNumber": 1066,
+      "originalText": "Feel this sort of current of water rush past you, and then see the tunnel ahead of you clear of water and see raise when I'm leaning against the wall.",
+      "cleanedText": "Feel this sort of current of water rush past you, and then see the tunnel ahead of you clear of water and see Riswynn I'm leaning against the wall."
+    },
+    {
+      "header": "[u1385 | 01:48:02.130-01:48:05.160 | DM]",
+      "lineNumber": 1385,
+      "originalText": "While raise when you can, you are looking into",
+      "cleanedText": "While Riswynn you can, you are looking into"
+    },
+    {
+      "header": "[u1722 | 02:16:15.210-02:16:20.220 | DM]",
+      "lineNumber": 1722,
+      "originalText": "So you can see sort of in the distance. I don't know how many of you can see it because of the way but wrestling.",
+      "cleanedText": "So you can see sort of in the distance. I don't know how many of you can see it because of the way but Riswynn."
+    },
+    {
+      "header": "[u1784 | 02:20:42.750-02:20:45.810 | Seeker]",
+      "lineNumber": 1784,
+      "originalText": "The market on the door of an app host drawing",
+      "cleanedText": "The market on the dwarven outpost drawing"
+    },
+    {
+      "header": "[u2105 | 02:44:10.020-02:44:11.880 | DM]",
+      "lineNumber": 2105,
+      "originalText": "Sure, yes. The technical counts.",
+      "cleanedText": "Sure, yes. The tentacle counts."
+    },
+    {
+      "header": "[u2231 | 02:52:44.520-02:52:45.480 | Seeker]",
+      "lineNumber": 2231,
+      "originalText": "Be attacked the technical",
+      "cleanedText": "Be attacked the tentacle"
+    },
+    {
+      "header": "[u2251 | 02:53:26.910-02:53:29.070 | Kenzo]",
+      "lineNumber": 2251,
+      "originalText": "Protect me if he tries to technical attack me",
+      "cleanedText": "Protect me if he tries to tentacle attack me"
+    },
+    {
+      "header": "[u2431 | 03:04:57.090-03:05:00.810 | DM]",
+      "lineNumber": 2431,
+      "originalText": "Ah, also missing seeker. So only wrestling gets hit this turn.",
+      "cleanedText": "Ah, also missing seeker. So only Riswynn gets hit this turn."
+    },
+    {
+      "header": "[u2437 | 03:05:29.910-03:05:35.370 | DM]",
+      "lineNumber": 2437,
+      "originalText": "Yep, that's all can do this wrestling Stern, you are now restrained and grappling",
+      "cleanedText": "Yep, that's all can do this Riswynn Stern, you are now restrained and grappling"
+    },
+    {
+      "header": "[u2494 | 03:09:36.210-03:09:38.580 | Kenzo]",
+      "lineNumber": 2494,
+      "originalText": "Which is a 30 foot range, but I can do it to the technical right",
+      "cleanedText": "Which is a 30 foot range, but I can do it to the tentacle right"
+    },
+    {
+      "header": "[u2497 | 03:09:43.800-03:09:56.850 | Kenzo]",
+      "lineNumber": 2497,
+      "originalText": "Like, can I also similarly like you're saying if I wanted to get a little farther away from technical like is there a place that I can move. That's a look that's out of the range of the dude but still gets me the technical like if I'm like",
+      "cleanedText": "Like, can I also similarly like you're saying if I wanted to get a little farther away from tentacle like is there a place that I can move. That's a look that's out of the range of the dude but still gets me the tentacle like if I'm like"
+    },
+    {
+      "header": "[u2601 | 03:15:51.780-03:15:53.430 | DM]",
+      "lineNumber": 2601,
+      "originalText": "I guess it's going to attack wrestling.",
+      "cleanedText": "I guess it's going to attack Riswynn."
+    },
+    {
+      "header": "[u2652 | 03:19:25.080-03:19:29.310 | Kenzo]",
+      "lineNumber": 2652,
+      "originalText": "See if it actually had a tactic, like a, like an attack a technical pretty effectively but",
+      "cleanedText": "See if it actually had a tactic, like a, like an attack a tentacle pretty effectively but"
+    },
+    {
+      "header": "[u2662 | 03:20:08.790-03:20:12.630 | Kenzo]",
+      "lineNumber": 2662,
+      "originalText": "The like I'm useful. If somebody gets grappled then I can attack a technical",
+      "cleanedText": "The like I'm useful. If somebody gets grappled then I can attack a tentacle"
+    }
+  ]
+}

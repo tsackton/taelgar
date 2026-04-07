@@ -1,0 +1,32 @@
+{
+  "totalDurationSeconds": 1932.031,
+  "speakers": [
+    {
+      "transcriptIdentifier": "Mike Sackton",
+      "name": "Mike Sackton",
+      "gameRole": "Delwath",
+      "segmentCount": 202,
+      "durationSeconds": 524.64,
+      "fraction": 0.2715,
+      "wordCount": 1653
+    },
+    {
+      "transcriptIdentifier": "Timothy Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 313,
+      "durationSeconds": 1400.611,
+      "fraction": 0.7249,
+      "wordCount": 3962
+    },
+    {
+      "transcriptIdentifier": "Unknown",
+      "name": null,
+      "gameRole": "Unknown",
+      "segmentCount": 16,
+      "durationSeconds": 6.78,
+      "fraction": 0.0035,
+      "wordCount": 23
+    }
+  ]
+}

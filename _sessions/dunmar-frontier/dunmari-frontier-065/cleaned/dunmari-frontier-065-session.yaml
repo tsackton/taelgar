@@ -1,0 +1,41 @@
+schemaVersion: '1.0'
+sourceType: transcript
+scope: session
+campaign: Dunmari Frontier
+sessionNumber: 65
+realWorldDate: '2022-11-12'
+drStart: '1748-10-13'
+drEnd: '1748-11-13'
+drStartTime: null
+drEndTime: null
+participants:
+- name: Eric Rosenbaum
+  gameRole: Seeker
+  transcriptIdentifiers:
+  - Eric Rosenbaum (Seeker)
+  - Seeker
+- name: Isaac Sackton
+  gameRole: Raven
+  transcriptIdentifiers:
+  - Isaac Sackton (Raven)
+  - Raven
+- name: Kate Sackton
+  gameRole: Spirala
+  transcriptIdentifiers:
+  - Kate Sackton (Spirala)
+  - Spirala
+- name: Mike Sackton
+  gameRole: Caulaus
+  transcriptIdentifiers:
+  - Caulaus Aportino (he/human/fighter)
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers:
+  - Timothy Sackton
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-065/sources/GMT20221112-012301_Recording.transcript.vtt
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-065/sources/dunmar-frontier-session065.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-065/sources/dunmar-frontier-session065-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-source-prepared.md
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-065/sources/zoom-session-065.speaker_mapping.json
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-speaker-stats.json

@@ -1,0 +1,648 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 12,
+    "realWorldDate": "2020-11-08",
+    "drStart": "1748-04-13",
+    "drEnd": "1748-04-13"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "recap-01",
+        "recap-02",
+        "recap-03",
+        "recap-04",
+        "recap-05",
+        "recap-06",
+        "recap-07",
+        "recap-08"
+      ],
+      "locationRefs": [
+        "Raven's Hold",
+        "gatehouse",
+        "outer plaza near the stables"
+      ],
+      "npcRefs": [
+        "Vola Farina",
+        "bat-like demon",
+        "gnoll raiders",
+        "gnoll leader",
+        "last gate gnoll",
+        "fleeing gnoll",
+        "outer plaza gnolls"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Dunmari spear",
+        "metal vial"
+      ],
+      "combatBeatIds": [
+        "recap-02",
+        "recap-03",
+        "recap-04",
+        "recap-05",
+        "recap-06"
+      ],
+      "sourceShortSummaries": [
+        "The party wakes in Raven's Hold, reflects on the recent attack on Karawa, and spots gnolls approaching the gate.",
+        "Wellby kills the bat-like demon with an opening shot, and the party begins picking off the gnolls from its fortified position.",
+        "Kenzo holds the gatehouse door while the others fire from above and the gnolls struggle to break through.",
+        "The gnolls finally break through the gate, but the party kills the leader and most of the attackers in the melee.",
+        "As the last gate gnoll flees, the party scrambles with ropes and movement while Kenzo survives the final close calls at the gate.",
+        "Kenzo and Wellby chase the fleeing gnoll to the outer plaza, where the party defeats the last gnolls near the animal pens.",
+        "With the gnolls dead, the party explores the outer plaza, investigates the starving animals, and finds clues in the ruined buildings and on the gnoll leader.",
+        "Over breakfast and a short rest, the party debates how the animals were being corrupted and what to investigate next."
+      ],
+      "sourceLongSummaries": [
+        "After a restless night in Raven's Hold, the party wakes and reorients itself in the tower above the gate. The opening recap places them only a short time removed from the attack on Karawa and the rescue of Vola Farina, before Kenzo and Delwath notice a band of gnolls and a small demon approaching the hold.",
+        "As Seeker bolsters him, Wellby opens the fight by shooting the bat-like demon dead before it can fully join the attack. The party stays above the gate and trades ranged attacks with the gnolls below, steadily thinning them while the enemy struggles to force the position.",
+        "The defense shifts into a choke-point fight as Kenzo works the gatehouse door and braces for the breach while the rest of the party supports from above. Vola continues to help, and the gnolls absorb losses but keep pressing the doorway, turning the fight into a tense hold-the-line battle.",
+        "Once the gate gives way, the fight spills into close quarters around the doorway. Kenzo, Riswynn, Delwath, Vola, Wellby, and Seeker bring down the gnoll leader and the remaining attackers in stages, though one gnoll eventually breaks away and runs toward the outer parts of the hold.",
+        "With the gate fight nearly decided, the party improvises ropes and repositioning to help Kenzo, who is badly hurt but still trying to finish the last nearby gnolls before the escape. The remaining gate attackers are cut down, but the fleeing gnoll gains enough distance to force a pursuit deeper into the hold.",
+        "Kenzo and Wellby sprint after the escaped gnoll through Raven's Hold and into the outer plaza, where additional gnolls are waiting near the stables and parade ground. The rest of the party converges behind them, and together they finish the final attackers, clearing the hold of immediate threats.",
+        "After the last fight ends, the party spreads out across the outer plaza, stables, and adjoining buildings. Seeker and Kenzo approach the starving captured animals, while Wellby and Riswynn check the ruined barracks and Delwath watches the plains; the group also identifies a well-made Dunmari spear and a small hissing vial on the gnoll leader.",
+        "The party argues over whether to free the captured animals, whether the poisoned water matters, and how demons, gnolls, hyenas, and the strange ritual might connect. As they share breakfast and take a short rest in the plaza, they settle on the idea that demonic corruption may be transforming animals and decide to investigate the green pits and inner courtyard later."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Morning at Raven's Hold",
+      "beatIds": [
+        "recap-01"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0337"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0337"
+        }
+      ],
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola Farina",
+        "bat-like demon"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party wakes in Raven's Hold, reflects on the recent attack on Karawa, and spots gnolls approaching the gate."
+      ],
+      "sourceLongSummaries": [
+        "After a restless night in Raven's Hold, the party wakes and reorients itself in the tower above the gate. The opening recap places them only a short time removed from the attack on Karawa and the rescue of Vola Farina, before Kenzo and Delwath notice a band of gnolls and a small demon approaching the hold."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "combat",
+      "title": "Demon Falls at the Gate to Chasing the Fleeing Gnoll",
+      "beatIds": [
+        "recap-02",
+        "recap-03",
+        "recap-04",
+        "recap-05",
+        "recap-06"
+      ],
+      "sourceRange": {
+        "startUid": "u0338",
+        "endUid": "u2094"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0338",
+          "endUid": "u0781"
+        },
+        {
+          "startUid": "u0782",
+          "endUid": "u1185"
+        },
+        {
+          "startUid": "u1186",
+          "endUid": "u1579"
+        },
+        {
+          "startUid": "u1580",
+          "endUid": "u1805"
+        },
+        {
+          "startUid": "u1806",
+          "endUid": "u2094"
+        }
+      ],
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold",
+        "gatehouse",
+        "outer plaza near the stables"
+      ],
+      "npcRefs": [
+        "Vola Farina",
+        "bat-like demon",
+        "gnoll raiders",
+        "gnoll leader",
+        "last gate gnoll",
+        "fleeing gnoll",
+        "outer plaza gnolls"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [
+        "bat-like demon",
+        "gnoll raiders",
+        "gnoll leader",
+        "last gate gnoll",
+        "fleeing gnoll",
+        "outer plaza gnolls"
+      ],
+      "sourceShortSummaries": [
+        "Wellby kills the bat-like demon with an opening shot, and the party begins picking off the gnolls from its fortified position.",
+        "Kenzo holds the gatehouse door while the others fire from above and the gnolls struggle to break through.",
+        "The gnolls finally break through the gate, but the party kills the leader and most of the attackers in the melee.",
+        "As the last gate gnoll flees, the party scrambles with ropes and movement while Kenzo survives the final close calls at the gate.",
+        "Kenzo and Wellby chase the fleeing gnoll to the outer plaza, where the party defeats the last gnolls near the animal pens."
+      ],
+      "sourceLongSummaries": [
+        "As Seeker bolsters him, Wellby opens the fight by shooting the bat-like demon dead before it can fully join the attack. The party stays above the gate and trades ranged attacks with the gnolls below, steadily thinning them while the enemy struggles to force the position.",
+        "The defense shifts into a choke-point fight as Kenzo works the gatehouse door and braces for the breach while the rest of the party supports from above. Vola continues to help, and the gnolls absorb losses but keep pressing the doorway, turning the fight into a tense hold-the-line battle.",
+        "Once the gate gives way, the fight spills into close quarters around the doorway. Kenzo, Riswynn, Delwath, Vola, Wellby, and Seeker bring down the gnoll leader and the remaining attackers in stages, though one gnoll eventually breaks away and runs toward the outer parts of the hold.",
+        "With the gate fight nearly decided, the party improvises ropes and repositioning to help Kenzo, who is badly hurt but still trying to finish the last nearby gnolls before the escape. The remaining gate attackers are cut down, but the fleeing gnoll gains enough distance to force a pursuit deeper into the hold.",
+        "Kenzo and Wellby sprint after the escaped gnoll through Raven's Hold and into the outer plaza, where additional gnolls are waiting near the stables and parade ground. The rest of the party converges behind them, and together they finish the final attackers, clearing the hold of immediate threats."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Exploring the Outer Plaza",
+      "beatIds": [
+        "recap-07"
+      ],
+      "sourceRange": {
+        "startUid": "u2095",
+        "endUid": "u2472"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2095",
+          "endUid": "u2472"
+        }
+      ],
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola Farina"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Dunmari spear",
+        "metal vial"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "With the gnolls dead, the party explores the outer plaza, investigates the starving animals, and finds clues in the ruined buildings and on the gnoll leader."
+      ],
+      "sourceLongSummaries": [
+        "After the last fight ends, the party spreads out across the outer plaza, stables, and adjoining buildings. Seeker and Kenzo approach the starving captured animals, while Wellby and Riswynn check the ruined barracks and Delwath watches the plains; the group also identifies a well-made Dunmari spear and a small hissing vial on the gnoll leader."
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Theorizing Over Breakfast",
+      "beatIds": [
+        "recap-08"
+      ],
+      "sourceRange": {
+        "startUid": "u2473",
+        "endUid": "u2658"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2473",
+          "endUid": "u2658"
+        }
+      ],
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Over breakfast and a short rest, the party debates how the animals were being corrupted and what to investigate next."
+      ],
+      "sourceLongSummaries": [
+        "The party argues over whether to free the captured animals, whether the poisoned water matters, and how demons, gnolls, hyenas, and the strange ritual might connect. As they share breakfast and take a short rest in the plaza, they settle on the idea that demonic corruption may be transforming animals and decide to investigate the green pits and inner courtyard later."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Vola Farina",
+        "beatIds": [
+          "recap-01",
+          "recap-02",
+          "recap-03",
+          "recap-04",
+          "recap-05",
+          "recap-07"
+        ],
+        "relationKinds": [
+          "companion"
+        ]
+      },
+      {
+        "name": "bat-like demon",
+        "beatIds": [
+          "recap-01",
+          "recap-02"
+        ],
+        "relationKinds": [
+          "met",
+          "fought"
+        ]
+      },
+      {
+        "name": "gnoll raiders",
+        "beatIds": [
+          "recap-02",
+          "recap-03",
+          "recap-04"
+        ],
+        "relationKinds": [
+          "fought"
+        ]
+      },
+      {
+        "name": "gnoll leader",
+        "beatIds": [
+          "recap-04"
+        ],
+        "relationKinds": [
+          "fought"
+        ]
+      },
+      {
+        "name": "last gate gnoll",
+        "beatIds": [
+          "recap-05"
+        ],
+        "relationKinds": [
+          "fought"
+        ]
+      },
+      {
+        "name": "fleeing gnoll",
+        "beatIds": [
+          "recap-06"
+        ],
+        "relationKinds": [
+          "fought"
+        ]
+      },
+      {
+        "name": "outer plaza gnolls",
+        "beatIds": [
+          "recap-06"
+        ],
+        "relationKinds": [
+          "fought"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-002",
+        "beatIds": [
+          "recap-02",
+          "recap-03",
+          "recap-04",
+          "recap-05",
+          "recap-06"
+        ],
+        "enemyRefs": [
+          "bat-like demon",
+          "gnoll raiders",
+          "gnoll leader",
+          "last gate gnoll",
+          "fleeing gnoll",
+          "outer plaza gnolls"
+        ],
+        "dateStart": "1748-04-13",
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Raven's Hold",
+        "beatIds": [
+          "recap-01",
+          "recap-02",
+          "recap-03",
+          "recap-04",
+          "recap-05",
+          "recap-07",
+          "recap-08"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "gatehouse",
+        "beatIds": [
+          "recap-06"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "outer plaza near the stables",
+        "beatIds": [
+          "recap-06"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Vola Farina",
+          "relationKinds": [
+            "companion"
+          ],
+          "contextHint": "rescued Chardonian ally",
+          "beatIds": [
+            "recap-01",
+            "recap-02",
+            "recap-03",
+            "recap-04",
+            "recap-05",
+            "recap-07"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "bat-like demon",
+          "relationKinds": [
+            "met",
+            "fought"
+          ],
+          "contextHint": "approaching with the gnolls",
+          "beatIds": [
+            "recap-01",
+            "recap-02"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "gnoll raiders",
+          "relationKinds": [
+            "fought"
+          ],
+          "contextHint": "assaulting the gate",
+          "beatIds": [
+            "recap-02",
+            "recap-03",
+            "recap-04"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "gnoll leader",
+          "relationKinds": [
+            "fought"
+          ],
+          "contextHint": "leader of the assault",
+          "beatIds": [
+            "recap-04"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "last gate gnoll",
+          "relationKinds": [
+            "fought"
+          ],
+          "contextHint": "escaping survivor",
+          "beatIds": [
+            "recap-05"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "fleeing gnoll",
+          "relationKinds": [
+            "fought"
+          ],
+          "contextHint": "runner from the gate fight",
+          "beatIds": [
+            "recap-06"
+          ],
+          "history": [
+            {
+              "location": "gatehouse -> outer plaza near the stables",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "outer plaza gnolls",
+          "relationKinds": [
+            "fought"
+          ],
+          "contextHint": "reinforcements near the stables",
+          "beatIds": [
+            "recap-06"
+          ],
+          "history": [
+            {
+              "location": "gatehouse -> outer plaza near the stables",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Raven's Hold",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "tower above the gate overlooking the inner courtyard",
+          "beatIds": [
+            "recap-01",
+            "recap-02",
+            "recap-03",
+            "recap-04",
+            "recap-05",
+            "recap-07",
+            "recap-08"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-13",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "gatehouse",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "running pursuit through the hold to the outer gates",
+          "beatIds": [
+            "recap-06"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-13",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "outer plaza near the stables",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "running pursuit through the hold to the outer gates",
+          "beatIds": [
+            "recap-06"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-13",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Dunmari spear",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "recap-07"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "metal vial",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "recap-07"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Dunmari army",
+          "contextHint": null
+        }
+      ],
+      "items": []
+    }
+  }
+}

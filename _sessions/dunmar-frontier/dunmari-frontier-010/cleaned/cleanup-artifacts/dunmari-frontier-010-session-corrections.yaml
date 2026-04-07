@@ -1,0 +1,125 @@
+allReplacements:
+- from: society
+  to: Society
+  count: 2
+  headers:
+  - '[u2770 | 03:27:54.840-03:28:01.590 | DM]'
+  - '[u2800 | 03:30:22.740-03:30:36.060 | DM]'
+- from: . A
+  to: a
+  count: 1
+  headers:
+  - '[u2611 | 03:17:34.320-03:17:38.430 | Kenzo]'
+- from: Bullet
+  to: Vola, do
+  count: 1
+  headers:
+  - '[u2680 | 03:21:49.800-03:21:54.420 | Kenzo]'
+- from: Charter Iranian
+  to: Chardonian
+  count: 1
+  headers:
+  - '[u2717 | 03:24:02.910-03:24:03.600 | DM]'
+- from: Ebola.
+  to: Vola,
+  count: 1
+  headers:
+  - '[u2631 | 03:18:42.240-03:18:44.370 | Kenzo]'
+- from: I gotta
+  to: Agata
+  count: 1
+  headers:
+  - '[u2762 | 03:27:22.020-03:27:26.520 | DM]'
+- from: Marcus
+  to: Arcas
+  count: 1
+  headers:
+  - '[u2792 | 03:29:49.680-03:29:50.400 | DM]'
+- from: The
+  to: the
+  count: 1
+  headers:
+  - '[u2763 | 03:27:28.200-03:27:30.600 | DM]'
+- from: The door then
+  to: They ' re not
+  count: 1
+  headers:
+  - '[u0079 | 00:05:42.420-00:05:47.280 | DM]'
+- from: Torben
+  to: dwarven
+  count: 1
+  headers:
+  - '[u1298 | 01:41:00.750-01:41:02.520 | DM]'
+- from: Volo
+  to: Vola
+  count: 1
+  headers:
+  - '[u2651 | 03:19:40.830-03:19:43.320 | DM]'
+- from: Walk it
+  to: Lock
+  count: 1
+  headers:
+  - '[u0005 | 00:00:19.590-00:00:21.300 | DM]'
+- from: Warhammer
+  to: warhammer
+  count: 1
+  headers:
+  - '[u0024 | 00:01:36.840-00:01:40.860 | Kenzo]'
+- from: bola
+  to: ', Vola,'
+  count: 1
+  headers:
+  - '[u2594 | 03:16:32.220-03:16:38.340 | Kenzo]'
+- from: dress globe
+  to: driftglobe
+  count: 1
+  headers:
+  - '[u0079 | 00:05:42.420-00:05:47.280 | DM]'
+- from: dwarfing
+  to: Dwarven
+  count: 1
+  headers:
+  - '[u0079 | 00:05:42.420-00:05:47.280 | DM]'
+- from: fuse the
+  to: fused a
+  count: 1
+  headers:
+  - '[u0018 | 00:01:12.240-00:01:16.620 | DM]'
+- from: goes under how goblins
+  to: those undead hobgoblins
+  count: 1
+  headers:
+  - '[u1059 | 01:22:39.870-01:22:46.920 | Wellby]'
+- from: on dead
+  to: undead
+  count: 1
+  headers:
+  - '[u1671 | 02:08:28.470-02:08:36.750 | DM]'
+- from: open school
+  to: Open Scroll,
+  count: 1
+  headers:
+  - '[u2770 | 03:27:54.840-03:28:01.590 | DM]'
+- from: open school
+  to: Open Scroll.
+  count: 1
+  headers:
+  - '[u2800 | 03:30:22.740-03:30:36.060 | DM]'
+- from: voila
+  to: Vola
+  count: 1
+  headers:
+  - '[u2611 | 03:17:34.320-03:17:38.430 | Kenzo]'
+- from: whistling
+  to: ', Riswynn,'
+  count: 1
+  headers:
+  - '[u0024 | 00:01:36.840-00:01:40.860 | Kenzo]'
+repeatedReplacements:
+- from: society
+  to: Society
+  count: 2
+  headers:
+  - '[u2770 | 03:27:54.840-03:28:01.590 | DM]'
+  - '[u2800 | 03:30:22.740-03:30:36.060 | DM]'
+unresolvedPhrases: []

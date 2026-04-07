@@ -1,0 +1,160 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+  "beats": [
+    {
+      "beatId": "b01",
+      "title": "Broken Gate",
+      "startUid": "u0001",
+      "endUid": "u0337",
+      "lineCount": 337,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The session opens with the party forcing the gate, following the hidden tunnel into Raven's Hold, and regrouping in the old storeroom once Wellby catches up.",
+      "dateEvidence": [
+        "The manifest starts and ends the session on 1748-04-12.",
+        "This opening infiltration scene unfolds continuously with no rest or overnight break."
+      ]
+    },
+    {
+      "beatId": "b02",
+      "title": "Storeroom Debate",
+      "startUid": "u0338",
+      "endUid": "u0650",
+      "lineCount": 313,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Once inside the storeroom, the party trades reports about the hold, the valley, and the iron statue while debating whether to retreat or scout farther in.",
+      "dateEvidence": [
+        "This beat continues directly from the entry into the storeroom.",
+        "No line indicates a day change or meaningful time skip."
+      ]
+    },
+    {
+      "beatId": "b03",
+      "title": "Delwath Scouts Ahead",
+      "startUid": "u0651",
+      "endUid": "u0979",
+      "lineCount": 329,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party's debate gives way to Delwath's invisible scout through the prison caverns, where he spots undead hobgoblins, hears animals near the entrance, and finds the southern tower approach.",
+      "dateEvidence": [
+        "The scouting scene follows immediately after the storeroom discussion.",
+        "There is no rest, travel day transition, or overnight break."
+      ]
+    },
+    {
+      "beatId": "b04",
+      "title": "Prison Ambush",
+      "startUid": "u0980",
+      "endUid": "u1306",
+      "lineCount": 327,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "After Delwath reports back, the group commits to a quiet ambush on the undead hobgoblins and then searches the prison chamber they were haunting.",
+      "dateEvidence": [
+        "The ambush begins as soon as Delwath finishes reporting back.",
+        "The prison search happens in the immediate aftermath of the fight with no date break."
+      ]
+    },
+    {
+      "beatId": "b05",
+      "title": "Watching Raven's Hold",
+      "startUid": "u1307",
+      "endUid": "u1639",
+      "lineCount": 333,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "From the prison and tower approach, the party studies the layout of Raven's Hold, watches gnolls and animal pens, and settles on sending Kenzo to scout invisibly once it grows darker.",
+      "dateEvidence": [
+        "This beat continues directly from the prison search.",
+        "The party explicitly notes that it is getting dark only near the end of the planning scene, supporting a late-afternoon window."
+      ]
+    },
+    {
+      "beatId": "b06",
+      "title": "Kenzo's First Tower",
+      "startUid": "u1640",
+      "endUid": "u1806",
+      "lineCount": 167,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Invisible Kenzo slips into the first tower, confirms it is largely abandoned, surveys the courtyard, and finds the painted mark of the Blackened Claw.",
+      "dateEvidence": [
+        "The previous planning beat ends with the party waiting for darker conditions before scouting.",
+        "Kenzo's tower reconnaissance follows immediately and remains on the same date."
+      ]
+    },
+    {
+      "beatId": "b07",
+      "title": "Second Tower Prisoner",
+      "startUid": "u1807",
+      "endUid": "u2074",
+      "lineCount": 268,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Kenzo crosses into the second tower, finds the orc and strange guards, discovers the prisoner above them, and returns to lead the rest of the party in.",
+      "dateEvidence": [
+        "This beat begins with Kenzo continuing the same scouting run into the second tower.",
+        "No time skip or day transition occurs before he returns for the group."
+      ]
+    },
+    {
+      "beatId": "b08",
+      "title": "Tower Rescue Fight",
+      "startUid": "u2075",
+      "endUid": "u2560",
+      "lineCount": 486,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Once the party reaches the second tower, the rescue turns into a sustained fight against the orc and the two jackalwere guards before the prisoner can be freed.",
+      "dateEvidence": [
+        "The combat starts immediately after the party moves into position in the second tower.",
+        "The scene remains continuous and on the same evening."
+      ]
+    },
+    {
+      "beatId": "b09",
+      "title": "Vola's Warning",
+      "startUid": "u2561",
+      "endUid": "u2875",
+      "lineCount": 315,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "After the fight, the party frees Vola, relocates to a safer tower room, and learns who she is and why Agata Dustmother is searching Raven's Hold for relics.",
+      "dateEvidence": [
+        "The DM says it is around dinner time, about 7 PM, during this conversation.",
+        "The beat follows directly from the rescue without any date change."
+      ]
+    }
+  ]
+}

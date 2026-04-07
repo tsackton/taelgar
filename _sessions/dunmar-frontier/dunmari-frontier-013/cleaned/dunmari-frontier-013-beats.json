@@ -1,0 +1,135 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-session.yaml",
+  "beats": [
+    {
+      "beatId": "b01",
+      "title": "Breakfast in the Hold",
+      "startUid": "u0001",
+      "endUid": "u0340",
+      "lineCount": 340,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Opening recap and the first ruined-barracks search form one continuous scene.",
+      "dateEvidence": [
+        "The session manifest starts on 1748-04-13 and the party is finishing breakfast."
+      ]
+    },
+    {
+      "beatId": "b02",
+      "title": "Loot and Gnoll Clues",
+      "startUid": "u0341",
+      "endUid": "u0790",
+      "lineCount": 450,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party continues searching the outbuildings, uncovers treasure, and gathers clues about the gnolls.",
+      "dateEvidence": [
+        "This still follows directly from breakfast with no rest or travel break."
+      ]
+    },
+    {
+      "beatId": "b03",
+      "title": "Shadow Warnings and Supplies",
+      "startUid": "u0791",
+      "endUid": "u1241",
+      "lineCount": 451,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party regroups, sorts loot, discusses Delwath's shadow-message clues, and decides how to proceed.",
+      "dateEvidence": [
+        "No day transition appears before the party moves toward the mists."
+      ]
+    },
+    {
+      "beatId": "b04",
+      "title": "Testing the Courtyard Mists",
+      "startUid": "u1242",
+      "endUid": "u1676",
+      "lineCount": 435,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The focus shifts from looting to direct investigation of the tainted water, mists, and summoning circle.",
+      "dateEvidence": [
+        "The DM says it is still morning but probably just before lunchtime as they approach the bridge."
+      ]
+    },
+    {
+      "beatId": "b05",
+      "title": "Bridge Circle and Battle",
+      "startUid": "u1677",
+      "endUid": "u2133",
+      "lineCount": 457,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Destroying the circle immediately triggers the demonic plant battle, which stays one continuous combat scene.",
+      "dateEvidence": [
+        "The bridge investigation continues without a break and the DM places the scene near noon."
+      ]
+    },
+    {
+      "beatId": "b06",
+      "title": "Scroll Ash and Animals",
+      "startUid": "u2134",
+      "endUid": "u2422",
+      "lineCount": 289,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "After the battle, the party studies the cleared corruption, finds the scroll-cap remains, and frees the trapped animals.",
+      "dateEvidence": [
+        "This aftermath follows immediately after the fight on the same day."
+      ]
+    },
+    {
+      "beatId": "b07",
+      "title": "Outpost Guardian and Forge",
+      "startUid": "u2423",
+      "endUid": "u2623",
+      "lineCount": 201,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party leaves the valley and explores the dwarven outpost, including the stone guardian and ruined mineworks.",
+      "dateEvidence": [
+        "The published session note places the outpost visit in the afternoon after the noon battle."
+      ]
+    },
+    {
+      "beatId": "b08",
+      "title": "Camp on the South Road",
+      "startUid": "u2624",
+      "endUid": "u2671",
+      "lineCount": 48,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The outpost exploration ends and the session closes with the ride south and evening camp.",
+      "dateEvidence": [
+        "The DM says they ride south for a few hours and make camp for the evening."
+      ]
+    }
+  ]
+}

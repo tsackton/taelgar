@@ -1,0 +1,50 @@
+{
+  "totalDurationSeconds": 5283.876,
+  "speakers": [
+    {
+      "transcriptIdentifier": "David S. Kong",
+      "name": "David Kong",
+      "gameRole": "Kenzo",
+      "segmentCount": 85,
+      "durationSeconds": 157.106,
+      "fraction": 0.0297,
+      "wordCount": 484
+    },
+    {
+      "transcriptIdentifier": "Kate Sackton",
+      "name": "Kate Sackton",
+      "gameRole": "Riswynn",
+      "segmentCount": 173,
+      "durationSeconds": 594.565,
+      "fraction": 0.1125,
+      "wordCount": 1544
+    },
+    {
+      "transcriptIdentifier": "Mike Sackton",
+      "name": "Mike Sackton",
+      "gameRole": "Delwath",
+      "segmentCount": 289,
+      "durationSeconds": 804.639,
+      "fraction": 0.1523,
+      "wordCount": 2228
+    },
+    {
+      "transcriptIdentifier": "Rev. David Schwartz (he/him)",
+      "name": "David Schwartz",
+      "gameRole": "Wellby",
+      "segmentCount": 91,
+      "durationSeconds": 250.911,
+      "fraction": 0.0475,
+      "wordCount": 675
+    },
+    {
+      "transcriptIdentifier": "Tim Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 718,
+      "durationSeconds": 3476.655,
+      "fraction": 0.658,
+      "wordCount": 7404
+    }
+  ]
+}

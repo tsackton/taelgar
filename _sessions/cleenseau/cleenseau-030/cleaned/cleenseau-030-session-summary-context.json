@@ -1,0 +1,431 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-030/cleaned/cleenseau-030-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-030/cleaned/cleenseau-030-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-030/cleaned/cleenseau-030-beat-facts.json",
+  "session": {
+    "campaign": "Cleenseau",
+    "scope": "session",
+    "sessionNumber": 30,
+    "realWorldDate": "2025-12-07",
+    "drStart": null,
+    "drEnd": null
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "undated",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003",
+        "beat-004"
+      ],
+      "locationRefs": [
+        "dragon ambush site",
+        "kobold lair"
+      ],
+      "npcRefs": [
+        "Greymalkin",
+        "kobold leader",
+        "captive kobold"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "ballista",
+        "fly potion",
+        "shiny belt buckle",
+        "dragon loot"
+      ],
+      "combatBeatIds": [
+        "beat-002",
+        "beat-004"
+      ],
+      "sourceShortSummaries": [
+        "The session opens with the party laying out buffs, decoys, allied kobolds, and a ballista for a prepared ambush on the dragon.",
+        "The ambush turns chaotic, but the party crashes the dragon, kills it, and pushes the last hostile kobolds into surrender.",
+        "After the victory, the allied kobolds shower Greymalkin with tribute, the party gathers a little more intel, and then slips into the lair through a backdoor tunnel.",
+        "The party wipes out the remaining kobold defenders, clears the trapped tunnel, reaches the dragon loot, and ends by debating what to do with the dead dragon."
+      ],
+      "sourceLongSummaries": [
+        "After a brief framing recap and dramatis personae, the source reestablishes the party's plan for the dragon fight. Viepuck serves as the decoy, Celyn and the ballista are positioned apart from the main group, the friendly kobolds are kept farther back, and the whole setup is built around grounding the dragon and causing as much chaos as possible once it appears.",
+        "The dragon's first passes burn through the party's preparations, shrug off Izgil's magic, and force the fight into a hectic scramble around the battlefield. Celyn lands critical hits, Viepuck keeps the pressure on, Robin protects Izgil, and Robin's Greymalkin joins the aerial pursuit with a fly potion until the dragon finally falls. In the aftermath, one surviving enemy kobold makes a futile last charge and the kobold leader gives up under pressure from the party's allies.",
+        "With the dragon down, the allied kobolds decide Greymalkin must be the true leader and ceremonially present him with a shiny belt buckle and more tribute. The party presses on quickly once it has the little extra information available, threading a backdoor tunnel toward the lair while Celyn scouts ahead, Izgil uses dimension door to get Robin through the tight spot, and the rest of the group rejoins inside after a brief stealthy scramble.",
+        "Once the disturbed guards return, the last real fight of the session proves brief and lopsided, with Celyn nearly deleting the kobold leader before she can act and Viepuck finishing the job. Afterward the party loots the barracks, works methodically through tripwires, spikes, and a grease trap in the tunnel, disarms the front-door trap near the treasure, and finally turns from clearing the lair to the practical problem of what anyone is supposed to do with a dragon corpse."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Opening and Battle Plan",
+      "beatIds": [
+        "beat-001"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0011"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0011"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "undated",
+      "locationRefs": [
+        "dragon ambush site"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "ballista"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The session opens with the party laying out buffs, decoys, allied kobolds, and a ballista for a prepared ambush on the dragon."
+      ],
+      "sourceLongSummaries": [
+        "After a brief framing recap and dramatis personae, the source reestablishes the party's plan for the dragon fight. Viepuck serves as the decoy, Celyn and the ballista are positioned apart from the main group, the friendly kobolds are kept farther back, and the whole setup is built around grounding the dragon and causing as much chaos as possible once it appears."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "combat",
+      "title": "Crashing the Dragon",
+      "beatIds": [
+        "beat-002"
+      ],
+      "sourceRange": {
+        "startUid": "u0012",
+        "endUid": "u0018"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0012",
+          "endUid": "u0018"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "undated",
+      "locationRefs": [
+        "dragon ambush site"
+      ],
+      "npcRefs": [
+        "Greymalkin",
+        "kobold leader"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "fly potion"
+      ],
+      "combatEnemyRefs": [
+        "dragon",
+        "hostile kobolds"
+      ],
+      "sourceShortSummaries": [
+        "The ambush turns chaotic, but the party crashes the dragon, kills it, and pushes the last hostile kobolds into surrender."
+      ],
+      "sourceLongSummaries": [
+        "The dragon's first passes burn through the party's preparations, shrug off Izgil's magic, and force the fight into a hectic scramble around the battlefield. Celyn lands critical hits, Viepuck keeps the pressure on, Robin protects Izgil, and Robin's Greymalkin joins the aerial pursuit with a fly potion until the dragon finally falls. In the aftermath, one surviving enemy kobold makes a futile last charge and the kobold leader gives up under pressure from the party's allies."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Tribute and Tunnel Entry",
+      "beatIds": [
+        "beat-003"
+      ],
+      "sourceRange": {
+        "startUid": "u0019",
+        "endUid": "u0021"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0019",
+          "endUid": "u0021"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "undated",
+      "locationRefs": [
+        "dragon ambush site",
+        "kobold lair"
+      ],
+      "npcRefs": [
+        "Greymalkin",
+        "captive kobold"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "shiny belt buckle"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "After the victory, the allied kobolds shower Greymalkin with tribute, the party gathers a little more intel, and then slips into the lair through a backdoor tunnel."
+      ],
+      "sourceLongSummaries": [
+        "With the dragon down, the allied kobolds decide Greymalkin must be the true leader and ceremonially present him with a shiny belt buckle and more tribute. The party presses on quickly once it has the little extra information available, threading a backdoor tunnel toward the lair while Celyn scouts ahead, Izgil uses dimension door to get Robin through the tight spot, and the rest of the group rejoins inside after a brief stealthy scramble."
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "combat",
+      "title": "Clearing the Kobold Lair",
+      "beatIds": [
+        "beat-004"
+      ],
+      "sourceRange": {
+        "startUid": "u0022",
+        "endUid": "u0026"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0022",
+          "endUid": "u0026"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "undated",
+      "locationRefs": [
+        "kobold lair"
+      ],
+      "npcRefs": [
+        "kobold leader"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "dragon loot"
+      ],
+      "combatEnemyRefs": [
+        "kobold leader",
+        "remaining kobold defenders"
+      ],
+      "sourceShortSummaries": [
+        "The party wipes out the remaining kobold defenders, clears the trapped tunnel, reaches the dragon loot, and ends by debating what to do with the dead dragon."
+      ],
+      "sourceLongSummaries": [
+        "Once the disturbed guards return, the last real fight of the session proves brief and lopsided, with Celyn nearly deleting the kobold leader before she can act and Viepuck finishing the job. Afterward the party loots the barracks, works methodically through tripwires, spikes, and a grease trap in the tunnel, disarms the front-door trap near the treasure, and finally turns from clearing the lair to the practical problem of what anyone is supposed to do with a dragon corpse."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Greymalkin",
+        "beatIds": [
+          "beat-002",
+          "beat-003"
+        ],
+        "relationKinds": [
+          "companion"
+        ]
+      },
+      {
+        "name": "kobold leader",
+        "beatIds": [
+          "beat-002",
+          "beat-004"
+        ],
+        "relationKinds": [
+          "fought"
+        ]
+      },
+      {
+        "name": "captive kobold",
+        "beatIds": [
+          "beat-003"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-002",
+        "beatIds": [
+          "beat-002"
+        ],
+        "enemyRefs": [
+          "dragon",
+          "hostile kobolds"
+        ],
+        "dateStart": null,
+        "dateEnd": null
+      },
+      {
+        "blockId": "recap-004",
+        "beatIds": [
+          "beat-004"
+        ],
+        "enemyRefs": [
+          "kobold leader",
+          "remaining kobold defenders"
+        ],
+        "dateStart": null,
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "dragon ambush site",
+        "beatIds": [
+          "beat-001",
+          "beat-002",
+          "beat-003"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "kobold lair",
+        "beatIds": [
+          "beat-003",
+          "beat-004"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Greymalkin",
+          "relationKinds": [
+            "companion"
+          ],
+          "contextHint": "Robin's flying companion",
+          "beatIds": [
+            "beat-002",
+            "beat-003"
+          ],
+          "history": []
+        },
+        {
+          "name": "kobold leader",
+          "relationKinds": [
+            "fought"
+          ],
+          "contextHint": "surviving hostile commander",
+          "beatIds": [
+            "beat-002",
+            "beat-004"
+          ],
+          "history": []
+        },
+        {
+          "name": "captive kobold",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "prisoner cowed by Greymalkin's display",
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": []
+        }
+      ],
+      "locations": [
+        {
+          "name": "dragon ambush site",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "the prepared battlefield with the decoy, the ballista, and the allied kobolds set in separate positions",
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-003"
+          ],
+          "visits": []
+        },
+        {
+          "name": "kobold lair",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "movement from the crash site into the backdoor tunnel and the first dark chamber beyond it",
+          "beatIds": [
+            "beat-003",
+            "beat-004"
+          ],
+          "visits": []
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "ballista",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": []
+        },
+        {
+          "name": "fly potion",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": []
+        },
+        {
+          "name": "shiny belt buckle",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": []
+        },
+        {
+          "name": "dragon loot",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004"
+          ],
+          "history": []
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [],
+      "locations": [],
+      "organizations": [],
+      "items": []
+    }
+  }
+}

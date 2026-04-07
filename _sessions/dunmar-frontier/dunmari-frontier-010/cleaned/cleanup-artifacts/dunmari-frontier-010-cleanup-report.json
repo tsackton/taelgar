@@ -1,0 +1,218 @@
+{
+  "summary": {
+    "changedLineCount": 20,
+    "replacementCount": 23,
+    "repeatedReplacementCount": 1,
+    "topReplacements": [
+      {
+        "from": "society",
+        "to": "Society",
+        "count": 2,
+        "headers": [
+          "[u2770 | 03:27:54.840-03:28:01.590 | DM]",
+          "[u2800 | 03:30:22.740-03:30:36.060 | DM]"
+        ]
+      },
+      {
+        "from": ". A",
+        "to": "a",
+        "count": 1,
+        "headers": [
+          "[u2611 | 03:17:34.320-03:17:38.430 | Kenzo]"
+        ]
+      },
+      {
+        "from": "Bullet",
+        "to": "Vola, do",
+        "count": 1,
+        "headers": [
+          "[u2680 | 03:21:49.800-03:21:54.420 | Kenzo]"
+        ]
+      },
+      {
+        "from": "Charter Iranian",
+        "to": "Chardonian",
+        "count": 1,
+        "headers": [
+          "[u2717 | 03:24:02.910-03:24:03.600 | DM]"
+        ]
+      },
+      {
+        "from": "Ebola.",
+        "to": "Vola,",
+        "count": 1,
+        "headers": [
+          "[u2631 | 03:18:42.240-03:18:44.370 | Kenzo]"
+        ]
+      },
+      {
+        "from": "I gotta",
+        "to": "Agata",
+        "count": 1,
+        "headers": [
+          "[u2762 | 03:27:22.020-03:27:26.520 | DM]"
+        ]
+      },
+      {
+        "from": "Marcus",
+        "to": "Arcas",
+        "count": 1,
+        "headers": [
+          "[u2792 | 03:29:49.680-03:29:50.400 | DM]"
+        ]
+      },
+      {
+        "from": "The",
+        "to": "the",
+        "count": 1,
+        "headers": [
+          "[u2763 | 03:27:28.200-03:27:30.600 | DM]"
+        ]
+      },
+      {
+        "from": "The door then",
+        "to": "They ' re not",
+        "count": 1,
+        "headers": [
+          "[u0079 | 00:05:42.420-00:05:47.280 | DM]"
+        ]
+      },
+      {
+        "from": "Torben",
+        "to": "dwarven",
+        "count": 1,
+        "headers": [
+          "[u1298 | 01:41:00.750-01:41:02.520 | DM]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 2875,
+  "changedLineCount": 20,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0005 | 00:00:19.590-00:00:21.300 | DM]",
+      "lineNumber": 5,
+      "originalText": "Walk it itself is",
+      "cleanedText": "Lock itself is"
+    },
+    {
+      "header": "[u0006 | 00:00:22.800-00:00:31.080 | DM]",
+      "lineNumber": 6,
+      "originalText": "So basically it's like iron, iron bars with a door that swings open, which itself is not locked at all, but does a chain.",
+      "cleanedText": "So basically it's like iron, iron bars with a door that swings open, which itself is not locked at all, but does have a chain."
+    },
+    {
+      "header": "[u0018 | 00:01:12.240-00:01:16.620 | DM]",
+      "lineNumber": 18,
+      "originalText": "The sort of pins on the lock have like fuse the little bit or rusted together.",
+      "cleanedText": "The sort of pins on the lock have like fused a little bit or rusted together."
+    },
+    {
+      "header": "[u0024 | 00:01:36.840-00:01:40.860 | Kenzo]",
+      "lineNumber": 24,
+      "originalText": "I think I think whistling if you maybe with your new Warhammer.",
+      "cleanedText": "I think, I think, Riswynn, if you maybe with your new warhammer."
+    },
+    {
+      "header": "[u0079 | 00:05:42.420-00:05:47.280 | DM]",
+      "lineNumber": 79,
+      "originalText": "dwarfing crystals. The door then like crystals. I'm just using my dress globe stats.",
+      "cleanedText": "Dwarven crystals. They're not like crystals. I'm just using my driftglobe stats."
+    },
+    {
+      "header": "[u1059 | 01:22:39.870-01:22:46.920 | Wellby]",
+      "lineNumber": 1059,
+      "originalText": "Don't goes under how goblins look like the undead hobgoblin we saw a couple of weeks ago.",
+      "cleanedText": "Don't those undead hobgoblins look like the undead hobgoblin we saw a couple of weeks ago."
+    },
+    {
+      "header": "[u1298 | 01:41:00.750-01:41:02.520 | DM]",
+      "lineNumber": 1298,
+      "originalText": "Or human not Torben",
+      "cleanedText": "Or human, not dwarven"
+    },
+    {
+      "header": "[u1671 | 02:08:28.470-02:08:36.750 | DM]",
+      "lineNumber": 1671,
+      "originalText": "Courtyard area are several more of those hobgoblin on dead creatures that you saw",
+      "cleanedText": "Courtyard area are several more of those hobgoblin undead creatures that you saw"
+    },
+    {
+      "header": "[u1792 | 02:19:54.570-02:20:00.810 | DM]",
+      "lineNumber": 1792,
+      "originalText": "What seems like would be the equipment of a relatively well off hobgoblin kaput captain.",
+      "cleanedText": "What seems like would be the equipment of a relatively well off hobgoblin captain."
+    },
+    {
+      "header": "[u2594 | 03:16:32.220-03:16:38.340 | Kenzo]",
+      "lineNumber": 2594,
+      "originalText": "Oh, I go up to the top of the stairs. I say bola hands up the invisible guy. Nice to meet you.",
+      "cleanedText": "Oh, I go up to the top of the stairs. I say, Vola, hands up, the invisible guy. Nice to meet you."
+    },
+    {
+      "header": "[u2611 | 03:17:34.320-03:17:38.430 | Kenzo]",
+      "lineNumber": 2611,
+      "originalText": "This is voila, we'll do proper introductions. A little bit later, but first, how about we get the hell out of here.",
+      "cleanedText": "This is Vola, we'll do proper introductions a little bit later, but first, how about we get the hell out of here."
+    },
+    {
+      "header": "[u2631 | 03:18:42.240-03:18:44.370 | Kenzo]",
+      "lineNumber": 2631,
+      "originalText": "Ebola. I just wanted to call it. Should we kill this guy.",
+      "cleanedText": "Vola, I just wanted to call it. Should we kill this guy."
+    },
+    {
+      "header": "[u2651 | 03:19:40.830-03:19:43.320 | DM]",
+      "lineNumber": 2651,
+      "originalText": "Volo watches this with interest and kind of",
+      "cleanedText": "Vola watches this with interest and kind of"
+    },
+    {
+      "header": "[u2680 | 03:21:49.800-03:21:54.420 | Kenzo]",
+      "lineNumber": 2680,
+      "originalText": "Bullet you know if there's a place we can be a little bit more quiet that we're not going to get interrupted right around here.",
+      "cleanedText": "Vola, do you know if there's a place we can be a little bit more quiet that we're not going to get interrupted right around here."
+    },
+    {
+      "header": "[u2717 | 03:24:02.910-03:24:03.600 | DM]",
+      "lineNumber": 2717,
+      "originalText": "Charter Iranian",
+      "cleanedText": "Chardonian"
+    },
+    {
+      "header": "[u2762 | 03:27:22.020-03:27:26.520 | DM]",
+      "lineNumber": 2762,
+      "originalText": "Something I don't know quite what she is. Her name is I gotta",
+      "cleanedText": "Something, I don't know quite what she is. Her name is Agata"
+    },
+    {
+      "header": "[u2763 | 03:27:28.200-03:27:30.600 | DM]",
+      "lineNumber": 2763,
+      "originalText": "The color. I gotta dusk dust mother.",
+      "cleanedText": "the color, Agata Dustmother."
+    },
+    {
+      "header": "[u2770 | 03:27:54.840-03:28:01.590 | DM]",
+      "lineNumber": 2770,
+      "originalText": "Some of us associated with the library, the society of the open school are concerned about her.",
+      "cleanedText": "Some of us associated with the library, the Society of the Open Scroll, are concerned about her."
+    },
+    {
+      "header": "[u2792 | 03:29:49.680-03:29:50.400 | DM]",
+      "lineNumber": 2792,
+      "originalText": "Marcus.",
+      "cleanedText": "Arcas."
+    },
+    {
+      "header": "[u2800 | 03:30:22.740-03:30:36.060 | DM]",
+      "lineNumber": 2800,
+      "originalText": "Yeah, and you know, there's always been rumors about sort of secret societies associated with the library and sort of, you know, hidden mystical orders and things like that, but you've not specifically heard of the society of the open school",
+      "cleanedText": "Yeah, and you know, there's always been rumors about sort of secret societies associated with the library and sort of, you know, hidden mystical orders and things like that, but you've not specifically heard of the Society of the Open Scroll."
+    }
+  ]
+}

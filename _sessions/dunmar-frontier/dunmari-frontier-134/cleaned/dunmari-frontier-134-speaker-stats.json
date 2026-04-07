@@ -1,0 +1,59 @@
+{
+  "totalDurationSeconds": 5879.576,
+  "speakers": [
+    {
+      "transcriptIdentifier": "Audio shared by Tim Sackton",
+      "name": null,
+      "gameRole": "Audio shared by Tim Sackton",
+      "segmentCount": 4,
+      "durationSeconds": 6.71,
+      "fraction": 0.0011,
+      "wordCount": 13
+    },
+    {
+      "transcriptIdentifier": "David S. Kong",
+      "name": "David Kong",
+      "gameRole": "Kenzo",
+      "segmentCount": 312,
+      "durationSeconds": 1096.527,
+      "fraction": 0.1865,
+      "wordCount": 3530
+    },
+    {
+      "transcriptIdentifier": "Eric Rosenbaum",
+      "name": "Eric Rosenbaum",
+      "gameRole": "Seeker",
+      "segmentCount": 123,
+      "durationSeconds": 298.254,
+      "fraction": 0.0507,
+      "wordCount": 762
+    },
+    {
+      "transcriptIdentifier": "Mike",
+      "name": "Mike Sackton",
+      "gameRole": "Delwath",
+      "segmentCount": 254,
+      "durationSeconds": 879.43,
+      "fraction": 0.1496,
+      "wordCount": 2384
+    },
+    {
+      "transcriptIdentifier": "Rev. David Schwartz, Unitarian Universalist Church of Boulder",
+      "name": "David Schwartz",
+      "gameRole": "Wellby",
+      "segmentCount": 95,
+      "durationSeconds": 270.319,
+      "fraction": 0.046,
+      "wordCount": 828
+    },
+    {
+      "transcriptIdentifier": "Tim Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 690,
+      "durationSeconds": 3328.336,
+      "fraction": 0.5661,
+      "wordCount": 7354
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "totalDurationSeconds": 8299.503,
+  "speakers": [
+    {
+      "transcriptIdentifier": "Caulaus Aportino (he/human/fighter)",
+      "name": "Mike Sackton",
+      "gameRole": "Caulaus",
+      "segmentCount": 413,
+      "durationSeconds": 1494.891,
+      "fraction": 0.1801,
+      "wordCount": 3579
+    },
+    {
+      "transcriptIdentifier": "Raven",
+      "name": "Isaac Sackton",
+      "gameRole": "Raven",
+      "segmentCount": 500,
+      "durationSeconds": 1750.908,
+      "fraction": 0.211,
+      "wordCount": 3817
+    },
+    {
+      "transcriptIdentifier": "Seeker",
+      "name": "Eric Rosenbaum",
+      "gameRole": "Seeker",
+      "segmentCount": 243,
+      "durationSeconds": 633.653,
+      "fraction": 0.0763,
+      "wordCount": 1644
+    },
+    {
+      "transcriptIdentifier": "Spirala",
+      "name": "Kate Sackton",
+      "gameRole": "Spirala",
+      "segmentCount": 138,
+      "durationSeconds": 498.301,
+      "fraction": 0.06,
+      "wordCount": 1228
+    },
+    {
+      "transcriptIdentifier": "Timothy Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 997,
+      "durationSeconds": 3818.688,
+      "fraction": 0.4601,
+      "wordCount": 8497
+    },
+    {
+      "transcriptIdentifier": "Um",
+      "name": null,
+      "gameRole": "Um",
+      "segmentCount": 1,
+      "durationSeconds": 0.88,
+      "fraction": 0.0001,
+      "wordCount": 0
+    },
+    {
+      "transcriptIdentifier": "Unknown",
+      "name": null,
+      "gameRole": "Unknown",
+      "segmentCount": 75,
+      "durationSeconds": 102.182,
+      "fraction": 0.0123,
+      "wordCount": 188
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-031/cleaned/cleenseau-031-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-031/cleaned/cleenseau-031-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Dragon Spoils and Fey Maps",
+      "startUid": "u0001",
+      "endUid": "u0012",
+      "lineCount": 12,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "The opening interlude stays in post-dragon fallout at Asineau: the party disposes of the dragon's remains, settles its kobold followers into village life, and develops Celyn and Izgil's growing map of fey realms until the royal visit changes the session's focus.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Preparing for the Queen",
+      "startUid": "u0013",
+      "endUid": "u0019",
+      "lineCount": 7,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "This beat is one continuous royal-preparation scene: the retainers inspect Asineau, the party works through hosting logistics, and the discussion ends with a plan to ride out early and escort the queen through the dangerous swamps.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Ambush in the Swamp Road",
+      "startUid": "u0020",
+      "endUid": "u0027",
+      "lineCount": 8,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": true,
+      "boundaryReason": "The escort ride turns into the opening combat phase as ensorcelled elk signal the Hunter's presence, the party spreads out to protect the entourage, and the Hunter commits to the attack by teleporting into melee.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Saving the Queen",
+      "startUid": "u0028",
+      "endUid": "u0037",
+      "lineCount": 10,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": true,
+      "boundaryReason": "Once the Duskhound reaches the entourage, the fight changes shape completely: the queen is seized, Viepuck and Izgil improvise a vertical rescue, and the party responds by killing the Hunter before he can regroup.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Running Down the Duskhound",
+      "startUid": "u0038",
+      "endUid": "u0040",
+      "lineCount": 3,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": true,
+      "boundaryReason": "After the Hunter falls, the remaining combat narrows to a mobile pursuit as Greymalkin carries Robin and Celyn after the fleeing Duskhound and the party kills it before it can warn the Gloomshaper.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Ordered to Close the Portal",
+      "startUid": "u0041",
+      "endUid": "u0047",
+      "lineCount": 7,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "With the ambush over, the session shifts to aftermath and next steps: the party explains the ongoing danger to the queen, concludes that only the Feywild portal can blunt it, and accepts the queen's order to ride back, sleep, and strike the portal at first light.",
+      "dateEvidence": []
+    }
+  ]
+}

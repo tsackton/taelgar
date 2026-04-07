@@ -1,0 +1,280 @@
+allReplacements:
+- from: technical
+  to: tentacle
+  count: 8
+  headers:
+  - '[u2105 | 02:44:10.020-02:44:11.880 | DM]'
+  - '[u2231 | 02:52:44.520-02:52:45.480 | Seeker]'
+  - '[u2251 | 02:53:26.910-02:53:29.070 | Kenzo]'
+  - '[u2494 | 03:09:36.210-03:09:38.580 | Kenzo]'
+  - '[u2497 | 03:09:43.800-03:09:56.850 | Kenzo]'
+  - '[u2652 | 03:19:25.080-03:19:29.310 | Kenzo]'
+  - '[u2662 | 03:20:08.790-03:20:12.630 | Kenzo]'
+- from: ravens hold
+  to: Raven ' s Hold
+  count: 6
+  headers:
+  - '[u0088 | 00:06:33.240-00:06:45.780 | Wellby]'
+  - '[u0115 | 00:09:19.680-00:09:31.440 | Kenzo]'
+  - '[u0117 | 00:09:35.730-00:09:51.480 | Kenzo]'
+  - '[u0122 | 00:10:15.330-00:10:22.080 | Kenzo]'
+  - '[u0290 | 00:25:29.940-00:25:33.390 | DM]'
+  - '[u0614 | 00:52:06.540-00:52:09.210 | DM]'
+- from: wrestling
+  to: Riswynn
+  count: 5
+  headers:
+  - '[u0536 | 00:45:37.230-00:45:39.270 | Kenzo]'
+  - '[u1722 | 02:16:15.210-02:16:20.220 | DM]'
+  - '[u2431 | 03:04:57.090-03:05:00.810 | DM]'
+  - '[u2437 | 03:05:29.910-03:05:35.370 | DM]'
+  - '[u2601 | 03:15:51.780-03:15:53.430 | DM]'
+- from: door of an
+  to: dwarven
+  count: 3
+  headers:
+  - '[u0267 | 00:22:50.400-00:22:53.340 | Seeker]'
+  - '[u0270 | 00:23:01.590-00:23:10.230 | DM]'
+  - '[u0692 | 00:57:01.560-00:57:09.900 | DM]'
+- from: planes
+  to: plains
+  count: 2
+  headers:
+  - '[u0002 | 00:00:14.130-00:00:28.830 | DM]'
+  - '[u0003 | 00:00:33.840-00:00:41.400 | DM]'
+- from: raise when
+  to: Riswynn
+  count: 2
+  headers:
+  - '[u1066 | 01:23:02.820-01:23:14.280 | DM]'
+  - '[u1385 | 01:48:02.130-01:48:05.160 | DM]'
+- from: ravens hole
+  to: Raven ' s Hold
+  count: 2
+  headers:
+  - '[u0093 | 00:07:19.770-00:07:26.970 | DM]'
+  - '[u0114 | 00:09:11.760-00:09:18.210 | Kenzo]'
+- from: sold
+  to: ''' s Hold'
+  count: 2
+  headers:
+  - '[u0037 | 00:03:19.770-00:03:23.010 | DM]'
+  - '[u0294 | 00:25:52.200-00:25:58.290 | Kenzo]'
+- from: . I had
+  to: ahead,
+  count: 1
+  headers:
+  - '[u0008 | 00:01:12.300-00:01:18.900 | DM]'
+- from: . Moving
+  to: moving
+  count: 1
+  headers:
+  - '[u0011 | 00:01:40.650-00:01:46.110 | DM]'
+- from: Denmark
+  to: Dunmari
+  count: 1
+  headers:
+  - '[u0006 | 00:01:01.680-00:01:05.820 | DM]'
+- from: Dunbar
+  to: Dunmar
+  count: 1
+  headers:
+  - '[u0002 | 00:00:14.130-00:00:28.830 | DM]'
+- from: Dunbar, he
+  to: Dunmari
+  count: 1
+  headers:
+  - '[u0005 | 00:00:52.890-00:01:00.060 | DM]'
+- from: Faint were from
+  to: A faint whiff of
+  count: 1
+  headers:
+  - '[u0010 | 00:01:33.420-00:01:39.420 | DM]'
+- from: God
+  to: down
+  count: 1
+  headers:
+  - '[u0009 | 00:01:19.890-00:01:32.370 | DM]'
+- from: Raise when
+  to: Riswynn
+  count: 1
+  headers:
+  - '[u0718 | 00:58:34.260-00:58:51.690 | DM]'
+- from: Tools
+  to: ''' s Hold'
+  count: 1
+  headers:
+  - '[u0331 | 00:28:28.140-00:28:32.220 | DM]'
+- from: Well
+  to: Worn
+  count: 1
+  headers:
+  - '[u0003 | 00:00:33.840-00:00:41.400 | DM]'
+- from: a gal
+  to: ago,
+  count: 1
+  headers:
+  - '[u0004 | 00:00:42.840-00:00:50.910 | DM]'
+- from: can dress
+  to: Candrosa
+  count: 1
+  headers:
+  - '[u0005 | 00:00:52.890-00:01:00.060 | DM]'
+- from: cap
+  to: '- capped,'
+  count: 1
+  headers:
+  - '[u0003 | 00:00:33.840-00:00:41.400 | DM]'
+- from: carwash
+  to: Karawa,
+  count: 1
+  headers:
+  - '[u0005 | 00:00:52.890-00:01:00.060 | DM]'
+- from: center ' s willing
+  to: centaurs riding
+  count: 1
+  headers:
+  - '[u0005 | 00:00:52.890-00:01:00.060 | DM]'
+- from: center is
+  to: centaurs
+  count: 1
+  headers:
+  - '[u0004 | 00:00:42.840-00:00:50.910 | DM]'
+- from: content into
+  to: continent.
+  count: 1
+  headers:
+  - '[u0002 | 00:00:14.130-00:00:28.830 | DM]'
+- from: distance
+  to: distant
+  count: 1
+  headers:
+  - '[u0009 | 00:01:19.890-00:01:32.370 | DM]'
+- from: door of an app host
+  to: dwarven outpost
+  count: 1
+  headers:
+  - '[u1784 | 02:20:42.750-02:20:45.810 | Seeker]'
+- from: dorm
+  to: dwarf
+  count: 1
+  headers:
+  - '[u0106 | 00:08:41.850-00:08:49.770 | Wellby]'
+- from: gentlest sent
+  to: gentle ascent
+  count: 1
+  headers:
+  - '[u0008 | 00:01:12.300-00:01:18.900 | DM]'
+- from: hold
+  to: ''' s Hold'
+  count: 1
+  headers:
+  - '[u0039 | 00:03:24.450-00:03:39.330 | Wellby]'
+- from: just
+  to: jut
+  count: 1
+  headers:
+  - '[u0003 | 00:00:33.840-00:00:41.400 | DM]'
+- from: last
+  to: left
+  count: 1
+  headers:
+  - '[u0004 | 00:00:42.840-00:00:50.910 | DM]'
+- from: opened
+  to: open
+  count: 1
+  headers:
+  - '[u0002 | 00:00:14.130-00:00:28.830 | DM]'
+- from: past
+  to: pass
+  count: 1
+  headers:
+  - '[u0008 | 00:01:12.300-00:01:18.900 | DM]'
+- from: planes are
+  to: plains, a
+  count: 1
+  headers:
+  - '[u0002 | 00:00:14.130-00:00:28.830 | DM]'
+- from: plans
+  to: plains
+  count: 1
+  headers:
+  - '[u0010 | 00:01:33.420-00:01:39.420 | DM]'
+- from: ravens hold
+  to: Raven ' s Hold.
+  count: 1
+  headers:
+  - '[u0009 | 00:01:19.890-00:01:32.370 | DM]'
+- from: seminars
+  to: centaurs
+  count: 1
+  headers:
+  - '[u0017 | 00:02:17.400-00:02:20.730 | Kenzo]'
+- from: wild flowers
+  to: wildflowers
+  count: 1
+  headers:
+  - '[u0003 | 00:00:33.840-00:00:41.400 | DM]'
+repeatedReplacements:
+- from: technical
+  to: tentacle
+  count: 8
+  headers:
+  - '[u2105 | 02:44:10.020-02:44:11.880 | DM]'
+  - '[u2231 | 02:52:44.520-02:52:45.480 | Seeker]'
+  - '[u2251 | 02:53:26.910-02:53:29.070 | Kenzo]'
+  - '[u2494 | 03:09:36.210-03:09:38.580 | Kenzo]'
+  - '[u2497 | 03:09:43.800-03:09:56.850 | Kenzo]'
+  - '[u2652 | 03:19:25.080-03:19:29.310 | Kenzo]'
+  - '[u2662 | 03:20:08.790-03:20:12.630 | Kenzo]'
+- from: ravens hold
+  to: Raven ' s Hold
+  count: 6
+  headers:
+  - '[u0088 | 00:06:33.240-00:06:45.780 | Wellby]'
+  - '[u0115 | 00:09:19.680-00:09:31.440 | Kenzo]'
+  - '[u0117 | 00:09:35.730-00:09:51.480 | Kenzo]'
+  - '[u0122 | 00:10:15.330-00:10:22.080 | Kenzo]'
+  - '[u0290 | 00:25:29.940-00:25:33.390 | DM]'
+  - '[u0614 | 00:52:06.540-00:52:09.210 | DM]'
+- from: wrestling
+  to: Riswynn
+  count: 5
+  headers:
+  - '[u0536 | 00:45:37.230-00:45:39.270 | Kenzo]'
+  - '[u1722 | 02:16:15.210-02:16:20.220 | DM]'
+  - '[u2431 | 03:04:57.090-03:05:00.810 | DM]'
+  - '[u2437 | 03:05:29.910-03:05:35.370 | DM]'
+  - '[u2601 | 03:15:51.780-03:15:53.430 | DM]'
+- from: door of an
+  to: dwarven
+  count: 3
+  headers:
+  - '[u0267 | 00:22:50.400-00:22:53.340 | Seeker]'
+  - '[u0270 | 00:23:01.590-00:23:10.230 | DM]'
+  - '[u0692 | 00:57:01.560-00:57:09.900 | DM]'
+- from: planes
+  to: plains
+  count: 2
+  headers:
+  - '[u0002 | 00:00:14.130-00:00:28.830 | DM]'
+  - '[u0003 | 00:00:33.840-00:00:41.400 | DM]'
+- from: raise when
+  to: Riswynn
+  count: 2
+  headers:
+  - '[u1066 | 01:23:02.820-01:23:14.280 | DM]'
+  - '[u1385 | 01:48:02.130-01:48:05.160 | DM]'
+- from: ravens hole
+  to: Raven ' s Hold
+  count: 2
+  headers:
+  - '[u0093 | 00:07:19.770-00:07:26.970 | DM]'
+  - '[u0114 | 00:09:11.760-00:09:18.210 | Kenzo]'
+- from: sold
+  to: ''' s Hold'
+  count: 2
+  headers:
+  - '[u0037 | 00:03:19.770-00:03:23.010 | DM]'
+  - '[u0294 | 00:25:52.200-00:25:58.290 | Kenzo]'
+unresolvedPhrases: []

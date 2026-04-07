@@ -1,0 +1,692 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 11,
+    "realWorldDate": "2020-10-23",
+    "drStart": "1748-04-12",
+    "drEnd": "1748-04-13"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b01",
+        "b02"
+      ],
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola Forena"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "In the north tower, the party shares food with Vola and learns how Agata Dustmother's servants captured her while waiting for a ritual at Raven's Hold to succeed.",
+        "The party argues over rest versus urgency, weighs Vola's warning, and settles on sending an invisible scout team into the keep."
+      ],
+      "sourceLongSummaries": [
+        "Holed up in the north tower at dusk, the party gets its first real conversation with Vola Forena after rescuing her from captivity. Vola explains that she came to Raven's Hold hunting Drankorian relics, was seized by an orc and two jackalweres serving Agata Dustmother, and was told she would be taken away once an important ritual here was complete. Her account ties the fortress, the captive animals, and the growing nightmares into the same threat.",
+        "Still in the tower, the group turns Vola's report into a plan. They debate whether they dare sleep, whether the ritual may be tied to the water and the penned animals, and whether surprise is worth more than caution. By the end of the discussion, they choose a stealth approach: Wellby under invisibility with Kenzo nearby, while the others take what recovery they can."
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b03",
+        "b04",
+        "b05",
+        "b06",
+        "b07"
+      ],
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Oduk",
+        "undead gnoll",
+        "Vola Forena",
+        "undead gnolls"
+      ],
+      "organizationRefs": [
+        "Five Siblings"
+      ],
+      "itemRefs": [
+        "elixir of health",
+        "hobgoblin papers"
+      ],
+      "combatBeatIds": [
+        "b05",
+        "b06"
+      ],
+      "sourceShortSummaries": [
+        "Kenzo and Wellby slip through the misty courtyard, uncover a ruined chapel stuffed with animal carcasses, and spot an undead gnoll and a waiting demon inside the keep.",
+        "Back in the tower, the group pieces together the demon's likely role in making gnolls and decides they cannot afford to wait until morning before striking.",
+        "The ambush begins well, but the fight quickly turns desperate as Oduk closes with the front line and the undead gnolls pin down the party.",
+        "Oduk's poison nearly drops Delwath and Kenzo, but the party rallies, destroys the demon, and finishes the last undead gnoll.",
+        "After the battle, the party searches the keep, banks the ritual fires, finds more hobgoblin papers, and confirms there is no obvious deeper chamber below."
+      ],
+      "sourceLongSummaries": [
+        "Under cover of darkness and invisibility, Kenzo and Wellby cross the steaming inner courtyard to inspect the keep firsthand. They find the shattered chapel of Aagir blocked with bones and rotting animal bodies, then glimpse an undead gnoll and a horned demon pacing inside the main hall amid bonfires, skulls, and unnatural heat. After quietly making the circuit, they return to the tower with proof that the ritual is real and already far advanced.",
+        "The scout report triggers a longer tactical debate. Seeker connects the ritual to demonic lore about consuming corrupted flesh, Kenzo senses that the demon is tethered to another plane, and the group weighs whether delay would let the process finish or spread. They finally commit to attacking that night, cross the courtyard in two prongs, and set up the ambush at the keep entrance.",
+        "The party opens with surprise attacks from the doorway and shadows, trying to bring Oduk down before it can use the ritual ground to its advantage. The demon proves tougher than expected, staring into minds, hissing curses, and lashing out with claws and a poisoned tail while undead gnolls press in around it. What began as a clean ambush turns into a close, chaotic melee in the keep entrance.",
+        "The second half of the battle becomes a struggle to survive Oduk's poison and keep people standing long enough to finish it. Delwath goes down under the demon's tail and Seeker has to pull him back with healing and an elixir while Kenzo fights on through rotting flesh and disadvantage. Vola's conjured dagger and Kenzo's final strike break Oduk's form, after which Riswynn crushes the remaining gnoll and the ritual hall finally falls quiet.",
+        "With Oduk gone, the group studies the ruined chapel and great hall, trying to understand what the demon had been doing with the animal carcasses and skull-lined fires. They extinguish the ritual flames, search the upper floors, and recover another bundle of old papers in the same hobgoblin hand as earlier finds, but they uncover no clear hidden lair or basement. Kenzo remains afflicted while the others conclude that rest in the tower is the safest option left."
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b08"
+      ],
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola Forena",
+        "remaining gnolls"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party withdraws to the tower, endures corrupted dreams and incomplete healing, and wakes at dawn with a longer list of questions and remaining threats."
+      ],
+      "sourceLongSummaries": [
+        "Back in the north tower, the party posts a watch and tries to salvage the night while gnolls briefly investigate the shut gate below and move on. The rest is uneven: some sleepers wake shaken, while Kenzo, Delwath, and Seeker lose hit points or gain exhaustion from vivid nightmares of animals becoming gnolls. At dawn they regroup, compare what they learned, and decide the next day must deal with the remaining gnolls, the penned animals, the river, and the larger mystery behind Agata's operation."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Vola's Story",
+      "beatIds": [
+        "b01"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0479"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0479"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola Forena"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "In the north tower, the party shares food with Vola and learns how Agata Dustmother's servants captured her while waiting for a ritual at Raven's Hold to succeed."
+      ],
+      "sourceLongSummaries": [
+        "Holed up in the north tower at dusk, the party gets its first real conversation with Vola Forena after rescuing her from captivity. Vola explains that she came to Raven's Hold hunting Drankorian relics, was seized by an orc and two jackalweres serving Agata Dustmother, and was told she would be taken away once an important ritual here was complete. Her account ties the fortress, the captive animals, and the growing nightmares into the same threat."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Scouting Plan",
+      "beatIds": [
+        "b02"
+      ],
+      "sourceRange": {
+        "startUid": "u0480",
+        "endUid": "u0679"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0480",
+          "endUid": "u0679"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola Forena"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party argues over rest versus urgency, weighs Vola's warning, and settles on sending an invisible scout team into the keep."
+      ],
+      "sourceLongSummaries": [
+        "Still in the tower, the group turns Vola's report into a plan. They debate whether they dare sleep, whether the ritual may be tied to the water and the penned animals, and whether surprise is worth more than caution. By the end of the discussion, they choose a stealth approach: Wellby under invisibility with Kenzo nearby, while the others take what recovery they can."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Reconnaissance Run",
+      "beatIds": [
+        "b03"
+      ],
+      "sourceRange": {
+        "startUid": "u0680",
+        "endUid": "u0979"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0680",
+          "endUid": "u0979"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Oduk",
+        "undead gnoll"
+      ],
+      "organizationRefs": [
+        "Five Siblings"
+      ],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Kenzo and Wellby slip through the misty courtyard, uncover a ruined chapel stuffed with animal carcasses, and spot an undead gnoll and a waiting demon inside the keep."
+      ],
+      "sourceLongSummaries": [
+        "Under cover of darkness and invisibility, Kenzo and Wellby cross the steaming inner courtyard to inspect the keep firsthand. They find the shattered chapel of Aagir blocked with bones and rotting animal bodies, then glimpse an undead gnoll and a horned demon pacing inside the main hall amid bonfires, skulls, and unnatural heat. After quietly making the circuit, they return to the tower with proof that the ritual is real and already far advanced."
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Kill It Tonight",
+      "beatIds": [
+        "b04"
+      ],
+      "sourceRange": {
+        "startUid": "u0980",
+        "endUid": "u1438"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0980",
+          "endUid": "u1438"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Oduk",
+        "Vola Forena"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Back in the tower, the group pieces together the demon's likely role in making gnolls and decides they cannot afford to wait until morning before striking."
+      ],
+      "sourceLongSummaries": [
+        "The scout report triggers a longer tactical debate. Seeker connects the ritual to demonic lore about consuming corrupted flesh, Kenzo senses that the demon is tethered to another plane, and the group weighs whether delay would let the process finish or spread. They finally commit to attacking that night, cross the courtyard in two prongs, and set up the ambush at the keep entrance."
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "combat",
+      "title": "Ambush in the Keep to Oduk Falls",
+      "beatIds": [
+        "b05",
+        "b06"
+      ],
+      "sourceRange": {
+        "startUid": "u1439",
+        "endUid": "u2084"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1439",
+          "endUid": "u1811"
+        },
+        {
+          "startUid": "u1812",
+          "endUid": "u2084"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola Forena",
+        "Oduk",
+        "undead gnolls"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "elixir of health"
+      ],
+      "combatEnemyRefs": [
+        "Oduk",
+        "undead gnolls"
+      ],
+      "sourceShortSummaries": [
+        "The ambush begins well, but the fight quickly turns desperate as Oduk closes with the front line and the undead gnolls pin down the party.",
+        "Oduk's poison nearly drops Delwath and Kenzo, but the party rallies, destroys the demon, and finishes the last undead gnoll."
+      ],
+      "sourceLongSummaries": [
+        "The party opens with surprise attacks from the doorway and shadows, trying to bring Oduk down before it can use the ritual ground to its advantage. The demon proves tougher than expected, staring into minds, hissing curses, and lashing out with claws and a poisoned tail while undead gnolls press in around it. What began as a clean ambush turns into a close, chaotic melee in the keep entrance.",
+        "The second half of the battle becomes a struggle to survive Oduk's poison and keep people standing long enough to finish it. Delwath goes down under the demon's tail and Seeker has to pull him back with healing and an elixir while Kenzo fights on through rotting flesh and disadvantage. Vola's conjured dagger and Kenzo's final strike break Oduk's form, after which Riswynn crushes the remaining gnoll and the ritual hall finally falls quiet."
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "beat",
+      "title": "Searching the Ruins",
+      "beatIds": [
+        "b07"
+      ],
+      "sourceRange": {
+        "startUid": "u2085",
+        "endUid": "u2449"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2085",
+          "endUid": "u2449"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola Forena"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "hobgoblin papers"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "After the battle, the party searches the keep, banks the ritual fires, finds more hobgoblin papers, and confirms there is no obvious deeper chamber below."
+      ],
+      "sourceLongSummaries": [
+        "With Oduk gone, the group studies the ruined chapel and great hall, trying to understand what the demon had been doing with the animal carcasses and skull-lined fires. They extinguish the ritual flames, search the upper floors, and recover another bundle of old papers in the same hobgoblin hand as earlier finds, but they uncover no clear hidden lair or basement. Kenzo remains afflicted while the others conclude that rest in the tower is the safest option left."
+      ]
+    },
+    {
+      "blockId": "recap-007",
+      "kind": "beat",
+      "title": "Troubled Rest",
+      "beatIds": [
+        "b08"
+      ],
+      "sourceRange": {
+        "startUid": "u2450",
+        "endUid": "u2810"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2450",
+          "endUid": "u2810"
+        }
+      ],
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola Forena",
+        "remaining gnolls"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party withdraws to the tower, endures corrupted dreams and incomplete healing, and wakes at dawn with a longer list of questions and remaining threats."
+      ],
+      "sourceLongSummaries": [
+        "Back in the north tower, the party posts a watch and tries to salvage the night while gnolls briefly investigate the shut gate below and move on. The rest is uneven: some sleepers wake shaken, while Kenzo, Delwath, and Seeker lose hit points or gain exhaustion from vivid nightmares of animals becoming gnolls. At dawn they regroup, compare what they learned, and decide the next day must deal with the remaining gnolls, the penned animals, the river, and the larger mystery behind Agata's operation."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Vola Forena",
+        "beatIds": [
+          "b01",
+          "b02",
+          "b04",
+          "b05",
+          "b06",
+          "b07",
+          "b08"
+        ],
+        "relationKinds": [
+          "companion"
+        ]
+      },
+      {
+        "name": "Oduk",
+        "beatIds": [
+          "b03",
+          "b04",
+          "b05",
+          "b06"
+        ],
+        "relationKinds": [
+          "met",
+          "fought"
+        ]
+      },
+      {
+        "name": "undead gnoll",
+        "beatIds": [
+          "b03"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "undead gnolls",
+        "beatIds": [
+          "b05",
+          "b06"
+        ],
+        "relationKinds": [
+          "fought"
+        ]
+      },
+      {
+        "name": "remaining gnolls",
+        "beatIds": [
+          "b08"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-005",
+        "beatIds": [
+          "b05",
+          "b06"
+        ],
+        "enemyRefs": [
+          "Oduk",
+          "undead gnolls"
+        ],
+        "dateStart": "1748-04-12",
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Raven's Hold",
+        "beatIds": [
+          "b01",
+          "b02",
+          "b03",
+          "b04",
+          "b05",
+          "b06",
+          "b07",
+          "b08"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Vola Forena",
+          "relationKinds": [
+            "companion"
+          ],
+          "contextHint": "rescued prisoner and Chardonian adventurer",
+          "beatIds": [
+            "b01",
+            "b02",
+            "b04",
+            "b05",
+            "b06",
+            "b07",
+            "b08"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": "1748-04-13"
+            }
+          ]
+        },
+        {
+          "name": "Oduk",
+          "relationKinds": [
+            "met",
+            "fought"
+          ],
+          "contextHint": "goat-like festering demon in the keep",
+          "beatIds": [
+            "b03",
+            "b04",
+            "b05",
+            "b06"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "undead gnoll",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "rotting sentry outside the hall",
+          "beatIds": [
+            "b03"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "undead gnolls",
+          "relationKinds": [
+            "fought"
+          ],
+          "contextHint": "rotting attendants and guards",
+          "beatIds": [
+            "b05",
+            "b06"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "remaining gnolls",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "guards or handlers outside the gate",
+          "beatIds": [
+            "b08"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Raven's Hold",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "the north tower chamber overlooking the inner courtyard",
+          "beatIds": [
+            "b01",
+            "b02",
+            "b03",
+            "b04",
+            "b05",
+            "b06",
+            "b07",
+            "b08"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": "1748-04-13",
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Five Siblings",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b03"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "name": "elixir of health",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b06"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "hobgoblin papers",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b07"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Agata Dustmother",
+          "contextHint": "the power behind Vola's captors"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Society of the Open Scroll",
+          "contextHint": null
+        }
+      ],
+      "items": []
+    }
+  }
+}

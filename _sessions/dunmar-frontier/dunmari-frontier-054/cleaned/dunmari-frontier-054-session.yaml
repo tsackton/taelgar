@@ -1,0 +1,37 @@
+schemaVersion: '1.0'
+sourceType: transcript
+scope: session
+campaign: Dunmari Frontier
+sessionNumber: 54
+realWorldDate: '2022-08-05'
+drStart: '1748-10-06'
+drEnd: '1748-10-09'
+drStartTime: null
+drEndTime: null
+participants:
+- name: Mike Sackton
+  gameRole: Delwath
+  transcriptIdentifiers:
+  - Delwath
+  - Mike Sackton (Delwath)
+- name: Kate Sackton
+  gameRole: Aristaea
+  transcriptIdentifiers:
+  - Aristaea
+  - Kate Sackton (Aristaea)
+- name: Phil Grayson
+  gameRole: Iascaire
+  transcriptIdentifiers:
+  - Iascaire
+  - Phil Grayson (Iascaire)
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers:
+  - Timothy Sackton
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-054/sources/merged.transcript.vtt
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-054/sources/dunmar-frontier-session054.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-054/sources/dunmar-frontier-session054-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-source-prepared.md
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-054/sources/dunmar-frontier-session054-speaker-mapping.json
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-speaker-stats.json

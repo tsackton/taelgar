@@ -1,0 +1,68 @@
+{
+  "totalDurationSeconds": 8535.14,
+  "speakers": [
+    {
+      "transcriptIdentifier": "David Kong (he/him) Organizer, MIT Media Lab",
+      "name": "David Kong",
+      "gameRole": "Kenzo",
+      "segmentCount": 231,
+      "durationSeconds": 1237.139,
+      "fraction": 0.1449,
+      "wordCount": 3945
+    },
+    {
+      "transcriptIdentifier": "Eric Rosenbaum",
+      "name": "Eric Rosenbaum",
+      "gameRole": "Seeker",
+      "segmentCount": 258,
+      "durationSeconds": 947.216,
+      "fraction": 0.111,
+      "wordCount": 2582
+    },
+    {
+      "transcriptIdentifier": "Kate",
+      "name": "Kate Sackton",
+      "gameRole": "Riswynn",
+      "segmentCount": 158,
+      "durationSeconds": 585.438,
+      "fraction": 0.0686,
+      "wordCount": 1506
+    },
+    {
+      "transcriptIdentifier": "Mike Sackton",
+      "name": "Mike Sackton",
+      "gameRole": "Delwath",
+      "segmentCount": 346,
+      "durationSeconds": 1354.209,
+      "fraction": 0.1587,
+      "wordCount": 4061
+    },
+    {
+      "transcriptIdentifier": "Rev. David Schwartz (he/him)",
+      "name": "David Schwartz",
+      "gameRole": "Wellby",
+      "segmentCount": 130,
+      "durationSeconds": 530.0,
+      "fraction": 0.0621,
+      "wordCount": 1430
+    },
+    {
+      "transcriptIdentifier": "Timothy Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 866,
+      "durationSeconds": 3827.508,
+      "fraction": 0.4484,
+      "wordCount": 9589
+    },
+    {
+      "transcriptIdentifier": "Unknown",
+      "name": null,
+      "gameRole": "Unknown",
+      "segmentCount": 42,
+      "durationSeconds": 53.63,
+      "fraction": 0.0063,
+      "wordCount": 123
+    }
+  ]
+}

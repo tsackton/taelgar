@@ -1,0 +1,737 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 10,
+    "realWorldDate": "2020-10-02",
+    "drStart": "1748-04-12",
+    "drEnd": "1748-04-12"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b01",
+        "b02",
+        "b03",
+        "b04",
+        "b05"
+      ],
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "undead hobgoblins",
+        "gnolls"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [
+        "b04"
+      ],
+      "sourceShortSummaries": [
+        "The party smashes through the locked gate, follows the hidden tunnel under Raven's Hold, and regroups in a disused storeroom once Wellby returns.",
+        "In the storeroom, the party compares what it knows about Raven's Hold, the valley, and the iron guardian while arguing over whether to retreat or keep scouting.",
+        "Delwath scouts ahead invisibly, finding undead hobgoblins in an old prison and identifying both the northern entrance approach and the southern tower access.",
+        "The party ambushes the two undead hobgoblins in the prison chamber and then confirms the room was once used for imprisonment and execution.",
+        "From the prison exits, the party studies Raven's Hold, sees gnolls and animal pens near the entrance, and decides to wait for darker conditions before sending Kenzo to scout the towers."
+      ],
+      "sourceLongSummaries": [
+        "Unable to pick the rusted lock, the party has Riswynn break the gate and then pushes deeper through the hidden tunnel toward Raven's Hold. The passage twists up into an old storeroom, where they haul everyone inside by rope and rejoin Wellby after his separate look around the dwarven outpost.",
+        "Safe for a moment in the abandoned storeroom, the party trades reports about the ruined outpost, the hidden tunnel, the hyena-like raiders, and the large animated iron figure guarding the dwarven side of the valley. The discussion stretches into maps, theories, and worries about splitting up before they decide they still need better information from inside Raven's Hold itself.",
+        "To break the deadlock, Delwath creeps ahead under invisibility and discovers that the nearby caverns once served as a prison. There he finds two undead hobgoblins rummaging among skeletons, hears the pack noise of animals and hyenas near the northern approach, and confirms that a southern passage leads across a small bridge to the towers overlooking the inner stronghold.",
+        "Once Delwath reports back, the party decides the undead hobgoblins are too dangerous to leave roaming behind them and stages a quick ambush in the prison room. After destroying the creatures, they search the chamber and identify iron manacles, decapitated skeletons, and other signs that the space once served as a hobgoblin prison and execution site.",
+        "With the prison room secure, the party splits its attention between the northern overlook and the southern tower approach. The northern view reveals gnolls rotating watch at the entrance plaza and a noisy collection of caged or penned animals, while the southern view confirms the towers, gatehouse, and inner keep are all still in use. After comparing what each vantage point shows, the party settles on an invisible tower scout as the best next step once evening deepens."
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b06",
+        "b07",
+        "b08",
+        "b09"
+      ],
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "undead hobgoblins",
+        "Vola",
+        "orc",
+        "jackalwere guards"
+      ],
+      "organizationRefs": [
+        "Blackened Claw",
+        "Society of the Open Scroll"
+      ],
+      "itemRefs": [],
+      "combatBeatIds": [
+        "b08"
+      ],
+      "sourceShortSummaries": [
+        "Kenzo enters the first tower invisibly, confirms it is mostly abandoned, and discovers signs that a Blackened Claw commander once used the upper rooms.",
+        "Crossing into the second tower, Kenzo finds an orc, two suspicious guards, and a badly wounded prisoner who identifies herself as Vola.",
+        "The rescue turns violent when the second tower guards react, and the party defeats the orc and the two jackalweres before freeing Vola.",
+        "Back in the safer tower, Vola explains that she serves the Society of the Open Scroll and warns the party that Agata Dustmother is hunting old imperial relics in Raven's Hold."
+      ],
+      "sourceLongSummaries": [
+        "Once darkness gives them slightly better cover, Delwath turns Kenzo invisible and sends him across the bridge into the first tower. Kenzo finds empty lower levels, views into the courtyard where more undead hobgoblins roam, and a commander-style upper room marked with the painted symbol of the Blackened Claw, confirming that the stronghold was once used by that clan.",
+        "Kenzo presses on from the first tower into the second and quickly realizes it is actively occupied. An orc has claimed one level for living quarters, two human-seeming guards prowl the upper floor, and in one cramped chamber Kenzo finds a badly wounded armored prisoner tied up on a bed of straw. He calms her, learns her name is Vola, and then slips back to bring the rest of the party in for a rescue.",
+        "After Kenzo guides the others into position, the group tries to seize the tower before the captors can react, but the confrontation quickly erupts into a close-quarters fight on the upper floors. One guard drops asleep, the orc charges in, the other guard reveals a jackal-like hybrid form, and the party has to cut through all three enemies before the tower is safe enough to finish freeing Vola and gather her gear.",
+        "Once the fight is over, the party relocates to the quieter tower rooms, returns Vola's weapons, and questions her about why she was imprisoned here. Vola reveals that she is Chardonian and part of the Society of the Open Scroll, that Arcas was another member, and that her captors serve a dangerous fey power named Agata Dustmother who is searching Dunmar and the blasted plains for relics of lost empire. By the time the party finishes comparing what each side knows, it is about seven in the evening and they agree they still need to learn more before trying to escape."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Broken Gate",
+      "beatIds": [
+        "b01"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0337"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0337"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party smashes through the locked gate, follows the hidden tunnel under Raven's Hold, and regroups in a disused storeroom once Wellby returns."
+      ],
+      "sourceLongSummaries": [
+        "Unable to pick the rusted lock, the party has Riswynn break the gate and then pushes deeper through the hidden tunnel toward Raven's Hold. The passage twists up into an old storeroom, where they haul everyone inside by rope and rejoin Wellby after his separate look around the dwarven outpost."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Storeroom Debate",
+      "beatIds": [
+        "b02"
+      ],
+      "sourceRange": {
+        "startUid": "u0338",
+        "endUid": "u0650"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0338",
+          "endUid": "u0650"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "In the storeroom, the party compares what it knows about Raven's Hold, the valley, and the iron guardian while arguing over whether to retreat or keep scouting."
+      ],
+      "sourceLongSummaries": [
+        "Safe for a moment in the abandoned storeroom, the party trades reports about the ruined outpost, the hidden tunnel, the hyena-like raiders, and the large animated iron figure guarding the dwarven side of the valley. The discussion stretches into maps, theories, and worries about splitting up before they decide they still need better information from inside Raven's Hold itself."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Delwath Scouts Ahead",
+      "beatIds": [
+        "b03"
+      ],
+      "sourceRange": {
+        "startUid": "u0651",
+        "endUid": "u0979"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0651",
+          "endUid": "u0979"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "undead hobgoblins"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Delwath scouts ahead invisibly, finding undead hobgoblins in an old prison and identifying both the northern entrance approach and the southern tower access."
+      ],
+      "sourceLongSummaries": [
+        "To break the deadlock, Delwath creeps ahead under invisibility and discovers that the nearby caverns once served as a prison. There he finds two undead hobgoblins rummaging among skeletons, hears the pack noise of animals and hyenas near the northern approach, and confirms that a southern passage leads across a small bridge to the towers overlooking the inner stronghold."
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "combat",
+      "title": "Prison Ambush",
+      "beatIds": [
+        "b04"
+      ],
+      "sourceRange": {
+        "startUid": "u0980",
+        "endUid": "u1306"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0980",
+          "endUid": "u1306"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "undead hobgoblins"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [
+        "undead hobgoblins"
+      ],
+      "sourceShortSummaries": [
+        "The party ambushes the two undead hobgoblins in the prison chamber and then confirms the room was once used for imprisonment and execution."
+      ],
+      "sourceLongSummaries": [
+        "Once Delwath reports back, the party decides the undead hobgoblins are too dangerous to leave roaming behind them and stages a quick ambush in the prison room. After destroying the creatures, they search the chamber and identify iron manacles, decapitated skeletons, and other signs that the space once served as a hobgoblin prison and execution site."
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "Watching Raven's Hold",
+      "beatIds": [
+        "b05"
+      ],
+      "sourceRange": {
+        "startUid": "u1307",
+        "endUid": "u1639"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1307",
+          "endUid": "u1639"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "gnolls"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "From the prison exits, the party studies Raven's Hold, sees gnolls and animal pens near the entrance, and decides to wait for darker conditions before sending Kenzo to scout the towers."
+      ],
+      "sourceLongSummaries": [
+        "With the prison room secure, the party splits its attention between the northern overlook and the southern tower approach. The northern view reveals gnolls rotating watch at the entrance plaza and a noisy collection of caged or penned animals, while the southern view confirms the towers, gatehouse, and inner keep are all still in use. After comparing what each vantage point shows, the party settles on an invisible tower scout as the best next step once evening deepens."
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "beat",
+      "title": "Kenzo's First Tower",
+      "beatIds": [
+        "b06"
+      ],
+      "sourceRange": {
+        "startUid": "u1640",
+        "endUid": "u1806"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1640",
+          "endUid": "u1806"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "undead hobgoblins"
+      ],
+      "organizationRefs": [
+        "Blackened Claw"
+      ],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Kenzo enters the first tower invisibly, confirms it is mostly abandoned, and discovers signs that a Blackened Claw commander once used the upper rooms."
+      ],
+      "sourceLongSummaries": [
+        "Once darkness gives them slightly better cover, Delwath turns Kenzo invisible and sends him across the bridge into the first tower. Kenzo finds empty lower levels, views into the courtyard where more undead hobgoblins roam, and a commander-style upper room marked with the painted symbol of the Blackened Claw, confirming that the stronghold was once used by that clan."
+      ]
+    },
+    {
+      "blockId": "recap-007",
+      "kind": "beat",
+      "title": "Second Tower Prisoner",
+      "beatIds": [
+        "b07"
+      ],
+      "sourceRange": {
+        "startUid": "u1807",
+        "endUid": "u2074"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1807",
+          "endUid": "u2074"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola",
+        "orc",
+        "jackalwere guards"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Crossing into the second tower, Kenzo finds an orc, two suspicious guards, and a badly wounded prisoner who identifies herself as Vola."
+      ],
+      "sourceLongSummaries": [
+        "Kenzo presses on from the first tower into the second and quickly realizes it is actively occupied. An orc has claimed one level for living quarters, two human-seeming guards prowl the upper floor, and in one cramped chamber Kenzo finds a badly wounded armored prisoner tied up on a bed of straw. He calms her, learns her name is Vola, and then slips back to bring the rest of the party in for a rescue."
+      ]
+    },
+    {
+      "blockId": "recap-008",
+      "kind": "combat",
+      "title": "Tower Rescue Fight",
+      "beatIds": [
+        "b08"
+      ],
+      "sourceRange": {
+        "startUid": "u2075",
+        "endUid": "u2560"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2075",
+          "endUid": "u2560"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola",
+        "orc",
+        "jackalwere guards"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [
+        "orc",
+        "jackalwere guards"
+      ],
+      "sourceShortSummaries": [
+        "The rescue turns violent when the second tower guards react, and the party defeats the orc and the two jackalweres before freeing Vola."
+      ],
+      "sourceLongSummaries": [
+        "After Kenzo guides the others into position, the group tries to seize the tower before the captors can react, but the confrontation quickly erupts into a close-quarters fight on the upper floors. One guard drops asleep, the orc charges in, the other guard reveals a jackal-like hybrid form, and the party has to cut through all three enemies before the tower is safe enough to finish freeing Vola and gather her gear."
+      ]
+    },
+    {
+      "blockId": "recap-009",
+      "kind": "beat",
+      "title": "Vola's Warning",
+      "beatIds": [
+        "b09"
+      ],
+      "sourceRange": {
+        "startUid": "u2561",
+        "endUid": "u2875"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2561",
+          "endUid": "u2875"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola"
+      ],
+      "organizationRefs": [
+        "Society of the Open Scroll"
+      ],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Back in the safer tower, Vola explains that she serves the Society of the Open Scroll and warns the party that Agata Dustmother is hunting old imperial relics in Raven's Hold."
+      ],
+      "sourceLongSummaries": [
+        "Once the fight is over, the party relocates to the quieter tower rooms, returns Vola's weapons, and questions her about why she was imprisoned here. Vola reveals that she is Chardonian and part of the Society of the Open Scroll, that Arcas was another member, and that her captors serve a dangerous fey power named Agata Dustmother who is searching Dunmar and the blasted plains for relics of lost empire. By the time the party finishes comparing what each side knows, it is about seven in the evening and they agree they still need to learn more before trying to escape."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "undead hobgoblins",
+        "beatIds": [
+          "b03",
+          "b04",
+          "b06"
+        ],
+        "relationKinds": [
+          "met",
+          "fought"
+        ]
+      },
+      {
+        "name": "gnolls",
+        "beatIds": [
+          "b05"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Vola",
+        "beatIds": [
+          "b07",
+          "b08",
+          "b09"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "orc",
+        "beatIds": [
+          "b07",
+          "b08"
+        ],
+        "relationKinds": [
+          "met",
+          "fought"
+        ]
+      },
+      {
+        "name": "jackalwere guards",
+        "beatIds": [
+          "b07",
+          "b08"
+        ],
+        "relationKinds": [
+          "met",
+          "fought"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-004",
+        "beatIds": [
+          "b04"
+        ],
+        "enemyRefs": [
+          "undead hobgoblins"
+        ],
+        "dateStart": "1748-04-12",
+        "dateEnd": null
+      },
+      {
+        "blockId": "recap-008",
+        "beatIds": [
+          "b08"
+        ],
+        "enemyRefs": [
+          "orc",
+          "jackalwere guards"
+        ],
+        "dateStart": "1748-04-12",
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Raven's Hold",
+        "beatIds": [
+          "b01",
+          "b02",
+          "b03",
+          "b04",
+          "b05",
+          "b06",
+          "b07",
+          "b08",
+          "b09"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "undead hobgoblins",
+          "relationKinds": [
+            "met",
+            "fought"
+          ],
+          "contextHint": "prison scavengers",
+          "beatIds": [
+            "b03",
+            "b04",
+            "b06"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "gnolls",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "entrance guards",
+          "beatIds": [
+            "b05"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Vola",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "wounded prisoner",
+          "beatIds": [
+            "b07",
+            "b08",
+            "b09"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "orc",
+          "relationKinds": [
+            "met",
+            "fought"
+          ],
+          "contextHint": "tower occupant",
+          "beatIds": [
+            "b07",
+            "b08"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "jackalwere guards",
+          "relationKinds": [
+            "met",
+            "fought"
+          ],
+          "contextHint": "human-seeming captors",
+          "beatIds": [
+            "b07",
+            "b08"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Raven's Hold",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "the hidden tunnel, rope shaft, and first abandoned storeroom beneath the hold",
+          "beatIds": [
+            "b01",
+            "b02",
+            "b03",
+            "b04",
+            "b05",
+            "b06",
+            "b07",
+            "b08",
+            "b09"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Blackened Claw",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b06"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Society of the Open Scroll",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b09"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "items": []
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "animated iron guardian",
+          "contextHint": "dwarven-made statue across the valley"
+        },
+        {
+          "name": "Agata Dustmother",
+          "contextHint": "dangerous fey seeker of relics"
+        },
+        {
+          "name": "Arcas",
+          "contextHint": "another member of Vola's circle"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Great Library",
+          "contextHint": null
+        }
+      ],
+      "items": [
+        {
+          "name": "imperial relics",
+          "contextHint": null
+        }
+      ]
+    }
+  }
+}

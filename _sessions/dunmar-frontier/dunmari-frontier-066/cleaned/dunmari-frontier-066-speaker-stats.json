@@ -1,0 +1,50 @@
+{
+  "totalDurationSeconds": 11930.59,
+  "speakers": [
+    {
+      "transcriptIdentifier": "John Leeker",
+      "name": "Alimash (player unknown)",
+      "gameRole": "Alimash",
+      "segmentCount": 346,
+      "durationSeconds": 1361.461,
+      "fraction": 0.1141,
+      "wordCount": 3496
+    },
+    {
+      "transcriptIdentifier": "Phil Grayson",
+      "name": "Phil Grayson",
+      "gameRole": "Shoal",
+      "segmentCount": 353,
+      "durationSeconds": 1550.132,
+      "fraction": 0.1299,
+      "wordCount": 3775
+    },
+    {
+      "transcriptIdentifier": "Rev. David (he/him)",
+      "name": "David Schwartz",
+      "gameRole": "Wellby",
+      "segmentCount": 379,
+      "durationSeconds": 1529.07,
+      "fraction": 0.1282,
+      "wordCount": 3939
+    },
+    {
+      "transcriptIdentifier": "Timothy Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 1861,
+      "durationSeconds": 7378.145,
+      "fraction": 0.6184,
+      "wordCount": 17135
+    },
+    {
+      "transcriptIdentifier": "Unknown",
+      "name": null,
+      "gameRole": "Unknown",
+      "segmentCount": 85,
+      "durationSeconds": 111.782,
+      "fraction": 0.0094,
+      "wordCount": 197
+    }
+  ]
+}

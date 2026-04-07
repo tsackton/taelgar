@@ -1,0 +1,42 @@
+schemaVersion: '1.0'
+sourceType: transcript
+scope: session
+campaign: Dunmari Frontier
+sessionNumber: 62
+realWorldDate: '2022-10-28'
+drStart: '1748-10-13'
+drEnd: '1748-10-14'
+drStartTime: null
+drEndTime: null
+participants:
+- name: David Schwartz
+  gameRole: Wellby
+  transcriptIdentifiers:
+  - Rev. David (he/him)
+- name: Eric Rosenbaum
+  gameRole: Rufus
+  transcriptIdentifiers:
+  - Eric Rosenbaum
+- name: Mike Sackton
+  gameRole: Artem Novolozek
+  transcriptIdentifiers:
+  - Artem Novolozek (he/human/wizard)
+- name: Alimash (player unknown)
+  gameRole: Alimash
+  transcriptIdentifiers:
+  - Alimash- Human Battlemaster Fighter
+- name: Phil Grayson
+  gameRole: Shoal
+  transcriptIdentifiers:
+  - Shoal - Sea Elf Rune Knight
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers:
+  - Timothy Sackton
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-062/sources/GMT20221028-003749_Recording.transcript.vtt
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-062/sources/dunmar-frontier-session062.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-062/sources/dunmar-frontier-session062-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-source-prepared.md
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-062/sources/zoom-session-062.speaker_mapping.json
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-speaker-stats.json

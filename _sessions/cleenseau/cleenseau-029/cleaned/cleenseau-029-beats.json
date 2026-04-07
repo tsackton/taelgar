@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-session.yaml",
+  "beats": [
+    {
+      "beatId": "b01",
+      "title": "Asineau Ascendant",
+      "startUid": "u0001",
+      "endUid": "u0020",
+      "lineCount": 20,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "The opening montage covers Robin's appointment, the rebuilding of Asineau, and the party's local political and economic projects before the next major adventure hook arrives.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "b02",
+      "title": "Dragon Rumors East",
+      "startUid": "u0021",
+      "endUid": "u0025",
+      "lineCount": 5,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "Vahaiya's warning about the dragon shifts the session from civic downtime into a new mission, and the beat ends once the party reaches Marwick and gathers the local threat picture.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "b03",
+      "title": "Scouting the Ruins",
+      "startUid": "u0026",
+      "endUid": "u0027",
+      "lineCount": 2,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "This field-investigation beat runs from the ballista plan through scouting the destroyed villages, discovering kobold sign, observing the dragon's route, and returning to complete the trap.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "b04",
+      "title": "Kobolds Take the Cow",
+      "startUid": "u0028",
+      "endUid": "u0048",
+      "lineCount": 21,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "The ruined-village stakeout becomes a contained social-intelligence scene as the party intercepts the kobolds, wins their surrender, learns the factions around the dragon, and settles on an ambush plan.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "b05",
+      "title": "Night Watch",
+      "startUid": "u0049",
+      "endUid": "u0051",
+      "lineCount": 3,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "The final beat is a short cliffhanger in which the party waits outside the lair until Es*tiaslos reports the dragon and its escort approaching after midnight.",
+      "dateEvidence": []
+    }
+  ]
+}

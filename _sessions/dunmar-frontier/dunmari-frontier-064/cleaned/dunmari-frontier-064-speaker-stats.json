@@ -1,0 +1,41 @@
+{
+  "totalDurationSeconds": 8528.141,
+  "speakers": [
+    {
+      "transcriptIdentifier": "David Kong (he/him) Organizer, MIT Media Lab",
+      "name": "David Kong",
+      "gameRole": "Kenzo",
+      "segmentCount": 504,
+      "durationSeconds": 2136.897,
+      "fraction": 0.2506,
+      "wordCount": 6350
+    },
+    {
+      "transcriptIdentifier": "Eric Rosenbaum",
+      "name": "Eric Rosenbaum",
+      "gameRole": "Izzarak",
+      "segmentCount": 325,
+      "durationSeconds": 789.705,
+      "fraction": 0.0926,
+      "wordCount": 2063
+    },
+    {
+      "transcriptIdentifier": "Timothy Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 1473,
+      "durationSeconds": 5488.715,
+      "fraction": 0.6436,
+      "wordCount": 12862
+    },
+    {
+      "transcriptIdentifier": "Unknown",
+      "name": null,
+      "gameRole": "Unknown",
+      "segmentCount": 88,
+      "durationSeconds": 112.824,
+      "fraction": 0.0132,
+      "wordCount": 217
+    }
+  ]
+}

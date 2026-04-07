@@ -1,0 +1,731 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 13,
+    "realWorldDate": "2020-11-20",
+    "drStart": "1748-04-13",
+    "drEnd": "1748-04-13"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b01",
+        "b02",
+        "b03"
+      ],
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "silver helm",
+        "enchanted red gem",
+        "Hobgoblin Battle Standard"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party finishes breakfast in Raven's Hold, reviews what they know, and decides to search the remaining outbuildings before freeing the trapped animals.",
+        "The party searches the outbuildings, uncovers treasure, and finds evidence that Raven's Hold was being used to arm gnolls.",
+        "After regrouping over the recovered gear, the party weighs Delwath's shadow-writing clues and decides to pursue the corruption into the valley."
+      ],
+      "sourceLongSummaries": [
+        "In the uneasy quiet after the morning battle, the party takes stock of Raven's Hold, the tainted pools, and the starving animals in the pens. Their discussion turns toward the unanswered question of where the gnolls came from and what the demon had been doing here, so they commit to a more thorough search of the outer buildings before attempting any rescue.",
+        "Exploring the ruined outer buildings turns up a mix of valuables and unsettling clues. The party finds treasure in a monster-lair-like ruin, more useful supplies in a locked storeroom from the hobgoblin occupation, and a stock of weapons and armor that suggests someone was gathering equipment for a larger gnoll force.",
+        "The party regathers, divides up useful finds, and talks through the strange shadow messages Delwath has been seeing around the hold. Their debate narrows the real danger to the corruption lingering beyond the walls, and they settle on following that trail into the valley rather than lingering any longer over the fortress loot."
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b04",
+        "b05",
+        "b06"
+      ],
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Ivory Scroll Case"
+      ],
+      "combatBeatIds": [
+        "b05"
+      ],
+      "sourceShortSummaries": [
+        "At the bridge below Raven's Hold, the party samples the tainted water, studies a summoning circle, and confirms the corruption's source.",
+        "When Delwath damages the circle, a demonic plant creature erupts from the river and the party destroys it, breaking the corruption at the bridge.",
+        "With the corruption receding, the party finds the remains of the scroll used at the circle and then frees the trapped animals under Seeker's guidance."
+      ],
+      "sourceLongSummaries": [
+        "Following the dwarven road down into the valley, the party reaches the marble bridge and the foul, slowed river below it. They collect samples of the tainted water, examine the mists and red vines, and find a runic summoning circle whose wording makes it clear that something bound and commanded has been called here.",
+        "The attempt to disrupt the summoning circle triggers an immediate attack as a massive humanoid mass of vines, mud, and corrupted river-water surges up from the bank. The party fights it at close range around the bridge, endures its poisonous spores, and finally brings it down while Seeker scrambles the runes and the dark influence over the river begins to wash away.",
+        "Once the fight is over, the river begins to clear and the hostile vines lose their menace. The party finds ash and an ivory scroll-case cap in the ruined circle, infers that a spell scroll was used to create the binding, and then returns to Raven's Hold, where Seeker persuades a lion to lead the other trapped animals safely out of the valley."
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b07"
+      ],
+      "locationRefs": [
+        "Dwarven Outpost"
+      ],
+      "npcRefs": [
+        "damaged dwarven stone guardian"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Adamantine"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Leaving the valley, the party explores the dwarven outpost, wins passage from its damaged guardian, and recovers adamantine from the ruined forge and mines."
+      ],
+      "sourceLongSummaries": [
+        "With the valley threat ended, the party moves through the dwarven outpost connected to Raven's Hold and meets a damaged stone guardian still trying to hold its post. Riswynn's family shield earns it recognition, allowing the group to inspect the shattered mineworks and forge, where they conclude that something emerged long ago from below and where they salvage a valuable piece of adamantine."
+      ]
+    },
+    {
+      "blockId": "timeline-004",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b08"
+      ],
+      "locationRefs": [
+        "Dwarven Outpost",
+        "camp south of Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party returns to its horses, rides south for a few hours, and makes camp after finally clearing Raven's Hold."
+      ],
+      "sourceLongSummaries": [
+        "Satisfied that they have done what they can at Raven's Hold, the party withdraws through the outpost, rejoins its horses and supplies, and rides south before sunset. The session closes with camp on the road and a weary sense that the day's main work is finally done."
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Breakfast in the Hold",
+      "beatIds": [
+        "b01"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0340"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0340"
+        }
+      ],
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party finishes breakfast in Raven's Hold, reviews what they know, and decides to search the remaining outbuildings before freeing the trapped animals."
+      ],
+      "sourceLongSummaries": [
+        "In the uneasy quiet after the morning battle, the party takes stock of Raven's Hold, the tainted pools, and the starving animals in the pens. Their discussion turns toward the unanswered question of where the gnolls came from and what the demon had been doing here, so they commit to a more thorough search of the outer buildings before attempting any rescue."
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Loot and Gnoll Clues",
+      "beatIds": [
+        "b02"
+      ],
+      "sourceRange": {
+        "startUid": "u0341",
+        "endUid": "u0790"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0341",
+          "endUid": "u0790"
+        }
+      ],
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "silver helm",
+        "enchanted red gem",
+        "Hobgoblin Battle Standard"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party searches the outbuildings, uncovers treasure, and finds evidence that Raven's Hold was being used to arm gnolls."
+      ],
+      "sourceLongSummaries": [
+        "Exploring the ruined outer buildings turns up a mix of valuables and unsettling clues. The party finds treasure in a monster-lair-like ruin, more useful supplies in a locked storeroom from the hobgoblin occupation, and a stock of weapons and armor that suggests someone was gathering equipment for a larger gnoll force."
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Shadow Warnings and Supplies",
+      "beatIds": [
+        "b03"
+      ],
+      "sourceRange": {
+        "startUid": "u0791",
+        "endUid": "u1241"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0791",
+          "endUid": "u1241"
+        }
+      ],
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "After regrouping over the recovered gear, the party weighs Delwath's shadow-writing clues and decides to pursue the corruption into the valley."
+      ],
+      "sourceLongSummaries": [
+        "The party regathers, divides up useful finds, and talks through the strange shadow messages Delwath has been seeing around the hold. Their debate narrows the real danger to the corruption lingering beyond the walls, and they settle on following that trail into the valley rather than lingering any longer over the fortress loot."
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Testing the Courtyard Mists",
+      "beatIds": [
+        "b04"
+      ],
+      "sourceRange": {
+        "startUid": "u1242",
+        "endUid": "u1676"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1242",
+          "endUid": "u1676"
+        }
+      ],
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "At the bridge below Raven's Hold, the party samples the tainted water, studies a summoning circle, and confirms the corruption's source."
+      ],
+      "sourceLongSummaries": [
+        "Following the dwarven road down into the valley, the party reaches the marble bridge and the foul, slowed river below it. They collect samples of the tainted water, examine the mists and red vines, and find a runic summoning circle whose wording makes it clear that something bound and commanded has been called here."
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "combat",
+      "title": "Bridge Circle and Battle",
+      "beatIds": [
+        "b05"
+      ],
+      "sourceRange": {
+        "startUid": "u1677",
+        "endUid": "u2133"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1677",
+          "endUid": "u2133"
+        }
+      ],
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [
+        "demonic plant creature"
+      ],
+      "sourceShortSummaries": [
+        "When Delwath damages the circle, a demonic plant creature erupts from the river and the party destroys it, breaking the corruption at the bridge."
+      ],
+      "sourceLongSummaries": [
+        "The attempt to disrupt the summoning circle triggers an immediate attack as a massive humanoid mass of vines, mud, and corrupted river-water surges up from the bank. The party fights it at close range around the bridge, endures its poisonous spores, and finally brings it down while Seeker scrambles the runes and the dark influence over the river begins to wash away."
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "beat",
+      "title": "Scroll Ash and Animals",
+      "beatIds": [
+        "b06"
+      ],
+      "sourceRange": {
+        "startUid": "u2134",
+        "endUid": "u2422"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2134",
+          "endUid": "u2422"
+        }
+      ],
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Ivory Scroll Case"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "With the corruption receding, the party finds the remains of the scroll used at the circle and then frees the trapped animals under Seeker's guidance."
+      ],
+      "sourceLongSummaries": [
+        "Once the fight is over, the river begins to clear and the hostile vines lose their menace. The party finds ash and an ivory scroll-case cap in the ruined circle, infers that a spell scroll was used to create the binding, and then returns to Raven's Hold, where Seeker persuades a lion to lead the other trapped animals safely out of the valley."
+      ]
+    },
+    {
+      "blockId": "recap-007",
+      "kind": "beat",
+      "title": "Outpost Guardian and Forge",
+      "beatIds": [
+        "b07"
+      ],
+      "sourceRange": {
+        "startUid": "u2423",
+        "endUid": "u2623"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2423",
+          "endUid": "u2623"
+        }
+      ],
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Dwarven Outpost"
+      ],
+      "npcRefs": [
+        "damaged dwarven stone guardian"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Adamantine"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Leaving the valley, the party explores the dwarven outpost, wins passage from its damaged guardian, and recovers adamantine from the ruined forge and mines."
+      ],
+      "sourceLongSummaries": [
+        "With the valley threat ended, the party moves through the dwarven outpost connected to Raven's Hold and meets a damaged stone guardian still trying to hold its post. Riswynn's family shield earns it recognition, allowing the group to inspect the shattered mineworks and forge, where they conclude that something emerged long ago from below and where they salvage a valuable piece of adamantine."
+      ]
+    },
+    {
+      "blockId": "recap-008",
+      "kind": "beat",
+      "title": "Camp on the South Road",
+      "beatIds": [
+        "b08"
+      ],
+      "sourceRange": {
+        "startUid": "u2624",
+        "endUid": "u2671"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2624",
+          "endUid": "u2671"
+        }
+      ],
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Dwarven Outpost",
+        "camp south of Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party returns to its horses, rides south for a few hours, and makes camp after finally clearing Raven's Hold."
+      ],
+      "sourceLongSummaries": [
+        "Satisfied that they have done what they can at Raven's Hold, the party withdraws through the outpost, rejoins its horses and supplies, and rides south before sunset. The session closes with camp on the road and a weary sense that the day's main work is finally done."
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Vola",
+        "beatIds": [
+          "b01",
+          "b03",
+          "b04",
+          "b05",
+          "b06",
+          "b08"
+        ],
+        "relationKinds": [
+          "companion"
+        ]
+      },
+      {
+        "name": "damaged dwarven stone guardian",
+        "beatIds": [
+          "b07"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-005",
+        "beatIds": [
+          "b05"
+        ],
+        "enemyRefs": [
+          "demonic plant creature"
+        ],
+        "dateStart": "1748-04-13",
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Raven's Hold",
+        "beatIds": [
+          "b01",
+          "b02",
+          "b03",
+          "b04",
+          "b05",
+          "b06"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Dwarven Outpost",
+        "beatIds": [
+          "b07",
+          "b08"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "camp south of Raven's Hold",
+        "beatIds": [
+          "b08"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Vola",
+          "relationKinds": [
+            "companion"
+          ],
+          "contextHint": "travelling companion",
+          "beatIds": [
+            "b01",
+            "b03",
+            "b04",
+            "b05",
+            "b06",
+            "b08"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            },
+            {
+              "location": "Dwarven Outpost -> camp south of Raven's Hold",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "damaged dwarven stone guardian",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "gatekeeper",
+          "beatIds": [
+            "b07"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Raven's Hold",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "breakfast in the courtyard beside the ruined barracks and animal pens",
+          "beatIds": [
+            "b01",
+            "b02",
+            "b03",
+            "b04",
+            "b05",
+            "b06"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-13",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Dwarven Outpost",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "guardian hall, forge, and ruined mine entrance",
+          "beatIds": [
+            "b07",
+            "b08"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-13",
+              "dateEnd": null,
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1748-04-13",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "camp south of Raven's Hold",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "return to the horses and ride south out of the mountains",
+          "beatIds": [
+            "b08"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-13",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "silver helm",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b02"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "enchanted red gem",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b02"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Hobgoblin Battle Standard",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b02"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Ivory Scroll Case",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b06"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Adamantine",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b07"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [],
+      "locations": [],
+      "organizations": [],
+      "items": []
+    }
+  }
+}

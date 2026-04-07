@@ -1,0 +1,63 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-030/cleaned/cleenseau-030-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-030/cleaned/cleenseau-030-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Opening and Battle Plan",
+      "startUid": "u0001",
+      "endUid": "u0011",
+      "lineCount": 11,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "The opening material frames the session, lists the dramatis personae, recaps where the party left off, and establishes the party's prepared plan against the dragon before the actual fighting begins.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Crashing the Dragon",
+      "startUid": "u0012",
+      "endUid": "u0018",
+      "lineCount": 7,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": true,
+      "boundaryReason": "This beat covers the full dragon fight from the first exchange through the dragon's failed escape, its death, and the surrender of the remaining hostile kobolds at the battle site.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Tribute and Tunnel Entry",
+      "startUid": "u0019",
+      "endUid": "u0021",
+      "lineCount": 3,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "After the dragon falls, the session shifts into aftermath and repositioning as the friendly kobolds honor Greymalkin, the party gathers intel, and the group sneaks through the backdoor tunnel into the lair before combat fully resumes.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Clearing the Kobold Lair",
+      "startUid": "u0022",
+      "endUid": "u0026",
+      "lineCount": 5,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": true,
+      "boundaryReason": "Combat resumes inside the kobold lair, then runs straight into post-fight obstacle clearing as the party beats the remaining defenders, bypasses the trapped tunnel, reaches the dragon loot, and debates what to do with the corpse.",
+      "dateEvidence": []
+    }
+  ]
+}

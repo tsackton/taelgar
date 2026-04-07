@@ -1,0 +1,315 @@
+{
+  "summary": {
+    "changedLineCount": 33,
+    "replacementCount": 17,
+    "repeatedReplacementCount": 8,
+    "topReplacements": [
+      {
+        "from": "Viola",
+        "to": "Vola",
+        "count": 5,
+        "headers": [
+          "[u0163 | 00:14:42.840-00:14:46.590 | Delwath]",
+          "[u0347 | 00:28:46.050-00:29:03.750 | DM]",
+          "[u1740 | 02:19:10.410-02:19:15.990 | DM]",
+          "[u2034 | 02:39:54.270-02:39:59.850 | DM]",
+          "[u2530 | 03:20:21.030-03:20:25.410 | DM]"
+        ]
+      },
+      {
+        "from": "bola",
+        "to": "Vola",
+        "count": 5,
+        "headers": [
+          "[u0064 | 00:06:33.090-00:06:35.100 | Kenzo]",
+          "[u0552 | 00:44:55.140-00:45:07.290 | Kenzo]",
+          "[u2338 | 03:04:03.720-03:04:05.070 | DM]",
+          "[u2514 | 03:18:56.640-03:19:03.270 | DM]"
+        ]
+      },
+      {
+        "from": "bullet",
+        "to": "Vola",
+        "count": 5,
+        "headers": [
+          "[u0128 | 00:11:37.380-00:11:42.780 | DM]",
+          "[u1560 | 02:05:47.490-02:05:57.210 | DM]",
+          "[u1701 | 02:16:02.040-02:16:05.190 | DM]",
+          "[u2346 | 03:04:44.580-03:04:47.100 | Delwath]",
+          "[u2607 | 03:26:30.600-03:26:32.970 | Wellby]"
+        ]
+      },
+      {
+        "from": "ravens hold",
+        "to": "Raven ' s Hold",
+        "count": 4,
+        "headers": [
+          "[u0106 | 00:09:35.550-00:09:51.870 | Wellby]",
+          "[u0118 | 00:10:54.720-00:11:08.220 | DM]",
+          "[u0120 | 00:11:09.150-00:11:15.090 | DM]",
+          "[u0156 | 00:14:14.220-00:14:20.970 | Wellby]"
+        ]
+      },
+      {
+        "from": "a gotta dust mother",
+        "to": "Agata Dustmother",
+        "count": 3,
+        "headers": [
+          "[u0019 | 00:02:30.060-00:02:43.440 | DM]",
+          "[u0126 | 00:11:29.610-00:11:32.340 | Seeker]",
+          "[u0130 | 00:11:49.590-00:12:06.810 | DM]"
+        ]
+      },
+      {
+        "from": "open scroll",
+        "to": "Open Scroll",
+        "count": 3,
+        "headers": [
+          "[u0068 | 00:06:47.610-00:06:50.340 | Kenzo]",
+          "[u0183 | 00:16:24.870-00:16:30.660 | Kenzo]",
+          "[u0194 | 00:17:15.660-00:17:18.450 | Kenzo]"
+        ]
+      },
+      {
+        "from": "Volvo",
+        "to": "Vola",
+        "count": 2,
+        "headers": [
+          "[u0092 | 00:08:23.160-00:08:29.820 | DM]",
+          "[u2346 | 03:04:44.580-03:04:47.100 | Delwath]"
+        ]
+      },
+      {
+        "from": "chart in",
+        "to": "Chardon",
+        "count": 2,
+        "headers": [
+          "[u0182 | 00:16:19.080-00:16:23.700 | Kenzo]",
+          "[u0190 | 00:16:55.410-00:17:05.310 | Kenzo]"
+        ]
+      },
+      {
+        "from": "Bullet",
+        "to": "Vola",
+        "count": 1,
+        "headers": [
+          "[u0029 | 00:03:50.250-00:03:51.810 | DM]"
+        ]
+      },
+      {
+        "from": "I gotta dust mother",
+        "to": "Agata Dustmother",
+        "count": 1,
+        "headers": [
+          "[u0437 | 00:37:08.580-00:37:10.290 | DM]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 2810,
+  "changedLineCount": 33,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0006 | 00:00:40.410-00:00:48.840 | DM]",
+      "lineNumber": 6,
+      "originalText": "Near that done, Mary stronghold of ravens holes there after encountering in a car and her wild or the identified Kim.",
+      "cleanedText": "Near that Dunmari stronghold of Raven's Hold there after encountering in a car and her wild or the identified Kim."
+    },
+    {
+      "header": "[u0014 | 00:01:42.690-00:01:55.290 | DM]",
+      "lineNumber": 14,
+      "originalText": "By hop goblins, presumably, at some point, but after the Denmark. He had built the stronghold when they had captured it and occupied at perhaps during their awards with the done Marty and the blood years",
+      "cleanedText": "By hobgoblins, presumably, at some point, but after the Denmark. He had built the stronghold when they had captured it and occupied at perhaps during their awards with the Dunmari and the blood years"
+    },
+    {
+      "header": "[u0018 | 00:02:20.490-00:02:29.520 | DM]",
+      "lineNumber": 18,
+      "originalText": "You then found an unguarded passage to the two guard towers of the inner keep were in one of these towers, you encountered in free to prisoner. VIOLA.",
+      "cleanedText": "You then found an unguarded passage to the two guard towers of the inner keep were in one of these towers, you encountered in free to prisoner. Vola."
+    },
+    {
+      "header": "[u0019 | 00:02:30.060-00:02:43.440 | DM]",
+      "lineNumber": 19,
+      "originalText": "Viola for a number of children who is being guarded by an orc and to shape shifting Jacqueline, where's seemingly the servants of some entity that she referred to as a gotta dust mother.",
+      "cleanedText": "Vola Forena of children who is being guarded by an orc and to shape shifting Jacqueline, where's seemingly the servants of some entity that she referred to as Agata Dustmother."
+    },
+    {
+      "header": "[u0029 | 00:03:50.250-00:03:51.810 | DM]",
+      "lineNumber": 29,
+      "originalText": "Bullet turns to you and says,",
+      "cleanedText": "Vola turns to you and says,"
+    },
+    {
+      "header": "[u0064 | 00:06:33.090-00:06:35.100 | Kenzo]",
+      "lineNumber": 64,
+      "originalText": "bola you said you've been here for about two weeks now.",
+      "cleanedText": "Vola you said you've been here for about two weeks now."
+    },
+    {
+      "header": "[u0068 | 00:06:47.610-00:06:50.340 | Kenzo]",
+      "lineNumber": 68,
+      "originalText": "With the with the society, the open scroll right",
+      "cleanedText": "With the with the society, the Open Scroll right"
+    },
+    {
+      "header": "[u0092 | 00:08:23.160-00:08:29.820 | DM]",
+      "lineNumber": 92,
+      "originalText": "So there was a entry way to the north. So there's a north tower and the south tower Volvo was in the south tower.",
+      "cleanedText": "So there was a entry way to the north. So there's a north tower and the south tower Vola was in the south tower."
+    },
+    {
+      "header": "[u0106 | 00:09:35.550-00:09:51.870 | Wellby]",
+      "lineNumber": 106,
+      "originalText": "Just, just stop it if we could, but we also knew from the other Heflin who'd been infected by the plant thing when he tried to look inside ravens hold to think the idea was, like, we know that these messed up creatures are coming from somewhere. And so we'll go and try and figure it out.",
+      "cleanedText": "Just, just stop it if we could, but we also knew from the other Heflin who'd been infected by the plant thing when he tried to look inside Raven's Hold to think the idea was, like, we know that these messed up creatures are coming from somewhere. And so we'll go and try and figure it out."
+    },
+    {
+      "header": "[u0118 | 00:10:54.720-00:11:08.220 | DM]",
+      "lineNumber": 118,
+      "originalText": "Visions of how basically and that there was some connection between that place the abyss and something that was poisoning the water, which seemed to be coming from ravens hold but",
+      "cleanedText": "Visions of how basically and that there was some connection between that place the abyss and something that was poisoning the water, which seemed to be coming from Raven's Hold but"
+    },
+    {
+      "header": "[u0120 | 00:11:09.150-00:11:15.090 | DM]",
+      "lineNumber": 120,
+      "originalText": "There was a connection to the electrical storm or just ravens hold or both or white was not entirely clear.",
+      "cleanedText": "There was a connection to the electrical storm or just Raven's Hold or both or white was not entirely clear."
+    },
+    {
+      "header": "[u0126 | 00:11:29.610-00:11:32.340 | Seeker]",
+      "lineNumber": 126,
+      "originalText": "Let's ask about a gotta dust mother.",
+      "cleanedText": "Let's ask about Agata Dustmother."
+    },
+    {
+      "header": "[u0128 | 00:11:37.380-00:11:42.780 | DM]",
+      "lineNumber": 128,
+      "originalText": "Yeah so bullet told you last session. And then again, now that the",
+      "cleanedText": "Yeah so Vola told you last session. And then again, now that the"
+    },
+    {
+      "header": "[u0130 | 00:11:49.590-00:12:06.810 | DM]",
+      "lineNumber": 130,
+      "originalText": "Mentioned worked worked for or mentioned or wanting to get information for or doing something for this creature unclear what or who she was exactly but they refer to her as a gotta dust mother.",
+      "cleanedText": "Mentioned worked worked for or mentioned or wanting to get information for or doing something for this creature unclear what or who she was exactly but they refer to her as Agata Dustmother."
+    },
+    {
+      "header": "[u0156 | 00:14:14.220-00:14:20.970 | Wellby]",
+      "lineNumber": 156,
+      "originalText": "Those would have been in the valley or like either outside or inside the main wall of ravens hold",
+      "cleanedText": "Those would have been in the valley or like either outside or inside the main wall of Raven's Hold"
+    },
+    {
+      "header": "[u0163 | 00:14:42.840-00:14:46.590 | Delwath]",
+      "lineNumber": 163,
+      "originalText": "As Viola what it who I want to ask for, like, what",
+      "cleanedText": "As Vola what it who I want to ask for, like, what"
+    },
+    {
+      "header": "[u0182 | 00:16:19.080-00:16:23.700 | Kenzo]",
+      "lineNumber": 182,
+      "originalText": "We should be careful with this one. She's from a part of chart in that",
+      "cleanedText": "We should be careful with this one. She's from a part of Chardon that"
+    },
+    {
+      "header": "[u0183 | 00:16:24.870-00:16:30.660 | Kenzo]",
+      "lineNumber": 183,
+      "originalText": "I don't know. I don't have a great affection for the society of the open scroll myself and",
+      "cleanedText": "I don't know. I don't have a great affection for the society of the Open Scroll myself and"
+    },
+    {
+      "header": "[u0190 | 00:16:55.410-00:17:05.310 | Kenzo]",
+      "lineNumber": 190,
+      "originalText": "The, the great the society of the open scrolling chart in there. Not much, in my view, for the people there, they're really trying to take these items and",
+      "cleanedText": "The, the great the society of the open scrolling Chardon there. Not much, in my view, for the people there, they're really trying to take these items and"
+    },
+    {
+      "header": "[u0194 | 00:17:15.660-00:17:18.450 | Kenzo]",
+      "lineNumber": 194,
+      "originalText": "never saw any of the benefits from the society be open scroll",
+      "cleanedText": "never saw any of the benefits from the society be Open Scroll"
+    },
+    {
+      "header": "[u0347 | 00:28:46.050-00:29:03.750 | DM]",
+      "lineNumber": 347,
+      "originalText": "The, the Southern tower. The one where Viola was prisoner was substantially closer like The Two Towers are sort of at an angle and the keep it sort of nestled into the edge of the so it's like the tower and the cliff wall make a triangle.",
+      "cleanedText": "The, the Southern tower. The one where Vola was prisoner was substantially closer like The Two Towers are sort of at an angle and the keep it sort of nestled into the edge of the so it's like the tower and the cliff wall make a triangle."
+    },
+    {
+      "header": "[u0437 | 00:37:08.580-00:37:10.290 | DM]",
+      "lineNumber": 437,
+      "originalText": "They called her. I gotta dust mother.",
+      "cleanedText": "They called her. Agata Dustmother."
+    },
+    {
+      "header": "[u0442 | 00:37:36.660-00:37:42.840 | DM]",
+      "lineNumber": 442,
+      "originalText": "Wanted to know about ancient drink Korean artifacts and where I could find them for them.",
+      "cleanedText": "Wanted to know about ancient Drankorian artifacts and where I could find them for them."
+    },
+    {
+      "header": "[u0552 | 00:44:55.140-00:45:07.290 | Kenzo]",
+      "lineNumber": 552,
+      "originalText": "Or one of us can scout, and then you know you this, it feels quiet here. I mean, it feels like I mean bola. Have you seen more than it seems like bola hasn't seen many more than three. Three people here.",
+      "cleanedText": "Or one of us can scout, and then you know you this, it feels quiet here. I mean, it feels like I mean Vola. Have you seen more than it seems like Vola hasn't seen many more than three. Three people here."
+    },
+    {
+      "header": "[u1560 | 02:05:47.490-02:05:57.210 | DM]",
+      "lineNumber": 1560,
+      "originalText": "Okay, so, um, bullet takes a step into the door and then she's not holding any weapons or anything.",
+      "cleanedText": "Okay, so, um, Vola takes a step into the door and then she's not holding any weapons or anything."
+    },
+    {
+      "header": "[u1701 | 02:16:02.040-02:16:05.190 | DM]",
+      "lineNumber": 1701,
+      "originalText": "So right, this was the one that bullet damage before so",
+      "cleanedText": "So right, this was the one that Vola damage before so"
+    },
+    {
+      "header": "[u1740 | 02:19:10.410-02:19:15.990 | DM]",
+      "lineNumber": 1740,
+      "originalText": "Okay, let's see. Viola is going to try and kill this know",
+      "cleanedText": "Okay, let's see. Vola is going to try and kill this know"
+    },
+    {
+      "header": "[u2034 | 02:39:54.270-02:39:59.850 | DM]",
+      "lineNumber": 2034,
+      "originalText": "Okay, Viola will now step out finally crawling her slow",
+      "cleanedText": "Okay, Vola will now step out finally crawling her slow"
+    },
+    {
+      "header": "[u2338 | 03:04:03.720-03:04:05.070 | DM]",
+      "lineNumber": 2338,
+      "originalText": "bola sitting next to",
+      "cleanedText": "Vola sitting next to"
+    },
+    {
+      "header": "[u2346 | 03:04:44.580-03:04:47.100 | Delwath]",
+      "lineNumber": 2346,
+      "originalText": "Is bullet does Volvo seem to be talking to him.",
+      "cleanedText": "Is Vola does Vola seem to be talking to him."
+    },
+    {
+      "header": "[u2514 | 03:18:56.640-03:19:03.270 | DM]",
+      "lineNumber": 2514,
+      "originalText": "Let's see bola is just gonna as she sort of slowly them stop. She says, I got asleep. It's",
+      "cleanedText": "Let's see Vola is just gonna as she sort of slowly them stop. She says, I got asleep. It's"
+    },
+    {
+      "header": "[u2530 | 03:20:21.030-03:20:25.410 | DM]",
+      "lineNumber": 2530,
+      "originalText": "Viola sleep and are troubled maybe by vague.",
+      "cleanedText": "Vola sleep and are troubled maybe by vague."
+    },
+    {
+      "header": "[u2607 | 03:26:30.600-03:26:32.970 | Wellby]",
+      "lineNumber": 2607,
+      "originalText": "A bullet goblin",
+      "cleanedText": "A Vola goblin"
+    }
+  ]
+}
