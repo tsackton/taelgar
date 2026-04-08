@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
 tags: [session-note]
+campaign: Labyrinths of the Lost
+sessionNumber: {session.session_number}
+realWorldDate: {session.real_date}
 DR: {session.dr_start}
 DR_end: {session.dr_end}
-realWorldDate: {session.real_date}
-descTitle: "{session.desc_title}"
-tagline: "{session.tagline}"
+players: [{session.pcs_inline}]
+companions: []
+name: {session.title}
+descTitle: {session.desc_title}
+tagline: {session.tagline}
 ---
 # {session.title}
 

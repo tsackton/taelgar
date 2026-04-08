@@ -164,8 +164,8 @@
       "dateStart": "1748-10-17",
       "dateEnd": null,
       "timeWindow": "afternoon",
-      "shortSummary": "The party stages a fake prisoner transfer outside the barracks, using Gaudin's goblin disguise and Loria's telepathic translation, but Folcan grows suspicious and the deception starts to collapse.",
-      "longSummary": "Hoping to learn more without attacking a full barracks, the party builds a complicated ruse: Gaudin disguises himself as a goblin, Loria pretends to be bound, and the others hide behind a hedge with the steel defender ready. The approach works just long enough to pull barracks goblins out onto the path, but Folcan proves sharper than the first drunk guards, dismisses the act, and begins punishing the supposed troublemakers, forcing the party toward open action.",
+      "shortSummary": "The party tries to bluff the barracks with Gaudin disguised as Morky and Loria posing as a captive, but Folcan reads the scene too quickly for the ruse to hold.",
+      "longSummary": "Instead of storming the barracks, the party stages a fake prisoner transfer on the hedgerow path: Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind cover while Loria telepathically feeds Gaudin Goblin lines. The act is awkward but almost good enough to draw out two guards and then Folcan, yet once one goblin spots Loria's hidden sword and Folcan arrives, he sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized, leaving the bluff on the verge of collapse.",
       "location": {
         "kind": "fixed",
         "primary": "Perdoli Manor (Western Cymea)",
@@ -177,7 +177,7 @@
           "name": "Folcan",
           "role": "encountered",
           "context": "goblin boss with a staff",
-          "notes": "Folcan steps out from the barracks and immediately reads the scene better than the party hoped."
+          "notes": "Folcan ignores the cover story, warns Ulgna to send help if he does not return, blasts Gaudin with his staff, and orders Loria seized."
         },
         {
           "name": "Ulgna",
@@ -188,8 +188,8 @@
         {
           "name": "Morky",
           "role": "mentioned",
-          "context": "drunk goblin used as the cover story",
-          "notes": "Folcan frames the scene as Morky being dealt with for drinking too much."
+          "context": "drunk goblin whose identity Gaudin imitates",
+          "notes": "Gaudin poses as Morky to sell the fake prisoner transfer, and Folcan uses Morky's drunkenness as the excuse he sends back to Ulgna."
         }
       ],
       "items": [],
@@ -203,8 +203,8 @@
       "dateStart": "1748-10-17",
       "dateEnd": null,
       "timeWindow": "afternoon",
-      "shortSummary": "Loria's fog cloud turns the failed bluff into a fast street fight, and the party kills the barracks guards while taking Folcan alive before the rest of the goblins can respond.",
-      "longSummary": "The moment the bluff fails, Loria drops a fog cloud across the path and hedgerow, cutting sight lines and throwing the barracks-side goblins into confusion. Fighting through the obscuring mist, the party tears down the nearby guards with spells, steel defender pressure, and Loria's blades, then hauls the surviving Folcan back toward the smithy before the wider barracks can react to the noise.",
+      "shortSummary": "When the goblins move to grab Loria, she drops a fog cloud over the path, and the party wins the skirmish fast enough to drag Folcan back alive before the barracks reacts.",
+      "longSummary": "Once Folcan orders Loria grabbed and sends one goblin running with instructions for Ulgna, Loria answers by filling the path and hedgerow with fog. Fighting through the obscuring mist, she cuts down the goblin holding her, Gaudin slips clear and fires from range, Dilion and the steel defender press from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is taken alive, and the party retreats to the smithy with just enough time to question him before the barracks comes looking.",
       "location": {
         "kind": "fixed",
         "primary": "Perdoli Manor (Western Cymea)",
@@ -216,7 +216,7 @@
           "name": "Folcan",
           "role": "enemy",
           "context": "captured goblin boss",
-          "notes": "Folcan is beaten, captured alive, and dragged back for interrogation."
+          "notes": "Folcan survives the path fight, is taken captive, and is dragged back to the smithy for interrogation."
         }
       ],
       "items": [],
@@ -226,11 +226,11 @@
         "phase": "full",
         "mainEnemies": [
           {
-            "name": "Folcan and barracks goblins",
-            "notes": "The party fights Folcan and the goblin guards he brought onto the path from the barracks."
+            "name": "Folcan and three barracks goblins",
+            "notes": "The fight on the path involves Folcan, the suspicious goblin already on scene, and the two warriors who come out with him from the barracks."
           }
         ],
-        "notes": "The fog cloud and hedgerow let the party finish the skirmish before the full barracks is mobilized."
+        "notes": "Loria's fog cloud and the hedgerow let the party isolate the path fight, finish it inside roughly three rounds, and retreat with Folcan before the full barracks reacts."
       }
     },
     {
@@ -238,8 +238,8 @@
       "dateStart": "1748-10-17",
       "dateEnd": null,
       "timeWindow": "afternoon",
-      "shortSummary": "Interrogating the captured Folcan, the party learns how Grimstone's prisoner racket works and where hidden tunnels might lead into the manor's wine cellar.",
-      "longSummary": "Back at the smithy, the party revives and threatens Folcan until he finally explains the arrangement: Grimstone, masked in white marble and black robes, takes one prisoner a week from the manor while the goblins keep silver, copper, and lesser spoils. Folcan also reveals that about ten goblins plus Ulgna remain in the barracks, that hobgoblins guard the main approach, and that a tunnel network may connect the barracks, the kitchen, and perhaps the ruined chapel to the manor's wine cellar, giving the group a plausible infiltration route for next session.",
+      "shortSummary": "Back at the smithy, the party breaks Folcan's nerve and learns how Grimstone's prisoner racket and tunnel routes into the manor work.",
+      "longSummary": "Back at the smithy, the party revives Folcan, takes away his bone staff, and alternates threats, acid, and questions until he stops posturing. He explains that Grimstone appears in black robes and a white marble mask, takes one prisoner each week into the manor, and pays the goblins in loot while keeping the best treasure. He also reveals that ten goblins plus Ulgna remain in the barracks, that hobgoblins guard the outer gates and the manor door, and that tunnels from the barracks and kitchen, with a rumored chapel entrance, all lead toward the wine cellar, leaving the party leaning toward a tunnel approach and using Folcan to buy time.",
       "location": {
         "kind": "fixed",
         "primary": "Perdoli Manor (Western Cymea)",
@@ -251,7 +251,7 @@
           "name": "Folcan",
           "role": "encountered",
           "context": "captured goblin informant",
-          "notes": "Folcan gives up the tunnel information and explains the goblins' deal with Grimstone."
+          "notes": "After being revived and threatened, Folcan explains Grimstone's arrangement, the remaining goblin numbers, the hobgoblin guards, and the tunnel entrances."
         },
         {
           "name": "Grimstone",

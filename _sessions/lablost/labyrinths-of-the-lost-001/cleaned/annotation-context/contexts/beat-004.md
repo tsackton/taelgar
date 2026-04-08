@@ -77,7 +77,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Dilion: name=Dylan, gameRole=Dilion
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1208 | 02:05:26.780-02:05:42.829 | Acescale] I'm with you, Loria, and I need your ability to speak goblin, to interrogate them, because this was a once-in-a-lifetime haul for me 40 gold in a single night. That's a serious Talgar hold and winnings right there, and it's not something you can just, you know.
 [u1209 | 02:05:43.050-02:05:47.510 | Acescale] waving and hands. I I'll wait here.
@@ -355,8 +355,8 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1481 | 02:34:21.800-02:34:24.109 | DM] That you can hear this.
 [u1482 | 02:34:25.440-02:34:32.610 | DM] this this goblin boss type. Say to one of the 2 warriors
 [u1483 | 02:34:32.810-02:34:42.329 | DM] before he gets within clear earshot. And you're just talking. You're just like sort of talking to this guy, and he says to one of the 2 warriors, Go.
-[u1484 | 02:34:42.490-02:34:46.320 | DM] and you can hear this, Loria. the Hotel Ulgna.
-[u1485 | 02:34:47.810-02:34:55.709 | DM] Marcus had too much to drink. I'm dealing with him. I'm not back in an hour. Send troops to the smithy.
+[u1484 | 02:34:42.490-02:34:46.320 | DM] and you can hear this, Loria. Tell Ulgna.
+[u1485 | 02:34:47.810-02:34:55.709 | DM] Morky's had too much to drink. I'm dealing with him. If I'm not back in an hour, send troops to the smithy.
 [u1486 | 02:34:58.520-02:35:08.099 | DM] and then he turns and he approaches, and he he listens to you, and he like completely ignores everything you're saying, and just goes up and takes his staff.
 [u1487 | 02:35:08.920-02:35:16.479 | DM] are you gonna try and do anything about this? Are you taking the hat?
 [u1488 | 02:35:16.930-02:35:25.200 | Gaudin] I like pretend like I stumbled, and I'm on the ground so like if he hits me, it feels more even
@@ -376,7 +376,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1502 | 02:36:36.330-02:36:47.290 | Gaudin] kicks you while you're down this goblin. Get a crawl, you miserable cur! Look! I start crawling back towards where where we came from.
 [u1503 | 02:36:47.820-02:36:48.879 | Dilion] The hinge
 [u1504 | 02:36:49.520-02:37:02.199 | DM] yeah, towards the edge, just as one of the go. One of the 2 goblins is like trying to say like, something's wrong here. But it's just completely ignoring the other 2 goblins.
-[u1505 | 02:37:02.440-02:37:06.249 | DM] Grab that damn hoffling. Drag her along.
+[u1505 | 02:37:02.440-02:37:06.249 | DM] Grab that damn halfling. Drag her along.
 [u1506 | 02:37:06.590-02:37:08.850 | Loria] We're gonna deal with this
 [u1507 | 02:37:10.120-02:37:12.420 | Loria] Gloria yells
 [u1508 | 02:37:12.650-02:37:16.569 | Loria] telepathically in Goblin to the one coming towards her. That

@@ -4,15 +4,15 @@
 
 **Unknown:** And
 
-**DM:** OK, so We begin tonight out the sun is setting over ravens You earlier this afternoon, like five sessions ago you left your horses in gear in the narrow River Valley and made your way by secret passages and waiting rivers through the mountains to the abandoned Durban outpost. Near that Dunmari stronghold of Raven's Hold there after encountering in a car and her wild or the identified Kim. And obtaining safe passage and stand for some combat. You found your way to the brown envelope vault where resin recovered her long thought Emerald shield different clan and chatted to preserve the stories of her Her family's history. leaving the door open stronghold via an underground passage seemingly constructed after the doors had abandoned their outpost as neither man nor her uncle who drew the map had any indication that existed. Or sorry, You itself emerging in a series of storms carved into a cliff law, one of which seemed to have been used as a prison or torture chamber execution chamber. By hobgoblins, presumably, at some point, but after the Denmark. He had built the stronghold when they had captured it and occupied at perhaps during their awards with the Dunmari and the blood years After defeating some seemingly recently reanimated undead hobgoblin corpses. Some careful scouting revealed signs of no occupation. Along with a large number of wild beasts being kept for some unknown purpose. You then found an unguarded passage to the two guard towers of the inner keep were in one of these towers, you encountered in free to prisoner. Vola. Vola Forena of children who is being guarded by an orc and to shape shifting Jacqueline, where's seemingly the servants of some entity that she referred to as Agata Dustmother. Now it's dusk. Red Light of the sunset is streaming through the narrow windows of the North Tower, where you have come to catch your breath and what seems to be the ruined and decaying remains of a study or council chamber of some kind. Outside, you can hear the house of beasts hyenas lions jackals wild dogs in the distance, fading and then growing stronger as something stars them up and then fading again. From the outer courtyard beyond the towers. The stench of rotting sulphurous flash and a faint tinge of ash in your mouth rises. The inner courtyard on the other side. A flicker of firelight cleans from the windows on the open door of the main keep As you Kind of come in bar the door. Begin to clear some space to sit and catch your breath. Vola turns to you and says, I could really use a real meal, to be honest, it's not like those bloody creatures fed me much. And then perhaps we can make a place to get the fuck out of this damn place. Where do you think you have some food.
+**DM:** OK, so We begin tonight as the sun is setting over Raven's Hold. Earlier this afternoon, like five sessions ago, you left your horses and gear in the narrow river valley and made your way by secret passages and winding rivers through the mountains to the abandoned dwarven outpost. Near that Dunmari stronghold of Raven's Hold there, after encountering Inakara and her wild orc ally, and obtaining safe passage instead of some combat. You found your way to the Brawnanvil vault where Riswynn recovered her long-thought-lost Emerald shield of the Brawnanvil Clan and chose to preserve the stories of her Her family's history. leaving the door open stronghold via an underground passage seemingly constructed after the doors had abandoned their outpost as neither man nor her uncle who drew the map had any indication that existed. Or sorry, You found yourself emerging in a series of rooms carved into a cliff wall, one of which seemed to have been used as a prison or torture chamber, execution chamber. By hobgoblins, presumably, at some point, after the Dunmari had built the stronghold, when they had captured it and occupied it, perhaps during their wars with the Dunmari and the Blood Years. After defeating some seemingly recently reanimated undead hobgoblin corpses. Some careful scouting revealed signs of no occupation. Along with a large number of wild beasts being kept for some unknown purpose. You then found an unguarded passage to the two guard towers of the inner keep where, in one of these towers, you encountered and freed the prisoner Vola. Vola Forena of Chardon, who is being guarded by an orc and two shape-shifting jackalweres, who are seemingly the servants of some entity that she referred to as Agata Dustmother. Now it's dusk. Red Light of the sunset is streaming through the narrow windows of the North Tower, where you have come to catch your breath and what seems to be the ruined and decaying remains of a study or council chamber of some kind. Outside, you can hear the host of beasts, hyenas, lions, jackals, wild dogs in the distance, fading and then growing stronger as something stirs them up and then fading again. From the outer courtyard beyond the towers, the stench of rotting sulfurous flesh and a faint tinge of ash in your mouth rises. The inner courtyard on the other side. A flicker of firelight gleams from the windows and the open door of the main keep. As you Kind of come in bar the door. Begin to clear some space to sit and catch your breath. Vola turns to you and says, I could really use a real meal, to be honest, it's not like those bloody creatures fed me much. And then perhaps we can make a place to get the fuck out of this damn place. Where do you think you have some food.
 
-**Delwath:** Sure, some Russians.
+**Delwath:** Sure, some rations.
 
-**DM:** Thank you. Sir, Not the best I've had, but Better than whatever swell that arc. What's feeding me
+**DM:** Thank you. Sir, Not the best I've had, but Better than whatever swill that orc was feeding me.
 
 **Kenzo:** So, What else can you tell us about what's going on here.
 
-**DM:** Here, specifically. Wow. Can't say I've been able to see much locked up in a tower. It was maybe 10 days ago I got here. Those Careless error those creatures surprise me and Seem to be Quite difficult to hurt.
+**DM:** Here, specifically. Wow. Can't say I've been able to see much locked up in a tower. It was maybe 10 days ago I got here. Those Careless error, those creatures surprised me and Seem to be Quite difficult to hurt.
 
 **Unknown:** Anyway,
 
@@ -68,11 +68,11 @@
 
 **Delwath:** So,
 
-**Kenzo:** We were, we were we were Tracking the noles Right, because we were like, Where the fuck are these like weird creatures coming from
+**Kenzo:** We were, we were we were Tracking the gnolls. Right, because we were like, Where the fuck are these like weird creatures coming from
 
 **Delwath:** But was it Was it only to find out where they're coming from, like,
 
-**Wellby:** Just, just stop it if we could, but we also knew from the other Heflin who'd been infected by the plant thing when he tried to look inside Raven's Hold to think the idea was, like, we know that these messed up creatures are coming from somewhere. And so we'll go and try and figure it out.
+**Wellby:** Just, just stop it if we could, but we also knew from the other halfling who'd been infected by the plant thing when he tried to look inside Raven's Hold. I think the idea was, like, we know that these messed up creatures are coming from somewhere. And so we'll go and try and figure it out.
 
 **Delwath:** For stab at the messed up hassling We should okay right so
 
@@ -82,9 +82,9 @@
 
 **Kenzo:** Yeah, that's like there's some kind of corruption happening that we think is coming from ravens whole maybe. And so we're here to investigate and see, like, why the fuck all this weird is happening and what sorts of it is
 
-**Seeker:** And we met those centers. They told us about the tether to the bad place. There's some relation to the infinite electrical storm, but we don't know how that's connected if at all to what's happening here.
+**Seeker:** And we met those centaurs. They told us about the tether to the bad place. There's some relation to the infinite electrical storm, but we don't know how that's connected, if at all, to what's happening here.
 
-**DM:** Right. Well, they didn't specifically say it was connected to the electrical storm. They said, Oh, um, there was, they told you about the fact that You know beliefs can create deities and there was a Another plane, called the best that was had been birthed from Visions of how basically and that there was some connection between that place the abyss and something that was poisoning the water, which seemed to be coming from Raven's Hold but
+**DM:** Right. Well, they didn't specifically say it was connected to the electrical storm. They said, Oh, um, there was, they told you about the fact that You know beliefs can create deities and there was a Another plane, called the Abyss, that had been birthed from visions of chaos, basically, and that there was some connection between that place, the Abyss, and something that was poisoning the water, which seemed to be coming from Raven's Hold, but
 
 **Delwath:** Whether
 
@@ -100,7 +100,7 @@
 
 **Seeker:** Let's, let's, um, Let's ask about Agata Dustmother.
 
-**Kenzo:** Wait, wait, wait. What is it gotta dust mother again.
+**Kenzo:** Wait, wait, wait. What is Agata Dustmother again.
 
 **DM:** Yeah so Vola told you last session. And then again, now that the The creatures that had captured her Mentioned worked worked for or mentioned or wanting to get information for or doing something for this creature unclear what or who she was exactly but they refer to her as Agata Dustmother.
 
@@ -112,7 +112,7 @@
 
 **Seeker:** There's, there's no way around it.
 
-**DM:** Yeah, you saw maybe five or six nodes that were guarding the sort of central plaza off which the animals seem to be kept. And you also saw So well be saw a Few maybe three, four Knowles driving a pack of an, you know, a group of wild animals. And but all told, You don't think you've seen more than
+**DM:** Yeah, you saw maybe five or six gnolls that were guarding the sort of central plaza off which the animals seem to be kept. And you also saw So well be saw a A few, maybe three or four gnolls, driving a pack of, you know, a group of wild animals. And but all told, You don't think you've seen more than
 
 **Unknown:** Is
 
@@ -126,9 +126,9 @@
 
 **Kenzo:** Sending sports. I'm sending well be telepathic messages, but he's not seeing. Okay. Okay. Thank you.
 
-**DM:** Okay, um, You don't use probably not seen more than 10 $10 in total here. It's not a huge garrison obviously
+**DM:** Okay, um, You've probably not seen more than 10 total here. It's not a huge garrison, obviously.
 
-**Wellby:** But then, importantly, also, as we think about being stealthy way high up above the noles was this bat like little Creature thing.
+**Wellby:** But then, importantly, also, as we think about being stealthy, way high up above the gnolls was this bat-like little Creature thing.
 
 **Seeker:** totally forgot about the little bat demon
 
@@ -148,7 +148,7 @@
 
 **Seeker:** But if it's related to the water. Like how does that connect to same
 
-**Delwath:** As Vola what it who I want to ask for, like, what She already told us what Why did she see just the two jacket. Where's and and Nolan, that, that's it. Like what she's selfie. Up until that point. What, what, like, can you give us a scouting report on the what she saw before she was caught
+**Delwath:** As Vola what it who I want to ask for, like, what She already told us what Why did she see just the two jackalweres and an orc, and that's it? Like, what has she seen up until that point? What, what, like, can you give us a scouting report on the what she saw before she was caught
 
 **Wellby:** She seen anyone else after being caught
 
@@ -182,7 +182,7 @@
 
 **Riswynn:** Power grabbers
 
-**Kenzo:** Neighborhoods that I came from industry came. It came from and chart and never saw any of the benefits from the society be Open Scroll So, I basically think they're a bunch of fucking hypocrites myself but anyways.
+**Kenzo:** Neighborhoods that I came from industry came. It came from and chart and never saw any of the benefits from the Society of the Open Scroll. So, I basically think they're a bunch of fucking hypocrites myself but anyways.
 
 **Wellby:** We'll, we'll turn and spit on the floor and discussion.
 
@@ -190,7 +190,7 @@
 
 **Seeker:** Certainly our path is bound up together for the moment. We'll have to escape here together safely.
 
-**Kenzo:** Yeah, well, we should definitely get her out of your house, for sure. Yeah.
+**Kenzo:** Yeah, well, we should definitely get her out of here, for sure. Yeah.
 
 **Seeker:** It does raise the question though. What we're doing next. Are we trying to simply safely exit from this place or investigate if you
 
@@ -212,11 +212,11 @@
 
 **DM:** The mock creatures were not of this world. They were what you would typically called demons. Yes.
 
-**Kenzo:** You're listening to, you know, viola, she's tired, she's hungry. Thanks. She's rightfully is the fuck off because she's been held captive in that tower for a little while. One thing we could do is You know, a few of us could still continue to scout. I don't know how much time we have before people realize that we, you know, Killed those in danger. Yeah, right.
+**Kenzo:** You're listening to, you know, Vola, she's tired, she's hungry. She rightfully is pissed the fuck off because she's been held captive in that tower for a little while. One thing we could do is You know, a few of us could still continue to scout. I don't know how much time we have before people realize that we, you know, Killed those in danger. Yeah, right.
 
 **Delwath:** I think I think moving quickly is important. I don't think we have time to. You know, wait.
 
-**Seeker:** There's also the question once we do decide to make our way back to safety. Exactly how will do that look along what path.
+**Seeker:** There's also the question, once we do decide to make our way back to safety, exactly how will that look, along what path.
 
 **Delwath:** Don't we have a secret tunnel out kind of
 
@@ -226,7 +226,7 @@
 
 **Wellby:** Because the horses are there to
 
-**Delwath:** Right and the mind flyers are waiting for us their
+**Delwath:** Right, and the mind flayers are waiting for us there.
 
 **Riswynn:** Mechanical thing that I want.
 
@@ -254,13 +254,13 @@
 
 **DM:** Ah, not without significant clearing of stone and rubble.
 
-**Seeker:** Clearing of rebel. You say,
+**Seeker:** Clearing of rubble, you say.
 
 **Kenzo:** I didn't go. It can make you invisible seeker. If you wanted to go and talk to the animals.
 
 **Seeker:** So that's one idea. What are some other things that we can do to gather information.
 
-**Delwath:** I still want to hear what Volo knows first
+**Delwath:** I still want to hear what Vola knows first.
 
 **Unknown:** Um,
 
@@ -274,17 +274,17 @@
 
 **DM:** Yeah, she's not. I mean, She hasn't. You know, like been super talkative and forthcoming about absolutely everything but you don't get the sense that she's trying to deceive you about anything.
 
-**Kenzo:** Right, so nothing that she's told us has been alive, but she might not have been telling us the full truth.
+**Kenzo:** Right, so nothing that she's told us has been a lie, but she might not have been telling us the full truth.
 
 **DM:** Yeah.
 
 **Kenzo:** She hasn't told us the whole story necessary.
 
-**DM:** Yeah, I mean, it's more just that she hasn't. Um, I mean, she has been sort of distracted and you get the sense that she is quite Tired. And I mean, she's been in prison by orcs for 10 days and has been kind of dramatize yeah
+**DM:** Yeah, I mean, it's more just that she hasn't. Um, I mean, she has been sort of distracted and you get the sense that she is quite Tired. And I mean, she's been in prison by orcs for 10 days and has been kind of traumatized, yeah.
 
-**Kenzo:** I mean, the question is just how much time do we even have before we get found out before because these orcs. They've got friends and Now that we've I mean, basically, there's, there's, like, there's one or two things that can happen either the friends comment if we're strong enough, we can take them all out and then we can you know freely, the ground. We're trying to still stay selfie. Doesn't feel like a lot of times, do that.
+**Kenzo:** I mean, the question is just how much time do we even have before we get found out before because these orcs. They've got friends and Now that we've I mean, basically, there's, there's, like, there's one or two things that can happen either the friends comment if we're strong enough, we can take them all out and then we can you know freely, the ground. We're trying to still stay stealthy. Doesn't feel like a lot of time to do that.
 
-**Wellby:** Right I cast my vote to press on into the key. I think Yeah, whatever's in there, you know, whatever is the source of the cause the mover behind all of this. It's gonna be a lot more trouble than orcs. I think surprises an advantage. And we have a good line of retreat. If things go bad.
+**Wellby:** Right, I cast my vote to press on into the keep. I think Yeah, whatever's in there, you know, whatever is the source of the cause the mover behind all of this. It's gonna be a lot more trouble than orcs. I think surprises an advantage. And we have a good line of retreat. If things go bad.
 
 **Seeker:** I'd say you should find out what's in there in the stealthy as possible way.
 
@@ -292,7 +292,7 @@
 
 **Unknown:** Well, I
 
-**Seeker:** Continue carving doing this very important task of carving out time figurines for the new Version of Legendary stealth Kenza tabletop role playing game.
+**Seeker:** Continue carving, doing this very important task of carving out tiny figurines for the new Version of Legendary Stealth Kenzo tabletop role-playing game.
 
 **Kenzo:** You're a craftsperson speaker.
 
@@ -318,7 +318,7 @@
 
 **Seeker:** Oh, and I even already used the Pearl of power.
 
-**DM:** Already use the pearl. I mean, you guys. You haven't slept since That the night Before you met the center's
+**DM:** Already use the pearl. I mean, you guys. You haven't slept since That the night Before you met the centaurs.
 
 **Seeker:** Can we safely sleep here.
 
@@ -336,7 +336,7 @@
 
 **Wellby:** Except Waiting always mix the risk, presumably the people we killed we're supposed to do things at certain points.
 
-**Seeker:** Yeah, take out the whatever no trash needs to be taken out. Hey, those are people to access insofar as they're not I still think that it might be safer if we can have the one person go invisibly if we can pull that trick again with the key, but I don't know if that's possible.
+**Seeker:** Yeah, take out the whatever no trash needs to be taken out. Hey, those are people to access insofar as they're not I still think that it might be safer if we can have the one person go invisibly if we can pull that trick again with the keep, but I don't know if that's possible.
 
 **Kenzo:** Yeah, I think will be or I could do that.
 
@@ -348,11 +348,11 @@
 
 **Delwath:** And where's the keep
 
-**DM:** The keep so that these towers are like the inner Says later outer wall and an inner The inner wall inside the inner walls to keep outside the inner wall. There's the outdoor courtyard. And then beyond the outer courtyard, there's The Plaza where the knows where the animals and the wall.
+**DM:** The keep so that these towers are like the inner Says later outer wall and an inner The inner wall. Inside the inner wall's the keep; outside the inner wall, there's the outdoor courtyard. And then beyond the outer courtyard, there's the plaza where the gnolls were, the animals, and the wall.
 
 **Delwath:** I mean side. Just like watching for as we've been talking like is there activity. Is this like Great question it. You know, if you stare out the window for 15 minutes towards the key or their lights as there any whites coming on now that it's DAS. Is there any like people crossing the courtyard, or is it just like quiet.
 
-**DM:** There's so um There's a flicker firelight that gleams from the windows and open door of the main key. There's not any movement that you've seen
+**DM:** There's so um There's a flicker of firelight that gleams from the windows and open door of the main keep. There's not any movement that you've seen
 
 **Delwath:** But like flicker firelight like one heart fire that's flickering out from one door or like Like this with torches and
 
@@ -370,7 +370,7 @@
 
 **Delwath:** Is that kind of just eyeballing it about as close as it gets, or does it come much closer to
 
-**DM:** The, the Southern tower. The one where Vola was prisoner was substantially closer like The Two Towers are sort of at an angle and the keep it sort of nestled into the edge of the so it's like the tower and the cliff wall make a triangle. And then it keeps us at the bottom of the triangle. And so the North Tower sort of the top of the triangle south tower is sort of down here next to the key. And you're sort of looking out the window of the North Tower sort of down almost straight to the main doorway from here.
+**DM:** The southern tower, the one where Vola was prisoner, was substantially closer. The two towers are sort of at an angle, and the keep is sort of nestled into the edge of the cliff, so it's like the tower and the cliff wall make a triangle. And then the keep sits at the bottom of the triangle. And so the north tower is sort of the top of the triangle; south tower is sort of down here next to the keep. And you're sort of looking out the window of the North Tower sort of down almost straight to the main doorway from here.
 
 **Delwath:** Substantially closer, isn't it doesn't get within 30 feet or not.
 
@@ -382,21 +382,21 @@
 
 **DM:** Yeah, you could maybe just get to the third floor from the Maybe just 30 feet to the closest part of the roof does. I mean, the top floor seems to be in ruins. And the roof is not like there's holes in it and stuff. But yeah, it's probably about 30 feet to the closest corner of the roof from the nearest point of the south tower.
 
-**Delwath:** And how active is the like how visible. Is that from what I'm, what I'm after, is if we if we strung a rope. Let's say from the nearest point of the tower to the roof of the key. How visible, would people be crawling across the room. And
+**Delwath:** And how active is the like how visible. Is that from what I'm, what I'm after, is if we if we strung a rope. Let's say from the nearest point of the tower to the roof of the key. How visible would people be crawling across the rope. And
 
 **DM:** If somebody was in the inner courtyard, you would be
 
 **Delwath:** blazingly obvious right but from the keep
 
-**DM:** From the inside of the cube. No, that would be pretty hard to say.
+**DM:** From the inside of the keep, no, that would be pretty hard to say.
 
 **Kenzo:** In general, like just the whole time. We've been here like with inside this kind of keep area like how many people is that is the key seem to be bustling or is it just feel like it's because so far it seems like it's pretty empty like it feels like
 
-**DM:** So yeah, you've mean you've heard like there's last time you did hear some sort of movement like kind of maybe more undead groans kind of wandering in the outer courtyard. Nothing's visible right now. And of course, for our third away. In the plaza or animals and some number of nodes. The kit itself has been extremely quiet you have not seen anything moving in the inner courtyard, or in or out of the keep
+**DM:** So yeah, you've heard, like, last time you did hear some sort of movement, like kind of maybe more undead groans, kind of wandering in the outer courtyard. Nothing's visible right now. And of course, farther away, in the plaza are animals and some number of gnolls. The keep itself has been extremely quiet; you have not seen anything moving in the inner courtyard, or in or out of the keep.
 
-**Kenzo:** Just in general. Like the whole campus area that we've been around, like, I mean, we have an approximate sense of just total how many Knowles or just kind of creatures that might even be like does it feel like there's like 50 105 and like
+**Kenzo:** Just in general. Like the whole campus area that we've been around, like, I mean, do we have an approximate sense of just total how many gnolls or just kind of creatures there might even be? Like, does it feel like there's like 50, 10, 5, and like
 
-**DM:** More like five or 10 although if there's 50 of them hiding in a barrack somewhere you went
+**DM:** More like five or 10, although if there's 50 of them hiding in a barrack somewhere, you won't
 
 **Kenzo:** Right in here for like hours. And like, it feels
 
@@ -406,27 +406,27 @@
 
 **Riswynn:** Like nocturnal thing.
 
-**DM:** Interesting noise themselves don't I mean, you've seen there's been there's certainly been active during the day. Right. Well, we saw some coming up to the family, you saw some sort of gardening gardening is a loose term right hanging about in the sort of entry Plaza, and then they went somewhere and another group came out. So there's at least two groups.
+**DM:** Interesting. The gnolls themselves don't I mean, you've seen there's certainly been activity during the day, right? You saw some sort of gardening, gardening is a loose term, right, hanging about in the sort of entry plaza, and then they went somewhere and another group came out. So there's at least two groups.
 
-**Delwath:** I want to talk to vote for a little bit more to right way before we do anything else. Let's quietly just interrogator Where, what does she seemed like can we go back to that idea of getting a scouting report. Yeah.
+**Delwath:** I want to talk to Vola for a little bit more, too, right away, before we do anything else. Let's quietly just interrogate her. Where, what does she seemed like can we go back to that idea of getting a scouting report. Yeah.
 
 **Kenzo:** Sounds good.
 
-**DM:** So she sort of Like size for a moment and Looks like she had almost Leah. He had like dozed off for a few minutes as you are talking. Um, but then When she hears when she hears her name again she kind of like sits up and says, Ah, Well, shall we make a plan. Not going to sit in this damn place for that much longer.
+**DM:** So she sort of Like sighs for a moment and looks like she had almost, like, dozed off for a few minutes as you were talking. Um, but then When she hears when she hears her name again she kind of like sits up and says, Ah, Well, shall we make a plan. Not going to sit in this damn place for that much longer.
 
-**Delwath:** What do you see in your way in. And can you, can you tell us the lay of the land. What do you know
+**Delwath:** What did you see on your way in? And can you, can you tell us the lay of the land? What do you know
 
-**DM:** How much about the castle. Have you seen
+**DM:** How much about the castle have you seen.
 
 **Delwath:** Not much.
 
-**DM:** So it's a big place. I have not. I didn't get a chance to explore it all. Those damn things got me. I came in up over the wall. Just south of here came along the wall easiest entry point from to the keep from the wall was via this tower. I can tell you that the wall that the outer wall runs maybe 600 feet North northwest, north, south, this is the sub southernmost end of the castle. I did scout a bit At least 10 days ago there was The entire place seemed empty fires going to have an easy time about tell those bloody creatures and brushed me Ah, There was maybe Two or three of those. What do you call them the nasty tiny in a human. Hard How beasts of some kind. Um, But I didn't get a chance to explore much There is a set of Barracks and kind of ruined. Old bits of Fortress between here and the And the and the plaza. Was kind of hoping there's a There's a rumor. That after this place is abandoned by hobgoblin Some sort of three headed beast of fearsome aspect and with a Breath of Fire made a layer here of course not still here. Thank God that would be three.
+**DM:** So it's a big place. I have not. I didn't get a chance to explore it all. Those damn things got me. I came in up over the wall. Just south of here, came along the wall. Easiest entry point to the keep from the wall was via this tower. I can tell you that the wall that the outer wall runs maybe 600 feet North northwest, north, south, this is the sub southernmost end of the castle. I did scout a bit At least 10 days ago there was The entire place seemed empty. Figured I was going to have an easy time of it until those bloody creatures ambushed me. Ah, There was maybe Two or three of those. What do you call them, the nasty tiny inhuman hound- beasts of some kind. Um, But I didn't get a chance to explore much There is a set of Barracks and kind of ruined. Old bits of Fortress between here and the And the and the plaza. Was kind of hoping there's a There's a rumor. That after this place was abandoned by hobgoblins, some sort of three-headed beast of fearsome aspect and with a breath of fire made a lair here. Of course not still here, thank God.
 
 **Seeker:** Three headed
 
 **Unknown:** That's the rumor.
 
-**DM:** People will say the darndest things so Let me. Well, if I know whether it's true or not, but maybe some bits of its treasure hoard are still lingering around could be some use of something useful to me.
+**DM:** People will say the darndest things so Well, I don't know whether it's true or not, but maybe some bits of its treasure hoard are still lingering around, could be of some use, something useful to me.
 
 **Seeker:** Three headed fire breathing huh
 
@@ -436,33 +436,33 @@
 
 **Delwath:** Do you know why you were kept prisoner. They want something from you.
 
-**DM:** Possibly This a God that creature
+**DM:** Possibly This Agata creature.
 
-**Seeker:** Right. What do you know about a god.
+**Seeker:** Right. What do you know about Agata.
 
-**DM:** So, um, I know that my captors. They work for this woman. Some sort of Bloody something They called her. Agata Dustmother. Made her sound like she is older than is possible for a human like hundreds of years old. And She were. They are, however, her You know board and master is if she has one Wanted to know about ancient Drankorian artifacts and where I could find them for them. Had a suspicion, this would not be Pleasant, or shall we say a smart choice.
+**DM:** So, um, I know that my captors, they work for this woman. Some sort of Bloody something They called her. Agata Dustmother. Made her sound like she is older than is possible for a human like hundreds of years old. And They are, however, her you know, lord and master, if she has one. Wanted to know about ancient Drankorian artifacts and where I could find them for them. Had a suspicion, this would not be Pleasant, or shall we say a smart choice.
 
-**Kenzo:** They know about your connection with the society. The opens well
+**Kenzo:** They know about your connection with the society, the Open Scroll?
 
-**DM:** I don't keep my charter me and heritage, a secret. I tried not to tell them anything but Well, it's not always easy. Anyway,
+**DM:** I don't keep my Chardonian heritage a secret. I tried not to tell them anything but Well, it's not always easy. Anyway,
 
-**Kenzo:** Where is it gotta you know where it is.
+**Kenzo:** Where is Agata? Do you know where she is.
 
-**DM:** They They said they were going to take me to her. But that They had to wait. And make sure Something happened first and weren't clear what make sure the ritual succeeded. Before they could leave
+**DM:** They They said they were going to take me to her. But that They had to wait. And make sure Something had to happen first, and they weren't clear what. Make sure the ritual succeeded. Before they could leave
 
 **Unknown:** Ritual
 
-**Delwath:** A gotcha wasn't here. Then we're going to take their we're gonna. They said, We've take you away.
+**Delwath:** Agata wasn't here. Then they were gonna take you away.
 
-**DM:** Yes, leave take me Probably somewhere deep in them. Damn blasted planes for all I know. But thankfully you showed up before this. Hellish ritual or whatever they're talking about was completed and they could whisked me off into the Last in depth.
+**DM:** Yes, take me Probably somewhere deep in the damn Blasted Plains, for all I know. But thankfully you showed up before this. Hellish ritual or whatever they're talking about was completed and they could whisked me off into the Blasted Plains.
 
-**Seeker:** Pro and other ritual is ongoing right now.
+**Seeker:** So another ritual is ongoing right now.
 
 **Delwath:** Yep.
 
-**DM:** Tell you this place. Certainly, whereas on your soul.
+**DM:** Tell you, this place certainly wears on your soul.
 
-**Kenzo:** Is any more about the ritual or where it was or what it involves
+**Kenzo:** Is there any more about the ritual or where it was or what it involves
 
 **DM:** It seemed clear that they needed to stay here to make sure it It worked. It happened there seemed to be some question.
 
@@ -474,31 +474,31 @@
 
 **Seeker:** They're all working on the ritual. The ritual involves All those animals.
 
-**DM:** As damn to animals they've been in my dreams.
+**DM:** Those damn animals, they've been in my dreams.
 
 **Seeker:** Your dreams.
 
-**DM:** chasing me fucking awful.
+**DM:** Chasing me. Fucking awful.
 
-**Wellby:** How do you avoid all those vines on the way in which things look nasty. Or did you
+**Wellby:** How'd you avoid all those vines on the way in? Those things look nasty. Or did you
 
-**DM:** Very, very carefully. I'm not totally without scale.
+**DM:** Very, very carefully. I'm not totally without skill.
 
-**Wellby:** Not even a scratch them.
+**Wellby:** Not even a scratch then.
 
-**DM:** They grow the thickest closest to the water. I hugged the cliff. Your are decently agile. And Can balance on some precarious rocks. It seemed like a safe path safer path. Nothing in this valley seems fucking safe.
+**DM:** They grow the thickest closest to the water. I hugged the cliff. You're decently agile. And Can balance on some precarious rocks. It seemed like a safer path. Nothing in this valley seems fucking safe.
 
-**Seeker:** How did you know the vines. We're gonna be the interest in the first place.
+**Seeker:** How did you know the vines were gonna be the issue in the first place.
 
-**DM:** I looked at them. Like fucking rad bleeding horrid corrupted devil vines. What How would you interpret that woven scholar of What the more
+**DM:** I looked at them. Like fucking great bleeding horrid corrupted devil vines. What How would you interpret that woven scholar of What the more
 
 **Seeker:** Some of the finest food crops look like well, not like that, I guess.
 
-**DM:** You are welcome to treat yourself just away.
+**DM:** You are welcome to try it yourself, just saying.
 
 **Seeker:** Every rose has its anyway um
 
-**Kenzo:** So wait, but this is a good question. Where's the source of the water. We're just though it. Where's the water go, do you think the ritual is any with the water
+**Kenzo:** So wait, but this is a good question. Where's the source of the water? We're just below it. Where's the water go? Do you think the ritual is in any way tied to the water
 
 **DM:** So the outer game the water out there. So there's a waterfall.
 
@@ -804,13 +804,13 @@
 
 **Delwath:** Is this going to end badly.
 
-**Seeker:** Well, that we learned something about the noles right
+**Seeker:** Well, that we learned something about the gnolls, right.
 
 **Kenzo:** What do we learn
 
 **Delwath:** What did we learn
 
-**Seeker:** They can up. Is it the noles that can be harmed by non
+**Seeker:** They can, uh, is it the gnolls that can be harmed by non
 
 **Delwath:** Magical
 
@@ -2356,7 +2356,7 @@
 
 **Seeker:** And but he was systematically sort of scratching them over it.
 
-**DM:** Yeah, and as he like scratch them they would sort of blow it up and black end and the fly as it start coming out of their mouths and And it's you know it's smells pretty awful right now like in this quarter or
+**DM:** Yeah, and as he, like, scratched them they would sort of bloat up and blacken and the flies would start coming out of their mouths and And it's you know it's smells pretty awful right now like in this quarter or
 
 **Seeker:** The fire is burning. Nothing. So it's not consuming and a fuel.
 
@@ -2372,7 +2372,7 @@
 
 **Delwath:** Yeah.
 
-**Seeker:** We should take a moment to just determine whether other Knowles are going to Enter or Who presumably made a bunch of noise.
+**Seeker:** We should take a moment to just determine whether other gnolls are going to Enter or Who presumably made a bunch of noise.
 
 **DM:** Yeah, that was not quiet.
 
@@ -2396,7 +2396,7 @@
 
 **Delwath:** Something like that.
 
-**Seeker:** Oh yeah, I can just mold earth some rebel on top of it.
+**Seeker:** Oh yeah, I can just mold earth some rubble on top of it.
 
 **Riswynn:** 20 gallons of water on it.
 
@@ -2548,7 +2548,7 @@
 
 **Wellby:** Sorry, I was gonna look around the room first and then How canisters
 
-**DM:** Um, I mean, there's not that much defined right there are a few nobody's in the in the big pile here. This, this whole chapel area seems to have been You know blasted with fire, like it's in the windows are all shattered what perhaps once were nice stained glass. The altar has been destroyed. Scattered around here are pretty much only, you know, various kinds of animal bones is a little pile of scholars in the corner that You know, includes Knowles and animals and it tends to be, you know, these are animals of the northern plains, right. So, so, but no few carnivores. Right. So it's like antelope, it's You know, some small mammals like ferrets. You know, a few acts beaks, which are you know opportunistic carnivores, but mostly not There are, you know, some like dissolves. There's some, you know, other kinds of like unless there's some horses. It's a, it's a mixed. There's probably you know in this pile and scattered around between the skulls and the bodies as probably like 30 animals piled up here. Of varying ages but but none. You know, so all that there is, you know, Completely rotted away right so It might be some better a week or two old but none that are three months old. But there's nothing else really to find
+**DM:** Um, I mean, there's not that much defined right there are a few nobody's in the in the big pile here. This, this whole chapel area seems to have been You know blasted with fire, like it's in the windows are all shattered what perhaps once were nice stained glass. The altar has been destroyed. Scattered around here are pretty much only, you know, various kinds of animal bones is a little pile of scholars in the corner that You know, includes gnolls and animals and it tends to be, you know, these are animals of the northern plains, right. So, so, but no few carnivores. Right. So it's like antelope, it's You know, some small mammals like ferrets. You know, a few acts beaks, which are you know opportunistic carnivores, but mostly not There are, you know, some like dissolves. There's some, you know, other kinds of like unless there's some horses. It's a, it's a mixed. There's probably you know in this pile and scattered around between the skulls and the bodies as probably like 30 animals piled up here. Of varying ages but but none. You know, so all that there is, you know, Completely rotted away right so It might be some better a week or two old but none that are three months old. But there's nothing else really to find
 
 **Delwath:** Okay.
 
@@ -2706,9 +2706,9 @@
 
 **DM:** Yeah, there's like the kitchens, but they are There's no roof left on the kitchens. No, it's basically just a just a wall. And then, of course, that's, that's what's in the inner courtyard. There's a lot on that on the outer courtyard.
 
-**Riswynn:** We want to rest. But we still don't know what's going on. I mean other than like demon guy slashing things with poisonous fly us So, Should we, I mean there. Do we think there's more Knowles guarding the rest of the animals or
+**Riswynn:** We want to rest. But we still don't know what's going on. I mean, other than, like, demon guy slashing things with poisonous flies So, Should we, I mean, do we think there's more gnolls guarding the rest of the animals or
 
-**Seeker:** There must be more noise around is too.
+**Seeker:** There must be more gnolls around us too.
 
 **Wellby:** Few
 
@@ -2860,7 +2860,7 @@
 
 **Seeker:** Level one.
 
-**DM:** And viola recovers one level of exhaustion.
+**DM:** And Vola recovers one level of exhaustion.
 
 **Unknown:** And she gets her
 
@@ -2870,7 +2870,7 @@
 
 **Unknown:** Big
 
-**Seeker:** Giant nor With a flail a three headed flail And pack signals behind it, animals, turning into knows to
+**Seeker:** Giant nor With a flail a three headed flail And pack signals behind it, animals turning into gnolls too.
 
 **DM:** Told you. This is a fucking bad place to sleep.
 
@@ -2878,7 +2878,7 @@
 
 **DM:** I would like to Kill the demon what's left to do.
 
-**Wellby:** Well, the other Knowles kill the flying demon thing.
+**Wellby:** Well, the other gnolls kill the flying demon thing.
 
 **Seeker:** And maybe a rescue all those pinned at the animals.
 
@@ -2936,7 +2936,7 @@
 
 **Kenzo:** I agree.
 
-**Wellby:** Kill the noles free the animals. Yes, kill that demon thing. If we can Investigate the river. Yeah, that little flying back
+**Wellby:** Kill the gnolls, free the animals. Yes, kill that demon thing. If we can Investigate the river. Yeah, that little flying back
 
 **Delwath:** Thing and and find out why this demon was here. Right, if we can It's
 
@@ -2986,7 +2986,7 @@
 
 **Seeker:** So we're ahead of schedule.
 
-**Wellby:** It's only 24 hours since we talked with the centers, right.
+**Wellby:** It's only 24 hours since we talked with the centaurs, right.
 
 **Seeker:** Yeah yeah
 
@@ -2994,7 +2994,7 @@
 
 **DM:** Yeah. Today or tomorrow.
 
-**Seeker:** Well, I've got all these questions in my little notebook. We've really made only the most marginal of progress on any of them, to be honest. But I got to dust mother. There's got to be clues about who she is and what
+**Seeker:** Well, I've got all these questions in my little notebook. We've really made only the most marginal of progress on any of them, to be honest. But Agata Dustmother, there's got to be clues about who she is and what
 
 **Unknown:** Yeah.
 
@@ -3006,13 +3006,13 @@
 
 **Seeker:** What's this next phase about it looks like there is a there's a huge Number of the creatures that they're accumulating now. That they were going to turn into maybe a larger coordinated attack.
 
-**Kenzo:** Wait, how is how are the noles made
+**Kenzo:** Wait, how are the gnolls made
 
 **DM:** I mean, I don't know for sure, but It seems like they are some sort of demonic energy infused into animals.
 
 **Kenzo:** Or from so but but from where is this is this is the demon creature or they're the ones animating it, how are they getting animated
 
-**Seeker:** In my dream animals returning into knows it could be that the ritual was the demon turning animals into Knowles
+**Seeker:** In my dream, animals were turning into gnolls. It could be that the ritual was the demon turning animals into gnolls
 
 **Kenzo:** That would make sense.
 
@@ -3072,7 +3072,7 @@
 
 **Seeker:** tasters always also having breakfast. I'll put a star on my shoulder on the way over.
 
-**Wellby:** Because if we go out that gate. It's not just in what's on the other side. It's Knowles to. I mean, we need to when we go out, we need to be ready for a fight.
+**Wellby:** Because if we go out that gate, it's not just what's on the other side. It's gnolls too. I mean, when we go out, we need to be ready for a fight.
 
 **Seeker:** Or we could we could do it instead of
 

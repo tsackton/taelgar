@@ -1,6 +1,5 @@
 ---
 tags: [session-note]
-campaignInfo: []
 name: Mawar Epsiode 04
 realWorldDate: 2021-12-27
 DR: 1747-11-08

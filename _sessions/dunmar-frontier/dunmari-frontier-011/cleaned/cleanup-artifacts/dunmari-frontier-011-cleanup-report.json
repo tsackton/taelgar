@@ -1,9 +1,32 @@
 {
   "summary": {
-    "changedLineCount": 33,
-    "replacementCount": 17,
-    "repeatedReplacementCount": 8,
+    "changedLineCount": 140,
+    "replacementCount": 190,
+    "repeatedReplacementCount": 16,
     "topReplacements": [
+      {
+        "from": "Knowles",
+        "to": "gnolls",
+        "count": 6,
+        "headers": [
+          "[u0371 | 00:31:46.320-00:32:02.130 | Kenzo]",
+          "[u2155 | 02:49:22.440-02:49:26.370 | Seeker]",
+          "[u2281 | 02:58:47.310-02:59:02.970 | DM]",
+          "[u2448 | 03:14:34.530-03:14:40.230 | Riswynn]",
+          "[u2595 | 03:25:48.750-03:25:51.450 | Wellby]",
+          "[u2705 | 03:32:40.290-03:32:46.770 | Seeker]"
+        ]
+      },
+      {
+        "from": ".",
+        "to": "?",
+        "count": 5,
+        "headers": [
+          "[u0165 | 00:14:50.460-00:14:56.760 | Delwath]",
+          "[u0392 | 00:33:35.970-00:33:41.010 | Delwath]",
+          "[u0503 | 00:41:53.460-00:41:59.190 | Kenzo]"
+        ]
+      },
       {
         "from": "Viola",
         "to": "Vola",
@@ -40,14 +63,14 @@
         ]
       },
       {
-        "from": "ravens hold",
-        "to": "Raven ' s Hold",
+        "from": "key",
+        "to": "keep",
         "count": 4,
         "headers": [
-          "[u0106 | 00:09:35.550-00:09:51.870 | Wellby]",
-          "[u0118 | 00:10:54.720-00:11:08.220 | DM]",
-          "[u0120 | 00:11:09.150-00:11:15.090 | DM]",
-          "[u0156 | 00:14:14.220-00:14:20.970 | Wellby]"
+          "[u0272 | 00:22:56.220-00:22:59.610 | Wellby]",
+          "[u0314 | 00:25:48.390-00:25:59.790 | Seeker]",
+          "[u0329 | 00:27:10.800-00:27:15.660 | DM]",
+          "[u0348 | 00:29:04.170-00:29:12.000 | DM]"
         ]
       },
       {
@@ -61,13 +84,13 @@
         ]
       },
       {
-        "from": "open scroll",
-        "to": "Open Scroll",
+        "from": "noles",
+        "to": "gnolls",
         "count": 3,
         "headers": [
-          "[u0068 | 00:06:47.610-00:06:50.340 | Kenzo]",
-          "[u0183 | 00:16:24.870-00:16:30.660 | Kenzo]",
-          "[u0194 | 00:17:15.660-00:17:18.450 | Kenzo]"
+          "[u0149 | 00:13:39.960-00:13:48.750 | Wellby]",
+          "[u0758 | 01:02:47.850-01:02:50.460 | Seeker]",
+          "[u2701 | 03:32:14.310-03:32:16.530 | Kenzo]"
         ]
       },
       {
@@ -80,68 +103,118 @@
         ]
       },
       {
-        "from": "chart in",
-        "to": "Chardon",
+        "from": "centers",
+        "to": "centaurs",
         "count": 2,
         "headers": [
-          "[u0182 | 00:16:19.080-00:16:23.700 | Kenzo]",
-          "[u0190 | 00:16:55.410-00:17:05.310 | Kenzo]"
-        ]
-      },
-      {
-        "from": "Bullet",
-        "to": "Vola",
-        "count": 1,
-        "headers": [
-          "[u0029 | 00:03:50.250-00:03:51.810 | DM]"
-        ]
-      },
-      {
-        "from": "I gotta dust mother",
-        "to": "Agata Dustmother",
-        "count": 1,
-        "headers": [
-          "[u0437 | 00:37:08.580-00:37:10.290 | DM]"
+          "[u0112 | 00:10:15.240-00:10:27.570 | Seeker]",
+          "[u2675 | 03:30:22.320-03:30:26.040 | Wellby]"
         ]
       }
     ],
     "uniqueUnresolvedPhrases": []
   },
   "lineCount": 2810,
-  "changedLineCount": 33,
+  "changedLineCount": 140,
   "validationErrors": [],
   "unresolvedCount": 0,
   "unresolvedPhrases": [],
   "changedLines": [
     {
+      "header": "[u0004 | 00:00:14.130-00:00:17.609 | DM]",
+      "lineNumber": 4,
+      "originalText": "We begin tonight out the sun is setting over ravens",
+      "cleanedText": "We begin tonight as the sun is setting over Raven's Hold."
+    },
+    {
+      "header": "[u0005 | 00:00:19.980-00:00:38.760 | DM]",
+      "lineNumber": 5,
+      "originalText": "You earlier this afternoon, like five sessions ago you left your horses in gear in the narrow River Valley and made your way by secret passages and waiting rivers through the mountains to the abandoned Durban outpost.",
+      "cleanedText": "Earlier this afternoon, like five sessions ago, you left your horses and gear in the narrow river valley and made your way by secret passages and winding rivers through the mountains to the abandoned dwarven outpost."
+    },
+    {
       "header": "[u0006 | 00:00:40.410-00:00:48.840 | DM]",
       "lineNumber": 6,
       "originalText": "Near that done, Mary stronghold of ravens holes there after encountering in a car and her wild or the identified Kim.",
-      "cleanedText": "Near that Dunmari stronghold of Raven's Hold there after encountering in a car and her wild or the identified Kim."
+      "cleanedText": "Near that Dunmari stronghold of Raven's Hold there, after encountering Inakara and her wild orc ally,"
+    },
+    {
+      "header": "[u0007 | 00:00:50.880-00:00:55.200 | DM]",
+      "lineNumber": 7,
+      "originalText": "And obtaining safe passage and stand for some combat.",
+      "cleanedText": "and obtaining safe passage instead of some combat."
+    },
+    {
+      "header": "[u0009 | 00:00:58.290-00:01:08.460 | DM]",
+      "lineNumber": 9,
+      "originalText": "found your way to the brown envelope vault where resin recovered her long thought Emerald shield different clan and chatted to preserve the stories of her",
+      "cleanedText": "found your way to the Brawnanvil vault where Riswynn recovered her long-thought-lost Emerald shield of the Brawnanvil Clan and chose to preserve the stories of her"
+    },
+    {
+      "header": "[u0013 | 00:01:31.860-00:01:42.030 | DM]",
+      "lineNumber": 13,
+      "originalText": "You itself emerging in a series of storms carved into a cliff law, one of which seemed to have been used as a prison or torture chamber execution chamber.",
+      "cleanedText": "You found yourself emerging in a series of rooms carved into a cliff wall, one of which seemed to have been used as a prison or torture chamber, execution chamber."
     },
     {
       "header": "[u0014 | 00:01:42.690-00:01:55.290 | DM]",
       "lineNumber": 14,
       "originalText": "By hop goblins, presumably, at some point, but after the Denmark. He had built the stronghold when they had captured it and occupied at perhaps during their awards with the done Marty and the blood years",
-      "cleanedText": "By hobgoblins, presumably, at some point, but after the Denmark. He had built the stronghold when they had captured it and occupied at perhaps during their awards with the Dunmari and the blood years"
+      "cleanedText": "By hobgoblins, presumably, at some point, after the Dunmari had built the stronghold, when they had captured it and occupied it, perhaps during their wars with the Dunmari and the Blood Years."
     },
     {
       "header": "[u0018 | 00:02:20.490-00:02:29.520 | DM]",
       "lineNumber": 18,
       "originalText": "You then found an unguarded passage to the two guard towers of the inner keep were in one of these towers, you encountered in free to prisoner. VIOLA.",
-      "cleanedText": "You then found an unguarded passage to the two guard towers of the inner keep were in one of these towers, you encountered in free to prisoner. Vola."
+      "cleanedText": "You then found an unguarded passage to the two guard towers of the inner keep where, in one of these towers, you encountered and freed the prisoner Vola."
     },
     {
       "header": "[u0019 | 00:02:30.060-00:02:43.440 | DM]",
       "lineNumber": 19,
       "originalText": "Viola for a number of children who is being guarded by an orc and to shape shifting Jacqueline, where's seemingly the servants of some entity that she referred to as a gotta dust mother.",
-      "cleanedText": "Vola Forena of children who is being guarded by an orc and to shape shifting Jacqueline, where's seemingly the servants of some entity that she referred to as Agata Dustmother."
+      "cleanedText": "Vola Forena of Chardon, who is being guarded by an orc and two shape-shifting jackalweres, who are seemingly the servants of some entity that she referred to as Agata Dustmother."
+    },
+    {
+      "header": "[u0022 | 00:03:06.120-00:03:16.560 | DM]",
+      "lineNumber": 22,
+      "originalText": "Outside, you can hear the house of beasts hyenas lions jackals wild dogs in the distance, fading and then growing stronger as something stars them up and then fading again.",
+      "cleanedText": "Outside, you can hear the host of beasts, hyenas, lions, jackals, wild dogs in the distance, fading and then growing stronger as something stirs them up and then fading again."
+    },
+    {
+      "header": "[u0023 | 00:03:18.120-00:03:27.150 | DM]",
+      "lineNumber": 23,
+      "originalText": "From the outer courtyard beyond the towers. The stench of rotting sulphurous flash and a faint tinge of ash in your mouth rises.",
+      "cleanedText": "From the outer courtyard beyond the towers, the stench of rotting sulfurous flesh and a faint tinge of ash in your mouth rises."
+    },
+    {
+      "header": "[u0025 | 00:03:32.010-00:03:36.450 | DM]",
+      "lineNumber": 25,
+      "originalText": "A flicker of firelight cleans from the windows on the open door of the main keep",
+      "cleanedText": "A flicker of firelight gleams from the windows and the open door of the main keep."
     },
     {
       "header": "[u0029 | 00:03:50.250-00:03:51.810 | DM]",
       "lineNumber": 29,
       "originalText": "Bullet turns to you and says,",
       "cleanedText": "Vola turns to you and says,"
+    },
+    {
+      "header": "[u0033 | 00:04:17.970-00:04:19.440 | Delwath]",
+      "lineNumber": 33,
+      "originalText": "Sure, some Russians.",
+      "cleanedText": "Sure, some rations."
+    },
+    {
+      "header": "[u0037 | 00:04:29.370-00:04:31.920 | DM]",
+      "lineNumber": 37,
+      "originalText": "Better than whatever swell that arc. What's feeding me",
+      "cleanedText": "Better than whatever swill that orc was feeding me."
+    },
+    {
+      "header": "[u0044 | 00:05:03.120-00:05:06.600 | DM]",
+      "lineNumber": 44,
+      "originalText": "Careless error those creatures surprise me and",
+      "cleanedText": "Careless error, those creatures surprised me and"
     },
     {
       "header": "[u0064 | 00:06:33.090-00:06:35.100 | Kenzo]",
@@ -162,16 +235,34 @@
       "cleanedText": "So there was a entry way to the north. So there's a north tower and the south tower Vola was in the south tower."
     },
     {
+      "header": "[u0102 | 00:09:24.810-00:09:25.830 | Kenzo]",
+      "lineNumber": 102,
+      "originalText": "Tracking the noles",
+      "cleanedText": "Tracking the gnolls."
+    },
+    {
       "header": "[u0106 | 00:09:35.550-00:09:51.870 | Wellby]",
       "lineNumber": 106,
       "originalText": "Just, just stop it if we could, but we also knew from the other Heflin who'd been infected by the plant thing when he tried to look inside ravens hold to think the idea was, like, we know that these messed up creatures are coming from somewhere. And so we'll go and try and figure it out.",
-      "cleanedText": "Just, just stop it if we could, but we also knew from the other Heflin who'd been infected by the plant thing when he tried to look inside Raven's Hold to think the idea was, like, we know that these messed up creatures are coming from somewhere. And so we'll go and try and figure it out."
+      "cleanedText": "Just, just stop it if we could, but we also knew from the other halfling who'd been infected by the plant thing when he tried to look inside Raven's Hold. I think the idea was, like, we know that these messed up creatures are coming from somewhere. And so we'll go and try and figure it out."
+    },
+    {
+      "header": "[u0112 | 00:10:15.240-00:10:27.570 | Seeker]",
+      "lineNumber": 112,
+      "originalText": "And we met those centers. They told us about the tether to the bad place. There's some relation to the infinite electrical storm, but we don't know how that's connected if at all to what's happening here.",
+      "cleanedText": "And we met those centaurs. They told us about the tether to the bad place. There's some relation to the infinite electrical storm, but we don't know how that's connected, if at all, to what's happening here."
+    },
+    {
+      "header": "[u0117 | 00:10:46.860-00:10:53.100 | DM]",
+      "lineNumber": 117,
+      "originalText": "Another plane, called the best that was had been birthed from",
+      "cleanedText": "Another plane, called the Abyss, that had been birthed from"
     },
     {
       "header": "[u0118 | 00:10:54.720-00:11:08.220 | DM]",
       "lineNumber": 118,
       "originalText": "Visions of how basically and that there was some connection between that place the abyss and something that was poisoning the water, which seemed to be coming from ravens hold but",
-      "cleanedText": "Visions of how basically and that there was some connection between that place the abyss and something that was poisoning the water, which seemed to be coming from Raven's Hold but"
+      "cleanedText": "visions of chaos, basically, and that there was some connection between that place, the Abyss, and something that was poisoning the water, which seemed to be coming from Raven's Hold, but"
     },
     {
       "header": "[u0120 | 00:11:09.150-00:11:15.090 | DM]",
@@ -186,6 +277,12 @@
       "cleanedText": "Let's ask about Agata Dustmother."
     },
     {
+      "header": "[u0127 | 00:11:33.750-00:11:36.630 | Kenzo]",
+      "lineNumber": 127,
+      "originalText": "Wait, wait, wait. What is it gotta dust mother again.",
+      "cleanedText": "Wait, wait, wait. What is Agata Dustmother again."
+    },
+    {
       "header": "[u0128 | 00:11:37.380-00:11:42.780 | DM]",
       "lineNumber": 128,
       "originalText": "Yeah so bullet told you last session. And then again, now that the",
@@ -198,6 +295,30 @@
       "cleanedText": "Mentioned worked worked for or mentioned or wanting to get information for or doing something for this creature unclear what or who she was exactly but they refer to her as Agata Dustmother."
     },
     {
+      "header": "[u0137 | 00:12:33.060-00:12:45.300 | DM]",
+      "lineNumber": 137,
+      "originalText": "Yeah, you saw maybe five or six nodes that were guarding the sort of central plaza off which the animals seem to be kept. And you also saw",
+      "cleanedText": "Yeah, you saw maybe five or six gnolls that were guarding the sort of central plaza off which the animals seem to be kept. And you also saw"
+    },
+    {
+      "header": "[u0139 | 00:12:53.010-00:13:01.530 | DM]",
+      "lineNumber": 139,
+      "originalText": "Few maybe three, four Knowles driving a pack of an, you know, a group of wild animals.",
+      "cleanedText": "A few, maybe three or four gnolls, driving a pack of, you know, a group of wild animals."
+    },
+    {
+      "header": "[u0148 | 00:13:30.510-00:13:38.970 | DM]",
+      "lineNumber": 148,
+      "originalText": "You don't use probably not seen more than 10 $10 in total here. It's not a huge garrison obviously",
+      "cleanedText": "You've probably not seen more than 10 total here. It's not a huge garrison, obviously."
+    },
+    {
+      "header": "[u0149 | 00:13:39.960-00:13:48.750 | Wellby]",
+      "lineNumber": 149,
+      "originalText": "But then, importantly, also, as we think about being stealthy way high up above the noles was this bat like little",
+      "cleanedText": "But then, importantly, also, as we think about being stealthy, way high up above the gnolls was this bat-like little"
+    },
+    {
       "header": "[u0156 | 00:14:14.220-00:14:20.970 | Wellby]",
       "lineNumber": 156,
       "originalText": "Those would have been in the valley or like either outside or inside the main wall of ravens hold",
@@ -208,6 +329,12 @@
       "lineNumber": 163,
       "originalText": "As Viola what it who I want to ask for, like, what",
       "cleanedText": "As Vola what it who I want to ask for, like, what"
+    },
+    {
+      "header": "[u0165 | 00:14:50.460-00:14:56.760 | Delwath]",
+      "lineNumber": 165,
+      "originalText": "Why did she see just the two jacket. Where's and and Nolan, that, that's it. Like what she's selfie. Up until that point.",
+      "cleanedText": "Why did she see just the two jackalweres and an orc, and that's it? Like, what has she seen up until that point?"
     },
     {
       "header": "[u0182 | 00:16:19.080-00:16:23.700 | Kenzo]",
@@ -231,13 +358,277 @@
       "header": "[u0194 | 00:17:15.660-00:17:18.450 | Kenzo]",
       "lineNumber": 194,
       "originalText": "never saw any of the benefits from the society be open scroll",
-      "cleanedText": "never saw any of the benefits from the society be Open Scroll"
+      "cleanedText": "never saw any of the benefits from the Society of the Open Scroll."
+    },
+    {
+      "header": "[u0201 | 00:17:49.140-00:17:51.990 | Kenzo]",
+      "lineNumber": 201,
+      "originalText": "Yeah, well, we should definitely get her out of your house, for sure. Yeah.",
+      "cleanedText": "Yeah, well, we should definitely get her out of here, for sure. Yeah."
+    },
+    {
+      "header": "[u0216 | 00:18:39.660-00:18:53.490 | Kenzo]",
+      "lineNumber": 216,
+      "originalText": "You're listening to, you know, viola, she's tired, she's hungry. Thanks. She's rightfully is the fuck off because she's been held captive in that tower for a little while. One thing we could do is",
+      "cleanedText": "You're listening to, you know, Vola, she's tired, she's hungry. She rightfully is pissed the fuck off because she's been held captive in that tower for a little while. One thing we could do is"
+    },
+    {
+      "header": "[u0222 | 00:19:19.410-00:19:26.640 | Seeker]",
+      "lineNumber": 222,
+      "originalText": "There's also the question once we do decide to make our way back to safety. Exactly how will do that look along what path.",
+      "cleanedText": "There's also the question, once we do decide to make our way back to safety, exactly how will that look, along what path."
+    },
+    {
+      "header": "[u0227 | 00:19:37.080-00:19:39.150 | Delwath]",
+      "lineNumber": 227,
+      "originalText": "Right and the mind flyers are waiting for us their",
+      "cleanedText": "Right, and the mind flayers are waiting for us there."
+    },
+    {
+      "header": "[u0248 | 00:20:51.390-00:20:52.830 | Seeker]",
+      "lineNumber": 248,
+      "originalText": "Clearing of rebel. You say,",
+      "cleanedText": "Clearing of rubble, you say."
+    },
+    {
+      "header": "[u0251 | 00:21:04.650-00:21:06.630 | Delwath]",
+      "lineNumber": 251,
+      "originalText": "I still want to hear what Volo knows first",
+      "cleanedText": "I still want to hear what Vola knows first."
+    },
+    {
+      "header": "[u0261 | 00:21:49.320-00:21:53.580 | Kenzo]",
+      "lineNumber": 261,
+      "originalText": "Right, so nothing that she's told us has been alive, but she might not have been telling us the full truth.",
+      "cleanedText": "Right, so nothing that she's told us has been a lie, but she might not have been telling us the full truth."
+    },
+    {
+      "header": "[u0266 | 00:22:15.720-00:22:17.370 | DM]",
+      "lineNumber": 266,
+      "originalText": "dramatize yeah",
+      "cleanedText": "traumatized, yeah."
+    },
+    {
+      "header": "[u0270 | 00:22:50.040-00:22:51.570 | Kenzo]",
+      "lineNumber": 270,
+      "originalText": "We're trying to still stay selfie.",
+      "cleanedText": "We're trying to still stay stealthy."
+    },
+    {
+      "header": "[u0271 | 00:22:52.620-00:22:54.060 | Kenzo]",
+      "lineNumber": 271,
+      "originalText": "Doesn't feel like a lot of times, do that.",
+      "cleanedText": "Doesn't feel like a lot of time to do that."
+    },
+    {
+      "header": "[u0272 | 00:22:56.220-00:22:59.610 | Wellby]",
+      "lineNumber": 272,
+      "originalText": "Right I cast my vote to press on into the key. I think",
+      "cleanedText": "Right, I cast my vote to press on into the keep. I think"
+    },
+    {
+      "header": "[u0279 | 00:23:21.870-00:23:26.670 | Seeker]",
+      "lineNumber": 279,
+      "originalText": "Continue carving doing this very important task of carving out time figurines for the new",
+      "cleanedText": "Continue carving, doing this very important task of carving out tiny figurines for the new"
+    },
+    {
+      "header": "[u0281 | 00:23:30.150-00:23:32.370 | Seeker]",
+      "lineNumber": 281,
+      "originalText": "Legendary stealth Kenza tabletop role playing game.",
+      "cleanedText": "Legendary Stealth Kenzo tabletop role-playing game."
+    },
+    {
+      "header": "[u0299 | 00:24:33.480-00:24:35.640 | DM]",
+      "lineNumber": 299,
+      "originalText": "Before you met the center's",
+      "cleanedText": "Before you met the centaurs."
+    },
+    {
+      "header": "[u0314 | 00:25:48.390-00:25:59.790 | Seeker]",
+      "lineNumber": 314,
+      "originalText": "I still think that it might be safer if we can have the one person go invisibly if we can pull that trick again with the key, but I don't know if that's possible.",
+      "cleanedText": "I still think that it might be safer if we can have the one person go invisibly if we can pull that trick again with the keep, but I don't know if that's possible."
+    },
+    {
+      "header": "[u0323 | 00:26:28.830-00:26:37.410 | DM]",
+      "lineNumber": 323,
+      "originalText": "The inner wall inside the inner walls to keep outside the inner wall. There's the outdoor courtyard. And then beyond the outer courtyard, there's",
+      "cleanedText": "The inner wall. Inside the inner wall's the keep; outside the inner wall, there's the outdoor courtyard. And then beyond the outer courtyard, there's"
+    },
+    {
+      "header": "[u0324 | 00:26:38.640-00:26:42.780 | DM]",
+      "lineNumber": 324,
+      "originalText": "The Plaza where the knows where the animals and the wall.",
+      "cleanedText": "the plaza where the gnolls were, the animals, and the wall."
+    },
+    {
+      "header": "[u0329 | 00:27:10.800-00:27:15.660 | DM]",
+      "lineNumber": 329,
+      "originalText": "There's a flicker firelight that gleams from the windows and open door of the main key.",
+      "cleanedText": "There's a flicker of firelight that gleams from the windows and open door of the main keep."
     },
     {
       "header": "[u0347 | 00:28:46.050-00:29:03.750 | DM]",
       "lineNumber": 347,
       "originalText": "The, the Southern tower. The one where Viola was prisoner was substantially closer like The Two Towers are sort of at an angle and the keep it sort of nestled into the edge of the so it's like the tower and the cliff wall make a triangle.",
-      "cleanedText": "The, the Southern tower. The one where Vola was prisoner was substantially closer like The Two Towers are sort of at an angle and the keep it sort of nestled into the edge of the so it's like the tower and the cliff wall make a triangle."
+      "cleanedText": "The southern tower, the one where Vola was prisoner, was substantially closer. The two towers are sort of at an angle, and the keep is sort of nestled into the edge of the cliff, so it's like the tower and the cliff wall make a triangle."
+    },
+    {
+      "header": "[u0348 | 00:29:04.170-00:29:12.000 | DM]",
+      "lineNumber": 348,
+      "originalText": "And then it keeps us at the bottom of the triangle. And so the North Tower sort of the top of the triangle south tower is sort of down here next to the key.",
+      "cleanedText": "And then the keep sits at the bottom of the triangle. And so the north tower is sort of the top of the triangle; south tower is sort of down here next to the keep."
+    },
+    {
+      "header": "[u0360 | 00:30:39.120-00:30:41.580 | Delwath]",
+      "lineNumber": 360,
+      "originalText": "How visible, would people be crawling across the room.",
+      "cleanedText": "How visible would people be crawling across the rope."
+    },
+    {
+      "header": "[u0364 | 00:30:52.140-00:30:55.560 | DM]",
+      "lineNumber": 364,
+      "originalText": "From the inside of the cube. No, that would be pretty hard to say.",
+      "cleanedText": "From the inside of the keep, no, that would be pretty hard to say."
+    },
+    {
+      "header": "[u0366 | 00:31:11.280-00:31:24.630 | DM]",
+      "lineNumber": 366,
+      "originalText": "So yeah, you've mean you've heard like there's last time you did hear some sort of movement like kind of maybe more undead groans kind of wandering in the outer courtyard.",
+      "cleanedText": "So yeah, you've heard, like, last time you did hear some sort of movement, like kind of maybe more undead groans, kind of wandering in the outer courtyard."
+    },
+    {
+      "header": "[u0368 | 00:31:29.400-00:31:32.940 | DM]",
+      "lineNumber": 368,
+      "originalText": "And of course, for our third away.",
+      "cleanedText": "And of course, farther away,"
+    },
+    {
+      "header": "[u0369 | 00:31:34.260-00:31:44.010 | DM]",
+      "lineNumber": 369,
+      "originalText": "In the plaza or animals and some number of nodes. The kit itself has been extremely quiet you have not seen anything moving in the inner courtyard, or in or out of the keep",
+      "cleanedText": "in the plaza are animals and some number of gnolls. The keep itself has been extremely quiet; you have not seen anything moving in the inner courtyard, or in or out of the keep."
+    },
+    {
+      "header": "[u0371 | 00:31:46.320-00:32:02.130 | Kenzo]",
+      "lineNumber": 371,
+      "originalText": "Like the whole campus area that we've been around, like, I mean, we have an approximate sense of just total how many Knowles or just kind of creatures that might even be like does it feel like there's like 50 105 and like",
+      "cleanedText": "Like the whole campus area that we've been around, like, I mean, do we have an approximate sense of just total how many gnolls or just kind of creatures there might even be? Like, does it feel like there's like 50, 10, 5, and like"
+    },
+    {
+      "header": "[u0372 | 00:32:02.160-00:32:08.400 | DM]",
+      "lineNumber": 372,
+      "originalText": "More like five or 10 although if there's 50 of them hiding in a barrack somewhere you went",
+      "cleanedText": "More like five or 10, although if there's 50 of them hiding in a barrack somewhere, you won't"
+    },
+    {
+      "header": "[u0379 | 00:32:21.450-00:32:22.950 | DM]",
+      "lineNumber": 379,
+      "originalText": "Interesting noise themselves don't",
+      "cleanedText": "Interesting. The gnolls themselves don't"
+    },
+    {
+      "header": "[u0380 | 00:32:23.040-00:32:40.410 | DM]",
+      "lineNumber": 380,
+      "originalText": "I mean, you've seen there's been there's certainly been active during the day. Right. Well, we saw some coming up to the family, you saw some sort of gardening gardening is a loose term right hanging about in the sort of entry Plaza, and then they went somewhere and another group came out.",
+      "cleanedText": "I mean, you've seen there's certainly been activity during the day, right? You saw some sort of gardening, gardening is a loose term, right, hanging about in the sort of entry plaza, and then they went somewhere and another group came out."
+    },
+    {
+      "header": "[u0382 | 00:32:44.250-00:32:51.750 | Delwath]",
+      "lineNumber": 382,
+      "originalText": "I want to talk to vote for a little bit more to right way before we do anything else. Let's quietly just interrogator",
+      "cleanedText": "I want to talk to Vola for a little bit more, too, right away, before we do anything else. Let's quietly just interrogate her."
+    },
+    {
+      "header": "[u0386 | 00:33:06.630-00:33:08.610 | DM]",
+      "lineNumber": 386,
+      "originalText": "Like size for a moment and",
+      "cleanedText": "Like sighs for a moment and"
+    },
+    {
+      "header": "[u0387 | 00:33:09.870-00:33:17.580 | DM]",
+      "lineNumber": 387,
+      "originalText": "Looks like she had almost Leah. He had like dozed off for a few minutes as you are talking. Um, but then",
+      "cleanedText": "looks like she had almost, like, dozed off for a few minutes as you were talking. Um, but then"
+    },
+    {
+      "header": "[u0392 | 00:33:35.970-00:33:41.010 | Delwath]",
+      "lineNumber": 392,
+      "originalText": "What do you see in your way in. And can you, can you tell us the lay of the land. What do you know",
+      "cleanedText": "What did you see on your way in? And can you, can you tell us the lay of the land? What do you know"
+    },
+    {
+      "header": "[u0393 | 00:33:45.840-00:33:47.550 | DM]",
+      "lineNumber": 393,
+      "originalText": "How much about the castle. Have you seen",
+      "cleanedText": "How much about the castle have you seen."
+    },
+    {
+      "header": "[u0399 | 00:34:05.640-00:34:15.030 | DM]",
+      "lineNumber": 399,
+      "originalText": "Just south of here came along the wall easiest entry point from to the keep from the wall was via this tower.",
+      "cleanedText": "Just south of here, came along the wall. Easiest entry point to the keep from the wall was via this tower."
+    },
+    {
+      "header": "[u0403 | 00:34:37.110-00:34:45.090 | DM]",
+      "lineNumber": 403,
+      "originalText": "The entire place seemed empty fires going to have an easy time about tell those bloody creatures and brushed me",
+      "cleanedText": "The entire place seemed empty. Figured I was going to have an easy time of it until those bloody creatures ambushed me."
+    },
+    {
+      "header": "[u0407 | 00:34:56.670-00:35:00.330 | DM]",
+      "lineNumber": 407,
+      "originalText": "What do you call them the nasty tiny in a human.",
+      "cleanedText": "What do you call them, the nasty tiny inhuman"
+    },
+    {
+      "header": "[u0408 | 00:35:02.010-00:35:02.490 | DM]",
+      "lineNumber": 408,
+      "originalText": "Hard",
+      "cleanedText": "hound-"
+    },
+    {
+      "header": "[u0409 | 00:35:05.160-00:35:06.870 | DM]",
+      "lineNumber": 409,
+      "originalText": "How beasts of some kind.",
+      "cleanedText": "beasts of some kind."
+    },
+    {
+      "header": "[u0419 | 00:35:42.660-00:35:45.120 | DM]",
+      "lineNumber": 419,
+      "originalText": "That after this place is abandoned by hobgoblin",
+      "cleanedText": "That after this place was abandoned by hobgoblins,"
+    },
+    {
+      "header": "[u0420 | 00:35:46.230-00:35:59.670 | DM]",
+      "lineNumber": 420,
+      "originalText": "Some sort of three headed beast of fearsome aspect and with a Breath of Fire made a layer here of course not still here. Thank God that would be three.",
+      "cleanedText": "some sort of three-headed beast of fearsome aspect and with a breath of fire made a lair here. Of course not still here, thank God."
+    },
+    {
+      "header": "[u0424 | 00:36:07.860-00:36:17.520 | DM]",
+      "lineNumber": 424,
+      "originalText": "Let me. Well, if I know whether it's true or not, but maybe some bits of its treasure hoard are still lingering around could be some use of something useful to me.",
+      "cleanedText": "Well, I don't know whether it's true or not, but maybe some bits of its treasure hoard are still lingering around, could be of some use, something useful to me."
+    },
+    {
+      "header": "[u0431 | 00:36:45.390-00:36:46.830 | DM]",
+      "lineNumber": 431,
+      "originalText": "This a God that creature",
+      "cleanedText": "This Agata creature."
+    },
+    {
+      "header": "[u0432 | 00:36:48.660-00:36:50.070 | Seeker]",
+      "lineNumber": 432,
+      "originalText": "Right. What do you know about a god.",
+      "cleanedText": "Right. What do you know about Agata."
+    },
+    {
+      "header": "[u0434 | 00:36:54.720-00:37:00.240 | DM]",
+      "lineNumber": 434,
+      "originalText": "I know that my captors. They work for this woman.",
+      "cleanedText": "I know that my captors, they work for this woman."
     },
     {
       "header": "[u0437 | 00:37:08.580-00:37:10.290 | DM]",
@@ -246,16 +637,178 @@
       "cleanedText": "They called her. Agata Dustmother."
     },
     {
+      "header": "[u0440 | 00:37:22.860-00:37:26.850 | DM]",
+      "lineNumber": 440,
+      "originalText": "She were. They are, however, her",
+      "cleanedText": "They are, however, her"
+    },
+    {
+      "header": "[u0441 | 00:37:31.200-00:37:34.800 | DM]",
+      "lineNumber": 441,
+      "originalText": "You know board and master is if she has one",
+      "cleanedText": "you know, lord and master, if she has one."
+    },
+    {
       "header": "[u0442 | 00:37:36.660-00:37:42.840 | DM]",
       "lineNumber": 442,
       "originalText": "Wanted to know about ancient drink Korean artifacts and where I could find them for them.",
       "cleanedText": "Wanted to know about ancient Drankorian artifacts and where I could find them for them."
     },
     {
+      "header": "[u0445 | 00:37:56.940-00:37:59.520 | Kenzo]",
+      "lineNumber": 445,
+      "originalText": "They know about your connection with the society. The opens well",
+      "cleanedText": "They know about your connection with the society, the Open Scroll?"
+    },
+    {
+      "header": "[u0446 | 00:38:03.810-00:38:06.810 | DM]",
+      "lineNumber": 446,
+      "originalText": "I don't keep my charter me and heritage, a secret.",
+      "cleanedText": "I don't keep my Chardonian heritage a secret."
+    },
+    {
+      "header": "[u0450 | 00:38:19.410-00:38:21.510 | Kenzo]",
+      "lineNumber": 450,
+      "originalText": "Where is it gotta you know where it is.",
+      "cleanedText": "Where is Agata? Do you know where she is."
+    },
+    {
+      "header": "[u0456 | 00:38:39.360-00:38:46.350 | DM]",
+      "lineNumber": 456,
+      "originalText": "Something happened first and weren't clear what make sure the ritual succeeded.",
+      "cleanedText": "Something had to happen first, and they weren't clear what. Make sure the ritual succeeded."
+    },
+    {
+      "header": "[u0459 | 00:38:53.400-00:38:55.230 | Delwath]",
+      "lineNumber": 459,
+      "originalText": "A gotcha wasn't here.",
+      "cleanedText": "Agata wasn't here."
+    },
+    {
+      "header": "[u0460 | 00:38:59.280-00:39:02.100 | Delwath]",
+      "lineNumber": 460,
+      "originalText": "Then we're going to take their we're gonna. They said, We've take you away.",
+      "cleanedText": "Then they were gonna take you away."
+    },
+    {
+      "header": "[u0461 | 00:39:02.370-00:39:03.630 | DM]",
+      "lineNumber": 461,
+      "originalText": "Yes, leave take me",
+      "cleanedText": "Yes, take me"
+    },
+    {
+      "header": "[u0462 | 00:39:07.260-00:39:11.970 | DM]",
+      "lineNumber": 462,
+      "originalText": "Probably somewhere deep in them. Damn blasted planes for all I know.",
+      "cleanedText": "Probably somewhere deep in the damn Blasted Plains, for all I know."
+    },
+    {
+      "header": "[u0466 | 00:39:30.270-00:39:31.500 | DM]",
+      "lineNumber": 466,
+      "originalText": "Last in depth.",
+      "cleanedText": "Blasted Plains."
+    },
+    {
+      "header": "[u0467 | 00:39:32.370-00:39:34.350 | Seeker]",
+      "lineNumber": 467,
+      "originalText": "Pro and other ritual is ongoing right now.",
+      "cleanedText": "So another ritual is ongoing right now."
+    },
+    {
+      "header": "[u0469 | 00:39:37.350-00:39:39.510 | DM]",
+      "lineNumber": 469,
+      "originalText": "Tell you this place. Certainly, whereas on your soul.",
+      "cleanedText": "Tell you, this place certainly wears on your soul."
+    },
+    {
+      "header": "[u0470 | 00:39:40.470-00:39:43.830 | Kenzo]",
+      "lineNumber": 470,
+      "originalText": "Is any more about the ritual or where it was or what it involves",
+      "cleanedText": "Is there any more about the ritual or where it was or what it involves"
+    },
+    {
+      "header": "[u0480 | 00:40:18.690-00:40:20.850 | DM]",
+      "lineNumber": 480,
+      "originalText": "As damn to animals they've been in my dreams.",
+      "cleanedText": "Those damn animals, they've been in my dreams."
+    },
+    {
+      "header": "[u0482 | 00:40:25.650-00:40:27.750 | DM]",
+      "lineNumber": 482,
+      "originalText": "chasing me fucking awful.",
+      "cleanedText": "Chasing me. Fucking awful."
+    },
+    {
+      "header": "[u0483 | 00:40:29.340-00:40:34.980 | Wellby]",
+      "lineNumber": 483,
+      "originalText": "How do you avoid all those vines on the way in which things look nasty.",
+      "cleanedText": "How'd you avoid all those vines on the way in? Those things look nasty."
+    },
+    {
+      "header": "[u0486 | 00:40:44.100-00:40:45.930 | DM]",
+      "lineNumber": 486,
+      "originalText": "I'm not totally without scale.",
+      "cleanedText": "I'm not totally without skill."
+    },
+    {
+      "header": "[u0487 | 00:40:49.140-00:40:50.220 | Wellby]",
+      "lineNumber": 487,
+      "originalText": "Not even a scratch them.",
+      "cleanedText": "Not even a scratch then."
+    },
+    {
+      "header": "[u0490 | 00:41:02.340-00:41:04.080 | DM]",
+      "lineNumber": 490,
+      "originalText": "Your are decently agile.",
+      "cleanedText": "You're decently agile."
+    },
+    {
+      "header": "[u0492 | 00:41:07.740-00:41:13.740 | DM]",
+      "lineNumber": 492,
+      "originalText": "Can balance on some precarious rocks. It seemed like a safe path safer path.",
+      "cleanedText": "Can balance on some precarious rocks. It seemed like a safer path."
+    },
+    {
+      "header": "[u0494 | 00:41:17.010-00:41:19.200 | Seeker]",
+      "lineNumber": 494,
+      "originalText": "How did you know the vines. We're gonna be the interest in the first place.",
+      "cleanedText": "How did you know the vines were gonna be the issue in the first place."
+    },
+    {
+      "header": "[u0496 | 00:41:24.390-00:41:30.540 | DM]",
+      "lineNumber": 496,
+      "originalText": "Like fucking rad bleeding horrid corrupted devil vines.",
+      "cleanedText": "Like fucking great bleeding horrid corrupted devil vines."
+    },
+    {
+      "header": "[u0501 | 00:41:44.820-00:41:48.900 | DM]",
+      "lineNumber": 501,
+      "originalText": "You are welcome to treat yourself just away.",
+      "cleanedText": "You are welcome to try it yourself, just saying."
+    },
+    {
+      "header": "[u0503 | 00:41:53.460-00:41:59.190 | Kenzo]",
+      "lineNumber": 503,
+      "originalText": "So wait, but this is a good question. Where's the source of the water. We're just though it. Where's the water go, do you think the ritual is any with the water",
+      "cleanedText": "So wait, but this is a good question. Where's the source of the water? We're just below it. Where's the water go? Do you think the ritual is in any way tied to the water"
+    },
+    {
       "header": "[u0552 | 00:44:55.140-00:45:07.290 | Kenzo]",
       "lineNumber": 552,
       "originalText": "Or one of us can scout, and then you know you this, it feels quiet here. I mean, it feels like I mean bola. Have you seen more than it seems like bola hasn't seen many more than three. Three people here.",
       "cleanedText": "Or one of us can scout, and then you know you this, it feels quiet here. I mean, it feels like I mean Vola. Have you seen more than it seems like Vola hasn't seen many more than three. Three people here."
+    },
+    {
+      "header": "[u0755 | 01:02:41.760-01:02:44.520 | Seeker]",
+      "lineNumber": 755,
+      "originalText": "Well, that we learned something about the noles right",
+      "cleanedText": "Well, that we learned something about the gnolls, right."
+    },
+    {
+      "header": "[u0758 | 01:02:47.850-01:02:50.460 | Seeker]",
+      "lineNumber": 758,
+      "originalText": "They can up. Is it the noles that can be harmed by non",
+      "cleanedText": "They can, uh, is it the gnolls that can be harmed by non"
     },
     {
       "header": "[u1560 | 02:05:47.490-02:05:57.210 | DM]",
@@ -282,6 +835,30 @@
       "cleanedText": "Okay, Vola will now step out finally crawling her slow"
     },
     {
+      "header": "[u2145 | 02:48:25.980-02:48:36.240 | DM]",
+      "lineNumber": 2145,
+      "originalText": "Yeah, and as he like scratch them they would sort of blow it up and black end and the fly as it start coming out of their mouths and",
+      "cleanedText": "Yeah, and as he, like, scratched them they would sort of bloat up and blacken and the flies would start coming out of their mouths and"
+    },
+    {
+      "header": "[u2155 | 02:49:22.440-02:49:26.370 | Seeker]",
+      "lineNumber": 2155,
+      "originalText": "We should take a moment to just determine whether other Knowles are going to",
+      "cleanedText": "We should take a moment to just determine whether other gnolls are going to"
+    },
+    {
+      "header": "[u2171 | 02:50:11.550-02:50:14.400 | Seeker]",
+      "lineNumber": 2171,
+      "originalText": "Oh yeah, I can just mold earth some rebel on top of it.",
+      "cleanedText": "Oh yeah, I can just mold earth some rubble on top of it."
+    },
+    {
+      "header": "[u2281 | 02:58:47.310-02:59:02.970 | DM]",
+      "lineNumber": 2281,
+      "originalText": "You know, includes Knowles and animals and it tends to be, you know, these are animals of the northern plains, right. So, so, but no few carnivores. Right. So it's like antelope, it's",
+      "cleanedText": "You know, includes gnolls and animals and it tends to be, you know, these are animals of the northern plains, right. So, so, but no few carnivores. Right. So it's like antelope, it's"
+    },
+    {
       "header": "[u2338 | 03:04:03.720-03:04:05.070 | DM]",
       "lineNumber": 2338,
       "originalText": "bola sitting next to",
@@ -292,6 +869,24 @@
       "lineNumber": 2346,
       "originalText": "Is bullet does Volvo seem to be talking to him.",
       "cleanedText": "Is Vola does Vola seem to be talking to him."
+    },
+    {
+      "header": "[u2446 | 03:14:17.370-03:14:26.640 | Riswynn]",
+      "lineNumber": 2446,
+      "originalText": "We want to rest. But we still don't know what's going on. I mean other than like demon guy slashing things with poisonous fly us",
+      "cleanedText": "We want to rest. But we still don't know what's going on. I mean, other than, like, demon guy slashing things with poisonous flies"
+    },
+    {
+      "header": "[u2448 | 03:14:34.530-03:14:40.230 | Riswynn]",
+      "lineNumber": 2448,
+      "originalText": "Should we, I mean there. Do we think there's more Knowles guarding the rest of the animals or",
+      "cleanedText": "Should we, I mean, do we think there's more gnolls guarding the rest of the animals or"
+    },
+    {
+      "header": "[u2449 | 03:14:42.030-03:14:43.680 | Seeker]",
+      "lineNumber": 2449,
+      "originalText": "There must be more noise around is too.",
+      "cleanedText": "There must be more gnolls around us too."
     },
     {
       "header": "[u2514 | 03:18:56.640-03:19:03.270 | DM]",
@@ -306,10 +901,64 @@
       "cleanedText": "Vola sleep and are troubled maybe by vague."
     },
     {
+      "header": "[u2580 | 03:24:37.230-03:24:40.080 | DM]",
+      "lineNumber": 2580,
+      "originalText": "And viola recovers one level of exhaustion.",
+      "cleanedText": "And Vola recovers one level of exhaustion."
+    },
+    {
+      "header": "[u2590 | 03:25:25.350-03:25:29.040 | Seeker]",
+      "lineNumber": 2590,
+      "originalText": "And pack signals behind it, animals, turning into knows to",
+      "cleanedText": "And pack signals behind it, animals turning into gnolls too."
+    },
+    {
+      "header": "[u2595 | 03:25:48.750-03:25:51.450 | Wellby]",
+      "lineNumber": 2595,
+      "originalText": "Well, the other Knowles kill the flying demon thing.",
+      "cleanedText": "Well, the other gnolls kill the flying demon thing."
+    },
+    {
       "header": "[u2607 | 03:26:30.600-03:26:32.970 | Wellby]",
       "lineNumber": 2607,
       "originalText": "A bullet goblin",
       "cleanedText": "A Vola goblin"
+    },
+    {
+      "header": "[u2640 | 03:28:19.080-03:28:21.420 | Wellby]",
+      "lineNumber": 2640,
+      "originalText": "Kill the noles free the animals.",
+      "cleanedText": "Kill the gnolls, free the animals."
+    },
+    {
+      "header": "[u2675 | 03:30:22.320-03:30:26.040 | Wellby]",
+      "lineNumber": 2675,
+      "originalText": "It's only 24 hours since we talked with the centers, right.",
+      "cleanedText": "It's only 24 hours since we talked with the centaurs, right."
+    },
+    {
+      "header": "[u2679 | 03:30:36.300-03:30:48.540 | Seeker]",
+      "lineNumber": 2679,
+      "originalText": "Well, I've got all these questions in my little notebook. We've really made only the most marginal of progress on any of them, to be honest. But I got to dust mother. There's got to be clues about",
+      "cleanedText": "Well, I've got all these questions in my little notebook. We've really made only the most marginal of progress on any of them, to be honest. But Agata Dustmother, there's got to be clues about"
+    },
+    {
+      "header": "[u2701 | 03:32:14.310-03:32:16.530 | Kenzo]",
+      "lineNumber": 2701,
+      "originalText": "Wait, how is how are the noles made",
+      "cleanedText": "Wait, how are the gnolls made"
+    },
+    {
+      "header": "[u2705 | 03:32:40.290-03:32:46.770 | Seeker]",
+      "lineNumber": 2705,
+      "originalText": "In my dream animals returning into knows it could be that the ritual was the demon turning animals into Knowles",
+      "cleanedText": "In my dream, animals were turning into gnolls. It could be that the ritual was the demon turning animals into gnolls"
+    },
+    {
+      "header": "[u2752 | 03:35:48.300-03:35:55.860 | Wellby]",
+      "lineNumber": 2752,
+      "originalText": "Because if we go out that gate. It's not just in what's on the other side. It's Knowles to. I mean, we need to when we go out, we need to be ready for a fight.",
+      "cleanedText": "Because if we go out that gate, it's not just what's on the other side. It's gnolls too. I mean, when we go out, we need to be ready for a fight."
     }
   ]
 }

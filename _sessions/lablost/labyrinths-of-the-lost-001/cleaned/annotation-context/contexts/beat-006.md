@@ -76,16 +76,16 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Dilion: name=Dylan, gameRole=Dilion
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1807 | 03:04:56.530-03:05:00.409 | DM] You've got about 50 min to interrogate this guy. Yes.
 [u1808 | 03:05:02.740-03:05:05.340 | DM] as you drag them back to the forge, I assume.
 [u1809 | 03:05:05.890-03:05:09.769 | Gaudin] or lease behind safety of the hedge. Yeah, yeah.
 [u1810 | 03:05:12.030-03:05:16.519 | Acescale] I'd say all the way back to the smithy, right? It's only a couple minutes down the road.
-[u1811 | 03:05:16.650-03:05:40.730 | DM] Yeah, it's like it's like less than 5 min up the road, or it's no. It's like 200 feet up the road was there, but there was one goblin that got sent at the beginning of the battle. The goblin at the beginning got sent this guy Fulkin said. Go tell I'm dealing with Murky. If I'm not back in an hour, send somebody to check.
+[u1811 | 03:05:16.650-03:05:40.730 | DM] Yeah, it's like it's like less than 5 min up the road, or it's no. It's like 200 feet up the road was there, but there was one goblin that got sent at the beginning of the battle. The goblin at the beginning got sent. This guy Folcan said, go tell them I'm dealing with Morky. If I'm not back in an hour, send somebody to check.
 [u1812 | 03:05:40.950-03:05:52.619 | Acescale] and that one that got sent got way too far away for us to stop him from work. Yeah, that one was gone before you even rolled, and that was way gone before before before they even got close to you.
-[u1813 | 03:05:52.630-03:05:56.729 | DM] Okay? So that one got back and said, Tolkien's dealing with
-[u1814 | 03:05:56.880-03:06:03.630 | DM] Marky's gotten got it into the brandy falcons dealing with him. he said, go check if he's not back in an hour
+[u1813 | 03:05:52.630-03:05:56.729 | DM] Okay? So that one got back and said, Folcan's dealing with
+[u1814 | 03:05:56.880-03:06:03.630 | DM] Morky's gotten into the brandy. Folcan's dealing with him. He said, go check if he's not back in an hour
 [u1815 | 03:06:04.840-03:06:05.600 | Acescale] right?
 [u1816 | 03:06:06.490-03:06:09.820 | Gaudin] But nobody else got away. Nobody's
 [u1817 | 03:06:10.120-03:06:16.660 | DM] as far as the whatever. Whoever's Ogen Ulgna, or whoever whatever goblins are in the barracks.
@@ -107,7 +107,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1833 | 03:07:36.260-03:07:43.470 | Acescale] and with without the ability to respond to any questions. I guess we could just leave a note in goblins. Read.
 [u1834 | 03:07:44.030-03:07:47.020 | Loria] yeah, yeah, yeah. As far as you know.
 [u1835 | 03:07:47.370-03:07:57.209 | Gaudin] And do we just like leave more language. Do we like just toss Morty's corpse with a note saying, I'll be taking care. I'll be doing the watch tonight.
-[u1836 | 03:07:57.790-03:08:01.249 | Loria] Took care of Murky watch alone today.
+[u1836 | 03:07:57.790-03:08:01.249 | Loria] Took care of Morky. Watch alone today.
 [u1837 | 03:08:01.530-03:08:03.220 | Acescale] love.
 [u1838 | 03:08:03.790-03:08:08.219 | Acescale] and then just his handprint and blood.
 [u1839 | 03:08:10.060-03:08:23.630 | Acescale] Interrogate the guy first and decide what the best course of action is. Let's interrogate the guy and then wrap up the session. And you can worry about the long run.
@@ -227,7 +227,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1953 | 03:18:42.550-03:18:44.550 | Loria] Doesn't mean it's wrong.
 [u1954 | 03:18:44.960-03:18:47.960 | Acescale] Murky was Grimes. Don't trust me.
 [u1955 | 03:18:49.690-03:18:54.090 | DM] Ulgna never liked him. Gets on the ground.
-[u1956 | 03:18:55.310-03:19:05.659 | DM] I'm the one who has the loyalty. I'm the one he pings. Damn augment! She'd probably run away in the tunnels if she was left to her own devices.
+[u1956 | 03:18:55.310-03:19:05.659 | DM] I'm the one who has the loyalty. I'm the one he picks. Damn Ulgna! She'd probably run away in the tunnels if she was left to her own devices.
 [u1957 | 03:19:07.000-03:19:08.770 | Loria] Who do you pay?
 [u1958 | 03:19:10.670-03:19:14.240 | DM] I don't pay anybody for Grimstone pays me.
 [u1959 | 03:19:15.190-03:19:17.440 | DM] I pay my loyal lackeys.
@@ -291,7 +291,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u2017 | 03:24:55.470-03:25:02.649 | DM] from him from the way. He says that there's like only light patrols, like one of the hobgoblins, will come. Do a check
 [u2018 | 03:25:02.880-03:25:07.600 | DM] like, you know, once a night or something, but it's really they trust that they're keeping.
 [u2019 | 03:25:07.700-03:25:10.220 | DM] The goblins are the ones who are supposed to
-[u2020 | 03:25:10.820-03:25:23.109 | DM] down. Stay on guard, and the hob gobblers never go into the tunnels. They're too narrow and uncomfortable. the implication being, if you wanted to long grass, then you
+[u2020 | 03:25:10.820-03:25:23.109 | DM] down. Stay on guard, and the hobgoblins never go into the tunnels. They're too narrow and uncomfortable. the implication being, if you wanted to lie low, then you
 [u2021 | 03:25:23.170-03:25:29.110 | DM] trust this guy not to try and betray you. That tunnels would be pretty safe.
 [u2022 | 03:25:29.540-03:25:32.790 | Loria] How many goblins are in the barracks? Still.
 [u2023 | 03:25:35.620-03:25:37.799 | DM] I wasn't lying.
@@ -354,12 +354,12 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u2080 | 03:30:19.170-03:30:20.800 | DM] yeah, go ahead.
 [u2081 | 03:30:21.090-03:30:30.749 | Dilion] No, II like the tunnels. Yeah. But I also like just doing the same thing to get more out. But I think we got lucky.
 [u2082 | 03:30:30.800-03:30:35.570 | Dilion] so I don't know the tunnels is nice, cause at least we can.
-[u2083 | 03:30:35.870-03:30:42.659 | Dilion] It's it's like bottle making right? So if so, if he's correct, the the tunnel has what one
+[u2083 | 03:30:35.870-03:30:42.659 | Dilion] It's it's like bottlenecking, right? So if so, if he's correct, the the tunnel has what one
 [u2084 | 03:30:42.950-03:30:49.050 | Dilion] hob goblin near it, or something. If we go by the the garden, or or something. If I, if I was mistaken.
-[u2085 | 03:30:49.150-03:30:54.070 | Dilion] go by the garden, is one hop God like, get into tunnel. Start going the tunnels, and
+[u2085 | 03:30:49.150-03:30:54.070 | Dilion] go by the garden, it's one hobgoblin, get into tunnel. Start going the tunnels, and
 [u2086 | 03:30:54.410-03:30:55.210 | Dilion] hmm!
 [u2087 | 03:30:55.640-03:30:57.630 | Loria] But we have to figure out what to do with
-[u2088 | 03:30:57.700-03:31:19.869 | Loria] sorry Tim. What's his name? Again. We have to figure out what to do with Tolkien, because he doesn't come back. Then we only have an hour until someone goes and looks for him and finds us gone, raises the alarm with the hob goblet that are guarding. Make it deal with it. Be like, Hey, just look the other way.
+[u2088 | 03:30:57.700-03:31:19.869 | Loria] sorry Tim. What's his name? Again. We have to figure out what to do with Folcan, because he doesn't come back. Then we only have an hour until someone goes and looks for him and finds us gone, raises the alarm with the hobgoblins that are guarding. Make him deal with it. Be like, Hey, just look the other way.
 [u2089 | 03:31:19.910-03:31:21.860 | Gaudin] We're gonna go to the tunnels.
 [u2090 | 03:31:23.590-03:31:25.680 | Acescale] Prisoners escaped.
 [u2091 | 03:31:30.720-03:31:36.260 | Acescale] We'll bring you back. We'll bring you back a gold.
@@ -383,5 +383,5 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u2109 | 03:33:55.870-03:34:01.189 | DM] or not tomorrow in 2 weeks. So next session, the
 [u2110 | 03:34:01.750-03:34:04.729 | DM] sending him off to
 [u2111 | 03:34:06.580-03:34:11.909 | DM] convince the rest of the goblins that everything's fine.
-[u2112 | 03:34:12.970-03:34:17.389 | DM] They don't need a bother. He's punishing Murky and them with
+[u2112 | 03:34:12.970-03:34:17.389 | DM] They don't need to bother. He's punishing Morky and them with
 [u2113 | 03:34:17.550-03:34:29.689 | DM] solitary confinement with the prisoners for the next 3 days, and we'll pick up with where you want to go from. There.
