@@ -1,0 +1,46 @@
+{
+  "campaigns": {
+    "dunmar-frontier": {
+      "sessionRoot": "dunmar-frontier",
+      "aliases": ["dufr"],
+      "campaignRoot": "Campaigns/Dunmari Frontier Campaign",
+      "notePattern": "Dunmar Frontier {session_padded}.md",
+      "defaultTemplate": "composable-session-note.md"
+    },
+    "addermarch": {
+      "sessionRoot": "addermarch",
+      "aliases": ["adma"],
+      "campaignRoot": "Campaigns/Addermarch Campaign",
+      "notePattern": "Addermarch {session_padded}.md",
+      "defaultTemplate": "composable-session-note.md"
+    },
+    "cleenseau": {
+      "sessionRoot": "cleenseau",
+      "aliases": ["clee"],
+      "campaignRoot": "Campaigns/Cleenseau Campaign",
+      "notePattern": "Cleenseau {session_padded}.md",
+      "defaultTemplate": "composable-session-note.md"
+    },
+    "into-the-chasm": {
+      "sessionRoot": "into-the-chasm",
+      "aliases": ["itc"],
+      "campaignRoot": "Campaigns/One Shots/Into the Chasm",
+      "notePattern": "Into the Chasm {session_padded}.md",
+      "defaultTemplate": "composable-session-note.md"
+    },
+    "labyrinths-of-the-lost": {
+      "sessionRoot": "lablost",
+      "aliases": ["ll", "lablost"],
+      "campaignRoot": "Campaigns/One Shots/Labyrinths of the Lost",
+      "notePattern": "Labyrinths of the Lost {session_padded}.md",
+      "defaultTemplate": "lablost-template.md"
+    },
+    "mawar-adventures": {
+      "sessionRoot": "mawar",
+      "aliases": ["mawar"],
+      "campaignRoot": "Campaigns/Mawar Adventures",
+      "notePattern": "Mawar Adventures {session_padded}.md",
+      "defaultTemplate": "composable-session-note.md"
+    }
+  }
+}

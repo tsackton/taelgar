@@ -77,7 +77,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Dilion: name=Dylan, gameRole=Dilion
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0806 | 01:20:52.700-01:20:54.329 | DM] Dobbin assassin died.
 [u0807 | 01:20:54.740-01:20:56.440 | Loria] Okay,

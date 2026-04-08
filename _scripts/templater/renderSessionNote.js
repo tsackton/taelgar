@@ -22,6 +22,77 @@ function splitFrontmatter(text) {
     return { frontmatterText: "", bodyText: text };
 }
 
+function extractFrontmatterBody(frontmatterText) {
+    if (!frontmatterText) {
+        return "";
+    }
+    const lines = frontmatterText.split(/\r?\n/);
+    if (lines.length < 2 || lines[0].trim() !== "---") {
+        return "";
+    }
+    const bodyLines = lines.slice(1);
+    if (bodyLines.length && bodyLines[bodyLines.length - 1].trim() === "---") {
+        bodyLines.pop();
+    }
+    return bodyLines.join("\n");
+}
+
+function parseFrontmatterChunks(frontmatterText) {
+    const body = extractFrontmatterBody(frontmatterText);
+    if (!body.trim()) {
+        return [];
+    }
+
+    const chunks = [];
+    let currentChunk = null;
+    for (const line of body.split(/\r?\n/)) {
+        const keyMatch = line.match(/^([A-Za-z0-9_.-]+):(?:\s|$)/);
+        if (keyMatch) {
+            if (currentChunk) {
+                chunks.push(currentChunk);
+            }
+            currentChunk = { key: keyMatch[1], lines: [line] };
+            continue;
+        }
+        if (!currentChunk) {
+            continue;
+        }
+        currentChunk.lines.push(line);
+    }
+    if (currentChunk) {
+        chunks.push(currentChunk);
+    }
+    return chunks;
+}
+
+function stringifyFrontmatterChunks(chunks) {
+    if (!chunks.length) {
+        return "";
+    }
+    return ["---", ...chunks.flatMap((chunk) => chunk.lines), "---"].join("\n");
+}
+
+function mergeFrontmatter(templateFrontmatterText, currentFrontmatterText) {
+    const templateChunks = parseFrontmatterChunks(templateFrontmatterText);
+    const currentChunks = parseFrontmatterChunks(currentFrontmatterText);
+    const mergedChunks = [];
+    const seenKeys = new Set();
+
+    for (const chunk of templateChunks) {
+        mergedChunks.push(chunk);
+        seenKeys.add(chunk.key);
+    }
+
+    for (const chunk of currentChunks) {
+        if (seenKeys.has(chunk.key)) {
+            continue;
+        }
+        mergedChunks.push(chunk);
+        seenKeys.add(chunk.key);
+    }
+    return stringifyFrontmatterChunks(mergedChunks);
+}
+
 function stripYamlScalar(value) {
     const trimmed = String(value ?? "").trim();
     if (!trimmed) {
@@ -31,34 +102,6 @@ function stripYamlScalar(value) {
         return trimmed.slice(1, -1);
     }
     return trimmed;
-}
-
-function parseSessionNoteConfig(sessionManifestText) {
-    const match = sessionManifestText.match(/^sessionNote:\s*$(?<block>(?:\r?\n[ \t]+.*)+)/m);
-    if (!match || !match.groups || !match.groups.block) {
-        throw new Error("session.yaml is missing a parseable sessionNote block.");
-    }
-
-    const config = {};
-    for (const rawLine of match.groups.block.split(/\r?\n/)) {
-        const trimmed = rawLine.trim();
-        if (!trimmed || trimmed.startsWith("#")) {
-            continue;
-        }
-        const entryMatch = trimmed.match(/^([A-Za-z0-9_.-]+):\s*(.*)$/);
-        if (!entryMatch) {
-            continue;
-        }
-        config[entryMatch[1]] = stripYamlScalar(entryMatch[2]);
-    }
-
-    for (const key of ["templatePath", "generatedRoot", "publishedNotePath"]) {
-        if (!config[key]) {
-            throw new Error(`sessionNote.${key} is required in session.yaml.`);
-        }
-    }
-
-    return config;
 }
 
 function normalizeVaultPath(inputPath) {
@@ -106,6 +149,43 @@ function slugifyText(value) {
     return slug || "session-note";
 }
 
+function buildComponentDirName(sessionNoteConfig, sessionManifestPath) {
+    return String(sessionNoteConfig.sessionKey ?? "").trim();
+}
+
+function resolveTemplatePath(templateValue) {
+    const template = String(templateValue ?? "").trim();
+    if (!template) {
+        throw new Error("Current note frontmatter must include template.");
+    }
+    if (template.includes("/") || template.includes("\\")) {
+        return normalizeVaultPath(template);
+    }
+    return joinVaultPaths("_templates", "session-notes", template.endsWith(".md") ? template : `${template}.md`);
+}
+
+function inferGeneratedRootFromNotePath(notePath) {
+    const normalized = normalizeVaultPath(notePath);
+    const parts = normalized.split("/").filter(Boolean);
+    const campaignsIndex = parts.indexOf("Campaigns");
+    if (campaignsIndex === -1 || campaignsIndex + 1 >= parts.length) {
+        throw new Error(`Cannot infer campaign root from note path: ${normalized}`);
+    }
+
+    const noteContainerNames = new Set(["Sessions", "Session Notes", "Episodes"]);
+    for (let index = campaignsIndex + 1; index < parts.length - 1; index += 1) {
+        if (noteContainerNames.has(parts[index])) {
+            return joinVaultPaths(...parts.slice(0, index), "_generated", "session-notes");
+        }
+    }
+
+    if (parts[campaignsIndex + 1] === "One Shots" && campaignsIndex + 2 < parts.length - 1) {
+        return joinVaultPaths(...parts.slice(0, campaignsIndex + 3), "_generated", "session-notes");
+    }
+
+    return joinVaultPaths(...parts.slice(0, campaignsIndex + 2), "_generated", "session-notes");
+}
+
 function extractSlots(markdownText, sourcePath) {
     const slotPattern = /<!-- SLOT: ([A-Za-z0-9._-]+) -->([\s\S]*?)<!-- \/SLOT -->/g;
     const slots = {};
@@ -132,15 +212,15 @@ function mergeSlots(target, incoming, sourcePath) {
     }
 }
 
-function renderTemplate(templateText, slots) {
-    const templateBody = splitFrontmatter(templateText).bodyText.replace(/^\n+/, "");
+function renderPlaceholders(text, slots) {
+    const sourceText = String(text ?? "");
     const placeholderPattern = /\{([A-Za-z0-9._-]+)\}/g;
     const referencedSlots = new Set();
-    let match = placeholderPattern.exec(templateBody);
+    let match = placeholderPattern.exec(sourceText);
 
     while (match) {
         referencedSlots.add(match[1]);
-        match = placeholderPattern.exec(templateBody);
+        match = placeholderPattern.exec(sourceText);
     }
 
     for (const slotName of referencedSlots) {
@@ -149,7 +229,7 @@ function renderTemplate(templateText, slots) {
         }
     }
 
-    return templateBody.replace(placeholderPattern, (_fullMatch, slotName) => slots[slotName]);
+    return sourceText.replace(placeholderPattern, (_fullMatch, slotName) => slots[slotName]);
 }
 
 async function readVaultText(vaultPath, label) {
@@ -170,33 +250,38 @@ async function renderSessionNote(tp) {
 
         const cache = app.metadataCache.getFileCache(currentFile) ?? {};
         const frontmatter = cache.frontmatter ?? {};
-        if (typeof frontmatter.sessionManifest !== "string" || !frontmatter.sessionManifest.trim()) {
-            throw new Error("Current note frontmatter must include sessionManifest.");
+        if (typeof frontmatter.sessionKey !== "string" || !frontmatter.sessionKey.trim()) {
+            throw new Error("Current note frontmatter must include sessionKey.");
         }
 
         const currentText = await app.vault.adapter.read(currentFile.path);
         const currentParts = splitFrontmatter(currentText);
-        const sessionManifestText = await readVaultText(frontmatter.sessionManifest, "Session manifest");
-        const sessionNote = parseSessionNoteConfig(sessionManifestText);
-
-        const publishedStem = stemFromPath(sessionNote.publishedNotePath);
-        const componentDir = joinVaultPaths(sessionNote.generatedRoot, slugifyText(publishedStem));
+        const templatePath = resolveTemplatePath(frontmatter.template);
+        const generatedRoot = inferGeneratedRootFromNotePath(currentFile.path);
+        const componentDir = joinVaultPaths(generatedRoot, buildComponentDirName(frontmatter));
         const slots = {};
 
-        const templateText = await readVaultText(sessionNote.templatePath, "Session note template");
+        const templateText = await readVaultText(templatePath, "Session note template");
         for (const componentFilename of COMPONENT_FILENAMES) {
             const componentPath = joinVaultPaths(componentDir, componentFilename);
             const componentText = await readVaultText(componentPath, "Session note component");
             mergeSlots(slots, extractSlots(componentText, componentPath), componentPath);
         }
 
-        const renderedBody = renderTemplate(templateText, slots).replace(/\s+$/, "");
-        const output = currentParts.frontmatterText
-            ? `${currentParts.frontmatterText}\n\n${renderedBody}\n`
-            : `${renderedBody}\n`;
+        const renderedTemplate = renderPlaceholders(templateText, slots);
+        const templateParts = splitFrontmatter(renderedTemplate);
+        const renderedBody = templateParts.bodyText
+            .replace(/^(?:[ \t]*\r?\n)+/, "")
+            .replace(/(?:\r?\n[ \t]*)+$/, "");
+        const mergedFrontmatter = mergeFrontmatter(templateParts.frontmatterText, currentParts.frontmatterText);
+        const normalizedFrontmatter = mergedFrontmatter.replace(/\s+$/, "");
+        const normalizedBody = renderedBody.replace(/^\s+/, "").replace(/\s+$/, "");
+        const output = normalizedFrontmatter
+            ? `${normalizedFrontmatter}\n${normalizedBody}\n`
+            : `${normalizedBody}\n`;
 
         await app.vault.adapter.write(currentFile.path, output);
-        new Notice(`Rendered session note from ${sessionNote.templatePath}.`);
+        new Notice(`Rendered session note from ${templatePath}.`);
         return "";
     } catch (error) {
         console.error(error);
@@ -208,10 +293,15 @@ async function renderSessionNote(tp) {
 module.exports = renderSessionNote;
 module.exports._test = {
     extractSlots,
+    inferGeneratedRootFromNotePath,
     joinVaultPaths,
-    parseSessionNoteConfig,
-    renderTemplate,
+    mergeFrontmatter,
+    parseFrontmatterChunks,
+    buildComponentDirName,
+    resolveTemplatePath,
+    renderPlaceholders,
     slugifyText,
     splitFrontmatter,
     stemFromPath,
+    stringifyFrontmatterChunks,
 };

@@ -3,7 +3,7 @@ tags: [person, status/check/ai]
 name: Camile
 species: human
 whereabouts:
-- {type: away, start: 1748-??-??, location: Castrella}
+- {type: away, start: "1748-??-??", location: Castrella}
 campaignInfo:
 - {campaign: GL, type: met}
 dm_owner: none

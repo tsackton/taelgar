@@ -5,6 +5,7 @@
   "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-beat-facts.json",
   "session": {
     "campaign": "Labyrinths of the Lost",
+    "scope": "session",
     "sessionNumber": 1,
     "realWorldDate": "2023-11-12",
     "drStart": "1748-10-17",
@@ -36,6 +37,72 @@
       ],
       "sourceLongSummaries": [
         "Acescale, Gaudin, Loria, and Dilion awaken in a rough prison built inside an abandoned smithy on the grounds of Perdoli Manor in Western Cymea. After introducing themselves and probing the cell, they discover a rotten plank wall, crawl into the workshop, gather improvised tools and gear, overhear drunk goblin guards complaining about Ulgna, Folcan, and Grimstone, and inspect a tidier side room full of scavenged clothing and armor before committing to an attack on the guards."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Waking in the Cell",
+          "boundaryReason": "The session opens with the four prisoners waking in a crude wooden cell, introducing themselves, finding the rotten plank escape, scavenging tools and clothes from the adjoining rooms, overhearing the drunk goblins beyond the door, and finally settling on a plan to rush the guards from two sides.",
+          "dateStart": "1748-10-17",
+          "dateEnd": null,
+          "timeWindow": "midday",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0423"
+          },
+          "shortSummary": "Four newly awakened prisoners break out of their crude cell, arm themselves from the abandoned smithy, and settle on an ambush after overhearing drunk goblin guards nearby.",
+          "longSummary": "Acescale, Gaudin, Loria, and Dilion awaken in a rough prison built inside an abandoned smithy on the grounds of Perdoli Manor in Western Cymea. After introducing themselves and probing the cell, they discover a rotten plank wall, crawl into the workshop, gather improvised tools and gear, overhear drunk goblin guards complaining about Ulgna, Folcan, and Grimstone, and inspect a tidier side room full of scavenged clothing and armor before committing to an attack on the guards.",
+          "locationHints": {
+            "refs": [
+              "Perdoli Manor"
+            ],
+            "context": "crude prison cell, abandoned smithy, and adjoining storage room",
+            "notes": "The party begins the session imprisoned inside a makeshift cell built within the manor's former workshop."
+          },
+          "npcDetails": [
+            {
+              "name": "Folcan",
+              "role": "mentioned",
+              "context": "goblin leader named by the guards",
+              "notes": "The drunken guards complain that Folcan listens to Ulgna."
+            },
+            {
+              "name": "Ulgna",
+              "role": "mentioned",
+              "context": "goblin superior blamed by the guards",
+              "notes": "The guards frame their punishment posting as fallout from Ulgna and her allies drawing Grimstone's ire."
+            },
+            {
+              "name": "Grimstone",
+              "role": "mentioned",
+              "context": "mysterious master taking prisoners",
+              "notes": "The guards say the prisoners are being kept for Grimstone."
+            },
+            {
+              "name": "Morky",
+              "role": "mentioned",
+              "context": "drunk goblin guard at the card game",
+              "notes": "One of the unseen guards accuses Morky of cheating."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "smith's tools",
+              "role": "encountered",
+              "notes": "Dilion scavenges smith's tools from the abandoned workshop."
+            },
+            {
+              "name": "tinker's tools",
+              "role": "encountered",
+              "notes": "Acescale finds usable tinker's tools among the workshop debris."
+            },
+            {
+              "name": "magical formal outfit",
+              "role": "encountered",
+              "notes": "Acescale detects transmutation magic on an old but pristine gentleman's dinner outfit in the side room."
+            }
+          ]
+        }
       ]
     },
     {
@@ -74,16 +141,245 @@
       "sourceShortSummaries": [
         "The party's clumsy two-door ambush still succeeds, and the three drunken jailer goblins are killed in the forge-side guard room.",
         "With the first guards dead, the party loots back their gear, rests in the smithy, and surveys the grounds and nearby barracks of Perdoli Manor before choosing a stealthier next move.",
-        "The party stages a fake prisoner transfer outside the barracks, using Gaudin's goblin disguise and Loria's telepathic translation, but Folcan grows suspicious and the deception starts to collapse.",
-        "Loria's fog cloud turns the failed bluff into a fast street fight, and the party kills the barracks guards while taking Folcan alive before the rest of the goblins can respond.",
-        "Interrogating the captured Folcan, the party learns how Grimstone's prisoner racket works and where hidden tunnels might lead into the manor's wine cellar."
+        "The party tries to bluff the barracks with Gaudin disguised as Morky and Loria posing as a captive, but Folcan reads the scene too quickly for the ruse to hold.",
+        "When the goblins move to grab Loria, she drops a fog cloud over the path, and the party wins the skirmish fast enough to drag Folcan back alive before the barracks reacts.",
+        "Back at the smithy, the party breaks Folcan's nerve and learns how Grimstone's prisoner racket and tunnel routes into the manor work."
       ],
       "sourceLongSummaries": [
         "After discovering one of the two doors into the goblin room is barred, the party improvises a distraction and bursts into the first fight of the session. The goblin jailers are drunk but armed, and the brawl turns messy with darkness, acid, arrows, and Loria's brutal work at the knees, yet the group keeps the noise contained and kills the three guards before the rest of the manor notices.",
         "Once the immediate danger passes, the group searches the goblin room and recovered stores, reclaiming weapons, cards, food, and scattered personal gear. They step outside long enough to understand that they are on the edge of sprawling Perdoli Manor, with gardens, hedges, a distant main villa, and a nearby barracks, then settle in for a short rest, a level-up pause, and a longer planning discussion about whether to leave, hide, or probe the goblins further.",
-        "Hoping to learn more without attacking a full barracks, the party builds a complicated ruse: Gaudin disguises himself as a goblin, Loria pretends to be bound, and the others hide behind a hedge with the steel defender ready. The approach works just long enough to pull barracks goblins out onto the path, but Folcan proves sharper than the first drunk guards, dismisses the act, and begins punishing the supposed troublemakers, forcing the party toward open action.",
-        "The moment the bluff fails, Loria drops a fog cloud across the path and hedgerow, cutting sight lines and throwing the barracks-side goblins into confusion. Fighting through the obscuring mist, the party tears down the nearby guards with spells, steel defender pressure, and Loria's blades, then hauls the surviving Folcan back toward the smithy before the wider barracks can react to the noise.",
-        "Back at the smithy, the party revives and threatens Folcan until he finally explains the arrangement: Grimstone, masked in white marble and black robes, takes one prisoner a week from the manor while the goblins keep silver, copper, and lesser spoils. Folcan also reveals that about ten goblins plus Ulgna remain in the barracks, that hobgoblins guard the main approach, and that a tunnel network may connect the barracks, the kitchen, and perhaps the ruined chapel to the manor's wine cellar, giving the group a plausible infiltration route for next session."
+        "Instead of storming the barracks, the party stages a fake prisoner transfer on the hedgerow path: Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind cover while Loria telepathically feeds Gaudin Goblin lines. The act is awkward but almost good enough to draw out two guards and then Folcan, yet once one goblin spots Loria's hidden sword and Folcan arrives, he sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized, leaving the bluff on the verge of collapse.",
+        "Once Folcan orders Loria grabbed and sends one goblin running with instructions for Ulgna, Loria answers by filling the path and hedgerow with fog. Fighting through the obscuring mist, she cuts down the goblin holding her, Gaudin slips clear and fires from range, Dilion and the steel defender press from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is taken alive, and the party retreats to the smithy with just enough time to question him before the barracks comes looking.",
+        "Back at the smithy, the party revives Folcan, takes away his bone staff, and alternates threats, acid, and questions until he stops posturing. He explains that Grimstone appears in black robes and a white marble mask, takes one prisoner each week into the manor, and pays the goblins in loot while keeping the best treasure. He also reveals that ten goblins plus Ulgna remain in the barracks, that hobgoblins guard the outer gates and the manor door, and that tunnels from the barracks and kitchen, with a rumored chapel entrance, all lead toward the wine cellar, leaving the party leaning toward a tunnel approach and using Folcan to buy time."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-002",
+          "title": "The Drunk Goblins Fall",
+          "boundaryReason": "Once the ambush starts, the whole scene stays focused on the first guard-room fight: the party fumbles the doorway plan, rolls into initiative, and then steadily cuts down the three drunk goblin jailers in the forge-side room before the magical darkness and the fight both end.",
+          "dateStart": "1748-10-17",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0424",
+            "endUid": "u0805"
+          },
+          "shortSummary": "The party's clumsy two-door ambush still succeeds, and the three drunken jailer goblins are killed in the forge-side guard room.",
+          "longSummary": "After discovering one of the two doors into the goblin room is barred, the party improvises a distraction and bursts into the first fight of the session. The goblin jailers are drunk but armed, and the brawl turns messy with darkness, acid, arrows, and Loria's brutal work at the knees, yet the group keeps the noise contained and kills the three guards before the rest of the manor notices.",
+          "locationHints": {
+            "refs": [
+              "Perdoli Manor"
+            ],
+            "context": "guard room beside the smithy prison",
+            "notes": "The fight happens in the adjoining room where the goblin guards had been drinking and gambling."
+          },
+          "npcDetails": [
+            {
+              "name": "Morky",
+              "role": "enemy",
+              "context": "drunk goblin guard",
+              "notes": "One of the three jailer goblins killed in the fight."
+            },
+            {
+              "name": "Norrica",
+              "role": "enemy",
+              "context": "drunk goblin guard",
+              "notes": "One of the three jailer goblins defeated in the guard room."
+            },
+            {
+              "name": "Skelver",
+              "role": "enemy",
+              "context": "drunk goblin guard",
+              "notes": "One of the three jailer goblins defeated in the guard room."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Loria's short swords",
+              "role": "encountered",
+              "notes": "The goblin guards had been carrying Loria's stolen weapons."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "Morky, Norrica, and Skelver",
+                "notes": "Three drunk goblin jailers guarding the forge-side prison room."
+              }
+            ],
+            "notes": "The party springs the ambush in the guard room and wipes out the three prison guards before the wider estate is alerted."
+          }
+        },
+        {
+          "beatId": "beat-003",
+          "title": "Breather on the Manor Grounds",
+          "boundaryReason": "With the guard room secured, the party loots weapons and stolen gear, steps outside to understand the ruined manor grounds around them, recovers equipment and food, takes a short rest and level-up pause, and then surveys the nearby barracks and overgrown estate while deciding what kind of approach to try next.",
+          "dateStart": "1748-10-17",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0806",
+            "endUid": "u1207"
+          },
+          "shortSummary": "With the first guards dead, the party loots back their gear, rests in the smithy, and surveys the grounds and nearby barracks of Perdoli Manor before choosing a stealthier next move.",
+          "longSummary": "Once the immediate danger passes, the group searches the goblin room and recovered stores, reclaiming weapons, cards, food, and scattered personal gear. They step outside long enough to understand that they are on the edge of sprawling Perdoli Manor, with gardens, hedges, a distant main villa, and a nearby barracks, then settle in for a short rest, a level-up pause, and a longer planning discussion about whether to leave, hide, or probe the goblins further.",
+          "locationHints": {
+            "refs": [
+              "Perdoli Manor"
+            ],
+            "context": "smithy, gear room, and overgrown grounds outside the prison building",
+            "notes": "The beat expands the party's understanding of the manor layout while they recover and plan."
+          },
+          "npcDetails": [
+            {
+              "name": "Grimstone",
+              "role": "mentioned",
+              "context": "mysterious occupant of the manor",
+              "notes": "The group's recovered information and discussion reinforce that the prisoners are being held for Grimstone inside the manor."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Acescale's playing cards",
+              "role": "encountered",
+              "notes": "The cards taken by the goblins are recovered from the guard room."
+            },
+            {
+              "name": "silver ring with weathered pearl",
+              "role": "encountered",
+              "notes": "Gaudin reclaims a silver ring set with a pearl that had been glowing faintly."
+            },
+            {
+              "name": "stolen rations and brandy",
+              "role": "encountered",
+              "notes": "The goblin guard room contains scavenged food, cheap apple brandy, and picked-over prisoner supplies."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-004",
+          "title": "A Goblin Ruse Unravels",
+          "boundaryReason": "The next phase is entirely about the deception attempt: the party decides to use Loria's Goblin and silent speech with Gaudin's disguise, stages a fake prisoner transfer outside the barracks, and almost sells the act before Folcan and the other goblins grow suspicious and Loria breaks the standoff with a fog cloud.",
+          "dateStart": "1748-10-17",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1208",
+            "endUid": "u1531"
+          },
+          "shortSummary": "The party tries to bluff the barracks with Gaudin disguised as Morky and Loria posing as a captive, but Folcan reads the scene too quickly for the ruse to hold.",
+          "longSummary": "Instead of storming the barracks, the party stages a fake prisoner transfer on the hedgerow path: Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind cover while Loria telepathically feeds Gaudin Goblin lines. The act is awkward but almost good enough to draw out two guards and then Folcan, yet once one goblin spots Loria's hidden sword and Folcan arrives, he sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized, leaving the bluff on the verge of collapse.",
+          "locationHints": {
+            "refs": [
+              "Perdoli Manor"
+            ],
+            "context": "hedgerow path between the smithy and the nearby barracks",
+            "notes": "The party tries to exploit cover near the barracks rather than storming the building directly."
+          },
+          "npcDetails": [
+            {
+              "name": "Folcan",
+              "role": "encountered",
+              "context": "goblin boss with a staff",
+              "notes": "Folcan ignores the cover story, warns Ulgna to send help if he does not return, blasts Gaudin with his staff, and orders Loria seized."
+            },
+            {
+              "name": "Ulgna",
+              "role": "mentioned",
+              "context": "superior goblin leader back in the barracks",
+              "notes": "Folcan orders that Ulgna be told to send help if he does not return."
+            },
+            {
+              "name": "Morky",
+              "role": "mentioned",
+              "context": "drunk goblin whose identity Gaudin imitates",
+              "notes": "Gaudin poses as Morky to sell the fake prisoner transfer, and Folcan uses Morky's drunkenness as the excuse he sends back to Ulgna."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-005",
+          "title": "Fog Fight by the Barracks",
+          "boundaryReason": "Once the fog cloud goes up, the deception is over and the whole beat becomes a tight skirmish outside the barracks, with the party using the hedgerow and obscuring mist to kill the goblin guards quickly enough to avoid drawing the full barracks, then dragging the surviving boss back for questioning.",
+          "dateStart": "1748-10-17",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1532",
+            "endUid": "u1806"
+          },
+          "shortSummary": "When the goblins move to grab Loria, she drops a fog cloud over the path, and the party wins the skirmish fast enough to drag Folcan back alive before the barracks reacts.",
+          "longSummary": "Once Folcan orders Loria grabbed and sends one goblin running with instructions for Ulgna, Loria answers by filling the path and hedgerow with fog. Fighting through the obscuring mist, she cuts down the goblin holding her, Gaudin slips clear and fires from range, Dilion and the steel defender press from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is taken alive, and the party retreats to the smithy with just enough time to question him before the barracks comes looking.",
+          "locationHints": {
+            "refs": [
+              "Perdoli Manor"
+            ],
+            "context": "fog-shrouded path and hedgerow outside the barracks",
+            "notes": "The fight stays outside the barracks itself and ends quickly enough to avoid a full alarm."
+          },
+          "npcDetails": [
+            {
+              "name": "Folcan",
+              "role": "enemy",
+              "context": "captured goblin boss",
+              "notes": "Folcan survives the path fight, is taken captive, and is dragged back to the smithy for interrogation."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "Folcan and three barracks goblins",
+                "notes": "The fight on the path involves Folcan, the suspicious goblin already on scene, and the two warriors who come out with him from the barracks."
+              }
+            ],
+            "notes": "Loria's fog cloud and the hedgerow let the party isolate the path fight, finish it inside roughly three rounds, and retreat with Folcan before the full barracks reacts."
+          }
+        },
+        {
+          "beatId": "beat-006",
+          "title": "Folcan Names the Tunnels",
+          "boundaryReason": "Back at the forge and hedge line, the party spends the rest of the session interrogating Folcan, learning how Grimstone's prisoner racket works, how many goblins and hobgoblins are nearby, and where the tunnel entrances might reach the wine cellar, before ending on a tentative plan to send Folcan back and exploit the tunnels next time.",
+          "dateStart": "1748-10-17",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1807",
+            "endUid": "u2113"
+          },
+          "shortSummary": "Back at the smithy, the party breaks Folcan's nerve and learns how Grimstone's prisoner racket and tunnel routes into the manor work.",
+          "longSummary": "Back at the smithy, the party revives Folcan, takes away his bone staff, and alternates threats, acid, and questions until he stops posturing. He explains that Grimstone appears in black robes and a white marble mask, takes one prisoner each week into the manor, and pays the goblins in loot while keeping the best treasure. He also reveals that ten goblins plus Ulgna remain in the barracks, that hobgoblins guard the outer gates and the manor door, and that tunnels from the barracks and kitchen, with a rumored chapel entrance, all lead toward the wine cellar, leaving the party leaning toward a tunnel approach and using Folcan to buy time.",
+          "locationHints": {
+            "refs": [
+              "Perdoli Manor"
+            ],
+            "context": "smithy and roadside cover near the barracks",
+            "notes": "The party questions Folcan back near the prison building after the second fight."
+          },
+          "npcDetails": [
+            {
+              "name": "Folcan",
+              "role": "encountered",
+              "context": "captured goblin informant",
+              "notes": "After being revived and threatened, Folcan explains Grimstone's arrangement, the remaining goblin numbers, the hobgoblin guards, and the tunnel entrances."
+            },
+            {
+              "name": "Grimstone",
+              "role": "mentioned",
+              "context": "masked master of the manor",
+              "notes": "Folcan describes Grimstone as a figure in black robes with a white marble mask who takes prisoners into the manor."
+            },
+            {
+              "name": "Ulgna",
+              "role": "mentioned",
+              "context": "other goblin leader in the barracks",
+              "notes": "Folcan complains about Ulgna while describing the goblin hierarchy and the surviving force in the barracks."
+            }
+          ]
+        }
       ]
     }
   ],
@@ -95,11 +391,11 @@
       "beatIds": [
         "beat-001"
       ],
-      "transcriptRange": {
+      "sourceRange": {
         "startUid": "u0001",
         "endUid": "u0423"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
           "startUid": "u0001",
           "endUid": "u0423"
@@ -125,6 +421,72 @@
       ],
       "sourceLongSummaries": [
         "Acescale, Gaudin, Loria, and Dilion awaken in a rough prison built inside an abandoned smithy on the grounds of Perdoli Manor in Western Cymea. After introducing themselves and probing the cell, they discover a rotten plank wall, crawl into the workshop, gather improvised tools and gear, overhear drunk goblin guards complaining about Ulgna, Folcan, and Grimstone, and inspect a tidier side room full of scavenged clothing and armor before committing to an attack on the guards."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Waking in the Cell",
+          "boundaryReason": "The session opens with the four prisoners waking in a crude wooden cell, introducing themselves, finding the rotten plank escape, scavenging tools and clothes from the adjoining rooms, overhearing the drunk goblins beyond the door, and finally settling on a plan to rush the guards from two sides.",
+          "dateStart": "1748-10-17",
+          "dateEnd": null,
+          "timeWindow": "midday",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0423"
+          },
+          "shortSummary": "Four newly awakened prisoners break out of their crude cell, arm themselves from the abandoned smithy, and settle on an ambush after overhearing drunk goblin guards nearby.",
+          "longSummary": "Acescale, Gaudin, Loria, and Dilion awaken in a rough prison built inside an abandoned smithy on the grounds of Perdoli Manor in Western Cymea. After introducing themselves and probing the cell, they discover a rotten plank wall, crawl into the workshop, gather improvised tools and gear, overhear drunk goblin guards complaining about Ulgna, Folcan, and Grimstone, and inspect a tidier side room full of scavenged clothing and armor before committing to an attack on the guards.",
+          "locationHints": {
+            "refs": [
+              "Perdoli Manor"
+            ],
+            "context": "crude prison cell, abandoned smithy, and adjoining storage room",
+            "notes": "The party begins the session imprisoned inside a makeshift cell built within the manor's former workshop."
+          },
+          "npcDetails": [
+            {
+              "name": "Folcan",
+              "role": "mentioned",
+              "context": "goblin leader named by the guards",
+              "notes": "The drunken guards complain that Folcan listens to Ulgna."
+            },
+            {
+              "name": "Ulgna",
+              "role": "mentioned",
+              "context": "goblin superior blamed by the guards",
+              "notes": "The guards frame their punishment posting as fallout from Ulgna and her allies drawing Grimstone's ire."
+            },
+            {
+              "name": "Grimstone",
+              "role": "mentioned",
+              "context": "mysterious master taking prisoners",
+              "notes": "The guards say the prisoners are being kept for Grimstone."
+            },
+            {
+              "name": "Morky",
+              "role": "mentioned",
+              "context": "drunk goblin guard at the card game",
+              "notes": "One of the unseen guards accuses Morky of cheating."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "smith's tools",
+              "role": "encountered",
+              "notes": "Dilion scavenges smith's tools from the abandoned workshop."
+            },
+            {
+              "name": "tinker's tools",
+              "role": "encountered",
+              "notes": "Acescale finds usable tinker's tools among the workshop debris."
+            },
+            {
+              "name": "magical formal outfit",
+              "role": "encountered",
+              "notes": "Acescale detects transmutation magic on an old but pristine gentleman's dinner outfit in the side room."
+            }
+          ]
+        }
       ]
     },
     {
@@ -134,11 +496,11 @@
       "beatIds": [
         "beat-002"
       ],
-      "transcriptRange": {
+      "sourceRange": {
         "startUid": "u0424",
         "endUid": "u0805"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
           "startUid": "u0424",
           "endUid": "u0805"
@@ -168,6 +530,67 @@
       ],
       "sourceLongSummaries": [
         "After discovering one of the two doors into the goblin room is barred, the party improvises a distraction and bursts into the first fight of the session. The goblin jailers are drunk but armed, and the brawl turns messy with darkness, acid, arrows, and Loria's brutal work at the knees, yet the group keeps the noise contained and kills the three guards before the rest of the manor notices."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-002",
+          "title": "The Drunk Goblins Fall",
+          "boundaryReason": "Once the ambush starts, the whole scene stays focused on the first guard-room fight: the party fumbles the doorway plan, rolls into initiative, and then steadily cuts down the three drunk goblin jailers in the forge-side room before the magical darkness and the fight both end.",
+          "dateStart": "1748-10-17",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0424",
+            "endUid": "u0805"
+          },
+          "shortSummary": "The party's clumsy two-door ambush still succeeds, and the three drunken jailer goblins are killed in the forge-side guard room.",
+          "longSummary": "After discovering one of the two doors into the goblin room is barred, the party improvises a distraction and bursts into the first fight of the session. The goblin jailers are drunk but armed, and the brawl turns messy with darkness, acid, arrows, and Loria's brutal work at the knees, yet the group keeps the noise contained and kills the three guards before the rest of the manor notices.",
+          "locationHints": {
+            "refs": [
+              "Perdoli Manor"
+            ],
+            "context": "guard room beside the smithy prison",
+            "notes": "The fight happens in the adjoining room where the goblin guards had been drinking and gambling."
+          },
+          "npcDetails": [
+            {
+              "name": "Morky",
+              "role": "enemy",
+              "context": "drunk goblin guard",
+              "notes": "One of the three jailer goblins killed in the fight."
+            },
+            {
+              "name": "Norrica",
+              "role": "enemy",
+              "context": "drunk goblin guard",
+              "notes": "One of the three jailer goblins defeated in the guard room."
+            },
+            {
+              "name": "Skelver",
+              "role": "enemy",
+              "context": "drunk goblin guard",
+              "notes": "One of the three jailer goblins defeated in the guard room."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Loria's short swords",
+              "role": "encountered",
+              "notes": "The goblin guards had been carrying Loria's stolen weapons."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "Morky, Norrica, and Skelver",
+                "notes": "Three drunk goblin jailers guarding the forge-side prison room."
+              }
+            ],
+            "notes": "The party springs the ambush in the guard room and wipes out the three prison guards before the wider estate is alerted."
+          }
+        }
       ]
     },
     {
@@ -177,11 +600,11 @@
       "beatIds": [
         "beat-003"
       ],
-      "transcriptRange": {
+      "sourceRange": {
         "startUid": "u0806",
         "endUid": "u1207"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
           "startUid": "u0806",
           "endUid": "u1207"
@@ -207,6 +630,54 @@
       ],
       "sourceLongSummaries": [
         "Once the immediate danger passes, the group searches the goblin room and recovered stores, reclaiming weapons, cards, food, and scattered personal gear. They step outside long enough to understand that they are on the edge of sprawling Perdoli Manor, with gardens, hedges, a distant main villa, and a nearby barracks, then settle in for a short rest, a level-up pause, and a longer planning discussion about whether to leave, hide, or probe the goblins further."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-003",
+          "title": "Breather on the Manor Grounds",
+          "boundaryReason": "With the guard room secured, the party loots weapons and stolen gear, steps outside to understand the ruined manor grounds around them, recovers equipment and food, takes a short rest and level-up pause, and then surveys the nearby barracks and overgrown estate while deciding what kind of approach to try next.",
+          "dateStart": "1748-10-17",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0806",
+            "endUid": "u1207"
+          },
+          "shortSummary": "With the first guards dead, the party loots back their gear, rests in the smithy, and surveys the grounds and nearby barracks of Perdoli Manor before choosing a stealthier next move.",
+          "longSummary": "Once the immediate danger passes, the group searches the goblin room and recovered stores, reclaiming weapons, cards, food, and scattered personal gear. They step outside long enough to understand that they are on the edge of sprawling Perdoli Manor, with gardens, hedges, a distant main villa, and a nearby barracks, then settle in for a short rest, a level-up pause, and a longer planning discussion about whether to leave, hide, or probe the goblins further.",
+          "locationHints": {
+            "refs": [
+              "Perdoli Manor"
+            ],
+            "context": "smithy, gear room, and overgrown grounds outside the prison building",
+            "notes": "The beat expands the party's understanding of the manor layout while they recover and plan."
+          },
+          "npcDetails": [
+            {
+              "name": "Grimstone",
+              "role": "mentioned",
+              "context": "mysterious occupant of the manor",
+              "notes": "The group's recovered information and discussion reinforce that the prisoners are being held for Grimstone inside the manor."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Acescale's playing cards",
+              "role": "encountered",
+              "notes": "The cards taken by the goblins are recovered from the guard room."
+            },
+            {
+              "name": "silver ring with weathered pearl",
+              "role": "encountered",
+              "notes": "Gaudin reclaims a silver ring set with a pearl that had been glowing faintly."
+            },
+            {
+              "name": "stolen rations and brandy",
+              "role": "encountered",
+              "notes": "The goblin guard room contains scavenged food, cheap apple brandy, and picked-over prisoner supplies."
+            }
+          ]
+        }
       ]
     },
     {
@@ -216,11 +687,11 @@
       "beatIds": [
         "beat-004"
       ],
-      "transcriptRange": {
+      "sourceRange": {
         "startUid": "u1208",
         "endUid": "u1531"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
           "startUid": "u1208",
           "endUid": "u1531"
@@ -240,10 +711,53 @@
       "itemRefs": [],
       "combatEnemyRefs": [],
       "sourceShortSummaries": [
-        "The party stages a fake prisoner transfer outside the barracks, using Gaudin's goblin disguise and Loria's telepathic translation, but Folcan grows suspicious and the deception starts to collapse."
+        "The party tries to bluff the barracks with Gaudin disguised as Morky and Loria posing as a captive, but Folcan reads the scene too quickly for the ruse to hold."
       ],
       "sourceLongSummaries": [
-        "Hoping to learn more without attacking a full barracks, the party builds a complicated ruse: Gaudin disguises himself as a goblin, Loria pretends to be bound, and the others hide behind a hedge with the steel defender ready. The approach works just long enough to pull barracks goblins out onto the path, but Folcan proves sharper than the first drunk guards, dismisses the act, and begins punishing the supposed troublemakers, forcing the party toward open action."
+        "Instead of storming the barracks, the party stages a fake prisoner transfer on the hedgerow path: Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind cover while Loria telepathically feeds Gaudin Goblin lines. The act is awkward but almost good enough to draw out two guards and then Folcan, yet once one goblin spots Loria's hidden sword and Folcan arrives, he sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized, leaving the bluff on the verge of collapse."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-004",
+          "title": "A Goblin Ruse Unravels",
+          "boundaryReason": "The next phase is entirely about the deception attempt: the party decides to use Loria's Goblin and silent speech with Gaudin's disguise, stages a fake prisoner transfer outside the barracks, and almost sells the act before Folcan and the other goblins grow suspicious and Loria breaks the standoff with a fog cloud.",
+          "dateStart": "1748-10-17",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1208",
+            "endUid": "u1531"
+          },
+          "shortSummary": "The party tries to bluff the barracks with Gaudin disguised as Morky and Loria posing as a captive, but Folcan reads the scene too quickly for the ruse to hold.",
+          "longSummary": "Instead of storming the barracks, the party stages a fake prisoner transfer on the hedgerow path: Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind cover while Loria telepathically feeds Gaudin Goblin lines. The act is awkward but almost good enough to draw out two guards and then Folcan, yet once one goblin spots Loria's hidden sword and Folcan arrives, he sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized, leaving the bluff on the verge of collapse.",
+          "locationHints": {
+            "refs": [
+              "Perdoli Manor"
+            ],
+            "context": "hedgerow path between the smithy and the nearby barracks",
+            "notes": "The party tries to exploit cover near the barracks rather than storming the building directly."
+          },
+          "npcDetails": [
+            {
+              "name": "Folcan",
+              "role": "encountered",
+              "context": "goblin boss with a staff",
+              "notes": "Folcan ignores the cover story, warns Ulgna to send help if he does not return, blasts Gaudin with his staff, and orders Loria seized."
+            },
+            {
+              "name": "Ulgna",
+              "role": "mentioned",
+              "context": "superior goblin leader back in the barracks",
+              "notes": "Folcan orders that Ulgna be told to send help if he does not return."
+            },
+            {
+              "name": "Morky",
+              "role": "mentioned",
+              "context": "drunk goblin whose identity Gaudin imitates",
+              "notes": "Gaudin poses as Morky to sell the fake prisoner transfer, and Folcan uses Morky's drunkenness as the excuse he sends back to Ulgna."
+            }
+          ]
+        }
       ]
     },
     {
@@ -253,11 +767,11 @@
       "beatIds": [
         "beat-005"
       ],
-      "transcriptRange": {
+      "sourceRange": {
         "startUid": "u1532",
         "endUid": "u1806"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
           "startUid": "u1532",
           "endUid": "u1806"
@@ -276,13 +790,55 @@
       "organizationRefs": [],
       "itemRefs": [],
       "combatEnemyRefs": [
-        "Folcan and barracks goblins"
+        "Folcan and three barracks goblins"
       ],
       "sourceShortSummaries": [
-        "Loria's fog cloud turns the failed bluff into a fast street fight, and the party kills the barracks guards while taking Folcan alive before the rest of the goblins can respond."
+        "When the goblins move to grab Loria, she drops a fog cloud over the path, and the party wins the skirmish fast enough to drag Folcan back alive before the barracks reacts."
       ],
       "sourceLongSummaries": [
-        "The moment the bluff fails, Loria drops a fog cloud across the path and hedgerow, cutting sight lines and throwing the barracks-side goblins into confusion. Fighting through the obscuring mist, the party tears down the nearby guards with spells, steel defender pressure, and Loria's blades, then hauls the surviving Folcan back toward the smithy before the wider barracks can react to the noise."
+        "Once Folcan orders Loria grabbed and sends one goblin running with instructions for Ulgna, Loria answers by filling the path and hedgerow with fog. Fighting through the obscuring mist, she cuts down the goblin holding her, Gaudin slips clear and fires from range, Dilion and the steel defender press from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is taken alive, and the party retreats to the smithy with just enough time to question him before the barracks comes looking."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-005",
+          "title": "Fog Fight by the Barracks",
+          "boundaryReason": "Once the fog cloud goes up, the deception is over and the whole beat becomes a tight skirmish outside the barracks, with the party using the hedgerow and obscuring mist to kill the goblin guards quickly enough to avoid drawing the full barracks, then dragging the surviving boss back for questioning.",
+          "dateStart": "1748-10-17",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1532",
+            "endUid": "u1806"
+          },
+          "shortSummary": "When the goblins move to grab Loria, she drops a fog cloud over the path, and the party wins the skirmish fast enough to drag Folcan back alive before the barracks reacts.",
+          "longSummary": "Once Folcan orders Loria grabbed and sends one goblin running with instructions for Ulgna, Loria answers by filling the path and hedgerow with fog. Fighting through the obscuring mist, she cuts down the goblin holding her, Gaudin slips clear and fires from range, Dilion and the steel defender press from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is taken alive, and the party retreats to the smithy with just enough time to question him before the barracks comes looking.",
+          "locationHints": {
+            "refs": [
+              "Perdoli Manor"
+            ],
+            "context": "fog-shrouded path and hedgerow outside the barracks",
+            "notes": "The fight stays outside the barracks itself and ends quickly enough to avoid a full alarm."
+          },
+          "npcDetails": [
+            {
+              "name": "Folcan",
+              "role": "enemy",
+              "context": "captured goblin boss",
+              "notes": "Folcan survives the path fight, is taken captive, and is dragged back to the smithy for interrogation."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "Folcan and three barracks goblins",
+                "notes": "The fight on the path involves Folcan, the suspicious goblin already on scene, and the two warriors who come out with him from the barracks."
+              }
+            ],
+            "notes": "Loria's fog cloud and the hedgerow let the party isolate the path fight, finish it inside roughly three rounds, and retreat with Folcan before the full barracks reacts."
+          }
+        }
       ]
     },
     {
@@ -292,11 +848,11 @@
       "beatIds": [
         "beat-006"
       ],
-      "transcriptRange": {
+      "sourceRange": {
         "startUid": "u1807",
         "endUid": "u2113"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
           "startUid": "u1807",
           "endUid": "u2113"
@@ -316,10 +872,53 @@
       "itemRefs": [],
       "combatEnemyRefs": [],
       "sourceShortSummaries": [
-        "Interrogating the captured Folcan, the party learns how Grimstone's prisoner racket works and where hidden tunnels might lead into the manor's wine cellar."
+        "Back at the smithy, the party breaks Folcan's nerve and learns how Grimstone's prisoner racket and tunnel routes into the manor work."
       ],
       "sourceLongSummaries": [
-        "Back at the smithy, the party revives and threatens Folcan until he finally explains the arrangement: Grimstone, masked in white marble and black robes, takes one prisoner a week from the manor while the goblins keep silver, copper, and lesser spoils. Folcan also reveals that about ten goblins plus Ulgna remain in the barracks, that hobgoblins guard the main approach, and that a tunnel network may connect the barracks, the kitchen, and perhaps the ruined chapel to the manor's wine cellar, giving the group a plausible infiltration route for next session."
+        "Back at the smithy, the party revives Folcan, takes away his bone staff, and alternates threats, acid, and questions until he stops posturing. He explains that Grimstone appears in black robes and a white marble mask, takes one prisoner each week into the manor, and pays the goblins in loot while keeping the best treasure. He also reveals that ten goblins plus Ulgna remain in the barracks, that hobgoblins guard the outer gates and the manor door, and that tunnels from the barracks and kitchen, with a rumored chapel entrance, all lead toward the wine cellar, leaving the party leaning toward a tunnel approach and using Folcan to buy time."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-006",
+          "title": "Folcan Names the Tunnels",
+          "boundaryReason": "Back at the forge and hedge line, the party spends the rest of the session interrogating Folcan, learning how Grimstone's prisoner racket works, how many goblins and hobgoblins are nearby, and where the tunnel entrances might reach the wine cellar, before ending on a tentative plan to send Folcan back and exploit the tunnels next time.",
+          "dateStart": "1748-10-17",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1807",
+            "endUid": "u2113"
+          },
+          "shortSummary": "Back at the smithy, the party breaks Folcan's nerve and learns how Grimstone's prisoner racket and tunnel routes into the manor work.",
+          "longSummary": "Back at the smithy, the party revives Folcan, takes away his bone staff, and alternates threats, acid, and questions until he stops posturing. He explains that Grimstone appears in black robes and a white marble mask, takes one prisoner each week into the manor, and pays the goblins in loot while keeping the best treasure. He also reveals that ten goblins plus Ulgna remain in the barracks, that hobgoblins guard the outer gates and the manor door, and that tunnels from the barracks and kitchen, with a rumored chapel entrance, all lead toward the wine cellar, leaving the party leaning toward a tunnel approach and using Folcan to buy time.",
+          "locationHints": {
+            "refs": [
+              "Perdoli Manor"
+            ],
+            "context": "smithy and roadside cover near the barracks",
+            "notes": "The party questions Folcan back near the prison building after the second fight."
+          },
+          "npcDetails": [
+            {
+              "name": "Folcan",
+              "role": "encountered",
+              "context": "captured goblin informant",
+              "notes": "After being revived and threatened, Folcan explains Grimstone's arrangement, the remaining goblin numbers, the hobgoblin guards, and the tunnel entrances."
+            },
+            {
+              "name": "Grimstone",
+              "role": "mentioned",
+              "context": "masked master of the manor",
+              "notes": "Folcan describes Grimstone as a figure in black robes with a white marble mask who takes prisoners into the manor."
+            },
+            {
+              "name": "Ulgna",
+              "role": "mentioned",
+              "context": "other goblin leader in the barracks",
+              "notes": "Folcan complains about Ulgna while describing the goblin hierarchy and the surviving force in the barracks."
+            }
+          ]
+        }
       ]
     }
   ],
@@ -383,7 +982,7 @@
           "beat-005"
         ],
         "enemyRefs": [
-          "Folcan and barracks goblins"
+          "Folcan and three barracks goblins"
         ],
         "dateStart": "1748-10-17",
         "dateEnd": null

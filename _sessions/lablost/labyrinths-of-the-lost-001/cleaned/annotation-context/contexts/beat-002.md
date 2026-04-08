@@ -77,7 +77,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Dilion: name=Dylan, gameRole=Dilion
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0424 | 00:44:27.040-00:44:51.510 | Dilion] Another room. And then
 [u0425 | 00:44:51.760-00:45:00.760 | Acescale] there's 2 ways into the goblin room. There's 2 ways into the goblin room. I'm I'm I'm drawing it on roll 20 right now, and I'll I'll put you in a sec.

@@ -77,14 +77,14 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Dilion: name=Dylan, gameRole=Dilion
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1532 | 02:39:21.840-02:39:28.429 | DM] I'm not sure you get advantage on initiative that time. This is a pretty even rule. Let me just
 [u1533 | 02:39:28.640-02:39:30.220 | Loria] sketch this out of that.
 [u1534 | 02:39:31.670-02:39:37.600 | DM] Is this. Gonna be the cursed initiative party. Oh, my initiative is okay.
 [u1535 | 02:39:39.760-02:39:45.609 | Dilion] Dylan. What did you roll? I rolled on one on the
 [u1536 | 02:39:45.720-02:39:49.940 | Dilion] okay. So, roughly speaking, we've got.
-[u1537 | 02:39:51.260-02:39:55.399 | DM] we've got a headrow
+[u1537 | 02:39:51.260-02:39:55.399 | DM] we've got a hedgerow
 [u1538 | 02:39:55.590-02:39:58.210 | Dilion] that runs
 [u1539 | 02:40:02.910-02:40:04.439 | DM] like this.
 [u1540 | 02:40:06.040-02:40:08.860 | DM] The path
@@ -95,7 +95,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1545 | 02:40:30.720-02:40:33.060 | DM] and you are all standing
 [u1546 | 02:40:34.210-02:40:38.700 | DM] about 30 feet, about 20 feet from the hedgerow. So
 [u1547 | 02:40:40.310-02:40:44.040 | DM] so let's see you're here. How's it, Goblin?
-[u1548 | 02:40:46.290-02:40:48.629 | DM] You guys are behind the head drow.
+[u1548 | 02:40:46.290-02:40:48.629 | DM] You guys are behind the hedgerow.
 [u1549 | 02:40:50.190-02:40:52.200 | DM] Loria is next to you.
 [u1550 | 02:40:54.220-02:40:57.990 | DM] steel defender right there.
 [u1551 | 02:40:59.990-02:41:01.660 | DM] Fog cloud.
@@ -193,14 +193,14 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1643 | 02:49:25.130-02:49:33.579 | DM] No! But if you take like 3 steps you'll be. You'll be out of a haze, and then you can teleport anywhere. Okay? So I take my 3 steps
 [u1644 | 02:49:33.800-02:49:37.199 | Gaudin] and then I missed you. Step over there.
 [u1645 | 02:49:37.230-02:49:39.700 | DM] That's just around the
-[u1646 | 02:49:40.120-02:49:41.180 | DM] head drown.
+[u1646 | 02:49:40.120-02:49:41.180 | DM] hedgerow.
 [u1647 | 02:49:41.890-02:49:44.340 | Gaudin] Okay, did
 [u1648 | 02:49:44.930-02:49:46.340 | DM] curse better
 [u1649 | 02:49:49.590-02:49:52.420 | DM] hearing you run past him.
 [u1650 | 02:49:53.900-02:49:56.359 | DM] not being able to see anything
 [u1651 | 02:49:57.270-02:50:03.239 | DM] in this horrendous fog. was, gonna step back, 1, 2,
 [u1652 | 02:50:03.250-02:50:05.429 | DM] 3 steps out of the fog.
-[u1653 | 02:50:06.870-02:50:09.120 | DM] See you around the head drow.
+[u1653 | 02:50:06.870-02:50:09.120 | DM] See you around the hedgerow.
 [u1654 | 02:50:11.900-02:50:13.360 | DM] I wanna say.
 [u1655 | 02:50:13.490-02:50:16.549 | DM] probably can't see
 [u1656 | 02:50:16.610-02:50:18.870 | DM] Dylan just got in

@@ -76,9 +76,9 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Dilion: name=Dylan, gameRole=Dilion
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
-[u0001 | 00:00:03.280-00:00:10.620 | DM] We will start our game tonight in a dimly lit run.
+[u0001 | 00:00:03.280-00:00:10.620 | DM] We will start our game tonight in a dimly lit room.
 [u0002 | 00:00:13.180-00:00:16.060 | DM] You are lying in a
 [u0003 | 00:00:17.100-00:00:28.950 | DM] what looks like a crudely made prison with 3 other people having just awoken from a long, unconscious sleep.
 [u0004 | 00:00:30.930-00:00:38.530 | DM] You're in a maybe 15 foot by 15 foot cell. dressed just in.
@@ -88,12 +88,12 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0008 | 00:00:49.620-00:01:00.800 | DM] The wall to your right is made of wood. It looks quickly constructed or crudely made.
 [u0009 | 00:01:01.120-00:01:04.050 | DM] Of repurposed
 [u0010 | 00:01:04.060-00:01:10.130 | DM] picnic tables, or work benches, or something like this. This was not originally wood construction.
-[u0011 | 00:01:11.480-00:01:18.840 | DM] The wall in front of you is not actually a law. It's just a series of iron bars.
+[u0011 | 00:01:11.480-00:01:18.840 | DM] The wall in front of you is not actually a wall. It's just a series of iron bars.
 [u0012 | 00:01:19.940-00:01:21.649 | DM] and there is a gate
 [u0013 | 00:01:22.000-00:01:25.160 | DM] that is locked with a small
 [u0014 | 00:01:25.290-00:01:31.780 | DM] corroded looking padlock that keeps the gate from opening.
 [u0015 | 00:01:33.500-00:01:37.179 | DM] Looking through the bars, you can see what looks like a
-[u0016 | 00:01:37.300-00:01:49.710 | DM] just used an long disused workshop, like of a blacksmith or a forge. There's an anvil in the center of the room.
+[u0016 | 00:01:37.300-00:01:49.710 | DM] just a long-disused workshop, like of a blacksmith or a forge. There's an anvil in the center of the room.
 [u0017 | 00:01:49.780-00:01:52.570 | DM] There's a forge not lit.
 [u0018 | 00:01:52.690-00:02:01.360 | DM] The chimney crumbled that probably couldn't be used safely at this point there's several crates.
 [u0019 | 00:02:01.580-00:02:10.270 | DM] large wooden crates that seem to have been recently pushed around their have gathered less dust than the rest of the
@@ -122,7 +122,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0042 | 00:05:13.350-00:05:17.470 | Dilion] capable, youngish looking looking man, I guess, would be
 [u0043 | 00:05:17.500-00:05:26.210 | Dilion] so. It's trying to study each other. So they're looking everyone else up and down, kind of figuring out that we're all in the same situation together.
 [u0044 | 00:05:30.670-00:05:38.790 | Dilion] I guess I feel around, for like the wooden door, I think that probably be my first thing to look at, probably feeling like
-[u0045 | 00:05:39.030-00:06:06.729 | DM] with like gaps or hinges, or like a walk, or anything. Just kind of studying that with my hands before really engaging with anyone else am I gonna stand up? Is the is the the cage like? It's the ceiling is pretty high. It's maybe 15 feet high. This looks like it was a corner of this workshop, this forge that we're a prison was recently or not super recently, but constructed on top of the the room.
+[u0045 | 00:05:39.030-00:06:06.729 | DM] with like gaps or hinges, or like a wall, or anything. Just kind of studying that with my hands before really engaging with anyone else am I gonna stand up? Is the is the the cage like? It's the ceiling is pretty high. It's maybe 15 feet high. This looks like it was a corner of this workshop, this forge where a prison was recently or not super recently, but constructed on top of the the room.
 [u0046 | 00:06:06.990-00:06:10.879 | DM] Okay? So well,
 [u0047 | 00:06:10.920-00:06:12.500 | DM] that
 [u0048 | 00:06:13.380-00:06:21.790 | Dilion] sorry? What was your character's name? Dylan? Yep, just to make things real nice and easy. Well, Dylan is is
@@ -181,7 +181,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0101 | 00:12:32.000-00:12:33.630 | Dilion] click, that I guess
 [u0102 | 00:12:40.420-00:12:51.860 | DM] dice is very dramatic. And Dnd, yeah, this is weirdly slow. You can also roll on. Roll 20, if that's faster. Not sure why, it's taking like a minute for it to roll.
 [u0103 | 00:12:54.490-00:12:55.789 | Dilion] Oh, hey? Look
-[u0104 | 00:12:55.980-00:13:02.329 | Dilion] a BC, a a little bit of a shove, and then
+[u0104 | 00:12:55.980-00:13:02.329 | Dilion] basically, a little bit of a shove, and then
 [u0105 | 00:13:02.360-00:13:05.310 | DM] your fist just goes right through, and the bottom
 [u0106 | 00:13:05.330-00:13:10.320 | DM] bottom bottom quarter of this of this piece of wood, maybe a good
 [u0107 | 00:13:10.750-00:13:13.919 | DM] you know, 3, 4 feet
@@ -275,7 +275,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0195 | 00:21:31.200-00:21:33.440 | DM] God damn! Morky
 [u0196 | 00:21:36.020-00:21:37.600 | DM] must be cheating.
 [u0197 | 00:21:39.150-00:21:46.600 | Loria] So I turn around to Gaudin in the fireplace. I'm assuming and say.
-[u0198 | 00:21:47.020-00:21:49.560 | Loria] I think I think there's read
+[u0198 | 00:21:47.020-00:21:49.560 | Loria] I think I think there's three
 [u0199 | 00:21:49.670-00:21:50.930 | Loria] maybe more.
 [u0200 | 00:21:51.600-00:21:54.550 | Gaudin] What language? And there's what language are they speaking?
 [u0201 | 00:21:54.770-00:21:56.280 | Loria] It's goblin.
@@ -379,7 +379,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0299 | 00:32:20.660-00:32:25.060 | DM] there's no windows in this room. The only way that light would get out would be through the
 [u0300 | 00:32:25.530-00:32:29.879 | DM] the door into the arty lit room, which isn't really going to be particularly noticeable.
 [u0301 | 00:32:29.990-00:32:33.589 | Dilion] Okay, cool. So I was your change shit. Did you say?
-[u0302 | 00:32:34.300-00:32:43.340 | DM] There's yeah. There's change shirts. There's 3 chain shirts. There's 2 pair, 2 studded leather. There's
+[u0302 | 00:32:34.300-00:32:43.340 | DM] There's yeah. There's chain shirts. There's 3 chain shirts. There's 2 pair, 2 studded leather. There's
 [u0303 | 00:32:43.610-00:32:48.909 | Unknown] 2 leather armor, nothing nothing particularly fancy. Some of these seem to be from.
 [u0304 | 00:32:48.960-00:32:54.140 | DM] you know, maybe local guards, or something like that. The the
 [u0305 | 00:32:54.320-00:33:00.340 | DM] the guards who were who were guarding a merchant shipment or something, and vanished

@@ -1,9 +1,18 @@
 ---
-tags: [session-note]
+tags:
+- session-note
+- status/check/ai
 campaign: Labyrinths
 realWorldDate: 2023-11-12
 sessionNumber: 1
-players: [Acescale, Gaudin, Loria, Dilion]
+players:
+- Acescale
+- Gaudin
+- Loria
+- Dilion
+headerVersion: 2023.11.25
+sessionKey: labyrinths-of-the-lost-session-1
+template: lablost-template.md
 ---
 # Labyrinths of the Lost - Session 1
 >_in Taelgar: October 17th, 1748
@@ -70,7 +79,4 @@ Back in the forge, the party interrogates Folcan, and learns some [[#Plot Develo
 
 If Folcan is true to his word, no one will be coming to bother the party for at least a day. No goblins, at least. 
 
-We end as the party plots there next steps as the sun begins to set. 
-
-
-
+We end as the party plots there next steps as the sun begins to set.

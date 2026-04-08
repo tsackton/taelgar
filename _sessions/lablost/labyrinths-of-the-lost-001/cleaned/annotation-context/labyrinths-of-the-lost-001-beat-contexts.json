@@ -11,6 +11,7 @@
     "beat-005",
     "beat-006"
   ],
+  "supplementalSources": [],
   "contexts": [
     {
       "beat": {
@@ -42,6 +43,8 @@
       "session": {
         "title": null,
         "campaign": "Labyrinths of the Lost",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1748-10-17",
         "drEnd": "1748-10-17",
@@ -74,12 +77,12 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0001",
           "header": "[u0001 | 00:00:03.280-00:00:10.620 | DM]",
-          "text": "We will start our game tonight in a dimly lit run.",
-          "raw": "[u0001 | 00:00:03.280-00:00:10.620 | DM] We will start our game tonight in a dimly lit run."
+          "text": "We will start our game tonight in a dimly lit room.",
+          "raw": "[u0001 | 00:00:03.280-00:00:10.620 | DM] We will start our game tonight in a dimly lit room."
         },
         {
           "uid": "u0002",
@@ -138,8 +141,8 @@
         {
           "uid": "u0011",
           "header": "[u0011 | 00:01:11.480-00:01:18.840 | DM]",
-          "text": "The wall in front of you is not actually a law. It's just a series of iron bars.",
-          "raw": "[u0011 | 00:01:11.480-00:01:18.840 | DM] The wall in front of you is not actually a law. It's just a series of iron bars."
+          "text": "The wall in front of you is not actually a wall. It's just a series of iron bars.",
+          "raw": "[u0011 | 00:01:11.480-00:01:18.840 | DM] The wall in front of you is not actually a wall. It's just a series of iron bars."
         },
         {
           "uid": "u0012",
@@ -168,8 +171,8 @@
         {
           "uid": "u0016",
           "header": "[u0016 | 00:01:37.300-00:01:49.710 | DM]",
-          "text": "just used an long disused workshop, like of a blacksmith or a forge. There's an anvil in the center of the room.",
-          "raw": "[u0016 | 00:01:37.300-00:01:49.710 | DM] just used an long disused workshop, like of a blacksmith or a forge. There's an anvil in the center of the room."
+          "text": "just a long-disused workshop, like of a blacksmith or a forge. There's an anvil in the center of the room.",
+          "raw": "[u0016 | 00:01:37.300-00:01:49.710 | DM] just a long-disused workshop, like of a blacksmith or a forge. There's an anvil in the center of the room."
         },
         {
           "uid": "u0017",
@@ -342,8 +345,8 @@
         {
           "uid": "u0045",
           "header": "[u0045 | 00:05:39.030-00:06:06.729 | DM]",
-          "text": "with like gaps or hinges, or like a walk, or anything. Just kind of studying that with my hands before really engaging with anyone else am I gonna stand up? Is the is the the cage like? It's the ceiling is pretty high. It's maybe 15 feet high. This looks like it was a corner of this workshop, this forge that we're a prison was recently or not super recently, but constructed on top of the the room.",
-          "raw": "[u0045 | 00:05:39.030-00:06:06.729 | DM] with like gaps or hinges, or like a walk, or anything. Just kind of studying that with my hands before really engaging with anyone else am I gonna stand up? Is the is the the cage like? It's the ceiling is pretty high. It's maybe 15 feet high. This looks like it was a corner of this workshop, this forge that we're a prison was recently or not super recently, but constructed on top of the the room."
+          "text": "with like gaps or hinges, or like a wall, or anything. Just kind of studying that with my hands before really engaging with anyone else am I gonna stand up? Is the is the the cage like? It's the ceiling is pretty high. It's maybe 15 feet high. This looks like it was a corner of this workshop, this forge where a prison was recently or not super recently, but constructed on top of the the room.",
+          "raw": "[u0045 | 00:05:39.030-00:06:06.729 | DM] with like gaps or hinges, or like a wall, or anything. Just kind of studying that with my hands before really engaging with anyone else am I gonna stand up? Is the is the the cage like? It's the ceiling is pretty high. It's maybe 15 feet high. This looks like it was a corner of this workshop, this forge where a prison was recently or not super recently, but constructed on top of the the room."
         },
         {
           "uid": "u0046",
@@ -696,8 +699,8 @@
         {
           "uid": "u0104",
           "header": "[u0104 | 00:12:55.980-00:13:02.329 | Dilion]",
-          "text": "a BC, a a little bit of a shove, and then",
-          "raw": "[u0104 | 00:12:55.980-00:13:02.329 | Dilion] a BC, a a little bit of a shove, and then"
+          "text": "basically, a little bit of a shove, and then",
+          "raw": "[u0104 | 00:12:55.980-00:13:02.329 | Dilion] basically, a little bit of a shove, and then"
         },
         {
           "uid": "u0105",
@@ -1260,8 +1263,8 @@
         {
           "uid": "u0198",
           "header": "[u0198 | 00:21:47.020-00:21:49.560 | Loria]",
-          "text": "I think I think there's read",
-          "raw": "[u0198 | 00:21:47.020-00:21:49.560 | Loria] I think I think there's read"
+          "text": "I think I think there's three",
+          "raw": "[u0198 | 00:21:47.020-00:21:49.560 | Loria] I think I think there's three"
         },
         {
           "uid": "u0199",
@@ -1884,8 +1887,8 @@
         {
           "uid": "u0302",
           "header": "[u0302 | 00:32:34.300-00:32:43.340 | DM]",
-          "text": "There's yeah. There's change shirts. There's 3 chain shirts. There's 2 pair, 2 studded leather. There's",
-          "raw": "[u0302 | 00:32:34.300-00:32:43.340 | DM] There's yeah. There's change shirts. There's 3 chain shirts. There's 2 pair, 2 studded leather. There's"
+          "text": "There's yeah. There's chain shirts. There's 3 chain shirts. There's 2 pair, 2 studded leather. There's",
+          "raw": "[u0302 | 00:32:34.300-00:32:43.340 | DM] There's yeah. There's chain shirts. There's 3 chain shirts. There's 2 pair, 2 studded leather. There's"
         },
         {
           "uid": "u0303",
@@ -2613,7 +2616,8 @@
           "text": "Hmm.",
           "raw": "[u0423 | 00:44:25.710-00:44:26.370 | Unknown] Hmm."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -2650,6 +2654,8 @@
       "session": {
         "title": null,
         "campaign": "Labyrinths of the Lost",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1748-10-17",
         "drEnd": "1748-10-17",
@@ -2682,7 +2688,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0424",
           "header": "[u0424 | 00:44:27.040-00:44:51.510 | Dilion]",
@@ -4975,7 +4981,8 @@
           "text": "Oh, the darkness is gone when the when the",
           "raw": "[u0805 | 01:20:48.060-01:20:52.000 | DM] Oh, the darkness is gone when the when the"
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -5012,6 +5019,8 @@
       "session": {
         "title": null,
         "campaign": "Labyrinths of the Lost",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1748-10-17",
         "drEnd": "1748-10-17",
@@ -5044,7 +5053,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0806",
           "header": "[u0806 | 01:20:52.700-01:20:54.329 | DM]",
@@ -7457,7 +7466,8 @@
           "text": "you still think they're gonna serve that up with dinner.",
           "raw": "[u1207 | 02:05:23.020-02:05:25.160 | Loria] you still think they're gonna serve that up with dinner."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -7494,6 +7504,8 @@
       "session": {
         "title": null,
         "campaign": "Labyrinths of the Lost",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1748-10-17",
         "drEnd": "1748-10-17",
@@ -7526,7 +7538,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1208",
           "header": "[u1208 | 02:05:26.780-02:05:42.829 | Acescale]",
@@ -9186,14 +9198,14 @@
         {
           "uid": "u1484",
           "header": "[u1484 | 02:34:42.490-02:34:46.320 | DM]",
-          "text": "and you can hear this, Loria. the Hotel Ulgna.",
-          "raw": "[u1484 | 02:34:42.490-02:34:46.320 | DM] and you can hear this, Loria. the Hotel Ulgna."
+          "text": "and you can hear this, Loria. Tell Ulgna.",
+          "raw": "[u1484 | 02:34:42.490-02:34:46.320 | DM] and you can hear this, Loria. Tell Ulgna."
         },
         {
           "uid": "u1485",
           "header": "[u1485 | 02:34:47.810-02:34:55.709 | DM]",
-          "text": "Marcus had too much to drink. I'm dealing with him. I'm not back in an hour. Send troops to the smithy.",
-          "raw": "[u1485 | 02:34:47.810-02:34:55.709 | DM] Marcus had too much to drink. I'm dealing with him. I'm not back in an hour. Send troops to the smithy."
+          "text": "Morky's had too much to drink. I'm dealing with him. If I'm not back in an hour, send troops to the smithy.",
+          "raw": "[u1485 | 02:34:47.810-02:34:55.709 | DM] Morky's had too much to drink. I'm dealing with him. If I'm not back in an hour, send troops to the smithy."
         },
         {
           "uid": "u1486",
@@ -9312,8 +9324,8 @@
         {
           "uid": "u1505",
           "header": "[u1505 | 02:37:02.440-02:37:06.249 | DM]",
-          "text": "Grab that damn hoffling. Drag her along.",
-          "raw": "[u1505 | 02:37:02.440-02:37:06.249 | DM] Grab that damn hoffling. Drag her along."
+          "text": "Grab that damn halfling. Drag her along.",
+          "raw": "[u1505 | 02:37:02.440-02:37:06.249 | DM] Grab that damn halfling. Drag her along."
         },
         {
           "uid": "u1506",
@@ -9471,7 +9483,8 @@
           "text": "Oh, is it time?",
           "raw": "[u1531 | 02:39:03.630-02:39:21.709 | Gaudin] Oh, is it time?"
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -9508,6 +9521,8 @@
       "session": {
         "title": null,
         "campaign": "Labyrinths of the Lost",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1748-10-17",
         "drEnd": "1748-10-17",
@@ -9540,7 +9555,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1532",
           "header": "[u1532 | 02:39:21.840-02:39:28.429 | DM]",
@@ -9574,8 +9589,8 @@
         {
           "uid": "u1537",
           "header": "[u1537 | 02:39:51.260-02:39:55.399 | DM]",
-          "text": "we've got a headrow",
-          "raw": "[u1537 | 02:39:51.260-02:39:55.399 | DM] we've got a headrow"
+          "text": "we've got a hedgerow",
+          "raw": "[u1537 | 02:39:51.260-02:39:55.399 | DM] we've got a hedgerow"
         },
         {
           "uid": "u1538",
@@ -9640,8 +9655,8 @@
         {
           "uid": "u1548",
           "header": "[u1548 | 02:40:46.290-02:40:48.629 | DM]",
-          "text": "You guys are behind the head drow.",
-          "raw": "[u1548 | 02:40:46.290-02:40:48.629 | DM] You guys are behind the head drow."
+          "text": "You guys are behind the hedgerow.",
+          "raw": "[u1548 | 02:40:46.290-02:40:48.629 | DM] You guys are behind the hedgerow."
         },
         {
           "uid": "u1549",
@@ -10228,8 +10243,8 @@
         {
           "uid": "u1646",
           "header": "[u1646 | 02:49:40.120-02:49:41.180 | DM]",
-          "text": "head drown.",
-          "raw": "[u1646 | 02:49:40.120-02:49:41.180 | DM] head drown."
+          "text": "hedgerow.",
+          "raw": "[u1646 | 02:49:40.120-02:49:41.180 | DM] hedgerow."
         },
         {
           "uid": "u1647",
@@ -10270,8 +10285,8 @@
         {
           "uid": "u1653",
           "header": "[u1653 | 02:50:06.870-02:50:09.120 | DM]",
-          "text": "See you around the head drow.",
-          "raw": "[u1653 | 02:50:06.870-02:50:09.120 | DM] See you around the head drow."
+          "text": "See you around the hedgerow.",
+          "raw": "[u1653 | 02:50:06.870-02:50:09.120 | DM] See you around the hedgerow."
         },
         {
           "uid": "u1654",
@@ -11191,7 +11206,8 @@
           "text": "So we have, like 50 min. Interrogate this guy.",
           "raw": "[u1806 | 03:04:52.800-03:04:56.400 | Gaudin] So we have, like 50 min. Interrogate this guy."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -11223,6 +11239,8 @@
       "session": {
         "title": null,
         "campaign": "Labyrinths of the Lost",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1748-10-17",
         "drEnd": "1748-10-17",
@@ -11255,7 +11273,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1807",
           "header": "[u1807 | 03:04:56.530-03:05:00.409 | DM]",
@@ -11283,8 +11301,8 @@
         {
           "uid": "u1811",
           "header": "[u1811 | 03:05:16.650-03:05:40.730 | DM]",
-          "text": "Yeah, it's like it's like less than 5 min up the road, or it's no. It's like 200 feet up the road was there, but there was one goblin that got sent at the beginning of the battle. The goblin at the beginning got sent this guy Fulkin said. Go tell I'm dealing with Murky. If I'm not back in an hour, send somebody to check.",
-          "raw": "[u1811 | 03:05:16.650-03:05:40.730 | DM] Yeah, it's like it's like less than 5 min up the road, or it's no. It's like 200 feet up the road was there, but there was one goblin that got sent at the beginning of the battle. The goblin at the beginning got sent this guy Fulkin said. Go tell I'm dealing with Murky. If I'm not back in an hour, send somebody to check."
+          "text": "Yeah, it's like it's like less than 5 min up the road, or it's no. It's like 200 feet up the road was there, but there was one goblin that got sent at the beginning of the battle. The goblin at the beginning got sent. This guy Folcan said, go tell them I'm dealing with Morky. If I'm not back in an hour, send somebody to check.",
+          "raw": "[u1811 | 03:05:16.650-03:05:40.730 | DM] Yeah, it's like it's like less than 5 min up the road, or it's no. It's like 200 feet up the road was there, but there was one goblin that got sent at the beginning of the battle. The goblin at the beginning got sent. This guy Folcan said, go tell them I'm dealing with Morky. If I'm not back in an hour, send somebody to check."
         },
         {
           "uid": "u1812",
@@ -11295,14 +11313,14 @@
         {
           "uid": "u1813",
           "header": "[u1813 | 03:05:52.630-03:05:56.729 | DM]",
-          "text": "Okay? So that one got back and said, Tolkien's dealing with",
-          "raw": "[u1813 | 03:05:52.630-03:05:56.729 | DM] Okay? So that one got back and said, Tolkien's dealing with"
+          "text": "Okay? So that one got back and said, Folcan's dealing with",
+          "raw": "[u1813 | 03:05:52.630-03:05:56.729 | DM] Okay? So that one got back and said, Folcan's dealing with"
         },
         {
           "uid": "u1814",
           "header": "[u1814 | 03:05:56.880-03:06:03.630 | DM]",
-          "text": "Marky's gotten got it into the brandy falcons dealing with him. he said, go check if he's not back in an hour",
-          "raw": "[u1814 | 03:05:56.880-03:06:03.630 | DM] Marky's gotten got it into the brandy falcons dealing with him. he said, go check if he's not back in an hour"
+          "text": "Morky's gotten into the brandy. Folcan's dealing with him. He said, go check if he's not back in an hour",
+          "raw": "[u1814 | 03:05:56.880-03:06:03.630 | DM] Morky's gotten into the brandy. Folcan's dealing with him. He said, go check if he's not back in an hour"
         },
         {
           "uid": "u1815",
@@ -11433,8 +11451,8 @@
         {
           "uid": "u1836",
           "header": "[u1836 | 03:07:57.790-03:08:01.249 | Loria]",
-          "text": "Took care of Murky watch alone today.",
-          "raw": "[u1836 | 03:07:57.790-03:08:01.249 | Loria] Took care of Murky watch alone today."
+          "text": "Took care of Morky. Watch alone today.",
+          "raw": "[u1836 | 03:07:57.790-03:08:01.249 | Loria] Took care of Morky. Watch alone today."
         },
         {
           "uid": "u1837",
@@ -12153,8 +12171,8 @@
         {
           "uid": "u1956",
           "header": "[u1956 | 03:18:55.310-03:19:05.659 | DM]",
-          "text": "I'm the one who has the loyalty. I'm the one he pings. Damn augment! She'd probably run away in the tunnels if she was left to her own devices.",
-          "raw": "[u1956 | 03:18:55.310-03:19:05.659 | DM] I'm the one who has the loyalty. I'm the one he pings. Damn augment! She'd probably run away in the tunnels if she was left to her own devices."
+          "text": "I'm the one who has the loyalty. I'm the one he picks. Damn Ulgna! She'd probably run away in the tunnels if she was left to her own devices.",
+          "raw": "[u1956 | 03:18:55.310-03:19:05.659 | DM] I'm the one who has the loyalty. I'm the one he picks. Damn Ulgna! She'd probably run away in the tunnels if she was left to her own devices."
         },
         {
           "uid": "u1957",
@@ -12537,8 +12555,8 @@
         {
           "uid": "u2020",
           "header": "[u2020 | 03:25:10.820-03:25:23.109 | DM]",
-          "text": "down. Stay on guard, and the hob gobblers never go into the tunnels. They're too narrow and uncomfortable. the implication being, if you wanted to long grass, then you",
-          "raw": "[u2020 | 03:25:10.820-03:25:23.109 | DM] down. Stay on guard, and the hob gobblers never go into the tunnels. They're too narrow and uncomfortable. the implication being, if you wanted to long grass, then you"
+          "text": "down. Stay on guard, and the hobgoblins never go into the tunnels. They're too narrow and uncomfortable. the implication being, if you wanted to lie low, then you",
+          "raw": "[u2020 | 03:25:10.820-03:25:23.109 | DM] down. Stay on guard, and the hobgoblins never go into the tunnels. They're too narrow and uncomfortable. the implication being, if you wanted to lie low, then you"
         },
         {
           "uid": "u2021",
@@ -12915,8 +12933,8 @@
         {
           "uid": "u2083",
           "header": "[u2083 | 03:30:35.870-03:30:42.659 | Dilion]",
-          "text": "It's it's like bottle making right? So if so, if he's correct, the the tunnel has what one",
-          "raw": "[u2083 | 03:30:35.870-03:30:42.659 | Dilion] It's it's like bottle making right? So if so, if he's correct, the the tunnel has what one"
+          "text": "It's it's like bottlenecking, right? So if so, if he's correct, the the tunnel has what one",
+          "raw": "[u2083 | 03:30:35.870-03:30:42.659 | Dilion] It's it's like bottlenecking, right? So if so, if he's correct, the the tunnel has what one"
         },
         {
           "uid": "u2084",
@@ -12927,8 +12945,8 @@
         {
           "uid": "u2085",
           "header": "[u2085 | 03:30:49.150-03:30:54.070 | Dilion]",
-          "text": "go by the garden, is one hop God like, get into tunnel. Start going the tunnels, and",
-          "raw": "[u2085 | 03:30:49.150-03:30:54.070 | Dilion] go by the garden, is one hop God like, get into tunnel. Start going the tunnels, and"
+          "text": "go by the garden, it's one hobgoblin, get into tunnel. Start going the tunnels, and",
+          "raw": "[u2085 | 03:30:49.150-03:30:54.070 | Dilion] go by the garden, it's one hobgoblin, get into tunnel. Start going the tunnels, and"
         },
         {
           "uid": "u2086",
@@ -12945,8 +12963,8 @@
         {
           "uid": "u2088",
           "header": "[u2088 | 03:30:57.700-03:31:19.869 | Loria]",
-          "text": "sorry Tim. What's his name? Again. We have to figure out what to do with Tolkien, because he doesn't come back. Then we only have an hour until someone goes and looks for him and finds us gone, raises the alarm with the hob goblet that are guarding. Make it deal with it. Be like, Hey, just look the other way.",
-          "raw": "[u2088 | 03:30:57.700-03:31:19.869 | Loria] sorry Tim. What's his name? Again. We have to figure out what to do with Tolkien, because he doesn't come back. Then we only have an hour until someone goes and looks for him and finds us gone, raises the alarm with the hob goblet that are guarding. Make it deal with it. Be like, Hey, just look the other way."
+          "text": "sorry Tim. What's his name? Again. We have to figure out what to do with Folcan, because he doesn't come back. Then we only have an hour until someone goes and looks for him and finds us gone, raises the alarm with the hobgoblins that are guarding. Make him deal with it. Be like, Hey, just look the other way.",
+          "raw": "[u2088 | 03:30:57.700-03:31:19.869 | Loria] sorry Tim. What's his name? Again. We have to figure out what to do with Folcan, because he doesn't come back. Then we only have an hour until someone goes and looks for him and finds us gone, raises the alarm with the hobgoblins that are guarding. Make him deal with it. Be like, Hey, just look the other way."
         },
         {
           "uid": "u2089",
@@ -13089,8 +13107,8 @@
         {
           "uid": "u2112",
           "header": "[u2112 | 03:34:12.970-03:34:17.389 | DM]",
-          "text": "They don't need a bother. He's punishing Murky and them with",
-          "raw": "[u2112 | 03:34:12.970-03:34:17.389 | DM] They don't need a bother. He's punishing Murky and them with"
+          "text": "They don't need to bother. He's punishing Morky and them with",
+          "raw": "[u2112 | 03:34:12.970-03:34:17.389 | DM] They don't need to bother. He's punishing Morky and them with"
         },
         {
           "uid": "u2113",
@@ -13098,7 +13116,8 @@
           "text": "solitary confinement with the prisoners for the next 3 days, and we'll pick up with where you want to go from. There.",
           "raw": "[u2113 | 03:34:17.550-03:34:29.689 | DM] solitary confinement with the prisoners for the next 3 days, and we'll pick up with where you want to go from. There."
         }
-      ]
+      ],
+      "supplementalSources": []
     }
   ]
 }
