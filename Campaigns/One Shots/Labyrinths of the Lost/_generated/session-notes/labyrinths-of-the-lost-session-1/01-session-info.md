@@ -11,11 +11,11 @@ Labyrinths of the Lost - Session 1
 <!-- /SLOT -->
 
 <!-- SLOT: session.desc_title -->
-Escape!
+Escape
 <!-- /SLOT -->
 
 <!-- SLOT: session.tagline -->
-in which the prisoners turn the tables on their goblin guards
+in which four captives turn the tables on their goblin guards
 <!-- /SLOT -->
 
 <!-- SLOT: session.summary -->
@@ -76,8 +76,7 @@ Sunday, November 12, 2023
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->
-- Perdoli Manor: crude prison cell, abandoned smithy, and adjoining storage room
-  - visited on 1748-10-17
+- Perdoli Manor (prison cell, abandoned smithy, adjoining storage room, barracks path): ruined manor estate where goblins hold prisoners and guard routes toward the main house.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->
