@@ -3,8 +3,8 @@
 ## Session Header
 
 - Title: Labyrinths of the Lost - Session 1
-- Desc Title: Escape!
-- Tagline: in which the prisoners turn the tables on their goblin guards
+- Desc Title: Escape
+- Tagline: in which four captives turn the tables on their goblin guards
 - One-Sentence Summary: Four prisoners break out of a smithy cell on the grounds of Perdoli Manor, kill two groups of goblin guards, capture the goblin Folcan, and learn that Grimstone captures prisoners weekly, who disappear into the manor.
 - Campaign: Labyrinths of the Lost
 - Scope: session
@@ -203,8 +203,10 @@ Back at the smithy, the party revives Folcan, strips him of his bone staff, and 
 
 ## Locations
 
-- Perdoli Manor: crude prison cell, abandoned smithy, and adjoining storage room
-  - visited on 1748-10-17
+- Perdoli Manor
+  - Summary: ruined manor estate where goblins hold prisoners and guard routes toward the main house.
+  - Sublocations: prison cell, abandoned smithy, adjoining storage room, barracks path
+  - Date Visited: 1748-10-17
 
 ## Organizations And Items
 

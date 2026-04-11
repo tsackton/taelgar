@@ -9,13 +9,14 @@ DR_end: 1748-10-17
 players: [Acescale, Gaudin, Loria, Dilion]
 companions: []
 name: Labyrinths of the Lost - Session 1
-descTitle: Escape!
-tagline: in which the prisoners turn the tables on their goblin guards
-sessionManifest: "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-session.yaml"
+descTitle: Escape
+tagline: in which four captives turn the tables on their goblin guards
+sessionKey: labyrinths-of-the-lost-session-1
+template: lablost-template.md
 ---
 # Labyrinths of the Lost - Session 1
 
->[!info] Escape!: in which the prisoners turn the tables on their goblin guards
+>[!info] Escape: in which four captives turn the tables on their goblin guards
 > *Featuring: Acescale, Gaudin, Loria, Dilion*
 > *In Taelgar: (DR:: 1748-10-17)*
 > *On Earth: Sunday, November 12, 2023*
@@ -39,8 +40,7 @@ Four prisoners break out of a smithy cell on the grounds of Perdoli Manor, kill 
 
 ## Places
 
-- Perdoli Manor: crude prison cell, abandoned smithy, and adjoining storage room
-  - visited on 1748-10-17
+- Perdoli Manor (prison cell, abandoned smithy, adjoining storage room, barracks path): ruined manor estate where goblins hold prisoners and guard routes toward the main house.
 
 ## Combat
 

@@ -1,6 +1,8 @@
 # ignore .DS_Store
 .DS_Store
 
+_scripts/__pycache__/
+
 # ignore DM STUFF
 _DM_/
 

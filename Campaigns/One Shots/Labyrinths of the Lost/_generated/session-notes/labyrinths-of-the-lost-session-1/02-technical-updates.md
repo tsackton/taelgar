@@ -10,6 +10,10 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 - Candidate party whereabouts: (DR:: 1748-10-17), afternoon: party ends at [[Perdoli Manor]].
 <!-- /SLOT -->
 
+<!-- SLOT: updates.whereabouts.locations -->
+- Perdoli Manor: visited on 1748-10-17.
+<!-- /SLOT -->
+
 <!-- SLOT: updates.whereabouts.npcs -->
 - Morky: candidate whereabouts update from (DR:: 1748-10-17), afternoon -> [[Perdoli Manor]].
 - Norrica: candidate whereabouts update from (DR:: 1748-10-17), afternoon -> [[Perdoli Manor]].
