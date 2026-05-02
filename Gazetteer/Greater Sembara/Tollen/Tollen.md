@@ -1,14 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+tags: [place]
 name: Free City of Tollen
 typeOf: settlement
 whereabouts: Western Green Sea
-aliases:
-  - Free City of Tollen
-  - Tollen
-  - Tollender
+aliases: [Free City of Tollen,  Tollen, Tollender]
 dm_owner: tim
 dm_notes: important
 typeOfAlias: city
@@ -158,7 +154,7 @@ Tollen is not primarily a producer city; it’s a finisher and redistributor.
 - its own colonies and trading fleets (exotic dye-stuffs, magical reagents, rare woods, oils).
 
  It turns those into high-value, high-prestige goods, especially:
--  dyed cloth (Tollen red and friends),    
+- dyed cloth (Tollen red and friends),    
 - fine garments,
 - leather goods,
 - magical inks and tattoos,
