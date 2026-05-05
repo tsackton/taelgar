@@ -17,8 +17,20 @@ import yaml
 
 VAULT_ROOT = Path(__file__).resolve().parents[1]
 CAMPAIGN_MAP_PATH = Path(__file__).with_name("session_note_campaigns.json")
-AI_TAG = "status/check/ai"
+OBSIDIAN_METADATA_PATH = VAULT_ROOT / ".obsidian" / "metadata.json"
 SESSION_NOTE_TAG = "session-note"
+
+
+class FrontmatterDumper(yaml.SafeDumper):
+    pass
+
+
+def represent_frontmatter_list(dumper: yaml.SafeDumper, data: List[Any]) -> yaml.SequenceNode:
+    flow_style = all(not isinstance(item, (dict, list, tuple)) for item in data)
+    return dumper.represent_sequence("tag:yaml.org,2002:seq", data, flow_style=flow_style)
+
+
+FrontmatterDumper.add_representer(list, represent_frontmatter_list)
 
 
 class SessionRecapParseError(Exception):
@@ -64,6 +76,7 @@ class VaultNoteIndex:
         self.generated_root = generated_root
         self.by_basename: Dict[str, List[Dict[str, Any]]] = {}
         self.by_alias: Dict[str, List[Dict[str, Any]]] = {}
+        self._autolink_candidates: Optional[List[Tuple[str, Dict[str, Any]]]] = None
         self._load()
 
     def _load(self) -> None:
@@ -86,6 +99,68 @@ class VaultNoteIndex:
             return ResolutionResult(name, None, f"multiple matching notes found ({paths})")
         return ResolutionResult(name, candidates[0])
 
+    def autolink_text(self, text: str, *, autolink_terms: set[str]) -> str:
+        if not text.strip():
+            return text
+
+        allowed_single_word_keys = {normalize_name(term) for term in autolink_terms if term.strip()}
+        placeholders: Dict[str, str] = {}
+
+        def protect_span(match: re.Match[str]) -> str:
+            token = f"\uE000{len(placeholders)}\uE000"
+            placeholders[token] = match.group(0)
+            return token
+
+        working = re.sub(r"```.*?```", protect_span, text, flags=re.DOTALL)
+        working = re.sub(r"`[^`\n]+`", protect_span, working)
+        working = re.sub(r"\[\[[^\]]+\]\]", protect_span, working)
+
+        for candidate, note in self.autolink_candidates():
+            if is_single_word_candidate(candidate) and normalize_name(candidate) not in allowed_single_word_keys:
+                continue
+            pattern = compile_autolink_pattern(candidate)
+
+            def replace_match(match: re.Match[str], note: Dict[str, Any] = note) -> str:
+                token = f"\uE000{len(placeholders)}\uE000"
+                placeholders[token] = ResolutionResult(candidate, note).link(match.group(0))
+                return token
+
+            working = pattern.sub(replace_match, working)
+
+        for token, value in placeholders.items():
+            working = working.replace(token, value)
+        return working
+
+    def autolink_candidates(self) -> List[Tuple[str, Dict[str, Any]]]:
+        if self._autolink_candidates is not None:
+            return self._autolink_candidates
+        candidates_by_key: Dict[str, Tuple[str, Dict[str, Any]]] = {}
+        ambiguous: set[str] = set()
+
+        def add_candidate(display: str, note: Dict[str, Any]) -> None:
+            clean = normalize_autolink_candidate(display)
+            if clean is None:
+                return
+            key = normalize_name(clean)
+            existing = candidates_by_key.get(key)
+            if existing is not None and existing[1]["path"] != note["path"]:
+                ambiguous.add(key)
+                return
+            candidates_by_key[key] = (clean, note)
+
+        for notes in self.by_basename.values():
+            for note in notes:
+                add_candidate(note["path"].stem, note)
+                for alias in normalize_aliases(note.get("frontmatter", {}).get("aliases")):
+                    add_candidate(alias, note)
+
+        self._autolink_candidates = sorted(
+            [candidate for key, candidate in candidates_by_key.items() if key not in ambiguous],
+            key=lambda item: len(item[0]),
+            reverse=True,
+        )
+        return self._autolink_candidates
+
 
 def parse_args(campaigns: Dict[str, Dict[str, Any]]) -> argparse.Namespace:
     parser = argparse.ArgumentParser(
@@ -100,6 +175,7 @@ def parse_args(campaigns: Dict[str, Dict[str, Any]]) -> argparse.Namespace:
 
 def main() -> int:
     campaigns = load_campaigns()
+    display_metadata = load_display_metadata()
     args = parse_args(campaigns)
     canonical_slug, config = resolve_campaign(args.campaign, campaigns)
 
@@ -119,7 +195,13 @@ def main() -> int:
     component_dir.mkdir(parents=True, exist_ok=True)
 
     note_index = VaultNoteIndex(VAULT_ROOT, generated_root)
-    slots = build_slots(recap=recap, note_index=note_index, session_payload=session_payload)
+    slots = build_slots(
+        recap=recap,
+        note_index=note_index,
+        session_payload=session_payload,
+        campaign_slug=canonical_slug,
+        display_metadata=display_metadata,
+    )
 
     write_component_file(
         component_dir / "01-session-info.md",
@@ -160,6 +242,13 @@ def load_campaigns() -> Dict[str, Dict[str, Any]]:
     if not isinstance(campaigns, dict) or not campaigns:
         raise SystemExit(f"Campaign map is missing a non-empty 'campaigns' object: {CAMPAIGN_MAP_PATH}")
     return campaigns
+
+
+def load_display_metadata() -> Dict[str, Any]:
+    payload = json.loads(OBSIDIAN_METADATA_PATH.read_text(encoding="utf-8"))
+    if not isinstance(payload, dict):
+        raise SystemExit(f"Expected a JSON object in {OBSIDIAN_METADATA_PATH}")
+    return payload
 
 
 def build_campaign_lookup(campaigns: Dict[str, Dict[str, Any]]) -> Dict[str, str]:
@@ -257,7 +346,7 @@ def normalize_tags(value: Any) -> List[str]:
         tags = [value.strip()]
     else:
         tags = []
-    for required in (SESSION_NOTE_TAG, AI_TAG):
+    for required in (SESSION_NOTE_TAG,):
         if required not in tags:
             tags.append(required)
     return tags
@@ -278,14 +367,14 @@ def ensure_base_note(*, note_path: Path, session_key: str, template_name: str) -
     else:
         frontmatter = {
             "headerVersion": "2023.11.25",
-            "tags": [SESSION_NOTE_TAG, AI_TAG],
+            "tags": [SESSION_NOTE_TAG],
             "sessionKey": session_key,
             "template": template_name,
         }
         body_text = ""
         status = "Created"
 
-    frontmatter_text = yaml.safe_dump(frontmatter, sort_keys=False).strip()
+    frontmatter_text = dump_frontmatter(frontmatter)
     if body_text:
         text = f"---\n{frontmatter_text}\n---\n{body_text.rstrip()}\n"
     else:
@@ -293,6 +382,10 @@ def ensure_base_note(*, note_path: Path, session_key: str, template_name: str) -
     note_path.parent.mkdir(parents=True, exist_ok=True)
     note_path.write_text(text, encoding="utf-8")
     return status
+
+
+def dump_frontmatter(frontmatter: Dict[str, Any]) -> str:
+    return yaml.dump(frontmatter, Dumper=FrontmatterDumper, sort_keys=False).strip()
 
 
 def parse_session_recap(text: str) -> Dict[str, Any]:
@@ -637,7 +730,7 @@ def parse_location_entries(lines: Sequence[str], label: str, errors: List[str]) 
             }
         else:
             current = {
-                "name": body.strip(),
+                "name": normalize_wikilink_name(body.strip()),
                 "summary": None,
                 "sublocations": None,
                 "dateVisited": None,
@@ -681,7 +774,7 @@ def parse_named_entry(body: str, label: str, errors: List[str], *, allow_relatio
         errors.append(f"{label} entry is malformed: {body}")
         return None
     return {
-        "name": match.group("name").strip(),
+        "name": normalize_wikilink_name(match.group("name").strip()),
         "relation": (match.groupdict().get("relation") or "").strip(),
         "context": match.group("context").strip(),
     }
@@ -692,7 +785,7 @@ def parse_history_line(body: str, label: str, errors: List[str]) -> Optional[Dic
         errors.append(f"{label} history line is malformed: {body}")
         return None
     location, date_text = body.rsplit(", ", 1)
-    return {"raw": body, "location": location.strip(), "date": date_text.strip()}
+    return {"raw": body, "location": normalize_wikilink_name(location.strip()), "date": date_text.strip()}
 
 
 def parse_visit_line(body: str, label: str, errors: List[str]) -> Optional[Dict[str, str]]:
@@ -709,7 +802,15 @@ def parse_name_list(value: Optional[str]) -> List[str]:
     stripped = value.strip()
     if not stripped or stripped == "none":
         return []
-    return [item.strip() for item in stripped.split(",") if item.strip()]
+    return [normalize_wikilink_name(item.strip()) for item in stripped.split(",") if item.strip()]
+
+
+def normalize_wikilink_name(value: str) -> str:
+    text = value.strip()
+    match = re.fullmatch(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]", text)
+    if not match:
+        return text
+    return (match.group(1) or "").strip()
 
 
 def build_component_dir_name(session_payload: Dict[str, Any], *, fallback: str) -> str:
@@ -721,7 +822,14 @@ def build_component_dir_name(session_payload: Dict[str, Any], *, fallback: str) 
     return slugify_text(fallback)
 
 
-def build_slots(*, recap: Dict[str, Any], note_index: VaultNoteIndex, session_payload: Dict[str, Any]) -> Dict[str, Dict[str, str]]:
+def build_slots(
+    *,
+    recap: Dict[str, Any],
+    note_index: VaultNoteIndex,
+    session_payload: Dict[str, Any],
+    campaign_slug: str,
+    display_metadata: Dict[str, Any],
+) -> Dict[str, Dict[str, str]]:
     review_lines: List[str] = []
     info_slots: Dict[str, str] = {}
     technical_slots: Dict[str, str] = {}
@@ -734,6 +842,7 @@ def build_slots(*, recap: Dict[str, Any], note_index: VaultNoteIndex, session_pa
     info_slots["session.summary"] = header.get("One-Sentence Summary", "")
     info_slots["session.dm"] = header.get("DM", "")
     info_slots["session.pcs"] = render_inline_csv_as_bullets(header.get("PCs", ""))
+    info_slots["session.pcs_plain_inline"] = render_inline_csv_plain(header.get("PCs", ""))
     info_slots["session.pcs_inline"] = render_inline_csv_as_links(header.get("PCs", ""), note_index)
     info_slots["session.session_number"] = render_scalar(session_payload.get("sessionNumber"))
     info_slots["session.dr_date"] = header.get("DR Date", "")
@@ -743,18 +852,34 @@ def build_slots(*, recap: Dict[str, Any], note_index: VaultNoteIndex, session_pa
     info_slots["session.real_date_long"] = format_real_date_long(header.get("Real Date", ""))
     info_slots["timeline"] = render_timeline_slot(recap["timeline"])
 
-    cast_text, cast_reviews = render_entity_slot(recap["cast"], note_index, entity_kind="person")
+    cast_text, cast_reviews = render_entity_slot(
+        recap["cast"],
+        note_index,
+        campaign_slug=campaign_slug,
+        display_metadata=display_metadata,
+    )
     info_slots["cast"] = cast_text
     review_lines.extend(cast_reviews)
 
-    locations_text, location_reviews = render_location_slot(recap["locations"], note_index)
+    locations_text, location_reviews = render_location_slot(
+        recap["locations"],
+        note_index,
+        campaign_slug=campaign_slug,
+        display_metadata=display_metadata,
+    )
     info_slots["locations"] = locations_text
     info_slots["locations.inline"] = render_inline_location_links(recap["locations"], note_index)
     review_lines.extend(location_reviews)
 
     info_slots["combat.summary"] = render_combat_slot(recap["combat"])
 
-    items_text, item_reviews = render_entity_slot(recap["items"], note_index, entity_kind="object", include_history=True)
+    items_text, item_reviews = render_entity_slot(
+        recap["items"],
+        note_index,
+        include_history=True,
+        campaign_slug=campaign_slug,
+        display_metadata=display_metadata,
+    )
     info_slots["items.treasure"] = items_text
     review_lines.extend(item_reviews)
 
@@ -774,6 +899,11 @@ def build_slots(*, recap: Dict[str, Any], note_index: VaultNoteIndex, session_pa
     narrative_slots["narrative.intermediate"] = join_recap_zoom(recap["recap"], "intermediate")
     narrative_slots["narrative.long"] = join_recap_zoom(recap["recap"], "long")
 
+    autolink_terms = collect_autolink_terms(recap)
+    autolink_slots(info_slots, note_index, autolink_terms=autolink_terms)
+    autolink_slots(technical_slots, note_index, autolink_terms=autolink_terms)
+    autolink_slots(narrative_slots, note_index, autolink_terms=autolink_terms)
+
     return {"info": info_slots, "technical": technical_slots, "narrative": narrative_slots}
 
 
@@ -791,8 +921,9 @@ def render_entity_slot(
     entries: Sequence[Dict[str, Any]],
     note_index: VaultNoteIndex,
     *,
-    entity_kind: str,
     include_history: bool = False,
+    campaign_slug: str,
+    display_metadata: Dict[str, Any],
 ) -> Tuple[str, List[str]]:
     lines: List[str] = []
     review_lines: List[str] = []
@@ -801,19 +932,29 @@ def render_entity_slot(
         if resolution.warning:
             review_lines.append(f"- {entry['name']}: {resolution.warning}")
         display_name = resolution.link(entry["name"])
-        note_context, context_reviews = build_note_context(entry, resolution, entity_kind=entity_kind)
+        note_context, context_reviews = build_note_context(
+            entry,
+            resolution,
+            campaign_slug=campaign_slug,
+            display_metadata=display_metadata,
+        )
         review_lines.extend(context_reviews)
-        context_text = entry["context"]
         if note_context:
-            context_text = f"{context_text}. Existing note context: {note_context}."
-        lines.append(f"- {display_name}: {context_text}")
+            display_name = f"{display_name} ({note_context})"
+        lines.append(f"- {display_name}: {ensure_sentence(entry['context'])}")
         if include_history:
             for history in entry.get("history", []):
                 lines.append(f"  - {history['raw']}")
     return "\n".join(lines).strip(), dedupe_lines(review_lines)
 
 
-def render_location_slot(entries: Sequence[Dict[str, Any]], note_index: VaultNoteIndex) -> Tuple[str, List[str]]:
+def render_location_slot(
+    entries: Sequence[Dict[str, Any]],
+    note_index: VaultNoteIndex,
+    *,
+    campaign_slug: str,
+    display_metadata: Dict[str, Any],
+) -> Tuple[str, List[str]]:
     lines: List[str] = []
     review_lines: List[str] = []
     for entry in entries:
@@ -821,15 +962,21 @@ def render_location_slot(entries: Sequence[Dict[str, Any]], note_index: VaultNot
         if resolution.warning:
             review_lines.append(f"- {entry['name']}: {resolution.warning}")
         display_name = resolution.link(entry["name"])
-        note_context, context_reviews = build_note_context(entry, resolution, entity_kind="place")
+        note_context, context_reviews = build_note_context(
+            entry,
+            resolution,
+            campaign_slug=campaign_slug,
+            display_metadata=display_metadata,
+        )
         review_lines.extend(context_reviews)
         context_text = normalize_optional_string(entry.get("summary")) or normalize_optional_string(entry.get("context")) or "TODO"
         sublocations = normalize_optional_string(entry.get("sublocations"))
-        if sublocations and sublocations.casefold() != "none":
-            display_name = f"{display_name} ({sublocations})"
         if note_context:
-            context_text = f"{context_text}. Existing note context: {note_context}."
-        lines.append(f"- {display_name}: {context_text}")
+            display_name = f"{display_name} ({note_context})"
+        context_parts = [ensure_sentence(context_text)]
+        if sublocations and sublocations.casefold() != "none":
+            context_parts.append(f"Session context includes: {format_natural_list(split_csvish(sublocations))}.")
+        lines.append(f"- {display_name}: {' '.join(context_parts)}")
     return "\n".join(lines).strip(), dedupe_lines(review_lines)
 
 
@@ -877,7 +1024,8 @@ def build_entity_whereabouts_updates(
     for entry in entries:
         if entry["name"] not in final_npcs:
             continue
-        final_location = infer_last_history_location(entry.get("history", []))
+        final_history = infer_last_history_entry(entry.get("history", []))
+        final_location = final_history["location"] if final_history is not None else None
         if final_location is None:
             review_lines.append(f"- {entry['name']}: appears in the final timeline block but has no parseable end-state history.")
             continue
@@ -886,6 +1034,7 @@ def build_entity_whereabouts_updates(
         lines.append(
             f"- {display_name}: candidate whereabouts update from {final_timeline.get('timelineKey') or final_timeline.get('heading')} -> {format_wikilink(final_location)}."
         )
+        lines.append(f"  - Whereabouts line: `{format_whereabouts_yaml_entry(final_location, final_history.get('date'))}`")
         metadata_location = resolution.simple_whereabouts()
         if metadata_location and normalize_name(metadata_location) != normalize_name(final_location):
             review_lines.append(
@@ -939,52 +1088,184 @@ def join_recap_zoom(recap_blocks: Sequence[Dict[str, Any]], field_name: str) -> 
     return "\n\n".join(parts).strip()
 
 
-def build_note_context(entry: Dict[str, Any], resolution: ResolutionResult, *, entity_kind: str) -> Tuple[str, List[str]]:
+def build_note_context(
+    entry: Dict[str, Any],
+    resolution: ResolutionResult,
+    *,
+    campaign_slug: str,
+    display_metadata: Dict[str, Any],
+) -> Tuple[str, List[str]]:
     if resolution.note is None:
         return "", []
-    metadata = resolution.note.get("frontmatter", {})
-    context_bits: List[str] = []
-    review_lines: List[str] = []
+    page_type = get_page_type(resolution.note.get("frontmatter", {}))
+    return resolve_session_note_context_tokens(
+        display_metadata=display_metadata,
+        page_type=page_type,
+        campaign_slug=campaign_slug,
+    ), []
 
-    if entity_kind == "person":
-        if normalize_optional_string(metadata.get("ancestry")):
-            context_bits.append(str(metadata["ancestry"]).strip())
-        if normalize_optional_string(metadata.get("species")):
-            context_bits.append(str(metadata["species"]).strip())
-        if normalize_optional_string(metadata.get("gender")):
-            context_bits.append(str(metadata["gender"]).strip())
-        if normalize_optional_string(metadata.get("pronunciation")):
-            context_bits.append(f"pronounced {str(metadata['pronunciation']).strip()}")
-    elif entity_kind == "place":
-        if normalize_optional_string(metadata.get("partOf")):
-            context_bits.append(f"part of {metadata['partOf']}")
-        if normalize_optional_string(metadata.get("whereabouts")):
-            context_bits.append(f"located in {metadata['whereabouts']}")
-        if normalize_optional_string(metadata.get("typeOf")):
-            context_bits.append(str(metadata["typeOf"]).strip())
-    elif entity_kind == "object":
-        if normalize_optional_string(metadata.get("typeOf")):
-            context_bits.append(str(metadata["typeOf"]).strip())
-        if normalize_optional_string(metadata.get("owner")):
-            context_bits.append(f"owned by {metadata['owner']}")
-        if normalize_optional_string(metadata.get("whereabouts")):
-            context_bits.append(f"kept in {metadata['whereabouts']}")
-    else:
-        if normalize_optional_string(metadata.get("typeOf")):
-            context_bits.append(str(metadata["typeOf"]).strip())
-        if normalize_optional_string(metadata.get("whereabouts")):
-            context_bits.append(str(metadata["whereabouts"]).strip())
 
-    return "; ".join(context_bits), review_lines
+def get_page_type(metadata: Dict[str, Any]) -> str:
+    tags = normalize_tag_list(metadata.get("tags"))
+    for tag in tags:
+        for page_type in ("person", "place", "object", "event", "group", "power", "ancestry", "creature"):
+            if tag.startswith(page_type):
+                return page_type
+    return "unknown"
+
+
+def normalize_tag_list(value: Any) -> List[str]:
+    if isinstance(value, list):
+        return [str(item).strip().lstrip("#") for item in value if str(item).strip()]
+    if isinstance(value, str):
+        return [value.strip().lstrip("#")] if value.strip() else []
+    return []
+
+
+def resolve_session_note_context_tokens(
+    *,
+    display_metadata: Dict[str, Any],
+    page_type: str,
+    campaign_slug: str,
+) -> str:
+    type_defaults = display_metadata.get("typeDisplayDefaults")
+    if not isinstance(type_defaults, dict):
+        raise SystemExit(f"{OBSIDIAN_METADATA_PATH} is missing typeDisplayDefaults.")
+
+    page_defaults = type_defaults.get(page_type)
+    if not isinstance(page_defaults, dict):
+        raise SystemExit(f"{OBSIDIAN_METADATA_PATH} is missing typeDisplayDefaults.{page_type}.")
+
+    session_note = page_defaults.get("sessionNote")
+    if not isinstance(session_note, dict):
+        raise SystemExit(f"{OBSIDIAN_METADATA_PATH} is missing typeDisplayDefaults.{page_type}.sessionNote.")
+
+    configured = session_note.get(campaign_slug, session_note.get("default"))
+    if not isinstance(configured, str) or not configured.strip():
+        raise SystemExit(
+            f"{OBSIDIAN_METADATA_PATH} is missing a non-empty "
+            f"typeDisplayDefaults.{page_type}.sessionNote.default."
+        )
+    return configured.strip()
+
+
+AUTOLINK_SLOT_NAMES = {
+    "session.summary",
+    "session.pcs",
+    "session.pcs_inline",
+    "timeline",
+    "cast",
+    "locations",
+    "locations.inline",
+    "combat.summary",
+    "items.treasure",
+    "updates.whereabouts.party",
+    "updates.whereabouts.locations",
+    "updates.whereabouts.npcs",
+    "updates.timeline",
+    "updates.items",
+    "narrative.short",
+    "narrative.intermediate",
+    "narrative.long",
+}
+
+
+def collect_autolink_terms(recap: Dict[str, Any]) -> set[str]:
+    terms: set[str] = set()
+
+    def add(value: Any) -> None:
+        text = normalize_optional_string(value)
+        if text is not None and text.casefold() != "none":
+            terms.add(strip_wikilinks(text))
+
+    for part in recap.get("header", {}).get("PCs", "").split(","):
+        add(part)
+    for section_name in ("timeline", "recap"):
+        for block in recap.get(section_name, []):
+            for list_name in ("locations", "npcs", "organizations", "items", "enemies"):
+                for item in block.get(list_name, []):
+                    add(item)
+    for entry in recap.get("cast", []):
+        add(entry.get("name"))
+    for entry in recap.get("locations", []):
+        add(entry.get("name"))
+    for entry in recap.get("organizations", []):
+        add(entry.get("name"))
+    for entry in recap.get("items", []):
+        add(entry.get("name"))
+    for combat in recap.get("combat", []):
+        for enemy in combat.get("enemies", []):
+            add(enemy)
+    for match in re.finditer(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]", recap.get("rawText", "")):
+        add(match.group(1))
+        add(match.group(2))
+    return terms
+
+
+def autolink_slots(slots: Dict[str, str], note_index: VaultNoteIndex, *, autolink_terms: set[str]) -> None:
+    for slot_name, slot_body in list(slots.items()):
+        if slot_name in AUTOLINK_SLOT_NAMES and slot_body:
+            slots[slot_name] = note_index.autolink_text(slot_body, autolink_terms=autolink_terms)
+
+
+def ensure_sentence(value: str) -> str:
+    text = value.strip()
+    if not text:
+        return text
+    if text.endswith((".", "!", "?")):
+        return text
+    return f"{text}."
+
+
+def split_csvish(value: str) -> List[str]:
+    return [part.strip() for part in value.split(",") if part.strip()]
+
+
+def format_natural_list(parts: Sequence[str]) -> str:
+    clean = [part.strip() for part in parts if part.strip()]
+    if not clean:
+        return "none"
+    if len(clean) == 1:
+        return clean[0]
+    if len(clean) == 2:
+        return f"{clean[0]} and {clean[1]}"
+    return ", ".join(clean[:-1]) + f", and {clean[-1]}"
 
 
 def infer_last_history_location(history: Sequence[Dict[str, str]]) -> Optional[str]:
+    entry = infer_last_history_entry(history)
+    if entry is None:
+        return None
+    return entry["location"]
+
+
+def infer_last_history_entry(history: Sequence[Dict[str, str]]) -> Optional[Dict[str, str]]:
     if not history:
         return None
     raw_location = history[-1]["location"]
     if "->" in raw_location:
-        return raw_location.split("->")[-1].strip()
-    return raw_location.strip() or None
+        location = raw_location.split("->")[-1].strip()
+    else:
+        location = raw_location.strip()
+    if not location:
+        return None
+    return {"location": location, "date": history[-1].get("date", "").strip()}
+
+
+def format_whereabouts_yaml_entry(location: str, start: Optional[str]) -> str:
+    fields = ["type: away"]
+    clean_start = normalize_optional_string(start)
+    if clean_start and clean_start.casefold() != "unknown":
+        fields.append(f"start: {format_inline_yaml_scalar(clean_start)}")
+    fields.append(f"location: {format_inline_yaml_scalar(strip_wikilinks(location))}")
+    return "- {" + ", ".join(fields) + "}"
+
+
+def format_inline_yaml_scalar(value: str) -> str:
+    text = strip_wikilinks(value).strip()
+    if re.fullmatch(r"[A-Za-z0-9][A-Za-z0-9 ._'/&+-]*", text):
+        return text
+    return json.dumps(text)
 
 
 def infer_location_date_visited(entry: Dict[str, Any]) -> Optional[str]:
@@ -1000,6 +1281,11 @@ def infer_location_date_visited(entry: Dict[str, Any]) -> Optional[str]:
 def render_inline_csv_as_bullets(value: str) -> str:
     parts = [part.strip() for part in value.split(",") if part.strip()]
     return "\n".join(f"- {part}" for part in parts) if parts else "- none"
+
+
+def render_inline_csv_plain(value: str) -> str:
+    parts = [strip_wikilinks(part.strip()) for part in value.split(",") if part.strip()]
+    return ", ".join(parts)
 
 
 def render_inline_csv_as_links(value: str, note_index: VaultNoteIndex) -> str:
@@ -1038,9 +1324,8 @@ def render_scalar(value: Any) -> str:
 def write_component_file(path: Path, *, title: str, session_manifest: str, slots: Dict[str, str]) -> None:
     lines: List[str] = [
         "---",
-        f"tags: [{AI_TAG}]",
         'excludePublish: ["all"]',
-        f"sessionManifest: {json.dumps(session_manifest)}",
+        f"sessionManifest: {json.dumps(strip_wikilinks(session_manifest))}",
         "---",
         "",
         f"# {title}",
@@ -1052,7 +1337,20 @@ def write_component_file(path: Path, *, title: str, session_manifest: str, slots
             lines.append(slot_body)
         lines.append("<!-- /SLOT -->")
         lines.append("")
+    validate_no_frontmatter_wikilinks(lines, path)
     path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+
+
+def validate_no_frontmatter_wikilinks(lines: Sequence[str], path: Path) -> None:
+    if not lines or lines[0] != "---":
+        return
+    try:
+        end_index = list(lines[1:]).index("---") + 1
+    except ValueError:
+        return
+    frontmatter = "\n".join(lines[1:end_index])
+    if "[[" in frontmatter or "]]" in frontmatter:
+        raise ValueError(f"Generated YAML frontmatter contains wikilinks: {path}")
 
 
 def dedupe_notes(notes: Iterable[Dict[str, Any]]) -> List[Dict[str, Any]]:
@@ -1118,6 +1416,24 @@ def normalize_name(value: str) -> str:
     return re.sub(r"\s+", " ", value.strip().lower())
 
 
+def normalize_autolink_candidate(value: str) -> Optional[str]:
+    text = strip_wikilinks(value).strip()
+    text = re.sub(r"\s+", " ", text)
+    if len(text) < 3:
+        return None
+    if not re.search(r"[A-Za-z0-9]", text):
+        return None
+    return text
+
+
+def is_single_word_candidate(value: str) -> bool:
+    return not re.search(r"\s", value.strip())
+
+
+def compile_autolink_pattern(candidate: str) -> re.Pattern[str]:
+    return re.compile(rf"(?<![A-Za-z0-9_]){re.escape(candidate)}(?![A-Za-z0-9_])", flags=re.IGNORECASE)
+
+
 def slugify_text(value: str) -> str:
     slug = re.sub(r"[^a-z0-9]+", "-", str(value).lower()).strip("-")
     return re.sub(r"-{2,}", "-", slug)
@@ -1126,6 +1442,10 @@ def slugify_text(value: str) -> str:
 def format_wikilink(value: str) -> str:
     text = value.strip()
     return f"[[{text}]]" if text else text
+
+
+def strip_wikilinks(value: str) -> str:
+    return re.sub(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]", lambda match: (match.group(2) or match.group(1)).strip(), value)
 
 
 def dedupe_lines(lines: Sequence[str]) -> List[str]:

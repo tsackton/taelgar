@@ -38,7 +38,7 @@
       "location": {
         "kind": "fixed",
         "primary": "Hamri",
-        "context": "the harbor waters and docks near the Leviathan waterfront where the phantom ship arrives",
+        "context": "the harbor waters and docks where the strange ship arrives",
         "notes": "The beat stays on the waterfront confrontation and rescue."
       },
       "npcs": [
@@ -47,6 +47,12 @@
           "role": "encountered",
           "context": "surviving merfolk expedition member",
           "notes": "The survivor is not named in this line, but the next beat identifies the surviving merfolk as Illius."
+        },
+        {
+          "name": "Turk",
+          "role": "companion",
+          "context": "Ryu's shark companion",
+          "notes": "Turk helps steer the merfolk ship to safety."
         }
       ],
       "items": [
@@ -56,7 +62,13 @@
           "notes": "The merfolk expedition came to recover a stolen drop of the Sentient Ocean."
         }
       ],
-      "organizations": [],
+      "organizations": [
+        {
+          "name": "merfolk expedition",
+          "role": "encountered",
+          "notes": "The ship carries a merfolk expedition sent to recover a stolen drop of the Sentient Ocean."
+        }
+      ],
       "combat": {
         "isCombat": true,
         "phase": "full",
@@ -106,7 +118,13 @@
           "notes": "The party recovers the stolen drop and returns it to Illius."
         }
       ],
-      "organizations": [],
+      "organizations": [
+        {
+          "name": "marids from the Elemental Plane of Water",
+          "role": "mentioned",
+          "notes": "Illius says marids have been after the Sentient Ocean for generations."
+        }
+      ],
       "combat": {
         "isCombat": true,
         "phase": "full",
@@ -150,7 +168,13 @@
           "notes": "The chest is identified by its connection to the recovered vial of the Sentient Ocean."
         }
       ],
-      "organizations": [],
+      "organizations": [
+        {
+          "name": "marids from the Elemental Plane of Water",
+          "role": "mentioned",
+          "notes": "Wazir wonders whether the phantom ship brought someone new to town involved in their schemes."
+        }
+      ],
       "combat": {
         "isCombat": false
       }

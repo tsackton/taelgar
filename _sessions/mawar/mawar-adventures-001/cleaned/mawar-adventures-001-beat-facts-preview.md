@@ -32,13 +32,15 @@
 **Short Summary**: A strange ship races into Hamri against the tide, and Ryu, Wazir, and Trok help the surviving merfolk fend off elemental attackers and bring it safely in.
 **Long Summary**: On July 23rd, a ship came to port, racing against the tide, with no obvious means of propulsion. Intercepted by Wazir, the owner of the Leviathan, Trok, a tattooed lizardfolk outcast, and Ryu, a noted fisherman and deep sea diver, the ship was a vessel for a merfolk expedition sent to recover a drop of the Sentient Ocean stolen from their home. While water elementals and twisted fish-like humanoids attacked and killed most of the merfolk aboard, Turk, Ryu's shark companion, managed to help steer the merfolk ship to safety.
 **Location**:
-- Hamri: the harbor waters and docks near the Leviathan waterfront where the phantom ship arrives
+- Hamri: the harbor waters and docks where the strange ship arrives
   Note: The beat stays on the waterfront confrontation and rescue.
 **NPCs**:
 - Illius (encountered): surviving merfolk expedition member. The survivor is not named in this line, but the next beat identifies the surviving merfolk as Illius.
+- Turk (companion): Ryu's shark companion. Turk helps steer the merfolk ship to safety.
 **Items**:
 - Sentient Ocean (mentioned): The merfolk expedition came to recover a stolen drop of the Sentient Ocean.
-**Organizations**: none
+**Organizations**:
+- merfolk expedition (encountered): The ship carries a merfolk expedition sent to recover a stolen drop of the Sentient Ocean.
 
 ## The Tidal Cave
 *beat-003*
@@ -59,7 +61,8 @@
 **Items**:
 - Illius's compass (encountered): The party uses the compass to track the stolen vial to the cave.
 - Sentient Ocean (encountered): The party recovers the stolen drop and returns it to Illius.
-**Organizations**: none
+**Organizations**:
+- marids from the Elemental Plane of Water (mentioned): Illius says marids have been after the Sentient Ocean for generations.
 
 ## The Coded Scroll
 *beat-004*
@@ -77,4 +80,5 @@
 - Ciphered Scroll (encountered): Wazir takes the coded scroll for later decipherment.
 - silver amulet (encountered): The amulet is found in the same chest as the coded scroll.
 - Sentient Ocean (mentioned): The chest is identified by its connection to the recovered vial of the Sentient Ocean.
-**Organizations**: none
+**Organizations**:
+- marids from the Elemental Plane of Water (mentioned): Wazir wonders whether the phantom ship brought someone new to town involved in their schemes.

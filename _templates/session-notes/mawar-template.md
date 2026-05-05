@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [session-note]
-campaign: Labyrinths of the Lost
+campaign: Mawar Adventures
 sessionNumber: {session.session_number}
 realWorldDate: {session.real_date}
 DR: {session.dr_start}
@@ -34,10 +34,10 @@ tagline: {session.tagline}
 
 {locations}
 
-## Combat
-
-{combat.summary}
-
 ## Narrative
 
 {narrative.long}
+
+## Combat
+
+{combat.summary}

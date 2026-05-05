@@ -14,10 +14,11 @@ The Mawar Adventures have largely taken place around the port town of [[Hamri]],
 - [[Kaleho]], a sailor and rogue who often visits the port of Hamri on his journeys
 
 So far, the [[Mawar Adventures Timeline|adventures to date]] have included:
-- [[Mawar Epsiode 01]], The Merfolk Visitor
-- [[Mawar Epsiode 02]], The Tragedy of Azar
-- [[Mawar Epsiode 03]], The Tomb of Yerkir-khor
-- [[Mawar Epsiode 04]], The Chained Beast
+- [[Mawar Adventures Episode 01]], The Merfolk Visitor
+- [[Mawar Adventures Epsiode 02]], The Tragedy of Azar
+- [[Mawar Adventures Epsiode 03]], The Tomb of Yerkir-khor
+- [[Mawar Adventures Epsiode 04]], The Chained Beast
+- [[Mawar Adventures Episode 05]], 
 
 You can also read about the people of [[Hamri]]:
 

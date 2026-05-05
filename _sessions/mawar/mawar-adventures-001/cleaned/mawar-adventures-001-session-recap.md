@@ -2,9 +2,10 @@
 
 ## Session Header
 
-- Title: The Merfolk Visitor
-- Tagline: in which Ryu, Wazir, and Trok uncover a mysterious plot involving the Sentient Ocean
-- One-Sentence Summary: Strange omens in Hamri foreshadow the arrival of a foundering merfolk ship; Ryu, Wazir, and Trok to rescue it, recover a stolen drop of the Sentient Ocean from a tidal cave, and uncover a coded scroll pointing to a deeper plot.
+- Title: Mawar Adventures Episode 1
+- Desc Title: The Merfolk Visitor
+- Tagline: in which a stolen drop of ocean is returned
+- One-Sentence Summary: After strange omens trouble Hamri's harbor, Ryu, Wazir, and Trok rescue a merfolk traveler, recover a stolen drop of the Sentient Ocean from a tidal cave, and find a coded scroll pointing to a deeper mystery.
 - Campaign: Mawar Adventures
 - Scope: session
 - Session Number: 1
@@ -22,16 +23,16 @@
 - Resolution: day
 - Beat IDs: beat-001, beat-002, beat-003, beat-004
 - Locations: Hamri
-- NPCs: Illius
-- Organizations: none
+- NPCs: Illius, Turk
+- Organizations: merfolk expedition
 - Items: Illius's compass, Sentient Ocean, Ciphered Scroll, silver amulet
 - Combat Beats: beat-002, beat-003
 
 #### Short
-Ryu, Wazir, and Trok save a merfolk ship in Hamri, recover a stolen drop of the Sentient Ocean from a tidal cave, and find a coded scroll and silver amulet in the hidden cache.
+Ryu, Wazir, and Trok rescue Illius, a merfolk traveler, from an elemental attack, and recover a stolen drop of the Sentient Ocean from a tidal cave west of Hamri. 
 
 #### Long
-After strange signs trouble Hamri's harbor, a merfolk ship comes ashore under attack from water elementals and twisted fish-like creatures. Ryu, Wazir, and Trok help save the surviving merfolk, follow Illius's compass to a tidal cave west of town, recover the stolen vial of the Sentient Ocean, and carry off a coded scroll and silver amulet from the hidden cache.
+A strange merfolk ship reaches Hamri under attack by water elementals. Ryu, Wazir, and Trok save the merfolk sailor Illius, and track a stolen drop of the Sentient Ocean they were chasing. In a tidal cave west of Hamri, the party defeats water elementals, returns the Sentient Ocean drop to Illius, and finds a coded scroll and silver amulet hinting at a deeper mystery. 
 
 ## Recap
 
@@ -49,37 +50,57 @@ After strange signs trouble Hamri's harbor, a merfolk ship comes ashore under at
 - Enemies: none
 
 #### Short
-Strange signs gather over Hamri's harbor as phantom ships, disturbed glowing waters, and empty fishing grounds unsettle the town.
-
+The morning of July 23, 1747 comes in the middle of a strange summer in Hamri, marked by unusual events. 
 #### Intermediate
-Hamri spends the summer under a cloud of maritime wonders and alarms, from the sighting of a phantom vessel to the sudden failure of the coastal catch. By 23 July, the harbor feels watched and troubled long before the danger fully shows itself.
-
+The morning of July 23, 1747 comes in the middle of a strange summer in Hamri, marked by unusual portents in the harbor, hinting at stranger things to come. 
 #### Long
-Hamri's waterfront has already grown uneasy by the time the day begins in earnest. A phantom ship has been seen at dock, the harbor's usual bioluminescent glow has been broken by some vast passing thing, and even the fish have vanished for a day along the coast. Those signs leave the town ripe for the stranger events that follow.
+The morning of July 23, 1747 comes in the middle of a strange summer in Hamri, with unusual events noted in the harbor over the past weeks:  a phantom ship docking one night, a massive creature of epic proportions disturbing the normal bioluminescent glow of the harbor, a day when no fish could be found anywhere along the coast. 
 
-### recap-002 | The Merfolk Ship to The Tidal Cave
+### recap-002 | The Merfolk Ship
 
 - Kind: combat
-- Beat IDs: beat-002, beat-003
+- Beat IDs: beat-002
 - Date: 1747-07-23
 - Time: unknown
-- Source Range: u0004 -> u0005
+- Source Range: u0004 -> u0004
+- Locations: Hamri
+- NPCs: Illius, Turk
+- Organizations: merfolk expedition
+- Items: none
+- Enemies: water elementals, twisted fish-like humanoids
+
+#### Short
+As morning turns to afternoon, a strange ship races into Hamri against the tide, under attack by water elementals. Ryu, Trok, and Wazir give aid, defending a merfolk survivor, Illius, sent to recover a drop of the [[Sentient Ocean]].
+
+#### Intermediate
+As morning turns to afternoon, a strange ship races into Hamri against the tide, under attack by water elementals. The vessel reaches port with almost no crew left alive, carrying Illius, the last survivor of a merfolk expedition sent to recover a stolen drop of the Sentient Ocean. Ryu, Wazir, and Trok drive off the water elementals and twisted fish-things assailing it while Turk helps steer the ship to safety.
+
+#### Long
+As morning turns to afternoon, a strange ship races into Hamri against the tide, under attack by water elementals. Intercepted by [[Wazir]], the owner of the Leviathan, [[Trok]], a tattooed [[Lizardfolk]] outcast, and [[Ryu]], a noted fisherman and deep sea diver, the ship was a vessel for a merfolk expedition sent to recover a drop of [[Sentient Ocean]] stolen from their home, now carrying only a sole survivor, Illius. Ryu, Wazir, and Trok drive off the water elementals and twisted fish-things assailing it while Turk, Ryu's shark companion, helps steer the ship to safety.
+
+### recap-003 | The Tidal Cave
+
+- Kind: combat
+- Beat IDs: beat-003
+- Date: 1747-07-23
+- Time: unknown
+- Source Range: u0005 -> u0005
 - Locations: Hamri
 - NPCs: Illius
 - Organizations: none
 - Items: Illius's compass, Sentient Ocean
-- Enemies: water elementals, twisted fish-like humanoids
+- Enemies: water elementals
 
 #### Short
-A strange ship races into Hamri against the tide, and Ryu, Wazir, and Trok save its surviving merfolk before carrying the fight west to the tidal cave where the stolen water is hidden.
+Guided by Illius's compass, the party tracks the stolen vial of the Sentient Ocean west. They defeat more water elementals there, and recover the vial from a tidal cave beneath the cliffs.
 
 #### Intermediate
-The strange vessel reaches port with almost no crew left alive, and the party helps drive off the water elementals and twisted fish-things assailing it while one merfolk survivor, Illius, remains to explain the pursuit. Guided by his compass, they follow the stolen vial to a cave beneath the western cliffs and finish the work by defeating the last guardians around the hidden cache.
+With the ship secured, Illius's compass leads the party from the harbor to a tidal cave connected to an abandoned seawatch tower. They defeat the last water elementals there, recover the drop of the Sentient Ocean, and return it to Illius.
 
 #### Long
-On 23 July, a ship comes racing into Hamri against the tide with no visible means of motion, and Wazir, Trok, and Ryu intercept it at the harbor. The vessel belongs to a merfolk expedition seeking a stolen drop of the Sentient Ocean, but water elementals and twisted fish-like humanoids have already slaughtered most of its crew before Turk helps guide it to safety. Soon after, Illius leads the party west with his compass to a tidal cave beneath the cliffs and the ruins of an old seawatch tower, where they defeat the remaining elementals, recover the bottled water, and return it to him while learning that marids from the Elemental Plane of Water have long hunted the ocean's power.
+Soon after the harbor rescue, Illius's compass leads Ryu, Wazir, and Trok west of [[Hamri]] to a tidal cave beneath the cliffs connecting to the ruins of a long-abandoned seawatch tower. The party defeats the remaining water elementals, recovers the bottled drop of the Sentient Ocean, and returns it safely to Illius. He explains that marids from the Elemental Plane of Water have hunted the ocean for generations and believes one of them finally found a way through its defenses.
 
-### recap-003 | The Coded Scroll
+### recap-004 | The Coded Scroll
 
 - Kind: beat
 - Beat IDs: beat-004
@@ -93,49 +114,62 @@ On 23 July, a ship comes racing into Hamri against the tide with no visible mean
 - Enemies: none
 
 #### Short
-In the chest beside the recovered vial, Wazir finds a coded scroll and a silver amulet that promise further trouble for Hamri.
+In the chest beside the recovered vial, Wazir finds a coded scroll and a silver amulet that point toward a larger plot.
 
 #### Intermediate
-The recovered cache holds more than the stolen water. Among the treasure are a scroll written in code and a silver amulet of unfamiliar design, and Wazir immediately claims the scroll to begin teasing out the hand behind the phantom ship.
+The recovered cache holds more than the stolen water. Among the treasure are a scroll written in code and a silver amulet of unfamiliar design, and Wazir immediately claims the scroll to begin teasing out whatever deeper mystery it might reveal.
 
 #### Long
-The search of the chest that held the vial yields two clues more enduring than the battle itself: a scroll of written notes in some kind of code and a silver amulet of strange design. Wazir takes the scroll for study at once, suspecting that whoever came ashore on the phantom ship has left behind more than a failed theft.
+In the chest with the vial of [[Sentient Ocean]] was also a scroll of written notes, in some kind of code, and a silver amulet of a strange design. [[Wazir]] took the scroll to attempt to decipher its meaning, wondering if indeed the phantom ship brought someone new to town involved in the schemes of the marids of the plane of water.
 
 ## Cast
 
 ### NPCs
 
-- Illius (met): surviving merfolk expedition member
+- [[Illius]] (met): surviving merfolk expedition member
+  - Hamri, 1747-07-23
+- [[Turk]] (companion): Ryu's shark companion
   - Hamri, 1747-07-23
 
 ## Locations
 
-- Hamri: the harbor and waterfront, where a run of strange omens has unsettled the town
-  - visited on 1747-07-23
+- [[Hamri]]
+  - Summary: port town whose harbor and western cliffs frame the merfolk crisis
+  - Sublocations: harbor and waterfront, harbor waters and docks, tidal cave beneath the western cliffs, abandoned seawatch tower, tidal cave cache
+  - Date Visited: 1747-07-23
 
 ## Organizations And Items
 
 ### Organizations
 
+- merfolk expedition (encountered): merfolk mission sent to recover a stolen drop of the Sentient Ocean
+  - Hamri, 1747-07-23
+- marids from the Elemental Plane of Water (mentioned): water genies named by Illius as long-time hunters of the Sentient Ocean
 
 ### Items
 
-- Illius's compass (encountered): used to track the stolen vial from Hamri to the tidal cave beneath the western cliffs
+- Illius's compass (encountered): guide used to track the stolen vial from Hamri to the tidal cave
   - Hamri, 1747-07-23
-- Sentient Ocean (encountered): a recovered drop of living water stolen from the merfolk and restored to Illius
+- [[Sentient Ocean]] (encountered): living water whose stolen drop is recovered from the tidal cave and returned to Illius
   - Hamri, 1747-07-23
-- Ciphered Scroll (encountered): found in the cache beside the recovered vial and taken by Wazir for study
+- [[The Ciphered Scroll]] (encountered): coded notes found in the cache and taken by Wazir for study
   - Hamri, 1747-07-23
-- silver amulet (encountered): a strange silver charm discovered in the same chest as the coded scroll
+- silver amulet (encountered): strange silver charm found in the same chest as the coded scroll
   - Hamri, 1747-07-23
 
 ## Combat
 
-### recap-002 | Harbor Rescue and Tidal Cave
+### recap-002 | Harbor Ship Rescue
 
-- Beat IDs: beat-002, beat-003
+- Beat IDs: beat-002
 - Enemies: water elementals, twisted fish-like humanoids
-- Context / Outcome: The fight begins around the merfolk ship in Hamri's harbor and ends in the tidal cave west of town, where the last elemental guardians fall and the stolen drop of the Sentient Ocean is recovered.
+- Context / Outcome: Water elementals and twisted fish-like humanoids attack the merfolk ship in Hamri's harbor, killing most of the crew before the party and Turk bring the vessel safely in.
+
+### recap-003 | Tidal Cave Recovery
+
+- Beat IDs: beat-003
+- Enemies: water elementals
+- Context / Outcome: Guided by Illius's compass, the party reaches the tidal cave west of Hamri, defeats the last water elementals, and recovers the stolen drop of the Sentient Ocean.
 
 
 ## Source Files
