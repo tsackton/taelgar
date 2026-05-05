@@ -28,9 +28,12 @@
         "Hamri"
       ],
       "npcRefs": [
-        "Illius"
+        "Illius",
+        "Turk"
       ],
-      "organizationRefs": [],
+      "organizationRefs": [
+        "merfolk expedition"
+      ],
       "itemRefs": [
         "Illius's compass",
         "Sentient Ocean",
@@ -52,6 +55,204 @@
         "On July 23rd, a ship came to port, racing against the tide, with no obvious means of propulsion. Intercepted by Wazir, the owner of the Leviathan, Trok, a tattooed lizardfolk outcast, and Ryu, a noted fisherman and deep sea diver, the ship was a vessel for a merfolk expedition sent to recover a drop of the Sentient Ocean stolen from their home. While water elementals and twisted fish-like humanoids attacked and killed most of the merfolk aboard, Turk, Ryu's shark companion, managed to help steer the merfolk ship to safety.",
         "Soon after, Ryu, Wazir, and Trok were able to track the bottled ocean, with the aid of Illius's compass, to a tidal cave beneath the cliffs to the west of Hamri, connecting to a long-abandoned seawatch tower. After defeating the last of the water elementals, they were able to recover the drop of the Sentient Ocean and return it safely to Illius, who claimed that marids from the Elemental Plane of Water had been after the ocean for generations and believed that one finally found a way to penetrate the defenses to steal a drop.",
         "In the chest with the vial of the Sentient Ocean was also a scroll of written notes, in some kind of code, and a silver amulet of a strange design. Wazir took the scroll to attempt to decipher its meaning, wondering if indeed the phantom ship brought someone new to town involved in the schemes of the marids of the plane of water."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Portents in Hamri",
+          "boundaryReason": "This opening beat frames the episode by identifying the party, naming the merfolk crisis, and establishing the strange harbor omens that culminate on 23 July 1747 before the active confrontation begins.",
+          "dateStart": "1747-07-23",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0003"
+          },
+          "shortSummary": "Hamri's harbor has been troubled by a phantom ship, disturbed glowing waters, and a day when no fish could be found anywhere along the coast.",
+          "longSummary": "The summer of 1747 has been strange, with unusual events noted in the harbor: a phantom ship docking one night, a massive creature of epic proportions disturbing the normal bioluminescent glow of the harbor, and a day when no fish could be found anywhere along the coast.",
+          "locationHints": {
+            "refs": [
+              "Hamri"
+            ],
+            "context": "the harbor and waterfront, where a run of strange omens has unsettled the town",
+            "notes": "The source frames the opening through signs seen around the port rather than a single interior scene."
+          },
+          "itemDetails": [
+            {
+              "name": "Sentient Ocean",
+              "role": "mentioned",
+              "notes": "The opening title frames the session around a mystery involving the Sentient Ocean."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-002",
+          "title": "The Merfolk Ship",
+          "boundaryReason": "This beat covers the first active scene of the episode: the mysterious ship's arrival, the party's interception, and the harbor battle in which the merfolk expedition is nearly wiped out before the vessel is brought to safety.",
+          "dateStart": "1747-07-23",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0004",
+            "endUid": "u0004"
+          },
+          "shortSummary": "A strange ship races into Hamri against the tide, and Ryu, Wazir, and Trok help the surviving merfolk fend off elemental attackers and bring it safely in.",
+          "longSummary": "On July 23rd, a ship came to port, racing against the tide, with no obvious means of propulsion. Intercepted by Wazir, the owner of the Leviathan, Trok, a tattooed lizardfolk outcast, and Ryu, a noted fisherman and deep sea diver, the ship was a vessel for a merfolk expedition sent to recover a drop of the Sentient Ocean stolen from their home. While water elementals and twisted fish-like humanoids attacked and killed most of the merfolk aboard, Turk, Ryu's shark companion, managed to help steer the merfolk ship to safety.",
+          "locationHints": {
+            "refs": [
+              "Hamri"
+            ],
+            "context": "the harbor waters and docks where the strange ship arrives",
+            "notes": "The beat stays on the waterfront confrontation and rescue."
+          },
+          "npcDetails": [
+            {
+              "name": "Illius",
+              "role": "encountered",
+              "context": "surviving merfolk expedition member",
+              "notes": "The survivor is not named in this line, but the next beat identifies the surviving merfolk as Illius."
+            },
+            {
+              "name": "Turk",
+              "role": "companion",
+              "context": "Ryu's shark companion",
+              "notes": "Turk helps steer the merfolk ship to safety."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Sentient Ocean",
+              "role": "mentioned",
+              "notes": "The merfolk expedition came to recover a stolen drop of the Sentient Ocean."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "merfolk expedition",
+              "role": "encountered",
+              "notes": "The ship carries a merfolk expedition sent to recover a stolen drop of the Sentient Ocean."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "water elementals",
+                "notes": "They attack the merfolk ship during the harbor confrontation."
+              },
+              {
+                "name": "twisted fish-like humanoids",
+                "notes": "They fight alongside the elementals during the assault on the ship."
+              }
+            ],
+            "notes": "The whole harbor rescue and battle is contained inside this beat."
+          }
+        },
+        {
+          "beatId": "beat-003",
+          "title": "The Tidal Cave",
+          "boundaryReason": "After the ship is secured, the narrative shifts to a new objective and location as the party tracks the stolen vial inland to the tidal cave and abandoned tower, defeats the remaining elementals, and restores the drop of Sentient Ocean to Illius.",
+          "dateStart": "1747-07-23",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0005",
+            "endUid": "u0005"
+          },
+          "shortSummary": "Guided by Illius's compass, Ryu, Wazir, and Trok track the stolen vial to a tidal cave west of Hamri, defeat the last elemental guardians, and restore it to the merfolk.",
+          "longSummary": "Soon after, Ryu, Wazir, and Trok were able to track the bottled ocean, with the aid of Illius's compass, to a tidal cave beneath the cliffs to the west of Hamri, connecting to a long-abandoned seawatch tower. After defeating the last of the water elementals, they were able to recover the drop of the Sentient Ocean and return it safely to Illius, who claimed that marids from the Elemental Plane of Water had been after the ocean for generations and believed that one finally found a way to penetrate the defenses to steal a drop.",
+          "locationHints": {
+            "refs": [
+              "Hamri"
+            ],
+            "context": "the tidal cave and abandoned seawatch tower beneath the cliffs west of town",
+            "notes": "The beat moves away from the harbor into the cave complex where the stolen vial is hidden."
+          },
+          "npcDetails": [
+            {
+              "name": "Illius",
+              "role": "encountered",
+              "context": "surviving merfolk guide",
+              "notes": "He provides the compass, receives the recovered vial, and explains the marids' pursuit of the Sentient Ocean."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Illius's compass",
+              "role": "encountered",
+              "notes": "The party uses the compass to track the stolen vial to the cave."
+            },
+            {
+              "name": "Sentient Ocean",
+              "role": "encountered",
+              "notes": "The party recovers the stolen drop and returns it to Illius."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "marids from the Elemental Plane of Water",
+              "role": "mentioned",
+              "notes": "Illius says marids have been after the Sentient Ocean for generations."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "water elementals",
+                "notes": "The last elemental guardians defend the tidal cave and tower approach."
+              }
+            ],
+            "notes": "This beat contains the cave recovery fight and its immediate resolution."
+          }
+        },
+        {
+          "beatId": "beat-004",
+          "title": "The Coded Scroll",
+          "boundaryReason": "The final beat is a clean aftermath scene focused on the treasure-chest discoveries, especially the coded scroll and strange silver amulet, and on Wazir's decision to begin deciphering the larger mystery behind the episode's events.",
+          "dateStart": "1747-07-23",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0006",
+            "endUid": "u0006"
+          },
+          "shortSummary": "Among the stolen treasures, Wazir claims a coded scroll and a strange silver amulet that hint at the larger plot behind the phantom ship.",
+          "longSummary": "In the chest with the vial of the Sentient Ocean was also a scroll of written notes, in some kind of code, and a silver amulet of a strange design. Wazir took the scroll to attempt to decipher its meaning, wondering if indeed the phantom ship brought someone new to town involved in the schemes of the marids of the plane of water.",
+          "locationHints": {
+            "refs": [
+              "Hamri"
+            ],
+            "context": "the tidal cave cache and chest where the stolen vial had been hidden",
+            "notes": "The source treats this as the immediate aftermath of the cave recovery rather than a separate trip back to town."
+          },
+          "itemDetails": [
+            {
+              "name": "Ciphered Scroll",
+              "role": "encountered",
+              "notes": "Wazir takes the coded scroll for later decipherment."
+            },
+            {
+              "name": "silver amulet",
+              "role": "encountered",
+              "notes": "The amulet is found in the same chest as the coded scroll."
+            },
+            {
+              "name": "Sentient Ocean",
+              "role": "mentioned",
+              "notes": "The chest is identified by its connection to the recovered vial of the Sentient Ocean."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "marids from the Elemental Plane of Water",
+              "role": "mentioned",
+              "notes": "Wazir wonders whether the phantom ship brought someone new to town involved in their schemes."
+            }
+          ]
+        }
       ]
     }
   ],
@@ -89,25 +290,159 @@
       ],
       "sourceLongSummaries": [
         "The summer of 1747 has been strange, with unusual events noted in the harbor: a phantom ship docking one night, a massive creature of epic proportions disturbing the normal bioluminescent glow of the harbor, and a day when no fish could be found anywhere along the coast."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Portents in Hamri",
+          "boundaryReason": "This opening beat frames the episode by identifying the party, naming the merfolk crisis, and establishing the strange harbor omens that culminate on 23 July 1747 before the active confrontation begins.",
+          "dateStart": "1747-07-23",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0003"
+          },
+          "shortSummary": "Hamri's harbor has been troubled by a phantom ship, disturbed glowing waters, and a day when no fish could be found anywhere along the coast.",
+          "longSummary": "The summer of 1747 has been strange, with unusual events noted in the harbor: a phantom ship docking one night, a massive creature of epic proportions disturbing the normal bioluminescent glow of the harbor, and a day when no fish could be found anywhere along the coast.",
+          "locationHints": {
+            "refs": [
+              "Hamri"
+            ],
+            "context": "the harbor and waterfront, where a run of strange omens has unsettled the town",
+            "notes": "The source frames the opening through signs seen around the port rather than a single interior scene."
+          },
+          "itemDetails": [
+            {
+              "name": "Sentient Ocean",
+              "role": "mentioned",
+              "notes": "The opening title frames the session around a mystery involving the Sentient Ocean."
+            }
+          ]
+        }
       ]
     },
     {
       "blockId": "recap-002",
       "kind": "combat",
-      "title": "The Merfolk Ship to The Tidal Cave",
+      "title": "The Merfolk Ship",
       "beatIds": [
-        "beat-002",
-        "beat-003"
+        "beat-002"
       ],
       "sourceRange": {
         "startUid": "u0004",
-        "endUid": "u0005"
+        "endUid": "u0004"
       },
       "sourceRanges": [
         {
           "startUid": "u0004",
           "endUid": "u0004"
-        },
+        }
+      ],
+      "dateStart": "1747-07-23",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Hamri"
+      ],
+      "npcRefs": [
+        "Illius",
+        "Turk"
+      ],
+      "organizationRefs": [
+        "merfolk expedition"
+      ],
+      "itemRefs": [],
+      "combatEnemyRefs": [
+        "water elementals",
+        "twisted fish-like humanoids"
+      ],
+      "sourceShortSummaries": [
+        "A strange ship races into Hamri against the tide, and Ryu, Wazir, and Trok help the surviving merfolk fend off elemental attackers and bring it safely in."
+      ],
+      "sourceLongSummaries": [
+        "On July 23rd, a ship came to port, racing against the tide, with no obvious means of propulsion. Intercepted by Wazir, the owner of the Leviathan, Trok, a tattooed lizardfolk outcast, and Ryu, a noted fisherman and deep sea diver, the ship was a vessel for a merfolk expedition sent to recover a drop of the Sentient Ocean stolen from their home. While water elementals and twisted fish-like humanoids attacked and killed most of the merfolk aboard, Turk, Ryu's shark companion, managed to help steer the merfolk ship to safety."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-002",
+          "title": "The Merfolk Ship",
+          "boundaryReason": "This beat covers the first active scene of the episode: the mysterious ship's arrival, the party's interception, and the harbor battle in which the merfolk expedition is nearly wiped out before the vessel is brought to safety.",
+          "dateStart": "1747-07-23",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0004",
+            "endUid": "u0004"
+          },
+          "shortSummary": "A strange ship races into Hamri against the tide, and Ryu, Wazir, and Trok help the surviving merfolk fend off elemental attackers and bring it safely in.",
+          "longSummary": "On July 23rd, a ship came to port, racing against the tide, with no obvious means of propulsion. Intercepted by Wazir, the owner of the Leviathan, Trok, a tattooed lizardfolk outcast, and Ryu, a noted fisherman and deep sea diver, the ship was a vessel for a merfolk expedition sent to recover a drop of the Sentient Ocean stolen from their home. While water elementals and twisted fish-like humanoids attacked and killed most of the merfolk aboard, Turk, Ryu's shark companion, managed to help steer the merfolk ship to safety.",
+          "locationHints": {
+            "refs": [
+              "Hamri"
+            ],
+            "context": "the harbor waters and docks where the strange ship arrives",
+            "notes": "The beat stays on the waterfront confrontation and rescue."
+          },
+          "npcDetails": [
+            {
+              "name": "Illius",
+              "role": "encountered",
+              "context": "surviving merfolk expedition member",
+              "notes": "The survivor is not named in this line, but the next beat identifies the surviving merfolk as Illius."
+            },
+            {
+              "name": "Turk",
+              "role": "companion",
+              "context": "Ryu's shark companion",
+              "notes": "Turk helps steer the merfolk ship to safety."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Sentient Ocean",
+              "role": "mentioned",
+              "notes": "The merfolk expedition came to recover a stolen drop of the Sentient Ocean."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "merfolk expedition",
+              "role": "encountered",
+              "notes": "The ship carries a merfolk expedition sent to recover a stolen drop of the Sentient Ocean."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "water elementals",
+                "notes": "They attack the merfolk ship during the harbor confrontation."
+              },
+              {
+                "name": "twisted fish-like humanoids",
+                "notes": "They fight alongside the elementals during the assault on the ship."
+              }
+            ],
+            "notes": "The whole harbor rescue and battle is contained inside this beat."
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "combat",
+      "title": "The Tidal Cave",
+      "beatIds": [
+        "beat-003"
+      ],
+      "sourceRange": {
+        "startUid": "u0005",
+        "endUid": "u0005"
+      },
+      "sourceRanges": [
         {
           "startUid": "u0005",
           "endUid": "u0005"
@@ -129,20 +464,78 @@
         "Sentient Ocean"
       ],
       "combatEnemyRefs": [
-        "water elementals",
-        "twisted fish-like humanoids"
+        "water elementals"
       ],
       "sourceShortSummaries": [
-        "A strange ship races into Hamri against the tide, and Ryu, Wazir, and Trok help the surviving merfolk fend off elemental attackers and bring it safely in.",
         "Guided by Illius's compass, Ryu, Wazir, and Trok track the stolen vial to a tidal cave west of Hamri, defeat the last elemental guardians, and restore it to the merfolk."
       ],
       "sourceLongSummaries": [
-        "On July 23rd, a ship came to port, racing against the tide, with no obvious means of propulsion. Intercepted by Wazir, the owner of the Leviathan, Trok, a tattooed lizardfolk outcast, and Ryu, a noted fisherman and deep sea diver, the ship was a vessel for a merfolk expedition sent to recover a drop of the Sentient Ocean stolen from their home. While water elementals and twisted fish-like humanoids attacked and killed most of the merfolk aboard, Turk, Ryu's shark companion, managed to help steer the merfolk ship to safety.",
         "Soon after, Ryu, Wazir, and Trok were able to track the bottled ocean, with the aid of Illius's compass, to a tidal cave beneath the cliffs to the west of Hamri, connecting to a long-abandoned seawatch tower. After defeating the last of the water elementals, they were able to recover the drop of the Sentient Ocean and return it safely to Illius, who claimed that marids from the Elemental Plane of Water had been after the ocean for generations and believed that one finally found a way to penetrate the defenses to steal a drop."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-003",
+          "title": "The Tidal Cave",
+          "boundaryReason": "After the ship is secured, the narrative shifts to a new objective and location as the party tracks the stolen vial inland to the tidal cave and abandoned tower, defeats the remaining elementals, and restores the drop of Sentient Ocean to Illius.",
+          "dateStart": "1747-07-23",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0005",
+            "endUid": "u0005"
+          },
+          "shortSummary": "Guided by Illius's compass, Ryu, Wazir, and Trok track the stolen vial to a tidal cave west of Hamri, defeat the last elemental guardians, and restore it to the merfolk.",
+          "longSummary": "Soon after, Ryu, Wazir, and Trok were able to track the bottled ocean, with the aid of Illius's compass, to a tidal cave beneath the cliffs to the west of Hamri, connecting to a long-abandoned seawatch tower. After defeating the last of the water elementals, they were able to recover the drop of the Sentient Ocean and return it safely to Illius, who claimed that marids from the Elemental Plane of Water had been after the ocean for generations and believed that one finally found a way to penetrate the defenses to steal a drop.",
+          "locationHints": {
+            "refs": [
+              "Hamri"
+            ],
+            "context": "the tidal cave and abandoned seawatch tower beneath the cliffs west of town",
+            "notes": "The beat moves away from the harbor into the cave complex where the stolen vial is hidden."
+          },
+          "npcDetails": [
+            {
+              "name": "Illius",
+              "role": "encountered",
+              "context": "surviving merfolk guide",
+              "notes": "He provides the compass, receives the recovered vial, and explains the marids' pursuit of the Sentient Ocean."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Illius's compass",
+              "role": "encountered",
+              "notes": "The party uses the compass to track the stolen vial to the cave."
+            },
+            {
+              "name": "Sentient Ocean",
+              "role": "encountered",
+              "notes": "The party recovers the stolen drop and returns it to Illius."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "marids from the Elemental Plane of Water",
+              "role": "mentioned",
+              "notes": "Illius says marids have been after the Sentient Ocean for generations."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "water elementals",
+                "notes": "The last elemental guardians defend the tidal cave and tower approach."
+              }
+            ],
+            "notes": "This beat contains the cave recovery fight and its immediate resolution."
+          }
+        }
       ]
     },
     {
-      "blockId": "recap-003",
+      "blockId": "recap-004",
       "kind": "beat",
       "title": "The Coded Scroll",
       "beatIds": [
@@ -177,6 +570,53 @@
       ],
       "sourceLongSummaries": [
         "In the chest with the vial of the Sentient Ocean was also a scroll of written notes, in some kind of code, and a silver amulet of a strange design. Wazir took the scroll to attempt to decipher its meaning, wondering if indeed the phantom ship brought someone new to town involved in the schemes of the marids of the plane of water."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-004",
+          "title": "The Coded Scroll",
+          "boundaryReason": "The final beat is a clean aftermath scene focused on the treasure-chest discoveries, especially the coded scroll and strange silver amulet, and on Wazir's decision to begin deciphering the larger mystery behind the episode's events.",
+          "dateStart": "1747-07-23",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0006",
+            "endUid": "u0006"
+          },
+          "shortSummary": "Among the stolen treasures, Wazir claims a coded scroll and a strange silver amulet that hint at the larger plot behind the phantom ship.",
+          "longSummary": "In the chest with the vial of the Sentient Ocean was also a scroll of written notes, in some kind of code, and a silver amulet of a strange design. Wazir took the scroll to attempt to decipher its meaning, wondering if indeed the phantom ship brought someone new to town involved in the schemes of the marids of the plane of water.",
+          "locationHints": {
+            "refs": [
+              "Hamri"
+            ],
+            "context": "the tidal cave cache and chest where the stolen vial had been hidden",
+            "notes": "The source treats this as the immediate aftermath of the cave recovery rather than a separate trip back to town."
+          },
+          "itemDetails": [
+            {
+              "name": "Ciphered Scroll",
+              "role": "encountered",
+              "notes": "Wazir takes the coded scroll for later decipherment."
+            },
+            {
+              "name": "silver amulet",
+              "role": "encountered",
+              "notes": "The amulet is found in the same chest as the coded scroll."
+            },
+            {
+              "name": "Sentient Ocean",
+              "role": "mentioned",
+              "notes": "The chest is identified by its connection to the recovered vial of the Sentient Ocean."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "marids from the Elemental Plane of Water",
+              "role": "mentioned",
+              "notes": "Wazir wonders whether the phantom ship brought someone new to town involved in their schemes."
+            }
+          ]
+        }
       ]
     }
   ],
@@ -191,18 +631,37 @@
         "relationKinds": [
           "met"
         ]
+      },
+      {
+        "name": "Turk",
+        "beatIds": [
+          "beat-002"
+        ],
+        "relationKinds": [
+          "companion"
+        ]
       }
     ],
     "combats": [
       {
         "blockId": "recap-002",
         "beatIds": [
-          "beat-002",
-          "beat-003"
+          "beat-002"
         ],
         "enemyRefs": [
           "water elementals",
           "twisted fish-like humanoids"
+        ],
+        "dateStart": "1747-07-23",
+        "dateEnd": null
+      },
+      {
+        "blockId": "recap-003",
+        "beatIds": [
+          "beat-003"
+        ],
+        "enemyRefs": [
+          "water elementals"
         ],
         "dateStart": "1747-07-23",
         "dateEnd": null
@@ -243,6 +702,23 @@
               "dateEnd": null
             }
           ]
+        },
+        {
+          "name": "Turk",
+          "relationKinds": [
+            "companion"
+          ],
+          "contextHint": "Ryu's shark companion",
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Hamri",
+              "dateStart": "1747-07-23",
+              "dateEnd": null
+            }
+          ]
         }
       ],
       "locations": [
@@ -267,7 +743,25 @@
           ]
         }
       ],
-      "organizations": [],
+      "organizations": [
+        {
+          "name": "merfolk expedition",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Hamri",
+              "dateStart": "1747-07-23",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
       "items": [
         {
           "name": "Illius's compass",
@@ -342,7 +836,12 @@
     "mentioned": {
       "npcs": [],
       "locations": [],
-      "organizations": [],
+      "organizations": [
+        {
+          "name": "marids from the Elemental Plane of Water",
+          "contextHint": null
+        }
+      ],
       "items": []
     }
   }

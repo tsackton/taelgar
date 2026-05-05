@@ -39,8 +39,8 @@
       "sessionRoot": "mawar",
       "aliases": ["mawar"],
       "campaignRoot": "Campaigns/Mawar Adventures",
-      "notePattern": "Mawar Adventures {session_padded}.md",
-      "defaultTemplate": "composable-session-note.md"
+      "notePattern": "Episodes/Mawar Adventures Episode {session_padded}.md",
+      "defaultTemplate": "mawar-template.md"
     }
   }
 }

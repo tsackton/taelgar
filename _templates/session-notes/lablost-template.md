@@ -6,7 +6,7 @@ sessionNumber: {session.session_number}
 realWorldDate: {session.real_date}
 DR: {session.dr_start}
 DR_end: {session.dr_end}
-players: [{session.pcs_inline}]
+players: [{session.pcs_plain_inline}]
 companions: []
 name: {session.title}
 descTitle: {session.desc_title}

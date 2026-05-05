@@ -18,6 +18,6 @@ Heading west into the ocean as of November 1747
 
 %% Notes
 
-See: [[Mawar Epsiode 04]]
+See: [[Mawar Adventures Epsiode 04]]
 
 %%

@@ -72,6 +72,16 @@ function stringifyFrontmatterChunks(chunks) {
     return ["---", ...chunks.flatMap((chunk) => chunk.lines), "---"].join("\n");
 }
 
+function stripWikilinks(text) {
+    return String(text ?? "").replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_match, target, alias) => {
+        return String(alias || target || "").trim();
+    });
+}
+
+function stripFrontmatterWikilinks(frontmatterText) {
+    return stripWikilinks(frontmatterText);
+}
+
 function mergeFrontmatter(templateFrontmatterText, currentFrontmatterText) {
     const templateChunks = parseFrontmatterChunks(templateFrontmatterText);
     const currentChunks = parseFrontmatterChunks(currentFrontmatterText);
@@ -241,6 +251,187 @@ async function readVaultText(vaultPath, label) {
     return app.vault.adapter.read(target.path);
 }
 
+function hasSessionContextToken(text) {
+    return /<[^<>\n]+>/.test(String(text ?? ""));
+}
+
+function slotsContainSessionContextTokens(slots) {
+    return Object.values(slots).some((slotBody) => hasSessionContextToken(slotBody));
+}
+
+async function ensureCustomJsMetadataLoaded() {
+    if (typeof customJS === "undefined") {
+        return;
+    }
+    customJS.state = customJS.state ?? {};
+    if (customJS.state.coreMeta) {
+        return;
+    }
+    if (typeof app === "undefined" || !app.vault?.adapter?.read) {
+        return;
+    }
+
+    const metadataPath = joinVaultPaths(app.vault.configDir || ".obsidian", "metadata.json");
+    customJS.state.coreMeta = JSON.parse(await app.vault.adapter.read(metadataPath));
+}
+
+function normalizeTargetDateCandidate(value) {
+    if (value === undefined || value === null) {
+        return undefined;
+    }
+    if (typeof value === "object") {
+        return value;
+    }
+    const text = stripYamlScalar(value);
+    if (!text || text.includes("{")) {
+        return undefined;
+    }
+    const normalized = text.trim().toLowerCase();
+    if (normalized === "none" || normalized === "unknown") {
+        return undefined;
+    }
+    return text;
+}
+
+function inferSessionTargetDate(slots, frontmatter) {
+    const candidates = [
+        slots["session.dr_end"],
+        slots["session.dr_start"],
+        frontmatter?.DR_end,
+        frontmatter?.DR,
+    ];
+    for (const candidate of candidates) {
+        const normalized = normalizeTargetDateCandidate(candidate);
+        if (normalized !== undefined) {
+            return normalized;
+        }
+    }
+    return undefined;
+}
+
+function findClosingContextParen(text, openIndex) {
+    let depth = 0;
+    let insideToken = false;
+    for (let index = openIndex; index < text.length; index += 1) {
+        const char = text[index];
+        if (char === "<") {
+            insideToken = true;
+            continue;
+        }
+        if (char === ">" && insideToken) {
+            insideToken = false;
+            continue;
+        }
+        if (insideToken) {
+            continue;
+        }
+        if (char === "(") {
+            depth += 1;
+            continue;
+        }
+        if (char === ")") {
+            depth -= 1;
+            if (depth === 0) {
+                return index;
+            }
+        }
+    }
+    return -1;
+}
+
+function resolveSessionContextTarget(target) {
+    if (typeof customJS === "undefined" || !customJS?.NameManager?.getFileForTarget) {
+        return undefined;
+    }
+    try {
+        return customJS.NameManager.getFileForTarget(target);
+    } catch (error) {
+        console.warn(`Could not resolve session context target '${target}'.`, error);
+        return undefined;
+    }
+}
+
+function formatSessionContextTokens(contextText, target, targetDate) {
+    if (typeof customJS === "undefined" || !customJS?.TokenParser?.formatDisplayString) {
+        return undefined;
+    }
+    const fileData = resolveSessionContextTarget(target);
+    if (!fileData) {
+        return undefined;
+    }
+
+    try {
+        const frontmatter = fileData.frontmatter ?? {};
+        const fileName = fileData.filename ?? stemFromPath(target);
+        return String(
+            customJS.TokenParser.formatDisplayString(contextText, { name: fileName, frontmatter }, targetDate) ?? ""
+        ).trim();
+    } catch (error) {
+        console.warn(`Could not format session context for '${target}'.`, error);
+        return undefined;
+    }
+}
+
+function expandSessionContextTokens(text, targetDate) {
+    const sourceText = String(text ?? "");
+    if (!hasSessionContextToken(sourceText)) {
+        return sourceText;
+    }
+
+    const wikilinkPattern = /\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g;
+    let output = "";
+    let outputIndex = 0;
+    let match = wikilinkPattern.exec(sourceText);
+
+    while (match) {
+        const linkEnd = wikilinkPattern.lastIndex;
+        let contextStart = linkEnd;
+        while (contextStart < sourceText.length && /[ \t]/.test(sourceText[contextStart])) {
+            contextStart += 1;
+        }
+
+        if (sourceText[contextStart] !== "(") {
+            match = wikilinkPattern.exec(sourceText);
+            continue;
+        }
+
+        const contextEnd = findClosingContextParen(sourceText, contextStart);
+        if (contextEnd === -1) {
+            match = wikilinkPattern.exec(sourceText);
+            continue;
+        }
+
+        const contextText = sourceText.slice(contextStart + 1, contextEnd);
+        if (!hasSessionContextToken(contextText)) {
+            wikilinkPattern.lastIndex = contextEnd + 1;
+            match = wikilinkPattern.exec(sourceText);
+            continue;
+        }
+
+        const formattedContext = formatSessionContextTokens(contextText, match[1].trim(), targetDate);
+        output += sourceText.slice(outputIndex, linkEnd);
+        if (formattedContext === undefined) {
+            output += sourceText.slice(linkEnd, contextEnd + 1);
+        } else if (formattedContext) {
+            output += `${sourceText.slice(linkEnd, contextStart)}(${formattedContext})`;
+        }
+
+        outputIndex = contextEnd + 1;
+        wikilinkPattern.lastIndex = contextEnd + 1;
+        match = wikilinkPattern.exec(sourceText);
+    }
+
+    output += sourceText.slice(outputIndex);
+    return output;
+}
+
+function expandSessionContextTokensInSlots(slots, targetDate) {
+    for (const [slotName, slotBody] of Object.entries(slots)) {
+        slots[slotName] = expandSessionContextTokens(slotBody, targetDate);
+    }
+    return slots;
+}
+
 async function renderSessionNote(tp) {
     try {
         const currentFile = app.workspace.getActiveFile();
@@ -268,12 +459,19 @@ async function renderSessionNote(tp) {
             mergeSlots(slots, extractSlots(componentText, componentPath), componentPath);
         }
 
+        if (slotsContainSessionContextTokens(slots)) {
+            await ensureCustomJsMetadataLoaded();
+            expandSessionContextTokensInSlots(slots, inferSessionTargetDate(slots, frontmatter));
+        }
+
         const renderedTemplate = renderPlaceholders(templateText, slots);
         const templateParts = splitFrontmatter(renderedTemplate);
         const renderedBody = templateParts.bodyText
             .replace(/^(?:[ \t]*\r?\n)+/, "")
             .replace(/(?:\r?\n[ \t]*)+$/, "");
-        const mergedFrontmatter = mergeFrontmatter(templateParts.frontmatterText, currentParts.frontmatterText);
+        const mergedFrontmatter = stripFrontmatterWikilinks(
+            mergeFrontmatter(templateParts.frontmatterText, currentParts.frontmatterText)
+        );
         const normalizedFrontmatter = mergedFrontmatter.replace(/\s+$/, "");
         const normalizedBody = renderedBody.replace(/^\s+/, "").replace(/\s+$/, "");
         const output = normalizedFrontmatter
@@ -293,15 +491,24 @@ async function renderSessionNote(tp) {
 module.exports = renderSessionNote;
 module.exports._test = {
     extractSlots,
+    expandSessionContextTokens,
+    expandSessionContextTokensInSlots,
+    findClosingContextParen,
+    formatSessionContextTokens,
+    inferSessionTargetDate,
     inferGeneratedRootFromNotePath,
     joinVaultPaths,
     mergeFrontmatter,
+    normalizeTargetDateCandidate,
     parseFrontmatterChunks,
     buildComponentDirName,
     resolveTemplatePath,
     renderPlaceholders,
+    slotsContainSessionContextTokens,
     slugifyText,
     splitFrontmatter,
     stemFromPath,
+    stripFrontmatterWikilinks,
+    stripWikilinks,
     stringifyFrontmatterChunks,
 };
