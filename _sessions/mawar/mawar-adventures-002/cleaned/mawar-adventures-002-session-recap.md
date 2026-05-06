@@ -34,137 +34,49 @@ Wazir presents the decoded [[The Ciphered Scroll]] to Ryu, Trok, and Kaleho at t
 #### Long
 Wazir presents [[The Ciphered Scroll]] at the Leviathan. The party connects Azar's failed resurrection experiments, Airion's ring, Nimessa's theft of the [[Sentient Ocean]], and Gazankoa's influence before agreeing to search Airion's tower after a night's rest.
 
-### Aug 4th, 1747 (morning)
+%% AI note: Timeline segments are condensed for the public session note; each segment may cover multiple recap beats. %%
+
+### Aug 4th, 1747
 
 - Timeline Segment: timeline-002
-- Timeline Key: (DR:: 1747-08-04), morning
-- Resolution: part-of-day
-- Beat IDs: beat-002, beat-003
+- Timeline Key: (DR:: 1747-08-04)
+- Resolution: day
+- Beat IDs: beat-002, beat-003, beat-004, beat-005
 - Locations: Hamri
-- NPCs: Jaeson, Samar, Reliah, Orden
+- NPCs: Jaeson, Samar, Reliah, Orden, Benat, Ovina, Sulfi's servant, Yaz
 - Organizations: none
-- Items: Ring of Water Walking, Cloak of the Manta Ray
+- Items: Ring of Water Walking, Cloak of the Manta Ray, lead-lined box, gold ring with sapphires
 - Combat Beats: none
 
 #### Short
-The party searches Airion's tower and traces its recent occupant through Hamri's informants. 
+The party searches Airion's tower and traces its recent occupant through Hamri's informants, uncovering evidence that [[Azar the Lost]] was living in hiding and seeking to purchase a lead-lined box from the smith Ovina on Shark's Dock.
 
 #### Long
-Airion's ruined tower reveals older stonework, recent occupation, and a convincing Plane of Water illusion. Jaeson, Samar, Reliah, and Orden then point the party toward a haggard gatza-smoker who had been asking about lead.
+Airion's ruined tower reveals older stonework, recent occupation, and a convincing Plane of Water illusion. Jaeson, Samar, Reliah, and Orden then point the party toward a haggard gatza-smoker who had been asking about lead. Benat explains Airion's tower and Hamri's old water-magic weak spots. Ovina reveals Azar's lead-lined box and ring payment, while Sulfi sends only a guarded reply about strange ships and harbor fees. Wazir tests Ovina's ring and box, and Yaz gives Ryu and Trok more context for the living ocean and the Splinters. Back at the Leviathan, the party plans to let one person approach Azar while the others hide nearby.
 
-### Aug 4th, 1747 (afternoon)
+### Aug 5th, 1747
 
 - Timeline Segment: timeline-003
-- Timeline Key: (DR:: 1747-08-04), afternoon
-- Resolution: part-of-day
-- Beat IDs: beat-004
+- Timeline Key: (DR:: 1747-08-05)
+- Resolution: day
+- Beat IDs: beat-006, beat-007, beat-008, beat-009
 - Locations: Hamri
-- NPCs: Benat, Ovina, Sofi's servant
+- NPCs: Azar the Lost, Ovina, drowned servant, townsfolk bystander, Sefa, drowned zombies
 - Organizations: none
-- Items: lead-lined box, gold ring with sapphires
-- Combat Beats: none
-
-#### Short
-The party talks to Benat, Ovina, and Sofi's household searching for more leads. 
-
-#### Long
-Benat explains Airion's tower and Hamri's old water-magic weak spots. Ovina reveals Azar's lead-lined box and ring payment, while Sofi sends only a guarded reply about strange ships and harbor fees.
-
-### Aug 4th, 1747 (evening)
-
-- Timeline Segment: timeline-004
-- Timeline Key: (DR:: 1747-08-04), evening
-- Resolution: part-of-day
-- Beat IDs: beat-005
-- Locations: Hamri
-- NPCs: Yaz, Ovina
-- Organizations: none
-- Items: lead-lined box, gold ring with sapphires
-- Combat Beats: none
-
-#### Short
-The party consults Yaz, an old ocean-watcher, before resting for the evening. 
-
-#### Long
-Wazir tests Ovina's ring and box, and Yaz gives Ryu and Trok more context for the living ocean and the Splinters. Back at the Leviathan, the party plans to let one person approach Azar while the others hide nearby.
-
-### Aug 5th, 1747 (morning)
-
-- Timeline Segment: timeline-005
-- Timeline Key: (DR:: 1747-08-05), morning
-- Resolution: part-of-day
-- Beat IDs: beat-006, beat-007, beat-008
-- Locations: Hamri
-- NPCs: Azar the Lost, Ovina, drowned servant, townsfolk bystander
-- Organizations: none
-- Items: lead-lined box, phantom boat, healing spirit, Eldritch Maul tattoo
+- Items: lead-lined box, phantom boat, healing spirit, Eldritch Maul tattoo, Airion's notes, Blood Knife, brass bowl, scattered coins
 - Combat Beats: beat-007, beat-008
 
 #### Short
-The party confronts Azar on Shark's Dock, defeating him in a tense fight after he refuses to parley. 
+The party confronts Azar on Shark's Dock, defeating him in a tense fight after he refuses to parley. After the fight, the party stabilizes Azar and contains the dockside chaos, hears [[Azar's Tale|Azar's full tale]], and clears his lair in the Splinters. 
 
 #### Long
-Ryu confronts Azar after he leaves Ovina's shop with the lead-lined box, and Wazir's use of Nadine's name reveals how far Azar has fallen under Gazankoa's promise. Azar answers with black tentacles, a drowned servant, and lightning before Trok's final assault drops him unconscious.
+Ryu confronts Azar after he leaves Ovina's shop with the lead-lined box, and Wazir's use of Nadine's name reveals how far Azar has fallen under Gazankoa's promise. Azar answers with black tentacles, a drowned servant, and lightning before Trok's final assault drops him unconscious. At Shark's Dock, Wazir heals [[Azar the Lost]] and the party binds him while they begin recovering from their injuries and the chaos around the dock. After recovering from their injuries, calming the civilians on Shark's Dock, and tending the woman killed in Azar's lightning blast, the party hears [[Azar's Tale|Azar's full tale]] from [[Azar the Lost]]. An evening expedition to the Splinters quickly dispatches two more drowned zombies and finds [[Sefa]], a poor older [[Gatza]] addict from the Drowned Flats who lived alone. The party recovers three books of [[Airion]]'s notes and lore, two in Drankorian and one in Elvish, locks the [[Blood Knife]] in the lead box, recovers the brass bowl, and pays the scattered coins as restitution to [[Sefa]] and the families of the dead who can be found.
 
-### Aug 5th, 1747 (morning)
+### Aug 6th, 1747
 
-- Timeline Segment: timeline-006
-- Timeline Key: (DR:: 1747-08-05), morning
-- Resolution: part-of-day
-- Beat IDs: beat-009
-- Locations: Hamri
-- NPCs: Azar the Lost
-- Organizations: none
-- Items: none
-- Combat Beats: none
-
-#### Short
-After the fight, the party stabilizes Azar and contains the dockside chaos.
-
-#### Long
-At Shark's Dock, Wazir heals [[Azar the Lost]] and the party binds him while they begin recovering from their injuries and the chaos around the dock.
-
-### Aug 5th, 1747 (afternoon)
-
-- Timeline Segment: timeline-007
-- Timeline Key: (DR:: 1747-08-05), afternoon
-- Resolution: part-of-day
-- Beat IDs: beat-009
-- Locations: Hamri
-- NPCs: Azar the Lost
-- Organizations: none
-- Items: none
-- Combat Beats: none
-
-#### Short
-The party hears [[Azar's Tale|Azar's full tale]].
-
-#### Long
-After recovering from their injuries, calming the civilians on Shark's Dock, and tending the woman killed in Azar's lightning blast, the party hears [[Azar's Tale|Azar's full tale]] from [[Azar the Lost]].
-
-### Aug 5th, 1747 (evening)
-
-- Timeline Segment: timeline-008
-- Timeline Key: (DR:: 1747-08-05), evening
-- Resolution: part-of-day
-- Beat IDs: beat-009
-- Locations: Hamri
-- NPCs: Sefa, drowned zombies
-- Organizations: none
-- Items: Airion's notes, Blood Knife, lead-lined box, brass bowl, scattered coins
-- Combat Beats: none
-
-#### Short
-The Splinters expedition clears Azar's lair and recovers his remaining evidence.
-
-#### Long
-An evening expedition to the Splinters quickly dispatches two more drowned zombies and finds [[Sefa]], a poor older [[Gatza]] addict from the Drowned Flats who lived alone. The party recovers three books of [[Airion]]'s notes and lore, two in Drankorian and one in Elvish, locks the [[Blood Knife]] in the lead box, recovers the brass bowl, and pays the scattered coins as restitution to [[Sefa]] and the families of the dead who can be found.
-
-### Aug 6th, 1747 (morning)
-
-- Timeline Segment: timeline-009
-- Timeline Key: (DR:: 1747-08-06), morning
-- Resolution: part-of-day
+- Timeline Segment: timeline-004
+- Timeline Key: (DR:: 1747-08-06)
+- Resolution: day
 - Beat IDs: beat-009
 - Locations: Hamri
 - NPCs: Azar the Lost
@@ -178,11 +90,11 @@ Wazir identifies the recovered knife and brass bowl.
 #### Long
 Wazir identifies the items recovered from Azar's lair: the [[Blood Knife]] is shrouded in mystery and darkness beyond his magic, while the brass bowl is a bowl of commanding water elementals that must be filled with fresh ocean water and used immediately.
 
-### Aug 9th, 1747 (morning)
+### Aug 9th, 1747
 
-- Timeline Segment: timeline-010
-- Timeline Key: (DR:: 1747-08-09), morning
-- Resolution: part-of-day
+- Timeline Segment: timeline-005
+- Timeline Key: (DR:: 1747-08-09)
+- Resolution: day
 - Beat IDs: beat-009
 - Locations: Hamri
 - NPCs: Azar the Lost, Benat
@@ -215,7 +127,7 @@ Azar leaves Hamri for the [[Lizardfolk]] village to the south, traveling with Be
 At the Leviathan, Wazir translates [[The Ciphered Scroll]], revealing some details of [[Azar the Lost|Azar's]] journey involving Gazankoa, Airion, Nimessa, and the stolen [[Sentient Ocean]].
 
 #### Intermediate
-At the Leviathan, Wazir reads through [[The Ciphered Scroll]], which describes a man trying to bring back his dead wife Nadine through strange experiments with that killed his victims. The account points to Gazankoa, Airion the Mistspeaker, Nimessa, Medin, Hamri, and the stolen [[Sentient Ocean]].
+At the Leviathan, Wazir reads through [[The Ciphered Scroll]], which describes a man trying to bring back his dead wife Nadine through strange experiments with that killed his victims. The account points to Gazankoa, Airion the Mistspeaker, Nimessa, Mendin, Hamri, and the stolen [[Sentient Ocean]].
 
 #### Long
 At the Leviathan, Wazir finally lays out what he has learned from [[The Ciphered Scroll]]. Its author, later identified as Azar, sought to restore his dead wife Nadine. To do so, he experimented on vulnerable people whose bodies filled with water, and eventually sought clues from the  legends of Airion the Mistspeaker, leading to summoning a [[marid]], [[Nimessa]], and making sacrifices to [[Gazankoa]]. Ryu, Trok, Kaleho, and Wazir debate resurrection lore, gatza visions, and Airion's ruined tower above the old sea cave before agreeing to rest and investigate the tower in the morning.
@@ -272,7 +184,7 @@ Seeking more information, the party fans out across Hamri for local witnesses. R
 - Time: afternoon
 - Source Range: u1381 -> u1891
 - Locations: Hamri
-- NPCs: Benat, Ovina, Sofi's servant
+- NPCs: Benat, Ovina, Sulfi's servant
 - Organizations: none
 - Items: lead-lined box, gold ring with sapphires
 - Enemies: none
@@ -281,10 +193,10 @@ Seeking more information, the party fans out across Hamri for local witnesses. R
 Continuing to investigate, the party speaks to Benat and learns Ovina, a dwarven smith, was asked to commission a lead box, pointing the investigation toward Shark's Dock.
 
 #### Intermediate
-Around midday, the group compares notes at the fish market, then presses Benat for the deeper story of Airion's tower and Hamri's old water magic. Kaleho and Trok then get Ovina to reveal she was commissioned to create a lead-lined box for the mysterious vistor, paid with a gold-and-sapphire ring. Wazir and Ryu receive only a formal, distance message from Sofi's household about strange ships.
+Around midday, the group compares notes at the fish market, then presses Benat for the deeper story of Airion's tower and Hamri's old water magic. Kaleho and Trok then get Ovina to reveal she was commissioned to create a lead-lined box for the mysterious vistor, paid with a gold-and-sapphire ring. Wazir and Ryu receive only a formal, distance message from Sulfi's household about strange ships.
 
 #### Long
-Around midday, the party regroups at the fish market and learns from Benat that Airion's tower belongs to a much older magical history around Hamri and its water-linked extraplanar weak spots. The party splits again: Kaleho and Trok visit Ovina, who admits that the old man paid with a valuable gold-and-sapphire ring for a sealed, lead-lined box, and Wazir and Ryu climb to Glitter Cliff to ask Sofi about the phantom boat. Sofi declines to meet directly, but her servant reports that she knows of no strange ship and wants any such vessel reported for proper fees and duties.
+Around midday, the party regroups at the fish market and learns from Benat that Airion's tower belongs to a much older magical history around Hamri and its water-linked extraplanar weak spots. The party splits again: Kaleho and Trok visit Ovina, who admits that the old man paid with a valuable gold-and-sapphire ring for a sealed, lead-lined box, and Wazir and Ryu climb to Glitter Cliff to ask Sulfi about the phantom boat. Sulfi declines to meet directly, but her servant reports that she knows of no strange ship and wants any such vessel reported for proper fees and duties.
 
 ### recap-005 | Yaz and Evening Plan
 
@@ -390,11 +302,11 @@ Afterward, Wazir heals Azar and the group binds him while they recover from the 
   - Hamri, 1747-08-04
 - Ovina (met): Mawaran smith
   - Hamri, 1747-08-04 to 1747-08-05
-- Sofi's servant (met): household intermediary
+- Sulfi's servant (met): household intermediary
   - Hamri, 1747-08-04
 - Yaz (met): old ocean watcher
   - Hamri, 1747-08-04
-- Azar the Lost (met, fought): old man trying to reach his boat with the box
+- Azar the Lost (met, fought): old man grieving his lost wife, corrupted by Gazankoa
   - Hamri, 1747-08-05 to 1747-08-09
 - drowned servant (fought): waterlogged undead helper
   - Hamri, 1747-08-05
@@ -408,10 +320,7 @@ Afterward, Wazir heals Azar and the group binds him while they recover from the 
 - Nadine (mentioned): Azar's dead wife
 - Nimessa (mentioned): marid summoned through Airion's ring
 - Airion (mentioned): ancient wizard and Mistspeaker
-- Medin (mentioned): place or term named in the scroll
-- recent tower occupant (mentioned): unidentified person who had been living in the tower
-- haggard old man (mentioned): suspected tower occupant
-- Sofi (mentioned): wealthy shipbuilding magnate on Glitter Cliff
+- Sulfi (mentioned): wealthy shipbuilding magnate on Glitter Cliff
 
 ## Locations
 
@@ -419,6 +328,7 @@ Afterward, Wazir heals Azar and the group binds him while they recover from the 
   - Summary: coastal port town whose cliffs, watchtowers, docks, markets, and old water-magic weak spots frame the investigation into Azar's murders
   - Sublocations: the Leviathan Inn, Airion's ruined north-face tower above the sea cave, the Drowned Flats, fish market, Ovina's smithy, Glitter Cliff, Shark's Dock, Yaz's tower, Azar's lair in the Splinters
   - Date Visited: 1747-08-03 to 1747-08-09
+- Mendin: a Mawaran coastal town mentioned in the ciphered scroll
 
 ## Organizations And Items
 
@@ -471,3 +381,13 @@ Afterward, Wazir heals Azar and the group binds him while they recover from the 
 - Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-beats.json
 - Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-beat-facts.json
 - Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-source-cleaned.md
+
+## Manual Component Reconciliation
+
+%% AI note: Added after comparing the restored manual session 2 components against this recap source. These updates push the component edits back into the structured recap so future component rebuilds preserve them. %%
+
+- Use Sulfi / Sulfi's servant, matching [[Sulfi Mahadra]], instead of Sofi / Sofi's servant.
+- Treat Mendin as a location mentioned in the ciphered scroll, rather than an NPC-style cast entry.
+- Keep the cast focused by omitting generic recent-tower-occupant and haggard-old-man entries.
+- Use the manually edited Azar summary, normalized to the canonical spelling Gazankoa.
+- Condense the public timeline to five entries while preserving merged beat coverage in each timeline element.
