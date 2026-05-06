@@ -100,6 +100,20 @@ allReplacements:
   - '[u3174 | 04:06:02.220-04:06:04.470 | DM]'
   - '[u3188 | 04:06:35.070-04:06:42.600 | DM]'
   - '[u3340 | 04:15:40.200-04:15:41.700 | DM]'
+- from: sharks Doc
+  to: Shark ' s Dock
+  count: 10
+  headers:
+  - '[u1260 | 01:44:37.320-01:44:43.650 | DM]'
+  - '[u1268 | 01:45:09.450-01:45:12.150 | Trok]'
+  - '[u1601 | 02:11:10.650-02:11:17.880 | DM]'
+  - '[u1632 | 02:14:09.810-02:14:17.580 | DM]'
+  - '[u1633 | 02:14:18.030-02:14:27.420 | DM]'
+  - '[u1634 | 02:14:28.440-02:14:33.450 | DM]'
+  - '[u1698 | 02:22:39.450-02:22:53.100 | Wazir]'
+  - '[u1818 | 02:33:36.360-02:33:39.900 | DM]'
+  - '[u2444 | 03:21:04.230-03:21:13.890 | DM]'
+  - '[u2675 | 03:36:09.420-03:36:13.290 | Ryu]'
 - from: kalo
   to: Kaleho
   count: 8
@@ -121,6 +135,25 @@ allReplacements:
   - '[u2165 | 03:00:50.070-03:00:58.290 | Ryu]'
   - '[u2213 | 03:04:44.790-03:04:47.580 | Ryu]'
   - '[u2550 | 03:29:02.280-03:29:03.570 | Wazir]'
+- from: Doc
+  to: dock
+  count: 6
+  headers:
+  - '[u1833 | 02:35:11.760-02:35:14.370 | Wazir]'
+  - '[u2491 | 03:24:30.570-03:24:37.950 | DM]'
+  - '[u2762 | 03:41:55.500-03:41:57.660 | DM]'
+  - '[u3233 | 04:09:27.510-04:09:29.460 | Trok]'
+  - '[u3234 | 04:09:30.180-04:09:35.910 | Wazir]'
+  - '[u3516 | 04:25:57.060-04:26:03.450 | DM]'
+- from: docs
+  to: docks
+  count: 5
+  headers:
+  - '[u0428 | 00:37:44.070-00:37:48.060 | Wazir]'
+  - '[u0619 | 00:54:02.160-00:54:14.640 | DM]'
+  - '[u1633 | 02:14:18.030-02:14:27.420 | DM]'
+  - '[u3472 | 04:23:03.270-04:23:06.000 | DM]'
+  - '[u3474 | 04:23:07.440-04:23:09.750 | Trok]'
 - from: Jason
   to: Jaeson
   count: 4
@@ -129,6 +162,14 @@ allReplacements:
   - '[u0990 | 01:25:25.590-01:25:27.270 | Ryu]'
   - '[u0993 | 01:25:31.230-01:25:32.850 | Ryu]'
   - '[u0998 | 01:26:06.270-01:26:12.390 | Ryu]'
+- from: area in
+  to: Airion
+  count: 4
+  headers:
+  - '[u0115 | 00:09:43.020-00:09:56.250 | Wazir]'
+  - '[u0255 | 00:20:47.670-00:20:59.010 | DM]'
+  - '[u0821 | 01:11:59.130-01:12:01.080 | Wazir]'
+  - '[u1429 | 01:58:21.900-01:58:24.000 | DM]'
 - from: gotcha
   to: gatza
   count: 4
@@ -137,6 +178,22 @@ allReplacements:
   - '[u0087 | 00:07:50.940-00:07:53.820 | Trok]'
   - '[u1081 | 01:32:03.120-01:32:04.200 | DM]'
   - '[u2043 | 02:49:59.970-02:50:02.190 | DM]'
+- from: lizard folk
+  to: lizardfolk
+  count: 4
+  headers:
+  - '[u0056 | 00:04:22.950-00:04:32.040 | DM]'
+  - '[u1384 | 01:54:27.750-01:54:45.060 | DM]'
+  - '[u1386 | 01:54:53.550-01:55:05.160 | DM]'
+  - '[u1406 | 01:57:06.180-01:57:11.670 | DM]'
+- from: midst speaker
+  to: Mistspeaker
+  count: 4
+  headers:
+  - '[u0092 | 00:08:06.810-00:08:10.560 | Wazir]'
+  - '[u0115 | 00:09:43.020-00:09:56.250 | Wazir]'
+  - '[u0255 | 00:20:47.670-00:20:59.010 | DM]'
+  - '[u0821 | 01:11:59.130-01:12:01.080 | Wazir]'
 - from: .
   to: ','
   count: 3
@@ -165,6 +222,20 @@ allReplacements:
   - '[u0270 | 00:22:17.550-00:22:19.170 | Wazir]'
   - '[u0271 | 00:22:20.160-00:22:23.730 | Wazir]'
   - '[u1578 | 02:09:14.670-02:09:21.000 | DM]'
+- from: Sophie
+  to: Sofi
+  count: 3
+  headers:
+  - '[u0424 | 00:37:17.610-00:37:18.330 | Wazir]'
+  - '[u1621 | 02:13:19.380-02:13:23.430 | Wazir]'
+  - '[u1711 | 02:23:50.670-02:23:52.200 | DM]'
+- from: dad
+  to: dead
+  count: 3
+  headers:
+  - '[u0070 | 00:06:01.440-00:06:15.600 | DM]'
+  - '[u2613 | 03:32:29.940-03:32:31.320 | DM]'
+  - '[u3444 | 04:21:32.370-04:21:37.140 | DM]'
 - from: gazza
   to: gatza
   count: 3
@@ -179,6 +250,13 @@ allReplacements:
   - '[u0063 | 00:05:10.800-00:05:15.600 | Trok]'
   - '[u1407 | 01:57:14.940-01:57:18.120 | DM]'
   - '[u2517 | 03:26:35.820-03:26:39.630 | Ryu]'
+- from: shark
+  to: Shark
+  count: 3
+  headers:
+  - '[u1632 | 02:14:09.810-02:14:17.580 | DM]'
+  - '[u1633 | 02:14:18.030-02:14:27.420 | DM]'
+  - '[u1634 | 02:14:28.440-02:14:33.450 | DM]'
 - from: yeah
   to: Yeah,
   count: 3
@@ -198,6 +276,18 @@ allReplacements:
   headers:
   - '[u1976 | 02:45:59.310-02:46:00.390 | Trok]'
   - '[u2494 | 03:24:59.700-03:25:14.670 | DM]'
+- from: Center notion
+  to: Sentient Ocean
+  count: 2
+  headers:
+  - '[u1991 | 02:47:08.070-02:47:12.120 | Ryu]'
+  - '[u3522 | 04:26:20.910-04:26:26.760 | Wazir]'
+- from: Mirko
+  to: merfolk
+  count: 2
+  headers:
+  - '[u0389 | 00:33:39.240-00:33:40.260 | Ryu]'
+  - '[u3531 | 04:26:55.470-04:26:57.930 | Ryu]'
 - from: Some are
   to: Samar
   count: 2
@@ -211,11 +301,35 @@ allReplacements:
   - '[u1599 | 02:11:02.100-02:11:06.180 | DM]'
   - '[u1977 | 02:46:00.450-02:46:01.530 | Unknown]'
 - from: area and
+  to: Airion
+  count: 2
+  headers:
+  - '[u0821 | 01:11:59.130-01:12:01.080 | Wazir]'
+  - '[u1467 | 02:01:15.780-02:01:17.460 | DM]'
+- from: area and
   to: Airion,
   count: 2
   headers:
   - '[u1450 | 01:59:48.480-01:59:50.160 | DM]'
   - '[u1587 | 02:09:50.340-02:10:01.200 | DM]'
+- from: char donations
+  to: Chardonians
+  count: 2
+  headers:
+  - '[u0155 | 00:12:46.770-00:12:51.720 | Wazir]'
+  - '[u0174 | 00:14:33.180-00:14:41.160 | Wazir]'
+- from: chart and
+  to: Chardon
+  count: 2
+  headers:
+  - '[u0194 | 00:15:53.910-00:15:59.400 | Wazir]'
+  - '[u1587 | 02:09:50.340-02:10:01.200 | DM]'
+- from: god ' s
+  to: gatza
+  count: 2
+  headers:
+  - '[u0187 | 00:15:26.970-00:15:28.080 | Trok]'
+  - '[u3488 | 04:23:40.980-04:23:48.930 | DM]'
 - from: madden
   to: Medin
   count: 2
@@ -228,18 +342,66 @@ allReplacements:
   headers:
   - '[u0273 | 00:22:36.120-00:22:40.050 | Wazir]'
   - '[u0275 | 00:22:46.260-00:22:52.200 | Wazir]'
-- from: sharks Doc
+- from: north Doc
+  to: North Dock
+  count: 2
+  headers:
+  - '[u0426 | 00:37:23.880-00:37:38.580 | Wazir]'
+  - '[u0466 | 00:40:57.510-00:41:03.930 | Wazir]'
+- from: real
+  to: Ryu
+  count: 2
+  headers:
+  - '[u2123 | 02:57:07.770-02:57:10.260 | Ryu]'
+  - '[u2491 | 03:24:30.570-03:24:37.950 | DM]'
+- from: review
+  to: Ryu
+  count: 2
+  headers:
+  - '[u0014 | 00:00:47.910-00:00:51.270 | Wazir]'
+  - '[u1819 | 02:33:42.660-02:33:57.870 | DM]'
+- from: selling
+  to: sailing
+  count: 2
+  headers:
+  - '[u0002 | 00:00:02.909-00:00:05.430 | Wazir]'
+  - '[u0410 | 00:35:29.160-00:35:41.070 | Kaleho]'
+- from: shark stock
   to: Shark ' s Dock
   count: 2
   headers:
-  - '[u1632 | 02:14:09.810-02:14:17.580 | DM]'
-  - '[u1698 | 02:22:39.450-02:22:53.100 | Wazir]'
+  - '[u1628 | 02:13:50.820-02:13:53.370 | Wazir]'
+  - '[u1892 | 02:40:01.290-02:40:11.610 | DM]'
+- from: ships
+  to: Ships
+  count: 2
+  headers:
+  - '[u0426 | 00:37:23.880-00:37:38.580 | Wazir]'
+  - '[u1623 | 02:13:26.550-02:13:27.840 | Wazir]'
+- from: soul quad
+  to: Sulqat
+  count: 2
+  headers:
+  - '[u0115 | 00:09:43.020-00:09:56.250 | Wazir]'
+  - '[u0221 | 00:18:00.180-00:18:08.610 | Wazir]'
+- from: teeth
+  to: Teeth
+  count: 2
+  headers:
+  - '[u1633 | 02:14:18.030-02:14:27.420 | DM]'
+  - '[u1634 | 02:14:28.440-02:14:33.450 | DM]'
 - from: was here.
   to: ', Wazir?'
   count: 2
   headers:
   - '[u0007 | 00:00:25.590-00:00:28.230 | Ryu]'
   - '[u1908 | 02:41:29.250-02:41:31.110 | Ryu]'
+- from: water
+  to: Water
+  count: 2
+  headers:
+  - '[u3506 | 04:25:17.310-04:25:34.260 | DM]'
+  - '[u3543 | 04:27:49.800-04:27:51.930 | DM]'
 - from: ', did'
   to: . Did
   count: 1
@@ -275,6 +437,11 @@ allReplacements:
   count: 1
   headers:
   - '[u0243 | 00:19:56.580-00:19:59.940 | Wazir]'
+- from: '70'
+  to: gatza
+  count: 1
+  headers:
+  - '[u3520 | 04:26:16.170-04:26:18.090 | DM]'
 - from: 70 and ocean, you
   to: Sentient Ocean. You
   count: 1
@@ -325,6 +492,11 @@ allReplacements:
   count: 1
   headers:
   - '[u1654 | 02:19:31.980-02:19:45.360 | DM]'
+- from: CD Doc
+  to: seedy dock
+  count: 1
+  headers:
+  - '[u1634 | 02:14:28.440-02:14:33.450 | DM]'
 - from: CD it ' s
   to: seedy,
   count: 1
@@ -335,6 +507,11 @@ allReplacements:
   count: 1
   headers:
   - '[u0983 | 01:24:51.540-01:24:56.970 | DM]'
+- from: Center nurse
+  to: Sentient Ocean
+  count: 1
+  headers:
+  - '[u3524 | 04:26:28.920-04:26:34.350 | DM]'
 - from: Claire
   to: Kaleho and
   count: 1
@@ -350,6 +527,16 @@ allReplacements:
   count: 1
   headers:
   - '[u2594 | 03:31:42.030-03:31:42.870 | Ryu]'
+- from: Doc masters
+  to: dockmasters,
+  count: 1
+  headers:
+  - '[u0422 | 00:37:02.370-00:37:10.710 | Kaleho]'
+- from: Flash
+  to: flesh
+  count: 1
+  headers:
+  - '[u0113 | 00:09:36.570-00:09:38.670 | Wazir]'
 - from: Gaza
   to: gatza,
   count: 1
@@ -380,6 +567,11 @@ allReplacements:
   count: 1
   headers:
   - '[u1294 | 01:46:39.870-01:46:40.650 | Ryu]'
+- from: He arians
+  to: Airion ' s
+  count: 1
+  headers:
+  - '[u3524 | 04:26:28.920-04:26:34.350 | DM]'
 - from: Jason
   to: ', Jaeson,'
   count: 1
@@ -390,11 +582,21 @@ allReplacements:
   count: 1
   headers:
   - '[u0982 | 01:24:39.990-01:24:49.950 | DM]'
+- from: Jordan
+  to: Chardon
+  count: 1
+  headers:
+  - '[u0143 | 00:12:01.050-00:12:04.890 | Wazir]'
 - from: Klaus
   to: Kaleho
   count: 1
   headers:
   - '[u1694 | 02:22:23.160-02:22:26.400 | Wazir]'
+- from: Laura
+  to: lore
+  count: 1
+  headers:
+  - '[u0048 | 00:03:11.850-00:03:16.680 | DM]'
 - from: Medina
   to: Medin
   count: 1
@@ -425,6 +627,11 @@ allReplacements:
   count: 1
   headers:
   - '[u1298 | 01:46:53.520-01:46:59.550 | Ryu]'
+- from: Rhea
+  to: Ryu
+  count: 1
+  headers:
+  - '[u0989 | 01:25:13.800-01:25:25.080 | DM]'
 - from: Rio was
   to: Ryu were
   count: 1
@@ -485,26 +692,61 @@ allReplacements:
   count: 1
   headers:
   - '[u2213 | 03:04:44.790-03:04:47.580 | Ryu]'
+- from: Was there
+  to: Wazir
+  count: 1
+  headers:
+  - '[u1603 | 02:11:28.860-02:11:39.480 | DM]'
 - from: When he was here
   to: I mean, Wazir
   count: 1
   headers:
   - '[u1315 | 01:47:55.440-01:48:03.510 | Wazir]'
+- from: You
+  to: I
+  count: 1
+  headers:
+  - '[u0009 | 00:00:32.760-00:00:35.880 | DM]'
+- from: a
+  to: an
+  count: 1
+  headers:
+  - '[u0410 | 00:35:29.160-00:35:41.070 | Kaleho]'
 - from: a bizarre
   to: Azar
   count: 1
   headers:
   - '[u2602 | 03:31:58.020-03:32:01.350 | DM]'
+- from: a halo the messa
+  to: ', Kaleho, Nimessa'
+  count: 1
+  headers:
+  - '[u0219 | 00:17:39.390-00:17:54.090 | Wazir]'
 - from: a word in.
   to: Orden,
   count: 1
   headers:
   - '[u0982 | 01:24:39.990-01:24:49.950 | DM]'
+- from: airlines
+  to: Airion ' s,
+  count: 1
+  headers:
+  - '[u0221 | 00:18:00.180-00:18:08.610 | Wazir]'
+- from: alien
+  to: Airion
+  count: 1
+  headers:
+  - '[u0203 | 00:16:35.250-00:16:43.440 | Wazir]'
 - from: all
   to: old
   count: 1
   headers:
   - '[u1226 | 01:42:17.160-01:42:17.940 | Trok]'
+- from: an
+  to: . An
+  count: 1
+  headers:
+  - '[u0003 | 00:00:07.980-00:00:16.619 | Wazir]'
 - from: an area is
   to: in Airion ' s
   count: 1
@@ -525,56 +767,101 @@ allReplacements:
   count: 1
   headers:
   - '[u0265 | 00:21:50.220-00:22:00.360 | Wazir]'
+- from: and omri
+  to: in Hamri
+  count: 1
+  headers:
+  - '[u1602 | 02:11:18.390-02:11:28.290 | DM]'
 - from: and tap
   to: in town
   count: 1
   headers:
   - '[u1312 | 01:47:39.000-01:47:50.760 | Wazir]'
+- from: aqua
+  to: Aquan
+  count: 1
+  headers:
+  - '[u0219 | 00:17:39.390-00:17:54.090 | Wazir]'
 - from: are
   to: or
   count: 1
   headers:
   - '[u0065 | 00:05:18.420-00:05:25.500 | DM]'
-- from: area and
-  to: Airion
-  count: 1
-  headers:
-  - '[u1467 | 02:01:15.780-02:01:17.460 | DM]'
 - from: area in
-  to: Airion
+  to: ', Airion'
   count: 1
   headers:
-  - '[u1429 | 01:58:21.900-01:58:24.000 | DM]'
+  - '[u0092 | 00:08:06.810-00:08:10.560 | Wazir]'
 - from: areas
   to: Airion ' s
   count: 1
   headers:
   - '[u2199 | 03:03:25.590-03:03:34.620 | Ryu]'
+- from: arians
+  to: Airion ' s sites,
+  count: 1
+  headers:
+  - '[u3506 | 04:25:17.310-04:25:34.260 | DM]'
+- from: arians rang
+  to: Airion ' s ring
+  count: 1
+  headers:
+  - '[u3532 | 04:26:59.220-04:27:06.660 | DM]'
 - from: as
   to: is
   count: 1
   headers:
   - '[u2199 | 03:03:25.590-03:03:34.620 | Ryu]'
+- from: as there
+  to: Azar
+  count: 1
+  headers:
+  - '[u3506 | 04:25:17.310-04:25:34.260 | DM]'
+- from: bar folk
+  to: merfolk
+  count: 1
+  headers:
+  - '[u3541 | 04:27:39.300-04:27:42.300 | Ryu]'
+- from: beta
+  to: anticipated
+  count: 1
+  headers:
+  - '[u3516 | 04:25:57.060-04:26:03.450 | DM]'
 - from: bizarre
   to: Azar
   count: 1
   headers:
   - '[u2603 | 03:32:03.420-03:32:03.900 | Ryu]'
+- from: busy or
+  to: I
+  count: 1
+  headers:
+  - '[u0014 | 00:00:47.910-00:00:51.270 | Wazir]'
 - from: but was here
   to: is that Wazir
   count: 1
   headers:
   - '[u1312 | 01:47:39.000-01:47:50.760 | Wazir]'
-- from: chart and
-  to: Chardon
+- from: called
+  to: cold
   count: 1
   headers:
-  - '[u1587 | 02:09:50.340-02:10:01.200 | DM]'
-- from: dad
-  to: dead
+  - '[u0107 | 00:09:15.120-00:09:19.020 | DM]'
+- from: chart odeon
+  to: Chardonians
   count: 1
   headers:
-  - '[u2613 | 03:32:29.940-03:32:31.320 | DM]'
+  - '[u0158 | 00:13:01.800-00:13:11.520 | Wazir]'
+- from: charts aliens
+  to: Chardonians
+  count: 1
+  headers:
+  - '[u0194 | 00:15:53.910-00:15:59.400 | Wazir]'
+- from: day is
+  to: days
+  count: 1
+  headers:
+  - '[u3540 | 04:27:29.100-04:27:38.850 | DM]'
 - from: dina
   to: Ovina
   count: 1
@@ -595,21 +882,61 @@ allReplacements:
   count: 1
   headers:
   - '[u0066 | 00:05:26.700-00:05:43.830 | DM]'
+- from: drink
+  to: drank
+  count: 1
+  headers:
+  - '[u3531 | 04:26:55.470-04:26:57.930 | Ryu]'
 - from: drown flats
   to: Drowned Flats
   count: 1
   headers:
   - '[u2204 | 03:03:54.450-03:03:58.410 | Ryu]'
+- from: elemental
+  to: elementals
+  count: 1
+  headers:
+  - '[u0158 | 00:13:01.800-00:13:11.520 | Wazir]'
+- from: elemental is
+  to: elementals
+  count: 1
+  headers:
+  - '[u0099 | 00:08:37.380-00:08:43.620 | Wazir]'
 - from: errands or
   to: Airion ' s
   count: 1
   headers:
   - '[u1511 | 02:04:31.740-02:04:35.250 | Wazir]'
+- from: fit that
+  to: It
+  count: 1
+  headers:
+  - '[u0106 | 00:09:12.480-00:09:14.520 | DM]'
+- from: for the
+  to: who
+  count: 1
+  headers:
+  - '[u0422 | 00:37:02.370-00:37:10.710 | Kaleho]'
 - from: for was here
   to: Wazir
   count: 1
   headers:
   - '[u1301 | 01:47:09.390-01:47:14.370 | Ryu]'
+- from: for your
+  to: or you ' re
+  count: 1
+  headers:
+  - '[u0072 | 00:06:18.480-00:06:29.940 | DM]'
+- from: founder
+  to: found a
+  count: 1
+  headers:
+  - '[u0219 | 00:17:39.390-00:17:54.090 | Wazir]'
+- from: g spot the it
+  to: It
+  count: 1
+  headers:
+  - '[u3537 | 04:27:16.350-04:27:22.230 | DM]'
 - from: glitter cliff this like like nearly to the top
   to: Glitter Cliff,
   count: 1
@@ -630,6 +957,11 @@ allReplacements:
   count: 1
   headers:
   - '[u0043 | 00:02:52.740-00:03:00.300 | Wazir]'
+- from: gods
+  to: gatza
+  count: 1
+  headers:
+  - '[u0142 | 00:11:48.780-00:11:59.280 | Wazir]'
 - from: gods are
   to: gatza,
   count: 1
@@ -645,6 +977,16 @@ allReplacements:
   count: 1
   headers:
   - '[u0041 | 00:02:47.760-00:02:49.470 | Wazir]'
+- from: guts
+  to: gatza
+  count: 1
+  headers:
+  - '[u0186 | 00:15:24.720-00:15:25.680 | Trok]'
+- from: guts out there ' s got it
+  to: gatza,
+  count: 1
+  headers:
+  - '[u0086 | 00:07:35.190-00:07:49.200 | Wazir]'
 - from: guys oka
   to: Gazankoa,
   count: 1
@@ -680,26 +1022,66 @@ allReplacements:
   count: 1
   headers:
   - '[u1462 | 02:00:47.520-02:00:51.570 | DM]'
+- from: heaps
+  to: he keeps
+  count: 1
+  headers:
+  - '[u0086 | 00:07:35.190-00:07:49.200 | Wazir]'
 - from: hell
   to: Hail
   count: 1
   headers:
   - '[u2123 | 02:57:07.770-02:57:10.260 | Ryu]'
+- from: hungry
+  to: Hamri
+  count: 1
+  headers:
+  - '[u3542 | 04:27:42.660-04:27:47.850 | DM]'
+- from: hungry and off
+  to: Hamri enough
+  count: 1
+  headers:
+  - '[u1610 | 02:12:26.760-02:12:34.260 | DM]'
 - from: i ' m review
   to: Ryu
   count: 1
   headers:
   - '[u0982 | 01:24:39.990-01:24:49.950 | DM]'
+- from: in
+  to: ', and'
+  count: 1
+  headers:
+  - '[u0422 | 00:37:02.370-00:37:10.710 | Kaleho]'
+- from: in
+  to: and
+  count: 1
+  headers:
+  - '[u3540 | 04:27:29.100-04:27:38.850 | DM]'
+- from: in
+  to: of
+  count: 1
+  headers:
+  - '[u0158 | 00:13:01.800-00:13:11.520 | Wazir]'
 - from: isn
   to: Isn
   count: 1
   headers:
   - '[u2550 | 03:29:02.280-03:29:03.570 | Wazir]'
+- from: it ' s playing
+  to: its Plane
+  count: 1
+  headers:
+  - '[u3543 | 04:27:49.800-04:27:51.930 | DM]'
 - from: it was Erica go talk to Sophie and co
   to: ', Wazir or Ryu,'
   count: 1
   headers:
   - '[u1698 | 02:22:39.450-02:22:53.100 | Wazir]'
+- from: jeannie American
+  to: genie, a marid, and
+  count: 1
+  headers:
+  - '[u3532 | 04:26:59.220-04:27:06.660 | DM]'
 - from: kalo
   to: ', Kaleho'
   count: 1
@@ -735,26 +1117,86 @@ allReplacements:
   count: 1
   headers:
   - '[u1819 | 02:33:42.660-02:33:57.870 | DM]'
+- from: like
+  to: alert
+  count: 1
+  headers:
+  - '[u0387 | 00:33:14.040-00:33:30.120 | Kaleho]'
+- from: made
+  to: maybe
+  count: 1
+  headers:
+  - '[u0096 | 00:08:23.220-00:08:26.280 | Wazir]'
 - from: man, woman Smith
   to: Mawaran smith
   count: 1
   headers:
   - '[u1599 | 02:11:02.100-02:11:06.180 | DM]'
+- from: mark what
+  to: Malaq,
+  count: 1
+  headers:
+  - '[u0196 | 00:16:06.090-00:16:08.040 | Wazir]'
+- from: marriage
+  to: ', marids'
+  count: 1
+  headers:
+  - '[u3535 | 04:27:11.460-04:27:15.510 | DM]'
+- from: marriage or
+  to: ', marids will'
+  count: 1
+  headers:
+  - '[u3535 | 04:27:11.460-04:27:15.510 | DM]'
+- from: marriage some into guardians
+  to: marids are summoned to guard and
+  count: 1
+  headers:
+  - '[u3537 | 04:27:16.350-04:27:22.230 | DM]'
 - from: master
   to: marid
   count: 1
   headers:
   - '[u0271 | 00:22:20.160-00:22:23.730 | Wazir]'
+- from: medina ' s
+  to: Medin is
+  count: 1
+  headers:
+  - '[u0006 | 00:00:22.440-00:00:24.000 | Wazir]'
+- from: miss
+  to: Mistspeaker
+  count: 1
+  headers:
+  - '[u0203 | 00:16:35.250-00:16:43.440 | Wazir]'
+- from: missed
+  to: mist
+  count: 1
+  headers:
+  - '[u0103 | 00:08:52.230-00:09:06.060 | Wazir]'
 - from: misspeak or how to
   to: Mistspeaker had a
   count: 1
   headers:
   - '[u1429 | 01:58:21.900-01:58:24.000 | DM]'
+- from: more folk
+  to: merfolk
+  count: 1
+  headers:
+  - '[u0387 | 00:33:14.040-00:33:30.120 | Kaleho]'
 - from: nadeem
   to: Nadine,
   count: 1
   headers:
   - '[u2592 | 03:31:39.690-03:31:41.070 | Wazir]'
+- from: 'no'
+  to: know
+  count: 1
+  headers:
+  - '[u0428 | 00:37:44.070-00:37:48.060 | Wazir]'
+- from: no,
+  to: know
+  count: 1
+  headers:
+  - '[u0428 | 00:37:44.070-00:37:48.060 | Wazir]'
 - from: of control airlines
   to: Airion ' s
   count: 1
@@ -770,6 +1212,16 @@ allReplacements:
   count: 1
   headers:
   - '[u2144 | 02:58:57.900-02:59:02.310 | Ryu]'
+- from: one cow let
+  to: look, Kaleho, at
+  count: 1
+  headers:
+  - '[u0403 | 00:34:59.190-00:35:02.490 | Wazir]'
+- from: or two
+  to: her to
+  count: 1
+  headers:
+  - '[u3540 | 04:27:29.100-04:27:38.850 | DM]'
 - from: order hey i ' ll see
   to: ', Orden? Hey, if'
   count: 1
@@ -780,21 +1232,46 @@ allReplacements:
   count: 1
   headers:
   - '[u1205 | 01:40:36.060-01:40:37.140 | DM]'
-- from: real
+- from: pests
+  to: pissed
+  count: 1
+  headers:
+  - '[u3539 | 04:27:23.460-04:27:27.720 | DM]'
+- from: plane
+  to: Plane
+  count: 1
+  headers:
+  - '[u3506 | 04:25:17.310-04:25:34.260 | DM]'
+- from: pot
+  to: powerful
+  count: 1
+  headers:
+  - '[u0055 | 00:04:11.520-00:04:21.390 | DM]'
+- from: praying
+  to: preying
+  count: 1
+  headers:
+  - '[u0086 | 00:07:35.190-00:07:49.200 | Wazir]'
+- from: re you
   to: Ryu
   count: 1
   headers:
-  - '[u2123 | 02:57:07.770-02:57:10.260 | Ryu]'
-- from: review
-  to: Ryu
-  count: 1
-  headers:
-  - '[u1819 | 02:33:42.660-02:33:57.870 | DM]'
+  - '[u1709 | 02:23:34.350-02:23:44.250 | DM]'
 - from: sad
   to: said
   count: 1
   headers:
   - '[u1544 | 02:06:52.290-02:06:55.620 | DM]'
+- from: safety and what are
+  to: sentient water
+  count: 1
+  headers:
+  - '[u3537 | 04:27:16.350-04:27:22.230 | DM]'
+- from: saltwater
+  to: Sulqat River
+  count: 1
+  headers:
+  - '[u0167 | 00:13:58.740-00:14:03.060 | Wazir]'
 - from: sea water.
   to: seawater?
   count: 1
@@ -805,31 +1282,71 @@ allReplacements:
   count: 1
   headers:
   - '[u2004 | 02:47:50.100-02:47:56.880 | Wazir]'
+- from: selfie with
+  to: Sofi would
+  count: 1
+  headers:
+  - '[u1618 | 02:13:11.460-02:13:12.780 | Unknown]'
+- from: sell the rights to
+  to: sailed right through
+  count: 1
+  headers:
+  - '[u1260 | 01:44:37.320-01:44:43.650 | DM]'
 - from: selling never
   to: sailing. Never
   count: 1
   headers:
   - '[u1587 | 02:09:50.340-02:10:01.200 | DM]'
+- from: send
+  to: sent
+  count: 1
+  headers:
+  - '[u0009 | 00:00:32.760-00:00:35.880 | DM]'
 - from: sentence ocean
   to: Sentient Ocean
   count: 1
   headers:
   - '[u1972 | 02:45:40.740-02:45:44.190 | Wazir]'
-- from: shark
-  to: Shark
+- from: sharks Doc
+  to: Shark ' s Dock,
   count: 1
   headers:
-  - '[u1632 | 02:14:09.810-02:14:17.580 | DM]'
+  - '[u1261 | 01:44:44.610-01:44:47.130 | Trok]'
+- from: smith ' s
+  to: smiths
+  count: 1
+  headers:
+  - '[u1602 | 02:11:18.390-02:11:28.290 | DM]'
 - from: somebody
   to: . Somebody
   count: 1
   headers:
   - '[u1698 | 02:22:39.450-02:22:53.100 | Wazir]'
+- from: sorcerer ' s
+  to: sorcerers
+  count: 1
+  headers:
+  - '[u0158 | 00:13:01.800-00:13:11.520 | Wazir]'
+- from: soul quiet
+  to: Sulqat
+  count: 1
+  headers:
+  - '[u0204 | 00:16:46.140-00:16:51.330 | Wazir]'
+- from: stormy maiden
+  to: Stormy Maiden
+  count: 1
+  headers:
+  - '[u0466 | 00:40:57.510-00:41:03.930 | Wazir]'
 - from: switch back
   to: switchback
   count: 1
   headers:
   - '[u1819 | 02:33:42.660-02:33:57.870 | DM]'
+- from: talk
+  to: Trok
+  count: 1
+  headers:
+  - '[u0014 | 00:00:47.910-00:00:51.270 | Wazir]'
 - from: teeth
   to: Teeth,
   count: 1
@@ -840,6 +1357,11 @@ allReplacements:
   count: 1
   headers:
   - '[u1152 | 01:36:54.600-01:37:00.750 | Wazir]'
+- from: that
+  to: at
+  count: 1
+  headers:
+  - '[u1833 | 02:35:11.760-02:35:14.370 | Wazir]'
 - from: that God
   to: had gone
   count: 1
@@ -855,11 +1377,31 @@ allReplacements:
   count: 1
   headers:
   - '[u2159 | 03:00:12.570-03:00:23.970 | Ryu]'
+- from: they ' re
+  to: there
+  count: 1
+  headers:
+  - '[u1261 | 01:44:44.610-01:44:47.130 | Trok]'
+- from: to
+  to: too
+  count: 1
+  headers:
+  - '[u1628 | 02:13:50.820-02:13:53.370 | Wazir]'
+- from: to to
+  to: too
+  count: 1
+  headers:
+  - '[u0379 | 00:32:34.560-00:32:39.690 | Ryu]'
 - from: towel,
   to: told.
   count: 1
   headers:
   - '[u1553 | 02:07:23.790-02:07:26.730 | DM]'
+- from: transition Aires
+  to: transitionary
+  count: 1
+  headers:
+  - '[u0071 | 00:06:16.560-00:06:18.480 | DM]'
 - from: truck
   to: ', Trok'
   count: 1
@@ -890,11 +1432,21 @@ allReplacements:
   count: 1
   headers:
   - '[u1404 | 01:57:00.150-01:57:02.730 | DM]'
+- from: uncharted
+  to: in Chardon
+  count: 1
+  headers:
+  - '[u0103 | 00:08:52.230-00:09:06.060 | Wazir]'
 - from: up
   to: ','
   count: 1
   headers:
   - '[u2046 | 02:50:11.070-02:50:21.660 | DM]'
+- from: up forever
+  to: upriver
+  count: 1
+  headers:
+  - '[u0142 | 00:11:48.780-00:11:59.280 | Wazir]'
 - from: varian air in areas
   to: Airion ' s
   count: 1
@@ -925,6 +1477,11 @@ allReplacements:
   count: 1
   headers:
   - '[u0968 | 01:23:26.130-01:23:36.600 | Ryu]'
+- from: was there i
+  to: ', Wazir, I'
+  count: 1
+  headers:
+  - '[u0185 | 00:15:20.610-00:15:24.390 | Trok]'
 - from: we
   to: ','
   count: 1
@@ -935,11 +1492,21 @@ allReplacements:
   count: 1
   headers:
   - '[u2159 | 03:00:12.570-03:00:23.970 | Ryu]'
+- from: we hope
+  to: Kaleho,
+  count: 1
+  headers:
+  - '[u0379 | 00:32:34.560-00:32:39.690 | Ryu]'
 - from: well Jason
   to: . Well, Jaeson,
   count: 1
   headers:
   - '[u1093 | 01:32:46.650-01:32:52.320 | Ryu]'
+- from: what our
+  to: or water
+  count: 1
+  headers:
+  - '[u0221 | 00:18:00.180-00:18:08.610 | Wazir]'
 - from: will them
   to: want melted
   count: 1
@@ -950,6 +1517,11 @@ allReplacements:
   count: 1
   headers:
   - '[u0971 | 01:23:53.280-01:23:55.320 | Wazir]'
+- from: work
+  to: look
+  count: 1
+  headers:
+  - '[u0003 | 00:00:07.980-00:00:16.619 | Wazir]'
 - from: wow
   to: well
   count: 1
@@ -986,10 +1558,20 @@ allReplacements:
   headers:
   - '[u2123 | 02:57:07.770-02:57:10.260 | Ryu]'
 - from: you
+  to: chew
+  count: 1
+  headers:
+  - '[u0029 | 00:01:43.110-00:01:45.600 | Trok]'
+- from: you
   to: he
   count: 1
   headers:
   - '[u0968 | 01:23:26.130-01:23:36.600 | Ryu]'
+- from: you you
+  to: . You
+  count: 1
+  headers:
+  - '[u0072 | 00:06:18.480-00:06:29.940 | DM]'
 - from: zero
   to: Wazir,
   count: 1
@@ -1097,6 +1679,20 @@ repeatedReplacements:
   - '[u3174 | 04:06:02.220-04:06:04.470 | DM]'
   - '[u3188 | 04:06:35.070-04:06:42.600 | DM]'
   - '[u3340 | 04:15:40.200-04:15:41.700 | DM]'
+- from: sharks Doc
+  to: Shark ' s Dock
+  count: 10
+  headers:
+  - '[u1260 | 01:44:37.320-01:44:43.650 | DM]'
+  - '[u1268 | 01:45:09.450-01:45:12.150 | Trok]'
+  - '[u1601 | 02:11:10.650-02:11:17.880 | DM]'
+  - '[u1632 | 02:14:09.810-02:14:17.580 | DM]'
+  - '[u1633 | 02:14:18.030-02:14:27.420 | DM]'
+  - '[u1634 | 02:14:28.440-02:14:33.450 | DM]'
+  - '[u1698 | 02:22:39.450-02:22:53.100 | Wazir]'
+  - '[u1818 | 02:33:36.360-02:33:39.900 | DM]'
+  - '[u2444 | 03:21:04.230-03:21:13.890 | DM]'
+  - '[u2675 | 03:36:09.420-03:36:13.290 | Ryu]'
 - from: kalo
   to: Kaleho
   count: 8
@@ -1118,6 +1714,25 @@ repeatedReplacements:
   - '[u2165 | 03:00:50.070-03:00:58.290 | Ryu]'
   - '[u2213 | 03:04:44.790-03:04:47.580 | Ryu]'
   - '[u2550 | 03:29:02.280-03:29:03.570 | Wazir]'
+- from: Doc
+  to: dock
+  count: 6
+  headers:
+  - '[u1833 | 02:35:11.760-02:35:14.370 | Wazir]'
+  - '[u2491 | 03:24:30.570-03:24:37.950 | DM]'
+  - '[u2762 | 03:41:55.500-03:41:57.660 | DM]'
+  - '[u3233 | 04:09:27.510-04:09:29.460 | Trok]'
+  - '[u3234 | 04:09:30.180-04:09:35.910 | Wazir]'
+  - '[u3516 | 04:25:57.060-04:26:03.450 | DM]'
+- from: docs
+  to: docks
+  count: 5
+  headers:
+  - '[u0428 | 00:37:44.070-00:37:48.060 | Wazir]'
+  - '[u0619 | 00:54:02.160-00:54:14.640 | DM]'
+  - '[u1633 | 02:14:18.030-02:14:27.420 | DM]'
+  - '[u3472 | 04:23:03.270-04:23:06.000 | DM]'
+  - '[u3474 | 04:23:07.440-04:23:09.750 | Trok]'
 - from: Jason
   to: Jaeson
   count: 4
@@ -1126,6 +1741,14 @@ repeatedReplacements:
   - '[u0990 | 01:25:25.590-01:25:27.270 | Ryu]'
   - '[u0993 | 01:25:31.230-01:25:32.850 | Ryu]'
   - '[u0998 | 01:26:06.270-01:26:12.390 | Ryu]'
+- from: area in
+  to: Airion
+  count: 4
+  headers:
+  - '[u0115 | 00:09:43.020-00:09:56.250 | Wazir]'
+  - '[u0255 | 00:20:47.670-00:20:59.010 | DM]'
+  - '[u0821 | 01:11:59.130-01:12:01.080 | Wazir]'
+  - '[u1429 | 01:58:21.900-01:58:24.000 | DM]'
 - from: gotcha
   to: gatza
   count: 4
@@ -1134,6 +1757,22 @@ repeatedReplacements:
   - '[u0087 | 00:07:50.940-00:07:53.820 | Trok]'
   - '[u1081 | 01:32:03.120-01:32:04.200 | DM]'
   - '[u2043 | 02:49:59.970-02:50:02.190 | DM]'
+- from: lizard folk
+  to: lizardfolk
+  count: 4
+  headers:
+  - '[u0056 | 00:04:22.950-00:04:32.040 | DM]'
+  - '[u1384 | 01:54:27.750-01:54:45.060 | DM]'
+  - '[u1386 | 01:54:53.550-01:55:05.160 | DM]'
+  - '[u1406 | 01:57:06.180-01:57:11.670 | DM]'
+- from: midst speaker
+  to: Mistspeaker
+  count: 4
+  headers:
+  - '[u0092 | 00:08:06.810-00:08:10.560 | Wazir]'
+  - '[u0115 | 00:09:43.020-00:09:56.250 | Wazir]'
+  - '[u0255 | 00:20:47.670-00:20:59.010 | DM]'
+  - '[u0821 | 01:11:59.130-01:12:01.080 | Wazir]'
 - from: .
   to: ','
   count: 3
@@ -1162,6 +1801,20 @@ repeatedReplacements:
   - '[u0270 | 00:22:17.550-00:22:19.170 | Wazir]'
   - '[u0271 | 00:22:20.160-00:22:23.730 | Wazir]'
   - '[u1578 | 02:09:14.670-02:09:21.000 | DM]'
+- from: Sophie
+  to: Sofi
+  count: 3
+  headers:
+  - '[u0424 | 00:37:17.610-00:37:18.330 | Wazir]'
+  - '[u1621 | 02:13:19.380-02:13:23.430 | Wazir]'
+  - '[u1711 | 02:23:50.670-02:23:52.200 | DM]'
+- from: dad
+  to: dead
+  count: 3
+  headers:
+  - '[u0070 | 00:06:01.440-00:06:15.600 | DM]'
+  - '[u2613 | 03:32:29.940-03:32:31.320 | DM]'
+  - '[u3444 | 04:21:32.370-04:21:37.140 | DM]'
 - from: gazza
   to: gatza
   count: 3
@@ -1176,6 +1829,13 @@ repeatedReplacements:
   - '[u0063 | 00:05:10.800-00:05:15.600 | Trok]'
   - '[u1407 | 01:57:14.940-01:57:18.120 | DM]'
   - '[u2517 | 03:26:35.820-03:26:39.630 | Ryu]'
+- from: shark
+  to: Shark
+  count: 3
+  headers:
+  - '[u1632 | 02:14:09.810-02:14:17.580 | DM]'
+  - '[u1633 | 02:14:18.030-02:14:27.420 | DM]'
+  - '[u1634 | 02:14:28.440-02:14:33.450 | DM]'
 - from: yeah
   to: Yeah,
   count: 3
@@ -1195,6 +1855,18 @@ repeatedReplacements:
   headers:
   - '[u1976 | 02:45:59.310-02:46:00.390 | Trok]'
   - '[u2494 | 03:24:59.700-03:25:14.670 | DM]'
+- from: Center notion
+  to: Sentient Ocean
+  count: 2
+  headers:
+  - '[u1991 | 02:47:08.070-02:47:12.120 | Ryu]'
+  - '[u3522 | 04:26:20.910-04:26:26.760 | Wazir]'
+- from: Mirko
+  to: merfolk
+  count: 2
+  headers:
+  - '[u0389 | 00:33:39.240-00:33:40.260 | Ryu]'
+  - '[u3531 | 04:26:55.470-04:26:57.930 | Ryu]'
 - from: Some are
   to: Samar
   count: 2
@@ -1208,11 +1880,35 @@ repeatedReplacements:
   - '[u1599 | 02:11:02.100-02:11:06.180 | DM]'
   - '[u1977 | 02:46:00.450-02:46:01.530 | Unknown]'
 - from: area and
+  to: Airion
+  count: 2
+  headers:
+  - '[u0821 | 01:11:59.130-01:12:01.080 | Wazir]'
+  - '[u1467 | 02:01:15.780-02:01:17.460 | DM]'
+- from: area and
   to: Airion,
   count: 2
   headers:
   - '[u1450 | 01:59:48.480-01:59:50.160 | DM]'
   - '[u1587 | 02:09:50.340-02:10:01.200 | DM]'
+- from: char donations
+  to: Chardonians
+  count: 2
+  headers:
+  - '[u0155 | 00:12:46.770-00:12:51.720 | Wazir]'
+  - '[u0174 | 00:14:33.180-00:14:41.160 | Wazir]'
+- from: chart and
+  to: Chardon
+  count: 2
+  headers:
+  - '[u0194 | 00:15:53.910-00:15:59.400 | Wazir]'
+  - '[u1587 | 02:09:50.340-02:10:01.200 | DM]'
+- from: god ' s
+  to: gatza
+  count: 2
+  headers:
+  - '[u0187 | 00:15:26.970-00:15:28.080 | Trok]'
+  - '[u3488 | 04:23:40.980-04:23:48.930 | DM]'
 - from: madden
   to: Medin
   count: 2
@@ -1225,16 +1921,64 @@ repeatedReplacements:
   headers:
   - '[u0273 | 00:22:36.120-00:22:40.050 | Wazir]'
   - '[u0275 | 00:22:46.260-00:22:52.200 | Wazir]'
-- from: sharks Doc
+- from: north Doc
+  to: North Dock
+  count: 2
+  headers:
+  - '[u0426 | 00:37:23.880-00:37:38.580 | Wazir]'
+  - '[u0466 | 00:40:57.510-00:41:03.930 | Wazir]'
+- from: real
+  to: Ryu
+  count: 2
+  headers:
+  - '[u2123 | 02:57:07.770-02:57:10.260 | Ryu]'
+  - '[u2491 | 03:24:30.570-03:24:37.950 | DM]'
+- from: review
+  to: Ryu
+  count: 2
+  headers:
+  - '[u0014 | 00:00:47.910-00:00:51.270 | Wazir]'
+  - '[u1819 | 02:33:42.660-02:33:57.870 | DM]'
+- from: selling
+  to: sailing
+  count: 2
+  headers:
+  - '[u0002 | 00:00:02.909-00:00:05.430 | Wazir]'
+  - '[u0410 | 00:35:29.160-00:35:41.070 | Kaleho]'
+- from: shark stock
   to: Shark ' s Dock
   count: 2
   headers:
-  - '[u1632 | 02:14:09.810-02:14:17.580 | DM]'
-  - '[u1698 | 02:22:39.450-02:22:53.100 | Wazir]'
+  - '[u1628 | 02:13:50.820-02:13:53.370 | Wazir]'
+  - '[u1892 | 02:40:01.290-02:40:11.610 | DM]'
+- from: ships
+  to: Ships
+  count: 2
+  headers:
+  - '[u0426 | 00:37:23.880-00:37:38.580 | Wazir]'
+  - '[u1623 | 02:13:26.550-02:13:27.840 | Wazir]'
+- from: soul quad
+  to: Sulqat
+  count: 2
+  headers:
+  - '[u0115 | 00:09:43.020-00:09:56.250 | Wazir]'
+  - '[u0221 | 00:18:00.180-00:18:08.610 | Wazir]'
+- from: teeth
+  to: Teeth
+  count: 2
+  headers:
+  - '[u1633 | 02:14:18.030-02:14:27.420 | DM]'
+  - '[u1634 | 02:14:28.440-02:14:33.450 | DM]'
 - from: was here.
   to: ', Wazir?'
   count: 2
   headers:
   - '[u0007 | 00:00:25.590-00:00:28.230 | Ryu]'
   - '[u1908 | 02:41:29.250-02:41:31.110 | Ryu]'
+- from: water
+  to: Water
+  count: 2
+  headers:
+  - '[u3506 | 04:25:17.310-04:25:34.260 | DM]'
+  - '[u3543 | 04:27:49.800-04:27:51.930 | DM]'
 unresolvedPhrases: []

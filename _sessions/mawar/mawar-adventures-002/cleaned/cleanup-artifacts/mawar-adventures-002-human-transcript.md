@@ -1,18 +1,18 @@
 # Human-Readable Transcript
 
-**Wazir:** hey. I pay some attention to the boats selling in and out. Asked around and nobody had seen this one come in or out, but yet it was gone when I went to work for it again an odd boat made me wonder. But. Medin. medina's mentioned in this scroll.
+**Wazir:** hey. I pay some attention to the boats sailing in and out. Asked around and nobody had seen this one come in or out, but yet it was gone when I went to look for it again. An odd boat made me wonder. But. Medin. Medin is mentioned in this scroll.
 
 **Ryu:** What does the scroll say, are we able to decipher it, Wazir?
 
 **Wazir:** yeah I said I said you haven't actually read it.
 
-**DM:** You think we send you a copy of years ago it's in your email.
+**DM:** I think we sent you a copy of it years ago, it's in your email.
 
 **Ryu:** I don't get an email, and my cave.
 
 **Trok:** yeah.
 
-**Wazir:** Right, I mean i'm. Real. busy or sent a letter to review and talk. With the scroll that's why you're here is because I sent you a letter that said come I figured i've decided, with the scroll there's so much to discuss.
+**Wazir:** Right, I mean i'm. Real. I sent a letter to Ryu and Trok. With the scroll that's why you're here is because I sent you a letter that said come I figured i've decided, with the scroll there's so much to discuss.
 
 **Ryu:** Right right, so you haven't told us what that what it says.
 
@@ -30,7 +30,7 @@
 
 **Wazir:** anyways anyways. yeah what is this the scroll is a is a story I think of somebody. Trying to bring back his dead wife, perhaps.
 
-**Trok:** Although I did I did you on that part actually. It was better than.
+**Trok:** Although I did I did chew on that part actually. It was better than.
 
 **Unknown:** You would.
 
@@ -46,7 +46,7 @@
 
 **Trok:** Is there lizard folklore about resurrection.
 
-**DM:** So I mean there is Laura about resurrection and in many cultures um. it's it's rare it requires strong magic I mean well there's so so the you know. If you can, if somebody has died like you know within the past few minutes right it's much easier their their. mind has not faded from the plane of consciousness, yet, and so, so that magic is more common, but once they once they their soul has left. For elsewhere right anybody who dies goes initially to the land of the dead before they go to wherever their final resting places. Okay, and there is stories of magic that can reach people. You know, while their souls are still journeying in the land of the dead. it's not it's not common it requires you know it's it's it's more pot, you know somebody would have to be more powerful than you in order to be able to do that. But it's you know there's definitely stories in the past of like some great lizard folk warrior who was resurrected. You know, a week after they die to fight and more battles or something.
+**DM:** So I mean there is lore about resurrection and in many cultures um. it's it's rare it requires strong magic I mean well there's so so the you know. If you can, if somebody has died like you know within the past few minutes right it's much easier their their. mind has not faded from the plane of consciousness, yet, and so, so that magic is more common, but once they once they their soul has left. For elsewhere right anybody who dies goes initially to the land of the dead before they go to wherever their final resting places. Okay, and there is stories of magic that can reach people. You know, while their souls are still journeying in the land of the dead. it's not it's not common it requires you know it's it's it's more powerful, you know somebody would have to be more powerful than you in order to be able to do that. But it's you know there's definitely stories in the past of like some great lizardfolk warrior who was resurrected. You know, a week after they die to fight and more battles or something.
 
 **Trok:** And that's it's not like just a allegory for the birth of a new great warrior or something.
 
@@ -60,7 +60,7 @@
 
 **Trok:** that's why Trok is always ranting about set and setting.
 
-**DM:** Like it's just not it's it's completely okay so maybe you are seeing a window into the land of the dad maybe you're seeing stories, I mean the one thing that is the sort of general myth about the land of the dead is nobody spends that long. Like it's a transition Aires. State you you journey through the land of the dead to get so So if you are listening to somebody has been dead, for your hearing the voice of somebody who's been dead, for two years. they've got to be somewhere else right.
+**DM:** Like it's just not it's it's completely okay so maybe you are seeing a window into the land of the dead maybe you're seeing stories, I mean the one thing that is the sort of general myth about the land of the dead is nobody spends that long. Like it's a transitionary. State. You journey through the land of the dead to get so So if you are listening to somebody has been dead, or you're hearing the voice of somebody who's been dead, for two years. they've got to be somewhere else right.
 
 **Ryu:** Some of your tattoos related to, like, gatza art? It must be all gatza, like, you know, artists that are on gatza that then create crazy, like, you know, paintings and shit like that.
 
@@ -74,7 +74,7 @@
 
 **Trok:** um there's totally abstracted. there's like it's like. swirling patterns.
 
-**Wazir:** So anyway, this um. This. scroll writer keeps trying right he says. there's something missing and heaps whatever he's doing these poor souls choke and die on the water that he's feeding them, but it seems like he's praying on the guts out there's got it there's some connection here right and and.
+**Wazir:** So anyway, this um. This. scroll writer keeps trying right he says. there's something missing and he keeps whatever he's doing these poor souls choke and die on the water that he's feeding them, but it seems like he's preying on the gatza, there's some connection here right and and.
 
 **Trok:** I got some some bad gatza.
 
@@ -82,23 +82,23 @@
 
 **Trok:** gotta look out for that you know.
 
-**Wazir:** wherever he was he flees. And he has a clue. That he chases after a name area in the midst speaker. Who as far as I can. discover was a an ancient. wizard and and. made from this these parts. With before the Great War kind of around the time of the great war. and He fought against Jamaat in the Great War and was known for leading elemental is into battle. And supposedly had a flying castle.
+**Wazir:** wherever he was he flees. And he has a clue. That he chases after a name, Airion the Mistspeaker. Who as far as I can. discover was a an ancient. wizard and and. maybe from these parts. With before the Great War kind of around the time of the great war. and He fought against Jamaat in the Great War and was known for leading elementals into battle. And supposedly had a flying castle.
 
 **Ryu:** doesn't.
 
 **Trok:** yeah.
 
-**Wazir:** And he spent quite a bit of time, I recall from my time uncharted that he was known as the inventor of a spell called frost fingers and he seems to have quite a connection to the elements of ice and air and missed and water.
+**Wazir:** And he spent quite a bit of time, I recall from my time in Chardon that he was known as the inventor of a spell called frost fingers and he seems to have quite a connection to the elements of ice and air and mist and water.
 
 **Trok:** What can you do with those frost fingers.
 
 **Wazir:** The spell does.
 
-**DM:** fit that's burning hands but ice. But called damage, you can you can get you can freeze people.
+**DM:** It's burning hands but ice. But cold damage, you can you can get you can freeze people.
 
 **Trok:** yeah could be useful for preserving. overlarge ketchup sardines.
 
-**Wazir:** I think it would be. slightly too powerful for such things. It it the cold is overwhelming and. damages the Flash quite significantly. But. Anyway, this this scroll writer chases after area in the midst speaker up to the foothill up to the caves at the source of the soul quad, which is the the main river that runs to this peninsula. that's a. Strange area. I was there. For some time in my was there as part of an expedition in my youth. And that. That place was a. it's not normal.
+**Wazir:** I think it would be. slightly too powerful for such things. It it the cold is overwhelming and. damages the flesh quite significantly. But. Anyway, this this scroll writer chases after Airion the Mistspeaker up to the foothill up to the caves at the source of the Sulqat, which is the the main river that runs to this peninsula. that's a. Strange area. I was there. For some time in my was there as part of an expedition in my youth. And that. That place was a. it's not normal.
 
 **Trok:** What was your expeditions purpose Wazir.
 
@@ -114,7 +114,7 @@
 
 **Trok:** At this at this moment. staff member comes over with a wide shallow wooden bowl of steaming stinking. seafood in the light broth. And Trok kind of grunts tix this entire muzzle into it and. they're always overcooked this stuff.
 
-**Wazir:** In my youth, there was a great curse that spread over the land, you may have heard stories, although I think it was before, and if your time the whole river froze for months. And the salmon fisheries were destroyed and many people fled to the coasts from the River Valley. Several expeditions when looking for what could be causing this disruption to the natural course of the of the. Of the land and. me. I was, I was a wayward use at the time. Following after my cousin was really chasing my cousin away from the gods more than anything else, and so we went up forever because that was far away from the ocean it's harder to find. And we actually found an expedition from Jordan that was. hunting after they said.
+**Wazir:** In my youth, there was a great curse that spread over the land, you may have heard stories, although I think it was before, and if your time the whole river froze for months. And the salmon fisheries were destroyed and many people fled to the coasts from the River Valley. Several expeditions when looking for what could be causing this disruption to the natural course of the of the. Of the land and. me. I was, I was a wayward use at the time. Following after my cousin was really chasing my cousin away from the gatza more than anything else, and so we went upriver because that was far away from the ocean it's harder to find. And we actually found an expedition from Chardon that was. hunting after they said.
 
 **DM:** three. Sorry, but didn't mean to interrupt you.
 
@@ -122,11 +122,11 @@
 
 **DM:** that's your cue for the name of the day, yes, I am. I am God.
 
-**Wazir:** I have guys like and three sorcerers and this and sources dragon if. They were. The source that we found them, although if it weren't for these. char donations, who were hunting these sorcerers I think our entire expedition would have been. wiped to the ground with their magic it was not. It was a battle, unlike anything i've ever seen for. Some in the chart odeon summoned these massive elemental and the dragon and the sorcerer's that were controlling it fought back with. rocks falling from the sky and giant claws coming from the earth and. All I could do to to. Frankly, stay out of the way and. not be destroyed by this this power of these powerful magic's.
+**Wazir:** I have guys like and three sorcerers and this and sources dragon if. They were. The source that we found them, although if it weren't for these. Chardonians, who were hunting these sorcerers I think our entire expedition would have been. wiped to the ground with their magic it was not. It was a battle, unlike anything i've ever seen for. Some of the Chardonians summoned these massive elementals and the dragon and the sorcerers that were controlling it fought back with. rocks falling from the sky and giant claws coming from the earth and. All I could do to to. Frankly, stay out of the way and. not be destroyed by this this power of these powerful magic's.
 
 **Trok:** I was like this.
 
-**Wazir:** I never quite understood what the. What was what was with the sorcerer's were after but the weather up there, and the and the, and the. The environment there's a there was an ice volcano that would erupt not with lava but with giant chunks of ice. There is that at the at the foothills of at the mouth of the saltwater.
+**Wazir:** I never quite understood what the. What was what was with the sorcerer's were after but the weather up there, and the and the, and the. The environment there's a there was an ice volcano that would erupt not with lava but with giant chunks of ice. There is that at the at the foothills of at the mouth of the Sulqat River.
 
 **DM:** right here.
 
@@ -136,7 +136,7 @@
 
 **Trok:** lake with no bottom that's when they're it.
 
-**Wazir:** It seems like the element, the elemental planes leak through there, the one of the char donations told me that they. ventured from there to the elemental plane of water. And that perhaps the dragon was. That the dragon and the sorcerer's we're trying to find a way to gain the power of one of the elemental planes.
+**Wazir:** It seems like the element, the elemental planes leak through there, the one of the Chardonians told me that they. ventured from there to the elemental plane of water. And that perhaps the dragon was. That the dragon and the sorcerer's we're trying to find a way to gain the power of one of the elemental planes.
 
 **Ryu:** And i've definitely been to that lake at the base of that mountain.
 
@@ -148,15 +148,15 @@
 
 **Ryu:** You think you bb because you were a high, but.
 
-**Trok:** You add them to my friend. Now I pointed this story was there i'm sure was mentioned at the beginning, your cousin. So did you get the guts. He said because it's in god's.
+**Trok:** You add them to my friend. Now I pointed this story, Wazir, I'm sure was mentioned at the beginning, your cousin. So did you get the gatza. He said because it's in gatza.
 
-**Wazir:** My cousin my cousin was lost to it at the time. We went up river to get away from it. I think the excitement of the expedition. changed his attitude. Although he. died some years after. I followed I followed these three wizards these these charts aliens back to chart and. I spent many years there, as you know. My cousin mark what he. While he was dead when I came back not sure to what end was never very close to him after that summer. think it was a fishing accident, although i've never. Really learned if there was more to the story.
+**Wazir:** My cousin my cousin was lost to it at the time. We went up river to get away from it. I think the excitement of the expedition. changed his attitude. Although he. died some years after. I followed I followed these three wizards these these Chardonians back to Chardon. I spent many years there, as you know. My cousin Malaq, he. While he was dead when I came back not sure to what end was never very close to him after that summer. think it was a fishing accident, although i've never. Really learned if there was more to the story.
 
 **Unknown:** sorry to hear that.
 
 **Ryu:** And you think all of that has something to do with the. scroll.
 
-**Wazir:** The scroll writer here says that they went to this place hunting after legends of alien the miss. and searched for the source of the soul quiet and. I think. must have found it found something there. Because he writes. To find it in the scroll what is the right where's the thing about the ring.
+**Wazir:** The scroll writer here says that they went to this place hunting after legends of Airion the Mistspeaker. and searched for the source of the Sulqat and. I think. must have found it found something there. Because he writes. To find it in the scroll what is the right where's the thing about the ring.
 
 **Ryu:** So this is an awesome looking scroll, by the way.
 
@@ -174,7 +174,7 @@
 
 **Trok:** later.
 
-**Wazir:** I just googled word scroll template and then found one stuck in a way. He described right and found a ring. founder ring that summoned I think the The genie the water creature that you saw a halo the messa its name, which is an aqua name it's a name of the plane of the creature of water. And he summoned one of these creatures and bound it fill his domain. I think, using a ring he found at the mouth of the soul quad that used to be airlines some ring of water summoning what our control.
+**Wazir:** I just googled word scroll template and then found one stuck in a way. He described right and found a ring. found a ring that summoned I think the The genie the water creature that you saw, Kaleho, Nimessa its name, which is an Aquan name it's a name of the plane of the creature of water. And he summoned one of these creatures and bound it fill his domain. I think, using a ring he found at the mouth of the Sulqat that used to be Airion's, some ring of water summoning or water control.
 
 **Trok:** Now what's i'm going to do with his dead wife.
 
@@ -198,7 +198,7 @@
 
 **Kaleho:** Does Kaleho have any. Does this story ring a bell for him for any of the things he has encountered as he's traveled through the up and down the coast for is like you know the past 10 years.
 
-**DM:** um. So let's see I mean you would have you would have heard stories of this area in the midst speaker, similar to what Wazir has heard right, you know. Basically, this this guy was like a legendary wizard from a few hundred years ago, who was obsessed with the elements, particularly like water and air. and But you know you've mostly been you know out at sea right you haven't been tromping through the mountains.
+**DM:** um. So let's see I mean you would have you would have heard stories of this Airion the Mistspeaker, similar to what Wazir has heard right, you know. Basically, this this guy was like a legendary wizard from a few hundred years ago, who was obsessed with the elements, particularly like water and air. and But you know you've mostly been you know out at sea right you haven't been tromping through the mountains.
 
 **Unknown:** True.
 
@@ -308,11 +308,11 @@
 
 **Trok:** I don't know man. Come on a fish, today, we could do more than.
 
-**Ryu:** boys, give me. So we hope you're you're in town to to because he saw what what brings you to town.
+**Ryu:** boys, give me. So Kaleho, you're you're in town too because he saw what what brings you to town.
 
-**Kaleho:** there's a glint in his eyes, not unlike what Trok gets in his eyes when he thinks about his recreational chemicals and. I want to know more about Morocco. And I think this could be connected to them. Why, so much so much in the. Years ago, I was just a sailor. I was on the night watch and. I saw the most beautiful. thing I saw more folk in the water floating and moving and dancing and I tried to like my friend and they were gone and that moment changed me and there's so much more to the ocean and. This area, but we don't see it and it gets obscured and hidden i'm trying to understand that.
+**Kaleho:** there's a glint in his eyes, not unlike what Trok gets in his eyes when he thinks about his recreational chemicals and. I want to know more about Morocco. And I think this could be connected to them. Why, so much so much in the. Years ago, I was just a sailor. I was on the night watch and. I saw the most beautiful. thing I saw merfolk in the water floating and moving and dancing and I tried to alert my friend and they were gone and that moment changed me and there's so much more to the ocean and. This area, but we don't see it and it gets obscured and hidden i'm trying to understand that.
 
-**Ryu:** You fall in love with the Mirko.
+**Ryu:** You fall in love with the merfolk.
 
 **Kaleho:** I fall in love with the idea of them it's taken me all across this land.
 
@@ -330,21 +330,21 @@
 
 **DM:** Just as a reminder part of the idea here is if there's any like npc as you want and might have information you want to ask like just make them up, or possibly all have already made one up so just ask if you know anybody who knows acts like. Part of the part of the idea of this is like to just like populate the town with people so like. Right, you can sort of make up you know your contacts and things like that, as. As a designer.
 
-**Wazir:** Did you get a good one cow let this person. Could you. just give them.
+**Wazir:** Did you get a good look, Kaleho, at this person. Could you. just give them.
 
 **Kaleho:** The thing the unnatural.
 
 **Wazir:** Not the unnatural thing now the human, who went a few days later.
 
-**Kaleho:** No. All I saw was, I was in town i'm listening looking trying to figure out there's anything on anything else after I saw the the creature. I saw nothing except one night late at night, I saw a single person boat with a unsettling glow like the creature selling fast. Whoever this person is they can move easily among people unseen or they blend in, and no one notices them I think it's almost like the boat, they could be like the boat, where the I just passes over it, or the. Right there's something about it. Any unnatural things, though.
+**Kaleho:** No. All I saw was, I was in town i'm listening looking trying to figure out there's anything on anything else after I saw the the creature. I saw nothing except one night late at night, I saw a single person boat with an unsettling glow like the creature sailing fast. Whoever this person is they can move easily among people unseen or they blend in, and no one notices them I think it's almost like the boat, they could be like the boat, where the I just passes over it, or the. Right there's something about it. Any unnatural things, though.
 
 **Wazir:** So not. Okay, so not we don't know what they look like, I would like to try to find me, I think I might reach out to a few people. See if anybody's. Seen. or heard of. You come at a town it shouldn't be impossible to find a newcomer the town is not. infinitely large, but perhaps.
 
 **Ryu:** Well, if you go into that tower there isn't infinite ocean in there, so you're not totally correct.
 
-**Kaleho:** Are there Doc masters people for the keep track of tariffs in any other folks that may.
+**Kaleho:** Are there dockmasters, people who keep track of tariffs, and any other folks that may.
 
-**Wazir:** there's a few. Sophie. One woman, I now she's. I think she would say she she's she's known as the Queen of ships, she she builds many of the she's a shipbuilder and she owns the dock near here near where the Leviathan, is the north Doc. she's a. should know what docs here, no, no, the boats. I grew up near her, she doesn't usually see the riffraff but. I might reach out to her.
+**Wazir:** there's a few. Sofi. One woman, I now she's. I think she would say she she's she's known as the Queen of Ships, she she builds many of the she's a shipbuilder and she owns the dock near here near where the Leviathan, is the North Dock. she's a. should know what docks here, know, know the boats. I grew up near her, she doesn't usually see the riffraff but. I might reach out to her.
 
 **Ryu:** You know Trok we should talk to Jaeson as well he's the. That kind of sneaky fellow that's always hanging out by the towers, you would know is if if anybody's in that building that North tower, you would know he would almost certainly seen somebody if they're living in there for the past couple weeks.
 
@@ -372,7 +372,7 @@
 
 **Trok:** Oh yeah.
 
-**Wazir:** We can also go ask around. On the north Doc at the stormy maiden maybe somebody saw somebody that's i'm. A less refined establish establishment then violin but it's out on the dock near where the boat would have come through.
+**Wazir:** We can also go ask around. On the North Dock at the Stormy Maiden maybe somebody saw somebody that's i'm. A less refined establish establishment then violin but it's out on the dock near where the boat would have come through.
 
 **Ryu:** This is a refined establishment.
 
@@ -518,7 +518,7 @@
 
 **Unknown:** Going forward.
 
-**DM:** That just means you're gonna roll up at 20 and then a one. So I mean. You know a lot of these. A lot of these um. You know hammer has been occupied for a while it's a fairly old town i'm dating back even before the Great War like. You know this has always been a nice sheltered port, and so there are definitely parts of town that are pretty old I mean most of it's been you know rebuilt over the years and, obviously, the docs are not 500 years old, or something but. uh. You know it's. yeah you know you don't you don't know a ton about. You just rolling to see to. Try to feel Why is.
+**DM:** That just means you're gonna roll up at 20 and then a one. So I mean. You know a lot of these. A lot of these um. You know hammer has been occupied for a while it's a fairly old town i'm dating back even before the Great War like. You know this has always been a nice sheltered port, and so there are definitely parts of town that are pretty old I mean most of it's been you know rebuilt over the years and, obviously, the docks are not 500 years old, or something but. uh. You know it's. yeah you know you don't you don't know a ton about. You just rolling to see to. Try to feel Why is.
 
 **Wazir:** rolling twice, yes, no, no i'm trying to figure out why.
 
@@ -728,7 +728,7 @@
 
 **DM:** So these are. Two things that you, you realize, as you start to read these glyphs given that you can read awkward and you're pretty familiar with these kinds of magic on. One is this seems to be some kind of incantation of like control or binding or closing, I mean long faded doesn't there's your gas is no longer active. and the other is that you see. You know, repeated in this in this sort of incantation which is like you know, a string of words like commanding water, you see, like I Aryan command this written.
 
-**Wazir:** area and, like area in the midst speaker.
+**Wazir:** Airion, like Airion the Mistspeaker.
 
 **DM:** spelled the same way.
 
@@ -906,7 +906,7 @@
 
 **Kaleho:** or friends or in the drowned flat so that's our i'll go first I know. So i'll go with him.
 
-**DM:** Okay, so i'll just i'll just you know you you travel to your various locations and eventually i'll just go around in circles with so so Rhea you're you're you know fairly close.
+**DM:** Okay, so i'll just i'll just you know you you travel to your various locations and eventually i'll just go around in circles with so so Ryu you're you're you know fairly close.
 
 **Ryu:** To Jaeson I say. I would say Trok and I probably know both both these characters so like.
 
@@ -1178,9 +1178,9 @@
 
 **Ryu:** What happened.
 
-**DM:** Two weeks ago. And went to the sharks Doc could see it from here, then came back and sell the rights to the shoals again.
+**DM:** Two weeks ago. And went to the Shark's Dock could see it from here, then came back and sailed right through the shoals again.
 
-**Trok:** The sharks Doc I wonder what they were doing they're.
+**Trok:** The Shark's Dock, I wonder what they were doing there.
 
 **DM:** Like what's up with that man, I mean a boat that can go through rock.
 
@@ -1190,7 +1190,7 @@
 
 **Ryu:** On and on this one i'm with you, that is very strange. it's very strange but exactly the type of shit we're looking to understand more about.
 
-**Trok:** You know, we owe you one. sounds like logic check out the sharks Doc.
+**Trok:** You know, we owe you one. sounds like logic check out the Shark's Dock.
 
 **Ryu:** yeah. Anything else, Orden? Hey, if you remember any other things you've seen recently.
 
@@ -1312,7 +1312,7 @@
 
 **Wazir:** Okay um.
 
-**DM:** So meeting back in the market, the market at this time of day now just past lunch is pretty quiet and it's basically just like these, like you know the the old folk of the town sitting around talking there's one i'm mostly humans, except there's one sort of older lizard folk who. He comes he lives up on the on the cliffs by the. sort of up here by himself he's sort of like the liaison between this town and the lizard folk settlement to the south, but how often come down to the market and, just like chill with the with the town's folk. After lunch he's also like on the older side like pale blue. Hello blue scales like seems to be a little arthritic moves slowly, but you know curious. Trok you would probably be aware of him, but possibly not particularly excited to talk to them, given your history.
+**DM:** So meeting back in the market, the market at this time of day now just past lunch is pretty quiet and it's basically just like these, like you know the the old folk of the town sitting around talking there's one i'm mostly humans, except there's one sort of older lizardfolk who. He comes he lives up on the on the cliffs by the. sort of up here by himself he's sort of like the liaison between this town and the lizardfolk settlement to the south, but how often come down to the market and, just like chill with the with the town's folk. After lunch he's also like on the older side like pale blue. Hello blue scales like seems to be a little arthritic moves slowly, but you know curious. Trok you would probably be aware of him, but possibly not particularly excited to talk to them, given your history.
 
 **Trok:** yep so the uneasy relationship.
 
@@ -1324,7 +1324,7 @@
 
 **Wazir:** i'll come back to the table and and sort of pass out sit down he'll he'll introduce some Kaleho and and. Most people would probably know, for you, but. yeah everybody here will introduce. You and Trok as well just for those who might not will pass out the drinks will say you know my friend tears in town that was telling about the ocean watchers the towers. And it may be really sort of hankering for some good stories about. about these towers. Does anybody know what the oldest one is?
 
-**DM:** Ah, you get like various you know the typical like everybody starts arguing like is that now know that like um and you know one sort of older woman who seems to be the person who kind of you know keeps cord is you know says. If you really want to know, she says, You got to either ask. Benat was the lizard folk you know or or go talk to talk to. I'm sorry, hold on. Go talk to Yaz, lives. oldest living ocean watcher, lives up in the towers.
+**DM:** Ah, you get like various you know the typical like everybody starts arguing like is that now know that like um and you know one sort of older woman who seems to be the person who kind of you know keeps cord is you know says. If you really want to know, she says, You got to either ask. Benat was the lizardfolk you know or or go talk to talk to. I'm sorry, hold on. Go talk to Yaz, lives. oldest living ocean watcher, lives up in the towers.
 
 **Wazir:** matt hardy as. Benat you want to tell us a story, though.
 
@@ -1474,13 +1474,13 @@
 
 **Kaleho:** To do I no offense in this town him.
 
-**DM:** So you don't know a fence exactly, but actually both of you, both Kaleho and Wazir, would know that there's a poor Mawaran smith named Ovina. Who is kind of. You know her her shop is like on in cliff side, but like real close to the sharks Doc over here. And she is she's kind of loner I mean she's one of the very few dwarves and, possibly, the only dwarf and omri doesn't really talk to people much one of the few smith's. Was there who's not like you know, most of the smiths around here like look up to you is basically like them right you're the one they go to she's like kind of. Never you've never really connected, which is sort of unusual and you know and Kaleho like you know, this is the person who you know. not exactly a fence, but like if you have some questionable gold, or, you know, you've come across some silver ring that you want melted down and turned into trade bars that nobody will Follow something like that she's the one that you know you would go to.
+**DM:** So you don't know a fence exactly, but actually both of you, both Kaleho and Wazir, would know that there's a poor Mawaran smith named Ovina. Who is kind of. You know her her shop is like on in cliff side, but like real close to the Shark's Dock over here. And she is she's kind of loner I mean she's one of the very few dwarves and, possibly, the only dwarf in Hamri doesn't really talk to people much one of the few smiths. Wazir who's not like you know, most of the smiths around here like look up to you is basically like them right you're the one they go to she's like kind of. Never you've never really connected, which is sort of unusual and you know and Kaleho like you know, this is the person who you know. not exactly a fence, but like if you have some questionable gold, or, you know, you've come across some silver ring that you want melted down and turned into trade bars that nobody will Follow something like that she's the one that you know you would go to.
 
 **Ryu:** All the cryptocurrency and lottery.
 
 **Kaleho:** Does she know me.
 
-**DM:** um you'd probably have met her yeah. I mean you've been through hungry and off you probably have at one point or another had some dubious goods to exchange so. um. So yeah she would probably know you I mean it obviously she probably would know of all of you right, I mean you're all fairly famous.
+**DM:** um you'd probably have met her yeah. I mean you've been through Hamri enough you probably have at one point or another had some dubious goods to exchange so. um. So yeah she would probably know you I mean it obviously she probably would know of all of you right, I mean you're all fairly famous.
 
 **Wazir:** It was also yeah as who was just mentioned Benat. Right, yes, the the oldest ocean watch her.
 
@@ -1488,27 +1488,27 @@
 
 **Wazir:** and Is there anyone else, I still I still wonder if.
 
-**Unknown:** selfie with know anything.
+**Unknown:** Sofi would know anything.
 
 **Wazir:** about the boat.
 
 **Ryu:** wonder who.
 
-**Wazir:** Sophie the the woman who like is the ship she's like the shipbuilding magnate.
+**Wazir:** Sofi the the woman who like is the ship she's like the shipbuilding magnate.
 
 **Kaleho:** Like the hips.
 
-**Wazir:** Queen of ships, she like. builds she like owns all the after all the shipyards and half the docks and. she's like the.
+**Wazir:** Queen of Ships, she like. builds she like owns all the after all the shipyards and half the docks and. she's like the.
 
 **Ryu:** will let you know our men drove a phantom boat through the shoals either the shoals have a passage we don't know about. Or the boat can travel through yeah.
 
-**Wazir:** The shark stock might be worth poking around to.
+**Wazir:** The Shark's Dock might be worth poking around too.
 
 **Ryu:** What is by the way.
 
 **Trok:** Oh yeah.
 
-**DM:** Yeah, it's like the seedy, like on the map here, right, most of those ships tie up on this part of the harbor, which is the nice part of the harbor. These are called the Shark's Teeth, these islands that are out here, and the Shark's Dock is like the oldest and most rundown Of the docs it's a little bit tricky to navigate to because you have to make this sharp turn along the edge of the sharks Doc edge of the shark's teeth so it's kinda like the. name the sharks Doc because it's close to the shark's teeth, but it's also like the sort of CD Doc.
+**DM:** Yeah, it's like the seedy, like on the map here, right, most of those ships tie up on this part of the harbor, which is the nice part of the harbor. These are called the Shark's Teeth, these islands that are out here, and the Shark's Dock is like the oldest and most rundown Of the docks it's a little bit tricky to navigate to because you have to make this sharp turn along the edge of the Shark's Dock edge of the Shark's Teeth so it's kinda like the. name the Shark's Dock because it's close to the Shark's Teeth, but it's also like the sort of seedy dock.
 
 **Ryu:** got it.
 
@@ -1602,7 +1602,7 @@
 
 **Kaleho:** To her i'll take. i'll take Trok. To the HR Smith.
 
-**DM:** Okay, so. So Kaleho and Trok are heading to the blacksmith Wazir and re you are going to try to get an audience with um. With. Sophie yep. And then you're going to meet so next time you meet it will be probably like late afternoon. yeah I think stock yeah. Okay. So I mean kayla you know where this you know where this smith's where a Venus shop is it's um. You know she she lives, she lives above the shop and it's like sort of it's architecturally unusual for the town, I mean most of this town is like you know. You know, would would building sometimes sometimes was stolen some stone, but a lot of like. You know there's huge pine forests just up in the cliffs just just like a mile from shore so like everything's just built with that, but this This is like almost you know carved into the side of the cliff you know we're oven square blocks square limestone block blacksmith forge. And you walk in and she's you know she's in the middle of working on something i'm banging away it's hot it's you know August and it's sweaty and there's this you know i'm. sort of me, you know indeterminate age 12 ish woman. Read braided hair sort of tied back wearing dislike leather a brand faces all sort of Saudi and dirty and she looks up yes. Oh, Sir Kaleho. what's man, a man oh veena.
+**DM:** Okay, so. So Kaleho and Trok are heading to the blacksmith Wazir and Ryu are going to try to get an audience with um. With. Sofi yep. And then you're going to meet so next time you meet it will be probably like late afternoon. yeah I think stock yeah. Okay. So I mean kayla you know where this you know where this smith's where a Venus shop is it's um. You know she she lives, she lives above the shop and it's like sort of it's architecturally unusual for the town, I mean most of this town is like you know. You know, would would building sometimes sometimes was stolen some stone, but a lot of like. You know there's huge pine forests just up in the cliffs just just like a mile from shore so like everything's just built with that, but this This is like almost you know carved into the side of the cliff you know we're oven square blocks square limestone block blacksmith forge. And you walk in and she's you know she's in the middle of working on something i'm banging away it's hot it's you know August and it's sweaty and there's this you know i'm. sort of me, you know indeterminate age 12 ish woman. Read braided hair sort of tied back wearing dislike leather a brand faces all sort of Saudi and dirty and she looks up yes. Oh, Sir Kaleho. what's man, a man oh veena.
 
 **Unknown:** veena.
 
@@ -1706,9 +1706,9 @@
 
 **Trok:** I bow awkwardly.
 
-**DM:** So while they're making their way back to the sharks Doc. Wazir and Ryu, you head up the cliffside, up these steep switchback trails to Glitter Cliff, nearly up to the towers. This like big open terrorists that, as these like for really nice. fancy houses, some of the richest and fanciest houses in town, one of which is was ears family and one of which is. sophie's house. She. So I mean Wazir you mean you are known to her well enough that, like the you know the. Major dumbo whoever at the. So these are these like are you know, there are four houses there. There sat back a little bit so they all have like. You know sort of entry courtyard areas with you know all of them are guarded, and so the guard is like. Man I. know the nature of your business Wazir self is, as always, quite busy.
+**DM:** So while they're making their way back to the Shark's Dock. Wazir and Ryu, you head up the cliffside, up these steep switchback trails to Glitter Cliff, nearly up to the towers. This like big open terrorists that, as these like for really nice. fancy houses, some of the richest and fanciest houses in town, one of which is was ears family and one of which is. sophie's house. She. So I mean Wazir you mean you are known to her well enough that, like the you know the. Major dumbo whoever at the. So these are these like are you know, there are four houses there. There sat back a little bit so they all have like. You know sort of entry courtyard areas with you know all of them are guarded, and so the guard is like. Man I. know the nature of your business Wazir self is, as always, quite busy.
 
-**Wazir:** I think. Something might have. happened that her Doc that she should know about. A ship. That shouldn't have been there that perhaps she's curious about.
+**Wazir:** I think. Something might have. happened at her dock that she should know about. A ship. That shouldn't have been there that perhaps she's curious about.
 
 **DM:** I will see if she can spare some time. you've inquired at the guard at the toll house.
 
@@ -1772,7 +1772,7 @@
 
 **Ryu:** Well, see if shocking shocking kill any better luck.
 
-**DM:** So you meet on the shark stock which is like I mean it's a rickety you know it is it's the heat of the summer and it's like you know late afternoon there are actually people diving off the dock and swimming and it's a. You know it's a, it is a place where like you know the common folk do go to swim occasionally um you know after work after you know the heat of the day. So there are some bustle of activity, but it's a place where there's like lots of little nooks and crannies and things and all and warehouses, and so you can sort of get together, you know, in a little out of the way place.
+**DM:** So you meet on the Shark's Dock which is like I mean it's a rickety you know it is it's the heat of the summer and it's like you know late afternoon there are actually people diving off the dock and swimming and it's a. You know it's a, it is a place where like you know the common folk do go to swim occasionally um you know after work after you know the heat of the day. So there are some bustle of activity, but it's a place where there's like lots of little nooks and crannies and things and all and warehouses, and so you can sort of get together, you know, in a little out of the way place.
 
 **Wazir:** Where are we here, so we were told that the boat dock here. That what what's his name Orden.
 
@@ -1878,7 +1878,7 @@
 
 **Wazir:** To artifices even get the text magic. I forget how do I spell I don't even know I don't really know how I my spells work I don't know if I can learn to take magic.
 
-**Ryu:** It but why did they, why did they want the Center notion why they want it, though, so.
+**Ryu:** It but why did they, why did they want the Sentient Ocean why they want it, though, so.
 
 **Wazir:** I think. I think so. First of all, I think the knife, the thing that's haunting his dreams, is Gazankoa.
 
@@ -2356,7 +2356,7 @@
 
 **Ryu:** yeah but i've got blue making big circles looking for any kind of ships coming into harbor.
 
-**DM:** Okay, so early I assume you're up fairly early for. The plan like early in the morning i'm kind of I mean that you know there's there's the leg morning rush like the pre dawn rush as a bunch of the i'm. a bunch of the fishing boats go out early and then like around dawn just after dawn there's always a bit of a law and in this. Just post on la. Is you're still making your way from the Leviathan, to the sharks Doc along the docks i'm blue comes down to your shoulder and. Reports to you that. That there's a ship coming from the north just rounding this this. point here moving fast.
+**DM:** Okay, so early I assume you're up fairly early for. The plan like early in the morning i'm kind of I mean that you know there's there's the leg morning rush like the pre dawn rush as a bunch of the i'm. a bunch of the fishing boats go out early and then like around dawn just after dawn there's always a bit of a law and in this. Just post on la. Is you're still making your way from the Leviathan, to the Shark's Dock along the docks i'm blue comes down to your shoulder and. Reports to you that. That there's a ship coming from the north just rounding this this. point here moving fast.
 
 **Ryu:** I think the ships coming I think he's coming. Also, the music is very ominous now all of a sudden yeah.
 
@@ -2418,7 +2418,7 @@
 
 **Kaleho:** Okay, so we're all kind of hanging out around the shop.
 
-**DM:** Okay. Okay um but not you're not super close to the shop because. You know you don't want to be, you need to be somewhere where you can sort of hide among the warehouse. and say. So, but you can see, so real you see i'm about 20 minutes later sort of you know, coming up from the Doc. This sort of older man like hunched over with like this pile of cloaks over his shoulders like you know whether. Like oil skin cloaks shaving his face but there's a bit of a scraggly Gray beard thats thats hanging out and he's walking quickly and with purpose towards. Ovina shop, who has opened early in anticipation of this event i'm aware that you are all hanging around and he just kind of head straight for the shop crossing this Plaza where you're sort of later going to go into the into the shop.
+**DM:** Okay. Okay um but not you're not super close to the shop because. You know you don't want to be, you need to be somewhere where you can sort of hide among the warehouse. and say. So, but you can see, so Ryu you see i'm about 20 minutes later sort of you know, coming up from the dock. This sort of older man like hunched over with like this pile of cloaks over his shoulders like you know whether. Like oil skin cloaks shaving his face but there's a bit of a scraggly Gray beard thats thats hanging out and he's walking quickly and with purpose towards. Ovina shop, who has opened early in anticipation of this event i'm aware that you are all hanging around and he just kind of head straight for the shop crossing this Plaza where you're sort of later going to go into the into the shop.
 
 **Ryu:** and I really did not go to the shop, the day before.
 
@@ -2652,7 +2652,7 @@
 
 **Trok:** It might be a bad situation for the structure of the duck itself.
 
-**Ryu:** yeah this, but this is also why we're at the sharks Doc wait.
+**Ryu:** yeah this, but this is also why we're at the Shark's Dock wait.
 
 **Kaleho:** What is trucks class.
 
@@ -2758,7 +2758,7 @@
 
 **Unknown:** get it.
 
-**DM:** Okay, he just wants to escape at this point so first thing he is going to do. Is. He is going to these like little spouts of water are going to. Like like little whirlwind surround him and he begins to float up into the sky. You will get an opportunity attack. He rises actually you know what that is useless he's not going to do that sorry guys. I should have planned out his escape route, a little better. he's just going to do the easy thing, and he is going to. cast a hold that he's gonna he's gonna point and he's gonna say i'm gonna stop you. And erupting. From the ground. surrounding. You and the Doc. Are. An enormous. square of. Black tentacles that.
+**DM:** Okay, he just wants to escape at this point so first thing he is going to do. Is. He is going to these like little spouts of water are going to. Like like little whirlwind surround him and he begins to float up into the sky. You will get an opportunity attack. He rises actually you know what that is useless he's not going to do that sorry guys. I should have planned out his escape route, a little better. he's just going to do the easy thing, and he is going to. cast a hold that he's gonna he's gonna point and he's gonna say i'm gonna stop you. And erupting. From the ground. surrounding. You and the dock. Are. An enormous. square of. Black tentacles that.
 
 **Unknown:** Stop. The four by four.
 
@@ -3366,9 +3366,9 @@
 
 **Ryu:** ice.
 
-**Trok:** would take out the Doc a little bit.
+**Trok:** would take out the dock a little bit.
 
-**Wazir:** yeah shake up the Doc a bit that's OK DC 15 concept. Well Tara terrible for damage, though.
+**Wazir:** yeah shake up the dock a bit that's OK DC 15 concept. Well Tara terrible for damage, though.
 
 **DM:** failed. And failed.
 
@@ -3620,7 +3620,7 @@
 
 **Kaleho:** alone oh. Tell me. Tell me let's just leave us. I will you study aim yep so I don't have disadvantage for the distance and then let me roll.
 
-**DM:** that's. The only has to hit points it doesn't matter what. So zombie spring water falls dad.
+**DM:** that's. The only has to hit points it doesn't matter what. So zombie spring water falls dead.
 
 **Wazir:** Okay.
 
@@ -3664,11 +3664,11 @@
 
 **Ryu:** versus layer we bundle where.
 
-**DM:** I was at the. Culture wars, I had the tavern in case he went to the stormy made it and got into a fight there. yeah I didn't have the docs.
+**DM:** I was at the. Culture wars, I had the tavern in case he went to the stormy made it and got into a fight there. yeah I didn't have the docks.
 
 **Kaleho:** I thought.
 
-**Trok:** I thought the docs worked great improvisers.
+**Trok:** I thought the docks worked great improvisers.
 
 **Unknown:** Yes.
 
@@ -3694,7 +3694,7 @@
 
 **Ryu:** What what up what we learn yeah that that's fine.
 
-**DM:** So, so you learned he indeed had had lost his wife gotten hooked on god's. started. relatable speaking to this. This. Some sort of creature that he doesn't fully understand to who gave him this knife and told him to kill people when he kills people the knife it replaces their blood with water. And if he he was kept saying, if you did it right, if he just killed them the right way, his wife would come back. Of course, that was false.
+**DM:** So, so you learned he indeed had had lost his wife gotten hooked on gatza. started. relatable speaking to this. This. Some sort of creature that he doesn't fully understand to who gave him this knife and told him to kill people when he kills people the knife it replaces their blood with water. And if he he was kept saying, if you did it right, if he just killed them the right way, his wife would come back. Of course, that was false.
 
 **Ryu:** i'm evil and where's this knife now.
 
@@ -3712,7 +3712,7 @@
 
 **Ryu:** That was that also as.
 
-**DM:** You guys figured out most of that, I mean I thought you would just once he realized that I guess you didn't quite figure out that he was seeking out arians like he wanted to be at places that were close to the plane of water so as there was the other areas.
+**DM:** You guys figured out most of that, I mean I thought you would just once he realized that I guess you didn't quite figure out that he was seeking out Airion's sites, like he wanted to be at places that were close to the Plane of Water so Azar was the other areas.
 
 **Wazir:** As well i'm gonna go there, but I was good to suggest going to the well but.
 
@@ -3728,7 +3728,7 @@
 
 **Ryu:** That was great and wishing him at the docks wizard or trying to or meeting him at the docks was.
 
-**DM:** That worked well, I should have a. beta that and made a Doc but it's tough with these online things because I can't just I mean I guess it worked drawing maps right.
+**DM:** That worked well, I should have a. anticipated that and made a dock but it's tough with these online things because I can't just I mean I guess it worked drawing maps right.
 
 **Wazir:** yeah it works fine.
 
@@ -3736,35 +3736,35 @@
 
 **Wazir:** Oh wait, is there any connection that we know about to the larger mystery like Why would I don't get is why did he what's yet side and why did.
 
-**DM:** He says the 70 addiction.
+**DM:** He says the gatza addiction.
 
-**Wazir:** yeah I figured but why did he. How did he get it, I told him to summon a creature to go get the Center notion of then, why was it some left. No, not be a bigger story.
+**Wazir:** yeah I figured but why did he. How did he get it, I told him to summon a creature to go get the Sentient Ocean of then, why was it some left. No, not be a bigger story.
 
-**DM:** He arians notes suggest told told them about the Center nurse. made it up on his own that maybe if he used better water this ritual would work. He didn't just use the salt water from the ocean, if he used living water than his wife would actually come back. To his own.
+**DM:** Airion's notes told them about the Sentient Ocean. made it up on his own that maybe if he used better water this ritual would work. He didn't just use the salt water from the ocean, if he used living water than his wife would actually come back. To his own.
 
 **Wazir:** The word it was there, and he laughed he just didn't have enough. People to kill.
 
 **DM:** He didn't have enough people to kill.
 
-**Ryu:** What where did he get the water that the Mirko guy drink.
+**Ryu:** What where did he get the water that the merfolk guy drank.
 
-**DM:** That he summoned arians rang let him summon a water jeannie American. command.
+**DM:** That he summoned Airion's ring let him summon a water genie, a marid, and. command.
 
 **Trok:** which is what we thought last year.
 
-**DM:** No marriage or kill you all marriage they're like super powerful.
+**DM:** No, marids will kill you all, marids they're like super powerful.
 
 **Wazir:** they're like.
 
-**DM:** g spot the it was in the scroll the marriage some into guardians protect the safety and what are.
+**DM:** It was in the scroll, the marids are summoned to guard and protect the sentient water.
 
 **Trok:** The.
 
-**DM:** And then left pests, because she didn't want to mess up. She didn't want to get involved in the politics, but the ring commanded or two so she was angry, but the curse of the ring when she can't hurt him for 1000 in one day is.
+**DM:** And then left pissed, because she didn't want to mess up. She didn't want to get involved in the politics, but the ring commanded her to so she was angry, but the curse of the ring when she can't hurt him for 1000 and one days.
 
-**Ryu:** and actually went and got got the water from the bar folk.
+**Ryu:** and actually went and got got the water from the merfolk.
 
-**DM:** yeah but she had to go back to hungry, because he could plane shift to the cave. Because it's playing of water is close.
+**DM:** yeah but she had to go back to Hamri, because he could plane shift to the cave. Because its Plane of Water is close.
 
 **Ryu:** would not have figured that out.
 

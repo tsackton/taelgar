@@ -2,9 +2,9 @@
 
 **DM:** Start some music. So. The the idea here is that we'll start with. john What was your character's name again.
 
-**Kaleho:** Hello.
+**Kaleho:** Kaleho.
 
-**DM:** hello, how is back in town, for you know. Whatever reason or no reason you know he's just been passing through. And since you had met. Rio and truck the past time you are here. You. I assume I figure, it would make sense for you to have you know connected with them for for dinner or something and and particular will say for the rolling start here that. You. You were you know. ran into truck after you had been in town for a day or something and made plans to you know, have a have an evening meal on his at his beach shack. or where do you live, where does truck lives in. Do you live in a tower.
+**DM:** Kaleho is back in town, for you know. Whatever reason or no reason you know he's just been passing through. And since you had met. Ryu and Trok the last time you are here. You. I assume I figure, it would make sense for you to have you know connected with them for for dinner or something and and particular will say for the rolling start here that. You. You were you know. you ran into Trok after you had been in town for a day or something and made plans to you know, have a have an evening meal on his at his beach shack. or where do you live, where does Trok live. Do you live in a tower.
 
 **Trok:** We definitely discuss this, but i'm trying to remember now.
 
@@ -12,23 +12,23 @@
 
 **Trok:** But kong's character, has a tower right.
 
-**DM:** yeah real has a tower.
+**DM:** yeah Ryu has a tower.
 
-**Trok:** So then we'll say truck lives in a shack on the beach. Is that where you're headed towards TIM. Whatever.
+**Trok:** So then we'll say Trok lives in a shack on the beach. Is that where you're headed towards TIM. Whatever.
 
-**DM:** works for this yeah. I mean, whatever wherever you want to live it's just doesn't matter it's just wherever callow meets up with you. could be anywhere um.
+**DM:** works for this yeah. I mean, whatever wherever you want to live it's just doesn't matter it's just wherever Kaleho meets up with you. could be anywhere um.
 
 **Trok:** Can we describe our characters I just have very little religion.
 
-**DM:** yeah so that's what I was gonna say we should start with um. So so let's let's say I was going to just remind you all, what harm Maria has like and then. Maybe YouTube can briefly describe your characters as well do well have to describe your characters again when you meet case character, but i'm. So it's evening. October. In the north so it's dark early. And as you as. You kelo head out of town to meet your friend truck from. From your previous adventures here and perhaps connect with you as well. you're reminded of the town of hungry itself. nestled within this shelter cove on the. Occasionally storm battered western coast of the my walk all peninsula. One of the. pendants let South densely for us did. In the Interior. Mostly inhabited just along the coasts and harmony, is one of the. more significant cities on the western coast and so it's a place you stop frequently on your on your journey is as a sailor searching. For answers to various mysteries. The town itself is is sort of split into three levels so there's the wooden and stone docs that extend out over the mud flats and the title. marsh of the. outflow of the Mer Mer river. Some fairly Nice, including. Was ears in the Leviathan, where you may have spent a night or two. But now you're heading out into the. outside of the warm from the glow of that firelight um. But there's also the drawn flats, which are you know much less you know. Flood regularly on the high tides much not nearly as a nice place to live and that's kind of the poorest part of town. And then, second part of town is, as you head up the cliffs here. there's these. paths carved into the stone with houses sort of perched on the sides of the cliffs. including some of the nicest houses in town on that that carved plateau glitter cliff.
+**DM:** yeah so that's what I was gonna say we should start with um. So so let's let's say I was going to just remind you all, what Hamri is like and then. Maybe you two can briefly describe your characters as well do well have to describe your characters again when you meet Kate's character, but i'm. So it's evening. October. In the north so it's dark early. And as you as. You, Kaleho, head out of town to meet your friend Trok from. From your previous adventures here and perhaps connect with you as well. you're reminded of the town of Hamri itself. nestled within this shelter cove on the. Occasionally storm battered western coast of the Mawakel Peninsula. One of the. peninsula, south densely forested. In the Interior. Mostly inhabited just along the coasts, and Hamri is one of the. more significant cities on the western coast and so it's a place you stop frequently on your on your journey is as a sailor searching. For answers to various mysteries. The town itself is is sort of split into three levels so there's the wooden and stone docks that extend out over the mud flats and the tidal. marsh of the. outflow of the Mirmir river. Some fairly Nice, including. Wazir's in the Leviathan, where you may have spent a night or two. But now you're heading out into the. outside of the warm from the glow of that firelight um. But there's also the Drowned Flats, which are you know much less you know. Flood regularly on the high tides much not nearly as a nice place to live and that's kind of the poorest part of town. And then, second part of town is, as you head up the cliffs here. there's these. paths carved into the stone with houses sort of perched on the sides of the cliffs. including some of the nicest houses in town on that that carved plateau Glittercliff.
 
 **Kaleho:** and worse okay got it.
 
-**DM:** And at the. At the top of these cliffs. Both both near town and across the bay from town, are the towers, the ones near town, mostly still. occupied the ones on the North now largely abandoned and occasionally reclaimed by loners and hermits and others who. are looking for an out of the way place to live. And these towers, have a long history of being the. The place where the citizens of Hungary have watched the ocean for generations. There used to be many more ocean watchers keeping an eye out for strange things from the sea, but now, of course, as. The influence of the mauer confederacy has shrunk somewhat from their golden age 100 years ago now. And so many of these towers have been abandoned and the northern part the northern coast of this of this Bay in which hungry nestled is mostly. mostly not is the sort of place where everybody who wants to be outside the sort of watch of the town itself goes to live and so that says, where you find trunk so maybe Eric you could describe truck. You know where he where he lives and maybe a little bit about what he's been doing, you know why he does what he's been doing the past. few months. As kayla approaches and then you can describe yourself cow.
+**DM:** And at the. At the top of these cliffs. Both both near town and across the bay from town, are the towers, the ones near town, mostly still. occupied the ones on the North now largely abandoned and occasionally reclaimed by loners and hermits and others who. are looking for an out of the way place to live. And these towers, have a long history of being the. The place where the citizens of Hamri have watched the ocean for generations. There used to be many more ocean watchers keeping an eye out for strange things from the sea, but now, of course, as. The influence of the Mawar Confederacy has shrunk somewhat from their golden age 100 years ago now. And so many of these towers have been abandoned and the northern part the northern coast of this of this bay in which Hamri is nestled is mostly. mostly now is the sort of place where everybody who wants to be outside the sort of watch of the town itself goes to live and so that says, where you find Trok so maybe Eric you could describe Trok. You know where he where he lives and maybe a little bit about what he's been doing, you know why he does what he's been doing the past. few months. As Kaleho approaches and then you can describe yourself, Kaleho.
 
 **Trok:** Who just briefly, not in detail, but in a sense, or two it's like we defeated the guy that had thing, just like.
 
-**DM:** yeah so there was the right there was the guy who. was a basically a warlock have some undersea. Ancient evil or something, it was not entirely clear who had corrupted him through the influence of gods.
+**DM:** yeah so there was the right there was the guy who. was a basically a warlock of some undersea. Ancient evil or something, it was not entirely clear who had corrupted him through the influence of gods.
 
 **Trok:** were using one of the Towers on the North side right.
 
@@ -36,55 +36,55 @@
 
 **Unknown:** On the north side.
 
-**DM:** And so, he had been. He had. He had stolen a. sample or a piece of this sentence ocean and been using it to create. reanimated people who had drowned and. Right turn them back into these drowned monsters, because he believed that this would let him. resurrected so wrecked his wife yeah dark.
+**DM:** And so, he had been. He had. He had stolen a. sample or a piece of this Sentient Ocean and been using it to create. reanimated people who had drowned and. trying to turn them back into these drowned monsters, because he believed that this would let him. resurrect his wife yeah dark.
 
-**Kaleho:** Falling the notebook have a much more ancient and powerful.
+**Kaleho:** Following the notebook have a much more ancient and powerful.
 
 **DM:** He was he.
 
 **Trok:** Was tower, he was using yeah.
 
-**DM:** He had been Yes, he had been following some clues he found from. A much older wizard who studied out, you know who has. studied disorder was fascinated by the elemental planes named area in the midst speaker. who had a number of towers and other kinds of research. bases across not just the milwaukee peninsula, but this whole sort of region of the North.
+**DM:** He had been Yes, he had been following some clues he found from. A much older wizard who studied, you know, you know who has. studied this order was fascinated by the elemental planes named Airion the Mistspeaker. who had a number of towers and other kinds of research. bases across not just the Mawakel Peninsula, but this whole sort of region of the North.
 
 **Trok:** There was one, there was some follow up from the completion of the adventure. Right. I gotta take a message back to the elders the lizard folk.
 
-**DM:** What was the message the the know i'm so. Bad at who has the lizard folk. man who lived. in town and was sort of the local like liaison had agreed to take. As a are the the. The warlock who had that and then been somewhat freed from. His the influence of this. Ah. Evil whatever i'm. To the lizard folk village where he was going to like rest and he and you had whether you follow through on this or not, as up to you, but you had promised that out, that you would write a letter to your family.
+**DM:** What was the message the the know i'm so. Benat who has the lizard folk. man who lived. in town and was sort of the local like liaison had agreed to take. Azar the the. The warlock who had that and then been somewhat freed from. His the influence of this. Ah. Evil whatever i'm. To the lizard folk village where he was going to like rest and he and you had whether you follow through on this or not, is up to you, but you had promised Azar that you would write a letter to your family.
 
 **Trok:** right because of the troubled relationship that I have i'm sort of like. Exactly and self imposed exile.
 
 **DM:** There is a much more detailed. Right up here which you can refer to, if you want, but um.
 
-**Trok:** Thank you. So many good weird details. Sorry, I was just trying to figure out what kind of mood. truck would be in because nothing's.
+**Trok:** Thank you. So many good weird details. Sorry, I was just trying to figure out what kind of mood. Trok would be in because nothing's.
 
 **DM:** This is. This is like three months later.
 
 **Trok:** mm hmm.
 
-**Kaleho:** fashion truck has some. Chemical aids to his moves as well.
+**Kaleho:** I imagine Trok has some. Chemical aids to his moves as well.
 
-**Trok:** yeah well the god says, the primary one and he truck definitely went on a multi day gots a bender following the sort of like come down from the high of the whole of the events of. Those intense days um but he's stabilized since then and focusing on. maximizing the harvest as best he can.
+**Trok:** yeah well the gatza is the primary one and Trok definitely went on a multi day gatza bender following the sort of like come down from the high of the whole of the events of. Those intense days um but he's stabilized since then and focusing on. maximizing the harvest as best he can.
 
 **Unknown:** i'm.
 
-**Trok:** Trying to think about the letter. yeah and truck has. 17 separate times started, though, completing a letter to his family, and so you might find him huddled over in his warm weather shack on the beach. Once again scrolling on parchment. truck is a. muscular seven foot tall. lizard folk covered head to toe and swirling blue magical tattoos. and his shack is scattered with the tools of both. The. Sea harvest and scavenging. ropes hooks nets grapples of all kinds.
+**Trok:** Trying to think about the letter. yeah and Trok has. 17 separate times started, though, completing a letter to his family, and so you might find him huddled over in his warm weather shack on the beach. Once again scrolling on parchment. Trok is a. muscular seven foot tall. lizard folk covered head to toe and swirling blue magical tattoos. and his shack is scattered with the tools of both. The. Sea harvest and scavenging. ropes hooks nets grapples of all kinds.
 
 **Unknown:** and
 
-**Trok:** Always trucks outward calm demeanor hides a. dark brooding interior.
+**Trok:** Trok's outward calm demeanor hides a. dark brooding interior.
 
-**Kaleho:** dark brooding exterior is more present. A worn man. sturdy weathered face well traveled. A big heavy travelers cloak unit, you know from our passive ventures across bow is beneath that. A confident. Strong muscular guy. But he has a look in his eyes not quite unlike the look of an addict but his addiction has been traveling and trying to understand more folk and other mysteries. In the sea. So he's hunting a high, like many people in this area, but as high as this, the search for what he doesn't know these these mysteries these things he sees at the edge of his vision. But despite his addiction he's still a capable begley intimidating person as he walks in not unfriendly to you because he knows you, though, but. Man comfortable violence.
+**Kaleho:** dark brooding exterior is more present. A worn man. sturdy weathered face well traveled. A big heavy travelers cloak unit, you know from our passive ventures across bow is beneath that. A confident. Strong muscular guy. But he has a look in his eyes not quite unlike the look of an addict but his addiction has been traveling and trying to understand merfolk and other mysteries. In the sea. So he's hunting a high, like many people in this area, but his high is this, the search for what he doesn't know these these mysteries these things he sees at the edge of his vision. But despite his addiction he's still a capable vaguely intimidating person as he walks in not unfriendly to you because he knows you, though, but. Man comfortable violence.
 
-**Trok:** truck greets you wordlessly inviting you. into crouch by the smoldering coals and enjoy seafoods do.
+**Trok:** Trok greets you wordlessly inviting you. into crouch by the smoldering coals and enjoy seafood stew.
 
 **Unknown:** i'm.
 
-**Kaleho:** coho looks around the food smells good he's less impressed with the the shack.
+**Kaleho:** Kaleho looks around the food smells good he's less impressed with the the shack.
 
 **Trok:** To take over.
 
-**Kaleho:** To the core, but he welcomes warm food and fellowship so he he sits down and ask how have you been.
+**Kaleho:** To be sure, but he welcomes warm food and fellowship so he he sits down and ask how have you been.
 
-**Trok:** haven't been. talking to people too much. social skills rusty you might say. keep trying to. write to the folks back home. But uh. are always spirals out it to this or that confusion or resentment.
+**Trok:** haven't been. talking to people too much. social skills rusty you might say. keep trying to. write to the folks back home. But uh. it always spirals out it to this or that confusion or resentment.
 
 **Kaleho:** looks like your homes here not fair.
 
@@ -92,19 +92,19 @@
 
 **Kaleho:** Are your people a solitary people.
 
-**Trok:** Oh, like all creatures, we very you know some very gregarious live in folks now me.
+**Trok:** Oh, like all creatures, we vary you know some very gregarious lizardfolk, not me.
 
-**Kaleho:** Do you like living here, as he. looks around the shower. choose this.
+**Kaleho:** Do you like living here, as he. looks around the shack. choose this.
 
 **Trok:** The fishing good and and you know. it's more often than you think that in the foul weather ship goes down and there's call for someone with the strength to. walk down to the bottom and pick up what can be had from down there and quite a lot of value in that to the Community as well. So it's not a bad place for.
 
-**Kaleho:** England and my eyes, do you find do you see Mirko. Well, are there, what they leave.
+**Kaleho:** Kaleho narrows his eyes, do you find, do you see merfolk. Well, are there, where they live.
 
 **Trok:** Not since that one weird adventure that we had together.
 
-**Kaleho:** kind of a glace luck, I was co host things about how close he got what he saw and smelt and.
+**Kaleho:** kind of a glassy look, as Kaleho thinks about how close he got what he saw and smelled and.
 
-**Trok:** you're a. very interested in those. folks from the see why is that.
+**Trok:** you're a. very interested in those. folks from the sea why is that.
 
 **Kaleho:** I don't know.
 
@@ -112,19 +112,19 @@
 
 **Unknown:** No.
 
-**Kaleho:** Go laughs as the lunches on the very delicious and fresh seafood.
+**Kaleho:** Kaleho laughs as he munches on the very delicious and fresh seafood.
 
-**DM:** As as you are. Talking over your your meal you hear footsteps from the beach and then sort of a knock on your door and a. kind of. unkempt looking man short and stocky with great bushy hair and a beard. Many like earrings and and piercings. kind of leans in this is Arden truck one of your friends who also lives on this beach, and he says hey croc. saw your your fire, can I can I talk to you for a minute.
+**DM:** As as you are. Talking over your your meal you hear footsteps from the beach and then sort of a knock on your door and a. kind of. unkempt looking man short and stocky with great bushy hair and a beard. Many like earrings and and piercings. kind of leans in this is Orden, Trok, one of your friends who also lives on this beach, and he says hey Trok. saw your your fire, can I can I talk to you for a minute.
 
-**Trok:** or Colin have some stew.
+**Trok:** Orden have some stew.
 
 **DM:** huh thanks. appreciate the food.
 
-**Trok:** What can we do for you Oh, this is, have you met my friend. today.
+**Trok:** What can we do for you Oh, this is, have you met my friend. Kaleho.
 
 **DM:** Hello Hello.
 
-**Kaleho:** Hello grunts.
+**Kaleho:** Kaleho grunts.
 
 **DM:** And I haven't you. You from around here.
 
@@ -134,13 +134,13 @@
 
 **Kaleho:** i'm Okay, I get by.
 
-**DM:** hmm. Well it's it hasn't been a good week. I don't know if i've told you this truck but. You know I live by myself, but it, I do have some family. my daughter hi Asa. She came home. Maybe. Two weeks, three weeks ago. she's been gone for. A decade traveling. I don't know why she came home she went tell me, maybe trouble. She. wasn't happy with how I was living really. thought we needed money. She had some. papers and notes some. maps and she said, there was lots of places you could get money in the in the forests lots of gold ruins around here. She had it out. said you bad back in a few days, but it's been. Eight days now. i'm afraid. Something might have happened to her. You know me i'm in no shape to go. Running off into the wild but. You might be.
+**DM:** hmm. Well it's it hasn't been a good week. I don't know if i've told you this Trok but. You know I live by myself, but it, I do have some family. my daughter Hiyasa. She came home. Maybe. Two weeks, three weeks ago. she's been gone for. A decade traveling. I don't know why she came home she went tell me, maybe trouble. She. wasn't happy with how I was living really. thought we needed money. She had some. papers and notes some. maps and she said, there was lots of places you could get money in the in the forests lots of gold ruins around here. She had it out. said she'd be back in a few days, but it's been. Eight days now. i'm afraid. Something might have happened to her. You know me i'm in no shape to go. Running off into the wild but. You might be.
 
-**Trok:** sounds like there's more you're not telling us. For we can decide if we can help you, but maybe if you sit down and. Let up a bowl.
+**Trok:** sounds like there's more you're not telling us. For we can decide if we can help you, but maybe if you sit down and. ladle up a bowl.
 
 **DM:** Looking sure i'm always happy. there's not much more to the story really I mean. I there's a lot she didn't tell me. said she was going up the river, she said. There was treasure there.
 
-**Kaleho:** A Burma river.
+**Kaleho:** Up Mirmir River.
 
 **Unknown:** yeah.
 
@@ -148,9 +148,9 @@
 
 **Trok:** she'd been spending time with anybody new lately.
 
-**DM:** she's been gone for so long, I. Just came back to. She wouldn't say she was. I think she was running from travel. outlining.
+**DM:** she's been gone for so long, I. Just came back to. She wouldn't say she was. I think she was running from trouble. outlining.
 
-**Trok:** What kind of trouble my team gotten into.
+**Trok:** What kind of trouble might she have gotten into.
 
 **DM:** say where she's been she went off to find adventure. Not you know. Be.
 
@@ -158,7 +158,7 @@
 
 **DM:** backwater of this town not that it's a bad town, if you ask me, but. guess, not for everybody.
 
-**Trok:** And we have enough adventure here and hungry to keep you satisfied, I suppose, not.
+**Trok:** And we have enough adventure here in Hamri to keep you satisfied, I suppose, not.
 
 **DM:** enough for me that's for sure.
 
@@ -166,13 +166,13 @@
 
 **Kaleho:** they're worse towns and they're better towns.
 
-**DM:** But I would be. In your dad if you try and find her.
+**DM:** But I would be. in your debt if you try and find her.
 
 **Kaleho:** What does she look like.
 
-**DM:** You know she is a. tissue look like. She is a she is you know. In her early. 30s now i'm. sort of. mangesh brown hair likes to wear a leather cloak and a hood. fairly short shorter than me she doesn't have all this hair like I do. prettier than me too i'd say.
+**DM:** You know she is a. tissue look like. She is a she is you know. In her early. 30s now i'm. sort of. mousy brown hair likes to wear a leather cloak and a hood. fairly short shorter than me she doesn't have all this hair like I do. prettier than me too i'd say.
 
-**Trok:** TIM was the one who is an outcast from my high born family.
+**Trok:** Orden was the one who is an outcast from my high born family.
 
 **DM:** Yes. He was the one who like his yeah he. I guess it wasn't it was never entirely clear exactly what happened to his to you know hit with his parents, but he was came from money and now obviously was not part of money.
 
@@ -180,7 +180,7 @@
 
 **Kaleho:** Can I do an insight check to see if he's lying. or. turn back or otherwise. Did it roll.
 
-**DM:** I mean his. key themes genuinely upset and is like looking for how it's not you don't know him that well and he's a bit sort of monotonic even killed kind of. You know slightly. You know. doesn't have a lot of emotion is wise anyway, but he definitely seems um. yeah yeah that's that's what you can get really like he's not. There might be things about his daughter he's not. he's not opening up to you about, but like he just generally does seem like he's asking for help, does not like some secret agenda here, he. Has daughter was gone for a while and he wants her back or he wants to know what happened to her.
+**DM:** I mean his. he seems genuinely upset and is like looking for how it's not you don't know him that well and he's a bit sort of monotonic even-keeled kind of. You know slightly. You know. doesn't have a lot of emotion is wise anyway, but he definitely seems um. yeah yeah that's that's what you can get really like he's not. There might be things about his daughter he's not. he's not opening up to you about, but like he just generally does seem like he's asking for help, does not like some secret agenda here, he. His daughter was gone for a while and he wants her back or he wants to know what happened to her.
 
 **Trok:** How many days ago, did you say she took off.
 
@@ -188,13 +188,13 @@
 
 **Trok:** could be a ways off by now, I suppose you expect us to just. hit up river, and so we can see.
 
-**DM:** How I hope so. you're the adventure. I don't know what to do. It your friend. ryu can help.
+**DM:** How I hope so. you're the adventure. I don't know what to do. It your friend. Ryu can help.
 
-**Trok:** I wish was zero is in town he could just get together an expedition of. 50 strong adventures.
+**Trok:** I wish Wazir is in town he could just get together an expedition of. 50 strong adventures.
 
-**DM:** marks yeah I don't know if they'd. i'm not so popular in town so much.
+**DM:** mercs yeah I don't know if they'd. i'm not so popular in town so much.
 
-**Trok:** Zero doesn't like you them. well. I spent a lot of time on this here beach. couldn't hurt to get a change of scenery. I think we could try to help you out. Now, if only you remembered something about these treasure maps.
+**Trok:** Wazir doesn't like you them. well. I spent a lot of time on this here beach. couldn't hurt to get a change of scenery. I think we could try to help you out. Now, if only you remembered something about these treasure maps.
 
 **DM:** She didn't show them to me.
 
@@ -210,15 +210,15 @@
 
 **DM:** By yourself as far as I now.
 
-**Kaleho:** Do you know word what boat, did you arrive on.
+**Kaleho:** Do you know what boat, did you arrive on.
 
 **DM:** I don't know. She just showed up at my shack three weeks ago.
 
 **Trok:** and The money she thought would be. Easy taken. buried ancient money. or new pilfering to do.
 
-**DM:** I guess buried anxious to. ash from the way she was talking.
+**DM:** I guess buried ancient treasure. ash from the way she was talking.
 
-**Kaleho:** It for you late now tomorrow.
+**Kaleho:** If too late now, tomorrow.
 
 **DM:** yeah.
 
@@ -226,25 +226,25 @@
 
 **Trok:** I was wondering if we should simply head up at first light or ask around town, to see if anybody knows anything that might be useful.
 
-**Kaleho:** to your movie or early in the morning, we can. check in on the way toward. Sir. If we find money. i'll need a cut.
+**Kaleho:** Tomorrow, maybe, or early in the morning, we can. check in on the way toward. Sir. If we find money. i'll need a cut.
 
-**Trok:** Oh learning. we'll figure out the money when the time comes. But it's true, we can use reuse help. When did I last see him TIM.
+**Trok:** Oh, Orden. we'll figure out the money when the time comes. But it's true, we can use Ryu's help. When did I last see him TIM.
 
 **DM:** Is around I mean you probably saw him a few days ago, you could certainly catch him at breakfast.
 
-**Trok:** let's let's find him at first like.
+**Trok:** let's let's find him at first light.
 
-**Ryu:** Real viewer out very soon. will be around very soon. I had oh.
+**Ryu:** Ryu will be out very soon. will be around very soon. I had oh.
 
 **DM:** OK so it's for the next morning.
 
-**Trok:** We spoke some gods and go to sleep.
+**Trok:** We smoke some gatza and go to sleep.
 
 **Kaleho:** Okay, I gotcha.
 
 **Trok:** No okay.
 
-**DM:** So. The next morning you had up to. To read his tower.
+**DM:** So. The next morning you had up to. to Ryu's tower.
 
 **Trok:** yeah the two of us.
 
@@ -252,13 +252,13 @@
 
 **Trok:** he's back.
 
-**DM:** Okay, so it is, it is late October. it's been about three months since the events of. Of the. What are the sentience water and ozzy or the warlock turning people trying to re animate brown bodies. it's been a quiet three months. um but now you see i'm kayla was back in town and you see. A.
+**DM:** Okay, so it is, it is late October. it's been about three months since the events of. Of the. What are the sentient water and Azar the warlock turning people trying to re animate drowned bodies. it's been a quiet three months. um but now you see i'm Kaleho is back in town and you see. A.
 
-**Ryu:** truck.
+**Ryu:** Trok.
 
-**DM:** And kayla heading up to your tower review. With a look of news or determination in their eyes first thing for breakfast.
+**DM:** And Kaleho heading up to your tower, Ryu. With a look of news or determination in their eyes first thing for breakfast.
 
-**Ryu:** You see a blue blue blue what kind of purpose again blue. spray spray kind of either sitting sitting on the top of the power, the Tower like watching you as you come up the stairs and then. You know review kind of like sticks his head outside the door it's long long long long hair kind of disheveled looking like normally he's in kind of like in like a long top not that you know normally like renounce kind of all the shovel and he's in sort of like a black black robe. looking like having just woken up like five minutes ago it's kind of like so you guys. You guys are here early.
+**Ryu:** You see Blu, Blu, Blu, what kind of bird again? Blu. osprey kind of either sitting sitting on the top of the tower, the tower like watching you as you come up the stairs and then. You know Ryu kind of like sticks his head outside the door it's long long long long hair kind of disheveled looking like normally he's in kind of like in like a long topknot not that you know normally like Ryu is kind of all disheveled and he's in sort of like a black black robe. looking like having just woken up like five minutes ago it's kind of like so you guys. You guys are here early.
 
 **Trok:** Oh yes, and we got a job for you, my friend.
 
@@ -268,27 +268,27 @@
 
 **Ryu:** uh I mean I go every week, usually what's going on.
 
-**Trok:** Well, you know my friend. Gordon bum.
+**Trok:** Well, you know my friend. Orden, bum.
 
 **Ryu:** yeah.
 
-**Trok:** I mean like to call him above because he, like. has no gainful employment and lives on the beach yeah. or others that I might name anyways. or. His his daughters gone and. A treasure seeking up the River supposed to come back didn't come back.
+**Trok:** I mean like to call him a bum because he, like. has no gainful employment and lives on the beach yeah. or others that I might name anyways. or. His his daughters gone and. A treasure seeking up the River supposed to come back didn't come back.
 
 **Ryu:** The daughter was treasure seeking up the river.
 
 **Trok:** that's what he says.
 
-**Kaleho:** She left eight days ago believe into supposed to be back a few days ago.
+**Kaleho:** She left eight days ago I believe, and was supposed to be back a few days ago.
 
 **Ryu:** hmm and so you guys want to go rescue her.
 
-**Trok:** well. wouldn't sit in particular that that could be a lot of money involved and.
+**Trok:** well. wouldn't say in particular that that could be a lot of money involved and.
 
 **Ryu:** Okay that's what I didn't understand it felt like kind of a noble pursuit. That first part, so I wasn't sure that was in character, for you guys and your.
 
-**Trok:** Insurance and i'm not trying to get rich or anything but.
+**Trok:** Sure, and i'm not trying to get rich or anything but.
 
-**Ryu:** there's their godson involved because that's kind of the other primary motivator I can.
+**Ryu:** there's there gatza involved because that's kind of the other primary motivator I can.
 
 **Trok:** I hear that, in certain circumstances, it can be exchanged for currency so. Okay, so this is sort of a.
 
@@ -296,7 +296,7 @@
 
 **Kaleho:** I mean no.
 
-**Trok:** I know you're nine years. Old good.
+**Trok:** I know you know, years. Old good.
 
 **Kaleho:** The daughter may have a lead on treasure, we find the daughter.
 
@@ -306,7 +306,7 @@
 
 **Ryu:** Okay.
 
-**Trok:** Or we find her waterlogged. corpse and tell warden and noble story about how she went i've known Oregon for for many years, as you know, and.
+**Trok:** Or we find her waterlogged. corpse and tell Orden and noble story about how she went i've known Orden for for many years, as you know, and.
 
 **Ryu:** I know toward. me and.
 
@@ -318,7 +318,7 @@
 
 **Ryu:** Has he ever mentioned.
 
-**Trok:** Is a doctor.
+**Trok:** Is her doctor.
 
 **Ryu:** Ever in our years together ever I don't ever remember he doesn't seem like the kind of dude who has kids.
 
@@ -328,7 +328,7 @@
 
 **Trok:** that struck me like that why.
 
-**Ryu:** order you know so it's like if you were to have kids you know I mean. I don't know never really struck me as a successful parent myself.
+**Ryu:** Orden you know so it's like if you were to have kids you know I mean. I don't know never really struck me as a successful parent myself.
 
 **Kaleho:** she's she left when she was in her early 20s and returned after 10 years. Just recently went to the forest just recently.
 
@@ -336,11 +336,11 @@
 
 **DM:** So, as you are talking, you see walking down approaching your. Your little group sitting around having breakfast Kate you want to describe your character.
 
-**Nerissa:** So. An older woman is walking towards you and she's reasonably dressed for a productive day of exploring around the beaches. Definitely not young anymore, but you're very fit block. has no trouble walking toward you. wearing you know. The typical sort of. Well, kept garb of. Someone who. looks around nature bit get finds her way around. And you know she's she's a looks like she's trying to be friendly, as she approaches. And she says oh i've. been over in this Tower for a while fairly near here and I haven't had a chance to meet anyone in the area, so I saw your gathering and I thought I would come in and introduce myself, my name is marissa.
+**Nerissa:** So. An older woman is walking towards you and she's reasonably dressed for a productive day of exploring around the beaches. Definitely not young anymore, but you're very fit block. has no trouble walking toward you. wearing you know. The typical sort of. Well, kept garb of. Someone who. looks around nature bit get finds her way around. And you know she's she's a looks like she's trying to be friendly, as she approaches. And she says oh i've. been over in this Tower for a while fairly near here and I haven't had a chance to meet anyone in the area, so I saw your gathering and I thought I would come in and introduce myself, my name is Nerissa.
 
-**Ryu:** Well hello, and so yeah I think i've seen you around these parts over the past the past couple of weeks i'm welcome. i'm review the humble caretaker of this slab Iraq.
+**Ryu:** Well hello, and so yeah I think i've seen you around these parts over the past the past couple of weeks i'm welcome. I'm Ryu the humble caretaker of this slab Iraq.
 
-**Trok:** i'm i'm truck and I was not informed that there was a a neighborhood tower association forming. But.
+**Trok:** I'm Trok and I was not informed that there was a a neighborhood tower association forming. But.
 
 **Ryu:** it's you don't check your CV emails the problem. We send you the same goodwill and you don't you never respond.
 
@@ -382,7 +382,7 @@
 
 **Ryu:** Were and you were you were you from Marisa.
 
-**Nerissa:** Oh i've most recently. been living in the. In the south, so my wire. Just further down the coast.
+**Nerissa:** Oh i've most recently. been living in the. In the south, south Mawar. Just further down the coast.
 
 **Unknown:** and
 
@@ -396,17 +396,17 @@
 
 **Ryu:** spent some time out there.
 
-**Nerissa:** yeah you know where the tab where forest. By the malakal peninsula.
+**Nerissa:** yeah you know where the Tawir Forest. By the Mawakel Peninsula.
 
 **DM:** it's right here, basically. Just off the map.
 
 **Kaleho:** Oh, I have a quick map clarification, are these maps the same map like it flows up or is that, just like a detailed inset of the map on the left.
 
-**DM:** it's no no that's just a map of homfray.
+**DM:** it's no no that's just a map of Hamri.
 
-**Kaleho:** it's the worst memory on the map is that the one that's right in the Center. Right I missed that okay got perfect.
+**Kaleho:** it's the Mirmir on the map is that the one that's right in the Center. Right I missed that okay got perfect.
 
-**Trok:** And so the mere mere river.
+**Trok:** And so the Mirmir River.
 
 **DM:** Is not even sure is not labeled on the map, it goes it. goes up to these hills that doesn't even. it's small.
 
@@ -420,9 +420,9 @@
 
 **Trok:** well.
 
-**Kaleho:** Hello who's doing the math of one third verse one sports. But he is being quiet.
+**Kaleho:** Kaleho's doing the math of one third verse one sports. But he is being quiet.
 
-**Trok:** kalo there's plenty of shellfish in the mud, as they, as we say um. Any shellfish. Well, the sun's rising. No time like the present, I don't suppose we need to do any kind of provisioning or other preparations.
+**Trok:** Kaleho, there's plenty of shellfish in the mud, as they, as we say um. Any shellfish. Well, the sun's rising. No time like the present, I don't suppose we need to do any kind of provisioning or other preparations.
 
 **Ryu:** I mean wait, this is just the day we're going to go check it out, how are we on track.
 
@@ -446,9 +446,9 @@
 
 **Kaleho:** What looks at the lady waiting what's your name again.
 
-**Nerissa:** USA.
+**Nerissa:** Hiyasa.
 
-**Unknown:** USA.
+**Unknown:** Hiyasa.
 
 **Kaleho:** Are we ready.
 
@@ -458,13 +458,13 @@
 
 **DM:** So you're just heading straight to the River to town what's your goal, where you're heading from here.
 
-**Kaleho:** We drop in to the end with our friend that we all know, who also seems to be plugged in.
+**Kaleho:** We drop in to the inn with our friend that we all know, who also seems to be plugged in.
 
 **Trok:** The Leviathan.
 
 **Unknown:** Leviathan.
 
-**DM:** yeah you can I mean you can drop into Leviathan was there, fortunately, is out of town. So you checked in earlier, and he he was there, but then had to go out for an errand so no not available at the moment.
+**DM:** yeah you can I mean you can drop into Leviathan. Wazir, fortunately, is out of town. So you checked in earlier, and he he was there, but then had to go out for an errand so no not available at the moment.
 
 **Ryu:** Of. them, you know, like i'm assuming that you must know this river look inside out.
 
@@ -472,17 +472,17 @@
 
 **Trok:** Probably sitting up some. Leviathan franchises. chain of sea monster themed.
 
-**Ryu:** tavern in general, it was a truck so we're we're just what are we doing, are we tracking anything, are we just like. literally just going to go down the river and see what happens.
+**Ryu:** tavern in general, it was a trek so we're we're just what are we doing, are we tracking anything, are we just like. literally just going to go down the river and see what happens.
 
-**Trok:** I wonder if we should try to get order to go with us, because we don't even know really what we're looking for why. Is he, like old and infirm.
+**Trok:** I wonder if we should try to get Orden to go with us, because we don't even know really what we're looking for why. Is he, like old and infirm.
 
-**DM:** No, but he's just I mean he's a commoner right like he's. Not that not that like a day's journey up the river, it would be particularly dangerous, but like he's sort of nervous. He has daughter when and vanished he's not like capable of you know if there's, even if this is orange or something he would. he'd be in trouble.
+**DM:** No, but he's just I mean he's a commoner right like he's. Not that not that like a day's journey up the river, it would be particularly dangerous, but like he's sort of nervous. His daughter when and vanished he's not like capable of you know if there's, even if this is danger or something he would. he'd be in trouble.
 
 **Unknown:** yeah.
 
-**Kaleho:** Thank you, friends, the liability truck.
+**Kaleho:** Thank you, friends, the Leviathan, Trok.
 
-**Trok:** Was the daughter's name gosh.
+**Trok:** Was the daughter's name Hiyasa.
 
 **DM:** I also.
 
@@ -510,7 +510,7 @@
 
 **Kaleho:** I kill her like. So he's been in many taverns and many times. Yes, you scans the room and does anybody catches is somebody who seems informed or traveled otherwise.
 
-**DM:** yeah make um. let's see make a. charisma investigation checks and make a charisma check but add your. proficiency modifier if you're proficient in investigation or your double proficiency investigation right so add. yeah so make your charisma check and add 616 yeah so there's a. There is actually one person that you see who who you've. you've seen around before his name's are bellard he's a storyteller and a performer who hangs around the Leviathan, a lot um. You get the sense that he often exaggerates his exploits and he's sort of has a reputation as a bit of a. Teller of tall tales, but when you have passed through before you, you know chatted with him and he's certainly observant and he seems to be here i'm like nursing a hangover basically.
+**DM:** yeah make um. let's see make a. charisma investigation checks and make a charisma check but add your. proficiency modifier if you're proficient in investigation or your double proficiency investigation right so add. yeah so make your charisma check and add 616 yeah so there's a. There is actually one person that you see who who you've. you've seen around before his name's Abelard he's a storyteller and a performer who hangs around the Leviathan, a lot um. You get the sense that he often exaggerates his exploits and he's sort of has a reputation as a bit of a. Teller of tall tales, but when you have passed through before you, you know chatted with him and he's certainly observant and he seems to be here i'm like nursing a hangover basically.
 
 **Kaleho:** So tell he motions to the rest of the our intrepid squad of investigators, you know signaling hey let's talk to the sky. So I asked how are you doing. Look so cool.
 
@@ -526,7 +526,7 @@
 
 **Kaleho:** More rumbling oh like. Steps out of the way of an. Opening for our new adventure to to talk to introduce yourself.
 
-**Nerissa:** apple does it, how do you do my name is marissa pleasure to meet you. Can you months i've seen i've been around town, but I haven't had a chance to chat with you, before.
+**Nerissa:** Abelard, how do you do my name is Nerissa pleasure to meet you. Can you months i've seen i've been around town, but I haven't had a chance to chat with you, before.
 
 **DM:** wow. So.
 
@@ -536,7 +536,7 @@
 
 **Kaleho:** sorry about that the barkeep.
 
-**DM:** make a persuasion check. He says. As he's like nursing is has drink that sounds familiar. So. Woman headed out forever maybe a week ago. She is a. Pretty put together if you ask me i'm. had some. Ancient tomb up there. Supposedly, full of lost treasure.
+**DM:** make a persuasion check. He says. As he's like nursing is has drink that sounds familiar. So. Woman headed out forever maybe a week ago. She is a. Pretty put together if you ask me i'm. had some. an ancient tomb up there. Supposedly, full of lost treasure.
 
 **Trok:** To me.
 
@@ -546,7 +546,7 @@
 
 **Nerissa:** burial rituals she found. I know I would be.
 
-**DM:** Maybe. Who would know more about this tomb I don't know I. I hadn't heard of this before I. was here would. he's out of town, though.
+**DM:** Maybe. Who would know more about this tomb I don't know I. I hadn't heard of this before I. Wazir would. he's out of town, though.
 
 **Trok:** Have you seen.
 
@@ -558,9 +558,9 @@
 
 **Trok:** i'm. crazy guy whose name was. No.
 
-**DM:** yeah it was bizarre.
+**DM:** yeah it was Azar.
 
-**Kaleho:** bizarre are. We. kind of.
+**Kaleho:** Azar. We. kind of.
 
 **Trok:** know.
 
@@ -570,9 +570,9 @@
 
 **Nerissa:** pleasure to meet you.
 
-**Kaleho:** nervosa does the stringer bell as our resident historian.
+**Kaleho:** Nerissa does the strength or build as our resident historian.
 
-**Nerissa:** there's so many different to former cultures on this peninsula that's part of why I came to live here I don't know per se about any particular burial sites up the river. sort of thing that I came here to look for.
+**Nerissa:** there's so many different to older cultures on this peninsula that's part of why I came to live here I don't know per se about any particular burial sites up the river. sort of thing that I came here to look for.
 
 **DM:** make a make a history chuck. norris. So I mean yeah you haven't studied this in detail, you have heard stories of. So, so I mean you've heard you've heard you've definitely heard stories of like strange things in the interior of. hum rave or sorry of the peninsula. And you've heard. you've heard stories about. You know there's been said, you know the mo our people have lived here for a while, like generations and generations, and many of them, you know sort of claim they were the first people to settle here but you've definitely heard rumors of sort of ancient civilizations that lived here. But you don't really have much you don't know much detail about them you haven't studied that.
 
@@ -584,11 +584,11 @@
 
 **Trok:** well.
 
-**Kaleho:** We pick up real.
+**Kaleho:** We pick up Ryu.
 
-**Trok:** Soon, as soon as we pick up real yeah he said to go get him in his place right let's head over.
+**Trok:** Soon, as soon as we pick up Ryu yeah he said to go get him in his place right let's head over.
 
-**Ryu:** Is head over to the tower. yeah So you see a review kind of just hanging out on the steps sitting there with spear on his lap looking at you guys. And yeah blues already found some tracks so.
+**Ryu:** Is head over to the tower. yeah So you see Ryu kind of just hanging out on the steps sitting there with spear on his lap looking at you guys. And yeah Blu's already found some tracks so.
 
 **Trok:** I mean. I see some tracks to bird tracks turtle tracks. What. What did you guys find.
 
@@ -600,7 +600,7 @@
 
 **Unknown:** from eight days ago. that's amazing.
 
-**Trok:** Well, maybe we can just hang out here at the Tower wall, while blue makes the rescue that's that's fantastic. Reasonable question.
+**Trok:** Well, maybe we can just hang out here at the Tower wall, while Blu makes the rescue that's that's fantastic. Reasonable question.
 
 **Ryu:** That was your other.
 
@@ -614,7 +614,7 @@
 
 **Unknown:** yeah.
 
-**DM:** So. That the you know the the path up you sort of have to go up to the top of the sort of cut around the top of the cliffs and meet the mirror mirror above the waterfall. And it's. Very quickly, you start to get into this fairly. Initially fairly open pine pine forest and it's you know it's late October, so a lot of the deciduous underbrush has died off or fallen. But the the pine trees themselves are, of course, still green there's probably still you know there's probably no snow up in the the top of the hills, but where you are here, near the coast it's. still fairly. You know, like a late fall. kind of open open woods, but very quickly actually doesn't really take much i'm tracking to be able to identify. That there's been foot traffic along the river and there's a there's actually a little path that runs along the river. You know up people use for fishing up to the you know past the first couple of sort of obvious open pools, where you can catch trout and things like that. But you know after maybe half a day the the sort of obvious um. Continual trail, that is, you know what the sort of people have Hombre us going back and forth fades, but you can see, you know with with truck and. Reuse experience it's pretty easy to continue to follow. What looks like a path made by, I guess, I guess, we use really the expert tracker. Where the real his experience and with you know blues aid helping and things like that um you know somebody clearly. You know, cut branches, you know push their way through the through you know the tangled. tangled small tree is along the river edge. You know, every little while there's some fairly obvious signs of relatively recent passage. By. By late afternoon as the sun begins to set. The. you've got now sort of it's pretty you pretty quickly trap, you know move from what is. not exactly like. cultivated land, obviously, but like clearly you know where people sometimes like log and fish and things like that right along the coast.
+**DM:** So. That the you know the the path up you sort of have to go up to the top of the sort of cut around the top of the cliffs and meet the mirror mirror above the waterfall. And it's. Very quickly, you start to get into this fairly. Initially fairly open pine pine forest and it's you know it's late October, so a lot of the deciduous underbrush has died off or fallen. But the the pine trees themselves are, of course, still green there's probably still you know there's probably no snow up in the the top of the hills, but where you are here, near the coast it's. still fairly. You know, like a late fall. kind of open open woods, but very quickly actually doesn't really take much i'm tracking to be able to identify. That there's been foot traffic along the river and there's a there's actually a little path that runs along the river. You know up people use for fishing up to the you know past the first couple of sort of obvious open pools, where you can catch trout and things like that. But you know after maybe half a day the the sort of obvious um. Continual trail, that is, you know what the sort of people of Hamri going back and forth fades, but you can see, you know with with Trok and. Reuse experience it's pretty easy to continue to follow. What looks like a path made by, I guess, I guess, Ryu is really the expert tracker. With Ryu's experience and with you know Blu's aid helping and things like that um you know somebody clearly. You know, cut branches, you know push their way through the through you know the tangled. tangled small tree is along the river edge. You know, every little while there's some fairly obvious signs of relatively recent passage. By. By late afternoon as the sun begins to set. The. you've got now sort of it's pretty you pretty quickly trap, you know move from what is. not exactly like. cultivated land, obviously, but like clearly you know where people sometimes like log and fish and things like that right along the coast.
 
 **Unknown:** To.
 
@@ -634,11 +634,11 @@
 
 **Nerissa:** or. Two you can make these.
 
-**DM:** Okay i'm co perception check. So the first part of the night passes and eventually. nothing unusual as you sit watch by the fire gets cold. Stephen definitely there's a. Winter chill in the air, after the sun is set. But as you shake truck awake around midnight. Report that you haven't seen anything.
+**DM:** Okay i'm co perception check. So the first part of the night passes and eventually. nothing unusual as you sit watch by the fire gets cold. Stephen definitely there's a. Winter chill in the air, after the sun is set. But as you shake Trok awake around midnight. Report that you haven't seen anything.
 
 **Kaleho:** need to use the restroom very, very quickly, so I will be.
 
-**DM:** truck. Now deception check. truck spends most of the night. kind of distractedly wondering. what's happening elsewhere. And as you go to wake Marisa in the. Mid. middle of the night sort of you know pre dawn 3am you also report No. Nothing has happened. Kate nervous perception check. Also, a quiet night there's a bit of a shift in the air as a cold wind starts to pick up from the. i'm from the West in the middle of the night but you're pretty well sheltered from the from the winds from the trees and the campsite that i'm sure you found and again a quiet evening, as you wake everybody just passed on. And report, nothing has happened overnight. continue up the trial up the river.
+**DM:** Trok. Now deception check. Trok spends most of the night. kind of distractedly wondering. what's happening elsewhere. And as you go to wake Marisa in the. Mid. middle of the night sort of you know pre dawn 3am you also report No. Nothing has happened. Kate nervous perception check. Also, a quiet night there's a bit of a shift in the air as a cold wind starts to pick up from the. i'm from the West in the middle of the night but you're pretty well sheltered from the from the winds from the trees and the campsite that i'm sure you found and again a quiet evening, as you wake everybody just passed on. And report, nothing has happened overnight. continue up the trial up the river.
 
 **Kaleho:** Is the trails bill as clear as it was when we started.
 
@@ -660,7 +660,7 @@
 
 **Unknown:** um.
 
-**DM:** Yes, so heading away from the River from here is a i'll say with. With Ray is tracking skill. And with blue scouting there's a. there's a definitely a path and the forest is dense here so somebody you know headed into the interior from here and had to cut their way through like tangled underbrush and and you know. Blackberry vines and. Close close trees and things like that so. Definitely a trail heading that looks not too difficult to follow heading. into the away from the River from here.
+**DM:** Yes, so heading away from the River from here is a i'll say with. With Ray is tracking skill. And with Blu scouting there's a. there's a definitely a path and the forest is dense here so somebody you know headed into the interior from here and had to cut their way through like tangled underbrush and and you know. Blackberry vines and. Close close trees and things like that so. Definitely a trail heading that looks not too difficult to follow heading. into the away from the River from here.
 
 **Trok:** Well, its head that way.
 
@@ -680,19 +680,19 @@
 
 **Unknown:** dialectic.
 
-**DM:** Of primordial that's the language of earth elemental. natives of the planet Earth, it says. In in these these big letters, it says here lies. Year year care core the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.
+**DM:** Of primordial that's the language of earth elemental. natives of the planet Earth, it says. In in these these big letters, it says here lies. Yerkir-khor the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.
 
 **Trok:** let's have that one more time.
 
-**DM:** Here lies your care core the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.
+**DM:** Here lies Yerkir-khor the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.
 
-**Trok:** wouldn't make skies crystal. Where does the rock below. We do I know nothing about about your core. that's unfamiliar.
+**Trok:** wouldn't make skies crystal. Where does the rock below. We do I know nothing about about Yerkir-khor. that's unfamiliar.
 
-**DM:** You have never heard. Your core before.
+**DM:** You have never heard. Yerkir-khor before.
 
 **Trok:** Anybody.
 
-**Kaleho:** Co host kind of confused as to why he goes this language. Does not ring a bell for him.
+**Kaleho:** Kaleho is kind of confused as to why he knows this language. Does not ring a bell for him.
 
 **Nerissa:** I don't know the language but. fascinating. ordeal tune.
 
@@ -700,17 +700,17 @@
 
 **Ryu:** yeah are there, like just in the late in this region, the River just weird are there, like kind of objects and things like that, with primordial but another like nearby.
 
-**DM:** like an unusual thing it's unusual it's not like I mean there are there are definitely ruins and the interior of this peninsula, but not this, you have not heard of. Like ruins with like primordial tombs before. Like most of the ruins a date much date to like prior errors in the history of malware so like like 100 years 150 years ago and morrow my wire was a. Major naval power or something like that that's like what you're used to seeing around.
+**DM:** like an unusual thing it's unusual it's not like I mean there are there are definitely ruins and the interior of this peninsula, but not this, you have not heard of. Like ruins with like primordial tombs before. Like most of the ruins a date much date to like prior errors in the history of Mawar so like like 100 years 150 years ago and Mawar was a. Major naval power or something like that that's like what you're used to seeing around.
 
 **Ryu:** Would uh. huh. What might be buried in a team like this.
 
-**DM:** Your core the undaunted prints of earth part of the Rock allowing carving out the crystal scotus.
+**DM:** Yerkir-khor the undaunted prince of earth lord of the Rock below and guardian of the crystal skies.
 
 **Ryu:** got it.
 
 **Kaleho:** Are these stones, like the stones of the towers like do we see any connection like structurally aesthetically.
 
-**DM:** And know aesthetically this is completely I mean, these are like massive blocks of stone, with no seams know um. You know these for like pieces branching out we're not i'm. not constructed of smaller pieces of stone put together with mortar it's just a huge. slab of stone that's somehow been shaped in in into this structure. So it's not it doesn't. It does not remind you at all of the. towers or any anything like that. it's definitely not model, our architecture like not mauer golden age architecture from 150 years ago for sure.
+**DM:** And know aesthetically this is completely I mean, these are like massive blocks of stone, with no seams know um. You know these for like pieces branching out we're not i'm. not constructed of smaller pieces of stone put together with mortar it's just a huge. slab of stone that's somehow been shaped in in into this structure. So it's not it doesn't. It does not remind you at all of the. towers or any anything like that. it's definitely not Mawar architecture like not Mawar golden age architecture from 150 years ago for sure.
 
 **Trok:** That. rope suggests a convenient. Next course of action.
 
@@ -774,7 +774,7 @@
 
 **DM:** make a survival check.
 
-**Kaleho:** Co hosts far from the see.
+**Kaleho:** Kaleho is far from the sea.
 
 **DM:** You don't see any neither sow nor really see any foot trails leaving this area. And you're fairly confident because, like it's pretty dense outside of this little clearing it's pretty dense forest, I mean you've been sort of pushing your way through tangles and. And brush so. Somebody would I mean if somebody like climbed up a tree and jump from tree to tree or something you might miss it, but nobody, just like hacks through the underbrush leaving besides the trail that leads back to the river.
 
@@ -798,7 +798,7 @@
 
 **Ryu:** Sorry, but.
 
-**Kaleho:** This is a little deep for digging truck.
+**Kaleho:** This is a little deep for digging Trok.
 
 **Trok:** I want.
 
@@ -814,7 +814,7 @@
 
 **Trok:** The. day's gonna not getting any longer I. Think i'll get up to the top there and see what I can see.
 
-**DM:** Okay um both both ropes are fairly easy to climb the. way up up to the base of the of the squat pyramid just because there's iron Spikes every four feet and then the second rope has is not it and securely fastened with a grappling hook, so you get up to the top without any trouble. So one a few things that you can see, one is that now looking at this i'm. In into the darkness now truck. You can see you have do you have dark fish and don't you know.
+**DM:** Okay um both both ropes are fairly easy to climb the. way up up to the base of the of the squat pyramid just because there's iron Spikes every four feet and then the second rope has is not it and securely fastened with a grappling hook, so you get up to the top without any trouble. So one a few things that you can see, one is that now looking at this i'm. In into the darkness now Trok. You can see you have do you have dark fish and don't you know.
 
 **Trok:** I don't know.
 
@@ -822,7 +822,7 @@
 
 **Trok:** Oh interesting.
 
-**DM:** Where that even be yes, you do have dark for us and it's under senses. You have 120 feet of dark vision amazing so you can actually see down the shaft. There is actually a stone like not exactly a ladder, but like stone like notches carved into the side of the shaft descending down so it's definitely climate ball and it goes down, maybe 40 feet. which would take you just about to ground level. And then. You can see some distance below like the shaft goes down for a ways and that opens up into a large room. Which is maybe 60 feet away from you it's hard to judge distances i'm completely dark. So you can't see, but you can see, dark vision you can't see color. There are, but what you can see, looking down just through this shaft is some. mosaic tile design on the floor. It is seems like what you're looking at right below you is some depiction of like glittering caves or something like that you're guessing probably if you could see it in color there would be elaborate gems and crystals and things like that i'm. All sort of inlaid into the mosaic of this floor of the floor of this room that you're looking at 60 feet below you.
+**DM:** Where that even be yes, you do have darkvision and tremorsense. You have 120 feet of dark vision amazing so you can actually see down the shaft. There is actually a stone like not exactly a ladder, but like stone like notches carved into the side of the shaft descending down so it's definitely climate ball and it goes down, maybe 40 feet. which would take you just about to ground level. And then. You can see some distance below like the shaft goes down for a ways and that opens up into a large room. Which is maybe 60 feet away from you it's hard to judge distances i'm completely dark. So you can't see, but you can see, dark vision you can't see color. There are, but what you can see, looking down just through this shaft is some. mosaic tile design on the floor. It is seems like what you're looking at right below you is some depiction of like glittering caves or something like that you're guessing probably if you could see it in color there would be elaborate gems and crystals and things like that i'm. All sort of inlaid into the mosaic of this floor of the floor of this room that you're looking at 60 feet below you.
 
 **Trok:** mosaic of crystal in caves. is uncertain narrating what I see for the others down below. I have this little. clamshell. relatively clean i'm going to drop it. And wash it.
 
@@ -840,7 +840,7 @@
 
 **Kaleho:** That we can easily scrambles up top and. looks down.
 
-**Nerissa:** and nurses scrambles up to and. so excited to. get a glimpse of this i'm. gonna say actually says two. tracks Would you mind some light.
+**Nerissa:** and Nerissa scrambles up to and. so excited to. get a glimpse of this i'm. gonna say actually says two. tracks Would you mind some light.
 
 **Trok:** That could be quite helpful um my one concern is that we might alert.
 
@@ -854,7 +854,7 @@
 
 **DM:** So, with the light now are you so you can you can place them up to 120 feet away.
 
-**Nerissa:** Yes, I said submitted.
+**Nerissa:** Yes, I said Thaumaturgy.
 
 **DM:** Okay, so so with the light now, you can see that, indeed, this is a mosaic of like glittering like multicolored gems sort of a big cavern almost with i'm like gemstone like almost like you're inside of God. Is what it looks like.
 
@@ -868,9 +868,9 @@
 
 **Kaleho:** i'll go down third.
 
-**Ryu:** Real Estate but step top with a blue survey around till nobody's coming we're all.
+**Ryu:** Ryu stays but step top with Blu surveying around till nobody's coming we're all.
 
-**DM:** make our perception check and everybody is climbing down making athletics jack. You don't see anybody around i'm. truck you begin climbing down. um. it's not the easiest climate in the world um but there's handholds and you're strong. marissa following behind you, is surprisingly spry and light on our feet and also makes short work of it, you get about. 20 feet down when. Two things happen at once. um first of all kale kilo slips. And begins tumbling. Through the shaft. towards the floor. And second you hear a slight whirring sound. And then, what a blade swings out through the. Through the the shaft at about your knee height truck so truck I need you to make a dexterity saving throw.
+**DM:** make our perception check and everybody is climbing down making athletics jack. You don't see anybody around i'm. Trok you begin climbing down. um. it's not the easiest climate in the world um but there's handholds and you're strong. Nerissa following behind you, is surprisingly spry and light on her feet and also makes short work of it, you get about. 20 feet down when. Two things happen at once. um first of all Kaleho slips. And begins tumbling. Through the shaft. towards the floor. And second you hear a slight whirring sound. And then, what a blade swings out through the. Through the the shaft at about your knee height Trok so Trok I need you to make a dexterity saving throw.
 
 **Trok:** Some indiana Jones share it here I love.
 
@@ -882,11 +882,11 @@
 
 **Trok:** Oh God, I have that blessing ability to I could have alone.
 
-**DM:** Pretty you know you're a skilled adventure so so even though you're caught completely by surprise by this it doesn't cut your legs off it just knocks you off the ladder you take eight points of slashing damage from the. From the blade and then you so kelo takes. 14 points of bludgeoning damage from falling and you take nine points of bludgeoning damage trop from falling and both you and kalo boom boom. And with a fight at the bottom of the. At the bottom of this. In this big room, which is lit up by one of nurses glowing lights.
+**DM:** Pretty you know you're a skilled adventure so so even though you're caught completely by surprise by this it doesn't cut your legs off it just knocks you off the ladder you take eight points of slashing damage from the. From the blade and then you so Kaleho takes. 14 points of bludgeoning damage from falling and you take nine points of bludgeoning damage trop from falling and both you and Kaleho boom boom. And with a fight at the bottom of the. At the bottom of this. In this big room, which is lit up by one of Nerissa's glowing lights.
 
 **Trok:** What the heck was that.
 
-**DM:** nurse that you. Have on as you observe this blaine. slice through the air knock truck off. cut them up a little bit and you saw van is to clean to the side of the wall as HALO tumbled through the shaft behind you now you are hanging on by yourself. About 20 feet above the end of this shaft about maybe. 35 feet above the the floor of the. Of the hall.
+**DM:** Nerissa, you. Have on as you observe this blaine. slice through the air knock Trok off. cut them up a little bit and you saw van is to clean to the side of the wall as HALO tumbled through the shaft behind you now you are hanging on by yourself. About 20 feet above the end of this shaft about maybe. 35 feet above the the floor of the. Of the hall.
 
 **Nerissa:** And then, how many feet, from where the flashy blade is.
 
@@ -894,11 +894,11 @@
 
 **Nerissa:** This behind track when track that yes.
 
-**Kaleho:** did my falling SIP the blade offered a truck climbing the ladder set it off.
+**Kaleho:** did my falling SIP the blade offered a Trok climbing the ladder set it off.
 
-**DM:** trucks at the blade off.
+**DM:** Trok set the blade off.
 
-**Ryu:** rocks at the blade off.
+**Ryu:** Trok set the blade off.
 
 **Trok:** yeah.
 
@@ -906,7 +906,7 @@
 
 **Trok:** yeah but I mean that being good at athletics doesn't mean not setting up traps it's just the climbing part right.
 
-**DM:** So. let's take this an order so first of all kalo and truck you see now you're standing. In a. Large Hall, maybe 50 feet 5060 feet. From lengthwise at the. So at the eastern end. There are two enormous double doors. shot i'm surrounding actually here i've got a map. so on. On this side here. There are two enormous shot double doors. There are pillars here you landed here i'll put. where's my tokens. So let's see truck and. landed just about there what you're looking at in front of you here. Is a. um. So it's a it looks like a stalagmite emerging from a shallow pit in the floor. And as the stalagmite kind of grows up from the Center of this pit it's the smooth white flowing stone and it seems to be shaped slightly. And formed into like there's a flat spot in the middle here that almost looks kind of like an altar with them, these two sort of peaks on the side mmm.
+**DM:** So. let's take this an order so first of all Kaleho and Trok you see now you're standing. In a. Large Hall, maybe 50 feet 5060 feet. From lengthwise at the. So at the eastern end. There are two enormous double doors. shot i'm surrounding actually here i've got a map. so on. On this side here. There are two enormous shot double doors. There are pillars here you landed here i'll put. where's my tokens. So let's see Trok and. landed just about there what you're looking at in front of you here. Is a. um. So it's a it looks like a stalagmite emerging from a shallow pit in the floor. And as the stalagmite kind of grows up from the Center of this pit it's the smooth white flowing stone and it seems to be shaped slightly. And formed into like there's a flat spot in the middle here that almost looks kind of like an altar with them, these two sort of peaks on the side mmm.
 
 **Trok:** hmm.
 
@@ -924,11 +924,11 @@
 
 **Nerissa:** Now he is at the top.
 
-**DM:** marissa is like hanging on just. love.
+**DM:** Nerissa is like hanging on just. love.
 
-**Trok:** Where truck federal ID yeah.
+**Trok:** Where's Trok? There, yeah yeah.
 
-**DM:** So, so this is so, so kalo and truck what are you two doing.
+**DM:** So, so this is so, so Kaleho and Trok what are you two doing.
 
 **Kaleho:** i'm. Just my second row don't ropes have like track for trap ability or some propensity towards.
 
@@ -938,7 +938,7 @@
 
 **Unknown:** that's.
 
-**Kaleho:** kelo.
+**Kaleho:** Kaleho.
 
 **Unknown:** Dirty isn't a perception check.
 
@@ -950,9 +950,9 @@
 
 **Trok:** i'm. staring up interested thinking what advice to give her realizing she can figure it out on our own. And then is drawn. By the snake head statue and I lock eyes, with it wondering if I know any logical connections to similar things.
 
-**DM:** Are guy i'm nervous, what are you doing.
+**DM:** All right, Nerissa, what are you doing.
 
-**Nerissa:** well. Why don't be able to get passes played.
+**Nerissa:** well. We won't be able to get past this blade.
 
 **Trok:** You can Jim it was something.
 
@@ -974,7 +974,7 @@
 
 **DM:** But like big curved sort blade that.
 
-**Nerissa:** You know that I have anything metal. That i'd be willing to give up obviously um. I have my sword, but that's nothing more than they used to Gemma. Another sword.
+**Nerissa:** You know that I have anything metal. That i'd be willing to give up obviously um. I have my sword, but that's nothing more than they used to gem. Another sword.
 
 **DM:** I think you have some iron Spikes in your Pack.
 
@@ -984,11 +984,11 @@
 
 **DM:** Why, I brought it might come to that.
 
-**Nerissa:** Is it does it were exactly the same as hey Elsa so we can get her out.
+**Nerissa:** Is it does it were exactly the same as Hiyasa so we can get her out.
 
 **Unknown:** Exactly.
 
-**Nerissa:** Right well see what can I do with little specks her little. clay dangle one. Data down on a rope.
+**Nerissa:** Right well see what can I do with Mage Hand or little. clay dangle one. Get it down on a rope.
 
 **Trok:** Well, I would guess shouting up that the blade is triggered by a foot on the foothold so you might try tapping it from above, and then with something that's not your hand.
 
@@ -1022,7 +1022,7 @@
 
 **Ryu:** Say let's do that how about we tie some REPS up at the top.
 
-**Nerissa:** In addition to the ladder that's human into the side of the Rock.
+**Nerissa:** In addition to the ladder that's hewn into the side of the Rock.
 
 **Ryu:** Right, but which is also like you know.
 
@@ -1034,19 +1034,19 @@
 
 **Ryu:** also true.
 
-**Nerissa:** there's a point of trucks scot free So yes, let's let's fast in the rope. up at the top of the ladder and then maybe instead of poking with your javelin or my heavy stick, we could just avoid the step that truck stepped on.
+**Nerissa:** there's a point of Trok got free So yes, let's let's fasten the rope. up at the top of the ladder and then maybe instead of poking with your javelin or my heavy stick, we could just avoid the step that Trok stepped on.
 
 **Ryu:** The slide down the road.
 
-**DM:** A couple of other head. So while you two are setting that up i'm kayla makeup perception check.
+**DM:** A couple of other head. So while you two are setting that up i'm Kaleho makeup perception check.
 
 **Trok:** It say it, so he can. be something good.
 
-**DM:** And marissa making athletics check to climb back up.
+**DM:** And Nerissa, make athletics check to climb back up.
 
 **Nerissa:** All right, well, maybe I don't have to climb back up.
 
-**DM:** Oh you're just waiting for the rope to get to you yeah you can do that. um. Okay, so kalo you your as you're looking around i'm. I mean it's hard to see much from right where you are. But as you like, take a minute to kind of you know, get your bearings stand up dust yourself off. You know, look around at the at the torch light cast by a marissa has a magic. So you can't actually see really past. Past here, probably because the the light from the torches isn't bright enough to see all the way to the end only truck can see that, with his dark vision um. I mean the things that you notice, like everything here seems old very old um. The except for the two broken statues, which seem like look like without moving, but just kind of at the edge of your. The torch light there you can you can even still from this distance um you know with this sort of just kind of peering around. See like there's bits that look freshly broken right like you can like really old age stone when it's freshly broken is really obvious right because it's not weathered i'm not that there's much weather in here but. And then you can see that you can see the mosaic all around you, which is. More than just these glittering caverns right, you can see that there are you know. This this glittering cavern that looks like the Center of God, but then it sort of transitions into these towering stone clips that are within inside even larger massive caverns that then flows into tunnels that crossover underground rivers. And then the rivers themselves into a waterfall and underground waterfall that cascades down into an open have earned filled with. The lag tights and stalagmites just seems to be this sort of. You know smoothly flowing from scene to scene here i'm all depicted in this elaborate mosaic work. So this point has you to have sort of stood up i'm. still not moving yet, but i'm reuse got the rope and review and i'm interests are now like sliding down on the rope the rope itself is. it's about 60 feet down you've got 50 feet of rope so you'll have to like jump the last 10 feet. or so.
+**DM:** Oh you're just waiting for the rope to get to you yeah you can do that. um. Okay, so Kaleho you your as you're looking around i'm. I mean it's hard to see much from right where you are. But as you like, take a minute to kind of you know, get your bearings stand up dust yourself off. You know, look around at the at the torch light cast by Nerissa's a magic. So you can't actually see really past. Past here, probably because the the light from the torches isn't bright enough to see all the way to the end only Trok can see that, with his dark vision um. I mean the things that you notice, like everything here seems old very old um. The except for the two broken statues, which seem like look like without moving, but just kind of at the edge of your. The torch light there you can you can even still from this distance um you know with this sort of just kind of peering around. See like there's bits that look freshly broken right like you can like really old age stone when it's freshly broken is really obvious right because it's not weathered i'm not that there's much weather in here but. And then you can see that you can see the mosaic all around you, which is. More than just these glittering caverns right, you can see that there are you know. This this glittering cavern that looks like the Center of God, but then it sort of transitions into these towering stone clips that are within inside even larger massive caverns that then flows into tunnels that crossover underground rivers. And then the rivers themselves into a waterfall and underground waterfall that cascades down into an open have earned filled with. The lag tights and stalagmites just seems to be this sort of. You know smoothly flowing from scene to scene here i'm all depicted in this elaborate mosaic work. So this point has you to have sort of stood up i'm. still not moving yet, but i'm Ryu got the rope and Ryu and Nerissa are now like sliding down on the rope the rope itself is. it's about 60 feet down you've got 50 feet of rope so you'll have to like jump the last 10 feet. or so.
 
 **Nerissa:** Get back on the ladder. right there.
 
@@ -1058,7 +1058,7 @@
 
 **Unknown:** Your place to have.
 
-**DM:** It is so while you are well they're climbing down what a kilo and truck what are you doing.
+**DM:** It is so while you are well they're climbing down what a Kaleho and Trok what are you doing.
 
 **Trok:** Oh so did I. notice.
 
@@ -1086,9 +1086,9 @@
 
 **Trok:** I, as the end always about fighting okay.
 
-**DM:** To have the statues. dive bomb down at you truck. kayla what are you doing, by the way, well truck is doing this. Here, let me put the other two tokens on here. You are. Okay sorry I missed what you all rolled. Well okay you're a quick.
+**DM:** To have the statues. dive bomb down at you Trok. Kaleho what are you doing, by the way, well Trok is doing this. Here, let me put the other two tokens on here. You are. Okay sorry I missed what you all rolled. Well okay you're a quick.
 
-**Kaleho:** Look fall kind of walk them up.
+**Kaleho:** Kaleho kind of walk them up.
 
 **DM:** i'm. related you've all.
 
@@ -1102,7 +1102,7 @@
 
 **Kaleho:** um. So my crossbow have helped with this, the crossbow warning like I thought we couldn't be surprised if we're all awake.
 
-**DM:** yeah that's true you can't be surprised. So, as the statue start to move your kalo just whips around I noticed as them dive bombing towards. towards. truck and you go first.
+**DM:** yeah that's true you can't be surprised. So, as the statue start to move Kaleho just whips around I noticed as them dive bombing towards. towards. Trok and you go first.
 
 **Trok:** whoa Nice.
 
@@ -1110,7 +1110,7 @@
 
 **DM:** yep.
 
-**Kaleho:** I haven't moved okay. um so are you steady aim and attack the one. On the just to the north of truck to my characters right.
+**Kaleho:** I haven't moved okay. um so are you steady aim and attack the one. On the just to the north of Trok to my characters right.
 
 **DM:** Now i'm. Okay.
 
@@ -1118,11 +1118,11 @@
 
 **DM:** Make your bag. You. Ah, you have advantage.
 
-**Kaleho:** simon's I gotta roll again.
+**Kaleho:** minus I gotta roll again.
 
 **Unknown:** yep.
 
-**DM:** Okay. Well, damage. Okay, so as as the statues begin to move kayla whips around and fires off takes aim at one of them and fires off a quick crossbow bolts, however, the rest of you. Do not manage to do anything as the. creatures. dive towards truck. truck what's your AC.
+**DM:** Okay. Well, damage. Okay, so as as the statues begin to move Kaleho whips around and fires off takes aim at one of them and fires off a quick crossbow bolts, however, the rest of you. Do not manage to do anything as the. creatures. dive towards Trok. Trok what's your AC.
 
 **Trok:** What is macy 18.
 
@@ -1130,7 +1130,7 @@
 
 **Trok:** nine.
 
-**DM:** um. And then they were all. They will all fly. Well, now they'll just stay in the air there they can't really get out of your reach anyway um. So now back to kayla and now everybody else gets your turns now, as you are no longer surprised i'm marissa and re you, you are still 15 feet up on the rope.
+**DM:** um. And then they were all. They will all fly. Well, now they'll just stay in the air there they can't really get out of your reach anyway um. So now back to Kaleho and now everybody else gets your turns now, as you are no longer surprised i'm Nerissa and Ryu, you are still 15 feet up on the rope.
 
 **Ryu:** Are we, like in the room, now, or are we, like dang.
 
@@ -1146,13 +1146,13 @@
 
 **Ryu:** down the road yeah.
 
-**DM:** Okay kayla.
+**DM:** Okay Kaleho.
 
 **Nerissa:** So. reasonably drop and roll and maybe stand up again.
 
 **Unknown:** yeah.
 
-**Kaleho:** So kalo. Hold steady again takes aim at the one he attacked the first time, but now i'm eligible for a sneak attack correct.
+**Kaleho:** So Kaleho. Hold steady again takes aim at the one he attacked the first time, but now i'm eligible for a sneak attack correct.
 
 **DM:** You are the first ones.
 
@@ -1160,9 +1160,9 @@
 
 **DM:** If your advantage, you get States need to act so you get a sneak attack again.
 
-**Kaleho:** Okay, so, then I do the head PC.
+**Kaleho:** Okay, so, then I do the NPC.
 
-**DM:** that's but roll again to see if you get a crack. nope so now roll damage. OK, so now that are crossbow bolts strikes this this creature i'm. As are you, you are now. Like I would say, like right here about 15 feet up and marissa is right behind you.
+**DM:** that's but roll again to see if you get a crack. nope so now roll damage. OK, so now that are crossbow bolts strikes this this creature i'm. As are you, you are now. Like I would say, like right here about 15 feet up and Nerissa is right behind you.
 
 **Ryu:** Can I am dangling from the rope just throw throw the javelin.
 
@@ -1200,19 +1200,19 @@
 
 **DM:** lose stay out of the fridge.
 
-**Ryu:** For now hopefully i'll have a blue fly down oh cool fly down and and just kind of hang up near the near the road do these guys have like do they have long range attempts these these deeds and they.
+**Ryu:** For now hopefully i'll have Blu fly down oh cool fly down and and just kind of hang up near the near the road do these guys have like do they have long range attempts these these deeds and they.
 
 **DM:** Only seen them just. Fighting clot people.
 
-**Ryu:** Okay i'll have blue hand kinda like right right at the entrance of the home.
+**Ryu:** Okay i'll have Blu hang kinda like right right at the entrance of the home.
 
-**DM:** Okay ah, so that it returns or truck you're up.
+**DM:** Okay ah, so that it returns or Trok you're up.
 
-**Trok:** The truck is is mad. As happens when he gets injured, can you describe belief really again, these are little stone gargoyles who like little wing a dragon things like. Yes, two feet tall or something.
+**Trok:** The Trok is is mad. As happens when he gets injured, can you describe belief really again, these are little stone gargoyles who like little wing a dragon things like. Yes, two feet tall or something.
 
 **DM:** yeah there, there may be yeah maybe three four feet tall.
 
-**Trok:** And do they still seem to be made of stone yep. truck it's it into his head to smash them against the floor in whatever way that he can perhaps by grabbing them by the head and then swing them down or.
+**Trok:** And do they still seem to be made of stone yep. Trok it's it into his head to smash them against the floor in whatever way that he can perhaps by grabbing them by the head and then swing them down or.
 
 **Unknown:** Guy.
 
@@ -1254,13 +1254,13 @@
 
 **Trok:** Oh yeah yes.
 
-**DM:** Okay, so this is like giant truck just like slams the thing on the ground and it bounces off sort of days staggering slightly i'm. Looking pretty rough but then you miss your it's it bounces out of your REACH, as you try and slam it again, you hit it too hard, the first time.
+**DM:** Okay, so this is like giant Trok just like slams the thing on the ground and it bounces off sort of days staggering slightly i'm. Looking pretty rough but then you miss your it's it bounces out of your REACH, as you try and slam it again, you hit it too hard, the first time.
 
 **Trok:** Nice.
 
 **DM:** Okay, nursing you're up.
 
-**Nerissa:** All right. um. I. choose a point that is. away from track, on the other side of. of him, where those two that you gargoyles are and. That I. can get them within a 10 foot radius but not truck.
+**Nerissa:** All right. um. I. choose a point that is. away from Trok, on the other side of. of him, where those two that you gargoyles are and. That I. can get them within a 10 foot radius but not Trok.
 
 **DM:** Which to these this one in this one.
 
@@ -1314,7 +1314,7 @@
 
 **Trok:** Spreading my best efforts.
 
-**DM:** And now, this one. thing this one will attack you again. Again, just failing to. To. get past your Armor. Okay kayla you're up.
+**DM:** And now, this one. thing this one will attack you again. Again, just failing to. To. get past your Armor. Okay Kaleho you're up.
 
 **Kaleho:** Okay, so I lose advantage if I shoot over 30 feet correct.
 
@@ -1342,11 +1342,11 @@
 
 **Kaleho:** Oh.
 
-**DM:** hey like. here's the thing flying away turns like focuses on it. And you hear it shattering to the ground as the crossbow strikes at. Rio Europe.
+**DM:** hey like. here's the thing flying away turns like focuses on it. And you hear it shattering to the ground as the crossbow strikes at. Ryu, you're up.
 
 **Ryu:** All right. engage with this dude right over here, he has flown off or done anything right nope.
 
-**DM:** they've all been attacking. Attacking truck.
+**DM:** they've all been attacking. Attacking Trok.
 
 **Ryu:** I will, I will keep trying to kill this one.
 
@@ -1360,15 +1360,15 @@
 
 **DM:** So with your second spear strike this one is now also starting to crack a little bit, it seems. anything. BONUS action.
 
-**Ryu:** yeah blue I again I just don't want included dies, then this word.
+**Ryu:** yeah Blu, again I just don't want him to die, then this word.
 
-**DM:** glue has remember blue has 35 hit points.
+**DM:** Blu has remember Blu has 35 hit points.
 
-**Ryu:** blue. For the one that's there's the one that's already sitting doing something right.
+**Ryu:** Blu. For the one that's there's the one that's already sitting doing something right.
 
-**DM:** Ah, why not this one here as grappled by his truck is holding in his hands. yeah this one, and this one has so far been attacking truck this one is dead.
+**DM:** Ah, why not this one here as grappled by Trok is holding in his hands. yeah this one, and this one has so far been attacking Trok this one is dead.
 
-**Ryu:** Okay, all right yeah i'll have to i'll have blue attack the one that i'm also talking.
+**Ryu:** Okay, all right yeah i'll have to i'll have Blu attack the one that i'm also talking.
 
 **DM:** Okay. Ah, so make. make a. role ID 20 and add sex.
 
@@ -1376,11 +1376,11 @@
 
 **Trok:** I think.
 
-**DM:** we're all the one. style blue messes.
+**DM:** we're all the one. Still, Blu misses.
 
 **Ryu:** Well, sorry but. you'll get it next time.
 
-**DM:** yep ah. And also so blue has the ability fly by, which means that doesn't provoke opportunity attacks when it flies out of an enemy's REACH, so he can dive bomb and then fly.
+**DM:** yep ah. And also so Blu has the ability fly by, which means that doesn't provoke opportunity attacks when it flies out of an enemy's REACH, so he can dive bomb and then fly.
 
 **Ryu:** Back definitely what he does, yes.
 
@@ -1390,7 +1390,7 @@
 
 **Trok:** wow cool.
 
-**DM:** Okay truck here up.
+**DM:** Okay Trok, you're up.
 
 **Trok:** So, first of all I sorry I skipped you but. What happened Oh, I see um so the one that i'm grappled I can do, Wednesday for bludgeoning damage. yep I just roll that.
 
@@ -1416,9 +1416,9 @@
 
 **Trok:** All smashed them against the altar a second time.
 
-**DM:** Our guy. ooh critical at. The altar crack slightly as the. scholar of this thing collides with it and and it's now looking pretty shaken up as well. As also still grappled so it cannot move. That brings us to nurses turn.
+**DM:** Our guy. ooh critical at. The altar crack slightly as the. scholar of this thing collides with it and and it's now looking pretty shaken up as well. As also still grappled so it cannot move. That brings us to Nerissa's turn.
 
-**Nerissa:** well. i'll just do what I did before, because I don't want to. I think I can still pick a point that sort of to the side of the other side of trump is so gets this too. yeah.
+**Nerissa:** well. i'll just do what I did before, because I don't want to. I think I can still pick a point that sort of to the side of the other side of Trok is so gets this too. yeah.
 
 **Trok:** Oh yeah your stone cracking attack awesome let's.
 
@@ -1428,11 +1428,11 @@
 
 **Nerissa:** move some light to sort of distribute. Okay, better through. Anybody goes after that snake again.
 
-**DM:** So that is your turn now it's their turn. let's see this one is grappled. So it has no choice but to bite it's grappling and cloud as granular but, having terrible trouble getting past your Armor fails in both endeavors. This one having seen the damage that kalo can do will turn around and swing at him. what's your AC.
+**DM:** So that is your turn now it's their turn. let's see this one is grappled. So it has no choice but to bite it's grappling and cloud as granular but, having terrible trouble getting past your Armor fails in both endeavors. This one having seen the damage that Kaleho can do will turn around and swing at him. what's your AC.
 
 **Kaleho:** AC is 16, but I also have uncanny.
 
-**DM:** dog, so the bite attack hits which does seven piercing damage which you can use your reaction with uncanny dodge to reduce to three. And then, this one is going to. make or break for that, for the statue so both review and truck get opportunity attacks.
+**DM:** dog, so the bite attack hits which does seven piercing damage which you can use your reaction with uncanny dodge to reduce to three. And then, this one is going to. make or break for that, for the statue so both Ryu and Trok get opportunity attacks.
 
 **Trok:** um can I use my javelin in this case. Is it better or worse than when.
 
@@ -1458,7 +1458,7 @@
 
 **Unknown:** Okay.
 
-**DM:** That hits. So another six points of damage. That ends your turn real Europe.
+**DM:** That hits. So another six points of damage. That ends your turn Ryu, you're up.
 
 **Kaleho:** Oh wait, can I dash as my bonus action.
 
@@ -1476,7 +1476,7 @@
 
 **Ryu:** No idea.
 
-**Trok:** Send blue for that one.
+**Trok:** Send Blu for that one.
 
 **Ryu:** definitely do that but i'm going to try to go there as well, that's a good idea what is my mood mood.
 
@@ -1486,7 +1486,7 @@
 
 **Ryu:** yeah i'll get i'll get i'll go 35 feet so i'll move.
 
-**DM:** Okay, but moving through truck is difficult terrain so that's 10 2025 3035 basically move back to squares.
+**DM:** Okay, but moving through Trok is difficult terrain so that's 10 2025 3035 basically move back to squares.
 
 **Ryu:** So about like right here.
 
@@ -1520,17 +1520,17 @@
 
 **DM:** huh and then. You want to have.
 
-**Ryu:** Blue attack i'll have blue fly through.
+**Ryu:** Blu attack i'll have Blu fly through.
 
-**DM:** Okay, that hits so blue does. One the four plus six flashing damage.
+**DM:** Okay, that hits so Blu does. One the four plus six flashing damage.
 
 **Ryu:** is so nasty.
 
-**DM:** So blue will be like over there, or something like that um.
+**DM:** So Blu will be like over there, or something like that um.
 
 **Ryu:** Oh no he's gonna fight he's gonna fly away he's gonna do dive bomb.
 
-**DM:** Okay, so he is like now back over there something so blue dies down the blue aspect grabbing into this thing. truck here up.
+**DM:** Okay, so he is like now back over there something so Blu dives down, Blu's beak grabbing into this thing. Trok, you're up.
 
 **Trok:** um so this thing is looking pretty pretty hurt right.
 
@@ -1574,7 +1574,7 @@
 
 **Trok:** Oh snap.
 
-**DM:** that Mrs. yeah that one's dad. This one will. continue to attack kalo.
+**DM:** that Mrs. yeah that one's dad. This one will. continue to attack Kaleho.
 
 **Ryu:** One doing.
 
@@ -1590,7 +1590,7 @@
 
 **Trok:** Arms like.
 
-**DM:** look like they're almost beginning to move slightly. Okay kayla you're up.
+**DM:** look like they're almost beginning to move slightly. Okay Kaleho you're up.
 
 **Unknown:** Okay.
 
@@ -1618,7 +1618,7 @@
 
 **Kaleho:** Okay. Okay, and then I attack the one that's on the statue.
 
-**DM:** wow first of all, the one that you that you just ran away from is an opportunity attack on. You bite. Which is a to hit, so you take another five points of piercing damage. But then you can attack, yes, now, you can shoot it the one on the statute straight roll no disadvantage. That hits. But it does not quite fall dead. Rio Europe.
+**DM:** wow first of all, the one that you that you just ran away from is an opportunity attack on. You bite. Which is a to hit, so you take another five points of piercing damage. But then you can attack, yes, now, you can shoot it the one on the statute straight roll no disadvantage. That hits. But it does not quite fall dead. Ryu, you're up.
 
 **Ryu:** i'm gonna go oh and gays didn't need a melee right here.
 
@@ -1660,11 +1660,11 @@
 
 **Ryu:** damn it. This.
 
-**DM:** that Mrs yeah. Alright, but blue can still attack.
+**DM:** that Mrs yeah. Alright, but Blu can still attack.
 
 **Ryu:** yeah I will send you after after them.
 
-**DM:** So blue is gonna dive bomb and come back over here.
+**DM:** So Blu is gonna dive bomb and come back over here.
 
 **Kaleho:** That have just.
 
@@ -1674,9 +1674,9 @@
 
 **Ryu:** Nice so nasty.
 
-**DM:** That ends Rias turn truck your up giant truck.
+**DM:** That ends Ryu's turn Trok, you're up giant Trok.
 
-**Trok:** truck hit more. smash. And then i'll add the. Terrible.
+**Trok:** Trok hit more. smash. And then i'll add the. Terrible.
 
 **DM:** i'm sorry I just I can.
 
@@ -1686,7 +1686,7 @@
 
 **DM:** That hats. And again. rock with a second attack just smacks him on the head and this thing shatters on the ground. As he look around now nothing else seeming to move.
 
-**Trok:** truck truck blinks for a second. gotta work on my temper.
+**Trok:** Trok Trok blinks for a second. gotta work on my temper.
 
 **Ryu:** You do I, like the time for your temper the way it is.
 
@@ -1706,7 +1706,7 @@
 
 **Trok:** um. i'm gonna stride over to this statue then and look up at it, or maybe I can more closely, look at it, I a double size.
 
-**DM:** So okay so so trucks was looking at the statue what does everybody else, want to do you don't need to be an initiative order anymore.
+**DM:** So okay so so Trok's was looking at the statue what does everybody else, want to do you don't need to be an initiative order anymore.
 
 **Kaleho:** um i'm gonna take cover over here peeking out with my crossbow. Okay, so.
 
@@ -1714,7 +1714,7 @@
 
 **Kaleho:** Over yeah.
 
-**DM:** What does everybody else, want to do well trucks investigating.
+**DM:** What does everybody else, want to do well Trok's investigating.
 
 **Nerissa:** Finding going to swing down after the rope and.
 
@@ -1728,25 +1728,25 @@
 
 **Trok:** No that's why yeah.
 
-**Ryu:** i'm review will also just investigate books actually using another for traps let's review.
+**Ryu:** i'm Ryu will also just investigate books actually using another for traps let's Ryu.
 
 **DM:** Where are you looking specifically.
 
 **Ryu:** see where Am I looking specifically.
 
-**Trok:** At helpfully just underneath trucks feet each place he's about to step.
+**Trok:** At helpfully just underneath Trok's feet each place he's about to step.
 
 **Ryu:** You know the crappiest looking places like over the weird like.
 
 **Trok:** Okay, look around the statue.
 
-**DM:** Yes, nurse nurse at make acrobatics check to drop off the rope truck and. And remake in well remake a perception check truck. And the truck you just kind of stare at the statue Okay, so in Orissa you land without issue i'm. Grateful gracefully on the ground. truck as you so you look at this it's like about your size right now it's like 10 feet tall roughly.
+**DM:** Yes, Nerissa, make make acrobatics check to drop off the rope, Trok and. And remake in well remake a perception check Trok. And the Trok you just kind of stare at the statue Okay, so Nerissa you land without issue i'm. Grateful gracefully on the ground. Trok as you so you look at this it's like about your size right now it's like 10 feet tall roughly.
 
 **Trok:** or five and.
 
 **Unknown:** yep.
 
-**DM:** you're maybe slightly taller than it because you're more like 12 or 13 feet. And it's it seems like now that you're you're looking down, it seems like where that these creatures were perching on his arm there's like a geometric design with. With like a gemstone that can be removed that almost looks like it's loose like can be removed and it looks like what they're trying to do is pull out this gem. Just a small like not a very fancy gem it's like a courts, but it seems like it can be removed from its arm. You also notice it is so it's it almost looks like it's bottom half is is a is a it's like blocky almost half formed it's not clearly carved it's just a i'm. almost like. Like whoever carved it didn't or However, the statue was made it the below its waste, nobody really cared about the detail it's just like blocking legs and sort of. um chunky unfinished stone, but then from the waist up it's this sort of half human half snake creature again with this sort of gold bands that leap around its arm and then this amethyst gem that's embedded in in one of these. gold bands, that seems slightly loose. Real looking around um. You don't. You don't see any traps anywhere truck is about to stop I mean you notice the same things about the statue that it, you know it's this loose gem. The you do notice the gargoyles these you know they're cracked on the ground um. They so I mean they they each have, I have a sort of different design right there um. You know, there are some of them have like grotesque faces are various things, but one thing that is. One thing that you notice is among the shattered bodies um what presumably was what was not clearly obvious while you are fighting, but now that they're shatter on the ground is a small stone tea like around each one's neck.
+**DM:** you're maybe slightly taller than it because you're more like 12 or 13 feet. And it's it seems like now that you're you're looking down, it seems like where that these creatures were perching on his arm there's like a geometric design with. With like a gemstone that can be removed that almost looks like it's loose like can be removed and it looks like what they're trying to do is pull out this gem. Just a small like not a very fancy gem it's like a courts, but it seems like it can be removed from its arm. You also notice it is so it's it almost looks like it's bottom half is is a is a it's like blocky almost half formed it's not clearly carved it's just a i'm. almost like. Like whoever carved it didn't or However, the statue was made it the below its waste, nobody really cared about the detail it's just like blocking legs and sort of. um chunky unfinished stone, but then from the waist up it's this sort of half human half snake creature again with this sort of gold bands that leap around its arm and then this amethyst gem that's embedded in in one of these. gold bands, that seems slightly loose. Ryu, looking around um. You don't. You don't see any traps anywhere Trok is about to stop I mean you notice the same things about the statue that it, you know it's this loose gem. The you do notice the gargoyles these you know they're cracked on the ground um. They so I mean they they each have, I have a sort of different design right there um. You know, there are some of them have like grotesque faces are various things, but one thing that is. One thing that you notice is among the shattered bodies um what presumably was what was not clearly obvious while you are fighting, but now that they're shatter on the ground is a small stone tea like around each one's neck.
 
 **Ryu:** I alerted the party to the fact that there are small set of keys around the neck.
 
@@ -1840,7 +1840,7 @@
 
 **Ryu:** um well.
 
-**Nerissa:** before anyone who's opening any doors tracker okay whoa did you have any. concerns for your health that you are worried. Subsequent.
+**Nerissa:** before anyone who's opening any doors Trok, okay whoa did you have any. concerns for your health that you are worried. Subsequent.
 
 **Kaleho:** I had a rough time of it. About half my HP so. If you have some abilities, I could help or some of your more tasty biscuits that you baked earlier today.
 
@@ -1848,7 +1848,7 @@
 
 **DM:** you've got second wind that you can use.
 
-**Nerissa:** All right, well i'll start by playing a soothing tune. To. You know, to give kudos and. Health back.
+**Nerissa:** All right, well i'll start by playing a soothing tune. To. You know, to give Kaleho and. Health back.
 
 **Trok:** I do my second wind. Oh it's an issue roll.
 
@@ -1880,7 +1880,7 @@
 
 **Trok:** Now okay good.
 
-**DM:** Because it only lasts for a minute so truck returns to.
+**DM:** Because it only lasts for a minute so Trok returns to.
 
 **Unknown:** Normal size.
 
@@ -1894,7 +1894,7 @@
 
 **Nerissa:** We sort of gather around it, perhaps with.
 
-**Ryu:** rock just goes first and then we follow truck.
+**Ryu:** Trok just goes first and then we follow Trok.
 
 **DM:** cool opening the door.
 
@@ -1910,13 +1910,13 @@
 
 **DM:** yeah it's hard to tell them see if there's any tracks.
 
-**Trok:** ryu bustles in.
+**Trok:** Ryu bustles in.
 
-**DM:** and sees trucks tracks.
+**DM:** and sees Trok's tracks.
 
 **Trok:** Nice.
 
-**Kaleho:** Work kelo oxen he leaves a little note on this thing saying don't touch the the jewel. In primal sorry i'm primal in common and in thieves can't.
+**Kaleho:** Work Kaleho oxen he leaves a little note on this thing saying don't touch the the jewel. In primal sorry i'm primal in common and in thieves can't.
 
 **Unknown:** Just.
 
@@ -1942,7 +1942,7 @@
 
 **Nerissa:** check the hallway to see if there's any tracks down the hallway.
 
-**Ryu:** And I go past truck and the four tracks.
+**Ryu:** And I go past Trok and follow the tracks.
 
 **Trok:** Sensible.
 
@@ -1958,7 +1958,7 @@
 
 **Ryu:** The first one was my first one.
 
-**DM:** That tracks, the tracks go go down the hall and then return to this room. there's too many people walking around this room for you to tell if they go down the stairs but they definitely go into the hall and then back out. And you can see now with with with marissa moving the the the floating torches into here the the corridor doesn't go very far it goes, maybe 20 or 30 feet to another mirror image of this room.
+**DM:** That tracks, the tracks go go down the hall and then return to this room. there's too many people walking around this room for you to tell if they go down the stairs but they definitely go into the hall and then back out. And you can see now with with with Nerissa moving the the the floating torches into here the the corridor doesn't go very far it goes, maybe 20 or 30 feet to another mirror image of this room.
 
 **Ryu:** So, but where do the I mean like again i'm tracking this that are.
 
@@ -2000,13 +2000,13 @@
 
 **Kaleho:** So that's to not mess up the tracks if that hits and then this is the there's something down there.
 
-**DM:** Okay, so kayla begins to sleep is sneaking down the stairs what does everybody else doing. well.
+**DM:** Okay, so Kaleho begins sneaking down the stairs what does everybody else doing. well.
 
 **Ryu:** Following back a little bit.
 
-**DM:** Okay. So you can see the rocks. The tracks continue down the stairs i'm. nervous and truck what are you doing.
+**DM:** Okay. So you can see the rocks. The tracks continue down the stairs i'm. Nerissa and Trok what are you doing.
 
-**Nerissa:** Thank you see. I can sneak down piano behind you. mean.
+**Nerissa:** Thank you see. I can sneak down behind you. mean.
 
 **Trok:** i'm just i'm gonna peek my head back out into the main room just to make sure, like the snake head God has not awaken.
 
@@ -2026,7 +2026,7 @@
 
 **Unknown:** bigger.
 
-**DM:** Okay, make us staff check interest as you begin to sneak down. Okay, so as you sneak down. You. You come down about 15 feet down these the staircase out kayla first, followed by Rio and i'm a nurse and the tracks as well go this way i'm out into a very similar 10 foot room, but this time with a with a corridor going. going in the opposite direction so like. Right, so that the bottom, it looks like this. Right stairs in the same place, but the quarter goes off this way and it continues the quarter, you can see, I see him well, what are you doing about the lights, if you move the torches with you it's very difficult to be stealthy if you don't all of you are blind.
+**DM:** Okay, make us staff check interest as you begin to sneak down. Okay, so as you sneak down. You. You come down about 15 feet down these the staircase out Kaleho first, followed by Ryu and Nerissa and the tracks as well go this way i'm out into a very similar 10 foot room, but this time with a with a corridor going. going in the opposite direction so like. Right, so that the bottom, it looks like this. Right stairs in the same place, but the quarter goes off this way and it continues the quarter, you can see, I see him well, what are you doing about the lights, if you move the torches with you it's very difficult to be stealthy if you don't all of you are blind.
 
 **Kaleho:** So guys what's the. We going sneaky or do we go in with light.
 
@@ -2044,7 +2044,7 @@
 
 **Ryu:** Well it's also the also the matter of like you know, trying to preserve somehow tracks, which is very useful for me to be able to track.
 
-**Kaleho:** Maybe if. truck gets to the very last stare as quietly as he can and doesn't step on the ground, we can at least have a rough lay of the land, and then we can make an informed decision as we try to do as quietly as possible.
+**Kaleho:** Maybe if. Trok gets to the very last stair as quietly as he can and doesn't step on the ground, we can at least have a rough lay of the land, and then we can make an informed decision as we try to do as quietly as possible.
 
 **Trok:** To just turn off the lights and wait for me to come down okay so i'm checking upstairs first.
 
@@ -2062,9 +2062,9 @@
 
 **Unknown:** Sensible.
 
-**DM:** Okay, so you're all clustered around this stare now as marissa plays a tune in the lights reappear what order, are you going.
+**DM:** Okay, so you're all clustered around this stair now as Nerissa plays a tune in the lights reappear what order, are you going.
 
-**Kaleho:** Well, can we still do now, the lights, can we do perception checks to see if everything's there's no giant savers to.
+**Kaleho:** Well, can we still do now, the lights, can we do perception checks to see if everything's there's no giant sabers to.
 
 **DM:** Do you gotta be standing in some order as you. Are Oh, the stairs or stand on the stairs.
 
@@ -2078,17 +2078,17 @@
 
 **Kaleho:** I cannot be surprised. So nothing can get the jump on me, but I. Do only have Tony HP.
 
-**DM:** Dell Chris Chris going up off the stair first I mean truck person we already went off the stair if you're looking down the corridor.
+**DM:** The question is, going up off the stair first I mean Trok first we already went off the stair if you're looking down the corridor.
 
 **Trok:** is selling first.
 
-**Ryu:** taco. truck truck truck will set up all the shops. I like yellow first.
+**Ryu:** taco. Trok will set up all the shops. I like yellow first.
 
 **Kaleho:** So I will very carefully and daintily move down the stairs and as soon as I have the clearance to do a perception check, I will do a perception check to see using the light to make sure there's no traps that I can see, or anything just.
 
 **DM:** On the far in this room.
 
-**Kaleho:** That trucks on the floor, I mean i'm very worried about savers and traps so i'll do a perception check right.
+**Kaleho:** That Trok is on the floor, I mean i'm very worried about sabers and traps so i'll do a perception check right.
 
 **DM:** Okay, make a perception check.
 
@@ -2106,9 +2106,9 @@
 
 **DM:** who's so who's going what.
 
-**Ryu:** I guess. I guess it's kilo and then me where the two of us are. looking for and tracking.
+**Ryu:** I guess. I guess it's Kaleho and then me, we're the two of us are. looking for and tracking.
 
-**DM:** As you continue down this quarter towards the door. And the lights moving with you right. Okay ah, when you get about 10 feet away from the door kayla you can see that, although it would be very hard to see if it wasn't for the light shining and reflecting off of this you notice that the that. The. The quarter for like 10 feet in front of the door is it's almost it looks it almost looks slightly liquidity like it's almost like it's Google or something.
+**DM:** As you continue down this quarter towards the door. And the lights moving with you right. Okay ah, when you get about 10 feet away from the door Kaleho you can see that, although it would be very hard to see if it wasn't for the light shining and reflecting off of this you notice that the that. The. The quarter for like 10 feet in front of the door is it's almost it looks it almost looks slightly liquidity like it's almost like it's Google or something.
 
 **Kaleho:** Have we stepped in the EU, yet or we're just.
 
@@ -2132,7 +2132,7 @@
 
 **Kaleho:** very, very polite you have to you don't bring your hat into the room, so I step aside so everybody else can see the lay of the land and I point out the Spikes and I very quickly demarcate where the goo starts and. thoughts.
 
-**Nerissa:** Is it triggered trap that. He managed to get out of by climbing. With Spikes but left bigger puddle of goo than she found.
+**Nerissa:** Is it the triggered trap that. He managed to get out of by climbing. With Spikes but left bigger puddle of goo than she found.
 
 **Trok:** I could try the old. toss a bit of shell into the goo and see what happens.
 
@@ -2174,7 +2174,7 @@
 
 **DM:** Always five feet wide you could certainly try. let's see. How far can you jump with a running with a running jump you can ah. You can jump. yeah you can jump 18 feet.
 
-**Kaleho:** Before nervosa you have like ice spells.
+**Kaleho:** Before Nerissa you have like ice spells.
 
 **Nerissa:** not really a name.
 
@@ -2210,7 +2210,7 @@
 
 **DM:** In you can easily throw a spear and javelin that far.
 
-**Kaleho:** ooh could we just go back up and grab some the dead gargoyle stones and just give some stepping stones just toss them and then we step from gargoyle corpse to garko corpse.
+**Kaleho:** ooh could we just go back up and grab some the dead gargoyle stones and just give some stepping stones just toss them and then we step from gargoyle corpse to gargoyle corpse.
 
 **Trok:** very smart I like this idea.
 
@@ -2242,7 +2242,7 @@
 
 **Ryu:** So if.
 
-**Kaleho:** trump becomes a giant, could he support himself on each side of the wall with us on his back if he's 14 feet long. And he just.
+**Kaleho:** Trok becomes a giant, could he support himself on each side of the wall with us on his back if he's 14 feet long. And he just.
 
 **DM:** Certainly try.
 
@@ -2262,9 +2262,9 @@
 
 **DM:** Oh yeah easily.
 
-**Kaleho:** I think coolio all of us jump over it.
+**Kaleho:** I think could all all of us jump over it.
 
-**DM:** nope you weaklings you can jump jump a number of feet equal to your strengths don't score so real and truck can jump 18 feet kalo could jump could maybe make it 10 feet marissa can only jump at.
+**DM:** nope you weaklings you can jump jump a number of feet equal to your strengths don't score so Ryu and Trok can jump 18 feet Kaleho could jump could maybe make it 10 feet Nerissa can only jump at.
 
 **Kaleho:** Could there so what's your acrobatics.
 
@@ -2294,7 +2294,7 @@
 
 **Unknown:** Oh.
 
-**Nerissa:** i'm up is. The broker in the first place.
+**Nerissa:** i'm up is. The broken in the first place.
 
 **Ryu:** She was able to get herself out of it. She she felt she if she got trapped and i'm. All right, well why don't we get I get everybody over.
 
@@ -2318,7 +2318,7 @@
 
 **Trok:** Climate good.
 
-**Nerissa:** Day, yes I knew I had rope anchors that were called titans but I didn't know the same as.
+**Nerissa:** Day, yes I knew I had rope anchors that were called pitons but I didn't know the same as.
 
 **DM:** Sorry that's what I meant to yes that's what they are.
 
@@ -2326,7 +2326,7 @@
 
 **Unknown:** anyway.
 
-**Nerissa:** yeah so let's anchor a few of those in the mall and just make up a more complete path and then, when that she made so we don't get many feet.
+**Nerissa:** yeah so let's anchor a few of those in the wall and just make up a more complete path and then, when that she made so we don't get many feet.
 
 **Trok:** Nice and seal actually sort of like walk along the wall basically.
 
@@ -2344,7 +2344,7 @@
 
 **DM:** yeah no no problem you both managed to nimbly scramble across the wall jumping out into the quarter on the far side. Which continues now another 15 feet or so before opening up into another room that you can see in the in the distance and at this point, actually the tracks are quite obvious, like all of you can see, like mud footprints like continuing into the next room. So. we'll get back in her.
 
-**Kaleho:** Order where i'm upfront very carefully thinking with my crossbow that prevents me from being surprised.
+**Kaleho:** Order-wise i'm upfront very carefully thinking with my crossbow that prevents me from being surprised.
 
 **Ryu:** Okay, and re is tracking.
 
@@ -2368,13 +2368,13 @@
 
 **Trok:** So keep an eye on these. Such um. yeah.
 
-**Kaleho:** So I. get my feet kit and I kind of inspect the locks on one of the side doors anything a note.
+**Kaleho:** So I. get my thieves' kit and I kind of inspect the locks on one of the side doors anything a note.
 
 **DM:** north or south door.
 
 **Kaleho:** let's go North door.
 
-**DM:** Okay. This door is a so oh sorry I should add um. As you enter the room, one thing that you all notice here is um. So in the Center of the room, as the light sort of move over the Center there's like a labyrinth design, but has words written around the side of it in like a circle. Also entire in which say faithful of your car car be blessed with the wisdom of your Lord unfaithful flee now or be entombed forever in his majestic presence.
+**DM:** Okay. This door is a so oh sorry I should add um. As you enter the room, one thing that you all notice here is um. So in the Center of the room, as the light sort of move over the Center there's like a labyrinth design, but has words written around the side of it in like a circle. Also in Terran, which says faithful of Yerkir-khor, be blessed with the wisdom of your lord; unfaithful, flee now or be entombed forever in his majestic presence.
 
 **Trok:** i'm backing away.
 
@@ -2384,11 +2384,11 @@
 
 **Kaleho:** Idaho but looking up and seeing the side. Maybe it isn't worth the cost.
 
-**Trok:** Your core was the set was the God of the Crystal and Sky and the stone something.
+**Trok:** Yerkir-khor was the God of the Crystal and Sky and the stone something.
 
 **Unknown:** The.
 
-**DM:** Your character, or the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.
+**DM:** Yerkir-khor the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.
 
 **Unknown:** Christmas.
 
@@ -2410,7 +2410,7 @@
 
 **Unknown:** yeah.
 
-**Trok:** What does it mean to be faithful to your your core I guess find out. Oh.
+**Trok:** What does it mean to be faithful to Yerkir-khor? I guess find out. Oh.
 
 **Kaleho:** i'm leaving little translations and comment and then themes can't have everything he's reading, just to be. The thieves code so he's. Leaving markings. downstairs friends.
 
@@ -2420,7 +2420,7 @@
 
 **Unknown:** yep.
 
-**DM:** As you begin to pass the crystal heading towards the stairs kayla I need you to make a dexterity saving throw.
+**DM:** As you begin to pass the crystal heading towards the stairs Kaleho, I need you to make a dexterity saving throw.
 
 **Trok:** The catch the free money being thrown into.
 
@@ -2450,7 +2450,7 @@
 
 **DM:** For about four feet.
 
-**Trok:** Okay, so you could. You could slither under, so to speak, I was just thinking about that in strict inscription the faithful. and Maybe your core is a kind of snake God and. Vice littering along the ground.
+**Trok:** Okay, so you could. You could slither under, so to speak, I was just thinking about that in this inscription the faithful. and Maybe Yerkir-khor is a kind of snake god and. Vice littering along the ground.
 
 **Kaleho:** Worse, the lizard would think that.
 
@@ -2468,13 +2468,13 @@
 
 **Kaleho:** All right, crawl down. very sore.
 
-**Trok:** And I wonder if your core is actually a snake God or or what.
+**Trok:** And I wonder if Yerkir-khor is actually a snake god or or what.
 
 **Ryu:** Very crispy.
 
 **DM:** So.
 
-**Nerissa:** Along with the crew, but I say to kalo before we before we keep going I give you a bit more healing.
+**Nerissa:** Along with the crew, but I say to Kaleho before we before we keep going I give you a bit more healing.
 
 **Kaleho:** So he's.
 
@@ -2514,7 +2514,7 @@
 
 **Trok:** I say everybody down I get myself a low like a snake, and I say in taryn. We are the faithful.
 
-**DM:** What tribute, have you brought for a year car cars tomb on this plane.
+**DM:** What tribute, have you brought for a Yerkir-khor's tomb on this plane.
 
 **Kaleho:** bring him your shells from the ocean.
 
@@ -2540,15 +2540,15 @@
 
 **Ryu:** comes a renewed takes from from his past ouch. Like a Pearl like big gossip girl.
 
-**Trok:** truck races crowds like this word.
+**Trok:** Trok grates out this word.
 
 **DM:** taps over here. So you're you're like offering this up.
 
-**Ryu:** I showed from a distance. And then, offering review says. From the deepest oceans, one of the rarest pearls. and I guess. Was the role it What did he do. He shows it out, he just shows it.
+**Ryu:** I showed from a distance. And then, offering Ryu says. From the deepest oceans, one of the rarest pearls. and I guess. Was the role it What did he do. He shows it out, he just shows it.
 
 **Trok:** Better roll it.
 
-**Nerissa:** yeah I mean truck to track to show the shells.
+**Nerissa:** yeah I mean Trok to try to show the shells.
 
 **DM:** yeah.
 
@@ -2566,21 +2566,21 @@
 
 **Ryu:** anybody else got anything. Otherwise, was at the bottom.
 
-**Trok:** yeah it kalo you gotta have some some movies, or something.
+**Trok:** yeah it Kaleho you gotta have some some offerings, or something.
 
 **Kaleho:** How to lock pick kit in a sword.
 
-**Trok:** nobody's Karen.
+**Trok:** nobody's carrying.
 
 **Kaleho:** Oh wait wait wait, I am. I pull out an offer.
 
 **Unknown:** A.
 
-**Kaleho:** emerged folk artifact that I have found and treasured, it is a small worn. Bible.
+**Kaleho:** a merfolk artifact that I have found and treasured, it is a small worn. Bible.
 
 **Trok:** yeah is it a gemstone.
 
-**Kaleho:** know it is a Bible, but it means a lot to me, and it has more folk vibes looks. Like a well worn. He doesn't even know kalo doesn't know. As far. As it says it's part of his word murph murph folk.
+**Kaleho:** know it is a Bible, but it means a lot to me, and it has merfolk vibes looks. Like a well worn. He doesn't even know Kaleho doesn't know. As far. As it says it's part of his word murph merfolk.
 
 **Ryu:** Can can read like reading attack reading a spirit of attack and. He did that as. well. right here.
 
@@ -2592,7 +2592,7 @@
 
 **Unknown:** b.
 
-**DM:** You would defile the tomb of my master with the leaving of our ancient enemies.
+**DM:** You would defile the tomb of my master with the leavings of our ancient enemies.
 
 **Ryu:** Okay, look look I have, I have something I have an offering for you, I throw a spear Adam I throw my screen.
 
@@ -2602,17 +2602,17 @@
 
 **Trok:** No, no, seriously about the floor because of the. sticky mud.
 
-**Ryu:** TIM I get blue in here.
+**Ryu:** Tim, I get Blu in here.
 
-**DM:** Well yeah my mixer on blue. Ah.
+**DM:** Well yeah my mixer on Blu. Ah.
 
-**Trok:** lose like invisible in this blue room.
+**Trok:** Blu's like invisible in this blue room.
 
 **DM:** Okay, so sorry, let me go what you old oh man you guys are good at initiative.
 
 **Ryu:** Or we.
 
-**DM:** can be well not you. or truck.
+**DM:** can be well not you. or Trok.
 
 **Unknown:** yeah.
 
@@ -2620,9 +2620,9 @@
 
 **Ryu:** Ah, so okay so deal is.
 
-**DM:** truck is sorry hold on truck is nine marissa is 23. So seven.
+**DM:** Trok is sorry hold on Trok is nine, Nerissa is 23. So seven.
 
-**Ryu:** So blue is gonna be okay, because you can fly around everybody else to get the Fuck is wrong.
+**Ryu:** So Blu is gonna be okay, because you can fly around everybody else to get the Fuck is wrong.
 
 **DM:** So I gotta do this again, because this is like weirdly messed up.
 
@@ -2632,7 +2632,7 @@
 
 **Ryu:** sweet that.
 
-**DM:** Okay, now I can add your own all your turns not blue. Okay sorry so truck got. truck was nine he was seven. till I was 25. And you get the sense as you've been making them as offerings that like like this creature does not like things of the ocean.
+**DM:** Okay, now I can add your own all your turns, not Blu. Okay sorry so Trok got. Trok was nine he was seven. till I was 25. And you get the sense as you've been making them as offerings that like like this creature does not like things of the ocean.
 
 **Trok:** Like.
 
@@ -2656,7 +2656,7 @@
 
 **Nerissa:** I was trying to think of a song that was. Everything.
 
-**DM:** Okay, so kayla was up first.
+**DM:** Okay, so Kaleho is up first.
 
 **Kaleho:** Okay, so can I do a bonus action before my attack. yep Okay, so he quickly shutters and bonus action hide so i'm like hiding back here now would that work like I would be hidden.
 
@@ -2680,13 +2680,13 @@
 
 **Kaleho:** So then. select those 14 polar.
 
-**DM:** yeah okay. seems dead almost like just backs away your blow as it sees you emerge from this. emerged from your hiding place to shoot at it and it just looks angry. And nervosa Europe.
+**DM:** yeah okay. seems dead almost like just backs away your blow as it sees you emerge from this. emerged from your hiding place to shoot at it and it just looks angry. And Nerissa Europe.
 
 **Nerissa:** and I. After me.
 
 **DM:** is trapped in the stone.
 
-**Nerissa:** Oh, I didn't recognize the token, and that was. um. I. play my my piercing tuned because this person seems pretty stony too so i'm gonna. cast. yeah.
+**Nerissa:** Oh, I didn't recognize the token, and that was. um. I. play my my piercing tune because this person seems pretty stony too so i'm gonna. cast. yeah.
 
 **DM:** Okay.
 
@@ -2698,13 +2698,13 @@
 
 **Unknown:** It.
 
-**DM:** shakes and it is definitely hurt by this but doesn't seem to be like again doesn't seem to be amazingly concerned. um hi Asa is. Like too exhausted and dehydrated to do much, but um but just yells again be careful help toss you in the in the stone. Okay now it's his turn. He has gone to step forward.
+**DM:** shakes and it is definitely hurt by this but doesn't seem to be like again doesn't seem to be amazingly concerned. um Hiyasa is. Like too exhausted and dehydrated to do much, but um but just yells again be careful help toss you in the in the stone. Okay now it's his turn. He has gone to step forward.
 
 **Nerissa:** And I, the reason I asked who was next is because I wanted to give up.
 
 **DM:** Oh inspiration yeah bonus action.
 
-**Nerissa:** This will tune up Arctic inspiration in my bonus action to.
+**Nerissa:** This little tune of bardic inspiration in my bonus action to.
 
 **DM:** Do.
 
@@ -2714,13 +2714,13 @@
 
 **Kaleho:** Thanks.
 
-**DM:** Okay, the stone giant has got step 123. Is gonna reach forward and attempt to grab um. review. So make athletics jack. It he fell, so he will try again. make another athletics check. So. you succeed again you sort of dodge out of the way of him as he's like we've again just trying to grab you but you're ducking out of the way pull it, you know against this. Big creature. Oh hold on he might have it, let me just check one thing. Ah. But you managed to dodge. Out of the way that ends his turn.
+**DM:** Okay, the stone giant has got step 123. Is gonna reach forward and attempt to grab um. Ryu? So make athletics jack. It he fell, so he will try again. make another athletics check. So. you succeed again you sort of dodge out of the way of him as he's like we've again just trying to grab you but you're ducking out of the way pull it, you know against this. Big creature. Oh hold on he might have it, let me just check one thing. Ah. But you managed to dodge. Out of the way that ends his turn.
 
 **Unknown:** Ah.
 
-**DM:** And it is now trucks turn.
+**DM:** And it is now Trok's turn.
 
-**Ryu:** giant truck giant.
+**Ryu:** giant Trok giant.
 
 **DM:** Like taken aback a little bit actually by this like Who are these create these things and looks even angrier now.
 
@@ -2730,19 +2730,19 @@
 
 **Trok:** always got like a stone hammer and a leg.
 
-**DM:** I know this, this is just a giant like a 15 foot tall stone statue of of a. This one looks like just a person it's not the same as the as the creature that's depicted in the. Most of the hacks.
+**DM:** I know this, this is just a giant like a 15 foot tall stone statue of a. This one looks like just a person it's not the same as the as the creature that's depicted in the. Most of the hacks.
 
 **Unknown:** Okay.
 
-**Trok:** stone person does not have a hammer, or anything. No okay so activate primal mate and get huge I activate eldridge mall. which makes is a glowing clause that extend my unarmed strikes to a 15 foot range and extra damage. And I will make.
+**Trok:** stone person does not have a hammer, or anything. No okay so activate Primal Might and get huge I activate Eldritch Maul. which makes is a glowing claws that extend my unarmed strikes to a 15 foot range and extra damage. And I will make.
 
 **DM:** You can activate those both on the same turn because they're both sections, I believe.
 
-**Trok:** that's interesting um can actually do just the Elder small and. yep okay so i'll get small again sorry. Because I want to start with the range to tech and i'm actually going to step. back one I think oops. i'm sort of like on the stairs I want to be my eldridge small range, which is 15.
+**Trok:** that's interesting um can actually do just the Eldritch Maul and. yep okay so i'll get Maul again sorry. Because I want to start with the range attack and i'm actually going to step. back one I think oops. i'm sort of like on the stairs I want to be my Eldritch Maul range, which is 15.
 
 **DM:** yep that's about that.
 
-**Trok:** Okay, and then i'll make to eldridge small attacks so again on earth strike.
+**Trok:** Okay, and then i'll make to Eldritch Maul attacks so again unarmed strike.
 
 **DM:** But with uranus same old on strike. That messes.
 
@@ -2770,9 +2770,9 @@
 
 **Trok:** i'll try it again. So that's. messes ah. Well, and then i'll try it. that's that's a crit. yeah yeah.
 
-**DM:** First blast goes wide, but with the sort of residual energy of. nurses song your second last. minutes Max directly.
+**DM:** First blast goes wide, but with the sort of residual energy of. Nerissa's song, your second blast. minutes Max directly.
 
-**Trok:** And then it gets the additional filter small damage right.
+**Trok:** And then it gets the additional Eldritch Maul damage right.
 
 **DM:** yeah, which is also doubled so 2d sex right.
 
@@ -2790,7 +2790,7 @@
 
 **Trok:** Linda.
 
-**DM:** Real you're up.
+**DM:** Ryu, you're up.
 
 **Ryu:** At bastard. dude. Is no match for my spear.
 
@@ -2800,7 +2800,7 @@
 
 **DM:** That hats.
 
-**Ryu:** And then, I have a blue streak down and.
+**Ryu:** And then, I have Blu streak down and.
 
 **DM:** Okay. Oh 620 20 plus sex yeah. So raw. 24 plus.
 
@@ -2830,7 +2830,7 @@
 
 **DM:** Go ahead, yes, you say you climb On top of this thing.
 
-**Kaleho:** mm hmm. Okay, I didn't I can I have sneak attack by don't have advantage. correct, but if I had bone okay got it so, then I take aim, I put all my rage of him being so mean to them or folks that I love so dearly.
+**Kaleho:** mm hmm. Okay, I didn't I can I have sneak attack by don't have advantage. correct, but if I had bone okay got it so, then I take aim, I put all my rage of him being so mean to the merfolk that I love so dearly.
 
 **DM:** That messes. My just bounces off the stone of his body. There so you're up.
 
@@ -2842,7 +2842,7 @@
 
 **DM:** Okay, where do you want to move.
 
-**Nerissa:** Just like 15 feet towards the other. stone pillar that killer is not on.
+**Nerissa:** Just like 15 feet towards the other. stone pillar that Kaleho is not on.
 
 **DM:** Okay. So, like there.
 
@@ -2876,23 +2876,23 @@
 
 **DM:** and saying in turn. not entirely in some harsh language you can understand and let's see what is the range here. um. Ah, everybody needs to make a wisdom saving.
 
-**Nerissa:** throw how about I cast countries films did.
+**Nerissa:** throw how about I cast Tasha's Hideous Laughter.
 
 **DM:** Yes, okay.
 
 **Ryu:** yeah.
 
-**DM:** Nothing happened. So as. As he begins to monitor ah. Under this words this energy begins to spread out from him this piercing malady from. Marisa. weaves into his voice and the magical residence is slow. and slow again. And then stop. Now he looks super mad me it's gonna go 123456.
+**DM:** Nothing happened. So as. As he begins to monitor ah. Under his words this energy begins to spread out from him this piercing malady from. Marisa. weaves into his voice and the magical residence is slow. and slow again. And then stop. Now he looks super mad me it's gonna go 123456.
 
 **Trok:** Definitely running away because. That definitely eight.
 
-**DM:** Real you do get an attack of opportunity if you'd like to use that.
+**DM:** Ryu, you do get an attack of opportunity if you'd like to use that.
 
 **Ryu:** I, of course, when. I come on some more.
 
-**DM:** that's. Okay truck you're up.
+**DM:** that's. Okay Trok you're up.
 
-**Trok:** I guess, I have to rush him in order to get in range for the. build rich mall attack, I have a move of 30 so let's see if I can do it, so I need to get. there. yeah um I will run straight at him. Right, oh no it's be closer like there.
+**Trok:** I guess, I have to rush him in order to get in range for the. Eldritch Maul attack, I have a move of 30 so let's see if I can do it, so I need to get. there. yeah um I will run straight at him. Right, oh no it's be closer like there.
 
 **DM:** You have to be within 15 feet right so like there. No, you don't have enough movement to get you have to use you don't have enough movement to get there.
 
@@ -2912,7 +2912,7 @@
 
 **DM:** So you can attack unless you use your action search.
 
-**Trok:** Actions surge I didn't think of using that for movement okay so i'll use my action search.
+**Trok:** Actions surge I didn't think of using that for movement okay so i'll use my Action Surge.
 
 **Nerissa:** In the map there's a big circle. where he is retreated into.
 
@@ -2930,7 +2930,7 @@
 
 **DM:** So let's do in.
 
-**Trok:** A way I don't want to use my action search so i'm just gonna run up and then I can't attack, but I use my bonus action to get huge.
+**Trok:** A way I don't want to use my Action Surge so i'm just gonna run up and then I can't attack, but I use my bonus action to get huge.
 
 **Unknown:** Okay.
 
@@ -2972,7 +2972,7 @@
 
 **Ryu:** You got to do more sneak attack both things man that's like Helen Helen St you get the advantage.
 
-**Kaleho:** So to do this okay. Is this within range right you get sneak attack advantage, or is he too far away from truck.
+**Kaleho:** So to do this okay. Is this within range if I get sneak attack advantage, or is he too far away from Trok.
 
 **DM:** Ah, he is too far away from you. he's 35 feet from you, so you have disadvantage on your. attack, which means you cannot get sneak attack.
 
@@ -2984,7 +2984,7 @@
 
 **DM:** And so straight roll know sneak.
 
-**Kaleho:** Australia oh yeah.
+**Kaleho:** Oh, true oh yeah.
 
 **Ryu:** What a shorts always do that so nasty.
 
@@ -3004,7 +3004,7 @@
 
 **Kaleho:** Yes, or if i'm hiding but.
 
-**Nerissa:** It can be any food just move close to herself.
+**Nerissa:** It can be any point just move close to herself.
 
 **DM:** So your turn. There so.
 
@@ -3014,13 +3014,13 @@
 
 **Ryu:** I like this.
 
-**Nerissa:** Do it that does seems to be able to compensate for my shatters these.
+**Nerissa:** Do it that does seems to be able to compensate for my Shatters.
 
 **DM:** Are guys so that's a deck safe. is not good at Texas, but he will be 20. So he dodged is out of the way is this wave of water comes crashing down on him. Taking half damage.
 
-**Ryu:** What what character classes marissa.
+**Ryu:** What what character classes Nerissa.
 
-**Nerissa:** ARD.
+**Nerissa:** bard.
 
 **Trok:** Now yeah.
 
@@ -3040,7 +3040,7 @@
 
 **Unknown:** He can only get you to.
 
-**DM:** that's fine i'm. A. monitor or something else under his breath and the earth just. explodes around you. it's gonna put it like there to make it harder for you to close. take one more step there as. The. ground. exposed you both need to make dexterity saving throws. Ah. Both of you fail, but he rolled horrible them and say, but I think eight points of bludgeoning damage, and this is not difficult terrain, so it takes. takes 10 feet or takes an extra square movement to close. That will end his to earn. Anything go back one more step. Okay truck you're up.
+**DM:** that's fine i'm. A. monitor or something else under his breath and the earth just. explodes around you. it's gonna put it like there to make it harder for you to close. take one more step there as. The. ground. exposed you both need to make dexterity saving throws. Ah. Both of you fail, but he rolled horrible them and say, but I think eight points of bludgeoning damage, and this is not difficult terrain, so it takes. takes 10 feet or takes an extra square movement to close. That will end his to earn. Anything go back one more step. Okay Trok, you're up.
 
 **Trok:** Oh man.
 
@@ -3064,11 +3064,11 @@
 
 **Unknown:** No.
 
-**Trok:** All right, I will run straight up to him and attacking with eldridge mall.
+**Trok:** All right, I will run straight up to him and attacking with Eldritch Maul.
 
 **DM:** And so that's. You can't quite go that far, because it's their first. Movement not five. Five feet shorter than that.
 
-**Trok:** But, am I now i'm going to be too short for elder small.
+**Trok:** But, am I now i'm going to be too short for Eldritch Maul.
 
 **DM:** Now you're 20 feet away so.
 
@@ -3086,11 +3086,11 @@
 
 **Unknown:** Free her.
 
-**Trok:** um. I oh I forgot about this tattoo water thing um and oh he's the water dislike or i'm.
+**Trok:** um. I oh I forgot about this tattoo water thing um and oh he's the Water Delike or i'm.
 
 **Ryu:** Thinking man, but make it in the bud.
 
-**Trok:** No it's doesn't do that it's a charm. It gives it speed zero I should have thought of that before alright activate a swirling tattoo on my left thigh that. Is tattoo of water so. When it ends its terms within 30 feet said within 30 feet of me all right yeah i'm close enough. Oh, but it's a reaction. Can I just do it now. yeah okay. So it has to make a wisdom saving throw DC 14.
+**Trok:** No it's doesn't do that it's a charm. It gives it speed zero I should have thought of that before alright activate a swirling tattoo on my left thigh that. Is tattoo of water so. When it ends its turn within 30 feet said within 30 feet of me all right yeah i'm close enough. Oh, but it's a reaction. Can I just do it now. yeah okay. So it has to make a wisdom saving throw DC 14.
 
 **DM:** Okay um as you do this like this swirling pattern of water emerges around it um. wisdom, you said.
 
@@ -3108,7 +3108,7 @@
 
 **Trok:** I let out a snarl of rage, that is. Almost so deep as to be below your engineering.
 
-**DM:** That ends your turn review.
+**DM:** That ends your turn Ryu.
 
 **Ryu:** So this is one moving and stuff like that, as 10 feet.
 
@@ -3166,7 +3166,7 @@
 
 **Trok:** For it.
 
-**Ryu:** But blue fortunately.
+**Ryu:** But Blu, fortunately.
 
 **DM:** Also, Mrs. Locke has turned.
 
@@ -3174,11 +3174,11 @@
 
 **Ryu:** That is horrendous.
 
-**Kaleho:** So co takes a deep breath with a with steady aim. and tries to threaten air her. Past rock toward.
+**Kaleho:** So Kaleho takes a deep breath with a with steady aim. and tries to thread an arrow. past Trok toward.
 
 **DM:** Our damn. Straight raw that. Mrs just bounces harmlessly off this down. There so here up.
 
-**Nerissa:** All right, i'd like to move closer to him, so that I can get in range of a 60 foot attack. You just movies, or two straight. Down the room.
+**Nerissa:** All right, i'd like to move closer to him, so that I can get in range of a 60 foot attack. You just move, so straight. Down the room.
 
 **Unknown:** yep.
 
@@ -3194,9 +3194,9 @@
 
 **Nerissa:** field feel mental pain and move away if they can't.
 
-**DM:** So he turns any then please again 12345678 to their i'm turning and getting as far away from nurses as possible. That ends your turn.
+**DM:** So he turns any then please again 12345678 to their i'm turning and getting as far away from Nerissa as possible. That ends your turn.
 
-**Nerissa:** And i'll send a particle inspiration to you again.
+**Nerissa:** And i'll send a bardic inspiration to you again.
 
 **Unknown:** Okay.
 
@@ -3218,7 +3218,7 @@
 
 **Ryu:** Are you trying boxes sex giant boxes you're driving.
 
-**Trok:** Their boxes of niceness probably.
+**Trok:** Their boxes of nice things probably.
 
 **Unknown:** um.
 
@@ -3238,11 +3238,11 @@
 
 **Trok:** With me to litigate this saving throw I guess not okay.
 
-**DM:** yeah advantage on strength checks, but not saving for us. Okay ah, as the. As the earth turns to mud. There ESTA you are trapped within it, beginning to sink, you are now restrained. Right you and review and truck you managed to avoid being restrained but you're still stuck in the mud, and it takes you four feet of movement for every foot of movement to move through at.
+**DM:** yeah advantage on strength checks, but not saving for us. Okay ah, as the. As the earth turns to mud. There ESTA you are trapped within it, beginning to sink, you are now restrained. Ryu and Trok you managed to avoid being restrained but you're still stuck in the mud, and it takes you four feet of movement for every foot of movement to move through it.
 
 **Nerissa:** The edge where.
 
-**DM:** You are right on the edge. Ah i'm a man after it snaps his finger to do that doesn't happen anymore. It will then. Emerging out of the. Emerging out of the. BAT the stone of the. Of the pillar that you are standing on. Ah. kayla a giant hand. appear. grabs you.
+**DM:** You are right on the edge. Ah i'm a man after it snaps his finger to do that doesn't happen anymore. It will then. Emerging out of the. Emerging out of the. BAT the stone of the. Of the pillar that you are standing on. Ah. Kaleho a giant hand. appear. grabs you.
 
 **Trok:** Ah.
 
@@ -3252,9 +3252,9 @@
 
 **DM:** Ah, you are also grasped and restrained by the hand. That will end this turn it's not going to move. try your up.
 
-**Ryu:** truck, we have to kill it this turn.
+**Ryu:** Trok, we have to kill it this turn.
 
-**Trok:** I don't know that we can because I can't even necessarily get close enough to it to attack it with eldridge mall because so at the multipliers for.
+**Trok:** I don't know that we can because I can't even necessarily get close enough to it to attack it with Eldritch Maul because so at the multipliers for.
 
 **DM:** You it'll take you 20 feet of movement to step out of the mud.
 
@@ -3292,7 +3292,7 @@
 
 **DM:** says also yelling for help now she's like quick get me out.
 
-**Kaleho:** Because it's mom now so she can.
+**Kaleho:** Because it's mud now so she can.
 
 **Trok:** Someone has to pull her out oh my God.
 
@@ -3354,23 +3354,23 @@
 
 **Ryu:** oof alright let's see what we can do.
 
-**DM:** All right, kayla you are.
+**DM:** All right, Kaleho you are.
 
-**Ryu:** blue.
+**Ryu:** Blu.
 
-**DM:** Blue after attack yellow blue super far away. Look at. I don't boo.
+**DM:** Blu after attack yeah, Blu's super far away. Look at. I don't boo.
 
-**Ryu:** boo boo boos been blues been attacking.
+**Ryu:** Blu, Blu, Blu's been, Blu's been attacking.
 
-**DM:** The House of blues like staying with you okay.
+**DM:** Blu's like staying with you okay.
 
 **Ryu:** yeah we just haven't moved his his.
 
-**DM:** Right right right right okay so blue got to attack.
+**DM:** Right right right right okay so Blu got to attack.
 
-**Ryu:** Lewis he's fine he's like he's not like standing next to.
+**Ryu:** Blu is, he's fine he's like he's not like standing next to.
 
-**Nerissa:** Happy New Year.
+**Nerissa:** Help me here.
 
 **Ryu:** Plus, plus six right.
 
@@ -3382,7 +3382,7 @@
 
 **Ryu:** One D four plus six again.
 
-**DM:** When the four plus six. So blue dye bombs and again.
+**DM:** When the four plus six. So Blu dive bombs and again.
 
 **Ryu:** friendly bastard.
 
@@ -3390,9 +3390,9 @@
 
 **Ryu:** Was Jesus Christ.
 
-**DM:** Ah kayla you are crushed by the hand you take five points of. lightning damage and you are restrained, but you can attack, but you have disadvantage or you can try and escape.
+**DM:** Ah Kaleho you are crushed by the hand you take five points of. lightning damage and you are restrained, but you can attack, but you have disadvantage or you can try and escape.
 
-**Kaleho:** That I do studies shot, while. Being.
+**Kaleho:** That I do steady shot, while. Being.
 
 **DM:** Your House. Australia all not at.
 
@@ -3400,7 +3400,7 @@
 
 **Trok:** Because it. Is a holding him steady.
 
-**Kaleho:** Very studying right now.
+**Kaleho:** Very steadying right now.
 
 **DM:** You are pretty steady right now.
 
@@ -3420,15 +3420,15 @@
 
 **Kaleho:** let's go. man. better than nothing.
 
-**DM:** Guy that ends your turn. You are restrained, so your speed is zero and you're also thinking into the mug.
+**DM:** Guy that ends your turn. You are restrained, so your speed is zero and you're also sinking into the mud.
 
 **Trok:** ooh.
 
-**Nerissa:** Oh, I can't do anything about fact that i'm thinking into my head because.
+**Nerissa:** Oh, I can't do anything about fact that i'm sinking into the mud because.
 
 **DM:** And you can try it you can't you can try and break. You can try and climb out, which would be a strength check, you can also still cast spells like you're not anything that you.
 
-**Nerissa:** Oh, I know I can still cast spells like dubious this to my ability to given my fedex strength and dubious it's, to the benefit of struggling.
+**Nerissa:** Oh, I know I can still cast spells like use this to my ability to given my pathetic strength and dubious it's, to the benefit of struggling.
 
 **Kaleho:** Could you get part of inspiration to the girl that's trapped to give her a better chance of using her own strength to get out.
 
@@ -3436,7 +3436,7 @@
 
 **Nerissa:** And she.
 
-**Kaleho:** because she can do a strength role right. cutouts mud.
+**Kaleho:** because she can do a strength role right. get out of mud.
 
 **DM:** She can you don't know how strong she is.
 
@@ -3494,9 +3494,9 @@
 
 **DM:** If you were all three failures you die.
 
-**Trok:** And what's the whatever really against.
+**Trok:** And what's the whatever, roll again.
 
-**DM:** Ah 11 or higher succeeds, or a 10 or higher succeeds less than 10 fails. So that's one failure truck. truck is beginning to sink underneath the mud. starting to suffocate real Europe.
+**DM:** Ah 11 or higher succeeds, or a 10 or higher succeeds less than 10 fails. So that's one failure Trok. Trok is beginning to sink underneath the mud. starting to suffocate. Ryu, you're up.
 
 **Ryu:** Okay i'm. sad occasion melee or, should I keep throwing spears.
 
@@ -3520,9 +3520,9 @@
 
 **DM:** ethernet as he dies. The stone begins to solidify.
 
-**Ryu:** Can we start pulling people from. All fucking track out of the mud.
+**Ryu:** Can we start pulling people from. All fucking Trok out of the mud.
 
-**DM:** Ah, you just use your accent, you can step into the mud.
+**DM:** Ah, you just use your action, you can step into the mud.
 
 **Trok:** No, no, no.
 
@@ -3550,11 +3550,11 @@
 
 **Trok:** i'm. Starting.
 
-**Ryu:** Starting yeah. yeah you see like like. ryu takes his hand and kind of opens it up and then. lows and then you see this little kind of swarm of like little small fishes start swimming over to at truck and they start swirling around them and truck you feel that the spirit of sardines and suddenly reanimating you.
+**Ryu:** Starting yeah. yeah you see like like. Ryu takes his hand and kind of opens it up and then. flows, and then you see this little kind of swarm of like little small fishes start swimming over to to Trok and they start swirling around them and Trok you feel that the spirit of sardines and suddenly reanimating you.
 
 **Trok:** And they're like wake up and like.
 
-**DM:** So that's your bonus action so truck is now awake. you're still restrained. And trapped in the mud.
+**DM:** So that's your bonus action so Trok is now awake. you're still restrained. And trapped in the mud.
 
 **Trok:** So if I get how many hit points, so I have no.
 
@@ -3572,9 +3572,9 @@
 
 **DM:** and
 
-**Trok:** there's Oh, I see healing for a platoon.
+**Trok:** there's Oh, I see healing for a potion.
 
-**DM:** There we go yeah. So it is now kayla's turn.
+**DM:** There we go yeah. So it is now Kaleho's turn.
 
 **Trok:** The.
 
@@ -3584,7 +3584,7 @@
 
 **DM:** Lets you just move up to your speed.
 
-**Kaleho:** um So if I can with dash face, can I get here from bonus action these my action to pour out yep Okay, so I do that.
+**Kaleho:** um So if I can with dash phase, can I get here from bonus action use my action to pour out yep Okay, so I do that.
 
 **DM:** And to make a strange check.
 
@@ -3646,13 +3646,13 @@
 
 **Nerissa:** yeah safety is good.
 
-**DM:** hi Asa is going to run. This way. and grab one of the gem topped jars.
+**DM:** Hiyasa is going to run. This way. and grab one of the gem topped jars.
 
 **Kaleho:** Oh no.
 
 **Trok:** Oh yeah we never figured out what's going on with those.
 
-**DM:** don't call him his dad truck.
+**DM:** don't call him his dead, Trok.
 
 **Trok:** So I just have to get out right.
 
@@ -3662,19 +3662,19 @@
 
 **DM:** lying underneath the mud right now prone the sardines, having healed you.
 
-**Trok:** So I have a some kind of divine. blessing thing what's that called. favor of the handset nope not that one spiritual affinity 2000 as in Co. Before you make a really great yourself advantage I great myself advantage on my because all I have to do is make a strength check to get out right. Yes, Okay, so I grant myself advantage.
+**Trok:** So I have a some kind of divine. blessing thing what's that called. favor of the hansat nope not that one Spiritual Affinity to Tuanesco. Before you make a really grant yourself advantage? I grant myself advantage on my because all I have to do is make a strength check to get out right. Yes, Okay, so I grant myself advantage.
 
 **Unknown:** Okay.
 
 **Ryu:** Yes.
 
-**Trok:** And then I make a strength sitting through.
+**Trok:** And then I make a strength saving throw.
 
 **DM:** Ah strength. Saving throw yeah.
 
 **Trok:** Oh Nice on the first one.
 
-**DM:** Yes, so you. pull your you see like like so us you all saw truck to go underneath the earth unconscious as the. statue through them and then these like sardines swarm underneath and then you just see like this muddy had.
+**DM:** Yes, so you. Pull. You you see like like so us you all saw Trok go underneath the earth unconscious as the. statue through them and then these like sardines swarm underneath and then you just see like this muddy head.
 
 **Unknown:** emerged from the ground.
 
@@ -3692,7 +3692,7 @@
 
 **DM:** For movement.
 
-**Ryu:** But that was kind of a random like you kind of just threw him into the thing like it wasn't me through him like 20.
+**Ryu:** But that was kind of a random like you kind of just threw him into the thing like it wasn't me that threw him like 20.
 
 **DM:** You know, you can. You can yes.
 
@@ -3700,7 +3700,7 @@
 
 **DM:** Because when you landed, you are. yeah you still have a long strider so so you have 20 you have like. To get out. Yes.
 
-**Trok:** Okay, who still covered in mud, but i'm not trapped and and conscious.
+**Trok:** Trok still covered in mud, but i'm not trapped and and conscious.
 
 **Ryu:** Well, or selsey just just to get yourself out.
 
@@ -3714,7 +3714,7 @@
 
 **Kaleho:** yeah.
 
-**Nerissa:** Why are you doing.
+**Nerissa:** What are you doing.
 
 **Trok:** yeah.
 
@@ -3722,7 +3722,7 @@
 
 **DM:** yeah.
 
-**Kaleho:** I think we should threaten her will try to restrain her she's.
+**Kaleho:** I think we should threaten her or try to restrain her she's.
 
 **Ryu:** Clearly, like Can somebody put her to sleep. or something. I can do that and idea.
 
@@ -3734,7 +3734,7 @@
 
 **Trok:** yeah cool idea.
 
-**Kaleho:** Do you let this grapple to like restrain her is that a thing.
+**Kaleho:** Can you just grapple to like restrain her is that a thing.
 
 **Ryu:** On yeah I can do that right.
 
@@ -3766,13 +3766,13 @@
 
 **Ryu:** Your bag right now.
 
-**Trok:** we're friends of wardens.
+**Trok:** we're friends of Orden.
 
 **DM:** She puts it back she looks sort of like fine.
 
 **Trok:** let's start over again here.
 
-**Ryu:** haha throw you back into the money.
+**Ryu:** haha throw you back into the muddy.
 
 **Trok:** pit.
 
@@ -3786,13 +3786,13 @@
 
 **Ryu:** How about we leave you hear about that.
 
-**Trok:** Now now really thanks for saving my scaly but once again. i'm. Listening here so we're just here to take you home.
+**Trok:** Now now Ryu, thanks for saving my scaly but once again. i'm. Listening here so we're just here to take you home.
 
 **Kaleho:** and
 
 **DM:** Seriously, someone came to rescue me.
 
-**Trok:** Well i've known ordinance for a long time and he's always told me stories about about you and and he Let he let me know that you were in trouble, and that maybe there was. A little cash, we had a long way. From my friends and so. Here we are so. We better get out of here, I think.
+**Trok:** Well i've known Orden for a long time and he's always told me stories about about you and and he let me let me know that you were in trouble, and that maybe there was. A little cash, to be had along the way. From my friends and so. Here we are so. We better get out of here, I think.
 
 **DM:** You can see like our whole body, just like the tension drains out of it totally relaxes. I thought you are just random tomb raiders like me it's going to try and grab some loot and run for you noticed.
 
@@ -3800,7 +3800,7 @@
 
 **Trok:** yeah I think you got yourself in a little a little over your own head. howdy.
 
-**Kaleho:** How did you how did you hear about this. Gray.
+**Kaleho:** How did you how did you hear about this. Great.
 
 **DM:** Vega persuasion check. or intimidation your choice.
 
@@ -3812,11 +3812,11 @@
 
 **DM:** Well, the blade was obvious you didn't see the trigger.
 
-**Trok:** Really obvious that's good for fiscal it's point.
+**Trok:** Really obvious that's good for Hiyasa's it's point.
 
 **DM:** guard, I was just required speed. And I did. Have a little bit of assistance. With. brought a few key. When use spell scrolls with me that knocked one out of the sky pretty quickly. Once I killed one I. saw the key and I just ran.
 
-**Trok:** where'd you get all this stuff's bill scrolls and a treasure map.
+**Trok:** where'd you get all this stuff, spell scrolls and a treasure map.
 
 **DM:** i've been traveling for 10 years I have my sources.
 
@@ -3824,27 +3824,27 @@
 
 **DM:** How do you feel about charting.
 
-**Trok:** Oh i'm know great fan of charting.
+**Trok:** Oh I'm no great fan of charting.
 
 **DM:** How do you feel that people who steal from charmin.
 
 **Trok:** Well, maybe the lesson of the better who.
 
-**Kaleho:** Can I do some thief can't signaling towards her to see if she is. fluent or aware, or whatever the.
+**Kaleho:** Can I do some thieves' cant signaling towards her to see if she is. fluent or aware, or whatever the.
 
-**DM:** One What do you mean you're trying to like what. i'm more like just us. it's more like. way of marketing things and it's not really a language exactly. So it's just sort of. Well, so okay so like efficient like the sort of standard D amp D rogues are like all part of some like Globe spanning thieves Guild that all speak a common language doesn't actually make sense, for I think most it's a very strange I don't. Know like these skills, but there's like a series of ways, you can mark traps and like this place is dangerous, that you sort of recognize right.
+**DM:** One What do you mean you're trying to like what. i'm more like just us. it's more like. way of marking things and it's not really a language exactly. So it's just sort of. Well, so okay so like efficient like the sort of standard D amp D rogues are like all part of some like Globe spanning thieves Guild that all speak a common language doesn't actually make sense, for I think most it's a very strange I don't. Know like these skills, but there's like a series of ways, you can mark traps and like this place is dangerous, that you sort of recognize right.
 
-**Kaleho:** i'm looking the features and says you've earned thieves, can a secret mentioned dialogue jargon and code that allows you to hide messages and seemingly normal conversation. i'm just trying to like feeler out like you know I put out a signal and whatever like through verbal communication and does she just bite like this, you signal, yes, I am of this world, or is he just a normal naive avenger.
+**Kaleho:** i'm looking the features and says you've earned thieves' cant a secret mix of dialect jargon and code that allows you to hide messages and seemingly normal conversation. i'm just trying to like feel her out like you know I put out a signal and whatever like through verbal communication and does she just bite like this, you signal, yes, I am of this world, or is he just a normal naive adventurer.
 
 **DM:** I mean it's obvious from what she sat in from just her demeanor that she's not a I mean if she had scrolls and a treasure map that she stole from somebody like this is not like a. she's not just a commoner right like she definitely has some skill, what exactly so she has not completely obvious do.
 
-**Ryu:** So, invest in the gems what's going on the loop.
+**Ryu:** So, investigate the gems what's going on the loot.
 
 **DM:** Make make some investigation check.
 
 **Trok:** i'll investigate as well.
 
-**Ryu:** i'm on really looking for best the last really.
+**Ryu:** i'm on really looking for the best glass really.
 
 **DM:** um. So these are like three ish foot. What is that, like three years foot.
 
@@ -3852,13 +3852,13 @@
 
 **DM:** stone jars that are each topped with a gem they seem to be I mean they're very heavy. Like they're they're solid right i'm like you could lift one up but they probably weigh 15 pounds that jars are the tops are just kind of loosely placed on.
 
-**Ryu:** US inside.
+**Ryu:** Use Insight.
 
 **DM:** Ah there's six of them which one do you want to open there's one with a there's like one with a plain white carts there's one with the purple jam there's one with a like Teal green jam one with like a reddish jam one with the yellow gem, and one with a like jet black obsidian.
 
-**Ryu:** Open English.
+**Ryu:** Open? English?.
 
-**DM:** It is filled with so. The bottom maybe third of the. Of the of the stone thing is filled with a. So there's a pile of coins. Mostly copper and silver. A few. Maybe gold glinting in there, but they're all like you don't recognize them at all they're not my wire that chart and they're not coins from anywhere around here.
+**DM:** It is filled with so. The bottom maybe third of the. Of the of the stone thing is filled with a. So there's a pile of coins. Mostly copper and silver. A few. Maybe gold glinting in there, but they're all like you don't recognize them at all they're not Mawar that chart and they're not coins from anywhere around here.
 
 **Ryu:** From where I do like a. or some other check. To our historian here.
 
@@ -3872,7 +3872,7 @@
 
 **DM:** Just you for now.
 
-**Ryu:** Intelligence check not assuming grow.
+**Ryu:** Intelligence check not assuming no.
 
 **DM:** yeah just jack.
 
@@ -3886,7 +3886,7 @@
 
 **DM:** Just a weird money.
 
-**Ryu:** When I look at these nurses and be recognized them.
+**Ryu:** When I look at these Nerissa maybe recognized them.
 
 **DM:** Where do you speak.
 
@@ -3934,7 +3934,7 @@
 
 **Unknown:** For them.
 
-**Kaleho:** For the pearl that catches callow's eyes, because of the possible perfect more folk oceanic connection I do investigative check on that one. Appropriate check for it or.
+**Kaleho:** For the pearl that catches Kaleho's eyes, because of the possible perfect merfolk oceanic connection I do investigative check on that one. Appropriate check for it or.
 
 **DM:** it's I mean. Sure, make them make an investigation check. um. yeah it seems like just a Pearl.
 
@@ -3952,11 +3952,11 @@
 
 **Trok:** Once again.
 
-**Nerissa:** Where anybody. have to tech magic ethan anything there, well, we for a reason.
+**Nerissa:** Where anybody. have to detect magic or anything anything there, well, we for a reason.
 
 **Ryu:** All of these.
 
-**DM:** Whereas TAO F when you need them. Or was here, I think he also has detect magic.
+**DM:** Whereas TAO F when you need them. Or Wazir, I think he also has detect magic.
 
 **Kaleho:** Road with is have any ability like what's best to sell I can even just kind of like background knowledge of.
 
@@ -3978,9 +3978,9 @@
 
 **Trok:** No that's not very useful. To one way bag of holding. bag of perma holding when I guess you could put stuff in there, that you didn't want permanently. Can drain the ocean, with it, or something.
 
-**Nerissa:** Reading for tiger.
+**Nerissa:** Reading for taxes.
 
-**Trok:** Talk tax documents from 10 years.
+**Trok:** To tax documents from 10 years.
 
 **Ryu:** yeah should we take these back to town. With a.
 
@@ -3996,7 +3996,7 @@
 
 **Nerissa:** yeah.
 
-**Kaleho:** we've disarmed, most of the traps just the saver and the sticky gooey and maybe that's solidified that the guys dad.
+**Kaleho:** we've disarmed, most of the traps just the saber and the sticky gooey and maybe that's solidified that the guy's dead.
 
 **DM:** know the good still there, but. But you know, in the interest of time and that you've already. saw your way back you manage to like. You know jump over and you the the pit ons are still nailed into the wall, so you can still you know get past. That. As you sort of travel travel past there. He also has like clever. Finally, I had known that was going to turn into quick, then I could have done the same thing. Then you like head back up the stairs and you know go out the. managed to somebody jumps up and pulls down the rope and you managed to climb up and. few days travel takes you back to the end. um.
 
@@ -4008,7 +4008,7 @@
 
 **Trok:** Nice Nice.
 
-**DM:** So back at the end, a few days later um. Yes, was here like as you carefully log all this stuff back. This was your House so was here as back of just you know give you his does he have.
+**DM:** So back at the end, a few days later um. Yes, Wazir like as you carefully lug all this stuff back. This was your House so Wazir as backpack just you know give you his does he have.
 
 **Trok:** You look like.
 
@@ -4024,13 +4024,13 @@
 
 **Nerissa:** Rising.
 
-**DM:** was here, points out that the dark let read liquid smells like. vinegar. And this is probably agent wine. And he recognizes the writing on the coins as dwarves.
+**DM:** Wazir, points out that the dark let read liquid smells like. vinegar. And this is probably agent wine. And he recognizes the writing on the coins as dwarves.
 
 **Unknown:** um.
 
 **DM:** But very archaic. These are ancient ancient Orban coins like 1000 years ago Durban coins at least.
 
-**Trok:** Was this guy human God or a door oven God.
+**Trok:** Was this guy human God or a Dwarven god.
 
 **DM:** You only saw humans depicted.
 
@@ -4038,7 +4038,7 @@
 
 **DM:** The. Sorry, what else um. So the coins yeah there's a fair number of coins right in total there's probably about. 400 or 500 gold worth of. coins, and then the gems themselves are are probably worth another hundred gold so maybe 600 gold total. um, which is a pretty big sum of money, the white wine is worthless i'm actually sorry the obsidian the obsidian one when you took it out of the tomb shattered I forgot to mention that. So it is no longer anything. The Pearl is magical but you don't know exactly what it does. And then there's the yellow dust.
 
-**Kaleho:** And we don't know the able to dust does either.
+**Kaleho:** And we don't know the Abelardust does either.
 
 **DM:** And so far nobody's like touched it or empty the doubt or anything.
 
@@ -4062,15 +4062,15 @@
 
 **Ryu:** let's loot more ancient treasure. yeah.
 
-**Kaleho:** Great engine crawl.
+**Kaleho:** Great dungeon crawl.
 
-**Ryu:** weren't more engine better.
+**Ryu:** weren't more dungeon better.
 
 **DM:** So, but just decide before we end for the day decide how you're going to split up the gold, are you giving any money to to. pay off and for then.
 
-**Ryu:** I can, I can come from structure.
+**Ryu:** I can, I can come from treasure.
 
-**Nerissa:** To the vice chair.
+**Nerissa:** To the Wazir.
 
 **Trok:** hmm.
 
@@ -4080,13 +4080,13 @@
 
 **Ryu:** No definitely not that.
 
-**DM:** I can. Get 135 gold minus whatever you want to give to. Order and 60 gold is actually a fairly I mean that's like you know, two months salary so that's not nothing. that's not as much as she was hoping she she is like yeah you know. I can i'll tell you more about those other two places on the map, if you pay me that's like decision for another. man who wants to pro power.
+**DM:** I can. Get 135 gold minus whatever you want to give to. Orden and 60 gold is actually a fairly I mean that's like you know, two months salary so that's not nothing. that's not as much as she was hoping she she is like yeah you know. I can i'll tell you more about those other two places on the map, if you pay me that's like decision for another. man who wants to pro power.
 
 **Ryu:** Cast spells so.
 
 **Trok:** TIM.
 
-**Nerissa:** marissa. And we, as a. pastor here i'll take it.
+**Nerissa:** Nerissa. And we, as a. pass through here i'll take it.
 
 **Unknown:** yeah.
 
@@ -4104,13 +4104,13 @@
 
 **Unknown:** Nice. sweet.
 
-**Ryu:** basin paper some upgrades in my spot get that speed new TV and looking for.
+**Ryu:** basic paper some upgrades in my spot, get that speedy new TV and looking for.
 
 **Unknown:** yeah.
 
 **DM:** Okay guys.
 
-**Kaleho:** Last four guys.
+**Kaleho:** That's fair, guys.
 
 **DM:** This was fun good or bad.
 
@@ -4120,7 +4120,7 @@
 
 **Trok:** Oh yeah.
 
-**Kaleho:** This was awesome I cut the world's building out slowly to it a little set of characters and mysteries some traumatic things that are coming up it's fun.
+**Kaleho:** This was awesome I cut the worldbuilding out slowly to it a little set of characters and mysteries some traumatic things that are coming up it's fun.
 
 **DM:** A lot of connected to. elemental earth maybe.
 
@@ -4128,11 +4128,11 @@
 
 **Unknown:** water.
 
-**Ryu:** weight, but what about wind and fire so.
+**Ryu:** wait, but what about wind and fire so.
 
 **DM:** there's two other axes on the map.
 
-**Kaleho:** States and.
+**Kaleho:** Thanks and.
 
 **DM:** Everybody good night.
 

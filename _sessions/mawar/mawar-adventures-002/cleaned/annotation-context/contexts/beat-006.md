@@ -1,4 +1,4 @@
-# Beat Context: beat-006 - Yaz and the Living Ocean
+# Beat Context: beat-006 - Dawn Interception Setup
 
 This file is only for producing `beat-facts.json`.
 Do not edit `beats.json`.
@@ -11,21 +11,21 @@ Do not edit `beats.json`.
 ## Beat Metadata
 
 - Beat ID: beat-006
-- Title: Yaz and the Living Ocean
-- Range: `u1892` -> `u2284`
-- Lines: 393
-- Date Start: 1747-08-04
+- Title: Dawn Interception Setup
+- Range: `u2420` -> `u2739`
+- Lines: 320
+- Date Start: 1747-08-05
 - Date End: same day
-- Time Window: afternoon
+- Time Window: morning
 
 ## Output Shape
 
 ```json
 {
   "beatId": "beat-006",
-  "dateStart": "1747-08-04",
+  "dateStart": "1747-08-05",
   "dateEnd": null,
-  "timeWindow": "afternoon",
+  "timeWindow": "morning",
   "shortSummary": "",
   "longSummary": "",
   "location": {
@@ -64,8 +64,8 @@ Do not edit `beats.json`.
 
 ## Adjacent Beats
 
-- Previous: beat-005 - Ovina and Sofi (1747-08-04)
-- Next: beat-007 - Night Plan at the Leviathan (1747-08-04)
+- Previous: beat-005 - Yaz and Evening Plan (1747-08-04)
+- Next: beat-007 - Tentacles at the Dock (1747-08-05)
 
 If the transcript does not clearly restate the location, prefer inheriting the prior beat's location unless there is a clear move or travel transition.
 
@@ -79,398 +79,325 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
-[u1892 | 02:40:01.290-02:40:11.610 | DM] So you meet on the shark stock which is like I mean it's a rickety you know it is it's the heat of the summer and it's like you know late afternoon there are actually people diving off the dock and swimming and it's a.
-[u1893 | 02:40:12.000-02:40:21.390 | DM] You know it's a, it is a place where like you know the common folk do go to swim occasionally um you know after work after you know the heat of the day.
-[u1894 | 02:40:23.460-02:40:35.850 | DM] So there are some bustle of activity, but it's a place where there's like lots of little nooks and crannies and things and all and warehouses, and so you can sort of get together, you know, in a little out of the way place.
-[u1895 | 02:40:39.570-02:40:42.510 | Wazir] Where are we here, so we were told that the boat dock here.
-[u1896 | 02:40:44.730-02:40:46.440 | Wazir] That what what's his name Orden.
-[u1897 | 02:40:47.910-02:40:48.210 | Unknown] yep.
-[u1898 | 02:40:49.980-02:40:51.510 | Trok] or like or once.
-[u1899 | 02:40:51.570-02:40:56.790 | Trok] said it, it came here and then left again that's all he knew I think.
-[u1900 | 02:40:58.590-02:41:00.450 | Trok] But for sure it headed here.
-[u1901 | 02:41:02.820-02:41:03.480 | Wazir] Although.
-[u1902 | 02:41:04.560-02:41:12.450 | Wazir] Perhaps we're overthinking this if our mysterious scroll writer is returning to a Venus to.
-[u1903 | 02:41:13.890-02:41:15.360 | Wazir] collect his goods.
-[u1904 | 02:41:17.190-02:41:17.850 | Ryu] tomorrow.
-[u1905 | 02:41:18.210-02:41:19.470 | Wazir] Why not just ambush him there.
-[u1906 | 02:41:21.510-02:41:24.630 | Ryu] I mean ambush why, why do you soon we're gonna have to fight.
-[u1907 | 02:41:25.920-02:41:27.630 | Wazir] an ambush doesn't always end in a fight.
-[u1908 | 02:41:29.250-02:41:31.110 | Ryu] Why can't we just have a conversation, Wazir?
-[u1909 | 02:41:36.870-02:41:41.850 | Wazir] I think I prefer if the conversation started with us not seen and.
-[u1910 | 02:41:41.880-02:41:42.750 | Wazir] didn't involve.
-[u1911 | 02:41:42.780-02:41:44.730 | Wazir] him having the opportunity to run off.
-[u1912 | 02:41:46.350-02:41:46.620 | Ryu] there.
-[u1913 | 02:41:48.570-02:41:49.080 | Ryu] um.
-[u1914 | 02:41:51.960-02:41:57.750 | Ryu] You know i'll have blue keep an eye out for him in the morning on the circle around see if we can see any any sign of them.
-[u1915 | 02:41:59.970-02:42:06.690 | Kaleho] Is there any place to hide near the entrance around the way to it it's kind of up a ways right.
-[u1916 | 02:42:07.170-02:42:11.580 | DM] So there's not really a place to hide right around.
-[u1917 | 02:42:12.780-02:42:13.710 | DM] Of Venus.
-[u1918 | 02:42:14.790-02:42:15.660 | DM] shop.
-[u1919 | 02:42:16.950-02:42:30.330 | DM] um it sort of opens on to a relatively open area, you know sort of on the edge of a cliff side there's plenty of places to hide around the sharks dock that are sort of within sight of the shop.
-[u1920 | 02:42:33.960-02:42:37.740 | DM] I mean you also get the sense of you know, would not be too happy if you.
-[u1921 | 02:42:38.490-02:42:40.620 | DM] yeah ambush this guy in our shop.
-[u1922 | 02:42:40.740-02:42:44.160 | Kaleho] yeah we can't be in our shop, we have to respect our friend.
-[u1923 | 02:42:57.990-02:42:59.430 | DM] So what's your plan.
-[u1924 | 02:43:02.370-02:43:07.920 | Ryu] I don't wanna I mean, are you guys curious about these shoals like a you can just like.
-[u1925 | 02:43:09.030-02:43:11.430 | Ryu] Do you think that the boat pass through it.
-[u1926 | 02:43:12.540-02:43:15.750 | Ryu] Or do you think that you can that the shoal is actually.
-[u1927 | 02:43:17.220-02:43:19.200 | Ryu] I guess I can send Turk out to go have a look.
-[u1928 | 02:43:20.040-02:43:20.520 | Wazir] i'll do that.
-[u1929 | 02:43:21.060-02:43:24.840 | Ryu] i'll do this I sent her out, I have to go and go and investigate the shoals.
-[u1930 | 02:43:25.140-02:43:28.860 | DM] Okay, I mean you've you've been passed, these shows.
-[u1931 | 02:43:28.890-02:43:29.700 | Ryu] Many times.
-[u1932 | 02:43:29.760-02:43:33.840 | Ryu] I know the show super well, but I don't think I may have never tried to swim directly into them.
-[u1933 | 02:43:34.620-02:43:36.720 | DM] Know probably haven't actually given.
-[u1934 | 02:43:36.720-02:43:39.630 | DM] That would be like completely foolhardy.
-[u1935 | 02:43:39.960-02:43:45.210 | Ryu] that's awesome so I also sent her out just to like kind of poke around there and see if it's actually rocks or not.
-[u1936 | 02:43:45.330-02:43:49.020 | DM] Okay, now it is actually rocks I mean i'm.
-[u1937 | 02:43:50.430-02:43:51.120 | Ryu] Okay let's get to know.
-[u1938 | 02:43:53.010-02:43:53.340 | Trok] So this.
-[u1939 | 02:43:55.110-02:43:58.800 | Trok] This old guy living in the former wizards tower.
-[u1940 | 02:44:00.150-02:44:03.390 | Trok] Has a phantom ship that he uses.
-[u1941 | 02:44:04.560-02:44:08.670 | Trok] to buy lead boxes to keep the knife from talking.
-[u1942 | 02:44:10.710-02:44:12.300 | Trok] Net somehow.
-[u1943 | 02:44:13.590-02:44:14.760 | Trok] it's gonna help us.
-[u1944 | 02:44:16.020-02:44:17.430 | Trok] protect the town.
-[u1945 | 02:44:19.020-02:44:20.760 | Trok] From talking fish know.
-[u1946 | 02:44:20.790-02:44:21.240 | Unknown] From.
-[u1947 | 02:44:24.060-02:44:25.050 | Trok] tiny vial of.
-[u1948 | 02:44:26.730-02:44:28.290 | Ryu] sentience water.
-[u1949 | 02:44:29.460-02:44:30.510 | Trok] How does this all come.
-[u1950 | 02:44:31.470-02:44:32.520 | Wazir] So this this.
-[u1951 | 02:44:33.090-02:44:35.280 | Trok] I gotta go smoke on the robot you guys.
-[u1952 | 02:44:35.580-02:44:36.750 | Wazir] This guy.
-[u1953 | 02:44:37.800-02:44:42.510 | Wazir] seems to have killed taken the bodies of several folk.
-[u1954 | 02:44:43.440-02:44:44.790 | Ryu] Why do you think that Wazir.
-[u1955 | 02:44:45.600-02:44:46.650 | Trok] it's in the scroll.
-[u1956 | 02:44:47.760-02:44:48.420 | Trok] he's trying to.
-[u1957 | 02:44:49.590-02:44:51.240 | Trok] resurrect his dead wife by.
-[u1958 | 02:44:52.650-02:44:53.760 | Trok] Water out of their mouth.
-[u1959 | 02:44:55.260-02:44:57.000 | Wazir] kids his dead wife and kids yeah.
-[u1960 | 02:44:57.480-02:44:59.970 | Wazir] Man, I think that that.
-[u1961 | 02:45:01.020-02:45:04.590 | Wazir] Six people in that drown flats word children a collapse.
-[u1962 | 02:45:04.620-02:45:06.900 | Wazir] Building bodies never found.
-[u1963 | 02:45:07.350-02:45:09.870 | Trok] So, probably this guy's behind that unless.
-[u1964 | 02:45:09.900-02:45:11.250 | Wazir] It was poking around.
-[u1965 | 02:45:11.640-02:45:18.510 | Trok] Unless we're mixing things up are there, multiple actors, maybe this guy that would lead boxes on our side.
-[u1966 | 02:45:19.350-02:45:22.980 | Kaleho] There is somebody who the he is scared of.
-[u1967 | 02:45:24.360-02:45:25.080 | Kaleho] The.
-[u1968 | 02:45:25.140-02:45:31.320 | Kaleho] The marid, Nimessa, is angry.
-[u1969 | 02:45:32.340-02:45:34.380 | Wazir] And he says the genie summit.
-[u1970 | 02:45:34.830-02:45:36.330 | Kaleho] yeah i'm.
-[u1971 | 02:45:36.900-02:45:39.210 | Wazir] done with the water creature you saw, Kaleho.
-[u1972 | 02:45:40.740-02:45:44.190 | Wazir] I think he summons Nimessa to go steal the Sentient Ocean.
-[u1973 | 02:45:45.330-02:45:49.200 | Kaleho] He has 1001 days, three years.
-[u1974 | 02:45:50.520-02:45:50.700 | Trok] For.
-[u1975 | 02:45:50.940-02:45:58.890 | Wazir] The master clearly did not like doing what she did, although I suspect i'm just guessing here, but I think that ring.
-[u1976 | 02:45:59.310-02:46:00.390 | Trok] Ovina off.
-[u1977 | 02:46:00.450-02:46:01.530 | Unknown] And he gave to Ovina.
-[u1978 | 02:46:02.550-02:46:03.360 | Wazir] Is the.
-[u1979 | 02:46:04.380-02:46:09.240 | Wazir] Is the ring Airion's ring?
-[u1980 | 02:46:10.920-02:46:14.610 | Wazir] mighty what is magical what a mess up might have destroyed the magic but.
-[u1981 | 02:46:15.900-02:46:17.100 | Wazir] It might be worth checking that.
-[u1982 | 02:46:17.520-02:46:18.240 | Trok] And what does that ring.
-[u1983 | 02:46:19.860-02:46:21.480 | Wazir] A veto might have destroyed the magic.
-[u1984 | 02:46:23.160-02:46:23.880 | Wazir] Well Mike.
-[u1985 | 02:46:25.470-02:46:27.420 | Wazir] hello, can you give us cast the tight like.
-[u1986 | 02:46:27.990-02:46:30.210 | Wazir] yeah he's really tall with with you.
-[u1987 | 02:46:31.530-02:46:34.860 | Wazir] wearing detect magic it's kind of useless, not to have that spell.
-[u1988 | 02:46:35.490-02:46:49.680 | Kaleho] I I know nothing of of magic it looks normal to me look normal to the blacksmith but this could be powerful magic that obscures, just like the boat can be obscured from somebody.
-[u1989 | 02:46:54.240-02:46:57.060 | Wazir] To artifices even get the text magic.
-[u1990 | 02:46:58.800-02:47:04.230 | Wazir] I forget how do I spell I don't even know I don't really know how I my spells work I don't know if I can learn to take magic.
-[u1991 | 02:47:08.070-02:47:12.120 | Ryu] It but why did they, why did they want the Center notion why they want it, though, so.
-[u1992 | 02:47:12.420-02:47:13.200 | Wazir] I think.
-[u1993 | 02:47:13.290-02:47:18.450 | Wazir] I think so. First of all, I think the knife, the thing that's haunting his dreams, is Gazankoa.
-[u1994 | 02:47:20.010-02:47:21.060 | Trok] Which is what.
-[u1995 | 02:47:21.480-02:47:28.050 | Wazir] The creature in this scroll that's actually doing it's actually I think controlling him at some level.
-[u1996 | 02:47:29.070-02:47:29.790 | Trok] Is a knife.
-[u1997 | 02:47:30.510-02:47:33.270 | Wazir] I don't know if it's a knife it's a it's a somebody.
-[u1998 | 02:47:33.480-02:47:35.670 | Kaleho] Right, you have to make sacrifices to it.
-[u1999 | 02:47:36.030-02:47:40.800 | Wazir] But Gazankoa, I think, is the true danger here.
-[u2000 | 02:47:41.400-02:47:42.690 | Wazir] A lot of us grow writer.
-[u2001 | 02:47:43.050-02:47:44.310 | Trok] doesn't coach Co.
-[u2002 | 02:47:44.370-02:47:45.240 | Wazir] Gazankoa.
-[u2003 | 02:47:45.990-02:47:49.290 | Trok] And suddenly that name sounds a little bit lizard ish.
-[u2004 | 02:47:50.100-02:47:56.880 | Wazir] Gazankoa fills his dreams with a turbulent, never-ending sea. Gazankoa has an ulterior motive.
-[u2005 | 02:47:58.260-02:48:00.480 | Trok] hey TIM is is this in fact a.
-[u2006 | 02:48:01.560-02:48:03.450 | Trok] lizard lore related thing.
-[u2007 | 02:48:04.140-02:48:06.150 | DM] Nothing that you've heard of before.
-[u2008 | 02:48:08.640-02:48:11.610 | Ryu] Wait so this this this same.
-[u2009 | 02:48:13.140-02:48:15.300 | Ryu] illusion of the end the seat up.
-[u2010 | 02:48:15.480-02:48:17.790 | Wazir] You guess what I can cast the tech magic.
-[u2011 | 02:48:20.850-02:48:24.720 | Wazir] I even had an unprepared style slot that I just click the tech magic with.
-[u2012 | 02:48:26.520-02:48:27.630 | Trok] What a coincidence.
-[u2013 | 02:48:27.780-02:48:28.620 | Wazir] What a coincidence.
-[u2014 | 02:48:29.040-02:48:31.440 | Trok] But we're not in the blackness shop anymore.
-[u2015 | 02:48:32.310-02:48:35.580 | Wazir] yeah but it might be worth knocking on her door and and.
-[u2016 | 02:48:36.000-02:48:37.320 | Kaleho] She talked to you.
-[u2017 | 02:48:38.610-02:48:41.520 | Wazir] Think she'd um yeah I think so.
-[u2018 | 02:48:42.210-02:48:43.350 | Kaleho] You may need to.
-[u2019 | 02:48:43.710-02:48:44.610 | Trok] Such a charmer.
-[u2020 | 02:48:45.900-02:48:48.840 | Kaleho] Be prepared the she's a businesswoman.
-[u2021 | 02:48:50.280-02:48:50.940 | Kaleho] So.
-[u2022 | 02:48:51.540-02:48:56.940 | Wazir] i'm simply going to offer to see if she has an unexpectedly powerful magic item in your possession or not.
-[u2023 | 02:48:58.080-02:48:59.010 | Wazir] Who would say no to that.
-[u2024 | 02:49:01.320-02:49:03.480 | Kaleho] it's more valuable to her if it's magical.
-[u2025 | 02:49:08.970-02:49:10.050 | Wazir] i'm going to go knock on her door.
-[u2026 | 02:49:12.870-02:49:15.930 | DM] Okay, so what is so was there is going to knock.
-[u2027 | 02:49:15.990-02:49:21.540 | Wazir] I mean you guys can come up callow you might I think I think we find out what the story with the ring is first.
-[u2028 | 02:49:22.680-02:49:23.010 | DM] Okay.
-[u2029 | 02:49:24.210-02:49:27.030 | Wazir] And then I think we can make better plans, because.
-[u2030 | 02:49:27.510-02:49:29.700 | Wazir] there's a few other things i'd actually like to investigate.
-[u2031 | 02:49:30.150-02:49:32.820 | Wazir] Amongst her stuff let's see how this goes.
-[u2032 | 02:49:35.130-02:49:37.830 | DM] Ah, she are all of you, going.
-[u2033 | 02:49:39.450-02:49:40.620 | Ryu] I am not gonna go.
-[u2034 | 02:49:41.970-02:49:43.470 | Kaleho] Oh, I know her.
-[u2035 | 02:49:44.400-02:49:44.580 | Unknown] Oh.
-[u2036 | 02:49:46.740-02:49:50.430 | Ryu] Yeah, let's go try to find Yaz.
-[u2037 | 02:49:50.820-02:49:51.840 | Wazir] Oh yeah that's a good idea.
-[u2038 | 02:49:51.900-02:49:53.040 | Wazir] You should go play yes.
-[u2039 | 02:49:53.160-02:49:56.220 | Ryu] Good calls go to the toilet because, like we're like we're getting it's getting late like.
-[u2040 | 02:49:56.610-02:49:57.360 | Kaleho] Yes.
-[u2041 | 02:49:57.420-02:49:58.020 | Wazir] let's go back.
-[u2042 | 02:49:58.560-02:49:59.790 | DM] Like, all this.
-[u2043 | 02:49:59.970-02:50:02.190 | DM] Oh gatza towers.
-[u2044 | 02:50:03.030-02:50:07.590 | DM] let's go find yes okay so Wazir and kind of knock on.
-[u2045 | 02:50:09.630-02:50:09.900 | DM] On.
-[u2046 | 02:50:11.070-02:50:21.660 | DM] Ovina's door again, and she opens it up and initially sees Kaleho and is like, what are you doing back, and then sees Wazir, like, what are you doing here.
-[u2047 | 02:50:23.970-02:50:24.480 | Wazir] Ovina.
-[u2048 | 02:50:27.420-02:50:29.070 | DM] Ovina, Ovina.
-[u2049 | 02:50:29.190-02:50:31.200 | Wazir] I would tell her name I just heard.
-[u2050 | 02:50:33.750-02:50:34.290 | Wazir] Ovina.
-[u2051 | 02:50:38.190-02:50:38.880 | Wazir] Kaleho.
-[u2052 | 02:50:41.790-02:50:44.550 | Wazir] mentioned that you had a very valuable ring.
-[u2053 | 02:50:47.490-02:50:49.350 | DM] And, did you now cow.
-[u2054 | 02:50:51.120-02:50:58.110 | Kaleho] I think we can help you make more money here i'm out you have much to gain by this.
-[u2055 | 02:50:59.040-02:51:06.000 | Wazir] i'm in exchange, so there is a i've been chasing a rumor of a possibly magical.
-[u2056 | 02:51:08.370-02:51:09.540 | Wazir] i'd like to make a deal with you.
-[u2057 | 02:51:11.700-02:51:19.380 | Wazir] I will detect magic and tell you, if your ring is magical and exchange All I ask is.
-[u2058 | 02:51:20.520-02:51:25.620 | Wazir] 20 minutes to inspect it and also inspect the box, that you are building.
-[u2059 | 02:51:35.700-02:51:36.570 | DM] Come outside.
-[u2060 | 02:51:38.310-02:51:38.970 | DM] carry that.
-[u2061 | 02:51:42.330-02:51:42.810 | Trok] goes now.
-[u2062 | 02:51:43.920-02:51:47.220 | DM] She puts the ring in the box carries it outside.
-[u2063 | 02:51:51.540-02:51:55.230 | DM] opens the box says fine closes her doors that's fine.
-[u2064 | 02:51:56.520-02:51:58.020 | DM] I don't think it's magic but.
-[u2065 | 02:52:00.900-02:52:02.460 | DM] i'm not going to get in your way.
-[u2066 | 02:52:03.840-02:52:04.650 | DM] Was the air.
-[u2067 | 02:52:06.450-02:52:11.640 | Wazir] I appreciate, I appreciate you, as always, for your charming grace.
-[u2068 | 02:52:14.730-02:52:16.590 | DM] So you cast the magic yeah.
-[u2069 | 02:52:16.620-02:52:18.360 | Wazir] cast as a ritual right okay.
-[u2070 | 02:52:18.600-02:52:20.160 | DM] So you did that, before you came in.
-[u2071 | 02:52:22.050-02:52:23.130 | DM] The ring is not magical.
-[u2072 | 02:52:25.020-02:52:26.250 | Wazir] Does the box.
-[u2073 | 02:52:26.310-02:52:26.610 | Trok] well.
-[u2074 | 02:52:26.670-02:52:34.320 | Wazir] So I don't I didn't really think the rain was this I don't think it was still magical things does the box block magic.
-[u2075 | 02:52:36.030-02:52:36.270 | Wazir] I will.
-[u2076 | 02:52:36.810-02:52:38.250 | DM] Yes, yes okay.
-[u2077 | 02:52:42.930-02:52:49.680 | Wazir] To is the ring, by any chance, look like it used to be magical is there any lingering.
-[u2078 | 02:52:51.210-02:52:52.080 | DM] Are kind of check.
-[u2079 | 02:53:02.070-02:53:08.070 | DM] I mean it's been taken apart i'm not really sure about the ring.
-[u2080 | 02:53:09.570-02:53:15.630 | DM] The one thing that you would say is that, like the so there's three sapphires there's one bigger one and two smaller.
-[u2081 | 02:53:15.630-02:53:16.830 | Wazir] ones, the.
-[u2082 | 02:53:18.180-02:53:21.480 | DM] If anything, used to be magical it was probably the bigger sapphire.
-[u2083 | 02:53:25.710-02:53:31.770 | Wazir] Second question is the ring it seems all does it like is it is it I guess it's a point gold band right.
-[u2084 | 02:53:31.890-02:53:39.810 | DM] Well it's been melted down and reformed into a plain old bed, and whatever it was before it's no longer terminal right.
-[u2085 | 02:53:40.440-02:53:42.420 | Wazir] Not super useful then.
-[u2086 | 02:53:45.960-02:53:46.230 | Unknown] Okay.
-[u2087 | 02:53:47.340-02:53:54.630 | Wazir] um so possibly one of the sapphires used to be magical but is not still.
-[u2088 | 02:53:56.460-02:54:00.420 | Wazir] um the box how big is it exactly.
-[u2089 | 02:54:02.220-02:54:02.550 | DM] Like.
-[u2090 | 02:54:03.810-02:54:10.470 | DM] I don't know like that, or you can't really see like slightly bigger than a breadbox okay.
-[u2091 | 02:54:11.190-02:54:12.570 | Wazir] And I guess.
-[u2092 | 02:54:13.620-02:54:18.900 | Wazir] Like I mean it's just led wind, but otherwise nothing interesting about it.
-[u2093 | 02:54:19.290-02:54:21.090 | Wazir] yeah okay so it's like.
-[u2094 | 02:54:21.120-02:54:26.490 | DM] A plane plane what in solid wood in chest mind with Latin.
-[u2095 | 02:54:28.140-02:54:29.520 | Wazir] Nothing very much to learn.
-[u2096 | 02:54:32.460-02:54:34.530 | Ryu] Well, now we're learning that legend black magic.
-[u2097 | 02:54:35.550-02:54:35.940 | Ryu] Okay.
-[u2098 | 02:54:37.830-02:54:40.170 | Wazir] it's it's I mean that is a thing.
-[u2099 | 02:54:40.410-02:54:41.520 | DM] yeah that is a thing.
-[u2100 | 02:54:42.060-02:54:43.290 | DM] That can have a layer of lead.
-[u2101 | 02:54:45.510-02:54:46.500 | DM] can block magic.
-[u2102 | 02:54:47.610-02:54:52.950 | Wazir] But this is at least is clearly is a thick enough, where I mean I did, it would succeed.
-[u2103 | 02:54:53.430-02:54:54.900 | Wazir] Yes, all right.
-[u2104 | 02:54:57.000-02:54:57.900 | Ryu] Do we find yes TIM.
-[u2105 | 02:54:58.680-02:55:02.940 | DM] yeah so I mean you've you've probably heard of him at least.
-[u2106 | 02:55:04.020-02:55:06.450 | Ryu] uh yeah try and track and I should know where he is.
-[u2107 | 02:55:06.660-02:55:10.530 | DM] yeah so he lives in the towers like up at the top of that i'm.
-[u2108 | 02:55:11.730-02:55:17.610 | DM] up at the top here, and so you sort of come up this way, and you make your way to his tower he lives.
-[u2109 | 02:55:18.180-02:55:27.540 | DM] He lives like this, these ones like here are like the one still maintained by the town and he lives sort of out out here like.
-[u2110 | 02:55:28.440-02:55:36.720 | DM] One of the taller and and better maintained wooden wooden towers and you actually as you approach, you can see that he is.
-[u2111 | 02:55:37.350-02:55:55.920 | DM] sitting so so this this particular tower has like like a little windows walk on the top like not only is there, like enclosed interior watching platform that has big windows, but there's this like fenced in platform on the top of the roof itself that is.
-[u2112 | 02:55:58.560-02:56:05.880 | DM] That is just completely open but but also a place where you can watch and you can see that he so he's sitting.
-[u2113 | 02:56:09.270-02:56:13.980 | DM] meditating on at or watching out on the ocean at the.
-[u2114 | 02:56:16.980-02:56:30.270 | DM] very, very top of the of the tower and he is I mean he's quite old he's like a much older dude i'm wearing these grey clothes, you know Gray robes.
-[u2115 | 02:56:31.860-02:56:34.380 | DM] you're tied around his waist human.
-[u2116 | 02:56:35.400-02:56:36.840 | DM] Short white hair.
-[u2117 | 02:56:39.030-02:56:47.460 | DM] Slightly type like you know short white hair like slightly longer in the back i'm tied in not in a sort of thin ponytail.
-[u2118 | 02:56:50.430-02:56:52.230 | DM] sort of pale wrinkled skin.
-[u2119 | 02:56:54.060-02:56:54.960 | DM] Turn you know.
-[u2120 | 02:56:56.160-02:56:58.230 | DM] turns as you approach.
-[u2121 | 02:56:59.400-02:57:04.080 | DM] And kind of looks you know turns from the ocean and and looks down at you.
-[u2122 | 02:57:05.850-02:57:06.600 | DM] just waiting.
-[u2123 | 02:57:07.770-02:57:10.260 | Ryu] Hail, Yaz. It's Ryu and Trok.
-[u2124 | 02:57:16.140-02:57:16.650 | DM] He sort of.
-[u2125 | 02:57:19.410-02:57:24.270 | DM] leans lean on is on the railing at a minute and says.
-[u2126 | 02:57:26.820-02:57:28.380 | DM] The sun will be setting Satan.
-[u2127 | 02:57:29.430-02:57:30.420 | DM] Come sit with me.
-[u2128 | 02:57:31.830-02:57:32.550 | Ryu] It would be an honor.
-[u2129 | 02:57:35.100-02:57:36.630 | Ryu] climb up the tower.
-[u2130 | 02:57:38.580-02:57:51.900 | DM] So this particular tower has a like there's a you go in there's like an open archway and then a staircase that goes, all the way around to the top and then there's like an inner tower that is like his private living space.
-[u2131 | 02:57:55.290-02:57:57.030 | Ryu] Is there like an epic view of the sunset.
-[u2132 | 02:57:57.060-02:58:05.940 | DM] yeah there's an incredible view um so so you're looking out you're looking basically do West the sun is going straight into the ocean um.
-[u2133 | 02:58:07.470-02:58:14.130 | DM] You know he's watching there's a there's a part of Wales far in the distance and you can see their their spray from the.
-[u2134 | 02:58:15.390-02:58:26.010 | DM] From the blow and he actually turns when you arrive at the top, the first thing he does he turns to to blue I assume wait.
-[u2135 | 02:58:26.280-02:58:26.580 | Ryu] yeah.
-[u2136 | 02:58:26.790-02:58:28.530 | DM] I assumed blue was back right because.
-[u2137 | 02:58:28.620-02:58:30.240 | Ryu] Blue is black yeah but it's bad yeah.
-[u2138 | 02:58:31.860-02:58:36.930 | DM] He says greetings, it is an honor to welcome you.
-[u2139 | 02:58:38.490-02:58:40.080 | DM] and your human companions.
-[u2140 | 02:58:41.730-02:58:42.300 | Ryu] kaku.
-[u2141 | 02:58:42.870-02:58:43.440 | Unknown] set.
-[u2142 | 02:58:45.420-02:58:48.810 | Ryu] Blue blue kind of you know flies happily around yes.
-[u2143 | 02:58:52.320-02:58:54.840 | DM] And he just sits down, looking at the ocean.
-[u2144 | 02:58:57.900-02:59:02.310 | Ryu] I can see why you picked this as your tower, this has got to be one of the best views in all Hamri.
-[u2145 | 02:59:05.130-02:59:06.000 | DM] It is just.
-[u2146 | 02:59:07.380-02:59:09.780 | DM] Watch, we can talk when it's dark.
-[u2147 | 02:59:11.190-02:59:11.970 | Ryu] let's watch then.
-[u2148 | 02:59:13.020-02:59:18.150 | DM] You set for you know 20 minutes, with the sun slowly slowly sinks into the ocean.
-[u2149 | 02:59:20.460-02:59:21.420 | Unknown] Later this time.
-[u2150 | 02:59:22.740-02:59:39.990 | Ryu] During that this 20 minutes I like I basically tell blue just go go play go do whatever you want and blue like starts taking off and you know heads down flying over the water and then at some point as he's like flying over the water like turns into a shark and my fault like.
-[u2151 | 02:59:40.440-02:59:43.620 | Ryu] Like goes cruises and then goes into the water but.
-[u2152 | 02:59:43.830-02:59:45.300 | Ryu] Like disappears as a shark.
-[u2153 | 02:59:45.900-02:59:46.860 | Ryu] And Ross who saw.
-[u2154 | 02:59:47.100-02:59:50.910 | Ryu] yeah i'm curious, would you as his reaction is when he when he watches that when he sees that.
-[u2155 | 02:59:51.000-02:59:54.240 | DM] He he sort of chuckles smiles.
-[u2156 | 02:59:57.300-03:00:03.000 | DM] And after the sunsets he you know in this sort of afterglow of the sunset he turns and looks at you and.
-[u2157 | 03:00:04.680-03:00:06.960 | DM] What brings you here, besides the view.
-[u2158 | 03:00:10.320-03:00:10.770 | Ryu] well.
-[u2159 | 03:00:12.570-03:00:23.970 | Ryu] There are some strange things happening. I mean, there are always strange things happening, it seems, but you may have seen that last week Trok, myself, and Wazir were involved in a
-[u2160 | 03:00:25.590-03:00:27.480 | Ryu] battle, but the was.
-[u2161 | 03:00:27.840-03:00:30.450 | Ryu] awful yeah yeah.
-[u2162 | 03:00:32.700-03:00:38.400 | Ryu] It would appear that the appearance of that water elemental may have something to do with.
-[u2163 | 03:00:40.260-03:00:47.370 | Ryu] A fellow and a gentleman older man, an old now he's been living in what we've been learning is.
-[u2164 | 03:00:48.630-03:00:50.040 | Ryu] what's the name of the wizard again as your.
-[u2165 | 03:00:50.070-03:00:58.290 | Ryu] Airion's old tower. Did you know about this old tower on the north side of the point?
-[u2166 | 03:00:59.730-03:01:00.300 | Unknown] I know.
-[u2167 | 03:01:01.470-03:01:02.040 | DM] A little.
-[u2168 | 03:01:03.570-03:01:03.810 | DM] hey.
-[u2169 | 03:01:06.210-03:01:11.700 | DM] I have heard of of the wow as well on the splinters.
-[u2170 | 03:01:12.630-03:01:13.830 | DM] Is that what you've heard you.
-[u2171 | 03:01:14.850-03:01:17.850 | Ryu] I mean that's part of the story, we were learning about have you been to the well.
-[u2172 | 03:01:19.560-03:01:24.480 | DM] In my youth when I could travel, yes I look for it, like many do I.
-[u2173 | 03:01:25.950-03:01:26.970 | DM] could not find it.
-[u2174 | 03:01:30.120-03:01:31.290 | DM] I think it may be gone.
-[u2175 | 03:01:34.410-03:01:35.700 | DM] But there is.
-[u2176 | 03:01:36.120-03:01:41.520 | DM] Something that lingers there on the splinters some taste in the air.
-[u2177 | 03:01:45.330-03:01:46.260 | Trok] What do you think it means.
-[u2178 | 03:01:52.920-03:01:53.100 | DM] I.
-[u2179 | 03:01:55.140-03:01:56.280 | DM] am not one to.
-[u2180 | 03:01:58.470-03:02:02.940 | DM] ascribe meaning to things, it is a.
-[u2181 | 03:02:04.530-03:02:08.850 | DM] It is a mystery like much of what we see out there.
-[u2182 | 03:02:09.630-03:02:11.370 | Unknown] Some mystery like your friend.
-[u2183 | 03:02:12.840-03:02:13.380 | DM] Who can.
-[u2184 | 03:02:14.610-03:02:18.960 | DM] Be many things at once, some mystery like the.
-[u2185 | 03:02:20.910-03:02:22.260 | DM] Strange things that.
-[u2186 | 03:02:23.460-03:02:24.750 | DM] come from the West.
-[u2187 | 03:02:27.720-03:02:27.960 | DM] Was.
-[u2188 | 03:02:27.990-03:02:34.500 | DM] Different it was a place not like this place not like this world.
-[u2189 | 03:02:36.690-03:02:43.650 | DM] But what does any of this mean it means the world is much bigger than any of us.
-[u2190 | 03:02:44.700-03:02:49.110 | DM] there's more to it than our mortal minds can understand and there always will be.
-[u2191 | 03:02:55.500-03:02:57.840 | Trok] seen anything strange come out of the West lately.
-[u2192 | 03:03:00.690-03:03:02.040 | DM] I thought was strange.
-[u2193 | 03:03:03.930-03:03:04.920 | DM] 10 days ago.
-[u2194 | 03:03:06.060-03:03:06.780 | DM] That battle.
-[u2195 | 03:03:08.490-03:03:10.410 | Ryu] The scene in the other strange boats.
-[u2196 | 03:03:12.300-03:03:14.370 | Ryu] Boats second pass through the shoals.
-[u2197 | 03:03:18.660-03:03:19.410 | DM] No.
-[u2198 | 03:03:20.580-03:03:22.500 | DM] That would indeed be strange.
-[u2199 | 03:03:25.590-03:03:34.620 | Ryu] Part of what's really strange is whoever's been living in Airion's old tower, we think he's been around
-[u2200 | 03:03:35.790-03:03:39.810 | Ryu] We think he's got a boat that can pass through rock.
-[u2201 | 03:03:41.130-03:03:42.930 | Ryu] We think he somehow connected to that.
-[u2202 | 03:03:44.160-03:03:45.210 | Ryu] Water elemental.
-[u2203 | 03:03:47.100-03:03:50.040 | Ryu] We think he may even be responsible for the murder of some.
-[u2204 | 03:03:54.450-03:03:58.410 | Ryu] some people down by the Drowned Flats.
-[u2205 | 03:04:00.750-03:04:01.650 | Ryu] and
-[u2206 | 03:04:02.940-03:04:07.380 | Ryu] If there's anything that you know or that you've seen we'd be keen to learn about it.
-[u2207 | 03:04:17.820-03:04:19.110 | DM] What have I seen well.
-[u2208 | 03:04:22.800-03:04:25.080 | DM] See the sunset every day.
-[u2209 | 03:04:26.880-03:04:29.370 | DM] See the wells the dolphins.
-[u2210 | 03:04:30.540-03:04:32.190 | DM] Flying fish sometimes.
-[u2211 | 03:04:35.760-03:04:37.920 | DM] You don't know what i've seen that might be.
-[u2212 | 03:04:39.540-03:04:41.040 | DM] Connected to all this.
-[u2213 | 03:04:44.790-03:04:47.580 | Ryu] Is there anything else you know about the tower, Airion's tower?
-[u2214 | 03:04:48.990-03:04:51.330 | Ryu] It must have been here, as long as you can remember.
-[u2215 | 03:04:54.870-03:04:58.170 | DM] I was always more fascinated in these stories of this well.
-[u2216 | 03:04:59.730-03:05:02.760 | Ryu] Tell us more than why were you interested in this well as a child.
-[u2217 | 03:05:04.740-03:05:05.130 | DM] wow.
-[u2218 | 03:05:11.130-03:05:12.000 | Ryu] How can we find it.
-[u2219 | 03:05:15.000-03:05:15.030 | Unknown] I.
-[u2220 | 03:05:16.260-03:05:18.150 | DM] don't know if one can still find it but.
-[u2221 | 03:05:19.260-03:05:24.630 | DM] There is an old, the only structures on the splinters that i'm aware of our.
-[u2222 | 03:05:26.670-03:05:27.630 | DM] The lighthouse.
-[u2223 | 03:05:28.770-03:05:29.400 | DM] and
-[u2224 | 03:05:30.540-03:05:35.250 | DM] An old watchers tower, one of the old so.
-[u2225 | 03:05:38.640-03:05:39.030 | DM] That.
-[u2226 | 03:05:41.820-03:05:46.020 | DM] No, I explored in my youth once and it seemed.
-[u2227 | 03:05:47.340-03:05:49.260 | DM] Like a much older tower than.
-[u2228 | 03:05:50.460-03:05:51.420 | DM] The rest of the.
-[u2229 | 03:05:53.190-03:05:54.420 | DM] towers around here.
-[u2230 | 03:06:01.980-03:06:02.190 | Unknown] Sorry.
-[u2231 | 03:06:03.240-03:06:07.860 | DM] But the story is of the wow of a place where you could draw water from anywhere.
-[u2232 | 03:06:09.570-03:06:12.270 | DM] has been fascinated by water by the tales of.
-[u2233 | 03:06:15.030-03:06:22.380 | DM] What may live fire to the West, the rumors of a of an ocean, that is somehow alive.
-[u2234 | 03:06:25.920-03:06:28.620 | DM] And I wondered if Perhaps this could be a way to.
-[u2235 | 03:06:30.540-03:06:30.870 | DM] Get.
-[u2236 | 03:06:32.220-03:06:33.150 | DM] That water.
-[u2237 | 03:06:34.950-03:06:35.490 | DM] Always.
-[u2238 | 03:06:36.630-03:06:48.990 | DM] desperately wanted to know what a living ocean sounds like or smells like what does that even mean living ocean, the Ocean is already alive.
-[u2239 | 03:06:49.860-03:07:02.160 | Ryu] What if I told you guys that we held that bottle a bottle of this living ocean and that the folks that we ran into swallowed it and drag it and swim back to wherever it came from far out to the West.
-[u2240 | 03:07:04.500-03:07:05.160 | DM] amazing.
-[u2241 | 03:07:06.450-03:07:09.390 | Ryu] I held it in my hand I was tempted to drink it myself at this say.
-[u2242 | 03:07:10.200-03:07:11.070 | DM] I would have.
-[u2243 | 03:07:12.030-03:07:14.760 | Ryu] On kind of regretful that I didn't, to be honest.
-[u2244 | 03:07:15.600-03:07:15.960 | DM] What would.
-[u2245 | 03:07:16.500-03:07:16.920 | DM] What would it.
-[u2246 | 03:07:18.420-03:07:21.240 | Ryu] I don't fucking mountain man, but it would have been pretty cool.
-[u2247 | 03:07:23.880-03:07:25.410 | Ryu] it's probably my biggest regret for eight.
-[u2248 | 03:07:26.790-03:07:27.810 | Ryu] Not drinking that bottle.
-[u2249 | 03:07:28.410-03:07:29.010 | Unknown] ever.
-[u2250 | 03:07:30.630-03:07:33.990 | DM] sell out West and learn more.
-[u2251 | 03:07:36.690-03:07:37.710 | DM] I would love to know.
-[u2252 | 03:07:38.730-03:07:42.600 | Ryu] Yes, you should come down with me and Trok some time will take you out Far West.
-[u2253 | 03:07:46.320-03:07:49.500 | DM] I don't know us a long journey is in these old bones anymore.
-[u2254 | 03:07:50.910-03:07:52.200 | Ryu] Up pretty good with us.
-[u2255 | 03:07:52.890-03:07:55.140 | Trok] and blue one last great adventure.
-[u2256 | 03:07:55.980-03:07:56.580 | DM] Maybe hey.
-[u2257 | 03:08:00.570-03:08:03.930 | Ryu] Meta game was there anything else we're supposed to ask you, as now.
-[u2258 | 03:08:05.310-03:08:07.020 | Wazir] I am yeah I can't think of anything else.
-[u2259 | 03:08:09.090-03:08:10.200 | Unknown] Just old hours.
-[u2260 | 03:08:12.090-03:08:12.600 | Ryu] and
-[u2261 | 03:08:14.190-03:08:16.410 | Ryu] Let me know if there's any kind of what kind of fish, you like.
-[u2262 | 03:08:22.350-03:08:23.610 | DM] Well, my favorite is.
-[u2263 | 03:08:24.840-03:08:26.610 | DM] In the spring, when the herring run.
-[u2264 | 03:08:28.680-03:08:30.240 | DM] pets in a bunch of those.
-[u2265 | 03:08:31.290-03:08:32.370 | DM] saw tagging them.
-[u2266 | 03:08:33.750-03:08:35.310 | DM] On some nice fresh bread.
-[u2267 | 03:08:37.080-03:08:38.370 | Ryu] i'll bring you something goodness week.
-[u2268 | 03:08:39.840-03:08:44.580 | Ryu] i'll go next time I got for official be sure to come by, but only if you let us watch the sunset with you.
-[u2269 | 03:08:46.230-03:08:47.580 | DM] I would welcome the company.
-[u2270 | 03:08:49.920-03:08:50.550 | Ryu] will be back.
-[u2271 | 03:08:54.000-03:08:54.690 | DM] Bring blue.
-[u2272 | 03:08:56.460-03:09:00.720 | Ryu] I think a blue probably visits here more than I think than I even know have.
-[u2273 | 03:09:00.810-03:09:01.620 | DM] have seen.
-[u2274 | 03:09:03.600-03:09:07.980 | DM] I have seen strange osprey flying out far against the sun.
-[u2275 | 03:09:08.880-03:09:09.300 | Unknown] might be.
-[u2276 | 03:09:13.950-03:09:14.550 | DM] Some time to.
-[u2277 | 03:09:15.000-03:09:19.050 | DM] fly out at sunset to watch the sun from the ocean.
-[u2278 | 03:09:20.040-03:09:24.360 | Ryu] You does but there may be other aspects you like him, I don't know.
-[u2279 | 03:09:24.870-03:09:27.150 | Ryu] hmm keep an eye out for me thing.
-[u2280 | 03:09:27.570-03:09:27.990 | DM] I well.
-[u2281 | 03:09:28.050-03:09:28.860 | Ryu] you've been out for me.
-[u2282 | 03:09:31.320-03:09:31.800 | Ryu] All right.
-[u2283 | 03:09:32.940-03:09:33.570 | Ryu] Where are we meeting.
-[u2284 | 03:09:36.240-03:09:39.870 | DM] I mean now now it's like dark right i'm guessing you're probably meeting.
+[u2420 | 03:18:59.130-03:19:01.170 | Trok] Okay, so the next morning we wait.
+[u2421 | 03:19:01.410-03:19:03.780 | Wazir] hold on i'm just tweaking my spouse for a moment.
+[u2422 | 03:19:06.480-03:19:08.700 | Wazir] i'm just trying to decide if it's worth having like.
+[u2423 | 03:19:14.370-03:19:16.080 | DM] Who is so.
+[u2424 | 03:19:18.180-03:19:22.110 | DM] Okay, can I was hiding or wait yes.
+[u2425 | 03:19:22.320-03:19:24.150 | Kaleho] Yes, kayla will be hiding.
+[u2426 | 03:19:25.800-03:19:29.850 | Kaleho] near where I assume you will be the one holding the conversation.
+[u2427 | 03:19:30.990-03:19:33.840 | Ryu] I don't know, maybe you should be with zero.
+[u2428 | 03:19:34.350-03:19:35.070 | Kaleho] or zero.
+[u2429 | 03:19:36.870-03:19:37.290 | Ryu] C.
+[u2430 | 03:19:38.940-03:19:41.430 | Wazir] Wazir can be the one that having the conversation.
+[u2431 | 03:19:42.300-03:19:42.990 | Kaleho] So i'll be out.
+[u2432 | 03:19:44.100-03:19:45.990 | Wazir] With zero in Armor is a little intimidating.
+[u2433 | 03:19:48.570-03:19:49.020 | Wazir] That might be.
+[u2434 | 03:19:49.920-03:19:50.550 | Ryu] It can be real.
+[u2435 | 03:19:52.830-03:19:57.150 | Trok] I mean we may need to intimidate and we shouldn't at first.
+[u2436 | 03:20:02.550-03:20:12.630 | DM] Okay, so anybody who's hiding, so this is the next morning y'all prepared rested ready to go um anybody who's hiding make a stuff.
+[u2437 | 03:20:14.220-03:20:15.090 | Wazir] thing.
+[u2438 | 03:20:20.130-03:20:22.410 | Unknown] Oh i'm just finishing my spell tweak here.
+[u2439 | 03:20:27.000-03:20:32.910 | Ryu] yeah but i've got blue making big circles looking for any kind of ships coming into harbor.
+[u2440 | 03:20:33.450-03:20:37.230 | DM] Okay, so early I assume you're up fairly early for.
+[u2441 | 03:20:37.230-03:20:49.410 | DM] The plan like early in the morning i'm kind of I mean that you know there's there's the leg morning rush like the pre dawn rush as a bunch of the i'm.
+[u2442 | 03:20:50.520-03:21:00.030 | DM] a bunch of the fishing boats go out early and then like around dawn just after dawn there's always a bit of a law and in this.
+[u2443 | 03:21:01.170-03:21:02.820 | DM] Just post on la.
+[u2444 | 03:21:04.230-03:21:13.890 | DM] Is you're still making your way from the Leviathan, to the Shark's Dock along the docks i'm blue comes down to your shoulder and.
+[u2445 | 03:21:15.420-03:21:16.920 | DM] Reports to you that.
+[u2446 | 03:21:22.980-03:21:27.270 | DM] That there's a ship coming from the north just rounding this this.
+[u2447 | 03:21:29.190-03:21:30.990 | DM] point here moving fast.
+[u2448 | 03:21:34.800-03:21:36.720 | Ryu] I think the ships coming I think he's coming.
+[u2449 | 03:21:38.190-03:21:40.560 | Ryu] Also, the music is very ominous now all of a sudden yeah.
+[u2450 | 03:21:41.760-03:21:47.310 | DM] So you get into position so i've got one stuff jack two ounces hiding i've got to stuff jack.
+[u2451 | 03:21:52.680-03:21:52.950 | Ryu] This.
+[u2452 | 03:21:53.250-03:21:54.570 | Ryu] is an exciting to take the player.
+[u2453 | 03:21:56.220-03:21:59.340 | DM] I was hoping to wow yeah that's a good question.
+[u2454 | 03:21:59.880-03:22:00.390 | Wazir] I was gonna ask.
+[u2455 | 03:22:00.420-03:22:01.320 | DM] doesn't calculate.
+[u2456 | 03:22:01.590-03:22:02.100 | Wazir] It is yeah.
+[u2457 | 03:22:03.810-03:22:05.790 | Ryu] This is kind of a tough clip can't cliffhanger.
+[u2458 | 03:22:07.260-03:22:23.250 | DM] Ah, I mean I was going to hard stop at one, no matter what, but it could go that late if we keep going, but we could also stop on a hard cliffhanger if we can find another time to play it's just going to be tough.
+[u2459 | 03:22:25.830-03:22:29.490 | DM] Because mike's leaving on Saturday for yellowstone.
+[u2460 | 03:22:31.740-03:22:33.240 | DM] it's not going to be till like.
+[u2461 | 03:22:35.370-03:22:38.340 | DM] I don't know when the next time we can play, we can pick this up would be.
+[u2462 | 03:22:39.900-03:22:43.320 | DM] But as up to you guys it's good point I didn't realize how late it was.
+[u2463 | 03:22:43.860-03:22:48.000 | Kaleho] My scheduled open, but I don't have complicated schedule so.
+[u2464 | 03:22:53.160-03:22:53.550 | Wazir] mean.
+[u2465 | 03:22:53.850-03:22:54.120 | Unknown] People.
+[u2466 | 03:22:56.250-03:23:03.150 | Wazir] We could keep going for a little bit from my perspective, I kind of I kind of want to see what happens with this guy.
+[u2467 | 03:23:05.880-03:23:11.700 | Kaleho] i'm on Central time zone so time I have an hour on you also time doesn't is not a pressing thing on my end.
+[u2468 | 03:23:12.420-03:23:15.300 | DM] i'm totally open to whatever folks want to do.
+[u2469 | 03:23:17.070-03:23:19.380 | Trok] And i'm good i'm good to keep going a little bit.
+[u2470 | 03:23:20.580-03:23:22.470 | Ryu] All right, fucking hell let's do it.
+[u2471 | 03:23:24.000-03:23:24.360 | Trok] I know.
+[u2472 | 03:23:24.900-03:23:26.220 | Ryu] This morning, tomorrow, or whatever.
+[u2473 | 03:23:26.460-03:23:29.790 | DM] you're always going to bed yeah actually have an early morning to but.
+[u2474 | 03:23:31.260-03:23:31.950 | DM] i'll be fine.
+[u2475 | 03:23:32.940-03:23:34.290 | Ryu] All right, let's do it.
+[u2476 | 03:23:37.290-03:23:38.640 | Wazir] This year the talkie guy.
+[u2477 | 03:23:39.420-03:23:40.620 | Kaleho] who's talking guy.
+[u2478 | 03:23:41.700-03:23:42.870 | Ryu] I can be the top well.
+[u2479 | 03:23:44.130-03:23:46.260 | Wazir] I think I think you should be the hockey guy.
+[u2480 | 03:23:47.070-03:23:52.200 | Kaleho] me pro talking the whole time your character is the one who's suggested it.
+[u2481 | 03:23:55.950-03:23:59.550 | Ryu] All right, fine i'm going to keep blue circling.
+[u2482 | 03:23:59.880-03:24:03.300 | Ryu] Like just out like like following watching the whole time.
+[u2483 | 03:24:05.130-03:24:07.710 | Ryu] And yeah I guess i'll hang out here the shop and wait.
+[u2484 | 03:24:09.150-03:24:13.110 | DM] Okay, so about so Wazir, are you hiding.
+[u2485 | 03:24:13.590-03:24:14.820 | Wazir] Casting and visibility.
+[u2486 | 03:24:15.480-03:24:19.020 | Kaleho] Okay, so we're all kind of hanging out around the shop.
+[u2487 | 03:24:20.130-03:24:20.520 | DM] Okay.
+[u2488 | 03:24:21.090-03:24:25.380 | DM] Okay um but not you're not super close to the shop because.
+[u2489 | 03:24:25.440-03:24:29.520 | DM] You know you don't want to be, you need to be somewhere where you can sort of hide among the warehouse.
+[u2490 | 03:24:29.580-03:24:30.210 | DM] and say.
+[u2491 | 03:24:30.570-03:24:37.950 | DM] So, but you can see, so Ryu you see i'm about 20 minutes later sort of you know, coming up from the dock.
+[u2492 | 03:24:39.450-03:24:47.970 | DM] This sort of older man like hunched over with like this pile of cloaks over his shoulders like you know whether.
+[u2493 | 03:24:49.350-03:24:59.250 | DM] Like oil skin cloaks shaving his face but there's a bit of a scraggly Gray beard thats thats hanging out and he's walking quickly and with purpose towards.
+[u2494 | 03:24:59.700-03:25:14.670 | DM] Ovina shop, who has opened early in anticipation of this event i'm aware that you are all hanging around and he just kind of head straight for the shop crossing this Plaza where you're sort of later going to go into the into the shop.
+[u2495 | 03:25:17.640-03:25:17.880 | Ryu] and
+[u2496 | 03:25:18.900-03:25:21.720 | Ryu] I really did not go to the shop, the day before.
+[u2497 | 03:25:22.140-03:25:23.130 | Wazir] Right yep.
+[u2498 | 03:25:23.430-03:25:30.000 | Ryu] Which is good and so reuse plan is to using our collective intelligence.
+[u2499 | 03:25:31.320-03:25:35.100 | Ryu] What to like go in when he actually gets the thing to wait for.
+[u2500 | 03:25:35.910-03:25:36.990 | Wazir] wait for him to come out.
+[u2501 | 03:25:37.260-03:25:40.230 | Wazir] And then go up to him, I think.
+[u2502 | 03:25:41.580-03:25:44.970 | Wazir] i'm not sure when we I don't think we have a clear sense of how we're approaching him.
+[u2503 | 03:25:46.770-03:25:49.590 | Wazir] It was your idea to not just ambush him and drag them off.
+[u2504 | 03:25:49.770-03:25:51.660 | DM] A few minutes later he comes out.
+[u2505 | 03:25:53.610-03:26:00.210 | DM] carrying this chest, this box under one arm. It seems to be heading back for the docks now.
+[u2506 | 03:26:00.270-03:26:02.640 | DM] Oh yeah looking around notices you.
+[u2507 | 03:26:03.060-03:26:04.170 | DM] But not really pay.
+[u2508 | 03:26:04.200-03:26:05.160 | Unknown] Much attention seems.
+[u2509 | 03:26:06.480-03:26:08.070 | Ryu] Like waiting for him to like come out.
+[u2510 | 03:26:08.220-03:26:16.590 | Ryu] Like he's not gonna let him pass so don't feel sort of hell sort of like as he, like comes out every you will kind of step in front, say, sir.
+[u2511 | 03:26:17.610-03:26:19.620 | Ryu] I I think we've been looking for you.
+[u2512 | 03:26:20.730-03:26:22.020 | Ryu] Did you use to live in the tower.
+[u2513 | 03:26:22.380-03:26:24.270 | DM] Up to the noisy and i'm busy just.
+[u2514 | 03:26:25.200-03:26:31.140 | Ryu] Know i'm sorry that I, we do need to talk a little bit because you nearly killed me with the water elemental that I think you.
+[u2515 | 03:26:33.810-03:26:34.110 | DM] know.
+[u2516 | 03:26:34.140-03:26:35.130 | Ryu] i'm water elemental.
+[u2517 | 03:26:35.820-03:26:39.630 | Ryu] Yeah, I think you also have a bottle of the Sentient Ocean. You know what I'm talking about.
+[u2518 | 03:26:41.280-03:26:44.190 | DM] I need to get back step out of my way.
+[u2519 | 03:26:45.870-03:26:59.550 | Ryu] Before you do, though, would be very helpful if you may be shared, a little bit more about what's going on, because there's six people dead in the town there's been a lot of significant violence that's been caused recently and be really great to.
+[u2520 | 03:27:00.750-03:27:02.760 | Ryu] Talk about that a little bit if it's alright with you.
+[u2521 | 03:27:06.090-03:27:06.300 | DM] My.
+[u2522 | 03:27:07.680-03:27:08.640 | Ryu] We want to help you.
+[u2523 | 03:27:09.690-03:27:11.430 | Ryu] My wife just waiting at home.
+[u2524 | 03:27:12.360-03:27:13.080 | Ryu] Please, the weapon or.
+[u2525 | 03:27:13.290-03:27:16.560 | Ryu] hide your wife and your children right.
+[u2526 | 03:27:16.980-03:27:18.000 | DM] There waiting for me.
+[u2527 | 03:27:19.440-03:27:20.400 | Unknown] I need to get away.
+[u2528 | 03:27:23.040-03:27:24.360 | DM] What is your business here.
+[u2529 | 03:27:26.760-03:27:30.090 | Ryu] Well we'd like to know what your businesses with this town.
+[u2530 | 03:27:30.780-03:27:33.210 | DM] I am simply going home to my family.
+[u2531 | 03:27:34.470-03:27:35.010 | Unknown] step.
+[u2532 | 03:27:37.500-03:27:38.160 | DM] aside side.
+[u2533 | 03:27:40.260-03:27:41.070 | Ryu] You steps aside.
+[u2534 | 03:27:43.620-03:27:45.660 | DM] He starts walking quickly down the dock.
+[u2535 | 03:27:46.260-03:27:46.620 | Unknown] How that.
+[u2536 | 03:27:53.550-03:27:55.470 | Wazir] i'm just reading, something I can do, I just need to see.
+[u2537 | 03:27:57.150-03:27:59.190 | Ryu] and reuse now now following.
+[u2538 | 03:27:59.940-03:28:02.730 | Wazir] Okay, he hasn't really pay much attention to you.
+[u2539 | 03:28:03.180-03:28:06.090 | DM] Following him he seems to be just heading for the docks.
+[u2540 | 03:28:06.450-03:28:06.930 | Ryu] I get it.
+[u2541 | 03:28:10.230-03:28:11.520 | Wazir] I am going to.
+[u2542 | 03:28:14.550-03:28:19.500 | Wazir] yeah doesn't it take some action perfect and it's not a spell so it doesn't get rid of invincibility there.
+[u2543 | 03:28:22.590-03:28:25.440 | Wazir] I am going to take a.
+[u2544 | 03:28:26.970-03:28:27.600 | Wazir] coin.
+[u2545 | 03:28:29.790-03:28:31.680 | Wazir] And ah.
+[u2546 | 03:28:33.450-03:28:34.410 | Wazir] i'm going to roll.
+[u2547 | 03:28:40.380-03:28:50.160 | Wazir] i'm going to roll it out like when he's nearby i'm going to roll it out, so that he would be he would hear it, and when the coin rolls in front of him it's gonna say.
+[u2548 | 03:28:51.720-03:28:52.890 | Wazir] How long does this message be.
+[u2549 | 03:28:55.410-03:28:56.250 | Wazir] six seconds.
+[u2550 | 03:29:02.280-03:29:03.570 | Wazir] Isn't Nadine safe?
+[u2551 | 03:29:07.680-03:29:08.670 | Wazir] Are you sure.
+[u2552 | 03:29:09.960-03:29:10.410 | Wazir] Because.
+[u2553 | 03:29:12.060-03:29:13.530 | Wazir] it's not controlling things.
+[u2554 | 03:29:17.100-03:29:18.960 | DM] He stops your moment looks around and says.
+[u2555 | 03:29:20.880-03:29:22.800 | DM] looks back at you, the he says.
+[u2556 | 03:29:23.880-03:29:25.230 | DM] Are you playing tricks on me.
+[u2557 | 03:29:28.350-03:29:32.940 | Ryu] I have no idea what the Fuck is going on, so I really just like I just want to talk I don't know that any tricks.
+[u2558 | 03:29:36.270-03:29:38.820 | DM] I just want to get.
+[u2559 | 03:29:40.080-03:29:40.920 | DM] home.
+[u2560 | 03:29:43.080-03:29:43.800 | DM] I know you want to get.
+[u2561 | 03:29:44.430-03:29:45.240 | DM] Are you.
+[u2562 | 03:29:46.470-03:29:48.420 | Ryu] Is there a knife speaking to you.
+[u2563 | 03:29:52.380-03:29:53.490 | DM] You don't know me.
+[u2564 | 03:30:00.150-03:30:06.810 | Wazir] While he's distracted talk to you i'm gonna go i'm invisible but i'm gonna go stand sort of between him and the boat.
+[u2565 | 03:30:08.850-03:30:12.120 | Trok] So it is there, like a spectral boat parked at the dock.
+[u2566 | 03:30:12.510-03:30:14.100 | DM] yeah the phantom boat is park that's.
+[u2567 | 03:30:14.670-03:30:15.540 | Trok] What does that look like.
+[u2568 | 03:30:16.050-03:30:16.350 | DM] I mean.
+[u2569 | 03:30:18.360-03:30:23.580 | DM] It basically looks like a normal boat it's just like your eyes kind of slide off of it like.
+[u2570 | 03:30:24.690-03:30:25.500 | DM] Like you can't.
+[u2571 | 03:30:26.970-03:30:30.660 | DM] Like you have to you have to really concentrate to keep looking at that.
+[u2572 | 03:30:31.230-03:30:33.240 | Trok] i'm gonna slip into the water and swim towards it.
+[u2573 | 03:30:33.870-03:30:34.230 | Unknown] Okay.
+[u2574 | 03:30:37.050-03:30:38.640 | Trok] With the aim of boarding, if I can.
+[u2575 | 03:30:40.800-03:30:41.220 | DM] Okay.
+[u2576 | 03:30:42.270-03:30:43.890 | DM] Ah, interesting.
+[u2577 | 03:30:48.030-03:30:49.860 | DM] Okay, so he then turns around he says.
+[u2578 | 03:30:52.470-03:30:53.700 | DM] I will go now.
+[u2579 | 03:30:55.170-03:30:57.270 | DM] turns around and starts walking to the boat.
+[u2580 | 03:30:57.930-03:30:58.560 | Ryu] what's your name.
+[u2581 | 03:31:03.870-03:31:04.470 | Ryu] We want to help.
+[u2582 | 03:31:10.470-03:31:18.900 | Ryu] I know your family and your children are very important to you and I know also that there may be some actions you're taking that are not totally around.
+[u2583 | 03:31:20.190-03:31:22.410 | Ryu] And I think we have similar interests.
+[u2584 | 03:31:24.300-03:31:26.190 | DM] makeup persuasion check.
+[u2585 | 03:31:27.300-03:31:27.870 | Trok] And con.
+[u2586 | 03:31:28.470-03:31:30.090 | Ryu] skin, be a fucking to.
+[u2587 | 03:31:31.500-03:31:32.340 | Ryu] You would help help.
+[u2588 | 03:31:32.820-03:31:34.110 | Trok] Oh, to drop some names.
+[u2589 | 03:31:34.680-03:31:34.980 | Unknown] yeah.
+[u2590 | 03:31:36.120-03:31:37.800 | Ryu] Oh, there we go it's not that sounds terrible.
+[u2591 | 03:31:38.430-03:31:39.240 | Ryu] What name drop.
+[u2592 | 03:31:39.690-03:31:41.070 | Wazir] Nadine, his wife's name.
+[u2593 | 03:31:41.400-03:31:41.940 | Trok] Oh yeah.
+[u2594 | 03:31:42.030-03:31:42.870 | Ryu] Nadine, there you go.
+[u2595 | 03:31:44.730-03:31:47.340 | Kaleho] The terrifying what we believe the knife is.
+[u2596 | 03:31:47.370-03:31:48.060 | DM] No message.
+[u2597 | 03:31:48.330-03:31:48.870 | Trok] me miss.
+[u2598 | 03:31:49.350-03:31:51.810 | DM] out on the message thousand color.
+[u2599 | 03:31:52.110-03:31:52.710 | Wazir] doesn't kill.
+[u2600 | 03:31:53.610-03:31:56.040 | Wazir] me that's why I tried to drop the names.
+[u2601 | 03:31:56.520-03:31:57.960 | Ryu] Right Nice.
+[u2602 | 03:31:58.020-03:32:01.350 | DM] He turns around and he says, I am Azar.
+[u2603 | 03:32:03.420-03:32:03.900 | Ryu] Azar.
+[u2604 | 03:32:04.770-03:32:08.700 | DM] I am trying to save my family.
+[u2605 | 03:32:09.360-03:32:10.440 | Ryu] Nadine your wife.
+[u2606 | 03:32:12.480-03:32:13.020 | DM] Yes.
+[u2607 | 03:32:13.890-03:32:14.760 | Ryu] And Gazankoa.
+[u2608 | 03:32:15.930-03:32:16.980 | Ryu] CB adversary.
+[u2609 | 03:32:18.120-03:32:19.200 | DM] The adversary.
+[u2610 | 03:32:20.880-03:32:21.690 | Unknown] What helped me.
+[u2611 | 03:32:22.950-03:32:23.220 | Unknown] know.
+[u2612 | 03:32:26.910-03:32:27.420 | DM] There are.
+[u2613 | 03:32:29.940-03:32:31.320 | DM] There are many lost dead.
+[u2614 | 03:32:33.240-03:32:34.410 | DM] He can bring them back.
+[u2615 | 03:32:35.910-03:32:38.640 | DM] I just need a little more time.
+[u2616 | 03:32:41.130-03:32:42.360 | Ryu] guys and coke and bring them back.
+[u2617 | 03:32:45.210-03:32:45.990 | DM] He is helping.
+[u2618 | 03:32:48.690-03:32:49.020 | Unknown] Just.
+[u2619 | 03:32:52.230-03:32:53.820 | DM] leave me alone.
+[u2620 | 03:32:55.830-03:32:56.760 | Ryu] How can we help you.
+[u2621 | 03:33:01.290-03:33:04.800 | DM] He looks around he sees that he seems to be alone, he says.
+[u2622 | 03:33:07.830-03:33:08.460 | DM] come with me.
+[u2623 | 03:33:12.240-03:33:12.600 | Ryu] Okay.
+[u2624 | 03:33:14.370-03:33:14.820 | Ryu] let's go.
+[u2625 | 03:33:16.920-03:33:23.970 | Wazir] yeah i'll go get on the boat, I was gonna say before he said that that I was going to take the opportunity for him being coast and conversation to go get on the boat.
+[u2626 | 03:33:26.580-03:33:28.530 | Kaleho] For people hide on this tiny boat.
+[u2627 | 03:33:30.150-03:33:30.720 | Trok] The boat here.
+[u2628 | 03:33:31.410-03:33:34.050 | DM] it's like out, I mean it's big enough for.
+[u2629 | 03:33:36.210-03:33:45.180 | DM] For you know, three, four people to set it's not gonna be easy for for people to hide on the boat um.
+[u2630 | 03:33:46.740-03:33:48.960 | Ryu] I mean, should we just introduced ourselves.
+[u2631 | 03:33:50.430-03:33:51.060 | Wazir] Now.
+[u2632 | 03:33:51.840-03:33:53.910 | Ryu] Now you have some hide all right i'll.
+[u2633 | 03:33:53.970-03:33:54.330 | Wazir] I don't know.
+[u2634 | 03:33:54.720-03:33:59.820 | DM] Maybe sounds about it has like hot site so so wait Wazir you're.
+[u2635 | 03:34:00.900-03:34:02.190 | DM] Stepping onto the boat.
+[u2636 | 03:34:03.300-03:34:04.500 | DM] you're heading towards the boat.
+[u2637 | 03:34:05.310-03:34:06.540 | Wazir] yeah but yeah.
+[u2638 | 03:34:07.020-03:34:07.650 | Wazir] I like to.
+[u2639 | 03:34:07.740-03:34:08.880 | DM] make us stuff jack.
+[u2640 | 03:34:10.080-03:34:13.020 | Trok] TIM is there some part of it in the water, that I can grab so I can tell along.
+[u2641 | 03:34:13.380-03:34:14.370 | DM] Ah yes.
+[u2642 | 03:34:15.900-03:34:16.320 | DM] i'm.
+[u2643 | 03:34:18.600-03:34:19.530 | Wazir] disadvantage.
+[u2644 | 03:34:20.040-03:34:20.430 | Wazir] I am wearing.
+[u2645 | 03:34:20.790-03:34:21.240 | Unknown] Armor.
+[u2646 | 03:34:23.340-03:34:24.420 | DM] Why was that there.
+[u2647 | 03:34:27.480-03:34:27.900 | Ryu] Is our.
+[u2648 | 03:34:28.980-03:34:36.600 | Ryu] it's a what is is ours, like when he was like invited me on the boat, did you look like nefarious like i've got this guy or like I think this guy can help.
+[u2649 | 03:34:37.110-03:34:38.460 | DM] Make inside check.
+[u2650 | 03:34:39.300-03:34:39.780 | Unknown] This.
+[u2651 | 03:34:41.820-03:34:44.520 | Ryu] About a plus six on this, but we know that's not going to help us today.
+[u2652 | 03:34:46.500-03:34:49.770 | DM] Definitely nefarious i've got this guy.
+[u2653 | 03:34:49.890-03:34:52.170 | Trok] Okay, oh no.
+[u2654 | 03:34:53.880-03:34:57.420 | DM] Higher percent he was like sort of chuckling under his breath type.
+[u2655 | 03:34:58.800-03:35:04.200 | Ryu] Oh OK OK, we are gonna have to fight.
+[u2656 | 03:35:04.380-03:35:04.560 | Unknown] yeah.
+[u2657 | 03:35:06.690-03:35:09.240 | Kaleho] Why they got this cross bullock Feral dogs.
+[u2658 | 03:35:11.160-03:35:15.540 | Ryu] And holy shit hot glue hell, I guess.
+[u2659 | 03:35:18.150-03:35:27.630 | Ryu] yeah I reuse gonna wait for him to get oh no, no, we shouldn't get them on let him, let him get on the boat at all I just talking right now I told him I told him I stopped.
+[u2660 | 03:35:28.200-03:35:28.800 | DM] rolling this.
+[u2661 | 03:35:28.860-03:35:28.980 | Unknown] out.
+[u2662 | 03:35:31.080-03:35:31.770 | Trok] But i'm also.
+[u2663 | 03:35:32.070-03:35:34.560 | Trok] far away from this one.
+[u2664 | 03:35:34.590-03:35:41.910 | DM] thing I did not make a map of was the docks it's like the 17 places, you could have meeting met this guy.
+[u2665 | 03:35:46.230-03:35:47.190 | Trok] just put a rectangle.
+[u2666 | 03:35:47.820-03:35:48.780 | Ryu] With the Buddha and.
+[u2667 | 03:35:49.170-03:35:49.650 | Ryu] yeah right.
+[u2668 | 03:35:51.570-03:35:54.240 | Trok] And how wide the duck is awesome because I.
+[u2669 | 03:35:55.320-03:35:56.970 | Trok] When i'm angry, I can get pretty wide.
+[u2670 | 03:35:57.630-03:35:59.190 | Ryu] It was nice to hear water.
+[u2671 | 03:35:59.340-03:36:01.290 | Wazir] Actually honestly yep this is.
+[u2672 | 03:36:01.950-03:36:03.780 | Ryu] Not a bad situation for all of us.
+[u2673 | 03:36:05.040-03:36:06.060 | Kaleho] didn't make it to the boat.
+[u2674 | 03:36:06.240-03:36:08.880 | Trok] It might be a bad situation for the structure of the duck itself.
+[u2675 | 03:36:09.420-03:36:13.290 | Ryu] yeah this, but this is also why we're at the Shark's Dock wait.
+[u2676 | 03:36:13.410-03:36:15.330 | Kaleho] What is trucks class.
+[u2677 | 03:36:17.190-03:36:18.030 | Trok] What is what I.
+[u2678 | 03:36:18.060-03:36:19.290 | Wazir] climbed a fighter a.
+[u2679 | 03:36:19.320-03:36:19.740 | Trok] letter.
+[u2680 | 03:36:19.950-03:36:21.660 | Ryu] I think our class.
+[u2681 | 03:36:21.960-03:36:23.460 | Trok] i'm a fighter what's.
+[u2682 | 03:36:24.240-03:36:25.770 | Trok] A robe Nice.
+[u2683 | 03:36:25.830-03:36:28.230 | Trok] Nice you hide it well.
+[u2684 | 03:36:29.400-03:36:30.210 | Kaleho] As a rogue would.
+[u2685 | 03:36:30.810-03:36:34.200 | Kaleho] yep it's the best kind of rub them you don't realize.
+[u2686 | 03:36:35.670-03:36:36.180 | Ryu] wow.
+[u2687 | 03:36:36.900-03:36:37.230 | Trok] that's good.
+[u2688 | 03:36:37.260-03:36:42.030 | Ryu] I really thought that we were going to be able to have a peaceful conversation TIM, and that was that's not gonna happen, the violence.
+[u2689 | 03:36:43.200-03:36:44.550 | Wazir] really did you think that.
+[u2690 | 03:36:45.330-03:36:47.220 | Ryu] kinda possible.
+[u2691 | 03:36:47.430-03:36:51.480 | Kaleho] Okay created like disgusting zombie versions of his.
+[u2692 | 03:36:51.480-03:36:53.610 | Trok] chemie oh.
+[u2693 | 03:36:53.670-03:36:54.540 | DM] You might have been.
+[u2694 | 03:36:56.940-03:36:57.810 | DM] Ah.
+[u2695 | 03:37:00.090-03:37:03.780 | DM] OK so so kayla you're probably about their.
+[u2696 | 03:37:06.390-03:37:07.050 | DM] view on.
+[u2697 | 03:37:08.370-03:37:09.030 | Trok] i'm not seeing it.
+[u2698 | 03:37:10.560-03:37:13.590 | DM] Right I didn't move you guys to the.
+[u2699 | 03:37:14.640-03:37:14.910 | DM] map.
+[u2700 | 03:37:15.360-03:37:16.800 | Ryu] Nice oh nice Nice.
+[u2701 | 03:37:18.090-03:37:18.450 | Ryu] perfect.
+[u2702 | 03:37:20.550-03:37:21.840 | Ryu] Beautiful beautifully done.
+[u2703 | 03:37:35.880-03:37:38.070 | DM] Okay, who am I missing Trok.
+[u2704 | 03:37:40.050-03:37:40.530 | DM] water.
+[u2705 | 03:37:42.240-03:37:45.690 | DM] yeah okay so you're you two are like rate.
+[u2706 | 03:37:46.590-03:37:47.370 | Ryu] Right yeah we're like.
+[u2707 | 03:37:47.910-03:37:48.390 | Ryu] There we go.
+[u2708 | 03:37:52.320-03:37:53.550 | DM] Okay, so.
+[u2709 | 03:37:59.400-03:38:01.710 | Ryu] there's this other green guy in the that's.
+[u2710 | 03:38:01.800-03:38:02.280 | Ryu] In the boat.
+[u2711 | 03:38:02.640-03:38:04.650 | DM] Well, you haven't seen him yet.
+[u2712 | 03:38:04.950-03:38:05.820 | Trok] Oh no.
+[u2713 | 03:38:06.450-03:38:06.870 | Ryu] The Fuck.
+[u2714 | 03:38:09.690-03:38:12.900 | DM] don't know why this initiative is not working, but that's.
+[u2715 | 03:38:14.760-03:38:16.620 | Trok] All he's got as a lead box, we can take it.
+[u2716 | 03:38:17.940-03:38:20.160 | Ryu] While he's got falcon zombie guy in the boat now.
+[u2717 | 03:38:25.200-03:38:29.430 | DM] Okay sorry it didn't auto calculate initiative so just shout out what you will.
+[u2718 | 03:38:30.390-03:38:34.260 | Wazir] 1911 or.
+[u2719 | 03:38:37.620-03:38:37.980 | Ryu] four.
+[u2720 | 03:38:41.670-03:38:42.990 | DM] I got support for.
+[u2721 | 03:38:43.800-03:38:44.280 | Unknown] know.
+[u2722 | 03:38:46.770-03:38:47.880 | Ryu] For them.
+[u2723 | 03:38:49.350-03:38:56.640 | DM] Well, I mean he's not just standing there like waiting for somebody to mean he's not he's not stupid.
+[u2724 | 03:38:57.630-03:38:59.070 | Ryu] Right, but I was like I was like.
+[u2725 | 03:38:59.340-03:39:02.100 | Wazir] there's a pretty unexpected i'm attacking me now.
+[u2726 | 03:39:02.220-03:39:03.540 | Ryu] yeah exactly don't you.
+[u2727 | 03:39:04.470-03:39:05.220 | Ryu] were just talking.
+[u2728 | 03:39:05.250-03:39:07.290 | DM] that's whether you initiative is, you know.
+[u2729 | 03:39:07.320-03:39:08.100 | Wazir] Right right.
+[u2730 | 03:39:08.160-03:39:08.970 | DM] Rather, you.
+[u2731 | 03:39:09.690-03:39:10.350 | DM] You got it.
+[u2732 | 03:39:12.090-03:39:12.690 | Trok] yeah.
+[u2733 | 03:39:13.050-03:39:15.480 | Kaleho] So he wrote a 22 for his initiative.
+[u2734 | 03:39:15.780-03:39:17.280 | DM] Here, all the 22 for his.
+[u2735 | 03:39:17.280-03:39:18.360 | Kaleho] Initial yeah.
+[u2736 | 03:39:18.660-03:39:22.980 | Trok] He realized that he had chuckled out loud, instead of just in his mind.
+[u2737 | 03:39:23.130-03:39:24.510 | Trok] Right he's evil intention.
+[u2738 | 03:39:24.810-03:39:25.830 | Trok] I was like oh shit.
+[u2739 | 03:39:26.100-03:39:26.700 | Unknown] Oh.

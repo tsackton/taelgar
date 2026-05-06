@@ -1,17 +1,17 @@
 [u0001 | 00:00:00.599-00:00:00.840 | Wazir] hey.
-[u0002 | 00:00:02.909-00:00:05.430 | Wazir] I pay some attention to the boats selling in and out.
-[u0003 | 00:00:07.980-00:00:16.619 | Wazir] Asked around and nobody had seen this one come in or out, but yet it was gone when I went to work for it again an odd boat made me wonder.
+[u0002 | 00:00:02.909-00:00:05.430 | Wazir] I pay some attention to the boats sailing in and out.
+[u0003 | 00:00:07.980-00:00:16.619 | Wazir] Asked around and nobody had seen this one come in or out, but yet it was gone when I went to look for it again. An odd boat made me wonder.
 [u0004 | 00:00:18.840-00:00:19.080 | Wazir] But.
 [u0005 | 00:00:20.310-00:00:21.030 | Wazir] Medin.
-[u0006 | 00:00:22.440-00:00:24.000 | Wazir] medina's mentioned in this scroll.
+[u0006 | 00:00:22.440-00:00:24.000 | Wazir] Medin is mentioned in this scroll.
 [u0007 | 00:00:25.590-00:00:28.230 | Ryu] What does the scroll say, are we able to decipher it, Wazir?
 [u0008 | 00:00:29.130-00:00:32.100 | Wazir] yeah I said I said you haven't actually read it.
-[u0009 | 00:00:32.760-00:00:35.880 | DM] You think we send you a copy of years ago it's in your email.
+[u0009 | 00:00:32.760-00:00:35.880 | DM] I think we sent you a copy of it years ago, it's in your email.
 [u0010 | 00:00:37.050-00:00:38.910 | Ryu] I don't get an email, and my cave.
 [u0011 | 00:00:40.770-00:00:41.280 | Trok] yeah.
 [u0012 | 00:00:43.860-00:00:45.090 | Wazir] Right, I mean i'm.
 [u0013 | 00:00:46.320-00:00:46.710 | Wazir] Real.
-[u0014 | 00:00:47.910-00:00:51.270 | Wazir] busy or sent a letter to review and talk.
+[u0014 | 00:00:47.910-00:00:51.270 | Wazir] I sent a letter to Ryu and Trok.
 [u0015 | 00:00:52.380-00:01:00.780 | Wazir] With the scroll that's why you're here is because I sent you a letter that said come I figured i've decided, with the scroll there's so much to discuss.
 [u0016 | 00:01:01.050-00:01:03.540 | Ryu] Right right, so you haven't told us what that what it says.
 [u0017 | 00:01:03.720-00:01:05.550 | Wazir] I included a copy of the scroll and the letter.
@@ -26,7 +26,7 @@
 [u0026 | 00:01:27.660-00:01:29.310 | Wazir] anyways anyways.
 [u0027 | 00:01:29.340-00:01:34.650 | Wazir] yeah what is this the scroll is a is a story I think of somebody.
 [u0028 | 00:01:36.510-00:01:40.710 | Wazir] Trying to bring back his dead wife, perhaps.
-[u0029 | 00:01:43.110-00:01:45.600 | Trok] Although I did I did you on that part actually.
+[u0029 | 00:01:43.110-00:01:45.600 | Trok] Although I did I did chew on that part actually.
 [u0030 | 00:01:47.130-00:01:48.090 | Trok] It was better than.
 [u0031 | 00:01:48.390-00:01:48.930 | Unknown] You would.
 [u0032 | 00:01:50.790-00:01:52.170 | Wazir] Although exactly.
@@ -45,15 +45,15 @@
 [u0045 | 00:03:03.330-00:03:04.830 | Trok] You ever cough up some seawater?
 [u0046 | 00:03:05.820-00:03:06.270 | DM] No, no.
 [u0047 | 00:03:07.170-00:03:09.270 | Trok] Is there lizard folklore about resurrection.
-[u0048 | 00:03:11.850-00:03:16.680 | DM] So I mean there is Laura about resurrection and in many cultures um.
+[u0048 | 00:03:11.850-00:03:16.680 | DM] So I mean there is lore about resurrection and in many cultures um.
 [u0049 | 00:03:18.330-00:03:25.500 | DM] it's it's rare it requires strong magic I mean well there's so so the you know.
 [u0050 | 00:03:26.760-00:03:35.730 | DM] If you can, if somebody has died like you know within the past few minutes right it's much easier their their.
 [u0051 | 00:03:36.870-00:03:48.240 | DM] mind has not faded from the plane of consciousness, yet, and so, so that magic is more common, but once they once they their soul has left.
 [u0052 | 00:03:51.300-00:03:59.850 | DM] For elsewhere right anybody who dies goes initially to the land of the dead before they go to wherever their final resting places.
 [u0053 | 00:04:00.270-00:04:03.360 | DM] Okay, and there is stories of magic that can reach people.
 [u0054 | 00:04:06.060-00:04:09.480 | DM] You know, while their souls are still journeying in the land of the dead.
-[u0055 | 00:04:11.520-00:04:21.390 | DM] it's not it's not common it requires you know it's it's it's more pot, you know somebody would have to be more powerful than you in order to be able to do that.
-[u0056 | 00:04:22.950-00:04:32.040 | DM] But it's you know there's definitely stories in the past of like some great lizard folk warrior who was resurrected.
+[u0055 | 00:04:11.520-00:04:21.390 | DM] it's not it's not common it requires you know it's it's it's more powerful, you know somebody would have to be more powerful than you in order to be able to do that.
+[u0056 | 00:04:22.950-00:04:32.040 | DM] But it's you know there's definitely stories in the past of like some great lizardfolk warrior who was resurrected.
 [u0057 | 00:04:33.090-00:04:36.810 | DM] You know, a week after they die to fight and more battles or something.
 [u0058 | 00:04:37.440-00:04:43.020 | Trok] And that's it's not like just a allegory for the birth of a new great warrior or something.
 [u0059 | 00:04:43.920-00:04:45.540 | DM] No like there is actually I mean.
@@ -67,9 +67,9 @@
 [u0067 | 00:05:46.590-00:05:47.070 | DM] So.
 [u0068 | 00:05:48.180-00:05:54.000 | DM] So you're you're never really sure like are you going somewhere, are you opening up are you.
 [u0069 | 00:05:54.810-00:05:57.690 | Trok] that's why Trok is always ranting about set and setting.
-[u0070 | 00:06:01.440-00:06:15.600 | DM] Like it's just not it's it's completely okay so maybe you are seeing a window into the land of the dad maybe you're seeing stories, I mean the one thing that is the sort of general myth about the land of the dead is nobody spends that long.
-[u0071 | 00:06:16.560-00:06:18.480 | DM] Like it's a transition Aires.
-[u0072 | 00:06:18.480-00:06:29.940 | DM] State you you journey through the land of the dead to get so So if you are listening to somebody has been dead, for your hearing the voice of somebody who's been dead, for two years.
+[u0070 | 00:06:01.440-00:06:15.600 | DM] Like it's just not it's it's completely okay so maybe you are seeing a window into the land of the dead maybe you're seeing stories, I mean the one thing that is the sort of general myth about the land of the dead is nobody spends that long.
+[u0071 | 00:06:16.560-00:06:18.480 | DM] Like it's a transitionary.
+[u0072 | 00:06:18.480-00:06:29.940 | DM] State. You journey through the land of the dead to get so So if you are listening to somebody has been dead, or you're hearing the voice of somebody who's been dead, for two years.
 [u0073 | 00:06:30.960-00:06:32.760 | DM] they've got to be somewhere else right.
 [u0074 | 00:06:35.970-00:06:46.710 | Ryu] Some of your tattoos related to, like, gatza art? It must be all gatza, like, you know, artists that are on gatza that then create crazy, like, you know, paintings and shit like that.
 [u0075 | 00:06:48.330-00:06:52.290 | Trok] I mean there was interesting, I think that they are all.
@@ -83,36 +83,36 @@
 [u0083 | 00:07:21.630-00:07:24.270 | Wazir] So anyway, this um.
 [u0084 | 00:07:26.610-00:07:27.390 | Wazir] This.
 [u0085 | 00:07:30.630-00:07:34.110 | Wazir] scroll writer keeps trying right he says.
-[u0086 | 00:07:35.190-00:07:49.200 | Wazir] there's something missing and heaps whatever he's doing these poor souls choke and die on the water that he's feeding them, but it seems like he's praying on the guts out there's got it there's some connection here right and and.
+[u0086 | 00:07:35.190-00:07:49.200 | Wazir] there's something missing and he keeps whatever he's doing these poor souls choke and die on the water that he's feeding them, but it seems like he's preying on the gatza, there's some connection here right and and.
 [u0087 | 00:07:50.940-00:07:53.820 | Trok] I got some some bad gatza.
 [u0088 | 00:07:53.880-00:07:56.460 | Wazir] yeah but then he says he's fled.
 [u0089 | 00:07:56.940-00:07:58.110 | Trok] gotta look out for that you know.
 [u0090 | 00:07:58.530-00:08:00.660 | Wazir] wherever he was he flees.
 [u0091 | 00:08:02.850-00:08:05.250 | Wazir] And he has a clue.
-[u0092 | 00:08:06.810-00:08:10.560 | Wazir] That he chases after a name area in the midst speaker.
+[u0092 | 00:08:06.810-00:08:10.560 | Wazir] That he chases after a name, Airion the Mistspeaker.
 [u0093 | 00:08:12.030-00:08:13.530 | Wazir] Who as far as I can.
 [u0094 | 00:08:14.850-00:08:17.820 | Wazir] discover was a an ancient.
 [u0095 | 00:08:18.840-00:08:20.580 | Wazir] wizard and and.
-[u0096 | 00:08:23.220-00:08:26.280 | Wazir] made from this these parts.
+[u0096 | 00:08:23.220-00:08:26.280 | Wazir] maybe from these parts.
 [u0097 | 00:08:27.540-00:08:30.720 | Wazir] With before the Great War kind of around the time of the great war.
 [u0098 | 00:08:32.910-00:08:33.660 | Wazir] and
-[u0099 | 00:08:37.380-00:08:43.620 | Wazir] He fought against Jamaat in the Great War and was known for leading elemental is into battle.
+[u0099 | 00:08:37.380-00:08:43.620 | Wazir] He fought against Jamaat in the Great War and was known for leading elementals into battle.
 [u0100 | 00:08:44.760-00:08:46.410 | Wazir] And supposedly had a flying castle.
 [u0101 | 00:08:47.910-00:08:48.390 | Ryu] doesn't.
 [u0102 | 00:08:49.590-00:08:50.190 | Trok] yeah.
-[u0103 | 00:08:52.230-00:09:06.060 | Wazir] And he spent quite a bit of time, I recall from my time uncharted that he was known as the inventor of a spell called frost fingers and he seems to have quite a connection to the elements of ice and air and missed and water.
+[u0103 | 00:08:52.230-00:09:06.060 | Wazir] And he spent quite a bit of time, I recall from my time in Chardon that he was known as the inventor of a spell called frost fingers and he seems to have quite a connection to the elements of ice and air and mist and water.
 [u0104 | 00:09:06.810-00:09:08.910 | Trok] What can you do with those frost fingers.
 [u0105 | 00:09:10.950-00:09:11.790 | Wazir] The spell does.
-[u0106 | 00:09:12.480-00:09:14.520 | DM] fit that's burning hands but ice.
-[u0107 | 00:09:15.120-00:09:19.020 | DM] But called damage, you can you can get you can freeze people.
+[u0106 | 00:09:12.480-00:09:14.520 | DM] It's burning hands but ice.
+[u0107 | 00:09:15.120-00:09:19.020 | DM] But cold damage, you can you can get you can freeze people.
 [u0108 | 00:09:19.380-00:09:22.200 | Trok] yeah could be useful for preserving.
 [u0109 | 00:09:23.340-00:09:24.900 | Trok] overlarge ketchup sardines.
 [u0110 | 00:09:25.920-00:09:26.910 | Wazir] I think it would be.
 [u0111 | 00:09:28.290-00:09:30.210 | Wazir] slightly too powerful for such things.
 [u0112 | 00:09:31.350-00:09:35.190 | Wazir] It it the cold is overwhelming and.
-[u0113 | 00:09:36.570-00:09:38.670 | Wazir] damages the Flash quite significantly.
+[u0113 | 00:09:36.570-00:09:38.670 | Wazir] damages the flesh quite significantly.
 [u0114 | 00:09:39.870-00:09:40.170 | Wazir] But.
-[u0115 | 00:09:43.020-00:09:56.250 | Wazir] Anyway, this this scroll writer chases after area in the midst speaker up to the foothill up to the caves at the source of the soul quad, which is the the main river that runs to this peninsula.
+[u0115 | 00:09:43.020-00:09:56.250 | Wazir] Anyway, this this scroll writer chases after Airion the Mistspeaker up to the foothill up to the caves at the source of the Sulqat, which is the the main river that runs to this peninsula.
 [u0116 | 00:09:57.420-00:09:58.170 | Wazir] that's a.
 [u0117 | 00:09:59.610-00:10:00.990 | Wazir] Strange area.
 [u0118 | 00:10:02.190-00:10:03.240 | Wazir] I was there.
@@ -139,8 +139,8 @@
 [u0139 | 00:11:38.760-00:11:39.840 | Wazir] Of the land and.
 [u0140 | 00:11:41.460-00:11:42.090 | Wazir] me.
 [u0141 | 00:11:43.980-00:11:46.170 | Wazir] I was, I was a wayward use at the time.
-[u0142 | 00:11:48.780-00:11:59.280 | Wazir] Following after my cousin was really chasing my cousin away from the gods more than anything else, and so we went up forever because that was far away from the ocean it's harder to find.
-[u0143 | 00:12:01.050-00:12:04.890 | Wazir] And we actually found an expedition from Jordan that was.
+[u0142 | 00:11:48.780-00:11:59.280 | Wazir] Following after my cousin was really chasing my cousin away from the gatza more than anything else, and so we went upriver because that was far away from the ocean it's harder to find.
+[u0143 | 00:12:01.050-00:12:04.890 | Wazir] And we actually found an expedition from Chardon that was.
 [u0144 | 00:12:06.780-00:12:08.370 | Wazir] hunting after they said.
 [u0145 | 00:12:10.350-00:12:11.040 | DM] three.
 [u0146 | 00:12:12.570-00:12:14.610 | DM] Sorry, but didn't mean to interrupt you.
@@ -152,10 +152,10 @@
 [u0152 | 00:12:34.380-00:12:38.400 | Wazir] I have guys like and three sorcerers and this and sources dragon if.
 [u0153 | 00:12:40.590-00:12:41.310 | Wazir] They were.
 [u0154 | 00:12:42.450-00:12:45.420 | Wazir] The source that we found them, although if it weren't for these.
-[u0155 | 00:12:46.770-00:12:51.720 | Wazir] char donations, who were hunting these sorcerers I think our entire expedition would have been.
+[u0155 | 00:12:46.770-00:12:51.720 | Wazir] Chardonians, who were hunting these sorcerers I think our entire expedition would have been.
 [u0156 | 00:12:52.830-00:12:56.190 | Wazir] wiped to the ground with their magic it was not.
 [u0157 | 00:12:57.570-00:13:00.030 | Wazir] It was a battle, unlike anything i've ever seen for.
-[u0158 | 00:13:01.800-00:13:11.520 | Wazir] Some in the chart odeon summoned these massive elemental and the dragon and the sorcerer's that were controlling it fought back with.
+[u0158 | 00:13:01.800-00:13:11.520 | Wazir] Some of the Chardonians summoned these massive elementals and the dragon and the sorcerers that were controlling it fought back with.
 [u0159 | 00:13:13.980-00:13:19.170 | Wazir] rocks falling from the sky and giant claws coming from the earth and.
 [u0160 | 00:13:21.120-00:13:22.770 | Wazir] All I could do to to.
 [u0161 | 00:13:23.790-00:13:25.950 | Wazir] Frankly, stay out of the way and.
@@ -164,14 +164,14 @@
 [u0164 | 00:13:34.890-00:13:37.920 | Wazir] I never quite understood what the.
 [u0165 | 00:13:40.380-00:13:48.420 | Wazir] What was what was with the sorcerer's were after but the weather up there, and the and the, and the.
 [u0166 | 00:13:50.880-00:13:57.960 | Wazir] The environment there's a there was an ice volcano that would erupt not with lava but with giant chunks of ice.
-[u0167 | 00:13:58.740-00:14:03.060 | Wazir] There is that at the at the foothills of at the mouth of the saltwater.
+[u0167 | 00:13:58.740-00:14:03.060 | Wazir] There is that at the at the foothills of at the mouth of the Sulqat River.
 [u0168 | 00:14:03.750-00:14:04.170 | DM] right here.
 [u0169 | 00:14:04.650-00:14:05.070 | Unknown] Really.
 [u0170 | 00:14:12.900-00:14:17.400 | Wazir] there's a there was a lake that supposedly has no bottom.
 [u0171 | 00:14:20.130-00:14:24.960 | Wazir] A river of mists flowing through the air just.
 [u0172 | 00:14:26.010-00:14:27.600 | Wazir] streaming down the mountain.
 [u0173 | 00:14:28.680-00:14:32.760 | Trok] lake with no bottom that's when they're it.
-[u0174 | 00:14:33.180-00:14:41.160 | Wazir] It seems like the element, the elemental planes leak through there, the one of the char donations told me that they.
+[u0174 | 00:14:33.180-00:14:41.160 | Wazir] It seems like the element, the elemental planes leak through there, the one of the Chardonians told me that they.
 [u0175 | 00:14:42.900-00:14:46.050 | Wazir] ventured from there to the elemental plane of water.
 [u0176 | 00:14:47.070-00:14:49.200 | Wazir] And that perhaps the dragon was.
 [u0177 | 00:14:50.310-00:14:55.980 | Wazir] That the dragon and the sorcerer's we're trying to find a way to gain the power of one of the elemental planes.
@@ -182,26 +182,26 @@
 [u0182 | 00:15:11.190-00:15:14.340 | Trok] Oh yeah I beat you at that.
 [u0183 | 00:15:15.360-00:15:17.370 | Ryu] You think you bb because you were a high, but.
 [u0184 | 00:15:18.750-00:15:20.190 | Trok] You add them to my friend.
-[u0185 | 00:15:20.610-00:15:24.390 | Trok] Now I pointed this story was there i'm sure was mentioned at the beginning, your cousin.
-[u0186 | 00:15:24.720-00:15:25.680 | Trok] So did you get the guts.
-[u0187 | 00:15:26.970-00:15:28.080 | Trok] He said because it's in god's.
+[u0185 | 00:15:20.610-00:15:24.390 | Trok] Now I pointed this story, Wazir, I'm sure was mentioned at the beginning, your cousin.
+[u0186 | 00:15:24.720-00:15:25.680 | Trok] So did you get the gatza.
+[u0187 | 00:15:26.970-00:15:28.080 | Trok] He said because it's in gatza.
 [u0188 | 00:15:29.550-00:15:32.400 | Wazir] My cousin my cousin was lost to it at the time.
 [u0189 | 00:15:33.060-00:15:34.980 | Wazir] We went up river to get away from it.
 [u0190 | 00:15:36.030-00:15:39.540 | Wazir] I think the excitement of the expedition.
 [u0191 | 00:15:42.750-00:15:43.920 | Wazir] changed his attitude.
 [u0192 | 00:15:47.520-00:15:48.390 | Wazir] Although he.
 [u0193 | 00:15:50.580-00:15:51.960 | Wazir] died some years after.
-[u0194 | 00:15:53.910-00:15:59.400 | Wazir] I followed I followed these three wizards these these charts aliens back to chart and.
+[u0194 | 00:15:53.910-00:15:59.400 | Wazir] I followed I followed these three wizards these these Chardonians back to Chardon.
 [u0195 | 00:16:01.230-00:16:02.880 | Wazir] I spent many years there, as you know.
-[u0196 | 00:16:06.090-00:16:08.040 | Wazir] My cousin mark what he.
+[u0196 | 00:16:06.090-00:16:08.040 | Wazir] My cousin Malaq, he.
 [u0197 | 00:16:09.210-00:16:15.990 | Wazir] While he was dead when I came back not sure to what end was never very close to him after that summer.
 [u0198 | 00:16:17.070-00:16:20.760 | Wazir] think it was a fishing accident, although i've never.
 [u0199 | 00:16:21.810-00:16:23.940 | Wazir] Really learned if there was more to the story.
 [u0200 | 00:16:27.240-00:16:27.900 | Unknown] sorry to hear that.
 [u0201 | 00:16:29.520-00:16:31.890 | Ryu] And you think all of that has something to do with the.
 [u0202 | 00:16:34.440-00:16:34.950 | Ryu] scroll.
-[u0203 | 00:16:35.250-00:16:43.440 | Wazir] The scroll writer here says that they went to this place hunting after legends of alien the miss.
-[u0204 | 00:16:46.140-00:16:51.330 | Wazir] and searched for the source of the soul quiet and.
+[u0203 | 00:16:35.250-00:16:43.440 | Wazir] The scroll writer here says that they went to this place hunting after legends of Airion the Mistspeaker.
+[u0204 | 00:16:46.140-00:16:51.330 | Wazir] and searched for the source of the Sulqat and.
 [u0205 | 00:16:52.410-00:16:53.160 | Wazir] I think.
 [u0206 | 00:16:54.300-00:16:57.450 | Wazir] must have found it found something there.
 [u0207 | 00:16:59.280-00:17:00.450 | Wazir] Because he writes.
@@ -216,9 +216,9 @@
 [u0216 | 00:17:29.160-00:17:29.700 | Trok] later.
 [u0217 | 00:17:29.730-00:17:34.980 | Wazir] I just googled word scroll template and then found one stuck in a way.
 [u0218 | 00:17:36.120-00:17:38.190 | Wazir] He described right and found a ring.
-[u0219 | 00:17:39.390-00:17:54.090 | Wazir] founder ring that summoned I think the The genie the water creature that you saw a halo the messa its name, which is an aqua name it's a name of the plane of the creature of water.
+[u0219 | 00:17:39.390-00:17:54.090 | Wazir] found a ring that summoned I think the The genie the water creature that you saw, Kaleho, Nimessa its name, which is an Aquan name it's a name of the plane of the creature of water.
 [u0220 | 00:17:55.470-00:17:58.770 | Wazir] And he summoned one of these creatures and bound it fill his domain.
-[u0221 | 00:18:00.180-00:18:08.610 | Wazir] I think, using a ring he found at the mouth of the soul quad that used to be airlines some ring of water summoning what our control.
+[u0221 | 00:18:00.180-00:18:08.610 | Wazir] I think, using a ring he found at the mouth of the Sulqat that used to be Airion's, some ring of water summoning or water control.
 [u0222 | 00:18:09.030-00:18:10.860 | Trok] Now what's i'm going to do with his dead wife.
 [u0223 | 00:18:11.700-00:18:13.560 | Wazir] While he sent.
 [u0224 | 00:18:14.280-00:18:15.690 | Wazir] This creature.
@@ -252,7 +252,7 @@
 [u0252 | 00:20:27.780-00:20:29.940 | Kaleho] Does Kaleho have any.
 [u0253 | 00:20:31.020-00:20:41.910 | Kaleho] Does this story ring a bell for him for any of the things he has encountered as he's traveled through the up and down the coast for is like you know the past 10 years.
 [u0254 | 00:20:43.320-00:20:44.010 | DM] um.
-[u0255 | 00:20:47.670-00:20:59.010 | DM] So let's see I mean you would have you would have heard stories of this area in the midst speaker, similar to what Wazir has heard right, you know.
+[u0255 | 00:20:47.670-00:20:59.010 | DM] So let's see I mean you would have you would have heard stories of this Airion the Mistspeaker, similar to what Wazir has heard right, you know.
 [u0256 | 00:20:59.940-00:21:10.290 | DM] Basically, this this guy was like a legendary wizard from a few hundred years ago, who was obsessed with the elements, particularly like water and air.
 [u0257 | 00:21:13.050-00:21:13.770 | DM] and
 [u0258 | 00:21:16.170-00:21:24.240 | DM] But you know you've mostly been you know out at sea right you haven't been tromping through the mountains.
@@ -376,7 +376,7 @@
 [u0376 | 00:32:24.840-00:32:25.800 | Trok] I don't know man.
 [u0377 | 00:32:27.150-00:32:29.130 | Trok] Come on a fish, today, we could do more than.
 [u0378 | 00:32:30.390-00:32:31.290 | Ryu] boys, give me.
-[u0379 | 00:32:34.560-00:32:39.690 | Ryu] So we hope you're you're in town to to because he saw what what brings you to town.
+[u0379 | 00:32:34.560-00:32:39.690 | Ryu] So Kaleho, you're you're in town too because he saw what what brings you to town.
 [u0380 | 00:32:42.480-00:32:52.530 | Kaleho] there's a glint in his eyes, not unlike what Trok gets in his eyes when he thinks about his recreational chemicals and.
 [u0381 | 00:32:53.610-00:32:55.230 | Kaleho] I want to know more about Morocco.
 [u0382 | 00:32:56.460-00:32:58.350 | Kaleho] And I think this could be connected to them.
@@ -384,9 +384,9 @@
 [u0384 | 00:33:03.300-00:33:05.190 | Kaleho] Years ago, I was just a sailor.
 [u0385 | 00:33:06.300-00:33:08.760 | Kaleho] I was on the night watch and.
 [u0386 | 00:33:09.840-00:33:12.450 | Kaleho] I saw the most beautiful.
-[u0387 | 00:33:14.040-00:33:30.120 | Kaleho] thing I saw more folk in the water floating and moving and dancing and I tried to like my friend and they were gone and that moment changed me and there's so much more to the ocean and.
+[u0387 | 00:33:14.040-00:33:30.120 | Kaleho] thing I saw merfolk in the water floating and moving and dancing and I tried to alert my friend and they were gone and that moment changed me and there's so much more to the ocean and.
 [u0388 | 00:33:31.200-00:33:37.500 | Kaleho] This area, but we don't see it and it gets obscured and hidden i'm trying to understand that.
-[u0389 | 00:33:39.240-00:33:40.260 | Ryu] You fall in love with the Mirko.
+[u0389 | 00:33:39.240-00:33:40.260 | Ryu] You fall in love with the merfolk.
 [u0390 | 00:33:43.530-00:33:49.170 | Kaleho] I fall in love with the idea of them it's taken me all across this land.
 [u0391 | 00:33:51.780-00:33:54.540 | Ryu] wow you should have been here last week.
 [u0392 | 00:33:55.440-00:33:56.070 | Kaleho] I know.
@@ -400,14 +400,14 @@
 [u0400 | 00:34:47.160-00:34:51.360 | DM] Part of the part of the idea of this is like to just like populate the town with people so like.
 [u0401 | 00:34:51.750-00:34:55.980 | DM] Right, you can sort of make up you know your contacts and things like that, as.
 [u0402 | 00:34:56.460-00:34:57.660 | DM] As a designer.
-[u0403 | 00:34:59.190-00:35:02.490 | Wazir] Did you get a good one cow let this person.
+[u0403 | 00:34:59.190-00:35:02.490 | Wazir] Did you get a good look, Kaleho, at this person.
 [u0404 | 00:35:03.540-00:35:04.020 | Wazir] Could you.
 [u0405 | 00:35:04.080-00:35:05.040 | Wazir] just give them.
 [u0406 | 00:35:05.520-00:35:07.890 | Kaleho] The thing the unnatural.
 [u0407 | 00:35:07.950-00:35:12.690 | Wazir] Not the unnatural thing now the human, who went a few days later.
 [u0408 | 00:35:14.010-00:35:14.910 | Kaleho] No.
 [u0409 | 00:35:16.050-00:35:28.560 | Kaleho] All I saw was, I was in town i'm listening looking trying to figure out there's anything on anything else after I saw the the creature.
-[u0410 | 00:35:29.160-00:35:41.070 | Kaleho] I saw nothing except one night late at night, I saw a single person boat with a unsettling glow like the creature selling fast.
+[u0410 | 00:35:29.160-00:35:41.070 | Kaleho] I saw nothing except one night late at night, I saw a single person boat with an unsettling glow like the creature sailing fast.
 [u0411 | 00:35:41.610-00:35:58.320 | Kaleho] Whoever this person is they can move easily among people unseen or they blend in, and no one notices them I think it's almost like the boat, they could be like the boat, where the I just passes over it, or the.
 [u0412 | 00:35:59.010-00:36:00.780 | Kaleho] Right there's something about it.
 [u0413 | 00:36:02.700-00:36:04.470 | Kaleho] Any unnatural things, though.
@@ -419,13 +419,13 @@
 [u0419 | 00:36:47.280-00:36:51.660 | Wazir] You come at a town it shouldn't be impossible to find a newcomer the town is not.
 [u0420 | 00:36:53.040-00:36:55.650 | Wazir] infinitely large, but perhaps.
 [u0421 | 00:36:56.490-00:37:01.500 | Ryu] Well, if you go into that tower there isn't infinite ocean in there, so you're not totally correct.
-[u0422 | 00:37:02.370-00:37:10.710 | Kaleho] Are there Doc masters people for the keep track of tariffs in any other folks that may.
+[u0422 | 00:37:02.370-00:37:10.710 | Kaleho] Are there dockmasters, people who keep track of tariffs, and any other folks that may.
 [u0423 | 00:37:12.660-00:37:13.530 | Wazir] there's a few.
-[u0424 | 00:37:17.610-00:37:18.330 | Wazir] Sophie.
+[u0424 | 00:37:17.610-00:37:18.330 | Wazir] Sofi.
 [u0425 | 00:37:20.640-00:37:22.380 | Wazir] One woman, I now she's.
-[u0426 | 00:37:23.880-00:37:38.580 | Wazir] I think she would say she she's she's known as the Queen of ships, she she builds many of the she's a shipbuilder and she owns the dock near here near where the Leviathan, is the north Doc.
+[u0426 | 00:37:23.880-00:37:38.580 | Wazir] I think she would say she she's she's known as the Queen of Ships, she she builds many of the she's a shipbuilder and she owns the dock near here near where the Leviathan, is the North Dock.
 [u0427 | 00:37:41.520-00:37:42.480 | Wazir] she's a.
-[u0428 | 00:37:44.070-00:37:48.060 | Wazir] should know what docs here, no, no, the boats.
+[u0428 | 00:37:44.070-00:37:48.060 | Wazir] should know what docks here, know, know the boats.
 [u0429 | 00:37:49.230-00:37:53.730 | Wazir] I grew up near her, she doesn't usually see the riffraff but.
 [u0430 | 00:37:57.120-00:37:58.440 | Wazir] I might reach out to her.
 [u0431 | 00:38:00.180-00:38:03.810 | Ryu] You know Trok we should talk to Jaeson as well he's the.
@@ -463,7 +463,7 @@
 [u0463 | 00:40:41.580-00:40:50.310 | Ryu] And then, then you know reuse getting all these weird crazy fish so it's like depending on the ones you're always like on the lookout for certain types of fish that real like trying to hunt for you, he gets done.
 [u0464 | 00:40:51.630-00:40:52.020 | Trok] Oh yeah.
 [u0465 | 00:40:54.450-00:40:56.100 | Wazir] We can also go ask around.
-[u0466 | 00:40:57.510-00:41:03.930 | Wazir] On the north Doc at the stormy maiden maybe somebody saw somebody that's i'm.
+[u0466 | 00:40:57.510-00:41:03.930 | Wazir] On the North Dock at the Stormy Maiden maybe somebody saw somebody that's i'm.
 [u0467 | 00:41:05.220-00:41:11.910 | Wazir] A less refined establish establishment then violin but it's out on the dock near where the boat would have come through.
 [u0468 | 00:41:12.510-00:41:13.890 | Ryu] This is a refined establishment.
 [u0469 | 00:41:15.510-00:41:16.260 | Unknown] The horse.
@@ -616,7 +616,7 @@
 [u0616 | 00:53:46.350-00:53:47.850 | DM] You know a lot of these.
 [u0617 | 00:53:48.900-00:53:50.550 | DM] A lot of these um.
 [u0618 | 00:53:53.010-00:54:01.560 | DM] You know hammer has been occupied for a while it's a fairly old town i'm dating back even before the Great War like.
-[u0619 | 00:54:02.160-00:54:14.640 | DM] You know this has always been a nice sheltered port, and so there are definitely parts of town that are pretty old I mean most of it's been you know rebuilt over the years and, obviously, the docs are not 500 years old, or something but.
+[u0619 | 00:54:02.160-00:54:14.640 | DM] You know this has always been a nice sheltered port, and so there are definitely parts of town that are pretty old I mean most of it's been you know rebuilt over the years and, obviously, the docks are not 500 years old, or something but.
 [u0620 | 00:54:16.710-00:54:17.190 | DM] uh.
 [u0621 | 00:54:18.990-00:54:19.950 | DM] You know it's.
 [u0622 | 00:54:21.960-00:54:26.550 | DM] yeah you know you don't you don't know a ton about.
@@ -818,7 +818,7 @@
 [u0818 | 01:11:23.430-01:11:36.270 | DM] One is this seems to be some kind of incantation of like control or binding or closing, I mean long faded doesn't there's your gas is no longer active.
 [u0819 | 01:11:37.950-01:11:40.620 | DM] and the other is that you see.
 [u0820 | 01:11:43.110-01:11:54.330 | DM] You know, repeated in this in this sort of incantation which is like you know, a string of words like commanding water, you see, like I Aryan command this written.
-[u0821 | 01:11:59.130-01:12:01.080 | Wazir] area and, like area in the midst speaker.
+[u0821 | 01:11:59.130-01:12:01.080 | Wazir] Airion, like Airion the Mistspeaker.
 [u0822 | 01:12:01.590-01:12:03.000 | DM] spelled the same way.
 [u0823 | 01:12:03.540-01:12:04.650 | Ryu] like this is all power.
 [u0824 | 01:12:07.080-01:12:09.360 | Trok] really is i'm swimming down.
@@ -986,7 +986,7 @@
 [u0986 | 01:25:02.610-01:25:04.770 | Ryu] that's for my people around orphans.
 [u0987 | 01:25:06.780-01:25:11.070 | Kaleho] or friends or in the drowned flat so that's our i'll go first I know.
 [u0988 | 01:25:11.490-01:25:13.230 | Kaleho] So i'll go with him.
-[u0989 | 01:25:13.800-01:25:25.080 | DM] Okay, so i'll just i'll just you know you you travel to your various locations and eventually i'll just go around in circles with so so Rhea you're you're you know fairly close.
+[u0989 | 01:25:13.800-01:25:25.080 | DM] Okay, so i'll just i'll just you know you you travel to your various locations and eventually i'll just go around in circles with so so Ryu you're you're you know fairly close.
 [u0990 | 01:25:25.590-01:25:27.270 | Ryu] To Jaeson I say.
 [u0991 | 01:25:27.330-01:25:30.840 | Ryu] I would say Trok and I probably know both both these characters so like.
 [u0992 | 01:25:30.900-01:25:31.200 | DM] Okay.
@@ -1257,15 +1257,15 @@
 [u1257 | 01:44:26.760-01:44:28.770 | DM] That you're not guys gonna die.
 [u1258 | 01:44:29.970-01:44:30.660 | Ryu] What happened.
 [u1259 | 01:44:34.440-01:44:35.490 | DM] Two weeks ago.
-[u1260 | 01:44:37.320-01:44:43.650 | DM] And went to the sharks Doc could see it from here, then came back and sell the rights to the shoals again.
-[u1261 | 01:44:44.610-01:44:47.130 | Trok] The sharks Doc I wonder what they were doing they're.
+[u1260 | 01:44:37.320-01:44:43.650 | DM] And went to the Shark's Dock could see it from here, then came back and sailed right through the shoals again.
+[u1261 | 01:44:44.610-01:44:47.130 | Trok] The Shark's Dock, I wonder what they were doing there.
 [u1262 | 01:44:47.640-01:44:53.550 | DM] Like what's up with that man, I mean a boat that can go through rock.
 [u1263 | 01:44:55.230-01:44:55.560 | Ryu] that's.
 [u1264 | 01:44:56.130-01:44:57.390 | DM] we're right.
 [u1265 | 01:44:59.010-01:45:02.160 | Ryu] On and on this one i'm with you, that is very strange.
 [u1266 | 01:45:03.030-01:45:06.210 | Ryu] it's very strange but exactly the type of shit we're looking to understand more about.
 [u1267 | 01:45:07.350-01:45:08.160 | Trok] You know, we owe you one.
-[u1268 | 01:45:09.450-01:45:12.150 | Trok] sounds like logic check out the sharks Doc.
+[u1268 | 01:45:09.450-01:45:12.150 | Trok] sounds like logic check out the Shark's Dock.
 [u1269 | 01:45:16.170-01:45:17.190 | Ryu] yeah.
 [u1270 | 01:45:18.420-01:45:21.900 | Ryu] Anything else, Orden? Hey, if you remember any other things you've seen recently.
 [u1271 | 01:45:24.180-01:45:27.030 | DM] There was that day when there was no fish in the ocean.
@@ -1381,9 +1381,9 @@
 [u1381 | 01:54:20.790-01:54:23.670 | DM] Anything else you want to do here before you meet back at the market.
 [u1382 | 01:54:23.790-01:54:24.000 | Unknown] Now.
 [u1383 | 01:54:25.170-01:54:26.520 | Wazir] Okay um.
-[u1384 | 01:54:27.750-01:54:45.060 | DM] So meeting back in the market, the market at this time of day now just past lunch is pretty quiet and it's basically just like these, like you know the the old folk of the town sitting around talking there's one i'm mostly humans, except there's one sort of older lizard folk who.
+[u1384 | 01:54:27.750-01:54:45.060 | DM] So meeting back in the market, the market at this time of day now just past lunch is pretty quiet and it's basically just like these, like you know the the old folk of the town sitting around talking there's one i'm mostly humans, except there's one sort of older lizardfolk who.
 [u1385 | 01:54:47.310-01:54:51.210 | DM] He comes he lives up on the on the cliffs by the.
-[u1386 | 01:54:53.550-01:55:05.160 | DM] sort of up here by himself he's sort of like the liaison between this town and the lizard folk settlement to the south, but how often come down to the market and, just like chill with the with the town's folk.
+[u1386 | 01:54:53.550-01:55:05.160 | DM] sort of up here by himself he's sort of like the liaison between this town and the lizardfolk settlement to the south, but how often come down to the market and, just like chill with the with the town's folk.
 [u1387 | 01:55:06.420-01:55:11.160 | DM] After lunch he's also like on the older side like pale blue.
 [u1388 | 01:55:13.740-01:55:18.900 | DM] Hello blue scales like seems to be a little arthritic moves slowly, but you know curious.
 [u1389 | 01:55:20.580-01:55:28.560 | DM] Trok you would probably be aware of him, but possibly not particularly excited to talk to them, given your history.
@@ -1403,7 +1403,7 @@
 [u1403 | 01:56:40.950-01:56:56.760 | DM] Ah, you get like various you know the typical like everybody starts arguing like is that now know that like um and you know one sort of older woman who seems to be the person who kind of you know keeps cord is you know says.
 [u1404 | 01:57:00.150-01:57:02.730 | DM] If you really want to know, she says,
 [u1405 | 01:57:03.930-01:57:04.830 | DM] You got to either ask.
-[u1406 | 01:57:06.180-01:57:11.670 | DM] Benat was the lizard folk you know or or go talk to talk to.
+[u1406 | 01:57:06.180-01:57:11.670 | DM] Benat was the lizardfolk you know or or go talk to talk to.
 [u1407 | 01:57:14.940-01:57:18.120 | DM] I'm sorry, hold on. Go talk to Yaz,
 [u1408 | 01:57:19.170-01:57:19.710 | DM] lives.
 [u1409 | 01:57:21.000-01:57:24.180 | DM] oldest living ocean watcher, lives up in the towers.
@@ -1598,16 +1598,16 @@
 [u1598 | 02:10:50.850-02:11:01.020 | DM] So you don't know a fence exactly, but actually both of you, both Kaleho and Wazir, would know that there's a
 [u1599 | 02:11:02.100-02:11:06.180 | DM] poor Mawaran smith named Ovina.
 [u1600 | 02:11:07.290-02:11:09.120 | DM] Who is kind of.
-[u1601 | 02:11:10.650-02:11:17.880 | DM] You know her her shop is like on in cliff side, but like real close to the sharks Doc over here.
-[u1602 | 02:11:18.390-02:11:28.290 | DM] And she is she's kind of loner I mean she's one of the very few dwarves and, possibly, the only dwarf and omri doesn't really talk to people much one of the few smith's.
-[u1603 | 02:11:28.860-02:11:39.480 | DM] Was there who's not like you know, most of the smiths around here like look up to you is basically like them right you're the one they go to she's like kind of.
+[u1601 | 02:11:10.650-02:11:17.880 | DM] You know her her shop is like on in cliff side, but like real close to the Shark's Dock over here.
+[u1602 | 02:11:18.390-02:11:28.290 | DM] And she is she's kind of loner I mean she's one of the very few dwarves and, possibly, the only dwarf in Hamri doesn't really talk to people much one of the few smiths.
+[u1603 | 02:11:28.860-02:11:39.480 | DM] Wazir who's not like you know, most of the smiths around here like look up to you is basically like them right you're the one they go to she's like kind of.
 [u1604 | 02:11:40.830-02:11:50.760 | DM] Never you've never really connected, which is sort of unusual and you know and Kaleho like you know, this is the person who you know.
 [u1605 | 02:11:52.110-02:12:09.330 | DM] not exactly a fence, but like if you have some questionable gold, or, you know, you've come across some silver ring that you want melted down and turned into trade bars that nobody will
 [u1606 | 02:12:10.020-02:12:14.970 | DM] Follow something like that she's the one that you know you would go to.
 [u1607 | 02:12:16.350-02:12:17.880 | Ryu] All the cryptocurrency and lottery.
 [u1608 | 02:12:19.980-02:12:20.670 | Kaleho] Does she know me.
 [u1609 | 02:12:22.500-02:12:25.650 | DM] um you'd probably have met her yeah.
-[u1610 | 02:12:26.760-02:12:34.260 | DM] I mean you've been through hungry and off you probably have at one point or another had some dubious goods to exchange so.
+[u1610 | 02:12:26.760-02:12:34.260 | DM] I mean you've been through Hamri enough you probably have at one point or another had some dubious goods to exchange so.
 [u1611 | 02:12:35.460-02:12:35.850 | DM] um.
 [u1612 | 02:12:39.390-02:12:45.960 | DM] So yeah she would probably know you I mean it obviously she probably would know of all of you right, I mean you're all fairly famous.
 [u1613 | 02:12:48.300-02:12:52.380 | Wazir] It was also yeah as who was just mentioned Benat.
@@ -1615,23 +1615,23 @@
 [u1615 | 02:12:56.070-02:12:58.470 | Ryu] It was like that'd be a good person to talk to us for fun yes.
 [u1616 | 02:13:02.580-02:13:03.150 | Wazir] and
 [u1617 | 02:13:08.340-02:13:11.370 | Wazir] Is there anyone else, I still I still wonder if.
-[u1618 | 02:13:11.460-02:13:12.780 | Unknown] selfie with know anything.
+[u1618 | 02:13:11.460-02:13:12.780 | Unknown] Sofi would know anything.
 [u1619 | 02:13:13.980-02:13:14.760 | Wazir] about the boat.
 [u1620 | 02:13:18.030-02:13:18.570 | Ryu] wonder who.
-[u1621 | 02:13:19.380-02:13:23.430 | Wazir] Sophie the the woman who like is the ship she's like the shipbuilding magnate.
+[u1621 | 02:13:19.380-02:13:23.430 | Wazir] Sofi the the woman who like is the ship she's like the shipbuilding magnate.
 [u1622 | 02:13:24.600-02:13:26.100 | Kaleho] Like the hips.
-[u1623 | 02:13:26.550-02:13:27.840 | Wazir] Queen of ships, she like.
+[u1623 | 02:13:26.550-02:13:27.840 | Wazir] Queen of Ships, she like.
 [u1624 | 02:13:27.840-02:13:31.590 | Wazir] builds she like owns all the after all the shipyards and half the docks and.
 [u1625 | 02:13:31.950-02:13:32.730 | Wazir] she's like the.
 [u1626 | 02:13:35.010-02:13:44.760 | Ryu] will let you know our men drove a phantom boat through the shoals either the shoals have a passage we don't know about.
 [u1627 | 02:13:46.290-02:13:49.290 | Ryu] Or the boat can travel through yeah.
-[u1628 | 02:13:50.820-02:13:53.370 | Wazir] The shark stock might be worth poking around to.
+[u1628 | 02:13:50.820-02:13:53.370 | Wazir] The Shark's Dock might be worth poking around too.
 [u1629 | 02:13:54.780-02:13:55.950 | Ryu] What is by the way.
 [u1630 | 02:13:56.190-02:13:56.550 | Trok] Oh yeah.
 [u1631 | 02:13:57.090-02:14:09.450 | DM] Yeah, it's like the seedy, like on the map here, right, most of those ships tie up on this part of the harbor, which is the nice part of the harbor.
 [u1632 | 02:14:09.810-02:14:17.580 | DM] These are called the Shark's Teeth, these islands that are out here, and the Shark's Dock is like the oldest and most rundown
-[u1633 | 02:14:18.030-02:14:27.420 | DM] Of the docs it's a little bit tricky to navigate to because you have to make this sharp turn along the edge of the sharks Doc edge of the shark's teeth so it's kinda like the.
-[u1634 | 02:14:28.440-02:14:33.450 | DM] name the sharks Doc because it's close to the shark's teeth, but it's also like the sort of CD Doc.
+[u1633 | 02:14:18.030-02:14:27.420 | DM] Of the docks it's a little bit tricky to navigate to because you have to make this sharp turn along the edge of the Shark's Dock edge of the Shark's Teeth so it's kinda like the.
+[u1634 | 02:14:28.440-02:14:33.450 | DM] name the Shark's Dock because it's close to the Shark's Teeth, but it's also like the sort of seedy dock.
 [u1635 | 02:14:34.230-02:14:34.560 | Ryu] got it.
 [u1636 | 02:14:36.810-02:14:37.920 | Kaleho] With a quick break.
 [u1637 | 02:14:39.120-02:14:40.440 | DM] Yes, that's a good idea.
@@ -1706,9 +1706,9 @@
 [u1706 | 02:23:21.240-02:23:22.200 | Kaleho] i'll take Trok.
 [u1707 | 02:23:23.220-02:23:24.720 | Kaleho] To the HR Smith.
 [u1708 | 02:23:30.090-02:23:31.080 | DM] Okay, so.
-[u1709 | 02:23:34.350-02:23:44.250 | DM] So Kaleho and Trok are heading to the blacksmith Wazir and re you are going to try to get an audience with um.
+[u1709 | 02:23:34.350-02:23:44.250 | DM] So Kaleho and Trok are heading to the blacksmith Wazir and Ryu are going to try to get an audience with um.
 [u1710 | 02:23:47.520-02:23:48.240 | DM] With.
-[u1711 | 02:23:50.670-02:23:52.200 | DM] Sophie yep.
+[u1711 | 02:23:50.670-02:23:52.200 | DM] Sofi yep.
 [u1712 | 02:23:52.680-02:24:00.210 | DM] And then you're going to meet so next time you meet it will be probably like late afternoon.
 [u1713 | 02:24:00.990-02:24:02.760 | DM] yeah I think stock yeah.
 [u1714 | 02:24:05.730-02:24:06.150 | DM] Okay.
@@ -1815,7 +1815,7 @@
 [u1815 | 02:33:21.150-02:33:22.050 | DM] Always pleasure.
 [u1816 | 02:33:26.160-02:33:27.810 | DM] Trok nice to finally meet you.
 [u1817 | 02:33:29.100-02:33:30.330 | Trok] I bow awkwardly.
-[u1818 | 02:33:36.360-02:33:39.900 | DM] So while they're making their way back to the sharks Doc.
+[u1818 | 02:33:36.360-02:33:39.900 | DM] So while they're making their way back to the Shark's Dock.
 [u1819 | 02:33:42.660-02:33:57.870 | DM] Wazir and Ryu, you head up the cliffside, up these steep switchback trails to Glitter Cliff, nearly up to the towers.
 [u1820 | 02:34:03.240-02:34:08.250 | DM] This like big open terrorists that, as these like for really nice.
 [u1821 | 02:34:09.300-02:34:18.270 | DM] fancy houses, some of the richest and fanciest houses in town, one of which is was ears family and one of which is.
@@ -1830,7 +1830,7 @@
 [u1830 | 02:34:57.900-02:35:04.050 | DM] know the nature of your business Wazir self is, as always, quite busy.
 [u1831 | 02:35:06.420-02:35:07.170 | Wazir] I think.
 [u1832 | 02:35:09.360-02:35:10.680 | Wazir] Something might have.
-[u1833 | 02:35:11.760-02:35:14.370 | Wazir] happened that her Doc that she should know about.
+[u1833 | 02:35:11.760-02:35:14.370 | Wazir] happened at her dock that she should know about.
 [u1834 | 02:35:15.450-02:35:16.020 | Wazir] A ship.
 [u1835 | 02:35:17.280-02:35:22.020 | Wazir] That shouldn't have been there that perhaps she's curious about.
 [u1836 | 02:35:26.130-02:35:28.140 | DM] I will see if she can spare some time.
@@ -1889,7 +1889,7 @@
 [u1889 | 02:39:48.180-02:39:50.790 | Ryu] You like it with us common people I appreciate that about you.
 [u1890 | 02:39:52.560-02:39:54.450 | Wazir] The reason I built the end where I did.
 [u1891 | 02:39:55.710-02:39:58.440 | Ryu] Well, see if shocking shocking kill any better luck.
-[u1892 | 02:40:01.290-02:40:11.610 | DM] So you meet on the shark stock which is like I mean it's a rickety you know it is it's the heat of the summer and it's like you know late afternoon there are actually people diving off the dock and swimming and it's a.
+[u1892 | 02:40:01.290-02:40:11.610 | DM] So you meet on the Shark's Dock which is like I mean it's a rickety you know it is it's the heat of the summer and it's like you know late afternoon there are actually people diving off the dock and swimming and it's a.
 [u1893 | 02:40:12.000-02:40:21.390 | DM] You know it's a, it is a place where like you know the common folk do go to swim occasionally um you know after work after you know the heat of the day.
 [u1894 | 02:40:23.460-02:40:35.850 | DM] So there are some bustle of activity, but it's a place where there's like lots of little nooks and crannies and things and all and warehouses, and so you can sort of get together, you know, in a little out of the way place.
 [u1895 | 02:40:39.570-02:40:42.510 | Wazir] Where are we here, so we were told that the boat dock here.
@@ -1988,7 +1988,7 @@
 [u1988 | 02:46:35.490-02:46:49.680 | Kaleho] I I know nothing of of magic it looks normal to me look normal to the blacksmith but this could be powerful magic that obscures, just like the boat can be obscured from somebody.
 [u1989 | 02:46:54.240-02:46:57.060 | Wazir] To artifices even get the text magic.
 [u1990 | 02:46:58.800-02:47:04.230 | Wazir] I forget how do I spell I don't even know I don't really know how I my spells work I don't know if I can learn to take magic.
-[u1991 | 02:47:08.070-02:47:12.120 | Ryu] It but why did they, why did they want the Center notion why they want it, though, so.
+[u1991 | 02:47:08.070-02:47:12.120 | Ryu] It but why did they, why did they want the Sentient Ocean why they want it, though, so.
 [u1992 | 02:47:12.420-02:47:13.200 | Wazir] I think.
 [u1993 | 02:47:13.290-02:47:18.450 | Wazir] I think so. First of all, I think the knife, the thing that's haunting his dreams, is Gazankoa.
 [u1994 | 02:47:20.010-02:47:21.060 | Trok] Which is what.
@@ -2441,7 +2441,7 @@
 [u2441 | 03:20:37.230-03:20:49.410 | DM] The plan like early in the morning i'm kind of I mean that you know there's there's the leg morning rush like the pre dawn rush as a bunch of the i'm.
 [u2442 | 03:20:50.520-03:21:00.030 | DM] a bunch of the fishing boats go out early and then like around dawn just after dawn there's always a bit of a law and in this.
 [u2443 | 03:21:01.170-03:21:02.820 | DM] Just post on la.
-[u2444 | 03:21:04.230-03:21:13.890 | DM] Is you're still making your way from the Leviathan, to the sharks Doc along the docks i'm blue comes down to your shoulder and.
+[u2444 | 03:21:04.230-03:21:13.890 | DM] Is you're still making your way from the Leviathan, to the Shark's Dock along the docks i'm blue comes down to your shoulder and.
 [u2445 | 03:21:15.420-03:21:16.920 | DM] Reports to you that.
 [u2446 | 03:21:22.980-03:21:27.270 | DM] That there's a ship coming from the north just rounding this this.
 [u2447 | 03:21:29.190-03:21:30.990 | DM] point here moving fast.
@@ -2488,7 +2488,7 @@
 [u2488 | 03:24:21.090-03:24:25.380 | DM] Okay um but not you're not super close to the shop because.
 [u2489 | 03:24:25.440-03:24:29.520 | DM] You know you don't want to be, you need to be somewhere where you can sort of hide among the warehouse.
 [u2490 | 03:24:29.580-03:24:30.210 | DM] and say.
-[u2491 | 03:24:30.570-03:24:37.950 | DM] So, but you can see, so real you see i'm about 20 minutes later sort of you know, coming up from the Doc.
+[u2491 | 03:24:30.570-03:24:37.950 | DM] So, but you can see, so Ryu you see i'm about 20 minutes later sort of you know, coming up from the dock.
 [u2492 | 03:24:39.450-03:24:47.970 | DM] This sort of older man like hunched over with like this pile of cloaks over his shoulders like you know whether.
 [u2493 | 03:24:49.350-03:24:59.250 | DM] Like oil skin cloaks shaving his face but there's a bit of a scraggly Gray beard thats thats hanging out and he's walking quickly and with purpose towards.
 [u2494 | 03:24:59.700-03:25:14.670 | DM] Ovina shop, who has opened early in anticipation of this event i'm aware that you are all hanging around and he just kind of head straight for the shop crossing this Plaza where you're sort of later going to go into the into the shop.
@@ -2672,7 +2672,7 @@
 [u2672 | 03:36:01.950-03:36:03.780 | Ryu] Not a bad situation for all of us.
 [u2673 | 03:36:05.040-03:36:06.060 | Kaleho] didn't make it to the boat.
 [u2674 | 03:36:06.240-03:36:08.880 | Trok] It might be a bad situation for the structure of the duck itself.
-[u2675 | 03:36:09.420-03:36:13.290 | Ryu] yeah this, but this is also why we're at the sharks Doc wait.
+[u2675 | 03:36:09.420-03:36:13.290 | Ryu] yeah this, but this is also why we're at the Shark's Dock wait.
 [u2676 | 03:36:13.410-03:36:15.330 | Kaleho] What is trucks class.
 [u2677 | 03:36:17.190-03:36:18.030 | Trok] What is what I.
 [u2678 | 03:36:18.060-03:36:19.290 | Wazir] climbed a fighter a.
@@ -2759,7 +2759,7 @@
 [u2759 | 03:41:45.030-03:41:47.370 | DM] And erupting.
 [u2760 | 03:41:49.710-03:41:51.330 | DM] From the ground.
 [u2761 | 03:41:53.160-03:41:54.360 | DM] surrounding.
-[u2762 | 03:41:55.500-03:41:57.660 | DM] You and the Doc.
+[u2762 | 03:41:55.500-03:41:57.660 | DM] You and the dock.
 [u2763 | 03:41:58.710-03:41:59.220 | DM] Are.
 [u2764 | 03:42:00.480-03:42:01.590 | DM] An enormous.
 [u2765 | 03:42:02.940-03:42:04.170 | DM] square of.
@@ -3230,8 +3230,8 @@
 [u3230 | 04:09:21.780-04:09:22.020 | DM] Okay.
 [u3231 | 04:09:22.050-04:09:24.090 | Wazir] right there it's both of them and.
 [u3232 | 04:09:25.350-04:09:25.890 | Ryu] ice.
-[u3233 | 04:09:27.510-04:09:29.460 | Trok] would take out the Doc a little bit.
-[u3234 | 04:09:30.180-04:09:35.910 | Wazir] yeah shake up the Doc a bit that's OK DC 15 concept.
+[u3233 | 04:09:27.510-04:09:29.460 | Trok] would take out the dock a little bit.
+[u3234 | 04:09:30.180-04:09:35.910 | Wazir] yeah shake up the dock a bit that's OK DC 15 concept.
 [u3235 | 04:09:37.320-04:09:38.880 | Wazir] Well Tara terrible for damage, though.
 [u3236 | 04:09:41.790-04:09:42.510 | DM] failed.
 [u3237 | 04:09:43.530-04:09:45.780 | DM] And failed.
@@ -3441,7 +3441,7 @@
 [u3441 | 04:21:12.930-04:21:19.890 | Kaleho] I will you study aim yep so I don't have disadvantage for the distance and then let me roll.
 [u3442 | 04:21:23.910-04:21:24.780 | DM] that's.
 [u3443 | 04:21:27.060-04:21:28.680 | DM] The only has to hit points it doesn't matter what.
-[u3444 | 04:21:32.370-04:21:37.140 | DM] So zombie spring water falls dad.
+[u3444 | 04:21:32.370-04:21:37.140 | DM] So zombie spring water falls dead.
 [u3445 | 04:21:39.210-04:21:39.510 | Wazir] Okay.
 [u3446 | 04:21:39.570-04:21:45.060 | DM] Z are now free rushes over in presumably heels, is our son he doesn't die.
 [u3447 | 04:21:46.440-04:21:46.830 | Ryu] you mean.
@@ -3469,9 +3469,9 @@
 [u3469 | 04:22:50.850-04:22:53.010 | Ryu] versus layer we bundle where.
 [u3470 | 04:22:53.070-04:22:53.640 | DM] I was at the.
 [u3471 | 04:22:55.950-04:23:02.940 | DM] Culture wars, I had the tavern in case he went to the stormy made it and got into a fight there.
-[u3472 | 04:23:03.270-04:23:06.000 | DM] yeah I didn't have the docs.
+[u3472 | 04:23:03.270-04:23:06.000 | DM] yeah I didn't have the docks.
 [u3473 | 04:23:06.720-04:23:07.230 | Kaleho] I thought.
-[u3474 | 04:23:07.440-04:23:09.750 | Trok] I thought the docs worked great improvisers.
+[u3474 | 04:23:07.440-04:23:09.750 | Trok] I thought the docks worked great improvisers.
 [u3475 | 04:23:10.380-04:23:10.590 | Unknown] Yes.
 [u3476 | 04:23:11.700-04:23:13.440 | Ryu] Yes, very good water, we could throw into.
 [u3477 | 04:23:13.980-04:23:17.880 | DM] So, so you interrogate them and you learn the story he indeed.
@@ -3485,7 +3485,7 @@
 [u3485 | 04:23:36.180-04:23:36.990 | Trok] Great oh.
 [u3486 | 04:23:37.230-04:23:39.090 | DM] yeah for the subjects and tell us.
 [u3487 | 04:23:39.090-04:23:40.980 | Ryu] What what up what we learn yeah that that's fine.
-[u3488 | 04:23:40.980-04:23:48.930 | DM] So, so you learned he indeed had had lost his wife gotten hooked on god's.
+[u3488 | 04:23:40.980-04:23:48.930 | DM] So, so you learned he indeed had had lost his wife gotten hooked on gatza.
 [u3489 | 04:23:50.640-04:23:51.300 | DM] started.
 [u3490 | 04:23:51.330-04:23:53.580 | DM] relatable speaking to this.
 [u3491 | 04:23:55.560-04:23:55.890 | DM] This.
@@ -3503,7 +3503,7 @@
 [u3503 | 04:25:08.760-04:25:15.090 | Kaleho] yeah the the size of it is very, very pleasant and also liked our various team up interrogations.
 [u3504 | 04:25:15.120-04:25:15.390 | Wazir] yeah.
 [u3505 | 04:25:15.420-04:25:16.800 | Ryu] That was that also as.
-[u3506 | 04:25:17.310-04:25:34.260 | DM] You guys figured out most of that, I mean I thought you would just once he realized that I guess you didn't quite figure out that he was seeking out arians like he wanted to be at places that were close to the plane of water so as there was the other areas.
+[u3506 | 04:25:17.310-04:25:34.260 | DM] You guys figured out most of that, I mean I thought you would just once he realized that I guess you didn't quite figure out that he was seeking out Airion's sites, like he wanted to be at places that were close to the Plane of Water so Azar was the other areas.
 [u3507 | 04:25:34.380-04:25:40.440 | Wazir] As well i'm gonna go there, but I was good to suggest going to the well but.
 [u3508 | 04:25:40.440-04:25:40.710 | Kaleho] We.
 [u3509 | 04:25:40.830-04:25:41.370 | Wazir] We add a.
@@ -3513,34 +3513,34 @@
 [u3513 | 04:25:46.620-04:25:50.610 | DM] You can either meet them yeah it was good, I was happy with that.
 [u3514 | 04:25:51.540-04:25:55.200 | Ryu] That was great and wishing him at the docks wizard or trying to or meeting him at the docks was.
 [u3515 | 04:25:55.530-04:25:56.790 | DM] That worked well, I should have a.
-[u3516 | 04:25:57.060-04:26:03.450 | DM] beta that and made a Doc but it's tough with these online things because I can't just I mean I guess it worked drawing maps right.
+[u3516 | 04:25:57.060-04:26:03.450 | DM] anticipated that and made a dock but it's tough with these online things because I can't just I mean I guess it worked drawing maps right.
 [u3517 | 04:26:03.480-04:26:04.410 | Wazir] yeah it works fine.
 [u3518 | 04:26:04.920-04:26:05.730 | Ryu] yeah good.
 [u3519 | 04:26:06.930-04:26:16.170 | Wazir] Oh wait, is there any connection that we know about to the larger mystery like Why would I don't get is why did he what's yet side and why did.
-[u3520 | 04:26:16.170-04:26:18.090 | DM] He says the 70 addiction.
+[u3520 | 04:26:16.170-04:26:18.090 | DM] He says the gatza addiction.
 [u3521 | 04:26:18.390-04:26:20.190 | Wazir] yeah I figured but why did he.
-[u3522 | 04:26:20.910-04:26:26.760 | Wazir] How did he get it, I told him to summon a creature to go get the Center notion of then, why was it some left.
+[u3522 | 04:26:20.910-04:26:26.760 | Wazir] How did he get it, I told him to summon a creature to go get the Sentient Ocean of then, why was it some left.
 [u3523 | 04:26:27.210-04:26:28.350 | Wazir] No, not be a bigger story.
-[u3524 | 04:26:28.920-04:26:34.350 | DM] He arians notes suggest told told them about the Center nurse.
+[u3524 | 04:26:28.920-04:26:34.350 | DM] Airion's notes told them about the Sentient Ocean.
 [u3525 | 04:26:35.430-04:26:40.590 | DM] made it up on his own that maybe if he used better water this ritual would work.
 [u3526 | 04:26:41.490-04:26:47.700 | DM] He didn't just use the salt water from the ocean, if he used living water than his wife would actually come back.
 [u3527 | 04:26:49.620-04:26:50.520 | DM] To his own.
 [u3528 | 04:26:50.760-04:26:52.890 | Wazir] The word it was there, and he laughed he just didn't have enough.
 [u3529 | 04:26:52.890-04:26:53.610 | Wazir] People to kill.
 [u3530 | 04:26:54.000-04:26:55.320 | DM] He didn't have enough people to kill.
-[u3531 | 04:26:55.470-04:26:57.930 | Ryu] What where did he get the water that the Mirko guy drink.
-[u3532 | 04:26:59.220-04:27:06.660 | DM] That he summoned arians rang let him summon a water jeannie American.
+[u3531 | 04:26:55.470-04:26:57.930 | Ryu] What where did he get the water that the merfolk guy drank.
+[u3532 | 04:26:59.220-04:27:06.660 | DM] That he summoned Airion's ring let him summon a water genie, a marid, and.
 [u3533 | 04:27:08.010-04:27:09.030 | DM] command.
 [u3534 | 04:27:09.420-04:27:10.950 | Trok] which is what we thought last year.
-[u3535 | 04:27:11.460-04:27:15.510 | DM] No marriage or kill you all marriage they're like super powerful.
+[u3535 | 04:27:11.460-04:27:15.510 | DM] No, marids will kill you all, marids they're like super powerful.
 [u3536 | 04:27:15.540-04:27:15.900 | Wazir] they're like.
-[u3537 | 04:27:16.350-04:27:22.230 | DM] g spot the it was in the scroll the marriage some into guardians protect the safety and what are.
+[u3537 | 04:27:16.350-04:27:22.230 | DM] It was in the scroll, the marids are summoned to guard and protect the sentient water.
 [u3538 | 04:27:22.380-04:27:23.370 | Trok] The.
-[u3539 | 04:27:23.460-04:27:27.720 | DM] And then left pests, because she didn't want to mess up.
-[u3540 | 04:27:29.100-04:27:38.850 | DM] She didn't want to get involved in the politics, but the ring commanded or two so she was angry, but the curse of the ring when she can't hurt him for 1000 in one day is.
-[u3541 | 04:27:39.300-04:27:42.300 | Ryu] and actually went and got got the water from the bar folk.
-[u3542 | 04:27:42.660-04:27:47.850 | DM] yeah but she had to go back to hungry, because he could plane shift to the cave.
-[u3543 | 04:27:49.800-04:27:51.930 | DM] Because it's playing of water is close.
+[u3539 | 04:27:23.460-04:27:27.720 | DM] And then left pissed, because she didn't want to mess up.
+[u3540 | 04:27:29.100-04:27:38.850 | DM] She didn't want to get involved in the politics, but the ring commanded her to so she was angry, but the curse of the ring when she can't hurt him for 1000 and one days.
+[u3541 | 04:27:39.300-04:27:42.300 | Ryu] and actually went and got got the water from the merfolk.
+[u3542 | 04:27:42.660-04:27:47.850 | DM] yeah but she had to go back to Hamri, because he could plane shift to the cave.
+[u3543 | 04:27:49.800-04:27:51.930 | DM] Because its Plane of Water is close.
 [u3544 | 04:27:52.320-04:27:53.790 | Ryu] would not have figured that out.
 [u3545 | 04:27:54.180-04:27:55.500 | DM] And the radio really supposed to.
 [u3546 | 04:27:55.500-04:27:57.810 | DM] figuring all of that detail.

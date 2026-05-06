@@ -1,28 +1,30 @@
 # Beat Facts Preview
 
 - Beats file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-beats.json
-- Beat count: 10
+- Beat count: 9
 
-## Scroll at the Leviathan
+## Initial Scroll Discussion
 *beat-001*
 
 **Date**: 1747-08-03
 **Time Window**: evening
 **Combat**: no
-**Short Summary**: At the Leviathan, Wazir shares Azar's deciphered scroll and the party realizes Hamri's recent troubles tie back to Gazankoa, Nimessa, and the stolen Sentient Ocean.
-**Long Summary**: Ten days after recovering the strange seawater, the party meets at the Leviathan Inn with Kaleho and studies Wazir's translation of Azar's scroll. The account links Azar the Lost, Gazankoa, Nadine, Nimessa, Airion's tower, and the Sentient Ocean into one chain of events, giving the party its first coherent picture of why someone in Hamri has been stealing bodies and chasing water-touched magic.
+**Short Summary**: At the Leviathan, Wazir shares The Ciphered Scroll and the party connects Hamri's recent deaths to Gazankoa, Airion, Nimessa, and the stolen Sentient Ocean.
+**Long Summary**: The party gathers at the Leviathan while Wazir walks through The Ciphered Scroll: its author sought to restore his dead wife Nadine, sacrificed people whose bodies filled with water, chased legends of Airion the Mistspeaker, found a ring tied to Nimessa, and came to Hamri after calling on Gazankoa. The group debates resurrection, gatza visions, Medin, Airion's ruined tower above the sea cave, and the living water before deciding to rest and search the tower in the morning.
 **Location**:
 - Hamri: the Leviathan Inn, where the party compares notes over Wazir's translation
-  Note: The session opens with the group gathered indoors to study the scroll and decide what to investigate next.
+  Note: The opening discussion stays at the inn and ends with the group resting before the morning search.
 **NPCs**:
-- Azar the Lost (mentioned): author of the deciphered scroll. His account drives the entire investigation.
-- Gazankoa (mentioned): the voice or presence influencing Azar. The scroll frames Gazankoa as the force behind Azar's visions and obsession.
-- Nadine (mentioned): Azar's dead wife. Azar's grief over Nadine is central to what the scroll describes.
-- Nimessa (mentioned): marid summoned by Azar. She is described as the one who stole the Sentient Ocean for him.
-- Airion (mentioned): wizard tied to the tower and the strange water lore. Azar's notes point back to Airion's work and treasure.
+- Azar the Lost (mentioned): author of The Ciphered Scroll. His account drives the investigation into the recent deaths and the strange water.
+- Gazankoa (mentioned): voice or power named in the scroll. The party treats Gazankoa as the force behind the scroll author's visions and sacrifices.
+- Nadine (mentioned): Azar's dead wife. Azar's desire to bring her back is the emotional center of the scroll.
+- Nimessa (mentioned): marid summoned through Airion's ring. The scroll says she was compelled to steal the Sentient Ocean.
+- Airion (mentioned): ancient wizard and Mistspeaker. Airion's tower, ring, and water magic become the party's next investigative thread.
+- Medin (mentioned): place or term named in the scroll. Wazir flags Medin as part of the scroll's chain of clues.
 **Items**:
-- Ciphered Scroll (encountered): Wazir has translated the scroll and the party discusses its contents in detail.
-- Sentient Ocean (mentioned): The recovered seawater is the object Azar used in his experiments.
+- The Ciphered Scroll (encountered): Wazir has translated it and reads its contents to the party.
+- Sentient Ocean (mentioned): The recovered living water appears to be the object Azar wanted Nimessa to steal.
+- Airion's ring (mentioned): The scroll links the ring to summoning or commanding Nimessa.
 **Organizations**: none
 
 ## Searching Airion's Tower
@@ -31,177 +33,189 @@
 **Date**: 1747-08-04
 **Time Window**: morning
 **Combat**: no
-**Short Summary**: The party searches Airion's ruined tower, finds recent traces of occupation, and confirms that the old water illusion still clings to the site.
-**Long Summary**: The next morning the group climbs to Airion's ruined tower north of Hamri and finds signs that someone has been living there recently while trying to hide that fact. The same uncanny watery illusion that haunted the sea cave lingers here as well, convincing the party that the tower matters and sending them back into town to ask who has seen the recent occupant.
+**Short Summary**: The party searches Airion's ruined tower, finds signs of recent occupation, and confirms that an old watery illusion still clings to the site.
+**Long Summary**: The next morning the group reaches the abandoned north-face watchtower above the sea cave and discovers that a newer tower was built over much older stonework. Inside, the place throws them into a convincing Plane of Water illusion with dolphins, black-water tendrils, and Airion's water-commanding incantation before the image fades back to the shallow flooded chamber; the evidence of recent habitation sends them back toward town informants.
 **Location**:
 - Hamri: Airion's ruined tower on the north cliffs above the sea cave
-  Note: The beat stays focused on the tower itself and the evidence of recent habitation there.
+  Note: The beat stays focused on the tower, its older foundation, and the lingering water magic within.
 **NPCs**:
-- Airion (mentioned): former owner of the ruined tower. The tower's lingering magic and local identity remain tied to Airion.
-**Items**: none
+- Airion (mentioned): former owner or source of the tower's old magic. His name appears in the incantation tied to the water illusion.
+- recent tower occupant (mentioned): unidentified person who had been living in the tower. The party finds signs that someone has used the ruin in recent weeks.
+**Items**:
+- Ring of Water Walking (encountered): Kaleho uses the ring while testing the tower's water illusion.
+- Cloak of the Manta Ray (encountered): Wazir offers it as a practical response to Trok being in real water beneath the illusion.
 **Organizations**: none
 
-## Jaeson and the Orphans
+## Morning Town Informants
 *beat-003*
 
 **Date**: 1747-08-04
 **Time Window**: morning
 **Combat**: no
-**Short Summary**: Splitting up across Hamri, the party learns from Jaeson, Orden, Samar, and Reliah that a worn old man has been using Airion's tower for weeks and smoking gatza there.
-**Long Summary**: The party scatters through Hamri for local gossip, with Ryu and Trok speaking to Jaeson while other conversations reach Orden and the orphan twins Samar and Reliah in the Drowned Flats. Taken together, the reports point to a haggard older man who appeared only in recent weeks, cleaned the tower's exterior to hide evidence of occupation, and left behind fish remains and the smell of gatza.
+**Short Summary**: The party fans out across Hamri and learns that a haggard old man has been using the tower, smoking gatza, and asking questions about lead.
+**Long Summary**: After leaving the tower, Ryu and Trok go to Jaeson while the others check Samar, Reliah, and Orden for local gossip. The combined reports point to a worn older man who appeared only recently, hid signs of living in the tower, left fish remains and the smell of gatza, had ties to the Drowned Flats deaths, and had been asking around about lead before the group prepares to reconvene at the market.
 **Location**:
-- Hamri: split inquiries at Jaeson's hut on the north face and in the Drowned Flats
-  Note: The party fans out through town and compares what separate informants have seen.
+- Hamri: split inquiries around the north face, the Drowned Flats, and the docks
+  Note: The party moves between local informants but stays within Hamri.
 **NPCs**:
-- Jaeson (encountered): cliffside watcher and local gossip. He saw the tower's recent occupant and noticed the cleanup around the ruin.
-- Orden (encountered): dockside loafer who watches the water. He contributes what little he knows about the strange boat and the docks.
-- Samar (encountered): orphan informant in the Drowned Flats. She helps confirm the recent disappearances and rumors around the poorest quarter.
-- Reliah (encountered): orphan informant in the Drowned Flats. She adds local rumor from the same neighborhood hit by the recent deaths.
-**Items**: none
+- Jaeson (encountered): cliffside watcher and local gossip. He saw signs of someone using the tower recently.
+- Samar (encountered): orphan informant in the Drowned Flats. She helps confirm local rumors around the recent deaths and the stranger's movements.
+- Reliah (encountered): orphan informant in the Drowned Flats. She adds neighborhood detail from the same poor quarter hit by the disappearances.
+- Orden (encountered): dockside watcher. He contributes what he knows about the strange boat and waterfront movements.
+- haggard old man (mentioned): suspected tower occupant. The informants' reports are later understood to point to Azar.
+**Items**:
+- gatza (mentioned): The tower and the old man's behavior are repeatedly connected to gatza use.
+- lead (mentioned): The party learns that the suspect was asking about lead before commissioning the box.
 **Organizations**: none
 
-## Benat's Tower Tale
+## Market and Afternoon Leads
 *beat-004*
 
 **Date**: 1747-08-04
-**Time Window**: midday
+**Time Window**: afternoon
 **Combat**: no
-**Short Summary**: At the Fish Market, Benat ties Airion's old tower to Hamri's buried history and gives the party more context for the strange site on the cliffs.
-**Long Summary**: Reuniting at the Fish Market around midday, the party compares notes and presses Benat for the deeper history of Airion the Mistspeaker and his vanished tower. His account places the ruin within Hamri's older past and confirms that the place has long stood apart from ordinary local lore.
+**Short Summary**: At the market and in afternoon errands, the party gets Benat's history of Airion, Ovina's lead-box confession, and Sofi's curt message about strange ships.
+**Long Summary**: The party regroups at the fish market after lunch, compares the morning's clues, and presses Benat for the older story of Airion's tower, Hamri's hidden weak spots, and the living water. They split again: Kaleho and Trok persuade Ovina to show the nearly finished lead-lined box and the dismantled gold-and-sapphire ring Azar paid with, while Wazir and Ryu climb to Glitter Cliff and receive only a formal message that Sofi knows of no strange ship and wants any sightings reported for fees and duties.
 **Location**:
-- Hamri: the Fish Market, where the party reconvenes around midday
-  Note: The beat centers on comparing the morning's rumors and hearing Benat's history lesson.
+- Hamri: the fish market, Ovina's smithy near Shark's Dock, and Sofi's house on Glitter Cliff
+  Note: The beat condenses the market regroup and two parallel afternoon leads.
 **NPCs**:
-- Benat (encountered): lizardfolk liaison and local historian. He explains the older story of Airion and the tower.
-- Airion (mentioned): wizard tied to Hamri's old magical history. Benat's account deepens the party's sense of Airion's importance.
-**Items**: none
+- Benat (encountered): lizardfolk liaison and teller of local history. He explains Airion's old tower and Hamri's deeper magical context.
+- Ovina (encountered): Mawaran smith. She admits that the old man paid her to make a sealed lead-lined box.
+- Sofi (mentioned): wealthy shipbuilding magnate on Glitter Cliff. She declines to meet directly and sends a polished message through her household.
+- Sofi's servant (encountered): household intermediary. He carries Sofi's reply to Wazir and Ryu.
+- Azar the Lost (mentioned): suspected customer and tower occupant. The party increasingly treats him as the man behind the scroll and the box commission.
+- Airion (mentioned): ancient wizard tied to Hamri's old tower lore. Benat's account deepens the party's sense of Airion's importance.
+**Items**:
+- lead-lined box (encountered): Ovina shows the sealed box Azar ordered, sized slightly larger than a breadbox.
+- gold ring with sapphires (encountered): Azar paid Ovina with the ring, which she has taken apart.
+- phantom boat (mentioned): The strange ship remains the subject of the inquiry at Glitter Cliff and Shark's Dock.
 **Organizations**: none
 
-## Ovina and Sofi
+## Yaz and Evening Plan
 *beat-005*
 
 **Date**: 1747-08-04
-**Time Window**: afternoon
+**Time Window**: unknown
 **Combat**: no
-**Short Summary**: Kaleho and Trok persuade Ovina to reveal Azar's lead-lined box, while Wazir and Ryu get only a curt message from Sofi on Glitter Cliff.
-**Long Summary**: The party splits again, sending Kaleho and Trok to Ovina's smithy and Wazir with Ryu up to Glitter Cliff. Ovina confirms that a troubled old man paid her with a valuable ring to build a tightly sealed lead-lined box for a talking knife, but Sofi declines to meet and offers only word that any strange ship should be reported to her guards.
+**Short Summary**: The party consolidates the clues at Shark's Dock, consults Yaz about the living ocean, and rests after settling on a cautious dawn interception plan.
+**Long Summary**: Regathered at Shark's Dock in late afternoon, the group fits together the phantom boat, the lead-lined box, the Blood Knife, Gazankoa, Nimessa, Airion's ring, and Azar's need for the Sentient Ocean. Wazir confirms that Ovina's ring is no longer magical and tests the box, then Ryu and Trok speak with Yaz after dark about the western living ocean and the Splinters; back at the Leviathan, the party agrees to let one person approach Azar in the morning while the others hide nearby and prepare to stop him if the Blood Knife or its bearer turns violent.
 **Location**:
-- Hamri: split inquiries at Ovina's smithy near Shark's Dock and Sofi's estate on Glitter Cliff
-  Note: The beat covers two parallel conversations before the party regroups.
+- Hamri: Shark's Dock, Yaz's tower, and the Leviathan Inn
+  Note: The beat begins with a late-afternoon regroup, includes the evening visit to Yaz, and ends with the night plan before rest.
 **NPCs**:
-- Ovina (encountered): dwarven smith. She shows the nearly finished lead-lined box and explains what Azar asked her to build.
-- Sofi (mentioned): wealthy woman on Glitter Cliff. She refuses a direct meeting and answers only through her household staff.
+- Yaz (encountered): old ocean watcher. His lore about the living ocean helps the party interpret the Sentient Ocean.
+- Ovina (encountered): smith holding the ring and box. Wazir inspects the ring and lead-lined box at her shop.
+- Azar the Lost (mentioned): target of the morning interception. The group expects him to return for the finished box.
+- Gazankoa (mentioned): suspected voice behind the Blood Knife. Wazir argues that Gazankoa is the real danger behind Azar's actions.
+- Nimessa (mentioned): marid tied to the theft of the Sentient Ocean. The party reasons that she was compelled and angered by the ring.
+- Airion (mentioned): owner of the ring and water lore. The ring and Hamri's weak points keep pointing back to Airion.
 **Items**:
-- lead-lined box (encountered): Ovina has nearly finished the sealed box Azar ordered to contain the talking knife.
-- valuable ring (encountered): Azar paid Ovina with a ring valuable enough to make the job worth the trouble.
+- lead-lined box (encountered): The box becomes the centerpiece of the plan to contain the Blood Knife and catch Azar.
+- gold ring with sapphires (encountered): Wazir finds no active magic in it, though the party suspects it was once Airion's ring.
+- Blood Knife (mentioned): The party suspects the Blood Knife is carrying Gazankoa's influence.
+- Sentient Ocean (mentioned): The living water remains the motive for Azar's ritual and Nimessa's theft.
+- phantom boat (mentioned): The party expects Azar to use it when he comes for the box.
 **Organizations**: none
 
-## Yaz and the Living Ocean
+## Dawn Interception Setup
 *beat-006*
 
-**Date**: 1747-08-04
-**Time Window**: afternoon
+**Date**: 1747-08-05
+**Time Window**: morning
 **Combat**: no
-**Short Summary**: Meeting again near Shark's Dock, the party concludes that Gazankoa, the knife, and the Sentient Ocean are bound up in Azar's plans and decides to intercept him in the morning.
-**Long Summary**: Reassembled near Shark's Dock after speaking with Yaz and the others, the party compares what each pair has learned and tries to fit Azar's tower, phantom boat, lead box, ring, and missing bodies into one explanation. Their discussion keeps circling back to Gazankoa, Nimessa, and the Sentient Ocean, and they decide the old man must be intercepted the next morning when he returns for the box.
+**Short Summary**: At dawn, the party spots Azar's phantom boat, confronts him after he collects the box, and sees the parley turn into an imminent fight.
+**Long Summary**: The next morning the party stages itself around Shark's Dock after Blue spots a fast ship rounding the point. Azar arrives in oilskin cloaks, collects the lead-lined box from Ovina, and tries to leave; Ryu blocks him with questions about the tower, the deaths, and the Sentient Ocean while invisible Wazir uses Nadine's name to unsettle him, and the old man admits he is Azar and that Gazankoa is helping him save his family before a clearly nefarious invitation onto the boat makes the party draw weapons.
 **Location**:
-- Hamri: Shark's Dock and the nearby waterfront where the party regroups after its interviews
-  Note: The beat turns the day's clues into a concrete plan for the next morning.
+- Hamri: Shark's Dock outside Ovina's shop and beside Azar's phantom boat
+  Note: The beat covers the dawn stakeout and failed parley before initiative resolves into active combat.
 **NPCs**:
-- Yaz (encountered): old ocean watcher. His lore about the western sea informs the party's interpretation of the Sentient Ocean.
-- Azar the Lost (mentioned): target of the planned interception. By the end of the beat the party is convinced he will return for the box.
-- Gazankoa (mentioned): suspected source of the knife's influence. The party increasingly treats Gazankoa as the real danger behind Azar's actions.
-- Nimessa (mentioned): marid tied to the theft of the Sentient Ocean. Her role helps the party connect Azar's past actions to the present crisis.
+- Azar the Lost (encountered): old man trying to reach his boat with the box. He identifies himself, insists he is trying to save his family, and becomes openly hostile when stopped.
+- Ovina (encountered): smith who opens early for the box handoff. Azar collects the finished box from her shop.
+- Nadine (mentioned): Azar's dead wife. Wazir uses her name in a whispered magical message to shake Azar.
+- Gazankoa (mentioned): power Azar says is helping him. Azar says Gazankoa can bring back the lost dead.
+- drowned servant (mentioned): hidden figure on the boat. A figure is present on the boat before the combat reveals it clearly.
 **Items**:
-- lead-lined box (mentioned): The box becomes the centerpiece of the party's plan to intercept Azar.
-- valuable ring (mentioned): The ring payment remains part of the evidence tying Azar to Ovina's commission.
-- Sentient Ocean (mentioned): The party keeps returning to the question of why Azar needed the living seawater.
+- lead-lined box (encountered): Azar carries it under one arm as he leaves Ovina's shop.
+- phantom boat (encountered): The boat is hard to keep in sight and sits ready at Shark's Dock.
+- Sentient Ocean (mentioned): Ryu presses Azar about the living water during the attempted conversation.
+- Blood Knife (mentioned): Ryu asks whether the Blood Knife is speaking to Azar.
 **Organizations**: none
 
-## Night Plan at the Leviathan
+## Tentacles at the Dock
 *beat-007*
-
-**Date**: 1747-08-04 to 1747-08-05
-**Time Window**: night
-**Combat**: no
-**Short Summary**: Back at the Leviathan that night, the party settles on a cautious interception at Shark's Dock, hoping to talk first but preparing for Azar or the knife to turn violent.
-**Long Summary**: The group spends the evening at the Leviathan arguing through options: ambush Azar at Ovina's shop, confront him in town, trail him by phantom boat, or try to hear his story before resorting to force. By morning they agree to stage themselves around Shark's Dock, let one voice make first contact, and keep the others hidden in case the talking knife or its bearer lashes out.
-**Location**:
-- Hamri: the Leviathan Inn, where the party plans the next morning's intercept at Shark's Dock
-  Note: The beat begins at night in the inn and carries through the last planning before dawn.
-**NPCs**:
-- Azar the Lost (mentioned): the man the party intends to confront. The whole discussion turns on whether he can be talked down or must be stopped by force.
-**Items**:
-- knife (mentioned): The group keeps returning to the danger of the knife's voice and what Azar plans to do with it.
-- lead-lined box (mentioned): The box is central to the plan because Azar is expected to collect it the next morning.
-**Organizations**: none
-
-## Parley at Shark's Dock
-*beat-008*
 
 **Date**: 1747-08-05
 **Time Window**: morning
 **Combat**: yes (start)
 **Main Enemies**:
-- Azar the Lost: The fight begins as the failed conversation hardens into open hostility.
-**Combat Notes**: The combat opens from a public parley on Shark's Dock before Azar can escape by boat.
-**Short Summary**: The party catches Azar outside Ovina's shop at Shark's Dock and tries to talk him down, but mention of Nadine and the knife rattles him and sends the encounter toward violence.
-**Long Summary**: At dawn the group takes positions around Shark's Dock while Azar arrives to collect the finished lead-lined box and head for his phantom boat. Ryu tries to question him about the tower, the deaths in town, and the Sentient Ocean, while Wazir's whispered mention of Nadine exposes how badly the old man is unraveling and turns the failed parley into the opening of a fight.
+- Azar the Lost: Primary hostile spellcaster trying to escape with the box.
+- drowned servant: Waterlogged undead ally supporting Azar from the boat and dock.
+**Combat Notes**: The dock fight begins after the failed parley and escalates across the dock, water, and phantom boat.
+**Short Summary**: Azar erupts into black tentacles, runs for the phantom boat, and punishes the party's first attempts to restrain him.
+**Long Summary**: As the party attacks, Azar throws black tentacles across the dock, takes spear and melee hits, and bolts for the phantom boat while his drowned servant rises from the vessel dripping seawater. Trok drags Azar into the water and Kaleho lands a hard crossbow shot, but Azar's defenses and whispers keep him dangerous; the box is dropped in the boat, the vessel is pushed away, the tentacles keep crushing Ryu and Wazir, and Trok's huge underwater assault is answered by Armor of Agathys cold that knocks him unconscious.
 **Location**:
-- Hamri: Shark's Dock outside Ovina's shop and beside Azar's phantom boat
-  Note: The confrontation begins in public on the waterfront before spilling into combat.
+- Hamri: Shark's Dock, the water beside it, and Azar's phantom boat
+  Note: The fight moves between the dock, the boat, and the water.
 **NPCs**:
-- Azar the Lost (enemy): cornered old man trying to reach his boat. He initially tries to brush past the party but becomes the active threat once the parley fails.
-- Nadine (mentioned): Azar's dead wife. Her name is what visibly unsettles him during the exchange.
+- Azar the Lost (enemy): spellcaster trying to escape. He casts black tentacles, keeps concentration through repeated hits, and uses cold armor and whispers to punish the party.
+- drowned servant (enemy): waterlogged undead helper. It rises from the boat and joins the fight against Wazir and the others.
 **Items**:
-- lead-lined box (encountered): Azar carries the newly collected box under his arm as he heads back toward the docks.
-- Sentient Ocean (mentioned): Ryu presses Azar about the living seawater during the attempted conversation.
+- lead-lined box (encountered): Azar drops it in the bottom of the phantom boat during the fight.
+- phantom boat (encountered): The party tries to keep Azar from escaping on it and eventually pushes it away from the dock.
 **Organizations**: none
 
-## Ice Armor and Tentacles
-*beat-009*
+## Azar Falls
+*beat-008*
 
 **Date**: 1747-08-05
 **Time Window**: morning
-**Combat**: yes (middle)
-**Main Enemies**:
-- Azar the Lost: He remains the central threat driving the battle forward.
-- drowned servant: The undead servant adds pressure while Azar works his spells.
-**Combat Notes**: The fight broadens into the water and the phantom boat as Azar presses his advantage.
-**Short Summary**: Azar answers the failed parley with ice armor, tentacles, and a drowned servant, forcing the party into a brutal fight across the dock and into the water.
-**Long Summary**: Once Azar breaks from conversation, he unleashes layered magic that batters the party with cold, restraining tentacles, and a waterlogged servant while he tries to reach safety by boat. The battle sprawls across the dock, the water, and the slipping deck of the phantom craft as the party struggles to pin him down before he can escape or drown them.
-**Location**:
-- Hamri: Shark's Dock and the waters around Azar's phantom boat
-  Note: The middle stretch of the fight moves between dock, boat, and open water.
-**NPCs**:
-- Azar the Lost (enemy): spellcaster trying to break free and flee. He leans on layered magic and the boat to keep the party off balance.
-- drowned servant (enemy): waterlogged undead helper. The servant joins the fight as another threat in the water and on the dock.
-**Items**:
-- lead-lined box (encountered): The box remains part of the struggle as Azar tries to get clear with it.
-**Organizations**: none
-
-## Azar Falls and the Aftermath
-*beat-010*
-
-**Date**: 1747-08-05 to 1747-08-09
-**Time Window**: morning
 **Combat**: yes (end)
 **Main Enemies**:
-- Azar the Lost: The dockside fight resolves when the party finally brings him down.
-**Combat Notes**: This beat closes the combat at Shark's Dock before shifting into the multi-day aftermath.
-**Short Summary**: The party finally brings Azar down, hears the wrecked story of his dead family and Gazankoa's lure, then spends the next several days cleaning up the damage in Hamri.
-**Long Summary**: The fight ends with Azar defeated and his schemes laid bare, after which the party stabilizes the chaos on Shark's Dock and learns how grief, the whispering knife, and the promise of the Sentient Ocean drove him toward Gazankoa's bargain. In the days that follow they search his lair in the Splinters, recover Sefa and Airion's books, secure the knife in the lead-lined box, identify the brass bowl, and see Azar leave south with Benat to begin making amends.
+- Azar the Lost: The fight resolves when Trok knocks him unconscious.
+- drowned servant: Kaleho finishes the servant after Azar falls.
+**Combat Notes**: This beat covers the crisis, recovery, and end of the dockside combat.
+**Short Summary**: The fight turns after Trok is revived, breaks Azar's concentration, drops him unconscious, and leaves Kaleho to finish the drowned servant.
+**Long Summary**: With Trok unconscious in the water and Ryu restrained, the party scrambles to recover: Ryu's healing spirit brings Trok back up, Wazir's shatter destroys Azar's cold armor, and Azar answers with lightning that kills a nearby townsfolk and batters Ryu and Kaleho. Trok heals himself, lashes out with Eldritch Maul crocodile strikes, finally breaks the tentacles, and knocks Azar unconscious; Kaleho then shoots the remaining drowned servant down so Wazir can rush to heal Azar before he dies.
 **Location**:
-- Hamri: Shark's Dock, Azar's lair in the Splinters, and the following days of aftermath around town
-  Note: The beat begins with the end of the dockside fight and then compresses several days of aftermath into one sequence.
+- Hamri: Shark's Dock and the adjacent water
+  Note: This beat continues the same dockside combat through its resolution.
 **NPCs**:
-- Azar the Lost (enemy): defeated culprit and grieving widower. He survives the fight long enough to explain what drove him and later departs with Benat.
-- Sefa (encountered): older woman found among Azar's victims. Her body is recovered in the lair during the aftermath search.
-- Benat (mentioned): escort for Azar's departure south. By the end of the beat Azar is bound for the lizardfolk village with Benat.
-- Gazankoa (mentioned): the voice behind Azar's ruin. Azar's explanation confirms Gazankoa's hold over his choices.
+- Azar the Lost (enemy): defeated spellcaster. He keeps fighting after leaving the water, but Trok's final barrage drops him unconscious.
+- drowned servant (enemy): last remaining hostile. Kaleho kills it after Azar falls.
+- townsfolk bystander (encountered): civilian near the dock. Azar's lightning blast kills one bystander during the fight.
 **Items**:
-- knife (encountered): The party recovers the knife and seals it inside the lead-lined box.
-- lead-lined box (encountered): The finished box becomes the container used to secure the knife.
-- brass bowl (encountered): The bowl recovered from the lair is later identified as an elemental command item.
-- Airion's books (encountered): The party finds three books of Airion's notes among Azar's hoard.
+- healing spirit (encountered): Ryu uses it to revive Trok before losing concentration.
+- Eldritch Maul tattoo (encountered): Trok uses it to strike Azar from the water and end the fight.
+- lead-lined box (mentioned): It remains secured away on the boat while the combat resolves.
+**Organizations**: none
+
+## Aftermath and Answers
+*beat-009*
+
+**Date**: 1747-08-05 to 1747-08-09
+**Time Window**: unknown
+**Combat**: no
+**Short Summary**: After the fight, the party stabilizes Azar, hears his full tale, clears his lair, identifies the recovered items, and sees him leave with Benat several days later.
+**Long Summary**: The aftermath spans several days: Wazir heals Azar and the party binds him, recovers from injuries, calms Shark's Dock, tends the woman killed by Azar's lightning, and hears Azar's full tale. That evening they search the Splinters, dispatch two drowned zombies, find Sefa dead, recover three books of Airion's notes and lore, lock the Blood Knife in the lead-lined box, collect the brass bowl and restitution coins, and on Aug 6 Wazir identifies the strange knife and the bowl of commanding water elementals before Azar leaves south with Benat on Aug 9 to heal and make amends.
+**Location**:
+- Hamri: Shark's Dock, Azar's lair in the Splinters, and the following days around town
+  Note: The beat starts at the dock after combat and compresses the narrated multi-day aftermath through 1747-08-09.
+**NPCs**:
+- Azar the Lost (encountered): defeated culprit and grieving widower. He explains the murders, gives up the lair, and later leaves with Benat.
+- Sefa (encountered): victim found in Azar's lair. She was a poor older gatza addict who lived alone in the Drowned Flats.
+- drowned zombies (enemy): undead in Azar's lair. Two more drowned zombies are quickly dispatched during the expedition to the Splinters.
+- Nadine (mentioned): Azar's dead wife. Azar's failed ritual was meant to bring her back.
+- Gazankoa (mentioned): source of the Blood Knife's influence. Azar says the voice gave him the Blood Knife and lied that the killings could restore his wife.
+- Nimessa (mentioned): marid compelled by Airion's ring. She stole the Sentient Ocean but was angry about being forced into it.
+- Airion (mentioned): wizard whose notes and ring guided Azar. His lore led Azar toward the Sentient Ocean and Hamri's water-plane weak spots.
+- Benat (mentioned): escort for Azar's departure south. Azar leaves with him for the lizardfolk village on 1747-08-09.
+**Items**:
+- Blood Knife (encountered): The party recovers it from Azar's lair and locks it in the lead-lined box.
+- lead-lined box (encountered): The box silences the Blood Knife once the party stores it inside.
+- Airion's notes (encountered): The party recovers three books of notes and lore: two in Drankorian and one in Elvish.
+- brass bowl (encountered): Wazir identifies it as a bowl of commanding water elementals that must be filled with fresh ocean water and used immediately.
+- scattered coins (encountered): The recovered coins are paid as restitution to Sefa and the families of the dead who can be found.
+- Airion's ring (mentioned): It was a one-use magic item that allowed Azar to command Nimessa.
+- Sentient Ocean (mentioned): Azar wanted living water because he believed ordinary seawater was insufficient for the ritual.
 **Organizations**: none

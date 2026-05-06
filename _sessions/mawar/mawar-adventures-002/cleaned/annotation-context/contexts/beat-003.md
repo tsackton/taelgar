@@ -1,4 +1,4 @@
-# Beat Context: beat-003 - Jaeson and the Orphans
+# Beat Context: beat-003 - Morning Town Informants
 
 This file is only for producing `beat-facts.json`.
 Do not edit `beats.json`.
@@ -11,7 +11,7 @@ Do not edit `beats.json`.
 ## Beat Metadata
 
 - Beat ID: beat-003
-- Title: Jaeson and the Orphans
+- Title: Morning Town Informants
 - Range: `u0961` -> `u1380`
 - Lines: 420
 - Date Start: 1747-08-04
@@ -65,7 +65,7 @@ Do not edit `beats.json`.
 ## Adjacent Beats
 
 - Previous: beat-002 - Searching Airion's Tower (1747-08-04)
-- Next: beat-004 - Benat's Tower Tale (1747-08-04)
+- Next: beat-004 - Market and Afternoon Leads (1747-08-04)
 
 If the transcript does not clearly restate the location, prefer inheriting the prior beat's location unless there is a clear move or travel transition.
 
@@ -79,7 +79,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0961 | 01:23:01.440-01:23:02.100 | Ryu] What do you guys think.
 [u0962 | 01:23:02.460-01:23:03.330 | Wazir] I think it's.
@@ -109,7 +109,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0986 | 01:25:02.610-01:25:04.770 | Ryu] that's for my people around orphans.
 [u0987 | 01:25:06.780-01:25:11.070 | Kaleho] or friends or in the drowned flat so that's our i'll go first I know.
 [u0988 | 01:25:11.490-01:25:13.230 | Kaleho] So i'll go with him.
-[u0989 | 01:25:13.800-01:25:25.080 | DM] Okay, so i'll just i'll just you know you you travel to your various locations and eventually i'll just go around in circles with so so Rhea you're you're you know fairly close.
+[u0989 | 01:25:13.800-01:25:25.080 | DM] Okay, so i'll just i'll just you know you you travel to your various locations and eventually i'll just go around in circles with so so Ryu you're you're you know fairly close.
 [u0990 | 01:25:25.590-01:25:27.270 | Ryu] To Jaeson I say.
 [u0991 | 01:25:27.330-01:25:30.840 | Ryu] I would say Trok and I probably know both both these characters so like.
 [u0992 | 01:25:30.900-01:25:31.200 | DM] Okay.
@@ -380,15 +380,15 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1257 | 01:44:26.760-01:44:28.770 | DM] That you're not guys gonna die.
 [u1258 | 01:44:29.970-01:44:30.660 | Ryu] What happened.
 [u1259 | 01:44:34.440-01:44:35.490 | DM] Two weeks ago.
-[u1260 | 01:44:37.320-01:44:43.650 | DM] And went to the sharks Doc could see it from here, then came back and sell the rights to the shoals again.
-[u1261 | 01:44:44.610-01:44:47.130 | Trok] The sharks Doc I wonder what they were doing they're.
+[u1260 | 01:44:37.320-01:44:43.650 | DM] And went to the Shark's Dock could see it from here, then came back and sailed right through the shoals again.
+[u1261 | 01:44:44.610-01:44:47.130 | Trok] The Shark's Dock, I wonder what they were doing there.
 [u1262 | 01:44:47.640-01:44:53.550 | DM] Like what's up with that man, I mean a boat that can go through rock.
 [u1263 | 01:44:55.230-01:44:55.560 | Ryu] that's.
 [u1264 | 01:44:56.130-01:44:57.390 | DM] we're right.
 [u1265 | 01:44:59.010-01:45:02.160 | Ryu] On and on this one i'm with you, that is very strange.
 [u1266 | 01:45:03.030-01:45:06.210 | Ryu] it's very strange but exactly the type of shit we're looking to understand more about.
 [u1267 | 01:45:07.350-01:45:08.160 | Trok] You know, we owe you one.
-[u1268 | 01:45:09.450-01:45:12.150 | Trok] sounds like logic check out the sharks Doc.
+[u1268 | 01:45:09.450-01:45:12.150 | Trok] sounds like logic check out the Shark's Dock.
 [u1269 | 01:45:16.170-01:45:17.190 | Ryu] yeah.
 [u1270 | 01:45:18.420-01:45:21.900 | Ryu] Anything else, Orden? Hey, if you remember any other things you've seen recently.
 [u1271 | 01:45:24.180-01:45:27.030 | DM] There was that day when there was no fish in the ocean.

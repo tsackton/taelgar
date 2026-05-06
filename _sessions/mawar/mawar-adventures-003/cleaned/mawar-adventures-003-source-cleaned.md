@@ -2,61 +2,61 @@
 [u0002 | 00:00:06.779-00:00:07.319 | DM] So.
 [u0003 | 00:00:08.340-00:00:11.250 | DM] The the idea here is that we'll start with.
 [u0004 | 00:00:13.259-00:00:14.820 | DM] john What was your character's name again.
-[u0005 | 00:00:16.109-00:00:16.650 | Kaleho] Hello.
-[u0006 | 00:00:17.190-00:00:20.730 | DM] hello, how is back in town, for you know.
+[u0005 | 00:00:16.109-00:00:16.650 | Kaleho] Kaleho.
+[u0006 | 00:00:17.190-00:00:20.730 | DM] Kaleho is back in town, for you know.
 [u0007 | 00:00:22.050-00:00:26.190 | DM] Whatever reason or no reason you know he's just been passing through.
 [u0008 | 00:00:27.600-00:00:28.710 | DM] And since you had met.
-[u0009 | 00:00:30.450-00:00:34.500 | DM] Rio and truck the past time you are here.
+[u0009 | 00:00:30.450-00:00:34.500 | DM] Ryu and Trok the last time you are here.
 [u0010 | 00:00:37.200-00:00:37.920 | DM] You.
 [u0011 | 00:00:39.240-00:00:50.520 | DM] I assume I figure, it would make sense for you to have you know connected with them for for dinner or something and and particular will say for the rolling start here that.
 [u0012 | 00:00:52.140-00:00:52.800 | DM] You.
 [u0013 | 00:00:53.820-00:00:55.260 | DM] You were you know.
-[u0014 | 00:00:56.550-00:01:08.970 | DM] ran into truck after you had been in town for a day or something and made plans to you know, have a have an evening meal on his at his beach shack.
-[u0015 | 00:01:11.790-00:01:14.010 | DM] or where do you live, where does truck lives in.
+[u0014 | 00:00:56.550-00:01:08.970 | DM] you ran into Trok after you had been in town for a day or something and made plans to you know, have a have an evening meal on his at his beach shack.
+[u0015 | 00:01:11.790-00:01:14.010 | DM] or where do you live, where does Trok live.
 [u0016 | 00:01:15.930-00:01:16.950 | DM] Do you live in a tower.
 [u0017 | 00:01:19.380-00:01:21.840 | Trok] We definitely discuss this, but i'm trying to remember now.
 [u0018 | 00:01:23.100-00:01:27.810 | DM] I kind of I feel like we had said you lived it like on the beach like.
 [u0019 | 00:01:28.830-00:01:40.740 | DM] You know sort of in a little maybe not in one of these actual towers, but like on the sort of the mark in the cove area but i'm not entirely sure.
 [u0020 | 00:01:41.040-00:01:43.170 | Trok] But kong's character, has a tower right.
-[u0021 | 00:01:43.410-00:01:45.240 | DM] yeah real has a tower.
-[u0022 | 00:01:50.370-00:01:54.030 | Trok] So then we'll say truck lives in a shack on the beach.
+[u0021 | 00:01:43.410-00:01:45.240 | DM] yeah Ryu has a tower.
+[u0022 | 00:01:50.370-00:01:54.030 | Trok] So then we'll say Trok lives in a shack on the beach.
 [u0023 | 00:01:55.500-00:01:56.880 | Trok] Is that where you're headed towards TIM.
 [u0024 | 00:01:57.420-00:01:57.810 | Trok] Whatever.
 [u0025 | 00:01:58.260-00:01:59.250 | DM] works for this yeah.
-[u0026 | 00:01:59.310-00:02:06.480 | DM] I mean, whatever wherever you want to live it's just doesn't matter it's just wherever callow meets up with you.
+[u0026 | 00:01:59.310-00:02:06.480 | DM] I mean, whatever wherever you want to live it's just doesn't matter it's just wherever Kaleho meets up with you.
 [u0027 | 00:02:08.340-00:02:09.780 | DM] could be anywhere um.
 [u0028 | 00:02:11.970-00:02:15.720 | Trok] Can we describe our characters I just have very little religion.
 [u0029 | 00:02:15.750-00:02:19.500 | DM] yeah so that's what I was gonna say we should start with um.
-[u0030 | 00:02:23.430-00:02:30.150 | DM] So so let's let's say I was going to just remind you all, what harm Maria has like and then.
-[u0031 | 00:02:31.590-00:02:40.890 | DM] Maybe YouTube can briefly describe your characters as well do well have to describe your characters again when you meet case character, but i'm.
+[u0030 | 00:02:23.430-00:02:30.150 | DM] So so let's let's say I was going to just remind you all, what Hamri is like and then.
+[u0031 | 00:02:31.590-00:02:40.890 | DM] Maybe you two can briefly describe your characters as well do well have to describe your characters again when you meet Kate's character, but i'm.
 [u0032 | 00:02:43.170-00:02:44.880 | DM] So it's evening.
 [u0033 | 00:02:47.820-00:02:48.690 | DM] October.
 [u0034 | 00:02:48.720-00:02:52.950 | DM] In the north so it's dark early.
 [u0035 | 00:02:55.110-00:02:56.640 | DM] And as you as.
-[u0036 | 00:02:56.700-00:03:02.100 | DM] You kelo head out of town to meet your friend truck from.
+[u0036 | 00:02:56.700-00:03:02.100 | DM] You, Kaleho, head out of town to meet your friend Trok from.
 [u0037 | 00:03:03.570-00:03:07.950 | DM] From your previous adventures here and perhaps connect with you as well.
-[u0038 | 00:03:09.990-00:03:13.620 | DM] you're reminded of the town of hungry itself.
+[u0038 | 00:03:09.990-00:03:13.620 | DM] you're reminded of the town of Hamri itself.
 [u0039 | 00:03:15.210-00:03:18.240 | DM] nestled within this shelter cove on the.
-[u0040 | 00:03:19.500-00:03:24.300 | DM] Occasionally storm battered western coast of the my walk all peninsula.
+[u0040 | 00:03:19.500-00:03:24.300 | DM] Occasionally storm battered western coast of the Mawakel Peninsula.
 [u0041 | 00:03:26.490-00:03:27.180 | DM] One of the.
-[u0042 | 00:03:28.170-00:03:31.020 | DM] pendants let South densely for us did.
+[u0042 | 00:03:28.170-00:03:31.020 | DM] peninsula, south densely forested.
 [u0043 | 00:03:31.020-00:03:32.130 | DM] In the Interior.
-[u0044 | 00:03:33.450-00:03:37.860 | DM] Mostly inhabited just along the coasts and harmony, is one of the.
+[u0044 | 00:03:33.450-00:03:37.860 | DM] Mostly inhabited just along the coasts, and Hamri is one of the.
 [u0045 | 00:03:39.660-00:03:49.140 | DM] more significant cities on the western coast and so it's a place you stop frequently on your on your journey is as a sailor searching.
 [u0046 | 00:03:49.470-00:03:51.480 | DM] For answers to various mysteries.
-[u0047 | 00:03:53.580-00:04:05.760 | DM] The town itself is is sort of split into three levels so there's the wooden and stone docs that extend out over the mud flats and the title.
+[u0047 | 00:03:53.580-00:04:05.760 | DM] The town itself is is sort of split into three levels so there's the wooden and stone docks that extend out over the mud flats and the tidal.
 [u0048 | 00:04:06.510-00:04:08.280 | DM] marsh of the.
-[u0049 | 00:04:08.310-00:04:10.080 | DM] outflow of the Mer Mer river.
+[u0049 | 00:04:08.310-00:04:10.080 | DM] outflow of the Mirmir river.
 [u0050 | 00:04:11.640-00:04:13.800 | DM] Some fairly Nice, including.
-[u0051 | 00:04:15.480-00:04:19.440 | DM] Was ears in the Leviathan, where you may have spent a night or two.
+[u0051 | 00:04:15.480-00:04:19.440 | DM] Wazir's in the Leviathan, where you may have spent a night or two.
 [u0052 | 00:04:19.440-00:04:21.330 | DM] But now you're heading out into the.
 [u0053 | 00:04:23.700-00:04:27.510 | DM] outside of the warm from the glow of that firelight um.
-[u0054 | 00:04:29.070-00:04:34.230 | DM] But there's also the drawn flats, which are you know much less you know.
+[u0054 | 00:04:29.070-00:04:34.230 | DM] But there's also the Drowned Flats, which are you know much less you know.
 [u0055 | 00:04:35.910-00:04:44.490 | DM] Flood regularly on the high tides much not nearly as a nice place to live and that's kind of the poorest part of town.
 [u0056 | 00:04:45.720-00:04:49.950 | DM] And then, second part of town is, as you head up the cliffs here.
 [u0057 | 00:04:51.030-00:04:51.900 | DM] there's these.
 [u0058 | 00:04:53.460-00:04:58.410 | DM] paths carved into the stone with houses sort of perched on the sides of the cliffs.
-[u0059 | 00:04:58.830-00:05:06.060 | DM] including some of the nicest houses in town on that that carved plateau glitter cliff.
+[u0059 | 00:04:58.830-00:05:06.060 | DM] including some of the nicest houses in town on that that carved plateau Glittercliff.
 [u0060 | 00:05:07.170-00:05:09.330 | Kaleho] and worse okay got it.
 [u0061 | 00:05:10.590-00:05:11.220 | DM] And at the.
 [u0062 | 00:05:12.030-00:05:13.560 | DM] At the top of these cliffs.
@@ -64,17 +64,17 @@
 [u0064 | 00:05:21.120-00:05:30.840 | DM] occupied the ones on the North now largely abandoned and occasionally reclaimed by loners and hermits and others who.
 [u0065 | 00:05:31.470-00:05:33.870 | DM] are looking for an out of the way place to live.
 [u0066 | 00:05:35.670-00:05:40.080 | DM] And these towers, have a long history of being the.
-[u0067 | 00:05:43.140-00:05:49.260 | DM] The place where the citizens of Hungary have watched the ocean for generations.
+[u0067 | 00:05:43.140-00:05:49.260 | DM] The place where the citizens of Hamri have watched the ocean for generations.
 [u0068 | 00:05:51.630-00:05:58.620 | DM] There used to be many more ocean watchers keeping an eye out for strange things from the sea, but now, of course, as.
-[u0069 | 00:06:01.350-00:06:09.540 | DM] The influence of the mauer confederacy has shrunk somewhat from their golden age 100 years ago now.
-[u0070 | 00:06:11.190-00:06:22.770 | DM] And so many of these towers have been abandoned and the northern part the northern coast of this of this Bay in which hungry nestled is mostly.
-[u0071 | 00:06:25.530-00:06:39.870 | DM] mostly not is the sort of place where everybody who wants to be outside the sort of watch of the town itself goes to live and so that says, where you find trunk so maybe Eric you could describe truck.
+[u0069 | 00:06:01.350-00:06:09.540 | DM] The influence of the Mawar Confederacy has shrunk somewhat from their golden age 100 years ago now.
+[u0070 | 00:06:11.190-00:06:22.770 | DM] And so many of these towers have been abandoned and the northern part the northern coast of this of this bay in which Hamri is nestled is mostly.
+[u0071 | 00:06:25.530-00:06:39.870 | DM] mostly now is the sort of place where everybody who wants to be outside the sort of watch of the town itself goes to live and so that says, where you find Trok so maybe Eric you could describe Trok.
 [u0072 | 00:06:40.980-00:06:48.030 | DM] You know where he where he lives and maybe a little bit about what he's been doing, you know why he does what he's been doing the past.
 [u0073 | 00:06:49.260-00:06:50.100 | DM] few months.
-[u0074 | 00:06:51.120-00:06:56.670 | DM] As kayla approaches and then you can describe yourself cow.
+[u0074 | 00:06:51.120-00:06:56.670 | DM] As Kaleho approaches and then you can describe yourself, Kaleho.
 [u0075 | 00:06:58.650-00:07:06.690 | Trok] Who just briefly, not in detail, but in a sense, or two it's like we defeated the guy that had thing, just like.
 [u0076 | 00:07:07.710-00:07:11.040 | DM] yeah so there was the right there was the guy who.
-[u0077 | 00:07:12.450-00:07:16.680 | DM] was a basically a warlock have some undersea.
+[u0077 | 00:07:12.450-00:07:16.680 | DM] was a basically a warlock of some undersea.
 [u0078 | 00:07:19.500-00:07:25.560 | DM] Ancient evil or something, it was not entirely clear who had corrupted him through the influence of gods.
 [u0079 | 00:07:26.130-00:07:28.890 | Trok] were using one of the Towers on the North side right.
 [u0080 | 00:07:30.030-00:07:31.290 | DM] Yes, yeah there's on the.
@@ -82,31 +82,31 @@
 [u0082 | 00:07:34.410-00:07:35.640 | DM] And so, he had been.
 [u0083 | 00:07:36.840-00:07:37.290 | DM] He had.
 [u0084 | 00:07:39.660-00:07:42.090 | DM] He had stolen a.
-[u0085 | 00:07:43.590-00:07:47.880 | DM] sample or a piece of this sentence ocean and been using it to create.
+[u0085 | 00:07:43.590-00:07:47.880 | DM] sample or a piece of this Sentient Ocean and been using it to create.
 [u0086 | 00:07:52.980-00:07:56.400 | DM] reanimated people who had drowned and.
-[u0087 | 00:07:56.460-00:08:02.280 | DM] Right turn them back into these drowned monsters, because he believed that this would let him.
-[u0088 | 00:08:03.300-00:08:07.380 | DM] resurrected so wrecked his wife yeah dark.
-[u0089 | 00:08:08.430-00:08:12.390 | Kaleho] Falling the notebook have a much more ancient and powerful.
+[u0087 | 00:07:56.460-00:08:02.280 | DM] trying to turn them back into these drowned monsters, because he believed that this would let him.
+[u0088 | 00:08:03.300-00:08:07.380 | DM] resurrect his wife yeah dark.
+[u0089 | 00:08:08.430-00:08:12.390 | Kaleho] Following the notebook have a much more ancient and powerful.
 [u0090 | 00:08:13.200-00:08:14.670 | DM] He was he.
 [u0091 | 00:08:15.330-00:08:16.800 | Trok] Was tower, he was using yeah.
 [u0092 | 00:08:17.220-00:08:22.530 | DM] He had been Yes, he had been following some clues he found from.
-[u0093 | 00:08:24.180-00:08:27.540 | DM] A much older wizard who studied out, you know who has.
-[u0094 | 00:08:29.250-00:08:34.440 | DM] studied disorder was fascinated by the elemental planes named area in the midst speaker.
+[u0093 | 00:08:24.180-00:08:27.540 | DM] A much older wizard who studied, you know, you know who has.
+[u0094 | 00:08:29.250-00:08:34.440 | DM] studied this order was fascinated by the elemental planes named Airion the Mistspeaker.
 [u0095 | 00:08:36.150-00:08:40.920 | DM] who had a number of towers and other kinds of research.
-[u0096 | 00:08:43.020-00:08:49.230 | DM] bases across not just the milwaukee peninsula, but this whole sort of region of the North.
+[u0096 | 00:08:43.020-00:08:49.230 | DM] bases across not just the Mawakel Peninsula, but this whole sort of region of the North.
 [u0097 | 00:08:51.300-00:08:55.110 | Trok] There was one, there was some follow up from the completion of the adventure.
 [u0098 | 00:08:57.450-00:08:57.870 | Trok] Right.
 [u0099 | 00:09:02.970-00:09:07.350 | Trok] I gotta take a message back to the elders the lizard folk.
 [u0100 | 00:09:08.430-00:09:12.750 | DM] What was the message the the know i'm so.
-[u0101 | 00:09:14.460-00:09:16.860 | DM] Bad at who has the lizard folk.
+[u0101 | 00:09:14.460-00:09:16.860 | DM] Benat who has the lizard folk.
 [u0102 | 00:09:19.980-00:09:20.820 | DM] man who lived.
 [u0103 | 00:09:20.880-00:09:27.240 | DM] in town and was sort of the local like liaison had agreed to take.
-[u0104 | 00:09:29.460-00:09:31.170 | DM] As a are the the.
+[u0104 | 00:09:29.460-00:09:31.170 | DM] Azar the the.
 [u0105 | 00:09:34.560-00:09:39.180 | DM] The warlock who had that and then been somewhat freed from.
 [u0106 | 00:09:40.440-00:09:42.480 | DM] His the influence of this.
 [u0107 | 00:09:44.700-00:09:45.300 | DM] Ah.
 [u0108 | 00:09:47.310-00:09:49.830 | DM] Evil whatever i'm.
-[u0109 | 00:09:51.900-00:10:06.270 | DM] To the lizard folk village where he was going to like rest and he and you had whether you follow through on this or not, as up to you, but you had promised that out, that you would write a letter to your family.
+[u0109 | 00:09:51.900-00:10:06.270 | DM] To the lizard folk village where he was going to like rest and he and you had whether you follow through on this or not, is up to you, but you had promised Azar that you would write a letter to your family.
 [u0110 | 00:10:12.750-00:10:17.010 | Trok] right because of the troubled relationship that I have i'm sort of like.
 [u0111 | 00:10:17.220-00:10:19.890 | Trok] Exactly and self imposed exile.
 [u0112 | 00:10:20.670-00:10:23.280 | DM] There is a much more detailed.
@@ -114,21 +114,21 @@
 [u0114 | 00:10:29.460-00:10:29.850 | Trok] Thank you.
 [u0115 | 00:10:32.910-00:10:34.500 | Trok] So many good weird details.
 [u0116 | 00:10:37.290-00:10:39.630 | Trok] Sorry, I was just trying to figure out what kind of mood.
-[u0117 | 00:10:40.320-00:10:42.180 | Trok] truck would be in because nothing's.
+[u0117 | 00:10:40.320-00:10:42.180 | Trok] Trok would be in because nothing's.
 [u0118 | 00:10:43.680-00:10:44.430 | DM] This is.
 [u0119 | 00:10:44.580-00:10:46.620 | DM] This is like three months later.
 [u0120 | 00:10:46.830-00:10:47.400 | Trok] mm hmm.
-[u0121 | 00:10:47.970-00:10:49.500 | Kaleho] fashion truck has some.
+[u0121 | 00:10:47.970-00:10:49.500 | Kaleho] I imagine Trok has some.
 [u0122 | 00:10:49.710-00:10:52.410 | Kaleho] Chemical aids to his moves as well.
-[u0123 | 00:10:52.500-00:11:05.100 | Trok] yeah well the god says, the primary one and he truck definitely went on a multi day gots a bender following the sort of like come down from the high of the whole of the events of.
+[u0123 | 00:10:52.500-00:11:05.100 | Trok] yeah well the gatza is the primary one and Trok definitely went on a multi day gatza bender following the sort of like come down from the high of the whole of the events of.
 [u0124 | 00:11:09.090-00:11:17.010 | Trok] Those intense days um but he's stabilized since then and focusing on.
 [u0125 | 00:11:19.470-00:11:21.690 | Trok] maximizing the harvest as best he can.
 [u0126 | 00:11:22.170-00:11:22.620 | Unknown] i'm.
 [u0127 | 00:11:25.530-00:11:26.880 | Trok] Trying to think about the letter.
-[u0128 | 00:11:29.790-00:11:31.230 | Trok] yeah and truck has.
+[u0128 | 00:11:29.790-00:11:31.230 | Trok] yeah and Trok has.
 [u0129 | 00:11:33.330-00:11:45.930 | Trok] 17 separate times started, though, completing a letter to his family, and so you might find him huddled over in his warm weather shack on the beach.
 [u0130 | 00:11:47.550-00:11:50.490 | Trok] Once again scrolling on parchment.
-[u0131 | 00:11:53.880-00:11:54.750 | Trok] truck is a.
+[u0131 | 00:11:53.880-00:11:54.750 | Trok] Trok is a.
 [u0132 | 00:11:56.880-00:11:59.550 | Trok] muscular seven foot tall.
 [u0133 | 00:12:00.990-00:12:07.800 | Trok] lizard folk covered head to toe and swirling blue magical tattoos.
 [u0134 | 00:12:09.570-00:12:13.380 | Trok] and his shack is scattered with the tools of both.
@@ -136,7 +136,7 @@
 [u0136 | 00:12:18.990-00:12:21.990 | Trok] Sea harvest and scavenging.
 [u0137 | 00:12:24.120-00:12:28.500 | Trok] ropes hooks nets grapples of all kinds.
 [u0138 | 00:12:35.940-00:12:36.510 | Unknown] and
-[u0139 | 00:12:38.520-00:12:42.360 | Trok] Always trucks outward calm demeanor hides a.
+[u0139 | 00:12:38.520-00:12:42.360 | Trok] Trok's outward calm demeanor hides a.
 [u0140 | 00:12:43.860-00:12:45.510 | Trok] dark brooding interior.
 [u0141 | 00:12:50.550-00:12:53.760 | Kaleho] dark brooding exterior is more present.
 [u0142 | 00:12:55.980-00:12:57.300 | Kaleho] A worn man.
@@ -144,62 +144,62 @@
 [u0144 | 00:13:05.130-00:13:12.720 | Kaleho] A big heavy travelers cloak unit, you know from our passive ventures across bow is beneath that.
 [u0145 | 00:13:14.520-00:13:15.420 | Kaleho] A confident.
 [u0146 | 00:13:16.620-00:13:18.630 | Kaleho] Strong muscular guy.
-[u0147 | 00:13:19.920-00:13:32.040 | Kaleho] But he has a look in his eyes not quite unlike the look of an addict but his addiction has been traveling and trying to understand more folk and other mysteries.
+[u0147 | 00:13:19.920-00:13:32.040 | Kaleho] But he has a look in his eyes not quite unlike the look of an addict but his addiction has been traveling and trying to understand merfolk and other mysteries.
 [u0148 | 00:13:33.180-00:13:33.960 | Kaleho] In the sea.
-[u0149 | 00:13:34.290-00:13:45.210 | Kaleho] So he's hunting a high, like many people in this area, but as high as this, the search for what he doesn't know these these mysteries these things he sees at the edge of his vision.
-[u0150 | 00:13:47.430-00:13:58.770 | Kaleho] But despite his addiction he's still a capable begley intimidating person as he walks in not unfriendly to you because he knows you, though, but.
+[u0149 | 00:13:34.290-00:13:45.210 | Kaleho] So he's hunting a high, like many people in this area, but his high is this, the search for what he doesn't know these these mysteries these things he sees at the edge of his vision.
+[u0150 | 00:13:47.430-00:13:58.770 | Kaleho] But despite his addiction he's still a capable vaguely intimidating person as he walks in not unfriendly to you because he knows you, though, but.
 [u0151 | 00:14:00.420-00:14:01.920 | Kaleho] Man comfortable violence.
-[u0152 | 00:14:06.330-00:14:09.930 | Trok] truck greets you wordlessly inviting you.
-[u0153 | 00:14:11.400-00:14:17.100 | Trok] into crouch by the smoldering coals and enjoy seafoods do.
+[u0152 | 00:14:06.330-00:14:09.930 | Trok] Trok greets you wordlessly inviting you.
+[u0153 | 00:14:11.400-00:14:17.100 | Trok] into crouch by the smoldering coals and enjoy seafood stew.
 [u0154 | 00:14:17.580-00:14:17.970 | Unknown] i'm.
-[u0155 | 00:14:19.590-00:14:27.780 | Kaleho] coho looks around the food smells good he's less impressed with the the shack.
+[u0155 | 00:14:19.590-00:14:27.780 | Kaleho] Kaleho looks around the food smells good he's less impressed with the the shack.
 [u0156 | 00:14:28.080-00:14:28.770 | Trok] To take over.
-[u0157 | 00:14:29.430-00:14:36.240 | Kaleho] To the core, but he welcomes warm food and fellowship so he he sits down and ask how have you been.
+[u0157 | 00:14:29.430-00:14:36.240 | Kaleho] To be sure, but he welcomes warm food and fellowship so he he sits down and ask how have you been.
 [u0158 | 00:14:41.700-00:14:42.540 | Trok] haven't been.
 [u0159 | 00:14:44.820-00:14:46.740 | Trok] talking to people too much.
 [u0160 | 00:14:47.940-00:14:50.790 | Trok] social skills rusty you might say.
 [u0161 | 00:14:52.830-00:14:53.580 | Trok] keep trying to.
 [u0162 | 00:14:55.470-00:14:57.090 | Trok] write to the folks back home.
 [u0163 | 00:14:58.710-00:14:59.460 | Trok] But uh.
-[u0164 | 00:15:00.510-00:15:04.890 | Trok] are always spirals out it to this or that confusion or resentment.
+[u0164 | 00:15:00.510-00:15:04.890 | Trok] it always spirals out it to this or that confusion or resentment.
 [u0165 | 00:15:07.650-00:15:09.630 | Kaleho] looks like your homes here not fair.
 [u0166 | 00:15:11.880-00:15:13.110 | Trok] Well i'd like to say i'm.
 [u0167 | 00:15:15.360-00:15:17.490 | Trok] Making friends here in town, but.
 [u0168 | 00:15:19.230-00:15:21.150 | Trok] i'm mostly solitary, to be honest.
 [u0169 | 00:15:23.580-00:15:25.350 | Kaleho] Are your people a solitary people.
-[u0170 | 00:15:27.570-00:15:36.750 | Trok] Oh, like all creatures, we very you know some very gregarious live in folks now me.
+[u0170 | 00:15:27.570-00:15:36.750 | Trok] Oh, like all creatures, we vary you know some very gregarious lizardfolk, not me.
 [u0171 | 00:15:42.000-00:15:43.770 | Kaleho] Do you like living here, as he.
-[u0172 | 00:15:44.820-00:15:45.870 | Kaleho] looks around the shower.
+[u0172 | 00:15:44.820-00:15:45.870 | Kaleho] looks around the shack.
 [u0173 | 00:15:47.340-00:15:48.150 | Kaleho] choose this.
 [u0174 | 00:15:49.320-00:15:51.600 | Trok] The fishing good and and you know.
 [u0175 | 00:15:53.310-00:16:01.200 | Trok] it's more often than you think that in the foul weather ship goes down and there's call for someone with the strength to.
 [u0176 | 00:16:02.610-00:16:10.590 | Trok] walk down to the bottom and pick up what can be had from down there and quite a lot of value in that to the Community as well.
 [u0177 | 00:16:12.540-00:16:13.710 | Trok] So it's not a bad place for.
-[u0178 | 00:16:15.990-00:16:20.730 | Kaleho] England and my eyes, do you find do you see Mirko.
-[u0179 | 00:16:22.980-00:16:25.650 | Kaleho] Well, are there, what they leave.
+[u0178 | 00:16:15.990-00:16:20.730 | Kaleho] Kaleho narrows his eyes, do you find, do you see merfolk.
+[u0179 | 00:16:22.980-00:16:25.650 | Kaleho] Well, are there, where they live.
 [u0180 | 00:16:26.370-00:16:29.280 | Trok] Not since that one weird adventure that we had together.
-[u0181 | 00:16:32.310-00:16:39.000 | Kaleho] kind of a glace luck, I was co host things about how close he got what he saw and smelt and.
+[u0181 | 00:16:32.310-00:16:39.000 | Kaleho] kind of a glassy look, as Kaleho thinks about how close he got what he saw and smelled and.
 [u0182 | 00:16:41.070-00:16:41.820 | Trok] you're a.
 [u0183 | 00:16:43.020-00:16:44.220 | Trok] very interested in those.
-[u0184 | 00:16:46.200-00:16:48.210 | Trok] folks from the see why is that.
+[u0184 | 00:16:46.200-00:16:48.210 | Trok] folks from the sea why is that.
 [u0185 | 00:16:51.150-00:16:52.770 | Kaleho] I don't know.
 [u0186 | 00:16:54.930-00:16:56.460 | Trok] can imagine they're much good to eat.
 [u0187 | 00:16:58.530-00:16:58.920 | Unknown] No.
-[u0188 | 00:17:00.390-00:17:03.990 | Kaleho] Go laughs as the lunches on the very delicious and fresh seafood.
+[u0188 | 00:17:00.390-00:17:03.990 | Kaleho] Kaleho laughs as he munches on the very delicious and fresh seafood.
 [u0189 | 00:17:07.980-00:17:09.180 | DM] As as you are.
 [u0190 | 00:17:10.980-00:17:21.540 | DM] Talking over your your meal you hear footsteps from the beach and then sort of a knock on your door and a.
 [u0191 | 00:17:23.790-00:17:24.270 | DM] kind of.
 [u0192 | 00:17:25.890-00:17:32.460 | DM] unkempt looking man short and stocky with great bushy hair and a beard.
 [u0193 | 00:17:33.840-00:17:37.560 | DM] Many like earrings and and piercings.
-[u0194 | 00:17:38.640-00:17:47.430 | DM] kind of leans in this is Arden truck one of your friends who also lives on this beach, and he says hey croc.
+[u0194 | 00:17:38.640-00:17:47.430 | DM] kind of leans in this is Orden, Trok, one of your friends who also lives on this beach, and he says hey Trok.
 [u0195 | 00:17:48.840-00:17:53.160 | DM] saw your your fire, can I can I talk to you for a minute.
-[u0196 | 00:17:55.710-00:17:57.180 | Trok] or Colin have some stew.
+[u0196 | 00:17:55.710-00:17:57.180 | Trok] Orden have some stew.
 [u0197 | 00:17:58.800-00:17:59.910 | DM] huh thanks.
 [u0198 | 00:18:02.370-00:18:03.480 | DM] appreciate the food.
 [u0199 | 00:18:05.910-00:18:08.820 | Trok] What can we do for you Oh, this is, have you met my friend.
-[u0200 | 00:18:10.020-00:18:10.260 | Trok] today.
+[u0200 | 00:18:10.020-00:18:10.260 | Trok] Kaleho.
 [u0201 | 00:18:11.730-00:18:12.810 | DM] Hello Hello.
-[u0202 | 00:18:14.670-00:18:15.750 | Kaleho] Hello grunts.
+[u0202 | 00:18:14.670-00:18:15.750 | Kaleho] Kaleho grunts.
 [u0203 | 00:18:15.840-00:18:17.580 | DM] And I haven't you.
 [u0204 | 00:18:20.100-00:18:21.450 | DM] You from around here.
 [u0205 | 00:18:22.950-00:18:26.010 | Kaleho] know from around many places.
@@ -207,9 +207,9 @@
 [u0207 | 00:18:34.920-00:18:37.170 | Kaleho] i'm Okay, I get by.
 [u0208 | 00:18:38.340-00:18:38.730 | DM] hmm.
 [u0209 | 00:18:41.040-00:18:44.820 | DM] Well it's it hasn't been a good week.
-[u0210 | 00:18:46.140-00:18:49.680 | DM] I don't know if i've told you this truck but.
+[u0210 | 00:18:46.140-00:18:49.680 | DM] I don't know if i've told you this Trok but.
 [u0211 | 00:18:52.200-00:18:56.790 | DM] You know I live by myself, but it, I do have some family.
-[u0212 | 00:18:59.790-00:19:02.610 | DM] my daughter hi Asa.
+[u0212 | 00:18:59.790-00:19:02.610 | DM] my daughter Hiyasa.
 [u0213 | 00:19:04.950-00:19:05.850 | DM] She came home.
 [u0214 | 00:19:07.470-00:19:08.070 | DM] Maybe.
 [u0215 | 00:19:09.210-00:19:10.920 | DM] Two weeks, three weeks ago.
@@ -223,7 +223,7 @@
 [u0223 | 00:19:38.280-00:19:39.930 | DM] papers and notes some.
 [u0224 | 00:19:41.640-00:19:51.960 | DM] maps and she said, there was lots of places you could get money in the in the forests lots of gold ruins around here.
 [u0225 | 00:19:54.570-00:19:55.560 | DM] She had it out.
-[u0226 | 00:19:57.150-00:19:59.730 | DM] said you bad back in a few days, but it's been.
+[u0226 | 00:19:57.150-00:19:59.730 | DM] said she'd be back in a few days, but it's been.
 [u0227 | 00:20:02.820-00:20:03.990 | DM] Eight days now.
 [u0228 | 00:20:06.810-00:20:07.470 | DM] i'm afraid.
 [u0229 | 00:20:08.670-00:20:10.200 | DM] Something might have happened to her.
@@ -232,34 +232,34 @@
 [u0232 | 00:20:20.010-00:20:20.850 | DM] You might be.
 [u0233 | 00:20:27.900-00:20:29.790 | Trok] sounds like there's more you're not telling us.
 [u0234 | 00:20:30.870-00:20:35.310 | Trok] For we can decide if we can help you, but maybe if you sit down and.
-[u0235 | 00:20:36.690-00:20:37.620 | Trok] Let up a bowl.
+[u0235 | 00:20:36.690-00:20:37.620 | Trok] ladle up a bowl.
 [u0236 | 00:20:40.350-00:20:42.300 | DM] Looking sure i'm always happy.
 [u0237 | 00:20:45.780-00:20:48.810 | DM] there's not much more to the story really I mean.
 [u0238 | 00:20:52.170-00:20:55.110 | DM] I there's a lot she didn't tell me.
 [u0239 | 00:20:56.490-00:20:58.620 | DM] said she was going up the river, she said.
 [u0240 | 00:21:00.840-00:21:02.190 | DM] There was treasure there.
-[u0241 | 00:21:04.500-00:21:05.670 | Kaleho] A Burma river.
+[u0241 | 00:21:04.500-00:21:05.670 | Kaleho] Up Mirmir River.
 [u0242 | 00:21:06.540-00:21:06.960 | Unknown] yeah.
 [u0243 | 00:21:08.040-00:21:09.240 | DM] it's the only river.
 [u0244 | 00:21:09.600-00:21:14.640 | Trok] she'd been spending time with anybody new lately.
 [u0245 | 00:21:17.730-00:21:19.590 | DM] she's been gone for so long, I.
 [u0246 | 00:21:21.030-00:21:22.350 | DM] Just came back to.
 [u0247 | 00:21:24.540-00:21:25.950 | DM] She wouldn't say she was.
-[u0248 | 00:21:28.500-00:21:30.120 | DM] I think she was running from travel.
+[u0248 | 00:21:28.500-00:21:30.120 | DM] I think she was running from trouble.
 [u0249 | 00:21:32.190-00:21:32.820 | DM] outlining.
-[u0250 | 00:21:33.420-00:21:35.910 | Trok] What kind of trouble my team gotten into.
+[u0250 | 00:21:33.420-00:21:35.910 | Trok] What kind of trouble might she have gotten into.
 [u0251 | 00:21:37.980-00:21:41.220 | DM] say where she's been she went off to find adventure.
 [u0252 | 00:21:43.380-00:21:44.430 | DM] Not you know.
 [u0253 | 00:21:45.480-00:21:45.690 | DM] Be.
 [u0254 | 00:21:46.800-00:21:47.340 | Kaleho] Good.
 [u0255 | 00:21:48.780-00:21:53.700 | DM] backwater of this town not that it's a bad town, if you ask me, but.
 [u0256 | 00:21:54.780-00:21:56.160 | DM] guess, not for everybody.
-[u0257 | 00:21:56.370-00:22:00.630 | Trok] And we have enough adventure here and hungry to keep you satisfied, I suppose, not.
+[u0257 | 00:21:56.370-00:22:00.630 | Trok] And we have enough adventure here in Hamri to keep you satisfied, I suppose, not.
 [u0258 | 00:22:01.680-00:22:03.570 | DM] enough for me that's for sure.
 [u0259 | 00:22:06.420-00:22:06.750 | Trok] well.
 [u0260 | 00:22:07.770-00:22:10.320 | Kaleho] they're worse towns and they're better towns.
 [u0261 | 00:22:12.570-00:22:13.410 | DM] But I would be.
-[u0262 | 00:22:15.300-00:22:17.640 | DM] In your dad if you try and find her.
+[u0262 | 00:22:15.300-00:22:17.640 | DM] in your debt if you try and find her.
 [u0263 | 00:22:18.690-00:22:19.980 | Kaleho] What does she look like.
 [u0264 | 00:22:25.710-00:22:26.940 | DM] You know she is a.
 [u0265 | 00:22:31.560-00:22:32.460 | DM] tissue look like.
@@ -267,10 +267,10 @@
 [u0267 | 00:22:39.150-00:22:40.200 | DM] In her early.
 [u0268 | 00:22:41.520-00:22:43.260 | DM] 30s now i'm.
 [u0269 | 00:22:45.090-00:22:45.720 | DM] sort of.
-[u0270 | 00:22:48.870-00:22:54.570 | DM] mangesh brown hair likes to wear a leather cloak and a hood.
+[u0270 | 00:22:48.870-00:22:54.570 | DM] mousy brown hair likes to wear a leather cloak and a hood.
 [u0271 | 00:22:59.190-00:23:03.420 | DM] fairly short shorter than me she doesn't have all this hair like I do.
 [u0272 | 00:23:06.360-00:23:08.160 | DM] prettier than me too i'd say.
-[u0273 | 00:23:16.980-00:23:23.370 | Trok] TIM was the one who is an outcast from my high born family.
+[u0273 | 00:23:16.980-00:23:23.370 | Trok] Orden was the one who is an outcast from my high born family.
 [u0274 | 00:23:24.450-00:23:25.080 | DM] Yes.
 [u0275 | 00:23:27.420-00:23:30.450 | DM] He was the one who like his yeah he.
 [u0276 | 00:23:33.300-00:23:46.560 | DM] I guess it wasn't it was never entirely clear exactly what happened to his to you know hit with his parents, but he was came from money and now obviously was not part of money.
@@ -280,14 +280,14 @@
 [u0280 | 00:23:54.720-00:23:56.520 | Kaleho] turn back or otherwise.
 [u0281 | 00:24:03.540-00:24:04.380 | Kaleho] Did it roll.
 [u0282 | 00:24:09.600-00:24:11.250 | DM] I mean his.
-[u0283 | 00:24:13.200-00:24:25.620 | DM] key themes genuinely upset and is like looking for how it's not you don't know him that well and he's a bit sort of monotonic even killed kind of.
+[u0283 | 00:24:13.200-00:24:25.620 | DM] he seems genuinely upset and is like looking for how it's not you don't know him that well and he's a bit sort of monotonic even-keeled kind of.
 [u0284 | 00:24:27.300-00:24:29.100 | DM] You know slightly.
 [u0285 | 00:24:30.210-00:24:30.570 | DM] You know.
 [u0286 | 00:24:33.300-00:24:37.380 | DM] doesn't have a lot of emotion is wise anyway, but he definitely seems um.
 [u0287 | 00:24:41.790-00:24:45.270 | DM] yeah yeah that's that's what you can get really like he's not.
 [u0288 | 00:24:46.770-00:24:48.900 | DM] There might be things about his daughter he's not.
 [u0289 | 00:24:52.320-00:25:00.960 | DM] he's not opening up to you about, but like he just generally does seem like he's asking for help, does not like some secret agenda here, he.
-[u0290 | 00:25:02.130-00:25:07.200 | DM] Has daughter was gone for a while and he wants her back or he wants to know what happened to her.
+[u0290 | 00:25:02.130-00:25:07.200 | DM] His daughter was gone for a while and he wants her back or he wants to know what happened to her.
 [u0291 | 00:25:08.850-00:25:11.040 | Trok] How many days ago, did you say she took off.
 [u0292 | 00:25:13.500-00:25:14.010 | DM] Last.
 [u0293 | 00:25:15.270-00:25:16.560 | DM] Eight days ago now.
@@ -299,12 +299,12 @@
 [u0299 | 00:25:37.020-00:25:38.400 | DM] you're the adventure.
 [u0300 | 00:25:39.480-00:25:41.250 | DM] I don't know what to do.
 [u0301 | 00:25:42.540-00:25:43.650 | DM] It your friend.
-[u0302 | 00:25:43.710-00:25:44.790 | DM] ryu can help.
-[u0303 | 00:25:45.360-00:25:49.710 | Trok] I wish was zero is in town he could just get together an expedition of.
+[u0302 | 00:25:43.710-00:25:44.790 | DM] Ryu can help.
+[u0303 | 00:25:45.360-00:25:49.710 | Trok] I wish Wazir is in town he could just get together an expedition of.
 [u0304 | 00:25:51.180-00:25:53.160 | Trok] 50 strong adventures.
-[u0305 | 00:25:54.330-00:25:57.390 | DM] marks yeah I don't know if they'd.
+[u0305 | 00:25:54.330-00:25:57.390 | DM] mercs yeah I don't know if they'd.
 [u0306 | 00:26:00.360-00:26:03.600 | DM] i'm not so popular in town so much.
-[u0307 | 00:26:08.520-00:26:09.750 | Trok] Zero doesn't like you them.
+[u0307 | 00:26:08.520-00:26:09.750 | Trok] Wazir doesn't like you them.
 [u0308 | 00:26:11.280-00:26:11.760 | Trok] well.
 [u0309 | 00:26:15.330-00:26:17.070 | Trok] I spent a lot of time on this here beach.
 [u0310 | 00:26:18.210-00:26:19.620 | Trok] couldn't hurt to get a change of scenery.
@@ -318,7 +318,7 @@
 [u0318 | 00:26:50.520-00:26:51.030 | Unknown] yeah.
 [u0319 | 00:26:52.140-00:26:52.980 | Trok] And by yourself.
 [u0320 | 00:26:53.730-00:26:56.670 | DM] By yourself as far as I now.
-[u0321 | 00:26:57.870-00:27:00.000 | Kaleho] Do you know word what boat, did you arrive on.
+[u0321 | 00:26:57.870-00:27:00.000 | Kaleho] Do you know what boat, did you arrive on.
 [u0322 | 00:27:02.220-00:27:02.880 | DM] I don't know.
 [u0323 | 00:27:06.930-00:27:10.710 | DM] She just showed up at my shack three weeks ago.
 [u0324 | 00:27:14.550-00:27:14.850 | Trok] and
@@ -326,33 +326,33 @@
 [u0326 | 00:27:18.810-00:27:19.620 | Trok] Easy taken.
 [u0327 | 00:27:22.050-00:27:23.130 | Trok] buried ancient money.
 [u0328 | 00:27:24.270-00:27:26.310 | Trok] or new pilfering to do.
-[u0329 | 00:27:27.180-00:27:28.620 | DM] I guess buried anxious to.
+[u0329 | 00:27:27.180-00:27:28.620 | DM] I guess buried ancient treasure.
 [u0330 | 00:27:28.620-00:27:31.200 | DM] ash from the way she was talking.
-[u0331 | 00:27:37.590-00:27:39.840 | Kaleho] It for you late now tomorrow.
+[u0331 | 00:27:37.590-00:27:39.840 | Kaleho] If too late now, tomorrow.
 [u0332 | 00:27:41.160-00:27:41.520 | DM] yeah.
 [u0333 | 00:27:41.550-00:27:42.780 | Kaleho] can go up river and look.
 [u0334 | 00:27:44.700-00:27:51.720 | Trok] I was wondering if we should simply head up at first light or ask around town, to see if anybody knows anything that might be useful.
-[u0335 | 00:27:54.570-00:27:57.570 | Kaleho] to your movie or early in the morning, we can.
+[u0335 | 00:27:54.570-00:27:57.570 | Kaleho] Tomorrow, maybe, or early in the morning, we can.
 [u0336 | 00:27:59.190-00:28:00.090 | Kaleho] check in on the way toward.
 [u0337 | 00:28:01.650-00:28:01.950 | Kaleho] Sir.
 [u0338 | 00:28:03.660-00:28:04.770 | Kaleho] If we find money.
 [u0339 | 00:28:05.850-00:28:06.780 | Kaleho] i'll need a cut.
-[u0340 | 00:28:10.500-00:28:11.400 | Trok] Oh learning.
+[u0340 | 00:28:10.500-00:28:11.400 | Trok] Oh, Orden.
 [u0341 | 00:28:15.120-00:28:17.220 | Trok] we'll figure out the money when the time comes.
-[u0342 | 00:28:18.750-00:28:20.610 | Trok] But it's true, we can use reuse help.
+[u0342 | 00:28:18.750-00:28:20.610 | Trok] But it's true, we can use Ryu's help.
 [u0343 | 00:28:23.790-00:28:25.080 | Trok] When did I last see him TIM.
 [u0344 | 00:28:26.730-00:28:31.350 | DM] Is around I mean you probably saw him a few days ago, you could certainly catch him at breakfast.
-[u0345 | 00:28:33.120-00:28:35.190 | Trok] let's let's find him at first like.
-[u0346 | 00:28:36.480-00:28:37.800 | Ryu] Real viewer out very soon.
+[u0345 | 00:28:33.120-00:28:35.190 | Trok] let's let's find him at first light.
+[u0346 | 00:28:36.480-00:28:37.800 | Ryu] Ryu will be out very soon.
 [u0347 | 00:28:38.010-00:28:39.150 | Ryu] will be around very soon.
 [u0348 | 00:28:42.060-00:28:42.780 | Ryu] I had oh.
 [u0349 | 00:28:45.030-00:28:47.370 | DM] OK so it's for the next morning.
-[u0350 | 00:28:48.180-00:28:49.650 | Trok] We spoke some gods and go to sleep.
+[u0350 | 00:28:48.180-00:28:49.650 | Trok] We smoke some gatza and go to sleep.
 [u0351 | 00:28:50.100-00:28:52.350 | Kaleho] Okay, I gotcha.
 [u0352 | 00:28:53.220-00:28:53.700 | Trok] No okay.
 [u0353 | 00:28:55.740-00:28:56.340 | DM] So.
 [u0354 | 00:28:57.540-00:29:00.060 | DM] The next morning you had up to.
-[u0355 | 00:29:02.790-00:29:03.810 | DM] To read his tower.
+[u0355 | 00:29:02.790-00:29:03.810 | DM] to Ryu's tower.
 [u0356 | 00:29:04.890-00:29:06.810 | Trok] yeah the two of us.
 [u0357 | 00:29:07.260-00:29:08.370 | DM] Okay um.
 [u0358 | 00:29:15.510-00:29:17.220 | DM] Now we need come um.
@@ -360,16 +360,16 @@
 [u0360 | 00:29:21.480-00:29:26.040 | DM] Okay, so it is, it is late October.
 [u0361 | 00:29:27.060-00:29:30.060 | DM] it's been about three months since the events of.
 [u0362 | 00:29:34.260-00:29:35.160 | DM] Of the.
-[u0363 | 00:29:36.690-00:29:44.610 | DM] What are the sentience water and ozzy or the warlock turning people trying to re animate brown bodies.
+[u0363 | 00:29:36.690-00:29:44.610 | DM] What are the sentient water and Azar the warlock turning people trying to re animate drowned bodies.
 [u0364 | 00:29:47.070-00:29:48.570 | DM] it's been a quiet three months.
-[u0365 | 00:29:49.890-00:29:55.500 | DM] um but now you see i'm kayla was back in town and you see.
+[u0365 | 00:29:49.890-00:29:55.500 | DM] um but now you see i'm Kaleho is back in town and you see.
 [u0366 | 00:29:57.510-00:29:57.900 | DM] A.
-[u0367 | 00:29:59.850-00:30:00.450 | Ryu] truck.
-[u0368 | 00:30:01.980-00:30:05.550 | DM] And kayla heading up to your tower review.
+[u0367 | 00:29:59.850-00:30:00.450 | Ryu] Trok.
+[u0368 | 00:30:01.980-00:30:05.550 | DM] And Kaleho heading up to your tower, Ryu.
 [u0369 | 00:30:08.160-00:30:14.520 | DM] With a look of news or determination in their eyes first thing for breakfast.
-[u0370 | 00:30:21.180-00:30:26.850 | Ryu] You see a blue blue blue what kind of purpose again blue.
-[u0371 | 00:30:27.030-00:30:35.640 | Ryu] spray spray kind of either sitting sitting on the top of the power, the Tower like watching you as you come up the stairs and then.
-[u0372 | 00:30:36.300-00:30:50.760 | Ryu] You know review kind of like sticks his head outside the door it's long long long long hair kind of disheveled looking like normally he's in kind of like in like a long top not that you know normally like renounce kind of all the shovel and he's in sort of like a black black robe.
+[u0370 | 00:30:21.180-00:30:26.850 | Ryu] You see Blu, Blu, Blu, what kind of bird again? Blu.
+[u0371 | 00:30:27.030-00:30:35.640 | Ryu] osprey kind of either sitting sitting on the top of the tower, the tower like watching you as you come up the stairs and then.
+[u0372 | 00:30:36.300-00:30:50.760 | Ryu] You know Ryu kind of like sticks his head outside the door it's long long long long hair kind of disheveled looking like normally he's in kind of like in like a long topknot not that you know normally like Ryu is kind of all disheveled and he's in sort of like a black black robe.
 [u0373 | 00:30:52.260-00:30:57.510 | Ryu] looking like having just woken up like five minutes ago it's kind of like so you guys.
 [u0374 | 00:30:59.130-00:31:00.090 | Ryu] You guys are here early.
 [u0375 | 00:31:01.740-00:31:05.640 | Trok] Oh yes, and we got a job for you, my friend.
@@ -379,9 +379,9 @@
 [u0379 | 00:31:13.290-00:31:14.310 | Trok] Then up the River lately.
 [u0380 | 00:31:15.840-00:31:22.560 | Ryu] uh I mean I go every week, usually what's going on.
 [u0381 | 00:31:23.940-00:31:25.170 | Trok] Well, you know my friend.
-[u0382 | 00:31:26.880-00:31:28.740 | Trok] Gordon bum.
+[u0382 | 00:31:26.880-00:31:28.740 | Trok] Orden, bum.
 [u0383 | 00:31:29.640-00:31:29.910 | Ryu] yeah.
-[u0384 | 00:31:29.970-00:31:32.610 | Trok] I mean like to call him above because he, like.
+[u0384 | 00:31:29.970-00:31:32.610 | Trok] I mean like to call him a bum because he, like.
 [u0385 | 00:31:34.440-00:31:37.530 | Trok] has no gainful employment and lives on the beach yeah.
 [u0386 | 00:31:37.830-00:31:40.620 | Trok] or others that I might name anyways.
 [u0387 | 00:31:42.390-00:31:42.540 | Trok] or.
@@ -389,26 +389,26 @@
 [u0389 | 00:31:47.640-00:31:51.510 | Trok] A treasure seeking up the River supposed to come back didn't come back.
 [u0390 | 00:31:52.440-00:31:54.120 | Ryu] The daughter was treasure seeking up the river.
 [u0391 | 00:31:54.930-00:31:55.860 | Trok] that's what he says.
-[u0392 | 00:31:57.120-00:32:03.600 | Kaleho] She left eight days ago believe into supposed to be back a few days ago.
+[u0392 | 00:31:57.120-00:32:03.600 | Kaleho] She left eight days ago I believe, and was supposed to be back a few days ago.
 [u0393 | 00:32:04.620-00:32:07.650 | Ryu] hmm and so you guys want to go rescue her.
 [u0394 | 00:32:09.090-00:32:09.570 | Trok] well.
-[u0395 | 00:32:10.980-00:32:14.880 | Trok] wouldn't sit in particular that that could be a lot of money involved and.
+[u0395 | 00:32:10.980-00:32:14.880 | Trok] wouldn't say in particular that that could be a lot of money involved and.
 [u0396 | 00:32:14.910-00:32:18.900 | Ryu] Okay that's what I didn't understand it felt like kind of a noble pursuit.
 [u0397 | 00:32:18.960-00:32:22.440 | Ryu] That first part, so I wasn't sure that was in character, for you guys and your.
-[u0398 | 00:32:22.440-00:32:26.370 | Trok] Insurance and i'm not trying to get rich or anything but.
-[u0399 | 00:32:26.730-00:32:31.290 | Ryu] there's their godson involved because that's kind of the other primary motivator I can.
+[u0398 | 00:32:22.440-00:32:26.370 | Trok] Sure, and i'm not trying to get rich or anything but.
+[u0399 | 00:32:26.730-00:32:31.290 | Ryu] there's there gatza involved because that's kind of the other primary motivator I can.
 [u0400 | 00:32:31.710-00:32:35.640 | Trok] I hear that, in certain circumstances, it can be exchanged for currency so.
 [u0401 | 00:32:37.590-00:32:39.240 | Trok] Okay, so this is sort of a.
 [u0402 | 00:32:39.360-00:32:42.900 | Ryu] I see Okay, so if you find the daughter, then you get paid.
 [u0403 | 00:32:43.950-00:32:45.180 | Kaleho] I mean no.
-[u0404 | 00:32:45.510-00:32:47.580 | Trok] I know you're nine years.
+[u0404 | 00:32:45.510-00:32:47.580 | Trok] I know you know, years.
 [u0405 | 00:32:50.130-00:32:50.610 | Trok] Old good.
 [u0406 | 00:32:51.510-00:32:55.080 | Kaleho] The daughter may have a lead on treasure, we find the daughter.
 [u0407 | 00:32:55.410-00:32:56.460 | Ryu] Oh yeah.
 [u0408 | 00:32:56.730-00:33:01.410 | Kaleho] The lead on the money that she was convinced.
 [u0409 | 00:33:03.300-00:33:03.840 | Ryu] Okay.
 [u0410 | 00:33:04.170-00:33:06.120 | Trok] Or we find her waterlogged.
-[u0411 | 00:33:06.390-00:33:14.070 | Trok] corpse and tell warden and noble story about how she went i've known Oregon for for many years, as you know, and.
+[u0411 | 00:33:06.390-00:33:14.070 | Trok] corpse and tell Orden and noble story about how she went i've known Orden for for many years, as you know, and.
 [u0412 | 00:33:14.220-00:33:15.480 | Ryu] I know toward.
 [u0413 | 00:33:16.080-00:33:16.650 | Ryu] me and.
 [u0414 | 00:33:16.710-00:33:18.510 | Trok] we've done together many failures and.
@@ -417,14 +417,14 @@
 [u0417 | 00:33:25.230-00:33:28.740 | Trok] Perhaps and i've never met this daughter of his but.
 [u0418 | 00:33:30.390-00:33:33.810 | Trok] Perhaps we can get them out of trouble if they're still.
 [u0419 | 00:33:34.080-00:33:35.310 | Ryu] Has he ever mentioned.
-[u0420 | 00:33:35.310-00:33:36.030 | Trok] Is a doctor.
+[u0420 | 00:33:35.310-00:33:36.030 | Trok] Is her doctor.
 [u0421 | 00:33:36.120-00:33:42.480 | Ryu] Ever in our years together ever I don't ever remember he doesn't seem like the kind of dude who has kids.
 [u0422 | 00:33:43.020-00:33:43.920 | Trok] Is a.
 [u0423 | 00:33:45.180-00:33:47.130 | Trok] it's an interesting point you raised, my friend.
 [u0424 | 00:33:48.150-00:34:01.920 | Trok] He always had a bit of a tenuous relationship to his family, I think there were some dark times in his youth, but then it's not like he ever married and settle down since I knew him.
 [u0425 | 00:34:03.360-00:34:12.540 | Ryu] He always struck me as the type that like you know how like when you have kids look you so that you don't eat them, you know it's like you don't eat the kid because it looks like you like.
 [u0426 | 00:34:12.600-00:34:14.610 | Trok] that struck me like that why.
-[u0427 | 00:34:14.670-00:34:18.780 | Ryu] order you know so it's like if you were to have kids you know I mean.
+[u0427 | 00:34:14.670-00:34:18.780 | Ryu] Orden you know so it's like if you were to have kids you know I mean.
 [u0428 | 00:34:20.280-00:34:23.100 | Ryu] I don't know never really struck me as a successful parent myself.
 [u0429 | 00:34:23.670-00:34:29.760 | Kaleho] she's she left when she was in her early 20s and returned after 10 years.
 [u0430 | 00:34:31.980-00:34:34.380 | Kaleho] Just recently went to the forest just recently.
@@ -442,10 +442,10 @@
 [u0442 | 00:35:30.930-00:35:34.650 | Nerissa] looks around nature bit get finds her way around.
 [u0443 | 00:35:36.420-00:35:43.320 | Nerissa] And you know she's she's a looks like she's trying to be friendly, as she approaches.
 [u0444 | 00:35:45.810-00:35:49.080 | Nerissa] And she says oh i've.
-[u0445 | 00:35:50.310-00:36:03.540 | Nerissa] been over in this Tower for a while fairly near here and I haven't had a chance to meet anyone in the area, so I saw your gathering and I thought I would come in and introduce myself, my name is marissa.
+[u0445 | 00:35:50.310-00:36:03.540 | Nerissa] been over in this Tower for a while fairly near here and I haven't had a chance to meet anyone in the area, so I saw your gathering and I thought I would come in and introduce myself, my name is Nerissa.
 [u0446 | 00:36:06.360-00:36:14.670 | Ryu] Well hello, and so yeah I think i've seen you around these parts over the past the past couple of weeks i'm welcome.
-[u0447 | 00:36:16.380-00:36:20.460 | Ryu] i'm review the humble caretaker of this slab Iraq.
-[u0448 | 00:36:22.260-00:36:31.470 | Trok] i'm i'm truck and I was not informed that there was a a neighborhood tower association forming.
+[u0447 | 00:36:16.380-00:36:20.460 | Ryu] I'm Ryu the humble caretaker of this slab Iraq.
+[u0448 | 00:36:22.260-00:36:31.470 | Trok] I'm Trok and I was not informed that there was a a neighborhood tower association forming.
 [u0449 | 00:36:32.550-00:36:32.910 | Trok] But.
 [u0450 | 00:36:35.460-00:36:37.890 | Ryu] it's you don't check your CV emails the problem.
 [u0451 | 00:36:39.300-00:36:42.120 | Ryu] We send you the same goodwill and you don't you never respond.
@@ -476,7 +476,7 @@
 [u0476 | 00:38:01.950-00:38:04.290 | Ryu] Were and you were you were you from Marisa.
 [u0477 | 00:38:05.580-00:38:07.410 | Nerissa] Oh i've most recently.
 [u0478 | 00:38:08.880-00:38:09.690 | Nerissa] been living in the.
-[u0479 | 00:38:13.500-00:38:15.840 | Nerissa] In the south, so my wire.
+[u0479 | 00:38:13.500-00:38:15.840 | Nerissa] In the south, south Mawar.
 [u0480 | 00:38:17.580-00:38:19.020 | Nerissa] Just further down the coast.
 [u0481 | 00:38:19.680-00:38:20.340 | Unknown] and
 [u0482 | 00:38:21.840-00:38:26.610 | Nerissa] But before that I was living out in the woods sort of Western here.
@@ -485,15 +485,15 @@
 [u0485 | 00:38:31.080-00:38:32.460 | Nerissa] If there's that much West again.
 [u0486 | 00:38:34.890-00:38:35.640 | Unknown] The forest day.
 [u0487 | 00:38:37.170-00:38:38.250 | Ryu] spent some time out there.
-[u0488 | 00:38:40.680-00:38:44.400 | Nerissa] yeah you know where the tab where forest.
-[u0489 | 00:38:46.410-00:38:48.150 | Nerissa] By the malakal peninsula.
+[u0488 | 00:38:40.680-00:38:44.400 | Nerissa] yeah you know where the Tawir Forest.
+[u0489 | 00:38:46.410-00:38:48.150 | Nerissa] By the Mawakel Peninsula.
 [u0490 | 00:38:48.840-00:38:50.310 | DM] it's right here, basically.
 [u0491 | 00:38:53.340-00:38:54.330 | DM] Just off the map.
 [u0492 | 00:39:00.660-00:39:09.240 | Kaleho] Oh, I have a quick map clarification, are these maps the same map like it flows up or is that, just like a detailed inset of the map on the left.
-[u0493 | 00:39:09.540-00:39:12.240 | DM] it's no no that's just a map of homfray.
-[u0494 | 00:39:12.750-00:39:16.080 | Kaleho] it's the worst memory on the map is that the one that's right in the Center.
+[u0493 | 00:39:09.540-00:39:12.240 | DM] it's no no that's just a map of Hamri.
+[u0494 | 00:39:12.750-00:39:16.080 | Kaleho] it's the Mirmir on the map is that the one that's right in the Center.
 [u0495 | 00:39:16.440-00:39:19.050 | Kaleho] Right I missed that okay got perfect.
-[u0496 | 00:39:19.770-00:39:21.450 | Trok] And so the mere mere river.
+[u0496 | 00:39:19.770-00:39:21.450 | Trok] And so the Mirmir River.
 [u0497 | 00:39:21.660-00:39:24.210 | DM] Is not even sure is not labeled on the map, it goes it.
 [u0498 | 00:39:24.270-00:39:26.580 | DM] goes up to these hills that doesn't even.
 [u0499 | 00:39:28.080-00:39:29.100 | DM] it's small.
@@ -510,9 +510,9 @@
 [u0510 | 00:40:21.900-00:40:24.990 | Nerissa] be interested to widen my knowledge, the area.
 [u0511 | 00:40:26.010-00:40:29.460 | Nerissa] If you wouldn't mind some additional company, I think that to come along.
 [u0512 | 00:40:31.230-00:40:31.470 | Trok] well.
-[u0513 | 00:40:31.770-00:40:35.280 | Kaleho] Hello who's doing the math of one third verse one sports.
+[u0513 | 00:40:31.770-00:40:35.280 | Kaleho] Kaleho's doing the math of one third verse one sports.
 [u0514 | 00:40:38.340-00:40:40.230 | Kaleho] But he is being quiet.
-[u0515 | 00:40:41.490-00:40:46.560 | Trok] kalo there's plenty of shellfish in the mud, as they, as we say um.
+[u0515 | 00:40:41.490-00:40:46.560 | Trok] Kaleho, there's plenty of shellfish in the mud, as they, as we say um.
 [u0516 | 00:40:49.020-00:40:49.770 | Trok] Any shellfish.
 [u0517 | 00:40:54.090-00:40:55.290 | Trok] Well, the sun's rising.
 [u0518 | 00:40:56.460-00:41:02.070 | Trok] No time like the present, I don't suppose we need to do any kind of provisioning or other preparations.
@@ -542,16 +542,16 @@
 [u0542 | 00:43:36.270-00:43:36.870 | DM] So.
 [u0543 | 00:43:37.350-00:43:37.560 | Unknown] yeah.
 [u0544 | 00:43:41.520-00:43:45.390 | Kaleho] What looks at the lady waiting what's your name again.
-[u0545 | 00:43:46.560-00:43:47.130 | Nerissa] USA.
-[u0546 | 00:43:47.940-00:43:48.540 | Unknown] USA.
+[u0545 | 00:43:46.560-00:43:47.130 | Nerissa] Hiyasa.
+[u0546 | 00:43:47.940-00:43:48.540 | Unknown] Hiyasa.
 [u0547 | 00:43:52.260-00:43:52.950 | Kaleho] Are we ready.
 [u0548 | 00:43:55.410-00:43:56.190 | Trok] let's head out.
 [u0549 | 00:44:00.960-00:44:01.980 | Nerissa] Of the grab my Pack.
 [u0550 | 00:44:05.970-00:44:13.620 | DM] So you're just heading straight to the River to town what's your goal, where you're heading from here.
-[u0551 | 00:44:14.280-00:44:19.470 | Kaleho] We drop in to the end with our friend that we all know, who also seems to be plugged in.
+[u0551 | 00:44:14.280-00:44:19.470 | Kaleho] We drop in to the inn with our friend that we all know, who also seems to be plugged in.
 [u0552 | 00:44:20.400-00:44:21.330 | Trok] The Leviathan.
 [u0553 | 00:44:21.690-00:44:22.710 | Unknown] Leviathan.
-[u0554 | 00:44:24.030-00:44:28.950 | DM] yeah you can I mean you can drop into Leviathan was there, fortunately, is out of town.
+[u0554 | 00:44:24.030-00:44:28.950 | DM] yeah you can I mean you can drop into Leviathan. Wazir, fortunately, is out of town.
 [u0555 | 00:44:30.060-00:44:38.760 | DM] So you checked in earlier, and he he was there, but then had to go out for an errand so no not available at the moment.
 [u0556 | 00:44:39.990-00:44:40.380 | Ryu] Of.
 [u0557 | 00:44:42.060-00:44:45.810 | Ryu] them, you know, like i'm assuming that you must know this river look inside out.
@@ -559,17 +559,17 @@
 [u0559 | 00:44:50.610-00:44:51.750 | Trok] Probably sitting up some.
 [u0560 | 00:44:52.770-00:44:54.330 | Trok] Leviathan franchises.
 [u0561 | 00:44:58.710-00:45:01.380 | Trok] chain of sea monster themed.
-[u0562 | 00:45:01.980-00:45:06.840 | Ryu] tavern in general, it was a truck so we're we're just what are we doing, are we tracking anything, are we just like.
+[u0562 | 00:45:01.980-00:45:06.840 | Ryu] tavern in general, it was a trek so we're we're just what are we doing, are we tracking anything, are we just like.
 [u0563 | 00:45:06.900-00:45:08.700 | Ryu] literally just going to go down the river and see what happens.
-[u0564 | 00:45:10.470-00:45:15.990 | Trok] I wonder if we should try to get order to go with us, because we don't even know really what we're looking for why.
+[u0564 | 00:45:10.470-00:45:15.990 | Trok] I wonder if we should try to get Orden to go with us, because we don't even know really what we're looking for why.
 [u0565 | 00:45:18.510-00:45:21.180 | Trok] Is he, like old and infirm.
 [u0566 | 00:45:22.020-00:45:25.380 | DM] No, but he's just I mean he's a commoner right like he's.
 [u0567 | 00:45:26.730-00:45:33.570 | DM] Not that not that like a day's journey up the river, it would be particularly dangerous, but like he's sort of nervous.
-[u0568 | 00:45:35.580-00:45:44.100 | DM] He has daughter when and vanished he's not like capable of you know if there's, even if this is orange or something he would.
+[u0568 | 00:45:35.580-00:45:44.100 | DM] His daughter when and vanished he's not like capable of you know if there's, even if this is danger or something he would.
 [u0569 | 00:45:45.810-00:45:46.770 | DM] he'd be in trouble.
 [u0570 | 00:45:47.010-00:45:47.520 | Unknown] yeah.
-[u0571 | 00:45:50.250-00:45:52.170 | Kaleho] Thank you, friends, the liability truck.
-[u0572 | 00:45:56.880-00:45:59.340 | Trok] Was the daughter's name gosh.
+[u0571 | 00:45:50.250-00:45:52.170 | Kaleho] Thank you, friends, the Leviathan, Trok.
+[u0572 | 00:45:56.880-00:45:59.340 | Trok] Was the daughter's name Hiyasa.
 [u0573 | 00:46:00.840-00:46:01.380 | DM] I also.
 [u0574 | 00:46:01.860-00:46:02.460 | Trok] I guess.
 [u0575 | 00:46:04.620-00:46:06.690 | Trok] We have almost no information at all.
@@ -605,7 +605,7 @@
 [u0605 | 00:48:19.500-00:48:25.050 | DM] proficiency modifier if you're proficient in investigation or your double proficiency investigation right so add.
 [u0606 | 00:48:25.410-00:48:37.290 | DM] yeah so make your charisma check and add 616 yeah so there's a.
 [u0607 | 00:48:38.370-00:48:41.610 | DM] There is actually one person that you see who who you've.
-[u0608 | 00:48:44.160-00:48:53.130 | DM] you've seen around before his name's are bellard he's a storyteller and a performer who hangs around the Leviathan, a lot um.
+[u0608 | 00:48:44.160-00:48:53.130 | DM] you've seen around before his name's Abelard he's a storyteller and a performer who hangs around the Leviathan, a lot um.
 [u0609 | 00:48:54.240-00:49:00.570 | DM] You get the sense that he often exaggerates his exploits and he's sort of has a reputation as a bit of a.
 [u0610 | 00:49:01.800-00:49:14.370 | DM] Teller of tall tales, but when you have passed through before you, you know chatted with him and he's certainly observant and he seems to be here i'm like nursing a hangover basically.
 [u0611 | 00:49:15.990-00:49:25.920 | Kaleho] So tell he motions to the rest of the our intrepid squad of investigators, you know signaling hey let's talk to the sky.
@@ -627,7 +627,7 @@
 [u0627 | 00:50:40.140-00:50:41.400 | Kaleho] More rumbling oh like.
 [u0628 | 00:50:41.400-00:50:42.630 | Kaleho] Steps out of the way of an.
 [u0629 | 00:50:43.770-00:50:48.570 | Kaleho] Opening for our new adventure to to talk to introduce yourself.
-[u0630 | 00:50:50.670-00:50:54.870 | Nerissa] apple does it, how do you do my name is marissa pleasure to meet you.
+[u0630 | 00:50:50.670-00:50:54.870 | Nerissa] Abelard, how do you do my name is Nerissa pleasure to meet you.
 [u0631 | 00:50:56.580-00:51:02.340 | Nerissa] Can you months i've seen i've been around town, but I haven't had a chance to chat with you, before.
 [u0632 | 00:51:04.920-00:51:05.370 | DM] wow.
 [u0633 | 00:51:07.470-00:51:08.010 | DM] So.
@@ -643,7 +643,7 @@
 [u0643 | 00:51:48.210-00:51:48.870 | DM] She is a.
 [u0644 | 00:51:50.310-00:51:53.130 | DM] Pretty put together if you ask me i'm.
 [u0645 | 00:51:54.210-00:51:54.840 | DM] had some.
-[u0646 | 00:51:57.240-00:51:58.830 | DM] Ancient tomb up there.
+[u0646 | 00:51:57.240-00:51:58.830 | DM] an ancient tomb up there.
 [u0647 | 00:52:00.480-00:52:02.820 | DM] Supposedly, full of lost treasure.
 [u0648 | 00:52:06.900-00:52:07.830 | Trok] To me.
 [u0649 | 00:52:09.030-00:52:11.580 | DM] She didn't think she would be gone for more than a few days.
@@ -654,7 +654,7 @@
 [u0654 | 00:52:35.610-00:52:36.300 | DM] Maybe.
 [u0655 | 00:52:38.580-00:52:41.040 | DM] Who would know more about this tomb I don't know I.
 [u0656 | 00:52:42.390-00:52:44.730 | DM] I hadn't heard of this before I.
-[u0657 | 00:52:45.750-00:52:46.740 | DM] was here would.
+[u0657 | 00:52:45.750-00:52:46.740 | DM] Wazir would.
 [u0658 | 00:52:50.640-00:52:51.750 | DM] he's out of town, though.
 [u0659 | 00:52:55.890-00:52:56.580 | Trok] Have you seen.
 [u0660 | 00:53:02.910-00:53:06.210 | DM] Some checking in maybe a week ago.
@@ -667,8 +667,8 @@
 [u0667 | 00:53:30.990-00:53:31.710 | Trok] i'm.
 [u0668 | 00:53:32.730-00:53:34.800 | Trok] crazy guy whose name was.
 [u0669 | 00:53:36.390-00:53:36.690 | Trok] No.
-[u0670 | 00:53:37.680-00:53:38.460 | DM] yeah it was bizarre.
-[u0671 | 00:53:38.820-00:53:39.720 | Kaleho] bizarre are.
+[u0670 | 00:53:37.680-00:53:38.460 | DM] yeah it was Azar.
+[u0671 | 00:53:38.820-00:53:39.720 | Kaleho] Azar.
 [u0672 | 00:53:43.860-00:53:43.980 | Kaleho] We.
 [u0673 | 00:53:45.510-00:53:46.200 | Kaleho] kind of.
 [u0674 | 00:54:01.980-00:54:02.190 | Trok] know.
@@ -676,8 +676,8 @@
 [u0676 | 00:54:21.900-00:54:22.680 | Kaleho] Well, thanks.
 [u0677 | 00:54:23.730-00:54:25.680 | Kaleho] For your help, good luck with the hangover.
 [u0678 | 00:54:28.560-00:54:29.340 | Nerissa] pleasure to meet you.
-[u0679 | 00:54:32.220-00:54:36.420 | Kaleho] nervosa does the stringer bell as our resident historian.
-[u0680 | 00:54:38.310-00:54:51.060 | Nerissa] there's so many different to former cultures on this peninsula that's part of why I came to live here I don't know per se about any particular burial sites up the river.
+[u0679 | 00:54:32.220-00:54:36.420 | Kaleho] Nerissa does the strength or build as our resident historian.
+[u0680 | 00:54:38.310-00:54:51.060 | Nerissa] there's so many different to older cultures on this peninsula that's part of why I came to live here I don't know per se about any particular burial sites up the river.
 [u0681 | 00:54:53.610-00:54:56.100 | Nerissa] sort of thing that I came here to look for.
 [u0682 | 00:54:58.200-00:54:59.910 | DM] make a make a history chuck.
 [u0683 | 00:55:01.350-00:55:01.650 | DM] norris.
@@ -694,11 +694,11 @@
 [u0694 | 00:56:34.200-00:56:36.150 | DM] it's just rumors that are coming to mind.
 [u0695 | 00:56:46.770-00:56:50.190 | Kaleho] Are we ready to enter into the wilderness.
 [u0696 | 00:56:51.660-00:56:51.990 | Trok] well.
-[u0697 | 00:56:52.230-00:56:53.460 | Kaleho] We pick up real.
-[u0698 | 00:56:53.700-00:57:00.120 | Trok] Soon, as soon as we pick up real yeah he said to go get him in his place right let's head over.
+[u0697 | 00:56:52.230-00:56:53.460 | Kaleho] We pick up Ryu.
+[u0698 | 00:56:53.700-00:57:00.120 | Trok] Soon, as soon as we pick up Ryu yeah he said to go get him in his place right let's head over.
 [u0699 | 00:57:04.170-00:57:05.100 | Ryu] Is head over to the tower.
-[u0700 | 00:57:06.120-00:57:14.040 | Ryu] yeah So you see a review kind of just hanging out on the steps sitting there with spear on his lap looking at you guys.
-[u0701 | 00:57:15.330-00:57:19.290 | Ryu] And yeah blues already found some tracks so.
+[u0700 | 00:57:06.120-00:57:14.040 | Ryu] yeah So you see Ryu kind of just hanging out on the steps sitting there with spear on his lap looking at you guys.
+[u0701 | 00:57:15.330-00:57:19.290 | Ryu] And yeah Blu's already found some tracks so.
 [u0702 | 00:57:22.590-00:57:23.100 | Trok] I mean.
 [u0703 | 00:57:24.180-00:57:27.960 | Trok] I see some tracks to bird tracks turtle tracks.
 [u0704 | 00:57:28.980-00:57:29.280 | Trok] What.
@@ -708,7 +708,7 @@
 [u0708 | 00:57:35.880-00:57:36.450 | Ryu] On the river.
 [u0709 | 00:57:39.150-00:57:39.900 | Unknown] from eight days ago.
 [u0710 | 00:57:42.570-00:57:43.350 | Unknown] that's amazing.
-[u0711 | 00:57:48.840-00:57:54.420 | Trok] Well, maybe we can just hang out here at the Tower wall, while blue makes the rescue that's that's fantastic.
+[u0711 | 00:57:48.840-00:57:54.420 | Trok] Well, maybe we can just hang out here at the Tower wall, while Blu makes the rescue that's that's fantastic.
 [u0712 | 00:58:02.370-00:58:03.210 | Trok] Reasonable question.
 [u0713 | 00:58:07.710-00:58:08.520 | Ryu] That was your other.
 [u0714 | 00:58:13.980-00:58:15.210 | Trok] Please no ordinary ah spray.
@@ -730,10 +730,10 @@
 [u0730 | 00:59:49.290-00:59:55.140 | DM] That there's been foot traffic along the river and there's a there's actually a little path that runs along the river.
 [u0731 | 00:59:56.610-01:00:05.850 | DM] You know up people use for fishing up to the you know past the first couple of sort of obvious open pools, where you can catch trout and things like that.
 [u0732 | 01:00:07.230-01:00:14.010 | DM] But you know after maybe half a day the the sort of obvious um.
-[u0733 | 01:00:17.460-01:00:27.330 | DM] Continual trail, that is, you know what the sort of people have Hombre us going back and forth fades, but you can see, you know with with truck and.
+[u0733 | 01:00:17.460-01:00:27.330 | DM] Continual trail, that is, you know what the sort of people of Hamri going back and forth fades, but you can see, you know with with Trok and.
 [u0734 | 01:00:28.650-01:00:34.560 | DM] Reuse experience it's pretty easy to continue to follow.
-[u0735 | 01:00:35.940-01:00:42.060 | DM] What looks like a path made by, I guess, I guess, we use really the expert tracker.
-[u0736 | 01:00:45.870-01:00:53.160 | DM] Where the real his experience and with you know blues aid helping and things like that um you know somebody clearly.
+[u0735 | 01:00:35.940-01:00:42.060 | DM] What looks like a path made by, I guess, I guess, Ryu is really the expert tracker.
+[u0736 | 01:00:45.870-01:00:53.160 | DM] With Ryu's experience and with you know Blu's aid helping and things like that um you know somebody clearly.
 [u0737 | 01:00:54.720-01:01:00.840 | DM] You know, cut branches, you know push their way through the through you know the tangled.
 [u0738 | 01:01:02.970-01:01:06.720 | DM] tangled small tree is along the river edge.
 [u0739 | 01:01:07.800-01:01:13.920 | DM] You know, every little while there's some fairly obvious signs of relatively recent passage.
@@ -774,12 +774,12 @@
 [u0774 | 01:04:05.190-01:04:12.300 | DM] nothing unusual as you sit watch by the fire gets cold.
 [u0775 | 01:04:13.530-01:04:15.030 | DM] Stephen definitely there's a.
 [u0776 | 01:04:16.470-01:04:19.500 | DM] Winter chill in the air, after the sun is set.
-[u0777 | 01:04:21.300-01:04:25.530 | DM] But as you shake truck awake around midnight.
+[u0777 | 01:04:21.300-01:04:25.530 | DM] But as you shake Trok awake around midnight.
 [u0778 | 01:04:26.580-01:04:29.130 | DM] Report that you haven't seen anything.
 [u0779 | 01:04:32.580-01:04:35.610 | Kaleho] need to use the restroom very, very quickly, so I will be.
-[u0780 | 01:04:37.140-01:04:37.620 | DM] truck.
+[u0780 | 01:04:37.140-01:04:37.620 | DM] Trok.
 [u0781 | 01:04:37.740-01:04:38.850 | DM] Now deception check.
-[u0782 | 01:04:51.090-01:04:52.620 | DM] truck spends most of the night.
+[u0782 | 01:04:51.090-01:04:52.620 | DM] Trok spends most of the night.
 [u0783 | 01:04:53.970-01:04:56.010 | DM] kind of distractedly wondering.
 [u0784 | 01:04:57.240-01:04:58.890 | DM] what's happening elsewhere.
 [u0785 | 01:05:00.930-01:05:04.020 | DM] And as you go to wake Marisa in the.
@@ -826,7 +826,7 @@
 [u0826 | 01:09:09.180-01:09:09.810 | Unknown] um.
 [u0827 | 01:09:12.120-01:09:20.400 | DM] Yes, so heading away from the River from here is a i'll say with.
 [u0828 | 01:09:21.990-01:09:24.210 | DM] With Ray is tracking skill.
-[u0829 | 01:09:25.740-01:09:27.570 | DM] And with blue scouting there's a.
+[u0829 | 01:09:25.740-01:09:27.570 | DM] And with Blu scouting there's a.
 [u0830 | 01:09:28.800-01:09:41.910 | DM] there's a definitely a path and the forest is dense here so somebody you know headed into the interior from here and had to cut their way through like tangled underbrush and and you know.
 [u0831 | 01:09:43.260-01:09:44.850 | DM] Blackberry vines and.
 [u0832 | 01:09:46.110-01:09:50.880 | DM] Close close trees and things like that so.
@@ -872,17 +872,17 @@
 [u0872 | 01:14:17.700-01:14:21.360 | DM] Of primordial that's the language of earth elemental.
 [u0873 | 01:14:23.100-01:14:25.260 | DM] natives of the planet Earth, it says.
 [u0874 | 01:14:28.860-01:14:33.930 | DM] In in these these big letters, it says here lies.
-[u0875 | 01:14:36.630-01:14:44.070 | DM] Year year care core the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.
+[u0875 | 01:14:36.630-01:14:44.070 | DM] Yerkir-khor the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.
 [u0876 | 01:14:50.490-01:14:52.140 | Trok] let's have that one more time.
-[u0877 | 01:14:52.890-01:15:01.230 | DM] Here lies your care core the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.
+[u0877 | 01:14:52.890-01:15:01.230 | DM] Here lies Yerkir-khor the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.
 [u0878 | 01:15:02.580-01:15:04.410 | Trok] wouldn't make skies crystal.
 [u0879 | 01:15:06.600-01:15:08.730 | Trok] Where does the rock below.
-[u0880 | 01:15:10.020-01:15:12.420 | Trok] We do I know nothing about about your core.
+[u0880 | 01:15:10.020-01:15:12.420 | Trok] We do I know nothing about about Yerkir-khor.
 [u0881 | 01:15:13.530-01:15:14.400 | Trok] that's unfamiliar.
 [u0882 | 01:15:16.170-01:15:17.250 | DM] You have never heard.
-[u0883 | 01:15:18.480-01:15:20.730 | DM] Your core before.
+[u0883 | 01:15:18.480-01:15:20.730 | DM] Yerkir-khor before.
 [u0884 | 01:15:23.070-01:15:23.640 | Trok] Anybody.
-[u0885 | 01:15:25.110-01:15:28.500 | Kaleho] Co host kind of confused as to why he goes this language.
+[u0885 | 01:15:25.110-01:15:28.500 | Kaleho] Kaleho is kind of confused as to why he knows this language.
 [u0886 | 01:15:31.020-01:15:32.310 | Kaleho] Does not ring a bell for him.
 [u0887 | 01:15:35.520-01:15:37.260 | Nerissa] I don't know the language but.
 [u0888 | 01:15:38.280-01:15:39.300 | Nerissa] fascinating.
@@ -891,12 +891,12 @@
 [u0891 | 01:15:49.650-01:15:56.550 | Ryu] yeah are there, like just in the late in this region, the River just weird are there, like kind of objects and things like that, with primordial but another like nearby.
 [u0892 | 01:15:56.940-01:16:11.310 | DM] like an unusual thing it's unusual it's not like I mean there are there are definitely ruins and the interior of this peninsula, but not this, you have not heard of.
 [u0893 | 01:16:13.230-01:16:19.230 | DM] Like ruins with like primordial tombs before.
-[u0894 | 01:16:20.970-01:16:34.140 | DM] Like most of the ruins a date much date to like prior errors in the history of malware so like like 100 years 150 years ago and morrow my wire was a.
+[u0894 | 01:16:20.970-01:16:34.140 | DM] Like most of the ruins a date much date to like prior errors in the history of Mawar so like like 100 years 150 years ago and Mawar was a.
 [u0895 | 01:16:35.640-01:16:40.350 | DM] Major naval power or something like that that's like what you're used to seeing around.
 [u0896 | 01:16:42.180-01:16:42.990 | Ryu] Would uh.
 [u0897 | 01:16:44.100-01:16:44.310 | Ryu] huh.
 [u0898 | 01:16:46.590-01:16:49.230 | Ryu] What might be buried in a team like this.
-[u0899 | 01:16:50.370-01:16:55.920 | DM] Your core the undaunted prints of earth part of the Rock allowing carving out the crystal scotus.
+[u0899 | 01:16:50.370-01:16:55.920 | DM] Yerkir-khor the undaunted prince of earth lord of the Rock below and guardian of the crystal skies.
 [u0900 | 01:16:56.730-01:16:57.120 | Ryu] got it.
 [u0901 | 01:16:57.750-01:17:04.560 | Kaleho] Are these stones, like the stones of the towers like do we see any connection like structurally aesthetically.
 [u0902 | 01:17:06.720-01:17:16.920 | DM] And know aesthetically this is completely I mean, these are like massive blocks of stone, with no seams know um.
@@ -906,7 +906,7 @@
 [u0906 | 01:17:41.100-01:17:42.210 | DM] So it's not it doesn't.
 [u0907 | 01:17:43.410-01:17:45.480 | DM] It does not remind you at all of the.
 [u0908 | 01:17:48.270-01:17:50.400 | DM] towers or any anything like that.
-[u0909 | 01:17:52.530-01:17:59.700 | DM] it's definitely not model, our architecture like not mauer golden age architecture from 150 years ago for sure.
+[u0909 | 01:17:52.530-01:17:59.700 | DM] it's definitely not Mawar architecture like not Mawar golden age architecture from 150 years ago for sure.
 [u0910 | 01:18:07.410-01:18:07.800 | Trok] That.
 [u0911 | 01:18:09.270-01:18:11.550 | Trok] rope suggests a convenient.
 [u0912 | 01:18:13.050-01:18:14.400 | Trok] Next course of action.
@@ -956,7 +956,7 @@
 [u0956 | 01:21:18.720-01:21:32.730 | DM] nailing in a rope so that, if they fail, they wouldn't fall, all the way to the bottom, then climbed up a little bit now, then a rope right so there's like a string of eight you know steel Spikes into the side with rope leading to the top right off the top.
 [u0957 | 01:21:33.990-01:21:40.260 | Kaleho] Is there there's what we follow the trail leading to this area, is there any effort trails leaving this area.
 [u0958 | 01:21:42.720-01:21:44.460 | DM] make a survival check.
-[u0959 | 01:21:50.070-01:21:51.630 | Kaleho] Co hosts far from the see.
+[u0959 | 01:21:50.070-01:21:51.630 | Kaleho] Kaleho is far from the sea.
 [u0960 | 01:21:53.940-01:22:00.210 | DM] You don't see any neither sow nor really see any foot trails leaving this area.
 [u0961 | 01:22:01.440-01:22:11.370 | DM] And you're fairly confident because, like it's pretty dense outside of this little clearing it's pretty dense forest, I mean you've been sort of pushing your way through tangles and.
 [u0962 | 01:22:12.570-01:22:13.710 | DM] And brush so.
@@ -984,7 +984,7 @@
 [u0984 | 01:24:23.910-01:24:25.020 | Trok] Well, no that's interesting.
 [u0985 | 01:24:29.490-01:24:30.540 | Trok] Anybody bring a shovel.
 [u0986 | 01:24:34.530-01:24:35.070 | Ryu] Sorry, but.
-[u0987 | 01:24:36.420-01:24:38.370 | Kaleho] This is a little deep for digging truck.
+[u0987 | 01:24:36.420-01:24:38.370 | Kaleho] This is a little deep for digging Trok.
 [u0988 | 01:24:41.910-01:24:42.180 | Trok] I want.
 [u0989 | 01:24:42.600-01:24:44.460 | Kaleho] to know anything about this.
 [u0990 | 01:24:45.690-01:24:46.650 | Kaleho] and your studies.
@@ -999,12 +999,12 @@
 [u0999 | 01:25:21.900-01:25:26.700 | DM] Okay um both both ropes are fairly easy to climb the.
 [u1000 | 01:25:27.720-01:25:44.280 | DM] way up up to the base of the of the squat pyramid just because there's iron Spikes every four feet and then the second rope has is not it and securely fastened with a grappling hook, so you get up to the top without any trouble.
 [u1001 | 01:25:46.650-01:25:51.330 | DM] So one a few things that you can see, one is that now looking at this i'm.
-[u1002 | 01:25:53.550-01:25:55.380 | DM] In into the darkness now truck.
+[u1002 | 01:25:53.550-01:25:55.380 | DM] In into the darkness now Trok.
 [u1003 | 01:25:56.910-01:26:00.240 | DM] You can see you have do you have dark fish and don't you know.
 [u1004 | 01:26:01.050-01:26:01.800 | Trok] I don't know.
 [u1005 | 01:26:02.640-01:26:04.590 | DM] I think that's from one of your tattoo is.
 [u1006 | 01:26:05.940-01:26:06.930 | Trok] Oh interesting.
-[u1007 | 01:26:08.040-01:26:11.910 | DM] Where that even be yes, you do have dark for us and it's under senses.
+[u1007 | 01:26:08.040-01:26:11.910 | DM] Where that even be yes, you do have darkvision and tremorsense.
 [u1008 | 01:26:14.460-01:26:21.660 | DM] You have 120 feet of dark vision amazing so you can actually see down the shaft.
 [u1009 | 01:26:22.740-01:26:39.150 | DM] There is actually a stone like not exactly a ladder, but like stone like notches carved into the side of the shaft descending down so it's definitely climate ball and it goes down, maybe 40 feet.
 [u1010 | 01:26:41.040-01:26:44.730 | DM] which would take you just about to ground level.
@@ -1032,7 +1032,7 @@
 [u1032 | 01:28:38.460-01:28:39.540 | Unknown] come up the rope so.
 [u1033 | 01:28:42.060-01:28:45.360 | Kaleho] That we can easily scrambles up top and.
 [u1034 | 01:28:46.680-01:28:47.430 | Kaleho] looks down.
-[u1035 | 01:28:49.620-01:28:52.710 | Nerissa] and nurses scrambles up to and.
+[u1035 | 01:28:49.620-01:28:52.710 | Nerissa] and Nerissa scrambles up to and.
 [u1036 | 01:28:54.120-01:28:55.290 | Nerissa] so excited to.
 [u1037 | 01:28:57.420-01:28:58.950 | Nerissa] get a glimpse of this i'm.
 [u1038 | 01:29:00.330-01:29:01.740 | Nerissa] gonna say actually says two.
@@ -1045,7 +1045,7 @@
 [u1045 | 01:29:44.760-01:29:51.630 | Nerissa] Start drifting through the through the space lighting like small churches, for us to see where we're going.
 [u1046 | 01:29:52.680-01:29:55.620 | Trok] is wonderful, thank you could sell those in town, if you wanted to.
 [u1047 | 01:29:57.810-01:30:02.760 | DM] So, with the light now are you so you can you can place them up to 120 feet away.
-[u1048 | 01:30:03.690-01:30:04.950 | Nerissa] Yes, I said submitted.
+[u1048 | 01:30:03.690-01:30:04.950 | Nerissa] Yes, I said Thaumaturgy.
 [u1049 | 01:30:04.950-01:30:23.610 | DM] Okay, so so with the light now, you can see that, indeed, this is a mosaic of like glittering like multicolored gems sort of a big cavern almost with i'm like gemstone like almost like you're inside of God.
 [u1050 | 01:30:24.990-01:30:26.010 | DM] Is what it looks like.
 [u1051 | 01:30:26.610-01:30:31.620 | Nerissa] um because most he looks like that, or because their actual crystals.
@@ -1054,22 +1054,22 @@
 [u1054 | 01:30:43.620-01:30:46.200 | Trok] yep i'm in the lead who's coming after me.
 [u1055 | 01:30:46.950-01:30:47.130 | Unknown] and
 [u1056 | 01:30:48.690-01:30:49.890 | Kaleho] i'll go down third.
-[u1057 | 01:30:51.750-01:30:58.050 | Ryu] Real Estate but step top with a blue survey around till nobody's coming we're all.
+[u1057 | 01:30:51.750-01:30:58.050 | Ryu] Ryu stays but step top with Blu surveying around till nobody's coming we're all.
 [u1058 | 01:30:59.820-01:31:04.920 | DM] make our perception check and everybody is climbing down making athletics jack.
 [u1059 | 01:31:18.720-01:31:21.120 | DM] You don't see anybody around i'm.
-[u1060 | 01:31:22.440-01:31:25.110 | DM] truck you begin climbing down.
+[u1060 | 01:31:22.440-01:31:25.110 | DM] Trok you begin climbing down.
 [u1061 | 01:31:26.160-01:31:26.580 | DM] um.
 [u1062 | 01:31:28.170-01:31:34.500 | DM] it's not the easiest climate in the world um but there's handholds and you're strong.
-[u1063 | 01:31:37.260-01:31:47.460 | DM] marissa following behind you, is surprisingly spry and light on our feet and also makes short work of it, you get about.
+[u1063 | 01:31:37.260-01:31:47.460 | DM] Nerissa following behind you, is surprisingly spry and light on her feet and also makes short work of it, you get about.
 [u1064 | 01:31:48.630-01:31:51.120 | DM] 20 feet down when.
 [u1065 | 01:31:52.800-01:31:54.630 | DM] Two things happen at once.
-[u1066 | 01:31:55.980-01:31:59.310 | DM] um first of all kale kilo slips.
+[u1066 | 01:31:55.980-01:31:59.310 | DM] um first of all Kaleho slips.
 [u1067 | 01:32:00.390-01:32:01.710 | DM] And begins tumbling.
 [u1068 | 01:32:03.300-01:32:04.530 | DM] Through the shaft.
 [u1069 | 01:32:05.820-01:32:07.140 | DM] towards the floor.
 [u1070 | 01:32:08.430-01:32:12.150 | DM] And second you hear a slight whirring sound.
 [u1071 | 01:32:13.320-01:32:17.100 | DM] And then, what a blade swings out through the.
-[u1072 | 01:32:19.740-01:32:29.190 | DM] Through the the shaft at about your knee height truck so truck I need you to make a dexterity saving throw.
+[u1072 | 01:32:19.740-01:32:29.190 | DM] Through the the shaft at about your knee height Trok so Trok I need you to make a dexterity saving throw.
 [u1073 | 01:32:29.670-01:32:31.950 | Trok] Some indiana Jones share it here I love.
 [u1074 | 01:32:31.950-01:32:32.250 | Unknown] It.
 [u1075 | 01:32:35.790-01:32:36.210 | Trok] i'm.
@@ -1078,15 +1078,15 @@
 [u1078 | 01:32:49.920-01:32:53.670 | DM] You take I mean you are, you are.
 [u1079 | 01:32:54.150-01:32:56.940 | Trok] Oh God, I have that blessing ability to I could have alone.
 [u1080 | 01:32:57.810-01:33:13.860 | DM] Pretty you know you're a skilled adventure so so even though you're caught completely by surprise by this it doesn't cut your legs off it just knocks you off the ladder you take eight points of slashing damage from the.
-[u1081 | 01:33:15.750-01:33:21.300 | DM] From the blade and then you so kelo takes.
-[u1082 | 01:33:22.950-01:33:33.570 | DM] 14 points of bludgeoning damage from falling and you take nine points of bludgeoning damage trop from falling and both you and kalo boom boom.
+[u1081 | 01:33:15.750-01:33:21.300 | DM] From the blade and then you so Kaleho takes.
+[u1082 | 01:33:22.950-01:33:33.570 | DM] 14 points of bludgeoning damage from falling and you take nine points of bludgeoning damage trop from falling and both you and Kaleho boom boom.
 [u1083 | 01:33:34.890-01:33:37.410 | DM] And with a fight at the bottom of the.
 [u1084 | 01:33:39.870-01:33:41.070 | DM] At the bottom of this.
-[u1085 | 01:33:42.630-01:33:48.240 | DM] In this big room, which is lit up by one of nurses glowing lights.
+[u1085 | 01:33:42.630-01:33:48.240 | DM] In this big room, which is lit up by one of Nerissa's glowing lights.
 [u1086 | 01:33:51.420-01:33:52.560 | Trok] What the heck was that.
-[u1087 | 01:33:54.150-01:33:55.020 | DM] nurse that you.
+[u1087 | 01:33:54.150-01:33:55.020 | DM] Nerissa, you.
 [u1088 | 01:33:55.470-01:33:57.720 | DM] Have on as you observe this blaine.
-[u1089 | 01:33:58.770-01:34:02.070 | DM] slice through the air knock truck off.
+[u1089 | 01:33:58.770-01:34:02.070 | DM] slice through the air knock Trok off.
 [u1090 | 01:34:03.630-01:34:15.750 | DM] cut them up a little bit and you saw van is to clean to the side of the wall as HALO tumbled through the shaft behind you now you are hanging on by yourself.
 [u1091 | 01:34:17.070-01:34:22.260 | DM] About 20 feet above the end of this shaft about maybe.
 [u1092 | 01:34:23.280-01:34:27.120 | DM] 35 feet above the the floor of the.
@@ -1094,14 +1094,14 @@
 [u1094 | 01:34:30.690-01:34:33.960 | Nerissa] And then, how many feet, from where the flashy blade is.
 [u1095 | 01:34:34.440-01:34:39.780 | DM] Like five feet you're right above us or 10 feet you're basically just above.
 [u1096 | 01:34:39.960-01:34:43.200 | Nerissa] This behind track when track that yes.
-[u1097 | 01:34:43.680-01:34:48.930 | Kaleho] did my falling SIP the blade offered a truck climbing the ladder set it off.
-[u1098 | 01:34:48.960-01:34:50.580 | DM] trucks at the blade off.
-[u1099 | 01:34:53.550-01:34:54.600 | Ryu] rocks at the blade off.
+[u1097 | 01:34:43.680-01:34:48.930 | Kaleho] did my falling SIP the blade offered a Trok climbing the ladder set it off.
+[u1098 | 01:34:48.960-01:34:50.580 | DM] Trok set the blade off.
+[u1099 | 01:34:53.550-01:34:54.600 | Ryu] Trok set the blade off.
 [u1100 | 01:34:56.310-01:34:56.760 | Trok] yeah.
 [u1101 | 01:34:57.810-01:35:00.750 | Ryu] I did you that you didn't you roll 20 athletics.
 [u1102 | 01:35:01.920-01:35:10.740 | Trok] yeah but I mean that being good at athletics doesn't mean not setting up traps it's just the climbing part right.
 [u1103 | 01:35:15.600-01:35:16.110 | DM] So.
-[u1104 | 01:35:17.700-01:35:23.610 | DM] let's take this an order so first of all kalo and truck you see now you're standing.
+[u1104 | 01:35:17.700-01:35:23.610 | DM] let's take this an order so first of all Kaleho and Trok you see now you're standing.
 [u1105 | 01:35:25.560-01:35:26.460 | DM] In a.
 [u1106 | 01:35:28.110-01:35:32.790 | DM] Large Hall, maybe 50 feet 5060 feet.
 [u1107 | 01:35:34.200-01:35:37.350 | DM] From lengthwise at the.
@@ -1113,7 +1113,7 @@
 [u1113 | 01:36:03.330-01:36:06.390 | DM] There are two enormous shot double doors.
 [u1114 | 01:36:08.610-01:36:12.720 | DM] There are pillars here you landed here i'll put.
 [u1115 | 01:36:15.300-01:36:16.770 | DM] where's my tokens.
-[u1116 | 01:36:18.360-01:36:21.090 | DM] So let's see truck and.
+[u1116 | 01:36:18.360-01:36:21.090 | DM] So let's see Trok and.
 [u1117 | 01:36:23.070-01:36:27.360 | DM] landed just about there what you're looking at in front of you here.
 [u1118 | 01:36:28.380-01:36:30.120 | DM] Is a.
 [u1119 | 01:36:31.800-01:36:32.220 | DM] um.
@@ -1134,16 +1134,16 @@
 [u1134 | 01:38:26.520-01:38:27.240 | Trok] You did okay.
 [u1135 | 01:38:28.290-01:38:29.550 | Ryu] Right at the top.
 [u1136 | 01:38:30.300-01:38:31.350 | Nerissa] Now he is at the top.
-[u1137 | 01:38:31.440-01:38:33.270 | DM] marissa is like hanging on just.
+[u1137 | 01:38:31.440-01:38:33.270 | DM] Nerissa is like hanging on just.
 [u1138 | 01:38:33.450-01:38:33.750 | DM] love.
-[u1139 | 01:38:34.200-01:38:35.880 | Trok] Where truck federal ID yeah.
-[u1140 | 01:38:36.600-01:38:41.580 | DM] So, so this is so, so kalo and truck what are you two doing.
+[u1139 | 01:38:34.200-01:38:35.880 | Trok] Where's Trok? There, yeah yeah.
+[u1140 | 01:38:36.600-01:38:41.580 | DM] So, so this is so, so Kaleho and Trok what are you two doing.
 [u1141 | 01:38:43.980-01:38:44.430 | Kaleho] i'm.
 [u1142 | 01:38:46.980-01:38:53.670 | Kaleho] Just my second row don't ropes have like track for trap ability or some propensity towards.
 [u1143 | 01:38:54.570-01:38:57.180 | DM] I mean anybody who wants to can look for traps.
 [u1144 | 01:38:57.360-01:39:00.210 | Trok] has been great and there you go oops well.
 [u1145 | 01:39:00.270-01:39:00.810 | Unknown] that's.
-[u1146 | 01:39:02.220-01:39:02.790 | Kaleho] kelo.
+[u1146 | 01:39:02.220-01:39:02.790 | Kaleho] Kaleho.
 [u1147 | 01:39:02.850-01:39:04.200 | Unknown] Dirty isn't a perception check.
 [u1148 | 01:39:06.330-01:39:06.600 | DM] While.
 [u1149 | 01:39:06.660-01:39:08.250 | DM] You just tell me what you want to do.
@@ -1155,9 +1155,9 @@
 [u1155 | 01:39:36.240-01:39:41.610 | Trok] staring up interested thinking what advice to give her realizing she can figure it out on our own.
 [u1156 | 01:39:42.090-01:39:43.920 | Trok] And then is drawn.
 [u1157 | 01:39:43.950-01:39:51.900 | Trok] By the snake head statue and I lock eyes, with it wondering if I know any logical connections to similar things.
-[u1158 | 01:39:52.530-01:39:55.050 | DM] Are guy i'm nervous, what are you doing.
+[u1158 | 01:39:52.530-01:39:55.050 | DM] All right, Nerissa, what are you doing.
 [u1159 | 01:39:57.540-01:39:57.930 | Nerissa] well.
-[u1160 | 01:39:59.490-01:40:01.530 | Nerissa] Why don't be able to get passes played.
+[u1160 | 01:39:59.490-01:40:01.530 | Nerissa] We won't be able to get past this blade.
 [u1161 | 01:40:04.260-01:40:05.490 | Trok] You can Jim it was something.
 [u1162 | 01:40:05.940-01:40:08.340 | Nerissa] we're gonna be able to come up this way yeah.
 [u1163 | 01:40:08.790-01:40:12.990 | Ryu] It did the blade like is it like used or did it like come out and then go back into the one.
@@ -1172,7 +1172,7 @@
 [u1172 | 01:40:34.710-01:40:38.580 | DM] But like big curved sort blade that.
 [u1173 | 01:40:43.470-01:40:46.770 | Nerissa] You know that I have anything metal.
 [u1174 | 01:40:47.940-01:40:50.730 | Nerissa] That i'd be willing to give up obviously um.
-[u1175 | 01:40:51.840-01:40:54.930 | Nerissa] I have my sword, but that's nothing more than they used to Gemma.
+[u1175 | 01:40:51.840-01:40:54.930 | Nerissa] I have my sword, but that's nothing more than they used to gem.
 [u1176 | 01:40:56.100-01:40:56.940 | Nerissa] Another sword.
 [u1177 | 01:40:58.350-01:41:01.080 | DM] I think you have some iron Spikes in your Pack.
 [u1178 | 01:41:02.460-01:41:06.810 | Nerissa] I was wondering about that I thought I have noticed, I had a bag of sand.
@@ -1181,11 +1181,11 @@
 [u1181 | 01:41:15.840-01:41:16.740 | Trok] For the suite.
 [u1182 | 01:41:16.800-01:41:17.670 | Trok] Of the golden idol.
 [u1183 | 01:41:19.470-01:41:21.180 | DM] Why, I brought it might come to that.
-[u1184 | 01:41:24.420-01:41:28.560 | Nerissa] Is it does it were exactly the same as hey Elsa so we can get her out.
+[u1184 | 01:41:24.420-01:41:28.560 | Nerissa] Is it does it were exactly the same as Hiyasa so we can get her out.
 [u1185 | 01:41:29.100-01:41:29.520 | Unknown] Exactly.
-[u1186 | 01:41:33.660-01:41:37.800 | Nerissa] Right well see what can I do with little specks her little.
+[u1186 | 01:41:33.660-01:41:37.800 | Nerissa] Right well see what can I do with Mage Hand or little.
 [u1187 | 01:41:39.660-01:41:41.160 | Nerissa] clay dangle one.
-[u1188 | 01:41:43.800-01:41:45.090 | Nerissa] Data down on a rope.
+[u1188 | 01:41:43.800-01:41:45.090 | Nerissa] Get it down on a rope.
 [u1189 | 01:41:47.010-01:41:58.470 | Trok] Well, I would guess shouting up that the blade is triggered by a foot on the foothold so you might try tapping it from above, and then with something that's not your hand.
 [u1190 | 01:42:00.120-01:42:01.440 | Nerissa] huh yeah.
 [u1191 | 01:42:02.700-01:42:04.110 | Nerissa] Alright, see.
@@ -1208,30 +1208,30 @@
 [u1208 | 01:42:53.250-01:42:54.450 | Nerissa] tie any rope stuff up.
 [u1209 | 01:42:54.450-01:42:55.830 | DM] Top you could.
 [u1210 | 01:42:56.280-01:42:58.620 | Ryu] Say let's do that how about we tie some REPS up at the top.
-[u1211 | 01:43:00.120-01:43:04.350 | Nerissa] In addition to the ladder that's human into the side of the Rock.
+[u1211 | 01:43:00.120-01:43:04.350 | Nerissa] In addition to the ladder that's hewn into the side of the Rock.
 [u1212 | 01:43:04.680-01:43:06.750 | Ryu] Right, but which is also like you know.
 [u1213 | 01:43:07.110-01:43:07.770 | Nerissa] be trapped.
 [u1214 | 01:43:07.980-01:43:08.370 | Unknown] yeah.
 [u1215 | 01:43:09.420-01:43:09.690 | Unknown] yeah.
 [u1216 | 01:43:10.740-01:43:14.790 | Nerissa] We could just avoid using the ladder, and then we wouldn't step on the step.
 [u1217 | 01:43:15.900-01:43:16.560 | Ryu] also true.
-[u1218 | 01:43:16.950-01:43:22.890 | Nerissa] there's a point of trucks scot free So yes, let's let's fast in the rope.
-[u1219 | 01:43:23.910-01:43:32.850 | Nerissa] up at the top of the ladder and then maybe instead of poking with your javelin or my heavy stick, we could just avoid the step that truck stepped on.
+[u1218 | 01:43:16.950-01:43:22.890 | Nerissa] there's a point of Trok got free So yes, let's let's fasten the rope.
+[u1219 | 01:43:23.910-01:43:32.850 | Nerissa] up at the top of the ladder and then maybe instead of poking with your javelin or my heavy stick, we could just avoid the step that Trok stepped on.
 [u1220 | 01:43:33.420-01:43:34.260 | Ryu] The slide down the road.
 [u1221 | 01:43:34.650-01:43:35.550 | DM] A couple of other head.
-[u1222 | 01:43:36.630-01:43:40.620 | DM] So while you two are setting that up i'm kayla makeup perception check.
+[u1222 | 01:43:36.630-01:43:40.620 | DM] So while you two are setting that up i'm Kaleho makeup perception check.
 [u1223 | 01:43:44.640-01:43:45.960 | Trok] It say it, so he can.
 [u1224 | 01:43:46.200-01:43:46.890 | Trok] be something good.
-[u1225 | 01:43:47.460-01:43:49.860 | DM] And marissa making athletics check to climb back up.
+[u1225 | 01:43:47.460-01:43:49.860 | DM] And Nerissa, make athletics check to climb back up.
 [u1226 | 01:43:50.700-01:43:53.640 | Nerissa] All right, well, maybe I don't have to climb back up.
 [u1227 | 01:43:54.390-01:43:57.150 | DM] Oh you're just waiting for the rope to get to you yeah you can do that.
 [u1228 | 01:43:59.790-01:44:00.210 | DM] um.
-[u1229 | 01:44:01.560-01:44:05.940 | DM] Okay, so kalo you your as you're looking around i'm.
+[u1229 | 01:44:01.560-01:44:05.940 | DM] Okay, so Kaleho you your as you're looking around i'm.
 [u1230 | 01:44:07.980-01:44:12.420 | DM] I mean it's hard to see much from right where you are.
 [u1231 | 01:44:13.620-01:44:20.490 | DM] But as you like, take a minute to kind of you know, get your bearings stand up dust yourself off.
-[u1232 | 01:44:21.750-01:44:28.740 | DM] You know, look around at the at the torch light cast by a marissa has a magic.
+[u1232 | 01:44:21.750-01:44:28.740 | DM] You know, look around at the at the torch light cast by Nerissa's a magic.
 [u1233 | 01:44:31.050-01:44:33.690 | DM] So you can't actually see really past.
-[u1234 | 01:44:35.130-01:44:45.000 | DM] Past here, probably because the the light from the torches isn't bright enough to see all the way to the end only truck can see that, with his dark vision um.
+[u1234 | 01:44:35.130-01:44:45.000 | DM] Past here, probably because the the light from the torches isn't bright enough to see all the way to the end only Trok can see that, with his dark vision um.
 [u1235 | 01:44:48.060-01:44:54.900 | DM] I mean the things that you notice, like everything here seems old very old um.
 [u1236 | 01:44:57.030-01:45:06.570 | DM] The except for the two broken statues, which seem like look like without moving, but just kind of at the edge of your.
 [u1237 | 01:45:06.900-01:45:14.550 | DM] The torch light there you can you can even still from this distance um you know with this sort of just kind of peering around.
@@ -1243,7 +1243,7 @@
 [u1243 | 01:46:08.250-01:46:11.490 | DM] The lag tights and stalagmites just seems to be this sort of.
 [u1244 | 01:46:13.170-01:46:20.220 | DM] You know smoothly flowing from scene to scene here i'm all depicted in this elaborate mosaic work.
 [u1245 | 01:46:22.230-01:46:25.140 | DM] So this point has you to have sort of stood up i'm.
-[u1246 | 01:46:26.520-01:46:38.760 | DM] still not moving yet, but i'm reuse got the rope and review and i'm interests are now like sliding down on the rope the rope itself is.
+[u1246 | 01:46:26.520-01:46:38.760 | DM] still not moving yet, but i'm Ryu got the rope and Ryu and Nerissa are now like sliding down on the rope the rope itself is.
 [u1247 | 01:46:39.990-01:46:45.690 | DM] it's about 60 feet down you've got 50 feet of rope so you'll have to like jump the last 10 feet.
 [u1248 | 01:46:48.210-01:46:48.870 | DM] or so.
 [u1249 | 01:46:49.560-01:46:50.700 | Nerissa] Get back on the ladder.
@@ -1254,7 +1254,7 @@
 [u1254 | 01:47:26.880-01:47:28.470 | Nerissa] To the ladder would have ended.
 [u1255 | 01:47:29.490-01:47:32.040 | DM] In the ceiling like 15 feet up from before.
 [u1256 | 01:47:34.920-01:47:35.790 | Unknown] Your place to have.
-[u1257 | 01:47:37.650-01:47:42.780 | DM] It is so while you are well they're climbing down what a kilo and truck what are you doing.
+[u1257 | 01:47:37.650-01:47:42.780 | DM] It is so while you are well they're climbing down what a Kaleho and Trok what are you doing.
 [u1258 | 01:47:44.940-01:47:45.780 | Trok] Oh so did I.
 [u1259 | 01:47:46.860-01:47:47.730 | Trok] notice.
 [u1260 | 01:47:47.790-01:47:49.320 | DM] or remember anyhow yeah.
@@ -1276,13 +1276,13 @@
 [u1276 | 01:48:49.740-01:48:50.340 | DM] As.
 [u1277 | 01:48:50.850-01:48:53.370 | Trok] I, as the end always about fighting okay.
 [u1278 | 01:48:53.430-01:48:54.990 | DM] To have the statues.
-[u1279 | 01:48:57.030-01:48:59.520 | DM] dive bomb down at you truck.
-[u1280 | 01:49:01.110-01:49:03.900 | DM] kayla what are you doing, by the way, well truck is doing this.
+[u1279 | 01:48:57.030-01:48:59.520 | DM] dive bomb down at you Trok.
+[u1280 | 01:49:01.110-01:49:03.900 | DM] Kaleho what are you doing, by the way, well Trok is doing this.
 [u1281 | 01:49:09.450-01:49:11.850 | DM] Here, let me put the other two tokens on here.
 [u1282 | 01:49:18.180-01:49:18.780 | DM] You are.
 [u1283 | 01:49:33.120-01:49:35.760 | DM] Okay sorry I missed what you all rolled.
 [u1284 | 01:49:39.840-01:49:41.640 | DM] Well okay you're a quick.
-[u1285 | 01:49:43.830-01:49:45.540 | Kaleho] Look fall kind of walk them up.
+[u1285 | 01:49:43.830-01:49:45.540 | Kaleho] Kaleho kind of walk them up.
 [u1286 | 01:49:50.010-01:49:50.430 | DM] i'm.
 [u1287 | 01:49:51.570-01:49:52.650 | DM] related you've all.
 [u1288 | 01:50:00.120-01:50:00.540 | Ryu] money.
@@ -1296,30 +1296,30 @@
 [u1296 | 01:50:40.020-01:50:40.320 | Kaleho] um.
 [u1297 | 01:50:40.440-01:50:50.550 | Kaleho] So my crossbow have helped with this, the crossbow warning like I thought we couldn't be surprised if we're all awake.
 [u1298 | 01:50:54.690-01:50:56.640 | DM] yeah that's true you can't be surprised.
-[u1299 | 01:50:56.670-01:51:05.670 | DM] So, as the statue start to move your kalo just whips around I noticed as them dive bombing towards.
+[u1299 | 01:50:56.670-01:51:05.670 | DM] So, as the statue start to move Kaleho just whips around I noticed as them dive bombing towards.
 [u1300 | 01:51:08.130-01:51:08.910 | DM] towards.
-[u1301 | 01:51:10.680-01:51:13.710 | DM] truck and you go first.
+[u1301 | 01:51:10.680-01:51:13.710 | DM] Trok and you go first.
 [u1302 | 01:51:15.030-01:51:16.200 | Trok] whoa Nice.
 [u1303 | 01:51:17.610-01:51:24.720 | Kaleho] Okay, so God still getting used to being broke, I can use steady aim right.
 [u1304 | 01:51:25.680-01:51:25.980 | DM] yep.
 [u1305 | 01:51:26.280-01:51:27.330 | Kaleho] I haven't moved okay.
 [u1306 | 01:51:29.520-01:51:35.130 | Kaleho] um so are you steady aim and attack the one.
-[u1307 | 01:51:36.180-01:51:41.040 | Kaleho] On the just to the north of truck to my characters right.
+[u1307 | 01:51:36.180-01:51:41.040 | Kaleho] On the just to the north of Trok to my characters right.
 [u1308 | 01:51:43.680-01:51:44.130 | DM] Now i'm.
 [u1309 | 01:51:45.540-01:51:45.840 | DM] Okay.
 [u1310 | 01:51:46.170-01:51:46.440 | Kaleho] yeah.
 [u1311 | 01:51:46.470-01:51:47.100 | DM] Make your bag.
 [u1312 | 01:51:50.580-01:51:50.910 | DM] You.
 [u1313 | 01:51:52.770-01:51:54.600 | DM] Ah, you have advantage.
-[u1314 | 01:51:55.980-01:51:57.030 | Kaleho] simon's I gotta roll again.
+[u1314 | 01:51:55.980-01:51:57.030 | Kaleho] minus I gotta roll again.
 [u1315 | 01:51:57.630-01:51:57.930 | Unknown] yep.
 [u1316 | 01:52:01.170-01:52:01.440 | DM] Okay.
 [u1317 | 01:52:04.470-01:52:05.310 | DM] Well, damage.
-[u1318 | 01:52:13.980-01:52:26.670 | DM] Okay, so as as the statues begin to move kayla whips around and fires off takes aim at one of them and fires off a quick crossbow bolts, however, the rest of you.
+[u1318 | 01:52:13.980-01:52:26.670 | DM] Okay, so as as the statues begin to move Kaleho whips around and fires off takes aim at one of them and fires off a quick crossbow bolts, however, the rest of you.
 [u1319 | 01:52:29.370-01:52:34.500 | DM] Do not manage to do anything as the.
 [u1320 | 01:52:35.880-01:52:36.750 | DM] creatures.
-[u1321 | 01:52:37.920-01:52:39.960 | DM] dive towards truck.
-[u1322 | 01:52:44.550-01:52:45.570 | DM] truck what's your AC.
+[u1321 | 01:52:37.920-01:52:39.960 | DM] dive towards Trok.
+[u1322 | 01:52:44.550-01:52:45.570 | DM] Trok what's your AC.
 [u1323 | 01:52:47.040-01:52:48.780 | Trok] What is macy 18.
 [u1324 | 01:52:49.260-01:52:51.210 | DM] Okay, so the first one dives in.
 [u1325 | 01:52:52.290-01:52:55.260 | DM] Fighting and clawing at you missing completely.
@@ -1333,7 +1333,7 @@
 [u1333 | 01:53:47.130-01:53:48.660 | DM] And then they were all.
 [u1334 | 01:53:50.550-01:53:51.960 | DM] They will all fly.
 [u1335 | 01:53:54.300-01:53:58.530 | DM] Well, now they'll just stay in the air there they can't really get out of your reach anyway um.
-[u1336 | 01:54:00.870-01:54:11.790 | DM] So now back to kayla and now everybody else gets your turns now, as you are no longer surprised i'm marissa and re you, you are still 15 feet up on the rope.
+[u1336 | 01:54:00.870-01:54:11.790 | DM] So now back to Kaleho and now everybody else gets your turns now, as you are no longer surprised i'm Nerissa and Ryu, you are still 15 feet up on the rope.
 [u1337 | 01:54:13.620-01:54:16.980 | Ryu] Are we, like in the room, now, or are we, like dang.
 [u1338 | 01:54:17.070-01:54:17.730 | DM] Know you're.
 [u1339 | 01:54:17.790-01:54:22.230 | DM] dangling on the rope you're 15 feet up in the air dangling on the rope.
@@ -1342,21 +1342,21 @@
 [u1342 | 01:54:28.770-01:54:29.820 | Ryu] Yes, I did.
 [u1343 | 01:54:32.580-01:54:34.440 | DM] yeah I thought you guys are both climbing down.
 [u1344 | 01:54:34.710-01:54:35.400 | Ryu] down the road yeah.
-[u1345 | 01:54:38.010-01:54:38.730 | DM] Okay kayla.
+[u1345 | 01:54:38.010-01:54:38.730 | DM] Okay Kaleho.
 [u1346 | 01:54:40.200-01:54:40.590 | Nerissa] So.
 [u1347 | 01:54:40.890-01:54:44.400 | Nerissa] reasonably drop and roll and maybe stand up again.
 [u1348 | 01:54:45.240-01:54:45.570 | Unknown] yeah.
-[u1349 | 01:54:46.830-01:54:48.150 | Kaleho] So kalo.
+[u1349 | 01:54:46.830-01:54:48.150 | Kaleho] So Kaleho.
 [u1350 | 01:54:49.860-01:54:57.240 | Kaleho] Hold steady again takes aim at the one he attacked the first time, but now i'm eligible for a sneak attack correct.
 [u1351 | 01:54:57.720-01:54:58.770 | DM] You are the first ones.
 [u1352 | 01:55:00.000-01:55:00.810 | Kaleho] Oh sorry.
 [u1353 | 01:55:00.990-01:55:04.860 | DM] If your advantage, you get States need to act so you get a sneak attack again.
-[u1354 | 01:55:05.700-01:55:08.010 | Kaleho] Okay, so, then I do the head PC.
+[u1354 | 01:55:05.700-01:55:08.010 | Kaleho] Okay, so, then I do the NPC.
 [u1355 | 01:55:10.050-01:55:12.540 | DM] that's but roll again to see if you get a crack.
 [u1356 | 01:55:15.300-01:55:16.650 | DM] nope so now roll damage.
 [u1357 | 01:55:27.420-01:55:32.220 | DM] OK, so now that are crossbow bolts strikes this this creature i'm.
 [u1358 | 01:55:34.320-01:55:36.090 | DM] As are you, you are now.
-[u1359 | 01:55:37.530-01:55:43.710 | DM] Like I would say, like right here about 15 feet up and marissa is right behind you.
+[u1359 | 01:55:37.530-01:55:43.710 | DM] Like I would say, like right here about 15 feet up and Nerissa is right behind you.
 [u1360 | 01:55:45.090-01:55:49.140 | Ryu] Can I am dangling from the rope just throw throw the javelin.
 [u1361 | 01:55:52.320-01:55:53.670 | DM] yeah i'm.
 [u1362 | 01:55:54.990-01:55:56.190 | DM] You it, I would say, you would have.
@@ -1384,17 +1384,17 @@
 [u1384 | 01:57:14.430-01:57:14.970 | Unknown] And then.
 [u1385 | 01:57:16.440-01:57:17.760 | Ryu] yeah i'm gonna.
 [u1386 | 01:57:17.850-01:57:19.260 | DM] lose stay out of the fridge.
-[u1387 | 01:57:19.290-01:57:29.970 | Ryu] For now hopefully i'll have a blue fly down oh cool fly down and and just kind of hang up near the near the road do these guys have like do they have long range attempts these these deeds and they.
+[u1387 | 01:57:19.290-01:57:29.970 | Ryu] For now hopefully i'll have Blu fly down oh cool fly down and and just kind of hang up near the near the road do these guys have like do they have long range attempts these these deeds and they.
 [u1388 | 01:57:31.170-01:57:32.160 | DM] Only seen them just.
 [u1389 | 01:57:32.220-01:57:33.450 | DM] Fighting clot people.
-[u1390 | 01:57:34.470-01:57:38.430 | Ryu] Okay i'll have blue hand kinda like right right at the entrance of the home.
-[u1391 | 01:57:38.940-01:57:42.810 | DM] Okay ah, so that it returns or truck you're up.
-[u1392 | 01:57:44.820-01:57:46.980 | Trok] The truck is is mad.
+[u1390 | 01:57:34.470-01:57:38.430 | Ryu] Okay i'll have Blu hang kinda like right right at the entrance of the home.
+[u1391 | 01:57:38.940-01:57:42.810 | DM] Okay ah, so that it returns or Trok you're up.
+[u1392 | 01:57:44.820-01:57:46.980 | Trok] The Trok is is mad.
 [u1393 | 01:57:48.000-01:57:56.880 | Trok] As happens when he gets injured, can you describe belief really again, these are little stone gargoyles who like little wing a dragon things like.
 [u1394 | 01:57:56.970-01:57:58.950 | Trok] Yes, two feet tall or something.
 [u1395 | 01:57:59.730-01:58:03.570 | DM] yeah there, there may be yeah maybe three four feet tall.
 [u1396 | 01:58:04.170-01:58:06.630 | Trok] And do they still seem to be made of stone yep.
-[u1397 | 01:58:09.630-01:58:16.470 | Trok] truck it's it into his head to smash them against the floor in whatever way that he can perhaps by grabbing them by the head and then swing them down or.
+[u1397 | 01:58:09.630-01:58:16.470 | Trok] Trok it's it into his head to smash them against the floor in whatever way that he can perhaps by grabbing them by the head and then swing them down or.
 [u1398 | 01:58:16.470-01:58:16.860 | Unknown] Guy.
 [u1399 | 01:58:18.540-01:58:24.630 | Trok] And in his excitement he kicks off his primal might ability doubling in size.
 [u1400 | 01:58:25.620-01:58:26.490 | Ryu] Oh, my God.
@@ -1429,7 +1429,7 @@
 [u1429 | 02:00:06.270-02:00:09.360 | DM] Oh, you do an extra one day six damage so we're all another D sex.
 [u1430 | 02:00:16.290-02:00:17.550 | DM] Because of your Prime oh my.
 [u1431 | 02:00:18.300-02:00:19.050 | Trok] Oh yeah yes.
-[u1432 | 02:00:19.500-02:00:29.760 | DM] Okay, so this is like giant truck just like slams the thing on the ground and it bounces off sort of days staggering slightly i'm.
+[u1432 | 02:00:19.500-02:00:29.760 | DM] Okay, so this is like giant Trok just like slams the thing on the ground and it bounces off sort of days staggering slightly i'm.
 [u1433 | 02:00:31.380-02:00:42.510 | DM] Looking pretty rough but then you miss your it's it bounces out of your REACH, as you try and slam it again, you hit it too hard, the first time.
 [u1434 | 02:00:44.010-02:00:44.400 | Trok] Nice.
 [u1435 | 02:00:45.630-02:00:46.800 | DM] Okay, nursing you're up.
@@ -1437,10 +1437,10 @@
 [u1437 | 02:00:49.830-02:00:50.310 | Nerissa] um.
 [u1438 | 02:00:51.780-02:00:52.440 | Nerissa] I.
 [u1439 | 02:00:54.150-02:00:56.670 | Nerissa] choose a point that is.
-[u1440 | 02:01:00.060-02:01:02.430 | Nerissa] away from track, on the other side of.
+[u1440 | 02:01:00.060-02:01:02.430 | Nerissa] away from Trok, on the other side of.
 [u1441 | 02:01:04.380-02:01:08.910 | Nerissa] of him, where those two that you gargoyles are and.
 [u1442 | 02:01:09.960-02:01:10.470 | Nerissa] That I.
-[u1443 | 02:01:11.790-02:01:14.400 | Nerissa] can get them within a 10 foot radius but not truck.
+[u1443 | 02:01:11.790-02:01:14.400 | Nerissa] can get them within a 10 foot radius but not Trok.
 [u1444 | 02:01:15.240-02:01:17.490 | DM] Which to these this one in this one.
 [u1445 | 02:01:18.210-02:01:18.660 | Nerissa] know that.
 [u1446 | 02:01:19.290-02:01:19.890 | DM] These two.
@@ -1496,7 +1496,7 @@
 [u1496 | 02:04:48.330-02:04:50.550 | DM] Again, just failing to.
 [u1497 | 02:04:52.110-02:04:52.440 | DM] To.
 [u1498 | 02:04:54.930-02:04:56.070 | DM] get past your Armor.
-[u1499 | 02:04:57.750-02:04:58.830 | DM] Okay kayla you're up.
+[u1499 | 02:04:57.750-02:04:58.830 | DM] Okay Kaleho you're up.
 [u1500 | 02:05:00.330-02:05:05.310 | Kaleho] Okay, so I lose advantage if I shoot over 30 feet correct.
 [u1501 | 02:05:06.270-02:05:10.200 | DM] And you're shooting into darkness because that's outside the range of the torches.
 [u1502 | 02:05:10.770-02:05:11.250 | Unknown] Ah.
@@ -1517,11 +1517,11 @@
 [u1517 | 02:06:13.890-02:06:15.000 | DM] hey like.
 [u1518 | 02:06:15.150-02:06:20.730 | DM] here's the thing flying away turns like focuses on it.
 [u1519 | 02:06:22.020-02:06:27.690 | DM] And you hear it shattering to the ground as the crossbow strikes at.
-[u1520 | 02:06:30.900-02:06:31.680 | DM] Rio Europe.
+[u1520 | 02:06:30.900-02:06:31.680 | DM] Ryu, you're up.
 [u1521 | 02:06:35.250-02:06:35.790 | Ryu] All right.
 [u1522 | 02:06:37.980-02:06:42.180 | Ryu] engage with this dude right over here, he has flown off or done anything right nope.
 [u1523 | 02:06:43.650-02:06:45.090 | DM] they've all been attacking.
-[u1524 | 02:06:48.060-02:06:49.020 | DM] Attacking truck.
+[u1524 | 02:06:48.060-02:06:49.020 | DM] Attacking Trok.
 [u1525 | 02:06:49.800-02:06:51.420 | Ryu] I will, I will keep trying to kill this one.
 [u1526 | 02:06:52.020-02:06:52.290 | Unknown] Okay.
 [u1527 | 02:06:53.400-02:06:54.930 | Ryu] So first it's that.
@@ -1532,13 +1532,13 @@
 [u1532 | 02:07:05.790-02:07:11.790 | DM] So with your second spear strike this one is now also starting to crack a little bit, it seems.
 [u1533 | 02:07:13.320-02:07:14.160 | DM] anything.
 [u1534 | 02:07:16.320-02:07:17.220 | DM] BONUS action.
-[u1535 | 02:07:17.730-02:07:22.110 | Ryu] yeah blue I again I just don't want included dies, then this word.
-[u1536 | 02:07:22.320-02:07:25.560 | DM] glue has remember blue has 35 hit points.
-[u1537 | 02:07:28.560-02:07:29.310 | Ryu] blue.
+[u1535 | 02:07:17.730-02:07:22.110 | Ryu] yeah Blu, again I just don't want him to die, then this word.
+[u1536 | 02:07:22.320-02:07:25.560 | DM] Blu has remember Blu has 35 hit points.
+[u1537 | 02:07:28.560-02:07:29.310 | Ryu] Blu.
 [u1538 | 02:07:30.510-02:07:34.140 | Ryu] For the one that's there's the one that's already sitting doing something right.
-[u1539 | 02:07:37.080-02:07:42.420 | DM] Ah, why not this one here as grappled by his truck is holding in his hands.
-[u1540 | 02:07:42.780-02:07:48.600 | DM] yeah this one, and this one has so far been attacking truck this one is dead.
-[u1541 | 02:07:49.140-02:07:52.620 | Ryu] Okay, all right yeah i'll have to i'll have blue attack the one that i'm also talking.
+[u1539 | 02:07:37.080-02:07:42.420 | DM] Ah, why not this one here as grappled by Trok is holding in his hands.
+[u1540 | 02:07:42.780-02:07:48.600 | DM] yeah this one, and this one has so far been attacking Trok this one is dead.
+[u1541 | 02:07:49.140-02:07:52.620 | Ryu] Okay, all right yeah i'll have to i'll have Blu attack the one that i'm also talking.
 [u1542 | 02:07:53.940-02:07:54.360 | DM] Okay.
 [u1543 | 02:07:56.880-02:07:59.340 | DM] Ah, so make.
 [u1544 | 02:08:04.470-02:08:05.580 | DM] make a.
@@ -1547,16 +1547,16 @@
 [u1547 | 02:08:23.610-02:08:24.300 | Ryu] brought one.
 [u1548 | 02:08:24.450-02:08:24.780 | Trok] I think.
 [u1549 | 02:08:24.900-02:08:25.740 | DM] we're all the one.
-[u1550 | 02:08:28.320-02:08:30.030 | DM] style blue messes.
+[u1550 | 02:08:28.320-02:08:30.030 | DM] Still, Blu misses.
 [u1551 | 02:08:31.920-02:08:33.420 | Ryu] Well, sorry but.
 [u1552 | 02:08:34.440-02:08:35.160 | Ryu] you'll get it next time.
 [u1553 | 02:08:37.170-02:08:38.820 | DM] yep ah.
-[u1554 | 02:08:40.260-02:08:49.530 | DM] And also so blue has the ability fly by, which means that doesn't provoke opportunity attacks when it flies out of an enemy's REACH, so he can dive bomb and then fly.
+[u1554 | 02:08:40.260-02:08:49.530 | DM] And also so Blu has the ability fly by, which means that doesn't provoke opportunity attacks when it flies out of an enemy's REACH, so he can dive bomb and then fly.
 [u1555 | 02:08:49.530-02:08:51.480 | Ryu] Back definitely what he does, yes.
 [u1556 | 02:08:51.540-02:08:52.260 | Trok] Oh slick.
 [u1557 | 02:08:52.890-02:08:54.630 | DM] He has a fly speed of 60 feet.
 [u1558 | 02:08:55.860-02:08:56.760 | Trok] wow cool.
-[u1559 | 02:08:57.630-02:08:58.680 | DM] Okay truck here up.
+[u1559 | 02:08:57.630-02:08:58.680 | DM] Okay Trok, you're up.
 [u1560 | 02:09:00.060-02:09:02.190 | Trok] So, first of all I sorry I skipped you but.
 [u1561 | 02:09:03.960-02:09:11.430 | Trok] What happened Oh, I see um so the one that i'm grappled I can do, Wednesday for bludgeoning damage.
 [u1562 | 02:09:11.790-02:09:13.350 | Trok] yep I just roll that.
@@ -1579,10 +1579,10 @@
 [u1579 | 02:10:14.670-02:10:16.830 | DM] The altar crack slightly as the.
 [u1580 | 02:10:17.850-02:10:23.100 | DM] scholar of this thing collides with it and and it's now looking pretty shaken up as well.
 [u1581 | 02:10:25.200-02:10:28.710 | DM] As also still grappled so it cannot move.
-[u1582 | 02:10:29.730-02:10:31.560 | DM] That brings us to nurses turn.
+[u1582 | 02:10:29.730-02:10:31.560 | DM] That brings us to Nerissa's turn.
 [u1583 | 02:10:34.230-02:10:34.710 | Nerissa] well.
 [u1584 | 02:10:37.200-02:10:40.980 | Nerissa] i'll just do what I did before, because I don't want to.
-[u1585 | 02:10:44.850-02:10:50.850 | Nerissa] I think I can still pick a point that sort of to the side of the other side of trump is so gets this too.
+[u1585 | 02:10:44.850-02:10:50.850 | Nerissa] I think I can still pick a point that sort of to the side of the other side of Trok is so gets this too.
 [u1586 | 02:10:52.140-02:10:52.410 | Nerissa] yeah.
 [u1587 | 02:10:54.240-02:10:57.330 | Trok] Oh yeah your stone cracking attack awesome let's.
 [u1588 | 02:10:57.570-02:10:58.410 | Nerissa] do that again.
@@ -1596,12 +1596,12 @@
 [u1596 | 02:11:42.000-02:11:44.190 | DM] So that is your turn now it's their turn.
 [u1597 | 02:11:47.760-02:11:49.680 | DM] let's see this one is grappled.
 [u1598 | 02:11:54.600-02:12:05.850 | DM] So it has no choice but to bite it's grappling and cloud as granular but, having terrible trouble getting past your Armor fails in both endeavors.
-[u1599 | 02:12:07.800-02:12:15.300 | DM] This one having seen the damage that kalo can do will turn around and swing at him.
+[u1599 | 02:12:07.800-02:12:15.300 | DM] This one having seen the damage that Kaleho can do will turn around and swing at him.
 [u1600 | 02:12:17.850-02:12:18.780 | DM] what's your AC.
 [u1601 | 02:12:19.980-02:12:23.010 | Kaleho] AC is 16, but I also have uncanny.
 [u1602 | 02:12:23.100-02:12:31.920 | DM] dog, so the bite attack hits which does seven piercing damage which you can use your reaction with uncanny dodge to reduce to three.
 [u1603 | 02:12:35.790-02:12:37.620 | DM] And then, this one is going to.
-[u1604 | 02:12:38.760-02:12:45.420 | DM] make or break for that, for the statue so both review and truck get opportunity attacks.
+[u1604 | 02:12:38.760-02:12:45.420 | DM] make or break for that, for the statue so both Ryu and Trok get opportunity attacks.
 [u1605 | 02:12:48.390-02:12:52.680 | Trok] um can I use my javelin in this case.
 [u1606 | 02:12:53.820-02:12:54.990 | Trok] Is it better or worse than when.
 [u1607 | 02:12:55.020-02:12:57.690 | DM] you're javelin is worse than your unarmed strikes.
@@ -1623,7 +1623,7 @@
 [u1623 | 02:14:04.800-02:14:05.280 | Unknown] Okay.
 [u1624 | 02:14:08.010-02:14:08.730 | DM] That hits.
 [u1625 | 02:14:13.410-02:14:15.270 | DM] So another six points of damage.
-[u1626 | 02:14:16.380-02:14:18.000 | DM] That ends your turn real Europe.
+[u1626 | 02:14:16.380-02:14:18.000 | DM] That ends your turn Ryu, you're up.
 [u1627 | 02:14:18.720-02:14:20.790 | Kaleho] Oh wait, can I dash as my bonus action.
 [u1628 | 02:14:21.510-02:14:23.280 | DM] Not now because he took steady aim.
 [u1629 | 02:14:23.460-02:14:25.440 | Kaleho] Ah, got it okay got it.
@@ -1635,13 +1635,13 @@
 [u1635 | 02:14:50.310-02:14:51.390 | Ryu] How can I get over there.
 [u1636 | 02:14:53.280-02:14:54.210 | DM] what's your move.
 [u1637 | 02:14:55.470-02:14:56.340 | Ryu] No idea.
-[u1638 | 02:14:56.460-02:14:57.480 | Trok] Send blue for that one.
+[u1638 | 02:14:56.460-02:14:57.480 | Trok] Send Blu for that one.
 [u1639 | 02:14:58.560-02:15:03.300 | Ryu] definitely do that but i'm going to try to go there as well, that's a good idea what is my mood mood.
 [u1640 | 02:15:08.640-02:15:09.420 | Trok] Like the.
 [u1641 | 02:15:09.570-02:15:14.160 | DM] F 35 feet you you can't you can I mean you can certainly throw your spirit at.
 [u1642 | 02:15:15.150-02:15:16.680 | DM] All i'll get into maybe with it.
 [u1643 | 02:15:17.010-02:15:20.430 | Ryu] yeah i'll get i'll get i'll go 35 feet so i'll move.
-[u1644 | 02:15:20.880-02:15:31.770 | DM] Okay, but moving through truck is difficult terrain so that's 10 2025 3035 basically move back to squares.
+[u1644 | 02:15:20.880-02:15:31.770 | DM] Okay, but moving through Trok is difficult terrain so that's 10 2025 3035 basically move back to squares.
 [u1645 | 02:15:32.280-02:15:33.450 | Ryu] So about like right here.
 [u1646 | 02:15:34.230-02:15:36.870 | DM] that's your now on us on a pillar.
 [u1647 | 02:15:38.190-02:15:41.910 | DM] Like move one square one square back more from there.
@@ -1665,14 +1665,14 @@
 [u1665 | 02:16:39.810-02:16:41.190 | Ryu] No, yes, the.
 [u1666 | 02:16:41.880-02:16:43.290 | DM] huh and then.
 [u1667 | 02:16:43.770-02:16:44.430 | DM] You want to have.
-[u1668 | 02:16:44.460-02:16:46.920 | Ryu] Blue attack i'll have blue fly through.
-[u1669 | 02:16:47.490-02:16:50.250 | DM] Okay, that hits so blue does.
+[u1668 | 02:16:44.460-02:16:46.920 | Ryu] Blu attack i'll have Blu fly through.
+[u1669 | 02:16:47.490-02:16:50.250 | DM] Okay, that hits so Blu does.
 [u1670 | 02:16:53.070-02:16:58.860 | DM] One the four plus six flashing damage.
 [u1671 | 02:17:00.030-02:17:00.810 | Ryu] is so nasty.
-[u1672 | 02:17:08.070-02:17:11.460 | DM] So blue will be like over there, or something like that um.
+[u1672 | 02:17:08.070-02:17:11.460 | DM] So Blu will be like over there, or something like that um.
 [u1673 | 02:17:12.360-02:17:15.060 | Ryu] Oh no he's gonna fight he's gonna fly away he's gonna do dive bomb.
-[u1674 | 02:17:15.210-02:17:22.590 | DM] Okay, so he is like now back over there something so blue dies down the blue aspect grabbing into this thing.
-[u1675 | 02:17:23.700-02:17:24.510 | DM] truck here up.
+[u1674 | 02:17:15.210-02:17:22.590 | DM] Okay, so he is like now back over there something so Blu dives down, Blu's beak grabbing into this thing.
+[u1675 | 02:17:23.700-02:17:24.510 | DM] Trok, you're up.
 [u1676 | 02:17:25.620-02:17:28.920 | Trok] um so this thing is looking pretty pretty hurt right.
 [u1677 | 02:17:30.330-02:17:35.340 | DM] All of them are looking pretty heard at this point, but the one in the distance is the hardest.
 [u1678 | 02:17:36.390-02:17:42.270 | Trok] Okay well i'll do my ongoing grappled image yep well and again.
@@ -1707,7 +1707,7 @@
 [u1707 | 02:19:27.450-02:19:28.800 | DM] that Mrs.
 [u1708 | 02:19:32.880-02:19:34.110 | DM] yeah that one's dad.
 [u1709 | 02:19:35.400-02:19:36.600 | DM] This one will.
-[u1710 | 02:19:38.280-02:19:40.800 | DM] continue to attack kalo.
+[u1710 | 02:19:38.280-02:19:40.800 | DM] continue to attack Kaleho.
 [u1711 | 02:19:44.850-02:19:45.480 | Ryu] One doing.
 [u1712 | 02:19:47.160-02:19:48.870 | DM] what's that the 16 to hit.
 [u1713 | 02:19:49.890-02:19:51.660 | Kaleho] On my Armor class is 16.
@@ -1721,7 +1721,7 @@
 [u1721 | 02:20:27.870-02:20:28.140 | DM] And the.
 [u1722 | 02:20:28.170-02:20:28.920 | Trok] Arms like.
 [u1723 | 02:20:29.910-02:20:32.580 | DM] look like they're almost beginning to move slightly.
-[u1724 | 02:20:34.170-02:20:35.130 | DM] Okay kayla you're up.
+[u1724 | 02:20:34.170-02:20:35.130 | DM] Okay Kaleho you're up.
 [u1725 | 02:20:37.170-02:20:37.650 | Unknown] Okay.
 [u1726 | 02:20:39.390-02:20:45.300 | Kaleho] Do I have an advantage if I get within 30 feet of it naturally I don't have to use one shot I can't use one shot if I move.
 [u1727 | 02:20:45.630-02:20:56.280 | DM] No, you don't have advantage, while we get you, you only have advantage if your hidden or you steady if you're unseen are you steady aim or do something else you would not yeah.
@@ -1744,7 +1744,7 @@
 [u1744 | 02:22:07.530-02:22:14.250 | DM] But then you can attack, yes, now, you can shoot it the one on the statute straight roll no disadvantage.
 [u1745 | 02:22:18.060-02:22:18.810 | DM] That hits.
 [u1746 | 02:22:25.740-02:22:27.930 | DM] But it does not quite fall dead.
-[u1747 | 02:22:32.700-02:22:33.450 | DM] Rio Europe.
+[u1747 | 02:22:32.700-02:22:33.450 | DM] Ryu, you're up.
 [u1748 | 02:22:39.720-02:22:45.870 | Ryu] i'm gonna go oh and gays didn't need a melee right here.
 [u1749 | 02:22:46.530-02:22:46.860 | Unknown] hi guys.
 [u1750 | 02:22:48.660-02:22:51.900 | Ryu] i'm going to fucking kill him and stop whatever the hell you do.
@@ -1773,15 +1773,15 @@
 [u1773 | 02:24:36.270-02:24:36.600 | Ryu] damn it.
 [u1774 | 02:24:38.340-02:24:38.670 | Ryu] This.
 [u1775 | 02:24:39.240-02:24:40.140 | DM] that Mrs yeah.
-[u1776 | 02:24:41.400-02:24:42.870 | DM] Alright, but blue can still attack.
+[u1776 | 02:24:41.400-02:24:42.870 | DM] Alright, but Blu can still attack.
 [u1777 | 02:24:42.930-02:24:45.540 | Ryu] yeah I will send you after after them.
-[u1778 | 02:24:48.510-02:24:51.660 | DM] So blue is gonna dive bomb and come back over here.
+[u1778 | 02:24:48.510-02:24:51.660 | DM] So Blu is gonna dive bomb and come back over here.
 [u1779 | 02:24:53.550-02:24:54.630 | Kaleho] That have just.
 [u1780 | 02:24:56.040-02:24:57.600 | DM] So D four plus six.
 [u1781 | 02:25:00.450-02:25:01.110 | Kaleho] Nice.
 [u1782 | 02:25:01.170-02:25:02.490 | Ryu] Nice so nasty.
-[u1783 | 02:25:05.340-02:25:10.080 | DM] That ends Rias turn truck your up giant truck.
-[u1784 | 02:25:13.410-02:25:15.540 | Trok] truck hit more.
+[u1783 | 02:25:05.340-02:25:10.080 | DM] That ends Ryu's turn Trok, you're up giant Trok.
+[u1784 | 02:25:13.410-02:25:15.540 | Trok] Trok hit more.
 [u1785 | 02:25:20.130-02:25:20.670 | Trok] smash.
 [u1786 | 02:25:22.020-02:25:23.130 | Trok] And then i'll add the.
 [u1787 | 02:25:26.880-02:25:27.390 | Trok] Terrible.
@@ -1792,7 +1792,7 @@
 [u1792 | 02:25:36.840-02:25:37.680 | DM] And again.
 [u1793 | 02:25:39.720-02:25:45.510 | DM] rock with a second attack just smacks him on the head and this thing shatters on the ground.
 [u1794 | 02:25:47.220-02:25:50.460 | DM] As he look around now nothing else seeming to move.
-[u1795 | 02:25:53.850-02:25:55.440 | Trok] truck truck blinks for a second.
+[u1795 | 02:25:53.850-02:25:55.440 | Trok] Trok Trok blinks for a second.
 [u1796 | 02:25:56.610-02:25:57.960 | Trok] gotta work on my temper.
 [u1797 | 02:26:01.470-02:26:03.690 | Ryu] You do I, like the time for your temper the way it is.
 [u1798 | 02:26:06.120-02:26:07.680 | Nerissa] will stay on your good side.
@@ -1806,12 +1806,12 @@
 [u1806 | 02:26:30.780-02:26:31.110 | Unknown] hmm.
 [u1807 | 02:26:32.400-02:26:32.940 | Trok] um.
 [u1808 | 02:26:34.020-02:26:42.030 | Trok] i'm gonna stride over to this statue then and look up at it, or maybe I can more closely, look at it, I a double size.
-[u1809 | 02:26:42.870-02:26:50.820 | DM] So okay so so trucks was looking at the statue what does everybody else, want to do you don't need to be an initiative order anymore.
+[u1809 | 02:26:42.870-02:26:50.820 | DM] So okay so so Trok's was looking at the statue what does everybody else, want to do you don't need to be an initiative order anymore.
 [u1810 | 02:26:52.590-02:26:56.160 | Kaleho] um i'm gonna take cover over here peeking out with my crossbow.
 [u1811 | 02:26:57.090-02:26:58.560 | Kaleho] Okay, so.
 [u1812 | 02:27:00.060-02:27:00.690 | Trok] Sensible.
 [u1813 | 02:27:00.780-02:27:01.620 | Kaleho] Over yeah.
-[u1814 | 02:27:02.520-02:27:05.130 | DM] What does everybody else, want to do well trucks investigating.
+[u1814 | 02:27:02.520-02:27:05.130 | DM] What does everybody else, want to do well Trok's investigating.
 [u1815 | 02:27:05.700-02:27:08.100 | Nerissa] Finding going to swing down after the rope and.
 [u1816 | 02:27:08.970-02:27:09.510 | Unknown] OK.
 [u1817 | 02:27:10.680-02:27:13.020 | DM] OK OK and.
@@ -1819,17 +1819,17 @@
 [u1819 | 02:27:14.310-02:27:16.230 | Trok] You suspended that whole time that's amazing.
 [u1820 | 02:27:16.620-02:27:19.290 | Nerissa] yeah well, you seem to take place to be.
 [u1821 | 02:27:19.680-02:27:20.670 | Trok] No that's why yeah.
-[u1822 | 02:27:21.480-02:27:26.970 | Ryu] i'm review will also just investigate books actually using another for traps let's review.
+[u1822 | 02:27:21.480-02:27:26.970 | Ryu] i'm Ryu will also just investigate books actually using another for traps let's Ryu.
 [u1823 | 02:27:29.190-02:27:30.960 | DM] Where are you looking specifically.
 [u1824 | 02:27:32.970-02:27:35.190 | Ryu] see where Am I looking specifically.
-[u1825 | 02:27:35.490-02:27:39.210 | Trok] At helpfully just underneath trucks feet each place he's about to step.
+[u1825 | 02:27:35.490-02:27:39.210 | Trok] At helpfully just underneath Trok's feet each place he's about to step.
 [u1826 | 02:27:40.590-02:27:43.680 | Ryu] You know the crappiest looking places like over the weird like.
 [u1827 | 02:27:43.890-02:27:45.810 | Trok] Okay, look around the statue.
-[u1828 | 02:27:46.170-02:27:53.220 | DM] Yes, nurse nurse at make acrobatics check to drop off the rope truck and.
-[u1829 | 02:27:55.140-02:27:59.370 | DM] And remake in well remake a perception check truck.
-[u1830 | 02:28:06.570-02:28:12.390 | DM] And the truck you just kind of stare at the statue Okay, so in Orissa you land without issue i'm.
+[u1828 | 02:27:46.170-02:27:53.220 | DM] Yes, Nerissa, make make acrobatics check to drop off the rope, Trok and.
+[u1829 | 02:27:55.140-02:27:59.370 | DM] And remake in well remake a perception check Trok.
+[u1830 | 02:28:06.570-02:28:12.390 | DM] And the Trok you just kind of stare at the statue Okay, so Nerissa you land without issue i'm.
 [u1831 | 02:28:13.590-02:28:15.090 | DM] Grateful gracefully on the ground.
-[u1832 | 02:28:17.790-02:28:24.510 | DM] truck as you so you look at this it's like about your size right now it's like 10 feet tall roughly.
+[u1832 | 02:28:17.790-02:28:24.510 | DM] Trok as you so you look at this it's like about your size right now it's like 10 feet tall roughly.
 [u1833 | 02:28:24.720-02:28:25.440 | Trok] or five and.
 [u1834 | 02:28:26.340-02:28:26.700 | Unknown] yep.
 [u1835 | 02:28:28.080-02:28:32.460 | DM] you're maybe slightly taller than it because you're more like 12 or 13 feet.
@@ -1841,9 +1841,9 @@
 [u1841 | 02:29:25.860-02:29:34.530 | DM] Like whoever carved it didn't or However, the statue was made it the below its waste, nobody really cared about the detail it's just like blocking legs and sort of.
 [u1842 | 02:29:35.100-02:29:49.830 | DM] um chunky unfinished stone, but then from the waist up it's this sort of half human half snake creature again with this sort of gold bands that leap around its arm and then this amethyst gem that's embedded in in one of these.
 [u1843 | 02:29:51.150-02:29:54.510 | DM] gold bands, that seems slightly loose.
-[u1844 | 02:29:59.880-02:30:01.770 | DM] Real looking around um.
+[u1844 | 02:29:59.880-02:30:01.770 | DM] Ryu, looking around um.
 [u1845 | 02:30:03.180-02:30:03.630 | DM] You don't.
-[u1846 | 02:30:04.920-02:30:13.020 | DM] You don't see any traps anywhere truck is about to stop I mean you notice the same things about the statue that it, you know it's this loose gem.
+[u1846 | 02:30:04.920-02:30:13.020 | DM] You don't see any traps anywhere Trok is about to stop I mean you notice the same things about the statue that it, you know it's this loose gem.
 [u1847 | 02:30:15.330-02:30:23.490 | DM] The you do notice the gargoyles these you know they're cracked on the ground um.
 [u1848 | 02:30:26.040-02:30:31.380 | DM] They so I mean they they each have, I have a sort of different design right there um.
 [u1849 | 02:30:34.080-02:30:39.030 | DM] You know, there are some of them have like grotesque faces are various things, but one thing that is.
@@ -1912,7 +1912,7 @@
 [u1912 | 02:35:14.040-02:35:15.120 | Nerissa] yeah I had that backwards.
 [u1913 | 02:35:15.750-02:35:16.080 | Unknown] yeah.
 [u1914 | 02:35:18.750-02:35:20.520 | Ryu] um well.
-[u1915 | 02:35:21.210-02:35:27.450 | Nerissa] before anyone who's opening any doors tracker okay whoa did you have any.
+[u1915 | 02:35:21.210-02:35:27.450 | Nerissa] before anyone who's opening any doors Trok, okay whoa did you have any.
 [u1916 | 02:35:28.650-02:35:32.160 | Nerissa] concerns for your health that you are worried.
 [u1917 | 02:35:33.360-02:35:34.050 | Nerissa] Subsequent.
 [u1918 | 02:35:35.250-02:35:36.750 | Kaleho] I had a rough time of it.
@@ -1922,7 +1922,7 @@
 [u1922 | 02:35:54.990-02:35:57.120 | DM] you've got second wind that you can use.
 [u1923 | 02:35:58.440-02:36:02.910 | Nerissa] All right, well i'll start by playing a soothing tune.
 [u1924 | 02:36:04.140-02:36:04.530 | Nerissa] To.
-[u1925 | 02:36:06.540-02:36:08.670 | Nerissa] You know, to give kudos and.
+[u1925 | 02:36:06.540-02:36:08.670 | Nerissa] You know, to give Kaleho and.
 [u1926 | 02:36:10.770-02:36:11.580 | Nerissa] Health back.
 [u1927 | 02:36:13.350-02:36:15.000 | Trok] I do my second wind.
 [u1928 | 02:36:16.590-02:36:17.700 | Trok] Oh it's an issue roll.
@@ -1945,14 +1945,14 @@
 [u1945 | 02:37:17.340-02:37:19.020 | Trok] Can I will I be able to fit through that door.
 [u1946 | 02:37:20.610-02:37:22.320 | DM] wow this point you've shrunk down.
 [u1947 | 02:37:22.350-02:37:23.520 | Trok] Now okay good.
-[u1948 | 02:37:23.640-02:37:27.390 | DM] Because it only lasts for a minute so truck returns to.
+[u1948 | 02:37:23.640-02:37:27.390 | DM] Because it only lasts for a minute so Trok returns to.
 [u1949 | 02:37:27.420-02:37:28.410 | Unknown] Normal size.
 [u1950 | 02:37:33.690-02:37:34.320 | DM] So you.
 [u1951 | 02:37:34.350-02:37:35.910 | Trok] My voice goes up an octave.
 [u1952 | 02:37:36.000-02:37:38.850 | DM] You open the door with the with one of the keys.
 [u1953 | 02:37:40.890-02:37:41.220 | Trok] yeah.
 [u1954 | 02:37:41.640-02:37:44.580 | Nerissa] We sort of gather around it, perhaps with.
-[u1955 | 02:37:45.000-02:37:47.310 | Ryu] rock just goes first and then we follow truck.
+[u1955 | 02:37:45.000-02:37:47.310 | Ryu] Trok just goes first and then we follow Trok.
 [u1956 | 02:37:48.120-02:37:49.350 | DM] cool opening the door.
 [u1957 | 02:37:49.470-02:37:53.880 | Trok] I think i've been nominated to bravely open door, so I do so.
 [u1958 | 02:37:55.320-02:37:57.750 | DM] The door swings open on eventually.
@@ -1971,10 +1971,10 @@
 [u1971 | 02:39:15.150-02:39:16.980 | DM] wants to can make a survival check.
 [u1972 | 02:39:20.040-02:39:22.230 | Trok] i'm in there first so i'll just have a look.
 [u1973 | 02:39:24.450-02:39:27.360 | DM] yeah it's hard to tell them see if there's any tracks.
-[u1974 | 02:39:28.710-02:39:29.880 | Trok] ryu bustles in.
-[u1975 | 02:39:30.990-02:39:33.000 | DM] and sees trucks tracks.
+[u1974 | 02:39:28.710-02:39:29.880 | Trok] Ryu bustles in.
+[u1975 | 02:39:30.990-02:39:33.000 | DM] and sees Trok's tracks.
 [u1976 | 02:39:35.460-02:39:36.180 | Trok] Nice.
-[u1977 | 02:39:37.050-02:39:45.570 | Kaleho] Work kelo oxen he leaves a little note on this thing saying don't touch the the jewel.
+[u1977 | 02:39:37.050-02:39:45.570 | Kaleho] Work Kaleho oxen he leaves a little note on this thing saying don't touch the the jewel.
 [u1978 | 02:39:46.920-02:39:50.430 | Kaleho] In primal sorry i'm primal in common and in thieves can't.
 [u1979 | 02:39:50.790-02:39:51.090 | Unknown] Just.
 [u1980 | 02:39:56.010-02:40:02.640 | Kaleho] And then walks to the door, but he does a perception check for traps because he's not good at survival, but he's aware of.
@@ -1994,7 +1994,7 @@
 [u1994 | 02:40:52.320-02:40:53.910 | DM] You see tracks tracks.
 [u1995 | 02:40:54.060-02:40:58.050 | Ryu] was a track record look at let let you go first to not like.
 [u1996 | 02:40:59.460-02:41:02.340 | Nerissa] check the hallway to see if there's any tracks down the hallway.
-[u1997 | 02:41:02.460-02:41:04.770 | Ryu] And I go past truck and the four tracks.
+[u1997 | 02:41:02.460-02:41:04.770 | Ryu] And I go past Trok and follow the tracks.
 [u1998 | 02:41:06.690-02:41:07.260 | Trok] Sensible.
 [u1999 | 02:41:09.090-02:41:10.440 | DM] make a survival check.
 [u2000 | 02:41:19.710-02:41:20.010 | Unknown] Oh wait.
@@ -2006,7 +2006,7 @@
 [u2006 | 02:41:46.440-02:41:48.180 | Ryu] The first one was my first one.
 [u2007 | 02:41:48.960-02:41:55.470 | DM] That tracks, the tracks go go down the hall and then return to this room.
 [u2008 | 02:41:56.670-02:42:02.490 | DM] there's too many people walking around this room for you to tell if they go down the stairs but they definitely go into the hall and then back out.
-[u2009 | 02:42:03.090-02:42:18.270 | DM] And you can see now with with with marissa moving the the the floating torches into here the the corridor doesn't go very far it goes, maybe 20 or 30 feet to another mirror image of this room.
+[u2009 | 02:42:03.090-02:42:18.270 | DM] And you can see now with with with Nerissa moving the the the floating torches into here the the corridor doesn't go very far it goes, maybe 20 or 30 feet to another mirror image of this room.
 [u2010 | 02:42:19.650-02:42:23.760 | Ryu] So, but where do the I mean like again i'm tracking this that are.
 [u2011 | 02:42:24.000-02:42:26.010 | DM] They go they go into the hall.
 [u2012 | 02:42:26.790-02:42:34.050 | DM] They go like down this way, and then they come back into this room so they're both entering the quarter and exiting the quarter.
@@ -2033,15 +2033,15 @@
 [u2033 | 02:43:45.570-02:43:48.780 | Kaleho] yeah going down the stairs very, very carefully in sneakily so.
 [u2034 | 02:43:50.100-02:43:50.610 | DM] Okay.
 [u2035 | 02:43:51.990-02:43:57.810 | Kaleho] So that's to not mess up the tracks if that hits and then this is the there's something down there.
-[u2036 | 02:43:59.460-02:44:05.700 | DM] Okay, so kayla begins to sleep is sneaking down the stairs what does everybody else doing.
+[u2036 | 02:43:59.460-02:44:05.700 | DM] Okay, so Kaleho begins sneaking down the stairs what does everybody else doing.
 [u2037 | 02:44:08.580-02:44:08.790 | DM] well.
 [u2038 | 02:44:09.420-02:44:11.820 | Ryu] Following back a little bit.
 [u2039 | 02:44:12.480-02:44:12.900 | DM] Okay.
 [u2040 | 02:44:13.560-02:44:14.820 | DM] So you can see the rocks.
 [u2041 | 02:44:15.270-02:44:17.730 | DM] The tracks continue down the stairs i'm.
-[u2042 | 02:44:20.370-02:44:21.990 | DM] nervous and truck what are you doing.
+[u2042 | 02:44:20.370-02:44:21.990 | DM] Nerissa and Trok what are you doing.
 [u2043 | 02:44:22.620-02:44:23.340 | Nerissa] Thank you see.
-[u2044 | 02:44:23.640-02:44:26.040 | Nerissa] I can sneak down piano behind you.
+[u2044 | 02:44:23.640-02:44:26.040 | Nerissa] I can sneak down behind you.
 [u2045 | 02:44:27.330-02:44:27.660 | Nerissa] mean.
 [u2046 | 02:44:29.430-02:44:35.820 | Trok] i'm just i'm gonna peek my head back out into the main room just to make sure, like the snake head God has not awaken.
 [u2047 | 02:44:36.270-02:44:36.630 | Unknown] Okay.
@@ -2055,7 +2055,7 @@
 [u2055 | 02:44:56.850-02:45:00.690 | DM] Okay, make us staff check interest as you begin to sneak down.
 [u2056 | 02:45:12.060-02:45:14.100 | DM] Okay, so as you sneak down.
 [u2057 | 02:45:15.330-02:45:15.900 | DM] You.
-[u2058 | 02:45:18.090-02:45:37.950 | DM] You come down about 15 feet down these the staircase out kayla first, followed by Rio and i'm a nurse and the tracks as well go this way i'm out into a very similar 10 foot room, but this time with a with a corridor going.
+[u2058 | 02:45:18.090-02:45:37.950 | DM] You come down about 15 feet down these the staircase out Kaleho first, followed by Ryu and Nerissa and the tracks as well go this way i'm out into a very similar 10 foot room, but this time with a with a corridor going.
 [u2059 | 02:45:41.790-02:45:44.280 | DM] going in the opposite direction so like.
 [u2060 | 02:45:46.530-02:45:49.230 | DM] Right, so that the bottom, it looks like this.
 [u2061 | 02:45:52.200-02:46:08.220 | DM] Right stairs in the same place, but the quarter goes off this way and it continues the quarter, you can see, I see him well, what are you doing about the lights, if you move the torches with you it's very difficult to be stealthy if you don't all of you are blind.
@@ -2075,7 +2075,7 @@
 [u2075 | 02:46:55.740-02:46:58.620 | Nerissa] very quiet with pleasing going around you.
 [u2076 | 02:46:59.460-02:47:07.350 | Ryu] Well it's also the also the matter of like you know, trying to preserve somehow tracks, which is very useful for me to be able to track.
 [u2077 | 02:47:08.280-02:47:09.360 | Kaleho] Maybe if.
-[u2078 | 02:47:10.560-02:47:25.530 | Kaleho] truck gets to the very last stare as quietly as he can and doesn't step on the ground, we can at least have a rough lay of the land, and then we can make an informed decision as we try to do as quietly as possible.
+[u2078 | 02:47:10.560-02:47:25.530 | Kaleho] Trok gets to the very last stair as quietly as he can and doesn't step on the ground, we can at least have a rough lay of the land, and then we can make an informed decision as we try to do as quietly as possible.
 [u2079 | 02:47:26.220-02:47:31.440 | Trok] To just turn off the lights and wait for me to come down okay so i'm checking upstairs first.
 [u2080 | 02:47:31.500-02:47:33.270 | DM] yeah nothing's moved upstairs.
 [u2081 | 02:47:33.540-02:47:35.940 | Trok] Okay, so I come down to the bottom of the stairs.
@@ -2090,8 +2090,8 @@
 [u2090 | 02:48:20.970-02:48:22.050 | Trok] it's almost time for lunch.
 [u2091 | 02:48:23.850-02:48:28.710 | Kaleho] So I said we turn on the lights and as the next step there's nothing there that.
 [u2092 | 02:48:29.640-02:48:30.210 | Unknown] Sensible.
-[u2093 | 02:48:32.940-02:48:41.250 | DM] Okay, so you're all clustered around this stare now as marissa plays a tune in the lights reappear what order, are you going.
-[u2094 | 02:48:43.350-02:48:50.100 | Kaleho] Well, can we still do now, the lights, can we do perception checks to see if everything's there's no giant savers to.
+[u2093 | 02:48:32.940-02:48:41.250 | DM] Okay, so you're all clustered around this stair now as Nerissa plays a tune in the lights reappear what order, are you going.
+[u2094 | 02:48:43.350-02:48:50.100 | Kaleho] Well, can we still do now, the lights, can we do perception checks to see if everything's there's no giant sabers to.
 [u2095 | 02:48:50.100-02:48:52.740 | DM] Do you gotta be standing in some order as you.
 [u2096 | 02:48:52.800-02:48:56.700 | DM] Are Oh, the stairs or stand on the stairs.
 [u2097 | 02:48:57.240-02:48:58.320 | Ryu] And you'd already know the answer.
@@ -2102,14 +2102,14 @@
 [u2102 | 02:49:08.580-02:49:10.560 | Kaleho] I cannot be surprised.
 [u2103 | 02:49:10.890-02:49:12.870 | Kaleho] So nothing can get the jump on me, but I.
 [u2104 | 02:49:12.870-02:49:14.760 | Kaleho] Do only have Tony HP.
-[u2105 | 02:49:19.230-02:49:27.390 | DM] Dell Chris Chris going up off the stair first I mean truck person we already went off the stair if you're looking down the corridor.
+[u2105 | 02:49:19.230-02:49:27.390 | DM] The question is, going up off the stair first I mean Trok first we already went off the stair if you're looking down the corridor.
 [u2106 | 02:49:28.020-02:49:29.430 | Trok] is selling first.
 [u2107 | 02:49:32.040-02:49:32.670 | Ryu] taco.
-[u2108 | 02:49:33.180-02:49:35.370 | Ryu] truck truck truck will set up all the shops.
+[u2108 | 02:49:33.180-02:49:35.370 | Ryu] Trok will set up all the shops.
 [u2109 | 02:49:35.430-02:49:36.960 | Ryu] I like yellow first.
 [u2110 | 02:49:37.380-02:49:52.860 | Kaleho] So I will very carefully and daintily move down the stairs and as soon as I have the clearance to do a perception check, I will do a perception check to see using the light to make sure there's no traps that I can see, or anything just.
 [u2111 | 02:49:52.920-02:49:54.480 | DM] On the far in this room.
-[u2112 | 02:49:54.750-02:50:03.630 | Kaleho] That trucks on the floor, I mean i'm very worried about savers and traps so i'll do a perception check right.
+[u2112 | 02:49:54.750-02:50:03.630 | Kaleho] That Trok is on the floor, I mean i'm very worried about sabers and traps so i'll do a perception check right.
 [u2113 | 02:50:04.200-02:50:05.640 | DM] Okay, make a perception check.
 [u2114 | 02:50:05.790-02:50:06.300 | Kaleho] But yeah.
 [u2115 | 02:50:08.550-02:50:08.760 | Kaleho] Very.
@@ -2122,11 +2122,11 @@
 [u2122 | 02:50:28.380-02:50:30.390 | Ryu] write down the quarter everybody.
 [u2123 | 02:50:31.500-02:50:34.290 | DM] who's so who's going what.
 [u2124 | 02:50:34.770-02:50:35.190 | Ryu] I guess.
-[u2125 | 02:50:35.370-02:50:38.490 | Ryu] I guess it's kilo and then me where the two of us are.
+[u2125 | 02:50:35.370-02:50:38.490 | Ryu] I guess it's Kaleho and then me, we're the two of us are.
 [u2126 | 02:50:40.620-02:50:42.180 | Ryu] looking for and tracking.
 [u2127 | 02:50:42.600-02:50:45.810 | DM] As you continue down this quarter towards the door.
 [u2128 | 02:50:46.980-02:50:48.840 | DM] And the lights moving with you right.
-[u2129 | 02:50:50.040-02:51:04.680 | DM] Okay ah, when you get about 10 feet away from the door kayla you can see that, although it would be very hard to see if it wasn't for the light shining and reflecting off of this you notice that the that.
+[u2129 | 02:50:50.040-02:51:04.680 | DM] Okay ah, when you get about 10 feet away from the door Kaleho you can see that, although it would be very hard to see if it wasn't for the light shining and reflecting off of this you notice that the that.
 [u2130 | 02:51:06.840-02:51:07.500 | DM] The.
 [u2131 | 02:51:09.600-02:51:20.940 | DM] The quarter for like 10 feet in front of the door is it's almost it looks it almost looks slightly liquidity like it's almost like it's Google or something.
 [u2132 | 02:51:21.450-02:51:23.220 | Kaleho] Have we stepped in the EU, yet or we're just.
@@ -2146,7 +2146,7 @@
 [u2146 | 02:52:23.940-02:52:25.110 | Trok] that's yeah.
 [u2147 | 02:52:26.310-02:52:39.420 | Kaleho] very, very polite you have to you don't bring your hat into the room, so I step aside so everybody else can see the lay of the land and I point out the Spikes and I very quickly demarcate where the goo starts and.
 [u2148 | 02:52:41.400-02:52:42.090 | Kaleho] thoughts.
-[u2149 | 02:52:46.860-02:52:48.930 | Nerissa] Is it triggered trap that.
+[u2149 | 02:52:46.860-02:52:48.930 | Nerissa] Is it the triggered trap that.
 [u2150 | 02:52:50.130-02:52:53.310 | Nerissa] He managed to get out of by climbing.
 [u2151 | 02:52:55.350-02:53:00.600 | Nerissa] With Spikes but left bigger puddle of goo than she found.
 [u2152 | 02:53:01.740-02:53:02.730 | Trok] I could try the old.
@@ -2184,7 +2184,7 @@
 [u2184 | 02:54:48.150-02:54:54.180 | DM] How far can you jump with a running with a running jump you can ah.
 [u2185 | 02:54:57.210-02:54:58.170 | DM] You can jump.
 [u2186 | 02:55:04.170-02:55:06.030 | DM] yeah you can jump 18 feet.
-[u2187 | 02:55:07.680-02:55:12.720 | Kaleho] Before nervosa you have like ice spells.
+[u2187 | 02:55:07.680-02:55:12.720 | Kaleho] Before Nerissa you have like ice spells.
 [u2188 | 02:55:15.450-02:55:17.820 | Nerissa] not really a name.
 [u2189 | 02:55:18.690-02:55:19.170 | Unknown] huh.
 [u2190 | 02:55:25.560-02:55:26.100 | Trok] yeah.
@@ -2210,7 +2210,7 @@
 [u2210 | 02:56:24.840-02:56:26.880 | DM] They would if that's what they do.
 [u2211 | 02:56:28.980-02:56:32.040 | Trok] Is there an object, we can throw pass the Spikes.
 [u2212 | 02:56:34.110-02:56:37.380 | DM] In you can easily throw a spear and javelin that far.
-[u2213 | 02:56:38.880-02:56:49.110 | Kaleho] ooh could we just go back up and grab some the dead gargoyle stones and just give some stepping stones just toss them and then we step from gargoyle corpse to garko corpse.
+[u2213 | 02:56:38.880-02:56:49.110 | Kaleho] ooh could we just go back up and grab some the dead gargoyle stones and just give some stepping stones just toss them and then we step from gargoyle corpse to gargoyle corpse.
 [u2214 | 02:56:49.260-02:56:51.600 | Trok] very smart I like this idea.
 [u2215 | 02:56:53.610-02:56:58.650 | DM] yeah you could go grab some bits of I mean there's plenty of other like rebel and stuff in the.
 [u2216 | 02:56:59.370-02:56:59.730 | DM] In the.
@@ -2235,7 +2235,7 @@
 [u2235 | 02:57:57.150-02:58:01.770 | Ryu] The track was did the tracks today, did they did did she fall into this.
 [u2236 | 02:58:02.850-02:58:07.560 | DM] The tracks end mid stride right where this like surface starts.
 [u2237 | 02:58:08.340-02:58:09.300 | Ryu] So if.
-[u2238 | 02:58:09.540-02:58:17.190 | Kaleho] trump becomes a giant, could he support himself on each side of the wall with us on his back if he's 14 feet long.
+[u2238 | 02:58:09.540-02:58:17.190 | Kaleho] Trok becomes a giant, could he support himself on each side of the wall with us on his back if he's 14 feet long.
 [u2239 | 02:58:18.240-02:58:19.080 | Kaleho] And he just.
 [u2240 | 02:58:22.830-02:58:23.970 | DM] Certainly try.
 [u2241 | 02:58:24.450-02:58:25.410 | Trok] That is an idea.
@@ -2247,8 +2247,8 @@
 [u2247 | 02:58:36.480-02:58:38.310 | Trok] that's a very DM thing to say I love it.
 [u2248 | 02:58:39.930-02:58:41.580 | Ryu] Could you just jump over this.
 [u2249 | 02:58:41.850-02:58:42.840 | DM] Oh yeah easily.
-[u2250 | 02:58:43.470-02:58:45.510 | Kaleho] I think coolio all of us jump over it.
-[u2251 | 02:58:46.140-02:58:59.880 | DM] nope you weaklings you can jump jump a number of feet equal to your strengths don't score so real and truck can jump 18 feet kalo could jump could maybe make it 10 feet marissa can only jump at.
+[u2250 | 02:58:43.470-02:58:45.510 | Kaleho] I think could all all of us jump over it.
+[u2251 | 02:58:46.140-02:58:59.880 | DM] nope you weaklings you can jump jump a number of feet equal to your strengths don't score so Ryu and Trok can jump 18 feet Kaleho could jump could maybe make it 10 feet Nerissa can only jump at.
 [u2252 | 02:59:01.020-02:59:03.840 | Kaleho] Could there so what's your acrobatics.
 [u2253 | 02:59:05.100-02:59:05.610 | Nerissa] A good.
 [u2254 | 02:59:06.360-02:59:09.390 | Kaleho] Can we put minor quickly like park or it just.
@@ -2269,7 +2269,7 @@
 [u2269 | 03:00:08.760-03:00:10.620 | Nerissa] But she only pulled herself out.
 [u2270 | 03:00:11.190-03:00:12.180 | Unknown] Oh.
 [u2271 | 03:00:14.430-03:00:15.120 | Nerissa] i'm up is.
-[u2272 | 03:00:15.150-03:00:16.620 | Nerissa] The broker in the first place.
+[u2272 | 03:00:15.150-03:00:16.620 | Nerissa] The broken in the first place.
 [u2273 | 03:00:17.790-03:00:19.560 | Ryu] She was able to get herself out of it.
 [u2274 | 03:00:19.590-03:00:21.720 | Ryu] She she felt she if she got trapped and i'm.
 [u2275 | 03:00:22.500-03:00:24.120 | Ryu] All right, well why don't we get I get everybody over.
@@ -2286,11 +2286,11 @@
 [u2286 | 03:00:56.550-03:00:57.990 | DM] Well that's exactly what she's.
 [u2287 | 03:00:57.990-03:00:58.590 | DM] been using.
 [u2288 | 03:00:58.620-03:00:59.490 | Trok] Climate good.
-[u2289 | 03:01:00.150-03:01:05.880 | Nerissa] Day, yes I knew I had rope anchors that were called titans but I didn't know the same as.
+[u2289 | 03:01:00.150-03:01:05.880 | Nerissa] Day, yes I knew I had rope anchors that were called pitons but I didn't know the same as.
 [u2290 | 03:01:06.210-03:01:09.120 | DM] Sorry that's what I meant to yes that's what they are.
 [u2291 | 03:01:10.260-03:01:13.890 | Nerissa] I think of them it's like the thing that you hang a ribbon what you're going to go down it.
 [u2292 | 03:01:14.190-03:01:14.550 | Unknown] anyway.
-[u2293 | 03:01:15.930-03:01:24.330 | Nerissa] yeah so let's anchor a few of those in the mall and just make up a more complete path and then, when that she made so we don't get many feet.
+[u2293 | 03:01:15.930-03:01:24.330 | Nerissa] yeah so let's anchor a few of those in the wall and just make up a more complete path and then, when that she made so we don't get many feet.
 [u2294 | 03:01:25.980-03:01:30.900 | Trok] Nice and seal actually sort of like walk along the wall basically.
 [u2295 | 03:01:31.890-03:01:33.240 | Kaleho] A little gym almost right.
 [u2296 | 03:01:33.420-03:01:33.900 | Unknown] yeah.
@@ -2305,7 +2305,7 @@
 [u2305 | 03:02:07.530-03:02:26.280 | DM] Which continues now another 15 feet or so before opening up into another room that you can see in the in the distance and at this point, actually the tracks are quite obvious, like all of you can see, like mud footprints like continuing into the next room.
 [u2306 | 03:02:27.750-03:02:28.320 | DM] So.
 [u2307 | 03:02:30.120-03:02:30.930 | DM] we'll get back in her.
-[u2308 | 03:02:31.350-03:02:37.470 | Kaleho] Order where i'm upfront very carefully thinking with my crossbow that prevents me from being surprised.
+[u2308 | 03:02:31.350-03:02:37.470 | Kaleho] Order-wise i'm upfront very carefully thinking with my crossbow that prevents me from being surprised.
 [u2309 | 03:02:37.770-03:02:40.530 | Ryu] Okay, and re is tracking.
 [u2310 | 03:02:41.970-03:02:45.240 | DM] Okay well this point the tracking is quite easy because there's like.
 [u2311 | 03:02:45.300-03:02:46.020 | Ryu] Five tracks.
@@ -2330,22 +2330,22 @@
 [u2330 | 03:04:50.760-03:04:51.540 | Trok] Such um.
 [u2331 | 03:04:52.620-03:04:52.860 | Trok] yeah.
 [u2332 | 03:04:53.220-03:04:54.060 | Kaleho] So I.
-[u2333 | 03:04:55.080-03:05:01.620 | Kaleho] get my feet kit and I kind of inspect the locks on one of the side doors anything a note.
+[u2333 | 03:04:55.080-03:05:01.620 | Kaleho] get my thieves' kit and I kind of inspect the locks on one of the side doors anything a note.
 [u2334 | 03:05:02.160-03:05:03.870 | DM] north or south door.
 [u2335 | 03:05:04.950-03:05:06.090 | Kaleho] let's go North door.
 [u2336 | 03:05:07.740-03:05:08.160 | DM] Okay.
 [u2337 | 03:05:10.140-03:05:15.120 | DM] This door is a so oh sorry I should add um.
 [u2338 | 03:05:16.770-03:05:21.240 | DM] As you enter the room, one thing that you all notice here is um.
 [u2339 | 03:05:21.960-03:05:30.990 | DM] So in the Center of the room, as the light sort of move over the Center there's like a labyrinth design, but has words written around the side of it in like a circle.
-[u2340 | 03:05:31.740-03:05:44.160 | DM] Also entire in which say faithful of your car car be blessed with the wisdom of your Lord unfaithful flee now or be entombed forever in his majestic presence.
+[u2340 | 03:05:31.740-03:05:44.160 | DM] Also in Terran, which says faithful of Yerkir-khor, be blessed with the wisdom of your lord; unfaithful, flee now or be entombed forever in his majestic presence.
 [u2341 | 03:05:47.670-03:05:48.870 | Trok] i'm backing away.
 [u2342 | 03:05:48.870-03:05:49.680 | Kaleho] From the door.
 [u2343 | 03:05:51.120-03:05:53.550 | DM] i'm thinking that's not on the door that's in the Center of.
 [u2344 | 03:05:53.670-03:05:56.760 | Kaleho] Idaho but looking up and seeing the side.
 [u2345 | 03:05:59.340-03:06:01.380 | Kaleho] Maybe it isn't worth the cost.
-[u2346 | 03:06:06.390-03:06:13.860 | Trok] Your core was the set was the God of the Crystal and Sky and the stone something.
+[u2346 | 03:06:06.390-03:06:13.860 | Trok] Yerkir-khor was the God of the Crystal and Sky and the stone something.
 [u2347 | 03:06:14.730-03:06:15.420 | Unknown] The.
-[u2348 | 03:06:16.890-03:06:23.910 | DM] Your character, or the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.
+[u2348 | 03:06:16.890-03:06:23.910 | DM] Yerkir-khor the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.
 [u2349 | 03:06:25.440-03:06:26.040 | Unknown] Christmas.
 [u2350 | 03:06:35.610-03:06:37.290 | Kaleho] Was downstairs.
 [u2351 | 03:06:38.520-03:06:40.560 | Kaleho] Or do we want to explore these doors.
@@ -2357,7 +2357,7 @@
 [u2357 | 03:06:59.250-03:06:59.910 | Unknown] Is that resume.
 [u2358 | 03:07:01.350-03:07:02.460 | DM] that's what the tracks guy yep.
 [u2359 | 03:07:03.000-03:07:03.540 | Unknown] yeah.
-[u2360 | 03:07:07.440-03:07:11.220 | Trok] What does it mean to be faithful to your your core I guess find out.
+[u2360 | 03:07:07.440-03:07:11.220 | Trok] What does it mean to be faithful to Yerkir-khor? I guess find out.
 [u2361 | 03:07:15.120-03:07:15.300 | Trok] Oh.
 [u2362 | 03:07:16.860-03:07:23.160 | Kaleho] i'm leaving little translations and comment and then themes can't have everything he's reading, just to be.
 [u2363 | 03:07:24.330-03:07:26.820 | Kaleho] The thieves code so he's.
@@ -2366,7 +2366,7 @@
 [u2366 | 03:07:38.940-03:07:39.600 | Trok] let's go down.
 [u2367 | 03:07:41.130-03:07:41.880 | DM] same order.
 [u2368 | 03:07:43.950-03:07:44.250 | Unknown] yep.
-[u2369 | 03:07:46.890-03:07:53.370 | DM] As you begin to pass the crystal heading towards the stairs kayla I need you to make a dexterity saving throw.
+[u2369 | 03:07:46.890-03:07:53.370 | DM] As you begin to pass the crystal heading towards the stairs Kaleho, I need you to make a dexterity saving throw.
 [u2370 | 03:07:56.160-03:07:58.140 | Trok] The catch the free money being thrown into.
 [u2371 | 03:07:59.880-03:08:05.100 | DM] A bolt of lightning shoots from the crystal towards the wall.
 [u2372 | 03:08:07.230-03:08:10.680 | DM] hitting you doing 10 points of.
@@ -2386,9 +2386,9 @@
 [u2386 | 03:08:50.610-03:08:56.430 | Kaleho] With it's like just shooting out how high are the stone the crystals off the ground.
 [u2387 | 03:08:57.000-03:08:58.920 | DM] For about four feet.
 [u2388 | 03:08:59.670-03:09:00.480 | Trok] Okay, so you could.
-[u2389 | 03:09:02.280-03:09:08.100 | Trok] You could slither under, so to speak, I was just thinking about that in strict inscription the faithful.
+[u2389 | 03:09:02.280-03:09:08.100 | Trok] You could slither under, so to speak, I was just thinking about that in this inscription the faithful.
 [u2390 | 03:09:09.420-03:09:09.780 | Trok] and
-[u2391 | 03:09:11.280-03:09:14.460 | Trok] Maybe your core is a kind of snake God and.
+[u2391 | 03:09:11.280-03:09:14.460 | Trok] Maybe Yerkir-khor is a kind of snake god and.
 [u2392 | 03:09:15.360-03:09:16.860 | Trok] Vice littering along the ground.
 [u2393 | 03:09:20.730-03:09:21.990 | Kaleho] Worse, the lizard would think that.
 [u2394 | 03:09:23.580-03:09:28.590 | Trok] i'll try it I try to slow down my way prone to the stairs.
@@ -2400,10 +2400,10 @@
 [u2400 | 03:09:48.510-03:09:49.890 | DM] yeah same thing the lightning.
 [u2401 | 03:09:50.910-03:09:52.020 | Kaleho] All right, crawl down.
 [u2402 | 03:09:53.190-03:09:54.090 | Kaleho] very sore.
-[u2403 | 03:09:55.470-03:09:58.860 | Trok] And I wonder if your core is actually a snake God or or what.
+[u2403 | 03:09:55.470-03:09:58.860 | Trok] And I wonder if Yerkir-khor is actually a snake god or or what.
 [u2404 | 03:09:59.370-03:10:00.060 | Ryu] Very crispy.
 [u2405 | 03:10:02.070-03:10:02.730 | DM] So.
-[u2406 | 03:10:03.120-03:10:09.540 | Nerissa] Along with the crew, but I say to kalo before we before we keep going I give you a bit more healing.
+[u2406 | 03:10:03.120-03:10:09.540 | Nerissa] Along with the crew, but I say to Kaleho before we before we keep going I give you a bit more healing.
 [u2407 | 03:10:10.140-03:10:10.710 | Kaleho] So he's.
 [u2408 | 03:10:13.290-03:10:15.600 | Trok] karmic justice for all those lightning's from your Chi.
 [u2409 | 03:10:16.860-03:10:17.610 | Kaleho] I know it's.
@@ -2483,7 +2483,7 @@
 [u2483 | 03:17:18.870-03:17:20.700 | Kaleho] pretend to be one of his followers.
 [u2484 | 03:17:21.150-03:17:28.590 | Trok] I say everybody down I get myself a low like a snake, and I say in taryn.
 [u2485 | 03:17:29.760-03:17:30.960 | Trok] We are the faithful.
-[u2486 | 03:17:36.000-03:17:41.010 | DM] What tribute, have you brought for a year car cars tomb on this plane.
+[u2486 | 03:17:36.000-03:17:41.010 | DM] What tribute, have you brought for a Yerkir-khor's tomb on this plane.
 [u2487 | 03:17:44.010-03:17:47.340 | Kaleho] bring him your shells from the ocean.
 [u2488 | 03:17:48.540-03:17:50.220 | Trok] Ah, good call.
 [u2489 | 03:17:52.710-03:17:56.010 | Trok] I get three of my finest and relatively clean.
@@ -2508,18 +2508,18 @@
 [u2508 | 03:19:10.980-03:19:13.860 | DM] is beginning starting to walk towards you now.
 [u2509 | 03:19:16.890-03:19:21.000 | Ryu] comes a renewed takes from from his past ouch.
 [u2510 | 03:19:22.620-03:19:26.310 | Ryu] Like a Pearl like big gossip girl.
-[u2511 | 03:19:29.580-03:19:31.320 | Trok] truck races crowds like this word.
+[u2511 | 03:19:29.580-03:19:31.320 | Trok] Trok grates out this word.
 [u2512 | 03:19:36.420-03:19:37.590 | DM] taps over here.
 [u2513 | 03:19:39.330-03:19:41.130 | DM] So you're you're like offering this up.
 [u2514 | 03:19:41.730-03:19:43.230 | Ryu] I showed from a distance.
-[u2515 | 03:19:43.920-03:19:47.250 | Ryu] And then, offering review says.
+[u2515 | 03:19:43.920-03:19:47.250 | Ryu] And then, offering Ryu says.
 [u2516 | 03:19:49.800-03:19:53.520 | Ryu] From the deepest oceans, one of the rarest pearls.
 [u2517 | 03:19:56.250-03:19:56.790 | Ryu] and
 [u2518 | 03:19:58.170-03:19:58.710 | Ryu] I guess.
 [u2519 | 03:19:59.850-03:20:01.170 | Ryu] Was the role it What did he do.
 [u2520 | 03:20:02.430-03:20:04.950 | Ryu] He shows it out, he just shows it.
 [u2521 | 03:20:05.280-03:20:05.970 | Trok] Better roll it.
-[u2522 | 03:20:06.480-03:20:09.840 | Nerissa] yeah I mean truck to track to show the shells.
+[u2522 | 03:20:06.480-03:20:09.840 | Nerissa] yeah I mean Trok to try to show the shells.
 [u2523 | 03:20:11.730-03:20:12.210 | DM] yeah.
 [u2524 | 03:20:12.360-03:20:14.550 | Nerissa] I assessing seems to happen with.
 [u2525 | 03:20:14.910-03:20:16.860 | Ryu] yeah so i'll just hold it hold it like this.
@@ -2534,20 +2534,20 @@
 [u2534 | 03:20:48.900-03:20:50.280 | Nerissa] We find valuable he finds.
 [u2535 | 03:20:52.500-03:20:53.490 | Ryu] anybody else got anything.
 [u2536 | 03:20:54.390-03:20:55.470 | Ryu] Otherwise, was at the bottom.
-[u2537 | 03:20:56.190-03:21:00.810 | Trok] yeah it kalo you gotta have some some movies, or something.
+[u2537 | 03:20:56.190-03:21:00.810 | Trok] yeah it Kaleho you gotta have some some offerings, or something.
 [u2538 | 03:21:02.190-03:21:04.680 | Kaleho] How to lock pick kit in a sword.
-[u2539 | 03:21:07.350-03:21:08.280 | Trok] nobody's Karen.
+[u2539 | 03:21:07.350-03:21:08.280 | Trok] nobody's carrying.
 [u2540 | 03:21:08.580-03:21:10.530 | Kaleho] Oh wait wait wait, I am.
 [u2541 | 03:21:11.580-03:21:13.320 | Kaleho] I pull out an offer.
 [u2542 | 03:21:13.830-03:21:14.160 | Unknown] A.
-[u2543 | 03:21:15.330-03:21:20.250 | Kaleho] emerged folk artifact that I have found and treasured, it is a small worn.
+[u2543 | 03:21:15.330-03:21:20.250 | Kaleho] a merfolk artifact that I have found and treasured, it is a small worn.
 [u2544 | 03:21:21.840-03:21:22.440 | Kaleho] Bible.
 [u2545 | 03:21:23.910-03:21:25.380 | Trok] yeah is it a gemstone.
-[u2546 | 03:21:26.460-03:21:33.120 | Kaleho] know it is a Bible, but it means a lot to me, and it has more folk vibes looks.
+[u2546 | 03:21:26.460-03:21:33.120 | Kaleho] know it is a Bible, but it means a lot to me, and it has merfolk vibes looks.
 [u2547 | 03:21:35.550-03:21:36.840 | Kaleho] Like a well worn.
-[u2548 | 03:21:37.890-03:21:40.380 | Kaleho] He doesn't even know kalo doesn't know.
+[u2548 | 03:21:37.890-03:21:40.380 | Kaleho] He doesn't even know Kaleho doesn't know.
 [u2549 | 03:21:40.620-03:21:41.340 | Kaleho] As far.
-[u2550 | 03:21:41.400-03:21:44.670 | Kaleho] As it says it's part of his word murph murph folk.
+[u2550 | 03:21:41.400-03:21:44.670 | Kaleho] As it says it's part of his word murph merfolk.
 [u2551 | 03:21:44.850-03:21:48.720 | Ryu] Can can read like reading attack reading a spirit of attack and.
 [u2552 | 03:21:48.840-03:21:49.590 | Ryu] He did that as.
 [u2553 | 03:21:51.120-03:21:51.270 | Ryu] well.
@@ -2557,35 +2557,35 @@
 [u2557 | 03:22:06.330-03:22:06.960 | Ryu] He says.
 [u2558 | 03:22:07.350-03:22:08.490 | Trok] everything's going according to plan.
 [u2559 | 03:22:08.700-03:22:09.000 | Unknown] b.
-[u2560 | 03:22:11.370-03:22:20.400 | DM] You would defile the tomb of my master with the leaving of our ancient enemies.
+[u2560 | 03:22:11.370-03:22:20.400 | DM] You would defile the tomb of my master with the leavings of our ancient enemies.
 [u2561 | 03:22:21.330-03:22:26.580 | Ryu] Okay, look look I have, I have something I have an offering for you, I throw a spear Adam I throw my screen.
 [u2562 | 03:22:30.870-03:22:33.000 | Trok] Oh man, we gotta get up off the floor you guys.
 [u2563 | 03:22:35.130-03:22:36.210 | Kaleho] You try yeah.
 [u2564 | 03:22:36.750-03:22:39.060 | Trok] No, no, seriously about the floor because of the.
 [u2565 | 03:22:40.170-03:22:41.010 | Trok] sticky mud.
-[u2566 | 03:22:47.520-03:22:48.540 | Ryu] TIM I get blue in here.
-[u2567 | 03:22:49.470-03:22:51.990 | DM] Well yeah my mixer on blue.
+[u2566 | 03:22:47.520-03:22:48.540 | Ryu] Tim, I get Blu in here.
+[u2567 | 03:22:49.470-03:22:51.990 | DM] Well yeah my mixer on Blu.
 [u2568 | 03:22:54.780-03:22:55.380 | DM] Ah.
-[u2569 | 03:22:56.460-03:22:58.140 | Trok] lose like invisible in this blue room.
+[u2569 | 03:22:56.460-03:22:58.140 | Trok] Blu's like invisible in this blue room.
 [u2570 | 03:23:07.980-03:23:13.320 | DM] Okay, so sorry, let me go what you old oh man you guys are good at initiative.
 [u2571 | 03:23:14.760-03:23:15.180 | Ryu] Or we.
 [u2572 | 03:23:16.380-03:23:18.000 | DM] can be well not you.
-[u2573 | 03:23:21.360-03:23:22.260 | DM] or truck.
+[u2573 | 03:23:21.360-03:23:22.260 | DM] or Trok.
 [u2574 | 03:23:22.890-03:23:23.550 | Unknown] yeah.
 [u2575 | 03:23:25.290-03:23:28.080 | DM] Why don't Why is everybody on here so many times.
 [u2576 | 03:23:29.520-03:23:30.480 | DM] hold on a SEC.
 [u2577 | 03:23:33.090-03:23:35.340 | Ryu] Ah, so okay so deal is.
-[u2578 | 03:23:35.490-03:23:40.410 | DM] truck is sorry hold on truck is nine marissa is 23.
+[u2578 | 03:23:35.490-03:23:40.410 | DM] Trok is sorry hold on Trok is nine, Nerissa is 23.
 [u2579 | 03:23:41.100-03:23:42.750 | DM] So seven.
-[u2580 | 03:23:44.400-03:23:47.490 | Ryu] So blue is gonna be okay, because you can fly around everybody else to get the Fuck is wrong.
+[u2580 | 03:23:44.400-03:23:47.490 | Ryu] So Blu is gonna be okay, because you can fly around everybody else to get the Fuck is wrong.
 [u2581 | 03:23:47.490-03:23:50.790 | DM] So I gotta do this again, because this is like weirdly messed up.
 [u2582 | 03:23:53.070-03:23:55.350 | Kaleho] As a shitload of schools.
 [u2583 | 03:23:56.550-03:23:57.540 | Kaleho] on the altar.
 [u2584 | 03:23:58.860-03:24:01.500 | DM] Now that's just because that's the best image, I could find.
 [u2585 | 03:24:07.020-03:24:07.650 | Ryu] sweet that.
-[u2586 | 03:24:09.480-03:24:14.010 | DM] Okay, now I can add your own all your turns not blue.
-[u2587 | 03:24:17.100-03:24:19.620 | DM] Okay sorry so truck got.
-[u2588 | 03:24:21.780-03:24:24.690 | DM] truck was nine he was seven.
+[u2586 | 03:24:09.480-03:24:14.010 | DM] Okay, now I can add your own all your turns, not Blu.
+[u2587 | 03:24:17.100-03:24:19.620 | DM] Okay sorry so Trok got.
+[u2588 | 03:24:21.780-03:24:24.690 | DM] Trok was nine he was seven.
 [u2589 | 03:24:27.180-03:24:29.910 | DM] till I was 25.
 [u2590 | 03:24:31.170-03:24:39.270 | DM] And you get the sense as you've been making them as offerings that like like this creature does not like things of the ocean.
 [u2591 | 03:24:40.170-03:24:40.440 | Trok] Like.
@@ -2602,7 +2602,7 @@
 [u2602 | 03:25:12.000-03:25:14.280 | Ryu] Oh, why don't we try the song, I would have been nice idea.
 [u2603 | 03:25:18.570-03:25:20.640 | Nerissa] I was trying to think of a song that was.
 [u2604 | 03:25:22.860-03:25:23.550 | Nerissa] Everything.
-[u2605 | 03:25:24.240-03:25:27.120 | DM] Okay, so kayla was up first.
+[u2605 | 03:25:24.240-03:25:27.120 | DM] Okay, so Kaleho is up first.
 [u2606 | 03:25:27.630-03:25:30.480 | Kaleho] Okay, so can I do a bonus action before my attack.
 [u2607 | 03:25:30.870-03:25:40.830 | Kaleho] yep Okay, so he quickly shutters and bonus action hide so i'm like hiding back here now would that work like I would be hidden.
 [u2608 | 03:25:41.430-03:25:42.840 | DM] So I can do is attack.
@@ -2620,7 +2620,7 @@
 [u2620 | 03:26:25.650-03:26:26.910 | DM] yeah okay.
 [u2621 | 03:26:28.020-03:26:33.210 | DM] seems dead almost like just backs away your blow as it sees you emerge from this.
 [u2622 | 03:26:36.000-03:26:41.610 | DM] emerged from your hiding place to shoot at it and it just looks angry.
-[u2623 | 03:26:43.500-03:26:44.850 | DM] And nervosa Europe.
+[u2623 | 03:26:43.500-03:26:44.850 | DM] And Nerissa Europe.
 [u2624 | 03:26:46.560-03:26:47.340 | Nerissa] and
 [u2625 | 03:26:49.140-03:26:50.070 | Nerissa] I.
 [u2626 | 03:26:52.770-03:26:53.580 | Nerissa] After me.
@@ -2628,7 +2628,7 @@
 [u2628 | 03:27:01.830-03:27:06.150 | Nerissa] Oh, I didn't recognize the token, and that was.
 [u2629 | 03:27:08.580-03:27:09.030 | Nerissa] um.
 [u2630 | 03:27:11.370-03:27:11.910 | Nerissa] I.
-[u2631 | 03:27:13.830-03:27:19.050 | Nerissa] play my my piercing tuned because this person seems pretty stony too so i'm gonna.
+[u2631 | 03:27:13.830-03:27:19.050 | Nerissa] play my my piercing tune because this person seems pretty stony too so i'm gonna.
 [u2632 | 03:27:21.750-03:27:22.320 | Nerissa] cast.
 [u2633 | 03:27:24.330-03:27:24.540 | Nerissa] yeah.
 [u2634 | 03:27:26.280-03:27:26.880 | DM] Okay.
@@ -2640,20 +2640,20 @@
 [u2640 | 03:27:55.980-03:27:58.860 | DM] So, as the sound erupts.
 [u2641 | 03:27:59.970-03:28:00.270 | Unknown] It.
 [u2642 | 03:28:01.680-03:28:11.790 | DM] shakes and it is definitely hurt by this but doesn't seem to be like again doesn't seem to be amazingly concerned.
-[u2643 | 03:28:12.840-03:28:14.340 | DM] um hi Asa is.
+[u2643 | 03:28:12.840-03:28:14.340 | DM] um Hiyasa is.
 [u2644 | 03:28:15.390-03:28:26.310 | DM] Like too exhausted and dehydrated to do much, but um but just yells again be careful help toss you in the in the stone.
 [u2645 | 03:28:29.100-03:28:31.080 | DM] Okay now it's his turn.
 [u2646 | 03:28:32.370-03:28:34.350 | DM] He has gone to step forward.
 [u2647 | 03:28:34.830-03:28:38.730 | Nerissa] And I, the reason I asked who was next is because I wanted to give up.
 [u2648 | 03:28:39.330-03:28:41.310 | DM] Oh inspiration yeah bonus action.
-[u2649 | 03:28:41.550-03:28:44.820 | Nerissa] This will tune up Arctic inspiration in my bonus action to.
+[u2649 | 03:28:41.550-03:28:44.820 | Nerissa] This little tune of bardic inspiration in my bonus action to.
 [u2650 | 03:28:45.990-03:28:46.410 | DM] Do.
 [u2651 | 03:28:47.640-03:28:49.140 | Nerissa] The lizard.
 [u2652 | 03:28:51.630-03:28:51.870 | Trok] Oh.
 [u2653 | 03:28:54.690-03:28:55.020 | Kaleho] Thanks.
 [u2654 | 03:28:55.080-03:28:59.400 | DM] Okay, the stone giant has got step 123.
 [u2655 | 03:29:01.440-03:29:04.950 | DM] Is gonna reach forward and attempt to grab um.
-[u2656 | 03:29:08.040-03:29:08.610 | DM] review.
+[u2656 | 03:29:08.040-03:29:08.610 | DM] Ryu?
 [u2657 | 03:29:09.960-03:29:11.640 | DM] So make athletics jack.
 [u2658 | 03:29:23.760-03:29:26.220 | DM] It he fell, so he will try again.
 [u2659 | 03:29:33.240-03:29:34.440 | DM] make another athletics check.
@@ -2665,29 +2665,29 @@
 [u2665 | 03:30:08.820-03:30:10.530 | DM] But you managed to dodge.
 [u2666 | 03:30:11.580-03:30:14.370 | DM] Out of the way that ends his turn.
 [u2667 | 03:30:15.090-03:30:15.750 | Unknown] Ah.
-[u2668 | 03:30:16.980-03:30:19.170 | DM] And it is now trucks turn.
-[u2669 | 03:30:19.860-03:30:21.510 | Ryu] giant truck giant.
+[u2668 | 03:30:16.980-03:30:19.170 | DM] And it is now Trok's turn.
+[u2669 | 03:30:19.860-03:30:21.510 | Ryu] giant Trok giant.
 [u2670 | 03:30:23.550-03:30:33.840 | DM] Like taken aback a little bit actually by this like Who are these create these things and looks even angrier now.
 [u2671 | 03:30:35.160-03:30:35.670 | Trok] um.
 [u2672 | 03:30:36.840-03:30:38.490 | Trok] Can you describe him briefly again.
 [u2673 | 03:30:39.570-03:30:41.790 | DM] is basically a giant i'm.
 [u2674 | 03:30:42.690-03:30:44.820 | Trok] always got like a stone hammer and a leg.
-[u2675 | 03:30:44.850-03:30:51.540 | DM] I know this, this is just a giant like a 15 foot tall stone statue of of a.
+[u2675 | 03:30:44.850-03:30:51.540 | DM] I know this, this is just a giant like a 15 foot tall stone statue of a.
 [u2676 | 03:30:52.710-03:30:58.410 | DM] This one looks like just a person it's not the same as the as the creature that's depicted in the.
 [u2677 | 03:30:58.950-03:30:59.790 | DM] Most of the hacks.
 [u2678 | 03:31:00.120-03:31:00.630 | Unknown] Okay.
 [u2679 | 03:31:02.700-03:31:05.940 | Trok] stone person does not have a hammer, or anything.
-[u2680 | 03:31:06.090-03:31:14.610 | Trok] No okay so activate primal mate and get huge I activate eldridge mall.
-[u2681 | 03:31:16.320-03:31:24.600 | Trok] which makes is a glowing clause that extend my unarmed strikes to a 15 foot range and extra damage.
+[u2680 | 03:31:06.090-03:31:14.610 | Trok] No okay so activate Primal Might and get huge I activate Eldritch Maul.
+[u2681 | 03:31:16.320-03:31:24.600 | Trok] which makes is a glowing claws that extend my unarmed strikes to a 15 foot range and extra damage.
 [u2682 | 03:31:27.810-03:31:30.780 | Trok] And I will make.
 [u2683 | 03:31:31.470-03:31:35.940 | DM] You can activate those both on the same turn because they're both sections, I believe.
-[u2684 | 03:31:38.130-03:31:42.510 | Trok] that's interesting um can actually do just the Elder small and.
-[u2685 | 03:31:43.170-03:31:46.140 | Trok] yep okay so i'll get small again sorry.
-[u2686 | 03:31:47.280-03:31:50.850 | Trok] Because I want to start with the range to tech and i'm actually going to step.
+[u2684 | 03:31:38.130-03:31:42.510 | Trok] that's interesting um can actually do just the Eldritch Maul and.
+[u2685 | 03:31:43.170-03:31:46.140 | Trok] yep okay so i'll get Maul again sorry.
+[u2686 | 03:31:47.280-03:31:50.850 | Trok] Because I want to start with the range attack and i'm actually going to step.
 [u2687 | 03:31:52.170-03:31:54.540 | Trok] back one I think oops.
-[u2688 | 03:31:56.040-03:32:01.320 | Trok] i'm sort of like on the stairs I want to be my eldridge small range, which is 15.
+[u2688 | 03:31:56.040-03:32:01.320 | Trok] i'm sort of like on the stairs I want to be my Eldritch Maul range, which is 15.
 [u2689 | 03:32:01.380-03:32:02.550 | DM] yep that's about that.
-[u2690 | 03:32:02.850-03:32:08.070 | Trok] Okay, and then i'll make to eldridge small attacks so again on earth strike.
+[u2690 | 03:32:02.850-03:32:08.070 | Trok] Okay, and then i'll make to Eldritch Maul attacks so again unarmed strike.
 [u2691 | 03:32:08.100-03:32:10.230 | DM] But with uranus same old on strike.
 [u2692 | 03:32:13.710-03:32:14.580 | DM] That messes.
 [u2693 | 03:32:15.720-03:32:17.400 | Trok] away to I have inspiration and I can use.
@@ -2708,9 +2708,9 @@
 [u2708 | 03:32:52.200-03:32:53.880 | Trok] that's that's a crit.
 [u2709 | 03:32:54.810-03:32:55.290 | Trok] yeah yeah.
 [u2710 | 03:32:56.640-03:33:00.930 | DM] First blast goes wide, but with the sort of residual energy of.
-[u2711 | 03:33:02.550-03:33:05.070 | DM] nurses song your second last.
+[u2711 | 03:33:02.550-03:33:05.070 | DM] Nerissa's song, your second blast.
 [u2712 | 03:33:06.480-03:33:07.860 | DM] minutes Max directly.
-[u2713 | 03:33:08.640-03:33:11.400 | Trok] And then it gets the additional filter small damage right.
+[u2713 | 03:33:08.640-03:33:11.400 | Trok] And then it gets the additional Eldritch Maul damage right.
 [u2714 | 03:33:11.580-03:33:14.370 | DM] yeah, which is also doubled so 2d sex right.
 [u2715 | 03:33:16.860-03:33:17.820 | Unknown] six.
 [u2716 | 03:33:23.010-03:33:23.730 | Trok] How does that work out.
@@ -2720,7 +2720,7 @@
 [u2720 | 03:33:34.350-03:33:35.040 | DM] it's pretty good.
 [u2721 | 03:33:36.180-03:33:36.450 | Unknown] Okay.
 [u2722 | 03:33:37.470-03:33:37.770 | Trok] Linda.
-[u2723 | 03:33:39.240-03:33:39.990 | DM] Real you're up.
+[u2723 | 03:33:39.240-03:33:39.990 | DM] Ryu, you're up.
 [u2724 | 03:33:42.780-03:33:44.220 | Ryu] At bastard.
 [u2725 | 03:33:46.860-03:33:47.430 | Ryu] dude.
 [u2726 | 03:33:52.170-03:33:53.460 | Ryu] Is no match for my spear.
@@ -2728,7 +2728,7 @@
 [u2728 | 03:33:57.300-03:33:58.230 | Ryu] And I hit him again.
 [u2729 | 03:33:59.490-03:34:00.240 | Ryu] Oh, that.
 [u2730 | 03:34:00.360-03:34:01.170 | DM] That hats.
-[u2731 | 03:34:03.000-03:34:06.420 | Ryu] And then, I have a blue streak down and.
+[u2731 | 03:34:03.000-03:34:06.420 | Ryu] And then, I have Blu streak down and.
 [u2732 | 03:34:10.440-03:34:10.770 | DM] Okay.
 [u2733 | 03:34:12.210-03:34:15.900 | DM] Oh 620 20 plus sex yeah.
 [u2734 | 03:34:19.950-03:34:20.400 | DM] So raw.
@@ -2749,7 +2749,7 @@
 [u2749 | 03:35:17.790-03:35:20.820 | DM] Go ahead, yes, you say you climb On top of this thing.
 [u2750 | 03:35:21.330-03:35:21.600 | Kaleho] mm hmm.
 [u2751 | 03:35:22.440-03:35:25.650 | Kaleho] Okay, I didn't I can I have sneak attack by don't have advantage.
-[u2752 | 03:35:25.710-03:35:35.940 | Kaleho] correct, but if I had bone okay got it so, then I take aim, I put all my rage of him being so mean to them or folks that I love so dearly.
+[u2752 | 03:35:25.710-03:35:35.940 | Kaleho] correct, but if I had bone okay got it so, then I take aim, I put all my rage of him being so mean to the merfolk that I love so dearly.
 [u2753 | 03:35:37.980-03:35:38.850 | DM] That messes.
 [u2754 | 03:35:39.240-03:35:42.810 | DM] My just bounces off the stone of his body.
 [u2755 | 03:35:44.280-03:35:45.090 | DM] There so you're up.
@@ -2765,7 +2765,7 @@
 [u2765 | 03:36:28.170-03:36:28.710 | Nerissa] For me.
 [u2766 | 03:36:29.130-03:36:30.360 | DM] Okay, where do you want to move.
 [u2767 | 03:36:30.900-03:36:33.960 | Nerissa] Just like 15 feet towards the other.
-[u2768 | 03:36:35.370-03:36:37.710 | Nerissa] stone pillar that killer is not on.
+[u2768 | 03:36:35.370-03:36:37.710 | Nerissa] stone pillar that Kaleho is not on.
 [u2769 | 03:36:40.800-03:36:41.160 | DM] Okay.
 [u2770 | 03:36:43.110-03:36:44.370 | DM] So, like there.
 [u2771 | 03:36:45.270-03:36:45.630 | Unknown] yeah.
@@ -2793,13 +2793,13 @@
 [u2793 | 03:38:12.810-03:38:18.870 | DM] not entirely in some harsh language you can understand and let's see what is the range here.
 [u2794 | 03:38:20.250-03:38:20.880 | DM] um.
 [u2795 | 03:38:23.370-03:38:25.920 | DM] Ah, everybody needs to make a wisdom saving.
-[u2796 | 03:38:25.950-03:38:29.220 | Nerissa] throw how about I cast countries films did.
+[u2796 | 03:38:25.950-03:38:29.220 | Nerissa] throw how about I cast Tasha's Hideous Laughter.
 [u2797 | 03:38:29.670-03:38:32.040 | DM] Yes, okay.
 [u2798 | 03:38:33.120-03:38:33.630 | Ryu] yeah.
 [u2799 | 03:38:34.080-03:38:34.860 | DM] Nothing happened.
 [u2800 | 03:38:36.960-03:38:37.530 | DM] So as.
 [u2801 | 03:38:37.680-03:38:40.260 | DM] As he begins to monitor ah.
-[u2802 | 03:38:41.640-03:38:49.800 | DM] Under this words this energy begins to spread out from him this piercing malady from.
+[u2802 | 03:38:41.640-03:38:49.800 | DM] Under his words this energy begins to spread out from him this piercing malady from.
 [u2803 | 03:38:50.850-03:38:51.570 | DM] Marisa.
 [u2804 | 03:38:52.770-03:38:57.690 | DM] weaves into his voice and the magical residence is slow.
 [u2805 | 03:38:59.490-03:39:00.600 | DM] and slow again.
@@ -2807,13 +2807,13 @@
 [u2807 | 03:39:04.950-03:39:15.900 | DM] Now he looks super mad me it's gonna go 123456.
 [u2808 | 03:39:16.710-03:39:17.970 | Trok] Definitely running away because.
 [u2809 | 03:39:17.970-03:39:20.430 | Trok] That definitely eight.
-[u2810 | 03:39:22.380-03:39:25.350 | DM] Real you do get an attack of opportunity if you'd like to use that.
+[u2810 | 03:39:22.380-03:39:25.350 | DM] Ryu, you do get an attack of opportunity if you'd like to use that.
 [u2811 | 03:39:25.800-03:39:26.700 | Ryu] I, of course, when.
 [u2812 | 03:39:32.850-03:39:33.630 | Ryu] I come on some more.
 [u2813 | 03:39:36.600-03:39:37.320 | DM] that's.
-[u2814 | 03:39:40.950-03:39:42.060 | DM] Okay truck you're up.
+[u2814 | 03:39:40.950-03:39:42.060 | DM] Okay Trok you're up.
 [u2815 | 03:39:43.560-03:39:47.910 | Trok] I guess, I have to rush him in order to get in range for the.
-[u2816 | 03:39:49.320-03:39:56.010 | Trok] build rich mall attack, I have a move of 30 so let's see if I can do it, so I need to get.
+[u2816 | 03:39:49.320-03:39:56.010 | Trok] Eldritch Maul attack, I have a move of 30 so let's see if I can do it, so I need to get.
 [u2817 | 03:39:57.420-03:39:58.200 | Trok] there.
 [u2818 | 03:40:00.000-03:40:04.590 | Trok] yeah um I will run straight at him.
 [u2819 | 03:40:06.030-03:40:08.580 | Trok] Right, oh no it's be closer like there.
@@ -2828,7 +2828,7 @@
 [u2828 | 03:40:36.540-03:40:37.800 | DM] That takes your action.
 [u2829 | 03:40:39.180-03:40:40.110 | Trok] So I can attack.
 [u2830 | 03:40:40.740-03:40:42.990 | DM] So you can attack unless you use your action search.
-[u2831 | 03:40:44.280-03:40:50.010 | Trok] Actions surge I didn't think of using that for movement okay so i'll use my action search.
+[u2831 | 03:40:44.280-03:40:50.010 | Trok] Actions surge I didn't think of using that for movement okay so i'll use my Action Surge.
 [u2832 | 03:40:50.220-03:40:52.140 | Nerissa] In the map there's a big circle.
 [u2833 | 03:40:53.430-03:40:55.050 | Nerissa] where he is retreated into.
 [u2834 | 03:40:55.590-03:40:57.330 | DM] that's just different colored stone.
@@ -2838,7 +2838,7 @@
 [u2838 | 03:41:08.730-03:41:09.690 | Unknown] But it's just done.
 [u2839 | 03:41:11.970-03:41:12.570 | Trok] Okay.
 [u2840 | 03:41:15.180-03:41:15.960 | DM] So let's do in.
-[u2841 | 03:41:17.070-03:41:24.360 | Trok] A way I don't want to use my action search so i'm just gonna run up and then I can't attack, but I use my bonus action to get huge.
+[u2841 | 03:41:17.070-03:41:24.360 | Trok] A way I don't want to use my Action Surge so i'm just gonna run up and then I can't attack, but I use my bonus action to get huge.
 [u2842 | 03:41:25.080-03:41:25.470 | Unknown] Okay.
 [u2843 | 03:41:27.390-03:41:30.390 | DM] And then, are you going to use your action to move.
 [u2844 | 03:41:30.870-03:41:31.890 | Trok] that's what i'm doing yeah.
@@ -2868,7 +2868,7 @@
 [u2868 | 03:42:54.240-03:42:55.020 | DM] Now you're up.
 [u2869 | 03:42:56.970-03:43:01.320 | Ryu] You got to do more sneak attack both things man that's like Helen Helen St you get the advantage.
 [u2870 | 03:43:02.220-03:43:04.440 | Kaleho] So to do this okay.
-[u2871 | 03:43:05.940-03:43:13.050 | Kaleho] Is this within range right you get sneak attack advantage, or is he too far away from truck.
+[u2871 | 03:43:05.940-03:43:13.050 | Kaleho] Is this within range if I get sneak attack advantage, or is he too far away from Trok.
 [u2872 | 03:43:15.840-03:43:19.020 | DM] Ah, he is too far away from you.
 [u2873 | 03:43:20.040-03:43:23.190 | DM] he's 35 feet from you, so you have disadvantage on your.
 [u2874 | 03:43:23.190-03:43:25.500 | DM] attack, which means you cannot get sneak attack.
@@ -2877,7 +2877,7 @@
 [u2877 | 03:43:31.650-03:43:32.970 | Kaleho] focus is not within five feet.
 [u2878 | 03:43:33.600-03:43:38.610 | Kaleho] Okay, so I do steady aim to negate the disadvantage.
 [u2879 | 03:43:38.670-03:43:40.860 | DM] And so straight roll know sneak.
-[u2880 | 03:43:41.040-03:43:42.030 | Kaleho] Australia oh yeah.
+[u2880 | 03:43:41.040-03:43:42.030 | Kaleho] Oh, true oh yeah.
 [u2881 | 03:43:44.340-03:43:46.080 | Ryu] What a shorts always do that so nasty.
 [u2882 | 03:43:46.920-03:43:49.260 | DM] Steady aim same thing that does that.
 [u2883 | 03:43:54.660-03:43:57.000 | DM] So 10 points of damage so.
@@ -2888,20 +2888,20 @@
 [u2888 | 03:44:09.540-03:44:10.590 | DM] That ends your turn.
 [u2889 | 03:44:10.860-03:44:12.840 | Ryu] They need to be engaged for you to get the sneak attack.
 [u2890 | 03:44:13.920-03:44:16.410 | Kaleho] Yes, or if i'm hiding but.
-[u2891 | 03:44:20.460-03:44:22.680 | Nerissa] It can be any food just move close to herself.
+[u2891 | 03:44:20.460-03:44:22.680 | Nerissa] It can be any point just move close to herself.
 [u2892 | 03:44:26.730-03:44:27.930 | DM] So your turn.
 [u2893 | 03:44:29.460-03:44:29.910 | DM] There so.
 [u2894 | 03:44:30.540-03:44:35.370 | Nerissa] All right, well um he doesn't like the water so.
 [u2895 | 03:44:35.580-03:44:39.000 | Nerissa] yeah yeah ocean eatin.
 [u2896 | 03:44:39.390-03:44:40.500 | Trok] Oh boy.
 [u2897 | 03:44:40.860-03:44:41.850 | Ryu] I like this.
-[u2898 | 03:44:43.440-03:44:47.640 | Nerissa] Do it that does seems to be able to compensate for my shatters these.
+[u2898 | 03:44:43.440-03:44:47.640 | Nerissa] Do it that does seems to be able to compensate for my Shatters.
 [u2899 | 03:44:50.520-03:44:52.980 | DM] Are guys so that's a deck safe.
 [u2900 | 03:44:54.090-03:44:57.990 | DM] is not good at Texas, but he will be 20.
 [u2901 | 03:45:00.420-03:45:04.920 | DM] So he dodged is out of the way is this wave of water comes crashing down on him.
 [u2902 | 03:45:06.690-03:45:08.130 | DM] Taking half damage.
-[u2903 | 03:45:10.650-03:45:12.240 | Ryu] What what character classes marissa.
-[u2904 | 03:45:14.580-03:45:14.970 | Nerissa] ARD.
+[u2903 | 03:45:10.650-03:45:12.240 | Ryu] What what character classes Nerissa.
+[u2904 | 03:45:14.580-03:45:14.970 | Nerissa] bard.
 [u2905 | 03:45:16.200-03:45:16.740 | Trok] Now yeah.
 [u2906 | 03:45:17.850-03:45:18.750 | DM] Now it's our turn.
 [u2907 | 03:45:19.740-03:45:21.180 | Trok] john's got some good spells.
@@ -2930,7 +2930,7 @@
 [u2930 | 03:47:12.270-03:47:16.410 | DM] takes 10 feet or takes an extra square movement to close.
 [u2931 | 03:47:17.970-03:47:19.170 | DM] That will end his to earn.
 [u2932 | 03:47:20.730-03:47:22.410 | DM] Anything go back one more step.
-[u2933 | 03:47:24.390-03:47:25.470 | DM] Okay truck you're up.
+[u2933 | 03:47:24.390-03:47:25.470 | DM] Okay Trok, you're up.
 [u2934 | 03:47:25.860-03:47:26.700 | Trok] Oh man.
 [u2935 | 03:47:27.480-03:47:28.020 | Kaleho] So it.
 [u2936 | 03:47:28.410-03:47:29.550 | Trok] Inside the circle.
@@ -2946,12 +2946,12 @@
 [u2946 | 03:47:58.080-03:47:59.550 | Trok] Okay, and even doesn't even matter.
 [u2947 | 03:48:00.990-03:48:02.400 | Ryu] It seemed like he's trying to attacker.
 [u2948 | 03:48:02.760-03:48:03.180 | Unknown] No.
-[u2949 | 03:48:05.100-03:48:10.260 | Trok] All right, I will run straight up to him and attacking with eldridge mall.
+[u2949 | 03:48:05.100-03:48:10.260 | Trok] All right, I will run straight up to him and attacking with Eldritch Maul.
 [u2950 | 03:48:11.370-03:48:12.990 | DM] And so that's.
 [u2951 | 03:48:14.010-03:48:17.280 | DM] You can't quite go that far, because it's their first.
 [u2952 | 03:48:18.330-03:48:19.560 | DM] Movement not five.
 [u2953 | 03:48:20.580-03:48:21.990 | DM] Five feet shorter than that.
-[u2954 | 03:48:23.280-03:48:26.460 | Trok] But, am I now i'm going to be too short for elder small.
+[u2954 | 03:48:23.280-03:48:26.460 | Trok] But, am I now i'm going to be too short for Eldritch Maul.
 [u2955 | 03:48:27.030-03:48:28.860 | DM] Now you're 20 feet away so.
 [u2956 | 03:48:29.700-03:48:31.200 | Trok] I still can't attack him.
 [u2957 | 03:48:32.220-03:48:35.760 | Trok] Oh, my God what am I supposed to do, I have no other attacks.
@@ -2963,12 +2963,12 @@
 [u2963 | 03:49:10.530-03:49:11.160 | DM] hammer to.
 [u2964 | 03:49:11.280-03:49:11.880 | Unknown] Free her.
 [u2965 | 03:49:12.960-03:49:13.980 | Trok] um.
-[u2966 | 03:49:16.380-03:49:23.610 | Trok] I oh I forgot about this tattoo water thing um and oh he's the water dislike or i'm.
+[u2966 | 03:49:16.380-03:49:23.610 | Trok] I oh I forgot about this tattoo water thing um and oh he's the Water Delike or i'm.
 [u2967 | 03:49:24.990-03:49:27.300 | Ryu] Thinking man, but make it in the bud.
 [u2968 | 03:49:27.960-03:49:30.180 | Trok] No it's doesn't do that it's a charm.
 [u2969 | 03:49:32.880-03:49:41.970 | Trok] It gives it speed zero I should have thought of that before alright activate a swirling tattoo on my left thigh that.
 [u2970 | 03:49:43.740-03:49:46.950 | Trok] Is tattoo of water so.
-[u2971 | 03:49:48.180-03:49:52.230 | Trok] When it ends its terms within 30 feet said within 30 feet of me all right yeah i'm close enough.
+[u2971 | 03:49:48.180-03:49:52.230 | Trok] When it ends its turn within 30 feet said within 30 feet of me all right yeah i'm close enough.
 [u2972 | 03:49:56.670-03:49:58.020 | Trok] Oh, but it's a reaction.
 [u2973 | 03:49:59.550-03:50:00.480 | Trok] Can I just do it now.
 [u2974 | 03:50:00.900-03:50:02.130 | Trok] yeah okay.
@@ -2989,7 +2989,7 @@
 [u2989 | 03:50:54.720-03:50:57.330 | DM] On the on off of it stone body.
 [u2990 | 03:51:00.510-03:51:03.510 | Trok] I let out a snarl of rage, that is.
 [u2991 | 03:51:05.370-03:51:08.160 | Trok] Almost so deep as to be below your engineering.
-[u2992 | 03:51:10.890-03:51:12.150 | DM] That ends your turn review.
+[u2992 | 03:51:10.890-03:51:12.150 | DM] That ends your turn Ryu.
 [u2993 | 03:51:13.080-03:51:15.540 | Ryu] So this is one moving and stuff like that, as 10 feet.
 [u2994 | 03:51:16.740-03:51:17.760 | DM] that's 10 feet yep.
 [u2995 | 03:51:18.030-03:51:19.680 | Ryu] And now I get 30 feet all right.
@@ -3022,20 +3022,20 @@
 [u3022 | 03:52:34.980-03:52:35.460 | Ryu] Fuck.
 [u3023 | 03:52:36.240-03:52:37.290 | DM] Still messages.
 [u3024 | 03:52:38.310-03:52:38.610 | Trok] For it.
-[u3025 | 03:52:42.600-03:52:44.130 | Ryu] But blue fortunately.
+[u3025 | 03:52:42.600-03:52:44.130 | Ryu] But Blu, fortunately.
 [u3026 | 03:52:45.540-03:52:46.680 | DM] Also, Mrs.
 [u3027 | 03:52:47.910-03:52:49.320 | DM] Locke has turned.
 [u3028 | 03:52:51.240-03:52:51.990 | Trok] um.
 [u3029 | 03:52:52.410-03:52:53.580 | Ryu] That is horrendous.
-[u3030 | 03:52:55.770-03:53:01.380 | Kaleho] So co takes a deep breath with a with steady aim.
-[u3031 | 03:53:02.640-03:53:04.290 | Kaleho] and tries to threaten air her.
-[u3032 | 03:53:05.490-03:53:07.470 | Kaleho] Past rock toward.
+[u3030 | 03:52:55.770-03:53:01.380 | Kaleho] So Kaleho takes a deep breath with a with steady aim.
+[u3031 | 03:53:02.640-03:53:04.290 | Kaleho] and tries to thread an arrow.
+[u3032 | 03:53:05.490-03:53:07.470 | Kaleho] past Trok toward.
 [u3033 | 03:53:07.500-03:53:08.280 | DM] Our damn.
 [u3034 | 03:53:09.000-03:53:10.170 | DM] Straight raw that.
 [u3035 | 03:53:13.560-03:53:17.220 | DM] Mrs just bounces harmlessly off this down.
 [u3036 | 03:53:22.080-03:53:22.920 | DM] There so here up.
 [u3037 | 03:53:23.850-03:53:29.910 | Nerissa] All right, i'd like to move closer to him, so that I can get in range of a 60 foot attack.
-[u3038 | 03:53:31.290-03:53:32.670 | Nerissa] You just movies, or two straight.
+[u3038 | 03:53:31.290-03:53:32.670 | Nerissa] You just move, so straight.
 [u3039 | 03:53:33.870-03:53:34.530 | Nerissa] Down the room.
 [u3040 | 03:53:35.010-03:53:35.370 | Unknown] yep.
 [u3041 | 03:53:36.720-03:53:39.690 | DM] So 1234.
@@ -3049,9 +3049,9 @@
 [u3049 | 03:54:30.630-03:54:31.170 | Nerissa] It.
 [u3050 | 03:54:31.950-03:54:35.880 | DM] doesn't actually make them frightened it just makes them move right.
 [u3051 | 03:54:37.230-03:54:41.940 | Nerissa] field feel mental pain and move away if they can't.
-[u3052 | 03:54:42.540-03:54:56.940 | DM] So he turns any then please again 12345678 to their i'm turning and getting as far away from nurses as possible.
+[u3052 | 03:54:42.540-03:54:56.940 | DM] So he turns any then please again 12345678 to their i'm turning and getting as far away from Nerissa as possible.
 [u3053 | 03:55:00.090-03:55:00.810 | DM] That ends your turn.
-[u3054 | 03:55:03.000-03:55:06.990 | Nerissa] And i'll send a particle inspiration to you again.
+[u3054 | 03:55:03.000-03:55:06.990 | Nerissa] And i'll send a bardic inspiration to you again.
 [u3055 | 03:55:07.710-03:55:08.070 | Unknown] Okay.
 [u3056 | 03:55:09.900-03:55:26.460 | DM] Okay now it's going to look and as, after having flat it now looks back at you and i'm and I know like Glenn comes into its I as it snaps its finger and.
 [u3057 | 03:55:26.670-03:55:27.150 | Ryu] Our spell.
@@ -3064,7 +3064,7 @@
 [u3064 | 03:55:42.930-03:55:44.400 | Trok] um it's yeah anyway.
 [u3065 | 03:55:46.350-03:55:47.580 | DM] Ah, and.
 [u3066 | 03:55:55.200-03:55:59.610 | Ryu] Are you trying boxes sex giant boxes you're driving.
-[u3067 | 03:56:00.960-03:56:04.290 | Trok] Their boxes of niceness probably.
+[u3067 | 03:56:00.960-03:56:04.290 | Trok] Their boxes of nice things probably.
 [u3068 | 03:56:04.830-03:56:05.250 | Unknown] um.
 [u3069 | 03:56:06.420-03:56:06.870 | DM] Yes.
 [u3070 | 03:56:08.070-03:56:13.500 | DM] boxes of this entire area as he snaps his fingers suddenly.
@@ -3083,7 +3083,7 @@
 [u3083 | 03:56:46.170-03:56:48.780 | DM] Okay ah, as the.
 [u3084 | 03:56:50.520-03:56:52.800 | DM] As the earth turns to mud.
 [u3085 | 03:56:56.460-03:57:01.680 | DM] There ESTA you are trapped within it, beginning to sink, you are now restrained.
-[u3086 | 03:57:04.440-03:57:17.070 | DM] Right you and review and truck you managed to avoid being restrained but you're still stuck in the mud, and it takes you four feet of movement for every foot of movement to move through at.
+[u3086 | 03:57:04.440-03:57:17.070 | DM] Ryu and Trok you managed to avoid being restrained but you're still stuck in the mud, and it takes you four feet of movement for every foot of movement to move through it.
 [u3087 | 03:57:19.470-03:57:20.730 | Nerissa] The edge where.
 [u3088 | 03:57:22.020-03:57:23.340 | DM] You are right on the edge.
 [u3089 | 03:57:24.150-03:57:30.000 | DM] Ah i'm a man after it snaps his finger to do that doesn't happen anymore.
@@ -3093,7 +3093,7 @@
 [u3093 | 03:57:48.600-03:57:50.430 | DM] BAT the stone of the.
 [u3094 | 03:57:52.380-03:57:54.690 | DM] Of the pillar that you are standing on.
 [u3095 | 03:57:57.390-03:57:57.870 | DM] Ah.
-[u3096 | 03:58:01.080-03:58:03.150 | DM] kayla a giant hand.
+[u3096 | 03:58:01.080-03:58:03.150 | DM] Kaleho a giant hand.
 [u3097 | 03:58:04.530-03:58:05.100 | DM] appear.
 [u3098 | 03:58:05.520-03:58:06.360 | DM] grabs you.
 [u3099 | 03:58:07.200-03:58:07.620 | Trok] Ah.
@@ -3102,8 +3102,8 @@
 [u3102 | 03:58:21.900-03:58:26.010 | DM] Ah, you are also grasped and restrained by the hand.
 [u3103 | 03:58:30.780-03:58:33.510 | DM] That will end this turn it's not going to move.
 [u3104 | 03:58:35.370-03:58:36.240 | DM] try your up.
-[u3105 | 03:58:36.690-03:58:38.070 | Ryu] truck, we have to kill it this turn.
-[u3106 | 03:58:38.940-03:58:47.310 | Trok] I don't know that we can because I can't even necessarily get close enough to it to attack it with eldridge mall because so at the multipliers for.
+[u3105 | 03:58:36.690-03:58:38.070 | Ryu] Trok, we have to kill it this turn.
+[u3106 | 03:58:38.940-03:58:47.310 | Trok] I don't know that we can because I can't even necessarily get close enough to it to attack it with Eldritch Maul because so at the multipliers for.
 [u3107 | 03:58:48.450-03:58:52.860 | DM] You it'll take you 20 feet of movement to step out of the mud.
 [u3108 | 03:58:54.150-03:59:00.540 | Trok] yeah so I can't I can't get close to So if I cast long strider this turn and then move.
 [u3109 | 03:59:02.190-03:59:03.270 | Trok] Long strider.
@@ -3134,7 +3134,7 @@
 [u3134 | 04:00:23.820-04:00:24.930 | DM] Okay Rhea Europe.
 [u3135 | 04:00:25.530-04:00:27.150 | Ryu] Looking at I spent 20.
 [u3136 | 04:00:27.420-04:00:32.400 | DM] says also yelling for help now she's like quick get me out.
-[u3137 | 04:00:33.330-04:00:35.190 | Kaleho] Because it's mom now so she can.
+[u3137 | 04:00:33.330-04:00:35.190 | Kaleho] Because it's mud now so she can.
 [u3138 | 04:00:37.260-04:00:39.900 | Trok] Someone has to pull her out oh my God.
 [u3139 | 04:00:40.230-04:00:41.670 | Ryu] Can she put herself out can't she.
 [u3140 | 04:00:41.760-04:00:42.750 | Trok] went to me stronger.
@@ -3170,37 +3170,37 @@
 [u3170 | 04:02:00.660-04:02:03.420 | Ryu] You like crumbling cracking and ready to die Jesus right.
 [u3171 | 04:02:03.600-04:02:07.710 | DM] He is looking pretty crumbly at this point that messes.
 [u3172 | 04:02:08.100-04:02:11.220 | Ryu] oof alright let's see what we can do.
-[u3173 | 04:02:11.730-04:02:12.870 | DM] All right, kayla you are.
-[u3174 | 04:02:13.980-04:02:14.280 | Ryu] blue.
-[u3175 | 04:02:14.730-04:02:17.130 | DM] Blue after attack yellow blue super far away.
+[u3173 | 04:02:11.730-04:02:12.870 | DM] All right, Kaleho you are.
+[u3174 | 04:02:13.980-04:02:14.280 | Ryu] Blu.
+[u3175 | 04:02:14.730-04:02:17.130 | DM] Blu after attack yeah, Blu's super far away.
 [u3176 | 04:02:17.760-04:02:18.240 | DM] Look at.
 [u3177 | 04:02:19.230-04:02:19.890 | DM] I don't boo.
-[u3178 | 04:02:20.370-04:02:22.950 | Ryu] boo boo boos been blues been attacking.
-[u3179 | 04:02:23.490-04:02:25.920 | DM] The House of blues like staying with you okay.
+[u3178 | 04:02:20.370-04:02:22.950 | Ryu] Blu, Blu, Blu's been, Blu's been attacking.
+[u3179 | 04:02:23.490-04:02:25.920 | DM] Blu's like staying with you okay.
 [u3180 | 04:02:25.980-04:02:27.600 | Ryu] yeah we just haven't moved his his.
-[u3181 | 04:02:27.660-04:02:29.880 | DM] Right right right right okay so blue got to attack.
-[u3182 | 04:02:30.480-04:02:33.480 | Ryu] Lewis he's fine he's like he's not like standing next to.
-[u3183 | 04:02:33.600-04:02:34.110 | Nerissa] Happy New Year.
+[u3181 | 04:02:27.660-04:02:29.880 | DM] Right right right right okay so Blu got to attack.
+[u3182 | 04:02:30.480-04:02:33.480 | Ryu] Blu is, he's fine he's like he's not like standing next to.
+[u3183 | 04:02:33.600-04:02:34.110 | Nerissa] Help me here.
 [u3184 | 04:02:35.820-04:02:37.080 | Ryu] Plus, plus six right.
 [u3185 | 04:02:37.409-04:02:37.770 | Unknown] yep.
 [u3186 | 04:02:40.859-04:02:41.579 | Ryu] Nice.
 [u3187 | 04:02:41.730-04:02:42.420 | Unknown] that's.
 [u3188 | 04:02:43.440-04:02:44.670 | Ryu] One D four plus six again.
 [u3189 | 04:02:44.999-04:02:46.140 | DM] When the four plus six.
-[u3190 | 04:02:47.789-04:02:49.619 | DM] So blue dye bombs and again.
+[u3190 | 04:02:47.789-04:02:49.619 | DM] So Blu dive bombs and again.
 [u3191 | 04:02:51.960-04:02:52.890 | Ryu] friendly bastard.
 [u3192 | 04:02:54.990-04:02:57.120 | DM] he's looking pretty rough i'm on.
 [u3193 | 04:02:57.360-04:02:58.740 | Ryu] Was Jesus Christ.
-[u3194 | 04:02:58.830-04:03:03.120 | DM] Ah kayla you are crushed by the hand you take five points of.
+[u3194 | 04:02:58.830-04:03:03.120 | DM] Ah Kaleho you are crushed by the hand you take five points of.
 [u3195 | 04:03:04.260-04:03:10.680 | DM] lightning damage and you are restrained, but you can attack, but you have disadvantage or you can try and escape.
-[u3196 | 04:03:11.610-04:03:13.230 | Kaleho] That I do studies shot, while.
+[u3196 | 04:03:11.610-04:03:13.230 | Kaleho] That I do steady shot, while.
 [u3197 | 04:03:15.420-04:03:15.660 | Kaleho] Being.
 [u3198 | 04:03:15.810-04:03:16.500 | DM] Your House.
 [u3199 | 04:03:16.590-04:03:17.820 | DM] Australia all not at.
 [u3200 | 04:03:17.940-04:03:19.080 | Unknown] not disadvantage.
 [u3201 | 04:03:20.100-04:03:20.400 | Trok] Because it.
 [u3202 | 04:03:20.580-04:03:21.450 | Trok] Is a holding him steady.
-[u3203 | 04:03:21.840-04:03:23.160 | Kaleho] Very studying right now.
+[u3203 | 04:03:21.840-04:03:23.160 | Kaleho] Very steadying right now.
 [u3204 | 04:03:23.400-04:03:25.080 | DM] You are pretty steady right now.
 [u3205 | 04:03:25.290-04:03:27.600 | Ryu] yellow kill it now kill it now.
 [u3206 | 04:03:28.500-04:03:34.950 | Kaleho] So he, like reaches out one hand with the crossbow but it's like stabilized by the fist squeezing them.
@@ -3213,17 +3213,17 @@
 [u3213 | 04:03:47.790-04:03:48.180 | Kaleho] man.
 [u3214 | 04:03:49.380-04:03:50.130 | Kaleho] better than nothing.
 [u3215 | 04:03:51.690-04:03:53.340 | DM] Guy that ends your turn.
-[u3216 | 04:03:54.360-04:03:59.100 | DM] You are restrained, so your speed is zero and you're also thinking into the mug.
+[u3216 | 04:03:54.360-04:03:59.100 | DM] You are restrained, so your speed is zero and you're also sinking into the mud.
 [u3217 | 04:04:00.150-04:04:00.750 | Trok] ooh.
-[u3218 | 04:04:01.260-04:04:05.250 | Nerissa] Oh, I can't do anything about fact that i'm thinking into my head because.
+[u3218 | 04:04:01.260-04:04:05.250 | Nerissa] Oh, I can't do anything about fact that i'm sinking into the mud because.
 [u3219 | 04:04:06.300-04:04:09.480 | DM] And you can try it you can't you can try and break.
 [u3220 | 04:04:09.540-04:04:17.940 | DM] You can try and climb out, which would be a strength check, you can also still cast spells like you're not anything that you.
-[u3221 | 04:04:18.480-04:04:28.320 | Nerissa] Oh, I know I can still cast spells like dubious this to my ability to given my fedex strength and dubious it's, to the benefit of struggling.
+[u3221 | 04:04:18.480-04:04:28.320 | Nerissa] Oh, I know I can still cast spells like use this to my ability to given my pathetic strength and dubious it's, to the benefit of struggling.
 [u3222 | 04:04:29.010-04:04:34.500 | Kaleho] Could you get part of inspiration to the girl that's trapped to give her a better chance of using her own strength to get out.
 [u3223 | 04:04:34.980-04:04:35.970 | Trok] that's a great idea.
 [u3224 | 04:04:36.510-04:04:37.500 | Nerissa] And she.
 [u3225 | 04:04:38.610-04:04:40.410 | Kaleho] because she can do a strength role right.
-[u3226 | 04:04:40.590-04:04:41.760 | Kaleho] cutouts mud.
+[u3226 | 04:04:40.590-04:04:41.760 | Kaleho] get out of mud.
 [u3227 | 04:04:42.300-04:04:44.550 | DM] She can you don't know how strong she is.
 [u3228 | 04:04:45.540-04:04:46.170 | Nerissa] Jesus we.
 [u3229 | 04:04:49.050-04:04:49.260 | Nerissa] Just.
@@ -3274,11 +3274,11 @@
 [u3274 | 04:08:01.080-04:08:02.460 | DM] Just rolled straight D 20.
 [u3275 | 04:08:03.210-04:08:03.960 | Ryu] And what happens.
 [u3276 | 04:08:05.520-04:08:07.410 | DM] If you were all three failures you die.
-[u3277 | 04:08:07.920-04:08:09.480 | Trok] And what's the whatever really against.
+[u3277 | 04:08:07.920-04:08:09.480 | Trok] And what's the whatever, roll again.
 [u3278 | 04:08:09.870-04:08:16.020 | DM] Ah 11 or higher succeeds, or a 10 or higher succeeds less than 10 fails.
-[u3279 | 04:08:19.470-04:08:21.180 | DM] So that's one failure truck.
-[u3280 | 04:08:23.310-04:08:25.710 | DM] truck is beginning to sink underneath the mud.
-[u3281 | 04:08:26.910-04:08:29.310 | DM] starting to suffocate real Europe.
+[u3279 | 04:08:19.470-04:08:21.180 | DM] So that's one failure Trok.
+[u3280 | 04:08:23.310-04:08:25.710 | DM] Trok is beginning to sink underneath the mud.
+[u3281 | 04:08:26.910-04:08:29.310 | DM] starting to suffocate. Ryu, you're up.
 [u3282 | 04:08:32.100-04:08:33.180 | Ryu] Okay i'm.
 [u3283 | 04:08:34.260-04:08:36.660 | Ryu] sad occasion melee or, should I keep throwing spears.
 [u3284 | 04:08:36.690-04:08:38.550 | Kaleho] And if you engage in melee I can.
@@ -3296,8 +3296,8 @@
 [u3296 | 04:09:18.570-04:09:20.310 | DM] ethernet as he dies.
 [u3297 | 04:09:20.910-04:09:23.070 | DM] The stone begins to solidify.
 [u3298 | 04:09:24.900-04:09:26.010 | Ryu] Can we start pulling people from.
-[u3299 | 04:09:27.270-04:09:28.740 | Ryu] All fucking track out of the mud.
-[u3300 | 04:09:29.430-04:09:33.810 | DM] Ah, you just use your accent, you can step into the mud.
+[u3299 | 04:09:27.270-04:09:28.740 | Ryu] All fucking Trok out of the mud.
+[u3300 | 04:09:29.430-04:09:33.810 | DM] Ah, you just use your action, you can step into the mud.
 [u3301 | 04:09:34.080-04:09:35.340 | Trok] No, no, no.
 [u3302 | 04:09:35.580-04:09:36.330 | Ryu] that's crazy talk.
 [u3303 | 04:09:36.690-04:09:38.700 | DM] You can't reach him, where he is right now.
@@ -3317,10 +3317,10 @@
 [u3317 | 04:10:29.730-04:10:30.270 | Trok] Starting.
 [u3318 | 04:10:30.810-04:10:31.680 | Ryu] Starting yeah.
 [u3319 | 04:10:33.330-04:10:34.830 | Ryu] yeah you see like like.
-[u3320 | 04:10:36.000-04:10:38.550 | Ryu] ryu takes his hand and kind of opens it up and then.
-[u3321 | 04:10:39.690-04:10:53.880 | Ryu] lows and then you see this little kind of swarm of like little small fishes start swimming over to at truck and they start swirling around them and truck you feel that the spirit of sardines and suddenly reanimating you.
+[u3320 | 04:10:36.000-04:10:38.550 | Ryu] Ryu takes his hand and kind of opens it up and then.
+[u3321 | 04:10:39.690-04:10:53.880 | Ryu] flows, and then you see this little kind of swarm of like little small fishes start swimming over to to Trok and they start swirling around them and Trok you feel that the spirit of sardines and suddenly reanimating you.
 [u3322 | 04:10:54.600-04:10:55.920 | Trok] And they're like wake up and like.
-[u3323 | 04:11:00.120-04:11:02.760 | DM] So that's your bonus action so truck is now awake.
+[u3323 | 04:11:00.120-04:11:02.760 | DM] So that's your bonus action so Trok is now awake.
 [u3324 | 04:11:03.120-04:11:04.620 | DM] you're still restrained.
 [u3325 | 04:11:04.890-04:11:06.120 | DM] And trapped in the mud.
 [u3326 | 04:11:06.630-04:11:08.520 | Trok] So if I get how many hit points, so I have no.
@@ -3331,15 +3331,15 @@
 [u3331 | 04:11:18.150-04:11:20.430 | DM] If you just kill yourself it'll go away.
 [u3332 | 04:11:21.150-04:11:23.550 | Trok] But I can't because the whole thing has a skull on it.
 [u3333 | 04:11:24.570-04:11:25.380 | DM] and
-[u3334 | 04:11:25.410-04:11:28.770 | Trok] there's Oh, I see healing for a platoon.
+[u3334 | 04:11:25.410-04:11:28.770 | Trok] there's Oh, I see healing for a potion.
 [u3335 | 04:11:29.250-04:11:29.940 | DM] There we go yeah.
-[u3336 | 04:11:33.840-04:11:36.660 | DM] So it is now kayla's turn.
+[u3336 | 04:11:33.840-04:11:36.660 | DM] So it is now Kaleho's turn.
 [u3337 | 04:11:37.800-04:11:38.130 | Trok] The.
 [u3338 | 04:11:38.550-04:11:42.870 | DM] stone hand crumbles make a dexterity saving throw.
 [u3339 | 04:11:46.890-04:11:50.430 | DM] you manage to dodge out of the way and it does not knock you off the pillar.
 [u3340 | 04:11:50.730-04:11:52.770 | Kaleho] So what's dash.
 [u3341 | 04:11:54.570-04:11:56.400 | DM] Lets you just move up to your speed.
-[u3342 | 04:11:58.350-04:12:09.060 | Kaleho] um So if I can with dash face, can I get here from bonus action these my action to pour out yep Okay, so I do that.
+[u3342 | 04:11:58.350-04:12:09.060 | Kaleho] um So if I can with dash phase, can I get here from bonus action use my action to pour out yep Okay, so I do that.
 [u3343 | 04:12:10.170-04:12:11.610 | DM] And to make a strange check.
 [u3344 | 04:12:12.570-04:12:16.500 | Kaleho] So i'm here to pull her out Come on, please oh.
 [u3345 | 04:12:16.560-04:12:16.890 | Unknown] No.
@@ -3382,31 +3382,31 @@
 [u3382 | 04:14:22.620-04:14:28.950 | Nerissa] yeah i'm mean the monsters that and there's really nobody I can reach to be helpful.
 [u3383 | 04:14:29.940-04:14:31.260 | DM] So just safety.
 [u3384 | 04:14:31.470-04:14:32.580 | Nerissa] yeah safety is good.
-[u3385 | 04:14:36.390-04:14:38.130 | DM] hi Asa is going to run.
+[u3385 | 04:14:36.390-04:14:38.130 | DM] Hiyasa is going to run.
 [u3386 | 04:14:40.950-04:14:41.760 | DM] This way.
 [u3387 | 04:14:45.570-04:14:46.410 | DM] and
 [u3388 | 04:14:49.170-04:14:53.190 | DM] grab one of the gem topped jars.
 [u3389 | 04:14:54.330-04:14:54.990 | Kaleho] Oh no.
 [u3390 | 04:14:55.110-04:14:57.030 | Trok] Oh yeah we never figured out what's going on with those.
-[u3391 | 04:14:58.470-04:15:01.350 | DM] don't call him his dad truck.
+[u3391 | 04:14:58.470-04:15:01.350 | DM] don't call him his dead, Trok.
 [u3392 | 04:15:02.400-04:15:04.020 | Trok] So I just have to get out right.
 [u3393 | 04:15:04.560-04:15:16.890 | DM] The stone is beginning to solidify around your body you feel you have maybe five seconds before this mud, is no longer mud, and is a solid stone surface.
 [u3394 | 04:15:17.280-04:15:18.510 | Ryu] yeah yeah.
 [u3395 | 04:15:19.290-04:15:24.570 | DM] lying underneath the mud right now prone the sardines, having healed you.
 [u3396 | 04:15:26.370-04:15:29.640 | Trok] So I have a some kind of divine.
 [u3397 | 04:15:30.840-04:15:33.750 | Trok] blessing thing what's that called.
-[u3398 | 04:15:37.650-04:15:44.250 | Trok] favor of the handset nope not that one spiritual affinity 2000 as in Co.
-[u3399 | 04:15:45.900-04:15:53.310 | Trok] Before you make a really great yourself advantage I great myself advantage on my because all I have to do is make a strength check to get out right.
+[u3398 | 04:15:37.650-04:15:44.250 | Trok] favor of the hansat nope not that one Spiritual Affinity to Tuanesco.
+[u3399 | 04:15:45.900-04:15:53.310 | Trok] Before you make a really grant yourself advantage? I grant myself advantage on my because all I have to do is make a strength check to get out right.
 [u3400 | 04:15:54.150-04:15:57.120 | Trok] Yes, Okay, so I grant myself advantage.
 [u3401 | 04:15:57.450-04:15:58.050 | Unknown] Okay.
 [u3402 | 04:15:59.880-04:16:00.300 | Ryu] Yes.
-[u3403 | 04:16:00.540-04:16:02.310 | Trok] And then I make a strength sitting through.
+[u3403 | 04:16:00.540-04:16:02.310 | Trok] And then I make a strength saving throw.
 [u3404 | 04:16:03.120-04:16:04.800 | DM] Ah strength.
 [u3405 | 04:16:05.850-04:16:06.900 | DM] Saving throw yeah.
 [u3406 | 04:16:09.030-04:16:11.190 | Trok] Oh Nice on the first one.
 [u3407 | 04:16:11.250-04:16:13.320 | DM] Yes, so you.
-[u3408 | 04:16:14.250-04:16:22.050 | DM] pull your you see like like so us you all saw truck to go underneath the earth unconscious as the.
-[u3409 | 04:16:23.100-04:16:31.260 | DM] statue through them and then these like sardines swarm underneath and then you just see like this muddy had.
+[u3408 | 04:16:14.250-04:16:22.050 | DM] Pull. You you see like like so us you all saw Trok go underneath the earth unconscious as the.
+[u3409 | 04:16:23.100-04:16:31.260 | DM] statue through them and then these like sardines swarm underneath and then you just see like this muddy head.
 [u3410 | 04:16:31.320-04:16:32.640 | Unknown] emerged from the ground.
 [u3411 | 04:16:35.250-04:16:39.090 | DM] So you stand up, which takes half your movement, so now you have.
 [u3412 | 04:16:40.920-04:16:42.510 | DM] 20 feet of movement left.
@@ -3421,7 +3421,7 @@
 [u3421 | 04:17:04.440-04:17:05.820 | Trok] I was here.
 [u3422 | 04:17:07.170-04:17:08.010 | Trok] Unfortunately.
 [u3423 | 04:17:09.480-04:17:10.920 | DM] For movement.
-[u3424 | 04:17:11.280-04:17:17.580 | Ryu] But that was kind of a random like you kind of just threw him into the thing like it wasn't me through him like 20.
+[u3424 | 04:17:11.280-04:17:17.580 | Ryu] But that was kind of a random like you kind of just threw him into the thing like it wasn't me that threw him like 20.
 [u3425 | 04:17:17.640-04:17:18.720 | DM] You know, you can.
 [u3426 | 04:17:18.840-04:17:19.830 | DM] You can yes.
 [u3427 | 04:17:19.860-04:17:22.260 | Trok] You can have long strider still because.
@@ -3429,18 +3429,18 @@
 [u3429 | 04:17:25.860-04:17:31.320 | DM] yeah you still have a long strider so so you have 20 you have like.
 [u3430 | 04:17:32.790-04:17:33.210 | DM] To get out.
 [u3431 | 04:17:34.620-04:17:34.980 | DM] Yes.
-[u3432 | 04:17:35.220-04:17:40.980 | Trok] Okay, who still covered in mud, but i'm not trapped and and conscious.
+[u3432 | 04:17:35.220-04:17:40.980 | Trok] Trok still covered in mud, but i'm not trapped and and conscious.
 [u3433 | 04:17:42.330-04:17:45.180 | Ryu] Well, or selsey just just to get yourself out.
 [u3434 | 04:17:46.050-04:17:46.380 | Unknown] yeah.
 [u3435 | 04:17:47.550-04:17:50.850 | Kaleho] I think we need to stop her from doing whatever the hell she's doing.
 [u3436 | 04:17:51.180-04:17:51.690 | Ryu] yeah what.
 [u3437 | 04:17:52.320-04:17:54.180 | Trok] that's a reasonable question of what is she doing.
 [u3438 | 04:17:55.680-04:17:56.220 | Kaleho] yeah.
-[u3439 | 04:17:58.050-04:17:59.250 | Nerissa] Why are you doing.
+[u3439 | 04:17:58.050-04:17:59.250 | Nerissa] What are you doing.
 [u3440 | 04:17:59.790-04:18:00.060 | Trok] yeah.
 [u3441 | 04:18:00.840-04:18:01.620 | Ryu] Was it my turn.
 [u3442 | 04:18:03.540-04:18:03.810 | DM] yeah.
-[u3443 | 04:18:03.960-04:18:07.500 | Kaleho] I think we should threaten her will try to restrain her she's.
+[u3443 | 04:18:03.960-04:18:07.500 | Kaleho] I think we should threaten her or try to restrain her she's.
 [u3444 | 04:18:07.500-04:18:09.510 | Ryu] Clearly, like Can somebody put her to sleep.
 [u3445 | 04:18:09.630-04:18:10.080 | Ryu] or something.
 [u3446 | 04:18:12.450-04:18:13.770 | Ryu] I can do that and idea.
@@ -3448,7 +3448,7 @@
 [u3448 | 04:18:19.860-04:18:23.310 | Ryu] i'm shifts, I guess, I could kill her but that's.
 [u3449 | 04:18:23.340-04:18:24.060 | Kaleho] No, we don't want it.
 [u3450 | 04:18:24.150-04:18:25.710 | Trok] yeah cool idea.
-[u3451 | 04:18:27.690-04:18:30.420 | Kaleho] Do you let this grapple to like restrain her is that a thing.
+[u3451 | 04:18:27.690-04:18:30.420 | Kaleho] Can you just grapple to like restrain her is that a thing.
 [u3452 | 04:18:32.310-04:18:33.660 | Ryu] On yeah I can do that right.
 [u3453 | 04:18:34.020-04:18:34.500 | Unknown] um.
 [u3454 | 04:18:35.610-04:18:38.880 | DM] yeah I will say no, you would you notice what she's doing.
@@ -3465,23 +3465,23 @@
 [u3465 | 04:19:12.090-04:19:18.510 | Ryu] yeah you know you're you're you're putting you're putting stuff out of your in your bag after we've all nearly died trying to save your ass.
 [u3466 | 04:19:20.520-04:19:23.280 | Trok] Listen we're we're friends of.
 [u3467 | 04:19:23.640-04:19:24.600 | Ryu] Your bag right now.
-[u3468 | 04:19:24.840-04:19:26.250 | Trok] we're friends of wardens.
+[u3468 | 04:19:24.840-04:19:26.250 | Trok] we're friends of Orden.
 [u3469 | 04:19:26.340-04:19:30.780 | DM] She puts it back she looks sort of like fine.
 [u3470 | 04:19:32.610-04:19:33.780 | Trok] let's start over again here.
-[u3471 | 04:19:34.050-04:19:35.910 | Ryu] haha throw you back into the money.
+[u3471 | 04:19:34.050-04:19:35.910 | Ryu] haha throw you back into the muddy.
 [u3472 | 04:19:35.910-04:19:36.210 | Trok] pit.
 [u3473 | 04:19:36.480-04:19:37.890 | Ryu] You stay home well we've.
 [u3474 | 04:19:38.130-04:19:40.110 | DM] got the midas now stone.
 [u3475 | 04:19:41.130-04:19:42.720 | Nerissa] We could make a big pile.
 [u3476 | 04:19:43.500-04:19:43.860 | Unknown] yeah.
 [u3477 | 04:19:46.350-04:19:48.870 | Ryu] How about we leave you hear about that.
-[u3478 | 04:19:50.130-04:19:55.410 | Trok] Now now really thanks for saving my scaly but once again.
+[u3478 | 04:19:50.130-04:19:55.410 | Trok] Now now Ryu, thanks for saving my scaly but once again.
 [u3479 | 04:19:57.300-04:19:57.960 | Trok] i'm.
 [u3480 | 04:19:59.100-04:20:02.160 | Trok] Listening here so we're just here to take you home.
 [u3481 | 04:20:04.620-04:20:04.920 | Kaleho] and
 [u3482 | 04:20:05.430-04:20:08.910 | DM] Seriously, someone came to rescue me.
-[u3483 | 04:20:10.230-04:20:22.920 | Trok] Well i've known ordinance for a long time and he's always told me stories about about you and and he Let he let me know that you were in trouble, and that maybe there was.
-[u3484 | 04:20:22.950-04:20:24.510 | Trok] A little cash, we had a long way.
+[u3483 | 04:20:10.230-04:20:22.920 | Trok] Well i've known Orden for a long time and he's always told me stories about about you and and he let me let me know that you were in trouble, and that maybe there was.
+[u3484 | 04:20:22.950-04:20:24.510 | Trok] A little cash, to be had along the way.
 [u3485 | 04:20:25.260-04:20:26.850 | Trok] From my friends and so.
 [u3486 | 04:20:28.290-04:20:29.760 | Trok] Here we are so.
 [u3487 | 04:20:31.380-04:20:32.580 | Trok] We better get out of here, I think.
@@ -3491,7 +3491,7 @@
 [u3491 | 04:20:54.900-04:20:58.530 | Trok] yeah I think you got yourself in a little a little over your own head.
 [u3492 | 04:21:00.060-04:21:00.630 | Trok] howdy.
 [u3493 | 04:21:00.810-04:21:03.660 | Kaleho] How did you how did you hear about this.
-[u3494 | 04:21:04.860-04:21:05.340 | Kaleho] Gray.
+[u3494 | 04:21:04.860-04:21:05.340 | Kaleho] Great.
 [u3495 | 04:21:08.730-04:21:10.590 | DM] Vega persuasion check.
 [u3496 | 04:21:11.670-04:21:13.230 | DM] or intimidation your choice.
 [u3497 | 04:21:14.790-04:21:15.990 | Kaleho] Let me look here what.
@@ -3523,7 +3523,7 @@
 [u3523 | 04:23:04.770-04:23:07.950 | Trok] He has been running off and disappearing like that.
 [u3524 | 04:23:09.090-04:23:13.050 | Trok] doesn't help, how did you get past the crazy blade in the in the gargoyles.
 [u3525 | 04:23:15.120-04:23:18.450 | DM] Well, the blade was obvious you didn't see the trigger.
-[u3526 | 04:23:18.660-04:23:20.730 | Trok] Really obvious that's good for fiscal it's point.
+[u3526 | 04:23:18.660-04:23:20.730 | Trok] Really obvious that's good for Hiyasa's it's point.
 [u3527 | 04:23:24.090-04:23:26.100 | DM] guard, I was just required speed.
 [u3528 | 04:23:27.600-04:23:28.140 | DM] And I did.
 [u3529 | 04:23:29.910-04:23:32.550 | DM] Have a little bit of assistance.
@@ -3532,46 +3532,46 @@
 [u3532 | 04:23:39.000-04:23:44.760 | DM] When use spell scrolls with me that knocked one out of the sky pretty quickly.
 [u3533 | 04:23:46.440-04:23:47.610 | DM] Once I killed one I.
 [u3534 | 04:23:49.050-04:23:50.700 | DM] saw the key and I just ran.
-[u3535 | 04:23:51.480-04:23:54.030 | Trok] where'd you get all this stuff's bill scrolls and a treasure map.
+[u3535 | 04:23:51.480-04:23:54.030 | Trok] where'd you get all this stuff, spell scrolls and a treasure map.
 [u3536 | 04:23:55.860-04:23:58.740 | DM] i've been traveling for 10 years I have my sources.
 [u3537 | 04:24:00.360-04:24:02.940 | Trok] Like theft based sources or.
 [u3538 | 04:24:04.470-04:24:05.820 | DM] How do you feel about charting.
-[u3539 | 04:24:07.770-04:24:09.240 | Trok] Oh i'm know great fan of charting.
+[u3539 | 04:24:07.770-04:24:09.240 | Trok] Oh I'm no great fan of charting.
 [u3540 | 04:24:09.960-04:24:12.150 | DM] How do you feel that people who steal from charmin.
 [u3541 | 04:24:13.080-04:24:16.530 | Trok] Well, maybe the lesson of the better who.
-[u3542 | 04:24:17.100-04:24:23.280 | Kaleho] Can I do some thief can't signaling towards her to see if she is.
+[u3542 | 04:24:17.100-04:24:23.280 | Kaleho] Can I do some thieves' cant signaling towards her to see if she is.
 [u3543 | 04:24:24.630-04:24:26.760 | Kaleho] fluent or aware, or whatever the.
 [u3544 | 04:24:29.160-04:24:32.550 | DM] One What do you mean you're trying to like what.
 [u3545 | 04:24:33.450-04:24:35.760 | DM] i'm more like just us.
 [u3546 | 04:24:35.760-04:24:36.690 | DM] it's more like.
-[u3547 | 04:24:38.370-04:24:42.600 | DM] way of marketing things and it's not really a language exactly.
+[u3547 | 04:24:38.370-04:24:42.600 | DM] way of marking things and it's not really a language exactly.
 [u3548 | 04:24:43.200-04:24:44.130 | DM] So it's just sort of.
 [u3549 | 04:24:47.460-04:25:03.330 | DM] Well, so okay so like efficient like the sort of standard D amp D rogues are like all part of some like Globe spanning thieves Guild that all speak a common language doesn't actually make sense, for I think most it's a very strange I don't.
 [u3550 | 04:25:04.440-04:25:14.340 | DM] Know like these skills, but there's like a series of ways, you can mark traps and like this place is dangerous, that you sort of recognize right.
-[u3551 | 04:25:14.490-04:25:22.440 | Kaleho] i'm looking the features and says you've earned thieves, can a secret mentioned dialogue jargon and code that allows you to hide messages and seemingly normal conversation.
-[u3552 | 04:25:24.000-04:25:39.300 | Kaleho] i'm just trying to like feeler out like you know I put out a signal and whatever like through verbal communication and does she just bite like this, you signal, yes, I am of this world, or is he just a normal naive avenger.
+[u3551 | 04:25:14.490-04:25:22.440 | Kaleho] i'm looking the features and says you've earned thieves' cant a secret mix of dialect jargon and code that allows you to hide messages and seemingly normal conversation.
+[u3552 | 04:25:24.000-04:25:39.300 | Kaleho] i'm just trying to like feel her out like you know I put out a signal and whatever like through verbal communication and does she just bite like this, you signal, yes, I am of this world, or is he just a normal naive adventurer.
 [u3553 | 04:25:42.810-04:25:56.700 | DM] I mean it's obvious from what she sat in from just her demeanor that she's not a I mean if she had scrolls and a treasure map that she stole from somebody like this is not like a.
 [u3554 | 04:25:59.460-04:26:07.170 | DM] she's not just a commoner right like she definitely has some skill, what exactly so she has not completely obvious do.
-[u3555 | 04:26:16.860-04:26:21.450 | Ryu] So, invest in the gems what's going on the loop.
+[u3555 | 04:26:16.860-04:26:21.450 | Ryu] So, investigate the gems what's going on the loot.
 [u3556 | 04:26:24.690-04:26:28.290 | DM] Make make some investigation check.
 [u3557 | 04:26:29.910-04:26:30.990 | Trok] i'll investigate as well.
-[u3558 | 04:26:31.680-04:26:35.160 | Ryu] i'm on really looking for best the last really.
+[u3558 | 04:26:31.680-04:26:35.160 | Ryu] i'm on really looking for the best glass really.
 [u3559 | 04:26:38.040-04:26:38.460 | DM] um.
 [u3560 | 04:26:40.980-04:26:44.550 | DM] So these are like three ish foot.
 [u3561 | 04:26:45.570-04:26:47.250 | DM] What is that, like three years foot.
 [u3562 | 04:26:50.130-04:26:50.490 | Trok] Little.
 [u3563 | 04:26:51.660-04:27:01.110 | DM] stone jars that are each topped with a gem they seem to be I mean they're very heavy.
 [u3564 | 04:27:03.750-04:27:15.150 | DM] Like they're they're solid right i'm like you could lift one up but they probably weigh 15 pounds that jars are the tops are just kind of loosely placed on.
-[u3565 | 04:27:17.310-04:27:17.880 | Ryu] US inside.
+[u3565 | 04:27:17.310-04:27:17.880 | Ryu] Use Insight.
 [u3566 | 04:27:19.440-04:27:37.110 | DM] Ah there's six of them which one do you want to open there's one with a there's like one with a plain white carts there's one with the purple jam there's one with a like Teal green jam one with like a reddish jam one with the yellow gem, and one with a like jet black obsidian.
-[u3567 | 04:27:38.070-04:27:38.850 | Ryu] Open English.
+[u3567 | 04:27:38.070-04:27:38.850 | Ryu] Open? English?.
 [u3568 | 04:27:41.220-04:27:45.000 | DM] It is filled with so.
 [u3569 | 04:27:46.050-04:27:49.320 | DM] The bottom maybe third of the.
 [u3570 | 04:27:52.650-04:27:56.640 | DM] Of the of the stone thing is filled with a.
 [u3571 | 04:27:59.160-04:28:02.550 | DM] So there's a pile of coins.
 [u3572 | 04:28:04.650-04:28:06.750 | DM] Mostly copper and silver.
 [u3573 | 04:28:09.120-04:28:10.110 | DM] A few.
-[u3574 | 04:28:11.520-04:28:20.760 | DM] Maybe gold glinting in there, but they're all like you don't recognize them at all they're not my wire that chart and they're not coins from anywhere around here.
+[u3574 | 04:28:11.520-04:28:20.760 | DM] Maybe gold glinting in there, but they're all like you don't recognize them at all they're not Mawar that chart and they're not coins from anywhere around here.
 [u3575 | 04:28:23.760-04:28:25.260 | Ryu] From where I do like a.
 [u3576 | 04:28:26.520-04:28:27.270 | Ryu] or some other check.
 [u3577 | 04:28:28.440-04:28:29.160 | Ryu] To our historian here.
@@ -3583,7 +3583,7 @@
 [u3583 | 04:28:50.220-04:28:51.960 | DM] can make an intelligence jack.
 [u3584 | 04:28:53.280-04:28:53.640 | Ryu] Was.
 [u3585 | 04:28:55.080-04:28:56.160 | DM] Just you for now.
-[u3586 | 04:29:00.480-04:29:02.670 | Ryu] Intelligence check not assuming grow.
+[u3586 | 04:29:00.480-04:29:02.670 | Ryu] Intelligence check not assuming no.
 [u3587 | 04:29:02.730-04:29:03.750 | DM] yeah just jack.
 [u3588 | 04:29:08.430-04:29:08.730 | Ryu] don't.
 [u3589 | 04:29:10.440-04:29:15.720 | DM] don't there's some writing on them, but you don't like it's very faded, and you don't really recognize that.
@@ -3591,7 +3591,7 @@
 [u3591 | 04:29:22.230-04:29:23.340 | Ryu] That is darker than the word money.
 [u3592 | 04:29:23.820-04:29:24.120 | Unknown] nope.
 [u3593 | 04:29:29.040-04:29:30.000 | DM] Just a weird money.
-[u3594 | 04:29:31.440-04:29:34.980 | Ryu] When I look at these nurses and be recognized them.
+[u3594 | 04:29:31.440-04:29:34.980 | Ryu] When I look at these Nerissa maybe recognized them.
 [u3595 | 04:29:41.130-04:29:42.000 | DM] Where do you speak.
 [u3596 | 04:29:44.130-04:29:45.300 | Nerissa] To me in common.
 [u3597 | 04:29:48.660-04:29:50.610 | DM] You can make intelligence check to.
@@ -3629,7 +3629,7 @@
 [u3629 | 04:32:36.030-04:32:39.030 | DM] Small just one single small Pearl.
 [u3630 | 04:32:41.370-04:32:45.780 | Trok] surprising you didn't want a bigger one let's be let's be a good good thing to have.
 [u3631 | 04:32:46.230-04:32:46.890 | Unknown] For them.
-[u3632 | 04:32:48.300-04:32:58.620 | Kaleho] For the pearl that catches callow's eyes, because of the possible perfect more folk oceanic connection I do investigative check on that one.
+[u3632 | 04:32:48.300-04:32:58.620 | Kaleho] For the pearl that catches Kaleho's eyes, because of the possible perfect merfolk oceanic connection I do investigative check on that one.
 [u3633 | 04:33:00.360-04:33:01.860 | Kaleho] Appropriate check for it or.
 [u3634 | 04:33:02.160-04:33:03.270 | DM] it's I mean.
 [u3635 | 04:33:06.540-04:33:11.610 | DM] Sure, make them make an investigation check.
@@ -3649,10 +3649,10 @@
 [u3649 | 04:34:31.980-04:34:33.180 | DM] seeker when you need them.
 [u3650 | 04:34:33.510-04:34:34.320 | Trok] Once again.
 [u3651 | 04:34:35.070-04:34:36.120 | Nerissa] Where anybody.
-[u3652 | 04:34:36.150-04:34:40.260 | Nerissa] have to tech magic ethan anything there, well, we for a reason.
+[u3652 | 04:34:36.150-04:34:40.260 | Nerissa] have to detect magic or anything anything there, well, we for a reason.
 [u3653 | 04:34:40.950-04:34:42.180 | Ryu] All of these.
 [u3654 | 04:34:43.620-04:34:45.390 | DM] Whereas TAO F when you need them.
-[u3655 | 04:34:47.700-04:34:50.310 | DM] Or was here, I think he also has detect magic.
+[u3655 | 04:34:47.700-04:34:50.310 | DM] Or Wazir, I think he also has detect magic.
 [u3656 | 04:34:52.230-04:34:57.930 | Kaleho] Road with is have any ability like what's best to sell I can even just kind of like background knowledge of.
 [u3657 | 04:34:57.930-04:34:58.740 | DM] wow so.
 [u3658 | 04:35:00.510-04:35:02.730 | DM] So just to finish, so the Ruby.
@@ -3675,8 +3675,8 @@
 [u3675 | 04:36:38.730-04:36:40.080 | Trok] To one way bag of holding.
 [u3676 | 04:36:42.300-04:36:47.790 | Trok] bag of perma holding when I guess you could put stuff in there, that you didn't want permanently.
 [u3677 | 04:36:48.990-04:36:50.580 | Trok] Can drain the ocean, with it, or something.
-[u3678 | 04:36:52.350-04:36:53.490 | Nerissa] Reading for tiger.
-[u3679 | 04:36:55.380-04:36:57.270 | Trok] Talk tax documents from 10 years.
+[u3678 | 04:36:52.350-04:36:53.490 | Nerissa] Reading for taxes.
+[u3679 | 04:36:55.380-04:36:57.270 | Trok] To tax documents from 10 years.
 [u3680 | 04:37:00.450-04:37:03.510 | Ryu] yeah should we take these back to town.
 [u3681 | 04:37:06.150-04:37:06.450 | Ryu] With a.
 [u3682 | 04:37:06.690-04:37:07.290 | Unknown] timeout.
@@ -3687,7 +3687,7 @@
 [u3687 | 04:37:24.840-04:37:26.850 | Ryu] And then I think we can help us identify.
 [u3688 | 04:37:27.060-04:37:28.170 | Unknown] The uses of these items.
 [u3689 | 04:37:29.190-04:37:29.550 | Nerissa] yeah.
-[u3690 | 04:37:31.980-04:37:39.060 | Kaleho] we've disarmed, most of the traps just the saver and the sticky gooey and maybe that's solidified that the guys dad.
+[u3690 | 04:37:31.980-04:37:39.060 | Kaleho] we've disarmed, most of the traps just the saber and the sticky gooey and maybe that's solidified that the guy's dead.
 [u3691 | 04:37:39.960-04:37:41.910 | DM] know the good still there, but.
 [u3692 | 04:37:41.970-04:37:45.390 | DM] But you know, in the interest of time and that you've already.
 [u3693 | 04:37:45.390-04:37:48.360 | DM] saw your way back you manage to like.
@@ -3706,8 +3706,8 @@
 [u3706 | 04:38:45.660-04:38:48.090 | Kaleho] pulled up the ropes we can always put those up again.
 [u3707 | 04:38:48.570-04:38:49.470 | Trok] Nice Nice.
 [u3708 | 04:38:51.930-04:38:54.960 | DM] So back at the end, a few days later um.
-[u3709 | 04:38:56.100-04:39:00.660 | DM] Yes, was here like as you carefully log all this stuff back.
-[u3710 | 04:39:02.130-04:39:07.740 | DM] This was your House so was here as back of just you know give you his does he have.
+[u3709 | 04:38:56.100-04:39:00.660 | DM] Yes, Wazir like as you carefully lug all this stuff back.
+[u3710 | 04:39:02.130-04:39:07.740 | DM] This was your House so Wazir as backpack just you know give you his does he have.
 [u3711 | 04:39:08.430-04:39:09.090 | Trok] You look like.
 [u3712 | 04:39:15.240-04:39:19.920 | DM] gotta check something here I don't think he has identified, oh no he does have identify.
 [u3713 | 04:39:21.510-04:39:22.320 | Trok] This.
@@ -3718,14 +3718,14 @@
 [u3718 | 04:39:40.110-04:39:41.700 | DM] um the.
 [u3719 | 04:39:44.640-04:39:49.920 | DM] The obsidian one with a whole to nowhere and the yellow dust.
 [u3720 | 04:39:54.090-04:39:54.510 | Nerissa] Rising.
-[u3721 | 04:39:55.920-04:39:59.880 | DM] was here, points out that the dark let read liquid smells like.
+[u3721 | 04:39:55.920-04:39:59.880 | DM] Wazir, points out that the dark let read liquid smells like.
 [u3722 | 04:40:01.350-04:40:02.130 | DM] vinegar.
 [u3723 | 04:40:03.330-04:40:06.330 | DM] And this is probably agent wine.
 [u3724 | 04:40:11.010-04:40:14.250 | DM] And he recognizes the writing on the coins as dwarves.
 [u3725 | 04:40:15.090-04:40:15.780 | Unknown] um.
 [u3726 | 04:40:17.640-04:40:19.410 | DM] But very archaic.
 [u3727 | 04:40:20.820-04:40:26.130 | DM] These are ancient ancient Orban coins like 1000 years ago Durban coins at least.
-[u3728 | 04:40:26.490-04:40:31.260 | Trok] Was this guy human God or a door oven God.
+[u3728 | 04:40:26.490-04:40:31.260 | Trok] Was this guy human God or a Dwarven god.
 [u3729 | 04:40:32.880-04:40:35.220 | DM] You only saw humans depicted.
 [u3730 | 04:40:38.430-04:40:40.170 | Trok] And was a snake dude and.
 [u3731 | 04:40:41.640-04:40:42.390 | DM] The.
@@ -3737,7 +3737,7 @@
 [u3737 | 04:41:28.440-04:41:30.060 | DM] So it is no longer anything.
 [u3738 | 04:41:31.410-04:41:34.740 | DM] The Pearl is magical but you don't know exactly what it does.
 [u3739 | 04:41:35.820-04:41:37.560 | DM] And then there's the yellow dust.
-[u3740 | 04:41:40.530-04:41:42.810 | Kaleho] And we don't know the able to dust does either.
+[u3740 | 04:41:40.530-04:41:42.810 | Kaleho] And we don't know the Abelardust does either.
 [u3741 | 04:41:43.530-04:41:46.860 | DM] And so far nobody's like touched it or empty the doubt or anything.
 [u3742 | 04:41:50.820-04:41:52.680 | Ryu] We wrap there.
 [u3743 | 04:41:56.040-04:41:58.200 | DM] Oh yeah it's quite late um.
@@ -3760,12 +3760,12 @@
 [u3760 | 04:43:03.360-04:43:04.110 | Unknown] Nice.
 [u3761 | 04:43:05.190-04:43:07.050 | Ryu] let's loot more ancient treasure.
 [u3762 | 04:43:08.280-04:43:08.580 | Ryu] yeah.
-[u3763 | 04:43:09.210-04:43:10.170 | Kaleho] Great engine crawl.
-[u3764 | 04:43:10.200-04:43:11.400 | Ryu] weren't more engine better.
+[u3763 | 04:43:09.210-04:43:10.170 | Kaleho] Great dungeon crawl.
+[u3764 | 04:43:10.200-04:43:11.400 | Ryu] weren't more dungeon better.
 [u3765 | 04:43:11.490-04:43:18.690 | DM] So, but just decide before we end for the day decide how you're going to split up the gold, are you giving any money to to.
 [u3766 | 04:43:21.750-04:43:23.370 | DM] pay off and for then.
-[u3767 | 04:43:24.840-04:43:26.880 | Ryu] I can, I can come from structure.
-[u3768 | 04:43:31.350-04:43:32.340 | Nerissa] To the vice chair.
+[u3767 | 04:43:24.840-04:43:26.880 | Ryu] I can, I can come from treasure.
+[u3768 | 04:43:31.350-04:43:32.340 | Nerissa] To the Wazir.
 [u3769 | 04:43:33.930-04:43:34.560 | Trok] hmm.
 [u3770 | 04:43:34.860-04:43:36.990 | Kaleho] I think she should get a finder's fee.
 [u3771 | 04:43:37.290-04:43:38.850 | Kaleho] yeah so let's.
@@ -3775,15 +3775,15 @@
 [u3775 | 04:43:54.330-04:43:56.250 | Ryu] No definitely not that.
 [u3776 | 04:43:57.060-04:43:57.420 | DM] I can.
 [u3777 | 04:43:58.860-04:44:02.310 | DM] Get 135 gold minus whatever you want to give to.
-[u3778 | 04:44:02.640-04:44:09.630 | DM] Order and 60 gold is actually a fairly I mean that's like you know, two months salary so that's not nothing.
+[u3778 | 04:44:02.640-04:44:09.630 | DM] Orden and 60 gold is actually a fairly I mean that's like you know, two months salary so that's not nothing.
 [u3779 | 04:44:12.840-04:44:16.740 | DM] that's not as much as she was hoping she she is like yeah you know.
 [u3780 | 04:44:17.910-04:44:24.150 | DM] I can i'll tell you more about those other two places on the map, if you pay me that's like decision for another.
 [u3781 | 04:44:25.920-04:44:27.390 | DM] man who wants to pro power.
 [u3782 | 04:44:28.500-04:44:29.400 | Ryu] Cast spells so.
 [u3783 | 04:44:30.420-04:44:30.810 | Trok] TIM.
-[u3784 | 04:44:32.370-04:44:32.940 | Nerissa] marissa.
+[u3784 | 04:44:32.370-04:44:32.940 | Nerissa] Nerissa.
 [u3785 | 04:44:33.720-04:44:34.350 | Nerissa] And we, as a.
-[u3786 | 04:44:34.590-04:44:35.580 | Nerissa] pastor here i'll take it.
+[u3786 | 04:44:34.590-04:44:35.580 | Nerissa] pass through here i'll take it.
 [u3787 | 04:44:35.610-04:44:35.910 | Unknown] yeah.
 [u3788 | 04:44:37.890-04:44:40.230 | Kaleho] And you got your papers to, or at least we could.
 [u3789 | 04:44:41.550-04:44:44.280 | DM] yeah that does will give to us here and and.
@@ -3796,22 +3796,22 @@
 [u3796 | 04:45:00.240-04:45:01.800 | DM] hundred 35 gold each.
 [u3797 | 04:45:02.070-04:45:03.330 | Unknown] Nice.
 [u3798 | 04:45:05.940-04:45:06.540 | Unknown] sweet.
-[u3799 | 04:45:08.940-04:45:13.440 | Ryu] basin paper some upgrades in my spot get that speed new TV and looking for.
+[u3799 | 04:45:08.940-04:45:13.440 | Ryu] basic paper some upgrades in my spot, get that speedy new TV and looking for.
 [u3800 | 04:45:13.650-04:45:14.010 | Unknown] yeah.
 [u3801 | 04:45:15.870-04:45:16.650 | DM] Okay guys.
-[u3802 | 04:45:16.920-04:45:18.090 | Kaleho] Last four guys.
+[u3802 | 04:45:16.920-04:45:18.090 | Kaleho] That's fair, guys.
 [u3803 | 04:45:18.300-04:45:19.470 | DM] This was fun good or bad.
 [u3804 | 04:45:19.740-04:45:20.400 | Trok] Thanks everybody.
 [u3805 | 04:45:20.790-04:45:22.830 | DM] Nice to do it dungeon crawl every now and then.
 [u3806 | 04:45:22.920-04:45:23.520 | Trok] Oh yeah.
-[u3807 | 04:45:23.850-04:45:32.400 | Kaleho] This was awesome I cut the world's building out slowly to it a little set of characters and mysteries some traumatic things that are coming up it's fun.
+[u3807 | 04:45:23.850-04:45:32.400 | Kaleho] This was awesome I cut the worldbuilding out slowly to it a little set of characters and mysteries some traumatic things that are coming up it's fun.
 [u3808 | 04:45:32.820-04:45:34.500 | DM] A lot of connected to.
 [u3809 | 04:45:34.770-04:45:36.720 | DM] elemental earth maybe.
 [u3810 | 04:45:39.000-04:45:39.450 | Trok] Its.
 [u3811 | 04:45:39.570-04:45:40.500 | Unknown] water.
-[u3812 | 04:45:42.780-04:45:44.730 | Ryu] weight, but what about wind and fire so.
+[u3812 | 04:45:42.780-04:45:44.730 | Ryu] wait, but what about wind and fire so.
 [u3813 | 04:45:45.990-04:45:48.210 | DM] there's two other axes on the map.
-[u3814 | 04:45:48.300-04:45:49.680 | Kaleho] States and.
+[u3814 | 04:45:48.300-04:45:49.680 | Kaleho] Thanks and.
 [u3815 | 04:45:53.400-04:45:54.780 | DM] Everybody good night.
 [u3816 | 04:45:55.170-04:45:55.800 | Trok] good night.
 [u3817 | 04:45:57.420-04:45:57.660 | Kaleho] Good.

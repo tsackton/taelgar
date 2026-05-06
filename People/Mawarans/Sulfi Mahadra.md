@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+aliases: [Sulfi]
 name: Sulfi Mahadra
 species: human
 ancestry: Mawaran

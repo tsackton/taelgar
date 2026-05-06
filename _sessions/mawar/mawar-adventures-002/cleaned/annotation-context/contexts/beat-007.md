@@ -1,4 +1,4 @@
-# Beat Context: beat-007 - Night Plan at the Leviathan
+# Beat Context: beat-007 - Tentacles at the Dock
 
 This file is only for producing `beat-facts.json`.
 Do not edit `beats.json`.
@@ -11,21 +11,21 @@ Do not edit `beats.json`.
 ## Beat Metadata
 
 - Beat ID: beat-007
-- Title: Night Plan at the Leviathan
-- Range: `u2285` -> `u2443`
-- Lines: 159
-- Date Start: 1747-08-04
-- Date End: 1747-08-05
-- Time Window: night
+- Title: Tentacles at the Dock
+- Range: `u2740` -> `u3149`
+- Lines: 410
+- Date Start: 1747-08-05
+- Date End: same day
+- Time Window: morning
 
 ## Output Shape
 
 ```json
 {
   "beatId": "beat-007",
-  "dateStart": "1747-08-04",
-  "dateEnd": "1747-08-05",
-  "timeWindow": "night",
+  "dateStart": "1747-08-05",
+  "dateEnd": null,
+  "timeWindow": "morning",
   "shortSummary": "",
   "longSummary": "",
   "location": {
@@ -64,8 +64,8 @@ Do not edit `beats.json`.
 
 ## Adjacent Beats
 
-- Previous: beat-006 - Yaz and the Living Ocean (1747-08-04)
-- Next: beat-008 - Parley at Shark's Dock (1747-08-05)
+- Previous: beat-006 - Dawn Interception Setup (1747-08-05)
+- Next: beat-008 - Azar Falls (1747-08-05)
 
 If the transcript does not clearly restate the location, prefer inheriting the prior beat's location unless there is a clear move or travel transition.
 
@@ -79,164 +79,415 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
-[u2285 | 03:09:39.870-03:09:41.130 | DM] By Leviathan.
-[u2286 | 03:09:41.700-03:09:41.940 | Unknown] yeah.
-[u2287 | 03:09:50.460-03:09:52.440 | Kaleho] So we're back at the Leviathan.
-[u2288 | 03:09:52.980-03:09:53.280 | Unknown] yeah.
-[u2289 | 03:09:57.240-03:09:58.680 | DM] So spot fire.
-[u2290 | 03:09:59.790-03:10:01.380 | Kaleho] So what's the plan for tomorrow.
-[u2291 | 03:10:06.030-03:10:06.420 | Unknown] Do we.
-[u2292 | 03:10:07.950-03:10:08.520 | Unknown] ambush.
-[u2293 | 03:10:09.840-03:10:10.470 | Wazir] I think.
-[u2294 | 03:10:12.510-03:10:15.690 | Wazir] I think, so I think talking to this.
-[u2295 | 03:10:16.890-03:10:18.120 | Wazir] To this old man.
-[u2296 | 03:10:19.740-03:10:29.460 | Wazir] who's tired of the perhaps he is trapped cursed by some power, he doesn't know to.
-[u2297 | 03:10:31.470-03:10:33.000 | Wazir] Do you think you know rugrats.
-[u2298 | 03:10:34.230-03:10:39.180 | Ryu] Well, I wonder if that voice is communicating to them through a night that he puts them inside that box will get some sleep.
-[u2299 | 03:10:42.270-03:10:43.920 | Wazir] But I think the knife cannot.
-[u2300 | 03:10:45.120-03:10:48.420 | Wazir] That is the case, the knife is probably not safe just laughed.
-[u2301 | 03:10:51.000-03:10:51.810 | Wazir] In a box.
-[u2302 | 03:10:53.460-03:10:56.580 | Wazir] throw it in the ocean whatever he plans to do with it.
-[u2303 | 03:10:58.620-03:10:59.010 | Ryu] yeah.
-[u2304 | 03:11:00.360-03:11:00.690 | Ryu] well.
-[u2305 | 03:11:04.350-03:11:06.090 | Kaleho] Do you think he'll bring the knife with them.
-[u2306 | 03:11:07.740-03:11:09.090 | Wazir] Now it's good question.
-[u2307 | 03:11:12.390-03:11:13.230 | Ryu] Perhaps we.
-[u2308 | 03:11:15.060-03:11:18.090 | Ryu] Try to make this a less threatening encounter if we can.
-[u2309 | 03:11:19.260-03:11:28.500 | Ryu] But we prepare ourselves in the event, we need to take any kind of action, but I mean five on one he's an old man I don't.
-[u2310 | 03:11:30.120-03:11:36.660 | Kaleho] Know man that murdered people destroy the building some in an elemental.
-[u2311 | 03:11:37.770-03:11:39.120 | Kaleho] And talks to knives.
-[u2312 | 03:11:40.230-03:11:41.520 | Trok] set for the knife thing.
-[u2313 | 03:11:43.020-03:11:45.720 | Trok] We don't know that that was all him doing.
-[u2314 | 03:11:47.190-03:11:48.060 | Wazir] We don't.
-[u2315 | 03:11:49.080-03:11:50.250 | Wazir] But it seems likely.
-[u2316 | 03:11:56.130-03:12:00.090 | Kaleho] Do we know why he was writing down his story and the school.
-[u2317 | 03:12:01.980-03:12:01.980 | Wazir] lost.
-[u2318 | 03:12:02.100-03:12:04.260 | Kaleho] touch with reality, and this was just him.
-[u2319 | 03:12:09.150-03:12:10.590 | Trok] yeah who's that intended for.
-[u2320 | 03:12:17.970-03:12:20.820 | Wazir] And what happened after the 11th century.
-[u2321 | 03:12:21.900-03:12:22.800 | Wazir] that's what I want to know.
-[u2322 | 03:12:23.370-03:12:29.670 | Trok] And where was he when we were in his lair fighting whatever we're fighting.
-[u2323 | 03:12:30.720-03:12:31.560 | Trok] What are we fighting.
-[u2324 | 03:12:32.400-03:12:34.500 | DM] out some water elemental creature.
-[u2325 | 03:12:41.580-03:12:43.590 | Ryu] So yeah what is the plan.
-[u2326 | 03:12:48.450-03:12:50.130 | Kaleho] I don't have to live in this town.
-[u2327 | 03:12:51.840-03:12:54.240 | Kaleho] So you need to make decisions that will.
-[u2328 | 03:12:55.260-03:12:57.180 | Kaleho] allow you to still live in this town.
-[u2329 | 03:12:58.620-03:13:00.000 | Trok] We could, for example.
-[u2330 | 03:13:01.260-03:13:02.340 | Trok] Make sure to be.
-[u2331 | 03:13:03.390-03:13:09.330 | Trok] Back at his tower when he returns, instead of trying to encounter him at the blacksmith shop.
-[u2332 | 03:13:09.450-03:13:09.930 | Ryu] All of these.
-[u2333 | 03:13:11.100-03:13:14.160 | Kaleho] he's done with the Tower he's cleaned.
-[u2334 | 03:13:15.600-03:13:16.050 | Trok] I think you're right.
-[u2335 | 03:13:16.080-03:13:21.210 | Kaleho] I wish we knew what he was doing with all the dirt in the cleaning so decrepit tower.
-[u2336 | 03:13:23.610-03:13:23.940 | Ryu] Just.
-[u2337 | 03:13:24.780-03:13:26.220 | Trok] Just hiding his traces.
-[u2338 | 03:13:26.670-03:13:26.910 | Ryu] yeah.
-[u2339 | 03:13:26.940-03:13:31.710 | Kaleho] Do we know that we're fish bones what what else what other refuge, could he have been.
-[u2340 | 03:13:32.280-03:13:34.320 | Kaleho] Well, not starting so carefully.
-[u2341 | 03:13:34.860-03:13:36.840 | Kaleho] he's doing these experiments.
-[u2342 | 03:13:39.390-03:13:41.220 | DM] I mean your impression from searching the tower.
-[u2343 | 03:13:41.220-03:13:47.130 | DM] Was that he was whoever flagged the Tower was trying to cover traces of occupation.
-[u2344 | 03:13:50.670-03:13:50.970 | Ryu] me.
-[u2345 | 03:13:52.560-03:13:53.820 | Ryu] You know worst case.
-[u2346 | 03:13:55.170-03:13:56.310 | Ryu] Luke and follow him.
-[u2347 | 03:13:57.540-03:13:57.750 | Ryu] yeah.
-[u2348 | 03:13:59.310-03:14:00.480 | Wazir] I think if we wait.
-[u2349 | 03:14:02.250-03:14:06.330 | Wazir] there's many spots inside of the dwarfs.
-[u2350 | 03:14:07.350-03:14:07.980 | Wazir] shop.
-[u2351 | 03:14:09.630-03:14:10.350 | Wazir] To hide.
-[u2352 | 03:14:11.370-03:14:14.370 | Wazir] Perhaps somebody waiters about.
-[u2353 | 03:14:15.870-03:14:19.290 | Wazir] somebody who was not recognizable as recognizable.
-[u2354 | 03:14:20.550-03:14:21.300 | Trok] Maybe Kaleho.
-[u2355 | 03:14:22.110-03:14:31.770 | Kaleho] I can move and hide and disappearing, the crowds and otherwise the unseen there but unseen or more accurately unnoticed.
-[u2356 | 03:14:32.490-03:14:35.460 | Trok] I think I think it might be the rest of us that need to hide.
-[u2357 | 03:14:36.870-03:14:37.830 | Trok] If we're too.
-[u2358 | 03:14:39.840-03:14:43.830 | Trok] I don't know too conspicuous um what can we offer him.
-[u2359 | 03:14:45.450-03:14:48.750 | Kaleho] Unless we can bring back his wife and children, I don't know what we can.
-[u2360 | 03:14:50.160-03:14:55.410 | Wazir] I don't I don't think this is a negotiation with him I think it's a intervention.
-[u2361 | 03:14:56.910-03:14:57.330 | Wazir] You won't.
-[u2362 | 03:15:00.090-03:15:01.710 | Wazir] You won't tell us what's.
-[u2363 | 03:15:03.600-03:15:06.210 | Wazir] He may be desperate for somebody to listen to his story.
-[u2364 | 03:15:07.050-03:15:08.130 | Kaleho] And he wrote.
-[u2365 | 03:15:09.090-03:15:09.540 | Wazir] and
-[u2366 | 03:15:09.660-03:15:11.040 | Trok] And that's an interesting point.
-[u2367 | 03:15:11.490-03:15:17.550 | Wazir] we're urgently willing to try to get rid of this thing that has cursed.
-[u2368 | 03:15:18.390-03:15:19.020 | Wazir] or he might.
-[u2369 | 03:15:19.890-03:15:20.610 | Wazir] attack us.
-[u2370 | 03:15:21.840-03:15:24.600 | Kaleho] Would somebody be willing to talk.
-[u2371 | 03:15:26.070-03:15:32.730 | Kaleho] If we are hidden in disperse would somebody be willing to try to talk with him, first, and if that fails.
-[u2372 | 03:15:34.500-03:15:36.360 | Kaleho] We use violence to subdue him.
-[u2373 | 03:15:38.550-03:15:46.230 | Trok] Maybe there are a few steps in between, I do think one person approaching him first makes sense than the rest might come out.
-[u2374 | 03:15:48.210-03:15:51.960 | Ryu] Well, the other thing I think, to consider too is if he is.
-[u2375 | 03:15:52.320-03:16:04.320 | Ryu] possessed by a cursed knife that's somehow controlling him, and you know a lot of the actions that may seem to various may not be at this well, including summoning the water.
-[u2376 | 03:16:04.320-03:16:07.350 | Ryu] elemental killing you know, whatever.
-[u2377 | 03:16:08.280-03:16:09.000 | Ryu] You so.
-[u2378 | 03:16:09.030-03:16:10.230 | Kaleho] hill a rabid dog.
-[u2379 | 03:16:14.040-03:16:15.030 | Wazir] You are for a piece.
-[u2380 | 03:16:16.770-03:16:18.030 | Ryu] Wazir, who is this guy.
-[u2381 | 03:16:19.650-03:16:20.130 | Ryu] yeah.
-[u2382 | 03:16:23.070-03:16:23.430 | Ryu] haha.
-[u2383 | 03:16:25.710-03:16:29.430 | Ryu] I don't know I would prefer not to start a fight in town.
-[u2384 | 03:16:30.960-03:16:31.500 | Trok] Naturally.
-[u2385 | 03:16:33.060-03:16:35.580 | Wazir] yeah I agree, unless there is some.
-[u2386 | 03:16:38.250-03:16:39.480 | Wazir] In West there is some need.
-[u2387 | 03:16:41.550-03:16:44.310 | Ryu] What about we try one of us.
-[u2388 | 03:16:45.570-03:16:48.240 | Ryu] tries to have a conversation with them.
-[u2389 | 03:16:49.410-03:16:51.390 | Ryu] learn more see if we can.
-[u2390 | 03:16:53.880-03:16:57.240 | Ryu] Let them know that, where we have we have similar interests.
-[u2391 | 03:16:58.410-03:16:59.970 | Ryu] And we don't.
-[u2392 | 03:17:01.020-03:17:01.440 | Ryu] We don't.
-[u2393 | 03:17:03.750-03:17:07.200 | Ryu] You know, create a scene, the conversation doesn't go well, we let them go.
-[u2394 | 03:17:08.250-03:17:09.240 | Ryu] All a blue tail them.
-[u2395 | 03:17:10.470-03:17:13.740 | Ryu] follow them to wherever he is going presumably out of town.
-[u2396 | 03:17:14.520-03:17:17.490 | Trok] I definitely think we should we should follow him whether he's going yeah.
-[u2397 | 03:17:17.610-03:17:18.900 | Kaleho] What happens if.
-[u2398 | 03:17:19.230-03:17:24.690 | Kaleho] His boat is faster than blue can fly i've seen the boat we've both seen it it moves.
-[u2399 | 03:17:26.160-03:17:26.940 | Ryu] Oh, the phantom boat.
-[u2400 | 03:17:27.570-03:17:28.350 | Ryu] The law.
-[u2401 | 03:17:28.410-03:17:31.470 | Kaleho] If if he is traveling via that boat.
-[u2402 | 03:17:32.160-03:17:34.320 | Kaleho] yeah once he's on the boat I don't know if we can.
-[u2403 | 03:17:35.490-03:17:36.300 | Kaleho] Keep up with them.
-[u2404 | 03:17:38.100-03:17:38.580 | Wazir] agreed.
-[u2405 | 03:17:39.660-03:17:40.890 | Ryu] Well, we don't think on the boat.
-[u2406 | 03:17:41.400-03:17:50.850 | Ryu] Then the rest of us need a method he should that then if he's at start the shark on the rest of us with we can find them if we can front end we can find them there before that, before the boat.
-[u2407 | 03:17:52.500-03:18:03.480 | Kaleho] So one person will try to talk with him, I can be nearby in case you need additional assistance at that first point of contact.
-[u2408 | 03:18:04.710-03:18:09.480 | Kaleho] If we decide if that doesn't immediately cause an issue.
-[u2409 | 03:18:11.190-03:18:14.820 | Kaleho] I can tell him back to the doctor everybody else's wedding.
-[u2410 | 03:18:15.870-03:18:16.260 | Kaleho] He has a.
-[u2411 | 03:18:17.580-03:18:21.120 | Kaleho] He has a chance to communicate with us, and we have a chance to evaluate him.
-[u2412 | 03:18:22.470-03:18:24.150 | Kaleho] But he can get on the boat I.
-[u2413 | 03:18:28.110-03:18:33.240 | Trok] met a game it's not worth time planning for contingencies and D amp D my experience, we should just we're going to do next.
-[u2414 | 03:18:33.300-03:18:33.570 | Unknown] yeah.
-[u2415 | 03:18:36.750-03:18:46.320 | DM] Plus, I mean it's been clear the past few days, you know blue can see you know pretty far from the ocean.
-[u2416 | 03:18:48.030-03:18:48.480 | DM] So.
-[u2417 | 03:18:51.390-03:18:52.920 | DM] Okay, so what are you going to do next.
-[u2418 | 03:18:57.150-03:18:58.050 | Ryu] We execute the plan.
-[u2419 | 03:18:58.650-03:18:59.070 | DM] yeah.
-[u2420 | 03:18:59.130-03:19:01.170 | Trok] Okay, so the next morning we wait.
-[u2421 | 03:19:01.410-03:19:03.780 | Wazir] hold on i'm just tweaking my spouse for a moment.
-[u2422 | 03:19:06.480-03:19:08.700 | Wazir] i'm just trying to decide if it's worth having like.
-[u2423 | 03:19:14.370-03:19:16.080 | DM] Who is so.
-[u2424 | 03:19:18.180-03:19:22.110 | DM] Okay, can I was hiding or wait yes.
-[u2425 | 03:19:22.320-03:19:24.150 | Kaleho] Yes, kayla will be hiding.
-[u2426 | 03:19:25.800-03:19:29.850 | Kaleho] near where I assume you will be the one holding the conversation.
-[u2427 | 03:19:30.990-03:19:33.840 | Ryu] I don't know, maybe you should be with zero.
-[u2428 | 03:19:34.350-03:19:35.070 | Kaleho] or zero.
-[u2429 | 03:19:36.870-03:19:37.290 | Ryu] C.
-[u2430 | 03:19:38.940-03:19:41.430 | Wazir] Wazir can be the one that having the conversation.
-[u2431 | 03:19:42.300-03:19:42.990 | Kaleho] So i'll be out.
-[u2432 | 03:19:44.100-03:19:45.990 | Wazir] With zero in Armor is a little intimidating.
-[u2433 | 03:19:48.570-03:19:49.020 | Wazir] That might be.
-[u2434 | 03:19:49.920-03:19:50.550 | Ryu] It can be real.
-[u2435 | 03:19:52.830-03:19:57.150 | Trok] I mean we may need to intimidate and we shouldn't at first.
-[u2436 | 03:20:02.550-03:20:12.630 | DM] Okay, so anybody who's hiding, so this is the next morning y'all prepared rested ready to go um anybody who's hiding make a stuff.
-[u2437 | 03:20:14.220-03:20:15.090 | Wazir] thing.
-[u2438 | 03:20:20.130-03:20:22.410 | Unknown] Oh i'm just finishing my spell tweak here.
-[u2439 | 03:20:27.000-03:20:32.910 | Ryu] yeah but i've got blue making big circles looking for any kind of ships coming into harbor.
-[u2440 | 03:20:33.450-03:20:37.230 | DM] Okay, so early I assume you're up fairly early for.
-[u2441 | 03:20:37.230-03:20:49.410 | DM] The plan like early in the morning i'm kind of I mean that you know there's there's the leg morning rush like the pre dawn rush as a bunch of the i'm.
-[u2442 | 03:20:50.520-03:21:00.030 | DM] a bunch of the fishing boats go out early and then like around dawn just after dawn there's always a bit of a law and in this.
-[u2443 | 03:21:01.170-03:21:02.820 | DM] Just post on la.
+[u2740 | 03:39:29.460-03:39:38.220 | DM] yeah sorry hold on let's go away, I have to use my iPad for encounters because otherwise my computer overheats.
+[u2741 | 03:39:39.900-03:39:54.090 | Ryu] i'll just i'll just realizing Eric you're you're you're like 3D your machine learning generated thing like they need to like couple that with like a 3D render 3D printer so you can like print out into physical objects like weird things.
+[u2742 | 03:39:54.750-03:39:55.260 | Unknown] In.
+[u2743 | 03:39:57.210-03:39:57.900 | DM] So.
+[u2744 | 03:39:59.070-03:40:02.010 | DM] He turns as he sees you.
+[u2745 | 03:40:03.240-03:40:13.800 | DM] You know, prepare like you know you gotta grab your spear and like go to swing at him like he sees you going to attack and he says ah.
+[u2746 | 03:40:16.380-03:40:17.310 | DM] What is he gonna do.
+[u2747 | 03:40:18.600-03:40:20.460 | DM] So many choices.
+[u2748 | 03:40:23.430-03:40:24.510 | DM] He will.
+[u2749 | 03:40:31.680-03:40:31.890 | Unknown] get it.
+[u2750 | 03:40:37.440-03:40:42.780 | DM] Okay, he just wants to escape at this point so first thing he is going to do.
+[u2751 | 03:40:47.730-03:40:48.690 | DM] Is.
+[u2752 | 03:40:57.840-03:41:03.090 | DM] He is going to these like little spouts of water are going to.
+[u2753 | 03:41:05.040-03:41:10.080 | DM] Like like little whirlwind surround him and he begins to float up into the sky.
+[u2754 | 03:41:11.670-03:41:13.980 | DM] You will get an opportunity attack.
+[u2755 | 03:41:18.300-03:41:24.450 | DM] He rises actually you know what that is useless he's not going to do that sorry guys.
+[u2756 | 03:41:25.830-03:41:28.350 | DM] I should have planned out his escape route, a little better.
+[u2757 | 03:41:30.600-03:41:33.480 | DM] he's just going to do the easy thing, and he is going to.
+[u2758 | 03:41:35.100-03:41:43.620 | DM] cast a hold that he's gonna he's gonna point and he's gonna say i'm gonna stop you.
+[u2759 | 03:41:45.030-03:41:47.370 | DM] And erupting.
+[u2760 | 03:41:49.710-03:41:51.330 | DM] From the ground.
+[u2761 | 03:41:53.160-03:41:54.360 | DM] surrounding.
+[u2762 | 03:41:55.500-03:41:57.660 | DM] You and the dock.
+[u2763 | 03:41:58.710-03:41:59.220 | DM] Are.
+[u2764 | 03:42:00.480-03:42:01.590 | DM] An enormous.
+[u2765 | 03:42:02.940-03:42:04.170 | DM] square of.
+[u2766 | 03:42:05.220-03:42:08.250 | DM] Black tentacles that.
+[u2767 | 03:42:08.850-03:42:09.450 | Unknown] Stop.
+[u2768 | 03:42:14.100-03:42:15.090 | Unknown] The four by four.
+[u2769 | 03:42:16.350-03:42:18.510 | DM] And you need to make a.
+[u2770 | 03:42:22.170-03:42:27.570 | DM] Well, actually you don't you don't need to do anything at the moment and then he's going to turn to run.
+[u2771 | 03:42:29.100-03:42:34.260 | DM] towards the boat, so one thing you do in the attack yep.
+[u2772 | 03:42:34.920-03:42:35.160 | Unknown] Good.
+[u2773 | 03:42:36.330-03:42:37.890 | Ryu] So I tried to hit him with my spear.
+[u2774 | 03:42:40.740-03:42:41.610 | Trok] wow.
+[u2775 | 03:42:41.640-03:42:42.810 | DM] dad hats.
+[u2776 | 03:42:49.800-03:42:52.260 | DM] So he doesn't need to make concentration chat.
+[u2777 | 03:42:54.150-03:42:55.350 | Ryu] You can't concentrate through his.
+[u2778 | 03:42:55.350-03:42:56.040 | Ryu] spirit yeah.
+[u2779 | 03:42:56.700-03:42:57.900 | DM] He succeeds.
+[u2780 | 03:43:03.000-03:43:04.290 | Ryu] Before taking 12 damage.
+[u2781 | 03:43:06.450-03:43:08.640 | DM] Yes, he takes 12 damage.
+[u2782 | 03:43:10.860-03:43:21.660 | DM] And then he will run to so that was 123456 jump into the boat.
+[u2783 | 03:43:21.720-03:43:24.870 | Wazir] whoa whoa whoa whoa i'm going to attack him.
+[u2784 | 03:43:25.260-03:43:25.650 | Unknown] Okay.
+[u2785 | 03:43:26.730-03:43:30.420 | Wazir] that'll break your invisalign now but i'd rather see if I can.
+[u2786 | 03:43:30.720-03:43:33.000 | Wazir] Let me just think do I have anything.
+[u2787 | 03:43:33.450-03:43:34.020 | Ryu] wrong because he.
+[u2788 | 03:43:34.380-03:43:36.030 | Trok] Because he went right by you Zoe.
+[u2789 | 03:43:36.960-03:43:37.620 | Unknown] yeah.
+[u2790 | 03:43:38.700-03:43:44.700 | Wazir] um I grapple him that's actually a good question can you grapple as a.
+[u2791 | 03:43:47.460-03:43:49.080 | DM] As an attack of opportunity now.
+[u2792 | 03:43:50.130-03:43:50.640 | DM] um.
+[u2793 | 03:43:52.980-03:43:55.410 | DM] yeah I guess you could yeah maybe you could try.
+[u2794 | 03:43:55.680-03:44:02.460 | Wazir] I mean i'm terrible at grappling so i'm not sure it's worth it, I have a minus 1am I grappled i'm just gonna i'm just gonna attack him.
+[u2795 | 03:44:02.970-03:44:03.330 | Unknown] Okay.
+[u2796 | 03:44:05.910-03:44:08.610 | Wazir] And I have advantage okay.
+[u2797 | 03:44:09.060-03:44:09.600 | Wazir] But I don't.
+[u2798 | 03:44:11.700-03:44:13.290 | DM] The that hits.
+[u2799 | 03:44:16.890-03:44:18.030 | DM] How much damage does that do.
+[u2800 | 03:44:18.810-03:44:20.640 | Wazir] takes 500 damage.
+[u2801 | 03:44:23.100-03:44:26.280 | Wazir] And he has disadvantage and attack rules, other than me.
+[u2802 | 03:44:27.570-03:44:27.990 | DM] Okay.
+[u2803 | 03:44:28.500-03:44:30.270 | Wazir] till the start of my next turn so.
+[u2804 | 03:44:30.750-03:44:34.590 | DM] Okay well that's good that he's jumped in his boat that's going to end his turn Trok Europe.
+[u2805 | 03:44:35.670-03:44:38.430 | Trok] um I will.
+[u2806 | 03:44:40.950-03:44:41.280 | Trok] say.
+[u2807 | 03:44:41.730-03:44:44.640 | Wazir] That does he asked them to do you make us Constitution check yeah.
+[u2808 | 03:44:45.810-03:44:47.880 | Trok] Can I use my tattoo of water thing.
+[u2809 | 03:44:50.580-03:44:50.970 | DM] yeah but.
+[u2810 | 03:44:51.150-03:44:56.670 | Trok] When a creature, you can see, instead of that 30 feet, you can use your reaction to force the creature, to make us wisdom saving through.
+[u2811 | 03:44:57.930-03:44:58.830 | Trok] So basically.
+[u2812 | 03:45:02.100-03:45:03.120 | Trok] To incapacity.
+[u2813 | 03:45:05.400-03:45:20.460 | Trok] um so I like raise my i'm in the water treading water and I raised my forearm which has a tattoo of a yule wrapped around it.
+[u2814 | 03:45:21.930-03:45:23.340 | Trok] It glows briefly.
+[u2815 | 03:45:26.820-03:45:27.750 | Trok] directed at him.
+[u2816 | 03:45:28.800-03:45:29.220 | DM] Okay.
+[u2817 | 03:45:32.490-03:45:33.540 | Trok] tattoo of water.
+[u2818 | 03:45:38.130-03:45:40.020 | DM] Okay, so you need to make a wisdom safe.
+[u2819 | 03:45:41.310-03:45:41.640 | Trok] yeah.
+[u2820 | 03:45:46.620-03:45:47.340 | DM] that's a.
+[u2821 | 03:45:49.410-03:45:50.190 | DM] what's your.
+[u2822 | 03:45:53.160-03:45:53.580 | DM] um.
+[u2823 | 03:45:53.910-03:46:00.900 | Trok] It says DC 14 so sorry succeeds damn to I also get an action or was that an action.
+[u2824 | 03:46:01.110-03:46:03.180 | DM] I think that's a reaction right.
+[u2825 | 03:46:03.840-03:46:04.560 | Trok] yeah what does that mean.
+[u2826 | 03:46:05.070-03:46:13.950 | DM] So that means a reaction is something you take in response to a trigger so like an opportunity of attack is an opportunity attack as a reaction so you still get your whole turn.
+[u2827 | 03:46:14.490-03:46:16.290 | Trok] Okay it's like he ran.
+[u2828 | 03:46:16.530-03:46:16.800 | Trok] up and.
+[u2829 | 03:46:17.580-03:46:19.740 | Trok] tried to incapacitate him in that way.
+[u2830 | 03:46:20.520-03:46:20.700 | Unknown] Right.
+[u2831 | 03:46:22.830-03:46:24.420 | Trok] i'm gonna jump on the boat and grappling.
+[u2832 | 03:46:25.230-03:46:26.010 | Wazir] Okay, oh.
+[u2833 | 03:46:27.960-03:46:30.210 | Wazir] Okay, can we see this other creature.
+[u2834 | 03:46:31.410-03:46:38.490 | DM] Yes, you can see, it now standing up in the boat, this is a dead body of something of a human.
+[u2835 | 03:46:38.790-03:46:40.320 | DM] That like dripping water.
+[u2836 | 03:46:40.830-03:46:44.550 | DM] From from its mouth and from its pores and ears and.
+[u2837 | 03:46:47.340-03:46:47.940 | Trok] Actually.
+[u2838 | 03:46:48.600-03:46:53.880 | Trok] You know what i'm gonna do i'm gonna like grab the edge of the boat without bodily pulling myself.
+[u2839 | 03:46:54.300-03:46:59.670 | Trok] into it, I can try to pull him into the water with me so it's a kind of grapple attack I guess.
+[u2840 | 03:47:00.210-03:47:00.600 | DM] Okay.
+[u2841 | 03:47:00.870-03:47:02.820 | DM] yeah I got maker grapple.
+[u2842 | 03:47:03.930-03:47:05.640 | Trok] How do I do that.
+[u2843 | 03:47:05.850-03:47:06.780 | DM] athletics jack.
+[u2844 | 03:47:07.980-03:47:09.180 | Trok] athletics, you say.
+[u2845 | 03:47:09.810-03:47:11.010 | Unknown] yeah.
+[u2846 | 03:47:12.960-03:47:14.910 | Wazir] This is why you grapple instead of me.
+[u2847 | 03:47:16.320-03:47:16.740 | Ryu] Oh, I should.
+[u2848 | 03:47:16.920-03:47:17.400 | Ryu] have told him.
+[u2849 | 03:47:17.820-03:47:19.170 | DM] yeah he is grappled.
+[u2850 | 03:47:21.600-03:47:22.500 | DM] move next to him.
+[u2851 | 03:47:23.040-03:47:23.340 | Unknown] Oh yeah.
+[u2852 | 03:47:25.980-03:47:29.520 | DM] cool so that's, how can you not move your.
+[u2853 | 03:47:31.320-03:47:32.430 | DM] should be able to move them.
+[u2854 | 03:47:33.480-03:47:34.560 | Trok] I can select it.
+[u2855 | 03:47:35.070-03:47:36.690 | DM] now wait wait wait, I know.
+[u2856 | 03:47:36.810-03:47:37.980 | DM] I know the issue hold on.
+[u2857 | 03:47:41.400-03:47:43.920 | DM] I didn't who can control each.
+[u2858 | 03:47:44.550-03:47:46.020 | Wazir] let's try not to kill this guy.
+[u2859 | 03:47:47.430-03:47:48.990 | Ryu] Oh yeah i'm just be able to do that.
+[u2860 | 03:47:49.110-03:47:51.750 | Trok] i'm just gonna hold them underwater for a few minutes, so it doesn't cause.
+[u2861 | 03:47:51.750-03:47:52.290 | Wazir] Apparently it.
+[u2862 | 03:47:53.370-03:47:53.730 | DM] should be.
+[u2863 | 03:47:53.760-03:47:54.960 | DM] able to control your.
+[u2864 | 03:47:56.700-03:47:58.560 | Trok] Thanks OK so i'm going to be right here.
+[u2865 | 03:47:59.730-03:48:01.140 | Trok] And then I want to pull him.
+[u2866 | 03:48:02.430-03:48:02.940 | Trok] You know, so you.
+[u2867 | 03:48:02.970-03:48:05.460 | DM] grapple do so now, you can pull him overboard.
+[u2868 | 03:48:05.850-03:48:06.720 | DM] yep um.
+[u2869 | 03:48:08.250-03:48:09.990 | Wazir] where's the box that he was carrying.
+[u2870 | 03:48:10.590-03:48:12.690 | DM] he's he's now dropped it in the bottom of.
+[u2871 | 03:48:13.500-03:48:13.950 | Unknown] This.
+[u2872 | 03:48:17.040-03:48:23.340 | DM] So, so you can move half speed when you are grappling somebody so you move five feet, so you can now move.
+[u2873 | 03:48:24.720-03:48:27.660 | DM] Another 10 feet, to move them away and drag him.
+[u2874 | 03:48:30.150-03:48:31.710 | Trok] Just like move like to hear.
+[u2875 | 03:48:33.270-03:48:36.240 | DM] Okay, so you get so you move him with you.
+[u2876 | 03:48:37.290-03:48:39.720 | DM] So he's there now in the water.
+[u2877 | 03:48:41.520-03:48:42.360 | Unknown] You saw a second.
+[u2878 | 03:48:44.880-03:48:45.450 | Trok] i'm.
+[u2879 | 03:48:48.510-03:48:52.260 | Trok] Thinking about the Princess bride and I think it is like jog their memory move.
+[u2880 | 03:48:54.510-03:48:56.070 | Trok] Just try to knock them out basically.
+[u2881 | 03:48:56.730-03:48:57.930 | Wazir] good idea yeah just.
+[u2882 | 03:48:59.010-03:48:59.400 | DM] yeah.
+[u2883 | 03:49:01.770-03:49:04.470 | Trok] So that would be an arm fighting style yeah.
+[u2884 | 03:49:05.610-03:49:07.650 | Trok] And i'm strike um.
+[u2885 | 03:49:08.760-03:49:10.200 | Trok] What do I actually click on to do that.
+[u2886 | 03:49:12.960-03:49:13.230 | DM] yeah.
+[u2887 | 03:49:16.560-03:49:17.250 | Ryu] Nice.
+[u2888 | 03:49:17.760-03:49:23.640 | DM] Well, that hits you punch him in the head as you as you punch him.
+[u2889 | 03:49:27.210-03:49:30.030 | DM] He also has a reaction i'm a.
+[u2890 | 03:49:31.470-03:49:38.610 | DM] Like a tendril like this black sort of inky black tentacle like wraps up around him and blocks your punch.
+[u2891 | 03:49:38.850-03:49:40.620 | DM] Oh takes no damage.
+[u2892 | 03:49:42.240-03:49:43.950 | DM] It also doesn't particularly bothered by.
+[u2893 | 03:49:43.950-03:49:44.910 | DM] Being in the water.
+[u2894 | 03:49:45.540-03:49:46.770 | Trok] To make Trok mad.
+[u2895 | 03:49:47.220-03:49:49.800 | Wazir] yeah he probably doesn't care about being in the water that's.
+[u2896 | 03:49:50.640-03:49:51.540 | Unknown] Okay.
+[u2897 | 03:49:54.240-03:49:55.170 | DM] callow you're out.
+[u2898 | 03:49:56.460-03:50:00.300 | Kaleho] Okay, so am I added advantage by being hidden.
+[u2899 | 03:50:01.590-03:50:04.500 | DM] You are currently hidden Yes, you are quite far away, though.
+[u2900 | 03:50:05.220-03:50:07.620 | Kaleho] i'm my I have 120 range right.
+[u2901 | 03:50:07.650-03:50:10.200 | DM] yeah, but you have disadvantage if you're further than 30.
+[u2902 | 03:50:11.580-03:50:13.380 | Kaleho] yeah how far can I move.
+[u2903 | 03:50:14.040-03:50:15.300 | DM] We can move.
+[u2904 | 03:50:15.780-03:50:16.440 | DM] 30 feet.
+[u2905 | 03:50:18.660-03:50:19.410 | Kaleho] So if.
+[u2906 | 03:50:20.160-03:50:26.070 | DM] Although it would be so advantage cancels disadvantage so right now would be a straight role and.
+[u2907 | 03:50:26.100-03:50:26.730 | DM] Try was.
+[u2908 | 03:50:26.790-03:50:28.710 | DM] grappling him so you would be.
+[u2909 | 03:50:29.970-03:50:36.060 | DM] um so you, you would get sneak attack if you attacked him he does have he does have.
+[u2910 | 03:50:36.090-03:50:37.890 | DM] Partial cover from being.
+[u2911 | 03:50:39.060-03:50:44.250 | DM] You know, beneath the lip of the dark hair like you're gonna have AC is going to be higher than normal.
+[u2912 | 03:50:46.230-03:50:47.190 | Kaleho] A.
+[u2913 | 03:50:49.230-03:50:52.170 | Kaleho] candidate and would I get anything by using steady aim.
+[u2914 | 03:50:53.280-03:50:55.740 | DM] know because you already have advantage being hidden.
+[u2915 | 03:50:56.430-03:50:58.710 | Kaleho] got it okay so there's no extra um.
+[u2916 | 03:51:00.180-03:51:03.000 | Kaleho] I will shoot at him.
+[u2917 | 03:51:04.560-03:51:05.340 | Kaleho] So I do.
+[u2918 | 03:51:06.900-03:51:10.350 | Kaleho] hit DC role or I never actually got an alias for.
+[u2919 | 03:51:10.380-03:51:13.290 | DM] That plus yeah that whatever that plus to hit.
+[u2920 | 03:51:13.320-03:51:13.800 | DM] Does click.
+[u2921 | 03:51:13.860-03:51:15.510 | Kaleho] Sorry, I hit the plus seven.
+[u2922 | 03:51:15.840-03:51:16.230 | Unknown] yeah.
+[u2923 | 03:51:21.270-03:51:21.870 | DM] dad.
+[u2924 | 03:51:22.500-03:51:23.760 | DM] Despite the COPs ready.
+[u2925 | 03:51:25.050-03:51:25.830 | Wazir] yep that's.
+[u2926 | 03:51:26.250-03:51:28.380 | DM] that's pretty nasty for around.
+[u2927 | 03:51:28.980-03:51:30.450 | Trok] What is he attacking with.
+[u2928 | 03:51:31.650-03:51:31.950 | Kaleho] Joe.
+[u2929 | 03:51:32.190-03:51:40.050 | DM] Cross a small hand crossbow so role damage your role you that damage and your sneak attack damage twice so.
+[u2930 | 03:51:41.730-03:51:46.350 | DM] That didn't automatically will the crit damage so rolling extra for these for these sex.
+[u2931 | 03:51:47.190-03:51:48.540 | Trok] Extra for me sit.
+[u2932 | 03:51:48.570-03:51:48.990 | Unknown] down.
+[u2933 | 03:51:51.030-03:51:51.660 | Kaleho] and be role good.
+[u2934 | 03:51:52.740-03:51:53.160 | Ryu] role.
+[u2935 | 03:51:53.460-03:51:55.980 | Unknown] 46.
+[u2936 | 03:51:58.800-03:51:59.310 | Ryu] yeah.
+[u2937 | 03:52:00.660-03:52:02.130 | Kaleho] And then do I do my sneak attack.
+[u2938 | 03:52:02.430-03:52:03.240 | DM] That is your sneakers.
+[u2939 | 03:52:03.420-03:52:06.120 | Wazir] That includes St so it's 20 it's.
+[u2940 | 03:52:06.630-03:52:08.370 | Wazir] 3131 damage.
+[u2941 | 03:52:08.400-03:52:08.640 | DM] yeah.
+[u2942 | 03:52:08.730-03:52:12.390 | Ryu] yeah yeahs crazy dude Oh, we should.
+[u2943 | 03:52:12.960-03:52:13.740 | Trok] that's insane.
+[u2944 | 03:52:16.860-03:52:17.460 | Ryu] Okay.
+[u2945 | 03:52:19.710-03:52:23.490 | DM] So okay that you know he's not looking too happy about that.
+[u2946 | 03:52:24.480-03:52:27.270 | Wazir] I thought, a blood that just started at a bad too bad.
+[u2947 | 03:52:28.770-03:52:31.440 | DM] But he succeeds, on his concentration check.
+[u2948 | 03:52:32.100-03:52:33.210 | Unknown] Oh come on.
+[u2949 | 03:52:34.290-03:52:38.910 | DM] it's rolling fairly well ah, that will add your turn.
+[u2950 | 03:52:39.870-03:52:44.190 | Trok] he's kind of doing to you what we did, to all those knowles in the slot Canyon.
+[u2951 | 03:52:47.670-03:52:48.870 | DM] Okay, this.
+[u2952 | 03:52:50.940-03:52:54.480 | DM] is going to move to help two.
+[u2953 | 03:52:57.450-03:52:58.020 | DM] three.
+[u2954 | 03:52:59.190-03:53:00.840 | DM] is going to jump into the water.
+[u2955 | 03:53:01.320-03:53:01.830 | Ryu] over it.
+[u2956 | 03:53:02.790-03:53:08.340 | DM] actually now he can't swim he's not gonna jump in the water 1234 he's gonna go attack Wazir.
+[u2957 | 03:53:11.100-03:53:12.840 | DM] And let's see.
+[u2958 | 03:53:13.140-03:53:14.580 | Wazir] What is this thing i'd undead.
+[u2959 | 03:53:14.580-03:53:16.440 | DM] pitches on debt, it is a.
+[u2960 | 03:53:16.590-03:53:17.460 | DM] It is like a.
+[u2961 | 03:53:19.320-03:53:23.670 | DM] zombie ish creature, but it's like dripping water over everything.
+[u2962 | 03:53:26.340-03:53:40.800 | DM] His first fist attack misses his second fist attack, so he tries to punch you once and and fails second time he reaches forward and, as he grabs you these like tendrils of water just wrap around you i'm.
+[u2963 | 03:53:41.520-03:53:46.590 | DM] grappling you so you're you're not take no damage but you're considered grappled Wazir.
+[u2964 | 03:53:47.400-03:53:47.820 | Unknown] Okay.
+[u2965 | 03:53:49.350-03:53:50.250 | DM] Now it is your turn.
+[u2966 | 03:53:52.440-03:53:56.520 | Wazir] mm hmm I don't like being grappled.
+[u2967 | 03:54:00.900-03:54:04.110 | Wazir] But there's not a huge downside to being grappled.
+[u2968 | 03:54:05.880-03:54:07.230 | Wazir] Because I can still just punch him.
+[u2969 | 03:54:08.970-03:54:09.690 | Unknown] Let me think here.
+[u2970 | 03:54:12.060-03:54:16.200 | Wazir] Do you do you think we probably you probably don't need too much help with the guy who's.
+[u2971 | 03:54:20.250-03:54:21.210 | Wazir] I am.
+[u2972 | 03:54:21.750-03:54:22.530 | Trok] not totally clear.
+[u2973 | 03:54:23.280-03:54:25.290 | Wazir] yeah it's not totally clear, is it.
+[u2974 | 03:54:30.150-03:54:32.280 | Wazir] I am going to.
+[u2975 | 03:54:36.360-03:54:37.500 | Wazir] haze the boat more.
+[u2976 | 03:54:38.940-03:54:39.540 | DM] Ah.
+[u2977 | 03:54:41.370-03:54:43.860 | Wazir] Like is it tied up it's.
+[u2978 | 03:54:44.370-03:54:48.570 | DM] there's like a rope coil but it's not well tied up.
+[u2979 | 03:54:49.080-03:54:54.450 | Wazir] Can I unquiet with a move as part of a move to that account is interacting with an object, as part of a move.
+[u2980 | 03:54:55.770-03:55:00.210 | DM] um well right now, your speed to zero, because your graph.
+[u2981 | 03:55:00.420-03:55:05.400 | Wazir] it's not gonna i'm not gonna be grapples for very long don't worry about the grapple just answer the question.
+[u2982 | 03:55:06.120-03:55:10.830 | DM] um I would say yes, that would be your object interaction.
+[u2983 | 03:55:11.070-03:55:12.330 | Wazir] i'm gonna cast misty staff.
+[u2984 | 03:55:14.310-03:55:16.530 | Wazir] And appear right there.
+[u2985 | 03:55:18.750-03:55:21.000 | Wazir] Man, I am going to.
+[u2986 | 03:55:23.280-03:55:24.750 | Wazir] As part of my move.
+[u2987 | 03:55:25.800-03:55:32.850 | Wazir] I am going to push the boat off untie the boat and basically step back onto the shore.
+[u2988 | 03:55:33.150-03:55:35.400 | Wazir] Know keep pushing the blue.
+[u2989 | 03:55:37.020-03:55:37.320 | Trok] This.
+[u2990 | 03:55:37.380-03:55:41.130 | Trok] Now turns out this whole thing was all just about stealing really awesome book.
+[u2991 | 03:55:41.460-03:55:43.050 | Wazir] Now i'm not stealing the boat.
+[u2992 | 03:55:43.110-03:55:45.090 | Ryu] i'll just i'll just stay on the boat.
+[u2993 | 03:55:45.150-03:55:48.720 | Wazir] Because I want to punch the bad guy with my iron man fists.
+[u2994 | 03:55:48.960-03:55:50.820 | Ryu] Okay alright alright that works.
+[u2995 | 03:55:51.120-03:56:00.960 | Wazir] Just so i'm getting a push the boat i'm going to like jump off the boat as my move and like try and shove, it away from that mean obviously it's not a very strong shelf because it's not my action.
+[u2996 | 03:56:03.930-03:56:04.290 | DM] Guy.
+[u2997 | 03:56:05.430-03:56:05.820 | Ryu] I mean.
+[u2998 | 03:56:07.290-03:56:13.650 | Ryu] If if we want to do that too oh yeah cuz this blue blue gets an action right I forgot to give Lou that blood action.
+[u2999 | 03:56:13.800-03:56:14.160 | Trok] On your.
+[u3000 | 03:56:14.550-03:56:15.180 | DM] On your turn.
+[u3001 | 03:56:16.080-03:56:17.130 | Wazir] shark get away from that.
+[u3002 | 03:56:17.130-03:56:18.330 | Ryu] sort of that's what i'm going to do.
+[u3003 | 03:56:18.570-03:56:20.400 | Wazir] yeah and i'm punching this guy.
+[u3004 | 03:56:22.200-03:56:22.590 | Ryu] You should.
+[u3005 | 03:56:24.480-03:56:24.870 | Trok] Just.
+[u3006 | 03:56:25.200-03:56:26.040 | Wazir] 23 hit.
+[u3007 | 03:56:26.310-03:56:28.020 | Trok] yeah but, like last game yeah.
+[u3008 | 03:56:29.940-03:56:30.450 | Ryu] That was one.
+[u3009 | 03:56:30.750-03:56:32.910 | Ryu] critical role Turks critical role.
+[u3010 | 03:56:33.210-03:56:34.350 | Wazir] And that's going to miss.
+[u3011 | 03:56:34.950-03:56:36.060 | DM] that Mrs yes.
+[u3012 | 03:56:37.980-03:56:41.250 | DM] Okay i'm real make dexterity saving time.
+[u3013 | 03:56:48.720-03:56:51.150 | DM] The tentacles here wrapped around you.
+[u3014 | 03:56:52.440-03:56:54.840 | DM] And you are restrained.
+[u3015 | 03:56:55.890-03:56:56.460 | Trok] Oh man.
+[u3016 | 03:56:57.540-03:57:00.780 | DM] So you can't move and you take.
+[u3017 | 03:57:04.410-03:57:06.750 | DM] You take 15 points of bludgeoning damage.
+[u3018 | 03:57:07.110-03:57:07.680 | Ryu] fucking hell.
+[u3019 | 03:57:08.040-03:57:08.970 | Trok] ooh that's brutal.
+[u3020 | 03:57:09.570-03:57:10.470 | Wazir] yeah it's not great.
+[u3021 | 03:57:12.000-03:57:12.540 | Trok] don't die.
+[u3022 | 03:57:16.830-03:57:17.640 | DM] But it's your turn.
+[u3023 | 03:57:19.110-03:57:20.370 | Ryu] Well, I can't move or do anything right.
+[u3024 | 03:57:20.550-03:57:21.570 | DM] You can throw you can hear.
+[u3025 | 03:57:21.720-03:57:23.490 | DM] You can throw your sphere, but you can't move.
+[u3026 | 03:57:24.060-03:57:26.040 | DM] Oh God disadvantage on attacks.
+[u3027 | 03:57:26.460-03:57:27.000 | Ryu] Who should I throw my.
+[u3028 | 03:57:28.650-03:57:30.180 | Wazir] throat at this water creature.
+[u3029 | 03:57:31.080-03:57:31.560 | Ryu] or i'll throw.
+[u3030 | 03:57:34.980-03:57:35.460 | Ryu] A.
+[u3031 | 03:57:35.940-03:57:37.500 | DM] disadvantage because you're restrained.
+[u3032 | 03:57:37.950-03:57:41.970 | Ryu] Okay, how do I throw it can I, is it what I use it as a melee weapon.
+[u3033 | 03:57:42.180-03:57:43.530 | Ryu] It has the same yeah.
+[u3034 | 03:57:43.590-03:57:44.760 | DM] The same whether you.
+[u3035 | 03:57:48.330-03:57:50.010 | Ryu] Well, I like that role.
+[u3036 | 03:57:50.580-03:57:51.030 | Wazir] yeah but you're.
+[u3037 | 03:57:51.390-03:57:51.780 | DM] Right, you are.
+[u3038 | 03:57:51.810-03:57:53.130 | DM] Disadvantaged sadly.
+[u3039 | 03:57:54.510-03:57:55.140 | Wazir] that's okay.
+[u3040 | 03:57:55.440-03:57:55.710 | Unknown] that's.
+[u3041 | 03:57:56.820-03:57:57.330 | Ryu] Nice.
+[u3042 | 03:57:57.450-03:57:58.290 | Trok] Alright impressive.
+[u3043 | 03:57:59.490-03:58:04.740 | DM] So that's and as it hits this thing it immediately snaps back into your hand.
+[u3044 | 03:58:05.220-03:58:05.760 | Ryu] love that one.
+[u3045 | 03:58:06.210-03:58:06.840 | Wazir] just sit there.
+[u3046 | 03:58:07.950-03:58:09.510 | Ryu] i'll totally out definitely through it again.
+[u3047 | 03:58:12.300-03:58:12.600 | Ryu] nope.
+[u3048 | 03:58:13.710-03:58:13.980 | Ryu] that's not.
+[u3049 | 03:58:14.790-03:58:15.780 | DM] dod Mrs.
+[u3050 | 03:58:15.930-03:58:19.230 | Ryu] All right, i'll stop there um yeah and I will i'll have chirk.
+[u3051 | 03:58:20.940-03:58:21.480 | Ryu] push.
+[u3052 | 03:58:22.440-03:58:25.530 | Wazir] push the button at the line that's now drifting in the water, and just.
+[u3053 | 03:58:25.560-03:58:25.890 | Ryu] slipped.
+[u3054 | 03:58:25.920-03:58:26.670 | DM] off with the boat.
+[u3055 | 03:58:26.910-03:58:29.490 | Wazir] Organic it over to take it over to the beach or something like that.
+[u3056 | 03:58:29.520-03:58:31.950 | DM] yeah Turkey is starting to swim up with God.
+[u3057 | 03:58:32.010-03:58:32.280 | DM] yeah.
+[u3058 | 03:58:32.340-03:58:34.860 | Wazir] Okay, and the thing that we're after is in the boat.
+[u3059 | 03:58:36.270-03:58:36.870 | Wazir] The box.
+[u3060 | 03:58:37.830-03:58:38.310 | Unknown] box.
+[u3061 | 03:58:39.360-03:58:39.900 | Trok] box.
+[u3062 | 03:58:39.960-03:58:41.970 | Wazir] I don't know cuz he probably put the.
+[u3063 | 03:58:42.270-03:58:44.700 | Wazir] knife terrible evil in there.
+[u3064 | 03:58:45.000-03:58:45.300 | Ryu] If.
+[u3065 | 03:58:45.690-03:58:48.780 | Kaleho] We need to put the knife in there, once we get it right.
+[u3066 | 03:58:49.590-03:58:51.960 | DM] Okay, so he is currently grappled by.
+[u3067 | 03:58:55.710-03:58:57.900 | DM] By let's say.
+[u3068 | 03:58:58.140-03:58:58.710 | Ryu] A Trok.
+[u3069 | 03:58:59.130-03:58:59.940 | DM] My Trok.
+[u3070 | 03:59:03.210-03:59:09.480 | DM] He is going to um to turn to you Trok and whisper.
+[u3071 | 03:59:13.410-03:59:15.240 | DM] With that four seater drop the grapple.
+[u3072 | 03:59:18.210-03:59:19.260 | DM] Actually don't know.
+[u3073 | 03:59:23.550-03:59:28.980 | DM] Oh, I forgot actually about all this Oh well, Okay, I totally forgot about.
+[u3074 | 03:59:31.080-03:59:33.120 | DM] about that, but i'll just start it now.
+[u3075 | 03:59:36.000-03:59:36.600 | DM] that's okay.
+[u3076 | 03:59:45.990-03:59:47.070 | DM] Okay um.
+[u3077 | 03:59:48.510-03:59:50.280 | DM] I gotta I just gotta check one thing.
+[u3078 | 04:00:06.120-04:00:09.240 | DM] Okay, so he is going to turn to you and he's going to just whisper.
+[u3079 | 04:00:10.470-04:00:10.920 | DM] This.
+[u3080 | 04:00:12.210-04:00:14.490 | DM] This horrible sound in your ear.
+[u3081 | 04:00:15.690-04:00:16.140 | DM] um.
+[u3082 | 04:00:18.030-04:00:20.280 | DM] And you need to make a wisdom saving throw.
+[u3083 | 04:00:21.390-04:00:21.630 | Trok] Do.
+[u3084 | 04:00:22.920-04:00:23.370 | Trok] list.
+[u3085 | 04:00:27.330-04:00:27.600 | Trok] that's.
+[u3086 | 04:00:27.990-04:00:30.960 | DM] Nice try you take.
+[u3087 | 04:00:34.320-04:00:37.860 | DM] You take seven points of psychic damage.
+[u3088 | 04:00:42.240-04:00:42.750 | DM] Sorry.
+[u3089 | 04:00:43.890-04:00:48.660 | DM] nine points of psychic damage and then, but nothing else happens.
+[u3090 | 04:00:51.510-04:00:53.700 | DM] And then he is going to.
+[u3091 | 04:00:55.260-04:00:56.490 | DM] cause a.
+[u3092 | 04:00:57.840-04:00:59.730 | DM] tend to go to appear.
+[u3093 | 04:01:01.890-04:01:03.270 | DM] Next to Wazir.
+[u3094 | 04:01:05.160-04:01:06.660 | DM] Which is going to.
+[u3095 | 04:01:09.060-04:01:12.030 | DM] miss you as it swings out to a strike you.
+[u3096 | 04:01:15.930-04:01:18.330 | DM] And that wall.
+[u3097 | 04:01:19.770-04:01:21.900 | DM] and his turn.
+[u3098 | 04:01:28.680-04:01:29.310 | Trok] My turn.
+[u3099 | 04:01:31.020-04:01:32.430 | Trok] i'm going to.
+[u3100 | 04:01:34.950-04:01:37.230 | Trok] drag him under the water and rough him up.
+[u3101 | 04:01:41.520-04:01:41.760 | Trok] Would it.
+[u3102 | 04:01:42.420-04:01:43.800 | Trok] Would it help me to get big.
+[u3103 | 04:01:45.660-04:01:46.650 | Trok] Not even matter.
+[u3104 | 04:01:46.950-04:01:48.120 | Ryu] One come out right.
+[u3105 | 04:01:48.570-04:01:53.820 | Kaleho] Like make me, yes, but water doesn't impact and then he can breathe underwater at least be.
+[u3106 | 04:01:53.940-04:01:55.530 | Wazir] We think he probably can breathe under.
+[u3107 | 04:01:55.530-04:01:55.830 | Kaleho] yeah.
+[u3108 | 04:01:55.890-04:01:57.780 | Trok] He can whisper underwater, though.
+[u3109 | 04:01:58.560-04:02:01.500 | Ryu] um okay so cast spells a shit underwater great question.
+[u3110 | 04:02:01.890-04:02:05.370 | DM] He can, but he will he can't um.
+[u3111 | 04:02:06.870-04:02:10.680 | DM] No, I guess, if you can, if you can breathe underwater you can cast your water.
+[u3112 | 04:02:11.910-04:02:13.170 | Trok] Well Trok doesn't know that.
+[u3113 | 04:02:14.970-04:02:21.780 | Trok] he's just like thinking like what would the crocodile do in this situation drag the predator water so that's what we're doing.
+[u3114 | 04:02:22.200-04:02:22.830 | Trok] again.
+[u3115 | 04:02:22.860-04:02:24.960 | DM] I mean you've got him grappled already so.
+[u3116 | 04:02:25.200-04:02:32.220 | Trok] And i'm kind of mad because he just like in some non linguistic way insulted me to my face, so I am going to.
+[u3117 | 04:02:33.630-04:02:37.500 | Trok] Double in size using my primal might tattoo.
+[u3118 | 04:02:38.910-04:02:39.930 | Unknown] Oh, my God, though.
+[u3119 | 04:02:41.460-04:02:47.010 | Trok] The water sort of turns around me as I become a 14 foot tall lizard man.
+[u3120 | 04:02:48.120-04:02:50.850 | Trok] Nice, and then we are.
+[u3121 | 04:02:52.080-04:02:57.060 | Trok] Should we mechanically do the thing, where I go I try to drag him five feet underwater.
+[u3122 | 04:02:57.300-04:03:06.000 | DM] I mean, he you've already gotten grappled so you can pull them, however, you oh yeah I don't I mean there's no good way to do depth, even with.
+[u3123 | 04:03:06.210-04:03:06.840 | Trok] Three really.
+[u3124 | 04:03:07.050-04:03:07.380 | Trok] We really.
+[u3125 | 04:03:07.860-04:03:09.150 | Ryu] aren't you gonna bash him in the head, though.
+[u3126 | 04:03:09.540-04:03:12.690 | Trok] yeah and I get 200 attacks yeah.
+[u3127 | 04:03:13.020-04:03:16.830 | Ryu] Nice there yeah that's what I was waiting to get bashing the head a couple times.
+[u3128 | 04:03:16.920-04:03:18.840 | Trok] And are those both was advantage because he's grappled.
+[u3129 | 04:03:19.710-04:03:22.260 | DM] grapple doesn't give you advantage on alarm tax.
+[u3130 | 04:03:22.440-04:03:24.240 | DM] Okay that's only restrained.
+[u3131 | 04:03:26.520-04:03:30.870 | DM] That hits so as you strike him.
+[u3132 | 04:03:32.340-04:03:37.950 | DM] This like blast of cold erupts out from him and you take.
+[u3133 | 04:03:41.490-04:03:43.350 | DM] 25 points of called damage.
+[u3134 | 04:03:43.560-04:03:44.460 | Unknown] What the House.
+[u3135 | 04:03:46.260-04:03:46.620 | Trok] holy.
+[u3136 | 04:03:47.250-04:03:49.620 | DM] Oil forgot about this before.
+[u3137 | 04:03:50.190-04:03:51.030 | Ryu] forgot about what.
+[u3138 | 04:03:51.870-04:03:53.790 | DM] The Armor of agatha.
+[u3139 | 04:03:56.280-04:03:59.130 | Wazir] warlock he's playing all dolan's tricks.
+[u3140 | 04:04:00.660-04:04:02.640 | Wazir] But how does he still have his Armor back at this.
+[u3141 | 04:04:02.670-04:04:03.180 | DM] Because I.
+[u3142 | 04:04:03.420-04:04:05.700 | DM] completely forgot that it existed.
+[u3143 | 04:04:06.300-04:04:12.660 | DM] So I just started it at its full health because a bunch of people had hit him and not taking any damage from that.
+[u3144 | 04:04:14.160-04:04:17.010 | DM] i'm sorry Trok you get the entire Brent bet.
+[u3145 | 04:04:17.400-04:04:21.540 | Trok] i'm going to use my well okay i'll do my second attack, first of all.
+[u3146 | 04:04:25.770-04:04:27.720 | Trok] Is that just gonna hit me again, but the.
+[u3147 | 04:04:28.200-04:04:31.470 | DM] You take another 25 points have called them.
+[u3148 | 04:04:31.530-04:04:32.190 | Ryu] What the Fuck.
+[u3149 | 04:04:32.850-04:04:34.530 | Trok] shit i'm that zeros me out.
