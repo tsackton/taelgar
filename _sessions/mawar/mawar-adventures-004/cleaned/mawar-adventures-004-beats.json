@@ -12,6 +12,7 @@
       "dateStart": "1747-11-08",
       "dateEnd": null,
       "timeWindow": "morning",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "Opening reunion scene at Ryu's tower before the rumor hook arrives.",
       "dateEvidence": [
@@ -28,6 +29,7 @@
       "dateStart": "1747-11-08",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "The party forms, sails north, and reaches Eskorola to hear the village account.",
       "dateEvidence": [
@@ -44,6 +46,7 @@
       "dateStart": "1747-11-08",
       "dateEnd": "1747-11-09",
       "timeWindow": null,
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "Amaya leads the scouting trip, the party inspects the attack site, then rests overnight before dawn.",
       "dateEvidence": [
@@ -60,6 +63,7 @@
       "dateStart": "1747-11-09",
       "dateEnd": null,
       "timeWindow": "morning",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "A fresh dawn departure leads to scouting, note inspection, and the stealthy canoe approach before contact.",
       "dateEvidence": [
@@ -76,6 +80,7 @@
       "dateStart": "1747-11-09",
       "dateEnd": null,
       "timeWindow": "morning",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "The ambush by steam creatures starts as Nerissa's spell reveals the first attackers in the mist.",
       "dateEvidence": [
@@ -92,6 +97,7 @@
       "dateStart": "1747-11-09",
       "dateEnd": null,
       "timeWindow": "morning",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "A larger fire cultist joins the battle at the tunnel and the fight ends with a shrapnel explosion.",
       "dateEvidence": [
@@ -108,6 +114,7 @@
       "dateStart": "1747-11-09",
       "dateEnd": null,
       "timeWindow": "morning",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "After a short recovery, the party regroups, climbs the mound, and discovers the dragon turtle below.",
       "dateEvidence": [
@@ -124,6 +131,7 @@
       "dateStart": "1747-11-09",
       "dateEnd": null,
       "timeWindow": "morning",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "The second battle opens with the party trying to reach the dragon turtle and loosen the black spear.",
       "dateEvidence": [
@@ -140,6 +148,7 @@
       "dateStart": "1747-11-09",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "Once the spear comes free, the fight shifts to freeing Chaessenth and dropping the mage's control.",
       "dateEvidence": [
@@ -156,6 +165,7 @@
       "dateStart": "1747-11-09",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "The battle gives way to conversation with Chaessenth, new lore, and the return toward Eskorola and Hamri.",
       "dateEvidence": [

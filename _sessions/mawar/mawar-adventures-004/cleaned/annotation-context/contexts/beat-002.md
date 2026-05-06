@@ -79,7 +79,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0319 | 00:27:36.330-00:27:39.300 | Ryu] I would normally want to get my guy truck on here but truck.
 [u0320 | 00:27:40.770-00:27:47.370 | Ryu] he's back in his village, right now, so I don't think he's around and then was yours, the other useful person to talk about this, but he's also not in town.

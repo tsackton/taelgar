@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0001 | 00:00:03.540-00:00:06.060 | Ryu] And just a reminder again, Nerissa.
 [u0002 | 00:00:07.200-00:00:10.740 | Ryu] She was she was a major or like a sorceress.

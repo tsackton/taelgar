@@ -79,7 +79,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u2186 | 03:10:08.730-03:10:11.400 | Ryu] You know, we got to rescue this dragon turtle and get it on our side.
 [u2187 | 03:10:16.230-03:10:16.950 | Ryu] it's gonna be great.

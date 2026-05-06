@@ -15,6 +15,7 @@
     "beat-009",
     "beat-010"
   ],
+  "supplementalSources": [],
   "contexts": [
     {
       "beat": {
@@ -45,6 +46,8 @@
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 4,
         "drStart": "1747-11-08",
         "drEnd": "1747-11-09",
@@ -87,7 +90,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0001",
           "header": "[u0001 | 00:00:03.540-00:00:06.060 | Ryu]",
@@ -1996,7 +1999,8 @@
           "text": "You know, given the amount of time that we have this is like several day thing.",
           "raw": "[u0318 | 00:27:31.260-00:27:35.100 | Ryu] You know, given the amount of time that we have this is like several day thing."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -2032,6 +2036,8 @@
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 4,
         "drStart": "1747-11-08",
         "drEnd": "1747-11-09",
@@ -2074,7 +2080,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0319",
           "header": "[u0319 | 00:27:36.330-00:27:39.300 | Ryu]",
@@ -4061,7 +4067,8 @@
           "text": "sounds like something magical potentially kneeling a lot of this type of shit seven telling you and or.",
           "raw": "[u0649 | 00:59:27.900-00:59:34.140 | Ryu] sounds like something magical potentially kneeling a lot of this type of shit seven telling you and or."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -4097,6 +4104,8 @@
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 4,
         "drStart": "1747-11-08",
         "drEnd": "1747-11-09",
@@ -4139,7 +4148,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0650",
           "header": "[u0650 | 00:59:36.960-00:59:37.500 | Ryu]",
@@ -5868,7 +5877,8 @@
           "text": "So as morning dawn's it's another.",
           "raw": "[u0937 | 01:25:56.430-01:25:58.440 | DM] So as morning dawn's it's another."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -5904,6 +5914,8 @@
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 4,
         "drStart": "1747-11-08",
         "drEnd": "1747-11-09",
@@ -5946,7 +5958,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0938",
           "header": "[u0938 | 01:26:01.800-01:26:21.060 | DM]",
@@ -8659,7 +8671,8 @@
           "text": "sure.",
           "raw": "[u1389 | 02:08:26.640-02:08:27.000 | Nerissa] sure."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -8695,6 +8708,8 @@
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 4,
         "drStart": "1747-11-08",
         "drEnd": "1747-11-09",
@@ -8737,7 +8752,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1390",
           "header": "[u1390 | 02:08:27.840-02:08:35.550 | DM]",
@@ -9776,7 +9791,8 @@
           "text": "From the nasty nasty creatures okay this one's dad.",
           "raw": "[u1562 | 02:22:13.830-02:22:17.520 | DM] From the nasty nasty creatures okay this one's dad."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -9812,6 +9828,8 @@
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 4,
         "drStart": "1747-11-08",
         "drEnd": "1747-11-09",
@@ -9854,7 +9872,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1563",
           "header": "[u1563 | 02:22:18.570-02:22:20.760 | DM]",
@@ -12657,7 +12675,8 @@
           "text": "And and Nerissa you take 13 points of piercing damage as you managed to dodge partially out of the way.",
           "raw": "[u2029 | 02:56:33.720-02:56:42.990 | DM] And and Nerissa you take 13 points of piercing damage as you managed to dodge partially out of the way."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -12693,6 +12712,8 @@
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 4,
         "drStart": "1747-11-08",
         "drEnd": "1747-11-09",
@@ -12735,7 +12756,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u2030",
           "header": "[u2030 | 02:56:52.050-02:56:52.380 | Ander]",
@@ -13672,7 +13693,8 @@
           "text": "Ah yeah let's have let's have initiative, let me draw I didn't manage to make a bath with this, let me draw this out.",
           "raw": "[u2185 | 03:09:57.030-03:10:03.270 | DM] Ah yeah let's have let's have initiative, let me draw I didn't manage to make a bath with this, let me draw this out."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -13708,6 +13730,8 @@
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 4,
         "drStart": "1747-11-08",
         "drEnd": "1747-11-09",
@@ -13750,7 +13774,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u2186",
           "header": "[u2186 | 03:10:08.730-03:10:11.400 | Ryu]",
@@ -15431,7 +15455,8 @@
           "text": "Okay, so I still years adele you're still on the back of the turtle right.",
           "raw": "[u2465 | 03:30:55.500-03:31:00.570 | DM] Okay, so I still years adele you're still on the back of the turtle right."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -15467,6 +15492,8 @@
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 4,
         "drStart": "1747-11-08",
         "drEnd": "1747-11-09",
@@ -15509,7 +15536,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u2466",
           "header": "[u2466 | 03:31:02.610-03:31:03.120 | Ryu]",
@@ -18204,7 +18231,8 @@
           "text": "its neck, and that it just like turns and immediately swims over to let's the body burns comes over to wake up in the USA, like not just you generally like.",
           "raw": "[u2914 | 04:01:41.730-04:01:52.890 | DM] its neck, and that it just like turns and immediately swims over to let's the body burns comes over to wake up in the USA, like not just you generally like."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -18235,6 +18263,8 @@
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 4,
         "drStart": "1747-11-08",
         "drEnd": "1747-11-09",
@@ -18277,7 +18307,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u2915",
           "header": "[u2915 | 04:01:53.400-04:01:54.060 | Ryu]",
@@ -19946,7 +19976,8 @@
           "text": "wow.",
           "raw": "[u3192 | 04:24:50.880-04:24:51.930 | Ryu] wow."
         }
-      ]
+      ],
+      "supplementalSources": []
     }
   ]
 }

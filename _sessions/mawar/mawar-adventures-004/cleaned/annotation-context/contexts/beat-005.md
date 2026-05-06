@@ -79,7 +79,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1390 | 02:08:27.840-02:08:35.550 | DM] Okay, so as you begin this haunting melody begins to spin out from the boat.
 [u1391 | 02:08:37.920-02:08:39.450 | DM] I need you all to roll initiative.
