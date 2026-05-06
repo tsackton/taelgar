@@ -79,7 +79,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1563 | 02:22:18.570-02:22:20.760 | DM] This one is going to fly back.
 [u1564 | 02:22:21.780-02:22:28.080 | DM] 123456 So you can see it come back and range.

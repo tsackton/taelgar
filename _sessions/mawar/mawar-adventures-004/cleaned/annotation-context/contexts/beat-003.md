@@ -79,7 +79,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0650 | 00:59:36.960-00:59:37.500 | Ryu] um.
 [u0651 | 00:59:39.990-00:59:49.590 | Ryu] yeah Itzal, who can see the body? I might be able to learn something from it and same thing by investigating the location of the attack, maybe I can learn a little bit more about what we're up against.

@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u2915 | 04:01:53.400-04:01:54.060 | Ryu] Oh, my.
 [u2916 | 04:01:54.090-04:01:57.030 | Ryu] Are you alive oh my God.

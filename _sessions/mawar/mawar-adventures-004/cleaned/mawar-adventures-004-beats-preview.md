@@ -1,6 +1,6 @@
 # Beats Preview
 
-- Source transcript: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-source-cleaned.md
+- Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-source-cleaned.md
 - Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-session.yaml
 - Beat count: 10
 
@@ -9,6 +9,7 @@
 - Range: `u0001` → `u0318`
 - Lines: 318
 - Date: 1747-11-08
+- Date Resolution: exact
 - Time Window: morning
 - Combat: no
 - Boundary Reason: Opening reunion scene at Ryu's tower before the rumor hook arrives.
@@ -21,6 +22,7 @@
 - Range: `u0319` → `u0649`
 - Lines: 331
 - Date: 1747-11-08
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: The party forms, sails north, and reaches Eskorola to hear the village account.
@@ -33,6 +35,7 @@
 - Range: `u0650` → `u0937`
 - Lines: 288
 - Date: 1747-11-08 to 1747-11-09
+- Date Resolution: exact
 - Time Window: unknown
 - Combat: no
 - Boundary Reason: Amaya leads the scouting trip, the party inspects the attack site, then rests overnight before dawn.
@@ -45,6 +48,7 @@
 - Range: `u0938` → `u1389`
 - Lines: 452
 - Date: 1747-11-09
+- Date Resolution: exact
 - Time Window: morning
 - Combat: no
 - Boundary Reason: A fresh dawn departure leads to scouting, note inspection, and the stealthy canoe approach before contact.
@@ -57,6 +61,7 @@
 - Range: `u1390` → `u1562`
 - Lines: 173
 - Date: 1747-11-09
+- Date Resolution: exact
 - Time Window: morning
 - Combat: yes
 - Boundary Reason: The ambush by steam creatures starts as Nerissa's spell reveals the first attackers in the mist.
@@ -69,6 +74,7 @@
 - Range: `u1563` → `u2029`
 - Lines: 467
 - Date: 1747-11-09
+- Date Resolution: exact
 - Time Window: morning
 - Combat: yes
 - Boundary Reason: A larger fire cultist joins the battle at the tunnel and the fight ends with a shrapnel explosion.
@@ -81,6 +87,7 @@
 - Range: `u2030` → `u2185`
 - Lines: 156
 - Date: 1747-11-09
+- Date Resolution: exact
 - Time Window: morning
 - Combat: no
 - Boundary Reason: After a short recovery, the party regroups, climbs the mound, and discovers the dragon turtle below.
@@ -93,6 +100,7 @@
 - Range: `u2186` → `u2465`
 - Lines: 280
 - Date: 1747-11-09
+- Date Resolution: exact
 - Time Window: morning
 - Combat: yes
 - Boundary Reason: The second battle opens with the party trying to reach the dragon turtle and loosen the black spear.
@@ -105,6 +113,7 @@
 - Range: `u2466` → `u2914`
 - Lines: 449
 - Date: 1747-11-09
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: yes
 - Boundary Reason: Once the spear comes free, the fight shifts to freeing Chaessenth and dropping the mage's control.
@@ -117,6 +126,7 @@
 - Range: `u2915` → `u3192`
 - Lines: 278
 - Date: 1747-11-09
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: The battle gives way to conversation with Chaessenth, new lore, and the return toward Eskorola and Hamri.

@@ -1,6 +1,6 @@
 # Beat Context Index
 
-- Source transcript: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-source-cleaned.md
+- Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-source-cleaned.md
 - Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-session.yaml
 - Beats file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-beats.json
 - Selected beats: 10

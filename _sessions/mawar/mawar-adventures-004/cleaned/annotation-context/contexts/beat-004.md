@@ -79,7 +79,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0938 | 01:26:01.800-01:26:21.060 | DM] Great day rain threatening the clouds hanging low or the horizon occasional sort of morning the morning mists blowing off from the ocean and making everything look almost ghostly um as you get up at the you know the break of dawn in the chill.
 [u0939 | 01:26:22.980-01:26:25.320 | DM] Have a quick breakfast before setting off.
