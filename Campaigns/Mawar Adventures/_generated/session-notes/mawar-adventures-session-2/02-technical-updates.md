@@ -1,0 +1,61 @@
+---
+excludePublish: ["all"]
+sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml"
+---
+
+# Technical Updates
+
+<!-- SLOT: updates.whereabouts.party -->
+- Candidate party whereabouts: (DR:: 1747-08-09), morning: party ends at [[Hamri]].
+<!-- /SLOT -->
+
+<!-- SLOT: updates.whereabouts.locations -->
+- [[Hamri]]: visited on 1747-08-03 to 1747-08-09.
+<!-- /SLOT -->
+
+<!-- SLOT: updates.whereabouts.npcs -->
+- [[Benat]]: candidate whereabouts update from (DR:: 1747-08-09), morning -> [[Hamri]].
+  - Whereabouts line: `- {type: away, start: 1747-08-04, location: Hamri}`
+- [[Azar the Lost]]: candidate whereabouts update from (DR:: 1747-08-09), morning -> [[Hamri]].
+  - Whereabouts line: `- {type: away, start: 1747-08-05 to 1747-08-09, location: Hamri}`
+<!-- /SLOT -->
+
+<!-- SLOT: updates.timeline -->
+- (DR:: 1747-08-03), evening: [[Wazir]] presents the decoded [[The Ciphered Scroll]] to [[Ryu]], [[Trok]], and [[Kaleho]] at the [[Leviathan Inn]] in [[Hamri]].
+- (DR:: 1747-08-04), morning: The party searches [[Airion]]'s tower and traces its recent occupant through [[Hamri]]'s informants.
+- (DR:: 1747-08-04), afternoon: The party talks to [[Benat]], [[Ovina]], and Sulfi's household searching for more leads.
+- (DR:: 1747-08-04), evening: The party consults [[Yaz]], an old ocean-watcher, before resting for the evening.
+- (DR:: 1747-08-05), morning: The party confronts Azar on Shark's Dock, defeating him in a tense fight after he refuses to parley.
+- (DR:: 1747-08-05), morning: After the fight, the party stabilizes Azar and contains the dockside chaos.
+- (DR:: 1747-08-05), afternoon: The party hears [[Azar's Tale|Azar's full tale]].
+- (DR:: 1747-08-05), evening: The Splinters expedition clears Azar's lair and recovers his remaining evidence.
+- (DR:: 1747-08-06), morning: [[Wazir]] identifies the recovered knife and brass bowl.
+- (DR:: 1747-08-09), morning: [[Azar the Lost]] leaves [[Hamri]] with [[Benat]] for the [[Lizardfolk|lizardfolk]] village.
+<!-- /SLOT -->
+
+<!-- SLOT: updates.items -->
+- none
+<!-- /SLOT -->
+
+<!-- SLOT: updates.review -->
+- Sulfi's servant: no matching note found in the vault index
+- drowned servant: no matching note found in the vault index
+- townsfolk bystander: no matching note found in the vault index
+- drowned zombies: no matching note found in the vault index
+- Nadine: no matching note found in the vault index
+- Mendin: no matching note found in the vault index
+- recent tower occupant: no matching note found in the vault index
+- haggard old man: no matching note found in the vault index
+- Ring of Water Walking: no matching note found in the vault index
+- Cloak of the Manta Ray: no matching note found in the vault index
+- lead-lined box: no matching note found in the vault index
+- gold ring with sapphires: no matching note found in the vault index
+- phantom boat: no matching note found in the vault index
+- healing spirit: no matching note found in the vault index
+- Eldritch Maul tattoo: no matching note found in the vault index
+- Airion's notes: no matching note found in the vault index
+- brass bowl: no matching note found in the vault index
+- scattered coins: no matching note found in the vault index
+- Airion's ring: no matching note found in the vault index
+- lead: no matching note found in the vault index
+<!-- /SLOT -->

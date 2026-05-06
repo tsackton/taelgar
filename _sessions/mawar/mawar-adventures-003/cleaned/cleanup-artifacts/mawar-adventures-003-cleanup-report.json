@@ -1,15 +1,2976 @@
 {
   "summary": {
-    "changedLineCount": 0,
-    "replacementCount": 0,
-    "repeatedReplacementCount": 0,
-    "topReplacements": [],
+    "changedLineCount": 457,
+    "replacementCount": 397,
+    "repeatedReplacementCount": 45,
+    "topReplacements": [
+      {
+        "from": "truck",
+        "to": "Trok",
+        "count": 69,
+        "headers": [
+          "[u0009 | 00:00:30.450-00:00:34.500 | DM]",
+          "[u0014 | 00:00:56.550-00:01:08.970 | DM]",
+          "[u0022 | 00:01:50.370-00:01:54.030 | Trok]",
+          "[u0036 | 00:02:56.700-00:03:02.100 | DM]",
+          "[u0071 | 00:06:25.530-00:06:39.870 | DM]",
+          "[u0117 | 00:10:40.320-00:10:42.180 | Trok]",
+          "[u0128 | 00:11:29.790-00:11:31.230 | Trok]",
+          "[u0131 | 00:11:53.880-00:11:54.750 | Trok]",
+          "[u0152 | 00:14:06.330-00:14:09.930 | Trok]",
+          "[u0210 | 00:18:46.140-00:18:49.680 | DM]",
+          "[u0367 | 00:29:59.850-00:30:00.450 | Ryu]",
+          "[u0733 | 01:00:17.460-01:00:27.330 | DM]",
+          "[u0777 | 01:04:21.300-01:04:25.530 | DM]",
+          "[u0780 | 01:04:37.140-01:04:37.620 | DM]",
+          "[u0782 | 01:04:51.090-01:04:52.620 | DM]",
+          "[u0987 | 01:24:36.420-01:24:38.370 | Kaleho]",
+          "[u1002 | 01:25:53.550-01:25:55.380 | DM]",
+          "[u1060 | 01:31:22.440-01:31:25.110 | DM]",
+          "[u1072 | 01:32:19.740-01:32:29.190 | DM]",
+          "[u1089 | 01:33:58.770-01:34:02.070 | DM]",
+          "[u1097 | 01:34:43.680-01:34:48.930 | Kaleho]",
+          "[u1104 | 01:35:17.700-01:35:23.610 | DM]",
+          "[u1116 | 01:36:18.360-01:36:21.090 | DM]",
+          "[u1140 | 01:38:36.600-01:38:41.580 | DM]",
+          "[u1219 | 01:43:23.910-01:43:32.850 | Nerissa]",
+          "[u1234 | 01:44:35.130-01:44:45.000 | DM]",
+          "[u1257 | 01:47:37.650-01:47:42.780 | DM]",
+          "[u1279 | 01:48:57.030-01:48:59.520 | DM]",
+          "[u1280 | 01:49:01.110-01:49:03.900 | DM]",
+          "[u1301 | 01:51:10.680-01:51:13.710 | DM]",
+          "[u1307 | 01:51:36.180-01:51:41.040 | Kaleho]",
+          "[u1321 | 01:52:37.920-01:52:39.960 | DM]",
+          "[u1322 | 01:52:44.550-01:52:45.570 | DM]",
+          "[u1391 | 01:57:38.940-01:57:42.810 | DM]",
+          "[u1392 | 01:57:44.820-01:57:46.980 | Trok]",
+          "[u1397 | 01:58:09.630-01:58:16.470 | Trok]",
+          "[u1432 | 02:00:19.500-02:00:29.760 | DM]",
+          "[u1443 | 02:01:11.790-02:01:14.400 | Nerissa]",
+          "[u1524 | 02:06:48.060-02:06:49.020 | DM]",
+          "[u1540 | 02:07:42.780-02:07:48.600 | DM]",
+          "[u1604 | 02:12:38.760-02:12:45.420 | DM]",
+          "[u1644 | 02:15:20.880-02:15:31.770 | DM]",
+          "[u1783 | 02:25:05.340-02:25:10.080 | DM]",
+          "[u1784 | 02:25:13.410-02:25:15.540 | Trok]",
+          "[u1829 | 02:27:55.140-02:27:59.370 | DM]",
+          "[u1830 | 02:28:06.570-02:28:12.390 | DM]",
+          "[u1832 | 02:28:17.790-02:28:24.510 | DM]",
+          "[u1846 | 02:30:04.920-02:30:13.020 | DM]",
+          "[u1948 | 02:37:23.640-02:37:27.390 | DM]",
+          "[u1955 | 02:37:45.000-02:37:47.310 | Ryu]",
+          "[u1997 | 02:41:02.460-02:41:04.770 | Ryu]",
+          "[u2042 | 02:44:20.370-02:44:21.990 | DM]",
+          "[u2078 | 02:47:10.560-02:47:25.530 | Kaleho]",
+          "[u2251 | 02:58:46.140-02:58:59.880 | DM]",
+          "[u2522 | 03:20:06.480-03:20:09.840 | Nerissa]",
+          "[u2573 | 03:23:21.360-03:23:22.260 | DM]",
+          "[u2578 | 03:23:35.490-03:23:40.410 | DM]",
+          "[u2587 | 03:24:17.100-03:24:19.620 | DM]",
+          "[u2588 | 03:24:21.780-03:24:24.690 | DM]",
+          "[u2669 | 03:30:19.860-03:30:21.510 | Ryu]",
+          "[u2814 | 03:39:40.950-03:39:42.060 | DM]",
+          "[u2871 | 03:43:05.940-03:43:13.050 | Kaleho]",
+          "[u3105 | 03:58:36.690-03:58:38.070 | Ryu]",
+          "[u3279 | 04:08:19.470-04:08:21.180 | DM]",
+          "[u3280 | 04:08:23.310-04:08:25.710 | DM]",
+          "[u3321 | 04:10:39.690-04:10:53.880 | Ryu]",
+          "[u3323 | 04:11:00.120-04:11:02.760 | DM]"
+        ]
+      },
+      {
+        "from": "blue",
+        "to": "Blu",
+        "count": 18,
+        "headers": [
+          "[u0711 | 00:57:48.840-00:57:54.420 | Trok]",
+          "[u0829 | 01:09:25.740-01:09:27.570 | DM]",
+          "[u1536 | 02:07:22.320-02:07:25.560 | DM]",
+          "[u1537 | 02:07:28.560-02:07:29.310 | Ryu]",
+          "[u1541 | 02:07:49.140-02:07:52.620 | Ryu]",
+          "[u1554 | 02:08:40.260-02:08:49.530 | DM]",
+          "[u1638 | 02:14:56.460-02:14:57.480 | Trok]",
+          "[u1668 | 02:16:44.460-02:16:46.920 | Ryu]",
+          "[u1669 | 02:16:47.490-02:16:50.250 | DM]",
+          "[u1672 | 02:17:08.070-02:17:11.460 | DM]",
+          "[u1776 | 02:24:41.400-02:24:42.870 | DM]",
+          "[u1778 | 02:24:48.510-02:24:51.660 | DM]",
+          "[u2566 | 03:22:47.520-03:22:48.540 | Ryu]",
+          "[u2567 | 03:22:49.470-03:22:51.990 | DM]",
+          "[u2580 | 03:23:44.400-03:23:47.490 | Ryu]",
+          "[u2586 | 03:24:09.480-03:24:14.010 | DM]",
+          "[u3174 | 04:02:13.980-04:02:14.280 | Ryu]",
+          "[u3181 | 04:02:27.660-04:02:29.880 | DM]"
+        ]
+      },
+      {
+        "from": "kayla",
+        "to": "Kaleho",
+        "count": 16,
+        "headers": [
+          "[u0074 | 00:06:51.120-00:06:56.670 | DM]",
+          "[u0368 | 00:30:01.980-00:30:05.550 | DM]",
+          "[u1222 | 01:43:36.630-01:43:40.620 | DM]",
+          "[u1280 | 01:49:01.110-01:49:03.900 | DM]",
+          "[u1318 | 01:52:13.980-01:52:26.670 | DM]",
+          "[u1336 | 01:54:00.870-01:54:11.790 | DM]",
+          "[u1345 | 01:54:38.010-01:54:38.730 | DM]",
+          "[u1499 | 02:04:57.750-02:04:58.830 | DM]",
+          "[u1724 | 02:20:34.170-02:20:35.130 | DM]",
+          "[u2036 | 02:43:59.460-02:44:05.700 | DM]",
+          "[u2058 | 02:45:18.090-02:45:37.950 | DM]",
+          "[u2129 | 02:50:50.040-02:51:04.680 | DM]",
+          "[u3096 | 03:58:01.080-03:58:03.150 | DM]",
+          "[u3173 | 04:02:11.730-04:02:12.870 | DM]",
+          "[u3194 | 04:02:58.830-04:03:03.120 | DM]",
+          "[u3336 | 04:11:33.840-04:11:36.660 | DM]"
+        ]
+      },
+      {
+        "from": "kalo",
+        "to": "Kaleho",
+        "count": 11,
+        "headers": [
+          "[u1082 | 01:33:22.950-01:33:33.570 | DM]",
+          "[u1104 | 01:35:17.700-01:35:23.610 | DM]",
+          "[u1140 | 01:38:36.600-01:38:41.580 | DM]",
+          "[u1229 | 01:44:01.560-01:44:05.940 | DM]",
+          "[u1349 | 01:54:46.830-01:54:48.150 | Kaleho]",
+          "[u1599 | 02:12:07.800-02:12:15.300 | DM]",
+          "[u1710 | 02:19:38.280-02:19:40.800 | DM]",
+          "[u2251 | 02:58:46.140-02:58:59.880 | DM]",
+          "[u2406 | 03:10:03.120-03:10:09.540 | Nerissa]",
+          "[u2537 | 03:20:56.190-03:21:00.810 | Trok]",
+          "[u2548 | 03:21:37.890-03:21:40.380 | Kaleho]"
+        ]
+      },
+      {
+        "from": "marissa",
+        "to": "Nerissa",
+        "count": 11,
+        "headers": [
+          "[u0445 | 00:35:50.310-00:36:03.540 | Nerissa]",
+          "[u0630 | 00:50:50.670-00:50:54.870 | Nerissa]",
+          "[u1063 | 01:31:37.260-01:31:47.460 | DM]",
+          "[u1137 | 01:38:31.440-01:38:33.270 | DM]",
+          "[u1336 | 01:54:00.870-01:54:11.790 | DM]",
+          "[u1359 | 01:55:37.530-01:55:43.710 | DM]",
+          "[u2009 | 02:42:03.090-02:42:18.270 | DM]",
+          "[u2093 | 02:48:32.940-02:48:41.250 | DM]",
+          "[u2251 | 02:58:46.140-02:58:59.880 | DM]",
+          "[u2903 | 03:45:10.650-03:45:12.240 | Ryu]",
+          "[u3784 | 04:44:32.370-04:44:32.940 | Nerissa]"
+        ]
+      },
+      {
+        "from": "review",
+        "to": "Ryu",
+        "count": 8,
+        "headers": [
+          "[u0372 | 00:30:36.300-00:30:50.760 | Ryu]",
+          "[u0447 | 00:36:16.380-00:36:20.460 | Ryu]",
+          "[u1246 | 01:46:26.520-01:46:38.760 | DM]",
+          "[u1604 | 02:12:38.760-02:12:45.420 | DM]",
+          "[u1822 | 02:27:21.480-02:27:26.970 | Ryu]",
+          "[u2515 | 03:19:43.920-03:19:47.250 | Ryu]",
+          "[u2992 | 03:51:10.890-03:51:12.150 | DM]"
+        ]
+      },
+      {
+        "from": "trucks",
+        "to": "Trok ' s",
+        "count": 5,
+        "headers": [
+          "[u1809 | 02:26:42.870-02:26:50.820 | DM]",
+          "[u1814 | 02:27:02.520-02:27:05.130 | DM]",
+          "[u1825 | 02:27:35.490-02:27:39.210 | Trok]",
+          "[u1975 | 02:39:30.990-02:39:33.000 | DM]",
+          "[u2668 | 03:30:16.980-03:30:19.170 | DM]"
+        ]
+      },
+      {
+        "from": "was here",
+        "to": "Wazir",
+        "count": 5,
+        "headers": [
+          "[u0657 | 00:52:45.750-00:52:46.740 | DM]",
+          "[u3655 | 04:34:47.700-04:34:50.310 | DM]",
+          "[u3709 | 04:38:56.100-04:39:00.660 | DM]",
+          "[u3710 | 04:39:02.130-04:39:07.740 | DM]",
+          "[u3721 | 04:39:55.920-04:39:59.880 | DM]"
+        ]
+      },
+      {
+        "from": "real",
+        "to": "Ryu",
+        "count": 4,
+        "headers": [
+          "[u0021 | 00:01:43.410-00:01:45.240 | DM]",
+          "[u0697 | 00:56:52.230-00:56:53.460 | Kaleho]",
+          "[u0698 | 00:56:53.700-00:57:00.120 | Trok]",
+          "[u2251 | 02:58:46.140-02:58:59.880 | DM]"
+        ]
+      },
+      {
+        "from": "Real",
+        "to": "Ryu,",
+        "count": 3,
+        "headers": [
+          "[u1844 | 02:29:59.880-02:30:01.770 | DM]",
+          "[u2723 | 03:33:39.240-03:33:39.990 | DM]",
+          "[u2810 | 03:39:22.380-03:39:25.350 | DM]"
+        ]
+      }
+    ],
     "uniqueUnresolvedPhrases": []
   },
   "lineCount": 3819,
-  "changedLineCount": 0,
+  "changedLineCount": 457,
   "validationErrors": [],
   "unresolvedCount": 0,
   "unresolvedPhrases": [],
-  "changedLines": []
+  "changedLines": [
+    {
+      "header": "[u0005 | 00:00:16.109-00:00:16.650 | Kaleho]",
+      "lineNumber": 5,
+      "originalText": "Hello.",
+      "cleanedText": "Kaleho."
+    },
+    {
+      "header": "[u0006 | 00:00:17.190-00:00:20.730 | DM]",
+      "lineNumber": 6,
+      "originalText": "hello, how is back in town, for you know.",
+      "cleanedText": "Kaleho is back in town, for you know."
+    },
+    {
+      "header": "[u0009 | 00:00:30.450-00:00:34.500 | DM]",
+      "lineNumber": 9,
+      "originalText": "Rio and truck the past time you are here.",
+      "cleanedText": "Ryu and Trok the last time you are here."
+    },
+    {
+      "header": "[u0014 | 00:00:56.550-00:01:08.970 | DM]",
+      "lineNumber": 14,
+      "originalText": "ran into truck after you had been in town for a day or something and made plans to you know, have a have an evening meal on his at his beach shack.",
+      "cleanedText": "you ran into Trok after you had been in town for a day or something and made plans to you know, have a have an evening meal on his at his beach shack."
+    },
+    {
+      "header": "[u0015 | 00:01:11.790-00:01:14.010 | DM]",
+      "lineNumber": 15,
+      "originalText": "or where do you live, where does truck lives in.",
+      "cleanedText": "or where do you live, where does Trok live."
+    },
+    {
+      "header": "[u0021 | 00:01:43.410-00:01:45.240 | DM]",
+      "lineNumber": 21,
+      "originalText": "yeah real has a tower.",
+      "cleanedText": "yeah Ryu has a tower."
+    },
+    {
+      "header": "[u0022 | 00:01:50.370-00:01:54.030 | Trok]",
+      "lineNumber": 22,
+      "originalText": "So then we'll say truck lives in a shack on the beach.",
+      "cleanedText": "So then we'll say Trok lives in a shack on the beach."
+    },
+    {
+      "header": "[u0026 | 00:01:59.310-00:02:06.480 | DM]",
+      "lineNumber": 26,
+      "originalText": "I mean, whatever wherever you want to live it's just doesn't matter it's just wherever callow meets up with you.",
+      "cleanedText": "I mean, whatever wherever you want to live it's just doesn't matter it's just wherever Kaleho meets up with you."
+    },
+    {
+      "header": "[u0030 | 00:02:23.430-00:02:30.150 | DM]",
+      "lineNumber": 30,
+      "originalText": "So so let's let's say I was going to just remind you all, what harm Maria has like and then.",
+      "cleanedText": "So so let's let's say I was going to just remind you all, what Hamri is like and then."
+    },
+    {
+      "header": "[u0031 | 00:02:31.590-00:02:40.890 | DM]",
+      "lineNumber": 31,
+      "originalText": "Maybe YouTube can briefly describe your characters as well do well have to describe your characters again when you meet case character, but i'm.",
+      "cleanedText": "Maybe you two can briefly describe your characters as well do well have to describe your characters again when you meet Kate's character, but i'm."
+    },
+    {
+      "header": "[u0036 | 00:02:56.700-00:03:02.100 | DM]",
+      "lineNumber": 36,
+      "originalText": "You kelo head out of town to meet your friend truck from.",
+      "cleanedText": "You, Kaleho, head out of town to meet your friend Trok from."
+    },
+    {
+      "header": "[u0038 | 00:03:09.990-00:03:13.620 | DM]",
+      "lineNumber": 38,
+      "originalText": "you're reminded of the town of hungry itself.",
+      "cleanedText": "you're reminded of the town of Hamri itself."
+    },
+    {
+      "header": "[u0040 | 00:03:19.500-00:03:24.300 | DM]",
+      "lineNumber": 40,
+      "originalText": "Occasionally storm battered western coast of the my walk all peninsula.",
+      "cleanedText": "Occasionally storm battered western coast of the Mawakel Peninsula."
+    },
+    {
+      "header": "[u0042 | 00:03:28.170-00:03:31.020 | DM]",
+      "lineNumber": 42,
+      "originalText": "pendants let South densely for us did.",
+      "cleanedText": "peninsula, south densely forested."
+    },
+    {
+      "header": "[u0044 | 00:03:33.450-00:03:37.860 | DM]",
+      "lineNumber": 44,
+      "originalText": "Mostly inhabited just along the coasts and harmony, is one of the.",
+      "cleanedText": "Mostly inhabited just along the coasts, and Hamri is one of the."
+    },
+    {
+      "header": "[u0047 | 00:03:53.580-00:04:05.760 | DM]",
+      "lineNumber": 47,
+      "originalText": "The town itself is is sort of split into three levels so there's the wooden and stone docs that extend out over the mud flats and the title.",
+      "cleanedText": "The town itself is is sort of split into three levels so there's the wooden and stone docks that extend out over the mud flats and the tidal."
+    },
+    {
+      "header": "[u0049 | 00:04:08.310-00:04:10.080 | DM]",
+      "lineNumber": 49,
+      "originalText": "outflow of the Mer Mer river.",
+      "cleanedText": "outflow of the Mirmir river."
+    },
+    {
+      "header": "[u0051 | 00:04:15.480-00:04:19.440 | DM]",
+      "lineNumber": 51,
+      "originalText": "Was ears in the Leviathan, where you may have spent a night or two.",
+      "cleanedText": "Wazir's in the Leviathan, where you may have spent a night or two."
+    },
+    {
+      "header": "[u0054 | 00:04:29.070-00:04:34.230 | DM]",
+      "lineNumber": 54,
+      "originalText": "But there's also the drawn flats, which are you know much less you know.",
+      "cleanedText": "But there's also the Drowned Flats, which are you know much less you know."
+    },
+    {
+      "header": "[u0059 | 00:04:58.830-00:05:06.060 | DM]",
+      "lineNumber": 59,
+      "originalText": "including some of the nicest houses in town on that that carved plateau glitter cliff.",
+      "cleanedText": "including some of the nicest houses in town on that that carved plateau Glittercliff."
+    },
+    {
+      "header": "[u0067 | 00:05:43.140-00:05:49.260 | DM]",
+      "lineNumber": 67,
+      "originalText": "The place where the citizens of Hungary have watched the ocean for generations.",
+      "cleanedText": "The place where the citizens of Hamri have watched the ocean for generations."
+    },
+    {
+      "header": "[u0069 | 00:06:01.350-00:06:09.540 | DM]",
+      "lineNumber": 69,
+      "originalText": "The influence of the mauer confederacy has shrunk somewhat from their golden age 100 years ago now.",
+      "cleanedText": "The influence of the Mawar Confederacy has shrunk somewhat from their golden age 100 years ago now."
+    },
+    {
+      "header": "[u0070 | 00:06:11.190-00:06:22.770 | DM]",
+      "lineNumber": 70,
+      "originalText": "And so many of these towers have been abandoned and the northern part the northern coast of this of this Bay in which hungry nestled is mostly.",
+      "cleanedText": "And so many of these towers have been abandoned and the northern part the northern coast of this of this bay in which Hamri is nestled is mostly."
+    },
+    {
+      "header": "[u0071 | 00:06:25.530-00:06:39.870 | DM]",
+      "lineNumber": 71,
+      "originalText": "mostly not is the sort of place where everybody who wants to be outside the sort of watch of the town itself goes to live and so that says, where you find trunk so maybe Eric you could describe truck.",
+      "cleanedText": "mostly now is the sort of place where everybody who wants to be outside the sort of watch of the town itself goes to live and so that says, where you find Trok so maybe Eric you could describe Trok."
+    },
+    {
+      "header": "[u0074 | 00:06:51.120-00:06:56.670 | DM]",
+      "lineNumber": 74,
+      "originalText": "As kayla approaches and then you can describe yourself cow.",
+      "cleanedText": "As Kaleho approaches and then you can describe yourself, Kaleho."
+    },
+    {
+      "header": "[u0077 | 00:07:12.450-00:07:16.680 | DM]",
+      "lineNumber": 77,
+      "originalText": "was a basically a warlock have some undersea.",
+      "cleanedText": "was a basically a warlock of some undersea."
+    },
+    {
+      "header": "[u0085 | 00:07:43.590-00:07:47.880 | DM]",
+      "lineNumber": 85,
+      "originalText": "sample or a piece of this sentence ocean and been using it to create.",
+      "cleanedText": "sample or a piece of this Sentient Ocean and been using it to create."
+    },
+    {
+      "header": "[u0087 | 00:07:56.460-00:08:02.280 | DM]",
+      "lineNumber": 87,
+      "originalText": "Right turn them back into these drowned monsters, because he believed that this would let him.",
+      "cleanedText": "trying to turn them back into these drowned monsters, because he believed that this would let him."
+    },
+    {
+      "header": "[u0088 | 00:08:03.300-00:08:07.380 | DM]",
+      "lineNumber": 88,
+      "originalText": "resurrected so wrecked his wife yeah dark.",
+      "cleanedText": "resurrect his wife yeah dark."
+    },
+    {
+      "header": "[u0089 | 00:08:08.430-00:08:12.390 | Kaleho]",
+      "lineNumber": 89,
+      "originalText": "Falling the notebook have a much more ancient and powerful.",
+      "cleanedText": "Following the notebook have a much more ancient and powerful."
+    },
+    {
+      "header": "[u0093 | 00:08:24.180-00:08:27.540 | DM]",
+      "lineNumber": 93,
+      "originalText": "A much older wizard who studied out, you know who has.",
+      "cleanedText": "A much older wizard who studied, you know, you know who has."
+    },
+    {
+      "header": "[u0094 | 00:08:29.250-00:08:34.440 | DM]",
+      "lineNumber": 94,
+      "originalText": "studied disorder was fascinated by the elemental planes named area in the midst speaker.",
+      "cleanedText": "studied this order was fascinated by the elemental planes named Airion the Mistspeaker."
+    },
+    {
+      "header": "[u0096 | 00:08:43.020-00:08:49.230 | DM]",
+      "lineNumber": 96,
+      "originalText": "bases across not just the milwaukee peninsula, but this whole sort of region of the North.",
+      "cleanedText": "bases across not just the Mawakel Peninsula, but this whole sort of region of the North."
+    },
+    {
+      "header": "[u0101 | 00:09:14.460-00:09:16.860 | DM]",
+      "lineNumber": 101,
+      "originalText": "Bad at who has the lizard folk.",
+      "cleanedText": "Benat who has the lizard folk."
+    },
+    {
+      "header": "[u0104 | 00:09:29.460-00:09:31.170 | DM]",
+      "lineNumber": 104,
+      "originalText": "As a are the the.",
+      "cleanedText": "Azar the the."
+    },
+    {
+      "header": "[u0109 | 00:09:51.900-00:10:06.270 | DM]",
+      "lineNumber": 109,
+      "originalText": "To the lizard folk village where he was going to like rest and he and you had whether you follow through on this or not, as up to you, but you had promised that out, that you would write a letter to your family.",
+      "cleanedText": "To the lizard folk village where he was going to like rest and he and you had whether you follow through on this or not, is up to you, but you had promised Azar that you would write a letter to your family."
+    },
+    {
+      "header": "[u0117 | 00:10:40.320-00:10:42.180 | Trok]",
+      "lineNumber": 117,
+      "originalText": "truck would be in because nothing's.",
+      "cleanedText": "Trok would be in because nothing's."
+    },
+    {
+      "header": "[u0121 | 00:10:47.970-00:10:49.500 | Kaleho]",
+      "lineNumber": 121,
+      "originalText": "fashion truck has some.",
+      "cleanedText": "I imagine Trok has some."
+    },
+    {
+      "header": "[u0123 | 00:10:52.500-00:11:05.100 | Trok]",
+      "lineNumber": 123,
+      "originalText": "yeah well the god says, the primary one and he truck definitely went on a multi day gots a bender following the sort of like come down from the high of the whole of the events of.",
+      "cleanedText": "yeah well the gatza is the primary one and Trok definitely went on a multi day gatza bender following the sort of like come down from the high of the whole of the events of."
+    },
+    {
+      "header": "[u0128 | 00:11:29.790-00:11:31.230 | Trok]",
+      "lineNumber": 128,
+      "originalText": "yeah and truck has.",
+      "cleanedText": "yeah and Trok has."
+    },
+    {
+      "header": "[u0131 | 00:11:53.880-00:11:54.750 | Trok]",
+      "lineNumber": 131,
+      "originalText": "truck is a.",
+      "cleanedText": "Trok is a."
+    },
+    {
+      "header": "[u0139 | 00:12:38.520-00:12:42.360 | Trok]",
+      "lineNumber": 139,
+      "originalText": "Always trucks outward calm demeanor hides a.",
+      "cleanedText": "Trok's outward calm demeanor hides a."
+    },
+    {
+      "header": "[u0147 | 00:13:19.920-00:13:32.040 | Kaleho]",
+      "lineNumber": 147,
+      "originalText": "But he has a look in his eyes not quite unlike the look of an addict but his addiction has been traveling and trying to understand more folk and other mysteries.",
+      "cleanedText": "But he has a look in his eyes not quite unlike the look of an addict but his addiction has been traveling and trying to understand merfolk and other mysteries."
+    },
+    {
+      "header": "[u0149 | 00:13:34.290-00:13:45.210 | Kaleho]",
+      "lineNumber": 149,
+      "originalText": "So he's hunting a high, like many people in this area, but as high as this, the search for what he doesn't know these these mysteries these things he sees at the edge of his vision.",
+      "cleanedText": "So he's hunting a high, like many people in this area, but his high is this, the search for what he doesn't know these these mysteries these things he sees at the edge of his vision."
+    },
+    {
+      "header": "[u0150 | 00:13:47.430-00:13:58.770 | Kaleho]",
+      "lineNumber": 150,
+      "originalText": "But despite his addiction he's still a capable begley intimidating person as he walks in not unfriendly to you because he knows you, though, but.",
+      "cleanedText": "But despite his addiction he's still a capable vaguely intimidating person as he walks in not unfriendly to you because he knows you, though, but."
+    },
+    {
+      "header": "[u0152 | 00:14:06.330-00:14:09.930 | Trok]",
+      "lineNumber": 152,
+      "originalText": "truck greets you wordlessly inviting you.",
+      "cleanedText": "Trok greets you wordlessly inviting you."
+    },
+    {
+      "header": "[u0153 | 00:14:11.400-00:14:17.100 | Trok]",
+      "lineNumber": 153,
+      "originalText": "into crouch by the smoldering coals and enjoy seafoods do.",
+      "cleanedText": "into crouch by the smoldering coals and enjoy seafood stew."
+    },
+    {
+      "header": "[u0155 | 00:14:19.590-00:14:27.780 | Kaleho]",
+      "lineNumber": 155,
+      "originalText": "coho looks around the food smells good he's less impressed with the the shack.",
+      "cleanedText": "Kaleho looks around the food smells good he's less impressed with the the shack."
+    },
+    {
+      "header": "[u0157 | 00:14:29.430-00:14:36.240 | Kaleho]",
+      "lineNumber": 157,
+      "originalText": "To the core, but he welcomes warm food and fellowship so he he sits down and ask how have you been.",
+      "cleanedText": "To be sure, but he welcomes warm food and fellowship so he he sits down and ask how have you been."
+    },
+    {
+      "header": "[u0164 | 00:15:00.510-00:15:04.890 | Trok]",
+      "lineNumber": 164,
+      "originalText": "are always spirals out it to this or that confusion or resentment.",
+      "cleanedText": "it always spirals out it to this or that confusion or resentment."
+    },
+    {
+      "header": "[u0170 | 00:15:27.570-00:15:36.750 | Trok]",
+      "lineNumber": 170,
+      "originalText": "Oh, like all creatures, we very you know some very gregarious live in folks now me.",
+      "cleanedText": "Oh, like all creatures, we vary you know some very gregarious lizardfolk, not me."
+    },
+    {
+      "header": "[u0172 | 00:15:44.820-00:15:45.870 | Kaleho]",
+      "lineNumber": 172,
+      "originalText": "looks around the shower.",
+      "cleanedText": "looks around the shack."
+    },
+    {
+      "header": "[u0178 | 00:16:15.990-00:16:20.730 | Kaleho]",
+      "lineNumber": 178,
+      "originalText": "England and my eyes, do you find do you see Mirko.",
+      "cleanedText": "Kaleho narrows his eyes, do you find, do you see merfolk."
+    },
+    {
+      "header": "[u0179 | 00:16:22.980-00:16:25.650 | Kaleho]",
+      "lineNumber": 179,
+      "originalText": "Well, are there, what they leave.",
+      "cleanedText": "Well, are there, where they live."
+    },
+    {
+      "header": "[u0181 | 00:16:32.310-00:16:39.000 | Kaleho]",
+      "lineNumber": 181,
+      "originalText": "kind of a glace luck, I was co host things about how close he got what he saw and smelt and.",
+      "cleanedText": "kind of a glassy look, as Kaleho thinks about how close he got what he saw and smelled and."
+    },
+    {
+      "header": "[u0184 | 00:16:46.200-00:16:48.210 | Trok]",
+      "lineNumber": 184,
+      "originalText": "folks from the see why is that.",
+      "cleanedText": "folks from the sea why is that."
+    },
+    {
+      "header": "[u0188 | 00:17:00.390-00:17:03.990 | Kaleho]",
+      "lineNumber": 188,
+      "originalText": "Go laughs as the lunches on the very delicious and fresh seafood.",
+      "cleanedText": "Kaleho laughs as he munches on the very delicious and fresh seafood."
+    },
+    {
+      "header": "[u0194 | 00:17:38.640-00:17:47.430 | DM]",
+      "lineNumber": 194,
+      "originalText": "kind of leans in this is Arden truck one of your friends who also lives on this beach, and he says hey croc.",
+      "cleanedText": "kind of leans in this is Orden, Trok, one of your friends who also lives on this beach, and he says hey Trok."
+    },
+    {
+      "header": "[u0196 | 00:17:55.710-00:17:57.180 | Trok]",
+      "lineNumber": 196,
+      "originalText": "or Colin have some stew.",
+      "cleanedText": "Orden have some stew."
+    },
+    {
+      "header": "[u0200 | 00:18:10.020-00:18:10.260 | Trok]",
+      "lineNumber": 200,
+      "originalText": "today.",
+      "cleanedText": "Kaleho."
+    },
+    {
+      "header": "[u0202 | 00:18:14.670-00:18:15.750 | Kaleho]",
+      "lineNumber": 202,
+      "originalText": "Hello grunts.",
+      "cleanedText": "Kaleho grunts."
+    },
+    {
+      "header": "[u0210 | 00:18:46.140-00:18:49.680 | DM]",
+      "lineNumber": 210,
+      "originalText": "I don't know if i've told you this truck but.",
+      "cleanedText": "I don't know if i've told you this Trok but."
+    },
+    {
+      "header": "[u0212 | 00:18:59.790-00:19:02.610 | DM]",
+      "lineNumber": 212,
+      "originalText": "my daughter hi Asa.",
+      "cleanedText": "my daughter Hiyasa."
+    },
+    {
+      "header": "[u0226 | 00:19:57.150-00:19:59.730 | DM]",
+      "lineNumber": 226,
+      "originalText": "said you bad back in a few days, but it's been.",
+      "cleanedText": "said she'd be back in a few days, but it's been."
+    },
+    {
+      "header": "[u0235 | 00:20:36.690-00:20:37.620 | Trok]",
+      "lineNumber": 235,
+      "originalText": "Let up a bowl.",
+      "cleanedText": "ladle up a bowl."
+    },
+    {
+      "header": "[u0241 | 00:21:04.500-00:21:05.670 | Kaleho]",
+      "lineNumber": 241,
+      "originalText": "A Burma river.",
+      "cleanedText": "Up Mirmir River."
+    },
+    {
+      "header": "[u0248 | 00:21:28.500-00:21:30.120 | DM]",
+      "lineNumber": 248,
+      "originalText": "I think she was running from travel.",
+      "cleanedText": "I think she was running from trouble."
+    },
+    {
+      "header": "[u0250 | 00:21:33.420-00:21:35.910 | Trok]",
+      "lineNumber": 250,
+      "originalText": "What kind of trouble my team gotten into.",
+      "cleanedText": "What kind of trouble might she have gotten into."
+    },
+    {
+      "header": "[u0257 | 00:21:56.370-00:22:00.630 | Trok]",
+      "lineNumber": 257,
+      "originalText": "And we have enough adventure here and hungry to keep you satisfied, I suppose, not.",
+      "cleanedText": "And we have enough adventure here in Hamri to keep you satisfied, I suppose, not."
+    },
+    {
+      "header": "[u0262 | 00:22:15.300-00:22:17.640 | DM]",
+      "lineNumber": 262,
+      "originalText": "In your dad if you try and find her.",
+      "cleanedText": "in your debt if you try and find her."
+    },
+    {
+      "header": "[u0270 | 00:22:48.870-00:22:54.570 | DM]",
+      "lineNumber": 270,
+      "originalText": "mangesh brown hair likes to wear a leather cloak and a hood.",
+      "cleanedText": "mousy brown hair likes to wear a leather cloak and a hood."
+    },
+    {
+      "header": "[u0273 | 00:23:16.980-00:23:23.370 | Trok]",
+      "lineNumber": 273,
+      "originalText": "TIM was the one who is an outcast from my high born family.",
+      "cleanedText": "Orden was the one who is an outcast from my high born family."
+    },
+    {
+      "header": "[u0283 | 00:24:13.200-00:24:25.620 | DM]",
+      "lineNumber": 283,
+      "originalText": "key themes genuinely upset and is like looking for how it's not you don't know him that well and he's a bit sort of monotonic even killed kind of.",
+      "cleanedText": "he seems genuinely upset and is like looking for how it's not you don't know him that well and he's a bit sort of monotonic even-keeled kind of."
+    },
+    {
+      "header": "[u0290 | 00:25:02.130-00:25:07.200 | DM]",
+      "lineNumber": 290,
+      "originalText": "Has daughter was gone for a while and he wants her back or he wants to know what happened to her.",
+      "cleanedText": "His daughter was gone for a while and he wants her back or he wants to know what happened to her."
+    },
+    {
+      "header": "[u0302 | 00:25:43.710-00:25:44.790 | DM]",
+      "lineNumber": 302,
+      "originalText": "ryu can help.",
+      "cleanedText": "Ryu can help."
+    },
+    {
+      "header": "[u0303 | 00:25:45.360-00:25:49.710 | Trok]",
+      "lineNumber": 303,
+      "originalText": "I wish was zero is in town he could just get together an expedition of.",
+      "cleanedText": "I wish Wazir is in town he could just get together an expedition of."
+    },
+    {
+      "header": "[u0305 | 00:25:54.330-00:25:57.390 | DM]",
+      "lineNumber": 305,
+      "originalText": "marks yeah I don't know if they'd.",
+      "cleanedText": "mercs yeah I don't know if they'd."
+    },
+    {
+      "header": "[u0307 | 00:26:08.520-00:26:09.750 | Trok]",
+      "lineNumber": 307,
+      "originalText": "Zero doesn't like you them.",
+      "cleanedText": "Wazir doesn't like you them."
+    },
+    {
+      "header": "[u0321 | 00:26:57.870-00:27:00.000 | Kaleho]",
+      "lineNumber": 321,
+      "originalText": "Do you know word what boat, did you arrive on.",
+      "cleanedText": "Do you know what boat, did you arrive on."
+    },
+    {
+      "header": "[u0329 | 00:27:27.180-00:27:28.620 | DM]",
+      "lineNumber": 329,
+      "originalText": "I guess buried anxious to.",
+      "cleanedText": "I guess buried ancient treasure."
+    },
+    {
+      "header": "[u0331 | 00:27:37.590-00:27:39.840 | Kaleho]",
+      "lineNumber": 331,
+      "originalText": "It for you late now tomorrow.",
+      "cleanedText": "If too late now, tomorrow."
+    },
+    {
+      "header": "[u0335 | 00:27:54.570-00:27:57.570 | Kaleho]",
+      "lineNumber": 335,
+      "originalText": "to your movie or early in the morning, we can.",
+      "cleanedText": "Tomorrow, maybe, or early in the morning, we can."
+    },
+    {
+      "header": "[u0340 | 00:28:10.500-00:28:11.400 | Trok]",
+      "lineNumber": 340,
+      "originalText": "Oh learning.",
+      "cleanedText": "Oh, Orden."
+    },
+    {
+      "header": "[u0342 | 00:28:18.750-00:28:20.610 | Trok]",
+      "lineNumber": 342,
+      "originalText": "But it's true, we can use reuse help.",
+      "cleanedText": "But it's true, we can use Ryu's help."
+    },
+    {
+      "header": "[u0345 | 00:28:33.120-00:28:35.190 | Trok]",
+      "lineNumber": 345,
+      "originalText": "let's let's find him at first like.",
+      "cleanedText": "let's let's find him at first light."
+    },
+    {
+      "header": "[u0346 | 00:28:36.480-00:28:37.800 | Ryu]",
+      "lineNumber": 346,
+      "originalText": "Real viewer out very soon.",
+      "cleanedText": "Ryu will be out very soon."
+    },
+    {
+      "header": "[u0350 | 00:28:48.180-00:28:49.650 | Trok]",
+      "lineNumber": 350,
+      "originalText": "We spoke some gods and go to sleep.",
+      "cleanedText": "We smoke some gatza and go to sleep."
+    },
+    {
+      "header": "[u0355 | 00:29:02.790-00:29:03.810 | DM]",
+      "lineNumber": 355,
+      "originalText": "To read his tower.",
+      "cleanedText": "to Ryu's tower."
+    },
+    {
+      "header": "[u0363 | 00:29:36.690-00:29:44.610 | DM]",
+      "lineNumber": 363,
+      "originalText": "What are the sentience water and ozzy or the warlock turning people trying to re animate brown bodies.",
+      "cleanedText": "What are the sentient water and Azar the warlock turning people trying to re animate drowned bodies."
+    },
+    {
+      "header": "[u0365 | 00:29:49.890-00:29:55.500 | DM]",
+      "lineNumber": 365,
+      "originalText": "um but now you see i'm kayla was back in town and you see.",
+      "cleanedText": "um but now you see i'm Kaleho is back in town and you see."
+    },
+    {
+      "header": "[u0367 | 00:29:59.850-00:30:00.450 | Ryu]",
+      "lineNumber": 367,
+      "originalText": "truck.",
+      "cleanedText": "Trok."
+    },
+    {
+      "header": "[u0368 | 00:30:01.980-00:30:05.550 | DM]",
+      "lineNumber": 368,
+      "originalText": "And kayla heading up to your tower review.",
+      "cleanedText": "And Kaleho heading up to your tower, Ryu."
+    },
+    {
+      "header": "[u0370 | 00:30:21.180-00:30:26.850 | Ryu]",
+      "lineNumber": 370,
+      "originalText": "You see a blue blue blue what kind of purpose again blue.",
+      "cleanedText": "You see Blu, Blu, Blu, what kind of bird again? Blu."
+    },
+    {
+      "header": "[u0371 | 00:30:27.030-00:30:35.640 | Ryu]",
+      "lineNumber": 371,
+      "originalText": "spray spray kind of either sitting sitting on the top of the power, the Tower like watching you as you come up the stairs and then.",
+      "cleanedText": "osprey kind of either sitting sitting on the top of the tower, the tower like watching you as you come up the stairs and then."
+    },
+    {
+      "header": "[u0372 | 00:30:36.300-00:30:50.760 | Ryu]",
+      "lineNumber": 372,
+      "originalText": "You know review kind of like sticks his head outside the door it's long long long long hair kind of disheveled looking like normally he's in kind of like in like a long top not that you know normally like renounce kind of all the shovel and he's in sort of like a black black robe.",
+      "cleanedText": "You know Ryu kind of like sticks his head outside the door it's long long long long hair kind of disheveled looking like normally he's in kind of like in like a long topknot not that you know normally like Ryu is kind of all disheveled and he's in sort of like a black black robe."
+    },
+    {
+      "header": "[u0382 | 00:31:26.880-00:31:28.740 | Trok]",
+      "lineNumber": 382,
+      "originalText": "Gordon bum.",
+      "cleanedText": "Orden, bum."
+    },
+    {
+      "header": "[u0384 | 00:31:29.970-00:31:32.610 | Trok]",
+      "lineNumber": 384,
+      "originalText": "I mean like to call him above because he, like.",
+      "cleanedText": "I mean like to call him a bum because he, like."
+    },
+    {
+      "header": "[u0392 | 00:31:57.120-00:32:03.600 | Kaleho]",
+      "lineNumber": 392,
+      "originalText": "She left eight days ago believe into supposed to be back a few days ago.",
+      "cleanedText": "She left eight days ago I believe, and was supposed to be back a few days ago."
+    },
+    {
+      "header": "[u0395 | 00:32:10.980-00:32:14.880 | Trok]",
+      "lineNumber": 395,
+      "originalText": "wouldn't sit in particular that that could be a lot of money involved and.",
+      "cleanedText": "wouldn't say in particular that that could be a lot of money involved and."
+    },
+    {
+      "header": "[u0398 | 00:32:22.440-00:32:26.370 | Trok]",
+      "lineNumber": 398,
+      "originalText": "Insurance and i'm not trying to get rich or anything but.",
+      "cleanedText": "Sure, and i'm not trying to get rich or anything but."
+    },
+    {
+      "header": "[u0399 | 00:32:26.730-00:32:31.290 | Ryu]",
+      "lineNumber": 399,
+      "originalText": "there's their godson involved because that's kind of the other primary motivator I can.",
+      "cleanedText": "there's there gatza involved because that's kind of the other primary motivator I can."
+    },
+    {
+      "header": "[u0404 | 00:32:45.510-00:32:47.580 | Trok]",
+      "lineNumber": 404,
+      "originalText": "I know you're nine years.",
+      "cleanedText": "I know you know, years."
+    },
+    {
+      "header": "[u0411 | 00:33:06.390-00:33:14.070 | Trok]",
+      "lineNumber": 411,
+      "originalText": "corpse and tell warden and noble story about how she went i've known Oregon for for many years, as you know, and.",
+      "cleanedText": "corpse and tell Orden and noble story about how she went i've known Orden for for many years, as you know, and."
+    },
+    {
+      "header": "[u0420 | 00:33:35.310-00:33:36.030 | Trok]",
+      "lineNumber": 420,
+      "originalText": "Is a doctor.",
+      "cleanedText": "Is her doctor."
+    },
+    {
+      "header": "[u0427 | 00:34:14.670-00:34:18.780 | Ryu]",
+      "lineNumber": 427,
+      "originalText": "order you know so it's like if you were to have kids you know I mean.",
+      "cleanedText": "Orden you know so it's like if you were to have kids you know I mean."
+    },
+    {
+      "header": "[u0445 | 00:35:50.310-00:36:03.540 | Nerissa]",
+      "lineNumber": 445,
+      "originalText": "been over in this Tower for a while fairly near here and I haven't had a chance to meet anyone in the area, so I saw your gathering and I thought I would come in and introduce myself, my name is marissa.",
+      "cleanedText": "been over in this Tower for a while fairly near here and I haven't had a chance to meet anyone in the area, so I saw your gathering and I thought I would come in and introduce myself, my name is Nerissa."
+    },
+    {
+      "header": "[u0447 | 00:36:16.380-00:36:20.460 | Ryu]",
+      "lineNumber": 447,
+      "originalText": "i'm review the humble caretaker of this slab Iraq.",
+      "cleanedText": "I'm Ryu the humble caretaker of this slab Iraq."
+    },
+    {
+      "header": "[u0448 | 00:36:22.260-00:36:31.470 | Trok]",
+      "lineNumber": 448,
+      "originalText": "i'm i'm truck and I was not informed that there was a a neighborhood tower association forming.",
+      "cleanedText": "I'm Trok and I was not informed that there was a a neighborhood tower association forming."
+    },
+    {
+      "header": "[u0479 | 00:38:13.500-00:38:15.840 | Nerissa]",
+      "lineNumber": 479,
+      "originalText": "In the south, so my wire.",
+      "cleanedText": "In the south, south Mawar."
+    },
+    {
+      "header": "[u0488 | 00:38:40.680-00:38:44.400 | Nerissa]",
+      "lineNumber": 488,
+      "originalText": "yeah you know where the tab where forest.",
+      "cleanedText": "yeah you know where the Tawir Forest."
+    },
+    {
+      "header": "[u0489 | 00:38:46.410-00:38:48.150 | Nerissa]",
+      "lineNumber": 489,
+      "originalText": "By the malakal peninsula.",
+      "cleanedText": "By the Mawakel Peninsula."
+    },
+    {
+      "header": "[u0493 | 00:39:09.540-00:39:12.240 | DM]",
+      "lineNumber": 493,
+      "originalText": "it's no no that's just a map of homfray.",
+      "cleanedText": "it's no no that's just a map of Hamri."
+    },
+    {
+      "header": "[u0494 | 00:39:12.750-00:39:16.080 | Kaleho]",
+      "lineNumber": 494,
+      "originalText": "it's the worst memory on the map is that the one that's right in the Center.",
+      "cleanedText": "it's the Mirmir on the map is that the one that's right in the Center."
+    },
+    {
+      "header": "[u0496 | 00:39:19.770-00:39:21.450 | Trok]",
+      "lineNumber": 496,
+      "originalText": "And so the mere mere river.",
+      "cleanedText": "And so the Mirmir River."
+    },
+    {
+      "header": "[u0513 | 00:40:31.770-00:40:35.280 | Kaleho]",
+      "lineNumber": 513,
+      "originalText": "Hello who's doing the math of one third verse one sports.",
+      "cleanedText": "Kaleho's doing the math of one third verse one sports."
+    },
+    {
+      "header": "[u0515 | 00:40:41.490-00:40:46.560 | Trok]",
+      "lineNumber": 515,
+      "originalText": "kalo there's plenty of shellfish in the mud, as they, as we say um.",
+      "cleanedText": "Kaleho, there's plenty of shellfish in the mud, as they, as we say um."
+    },
+    {
+      "header": "[u0545 | 00:43:46.560-00:43:47.130 | Nerissa]",
+      "lineNumber": 545,
+      "originalText": "USA.",
+      "cleanedText": "Hiyasa."
+    },
+    {
+      "header": "[u0546 | 00:43:47.940-00:43:48.540 | Unknown]",
+      "lineNumber": 546,
+      "originalText": "USA.",
+      "cleanedText": "Hiyasa."
+    },
+    {
+      "header": "[u0551 | 00:44:14.280-00:44:19.470 | Kaleho]",
+      "lineNumber": 551,
+      "originalText": "We drop in to the end with our friend that we all know, who also seems to be plugged in.",
+      "cleanedText": "We drop in to the inn with our friend that we all know, who also seems to be plugged in."
+    },
+    {
+      "header": "[u0554 | 00:44:24.030-00:44:28.950 | DM]",
+      "lineNumber": 554,
+      "originalText": "yeah you can I mean you can drop into Leviathan was there, fortunately, is out of town.",
+      "cleanedText": "yeah you can I mean you can drop into Leviathan. Wazir, fortunately, is out of town."
+    },
+    {
+      "header": "[u0562 | 00:45:01.980-00:45:06.840 | Ryu]",
+      "lineNumber": 562,
+      "originalText": "tavern in general, it was a truck so we're we're just what are we doing, are we tracking anything, are we just like.",
+      "cleanedText": "tavern in general, it was a trek so we're we're just what are we doing, are we tracking anything, are we just like."
+    },
+    {
+      "header": "[u0564 | 00:45:10.470-00:45:15.990 | Trok]",
+      "lineNumber": 564,
+      "originalText": "I wonder if we should try to get order to go with us, because we don't even know really what we're looking for why.",
+      "cleanedText": "I wonder if we should try to get Orden to go with us, because we don't even know really what we're looking for why."
+    },
+    {
+      "header": "[u0568 | 00:45:35.580-00:45:44.100 | DM]",
+      "lineNumber": 568,
+      "originalText": "He has daughter when and vanished he's not like capable of you know if there's, even if this is orange or something he would.",
+      "cleanedText": "His daughter when and vanished he's not like capable of you know if there's, even if this is danger or something he would."
+    },
+    {
+      "header": "[u0571 | 00:45:50.250-00:45:52.170 | Kaleho]",
+      "lineNumber": 571,
+      "originalText": "Thank you, friends, the liability truck.",
+      "cleanedText": "Thank you, friends, the Leviathan, Trok."
+    },
+    {
+      "header": "[u0572 | 00:45:56.880-00:45:59.340 | Trok]",
+      "lineNumber": 572,
+      "originalText": "Was the daughter's name gosh.",
+      "cleanedText": "Was the daughter's name Hiyasa."
+    },
+    {
+      "header": "[u0608 | 00:48:44.160-00:48:53.130 | DM]",
+      "lineNumber": 608,
+      "originalText": "you've seen around before his name's are bellard he's a storyteller and a performer who hangs around the Leviathan, a lot um.",
+      "cleanedText": "you've seen around before his name's Abelard he's a storyteller and a performer who hangs around the Leviathan, a lot um."
+    },
+    {
+      "header": "[u0630 | 00:50:50.670-00:50:54.870 | Nerissa]",
+      "lineNumber": 630,
+      "originalText": "apple does it, how do you do my name is marissa pleasure to meet you.",
+      "cleanedText": "Abelard, how do you do my name is Nerissa pleasure to meet you."
+    },
+    {
+      "header": "[u0646 | 00:51:57.240-00:51:58.830 | DM]",
+      "lineNumber": 646,
+      "originalText": "Ancient tomb up there.",
+      "cleanedText": "an ancient tomb up there."
+    },
+    {
+      "header": "[u0657 | 00:52:45.750-00:52:46.740 | DM]",
+      "lineNumber": 657,
+      "originalText": "was here would.",
+      "cleanedText": "Wazir would."
+    },
+    {
+      "header": "[u0670 | 00:53:37.680-00:53:38.460 | DM]",
+      "lineNumber": 670,
+      "originalText": "yeah it was bizarre.",
+      "cleanedText": "yeah it was Azar."
+    },
+    {
+      "header": "[u0671 | 00:53:38.820-00:53:39.720 | Kaleho]",
+      "lineNumber": 671,
+      "originalText": "bizarre are.",
+      "cleanedText": "Azar."
+    },
+    {
+      "header": "[u0679 | 00:54:32.220-00:54:36.420 | Kaleho]",
+      "lineNumber": 679,
+      "originalText": "nervosa does the stringer bell as our resident historian.",
+      "cleanedText": "Nerissa does the strength or build as our resident historian."
+    },
+    {
+      "header": "[u0680 | 00:54:38.310-00:54:51.060 | Nerissa]",
+      "lineNumber": 680,
+      "originalText": "there's so many different to former cultures on this peninsula that's part of why I came to live here I don't know per se about any particular burial sites up the river.",
+      "cleanedText": "there's so many different to older cultures on this peninsula that's part of why I came to live here I don't know per se about any particular burial sites up the river."
+    },
+    {
+      "header": "[u0697 | 00:56:52.230-00:56:53.460 | Kaleho]",
+      "lineNumber": 697,
+      "originalText": "We pick up real.",
+      "cleanedText": "We pick up Ryu."
+    },
+    {
+      "header": "[u0698 | 00:56:53.700-00:57:00.120 | Trok]",
+      "lineNumber": 698,
+      "originalText": "Soon, as soon as we pick up real yeah he said to go get him in his place right let's head over.",
+      "cleanedText": "Soon, as soon as we pick up Ryu yeah he said to go get him in his place right let's head over."
+    },
+    {
+      "header": "[u0700 | 00:57:06.120-00:57:14.040 | Ryu]",
+      "lineNumber": 700,
+      "originalText": "yeah So you see a review kind of just hanging out on the steps sitting there with spear on his lap looking at you guys.",
+      "cleanedText": "yeah So you see Ryu kind of just hanging out on the steps sitting there with spear on his lap looking at you guys."
+    },
+    {
+      "header": "[u0701 | 00:57:15.330-00:57:19.290 | Ryu]",
+      "lineNumber": 701,
+      "originalText": "And yeah blues already found some tracks so.",
+      "cleanedText": "And yeah Blu's already found some tracks so."
+    },
+    {
+      "header": "[u0711 | 00:57:48.840-00:57:54.420 | Trok]",
+      "lineNumber": 711,
+      "originalText": "Well, maybe we can just hang out here at the Tower wall, while blue makes the rescue that's that's fantastic.",
+      "cleanedText": "Well, maybe we can just hang out here at the Tower wall, while Blu makes the rescue that's that's fantastic."
+    },
+    {
+      "header": "[u0733 | 01:00:17.460-01:00:27.330 | DM]",
+      "lineNumber": 733,
+      "originalText": "Continual trail, that is, you know what the sort of people have Hombre us going back and forth fades, but you can see, you know with with truck and.",
+      "cleanedText": "Continual trail, that is, you know what the sort of people of Hamri going back and forth fades, but you can see, you know with with Trok and."
+    },
+    {
+      "header": "[u0735 | 01:00:35.940-01:00:42.060 | DM]",
+      "lineNumber": 735,
+      "originalText": "What looks like a path made by, I guess, I guess, we use really the expert tracker.",
+      "cleanedText": "What looks like a path made by, I guess, I guess, Ryu is really the expert tracker."
+    },
+    {
+      "header": "[u0736 | 01:00:45.870-01:00:53.160 | DM]",
+      "lineNumber": 736,
+      "originalText": "Where the real his experience and with you know blues aid helping and things like that um you know somebody clearly.",
+      "cleanedText": "With Ryu's experience and with you know Blu's aid helping and things like that um you know somebody clearly."
+    },
+    {
+      "header": "[u0777 | 01:04:21.300-01:04:25.530 | DM]",
+      "lineNumber": 777,
+      "originalText": "But as you shake truck awake around midnight.",
+      "cleanedText": "But as you shake Trok awake around midnight."
+    },
+    {
+      "header": "[u0780 | 01:04:37.140-01:04:37.620 | DM]",
+      "lineNumber": 780,
+      "originalText": "truck.",
+      "cleanedText": "Trok."
+    },
+    {
+      "header": "[u0782 | 01:04:51.090-01:04:52.620 | DM]",
+      "lineNumber": 782,
+      "originalText": "truck spends most of the night.",
+      "cleanedText": "Trok spends most of the night."
+    },
+    {
+      "header": "[u0829 | 01:09:25.740-01:09:27.570 | DM]",
+      "lineNumber": 829,
+      "originalText": "And with blue scouting there's a.",
+      "cleanedText": "And with Blu scouting there's a."
+    },
+    {
+      "header": "[u0875 | 01:14:36.630-01:14:44.070 | DM]",
+      "lineNumber": 875,
+      "originalText": "Year year care core the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.",
+      "cleanedText": "Yerkir-khor the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies."
+    },
+    {
+      "header": "[u0877 | 01:14:52.890-01:15:01.230 | DM]",
+      "lineNumber": 877,
+      "originalText": "Here lies your care core the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.",
+      "cleanedText": "Here lies Yerkir-khor the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies."
+    },
+    {
+      "header": "[u0880 | 01:15:10.020-01:15:12.420 | Trok]",
+      "lineNumber": 880,
+      "originalText": "We do I know nothing about about your core.",
+      "cleanedText": "We do I know nothing about about Yerkir-khor."
+    },
+    {
+      "header": "[u0883 | 01:15:18.480-01:15:20.730 | DM]",
+      "lineNumber": 883,
+      "originalText": "Your core before.",
+      "cleanedText": "Yerkir-khor before."
+    },
+    {
+      "header": "[u0885 | 01:15:25.110-01:15:28.500 | Kaleho]",
+      "lineNumber": 885,
+      "originalText": "Co host kind of confused as to why he goes this language.",
+      "cleanedText": "Kaleho is kind of confused as to why he knows this language."
+    },
+    {
+      "header": "[u0894 | 01:16:20.970-01:16:34.140 | DM]",
+      "lineNumber": 894,
+      "originalText": "Like most of the ruins a date much date to like prior errors in the history of malware so like like 100 years 150 years ago and morrow my wire was a.",
+      "cleanedText": "Like most of the ruins a date much date to like prior errors in the history of Mawar so like like 100 years 150 years ago and Mawar was a."
+    },
+    {
+      "header": "[u0899 | 01:16:50.370-01:16:55.920 | DM]",
+      "lineNumber": 899,
+      "originalText": "Your core the undaunted prints of earth part of the Rock allowing carving out the crystal scotus.",
+      "cleanedText": "Yerkir-khor the undaunted prince of earth lord of the Rock below and guardian of the crystal skies."
+    },
+    {
+      "header": "[u0909 | 01:17:52.530-01:17:59.700 | DM]",
+      "lineNumber": 909,
+      "originalText": "it's definitely not model, our architecture like not mauer golden age architecture from 150 years ago for sure.",
+      "cleanedText": "it's definitely not Mawar architecture like not Mawar golden age architecture from 150 years ago for sure."
+    },
+    {
+      "header": "[u0959 | 01:21:50.070-01:21:51.630 | Kaleho]",
+      "lineNumber": 959,
+      "originalText": "Co hosts far from the see.",
+      "cleanedText": "Kaleho is far from the sea."
+    },
+    {
+      "header": "[u0987 | 01:24:36.420-01:24:38.370 | Kaleho]",
+      "lineNumber": 987,
+      "originalText": "This is a little deep for digging truck.",
+      "cleanedText": "This is a little deep for digging Trok."
+    },
+    {
+      "header": "[u1002 | 01:25:53.550-01:25:55.380 | DM]",
+      "lineNumber": 1002,
+      "originalText": "In into the darkness now truck.",
+      "cleanedText": "In into the darkness now Trok."
+    },
+    {
+      "header": "[u1007 | 01:26:08.040-01:26:11.910 | DM]",
+      "lineNumber": 1007,
+      "originalText": "Where that even be yes, you do have dark for us and it's under senses.",
+      "cleanedText": "Where that even be yes, you do have darkvision and tremorsense."
+    },
+    {
+      "header": "[u1035 | 01:28:49.620-01:28:52.710 | Nerissa]",
+      "lineNumber": 1035,
+      "originalText": "and nurses scrambles up to and.",
+      "cleanedText": "and Nerissa scrambles up to and."
+    },
+    {
+      "header": "[u1048 | 01:30:03.690-01:30:04.950 | Nerissa]",
+      "lineNumber": 1048,
+      "originalText": "Yes, I said submitted.",
+      "cleanedText": "Yes, I said Thaumaturgy."
+    },
+    {
+      "header": "[u1057 | 01:30:51.750-01:30:58.050 | Ryu]",
+      "lineNumber": 1057,
+      "originalText": "Real Estate but step top with a blue survey around till nobody's coming we're all.",
+      "cleanedText": "Ryu stays but step top with Blu surveying around till nobody's coming we're all."
+    },
+    {
+      "header": "[u1060 | 01:31:22.440-01:31:25.110 | DM]",
+      "lineNumber": 1060,
+      "originalText": "truck you begin climbing down.",
+      "cleanedText": "Trok you begin climbing down."
+    },
+    {
+      "header": "[u1063 | 01:31:37.260-01:31:47.460 | DM]",
+      "lineNumber": 1063,
+      "originalText": "marissa following behind you, is surprisingly spry and light on our feet and also makes short work of it, you get about.",
+      "cleanedText": "Nerissa following behind you, is surprisingly spry and light on her feet and also makes short work of it, you get about."
+    },
+    {
+      "header": "[u1066 | 01:31:55.980-01:31:59.310 | DM]",
+      "lineNumber": 1066,
+      "originalText": "um first of all kale kilo slips.",
+      "cleanedText": "um first of all Kaleho slips."
+    },
+    {
+      "header": "[u1072 | 01:32:19.740-01:32:29.190 | DM]",
+      "lineNumber": 1072,
+      "originalText": "Through the the shaft at about your knee height truck so truck I need you to make a dexterity saving throw.",
+      "cleanedText": "Through the the shaft at about your knee height Trok so Trok I need you to make a dexterity saving throw."
+    },
+    {
+      "header": "[u1081 | 01:33:15.750-01:33:21.300 | DM]",
+      "lineNumber": 1081,
+      "originalText": "From the blade and then you so kelo takes.",
+      "cleanedText": "From the blade and then you so Kaleho takes."
+    },
+    {
+      "header": "[u1082 | 01:33:22.950-01:33:33.570 | DM]",
+      "lineNumber": 1082,
+      "originalText": "14 points of bludgeoning damage from falling and you take nine points of bludgeoning damage trop from falling and both you and kalo boom boom.",
+      "cleanedText": "14 points of bludgeoning damage from falling and you take nine points of bludgeoning damage trop from falling and both you and Kaleho boom boom."
+    },
+    {
+      "header": "[u1085 | 01:33:42.630-01:33:48.240 | DM]",
+      "lineNumber": 1085,
+      "originalText": "In this big room, which is lit up by one of nurses glowing lights.",
+      "cleanedText": "In this big room, which is lit up by one of Nerissa's glowing lights."
+    },
+    {
+      "header": "[u1087 | 01:33:54.150-01:33:55.020 | DM]",
+      "lineNumber": 1087,
+      "originalText": "nurse that you.",
+      "cleanedText": "Nerissa, you."
+    },
+    {
+      "header": "[u1089 | 01:33:58.770-01:34:02.070 | DM]",
+      "lineNumber": 1089,
+      "originalText": "slice through the air knock truck off.",
+      "cleanedText": "slice through the air knock Trok off."
+    },
+    {
+      "header": "[u1097 | 01:34:43.680-01:34:48.930 | Kaleho]",
+      "lineNumber": 1097,
+      "originalText": "did my falling SIP the blade offered a truck climbing the ladder set it off.",
+      "cleanedText": "did my falling SIP the blade offered a Trok climbing the ladder set it off."
+    },
+    {
+      "header": "[u1098 | 01:34:48.960-01:34:50.580 | DM]",
+      "lineNumber": 1098,
+      "originalText": "trucks at the blade off.",
+      "cleanedText": "Trok set the blade off."
+    },
+    {
+      "header": "[u1099 | 01:34:53.550-01:34:54.600 | Ryu]",
+      "lineNumber": 1099,
+      "originalText": "rocks at the blade off.",
+      "cleanedText": "Trok set the blade off."
+    },
+    {
+      "header": "[u1104 | 01:35:17.700-01:35:23.610 | DM]",
+      "lineNumber": 1104,
+      "originalText": "let's take this an order so first of all kalo and truck you see now you're standing.",
+      "cleanedText": "let's take this an order so first of all Kaleho and Trok you see now you're standing."
+    },
+    {
+      "header": "[u1116 | 01:36:18.360-01:36:21.090 | DM]",
+      "lineNumber": 1116,
+      "originalText": "So let's see truck and.",
+      "cleanedText": "So let's see Trok and."
+    },
+    {
+      "header": "[u1137 | 01:38:31.440-01:38:33.270 | DM]",
+      "lineNumber": 1137,
+      "originalText": "marissa is like hanging on just.",
+      "cleanedText": "Nerissa is like hanging on just."
+    },
+    {
+      "header": "[u1139 | 01:38:34.200-01:38:35.880 | Trok]",
+      "lineNumber": 1139,
+      "originalText": "Where truck federal ID yeah.",
+      "cleanedText": "Where's Trok? There, yeah yeah."
+    },
+    {
+      "header": "[u1140 | 01:38:36.600-01:38:41.580 | DM]",
+      "lineNumber": 1140,
+      "originalText": "So, so this is so, so kalo and truck what are you two doing.",
+      "cleanedText": "So, so this is so, so Kaleho and Trok what are you two doing."
+    },
+    {
+      "header": "[u1146 | 01:39:02.220-01:39:02.790 | Kaleho]",
+      "lineNumber": 1146,
+      "originalText": "kelo.",
+      "cleanedText": "Kaleho."
+    },
+    {
+      "header": "[u1158 | 01:39:52.530-01:39:55.050 | DM]",
+      "lineNumber": 1158,
+      "originalText": "Are guy i'm nervous, what are you doing.",
+      "cleanedText": "All right, Nerissa, what are you doing."
+    },
+    {
+      "header": "[u1160 | 01:39:59.490-01:40:01.530 | Nerissa]",
+      "lineNumber": 1160,
+      "originalText": "Why don't be able to get passes played.",
+      "cleanedText": "We won't be able to get past this blade."
+    },
+    {
+      "header": "[u1175 | 01:40:51.840-01:40:54.930 | Nerissa]",
+      "lineNumber": 1175,
+      "originalText": "I have my sword, but that's nothing more than they used to Gemma.",
+      "cleanedText": "I have my sword, but that's nothing more than they used to gem."
+    },
+    {
+      "header": "[u1184 | 01:41:24.420-01:41:28.560 | Nerissa]",
+      "lineNumber": 1184,
+      "originalText": "Is it does it were exactly the same as hey Elsa so we can get her out.",
+      "cleanedText": "Is it does it were exactly the same as Hiyasa so we can get her out."
+    },
+    {
+      "header": "[u1186 | 01:41:33.660-01:41:37.800 | Nerissa]",
+      "lineNumber": 1186,
+      "originalText": "Right well see what can I do with little specks her little.",
+      "cleanedText": "Right well see what can I do with Mage Hand or little."
+    },
+    {
+      "header": "[u1188 | 01:41:43.800-01:41:45.090 | Nerissa]",
+      "lineNumber": 1188,
+      "originalText": "Data down on a rope.",
+      "cleanedText": "Get it down on a rope."
+    },
+    {
+      "header": "[u1211 | 01:43:00.120-01:43:04.350 | Nerissa]",
+      "lineNumber": 1211,
+      "originalText": "In addition to the ladder that's human into the side of the Rock.",
+      "cleanedText": "In addition to the ladder that's hewn into the side of the Rock."
+    },
+    {
+      "header": "[u1218 | 01:43:16.950-01:43:22.890 | Nerissa]",
+      "lineNumber": 1218,
+      "originalText": "there's a point of trucks scot free So yes, let's let's fast in the rope.",
+      "cleanedText": "there's a point of Trok got free So yes, let's let's fasten the rope."
+    },
+    {
+      "header": "[u1219 | 01:43:23.910-01:43:32.850 | Nerissa]",
+      "lineNumber": 1219,
+      "originalText": "up at the top of the ladder and then maybe instead of poking with your javelin or my heavy stick, we could just avoid the step that truck stepped on.",
+      "cleanedText": "up at the top of the ladder and then maybe instead of poking with your javelin or my heavy stick, we could just avoid the step that Trok stepped on."
+    },
+    {
+      "header": "[u1222 | 01:43:36.630-01:43:40.620 | DM]",
+      "lineNumber": 1222,
+      "originalText": "So while you two are setting that up i'm kayla makeup perception check.",
+      "cleanedText": "So while you two are setting that up i'm Kaleho makeup perception check."
+    },
+    {
+      "header": "[u1225 | 01:43:47.460-01:43:49.860 | DM]",
+      "lineNumber": 1225,
+      "originalText": "And marissa making athletics check to climb back up.",
+      "cleanedText": "And Nerissa, make athletics check to climb back up."
+    },
+    {
+      "header": "[u1229 | 01:44:01.560-01:44:05.940 | DM]",
+      "lineNumber": 1229,
+      "originalText": "Okay, so kalo you your as you're looking around i'm.",
+      "cleanedText": "Okay, so Kaleho you your as you're looking around i'm."
+    },
+    {
+      "header": "[u1232 | 01:44:21.750-01:44:28.740 | DM]",
+      "lineNumber": 1232,
+      "originalText": "You know, look around at the at the torch light cast by a marissa has a magic.",
+      "cleanedText": "You know, look around at the at the torch light cast by Nerissa's a magic."
+    },
+    {
+      "header": "[u1234 | 01:44:35.130-01:44:45.000 | DM]",
+      "lineNumber": 1234,
+      "originalText": "Past here, probably because the the light from the torches isn't bright enough to see all the way to the end only truck can see that, with his dark vision um.",
+      "cleanedText": "Past here, probably because the the light from the torches isn't bright enough to see all the way to the end only Trok can see that, with his dark vision um."
+    },
+    {
+      "header": "[u1246 | 01:46:26.520-01:46:38.760 | DM]",
+      "lineNumber": 1246,
+      "originalText": "still not moving yet, but i'm reuse got the rope and review and i'm interests are now like sliding down on the rope the rope itself is.",
+      "cleanedText": "still not moving yet, but i'm Ryu got the rope and Ryu and Nerissa are now like sliding down on the rope the rope itself is."
+    },
+    {
+      "header": "[u1257 | 01:47:37.650-01:47:42.780 | DM]",
+      "lineNumber": 1257,
+      "originalText": "It is so while you are well they're climbing down what a kilo and truck what are you doing.",
+      "cleanedText": "It is so while you are well they're climbing down what a Kaleho and Trok what are you doing."
+    },
+    {
+      "header": "[u1279 | 01:48:57.030-01:48:59.520 | DM]",
+      "lineNumber": 1279,
+      "originalText": "dive bomb down at you truck.",
+      "cleanedText": "dive bomb down at you Trok."
+    },
+    {
+      "header": "[u1280 | 01:49:01.110-01:49:03.900 | DM]",
+      "lineNumber": 1280,
+      "originalText": "kayla what are you doing, by the way, well truck is doing this.",
+      "cleanedText": "Kaleho what are you doing, by the way, well Trok is doing this."
+    },
+    {
+      "header": "[u1285 | 01:49:43.830-01:49:45.540 | Kaleho]",
+      "lineNumber": 1285,
+      "originalText": "Look fall kind of walk them up.",
+      "cleanedText": "Kaleho kind of walk them up."
+    },
+    {
+      "header": "[u1299 | 01:50:56.670-01:51:05.670 | DM]",
+      "lineNumber": 1299,
+      "originalText": "So, as the statue start to move your kalo just whips around I noticed as them dive bombing towards.",
+      "cleanedText": "So, as the statue start to move Kaleho just whips around I noticed as them dive bombing towards."
+    },
+    {
+      "header": "[u1301 | 01:51:10.680-01:51:13.710 | DM]",
+      "lineNumber": 1301,
+      "originalText": "truck and you go first.",
+      "cleanedText": "Trok and you go first."
+    },
+    {
+      "header": "[u1307 | 01:51:36.180-01:51:41.040 | Kaleho]",
+      "lineNumber": 1307,
+      "originalText": "On the just to the north of truck to my characters right.",
+      "cleanedText": "On the just to the north of Trok to my characters right."
+    },
+    {
+      "header": "[u1314 | 01:51:55.980-01:51:57.030 | Kaleho]",
+      "lineNumber": 1314,
+      "originalText": "simon's I gotta roll again.",
+      "cleanedText": "minus I gotta roll again."
+    },
+    {
+      "header": "[u1318 | 01:52:13.980-01:52:26.670 | DM]",
+      "lineNumber": 1318,
+      "originalText": "Okay, so as as the statues begin to move kayla whips around and fires off takes aim at one of them and fires off a quick crossbow bolts, however, the rest of you.",
+      "cleanedText": "Okay, so as as the statues begin to move Kaleho whips around and fires off takes aim at one of them and fires off a quick crossbow bolts, however, the rest of you."
+    },
+    {
+      "header": "[u1321 | 01:52:37.920-01:52:39.960 | DM]",
+      "lineNumber": 1321,
+      "originalText": "dive towards truck.",
+      "cleanedText": "dive towards Trok."
+    },
+    {
+      "header": "[u1322 | 01:52:44.550-01:52:45.570 | DM]",
+      "lineNumber": 1322,
+      "originalText": "truck what's your AC.",
+      "cleanedText": "Trok what's your AC."
+    },
+    {
+      "header": "[u1336 | 01:54:00.870-01:54:11.790 | DM]",
+      "lineNumber": 1336,
+      "originalText": "So now back to kayla and now everybody else gets your turns now, as you are no longer surprised i'm marissa and re you, you are still 15 feet up on the rope.",
+      "cleanedText": "So now back to Kaleho and now everybody else gets your turns now, as you are no longer surprised i'm Nerissa and Ryu, you are still 15 feet up on the rope."
+    },
+    {
+      "header": "[u1345 | 01:54:38.010-01:54:38.730 | DM]",
+      "lineNumber": 1345,
+      "originalText": "Okay kayla.",
+      "cleanedText": "Okay Kaleho."
+    },
+    {
+      "header": "[u1349 | 01:54:46.830-01:54:48.150 | Kaleho]",
+      "lineNumber": 1349,
+      "originalText": "So kalo.",
+      "cleanedText": "So Kaleho."
+    },
+    {
+      "header": "[u1354 | 01:55:05.700-01:55:08.010 | Kaleho]",
+      "lineNumber": 1354,
+      "originalText": "Okay, so, then I do the head PC.",
+      "cleanedText": "Okay, so, then I do the NPC."
+    },
+    {
+      "header": "[u1359 | 01:55:37.530-01:55:43.710 | DM]",
+      "lineNumber": 1359,
+      "originalText": "Like I would say, like right here about 15 feet up and marissa is right behind you.",
+      "cleanedText": "Like I would say, like right here about 15 feet up and Nerissa is right behind you."
+    },
+    {
+      "header": "[u1387 | 01:57:19.290-01:57:29.970 | Ryu]",
+      "lineNumber": 1387,
+      "originalText": "For now hopefully i'll have a blue fly down oh cool fly down and and just kind of hang up near the near the road do these guys have like do they have long range attempts these these deeds and they.",
+      "cleanedText": "For now hopefully i'll have Blu fly down oh cool fly down and and just kind of hang up near the near the road do these guys have like do they have long range attempts these these deeds and they."
+    },
+    {
+      "header": "[u1390 | 01:57:34.470-01:57:38.430 | Ryu]",
+      "lineNumber": 1390,
+      "originalText": "Okay i'll have blue hand kinda like right right at the entrance of the home.",
+      "cleanedText": "Okay i'll have Blu hang kinda like right right at the entrance of the home."
+    },
+    {
+      "header": "[u1391 | 01:57:38.940-01:57:42.810 | DM]",
+      "lineNumber": 1391,
+      "originalText": "Okay ah, so that it returns or truck you're up.",
+      "cleanedText": "Okay ah, so that it returns or Trok you're up."
+    },
+    {
+      "header": "[u1392 | 01:57:44.820-01:57:46.980 | Trok]",
+      "lineNumber": 1392,
+      "originalText": "The truck is is mad.",
+      "cleanedText": "The Trok is is mad."
+    },
+    {
+      "header": "[u1397 | 01:58:09.630-01:58:16.470 | Trok]",
+      "lineNumber": 1397,
+      "originalText": "truck it's it into his head to smash them against the floor in whatever way that he can perhaps by grabbing them by the head and then swing them down or.",
+      "cleanedText": "Trok it's it into his head to smash them against the floor in whatever way that he can perhaps by grabbing them by the head and then swing them down or."
+    },
+    {
+      "header": "[u1432 | 02:00:19.500-02:00:29.760 | DM]",
+      "lineNumber": 1432,
+      "originalText": "Okay, so this is like giant truck just like slams the thing on the ground and it bounces off sort of days staggering slightly i'm.",
+      "cleanedText": "Okay, so this is like giant Trok just like slams the thing on the ground and it bounces off sort of days staggering slightly i'm."
+    },
+    {
+      "header": "[u1440 | 02:01:00.060-02:01:02.430 | Nerissa]",
+      "lineNumber": 1440,
+      "originalText": "away from track, on the other side of.",
+      "cleanedText": "away from Trok, on the other side of."
+    },
+    {
+      "header": "[u1443 | 02:01:11.790-02:01:14.400 | Nerissa]",
+      "lineNumber": 1443,
+      "originalText": "can get them within a 10 foot radius but not truck.",
+      "cleanedText": "can get them within a 10 foot radius but not Trok."
+    },
+    {
+      "header": "[u1499 | 02:04:57.750-02:04:58.830 | DM]",
+      "lineNumber": 1499,
+      "originalText": "Okay kayla you're up.",
+      "cleanedText": "Okay Kaleho you're up."
+    },
+    {
+      "header": "[u1520 | 02:06:30.900-02:06:31.680 | DM]",
+      "lineNumber": 1520,
+      "originalText": "Rio Europe.",
+      "cleanedText": "Ryu, you're up."
+    },
+    {
+      "header": "[u1524 | 02:06:48.060-02:06:49.020 | DM]",
+      "lineNumber": 1524,
+      "originalText": "Attacking truck.",
+      "cleanedText": "Attacking Trok."
+    },
+    {
+      "header": "[u1535 | 02:07:17.730-02:07:22.110 | Ryu]",
+      "lineNumber": 1535,
+      "originalText": "yeah blue I again I just don't want included dies, then this word.",
+      "cleanedText": "yeah Blu, again I just don't want him to die, then this word."
+    },
+    {
+      "header": "[u1536 | 02:07:22.320-02:07:25.560 | DM]",
+      "lineNumber": 1536,
+      "originalText": "glue has remember blue has 35 hit points.",
+      "cleanedText": "Blu has remember Blu has 35 hit points."
+    },
+    {
+      "header": "[u1537 | 02:07:28.560-02:07:29.310 | Ryu]",
+      "lineNumber": 1537,
+      "originalText": "blue.",
+      "cleanedText": "Blu."
+    },
+    {
+      "header": "[u1539 | 02:07:37.080-02:07:42.420 | DM]",
+      "lineNumber": 1539,
+      "originalText": "Ah, why not this one here as grappled by his truck is holding in his hands.",
+      "cleanedText": "Ah, why not this one here as grappled by Trok is holding in his hands."
+    },
+    {
+      "header": "[u1540 | 02:07:42.780-02:07:48.600 | DM]",
+      "lineNumber": 1540,
+      "originalText": "yeah this one, and this one has so far been attacking truck this one is dead.",
+      "cleanedText": "yeah this one, and this one has so far been attacking Trok this one is dead."
+    },
+    {
+      "header": "[u1541 | 02:07:49.140-02:07:52.620 | Ryu]",
+      "lineNumber": 1541,
+      "originalText": "Okay, all right yeah i'll have to i'll have blue attack the one that i'm also talking.",
+      "cleanedText": "Okay, all right yeah i'll have to i'll have Blu attack the one that i'm also talking."
+    },
+    {
+      "header": "[u1550 | 02:08:28.320-02:08:30.030 | DM]",
+      "lineNumber": 1550,
+      "originalText": "style blue messes.",
+      "cleanedText": "Still, Blu misses."
+    },
+    {
+      "header": "[u1554 | 02:08:40.260-02:08:49.530 | DM]",
+      "lineNumber": 1554,
+      "originalText": "And also so blue has the ability fly by, which means that doesn't provoke opportunity attacks when it flies out of an enemy's REACH, so he can dive bomb and then fly.",
+      "cleanedText": "And also so Blu has the ability fly by, which means that doesn't provoke opportunity attacks when it flies out of an enemy's REACH, so he can dive bomb and then fly."
+    },
+    {
+      "header": "[u1559 | 02:08:57.630-02:08:58.680 | DM]",
+      "lineNumber": 1559,
+      "originalText": "Okay truck here up.",
+      "cleanedText": "Okay Trok, you're up."
+    },
+    {
+      "header": "[u1582 | 02:10:29.730-02:10:31.560 | DM]",
+      "lineNumber": 1582,
+      "originalText": "That brings us to nurses turn.",
+      "cleanedText": "That brings us to Nerissa's turn."
+    },
+    {
+      "header": "[u1585 | 02:10:44.850-02:10:50.850 | Nerissa]",
+      "lineNumber": 1585,
+      "originalText": "I think I can still pick a point that sort of to the side of the other side of trump is so gets this too.",
+      "cleanedText": "I think I can still pick a point that sort of to the side of the other side of Trok is so gets this too."
+    },
+    {
+      "header": "[u1599 | 02:12:07.800-02:12:15.300 | DM]",
+      "lineNumber": 1599,
+      "originalText": "This one having seen the damage that kalo can do will turn around and swing at him.",
+      "cleanedText": "This one having seen the damage that Kaleho can do will turn around and swing at him."
+    },
+    {
+      "header": "[u1604 | 02:12:38.760-02:12:45.420 | DM]",
+      "lineNumber": 1604,
+      "originalText": "make or break for that, for the statue so both review and truck get opportunity attacks.",
+      "cleanedText": "make or break for that, for the statue so both Ryu and Trok get opportunity attacks."
+    },
+    {
+      "header": "[u1626 | 02:14:16.380-02:14:18.000 | DM]",
+      "lineNumber": 1626,
+      "originalText": "That ends your turn real Europe.",
+      "cleanedText": "That ends your turn Ryu, you're up."
+    },
+    {
+      "header": "[u1638 | 02:14:56.460-02:14:57.480 | Trok]",
+      "lineNumber": 1638,
+      "originalText": "Send blue for that one.",
+      "cleanedText": "Send Blu for that one."
+    },
+    {
+      "header": "[u1644 | 02:15:20.880-02:15:31.770 | DM]",
+      "lineNumber": 1644,
+      "originalText": "Okay, but moving through truck is difficult terrain so that's 10 2025 3035 basically move back to squares.",
+      "cleanedText": "Okay, but moving through Trok is difficult terrain so that's 10 2025 3035 basically move back to squares."
+    },
+    {
+      "header": "[u1668 | 02:16:44.460-02:16:46.920 | Ryu]",
+      "lineNumber": 1668,
+      "originalText": "Blue attack i'll have blue fly through.",
+      "cleanedText": "Blu attack i'll have Blu fly through."
+    },
+    {
+      "header": "[u1669 | 02:16:47.490-02:16:50.250 | DM]",
+      "lineNumber": 1669,
+      "originalText": "Okay, that hits so blue does.",
+      "cleanedText": "Okay, that hits so Blu does."
+    },
+    {
+      "header": "[u1672 | 02:17:08.070-02:17:11.460 | DM]",
+      "lineNumber": 1672,
+      "originalText": "So blue will be like over there, or something like that um.",
+      "cleanedText": "So Blu will be like over there, or something like that um."
+    },
+    {
+      "header": "[u1674 | 02:17:15.210-02:17:22.590 | DM]",
+      "lineNumber": 1674,
+      "originalText": "Okay, so he is like now back over there something so blue dies down the blue aspect grabbing into this thing.",
+      "cleanedText": "Okay, so he is like now back over there something so Blu dives down, Blu's beak grabbing into this thing."
+    },
+    {
+      "header": "[u1675 | 02:17:23.700-02:17:24.510 | DM]",
+      "lineNumber": 1675,
+      "originalText": "truck here up.",
+      "cleanedText": "Trok, you're up."
+    },
+    {
+      "header": "[u1710 | 02:19:38.280-02:19:40.800 | DM]",
+      "lineNumber": 1710,
+      "originalText": "continue to attack kalo.",
+      "cleanedText": "continue to attack Kaleho."
+    },
+    {
+      "header": "[u1724 | 02:20:34.170-02:20:35.130 | DM]",
+      "lineNumber": 1724,
+      "originalText": "Okay kayla you're up.",
+      "cleanedText": "Okay Kaleho you're up."
+    },
+    {
+      "header": "[u1747 | 02:22:32.700-02:22:33.450 | DM]",
+      "lineNumber": 1747,
+      "originalText": "Rio Europe.",
+      "cleanedText": "Ryu, you're up."
+    },
+    {
+      "header": "[u1776 | 02:24:41.400-02:24:42.870 | DM]",
+      "lineNumber": 1776,
+      "originalText": "Alright, but blue can still attack.",
+      "cleanedText": "Alright, but Blu can still attack."
+    },
+    {
+      "header": "[u1778 | 02:24:48.510-02:24:51.660 | DM]",
+      "lineNumber": 1778,
+      "originalText": "So blue is gonna dive bomb and come back over here.",
+      "cleanedText": "So Blu is gonna dive bomb and come back over here."
+    },
+    {
+      "header": "[u1783 | 02:25:05.340-02:25:10.080 | DM]",
+      "lineNumber": 1783,
+      "originalText": "That ends Rias turn truck your up giant truck.",
+      "cleanedText": "That ends Ryu's turn Trok, you're up giant Trok."
+    },
+    {
+      "header": "[u1784 | 02:25:13.410-02:25:15.540 | Trok]",
+      "lineNumber": 1784,
+      "originalText": "truck hit more.",
+      "cleanedText": "Trok hit more."
+    },
+    {
+      "header": "[u1795 | 02:25:53.850-02:25:55.440 | Trok]",
+      "lineNumber": 1795,
+      "originalText": "truck truck blinks for a second.",
+      "cleanedText": "Trok Trok blinks for a second."
+    },
+    {
+      "header": "[u1809 | 02:26:42.870-02:26:50.820 | DM]",
+      "lineNumber": 1809,
+      "originalText": "So okay so so trucks was looking at the statue what does everybody else, want to do you don't need to be an initiative order anymore.",
+      "cleanedText": "So okay so so Trok's was looking at the statue what does everybody else, want to do you don't need to be an initiative order anymore."
+    },
+    {
+      "header": "[u1814 | 02:27:02.520-02:27:05.130 | DM]",
+      "lineNumber": 1814,
+      "originalText": "What does everybody else, want to do well trucks investigating.",
+      "cleanedText": "What does everybody else, want to do well Trok's investigating."
+    },
+    {
+      "header": "[u1822 | 02:27:21.480-02:27:26.970 | Ryu]",
+      "lineNumber": 1822,
+      "originalText": "i'm review will also just investigate books actually using another for traps let's review.",
+      "cleanedText": "i'm Ryu will also just investigate books actually using another for traps let's Ryu."
+    },
+    {
+      "header": "[u1825 | 02:27:35.490-02:27:39.210 | Trok]",
+      "lineNumber": 1825,
+      "originalText": "At helpfully just underneath trucks feet each place he's about to step.",
+      "cleanedText": "At helpfully just underneath Trok's feet each place he's about to step."
+    },
+    {
+      "header": "[u1828 | 02:27:46.170-02:27:53.220 | DM]",
+      "lineNumber": 1828,
+      "originalText": "Yes, nurse nurse at make acrobatics check to drop off the rope truck and.",
+      "cleanedText": "Yes, Nerissa, make make acrobatics check to drop off the rope, Trok and."
+    },
+    {
+      "header": "[u1829 | 02:27:55.140-02:27:59.370 | DM]",
+      "lineNumber": 1829,
+      "originalText": "And remake in well remake a perception check truck.",
+      "cleanedText": "And remake in well remake a perception check Trok."
+    },
+    {
+      "header": "[u1830 | 02:28:06.570-02:28:12.390 | DM]",
+      "lineNumber": 1830,
+      "originalText": "And the truck you just kind of stare at the statue Okay, so in Orissa you land without issue i'm.",
+      "cleanedText": "And the Trok you just kind of stare at the statue Okay, so Nerissa you land without issue i'm."
+    },
+    {
+      "header": "[u1832 | 02:28:17.790-02:28:24.510 | DM]",
+      "lineNumber": 1832,
+      "originalText": "truck as you so you look at this it's like about your size right now it's like 10 feet tall roughly.",
+      "cleanedText": "Trok as you so you look at this it's like about your size right now it's like 10 feet tall roughly."
+    },
+    {
+      "header": "[u1844 | 02:29:59.880-02:30:01.770 | DM]",
+      "lineNumber": 1844,
+      "originalText": "Real looking around um.",
+      "cleanedText": "Ryu, looking around um."
+    },
+    {
+      "header": "[u1846 | 02:30:04.920-02:30:13.020 | DM]",
+      "lineNumber": 1846,
+      "originalText": "You don't see any traps anywhere truck is about to stop I mean you notice the same things about the statue that it, you know it's this loose gem.",
+      "cleanedText": "You don't see any traps anywhere Trok is about to stop I mean you notice the same things about the statue that it, you know it's this loose gem."
+    },
+    {
+      "header": "[u1915 | 02:35:21.210-02:35:27.450 | Nerissa]",
+      "lineNumber": 1915,
+      "originalText": "before anyone who's opening any doors tracker okay whoa did you have any.",
+      "cleanedText": "before anyone who's opening any doors Trok, okay whoa did you have any."
+    },
+    {
+      "header": "[u1925 | 02:36:06.540-02:36:08.670 | Nerissa]",
+      "lineNumber": 1925,
+      "originalText": "You know, to give kudos and.",
+      "cleanedText": "You know, to give Kaleho and."
+    },
+    {
+      "header": "[u1948 | 02:37:23.640-02:37:27.390 | DM]",
+      "lineNumber": 1948,
+      "originalText": "Because it only lasts for a minute so truck returns to.",
+      "cleanedText": "Because it only lasts for a minute so Trok returns to."
+    },
+    {
+      "header": "[u1955 | 02:37:45.000-02:37:47.310 | Ryu]",
+      "lineNumber": 1955,
+      "originalText": "rock just goes first and then we follow truck.",
+      "cleanedText": "Trok just goes first and then we follow Trok."
+    },
+    {
+      "header": "[u1974 | 02:39:28.710-02:39:29.880 | Trok]",
+      "lineNumber": 1974,
+      "originalText": "ryu bustles in.",
+      "cleanedText": "Ryu bustles in."
+    },
+    {
+      "header": "[u1975 | 02:39:30.990-02:39:33.000 | DM]",
+      "lineNumber": 1975,
+      "originalText": "and sees trucks tracks.",
+      "cleanedText": "and sees Trok's tracks."
+    },
+    {
+      "header": "[u1977 | 02:39:37.050-02:39:45.570 | Kaleho]",
+      "lineNumber": 1977,
+      "originalText": "Work kelo oxen he leaves a little note on this thing saying don't touch the the jewel.",
+      "cleanedText": "Work Kaleho oxen he leaves a little note on this thing saying don't touch the the jewel."
+    },
+    {
+      "header": "[u1997 | 02:41:02.460-02:41:04.770 | Ryu]",
+      "lineNumber": 1997,
+      "originalText": "And I go past truck and the four tracks.",
+      "cleanedText": "And I go past Trok and follow the tracks."
+    },
+    {
+      "header": "[u2009 | 02:42:03.090-02:42:18.270 | DM]",
+      "lineNumber": 2009,
+      "originalText": "And you can see now with with with marissa moving the the the floating torches into here the the corridor doesn't go very far it goes, maybe 20 or 30 feet to another mirror image of this room.",
+      "cleanedText": "And you can see now with with with Nerissa moving the the the floating torches into here the the corridor doesn't go very far it goes, maybe 20 or 30 feet to another mirror image of this room."
+    },
+    {
+      "header": "[u2036 | 02:43:59.460-02:44:05.700 | DM]",
+      "lineNumber": 2036,
+      "originalText": "Okay, so kayla begins to sleep is sneaking down the stairs what does everybody else doing.",
+      "cleanedText": "Okay, so Kaleho begins sneaking down the stairs what does everybody else doing."
+    },
+    {
+      "header": "[u2042 | 02:44:20.370-02:44:21.990 | DM]",
+      "lineNumber": 2042,
+      "originalText": "nervous and truck what are you doing.",
+      "cleanedText": "Nerissa and Trok what are you doing."
+    },
+    {
+      "header": "[u2044 | 02:44:23.640-02:44:26.040 | Nerissa]",
+      "lineNumber": 2044,
+      "originalText": "I can sneak down piano behind you.",
+      "cleanedText": "I can sneak down behind you."
+    },
+    {
+      "header": "[u2058 | 02:45:18.090-02:45:37.950 | DM]",
+      "lineNumber": 2058,
+      "originalText": "You come down about 15 feet down these the staircase out kayla first, followed by Rio and i'm a nurse and the tracks as well go this way i'm out into a very similar 10 foot room, but this time with a with a corridor going.",
+      "cleanedText": "You come down about 15 feet down these the staircase out Kaleho first, followed by Ryu and Nerissa and the tracks as well go this way i'm out into a very similar 10 foot room, but this time with a with a corridor going."
+    },
+    {
+      "header": "[u2078 | 02:47:10.560-02:47:25.530 | Kaleho]",
+      "lineNumber": 2078,
+      "originalText": "truck gets to the very last stare as quietly as he can and doesn't step on the ground, we can at least have a rough lay of the land, and then we can make an informed decision as we try to do as quietly as possible.",
+      "cleanedText": "Trok gets to the very last stair as quietly as he can and doesn't step on the ground, we can at least have a rough lay of the land, and then we can make an informed decision as we try to do as quietly as possible."
+    },
+    {
+      "header": "[u2093 | 02:48:32.940-02:48:41.250 | DM]",
+      "lineNumber": 2093,
+      "originalText": "Okay, so you're all clustered around this stare now as marissa plays a tune in the lights reappear what order, are you going.",
+      "cleanedText": "Okay, so you're all clustered around this stair now as Nerissa plays a tune in the lights reappear what order, are you going."
+    },
+    {
+      "header": "[u2094 | 02:48:43.350-02:48:50.100 | Kaleho]",
+      "lineNumber": 2094,
+      "originalText": "Well, can we still do now, the lights, can we do perception checks to see if everything's there's no giant savers to.",
+      "cleanedText": "Well, can we still do now, the lights, can we do perception checks to see if everything's there's no giant sabers to."
+    },
+    {
+      "header": "[u2105 | 02:49:19.230-02:49:27.390 | DM]",
+      "lineNumber": 2105,
+      "originalText": "Dell Chris Chris going up off the stair first I mean truck person we already went off the stair if you're looking down the corridor.",
+      "cleanedText": "The question is, going up off the stair first I mean Trok first we already went off the stair if you're looking down the corridor."
+    },
+    {
+      "header": "[u2108 | 02:49:33.180-02:49:35.370 | Ryu]",
+      "lineNumber": 2108,
+      "originalText": "truck truck truck will set up all the shops.",
+      "cleanedText": "Trok will set up all the shops."
+    },
+    {
+      "header": "[u2112 | 02:49:54.750-02:50:03.630 | Kaleho]",
+      "lineNumber": 2112,
+      "originalText": "That trucks on the floor, I mean i'm very worried about savers and traps so i'll do a perception check right.",
+      "cleanedText": "That Trok is on the floor, I mean i'm very worried about sabers and traps so i'll do a perception check right."
+    },
+    {
+      "header": "[u2125 | 02:50:35.370-02:50:38.490 | Ryu]",
+      "lineNumber": 2125,
+      "originalText": "I guess it's kilo and then me where the two of us are.",
+      "cleanedText": "I guess it's Kaleho and then me, we're the two of us are."
+    },
+    {
+      "header": "[u2129 | 02:50:50.040-02:51:04.680 | DM]",
+      "lineNumber": 2129,
+      "originalText": "Okay ah, when you get about 10 feet away from the door kayla you can see that, although it would be very hard to see if it wasn't for the light shining and reflecting off of this you notice that the that.",
+      "cleanedText": "Okay ah, when you get about 10 feet away from the door Kaleho you can see that, although it would be very hard to see if it wasn't for the light shining and reflecting off of this you notice that the that."
+    },
+    {
+      "header": "[u2149 | 02:52:46.860-02:52:48.930 | Nerissa]",
+      "lineNumber": 2149,
+      "originalText": "Is it triggered trap that.",
+      "cleanedText": "Is it the triggered trap that."
+    },
+    {
+      "header": "[u2187 | 02:55:07.680-02:55:12.720 | Kaleho]",
+      "lineNumber": 2187,
+      "originalText": "Before nervosa you have like ice spells.",
+      "cleanedText": "Before Nerissa you have like ice spells."
+    },
+    {
+      "header": "[u2213 | 02:56:38.880-02:56:49.110 | Kaleho]",
+      "lineNumber": 2213,
+      "originalText": "ooh could we just go back up and grab some the dead gargoyle stones and just give some stepping stones just toss them and then we step from gargoyle corpse to garko corpse.",
+      "cleanedText": "ooh could we just go back up and grab some the dead gargoyle stones and just give some stepping stones just toss them and then we step from gargoyle corpse to gargoyle corpse."
+    },
+    {
+      "header": "[u2238 | 02:58:09.540-02:58:17.190 | Kaleho]",
+      "lineNumber": 2238,
+      "originalText": "trump becomes a giant, could he support himself on each side of the wall with us on his back if he's 14 feet long.",
+      "cleanedText": "Trok becomes a giant, could he support himself on each side of the wall with us on his back if he's 14 feet long."
+    },
+    {
+      "header": "[u2250 | 02:58:43.470-02:58:45.510 | Kaleho]",
+      "lineNumber": 2250,
+      "originalText": "I think coolio all of us jump over it.",
+      "cleanedText": "I think could all all of us jump over it."
+    },
+    {
+      "header": "[u2251 | 02:58:46.140-02:58:59.880 | DM]",
+      "lineNumber": 2251,
+      "originalText": "nope you weaklings you can jump jump a number of feet equal to your strengths don't score so real and truck can jump 18 feet kalo could jump could maybe make it 10 feet marissa can only jump at.",
+      "cleanedText": "nope you weaklings you can jump jump a number of feet equal to your strengths don't score so Ryu and Trok can jump 18 feet Kaleho could jump could maybe make it 10 feet Nerissa can only jump at."
+    },
+    {
+      "header": "[u2272 | 03:00:15.150-03:00:16.620 | Nerissa]",
+      "lineNumber": 2272,
+      "originalText": "The broker in the first place.",
+      "cleanedText": "The broken in the first place."
+    },
+    {
+      "header": "[u2289 | 03:01:00.150-03:01:05.880 | Nerissa]",
+      "lineNumber": 2289,
+      "originalText": "Day, yes I knew I had rope anchors that were called titans but I didn't know the same as.",
+      "cleanedText": "Day, yes I knew I had rope anchors that were called pitons but I didn't know the same as."
+    },
+    {
+      "header": "[u2293 | 03:01:15.930-03:01:24.330 | Nerissa]",
+      "lineNumber": 2293,
+      "originalText": "yeah so let's anchor a few of those in the mall and just make up a more complete path and then, when that she made so we don't get many feet.",
+      "cleanedText": "yeah so let's anchor a few of those in the wall and just make up a more complete path and then, when that she made so we don't get many feet."
+    },
+    {
+      "header": "[u2308 | 03:02:31.350-03:02:37.470 | Kaleho]",
+      "lineNumber": 2308,
+      "originalText": "Order where i'm upfront very carefully thinking with my crossbow that prevents me from being surprised.",
+      "cleanedText": "Order-wise i'm upfront very carefully thinking with my crossbow that prevents me from being surprised."
+    },
+    {
+      "header": "[u2333 | 03:04:55.080-03:05:01.620 | Kaleho]",
+      "lineNumber": 2333,
+      "originalText": "get my feet kit and I kind of inspect the locks on one of the side doors anything a note.",
+      "cleanedText": "get my thieves' kit and I kind of inspect the locks on one of the side doors anything a note."
+    },
+    {
+      "header": "[u2340 | 03:05:31.740-03:05:44.160 | DM]",
+      "lineNumber": 2340,
+      "originalText": "Also entire in which say faithful of your car car be blessed with the wisdom of your Lord unfaithful flee now or be entombed forever in his majestic presence.",
+      "cleanedText": "Also in Terran, which says faithful of Yerkir-khor, be blessed with the wisdom of your lord; unfaithful, flee now or be entombed forever in his majestic presence."
+    },
+    {
+      "header": "[u2346 | 03:06:06.390-03:06:13.860 | Trok]",
+      "lineNumber": 2346,
+      "originalText": "Your core was the set was the God of the Crystal and Sky and the stone something.",
+      "cleanedText": "Yerkir-khor was the God of the Crystal and Sky and the stone something."
+    },
+    {
+      "header": "[u2348 | 03:06:16.890-03:06:23.910 | DM]",
+      "lineNumber": 2348,
+      "originalText": "Your character, or the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies.",
+      "cleanedText": "Yerkir-khor the undaunted Prince of earth lord of the Rock below and guardian of the crystal skies."
+    },
+    {
+      "header": "[u2360 | 03:07:07.440-03:07:11.220 | Trok]",
+      "lineNumber": 2360,
+      "originalText": "What does it mean to be faithful to your your core I guess find out.",
+      "cleanedText": "What does it mean to be faithful to Yerkir-khor? I guess find out."
+    },
+    {
+      "header": "[u2369 | 03:07:46.890-03:07:53.370 | DM]",
+      "lineNumber": 2369,
+      "originalText": "As you begin to pass the crystal heading towards the stairs kayla I need you to make a dexterity saving throw.",
+      "cleanedText": "As you begin to pass the crystal heading towards the stairs Kaleho, I need you to make a dexterity saving throw."
+    },
+    {
+      "header": "[u2389 | 03:09:02.280-03:09:08.100 | Trok]",
+      "lineNumber": 2389,
+      "originalText": "You could slither under, so to speak, I was just thinking about that in strict inscription the faithful.",
+      "cleanedText": "You could slither under, so to speak, I was just thinking about that in this inscription the faithful."
+    },
+    {
+      "header": "[u2391 | 03:09:11.280-03:09:14.460 | Trok]",
+      "lineNumber": 2391,
+      "originalText": "Maybe your core is a kind of snake God and.",
+      "cleanedText": "Maybe Yerkir-khor is a kind of snake god and."
+    },
+    {
+      "header": "[u2403 | 03:09:55.470-03:09:58.860 | Trok]",
+      "lineNumber": 2403,
+      "originalText": "And I wonder if your core is actually a snake God or or what.",
+      "cleanedText": "And I wonder if Yerkir-khor is actually a snake god or or what."
+    },
+    {
+      "header": "[u2406 | 03:10:03.120-03:10:09.540 | Nerissa]",
+      "lineNumber": 2406,
+      "originalText": "Along with the crew, but I say to kalo before we before we keep going I give you a bit more healing.",
+      "cleanedText": "Along with the crew, but I say to Kaleho before we before we keep going I give you a bit more healing."
+    },
+    {
+      "header": "[u2486 | 03:17:36.000-03:17:41.010 | DM]",
+      "lineNumber": 2486,
+      "originalText": "What tribute, have you brought for a year car cars tomb on this plane.",
+      "cleanedText": "What tribute, have you brought for a Yerkir-khor's tomb on this plane."
+    },
+    {
+      "header": "[u2511 | 03:19:29.580-03:19:31.320 | Trok]",
+      "lineNumber": 2511,
+      "originalText": "truck races crowds like this word.",
+      "cleanedText": "Trok grates out this word."
+    },
+    {
+      "header": "[u2515 | 03:19:43.920-03:19:47.250 | Ryu]",
+      "lineNumber": 2515,
+      "originalText": "And then, offering review says.",
+      "cleanedText": "And then, offering Ryu says."
+    },
+    {
+      "header": "[u2522 | 03:20:06.480-03:20:09.840 | Nerissa]",
+      "lineNumber": 2522,
+      "originalText": "yeah I mean truck to track to show the shells.",
+      "cleanedText": "yeah I mean Trok to try to show the shells."
+    },
+    {
+      "header": "[u2537 | 03:20:56.190-03:21:00.810 | Trok]",
+      "lineNumber": 2537,
+      "originalText": "yeah it kalo you gotta have some some movies, or something.",
+      "cleanedText": "yeah it Kaleho you gotta have some some offerings, or something."
+    },
+    {
+      "header": "[u2539 | 03:21:07.350-03:21:08.280 | Trok]",
+      "lineNumber": 2539,
+      "originalText": "nobody's Karen.",
+      "cleanedText": "nobody's carrying."
+    },
+    {
+      "header": "[u2543 | 03:21:15.330-03:21:20.250 | Kaleho]",
+      "lineNumber": 2543,
+      "originalText": "emerged folk artifact that I have found and treasured, it is a small worn.",
+      "cleanedText": "a merfolk artifact that I have found and treasured, it is a small worn."
+    },
+    {
+      "header": "[u2546 | 03:21:26.460-03:21:33.120 | Kaleho]",
+      "lineNumber": 2546,
+      "originalText": "know it is a Bible, but it means a lot to me, and it has more folk vibes looks.",
+      "cleanedText": "know it is a Bible, but it means a lot to me, and it has merfolk vibes looks."
+    },
+    {
+      "header": "[u2548 | 03:21:37.890-03:21:40.380 | Kaleho]",
+      "lineNumber": 2548,
+      "originalText": "He doesn't even know kalo doesn't know.",
+      "cleanedText": "He doesn't even know Kaleho doesn't know."
+    },
+    {
+      "header": "[u2550 | 03:21:41.400-03:21:44.670 | Kaleho]",
+      "lineNumber": 2550,
+      "originalText": "As it says it's part of his word murph murph folk.",
+      "cleanedText": "As it says it's part of his word murph merfolk."
+    },
+    {
+      "header": "[u2560 | 03:22:11.370-03:22:20.400 | DM]",
+      "lineNumber": 2560,
+      "originalText": "You would defile the tomb of my master with the leaving of our ancient enemies.",
+      "cleanedText": "You would defile the tomb of my master with the leavings of our ancient enemies."
+    },
+    {
+      "header": "[u2566 | 03:22:47.520-03:22:48.540 | Ryu]",
+      "lineNumber": 2566,
+      "originalText": "TIM I get blue in here.",
+      "cleanedText": "Tim, I get Blu in here."
+    },
+    {
+      "header": "[u2567 | 03:22:49.470-03:22:51.990 | DM]",
+      "lineNumber": 2567,
+      "originalText": "Well yeah my mixer on blue.",
+      "cleanedText": "Well yeah my mixer on Blu."
+    },
+    {
+      "header": "[u2569 | 03:22:56.460-03:22:58.140 | Trok]",
+      "lineNumber": 2569,
+      "originalText": "lose like invisible in this blue room.",
+      "cleanedText": "Blu's like invisible in this blue room."
+    },
+    {
+      "header": "[u2573 | 03:23:21.360-03:23:22.260 | DM]",
+      "lineNumber": 2573,
+      "originalText": "or truck.",
+      "cleanedText": "or Trok."
+    },
+    {
+      "header": "[u2578 | 03:23:35.490-03:23:40.410 | DM]",
+      "lineNumber": 2578,
+      "originalText": "truck is sorry hold on truck is nine marissa is 23.",
+      "cleanedText": "Trok is sorry hold on Trok is nine, Nerissa is 23."
+    },
+    {
+      "header": "[u2580 | 03:23:44.400-03:23:47.490 | Ryu]",
+      "lineNumber": 2580,
+      "originalText": "So blue is gonna be okay, because you can fly around everybody else to get the Fuck is wrong.",
+      "cleanedText": "So Blu is gonna be okay, because you can fly around everybody else to get the Fuck is wrong."
+    },
+    {
+      "header": "[u2586 | 03:24:09.480-03:24:14.010 | DM]",
+      "lineNumber": 2586,
+      "originalText": "Okay, now I can add your own all your turns not blue.",
+      "cleanedText": "Okay, now I can add your own all your turns, not Blu."
+    },
+    {
+      "header": "[u2587 | 03:24:17.100-03:24:19.620 | DM]",
+      "lineNumber": 2587,
+      "originalText": "Okay sorry so truck got.",
+      "cleanedText": "Okay sorry so Trok got."
+    },
+    {
+      "header": "[u2588 | 03:24:21.780-03:24:24.690 | DM]",
+      "lineNumber": 2588,
+      "originalText": "truck was nine he was seven.",
+      "cleanedText": "Trok was nine he was seven."
+    },
+    {
+      "header": "[u2605 | 03:25:24.240-03:25:27.120 | DM]",
+      "lineNumber": 2605,
+      "originalText": "Okay, so kayla was up first.",
+      "cleanedText": "Okay, so Kaleho is up first."
+    },
+    {
+      "header": "[u2623 | 03:26:43.500-03:26:44.850 | DM]",
+      "lineNumber": 2623,
+      "originalText": "And nervosa Europe.",
+      "cleanedText": "And Nerissa Europe."
+    },
+    {
+      "header": "[u2631 | 03:27:13.830-03:27:19.050 | Nerissa]",
+      "lineNumber": 2631,
+      "originalText": "play my my piercing tuned because this person seems pretty stony too so i'm gonna.",
+      "cleanedText": "play my my piercing tune because this person seems pretty stony too so i'm gonna."
+    },
+    {
+      "header": "[u2643 | 03:28:12.840-03:28:14.340 | DM]",
+      "lineNumber": 2643,
+      "originalText": "um hi Asa is.",
+      "cleanedText": "um Hiyasa is."
+    },
+    {
+      "header": "[u2649 | 03:28:41.550-03:28:44.820 | Nerissa]",
+      "lineNumber": 2649,
+      "originalText": "This will tune up Arctic inspiration in my bonus action to.",
+      "cleanedText": "This little tune of bardic inspiration in my bonus action to."
+    },
+    {
+      "header": "[u2656 | 03:29:08.040-03:29:08.610 | DM]",
+      "lineNumber": 2656,
+      "originalText": "review.",
+      "cleanedText": "Ryu?"
+    },
+    {
+      "header": "[u2668 | 03:30:16.980-03:30:19.170 | DM]",
+      "lineNumber": 2668,
+      "originalText": "And it is now trucks turn.",
+      "cleanedText": "And it is now Trok's turn."
+    },
+    {
+      "header": "[u2669 | 03:30:19.860-03:30:21.510 | Ryu]",
+      "lineNumber": 2669,
+      "originalText": "giant truck giant.",
+      "cleanedText": "giant Trok giant."
+    },
+    {
+      "header": "[u2675 | 03:30:44.850-03:30:51.540 | DM]",
+      "lineNumber": 2675,
+      "originalText": "I know this, this is just a giant like a 15 foot tall stone statue of of a.",
+      "cleanedText": "I know this, this is just a giant like a 15 foot tall stone statue of a."
+    },
+    {
+      "header": "[u2680 | 03:31:06.090-03:31:14.610 | Trok]",
+      "lineNumber": 2680,
+      "originalText": "No okay so activate primal mate and get huge I activate eldridge mall.",
+      "cleanedText": "No okay so activate Primal Might and get huge I activate Eldritch Maul."
+    },
+    {
+      "header": "[u2681 | 03:31:16.320-03:31:24.600 | Trok]",
+      "lineNumber": 2681,
+      "originalText": "which makes is a glowing clause that extend my unarmed strikes to a 15 foot range and extra damage.",
+      "cleanedText": "which makes is a glowing claws that extend my unarmed strikes to a 15 foot range and extra damage."
+    },
+    {
+      "header": "[u2684 | 03:31:38.130-03:31:42.510 | Trok]",
+      "lineNumber": 2684,
+      "originalText": "that's interesting um can actually do just the Elder small and.",
+      "cleanedText": "that's interesting um can actually do just the Eldritch Maul and."
+    },
+    {
+      "header": "[u2685 | 03:31:43.170-03:31:46.140 | Trok]",
+      "lineNumber": 2685,
+      "originalText": "yep okay so i'll get small again sorry.",
+      "cleanedText": "yep okay so i'll get Maul again sorry."
+    },
+    {
+      "header": "[u2686 | 03:31:47.280-03:31:50.850 | Trok]",
+      "lineNumber": 2686,
+      "originalText": "Because I want to start with the range to tech and i'm actually going to step.",
+      "cleanedText": "Because I want to start with the range attack and i'm actually going to step."
+    },
+    {
+      "header": "[u2688 | 03:31:56.040-03:32:01.320 | Trok]",
+      "lineNumber": 2688,
+      "originalText": "i'm sort of like on the stairs I want to be my eldridge small range, which is 15.",
+      "cleanedText": "i'm sort of like on the stairs I want to be my Eldritch Maul range, which is 15."
+    },
+    {
+      "header": "[u2690 | 03:32:02.850-03:32:08.070 | Trok]",
+      "lineNumber": 2690,
+      "originalText": "Okay, and then i'll make to eldridge small attacks so again on earth strike.",
+      "cleanedText": "Okay, and then i'll make to Eldritch Maul attacks so again unarmed strike."
+    },
+    {
+      "header": "[u2711 | 03:33:02.550-03:33:05.070 | DM]",
+      "lineNumber": 2711,
+      "originalText": "nurses song your second last.",
+      "cleanedText": "Nerissa's song, your second blast."
+    },
+    {
+      "header": "[u2713 | 03:33:08.640-03:33:11.400 | Trok]",
+      "lineNumber": 2713,
+      "originalText": "And then it gets the additional filter small damage right.",
+      "cleanedText": "And then it gets the additional Eldritch Maul damage right."
+    },
+    {
+      "header": "[u2723 | 03:33:39.240-03:33:39.990 | DM]",
+      "lineNumber": 2723,
+      "originalText": "Real you're up.",
+      "cleanedText": "Ryu, you're up."
+    },
+    {
+      "header": "[u2731 | 03:34:03.000-03:34:06.420 | Ryu]",
+      "lineNumber": 2731,
+      "originalText": "And then, I have a blue streak down and.",
+      "cleanedText": "And then, I have Blu streak down and."
+    },
+    {
+      "header": "[u2752 | 03:35:25.710-03:35:35.940 | Kaleho]",
+      "lineNumber": 2752,
+      "originalText": "correct, but if I had bone okay got it so, then I take aim, I put all my rage of him being so mean to them or folks that I love so dearly.",
+      "cleanedText": "correct, but if I had bone okay got it so, then I take aim, I put all my rage of him being so mean to the merfolk that I love so dearly."
+    },
+    {
+      "header": "[u2768 | 03:36:35.370-03:36:37.710 | Nerissa]",
+      "lineNumber": 2768,
+      "originalText": "stone pillar that killer is not on.",
+      "cleanedText": "stone pillar that Kaleho is not on."
+    },
+    {
+      "header": "[u2796 | 03:38:25.950-03:38:29.220 | Nerissa]",
+      "lineNumber": 2796,
+      "originalText": "throw how about I cast countries films did.",
+      "cleanedText": "throw how about I cast Tasha's Hideous Laughter."
+    },
+    {
+      "header": "[u2802 | 03:38:41.640-03:38:49.800 | DM]",
+      "lineNumber": 2802,
+      "originalText": "Under this words this energy begins to spread out from him this piercing malady from.",
+      "cleanedText": "Under his words this energy begins to spread out from him this piercing malady from."
+    },
+    {
+      "header": "[u2810 | 03:39:22.380-03:39:25.350 | DM]",
+      "lineNumber": 2810,
+      "originalText": "Real you do get an attack of opportunity if you'd like to use that.",
+      "cleanedText": "Ryu, you do get an attack of opportunity if you'd like to use that."
+    },
+    {
+      "header": "[u2814 | 03:39:40.950-03:39:42.060 | DM]",
+      "lineNumber": 2814,
+      "originalText": "Okay truck you're up.",
+      "cleanedText": "Okay Trok you're up."
+    },
+    {
+      "header": "[u2816 | 03:39:49.320-03:39:56.010 | Trok]",
+      "lineNumber": 2816,
+      "originalText": "build rich mall attack, I have a move of 30 so let's see if I can do it, so I need to get.",
+      "cleanedText": "Eldritch Maul attack, I have a move of 30 so let's see if I can do it, so I need to get."
+    },
+    {
+      "header": "[u2831 | 03:40:44.280-03:40:50.010 | Trok]",
+      "lineNumber": 2831,
+      "originalText": "Actions surge I didn't think of using that for movement okay so i'll use my action search.",
+      "cleanedText": "Actions surge I didn't think of using that for movement okay so i'll use my Action Surge."
+    },
+    {
+      "header": "[u2841 | 03:41:17.070-03:41:24.360 | Trok]",
+      "lineNumber": 2841,
+      "originalText": "A way I don't want to use my action search so i'm just gonna run up and then I can't attack, but I use my bonus action to get huge.",
+      "cleanedText": "A way I don't want to use my Action Surge so i'm just gonna run up and then I can't attack, but I use my bonus action to get huge."
+    },
+    {
+      "header": "[u2871 | 03:43:05.940-03:43:13.050 | Kaleho]",
+      "lineNumber": 2871,
+      "originalText": "Is this within range right you get sneak attack advantage, or is he too far away from truck.",
+      "cleanedText": "Is this within range if I get sneak attack advantage, or is he too far away from Trok."
+    },
+    {
+      "header": "[u2880 | 03:43:41.040-03:43:42.030 | Kaleho]",
+      "lineNumber": 2880,
+      "originalText": "Australia oh yeah.",
+      "cleanedText": "Oh, true oh yeah."
+    },
+    {
+      "header": "[u2891 | 03:44:20.460-03:44:22.680 | Nerissa]",
+      "lineNumber": 2891,
+      "originalText": "It can be any food just move close to herself.",
+      "cleanedText": "It can be any point just move close to herself."
+    },
+    {
+      "header": "[u2898 | 03:44:43.440-03:44:47.640 | Nerissa]",
+      "lineNumber": 2898,
+      "originalText": "Do it that does seems to be able to compensate for my shatters these.",
+      "cleanedText": "Do it that does seems to be able to compensate for my Shatters."
+    },
+    {
+      "header": "[u2903 | 03:45:10.650-03:45:12.240 | Ryu]",
+      "lineNumber": 2903,
+      "originalText": "What what character classes marissa.",
+      "cleanedText": "What what character classes Nerissa."
+    },
+    {
+      "header": "[u2904 | 03:45:14.580-03:45:14.970 | Nerissa]",
+      "lineNumber": 2904,
+      "originalText": "ARD.",
+      "cleanedText": "bard."
+    },
+    {
+      "header": "[u2933 | 03:47:24.390-03:47:25.470 | DM]",
+      "lineNumber": 2933,
+      "originalText": "Okay truck you're up.",
+      "cleanedText": "Okay Trok, you're up."
+    },
+    {
+      "header": "[u2949 | 03:48:05.100-03:48:10.260 | Trok]",
+      "lineNumber": 2949,
+      "originalText": "All right, I will run straight up to him and attacking with eldridge mall.",
+      "cleanedText": "All right, I will run straight up to him and attacking with Eldritch Maul."
+    },
+    {
+      "header": "[u2954 | 03:48:23.280-03:48:26.460 | Trok]",
+      "lineNumber": 2954,
+      "originalText": "But, am I now i'm going to be too short for elder small.",
+      "cleanedText": "But, am I now i'm going to be too short for Eldritch Maul."
+    },
+    {
+      "header": "[u2966 | 03:49:16.380-03:49:23.610 | Trok]",
+      "lineNumber": 2966,
+      "originalText": "I oh I forgot about this tattoo water thing um and oh he's the water dislike or i'm.",
+      "cleanedText": "I oh I forgot about this tattoo water thing um and oh he's the Water Delike or i'm."
+    },
+    {
+      "header": "[u2971 | 03:49:48.180-03:49:52.230 | Trok]",
+      "lineNumber": 2971,
+      "originalText": "When it ends its terms within 30 feet said within 30 feet of me all right yeah i'm close enough.",
+      "cleanedText": "When it ends its turn within 30 feet said within 30 feet of me all right yeah i'm close enough."
+    },
+    {
+      "header": "[u2992 | 03:51:10.890-03:51:12.150 | DM]",
+      "lineNumber": 2992,
+      "originalText": "That ends your turn review.",
+      "cleanedText": "That ends your turn Ryu."
+    },
+    {
+      "header": "[u3025 | 03:52:42.600-03:52:44.130 | Ryu]",
+      "lineNumber": 3025,
+      "originalText": "But blue fortunately.",
+      "cleanedText": "But Blu, fortunately."
+    },
+    {
+      "header": "[u3030 | 03:52:55.770-03:53:01.380 | Kaleho]",
+      "lineNumber": 3030,
+      "originalText": "So co takes a deep breath with a with steady aim.",
+      "cleanedText": "So Kaleho takes a deep breath with a with steady aim."
+    },
+    {
+      "header": "[u3031 | 03:53:02.640-03:53:04.290 | Kaleho]",
+      "lineNumber": 3031,
+      "originalText": "and tries to threaten air her.",
+      "cleanedText": "and tries to thread an arrow."
+    },
+    {
+      "header": "[u3032 | 03:53:05.490-03:53:07.470 | Kaleho]",
+      "lineNumber": 3032,
+      "originalText": "Past rock toward.",
+      "cleanedText": "past Trok toward."
+    },
+    {
+      "header": "[u3038 | 03:53:31.290-03:53:32.670 | Nerissa]",
+      "lineNumber": 3038,
+      "originalText": "You just movies, or two straight.",
+      "cleanedText": "You just move, so straight."
+    },
+    {
+      "header": "[u3052 | 03:54:42.540-03:54:56.940 | DM]",
+      "lineNumber": 3052,
+      "originalText": "So he turns any then please again 12345678 to their i'm turning and getting as far away from nurses as possible.",
+      "cleanedText": "So he turns any then please again 12345678 to their i'm turning and getting as far away from Nerissa as possible."
+    },
+    {
+      "header": "[u3054 | 03:55:03.000-03:55:06.990 | Nerissa]",
+      "lineNumber": 3054,
+      "originalText": "And i'll send a particle inspiration to you again.",
+      "cleanedText": "And i'll send a bardic inspiration to you again."
+    },
+    {
+      "header": "[u3067 | 03:56:00.960-03:56:04.290 | Trok]",
+      "lineNumber": 3067,
+      "originalText": "Their boxes of niceness probably.",
+      "cleanedText": "Their boxes of nice things probably."
+    },
+    {
+      "header": "[u3086 | 03:57:04.440-03:57:17.070 | DM]",
+      "lineNumber": 3086,
+      "originalText": "Right you and review and truck you managed to avoid being restrained but you're still stuck in the mud, and it takes you four feet of movement for every foot of movement to move through at.",
+      "cleanedText": "Ryu and Trok you managed to avoid being restrained but you're still stuck in the mud, and it takes you four feet of movement for every foot of movement to move through it."
+    },
+    {
+      "header": "[u3096 | 03:58:01.080-03:58:03.150 | DM]",
+      "lineNumber": 3096,
+      "originalText": "kayla a giant hand.",
+      "cleanedText": "Kaleho a giant hand."
+    },
+    {
+      "header": "[u3105 | 03:58:36.690-03:58:38.070 | Ryu]",
+      "lineNumber": 3105,
+      "originalText": "truck, we have to kill it this turn.",
+      "cleanedText": "Trok, we have to kill it this turn."
+    },
+    {
+      "header": "[u3106 | 03:58:38.940-03:58:47.310 | Trok]",
+      "lineNumber": 3106,
+      "originalText": "I don't know that we can because I can't even necessarily get close enough to it to attack it with eldridge mall because so at the multipliers for.",
+      "cleanedText": "I don't know that we can because I can't even necessarily get close enough to it to attack it with Eldritch Maul because so at the multipliers for."
+    },
+    {
+      "header": "[u3137 | 04:00:33.330-04:00:35.190 | Kaleho]",
+      "lineNumber": 3137,
+      "originalText": "Because it's mom now so she can.",
+      "cleanedText": "Because it's mud now so she can."
+    },
+    {
+      "header": "[u3173 | 04:02:11.730-04:02:12.870 | DM]",
+      "lineNumber": 3173,
+      "originalText": "All right, kayla you are.",
+      "cleanedText": "All right, Kaleho you are."
+    },
+    {
+      "header": "[u3174 | 04:02:13.980-04:02:14.280 | Ryu]",
+      "lineNumber": 3174,
+      "originalText": "blue.",
+      "cleanedText": "Blu."
+    },
+    {
+      "header": "[u3175 | 04:02:14.730-04:02:17.130 | DM]",
+      "lineNumber": 3175,
+      "originalText": "Blue after attack yellow blue super far away.",
+      "cleanedText": "Blu after attack yeah, Blu's super far away."
+    },
+    {
+      "header": "[u3178 | 04:02:20.370-04:02:22.950 | Ryu]",
+      "lineNumber": 3178,
+      "originalText": "boo boo boos been blues been attacking.",
+      "cleanedText": "Blu, Blu, Blu's been, Blu's been attacking."
+    },
+    {
+      "header": "[u3179 | 04:02:23.490-04:02:25.920 | DM]",
+      "lineNumber": 3179,
+      "originalText": "The House of blues like staying with you okay.",
+      "cleanedText": "Blu's like staying with you okay."
+    },
+    {
+      "header": "[u3181 | 04:02:27.660-04:02:29.880 | DM]",
+      "lineNumber": 3181,
+      "originalText": "Right right right right okay so blue got to attack.",
+      "cleanedText": "Right right right right okay so Blu got to attack."
+    },
+    {
+      "header": "[u3182 | 04:02:30.480-04:02:33.480 | Ryu]",
+      "lineNumber": 3182,
+      "originalText": "Lewis he's fine he's like he's not like standing next to.",
+      "cleanedText": "Blu is, he's fine he's like he's not like standing next to."
+    },
+    {
+      "header": "[u3183 | 04:02:33.600-04:02:34.110 | Nerissa]",
+      "lineNumber": 3183,
+      "originalText": "Happy New Year.",
+      "cleanedText": "Help me here."
+    },
+    {
+      "header": "[u3190 | 04:02:47.789-04:02:49.619 | DM]",
+      "lineNumber": 3190,
+      "originalText": "So blue dye bombs and again.",
+      "cleanedText": "So Blu dive bombs and again."
+    },
+    {
+      "header": "[u3194 | 04:02:58.830-04:03:03.120 | DM]",
+      "lineNumber": 3194,
+      "originalText": "Ah kayla you are crushed by the hand you take five points of.",
+      "cleanedText": "Ah Kaleho you are crushed by the hand you take five points of."
+    },
+    {
+      "header": "[u3196 | 04:03:11.610-04:03:13.230 | Kaleho]",
+      "lineNumber": 3196,
+      "originalText": "That I do studies shot, while.",
+      "cleanedText": "That I do steady shot, while."
+    },
+    {
+      "header": "[u3203 | 04:03:21.840-04:03:23.160 | Kaleho]",
+      "lineNumber": 3203,
+      "originalText": "Very studying right now.",
+      "cleanedText": "Very steadying right now."
+    },
+    {
+      "header": "[u3216 | 04:03:54.360-04:03:59.100 | DM]",
+      "lineNumber": 3216,
+      "originalText": "You are restrained, so your speed is zero and you're also thinking into the mug.",
+      "cleanedText": "You are restrained, so your speed is zero and you're also sinking into the mud."
+    },
+    {
+      "header": "[u3218 | 04:04:01.260-04:04:05.250 | Nerissa]",
+      "lineNumber": 3218,
+      "originalText": "Oh, I can't do anything about fact that i'm thinking into my head because.",
+      "cleanedText": "Oh, I can't do anything about fact that i'm sinking into the mud because."
+    },
+    {
+      "header": "[u3221 | 04:04:18.480-04:04:28.320 | Nerissa]",
+      "lineNumber": 3221,
+      "originalText": "Oh, I know I can still cast spells like dubious this to my ability to given my fedex strength and dubious it's, to the benefit of struggling.",
+      "cleanedText": "Oh, I know I can still cast spells like use this to my ability to given my pathetic strength and dubious it's, to the benefit of struggling."
+    },
+    {
+      "header": "[u3226 | 04:04:40.590-04:04:41.760 | Kaleho]",
+      "lineNumber": 3226,
+      "originalText": "cutouts mud.",
+      "cleanedText": "get out of mud."
+    },
+    {
+      "header": "[u3277 | 04:08:07.920-04:08:09.480 | Trok]",
+      "lineNumber": 3277,
+      "originalText": "And what's the whatever really against.",
+      "cleanedText": "And what's the whatever, roll again."
+    },
+    {
+      "header": "[u3279 | 04:08:19.470-04:08:21.180 | DM]",
+      "lineNumber": 3279,
+      "originalText": "So that's one failure truck.",
+      "cleanedText": "So that's one failure Trok."
+    },
+    {
+      "header": "[u3280 | 04:08:23.310-04:08:25.710 | DM]",
+      "lineNumber": 3280,
+      "originalText": "truck is beginning to sink underneath the mud.",
+      "cleanedText": "Trok is beginning to sink underneath the mud."
+    },
+    {
+      "header": "[u3281 | 04:08:26.910-04:08:29.310 | DM]",
+      "lineNumber": 3281,
+      "originalText": "starting to suffocate real Europe.",
+      "cleanedText": "starting to suffocate. Ryu, you're up."
+    },
+    {
+      "header": "[u3299 | 04:09:27.270-04:09:28.740 | Ryu]",
+      "lineNumber": 3299,
+      "originalText": "All fucking track out of the mud.",
+      "cleanedText": "All fucking Trok out of the mud."
+    },
+    {
+      "header": "[u3300 | 04:09:29.430-04:09:33.810 | DM]",
+      "lineNumber": 3300,
+      "originalText": "Ah, you just use your accent, you can step into the mud.",
+      "cleanedText": "Ah, you just use your action, you can step into the mud."
+    },
+    {
+      "header": "[u3320 | 04:10:36.000-04:10:38.550 | Ryu]",
+      "lineNumber": 3320,
+      "originalText": "ryu takes his hand and kind of opens it up and then.",
+      "cleanedText": "Ryu takes his hand and kind of opens it up and then."
+    },
+    {
+      "header": "[u3321 | 04:10:39.690-04:10:53.880 | Ryu]",
+      "lineNumber": 3321,
+      "originalText": "lows and then you see this little kind of swarm of like little small fishes start swimming over to at truck and they start swirling around them and truck you feel that the spirit of sardines and suddenly reanimating you.",
+      "cleanedText": "flows, and then you see this little kind of swarm of like little small fishes start swimming over to to Trok and they start swirling around them and Trok you feel that the spirit of sardines and suddenly reanimating you."
+    },
+    {
+      "header": "[u3323 | 04:11:00.120-04:11:02.760 | DM]",
+      "lineNumber": 3323,
+      "originalText": "So that's your bonus action so truck is now awake.",
+      "cleanedText": "So that's your bonus action so Trok is now awake."
+    },
+    {
+      "header": "[u3334 | 04:11:25.410-04:11:28.770 | Trok]",
+      "lineNumber": 3334,
+      "originalText": "there's Oh, I see healing for a platoon.",
+      "cleanedText": "there's Oh, I see healing for a potion."
+    },
+    {
+      "header": "[u3336 | 04:11:33.840-04:11:36.660 | DM]",
+      "lineNumber": 3336,
+      "originalText": "So it is now kayla's turn.",
+      "cleanedText": "So it is now Kaleho's turn."
+    },
+    {
+      "header": "[u3342 | 04:11:58.350-04:12:09.060 | Kaleho]",
+      "lineNumber": 3342,
+      "originalText": "um So if I can with dash face, can I get here from bonus action these my action to pour out yep Okay, so I do that.",
+      "cleanedText": "um So if I can with dash phase, can I get here from bonus action use my action to pour out yep Okay, so I do that."
+    },
+    {
+      "header": "[u3385 | 04:14:36.390-04:14:38.130 | DM]",
+      "lineNumber": 3385,
+      "originalText": "hi Asa is going to run.",
+      "cleanedText": "Hiyasa is going to run."
+    },
+    {
+      "header": "[u3391 | 04:14:58.470-04:15:01.350 | DM]",
+      "lineNumber": 3391,
+      "originalText": "don't call him his dad truck.",
+      "cleanedText": "don't call him his dead, Trok."
+    },
+    {
+      "header": "[u3398 | 04:15:37.650-04:15:44.250 | Trok]",
+      "lineNumber": 3398,
+      "originalText": "favor of the handset nope not that one spiritual affinity 2000 as in Co.",
+      "cleanedText": "favor of the hansat nope not that one Spiritual Affinity to Tuanesco."
+    },
+    {
+      "header": "[u3399 | 04:15:45.900-04:15:53.310 | Trok]",
+      "lineNumber": 3399,
+      "originalText": "Before you make a really great yourself advantage I great myself advantage on my because all I have to do is make a strength check to get out right.",
+      "cleanedText": "Before you make a really grant yourself advantage? I grant myself advantage on my because all I have to do is make a strength check to get out right."
+    },
+    {
+      "header": "[u3403 | 04:16:00.540-04:16:02.310 | Trok]",
+      "lineNumber": 3403,
+      "originalText": "And then I make a strength sitting through.",
+      "cleanedText": "And then I make a strength saving throw."
+    },
+    {
+      "header": "[u3408 | 04:16:14.250-04:16:22.050 | DM]",
+      "lineNumber": 3408,
+      "originalText": "pull your you see like like so us you all saw truck to go underneath the earth unconscious as the.",
+      "cleanedText": "Pull. You you see like like so us you all saw Trok go underneath the earth unconscious as the."
+    },
+    {
+      "header": "[u3409 | 04:16:23.100-04:16:31.260 | DM]",
+      "lineNumber": 3409,
+      "originalText": "statue through them and then these like sardines swarm underneath and then you just see like this muddy had.",
+      "cleanedText": "statue through them and then these like sardines swarm underneath and then you just see like this muddy head."
+    },
+    {
+      "header": "[u3424 | 04:17:11.280-04:17:17.580 | Ryu]",
+      "lineNumber": 3424,
+      "originalText": "But that was kind of a random like you kind of just threw him into the thing like it wasn't me through him like 20.",
+      "cleanedText": "But that was kind of a random like you kind of just threw him into the thing like it wasn't me that threw him like 20."
+    },
+    {
+      "header": "[u3432 | 04:17:35.220-04:17:40.980 | Trok]",
+      "lineNumber": 3432,
+      "originalText": "Okay, who still covered in mud, but i'm not trapped and and conscious.",
+      "cleanedText": "Trok still covered in mud, but i'm not trapped and and conscious."
+    },
+    {
+      "header": "[u3439 | 04:17:58.050-04:17:59.250 | Nerissa]",
+      "lineNumber": 3439,
+      "originalText": "Why are you doing.",
+      "cleanedText": "What are you doing."
+    },
+    {
+      "header": "[u3443 | 04:18:03.960-04:18:07.500 | Kaleho]",
+      "lineNumber": 3443,
+      "originalText": "I think we should threaten her will try to restrain her she's.",
+      "cleanedText": "I think we should threaten her or try to restrain her she's."
+    },
+    {
+      "header": "[u3451 | 04:18:27.690-04:18:30.420 | Kaleho]",
+      "lineNumber": 3451,
+      "originalText": "Do you let this grapple to like restrain her is that a thing.",
+      "cleanedText": "Can you just grapple to like restrain her is that a thing."
+    },
+    {
+      "header": "[u3468 | 04:19:24.840-04:19:26.250 | Trok]",
+      "lineNumber": 3468,
+      "originalText": "we're friends of wardens.",
+      "cleanedText": "we're friends of Orden."
+    },
+    {
+      "header": "[u3471 | 04:19:34.050-04:19:35.910 | Ryu]",
+      "lineNumber": 3471,
+      "originalText": "haha throw you back into the money.",
+      "cleanedText": "haha throw you back into the muddy."
+    },
+    {
+      "header": "[u3478 | 04:19:50.130-04:19:55.410 | Trok]",
+      "lineNumber": 3478,
+      "originalText": "Now now really thanks for saving my scaly but once again.",
+      "cleanedText": "Now now Ryu, thanks for saving my scaly but once again."
+    },
+    {
+      "header": "[u3483 | 04:20:10.230-04:20:22.920 | Trok]",
+      "lineNumber": 3483,
+      "originalText": "Well i've known ordinance for a long time and he's always told me stories about about you and and he Let he let me know that you were in trouble, and that maybe there was.",
+      "cleanedText": "Well i've known Orden for a long time and he's always told me stories about about you and and he let me let me know that you were in trouble, and that maybe there was."
+    },
+    {
+      "header": "[u3484 | 04:20:22.950-04:20:24.510 | Trok]",
+      "lineNumber": 3484,
+      "originalText": "A little cash, we had a long way.",
+      "cleanedText": "A little cash, to be had along the way."
+    },
+    {
+      "header": "[u3494 | 04:21:04.860-04:21:05.340 | Kaleho]",
+      "lineNumber": 3494,
+      "originalText": "Gray.",
+      "cleanedText": "Great."
+    },
+    {
+      "header": "[u3526 | 04:23:18.660-04:23:20.730 | Trok]",
+      "lineNumber": 3526,
+      "originalText": "Really obvious that's good for fiscal it's point.",
+      "cleanedText": "Really obvious that's good for Hiyasa's it's point."
+    },
+    {
+      "header": "[u3535 | 04:23:51.480-04:23:54.030 | Trok]",
+      "lineNumber": 3535,
+      "originalText": "where'd you get all this stuff's bill scrolls and a treasure map.",
+      "cleanedText": "where'd you get all this stuff, spell scrolls and a treasure map."
+    },
+    {
+      "header": "[u3539 | 04:24:07.770-04:24:09.240 | Trok]",
+      "lineNumber": 3539,
+      "originalText": "Oh i'm know great fan of charting.",
+      "cleanedText": "Oh I'm no great fan of charting."
+    },
+    {
+      "header": "[u3542 | 04:24:17.100-04:24:23.280 | Kaleho]",
+      "lineNumber": 3542,
+      "originalText": "Can I do some thief can't signaling towards her to see if she is.",
+      "cleanedText": "Can I do some thieves' cant signaling towards her to see if she is."
+    },
+    {
+      "header": "[u3547 | 04:24:38.370-04:24:42.600 | DM]",
+      "lineNumber": 3547,
+      "originalText": "way of marketing things and it's not really a language exactly.",
+      "cleanedText": "way of marking things and it's not really a language exactly."
+    },
+    {
+      "header": "[u3551 | 04:25:14.490-04:25:22.440 | Kaleho]",
+      "lineNumber": 3551,
+      "originalText": "i'm looking the features and says you've earned thieves, can a secret mentioned dialogue jargon and code that allows you to hide messages and seemingly normal conversation.",
+      "cleanedText": "i'm looking the features and says you've earned thieves' cant a secret mix of dialect jargon and code that allows you to hide messages and seemingly normal conversation."
+    },
+    {
+      "header": "[u3552 | 04:25:24.000-04:25:39.300 | Kaleho]",
+      "lineNumber": 3552,
+      "originalText": "i'm just trying to like feeler out like you know I put out a signal and whatever like through verbal communication and does she just bite like this, you signal, yes, I am of this world, or is he just a normal naive avenger.",
+      "cleanedText": "i'm just trying to like feel her out like you know I put out a signal and whatever like through verbal communication and does she just bite like this, you signal, yes, I am of this world, or is he just a normal naive adventurer."
+    },
+    {
+      "header": "[u3555 | 04:26:16.860-04:26:21.450 | Ryu]",
+      "lineNumber": 3555,
+      "originalText": "So, invest in the gems what's going on the loop.",
+      "cleanedText": "So, investigate the gems what's going on the loot."
+    },
+    {
+      "header": "[u3558 | 04:26:31.680-04:26:35.160 | Ryu]",
+      "lineNumber": 3558,
+      "originalText": "i'm on really looking for best the last really.",
+      "cleanedText": "i'm on really looking for the best glass really."
+    },
+    {
+      "header": "[u3565 | 04:27:17.310-04:27:17.880 | Ryu]",
+      "lineNumber": 3565,
+      "originalText": "US inside.",
+      "cleanedText": "Use Insight."
+    },
+    {
+      "header": "[u3567 | 04:27:38.070-04:27:38.850 | Ryu]",
+      "lineNumber": 3567,
+      "originalText": "Open English.",
+      "cleanedText": "Open? English?."
+    },
+    {
+      "header": "[u3574 | 04:28:11.520-04:28:20.760 | DM]",
+      "lineNumber": 3574,
+      "originalText": "Maybe gold glinting in there, but they're all like you don't recognize them at all they're not my wire that chart and they're not coins from anywhere around here.",
+      "cleanedText": "Maybe gold glinting in there, but they're all like you don't recognize them at all they're not Mawar that chart and they're not coins from anywhere around here."
+    },
+    {
+      "header": "[u3586 | 04:29:00.480-04:29:02.670 | Ryu]",
+      "lineNumber": 3586,
+      "originalText": "Intelligence check not assuming grow.",
+      "cleanedText": "Intelligence check not assuming no."
+    },
+    {
+      "header": "[u3594 | 04:29:31.440-04:29:34.980 | Ryu]",
+      "lineNumber": 3594,
+      "originalText": "When I look at these nurses and be recognized them.",
+      "cleanedText": "When I look at these Nerissa maybe recognized them."
+    },
+    {
+      "header": "[u3632 | 04:32:48.300-04:32:58.620 | Kaleho]",
+      "lineNumber": 3632,
+      "originalText": "For the pearl that catches callow's eyes, because of the possible perfect more folk oceanic connection I do investigative check on that one.",
+      "cleanedText": "For the pearl that catches Kaleho's eyes, because of the possible perfect merfolk oceanic connection I do investigative check on that one."
+    },
+    {
+      "header": "[u3652 | 04:34:36.150-04:34:40.260 | Nerissa]",
+      "lineNumber": 3652,
+      "originalText": "have to tech magic ethan anything there, well, we for a reason.",
+      "cleanedText": "have to detect magic or anything anything there, well, we for a reason."
+    },
+    {
+      "header": "[u3655 | 04:34:47.700-04:34:50.310 | DM]",
+      "lineNumber": 3655,
+      "originalText": "Or was here, I think he also has detect magic.",
+      "cleanedText": "Or Wazir, I think he also has detect magic."
+    },
+    {
+      "header": "[u3678 | 04:36:52.350-04:36:53.490 | Nerissa]",
+      "lineNumber": 3678,
+      "originalText": "Reading for tiger.",
+      "cleanedText": "Reading for taxes."
+    },
+    {
+      "header": "[u3679 | 04:36:55.380-04:36:57.270 | Trok]",
+      "lineNumber": 3679,
+      "originalText": "Talk tax documents from 10 years.",
+      "cleanedText": "To tax documents from 10 years."
+    },
+    {
+      "header": "[u3690 | 04:37:31.980-04:37:39.060 | Kaleho]",
+      "lineNumber": 3690,
+      "originalText": "we've disarmed, most of the traps just the saver and the sticky gooey and maybe that's solidified that the guys dad.",
+      "cleanedText": "we've disarmed, most of the traps just the saber and the sticky gooey and maybe that's solidified that the guy's dead."
+    },
+    {
+      "header": "[u3709 | 04:38:56.100-04:39:00.660 | DM]",
+      "lineNumber": 3709,
+      "originalText": "Yes, was here like as you carefully log all this stuff back.",
+      "cleanedText": "Yes, Wazir like as you carefully lug all this stuff back."
+    },
+    {
+      "header": "[u3710 | 04:39:02.130-04:39:07.740 | DM]",
+      "lineNumber": 3710,
+      "originalText": "This was your House so was here as back of just you know give you his does he have.",
+      "cleanedText": "This was your House so Wazir as backpack just you know give you his does he have."
+    },
+    {
+      "header": "[u3721 | 04:39:55.920-04:39:59.880 | DM]",
+      "lineNumber": 3721,
+      "originalText": "was here, points out that the dark let read liquid smells like.",
+      "cleanedText": "Wazir, points out that the dark let read liquid smells like."
+    },
+    {
+      "header": "[u3728 | 04:40:26.490-04:40:31.260 | Trok]",
+      "lineNumber": 3728,
+      "originalText": "Was this guy human God or a door oven God.",
+      "cleanedText": "Was this guy human God or a Dwarven god."
+    },
+    {
+      "header": "[u3740 | 04:41:40.530-04:41:42.810 | Kaleho]",
+      "lineNumber": 3740,
+      "originalText": "And we don't know the able to dust does either.",
+      "cleanedText": "And we don't know the Abelardust does either."
+    },
+    {
+      "header": "[u3763 | 04:43:09.210-04:43:10.170 | Kaleho]",
+      "lineNumber": 3763,
+      "originalText": "Great engine crawl.",
+      "cleanedText": "Great dungeon crawl."
+    },
+    {
+      "header": "[u3764 | 04:43:10.200-04:43:11.400 | Ryu]",
+      "lineNumber": 3764,
+      "originalText": "weren't more engine better.",
+      "cleanedText": "weren't more dungeon better."
+    },
+    {
+      "header": "[u3767 | 04:43:24.840-04:43:26.880 | Ryu]",
+      "lineNumber": 3767,
+      "originalText": "I can, I can come from structure.",
+      "cleanedText": "I can, I can come from treasure."
+    },
+    {
+      "header": "[u3768 | 04:43:31.350-04:43:32.340 | Nerissa]",
+      "lineNumber": 3768,
+      "originalText": "To the vice chair.",
+      "cleanedText": "To the Wazir."
+    },
+    {
+      "header": "[u3778 | 04:44:02.640-04:44:09.630 | DM]",
+      "lineNumber": 3778,
+      "originalText": "Order and 60 gold is actually a fairly I mean that's like you know, two months salary so that's not nothing.",
+      "cleanedText": "Orden and 60 gold is actually a fairly I mean that's like you know, two months salary so that's not nothing."
+    },
+    {
+      "header": "[u3784 | 04:44:32.370-04:44:32.940 | Nerissa]",
+      "lineNumber": 3784,
+      "originalText": "marissa.",
+      "cleanedText": "Nerissa."
+    },
+    {
+      "header": "[u3786 | 04:44:34.590-04:44:35.580 | Nerissa]",
+      "lineNumber": 3786,
+      "originalText": "pastor here i'll take it.",
+      "cleanedText": "pass through here i'll take it."
+    },
+    {
+      "header": "[u3799 | 04:45:08.940-04:45:13.440 | Ryu]",
+      "lineNumber": 3799,
+      "originalText": "basin paper some upgrades in my spot get that speed new TV and looking for.",
+      "cleanedText": "basic paper some upgrades in my spot, get that speedy new TV and looking for."
+    },
+    {
+      "header": "[u3802 | 04:45:16.920-04:45:18.090 | Kaleho]",
+      "lineNumber": 3802,
+      "originalText": "Last four guys.",
+      "cleanedText": "That's fair, guys."
+    },
+    {
+      "header": "[u3807 | 04:45:23.850-04:45:32.400 | Kaleho]",
+      "lineNumber": 3807,
+      "originalText": "This was awesome I cut the world's building out slowly to it a little set of characters and mysteries some traumatic things that are coming up it's fun.",
+      "cleanedText": "This was awesome I cut the worldbuilding out slowly to it a little set of characters and mysteries some traumatic things that are coming up it's fun."
+    },
+    {
+      "header": "[u3812 | 04:45:42.780-04:45:44.730 | Ryu]",
+      "lineNumber": 3812,
+      "originalText": "weight, but what about wind and fire so.",
+      "cleanedText": "wait, but what about wind and fire so."
+    },
+    {
+      "header": "[u3814 | 04:45:48.300-04:45:49.680 | Kaleho]",
+      "lineNumber": 3814,
+      "originalText": "States and.",
+      "cleanedText": "Thanks and."
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "summary": {
-    "changedLineCount": 214,
-    "replacementCount": 173,
-    "repeatedReplacementCount": 22,
+    "changedLineCount": 307,
+    "replacementCount": 280,
+    "repeatedReplacementCount": 45,
     "topReplacements": [
       {
         "from": "truck",
@@ -112,6 +112,23 @@
         ]
       },
       {
+        "from": "sharks Doc",
+        "to": "Shark ' s Dock",
+        "count": 10,
+        "headers": [
+          "[u1260 | 01:44:37.320-01:44:43.650 | DM]",
+          "[u1268 | 01:45:09.450-01:45:12.150 | Trok]",
+          "[u1601 | 02:11:10.650-02:11:17.880 | DM]",
+          "[u1632 | 02:14:09.810-02:14:17.580 | DM]",
+          "[u1633 | 02:14:18.030-02:14:27.420 | DM]",
+          "[u1634 | 02:14:28.440-02:14:33.450 | DM]",
+          "[u1698 | 02:22:39.450-02:22:53.100 | Wazir]",
+          "[u1818 | 02:33:36.360-02:33:39.900 | DM]",
+          "[u2444 | 03:21:04.230-03:21:13.890 | DM]",
+          "[u2675 | 03:36:09.420-03:36:13.290 | Ryu]"
+        ]
+      },
+      {
         "from": "kalo",
         "to": "Kaleho",
         "count": 8,
@@ -139,6 +156,31 @@
         ]
       },
       {
+        "from": "Doc",
+        "to": "dock",
+        "count": 6,
+        "headers": [
+          "[u1833 | 02:35:11.760-02:35:14.370 | Wazir]",
+          "[u2491 | 03:24:30.570-03:24:37.950 | DM]",
+          "[u2762 | 03:41:55.500-03:41:57.660 | DM]",
+          "[u3233 | 04:09:27.510-04:09:29.460 | Trok]",
+          "[u3234 | 04:09:30.180-04:09:35.910 | Wazir]",
+          "[u3516 | 04:25:57.060-04:26:03.450 | DM]"
+        ]
+      },
+      {
+        "from": "docs",
+        "to": "docks",
+        "count": 5,
+        "headers": [
+          "[u0428 | 00:37:44.070-00:37:48.060 | Wazir]",
+          "[u0619 | 00:54:02.160-00:54:14.640 | DM]",
+          "[u1633 | 02:14:18.030-02:14:27.420 | DM]",
+          "[u3472 | 04:23:03.270-04:23:06.000 | DM]",
+          "[u3474 | 04:23:07.440-04:23:09.750 | Trok]"
+        ]
+      },
+      {
         "from": "Jason",
         "to": "Jaeson",
         "count": 4,
@@ -147,6 +189,17 @@
           "[u0990 | 01:25:25.590-01:25:27.270 | Ryu]",
           "[u0993 | 01:25:31.230-01:25:32.850 | Ryu]",
           "[u0998 | 01:26:06.270-01:26:12.390 | Ryu]"
+        ]
+      },
+      {
+        "from": "area in",
+        "to": "Airion",
+        "count": 4,
+        "headers": [
+          "[u0115 | 00:09:43.020-00:09:56.250 | Wazir]",
+          "[u0255 | 00:20:47.670-00:20:59.010 | DM]",
+          "[u0821 | 01:11:59.130-01:12:01.080 | Wazir]",
+          "[u1429 | 01:58:21.900-01:58:24.000 | DM]"
         ]
       },
       {
@@ -159,61 +212,39 @@
           "[u1081 | 01:32:03.120-01:32:04.200 | DM]",
           "[u2043 | 02:49:59.970-02:50:02.190 | DM]"
         ]
-      },
-      {
-        "from": ".",
-        "to": ",",
-        "count": 3,
-        "headers": [
-          "[u1238 | 01:43:12.600-01:43:14.100 | DM]",
-          "[u1450 | 01:59:48.480-01:59:50.160 | DM]",
-          "[u1467 | 02:01:15.780-02:01:17.460 | DM]"
-        ]
-      },
-      {
-        "from": "Bennett",
-        "to": "Benat",
-        "count": 3,
-        "headers": [
-          "[u1411 | 01:57:29.400-01:57:31.770 | Wazir]",
-          "[u1571 | 02:08:46.770-02:08:48.150 | Wazir]",
-          "[u1613 | 02:12:48.300-02:12:52.380 | Wazir]"
-        ]
-      },
-      {
-        "from": "Gaza",
-        "to": "gatza",
-        "count": 3,
-        "headers": [
-          "[u0074 | 00:06:35.970-00:06:46.710 | Ryu]",
-          "[u0861 | 01:15:33.930-01:15:35.910 | Kaleho]",
-          "[u1152 | 01:36:54.600-01:37:00.750 | Wazir]"
-        ]
-      },
-      {
-        "from": "Hungary",
-        "to": "Hamri",
-        "count": 3,
-        "headers": [
-          "[u0270 | 00:22:17.550-00:22:19.170 | Wazir]",
-          "[u0271 | 00:22:20.160-00:22:23.730 | Wazir]",
-          "[u1578 | 02:09:14.670-02:09:21.000 | DM]"
-        ]
       }
     ],
     "uniqueUnresolvedPhrases": []
   },
   "lineCount": 3597,
-  "changedLineCount": 214,
+  "changedLineCount": 307,
   "validationErrors": [],
   "unresolvedCount": 0,
   "unresolvedPhrases": [],
   "changedLines": [
     {
+      "header": "[u0002 | 00:00:02.909-00:00:05.430 | Wazir]",
+      "lineNumber": 2,
+      "originalText": "I pay some attention to the boats selling in and out.",
+      "cleanedText": "I pay some attention to the boats sailing in and out."
+    },
+    {
+      "header": "[u0003 | 00:00:07.980-00:00:16.619 | Wazir]",
+      "lineNumber": 3,
+      "originalText": "Asked around and nobody had seen this one come in or out, but yet it was gone when I went to work for it again an odd boat made me wonder.",
+      "cleanedText": "Asked around and nobody had seen this one come in or out, but yet it was gone when I went to look for it again. An odd boat made me wonder."
+    },
+    {
       "header": "[u0005 | 00:00:20.310-00:00:21.030 | Wazir]",
       "lineNumber": 5,
       "originalText": "Medina.",
       "cleanedText": "Medin."
+    },
+    {
+      "header": "[u0006 | 00:00:22.440-00:00:24.000 | Wazir]",
+      "lineNumber": 6,
+      "originalText": "medina's mentioned in this scroll.",
+      "cleanedText": "Medin is mentioned in this scroll."
     },
     {
       "header": "[u0007 | 00:00:25.590-00:00:28.230 | Ryu]",
@@ -222,10 +253,28 @@
       "cleanedText": "What does the scroll say, are we able to decipher it, Wazir?"
     },
     {
+      "header": "[u0009 | 00:00:32.760-00:00:35.880 | DM]",
+      "lineNumber": 9,
+      "originalText": "You think we send you a copy of years ago it's in your email.",
+      "cleanedText": "I think we sent you a copy of it years ago, it's in your email."
+    },
+    {
+      "header": "[u0014 | 00:00:47.910-00:00:51.270 | Wazir]",
+      "lineNumber": 14,
+      "originalText": "busy or sent a letter to review and talk.",
+      "cleanedText": "I sent a letter to Ryu and Trok."
+    },
+    {
       "header": "[u0025 | 00:01:26.370-00:01:27.150 | Ryu]",
       "lineNumber": 25,
       "originalText": "yeah was here.",
       "cleanedText": "Yeah, Wazir."
+    },
+    {
+      "header": "[u0029 | 00:01:43.110-00:01:45.600 | Trok]",
+      "lineNumber": 29,
+      "originalText": "Although I did I did you on that part actually.",
+      "cleanedText": "Although I did I did chew on that part actually."
     },
     {
       "header": "[u0033 | 00:01:56.640-00:01:59.040 | Wazir]",
@@ -258,6 +307,24 @@
       "cleanedText": "You ever cough up some seawater?"
     },
     {
+      "header": "[u0048 | 00:03:11.850-00:03:16.680 | DM]",
+      "lineNumber": 48,
+      "originalText": "So I mean there is Laura about resurrection and in many cultures um.",
+      "cleanedText": "So I mean there is lore about resurrection and in many cultures um."
+    },
+    {
+      "header": "[u0055 | 00:04:11.520-00:04:21.390 | DM]",
+      "lineNumber": 55,
+      "originalText": "it's not it's not common it requires you know it's it's it's more pot, you know somebody would have to be more powerful than you in order to be able to do that.",
+      "cleanedText": "it's not it's not common it requires you know it's it's it's more powerful, you know somebody would have to be more powerful than you in order to be able to do that."
+    },
+    {
+      "header": "[u0056 | 00:04:22.950-00:04:32.040 | DM]",
+      "lineNumber": 56,
+      "originalText": "But it's you know there's definitely stories in the past of like some great lizard folk warrior who was resurrected.",
+      "cleanedText": "But it's you know there's definitely stories in the past of like some great lizardfolk warrior who was resurrected."
+    },
+    {
       "header": "[u0063 | 00:05:10.800-00:05:15.600 | Trok]",
       "lineNumber": 63,
       "originalText": "And the land of the dead is not where i'm trying to talk to with God say it's the beyond.",
@@ -282,16 +349,88 @@
       "cleanedText": "that's why Trok is always ranting about set and setting."
     },
     {
+      "header": "[u0070 | 00:06:01.440-00:06:15.600 | DM]",
+      "lineNumber": 70,
+      "originalText": "Like it's just not it's it's completely okay so maybe you are seeing a window into the land of the dad maybe you're seeing stories, I mean the one thing that is the sort of general myth about the land of the dead is nobody spends that long.",
+      "cleanedText": "Like it's just not it's it's completely okay so maybe you are seeing a window into the land of the dead maybe you're seeing stories, I mean the one thing that is the sort of general myth about the land of the dead is nobody spends that long."
+    },
+    {
+      "header": "[u0071 | 00:06:16.560-00:06:18.480 | DM]",
+      "lineNumber": 71,
+      "originalText": "Like it's a transition Aires.",
+      "cleanedText": "Like it's a transitionary."
+    },
+    {
+      "header": "[u0072 | 00:06:18.480-00:06:29.940 | DM]",
+      "lineNumber": 72,
+      "originalText": "State you you journey through the land of the dead to get so So if you are listening to somebody has been dead, for your hearing the voice of somebody who's been dead, for two years.",
+      "cleanedText": "State. You journey through the land of the dead to get so So if you are listening to somebody has been dead, or you're hearing the voice of somebody who's been dead, for two years."
+    },
+    {
       "header": "[u0074 | 00:06:35.970-00:06:46.710 | Ryu]",
       "lineNumber": 74,
       "originalText": "Some of your tattoos related to like god's art, it must be all gods are like you know artists that are on Gaza that then like create crazy like you know paintings and shit like that.",
       "cleanedText": "Some of your tattoos related to, like, gatza art? It must be all gatza, like, you know, artists that are on gatza that then create crazy, like, you know, paintings and shit like that."
     },
     {
+      "header": "[u0086 | 00:07:35.190-00:07:49.200 | Wazir]",
+      "lineNumber": 86,
+      "originalText": "there's something missing and heaps whatever he's doing these poor souls choke and die on the water that he's feeding them, but it seems like he's praying on the guts out there's got it there's some connection here right and and.",
+      "cleanedText": "there's something missing and he keeps whatever he's doing these poor souls choke and die on the water that he's feeding them, but it seems like he's preying on the gatza, there's some connection here right and and."
+    },
+    {
       "header": "[u0087 | 00:07:50.940-00:07:53.820 | Trok]",
       "lineNumber": 87,
       "originalText": "I got some some bad gotcha.",
       "cleanedText": "I got some some bad gatza."
+    },
+    {
+      "header": "[u0092 | 00:08:06.810-00:08:10.560 | Wazir]",
+      "lineNumber": 92,
+      "originalText": "That he chases after a name area in the midst speaker.",
+      "cleanedText": "That he chases after a name, Airion the Mistspeaker."
+    },
+    {
+      "header": "[u0096 | 00:08:23.220-00:08:26.280 | Wazir]",
+      "lineNumber": 96,
+      "originalText": "made from this these parts.",
+      "cleanedText": "maybe from these parts."
+    },
+    {
+      "header": "[u0099 | 00:08:37.380-00:08:43.620 | Wazir]",
+      "lineNumber": 99,
+      "originalText": "He fought against Jamaat in the Great War and was known for leading elemental is into battle.",
+      "cleanedText": "He fought against Jamaat in the Great War and was known for leading elementals into battle."
+    },
+    {
+      "header": "[u0103 | 00:08:52.230-00:09:06.060 | Wazir]",
+      "lineNumber": 103,
+      "originalText": "And he spent quite a bit of time, I recall from my time uncharted that he was known as the inventor of a spell called frost fingers and he seems to have quite a connection to the elements of ice and air and missed and water.",
+      "cleanedText": "And he spent quite a bit of time, I recall from my time in Chardon that he was known as the inventor of a spell called frost fingers and he seems to have quite a connection to the elements of ice and air and mist and water."
+    },
+    {
+      "header": "[u0106 | 00:09:12.480-00:09:14.520 | DM]",
+      "lineNumber": 106,
+      "originalText": "fit that's burning hands but ice.",
+      "cleanedText": "It's burning hands but ice."
+    },
+    {
+      "header": "[u0107 | 00:09:15.120-00:09:19.020 | DM]",
+      "lineNumber": 107,
+      "originalText": "But called damage, you can you can get you can freeze people.",
+      "cleanedText": "But cold damage, you can you can get you can freeze people."
+    },
+    {
+      "header": "[u0113 | 00:09:36.570-00:09:38.670 | Wazir]",
+      "lineNumber": 113,
+      "originalText": "damages the Flash quite significantly.",
+      "cleanedText": "damages the flesh quite significantly."
+    },
+    {
+      "header": "[u0115 | 00:09:43.020-00:09:56.250 | Wazir]",
+      "lineNumber": 115,
+      "originalText": "Anyway, this this scroll writer chases after area in the midst speaker up to the foothill up to the caves at the source of the soul quad, which is the the main river that runs to this peninsula.",
+      "cleanedText": "Anyway, this this scroll writer chases after Airion the Mistspeaker up to the foothill up to the caves at the source of the Sulqat, which is the the main river that runs to this peninsula."
     },
     {
       "header": "[u0123 | 00:10:19.260-00:10:21.960 | Trok]",
@@ -304,6 +443,96 @@
       "lineNumber": 134,
       "originalText": "And truck kind of grunts tix this entire muzzle into it and.",
       "cleanedText": "And Trok kind of grunts tix this entire muzzle into it and."
+    },
+    {
+      "header": "[u0142 | 00:11:48.780-00:11:59.280 | Wazir]",
+      "lineNumber": 142,
+      "originalText": "Following after my cousin was really chasing my cousin away from the gods more than anything else, and so we went up forever because that was far away from the ocean it's harder to find.",
+      "cleanedText": "Following after my cousin was really chasing my cousin away from the gatza more than anything else, and so we went upriver because that was far away from the ocean it's harder to find."
+    },
+    {
+      "header": "[u0143 | 00:12:01.050-00:12:04.890 | Wazir]",
+      "lineNumber": 143,
+      "originalText": "And we actually found an expedition from Jordan that was.",
+      "cleanedText": "And we actually found an expedition from Chardon that was."
+    },
+    {
+      "header": "[u0155 | 00:12:46.770-00:12:51.720 | Wazir]",
+      "lineNumber": 155,
+      "originalText": "char donations, who were hunting these sorcerers I think our entire expedition would have been.",
+      "cleanedText": "Chardonians, who were hunting these sorcerers I think our entire expedition would have been."
+    },
+    {
+      "header": "[u0158 | 00:13:01.800-00:13:11.520 | Wazir]",
+      "lineNumber": 158,
+      "originalText": "Some in the chart odeon summoned these massive elemental and the dragon and the sorcerer's that were controlling it fought back with.",
+      "cleanedText": "Some of the Chardonians summoned these massive elementals and the dragon and the sorcerers that were controlling it fought back with."
+    },
+    {
+      "header": "[u0167 | 00:13:58.740-00:14:03.060 | Wazir]",
+      "lineNumber": 167,
+      "originalText": "There is that at the at the foothills of at the mouth of the saltwater.",
+      "cleanedText": "There is that at the at the foothills of at the mouth of the Sulqat River."
+    },
+    {
+      "header": "[u0174 | 00:14:33.180-00:14:41.160 | Wazir]",
+      "lineNumber": 174,
+      "originalText": "It seems like the element, the elemental planes leak through there, the one of the char donations told me that they.",
+      "cleanedText": "It seems like the element, the elemental planes leak through there, the one of the Chardonians told me that they."
+    },
+    {
+      "header": "[u0185 | 00:15:20.610-00:15:24.390 | Trok]",
+      "lineNumber": 185,
+      "originalText": "Now I pointed this story was there i'm sure was mentioned at the beginning, your cousin.",
+      "cleanedText": "Now I pointed this story, Wazir, I'm sure was mentioned at the beginning, your cousin."
+    },
+    {
+      "header": "[u0186 | 00:15:24.720-00:15:25.680 | Trok]",
+      "lineNumber": 186,
+      "originalText": "So did you get the guts.",
+      "cleanedText": "So did you get the gatza."
+    },
+    {
+      "header": "[u0187 | 00:15:26.970-00:15:28.080 | Trok]",
+      "lineNumber": 187,
+      "originalText": "He said because it's in god's.",
+      "cleanedText": "He said because it's in gatza."
+    },
+    {
+      "header": "[u0194 | 00:15:53.910-00:15:59.400 | Wazir]",
+      "lineNumber": 194,
+      "originalText": "I followed I followed these three wizards these these charts aliens back to chart and.",
+      "cleanedText": "I followed I followed these three wizards these these Chardonians back to Chardon."
+    },
+    {
+      "header": "[u0196 | 00:16:06.090-00:16:08.040 | Wazir]",
+      "lineNumber": 196,
+      "originalText": "My cousin mark what he.",
+      "cleanedText": "My cousin Malaq, he."
+    },
+    {
+      "header": "[u0203 | 00:16:35.250-00:16:43.440 | Wazir]",
+      "lineNumber": 203,
+      "originalText": "The scroll writer here says that they went to this place hunting after legends of alien the miss.",
+      "cleanedText": "The scroll writer here says that they went to this place hunting after legends of Airion the Mistspeaker."
+    },
+    {
+      "header": "[u0204 | 00:16:46.140-00:16:51.330 | Wazir]",
+      "lineNumber": 204,
+      "originalText": "and searched for the source of the soul quiet and.",
+      "cleanedText": "and searched for the source of the Sulqat and."
+    },
+    {
+      "header": "[u0219 | 00:17:39.390-00:17:54.090 | Wazir]",
+      "lineNumber": 219,
+      "originalText": "founder ring that summoned I think the The genie the water creature that you saw a halo the messa its name, which is an aqua name it's a name of the plane of the creature of water.",
+      "cleanedText": "found a ring that summoned I think the The genie the water creature that you saw, Kaleho, Nimessa its name, which is an Aquan name it's a name of the plane of the creature of water."
+    },
+    {
+      "header": "[u0221 | 00:18:00.180-00:18:08.610 | Wazir]",
+      "lineNumber": 221,
+      "originalText": "I think, using a ring he found at the mouth of the soul quad that used to be airlines some ring of water summoning what our control.",
+      "cleanedText": "I think, using a ring he found at the mouth of the Sulqat that used to be Airion's, some ring of water summoning or water control."
     },
     {
       "header": "[u0243 | 00:19:56.580-00:19:59.940 | Wazir]",
@@ -321,7 +550,7 @@
       "header": "[u0255 | 00:20:47.670-00:20:59.010 | DM]",
       "lineNumber": 255,
       "originalText": "So let's see I mean you would have you would have heard stories of this area in the midst speaker, similar to what was here has heard right, you know.",
-      "cleanedText": "So let's see I mean you would have you would have heard stories of this area in the midst speaker, similar to what Wazir has heard right, you know."
+      "cleanedText": "So let's see I mean you would have you would have heard stories of this Airion the Mistspeaker, similar to what Wazir has heard right, you know."
     },
     {
       "header": "[u0262 | 00:21:45.780-00:21:46.380 | DM]",
@@ -378,10 +607,64 @@
       "cleanedText": "Waiting Trok."
     },
     {
+      "header": "[u0379 | 00:32:34.560-00:32:39.690 | Ryu]",
+      "lineNumber": 379,
+      "originalText": "So we hope you're you're in town to to because he saw what what brings you to town.",
+      "cleanedText": "So Kaleho, you're you're in town too because he saw what what brings you to town."
+    },
+    {
       "header": "[u0380 | 00:32:42.480-00:32:52.530 | Kaleho]",
       "lineNumber": 380,
       "originalText": "there's a glint in his eyes, not unlike what truck gets in his eyes when he thinks about his recreational chemicals and.",
       "cleanedText": "there's a glint in his eyes, not unlike what Trok gets in his eyes when he thinks about his recreational chemicals and."
+    },
+    {
+      "header": "[u0387 | 00:33:14.040-00:33:30.120 | Kaleho]",
+      "lineNumber": 387,
+      "originalText": "thing I saw more folk in the water floating and moving and dancing and I tried to like my friend and they were gone and that moment changed me and there's so much more to the ocean and.",
+      "cleanedText": "thing I saw merfolk in the water floating and moving and dancing and I tried to alert my friend and they were gone and that moment changed me and there's so much more to the ocean and."
+    },
+    {
+      "header": "[u0389 | 00:33:39.240-00:33:40.260 | Ryu]",
+      "lineNumber": 389,
+      "originalText": "You fall in love with the Mirko.",
+      "cleanedText": "You fall in love with the merfolk."
+    },
+    {
+      "header": "[u0403 | 00:34:59.190-00:35:02.490 | Wazir]",
+      "lineNumber": 403,
+      "originalText": "Did you get a good one cow let this person.",
+      "cleanedText": "Did you get a good look, Kaleho, at this person."
+    },
+    {
+      "header": "[u0410 | 00:35:29.160-00:35:41.070 | Kaleho]",
+      "lineNumber": 410,
+      "originalText": "I saw nothing except one night late at night, I saw a single person boat with a unsettling glow like the creature selling fast.",
+      "cleanedText": "I saw nothing except one night late at night, I saw a single person boat with an unsettling glow like the creature sailing fast."
+    },
+    {
+      "header": "[u0422 | 00:37:02.370-00:37:10.710 | Kaleho]",
+      "lineNumber": 422,
+      "originalText": "Are there Doc masters people for the keep track of tariffs in any other folks that may.",
+      "cleanedText": "Are there dockmasters, people who keep track of tariffs, and any other folks that may."
+    },
+    {
+      "header": "[u0424 | 00:37:17.610-00:37:18.330 | Wazir]",
+      "lineNumber": 424,
+      "originalText": "Sophie.",
+      "cleanedText": "Sofi."
+    },
+    {
+      "header": "[u0426 | 00:37:23.880-00:37:38.580 | Wazir]",
+      "lineNumber": 426,
+      "originalText": "I think she would say she she's she's known as the Queen of ships, she she builds many of the she's a shipbuilder and she owns the dock near here near where the Leviathan, is the north Doc.",
+      "cleanedText": "I think she would say she she's she's known as the Queen of Ships, she she builds many of the she's a shipbuilder and she owns the dock near here near where the Leviathan, is the North Dock."
+    },
+    {
+      "header": "[u0428 | 00:37:44.070-00:37:48.060 | Wazir]",
+      "lineNumber": 428,
+      "originalText": "should know what docs here, no, no, the boats.",
+      "cleanedText": "should know what docks here, know, know the boats."
     },
     {
       "header": "[u0431 | 00:38:00.180-00:38:03.810 | Ryu]",
@@ -418,6 +701,12 @@
       "lineNumber": 456,
       "originalText": "kind of like the ultimate stoner but for Gaza like grows his own we like knows everything about the different strains like has a very specific like you distill it this way to get this type of a flavoring and this type of way to get it to start with this way.",
       "cleanedText": "kind of like the ultimate stoner, but for gatza, like grows his own, like knows everything about the different strains, like has a very specific, like, you distill it this way to get this type of a flavoring and this type of way to get it to start with this way."
+    },
+    {
+      "header": "[u0466 | 00:40:57.510-00:41:03.930 | Wazir]",
+      "lineNumber": 466,
+      "originalText": "On the north Doc at the stormy maiden maybe somebody saw somebody that's i'm.",
+      "cleanedText": "On the North Dock at the Stormy Maiden maybe somebody saw somebody that's i'm."
     },
     {
       "header": "[u0476 | 00:41:39.960-00:41:43.230 | Ryu]",
@@ -460,6 +749,12 @@
       "lineNumber": 585,
       "originalText": "Ah The other thing that you notice was here and.",
       "cleanedText": "Ah The other thing that you notice Wazir and."
+    },
+    {
+      "header": "[u0619 | 00:54:02.160-00:54:14.640 | DM]",
+      "lineNumber": 619,
+      "originalText": "You know this has always been a nice sheltered port, and so there are definitely parts of town that are pretty old I mean most of it's been you know rebuilt over the years and, obviously, the docs are not 500 years old, or something but.",
+      "cleanedText": "You know this has always been a nice sheltered port, and so there are definitely parts of town that are pretty old I mean most of it's been you know rebuilt over the years and, obviously, the docks are not 500 years old, or something but."
     },
     {
       "header": "[u0643 | 00:55:42.240-00:55:53.670 | DM]",
@@ -520,6 +815,12 @@
       "lineNumber": 782,
       "originalText": "I am going to go over to truck grab him and say it's not real with.",
       "cleanedText": "I am going to go over to Trok grab him and say it's not real with."
+    },
+    {
+      "header": "[u0821 | 01:11:59.130-01:12:01.080 | Wazir]",
+      "lineNumber": 821,
+      "originalText": "area and, like area in the midst speaker.",
+      "cleanedText": "Airion, like Airion the Mistspeaker."
     },
     {
       "header": "[u0837 | 01:13:33.810-01:13:40.020 | Ryu]",
@@ -642,6 +943,12 @@
       "cleanedText": "Kaleho, do you want to go, and Wazir is going to go talk to these two orphans? Do you want to go, and then you'll meet at the market."
     },
     {
+      "header": "[u0989 | 01:25:13.800-01:25:25.080 | DM]",
+      "lineNumber": 989,
+      "originalText": "Okay, so i'll just i'll just you know you you travel to your various locations and eventually i'll just go around in circles with so so Rhea you're you're you know fairly close.",
+      "cleanedText": "Okay, so i'll just i'll just you know you you travel to your various locations and eventually i'll just go around in circles with so so Ryu you're you're you know fairly close."
+    },
+    {
       "header": "[u0990 | 01:25:25.590-01:25:27.270 | Ryu]",
       "lineNumber": 990,
       "originalText": "To Jason I say.",
@@ -762,6 +1069,24 @@
       "cleanedText": "me and Ryu were like,"
     },
     {
+      "header": "[u1260 | 01:44:37.320-01:44:43.650 | DM]",
+      "lineNumber": 1260,
+      "originalText": "And went to the sharks Doc could see it from here, then came back and sell the rights to the shoals again.",
+      "cleanedText": "And went to the Shark's Dock could see it from here, then came back and sailed right through the shoals again."
+    },
+    {
+      "header": "[u1261 | 01:44:44.610-01:44:47.130 | Trok]",
+      "lineNumber": 1261,
+      "originalText": "The sharks Doc I wonder what they were doing they're.",
+      "cleanedText": "The Shark's Dock, I wonder what they were doing there."
+    },
+    {
+      "header": "[u1268 | 01:45:09.450-01:45:12.150 | Trok]",
+      "lineNumber": 1268,
+      "originalText": "sounds like logic check out the sharks Doc.",
+      "cleanedText": "sounds like logic check out the Shark's Dock."
+    },
+    {
       "header": "[u1270 | 01:45:18.420-01:45:21.900 | Ryu]",
       "lineNumber": 1270,
       "originalText": "Anything else order hey i'll see you remember, any other things you seen recently.",
@@ -810,6 +1135,18 @@
       "cleanedText": "Sorry i'm motion towards Wazir to."
     },
     {
+      "header": "[u1384 | 01:54:27.750-01:54:45.060 | DM]",
+      "lineNumber": 1384,
+      "originalText": "So meeting back in the market, the market at this time of day now just past lunch is pretty quiet and it's basically just like these, like you know the the old folk of the town sitting around talking there's one i'm mostly humans, except there's one sort of older lizard folk who.",
+      "cleanedText": "So meeting back in the market, the market at this time of day now just past lunch is pretty quiet and it's basically just like these, like you know the the old folk of the town sitting around talking there's one i'm mostly humans, except there's one sort of older lizardfolk who."
+    },
+    {
+      "header": "[u1386 | 01:54:53.550-01:55:05.160 | DM]",
+      "lineNumber": 1386,
+      "originalText": "sort of up here by himself he's sort of like the liaison between this town and the lizard folk settlement to the south, but how often come down to the market and, just like chill with the with the town's folk.",
+      "cleanedText": "sort of up here by himself he's sort of like the liaison between this town and the lizardfolk settlement to the south, but how often come down to the market and, just like chill with the with the town's folk."
+    },
+    {
       "header": "[u1389 | 01:55:20.580-01:55:28.560 | DM]",
       "lineNumber": 1389,
       "originalText": "truck you would probably be aware of him, but possibly not particularly excited to talk to them, given your history.",
@@ -849,7 +1186,7 @@
       "header": "[u1406 | 01:57:06.180-01:57:11.670 | DM]",
       "lineNumber": 1406,
       "originalText": "Dan at was the lizard folk you know or or go talk to talk to.",
-      "cleanedText": "Benat was the lizard folk you know or or go talk to talk to."
+      "cleanedText": "Benat was the lizardfolk you know or or go talk to talk to."
     },
     {
       "header": "[u1407 | 01:57:14.940-01:57:18.120 | DM]",
@@ -990,6 +1327,24 @@
       "cleanedText": "poor Mawaran smith named Ovina."
     },
     {
+      "header": "[u1601 | 02:11:10.650-02:11:17.880 | DM]",
+      "lineNumber": 1601,
+      "originalText": "You know her her shop is like on in cliff side, but like real close to the sharks Doc over here.",
+      "cleanedText": "You know her her shop is like on in cliff side, but like real close to the Shark's Dock over here."
+    },
+    {
+      "header": "[u1602 | 02:11:18.390-02:11:28.290 | DM]",
+      "lineNumber": 1602,
+      "originalText": "And she is she's kind of loner I mean she's one of the very few dwarves and, possibly, the only dwarf and omri doesn't really talk to people much one of the few smith's.",
+      "cleanedText": "And she is she's kind of loner I mean she's one of the very few dwarves and, possibly, the only dwarf in Hamri doesn't really talk to people much one of the few smiths."
+    },
+    {
+      "header": "[u1603 | 02:11:28.860-02:11:39.480 | DM]",
+      "lineNumber": 1603,
+      "originalText": "Was there who's not like you know, most of the smiths around here like look up to you is basically like them right you're the one they go to she's like kind of.",
+      "cleanedText": "Wazir who's not like you know, most of the smiths around here like look up to you is basically like them right you're the one they go to she's like kind of."
+    },
+    {
       "header": "[u1604 | 02:11:40.830-02:11:50.760 | DM]",
       "lineNumber": 1604,
       "originalText": "Never you've never really connected, which is sort of unusual and you know and kalo like you know, this is the person who you know.",
@@ -1002,10 +1357,40 @@
       "cleanedText": "not exactly a fence, but like if you have some questionable gold, or, you know, you've come across some silver ring that you want melted down and turned into trade bars that nobody will"
     },
     {
+      "header": "[u1610 | 02:12:26.760-02:12:34.260 | DM]",
+      "lineNumber": 1610,
+      "originalText": "I mean you've been through hungry and off you probably have at one point or another had some dubious goods to exchange so.",
+      "cleanedText": "I mean you've been through Hamri enough you probably have at one point or another had some dubious goods to exchange so."
+    },
+    {
       "header": "[u1613 | 02:12:48.300-02:12:52.380 | Wazir]",
       "lineNumber": 1613,
       "originalText": "It was also yeah as who was just mentioned Bennett.",
       "cleanedText": "It was also yeah as who was just mentioned Benat."
+    },
+    {
+      "header": "[u1618 | 02:13:11.460-02:13:12.780 | Unknown]",
+      "lineNumber": 1618,
+      "originalText": "selfie with know anything.",
+      "cleanedText": "Sofi would know anything."
+    },
+    {
+      "header": "[u1621 | 02:13:19.380-02:13:23.430 | Wazir]",
+      "lineNumber": 1621,
+      "originalText": "Sophie the the woman who like is the ship she's like the shipbuilding magnate.",
+      "cleanedText": "Sofi the the woman who like is the ship she's like the shipbuilding magnate."
+    },
+    {
+      "header": "[u1623 | 02:13:26.550-02:13:27.840 | Wazir]",
+      "lineNumber": 1623,
+      "originalText": "Queen of ships, she like.",
+      "cleanedText": "Queen of Ships, she like."
+    },
+    {
+      "header": "[u1628 | 02:13:50.820-02:13:53.370 | Wazir]",
+      "lineNumber": 1628,
+      "originalText": "The shark stock might be worth poking around to.",
+      "cleanedText": "The Shark's Dock might be worth poking around too."
     },
     {
       "header": "[u1631 | 02:13:57.090-02:14:09.450 | DM]",
@@ -1018,6 +1403,18 @@
       "lineNumber": 1632,
       "originalText": "This is, these are called the shark's teeth these islands that are out here, and the sharks Doc is like the oldest and most rundown.",
       "cleanedText": "These are called the Shark's Teeth, these islands that are out here, and the Shark's Dock is like the oldest and most rundown"
+    },
+    {
+      "header": "[u1633 | 02:14:18.030-02:14:27.420 | DM]",
+      "lineNumber": 1633,
+      "originalText": "Of the docs it's a little bit tricky to navigate to because you have to make this sharp turn along the edge of the sharks Doc edge of the shark's teeth so it's kinda like the.",
+      "cleanedText": "Of the docks it's a little bit tricky to navigate to because you have to make this sharp turn along the edge of the Shark's Dock edge of the Shark's Teeth so it's kinda like the."
+    },
+    {
+      "header": "[u1634 | 02:14:28.440-02:14:33.450 | DM]",
+      "lineNumber": 1634,
+      "originalText": "name the sharks Doc because it's close to the shark's teeth, but it's also like the sort of CD Doc.",
+      "cleanedText": "name the Shark's Dock because it's close to the Shark's Teeth, but it's also like the sort of seedy dock."
     },
     {
       "header": "[u1654 | 02:19:31.980-02:19:45.360 | DM]",
@@ -1071,7 +1468,13 @@
       "header": "[u1709 | 02:23:34.350-02:23:44.250 | DM]",
       "lineNumber": 1709,
       "originalText": "So kalo and truck are heading to the blacksmith was here and re you are going to try to get an audience with um.",
-      "cleanedText": "So Kaleho and Trok are heading to the blacksmith Wazir and re you are going to try to get an audience with um."
+      "cleanedText": "So Kaleho and Trok are heading to the blacksmith Wazir and Ryu are going to try to get an audience with um."
+    },
+    {
+      "header": "[u1711 | 02:23:50.670-02:23:52.200 | DM]",
+      "lineNumber": 1711,
+      "originalText": "Sophie yep.",
+      "cleanedText": "Sofi yep."
     },
     {
       "header": "[u1722 | 02:25:33.090-02:25:34.770 | DM]",
@@ -1084,6 +1487,12 @@
       "lineNumber": 1816,
       "originalText": "truck nice to finally meet you.",
       "cleanedText": "Trok nice to finally meet you."
+    },
+    {
+      "header": "[u1818 | 02:33:36.360-02:33:39.900 | DM]",
+      "lineNumber": 1818,
+      "originalText": "So while they're making their way back to the sharks Doc.",
+      "cleanedText": "So while they're making their way back to the Shark's Dock."
     },
     {
       "header": "[u1819 | 02:33:42.660-02:33:57.870 | DM]",
@@ -1102,6 +1511,18 @@
       "lineNumber": 1830,
       "originalText": "know the nature of your business was here self is, as always, quite busy.",
       "cleanedText": "know the nature of your business Wazir self is, as always, quite busy."
+    },
+    {
+      "header": "[u1833 | 02:35:11.760-02:35:14.370 | Wazir]",
+      "lineNumber": 1833,
+      "originalText": "happened that her Doc that she should know about.",
+      "cleanedText": "happened at her dock that she should know about."
+    },
+    {
+      "header": "[u1892 | 02:40:01.290-02:40:11.610 | DM]",
+      "lineNumber": 1892,
+      "originalText": "So you meet on the shark stock which is like I mean it's a rickety you know it is it's the heat of the summer and it's like you know late afternoon there are actually people diving off the dock and swimming and it's a.",
+      "cleanedText": "So you meet on the Shark's Dock which is like I mean it's a rickety you know it is it's the heat of the summer and it's like you know late afternoon there are actually people diving off the dock and swimming and it's a."
     },
     {
       "header": "[u1896 | 02:40:44.730-02:40:46.440 | Wazir]",
@@ -1156,6 +1577,12 @@
       "lineNumber": 1979,
       "originalText": "Is the is the ring of control airlines ring.",
       "cleanedText": "Is the ring Airion's ring?"
+    },
+    {
+      "header": "[u1991 | 02:47:08.070-02:47:12.120 | Ryu]",
+      "lineNumber": 1991,
+      "originalText": "It but why did they, why did they want the Center notion why they want it, though, so.",
+      "cleanedText": "It but why did they, why did they want the Sentient Ocean why they want it, though, so."
     },
     {
       "header": "[u1993 | 02:47:13.290-02:47:18.450 | Wazir]",
@@ -1302,10 +1729,22 @@
       "cleanedText": "Wazir can be the one that having the conversation."
     },
     {
+      "header": "[u2444 | 03:21:04.230-03:21:13.890 | DM]",
+      "lineNumber": 2444,
+      "originalText": "Is you're still making your way from the Leviathan, to the sharks Doc along the docks i'm blue comes down to your shoulder and.",
+      "cleanedText": "Is you're still making your way from the Leviathan, to the Shark's Dock along the docks i'm blue comes down to your shoulder and."
+    },
+    {
       "header": "[u2484 | 03:24:09.150-03:24:13.110 | DM]",
       "lineNumber": 2484,
       "originalText": "Okay, so about so was here, are you hiding.",
       "cleanedText": "Okay, so about so Wazir, are you hiding."
+    },
+    {
+      "header": "[u2491 | 03:24:30.570-03:24:37.950 | DM]",
+      "lineNumber": 2491,
+      "originalText": "So, but you can see, so real you see i'm about 20 minutes later sort of you know, coming up from the Doc.",
+      "cleanedText": "So, but you can see, so Ryu you see i'm about 20 minutes later sort of you know, coming up from the dock."
     },
     {
       "header": "[u2494 | 03:24:59.700-03:25:14.670 | DM]",
@@ -1374,10 +1813,22 @@
       "cleanedText": "Maybe sounds about it has like hot site so so wait Wazir you're."
     },
     {
+      "header": "[u2675 | 03:36:09.420-03:36:13.290 | Ryu]",
+      "lineNumber": 2675,
+      "originalText": "yeah this, but this is also why we're at the sharks Doc wait.",
+      "cleanedText": "yeah this, but this is also why we're at the Shark's Dock wait."
+    },
+    {
       "header": "[u2703 | 03:37:35.880-03:37:38.070 | DM]",
       "lineNumber": 2703,
       "originalText": "Okay, who am I missing truck.",
       "cleanedText": "Okay, who am I missing Trok."
+    },
+    {
+      "header": "[u2762 | 03:41:55.500-03:41:57.660 | DM]",
+      "lineNumber": 2762,
+      "originalText": "You and the Doc.",
+      "cleanedText": "You and the dock."
     },
     {
       "header": "[u2804 | 03:44:30.750-03:44:34.590 | DM]",
@@ -1470,6 +1921,18 @@
       "cleanedText": "Well Trok doesn't have much to say about it at this point."
     },
     {
+      "header": "[u3233 | 04:09:27.510-04:09:29.460 | Trok]",
+      "lineNumber": 3233,
+      "originalText": "would take out the Doc a little bit.",
+      "cleanedText": "would take out the dock a little bit."
+    },
+    {
+      "header": "[u3234 | 04:09:30.180-04:09:35.910 | Wazir]",
+      "lineNumber": 3234,
+      "originalText": "yeah shake up the Doc a bit that's OK DC 15 concept.",
+      "cleanedText": "yeah shake up the dock a bit that's OK DC 15 concept."
+    },
+    {
       "header": "[u3306 | 04:13:24.090-04:13:26.790 | Trok]",
       "lineNumber": 3306,
       "originalText": "yeah a truck has been unconscious for.",
@@ -1492,6 +1955,114 @@
       "lineNumber": 3428,
       "originalText": "bursting out of truck just slamming into this.",
       "cleanedText": "bursting out of Trok just slamming into this."
+    },
+    {
+      "header": "[u3444 | 04:21:32.370-04:21:37.140 | DM]",
+      "lineNumber": 3444,
+      "originalText": "So zombie spring water falls dad.",
+      "cleanedText": "So zombie spring water falls dead."
+    },
+    {
+      "header": "[u3472 | 04:23:03.270-04:23:06.000 | DM]",
+      "lineNumber": 3472,
+      "originalText": "yeah I didn't have the docs.",
+      "cleanedText": "yeah I didn't have the docks."
+    },
+    {
+      "header": "[u3474 | 04:23:07.440-04:23:09.750 | Trok]",
+      "lineNumber": 3474,
+      "originalText": "I thought the docs worked great improvisers.",
+      "cleanedText": "I thought the docks worked great improvisers."
+    },
+    {
+      "header": "[u3488 | 04:23:40.980-04:23:48.930 | DM]",
+      "lineNumber": 3488,
+      "originalText": "So, so you learned he indeed had had lost his wife gotten hooked on god's.",
+      "cleanedText": "So, so you learned he indeed had had lost his wife gotten hooked on gatza."
+    },
+    {
+      "header": "[u3506 | 04:25:17.310-04:25:34.260 | DM]",
+      "lineNumber": 3506,
+      "originalText": "You guys figured out most of that, I mean I thought you would just once he realized that I guess you didn't quite figure out that he was seeking out arians like he wanted to be at places that were close to the plane of water so as there was the other areas.",
+      "cleanedText": "You guys figured out most of that, I mean I thought you would just once he realized that I guess you didn't quite figure out that he was seeking out Airion's sites, like he wanted to be at places that were close to the Plane of Water so Azar was the other areas."
+    },
+    {
+      "header": "[u3516 | 04:25:57.060-04:26:03.450 | DM]",
+      "lineNumber": 3516,
+      "originalText": "beta that and made a Doc but it's tough with these online things because I can't just I mean I guess it worked drawing maps right.",
+      "cleanedText": "anticipated that and made a dock but it's tough with these online things because I can't just I mean I guess it worked drawing maps right."
+    },
+    {
+      "header": "[u3520 | 04:26:16.170-04:26:18.090 | DM]",
+      "lineNumber": 3520,
+      "originalText": "He says the 70 addiction.",
+      "cleanedText": "He says the gatza addiction."
+    },
+    {
+      "header": "[u3522 | 04:26:20.910-04:26:26.760 | Wazir]",
+      "lineNumber": 3522,
+      "originalText": "How did he get it, I told him to summon a creature to go get the Center notion of then, why was it some left.",
+      "cleanedText": "How did he get it, I told him to summon a creature to go get the Sentient Ocean of then, why was it some left."
+    },
+    {
+      "header": "[u3524 | 04:26:28.920-04:26:34.350 | DM]",
+      "lineNumber": 3524,
+      "originalText": "He arians notes suggest told told them about the Center nurse.",
+      "cleanedText": "Airion's notes told them about the Sentient Ocean."
+    },
+    {
+      "header": "[u3531 | 04:26:55.470-04:26:57.930 | Ryu]",
+      "lineNumber": 3531,
+      "originalText": "What where did he get the water that the Mirko guy drink.",
+      "cleanedText": "What where did he get the water that the merfolk guy drank."
+    },
+    {
+      "header": "[u3532 | 04:26:59.220-04:27:06.660 | DM]",
+      "lineNumber": 3532,
+      "originalText": "That he summoned arians rang let him summon a water jeannie American.",
+      "cleanedText": "That he summoned Airion's ring let him summon a water genie, a marid, and."
+    },
+    {
+      "header": "[u3535 | 04:27:11.460-04:27:15.510 | DM]",
+      "lineNumber": 3535,
+      "originalText": "No marriage or kill you all marriage they're like super powerful.",
+      "cleanedText": "No, marids will kill you all, marids they're like super powerful."
+    },
+    {
+      "header": "[u3537 | 04:27:16.350-04:27:22.230 | DM]",
+      "lineNumber": 3537,
+      "originalText": "g spot the it was in the scroll the marriage some into guardians protect the safety and what are.",
+      "cleanedText": "It was in the scroll, the marids are summoned to guard and protect the sentient water."
+    },
+    {
+      "header": "[u3539 | 04:27:23.460-04:27:27.720 | DM]",
+      "lineNumber": 3539,
+      "originalText": "And then left pests, because she didn't want to mess up.",
+      "cleanedText": "And then left pissed, because she didn't want to mess up."
+    },
+    {
+      "header": "[u3540 | 04:27:29.100-04:27:38.850 | DM]",
+      "lineNumber": 3540,
+      "originalText": "She didn't want to get involved in the politics, but the ring commanded or two so she was angry, but the curse of the ring when she can't hurt him for 1000 in one day is.",
+      "cleanedText": "She didn't want to get involved in the politics, but the ring commanded her to so she was angry, but the curse of the ring when she can't hurt him for 1000 and one days."
+    },
+    {
+      "header": "[u3541 | 04:27:39.300-04:27:42.300 | Ryu]",
+      "lineNumber": 3541,
+      "originalText": "and actually went and got got the water from the bar folk.",
+      "cleanedText": "and actually went and got got the water from the merfolk."
+    },
+    {
+      "header": "[u3542 | 04:27:42.660-04:27:47.850 | DM]",
+      "lineNumber": 3542,
+      "originalText": "yeah but she had to go back to hungry, because he could plane shift to the cave.",
+      "cleanedText": "yeah but she had to go back to Hamri, because he could plane shift to the cave."
+    },
+    {
+      "header": "[u3543 | 04:27:49.800-04:27:51.930 | DM]",
+      "lineNumber": 3543,
+      "originalText": "Because it's playing of water is close.",
+      "cleanedText": "Because its Plane of Water is close."
     }
   ]
 }

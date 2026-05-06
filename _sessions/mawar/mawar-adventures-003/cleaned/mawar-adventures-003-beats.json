@@ -12,95 +12,70 @@
       "dateStart": "1747-10-23",
       "dateEnd": null,
       "timeWindow": "evening",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "The opening dinner scene at Trok's shack establishes the missing-daughter hook and ends with the plan to seek Ryu at breakfast.",
       "dateEvidence": [
         "The transcript opens in the evening in Hamri.",
-        "The episode note places Orden's request on 1747-10-23."
+        "session.yaml sets the session start date to 1747-10-23."
       ]
     },
     {
       "beatId": "b02",
-      "title": "Breakfast at Ryu's",
+      "title": "Breakfast and Rumors",
       "startUid": "u0346",
-      "endUid": "u0534",
-      "lineCount": 189,
+      "endUid": "u0698",
+      "lineCount": 353,
       "dateStart": "1747-10-24",
       "dateEnd": null,
       "timeWindow": "morning",
+      "dateResolution": "exact",
       "containsCombat": false,
-      "boundaryReason": "The next morning the scene shifts to Ryu's tower, where the group recruits him and meets Nerissa.",
+      "boundaryReason": "The next morning's pre-adventure scenes recruit Ryu and Nerissa, gather the Abelard river lead at the Leviathan, and end as the party prepares to leave Hamri.",
       "dateEvidence": [
         "The transcript explicitly says 'the next morning'.",
-        "The scene is framed as breakfast at Ryu's tower."
+        "The tavern visit continues the same morning as breakfast.",
+        "The cleaned transcript keeps this tavern scene before the party leaves Hamri on 1747-10-24."
       ]
     },
     {
       "beatId": "b03",
-      "title": "Rumors at the Leviathan",
-      "startUid": "u0535",
-      "endUid": "u0698",
-      "lineCount": 164,
+      "title": "Up the Mirmir",
+      "startUid": "u0699",
+      "endUid": "u1052",
+      "lineCount": 354,
       "dateStart": "1747-10-24",
-      "dateEnd": null,
-      "timeWindow": "morning",
+      "dateEnd": "1747-10-26",
+      "timeWindow": null,
+      "dateResolution": "exact",
       "containsCombat": false,
-      "boundaryReason": "The party moves into town, questions Abelard at the Leviathan, and confirms the upriver lead before setting out.",
+      "boundaryReason": "The party leaves Hamri, tracks Hiyasa upriver, follows the trail inland, reaches Yerkir-khor's monument, and stops just before the descent into the complex.",
       "dateEvidence": [
-        "The tavern visit continues the same morning as breakfast.",
-        "The episode note places the Abelard rumor-gathering on 1747-10-24."
+        "The party leaves town after the morning tavern stop.",
+        "The transcript includes an overnight camp and a resumed search the next day.",
+        "The campaign timeline note places the party's arrival at Yerkir-khor's monument on 1747-10-26.",
+        "The beat ends while the party is still observing the shaft and mosaic from above, before anyone starts climbing down."
       ]
     },
     {
       "beatId": "b04",
-      "title": "Up the Mirmir",
-      "startUid": "u0699",
-      "endUid": "u0848",
-      "lineCount": 150,
-      "dateStart": "1747-10-24",
-      "dateEnd": "1747-10-25",
-      "timeWindow": null,
-      "containsCombat": false,
-      "boundaryReason": "The party leaves Hamri, tracks Hiyasa upriver, makes camp, and discovers her abandoned campsite on the following day.",
-      "dateEvidence": [
-        "The party leaves town after the morning tavern stop.",
-        "The transcript includes an overnight camp and a resumed search the next day."
-      ]
-    },
-    {
-      "beatId": "b05",
-      "title": "The Stone Monument",
-      "startUid": "u0849",
-      "endUid": "u1049",
-      "lineCount": 201,
-      "dateStart": "1747-10-26",
-      "dateEnd": null,
-      "timeWindow": "midday",
-      "containsCombat": false,
-      "boundaryReason": "The search culminates in finding the buried monument of Yerkir-khor, reading its inscriptions, and descending into the complex.",
-      "dateEvidence": [
-        "The episode note places arrival at the tomb on 1747-10-26.",
-        "The scene is framed as reaching the structure after the upriver pursuit."
-      ]
-    },
-    {
-      "beatId": "b06",
       "title": "Crystal Halls",
-      "startUid": "u1050",
+      "startUid": "u1053",
       "endUid": "u1392",
-      "lineCount": 343,
+      "lineCount": 340,
       "dateStart": "1747-10-26",
       "dateEnd": null,
       "timeWindow": "midday",
+      "dateResolution": "exact",
       "containsCombat": false,
-      "boundaryReason": "Inside the monument, the party navigates the glittering chambers, traps, and statues before the first major fight fully begins.",
+      "boundaryReason": "The party descends into the shaft, triggers the first trap, studies the crystal-mosaic hall, and reaches the statue chamber before the first major fight fully begins.",
       "dateEvidence": [
-        "This scene immediately follows the descent into the tomb.",
+        "This scene begins as Trok starts climbing down into the complex.",
         "No rest or day transition occurs between the monument entry and interior exploration."
       ]
     },
     {
-      "beatId": "b07",
+      "beatId": "b05",
       "title": "Gargoyle Ambush",
       "startUid": "u1393",
       "endUid": "u1849",
@@ -108,6 +83,7 @@
       "dateStart": "1747-10-26",
       "dateEnd": null,
       "timeWindow": "midday",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "The chamber encounter resolves into a contained combat with gargoyles and a snake-headed statue, ending when the enemies are broken and examined.",
       "dateEvidence": [
@@ -116,7 +92,7 @@
       ]
     },
     {
-      "beatId": "b08",
+      "beatId": "b06",
       "title": "Deeper into the Tomb",
       "startUid": "u1850",
       "endUid": "u2305",
@@ -124,6 +100,7 @@
       "dateStart": "1747-10-26",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "After the first fight, the party heals, loots, bypasses more traps, and follows muddy footprints toward the inner sanctum.",
       "dateEvidence": [
@@ -132,7 +109,7 @@
       ]
     },
     {
-      "beatId": "b09",
+      "beatId": "b07",
       "title": "The Guardian's Terms",
       "startUid": "u2306",
       "endUid": "u2485",
@@ -140,6 +117,7 @@
       "dateStart": "1747-10-26",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "The party reaches the inner tomb, finds Hiyasa trapped in stone, and unsuccessfully tries to satisfy the guardian's demand for tribute.",
       "dateEvidence": [
@@ -148,7 +126,7 @@
       ]
     },
     {
-      "beatId": "b10",
+      "beatId": "b08",
       "title": "Guardian Battle Begins",
       "startUid": "u2486",
       "endUid": "u2760",
@@ -156,6 +134,7 @@
       "dateStart": "1747-10-26",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "The guardian rejects the party's offerings and the first phase of the final battle establishes the enemy's stone-and-earth powers.",
       "dateEvidence": [
@@ -164,7 +143,7 @@
       ]
     },
     {
-      "beatId": "b11",
+      "beatId": "b09",
       "title": "Cracking the Colossus",
       "startUid": "u2761",
       "endUid": "u3070",
@@ -172,6 +151,7 @@
       "dateStart": "1747-10-26",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "The middle phase of the fight focuses on sustained damage, psychic and thunder effects, and the party's attempt to wear the guardian down.",
       "dateEvidence": [
@@ -180,7 +160,7 @@
       ]
     },
     {
-      "beatId": "b12",
+      "beatId": "b10",
       "title": "Mud and Rescue",
       "startUid": "u3071",
       "endUid": "u3510",
@@ -188,6 +168,7 @@
       "dateStart": "1747-10-26",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "The guardian turns the floor to mud, nearly entombs Trok, and is finally destroyed when Ryu turns the battle.",
       "dateEvidence": [
@@ -196,7 +177,7 @@
       ]
     },
     {
-      "beatId": "b13",
+      "beatId": "b11",
       "title": "Return with the Spoils",
       "startUid": "u3511",
       "endUid": "u3819",
@@ -204,11 +185,12 @@
       "dateStart": "1747-10-26",
       "dateEnd": "1747-10-28",
       "timeWindow": null,
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "The final aftermath covers questioning Hiyasa, looting the tomb, and a later return to Hamri where the treasure and scrolls are divided.",
       "dateEvidence": [
         "The tomb aftermath begins immediately after the guardian's defeat.",
-        "The transcript later jumps ahead to the inn a few days later, matching the return on 1747-10-28 in the episode note."
+        "The cleaned transcript later jumps ahead to the inn a few days later, matching the session end date of 1747-10-28 in session.yaml."
       ]
     }
   ]

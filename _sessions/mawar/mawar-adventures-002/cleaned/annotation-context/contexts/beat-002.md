@@ -12,8 +12,8 @@ Do not edit `beats.json`.
 
 - Beat ID: beat-002
 - Title: Searching Airion's Tower
-- Range: `u0488` -> `u0960`
-- Lines: 473
+- Range: `u0506` -> `u0960`
+- Lines: 455
 - Date Start: 1747-08-04
 - Date End: same day
 - Time Window: morning
@@ -64,8 +64,8 @@ Do not edit `beats.json`.
 
 ## Adjacent Beats
 
-- Previous: beat-001 - Scroll at the Leviathan (1747-08-03)
-- Next: beat-003 - Jaeson and the Orphans (1747-08-04)
+- Previous: beat-001 - Initial Scroll Discussion (1747-08-03)
+- Next: beat-003 - Morning Town Informants (1747-08-04)
 
 If the transcript does not clearly restate the location, prefer inheriting the prior beat's location unless there is a clear move or travel transition.
 
@@ -79,26 +79,8 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
-[u0488 | 00:42:58.740-00:43:00.390 | Wazir] I think that's perhaps.
-[u0489 | 00:43:02.700-00:43:06.240 | Wazir] The best next step and then we'll see what we can learn.
-[u0490 | 00:43:07.650-00:43:09.240 | Ryu] Monday Wazir, what else wasn't that just.
-[u0491 | 00:43:11.640-00:43:16.470 | Wazir] Nothing just that the wow the vial of the ocean, that the.
-[u0492 | 00:43:17.580-00:43:18.900 | Wazir] folks at home.
-[u0493 | 00:43:19.710-00:43:29.790 | DM] And there was a silver amulet that was designed that was like a whirlpool with like like three tentacles of an octopus coming out of the world.
-[u0494 | 00:43:30.240-00:43:31.080 | Wazir] Was that magic.
-[u0495 | 00:43:31.800-00:43:32.070 | Unknown] No.
-[u0496 | 00:43:33.690-00:43:34.920 | DM] It was wrapped around the school.
-[u0497 | 00:43:40.290-00:43:41.520 | Wazir] should make a drawing of that.
-[u0498 | 00:43:46.590-00:43:47.940 | Wazir] Maybe show it around a bit.
-[u0499 | 00:43:52.380-00:43:52.860 | DM] So.
-[u0500 | 00:43:54.570-00:43:57.630 | DM] Anything else before you rest and head out in the morning.
-[u0501 | 00:43:58.140-00:43:59.340 | Trok] Hello my man, you want to.
-[u0502 | 00:44:00.750-00:44:02.070 | Trok] Have a spiritual experience tonight.
-[u0503 | 00:44:05.010-00:44:07.620 | Kaleho] During CES brandy and nods his head now.
-[u0504 | 00:44:09.210-00:44:09.810 | Trok] Your loss.
-[u0505 | 00:44:16.830-00:44:17.310 | DM] So.
 [u0506 | 00:44:19.080-00:44:21.870 | DM] The next morning you awake.
 [u0507 | 00:44:23.040-00:44:24.510 | DM] various States of.
 [u0508 | 00:44:26.160-00:44:27.150 | DM] going over ness.
@@ -212,7 +194,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0616 | 00:53:46.350-00:53:47.850 | DM] You know a lot of these.
 [u0617 | 00:53:48.900-00:53:50.550 | DM] A lot of these um.
 [u0618 | 00:53:53.010-00:54:01.560 | DM] You know hammer has been occupied for a while it's a fairly old town i'm dating back even before the Great War like.
-[u0619 | 00:54:02.160-00:54:14.640 | DM] You know this has always been a nice sheltered port, and so there are definitely parts of town that are pretty old I mean most of it's been you know rebuilt over the years and, obviously, the docs are not 500 years old, or something but.
+[u0619 | 00:54:02.160-00:54:14.640 | DM] You know this has always been a nice sheltered port, and so there are definitely parts of town that are pretty old I mean most of it's been you know rebuilt over the years and, obviously, the docks are not 500 years old, or something but.
 [u0620 | 00:54:16.710-00:54:17.190 | DM] uh.
 [u0621 | 00:54:18.990-00:54:19.950 | DM] You know it's.
 [u0622 | 00:54:21.960-00:54:26.550 | DM] yeah you know you don't you don't know a ton about.
@@ -414,7 +396,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0818 | 01:11:23.430-01:11:36.270 | DM] One is this seems to be some kind of incantation of like control or binding or closing, I mean long faded doesn't there's your gas is no longer active.
 [u0819 | 01:11:37.950-01:11:40.620 | DM] and the other is that you see.
 [u0820 | 01:11:43.110-01:11:54.330 | DM] You know, repeated in this in this sort of incantation which is like you know, a string of words like commanding water, you see, like I Aryan command this written.
-[u0821 | 01:11:59.130-01:12:01.080 | Wazir] area and, like area in the midst speaker.
+[u0821 | 01:11:59.130-01:12:01.080 | Wazir] Airion, like Airion the Mistspeaker.
 [u0822 | 01:12:01.590-01:12:03.000 | DM] spelled the same way.
 [u0823 | 01:12:03.540-01:12:04.650 | Ryu] like this is all power.
 [u0824 | 01:12:07.080-01:12:09.360 | Trok] really is i'm swimming down.

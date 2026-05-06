@@ -12,29 +12,29 @@
     "beat-006",
     "beat-007",
     "beat-008",
-    "beat-009",
-    "beat-010"
+    "beat-009"
   ],
+  "supplementalSources": [],
   "contexts": [
     {
       "beat": {
         "beatId": "beat-001",
-        "title": "Scroll at the Leviathan",
+        "title": "Initial Scroll Discussion",
         "startUid": "u0001",
-        "endUid": "u0487",
-        "lineCount": 487,
+        "endUid": "u0505",
+        "lineCount": 505,
         "dateStart": "1747-08-03",
         "dateEnd": null,
         "timeWindow": "evening",
         "containsCombat": false,
-        "boundaryReason": "The session opens with the party reconvening at the Leviathan, hearing Wazir's decipherment of Azar's scroll, comparing it to Trok's gatza visions, and deciding that their next concrete step is to inspect the ruined tower the next morning.",
+        "boundaryReason": "The session opens with one continuous Leviathan discussion: Wazir explains the deciphered scroll, the party connects Gazankoa, gatza, Airion, Nimessa, Medin, Hamri, and the living water, then decides that the tower should be searched after a night's rest.",
         "dateEvidence": [
-          "session.yaml sets drStart to 1747-08-03 with drStartTime evening",
-          "the episode note explicitly places this whole opening meeting at the Leviathan on the evening of 3 August",
-          "the beat ends when the group commits to visiting the tower in the morning, which sets up the next-day transition"
+          "session.yaml sets drStart to 1747-08-03 and drStartTime to evening",
+          "the opening conversation is already underway at the start of the transcript and continues as an evening planning discussion",
+          "u0482 through u0500 discuss searching the tower in the morning and resting before heading out"
         ],
         "startIndex": 0,
-        "endIndex": 486
+        "endIndex": 504
       },
       "previousBeat": null,
       "nextBeat": {
@@ -46,6 +46,8 @@
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 2,
         "drStart": "1747-08-03",
         "drEnd": "1747-08-09",
@@ -88,7 +90,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0001",
           "header": "[u0001 | 00:00:00.599-00:00:00.840 | Wazir]",
@@ -98,14 +100,14 @@
         {
           "uid": "u0002",
           "header": "[u0002 | 00:00:02.909-00:00:05.430 | Wazir]",
-          "text": "I pay some attention to the boats selling in and out.",
-          "raw": "[u0002 | 00:00:02.909-00:00:05.430 | Wazir] I pay some attention to the boats selling in and out."
+          "text": "I pay some attention to the boats sailing in and out.",
+          "raw": "[u0002 | 00:00:02.909-00:00:05.430 | Wazir] I pay some attention to the boats sailing in and out."
         },
         {
           "uid": "u0003",
           "header": "[u0003 | 00:00:07.980-00:00:16.619 | Wazir]",
-          "text": "Asked around and nobody had seen this one come in or out, but yet it was gone when I went to work for it again an odd boat made me wonder.",
-          "raw": "[u0003 | 00:00:07.980-00:00:16.619 | Wazir] Asked around and nobody had seen this one come in or out, but yet it was gone when I went to work for it again an odd boat made me wonder."
+          "text": "Asked around and nobody had seen this one come in or out, but yet it was gone when I went to look for it again. An odd boat made me wonder.",
+          "raw": "[u0003 | 00:00:07.980-00:00:16.619 | Wazir] Asked around and nobody had seen this one come in or out, but yet it was gone when I went to look for it again. An odd boat made me wonder."
         },
         {
           "uid": "u0004",
@@ -122,8 +124,8 @@
         {
           "uid": "u0006",
           "header": "[u0006 | 00:00:22.440-00:00:24.000 | Wazir]",
-          "text": "medina's mentioned in this scroll.",
-          "raw": "[u0006 | 00:00:22.440-00:00:24.000 | Wazir] medina's mentioned in this scroll."
+          "text": "Medin is mentioned in this scroll.",
+          "raw": "[u0006 | 00:00:22.440-00:00:24.000 | Wazir] Medin is mentioned in this scroll."
         },
         {
           "uid": "u0007",
@@ -140,8 +142,8 @@
         {
           "uid": "u0009",
           "header": "[u0009 | 00:00:32.760-00:00:35.880 | DM]",
-          "text": "You think we send you a copy of years ago it's in your email.",
-          "raw": "[u0009 | 00:00:32.760-00:00:35.880 | DM] You think we send you a copy of years ago it's in your email."
+          "text": "I think we sent you a copy of it years ago, it's in your email.",
+          "raw": "[u0009 | 00:00:32.760-00:00:35.880 | DM] I think we sent you a copy of it years ago, it's in your email."
         },
         {
           "uid": "u0010",
@@ -170,8 +172,8 @@
         {
           "uid": "u0014",
           "header": "[u0014 | 00:00:47.910-00:00:51.270 | Wazir]",
-          "text": "busy or sent a letter to review and talk.",
-          "raw": "[u0014 | 00:00:47.910-00:00:51.270 | Wazir] busy or sent a letter to review and talk."
+          "text": "I sent a letter to Ryu and Trok.",
+          "raw": "[u0014 | 00:00:47.910-00:00:51.270 | Wazir] I sent a letter to Ryu and Trok."
         },
         {
           "uid": "u0015",
@@ -260,8 +262,8 @@
         {
           "uid": "u0029",
           "header": "[u0029 | 00:01:43.110-00:01:45.600 | Trok]",
-          "text": "Although I did I did you on that part actually.",
-          "raw": "[u0029 | 00:01:43.110-00:01:45.600 | Trok] Although I did I did you on that part actually."
+          "text": "Although I did I did chew on that part actually.",
+          "raw": "[u0029 | 00:01:43.110-00:01:45.600 | Trok] Although I did I did chew on that part actually."
         },
         {
           "uid": "u0030",
@@ -374,8 +376,8 @@
         {
           "uid": "u0048",
           "header": "[u0048 | 00:03:11.850-00:03:16.680 | DM]",
-          "text": "So I mean there is Laura about resurrection and in many cultures um.",
-          "raw": "[u0048 | 00:03:11.850-00:03:16.680 | DM] So I mean there is Laura about resurrection and in many cultures um."
+          "text": "So I mean there is lore about resurrection and in many cultures um.",
+          "raw": "[u0048 | 00:03:11.850-00:03:16.680 | DM] So I mean there is lore about resurrection and in many cultures um."
         },
         {
           "uid": "u0049",
@@ -416,14 +418,14 @@
         {
           "uid": "u0055",
           "header": "[u0055 | 00:04:11.520-00:04:21.390 | DM]",
-          "text": "it's not it's not common it requires you know it's it's it's more pot, you know somebody would have to be more powerful than you in order to be able to do that.",
-          "raw": "[u0055 | 00:04:11.520-00:04:21.390 | DM] it's not it's not common it requires you know it's it's it's more pot, you know somebody would have to be more powerful than you in order to be able to do that."
+          "text": "it's not it's not common it requires you know it's it's it's more powerful, you know somebody would have to be more powerful than you in order to be able to do that.",
+          "raw": "[u0055 | 00:04:11.520-00:04:21.390 | DM] it's not it's not common it requires you know it's it's it's more powerful, you know somebody would have to be more powerful than you in order to be able to do that."
         },
         {
           "uid": "u0056",
           "header": "[u0056 | 00:04:22.950-00:04:32.040 | DM]",
-          "text": "But it's you know there's definitely stories in the past of like some great lizard folk warrior who was resurrected.",
-          "raw": "[u0056 | 00:04:22.950-00:04:32.040 | DM] But it's you know there's definitely stories in the past of like some great lizard folk warrior who was resurrected."
+          "text": "But it's you know there's definitely stories in the past of like some great lizardfolk warrior who was resurrected.",
+          "raw": "[u0056 | 00:04:22.950-00:04:32.040 | DM] But it's you know there's definitely stories in the past of like some great lizardfolk warrior who was resurrected."
         },
         {
           "uid": "u0057",
@@ -506,20 +508,20 @@
         {
           "uid": "u0070",
           "header": "[u0070 | 00:06:01.440-00:06:15.600 | DM]",
-          "text": "Like it's just not it's it's completely okay so maybe you are seeing a window into the land of the dad maybe you're seeing stories, I mean the one thing that is the sort of general myth about the land of the dead is nobody spends that long.",
-          "raw": "[u0070 | 00:06:01.440-00:06:15.600 | DM] Like it's just not it's it's completely okay so maybe you are seeing a window into the land of the dad maybe you're seeing stories, I mean the one thing that is the sort of general myth about the land of the dead is nobody spends that long."
+          "text": "Like it's just not it's it's completely okay so maybe you are seeing a window into the land of the dead maybe you're seeing stories, I mean the one thing that is the sort of general myth about the land of the dead is nobody spends that long.",
+          "raw": "[u0070 | 00:06:01.440-00:06:15.600 | DM] Like it's just not it's it's completely okay so maybe you are seeing a window into the land of the dead maybe you're seeing stories, I mean the one thing that is the sort of general myth about the land of the dead is nobody spends that long."
         },
         {
           "uid": "u0071",
           "header": "[u0071 | 00:06:16.560-00:06:18.480 | DM]",
-          "text": "Like it's a transition Aires.",
-          "raw": "[u0071 | 00:06:16.560-00:06:18.480 | DM] Like it's a transition Aires."
+          "text": "Like it's a transitionary.",
+          "raw": "[u0071 | 00:06:16.560-00:06:18.480 | DM] Like it's a transitionary."
         },
         {
           "uid": "u0072",
           "header": "[u0072 | 00:06:18.480-00:06:29.940 | DM]",
-          "text": "State you you journey through the land of the dead to get so So if you are listening to somebody has been dead, for your hearing the voice of somebody who's been dead, for two years.",
-          "raw": "[u0072 | 00:06:18.480-00:06:29.940 | DM] State you you journey through the land of the dead to get so So if you are listening to somebody has been dead, for your hearing the voice of somebody who's been dead, for two years."
+          "text": "State. You journey through the land of the dead to get so So if you are listening to somebody has been dead, or you're hearing the voice of somebody who's been dead, for two years.",
+          "raw": "[u0072 | 00:06:18.480-00:06:29.940 | DM] State. You journey through the land of the dead to get so So if you are listening to somebody has been dead, or you're hearing the voice of somebody who's been dead, for two years."
         },
         {
           "uid": "u0073",
@@ -602,8 +604,8 @@
         {
           "uid": "u0086",
           "header": "[u0086 | 00:07:35.190-00:07:49.200 | Wazir]",
-          "text": "there's something missing and heaps whatever he's doing these poor souls choke and die on the water that he's feeding them, but it seems like he's praying on the guts out there's got it there's some connection here right and and.",
-          "raw": "[u0086 | 00:07:35.190-00:07:49.200 | Wazir] there's something missing and heaps whatever he's doing these poor souls choke and die on the water that he's feeding them, but it seems like he's praying on the guts out there's got it there's some connection here right and and."
+          "text": "there's something missing and he keeps whatever he's doing these poor souls choke and die on the water that he's feeding them, but it seems like he's preying on the gatza, there's some connection here right and and.",
+          "raw": "[u0086 | 00:07:35.190-00:07:49.200 | Wazir] there's something missing and he keeps whatever he's doing these poor souls choke and die on the water that he's feeding them, but it seems like he's preying on the gatza, there's some connection here right and and."
         },
         {
           "uid": "u0087",
@@ -638,8 +640,8 @@
         {
           "uid": "u0092",
           "header": "[u0092 | 00:08:06.810-00:08:10.560 | Wazir]",
-          "text": "That he chases after a name area in the midst speaker.",
-          "raw": "[u0092 | 00:08:06.810-00:08:10.560 | Wazir] That he chases after a name area in the midst speaker."
+          "text": "That he chases after a name, Airion the Mistspeaker.",
+          "raw": "[u0092 | 00:08:06.810-00:08:10.560 | Wazir] That he chases after a name, Airion the Mistspeaker."
         },
         {
           "uid": "u0093",
@@ -662,8 +664,8 @@
         {
           "uid": "u0096",
           "header": "[u0096 | 00:08:23.220-00:08:26.280 | Wazir]",
-          "text": "made from this these parts.",
-          "raw": "[u0096 | 00:08:23.220-00:08:26.280 | Wazir] made from this these parts."
+          "text": "maybe from these parts.",
+          "raw": "[u0096 | 00:08:23.220-00:08:26.280 | Wazir] maybe from these parts."
         },
         {
           "uid": "u0097",
@@ -680,8 +682,8 @@
         {
           "uid": "u0099",
           "header": "[u0099 | 00:08:37.380-00:08:43.620 | Wazir]",
-          "text": "He fought against Jamaat in the Great War and was known for leading elemental is into battle.",
-          "raw": "[u0099 | 00:08:37.380-00:08:43.620 | Wazir] He fought against Jamaat in the Great War and was known for leading elemental is into battle."
+          "text": "He fought against Jamaat in the Great War and was known for leading elementals into battle.",
+          "raw": "[u0099 | 00:08:37.380-00:08:43.620 | Wazir] He fought against Jamaat in the Great War and was known for leading elementals into battle."
         },
         {
           "uid": "u0100",
@@ -704,8 +706,8 @@
         {
           "uid": "u0103",
           "header": "[u0103 | 00:08:52.230-00:09:06.060 | Wazir]",
-          "text": "And he spent quite a bit of time, I recall from my time uncharted that he was known as the inventor of a spell called frost fingers and he seems to have quite a connection to the elements of ice and air and missed and water.",
-          "raw": "[u0103 | 00:08:52.230-00:09:06.060 | Wazir] And he spent quite a bit of time, I recall from my time uncharted that he was known as the inventor of a spell called frost fingers and he seems to have quite a connection to the elements of ice and air and missed and water."
+          "text": "And he spent quite a bit of time, I recall from my time in Chardon that he was known as the inventor of a spell called frost fingers and he seems to have quite a connection to the elements of ice and air and mist and water.",
+          "raw": "[u0103 | 00:08:52.230-00:09:06.060 | Wazir] And he spent quite a bit of time, I recall from my time in Chardon that he was known as the inventor of a spell called frost fingers and he seems to have quite a connection to the elements of ice and air and mist and water."
         },
         {
           "uid": "u0104",
@@ -722,14 +724,14 @@
         {
           "uid": "u0106",
           "header": "[u0106 | 00:09:12.480-00:09:14.520 | DM]",
-          "text": "fit that's burning hands but ice.",
-          "raw": "[u0106 | 00:09:12.480-00:09:14.520 | DM] fit that's burning hands but ice."
+          "text": "It's burning hands but ice.",
+          "raw": "[u0106 | 00:09:12.480-00:09:14.520 | DM] It's burning hands but ice."
         },
         {
           "uid": "u0107",
           "header": "[u0107 | 00:09:15.120-00:09:19.020 | DM]",
-          "text": "But called damage, you can you can get you can freeze people.",
-          "raw": "[u0107 | 00:09:15.120-00:09:19.020 | DM] But called damage, you can you can get you can freeze people."
+          "text": "But cold damage, you can you can get you can freeze people.",
+          "raw": "[u0107 | 00:09:15.120-00:09:19.020 | DM] But cold damage, you can you can get you can freeze people."
         },
         {
           "uid": "u0108",
@@ -764,8 +766,8 @@
         {
           "uid": "u0113",
           "header": "[u0113 | 00:09:36.570-00:09:38.670 | Wazir]",
-          "text": "damages the Flash quite significantly.",
-          "raw": "[u0113 | 00:09:36.570-00:09:38.670 | Wazir] damages the Flash quite significantly."
+          "text": "damages the flesh quite significantly.",
+          "raw": "[u0113 | 00:09:36.570-00:09:38.670 | Wazir] damages the flesh quite significantly."
         },
         {
           "uid": "u0114",
@@ -776,8 +778,8 @@
         {
           "uid": "u0115",
           "header": "[u0115 | 00:09:43.020-00:09:56.250 | Wazir]",
-          "text": "Anyway, this this scroll writer chases after area in the midst speaker up to the foothill up to the caves at the source of the soul quad, which is the the main river that runs to this peninsula.",
-          "raw": "[u0115 | 00:09:43.020-00:09:56.250 | Wazir] Anyway, this this scroll writer chases after area in the midst speaker up to the foothill up to the caves at the source of the soul quad, which is the the main river that runs to this peninsula."
+          "text": "Anyway, this this scroll writer chases after Airion the Mistspeaker up to the foothill up to the caves at the source of the Sulqat, which is the the main river that runs to this peninsula.",
+          "raw": "[u0115 | 00:09:43.020-00:09:56.250 | Wazir] Anyway, this this scroll writer chases after Airion the Mistspeaker up to the foothill up to the caves at the source of the Sulqat, which is the the main river that runs to this peninsula."
         },
         {
           "uid": "u0116",
@@ -938,14 +940,14 @@
         {
           "uid": "u0142",
           "header": "[u0142 | 00:11:48.780-00:11:59.280 | Wazir]",
-          "text": "Following after my cousin was really chasing my cousin away from the gods more than anything else, and so we went up forever because that was far away from the ocean it's harder to find.",
-          "raw": "[u0142 | 00:11:48.780-00:11:59.280 | Wazir] Following after my cousin was really chasing my cousin away from the gods more than anything else, and so we went up forever because that was far away from the ocean it's harder to find."
+          "text": "Following after my cousin was really chasing my cousin away from the gatza more than anything else, and so we went upriver because that was far away from the ocean it's harder to find.",
+          "raw": "[u0142 | 00:11:48.780-00:11:59.280 | Wazir] Following after my cousin was really chasing my cousin away from the gatza more than anything else, and so we went upriver because that was far away from the ocean it's harder to find."
         },
         {
           "uid": "u0143",
           "header": "[u0143 | 00:12:01.050-00:12:04.890 | Wazir]",
-          "text": "And we actually found an expedition from Jordan that was.",
-          "raw": "[u0143 | 00:12:01.050-00:12:04.890 | Wazir] And we actually found an expedition from Jordan that was."
+          "text": "And we actually found an expedition from Chardon that was.",
+          "raw": "[u0143 | 00:12:01.050-00:12:04.890 | Wazir] And we actually found an expedition from Chardon that was."
         },
         {
           "uid": "u0144",
@@ -1016,8 +1018,8 @@
         {
           "uid": "u0155",
           "header": "[u0155 | 00:12:46.770-00:12:51.720 | Wazir]",
-          "text": "char donations, who were hunting these sorcerers I think our entire expedition would have been.",
-          "raw": "[u0155 | 00:12:46.770-00:12:51.720 | Wazir] char donations, who were hunting these sorcerers I think our entire expedition would have been."
+          "text": "Chardonians, who were hunting these sorcerers I think our entire expedition would have been.",
+          "raw": "[u0155 | 00:12:46.770-00:12:51.720 | Wazir] Chardonians, who were hunting these sorcerers I think our entire expedition would have been."
         },
         {
           "uid": "u0156",
@@ -1034,8 +1036,8 @@
         {
           "uid": "u0158",
           "header": "[u0158 | 00:13:01.800-00:13:11.520 | Wazir]",
-          "text": "Some in the chart odeon summoned these massive elemental and the dragon and the sorcerer's that were controlling it fought back with.",
-          "raw": "[u0158 | 00:13:01.800-00:13:11.520 | Wazir] Some in the chart odeon summoned these massive elemental and the dragon and the sorcerer's that were controlling it fought back with."
+          "text": "Some of the Chardonians summoned these massive elementals and the dragon and the sorcerers that were controlling it fought back with.",
+          "raw": "[u0158 | 00:13:01.800-00:13:11.520 | Wazir] Some of the Chardonians summoned these massive elementals and the dragon and the sorcerers that were controlling it fought back with."
         },
         {
           "uid": "u0159",
@@ -1088,8 +1090,8 @@
         {
           "uid": "u0167",
           "header": "[u0167 | 00:13:58.740-00:14:03.060 | Wazir]",
-          "text": "There is that at the at the foothills of at the mouth of the saltwater.",
-          "raw": "[u0167 | 00:13:58.740-00:14:03.060 | Wazir] There is that at the at the foothills of at the mouth of the saltwater."
+          "text": "There is that at the at the foothills of at the mouth of the Sulqat River.",
+          "raw": "[u0167 | 00:13:58.740-00:14:03.060 | Wazir] There is that at the at the foothills of at the mouth of the Sulqat River."
         },
         {
           "uid": "u0168",
@@ -1130,8 +1132,8 @@
         {
           "uid": "u0174",
           "header": "[u0174 | 00:14:33.180-00:14:41.160 | Wazir]",
-          "text": "It seems like the element, the elemental planes leak through there, the one of the char donations told me that they.",
-          "raw": "[u0174 | 00:14:33.180-00:14:41.160 | Wazir] It seems like the element, the elemental planes leak through there, the one of the char donations told me that they."
+          "text": "It seems like the element, the elemental planes leak through there, the one of the Chardonians told me that they.",
+          "raw": "[u0174 | 00:14:33.180-00:14:41.160 | Wazir] It seems like the element, the elemental planes leak through there, the one of the Chardonians told me that they."
         },
         {
           "uid": "u0175",
@@ -1196,20 +1198,20 @@
         {
           "uid": "u0185",
           "header": "[u0185 | 00:15:20.610-00:15:24.390 | Trok]",
-          "text": "Now I pointed this story was there i'm sure was mentioned at the beginning, your cousin.",
-          "raw": "[u0185 | 00:15:20.610-00:15:24.390 | Trok] Now I pointed this story was there i'm sure was mentioned at the beginning, your cousin."
+          "text": "Now I pointed this story, Wazir, I'm sure was mentioned at the beginning, your cousin.",
+          "raw": "[u0185 | 00:15:20.610-00:15:24.390 | Trok] Now I pointed this story, Wazir, I'm sure was mentioned at the beginning, your cousin."
         },
         {
           "uid": "u0186",
           "header": "[u0186 | 00:15:24.720-00:15:25.680 | Trok]",
-          "text": "So did you get the guts.",
-          "raw": "[u0186 | 00:15:24.720-00:15:25.680 | Trok] So did you get the guts."
+          "text": "So did you get the gatza.",
+          "raw": "[u0186 | 00:15:24.720-00:15:25.680 | Trok] So did you get the gatza."
         },
         {
           "uid": "u0187",
           "header": "[u0187 | 00:15:26.970-00:15:28.080 | Trok]",
-          "text": "He said because it's in god's.",
-          "raw": "[u0187 | 00:15:26.970-00:15:28.080 | Trok] He said because it's in god's."
+          "text": "He said because it's in gatza.",
+          "raw": "[u0187 | 00:15:26.970-00:15:28.080 | Trok] He said because it's in gatza."
         },
         {
           "uid": "u0188",
@@ -1250,8 +1252,8 @@
         {
           "uid": "u0194",
           "header": "[u0194 | 00:15:53.910-00:15:59.400 | Wazir]",
-          "text": "I followed I followed these three wizards these these charts aliens back to chart and.",
-          "raw": "[u0194 | 00:15:53.910-00:15:59.400 | Wazir] I followed I followed these three wizards these these charts aliens back to chart and."
+          "text": "I followed I followed these three wizards these these Chardonians back to Chardon.",
+          "raw": "[u0194 | 00:15:53.910-00:15:59.400 | Wazir] I followed I followed these three wizards these these Chardonians back to Chardon."
         },
         {
           "uid": "u0195",
@@ -1262,8 +1264,8 @@
         {
           "uid": "u0196",
           "header": "[u0196 | 00:16:06.090-00:16:08.040 | Wazir]",
-          "text": "My cousin mark what he.",
-          "raw": "[u0196 | 00:16:06.090-00:16:08.040 | Wazir] My cousin mark what he."
+          "text": "My cousin Malaq, he.",
+          "raw": "[u0196 | 00:16:06.090-00:16:08.040 | Wazir] My cousin Malaq, he."
         },
         {
           "uid": "u0197",
@@ -1304,14 +1306,14 @@
         {
           "uid": "u0203",
           "header": "[u0203 | 00:16:35.250-00:16:43.440 | Wazir]",
-          "text": "The scroll writer here says that they went to this place hunting after legends of alien the miss.",
-          "raw": "[u0203 | 00:16:35.250-00:16:43.440 | Wazir] The scroll writer here says that they went to this place hunting after legends of alien the miss."
+          "text": "The scroll writer here says that they went to this place hunting after legends of Airion the Mistspeaker.",
+          "raw": "[u0203 | 00:16:35.250-00:16:43.440 | Wazir] The scroll writer here says that they went to this place hunting after legends of Airion the Mistspeaker."
         },
         {
           "uid": "u0204",
           "header": "[u0204 | 00:16:46.140-00:16:51.330 | Wazir]",
-          "text": "and searched for the source of the soul quiet and.",
-          "raw": "[u0204 | 00:16:46.140-00:16:51.330 | Wazir] and searched for the source of the soul quiet and."
+          "text": "and searched for the source of the Sulqat and.",
+          "raw": "[u0204 | 00:16:46.140-00:16:51.330 | Wazir] and searched for the source of the Sulqat and."
         },
         {
           "uid": "u0205",
@@ -1400,8 +1402,8 @@
         {
           "uid": "u0219",
           "header": "[u0219 | 00:17:39.390-00:17:54.090 | Wazir]",
-          "text": "founder ring that summoned I think the The genie the water creature that you saw a halo the messa its name, which is an aqua name it's a name of the plane of the creature of water.",
-          "raw": "[u0219 | 00:17:39.390-00:17:54.090 | Wazir] founder ring that summoned I think the The genie the water creature that you saw a halo the messa its name, which is an aqua name it's a name of the plane of the creature of water."
+          "text": "found a ring that summoned I think the The genie the water creature that you saw, Kaleho, Nimessa its name, which is an Aquan name it's a name of the plane of the creature of water.",
+          "raw": "[u0219 | 00:17:39.390-00:17:54.090 | Wazir] found a ring that summoned I think the The genie the water creature that you saw, Kaleho, Nimessa its name, which is an Aquan name it's a name of the plane of the creature of water."
         },
         {
           "uid": "u0220",
@@ -1412,8 +1414,8 @@
         {
           "uid": "u0221",
           "header": "[u0221 | 00:18:00.180-00:18:08.610 | Wazir]",
-          "text": "I think, using a ring he found at the mouth of the soul quad that used to be airlines some ring of water summoning what our control.",
-          "raw": "[u0221 | 00:18:00.180-00:18:08.610 | Wazir] I think, using a ring he found at the mouth of the soul quad that used to be airlines some ring of water summoning what our control."
+          "text": "I think, using a ring he found at the mouth of the Sulqat that used to be Airion's, some ring of water summoning or water control.",
+          "raw": "[u0221 | 00:18:00.180-00:18:08.610 | Wazir] I think, using a ring he found at the mouth of the Sulqat that used to be Airion's, some ring of water summoning or water control."
         },
         {
           "uid": "u0222",
@@ -1616,8 +1618,8 @@
         {
           "uid": "u0255",
           "header": "[u0255 | 00:20:47.670-00:20:59.010 | DM]",
-          "text": "So let's see I mean you would have you would have heard stories of this area in the midst speaker, similar to what Wazir has heard right, you know.",
-          "raw": "[u0255 | 00:20:47.670-00:20:59.010 | DM] So let's see I mean you would have you would have heard stories of this area in the midst speaker, similar to what Wazir has heard right, you know."
+          "text": "So let's see I mean you would have you would have heard stories of this Airion the Mistspeaker, similar to what Wazir has heard right, you know.",
+          "raw": "[u0255 | 00:20:47.670-00:20:59.010 | DM] So let's see I mean you would have you would have heard stories of this Airion the Mistspeaker, similar to what Wazir has heard right, you know."
         },
         {
           "uid": "u0256",
@@ -2360,8 +2362,8 @@
         {
           "uid": "u0379",
           "header": "[u0379 | 00:32:34.560-00:32:39.690 | Ryu]",
-          "text": "So we hope you're you're in town to to because he saw what what brings you to town.",
-          "raw": "[u0379 | 00:32:34.560-00:32:39.690 | Ryu] So we hope you're you're in town to to because he saw what what brings you to town."
+          "text": "So Kaleho, you're you're in town too because he saw what what brings you to town.",
+          "raw": "[u0379 | 00:32:34.560-00:32:39.690 | Ryu] So Kaleho, you're you're in town too because he saw what what brings you to town."
         },
         {
           "uid": "u0380",
@@ -2408,8 +2410,8 @@
         {
           "uid": "u0387",
           "header": "[u0387 | 00:33:14.040-00:33:30.120 | Kaleho]",
-          "text": "thing I saw more folk in the water floating and moving and dancing and I tried to like my friend and they were gone and that moment changed me and there's so much more to the ocean and.",
-          "raw": "[u0387 | 00:33:14.040-00:33:30.120 | Kaleho] thing I saw more folk in the water floating and moving and dancing and I tried to like my friend and they were gone and that moment changed me and there's so much more to the ocean and."
+          "text": "thing I saw merfolk in the water floating and moving and dancing and I tried to alert my friend and they were gone and that moment changed me and there's so much more to the ocean and.",
+          "raw": "[u0387 | 00:33:14.040-00:33:30.120 | Kaleho] thing I saw merfolk in the water floating and moving and dancing and I tried to alert my friend and they were gone and that moment changed me and there's so much more to the ocean and."
         },
         {
           "uid": "u0388",
@@ -2420,8 +2422,8 @@
         {
           "uid": "u0389",
           "header": "[u0389 | 00:33:39.240-00:33:40.260 | Ryu]",
-          "text": "You fall in love with the Mirko.",
-          "raw": "[u0389 | 00:33:39.240-00:33:40.260 | Ryu] You fall in love with the Mirko."
+          "text": "You fall in love with the merfolk.",
+          "raw": "[u0389 | 00:33:39.240-00:33:40.260 | Ryu] You fall in love with the merfolk."
         },
         {
           "uid": "u0390",
@@ -2504,8 +2506,8 @@
         {
           "uid": "u0403",
           "header": "[u0403 | 00:34:59.190-00:35:02.490 | Wazir]",
-          "text": "Did you get a good one cow let this person.",
-          "raw": "[u0403 | 00:34:59.190-00:35:02.490 | Wazir] Did you get a good one cow let this person."
+          "text": "Did you get a good look, Kaleho, at this person.",
+          "raw": "[u0403 | 00:34:59.190-00:35:02.490 | Wazir] Did you get a good look, Kaleho, at this person."
         },
         {
           "uid": "u0404",
@@ -2546,8 +2548,8 @@
         {
           "uid": "u0410",
           "header": "[u0410 | 00:35:29.160-00:35:41.070 | Kaleho]",
-          "text": "I saw nothing except one night late at night, I saw a single person boat with a unsettling glow like the creature selling fast.",
-          "raw": "[u0410 | 00:35:29.160-00:35:41.070 | Kaleho] I saw nothing except one night late at night, I saw a single person boat with a unsettling glow like the creature selling fast."
+          "text": "I saw nothing except one night late at night, I saw a single person boat with an unsettling glow like the creature sailing fast.",
+          "raw": "[u0410 | 00:35:29.160-00:35:41.070 | Kaleho] I saw nothing except one night late at night, I saw a single person boat with an unsettling glow like the creature sailing fast."
         },
         {
           "uid": "u0411",
@@ -2618,8 +2620,8 @@
         {
           "uid": "u0422",
           "header": "[u0422 | 00:37:02.370-00:37:10.710 | Kaleho]",
-          "text": "Are there Doc masters people for the keep track of tariffs in any other folks that may.",
-          "raw": "[u0422 | 00:37:02.370-00:37:10.710 | Kaleho] Are there Doc masters people for the keep track of tariffs in any other folks that may."
+          "text": "Are there dockmasters, people who keep track of tariffs, and any other folks that may.",
+          "raw": "[u0422 | 00:37:02.370-00:37:10.710 | Kaleho] Are there dockmasters, people who keep track of tariffs, and any other folks that may."
         },
         {
           "uid": "u0423",
@@ -2630,8 +2632,8 @@
         {
           "uid": "u0424",
           "header": "[u0424 | 00:37:17.610-00:37:18.330 | Wazir]",
-          "text": "Sophie.",
-          "raw": "[u0424 | 00:37:17.610-00:37:18.330 | Wazir] Sophie."
+          "text": "Sofi.",
+          "raw": "[u0424 | 00:37:17.610-00:37:18.330 | Wazir] Sofi."
         },
         {
           "uid": "u0425",
@@ -2642,8 +2644,8 @@
         {
           "uid": "u0426",
           "header": "[u0426 | 00:37:23.880-00:37:38.580 | Wazir]",
-          "text": "I think she would say she she's she's known as the Queen of ships, she she builds many of the she's a shipbuilder and she owns the dock near here near where the Leviathan, is the north Doc.",
-          "raw": "[u0426 | 00:37:23.880-00:37:38.580 | Wazir] I think she would say she she's she's known as the Queen of ships, she she builds many of the she's a shipbuilder and she owns the dock near here near where the Leviathan, is the north Doc."
+          "text": "I think she would say she she's she's known as the Queen of Ships, she she builds many of the she's a shipbuilder and she owns the dock near here near where the Leviathan, is the North Dock.",
+          "raw": "[u0426 | 00:37:23.880-00:37:38.580 | Wazir] I think she would say she she's she's known as the Queen of Ships, she she builds many of the she's a shipbuilder and she owns the dock near here near where the Leviathan, is the North Dock."
         },
         {
           "uid": "u0427",
@@ -2654,8 +2656,8 @@
         {
           "uid": "u0428",
           "header": "[u0428 | 00:37:44.070-00:37:48.060 | Wazir]",
-          "text": "should know what docs here, no, no, the boats.",
-          "raw": "[u0428 | 00:37:44.070-00:37:48.060 | Wazir] should know what docs here, no, no, the boats."
+          "text": "should know what docks here, know, know the boats.",
+          "raw": "[u0428 | 00:37:44.070-00:37:48.060 | Wazir] should know what docks here, know, know the boats."
         },
         {
           "uid": "u0429",
@@ -2882,8 +2884,8 @@
         {
           "uid": "u0466",
           "header": "[u0466 | 00:40:57.510-00:41:03.930 | Wazir]",
-          "text": "On the north Doc at the stormy maiden maybe somebody saw somebody that's i'm.",
-          "raw": "[u0466 | 00:40:57.510-00:41:03.930 | Wazir] On the north Doc at the stormy maiden maybe somebody saw somebody that's i'm."
+          "text": "On the North Dock at the Stormy Maiden maybe somebody saw somebody that's i'm.",
+          "raw": "[u0466 | 00:40:57.510-00:41:03.930 | Wazir] On the North Dock at the Stormy Maiden maybe somebody saw somebody that's i'm."
         },
         {
           "uid": "u0467",
@@ -3010,87 +3012,7 @@
           "header": "[u0487 | 00:42:55.530-00:42:57.120 | Ryu]",
           "text": "All right, minutes tower in the morning.",
           "raw": "[u0487 | 00:42:55.530-00:42:57.120 | Ryu] All right, minutes tower in the morning."
-        }
-      ]
-    },
-    {
-      "beat": {
-        "beatId": "beat-002",
-        "title": "Searching Airion's Tower",
-        "startUid": "u0488",
-        "endUid": "u0960",
-        "lineCount": 473,
-        "dateStart": "1747-08-04",
-        "dateEnd": null,
-        "timeWindow": "morning",
-        "containsCombat": false,
-        "boundaryReason": "This beat covers one continuous investigation scene the next morning as the party reaches the north-face tower, inspects the hidden older stonework and planar illusion within, and leaves only once they decide the best next move is to ask town contacts for context.",
-        "dateEvidence": [
-          "the prior beat ends with an explicit plan to return in the morning",
-          "the episode note places the tower investigation on the morning of 4 August",
-          "nothing in the tower sequence suggests a rest or another day change before they head back to town"
-        ],
-        "startIndex": 487,
-        "endIndex": 959
-      },
-      "previousBeat": {
-        "beatId": "beat-001",
-        "title": "Scroll at the Leviathan",
-        "dateStart": "1747-08-03",
-        "dateEnd": null
-      },
-      "nextBeat": {
-        "beatId": "beat-003",
-        "title": "Jaeson and the Orphans",
-        "dateStart": "1747-08-04",
-        "dateEnd": null
-      },
-      "session": {
-        "title": null,
-        "campaign": "Mawar Adventures",
-        "sessionNumber": 2,
-        "drStart": "1747-08-03",
-        "drEnd": "1747-08-09",
-        "realWorldDate": "2021-08-19",
-        "participants": [
-          {
-            "name": "David Kong",
-            "role": null,
-            "gameRole": "Ryu"
-          },
-          {
-            "name": "Mike Sackton",
-            "role": null,
-            "gameRole": "Wazir"
-          },
-          {
-            "name": "Eric Rosenbaum",
-            "role": null,
-            "gameRole": "Trok"
-          },
-          {
-            "name": "John Leeker",
-            "role": null,
-            "gameRole": "Kaleho"
-          },
-          {
-            "name": "Kate Sackton",
-            "role": null,
-            "gameRole": "Nerissa"
-          },
-          {
-            "name": "David Schwartz",
-            "role": null,
-            "gameRole": "Ander"
-          },
-          {
-            "name": "Tim Sackton",
-            "role": null,
-            "gameRole": "DM"
-          }
-        ]
-      },
-      "transcriptLines": [
+        },
         {
           "uid": "u0488",
           "header": "[u0488 | 00:42:58.740-00:43:00.390 | Wazir]",
@@ -3198,7 +3120,90 @@
           "header": "[u0505 | 00:44:16.830-00:44:17.310 | DM]",
           "text": "So.",
           "raw": "[u0505 | 00:44:16.830-00:44:17.310 | DM] So."
-        },
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "beat-002",
+        "title": "Searching Airion's Tower",
+        "startUid": "u0506",
+        "endUid": "u0960",
+        "lineCount": 455,
+        "dateStart": "1747-08-04",
+        "dateEnd": null,
+        "timeWindow": "morning",
+        "containsCombat": false,
+        "boundaryReason": "The transcript advances to the next morning as the party reaches the north-face tower, inspects the hidden older stonework and planar illusion within, and leaves only once they decide the best next move is to ask town contacts for context.",
+        "dateEvidence": [
+          "u0506 explicitly says the next morning has arrived",
+          "the previous beat ended with the party planning to rest and head out in the morning",
+          "nothing in the tower sequence suggests another rest or day change before the party heads back to town"
+        ],
+        "startIndex": 505,
+        "endIndex": 959
+      },
+      "previousBeat": {
+        "beatId": "beat-001",
+        "title": "Initial Scroll Discussion",
+        "dateStart": "1747-08-03",
+        "dateEnd": null
+      },
+      "nextBeat": {
+        "beatId": "beat-003",
+        "title": "Morning Town Informants",
+        "dateStart": "1747-08-04",
+        "dateEnd": null
+      },
+      "session": {
+        "title": null,
+        "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
+        "sessionNumber": 2,
+        "drStart": "1747-08-03",
+        "drEnd": "1747-08-09",
+        "realWorldDate": "2021-08-19",
+        "participants": [
+          {
+            "name": "David Kong",
+            "role": null,
+            "gameRole": "Ryu"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "Wazir"
+          },
+          {
+            "name": "Eric Rosenbaum",
+            "role": null,
+            "gameRole": "Trok"
+          },
+          {
+            "name": "John Leeker",
+            "role": null,
+            "gameRole": "Kaleho"
+          },
+          {
+            "name": "Kate Sackton",
+            "role": null,
+            "gameRole": "Nerissa"
+          },
+          {
+            "name": "David Schwartz",
+            "role": null,
+            "gameRole": "Ander"
+          },
+          {
+            "name": "Tim Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
         {
           "uid": "u0506",
           "header": "[u0506 | 00:44:19.080-00:44:21.870 | DM]",
@@ -3880,8 +3885,8 @@
         {
           "uid": "u0619",
           "header": "[u0619 | 00:54:02.160-00:54:14.640 | DM]",
-          "text": "You know this has always been a nice sheltered port, and so there are definitely parts of town that are pretty old I mean most of it's been you know rebuilt over the years and, obviously, the docs are not 500 years old, or something but.",
-          "raw": "[u0619 | 00:54:02.160-00:54:14.640 | DM] You know this has always been a nice sheltered port, and so there are definitely parts of town that are pretty old I mean most of it's been you know rebuilt over the years and, obviously, the docs are not 500 years old, or something but."
+          "text": "You know this has always been a nice sheltered port, and so there are definitely parts of town that are pretty old I mean most of it's been you know rebuilt over the years and, obviously, the docks are not 500 years old, or something but.",
+          "raw": "[u0619 | 00:54:02.160-00:54:14.640 | DM] You know this has always been a nice sheltered port, and so there are definitely parts of town that are pretty old I mean most of it's been you know rebuilt over the years and, obviously, the docks are not 500 years old, or something but."
         },
         {
           "uid": "u0620",
@@ -5092,8 +5097,8 @@
         {
           "uid": "u0821",
           "header": "[u0821 | 01:11:59.130-01:12:01.080 | Wazir]",
-          "text": "area and, like area in the midst speaker.",
-          "raw": "[u0821 | 01:11:59.130-01:12:01.080 | Wazir] area and, like area in the midst speaker."
+          "text": "Airion, like Airion the Mistspeaker.",
+          "raw": "[u0821 | 01:11:59.130-01:12:01.080 | Wazir] Airion, like Airion the Mistspeaker."
         },
         {
           "uid": "u0822",
@@ -5929,12 +5934,13 @@
           "text": "seems like mostly just something to keep things dry.",
           "raw": "[u0960 | 01:22:46.170-01:22:49.230 | DM] seems like mostly just something to keep things dry."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
         "beatId": "beat-003",
-        "title": "Jaeson and the Orphans",
+        "title": "Morning Town Informants",
         "startUid": "u0961",
         "endUid": "u1380",
         "lineCount": 420,
@@ -5944,9 +5950,9 @@
         "containsCombat": false,
         "boundaryReason": "After leaving the tower, the party splits into parallel morning interviews with Jaeson, Samar, Reliah, and Orden, gathering evidence about the occupied tower, the collapsed Drowned Flats shack, gatza addicts, and the suspicious request for a lead-lined box before regrouping for the market.",
         "dateEvidence": [
-          "the transcript treats these interviews as the immediate follow-up to the tower search on the same morning",
-          "the episode note places the contact rounds before lunch on 4 August",
-          "the beat ends at the clear regroup prompt to meet back at the market, before any midday shift"
+          "u0963 starts the return-to-town inquiry plan immediately after the morning tower search",
+          "the contact rounds proceed without a rest or day change",
+          "u1381 begins the clear transition to meeting back at the market just past lunch"
         ],
         "startIndex": 960,
         "endIndex": 1379
@@ -5959,13 +5965,15 @@
       },
       "nextBeat": {
         "beatId": "beat-004",
-        "title": "Benat's Tower Tale",
+        "title": "Market and Afternoon Leads",
         "dateStart": "1747-08-04",
         "dateEnd": null
       },
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 2,
         "drStart": "1747-08-03",
         "drEnd": "1747-08-09",
@@ -6008,7 +6016,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0961",
           "header": "[u0961 | 01:23:01.440-01:23:02.100 | Ryu]",
@@ -6180,8 +6188,8 @@
         {
           "uid": "u0989",
           "header": "[u0989 | 01:25:13.800-01:25:25.080 | DM]",
-          "text": "Okay, so i'll just i'll just you know you you travel to your various locations and eventually i'll just go around in circles with so so Rhea you're you're you know fairly close.",
-          "raw": "[u0989 | 01:25:13.800-01:25:25.080 | DM] Okay, so i'll just i'll just you know you you travel to your various locations and eventually i'll just go around in circles with so so Rhea you're you're you know fairly close."
+          "text": "Okay, so i'll just i'll just you know you you travel to your various locations and eventually i'll just go around in circles with so so Ryu you're you're you know fairly close.",
+          "raw": "[u0989 | 01:25:13.800-01:25:25.080 | DM] Okay, so i'll just i'll just you know you you travel to your various locations and eventually i'll just go around in circles with so so Ryu you're you're you know fairly close."
         },
         {
           "uid": "u0990",
@@ -7806,14 +7814,14 @@
         {
           "uid": "u1260",
           "header": "[u1260 | 01:44:37.320-01:44:43.650 | DM]",
-          "text": "And went to the sharks Doc could see it from here, then came back and sell the rights to the shoals again.",
-          "raw": "[u1260 | 01:44:37.320-01:44:43.650 | DM] And went to the sharks Doc could see it from here, then came back and sell the rights to the shoals again."
+          "text": "And went to the Shark's Dock could see it from here, then came back and sailed right through the shoals again.",
+          "raw": "[u1260 | 01:44:37.320-01:44:43.650 | DM] And went to the Shark's Dock could see it from here, then came back and sailed right through the shoals again."
         },
         {
           "uid": "u1261",
           "header": "[u1261 | 01:44:44.610-01:44:47.130 | Trok]",
-          "text": "The sharks Doc I wonder what they were doing they're.",
-          "raw": "[u1261 | 01:44:44.610-01:44:47.130 | Trok] The sharks Doc I wonder what they were doing they're."
+          "text": "The Shark's Dock, I wonder what they were doing there.",
+          "raw": "[u1261 | 01:44:44.610-01:44:47.130 | Trok] The Shark's Dock, I wonder what they were doing there."
         },
         {
           "uid": "u1262",
@@ -7854,8 +7862,8 @@
         {
           "uid": "u1268",
           "header": "[u1268 | 01:45:09.450-01:45:12.150 | Trok]",
-          "text": "sounds like logic check out the sharks Doc.",
-          "raw": "[u1268 | 01:45:09.450-01:45:12.150 | Trok] sounds like logic check out the sharks Doc."
+          "text": "sounds like logic check out the Shark's Dock.",
+          "raw": "[u1268 | 01:45:09.450-01:45:12.150 | Trok] sounds like logic check out the Shark's Dock."
         },
         {
           "uid": "u1269",
@@ -8529,43 +8537,46 @@
           "text": "make sense to me this isn't good.",
           "raw": "[u1380 | 01:54:14.190-01:54:16.830 | Kaleho] make sense to me this isn't good."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
         "beatId": "beat-004",
-        "title": "Benat's Tower Tale",
+        "title": "Market and Afternoon Leads",
         "startUid": "u1381",
-        "endUid": "u1638",
-        "lineCount": 258,
+        "endUid": "u1891",
+        "lineCount": 511,
         "dateStart": "1747-08-04",
         "dateEnd": null,
-        "timeWindow": "midday",
+        "timeWindow": "afternoon",
         "containsCombat": false,
-        "boundaryReason": "The party reconvenes in the fish market after lunch, trades rumors with the elders, and gets Benat's longer account of Airion, Hamri's planar weak spots, and the hidden well on the Splinters before deciding on a second round of afternoon inquiries.",
+        "boundaryReason": "The party reconvenes at the fish market after lunch, gets Benat's account of Airion and Hamri's planar weak spots, then follows afternoon leads: Kaleho and Trok question Ovina about the lead-lined box while Wazir and Ryu seek information from Sofi before everyone meets again at the Shark's Dock.",
         "dateEvidence": [
-          "the DM introduces this scene as just past lunch at the market",
-          "the episode note places the market discussion with Benat around lunch on 4 August",
-          "the next beat begins only after the party breaks away to pursue separate afternoon leads"
+          "u1384 introduces the market scene as just past lunch on the same day as the morning tower search",
+          "the party explicitly chooses new pairings for afternoon errands before splitting up",
+          "u1892 starts the next scene with the group meeting again at the Shark's Dock in late afternoon"
         ],
         "startIndex": 1380,
-        "endIndex": 1637
+        "endIndex": 1890
       },
       "previousBeat": {
         "beatId": "beat-003",
-        "title": "Jaeson and the Orphans",
+        "title": "Morning Town Informants",
         "dateStart": "1747-08-04",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "beat-005",
-        "title": "Ovina and Sofi",
+        "title": "Yaz and Evening Plan",
         "dateStart": "1747-08-04",
         "dateEnd": null
       },
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 2,
         "drStart": "1747-08-03",
         "drEnd": "1747-08-09",
@@ -8608,7 +8619,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1381",
           "header": "[u1381 | 01:54:20.790-01:54:23.670 | DM]",
@@ -8630,8 +8641,8 @@
         {
           "uid": "u1384",
           "header": "[u1384 | 01:54:27.750-01:54:45.060 | DM]",
-          "text": "So meeting back in the market, the market at this time of day now just past lunch is pretty quiet and it's basically just like these, like you know the the old folk of the town sitting around talking there's one i'm mostly humans, except there's one sort of older lizard folk who.",
-          "raw": "[u1384 | 01:54:27.750-01:54:45.060 | DM] So meeting back in the market, the market at this time of day now just past lunch is pretty quiet and it's basically just like these, like you know the the old folk of the town sitting around talking there's one i'm mostly humans, except there's one sort of older lizard folk who."
+          "text": "So meeting back in the market, the market at this time of day now just past lunch is pretty quiet and it's basically just like these, like you know the the old folk of the town sitting around talking there's one i'm mostly humans, except there's one sort of older lizardfolk who.",
+          "raw": "[u1384 | 01:54:27.750-01:54:45.060 | DM] So meeting back in the market, the market at this time of day now just past lunch is pretty quiet and it's basically just like these, like you know the the old folk of the town sitting around talking there's one i'm mostly humans, except there's one sort of older lizardfolk who."
         },
         {
           "uid": "u1385",
@@ -8642,8 +8653,8 @@
         {
           "uid": "u1386",
           "header": "[u1386 | 01:54:53.550-01:55:05.160 | DM]",
-          "text": "sort of up here by himself he's sort of like the liaison between this town and the lizard folk settlement to the south, but how often come down to the market and, just like chill with the with the town's folk.",
-          "raw": "[u1386 | 01:54:53.550-01:55:05.160 | DM] sort of up here by himself he's sort of like the liaison between this town and the lizard folk settlement to the south, but how often come down to the market and, just like chill with the with the town's folk."
+          "text": "sort of up here by himself he's sort of like the liaison between this town and the lizardfolk settlement to the south, but how often come down to the market and, just like chill with the with the town's folk.",
+          "raw": "[u1386 | 01:54:53.550-01:55:05.160 | DM] sort of up here by himself he's sort of like the liaison between this town and the lizardfolk settlement to the south, but how often come down to the market and, just like chill with the with the town's folk."
         },
         {
           "uid": "u1387",
@@ -8762,8 +8773,8 @@
         {
           "uid": "u1406",
           "header": "[u1406 | 01:57:06.180-01:57:11.670 | DM]",
-          "text": "Benat was the lizard folk you know or or go talk to talk to.",
-          "raw": "[u1406 | 01:57:06.180-01:57:11.670 | DM] Benat was the lizard folk you know or or go talk to talk to."
+          "text": "Benat was the lizardfolk you know or or go talk to talk to.",
+          "raw": "[u1406 | 01:57:06.180-01:57:11.670 | DM] Benat was the lizardfolk you know or or go talk to talk to."
         },
         {
           "uid": "u1407",
@@ -9932,20 +9943,20 @@
         {
           "uid": "u1601",
           "header": "[u1601 | 02:11:10.650-02:11:17.880 | DM]",
-          "text": "You know her her shop is like on in cliff side, but like real close to the sharks Doc over here.",
-          "raw": "[u1601 | 02:11:10.650-02:11:17.880 | DM] You know her her shop is like on in cliff side, but like real close to the sharks Doc over here."
+          "text": "You know her her shop is like on in cliff side, but like real close to the Shark's Dock over here.",
+          "raw": "[u1601 | 02:11:10.650-02:11:17.880 | DM] You know her her shop is like on in cliff side, but like real close to the Shark's Dock over here."
         },
         {
           "uid": "u1602",
           "header": "[u1602 | 02:11:18.390-02:11:28.290 | DM]",
-          "text": "And she is she's kind of loner I mean she's one of the very few dwarves and, possibly, the only dwarf and omri doesn't really talk to people much one of the few smith's.",
-          "raw": "[u1602 | 02:11:18.390-02:11:28.290 | DM] And she is she's kind of loner I mean she's one of the very few dwarves and, possibly, the only dwarf and omri doesn't really talk to people much one of the few smith's."
+          "text": "And she is she's kind of loner I mean she's one of the very few dwarves and, possibly, the only dwarf in Hamri doesn't really talk to people much one of the few smiths.",
+          "raw": "[u1602 | 02:11:18.390-02:11:28.290 | DM] And she is she's kind of loner I mean she's one of the very few dwarves and, possibly, the only dwarf in Hamri doesn't really talk to people much one of the few smiths."
         },
         {
           "uid": "u1603",
           "header": "[u1603 | 02:11:28.860-02:11:39.480 | DM]",
-          "text": "Was there who's not like you know, most of the smiths around here like look up to you is basically like them right you're the one they go to she's like kind of.",
-          "raw": "[u1603 | 02:11:28.860-02:11:39.480 | DM] Was there who's not like you know, most of the smiths around here like look up to you is basically like them right you're the one they go to she's like kind of."
+          "text": "Wazir who's not like you know, most of the smiths around here like look up to you is basically like them right you're the one they go to she's like kind of.",
+          "raw": "[u1603 | 02:11:28.860-02:11:39.480 | DM] Wazir who's not like you know, most of the smiths around here like look up to you is basically like them right you're the one they go to she's like kind of."
         },
         {
           "uid": "u1604",
@@ -9986,8 +9997,8 @@
         {
           "uid": "u1610",
           "header": "[u1610 | 02:12:26.760-02:12:34.260 | DM]",
-          "text": "I mean you've been through hungry and off you probably have at one point or another had some dubious goods to exchange so.",
-          "raw": "[u1610 | 02:12:26.760-02:12:34.260 | DM] I mean you've been through hungry and off you probably have at one point or another had some dubious goods to exchange so."
+          "text": "I mean you've been through Hamri enough you probably have at one point or another had some dubious goods to exchange so.",
+          "raw": "[u1610 | 02:12:26.760-02:12:34.260 | DM] I mean you've been through Hamri enough you probably have at one point or another had some dubious goods to exchange so."
         },
         {
           "uid": "u1611",
@@ -10034,8 +10045,8 @@
         {
           "uid": "u1618",
           "header": "[u1618 | 02:13:11.460-02:13:12.780 | Unknown]",
-          "text": "selfie with know anything.",
-          "raw": "[u1618 | 02:13:11.460-02:13:12.780 | Unknown] selfie with know anything."
+          "text": "Sofi would know anything.",
+          "raw": "[u1618 | 02:13:11.460-02:13:12.780 | Unknown] Sofi would know anything."
         },
         {
           "uid": "u1619",
@@ -10052,8 +10063,8 @@
         {
           "uid": "u1621",
           "header": "[u1621 | 02:13:19.380-02:13:23.430 | Wazir]",
-          "text": "Sophie the the woman who like is the ship she's like the shipbuilding magnate.",
-          "raw": "[u1621 | 02:13:19.380-02:13:23.430 | Wazir] Sophie the the woman who like is the ship she's like the shipbuilding magnate."
+          "text": "Sofi the the woman who like is the ship she's like the shipbuilding magnate.",
+          "raw": "[u1621 | 02:13:19.380-02:13:23.430 | Wazir] Sofi the the woman who like is the ship she's like the shipbuilding magnate."
         },
         {
           "uid": "u1622",
@@ -10064,8 +10075,8 @@
         {
           "uid": "u1623",
           "header": "[u1623 | 02:13:26.550-02:13:27.840 | Wazir]",
-          "text": "Queen of ships, she like.",
-          "raw": "[u1623 | 02:13:26.550-02:13:27.840 | Wazir] Queen of ships, she like."
+          "text": "Queen of Ships, she like.",
+          "raw": "[u1623 | 02:13:26.550-02:13:27.840 | Wazir] Queen of Ships, she like."
         },
         {
           "uid": "u1624",
@@ -10094,8 +10105,8 @@
         {
           "uid": "u1628",
           "header": "[u1628 | 02:13:50.820-02:13:53.370 | Wazir]",
-          "text": "The shark stock might be worth poking around to.",
-          "raw": "[u1628 | 02:13:50.820-02:13:53.370 | Wazir] The shark stock might be worth poking around to."
+          "text": "The Shark's Dock might be worth poking around too.",
+          "raw": "[u1628 | 02:13:50.820-02:13:53.370 | Wazir] The Shark's Dock might be worth poking around too."
         },
         {
           "uid": "u1629",
@@ -10124,14 +10135,14 @@
         {
           "uid": "u1633",
           "header": "[u1633 | 02:14:18.030-02:14:27.420 | DM]",
-          "text": "Of the docs it's a little bit tricky to navigate to because you have to make this sharp turn along the edge of the sharks Doc edge of the shark's teeth so it's kinda like the.",
-          "raw": "[u1633 | 02:14:18.030-02:14:27.420 | DM] Of the docs it's a little bit tricky to navigate to because you have to make this sharp turn along the edge of the sharks Doc edge of the shark's teeth so it's kinda like the."
+          "text": "Of the docks it's a little bit tricky to navigate to because you have to make this sharp turn along the edge of the Shark's Dock edge of the Shark's Teeth so it's kinda like the.",
+          "raw": "[u1633 | 02:14:18.030-02:14:27.420 | DM] Of the docks it's a little bit tricky to navigate to because you have to make this sharp turn along the edge of the Shark's Dock edge of the Shark's Teeth so it's kinda like the."
         },
         {
           "uid": "u1634",
           "header": "[u1634 | 02:14:28.440-02:14:33.450 | DM]",
-          "text": "name the sharks Doc because it's close to the shark's teeth, but it's also like the sort of CD Doc.",
-          "raw": "[u1634 | 02:14:28.440-02:14:33.450 | DM] name the sharks Doc because it's close to the shark's teeth, but it's also like the sort of CD Doc."
+          "text": "name the Shark's Dock because it's close to the Shark's Teeth, but it's also like the sort of seedy dock.",
+          "raw": "[u1634 | 02:14:28.440-02:14:33.450 | DM] name the Shark's Dock because it's close to the Shark's Teeth, but it's also like the sort of seedy dock."
         },
         {
           "uid": "u1635",
@@ -10156,87 +10167,7 @@
           "header": "[u1638 | 02:14:44.370-02:14:44.820 | Wazir]",
           "text": "sounds good.",
           "raw": "[u1638 | 02:14:44.370-02:14:44.820 | Wazir] sounds good."
-        }
-      ]
-    },
-    {
-      "beat": {
-        "beatId": "beat-005",
-        "title": "Ovina and Sofi",
-        "startUid": "u1639",
-        "endUid": "u1891",
-        "lineCount": 253,
-        "dateStart": "1747-08-04",
-        "dateEnd": null,
-        "timeWindow": "afternoon",
-        "containsCombat": false,
-        "boundaryReason": "This beat follows the party's next round of interviews, centered on Kaleho and Trok extracting the truth about the lead-lined box from Ovina while Wazir and Ryu attempt, with only partial success, to get information from Sofi before everyone meets again at the Shark's Dock.",
-        "dateEvidence": [
-          "the fish-market scene explicitly hands off into a new set of afternoon errands",
-          "the DM marks the reunion near the end of the beat as around five in the afternoon",
-          "there is no overnight break before the party reconvenes at the dock"
-        ],
-        "startIndex": 1638,
-        "endIndex": 1890
-      },
-      "previousBeat": {
-        "beatId": "beat-004",
-        "title": "Benat's Tower Tale",
-        "dateStart": "1747-08-04",
-        "dateEnd": null
-      },
-      "nextBeat": {
-        "beatId": "beat-006",
-        "title": "Yaz and the Living Ocean",
-        "dateStart": "1747-08-04",
-        "dateEnd": null
-      },
-      "session": {
-        "title": null,
-        "campaign": "Mawar Adventures",
-        "sessionNumber": 2,
-        "drStart": "1747-08-03",
-        "drEnd": "1747-08-09",
-        "realWorldDate": "2021-08-19",
-        "participants": [
-          {
-            "name": "David Kong",
-            "role": null,
-            "gameRole": "Ryu"
-          },
-          {
-            "name": "Mike Sackton",
-            "role": null,
-            "gameRole": "Wazir"
-          },
-          {
-            "name": "Eric Rosenbaum",
-            "role": null,
-            "gameRole": "Trok"
-          },
-          {
-            "name": "John Leeker",
-            "role": null,
-            "gameRole": "Kaleho"
-          },
-          {
-            "name": "Kate Sackton",
-            "role": null,
-            "gameRole": "Nerissa"
-          },
-          {
-            "name": "David Schwartz",
-            "role": null,
-            "gameRole": "Ander"
-          },
-          {
-            "name": "Tim Sackton",
-            "role": null,
-            "gameRole": "DM"
-          }
-        ]
-      },
-      "transcriptLines": [
+        },
         {
           "uid": "u1639",
           "header": "[u1639 | 02:16:26.370-02:16:26.880 | Ryu]",
@@ -10660,8 +10591,8 @@
         {
           "uid": "u1709",
           "header": "[u1709 | 02:23:34.350-02:23:44.250 | DM]",
-          "text": "So Kaleho and Trok are heading to the blacksmith Wazir and re you are going to try to get an audience with um.",
-          "raw": "[u1709 | 02:23:34.350-02:23:44.250 | DM] So Kaleho and Trok are heading to the blacksmith Wazir and re you are going to try to get an audience with um."
+          "text": "So Kaleho and Trok are heading to the blacksmith Wazir and Ryu are going to try to get an audience with um.",
+          "raw": "[u1709 | 02:23:34.350-02:23:44.250 | DM] So Kaleho and Trok are heading to the blacksmith Wazir and Ryu are going to try to get an audience with um."
         },
         {
           "uid": "u1710",
@@ -10672,8 +10603,8 @@
         {
           "uid": "u1711",
           "header": "[u1711 | 02:23:50.670-02:23:52.200 | DM]",
-          "text": "Sophie yep.",
-          "raw": "[u1711 | 02:23:50.670-02:23:52.200 | DM] Sophie yep."
+          "text": "Sofi yep.",
+          "raw": "[u1711 | 02:23:50.670-02:23:52.200 | DM] Sofi yep."
         },
         {
           "uid": "u1712",
@@ -11314,8 +11245,8 @@
         {
           "uid": "u1818",
           "header": "[u1818 | 02:33:36.360-02:33:39.900 | DM]",
-          "text": "So while they're making their way back to the sharks Doc.",
-          "raw": "[u1818 | 02:33:36.360-02:33:39.900 | DM] So while they're making their way back to the sharks Doc."
+          "text": "So while they're making their way back to the Shark's Dock.",
+          "raw": "[u1818 | 02:33:36.360-02:33:39.900 | DM] So while they're making their way back to the Shark's Dock."
         },
         {
           "uid": "u1819",
@@ -11404,8 +11335,8 @@
         {
           "uid": "u1833",
           "header": "[u1833 | 02:35:11.760-02:35:14.370 | Wazir]",
-          "text": "happened that her Doc that she should know about.",
-          "raw": "[u1833 | 02:35:11.760-02:35:14.370 | Wazir] happened that her Doc that she should know about."
+          "text": "happened at her dock that she should know about.",
+          "raw": "[u1833 | 02:35:11.760-02:35:14.370 | Wazir] happened at her dock that she should know about."
         },
         {
           "uid": "u1834",
@@ -11755,43 +11686,46 @@
           "text": "Well, see if shocking shocking kill any better luck.",
           "raw": "[u1891 | 02:39:55.710-02:39:58.440 | Ryu] Well, see if shocking shocking kill any better luck."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
-        "beatId": "beat-006",
-        "title": "Yaz and the Living Ocean",
+        "beatId": "beat-005",
+        "title": "Yaz and Evening Plan",
         "startUid": "u1892",
-        "endUid": "u2284",
-        "lineCount": 393,
+        "endUid": "u2419",
+        "lineCount": 528,
         "dateStart": "1747-08-04",
         "dateEnd": null,
-        "timeWindow": "afternoon",
+        "timeWindow": null,
         "containsCombat": false,
-        "boundaryReason": "The group regathers at the Shark's Dock, confirms what they know about the phantom boat and Azar's motives, then Wazir and Ryu seek out Yaz, whose sunset lore about the living ocean and the Splinters deepens the mystery before they return to the Leviathan after dark.",
+        "boundaryReason": "The group regathers at the Shark's Dock, consolidates what it knows about the phantom boat and Azar's motives, visits Yaz for sunset lore about the living ocean and the Splinters, then returns to the Leviathan after dark and settles on the next morning's cautious interception plan before resting.",
         "dateEvidence": [
-          "the beat begins with the explicit late-afternoon reunion at the Shark's Dock",
-          "the Yaz scene plays through sunset but remains the same calendar day",
-          "the return to the Leviathan happens only once it is dark, still before the overnight planning beat"
+          "u1892 introduces the reunion as late afternoon at the Shark's Dock",
+          "u2284 and u2285 place the group back by the Leviathan after dark",
+          "u2290 frames the discussion as planning for tomorrow, and u2418 commits to executing the plan before the transcript transitions into the next morning"
         ],
         "startIndex": 1891,
-        "endIndex": 2283
+        "endIndex": 2418
       },
       "previousBeat": {
-        "beatId": "beat-005",
-        "title": "Ovina and Sofi",
+        "beatId": "beat-004",
+        "title": "Market and Afternoon Leads",
         "dateStart": "1747-08-04",
         "dateEnd": null
       },
       "nextBeat": {
-        "beatId": "beat-007",
-        "title": "Night Plan at the Leviathan",
-        "dateStart": "1747-08-04",
-        "dateEnd": "1747-08-05"
+        "beatId": "beat-006",
+        "title": "Dawn Interception Setup",
+        "dateStart": "1747-08-05",
+        "dateEnd": null
       },
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 2,
         "drStart": "1747-08-03",
         "drEnd": "1747-08-09",
@@ -11834,12 +11768,12 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1892",
           "header": "[u1892 | 02:40:01.290-02:40:11.610 | DM]",
-          "text": "So you meet on the shark stock which is like I mean it's a rickety you know it is it's the heat of the summer and it's like you know late afternoon there are actually people diving off the dock and swimming and it's a.",
-          "raw": "[u1892 | 02:40:01.290-02:40:11.610 | DM] So you meet on the shark stock which is like I mean it's a rickety you know it is it's the heat of the summer and it's like you know late afternoon there are actually people diving off the dock and swimming and it's a."
+          "text": "So you meet on the Shark's Dock which is like I mean it's a rickety you know it is it's the heat of the summer and it's like you know late afternoon there are actually people diving off the dock and swimming and it's a.",
+          "raw": "[u1892 | 02:40:01.290-02:40:11.610 | DM] So you meet on the Shark's Dock which is like I mean it's a rickety you know it is it's the heat of the summer and it's like you know late afternoon there are actually people diving off the dock and swimming and it's a."
         },
         {
           "uid": "u1893",
@@ -12432,8 +12366,8 @@
         {
           "uid": "u1991",
           "header": "[u1991 | 02:47:08.070-02:47:12.120 | Ryu]",
-          "text": "It but why did they, why did they want the Center notion why they want it, though, so.",
-          "raw": "[u1991 | 02:47:08.070-02:47:12.120 | Ryu] It but why did they, why did they want the Center notion why they want it, though, so."
+          "text": "It but why did they, why did they want the Sentient Ocean why they want it, though, so.",
+          "raw": "[u1991 | 02:47:08.070-02:47:12.120 | Ryu] It but why did they, why did they want the Sentient Ocean why they want it, though, so."
         },
         {
           "uid": "u1992",
@@ -14192,87 +14126,7 @@
           "header": "[u2284 | 03:09:36.240-03:09:39.870 | DM]",
           "text": "I mean now now it's like dark right i'm guessing you're probably meeting.",
           "raw": "[u2284 | 03:09:36.240-03:09:39.870 | DM] I mean now now it's like dark right i'm guessing you're probably meeting."
-        }
-      ]
-    },
-    {
-      "beat": {
-        "beatId": "beat-007",
-        "title": "Night Plan at the Leviathan",
-        "startUid": "u2285",
-        "endUid": "u2443",
-        "lineCount": 159,
-        "dateStart": "1747-08-04",
-        "dateEnd": "1747-08-05",
-        "timeWindow": "night",
-        "containsCombat": false,
-        "boundaryReason": "Back at the Leviathan after dark, the party debates whether Azar is victim or threat, settles on a cautious interception plan, rests, and then the transcript advances straight into their predawn ambush setup on the following morning.",
-        "dateEvidence": [
-          "the beat starts with the dark return to the Leviathan at the end of 4 August",
-          "the group explicitly discusses what to do tomorrow and then sleeps before the next scene",
-          "the beat ends during the early-morning setup on 5 August, so it legitimately spans consecutive days"
-        ],
-        "startIndex": 2284,
-        "endIndex": 2442
-      },
-      "previousBeat": {
-        "beatId": "beat-006",
-        "title": "Yaz and the Living Ocean",
-        "dateStart": "1747-08-04",
-        "dateEnd": null
-      },
-      "nextBeat": {
-        "beatId": "beat-008",
-        "title": "Parley at Shark's Dock",
-        "dateStart": "1747-08-05",
-        "dateEnd": null
-      },
-      "session": {
-        "title": null,
-        "campaign": "Mawar Adventures",
-        "sessionNumber": 2,
-        "drStart": "1747-08-03",
-        "drEnd": "1747-08-09",
-        "realWorldDate": "2021-08-19",
-        "participants": [
-          {
-            "name": "David Kong",
-            "role": null,
-            "gameRole": "Ryu"
-          },
-          {
-            "name": "Mike Sackton",
-            "role": null,
-            "gameRole": "Wazir"
-          },
-          {
-            "name": "Eric Rosenbaum",
-            "role": null,
-            "gameRole": "Trok"
-          },
-          {
-            "name": "John Leeker",
-            "role": null,
-            "gameRole": "Kaleho"
-          },
-          {
-            "name": "Kate Sackton",
-            "role": null,
-            "gameRole": "Nerissa"
-          },
-          {
-            "name": "David Schwartz",
-            "role": null,
-            "gameRole": "Ander"
-          },
-          {
-            "name": "Tim Sackton",
-            "role": null,
-            "gameRole": "DM"
-          }
-        ]
-      },
-      "transcriptLines": [
+        },
         {
           "uid": "u2285",
           "header": "[u2285 | 03:09:39.870-03:09:41.130 | DM]",
@@ -15082,7 +14936,90 @@
           "header": "[u2419 | 03:18:58.650-03:18:59.070 | DM]",
           "text": "yeah.",
           "raw": "[u2419 | 03:18:58.650-03:18:59.070 | DM] yeah."
-        },
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "beat-006",
+        "title": "Dawn Interception Setup",
+        "startUid": "u2420",
+        "endUid": "u2739",
+        "lineCount": 320,
+        "dateStart": "1747-08-05",
+        "dateEnd": null,
+        "timeWindow": "morning",
+        "containsCombat": false,
+        "boundaryReason": "The transcript moves into the next morning as the party waits for Azar, spots the phantom boat, arranges the attempted parley, and watches the conversation fail when Azar's invitation to Ryu proves openly hostile and initiative is called.",
+        "dateEvidence": [
+          "u2420 explicitly says the next morning has arrived",
+          "u2440 through u2443 establish the early-morning and just-after-dawn timing",
+          "the segment follows directly from the prior evening's plan without any intervening scene"
+        ],
+        "startIndex": 2419,
+        "endIndex": 2738
+      },
+      "previousBeat": {
+        "beatId": "beat-005",
+        "title": "Yaz and Evening Plan",
+        "dateStart": "1747-08-04",
+        "dateEnd": null
+      },
+      "nextBeat": {
+        "beatId": "beat-007",
+        "title": "Tentacles at the Dock",
+        "dateStart": "1747-08-05",
+        "dateEnd": null
+      },
+      "session": {
+        "title": null,
+        "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
+        "sessionNumber": 2,
+        "drStart": "1747-08-03",
+        "drEnd": "1747-08-09",
+        "realWorldDate": "2021-08-19",
+        "participants": [
+          {
+            "name": "David Kong",
+            "role": null,
+            "gameRole": "Ryu"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "Wazir"
+          },
+          {
+            "name": "Eric Rosenbaum",
+            "role": null,
+            "gameRole": "Trok"
+          },
+          {
+            "name": "John Leeker",
+            "role": null,
+            "gameRole": "Kaleho"
+          },
+          {
+            "name": "Kate Sackton",
+            "role": null,
+            "gameRole": "Nerissa"
+          },
+          {
+            "name": "David Schwartz",
+            "role": null,
+            "gameRole": "Ander"
+          },
+          {
+            "name": "Tim Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
         {
           "uid": "u2420",
           "header": "[u2420 | 03:18:59.130-03:19:01.170 | Trok]",
@@ -15226,92 +15163,12 @@
           "header": "[u2443 | 03:21:01.170-03:21:02.820 | DM]",
           "text": "Just post on la.",
           "raw": "[u2443 | 03:21:01.170-03:21:02.820 | DM] Just post on la."
-        }
-      ]
-    },
-    {
-      "beat": {
-        "beatId": "beat-008",
-        "title": "Parley at Shark's Dock",
-        "startUid": "u2444",
-        "endUid": "u2799",
-        "lineCount": 356,
-        "dateStart": "1747-08-05",
-        "dateEnd": null,
-        "timeWindow": "morning",
-        "containsCombat": true,
-        "boundaryReason": "At dawn the party spots Azar's approach, tries to stop him without bloodshed, learns just enough about Nadine and Gazankoa to confirm his identity, and then loses the chance for peaceful resolution when the confrontation breaks into tentacles, opportunity attacks, and a scramble around the phantom boat.",
-        "dateEvidence": [
-          "the prior beat already advanced the timeline to the next morning",
-          "the transcript opens this scene with Blue spotting the incoming ship just after dawn",
-          "the scene remains one continuous confrontation until Azar is in the boat and the fight has fully broken open"
-        ],
-        "startIndex": 2443,
-        "endIndex": 2798
-      },
-      "previousBeat": {
-        "beatId": "beat-007",
-        "title": "Night Plan at the Leviathan",
-        "dateStart": "1747-08-04",
-        "dateEnd": "1747-08-05"
-      },
-      "nextBeat": {
-        "beatId": "beat-009",
-        "title": "Ice Armor and Tentacles",
-        "dateStart": "1747-08-05",
-        "dateEnd": null
-      },
-      "session": {
-        "title": null,
-        "campaign": "Mawar Adventures",
-        "sessionNumber": 2,
-        "drStart": "1747-08-03",
-        "drEnd": "1747-08-09",
-        "realWorldDate": "2021-08-19",
-        "participants": [
-          {
-            "name": "David Kong",
-            "role": null,
-            "gameRole": "Ryu"
-          },
-          {
-            "name": "Mike Sackton",
-            "role": null,
-            "gameRole": "Wazir"
-          },
-          {
-            "name": "Eric Rosenbaum",
-            "role": null,
-            "gameRole": "Trok"
-          },
-          {
-            "name": "John Leeker",
-            "role": null,
-            "gameRole": "Kaleho"
-          },
-          {
-            "name": "Kate Sackton",
-            "role": null,
-            "gameRole": "Nerissa"
-          },
-          {
-            "name": "David Schwartz",
-            "role": null,
-            "gameRole": "Ander"
-          },
-          {
-            "name": "Tim Sackton",
-            "role": null,
-            "gameRole": "DM"
-          }
-        ]
-      },
-      "transcriptLines": [
+        },
         {
           "uid": "u2444",
           "header": "[u2444 | 03:21:04.230-03:21:13.890 | DM]",
-          "text": "Is you're still making your way from the Leviathan, to the sharks Doc along the docks i'm blue comes down to your shoulder and.",
-          "raw": "[u2444 | 03:21:04.230-03:21:13.890 | DM] Is you're still making your way from the Leviathan, to the sharks Doc along the docks i'm blue comes down to your shoulder and."
+          "text": "Is you're still making your way from the Leviathan, to the Shark's Dock along the docks i'm blue comes down to your shoulder and.",
+          "raw": "[u2444 | 03:21:04.230-03:21:13.890 | DM] Is you're still making your way from the Leviathan, to the Shark's Dock along the docks i'm blue comes down to your shoulder and."
         },
         {
           "uid": "u2445",
@@ -15592,8 +15449,8 @@
         {
           "uid": "u2491",
           "header": "[u2491 | 03:24:30.570-03:24:37.950 | DM]",
-          "text": "So, but you can see, so real you see i'm about 20 minutes later sort of you know, coming up from the Doc.",
-          "raw": "[u2491 | 03:24:30.570-03:24:37.950 | DM] So, but you can see, so real you see i'm about 20 minutes later sort of you know, coming up from the Doc."
+          "text": "So, but you can see, so Ryu you see i'm about 20 minutes later sort of you know, coming up from the dock.",
+          "raw": "[u2491 | 03:24:30.570-03:24:37.950 | DM] So, but you can see, so Ryu you see i'm about 20 minutes later sort of you know, coming up from the dock."
         },
         {
           "uid": "u2492",
@@ -16696,8 +16553,8 @@
         {
           "uid": "u2675",
           "header": "[u2675 | 03:36:09.420-03:36:13.290 | Ryu]",
-          "text": "yeah this, but this is also why we're at the sharks Doc wait.",
-          "raw": "[u2675 | 03:36:09.420-03:36:13.290 | Ryu] yeah this, but this is also why we're at the sharks Doc wait."
+          "text": "yeah this, but this is also why we're at the Shark's Dock wait.",
+          "raw": "[u2675 | 03:36:09.420-03:36:13.290 | Ryu] yeah this, but this is also why we're at the Shark's Dock wait."
         },
         {
           "uid": "u2676",
@@ -17082,7 +16939,90 @@
           "header": "[u2739 | 03:39:26.100-03:39:26.700 | Unknown]",
           "text": "Oh.",
           "raw": "[u2739 | 03:39:26.100-03:39:26.700 | Unknown] Oh."
-        },
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "beat-007",
+        "title": "Tentacles at the Dock",
+        "startUid": "u2740",
+        "endUid": "u3149",
+        "lineCount": 410,
+        "dateStart": "1747-08-05",
+        "dateEnd": null,
+        "timeWindow": "morning",
+        "containsCombat": true,
+        "boundaryReason": "The dock fight begins as Azar drops black tentacles, runs for the phantom boat, and the party tries to stop him. The combat phase covers the scramble over the boat, Ryu's restraint, Trok grappling Azar underwater, and Armor of Agathys punishing the first melee attempts until Trok is knocked unconscious.",
+        "dateEvidence": [
+          "this beat begins immediately after initiative is being resolved in the dawn encounter",
+          "no rest or time skip interrupts the combat",
+          "the next beat begins with Trok unconscious and the fight shifting into rescue and finishing moves on the same morning"
+        ],
+        "startIndex": 2739,
+        "endIndex": 3148
+      },
+      "previousBeat": {
+        "beatId": "beat-006",
+        "title": "Dawn Interception Setup",
+        "dateStart": "1747-08-05",
+        "dateEnd": null
+      },
+      "nextBeat": {
+        "beatId": "beat-008",
+        "title": "Azar Falls",
+        "dateStart": "1747-08-05",
+        "dateEnd": null
+      },
+      "session": {
+        "title": null,
+        "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
+        "sessionNumber": 2,
+        "drStart": "1747-08-03",
+        "drEnd": "1747-08-09",
+        "realWorldDate": "2021-08-19",
+        "participants": [
+          {
+            "name": "David Kong",
+            "role": null,
+            "gameRole": "Ryu"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "Wazir"
+          },
+          {
+            "name": "Eric Rosenbaum",
+            "role": null,
+            "gameRole": "Trok"
+          },
+          {
+            "name": "John Leeker",
+            "role": null,
+            "gameRole": "Kaleho"
+          },
+          {
+            "name": "Kate Sackton",
+            "role": null,
+            "gameRole": "Nerissa"
+          },
+          {
+            "name": "David Schwartz",
+            "role": null,
+            "gameRole": "Ander"
+          },
+          {
+            "name": "Tim Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
         {
           "uid": "u2740",
           "header": "[u2740 | 03:39:29.460-03:39:38.220 | DM]",
@@ -17218,8 +17158,8 @@
         {
           "uid": "u2762",
           "header": "[u2762 | 03:41:55.500-03:41:57.660 | DM]",
-          "text": "You and the Doc.",
-          "raw": "[u2762 | 03:41:55.500-03:41:57.660 | DM] You and the Doc."
+          "text": "You and the dock.",
+          "raw": "[u2762 | 03:41:55.500-03:41:57.660 | DM] You and the dock."
         },
         {
           "uid": "u2763",
@@ -17442,87 +17382,7 @@
           "header": "[u2799 | 03:44:16.890-03:44:18.030 | DM]",
           "text": "How much damage does that do.",
           "raw": "[u2799 | 03:44:16.890-03:44:18.030 | DM] How much damage does that do."
-        }
-      ]
-    },
-    {
-      "beat": {
-        "beatId": "beat-009",
-        "title": "Ice Armor and Tentacles",
-        "startUid": "u2800",
-        "endUid": "u3149",
-        "lineCount": 350,
-        "dateStart": "1747-08-05",
-        "dateEnd": null,
-        "timeWindow": "morning",
-        "containsCombat": true,
-        "boundaryReason": "Once Azar is dragged into the water, the fight shifts into a second tactical phase focused on his defenses: the boat is cut loose, Ryu is trapped in grasping tentacles, Trok grapples Azar underwater, and Armor of Agathys brutally punishes every melee attempt until Trok is knocked unconscious.",
-        "dateEvidence": [
-          "this beat begins immediately after Azar reaches the boat and the first exchange settles into full tactical play",
-          "no rest or time skip interrupts the combat",
-          "the next beat begins only after the healing spirit and shatter turn the fight toward its final resolution on the same morning"
-        ],
-        "startIndex": 2799,
-        "endIndex": 3148
-      },
-      "previousBeat": {
-        "beatId": "beat-008",
-        "title": "Parley at Shark's Dock",
-        "dateStart": "1747-08-05",
-        "dateEnd": null
-      },
-      "nextBeat": {
-        "beatId": "beat-010",
-        "title": "Azar Falls and the Aftermath",
-        "dateStart": "1747-08-05",
-        "dateEnd": "1747-08-09"
-      },
-      "session": {
-        "title": null,
-        "campaign": "Mawar Adventures",
-        "sessionNumber": 2,
-        "drStart": "1747-08-03",
-        "drEnd": "1747-08-09",
-        "realWorldDate": "2021-08-19",
-        "participants": [
-          {
-            "name": "David Kong",
-            "role": null,
-            "gameRole": "Ryu"
-          },
-          {
-            "name": "Mike Sackton",
-            "role": null,
-            "gameRole": "Wazir"
-          },
-          {
-            "name": "Eric Rosenbaum",
-            "role": null,
-            "gameRole": "Trok"
-          },
-          {
-            "name": "John Leeker",
-            "role": null,
-            "gameRole": "Kaleho"
-          },
-          {
-            "name": "Kate Sackton",
-            "role": null,
-            "gameRole": "Nerissa"
-          },
-          {
-            "name": "David Schwartz",
-            "role": null,
-            "gameRole": "Ander"
-          },
-          {
-            "name": "Tim Sackton",
-            "role": null,
-            "gameRole": "DM"
-          }
-        ]
-      },
-      "transcriptLines": [
+        },
         {
           "uid": "u2800",
           "header": "[u2800 | 03:44:18.810-03:44:20.640 | Wazir]",
@@ -19623,38 +19483,46 @@
           "text": "shit i'm that zeros me out.",
           "raw": "[u3149 | 04:04:32.850-04:04:34.530 | Trok] shit i'm that zeros me out."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
-        "beatId": "beat-010",
-        "title": "Azar Falls and the Aftermath",
+        "beatId": "beat-008",
+        "title": "Azar Falls",
         "startUid": "u3150",
-        "endUid": "u3597",
-        "lineCount": 448,
+        "endUid": "u3446",
+        "lineCount": 297,
         "dateStart": "1747-08-05",
-        "dateEnd": "1747-08-09",
+        "dateEnd": null,
         "timeWindow": "morning",
         "containsCombat": true,
-        "boundaryReason": "The final combat phase starts with Trok rescued by the healing spirit and ends with Azar beaten unconscious, the drowned servant destroyed, and the party stabilizing the scene; from there the transcript rolls directly into narrated interrogation results, the recovery of the knife and lair, Wazir's later item identification, and Azar's escorted departure from Hamri days later.",
+        "boundaryReason": "The second combat phase starts with Trok unconscious in the water, then turns when healing spirit, ranged fire, and Trok's magic bring Azar down and Kaleho finishes the drowned servant. The beat ends when the enemies are defeated and the party can stabilize Azar and Trok.",
         "dateEvidence": [
-          "the beat continues the same 5 August morning combat without any scene break",
-          "the DM's narrated wrap-up explicitly summarizes later events on 5 August, 6 August, and 9 August rather than playing them scene by scene",
-          "using dateEnd 1747-08-09 captures that the final narrated aftermath spans several consecutive days inside one closing beat"
+          "this beat continues the same 1747-08-05 morning combat without a scene break",
+          "u3150 marks the tactical crisis after Trok drops unconscious",
+          "u3444 through u3446 resolve the last enemy and free the party to move into post-combat stabilization"
         ],
         "startIndex": 3149,
-        "endIndex": 3596
+        "endIndex": 3445
       },
       "previousBeat": {
-        "beatId": "beat-009",
-        "title": "Ice Armor and Tentacles",
+        "beatId": "beat-007",
+        "title": "Tentacles at the Dock",
         "dateStart": "1747-08-05",
         "dateEnd": null
       },
-      "nextBeat": null,
+      "nextBeat": {
+        "beatId": "beat-009",
+        "title": "Aftermath and Answers",
+        "dateStart": "1747-08-05",
+        "dateEnd": "1747-08-09"
+      },
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 2,
         "drStart": "1747-08-03",
         "drEnd": "1747-08-09",
@@ -19697,7 +19565,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u3150",
           "header": "[u3150 | 04:04:36.750-04:04:39.630 | DM]",
@@ -20199,14 +20067,14 @@
         {
           "uid": "u3233",
           "header": "[u3233 | 04:09:27.510-04:09:29.460 | Trok]",
-          "text": "would take out the Doc a little bit.",
-          "raw": "[u3233 | 04:09:27.510-04:09:29.460 | Trok] would take out the Doc a little bit."
+          "text": "would take out the dock a little bit.",
+          "raw": "[u3233 | 04:09:27.510-04:09:29.460 | Trok] would take out the dock a little bit."
         },
         {
           "uid": "u3234",
           "header": "[u3234 | 04:09:30.180-04:09:35.910 | Wazir]",
-          "text": "yeah shake up the Doc a bit that's OK DC 15 concept.",
-          "raw": "[u3234 | 04:09:30.180-04:09:35.910 | Wazir] yeah shake up the Doc a bit that's OK DC 15 concept."
+          "text": "yeah shake up the dock a bit that's OK DC 15 concept.",
+          "raw": "[u3234 | 04:09:30.180-04:09:35.910 | Wazir] yeah shake up the dock a bit that's OK DC 15 concept."
         },
         {
           "uid": "u3235",
@@ -21465,8 +21333,8 @@
         {
           "uid": "u3444",
           "header": "[u3444 | 04:21:32.370-04:21:37.140 | DM]",
-          "text": "So zombie spring water falls dad.",
-          "raw": "[u3444 | 04:21:32.370-04:21:37.140 | DM] So zombie spring water falls dad."
+          "text": "So zombie spring water falls dead.",
+          "raw": "[u3444 | 04:21:32.370-04:21:37.140 | DM] So zombie spring water falls dead."
         },
         {
           "uid": "u3445",
@@ -21479,7 +21347,85 @@
           "header": "[u3446 | 04:21:39.570-04:21:45.060 | DM]",
           "text": "Z are now free rushes over in presumably heels, is our son he doesn't die.",
           "raw": "[u3446 | 04:21:39.570-04:21:45.060 | DM] Z are now free rushes over in presumably heels, is our son he doesn't die."
-        },
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "beat-009",
+        "title": "Aftermath and Answers",
+        "startUid": "u3447",
+        "endUid": "u3597",
+        "lineCount": 151,
+        "dateStart": "1747-08-05",
+        "dateEnd": "1747-08-09",
+        "timeWindow": null,
+        "containsCombat": false,
+        "boundaryReason": "After the fight, the party heals, stabilizes Azar, receives the narrated interrogation and lair recovery, secures the knife in the lead box, learns how Airion's ring, Nimessa, and the Sentient Ocean fit together, and carries the consequences through Azar's later departure from Hamri.",
+        "dateEvidence": [
+          "u3447 follows immediately after the last enemy is defeated on 1747-08-05",
+          "the narrated wrap-up covers immediate interrogation and recovery after the fight",
+          "later wrap-up lines describe follow-up over the next few days, ending with Azar leaving for the lizardfolk village on 1747-08-09"
+        ],
+        "startIndex": 3446,
+        "endIndex": 3596
+      },
+      "previousBeat": {
+        "beatId": "beat-008",
+        "title": "Azar Falls",
+        "dateStart": "1747-08-05",
+        "dateEnd": null
+      },
+      "nextBeat": null,
+      "session": {
+        "title": null,
+        "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
+        "sessionNumber": 2,
+        "drStart": "1747-08-03",
+        "drEnd": "1747-08-09",
+        "realWorldDate": "2021-08-19",
+        "participants": [
+          {
+            "name": "David Kong",
+            "role": null,
+            "gameRole": "Ryu"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "Wazir"
+          },
+          {
+            "name": "Eric Rosenbaum",
+            "role": null,
+            "gameRole": "Trok"
+          },
+          {
+            "name": "John Leeker",
+            "role": null,
+            "gameRole": "Kaleho"
+          },
+          {
+            "name": "Kate Sackton",
+            "role": null,
+            "gameRole": "Nerissa"
+          },
+          {
+            "name": "David Schwartz",
+            "role": null,
+            "gameRole": "Ander"
+          },
+          {
+            "name": "Tim Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
         {
           "uid": "u3447",
           "header": "[u3447 | 04:21:46.440-04:21:46.830 | Ryu]",
@@ -21633,8 +21579,8 @@
         {
           "uid": "u3472",
           "header": "[u3472 | 04:23:03.270-04:23:06.000 | DM]",
-          "text": "yeah I didn't have the docs.",
-          "raw": "[u3472 | 04:23:03.270-04:23:06.000 | DM] yeah I didn't have the docs."
+          "text": "yeah I didn't have the docks.",
+          "raw": "[u3472 | 04:23:03.270-04:23:06.000 | DM] yeah I didn't have the docks."
         },
         {
           "uid": "u3473",
@@ -21645,8 +21591,8 @@
         {
           "uid": "u3474",
           "header": "[u3474 | 04:23:07.440-04:23:09.750 | Trok]",
-          "text": "I thought the docs worked great improvisers.",
-          "raw": "[u3474 | 04:23:07.440-04:23:09.750 | Trok] I thought the docs worked great improvisers."
+          "text": "I thought the docks worked great improvisers.",
+          "raw": "[u3474 | 04:23:07.440-04:23:09.750 | Trok] I thought the docks worked great improvisers."
         },
         {
           "uid": "u3475",
@@ -21729,8 +21675,8 @@
         {
           "uid": "u3488",
           "header": "[u3488 | 04:23:40.980-04:23:48.930 | DM]",
-          "text": "So, so you learned he indeed had had lost his wife gotten hooked on god's.",
-          "raw": "[u3488 | 04:23:40.980-04:23:48.930 | DM] So, so you learned he indeed had had lost his wife gotten hooked on god's."
+          "text": "So, so you learned he indeed had had lost his wife gotten hooked on gatza.",
+          "raw": "[u3488 | 04:23:40.980-04:23:48.930 | DM] So, so you learned he indeed had had lost his wife gotten hooked on gatza."
         },
         {
           "uid": "u3489",
@@ -21837,8 +21783,8 @@
         {
           "uid": "u3506",
           "header": "[u3506 | 04:25:17.310-04:25:34.260 | DM]",
-          "text": "You guys figured out most of that, I mean I thought you would just once he realized that I guess you didn't quite figure out that he was seeking out arians like he wanted to be at places that were close to the plane of water so as there was the other areas.",
-          "raw": "[u3506 | 04:25:17.310-04:25:34.260 | DM] You guys figured out most of that, I mean I thought you would just once he realized that I guess you didn't quite figure out that he was seeking out arians like he wanted to be at places that were close to the plane of water so as there was the other areas."
+          "text": "You guys figured out most of that, I mean I thought you would just once he realized that I guess you didn't quite figure out that he was seeking out Airion's sites, like he wanted to be at places that were close to the Plane of Water so Azar was the other areas.",
+          "raw": "[u3506 | 04:25:17.310-04:25:34.260 | DM] You guys figured out most of that, I mean I thought you would just once he realized that I guess you didn't quite figure out that he was seeking out Airion's sites, like he wanted to be at places that were close to the Plane of Water so Azar was the other areas."
         },
         {
           "uid": "u3507",
@@ -21897,8 +21843,8 @@
         {
           "uid": "u3516",
           "header": "[u3516 | 04:25:57.060-04:26:03.450 | DM]",
-          "text": "beta that and made a Doc but it's tough with these online things because I can't just I mean I guess it worked drawing maps right.",
-          "raw": "[u3516 | 04:25:57.060-04:26:03.450 | DM] beta that and made a Doc but it's tough with these online things because I can't just I mean I guess it worked drawing maps right."
+          "text": "anticipated that and made a dock but it's tough with these online things because I can't just I mean I guess it worked drawing maps right.",
+          "raw": "[u3516 | 04:25:57.060-04:26:03.450 | DM] anticipated that and made a dock but it's tough with these online things because I can't just I mean I guess it worked drawing maps right."
         },
         {
           "uid": "u3517",
@@ -21921,8 +21867,8 @@
         {
           "uid": "u3520",
           "header": "[u3520 | 04:26:16.170-04:26:18.090 | DM]",
-          "text": "He says the 70 addiction.",
-          "raw": "[u3520 | 04:26:16.170-04:26:18.090 | DM] He says the 70 addiction."
+          "text": "He says the gatza addiction.",
+          "raw": "[u3520 | 04:26:16.170-04:26:18.090 | DM] He says the gatza addiction."
         },
         {
           "uid": "u3521",
@@ -21933,8 +21879,8 @@
         {
           "uid": "u3522",
           "header": "[u3522 | 04:26:20.910-04:26:26.760 | Wazir]",
-          "text": "How did he get it, I told him to summon a creature to go get the Center notion of then, why was it some left.",
-          "raw": "[u3522 | 04:26:20.910-04:26:26.760 | Wazir] How did he get it, I told him to summon a creature to go get the Center notion of then, why was it some left."
+          "text": "How did he get it, I told him to summon a creature to go get the Sentient Ocean of then, why was it some left.",
+          "raw": "[u3522 | 04:26:20.910-04:26:26.760 | Wazir] How did he get it, I told him to summon a creature to go get the Sentient Ocean of then, why was it some left."
         },
         {
           "uid": "u3523",
@@ -21945,8 +21891,8 @@
         {
           "uid": "u3524",
           "header": "[u3524 | 04:26:28.920-04:26:34.350 | DM]",
-          "text": "He arians notes suggest told told them about the Center nurse.",
-          "raw": "[u3524 | 04:26:28.920-04:26:34.350 | DM] He arians notes suggest told told them about the Center nurse."
+          "text": "Airion's notes told them about the Sentient Ocean.",
+          "raw": "[u3524 | 04:26:28.920-04:26:34.350 | DM] Airion's notes told them about the Sentient Ocean."
         },
         {
           "uid": "u3525",
@@ -21987,14 +21933,14 @@
         {
           "uid": "u3531",
           "header": "[u3531 | 04:26:55.470-04:26:57.930 | Ryu]",
-          "text": "What where did he get the water that the Mirko guy drink.",
-          "raw": "[u3531 | 04:26:55.470-04:26:57.930 | Ryu] What where did he get the water that the Mirko guy drink."
+          "text": "What where did he get the water that the merfolk guy drank.",
+          "raw": "[u3531 | 04:26:55.470-04:26:57.930 | Ryu] What where did he get the water that the merfolk guy drank."
         },
         {
           "uid": "u3532",
           "header": "[u3532 | 04:26:59.220-04:27:06.660 | DM]",
-          "text": "That he summoned arians rang let him summon a water jeannie American.",
-          "raw": "[u3532 | 04:26:59.220-04:27:06.660 | DM] That he summoned arians rang let him summon a water jeannie American."
+          "text": "That he summoned Airion's ring let him summon a water genie, a marid, and.",
+          "raw": "[u3532 | 04:26:59.220-04:27:06.660 | DM] That he summoned Airion's ring let him summon a water genie, a marid, and."
         },
         {
           "uid": "u3533",
@@ -22011,8 +21957,8 @@
         {
           "uid": "u3535",
           "header": "[u3535 | 04:27:11.460-04:27:15.510 | DM]",
-          "text": "No marriage or kill you all marriage they're like super powerful.",
-          "raw": "[u3535 | 04:27:11.460-04:27:15.510 | DM] No marriage or kill you all marriage they're like super powerful."
+          "text": "No, marids will kill you all, marids they're like super powerful.",
+          "raw": "[u3535 | 04:27:11.460-04:27:15.510 | DM] No, marids will kill you all, marids they're like super powerful."
         },
         {
           "uid": "u3536",
@@ -22023,8 +21969,8 @@
         {
           "uid": "u3537",
           "header": "[u3537 | 04:27:16.350-04:27:22.230 | DM]",
-          "text": "g spot the it was in the scroll the marriage some into guardians protect the safety and what are.",
-          "raw": "[u3537 | 04:27:16.350-04:27:22.230 | DM] g spot the it was in the scroll the marriage some into guardians protect the safety and what are."
+          "text": "It was in the scroll, the marids are summoned to guard and protect the sentient water.",
+          "raw": "[u3537 | 04:27:16.350-04:27:22.230 | DM] It was in the scroll, the marids are summoned to guard and protect the sentient water."
         },
         {
           "uid": "u3538",
@@ -22035,32 +21981,32 @@
         {
           "uid": "u3539",
           "header": "[u3539 | 04:27:23.460-04:27:27.720 | DM]",
-          "text": "And then left pests, because she didn't want to mess up.",
-          "raw": "[u3539 | 04:27:23.460-04:27:27.720 | DM] And then left pests, because she didn't want to mess up."
+          "text": "And then left pissed, because she didn't want to mess up.",
+          "raw": "[u3539 | 04:27:23.460-04:27:27.720 | DM] And then left pissed, because she didn't want to mess up."
         },
         {
           "uid": "u3540",
           "header": "[u3540 | 04:27:29.100-04:27:38.850 | DM]",
-          "text": "She didn't want to get involved in the politics, but the ring commanded or two so she was angry, but the curse of the ring when she can't hurt him for 1000 in one day is.",
-          "raw": "[u3540 | 04:27:29.100-04:27:38.850 | DM] She didn't want to get involved in the politics, but the ring commanded or two so she was angry, but the curse of the ring when she can't hurt him for 1000 in one day is."
+          "text": "She didn't want to get involved in the politics, but the ring commanded her to so she was angry, but the curse of the ring when she can't hurt him for 1000 and one days.",
+          "raw": "[u3540 | 04:27:29.100-04:27:38.850 | DM] She didn't want to get involved in the politics, but the ring commanded her to so she was angry, but the curse of the ring when she can't hurt him for 1000 and one days."
         },
         {
           "uid": "u3541",
           "header": "[u3541 | 04:27:39.300-04:27:42.300 | Ryu]",
-          "text": "and actually went and got got the water from the bar folk.",
-          "raw": "[u3541 | 04:27:39.300-04:27:42.300 | Ryu] and actually went and got got the water from the bar folk."
+          "text": "and actually went and got got the water from the merfolk.",
+          "raw": "[u3541 | 04:27:39.300-04:27:42.300 | Ryu] and actually went and got got the water from the merfolk."
         },
         {
           "uid": "u3542",
           "header": "[u3542 | 04:27:42.660-04:27:47.850 | DM]",
-          "text": "yeah but she had to go back to hungry, because he could plane shift to the cave.",
-          "raw": "[u3542 | 04:27:42.660-04:27:47.850 | DM] yeah but she had to go back to hungry, because he could plane shift to the cave."
+          "text": "yeah but she had to go back to Hamri, because he could plane shift to the cave.",
+          "raw": "[u3542 | 04:27:42.660-04:27:47.850 | DM] yeah but she had to go back to Hamri, because he could plane shift to the cave."
         },
         {
           "uid": "u3543",
           "header": "[u3543 | 04:27:49.800-04:27:51.930 | DM]",
-          "text": "Because it's playing of water is close.",
-          "raw": "[u3543 | 04:27:49.800-04:27:51.930 | DM] Because it's playing of water is close."
+          "text": "Because its Plane of Water is close.",
+          "raw": "[u3543 | 04:27:49.800-04:27:51.930 | DM] Because its Plane of Water is close."
         },
         {
           "uid": "u3544",
@@ -22386,7 +22332,8 @@
           "text": "yeah have a good night bye bye.",
           "raw": "[u3597 | 04:30:52.890-04:30:54.060 | Ryu] yeah have a good night bye bye."
         }
-      ]
+      ],
+      "supplementalSources": []
     }
   ]
 }

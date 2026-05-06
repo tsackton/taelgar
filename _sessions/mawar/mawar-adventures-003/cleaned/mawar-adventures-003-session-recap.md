@@ -2,15 +2,17 @@
 
 ## Session Header
 
-- Title: Episode 3: The Tomb of Yerkir-khor
-- Tagline: in which a missing hunter leads to a tomb
-- One-Sentence Summary: Trok, Kaleho, Ryu, and Nerissa track the missing Hiyasa upriver, uncover the buried tomb of Yerkir-khor, and fight its stone guardian before returning to Hamri with treasure.
+- Title: Mawar Adventures 003
+- Desc Title: The Tomb of Yerkir-khor
+- Tagline: in which a missing treasure hunter leads to a hidden tomb
+- One-Sentence Summary: Orden asks the party to find Hiyasa, whose treasure map leads them from Hamri into Yerkir-khor's buried earth tomb, where they survive traps, stone guardians, and a near-fatal fight before returning with her and the tomb's strange spoils.
 - Campaign: Mawar Adventures
+- Scope: session
 - Session Number: 3
 - DR Date: 1747-10-23 to 1747-10-28
 - Real Date: 2021-11-27
 - DM: Tim Sackton
-- PCs: David Kong, Mike Sackton, Eric Rosenbaum, John Leeker, Kate Sackton, David Schwartz
+- PCs: Ryu, Trok, Kaleho, Nerissa
 
 ## Timeline
 
@@ -27,17 +29,17 @@
 - Combat Beats: none
 
 #### Short
-Orden asks Trok and Kaleho to search for Hiyasa, who vanished after setting out upriver in search of treasure.
+Orden asks Trok and Kaleho to find his daughter Hiyasa.
 
 #### Long
-Orden finds Trok and Kaleho over supper on the beach and begs for help finding Hiyasa, his daughter, who returned to Hamri after years away and disappeared again after talking of treasure upriver. They agree to look into the matter and decide to seek out Ryu the next morning.
+Orden comes to Trok's beach shack in Hamri and says his daughter Hiyasa vanished eight days earlier, after following treasure rumors up the Mirmir. Trok and Kaleho agree to help and plan to find Ryu at breakfast.
 
 ### Oct 24th, 1747 (morning)
 
 - Timeline Segment: timeline-002
 - Timeline Key: (DR:: 1747-10-24), morning
 - Resolution: part-of-day
-- Beat IDs: b02, b03
+- Beat IDs: b02
 - Locations: Hamri
 - NPCs: Abelard
 - Organizations: none
@@ -45,82 +47,82 @@ Orden finds Trok and Kaleho over supper on the beach and begs for help finding H
 - Combat Beats: none
 
 #### Short
-Trok and Kaleho recruit Ryu at breakfast, and Nerissa joins them after introducing herself at his tower.
+Trok and Kaleho recruit Ryu and Nerissa to help, and gather rumors at the Leviathan Inn as the party prepares to head up the Mirmir. 
 
 #### Long
-The search shifts to Ryu's tower, where the party explains Orden's plea and gains both Ryu's help and Nerissa's company. Afterward they go into Hamri and hear from Abelard that Hiyasa headed up the Mirmir chasing rumors of an ancient tomb.
+Trok and Kaleho recruit Ryu at breakfast, and Nerissa joins after hearing that the search may lead to ancient ruins. Abelard confirms at the Leviathan that Hiyasa went upriver seeking a tomb.
 
-### Oct 24th, 1747 to Oct 25th, 1747
+### Oct 24th, 1747 to Oct 26th, 1747
 
 - Timeline Segment: timeline-003
-- Timeline Key: (DR:: 1747-10-24)
+- Timeline Key: (DR:: 1747-10-24) - (DR_end:: 1747-10-26)
 - Resolution: date-range
-- Beat IDs: b04
-- Locations: Hamri, Mirmir River interior
-- NPCs: none
+- Beat IDs: b03
+- Locations: Hamri, Yerkir-khor monument
+- NPCs: Blu
 - Organizations: none
-- Items: none
+- Items: Terran monument inscription
 - Combat Beats: none
 
 #### Short
-The party tracks Hiyasa up the Mirmir, camps in the forest, and finds her abandoned campsite the following day.
+The party travels up the Mirmir; Ryu tracks Hiyasa inland to Yerkir-khor's monument.
 
 #### Long
-Leaving Hamri, the company follows Hiyasa's trail inland along the Mirmir and spends a cold night under watch in the deepening forest. On the next day they discover a recently abandoned campsite, confirming that they remain on her trail but are still behind her.
+Ryu tracks Hiyasa upriver and inland while Blu scouts overhead. The party camps, finds Hiyasa's abandoned campsite, and reaches a buried stone monument inscribed as Yerkir-khor's resting place.
 
 ### Oct 26th, 1747 (midday)
 
 - Timeline Segment: timeline-004
 - Timeline Key: (DR:: 1747-10-26), midday
 - Resolution: part-of-day
-- Beat IDs: b05, b06, b07
-- Locations: Yerkir-khor monument, Yerkir-khor tomb
-- NPCs: none
+- Beat IDs: b04, b05
+- Locations: Yerkir-khor tomb
+- NPCs: Blu
 - Organizations: none
-- Items: stone neck tokens
-- Combat Beats: b07
+- Items: crystal-cavern mosaic, blade trap, loose amethyst gem
+- Combat Beats: b05
 
 #### Short
-The search reaches Yerkir-khor's monument, and the party descends into the buried complex before fighting its first stone guardians.
+The party descends into Yerkir-khor's tomb, dodges traps, and destroys its first guardians.
 
 #### Long
-The party reaches a monumental stone structure in the forest, reads Terran inscriptions naming Yerkir-khor, and climbs down into the tomb below. After navigating crystal chambers and traps, they are attacked by gargoyles and a serpent statue, which they finally break apart and search.
+The party descends into the shaft, triggers a blade trap, and regroups in a crystal-mosaic hall. Stone gargoyles attack as they try to activate a serpent-headed statue, but the party destroys them before the statue fully wakes.
 
 ### Oct 26th, 1747 (afternoon)
 
 - Timeline Segment: timeline-005
 - Timeline Key: (DR:: 1747-10-26), afternoon
 - Resolution: part-of-day
-- Beat IDs: b08, b09, b10, b11, b12
+- Beat IDs: b06, b07, b08, b09, b10
 - Locations: Yerkir-khor tomb
-- NPCs: Hiyasa
+- NPCs: Hiyasa, Blu
 - Organizations: none
-- Items: gem-stoppered jars
-- Combat Beats: b10, b11, b12
+- Items: stone keys, lightning-crystal trap, gem-stoppered jars, inner sanctum mosaics, ocean offerings, Hiyasa's map sketch
+- Combat Beats: b08, b09, b10
 
 #### Short
-Deeper in the tomb, the party finds Hiyasa trapped in stone and defeats Yerkir-khor's guardian after a brutal fight in shifting mud.
+Continuing deeper into the tomb, the party finds Hiyasa in the inner sanctum and frees her after destroying the Yerkik-khor's ancient earth protector. 
 
 #### Long
-After following muddy signs through the lower passages, the party reaches the inner sanctum and discovers Hiyasa half-entombed before a towering guardian. Their tribute fails, the guardian attacks, and the battle nearly ends in disaster when the floor turns to mud, but Ryu destroys the construct before Trok can be buried alive.
+The party follows Hiyasa's tracks through locked doors, mud, and lightning crystals to the inner sanctum. Yerkir-khor's guardian rejects their offerings, turns the floor to mud, and nearly buries Trok before Ryu destroys it and Hiyasa pulls free.
 
 ### Oct 26th, 1747 to Oct 28th, 1747
 
 - Timeline Segment: timeline-006
-- Timeline Key: (DR:: 1747-10-26)
+- Timeline Key: (DR:: 1747-10-26) - (DR_end:: 1747-10-28)
 - Resolution: date-range
-- Beat IDs: b13
+- Beat IDs: b11
 - Locations: Yerkir-khor tomb, Hamri
 - NPCs: Hiyasa
 - Organizations: none
-- Items: Hiyasa's treasure map, unknown scrolls, gem-stoppered jars
+- Items: Hiyasa's treasure map, ancient Orban coins and gems, pearl of power, yellow dust and ancient papers, obsidian void jar
 - Combat Beats: none
 
 #### Short
-With Hiyasa safe, the party loots the tomb, returns to Hamri, divides the spoils, and leaves strange scrolls for Wazir.
+The party travels back to Hamri with Hiyasa and the tomb treasure.
 
 #### Long
-In the guardian's aftermath the party questions Hiyasa, gathers treasure from the inner chamber, and carries the haul back toward Hamri. A few days later they divide their gains in town, receive a copy of Hiyasa's treasure map, and set the most mysterious scrolls aside for Wazir to decipher.
+The party gathers the jars, coins, gems, pearl, papers, and map clues from the tomb, then disguises the entrance and travels back to Hamri. The haul includes ancient Orban coins, a pearl of power, preserved papers, and two remaining map marks.
 
 ## Recap
 
@@ -130,7 +132,7 @@ In the guardian's aftermath the party questions Hiyasa, gathers treasure from th
 - Beat IDs: b01
 - Date: 1747-10-23
 - Time: evening
-- Transcript Range: u0001 -> u0345
+- Source Range: u0001 -> u0345
 - Locations: Hamri
 - NPCs: Orden
 - Organizations: none
@@ -138,43 +140,21 @@ In the guardian's aftermath the party questions Hiyasa, gathers treasure from th
 - Enemies: none
 
 #### Short
-Orden's plea draws Trok and Kaleho into the search for Hiyasa.
+Kaleho finds Trok in Hamri, and Orden asks them to find Hiyasa.
 
 #### Intermediate
-Orden interrupts supper on the beach to ask for help finding Hiyasa after she vanishes on a treasure hunt upriver. Trok and Kaleho hear him out and decide to seek Ryu in the morning before committing fully.
+Kaleho shares dinner with Trok at his beach shack. Orden arrives worried for his daughter, Hiyassa. She returned to Hamri recently after ten years away, talking about hidden treasure in the interior. She has now been missing for eight days, Orden says. 
 
 #### Long
-Kaleho shares an evening meal with Trok on the beach when Orden arrives in distress over Hiyasa's disappearance. He explains that she returned after years away, spoke of treasure upriver, and failed to come back, and the two adventurers agree to investigate after speaking with Ryu at breakfast.
+Kaleho returns to Hamri and meets Trok at his beach shack, where they talk over stew about Trok's uneasy isolation, Kaleho's fixation on sea mysteries, and the aftermath of the events concerning Azar the Lost. Orden interrupts the meal and explains that his daughter Hiyasa came home recently after a decade away, carrying maps and filled with talk of ancient treasure in the forest. She left up the Mirmir eight days ago and has not returned: Orden is nervous. Trok and Kaleho agree to help, and decide to bring Ryu into the search at first light.
 
-### recap-002 | Breakfast at Ryu's
+### recap-002 | Breakfast and Rumors
 
 - Kind: beat
 - Beat IDs: b02
 - Date: 1747-10-24
 - Time: morning
-- Transcript Range: u0346 -> u0534
-- Locations: Hamri
-- NPCs: none
-- Organizations: none
-- Items: none
-- Enemies: none
-
-#### Short
-The next morning the search widens at Ryu's tower.
-
-#### Intermediate
-Trok and Kaleho bring Orden's story to Ryu over breakfast and ask whether he will come upriver with them. Before long Nerissa, a neighboring tower-dweller with a taste for history, introduces herself and offers to join the expedition.
-
-#### Long
-At Ryu's tower the next morning, Trok and Kaleho explain Hiyasa's disappearance and persuade Ryu to hear out the search. Their breakfast gathering draws Nerissa in as well, and her curiosity about the peninsula's older cultures makes the expedition larger and more promising before the party ever leaves Hamri.
-
-### recap-003 | Rumors at the Leviathan
-
-- Kind: beat
-- Beat IDs: b03
-- Date: 1747-10-24
-- Time: morning
-- Transcript Range: u0535 -> u0698
+- Source Range: u0346 -> u0698
 - Locations: Hamri
 - NPCs: Abelard
 - Organizations: none
@@ -182,189 +162,166 @@ At Ryu's tower the next morning, Trok and Kaleho explain Hiyasa's disappearance 
 - Enemies: none
 
 #### Short
-Rumor at the Leviathan points the party toward an ancient tomb upriver.
+The next morning, Ryu and Nerissa join Kaleho and Trok. At the Levianthan Inn, the singer Abelard confirms a woman matching Hiyasa's description headed upriver. 
 
 #### Intermediate
-Before setting out, the party questions Abelard at the Leviathan about a woman matching Hiyasa's description. He confirms that she headed up the Mirmir in pursuit of treasure in an old tomb, which gives the group its first solid lead.
+The next morning, at Ryu's tower, Trok and Kaleho explain Orden's request. Nerissa introduces herself and volunteers for the expedition. At the Leviathan Inn, the singer Abelard confirms that a woman like Hiyasa went up the Mirmir after talking about an ancient tomb.
 
 #### Long
-The party makes one last stop in Hamri at the Leviathan, hoping to turn tavern gossip into something more useful. Abelard, bleary but observant, recalls Hiyasa going upriver after speaking of an ancient tomb full of treasure, and that rumor is enough to send the group back to Ryu and out along the Mirmir.
+The next morning, Trok and Kaleho visit Ryu's tower and recruit him for the search, then meet Nerissa, a scholar from a nearby tower who is immediately drawn to the possibility of ancient ruins. The group stops at the Leviathan Inn to gather local rumors before leaving town. Abelard, hung over but useful, recognizes the description of Hiyasa and says she headed up the Mirmir in pursuit of treasure in an old tomb.
+### recap-003 | Up the Mirmir
 
-### recap-004 | Up the Mirmir
+- Kind: beat
+- Beat IDs: b03
+- Date: 1747-10-24 to 1747-10-26
+- Time: unknown
+- Source Range: u0699 -> u1052
+- Locations: Hamri, Yerkir-khor monument
+- NPCs: Blu
+- Organizations: none
+- Items: Terran monument inscription
+- Enemies: none
+
+#### Short
+Over the next few days, the party follows Hiyasa's trail up the Mirmir to an abandoned camp and an ancient monument to a strange entity named Yerkir-khor. 
+
+#### Intermediate
+Over the next few days, Ryu tracks Hiyasa from Hamri into the forest, following the course of the Mirmir. After finding Hiyasa's abandoned campsite, they continue to a partially buried stone monument whose Terran inscription names Yerkir-khor.
+
+#### Long
+After speaking to Abelard at the Levianthan Inn, the party leaves Hamri, climbs above the waterfall, and follows the Mirmir inland through cold autumn forest, Ryu reading the trail while Blu scouts through the trees. After a few day's walk, the party finds a small abandoned campsite, suggesting Hiyasa passed that way alone. The trail cuts farther from the river and ends at a massive stone flower-like monument with ropes already fixed to it, an open trap door at the top, and a Terran inscription that reads, "Here lies Yerkir-khor the Undaunted, Prince of Earth, Lord of the Rock Below, and Guardian of the Crystal Skies."
+
+### recap-004 | Crystal Halls
 
 - Kind: beat
 - Beat IDs: b04
-- Date: 1747-10-24 to 1747-10-25
-- Time: none
-- Transcript Range: u0699 -> u0848
-- Locations: Hamri, Mirmir River interior
-- NPCs: none
+- Date: 1747-10-26
+- Time: midday
+- Source Range: u1053 -> u1392
+- Locations: Yerkir-khor tomb
+- NPCs: Blu
 - Organizations: none
-- Items: none
+- Items: crystal-cavern mosaic, blade trap
 - Enemies: none
 
 #### Short
-The party follows Hiyasa's trail into the forest and keeps to it through an overnight camp.
+Descending into the monument, Trok triggers a blade trap, before the the rest of the group follows into the tomb's old mosaic main hall.
 
 #### Intermediate
-Leaving Hamri behind, the company tracks Hiyasa up the Mirmir through open woodland that grows denser as the day wanes. They camp through a cold but quiet night, then resume the search and find the abandoned campsite that shows they are still on her path.
+At the monument, Trok starts down the open shaft first, but a hidden blade knocks him loose; Kaleho falls through after him. The party regroups, descending with ropes into the old main hall where cavern mosaics cover the floor. In the distance, dark-granite doors stand locked guarded by four gargoyles statues on pedestals, watched by a serpent-headed statue near a white stone altar.
 
 #### Long
-Ryu's tracking and Blue's help carry the party above the waterfall and into the autumn forest along the Mirmir. The first day ends in a guarded camp and an uneventful watch, and the next morning brings Hiyasa's abandoned tent and fire pit, proof that they are closing on her but not yet close enough.
+At the monument, Trok ascends and looks down the open shaft into a hall whose mosaic floor shows glittering caverns, stone cliffs, underground rivers, and twisting stalactites and stalagmites. Nerissa sends lights after him, but the descent goes wrong almost immediately: a hidden blade sweeps through the shaft, cuts Trok loose, and sends Kaleho crashing to the floor after him. The group regroups, descended by rope into the long-buried main hall. Enormous double doors stand sealed behind them. At the far end, locked dark-granite doors wait, guarded by four gargoyle statues. Between the doors, a serpent-headed statue with emerald eyes and gold-and-gem decoration rises above a smooth white stalagmite altar.
 
-### recap-005 | The Stone Monument
+### recap-005 | Gargoyle Ambush
 
-- Kind: beat
+- Kind: combat
 - Beat IDs: b05
 - Date: 1747-10-26
 - Time: midday
-- Transcript Range: u0849 -> u1049
-- Locations: Yerkir-khor monument
-- NPCs: none
+- Source Range: u1393 -> u1849
+- Locations: Yerkir-khor tomb
+- NPCs: Blu
 - Organizations: none
-- Items: none
-- Enemies: none
+- Items: loose amethyst gem
+- Enemies: stone gargoyles, serpent statue construct
 
 #### Short
-The search reaches Yerkir-khor's monument, and the party descends into the buried structure.
+As the party proceeds towards the doors at the far end of the main hall, four stone gargoyles animate and attack, trying to wake a serpent statue, before the party shatters them.
 
 #### Intermediate
-After pushing farther into the interior, the party finds a colossal stone monument half-buried in the forest and marked with Terran inscriptions naming Yerkir-khor. Fresh signs of entry convince them that Hiyasa passed this way, and they commit themselves to the descent below.
+As the party proceeds towards the doors at the far end of the main hall, the four intact gargoyles animate from their pedestals and dive at Trok. Some keep harrying the party, while others break away toward the serpent-headed statue between the doors. Trok smashes them with giant strength, Nerissa cracks them with thunder, Kaleho and Ryu shoot and spear them down, and Blu dive-bombs the stragglers until the hall falls quiet. 
 
 #### Long
-The party's pursuit ends at a stark and ancient monument shaped from immense blocks of stone and dedicated to Yerkir-khor the Undaunted. The inscriptions confirm the place's significance, the evidence of recent passage confirms Hiyasa's route, and the group climbs down into the darkness below to see what sort of dead lord still guards such a tomb.
+As Trok heads for the doors to study the altar and statue, the four intact gargoyles suddenly animate and attack. Two harry  the party, while two fly toward the serpent-headed statue and try to pull a loose amethyst from its gold-banded arm. Trok grows and slams the gargoyles into the floor and altar, Nerissa's shattering spell rips through their stone bodies, Kaleho drops targets with crossbow shots, and Ryu sends both spear and Blu after the ones trying to trigger something worse. The last gargoyle breaks before the serpent statue fully wakes, leaving the party with broken guardians, stone keys, and the loose amethyst to inspect.
 
-### recap-006 | Crystal Halls
+### recap-006 | Deeper into the Tomb
 
 - Kind: beat
 - Beat IDs: b06
 - Date: 1747-10-26
-- Time: midday
-- Transcript Range: u1050 -> u1392
+- Time: afternoon
+- Source Range: u1850 -> u2305
 - Locations: Yerkir-khor tomb
 - NPCs: none
 - Organizations: none
-- Items: none
+- Items: stone keys
 - Enemies: none
 
 #### Short
-The upper halls of the tomb force the party into careful progress through crystal chambers and traps.
+Past the gargoyles, the party follows Hiyasa's trail into the lower corridors of the tomb, past a quicksand trap.
 
 #### Intermediate
-Below the monument, the party finds glittering halls, carved stonework, and mechanisms that demand patience rather than speed. They probe the upper chambers, test routes downward, and try to understand the tomb before whatever still guards it can react.
+Past the gargoyles, Ryu finds Hiyasa's tracks leading to a locked door. Using  stone keys recovered from the gargoyles, the  party follows her trail into the plain stair passages below the main hall. They confirm she crossed a quicksand-like trap near an open door, then use jumps, rubble, and pitons to cross without losing the trail.
 
 #### Long
-The descent into Yerkir-khor's tomb reveals a startling world of crystal light, polished stone, and hidden danger. The party works its way deeper with more caution than confidence, reading the architecture, feeling out the traps, and making slow progress through chambers that feel both ceremonial and hostile.
+After the fight, Ryu notices small stone keys on the shattered gargoyles and tracks leading to one of the locked doors behind the serpent statue. The party heals, leaves a warning by the dangerous statue, and opens the door with one of the stone keys. Following Hiyasa's trail down into the tomb, they pass mirrored stair rooms, arriving in a narrow lower corridor. Kaleho spots a slick, liquid-looking patch before an open door, with muddy footprints beyond suggesting Hiyasa passed this way. Following the trail, Ryu jumps the hazard, while the rest of the group uses anchored spikes to cross. 
 
-### recap-007 | Gargoyle Ambush
+### recap-007 | The Guardian's Terms
 
-- Kind: combat
+- Kind: beat
 - Beat IDs: b07
 - Date: 1747-10-26
-- Time: midday
-- Transcript Range: u1393 -> u1849
-- Locations: Yerkir-khor tomb
-- NPCs: none
-- Organizations: none
-- Items: stone neck tokens
-- Enemies: stone gargoyles, serpent statue construct
-
-#### Short
-The tomb answers with violence when its first guardians awaken.
-
-#### Intermediate
-The party's careful advance gives way to a hard fight against stone gargoyles and a serpent statue guarding the upper chambers. Nerissa's thunder magic proves especially useful, and by the end of the fight the broken defenders lie scattered with their stone tokens among the shards.
-
-#### Long
-The first real test inside Yerkir-khor's tomb comes when the chamber's carved guardians suddenly animate and attack. The fight is awkward and dangerous in the confined stone space, but the party stays together, cracks the gargoyles apart, and emerges with the room secured and new clues in hand.
-
-### recap-008 | Deeper into the Tomb
-
-- Kind: beat
-- Beat IDs: b08
-- Date: 1747-10-26
 - Time: afternoon
-- Transcript Range: u1850 -> u2305
-- Locations: Yerkir-khor tomb
-- NPCs: none
-- Organizations: none
-- Items: none
-- Enemies: none
-
-#### Short
-With the gargoyles broken, the party presses deeper toward the heart of the tomb.
-
-#### Intermediate
-After a short recovery, the party searches the ruined chamber, regains its footing, and resumes the descent through more trapped corridors. Muddy traces and signs of Hiyasa's passage guide them onward toward the final rooms.
-
-#### Long
-The aftermath of the gargoyle fight gives the party a chance to heal, collect itself, and study what the tomb has already thrown at them. That pause does not last long, because the lower passages demand fresh improvisation with traps, drops, and unstable footing, and the muddy signs of Hiyasa's route pull them steadily toward the inner sanctum.
-
-### recap-009 | The Guardian's Terms
-
-- Kind: beat
-- Beat IDs: b09
-- Date: 1747-10-26
-- Time: afternoon
-- Transcript Range: u2306 -> u2485
+- Source Range: u2306 -> u2485
 - Locations: Yerkir-khor tomb
 - NPCs: Hiyasa
 - Organizations: none
-- Items: gem-stoppered jars
+- Items: lightning-crystal trap, gem-stoppered jars, inner sanctum mosaics
 - Enemies: none
 
 #### Short
-The party finally finds Hiyasa, but the tomb's guardian will not let them take her freely.
+Descending to the inner sanctum of the tomb, the party finds Hiyasa is alive, trapped in stone. But Yerkir-khor's guardian demands tribute.
 
 #### Intermediate
-In the inner chamber the party discovers Hiyasa trapped in stone before a monumental guardian and a ring of offering jars. They try to satisfy the guardian's demand for tribute, but every offer fails and the room turns from ritual space to battlefield.
+Beyond the quicksand trap, the party enters an antechamber with side doors, a crystal-ringed stair, and a labyrinth mosaic warning in Terran: "Faithful of Yerkir-khor, be blessed with the wisdom of your lord! Unfaithful, flee now or be entombed forever in his majestic presence!" They crawl forward to avoid lightning arcing from the crystals, descend, and find Hiyasa dehydrated and trapped in stone before the guardian of Yerkir-khor, who demands tribute. 
 
 #### Long
-At last the party reaches the heart of the tomb and finds Hiyasa alive but half-entombed before the great guardian of Yerkir-khor. The murals, jars, and gemstones make the room's purpose plain, yet the construct's standard for tribute proves impossible to meet, and the rescue turns into a fight the moment negotiation fails.
+The muddy footprints lead into a wider antechamber with closed side doors and stairs encircled by fist-sized crystals. Around a central labyrinth design, Terran words read, "Faithful of Yerkir-khor, be blessed with the wisdom of your lord! Unfaithful, flee now or be entombed forever in his majestic presence!" Kaleho is struck by lightning when he approaches the stair upright, but crawling beneath the crystals lets everyone descend safely. The stairs open into a blue-lit inner sanctum where Hiyasa is alive but encased in stone from the thighs down, with an empty waterskin nearby. Around her, gem mosaics show a stone-and-earth lord flattening mountains, shaping valleys and canals, receiving offerings, and being honored through farming, mining, and trade with dwarves. Six gem-stoppered jars stand behind the altar, and a great stone guardian steps forward in Terran to demand tribute from anyone claiming to honor Yerkir-khor.
 
-### recap-010 | Guardian Battle Begins to Mud and Rescue
+### recap-008 | Guardian Battle Begins to Mud and Rescue
 
 - Kind: combat
-- Beat IDs: b10, b11, b12
+- Beat IDs: b08, b09, b10
 - Date: 1747-10-26
 - Time: afternoon
-- Transcript Range: u2486 -> u3510
+- Source Range: u2486 -> u3510
 - Locations: Yerkir-khor tomb
-- NPCs: Hiyasa
+- NPCs: Hiyasa, Blu
 - Organizations: none
-- Items: none
+- Items: ocean offerings, gem-stoppered jars, Hiyasa's map sketch
 - Enemies: stone guardian of Yerkir-khor
 
 #### Short
-The guardian's judgment turns the rescue into a desperate battle that ends in mud, panic, and a narrow victory.
+The guardian rejects the ocean offerings presented as tribute, sparking a battle that ends when Ryu destroys the guardian ending the stone magic trapping Hiyasa. 
 
 #### Intermediate
-Once tribute fails, the guardian attacks with immense strength and command over stone while the party struggles to free Hiyasa and stay alive. The fight worsens when the floor turns to mud and Trok is nearly entombed, but the party holds on long enough for Ryu to bring the construct down.
+The offered tribute of shells, a pearl, and Kaleho's merfolk book only enrage the guardian, which treats the ocean-linked offerings as insults to Yerkir-khor. The fight turns desperate when it changes the floor to mud, traps Hiyasa and others, knocks Trok unconscious, and nearly hardens him into stone before Ryu lands the killing blow on the guardian and revives Trok.
 
 #### Long
-The last and worst chamber of Yerkir-khor's tomb becomes a prolonged fight against a guardian that can shape the room as readily as it can swing its hammer. The party slowly learns how to hurt it, survives the chaos of turning stone and sucking mud, and nearly loses Trok to entombment before Ryu finally destroys the creature and makes Hiyasa's rescue possible.
+The party tries to satisfy the guardian with the treasures they actually carry: Trok's shells, Ryu's pearl, and Kaleho's treasured merfolk book. Each offering makes the guardian angrier, as it violently rejects the treasures of the ocean. Ryu  opens the fight with a spear while Blu wheels through the blue-lit chamber. The party batters the guardian with crossbow fire, Eldritch Maul, thunder and psychic magic, thrown spears, and Blu's dives, but the guardian reshapes the room, traps Kaleho with a stone hand, turns the floor to mud, and throws an unconscious Trok into it as it starts to harden. Ryu manages to land the killing blow on the guardian, and then revives Trok with his healing magic. The stone magic broken, Hiyasa frees herself. She tries to pocket one of the jars, but relaxes after Trok makes clear they came as a favor to Orden rather than as rival tomb robbers.
 
-### recap-011 | Return with the Spoils
+### recap-009 | Return with the Spoils
 
 - Kind: beat
-- Beat IDs: b13
+- Beat IDs: b11
 - Date: 1747-10-26 to 1747-10-28
-- Time: none
-- Transcript Range: u3511 -> u3819
+- Time: unknown
+- Source Range: u3511 -> u3819
 - Locations: Yerkir-khor tomb, Hamri
 - NPCs: Hiyasa
 - Organizations: none
-- Items: Hiyasa's treasure map, unknown scrolls, gem-stoppered jars
+- Items: Hiyasa's treasure map, ancient coins and gems, pearl of power, yellow dust and ancient papers, obsidian void jar
 - Enemies: none
 
 #### Short
-With the guardian gone, the party turns rescue into profit and carries both Hiyasa and treasure back to Hamri.
+Freed, Hiyasa and the party return to Hamri with treasure from the tomb. 
 
 #### Intermediate
-The victory leaves the party time to question Hiyasa, gather jars, gems, scrolls, and other spoils, and begin the long trip home. Back in Hamri a few days later, they divide the haul, receive a copy of Hiyasa's treasure map, and set the strangest writings aside for Wazir.
+Freed, Hiyasa explains her story. She returned from Chardon with a treasure map, and chose this tomb to loot because it predated Mawar graves and seemed less theologically risky to rob. In thanks to the party, she sketches a copy of [[Hiyasa's Treasure Map|the map]] that marks three old tombs. The party gathers treasure and carries the salvage home over the next several days, before partying company with Hiyasa. 
 
 #### Long
-Once the guardian falls, the tone shifts quickly from survival to salvage as the party checks on Hiyasa, sorts through the tomb's treasure, and decides what is worth carrying out. By the time they are back in Hamri, the rescue has become the start of a larger mystery: Hiyasa rewards them with her map, the loot is divided, and the unknown scrolls are left for Wazir to unravel.
+Freed, Hiyasa explains her story. She returned from Chardon with a treasure map, and she admits she came for treasure to help Orden. She thought an older, non-Mawar tomb would avoid angering the local ancestors. In thanks to the party, she sketches a copy of [[Hiyasa's Treasure Map|the map]] that marks three old tombs. Exploring the guardian room, the party opens the six jars and finds archaic coins, rough gemstones, a pearl, red liquid that Wazir later recognizes as spoiled wine, yellow dust protecting ancient papers, and an obsidian jar with a one-way void that shatters after removal from the tomb. They disguise the entrance before traveling back to Hamri over the next several days, where they part ways with Hiyasa. 
 
 ## Cast
 
@@ -374,25 +331,29 @@ Once the guardian falls, the tone shifts quickly from survival to salvage as the
   - Hamri, 1747-10-23
 - Abelard (met): singer and rumor source
   - Hamri, 1747-10-24
-- Hiyasa (met, companion): half-entombed survivor
+- Blu (companion): Ryu's osprey
+  - Hamri -> Yerkir-khor monument, 1747-10-24 to 1747-10-26
+  - Yerkir-khor tomb, 1747-10-26
+- Hiyasa (met): half-entombed survivor
   - Yerkir-khor tomb, 1747-10-26
   - Yerkir-khor tomb -> Hamri, 1747-10-26 to 1747-10-28
-- Airion the Mistspeaker (mentioned): earlier Mawar mystery
+- Airion the Mistspeaker (mentioned): older elemental mystery
 - Yerkir-khor (mentioned): buried earth lord
 
 ## Locations
 
-- Hamri: Trok's shack on the beach below the towers
-  - visited on 1747-10-23 to 1747-10-24
-  - traveled-through on 1747-10-24 to 1747-10-25
-  - visited on 1747-10-26 to 1747-10-28
-- Mirmir River interior: overland tracking upriver through the forest
-  - visited on 1747-10-24 to 1747-10-25
-- Yerkir-khor monument: partially buried stone structure in the inland forest
-  - visited on 1747-10-26
-- Yerkir-khor tomb: upper crystal halls and trapped approach chambers
-  - visited on 1747-10-26
-  - traveled-through on 1747-10-26 to 1747-10-28
+- Hamri
+  - Summary: coastal town on the Mawakel Peninsula where Orden asks for help, the party gathers rumors, and the recovered treasure is later divided
+  - Sublocations: Trok's beach shack, Ryu's tower, the Leviathan Inn, return inn scene with Wazir
+  - Date Visited: 1747-10-23 to 1747-10-28
+- Yerkir-khor monument
+  - Summary: partially buried stone flower monument in the inland forest, marking the hidden entrance to Yerkir-khor's tomb
+  - Sublocations: forest approach, surface ropes, Terran inscription, open trap door, entrance shaft
+  - Date Visited: 1747-10-24 to 1747-10-26
+- Yerkir-khor tomb
+  - Summary: ancient earth-themed tomb beneath the monument, filled with crystal mosaics, traps, stone guardians, tribute imagery, and strange preserved treasure
+  - Sublocations: entrance shaft, crystal-mosaic hall, upper guardian chamber, lower corridors, lightning-crystal stair, inner sanctum
+  - Date Visited: 1747-10-26 to 1747-10-28
 
 ## Organizations And Items
 
@@ -401,29 +362,50 @@ Once the guardian falls, the tone shifts quickly from survival to salvage as the
 
 ### Items
 
-- stone neck tokens (encountered): Small talisman-like stones found hanging from the gargoyle guardians after the fight.
+- Terran monument inscription (encountered): "Here lies Yerkir-khor the Undaunted, Prince of Earth, Lord of the Rock Below, and Guardian of the Crystal Skies."
+  - Hamri -> Yerkir-khor monument, 1747-10-24 to 1747-10-26
+- crystal-cavern mosaic (encountered): floor mosaic below the entrance shaft depicting glittering caves and gemstone caverns
   - Yerkir-khor tomb, 1747-10-26
-- gem-stoppered jars (encountered): Heavy jars in the inner tomb, each sealed with a differently colored gemstone.
+- blade trap (encountered): hidden swinging blade in the entrance shaft that injures Trok and helps send Kaleho falling
   - Yerkir-khor tomb, 1747-10-26
+- loose amethyst gem (encountered): removable gem in the serpent statue, apparently the focus of the gargoyles' activation attempt
+  - Yerkir-khor tomb, 1747-10-26
+- stone keys (encountered): small keys found on broken gargoyles and used to open the route deeper into the tomb
+  - Yerkir-khor tomb, 1747-10-26
+- lightning-crystal trap (encountered): crystal railing trap after the warning, "Faithful of Yerkir-khor, be blessed with the wisdom of your lord! Unfaithful, flee now or be entombed forever in his majestic presence!"
+  - Yerkir-khor tomb, 1747-10-26
+- gem-stoppered jars (encountered): six heavy stone jars in the inner sanctum, each topped with a different gemstone and containing treasure or odd substances
+  - Yerkir-khor tomb, 1747-10-26
+- inner sanctum mosaics (encountered): gem mosaics depicting Yerkir-khor shaping earth, receiving offerings, and being honored through farming, mining, and trade
+  - Yerkir-khor tomb, 1747-10-26
+- ocean offerings (encountered): shells, a pearl, and Kaleho's merfolk book offered as tribute and rejected by the guardian
+  - Yerkir-khor tomb, 1747-10-26
+- Hiyasa's map sketch (encountered): sketch Hiyasa draws from the map that marked three long-abandoned tombs
+  - Yerkir-khor tomb, 1747-10-26
+- Hiyasa's treasure map (encountered): map with three marked tomb locations, including Yerkir-khor's monument
   - Yerkir-khor tomb -> Hamri, 1747-10-26 to 1747-10-28
-- Hiyasa's treasure map (encountered): A copied map to another treasure site, given to the party in thanks after the rescue.
+- ancient coins and gems (encountered): archaic coinage and rough gemstones recovered from the jars, worth about six hundred gold in total
   - Yerkir-khor tomb -> Hamri, 1747-10-26 to 1747-10-28
-- unknown scrolls (encountered): A loose sheaf of writings in an unknown language recovered from the tomb.
+- pearl of power (encountered): magic pearl from one jar, later identified as able to restore a spell slot
+  - Yerkir-khor tomb -> Hamri, 1747-10-26 to 1747-10-28
+- yellow dust and ancient papers (encountered): magical dust preserving fragile papers in an unknown language
+  - Yerkir-khor tomb -> Hamri, 1747-10-26 to 1747-10-28
+- obsidian void jar (encountered): jar that appears to contain a hole to nowhere and shatters after removal from the tomb
   - Yerkir-khor tomb -> Hamri, 1747-10-26 to 1747-10-28
 
 ## Combat
 
-### recap-007 | Gargoyles in the Crystal Halls
+### recap-005 | Gargoyle Wardens
 
-- Beat IDs: b07
+- Beat IDs: b05
 - Enemies: stone gargoyles, serpent statue construct
-- Context / Outcome: Stone gargoyles and a serpent statue attack in the upper tomb, but the party breaks them apart and secures the chamber.
+- Context / Outcome: Four stone gargoyles defend the main hall and try to activate the serpent-headed statue; the party destroys them before the statue fully wakes.
 
-### recap-010 | The Guardian of Yerkir-khor
+### recap-008 | Guardian of Yerkir-khor
 
-- Beat IDs: b10, b11, b12
+- Beat IDs: b08, b09, b10
 - Enemies: stone guardian of Yerkir-khor
-- Context / Outcome: The inner guardian rejects the party's tribute, turns the floor to mud, and nearly entombs Trok before Ryu destroys it and Hiyasa is saved.
+- Context / Outcome: The guardian attacks after rejecting the party's tribute and is destroyed by Ryu after nearly entombing Trok in hardening mud.
 
 
 ## Source Files
@@ -431,4 +413,4 @@ Once the guardian falls, the tone shifts quickly from survival to salvage as the
 - Context JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-session-summary-context.json
 - Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-beats.json
 - Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-beat-facts.json
-- Cleaned Transcript: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md
+- Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md
