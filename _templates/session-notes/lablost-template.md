@@ -16,7 +16,7 @@ tagline: {session.tagline}
 
 >[!info] {session.desc_title}: {session.tagline}
 > *Featuring: {session.pcs_inline}*
-> *In Taelgar: (DR:: {session.dr_start})*
+> *In Taelgar: {session.dr_range_inline}*
 > *On Earth: {session.real_date_long}*
 > *{locations.inline}*
 

@@ -845,9 +845,12 @@ def build_slots(
     info_slots["session.pcs_plain_inline"] = render_inline_csv_plain(header.get("PCs", ""))
     info_slots["session.pcs_inline"] = render_inline_csv_as_links(header.get("PCs", ""), note_index)
     info_slots["session.session_number"] = render_scalar(session_payload.get("sessionNumber"))
+    dr_start = normalize_optional_string(session_payload.get("drStart")) or header.get("DR Date", "")
+    dr_end = normalize_optional_string(session_payload.get("drEnd")) or ""
     info_slots["session.dr_date"] = header.get("DR Date", "")
-    info_slots["session.dr_start"] = normalize_optional_string(session_payload.get("drStart")) or header.get("DR Date", "")
-    info_slots["session.dr_end"] = normalize_optional_string(session_payload.get("drEnd")) or header.get("DR Date", "")
+    info_slots["session.dr_start"] = dr_start
+    info_slots["session.dr_end"] = dr_end
+    info_slots["session.dr_range_inline"] = format_dr_range_inline(dr_start, dr_end)
     info_slots["session.real_date"] = header.get("Real Date", "")
     info_slots["session.real_date_long"] = format_real_date_long(header.get("Real Date", ""))
     info_slots["timeline"] = render_timeline_slot(recap["timeline"])
@@ -1315,6 +1318,14 @@ def format_real_date_long(value: str) -> str:
     except ValueError:
         return text
     return f"{dt.strftime('%A')}, {dt.strftime('%B')} {dt.day}, {dt.year}"
+
+
+def format_dr_range_inline(dr_start: str, dr_end: str) -> str:
+    start = (dr_start or "").strip()
+    end = (dr_end or "").strip()
+    if end and end != start:
+        return f"(DR:: {start}) to (DR:: {end})"
+    return f"(DR:: {start})"
 
 
 def render_scalar(value: Any) -> str:

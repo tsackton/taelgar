@@ -21,6 +21,16 @@ SPEC.loader.exec_module(components)
 SessionRecapParseError = components.SessionRecapParseError
 parse_session_recap = components.parse_session_recap
 
+TEST_DISPLAY_METADATA = {
+    "typeDisplayDefaults": {
+        "person": {"sessionNote": {"default": "<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>"}},
+        "place": {"sessionNote": {"default": "<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>"}},
+        "object": {"sessionNote": {"default": "<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>"}},
+        "group": {"sessionNote": {"default": "<(*)pronunciation(*;)> <ancestry:n> <subtypeof:sn> <typeof:sn>"}},
+        "unknown": {"sessionNote": {"default": "<(*)pronunciation(*;)> <typeof:sn>"}},
+    }
+}
+
 
 class SessionNoteComponentsTest(unittest.TestCase):
     def make_workspace(self) -> Path:
@@ -340,7 +350,13 @@ class SessionNoteComponentsTest(unittest.TestCase):
             )
             component_dir.mkdir(parents=True, exist_ok=True)
             note_index = components.VaultNoteIndex(vault, generated_root)
-            slots = components.build_slots(recap=recap, note_index=note_index, session_payload=session_payload)
+            slots = components.build_slots(
+                recap=recap,
+                note_index=note_index,
+                session_payload=session_payload,
+                campaign_slug="test-campaign",
+                display_metadata=TEST_DISPLAY_METADATA,
+            )
             components.write_component_file(
                 component_dir / "01-session-info.md",
                 title="Session Info",
@@ -423,13 +439,15 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertIn('excludePublish: ["all"]', info_text)
         self.assertIn("<!-- SLOT: session.summary -->", info_text)
         self.assertIn("<!-- SLOT: session.desc_title -->", info_text)
+        self.assertIn("<!-- SLOT: session.dr_end -->\n1730-01-25", info_text)
+        self.assertIn("<!-- SLOT: session.dr_range_inline -->\n(DR:: 1730-01-25)", info_text)
         self.assertIn("<!-- SLOT: session.pcs_plain_inline -->\nEkko, Justas, Eolo", info_text)
         self.assertIn("Into the Labyrinth", info_text)
         self.assertIn("<!-- SLOT: timeline -->", info_text)
         frontmatter = info_text.split("---", 2)[1]
         self.assertNotIn("[[", frontmatter)
         self.assertIn(
-            "- [[Zeyfa's Labyrinth]] (labyrinth in the Great Chasm): frozen maze beneath the Great Chasm. Session context includes: ice bridge and first forked passages.",
+            "- [[Zeyfa's Labyrinth]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): frozen maze beneath the Great Chasm. Session context includes: ice bridge and first forked passages.",
             info_text,
         )
 
@@ -446,6 +464,55 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertIn("<!-- SLOT: narrative.short -->", narrative_text)
         self.assertIn("<!-- SLOT: narrative.long -->", narrative_text)
         self.assertIn("The party descends into [[Zeyfa's Labyrinth]] with [[Kalima]]", narrative_text)
+
+    def test_builder_leaves_blank_dr_end_out_of_inline_range(self) -> None:
+        vault = self.make_workspace()
+        session_path = vault / "session.yaml"
+        session_path.write_text(
+            session_path.read_text(encoding="utf-8").replace("drEnd: 1730-01-25\n", ""),
+            encoding="utf-8",
+        )
+
+        result = self.run_builder(vault)
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        info_text = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-notes"
+            / "test-campaign-session-12"
+            / "01-session-info.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("<!-- SLOT: session.dr_end -->\n<!-- /SLOT -->", info_text)
+        self.assertIn("<!-- SLOT: session.dr_range_inline -->\n(DR:: 1730-01-25)", info_text)
+
+    def test_builder_renders_distinct_dr_end_in_inline_range(self) -> None:
+        vault = self.make_workspace()
+        session_path = vault / "session.yaml"
+        session_path.write_text(
+            session_path.read_text(encoding="utf-8").replace("drEnd: 1730-01-25", "drEnd: 1730-01-27"),
+            encoding="utf-8",
+        )
+
+        result = self.run_builder(vault)
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        info_text = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-notes"
+            / "test-campaign-session-12"
+            / "01-session-info.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("<!-- SLOT: session.dr_end -->\n1730-01-27", info_text)
+        self.assertIn(
+            "<!-- SLOT: session.dr_range_inline -->\n(DR:: 1730-01-25) to (DR:: 1730-01-27)",
+            info_text,
+        )
 
     def test_builder_uses_reviewed_recap_as_canonical_source(self) -> None:
         vault = self.make_workspace()
@@ -482,8 +549,14 @@ class SessionNoteComponentsTest(unittest.TestCase):
         info_text = (component_dir / "01-session-info.md").read_text(encoding="utf-8")
         tech_text = (component_dir / "02-technical-updates.md").read_text(encoding="utf-8")
 
-        self.assertIn("[[Kalima]] (she/her, human, pronounced kah-LEE-mah): frightened guide.", info_text)
-        self.assertIn("[[Romil's token]] (token, owned by [[Kalima]], kept in Frostbridge): silver token recovered from the raiders.", info_text)
+        self.assertIn(
+            "[[Kalima]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): frightened guide.",
+            info_text,
+        )
+        self.assertIn(
+            "[[Romil's token]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): silver token recovered from the raiders.",
+            info_text,
+        )
         self.assertIn(
             "note currently says whereabouts 'Frostbridge', but the reviewed recap ends them at 'Great Chasm Encampment'.",
             tech_text,

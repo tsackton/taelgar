@@ -55,6 +55,10 @@ Ryu, Wazir, Trok
 1747-07-23
 <!-- /SLOT -->
 
+<!-- SLOT: session.dr_range_inline -->
+(DR:: 1747-07-23)
+<!-- /SLOT -->
+
 <!-- SLOT: session.real_date -->
 2021-07-24
 <!-- /SLOT -->
