@@ -8,13 +8,13 @@ DR: 1747-07-23
 DR_end: 1747-07-23
 players: [Ryu, Wazir, Trok]
 companions: []
-name: Mawar Adventures Episode 1
+name: Mawar Adventures Episode 01
 descTitle: The Merfolk Visitor
 tagline: in which a stolen drop of ocean is returned
 sessionKey: mawar-adventures-session-1
 template: mawar-template.md
 ---
-# Mawar Adventures Episode 1
+# Mawar Adventures Episode 01
 
 >[!info] The Merfolk Visitor: in which a stolen drop of ocean is returned
 > *Featuring: [[Ryu]], [[Wazir]], [[Trok]]*

@@ -8,13 +8,13 @@ DR: 1747-10-23
 DR_end: 1747-10-28
 players: [Ryu, Trok, Kaleho, Nerissa]
 companions: []
-name: Mawar Adventures Episode 3
+name: Mawar Adventures Episode 03
 descTitle: The Tomb of Yerkir-khor
 tagline: in which a missing treasure hunter leads to a hidden tomb
 sessionKey: mawar-adventures-session-3
 template: mawar-template.md
 ---
-# Mawar Adventures Episode 2
+# Mawar Adventures Episode 02
 
 >[!info] The Tomb of Yerkir-khor: in which a missing treasure hunter leads to a hidden tomb
 > *Featuring: [[Ryu]], [[Trok]], [[Kaleho]], [[Nerissa]]*
