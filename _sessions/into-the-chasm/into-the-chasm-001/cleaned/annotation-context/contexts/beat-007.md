@@ -12,8 +12,8 @@ Do not edit `beats.json`.
 
 - Beat ID: beat-007
 - Title: Stories on the Platform
-- Range: `u1463` -> `u1835`
-- Lines: 373
+- Range: `u1463` -> `u1915`
+- Lines: 453
 - Date Start: 1730-01-25
 - Date End: same day
 - Time Window: afternoon
@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1463 | 01:59:47.760-01:59:49.849 | Finnan] At this point, though, I think I will turn.
 [u1464 | 01:59:50.350-01:59:51.729 | Finnan] For the rest of the group.
@@ -453,3 +453,83 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1833 | 02:28:22.530-02:28:28.940 | Ekko] Wherever we are, this is, magical in nature, and…
 [u1834 | 02:28:29.620-02:28:38.320 | Ekko] this environment. We might be in the chasm, but… Somehow, in a… in a… In another space.
 [u1835 | 02:28:40.370-02:28:41.080 | Finnan] Hmm.
+[u1836 | 02:28:41.210-02:28:44.640 | Finnan] Familiar with magic, but more of the magic of…
+[u1837 | 02:28:45.170-02:28:51.249 | Finnan] stories than elements. I've been collecting stories for many years now, and…
+[u1838 | 02:28:52.160-02:28:56.270 | Finnan] I find the strands of magic in many of them.
+[u1839 | 02:28:58.450-02:29:08.030 | Finnan] But there's… Some strange story is about the West Wind, and about… the people here…
+[u1840 | 02:29:08.680-02:29:14.709 | Finnan] I spent a while traveling On the other side of the Sentinels, about 10 years ago.
+[u1841 | 02:29:15.330-02:29:21.080 | Finnan] So, people there, the Deno'qai, who speak A language that…
+[u1842 | 02:29:21.180-02:29:26.249 | Finnan] Sounds strangely similar to Old Zimkovan, although I never quite picked up the tongue.
+[u1843 | 02:29:29.210-02:29:37.250 | Finnan] And among the elders of the Deno'qai, there are stories about when people first came to the forests on the western slopes.
+[u1844 | 02:29:38.520-02:29:43.999 | Finnan] And sometimes would think, The trickster fae were gods.
+[u1845 | 02:29:48.380-02:29:50.070 | Finnan] It makes me wonder…
+[u1846 | 02:29:55.040-02:29:55.760 | Ekko] You think the fan?
+[u1847 | 02:29:58.320-02:29:59.120 | Finnan] Could be.
+[u1848 | 02:30:01.920-02:30:09.340 | Ekko] Mike, have there been… have there's ever there ever been a history? Is ECHO aware of anything, aware of any fixture, FE, FEY activity around here?
+[u1849 | 02:30:16.130-02:30:22.489 | DM] I don't… I think… I mean, the fey are not common.
+[u1850 | 02:30:22.600-02:30:31.139 | DM] They're not… it's not like you've never heard of, sort of, fae activity, but they're not, like, a big part of,
+[u1851 | 02:30:32.660-02:30:49.920 | DM] the… their experience. There are, you know, there are people who appease the cruel West Wind, and to some outsiders, it does seem kind of fey-like, in a way, right? Like, people will… people will leave out, you know.
+[u1852 | 02:30:50.210-02:31:07.209 | DM] some food for the West Wind's children, right? And we'll… or will, you know, give… throw the… the best fish into the river to appease the West Winds children. And some outsiders sometimes think that is a little bit…
+[u1853 | 02:31:07.990-02:31:08.860 | DM] GitHub.
+[u1854 | 02:31:10.060-02:31:11.280 | DM] Fey-ish?
+[u1855 | 02:31:11.960-02:31:13.660 | DM] But… but to…
+[u1856 | 02:31:13.800-02:31:20.590 | DM] to the locals, most people would say, no, no, no, what are you talking about? It's the… it's the spirits of the West Wind.
+[u1857 | 02:31:22.500-02:31:32.240 | Jrain] if we can get a coherent answer, I'm kind of curious what she thinks you do to appease the West Wind, because I kind of have the feeling it's more than…
+[u1858 | 02:31:32.450-02:31:34.359 | Jrain] Throwing a fish in the river.
+[u1859 | 02:31:35.240-02:31:39.530 | DM] Like I said, you could ask her, you could probably coax, like, 2 or 3 questions out of her.
+[u1860 | 02:31:41.940-02:31:43.130 | DM] You could ask her.
+[u1861 | 02:31:44.790-02:31:45.489 | Finnan] Oh, absolutely.
+[u1862 | 02:31:45.490-02:31:50.939 | Jrain] she said that we could follow up on, as far as I'm concerned, are the only way out is in
+[u1863 | 02:31:51.600-02:31:55.240 | Jrain] And… something about appeasing the west wind.
+[u1864 | 02:31:56.140-02:32:02.349 | DM] She… she kind of… she kind of looks, like, at Finnan a little bit, like…
+[u1865 | 02:32:04.850-02:32:09.360 | DM] She kind of is noticing for the first time that you don't look… Human?
+[u1866 | 02:32:10.810-02:32:15.580 | DM] And it's like, looks at you a second time?
+[u1867 | 02:32:16.300-02:32:19.860 | DM] Kind of puzzled, like, actually, she's clearly never met a halfling.
+[u1868 | 02:32:20.550-02:32:25.980 | DM] What… and she looks at you kind of oddly for a minute, like… Wh-what are you?
+[u1869 | 02:32:30.540-02:32:36.340 | Finnan] Finnan will be very, like, calm and understanding and gentle, and talk about…
+[u1870 | 02:32:37.120-02:32:45.970 | Finnan] Just, like, spin a tale about travelers and wanderers who have… Pass through the world.
+[u1871 | 02:32:46.410-02:32:50.610 | Finnan] For many, many years, even when there were Great.
+[u1872 | 02:32:50.950-02:32:53.130 | Finnan] Swamps in the lowlands?
+[u1873 | 02:32:53.990-02:32:59.610 | Finnan] And will apologize that none of them have found her village yet, and…
+[u1874 | 02:33:00.840-02:33:07.509 | Finnan] Say that he is trying to make up for that deficit and bring… Stories and songs.
+[u1875 | 02:33:07.910-02:33:09.480 | Finnan] To her people, too.
+[u1876 | 02:33:10.210-02:33:12.079 | Finnan] And that's what his people do.
+[u1877 | 02:33:12.570-02:33:14.070 | DM] She seems…
+[u1878 | 02:33:14.770-02:33:28.610 | DM] she sort of processes that, but doesn't seem too bothered, right? Like, she sort of calms… she, like, realizes, okay, I guess you're a traveler. She kind of accepts that story. She doesn't seem to have put together the two bird-like creatures as things keep talking.
+[u1879 | 02:33:28.610-02:33:31.589 | Jrain] And she's not saying anything about Elo, and…
+[u1880 | 02:33:31.590-02:33:41.290 | DM] Well, neither of them have tried to talk to her. She doesn't seem to be processing them as, like, humans, as sentient creatures. I mean, she doesn't… she's, like, not even really noticing
+[u1881 | 02:33:41.420-02:33:48.910 | DM] she's, like, barely looking up, like, she's basically huddled like this, and kind of only looks up when Finnan comes to talk to her.
+[u1882 | 02:33:48.910-02:33:51.999 | Jrain] I mean, she came up into the Kemeko Monastery, though, she was…
+[u1883 | 02:33:52.000-02:33:54.769 | DM] She was terrified of the Kenku, though. She wouldn't talk to them.
+[u1884 | 02:33:55.090-02:33:55.780 | Jrain] Okay.
+[u1885 | 02:33:56.150-02:33:58.970 | DM] Right? She, like, had no idea. She, like, was… that's one of the reasons.
+[u1886 | 02:33:58.970-02:34:01.920 | Jrain] She didn't know she could talk to them. That was one of the problems.
+[u1887 | 02:34:01.920-02:34:07.519 | DM] Yes, exactly. One of the… one of the challenges, and one of the reasons you left with her was because she was…
+[u1888 | 02:34:07.630-02:34:20.990 | DM] thought the Kenku were basically monsters, like, she was totally… and probably they were all carrying their blood feathers around and be like, we killed 17 bloodhawks today, we're the coolest, right? They probably were not the most welcoming, but…
+[u1889 | 02:34:21.500-02:34:23.690 | DM] She says. Sorry, go ahead.
+[u1890 | 02:34:24.360-02:34:25.500 | Ekko] beans.
+[u1891 | 02:34:27.750-02:34:28.550 | DM] beings.
+[u1892 | 02:34:28.810-02:34:33.039 | Ekko] Just looking at the non-Kenku, like, not people, beings.
+[u1893 | 02:34:34.020-02:34:34.660 | Jrain] Oh.
+[u1894 | 02:34:34.780-02:34:35.630 | Jrain] Okay.
+[u1895 | 02:34:36.350-02:34:37.250 | Jrain] Thank you.
+[u1896 | 02:34:38.030-02:34:39.820 | Ekko] Yeah, it's alright, just so you know.
+[u1897 | 02:34:40.540-02:34:42.929 | DM] She says to figure it out.
+[u1898 | 02:34:42.930-02:34:44.829 | Ekko] Human-focused, that's all. Go ahead, sorry.
+[u1899 | 02:34:44.830-02:34:59.280 | DM] To answer the question, she, she, she says, well, once… when the… When the sun sets.
+[u1900 | 02:35:04.300-02:35:10.060 | DM] And the… and the new… and the new ones are… old enough.
+[u1901 | 02:35:10.930-02:35:15.630 | DM] the West Wind demands… A sacrifice.
+[u1902 | 02:35:17.970-02:35:22.530 | DM] And… and one of us… is sent.
+[u1903 | 02:35:22.880-02:35:24.190 | DM] She kind of looks up.
+[u1904 | 02:35:24.630-02:35:26.019 | DM] Through the cloud.
+[u1905 | 02:35:27.140-02:35:28.780 | DM] Into its labyrinth.
+[u1906 | 02:35:37.530-02:35:41.179 | Jrain] And after the visit, do you… well, I don't know, I can't ask questions.
+[u1907 | 02:35:43.640-02:35:44.240 | DM] Hey.
+[u1908 | 02:35:53.740-02:35:56.769 | DM] I do not know what she just… she looks like.
+[u1909 | 02:35:59.320-02:36:01.500 | DM] The sun must have risen by now.
+[u1910 | 02:36:01.950-02:36:04.739 | DM] It will be a while before the next sacrifice.
+[u1911 | 02:36:18.120-02:36:18.820 | Finnan] Hmm.
+[u1912 | 02:36:28.670-02:36:33.640 | Finnan] Finnan will… well, kind of…
+[u1913 | 02:36:33.860-02:36:36.679 | Finnan] Thoughtfully look up at the clouds.
+[u1914 | 02:36:39.050-02:36:45.689 | DM] And you can't… I mean, you can't see anything except the light from the dim… from your light. Like, you can just see the very bottom of the storm.
+[u1915 | 02:36:54.840-02:36:55.530 | DM] So…

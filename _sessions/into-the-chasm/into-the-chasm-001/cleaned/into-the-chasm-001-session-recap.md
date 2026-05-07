@@ -3,9 +3,11 @@
 ## Session Header
 
 - Title: The Fall Into Zeyfa's Labyrinth
+- Desc Title: The Labyrinth's Threshold
 - Tagline: in which the party falls inward
-- One-Sentence Summary: Swept from the Great Chasm, five adventurers and Kalima survive the ice platform and enter Zeyfa's Labyrinth because every outward path fails.
+- One-Sentence Summary: Swept from the Great Chasm, five adventurers and Kalima survive the ice platform, learn Zeyfa's Labyrinth demands sacrifices, and enter its snowy tunnels when every outward path fails.
 - Campaign: Into the Chasm
+- Scope: session
 - Session Number: 1
 - DR Date: 1730-01-25
 - Real Date: 2025-11-17
@@ -21,16 +23,16 @@
 - Resolution: part-of-day
 - Beat IDs: beat-001, beat-002, beat-003, beat-004, beat-005, beat-006, beat-007, beat-008
 - Locations: Great Chasm, unknown ice platform, Zeyfa's Labyrinth
-- NPCs: Kalima
+- NPCs: Kalima, Rala
 - Organizations: none
 - Items: Romil's token
 - Combat Beats: beat-003, beat-004, beat-005
 
 #### Short
-Ominous signs at the Great Chasm give way to a violent fall into Zeyfa's Labyrinth, where five adventurers and Kalima survive a deadly fight on a floating ice platform and find that the only route onward leads deeper into the maze.
+A white storm drops the party and Kalima into Zeyfa's Labyrinth, where they survive the ice platform and choose the snowy tunnels after learning every exit leads inward.
 
 #### Long
-Dragged from the Great Chasm by a white storm, the party wakes on a floating ice platform, fights off ice wolf guardians, wind-shades, and chasm wisps, and steadies Kalima long enough to learn where they are. Her warning about Zeyfa's Labyrinth and its false exits leaves them with a single choice: go farther in toward the beast.
+Dragged from the Great Chasm by a white storm, the party wakes on a floating ice platform, defeats ice wolf guardians, wind-shades, and chasm wisps, and steadies Kalima long enough to learn about the labyrinth's sacrifices and the beast. After a rest, failed exit tests, and Rala's scouting, they bring Kalima into the snow tunnels.
 
 ## Recap
 
@@ -40,7 +42,7 @@ Dragged from the Great Chasm by a white storm, the party wakes on a floating ice
 - Beat IDs: beat-001
 - Date: 1730-01-25
 - Time: afternoon
-- Transcript Range: u0001 -> u0182
+- Source Range: u0001 -> u0182
 - Locations: Great Chasm, unknown ice platform
 - NPCs: Kalima
 - Organizations: none
@@ -62,7 +64,7 @@ Impossible weather, mounting dread, and failed investigation make the Great Chas
 - Beat IDs: beat-002
 - Date: 1730-01-25
 - Time: afternoon
-- Transcript Range: u0183 -> u0363
+- Source Range: u0183 -> u0363
 - Locations: Zeyfa's Labyrinth
 - NPCs: Kalima
 - Organizations: none
@@ -84,7 +86,7 @@ The platform offers no safety, only a narrow pause before the next danger. As th
 - Beat IDs: beat-003, beat-004, beat-005
 - Date: 1730-01-25
 - Time: afternoon
-- Transcript Range: u0364 -> u1255
+- Source Range: u0364 -> u1255
 - Locations: Zeyfa's Labyrinth
 - NPCs: Kalima
 - Organizations: none
@@ -106,7 +108,7 @@ The ice wolf guardians establish the danger of the slick edge and close fighting
 - Beat IDs: beat-006
 - Date: 1730-01-25
 - Time: afternoon
-- Transcript Range: u1256 -> u1462
+- Source Range: u1256 -> u1462
 - Locations: Zeyfa's Labyrinth
 - NPCs: Kalima
 - Organizations: none
@@ -128,7 +130,7 @@ With the fighting over, Kalima finally gives the group a coherent account of whe
 - Beat IDs: beat-007
 - Date: 1730-01-25
 - Time: afternoon
-- Transcript Range: u1463 -> u1835
+- Source Range: u1463 -> u1915
 - Locations: Zeyfa's Labyrinth
 - NPCs: Kalima
 - Organizations: none
@@ -136,13 +138,13 @@ With the fighting over, Kalima finally gives the group a coherent account of whe
 - Enemies: none
 
 #### Short
-Once the danger eases, the party trades fuller introductions and compares what each of them knows about Kalima, Kemeko, and the missing expedition.
+The companions trade fuller introductions and learn that Kalima's people sacrifice someone into the labyrinth at sunset.
 
 #### Intermediate
-Jrain explains why she was escorting Kalima, while Ekko ties the mystery to Eidrikas and the vanished Vejo Vaikai party. Around that, the group compares views of Kemeko, the Kestavo, and the possibility that this place is not the chasm they thought they knew.
+Jrain explains why she was escorting Kalima, while Ekko ties the mystery to Eidrikas and the vanished Vejo Vaikai party. Around that, the group compares views of Kemeko, the Kestavo, fey-like readings of the West Wind, and the possibility that this place is not the chasm they thought they knew.
 
 #### Long
-Names, motives, and old connections begin to fill the silence after the battle. Each companion explains why the Great Chasm mattered before the fall, how Kalima became central to that larger trouble, and why the missing investigators are more than a distant rumor. Even so, the discussion leaves them with a deeper uncertainty, because they still cannot agree on whether the place around them is truly the chasm or something worse hidden inside it.
+Names, motives, and old connections fill the silence after the battle. Finnan frames Kalima's account against old stories of swamps, forgotten wars, and peoples who hid from disaster; Jrain explains how the missing expedition drew her to Kalima; and Ekko recognizes Eidrikas as his own mentor. The discussion ends with a harder truth from Kalima: when the sun sets and the new ones are old enough, the West Wind sends one of her people into its labyrinth as a sacrifice.
 
 ### recap-006 | Rest, Recon, and Descent
 
@@ -150,21 +152,21 @@ Names, motives, and old connections begin to fill the silence after the battle. 
 - Beat IDs: beat-008
 - Date: 1730-01-25
 - Time: afternoon
-- Transcript Range: u1836 -> u2254
+- Source Range: u1916 -> u2254
 - Locations: Zeyfa's Labyrinth
-- NPCs: Kalima
+- NPCs: Kalima, Rala
 - Organizations: none
 - Items: none
 - Enemies: none
 
 #### Short
-The group rests, tests the false exits around the platform, and commits to entering the snowy tunnels with Kalima.
+The group rests, proves the platform's false exits are traps, and starts into the snowy tunnels with Kalima.
 
 #### Intermediate
-After asking Kalima a little more about sacrifice and the beast, the party takes a short rest and studies the platform more carefully. Their experiments with the void, the bridges, and Rala's scouting all point to the same conclusion: every apparent escape only drives them toward the maze ahead.
+The party takes a short rest while Finnan tests for magic and the storm presses closer. Experiments with the void, the bridges, and Rala's scouting all point to the same conclusion: every apparent escape only drives them toward the maze ahead.
 
 #### Long
-Uncertainty hardens into decision. The party confirms that the void below cannot be escaped by flight, that the bridges do not offer a simple retreat, and that the storm above is growing more threatening rather than less. Once Rala reports branching tunnels beyond the snowbank, they bring Kalima with them and enter the labyrinth proper.
+Uncertainty hardens into decision. The party confirms that the void below cannot be escaped by flight, that the bridges do not offer a simple retreat, and that the storm above is growing more threatening rather than less. Once Rala reports a snow chamber with four branching tunnels, Justas and Finnan persuade Kalima to stay between them, and the group enters the labyrinth proper.
 
 ## Cast
 
@@ -173,18 +175,26 @@ Uncertainty hardens into decision. The party confirms that the void below cannot
 - Kalima (met): terrified Zimkovan survivor and the party's only clear guide to the maze.
   - Great Chasm -> unknown ice platform, 1730-01-25
   - Zeyfa's Labyrinth, 1730-01-25
+- Rala (companion): Jrain's bird companion, battered by the fall and sent to scout the snow chamber.
+  - Zeyfa's Labyrinth, 1730-01-25
 - Zeyfa (mentioned): cruel west wind and ruling power named over the labyrinth.
 - Eidrikas (mentioned): missing mystic and Ekko's mentor tied to the vanished expedition.
 - Pakrinek (mentioned): missing Kemeko companion named among the lost investigators.
 
 ## Locations
 
-- Great Chasm: source of the omens and the point from which the party is swept away.
-  - traveled-through on 1730-01-25
-- unknown ice platform: floating threshold where the party wakes, fights, and tests its exits.
-  - visited on 1730-01-25
-- Zeyfa's Labyrinth: hostile maze enclosing the platform, bridges, and snow-chamber descent.
-  - visited on 1730-01-25
+- Great Chasm
+  - Summary: vast chasm where the worsening omens culminate in the storm that sweeps the party away.
+  - Sublocations: storm path above the chasm
+  - Date Visited: 1730-01-25
+- unknown ice platform
+  - Summary: floating threshold where the party wakes after the fall before realizing it belongs to Zeyfa's Labyrinth.
+  - Sublocations: ice platform suspended in darkness
+  - Date Visited: 1730-01-25
+- Zeyfa's Labyrinth
+  - Summary: hostile maze of ice, wind, bridges, and snow tunnels that Kalima identifies as Zeyfa's prison.
+  - Sublocations: floating ice platform, bridge mouths, snow-chamber entrance
+  - Date Visited: 1730-01-25
 
 ## Organizations And Items
 
@@ -201,7 +211,7 @@ Uncertainty hardens into decision. The party confirms that the void below cannot
 
 ## Combat
 
-### The Ice Platform Battle
+### recap-003 | Ice Platform Battle
 
 - Beat IDs: beat-003, beat-004, beat-005
 - Enemies: ice wolf guardians, wind-shades, chasm wisps
@@ -209,7 +219,7 @@ Uncertainty hardens into decision. The party confirms that the void below cannot
 
 ## Source Files
 
-- Context JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/beat-artifacts/into-the-chasm-001-session-summary-context.json
-- Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/beat-artifacts/into-the-chasm-001-beats.json
-- Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/beat-artifacts/into-the-chasm-001-beat-facts.json
-- Cleaned Transcript: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/cleaned/into-the-chasm-001-source-cleaned.md
+- Context JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session-summary-context.json
+- Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-beats.json
+- Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-beat-facts.json
+- Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-source-cleaned.md

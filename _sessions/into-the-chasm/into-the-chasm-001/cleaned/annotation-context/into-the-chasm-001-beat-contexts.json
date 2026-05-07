@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
-  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/cleaned/into-the-chasm-001-source-cleaned.md",
-  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml",
-  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/beat-artifacts/into-the-chasm-001-beats.json",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-beats.json",
   "selectedBeatIds": [
     "beat-001",
     "beat-002",
@@ -13,6 +13,7 @@
     "beat-007",
     "beat-008"
   ],
+  "supplementalSources": [],
   "contexts": [
     {
       "beat": {
@@ -44,6 +45,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-25",
@@ -81,7 +84,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0001",
           "header": "[u0001 | 00:00:00.000-00:00:05.040 | Ekko]",
@@ -1174,7 +1177,8 @@
           "text": "Advanced…",
           "raw": "[u0182 | 00:29:53.490-00:29:55.390 | DM] Advanced…"
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -1210,6 +1214,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-25",
@@ -1247,7 +1253,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0183",
           "header": "[u0183 | 00:30:05.660-00:30:08.779 | DM]",
@@ -2334,7 +2340,8 @@
           "text": "Kind of kicking at it with a foot a little bit, and leaning down to investigate.",
           "raw": "[u0363 | 00:47:15.640-00:47:19.370 | Eolo] Kind of kicking at it with a foot a little bit, and leaning down to investigate."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -2370,6 +2377,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-25",
@@ -2407,7 +2416,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0364",
           "header": "[u0364 | 00:47:19.370-00:47:20.840 | DM]",
@@ -3968,7 +3977,8 @@
           "text": "The… the west wind, and deflect its attack.",
           "raw": "[u0623 | 01:03:37.070-01:03:41.439 | Finnan] The… the west wind, and deflect its attack."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -4004,6 +4014,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-25",
@@ -4041,7 +4053,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0624",
           "header": "[u0624 | 01:03:42.810-01:03:44.539 | DM]",
@@ -5806,7 +5818,8 @@
           "text": "So, as Ekko swings a claw up at this annoying little beast, it just… you kill it.",
           "raw": "[u0917 | 01:22:04.130-01:22:09.880 | DM] So, as Ekko swings a claw up at this annoying little beast, it just… you kill it."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -5842,6 +5855,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-25",
@@ -5879,7 +5894,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0918",
           "header": "[u0918 | 01:22:09.990-01:22:10.600 | Ekko]",
@@ -7908,7 +7923,8 @@
           "text": "Ekko kills the last thing.",
           "raw": "[u1255 | 01:42:50.810-01:42:52.600 | DM] Ekko kills the last thing."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -7944,6 +7960,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-25",
@@ -7981,7 +7999,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1256",
           "header": "[u1256 | 01:42:55.510-01:42:56.400 | DM]",
@@ -9224,26 +9242,27 @@
           "text": "despairing about her future. But again, you could probably coax a few questions out of her if you had specific questions you wanted to ask.",
           "raw": "[u1462 | 01:59:38.650-01:59:45.420 | DM] despairing about her future. But again, you could probably coax a few questions out of her if you had specific questions you wanted to ask."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
         "beatId": "beat-007",
         "title": "Stories on the Platform",
         "startUid": "u1463",
-        "endUid": "u1835",
-        "lineCount": 373,
+        "endUid": "u1915",
+        "lineCount": 453,
         "dateStart": "1730-01-25",
         "dateEnd": null,
         "timeWindow": "afternoon",
         "containsCombat": false,
-        "boundaryReason": "The focus shifts from extracting facts from Kalima to the party exchanging introductions, motives, and theories about the chasm, the Kestavo, and what sort of place they have entered.",
+        "boundaryReason": "The focus shifts from extracting facts from Kalima to the party exchanging introductions, motives, theories about the chasm, and follow-up questions about the West Wind's sacrifice.",
         "dateEvidence": [
           "the discussion is continuous with Kalima's testimony on the same day",
           "no sleep, waking, or calendar advance is indicated"
         ],
         "startIndex": 1462,
-        "endIndex": 1834
+        "endIndex": 1914
       },
       "previousBeat": {
         "beatId": "beat-006",
@@ -9260,6 +9279,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-25",
@@ -9297,7 +9318,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1463",
           "header": "[u1463 | 01:59:47.760-01:59:49.849 | Finnan]",
@@ -11535,77 +11556,7 @@
           "header": "[u1835 | 02:28:40.370-02:28:41.080 | Finnan]",
           "text": "Hmm.",
           "raw": "[u1835 | 02:28:40.370-02:28:41.080 | Finnan] Hmm."
-        }
-      ]
-    },
-    {
-      "beat": {
-        "beatId": "beat-008",
-        "title": "Rest, Recon, and Descent",
-        "startUid": "u1836",
-        "endUid": "u2254",
-        "lineCount": 419,
-        "dateStart": "1730-01-25",
-        "dateEnd": null,
-        "timeWindow": "afternoon",
-        "containsCombat": false,
-        "boundaryReason": "The party questions Kalima further, takes a short rest, tests the platform's exits, learns the drop is wind-locked, scouts the snow chamber ahead, persuades Kalima to come, and commits to entering the tunnels.",
-        "dateEvidence": [
-          "DM explicitly says the group may as well take a short rest",
-          "a short rest advances time within the same day rather than to a new date",
-          "the transcript ends before any sunset, sleep, or next-morning cue"
-        ],
-        "startIndex": 1835,
-        "endIndex": 2253
-      },
-      "previousBeat": {
-        "beatId": "beat-007",
-        "title": "Stories on the Platform",
-        "dateStart": "1730-01-25",
-        "dateEnd": null
-      },
-      "nextBeat": null,
-      "session": {
-        "title": null,
-        "campaign": "Into the Chasm",
-        "sessionNumber": 1,
-        "drStart": "1730-01-25",
-        "drEnd": "1730-01-25",
-        "realWorldDate": "2025-11-17",
-        "participants": [
-          {
-            "name": "Tim Sackton",
-            "role": null,
-            "gameRole": "Finnan"
-          },
-          {
-            "name": "Kate Sackton",
-            "role": null,
-            "gameRole": "Jrain"
-          },
-          {
-            "name": "Eric Rosenbaum",
-            "role": null,
-            "gameRole": "Eolo"
-          },
-          {
-            "name": "David Kong",
-            "role": null,
-            "gameRole": "Ekko"
-          },
-          {
-            "name": "David Schwartz",
-            "role": null,
-            "gameRole": "Justas"
-          },
-          {
-            "name": "Mike Sackton",
-            "role": null,
-            "gameRole": "DM"
-          }
-        ]
-      },
-      "transcriptLines": [
+        },
         {
           "uid": "u1836",
           "header": "[u1836 | 02:28:41.210-02:28:44.640 | Finnan]",
@@ -12085,7 +12036,80 @@
           "header": "[u1915 | 02:36:54.840-02:36:55.530 | DM]",
           "text": "So…",
           "raw": "[u1915 | 02:36:54.840-02:36:55.530 | DM] So…"
-        },
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "beat-008",
+        "title": "Rest, Recon, and Descent",
+        "startUid": "u1916",
+        "endUid": "u2254",
+        "lineCount": 339,
+        "dateStart": "1730-01-25",
+        "dateEnd": null,
+        "timeWindow": "afternoon",
+        "containsCombat": false,
+        "boundaryReason": "After the platform discussion and Kalima's sacrifice answer, the DM moves the group into a short rest; the party then tests the platform's exits, learns the drop is wind-locked, scouts the snow chamber ahead, persuades Kalima to come, and commits to entering the tunnels.",
+        "dateEvidence": [
+          "DM explicitly says the group may as well take a short rest",
+          "a short rest advances time within the same day rather than to a new date",
+          "the transcript ends before any sunset, sleep, or next-morning cue"
+        ],
+        "startIndex": 1915,
+        "endIndex": 2253
+      },
+      "previousBeat": {
+        "beatId": "beat-007",
+        "title": "Stories on the Platform",
+        "dateStart": "1730-01-25",
+        "dateEnd": null
+      },
+      "nextBeat": null,
+      "session": {
+        "title": null,
+        "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
+        "sessionNumber": 1,
+        "drStart": "1730-01-25",
+        "drEnd": "1730-01-25",
+        "realWorldDate": "2025-11-17",
+        "participants": [
+          {
+            "name": "Tim Sackton",
+            "role": null,
+            "gameRole": "Finnan"
+          },
+          {
+            "name": "Kate Sackton",
+            "role": null,
+            "gameRole": "Jrain"
+          },
+          {
+            "name": "Eric Rosenbaum",
+            "role": null,
+            "gameRole": "Eolo"
+          },
+          {
+            "name": "David Kong",
+            "role": null,
+            "gameRole": "Ekko"
+          },
+          {
+            "name": "David Schwartz",
+            "role": null,
+            "gameRole": "Justas"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
         {
           "uid": "u1916",
           "header": "[u1916 | 02:36:56.460-02:37:02.939 | DM]",
@@ -14120,7 +14144,8 @@
           "text": "Yep. No, it's fine.",
           "raw": "[u2254 | 03:00:40.950-03:00:42.090 | DM] Yep. No, it's fine."
         }
-      ]
+      ],
+      "supplementalSources": []
     }
   ]
 }

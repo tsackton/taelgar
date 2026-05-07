@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0364 | 00:47:19.370-00:47:20.840 | DM] Raw initiative.
 [u0365 | 00:47:21.240-00:47:24.020 | Ekko] No, that's… that's the fight.

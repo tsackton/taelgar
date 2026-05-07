@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/cleaned/into-the-chasm-001-source-cleaned.md",
-  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml",
   "beats": [
     {
       "beatId": "beat-001",
@@ -12,6 +12,7 @@
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "Table talk and the DM's omens-heavy prologue lead into the moment the party awakens on the ice platform.",
       "dateEvidence": [
@@ -29,6 +30,7 @@
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "The party surveys the floating ice platform, introduces themselves, and studies the storm and wolves until Eolo walks up to a guardian and triggers initiative.",
       "dateEvidence": [
@@ -45,6 +47,7 @@
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "Combat begins when Eolo approaches the wolf statue, and the first phase centers on the wolves' initial rush before the second wave of shadow-creatures fully enters the fight.",
       "dateEvidence": [
@@ -61,6 +64,7 @@
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "A new combat phase starts when a second shade arrives, the shrieking wind attack drops the Zimkovan woman, and the battlefield fills with darkness and additional threats.",
       "dateEvidence": [
@@ -77,6 +81,7 @@
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "After Ekko kills the first wisp of this phase, the remaining wolves, shades, and wisps are cleaned up in a final scramble until the platform falls quiet.",
       "dateEvidence": [
@@ -93,6 +98,7 @@
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "With the fight over, Finnan and Justas calm the woman enough to learn that this is Zeyfa's Labyrinth and to hear the first fragments of her people's history and fear.",
       "dateEvidence": [
@@ -104,13 +110,14 @@
       "beatId": "beat-007",
       "title": "Stories on the Platform",
       "startUid": "u1463",
-      "endUid": "u1835",
-      "lineCount": 373,
+      "endUid": "u1915",
+      "lineCount": 453,
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": false,
-      "boundaryReason": "The focus shifts from extracting facts from Kalima to the party exchanging introductions, motives, and theories about the chasm, the Kestavo, and what sort of place they have entered.",
+      "boundaryReason": "The focus shifts from extracting facts from Kalima to the party exchanging introductions, motives, theories about the chasm, and follow-up questions about the West Wind's sacrifice.",
       "dateEvidence": [
         "the discussion is continuous with Kalima's testimony on the same day",
         "no sleep, waking, or calendar advance is indicated"
@@ -119,14 +126,15 @@
     {
       "beatId": "beat-008",
       "title": "Rest, Recon, and Descent",
-      "startUid": "u1836",
+      "startUid": "u1916",
       "endUid": "u2254",
-      "lineCount": 419,
+      "lineCount": 339,
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": false,
-      "boundaryReason": "The party questions Kalima further, takes a short rest, tests the platform's exits, learns the drop is wind-locked, scouts the snow chamber ahead, persuades Kalima to come, and commits to entering the tunnels.",
+      "boundaryReason": "After the platform discussion and Kalima's sacrifice answer, the DM moves the group into a short rest; the party then tests the platform's exits, learns the drop is wind-locked, scouts the snow chamber ahead, persuades Kalima to come, and commits to entering the tunnels.",
       "dateEvidence": [
         "DM explicitly says the group may as well take a short rest",
         "a short rest advances time within the same day rather than to a new date",

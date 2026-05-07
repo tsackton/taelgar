@@ -1,10 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml",
-  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/beat-artifacts/into-the-chasm-001-beats.json",
-  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/beat-artifacts/into-the-chasm-001-beat-facts.json",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-beat-facts.json",
   "session": {
     "campaign": "Into the Chasm",
+    "scope": "session",
     "sessionNumber": 1,
     "realWorldDate": "2025-11-17",
     "drStart": "1730-01-25",
@@ -33,7 +34,8 @@
         "Zeyfa's Labyrinth"
       ],
       "npcRefs": [
-        "Kalima"
+        "Kalima",
+        "Rala"
       ],
       "organizationRefs": [],
       "itemRefs": [
@@ -51,8 +53,8 @@
         "The battle widens as wind-shades shriek across the platform, Kalima collapses, and the first chasm wisps burst from the shattered wolves.",
         "In darkness and drifting ice, the party revives Kalima and cleans up the last wolf, shades, and wisps on the platform.",
         "With the fight over, Kalima names Zeyfa's Labyrinth, describes her people's old flight into it, and warns that only the beast offers any hope of escape.",
-        "The party trades introductions, explains why each of them was near the chasm, and compares what they know about Kalima, Kemeko, the missing expedition, and the strange place around them.",
-        "The group questions Kalima a little further, takes a short rest, tests the platform's exits, scouts the bridge ahead, and commits to entering the tunnels with her."
+        "The party trades introductions, compares what they know about the chasm and the missing expedition, and learns that Kalima's people send sacrifices into the labyrinth at sunset.",
+        "The group takes a short rest, tests the platform's exits, scouts the bridge ahead, and commits to entering the tunnels with Kalima."
       ],
       "sourceLongSummaries": [
         "The session opens with a prologue about the Great Chasm's escalating signs and the disappearance of the Vejo Vaikai investigation party sent with Kemeko warriors. The beat then shifts into the fall itself, as the adventurers are torn through a blinding white storm and forced to decide what belongings they can hold onto before landing somewhere unknown.",
@@ -61,8 +63,371 @@
         "The fight escalates when multiple wind-shades blow in from off the platform, battering the party with shrieking gusts while one of the remaining wolves keeps pressure on the front line. Kalima is dropped unconscious in the chaos, darkness begins to matter more, and the first chasm wisps appear as the wolves break apart.",
         "The final phase of the combat is a running cleanup under bad visibility, with Finnan healing Kalima back onto her feet while the others finish off the last wolf, hunt the shades, and swat down the remaining wisps. The platform finally falls quiet after the last enemies are destroyed and the immediate danger passes.",
         "Finnan and Justas use the brief calm after the battle to draw a fuller account from the woman, who says they are back in Zeyfa's Labyrinth and that her people came here long ago to hide from a cataclysm. She insists that no one escapes, that the only way out is further in toward the beast, and that ordinary prayers do not carry here, though Justas steadies her with Romil's token and its light.",
-        "Once Kalima is a little calmer, the conversation turns outward as the companions finally introduce themselves properly and lay out their reasons for being near the Great Chasm. Jrain explains the missing expedition she was tracking, Ekko connects himself to Eidrikas and the Vejo Vaikai, and the group compares what it knows about Kemeko, the Kestavo, and whether this place is truly the chasm at all.",
-        "The party spends a little more time asking Kalima about sacrifice and the beast, then settles into a short rest while Finnan checks for magic and the storm above grows more threatening. They probe both the bridges and the void below, learn that the updraft makes flying down impossible, send Rala to scout the far side, and finally persuade Kalima to come between Finnan and Justas as they jump into the snowbank and choose the maze's tunnels."
+        "Once Kalima is a little calmer, Finnan turns to the others, introduces himself properly, and frames her story against old tales of swamps, forgotten wars, and peoples who hid from disaster. Jrain explains the missing Vejo Vaikai expedition she was tracking, Ekko connects Eidrikas to his own past, and the group compares what it knows about Kemeko, the Kestavo, fey-like interpretations of the West Wind, and whether this place is truly the chasm. Finnan then coaxes one more answer from Kalima: when the sun sets and the new ones are old enough, the West Wind demands one of her people as a sacrifice into its labyrinth.",
+        "The party settles into a short rest while Finnan checks for magic and the storm above grows more threatening. They probe both bridges and the void below, learn that the updraft makes flying down impossible, and get Kalima's warning that all paths lead to the beast and that the maze takes travelers where it wants. After Rala scouts a snow chamber with four narrow tunnels and no obvious creatures, Justas and Finnan persuade Kalima to come between them as the group prepares to jump down into the snowbank and enter the maze."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Portents and the Fall",
+          "boundaryReason": "Table talk and the DM's omens-heavy prologue lead into the moment the party awakens on the ice platform.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0182"
+          },
+          "shortSummary": "Omens worsen around the Great Chasm, the first investigators vanish, and the party is swept through a white storm while clutching what gear they can keep.",
+          "longSummary": "The session opens with a prologue about the Great Chasm's escalating signs and the disappearance of the Vejo Vaikai investigation party sent with Kemeko warriors. The beat then shifts into the fall itself, as the adventurers are torn through a blinding white storm and forced to decide what belongings they can hold onto before landing somewhere unknown.",
+          "locationHints": {
+            "refs": [
+              "Great Chasm",
+              "unknown ice platform"
+            ],
+            "context": "swept by unnatural storm into darkness below",
+            "notes": "The beat covers the omens over the chasm and the fall before the party awakens on the platform."
+          },
+          "npcDetails": [
+            {
+              "name": "Zeyfa",
+              "role": "mentioned",
+              "context": "cruel west wind of Zimkovan legend",
+              "notes": "Many people interpret the worsening omens around the chasm as signs of Zeyfa's anger."
+            },
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "terrified Zimkovan woman caught in the fall",
+              "notes": "Jrain tries to hold onto the woman as the storm carries everyone away."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Kemeko Monastery",
+              "role": "mentioned",
+              "notes": "Its kenku are described as seeing the chasm as refuge and sending warriors with the investigation."
+            },
+            {
+              "name": "Vejo Vaikai",
+              "role": "mentioned",
+              "notes": "Their mystics view the chasm as a place of elemental balance and send the missing expedition."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-002",
+          "title": "Strangers on the Ice",
+          "boundaryReason": "The party surveys the floating ice platform, introduces themselves, and studies the storm and wolves until Eolo walks up to a guardian and triggers initiative.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0183",
+            "endUid": "u0363"
+          },
+          "shortSummary": "The party awakens on a floating ice platform, meets one another, and begins questioning the terrified woman before Eolo triggers the guardians.",
+          "longSummary": "The adventurers come to on an ice platform suspended in blackness beneath a howling white storm, with two frozen wolf figures guarding narrow bridges. They introduce themselves, get their first look at the terrified Zimkovan woman, and realize the place feels wrong even to Ekko, who knows the chasm well; the beat ends when Eolo approaches one of the wolves and sets the fight in motion.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "floating ice platform between two bridges",
+            "notes": "The name is not learned until later, but this is the same platform Kalima later identifies as part of the labyrinth."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "terrified Zimkovan woman",
+              "notes": "Finnan calms her briefly with Old Zimkovan magic, but she remains frightened and hard to question."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-003",
+          "title": "Ice Wolves Awaken",
+          "boundaryReason": "Combat begins when Eolo approaches the wolf statue, and the first phase centers on the wolves' initial rush before the second wave of shadow-creatures fully enters the fight.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0364",
+            "endUid": "u0623"
+          },
+          "shortSummary": "Eolo wakes the frozen wolf guardians, and the party scrambles into its first desperate exchange on the slick platform.",
+          "longSummary": "Combat begins when Eolo approaches the nearest wolf and both frozen guardians come to life. The first phase centers on the wolves' violent opening rush, Eolo being knocked down and mauled, and the party finding its footing as Ekko takes bear form and the others begin to coordinate under pressure.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "ice platform at the bridge mouths",
+            "notes": "The opening exchange of the fight stays on the same exposed platform."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "terrified bystander",
+              "notes": "She remains on the platform while the fight erupts around her."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "start",
+            "mainEnemies": [
+              {
+                "name": "ice wolf guardians",
+                "notes": "Two frozen wolf guardians animate and launch the encounter."
+              }
+            ],
+            "notes": "The beat covers the wolves' opening assault and ends as the first wind-shade joins the battle."
+          }
+        },
+        {
+          "beatId": "beat-004",
+          "title": "Shades in the Wind",
+          "boundaryReason": "A new combat phase starts when a second shade arrives, the shrieking wind attack drops the Zimkovan woman, and the battlefield fills with darkness and additional threats.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0624",
+            "endUid": "u0917"
+          },
+          "shortSummary": "The battle widens as wind-shades shriek across the platform, Kalima collapses, and the first chasm wisps burst from the shattered wolves.",
+          "longSummary": "The fight escalates when multiple wind-shades blow in from off the platform, battering the party with shrieking gusts while one of the remaining wolves keeps pressure on the front line. Kalima is dropped unconscious in the chaos, darkness begins to matter more, and the first chasm wisps appear as the wolves break apart.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "same floating platform amid blowing darkness",
+            "notes": "This phase remains centered on the platform as new enemies enter from the surrounding void."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "wounded bystander",
+              "notes": "She collapses unconscious when the shades' shriek tears through the platform."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "wind-shades",
+                "notes": "They gust in from beyond the platform and become the new central threat."
+              },
+              {
+                "name": "ice wolf guardians",
+                "notes": "At least one wolf remains active through this phase."
+              },
+              {
+                "name": "chasm wisps",
+                "notes": "The first wisps emerge from the broken wolves near the end of the beat."
+              }
+            ],
+            "notes": "The middle phase is defined by the shades' arrival, Kalima going down, and the fight becoming more chaotic and light-starved."
+          }
+        },
+        {
+          "beatId": "beat-005",
+          "title": "Darkness and Final Blows",
+          "boundaryReason": "After Ekko kills the first wisp of this phase, the remaining wolves, shades, and wisps are cleaned up in a final scramble until the platform falls quiet.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0918",
+            "endUid": "u1255"
+          },
+          "shortSummary": "In darkness and drifting ice, the party revives Kalima and cleans up the last wolf, shades, and wisps on the platform.",
+          "longSummary": "The final phase of the combat is a running cleanup under bad visibility, with Finnan healing Kalima back onto her feet while the others finish off the last wolf, hunt the shades, and swat down the remaining wisps. The platform finally falls quiet after the last enemies are destroyed and the immediate danger passes.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "darkened ice platform after the wolves shatter",
+            "notes": "The fight never leaves the platform, even as the action spreads toward its edges."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "wounded survivor",
+              "notes": "Finnan uses healing magic to bring her back during the last stretch of the battle."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "end",
+            "mainEnemies": [
+              {
+                "name": "ice wolf guardians",
+                "notes": "The last active wolf is finished during this beat."
+              },
+              {
+                "name": "wind-shades",
+                "notes": "The remaining shades try to push Finnan over the edge before being cut down."
+              },
+              {
+                "name": "chasm wisps",
+                "notes": "The last wisps are picked off as the combat winds down."
+              }
+            ],
+            "notes": "This beat covers the close of the encounter and the platform becoming temporarily safe again."
+          }
+        },
+        {
+          "beatId": "beat-006",
+          "title": "Kalima Names the Labyrinth",
+          "boundaryReason": "With the fight over, Finnan and Justas calm the woman enough to learn that this is Zeyfa's Labyrinth and to hear the first fragments of her people's history and fear.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1256",
+            "endUid": "u1462"
+          },
+          "shortSummary": "With the fight over, Kalima names Zeyfa's Labyrinth, describes her people's old flight into it, and warns that only the beast offers any hope of escape.",
+          "longSummary": "Finnan and Justas use the brief calm after the battle to draw a fuller account from the woman, who says they are back in Zeyfa's Labyrinth and that her people came here long ago to hide from a cataclysm. She insists that no one escapes, that the only way out is further in toward the beast, and that ordinary prayers do not carry here, though Justas steadies her with Romil's token and its light.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "ice platform after the battle",
+            "notes": "The group remains on the platform while Kalima gives her first coherent explanation of the place."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "first coherent witness",
+              "notes": "She explains that they are back in the labyrinth and that the beast is tied to any chance of escape."
+            },
+            {
+              "name": "Zeyfa",
+              "role": "mentioned",
+              "context": "cruel west wind",
+              "notes": "Kalima identifies the labyrinth as Zeyfa's domain and frames it as a place of demanded appeasement."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Romil's token",
+              "role": "encountered",
+              "notes": "Justas places a glacial token of Romil in Kalima's hands and later makes it glow to reassure her."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Kestavo",
+              "role": "mentioned",
+              "notes": "Kalima insists the Kestavo cannot hear prayers here, while Justas argues their reach is not wholly absent."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-007",
+          "title": "Stories on the Platform",
+          "boundaryReason": "The focus shifts from extracting facts from Kalima to the party exchanging introductions, motives, theories about the chasm, and follow-up questions about the West Wind's sacrifice.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1463",
+            "endUid": "u1915"
+          },
+          "shortSummary": "The party trades introductions, compares what they know about the chasm and the missing expedition, and learns that Kalima's people send sacrifices into the labyrinth at sunset.",
+          "longSummary": "Once Kalima is a little calmer, Finnan turns to the others, introduces himself properly, and frames her story against old tales of swamps, forgotten wars, and peoples who hid from disaster. Jrain explains the missing Vejo Vaikai expedition she was tracking, Ekko connects Eidrikas to his own past, and the group compares what it knows about Kemeko, the Kestavo, fey-like interpretations of the West Wind, and whether this place is truly the chasm. Finnan then coaxes one more answer from Kalima: when the sun sets and the new ones are old enough, the West Wind demands one of her people as a sacrifice into its labyrinth.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "same platform during a long conversation",
+            "notes": "The group stays on the platform while turning from Kalima's testimony to their own stories and theories."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "huddled witness",
+              "notes": "She remains nearby while the party explains what they have learned and who they are."
+            },
+            {
+              "name": "Eidrikas",
+              "role": "mentioned",
+              "context": "missing mystic and Ekko's mentor",
+              "notes": "Jrain identifies him as part of the vanished investigation party."
+            },
+            {
+              "name": "Pakrinek",
+              "role": "mentioned",
+              "context": "missing Kemeko companion",
+              "notes": "Jrain names Pakrinek as one of the investigators who disappeared with Eidrikas."
+            },
+            {
+              "name": "Zeyfa",
+              "role": "mentioned",
+              "context": "West Wind demanding sacrifice",
+              "notes": "Kalima describes the West Wind as demanding that one of her people be sent into its labyrinth."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Vejo Vaikai",
+              "role": "mentioned",
+              "notes": "Their missing expedition becomes a central reason for Jrain's and Ekko's concern."
+            },
+            {
+              "name": "Kemeko Monastery",
+              "role": "mentioned",
+              "notes": "The party compares its public reputation with Ekko's account of it as a disciplined kenku stronghold."
+            },
+            {
+              "name": "Kestavo",
+              "role": "mentioned",
+              "notes": "Justas and Ekko discuss the local small-gods tradition and its relation to Zeyfa and the chasm."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-008",
+          "title": "Rest, Recon, and Descent",
+          "boundaryReason": "After the platform discussion and Kalima's sacrifice answer, the DM moves the group into a short rest; the party then tests the platform's exits, learns the drop is wind-locked, scouts the snow chamber ahead, persuades Kalima to come, and commits to entering the tunnels.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1916",
+            "endUid": "u2254"
+          },
+          "shortSummary": "The group takes a short rest, tests the platform's exits, scouts the bridge ahead, and commits to entering the tunnels with Kalima.",
+          "longSummary": "The party settles into a short rest while Finnan checks for magic and the storm above grows more threatening. They probe both bridges and the void below, learn that the updraft makes flying down impossible, and get Kalima's warning that all paths lead to the beast and that the maze takes travelers where it wants. After Rala scouts a snow chamber with four narrow tunnels and no obvious creatures, Justas and Finnan persuade Kalima to come between them as the group prepares to jump down into the snowbank and enter the maze.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "ice platform, bridge ends, and snow-chamber entrance",
+            "notes": "The beat begins on the platform and ends with the party committing to the first chamber of the labyrinth."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "reluctant guide",
+              "notes": "She warns that the beast does not like waiting, says all paths lead toward it, gives her name, and agrees to come only if kept between Finnan and Justas."
+            },
+            {
+              "name": "Rala",
+              "role": "companion",
+              "context": "Jrain's bird companion",
+              "notes": "She survives the fall, recovers during the short rest, and scouts the snow chamber ahead."
+            }
+          ]
+        }
       ]
     }
   ],
@@ -74,11 +439,11 @@
       "beatIds": [
         "beat-001"
       ],
-      "transcriptRange": {
+      "sourceRange": {
         "startUid": "u0001",
         "endUid": "u0182"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
           "startUid": "u0001",
           "endUid": "u0182"
@@ -103,6 +468,56 @@
       ],
       "sourceLongSummaries": [
         "The session opens with a prologue about the Great Chasm's escalating signs and the disappearance of the Vejo Vaikai investigation party sent with Kemeko warriors. The beat then shifts into the fall itself, as the adventurers are torn through a blinding white storm and forced to decide what belongings they can hold onto before landing somewhere unknown."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Portents and the Fall",
+          "boundaryReason": "Table talk and the DM's omens-heavy prologue lead into the moment the party awakens on the ice platform.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0182"
+          },
+          "shortSummary": "Omens worsen around the Great Chasm, the first investigators vanish, and the party is swept through a white storm while clutching what gear they can keep.",
+          "longSummary": "The session opens with a prologue about the Great Chasm's escalating signs and the disappearance of the Vejo Vaikai investigation party sent with Kemeko warriors. The beat then shifts into the fall itself, as the adventurers are torn through a blinding white storm and forced to decide what belongings they can hold onto before landing somewhere unknown.",
+          "locationHints": {
+            "refs": [
+              "Great Chasm",
+              "unknown ice platform"
+            ],
+            "context": "swept by unnatural storm into darkness below",
+            "notes": "The beat covers the omens over the chasm and the fall before the party awakens on the platform."
+          },
+          "npcDetails": [
+            {
+              "name": "Zeyfa",
+              "role": "mentioned",
+              "context": "cruel west wind of Zimkovan legend",
+              "notes": "Many people interpret the worsening omens around the chasm as signs of Zeyfa's anger."
+            },
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "terrified Zimkovan woman caught in the fall",
+              "notes": "Jrain tries to hold onto the woman as the storm carries everyone away."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Kemeko Monastery",
+              "role": "mentioned",
+              "notes": "Its kenku are described as seeing the chasm as refuge and sending warriors with the investigation."
+            },
+            {
+              "name": "Vejo Vaikai",
+              "role": "mentioned",
+              "notes": "Their mystics view the chasm as a place of elemental balance and send the missing expedition."
+            }
+          ]
+        }
       ]
     },
     {
@@ -112,11 +527,11 @@
       "beatIds": [
         "beat-002"
       ],
-      "transcriptRange": {
+      "sourceRange": {
         "startUid": "u0183",
         "endUid": "u0363"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
           "startUid": "u0183",
           "endUid": "u0363"
@@ -140,6 +555,37 @@
       ],
       "sourceLongSummaries": [
         "The adventurers come to on an ice platform suspended in blackness beneath a howling white storm, with two frozen wolf figures guarding narrow bridges. They introduce themselves, get their first look at the terrified Zimkovan woman, and realize the place feels wrong even to Ekko, who knows the chasm well; the beat ends when Eolo approaches one of the wolves and sets the fight in motion."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-002",
+          "title": "Strangers on the Ice",
+          "boundaryReason": "The party surveys the floating ice platform, introduces themselves, and studies the storm and wolves until Eolo walks up to a guardian and triggers initiative.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0183",
+            "endUid": "u0363"
+          },
+          "shortSummary": "The party awakens on a floating ice platform, meets one another, and begins questioning the terrified woman before Eolo triggers the guardians.",
+          "longSummary": "The adventurers come to on an ice platform suspended in blackness beneath a howling white storm, with two frozen wolf figures guarding narrow bridges. They introduce themselves, get their first look at the terrified Zimkovan woman, and realize the place feels wrong even to Ekko, who knows the chasm well; the beat ends when Eolo approaches one of the wolves and sets the fight in motion.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "floating ice platform between two bridges",
+            "notes": "The name is not learned until later, but this is the same platform Kalima later identifies as part of the labyrinth."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "terrified Zimkovan woman",
+              "notes": "Finnan calms her briefly with Old Zimkovan magic, but she remains frightened and hard to question."
+            }
+          ]
+        }
       ]
     },
     {
@@ -151,11 +597,11 @@
         "beat-004",
         "beat-005"
       ],
-      "transcriptRange": {
+      "sourceRange": {
         "startUid": "u0364",
         "endUid": "u1255"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
           "startUid": "u0364",
           "endUid": "u0623"
@@ -195,6 +641,144 @@
         "Combat begins when Eolo approaches the nearest wolf and both frozen guardians come to life. The first phase centers on the wolves' violent opening rush, Eolo being knocked down and mauled, and the party finding its footing as Ekko takes bear form and the others begin to coordinate under pressure.",
         "The fight escalates when multiple wind-shades blow in from off the platform, battering the party with shrieking gusts while one of the remaining wolves keeps pressure on the front line. Kalima is dropped unconscious in the chaos, darkness begins to matter more, and the first chasm wisps appear as the wolves break apart.",
         "The final phase of the combat is a running cleanup under bad visibility, with Finnan healing Kalima back onto her feet while the others finish off the last wolf, hunt the shades, and swat down the remaining wisps. The platform finally falls quiet after the last enemies are destroyed and the immediate danger passes."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-003",
+          "title": "Ice Wolves Awaken",
+          "boundaryReason": "Combat begins when Eolo approaches the wolf statue, and the first phase centers on the wolves' initial rush before the second wave of shadow-creatures fully enters the fight.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0364",
+            "endUid": "u0623"
+          },
+          "shortSummary": "Eolo wakes the frozen wolf guardians, and the party scrambles into its first desperate exchange on the slick platform.",
+          "longSummary": "Combat begins when Eolo approaches the nearest wolf and both frozen guardians come to life. The first phase centers on the wolves' violent opening rush, Eolo being knocked down and mauled, and the party finding its footing as Ekko takes bear form and the others begin to coordinate under pressure.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "ice platform at the bridge mouths",
+            "notes": "The opening exchange of the fight stays on the same exposed platform."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "terrified bystander",
+              "notes": "She remains on the platform while the fight erupts around her."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "start",
+            "mainEnemies": [
+              {
+                "name": "ice wolf guardians",
+                "notes": "Two frozen wolf guardians animate and launch the encounter."
+              }
+            ],
+            "notes": "The beat covers the wolves' opening assault and ends as the first wind-shade joins the battle."
+          }
+        },
+        {
+          "beatId": "beat-004",
+          "title": "Shades in the Wind",
+          "boundaryReason": "A new combat phase starts when a second shade arrives, the shrieking wind attack drops the Zimkovan woman, and the battlefield fills with darkness and additional threats.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0624",
+            "endUid": "u0917"
+          },
+          "shortSummary": "The battle widens as wind-shades shriek across the platform, Kalima collapses, and the first chasm wisps burst from the shattered wolves.",
+          "longSummary": "The fight escalates when multiple wind-shades blow in from off the platform, battering the party with shrieking gusts while one of the remaining wolves keeps pressure on the front line. Kalima is dropped unconscious in the chaos, darkness begins to matter more, and the first chasm wisps appear as the wolves break apart.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "same floating platform amid blowing darkness",
+            "notes": "This phase remains centered on the platform as new enemies enter from the surrounding void."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "wounded bystander",
+              "notes": "She collapses unconscious when the shades' shriek tears through the platform."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "wind-shades",
+                "notes": "They gust in from beyond the platform and become the new central threat."
+              },
+              {
+                "name": "ice wolf guardians",
+                "notes": "At least one wolf remains active through this phase."
+              },
+              {
+                "name": "chasm wisps",
+                "notes": "The first wisps emerge from the broken wolves near the end of the beat."
+              }
+            ],
+            "notes": "The middle phase is defined by the shades' arrival, Kalima going down, and the fight becoming more chaotic and light-starved."
+          }
+        },
+        {
+          "beatId": "beat-005",
+          "title": "Darkness and Final Blows",
+          "boundaryReason": "After Ekko kills the first wisp of this phase, the remaining wolves, shades, and wisps are cleaned up in a final scramble until the platform falls quiet.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0918",
+            "endUid": "u1255"
+          },
+          "shortSummary": "In darkness and drifting ice, the party revives Kalima and cleans up the last wolf, shades, and wisps on the platform.",
+          "longSummary": "The final phase of the combat is a running cleanup under bad visibility, with Finnan healing Kalima back onto her feet while the others finish off the last wolf, hunt the shades, and swat down the remaining wisps. The platform finally falls quiet after the last enemies are destroyed and the immediate danger passes.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "darkened ice platform after the wolves shatter",
+            "notes": "The fight never leaves the platform, even as the action spreads toward its edges."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "wounded survivor",
+              "notes": "Finnan uses healing magic to bring her back during the last stretch of the battle."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "end",
+            "mainEnemies": [
+              {
+                "name": "ice wolf guardians",
+                "notes": "The last active wolf is finished during this beat."
+              },
+              {
+                "name": "wind-shades",
+                "notes": "The remaining shades try to push Finnan over the edge before being cut down."
+              },
+              {
+                "name": "chasm wisps",
+                "notes": "The last wisps are picked off as the combat winds down."
+              }
+            ],
+            "notes": "This beat covers the close of the encounter and the platform becoming temporarily safe again."
+          }
+        }
       ]
     },
     {
@@ -204,11 +788,11 @@
       "beatIds": [
         "beat-006"
       ],
-      "transcriptRange": {
+      "sourceRange": {
         "startUid": "u1256",
         "endUid": "u1462"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
           "startUid": "u1256",
           "endUid": "u1462"
@@ -234,6 +818,57 @@
       ],
       "sourceLongSummaries": [
         "Finnan and Justas use the brief calm after the battle to draw a fuller account from the woman, who says they are back in Zeyfa's Labyrinth and that her people came here long ago to hide from a cataclysm. She insists that no one escapes, that the only way out is further in toward the beast, and that ordinary prayers do not carry here, though Justas steadies her with Romil's token and its light."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-006",
+          "title": "Kalima Names the Labyrinth",
+          "boundaryReason": "With the fight over, Finnan and Justas calm the woman enough to learn that this is Zeyfa's Labyrinth and to hear the first fragments of her people's history and fear.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1256",
+            "endUid": "u1462"
+          },
+          "shortSummary": "With the fight over, Kalima names Zeyfa's Labyrinth, describes her people's old flight into it, and warns that only the beast offers any hope of escape.",
+          "longSummary": "Finnan and Justas use the brief calm after the battle to draw a fuller account from the woman, who says they are back in Zeyfa's Labyrinth and that her people came here long ago to hide from a cataclysm. She insists that no one escapes, that the only way out is further in toward the beast, and that ordinary prayers do not carry here, though Justas steadies her with Romil's token and its light.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "ice platform after the battle",
+            "notes": "The group remains on the platform while Kalima gives her first coherent explanation of the place."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "first coherent witness",
+              "notes": "She explains that they are back in the labyrinth and that the beast is tied to any chance of escape."
+            },
+            {
+              "name": "Zeyfa",
+              "role": "mentioned",
+              "context": "cruel west wind",
+              "notes": "Kalima identifies the labyrinth as Zeyfa's domain and frames it as a place of demanded appeasement."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Romil's token",
+              "role": "encountered",
+              "notes": "Justas places a glacial token of Romil in Kalima's hands and later makes it glow to reassure her."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Kestavo",
+              "role": "mentioned",
+              "notes": "Kalima insists the Kestavo cannot hear prayers here, while Justas argues their reach is not wholly absent."
+            }
+          ]
+        }
       ]
     },
     {
@@ -243,14 +878,14 @@
       "beatIds": [
         "beat-007"
       ],
-      "transcriptRange": {
+      "sourceRange": {
         "startUid": "u1463",
-        "endUid": "u1835"
+        "endUid": "u1915"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
           "startUid": "u1463",
-          "endUid": "u1835"
+          "endUid": "u1915"
         }
       ],
       "dateStart": "1730-01-25",
@@ -267,10 +902,76 @@
       "itemRefs": [],
       "combatEnemyRefs": [],
       "sourceShortSummaries": [
-        "The party trades introductions, explains why each of them was near the chasm, and compares what they know about Kalima, Kemeko, the missing expedition, and the strange place around them."
+        "The party trades introductions, compares what they know about the chasm and the missing expedition, and learns that Kalima's people send sacrifices into the labyrinth at sunset."
       ],
       "sourceLongSummaries": [
-        "Once Kalima is a little calmer, the conversation turns outward as the companions finally introduce themselves properly and lay out their reasons for being near the Great Chasm. Jrain explains the missing expedition she was tracking, Ekko connects himself to Eidrikas and the Vejo Vaikai, and the group compares what it knows about Kemeko, the Kestavo, and whether this place is truly the chasm at all."
+        "Once Kalima is a little calmer, Finnan turns to the others, introduces himself properly, and frames her story against old tales of swamps, forgotten wars, and peoples who hid from disaster. Jrain explains the missing Vejo Vaikai expedition she was tracking, Ekko connects Eidrikas to his own past, and the group compares what it knows about Kemeko, the Kestavo, fey-like interpretations of the West Wind, and whether this place is truly the chasm. Finnan then coaxes one more answer from Kalima: when the sun sets and the new ones are old enough, the West Wind demands one of her people as a sacrifice into its labyrinth."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-007",
+          "title": "Stories on the Platform",
+          "boundaryReason": "The focus shifts from extracting facts from Kalima to the party exchanging introductions, motives, theories about the chasm, and follow-up questions about the West Wind's sacrifice.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1463",
+            "endUid": "u1915"
+          },
+          "shortSummary": "The party trades introductions, compares what they know about the chasm and the missing expedition, and learns that Kalima's people send sacrifices into the labyrinth at sunset.",
+          "longSummary": "Once Kalima is a little calmer, Finnan turns to the others, introduces himself properly, and frames her story against old tales of swamps, forgotten wars, and peoples who hid from disaster. Jrain explains the missing Vejo Vaikai expedition she was tracking, Ekko connects Eidrikas to his own past, and the group compares what it knows about Kemeko, the Kestavo, fey-like interpretations of the West Wind, and whether this place is truly the chasm. Finnan then coaxes one more answer from Kalima: when the sun sets and the new ones are old enough, the West Wind demands one of her people as a sacrifice into its labyrinth.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "same platform during a long conversation",
+            "notes": "The group stays on the platform while turning from Kalima's testimony to their own stories and theories."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "huddled witness",
+              "notes": "She remains nearby while the party explains what they have learned and who they are."
+            },
+            {
+              "name": "Eidrikas",
+              "role": "mentioned",
+              "context": "missing mystic and Ekko's mentor",
+              "notes": "Jrain identifies him as part of the vanished investigation party."
+            },
+            {
+              "name": "Pakrinek",
+              "role": "mentioned",
+              "context": "missing Kemeko companion",
+              "notes": "Jrain names Pakrinek as one of the investigators who disappeared with Eidrikas."
+            },
+            {
+              "name": "Zeyfa",
+              "role": "mentioned",
+              "context": "West Wind demanding sacrifice",
+              "notes": "Kalima describes the West Wind as demanding that one of her people be sent into its labyrinth."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Vejo Vaikai",
+              "role": "mentioned",
+              "notes": "Their missing expedition becomes a central reason for Jrain's and Ekko's concern."
+            },
+            {
+              "name": "Kemeko Monastery",
+              "role": "mentioned",
+              "notes": "The party compares its public reputation with Ekko's account of it as a disciplined kenku stronghold."
+            },
+            {
+              "name": "Kestavo",
+              "role": "mentioned",
+              "notes": "Justas and Ekko discuss the local small-gods tradition and its relation to Zeyfa and the chasm."
+            }
+          ]
+        }
       ]
     },
     {
@@ -280,13 +981,13 @@
       "beatIds": [
         "beat-008"
       ],
-      "transcriptRange": {
-        "startUid": "u1836",
+      "sourceRange": {
+        "startUid": "u1916",
         "endUid": "u2254"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
-          "startUid": "u1836",
+          "startUid": "u1916",
           "endUid": "u2254"
         }
       ],
@@ -298,16 +999,54 @@
         "Zeyfa's Labyrinth"
       ],
       "npcRefs": [
-        "Kalima"
+        "Kalima",
+        "Rala"
       ],
       "organizationRefs": [],
       "itemRefs": [],
       "combatEnemyRefs": [],
       "sourceShortSummaries": [
-        "The group questions Kalima a little further, takes a short rest, tests the platform's exits, scouts the bridge ahead, and commits to entering the tunnels with her."
+        "The group takes a short rest, tests the platform's exits, scouts the bridge ahead, and commits to entering the tunnels with Kalima."
       ],
       "sourceLongSummaries": [
-        "The party spends a little more time asking Kalima about sacrifice and the beast, then settles into a short rest while Finnan checks for magic and the storm above grows more threatening. They probe both the bridges and the void below, learn that the updraft makes flying down impossible, send Rala to scout the far side, and finally persuade Kalima to come between Finnan and Justas as they jump into the snowbank and choose the maze's tunnels."
+        "The party settles into a short rest while Finnan checks for magic and the storm above grows more threatening. They probe both bridges and the void below, learn that the updraft makes flying down impossible, and get Kalima's warning that all paths lead to the beast and that the maze takes travelers where it wants. After Rala scouts a snow chamber with four narrow tunnels and no obvious creatures, Justas and Finnan persuade Kalima to come between them as the group prepares to jump down into the snowbank and enter the maze."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-008",
+          "title": "Rest, Recon, and Descent",
+          "boundaryReason": "After the platform discussion and Kalima's sacrifice answer, the DM moves the group into a short rest; the party then tests the platform's exits, learns the drop is wind-locked, scouts the snow chamber ahead, persuades Kalima to come, and commits to entering the tunnels.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1916",
+            "endUid": "u2254"
+          },
+          "shortSummary": "The group takes a short rest, tests the platform's exits, scouts the bridge ahead, and commits to entering the tunnels with Kalima.",
+          "longSummary": "The party settles into a short rest while Finnan checks for magic and the storm above grows more threatening. They probe both bridges and the void below, learn that the updraft makes flying down impossible, and get Kalima's warning that all paths lead to the beast and that the maze takes travelers where it wants. After Rala scouts a snow chamber with four narrow tunnels and no obvious creatures, Justas and Finnan persuade Kalima to come between them as the group prepares to jump down into the snowbank and enter the maze.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "ice platform, bridge ends, and snow-chamber entrance",
+            "notes": "The beat begins on the platform and ends with the party committing to the first chamber of the labyrinth."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "reluctant guide",
+              "notes": "She warns that the beast does not like waiting, says all paths lead toward it, gives her name, and agrees to come only if kept between Finnan and Justas."
+            },
+            {
+              "name": "Rala",
+              "role": "companion",
+              "context": "Jrain's bird companion",
+              "notes": "She survives the fall, recovers during the short rest, and scouts the snow chamber ahead."
+            }
+          ]
+        }
       ]
     }
   ],
@@ -327,6 +1066,15 @@
         ],
         "relationKinds": [
           "met"
+        ]
+      },
+      {
+        "name": "Rala",
+        "beatIds": [
+          "beat-008"
+        ],
+        "relationKinds": [
+          "companion"
         ]
       }
     ],
@@ -408,6 +1156,23 @@
               "dateStart": "1730-01-25",
               "dateEnd": null
             },
+            {
+              "location": "Zeyfa's Labyrinth",
+              "dateStart": "1730-01-25",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Rala",
+          "relationKinds": [
+            "companion"
+          ],
+          "contextHint": "Jrain's bird companion",
+          "beatIds": [
+            "beat-008"
+          ],
+          "history": [
             {
               "location": "Zeyfa's Labyrinth",
               "dateStart": "1730-01-25",

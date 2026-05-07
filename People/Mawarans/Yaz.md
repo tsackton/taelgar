@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
+tags: [person]
 campaignInfo: 
 - {campaign: dufr, person: Delwath, date: 1749-02-05, type: scryed}
 name: Yaz
@@ -8,8 +8,8 @@ species: human
 ancestry: Mawaran
 gender: male
 whereabouts: Hamri
-dm_owner: tim
-dm_notes: important
+dm_owner: none
+dm_notes: none
 ---
 # Yaz
 >[!info]+ Biographical Info  
@@ -17,52 +17,14 @@ dm_notes: important
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Scryed by [[Delwath]] on February 5th, 1749 in [[Hamri]], the [[Mawar Confederacy]] %%^End%%
 
-An old man, with shortish white hair pulled back in a pony tail. Lives alone in the Towers, in an isolated watchtower. Knowledgeable about the lore and mysteries of the western ocean.
+![[yaz-mawar.png|right|300]]Yaz is an elderly Mawaran ocean watcher who lives alone in an isolated tower above [[Hamri]]. He has short white hair pulled back in a ponytail and is known for his intense attention to the moods, mysteries, and old lore of the western ocean.
 
-![[yaz-onenote.jpeg]]
+Yaz preserves fragments of lore about the [[Sentient Ocean]] and its many names. The names he knows include [[Sentient Ocean|Yi'weti]], the old mages' name for living ocean water; Ur Biyiak, used by lizardfolk sages for the living spirit of water heard in dreams; Wanui Teora, used by the great beasts of the deep and tied to the ocean's songs; and Ma'haya Kabir, associated with [[Guzo the Mariner]], the ancestor of voyages and the western horizon. Like many of the older generation of ocean watchers, Yaz believes that beasts who spend time in the waters of the [[Sentient Ocean]] may awaken to consciousness.
 
-%% One Note
+%%^Campaign:MC%%
+During the investigation into [[Azar the Lost|Azar]], [[Ryu]] and [[Trok]] spoke with Yaz after dark about the living ocean and the Splinters, and his lore helped the party understand the stolen water at the heart of the murders. In DR 1749, when [[Rayna]] brought a vision of a lost ocean song to [[Hamri]], Yaz recognized [[Trok|Trok's]] sketch as an old [[Shrine to Guzo the Mariner|Guzo shrine]] in a sea cave in the [[North Cliffs]], giving the party the clue they needed to find the buried shrine.
+%%^End%%
 
-An old man, shortish white hair pulled back in a pony tail.
- 
-Lives alone in the Towers, in an isolated watchtower.
- 
-Is obsessed with the ocean, its moods, its character. Knows rumors of the sentient ocean, and all its many names.
-
-
-An old ocean watcher who lives alone in the Towers, in an isolated watchtower. Is obessed with the ocean, its moods, its character. Knows rumors of the sentient ocean, and all its many names:
- 
-- Yi'weti by the mages of old who cared only for its link to elemental powers
-- Ur Biyiak by the lizardfolk sages who speak of the living spirit of the water that can sometimes be heard in dreams
-- Wanui Teora by the great beasts of the sea who speak through the sound of the crashing waves
-- Amidrayal Agura by the
-- Ma'haya Kabir by Guzo the Mariner, the ancestor of voyages and the western horizon, who protects those lost at sea.
- 
-He knows little of it, other than it comes from the west, and beasts who spend time in its waters are awakened to sentience and consciousness.
-
-%%
-
-%%
-AI NPC proposal - Mawar review, 2026-05-07
-
-Proposed whereabouts/metadata updates:
-- Current [[Hamri]] whereabouts is correct. Consider an alias such as "isolated watchtower in the Towers" for display precision.
-- Add campaignInfo for Mawar Episode 02: [[Ryu]] and [[Trok]] speak with Yaz after dark on DR 1747-08-04 about the living ocean and the Splinters.
-- Add campaignInfo for Mawar Episode 05: Yaz identifies [[Rayna]]'s sketched shrine as an old Guzo shrine in a North Cliff sea cave on DR 1749-05-26.
-- Existing DuFr scrying should also be expanded if desired: Delwath sees [[Kaeso]] sitting with Yaz atop a tower overlooking the ocean in early February DR 1749.
-
-Proposed text updates:
-- Expand Yaz as an elderly Ocean Watcher/local lorekeeper focused on the [[Sentient Ocean]] and western ocean mysteries.
-- Promote his Sentient Ocean names from the comment where appropriate: Yi'weti, Ur Biyiak, Wanui Teora, Ma'haya Kabir, and the incomplete Amidrayal Agura line if a source can complete it.
-- Add Ep05 detail that he recognizes the old [[Shrine to Guzo the Mariner]] from Trok's sketch, providing the party's location clue.
-- Clean typos in the OneNote block when editing body text: "obessed" and the incomplete "Amidrayal Agura by the" line.
-
-Source links:
-- [[Mawar Adventures Episode 02]]
-- [[Mawar Adventures Episode 05]]
-- [[Sentient Ocean]]
-- [[Rayna]]
-- [[Ovina]]
-- [[Shrine to Guzo the Mariner]]
-- [[Scrying Delwath Tollen Downtime]]
-%%
+%%^Campaign:dufr%%
+In early February DR 1749, [[Delwath]] scried [[Kaeso]] sitting quietly with [[Yaz]] on top of a tower overlooking the ocean, watching a storm crash against the cliffs. The vision showed Kaeso at peace.
+%%^End%%
