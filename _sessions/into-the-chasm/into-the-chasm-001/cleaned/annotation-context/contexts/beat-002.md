@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0183 | 00:30:05.660-00:30:08.779 | DM] You awaken in the dark, lying on a platform of ice.
 [u0184 | 00:30:08.800-00:30:11.449 | DM] Apparently floating in the darkness.

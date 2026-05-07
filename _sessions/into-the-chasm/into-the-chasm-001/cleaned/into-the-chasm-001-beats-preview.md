@@ -1,7 +1,7 @@
 # Beats Preview
 
-- Source transcript: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/cleaned/into-the-chasm-001-source-cleaned.md
-- Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml
+- Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-source-cleaned.md
+- Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml
 - Beat count: 8
 
 ## beat-001 — Portents and the Fall
@@ -9,6 +9,7 @@
 - Range: `u0001` → `u0182`
 - Lines: 182
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: Table talk and the DM's omens-heavy prologue lead into the moment the party awakens on the ice platform.
@@ -22,6 +23,7 @@
 - Range: `u0183` → `u0363`
 - Lines: 181
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: The party surveys the floating ice platform, introduces themselves, and studies the storm and wolves until Eolo walks up to a guardian and triggers initiative.
@@ -34,6 +36,7 @@
 - Range: `u0364` → `u0623`
 - Lines: 260
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: yes
 - Boundary Reason: Combat begins when Eolo approaches the wolf statue, and the first phase centers on the wolves' initial rush before the second wave of shadow-creatures fully enters the fight.
@@ -46,6 +49,7 @@
 - Range: `u0624` → `u0917`
 - Lines: 294
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: yes
 - Boundary Reason: A new combat phase starts when a second shade arrives, the shrieking wind attack drops the Zimkovan woman, and the battlefield fills with darkness and additional threats.
@@ -58,6 +62,7 @@
 - Range: `u0918` → `u1255`
 - Lines: 338
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: yes
 - Boundary Reason: After Ekko kills the first wisp of this phase, the remaining wolves, shades, and wisps are cleaned up in a final scramble until the platform falls quiet.
@@ -70,6 +75,7 @@
 - Range: `u1256` → `u1462`
 - Lines: 207
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: With the fight over, Finnan and Justas calm the woman enough to learn that this is Zeyfa's Labyrinth and to hear the first fragments of her people's history and fear.
@@ -79,24 +85,26 @@
 
 ## beat-007 — Stories on the Platform
 
-- Range: `u1463` → `u1835`
-- Lines: 373
+- Range: `u1463` → `u1915`
+- Lines: 453
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
-- Boundary Reason: The focus shifts from extracting facts from Kalima to the party exchanging introductions, motives, and theories about the chasm, the Kestavo, and what sort of place they have entered.
+- Boundary Reason: The focus shifts from extracting facts from Kalima to the party exchanging introductions, motives, theories about the chasm, and follow-up questions about the West Wind's sacrifice.
 - Date Evidence:
   - the discussion is continuous with Kalima's testimony on the same day
   - no sleep, waking, or calendar advance is indicated
 
 ## beat-008 — Rest, Recon, and Descent
 
-- Range: `u1836` → `u2254`
-- Lines: 419
+- Range: `u1916` → `u2254`
+- Lines: 339
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
-- Boundary Reason: The party questions Kalima further, takes a short rest, tests the platform's exits, learns the drop is wind-locked, scouts the snow chamber ahead, persuades Kalima to come, and commits to entering the tunnels.
+- Boundary Reason: After the platform discussion and Kalima's sacrifice answer, the DM moves the group into a short rest; the party then tests the platform's exits, learns the drop is wind-locked, scouts the snow chamber ahead, persuades Kalima to come, and commits to entering the tunnels.
 - Date Evidence:
   - DM explicitly says the group may as well take a short rest
   - a short rest advances time within the same day rather than to a new date

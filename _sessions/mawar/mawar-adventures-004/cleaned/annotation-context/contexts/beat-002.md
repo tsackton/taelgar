@@ -269,7 +269,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0504 | 00:46:29.640-00:46:31.620 | DM] comes in comes to increase you and.
 [u0505 | 00:46:34.830-00:46:35.820 | DM] travelers.
 [u0506 | 00:46:37.020-00:46:41.400 | DM] What is your business and this girl that today i'm ask.
-[u0507 | 00:46:42.180-00:46:51.330 | Ryu] So this is a Ryu from from Hungary and with friends here also from Hungary we are.
+[u0507 | 00:46:42.180-00:46:51.330 | Ryu] So this is a Ryu from from Hamri and with friends here also from Hamri we are.
 [u0508 | 00:46:52.650-00:46:54.930 | Ryu] Well, we got word that.
 [u0509 | 00:46:56.100-00:47:05.700 | Ryu] Your village may actually be potentially in some distress facing some anomalies in the ocean that may be causing some trouble.
 [u0510 | 00:47:07.560-00:47:09.960 | Ryu] And we're here to we're here to help.

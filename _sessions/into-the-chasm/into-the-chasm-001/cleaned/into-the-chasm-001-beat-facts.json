@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/beat-artifacts/into-the-chasm-001-beats.json",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-beats.json",
   "facts": [
     {
       "beatId": "beat-001",
@@ -245,8 +245,8 @@
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "afternoon",
-      "shortSummary": "The party trades introductions, explains why each of them was near the chasm, and compares what they know about Kalima, Kemeko, the missing expedition, and the strange place around them.",
-      "longSummary": "Once Kalima is a little calmer, the conversation turns outward as the companions finally introduce themselves properly and lay out their reasons for being near the Great Chasm. Jrain explains the missing expedition she was tracking, Ekko connects himself to Eidrikas and the Vejo Vaikai, and the group compares what it knows about Kemeko, the Kestavo, and whether this place is truly the chasm at all.",
+      "shortSummary": "The party trades introductions, compares what they know about the chasm and the missing expedition, and learns that Kalima's people send sacrifices into the labyrinth at sunset.",
+      "longSummary": "Once Kalima is a little calmer, Finnan turns to the others, introduces himself properly, and frames her story against old tales of swamps, forgotten wars, and peoples who hid from disaster. Jrain explains the missing Vejo Vaikai expedition she was tracking, Ekko connects Eidrikas to his own past, and the group compares what it knows about Kemeko, the Kestavo, fey-like interpretations of the West Wind, and whether this place is truly the chasm. Finnan then coaxes one more answer from Kalima: when the sun sets and the new ones are old enough, the West Wind demands one of her people as a sacrifice into its labyrinth.",
       "location": {
         "kind": "fixed",
         "primary": "Zeyfa's Labyrinth",
@@ -271,6 +271,12 @@
           "role": "mentioned",
           "context": "missing Kemeko companion",
           "notes": "Jrain names Pakrinek as one of the investigators who disappeared with Eidrikas."
+        },
+        {
+          "name": "Zeyfa",
+          "role": "mentioned",
+          "context": "West Wind demanding sacrifice",
+          "notes": "Kalima describes the West Wind as demanding that one of her people be sent into its labyrinth."
         }
       ],
       "items": [],
@@ -300,8 +306,8 @@
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "afternoon",
-      "shortSummary": "The group questions Kalima a little further, takes a short rest, tests the platform's exits, scouts the bridge ahead, and commits to entering the tunnels with her.",
-      "longSummary": "The party spends a little more time asking Kalima about sacrifice and the beast, then settles into a short rest while Finnan checks for magic and the storm above grows more threatening. They probe both the bridges and the void below, learn that the updraft makes flying down impossible, send Rala to scout the far side, and finally persuade Kalima to come between Finnan and Justas as they jump into the snowbank and choose the maze's tunnels.",
+      "shortSummary": "The group takes a short rest, tests the platform's exits, scouts the bridge ahead, and commits to entering the tunnels with Kalima.",
+      "longSummary": "The party settles into a short rest while Finnan checks for magic and the storm above grows more threatening. They probe both bridges and the void below, learn that the updraft makes flying down impossible, and get Kalima's warning that all paths lead to the beast and that the maze takes travelers where it wants. After Rala scouts a snow chamber with four narrow tunnels and no obvious creatures, Justas and Finnan persuade Kalima to come between them as the group prepares to jump down into the snowbank and enter the maze.",
       "location": {
         "kind": "fixed",
         "primary": "Zeyfa's Labyrinth",
@@ -313,7 +319,13 @@
           "name": "Kalima",
           "role": "encountered",
           "context": "reluctant guide",
-          "notes": "She warns that the beast does not like waiting, says all paths lead toward it, and agrees to come only if kept between Finnan and Justas."
+          "notes": "She warns that the beast does not like waiting, says all paths lead toward it, gives her name, and agrees to come only if kept between Finnan and Justas."
+        },
+        {
+          "name": "Rala",
+          "role": "companion",
+          "context": "Jrain's bird companion",
+          "notes": "She survives the fall, recovers during the short rest, and scouts the snow chamber ahead."
         }
       ],
       "items": [],

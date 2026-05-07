@@ -1,8 +1,8 @@
 # Beat Context Index
 
-- Source transcript: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/cleaned/into-the-chasm-001-source-cleaned.md
-- Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml
-- Beats file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-001/beat-artifacts/into-the-chasm-001-beats.json
+- Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-source-cleaned.md
+- Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml
+- Beats file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-beats.json
 - Selected beats: 8
 
 ## beat-001 - Portents and the Fall
@@ -55,16 +55,16 @@
 
 ## beat-007 - Stories on the Platform
 
-- Lines: 373
-- Range: `u1463` -> `u1835`
+- Lines: 453
+- Range: `u1463` -> `u1915`
 - Date Start: 1730-01-25
 - Date End: same day
 - Time Window: afternoon
 
 ## beat-008 - Rest, Recon, and Descent
 
-- Lines: 419
-- Range: `u1836` -> `u2254`
+- Lines: 339
+- Range: `u1916` -> `u2254`
 - Date Start: 1730-01-25
 - Date End: same day
 - Time Window: afternoon
