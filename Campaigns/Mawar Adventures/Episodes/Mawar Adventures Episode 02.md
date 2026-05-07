@@ -8,13 +8,13 @@ DR: 1747-08-03
 DR_end: 1747-08-09
 players: [Ryu, Wazir, Trok, Kaleho]
 companions: []
-name: Mawar Adventures Episode 2
+name: Mawar Adventures Episode 02
 descTitle: The Tragedy of Azar
 tagline: in which a grieving killer is unmasked
 sessionKey: mawar-adventures-session-2
 template: mawar-template.md
 ---
-# Mawar Adventures Episode 2
+# Mawar Adventures Episode 02
 
 >[!info] The Tragedy of Azar: in which a grieving killer is unmasked
 > *Featuring: [[Ryu]], [[Wazir]], [[Trok]], [[Kaleho]]*
