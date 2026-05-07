@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
+tags: [person]
 name: Abelard
 species: human
 ancestry: Mawaran
 gender: male
 whereabouts:
 - {type: home, location: Chardonian Empire}
-- {type: home, location: Hamri}
+- {type: home, start: 1737, location: Hamri}
 dm_owner: none
 dm_notes: none
 ---
@@ -16,29 +16,15 @@ dm_notes: none
 > A Mawaran [[Humans|human]] (he/him)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A storyteller and performer who hangs around the [[Leviathan Inn]] telling wild tales mostly (so [[Wazir]] believes) made up. He disappears now and then for a month or a few weeks, and no one really knows where he goes. He is noticeably without visible means of support, but always seems to have coin to pay his tab on time. He is charming and open, but always seems to talk a lot without really answering anyone's questions about his background. He's been hanging around [[Hamri]] for ten years or so though. Originally from a small town in the Chardon hinterland. He is wickedly funny, and has a very strong singing voice.
+![[abelard.png|right|300]]Abelard is a storyteller, singer, and tavern performer who hangs around the [[Leviathan Inn]] in [[Hamri]]. He is originally from a small town in the hinterland of the [[Chardonian Empire]], but has been a familiar presence in Hamri for the past ten years.
 
-%%notes: 
-	Occasionally has been seen to cast a cantrip or two, and is probably a 1st level bard or so.
-%%
+Abelard is a singer, gossip, and general hanger-on. He is known for extravagant stories of distant places, disasters, monsters, and improbable adventures, many of them likely embellished or wholly invented. But he tells his tales with a sharp wit and disarming smile, and his singing voice is strong. 
 
-![[abelard.png]]
+Abelard gives very little away about himself. He has no obvious steady work, beyond the coin from his performances, yet always seems able to pay his tab. He occasionally disappears for weeks or months at a time, returning with new stories but no clear account of where he has been, answering direct questions with more words than information. 
 
 %%
-AI NPC proposal - Mawar review, 2026-05-07
 
-Proposed whereabouts/metadata updates:
-- Current dual home associations with [[Chardonian Empire]] and [[Hamri]] are plausible. Consider adding an alias to the Hamri line such as "often at the Leviathan Inn" if display precision is wanted.
-- Add campaignInfo for Mawar Episode 03: the party questions Abelard at the [[Leviathan Inn]] on DR 1747-10-24 and he confirms a woman matching [[Hiyasa]]'s description headed up the Mirmir seeking an old tomb.
+Occasionally has been seen to cast a cantrip or two, and is probably a 1st level bard or so.
 
-Proposed text updates:
-- Add the Ep03 rumor role: Abelard recognizes Hiyasa's description and sends the party upriver toward [[Tomb of Yerkir-Khor]].
-- Existing broader character text is strong; no deeper whereabouts clue surfaced beyond his Chardon origin, long residence in Hamri, and occasional unexplained absences.
-
-Source links:
-- [[Mawar Adventures Episode 03]]
-- [[Hiyasa]]
-- [[Tomb of Yerkir-Khor]]
-- [[Leviathan Inn]]
-- [[Hamri]]
 %%
+
