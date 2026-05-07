@@ -12,20 +12,20 @@ Do not edit `beats.json`.
 
 - Beat ID: beat-008
 - Title: Blue Light Advantage
-- Range: `u1909` -> `u2171`
-- Lines: 263
-- Date Start: 1749-05-26
+- Range: `u1909` -> `u2260`
+- Lines: 352
+- Date Start: 1749-05-27
 - Date End: same day
-- Time Window: night
+- Time Window: afternoon
 
 ## Output Shape
 
 ```json
 {
   "beatId": "beat-008",
-  "dateStart": "1749-05-26",
+  "dateStart": "1749-05-27",
   "dateEnd": null,
-  "timeWindow": "night",
+  "timeWindow": "afternoon",
   "shortSummary": "",
   "longSummary": "",
   "location": {
@@ -64,8 +64,8 @@ Do not edit `beats.json`.
 
 ## Adjacent Beats
 
-- Previous: beat-007 - Jet of Water (1749-05-26)
-- Next: beat-009 - Mist and Running Water (1749-05-26)
+- Previous: beat-007 - Jet of Water (1749-05-27)
+- Next: beat-009 - Mist and Last Blows (1749-05-27)
 
 If the transcript does not clearly restate the location, prefer inheriting the prior beat's location unless there is a clear move or travel transition.
 
@@ -79,7 +79,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1909 | 02:25:58.830-02:26:01.300 | DM] Oh, it must be somewhere in the initiative order.
 [u1910 | 02:26:01.300-02:26:06.870 | Nerissa] Alright, so Nerissa is next to…
@@ -344,3 +344,92 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u2169 | 02:44:00.260-02:44:02.170 | DM] Catheads. Yeah.
 [u2170 | 02:44:04.060-02:44:07.770 | Wazir] So… 6 damage.
 [u2171 | 02:44:10.830-02:44:25.820 | DM] With these blows from Wazir, the creature staggers back a little, and you can see it beginning to sort of, look around, nervous, like, uncertain what's happening, yelling for its minions to help.
+[u2172 | 02:44:26.380-02:44:35.550 | DM] As this one in the back causes another burst of scalding water to fly up around Ryu.
+[u2173 | 02:44:38.510-02:44:40.500 | DM] That is a…
+[u2174 | 02:44:41.420-02:44:43.549 | DM] 8, which misses.
+[u2175 | 02:44:45.870-02:44:48.259 | DM] And then it is Nerissa's turn.
+[u2176 | 02:44:49.550-02:44:50.760 | Nerissa] Alright.
+[u2177 | 02:44:57.390-02:45:03.989 | Nerissa] Is there a path for me past Giant Trok, or, like, do I have enough move to go all the way around past Wazir, or…
+[u2178 | 02:45:06.820-02:45:11.780 | DM] I think you can, I mean, you can watch Around the statue, and…
+[u2179 | 02:45:11.780-02:45:13.929 | DM] Yeah, if you want to attack him…
+[u2180 | 02:45:13.930-02:45:14.740 | Nerissa] Yeah.
+[u2181 | 02:45:14.740-02:45:19.569 | DM] I'll assume was your, like, move the… I mean, this room at the doorway.
+[u2182 | 02:45:19.990-02:45:25.749 | DM] here, as long as you're sort of moving around and taking turns.
+[u2183 | 02:45:27.810-02:45:29.590 | Nerissa] Alright, I'm gonna…
+[u2184 | 02:45:29.970-02:45:33.260 | DM] Oh, really should get an opportunity attack against Trok.
+[u2185 | 02:45:35.720-02:45:36.570 | Nerissa] Well…
+[u2186 | 02:45:36.840-02:45:37.170 | Trok] Which is…
+[u2187 | 02:45:37.170-02:45:39.709 | Nerissa] You're really gonna… If you're… oh, okay.
+[u2188 | 02:45:40.420-02:45:42.469 | Wazir] He would also have disadvantage on that.
+[u2189 | 02:45:43.540-02:45:46.850 | DM] The blue light is making them our disadvantage on everything.
+[u2190 | 02:45:46.850-02:45:49.650 | Wazir] Yeah, so the disadvantage feature is not that useful, okay.
+[u2191 | 02:45:50.440-02:45:54.850 | DM] Well, normally this creature… this would be… it's cool. It's not…
+[u2192 | 02:45:54.850-02:45:56.130 | Wazir] Not useful against this.
+[u2193 | 02:45:56.130-02:45:57.120 | DM] one enemy.
+[u2194 | 02:45:57.120-02:46:00.159 | Wazir] Yeah, it's just, it's maybe not… yeah, okay.
+[u2195 | 02:46:00.470-02:46:02.640 | Wazir] It's not… it's not… I didn't mean that, I just…
+[u2196 | 02:46:02.900-02:46:11.640 | Wazir] I might attack something else next turn if he's not dead, just, I was thinking it's really valuable to attack him, because it plays disadvantage, but…
+[u2197 | 02:46:11.890-02:46:13.690 | DM] It sounds like.
+[u2198 | 02:46:14.250-02:46:15.970 | Wazir] Strictly… true.
+[u2199 | 02:46:17.720-02:46:20.929 | Nerissa] Oh, jeez, so my first roll on my sword is that one.
+[u2200 | 02:46:22.640-02:46:25.439 | DM] I do have heroic inspiration, if you want to re-roll that.
+[u2201 | 02:46:26.320-02:46:27.450 | Nerissa] Jar!
+[u2202 | 02:46:34.030-02:46:34.540 | Nerissa] That's fine.
+[u2203 | 02:46:34.540-02:46:36.029 | DM] Much better, that hits.
+[u2204 | 02:46:36.730-02:46:37.660 | DM] Alright.
+[u2205 | 02:46:44.150-02:46:45.959 | Nerissa] 15 points of piercing damage.
+[u2206 | 02:46:45.960-02:46:50.339 | DM] So remember to also add the… True Strike Extra Damage.
+[u2207 | 02:46:51.770-02:46:54.530 | Nerissa] With… is that a… in the… under the cantrips?
+[u2208 | 02:46:55.140-02:47:00.560 | DM] Yeah, I made it under your attacks. If you click attack, it should show up.
+[u2209 | 02:47:01.310-02:47:03.510 | DM] It says, Tree Strike Extra Damage.
+[u2210 | 02:47:03.510-02:47:04.340 | Nerissa] Oh, right.
+[u2211 | 02:47:06.540-02:47:08.500 | Nerissa] So… an extra 3.
+[u2212 | 02:47:08.810-02:47:16.879 | DM] So, Nerissa steps forward with her sword and pierces the creature for 18 points of damage as her sword glows with this
+[u2213 | 02:47:18.090-02:47:24.620 | DM] I don't know what it looks like when you… Attack people with your… Combination of magic and…
+[u2214 | 02:47:25.470-02:47:29.039 | DM] Swordness. Whatever it looks like.
+[u2215 | 02:47:29.530-02:47:30.470 | Nerissa] It's a little bit glittery.
+[u2216 | 02:47:31.380-02:47:32.100 | Nerissa] Right.
+[u2217 | 02:47:32.100-02:47:39.240 | DM] And that ends Nerissa's turn, and these creatures now will… Rush forward…
+[u2218 | 02:47:41.430-02:47:49.009 | Nerissa] And if there's any need for me to, like, shuffle to make room for the next person in a way that doesn't cause me to take an opportunity to…
+[u2219 | 02:47:49.010-02:47:51.480 | DM] It only gets one opportunity attack per.
+[u2220 | 02:47:51.800-02:47:54.109 | DM] Is this circle? Does anybody need this circle?
+[u2221 | 02:47:54.530-02:47:56.819 | Wazir] Oh, oops, no, that was just me exploring.
+[u2222 | 02:47:57.690-02:48:00.089 | Wazir] I was debating casting a spell over there.
+[u2223 | 02:48:02.140-02:48:09.110 | DM] This one's gonna go here. This one's gonna go there. Okay, so…
+[u2224 | 02:48:09.790-02:48:21.050 | DM] One attack on Ryu, two attacks on… Ander… Where there's, like, swinging, scimitars.
+[u2225 | 02:48:21.800-02:48:26.890 | DM] So, Ander, that is a… 16…
+[u2226 | 02:48:26.890-02:48:27.550 | Ander] this…
+[u2227 | 02:48:28.510-02:48:31.340 | DM] And then a 18…
+[u2228 | 02:48:31.580-02:48:32.140 | Ander] That's it.
+[u2229 | 02:48:33.350-02:48:39.480 | DM] So the 18 does 9 point… 11 points of piercing damage.
+[u2230 | 02:48:39.580-02:48:45.570 | DM] And the scimitar, like, watery tendrils wrap around the scimitar.
+[u2231 | 02:48:45.890-02:48:49.559 | DM] Out from the scimitar and grapple you.
+[u2232 | 02:48:51.520-02:48:54.110 | DM] So while you are grappled.
+[u2233 | 02:48:59.530-02:49:04.499 | DM] You… Can use your action to…
+[u2234 | 02:49:04.750-02:49:07.470 | DM] Make a Strength or Dexterity check to escape.
+[u2235 | 02:49:07.660-02:49:19.280 | DM] You have… Otherwise, your speed is zero and nothing else. I don't think it…
+[u2236 | 02:49:20.440-02:49:23.689 | DM] You have a disadvantage on attack rolls other than the grappler.
+[u2237 | 02:49:25.570-02:49:26.720 | DM] Good.
+[u2238 | 02:49:26.830-02:49:28.059 | DM] But you could just…
+[u2239 | 02:49:28.060-02:49:28.510 | Ander] grappler.
+[u2240 | 02:49:29.440-02:49:34.300 | DM] Grapple ends if you kill the grappler, yes. So that is probably your strategy.
+[u2241 | 02:49:34.630-02:49:37.719 | DM] That was the two attacks on…
+[u2242 | 02:49:38.910-02:49:47.540 | DM] on Andar, and then the one attack on Ryu is… 22…
+[u2243 | 02:49:49.810-02:49:55.399 | DM] So Ryu, you take 11 points of piercing damage, and you are also grappled.
+[u2244 | 02:49:55.980-02:49:56.900 | Ryu] Whaaat?
+[u2245 | 02:49:58.530-02:49:59.030 | Ryu] Wax.
+[u2246 | 02:50:00.510-02:50:06.759 | DM] ends… Their turn, and then… This one…
+[u2247 | 02:50:08.080-02:50:08.779 | Ryu] Are we close to.
+[u2248 | 02:50:09.300-02:50:10.870 | Ryu] yet? Is he, is he, like, bloodied?
+[u2249 | 02:50:11.410-02:50:14.789 | DM] Oh, he's… he's well past bloody, he's below a quarter health.
+[u2250 | 02:50:16.240-02:50:21.359 | DM] And then,
+[u2251 | 02:50:22.040-02:50:29.010 | DM] This one is gonna make… this one… is gonna make two… like, take this watery whip and strikes it at…
+[u2252 | 02:50:29.520-02:50:31.040 | DM] Ander…
+[u2253 | 02:50:32.830-02:50:48.579 | DM] The first one is a natural 1 that misses, the second whip strike is, 24. So that one hits, and you take 6 points of slashing damage, and
+[u2254 | 02:50:49.040-02:50:55.860 | DM] Fixed points of lightning damage as shocks of electricity run along the…
+[u2255 | 02:50:58.490-02:51:01.529 | DM] Run along the, the water.
+[u2256 | 02:51:03.340-02:51:08.350 | DM] The next one is going to attack, Ryu with its whip.
+[u2257 | 02:51:10.150-02:51:14.119 | DM] That's a… 15? What's your AC?
+[u2258 | 02:51:14.660-02:51:15.439 | Ryu] 17, and this is…
+[u2259 | 02:51:18.990-02:51:20.029 | DM] and an H.
+[u2260 | 02:51:21.220-02:51:25.080 | DM] So both attacks miss Ryu, and that ends their turns.

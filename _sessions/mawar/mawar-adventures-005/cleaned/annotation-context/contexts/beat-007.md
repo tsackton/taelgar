@@ -14,18 +14,18 @@ Do not edit `beats.json`.
 - Title: Jet of Water
 - Range: `u1613` -> `u1908`
 - Lines: 296
-- Date Start: 1749-05-26
+- Date Start: 1749-05-27
 - Date End: same day
-- Time Window: night
+- Time Window: afternoon
 
 ## Output Shape
 
 ```json
 {
   "beatId": "beat-007",
-  "dateStart": "1749-05-26",
+  "dateStart": "1749-05-27",
   "dateEnd": null,
-  "timeWindow": "night",
+  "timeWindow": "afternoon",
   "shortSummary": "",
   "longSummary": "",
   "location": {
@@ -64,8 +64,8 @@ Do not edit `beats.json`.
 
 ## Adjacent Beats
 
-- Previous: beat-006 - A Bad Deal Offered (1749-05-26)
-- Next: beat-008 - Blue Light Advantage (1749-05-26)
+- Previous: beat-006 - A Bad Deal Offered (1749-05-27)
+- Next: beat-008 - Blue Light Advantage (1749-05-27)
 
 If the transcript does not clearly restate the location, prefer inheriting the prior beat's location unless there is a clear move or travel transition.
 
@@ -79,7 +79,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1613 | 02:07:43.390-02:07:47.170 | DM] And then… role initiative.
 [u1614 | 02:07:48.060-02:07:48.620 | DM] Yay!

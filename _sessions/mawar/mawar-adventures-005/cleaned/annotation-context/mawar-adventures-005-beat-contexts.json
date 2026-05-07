@@ -15,11 +15,12 @@
     "beat-009",
     "beat-010"
   ],
+  "supplementalSources": [],
   "contexts": [
     {
       "beat": {
         "beatId": "beat-001",
-        "title": "Recap and Raina's Plea",
+        "title": "Recap and Rayna's Plea",
         "startUid": "u0001",
         "endUid": "u0246",
         "lineCount": 246,
@@ -27,7 +28,7 @@
         "dateEnd": null,
         "timeWindow": "evening",
         "containsCombat": false,
-        "boundaryReason": "The opening stays in one continuous tavern setup scene: the DM recaps Hamri's recent history, brings the party together at the Leviathan, and has Raina explain the dreams, the song fragment, and the hidden cave she wants found.",
+        "boundaryReason": "The opening stays in one continuous tavern setup scene: the DM recaps Hamri's recent history, brings the party together at the Leviathan, and has Rayna explain the dreams, the song fragment, and the hidden cave she wants found.",
         "dateEvidence": [
           "at u0090 the DM explicitly states, 'It is now May 26, 1749'",
           "at u0098 the session proper begins 'in the evening of a pleasantly warm spring day'",
@@ -46,6 +47,8 @@
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 5,
         "drStart": null,
         "drEnd": null,
@@ -88,7 +91,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0001",
           "header": "[u0001 | 00:00:01.730-00:00:02.980 | DM]",
@@ -542,8 +545,8 @@
         {
           "uid": "u0076",
           "header": "[u0076 | 00:07:28.750-00:07:34.920 | DM]",
-          "text": "Kaiso, a scholar from Chardon with several mutual friends with Wazir, arrives at the start of October.",
-          "raw": "[u0076 | 00:07:28.750-00:07:34.920 | DM] Kaiso, a scholar from Chardon with several mutual friends with Wazir, arrives at the start of October."
+          "text": "Kaeso, a scholar from Chardon with several mutual friends with Wazir, arrives at the start of October.",
+          "raw": "[u0076 | 00:07:28.750-00:07:34.920 | DM] Kaeso, a scholar from Chardon with several mutual friends with Wazir, arrives at the start of October."
         },
         {
           "uid": "u0077",
@@ -578,8 +581,8 @@
         {
           "uid": "u0082",
           "header": "[u0082 | 00:08:09.500-00:08:29.119 | DM]",
-          "text": "Could it be long before Chardon looked to claim Mawar itself. After all, Arian the Mistspeaker had long spoken of the Mawakel Peninsula, which is where the Mawar Confederacy is, as an important locus of elemental power, and Arian's scrolls of elemental power had turned up in Chardon recently, Kaiso had learned.",
-          "raw": "[u0082 | 00:08:09.500-00:08:29.119 | DM] Could it be long before Chardon looked to claim Mawar itself. After all, Arian the Mistspeaker had long spoken of the Mawakel Peninsula, which is where the Mawar Confederacy is, as an important locus of elemental power, and Arian's scrolls of elemental power had turned up in Chardon recently, Kaiso had learned."
+          "text": "Could it be long before Chardon looked to claim Mawar itself. After all, Arian the Mistspeaker had long spoken of the Mawakel Peninsula, which is where the Mawar Confederacy is, as an important locus of elemental power, and Arian's scrolls of elemental power had turned up in Chardon recently, Kaeso had learned.",
+          "raw": "[u0082 | 00:08:09.500-00:08:29.119 | DM] Could it be long before Chardon looked to claim Mawar itself. After all, Arian the Mistspeaker had long spoken of the Mawakel Peninsula, which is where the Mawar Confederacy is, as an important locus of elemental power, and Arian's scrolls of elemental power had turned up in Chardon recently, Kaeso had learned."
         },
         {
           "uid": "u0083",
@@ -590,8 +593,8 @@
         {
           "uid": "u0084",
           "header": "[u0084 | 00:08:39.520-00:08:46.569 | DM]",
-          "text": "Kaiso took this hard and spent many days alone in his room, but emerged to say that Dunmar held, though he would not say how he knew.",
-          "raw": "[u0084 | 00:08:39.520-00:08:46.569 | DM] Kaiso took this hard and spent many days alone in his room, but emerged to say that Dunmar held, though he would not say how he knew."
+          "text": "Kaeso took this hard and spent many days alone in his room, but emerged to say that Dunmar held, though he would not say how he knew.",
+          "raw": "[u0084 | 00:08:39.520-00:08:46.569 | DM] Kaeso took this hard and spent many days alone in his room, but emerged to say that Dunmar held, though he would not say how he knew."
         },
         {
           "uid": "u0085",
@@ -614,8 +617,8 @@
         {
           "uid": "u0088",
           "header": "[u0088 | 00:09:11.710-00:09:32.389 | DM]",
-          "text": "But few in Hamri really cared about the events of far-off Dunmar. The traders from Chardon whispered that something seemed wrong. While the amount of chalyte flowing into the city was greater than ever, constant shortages led to the first outbreak of cholera in years, though Kaiso would point out, the traders don't seem to count the sickness that spreads in the slums of the North Bank there.",
-          "raw": "[u0088 | 00:09:11.710-00:09:32.389 | DM] But few in Hamri really cared about the events of far-off Dunmar. The traders from Chardon whispered that something seemed wrong. While the amount of chalyte flowing into the city was greater than ever, constant shortages led to the first outbreak of cholera in years, though Kaiso would point out, the traders don't seem to count the sickness that spreads in the slums of the North Bank there."
+          "text": "But few in Hamri really cared about the events of far-off Dunmar. The traders from Chardon whispered that something seemed wrong. While the amount of chalyte flowing into the city was greater than ever, constant shortages led to the first outbreak of cholera in years, though Kaeso would point out, the traders don't seem to count the sickness that spreads in the slums of the North Bank there.",
+          "raw": "[u0088 | 00:09:11.710-00:09:32.389 | DM] But few in Hamri really cared about the events of far-off Dunmar. The traders from Chardon whispered that something seemed wrong. While the amount of chalyte flowing into the city was greater than ever, constant shortages led to the first outbreak of cholera in years, though Kaeso would point out, the traders don't seem to count the sickness that spreads in the slums of the North Bank there."
         },
         {
           "uid": "u0089",
@@ -1256,8 +1259,8 @@
         {
           "uid": "u0195",
           "header": "[u0195 | 00:20:00.410-00:20:14.080 | DM]",
-          "text": "this woman, Raina, begins to tell you her story, and she's come looking for somebody. I mean, she doesn't… she's not from Hamri, she doesn't know anybody, but was obviously told at the port, like, you know.",
-          "raw": "[u0195 | 00:20:00.410-00:20:14.080 | DM] this woman, Raina, begins to tell you her story, and she's come looking for somebody. I mean, she doesn't… she's not from Hamri, she doesn't know anybody, but was obviously told at the port, like, you know."
+          "text": "this woman, Rayna, begins to tell you her story, and she's come looking for somebody. I mean, she doesn't… she's not from Hamri, she doesn't know anybody, but was obviously told at the port, like, you know.",
+          "raw": "[u0195 | 00:20:00.410-00:20:14.080 | DM] this woman, Rayna, begins to tell you her story, and she's come looking for somebody. I mean, she doesn't… she's not from Hamri, she doesn't know anybody, but was obviously told at the port, like, you know."
         },
         {
           "uid": "u0196",
@@ -1436,8 +1439,8 @@
         {
           "uid": "u0225",
           "header": "[u0225 | 00:23:32.500-00:23:44.569 | DM]",
-          "text": "strange undersea cities of kelp forests full of memories, but also of Mawar long ago, of Guzu the Mariner standing on the prow of a ship. Guzu the Mariner is, like, one of the…",
-          "raw": "[u0225 | 00:23:32.500-00:23:44.569 | DM] strange undersea cities of kelp forests full of memories, but also of Mawar long ago, of Guzu the Mariner standing on the prow of a ship. Guzu the Mariner is, like, one of the…"
+          "text": "strange undersea cities of kelp forests full of memories, but also of Mawar long ago, of Guzo the Mariner standing on the prow of a ship. Guzo the Mariner is, like, one of the…",
+          "raw": "[u0225 | 00:23:32.500-00:23:44.569 | DM] strange undersea cities of kelp forests full of memories, but also of Mawar long ago, of Guzo the Mariner standing on the prow of a ship. Guzo the Mariner is, like, one of the…"
         },
         {
           "uid": "u0226",
@@ -1448,8 +1451,8 @@
         {
           "uid": "u0227",
           "header": "[u0227 | 00:23:51.260-00:24:03.049 | DM]",
-          "text": "send their prayers to the Eight Divines via Guzu, at least in Hamri. And there's a bunch of these other, like, heroes of Mawar that function as saints.",
-          "raw": "[u0227 | 00:23:51.260-00:24:03.049 | DM] send their prayers to the Eight Divines via Guzu, at least in Hamri. And there's a bunch of these other, like, heroes of Mawar that function as saints."
+          "text": "send their prayers to the Eight Divines via Guzo, at least in Hamri. And there's a bunch of these other, like, heroes of Mawar that function as saints.",
+          "raw": "[u0227 | 00:23:51.260-00:24:03.049 | DM] send their prayers to the Eight Divines via Guzo, at least in Hamri. And there's a bunch of these other, like, heroes of Mawar that function as saints."
         },
         {
           "uid": "u0228",
@@ -1484,8 +1487,8 @@
         {
           "uid": "u0233",
           "header": "[u0233 | 00:24:26.510-00:24:38.549 | DM]",
-          "text": "But for a while, they didn't think much of it. A few years after that, the ship was wrecked, and most of the crew, including Caleb, died, Raina survived, but it was a dark few years after that recovering.",
-          "raw": "[u0233 | 00:24:26.510-00:24:38.549 | DM] But for a while, they didn't think much of it. A few years after that, the ship was wrecked, and most of the crew, including Caleb, died, Raina survived, but it was a dark few years after that recovering."
+          "text": "But for a while, they didn't think much of it. A few years after that, the ship was wrecked, and most of the crew, including Caleb, died, Rayna survived, but it was a dark few years after that recovering.",
+          "raw": "[u0233 | 00:24:26.510-00:24:38.549 | DM] But for a while, they didn't think much of it. A few years after that, the ship was wrecked, and most of the crew, including Caleb, died, Rayna survived, but it was a dark few years after that recovering."
         },
         {
           "uid": "u0234",
@@ -1526,8 +1529,8 @@
         {
           "uid": "u0240",
           "header": "[u0240 | 00:25:06.180-00:25:09.930 | DM]",
-          "text": "And a statue of Guzu the Mariner on a white sandy beach.",
-          "raw": "[u0240 | 00:25:06.180-00:25:09.930 | DM] And a statue of Guzu the Mariner on a white sandy beach."
+          "text": "And a statue of Guzo the Mariner on a white sandy beach.",
+          "raw": "[u0240 | 00:25:06.180-00:25:09.930 | DM] And a statue of Guzo the Mariner on a white sandy beach."
         },
         {
           "uid": "u0241",
@@ -1544,8 +1547,8 @@
         {
           "uid": "u0243",
           "header": "[u0243 | 00:25:21.240-00:25:27.000 | DM]",
-          "text": "Guzu was always associated with Hamri in Caleb's stories, and so she came here.",
-          "raw": "[u0243 | 00:25:21.240-00:25:27.000 | DM] Guzu was always associated with Hamri in Caleb's stories, and so she came here."
+          "text": "Guzo was always associated with Hamri in Caleb's stories, and so she came here.",
+          "raw": "[u0243 | 00:25:21.240-00:25:27.000 | DM] Guzo was always associated with Hamri in Caleb's stories, and so she came here."
         },
         {
           "uid": "u0244",
@@ -1562,10 +1565,11 @@
         {
           "uid": "u0246",
           "header": "[u0246 | 00:25:39.680-00:25:47.499 | DM]",
-          "text": "With a white sandy beach and a statue of Guzu. And somewhere inside the cave is something that this song of the ocean wants back.",
-          "raw": "[u0246 | 00:25:39.680-00:25:47.499 | DM] With a white sandy beach and a statue of Guzu. And somewhere inside the cave is something that this song of the ocean wants back."
+          "text": "With a white sandy beach and a statue of Guzo. And somewhere inside the cave is something that this song of the ocean wants back.",
+          "raw": "[u0246 | 00:25:39.680-00:25:47.499 | DM] With a white sandy beach and a statue of Guzo. And somewhere inside the cave is something that this song of the ocean wants back."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -1578,7 +1582,7 @@
         "dateEnd": null,
         "timeWindow": "evening",
         "containsCombat": false,
-        "boundaryReason": "After hearing Raina out, the party stays in Hamri gathering local context: they discuss the dream, consult Yaz about Guzu and the shrine, summon Ovina for older town memory, and settle on heading for the cliffside cave.",
+        "boundaryReason": "After hearing Rayna out, the party stays in Hamri gathering local context: they discuss the dream, consult Yaz about Guzo and the shrine, summon Ovina for older town memory, and settle on heading for the cliffside cave.",
         "dateEvidence": [
           "this beat follows directly from the tavern briefing with no rest or date transition",
           "u0539 says they are 'approaching dinner time now,' keeping the whole inquiry in the same evening stretch",
@@ -1589,19 +1593,21 @@
       },
       "previousBeat": {
         "beatId": "beat-001",
-        "title": "Recap and Raina's Plea",
+        "title": "Recap and Rayna's Plea",
         "dateStart": "1749-05-26",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "beat-003",
         "title": "Finding the Buried Shrine",
-        "dateStart": "1749-05-26",
+        "dateStart": "1749-05-27",
         "dateEnd": null
       },
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 5,
         "drStart": null,
         "drEnd": null,
@@ -1644,7 +1650,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0247",
           "header": "[u0247 | 00:25:49.830-00:25:53.030 | DM]",
@@ -2068,8 +2074,8 @@
         {
           "uid": "u0317",
           "header": "[u0317 | 00:31:29.450-00:31:30.080 | DM]",
-          "text": "Raina?",
-          "raw": "[u0317 | 00:31:29.450-00:31:30.080 | DM] Raina?"
+          "text": "Rayna?",
+          "raw": "[u0317 | 00:31:29.450-00:31:30.080 | DM] Rayna?"
         },
         {
           "uid": "u0318",
@@ -2092,8 +2098,8 @@
         {
           "uid": "u0321",
           "header": "[u0321 | 00:31:36.250-00:31:42.319 | Ryu]",
-          "text": "cert… like… just really gives, like, Raina a little, like, once-over, like.",
-          "raw": "[u0321 | 00:31:36.250-00:31:42.319 | Ryu] cert… like… just really gives, like, Raina a little, like, once-over, like."
+          "text": "cert… like… just really gives, like, Rayna a little, like, once-over, like.",
+          "raw": "[u0321 | 00:31:36.250-00:31:42.319 | Ryu] cert… like… just really gives, like, Rayna a little, like, once-over, like."
         },
         {
           "uid": "u0322",
@@ -2272,8 +2278,8 @@
         {
           "uid": "u0351",
           "header": "[u0351 | 00:33:36.870-00:33:41.930 | DM]",
-          "text": "statue of Guzu the Mariner, like, in the shrine.",
-          "raw": "[u0351 | 00:33:36.870-00:33:41.930 | DM] statue of Guzu the Mariner, like, in the shrine."
+          "text": "statue of Guzo the Mariner, like, in the shrine.",
+          "raw": "[u0351 | 00:33:36.870-00:33:41.930 | DM] statue of Guzo the Mariner, like, in the shrine."
         },
         {
           "uid": "u0352",
@@ -2530,8 +2536,8 @@
         {
           "uid": "u0394",
           "header": "[u0394 | 00:36:27.730-00:36:34.700 | DM]",
-          "text": "I mean, yeah, there's definitely… so there's… it's like… it's like the church in town is St. Guzu's, or something like that.",
-          "raw": "[u0394 | 00:36:27.730-00:36:34.700 | DM] I mean, yeah, there's definitely… so there's… it's like… it's like the church in town is St. Guzu's, or something like that."
+          "text": "I mean, yeah, there's definitely… so there's… it's like… it's like the church in town is St. Guzo's, or something like that.",
+          "raw": "[u0394 | 00:36:27.730-00:36:34.700 | DM] I mean, yeah, there's definitely… so there's… it's like… it's like the church in town is St. Guzo's, or something like that."
         },
         {
           "uid": "u0395",
@@ -2560,8 +2566,8 @@
         {
           "uid": "u0399",
           "header": "[u0399 | 00:36:51.320-00:37:07.990 | DM]",
-          "text": "heavily into the local heroes as divine representatives on Earth vibe. So rather than worshipping the mother or whatever, they worship, like, the founder of Hamri, or whoever Guzu was. None of you actually are very religious, or maybe Wazir knows history?",
-          "raw": "[u0399 | 00:36:51.320-00:37:07.990 | DM] heavily into the local heroes as divine representatives on Earth vibe. So rather than worshipping the mother or whatever, they worship, like, the founder of Hamri, or whoever Guzu was. None of you actually are very religious, or maybe Wazir knows history?"
+          "text": "heavily into the local heroes as divine representatives on Earth vibe. So rather than worshipping the mother or whatever, they worship, like, the founder of Hamri, or whoever Guzo was. None of you actually are very religious, or maybe Wazir knows history?",
+          "raw": "[u0399 | 00:36:51.320-00:37:07.990 | DM] heavily into the local heroes as divine representatives on Earth vibe. So rather than worshipping the mother or whatever, they worship, like, the founder of Hamri, or whoever Guzo was. None of you actually are very religious, or maybe Wazir knows history?"
         },
         {
           "uid": "u0400",
@@ -2584,8 +2590,8 @@
         {
           "uid": "u0403",
           "header": "[u0403 | 00:37:11.420-00:37:13.169 | DM]",
-          "text": "So, I mean, Guzu is…",
-          "raw": "[u0403 | 00:37:11.420-00:37:13.169 | DM] So, I mean, Guzu is…"
+          "text": "So, I mean, Guzo is…",
+          "raw": "[u0403 | 00:37:11.420-00:37:13.169 | DM] So, I mean, Guzo is…"
         },
         {
           "uid": "u0404",
@@ -2596,8 +2602,8 @@
         {
           "uid": "u0405",
           "header": "[u0405 | 00:37:14.330-00:37:21.700 | DM]",
-          "text": "Guzu is not… the popular story is usually that he was, like, the founder of Hamri or something, but actually that's…",
-          "raw": "[u0405 | 00:37:14.330-00:37:21.700 | DM] Guzu is not… the popular story is usually that he was, like, the founder of Hamri or something, but actually that's…"
+          "text": "Guzo is not… the popular story is usually that he was, like, the founder of Hamri or something, but actually that's…",
+          "raw": "[u0405 | 00:37:14.330-00:37:21.700 | DM] Guzo is not… the popular story is usually that he was, like, the founder of Hamri or something, but actually that's…"
         },
         {
           "uid": "u0406",
@@ -2620,8 +2626,8 @@
         {
           "uid": "u0409",
           "header": "[u0409 | 00:37:35.410-00:37:53.399 | DM]",
-          "text": "Mawar sort of came into existence as a country in the… in the turbulent times after the plague and the fall of Drankor, and so there was lots of, like, crazy monsters in the ocean and things like that. And so Guzu was, like, instrumental in some of the early defenses of",
-          "raw": "[u0409 | 00:37:35.410-00:37:53.399 | DM] Mawar sort of came into existence as a country in the… in the turbulent times after the plague and the fall of Drankor, and so there was lots of, like, crazy monsters in the ocean and things like that. And so Guzu was, like, instrumental in some of the early defenses of"
+          "text": "Mawar sort of came into existence as a country in the… in the turbulent times after the plague and the fall of Drankor, and so there was lots of, like, crazy monsters in the ocean and things like that. And so Guzo was, like, instrumental in some of the early defenses of",
+          "raw": "[u0409 | 00:37:35.410-00:37:53.399 | DM] Mawar sort of came into existence as a country in the… in the turbulent times after the plague and the fall of Drankor, and so there was lots of, like, crazy monsters in the ocean and things like that. And so Guzo was, like, instrumental in some of the early defenses of"
         },
         {
           "uid": "u0410",
@@ -2656,8 +2662,8 @@
         {
           "uid": "u0415",
           "header": "[u0415 | 00:38:25.680-00:38:40.589 | DM]",
-          "text": "But yes, there's… you know, so there's… there's, like, statues to Guzu around the town, there's, like, the church is, you know, St. Guzu's or whatever, I don't actually know what the naming conventions would be, but there's definitely a…",
-          "raw": "[u0415 | 00:38:25.680-00:38:40.589 | DM] But yes, there's… you know, so there's… there's, like, statues to Guzu around the town, there's, like, the church is, you know, St. Guzu's or whatever, I don't actually know what the naming conventions would be, but there's definitely a…"
+          "text": "But yes, there's… you know, so there's… there's, like, statues to Guzo around the town, there's, like, the church is, you know, St. Guzo's or whatever, I don't actually know what the naming conventions would be, but there's definitely a…",
+          "raw": "[u0415 | 00:38:25.680-00:38:40.589 | DM] But yes, there's… you know, so there's… there's, like, statues to Guzo around the town, there's, like, the church is, you know, St. Guzo's or whatever, I don't actually know what the naming conventions would be, but there's definitely a…"
         },
         {
           "uid": "u0416",
@@ -2920,8 +2926,8 @@
         {
           "uid": "u0459",
           "header": "[u0459 | 00:43:27.770-00:43:34.219 | Wazir]",
-          "text": "this, this woman, I'll gesture to Raina, seems to,",
-          "raw": "[u0459 | 00:43:27.770-00:43:34.219 | Wazir] this, this woman, I'll gesture to Raina, seems to,"
+          "text": "this, this woman, I'll gesture to Rayna, seems to,",
+          "raw": "[u0459 | 00:43:27.770-00:43:34.219 | Wazir] this, this woman, I'll gesture to Rayna, seems to,"
         },
         {
           "uid": "u0460",
@@ -2938,8 +2944,8 @@
         {
           "uid": "u0462",
           "header": "[u0462 | 00:43:46.270-00:43:51.530 | Wazir]",
-          "text": "But it's, something to do with a statue of Guzu?",
-          "raw": "[u0462 | 00:43:46.270-00:43:51.530 | Wazir] But it's, something to do with a statue of Guzu?"
+          "text": "But it's, something to do with a statue of Guzo?",
+          "raw": "[u0462 | 00:43:46.270-00:43:51.530 | Wazir] But it's, something to do with a statue of Guzo?"
         },
         {
           "uid": "u0463",
@@ -2968,8 +2974,8 @@
         {
           "uid": "u0467",
           "header": "[u0467 | 00:43:58.300-00:44:00.850 | DM]",
-          "text": "statues of Guzu around town, huh?",
-          "raw": "[u0467 | 00:43:58.300-00:44:00.850 | DM] statues of Guzu around town, huh?"
+          "text": "statues of Guzo around town, huh?",
+          "raw": "[u0467 | 00:43:58.300-00:44:00.850 | DM] statues of Guzo around town, huh?"
         },
         {
           "uid": "u0468",
@@ -3082,8 +3088,8 @@
         {
           "uid": "u0486",
           "header": "[u0486 | 00:45:43.090-00:46:00.449 | DM]",
-          "text": "Interesting, there… I do believe that many years ago, there was a shrine built to Guzu.",
-          "raw": "[u0486 | 00:45:43.090-00:46:00.449 | DM] Interesting, there… I do believe that many years ago, there was a shrine built to Guzu."
+          "text": "Interesting, there… I do believe that many years ago, there was a shrine built to Guzo.",
+          "raw": "[u0486 | 00:45:43.090-00:46:00.449 | DM] Interesting, there… I do believe that many years ago, there was a shrine built to Guzo."
         },
         {
           "uid": "u0487",
@@ -3250,8 +3256,8 @@
         {
           "uid": "u0514",
           "header": "[u0514 | 00:48:47.240-00:48:53.630 | Ryu]",
-          "text": "Raina, is there anything else you can tell us? I mean, now we've got a general area, we could just go search out there, but, you know, might take a…",
-          "raw": "[u0514 | 00:48:47.240-00:48:53.630 | Ryu] Raina, is there anything else you can tell us? I mean, now we've got a general area, we could just go search out there, but, you know, might take a…"
+          "text": "Rayna, is there anything else you can tell us? I mean, now we've got a general area, we could just go search out there, but, you know, might take a…",
+          "raw": "[u0514 | 00:48:47.240-00:48:53.630 | Ryu] Rayna, is there anything else you can tell us? I mean, now we've got a general area, we could just go search out there, but, you know, might take a…"
         },
         {
           "uid": "u0515",
@@ -3763,7 +3769,8 @@
           "text": "Take us on my boat, and we can just cruise over there in about an hour, and then…",
           "raw": "[u0599 | 00:56:02.730-00:56:08.080 | Ryu] Take us on my boat, and we can just cruise over there in about an hour, and then…"
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -3772,15 +3779,15 @@
         "startUid": "u0600",
         "endUid": "u0777",
         "lineCount": 178,
-        "dateStart": "1749-05-26",
+        "dateStart": "1749-05-27",
         "dateEnd": null,
-        "timeWindow": "evening",
+        "timeWindow": "morning",
         "containsCombat": false,
-        "boundaryReason": "The next phase is the search itself: the party heads to the cliffs, uses Ryu's scouting and Ovina's memory to identify the right sea cave, and confirms that the old shrine of Guzu collapsed about a century earlier.",
+        "boundaryReason": "The next phase is the next day's search itself: the party takes Ryu's boat to the North Cliff, uses scouting and local memory to find the right collapsed sea cave, and confirms they have reached the buried shrine of Guzo.",
         "dateEvidence": [
-          "the party leaves the Leviathan immediately after the dinner-time discussion",
-          "the cave search proceeds as one uninterrupted outing with no sleep or return to town in between",
-          "u0777 still frames the shrine as the same-site objective discovered on that May 26 excursion"
+          "u0625 explicitly says, 'So the next morning'",
+          "u0626-u0629 describe a bright, calm day after the previous evening's storm",
+          "u0634-u0637 place the party on Ryu's boat heading out after breakfast rather than continuing the May 26 tavern scene"
         ],
         "startIndex": 599,
         "endIndex": 776
@@ -3794,12 +3801,14 @@
       "nextBeat": {
         "beatId": "beat-004",
         "title": "Into the Sea Cave",
-        "dateStart": "1749-05-26",
+        "dateStart": "1749-05-27",
         "dateEnd": null
       },
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 5,
         "drStart": null,
         "drEnd": null,
@@ -3842,7 +3851,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0600",
           "header": "[u0600 | 00:56:08.770-00:56:13.059 | Ryu]",
@@ -3918,8 +3927,8 @@
         {
           "uid": "u0612",
           "header": "[u0612 | 00:57:10.380-00:57:15.049 | Ryu]",
-          "text": "Rena, do you wanna join us, or do you wanna… is this more of a…",
-          "raw": "[u0612 | 00:57:10.380-00:57:15.049 | Ryu] Rena, do you wanna join us, or do you wanna… is this more of a…"
+          "text": "Rayna, do you wanna join us, or do you wanna… is this more of a…",
+          "raw": "[u0612 | 00:57:10.380-00:57:15.049 | Ryu] Rayna, do you wanna join us, or do you wanna… is this more of a…"
         },
         {
           "uid": "u0613",
@@ -4062,8 +4071,8 @@
         {
           "uid": "u0636",
           "header": "[u0636 | 00:59:16.060-00:59:21.019 | DM]",
-          "text": "All of you, plus… Plus, Raina.",
-          "raw": "[u0636 | 00:59:16.060-00:59:21.019 | DM] All of you, plus… Plus, Raina."
+          "text": "All of you, plus… Plus, Rayna.",
+          "raw": "[u0636 | 00:59:16.060-00:59:21.019 | DM] All of you, plus… Plus, Rayna."
         },
         {
           "uid": "u0637",
@@ -4506,8 +4515,8 @@
         {
           "uid": "u0710",
           "header": "[u0710 | 01:04:54.620-01:05:02.210 | DM]",
-          "text": "into something else, and it's roughly in the place where Raina said it should be. Or, sorry, where Ovina, the dwarf, said it should be.",
-          "raw": "[u0710 | 01:04:54.620-01:05:02.210 | DM] into something else, and it's roughly in the place where Raina said it should be. Or, sorry, where Ovina, the dwarf, said it should be."
+          "text": "into something else, and it's roughly in the place where Rayna said it should be. Or, sorry, where Ovina, the dwarf, said it should be.",
+          "raw": "[u0710 | 01:04:54.620-01:05:02.210 | DM] into something else, and it's roughly in the place where Rayna said it should be. Or, sorry, where Ovina, the dwarf, said it should be."
         },
         {
           "uid": "u0711",
@@ -4884,8 +4893,8 @@
         {
           "uid": "u0773",
           "header": "[u0773 | 01:08:53.040-01:09:10.270 | DM]",
-          "text": "statue of Guzu the Mariner on a white sandy beach with warm, glowing blue light filling the space. They realized it was a cave where a shrine had been built, and between Ryu's cartography and talking to a dwarf who remembered the cave and various other clues.",
-          "raw": "[u0773 | 01:08:53.040-01:09:10.270 | DM] statue of Guzu the Mariner on a white sandy beach with warm, glowing blue light filling the space. They realized it was a cave where a shrine had been built, and between Ryu's cartography and talking to a dwarf who remembered the cave and various other clues."
+          "text": "statue of Guzo the Mariner on a white sandy beach with warm, glowing blue light filling the space. They realized it was a cave where a shrine had been built, and between Ryu's cartography and talking to a dwarf who remembered the cave and various other clues.",
+          "raw": "[u0773 | 01:08:53.040-01:09:10.270 | DM] statue of Guzo the Mariner on a white sandy beach with warm, glowing blue light filling the space. They realized it was a cave where a shrine had been built, and between Ryu's cartography and talking to a dwarf who remembered the cave and various other clues."
         },
         {
           "uid": "u0774",
@@ -4902,8 +4911,8 @@
         {
           "uid": "u0776",
           "header": "[u0776 | 01:09:15.729-01:09:22.270 | DM]",
-          "text": "It used to be a popular shrine to this… basically a saint, Guzu the Mariner, a saint of Mos Numena.",
-          "raw": "[u0776 | 01:09:15.729-01:09:22.270 | DM] It used to be a popular shrine to this… basically a saint, Guzu the Mariner, a saint of Mos Numena."
+          "text": "It used to be a popular shrine to this… basically a saint, Guzo the Mariner, a saint of Mos Numena.",
+          "raw": "[u0776 | 01:09:15.729-01:09:22.270 | DM] It used to be a popular shrine to this… basically a saint, Guzo the Mariner, a saint of Mos Numena."
         },
         {
           "uid": "u0777",
@@ -4911,7 +4920,8 @@
           "text": "The cave collapsed 100 years ago.",
           "raw": "[u0777 | 01:09:22.680-01:09:25.250 | DM] The cave collapsed 100 years ago."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -4920,15 +4930,15 @@
         "startUid": "u0778",
         "endUid": "u1037",
         "lineCount": 260,
-        "dateStart": "1749-05-26",
+        "dateStart": "1749-05-27",
         "dateEnd": null,
-        "timeWindow": "night",
+        "timeWindow": "morning",
         "containsCombat": false,
         "boundaryReason": "Once they dive through the blasted opening, the whole beat is about first contact inside the cave: scouting the beach, spotting the water creatures, approaching the ruined temple, and browbeating the trapped minions into cooperating and leading them inward.",
         "dateEvidence": [
-          "this beat begins immediately after the cliffside search locates the entrance",
-          "the cave incursion is a continuation of the same outing after dinner, with no evidence of a new day",
-          "the move from shoreline scouting to coercing the minions happens in one continuous underground scene that reads as later that same night"
+          "this beat begins immediately after the morning scouting run finds the collapsed entrance",
+          "nothing between beats 003 and 004 indicates a rest or date change",
+          "the dive, beach approach, and first exchange with the shrine creatures all continue the same morning cave expedition"
         ],
         "startIndex": 777,
         "endIndex": 1036
@@ -4936,18 +4946,20 @@
       "previousBeat": {
         "beatId": "beat-003",
         "title": "Finding the Buried Shrine",
-        "dateStart": "1749-05-26",
+        "dateStart": "1749-05-27",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "beat-005",
-        "title": "Secrets of Guzu's Shrine",
-        "dateStart": "1749-05-26",
+        "title": "Secrets of Guzo's Shrine",
+        "dateStart": "1749-05-27",
         "dateEnd": null
       },
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 5,
         "drStart": null,
         "drEnd": null,
@@ -4990,7 +5002,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0778",
           "header": "[u0778 | 01:09:25.310-01:09:31.960 | DM]",
@@ -5210,8 +5222,8 @@
         {
           "uid": "u0814",
           "header": "[u0814 | 01:12:50.150-01:12:59.090 | Ryu]",
-          "text": "Yeah, Ryu will tell everybody what he sees, and in particular, Raina, like, what's your reaction to this? Do you have any idea what these creatures are?",
-          "raw": "[u0814 | 01:12:50.150-01:12:59.090 | Ryu] Yeah, Ryu will tell everybody what he sees, and in particular, Raina, like, what's your reaction to this? Do you have any idea what these creatures are?"
+          "text": "Yeah, Ryu will tell everybody what he sees, and in particular, Rayna, like, what's your reaction to this? Do you have any idea what these creatures are?",
+          "raw": "[u0814 | 01:12:50.150-01:12:59.090 | Ryu] Yeah, Ryu will tell everybody what he sees, and in particular, Rayna, like, what's your reaction to this? Do you have any idea what these creatures are?"
         },
         {
           "uid": "u0815",
@@ -6551,24 +6563,25 @@
           "text": "Where is the… how do you… Erase follower… okay.",
           "raw": "[u1037 | 01:27:49.190-01:27:52.820 | DM] Where is the… how do you… Erase follower… okay."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
         "beatId": "beat-005",
-        "title": "Secrets of Guzu's Shrine",
+        "title": "Secrets of Guzo's Shrine",
         "startUid": "u1038",
         "endUid": "u1404",
         "lineCount": 367,
-        "dateStart": "1749-05-26",
+        "dateStart": "1749-05-27",
         "dateEnd": null,
-        "timeWindow": "night",
+        "timeWindow": "midday",
         "containsCombat": false,
         "boundaryReason": "Inside the temple the party investigates the statue, inscriptions, offerings, and chapel, discovers the prayer that opens the hidden passage, and reveals the trapped water boss holding the song fragment behind the vanished stone door.",
         "dateEvidence": [
-          "the shrine exploration follows directly from the cave-beach negotiation with no pause",
-          "the secret-door prayer and reveal of the inner chamber all occur before initiative and within the same cave expedition",
-          "no transcript cue suggests dawn, rest, or any date advance before the boss confrontation begins"
+          "the shrine exploration follows directly from the morning cave approach with no pause or return to town",
+          "the longer search of the chapel, books, offerings, and hidden door reads as later in the same outing",
+          "there is no date rollover before the inner chamber reveal, only continued investigation deeper in the shrine"
         ],
         "startIndex": 1037,
         "endIndex": 1403
@@ -6576,18 +6589,20 @@
       "previousBeat": {
         "beatId": "beat-004",
         "title": "Into the Sea Cave",
-        "dateStart": "1749-05-26",
+        "dateStart": "1749-05-27",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "beat-006",
         "title": "A Bad Deal Offered",
-        "dateStart": "1749-05-26",
+        "dateStart": "1749-05-27",
         "dateEnd": null
       },
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 5,
         "drStart": null,
         "drEnd": null,
@@ -6630,7 +6645,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1038",
           "header": "[u1038 | 01:27:55.240-01:27:59.969 | DM]",
@@ -6694,14 +6709,14 @@
         {
           "uid": "u1048",
           "header": "[u1048 | 01:28:56.240-01:28:58.870 | DM]",
-          "text": "of Guzu, exactly as…",
-          "raw": "[u1048 | 01:28:56.240-01:28:58.870 | DM] of Guzu, exactly as…"
+          "text": "of Guzo, exactly as…",
+          "raw": "[u1048 | 01:28:56.240-01:28:58.870 | DM] of Guzo, exactly as…"
         },
         {
           "uid": "u1049",
           "header": "[u1049 | 01:28:58.870-01:29:05.949 | DM]",
-          "text": "Trok drew from Raina's description. In front of the statue is an altar.",
-          "raw": "[u1049 | 01:28:58.870-01:29:05.949 | DM] Trok drew from Raina's description. In front of the statue is an altar."
+          "text": "Trok drew from Rayna's description. In front of the statue is an altar.",
+          "raw": "[u1049 | 01:28:58.870-01:29:05.949 | DM] Trok drew from Rayna's description. In front of the statue is an altar."
         },
         {
           "uid": "u1050",
@@ -6850,8 +6865,8 @@
         {
           "uid": "u1074",
           "header": "[u1074 | 01:31:38.010-01:31:50.839 | DM]",
-          "text": "are the words in, Mawarin, kneel and pray Guzu's ancestor's prayer to open the passage to the sea.",
-          "raw": "[u1074 | 01:31:38.010-01:31:50.839 | DM] are the words in, Mawarin, kneel and pray Guzu's ancestor's prayer to open the passage to the sea."
+          "text": "are the words in, Mawarin, kneel and pray Guzo's ancestor's prayer to open the passage to the sea.",
+          "raw": "[u1074 | 01:31:38.010-01:31:50.839 | DM] are the words in, Mawarin, kneel and pray Guzo's ancestor's prayer to open the passage to the sea."
         },
         {
           "uid": "u1075",
@@ -7660,8 +7675,8 @@
         {
           "uid": "u1209",
           "header": "[u1209 | 01:43:25.710-01:43:28.359 | Ryu]",
-          "text": "Should I go get Raina, and, like, escort her in here?",
-          "raw": "[u1209 | 01:43:25.710-01:43:28.359 | Ryu] Should I go get Raina, and, like, escort her in here?"
+          "text": "Should I go get Rayna, and, like, escort her in here?",
+          "raw": "[u1209 | 01:43:25.710-01:43:28.359 | Ryu] Should I go get Rayna, and, like, escort her in here?"
         },
         {
           "uid": "u1210",
@@ -7762,8 +7777,8 @@
         {
           "uid": "u1226",
           "header": "[u1226 | 01:44:11.770-01:44:16.739 | DM]",
-          "text": "Kneel and pray Guzu's ancestor prayer to open the passage to the sea.",
-          "raw": "[u1226 | 01:44:11.770-01:44:16.739 | DM] Kneel and pray Guzu's ancestor prayer to open the passage to the sea."
+          "text": "Kneel and pray Guzo's ancestor prayer to open the passage to the sea.",
+          "raw": "[u1226 | 01:44:11.770-01:44:16.739 | DM] Kneel and pray Guzo's ancestor prayer to open the passage to the sea."
         },
         {
           "uid": "u1227",
@@ -7810,8 +7825,8 @@
         {
           "uid": "u1234",
           "header": "[u1234 | 01:44:48.580-01:44:52.919 | Nerissa]",
-          "text": "Nerissa flips through the prayer book to see if there's one called Guzu's Ancestor Prayer.",
-          "raw": "[u1234 | 01:44:48.580-01:44:52.919 | Nerissa] Nerissa flips through the prayer book to see if there's one called Guzu's Ancestor Prayer."
+          "text": "Nerissa flips through the prayer book to see if there's one called Guzo's Ancestor Prayer.",
+          "raw": "[u1234 | 01:44:48.580-01:44:52.919 | Nerissa] Nerissa flips through the prayer book to see if there's one called Guzo's Ancestor Prayer."
         },
         {
           "uid": "u1235",
@@ -8833,7 +8848,8 @@
           "text": "Let me second.",
           "raw": "[u1404 | 01:56:20.630-01:56:21.490 | Trok] Let me second."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -8842,34 +8858,36 @@
         "startUid": "u1405",
         "endUid": "u1612",
         "lineCount": 208,
-        "dateStart": "1749-05-26",
+        "dateStart": "1749-05-27",
         "dateEnd": null,
-        "timeWindow": "night",
+        "timeWindow": "midday",
         "containsCombat": false,
         "boundaryReason": "Before initiative starts, the party tries to bluff and bargain with the trapped elemental, learns how the blue light and shard confinement work, debates whether to let him go, and finally shifts from talk to a plan to bottle him up and fight in the temple.",
         "dateEvidence": [
-          "this scene begins immediately on the boss reveal, before anyone rolls initiative",
-          "the entire exchange is one continuous negotiation and tactical debate in the same temple chamber",
-          "u1613 is the first actual initiative call, so everything before it remains part of the same uninterrupted nighttime standoff"
+          "this scene begins immediately on the inner chamber reveal, before anyone rolls initiative",
+          "the entire exchange is one continuous negotiation and tactical debate in the same midday shrine scene",
+          "u1613 is the first actual initiative call, so everything before it remains part of that uninterrupted confrontation"
         ],
         "startIndex": 1404,
         "endIndex": 1611
       },
       "previousBeat": {
         "beatId": "beat-005",
-        "title": "Secrets of Guzu's Shrine",
-        "dateStart": "1749-05-26",
+        "title": "Secrets of Guzo's Shrine",
+        "dateStart": "1749-05-27",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "beat-007",
         "title": "Jet of Water",
-        "dateStart": "1749-05-26",
+        "dateStart": "1749-05-27",
         "dateEnd": null
       },
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 5,
         "drStart": null,
         "drEnd": null,
@@ -8912,7 +8930,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1405",
           "header": "[u1405 | 01:56:22.010-01:56:28.250 | Nerissa]",
@@ -9306,8 +9324,8 @@
         {
           "uid": "u1470",
           "header": "[u1470 | 02:00:29.230-02:00:31.769 | Ryu]",
-          "text": "Yeah, we leave with the shard, we get it to Raina, and then we're done.",
-          "raw": "[u1470 | 02:00:29.230-02:00:31.769 | Ryu] Yeah, we leave with the shard, we get it to Raina, and then we're done."
+          "text": "Yeah, we leave with the shard, we get it to Rayna, and then we're done.",
+          "raw": "[u1470 | 02:00:29.230-02:00:31.769 | Ryu] Yeah, we leave with the shard, we get it to Rayna, and then we're done."
         },
         {
           "uid": "u1471",
@@ -9444,8 +9462,8 @@
         {
           "uid": "u1493",
           "header": "[u1493 | 02:01:38.870-02:01:41.219 | Ryu]",
-          "text": "Go, go, go to Raina, and then run here!",
-          "raw": "[u1493 | 02:01:38.870-02:01:41.219 | Ryu] Go, go, go to Raina, and then run here!"
+          "text": "Go, go, go to Rayna, and then run here!",
+          "raw": "[u1493 | 02:01:38.870-02:01:41.219 | Ryu] Go, go, go to Rayna, and then run here!"
         },
         {
           "uid": "u1494",
@@ -9468,8 +9486,8 @@
         {
           "uid": "u1497",
           "header": "[u1497 | 02:01:54.150-02:02:02.469 | DM]",
-          "text": "There is a possibility that if you just give the shard to Raina and she sails off, then two days later, he shows up in the ocean, sinks her boat, takes the shard.",
-          "raw": "[u1497 | 02:01:54.150-02:02:02.469 | DM] There is a possibility that if you just give the shard to Raina and she sails off, then two days later, he shows up in the ocean, sinks her boat, takes the shard."
+          "text": "There is a possibility that if you just give the shard to Rayna and she sails off, then two days later, he shows up in the ocean, sinks her boat, takes the shard.",
+          "raw": "[u1497 | 02:01:54.150-02:02:02.469 | DM] There is a possibility that if you just give the shard to Rayna and she sails off, then two days later, he shows up in the ocean, sinks her boat, takes the shard."
         },
         {
           "uid": "u1498",
@@ -10161,7 +10179,8 @@
           "text": "Okay.",
           "raw": "[u1612 | 02:07:42.180-02:07:43.390 | Ryu] Okay."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -10170,15 +10189,15 @@
         "startUid": "u1613",
         "endUid": "u1908",
         "lineCount": 296,
-        "dateStart": "1749-05-26",
+        "dateStart": "1749-05-27",
         "dateEnd": null,
-        "timeWindow": "night",
+        "timeWindow": "afternoon",
         "containsCombat": true,
         "boundaryReason": "Initiative begins with the party's attempted bottleneck plan turning into open combat: the boss lashes out with the first massive water jet, the front line scrambles to contain the doorway, and the opening exchange ends with Geo dropping and the boss still entrenched.",
         "dateEvidence": [
           "u1613 explicitly calls for initiative",
           "the action from the first water jet through Geo's collapse is one continuous opening combat phase with no reset",
-          "nothing in this fight segment suggests any date change beyond the same night in the shrine"
+          "this is still the same May 27 shrine expedition, with the fight now occupying the later part of the day"
         ],
         "startIndex": 1612,
         "endIndex": 1907
@@ -10186,18 +10205,20 @@
       "previousBeat": {
         "beatId": "beat-006",
         "title": "A Bad Deal Offered",
-        "dateStart": "1749-05-26",
+        "dateStart": "1749-05-27",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "beat-008",
         "title": "Blue Light Advantage",
-        "dateStart": "1749-05-26",
+        "dateStart": "1749-05-27",
         "dateEnd": null
       },
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 5,
         "drStart": null,
         "drEnd": null,
@@ -10240,7 +10261,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1613",
           "header": "[u1613 | 02:07:43.390-02:07:47.170 | DM]",
@@ -12017,43 +12038,46 @@
           "text": "Oh, good.",
           "raw": "[u1908 | 02:25:56.890-02:25:57.989 | DM] Oh, good."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
         "beatId": "beat-008",
         "title": "Blue Light Advantage",
         "startUid": "u1909",
-        "endUid": "u2171",
-        "lineCount": 263,
-        "dateStart": "1749-05-26",
+        "endUid": "u2260",
+        "lineCount": 352,
+        "dateStart": "1749-05-27",
         "dateEnd": null,
-        "timeWindow": "night",
+        "timeWindow": "afternoon",
         "containsCombat": true,
-        "boundaryReason": "The middle of the fight turns in the party's favor: Nerissa's spell and the shrine's blue glow drive the boss back, the minions flood the stairs, and focused blows from the party leave the trapped elemental bloodied and calling for help.",
+        "boundaryReason": "The middle of the fight turns in the party's favor: Nerissa's spell and the shrine's blue glow drive the boss back, the minions flood the stairs, and focused blows leave the trapped elemental badly wounded before it changes tactics.",
         "dateEvidence": [
           "this beat begins mid-initiative directly after Geo falls",
-          "the transcript presents the blue light's interference and the boss's bloodied state as one continuous combat phase",
-          "there is no rest, withdrawal, or scene change before u2171 marks the boss reeling under Wazir's hits"
+          "the transcript presents the blue light's interference, the boss's bloodied state, and the minions' grapple attacks as one continuous combat phase",
+          "u2249 says the boss is below a quarter health, and u2260 ends the minions' turn before the boss shifts into mist"
         ],
         "startIndex": 1908,
-        "endIndex": 2170
+        "endIndex": 2259
       },
       "previousBeat": {
         "beatId": "beat-007",
         "title": "Jet of Water",
-        "dateStart": "1749-05-26",
+        "dateStart": "1749-05-27",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "beat-009",
-        "title": "Mist and Running Water",
-        "dateStart": "1749-05-26",
+        "title": "Mist and Last Blows",
+        "dateStart": "1749-05-27",
         "dateEnd": null
       },
       "session": {
         "title": null,
         "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 5,
         "drStart": null,
         "drEnd": null,
@@ -12096,7 +12120,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1909",
           "header": "[u1909 | 02:25:58.830-02:26:01.300 | DM]",
@@ -13674,87 +13698,7 @@
           "header": "[u2171 | 02:44:10.830-02:44:25.820 | DM]",
           "text": "With these blows from Wazir, the creature staggers back a little, and you can see it beginning to sort of, look around, nervous, like, uncertain what's happening, yelling for its minions to help.",
           "raw": "[u2171 | 02:44:10.830-02:44:25.820 | DM] With these blows from Wazir, the creature staggers back a little, and you can see it beginning to sort of, look around, nervous, like, uncertain what's happening, yelling for its minions to help."
-        }
-      ]
-    },
-    {
-      "beat": {
-        "beatId": "beat-009",
-        "title": "Mist and Running Water",
-        "startUid": "u2172",
-        "endUid": "u2445",
-        "lineCount": 274,
-        "dateStart": "1749-05-26",
-        "dateEnd": null,
-        "timeWindow": "night",
-        "containsCombat": true,
-        "boundaryReason": "With the boss desperate, the battle shifts again: scalding water erupts near Ryu, the minions swarm and start breaking, the elemental turns to mist to slip through the wall, and the party fights to keep control of the beach-temple choke point.",
-        "dateEvidence": [
-          "the beat starts as the bloodied boss's allies and ranged attacks change the fight's shape",
-          "the mist-form escape attempt and the ongoing minion melee are part of the same uninterrupted initiative sequence",
-          "the phase ends only when the boss slips through the wall and the opportunity attacks resolve"
-        ],
-        "startIndex": 2171,
-        "endIndex": 2444
-      },
-      "previousBeat": {
-        "beatId": "beat-008",
-        "title": "Blue Light Advantage",
-        "dateStart": "1749-05-26",
-        "dateEnd": null
-      },
-      "nextBeat": {
-        "beatId": "beat-010",
-        "title": "The Song Fragment Returns",
-        "dateStart": "1749-05-26",
-        "dateEnd": null
-      },
-      "session": {
-        "title": null,
-        "campaign": "Mawar Adventures",
-        "sessionNumber": 5,
-        "drStart": null,
-        "drEnd": null,
-        "realWorldDate": "2026-03-10",
-        "participants": [
-          {
-            "name": "David Kong",
-            "role": null,
-            "gameRole": "Ryu"
-          },
-          {
-            "name": "Mike Sackton",
-            "role": null,
-            "gameRole": "Wazir"
-          },
-          {
-            "name": "Eric Rosenbaum",
-            "role": null,
-            "gameRole": "Trok"
-          },
-          {
-            "name": "John Leeker",
-            "role": null,
-            "gameRole": "Kaleho"
-          },
-          {
-            "name": "Kate Sackton",
-            "role": null,
-            "gameRole": "Nerissa"
-          },
-          {
-            "name": "David Schwartz",
-            "role": null,
-            "gameRole": "Ander"
-          },
-          {
-            "name": "Tim Sackton",
-            "role": null,
-            "gameRole": "DM"
-          }
-        ]
-      },
-      "transcriptLines": [
+        },
         {
           "uid": "u2172",
           "header": "[u2172 | 02:44:26.380-02:44:35.550 | DM]",
@@ -14288,7 +14232,90 @@
           "header": "[u2260 | 02:51:21.220-02:51:25.080 | DM]",
           "text": "So both attacks miss Ryu, and that ends their turns.",
           "raw": "[u2260 | 02:51:21.220-02:51:25.080 | DM] So both attacks miss Ryu, and that ends their turns."
-        },
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "beat-009",
+        "title": "Mist and Last Blows",
+        "startUid": "u2261",
+        "endUid": "u2691",
+        "lineCount": 431,
+        "dateStart": "1749-05-27",
+        "dateEnd": null,
+        "timeWindow": "afternoon",
+        "containsCombat": true,
+        "boundaryReason": "With the boss desperate, the battle shifts into its final phase: the elemental turns to mist, slips through the wall, punishes fleeing minions, and is finally destroyed before the party finishes the last creatures.",
+        "dateEvidence": [
+          "u2261-u2267 start the mist-form escape phase after the prior minion turn ends",
+          "the retreating minions, opportunity attacks, and boss pursuit remain one uninterrupted initiative sequence",
+          "u2683-u2688 describe the boss collapsing and dying, and u2690-u2691 compress the final creature cleanup into the same combat aftermath"
+        ],
+        "startIndex": 2260,
+        "endIndex": 2690
+      },
+      "previousBeat": {
+        "beatId": "beat-008",
+        "title": "Blue Light Advantage",
+        "dateStart": "1749-05-27",
+        "dateEnd": null
+      },
+      "nextBeat": {
+        "beatId": "beat-010",
+        "title": "The Fragment Returns",
+        "dateStart": "1749-05-27",
+        "dateEnd": null
+      },
+      "session": {
+        "title": null,
+        "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
+        "sessionNumber": 5,
+        "drStart": null,
+        "drEnd": null,
+        "realWorldDate": "2026-03-10",
+        "participants": [
+          {
+            "name": "David Kong",
+            "role": null,
+            "gameRole": "Ryu"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "Wazir"
+          },
+          {
+            "name": "Eric Rosenbaum",
+            "role": null,
+            "gameRole": "Trok"
+          },
+          {
+            "name": "John Leeker",
+            "role": null,
+            "gameRole": "Kaleho"
+          },
+          {
+            "name": "Kate Sackton",
+            "role": null,
+            "gameRole": "Nerissa"
+          },
+          {
+            "name": "David Schwartz",
+            "role": null,
+            "gameRole": "Ander"
+          },
+          {
+            "name": "Tim Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
         {
           "uid": "u2261",
           "header": "[u2261 | 02:51:25.430-02:51:31.080 | DM]",
@@ -15398,82 +15425,7 @@
           "header": "[u2445 | 03:02:49.540-03:02:50.440 | Trok]",
           "text": "27.",
           "raw": "[u2445 | 03:02:49.540-03:02:50.440 | Trok] 27."
-        }
-      ]
-    },
-    {
-      "beat": {
-        "beatId": "beat-010",
-        "title": "The Song Fragment Returns",
-        "startUid": "u2446",
-        "endUid": "u2755",
-        "lineCount": 310,
-        "dateStart": "1749-05-26",
-        "dateEnd": null,
-        "timeWindow": "night",
-        "containsCombat": true,
-        "boundaryReason": "The final stretch covers the fight's cleanup and immediate aftermath: the remaining creatures flee or are cut down, the boss dies with a threat in the wind, Nerissa hears the crystal's grateful song, the party loots what little remains, and they return the fragment to Raina before the epilogue in Hamri.",
-        "dateEvidence": [
-          "this beat begins immediately after the boss's wall-escape attempt resolves",
-          "u2690-u2691 compresses the last enemy cleanup into the same combat aftermath rather than a new scene on another day",
-          "u2718 returns the party straight to Raina and u2752 frames Hamri settling back down that same night, with no date rollover"
-        ],
-        "startIndex": 2445,
-        "endIndex": 2754
-      },
-      "previousBeat": {
-        "beatId": "beat-009",
-        "title": "Mist and Running Water",
-        "dateStart": "1749-05-26",
-        "dateEnd": null
-      },
-      "nextBeat": null,
-      "session": {
-        "title": null,
-        "campaign": "Mawar Adventures",
-        "sessionNumber": 5,
-        "drStart": null,
-        "drEnd": null,
-        "realWorldDate": "2026-03-10",
-        "participants": [
-          {
-            "name": "David Kong",
-            "role": null,
-            "gameRole": "Ryu"
-          },
-          {
-            "name": "Mike Sackton",
-            "role": null,
-            "gameRole": "Wazir"
-          },
-          {
-            "name": "Eric Rosenbaum",
-            "role": null,
-            "gameRole": "Trok"
-          },
-          {
-            "name": "John Leeker",
-            "role": null,
-            "gameRole": "Kaleho"
-          },
-          {
-            "name": "Kate Sackton",
-            "role": null,
-            "gameRole": "Nerissa"
-          },
-          {
-            "name": "David Schwartz",
-            "role": null,
-            "gameRole": "Ander"
-          },
-          {
-            "name": "Tim Sackton",
-            "role": null,
-            "gameRole": "DM"
-          }
-        ]
-      },
-      "transcriptLines": [
+        },
         {
           "uid": "u2446",
           "header": "[u2446 | 03:02:51.080-03:02:51.800 | DM]",
@@ -16947,9 +16899,87 @@
         {
           "uid": "u2691",
           "header": "[u2691 | 03:19:44.470-03:19:51.679 | DM]",
-          "text": "kill all these last two creatures, keeping them from swimming off and potentially attacking Raina.",
-          "raw": "[u2691 | 03:19:44.470-03:19:51.679 | DM] kill all these last two creatures, keeping them from swimming off and potentially attacking Raina."
-        },
+          "text": "kill all these last two creatures, keeping them from swimming off and potentially attacking Rayna.",
+          "raw": "[u2691 | 03:19:44.470-03:19:51.679 | DM] kill all these last two creatures, keeping them from swimming off and potentially attacking Rayna."
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "beat-010",
+        "title": "The Fragment Returns",
+        "startUid": "u2692",
+        "endUid": "u2755",
+        "lineCount": 64,
+        "dateStart": "1749-05-27",
+        "dateEnd": null,
+        "timeWindow": "afternoon",
+        "containsCombat": false,
+        "boundaryReason": "After combat ends, the party turns to the recovered crystal: Nerissa hears its grateful song, they leave the ruined shrine, return the fragment to Rayna, and close the day back at the Leviathan.",
+        "dateEvidence": [
+          "u2692 begins after u2690-u2691 resolve the last creature cleanup",
+          "u2739 explicitly says, 'That afternoon, you return to the Leviathan Inn'",
+          "the crystal vision, handoff to Rayna, and Hamri epilogue remain on May 27"
+        ],
+        "startIndex": 2691,
+        "endIndex": 2754
+      },
+      "previousBeat": {
+        "beatId": "beat-009",
+        "title": "Mist and Last Blows",
+        "dateStart": "1749-05-27",
+        "dateEnd": null
+      },
+      "nextBeat": null,
+      "session": {
+        "title": null,
+        "campaign": "Mawar Adventures",
+        "scope": null,
+        "sourceType": "transcript",
+        "sessionNumber": 5,
+        "drStart": null,
+        "drEnd": null,
+        "realWorldDate": "2026-03-10",
+        "participants": [
+          {
+            "name": "David Kong",
+            "role": null,
+            "gameRole": "Ryu"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "Wazir"
+          },
+          {
+            "name": "Eric Rosenbaum",
+            "role": null,
+            "gameRole": "Trok"
+          },
+          {
+            "name": "John Leeker",
+            "role": null,
+            "gameRole": "Kaleho"
+          },
+          {
+            "name": "Kate Sackton",
+            "role": null,
+            "gameRole": "Nerissa"
+          },
+          {
+            "name": "David Schwartz",
+            "role": null,
+            "gameRole": "Ander"
+          },
+          {
+            "name": "Tim Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
         {
           "uid": "u2692",
           "header": "[u2692 | 03:19:54.250-03:19:59.420 | DM]",
@@ -17085,8 +17115,8 @@
         {
           "uid": "u2714",
           "header": "[u2714 | 03:21:18.730-03:21:22.660 | DM]",
-          "text": "Left here for Guzu the Mariner.",
-          "raw": "[u2714 | 03:21:18.730-03:21:22.660 | DM] Left here for Guzu the Mariner."
+          "text": "Left here for Guzo the Mariner.",
+          "raw": "[u2714 | 03:21:18.730-03:21:22.660 | DM] Left here for Guzo the Mariner."
         },
         {
           "uid": "u2715",
@@ -17109,8 +17139,8 @@
         {
           "uid": "u2718",
           "header": "[u2718 | 03:21:38.080-03:21:45.220 | DM]",
-          "text": "So you swim back, and meet Raina.",
-          "raw": "[u2718 | 03:21:38.080-03:21:45.220 | DM] So you swim back, and meet Raina."
+          "text": "So you swim back, and meet Rayna.",
+          "raw": "[u2718 | 03:21:38.080-03:21:45.220 | DM] So you swim back, and meet Rayna."
         },
         {
           "uid": "u2719",
@@ -17199,8 +17229,8 @@
         {
           "uid": "u2733",
           "header": "[u2733 | 03:23:17.670-03:23:22.400 | DM]",
-          "text": "You all feel this, but Raina… Says that she'll take it.",
-          "raw": "[u2733 | 03:23:17.670-03:23:22.400 | DM] You all feel this, but Raina… Says that she'll take it."
+          "text": "You all feel this, but Rayna… Says that she'll take it.",
+          "raw": "[u2733 | 03:23:17.670-03:23:22.400 | DM] You all feel this, but Rayna… Says that she'll take it."
         },
         {
           "uid": "u2734",
@@ -17247,8 +17277,8 @@
         {
           "uid": "u2741",
           "header": "[u2741 | 03:24:03.310-03:24:05.220 | DM]",
-          "text": "Helping Raina get settled.",
-          "raw": "[u2741 | 03:24:03.310-03:24:05.220 | DM] Helping Raina get settled."
+          "text": "Helping Rayna get settled.",
+          "raw": "[u2741 | 03:24:03.310-03:24:05.220 | DM] Helping Rayna get settled."
         },
         {
           "uid": "u2742",
@@ -17334,7 +17364,8 @@
           "text": "Gars and co-op.",
           "raw": "[u2755 | 03:25:11.500-03:25:12.760 | DM] Gars and co-op."
         }
-      ]
+      ],
+      "supplementalSources": []
     }
   ]
 }

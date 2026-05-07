@@ -1,4 +1,4 @@
-# Beat Context: beat-001 - Recap and Raina's Plea
+# Beat Context: beat-001 - Recap and Rayna's Plea
 
 This file is only for producing `beat-facts.json`.
 Do not edit `beats.json`.
@@ -11,7 +11,7 @@ Do not edit `beats.json`.
 ## Beat Metadata
 
 - Beat ID: beat-001
-- Title: Recap and Raina's Plea
+- Title: Recap and Rayna's Plea
 - Range: `u0001` -> `u0246`
 - Lines: 246
 - Date Start: 1749-05-26
@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0001 | 00:00:01.730-00:00:02.980 | DM] Okay, so…
 [u0002 | 00:00:02.980-00:00:11.170 | DM] I don't have any pictures of Marwa, I'm sorry, I didn't have a chance to do the, like, image generation.
@@ -155,19 +155,19 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0073 | 00:07:13.690-00:07:16.090 | DM] But was quickly tossed out by Wazir.
 [u0074 | 00:07:16.470-00:07:23.360 | DM] The fall of 1748 lingers, with warm days and calm seas well into October.
 [u0075 | 00:07:24.000-00:07:28.360 | DM] A few folks from Chardon start trickling in, telling a different tale.
-[u0076 | 00:07:28.750-00:07:34.920 | DM] Kaiso, a scholar from Chardon with several mutual friends with Wazir, arrives at the start of October.
+[u0076 | 00:07:28.750-00:07:34.920 | DM] Kaeso, a scholar from Chardon with several mutual friends with Wazir, arrives at the start of October.
 [u0077 | 00:07:35.380-00:07:42.189 | DM] He told of a greed spreading in the heart of Chardon, a grasping need to gather all magic to the university and control it.
 [u0078 | 00:07:42.730-00:07:54.409 | DM] He didn't have all the pieces, but said that Kenzo, the human accused of thief, was nothing like the stories spread by the Chardonian agents. He was a good kid, scarred by Chardon's dark side, and a…
 [u0079 | 00:07:54.410-00:07:58.910 | DM] As a child, but always looking to connect, with the souls of other beings.
 [u0080 | 00:08:00.370-00:08:05.560 | DM] High someone was the air could frequently be found in long evening chats as the days grew shorter.
 [u0081 | 00:08:05.750-00:08:08.510 | DM] Wondering what these events meant for Mawar.
-[u0082 | 00:08:09.500-00:08:29.119 | DM] Could it be long before Chardon looked to claim Mawar itself. After all, Arian the Mistspeaker had long spoken of the Mawakel Peninsula, which is where the Mawar Confederacy is, as an important locus of elemental power, and Arian's scrolls of elemental power had turned up in Chardon recently, Kaiso had learned.
+[u0082 | 00:08:09.500-00:08:29.119 | DM] Could it be long before Chardon looked to claim Mawar itself. After all, Arian the Mistspeaker had long spoken of the Mawakel Peninsula, which is where the Mawar Confederacy is, as an important locus of elemental power, and Arian's scrolls of elemental power had turned up in Chardon recently, Kaeso had learned.
 [u0083 | 00:08:31.100-00:08:39.299 | DM] By the first storm of winter, more news. There was a war against orcs somewhere off far to the east, spreading through Dunmar and tearing the land apart.
-[u0084 | 00:08:39.520-00:08:46.569 | DM] Kaiso took this hard and spent many days alone in his room, but emerged to say that Dunmar held, though he would not say how he knew.
+[u0084 | 00:08:39.520-00:08:46.569 | DM] Kaeso took this hard and spent many days alone in his room, but emerged to say that Dunmar held, though he would not say how he knew.
 [u0085 | 00:08:47.950-00:08:59.440 | DM] That winter was mild, but still little traffic came to Hamri. The news is always slow during the cold months, when the winter gales prevent ships from traveling.
 [u0086 | 00:09:00.340-00:09:01.940 | DM] Spring arrived.
 [u0087 | 00:09:02.940-00:09:10.959 | DM] of 1749, with news of peace, it seems the fighting in Dunmar was over, though tales differed about who was king now there.
-[u0088 | 00:09:11.710-00:09:32.389 | DM] But few in Hamri really cared about the events of far-off Dunmar. The traders from Chardon whispered that something seemed wrong. While the amount of chalyte flowing into the city was greater than ever, constant shortages led to the first outbreak of cholera in years, though Kaiso would point out, the traders don't seem to count the sickness that spreads in the slums of the North Bank there.
+[u0088 | 00:09:11.710-00:09:32.389 | DM] But few in Hamri really cared about the events of far-off Dunmar. The traders from Chardon whispered that something seemed wrong. While the amount of chalyte flowing into the city was greater than ever, constant shortages led to the first outbreak of cholera in years, though Kaeso would point out, the traders don't seem to count the sickness that spreads in the slums of the North Bank there.
 [u0089 | 00:09:32.910-00:09:39.969 | DM] It was getting harder to ignore the growing number of people wandering the city, their minds consumed by chalyte overuse.
 [u0090 | 00:09:41.530-00:09:59.250 | DM] It is now May 26, 1749. Not long ago, news reached Hamri of a vicious, unprovoked magical attack at the heart of Chardon itself, caused by none other than two of the thieves, Kenzo, a Dunmari spy, and Delwath, an evil elf, corrupted by shadows.
 [u0091 | 00:10:00.740-00:10:08.829 | DM] Many had died in the Colorless Market as a fragment of Pandemonium was ripped into this world. Fausto, one of the leaders of the wizards, was.
@@ -274,7 +274,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0192 | 00:19:38.260-00:19:40.959 | DM] In the Leviathan Inn.
 [u0193 | 00:19:51.900-00:19:52.340 | Ander] Rule.
 [u0194 | 00:19:52.340-00:20:00.410 | DM] Maybe something vaguely like that. .
-[u0195 | 00:20:00.410-00:20:14.080 | DM] this woman, Raina, begins to tell you her story, and she's come looking for somebody. I mean, she doesn't… she's not from Hamri, she doesn't know anybody, but was obviously told at the port, like, you know.
+[u0195 | 00:20:00.410-00:20:14.080 | DM] this woman, Rayna, begins to tell you her story, and she's come looking for somebody. I mean, she doesn't… she's not from Hamri, she doesn't know anybody, but was obviously told at the port, like, you know.
 [u0196 | 00:20:14.440-00:20:22.909 | DM] I need help, you know, go to, go to the Leviathan, talk to Wazir, and I think Wazir is generally pretty…
 [u0197 | 00:20:23.640-00:20:30.930 | DM] you know, he's not… I assume… I'm making assumptions here, Mike, but he, you know, he'll talk to people who need help, right? He's like… Yeah, yeah, yeah.
 [u0198 | 00:20:30.930-00:20:32.420 | DM] director of Hamri kind of vibe.
@@ -304,25 +304,25 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0222 | 00:23:04.000-00:23:06.100 | DM] Hold on one sec…
 [u0223 | 00:23:12.320-00:23:18.669 | DM] You know, these dredged tales of how the ocean… ocean behaved.
 [u0224 | 00:23:19.230-00:23:31.690 | DM] And so, in her teens, when the ocean started to talk to her, she says she was not as, maybe, surprised as most others would be. She could never understand the words, but somehow they painted pictures of
-[u0225 | 00:23:32.500-00:23:44.569 | DM] strange undersea cities of kelp forests full of memories, but also of Mawar long ago, of Guzu the Mariner standing on the prow of a ship. Guzu the Mariner is, like, one of the…
+[u0225 | 00:23:32.500-00:23:44.569 | DM] strange undersea cities of kelp forests full of memories, but also of Mawar long ago, of Guzo the Mariner standing on the prow of a ship. Guzo the Mariner is, like, one of the…
 [u0226 | 00:23:44.790-00:23:50.049 | DM] heroes of Mawar, it's like… it's like a local… he's like a local saint, basically. People…
-[u0227 | 00:23:51.260-00:24:03.049 | DM] send their prayers to the Eight Divines via Guzu, at least in Hamri. And there's a bunch of these other, like, heroes of Mawar that function as saints.
+[u0227 | 00:23:51.260-00:24:03.049 | DM] send their prayers to the Eight Divines via Guzo, at least in Hamri. And there's a bunch of these other, like, heroes of Mawar that function as saints.
 [u0228 | 00:24:03.440-00:24:09.330 | DM] She was fascinated, and her father said she was… her grandfather said she was blessed.
 [u0229 | 00:24:10.490-00:24:12.579 | DM] Ten years ago, she says…
 [u0230 | 00:24:13.120-00:24:15.610 | DM] The songs of the ocean suddenly stopped.
 [u0231 | 00:24:16.920-00:24:22.219 | DM] She awoke from a nightmare of ripping and tearing to silence for the first time in years.
 [u0232 | 00:24:22.680-00:24:26.220 | DM] Caleb was nervous, not sure what it meant.
-[u0233 | 00:24:26.510-00:24:38.549 | DM] But for a while, they didn't think much of it. A few years after that, the ship was wrecked, and most of the crew, including Caleb, died, Raina survived, but it was a dark few years after that recovering.
+[u0233 | 00:24:26.510-00:24:38.549 | DM] But for a while, they didn't think much of it. A few years after that, the ship was wrecked, and most of the crew, including Caleb, died, Rayna survived, but it was a dark few years after that recovering.
 [u0234 | 00:24:39.870-00:24:45.460 | DM] But that's not why she's here, she says. She's here because a couple of weeks ago, the song suddenly returned.
 [u0235 | 00:24:45.730-00:24:48.319 | DM] Ocean started speaking to her again.
 [u0236 | 00:24:48.950-00:24:50.430 | DM] It's saying…
 [u0237 | 00:24:50.580-00:24:57.499 | DM] But something trapped under a rock, but resting on waves. It felt scared, nervous, but it wanted this…
 [u0238 | 00:24:58.600-00:25:02.220 | DM] Fragment of song, fragment of its voice back.
 [u0239 | 00:25:02.800-00:25:05.980 | DM] She saw cliffs with towers perched like teeth.
-[u0240 | 00:25:06.180-00:25:09.930 | DM] And a statue of Guzu the Mariner on a white sandy beach.
+[u0240 | 00:25:06.180-00:25:09.930 | DM] And a statue of Guzo the Mariner on a white sandy beach.
 [u0241 | 00:25:10.320-00:25:17.100 | DM] Warm glow… warm glowing blue light filling the space, some kind of cave, maybe?
 [u0242 | 00:25:17.540-00:25:20.729 | DM] The cliffs in her image look like Hamri, and…
-[u0243 | 00:25:21.240-00:25:27.000 | DM] Guzu was always associated with Hamri in Caleb's stories, and so she came here.
+[u0243 | 00:25:21.240-00:25:27.000 | DM] Guzo was always associated with Hamri in Caleb's stories, and so she came here.
 [u0244 | 00:25:28.810-00:25:36.109 | DM] She doesn't know where it is, but she thinks somewhere in the cliffs of… of Hamri.
 [u0245 | 00:25:36.800-00:25:39.460 | DM] There must be… Cave.
-[u0246 | 00:25:39.680-00:25:47.499 | DM] With a white sandy beach and a statue of Guzu. And somewhere inside the cave is something that this song of the ocean wants back.
+[u0246 | 00:25:39.680-00:25:47.499 | DM] With a white sandy beach and a statue of Guzo. And somewhere inside the cave is something that this song of the ocean wants back.
