@@ -214,7 +214,7 @@ Nerissas Faerie Fire goes off just before the ambush lands. Her spell catches tw
 - Enemies: none
 
 #### Short
-After the blast, the party patches themselves up before investigated further. Avoiding the flooded tunnel, they climb over the mound to find a dragon turtle trapped below.
+After the blast, the party patches themselves up before investigating further. Avoiding the flooded tunnel, they climb over the mound and find a dragon turtle trapped below.
 
 #### Intermediate
 The party takes a brief recovery after the explosion and decides not to enter through the flooded tunnel. Climbing the rotting mound and looking below, they can see a hidden pool, a dragon turtle with a burning black spear in his neck, and a fire mage commanding him from the shore.
@@ -236,13 +236,12 @@ With the outer defenders dead and the canoe damaged, the party pauses to patch t
 - Enemies: fire mage
 
 #### Short
-They pull the burning spear free, break the mage's concentration, and Chaessenth kills the mage.
+The mage opens fire through the roof, and continues to blast the party with fire as they attempt to remove the the burning spear and breaks the mage's concentration, finally succeeding after a devastating fight. Released from the mage's magic, Chaessenth kills him.
 
 #### Intermediate
-Ryu and Blu loosen the burning black spear, and Nerissa yanks it free while Ander pushes toward the fire mage. Chaessenth can then warn them that the mage's concentration still binds him; Ander breaks it with a flurry of attacks, and after the mage briefly catches Chaessenth and Nerissa in dazzling magic, Blu wakes the dragon turtle so he can kill the mage.
-
+The fight begins when the fire mage blasts up through the hole and orders Chaessenth toward the intruders. Ryu and Blu loosen the burning black spear, and Nerissa yanks it free while Ander pushes toward the mage. Chaessenth can then warn them that the mage's concentration still binds him; Ander breaks it with a flurry of attacks, and after the mage briefly catches Chaessenth and Nerissa in dazzling magic, Blu wakes the dragon turtle so he can kill the mage.
 #### Long
-The fight in the chamber turns on freeing Chaessenth rather than killing him. Ryu drops onto the dragon turtle's back and burns his hands loosening the spear, Blu works it farther free, and Nerissa uses Misty Step to reach Chaessenth and yank it out. The relief is incomplete: Chaessenth forces out that the mage's concentration still binds him, so Ander crashes through the roof and cuts into the mage until the spell breaks. When the mage answers with a dazzling pattern that catches Nerissa and Chaessenth, Blu wakes the dragon turtle in time for Chaessenth to lunge from the water and finish the mage.
+Combat begins when the mage blasts fire up through the hole and shouts another command to Chaessenth. The fight then turns on freeing the dragon turtle rather than killing him: Ryu drops onto Chaessenth's back and burns his hands loosening the spear, Blu works it farther free, and Nerissa uses Misty Step to reach Chaessenth and yank it out. The relief is incomplete, because Chaessenth forces out that the mage's concentration still binds him. Ander crashes through the roof and cuts into the mage until the spell breaks; when the mage answers with a dazzling pattern that catches Nerissa and Chaessenth, Blu wakes the dragon turtle in time for Chaessenth to lunge from the water and finish him.
 
 ### recap-008 | Songs of the Deep
 
@@ -258,10 +257,10 @@ The fight in the chamber turns on freeing Chaessenth rather than killing him. Ry
 - Enemies: none
 
 #### Short
-Chaessenth explains the mage's search for Khathayi, the party links the golden amulet to Hiyasa's map, and he swims west.
+Chaessenth explains the mage's search for Khathayi, while the party links the mage's golden amulet to Hiyasa's map. After speaking to the party for some time, Chaessenth swims west.
 
 #### Intermediate
-Nerissa heals Chaessenth, and the freed dragon turtle gives his name before explaining that the mage wanted gatza to commune with Khathayi the Flametongue at an island north of the peninsula. Chaessenth speaks of the Wanui Teora and the songs of the deep ocean, while the party recognizes that the mage's golden amulet bears the same sign as Hiyasa's treasure map before he departs into the western sea.
+Nerissa heals Chaessenth, and the freed dragon turtle gives his name before explaining that the mage wanted gatza to commune with Khathayi the Flametongue at an island north of the peninsula. Chaessenth speaks of the Wanui Teora and the songs of the deep ocean before he departs into the western sea, while the party recognizes that the mage's golden amulet bears the same sign as Hiyasa's treasure map. 
 
 #### Long
 With the fire mage dead, Nerissa heals Chaessenth and translates a calmer conversation in Draconic. Chaessenth names himself, says the fire is gone but still hurts, and explains that the mage wanted gatza to speak with Khathayi the Flametongue on an island to the north. He shares a little of the Wanui Teora's ocean songs and then leaves for the deep western sea, while the party notices that the mage's golden amulet matches the symbol on Hiyasa's treasure map and points toward that same island.
@@ -280,7 +279,7 @@ With the fire mage dead, Nerissa heals Chaessenth and translates a calmer conver
   - salt marsh north of Eskorola, 1747-11-09
 - fire cult guardian (fought): armored tunnel defender
   - salt marsh north of Eskorola, 1747-11-09
-- Chaessenth (met, companion): captive dragon turtle
+- Chaessenth (met): captive dragon turtle
   - outer marsh tunnel mouth -> top of the mist-nest above the interior pool, 1747-11-09
   - mist-nest interior pool, 1747-11-09
   - mist-nest interior pool -> open western sea beyond Eskorola, 1747-11-09
