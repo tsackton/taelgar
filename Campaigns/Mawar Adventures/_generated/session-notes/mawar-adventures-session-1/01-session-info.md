@@ -18,7 +18,7 @@ in which a stolen drop of ocean is returned
 <!-- /SLOT -->
 
 <!-- SLOT: session.summary -->
-After strange omens trouble [[Hamri]]'s harbor, [[Ryu]], [[Wazir]], and [[Trok]] rescue a merfolk traveler, recover a stolen drop of the [[Sentient Ocean]] from a tidal cave, and find a coded scroll pointing to a deeper mystery.
+After strange omens trouble [[Hamri]]'s harbor, [[Ryu]], [[Wazir]], and [[Trok]] rescue a merfolk traveler, recover a stolen drop of the [[Sentient Ocean]] from a tidal cave in the [[North Cliffs]], and find a coded scroll pointing to a deeper mystery.
 <!-- /SLOT -->
 
 <!-- SLOT: session.dm -->
@@ -68,7 +68,7 @@ Saturday, July 24, 2021
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->
-- (DR:: 1747-07-23): [[Ryu]], [[Wazir]], and [[Trok]] rescue [[Illius]], a merfolk traveler, from an elemental attack, and recover a stolen drop of the [[Sentient Ocean]] from a tidal cave west of [[Hamri]].
+- (DR:: 1747-07-23): [[Ryu]], [[Wazir]], and [[Trok]] rescue [[Illius]], a merfolk traveler, from an elemental attack, and recover a stolen drop of the [[Sentient Ocean]] from a tidal cave in the [[North Cliffs]] across the bay from [[Hamri]].
 <!-- /SLOT -->
 
 <!-- SLOT: cast -->
@@ -77,25 +77,26 @@ Saturday, July 24, 2021
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->
-- [[Hamri]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): port town whose harbor and western cliffs frame the merfolk crisis. Session context includes: harbor and waterfront, harbor waters and docks, tidal cave beneath the western cliffs, abandoned seawatch tower, and tidal cave cache.
+- [[Hamri]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): port town whose harbor and waterfront frame the opening merfolk crisis. Session context includes: harbor waterfront, harbor waters, and docks.
+- [[North Cliffs]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): coastal cliffs across [[Hamri]]'s sheltered bay where the tidal cave and abandoned seawatch tower hold the stolen drop of the [[Sentient Ocean]]. Session context includes: tidal cave beneath the cliffs, abandoned seawatch tower, and tidal cave cache.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->
-[[Hamri]]
+[[Hamri]] and [[North Cliffs]]
 <!-- /SLOT -->
 
 <!-- SLOT: combat.summary -->
 - Harbor Ship Rescue: water elementals, twisted fish-like humanoids. Water elementals and twisted fish-like humanoids attack the merfolk ship in [[Hamri]]'s harbor, killing most of the crew before the party and [[Turk]] bring the vessel safely in.
-- Tidal Cave Recovery: water elementals. Guided by [[Illius]]'s compass, the party reaches the tidal cave west of [[Hamri]], defeats the last water elementals, and recovers the stolen drop of the [[Sentient Ocean]].
+- Tidal Cave Recovery: water elementals. Guided by [[Illius]]'s compass, the party reaches the [[North Cliffs]] tidal cave, defeats the last water elementals, and recovers the stolen drop of the [[Sentient Ocean]].
 <!-- /SLOT -->
 
 <!-- SLOT: items.treasure -->
-- [[Illius]]'s compass: guide used to track the stolen vial from [[Hamri]] to the tidal cave.
-  - [[Hamri]], 1747-07-23
+- [[Illius]]'s compass: guide used to track the stolen vial from [[Hamri]] to the [[North Cliffs]] tidal cave.
+  - [[North Cliffs]], 1747-07-23
 - [[Sentient Ocean]] (<(*)pronunciation(*;)> <typeof:sn>): living water whose stolen drop is recovered from the tidal cave and returned to [[Illius]].
-  - [[Hamri]], 1747-07-23
+  - [[North Cliffs]], 1747-07-23
 - [[The Ciphered Scroll]] (<(*)pronunciation(*;)> <typeof:sn>): coded notes found in the cache and taken by [[Wazir]] for study.
-  - [[Hamri]], 1747-07-23
+  - [[North Cliffs]], 1747-07-23
 - silver amulet: strange silver charm found in the same chest as the coded scroll.
-  - [[Hamri]], 1747-07-23
+  - [[North Cliffs]], 1747-07-23
 <!-- /SLOT -->

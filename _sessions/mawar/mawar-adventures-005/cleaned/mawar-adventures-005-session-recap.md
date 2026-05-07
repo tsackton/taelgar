@@ -41,7 +41,7 @@ Rayna arrives in Hamri and tells her story at the Leviathan Inn, explaining that
 - Timeline Key: (DR:: 1749-05-27)
 - Resolution: day
 - Beat IDs: beat-003, beat-004, beat-005, beat-006, beat-007, beat-008, beat-009, beat-010
-- Locations: Leviathan Inn, North Cliff sea cave outside Hamri, buried sea cave shrine of Guzo, Guzo shrine inner temple, hidden chamber of Guzo's shrine, Guzo shrine inner temple and sea cave beach, Guzo shrine sea cave
+- Locations: Leviathan Inn, North Cliffs, Shrine to Guzo the Mariner
 - NPCs: Rayna
 - Organizations: none
 - Items: shattered reinforced door, prayer book, saints' story book, prayer ledger, song fragment crystal, Guzo shrine offerings
@@ -106,7 +106,7 @@ The party presses Rayna for practical details and uses Trok's sketch to test whe
 - Date: 1749-05-27
 - Time: morning
 - Source Range: u0600 -> u0777
-- Locations: Leviathan Inn, North Cliff sea cave outside Hamri
+- Locations: Leviathan Inn, North Cliffs
 - NPCs: Rayna
 - Organizations: none
 - Items: none
@@ -128,7 +128,7 @@ Morning brings calm water after the storm, and Rayna comes aboard Ryu's small fi
 - Date: 1749-05-27
 - Time: morning
 - Source Range: u0778 -> u1037
-- Locations: buried sea cave shrine of Guzo
+- Locations: Shrine to Guzo the Mariner
 - NPCs: none
 - Organizations: none
 - Items: shattered reinforced door
@@ -150,7 +150,7 @@ The scouts reveal the same white-sand, blue-lit cave Rayna described, so the par
 - Date: 1749-05-27
 - Time: midday
 - Source Range: u1038 -> u1404
-- Locations: Guzo shrine inner temple
+- Locations: Shrine to Guzo the Mariner
 - NPCs: none
 - Organizations: none
 - Items: prayer book, saints' story book, prayer ledger, song fragment crystal
@@ -172,7 +172,7 @@ Inside the shrine, the cowed creature hangs back until Trok orders it to test th
 - Date: 1749-05-27
 - Time: midday
 - Source Range: u1405 -> u1612
-- Locations: hidden chamber of Guzo's shrine
+- Locations: Shrine to Guzo the Mariner
 - NPCs: none
 - Organizations: none
 - Items: song fragment crystal
@@ -194,7 +194,7 @@ At the threshold, the party talks long enough to understand the trap. The elemen
 - Date: 1749-05-27
 - Time: afternoon
 - Source Range: u1613 -> u2691
-- Locations: Guzo shrine inner temple, Guzo shrine inner temple and sea cave beach
+- Locations: Shrine to Guzo the Mariner
 - NPCs: none
 - Organizations: none
 - Items: none
@@ -216,7 +216,7 @@ Combat begins as negotiations break down. The trapped marid lashes the shrine wi
 - Date: 1749-05-27
 - Time: afternoon
 - Source Range: u2692 -> u2755
-- Locations: Guzo shrine sea cave, Leviathan Inn
+- Locations: Shrine to Guzo the Mariner, Leviathan Inn
 - NPCs: Rayna
 - Organizations: none
 - Items: song fragment crystal, Guzo shrine offerings
@@ -237,8 +237,8 @@ With the fight over, the party gathers around the crystal and Nerissa hears a fa
 
 - Rayna (met): sailor carrying the ocean's plea
   - Leviathan Inn, 1749-05-26
-  - Leviathan Inn -> North Cliff sea cave outside Hamri, 1749-05-27
-  - Guzo shrine sea cave -> Leviathan Inn, 1749-05-27
+  - Leviathan Inn -> North Cliffs, 1749-05-27
+  - Shrine to Guzo the Mariner -> Leviathan Inn, 1749-05-27
   - Hamri -> Omi, 1749-05-28 - unknown
 - Yaz (met): elderly local source on Hamri's older shrines
   - Leviathan Inn, 1749-05-26
@@ -255,29 +255,13 @@ With the fight over, the party gathers around the crystal and Nerissa hears a fa
   - Summary: Wazir's inn in Hamri, used here as the gathering place where Rayna brings the ocean's plea and the party consults local memory.
   - Sublocations: common room gathering as Wazir hears out a newly arrived sailor
   - Date Visited: 1749-05-26
-- North Cliff sea cave outside Hamri
-  - Summary: Collapsed coastal cave north of Hamri's tower line, identified by Ovina as the likely site of the old Guzo shrine.
-  - Sublocations: morning boat trip and shoreline search for the collapsed Guzo shrine
+- North Cliffs
+  - Summary: Coastal cliffs north of Hamri where Ovina places the old Guzo shrine and the party finds the recently breached cave-in.
+  - Sublocations: cliffside cave-in and underwater approach
   - Date Visited: 1749-05-27
-- buried sea cave shrine of Guzo
-  - Summary: Hidden blue-lit sea cave shrine reached through a recent underwater breach below the North Cliff.
-  - Sublocations: sandy inner beach and ruined outer temple beyond the blasted underwater passage
-  - Date Visited: 1749-05-27
-- Guzo shrine inner temple
-  - Summary: Ruined sanctuary to Guzo where old offerings, chapel books, and the altar's blue light reveal the path to the hidden chamber.
-  - Sublocations: main sanctuary, side chapel, and newly revealed hidden chamber
-  - Date Visited: 1749-05-27
-- hidden chamber of Guzo's shrine
-  - Summary: Secret chamber opened by Guzo's ancestor prayer, where the trapped water elemental holds the song fragment crystal.
-  - Sublocations: threshold between the glowing altar room and the elemental's prison chamber
-  - Date Visited: 1749-05-27
-- Guzo shrine inner temple and sea cave beach
-  - Summary: Connected shrine and beach battlefield where the elemental and its servants try to break away toward the water.
-  - Sublocations: altar room, wall-side escape route, stairs, and beach as the fight spills toward the water
-  - Date Visited: 1749-05-27
-- Guzo shrine sea cave
-  - Summary: Post-combat ruin where the recovered crystal sings to Nerissa before the party returns it to Rayna.
-  - Sublocations: post-combat shrine search, crystal handoff at Rayna's boat, and return to town
+- Shrine to Guzo the Mariner
+  - Summary: Buried blue-lit sea-cave shrine where the party opens Guzo's hidden chamber, defeats the marid and its servants, and recovers the song fragment crystal.
+  - Sublocations: beach, ruined sanctuary, side chapel, hidden chamber, sea-cave battlefield
   - Date Visited: 1749-05-27
 
 ## Organizations And Items
@@ -291,19 +275,18 @@ With the fight over, the party gathers around the crystal and Nerissa hears a fa
 - Trok's shrine sketch (encountered): Drawing made from Rayna's vision that lets Yaz and Ovina identify the buried Guzo shrine.
   - Leviathan Inn, 1749-05-26
 - shattered reinforced door (encountered): Freshly blasted inner shrine door showing that something recently forced its way deeper into the ruin.
-  - buried sea cave shrine of Guzo, 1749-05-27
+  - Shrine to Guzo the Mariner, 1749-05-27
 - prayer book (encountered): Preserved chapel book containing Guzo's ancestor prayer.
-  - Guzo shrine inner temple, 1749-05-27
+  - Shrine to Guzo the Mariner, 1749-05-27
 - saints' story book (encountered): Illuminated chapel volume preserving local stories of Guzo and other saints.
-  - Guzo shrine inner temple, 1749-05-27
+  - Shrine to Guzo the Mariner, 1749-05-27
 - prayer ledger (encountered): Damaged record of prayers and hopes left by past visitors to the shrine.
-  - Guzo shrine inner temple, 1749-05-27
+  - Shrine to Guzo the Mariner, 1749-05-27
 - song fragment crystal (encountered): Crystallized fragment of the ocean's song, recovered from the elemental and entrusted to Rayna for return to Omni.
-  - Guzo shrine inner temple, 1749-05-27
-  - hidden chamber of Guzo's shrine, 1749-05-27
-  - Guzo shrine sea cave -> Leviathan Inn, 1749-05-27
+  - Shrine to Guzo the Mariner, 1749-05-27
+  - Shrine to Guzo the Mariner -> Leviathan Inn, 1749-05-27
 - Guzo shrine offerings (encountered): Old offerings left for Guzo in the shrine, already looted by Trok before the party leaves.
-  - Guzo shrine sea cave -> Leviathan Inn, 1749-05-27
+  - Shrine to Guzo the Mariner -> Leviathan Inn, 1749-05-27
 - fragment of song (mentioned): Rayna's initial description of the lost portion of the ocean's voice before the party finds it as a crystal.
 
 ## Combat
@@ -311,8 +294,8 @@ With the fight over, the party gathers around the crystal and Nerissa hears a fa
 ### recap-007 | Battle in Guzo's Shrine
 
 - Beat IDs: beat-007, beat-008, beat-009
-- Enemies: trapped water elemental, shrine water creatures, remaining shrine water creatures
-- Context / Outcome: The party fights a trapped water elemental and its shrine creatures in the blue-lit temple, kills them before they can threaten Rayna, and leaves with the recovered crystal.
+- Enemies: trapped marid, water elemental servants
+- Context / Outcome: The party fights a trapped marid and its water elemental servants in the blue-lit temple, kills them before they can threaten Rayna, and leaves with the recovered crystal.
 
 
 ## Source Files

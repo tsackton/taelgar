@@ -1,6 +1,5 @@
 ---
 excludePublish: ["all"]
-tags: [status/check/ai]
 sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-session.yaml"
 ---
 
