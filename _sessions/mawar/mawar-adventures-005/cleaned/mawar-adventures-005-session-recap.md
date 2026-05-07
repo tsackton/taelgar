@@ -5,7 +5,7 @@
 - Title: Mawar Adventures Episode 05
 - Desc Title: The Lost Legacy
 - Tagline: in which the ocean's lost song is freed
-- One-Sentence Summary: Rayna's plea leads the party to a buried shrine of Guzo, where they kill a trapped water elemental and recover a crystal fragment singing the song of the Sentient Ocean.
+- One-Sentence Summary: Rayna's plea leads the party to a buried shrine of Guzo, where they kill a trapped marid and recover a crystal fragment singing the song of the Sentient Ocean.
 - Campaign: Mawar Adventures
 - Scope: session
 - Session Number: 5
@@ -29,69 +29,33 @@
 - Combat Beats: none
 
 #### Short
-A sailor, Rayna, arrives at the Leviathan Inn seeking help recovering a lost song fragment connected to a buried shrine to Guzo the Mariner.  
+Rayna arrives in Hamri and asks the party to find the ocean's lost song in a collapsed shrine of Guzo.
 
 #### Long
-A sailor, Rayna, arrives at the Leviathan Inn seeking help recovering a lost song fragment connected to a buried shrine to Guzo the Mariner.  Wazir, Trok, Ryu, Ander, and Nerissa discuss her plight and seek information from Yaz and Ovina. 
+Rayna arrives in Hamri and tells her story at the Leviathan Inn, explaining that the ocean's voice returned after years of silence, showing her a song fragment trapped in a white-sand shrine. Trok's sketch, Yaz's memory, and Ovina's recollection identify the site as a collapsed shrine of Guzo near the last tower on Hamri's North Cliff.
 
 
-### May 27th, 1749 (morning)
+### May 27th, 1749
 
 - Timeline Segment: timeline-002
-- Timeline Key: (DR:: 1749-05-27), morning
-- Resolution: part-of-day
-- Beat IDs: beat-003, beat-004
-- Locations: Leviathan Inn, North Cliff sea cave outside Hamri, buried sea cave shrine of Guzo
+- Timeline Key: (DR:: 1749-05-27)
+- Resolution: day
+- Beat IDs: beat-003, beat-004, beat-005, beat-006, beat-007, beat-008, beat-009, beat-010
+- Locations: Leviathan Inn, North Cliff sea cave outside Hamri, buried sea cave shrine of Guzo, Guzo shrine inner temple, hidden chamber of Guzo's shrine, Guzo shrine inner temple and sea cave beach, Guzo shrine sea cave
 - NPCs: Rayna
 - Organizations: none
-- Items: shattered reinforced door
-- Combat Beats: none
-
-#### Short
-The party leaves Hamri with Rayna, sailing for the North Cliff and Guzo's shrine. 
-
-#### Long
-The party sails with Rayna to the North Cliff and finds the location of the old shrine to Guzo the Mariner. Scouting shows that something recently punched a clean passage back into the shrine.
-
-### May 27th, 1749 (midday)
-
-- Timeline Segment: timeline-003
-- Timeline Key: (DR:: 1749-05-27), midday
-- Resolution: part-of-day
-- Beat IDs: beat-005, beat-006
-- Locations: Guzo shrine inner temple, hidden chamber of Guzo's shrine
-- NPCs: none
-- Organizations: none
-- Items: prayer book, saints' story book, prayer ledger, song fragment crystal
-- Combat Beats: none
-
-#### Short
-The party opens Guzo's hidden chamber and finds the crystal.
-
-#### Long
-Inside the shrine, the party finds preserved prayer books, old offerings, and Guzo's ancestor prayer. The prayer opens a hidden chamber where a trapped water elemental holds the song fragment crystal.
-
-### May 27th, 1749 (afternoon)
-
-- Timeline Segment: timeline-004
-- Timeline Key: (DR:: 1749-05-27), afternoon
-- Resolution: part-of-day
-- Beat IDs: beat-007, beat-008, beat-009, beat-010
-- Locations: Guzo shrine inner temple, Guzo shrine inner temple and sea cave beach, Guzo shrine sea cave, Leviathan Inn
-- NPCs: Rayna
-- Organizations: none
-- Items: song fragment crystal, Guzo shrine offerings
+- Items: shattered reinforced door, prayer book, saints' story book, prayer ledger, song fragment crystal, Guzo shrine offerings
 - Combat Beats: beat-007, beat-008, beat-009
 
 #### Short
-The party kills the shrine intruders and returns the crystal to Rayna.
+The party sails with Rayna to the North Cliff, finds Guzo's buried shrine, kills the trapped marid, and returns the freed song fragment to Rayna.
 
 #### Long
-The trapped elemental and its servants nearly break out through water, whips, grapples, and mist, but the party kills them before they can threaten Rayna. The recovered crystal sings gratitude and shows its home in Omni before Rayna takes it onward.
+Rayna sails with the party to the North Cliff, where they enter a freshly blasted passage into Guzo's blue-lit sea-cave shrine and use the ancestor prayer to open the hidden chamber. The trapped marid refuses to surrender the crystal, but the party destroys it and its servants before the crystal sings gratitude and Rayna accepts its return.
 
 ## Recap
 
-### recap-001 | Recap and Rayna's Plea
+### recap-001 | Rayna's Plea
 
 - Kind: beat
 - Beat IDs: beat-001
@@ -105,13 +69,13 @@ The trapped elemental and its servants nearly break out through water, whips, gr
 - Enemies: none
 
 #### Short
-Rayna brings the ocean's plea to the Leviathan.
+Rayna brings the ocean's plea to the Leviathan Inn in Hamri.
 
 #### Intermediate
-Rayna arrives at the Leviathan after years of hearing the ocean's voice in dreams. She asks Wazir and the others to recover a trapped fragment of song from a hidden shrine near Hamri.
+Rayna arrives at the Leviathan Inn after years of hearing the ocean's voice in dreams. She asks Wazir and the others to recover a trapped fragment of song from a hidden shrine near Hamri.
 
 #### Long
-Rayna arrives at the Leviathan with a story that begins in childhood, when she first heard the ocean speak through songs and visions. Those songs went silent after a nightmare of tearing and loss, then recently returned with a plea about something trapped under rock but still resting on the waves. The vision showed her Guzo the Mariner, a white-sand shrine, and a fragment of song that must be restored.
+Rayna arrives at the Leviathan Inn with a story that begins in childhood, when she first heard the ocean speak through songs and visions. Those songs went silent after a nightmare of tearing and loss, then recently returned with a plea about something trapped under rock but still resting on the waves. The vision showed her Guzo the Mariner, a white-sand shrine, and a fragment of song that must be restored.
 
 ### recap-002 | Questions Around the Leviathan
 
@@ -127,7 +91,7 @@ Rayna arrives at the Leviathan with a story that begins in childhood, when she f
 - Enemies: none
 
 #### Short
-Questioning turns Rayna's vision into a real destination.
+Questioning reveals Rayna's vision points to a lost shrine to Guzo the Mariner near Hamri.
 
 #### Intermediate
 Trok sketches the shrine from Rayna's description, and the group brings in Yaz and Ovina for local memory. Their answers point to a long-collapsed sea cave shrine of Guzo on Hamri's North Cliff.
@@ -152,7 +116,7 @@ The party presses Rayna for practical details and uses Trok's sketch to test whe
 The next morning, the party sails to the North Cliff.
 
 #### Intermediate
-Rayna joins the boat ride while Ryu follows Ovina's directions along the unstable cliff. With the party helping the search, they find gaps in the old collapse and signs of a newer, cleaner breach.
+The next morning, the party sails to the North Cliff with Rayna. Ryu follows Ovina's directions along the unstable cliff. With the party helping the search, they find gaps in the old collapse and signs of a newer, cleaner breach.
 
 #### Long
 Morning brings calm water after the storm, and Rayna comes aboard Ryu's small fishing boat to guide and help sail. The group reaches the unstable cliff north of the towers, finds the old cave-in where Ovina said it should be, and confirms that something has recently punched through the rock. Ryu links his senses to Turk while Wazir sends a mechanical fish, giving the party a safer way to scout the passage before diving in.
@@ -171,13 +135,13 @@ Morning brings calm water after the storm, and Rayna comes aboard Ryu's small fi
 - Enemies: none
 
 #### Short
-They swim through the breach into Rayna's vision.
+Inside the sea cave, Trok bluffs the lingering water creatures into letting the party pass.
 
 #### Intermediate
-The underwater opening leads into a warm, blue-lit cave with a sandy beach and ruined shrine building. The party also finds fresh damage deeper inside and a cluster of watery shrine creatures loitering near the temple.
+The underwater opening leads into a warm, blue-lit cave with a sandy beach, ruined shrine building, and fresh damage deeper inside. The party prepares for a fight, but the creatures speak Primordial, admit their boss trapped them there, and back down when Trok claims authority over them.
 
 #### Long
-The scouts reveal the same white-sand, blue-lit cave Rayna described, so the party dives through the blasted underwater breach. Inside, they find a ruined outer temple, a sandy beach, and signs that the recent intrusion continued through the reinforced inner door. Watery, frog-like creatures linger around the beach and shrine, but the party keeps moving inward rather than retreating for a slower approach.
+The scouts reveal the same white-sand, blue-lit cave Rayna described, so the party dives through the blasted underwater breach. Watery, frog-like creatures whistle a warning and nearly bring the approach to a fight, but they answer in Primordial and say their boss went into the temple with orders not to leave without the crystal. Trok poses as the new boss, invokes Gazankoa, and threatens them with a shattered door fragment until the leaders stay back and one cowed creature follows the party inside.
 
 ### recap-005 | Secrets of Guzo's Shrine
 
@@ -193,13 +157,13 @@ The scouts reveal the same white-sand, blue-lit cave Rayna described, so the par
 - Enemies: none
 
 #### Short
-Inside, Guzo's ancestor prayer opens the way.
+With a cowed creature in tow, the party enters the shrine. Guzo's ancestor prayer opens the way further in, revealing a trapped marid and the song crystal.
 
 #### Intermediate
-Searching the shrine turns up old offerings, preserved books, and a Mawarin inscription about Guzo's ancestor prayer. Nerissa finds the right prayer, sings it, and opens a hidden stone passage to the crystal.
+Inside the shrine, Trok keeps the cowed creature useful while the party searches old offerings, preserved books, and a Mawaran inscription about Guzo's ancestor prayer. Nerissa finds the right prayer, sings it, and opens a hidden stone passage, revealing a marid trapped by the shrine's magic, holding the song crystal.
 
 #### Long
-Inside the shrine, the party studies the statue of Guzo, the glowing altar, old offerings, and a damaged stone chest. The chest still preserves a prayer book, a saints' story book, and a ledger of prayers left by earlier visitors. A Mawarin inscription directs them to kneel and pray Guzo's ancestor prayer; when Nerissa finds and sings it, the hidden slab door vanishes and reveals a chamber where a large water elemental is trapped by the shrine's blue light with the crystal in its grasp.
+Inside the shrine, the cowed creature hangs back until Trok orders it to test the glowing altar, then the party studies the statue of Guzo, old offerings, and a damaged stone chest. The chest still preserves a prayer book, a saints' story book, and a ledger of prayers left by earlier visitors. A Mawaran inscription directs them to kneel and pray Guzo's ancestor prayer; when Nerissa finds and sings it, the hidden slab door vanishes, revealing a large marid trapped by the shrine's blue light with the song crystal in its grasp.
 
 ### recap-006 | A Bad Deal Offered
 
@@ -215,10 +179,10 @@ Inside the shrine, the party studies the statue of Guzo, the glowing altar, old 
 - Enemies: none
 
 #### Short
-The elemental offers a bargain the party refuses.
+The marid offers a bargain the party refuses.
 
 #### Intermediate
-The trapped elemental admits it forced its way in, seized the crystal, and triggered the blue light that now prevents its escape. Its offer to spare the party and carry the crystal to Gazankoa sounds too dangerous to trust.
+The trapped marid admits it forced its way in, seized the crystal, and triggered the blue light that now prevents its escape. Its offer to spare the party and carry the crystal to Gazankoa sounds too dangerous to trust.
 
 #### Long
 At the threshold, the party talks long enough to understand the trap. The elemental broke into the shrine, took the crystal, and triggered the altar's blue light, which blocks its teleportation and pins it in the hidden chamber. It offers to return to the plane of water and let the party present the crystal to Gazankoa, but its threats make clear that it will keep hunting the shard and anyone carrying it. The party chooses to bottle it inside the shrine and fight.
@@ -237,13 +201,13 @@ At the threshold, the party talks long enough to understand the trap. The elemen
 - Enemies: trapped water elemental, shrine water creatures, remaining shrine water creatures
 
 #### Short
-The shrine fight breaks the elemental and its servants.
+Combat breaks out inside the shrine, with the party eventually defeating the marid and its servants.
 
 #### Intermediate
-The trapped water elemental opens with a crushing jet of water, but the shrine's blue light begins working against it as Nerissa's magic drives it back. After whips, grapples, mist, and retreat, Ryu's marked trident strike destroys the elemental and the party kills the last fleeing servants.
+Combat begins as negotiations break down. The trapped marid opens with a crushing jet of water, but the shrine's blue light begins working against it as Nerissa's magic drives it back. After whips, grapples, and retreat, Ryu's marked trident strike destroys the marid and the party kills the last fleeing servants.
 
 #### Long
-When initiative starts, the trapped water elemental lashes the shrine with a massive jet that batters the front line, drops Geo, and turns the planned doorway ambush into a hard scramble. The fight begins to turn when the blue light drags against the elemental and amplifies Nerissa's magic, letting Trok and Wazir punish it as it staggers back. Its servants crowd the stairs with hardened bodies, grapples, scimitars, whips, lightning, and boiling water, while the elemental turns to mist and slips through the wall to escape. It reappears outside the chamber, kills one fleeing servant for cowardice, and strikes Ander and Trok, but Trok redirects a blow and Ryu marks it before a trident hit collapses it into water. The party then kills the last two creatures before they can swim off after Rayna.
+Combat begins as negotiations break down. The trapped marid lashes the shrine with a massive jet that batters the front line, drops Geo, and turns the planned doorway ambush into a hard scramble. The fight begins to turn when the blue light drags against the elemental and amplifies Nerissa's magic, letting Trok and Wazir punish it as it staggers back. Its servants crowd the stairs with hardened bodies, grapples, scimitars, whips, lightning, and boiling water, while the elemental turns to mist and slips through the wall to escape. It reappears outside the chamber, kills one fleeing servant for cowardice, and strikes Ander and Trok, but Trok redirects a blow and Ryu marks it before a trident hit collapses it into water. The party then kills the last two creatures before they can swim off after Rayna.
 
 ### recap-008 | The Fragment Returns
 
@@ -259,13 +223,13 @@ When initiative starts, the trapped water elemental lashes the shrine with a mas
 - Enemies: none
 
 #### Short
-Afterward, Rayna accepts the crystal's voyage to Omni.
+Afterward, Rayna accepts the crystal's return.
 
 #### Intermediate
-Nerissa hears the crystal's grateful song, and the party finds little else in the ruined shrine beyond the offerings Trok already took. They return the fragment to Rayna, share its vision of an undersea home, and go back to the Leviathan while she prepares to sail for Omni.
+Nerissa hears the crystal's grateful song, and the party finds little else in the ruined shrine beyond the offerings Trok already took. They return the fragment to Rayna, share its vision of an undersea home, and go back to the Leviathan while she prepares to sail for [[Omi]] to return the crystal.
 
 #### Long
-With the fight over, the party gathers around the crystal and Nerissa hears a faint melody of peaceful sleep and gratitude. The flooded ruin holds little else beyond the offerings Trok already looted, so they swim back out and hand the fragment to Rayna. Everyone shares a vision of an undersea home being rebuilt among kelp and fishfolk, and Rayna recognizes that the crystal can guide her there. That afternoon they return to the Leviathan, where she settles in for one more night before sailing across the Mawar Ocean toward Apporia and the merfolk city of Omni.
+With the fight over, the party gathers around the crystal and Nerissa hears a faint melody of peaceful sleep and gratitude. The flooded ruin holds little else beyond the offerings Trok already looted, so they swim back out and hand the fragment to Rayna. Everyone shares a vision of an undersea home being rebuilt among kelp and fishfolk, and Rayna recognizes that the crystal can guide her there. That afternoon they return to the Leviathan Inn, where she settles in for one more night before sailing across the ocean toward Apporia and the merfolk city of Omi.
 
 ## Cast
 
@@ -275,6 +239,7 @@ With the fight over, the party gathers around the crystal and Nerissa hears a fa
   - Leviathan Inn, 1749-05-26
   - Leviathan Inn -> North Cliff sea cave outside Hamri, 1749-05-27
   - Guzo shrine sea cave -> Leviathan Inn, 1749-05-27
+  - Hamri -> Omi, 1749-05-28 - unknown
 - Yaz (met): elderly local source on Hamri's older shrines
   - Leviathan Inn, 1749-05-26
 - Ovina (met): long-lived dwarf blacksmith with old harbor memory

@@ -170,32 +170,63 @@
       "blockId": "timeline-002",
       "dateStart": "1749-05-27",
       "dateEnd": null,
-      "timeWindow": "morning",
-      "resolution": "part-of-day",
+      "timeWindow": null,
+      "resolution": "day",
       "beatIds": [
         "beat-003",
-        "beat-004"
+        "beat-004",
+        "beat-005",
+        "beat-006",
+        "beat-007",
+        "beat-008",
+        "beat-009",
+        "beat-010"
       ],
       "locationRefs": [
         "Leviathan Inn",
         "North Cliff sea cave outside Hamri",
-        "buried sea cave shrine of Guzo"
+        "buried sea cave shrine of Guzo",
+        "Guzo shrine inner temple",
+        "hidden chamber of Guzo's shrine",
+        "Guzo shrine inner temple and sea cave beach",
+        "Guzo shrine sea cave"
       ],
       "npcRefs": [
         "Rayna"
       ],
       "organizationRefs": [],
       "itemRefs": [
-        "shattered reinforced door"
+        "shattered reinforced door",
+        "prayer book",
+        "saints' story book",
+        "prayer ledger",
+        "song fragment crystal",
+        "Guzo shrine offerings"
       ],
-      "combatBeatIds": [],
+      "combatBeatIds": [
+        "beat-007",
+        "beat-008",
+        "beat-009"
+      ],
       "sourceShortSummaries": [
         "The next morning the party sails to the North Cliff, finds the old collapse, and confirms that a blasted opening now leads back into the buried shrine cave.",
-        "Swimming through the breach, the party finds the blue-lit beach and ruined outer temple of Guzo's shrine, spots idle water creatures, and advances toward the building."
+        "Swimming through the breach, the party finds the blue-lit beach and ruined outer temple of Guzo's shrine, spots idle water creatures, and advances toward the building.",
+        "Inside the shrine, the party uncovers books and offerings, finds the ancestor prayer that opens a hidden stone passage, and reveals a trapped water elemental clutching the crystal fragment.",
+        "The trapped elemental offers to spare the party if they free it and let it take the crystal to Gazankoa, but the blue light's binding effect and the creature's threats convince the group to fight instead.",
+        "The elemental opens the fight with a brutal jet of water, hurling the party back, dropping Geo, and turning the doorway ambush into a hard scramble for control.",
+        "The shrine's blue light begins to work against the elemental, and Nerissa's magic drives it back while the lesser creatures crowd the stairs and start grappling the front line.",
+        "The wounded elemental turns to mist, slips through the wall, punishes fleeing minions, and is finally destroyed before the party cuts down the last shrine creatures.",
+        "After the fight, Nerissa hears the recovered crystal's grateful song, the party returns it to Rayna, and Rayna accepts the task of carrying it to Omni."
       ],
       "sourceLongSummaries": [
         "After sleeping on the plan, the group meets the next morning, takes breakfast, and boards Ryu's small boat with Rayna along for the ride. They follow the North Cliff shoreline to the place Ovina described, use scouting and shared checks to study the rockfall, and realize that the cave has recently been punched open again by some force far cleaner than a natural collapse. With Ryu linked through Turk's senses and Wazir's mechanical fish scouting alongside, they confirm there is still a navigable way into the old shrine beyond the rubble.",
-        "The party dives through the newly blasted underwater opening and surfaces inside a hidden sea cave whose interior matches Rayna's vision: a warm blue glow, a strip of sandy beach, and a white shrine building on the shore. They quickly realize the collapse was not the only recent disturbance, because the breach and the shattered doorway deeper inside both look as if magic blasted straight through stone and timber. A cluster of watery, frog-like shrine creatures loiters around the beach and temple, and after sizing up the scene the party presses inward instead of retreating for a longer plan."
+        "The party dives through the newly blasted underwater opening and surfaces inside a hidden sea cave whose interior matches Rayna's vision: a warm blue glow, a strip of sandy beach, and a white shrine building on the shore. They quickly realize the collapse was not the only recent disturbance, because the breach and the shattered doorway deeper inside both look as if magic blasted straight through stone and timber. A cluster of watery, frog-like shrine creatures loiters around the beach and temple, and after sizing up the scene the party presses inward instead of retreating for a longer plan.",
+        "With the outer approach secured for the moment, the party searches the main temple and the side chapel in earnest. They study the statue of Guzo, the glowing altar, scattered offerings, and a damaged stone chest that still preserves a prayer book, a saintly story collection, and a ledger of prayers left at the shrine. The Mawarin inscription about kneeling and praying Guzo's ancestor prayer leads Nerissa to the right text, and when she sings it the hidden slab door vanishes to expose a deeper chamber. Inside waits a large water elemental figure pinned by the shrine's blue light and holding the crystal fragment the party came to recover.",
+        "Before steel is drawn, the party talks with the elemental in the hidden chamber and learns how badly things have gone inside the shrine. The creature explains that it forced its way in, seized the crystal fragment, and triggered the blue light bound to the altar, which now prevents its teleportation and keeps it trapped despite the opened passage. It offers to return to the plane of water and even let the party present the crystal to Gazankoa, but the more it talks the clearer it becomes that it will simply keep hunting the shard and anyone carrying it. By the end of the exchange, the party settles on bottling the creature up inside the shrine and killing it rather than trusting any bargain.",
+        "When the parley breaks down, initiative starts and the trapped elemental wastes no time, lashing the shrine interior with a massive jet of frigid water. The opening blast batters Trok, Ryu, Ander, Geo, and the nearby shrine creatures, immediately showing how dangerous the foe is even while confined by the blue light. Ryu recovers enough to answer with thrown trident strikes and Hunter's Mark, Ander fights his way back into the doorway, and the party's neat plan to contain the creature turns into a messy opening brawl in the temple.",
+        "As the melee settles into its middle phase, the same blue glow binding the elemental starts actively helping the party. Nerissa's dissonant whispers bite especially hard under the altar's influence and force the elemental backward into the chamber, where opportunity attacks from Trok and Wazir leave it staggering and badly wounded. The lesser shrine creatures rush the stairs and doorway, hardening their bodies and then grappling Ryu and Ander with watery scimitars, but the party keeps pressure on the main foe until it is below a quarter of its strength and ready to change tactics.",
+        "The final phase begins when the badly wounded elemental abandons a straight fight and turns into watery mist to move away from the party. Ryu and Ander kill grappling minions while Wazir's shatter and homunculus attacks help thin the field, and several lesser creatures start fleeing for the water. The boss reappears outside the chamber, lashes out at Ander and Trok, and even kills one of its own fleeing servants for cowardice, but Trok redirects one of its whip strikes and Ryu marks it before a trident blow makes the elemental collapse into a puddle. In the next few minutes, the party kills the last two creatures before they can swim off and threaten Rayna.",
+        "With combat over, the party gathers around the crystal and Nerissa hears a faint melody of peaceful sleep and quiet gratitude. A quick search confirms that the shrine is mostly ruined and flooded, with little left beyond the offerings Trok already looted, so the group leaves the cave and swims back to Rayna. When they hand her the fragment, everyone shares a vision of an undersea home being rebuilt among kelp and fishfolk; Rayna recognizes the destination and says the crystal can guide her. The party returns to the Leviathan Inn that afternoon, helps Rayna settle in for one more night, and learns she means to sail across the Mawar Ocean toward Apporia and the merfolk city of Omni in the morning."
       ],
       "sourceEntries": [
         {
@@ -255,41 +286,7 @@
               "notes": "Broken chunks of the inner doorway show that something recently blasted deeper into the shrine."
             }
           ]
-        }
-      ]
-    },
-    {
-      "blockId": "timeline-003",
-      "dateStart": "1749-05-27",
-      "dateEnd": null,
-      "timeWindow": "midday",
-      "resolution": "part-of-day",
-      "beatIds": [
-        "beat-005",
-        "beat-006"
-      ],
-      "locationRefs": [
-        "Guzo shrine inner temple",
-        "hidden chamber of Guzo's shrine"
-      ],
-      "npcRefs": [],
-      "organizationRefs": [],
-      "itemRefs": [
-        "prayer book",
-        "saints' story book",
-        "prayer ledger",
-        "song fragment crystal"
-      ],
-      "combatBeatIds": [],
-      "sourceShortSummaries": [
-        "Inside the shrine, the party uncovers books and offerings, finds the ancestor prayer that opens a hidden stone passage, and reveals a trapped water elemental clutching the crystal fragment.",
-        "The trapped elemental offers to spare the party if they free it and let it take the crystal to Gazankoa, but the blue light's binding effect and the creature's threats convince the group to fight instead."
-      ],
-      "sourceLongSummaries": [
-        "With the outer approach secured for the moment, the party searches the main temple and the side chapel in earnest. They study the statue of Guzo, the glowing altar, scattered offerings, and a damaged stone chest that still preserves a prayer book, a saintly story collection, and a ledger of prayers left at the shrine. The Mawarin inscription about kneeling and praying Guzo's ancestor prayer leads Nerissa to the right text, and when she sings it the hidden slab door vanishes to expose a deeper chamber. Inside waits a large water elemental figure pinned by the shrine's blue light and holding the crystal fragment the party came to recover.",
-        "Before steel is drawn, the party talks with the elemental in the hidden chamber and learns how badly things have gone inside the shrine. The creature explains that it forced its way in, seized the crystal fragment, and triggered the blue light bound to the altar, which now prevents its teleportation and keeps it trapped despite the opened passage. It offers to return to the plane of water and even let the party present the crystal to Gazankoa, but the more it talks the clearer it becomes that it will simply keep hunting the shard and anyone carrying it. By the end of the exchange, the party settles on bottling the creature up inside the shrine and killing it rather than trusting any bargain."
-      ],
-      "sourceEntries": [
+        },
         {
           "beatId": "beat-005",
           "title": "Secrets of Guzo's Shrine",
@@ -382,53 +379,7 @@
               "notes": "The crystal remains in the elemental's grasp during the negotiation and drives the whole argument."
             }
           ]
-        }
-      ]
-    },
-    {
-      "blockId": "timeline-004",
-      "dateStart": "1749-05-27",
-      "dateEnd": null,
-      "timeWindow": "afternoon",
-      "resolution": "part-of-day",
-      "beatIds": [
-        "beat-007",
-        "beat-008",
-        "beat-009",
-        "beat-010"
-      ],
-      "locationRefs": [
-        "Guzo shrine inner temple",
-        "Guzo shrine inner temple and sea cave beach",
-        "Guzo shrine sea cave",
-        "Leviathan Inn"
-      ],
-      "npcRefs": [
-        "Rayna"
-      ],
-      "organizationRefs": [],
-      "itemRefs": [
-        "song fragment crystal",
-        "Guzo shrine offerings"
-      ],
-      "combatBeatIds": [
-        "beat-007",
-        "beat-008",
-        "beat-009"
-      ],
-      "sourceShortSummaries": [
-        "The elemental opens the fight with a brutal jet of water, hurling the party back, dropping Geo, and turning the doorway ambush into a hard scramble for control.",
-        "The shrine's blue light begins to work against the elemental, and Nerissa's magic drives it back while the lesser creatures crowd the stairs and start grappling the front line.",
-        "The wounded elemental turns to mist, slips through the wall, punishes fleeing minions, and is finally destroyed before the party cuts down the last shrine creatures.",
-        "After the fight, Nerissa hears the recovered crystal's grateful song, the party returns it to Rayna, and Rayna accepts the task of carrying it to Omni."
-      ],
-      "sourceLongSummaries": [
-        "When the parley breaks down, initiative starts and the trapped elemental wastes no time, lashing the shrine interior with a massive jet of frigid water. The opening blast batters Trok, Ryu, Ander, Geo, and the nearby shrine creatures, immediately showing how dangerous the foe is even while confined by the blue light. Ryu recovers enough to answer with thrown trident strikes and Hunter's Mark, Ander fights his way back into the doorway, and the party's neat plan to contain the creature turns into a messy opening brawl in the temple.",
-        "As the melee settles into its middle phase, the same blue glow binding the elemental starts actively helping the party. Nerissa's dissonant whispers bite especially hard under the altar's influence and force the elemental backward into the chamber, where opportunity attacks from Trok and Wazir leave it staggering and badly wounded. The lesser shrine creatures rush the stairs and doorway, hardening their bodies and then grappling Ryu and Ander with watery scimitars, but the party keeps pressure on the main foe until it is below a quarter of its strength and ready to change tactics.",
-        "The final phase begins when the badly wounded elemental abandons a straight fight and turns into watery mist to move away from the party. Ryu and Ander kill grappling minions while Wazir's shatter and homunculus attacks help thin the field, and several lesser creatures start fleeing for the water. The boss reappears outside the chamber, lashes out at Ander and Trok, and even kills one of its own fleeing servants for cowardice, but Trok redirects one of its whip strikes and Ryu marks it before a trident blow makes the elemental collapse into a puddle. In the next few minutes, the party kills the last two creatures before they can swim off and threaten Rayna.",
-        "With combat over, the party gathers around the crystal and Nerissa hears a faint melody of peaceful sleep and quiet gratitude. A quick search confirms that the shrine is mostly ruined and flooded, with little left beyond the offerings Trok already looted, so the group leaves the cave and swims back to Rayna. When they hand her the fragment, everyone shares a vision of an undersea home being rebuilt among kelp and fishfolk; Rayna recognizes the destination and says the crystal can guide her. The party returns to the Leviathan Inn that afternoon, helps Rayna settle in for one more night, and learns she means to sail across the Mawar Ocean toward Apporia and the merfolk city of Omni in the morning."
-      ],
-      "sourceEntries": [
+        },
         {
           "beatId": "beat-007",
           "title": "Jet of Water",
