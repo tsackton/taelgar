@@ -51,11 +51,11 @@
 **Main Enemies**:
 - water elementals: The last elemental guardians defend the tidal cave and tower approach.
 **Combat Notes**: This beat contains the cave recovery fight and its immediate resolution.
-**Short Summary**: Guided by Illius's compass, Ryu, Wazir, and Trok track the stolen vial to a tidal cave west of Hamri, defeat the last elemental guardians, and restore it to the merfolk.
-**Long Summary**: Soon after, Ryu, Wazir, and Trok were able to track the bottled ocean, with the aid of Illius's compass, to a tidal cave beneath the cliffs to the west of Hamri, connecting to a long-abandoned seawatch tower. After defeating the last of the water elementals, they were able to recover the drop of the Sentient Ocean and return it safely to Illius, who claimed that marids from the Elemental Plane of Water had been after the ocean for generations and believed that one finally found a way to penetrate the defenses to steal a drop.
+**Short Summary**: Guided by Illius's compass, Ryu, Wazir, and Trok track the stolen vial to a tidal cave in the North Cliffs, defeat the last elemental guardians, and restore it to the merfolk.
+**Long Summary**: Soon after, Ryu, Wazir, and Trok were able to track the bottled ocean, with the aid of Illius's compass, to a tidal cave in the North Cliffs across the sheltered bay from Hamri, connecting to a long-abandoned seawatch tower. After defeating the last of the water elementals, they were able to recover the drop of the Sentient Ocean and return it safely to Illius, who claimed that marids from the Elemental Plane of Water had been after the ocean for generations and believed that one finally found a way to penetrate the defenses to steal a drop.
 **Location**:
-- Hamri: the tidal cave and abandoned seawatch tower beneath the cliffs west of town
-  Note: The beat moves away from the harbor into the cave complex where the stolen vial is hidden.
+- North Cliffs: the tidal cave and abandoned seawatch tower in the North Cliffs across the sheltered bay from Hamri
+  Note: The beat moves away from Hamri's harbor into the North Cliffs cave complex where the stolen vial is hidden.
 **NPCs**:
 - Illius (encountered): surviving merfolk guide. He provides the compass, receives the recovered vial, and explains the marids' pursuit of the Sentient Ocean.
 **Items**:
@@ -73,8 +73,8 @@
 **Short Summary**: Among the stolen treasures, Wazir claims a coded scroll and a strange silver amulet that hint at the larger plot behind the phantom ship.
 **Long Summary**: In the chest with the vial of the Sentient Ocean was also a scroll of written notes, in some kind of code, and a silver amulet of a strange design. Wazir took the scroll to attempt to decipher its meaning, wondering if indeed the phantom ship brought someone new to town involved in the schemes of the marids of the plane of water.
 **Location**:
-- Hamri: the tidal cave cache and chest where the stolen vial had been hidden
-  Note: The source treats this as the immediate aftermath of the cave recovery rather than a separate trip back to town.
+- North Cliffs: the tidal cave cache and chest in the North Cliffs where the stolen vial had been hidden
+  Note: The source treats this as the immediate aftermath of the cave recovery rather than a separate trip back to Hamri.
 **NPCs**: none
 **Items**:
 - Ciphered Scroll (encountered): Wazir takes the coded scroll for later decipherment.

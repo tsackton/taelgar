@@ -1,5 +1,4 @@
 ---
-tags: [status/check/ai]
 excludePublish: ["all"]
 sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-session.yaml"
 ---

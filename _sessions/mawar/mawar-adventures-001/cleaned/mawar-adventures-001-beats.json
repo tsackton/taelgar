@@ -50,7 +50,7 @@
       "timeWindow": null,
       "dateResolution": "exact",
       "containsCombat": true,
-      "boundaryReason": "After the ship is secured, the narrative shifts to a new objective and location as the party tracks the stolen vial inland to the tidal cave and abandoned tower, defeats the remaining elementals, and restores the drop of Sentient Ocean to Illius.",
+      "boundaryReason": "After the ship is secured, the narrative shifts to a new objective and location as the party tracks the stolen vial from Hamri's harbor to the North Cliffs tidal cave and abandoned tower, defeats the remaining elementals, and restores the drop of Sentient Ocean to Illius.",
       "dateEvidence": [
         "the line opens with 'Soon after,' which marks a same-day scene transition rather than a new day",
         "session.yaml still anchors the whole episode to 1747-07-23",

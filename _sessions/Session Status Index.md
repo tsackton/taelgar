@@ -1,6 +1,5 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/ai]
 ---
 
 # Session Status Index
@@ -250,10 +249,10 @@ Status rules:
 
 5 total: 5 recap, 0 sources prepped, 0 unprocessed
 
-| Session | Status |
-| ------: | ------ |
-|       1 | recap  |
-|       2 | recap  |
-|       3 | recap  |
-|       4 | recap  |
-|       5 | recap  |
+| Session | Status   |
+| ------: | -------- |
+|       1 | finished |
+|       2 | finished |
+|       3 | finished |
+|       4 | finished |
+|       5 | finished |
