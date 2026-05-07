@@ -1,9 +1,9 @@
 # Cleanup Summary
 
 - Transcript lines: 2755
-- Changed lines: 116
-- Replacement patterns: 73
-- Repeated replacements: 18
+- Changed lines: 132
+- Replacement patterns: 76
+- Repeated replacements: 20
 - Unresolved phrases: 0
 
 ## Replacements By Correct Term
@@ -20,7 +20,7 @@
 ### Apporia
 - Aporia (1x)
 
-### built to Guzu
+### built to Guzo
 - Belt … The goose do (1x)
 
 ### Caleb
@@ -51,8 +51,8 @@
 ### Dunmar
 - Dunbar (3x)
 
-### Guzu
-- Guzo (2x)
+### Guzo
+- Guzu (18x)
 - Boozoo (1x)
 - Guizu (1x)
 - Uzu (1x)
@@ -71,7 +71,8 @@
 ### in Hamri
 - and harm (1x)
 
-### Kaiso
+### Kaeso
+- Kaiso (2x)
 - Kaisa (1x)
 - Kaisler (1x)
 
@@ -111,9 +112,11 @@
 ### prow of a
 - prowess (1x)
 
-### Raina
+### Rayna
 - Reyna (10x)
+- Raina (7x)
 - Marina (1x)
+- Rena (1x)
 
 ### Ryu
 - Rio (1x)

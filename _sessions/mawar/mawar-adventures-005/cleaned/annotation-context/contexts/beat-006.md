@@ -14,18 +14,18 @@ Do not edit `beats.json`.
 - Title: A Bad Deal Offered
 - Range: `u1405` -> `u1612`
 - Lines: 208
-- Date Start: 1749-05-26
+- Date Start: 1749-05-27
 - Date End: same day
-- Time Window: night
+- Time Window: midday
 
 ## Output Shape
 
 ```json
 {
   "beatId": "beat-006",
-  "dateStart": "1749-05-26",
+  "dateStart": "1749-05-27",
   "dateEnd": null,
-  "timeWindow": "night",
+  "timeWindow": "midday",
   "shortSummary": "",
   "longSummary": "",
   "location": {
@@ -64,8 +64,8 @@ Do not edit `beats.json`.
 
 ## Adjacent Beats
 
-- Previous: beat-005 - Secrets of Guzu's Shrine (1749-05-26)
-- Next: beat-007 - Jet of Water (1749-05-26)
+- Previous: beat-005 - Secrets of Guzo's Shrine (1749-05-27)
+- Next: beat-007 - Jet of Water (1749-05-27)
 
 If the transcript does not clearly restate the location, prefer inheriting the prior beat's location unless there is a clear move or travel transition.
 
@@ -79,7 +79,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1405 | 01:56:22.010-01:56:28.250 | Nerissa] I was gonna say, can I do a Burdick when we're not in, like, combat? I guess we're in combat. We haven't rolled initiative, so…
 [u1406 | 01:56:28.250-01:56:30.109 | Trok] Well, in my magical mind, anyway.
@@ -146,7 +146,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1467 | 02:00:15.990-02:00:22.419 | Ander] But even if he goes back to the elemental plane of water without it, won't he just, like, come back here again tomorrow
 [u1468 | 02:00:23.020-02:00:27.229 | Ander] Get it back, like, have we really solved the problem if he leaves?
 [u1469 | 02:00:27.740-02:00:29.229 | Nerissa] We leave with the shard.
-[u1470 | 02:00:29.230-02:00:31.769 | Ryu] Yeah, we leave with the shard, we get it to Raina, and then we're done.
+[u1470 | 02:00:29.230-02:00:31.769 | Ryu] Yeah, we leave with the shard, we get it to Rayna, and then we're done.
 [u1471 | 02:00:32.210-02:00:33.589 | Trok] And he's still trapped here.
 [u1472 | 02:00:37.060-02:00:39.439 | Ander] What, can't you walk out the door?
 [u1473 | 02:00:39.440-02:00:42.860 | DM] swim, you open the door.
@@ -169,11 +169,11 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1490 | 02:01:29.370-02:01:34.429 | Wazir] Wait, wait, don't we miss… we have the shard? Wait, wait, hold on. Did I miss something? Don't we have the shard?
 [u1491 | 02:01:34.430-02:01:34.940 | DM] shard.
 [u1492 | 02:01:36.360-02:01:38.869 | Wazir] So now, don't we just need to get away with the shark?
-[u1493 | 02:01:38.870-02:01:41.219 | Ryu] Go, go, go to Raina, and then run here!
+[u1493 | 02:01:38.870-02:01:41.219 | Ryu] Go, go, go to Rayna, and then run here!
 [u1494 | 02:01:41.280-02:01:46.570 | Ander] I don't know, because presumably it has some way of finding or locating the shard.
 [u1495 | 02:01:47.770-02:01:53.159 | Ander] Taking the shard does not solve the problem of him not looking for the shard and killing anyone who has it.
 [u1496 | 02:01:53.640-02:01:54.150 | Trok] Well…
-[u1497 | 02:01:54.150-02:02:02.469 | DM] There is a possibility that if you just give the shard to Raina and she sails off, then two days later, he shows up in the ocean, sinks her boat, takes the shard.
+[u1497 | 02:01:54.150-02:02:02.469 | DM] There is a possibility that if you just give the shard to Rayna and she sails off, then two days later, he shows up in the ocean, sinks her boat, takes the shard.
 [u1498 | 02:02:02.740-02:02:03.400 | Trok] That's what it is.
 [u1499 | 02:02:03.400-02:02:05.050 | DM] Maybe it wouldn't be your problem at that point.
 [u1500 | 02:02:05.050-02:02:06.829 | Wazir] Yeah, no, okay, that's true.

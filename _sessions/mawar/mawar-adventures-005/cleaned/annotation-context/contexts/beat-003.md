@@ -14,18 +14,18 @@ Do not edit `beats.json`.
 - Title: Finding the Buried Shrine
 - Range: `u0600` -> `u0777`
 - Lines: 178
-- Date Start: 1749-05-26
+- Date Start: 1749-05-27
 - Date End: same day
-- Time Window: evening
+- Time Window: morning
 
 ## Output Shape
 
 ```json
 {
   "beatId": "beat-003",
-  "dateStart": "1749-05-26",
+  "dateStart": "1749-05-27",
   "dateEnd": null,
-  "timeWindow": "evening",
+  "timeWindow": "morning",
   "shortSummary": "",
   "longSummary": "",
   "location": {
@@ -65,7 +65,7 @@ Do not edit `beats.json`.
 ## Adjacent Beats
 
 - Previous: beat-002 - Questions Around the Leviathan (1749-05-26)
-- Next: beat-004 - Into the Sea Cave (1749-05-26)
+- Next: beat-004 - Into the Sea Cave (1749-05-27)
 
 If the transcript does not clearly restate the location, prefer inheriting the prior beat's location unless there is a clear move or travel transition.
 
@@ -79,7 +79,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0600 | 00:56:08.770-00:56:13.059 | Ryu] Go check it out. I mean, Ander and I, we can go dive down there and see what's going on.
 [u0601 | 00:56:16.050-00:56:26.380 | Ander] Have a look. Before… let's ask the dwarf, before, before it collapsed, the entrance was… how high above the, like, the water line was the entrance?
@@ -93,7 +93,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0609 | 00:56:55.670-00:57:01.989 | DM] So who's to say? Maybe if you swim down, there's still a way through under the… Under the cave-in.
 [u0610 | 00:57:02.680-00:57:03.480 | Ryu] Check it out.
 [u0611 | 00:57:05.700-00:57:08.080 | Ryu] I like this, makes life a little interesting.
-[u0612 | 00:57:10.380-00:57:15.049 | Ryu] Rena, do you wanna join us, or do you wanna… is this more of a…
+[u0612 | 00:57:10.380-00:57:15.049 | Ryu] Rayna, do you wanna join us, or do you wanna… is this more of a…
 [u0613 | 00:57:15.200-00:57:16.609 | Ryu] We go check it out and tell you.
 [u0614 | 00:57:16.610-00:57:18.290 | DM] No, I'm…
 [u0615 | 00:57:19.150-00:57:21.480 | Ryu] Not much one for…
@@ -117,7 +117,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0633 | 00:58:52.690-00:58:56.690 | DM] But today, you'll gather… at…
 [u0634 | 00:58:57.200-00:59:07.419 | DM] wherever dock Ryu stores his little boat at, which probably holds, like, 8 people, or… I mean, it's not a… it's not like a little dinghy, right? But it's not a huge ship, right? So…
 [u0635 | 00:59:07.620-00:59:15.810 | DM] It's a one-person sailboat that you normally take out with… to fish, but… But it easily holds…
-[u0636 | 00:59:16.060-00:59:21.019 | DM] All of you, plus… Plus, Raina.
+[u0636 | 00:59:16.060-00:59:21.019 | DM] All of you, plus… Plus, Rayna.
 [u0637 | 00:59:21.180-00:59:35.109 | DM] Who is clearly very familiar with boats, and is talking shop with Ryu the whole time, like, preparing to cast off. I don't actually remember of the rest of your characters, if anybody else is. Ander is not really a boat person.
 [u0638 | 00:59:35.600-00:59:35.960 | Ryu] 12.
 [u0639 | 00:59:35.960-00:59:36.980 | DM] Wazir…
@@ -191,7 +191,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0707 | 01:04:23.620-01:04:29.750 | DM] I mean, everybody's helping, that's why one person is… that's why Ryu is… Rolling with Advantage.
 [u0708 | 01:04:30.010-01:04:48.369 | DM] So you do see an area that, now that you're looking, like, you can… you can actually see there's, like, a little bit of… there's, like, gaps in the rocks. Like, there's a… clearly there's, like, been a cave-in. Like, the sides of the cave have collapsed a little bit. But there are…
 [u0709 | 01:04:49.400-01:04:54.270 | DM] There are gaps in the rocks here. Like, you can see there's a space through
-[u0710 | 01:04:54.620-01:05:02.210 | DM] into something else, and it's roughly in the place where Raina said it should be. Or, sorry, where Ovina, the dwarf, said it should be.
+[u0710 | 01:04:54.620-01:05:02.210 | DM] into something else, and it's roughly in the place where Rayna said it should be. Or, sorry, where Ovina, the dwarf, said it should be.
 [u0711 | 01:05:06.290-01:05:06.910 | Ryu] Cool.
 [u0712 | 01:05:08.680-01:05:10.700 | Ryu] Let's go check it out.
 [u0713 | 01:05:11.130-01:05:11.870 | Wazir] Yeah?
@@ -254,8 +254,8 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0770 | 01:08:39.970-01:08:44.420 | DM] The location of this cave where the… Frozen.
 [u0771 | 01:08:44.970-01:08:47.740 | DM] Song is.
 [u0772 | 01:08:50.240-01:08:51.589 | Nerissa] Wow, nice job, guys.
-[u0773 | 01:08:53.040-01:09:10.270 | DM] statue of Guzu the Mariner on a white sandy beach with warm, glowing blue light filling the space. They realized it was a cave where a shrine had been built, and between Ryu's cartography and talking to a dwarf who remembered the cave and various other clues.
+[u0773 | 01:08:53.040-01:09:10.270 | DM] statue of Guzo the Mariner on a white sandy beach with warm, glowing blue light filling the space. They realized it was a cave where a shrine had been built, and between Ryu's cartography and talking to a dwarf who remembered the cave and various other clues.
 [u0774 | 01:09:10.300-01:09:11.390 | DM] You have now…
 [u0775 | 01:09:11.390-01:09:15.210 | DM] found the location of where you think the cave is, it…
-[u0776 | 01:09:15.729-01:09:22.270 | DM] It used to be a popular shrine to this… basically a saint, Guzu the Mariner, a saint of Mos Numena.
+[u0776 | 01:09:15.729-01:09:22.270 | DM] It used to be a popular shrine to this… basically a saint, Guzo the Mariner, a saint of Mos Numena.
 [u0777 | 01:09:22.680-01:09:25.250 | DM] The cave collapsed 100 years ago.

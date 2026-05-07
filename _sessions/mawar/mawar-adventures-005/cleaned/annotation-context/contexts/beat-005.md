@@ -1,4 +1,4 @@
-# Beat Context: beat-005 - Secrets of Guzu's Shrine
+# Beat Context: beat-005 - Secrets of Guzo's Shrine
 
 This file is only for producing `beat-facts.json`.
 Do not edit `beats.json`.
@@ -11,21 +11,21 @@ Do not edit `beats.json`.
 ## Beat Metadata
 
 - Beat ID: beat-005
-- Title: Secrets of Guzu's Shrine
+- Title: Secrets of Guzo's Shrine
 - Range: `u1038` -> `u1404`
 - Lines: 367
-- Date Start: 1749-05-26
+- Date Start: 1749-05-27
 - Date End: same day
-- Time Window: night
+- Time Window: midday
 
 ## Output Shape
 
 ```json
 {
   "beatId": "beat-005",
-  "dateStart": "1749-05-26",
+  "dateStart": "1749-05-27",
   "dateEnd": null,
-  "timeWindow": "night",
+  "timeWindow": "midday",
   "shortSummary": "",
   "longSummary": "",
   "location": {
@@ -64,8 +64,8 @@ Do not edit `beats.json`.
 
 ## Adjacent Beats
 
-- Previous: beat-004 - Into the Sea Cave (1749-05-26)
-- Next: beat-006 - A Bad Deal Offered (1749-05-26)
+- Previous: beat-004 - Into the Sea Cave (1749-05-27)
+- Next: beat-006 - A Bad Deal Offered (1749-05-27)
 
 If the transcript does not clearly restate the location, prefer inheriting the prior beat's location unless there is a clear move or travel transition.
 
@@ -79,7 +79,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1038 | 01:27:55.240-01:27:59.969 | DM] So… The entry room here is…
 [u1039 | 01:28:00.450-01:28:03.050 | DM] Again, mostly full of just debris.
@@ -91,8 +91,8 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1045 | 01:28:31.540-01:28:33.250 | Wazir] Yeah, yeah.
 [u1046 | 01:28:37.130-01:28:49.090 | DM] Okay, so… The main temple area… has, has 3 key features.
 [u1047 | 01:28:50.220-01:28:56.070 | DM] So, you see in the middle this statue of, of.
-[u1048 | 01:28:56.240-01:28:58.870 | DM] of Guzu, exactly as…
-[u1049 | 01:28:58.870-01:29:05.949 | DM] Trok drew from Raina's description. In front of the statue is an altar.
+[u1048 | 01:28:56.240-01:28:58.870 | DM] of Guzo, exactly as…
+[u1049 | 01:28:58.870-01:29:05.949 | DM] Trok drew from Rayna's description. In front of the statue is an altar.
 [u1050 | 01:29:06.040-01:29:21.890 | DM] set low to the ground that seems to be the source of this glowing blue light that's spreading, and the light's almost, like, trickling like mist, so it, like, flows down the steps, and it dribbles into the water, and it infuses the water, causing it to glow.
 [u1051 | 01:29:23.970-01:29:32.280 | DM] On the… there's… There was probably once… this was once, like, a sort of domed ceiling, and there were,
 [u1052 | 01:29:32.750-01:29:39.740 | DM] skylights, all of the skylights have broken and fallen down. The second story is just over…
@@ -117,7 +117,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1071 | 01:31:04.290-01:31:20.849 | DM] or I guess it's more along the side walls, like here and here, sort of in between these columns. There's a bunch of, like, niches and things where little offerings and things have been scattered. You can see that many of them have been sort of strewn around the floor.
 [u1072 | 01:31:20.990-01:31:27.240 | DM] In the back, it's like one of those medieval churches where there's, like, a whole bunch of…
 [u1073 | 01:31:27.810-01:31:38.010 | DM] Carvings in the wall, like, people's names and things, and then written in big letters up across the top in a sort of arc.
-[u1074 | 01:31:38.010-01:31:50.839 | DM] are the words in, Mawarin, kneel and pray Guzu's ancestor's prayer to open the passage to the sea.
+[u1074 | 01:31:38.010-01:31:50.839 | DM] are the words in, Mawarin, kneel and pray Guzo's ancestor's prayer to open the passage to the sea.
 [u1075 | 01:31:51.080-01:31:54.959 | DM] And then there's a door over here that leads into a side chapel.
 [u1076 | 01:31:59.370-01:32:00.550 | DM] And the…
 [u1077 | 01:32:00.580-01:32:01.480 | DM] No.
@@ -252,7 +252,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1206 | 01:43:16.990-01:43:19.420 | Trok] What are we looking for again? The crystal.
 [u1207 | 01:43:20.970-01:43:22.400 | Trok] Yes, sir.
 [u1208 | 01:43:22.650-01:43:25.710 | DM] Slowly… He steps back.
-[u1209 | 01:43:25.710-01:43:28.359 | Ryu] Should I go get Raina, and, like, escort her in here?
+[u1209 | 01:43:25.710-01:43:28.359 | Ryu] Should I go get Rayna, and, like, escort her in here?
 [u1210 | 01:43:30.910-01:43:32.530 | Trok] Isn't she, like, sailing the ship for us?
 [u1211 | 01:43:33.360-01:43:36.429 | Ryu] It's just, like, hanging out at the boat. Yeah, making sure that the boat…
 [u1212 | 01:43:36.900-01:43:37.350 | DM] Yeah.
@@ -269,7 +269,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1223 | 01:44:03.720-01:44:06.879 | Trok] Wait, there was an inscription about kneeling and praying or something?
 [u1224 | 01:44:07.840-01:44:10.179 | Nerissa] That was supposed to let the ocean in.
 [u1225 | 01:44:10.180-01:44:11.230 | DM] That's sad.
-[u1226 | 01:44:11.770-01:44:16.739 | DM] Kneel and pray Guzu's ancestor prayer to open the passage to the sea.
+[u1226 | 01:44:11.770-01:44:16.739 | DM] Kneel and pray Guzo's ancestor prayer to open the passage to the sea.
 [u1227 | 01:44:17.520-01:44:18.350 | Trok] Mmm.
 [u1228 | 01:44:18.750-01:44:22.299 | Wazir] And there's a, clearly, ocean behind this secret door, right?
 [u1229 | 01:44:22.590-01:44:23.200 | Wazir] There's one.
@@ -277,7 +277,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1231 | 01:44:25.810-01:44:31.160 | Wazir] Does it seem like it opens in or out, or is it just, like, totally impossible to tell?
 [u1232 | 01:44:32.590-01:44:39.020 | DM] It's probably magic. Like, there's no hinges. There's no way to see that there's…
 [u1233 | 01:44:40.190-01:44:48.580 | DM] It's not like a secret door that's secret, because it's, like, carefully hidden from… it's not some… well, at least not… well, go ahead and make an investigation check.
-[u1234 | 01:44:48.580-01:44:52.919 | Nerissa] Nerissa flips through the prayer book to see if there's one called Guzu's Ancestor Prayer.
+[u1234 | 01:44:48.580-01:44:52.919 | Nerissa] Nerissa flips through the prayer book to see if there's one called Guzo's Ancestor Prayer.
 [u1235 | 01:44:52.920-01:44:53.520 | Ryu] Hey, yeah.
 [u1236 | 01:44:53.950-01:44:54.770 | Trok] Hmm.
 [u1237 | 01:44:55.190-01:44:59.720 | DM] Okay. What was your vest- I haven't clicked yet. Okay.

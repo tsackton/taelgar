@@ -14,18 +14,18 @@ Do not edit `beats.json`.
 - Title: Into the Sea Cave
 - Range: `u0778` -> `u1037`
 - Lines: 260
-- Date Start: 1749-05-26
+- Date Start: 1749-05-27
 - Date End: same day
-- Time Window: night
+- Time Window: morning
 
 ## Output Shape
 
 ```json
 {
   "beatId": "beat-004",
-  "dateStart": "1749-05-26",
+  "dateStart": "1749-05-27",
   "dateEnd": null,
-  "timeWindow": "night",
+  "timeWindow": "morning",
   "shortSummary": "",
   "longSummary": "",
   "location": {
@@ -64,8 +64,8 @@ Do not edit `beats.json`.
 
 ## Adjacent Beats
 
-- Previous: beat-003 - Finding the Buried Shrine (1749-05-26)
-- Next: beat-005 - Secrets of Guzu's Shrine (1749-05-26)
+- Previous: beat-003 - Finding the Buried Shrine (1749-05-27)
+- Next: beat-005 - Secrets of Guzo's Shrine (1749-05-27)
 
 If the transcript does not clearly restate the location, prefer inheriting the prior beat's location unless there is a clear move or travel transition.
 
@@ -79,7 +79,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0778 | 01:09:25.310-01:09:31.960 | DM] And now everybody's just about to explore the entrance to the collapsed cave, which is where you are.
 [u0779 | 01:09:32.130-01:09:36.410 | DM] So, as Trok dives down,
@@ -117,7 +117,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0811 | 01:12:36.660-01:12:44.440 | DM] They're basically creatures made of water. They don't seem to have paid much attention to Turk, they're just kind of lounging
 [u0812 | 01:12:45.140-01:12:47.149 | DM] A bit carelessly around.
 [u0813 | 01:12:47.940-01:12:48.720 | Ryu] -Oh.
-[u0814 | 01:12:50.150-01:12:59.090 | Ryu] Yeah, Ryu will tell everybody what he sees, and in particular, Raina, like, what's your reaction to this? Do you have any idea what these creatures are?
+[u0814 | 01:12:50.150-01:12:59.090 | Ryu] Yeah, Ryu will tell everybody what he sees, and in particular, Rayna, like, what's your reaction to this? Do you have any idea what these creatures are?
 [u0815 | 01:12:59.140-01:12:59.760 | DM] On the beach?
 [u0816 | 01:13:01.290-01:13:04.409 | DM] I never saw anything in any of my visions.
 [u0817 | 01:13:06.080-01:13:09.109 | DM] The voice… did seem nervous.

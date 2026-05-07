@@ -73,19 +73,19 @@
 [u0073 | 00:07:13.690-00:07:16.090 | DM] But was quickly tossed out by Wazir.
 [u0074 | 00:07:16.470-00:07:23.360 | DM] The fall of 1748 lingers, with warm days and calm seas well into October.
 [u0075 | 00:07:24.000-00:07:28.360 | DM] A few folks from Chardon start trickling in, telling a different tale.
-[u0076 | 00:07:28.750-00:07:34.920 | DM] Kaiso, a scholar from Chardon with several mutual friends with Wazir, arrives at the start of October.
+[u0076 | 00:07:28.750-00:07:34.920 | DM] Kaeso, a scholar from Chardon with several mutual friends with Wazir, arrives at the start of October.
 [u0077 | 00:07:35.380-00:07:42.189 | DM] He told of a greed spreading in the heart of Chardon, a grasping need to gather all magic to the university and control it.
 [u0078 | 00:07:42.730-00:07:54.409 | DM] He didn't have all the pieces, but said that Kenzo, the human accused of thief, was nothing like the stories spread by the Chardonian agents. He was a good kid, scarred by Chardon's dark side, and a…
 [u0079 | 00:07:54.410-00:07:58.910 | DM] As a child, but always looking to connect, with the souls of other beings.
 [u0080 | 00:08:00.370-00:08:05.560 | DM] High someone was the air could frequently be found in long evening chats as the days grew shorter.
 [u0081 | 00:08:05.750-00:08:08.510 | DM] Wondering what these events meant for Mawar.
-[u0082 | 00:08:09.500-00:08:29.119 | DM] Could it be long before Chardon looked to claim Mawar itself. After all, Arian the Mistspeaker had long spoken of the Mawakel Peninsula, which is where the Mawar Confederacy is, as an important locus of elemental power, and Arian's scrolls of elemental power had turned up in Chardon recently, Kaiso had learned.
+[u0082 | 00:08:09.500-00:08:29.119 | DM] Could it be long before Chardon looked to claim Mawar itself. After all, Arian the Mistspeaker had long spoken of the Mawakel Peninsula, which is where the Mawar Confederacy is, as an important locus of elemental power, and Arian's scrolls of elemental power had turned up in Chardon recently, Kaeso had learned.
 [u0083 | 00:08:31.100-00:08:39.299 | DM] By the first storm of winter, more news. There was a war against orcs somewhere off far to the east, spreading through Dunmar and tearing the land apart.
-[u0084 | 00:08:39.520-00:08:46.569 | DM] Kaiso took this hard and spent many days alone in his room, but emerged to say that Dunmar held, though he would not say how he knew.
+[u0084 | 00:08:39.520-00:08:46.569 | DM] Kaeso took this hard and spent many days alone in his room, but emerged to say that Dunmar held, though he would not say how he knew.
 [u0085 | 00:08:47.950-00:08:59.440 | DM] That winter was mild, but still little traffic came to Hamri. The news is always slow during the cold months, when the winter gales prevent ships from traveling.
 [u0086 | 00:09:00.340-00:09:01.940 | DM] Spring arrived.
 [u0087 | 00:09:02.940-00:09:10.959 | DM] of 1749, with news of peace, it seems the fighting in Dunmar was over, though tales differed about who was king now there.
-[u0088 | 00:09:11.710-00:09:32.389 | DM] But few in Hamri really cared about the events of far-off Dunmar. The traders from Chardon whispered that something seemed wrong. While the amount of chalyte flowing into the city was greater than ever, constant shortages led to the first outbreak of cholera in years, though Kaiso would point out, the traders don't seem to count the sickness that spreads in the slums of the North Bank there.
+[u0088 | 00:09:11.710-00:09:32.389 | DM] But few in Hamri really cared about the events of far-off Dunmar. The traders from Chardon whispered that something seemed wrong. While the amount of chalyte flowing into the city was greater than ever, constant shortages led to the first outbreak of cholera in years, though Kaeso would point out, the traders don't seem to count the sickness that spreads in the slums of the North Bank there.
 [u0089 | 00:09:32.910-00:09:39.969 | DM] It was getting harder to ignore the growing number of people wandering the city, their minds consumed by chalyte overuse.
 [u0090 | 00:09:41.530-00:09:59.250 | DM] It is now May 26, 1749. Not long ago, news reached Hamri of a vicious, unprovoked magical attack at the heart of Chardon itself, caused by none other than two of the thieves, Kenzo, a Dunmari spy, and Delwath, an evil elf, corrupted by shadows.
 [u0091 | 00:10:00.740-00:10:08.829 | DM] Many had died in the Colorless Market as a fragment of Pandemonium was ripped into this world. Fausto, one of the leaders of the wizards, was.
@@ -192,7 +192,7 @@
 [u0192 | 00:19:38.260-00:19:40.959 | DM] In the Leviathan Inn.
 [u0193 | 00:19:51.900-00:19:52.340 | Ander] Rule.
 [u0194 | 00:19:52.340-00:20:00.410 | DM] Maybe something vaguely like that. .
-[u0195 | 00:20:00.410-00:20:14.080 | DM] this woman, Raina, begins to tell you her story, and she's come looking for somebody. I mean, she doesn't… she's not from Hamri, she doesn't know anybody, but was obviously told at the port, like, you know.
+[u0195 | 00:20:00.410-00:20:14.080 | DM] this woman, Rayna, begins to tell you her story, and she's come looking for somebody. I mean, she doesn't… she's not from Hamri, she doesn't know anybody, but was obviously told at the port, like, you know.
 [u0196 | 00:20:14.440-00:20:22.909 | DM] I need help, you know, go to, go to the Leviathan, talk to Wazir, and I think Wazir is generally pretty…
 [u0197 | 00:20:23.640-00:20:30.930 | DM] you know, he's not… I assume… I'm making assumptions here, Mike, but he, you know, he'll talk to people who need help, right? He's like… Yeah, yeah, yeah.
 [u0198 | 00:20:30.930-00:20:32.420 | DM] director of Hamri kind of vibe.
@@ -222,28 +222,28 @@
 [u0222 | 00:23:04.000-00:23:06.100 | DM] Hold on one sec…
 [u0223 | 00:23:12.320-00:23:18.669 | DM] You know, these dredged tales of how the ocean… ocean behaved.
 [u0224 | 00:23:19.230-00:23:31.690 | DM] And so, in her teens, when the ocean started to talk to her, she says she was not as, maybe, surprised as most others would be. She could never understand the words, but somehow they painted pictures of
-[u0225 | 00:23:32.500-00:23:44.569 | DM] strange undersea cities of kelp forests full of memories, but also of Mawar long ago, of Guzu the Mariner standing on the prow of a ship. Guzu the Mariner is, like, one of the…
+[u0225 | 00:23:32.500-00:23:44.569 | DM] strange undersea cities of kelp forests full of memories, but also of Mawar long ago, of Guzo the Mariner standing on the prow of a ship. Guzo the Mariner is, like, one of the…
 [u0226 | 00:23:44.790-00:23:50.049 | DM] heroes of Mawar, it's like… it's like a local… he's like a local saint, basically. People…
-[u0227 | 00:23:51.260-00:24:03.049 | DM] send their prayers to the Eight Divines via Guzu, at least in Hamri. And there's a bunch of these other, like, heroes of Mawar that function as saints.
+[u0227 | 00:23:51.260-00:24:03.049 | DM] send their prayers to the Eight Divines via Guzo, at least in Hamri. And there's a bunch of these other, like, heroes of Mawar that function as saints.
 [u0228 | 00:24:03.440-00:24:09.330 | DM] She was fascinated, and her father said she was… her grandfather said she was blessed.
 [u0229 | 00:24:10.490-00:24:12.579 | DM] Ten years ago, she says…
 [u0230 | 00:24:13.120-00:24:15.610 | DM] The songs of the ocean suddenly stopped.
 [u0231 | 00:24:16.920-00:24:22.219 | DM] She awoke from a nightmare of ripping and tearing to silence for the first time in years.
 [u0232 | 00:24:22.680-00:24:26.220 | DM] Caleb was nervous, not sure what it meant.
-[u0233 | 00:24:26.510-00:24:38.549 | DM] But for a while, they didn't think much of it. A few years after that, the ship was wrecked, and most of the crew, including Caleb, died, Raina survived, but it was a dark few years after that recovering.
+[u0233 | 00:24:26.510-00:24:38.549 | DM] But for a while, they didn't think much of it. A few years after that, the ship was wrecked, and most of the crew, including Caleb, died, Rayna survived, but it was a dark few years after that recovering.
 [u0234 | 00:24:39.870-00:24:45.460 | DM] But that's not why she's here, she says. She's here because a couple of weeks ago, the song suddenly returned.
 [u0235 | 00:24:45.730-00:24:48.319 | DM] Ocean started speaking to her again.
 [u0236 | 00:24:48.950-00:24:50.430 | DM] It's saying…
 [u0237 | 00:24:50.580-00:24:57.499 | DM] But something trapped under a rock, but resting on waves. It felt scared, nervous, but it wanted this…
 [u0238 | 00:24:58.600-00:25:02.220 | DM] Fragment of song, fragment of its voice back.
 [u0239 | 00:25:02.800-00:25:05.980 | DM] She saw cliffs with towers perched like teeth.
-[u0240 | 00:25:06.180-00:25:09.930 | DM] And a statue of Guzu the Mariner on a white sandy beach.
+[u0240 | 00:25:06.180-00:25:09.930 | DM] And a statue of Guzo the Mariner on a white sandy beach.
 [u0241 | 00:25:10.320-00:25:17.100 | DM] Warm glow… warm glowing blue light filling the space, some kind of cave, maybe?
 [u0242 | 00:25:17.540-00:25:20.729 | DM] The cliffs in her image look like Hamri, and…
-[u0243 | 00:25:21.240-00:25:27.000 | DM] Guzu was always associated with Hamri in Caleb's stories, and so she came here.
+[u0243 | 00:25:21.240-00:25:27.000 | DM] Guzo was always associated with Hamri in Caleb's stories, and so she came here.
 [u0244 | 00:25:28.810-00:25:36.109 | DM] She doesn't know where it is, but she thinks somewhere in the cliffs of… of Hamri.
 [u0245 | 00:25:36.800-00:25:39.460 | DM] There must be… Cave.
-[u0246 | 00:25:39.680-00:25:47.499 | DM] With a white sandy beach and a statue of Guzu. And somewhere inside the cave is something that this song of the ocean wants back.
+[u0246 | 00:25:39.680-00:25:47.499 | DM] With a white sandy beach and a statue of Guzo. And somewhere inside the cave is something that this song of the ocean wants back.
 [u0247 | 00:25:49.830-00:25:53.030 | DM] And she would like somebody to find this.
 [u0248 | 00:25:53.700-00:25:55.299 | DM] And bring it to her.
 [u0249 | 00:25:56.010-00:25:56.590 | DM] And she.
@@ -314,11 +314,11 @@
 [u0314 | 00:31:21.370-00:31:21.880 | Ryu] Yeah.
 [u0315 | 00:31:23.270-00:31:26.810 | DM] Feel free to invent friends who can help you out.
 [u0316 | 00:31:26.810-00:31:28.080 | Ryu] What's the name of this woman again?
-[u0317 | 00:31:29.450-00:31:30.080 | DM] Raina?
+[u0317 | 00:31:29.450-00:31:30.080 | DM] Rayna?
 [u0318 | 00:31:30.600-00:31:32.340 | Ryu] Marina. And who convened this meeting again?
 [u0319 | 00:31:33.650-00:31:34.370 | DM] We're there.
 [u0320 | 00:31:34.860-00:31:35.530 | Ryu] It was here.
-[u0321 | 00:31:36.250-00:31:42.319 | Ryu] cert… like… just really gives, like, Raina a little, like, once-over, like.
+[u0321 | 00:31:36.250-00:31:42.319 | Ryu] cert… like… just really gives, like, Rayna a little, like, once-over, like.
 [u0322 | 00:31:42.560-00:31:47.239 | Ryu] What's, what's the vibe? Is she, like, does she look like, you know, like,
 [u0323 | 00:31:47.710-00:31:51.769 | Ryu] you know, like a hustler? Like, does she look, like, earnest? Like, what's the kind of vibe here to look?
 [u0324 | 00:31:52.470-00:31:54.080 | DM] Go ahead and make a wisdom check.
@@ -348,7 +348,7 @@
 [u0348 | 00:33:18.200-00:33:20.030 | DM] And I saw this cave up…
 [u0349 | 00:33:20.470-00:33:26.760 | DM] There was no sunlight, there was just some blue… warm…
 [u0350 | 00:33:26.870-00:33:36.330 | DM] enclosing glow from the water that was gently lapping at a sandy beach, and I could see into a shrine built on the beach with a
-[u0351 | 00:33:36.870-00:33:41.930 | DM] statue of Guzu the Mariner, like, in the shrine.
+[u0351 | 00:33:36.870-00:33:41.930 | DM] statue of Guzo the Mariner, like, in the shrine.
 [u0352 | 00:33:43.980-00:33:47.650 | Ryu] Ryu's never heard of this place. Like, nothing that she's describing sounds familiar.
 [u0353 | 00:33:47.650-00:33:53.729 | Ander] This… now, this is a real… this… this is an actual place that needs finding, or this is a…
 [u0354 | 00:33:54.040-00:33:55.720 | Ander] A dream of a place.
@@ -391,28 +391,28 @@
 [u0391 | 00:36:21.710-00:36:22.300 | Trok] Wait, which code?
 [u0392 | 00:36:22.300-00:36:24.140 | Ander] Would be able to ask the god about.
 [u0393 | 00:36:24.310-00:36:26.210 | Ander] Where to… Find it?
-[u0394 | 00:36:27.730-00:36:34.700 | DM] I mean, yeah, there's definitely… so there's… it's like… it's like the church in town is St. Guzu's, or something like that.
+[u0394 | 00:36:27.730-00:36:34.700 | DM] I mean, yeah, there's definitely… so there's… it's like… it's like the church in town is St. Guzo's, or something like that.
 [u0395 | 00:36:34.700-00:36:35.080 | Trok] I mean.
 [u0396 | 00:36:35.080-00:36:36.620 | DM] Like, that's the kind of vibe.
 [u0397 | 00:36:39.030-00:36:41.489 | DM] So there's definitely… the, like, local…
 [u0398 | 00:36:41.680-00:36:49.579 | DM] the local, like… so Mawar worships Mos Numena, the same religion of Chardon, but their take on it is very much alike.
-[u0399 | 00:36:51.320-00:37:07.990 | DM] heavily into the local heroes as divine representatives on Earth vibe. So rather than worshipping the mother or whatever, they worship, like, the founder of Hamri, or whoever Guzu was. None of you actually are very religious, or maybe Wazir knows history?
+[u0399 | 00:36:51.320-00:37:07.990 | DM] heavily into the local heroes as divine representatives on Earth vibe. So rather than worshipping the mother or whatever, they worship, like, the founder of Hamri, or whoever Guzo was. None of you actually are very religious, or maybe Wazir knows history?
 [u0400 | 00:37:07.990-00:37:09.750 | Wazir] Yeah, boys, here knows it's true.
 [u0401 | 00:37:09.750-00:37:10.500 | DM] Okay.
 [u0402 | 00:37:10.940-00:37:11.420 | Wazir] of ours.
-[u0403 | 00:37:11.420-00:37:13.169 | DM] So, I mean, Guzu is…
+[u0403 | 00:37:11.420-00:37:13.169 | DM] So, I mean, Guzo is…
 [u0404 | 00:37:13.170-00:37:13.909 | Wazir] I'll buy it.
-[u0405 | 00:37:14.330-00:37:21.700 | DM] Guzu is not… the popular story is usually that he was, like, the founder of Hamri or something, but actually that's…
+[u0405 | 00:37:14.330-00:37:21.700 | DM] Guzo is not… the popular story is usually that he was, like, the founder of Hamri or something, but actually that's…
 [u0406 | 00:37:22.470-00:37:26.299 | DM] Per Wazir, that's not… that's just a popular myth.
 [u0407 | 00:37:26.620-00:37:29.739 | DM] But he was instrumental in some early…
 [u0408 | 00:37:30.710-00:37:35.139 | DM] Defenses of, like, in the dark days after the…
-[u0409 | 00:37:35.410-00:37:53.399 | DM] Mawar sort of came into existence as a country in the… in the turbulent times after the plague and the fall of Drankor, and so there was lots of, like, crazy monsters in the ocean and things like that. And so Guzu was, like, instrumental in some of the early defenses of
+[u0409 | 00:37:35.410-00:37:53.399 | DM] Mawar sort of came into existence as a country in the… in the turbulent times after the plague and the fall of Drankor, and so there was lots of, like, crazy monsters in the ocean and things like that. And so Guzo was, like, instrumental in some of the early defenses of
 [u0410 | 00:37:54.020-00:37:57.960 | DM] of Hamri, and really a lot, like, along this whole, sort of.
 [u0411 | 00:37:58.350-00:38:02.330 | DM] Southwestern-facing coast of the peninsula.
 [u0412 | 00:38:03.420-00:38:11.180 | DM] And so acquired a reputation there, and then was sort of, deified, and…
 [u0413 | 00:38:12.590-00:38:20.550 | DM] Similar… similar in vibe to sort of, like, how the Dunmari worship Bismar, right? Except there's just a lot more of them across.
 [u0414 | 00:38:21.170-00:38:24.830 | DM] the Mawar Peninsula… the Mawakel Peninsula.
-[u0415 | 00:38:25.680-00:38:40.589 | DM] But yes, there's… you know, so there's… there's, like, statues to Guzu around the town, there's, like, the church is, you know, St. Guzu's or whatever, I don't actually know what the naming conventions would be, but there's definitely a…
+[u0415 | 00:38:25.680-00:38:40.589 | DM] But yes, there's… you know, so there's… there's, like, statues to Guzo around the town, there's, like, the church is, you know, St. Guzo's or whatever, I don't actually know what the naming conventions would be, but there's definitely a…
 [u0416 | 00:38:41.480-00:38:46.120 | DM] a priest of Mosnumina, who is, like, sort of associated with Gusu.
 [u0417 | 00:38:48.780-00:38:50.460 | DM] Definitely an option.
 [u0418 | 00:38:52.100-00:38:53.649 | Ryu] Yeah, I was… you gotta know somebody.
@@ -456,15 +456,15 @@
 [u0456 | 00:42:58.480-00:43:09.229 | DM] Walks in, kind of looks around, oh, Wazir, you, you're asked to speak!
 [u0457 | 00:43:09.620-00:43:15.559 | DM] - settle some trivia, maybe? A history question at the pub?
 [u0458 | 00:43:18.390-00:43:26.160 | Wazir] We're looking for… something. I'll gesture to… to Trok, who's been drawing.
-[u0459 | 00:43:27.770-00:43:34.219 | Wazir] this, this woman, I'll gesture to Raina, seems to,
+[u0459 | 00:43:27.770-00:43:34.219 | Wazir] this, this woman, I'll gesture to Rayna, seems to,
 [u0460 | 00:43:37.490-00:43:39.760 | Wazir] Wow, it seems like a mystery.
 [u0461 | 00:43:42.260-00:43:45.090 | Wazir] And, well, you know, can't help but meddle.
-[u0462 | 00:43:46.270-00:43:51.530 | Wazir] But it's, something to do with a statue of Guzu?
+[u0462 | 00:43:46.270-00:43:51.530 | Wazir] But it's, something to do with a statue of Guzo?
 [u0463 | 00:43:52.120-00:43:55.210 | Wazir] I thought you might have something to add.
 [u0464 | 00:43:56.010-00:43:56.750 | Wazir] throw on…
 [u0465 | 00:43:56.750-00:43:57.520 | DM] Out of the pot.
 [u0466 | 00:43:57.520-00:43:58.300 | Wazir] You know?
-[u0467 | 00:43:58.300-00:44:00.850 | DM] statues of Guzu around town, huh?
+[u0467 | 00:43:58.300-00:44:00.850 | DM] statues of Guzo around town, huh?
 [u0468 | 00:44:01.440-00:44:04.279 | DM] I don't know when all of them were made.
 [u0469 | 00:44:05.840-00:44:09.269 | DM] But if you tell me which one, maybe I can help.
 [u0470 | 00:44:09.660-00:44:11.879 | DM] See what I can do, anyway.
@@ -483,7 +483,7 @@
 [u0483 | 00:45:20.950-00:45:24.889 | DM] The water, but also coming from the sort of center of the shrine as well.
 [u0484 | 00:45:26.300-00:45:32.010 | Ander] Alright, so either a cave that's cut off from the outside, or… Like, actively under the ocean.
 [u0485 | 00:45:33.250-00:45:38.260 | DM] So, so Yaz looks at this, he says.
-[u0486 | 00:45:43.090-00:46:00.449 | DM] Interesting, there… I do believe that many years ago, there was a shrine built to Guzu.
+[u0486 | 00:45:43.090-00:46:00.449 | DM] Interesting, there… I do believe that many years ago, there was a shrine built to Guzo.
 [u0487 | 00:46:01.040-00:46:05.709 | DM] in one of the… the sea caves on the North Cliff.
 [u0488 | 00:46:07.880-00:46:09.320 | DM] But I had thought it.
 [u0489 | 00:46:10.100-00:46:12.650 | DM] long… Buried.
@@ -511,7 +511,7 @@
 [u0511 | 00:48:35.720-00:48:40.420 | Ryu] You know, again, if something collapsed, 100 years ago, I mean.
 [u0512 | 00:48:40.990-00:48:43.140 | Ryu] There's a lot to search on that in those areas.
 [u0513 | 00:48:43.790-00:48:44.470 | Trok] Hmm.
-[u0514 | 00:48:47.240-00:48:53.630 | Ryu] Raina, is there anything else you can tell us? I mean, now we've got a general area, we could just go search out there, but, you know, might take a…
+[u0514 | 00:48:47.240-00:48:53.630 | Ryu] Rayna, is there anything else you can tell us? I mean, now we've got a general area, we could just go search out there, but, you know, might take a…
 [u0515 | 00:48:54.460-00:48:56.430 | Ryu] Took a long time to try to figure anything out.
 [u0516 | 00:48:56.670-00:49:01.159 | Ander] Well, is there… well, are there non-humans in this town, Tim?
 [u0517 | 00:49:01.630-00:49:03.410 | DM] There's a lot of lizard folk.
@@ -609,7 +609,7 @@
 [u0609 | 00:56:55.670-00:57:01.989 | DM] So who's to say? Maybe if you swim down, there's still a way through under the… Under the cave-in.
 [u0610 | 00:57:02.680-00:57:03.480 | Ryu] Check it out.
 [u0611 | 00:57:05.700-00:57:08.080 | Ryu] I like this, makes life a little interesting.
-[u0612 | 00:57:10.380-00:57:15.049 | Ryu] Rena, do you wanna join us, or do you wanna… is this more of a…
+[u0612 | 00:57:10.380-00:57:15.049 | Ryu] Rayna, do you wanna join us, or do you wanna… is this more of a…
 [u0613 | 00:57:15.200-00:57:16.609 | Ryu] We go check it out and tell you.
 [u0614 | 00:57:16.610-00:57:18.290 | DM] No, I'm…
 [u0615 | 00:57:19.150-00:57:21.480 | Ryu] Not much one for…
@@ -633,7 +633,7 @@
 [u0633 | 00:58:52.690-00:58:56.690 | DM] But today, you'll gather… at…
 [u0634 | 00:58:57.200-00:59:07.419 | DM] wherever dock Ryu stores his little boat at, which probably holds, like, 8 people, or… I mean, it's not a… it's not like a little dinghy, right? But it's not a huge ship, right? So…
 [u0635 | 00:59:07.620-00:59:15.810 | DM] It's a one-person sailboat that you normally take out with… to fish, but… But it easily holds…
-[u0636 | 00:59:16.060-00:59:21.019 | DM] All of you, plus… Plus, Raina.
+[u0636 | 00:59:16.060-00:59:21.019 | DM] All of you, plus… Plus, Rayna.
 [u0637 | 00:59:21.180-00:59:35.109 | DM] Who is clearly very familiar with boats, and is talking shop with Ryu the whole time, like, preparing to cast off. I don't actually remember of the rest of your characters, if anybody else is. Ander is not really a boat person.
 [u0638 | 00:59:35.600-00:59:35.960 | Ryu] 12.
 [u0639 | 00:59:35.960-00:59:36.980 | DM] Wazir…
@@ -707,7 +707,7 @@
 [u0707 | 01:04:23.620-01:04:29.750 | DM] I mean, everybody's helping, that's why one person is… that's why Ryu is… Rolling with Advantage.
 [u0708 | 01:04:30.010-01:04:48.369 | DM] So you do see an area that, now that you're looking, like, you can… you can actually see there's, like, a little bit of… there's, like, gaps in the rocks. Like, there's a… clearly there's, like, been a cave-in. Like, the sides of the cave have collapsed a little bit. But there are…
 [u0709 | 01:04:49.400-01:04:54.270 | DM] There are gaps in the rocks here. Like, you can see there's a space through
-[u0710 | 01:04:54.620-01:05:02.210 | DM] into something else, and it's roughly in the place where Raina said it should be. Or, sorry, where Ovina, the dwarf, said it should be.
+[u0710 | 01:04:54.620-01:05:02.210 | DM] into something else, and it's roughly in the place where Rayna said it should be. Or, sorry, where Ovina, the dwarf, said it should be.
 [u0711 | 01:05:06.290-01:05:06.910 | Ryu] Cool.
 [u0712 | 01:05:08.680-01:05:10.700 | Ryu] Let's go check it out.
 [u0713 | 01:05:11.130-01:05:11.870 | Wazir] Yeah?
@@ -770,10 +770,10 @@
 [u0770 | 01:08:39.970-01:08:44.420 | DM] The location of this cave where the… Frozen.
 [u0771 | 01:08:44.970-01:08:47.740 | DM] Song is.
 [u0772 | 01:08:50.240-01:08:51.589 | Nerissa] Wow, nice job, guys.
-[u0773 | 01:08:53.040-01:09:10.270 | DM] statue of Guzu the Mariner on a white sandy beach with warm, glowing blue light filling the space. They realized it was a cave where a shrine had been built, and between Ryu's cartography and talking to a dwarf who remembered the cave and various other clues.
+[u0773 | 01:08:53.040-01:09:10.270 | DM] statue of Guzo the Mariner on a white sandy beach with warm, glowing blue light filling the space. They realized it was a cave where a shrine had been built, and between Ryu's cartography and talking to a dwarf who remembered the cave and various other clues.
 [u0774 | 01:09:10.300-01:09:11.390 | DM] You have now…
 [u0775 | 01:09:11.390-01:09:15.210 | DM] found the location of where you think the cave is, it…
-[u0776 | 01:09:15.729-01:09:22.270 | DM] It used to be a popular shrine to this… basically a saint, Guzu the Mariner, a saint of Mos Numena.
+[u0776 | 01:09:15.729-01:09:22.270 | DM] It used to be a popular shrine to this… basically a saint, Guzo the Mariner, a saint of Mos Numena.
 [u0777 | 01:09:22.680-01:09:25.250 | DM] The cave collapsed 100 years ago.
 [u0778 | 01:09:25.310-01:09:31.960 | DM] And now everybody's just about to explore the entrance to the collapsed cave, which is where you are.
 [u0779 | 01:09:32.130-01:09:36.410 | DM] So, as Trok dives down,
@@ -811,7 +811,7 @@
 [u0811 | 01:12:36.660-01:12:44.440 | DM] They're basically creatures made of water. They don't seem to have paid much attention to Turk, they're just kind of lounging
 [u0812 | 01:12:45.140-01:12:47.149 | DM] A bit carelessly around.
 [u0813 | 01:12:47.940-01:12:48.720 | Ryu] -Oh.
-[u0814 | 01:12:50.150-01:12:59.090 | Ryu] Yeah, Ryu will tell everybody what he sees, and in particular, Raina, like, what's your reaction to this? Do you have any idea what these creatures are?
+[u0814 | 01:12:50.150-01:12:59.090 | Ryu] Yeah, Ryu will tell everybody what he sees, and in particular, Rayna, like, what's your reaction to this? Do you have any idea what these creatures are?
 [u0815 | 01:12:59.140-01:12:59.760 | DM] On the beach?
 [u0816 | 01:13:01.290-01:13:04.409 | DM] I never saw anything in any of my visions.
 [u0817 | 01:13:06.080-01:13:09.109 | DM] The voice… did seem nervous.
@@ -1045,8 +1045,8 @@
 [u1045 | 01:28:31.540-01:28:33.250 | Wazir] Yeah, yeah.
 [u1046 | 01:28:37.130-01:28:49.090 | DM] Okay, so… The main temple area… has, has 3 key features.
 [u1047 | 01:28:50.220-01:28:56.070 | DM] So, you see in the middle this statue of, of.
-[u1048 | 01:28:56.240-01:28:58.870 | DM] of Guzu, exactly as…
-[u1049 | 01:28:58.870-01:29:05.949 | DM] Trok drew from Raina's description. In front of the statue is an altar.
+[u1048 | 01:28:56.240-01:28:58.870 | DM] of Guzo, exactly as…
+[u1049 | 01:28:58.870-01:29:05.949 | DM] Trok drew from Rayna's description. In front of the statue is an altar.
 [u1050 | 01:29:06.040-01:29:21.890 | DM] set low to the ground that seems to be the source of this glowing blue light that's spreading, and the light's almost, like, trickling like mist, so it, like, flows down the steps, and it dribbles into the water, and it infuses the water, causing it to glow.
 [u1051 | 01:29:23.970-01:29:32.280 | DM] On the… there's… There was probably once… this was once, like, a sort of domed ceiling, and there were,
 [u1052 | 01:29:32.750-01:29:39.740 | DM] skylights, all of the skylights have broken and fallen down. The second story is just over…
@@ -1071,7 +1071,7 @@
 [u1071 | 01:31:04.290-01:31:20.849 | DM] or I guess it's more along the side walls, like here and here, sort of in between these columns. There's a bunch of, like, niches and things where little offerings and things have been scattered. You can see that many of them have been sort of strewn around the floor.
 [u1072 | 01:31:20.990-01:31:27.240 | DM] In the back, it's like one of those medieval churches where there's, like, a whole bunch of…
 [u1073 | 01:31:27.810-01:31:38.010 | DM] Carvings in the wall, like, people's names and things, and then written in big letters up across the top in a sort of arc.
-[u1074 | 01:31:38.010-01:31:50.839 | DM] are the words in, Mawarin, kneel and pray Guzu's ancestor's prayer to open the passage to the sea.
+[u1074 | 01:31:38.010-01:31:50.839 | DM] are the words in, Mawarin, kneel and pray Guzo's ancestor's prayer to open the passage to the sea.
 [u1075 | 01:31:51.080-01:31:54.959 | DM] And then there's a door over here that leads into a side chapel.
 [u1076 | 01:31:59.370-01:32:00.550 | DM] And the…
 [u1077 | 01:32:00.580-01:32:01.480 | DM] No.
@@ -1206,7 +1206,7 @@
 [u1206 | 01:43:16.990-01:43:19.420 | Trok] What are we looking for again? The crystal.
 [u1207 | 01:43:20.970-01:43:22.400 | Trok] Yes, sir.
 [u1208 | 01:43:22.650-01:43:25.710 | DM] Slowly… He steps back.
-[u1209 | 01:43:25.710-01:43:28.359 | Ryu] Should I go get Raina, and, like, escort her in here?
+[u1209 | 01:43:25.710-01:43:28.359 | Ryu] Should I go get Rayna, and, like, escort her in here?
 [u1210 | 01:43:30.910-01:43:32.530 | Trok] Isn't she, like, sailing the ship for us?
 [u1211 | 01:43:33.360-01:43:36.429 | Ryu] It's just, like, hanging out at the boat. Yeah, making sure that the boat…
 [u1212 | 01:43:36.900-01:43:37.350 | DM] Yeah.
@@ -1223,7 +1223,7 @@
 [u1223 | 01:44:03.720-01:44:06.879 | Trok] Wait, there was an inscription about kneeling and praying or something?
 [u1224 | 01:44:07.840-01:44:10.179 | Nerissa] That was supposed to let the ocean in.
 [u1225 | 01:44:10.180-01:44:11.230 | DM] That's sad.
-[u1226 | 01:44:11.770-01:44:16.739 | DM] Kneel and pray Guzu's ancestor prayer to open the passage to the sea.
+[u1226 | 01:44:11.770-01:44:16.739 | DM] Kneel and pray Guzo's ancestor prayer to open the passage to the sea.
 [u1227 | 01:44:17.520-01:44:18.350 | Trok] Mmm.
 [u1228 | 01:44:18.750-01:44:22.299 | Wazir] And there's a, clearly, ocean behind this secret door, right?
 [u1229 | 01:44:22.590-01:44:23.200 | Wazir] There's one.
@@ -1231,7 +1231,7 @@
 [u1231 | 01:44:25.810-01:44:31.160 | Wazir] Does it seem like it opens in or out, or is it just, like, totally impossible to tell?
 [u1232 | 01:44:32.590-01:44:39.020 | DM] It's probably magic. Like, there's no hinges. There's no way to see that there's…
 [u1233 | 01:44:40.190-01:44:48.580 | DM] It's not like a secret door that's secret, because it's, like, carefully hidden from… it's not some… well, at least not… well, go ahead and make an investigation check.
-[u1234 | 01:44:48.580-01:44:52.919 | Nerissa] Nerissa flips through the prayer book to see if there's one called Guzu's Ancestor Prayer.
+[u1234 | 01:44:48.580-01:44:52.919 | Nerissa] Nerissa flips through the prayer book to see if there's one called Guzo's Ancestor Prayer.
 [u1235 | 01:44:52.920-01:44:53.520 | Ryu] Hey, yeah.
 [u1236 | 01:44:53.950-01:44:54.770 | Trok] Hmm.
 [u1237 | 01:44:55.190-01:44:59.720 | DM] Okay. What was your vest- I haven't clicked yet. Okay.
@@ -1467,7 +1467,7 @@
 [u1467 | 02:00:15.990-02:00:22.419 | Ander] But even if he goes back to the elemental plane of water without it, won't he just, like, come back here again tomorrow
 [u1468 | 02:00:23.020-02:00:27.229 | Ander] Get it back, like, have we really solved the problem if he leaves?
 [u1469 | 02:00:27.740-02:00:29.229 | Nerissa] We leave with the shard.
-[u1470 | 02:00:29.230-02:00:31.769 | Ryu] Yeah, we leave with the shard, we get it to Raina, and then we're done.
+[u1470 | 02:00:29.230-02:00:31.769 | Ryu] Yeah, we leave with the shard, we get it to Rayna, and then we're done.
 [u1471 | 02:00:32.210-02:00:33.589 | Trok] And he's still trapped here.
 [u1472 | 02:00:37.060-02:00:39.439 | Ander] What, can't you walk out the door?
 [u1473 | 02:00:39.440-02:00:42.860 | DM] swim, you open the door.
@@ -1490,11 +1490,11 @@
 [u1490 | 02:01:29.370-02:01:34.429 | Wazir] Wait, wait, don't we miss… we have the shard? Wait, wait, hold on. Did I miss something? Don't we have the shard?
 [u1491 | 02:01:34.430-02:01:34.940 | DM] shard.
 [u1492 | 02:01:36.360-02:01:38.869 | Wazir] So now, don't we just need to get away with the shark?
-[u1493 | 02:01:38.870-02:01:41.219 | Ryu] Go, go, go to Raina, and then run here!
+[u1493 | 02:01:38.870-02:01:41.219 | Ryu] Go, go, go to Rayna, and then run here!
 [u1494 | 02:01:41.280-02:01:46.570 | Ander] I don't know, because presumably it has some way of finding or locating the shard.
 [u1495 | 02:01:47.770-02:01:53.159 | Ander] Taking the shard does not solve the problem of him not looking for the shard and killing anyone who has it.
 [u1496 | 02:01:53.640-02:01:54.150 | Trok] Well…
-[u1497 | 02:01:54.150-02:02:02.469 | DM] There is a possibility that if you just give the shard to Raina and she sails off, then two days later, he shows up in the ocean, sinks her boat, takes the shard.
+[u1497 | 02:01:54.150-02:02:02.469 | DM] There is a possibility that if you just give the shard to Rayna and she sails off, then two days later, he shows up in the ocean, sinks her boat, takes the shard.
 [u1498 | 02:02:02.740-02:02:03.400 | Trok] That's what it is.
 [u1499 | 02:02:03.400-02:02:05.050 | DM] Maybe it wouldn't be your problem at that point.
 [u1500 | 02:02:05.050-02:02:06.829 | Wazir] Yeah, no, okay, that's true.
@@ -2688,7 +2688,7 @@
 [u2688 | 03:19:34.680-03:19:35.819 | DM] As he dies.
 [u2689 | 03:19:36.370-03:19:37.720 | Ryu] Got some koa, got some koa.
 [u2690 | 03:19:38.550-03:19:43.270 | DM] And then… In the next few minutes, you manage to…
-[u2691 | 03:19:44.470-03:19:51.679 | DM] kill all these last two creatures, keeping them from swimming off and potentially attacking Raina.
+[u2691 | 03:19:44.470-03:19:51.679 | DM] kill all these last two creatures, keeping them from swimming off and potentially attacking Rayna.
 [u2692 | 03:19:54.250-03:19:59.420 | DM] And you find yourself now… Staring at this crystal.
 [u2693 | 03:20:01.440-03:20:03.530 | DM] Which begins to…
 [u2694 | 03:20:03.720-03:20:06.179 | DM] like… Who's holding it?
@@ -2711,11 +2711,11 @@
 [u2711 | 03:21:05.820-03:21:10.290 | Ryu] Can we… can I… like, you know, is there any cool treasure to liberate, you know?
 [u2712 | 03:21:10.550-03:21:11.509 | Ryu] Cool items.
 [u2713 | 03:21:12.250-03:21:18.449 | DM] I mean… Trok already looted all of the offerings.
-[u2714 | 03:21:18.730-03:21:22.660 | DM] Left here for Guzu the Mariner.
+[u2714 | 03:21:18.730-03:21:22.660 | DM] Left here for Guzo the Mariner.
 [u2715 | 03:21:23.740-03:21:26.720 | DM] Otherwise, I mean, this… there's been…
 [u2716 | 03:21:27.540-03:21:36.279 | DM] This is not an intact ruin, there's been a bunch of… there's been, like, storms that have swept through, and the floor is, you know, it's piles of rubble, mostly.
 [u2717 | 03:21:36.950-03:21:37.800 | Ryu] Alright, let's get outta here.
-[u2718 | 03:21:38.080-03:21:45.220 | DM] So you swim back, and meet Raina.
+[u2718 | 03:21:38.080-03:21:45.220 | DM] So you swim back, and meet Rayna.
 [u2719 | 03:21:47.170-03:21:51.969 | DM] talk to her a bit, I guess, assume, give her the shower?
 [u2720 | 03:21:53.200-03:21:54.950 | DM] That's what she wanted, right?
 [u2721 | 03:21:57.850-03:22:02.960 | DM] And… as you hand it over to her, there's… you all sort of see this…
@@ -2730,7 +2730,7 @@
 [u2730 | 03:22:58.610-03:23:03.839 | DM] Forming this, like, tangled naturalistic structure with these sort of nests for…
 [u2731 | 03:23:04.170-03:23:06.720 | DM] For people to… to sleep in, and…
 [u2732 | 03:23:07.400-03:23:13.860 | DM] The… there's this pulse of longing from the crystal, like… And wants to go home.
-[u2733 | 03:23:17.670-03:23:22.400 | DM] You all feel this, but Raina… Says that she'll take it.
+[u2733 | 03:23:17.670-03:23:22.400 | DM] You all feel this, but Rayna… Says that she'll take it.
 [u2734 | 03:23:24.690-03:23:27.920 | DM] She's seen this vision before. She knows…
 [u2735 | 03:23:30.560-03:23:35.410 | DM] Roughly where this is. Somewhere off the coast of Vaporia, she says.
 [u2736 | 03:23:35.410-03:23:36.560 | DM] The crib.
@@ -2738,7 +2738,7 @@
 [u2738 | 03:23:46.590-03:23:47.950 | DM] And so…
 [u2739 | 03:23:51.140-03:23:54.899 | DM] That afternoon, you return to the Leviathan Inn.
 [u2740 | 03:23:56.850-03:24:02.100 | DM] and begin… Whatever's next.
-[u2741 | 03:24:03.310-03:24:05.220 | DM] Helping Raina get settled.
+[u2741 | 03:24:03.310-03:24:05.220 | DM] Helping Rayna get settled.
 [u2742 | 03:24:05.920-03:24:09.240 | DM] She's gonna stay another night before leaving in the morning.
 [u2743 | 03:24:09.410-03:24:16.809 | DM] To sail across the big expanse of the Mawar Ocean in the Gulf of Chardon to reach Apporia.
 [u2744 | 03:24:19.740-03:24:25.240 | DM] And hopefully return this thing to its home. Which…

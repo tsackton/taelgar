@@ -64,8 +64,8 @@ Do not edit `beats.json`.
 
 ## Adjacent Beats
 
-- Previous: beat-001 - Recap and Raina's Plea (1749-05-26)
-- Next: beat-003 - Finding the Buried Shrine (1749-05-26)
+- Previous: beat-001 - Recap and Rayna's Plea (1749-05-26)
+- Next: beat-003 - Finding the Buried Shrine (1749-05-27)
 
 If the transcript does not clearly restate the location, prefer inheriting the prior beat's location unless there is a clear move or travel transition.
 
@@ -79,7 +79,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Ander: name=David Schwartz, gameRole=Ander
 - DM: name=Tim Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0247 | 00:25:49.830-00:25:53.030 | DM] And she would like somebody to find this.
 [u0248 | 00:25:53.700-00:25:55.299 | DM] And bring it to her.
@@ -151,11 +151,11 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0314 | 00:31:21.370-00:31:21.880 | Ryu] Yeah.
 [u0315 | 00:31:23.270-00:31:26.810 | DM] Feel free to invent friends who can help you out.
 [u0316 | 00:31:26.810-00:31:28.080 | Ryu] What's the name of this woman again?
-[u0317 | 00:31:29.450-00:31:30.080 | DM] Raina?
+[u0317 | 00:31:29.450-00:31:30.080 | DM] Rayna?
 [u0318 | 00:31:30.600-00:31:32.340 | Ryu] Marina. And who convened this meeting again?
 [u0319 | 00:31:33.650-00:31:34.370 | DM] We're there.
 [u0320 | 00:31:34.860-00:31:35.530 | Ryu] It was here.
-[u0321 | 00:31:36.250-00:31:42.319 | Ryu] cert… like… just really gives, like, Raina a little, like, once-over, like.
+[u0321 | 00:31:36.250-00:31:42.319 | Ryu] cert… like… just really gives, like, Rayna a little, like, once-over, like.
 [u0322 | 00:31:42.560-00:31:47.239 | Ryu] What's, what's the vibe? Is she, like, does she look like, you know, like,
 [u0323 | 00:31:47.710-00:31:51.769 | Ryu] you know, like a hustler? Like, does she look, like, earnest? Like, what's the kind of vibe here to look?
 [u0324 | 00:31:52.470-00:31:54.080 | DM] Go ahead and make a wisdom check.
@@ -185,7 +185,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0348 | 00:33:18.200-00:33:20.030 | DM] And I saw this cave up…
 [u0349 | 00:33:20.470-00:33:26.760 | DM] There was no sunlight, there was just some blue… warm…
 [u0350 | 00:33:26.870-00:33:36.330 | DM] enclosing glow from the water that was gently lapping at a sandy beach, and I could see into a shrine built on the beach with a
-[u0351 | 00:33:36.870-00:33:41.930 | DM] statue of Guzu the Mariner, like, in the shrine.
+[u0351 | 00:33:36.870-00:33:41.930 | DM] statue of Guzo the Mariner, like, in the shrine.
 [u0352 | 00:33:43.980-00:33:47.650 | Ryu] Ryu's never heard of this place. Like, nothing that she's describing sounds familiar.
 [u0353 | 00:33:47.650-00:33:53.729 | Ander] This… now, this is a real… this… this is an actual place that needs finding, or this is a…
 [u0354 | 00:33:54.040-00:33:55.720 | Ander] A dream of a place.
@@ -228,28 +228,28 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0391 | 00:36:21.710-00:36:22.300 | Trok] Wait, which code?
 [u0392 | 00:36:22.300-00:36:24.140 | Ander] Would be able to ask the god about.
 [u0393 | 00:36:24.310-00:36:26.210 | Ander] Where to… Find it?
-[u0394 | 00:36:27.730-00:36:34.700 | DM] I mean, yeah, there's definitely… so there's… it's like… it's like the church in town is St. Guzu's, or something like that.
+[u0394 | 00:36:27.730-00:36:34.700 | DM] I mean, yeah, there's definitely… so there's… it's like… it's like the church in town is St. Guzo's, or something like that.
 [u0395 | 00:36:34.700-00:36:35.080 | Trok] I mean.
 [u0396 | 00:36:35.080-00:36:36.620 | DM] Like, that's the kind of vibe.
 [u0397 | 00:36:39.030-00:36:41.489 | DM] So there's definitely… the, like, local…
 [u0398 | 00:36:41.680-00:36:49.579 | DM] the local, like… so Mawar worships Mos Numena, the same religion of Chardon, but their take on it is very much alike.
-[u0399 | 00:36:51.320-00:37:07.990 | DM] heavily into the local heroes as divine representatives on Earth vibe. So rather than worshipping the mother or whatever, they worship, like, the founder of Hamri, or whoever Guzu was. None of you actually are very religious, or maybe Wazir knows history?
+[u0399 | 00:36:51.320-00:37:07.990 | DM] heavily into the local heroes as divine representatives on Earth vibe. So rather than worshipping the mother or whatever, they worship, like, the founder of Hamri, or whoever Guzo was. None of you actually are very religious, or maybe Wazir knows history?
 [u0400 | 00:37:07.990-00:37:09.750 | Wazir] Yeah, boys, here knows it's true.
 [u0401 | 00:37:09.750-00:37:10.500 | DM] Okay.
 [u0402 | 00:37:10.940-00:37:11.420 | Wazir] of ours.
-[u0403 | 00:37:11.420-00:37:13.169 | DM] So, I mean, Guzu is…
+[u0403 | 00:37:11.420-00:37:13.169 | DM] So, I mean, Guzo is…
 [u0404 | 00:37:13.170-00:37:13.909 | Wazir] I'll buy it.
-[u0405 | 00:37:14.330-00:37:21.700 | DM] Guzu is not… the popular story is usually that he was, like, the founder of Hamri or something, but actually that's…
+[u0405 | 00:37:14.330-00:37:21.700 | DM] Guzo is not… the popular story is usually that he was, like, the founder of Hamri or something, but actually that's…
 [u0406 | 00:37:22.470-00:37:26.299 | DM] Per Wazir, that's not… that's just a popular myth.
 [u0407 | 00:37:26.620-00:37:29.739 | DM] But he was instrumental in some early…
 [u0408 | 00:37:30.710-00:37:35.139 | DM] Defenses of, like, in the dark days after the…
-[u0409 | 00:37:35.410-00:37:53.399 | DM] Mawar sort of came into existence as a country in the… in the turbulent times after the plague and the fall of Drankor, and so there was lots of, like, crazy monsters in the ocean and things like that. And so Guzu was, like, instrumental in some of the early defenses of
+[u0409 | 00:37:35.410-00:37:53.399 | DM] Mawar sort of came into existence as a country in the… in the turbulent times after the plague and the fall of Drankor, and so there was lots of, like, crazy monsters in the ocean and things like that. And so Guzo was, like, instrumental in some of the early defenses of
 [u0410 | 00:37:54.020-00:37:57.960 | DM] of Hamri, and really a lot, like, along this whole, sort of.
 [u0411 | 00:37:58.350-00:38:02.330 | DM] Southwestern-facing coast of the peninsula.
 [u0412 | 00:38:03.420-00:38:11.180 | DM] And so acquired a reputation there, and then was sort of, deified, and…
 [u0413 | 00:38:12.590-00:38:20.550 | DM] Similar… similar in vibe to sort of, like, how the Dunmari worship Bismar, right? Except there's just a lot more of them across.
 [u0414 | 00:38:21.170-00:38:24.830 | DM] the Mawar Peninsula… the Mawakel Peninsula.
-[u0415 | 00:38:25.680-00:38:40.589 | DM] But yes, there's… you know, so there's… there's, like, statues to Guzu around the town, there's, like, the church is, you know, St. Guzu's or whatever, I don't actually know what the naming conventions would be, but there's definitely a…
+[u0415 | 00:38:25.680-00:38:40.589 | DM] But yes, there's… you know, so there's… there's, like, statues to Guzo around the town, there's, like, the church is, you know, St. Guzo's or whatever, I don't actually know what the naming conventions would be, but there's definitely a…
 [u0416 | 00:38:41.480-00:38:46.120 | DM] a priest of Mosnumina, who is, like, sort of associated with Gusu.
 [u0417 | 00:38:48.780-00:38:50.460 | DM] Definitely an option.
 [u0418 | 00:38:52.100-00:38:53.649 | Ryu] Yeah, I was… you gotta know somebody.
@@ -293,15 +293,15 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0456 | 00:42:58.480-00:43:09.229 | DM] Walks in, kind of looks around, oh, Wazir, you, you're asked to speak!
 [u0457 | 00:43:09.620-00:43:15.559 | DM] - settle some trivia, maybe? A history question at the pub?
 [u0458 | 00:43:18.390-00:43:26.160 | Wazir] We're looking for… something. I'll gesture to… to Trok, who's been drawing.
-[u0459 | 00:43:27.770-00:43:34.219 | Wazir] this, this woman, I'll gesture to Raina, seems to,
+[u0459 | 00:43:27.770-00:43:34.219 | Wazir] this, this woman, I'll gesture to Rayna, seems to,
 [u0460 | 00:43:37.490-00:43:39.760 | Wazir] Wow, it seems like a mystery.
 [u0461 | 00:43:42.260-00:43:45.090 | Wazir] And, well, you know, can't help but meddle.
-[u0462 | 00:43:46.270-00:43:51.530 | Wazir] But it's, something to do with a statue of Guzu?
+[u0462 | 00:43:46.270-00:43:51.530 | Wazir] But it's, something to do with a statue of Guzo?
 [u0463 | 00:43:52.120-00:43:55.210 | Wazir] I thought you might have something to add.
 [u0464 | 00:43:56.010-00:43:56.750 | Wazir] throw on…
 [u0465 | 00:43:56.750-00:43:57.520 | DM] Out of the pot.
 [u0466 | 00:43:57.520-00:43:58.300 | Wazir] You know?
-[u0467 | 00:43:58.300-00:44:00.850 | DM] statues of Guzu around town, huh?
+[u0467 | 00:43:58.300-00:44:00.850 | DM] statues of Guzo around town, huh?
 [u0468 | 00:44:01.440-00:44:04.279 | DM] I don't know when all of them were made.
 [u0469 | 00:44:05.840-00:44:09.269 | DM] But if you tell me which one, maybe I can help.
 [u0470 | 00:44:09.660-00:44:11.879 | DM] See what I can do, anyway.
@@ -320,7 +320,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0483 | 00:45:20.950-00:45:24.889 | DM] The water, but also coming from the sort of center of the shrine as well.
 [u0484 | 00:45:26.300-00:45:32.010 | Ander] Alright, so either a cave that's cut off from the outside, or… Like, actively under the ocean.
 [u0485 | 00:45:33.250-00:45:38.260 | DM] So, so Yaz looks at this, he says.
-[u0486 | 00:45:43.090-00:46:00.449 | DM] Interesting, there… I do believe that many years ago, there was a shrine built to Guzu.
+[u0486 | 00:45:43.090-00:46:00.449 | DM] Interesting, there… I do believe that many years ago, there was a shrine built to Guzo.
 [u0487 | 00:46:01.040-00:46:05.709 | DM] in one of the… the sea caves on the North Cliff.
 [u0488 | 00:46:07.880-00:46:09.320 | DM] But I had thought it.
 [u0489 | 00:46:10.100-00:46:12.650 | DM] long… Buried.
@@ -348,7 +348,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u0511 | 00:48:35.720-00:48:40.420 | Ryu] You know, again, if something collapsed, 100 years ago, I mean.
 [u0512 | 00:48:40.990-00:48:43.140 | Ryu] There's a lot to search on that in those areas.
 [u0513 | 00:48:43.790-00:48:44.470 | Trok] Hmm.
-[u0514 | 00:48:47.240-00:48:53.630 | Ryu] Raina, is there anything else you can tell us? I mean, now we've got a general area, we could just go search out there, but, you know, might take a…
+[u0514 | 00:48:47.240-00:48:53.630 | Ryu] Rayna, is there anything else you can tell us? I mean, now we've got a general area, we could just go search out there, but, you know, might take a…
 [u0515 | 00:48:54.460-00:48:56.430 | Ryu] Took a long time to try to figure anything out.
 [u0516 | 00:48:56.670-00:49:01.159 | Ander] Well, is there… well, are there non-humans in this town, Tim?
 [u0517 | 00:49:01.630-00:49:03.410 | DM] There's a lot of lizard folk.

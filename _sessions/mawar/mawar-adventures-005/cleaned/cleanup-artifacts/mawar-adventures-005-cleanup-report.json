@@ -1,9 +1,32 @@
 {
   "summary": {
-    "changedLineCount": 116,
-    "replacementCount": 73,
-    "repeatedReplacementCount": 18,
+    "changedLineCount": 132,
+    "replacementCount": 76,
+    "repeatedReplacementCount": 20,
     "topReplacements": [
+      {
+        "from": "Guzu",
+        "to": "Guzo",
+        "count": 18,
+        "headers": [
+          "[u0225 | 00:23:32.500-00:23:44.569 | DM]",
+          "[u0240 | 00:25:06.180-00:25:09.930 | DM]",
+          "[u0243 | 00:25:21.240-00:25:27.000 | DM]",
+          "[u0246 | 00:25:39.680-00:25:47.499 | DM]",
+          "[u0351 | 00:33:36.870-00:33:41.930 | DM]",
+          "[u0394 | 00:36:27.730-00:36:34.700 | DM]",
+          "[u0403 | 00:37:11.420-00:37:13.169 | DM]",
+          "[u0409 | 00:37:35.410-00:37:53.399 | DM]",
+          "[u0415 | 00:38:25.680-00:38:40.589 | DM]",
+          "[u0467 | 00:43:58.300-00:44:00.850 | DM]",
+          "[u0773 | 01:08:53.040-01:09:10.270 | DM]",
+          "[u0776 | 01:09:15.729-01:09:22.270 | DM]",
+          "[u1048 | 01:28:56.240-01:28:58.870 | DM]",
+          "[u1074 | 01:31:38.010-01:31:50.839 | DM]",
+          "[u1226 | 01:44:11.770-01:44:16.739 | DM]",
+          "[u1234 | 01:44:48.580-01:44:52.919 | Nerissa]"
+        ]
+      },
       {
         "from": "Troc",
         "to": "Trok",
@@ -66,7 +89,7 @@
       },
       {
         "from": "Reyna",
-        "to": "Raina",
+        "to": "Rayna",
         "count": 10,
         "headers": [
           "[u0317 | 00:31:29.450-00:31:30.080 | DM]",
@@ -94,6 +117,20 @@
           "[u2171 | 02:44:10.830-02:44:25.820 | DM]",
           "[u2373 | 02:58:20.300-02:58:22.899 | DM]",
           "[u2440 | 03:02:30.320-03:02:35.980 | DM]"
+        ]
+      },
+      {
+        "from": "Raina",
+        "to": "Rayna",
+        "count": 7,
+        "headers": [
+          "[u0195 | 00:20:00.410-00:20:14.080 | DM]",
+          "[u0233 | 00:24:26.510-00:24:38.549 | DM]",
+          "[u0459 | 00:43:27.770-00:43:34.219 | Wazir]",
+          "[u1497 | 02:01:54.150-02:02:02.469 | DM]",
+          "[u2718 | 03:21:38.080-03:21:45.220 | DM]",
+          "[u2733 | 03:23:17.670-03:23:22.400 | DM]",
+          "[u2741 | 03:24:03.310-03:24:05.220 | DM]"
         ]
       },
       {
@@ -131,33 +168,12 @@
           "[u0344 | 00:33:02.360-00:33:04.099 | DM]",
           "[u0405 | 00:37:14.330-00:37:21.700 | DM]"
         ]
-      },
-      {
-        "from": "Marwar",
-        "to": "Mawar",
-        "count": 4,
-        "headers": [
-          "[u0082 | 00:08:09.500-00:08:29.119 | DM]",
-          "[u0409 | 00:37:35.410-00:37:53.399 | DM]",
-          "[u0496 | 00:46:53.920-00:47:02.369 | DM]"
-        ]
-      },
-      {
-        "from": "truck",
-        "to": "Trok",
-        "count": 4,
-        "headers": [
-          "[u0471 | 00:44:11.880-00:44:18.039 | Ryu]",
-          "[u0504 | 00:47:53.260-00:47:59.279 | Ryu]",
-          "[u0546 | 00:51:55.940-00:52:02.459 | DM]",
-          "[u2106 | 02:39:41.500-02:39:48.129 | DM]"
-        ]
       }
     ],
     "uniqueUnresolvedPhrases": []
   },
   "lineCount": 2755,
-  "changedLineCount": 116,
+  "changedLineCount": 132,
   "validationErrors": [],
   "unresolvedCount": 0,
   "unresolvedPhrases": [],
@@ -211,6 +227,12 @@
       "cleanedText": "As summer chose to fall, rumors spread from the south of a daring theft, the merchants say. Powerful magic stolen from a great wizard of Chardon, who was viciously attacked and betrayed by outsiders in the city. Something about a giant's crown full of ancient elemental magic."
     },
     {
+      "header": "[u0076 | 00:07:28.750-00:07:34.920 | DM]",
+      "lineNumber": 76,
+      "originalText": "Kaiso, a scholar from Chardon with several mutual friends with Wazir, arrives at the start of October.",
+      "cleanedText": "Kaeso, a scholar from Chardon with several mutual friends with Wazir, arrives at the start of October."
+    },
+    {
       "header": "[u0081 | 00:08:05.750-00:08:08.510 | DM]",
       "lineNumber": 81,
       "originalText": "Wondering what these events meant for Malwar.",
@@ -220,19 +242,19 @@
       "header": "[u0082 | 00:08:09.500-00:08:29.119 | DM]",
       "lineNumber": 82,
       "originalText": "Could it be long before Chartan looked to claim Marwar itself. After all, Arian the Mistspeaker had long spoken of the Marwakal Peninsula, which is where the Marwar Confederacy is, as an important locus of elemental power, and Arian's scrolls of elemental power had turned up in Chardon recently, Kaiso had learned.",
-      "cleanedText": "Could it be long before Chardon looked to claim Mawar itself. After all, Arian the Mistspeaker had long spoken of the Mawakel Peninsula, which is where the Mawar Confederacy is, as an important locus of elemental power, and Arian's scrolls of elemental power had turned up in Chardon recently, Kaiso had learned."
+      "cleanedText": "Could it be long before Chardon looked to claim Mawar itself. After all, Arian the Mistspeaker had long spoken of the Mawakel Peninsula, which is where the Mawar Confederacy is, as an important locus of elemental power, and Arian's scrolls of elemental power had turned up in Chardon recently, Kaeso had learned."
     },
     {
       "header": "[u0084 | 00:08:39.520-00:08:46.569 | DM]",
       "lineNumber": 84,
       "originalText": "Kaisler took this hard and spent many days alone in his room, but emerged to say that Dunbar held, though he would not say how he knew.",
-      "cleanedText": "Kaiso took this hard and spent many days alone in his room, but emerged to say that Dunmar held, though he would not say how he knew."
+      "cleanedText": "Kaeso took this hard and spent many days alone in his room, but emerged to say that Dunmar held, though he would not say how he knew."
     },
     {
       "header": "[u0088 | 00:09:11.710-00:09:32.389 | DM]",
       "lineNumber": 88,
       "originalText": "But few and harm really cared about the events of far-off Dunbar. The traders from Chardon whispered that something seemed wrong. While the amount of chalite flowing into the city was greater than ever, constant shortages led to the first outbreak of cholera in years, though Kaisa would point out, the traders don't seem to count the sickness that spreads in the slums of the North Bank here.",
-      "cleanedText": "But few in Hamri really cared about the events of far-off Dunmar. The traders from Chardon whispered that something seemed wrong. While the amount of chalyte flowing into the city was greater than ever, constant shortages led to the first outbreak of cholera in years, though Kaiso would point out, the traders don't seem to count the sickness that spreads in the slums of the North Bank there."
+      "cleanedText": "But few in Hamri really cared about the events of far-off Dunmar. The traders from Chardon whispered that something seemed wrong. While the amount of chalyte flowing into the city was greater than ever, constant shortages led to the first outbreak of cholera in years, though Kaeso would point out, the traders don't seem to count the sickness that spreads in the slums of the North Bank there."
     },
     {
       "header": "[u0089 | 00:09:32.910-00:09:39.969 | DM]",
@@ -292,7 +314,7 @@
       "header": "[u0195 | 00:20:00.410-00:20:14.080 | DM]",
       "lineNumber": 195,
       "originalText": "this woman, Raina, begins to tell you her story, and she's come looking for somebody. I mean, she doesn't… she's not from Hanri, she doesn't know anybody, but was obviously told at the port, like, you know.",
-      "cleanedText": "this woman, Raina, begins to tell you her story, and she's come looking for somebody. I mean, she doesn't… she's not from Hamri, she doesn't know anybody, but was obviously told at the port, like, you know."
+      "cleanedText": "this woman, Rayna, begins to tell you her story, and she's come looking for somebody. I mean, she doesn't… she's not from Hamri, she doesn't know anybody, but was obviously told at the port, like, you know."
     },
     {
       "header": "[u0198 | 00:20:30.930-00:20:32.420 | DM]",
@@ -310,7 +332,7 @@
       "header": "[u0225 | 00:23:32.500-00:23:44.569 | DM]",
       "lineNumber": 225,
       "originalText": "strange undersea cities of kelp forests full of memories, but also of malware long ago, of Guzu the Mariner standing on the prowess ship. Guzu the Mariner is, like, one of the…",
-      "cleanedText": "strange undersea cities of kelp forests full of memories, but also of Mawar long ago, of Guzu the Mariner standing on the prow of a ship. Guzu the Mariner is, like, one of the…"
+      "cleanedText": "strange undersea cities of kelp forests full of memories, but also of Mawar long ago, of Guzo the Mariner standing on the prow of a ship. Guzo the Mariner is, like, one of the…"
     },
     {
       "header": "[u0226 | 00:23:44.790-00:23:50.049 | DM]",
@@ -322,7 +344,7 @@
       "header": "[u0227 | 00:23:51.260-00:24:03.049 | DM]",
       "lineNumber": 227,
       "originalText": "send their prayers to the Eight Divines via Uzu, at least in Homri. And there's a bunch of these other, like, heroes of Mawar that function as saints.",
-      "cleanedText": "send their prayers to the Eight Divines via Guzu, at least in Hamri. And there's a bunch of these other, like, heroes of Mawar that function as saints."
+      "cleanedText": "send their prayers to the Eight Divines via Guzo, at least in Hamri. And there's a bunch of these other, like, heroes of Mawar that function as saints."
     },
     {
       "header": "[u0232 | 00:24:22.680-00:24:26.220 | DM]",
@@ -334,7 +356,13 @@
       "header": "[u0233 | 00:24:26.510-00:24:38.549 | DM]",
       "lineNumber": 233,
       "originalText": "But for a while, they didn't think much of it. A few years after that, the ship was wrapped, and most of the crew, including Caleb, died, Raina survived, but it was a dark few years after that recovering.",
-      "cleanedText": "But for a while, they didn't think much of it. A few years after that, the ship was wrecked, and most of the crew, including Caleb, died, Raina survived, but it was a dark few years after that recovering."
+      "cleanedText": "But for a while, they didn't think much of it. A few years after that, the ship was wrecked, and most of the crew, including Caleb, died, Rayna survived, but it was a dark few years after that recovering."
+    },
+    {
+      "header": "[u0240 | 00:25:06.180-00:25:09.930 | DM]",
+      "lineNumber": 240,
+      "originalText": "And a statue of Guzu the Mariner on a white sandy beach.",
+      "cleanedText": "And a statue of Guzo the Mariner on a white sandy beach."
     },
     {
       "header": "[u0242 | 00:25:17.540-00:25:20.729 | DM]",
@@ -346,13 +374,19 @@
       "header": "[u0243 | 00:25:21.240-00:25:27.000 | DM]",
       "lineNumber": 243,
       "originalText": "Guzu was always associated with Omri in Caleb's stories, and so she came here.",
-      "cleanedText": "Guzu was always associated with Hamri in Caleb's stories, and so she came here."
+      "cleanedText": "Guzo was always associated with Hamri in Caleb's stories, and so she came here."
     },
     {
       "header": "[u0244 | 00:25:28.810-00:25:36.109 | DM]",
       "lineNumber": 244,
       "originalText": "She doesn't know where it is, but she thinks somewhere in the cliffs of… of Homri.",
       "cleanedText": "She doesn't know where it is, but she thinks somewhere in the cliffs of… of Hamri."
+    },
+    {
+      "header": "[u0246 | 00:25:39.680-00:25:47.499 | DM]",
+      "lineNumber": 246,
+      "originalText": "With a white sandy beach and a statue of Guzu. And somewhere inside the cave is something that this song of the ocean wants back.",
+      "cleanedText": "With a white sandy beach and a statue of Guzo. And somewhere inside the cave is something that this song of the ocean wants back."
     },
     {
       "header": "[u0252 | 00:26:05.260-00:26:07.119 | Trok]",
@@ -370,19 +404,25 @@
       "header": "[u0317 | 00:31:29.450-00:31:30.080 | DM]",
       "lineNumber": 317,
       "originalText": "Reyna?",
-      "cleanedText": "Raina?"
+      "cleanedText": "Rayna?"
     },
     {
       "header": "[u0321 | 00:31:36.250-00:31:42.319 | Ryu]",
       "lineNumber": 321,
       "originalText": "cert… like… just really gives, like, Reyna a little, like, once-over, like.",
-      "cleanedText": "cert… like… just really gives, like, Raina a little, like, once-over, like."
+      "cleanedText": "cert… like… just really gives, like, Rayna a little, like, once-over, like."
     },
     {
       "header": "[u0344 | 00:33:02.360-00:33:04.099 | DM]",
       "lineNumber": 344,
       "originalText": "I've never been to Homery before.",
       "cleanedText": "I've never been to Hamri before."
+    },
+    {
+      "header": "[u0351 | 00:33:36.870-00:33:41.930 | DM]",
+      "lineNumber": 351,
+      "originalText": "statue of Guzu the Mariner, like, in the shrine.",
+      "cleanedText": "statue of Guzo the Mariner, like, in the shrine."
     },
     {
       "header": "[u0368 | 00:34:54.889-00:34:57.949 | Trok]",
@@ -403,6 +443,12 @@
       "cleanedText": "Yeah, when Yaz comes back."
     },
     {
+      "header": "[u0394 | 00:36:27.730-00:36:34.700 | DM]",
+      "lineNumber": 394,
+      "originalText": "I mean, yeah, there's definitely… so there's… it's like… it's like the church in town is St. Guzu's, or something like that.",
+      "cleanedText": "I mean, yeah, there's definitely… so there's… it's like… it's like the church in town is St. Guzo's, or something like that."
+    },
+    {
       "header": "[u0398 | 00:36:41.680-00:36:49.579 | DM]",
       "lineNumber": 398,
       "originalText": "the local, like… so Mawar worships Masnumina, the same religion of Chardin, but their take on it is very much alike.",
@@ -412,19 +458,25 @@
       "header": "[u0399 | 00:36:51.320-00:37:07.990 | DM]",
       "lineNumber": 399,
       "originalText": "heavily into the local heroes as divine representatives on Earth vibe. So rather than worshipping the mother or whatever, they worship, like, the founder of Homri, or whoever Guizu was. None of you actually are very religious, or maybe Wazir knows history?",
-      "cleanedText": "heavily into the local heroes as divine representatives on Earth vibe. So rather than worshipping the mother or whatever, they worship, like, the founder of Hamri, or whoever Guzu was. None of you actually are very religious, or maybe Wazir knows history?"
+      "cleanedText": "heavily into the local heroes as divine representatives on Earth vibe. So rather than worshipping the mother or whatever, they worship, like, the founder of Hamri, or whoever Guzo was. None of you actually are very religious, or maybe Wazir knows history?"
+    },
+    {
+      "header": "[u0403 | 00:37:11.420-00:37:13.169 | DM]",
+      "lineNumber": 403,
+      "originalText": "So, I mean, Guzu is…",
+      "cleanedText": "So, I mean, Guzo is…"
     },
     {
       "header": "[u0405 | 00:37:14.330-00:37:21.700 | DM]",
       "lineNumber": 405,
       "originalText": "Boozoo is not… the popular story is usually that he was, like, the founder of Homery or something, but actually that's…",
-      "cleanedText": "Guzu is not… the popular story is usually that he was, like, the founder of Hamri or something, but actually that's…"
+      "cleanedText": "Guzo is not… the popular story is usually that he was, like, the founder of Hamri or something, but actually that's…"
     },
     {
       "header": "[u0409 | 00:37:35.410-00:37:53.399 | DM]",
       "lineNumber": 409,
       "originalText": "Marwar sort of came into existence as a country in the… in the turbulent times after the plague and the fall of Drancor, and so there was lots of, like, crazy monsters in the ocean and things like that. And so Guzu was, like, instrumental in some of the early defenses of",
-      "cleanedText": "Mawar sort of came into existence as a country in the… in the turbulent times after the plague and the fall of Drankor, and so there was lots of, like, crazy monsters in the ocean and things like that. And so Guzu was, like, instrumental in some of the early defenses of"
+      "cleanedText": "Mawar sort of came into existence as a country in the… in the turbulent times after the plague and the fall of Drankor, and so there was lots of, like, crazy monsters in the ocean and things like that. And so Guzo was, like, instrumental in some of the early defenses of"
     },
     {
       "header": "[u0410 | 00:37:54.020-00:37:57.960 | DM]",
@@ -439,16 +491,28 @@
       "cleanedText": "the Mawar Peninsula… the Mawakel Peninsula."
     },
     {
+      "header": "[u0415 | 00:38:25.680-00:38:40.589 | DM]",
+      "lineNumber": 415,
+      "originalText": "But yes, there's… you know, so there's… there's, like, statues to Guzu around the town, there's, like, the church is, you know, St. Guzu's or whatever, I don't actually know what the naming conventions would be, but there's definitely a…",
+      "cleanedText": "But yes, there's… you know, so there's… there's, like, statues to Guzo around the town, there's, like, the church is, you know, St. Guzo's or whatever, I don't actually know what the naming conventions would be, but there's definitely a…"
+    },
+    {
       "header": "[u0458 | 00:43:18.390-00:43:26.160 | Wazir]",
       "lineNumber": 458,
       "originalText": "We're looking for… something. The zero gesture to… to Troc, who's been drawing.",
       "cleanedText": "We're looking for… something. I'll gesture to… to Trok, who's been drawing."
     },
     {
-      "header": "[u0462 | 00:43:46.270-00:43:51.530 | Wazir]",
-      "lineNumber": 462,
-      "originalText": "But it's, something to do with a statue of Guzo?",
-      "cleanedText": "But it's, something to do with a statue of Guzu?"
+      "header": "[u0459 | 00:43:27.770-00:43:34.219 | Wazir]",
+      "lineNumber": 459,
+      "originalText": "this, this woman, I'll gesture to Raina, seems to,",
+      "cleanedText": "this, this woman, I'll gesture to Rayna, seems to,"
+    },
+    {
+      "header": "[u0467 | 00:43:58.300-00:44:00.850 | DM]",
+      "lineNumber": 467,
+      "originalText": "statues of Guzu around town, huh?",
+      "cleanedText": "statues of Guzo around town, huh?"
     },
     {
       "header": "[u0471 | 00:44:11.880-00:44:18.039 | Ryu]",
@@ -466,7 +530,7 @@
       "header": "[u0486 | 00:45:43.090-00:46:00.449 | DM]",
       "lineNumber": 486,
       "originalText": "Interesting, there… I do believe that many years ago, there was, shrine Belt… The goose do.",
-      "cleanedText": "Interesting, there… I do believe that many years ago, there was a shrine built to Guzu."
+      "cleanedText": "Interesting, there… I do believe that many years ago, there was a shrine built to Guzo."
     },
     {
       "header": "[u0496 | 00:46:53.920-00:47:02.369 | DM]",
@@ -484,7 +548,7 @@
       "header": "[u0514 | 00:48:47.240-00:48:53.630 | Ryu]",
       "lineNumber": 514,
       "originalText": "Marina, is there anything else you can tell us? I mean, now we've got a general area, we could just go search out there, but, you know, might take a…",
-      "cleanedText": "Raina, is there anything else you can tell us? I mean, now we've got a general area, we could just go search out there, but, you know, might take a…"
+      "cleanedText": "Rayna, is there anything else you can tell us? I mean, now we've got a general area, we could just go search out there, but, you know, might take a…"
     },
     {
       "header": "[u0530 | 00:50:16.660-00:50:17.819 | DM]",
@@ -523,10 +587,16 @@
       "cleanedText": "Go check it out. I mean, Ander and I, we can go dive down there and see what's going on."
     },
     {
+      "header": "[u0612 | 00:57:10.380-00:57:15.049 | Ryu]",
+      "lineNumber": 612,
+      "originalText": "Rena, do you wanna join us, or do you wanna… is this more of a…",
+      "cleanedText": "Rayna, do you wanna join us, or do you wanna… is this more of a…"
+    },
+    {
       "header": "[u0636 | 00:59:16.060-00:59:21.019 | DM]",
       "lineNumber": 636,
       "originalText": "All of you, plus… Plus, Reyna.",
-      "cleanedText": "All of you, plus… Plus, Raina."
+      "cleanedText": "All of you, plus… Plus, Rayna."
     },
     {
       "header": "[u0644 | 00:59:47.690-00:59:54.040 | DM]",
@@ -544,19 +614,19 @@
       "header": "[u0710 | 01:04:54.620-01:05:02.210 | DM]",
       "lineNumber": 710,
       "originalText": "into something else, and it's roughly in the place where Reyna said it should be. Or, sorry, where Ovina, the dwarf, said it should be.",
-      "cleanedText": "into something else, and it's roughly in the place where Raina said it should be. Or, sorry, where Ovina, the dwarf, said it should be."
+      "cleanedText": "into something else, and it's roughly in the place where Rayna said it should be. Or, sorry, where Ovina, the dwarf, said it should be."
     },
     {
       "header": "[u0773 | 01:08:53.040-01:09:10.270 | DM]",
       "lineNumber": 773,
       "originalText": "statue of Guzu the Marin on a white sandy beach with warm, glowing blue light filling with space. They realized it was a cave where a shrine had been built, and between Ryu's cartography and talking to a dwarf who remembered the cave and various other clues.",
-      "cleanedText": "statue of Guzu the Mariner on a white sandy beach with warm, glowing blue light filling the space. They realized it was a cave where a shrine had been built, and between Ryu's cartography and talking to a dwarf who remembered the cave and various other clues."
+      "cleanedText": "statue of Guzo the Mariner on a white sandy beach with warm, glowing blue light filling the space. They realized it was a cave where a shrine had been built, and between Ryu's cartography and talking to a dwarf who remembered the cave and various other clues."
     },
     {
       "header": "[u0776 | 01:09:15.729-01:09:22.270 | DM]",
       "lineNumber": 776,
       "originalText": "It used to be a popular shrine to this… basically a saint, Guzu the Mariner, a saint of Demos Numina.",
-      "cleanedText": "It used to be a popular shrine to this… basically a saint, Guzu the Mariner, a saint of Mos Numena."
+      "cleanedText": "It used to be a popular shrine to this… basically a saint, Guzo the Mariner, a saint of Mos Numena."
     },
     {
       "header": "[u0778 | 01:09:25.310-01:09:31.960 | DM]",
@@ -580,7 +650,7 @@
       "header": "[u0814 | 01:12:50.150-01:12:59.090 | Ryu]",
       "lineNumber": 814,
       "originalText": "Yeah, Ryu will tell everybody what he sees, and in particular, Reyna, like, what's your reaction to this? Do you have any idea what these creatures are?",
-      "cleanedText": "Yeah, Ryu will tell everybody what he sees, and in particular, Raina, like, what's your reaction to this? Do you have any idea what these creatures are?"
+      "cleanedText": "Yeah, Ryu will tell everybody what he sees, and in particular, Rayna, like, what's your reaction to this? Do you have any idea what these creatures are?"
     },
     {
       "header": "[u0875 | 01:17:28.970-01:17:38.680 | DM]",
@@ -607,10 +677,22 @@
       "cleanedText": "Trok."
     },
     {
+      "header": "[u1048 | 01:28:56.240-01:28:58.870 | DM]",
+      "lineNumber": 1048,
+      "originalText": "of Guzu, exactly as…",
+      "cleanedText": "of Guzo, exactly as…"
+    },
+    {
       "header": "[u1049 | 01:28:58.870-01:29:05.949 | DM]",
       "lineNumber": 1049,
       "originalText": "Frock drew from Reyna's description. In front of the statue is an altar.",
-      "cleanedText": "Trok drew from Raina's description. In front of the statue is an altar."
+      "cleanedText": "Trok drew from Rayna's description. In front of the statue is an altar."
+    },
+    {
+      "header": "[u1074 | 01:31:38.010-01:31:50.839 | DM]",
+      "lineNumber": 1074,
+      "originalText": "are the words in, Mawarin, kneel and pray Guzu's ancestor's prayer to open the passage to the sea.",
+      "cleanedText": "are the words in, Mawarin, kneel and pray Guzo's ancestor's prayer to open the passage to the sea."
     },
     {
       "header": "[u1149 | 01:37:37.750-01:37:42.379 | DM]",
@@ -622,7 +704,19 @@
       "header": "[u1209 | 01:43:25.710-01:43:28.359 | Ryu]",
       "lineNumber": 1209,
       "originalText": "Should I go get Reyna, and, like, escort her in here?",
-      "cleanedText": "Should I go get Raina, and, like, escort her in here?"
+      "cleanedText": "Should I go get Rayna, and, like, escort her in here?"
+    },
+    {
+      "header": "[u1226 | 01:44:11.770-01:44:16.739 | DM]",
+      "lineNumber": 1226,
+      "originalText": "Kneel and pray Guzu's ancestor prayer to open the passage to the sea.",
+      "cleanedText": "Kneel and pray Guzo's ancestor prayer to open the passage to the sea."
+    },
+    {
+      "header": "[u1234 | 01:44:48.580-01:44:52.919 | Nerissa]",
+      "lineNumber": 1234,
+      "originalText": "Nerissa flips through the prayer book to see if there's one called Guzu's Ancestor Prayer.",
+      "cleanedText": "Nerissa flips through the prayer book to see if there's one called Guzo's Ancestor Prayer."
     },
     {
       "header": "[u1243 | 01:45:35.370-01:45:41.009 | Wazir]",
@@ -664,13 +758,19 @@
       "header": "[u1470 | 02:00:29.230-02:00:31.769 | Ryu]",
       "lineNumber": 1470,
       "originalText": "Yeah, we leave with the shard, we get it to Reyna, and then we're done.",
-      "cleanedText": "Yeah, we leave with the shard, we get it to Raina, and then we're done."
+      "cleanedText": "Yeah, we leave with the shard, we get it to Rayna, and then we're done."
     },
     {
       "header": "[u1493 | 02:01:38.870-02:01:41.219 | Ryu]",
       "lineNumber": 1493,
       "originalText": "Go, go, go to Reyna, and then run here!",
-      "cleanedText": "Go, go, go to Raina, and then run here!"
+      "cleanedText": "Go, go, go to Rayna, and then run here!"
+    },
+    {
+      "header": "[u1497 | 02:01:54.150-02:02:02.469 | DM]",
+      "lineNumber": 1497,
+      "originalText": "There is a possibility that if you just give the shard to Raina and she sails off, then two days later, he shows up in the ocean, sinks her boat, takes the shard.",
+      "cleanedText": "There is a possibility that if you just give the shard to Rayna and she sails off, then two days later, he shows up in the ocean, sinks her boat, takes the shard."
     },
     {
       "header": "[u1532 | 02:03:32.830-02:03:34.779 | Trok]",
@@ -832,7 +932,7 @@
       "header": "[u2691 | 03:19:44.470-03:19:51.679 | DM]",
       "lineNumber": 2691,
       "originalText": "kill all these last two creatures, keeping them from swimming off and potentially attacking Reyna.",
-      "cleanedText": "kill all these last two creatures, keeping them from swimming off and potentially attacking Raina."
+      "cleanedText": "kill all these last two creatures, keeping them from swimming off and potentially attacking Rayna."
     },
     {
       "header": "[u2713 | 03:21:12.250-03:21:18.449 | DM]",
@@ -841,10 +941,22 @@
       "cleanedText": "I mean… Trok already looted all of the offerings."
     },
     {
-      "header": "[u2714 | 03:21:18.730-03:21:22.660 | DM]",
-      "lineNumber": 2714,
-      "originalText": "Left here for Guzo the Mariner.",
-      "cleanedText": "Left here for Guzu the Mariner."
+      "header": "[u2718 | 03:21:38.080-03:21:45.220 | DM]",
+      "lineNumber": 2718,
+      "originalText": "So you swim back, and meet Raina.",
+      "cleanedText": "So you swim back, and meet Rayna."
+    },
+    {
+      "header": "[u2733 | 03:23:17.670-03:23:22.400 | DM]",
+      "lineNumber": 2733,
+      "originalText": "You all feel this, but Raina… Says that she'll take it.",
+      "cleanedText": "You all feel this, but Rayna… Says that she'll take it."
+    },
+    {
+      "header": "[u2741 | 03:24:03.310-03:24:05.220 | DM]",
+      "lineNumber": 2741,
+      "originalText": "Helping Raina get settled.",
+      "cleanedText": "Helping Rayna get settled."
     },
     {
       "header": "[u2743 | 03:24:09.410-03:24:16.809 | DM]",

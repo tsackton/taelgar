@@ -1,17 +1,22 @@
 # Beats Preview
 
-- Source transcript: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-source-cleaned.md
+- Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-source-cleaned.md
 - Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-session.yaml
 - Beat count: 10
 
-## beat-001 — Recap and Raina's Plea
+## Warnings
+
+- beat-010 is short at 64 lines; consider merging unless a strong scene break or day transition justifies it.
+
+## beat-001 — Recap and Rayna's Plea
 
 - Range: `u0001` → `u0246`
 - Lines: 246
 - Date: 1749-05-26
+- Date Resolution: exact
 - Time Window: evening
 - Combat: no
-- Boundary Reason: The opening stays in one continuous tavern setup scene: the DM recaps Hamri's recent history, brings the party together at the Leviathan, and has Raina explain the dreams, the song fragment, and the hidden cave she wants found.
+- Boundary Reason: The opening stays in one continuous tavern setup scene: the DM recaps Hamri's recent history, brings the party together at the Leviathan, and has Rayna explain the dreams, the song fragment, and the hidden cave she wants found.
 - Date Evidence:
   - at u0090 the DM explicitly states, 'It is now May 26, 1749'
   - at u0098 the session proper begins 'in the evening of a pleasantly warm spring day'
@@ -22,9 +27,10 @@
 - Range: `u0247` → `u0599`
 - Lines: 353
 - Date: 1749-05-26
+- Date Resolution: exact
 - Time Window: evening
 - Combat: no
-- Boundary Reason: After hearing Raina out, the party stays in Hamri gathering local context: they discuss the dream, consult Yaz about Guzu and the shrine, summon Ovina for older town memory, and settle on heading for the cliffside cave.
+- Boundary Reason: After hearing Rayna out, the party stays in Hamri gathering local context: they discuss the dream, consult Yaz about Guzo and the shrine, summon Ovina for older town memory, and settle on heading for the cliffside cave.
 - Date Evidence:
   - this beat follows directly from the tavern briefing with no rest or date transition
   - u0539 says they are 'approaching dinner time now,' keeping the whole inquiry in the same evening stretch
@@ -35,9 +41,10 @@
 - Range: `u0600` → `u0777`
 - Lines: 178
 - Date: 1749-05-27
+- Date Resolution: exact
 - Time Window: morning
 - Combat: no
-- Boundary Reason: The next phase is the next day's search itself: the party takes Ryu's boat to the North Cliff, uses scouting and local memory to find the right collapsed sea cave, and confirms they have reached the buried shrine of Guzu.
+- Boundary Reason: The next phase is the next day's search itself: the party takes Ryu's boat to the North Cliff, uses scouting and local memory to find the right collapsed sea cave, and confirms they have reached the buried shrine of Guzo.
 - Date Evidence:
   - u0625 explicitly says, 'So the next morning'
   - u0626-u0629 describe a bright, calm day after the previous evening's storm
@@ -48,6 +55,7 @@
 - Range: `u0778` → `u1037`
 - Lines: 260
 - Date: 1749-05-27
+- Date Resolution: exact
 - Time Window: morning
 - Combat: no
 - Boundary Reason: Once they dive through the blasted opening, the whole beat is about first contact inside the cave: scouting the beach, spotting the water creatures, approaching the ruined temple, and browbeating the trapped minions into cooperating and leading them inward.
@@ -56,11 +64,12 @@
   - nothing between beats 003 and 004 indicates a rest or date change
   - the dive, beach approach, and first exchange with the shrine creatures all continue the same morning cave expedition
 
-## beat-005 — Secrets of Guzu's Shrine
+## beat-005 — Secrets of Guzo's Shrine
 
 - Range: `u1038` → `u1404`
 - Lines: 367
 - Date: 1749-05-27
+- Date Resolution: exact
 - Time Window: midday
 - Combat: no
 - Boundary Reason: Inside the temple the party investigates the statue, inscriptions, offerings, and chapel, discovers the prayer that opens the hidden passage, and reveals the trapped water boss holding the song fragment behind the vanished stone door.
@@ -74,6 +83,7 @@
 - Range: `u1405` → `u1612`
 - Lines: 208
 - Date: 1749-05-27
+- Date Resolution: exact
 - Time Window: midday
 - Combat: no
 - Boundary Reason: Before initiative starts, the party tries to bluff and bargain with the trapped elemental, learns how the blue light and shard confinement work, debates whether to let him go, and finally shifts from talk to a plan to bottle him up and fight in the temple.
@@ -87,6 +97,7 @@
 - Range: `u1613` → `u1908`
 - Lines: 296
 - Date: 1749-05-27
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: yes
 - Boundary Reason: Initiative begins with the party's attempted bottleneck plan turning into open combat: the boss lashes out with the first massive water jet, the front line scrambles to contain the doorway, and the opening exchange ends with Geo dropping and the boss still entrenched.
@@ -97,40 +108,42 @@
 
 ## beat-008 — Blue Light Advantage
 
-- Range: `u1909` → `u2171`
-- Lines: 263
+- Range: `u1909` → `u2260`
+- Lines: 352
 - Date: 1749-05-27
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: yes
-- Boundary Reason: The middle of the fight turns in the party's favor: Nerissa's spell and the shrine's blue glow drive the boss back, the minions flood the stairs, and focused blows from the party leave the trapped elemental bloodied and calling for help.
+- Boundary Reason: The middle of the fight turns in the party's favor: Nerissa's spell and the shrine's blue glow drive the boss back, the minions flood the stairs, and focused blows leave the trapped elemental badly wounded before it changes tactics.
 - Date Evidence:
   - this beat begins mid-initiative directly after Geo falls
-  - the transcript presents the blue light's interference and the boss's bloodied state as one continuous combat phase
-  - there is no rest, withdrawal, or scene change before u2171 marks the boss reeling under Wazir's hits later that same day
+  - the transcript presents the blue light's interference, the boss's bloodied state, and the minions' grapple attacks as one continuous combat phase
+  - u2249 says the boss is below a quarter health, and u2260 ends the minions' turn before the boss shifts into mist
 
-## beat-009 — Mist and Running Water
+## beat-009 — Mist and Last Blows
 
-- Range: `u2172` → `u2445`
-- Lines: 274
+- Range: `u2261` → `u2691`
+- Lines: 431
 - Date: 1749-05-27
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: yes
-- Boundary Reason: With the boss desperate, the battle shifts again: scalding water erupts near Ryu, the minions swarm and start breaking, the elemental turns to mist to slip through the wall, and the party fights to keep control of the beach-temple choke point.
+- Boundary Reason: With the boss desperate, the battle shifts into its final phase: the elemental turns to mist, slips through the wall, punishes fleeing minions, and is finally destroyed before the party finishes the last creatures.
 - Date Evidence:
-  - the beat starts as the bloodied boss's allies and ranged attacks change the fight's shape
-  - the mist-form escape attempt and the ongoing minion melee are part of the same uninterrupted initiative sequence
-  - the phase ends only when the boss slips through the wall and the opportunity attacks resolve during the ongoing afternoon battle
+  - u2261-u2267 start the mist-form escape phase after the prior minion turn ends
+  - the retreating minions, opportunity attacks, and boss pursuit remain one uninterrupted initiative sequence
+  - u2683-u2688 describe the boss collapsing and dying, and u2690-u2691 compress the final creature cleanup into the same combat aftermath
 
-## beat-010 — The Song Fragment Returns
+## beat-010 — The Fragment Returns
 
-- Range: `u2446` → `u2755`
-- Lines: 310
+- Range: `u2692` → `u2755`
+- Lines: 64
 - Date: 1749-05-27
+- Date Resolution: exact
 - Time Window: afternoon
-- Combat: yes
-- Boundary Reason: The final stretch covers the fight's cleanup and immediate aftermath: the remaining creatures flee or are cut down, the boss dies with a threat in the wind, Nerissa hears the crystal's grateful song, the party loots what little remains, and they return the fragment to Raina before the epilogue in Hamri.
+- Combat: no
+- Boundary Reason: After combat ends, the party turns to the recovered crystal: Nerissa hears its grateful song, they leave the ruined shrine, return the fragment to Rayna, and close the day back at the Leviathan.
 - Date Evidence:
-  - this beat begins immediately after the boss's wall-escape attempt resolves
-  - u2690-u2691 compresses the last enemy cleanup into the same combat aftermath rather than a new scene on another day
+  - u2692 begins after u2690-u2691 resolve the last creature cleanup
   - u2739 explicitly says, 'That afternoon, you return to the Leviathan Inn'
-  - the handoff to Raina and the Hamri epilogue therefore remain on May 27, not the evening of May 26
+  - the crystal vision, handoff to Rayna, and Hamri epilogue remain on May 27
