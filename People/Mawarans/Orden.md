@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/check/ai]
 name: Orden
 born:
 species: human
@@ -29,4 +29,24 @@ Short and stocky, great bushy hair and beard, piercing proud eyes. Many piercing
  
 Has a daughter, Hiyasa, who returned to Hamri in early October and vanished treasure hunting in the interior.
 
+%%
+
+%%
+AI NPC proposal - Mawar review, 2026-05-07
+
+Proposed whereabouts/metadata updates:
+- Current [[Hamri]] whereabouts is correct. Consider an alias such as "beach shack north of the main port" for display precision.
+- Add campaignInfo for Mawar Episode 02 as a dockside/local witness questioned on DR 1747-08-04, and for Mawar Episode 03 as petitioner on DR 1747-10-23 asking [[Trok]] and [[Kaleho]] to find [[Hiyasa]].
+
+Proposed text updates:
+- Add Ep02 investigative detail that Orden helped build the description of the worn older man later identified as [[Azar the Lost]].
+- Add Ep03 detail that Hiyasa returned to Hamri in early October DR 1747 after roughly ten years away, then vanished up the Mirmir while treasure hunting; Orden asks the party for help after she has been gone eight days.
+- Existing backstory is useful; likely only needs cleanup and promotion from OneNote comments when ready.
+
+Source links:
+- [[Mawar Adventures Episode 02]]
+- [[Mawar Adventures Episode 03]]
+- [[Hiyasa]]
+- [[Azar the Lost]]
+- [[Hamri]]
 %%

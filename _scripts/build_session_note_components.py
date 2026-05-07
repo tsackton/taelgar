@@ -19,6 +19,11 @@ VAULT_ROOT = Path(__file__).resolve().parents[1]
 CAMPAIGN_MAP_PATH = Path(__file__).with_name("session_note_campaigns.json")
 OBSIDIAN_METADATA_PATH = VAULT_ROOT / ".obsidian" / "metadata.json"
 SESSION_NOTE_TAG = "session-note"
+COMPONENT_SPECS = [
+    ("01-session-info.md", "Session Info", "info"),
+    ("02-technical-updates.md", "Technical Updates", "technical"),
+    ("03-narrative.md", "Narrative", "narrative"),
+]
 
 
 class FrontmatterDumper(yaml.SafeDumper):
@@ -170,6 +175,7 @@ def parse_args(campaigns: Dict[str, Dict[str, Any]]) -> argparse.Namespace:
     )
     parser.add_argument("-c", "--campaign", required=True, help="Campaign code or alias.")
     parser.add_argument("-n", "--session", required=True, type=int, help="Session number.")
+    parser.add_argument("--overwrite", action="store_true", help="Overwrite existing generated component files.")
     return parser.parse_args()
 
 
@@ -193,6 +199,12 @@ def main() -> int:
     generated_root = (VAULT_ROOT / str(config["campaignRoot"]) / "_generated" / "session-notes").resolve()
     component_dir = generated_root / build_component_dir_name(session_payload, fallback=session_manifest.stem)
     component_dir.mkdir(parents=True, exist_ok=True)
+    component_paths = [component_dir / filename for filename, _title, _slot_key in COMPONENT_SPECS]
+    try:
+        ensure_component_files_writable(component_paths, overwrite=args.overwrite)
+    except FileExistsError as exc:
+        print(f"ERROR: {exc}")
+        return 1
 
     note_index = VaultNoteIndex(VAULT_ROOT, generated_root)
     slots = build_slots(
@@ -203,28 +215,16 @@ def main() -> int:
         display_metadata=display_metadata,
     )
 
-    write_component_file(
-        component_dir / "01-session-info.md",
-        title="Session Info",
-        session_manifest=str(session_manifest),
-        slots=slots["info"],
-    )
-    write_component_file(
-        component_dir / "02-technical-updates.md",
-        title="Technical Updates",
-        session_manifest=str(session_manifest),
-        slots=slots["technical"],
-    )
-    write_component_file(
-        component_dir / "03-narrative.md",
-        title="Narrative",
-        session_manifest=str(session_manifest),
-        slots=slots["narrative"],
-    )
-
-    print(f"Wrote {component_dir / '01-session-info.md'}")
-    print(f"Wrote {component_dir / '02-technical-updates.md'}")
-    print(f"Wrote {component_dir / '03-narrative.md'}")
+    for filename, title, slot_key in COMPONENT_SPECS:
+        path = component_dir / filename
+        write_component_file(
+            path,
+            title=title,
+            session_manifest=str(session_manifest),
+            slots=slots[slot_key],
+            overwrite=args.overwrite,
+        )
+        print(f"Wrote {path}")
 
     note_root = VAULT_ROOT / str(config["campaignRoot"])
     note_filename = render_note_filename(str(config["notePattern"]), args.session)
@@ -1332,7 +1332,25 @@ def render_scalar(value: Any) -> str:
     return "" if value is None else str(value).strip()
 
 
-def write_component_file(path: Path, *, title: str, session_manifest: str, slots: Dict[str, str]) -> None:
+def ensure_component_files_writable(paths: Sequence[Path], *, overwrite: bool = False) -> None:
+    if overwrite:
+        return
+    existing = [path for path in paths if path.exists()]
+    if not existing:
+        return
+    formatted = ", ".join(str(path) for path in existing)
+    raise FileExistsError(f"generated component file already exists; pass --overwrite to replace: {formatted}")
+
+
+def write_component_file(
+    path: Path,
+    *,
+    title: str,
+    session_manifest: str,
+    slots: Dict[str, str],
+    overwrite: bool = False,
+) -> None:
+    ensure_component_files_writable([path], overwrite=overwrite)
     lines: List[str] = [
         "---",
         'excludePublish: ["all"]',
@@ -1441,8 +1459,21 @@ def is_single_word_candidate(value: str) -> bool:
     return not re.search(r"\s", value.strip())
 
 
+SMART_APOSTROPHE = "\u2019"
+APOSTROPHE_PATTERN = r"['\u2019]"
+
+
+def escape_autolink_candidate(candidate: str) -> str:
+    return "".join(APOSTROPHE_PATTERN if char in {"'", SMART_APOSTROPHE} else re.escape(char) for char in candidate)
+
+
 def compile_autolink_pattern(candidate: str) -> re.Pattern[str]:
-    return re.compile(rf"(?<![A-Za-z0-9_]){re.escape(candidate)}(?![A-Za-z0-9_])", flags=re.IGNORECASE)
+    escaped_candidate = escape_autolink_candidate(candidate)
+    possessive_suffix = rf"(?:{APOSTROPHE_PATTERN}s\b|{APOSTROPHE_PATTERN}(?=\s+[A-Za-z]))"
+    return re.compile(
+        rf"(?<![A-Za-z0-9_]){escaped_candidate}(?!{possessive_suffix})(?![A-Za-z0-9_])",
+        flags=re.IGNORECASE,
+    )
 
 
 def slugify_text(value: str) -> str:

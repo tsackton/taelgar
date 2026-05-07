@@ -39,54 +39,72 @@ Ander finds Ryu at his cliff tower in Hamri. Their reunion is interrupted when J
 - Timeline Segment: timeline-002
 - Timeline Key: (DR:: 1747-11-08), afternoon
 - Resolution: part-of-day
-- Beat IDs: beat-002, beat-003
+- Beat IDs: beat-002
 - Locations: Hamri, Eskorola
-- NPCs: Itzal, Amaya
+- NPCs: Itzal
 - Organizations: none
 - Items: threat note
 - Combat Beats: none
 
 #### Short
-Ryu, Ander, and Nerissa travel to Eskorola, where they hear Itzal's account of burned bodies and a demand for gatza tribute. Guided by the lizardfolk Amaya, the party then inspects the attack site.
+Ryu, Ander, and Nerissa travel to Eskorola, where Itzal describes burned bodies and a demand for gatza tribute.
 
 #### Long
-The group reaches Eskorola by afternoon, and Itzal describes burned bodies, a threat note, and a demanded tribute of gatza. Amaya guides them to the marshy attack site, where Ryu finds an enormous webbed claw print and signs of scalding heat.
+The group reaches Eskorola by afternoon. Itzal describes villagers killed by a strange beast, a burned corpse washed ashore with a threat note, and a demanded tribute of gatza.
+
+### Nov 8th, 1747 to Nov 9th, 1747
+
+- Timeline Segment: timeline-003
+- Timeline Key: (DR:: 1747-11-08) - (DR_end:: 1747-11-09)
+- Resolution: date-range
+- Beat IDs: beat-003
+- Locations: Tzingola
+- NPCs: Amaya
+- Organizations: none
+- Items: threat note
+- Combat Beats: none
+
+#### Short
+Amaya guides the party into Tzingola, where they find an enormous claw print and signs of scalding heat.
+
+#### Long
+Amaya guides them to the marsh-side attack site in Tzingola. Ryu finds a massive webbed claw print and scorched vegetation, while Blu spots a mist-shrouded mound deeper in the marsh before the party waits for dawn.
 
 ### Nov 9th, 1747 (morning)
 
-- Timeline Segment: timeline-003
+- Timeline Segment: timeline-004
 - Timeline Key: (DR:: 1747-11-09), morning
 - Resolution: part-of-day
-- Beat IDs: beat-004, beat-005, beat-006, beat-007, beat-008, beat-009
-- Locations: Eskorola, salt marsh north of Eskorola, outer marsh tunnel mouth, top of the mist-nest above the interior pool, mist-nest interior pool, mist-nest interior pool
+- Beat IDs: beat-004, beat-005, beat-006, beat-007, beat-008
+- Locations: Eskorola, Tzingola
 - NPCs: steam imps, fire cult guardian, Chaessenth, fire mage
 - Organizations: none
-- Items: threat note, black spear, golden amulet, Hiyasa's treasure map
+- Items: threat note, black spear
 - Combat Beats: beat-005, beat-006, beat-008
 
 #### Short
-The party enters the nearby salt marsh, survives an ambush by steam monsters, and finds Chaessenth under a fire cultist's control. After an intense battle, the party frees Chaessenth. 
+The party enters Tzingola by canoe, survives the foggy outer defenses, and finds Chaessenth under a fire mage's control.
 
 #### Long
-At dawn, the party follows the channels toward the mound and is attacked by steam imps and an armored fire guardian. After the guardian explodes, they climb the nest and find Chaessenth with a black spear in his neck. The party attacks, removes the black spear, and breaks the mage's control, leaving Chaessenth free to kill him. 
+At dawn, the party follows Tzingola's channels toward the mound, defeats steam imps and an armored fire guardian, and climbs over the nest after the guardian explodes. Inside, they find Chaessenth with a black spear in his neck and begin the fight to free him from the fire mage's control.
 
 ### Nov 9th, 1747 (afternoon)
 
-- Timeline Segment: timeline-004
+- Timeline Segment: timeline-005
 - Timeline Key: (DR:: 1747-11-09), afternoon
 - Resolution: part-of-day
-- Beat IDs: beat-010
-- Locations: open western sea beyond Eskorola
-- NPCs: Chaessenth
+- Beat IDs: beat-009, beat-010
+- Locations: Tzingola, Hamri
+- NPCs: fire mage, Chaessenth
 - Organizations: none
-- Items: none
+- Items: black spear, golden amulet, Hiyasa's treasure map
 - Combat Beats: beat-009
 
 #### Short
-Chaessenth the dragon turtle departs the Mawakel Peninsula for the western sea.
+The party frees Chaessenth, kills the fire mage, links the mage's amulet to [[Hiyasa's Treasure Map|Hiyasa's map]], and returns to Hamri.
 
 #### Long
-Chaessenth, the freed dragon turtle, tells them of Khathayi and the Wanui Teora before departing the Mawakel Peninsula for the western sea.
+The spear comes free, Chaessenth turns against the mage, and the mage dies when his control breaks. Afterward, Chaessenth tells the party of Khathayi and the Wanui Teora before swimming west into the deep, while the party carries the amulet and [[Hiyasa's Treasure Map|map]] connection back to Hamri.
 
 ## Recap
 
@@ -141,20 +159,20 @@ Ryu and Ander decide the rumor is worth pursuing and draw Nerissa into the plan 
 - Date: 1747-11-08 to 1747-11-09
 - Time: unknown
 - Source Range: u0650 -> u0937
-- Locations: Eskorola
+- Locations: Tzingola
 - NPCs: Amaya
 - Organizations: none
 - Items: threat note
 - Enemies: none
 
 #### Short
-From the village, Amaya guides them to the attack site, where a huge claw print and a strange mist-shrouded giant mound point to something far stranger than a local predator.
+From the village, Amaya guides them into Tzingola, where a huge claw print and a strange mist-shrouded giant mound point to something far stranger than a local predator.
 
 #### Intermediate
-With Itzal's permission, Amaya takes the party into the marsh to inspect the latest attack site. Ryu finds an enormous webbed claw print and signs of scalding heat, while Blu scouts a mist-shrouded giant mound farther into the marsh. As the sun begins to set, the party returns to Eskorola to wait for dawn.
+With Itzal's permission, Amaya takes the party into Tzingola to inspect the latest attack site. Ryu finds an enormous webbed claw print and signs of scalding heat, while Blu scouts a mist-shrouded giant mound farther into the marsh. As the sun begins to set, the party returns to Eskorola to wait for dawn.
 
 #### Long
-With Itzal's permission, the young scout Amaya ferries the party through the marsh to the shoreline where the most recent attack happened. Ryu's examination finds a claw print far too large for an ordinary local beast, and vegetation scorched as if by blasts of boiling water. Blu's later reconnaissance spots a vast mound hidden in the fog, giving the party a target. As the sun is setting and there is not enough daylight to risk an immediate assault, the party decides to settle in Eskorola for the night.
+With Itzal's permission, the young scout Amaya ferries the party through Tzingola to the shoreline where the most recent attack happened. Ryu's examination finds a claw print far too large for an ordinary local beast, and vegetation scorched as if by blasts of boiling water. Blu's later reconnaissance spots a vast mound hidden in the fog, giving the party a target. As the sun is setting and there is not enough daylight to risk an immediate assault, the party decides to settle in Eskorola for the night.
 
 ### recap-004 | Into the Mists
 
@@ -163,20 +181,20 @@ With Itzal's permission, the young scout Amaya ferries the party through the mar
 - Date: 1747-11-09
 - Time: morning
 - Source Range: u0938 -> u1389
-- Locations: Eskorola, salt marsh north of Eskorola
+- Locations: Eskorola, Tzingola
 - NPCs: none
 - Organizations: none
 - Items: threat note
 - Enemies: none
 
 #### Short
-At dawn, the party returns to the marsh and follows the mist-choked channel toward the hidden mound.
+At dawn, the party returns to Tzingola and follows the mist-choked channel toward the hidden mound.
 
 #### Intermediate
 The party leaves Eskorola at first light and works through cold rain, thickening fog, and unnatural warmth from the steaming marsh. Turk scouts ahead and is attacked by flying steam creatures near a giant tunnel, giving the party a clearer sense of what guards the mound. Guided by his scouting, they follow the torn channel until it opens into a nearly blind pool at the mound's edge.
 
 #### Long
-At dawn, the party returns to the marsh by canoe, following the channel torn through the vegetation north from Eskorola. Cold rain turns warmer as they approach the steam cloud, and Turk scouts ahead until flying steam creatures attack him near a giant tunnel or passage. With that warning, the party paddles forward carefully; visibility falls to only a few feet as the canoe edges into the pool at the mound's edge. With no clear target in sight, Nerissa quietly prepares Faerie Fire and aims it ahead and slightly right of the boat.
+At dawn, the party returns to Tzingola by canoe, following the channel torn through the vegetation north from Eskorola. Cold rain turns warmer as they approach the steam cloud, and Turk scouts ahead until flying steam creatures attack him near a giant tunnel or passage. With that warning, the party paddles forward carefully; visibility falls to only a few feet as the canoe edges into the pool at the mound's edge. With no clear target in sight, Nerissa quietly prepares Faerie Fire and aims it ahead and slightly right of the boat.
 
 ### recap-005 | Steam in the Fog
 
@@ -185,7 +203,7 @@ At dawn, the party returns to the marsh by canoe, following the channel torn thr
 - Date: 1747-11-09
 - Time: morning
 - Source Range: u1390 -> u2029
-- Locations: salt marsh north of Eskorola
+- Locations: Tzingola
 - NPCs: steam imps, fire cult guardian
 - Organizations: none
 - Items: none
@@ -207,7 +225,7 @@ Nerissa's Faerie Fire goes off just before the ambush lands. Her spell catches t
 - Date: 1747-11-09
 - Time: morning
 - Source Range: u2030 -> u2185
-- Locations: outer marsh tunnel mouth, top of the mist-nest above the interior pool
+- Locations: Tzingola
 - NPCs: Chaessenth, fire mage
 - Organizations: none
 - Items: black spear
@@ -229,7 +247,7 @@ With the outer defenders dead and the canoe damaged, the party pauses to patch t
 - Date: 1747-11-09
 - Time: unknown
 - Source Range: u2186 -> u2914
-- Locations: mist-nest interior pool
+- Locations: Tzingola
 - NPCs: fire mage, Chaessenth
 - Organizations: none
 - Items: black spear
@@ -251,14 +269,14 @@ Combat begins when the mage blasts fire up through the hole and shouts another c
 - Date: 1747-11-09
 - Time: afternoon
 - Source Range: u2915 -> u3192
-- Locations: mist-nest interior pool, open western sea beyond Eskorola
+- Locations: Tzingola, Hamri
 - NPCs: Chaessenth
 - Organizations: none
 - Items: golden amulet, Hiyasa's treasure map
 - Enemies: none
 
 #### Short
-Chaessenth explains the mage's search for Khathayi, while the party links the mage's golden amulet to Hiyasa's map. After speaking to the party for some time, Chaessenth swims west.
+Chaessenth explains the mage's search for Khathayi, while the party links the mage's golden amulet to [[Hiyasa's Treasure Map|Hiyasa's map]]. After speaking to the party for some time, Chaessenth swims west.
 
 #### Intermediate
 Nerissa heals Chaessenth, and the freed dragon turtle gives his name as the party learns he is young, no more than about twenty, and has been captive for as long as he can remember, probably since he was an egg. He explains that the mage wanted gatza to commune with Khathayi the Flametongue. Chaessenth sings one of the Wanui Teora's ocean songs, evoking stars below and dazzling lights of the deep sea, and Nerissa begins to pick up the melody. The party recognizes that the mage's golden amulet bears the same sign as Hiyasa's treasure map before Chaessenth carries them back to the lizardfolk village and swims west, escorted to the deep ocean by Turk.
@@ -276,49 +294,25 @@ With the fire mage dead, Nerissa heals Chaessenth and translates a calmer conver
   - Hamri -> Eskorola, 1747-11-08
 - Amaya (met): young scout and guide
   - Eskorola, 1747-11-08 to 1747-11-09
-- steam imps (fought): flying mist guardians
-  - salt marsh north of Eskorola, 1747-11-09
-- fire cult guardian (fought): armored tunnel defender
-  - salt marsh north of Eskorola, 1747-11-09
 - Chaessenth (met): captive dragon turtle
-  - outer marsh tunnel mouth -> top of the mist-nest above the interior pool, 1747-11-09
-  - mist-nest interior pool, 1747-11-09
-  - mist-nest interior pool -> open western sea beyond Eskorola, 1747-11-09
-- fire mage (met, fought): controller on the inner shore
-  - outer marsh tunnel mouth -> top of the mist-nest above the interior pool, 1747-11-09
-  - mist-nest interior pool, 1747-11-09
+  - Tzingola, 1747-11-09
+  - Tzingola -> deep ocean west of the Mawakel Peninsula, 1747-11-09
 - Khathayi the Flametongue (mentioned): dead fire-linked figure sought by the mage
 
 ## Locations
 
 - Hamri
-  - Summary: coastal Mawaran town where Ryu keeps a cliffside tower and where the investigation begins
-  - Sublocations: Ryu's tower on the cliffs above the bay
-  - Date Visited: 1747-11-08
+  - Summary: coastal Mawaran town where Ryu keeps a cliffside tower and where the investigation begins and ends
+  - Sublocations: Ryu's tower on the cliffs above the bay, return from Eskorola and Tzingola
+  - Date Visited: 1747-11-08 to 1747-11-09
 - Eskorola
-  - Summary: lizardfolk village north of Hamri threatened by a marsh predator demanding gatza
-  - Sublocations: a half-day sail north to the lizardfolk village
-  - Date Visited: 1747-11-08
-- salt marsh north of Eskorola
-  - Summary: foggy tidal marsh holding the hidden nest and its outer defenses
-  - Sublocations: canoe approach through narrow channels toward the mist-covered mound
-  - Date Visited: 1747-11-09
-- outer marsh tunnel mouth
-  - Summary: underwater entrance guarded by steam creatures and an armored fire cultist
-  - Sublocations: climbing the rotting mound to find another way inside
-  - Date Visited: 1747-11-09
-- top of the mist-nest above the interior pool
-  - Summary: rotting mound roof above the hidden chamber, used as the party's safer entrance
-  - Sublocations: climbing the rotting mound to find another way inside
-  - Date Visited: 1747-11-09
-- mist-nest interior pool
-  - Summary: hidden chamber where Chaessenth was held under the fire mage's control
-  - Sublocations: the interior chamber with a central pool, a low beach of rotting vegetation, and the mage's firing position
-  - Date Visited: 1747-11-09
-- open western sea beyond Eskorola
-  - Summary: deep water beyond the village into which Chaessenth departs after his release
-  - Sublocations: the chamber conversation gives way to Chaessenth's departure back into the ocean
-  - Date Visited: 1747-11-09
+  - Summary: salt lizardfolk village near the southern end of Tzingola, threatened by a predator demanding gatza
+  - Sublocations: village harbor, Itzal's briefing, route into the marsh
+  - Date Visited: 1747-11-08 to 1747-11-09
+- Tzingola
+  - Summary: extensive salt marshes north of Hamri and around Eskorola, where the fire cultist hid Chaessenth in a mist-covered nest
+  - Sublocations: marsh-side attack site, canoe channels, mist-covered mound, underwater tunnel mouth, rotting mound roof, mist-nest interior pool
+  - Date Visited: 1747-11-08 to 1747-11-09
 
 ## Organizations And Items
 
@@ -331,15 +325,14 @@ With the fire mage dead, Nerissa heals Chaessenth and translates a calmer conver
   - Hamri, 1747-11-08
 - threat note (encountered): crude written demand for gatza tribute recovered with a burned body
   - Hamri -> Eskorola, 1747-11-08
-  - Eskorola, 1747-11-08 to 1747-11-09
-  - Eskorola -> salt marsh north of Eskorola, 1747-11-09
+  - Tzingola, 1747-11-08 to 1747-11-09
+  - Eskorola -> Tzingola, 1747-11-09
 - black spear (encountered): burning control weapon lodged in Chaessenth's neck
-  - outer marsh tunnel mouth -> top of the mist-nest above the interior pool, 1747-11-09
-  - mist-nest interior pool, 1747-11-09
+  - Tzingola, 1747-11-09
 - golden amulet (encountered): fire mage's amulet bearing a symbol that matches Hiyasa's map
-  - mist-nest interior pool -> open western sea beyond Eskorola, 1747-11-09
+  - Tzingola -> Hamri, 1747-11-09
 - Hiyasa's treasure map (encountered): map whose symbol matches the mage's amulet and points toward a northern island
-  - mist-nest interior pool -> open western sea beyond Eskorola, 1747-11-09
+  - Tzingola -> Hamri, 1747-11-09
 
 ## Combat
 

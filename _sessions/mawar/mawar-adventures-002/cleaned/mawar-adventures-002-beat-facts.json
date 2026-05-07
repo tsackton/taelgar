@@ -8,7 +8,7 @@
       "dateEnd": null,
       "timeWindow": "evening",
       "shortSummary": "At the Leviathan, Wazir shares The Ciphered Scroll and the party connects Hamri's recent deaths to Gazankoa, Airion, Nimessa, and the stolen Sentient Ocean.",
-      "longSummary": "The party gathers at the Leviathan while Wazir walks through The Ciphered Scroll: its author sought to restore his dead wife Nadine, sacrificed people whose bodies filled with water, chased legends of Airion the Mistspeaker, found a ring tied to Nimessa, and came to Hamri after calling on Gazankoa. The group debates resurrection, gatza visions, Medin, Airion's ruined tower above the sea cave, and the living water before deciding to rest and search the tower in the morning.",
+      "longSummary": "The party gathers at the Leviathan while Wazir walks through The Ciphered Scroll: its author sought to restore his dead wife Nadine, sacrificed people whose bodies filled with water, chased legends of Airion the Mistspeaker, found a ring tied to Nimessa, and came to Hamri after calling on Gazankoa. The group debates resurrection, gatza visions, Medin, Airion's ruined tower in the North Cliffs above the sea cave, and the living water before deciding to rest and search the tower in the morning.",
       "location": {
         "kind": "fixed",
         "primary": "Hamri",
@@ -80,12 +80,12 @@
       "dateStart": "1747-08-04",
       "dateEnd": null,
       "timeWindow": "morning",
-      "shortSummary": "The party searches Airion's ruined tower, finds signs of recent occupation, and confirms that an old watery illusion still clings to the site.",
-      "longSummary": "The next morning the group reaches the abandoned north-face watchtower above the sea cave and discovers that a newer tower was built over much older stonework. Inside, the place throws them into a convincing Plane of Water illusion with dolphins, black-water tendrils, and Airion's water-commanding incantation before the image fades back to the shallow flooded chamber; the evidence of recent habitation sends them back toward town informants.",
+      "shortSummary": "The party searches Airion's ruined tower in the North Cliffs, finds signs of recent occupation, and confirms that an old watery illusion still clings to the site.",
+      "longSummary": "The next morning the group reaches Airion's ruined tower in the North Cliffs, above the sea cave, and discovers that a newer watchtower shell sits on much older stonework. Inside, the place throws them into a convincing Plane of Water illusion with dolphins, black-water tendrils, and Airion's water-commanding incantation before the image fades back to the shallow flooded chamber; the evidence of recent habitation sends them back toward town informants.",
       "location": {
         "kind": "fixed",
-        "primary": "Hamri",
-        "context": "Airion's ruined tower on the north cliffs above the sea cave",
+        "primary": "North Cliffs",
+        "context": "Airion's ruined tower above the sea cave",
         "notes": "The beat stays focused on the tower, its older foundation, and the lingering water magic within."
       },
       "npcs": [
@@ -335,28 +335,7 @@
       "organizations": [],
       "combat": {
         "isCombat": false
-      },
-      "timeline": [
-        {
-          "dateStart": "1747-08-04",
-          "dateEnd": null,
-          "timeWindow": "evening",
-          "shortSummary": "The party consults Yaz, an old ocean-watcher, before resting for the evening.",
-          "longSummary": "Wazir tests Ovina's ring and box, and Yaz gives Ryu and Trok more context for the living ocean and the Splinters. Back at the Leviathan, the party plans to let one person approach Azar while the others hide nearby.",
-          "locationRefs": [
-            "Hamri"
-          ],
-          "npcRefs": [
-            "Yaz",
-            "Ovina"
-          ],
-          "itemRefs": [
-            "lead-lined box",
-            "gold ring with sapphires"
-          ],
-          "combatBeatIds": []
-        }
-      ]
+      }
     },
     {
       "beatId": "beat-006",
@@ -476,11 +455,13 @@
         "mainEnemies": [
           {
             "name": "Azar the Lost",
-            "notes": "Primary hostile spellcaster trying to escape with the box."
+            "notes": "Primary hostile spellcaster trying to escape with the box.",
+            "role": "encountered"
           },
           {
             "name": "drowned servant",
-            "notes": "Waterlogged undead ally supporting Azar from the boat and dock."
+            "notes": "Waterlogged undead ally supporting Azar from the boat and dock.",
+            "role": "encountered"
           }
         ],
         "notes": "The dock fight begins after the failed parley and escalates across the dock, water, and phantom boat."
@@ -543,11 +524,13 @@
         "mainEnemies": [
           {
             "name": "Azar the Lost",
-            "notes": "The fight resolves when Trok knocks him unconscious."
+            "notes": "The fight resolves when Trok knocks him unconscious.",
+            "role": "encountered"
           },
           {
             "name": "drowned servant",
-            "notes": "Kaleho finishes the servant after Azar falls."
+            "notes": "Kaleho finishes the servant after Azar falls.",
+            "role": "encountered"
           }
         ],
         "notes": "This beat covers the crisis, recovery, and end of the dockside combat."
@@ -656,95 +639,7 @@
       "organizations": [],
       "combat": {
         "isCombat": false
-      },
-      "timeline": [
-        {
-          "dateStart": "1747-08-05",
-          "dateEnd": null,
-          "timeWindow": "morning",
-          "shortSummary": "After the fight, the party stabilizes Azar and contains the dockside chaos.",
-          "longSummary": "After the fight at Shark's Dock, Wazir heals Azar and the party binds him while beginning to recover from their injuries and the chaos around the dock.",
-          "locationRefs": [
-            "Hamri"
-          ],
-          "npcRefs": [
-            "Azar the Lost"
-          ],
-          "itemRefs": [],
-          "combatBeatIds": []
-        },
-        {
-          "dateStart": "1747-08-05",
-          "dateEnd": null,
-          "timeWindow": "afternoon",
-          "shortSummary": "The party hears Azar's full tale after tending Shark's Dock.",
-          "longSummary": "After recovering from their injuries, calming the civilians on Shark's Dock, and tending the woman killed in Azar's lightning blast, the party hears Azar's full tale from Azar.",
-          "locationRefs": [
-            "Hamri"
-          ],
-          "npcRefs": [
-            "Azar the Lost"
-          ],
-          "itemRefs": [],
-          "combatBeatIds": []
-        },
-        {
-          "dateStart": "1747-08-05",
-          "dateEnd": null,
-          "timeWindow": "evening",
-          "shortSummary": "The Splinters expedition clears Azar's lair and recovers his remaining evidence.",
-          "longSummary": "An evening expedition to the Splinters quickly dispatches two more drowned zombies and finds Sefa, a poor older gatza addict from the Drowned Flats who lived alone; the party recovers three books of Airion's notes and lore, with two in Drankorian and one in Elvish, plus the Blood Knife, which they lock in the lead-lined box, the brass bowl, and scattered coins paid as restitution to Sefa and the families of the dead who can be found.",
-          "locationRefs": [
-            "Hamri"
-          ],
-          "npcRefs": [
-            "Sefa",
-            "drowned zombies"
-          ],
-          "itemRefs": [
-            "Airion's notes",
-            "Blood Knife",
-            "lead-lined box",
-            "brass bowl",
-            "scattered coins"
-          ],
-          "combatBeatIds": []
-        },
-        {
-          "dateStart": "1747-08-06",
-          "dateEnd": null,
-          "timeWindow": "morning",
-          "shortSummary": "Wazir identifies the recovered knife and brass bowl.",
-          "longSummary": "The next morning, Wazir identifies the items from Azar's lair: the Blood Knife remains shrouded in mystery and darkness beyond his magic, while the brass bowl is a bowl of commanding water elementals that must be filled with fresh ocean water and used immediately.",
-          "locationRefs": [
-            "Hamri"
-          ],
-          "npcRefs": [
-            "Azar the Lost"
-          ],
-          "itemRefs": [
-            "Blood Knife",
-            "brass bowl"
-          ],
-          "combatBeatIds": []
-        },
-        {
-          "dateStart": "1747-08-09",
-          "dateEnd": null,
-          "timeWindow": "morning",
-          "shortSummary": "Azar leaves Hamri with Benat for the lizardfolk village.",
-          "longSummary": "Azar leaves Hamri for the lizardfolk village to the south, traveling with Benat so he can heal before returning to make amends for the damage and death he brought to Hamri.",
-          "locationRefs": [
-            "Hamri"
-          ],
-          "npcRefs": [
-            "Azar the Lost",
-            "Benat"
-          ],
-          "itemRefs": [],
-          "combatBeatIds": []
-        }
-      ]
+      }
     }
   ]
 }

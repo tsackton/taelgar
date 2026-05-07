@@ -42,17 +42,17 @@ Wazir presents [[The Ciphered Scroll]] at the Leviathan. The party connects Azar
 - Timeline Key: (DR:: 1747-08-04)
 - Resolution: day
 - Beat IDs: beat-002, beat-003, beat-004, beat-005
-- Locations: Hamri
+- Locations: Hamri, North Cliffs
 - NPCs: Jaeson, Samar, Reliah, Orden, Benat, Ovina, Sulfi's servant, Yaz
 - Organizations: none
 - Items: Ring of Water Walking, Cloak of the Manta Ray, lead-lined box, gold ring with sapphires
 - Combat Beats: none
 
 #### Short
-The party searches Airion's tower and traces its recent occupant through Hamri's informants, uncovering evidence that [[Azar the Lost]] was living in hiding and seeking to purchase a lead-lined box from the smith Ovina on Shark's Dock.
+The party searches Airion's tower in the North Cliffs and traces its recent occupant through Hamri's informants, uncovering evidence that [[Azar the Lost]] was living in hiding and seeking to purchase a lead-lined box from the smith Ovina on Shark's Dock.
 
 #### Long
-Airion's ruined tower reveals older stonework, recent occupation, and a convincing Plane of Water illusion. Jaeson, Samar, Reliah, and Orden then point the party toward a haggard gatza-smoker who had been asking about lead. Benat explains Airion's tower and Hamri's old water-magic weak spots. Ovina reveals Azar's lead-lined box and ring payment, while Sulfi sends only a guarded reply about strange ships and harbor fees. Wazir tests Ovina's ring and box, and Yaz gives Ryu and Trok more context for the living ocean and the Splinters. Back at the Leviathan, the party plans to let one person approach Azar while the others hide nearby.
+Airion's ruined tower in the North Cliffs reveals older stonework, recent occupation, and a convincing Plane of Water illusion. Jaeson, Samar, Reliah, and Orden then point the party toward a haggard gatza-smoker who had been asking about lead. Benat explains Airion's tower and Hamri's old water-magic weak spots. Ovina reveals Azar's lead-lined box and ring payment, while Sulfi sends only a guarded reply about strange ships and harbor fees. Wazir tests Ovina's ring and box, and Yaz gives Ryu and Trok more context for the living ocean and the Splinters. Back at the Leviathan, the party plans to let one person approach Azar while the others hide nearby.
 
 ### Aug 5th, 1747
 
@@ -130,7 +130,7 @@ At the Leviathan, Wazir translates [[The Ciphered Scroll]], revealing some detai
 At the Leviathan, Wazir reads through [[The Ciphered Scroll]], which describes a man trying to bring back his dead wife Nadine through strange experiments with that killed his victims. The account points to Gazankoa, Airion the Mistspeaker, Nimessa, Mendin, Hamri, and the stolen [[Sentient Ocean]].
 
 #### Long
-At the Leviathan, Wazir finally lays out what he has learned from [[The Ciphered Scroll]]. Its author, later identified as Azar, sought to restore his dead wife Nadine. To do so, he experimented on vulnerable people whose bodies filled with water, and eventually sought clues from the  legends of Airion the Mistspeaker, leading to summoning a [[marid]], [[Nimessa]], and making sacrifices to [[Gazankoa]]. Ryu, Trok, Kaleho, and Wazir debate resurrection lore, gatza visions, and Airion's ruined tower above the old sea cave before agreeing to rest and investigate the tower in the morning.
+At the Leviathan, Wazir finally lays out what he has learned from [[The Ciphered Scroll]]. Its author, later identified as Azar, sought to restore his dead wife Nadine. To do so, he experimented on vulnerable people whose bodies filled with water, and eventually sought clues from the  legends of Airion the Mistspeaker, leading to summoning a [[marid]], [[Nimessa]], and making sacrifices to [[Gazankoa]]. Ryu, Trok, Kaleho, and Wazir debate resurrection lore, gatza visions, and Airion's ruined tower in the North Cliffs above the old sea cave before agreeing to rest and investigate the tower in the morning.
 
 ### recap-002 | Searching Airion's Tower
 
@@ -139,20 +139,20 @@ At the Leviathan, Wazir finally lays out what he has learned from [[The Ciphered
 - Date: 1747-08-04
 - Time: morning
 - Source Range: u0506 -> u0960
-- Locations: Hamri
+- Locations: North Cliffs
 - NPCs: none
 - Organizations: none
 - Items: Ring of Water Walking, Cloak of the Manta Ray
 - Enemies: none
 
 #### Short
-The next morning, the party searches Airion's ruined tower near Hamri, and find both recent occupation and an old water illusion tied to the Plane of Water.
+The next morning, the party searches Airion's ruined tower in the North Cliffs, and find both recent occupation and an old water illusion tied to the Plane of Water.
 
 #### Intermediate
-The next morning, the party explores the abandoned tower once occupied by [[Airion]] the Mistspeaker, and discover that a newer watchtower shell sits on much older stonework. Inside, a powerful illusion or planar echo makes the chamber seem like open water, complete with strange water creatures, dark tendrils, and an Airion incantation.
+The next morning, the party explores the abandoned tower in the North Cliffs once occupied by [[Airion]] the Mistspeaker, and discover that a newer watchtower shell sits on much older stonework. Inside, a powerful illusion or planar echo makes the chamber seem like open water, complete with strange water creatures, dark tendrils, and an Airion incantation.
 
 #### Long
-The next morning, the group climbs to Airion's ruined tower above the sea cave and finds evidence that someone has surreptitiously been living there. The tower proves older than the surrounding watchtower ruin, and its interior throws them into a convincing water realm where Wazir, Trok, and Kaleho contend with the sensation of drowning, swimming, and being trapped in a bubble of force. While the illusion fades back to a shallow flooded chamber, it leaves the party shaken and wondering about the connection to [[Azar the Lost]]. 
+The next morning, the group climbs to Airion's ruined tower in the North Cliffs, above the sea cave, and finds evidence that someone has surreptitiously been living there. The tower proves older than the surrounding watchtower ruin, and its interior throws them into a convincing water realm where Wazir, Trok, and Kaleho contend with the sensation of drowning, swimming, and being trapped in a bubble of force. While the illusion fades back to a shallow flooded chamber, it leaves the party shaken and wondering about the connection to [[Azar the Lost]]. 
 
 ### recap-003 | Morning Town Informants
 
@@ -308,13 +308,7 @@ Afterward, Wazir heals Azar and the group binds him while they recover from the 
   - Hamri, 1747-08-04
 - Azar the Lost (met, fought): old man grieving his lost wife, corrupted by Gazankoa
   - Hamri, 1747-08-05 to 1747-08-09
-- drowned servant (fought): waterlogged undead helper
-  - Hamri, 1747-08-05
-- townsfolk bystander (met): civilian near the dock
-  - Hamri, 1747-08-05
 - Sefa (met): poor older gatza addict found dead in Azar's lair
-  - Hamri, 1747-08-05
-- drowned zombies (met): undead in Azar's lair, quickly dispatched during the Splinters expedition
   - Hamri, 1747-08-05
 - Gazankoa (mentioned): voice or power named in the scroll
 - Nadine (mentioned): Azar's dead wife
@@ -325,9 +319,13 @@ Afterward, Wazir heals Azar and the group binds him while they recover from the 
 ## Locations
 
 - [[Hamri]]
-  - Summary: coastal port town whose cliffs, watchtowers, docks, markets, and old water-magic weak spots frame the investigation into Azar's murders
-  - Sublocations: the Leviathan Inn, Airion's ruined north-face tower above the sea cave, the Drowned Flats, fish market, Ovina's smithy, Glitter Cliff, Shark's Dock, Yaz's tower, Azar's lair in the Splinters
+  - Summary: coastal port town whose inns, docks, markets, informants, and harbor politics frame most of the investigation into Azar's murders
+  - Sublocations: the Leviathan Inn, the Drowned Flats, fish market, Ovina's smithy, Glitter Cliff, Shark's Dock, Yaz's tower, Azar's lair in the Splinters
   - Date Visited: 1747-08-03 to 1747-08-09
+- [[North Cliffs]]
+  - Summary: coastal cliffs across Hamri's sheltered bay where Airion's ruined tower stands above the old sea cave
+  - Sublocations: Airion's ruined tower, older stonework beneath the watchtower ruin, sea cave, shallow flooded chamber
+  - Date Visited: 1747-08-04
 - Mendin: a Mawaran coastal town mentioned in the ciphered scroll
 
 ## Organizations And Items
@@ -340,9 +338,9 @@ Afterward, Wazir heals Azar and the group binds him while they recover from the 
 - [[The Ciphered Scroll]] (encountered): Azar's coded notes, translated by Wazir, linking the murders to Nadine, Gazankoa, Airion, Nimessa, and the stolen [[Sentient Ocean]]
   - Hamri, 1747-08-03
 - Ring of Water Walking (encountered): Kaleho's ring, used while testing the water illusion inside Airion's tower
-  - Hamri, 1747-08-04
+  - North Cliffs, 1747-08-04
 - Cloak of the Manta Ray (encountered): Wazir's cloak, offered as a practical response to Trok being in real water beneath the tower illusion
-  - Hamri, 1747-08-04
+  - North Cliffs, 1747-08-04
 - lead-lined box (encountered): sealed container commissioned from Ovina by Azar and later used to silence [[Blood Knife]]
   - Hamri, 1747-08-04 to 1747-08-09
 - gold ring with sapphires (encountered): dismantled payment Azar gave Ovina for the box, later understood as the spent ring tied to Nimessa's summoning

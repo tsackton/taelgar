@@ -46,8 +46,8 @@
 **Short Summary**: Amaya guides the party to the attack site, where Ryu finds a massive claw print and signs of boiling heat before the group waits out the night.
 **Long Summary**: With Itzal's permission, the young scout Amaya ferries the party to the marshy shoreline where the most recent attack occurred. Ryu studies the site and finds a webbed claw print far larger than any local beast, while scorched plants suggest blasts of scalding water; Blu's reconnaissance later reveals a huge mist-shrouded mound deeper in the marsh, convincing the party to rest in Eskorola and make a dawn approach.
 **Location**:
-- Eskorola: the marshy attack site south of the mist-shrouded nest
-  Note: The beat includes the scouting trip and the party's overnight stay back in the village.
+- Tzingola: marsh-side attack site near Eskorola, south of the mist-shrouded nest
+  Note: The party scouts the attack site in the marsh, then returns to Eskorola to wait out the night.
 **NPCs**:
 - Amaya (encountered): young scout and guide. She takes the party out to the site of the most recent attack.
 **Items**:
@@ -63,7 +63,7 @@
 **Short Summary**: At dawn the party paddles into the misty marsh, studies the note again, and edges toward the huge mound Blu spotted the night before.
 **Long Summary**: After an uneasy night in Eskorola, the party sets out at first light into a marsh thick with fog, cold rain, and drifting steam. They talk through what little they know, inspect the crude warning note once more, and use Blu's report of a vast mound of vegetation to guide a slow canoe approach toward the hidden lair.
 **Location**:
-- Eskorola -> salt marsh north of Eskorola: canoe approach through narrow channels toward the mist-covered mound
+- Eskorola -> Tzingola: canoe approach through narrow tidal channels toward the mist-covered mound
   Note: Visibility is poor and the mound itself remains mostly hidden.
 **NPCs**: none
 **Items**:
@@ -82,7 +82,7 @@
 **Short Summary**: Nerissa's spell flushes out steam creatures in the fog, and the first wave of defenders attacks the party's canoe.
 **Long Summary**: As Nerissa casts into the mist to reveal anything lying in wait, the marsh answers with the beating of unseen wings and a burst of hostile steam creatures. The party fends off the ambush from their canoe, with Nerissa's magic and Ryu's spear thinning the attackers while the fog keeps the rest of the threat half-hidden around them.
 **Location**:
-- salt marsh north of Eskorola: mist-choked canoe channel at the edge of the hidden nest
+- Tzingola: mist-choked canoe channel at the edge of the hidden nest
   Note: The fight happens in shallow marsh water with very poor visibility.
 **NPCs**:
 - steam imps (enemy): flying mist guardians. They attack from concealment and breathe scalding steam.
@@ -101,7 +101,7 @@
 **Short Summary**: A towering fire cult guardian bursts from the water, wrecks the canoe fight, and dies in an explosion of flaming shrapnel.
 **Long Summary**: The initial ambush gives way to a more dangerous defender when a towering armored cultist wades out of the marsh and attacks the canoe with a flaming spear. The party weathers scalding steam, a near-capsize, and brutal close fighting before bringing the guardian down, only for his body and gear to detonate in a blast that leaves Ryu and Nerissa badly wounded.
 **Location**:
-- salt marsh north of Eskorola: shallow water beside the underwater tunnel leading into the nest
+- Tzingola: shallow water beside the underwater tunnel leading into the hidden nest
   Note: The canoe is damaged and the party ends the fight standing in or beside the water.
 **NPCs**:
 - fire cult guardian (enemy): armored tunnel defender. He fights with a flaming spear and explodes when killed.
@@ -117,8 +117,8 @@
 **Short Summary**: After patching themselves up, the party climbs over the mound and discovers a captive dragon turtle and a fire mage below.
 **Long Summary**: With nothing else rushing out of the tunnel, the party takes a brief moment to heal, reconsider the underwater route, and choose the safer option of climbing over the mound itself. A weak section of the nest roof gives them a view into the chamber below, where they see a giant dragon turtle with a black spear lodged in its neck and a crackling fire mage driving it onward.
 **Location**:
-- outer marsh tunnel mouth -> top of the mist-nest above the interior pool: climbing the rotting mound to find another way inside
-  Note: The beat ends when the party first spots the mage and the bound dragon turtle.
+- Tzingola: outer tunnel mouth and rotting mound roof above the interior pool
+  Note: The party avoids the underwater route, climbs over the mound, and spots the mage and bound dragon turtle below.
 **NPCs**:
 - Chaessenth (encountered): captive dragon turtle. He appears to be controlled by a black spear burning in his neck.
 - fire mage (enemy): controller on the inner shore. He commands the dragon turtle from the dry bank below.
@@ -138,8 +138,8 @@
 **Short Summary**: The second battle begins with the party trying to reach Chaessenth and tear free the black spear while the fire mage hammers them from shore.
 **Long Summary**: Once initiative starts in the chamber below, Ryu, Blu, and Nerissa focus on the black spear pinning Chaessenth in place while Ander closes on the mage. The work proves painfully difficult: the weapon burns anyone who touches it, the turtle thrashes under compulsion, and the mage keeps pressure on the party while trying to maintain control of his captive monster.
 **Location**:
-- mist-nest interior pool: the interior chamber with a central pool, a low beach of rotting vegetation, and the mage's firing position
-  Note: The party fights from the roof, water, and turtle's back all at once.
+- Tzingola: mist-nest interior pool, low beach of rotting vegetation, and the mage's firing position
+  Note: The party fights from the roof, water, and Chaessenth's back all at once.
 **NPCs**:
 - fire mage (enemy): spellcaster on the inner shore. He keeps his distance while directing the fight with fire magic.
 - Chaessenth (encountered): enspelled captive. He remains hostile only because the black spear is magically controlling him.
@@ -159,7 +159,7 @@
 **Short Summary**: The spear finally comes free, Chaessenth turns against the mage, and the party breaks the fire mage's control long enough to kill him.
 **Long Summary**: After repeated painful attempts, the black spear comes loose and Chaessenth can finally speak enough to explain that the mage's concentration must be broken. The battle turns into a desperate scramble across collapsing footing and deep water as Nerissa and the dragon turtle are briefly caught in a dazzling spell, but Blu wakes the turtle in time and Chaessenth lunges in for the killing blow that ends the mage's hold for good.
 **Location**:
-- mist-nest interior pool: the same chamber as the struggle shifts toward freeing and rallying the dragon turtle
+- Tzingola: mist-nest interior pool as the struggle shifts toward freeing and rallying the dragon turtle
   Note: The fight ends in the chamber with the mage dead and Chaessenth conscious.
 **NPCs**:
 - fire mage (enemy): failing controller. He relies on concentration and illusion before Chaessenth kills him.
@@ -177,8 +177,8 @@
 **Short Summary**: With the mage dead, the party heals Chaessenth, learns of Khathayi and the Wanui Teora, and parts ways as the young dragon turtle heads west.
 **Long Summary**: The aftermath turns from battle to revelation as Nerissa heals the freed dragon turtle and the party learns his name, Chaessenth. He explains that the slain mage wanted gatza to commune with the long-dead Khathayi the Flametongue, and he speaks of the songs of the ocean and the Wanui Teora before swimming west into the deep, while the party notes that the mage's golden amulet matches the symbol on Hiyasa's treasure map.
 **Location**:
-- mist-nest interior pool -> open western sea beyond Eskorola: the chamber conversation gives way to Chaessenth's departure back into the ocean
-  Note: The party returns toward the village while Chaessenth leaves for deeper waters.
+- Tzingola -> Hamri: return from the hidden nest through Eskorola after Chaessenth's departure west
+  Note: Chaessenth swims west into the deep ocean while the party returns to Hamri.
 **NPCs**:
 - Chaessenth (encountered): newly freed dragon turtle. He shares what he knows and then chooses to head west into the deep.
 - Khathayi the Flametongue (mentioned): dead fire-linked figure sought by the mage. The mage wanted enough gatza to speak with Khathayi.

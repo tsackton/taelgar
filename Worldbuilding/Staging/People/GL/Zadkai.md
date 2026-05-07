@@ -14,7 +14,7 @@ dm_notes: none
 > A [[Humans|human]]  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A warlock adversary encountered in [[Airion’s Tower]] who posed behind an illusion of [[Airion]]. Temporarily seized the [[Skyborn Scroll]] before the party recovered it.
+A warlock adversary encountered in [[Airion’s Floating Tower]] who posed behind an illusion of [[Airion]]. Temporarily seized the [[Skyborn Scroll]] before the party recovered it.
 
 %%
 GL Arc 1: first major encounter with Zadkai during Airion’s Tower exploration.

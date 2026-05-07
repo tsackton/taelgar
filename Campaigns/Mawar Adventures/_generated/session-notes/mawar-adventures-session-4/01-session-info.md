@@ -14,11 +14,11 @@ The Chained Beast
 <!-- /SLOT -->
 
 <!-- SLOT: session.tagline -->
-In which Ander, Nerissa, and Ryu battle fire cultists to save a captive dragon turtle.
+In which Ander, Nerissa, and Ryu battle to save a captive dragon turtle.
 <!-- /SLOT -->
 
 <!-- SLOT: session.summary -->
-[[Ryu]], [[Nerissa]], and [[Ander]] investigate killings near [[Eskorola]], battle fire cultists, and free the dragon turtle [[Chaessenth]] from a mage seeking to contact Khathayi the Flametongue.
+[[Ryu]], [[Nerissa]], and [[Ander]] investigate killings near [[Eskorola]], battle fire cultists, and free the dragon turtle [[Chaessenth]] from a mage seeking to contact [[Khathayi|Khathayi the Flametongue]].
 <!-- /SLOT -->
 
 <!-- SLOT: session.dm -->
@@ -68,35 +68,29 @@ Monday, December 27, 2021
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->
+- (DR:: 1747-11-01): [[Ander]], a recently retired Chardonian soldier, returns to [[Hamri]] after twenty years away.
 - (DR:: 1747-11-08), morning: [[Ander]] finds [[Ryu]] at his cliff tower in [[Hamri]]. Their reunion is interrupted by [[Jaeson]] with a rumor that a beast is killing lizardfolk near [[Eskorola]].
-- (DR:: 1747-11-08), afternoon: [[Ryu]], [[Ander]], and [[Nerissa]] travel to [[Eskorola]], where they hear [[Itzal]]'s account of burned bodies and a demand for gatza tribute. Guided by the lizardfolk [[Amaya]], the party then inspects the attack site.
-- (DR:: 1747-11-09), morning: The party enters the nearby salt marsh, survives an ambush by steam monsters, and finds [[Chaessenth]] under a fire cultist's control. After an intense battle, the party frees [[Chaessenth]].
-- (DR:: 1747-11-09), afternoon: [[Chaessenth]] the dragon turtle departs the [[Mawakel Peninsula]] for the western sea.
+- (DR:: 1747-11-08), afternoon: [[Ryu]], [[Ander]], and [[Nerissa]] travel to [[Eskorola]], where [[Itzal]] describes burned bodies and a note demanding that the village leave its [[Gatza|gatza]] tribute on a harbor barge in three days. [[Amaya]] guides the party into the [[Tzingola|Tzingola Marshes]], where they find an enormous claw print and signs of scalding heat.
+- (DR:: 1747-11-09), morning: The party enters [[Tzingola]] by canoe, survives an attack in the fog, and finds [[Chaessenth]] under a fire mage's control. The party frees [[Chaessenth]] and kills the fire mage.
+- (DR:: 1747-11-09), afternoon: [[Chaessenth]] departs for the [[Endless Ocean]], escorted by [[Turk]], while the party returns to [[Hamri]].
 <!-- /SLOT -->
 
 <!-- SLOT: cast -->
 - [[Jaeson]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): rumor source.
 - [[Itzal]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): village elder.
 - [[Amaya]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): young scout and guide.
-- steam imps: flying mist guardians.
-- fire cult guardian: armored tunnel defender.
 - [[Chaessenth]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): captive dragon turtle.
-- fire mage: controller on the inner shore.
-- Khathayi the Flametongue: dead fire-linked figure sought by the mage.
+- [[Khathayi|Khathayi the Flametongue]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): dead fire-linked figure sought by the mage.
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->
-- [[Hamri]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): coastal Mawaran town where [[Ryu]] keeps a cliffside tower and where the investigation begins. Session context includes: [[Ryu]]'s tower on the cliffs above the bay.
-- [[Eskorola]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): lizardfolk village north of [[Hamri]] threatened by a marsh predator demanding gatza. Session context includes: a half-day sail north to the lizardfolk village.
-- salt marsh north of [[Eskorola]]: foggy tidal marsh holding the hidden nest and its outer defenses. Session context includes: canoe approach through narrow channels toward the mist-covered mound.
-- outer marsh tunnel mouth: underwater entrance guarded by steam creatures and an armored fire cultist. Session context includes: climbing the rotting mound to find another way inside.
-- top of the mist-nest above the interior pool: rotting mound roof above the hidden chamber, used as the party's safer entrance. Session context includes: climbing the rotting mound to find another way inside.
-- mist-nest interior pool: hidden chamber where [[Chaessenth]] was held under the fire mage's control. Session context includes: the interior chamber with a central pool, a low beach of rotting vegetation, and and the mage's firing position.
-- open western sea beyond [[Eskorola]]: deep water beyond the village into which [[Chaessenth]] departs after his release. Session context includes: the chamber conversation gives way to [[Chaessenth]]'s departure back into the ocean.
+- [[Hamri]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): coastal Mawaran town where [[Ryu]] keeps a cliffside tower and where the investigation begins and ends. Session context includes: Ryu's tower on the cliffs above the bay and return from [[Eskorola]] and [[Tzingola]].
+- [[Eskorola]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): salt lizardfolk village near the southern end of [[Tzingola]], threatened by a predator demanding gatza. Session context includes: village harbor, Itzal's briefing, and route into the marsh.
+- [[Tzingola]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): extensive salt marshes north of [[Hamri]] and around [[Eskorola]], where the fire cultist hid [[Chaessenth]] in a mist-covered nest. Session context includes: marsh-side attack site, canoe channels, mist-covered mound, underwater tunnel mouth, rotting mound roof, and mist-nest interior pool.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->
-[[Hamri]], [[Eskorola]], salt marsh north of [[Eskorola]], outer marsh tunnel mouth, top of the mist-nest above the interior pool, mist-nest interior pool, and open western sea beyond [[Eskorola]]
+[[Hamri]], [[Eskorola]], and the [[Tzingola|Tzingola Marshes]]
 <!-- /SLOT -->
 
 <!-- SLOT: combat.summary -->
@@ -109,13 +103,12 @@ Monday, December 27, 2021
   - [[Hamri]], 1747-11-08
 - threat note: crude written demand for gatza tribute recovered with a burned body.
   - [[Hamri]] -> [[Eskorola]], 1747-11-08
-  - [[Eskorola]], 1747-11-08 to 1747-11-09
-  - [[Eskorola]] -> salt marsh north of [[Eskorola]], 1747-11-09
-- black spear: burning control weapon lodged in [[Chaessenth]]'s neck.
-  - outer marsh tunnel mouth -> top of the mist-nest above the interior pool, 1747-11-09
-  - mist-nest interior pool, 1747-11-09
+  - [[Tzingola]], 1747-11-08 to 1747-11-09
+  - [[Eskorola]] -> [[Tzingola]], 1747-11-09
+- black spear: burning control weapon lodged in Chaessenth's neck.
+  - [[Tzingola]], 1747-11-09
 - golden amulet: fire mage's amulet bearing a symbol that matches Hiyasa's map.
-  - mist-nest interior pool -> open western sea beyond [[Eskorola]], 1747-11-09
+  - [[Tzingola]] -> [[Hamri]], 1747-11-09
 - [[Hiyasa's Treasure Map|Hiyasa's treasure map]] (<(*)pronunciation(*;)> <typeof:sn>): map whose symbol matches the mage's amulet and points toward a northern island.
-  - mist-nest interior pool -> open western sea beyond [[Eskorola]], 1747-11-09
+  - [[Tzingola]] -> [[Hamri]], 1747-11-09
 <!-- /SLOT -->

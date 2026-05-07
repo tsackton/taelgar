@@ -34,7 +34,7 @@
         "At the Leviathan, Wazir shares The Ciphered Scroll and the party connects Hamri's recent deaths to Gazankoa, Airion, Nimessa, and the stolen Sentient Ocean."
       ],
       "sourceLongSummaries": [
-        "The party gathers at the Leviathan while Wazir walks through The Ciphered Scroll: its author sought to restore his dead wife Nadine, sacrificed people whose bodies filled with water, chased legends of Airion the Mistspeaker, found a ring tied to Nimessa, and came to Hamri after calling on Gazankoa. The group debates resurrection, gatza visions, Medin, Airion's ruined tower above the sea cave, and the living water before deciding to rest and search the tower in the morning."
+        "The party gathers at the Leviathan while Wazir walks through The Ciphered Scroll: its author sought to restore his dead wife Nadine, sacrificed people whose bodies filled with water, chased legends of Airion the Mistspeaker, found a ring tied to Nimessa, and came to Hamri after calling on Gazankoa. The group debates resurrection, gatza visions, Medin, Airion's ruined tower in the North Cliffs above the sea cave, and the living water before deciding to rest and search the tower in the morning."
       ],
       "sourceEntries": [
         {
@@ -49,7 +49,7 @@
             "endUid": "u0505"
           },
           "shortSummary": "At the Leviathan, Wazir shares The Ciphered Scroll and the party connects Hamri's recent deaths to Gazankoa, Airion, Nimessa, and the stolen Sentient Ocean.",
-          "longSummary": "The party gathers at the Leviathan while Wazir walks through The Ciphered Scroll: its author sought to restore his dead wife Nadine, sacrificed people whose bodies filled with water, chased legends of Airion the Mistspeaker, found a ring tied to Nimessa, and came to Hamri after calling on Gazankoa. The group debates resurrection, gatza visions, Medin, Airion's ruined tower above the sea cave, and the living water before deciding to rest and search the tower in the morning.",
+          "longSummary": "The party gathers at the Leviathan while Wazir walks through The Ciphered Scroll: its author sought to restore his dead wife Nadine, sacrificed people whose bodies filled with water, chased legends of Airion the Mistspeaker, found a ring tied to Nimessa, and came to Hamri after calling on Gazankoa. The group debates resurrection, gatza visions, Medin, Airion's ruined tower in the North Cliffs above the sea cave, and the living water before deciding to rest and search the tower in the morning.",
           "locationHints": {
             "refs": [
               "Hamri"
@@ -119,40 +119,53 @@
       "blockId": "timeline-002",
       "dateStart": "1747-08-04",
       "dateEnd": null,
-      "timeWindow": "morning",
-      "resolution": "part-of-day",
+      "timeWindow": null,
+      "resolution": "day",
       "beatIds": [
         "beat-002",
-        "beat-003"
+        "beat-003",
+        "beat-004",
+        "beat-005"
       ],
       "locationRefs": [
-        "Hamri"
+        "Hamri",
+        "North Cliffs"
       ],
       "npcRefs": [
         "Jaeson",
         "Samar",
         "Reliah",
-        "Orden"
+        "Orden",
+        "Benat",
+        "Ovina",
+        "Sulfi's servant",
+        "Yaz"
       ],
       "organizationRefs": [],
       "itemRefs": [
         "Ring of Water Walking",
-        "Cloak of the Manta Ray"
+        "Cloak of the Manta Ray",
+        "lead-lined box",
+        "gold ring with sapphires"
       ],
       "combatBeatIds": [],
       "sourceShortSummaries": [
-        "The party searches Airion's ruined tower, finds signs of recent occupation, and confirms that an old watery illusion still clings to the site.",
-        "The party fans out across Hamri and learns that a haggard old man has been using the tower, smoking gatza, and asking questions about lead."
+        "The party searches Airion's ruined tower in the North Cliffs, finds signs of recent occupation, and confirms that an old watery illusion still clings to the site.",
+        "The party fans out across Hamri and learns that a haggard old man has been using the tower, smoking gatza, and asking questions about lead.",
+        "At the market and in afternoon errands, the party gets Benat's history of Airion, Ovina's lead-box confession, and Sofi's curt message about strange ships.",
+        "The party consults Yaz, an old ocean-watcher, before resting for the evening."
       ],
       "sourceLongSummaries": [
-        "The next morning the group reaches the abandoned north-face watchtower above the sea cave and discovers that a newer tower was built over much older stonework. Inside, the place throws them into a convincing Plane of Water illusion with dolphins, black-water tendrils, and Airion's water-commanding incantation before the image fades back to the shallow flooded chamber; the evidence of recent habitation sends them back toward town informants.",
-        "After leaving the tower, Ryu and Trok go to Jaeson while the others check Samar, Reliah, and Orden for local gossip. The combined reports point to a worn older man who appeared only recently, hid signs of living in the tower, left fish remains and the smell of gatza, had ties to the Drowned Flats deaths, and had been asking around about lead before the group prepares to reconvene at the market."
+        "The next morning the group reaches Airion's ruined tower in the North Cliffs, above the sea cave, and discovers that a newer watchtower shell sits on much older stonework. Inside, the place throws them into a convincing Plane of Water illusion with dolphins, black-water tendrils, and Airion's water-commanding incantation before the image fades back to the shallow flooded chamber; the evidence of recent habitation sends them back toward town informants.",
+        "After leaving the tower, Ryu and Trok go to Jaeson while the others check Samar, Reliah, and Orden for local gossip. The combined reports point to a worn older man who appeared only recently, hid signs of living in the tower, left fish remains and the smell of gatza, had ties to the Drowned Flats deaths, and had been asking around about lead before the group prepares to reconvene at the market.",
+        "The party regroups at the fish market after lunch, compares the morning's clues, and presses Benat for the older story of Airion's tower, Hamri's hidden weak spots, and the living water. They split again: Kaleho and Trok persuade Ovina to show the nearly finished lead-lined box and the dismantled gold-and-sapphire ring Azar paid with, while Wazir and Ryu climb to Glitter Cliff and receive only a formal message that Sofi knows of no strange ship and wants any sightings reported for fees and duties.",
+        "Wazir tests Ovina's ring and box, and Yaz gives Ryu and Trok more context for the living ocean and the Splinters. Back at the Leviathan, the party plans to let one person approach Azar while the others hide nearby."
       ],
       "sourceEntries": [
         {
           "beatId": "beat-002",
           "title": "Searching Airion's Tower",
-          "boundaryReason": "The transcript advances to the next morning as the party reaches the north-face tower, inspects the hidden older stonework and planar illusion within, and leaves only once they decide the best next move is to ask town contacts for context.",
+          "boundaryReason": "The transcript advances to the next morning as the party reaches the North Cliffs tower, inspects the hidden older stonework and planar illusion within, and leaves only once they decide the best next move is to ask town contacts for context.",
           "dateStart": "1747-08-04",
           "dateEnd": null,
           "timeWindow": "morning",
@@ -160,13 +173,13 @@
             "startUid": "u0506",
             "endUid": "u0960"
           },
-          "shortSummary": "The party searches Airion's ruined tower, finds signs of recent occupation, and confirms that an old watery illusion still clings to the site.",
-          "longSummary": "The next morning the group reaches the abandoned north-face watchtower above the sea cave and discovers that a newer tower was built over much older stonework. Inside, the place throws them into a convincing Plane of Water illusion with dolphins, black-water tendrils, and Airion's water-commanding incantation before the image fades back to the shallow flooded chamber; the evidence of recent habitation sends them back toward town informants.",
+          "shortSummary": "The party searches Airion's ruined tower in the North Cliffs, finds signs of recent occupation, and confirms that an old watery illusion still clings to the site.",
+          "longSummary": "The next morning the group reaches Airion's ruined tower in the North Cliffs, above the sea cave, and discovers that a newer watchtower shell sits on much older stonework. Inside, the place throws them into a convincing Plane of Water illusion with dolphins, black-water tendrils, and Airion's water-commanding incantation before the image fades back to the shallow flooded chamber; the evidence of recent habitation sends them back toward town informants.",
           "locationHints": {
             "refs": [
-              "Hamri"
+              "North Cliffs"
             ],
-            "context": "Airion's ruined tower on the north cliffs above the sea cave",
+            "context": "Airion's ruined tower above the sea cave",
             "notes": "The beat stays focused on the tower, its older foundation, and the lingering water magic within."
           },
           "npcDetails": [
@@ -260,39 +273,7 @@
               "notes": "The party learns that the suspect was asking about lead before commissioning the box."
             }
           ]
-        }
-      ]
-    },
-    {
-      "blockId": "timeline-003",
-      "dateStart": "1747-08-04",
-      "dateEnd": null,
-      "timeWindow": "afternoon",
-      "resolution": "part-of-day",
-      "beatIds": [
-        "beat-004"
-      ],
-      "locationRefs": [
-        "Hamri"
-      ],
-      "npcRefs": [
-        "Benat",
-        "Ovina",
-        "Sofi's servant"
-      ],
-      "organizationRefs": [],
-      "itemRefs": [
-        "lead-lined box",
-        "gold ring with sapphires"
-      ],
-      "combatBeatIds": [],
-      "sourceShortSummaries": [
-        "At the market and in afternoon errands, the party gets Benat's history of Airion, Ovina's lead-box confession, and Sofi's curt message about strange ships."
-      ],
-      "sourceLongSummaries": [
-        "The party regroups at the fish market after lunch, compares the morning's clues, and presses Benat for the older story of Airion's tower, Hamri's hidden weak spots, and the living water. They split again: Kaleho and Trok persuade Ovina to show the nearly finished lead-lined box and the dismantled gold-and-sapphire ring Azar paid with, while Wazir and Ryu climb to Glitter Cliff and receive only a formal message that Sofi knows of no strange ship and wants any sightings reported for fees and duties."
-      ],
-      "sourceEntries": [
+        },
         {
           "beatId": "beat-004",
           "title": "Market and Afternoon Leads",
@@ -368,38 +349,7 @@
               "notes": "The strange ship remains the subject of the inquiry at Glitter Cliff and Shark's Dock."
             }
           ]
-        }
-      ]
-    },
-    {
-      "blockId": "timeline-004",
-      "dateStart": "1747-08-04",
-      "dateEnd": null,
-      "timeWindow": "evening",
-      "resolution": "part-of-day",
-      "beatIds": [
-        "beat-005"
-      ],
-      "locationRefs": [
-        "Hamri"
-      ],
-      "npcRefs": [
-        "Yaz",
-        "Ovina"
-      ],
-      "organizationRefs": [],
-      "itemRefs": [
-        "lead-lined box",
-        "gold ring with sapphires"
-      ],
-      "combatBeatIds": [],
-      "sourceShortSummaries": [
-        "The party consults Yaz, an old ocean-watcher, before resting for the evening."
-      ],
-      "sourceLongSummaries": [
-        "Wazir tests Ovina's ring and box, and Yaz gives Ryu and Trok more context for the living ocean and the Splinters. Back at the Leviathan, the party plans to let one person approach Azar while the others hide nearby."
-      ],
-      "sourceEntries": [
+        },
         {
           "beatId": "beat-005",
           "title": "Yaz and Evening Plan",
@@ -489,15 +439,16 @@
       ]
     },
     {
-      "blockId": "timeline-005",
+      "blockId": "timeline-003",
       "dateStart": "1747-08-05",
       "dateEnd": null,
-      "timeWindow": "morning",
-      "resolution": "part-of-day",
+      "timeWindow": null,
+      "resolution": "day",
       "beatIds": [
         "beat-006",
         "beat-007",
-        "beat-008"
+        "beat-008",
+        "beat-009"
       ],
       "locationRefs": [
         "Hamri"
@@ -506,14 +457,20 @@
         "Azar the Lost",
         "Ovina",
         "drowned servant",
-        "townsfolk bystander"
+        "townsfolk bystander",
+        "Sefa",
+        "drowned zombies"
       ],
       "organizationRefs": [],
       "itemRefs": [
         "lead-lined box",
         "phantom boat",
         "healing spirit",
-        "Eldritch Maul tattoo"
+        "Eldritch Maul tattoo",
+        "Airion's notes",
+        "Blood Knife",
+        "brass bowl",
+        "scattered coins"
       ],
       "combatBeatIds": [
         "beat-007",
@@ -522,12 +479,18 @@
       "sourceShortSummaries": [
         "At dawn, the party spots Azar's phantom boat, confronts him after he collects the box, and sees the parley turn into an imminent fight.",
         "Azar erupts into black tentacles, runs for the phantom boat, and punishes the party's first attempts to restrain him.",
-        "The fight turns after Trok is revived, breaks Azar's concentration, drops him unconscious, and leaves Kaleho to finish the drowned servant."
+        "The fight turns after Trok is revived, breaks Azar's concentration, drops him unconscious, and leaves Kaleho to finish the drowned servant.",
+        "After the fight, the party stabilizes Azar and contains the dockside chaos.",
+        "The party hears Azar's full tale after tending Shark's Dock.",
+        "The Splinters expedition clears Azar's lair and recovers his remaining evidence."
       ],
       "sourceLongSummaries": [
         "The next morning the party stages itself around Shark's Dock after Blue spots a fast ship rounding the point. Azar arrives in oilskin cloaks, collects the lead-lined box from Ovina, and tries to leave; Ryu blocks him with questions about the tower, the deaths, and the Sentient Ocean while invisible Wazir uses Nadine's name to unsettle him, and the old man admits he is Azar and that Gazankoa is helping him save his family before a clearly nefarious invitation onto the boat makes the party draw weapons.",
         "As the party attacks, Azar throws black tentacles across the dock, takes spear and melee hits, and bolts for the phantom boat while his drowned servant rises from the vessel dripping seawater. Trok drags Azar into the water and Kaleho lands a hard crossbow shot, but Azar's defenses and whispers keep him dangerous; the box is dropped in the boat, the vessel is pushed away, the tentacles keep crushing Ryu and Wazir, and Trok's huge underwater assault is answered by Armor of Agathys cold that knocks him unconscious.",
-        "With Trok unconscious in the water and Ryu restrained, the party scrambles to recover: Ryu's healing spirit brings Trok back up, Wazir's shatter destroys Azar's cold armor, and Azar answers with lightning that kills a nearby townsfolk and batters Ryu and Kaleho. Trok heals himself, lashes out with Eldritch Maul crocodile strikes, finally breaks the tentacles, and knocks Azar unconscious; Kaleho then shoots the remaining drowned servant down so Wazir can rush to heal Azar before he dies."
+        "With Trok unconscious in the water and Ryu restrained, the party scrambles to recover: Ryu's healing spirit brings Trok back up, Wazir's shatter destroys Azar's cold armor, and Azar answers with lightning that kills a nearby townsfolk and batters Ryu and Kaleho. Trok heals himself, lashes out with Eldritch Maul crocodile strikes, finally breaks the tentacles, and knocks Azar unconscious; Kaleho then shoots the remaining drowned servant down so Wazir can rush to heal Azar before he dies.",
+        "After the fight at Shark's Dock, Wazir heals Azar and the party binds him while beginning to recover from their injuries and the chaos around the dock.",
+        "After recovering from their injuries, calming the civilians on Shark's Dock, and tending the woman killed in Azar's lightning blast, the party hears Azar's full tale from Azar.",
+        "An evening expedition to the Splinters quickly dispatches two more drowned zombies and finds Sefa, a poor older gatza addict from the Drowned Flats who lived alone; the party recovers three books of Airion's notes and lore, with two in Drankorian and one in Elvish, plus the Blood Knife, which they lock in the lead-lined box, the brass bowl, and scattered coins paid as restitution to Sefa and the families of the dead who can be found."
       ],
       "sourceEntries": [
         {
@@ -739,34 +702,7 @@
             ],
             "notes": "This beat covers the crisis, recovery, and end of the dockside combat."
           }
-        }
-      ]
-    },
-    {
-      "blockId": "timeline-006",
-      "dateStart": "1747-08-05",
-      "dateEnd": null,
-      "timeWindow": "morning",
-      "resolution": "part-of-day",
-      "beatIds": [
-        "beat-009"
-      ],
-      "locationRefs": [
-        "Hamri"
-      ],
-      "npcRefs": [
-        "Azar the Lost"
-      ],
-      "organizationRefs": [],
-      "itemRefs": [],
-      "combatBeatIds": [],
-      "sourceShortSummaries": [
-        "After the fight, the party stabilizes Azar and contains the dockside chaos."
-      ],
-      "sourceLongSummaries": [
-        "After the fight at Shark's Dock, Wazir heals Azar and the party binds him while beginning to recover from their injuries and the chaos around the dock."
-      ],
-      "sourceEntries": [
+        },
         {
           "beatId": "beat-009",
           "title": "Aftermath and Answers",
@@ -874,34 +810,7 @@
               "notes": "Azar wanted living water because he believed ordinary seawater was insufficient for the ritual."
             }
           ]
-        }
-      ]
-    },
-    {
-      "blockId": "timeline-007",
-      "dateStart": "1747-08-05",
-      "dateEnd": null,
-      "timeWindow": "afternoon",
-      "resolution": "part-of-day",
-      "beatIds": [
-        "beat-009"
-      ],
-      "locationRefs": [
-        "Hamri"
-      ],
-      "npcRefs": [
-        "Azar the Lost"
-      ],
-      "organizationRefs": [],
-      "itemRefs": [],
-      "combatBeatIds": [],
-      "sourceShortSummaries": [
-        "The party hears Azar's full tale after tending Shark's Dock."
-      ],
-      "sourceLongSummaries": [
-        "After recovering from their injuries, calming the civilians on Shark's Dock, and tending the woman killed in Azar's lightning blast, the party hears Azar's full tale from Azar."
-      ],
-      "sourceEntries": [
+        },
         {
           "beatId": "beat-009",
           "title": "Aftermath and Answers",
@@ -1009,41 +918,7 @@
               "notes": "Azar wanted living water because he believed ordinary seawater was insufficient for the ritual."
             }
           ]
-        }
-      ]
-    },
-    {
-      "blockId": "timeline-008",
-      "dateStart": "1747-08-05",
-      "dateEnd": null,
-      "timeWindow": "evening",
-      "resolution": "part-of-day",
-      "beatIds": [
-        "beat-009"
-      ],
-      "locationRefs": [
-        "Hamri"
-      ],
-      "npcRefs": [
-        "Sefa",
-        "drowned zombies"
-      ],
-      "organizationRefs": [],
-      "itemRefs": [
-        "Airion's notes",
-        "Blood Knife",
-        "lead-lined box",
-        "brass bowl",
-        "scattered coins"
-      ],
-      "combatBeatIds": [],
-      "sourceShortSummaries": [
-        "The Splinters expedition clears Azar's lair and recovers his remaining evidence."
-      ],
-      "sourceLongSummaries": [
-        "An evening expedition to the Splinters quickly dispatches two more drowned zombies and finds Sefa, a poor older gatza addict from the Drowned Flats who lived alone; the party recovers three books of Airion's notes and lore, with two in Drankorian and one in Elvish, plus the Blood Knife, which they lock in the lead-lined box, the brass bowl, and scattered coins paid as restitution to Sefa and the families of the dead who can be found."
-      ],
-      "sourceEntries": [
+        },
         {
           "beatId": "beat-009",
           "title": "Aftermath and Answers",
@@ -1155,11 +1030,11 @@
       ]
     },
     {
-      "blockId": "timeline-009",
+      "blockId": "timeline-004",
       "dateStart": "1747-08-06",
       "dateEnd": null,
-      "timeWindow": "morning",
-      "resolution": "part-of-day",
+      "timeWindow": null,
+      "resolution": "day",
       "beatIds": [
         "beat-009"
       ],
@@ -1293,11 +1168,11 @@
       ]
     },
     {
-      "blockId": "timeline-010",
+      "blockId": "timeline-005",
       "dateStart": "1747-08-09",
       "dateEnd": null,
-      "timeWindow": "morning",
-      "resolution": "part-of-day",
+      "timeWindow": null,
+      "resolution": "day",
       "beatIds": [
         "beat-009"
       ],
@@ -1464,7 +1339,7 @@
         "At the Leviathan, Wazir shares The Ciphered Scroll and the party connects Hamri's recent deaths to Gazankoa, Airion, Nimessa, and the stolen Sentient Ocean."
       ],
       "sourceLongSummaries": [
-        "The party gathers at the Leviathan while Wazir walks through The Ciphered Scroll: its author sought to restore his dead wife Nadine, sacrificed people whose bodies filled with water, chased legends of Airion the Mistspeaker, found a ring tied to Nimessa, and came to Hamri after calling on Gazankoa. The group debates resurrection, gatza visions, Medin, Airion's ruined tower above the sea cave, and the living water before deciding to rest and search the tower in the morning."
+        "The party gathers at the Leviathan while Wazir walks through The Ciphered Scroll: its author sought to restore his dead wife Nadine, sacrificed people whose bodies filled with water, chased legends of Airion the Mistspeaker, found a ring tied to Nimessa, and came to Hamri after calling on Gazankoa. The group debates resurrection, gatza visions, Medin, Airion's ruined tower in the North Cliffs above the sea cave, and the living water before deciding to rest and search the tower in the morning."
       ],
       "sourceEntries": [
         {
@@ -1479,7 +1354,7 @@
             "endUid": "u0505"
           },
           "shortSummary": "At the Leviathan, Wazir shares The Ciphered Scroll and the party connects Hamri's recent deaths to Gazankoa, Airion, Nimessa, and the stolen Sentient Ocean.",
-          "longSummary": "The party gathers at the Leviathan while Wazir walks through The Ciphered Scroll: its author sought to restore his dead wife Nadine, sacrificed people whose bodies filled with water, chased legends of Airion the Mistspeaker, found a ring tied to Nimessa, and came to Hamri after calling on Gazankoa. The group debates resurrection, gatza visions, Medin, Airion's ruined tower above the sea cave, and the living water before deciding to rest and search the tower in the morning.",
+          "longSummary": "The party gathers at the Leviathan while Wazir walks through The Ciphered Scroll: its author sought to restore his dead wife Nadine, sacrificed people whose bodies filled with water, chased legends of Airion the Mistspeaker, found a ring tied to Nimessa, and came to Hamri after calling on Gazankoa. The group debates resurrection, gatza visions, Medin, Airion's ruined tower in the North Cliffs above the sea cave, and the living water before deciding to rest and search the tower in the morning.",
           "locationHints": {
             "refs": [
               "Hamri"
@@ -1567,7 +1442,7 @@
       "timeWindow": "morning",
       "resolution": "part-of-day",
       "locationRefs": [
-        "Hamri"
+        "North Cliffs"
       ],
       "npcRefs": [],
       "organizationRefs": [],
@@ -1577,16 +1452,16 @@
       ],
       "combatEnemyRefs": [],
       "sourceShortSummaries": [
-        "The party searches Airion's ruined tower, finds signs of recent occupation, and confirms that an old watery illusion still clings to the site."
+        "The party searches Airion's ruined tower in the North Cliffs, finds signs of recent occupation, and confirms that an old watery illusion still clings to the site."
       ],
       "sourceLongSummaries": [
-        "The next morning the group reaches the abandoned north-face watchtower above the sea cave and discovers that a newer tower was built over much older stonework. Inside, the place throws them into a convincing Plane of Water illusion with dolphins, black-water tendrils, and Airion's water-commanding incantation before the image fades back to the shallow flooded chamber; the evidence of recent habitation sends them back toward town informants."
+        "The next morning the group reaches Airion's ruined tower in the North Cliffs, above the sea cave, and discovers that a newer watchtower shell sits on much older stonework. Inside, the place throws them into a convincing Plane of Water illusion with dolphins, black-water tendrils, and Airion's water-commanding incantation before the image fades back to the shallow flooded chamber; the evidence of recent habitation sends them back toward town informants."
       ],
       "sourceEntries": [
         {
           "beatId": "beat-002",
           "title": "Searching Airion's Tower",
-          "boundaryReason": "The transcript advances to the next morning as the party reaches the north-face tower, inspects the hidden older stonework and planar illusion within, and leaves only once they decide the best next move is to ask town contacts for context.",
+          "boundaryReason": "The transcript advances to the next morning as the party reaches the North Cliffs tower, inspects the hidden older stonework and planar illusion within, and leaves only once they decide the best next move is to ask town contacts for context.",
           "dateStart": "1747-08-04",
           "dateEnd": null,
           "timeWindow": "morning",
@@ -1594,13 +1469,13 @@
             "startUid": "u0506",
             "endUid": "u0960"
           },
-          "shortSummary": "The party searches Airion's ruined tower, finds signs of recent occupation, and confirms that an old watery illusion still clings to the site.",
-          "longSummary": "The next morning the group reaches the abandoned north-face watchtower above the sea cave and discovers that a newer tower was built over much older stonework. Inside, the place throws them into a convincing Plane of Water illusion with dolphins, black-water tendrils, and Airion's water-commanding incantation before the image fades back to the shallow flooded chamber; the evidence of recent habitation sends them back toward town informants.",
+          "shortSummary": "The party searches Airion's ruined tower in the North Cliffs, finds signs of recent occupation, and confirms that an old watery illusion still clings to the site.",
+          "longSummary": "The next morning the group reaches Airion's ruined tower in the North Cliffs, above the sea cave, and discovers that a newer watchtower shell sits on much older stonework. Inside, the place throws them into a convincing Plane of Water illusion with dolphins, black-water tendrils, and Airion's water-commanding incantation before the image fades back to the shallow flooded chamber; the evidence of recent habitation sends them back toward town informants.",
           "locationHints": {
             "refs": [
-              "Hamri"
+              "North Cliffs"
             ],
-            "context": "Airion's ruined tower on the north cliffs above the sea cave",
+            "context": "Airion's ruined tower above the sea cave",
             "notes": "The beat stays focused on the tower, its older foundation, and the lingering water magic within."
           },
           "npcDetails": [
@@ -2600,7 +2475,6 @@
         "name": "Hamri",
         "beatIds": [
           "beat-001",
-          "beat-002",
           "beat-003",
           "beat-004",
           "beat-005",
@@ -2608,6 +2482,15 @@
           "beat-007",
           "beat-008",
           "beat-009"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "North Cliffs",
+        "beatIds": [
+          "beat-002"
         ],
         "relationKinds": [
           "visited"
@@ -2856,7 +2739,6 @@
           "contextHint": "the Leviathan Inn, where the party compares notes over Wazir's translation",
           "beatIds": [
             "beat-001",
-            "beat-002",
             "beat-003",
             "beat-004",
             "beat-005",
@@ -2869,6 +2751,23 @@
             {
               "dateStart": "1747-08-03",
               "dateEnd": "1747-08-09",
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "North Cliffs",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Airion's ruined tower above the sea cave",
+          "beatIds": [
+            "beat-002"
+          ],
+          "visits": [
+            {
+              "dateStart": "1747-08-04",
+              "dateEnd": null,
               "kind": "visited"
             }
           ]
@@ -2904,7 +2803,7 @@
           ],
           "history": [
             {
-              "location": "Hamri",
+              "location": "North Cliffs",
               "dateStart": "1747-08-04",
               "dateEnd": null
             }
@@ -2921,7 +2820,7 @@
           ],
           "history": [
             {
-              "location": "Hamri",
+              "location": "North Cliffs",
               "dateStart": "1747-08-04",
               "dateEnd": null
             }

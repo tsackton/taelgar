@@ -1,22 +1,27 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place]
 aliases: [Guzo's Shrine, Shrine of Guzo]
 name: Shrine to Guzo the Mariner
 typeOf: holy site
 whereabouts: North Cliffs
-dm_notes: important
-dm_owner: tim
+dm_notes: none
+dm_owner: none
 ---
 # Shrine to Guzo the Mariner
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Shrine to Guzo the Mariner is an old sea-cave shrine in the [[North Cliffs]], north of [[Hamri]]. It stands inside a white-sand cave lit by warm blue light, with a ruined sanctuary, side chapel, altar, offerings, and a hidden chamber opened by Guzo's ancestor prayer.
+The Shrine to Guzo the Mariner is an old sea-cave shrine in the [[North Cliffs]], north of [[Hamri]]. Set within a cliffside cave on a white-sand beach, and only accessible by boat, the shrine was once a popular pilgrimage site. By the early 1700s, however, it had fallen into disrepair, no longer maintained by priests and used primarily as a hangout and hideaway by local youths. After several accidents in the 1720s, it acquired a reputation for being haunted, and fell out of common knowledge.  
 
-By the early eighteenth century, the shrine had fallen out of regular use, though people in Hamri still remembered it. In the 1710s and 1720s it was used as a dare site, and by the late 1730s it had a haunted reputation after several deaths.
+In the current day, the sanctuary and chapel still stands, as does a statue of [[Guzo the Mariner]], but the roof has collapsed. The presence of divine magic still animates the shrine, however. In DR 1749, a [[marid]] seeking a crystal fragment connected to the [[Sentient Ocean]] ventured into the shrine and triggered a divine protection of the shrine in the form of a *Hallow* spell. The crystal fragment was recovered by the [[Adventurers of Mawar]]. 
 
-In May 1749, [[Rayna]]'s visions led the [[Adventurers of Mawar]] to the collapsed shrine. They entered through a recent underwater breach, defeated a trapped marid and its servants, and recovered a crystal fragment carrying part of the [[Sentient Ocean|ocean's]] song.
+%%
 
-%% AI note: Source notes used: [[Mawar Adventures Episode 05]], [[The Lost Legacy]]. The shrine's older history comes mainly from DM-facing adventure notes; review before treating every detail as public-facing canon. %%
+Source links:
+- [[Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 05|Mawar Adventures Episode 05]]
+- [[Guzo the Mariner]]
+- [[The Lost Legacy]]
+
+%%

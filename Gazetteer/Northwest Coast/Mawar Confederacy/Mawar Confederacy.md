@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/check/errors]
-aliases: [Mawaran]
+aliases: [Mawaran, Mawar]
 campaignInfo:
 name: Mawar Confederacy
 typeOf: realm
@@ -46,3 +46,5 @@ But like many things, gatza can be abused. The visions of the spirit world that 
 Some people have even been known to get lost in gatza dreams, following their obsession to the bitter end, losing track of time and wasting away from thirst and starvation, locked in the visions of a different realm and unable to escape.
 
 Gatza is taken in different forms. Most commonly, it is distilled and processed into a tarry mash that is smoked in gatza pipes.
+
+%% Notes: see: [[Time Skip - Bullet Points]] for important recent history, e.g. 1747-1749%%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image, status/cleanup/metadata]
+tags: [person, status/cleanup/image, status/cleanup/metadata, status/check/ai]
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-10-12, type: scryed}
 name: Kaeso
@@ -63,4 +63,26 @@ He still respects some people in the Society and especially at the University, b
  
 But these days his focus and concern is really on the political side of things -- control of the chalyte trade consolidated under the Auratan family has given them too much power.
 
+%%
+
+%%
+AI NPC proposal - Mawar review, 2026-05-07
+
+Proposed whereabouts/metadata updates:
+- Existing whereabouts already places Kaeso in [[Hamri]] starting DR 1748-10-12. Consider confirming this line through at least DR 1749-05-26, since Mawar Episode 05 lists him as a Chardonian scholar recently staying in Hamri.
+- Add campaignInfo for Delwath's later February DR 1749 scrying: Kaeso is seen with [[Yaz]] on a tower overlooking stormy ocean, and later in a cozy rented room or lodging.
+- Add campaignInfo or a note for Mawar Episode 05 if you want Mawar visibility distinct from DuFr scrying.
+
+Proposed text updates:
+- Add Mawar-side text from the Ep05 intro draft: Kaeso arrived in Hamri at the start of October DR 1748, brought warnings about Chardon's greed for magic and chalyte overuse, and spent long evenings talking with [[Wazir]].
+- Add that he was distressed by news from Dunmar during the winter of DR 1748-1749, but later said Dunmar held.
+- Keep deeper Kenzo/Shakun Mystai material in DM notes or carefully player-facing sections, depending on what Kaeso has revealed in play.
+
+Source links:
+- [[Mawar Adventures Episode 05]]
+- [[Mawar Ep 5 - Intro Draft]]
+- [[Scrying Delwath Oct 21]]
+- [[Scrying Delwath Tollen Downtime]]
+- [[Yaz]]
+- [[Wazir]]
 %%

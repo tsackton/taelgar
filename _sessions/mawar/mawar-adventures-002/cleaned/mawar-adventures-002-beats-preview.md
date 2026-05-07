@@ -32,7 +32,7 @@
 - Date Resolution: inferred
 - Time Window: morning
 - Combat: no
-- Boundary Reason: The transcript advances to the next morning as the party reaches the north-face tower, inspects the hidden older stonework and planar illusion within, and leaves only once they decide the best next move is to ask town contacts for context.
+- Boundary Reason: The transcript advances to the next morning as the party reaches the North Cliffs tower, inspects the hidden older stonework and planar illusion within, and leaves only once they decide the best next move is to ask town contacts for context.
 - Date Evidence:
   - u0506 explicitly says the next morning has arrived
   - the previous beat ended with the party planning to rest and head out in the morning

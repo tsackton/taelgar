@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/check/ai]
 name: Abelard
 species: human
 ancestry: Mawaran
@@ -23,3 +23,22 @@ A storyteller and performer who hangs around the [[Leviathan Inn]] telling wild 
 %%
 
 ![[abelard.png]]
+
+%%
+AI NPC proposal - Mawar review, 2026-05-07
+
+Proposed whereabouts/metadata updates:
+- Current dual home associations with [[Chardonian Empire]] and [[Hamri]] are plausible. Consider adding an alias to the Hamri line such as "often at the Leviathan Inn" if display precision is wanted.
+- Add campaignInfo for Mawar Episode 03: the party questions Abelard at the [[Leviathan Inn]] on DR 1747-10-24 and he confirms a woman matching [[Hiyasa]]'s description headed up the Mirmir seeking an old tomb.
+
+Proposed text updates:
+- Add the Ep03 rumor role: Abelard recognizes Hiyasa's description and sends the party upriver toward [[Tomb of Yerkir-Khor]].
+- Existing broader character text is strong; no deeper whereabouts clue surfaced beyond his Chardon origin, long residence in Hamri, and occasional unexplained absences.
+
+Source links:
+- [[Mawar Adventures Episode 03]]
+- [[Hiyasa]]
+- [[Tomb of Yerkir-Khor]]
+- [[Leviathan Inn]]
+- [[Hamri]]
+%%
