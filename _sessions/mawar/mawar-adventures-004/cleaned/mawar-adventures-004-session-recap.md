@@ -29,10 +29,10 @@
 - Combat Beats: none
 
 #### Short
-Ander reunites with Ryu at Hamri. Their reunion is interrupted when Jaeson brings a rumor of a beast killing lizardfolk in Eskorola.
+Ander finds Ryu at his cliff tower in Hamri. Their reunion is interrupted by Jaeson with a rumor that a beast is killing lizardfolk near Eskorola.
 
 #### Long
-Ander finds Ryu at his cliff tower in Hamri. Jaeson interrupts with news that a beast near Eskorola is killing lizardfolk and demanding gatza.
+Ander finds Ryu at his cliff tower in Hamri. Their reunion is interrupted when Jaeson brings a rumor that a beast lurking around Eskorola is killing lizardfolk and demanding gatza.
 
 ### Nov 8th, 1747 (afternoon)
 
@@ -65,7 +65,7 @@ The group reaches Eskorola by afternoon, and Itzal describes burned bodies, a th
 - Combat Beats: beat-005, beat-006, beat-008
 
 #### Short
-The party enters the nearby salt marsh, survives a tunnel-mouth ambush by steam monsters, and finds Chaessenth under a fire cultist's control. After an intense battle, the party frees Chaessenth. 
+The party enters the nearby salt marsh, survives an ambush by steam monsters, and finds Chaessenth under a fire cultist's control. After an intense battle, the party frees Chaessenth. 
 
 #### Long
 At dawn, the party follows the channels toward the mound and is attacked by steam imps and an armored fire guardian. After the guardian explodes, they climb the nest and find Chaessenth with a black spear in his neck. The party attacks, removes the black spear, and breaks the mage's control, leaving Chaessenth free to kill him. 
@@ -170,13 +170,13 @@ With Itzal's permission, the young scout Amaya ferries the party through the mar
 - Enemies: none
 
 #### Short
-At dawn the party leaves Eskorola in the fog, guided by Blu towards the mysterious mound. 
+At dawn the party leaves Eskorola in the fog and paddles toward the mound through a mist-choked channel.
 
 #### Intermediate
-The party leaves Eskorola at first light and works through cold rain, fog, and drifting steam. Relaying on Blu's scouting to guide their course, the party edges through narrow channels toward the hidden mound.
+The party leaves Eskorola at first light and works through cold rain, fog, and drifting steam. Relying on Blu's scouting to guide their course, they edge through narrow channels until the canoe reaches the hidden mound's outer approach.
 
 #### Long
-At dawn, the party returns to the marsh by canoe, following the channels north from Eskorola through thick fog and cold rain. They reconsider the crude note and the little evidence they have, then rely on Blu's  scouting to steer toward the mist-covered mound. The approach is slow and cautious, with steam rising around the canoe before anything hostile is visible.
+At dawn, the party returns to the marsh by canoe, following the channels north from Eskorola through thick fog and cold rain. They reconsider the crude note and the little evidence they have, then rely on Blu's scouting to steer toward the mist-covered mound. The approach is slow and cautious, with steam rising around the canoe as Nerissa prepares to cast Faerie Fire into the fog ahead, hoping to reveal any lurking enemies.
 
 ### recap-005 | Steam in the Fog to The Burning Guardian
 
@@ -192,13 +192,13 @@ At dawn, the party returns to the marsh by canoe, following the channels north f
 - Enemies: steam imps, fire cult guardian
 
 #### Short
-Steam imps and an armored fire guardian ambush them at the tunnel mouth, and the guardian explodes when it dies.
+Approaching the mound, Nerissa casts Faerie Fire to reveal any hidden enemies, outlining steam imps at the tunnel mouth, and an armored fire guardian dies in an explosion.
 
 #### Intermediate
-Nerissa's spell reveals steam imps in the fog, and the canoe is quickly caught in a fight at the edge of the nest. After the first attackers are thinned out, an armored fire cult guardian rises from the water with a flaming spear, nearly wrecks the party at close quarters, and dies in a shrapnel blast that leaves Ryu and Nerissa badly hurt.
+Approaching the mound, Nerissa casts Faerie Fire into the fog, hoping to reveal any hidden enemies. As she does, unseen wings close around the canoe and steam imps attack at the edge of the nest. After the first attackers are thinned out, an armored fire cult guardian rises from the water with a flaming spear, nearly wrecks the party at close quarters, and dies in a shrapnel blast that leaves Ryu and Nerissa badly hurt.
 
 #### Long
-Nerissa tries to expose anything waiting in the mist, and the marsh answers with steam imps beating through the fog around the canoe. The party fights from a poor position in shallow water, using spells, spear work, and desperate balance to survive the opening wave. The larger threat then emerges: an armored fire cult guardian wading from the tunnel mouth with a flaming spear, forcing a brutal close fight that ends only when the guardian falls and erupts in flaming shrapnel.
+Nerissa begins casting Faerie Fire from the canoe, and the marsh answers with the sound of wings beating through the fog. Steam imps descend around the boat, forcing the party to fight from a poor position in shallow water with spells, spear work, and desperate balance. The larger threat then emerges: an armored fire cult guardian wading from the tunnel mouth with a flaming spear, forcing a brutal close fight that ends only when the guardian falls and erupts in flaming shrapnel, leaving Ryu and Nerissa badly hurt. 
 
 ### recap-006 | Over the Nest
 
