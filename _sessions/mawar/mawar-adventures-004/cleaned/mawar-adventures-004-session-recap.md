@@ -170,15 +170,15 @@ With Itzal's permission, the young scout Amaya ferries the party through the mar
 - Enemies: none
 
 #### Short
-At dawn the party leaves Eskorola in the fog and paddles toward the mound through a mist-choked channel.
+At dawn, the party returns to the marsh and follows the mist-choked channel toward the hidden mound.
 
 #### Intermediate
-The party leaves Eskorola at first light and works through cold rain, fog, and drifting steam. Relying on Blu's scouting to guide their course, they edge through narrow channels until the canoe reaches the hidden mound's outer approach.
+The party leaves Eskorola at first light and works through cold rain, thickening fog, and unnatural warmth from the steaming marsh. Guided by Blu's scouting, they follow the torn channel until it opens into a nearly blind pool at the mound's edge.
 
 #### Long
-At dawn, the party returns to the marsh by canoe, following the channels north from Eskorola through thick fog and cold rain. They reconsider the crude note and the little evidence they have, then rely on Blu's scouting to steer toward the mist-covered mound. The approach is slow and cautious, with steam rising around the canoe as Nerissa prepares to cast Faerie Fire into the fog ahead, hoping to reveal any lurking enemies.
+At dawn, the party returns to the marsh by canoe, following the channel torn through the vegetation north from Eskorola. Cold rain turns warmer as they approach the steam cloud, visibility falls to only a few feet, and the canoe edges into the pool at the mound's edge. With no clear target in sight, Nerissa quietly prepares Faerie Fire and aims it ahead and slightly right of the boat.
 
-### recap-005 | Steam in the Fog to The Burning Guardian
+### recap-005 | Steam in the Fog
 
 - Kind: combat
 - Beat IDs: beat-005, beat-006
@@ -192,13 +192,13 @@ At dawn, the party returns to the marsh by canoe, following the channels north f
 - Enemies: steam imps, fire cult guardian
 
 #### Short
-Approaching the mound, Nerissa casts Faerie Fire to reveal any hidden enemies, outlining steam imps at the tunnel mouth, and an armored fire guardian dies in an explosion.
+Near the mound, Nerissa casts Faerie Fire hoping to uncover hidden enemies, and reveals steam imps in the fog, who attack. The ambush escalates when a flaming armored guardian attacks from the water, damaging the canoe before dying in blast of metal shrapnel. 
 
 #### Intermediate
-Approaching the mound, Nerissa casts Faerie Fire into the fog, hoping to reveal any hidden enemies. As she does, unseen wings close around the canoe and steam imps attack at the edge of the nest. After the first attackers are thinned out, an armored fire cult guardian rises from the water with a flaming spear, nearly wrecks the party at close quarters, and dies in a shrapnel blast that leaves Ryu and Nerissa badly hurt.
+Near the mound, Nerissa casts Faerie Fire hoping to uncover hidden enemies. Her spell catches two steam imps in faint green light, but other winged attackers remain hidden in the fog around the canoe as combat begins. The fight stays cramped and dangerous until an armored fire cult guardian lunges from the water with a flaming spear, batters the canoe, and dies in a blast of metal shrapnel that badly wounds Ryu and Nerissa.
 
 #### Long
-Nerissa begins casting Faerie Fire from the canoe, and the marsh answers with the sound of wings beating through the fog. Steam imps descend around the boat, forcing the party to fight from a poor position in shallow water with spells, spear work, and desperate balance. The larger threat then emerges: an armored fire cult guardian wading from the tunnel mouth with a flaming spear, forcing a brutal close fight that ends only when the guardian falls and erupts in flaming shrapnel, leaving Ryu and Nerissa badly hurt. 
+Nerissas Faerie Fire goes off just before the ambush lands. Her spell catches two steam imps in faint green light, but other winged attackers remain hidden in the fog around the canoe as combat begins. The party fights from the canoe and shallow water, holding position through scalding steam and poor visibility as the canoe starts taking damage. Then the larger guardian emerges from the mist, a cracked, burning humanoid in armor with a flaming spear. After trying to capsize and pierce the canoe, he dies in a blast of metal shrapnel that badly wounds Ryu and Nerissa.
 
 ### recap-006 | Over the Nest
 
@@ -214,15 +214,15 @@ Nerissa begins casting Faerie Fire from the canoe, and the marsh answers with th
 - Enemies: none
 
 #### Short
-After healing, they climb onto the mound and find Chaessenth trapped below with a black spear in his neck.
+After the blast, the party patches themselves up before investigated further. Avoiding the flooded tunnel, they climb over the mound to find a dragon turtle trapped below.
 
 #### Intermediate
-The party takes a brief recovery after the explosion and avoids the dangerous underwater tunnel. Climbing the rotting mound gives them a view into the interior pool, where Chaessenth is pinned and controlled by a black spear while a fire mage commands him from shore.
+The party takes a brief recovery after the explosion and decides not to enter through the flooded tunnel. Climbing the rotting mound and looking below, they can see a hidden pool, a dragon turtle with a burning black spear in his neck, and a fire mage commanding him from the shore.
 
 #### Long
-With the outer defenders dead and the canoe damaged, the party pauses to patch wounds and rethink the route into the nest. Rather than risk the underwater tunnel, they climb over the unstable mound and find a weak point in the roof. Below is a hidden pool, a fire mage on the inner shore, and the dragon turtle Chaessenth forced into obedience by a burning black spear lodged deep in his neck.
+With the outer defenders dead and the canoe damaged, the party pauses to patch their wounds and choose a safer route into the nest. The tunnel descends into deep water, so they climb over the unstable mound instead and find a weak point in the roof. From this vantage point, they see a hidden pool below. On the inner shore stands a fire mage, apparently commanding a dragon turtle who swims in the inner pool, a burning black spear lodged deep in his neck.
 
-### recap-007 | Arrow in the Neck to Breaking the Charm
+### recap-007 | Breaking the Charm
 
 - Kind: combat
 - Beat IDs: beat-008, beat-009
@@ -236,13 +236,13 @@ With the outer defenders dead and the canoe damaged, the party pauses to patch w
 - Enemies: fire mage
 
 #### Short
-They tear the spear free, break the fire mage's control, and Chaessenth kills him.
+They pull the burning spear free, break the mage's concentration, and Chaessenth kills the mage.
 
 #### Intermediate
-Ryu, Blu, and Nerissa struggle to loosen the burning black spear while Ander presses the fire mage. Once the spear comes free, Chaessenth tells them the mage's concentration must be broken; Blu wakes him from the mage's dazzling magic at the decisive moment, and the dragon turtle kills his controller.
+Ryu and Blu loosen the burning black spear, and Nerissa yanks it free while Ander pushes toward the fire mage. Chaessenth can then warn them that the mage's concentration still binds him; Ander breaks it with a flurry of attacks, and after the mage briefly catches Chaessenth and Nerissa in dazzling magic, Blu wakes the dragon turtle so he can kill the mage.
 
 #### Long
-The fight in the chamber becomes a contest over Chaessenth rather than a simple battle against him. Ryu, Blu, and Nerissa endure burns and thrashing water as they work the black spear loose, while Ander pushes toward the fire mage on the bank. When the weapon finally comes free, Chaessenth can speak enough to tell them that the mage's concentration is still binding him; after a dazzling spell briefly catches Nerissa and Chaessenth, Blu wakes the dragon turtle in time for him to lunge forward and end the mage's control permanently.
+The fight in the chamber turns on freeing Chaessenth rather than killing him. Ryu drops onto the dragon turtle's back and burns his hands loosening the spear, Blu works it farther free, and Nerissa uses Misty Step to reach Chaessenth and yank it out. The relief is incomplete: Chaessenth forces out that the mage's concentration still binds him, so Ander crashes through the roof and cuts into the mage until the spell breaks. When the mage answers with a dazzling pattern that catches Nerissa and Chaessenth, Blu wakes the dragon turtle in time for Chaessenth to lunge from the water and finish the mage.
 
 ### recap-008 | Songs of the Deep
 
@@ -258,13 +258,13 @@ The fight in the chamber becomes a contest over Chaessenth rather than a simple 
 - Enemies: none
 
 #### Short
-Chaessenth explains the mage's search for Khathayi, links the golden amulet to Hiyasa's map, and swims west.
+Chaessenth explains the mage's search for Khathayi, the party links the golden amulet to Hiyasa's map, and he swims west.
 
 #### Intermediate
-Nerissa heals Chaessenth, and the freed dragon turtle tells the party his name and what the mage wanted. The mage had been gathering gatza to commune with Khathayi the Flametongue, and his golden amulet bears the same sign as Hiyasa's treasure map before Chaessenth departs into the western sea.
+Nerissa heals Chaessenth, and the freed dragon turtle gives his name before explaining that the mage wanted gatza to commune with Khathayi the Flametongue at an island north of the peninsula. Chaessenth speaks of the Wanui Teora and the songs of the deep ocean, while the party recognizes that the mage's golden amulet bears the same sign as Hiyasa's treasure map before he departs into the western sea.
 
 #### Long
-With the fire mage dead, Nerissa heals Chaessenth enough for a calmer conversation in the ruined nest. Chaessenth names himself, speaks of the songs of the ocean and the Wanui Teora, and explains that the mage wanted gatza to reach Khathayi the Flametongue. The party also finds that the mage's golden amulet matches the symbol on Hiyasa's treasure map, pointing their attention toward the same northern island as Chaessenth leaves the marsh for the deep western sea.
+With the fire mage dead, Nerissa heals Chaessenth and translates a calmer conversation in Draconic. Chaessenth names himself, says the fire is gone but still hurts, and explains that the mage wanted gatza to speak with Khathayi the Flametongue on an island to the north. He shares a little of the Wanui Teora's ocean songs and then leaves for the deep western sea, while the party notices that the mage's golden amulet matches the symbol on Hiyasa's treasure map and points toward that same island.
 
 ## Cast
 
