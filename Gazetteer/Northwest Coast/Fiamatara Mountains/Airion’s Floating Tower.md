@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: "", wCurrent: "<ancestry:UA> <typeof:UA> (current location: <current:1s>)"}
-name: Airion’s Tower
+name: Airion’s Floating Tower
 whereabouts: 
 - {type: home, location: Blacksilver Peak, end: 1748-01-11 }
 dm_owner: tim
@@ -10,7 +10,7 @@ dm_notes: none
 typeOf: building
 typeOfAlias: floating tower
 ---
-# Airion’s Tower
+# Airion’s Floating Tower
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

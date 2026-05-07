@@ -10,4 +10,4 @@ dm_notes: none
 ---
 # Skyborn Scroll
 
-One of [[Airion|Airion Mistspeaker]]’s four elemental scrolls (air). Located in [[Airion’s Tower]]. Initially taken by [[Zadkai]] during an illusionary ruse, then recovered by the party.
+One of [[Airion|Airion Mistspeaker]]’s four elemental scrolls (air). Located in [[Airion’s Floating Tower]]. Initially taken by [[Zadkai]] during an illusionary ruse, then recovered by the party.

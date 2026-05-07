@@ -11,7 +11,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 
 <!-- SLOT: updates.whereabouts.locations -->
 - [[Hamri]]: visited on 1747-10-23 to 1747-10-28.
-- [[Yerkir-khor]]'s monument and tomb: visited on 1747-10-26.
+- [[Tomb of Yerkir-Khor|Yerkir-khor's monument and tomb]]: visited on 1747-10-26.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
@@ -20,12 +20,12 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.timeline -->
-- (DR:: 1747-10-23), evening: [[Orden]] asks [[Trok]] and [[Kaleho]] to find his daughter [[Hiyasa]].
-- (DR:: 1747-10-24), morning: [[Trok]] and [[Kaleho]] recruit [[Ryu]] and [[Nerissa]] to help, and gather rumors at the [[Leviathan Inn]] as the party prepares to head up the Mirmir.
-- (DR:: 1747-10-24) - (DR_end:: 1747-10-26): The party travels up the Mirmir; [[Ryu]] tracks [[Hiyasa]] inland to [[Yerkir-khor]]'s monument.
-- (DR:: 1747-10-26), midday: The party descends into [[Yerkir-khor]]'s tomb, dodges traps, and destroys its first guardians.
-- (DR:: 1747-10-26), afternoon: Continuing deeper into the tomb, the party finds [[Hiyasa]] in the inner sanctum and frees her after destroying [[Yerkir-khor]]'s ancient earth protector.
-- (DR:: 1747-10-26) - (DR_end:: 1747-10-28): The party travels back to [[Hamri]] with [[Hiyasa]] and the tomb treasure.
+- (DR:: 1747-10-23), evening: [[Orden]] asks [[Trok]] and [[Kaleho]] to find his daughter [[Hiyasa]], who recently returned to [[Hamri]] after ten years away and has gone missing while seeking treasure.
+- (DR:: 1747-10-24), morning: [[Trok]] and [[Kaleho]] recruit [[Ryu]] and [[Nerissa]] to help, gather rumors from [[Abelard]] at the [[Leviathan Inn]], and head up the Mirmir following [[Hiyasa]]'s tracks.
+- (DR:: 1747-10-24) - (DR_end:: 1747-10-26): The party travels up the Mirmir; [[Ryu]] tracks [[Hiyasa]] inland to [[Tomb of Yerkir-Khor|Yerkir-khor's monument]].
+- (DR:: 1747-10-26), midday: The party descends into [[Tomb of Yerkir-Khor|Yerkir-khor's tomb]], dodges traps, and destroys its first guardians.
+- (DR:: 1747-10-26), afternoon: Continuing deeper into [[Tomb of Yerkir-Khor|the tomb]], the party finds [[Hiyasa]] in the inner sanctum and frees her after destroying Yerkir-khor's ancient earth protector.
+- (DR:: 1747-10-26) - (DR_end:: 1747-10-28): The party travels back to [[Hamri]] with [[Hiyasa]], the [[Hiyasa's Treasure Map|treasure map]] she brought from Chardon, [[Tomb of Yerkir-Khor|tomb]] treasure, and ancient papers for [[Wazir]] to decipher.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.items -->
@@ -33,7 +33,6 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.review -->
-- Yerkir-khor's monument and tomb: no matching note found in the vault index
 - Terran monument inscription: no matching note found in the vault index
 - crystal-cavern mosaic: no matching note found in the vault index
 - blade trap: no matching note found in the vault index

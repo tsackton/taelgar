@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/check/ai]
 campaignInfo:
 name: Benat
 born:
@@ -29,4 +29,25 @@ Lives in a small, neat house just above North Dock, near the waterfall on the Mi
  
 Knows of Trok, and asked him to send a letter to his family in exchange for help.
 
+%%
+
+%%
+AI NPC proposal - Mawar review, 2026-05-07
+
+Proposed whereabouts/metadata updates:
+- Current [[Hamri]] whereabouts is correct. Consider aliasing the specific home as "small house above North Dock near the Mirmir waterfall" if the display should show where in Hamri he lives.
+- Add a temporary away/event line, or only body text, for DR 1747-08-09 when Benat leaves south with [[Azar the Lost]] for an unnamed lizardfolk village. Do not identify the village as [[Eskorola]] without another source.
+- Add campaignInfo for Mawar Episode 02 as the local-history source consulted on DR 1747-08-04 and Azar's escort on DR 1747-08-09.
+
+Proposed text updates:
+- Add that Benat explains Airion's tower as part of a much older magical history around [[Hamri]] and its water-linked extraplanar weak spots.
+- Add that after Azar's defeat, Benat takes him south to a lizardfolk village to heal before Azar returns to make amends in Hamri.
+- Keep his liaison role and painful joint condition, both supported by the existing note.
+
+Source links:
+- [[Mawar Adventures Episode 02]]
+- [[Azar the Lost]]
+- [[Airion]]
+- [[North Cliffs]]
+- [[Hamri]]
 %%

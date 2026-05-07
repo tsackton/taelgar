@@ -339,7 +339,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
             """
         )
 
-    def run_builder(self, vault: Path) -> subprocess.CompletedProcess[str]:
+    def run_builder(self, vault: Path, *, overwrite: bool = False) -> subprocess.CompletedProcess[str]:
         try:
             session_payload = components.read_yaml_mapping(vault / "session.yaml")
             recap = components.parse_session_recap((vault / "session-recap.md").read_text(encoding="utf-8"))
@@ -349,6 +349,14 @@ class SessionNoteComponentsTest(unittest.TestCase):
                 fallback="session",
             )
             component_dir.mkdir(parents=True, exist_ok=True)
+            components.ensure_component_files_writable(
+                [
+                    component_dir / "01-session-info.md",
+                    component_dir / "02-technical-updates.md",
+                    component_dir / "03-narrative.md",
+                ],
+                overwrite=overwrite,
+            )
             note_index = components.VaultNoteIndex(vault, generated_root)
             slots = components.build_slots(
                 recap=recap,
@@ -362,18 +370,21 @@ class SessionNoteComponentsTest(unittest.TestCase):
                 title="Session Info",
                 session_manifest=str(vault / "session.yaml"),
                 slots=slots["info"],
+                overwrite=overwrite,
             )
             components.write_component_file(
                 component_dir / "02-technical-updates.md",
                 title="Technical Updates",
                 session_manifest=str(vault / "session.yaml"),
                 slots=slots["technical"],
+                overwrite=overwrite,
             )
             components.write_component_file(
                 component_dir / "03-narrative.md",
                 title="Narrative",
                 session_manifest=str(vault / "session.yaml"),
                 slots=slots["narrative"],
+                overwrite=overwrite,
             )
             return subprocess.CompletedProcess(args=[str(SCRIPT_PATH)], returncode=0, stdout="", stderr="")
         except Exception as exc:
@@ -588,6 +599,120 @@ class SessionNoteComponentsTest(unittest.TestCase):
         ).read_text(encoding="utf-8")
         self.assertIn("[[Kalima|Kalima of the Chasm]]", info_text)
         self.assertNotIn("metadata.json", result.stdout + result.stderr)
+
+    def test_builder_refuses_to_overwrite_existing_components_by_default(self) -> None:
+        vault = self.make_workspace()
+        first_result = self.run_builder(vault)
+        self.assertEqual(first_result.returncode, 0, first_result.stdout + first_result.stderr)
+        info_path = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-notes"
+            / "test-campaign-session-12"
+            / "01-session-info.md"
+        )
+        info_path.write_text("manual edits\n", encoding="utf-8")
+
+        second_result = self.run_builder(vault)
+
+        self.assertEqual(second_result.returncode, 1)
+        self.assertIn("pass --overwrite to replace", second_result.stderr)
+        self.assertEqual("manual edits\n", info_path.read_text(encoding="utf-8"))
+
+    def test_builder_overwrites_existing_components_with_flag(self) -> None:
+        vault = self.make_workspace()
+        first_result = self.run_builder(vault)
+        self.assertEqual(first_result.returncode, 0, first_result.stdout + first_result.stderr)
+        info_path = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-notes"
+            / "test-campaign-session-12"
+            / "01-session-info.md"
+        )
+        info_path.write_text("manual edits\n", encoding="utf-8")
+
+        second_result = self.run_builder(vault, overwrite=True)
+
+        self.assertEqual(second_result.returncode, 0, second_result.stdout + second_result.stderr)
+        self.assertIn("# Session Info", info_path.read_text(encoding="utf-8"))
+        self.assertNotEqual("manual edits\n", info_path.read_text(encoding="utf-8"))
+
+    def test_autolink_does_not_link_possessive_owner_without_full_phrase_note(self) -> None:
+        vault = self.make_workspace()
+        (vault / "People" / "Ryu.md").write_text(
+            textwrap.dedent(
+                """\
+                ---
+                tags: [person]
+                ---
+
+                # Ryu
+                """
+            ),
+            encoding="utf-8",
+        )
+        note_index = components.VaultNoteIndex(
+            vault,
+            vault / "Campaigns" / "Test Campaign" / "_generated" / "session-notes",
+        )
+
+        linked = note_index.autolink_text(
+            "Ryu visits Ryu's tower while Ryu\u2019s shark waits nearby.",
+            autolink_terms={"Ryu"},
+        )
+
+        self.assertIn("[[Ryu]] visits Ryu's tower", linked)
+        self.assertIn("Ryu\u2019s shark", linked)
+        self.assertNotIn("[[Ryu]]'s", linked)
+        self.assertNotIn("[[Ryu]]\u2019s", linked)
+
+    def test_autolink_prefers_existing_possessive_phrase_note(self) -> None:
+        vault = self.make_workspace()
+        (vault / "People" / "Ryu.md").write_text(
+            textwrap.dedent(
+                """\
+                ---
+                tags: [person]
+                ---
+
+                # Ryu
+                """
+            ),
+            encoding="utf-8",
+        )
+        (vault / "Places" / "Ryu's Tower.md").write_text(
+            textwrap.dedent(
+                """\
+                ---
+                tags: [place]
+                typeOf: tower
+                ---
+
+                # Ryu's Tower
+                """
+            ),
+            encoding="utf-8",
+        )
+        note_index = components.VaultNoteIndex(
+            vault,
+            vault / "Campaigns" / "Test Campaign" / "_generated" / "session-notes",
+        )
+
+        linked = note_index.autolink_text(
+            "Ryu's tower overlooks the bay. Ryu visits often. Ryu\u2019s tower is old.",
+            autolink_terms={"Ryu"},
+        )
+
+        self.assertIn("[[Ryu's Tower|Ryu's tower]] overlooks the bay", linked)
+        self.assertIn("[[Ryu]] visits often", linked)
+        self.assertIn("[[Ryu's Tower|Ryu\u2019s tower]] is old", linked)
+        self.assertNotIn("[[Ryu]]'s", linked)
+        self.assertNotIn("[[Ryu]]\u2019s", linked)
 
     def test_builder_emits_review_only_update_candidates(self) -> None:
         vault = self.make_workspace()

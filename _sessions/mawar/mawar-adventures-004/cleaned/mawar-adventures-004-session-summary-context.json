@@ -84,16 +84,14 @@
       "timeWindow": "afternoon",
       "resolution": "part-of-day",
       "beatIds": [
-        "beat-002",
-        "beat-003"
+        "beat-002"
       ],
       "locationRefs": [
         "Hamri",
         "Eskorola"
       ],
       "npcRefs": [
-        "Itzal",
-        "Amaya"
+        "Itzal"
       ],
       "organizationRefs": [],
       "itemRefs": [
@@ -101,12 +99,10 @@
       ],
       "combatBeatIds": [],
       "sourceShortSummaries": [
-        "Ryu and Ander recruit Nerissa, sail to Eskorola, and hear Itzal describe killings, steam, and a threat demanding tribute.",
-        "Amaya guides the party to the attack site, where Ryu finds a massive claw print and signs of boiling heat before the group waits out the night."
+        "Ryu and Ander recruit Nerissa, sail to Eskorola, and hear Itzal describe killings, steam, and a threat demanding tribute."
       ],
       "sourceLongSummaries": [
-        "After deciding the rumor is worth investigating, Ryu and Ander bring Nerissa into the plan and head north along the coast to the lizardfolk village of Eskorola. There they speak with the elder Itzal, who explains that villagers have been killed by a strange sea beast, that a burned corpse washed ashore with a warning note, and that the attacker seems to want a full payment of gatza left for it in the harbor.",
-        "With Itzal's permission, the young scout Amaya ferries the party to the marshy shoreline where the most recent attack occurred. Ryu studies the site and finds a webbed claw print far larger than any local beast, while scorched plants suggest blasts of scalding water; Blu's reconnaissance later reveals a huge mist-shrouded mound deeper in the marsh, convincing the party to rest in Eskorola and make a dawn approach."
+        "After deciding the rumor is worth investigating, Ryu and Ander bring Nerissa into the plan and head north along the coast to the lizardfolk village of Eskorola. There they speak with the elder Itzal, who explains that villagers have been killed by a strange sea beast, that a burned corpse washed ashore with a warning note, and that the attacker seems to want a full payment of gatza left for it in the harbor."
       ],
       "sourceEntries": [
         {
@@ -145,7 +141,36 @@
               "notes": "A handwritten note recovered with a burned body demands gatza tribute within three days."
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1747-11-08",
+      "dateEnd": "1747-11-09",
+      "timeWindow": null,
+      "resolution": "date-range",
+      "beatIds": [
+        "beat-003"
+      ],
+      "locationRefs": [
+        "Tzingola"
+      ],
+      "npcRefs": [
+        "Amaya"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "threat note"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Amaya guides the party to the attack site, where Ryu finds a massive claw print and signs of boiling heat before the group waits out the night."
+      ],
+      "sourceLongSummaries": [
+        "With Itzal's permission, the young scout Amaya ferries the party to the marshy shoreline where the most recent attack occurred. Ryu studies the site and finds a webbed claw print far larger than any local beast, while scorched plants suggest blasts of scalding water; Blu's reconnaissance later reveals a huge mist-shrouded mound deeper in the marsh, convincing the party to rest in Eskorola and make a dawn approach."
+      ],
+      "sourceEntries": [
         {
           "beatId": "beat-003",
           "title": "Tracks in the Marsh",
@@ -161,10 +186,10 @@
           "longSummary": "With Itzal's permission, the young scout Amaya ferries the party to the marshy shoreline where the most recent attack occurred. Ryu studies the site and finds a webbed claw print far larger than any local beast, while scorched plants suggest blasts of scalding water; Blu's reconnaissance later reveals a huge mist-shrouded mound deeper in the marsh, convincing the party to rest in Eskorola and make a dawn approach.",
           "locationHints": {
             "refs": [
-              "Eskorola"
+              "Tzingola"
             ],
-            "context": "the marshy attack site south of the mist-shrouded nest",
-            "notes": "The beat includes the scouting trip and the party's overnight stay back in the village."
+            "context": "marsh-side attack site near Eskorola, south of the mist-shrouded nest",
+            "notes": "The party scouts the attack site in the marsh, then returns to Eskorola to wait out the night."
           },
           "npcDetails": [
             {
@@ -185,7 +210,7 @@
       ]
     },
     {
-      "blockId": "timeline-003",
+      "blockId": "timeline-004",
       "dateStart": "1747-11-09",
       "dateEnd": null,
       "timeWindow": "morning",
@@ -199,10 +224,7 @@
       ],
       "locationRefs": [
         "Eskorola",
-        "salt marsh north of Eskorola",
-        "outer marsh tunnel mouth",
-        "top of the mist-nest above the interior pool",
-        "mist-nest interior pool"
+        "Tzingola"
       ],
       "npcRefs": [
         "steam imps",
@@ -251,9 +273,9 @@
           "locationHints": {
             "refs": [
               "Eskorola",
-              "salt marsh north of Eskorola"
+              "Tzingola"
             ],
-            "context": "canoe approach through narrow channels toward the mist-covered mound",
+            "context": "canoe approach through narrow tidal channels toward the mist-covered mound",
             "notes": "Visibility is poor and the mound itself remains mostly hidden."
           },
           "itemDetails": [
@@ -279,7 +301,7 @@
           "longSummary": "As Nerissa casts into the mist to reveal anything lying in wait, the marsh answers with the beating of unseen wings and a burst of hostile steam creatures. The party fends off the ambush from their canoe, with Nerissa's magic and Ryu's spear thinning the attackers while the fog keeps the rest of the threat half-hidden around them.",
           "locationHints": {
             "refs": [
-              "salt marsh north of Eskorola"
+              "Tzingola"
             ],
             "context": "mist-choked canoe channel at the edge of the hidden nest",
             "notes": "The fight happens in shallow marsh water with very poor visibility."
@@ -319,9 +341,9 @@
           "longSummary": "The initial ambush gives way to a more dangerous defender when a towering armored cultist wades out of the marsh and attacks the canoe with a flaming spear. The party weathers scalding steam, a near-capsize, and brutal close fighting before bringing the guardian down, only for his body and gear to detonate in a blast that leaves Ryu and Nerissa badly wounded.",
           "locationHints": {
             "refs": [
-              "salt marsh north of Eskorola"
+              "Tzingola"
             ],
-            "context": "shallow water beside the underwater tunnel leading into the nest",
+            "context": "shallow water beside the underwater tunnel leading into the hidden nest",
             "notes": "The canoe is damaged and the party ends the fight standing in or beside the water."
           },
           "npcDetails": [
@@ -359,11 +381,10 @@
           "longSummary": "With nothing else rushing out of the tunnel, the party takes a brief moment to heal, reconsider the underwater route, and choose the safer option of climbing over the mound itself. A weak section of the nest roof gives them a view into the chamber below, where they see a giant dragon turtle with a black spear lodged in its neck and a crackling fire mage driving it onward.",
           "locationHints": {
             "refs": [
-              "outer marsh tunnel mouth",
-              "top of the mist-nest above the interior pool"
+              "Tzingola"
             ],
-            "context": "climbing the rotting mound to find another way inside",
-            "notes": "The beat ends when the party first spots the mage and the bound dragon turtle."
+            "context": "outer tunnel mouth and rotting mound roof above the interior pool",
+            "notes": "The party avoids the underwater route, climbs over the mound, and spots the mage and bound dragon turtle below."
           },
           "npcDetails": [
             {
@@ -402,10 +423,10 @@
           "longSummary": "Once initiative starts in the chamber below, Ryu, Blu, and Nerissa focus on the black spear pinning Chaessenth in place while Ander closes on the mage. The work proves painfully difficult: the weapon burns anyone who touches it, the turtle thrashes under compulsion, and the mage keeps pressure on the party while trying to maintain control of his captive monster.",
           "locationHints": {
             "refs": [
-              "mist-nest interior pool"
+              "Tzingola"
             ],
-            "context": "the interior chamber with a central pool, a low beach of rotting vegetation, and the mage's firing position",
-            "notes": "The party fights from the roof, water, and turtle's back all at once."
+            "context": "mist-nest interior pool, low beach of rotting vegetation, and the mage's firing position",
+            "notes": "The party fights from the roof, water, and Chaessenth's back all at once."
           },
           "npcDetails": [
             {
@@ -443,7 +464,7 @@
       ]
     },
     {
-      "blockId": "timeline-004",
+      "blockId": "timeline-005",
       "dateStart": "1747-11-09",
       "dateEnd": null,
       "timeWindow": "afternoon",
@@ -453,8 +474,8 @@
         "beat-010"
       ],
       "locationRefs": [
-        "mist-nest interior pool",
-        "open western sea beyond Eskorola"
+        "Tzingola",
+        "Hamri"
       ],
       "npcRefs": [
         "fire mage",
@@ -493,9 +514,9 @@
           "longSummary": "After repeated painful attempts, the black spear comes loose and Chaessenth can finally speak enough to explain that the mage's concentration must be broken. The battle turns into a desperate scramble across collapsing footing and deep water as Nerissa and the dragon turtle are briefly caught in a dazzling spell, but Blu wakes the turtle in time and Chaessenth lunges in for the killing blow that ends the mage's hold for good.",
           "locationHints": {
             "refs": [
-              "mist-nest interior pool"
+              "Tzingola"
             ],
-            "context": "the same chamber as the struggle shifts toward freeing and rallying the dragon turtle",
+            "context": "mist-nest interior pool as the struggle shifts toward freeing and rallying the dragon turtle",
             "notes": "The fight ends in the chamber with the mage dead and Chaessenth conscious."
           },
           "npcDetails": [
@@ -546,11 +567,11 @@
           "longSummary": "The aftermath turns from battle to revelation as Nerissa heals the freed dragon turtle and the party learns his name, Chaessenth. He explains that the slain mage wanted gatza to commune with the long-dead Khathayi the Flametongue, and he speaks of the songs of the ocean and the Wanui Teora before swimming west into the deep, while the party notes that the mage's golden amulet matches the symbol on Hiyasa's treasure map.",
           "locationHints": {
             "refs": [
-              "mist-nest interior pool",
-              "open western sea beyond Eskorola"
+              "Tzingola",
+              "Hamri"
             ],
-            "context": "the chamber conversation gives way to Chaessenth's departure back into the ocean",
-            "notes": "The party returns toward the village while Chaessenth leaves for deeper waters."
+            "context": "return from the hidden nest through Eskorola after Chaessenth's departure west",
+            "notes": "Chaessenth swims west into the deep ocean while the party returns to Hamri."
           },
           "npcDetails": [
             {
@@ -761,7 +782,7 @@
       "timeWindow": null,
       "resolution": "date-range",
       "locationRefs": [
-        "Eskorola"
+        "Tzingola"
       ],
       "npcRefs": [
         "Amaya"
@@ -793,10 +814,10 @@
           "longSummary": "With Itzal's permission, the young scout Amaya ferries the party to the marshy shoreline where the most recent attack occurred. Ryu studies the site and finds a webbed claw print far larger than any local beast, while scorched plants suggest blasts of scalding water; Blu's reconnaissance later reveals a huge mist-shrouded mound deeper in the marsh, convincing the party to rest in Eskorola and make a dawn approach.",
           "locationHints": {
             "refs": [
-              "Eskorola"
+              "Tzingola"
             ],
-            "context": "the marshy attack site south of the mist-shrouded nest",
-            "notes": "The beat includes the scouting trip and the party's overnight stay back in the village."
+            "context": "marsh-side attack site near Eskorola, south of the mist-shrouded nest",
+            "notes": "The party scouts the attack site in the marsh, then returns to Eskorola to wait out the night."
           },
           "npcDetails": [
             {
@@ -839,7 +860,7 @@
       "resolution": "part-of-day",
       "locationRefs": [
         "Eskorola",
-        "salt marsh north of Eskorola"
+        "Tzingola"
       ],
       "npcRefs": [],
       "organizationRefs": [],
@@ -870,9 +891,9 @@
           "locationHints": {
             "refs": [
               "Eskorola",
-              "salt marsh north of Eskorola"
+              "Tzingola"
             ],
-            "context": "canoe approach through narrow channels toward the mist-covered mound",
+            "context": "canoe approach through narrow tidal channels toward the mist-covered mound",
             "notes": "Visibility is poor and the mound itself remains mostly hidden."
           },
           "itemDetails": [
@@ -912,7 +933,7 @@
       "timeWindow": "morning",
       "resolution": "part-of-day",
       "locationRefs": [
-        "salt marsh north of Eskorola"
+        "Tzingola"
       ],
       "npcRefs": [
         "steam imps",
@@ -948,7 +969,7 @@
           "longSummary": "As Nerissa casts into the mist to reveal anything lying in wait, the marsh answers with the beating of unseen wings and a burst of hostile steam creatures. The party fends off the ambush from their canoe, with Nerissa's magic and Ryu's spear thinning the attackers while the fog keeps the rest of the threat half-hidden around them.",
           "locationHints": {
             "refs": [
-              "salt marsh north of Eskorola"
+              "Tzingola"
             ],
             "context": "mist-choked canoe channel at the edge of the hidden nest",
             "notes": "The fight happens in shallow marsh water with very poor visibility."
@@ -988,9 +1009,9 @@
           "longSummary": "The initial ambush gives way to a more dangerous defender when a towering armored cultist wades out of the marsh and attacks the canoe with a flaming spear. The party weathers scalding steam, a near-capsize, and brutal close fighting before bringing the guardian down, only for his body and gear to detonate in a blast that leaves Ryu and Nerissa badly wounded.",
           "locationHints": {
             "refs": [
-              "salt marsh north of Eskorola"
+              "Tzingola"
             ],
-            "context": "shallow water beside the underwater tunnel leading into the nest",
+            "context": "shallow water beside the underwater tunnel leading into the hidden nest",
             "notes": "The canoe is damaged and the party ends the fight standing in or beside the water."
           },
           "npcDetails": [
@@ -1037,8 +1058,7 @@
       "timeWindow": "morning",
       "resolution": "part-of-day",
       "locationRefs": [
-        "outer marsh tunnel mouth",
-        "top of the mist-nest above the interior pool"
+        "Tzingola"
       ],
       "npcRefs": [
         "Chaessenth",
@@ -1071,11 +1091,10 @@
           "longSummary": "With nothing else rushing out of the tunnel, the party takes a brief moment to heal, reconsider the underwater route, and choose the safer option of climbing over the mound itself. A weak section of the nest roof gives them a view into the chamber below, where they see a giant dragon turtle with a black spear lodged in its neck and a crackling fire mage driving it onward.",
           "locationHints": {
             "refs": [
-              "outer marsh tunnel mouth",
-              "top of the mist-nest above the interior pool"
+              "Tzingola"
             ],
-            "context": "climbing the rotting mound to find another way inside",
-            "notes": "The beat ends when the party first spots the mage and the bound dragon turtle."
+            "context": "outer tunnel mouth and rotting mound roof above the interior pool",
+            "notes": "The party avoids the underwater route, climbs over the mound, and spots the mage and bound dragon turtle below."
           },
           "npcDetails": [
             {
@@ -1128,7 +1147,7 @@
       "timeWindow": null,
       "resolution": "part-of-day",
       "locationRefs": [
-        "mist-nest interior pool"
+        "Tzingola"
       ],
       "npcRefs": [
         "fire mage",
@@ -1165,10 +1184,10 @@
           "longSummary": "Once initiative starts in the chamber below, Ryu, Blu, and Nerissa focus on the black spear pinning Chaessenth in place while Ander closes on the mage. The work proves painfully difficult: the weapon burns anyone who touches it, the turtle thrashes under compulsion, and the mage keeps pressure on the party while trying to maintain control of his captive monster.",
           "locationHints": {
             "refs": [
-              "mist-nest interior pool"
+              "Tzingola"
             ],
-            "context": "the interior chamber with a central pool, a low beach of rotting vegetation, and the mage's firing position",
-            "notes": "The party fights from the roof, water, and turtle's back all at once."
+            "context": "mist-nest interior pool, low beach of rotting vegetation, and the mage's firing position",
+            "notes": "The party fights from the roof, water, and Chaessenth's back all at once."
           },
           "npcDetails": [
             {
@@ -1218,9 +1237,9 @@
           "longSummary": "After repeated painful attempts, the black spear comes loose and Chaessenth can finally speak enough to explain that the mage's concentration must be broken. The battle turns into a desperate scramble across collapsing footing and deep water as Nerissa and the dragon turtle are briefly caught in a dazzling spell, but Blu wakes the turtle in time and Chaessenth lunges in for the killing blow that ends the mage's hold for good.",
           "locationHints": {
             "refs": [
-              "mist-nest interior pool"
+              "Tzingola"
             ],
-            "context": "the same chamber as the struggle shifts toward freeing and rallying the dragon turtle",
+            "context": "mist-nest interior pool as the struggle shifts toward freeing and rallying the dragon turtle",
             "notes": "The fight ends in the chamber with the mage dead and Chaessenth conscious."
           },
           "npcDetails": [
@@ -1280,8 +1299,8 @@
       "timeWindow": "afternoon",
       "resolution": "part-of-day",
       "locationRefs": [
-        "mist-nest interior pool",
-        "open western sea beyond Eskorola"
+        "Tzingola",
+        "Hamri"
       ],
       "npcRefs": [
         "Chaessenth"
@@ -1314,11 +1333,11 @@
           "longSummary": "The aftermath turns from battle to revelation as Nerissa heals the freed dragon turtle and the party learns his name, Chaessenth. He explains that the slain mage wanted gatza to commune with the long-dead Khathayi the Flametongue, and he speaks of the songs of the ocean and the Wanui Teora before swimming west into the deep, while the party notes that the mage's golden amulet matches the symbol on Hiyasa's treasure map.",
           "locationHints": {
             "refs": [
-              "mist-nest interior pool",
-              "open western sea beyond Eskorola"
+              "Tzingola",
+              "Hamri"
             ],
-            "context": "the chamber conversation gives way to Chaessenth's departure back into the ocean",
-            "notes": "The party returns toward the village while Chaessenth leaves for deeper waters."
+            "context": "return from the hidden nest through Eskorola after Chaessenth's departure west",
+            "notes": "Chaessenth swims west into the deep ocean while the party returns to Hamri."
           },
           "npcDetails": [
             {
@@ -1455,7 +1474,8 @@
         "name": "Hamri",
         "beatIds": [
           "beat-001",
-          "beat-002"
+          "beat-002",
+          "beat-010"
         ],
         "relationKinds": [
           "visited",
@@ -1466,7 +1486,6 @@
         "name": "Eskorola",
         "beatIds": [
           "beat-002",
-          "beat-003",
           "beat-004"
         ],
         "relationKinds": [
@@ -1475,37 +1494,13 @@
         ]
       },
       {
-        "name": "salt marsh north of Eskorola",
+        "name": "Tzingola",
         "beatIds": [
+          "beat-003",
           "beat-004",
           "beat-005",
-          "beat-006"
-        ],
-        "relationKinds": [
-          "visited"
-        ]
-      },
-      {
-        "name": "outer marsh tunnel mouth",
-        "beatIds": [
-          "beat-007"
-        ],
-        "relationKinds": [
-          "traveled-through"
-        ]
-      },
-      {
-        "name": "top of the mist-nest above the interior pool",
-        "beatIds": [
-          "beat-007"
-        ],
-        "relationKinds": [
-          "visited"
-        ]
-      },
-      {
-        "name": "mist-nest interior pool",
-        "beatIds": [
+          "beat-006",
+          "beat-007",
           "beat-008",
           "beat-009",
           "beat-010"
@@ -1513,15 +1508,6 @@
         "relationKinds": [
           "visited",
           "traveled-through"
-        ]
-      },
-      {
-        "name": "open western sea beyond Eskorola",
-        "beatIds": [
-          "beat-010"
-        ],
-        "relationKinds": [
-          "visited"
         ]
       }
     ]
@@ -1574,7 +1560,7 @@
           ],
           "history": [
             {
-              "location": "Eskorola",
+              "location": "Tzingola",
               "dateStart": "1747-11-08",
               "dateEnd": "1747-11-09"
             }
@@ -1591,7 +1577,7 @@
           ],
           "history": [
             {
-              "location": "salt marsh north of Eskorola",
+              "location": "Tzingola",
               "dateStart": "1747-11-09",
               "dateEnd": null
             }
@@ -1608,7 +1594,7 @@
           ],
           "history": [
             {
-              "location": "salt marsh north of Eskorola",
+              "location": "Tzingola",
               "dateStart": "1747-11-09",
               "dateEnd": null
             }
@@ -1629,17 +1615,12 @@
           ],
           "history": [
             {
-              "location": "outer marsh tunnel mouth -> top of the mist-nest above the interior pool",
+              "location": "Tzingola",
               "dateStart": "1747-11-09",
               "dateEnd": null
             },
             {
-              "location": "mist-nest interior pool",
-              "dateStart": "1747-11-09",
-              "dateEnd": null
-            },
-            {
-              "location": "mist-nest interior pool -> open western sea beyond Eskorola",
+              "location": "Tzingola -> deep ocean west of the Mawakel Peninsula",
               "dateStart": "1747-11-09",
               "dateEnd": null
             }
@@ -1659,12 +1640,7 @@
           ],
           "history": [
             {
-              "location": "outer marsh tunnel mouth -> top of the mist-nest above the interior pool",
-              "dateStart": "1747-11-09",
-              "dateEnd": null
-            },
-            {
-              "location": "mist-nest interior pool",
+              "location": "Tzingola",
               "dateStart": "1747-11-09",
               "dateEnd": null
             }
@@ -1681,12 +1657,13 @@
           "contextHint": "Ryu's tower on the cliffs above the bay",
           "beatIds": [
             "beat-001",
-            "beat-002"
+            "beat-002",
+            "beat-010"
           ],
           "visits": [
             {
               "dateStart": "1747-11-08",
-              "dateEnd": null,
+              "dateEnd": "1747-11-09",
               "kind": "visited"
             },
             {
@@ -1705,8 +1682,37 @@
           "contextHint": "a half-day sail north to the lizardfolk village",
           "beatIds": [
             "beat-002",
-            "beat-003",
             "beat-004"
+          ],
+          "visits": [
+            {
+              "dateStart": "1747-11-08",
+              "dateEnd": null,
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1747-11-09",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Tzingola",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "marsh-side attack site near Eskorola, south of the mist-shrouded nest",
+          "beatIds": [
+            "beat-003",
+            "beat-004",
+            "beat-005",
+            "beat-006",
+            "beat-007",
+            "beat-008",
+            "beat-009",
+            "beat-010"
           ],
           "visits": [
             {
@@ -1718,101 +1724,6 @@
               "dateStart": "1747-11-09",
               "dateEnd": null,
               "kind": "traveled-through"
-            }
-          ]
-        },
-        {
-          "name": "salt marsh north of Eskorola",
-          "relationKinds": [
-            "visited"
-          ],
-          "contextHint": "canoe approach through narrow channels toward the mist-covered mound",
-          "beatIds": [
-            "beat-004",
-            "beat-005",
-            "beat-006"
-          ],
-          "visits": [
-            {
-              "dateStart": "1747-11-09",
-              "dateEnd": null,
-              "kind": "visited"
-            }
-          ]
-        },
-        {
-          "name": "outer marsh tunnel mouth",
-          "relationKinds": [
-            "traveled-through"
-          ],
-          "contextHint": "climbing the rotting mound to find another way inside",
-          "beatIds": [
-            "beat-007"
-          ],
-          "visits": [
-            {
-              "dateStart": "1747-11-09",
-              "dateEnd": null,
-              "kind": "traveled-through"
-            }
-          ]
-        },
-        {
-          "name": "top of the mist-nest above the interior pool",
-          "relationKinds": [
-            "visited"
-          ],
-          "contextHint": "climbing the rotting mound to find another way inside",
-          "beatIds": [
-            "beat-007"
-          ],
-          "visits": [
-            {
-              "dateStart": "1747-11-09",
-              "dateEnd": null,
-              "kind": "visited"
-            }
-          ]
-        },
-        {
-          "name": "mist-nest interior pool",
-          "relationKinds": [
-            "visited",
-            "traveled-through"
-          ],
-          "contextHint": "the interior chamber with a central pool, a low beach of rotting vegetation, and the mage's firing position",
-          "beatIds": [
-            "beat-008",
-            "beat-009",
-            "beat-010"
-          ],
-          "visits": [
-            {
-              "dateStart": "1747-11-09",
-              "dateEnd": null,
-              "kind": "visited"
-            },
-            {
-              "dateStart": "1747-11-09",
-              "dateEnd": null,
-              "kind": "traveled-through"
-            }
-          ]
-        },
-        {
-          "name": "open western sea beyond Eskorola",
-          "relationKinds": [
-            "visited"
-          ],
-          "contextHint": "the chamber conversation gives way to Chaessenth's departure back into the ocean",
-          "beatIds": [
-            "beat-010"
-          ],
-          "visits": [
-            {
-              "dateStart": "1747-11-09",
-              "dateEnd": null,
-              "kind": "visited"
             }
           ]
         }
@@ -1854,12 +1765,12 @@
               "dateEnd": null
             },
             {
-              "location": "Eskorola",
+              "location": "Tzingola",
               "dateStart": "1747-11-08",
               "dateEnd": "1747-11-09"
             },
             {
-              "location": "Eskorola -> salt marsh north of Eskorola",
+              "location": "Eskorola -> Tzingola",
               "dateStart": "1747-11-09",
               "dateEnd": null
             }
@@ -1878,12 +1789,7 @@
           ],
           "history": [
             {
-              "location": "outer marsh tunnel mouth -> top of the mist-nest above the interior pool",
-              "dateStart": "1747-11-09",
-              "dateEnd": null
-            },
-            {
-              "location": "mist-nest interior pool",
+              "location": "Tzingola",
               "dateStart": "1747-11-09",
               "dateEnd": null
             }
@@ -1900,7 +1806,7 @@
           ],
           "history": [
             {
-              "location": "mist-nest interior pool -> open western sea beyond Eskorola",
+              "location": "Tzingola -> Hamri",
               "dateStart": "1747-11-09",
               "dateEnd": null
             }
@@ -1917,7 +1823,7 @@
           ],
           "history": [
             {
-              "location": "mist-nest interior pool -> open western sea beyond Eskorola",
+              "location": "Tzingola -> Hamri",
               "dateStart": "1747-11-09",
               "dateEnd": null
             }

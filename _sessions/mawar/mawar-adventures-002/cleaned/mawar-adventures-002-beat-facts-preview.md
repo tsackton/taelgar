@@ -10,7 +10,7 @@
 **Time Window**: evening
 **Combat**: no
 **Short Summary**: At the Leviathan, Wazir shares The Ciphered Scroll and the party connects Hamri's recent deaths to Gazankoa, Airion, Nimessa, and the stolen Sentient Ocean.
-**Long Summary**: The party gathers at the Leviathan while Wazir walks through The Ciphered Scroll: its author sought to restore his dead wife Nadine, sacrificed people whose bodies filled with water, chased legends of Airion the Mistspeaker, found a ring tied to Nimessa, and came to Hamri after calling on Gazankoa. The group debates resurrection, gatza visions, Medin, Airion's ruined tower above the sea cave, and the living water before deciding to rest and search the tower in the morning.
+**Long Summary**: The party gathers at the Leviathan while Wazir walks through The Ciphered Scroll: its author sought to restore his dead wife Nadine, sacrificed people whose bodies filled with water, chased legends of Airion the Mistspeaker, found a ring tied to Nimessa, and came to Hamri after calling on Gazankoa. The group debates resurrection, gatza visions, Medin, Airion's ruined tower in the North Cliffs above the sea cave, and the living water before deciding to rest and search the tower in the morning.
 **Location**:
 - Hamri: the Leviathan Inn, where the party compares notes over Wazir's translation
   Note: The opening discussion stays at the inn and ends with the group resting before the morning search.
@@ -33,10 +33,10 @@
 **Date**: 1747-08-04
 **Time Window**: morning
 **Combat**: no
-**Short Summary**: The party searches Airion's ruined tower, finds signs of recent occupation, and confirms that an old watery illusion still clings to the site.
-**Long Summary**: The next morning the group reaches the abandoned north-face watchtower above the sea cave and discovers that a newer tower was built over much older stonework. Inside, the place throws them into a convincing Plane of Water illusion with dolphins, black-water tendrils, and Airion's water-commanding incantation before the image fades back to the shallow flooded chamber; the evidence of recent habitation sends them back toward town informants.
+**Short Summary**: The party searches Airion's ruined tower in the North Cliffs, finds signs of recent occupation, and confirms that an old watery illusion still clings to the site.
+**Long Summary**: The next morning the group reaches Airion's ruined tower in the North Cliffs, above the sea cave, and discovers that a newer watchtower shell sits on much older stonework. Inside, the place throws them into a convincing Plane of Water illusion with dolphins, black-water tendrils, and Airion's water-commanding incantation before the image fades back to the shallow flooded chamber; the evidence of recent habitation sends them back toward town informants.
 **Location**:
-- Hamri: Airion's ruined tower on the north cliffs above the sea cave
+- North Cliffs: Airion's ruined tower above the sea cave
   Note: The beat stays focused on the tower, its older foundation, and the lingering water magic within.
 **NPCs**:
 - Airion (mentioned): former owner or source of the tower's old magic. His name appears in the incantation tied to the water illusion.

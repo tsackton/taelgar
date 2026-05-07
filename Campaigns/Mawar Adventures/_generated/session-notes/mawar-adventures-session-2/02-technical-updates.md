@@ -11,6 +11,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 
 <!-- SLOT: updates.whereabouts.locations -->
 - [[Hamri]]: visited on 1747-08-03 to 1747-08-09.
+- [[North Cliffs]]: visited on 1747-08-04.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
@@ -22,7 +23,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 
 <!-- SLOT: updates.timeline -->
 - (DR:: 1747-08-03), evening: [[Wazir]] presents the decoded [[The Ciphered Scroll]] to [[Ryu]], [[Trok]], and [[Kaleho]] at the [[Leviathan Inn]] in [[Hamri]].
-- (DR:: 1747-08-04): The party searches [[Airion]]'s tower and traces its recent occupant through [[Hamri]]'s informants, uncovering evidence that [[Azar the Lost]] was living in hiding and seeking to purchase a lead-lined box from the smith [[Ovina]] on Shark's Dock.
+- (DR:: 1747-08-04): The party searches Airion's tower in the [[North Cliffs]], discovering older stonework beneath the ruined watchtower, then traces its recent occupant through Hamri's informants, uncovering evidence that [[Azar the Lost]] was living in hiding, likely tied to deaths among [[Gatza|gatza]] addicts in the Drowned Flats, and seeking to purchase a lead-lined box from the smith [[Ovina]] on Shark's Dock.
 - (DR:: 1747-08-05): The party confronts Azar on Shark's Dock, defeating him in a tense fight after he refuses to parley. After the fight, the party stabilizes Azar and contains the dockside chaos, hears [[Azar's Tale|Azar's full tale]], and clears his lair in the Splinters.
 - (DR:: 1747-08-06): [[Wazir]] identifies the recovered knife and brass bowl.
 - (DR:: 1747-08-09): [[Azar the Lost]] leaves [[Hamri]] with [[Benat]] for the [[Lizardfolk|lizardfolk]] village.
@@ -34,10 +35,6 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 
 <!-- SLOT: updates.review -->
 - Sulfi's servant: no matching note found in the vault index
-- drowned servant: no matching note found in the vault index
-- townsfolk bystander: no matching note found in the vault index
-- drowned zombies: no matching note found in the vault index
-- Nadine: no matching note found in the vault index
 - Ring of Water Walking: no matching note found in the vault index
 - Cloak of the Manta Ray: no matching note found in the vault index
 - lead-lined box: no matching note found in the vault index
