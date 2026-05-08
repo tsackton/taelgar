@@ -9,13 +9,12 @@ gender: female
 whereabouts: Hamri
 dm_owner: none
 dm_notes: color
+pronunciation: reh-LEE-ah
 ---
 # Reliah
+*(reh-LEE-ah)*
 >[!info]+ Biographical Info  
-> A Mawaran [[Humans|human]] (she/her)  
+> A [[Mawar Confederacy|Mawaran]] [[Humans|human]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Reliah, the twin sister of [[Samar]], is an orphaned girl who lives in the Drowned Flats in [[Hamri]]. [[Wazir]] feeds her and her sister once a week, and in turn they keep an ear to the ground for him.
-
-![[reliah.png]]
-
+![[reliah.png|right|300]]Reliah, the twin sister of [[Samar]], is an orphaned girl who lives in the Drowned Flats in [[Hamri]]. [[Wazir]] feeds her and her sister once a week, and in turn they keep an ear to the ground for him.
