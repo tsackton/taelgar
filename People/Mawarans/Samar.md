@@ -9,12 +9,13 @@ gender: female
 whereabouts: Hamri
 dm_owner: none
 dm_notes: none
+pronunciation: sah-MAHR
 ---
 # Samar
+*(sah-MAHR)*
 >[!info]+ Biographical Info  
-> A Mawaran [[Humans|human]] (she/her)  
+> A [[Mawar Confederacy|Mawaran]] [[Humans|human]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Samar, the twin sister of [[Reliah]], is an orphaned girl who lives in the Drowned Flats. [[Wazir]] feeds her and her sister once a week, and in turn they keep an ear to the ground for him.
+![[samar.png|right|300]]Samar, the twin sister of [[Reliah]], is an orphaned girl who lives in the Drowned Flats. [[Wazir]] feeds her and her sister once a week, and in turn they keep an ear to the ground for him.
 
-![[samar.png]]
