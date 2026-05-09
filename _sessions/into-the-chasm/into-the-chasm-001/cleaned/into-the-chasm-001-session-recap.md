@@ -2,10 +2,10 @@
 
 ## Session Header
 
-- Title: The Fall Into Zeyfa's Labyrinth
-- Desc Title: The Labyrinth's Threshold
-- Tagline: in which the party falls inward
-- One-Sentence Summary: Swept from the Great Chasm, five adventurers and Kalima survive the ice platform, learn Zeyfa's Labyrinth demands sacrifices, and enter its snowy tunnels when every outward path fails.
+- Title: Into the Chasm - Episode 1
+- Desc Title: Into the Chasm
+- Tagline: in which a storm flings five strangers into Zeyfa's maze
+- One-Sentence Summary: Drawn by omens around the Great Chasm, five adventurers and a terrified Zimkovan woman are torn from the world by an impossible ice storm and awaken on a lone platform in Zeyfa’s Labyrinth, where ice wolves, wind-shaped shades, and chasm wisps test their resolve before they choose to leap into a maze that may be the only way out.
 - Campaign: Into the Chasm
 - Scope: session
 - Session Number: 1
@@ -13,6 +13,152 @@
 - Real Date: 2025-11-17
 - DM: Mike Sackton
 - PCs: Finnan, Jrain, Eolo, Ekko, Justas
+
+## Pre-Session Timeline
+
+### August 1729
+
+- Timeline Segment: timeline-setup-001
+- Timeline Key: (DR:: 1729), August
+- Resolution: month
+- Beat IDs: none
+- Locations: Sentinels, Zimkova
+- NPCs: Ravager of Winter
+- Organizations: Ravager of Winter's horde
+- Items: none
+- Combat Beats: none
+
+#### Short
+An orcish horde lead by a fierce orc warrior calling herself the [[Ravager of Winter]] roars out of the Sentinels and across northern [[Zimkova]]
+
+#### Long
+An orcish horde lead by a fierce orc warrior calling herself the [[Ravager of Winter]] roars out of the Sentinels and across northern [[Zimkova]]
+
+### August 28th, 1729
+
+- Timeline Segment: timeline-setup-002
+- Timeline Key: (DR:: 1729-08-28)
+- Resolution: day
+- Beat IDs: none
+- Locations: Nidzahar, Berze
+- NPCs: Ravager of Winter
+- Organizations: Stoneborn
+- Items: none
+- Combat Beats: none
+
+#### Short
+An army of dwarves from [[Nidzahar]] and a substantial [[Stoneborn]] company defeat the Ravager in the forests east of the [[Berze]]
+
+#### Long
+An army of dwarves from [[Nidzahar]] and a substantial [[Stoneborn]] company defeat the Ravager in the forests east of the [[Berze]]
+
+### Autumn 1729
+
+- Timeline Segment: timeline-setup-003
+- Timeline Key: (DR:: 1729), autumn
+- Resolution: season
+- Beat IDs: none
+- Locations: Breva, Zimkova
+- NPCs: none
+- Organizations: Ravager of Winter's horde
+- Items: none
+- Combat Beats: none
+
+#### Short
+Scattered remains of the Ravager's horde spread south and east and plague [[Breva]]
+
+#### Long
+Scattered remains of the Ravager's horde spread south and east and plague [[Breva]]
+
+### Fall and Winter 1729
+
+- Timeline Segment: timeline-setup-004
+- Timeline Key: (DR:: 1729), fall and winter
+- Resolution: season
+- Beat IDs: none
+- Locations: Great Chasm, Teft
+- NPCs: none
+- Organizations: none
+- Items: none
+- Combat Beats: none
+
+#### Short
+Strange omens emerge from the Chasm: a summer thunderstorm, a sandstorm with scorching heat, boulder of volcanic stone, aflame with green fire, a rainbow of glass that shattered into a hundred thousand pieces, a living sheet of ice that drifted down the Teft like a predator, leaving dead fish and frozen banks in its wake
+
+#### Long
+Strange omens emerge from the Chasm: a summer thunderstorm, a sandstorm with scorching heat, boulder of volcanic stone, aflame with green fire, a rainbow of glass that shattered into a hundred thousand pieces, a living sheet of ice that drifted down the Teft like a predator, leaving dead fish and frozen banks in its wake
+
+### Jan 2nd-7th, 1730
+
+- Timeline Segment: timeline-setup-005
+- Timeline Key: (DR:: 1730-01-02) - (DR:: 1730-01-07)
+- Resolution: date-range
+- Beat IDs: none
+- Locations: Great Chasm
+- NPCs: none
+- Organizations: none
+- Items: none
+- Combat Beats: none
+
+#### Short
+The sky above the [[Great Chasm]] turns black during the day, a darkness that spreads and is visible like a smudge on the sky for many miles around
+
+#### Long
+The sky above the [[Great Chasm]] turns black during the day, a darkness that spreads and is visible like a smudge on the sky for many miles around
+
+### Jan 8th, 1730
+
+- Timeline Segment: timeline-setup-006
+- Timeline Key: (DR:: 1730-01-08)
+- Resolution: day
+- Beat IDs: none
+- Locations: Great Chasm, Kemeko Monastery
+- NPCs: Eidrikas, Pakrinek
+- Organizations: Vejo Vaikai, Kemeko Monastery
+- Items: none
+- Combat Beats: none
+
+#### Short
+The [[Vejo Vaikai ]]gather some of their wisest mystics, lead by [[Eidrikas]], Ekko's mentor, protected by [[Pakrinek]] one of the warriors of Kemeko, to investigate strange happens in the [[Great Chasm]].
+
+#### Long
+The [[Vejo Vaikai ]]gather some of their wisest mystics, lead by [[Eidrikas]], Ekko's mentor, protected by [[Pakrinek]] one of the warriors of Kemeko, to investigate strange happens in the [[Great Chasm]].
+
+### Jan 16th, 1730
+
+- Timeline Segment: timeline-setup-007
+- Timeline Key: (DR:: 1730-01-16)
+- Resolution: day
+- Beat IDs: none
+- Locations: Great Chasm, Kemeko Monastery
+- NPCs: none
+- Organizations: none
+- Items: none
+- Combat Beats: none
+
+#### Short
+A cloud of superheated steam obscures the Chasm near [[Kemeko Monastery]] and fog and mist rises from the depths
+
+#### Long
+A cloud of superheated steam obscures the Chasm near [[Kemeko Monastery]] and fog and mist rises from the depths
+
+### Jan 22nd, 1730
+
+- Timeline Segment: timeline-setup-008
+- Timeline Key: (DR:: 1730-01-22)
+- Resolution: day
+- Beat IDs: none
+- Locations: Great Chasm, Kemeko Monastery
+- NPCs: Kalima
+- Organizations: Kemeko Monastery
+- Items: none
+- Combat Beats: none
+
+#### Short
+[[Kalima]] emerges from Great Chasm, apparently climbing the cliff face near [[Kemeko Monastery]]. She is terrified of the kenku and will not speak to them.
+
+#### Long
+[[Kalima]] emerges from Great Chasm, apparently climbing the cliff face near [[Kemeko Monastery]]. She is terrified of the kenku and will not speak to them.
 
 ## Timeline
 
@@ -29,7 +175,7 @@
 - Combat Beats: beat-003, beat-004, beat-005
 
 #### Short
-A white storm drops the party and Kalima into Zeyfa's Labyrinth, where they survive the ice platform and choose the snowy tunnels after learning every exit leads inward.
+Ekko, Finnan, Jrain, Justas, Eolo, and Kalima are pulled by an unnatural storm into the [[Great Chasm]]; landing on an ice flow, they survive an attack by ice wolves, introduce themselves to each other, and prepare to explore.
 
 #### Long
 Dragged from the Great Chasm by a white storm, the party wakes on a floating ice platform, defeats ice wolf guardians, wind-shades, and chasm wisps, and steadies Kalima long enough to learn about the labyrinth's sacrifices and the beast. After a rest, failed exit tests, and Rala's scouting, they bring Kalima into the snow tunnels.

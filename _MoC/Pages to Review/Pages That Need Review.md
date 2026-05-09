@@ -14,6 +14,18 @@ FLATTEN length(file.inlinks) AS BacklinkCount
 SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 ```
 
+
+### Needs AI Cleanup (Staging)
+
+```dataview
+TABLE join(split(file.path, "/", 2), "/") as Folder, 
+      length(file.inlinks) as Backlinks
+FROM #status/check/ai and "Worldbuilding/Staging"
+FLATTEN length(file.inlinks) AS BacklinkCount
+SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
+```
+
+
 ### Check: Mike
 ```dataview
 list from #status/check/mike and !#status/check/tim

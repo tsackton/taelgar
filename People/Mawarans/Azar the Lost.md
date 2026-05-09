@@ -1,46 +1,40 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
-campaignInfo:
+tags: [person]
 name: Azar
+aliases: [Azar the Lost]
 born:
 species: human
-ancestry:
+ancestry: Mawaran
 gender: male
+whereabouts:
+  - {type: home, end: 1747, location: Mawakel Peninsula, alias: eastern coast of the Mawakel Peninsula}
+  - {type: away, location: Hamri, start: 1747-08-03, end: 1747-08-09}
+  - {type: away, location: Mawakel Peninsula, start: 1747-08-09, alias: a lizardfolk village south of Hamri}
+campaignInfo: []
 dm_notes: important
 dm_owner: tim
 ---
 # Azar
 >[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)
+> A [[Mawar Confederacy|Mawaran]] [[Humans|human]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-See: [[Azar's Tale]]
+Azar, later called Azar the Lost, was a fisherman from a small village on the eastern coast of the [[Mawakel Peninsula]]. After his wife [[Nadine]] and their two sons drowned in DR 1741, he turned to [[Gatza|gatza]] in grief and became lost in the gatza-world of the voices of his dead family, until some time later he heard a new voice, promising to help. 
 
-%% Status note: clearly the session note info could be incorporated; setting status/tim to confirm if there is any external info; also copy information from OneNote - Mawar %%
+That new voice led him to [[Gazankoa]], the [[Blood Knife]], and a series of murderous rituals meant to restore the drowned dead. He later sought out the lore of [[Airion|Airion the Mistspeaker]], recovered several of Airion's books and artifacts, and learned of [[Sentient Ocean|Yi'weti]], the living water he believed could make the ritual succeed. Through Airion's ring, he compelled the marid [[Nimessa]] to steal a fragment of the [[Sentient Ocean]] and bring it to [[Hamri]].
 
-%%
-AI NPC proposal - Mawar review, 2026-05-07
+In DR 1747, Azar's crimes in Hamri were uncovered by [[Ryu]], [[Wazir]], [[Trok]], and [[Kaleho]]. After his defeat, he told them [[Azar's Tale|his story]] and left Hamri with [[Benat]] for a lizardfolk village to the south, intending to heal and begin making restitution.
 
-Proposed whereabouts/metadata updates:
-- Add a home or origin association with the eastern coast of the [[Mawakel Peninsula]], probably with an alias such as "small east-coast fishing village" because no more precise note surfaced.
-- Add a mid-1747 away association with [[Mendin]], where Azar stayed with a Chardonian trade mission after returning west.
-- Add an away/current episode line for [[Hamri]] from approximately DR 1747-08-03 to DR 1747-08-09, with body text or aliases covering the [[North Cliffs]] tower, Drowned Flats/Splinters lair, and Shark's Dock.
-- Add a follow-up line or comment, not necessarily structured frontmatter, that on DR 1747-08-09 Azar left south with [[Benat]] for an unnamed lizardfolk village to heal before returning to make amends to Hamri. Do not identify that village as [[Eskorola]] unless another source confirms it.
+%%^Campaign:none%%
 
-Proposed text updates:
-- Replace the current pointer-only body with a summary of Azar's story from [[Azar's Tale]] and [[The Ciphered Scroll]]: east-coast fisherman, loss of [[Nadine]] and their sons in a storm, gatza addiction, the voice of [[Gazankoa]], the search for Airion's lore, and the false resurrection murders in Hamri.
-- Mention [[Nimessa]] as the marid compelled through Airion's one-use ring to steal living water from the [[Sentient Ocean]].
-- Mention the [[Blood Knife]], the lead-lined box commissioned from [[Ovina]], the phantom boat, the dockside fight at Shark's Dock, and the recovery of Airion's books and a brass bowl from Azar's lair.
-- Keep the judgment careful: Azar is a grieving murderer corrupted by Gazankoa, but the session ends with the party sparing him and sending him away with Benat to recover and eventually make restitution.
+## DM notes
 
-Source links:
-- [[Mawar Adventures Episode 02]]
-- [[Azar's Tale]]
-- [[The Ciphered Scroll]]
-- [[Mendin]]
-- [[Benat]]
-- [[Ovina]]
-- [[Nimessa]]
-- [[Gazankoa]]
-- [[Blood Knife]]
-%%
+Relevant context: [[Mawar Adventures Episode 02]], [[Azar's Tale]], and [[The Ciphered Scroll]].
+
+The lizardfolk village remains unnamed, and is not [[Eskorola]] (despite DM note pointing to this). 
+
+Fate in 1749 is undetermined. 
+
+%%^End%%

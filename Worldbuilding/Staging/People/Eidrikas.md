@@ -1,1 +1,0 @@
-%% AYD-ree-kahs %%
