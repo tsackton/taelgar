@@ -80,7 +80,7 @@ A few weeks later, they arrive back in [[Voltara]], greeting by [[Julius of Volt
 The party spends some time in [[Voltara]]. They sell treasure, decorate their manor, and purchase an extradimensional vault from an [[Eldeth Redhammer|eccentric dwarven artificer]]. They also receive letters: 
 - from [[Dinia]], saying that [[Airion’s Floating Tower]] is gone; 
 - from [[Iara]], the lizardfolk, saying her people are heading south to [[Lake Valandros]]; 
-- from Archivist [[Lyra]], saying that the elemental scrolls were well-received, that should they find any more of Arion’s treasure they should come to [[Chardon]] to sell it, and also asking if they would look into the disappearance of another group of adventurers in the [[Goldpeak Mines]].
+- from Archivist [[Lyra]], saying that the elemental scrolls were well-received, that should they find any more of Airion’s treasure they should come to [[Chardon]] to sell it, and also asking if they would look into the disappearance of another group of adventurers in the [[Goldpeak Mines]].
 
 With their treasure protected by magic and with [[Julius of Voltara|Julius]] paid and the manor restocked, the party heads out to [[Goldpeak Mines]], where they find a mysterious abandoned camp with dead bodies.
 
@@ -142,4 +142,3 @@ With the aboleth killed, [[Dinia]] returns to herself, and appoints herself the 
 - (DR:: 1748-08-23): Arrive at [[Suwi]], meet [[~Suwi Village Priest~|village priest]], speak with [[Clara]] about the [[Havoc Host]]. 
 - (DR::1748-08-24): Travel upriver to a small lake. Fight slimy minions, find a secret passage, enter flooded caverns. In the caverns, defeat more slime minions and meet the ghost of[[ Milo Kentbrush]]. Confront [[Ithu'rax]] the aboleth, and defeat it, rescuing [[Dinia]]. 
 - (DR:: 1748-08-25): Return to [[Voltara]]. 
-

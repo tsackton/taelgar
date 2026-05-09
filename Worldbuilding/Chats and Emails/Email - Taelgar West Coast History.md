@@ -1,3 +1,4 @@
+
 (Aug 2022)
 
 I started fleshing out the history of the west coast of Taelgar a bit last night so I could flesh out the treasure in a dragon lair that Isaac's group is going to fight, a black dragon obsessed with gathering the relics of fallen empires, whose lair is in the [[Blackwater Fens]] (big swampy area south of Forest of Dreams, north of Chardon/Voltara, right at the top of the current world printed world map). Would be curious about your opinion.
@@ -39,7 +40,7 @@ My main area of interest is what I am calling the Five Kingdoms (although not al
 
   
 
-2. Amani (most of the territory of what was Amn in our HS campaign). Led by a hereditary line of mage-kings, a country where magic was power, but magical training was centralized and controlled by the royal family (unlike, e.g. modern day Chardon or Drankor historically). Arion Mistspeaker was a prominent mage originally from Amani and his style of esoteric, isolated research into lost magics of the other planes was very much in the Amani tradition. Controlled chalyte mines near modern-day Voltara and probably an early pioneer in chalyte use, but not really for creating common magic items for the masses. Otherwise feudal in culture, perhaps tending to autocratic. Economy largely agrarian, with a fair bit of mining and being middlemen for the Goldpeak dwarves thrown in. 
+2. Amani (most of the territory of what was Amn in our HS campaign). Led by a hereditary line of mage-kings, a country where magic was power, but magical training was centralized and controlled by the royal family (unlike, e.g. modern day Chardon or Drankor historically). Airion Mistspeaker was a prominent mage originally from Amani and his style of esoteric, isolated research into lost magics of the other planes was very much in the Amani tradition. Controlled chalyte mines near modern-day Voltara and probably an early pioneer in chalyte use, but not really for creating common magic items for the masses. Otherwise feudal in culture, perhaps tending to autocratic. Economy largely agrarian, with a fair bit of mining and being middlemen for the Goldpeak dwarves thrown in. 
 
   
 

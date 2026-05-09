@@ -1,52 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
+tags: [person]
 name: Hiyasa
 species: human
 ancestry: Mawaran
 gender: female
-whereabouts: Mawar Confederacy
-dm_notes: color
-dm_owner: tim
+whereabouts:
+- {type: home, location: Hamri}
+- {type: away, start: 1737, end: 1747-09, prefix: traveling in, location: Chardonian Empire} 
+- {type: away, start: 1747-10-15, end: 1747-10-25, prefix: traveling up, location: Mirmir}
+- {type: away, start: 1747-10-26, end: 1747-10-26, location: Tomb of Yerkir-Khor, alias: "trapped in the inner sanctum"}
+- {type: away, start: 1747-10-27, end: 1747-10-28, prefix: returning along, location: Mirmir}
+dm_notes: none
+dm_owner: none
 ---
 # Hiyasa
 >[!info]+ Biographical Info  
 > A Mawaran [[Humans|human]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Tim needs to incorporate notes from OneNote, has some backstory that connects to Chardon that I like %%
+Hiyasa is [[Orden|Orden's]] daughter, a Mawaran thief and treasure hunter from [[Hamri]] who spent roughly a decade away from home, mostly traveling around [[Chardon]] and the [[Chardonian Empire]].
 
-Daughter of [[Orden]], recently returned from 10 years away with a treasure map, possibly stolen from Chardon or Chardonians in some way. Promptly headed for one location, got stuck, and then rescued by the PCs.
-
-%% One Note
-
-Orden's daughter. Thief of some skill, recently returned from "away" with stolen maps, presumably acquired from Chardonians although exact details as yet unrevealed.
- 
-Rescued from the tomb of Yerkir-Khor by the party in Episode 3.
-
-Hiyasa, daughter of Orden, returned home destitute a few weeks ago, had been traveling for the past 10 years or so at least. Came with rumors and information but no money. Finding Orden in his current state, vowed to do something about it.
-
-%%
-
-%%
-AI NPC proposal - Mawar review, 2026-05-07
-
-Proposed whereabouts/metadata updates:
-- Current generic [[Mawar Confederacy]] whereabouts is too broad. Consider structured lines for [[Hamri]] as her return location in early October DR 1747, [[Tomb of Yerkir-Khor]] from roughly DR 1747-10-24 to DR 1747-10-26, and [[Hamri]] again on DR 1747-10-28.
-- Add a past away association with [[Chardon]] or the [[Chardonian Empire]] for the decade before her return, but keep the details cautious: sources say she returned from Chardon with a treasure map and had been away/traveling for about ten years; they do not give a full itinerary.
-- Add campaignInfo for Mawar Episode 03 as rescued by [[Trok]], [[Kaleho]], [[Ryu]], and [[Nerissa]] at [[Tomb of Yerkir-Khor]] on DR 1747-10-26.
-
-Proposed text updates:
-- Expand the Chardon/backstory material: Hiyasa returned home destitute after roughly a decade away, carrying maps or a treasure map likely acquired from Chardonians.
-- Add that she chose [[Tomb of Yerkir-Khor]] because it seemed older than Mawar graves and less theologically risky to rob.
-- Add that she was found dehydrated and half-entombed in stone in the inner sanctum, freed after the party defeated Yerkir-khor's guardian.
-- Add that she gave the party a sketch/copy of [[Hiyasa's Treasure Map]], which marked three old tombs and later connected to [[Khathayi]] through the fire mage's amulet.
-
-Source links:
-- [[Mawar Adventures Episode 03]]
-- [[Mawar Adventures Episode 04]]
-- [[Hiyasa's Treasure Map]]
-- [[Tomb of Yerkir-Khor]]
-- [[Orden]]
-- [[Khathayi]]
-%%
+In DR 1747, she returned to Hamri, destitute but carrying maps and rumors of old treasure, apparently acquired in Chardon somehow. Eager to see herself and her dad in a better situation, she soon left to explore one of the ruins on her treasure map, but got into trouble and had to be rescued by the [[Adventurers of Mawar]].
