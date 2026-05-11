@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/metadata]
+tags: [person]
 campaignInfo:
 name: Ryu
-born: 1722
+born: 1714
 species: human
 ancestry: Mawaran
 gender: male
@@ -19,18 +19,6 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% Ander and Ryu are childhood friends but ages don't match up %%
+Ryu is a native of Hamri and a deep sea fisherman, who lives in an abandoned watcher’s tower north of the city, across the bay on the bluffs of [[North Cliffs]]. He is well know around Hamri as an expert in finding fish and other sea creatures with an abundance of gatza.
 
-A deep sea fisherman and native of Hamri, who lives in an abandoned watcher’s tower north of the city, across the bay. Noted as an expert in finding fish and other sea creatures with an abundance of gatza.
-
-%% One Note
-
-Deep sea diver, goes on long boat voyages to fish for strange creatures. Especially good at finding things that are rich in gatza.
- 
-Has a animal companion, a primal spirit that can shift between an osprey (Blu), a shark (Turk), and a bear (Geo).
- 
-Rescued animal companion at sea, bonded. Blu was injured at sea, shapeshifting connected to oceanic entanglement.
- 
-In his late 20s / early 30s.
-
-%%
+Ryu often goes on long boat voyages far from land in search of strange creatures. In one of these trips, he rescued an osprey, [[Blu]], who was injured. During the rescue, Ryu and Blu bonded and shared an oceanic connection, through which [[Blu]] gained the ability to shape-shift into [[Geo]] and [[Turk]].

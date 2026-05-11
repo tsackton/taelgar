@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/cleanup/text]
 campaignInfo:
 name: Nerissa
 born:
@@ -19,3 +19,5 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 An older woman, not from Mawar but from the north, who retired to Hamri after a long adventuring career to listen and learn the songs of the ocean.
+
+%%SECRET[1]%%
