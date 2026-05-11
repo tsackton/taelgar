@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/check/metadata]
 campaignInfo:
 name: Ryu
-born:
+born: 1722
 species: human
 ancestry: Mawaran
 gender: male
@@ -16,9 +16,12 @@ dm_notes: important
 # Ryu
 >[!info]+ Biographical Info  
 > A [[Mawar Confederacy|Mawaran]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-A deep sea fisherman and native of Hamri, in his late 20s, who lives in an abandoned watcher’s tower north of the city, across the bay. Noted as an expert in finding fish and other sea creatures with an abundance of gatza.
+%% Ander and Ryu are childhood friends but ages don't match up %%
+
+A deep sea fisherman and native of Hamri, who lives in an abandoned watcher’s tower north of the city, across the bay. Noted as an expert in finding fish and other sea creatures with an abundance of gatza.
 
 %% One Note
 

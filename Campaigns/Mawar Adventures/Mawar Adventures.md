@@ -5,7 +5,7 @@ hide: [toc]
 
 The Mawar Adventures is a series of episodic adventures united by a shared setting, the sparsely populated land of rocky coasts and dense forests known as the [[Mawakel Peninsula]], and a [[Adventurers of Mawar|common cast of characters]]. 
 
-The Mawar Adventures have largely taken place around the port town of [[Hamri]], on the western coast of the peninsula, and a significant port within the [[Mawar Confederacy]]. Hamri is the home of many adventurers, some of have been here for years, others who are only passing through or have recently returned. They included:
+The Mawar Adventures have largely taken place around the port town of [[Hamri]], on the western coast of the peninsula, and a significant port within the [[Mawar Confederacy]]. Hamri is the home of many adventurers, some of have been here for years, others who are only passing through or have recently returned, who collectively make up the [[Adventurers of Mawar]]. They included:
 - [[Ryu]], a hunter and ranger with a shapeshifting beast companion known as Turk, in shark form; Blu, in osprey form; and Geo in bear form. 
 - [[Trok]], a tattooed lizardfolk warrior, estranged from his village
 - [[Wazir]], an artificer and scholar, trained in Chardon, now owner of the [[Leviathan Inn]]
@@ -15,10 +15,10 @@ The Mawar Adventures have largely taken place around the port town of [[Hamri]],
 
 So far, the [[Mawar Adventures Timeline|adventures to date]] have included:
 - [[Mawar Adventures Episode 01]], The Merfolk Visitor
-- [[Mawar Adventures Epsiode 02]], The Tragedy of Azar
-- [[Mawar Adventures Epsiode 03]], The Tomb of Yerkir-khor
-- [[Mawar Adventures Epsiode 04]], The Chained Beast
-- [[Mawar Adventures Episode 05]], 
+- [[Mawar Adventures Episode 02]], The Tragedy of Azar
+- [[Mawar Adventures Episode 03]], The Tomb of Yerkir-khor
+- [[Mawar Adventures Episode 04]], The Chained Beast
+- [[Mawar Adventures Episode 05]], The Lost Legacy
 
 You can also read about the people of [[Hamri]]:
 
