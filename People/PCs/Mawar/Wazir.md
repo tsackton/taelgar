@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/cleanup/text, status/check/mike]
 name: Wazir
 born:
 species: human

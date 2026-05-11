@@ -15,10 +15,7 @@ dm_notes: important
 ---
 # Kaleho
 >[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)
+> A [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
-A sailor who regularly passes through Hamri, obsessed with rumors of merfolk.
-
-%% One Note
-Human sailor, obsessed with merfolk. Travels through Hamri regularly.
-%%
+Kaleho is a sailor who regularly passes through Hamri, obsessed with rumors of merfolk.
