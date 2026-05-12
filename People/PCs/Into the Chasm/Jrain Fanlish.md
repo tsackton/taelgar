@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [status/stub, person]
+aliases: [Jrain]
 dm_owner: player
 dm_notes: important
 affiliations: [Chasm Explorers]

@@ -26,7 +26,7 @@
       "aliases": ["itc"],
       "campaignRoot": "Campaigns/One Shots/Into the Chasm",
       "notePattern": "Into the Chasm {session_padded}.md",
-      "defaultTemplate": "composable-session-note.md"
+      "defaultTemplate": "into-the-chasm-template.md"
     },
     "labyrinths-of-the-lost": {
       "sessionRoot": "lablost",

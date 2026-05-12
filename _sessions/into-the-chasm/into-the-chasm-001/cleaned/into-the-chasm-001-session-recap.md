@@ -168,7 +168,7 @@ A cloud of superheated steam obscures the Chasm near [[Kemeko Monastery]] and fo
 - Timeline Key: (DR:: 1730-01-25), afternoon
 - Resolution: part-of-day
 - Beat IDs: beat-001, beat-002, beat-003, beat-004, beat-005, beat-006, beat-007, beat-008
-- Locations: Great Chasm, unknown ice platform, Zeyfa's Labyrinth
+- Locations: Great Chasm, Zeyfa's Labyrinth
 - NPCs: Kalima, Rala
 - Organizations: none
 - Items: Romil's token
@@ -189,7 +189,7 @@ Dragged from the Great Chasm by a white storm, the party wakes on a floating ice
 - Date: 1730-01-25
 - Time: afternoon
 - Source Range: u0001 -> u0182
-- Locations: Great Chasm, unknown ice platform
+- Locations: Great Chasm, Zeyfa's Labyrinth
 - NPCs: Kalima
 - Organizations: none
 - Items: none
@@ -319,10 +319,9 @@ The conversation stretches into a short rest. Finnan ritual-casts _Detect Magic_
 ### NPCs
 
 - Kalima (met): terrified Zimkovan survivor and the party's only clear guide to the maze.
-  - Great Chasm -> unknown ice platform, 1730-01-25
-  - Zeyfa's Labyrinth, 1730-01-25
+  - Great Chasm -> Zeyfa's Labyrinth, 1730-01-25
 - Rala (companion): Jrain's bird companion, battered by the fall and sent to scout the snow chamber.
-  - Zeyfa's Labyrinth, 1730-01-25
+  - Great Chasm -> Zeyfa's Labyrinth, 1730-01-25
 - Zeyfa (mentioned): cruel west wind and ruling power named over the labyrinth.
 - Eidrikas (mentioned): missing mystic and Ekko's mentor tied to the vanished expedition.
 - Pakrinek (mentioned): missing Kemeko companion named among the lost investigators.
@@ -333,13 +332,9 @@ The conversation stretches into a short rest. Finnan ritual-casts _Detect Magic_
   - Summary: vast chasm where the worsening omens culminate in the storm that sweeps the party away.
   - Sublocations: storm path above the chasm
   - Date Visited: 1730-01-25
-- unknown ice platform
-  - Summary: floating threshold where the party wakes after the fall before realizing it belongs to Zeyfa's Labyrinth.
-  - Sublocations: ice platform suspended in darkness
-  - Date Visited: 1730-01-25
 - Zeyfa's Labyrinth
-  - Summary: hostile maze of ice, wind, bridges, and snow tunnels that Kalima identifies as Zeyfa's prison.
-  - Sublocations: floating ice platform, bridge mouths, snow-chamber entrance
+  - Summary: hostile maze of ice, wind, bridges, and snow tunnels that begins with the floating platform where the party wakes after the fall.
+  - Sublocations: floating ice platform suspended in darkness, bridge mouths, snow-chamber entrance
   - Date Visited: 1730-01-25
 
 ## Organizations And Items

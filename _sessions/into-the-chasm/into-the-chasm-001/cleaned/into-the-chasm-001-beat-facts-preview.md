@@ -12,7 +12,7 @@
 **Short Summary**: Omens worsen around the Great Chasm, the first investigators vanish, and the party is swept through a white storm while clutching what gear they can keep.
 **Long Summary**: The session opens with a prologue about the Great Chasm's escalating signs and the disappearance of the Vejo Vaikai investigation party sent with Kemeko warriors. The beat then shifts into the fall itself, as the adventurers are torn through a blinding white storm and forced to decide what belongings they can hold onto before landing somewhere unknown.
 **Location**:
-- Great Chasm -> unknown ice platform: swept by unnatural storm into darkness below
+- Great Chasm -> Zeyfa's Labyrinth: swept by unnatural storm into darkness below
   Note: The beat covers the omens over the chasm and the fall before the party awakens on the platform.
 **NPCs**:
 - Zeyfa (mentioned): cruel west wind of Zimkovan legend. Many people interpret the worsening omens around the chasm as signs of Zeyfa's anger.
