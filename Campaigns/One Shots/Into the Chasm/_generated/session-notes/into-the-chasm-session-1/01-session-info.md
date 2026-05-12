@@ -70,6 +70,14 @@ Monday, November 17, 2025
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->
+- (DR:: 1729), August: An orcish horde lead by a fierce orc warrior calling herself the [[Ravager of Winter]] roars out of the [[Sentinel Range|Sentinels]] and across northern [[Zimkova]]
+- (DR:: 1729-08-28): An army of dwarves from [[Nidzahar]] and a substantial [[Stoneborn]] company defeat the Ravager in the forests east of the [[Berze]]
+- (DR:: 1729), autumn: Scattered remains of the Ravager's horde spread south and east and plague [[Breva]]
+- (DR:: 1729), fall and winter: Strange omens emerge from the Chasm: a summer thunderstorm, a sandstorm with scorching heat, boulder of volcanic stone, aflame with green fire, a rainbow of glass that shattered into a hundred thousand pieces, a living sheet of ice that drifted down the [[Teft]] like a predator, leaving dead fish and frozen banks in its wake
+- (DR:: 1730-01-02) - (DR:: 1730-01-07): The sky above the [[Great Chasm]] turns black during the day, a darkness that spreads and is visible like a smudge on the sky for many miles around
+- (DR:: 1730-01-08): The [[Vejo Vaikai ]]gather some of their wisest mystics, lead by [[Eidrikas]], Ekko's mentor, protected by [[Pakrinek]] one of the warriors of Kemeko, to investigate strange happens in the [[Great Chasm]].
+- (DR:: 1730-01-16): A cloud of superheated steam obscures the Chasm near [[Kemeko Monastery]] and fog and mist rises from the depths
+- (DR:: 1730-01-22): [[Kalima]] emerges from [[Great Chasm]], apparently climbing the cliff face near [[Kemeko Monastery]]. She is terrified of the kenku and will not speak to them.
 - (DR:: 1730-01-25), afternoon: [[Ekko]], [[Finnan Oakstride|Finnan]], [[Jrain Fanlish|Jrain]], [[Justas Rhostrin|Justas]], [[Eolo]], and [[Kalima]] are pulled by an unnatural storm into the [[Great Chasm]]; landing on an ice flow, they survive an attack by ice wolves, introduce themselves to each other, and prepare to explore.
 <!-- /SLOT -->
 
@@ -88,6 +96,12 @@ Monday, November 17, 2025
 
 <!-- SLOT: locations.inline -->
 [[Great Chasm]] and [[Zeyfa's Labyrinth]]
+<!-- /SLOT -->
+
+<!-- SLOT: groups -->
+- [[Kemeko Monastery]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): kenku stronghold linked to the vanished investigation.
+- [[Vejo Vaikai]] (<(*)pronunciation(*;)> <ancestry:n> <subtypeof:sn> <typeof:sn>): mystic order whose missing expedition sharpens the party's concern.
+- [[Kestavo]] (<(*)pronunciation(*;)> <typeof:sn>): local small-gods tradition debated as absent or still present within the maze.
 <!-- /SLOT -->
 
 <!-- SLOT: combat.summary -->
