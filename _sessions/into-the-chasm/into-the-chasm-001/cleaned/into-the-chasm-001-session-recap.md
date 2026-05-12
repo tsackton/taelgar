@@ -14,7 +14,7 @@
 - DM: Mike Sackton
 - PCs: Finnan, Jrain, Eolo, Ekko, Justas
 
-## Pre-Session Timeline
+## Timeline
 
 ### August 1729
 
@@ -159,9 +159,6 @@ A cloud of superheated steam obscures the Chasm near [[Kemeko Monastery]] and fo
 
 #### Long
 [[Kalima]] emerges from Great Chasm, apparently climbing the cliff face near [[Kemeko Monastery]]. She is terrified of the kenku and will not speak to them.
-
-## Timeline
-
 ### Jan 25th, 1730 (afternoon)
 
 - Timeline Segment: timeline-001
