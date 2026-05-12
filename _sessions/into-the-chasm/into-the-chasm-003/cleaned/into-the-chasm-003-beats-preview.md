@@ -1,7 +1,7 @@
 # Beats Preview
 
-- Source transcript: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-003/cleaned/into-the-chasm-003-source-cleaned.md
-- Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml
+- Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-source-cleaned.md
+- Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml
 - Beat count: 8
 
 ## beat-001 — Ambush in the Pit
@@ -9,6 +9,7 @@
 - Range: `u0001` → `u0383`
 - Lines: 383
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: yes
 - Boundary Reason: The session opens with the party sliding into the arena chamber, the beast calling up living snow around each hero, and the group scrambling through the first exchange while they identify the encounter and try to stabilize their positions.
@@ -22,6 +23,7 @@
 - Range: `u0384` → `u0844`
 - Lines: 461
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: yes
 - Boundary Reason: After the opening scramble, the fight shifts into a tactical middle phase as the party protects Kalima, discovers that the living snows absorb or redirect many attacks, and starts to pivot toward spells, force, and focused pressure on the beast.
@@ -35,6 +37,7 @@
 - Range: `u0845` → `u1154`
 - Lines: 310
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: yes
 - Boundary Reason: The party finally decodes the living snows enough to start killing them efficiently, with Justas recasting Spirit Guardians, Eolo's attacks landing cleanly, and the fight swinging away from survival mode toward control of the chamber.
@@ -48,6 +51,7 @@
 - Range: `u1155` → `u1362`
 - Lines: 208
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: yes
 - Boundary Reason: With most of the echoes stripped away, the last combat phase becomes a direct collapse of the beast's defenses until the party kills it and the chamber itself begins to change.
@@ -61,6 +65,7 @@
 - Range: `u1363` → `u1646`
 - Lines: 284
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: After the beast dies, the room sheds its frost, Kalima panics toward the new tunnel, the party grabs only a few facts and trophies, and the scene shifts completely when they crawl out onto the cliffside overlooking Melusa and dispatch the fae scout toward the ice palace.
@@ -74,6 +79,7 @@
 - Range: `u1647` → `u1936`
 - Lines: 290
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: Kalima rushes the group up the switchbacks, warns them to stay unseen, and leads them through the eerie ledge village into Nura and Khalid's house, where the surviving residents receive them as strange but potentially sacred outsiders.
@@ -87,6 +93,7 @@
 - Range: `u1937` → `u2180`
 - Lines: 244
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: evening
 - Combat: no
 - Boundary Reason: Inside the safe house, the party learns how Melusa understands Kestavo, sacrifice, sunset, and survival, while the villagers reveal just enough of their cosmology and fears for the players to realize how deeply isolated the settlement has become.
@@ -100,6 +107,7 @@
 - Range: `u2181` → `u2586`
 - Lines: 406
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: night
 - Combat: no
 - Boundary Reason: Once the gong rings, the session turns into layered reconnaissance: Ekko scouts the village and the guarded mirror-gash, Finnan uses clairvoyance to inspect the palace and the forming ice bridge, and the party ends by choosing to hide, rest, and face the consequences tomorrow.

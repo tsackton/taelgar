@@ -77,7 +77,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u2181 | 02:44:22.550-02:44:25.350 | Ekko] And Ekko totally wants… explores as a cat.
 [u2182 | 02:44:25.510-02:44:27.760 | DM] Okay, well, let's pause for a minute, so…

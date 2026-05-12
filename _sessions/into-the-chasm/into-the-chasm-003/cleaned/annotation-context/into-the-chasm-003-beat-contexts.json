@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
-  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-003/cleaned/into-the-chasm-003-source-cleaned.md",
-  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml",
-  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-003/beat-artifacts/into-the-chasm-003-beats.json",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-beats.json",
   "selectedBeatIds": [
     "beat-001",
     "beat-002",
@@ -13,6 +13,7 @@
     "beat-007",
     "beat-008"
   ],
+  "supplementalSources": [],
   "contexts": [
     {
       "beat": {
@@ -44,6 +45,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 3,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-26",
@@ -81,7 +84,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0001",
           "header": "[u0001 | 00:00:00.000-00:00:01.260 | DM]",
@@ -2380,7 +2383,8 @@
           "text": "And that ends my turn.",
           "raw": "[u0383 | 00:29:28.030-00:29:29.660 | Finnan] And that ends my turn."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -2417,6 +2421,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 3,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-26",
@@ -2454,7 +2460,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0384",
           "header": "[u0384 | 00:29:32.110-00:29:35.220 | DM]",
@@ -5221,7 +5227,8 @@
           "text": "I'm the one next to Justas, okay?",
           "raw": "[u0844 | 01:01:05.820-01:01:08.860 | DM] I'm the one next to Justas, okay?"
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -5258,6 +5265,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 3,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-26",
@@ -5295,7 +5304,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0845",
           "header": "[u0845 | 01:01:11.850-01:01:16.519 | DM]",
@@ -7156,7 +7165,8 @@
           "text": "Smart image.",
           "raw": "[u1154 | 01:20:15.580-01:20:16.550 | Ekko] Smart image."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -7193,6 +7203,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 3,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-26",
@@ -7230,7 +7242,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1155",
           "header": "[u1155 | 01:20:18.920-01:20:23.440 | Ekko]",
@@ -8479,7 +8491,8 @@
           "text": "you… first of all, as it collapses, the wind stops as the beast falls dead. The wind, like, the howling that you could still hear from the blackness that you fell down into this pit from, ends.",
           "raw": "[u1362 | 01:33:11.310-01:33:24.589 | DM] you… first of all, as it collapses, the wind stops as the beast falls dead. The wind, like, the howling that you could still hear from the blackness that you fell down into this pit from, ends."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -8516,6 +8529,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 3,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-26",
@@ -8553,7 +8568,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1363",
           "header": "[u1363 | 01:33:24.820-01:33:26.680 | DM]",
@@ -10258,7 +10273,8 @@
           "text": "The Fae flies off.",
           "raw": "[u1646 | 01:56:25.360-01:56:26.769 | DM] The Fae flies off."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -10295,6 +10311,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 3,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-26",
@@ -10332,7 +10350,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1647",
           "header": "[u1647 | 01:56:27.050-01:56:29.350 | DM]",
@@ -12073,7 +12091,8 @@
           "text": "a long rest. If you spend, like, a day or more in… amongst these people, I'll just assume you've picked up enough to communicate basic concepts, but any checks that would require language would be a disadvantage.",
           "raw": "[u1936 | 02:20:52.620-02:21:05.899 | DM] a long rest. If you spend, like, a day or more in… amongst these people, I'll just assume you've picked up enough to communicate basic concepts, but any checks that would require language would be a disadvantage."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -12110,6 +12129,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 3,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-26",
@@ -12147,7 +12168,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1937",
           "header": "[u1937 | 02:21:06.720-02:21:13.640 | DM]",
@@ -13612,7 +13633,8 @@
           "text": "Dark.",
           "raw": "[u2180 | 02:44:21.930-02:44:22.550 | DM] Dark."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -13644,6 +13666,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 3,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-26",
@@ -13681,7 +13705,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u2181",
           "header": "[u2181 | 02:44:22.550-02:44:25.350 | Ekko]",
@@ -16118,7 +16142,8 @@
           "text": "Have a great night.",
           "raw": "[u2586 | 03:18:08.780-03:18:09.210 | Justas] Have a great night."
         }
-      ]
+      ],
+      "supplementalSources": []
     }
   ]
 }

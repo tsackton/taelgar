@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1363 | 01:33:24.820-01:33:26.680 | DM] And you start to see, like.
 [u1364 | 01:33:26.680-01:33:30.480 | DM] The ice and frost on the walls start to…

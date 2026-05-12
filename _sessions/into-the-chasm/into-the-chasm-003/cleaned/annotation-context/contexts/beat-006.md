@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1647 | 01:56:27.050-01:56:29.350 | DM] what are the rest of you doing? Kalima…
 [u1648 | 01:56:36.150-01:56:37.980 | Finnan] I will give it my last.

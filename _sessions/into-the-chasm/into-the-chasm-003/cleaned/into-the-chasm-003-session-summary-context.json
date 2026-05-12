@@ -1,10 +1,11 @@
 {
   "schemaVersion": "1.0",
-  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml",
-  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-003/cleaned/into-the-chasm-003-beats.json",
-  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-003/cleaned/into-the-chasm-003-beat-facts.json",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-beat-facts.json",
   "session": {
     "campaign": "Into the Chasm",
+    "scope": "session",
     "sessionNumber": 3,
     "realWorldDate": "2026-01-08",
     "drStart": "1730-01-25",
@@ -27,9 +28,7 @@
       ],
       "locationRefs": [
         "Zeyfa's Labyrinth",
-        "Black-stone chamber",
-        "Melusa",
-        "Nura and Khaled's house"
+        "Melusa"
       ],
       "npcRefs": [
         "Kalima",
@@ -64,6 +63,283 @@
         "Once the final Living Snow collapses, Ekko and Justas land real damage on the beast and its own attacks start looking desperate rather than dominant. Eolo's final psionic shot drops it, the wind stops, and the chamber begins melting back from ice to granite and earth.",
         "The chamber sheds its frost and opens a dirt-scented tunnel, but the party delays just long enough for Finnan to pull three facts from the beast and for Justas to hack off its head as a trophy. They crawl through the permafrost passage, emerge onto a narrow switchback above the Great Chasm, and send Finnan's fey spirit toward the Ice Palace to seek an audience with Forquarion the Frostbinder.",
         "From the cliffside path the party gets its first clear look at Melusa, the waterfall-fed pond at its center, and the floating rocks around the Great Chasm. Kalima insists they stay hidden, points out that five jagged gashes have appeared in the cliff face beneath a huge ice wolf statue, and leads them into her sister Nura and brother-in-law Khaled's house."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Ambush in the Pit",
+          "boundaryReason": "The session opens with the party sliding into the arena chamber, the beast calling up living snow around each hero, and the group scrambling through the first exchange while they identify the encounter and try to stabilize their positions.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0383"
+          },
+          "shortSummary": "The party lands in the black-stone pit, the shaggy white beast calls up Living Snow echoes around them, and the fight begins in confusion.",
+          "longSummary": "Fresh from the slide into the chamber, the party gets its first clear look at the shaggy white beast and the strange Living Snow echoes it raises from the icy ground around each hero. The beat is about surviving the opening scramble, realizing the echoes can slow and harry them, and keeping Kalima hidden behind Finnan's illusion.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "Black-stone chamber",
+            "notes": "The transcript describes a dark black-stone pit with icy ground and walls, continuing from the labyrinth chamber reached at the end of the previous session."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "companion",
+              "context": "hidden survivor",
+              "notes": "Sheltered behind Finnan's illusion while the chamber erupts into combat."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "start",
+            "mainEnemies": [
+              {
+                "name": "Shaggy white beast",
+                "notes": "The large chamber guardian that roars and calls up the Living Snow."
+              },
+              {
+                "name": "Living Snow echoes",
+                "notes": "Shadowy snow-creatures that rise beside the party and begin the fight."
+              }
+            ],
+            "notes": "Opening combat scramble as the party lands in the chamber and tries to orient itself."
+          }
+        },
+        {
+          "beatId": "beat-002",
+          "title": "Cracking the Snow Guard",
+          "boundaryReason": "After the opening scramble, the fight shifts into a tactical middle phase as the party protects Kalima, discovers that the living snows absorb or redirect many attacks, and starts to pivot toward spells, force, and focused pressure on the beast.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0384",
+            "endUid": "u0844"
+          },
+          "shortSummary": "As the fight settles into a brutal middle phase, the party protects Kalima and experiments with spells and summons to crack the Living Snow's defenses.",
+          "longSummary": "The party starts testing what can actually hurt the Living Snow and the beast they protect, with Ekko's conjured pack, Justas's Spirit Guardians, and Finnan's fey spirit revealing that some attacks land while others slide away or stiffen harmlessly against the snow. Kalima remains concealed, and the group's immediate goal becomes keeping her alive while understanding the encounter's rules.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "Black-stone chamber",
+            "notes": "Same labyrinth chamber as the opening beat; the fight never leaves this room."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "companion",
+              "context": "hidden survivor",
+              "notes": "Still hiding behind illusion while the party fights around her."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Shaggy white beast",
+                "notes": "The central foe, still protected by the Living Snow."
+              },
+              {
+                "name": "Living Snow echoes",
+                "notes": "The party starts testing which attacks and spells can actually damage them."
+              }
+            ],
+            "notes": "The encounter shifts from surprise into experimentation as the party probes the creatures' defenses."
+          }
+        },
+        {
+          "beatId": "beat-003",
+          "title": "Turning the Echoes",
+          "boundaryReason": "The party finally decodes the living snows enough to start killing them efficiently, with Justas recasting Spirit Guardians, Eolo's attacks landing cleanly, and the fight swinging away from survival mode toward control of the chamber.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0845",
+            "endUid": "u1154"
+          },
+          "shortSummary": "The party finally decodes the echoes' pattern, clears most of them, and swings the battle back toward the beast.",
+          "longSummary": "Comparing notes, the party realizes the Living Snow echoes resemble the people they first appeared beside, and they begin cross-targeting them with the attacks that actually work. Spirit Guardians, Rala's strikes, Eolo's shots, and Finnan's psychic magic collapse the remaining echoes and open the beast to direct pressure.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "Black-stone chamber",
+            "notes": "The combat remains in the same room of Zeyfa's Labyrinth while momentum starts to shift."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "companion",
+              "context": "hidden survivor",
+              "notes": "Still alive and concealed while the party starts winning the chamber."
+            },
+            {
+              "name": "Rala",
+              "role": "companion",
+              "context": "Jrain's avian companion",
+              "notes": "Rala helps finish the remaining echoes as the party works out the encounter's pattern."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Living Snow echoes",
+                "notes": "Most of the beat is spent collapsing the remaining echoes."
+              },
+              {
+                "name": "Shaggy white beast",
+                "notes": "The beast stays active, but its protection starts to fall apart."
+              }
+            ],
+            "notes": "The party identifies enough of the echoes' pattern to begin clearing the field."
+          }
+        },
+        {
+          "beatId": "beat-004",
+          "title": "The Beast Falls",
+          "boundaryReason": "With most of the echoes stripped away, the last combat phase becomes a direct collapse of the beast's defenses until the party kills it and the chamber itself begins to change.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1155",
+            "endUid": "u1362"
+          },
+          "shortSummary": "With the last echoes gone, the party batters the exposed beast until Eolo's psionic volley kills it and the chamber changes.",
+          "longSummary": "Once the final Living Snow collapses, Ekko and Justas land real damage on the beast and its own attacks start looking desperate rather than dominant. Eolo's final psionic shot drops it, the wind stops, and the chamber begins melting back from ice to granite and earth.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "Black-stone chamber",
+            "notes": "This room of Zeyfa's Labyrinth begins physically changing as soon as the beast dies."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "companion",
+              "context": "hidden survivor",
+              "notes": "Still alive and hidden when the beast finally falls."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "end",
+            "mainEnemies": [
+              {
+                "name": "Shaggy white beast",
+                "notes": "Now exposed after the echoes fall, and killed before the beat ends."
+              }
+            ],
+            "notes": "Final combat phase focused on the beast itself rather than its snow defenses."
+          }
+        },
+        {
+          "beatId": "beat-005",
+          "title": "Through the Earthen Exit",
+          "boundaryReason": "After the beast dies, the room sheds its frost, Kalima panics toward the new tunnel, the party grabs only a few facts and trophies, and the scene shifts completely when they crawl out onto the cliffside overlooking Melusa and dispatch the fae scout toward the ice palace.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1363",
+            "endUid": "u1646"
+          },
+          "shortSummary": "After the beast dies, the party takes a trophy, learns three truths about it, and follows Kalima through the new earthen tunnel to a cliffside overlook above Melusa.",
+          "longSummary": "The chamber sheds its frost and opens a dirt-scented tunnel, but the party delays just long enough for Finnan to pull three facts from the beast and for Justas to hack off its head as a trophy. They crawl through the permafrost passage, emerge onto a narrow switchback above the Great Chasm, and send Finnan's fey spirit toward the Ice Palace to seek an audience with Forquarion the Frostbinder.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth",
+              "Melusa"
+            ],
+            "context": "through the earthen tunnel opened in the chamber floor and out onto Melusa's lower cliffside paths",
+            "notes": "The beat is the transition out of Zeyfa's Labyrinth: the party leaves the black-stone chamber, crawls through the new earthen passage, and emerges onto the lower cliffside approach that belongs to Melusa."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "companion",
+              "context": "guide",
+              "notes": "Recognizes the tunnel as a possible way out and hurries the party through it."
+            },
+            {
+              "name": "Forquarion the Frostbinder",
+              "role": "mentioned",
+              "context": "master of the beast and the Ice Palace",
+              "notes": "Named by Finnan's magic as the beast's master and then addressed by the fey messenger."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Severed head of the shaggy white beast",
+              "role": "encountered",
+              "notes": "Justas takes the head as a trophy instead of skinning the carcass."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-006",
+          "title": "Hidden Into Melusa",
+          "boundaryReason": "Kalima rushes the group up the switchbacks, warns them to stay unseen, and leads them through the eerie ledge village into Nura and Khalid's house, where the surviving residents receive them as strange but potentially sacred outsiders.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1647",
+            "endUid": "u1936"
+          },
+          "shortSummary": "Kalima hustles the party up the switchbacks and quietly into Melusa, where the village's five gashes and looming ice wolf show that something has changed.",
+          "longSummary": "From the cliffside path the party gets its first clear look at Melusa, the waterfall-fed pond at its center, and the floating rocks around the Great Chasm. Kalima insists they stay hidden, points out that five jagged gashes have appeared in the cliff face beneath a huge ice wolf statue, and leads them into her sister Nura and brother-in-law Khaled's house.",
+          "locationHints": {
+            "refs": [
+              "Melusa"
+            ],
+            "context": "lower cliffside paths, ledge village, and Kalima's family house",
+            "notes": "The beat covers movement through sublocations within Melusa rather than travel between separate named places."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "companion",
+              "context": "guide",
+              "notes": "Leads the party home, warns them to stay hidden, and introduces them to her family."
+            },
+            {
+              "name": "Nura",
+              "role": "encountered",
+              "context": "host",
+              "notes": "Kalima's sister, shocked but willing to shelter the party."
+            },
+            {
+              "name": "Khaled",
+              "role": "encountered",
+              "context": "host",
+              "notes": "Kalima's brother-in-law, initially protective of Nura and Samir when strangers enter."
+            },
+            {
+              "name": "Samir",
+              "role": "encountered",
+              "context": "infant",
+              "notes": "Nura and Khaled's baby, present when the party first enters the house."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Light-enchanted stone",
+              "role": "encountered",
+              "notes": "Kalima presents the stone Justas enchanted with light as proof that the Kestavo are real."
+            }
+          ]
+        }
       ]
     },
     {
@@ -92,6 +368,62 @@
       ],
       "sourceLongSummaries": [
         "Conversation in the safe house turns into a crash course on Melusa's worldview: the villagers half-remember the Kestavo as stories, think the outside world is barely real, and explain survival as simple endurance inside the fog. Nura, Khaled, Kalima, and baby Samir together reveal a community shaped by sacrifice, strange ideas of death and memory, and a sleep cycle ruled by the Ice Palace's gong."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-007",
+          "title": "House of Endurance",
+          "boundaryReason": "Inside the safe house, the party learns how Melusa understands Kestavo, sacrifice, sunset, and survival, while the villagers reveal just enough of their cosmology and fears for the players to realize how deeply isolated the settlement has become.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u1937",
+            "endUid": "u2180"
+          },
+          "shortSummary": "Inside Nura and Khaled's house, the party learns how Melusa understands Kestavo, endurance, death, sunset, and the village's isolation.",
+          "longSummary": "Conversation in the safe house turns into a crash course on Melusa's worldview: the villagers half-remember the Kestavo as stories, think the outside world is barely real, and explain survival as simple endurance inside the fog. Nura, Khaled, Kalima, and baby Samir together reveal a community shaped by sacrifice, strange ideas of death and memory, and a sleep cycle ruled by the Ice Palace's gong.",
+          "locationHints": {
+            "refs": [
+              "Melusa"
+            ],
+            "context": "Nura and Khaled's house",
+            "notes": "The party remains inside the family house while they talk, eat, and question their hosts about Melusa and the world beyond it."
+          },
+          "npcDetails": [
+            {
+              "name": "Nura",
+              "role": "encountered",
+              "context": "host",
+              "notes": "Speaks about family, death, and the fear that children can remember too much."
+            },
+            {
+              "name": "Khaled",
+              "role": "encountered",
+              "context": "householder",
+              "notes": "Explains Melusa's ethic of endurance and steers the conversation away from dangerous questions."
+            },
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "translator and witness",
+              "notes": "Adds details about recent sunset and helps bridge the party's questions with her family's worldview."
+            },
+            {
+              "name": "Samir",
+              "role": "encountered",
+              "context": "infant",
+              "notes": "Unusually quiet baby whose soul may 'remember too much,' according to Nura."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Kestavo",
+              "role": "mentioned",
+              "notes": "The conversation focuses on Melusa's half-remembered stories of Kestavo and the villagers' belief that no Kestavo are present there."
+            }
+          ]
+        }
       ]
     },
     {
@@ -106,7 +438,10 @@
       "locationRefs": [
         "Melusa"
       ],
-      "npcRefs": [],
+      "npcRefs": [
+        "human guards",
+        "Ice Palace soldiers"
+      ],
       "organizationRefs": [],
       "itemRefs": [
         "Sylvan-inscribed disk"
@@ -117,6 +452,50 @@
       ],
       "sourceLongSummaries": [
         "Night in Melusa becomes a reconnaissance beat. Ekko, prowling as a gray cat, confirms the quiet village ecology, the five cliff gashes, the mirror-gash guarded by human soldiers and a slowly moving ice wolf statue, and the hostile realms visible beyond the other openings; meanwhile Finnan's Clairvoyance finds a Sylvan-inscribed disk in the palace tower and then soldiers below preparing to hunt a 'trickster' spirit as an ice bridge extends toward the village. The party chooses to hide in the barn and rest rather than act immediately."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-008",
+          "title": "Portals and Night Watch",
+          "boundaryReason": "Once the gong rings, the session turns into layered reconnaissance: Ekko scouts the village and the guarded mirror-gash, Finnan uses clairvoyance to inspect the palace and the forming ice bridge, and the party ends by choosing to hide, rest, and face the consequences tomorrow.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u2181",
+            "endUid": "u2586"
+          },
+          "shortSummary": "After the gong rings, Ekko scouts Melusa's gashes while Finnan uses Clairvoyance on the Ice Palace, revealing guarded portals and an ice bridge growing toward the village.",
+          "longSummary": "Night in Melusa becomes a reconnaissance beat. Ekko, prowling as a gray cat, confirms the quiet village ecology, the five cliff gashes, the mirror-gash guarded by human soldiers and a slowly moving ice wolf statue, and the hostile realms visible beyond the other openings; meanwhile Finnan's Clairvoyance finds a Sylvan-inscribed disk in the palace tower and then soldiers below preparing to hunt a 'trickster' spirit as an ice bridge extends toward the village. The party chooses to hide in the barn and rest rather than act immediately.",
+          "locationHints": {
+            "refs": [
+              "Melusa"
+            ],
+            "context": "Nura and Khaled's house, Melusa's ledge village and cliff face, and remote scouting of the Ice Palace",
+            "notes": "Primary on-stage action remains based in Melusa, including the house, the village clusters, and the cliff face with the gashes, while Ekko scouts locally and Finnan observes the palace remotely."
+          },
+          "npcDetails": [
+            {
+              "name": "human guards",
+              "role": "encountered",
+              "context": "watchers at the mirror-gash",
+              "notes": "Ekko sees four human guards posted at the mirror-like gash near the ice wolf statue and guard wisps."
+            },
+            {
+              "name": "Ice Palace soldiers",
+              "role": "encountered",
+              "context": "patrol seen by Clairvoyance",
+              "notes": "Finnan sees armed soldiers in the Ice Palace as the ice bridge grows toward Melusa and they discuss hunting a trickster spirit."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Sylvan-inscribed disk",
+              "role": "encountered",
+              "notes": "Seen via Clairvoyance in the Ice Palace tower as a circular surface marked with dense Sylvan writing and a glowing point of light."
+            }
+          ]
+        }
       ]
     }
   ],
@@ -131,11 +510,11 @@
         "beat-003",
         "beat-004"
       ],
-      "transcriptRange": {
+      "sourceRange": {
         "startUid": "u0001",
         "endUid": "u1362"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
           "startUid": "u0001",
           "endUid": "u0383"
@@ -181,6 +560,186 @@
         "The party starts testing what can actually hurt the Living Snow and the beast they protect, with Ekko's conjured pack, Justas's Spirit Guardians, and Finnan's fey spirit revealing that some attacks land while others slide away or stiffen harmlessly against the snow. Kalima remains concealed, and the group's immediate goal becomes keeping her alive while understanding the encounter's rules.",
         "Comparing notes, the party realizes the Living Snow echoes resemble the people they first appeared beside, and they begin cross-targeting them with the attacks that actually work. Spirit Guardians, Rala's strikes, Eolo's shots, and Finnan's psychic magic collapse the remaining echoes and open the beast to direct pressure.",
         "Once the final Living Snow collapses, Ekko and Justas land real damage on the beast and its own attacks start looking desperate rather than dominant. Eolo's final psionic shot drops it, the wind stops, and the chamber begins melting back from ice to granite and earth."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Ambush in the Pit",
+          "boundaryReason": "The session opens with the party sliding into the arena chamber, the beast calling up living snow around each hero, and the group scrambling through the first exchange while they identify the encounter and try to stabilize their positions.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0383"
+          },
+          "shortSummary": "The party lands in the black-stone pit, the shaggy white beast calls up Living Snow echoes around them, and the fight begins in confusion.",
+          "longSummary": "Fresh from the slide into the chamber, the party gets its first clear look at the shaggy white beast and the strange Living Snow echoes it raises from the icy ground around each hero. The beat is about surviving the opening scramble, realizing the echoes can slow and harry them, and keeping Kalima hidden behind Finnan's illusion.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "Black-stone chamber",
+            "notes": "The transcript describes a dark black-stone pit with icy ground and walls, continuing from the labyrinth chamber reached at the end of the previous session."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "companion",
+              "context": "hidden survivor",
+              "notes": "Sheltered behind Finnan's illusion while the chamber erupts into combat."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "start",
+            "mainEnemies": [
+              {
+                "name": "Shaggy white beast",
+                "notes": "The large chamber guardian that roars and calls up the Living Snow."
+              },
+              {
+                "name": "Living Snow echoes",
+                "notes": "Shadowy snow-creatures that rise beside the party and begin the fight."
+              }
+            ],
+            "notes": "Opening combat scramble as the party lands in the chamber and tries to orient itself."
+          }
+        },
+        {
+          "beatId": "beat-002",
+          "title": "Cracking the Snow Guard",
+          "boundaryReason": "After the opening scramble, the fight shifts into a tactical middle phase as the party protects Kalima, discovers that the living snows absorb or redirect many attacks, and starts to pivot toward spells, force, and focused pressure on the beast.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0384",
+            "endUid": "u0844"
+          },
+          "shortSummary": "As the fight settles into a brutal middle phase, the party protects Kalima and experiments with spells and summons to crack the Living Snow's defenses.",
+          "longSummary": "The party starts testing what can actually hurt the Living Snow and the beast they protect, with Ekko's conjured pack, Justas's Spirit Guardians, and Finnan's fey spirit revealing that some attacks land while others slide away or stiffen harmlessly against the snow. Kalima remains concealed, and the group's immediate goal becomes keeping her alive while understanding the encounter's rules.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "Black-stone chamber",
+            "notes": "Same labyrinth chamber as the opening beat; the fight never leaves this room."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "companion",
+              "context": "hidden survivor",
+              "notes": "Still hiding behind illusion while the party fights around her."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Shaggy white beast",
+                "notes": "The central foe, still protected by the Living Snow."
+              },
+              {
+                "name": "Living Snow echoes",
+                "notes": "The party starts testing which attacks and spells can actually damage them."
+              }
+            ],
+            "notes": "The encounter shifts from surprise into experimentation as the party probes the creatures' defenses."
+          }
+        },
+        {
+          "beatId": "beat-003",
+          "title": "Turning the Echoes",
+          "boundaryReason": "The party finally decodes the living snows enough to start killing them efficiently, with Justas recasting Spirit Guardians, Eolo's attacks landing cleanly, and the fight swinging away from survival mode toward control of the chamber.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0845",
+            "endUid": "u1154"
+          },
+          "shortSummary": "The party finally decodes the echoes' pattern, clears most of them, and swings the battle back toward the beast.",
+          "longSummary": "Comparing notes, the party realizes the Living Snow echoes resemble the people they first appeared beside, and they begin cross-targeting them with the attacks that actually work. Spirit Guardians, Rala's strikes, Eolo's shots, and Finnan's psychic magic collapse the remaining echoes and open the beast to direct pressure.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "Black-stone chamber",
+            "notes": "The combat remains in the same room of Zeyfa's Labyrinth while momentum starts to shift."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "companion",
+              "context": "hidden survivor",
+              "notes": "Still alive and concealed while the party starts winning the chamber."
+            },
+            {
+              "name": "Rala",
+              "role": "companion",
+              "context": "Jrain's avian companion",
+              "notes": "Rala helps finish the remaining echoes as the party works out the encounter's pattern."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Living Snow echoes",
+                "notes": "Most of the beat is spent collapsing the remaining echoes."
+              },
+              {
+                "name": "Shaggy white beast",
+                "notes": "The beast stays active, but its protection starts to fall apart."
+              }
+            ],
+            "notes": "The party identifies enough of the echoes' pattern to begin clearing the field."
+          }
+        },
+        {
+          "beatId": "beat-004",
+          "title": "The Beast Falls",
+          "boundaryReason": "With most of the echoes stripped away, the last combat phase becomes a direct collapse of the beast's defenses until the party kills it and the chamber itself begins to change.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1155",
+            "endUid": "u1362"
+          },
+          "shortSummary": "With the last echoes gone, the party batters the exposed beast until Eolo's psionic volley kills it and the chamber changes.",
+          "longSummary": "Once the final Living Snow collapses, Ekko and Justas land real damage on the beast and its own attacks start looking desperate rather than dominant. Eolo's final psionic shot drops it, the wind stops, and the chamber begins melting back from ice to granite and earth.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth"
+            ],
+            "context": "Black-stone chamber",
+            "notes": "This room of Zeyfa's Labyrinth begins physically changing as soon as the beast dies."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "companion",
+              "context": "hidden survivor",
+              "notes": "Still alive and hidden when the beast finally falls."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "end",
+            "mainEnemies": [
+              {
+                "name": "Shaggy white beast",
+                "notes": "Now exposed after the echoes fall, and killed before the beat ends."
+              }
+            ],
+            "notes": "Final combat phase focused on the beast itself rather than its snow defenses."
+          }
+        }
       ]
     },
     {
@@ -190,11 +749,11 @@
       "beatIds": [
         "beat-005"
       ],
-      "transcriptRange": {
+      "sourceRange": {
         "startUid": "u1363",
         "endUid": "u1646"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
           "startUid": "u1363",
           "endUid": "u1646"
@@ -205,7 +764,7 @@
       "timeWindow": "afternoon",
       "resolution": "part-of-day",
       "locationRefs": [
-        "Black-stone chamber",
+        "Zeyfa's Labyrinth",
         "Melusa"
       ],
       "npcRefs": [
@@ -221,6 +780,51 @@
       ],
       "sourceLongSummaries": [
         "The chamber sheds its frost and opens a dirt-scented tunnel, but the party delays just long enough for Finnan to pull three facts from the beast and for Justas to hack off its head as a trophy. They crawl through the permafrost passage, emerge onto a narrow switchback above the Great Chasm, and send Finnan's fey spirit toward the Ice Palace to seek an audience with Forquarion the Frostbinder."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-005",
+          "title": "Through the Earthen Exit",
+          "boundaryReason": "After the beast dies, the room sheds its frost, Kalima panics toward the new tunnel, the party grabs only a few facts and trophies, and the scene shifts completely when they crawl out onto the cliffside overlooking Melusa and dispatch the fae scout toward the ice palace.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1363",
+            "endUid": "u1646"
+          },
+          "shortSummary": "After the beast dies, the party takes a trophy, learns three truths about it, and follows Kalima through the new earthen tunnel to a cliffside overlook above Melusa.",
+          "longSummary": "The chamber sheds its frost and opens a dirt-scented tunnel, but the party delays just long enough for Finnan to pull three facts from the beast and for Justas to hack off its head as a trophy. They crawl through the permafrost passage, emerge onto a narrow switchback above the Great Chasm, and send Finnan's fey spirit toward the Ice Palace to seek an audience with Forquarion the Frostbinder.",
+          "locationHints": {
+            "refs": [
+              "Zeyfa's Labyrinth",
+              "Melusa"
+            ],
+            "context": "through the earthen tunnel opened in the chamber floor and out onto Melusa's lower cliffside paths",
+            "notes": "The beat is the transition out of Zeyfa's Labyrinth: the party leaves the black-stone chamber, crawls through the new earthen passage, and emerges onto the lower cliffside approach that belongs to Melusa."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "companion",
+              "context": "guide",
+              "notes": "Recognizes the tunnel as a possible way out and hurries the party through it."
+            },
+            {
+              "name": "Forquarion the Frostbinder",
+              "role": "mentioned",
+              "context": "master of the beast and the Ice Palace",
+              "notes": "Named by Finnan's magic as the beast's master and then addressed by the fey messenger."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Severed head of the shaggy white beast",
+              "role": "encountered",
+              "notes": "Justas takes the head as a trophy instead of skinning the carcass."
+            }
+          ]
+        }
       ]
     },
     {
@@ -230,11 +834,11 @@
       "beatIds": [
         "beat-006"
       ],
-      "transcriptRange": {
+      "sourceRange": {
         "startUid": "u1647",
         "endUid": "u1936"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
           "startUid": "u1647",
           "endUid": "u1936"
@@ -245,8 +849,7 @@
       "timeWindow": "afternoon",
       "resolution": "part-of-day",
       "locationRefs": [
-        "Melusa",
-        "Nura and Khaled's house"
+        "Melusa"
       ],
       "npcRefs": [
         "Kalima",
@@ -264,6 +867,62 @@
       ],
       "sourceLongSummaries": [
         "From the cliffside path the party gets its first clear look at Melusa, the waterfall-fed pond at its center, and the floating rocks around the Great Chasm. Kalima insists they stay hidden, points out that five jagged gashes have appeared in the cliff face beneath a huge ice wolf statue, and leads them into her sister Nura and brother-in-law Khaled's house."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-006",
+          "title": "Hidden Into Melusa",
+          "boundaryReason": "Kalima rushes the group up the switchbacks, warns them to stay unseen, and leads them through the eerie ledge village into Nura and Khalid's house, where the surviving residents receive them as strange but potentially sacred outsiders.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1647",
+            "endUid": "u1936"
+          },
+          "shortSummary": "Kalima hustles the party up the switchbacks and quietly into Melusa, where the village's five gashes and looming ice wolf show that something has changed.",
+          "longSummary": "From the cliffside path the party gets its first clear look at Melusa, the waterfall-fed pond at its center, and the floating rocks around the Great Chasm. Kalima insists they stay hidden, points out that five jagged gashes have appeared in the cliff face beneath a huge ice wolf statue, and leads them into her sister Nura and brother-in-law Khaled's house.",
+          "locationHints": {
+            "refs": [
+              "Melusa"
+            ],
+            "context": "lower cliffside paths, ledge village, and Kalima's family house",
+            "notes": "The beat covers movement through sublocations within Melusa rather than travel between separate named places."
+          },
+          "npcDetails": [
+            {
+              "name": "Kalima",
+              "role": "companion",
+              "context": "guide",
+              "notes": "Leads the party home, warns them to stay hidden, and introduces them to her family."
+            },
+            {
+              "name": "Nura",
+              "role": "encountered",
+              "context": "host",
+              "notes": "Kalima's sister, shocked but willing to shelter the party."
+            },
+            {
+              "name": "Khaled",
+              "role": "encountered",
+              "context": "host",
+              "notes": "Kalima's brother-in-law, initially protective of Nura and Samir when strangers enter."
+            },
+            {
+              "name": "Samir",
+              "role": "encountered",
+              "context": "infant",
+              "notes": "Nura and Khaled's baby, present when the party first enters the house."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Light-enchanted stone",
+              "role": "encountered",
+              "notes": "Kalima presents the stone Justas enchanted with light as proof that the Kestavo are real."
+            }
+          ]
+        }
       ]
     },
     {
@@ -273,11 +932,11 @@
       "beatIds": [
         "beat-007"
       ],
-      "transcriptRange": {
+      "sourceRange": {
         "startUid": "u1937",
         "endUid": "u2180"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
           "startUid": "u1937",
           "endUid": "u2180"
@@ -304,6 +963,62 @@
       ],
       "sourceLongSummaries": [
         "Conversation in the safe house turns into a crash course on Melusa's worldview: the villagers half-remember the Kestavo as stories, think the outside world is barely real, and explain survival as simple endurance inside the fog. Nura, Khaled, Kalima, and baby Samir together reveal a community shaped by sacrifice, strange ideas of death and memory, and a sleep cycle ruled by the Ice Palace's gong."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-007",
+          "title": "House of Endurance",
+          "boundaryReason": "Inside the safe house, the party learns how Melusa understands Kestavo, sacrifice, sunset, and survival, while the villagers reveal just enough of their cosmology and fears for the players to realize how deeply isolated the settlement has become.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u1937",
+            "endUid": "u2180"
+          },
+          "shortSummary": "Inside Nura and Khaled's house, the party learns how Melusa understands Kestavo, endurance, death, sunset, and the village's isolation.",
+          "longSummary": "Conversation in the safe house turns into a crash course on Melusa's worldview: the villagers half-remember the Kestavo as stories, think the outside world is barely real, and explain survival as simple endurance inside the fog. Nura, Khaled, Kalima, and baby Samir together reveal a community shaped by sacrifice, strange ideas of death and memory, and a sleep cycle ruled by the Ice Palace's gong.",
+          "locationHints": {
+            "refs": [
+              "Melusa"
+            ],
+            "context": "Nura and Khaled's house",
+            "notes": "The party remains inside the family house while they talk, eat, and question their hosts about Melusa and the world beyond it."
+          },
+          "npcDetails": [
+            {
+              "name": "Nura",
+              "role": "encountered",
+              "context": "host",
+              "notes": "Speaks about family, death, and the fear that children can remember too much."
+            },
+            {
+              "name": "Khaled",
+              "role": "encountered",
+              "context": "householder",
+              "notes": "Explains Melusa's ethic of endurance and steers the conversation away from dangerous questions."
+            },
+            {
+              "name": "Kalima",
+              "role": "encountered",
+              "context": "translator and witness",
+              "notes": "Adds details about recent sunset and helps bridge the party's questions with her family's worldview."
+            },
+            {
+              "name": "Samir",
+              "role": "encountered",
+              "context": "infant",
+              "notes": "Unusually quiet baby whose soul may 'remember too much,' according to Nura."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Kestavo",
+              "role": "mentioned",
+              "notes": "The conversation focuses on Melusa's half-remembered stories of Kestavo and the villagers' belief that no Kestavo are present there."
+            }
+          ]
+        }
       ]
     },
     {
@@ -313,11 +1028,11 @@
       "beatIds": [
         "beat-008"
       ],
-      "transcriptRange": {
+      "sourceRange": {
         "startUid": "u2181",
         "endUid": "u2586"
       },
-      "transcriptRanges": [
+      "sourceRanges": [
         {
           "startUid": "u2181",
           "endUid": "u2586"
@@ -330,7 +1045,10 @@
       "locationRefs": [
         "Melusa"
       ],
-      "npcRefs": [],
+      "npcRefs": [
+        "human guards",
+        "Ice Palace soldiers"
+      ],
       "organizationRefs": [],
       "itemRefs": [
         "Sylvan-inscribed disk"
@@ -341,6 +1059,50 @@
       ],
       "sourceLongSummaries": [
         "Night in Melusa becomes a reconnaissance beat. Ekko, prowling as a gray cat, confirms the quiet village ecology, the five cliff gashes, the mirror-gash guarded by human soldiers and a slowly moving ice wolf statue, and the hostile realms visible beyond the other openings; meanwhile Finnan's Clairvoyance finds a Sylvan-inscribed disk in the palace tower and then soldiers below preparing to hunt a 'trickster' spirit as an ice bridge extends toward the village. The party chooses to hide in the barn and rest rather than act immediately."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-008",
+          "title": "Portals and Night Watch",
+          "boundaryReason": "Once the gong rings, the session turns into layered reconnaissance: Ekko scouts the village and the guarded mirror-gash, Finnan uses clairvoyance to inspect the palace and the forming ice bridge, and the party ends by choosing to hide, rest, and face the consequences tomorrow.",
+          "dateStart": "1730-01-25",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u2181",
+            "endUid": "u2586"
+          },
+          "shortSummary": "After the gong rings, Ekko scouts Melusa's gashes while Finnan uses Clairvoyance on the Ice Palace, revealing guarded portals and an ice bridge growing toward the village.",
+          "longSummary": "Night in Melusa becomes a reconnaissance beat. Ekko, prowling as a gray cat, confirms the quiet village ecology, the five cliff gashes, the mirror-gash guarded by human soldiers and a slowly moving ice wolf statue, and the hostile realms visible beyond the other openings; meanwhile Finnan's Clairvoyance finds a Sylvan-inscribed disk in the palace tower and then soldiers below preparing to hunt a 'trickster' spirit as an ice bridge extends toward the village. The party chooses to hide in the barn and rest rather than act immediately.",
+          "locationHints": {
+            "refs": [
+              "Melusa"
+            ],
+            "context": "Nura and Khaled's house, Melusa's ledge village and cliff face, and remote scouting of the Ice Palace",
+            "notes": "Primary on-stage action remains based in Melusa, including the house, the village clusters, and the cliff face with the gashes, while Ekko scouts locally and Finnan observes the palace remotely."
+          },
+          "npcDetails": [
+            {
+              "name": "human guards",
+              "role": "encountered",
+              "context": "watchers at the mirror-gash",
+              "notes": "Ekko sees four human guards posted at the mirror-like gash near the ice wolf statue and guard wisps."
+            },
+            {
+              "name": "Ice Palace soldiers",
+              "role": "encountered",
+              "context": "patrol seen by Clairvoyance",
+              "notes": "Finnan sees armed soldiers in the Ice Palace as the ice bridge grows toward Melusa and they discuss hunting a trickster spirit."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Sylvan-inscribed disk",
+              "role": "encountered",
+              "notes": "Seen via Clairvoyance in the Ice Palace tower as a circular surface marked with dense Sylvan writing and a glowing point of light."
+            }
+          ]
+        }
       ]
     }
   ],
@@ -400,6 +1162,24 @@
         "relationKinds": [
           "met"
         ]
+      },
+      {
+        "name": "human guards",
+        "beatIds": [
+          "beat-008"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Ice Palace soldiers",
+        "beatIds": [
+          "beat-008"
+        ],
+        "relationKinds": [
+          "met"
+        ]
       }
     ],
     "combats": [
@@ -426,18 +1206,11 @@
           "beat-001",
           "beat-002",
           "beat-003",
-          "beat-004"
-        ],
-        "relationKinds": [
-          "visited"
-        ]
-      },
-      {
-        "name": "Black-stone chamber",
-        "beatIds": [
+          "beat-004",
           "beat-005"
         ],
         "relationKinds": [
+          "visited",
           "traveled-through"
         ]
       },
@@ -448,16 +1221,6 @@
           "beat-006",
           "beat-007",
           "beat-008"
-        ],
-        "relationKinds": [
-          "visited",
-          "traveled-through"
-        ]
-      },
-      {
-        "name": "Nura and Khaled's house",
-        "beatIds": [
-          "beat-006"
         ],
         "relationKinds": [
           "visited"
@@ -491,12 +1254,7 @@
               "dateEnd": null
             },
             {
-              "location": "Black-stone chamber -> Melusa",
-              "dateStart": "1730-01-25",
-              "dateEnd": null
-            },
-            {
-              "location": "Melusa -> Nura and Khaled's house",
+              "location": "Zeyfa's Labyrinth -> Melusa",
               "dateStart": "1730-01-25",
               "dateEnd": null
             },
@@ -536,11 +1294,6 @@
           ],
           "history": [
             {
-              "location": "Melusa -> Nura and Khaled's house",
-              "dateStart": "1730-01-25",
-              "dateEnd": null
-            },
-            {
               "location": "Melusa",
               "dateStart": "1730-01-25",
               "dateEnd": null
@@ -558,11 +1311,6 @@
             "beat-007"
           ],
           "history": [
-            {
-              "location": "Melusa -> Nura and Khaled's house",
-              "dateStart": "1730-01-25",
-              "dateEnd": null
-            },
             {
               "location": "Melusa",
               "dateStart": "1730-01-25",
@@ -582,10 +1330,39 @@
           ],
           "history": [
             {
-              "location": "Melusa -> Nura and Khaled's house",
+              "location": "Melusa",
               "dateStart": "1730-01-25",
               "dateEnd": null
-            },
+            }
+          ]
+        },
+        {
+          "name": "human guards",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "watchers at the mirror-gash",
+          "beatIds": [
+            "beat-008"
+          ],
+          "history": [
+            {
+              "location": "Melusa",
+              "dateStart": "1730-01-25",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Ice Palace soldiers",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "patrol seen by Clairvoyance",
+          "beatIds": [
+            "beat-008"
+          ],
+          "history": [
             {
               "location": "Melusa",
               "dateStart": "1730-01-25",
@@ -598,52 +1375,16 @@
         {
           "name": "Zeyfa's Labyrinth",
           "relationKinds": [
-            "visited"
+            "visited",
+            "traveled-through"
           ],
           "contextHint": "Black-stone chamber",
           "beatIds": [
             "beat-001",
             "beat-002",
             "beat-003",
-            "beat-004"
-          ],
-          "visits": [
-            {
-              "dateStart": "1730-01-25",
-              "dateEnd": null,
-              "kind": "visited"
-            }
-          ]
-        },
-        {
-          "name": "Black-stone chamber",
-          "relationKinds": [
-            "traveled-through"
-          ],
-          "contextHint": "through the earthen tunnel opened in the chamber floor and out onto Melusa's lower cliffside paths",
-          "beatIds": [
+            "beat-004",
             "beat-005"
-          ],
-          "visits": [
-            {
-              "dateStart": "1730-01-25",
-              "dateEnd": null,
-              "kind": "traveled-through"
-            }
-          ]
-        },
-        {
-          "name": "Melusa",
-          "relationKinds": [
-            "visited",
-            "traveled-through"
-          ],
-          "contextHint": "through the earthen tunnel opened in the chamber floor and out onto Melusa's lower cliffside paths",
-          "beatIds": [
-            "beat-005",
-            "beat-006",
-            "beat-007",
-            "beat-008"
           ],
           "visits": [
             {
@@ -659,13 +1400,16 @@
           ]
         },
         {
-          "name": "Nura and Khaled's house",
+          "name": "Melusa",
           "relationKinds": [
             "visited"
           ],
-          "contextHint": "from Melusa's lower cliffside paths up into the ledge village and into Kalima's family house",
+          "contextHint": "through the earthen tunnel opened in the chamber floor and out onto Melusa's lower cliffside paths",
           "beatIds": [
-            "beat-006"
+            "beat-005",
+            "beat-006",
+            "beat-007",
+            "beat-008"
           ],
           "visits": [
             {
@@ -689,7 +1433,7 @@
           ],
           "history": [
             {
-              "location": "Black-stone chamber -> Melusa",
+              "location": "Zeyfa's Labyrinth -> Melusa",
               "dateStart": "1730-01-25",
               "dateEnd": null
             }
@@ -706,7 +1450,7 @@
           ],
           "history": [
             {
-              "location": "Melusa -> Nura and Khaled's house",
+              "location": "Melusa",
               "dateStart": "1730-01-25",
               "dateEnd": null
             }
@@ -739,7 +1483,12 @@
         }
       ],
       "locations": [],
-      "organizations": [],
+      "organizations": [
+        {
+          "name": "Kestavo",
+          "contextHint": null
+        }
+      ],
       "items": []
     }
   }

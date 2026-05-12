@@ -1,8 +1,8 @@
 # Beat Context Index
 
-- Source transcript: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-003/cleaned/into-the-chasm-003-source-cleaned.md
-- Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml
-- Beats file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-003/beat-artifacts/into-the-chasm-003-beats.json
+- Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-source-cleaned.md
+- Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml
+- Beats file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-beats.json
 - Selected beats: 8
 
 ## beat-001 - Ambush in the Pit
