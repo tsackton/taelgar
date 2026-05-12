@@ -196,13 +196,13 @@ Dragged from the Great Chasm by a white storm, the party wakes on a floating ice
 - Enemies: none
 
 #### Short
-Months of ominous signs associated with the Great Chasm culminate in five days of black skies, before a whiteout storm drags Justas, Finnan, Jrain, Ekko, Eolo, and a strange Zimkovan woman into the chasm.
+Months of ominous signs associated with the Great Chasm culminate in five days of black skies before a whiteout storm drags Justas, Finnan, Jrain, Ekko, Eolo, and a strange Zimkovan woman into the chasm.
 
 #### Intermediate
-Months of ominous signs associated with the Great Chasm, ranging from warm thunder to a living sheet of ice and culminating in five days of black skies, prompt the Vejo Vaikai to send a group protected by warriors from Kemenko to investigate. The omens, the failure of the Vejo Vaikai to return, and the emergence of a strange Zimkovan woman from the chasm draw five adventurers -- Justas, Finnan, Jrain, Ekko, and Eolo -- to the edges of the Great Chasm, where a sudden white storm drags them, and the Zimkovan woman, into the depths below. 
+Months of ominous signs associated with the Great Chasm, ranging from warm thunder to a living sheet of ice and culminating in five days of black skies, prompt the Vejo Vaikai to send mystics protected by warriors from Kemeko to investigate. The omens, the failure of the Vejo Vaikai to return, and the emergence of a strange Zimkovan woman from the chasm draw five adventurers -- Justas, Finnan, Jrain, Ekko, and Eolo -- to the edge of the Great Chasm, where a sudden white storm drags them and the Zimkovan woman into the depths below.
 
 #### Long
-For generations, the Great Chasm has split Zimkova as an endless cleft of strange lights, impossible structures, gravity-defying winds, and unseasonable growths. For months, ominous signs issuing from the chasm, ranging from warm thunder to a living sheet of ice, have brought uncertainty and concern to the people of [[Zimkova]]. When the sky above the chasm turns black for five days, an expedition of the Vejo Vaikai expedition with Kemeko warriors investigates. But they do not return; instead, a strange woman speaking Old Zimkovan emerges from the chasm. These omens draw five adventurers -- Jrain, Justas, Finnan, Ekko, and Eolo -- to the edge of the Great Chasm, where a sudden supernatural storm of blowing white drags them, and the Zimkovan woman, down. As they fall, the wind blowing around them, each struggles to hold on to their gear as they plummet into the unknown. 
+For generations, the Great Chasm has split Zimkova as an endless cleft of strange lights, impossible structures, gravity-defying winds, and unseasonable growths. For months, ominous signs issuing from the chasm, ranging from warm thunder to a living sheet of ice, have brought uncertainty and concern to the people of [[Zimkova]]. When the sky above the chasm turns black for five days, the Vejo Vaikai send an expedition of mystics protected by Kemeko warriors to investigate. They do not return; instead, a strange woman speaking Old Zimkovan emerges from the chasm. These omens draw five adventurers -- Jrain, Justas, Finnan, Ekko, and Eolo -- to the edge of the Great Chasm, where a sudden supernatural white storm drags them and the Zimkovan woman down. As they fall through the blowing whiteness, each struggles to hold on to their gear and whatever else they can save as they plummet into the unknown.
 
 ### recap-002 | Strangers on the Ice
 
@@ -218,13 +218,13 @@ For generations, the Great Chasm has split Zimkova as an endless cleft of strang
 - Enemies: none
 
 #### Short
-The party wakes on a floating ice platform, takes stock of one another, and tries to calm Kalima before Eolo stirs the guardians.
+They awaken on an ice platform floating in darkness, under a false sky of the shrieking white storm, and begin taking stock of one another before Eolo approaches one of the frozen wolves.
 
 #### Intermediate
-Beneath a howling white storm and above a black void, the group finds itself stranded on ice with narrow bridges and two frozen wolves watching them. Introductions begin, Kalima proves frightened and difficult to question, and Ekko quickly senses that this place is wrong even by the standards of the chasm.
+They awaken on an ice platform floating in darkness, the false sky of a shrieking white storm overhead, and two narrow bridges leading away into the dark. Dim blue light inside the ice reveals a wolf at each bridge, both encased in thin shells of ice like sculptures. Finnan casts _Light_, allowing the strangers to see one another; Eolo comes up wild-eyed with crossbows drawn, Ekko reins him back, Justas and Jrain gather themselves, and the strange Zimkovan woman wakes in terror until Finnan's Old Zimkovan song calms her. Before Finnan can question her, Ekko recognizes that this place does not feel like the chasm he knows, and the fragile pause ends when Eolo walks toward one of the wolves.
 
 #### Long
-The platform offers no safety, only a narrow pause before the next danger. As the adventurers wake, trade names, and try to understand the terrified woman with them, the frozen wolves at the bridge mouths become the obvious threat. The uneasy calm ends when Eolo approaches one of them and wakes the whole platform.
+They awaken on an ice platform apparently floating in a black void, the false sky of a shrieking white storm overhead. Dim blue light glows from inside the platform, revealing two bridges leading off into darkness and a large wolf before each bridge, both encased in thin ice like sculptures. Finnan plays a simple melody on his clay pipe and brings light to the platform, giving everyone their first clear look at one another: Eolo snaps up with both crossbows drawn, Ekko lowers a wing to push him back from panic, Justas rises with axe and shield, and Jrain regains her poise beside the young woman she tried to protect in the fall. The woman is dressed in unfamiliar leathers and furs, terrified, and speaking Old Zimkovan; when Finnan sings to calm her, the wind nearly steals his voice before the spell settles her for a moment. As Finnan starts to question the woman, Ekko reads the place and recognizes that it does not feel like the chasm he knows, and Eolo walks toward one of the wolves.
 
 ### recap-003 | Ice Wolves Awaken
 
@@ -240,13 +240,13 @@ The platform offers no safety, only a narrow pause before the next danger. As th
 - Enemies: ice wolf guardians, wind-shades, chasm wisps
 
 #### Short
-Ice wolf guardians, wind-shades, and chasm wisps turn the platform into a running fight that the party wins by a narrow margin.
+His approach wakes the icebound wolves, and a desperate fight breaks out against wind-shades, chasm wisps, and darkness before the last threat falls to the adventurers. 
 
 #### Intermediate
-The battle begins when Eolo wakes the frozen wolves and the party scrambles to recover from the opening rush. It grows worse as wind-shades sweep in, Kalima drops in the chaos, and chasm wisps emerge from the broken wolves before the group regains control and clears the field.
+Eolo's approach makes the wolves move. The nearest guardian mauls him and leaves an icy shard in his neck while Ekko becomes a polar bear, Jrain marks the wolf, and Justas and Finnan try to stabilize the field. Dark wind-shades blow in from the void; one shrieks through the platform, dropping the Zimkovan woman despite Finnan's calming magic. When the first wolf shatters, chasm wisps appear and snuff Finnan's light, which turns the fight into a blind scramble, but the adventurers are able to bring down the last wolf, shades, and wisps while until Finnan revives the woman. 
 
 #### Long
-The ice wolf guardians establish the danger of the slick edge and close fighting, the wind-shades add shrieking pressure and disorientation, and the chasm wisps prolong the struggle after the wolves begin to break apart. By the end, the party has revived Kalima, finished the last enemies under failing light, and claimed only a fragile foothold on the platform.
+The wolf begins to move as Eolo closes, gathering itself to pounce. His telekinetic shove and first bolts fail, and the guardian knocks him down, bites into his throat, and leaves an icy shard pulsing in his neck. Ekko answers by taking the shape of a polar bear and cracking the other wolf's shell of ice, while Jrain puts arrows into the first guardian and Justas steps into the fight with axe, shield, and conjured _Spiritual Weapon_. Finnan's music and magic (_Calm Emotions_) keep the group's first panic from breaking into fear. Wind-shades sweep in from the darkness, and one terrible shriek drops the Zimkovan woman unconscious on the ice. When the first wolf shatters, chasm wisps spill out of it, snuff Finnan's light, and leave the party fighting by the platform's dim blue glow as the shades try to shove Finnan toward the edge. Finnan brings the Zimokvan woman back with a healing word, Justas and Eolo weather the wolves' bites, and the group finally tears through the last guardian, shades, and wisps. 
 
 ### recap-004 | Kalima Names the Labyrinth
 
@@ -262,13 +262,13 @@ The ice wolf guardians establish the danger of the slick edge and close fighting
 - Enemies: none
 
 #### Short
-After the battle, Kalima names their prison as Zeyfa's Labyrinth and says the only hope of escape lies deeper within.
+With the platform quiet, the Zimkovan woman says they are in Zeyfa's Labyrinth, where her people hid from an old cataclysm and where the only way out is deeper in.
 
 #### Intermediate
-Pressed gently for answers, Kalima explains that her people once fled into this place after an ancient catastrophe and that Zeyfa now rules it. Justas steadies her with Romil's token, but she insists that ordinary prayers do not carry here and that turning back will not save them.
+With the platform quiet, Finnan uses the last moments of _Calm Emotions_ to ask the Zimkovan woman where they are. She looks at the bridges and realizes she is back in Zeyfa's Labyrinth: her people came there generations ago to hide from a cataclysm, only to find Zeyfa already waiting and demanding appeasement. The thought of going deeper sends her back into panic, but she says the only way out is in, even if it means facing the beast. Finnan gives her an illusion of a hearth while Justas places Romil's blue-glass token in her hands and makes it shine, leaving her calmer but still despairing.
 
 #### Long
-With the fighting over, Kalima finally gives the group a coherent account of where they are. She describes the labyrinth as a refuge that became a prison, one ruled by powers her people could not master. Her warning is plain: no outward road offers freedom, and whatever chance remains lies farther in, toward the beast at the heart of the maze.
+After the last wisp is gone, the platform offers only a short calm: Finnan sees that his _Calm Emotions_ spell will end soon and turns back to the woman, asking in Old Zimkovan what this place is and why she is afraid. Looking at the ice bridges, she realizes with despair that she is back in Zeyfa's Labyrinth, from which no one escapes. Finnan coaxes the old stories from her with music. She tells that her people came generations ago to hide from a cataclysm that changed the earth, drained the swamp, and shifted the seas; they found Zeyfa already waiting and demanding appeasement. When Justas points out that she escaped once before, she collapses again. Even though the only way out is deeper in, the path leads toward a beast they might have to kill. Finnan gives her the illusion of a small hearth, and Justas searches his charms for Romil's blue-glass token; when she says the Kestavo cannot hear prayers here, he makes the token glow in her hands, and she clutches it while singing an unfamiliar lullaby.
 
 ### recap-005 | Stories on the Platform
 
@@ -284,13 +284,13 @@ With the fighting over, Kalima finally gives the group a coherent account of whe
 - Enemies: none
 
 #### Short
-The companions trade fuller introductions and learn that Kalima's people sacrifice someone into the labyrinth at sunset.
+Finnan retells the woman's story to the others, the strangers compare why the storm caught them, and the woman adds that the West Wind sends her people into the labyrinth as sacrifices.
 
 #### Intermediate
-Jrain explains why she was escorting Kalima, while Ekko ties the mystery to Eidrikas and the vanished Vejo Vaikai party. Around that, the group compares views of Kemeko, the Kestavo, fey-like readings of the West Wind, and the possibility that this place is not the chasm they thought they knew.
+While the woman clutches Romil's token beside Finnan's illusory hearth, Finnan turns to the others and recasts her story as one of old swamps, a forgotten war, and a people who fled into the labyrinth. The adventurers then discuss, at Ekko's prompting, what drew them to this place. When Jrain mentions the missing Vejo Vaikai party, including Eidrikas and Pakrinek, Ekko recognizes Eidrikas as his mentor. The group compares what they know of Kemeko, the Kestavo, Zeyfa, and the possibility that this place is not truly the chasm before Finnan coaxes one more answer from the woman: when the sun sets and the new ones are old enough, the West Wind demands one of her people as a sacrifice.
 
 #### Long
-Names, motives, and old connections fill the silence after the battle. Finnan frames Kalima's account against old stories of swamps, forgotten wars, and peoples who hid from disaster; Jrain explains how the missing expedition drew her to Kalima; and Ekko recognizes Eidrikas as his own mentor. The discussion ends with a harder truth from Kalima: when the sun sets and the new ones are old enough, the West Wind sends one of her people into its labyrinth as a sacrifice.
+As the woman steadies herself by the illusory, but calming, hearth, Finnan turns from her to the others, introduces himself as Finnan Oakstride, and retells what she has said through the older stories he knows: before Drankor, when much of the land was swamp and the oldest wars reshaped the world, her people fled into this place and became trapped in its maze. The adventurers then discuss, at Ekko's prompting, what drew them to this place. Jrain explains that she was escorting Justas and Finnan to question the woman after she crawled out of the chasm speaking a language no one understood; before, she had been following Eidrikas, Pakrinek, and the Vejo Vaikai party through her hawk Rala until a storm of superheated steam cut them off. Ekko recognizes Eidrikas as his mentor, turning the conversation to what the group knows of the chasm, Kemeko, the Kestavo, and Zeyfa. When Jrain asks what appeases the West Wind, Finnan gently draws the woman back into speech, first calming her confusion over what he is and then receiving the answer: when the sun sets and the new ones are old enough, the West Wind demands that one of her people be sent into its labyrinth as a sacrifice. 
 
 ### recap-006 | Rest, Recon, and Descent
 
@@ -306,13 +306,13 @@ Names, motives, and old connections fill the silence after the battle. Finnan fr
 - Enemies: none
 
 #### Short
-The group rests, proves the platform's false exits are traps, and starts into the snowy tunnels with Kalima.
+The woman introduces herself as Kalima and warns that every path leads to the beast. With no other options, the adventurers and Kalima set off across one of the bridges. 
 
 #### Intermediate
-The party takes a short rest while Finnan tests for magic and the storm presses closer. Experiments with the void, the bridges, and Rala's scouting all point to the same conclusion: every apparent escape only drives them toward the maze ahead.
+As the conversation fades, the group settles into a short rest while Finnan tests the platform for magic and the storm presses lower. Practical experiments show that escape through the storm is impossible. Anything dropped below is hurled back by the updraft, and Ekko and Eolo confirm the void cannot be flown through. This leaves little option but to brave the bridges and the maze. When Finnan asks, the woman introduces herself as Kalima, then warns that all paths lead to the beast and the maze takes travelers where it wants. Rala, recovered from the storm, scouts one bridge to a snow chamber with four tunnels, and the group sets off, after Justas and Finnan persuade Kalima to come with them. 
 
 #### Long
-Uncertainty hardens into decision. The party confirms that the void below cannot be escaped by flight, that the bridges do not offer a simple retreat, and that the storm above is growing more threatening rather than less. Once Rala reports a snow chamber with four branching tunnels, Justas and Finnan persuade Kalima to stay between them, and the group enters the labyrinth proper.
+The conversation stretches into a short rest. Finnan ritual-casts _Detect Magic_, but apart from Justas's shield nothing on the platform or in the false sky gives a clean magical signature; meanwhile the cloud presses lower, the wind howls harder, and the woman curls in on herself, saying the beast does not like waiting. The group tests the platform for means of escape: a lit object dropped straight down is blown violently back, and Eolo and Ekko leap into the void only to learn that the updraft makes descent impossible. This leaves little option but to brave the bridges and the maze. When Finnan asks, the woman introduces herself as Kalima. She says all paths lead to the beast, that she escaped only after finding an earthen tunnel and digging through it, and that the entrance ahead is already part of a maze that takes travelers where it wants. Rala, battered but recovered, scouts one bridge and returns with a report of a snow chamber and four narrow tunnels; after Justas and Finnan argue that she is safer with them than alone, Kalima agrees to come if she can stay between them, and the group sets out. 
 
 ## Cast
 
