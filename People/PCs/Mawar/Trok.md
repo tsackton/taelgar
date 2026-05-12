@@ -19,7 +19,7 @@ dm_notes: important
 > A [[Lizardfolk|lizardfolk]] (salt) (he/him)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-Trok is an outcast lizardfolk warrior, covered in tattoos, with an unhealthy relationship to [[gatza]]: he is something of a recovering addict, who remains  somewhat estranged from his family. He lives on the beach north of the Drowned Flats neighborhood of Hamri. He is a skilled tattoo artist, and his animal tattoos give him strength and power. 
+Trok is an outcast lizardfolk warrior, covered in tattoos, with an unhealthy relationship to [[Gatza]]: he is something of a recovering addict, who remains  somewhat estranged from his family. He lives on the beach north of the Drowned Flats neighborhood of Hamri. He is a skilled tattoo artist, and his animal tattoos give him strength and power. 
 
 He grew up in a nearby lizardfolk salt marsh village, a promising young star. The family for generations has specialized in ritual wrestling matches that accompany a traditional rite of passage among the salt lizardfolk of the western [[Mawakel Peninsula]], when a young lizardfolk warrior receives their first tattoo. Trok was well-known as a talented wrestler and was gaining a reputation and name for himself in the community for his feats. 
 

@@ -3,6 +3,7 @@
 ## Session Header
 
 - Title: Into the Chasm - Episode 2
+- Desc Title: The Shifting Maze
 - Tagline: in which the maze shifts and the beast appears
 - One-Sentence Summary: The party pushes deeper into Zeyfa's Labyrinth, questions a dead villager from Melusa, escapes a looping white maze, and finds the beast waiting in a black-stone chamber.
 - Campaign: Into the Chasm
@@ -10,7 +11,7 @@
 - DR Date: 1730-01-25
 - Real Date: 2025-12-03
 - DM: Mike Sackton
-- PCs: Tim Sackton, Kate Sackton, Eric Rosenbaum, David Kong, David Schwartz
+- PCs: Finnan, Jrain, Eolo, Ekko, Justas
 
 ## Timeline
 

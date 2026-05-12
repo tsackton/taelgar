@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0580 | 00:45:07.580-00:45:08.889 | Finnan] Little help.
 [u0581 | 00:45:10.400-00:45:12.440 | Eolo] oh, well, I can… I can lift…

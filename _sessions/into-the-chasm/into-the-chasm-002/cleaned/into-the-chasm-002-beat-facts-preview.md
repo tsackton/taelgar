@@ -1,6 +1,6 @@
 # Beat Facts Preview
 
-- Beats file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/beat-artifacts/into-the-chasm-002-beats.json
+- Beats file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-beats.json
 - Beat count: 6
 
 ## Into the Labyrinth

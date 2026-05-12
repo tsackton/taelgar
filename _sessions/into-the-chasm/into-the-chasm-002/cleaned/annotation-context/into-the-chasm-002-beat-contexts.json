@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
-  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/cleaned/into-the-chasm-002-source-cleaned.md",
-  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/cleaned/into-the-chasm-002-session.yaml",
-  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/beat-artifacts/into-the-chasm-002-beats.json",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-beats.json",
   "selectedBeatIds": [
     "beat-001",
     "beat-002",
@@ -11,6 +11,7 @@
     "beat-005",
     "beat-006"
   ],
+  "supplementalSources": [],
   "contexts": [
     {
       "beat": {
@@ -42,6 +43,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 2,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-25",
@@ -79,7 +82,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0001",
           "header": "[u0001 | 00:00:03.590-00:00:08.520 | DM]",
@@ -1928,7 +1931,8 @@
           "text": "And then…",
           "raw": "[u0308 | 00:26:13.390-00:26:14.710 | DM] And then…"
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -1965,6 +1969,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 2,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-25",
@@ -2002,7 +2008,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0309",
           "header": "[u0309 | 00:26:15.210-00:26:24.550 | DM]",
@@ -3629,7 +3635,8 @@
           "text": "I'll… I'll just speak in… specifically in Eolo's mind.",
           "raw": "[u0579 | 00:45:01.120-00:45:06.979 | Finnan] I'll… I'll just speak in… specifically in Eolo's mind."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -3666,6 +3673,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 2,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-25",
@@ -3703,7 +3712,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0580",
           "header": "[u0580 | 00:45:07.580-00:45:08.889 | Finnan]",
@@ -5294,7 +5303,8 @@
           "text": "And you go another, maybe… 30, 40 feet.",
           "raw": "[u0844 | 01:03:31.450-01:03:39.230 | DM] And you go another, maybe… 30, 40 feet."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -5331,6 +5341,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 2,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-25",
@@ -5368,7 +5380,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0845",
           "header": "[u0845 | 01:03:39.620-01:03:48.380 | DM]",
@@ -7637,7 +7649,8 @@
           "text": "So let's continue… Down this passageway.",
           "raw": "[u1222 | 01:35:17.110-01:35:21.690 | Finnan] So let's continue… Down this passageway."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -7674,6 +7687,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 2,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-25",
@@ -7711,7 +7726,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1223",
           "header": "[u1223 | 01:35:31.830-01:35:36.220 | DM]",
@@ -9836,7 +9851,8 @@
           "text": "And as you come out into this other quarter, The… the wind's kinda…",
           "raw": "[u1576 | 02:02:46.440-02:02:51.929 | DM] And as you come out into this other quarter, The… the wind's kinda…"
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -9868,6 +9884,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 2,
         "drStart": "1730-01-25",
         "drEnd": "1730-01-25",
@@ -9905,7 +9923,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1577",
           "header": "[u1577 | 02:02:52.200-02:02:56.479 | DM]",
@@ -12240,7 +12258,8 @@
           "text": "We should've just talked to it from the beginning, and then it would have been cool.",
           "raw": "[u1965 | 02:32:03.410-02:32:06.890 | Ekko] We should've just talked to it from the beginning, and then it would have been cool."
         }
-      ]
+      ],
+      "supplementalSources": []
     }
   ]
 }
