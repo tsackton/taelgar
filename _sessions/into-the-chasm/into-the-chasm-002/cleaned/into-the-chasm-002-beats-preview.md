@@ -1,7 +1,7 @@
 # Beats Preview
 
-- Source transcript: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/cleaned/into-the-chasm-002-source-cleaned.md
-- Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-002/cleaned/into-the-chasm-002-session.yaml
+- Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-source-cleaned.md
+- Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-session.yaml
 - Beat count: 6
 
 ## beat-001 — Into the Labyrinth
@@ -9,6 +9,7 @@
 - Range: `u0001` → `u0308`
 - Lines: 308
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: The session opens with the party recovering from the prior fight, choosing an entrance, and probing the first branching tunnels until they reach the warmer chamber split by a dark crack.
@@ -22,6 +23,7 @@
 - Range: `u0309` → `u0579`
 - Lines: 271
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: In the warm room the party studies the chasm-like split, tests the icy fern growth, triggers worsening wind and heat from below, and finally commits to crossing after the first failed leap.
@@ -35,6 +37,7 @@
 - Range: `u0580` → `u0844`
 - Lines: 265
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: After organizing the crossing, the group forces everyone through the booming barrier, adapts to the shifting passages beyond it, and presses forward until a frozen side chamber appears.
@@ -48,6 +51,7 @@
 - Range: `u0845` → `u1222`
 - Lines: 378
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: The party discovers a frozen corpse, uses Speak with Dead to learn about Melusa, Zeyfa's sacrifice cycle, and the trapped soul, then gathers gear and relics before moving on.
@@ -61,6 +65,7 @@
 - Range: `u1223` → `u1576`
 - Lines: 354
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: The party leaves the corpse behind, follows booming corridors into impossible loops, glimpses wind-formed hunters, and finally sneaks through the collapsing maze into calmer passage.
@@ -74,6 +79,7 @@
 - Range: `u1577` → `u1965`
 - Lines: 389
 - Date: 1730-01-25
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: Beyond the maze, the group retraces the booming gap, descends into a deeper circular chamber, hides Kalima, and ends on the cliffhanger reveal of the shaggy beast and its ice-born shadows as they prepare for initiative.

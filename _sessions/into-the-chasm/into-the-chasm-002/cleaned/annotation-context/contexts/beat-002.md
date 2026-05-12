@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0309 | 00:26:15.210-00:26:24.550 | DM] Opens up into a wider room, maybe, like, 40 or 50 feet across, like, almost a sort of…
 [u0310 | 00:26:25.150-00:26:39.950 | DM] a bigger space, but with a low ceiling, only, maybe 5 or 6 feet high. So, like, it's… it definitely feels low, like, maybe… probably not more than 5 feet, so you have to crouch a little bit when you… when you start to come into the room.

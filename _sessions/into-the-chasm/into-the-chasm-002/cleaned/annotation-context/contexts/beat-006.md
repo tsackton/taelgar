@@ -77,7 +77,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1577 | 02:02:52.200-02:02:56.479 | DM] calms down a little bit. Like, it's not at all calm.
 [u1578 | 02:02:56.830-02:03:03.360 | DM] But you… you, get… you sort of…

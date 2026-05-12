@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1223 | 01:35:31.830-01:35:36.220 | DM] You continue down the passageway for, I mean, the… the…
 [u1224 | 01:35:41.480-01:35:50.990 | DM] the… Storm is pretty… pretty tough at the moment, right? Like, as you go…

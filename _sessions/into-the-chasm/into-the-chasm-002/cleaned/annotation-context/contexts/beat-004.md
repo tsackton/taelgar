@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0845 | 01:03:39.620-01:03:48.380 | DM] And… you come out in a… Small… chamber.
 [u0846 | 01:03:48.830-01:03:59.340 | DM] Like… Carved stone, free of ice, very, very… but very, very, very cold, like, almost… Frozen.
