@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+aliases: [Finnan]
 dm_owner: player
 dm_notes: important
 species: halfling

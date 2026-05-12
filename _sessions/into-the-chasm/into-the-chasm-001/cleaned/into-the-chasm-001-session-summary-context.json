@@ -30,7 +30,6 @@
       ],
       "locationRefs": [
         "Great Chasm",
-        "unknown ice platform",
         "Zeyfa's Labyrinth"
       ],
       "npcRefs": [
@@ -83,7 +82,7 @@
           "locationHints": {
             "refs": [
               "Great Chasm",
-              "unknown ice platform"
+              "Zeyfa's Labyrinth"
             ],
             "context": "swept by unnatural storm into darkness below",
             "notes": "The beat covers the omens over the chasm and the fall before the party awakens on the platform."
@@ -455,7 +454,7 @@
       "resolution": "part-of-day",
       "locationRefs": [
         "Great Chasm",
-        "unknown ice platform"
+        "Zeyfa's Labyrinth"
       ],
       "npcRefs": [
         "Kalima"
@@ -486,7 +485,7 @@
           "locationHints": {
             "refs": [
               "Great Chasm",
-              "unknown ice platform"
+              "Zeyfa's Labyrinth"
             ],
             "context": "swept by unnatural storm into darkness below",
             "notes": "The beat covers the omens over the chasm and the fall before the party awakens on the platform."
@@ -1106,17 +1105,9 @@
         ]
       },
       {
-        "name": "unknown ice platform",
-        "beatIds": [
-          "beat-001"
-        ],
-        "relationKinds": [
-          "visited"
-        ]
-      },
-      {
         "name": "Zeyfa's Labyrinth",
         "beatIds": [
+          "beat-001",
           "beat-002",
           "beat-003",
           "beat-004",
@@ -1152,12 +1143,7 @@
           ],
           "history": [
             {
-              "location": "Great Chasm -> unknown ice platform",
-              "dateStart": "1730-01-25",
-              "dateEnd": null
-            },
-            {
-              "location": "Zeyfa's Labyrinth",
+              "location": "Great Chasm -> Zeyfa's Labyrinth",
               "dateStart": "1730-01-25",
               "dateEnd": null
             }
@@ -1200,29 +1186,13 @@
           ]
         },
         {
-          "name": "unknown ice platform",
-          "relationKinds": [
-            "visited"
-          ],
-          "contextHint": "swept by unnatural storm into darkness below",
-          "beatIds": [
-            "beat-001"
-          ],
-          "visits": [
-            {
-              "dateStart": "1730-01-25",
-              "dateEnd": null,
-              "kind": "visited"
-            }
-          ]
-        },
-        {
           "name": "Zeyfa's Labyrinth",
           "relationKinds": [
             "visited"
           ],
           "contextHint": "floating ice platform between two bridges",
           "beatIds": [
+            "beat-001",
             "beat-002",
             "beat-003",
             "beat-004",
