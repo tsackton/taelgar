@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0845 | 01:01:11.850-01:01:16.519 | DM] What does Charmed do? That just means it can't attack you, right?
 [u0846 | 01:01:17.790-01:01:19.680 | Finnan] It can't attack me or the…

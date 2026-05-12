@@ -1,12 +1,13 @@
 from __future__ import annotations
 
+import importlib.util
+import re
 import shutil
 import subprocess
 import sys
 import tempfile
 import textwrap
 import unittest
-import importlib.util
 from pathlib import Path
 
 
@@ -339,7 +340,13 @@ class SessionNoteComponentsTest(unittest.TestCase):
             """
         )
 
-    def run_builder(self, vault: Path, *, overwrite: bool = False) -> subprocess.CompletedProcess[str]:
+    def run_builder(
+        self,
+        vault: Path,
+        *,
+        overwrite: bool = False,
+        update: bool = False,
+    ) -> subprocess.CompletedProcess[str]:
         try:
             session_payload = components.read_yaml_mapping(vault / "session.yaml")
             recap = components.parse_session_recap((vault / "session-recap.md").read_text(encoding="utf-8"))
@@ -356,6 +363,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
                     component_dir / "03-narrative.md",
                 ],
                 overwrite=overwrite,
+                update=update,
             )
             note_index = components.VaultNoteIndex(vault, generated_root)
             slots = components.build_slots(
@@ -371,6 +379,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
                 session_manifest=str(vault / "session.yaml"),
                 slots=slots["info"],
                 overwrite=overwrite,
+                update=update,
             )
             components.write_component_file(
                 component_dir / "02-technical-updates.md",
@@ -378,6 +387,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
                 session_manifest=str(vault / "session.yaml"),
                 slots=slots["technical"],
                 overwrite=overwrite,
+                update=update,
             )
             components.write_component_file(
                 component_dir / "03-narrative.md",
@@ -385,10 +395,29 @@ class SessionNoteComponentsTest(unittest.TestCase):
                 session_manifest=str(vault / "session.yaml"),
                 slots=slots["narrative"],
                 overwrite=overwrite,
+                update=update,
             )
             return subprocess.CompletedProcess(args=[str(SCRIPT_PATH)], returncode=0, stdout="", stderr="")
         except Exception as exc:
             return subprocess.CompletedProcess(args=[str(SCRIPT_PATH)], returncode=1, stdout="", stderr=repr(exc))
+
+    def remove_slot(self, text: str, slot_name: str) -> str:
+        return re.sub(
+            rf"<!-- SLOT: {re.escape(slot_name)} -->\n.*?<!-- /SLOT -->\n\n?",
+            "",
+            text,
+            count=1,
+            flags=re.DOTALL,
+        )
+
+    def replace_slot_body(self, text: str, slot_name: str, body: str) -> str:
+        return re.sub(
+            rf"<!-- SLOT: {re.escape(slot_name)} -->\n.*?<!-- /SLOT -->",
+            f"<!-- SLOT: {slot_name} -->\n{body.rstrip()}\n<!-- /SLOT -->",
+            text,
+            count=1,
+            flags=re.DOTALL,
+        )
 
     def test_parser_extracts_reviewed_recap_sections(self) -> None:
         recap = parse_session_recap(self.reviewed_recap_text())
@@ -455,6 +484,12 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertIn("<!-- SLOT: session.pcs_plain_inline -->\nEkko, Justas, Eolo", info_text)
         self.assertIn("Into the Labyrinth", info_text)
         self.assertIn("<!-- SLOT: timeline -->", info_text)
+        self.assertIn("<!-- SLOT: groups -->", info_text)
+        self.assertIn(
+            "- [[Ashen Knives]] (<(*)pronunciation(*;)> <ancestry:n> <subtypeof:sn> <typeof:sn>): raiders contesting the labyrinth approaches.",
+            info_text,
+        )
+        self.assertIn("  - [[Zeyfa's Labyrinth]], 1730-01-25", info_text)
         frontmatter = info_text.split("---", 2)[1]
         self.assertNotIn("[[", frontmatter)
         self.assertIn(
@@ -551,6 +586,33 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertIn("battle-worn guide", info_text)
         self.assertNotIn("frightened guide", info_text)
 
+    def test_builder_writes_blank_groups_slot_when_organizations_are_empty(self) -> None:
+        vault = self.make_workspace()
+        recap_path = vault / "session-recap.md"
+        recap_path.write_text(
+            self.reviewed_recap_text().replace(
+                "- Ashen Knives (enemy): raiders contesting the labyrinth approaches\n"
+                "  - Zeyfa's Labyrinth, 1730-01-25\n\n"
+                "### Items",
+                "\n### Items",
+            ),
+            encoding="utf-8",
+        )
+
+        result = self.run_builder(vault)
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        info_text = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-notes"
+            / "test-campaign-session-12"
+            / "01-session-info.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("<!-- SLOT: groups -->\n<!-- /SLOT -->", info_text)
+
     def test_builder_enriches_from_notes_and_surfaces_location_conflicts(self) -> None:
         vault = self.make_workspace()
         result = self.run_builder(vault)
@@ -641,6 +703,98 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertEqual(second_result.returncode, 0, second_result.stdout + second_result.stderr)
         self.assertIn("# Session Info", info_path.read_text(encoding="utf-8"))
         self.assertNotEqual("manual edits\n", info_path.read_text(encoding="utf-8"))
+
+    def test_builder_update_adds_missing_slots_without_overwriting_existing_slots(self) -> None:
+        vault = self.make_workspace()
+        first_result = self.run_builder(vault)
+        self.assertEqual(first_result.returncode, 0, first_result.stdout + first_result.stderr)
+        info_path = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-notes"
+            / "test-campaign-session-12"
+            / "01-session-info.md"
+        )
+        old_text = self.remove_slot(info_path.read_text(encoding="utf-8"), "groups")
+        old_text = self.replace_slot_body(old_text, "session.summary", "Manual summary preserved.")
+        info_path.write_text(old_text, encoding="utf-8")
+
+        second_result = self.run_builder(vault, update=True)
+
+        self.assertEqual(second_result.returncode, 0, second_result.stdout + second_result.stderr)
+        updated_text = info_path.read_text(encoding="utf-8")
+        self.assertIn("<!-- SLOT: session.summary -->\nManual summary preserved.\n<!-- /SLOT -->", updated_text)
+        self.assertIn("<!-- SLOT: groups -->", updated_text)
+        self.assertIn("[[Ashen Knives]]", updated_text)
+        self.assertLess(updated_text.index("<!-- SLOT: groups -->"), updated_text.index("<!-- SLOT: combat.summary -->"))
+
+    def test_builder_update_creates_missing_component_files(self) -> None:
+        vault = self.make_workspace()
+        first_result = self.run_builder(vault)
+        self.assertEqual(first_result.returncode, 0, first_result.stdout + first_result.stderr)
+        narrative_path = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-notes"
+            / "test-campaign-session-12"
+            / "03-narrative.md"
+        )
+        narrative_path.unlink()
+
+        second_result = self.run_builder(vault, update=True)
+
+        self.assertEqual(second_result.returncode, 0, second_result.stdout + second_result.stderr)
+        self.assertTrue(narrative_path.exists())
+        self.assertIn("<!-- SLOT: narrative.long -->", narrative_path.read_text(encoding="utf-8"))
+
+    def test_builder_update_rejects_duplicate_existing_slot_markers(self) -> None:
+        vault = self.make_workspace()
+        first_result = self.run_builder(vault)
+        self.assertEqual(first_result.returncode, 0, first_result.stdout + first_result.stderr)
+        info_path = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-notes"
+            / "test-campaign-session-12"
+            / "01-session-info.md"
+        )
+        original_text = info_path.read_text(encoding="utf-8")
+        duplicate_text = original_text + "\n<!-- SLOT: session.summary -->\nduplicate\n<!-- /SLOT -->\n"
+        info_path.write_text(duplicate_text, encoding="utf-8")
+
+        second_result = self.run_builder(vault, update=True)
+
+        self.assertEqual(second_result.returncode, 1)
+        self.assertIn("duplicate slot 'session.summary'", second_result.stderr)
+        self.assertEqual(duplicate_text, info_path.read_text(encoding="utf-8"))
+
+    def test_builder_update_rejects_malformed_existing_slot_markers(self) -> None:
+        vault = self.make_workspace()
+        first_result = self.run_builder(vault)
+        self.assertEqual(first_result.returncode, 0, first_result.stdout + first_result.stderr)
+        info_path = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-notes"
+            / "test-campaign-session-12"
+            / "01-session-info.md"
+        )
+        malformed_text = info_path.read_text(encoding="utf-8").replace("<!-- /SLOT -->", "<!-- /SLOT BROKEN -->", 1)
+        info_path.write_text(malformed_text, encoding="utf-8")
+
+        second_result = self.run_builder(vault, update=True)
+
+        self.assertEqual(second_result.returncode, 1)
+        self.assertIn("malformed slot end marker", second_result.stderr)
+        self.assertEqual(malformed_text, info_path.read_text(encoding="utf-8"))
 
     def test_autolink_does_not_link_possessive_owner_without_full_phrase_note(self) -> None:
         vault = self.make_workspace()

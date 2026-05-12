@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-003/cleaned/into-the-chasm-003-source-cleaned.md",
-  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml",
   "beats": [
     {
       "beatId": "beat-001",
@@ -12,6 +12,7 @@
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "The session opens with the party sliding into the arena chamber, the beast calling up living snow around each hero, and the group scrambling through the first exchange while they identify the encounter and try to stabilize their positions.",
       "dateEvidence": [
@@ -29,6 +30,7 @@
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "After the opening scramble, the fight shifts into a tactical middle phase as the party protects Kalima, discovers that the living snows absorb or redirect many attacks, and starts to pivot toward spells, force, and focused pressure on the beast.",
       "dateEvidence": [
@@ -46,6 +48,7 @@
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "The party finally decodes the living snows enough to start killing them efficiently, with Justas recasting Spirit Guardians, Eolo's attacks landing cleanly, and the fight swinging away from survival mode toward control of the chamber.",
       "dateEvidence": [
@@ -63,6 +66,7 @@
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "With most of the echoes stripped away, the last combat phase becomes a direct collapse of the beast's defenses until the party kills it and the chamber itself begins to change.",
       "dateEvidence": [
@@ -80,6 +84,7 @@
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "After the beast dies, the room sheds its frost, Kalima panics toward the new tunnel, the party grabs only a few facts and trophies, and the scene shifts completely when they crawl out onto the cliffside overlooking Melusa and dispatch the fae scout toward the ice palace.",
       "dateEvidence": [
@@ -97,6 +102,7 @@
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "Kalima rushes the group up the switchbacks, warns them to stay unseen, and leads them through the eerie ledge village into Nura and Khalid's house, where the surviving residents receive them as strange but potentially sacred outsiders.",
       "dateEvidence": [
@@ -114,6 +120,7 @@
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "evening",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "Inside the safe house, the party learns how Melusa understands Kestavo, sacrifice, sunset, and survival, while the villagers reveal just enough of their cosmology and fears for the players to realize how deeply isolated the settlement has become.",
       "dateEvidence": [
@@ -131,6 +138,7 @@
       "dateStart": "1730-01-25",
       "dateEnd": null,
       "timeWindow": "night",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "Once the gong rings, the session turns into layered reconnaissance: Ekko scouts the village and the guarded mirror-gash, Finnan uses clairvoyance to inspect the palace and the forming ice bridge, and the party ends by choosing to hide, rest, and face the consequences tomorrow.",
       "dateEvidence": [

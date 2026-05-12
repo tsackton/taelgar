@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1937 | 02:21:06.720-02:21:13.640 | DM] But you can always communicate as part of, like, roleplaying or… or…
 [u1938 | 02:21:14.220-02:21:22.680 | DM] just plot and things like that. Not until you've spent a day here, but… We just sort of assumed…

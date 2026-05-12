@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0384 | 00:29:32.110-00:29:35.220 | DM] One of these appeared near where Kalima is hiding.
 [u0385 | 00:29:35.850-00:29:46.069 | DM] But, let's see… You do have a… you do have a, She's behind an illusion.

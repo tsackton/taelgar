@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1155 | 01:20:18.920-01:20:23.440 | Ekko] Wait, so what is he… why is Eolo hitting everything and, Ekko is missing everything?
 [u1156 | 01:20:23.440-01:20:27.910 | Finnan] I think you're not supposed to attack the one that's a… Assigned to you.

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-003/beat-artifacts/into-the-chasm-003-beats.json",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-beats.json",
   "facts": [
     {
       "beatId": "beat-001",
@@ -13,7 +13,7 @@
         "kind": "fixed",
         "primary": "Zeyfa's Labyrinth",
         "context": "Black-stone chamber",
-        "notes": "Canonicalized from the existing session summary; the transcript describes a dark black-stone pit with icy ground and walls as a chamber inside the labyrinth."
+        "notes": "The transcript describes a dark black-stone pit with icy ground and walls, continuing from the labyrinth chamber reached at the end of the previous session."
       },
       "npcs": [
         {
@@ -169,8 +169,8 @@
       "longSummary": "The chamber sheds its frost and opens a dirt-scented tunnel, but the party delays just long enough for Finnan to pull three facts from the beast and for Justas to hack off its head as a trophy. They crawl through the permafrost passage, emerge onto a narrow switchback above the Great Chasm, and send Finnan's fey spirit toward the Ice Palace to seek an audience with Forquarion the Frostbinder.",
       "location": {
         "kind": "journey",
-        "from": "Black-stone chamber",
-        "to": "Melusa",
+        "from": "black-stone chamber (Zeyfa's Labyrinth)",
+        "to": "cliffside path (Melusa)",
         "context": "through the earthen tunnel opened in the chamber floor and out onto Melusa's lower cliffside paths",
         "notes": "The beat is the transition out of Zeyfa's Labyrinth: the party leaves the black-stone chamber, crawls through the new earthen passage, and emerges onto the lower cliffside approach that belongs to Melusa."
       },
@@ -208,11 +208,10 @@
       "shortSummary": "Kalima hustles the party up the switchbacks and quietly into Melusa, where the village's five gashes and looming ice wolf show that something has changed.",
       "longSummary": "From the cliffside path the party gets its first clear look at Melusa, the waterfall-fed pond at its center, and the floating rocks around the Great Chasm. Kalima insists they stay hidden, points out that five jagged gashes have appeared in the cliff face beneath a huge ice wolf statue, and leads them into her sister Nura and brother-in-law Khaled's house.",
       "location": {
-        "kind": "journey",
-        "from": "Melusa",
-        "to": "Nura and Khaled's house",
-        "context": "from Melusa's lower cliffside paths up into the ledge village and into Kalima's family house",
-        "notes": "The cliffside switchbacks and approach paths are treated here as part of Melusa rather than a separate location; the beat covers moving through that outer approach and reaching the family house."
+        "kind": "fixed",
+        "primary": "Melusa",
+        "context": "lower cliffside paths, ledge village, and Kalima's family house",
+        "notes": "The beat covers movement through sublocations within Melusa rather than travel between separate named places."
       },
       "npcs": [
         {
@@ -292,7 +291,13 @@
         }
       ],
       "items": [],
-      "organizations": [],
+      "organizations": [
+        {
+          "name": "Kestavo",
+          "role": "mentioned",
+          "notes": "The conversation focuses on Melusa's half-remembered stories of Kestavo and the villagers' belief that no Kestavo are present there."
+        }
+      ],
       "combat": {
         "isCombat": false
       }
@@ -310,7 +315,20 @@
         "context": "Nura and Khaled's house, Melusa's ledge village and cliff face, and remote scouting of the Ice Palace",
         "notes": "Primary on-stage action remains based in Melusa, including the house, the village clusters, and the cliff face with the gashes, while Ekko scouts locally and Finnan observes the palace remotely."
       },
-      "npcs": [],
+      "npcs": [
+        {
+          "name": "human guards",
+          "role": "encountered",
+          "context": "watchers at the mirror-gash",
+          "notes": "Ekko sees four human guards posted at the mirror-like gash near the ice wolf statue and guard wisps."
+        },
+        {
+          "name": "Ice Palace soldiers",
+          "role": "encountered",
+          "context": "patrol seen by Clairvoyance",
+          "notes": "Finnan sees armed soldiers in the Ice Palace as the ice bridge grows toward Melusa and they discuss hunting a trickster spirit."
+        }
+      ],
       "items": [
         {
           "name": "Sylvan-inscribed disk",

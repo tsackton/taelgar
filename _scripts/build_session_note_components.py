@@ -51,6 +51,17 @@ class SectionRange:
     end: int
 
 
+@dataclass
+class SlotRange:
+    name: str
+    start: int
+    end: int
+
+
+class ComponentSlotParseError(Exception):
+    pass
+
+
 class ResolutionResult:
     def __init__(self, name: str, note: Optional[Dict[str, Any]], warning: Optional[str] = None) -> None:
         self.name = name
@@ -175,7 +186,9 @@ def parse_args(campaigns: Dict[str, Dict[str, Any]]) -> argparse.Namespace:
     )
     parser.add_argument("-c", "--campaign", required=True, help="Campaign code or alias.")
     parser.add_argument("-n", "--session", required=True, type=int, help="Session number.")
-    parser.add_argument("--overwrite", action="store_true", help="Overwrite existing generated component files.")
+    mode_group = parser.add_mutually_exclusive_group()
+    mode_group.add_argument("--overwrite", action="store_true", help="Overwrite existing generated component files.")
+    mode_group.add_argument("--update", action="store_true", help="Add missing generated slots without changing existing slots.")
     return parser.parse_args()
 
 
@@ -201,8 +214,8 @@ def main() -> int:
     component_dir.mkdir(parents=True, exist_ok=True)
     component_paths = [component_dir / filename for filename, _title, _slot_key in COMPONENT_SPECS]
     try:
-        ensure_component_files_writable(component_paths, overwrite=args.overwrite)
-    except FileExistsError as exc:
+        ensure_component_files_writable(component_paths, overwrite=args.overwrite, update=args.update)
+    except (FileExistsError, ComponentSlotParseError) as exc:
         print(f"ERROR: {exc}")
         return 1
 
@@ -215,16 +228,21 @@ def main() -> int:
         display_metadata=display_metadata,
     )
 
-    for filename, title, slot_key in COMPONENT_SPECS:
-        path = component_dir / filename
-        write_component_file(
-            path,
-            title=title,
-            session_manifest=str(session_manifest),
-            slots=slots[slot_key],
-            overwrite=args.overwrite,
-        )
-        print(f"Wrote {path}")
+    try:
+        for filename, title, slot_key in COMPONENT_SPECS:
+            path = component_dir / filename
+            write_component_file(
+                path,
+                title=title,
+                session_manifest=str(session_manifest),
+                slots=slots[slot_key],
+                overwrite=args.overwrite,
+                update=args.update,
+            )
+            print(f"Wrote {path}")
+    except (FileExistsError, ComponentSlotParseError) as exc:
+        print(f"ERROR: {exc}")
+        return 1
 
     note_root = VAULT_ROOT / str(config["campaignRoot"])
     note_filename = render_note_filename(str(config["notePattern"]), args.session)
@@ -874,6 +892,16 @@ def build_slots(
     info_slots["locations.inline"] = render_inline_location_links(recap["locations"], note_index)
     review_lines.extend(location_reviews)
 
+    groups_text, group_reviews = render_entity_slot(
+        recap["organizations"],
+        note_index,
+        include_history=True,
+        campaign_slug=campaign_slug,
+        display_metadata=display_metadata,
+    )
+    info_slots["groups"] = groups_text
+    review_lines.extend(group_reviews)
+
     info_slots["combat.summary"] = render_combat_slot(recap["combat"])
 
     items_text, item_reviews = render_entity_slot(
@@ -1160,6 +1188,7 @@ AUTOLINK_SLOT_NAMES = {
     "cast",
     "locations",
     "locations.inline",
+    "groups",
     "combat.summary",
     "items.treasure",
     "updates.whereabouts.party",
@@ -1332,14 +1361,30 @@ def render_scalar(value: Any) -> str:
     return "" if value is None else str(value).strip()
 
 
-def ensure_component_files_writable(paths: Sequence[Path], *, overwrite: bool = False) -> None:
+SLOT_START_RE = re.compile(r"^\s*<!--\s*SLOT:\s*(?P<name>[^>]+?)\s*-->\s*$")
+SLOT_END_RE = re.compile(r"^\s*<!--\s*/SLOT\s*-->\s*$")
+
+
+def ensure_component_files_writable(
+    paths: Sequence[Path],
+    *,
+    overwrite: bool = False,
+    update: bool = False,
+) -> None:
     if overwrite:
+        return
+    if update:
+        for path in paths:
+            if path.exists():
+                parse_component_slots(path.read_text(encoding="utf-8"), path)
         return
     existing = [path for path in paths if path.exists()]
     if not existing:
         return
     formatted = ", ".join(str(path) for path in existing)
-    raise FileExistsError(f"generated component file already exists; pass --overwrite to replace: {formatted}")
+    raise FileExistsError(
+        f"generated component file already exists; pass --overwrite to replace or --update to add missing slots: {formatted}"
+    )
 
 
 def write_component_file(
@@ -1349,8 +1394,22 @@ def write_component_file(
     session_manifest: str,
     slots: Dict[str, str],
     overwrite: bool = False,
+    update: bool = False,
 ) -> None:
-    ensure_component_files_writable([path], overwrite=overwrite)
+    ensure_component_files_writable([path], overwrite=overwrite, update=update)
+    if update and path.exists():
+        existing_text = path.read_text(encoding="utf-8")
+        updated_text = insert_missing_component_slots(existing_text, path, slots)
+        if updated_text != existing_text:
+            path.write_text(updated_text, encoding="utf-8")
+        return
+
+    text = render_component_file_text(title=title, session_manifest=session_manifest, slots=slots)
+    validate_no_frontmatter_wikilinks(text.splitlines(), path)
+    path.write_text(text, encoding="utf-8")
+
+
+def render_component_file_text(*, title: str, session_manifest: str, slots: Dict[str, str]) -> str:
     lines: List[str] = [
         "---",
         'excludePublish: ["all"]',
@@ -1366,8 +1425,124 @@ def write_component_file(
             lines.append(slot_body)
         lines.append("<!-- /SLOT -->")
         lines.append("")
-    validate_no_frontmatter_wikilinks(lines, path)
-    path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8")
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def parse_component_slots(text: str, path: Path) -> Dict[str, SlotRange]:
+    slots: Dict[str, SlotRange] = {}
+    open_name: Optional[str] = None
+    open_start: Optional[int] = None
+    for index, raw_line in enumerate(text.splitlines(keepends=True)):
+        line = raw_line.rstrip("\r\n")
+        start_match = SLOT_START_RE.match(line)
+        end_match = SLOT_END_RE.match(line)
+        if start_match:
+            if open_name is not None:
+                raise ComponentSlotParseError(
+                    f"malformed slot markers in {path}: slot '{open_name}' is not closed before line {index + 1}"
+                )
+            name = start_match.group("name").strip()
+            if not name:
+                raise ComponentSlotParseError(f"malformed slot marker in {path}: empty slot name on line {index + 1}")
+            if name in slots:
+                raise ComponentSlotParseError(f"duplicate slot '{name}' in {path}")
+            open_name = name
+            open_start = index
+            continue
+        if end_match:
+            if open_name is None or open_start is None:
+                raise ComponentSlotParseError(
+                    f"malformed slot markers in {path}: stray closing marker on line {index + 1}"
+                )
+            slots[open_name] = SlotRange(name=open_name, start=open_start, end=index + 1)
+            open_name = None
+            open_start = None
+            continue
+        if "<!-- SLOT:" in line:
+            raise ComponentSlotParseError(f"malformed slot start marker in {path} on line {index + 1}: {line.strip()}")
+        if "<!-- /SLOT" in line:
+            raise ComponentSlotParseError(f"malformed slot end marker in {path} on line {index + 1}: {line.strip()}")
+    if open_name is not None:
+        raise ComponentSlotParseError(f"malformed slot markers in {path}: slot '{open_name}' is missing a closing marker")
+    return slots
+
+
+def insert_missing_component_slots(text: str, path: Path, slots: Dict[str, str]) -> str:
+    lines = text.splitlines(keepends=True)
+    existing_slots = parse_component_slots(text, path)
+    missing_insertions = build_missing_slot_insertions(lines, existing_slots, slots)
+    if not missing_insertions:
+        return text
+    for insert_at, inserted_lines in sorted(missing_insertions, key=lambda item: item[0], reverse=True):
+        lines[insert_at:insert_at] = inserted_lines
+    return "".join(lines)
+
+
+def build_missing_slot_insertions(
+    lines: Sequence[str],
+    existing_slots: Dict[str, SlotRange],
+    slots: Dict[str, str],
+) -> List[Tuple[int, List[str]]]:
+    canonical_slot_names = list(slots)
+    insertions: List[Tuple[int, List[str]]] = []
+    index = 0
+    while index < len(canonical_slot_names):
+        if canonical_slot_names[index] in existing_slots:
+            index += 1
+            continue
+        run_start = index
+        missing_names: List[str] = []
+        while index < len(canonical_slot_names) and canonical_slot_names[index] not in existing_slots:
+            missing_names.append(canonical_slot_names[index])
+            index += 1
+
+        next_existing = first_existing_slot_name(canonical_slot_names[index:], existing_slots)
+        if next_existing is not None:
+            insert_at = existing_slots[next_existing].start
+        else:
+            previous_existing = first_existing_slot_name(reversed(canonical_slot_names[:run_start]), existing_slots)
+            if previous_existing is not None:
+                insert_at = skip_blank_lines(lines, existing_slots[previous_existing].end)
+            else:
+                insert_at = len(lines)
+
+        inserted_lines: List[str] = []
+        if needs_insert_separator(lines, insert_at):
+            inserted_lines.append("\n")
+        for slot_name in missing_names:
+            inserted_lines.extend(render_slot_block_lines(slot_name, slots[slot_name]))
+        insertions.append((insert_at, inserted_lines))
+    return insertions
+
+
+def first_existing_slot_name(names: Iterable[str], existing_slots: Dict[str, SlotRange]) -> Optional[str]:
+    for name in names:
+        if name in existing_slots:
+            return name
+    return None
+
+
+def skip_blank_lines(lines: Sequence[str], index: int) -> int:
+    while index < len(lines) and not lines[index].strip():
+        index += 1
+    return index
+
+
+def needs_insert_separator(lines: Sequence[str], insert_at: int) -> bool:
+    if insert_at <= 0:
+        return False
+    previous = lines[insert_at - 1]
+    return bool(previous.strip())
+
+
+def render_slot_block_lines(slot_name: str, slot_body: str) -> List[str]:
+    lines = [f"<!-- SLOT: {slot_name} -->\n"]
+    body = slot_body.rstrip("\n")
+    if body:
+        lines.extend(f"{line}\n" for line in body.split("\n"))
+    lines.append("<!-- /SLOT -->\n")
+    lines.append("\n")
+    return lines
 
 
 def validate_no_frontmatter_wikilinks(lines: Sequence[str], path: Path) -> None:

@@ -1,6 +1,6 @@
 # Beat Facts Preview
 
-- Beats file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-003/beat-artifacts/into-the-chasm-003-beats.json
+- Beats file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-beats.json
 - Beat count: 8
 
 ## Ambush in the Pit
@@ -17,7 +17,7 @@
 **Long Summary**: Fresh from the slide into the chamber, the party gets its first clear look at the shaggy white beast and the strange Living Snow echoes it raises from the icy ground around each hero. The beat is about surviving the opening scramble, realizing the echoes can slow and harry them, and keeping Kalima hidden behind Finnan's illusion.
 **Location**:
 - Zeyfa's Labyrinth: Black-stone chamber
-  Note: Canonicalized from the existing session summary; the transcript describes a dark black-stone pit with icy ground and walls as a chamber inside the labyrinth.
+  Note: The transcript describes a dark black-stone pit with icy ground and walls, continuing from the labyrinth chamber reached at the end of the previous session.
 **NPCs**:
 - Kalima (companion): hidden survivor. Sheltered behind Finnan's illusion while the chamber erupts into combat.
 **Items**: none
@@ -92,7 +92,7 @@
 **Short Summary**: After the beast dies, the party takes a trophy, learns three truths about it, and follows Kalima through the new earthen tunnel to a cliffside overlook above Melusa.
 **Long Summary**: The chamber sheds its frost and opens a dirt-scented tunnel, but the party delays just long enough for Finnan to pull three facts from the beast and for Justas to hack off its head as a trophy. They crawl through the permafrost passage, emerge onto a narrow switchback above the Great Chasm, and send Finnan's fey spirit toward the Ice Palace to seek an audience with Forquarion the Frostbinder.
 **Location**:
-- Black-stone chamber -> Melusa: through the earthen tunnel opened in the chamber floor and out onto Melusa's lower cliffside paths
+- black-stone chamber (Zeyfa's Labyrinth) -> cliffside path (Melusa): through the earthen tunnel opened in the chamber floor and out onto Melusa's lower cliffside paths
   Note: The beat is the transition out of Zeyfa's Labyrinth: the party leaves the black-stone chamber, crawls through the new earthen passage, and emerges onto the lower cliffside approach that belongs to Melusa.
 **NPCs**:
 - Kalima (companion): guide. Recognizes the tunnel as a possible way out and hurries the party through it.
@@ -110,8 +110,8 @@
 **Short Summary**: Kalima hustles the party up the switchbacks and quietly into Melusa, where the village's five gashes and looming ice wolf show that something has changed.
 **Long Summary**: From the cliffside path the party gets its first clear look at Melusa, the waterfall-fed pond at its center, and the floating rocks around the Great Chasm. Kalima insists they stay hidden, points out that five jagged gashes have appeared in the cliff face beneath a huge ice wolf statue, and leads them into her sister Nura and brother-in-law Khaled's house.
 **Location**:
-- Melusa -> Nura and Khaled's house: from Melusa's lower cliffside paths up into the ledge village and into Kalima's family house
-  Note: The cliffside switchbacks and approach paths are treated here as part of Melusa rather than a separate location; the beat covers moving through that outer approach and reaching the family house.
+- Melusa: lower cliffside paths, ledge village, and Kalima's family house
+  Note: The beat covers movement through sublocations within Melusa rather than travel between separate named places.
 **NPCs**:
 - Kalima (companion): guide. Leads the party home, warns them to stay hidden, and introduces them to her family.
 - Nura (encountered): host. Kalima's sister, shocked but willing to shelter the party.
@@ -138,7 +138,8 @@
 - Kalima (encountered): translator and witness. Adds details about recent sunset and helps bridge the party's questions with her family's worldview.
 - Samir (encountered): infant. Unusually quiet baby whose soul may 'remember too much,' according to Nura.
 **Items**: none
-**Organizations**: none
+**Organizations**:
+- Kestavo (mentioned): The conversation focuses on Melusa's half-remembered stories of Kestavo and the villagers' belief that no Kestavo are present there.
 
 ## Portals and Night Watch
 *beat-008*
@@ -151,7 +152,9 @@
 **Location**:
 - Melusa: Nura and Khaled's house, Melusa's ledge village and cliff face, and remote scouting of the Ice Palace
   Note: Primary on-stage action remains based in Melusa, including the house, the village clusters, and the cliff face with the gashes, while Ekko scouts locally and Finnan observes the palace remotely.
-**NPCs**: none
+**NPCs**:
+- human guards (encountered): watchers at the mirror-gash. Ekko sees four human guards posted at the mirror-like gash near the ice wolf statue and guard wisps.
+- Ice Palace soldiers (encountered): patrol seen by Clairvoyance. Finnan sees armed soldiers in the Ice Palace as the ice bridge grows toward Melusa and they discuss hunting a trickster spirit.
 **Items**:
 - Sylvan-inscribed disk (encountered): Seen via Clairvoyance in the Ice Palace tower as a circular surface marked with dense Sylvan writing and a glowing point of light.
 **Organizations**: none
