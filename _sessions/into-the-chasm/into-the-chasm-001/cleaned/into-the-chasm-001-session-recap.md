@@ -196,13 +196,13 @@ Dragged from the Great Chasm by a white storm, the party wakes on a floating ice
 - Enemies: none
 
 #### Short
-The Great Chasm grows steadily more ominous until the party and a terrified Zimkovan woman are swept away in a white storm.
+Months of ominous signs associated with the Great Chasm culminate in five days of black skies, before a whiteout storm drags Justas, Finnan, Jrain, Ekko, Eolo, and a strange Zimkovan woman into the chasm.
 
 #### Intermediate
-Worsening signs and a vanished Vejo Vaikai expedition frame the chasm as a place already slipping out of control. That fear becomes immediate when the adventurers are torn from safety and forced to hold onto whatever gear they can keep while falling into darkness.
+Months of ominous signs associated with the Great Chasm, ranging from warm thunder to a living sheet of ice and culminating in five days of black skies, prompt the Vejo Vaikai to send a group protected by warriors from Kemenko to investigate. The omens, the failure of the Vejo Vaikai to return, and the emergence of a strange Zimkovan woman from the chasm draw five adventurers -- Justas, Finnan, Jrain, Ekko, and Eolo -- to the edges of the Great Chasm, where a sudden white storm drags them, and the Zimkovan woman, into the depths below. 
 
 #### Long
-Impossible weather, mounting dread, and failed investigation make the Great Chasm dangerous before anyone falls. Against that background, the party and the woman later identified as Kalima are seized by a blinding storm and carried downward, able to save only a few belongings before the fall ends somewhere unknown.
+For generations, the Great Chasm has split Zimkova as an endless cleft of strange lights, impossible structures, gravity-defying winds, and unseasonable growths. For months, ominous signs issuing from the chasm, ranging from warm thunder to a living sheet of ice, have brought uncertainty and concern to the people of [[Zimkova]]. When the sky above the chasm turns black for five days, an expedition of the Vejo Vaikai expedition with Kemeko warriors investigates. But they do not return; instead, a strange woman speaking Old Zimkovan emerges from the chasm. These omens draw five adventurers -- Jrain, Justas, Finnan, Ekko, and Eolo -- to the edge of the Great Chasm, where a sudden supernatural storm of blowing white drags them, and the Zimkovan woman, down. As they fall, the wind blowing around them, each struggles to hold on to their gear as they plummet into the unknown. 
 
 ### recap-002 | Strangers on the Ice
 
@@ -226,7 +226,7 @@ Beneath a howling white storm and above a black void, the group finds itself str
 #### Long
 The platform offers no safety, only a narrow pause before the next danger. As the adventurers wake, trade names, and try to understand the terrified woman with them, the frozen wolves at the bridge mouths become the obvious threat. The uneasy calm ends when Eolo approaches one of them and wakes the whole platform.
 
-### recap-003 | Ice Wolves Awaken to Darkness and Final Blows
+### recap-003 | Ice Wolves Awaken
 
 - Kind: combat
 - Beat IDs: beat-003, beat-004, beat-005
