@@ -1,8 +1,8 @@
 # Beat Context Index
 
-- Source transcript: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md
-- Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/cleaned/into-the-chasm-004-session.yaml
-- Beats file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/beat-artifacts/into-the-chasm-004-beats.json
+- Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md
+- Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-session.yaml
+- Beats file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-beats.json
 - Selected beats: 6
 
 ## beat-001 - Kalima Slips Into Night

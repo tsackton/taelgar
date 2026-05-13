@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0229 | 00:20:27.270-00:20:31.109 | DM] You wake up feeling… somewhat refreshed.
 [u0230 | 00:20:35.680-00:20:36.870 | Audio shared by Mike] the.

@@ -1,6 +1,6 @@
 # Beat Facts Preview
 
-- Beats file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-006/cleaned/into-the-chasm-006-beats.json
+- Beats file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-beats.json
 - Beat count: 7
 
 ## Hall of Pillars

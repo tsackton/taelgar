@@ -3,14 +3,16 @@
 ## Session Header
 
 - Title: The Rescue of Melusa
-- Tagline: in which Melusa finally opens
-- One-Sentence Summary: The party recovers the keystone, returns to Melusa under cover of night, evacuates those willing to flee, and helps Eidrikas stabilize the chasm machinery.
+- Desc Title: The Portal Narrows
+- Tagline: in which the willing escape Melusa
+- One-Sentence Summary: The party recovers the keystone, delays the repair long enough to return to Melusa, rescues the villagers willing to flee, and begins arranging their survival in the true Great Chasm.
 - Campaign: Into the Chasm
+- Scope: session
 - Session Number: 6
 - DR Date: 1730-01-29
 - Real Date: 2026-02-04
 - DM: Mike Sackton
-- PCs: Tim Sackton, Kate Sackton, Eric Rosenbaum, David Kong, David Schwartz
+- PCs: Finnan, Jrain, Eolo, Ekko, Justas
 
 ## Timeline
 
@@ -27,10 +29,10 @@
 - Combat Beats: none
 
 #### Short
-The party secures the stolen keystone in the lower hall, returns it to Eidrikas, and chooses one last detour to Melusa before repairing the mechanism.
+The keystone is recovered and carried back to Eidrikas before the party delays the repair for Melusa.
 
 #### Long
-After clearing the lower hall of orcs, the party studies the black pillars, glowing hatches, and recovered keystone. When the stone nearly lures Eolo toward the depths, they contain it, carry it back to Eidrikas, and decide to use their remaining time for a final trip to Melusa before the repair closes unstable portals.
+In the lower engine hall, the party studies the black pillars and secures the keystone after its pull nearly draws Eolo downward. Eidrikas confirms the repair will likely close the unstable portals, and the group chooses one final return to Melusa before restoring the mechanism.
 
 ### Jan 29th, 1730 (night)
 
@@ -45,10 +47,10 @@ After clearing the lower hall of orcs, the party studies the black pillars, glow
 - Combat Beats: beat-003, beat-006
 
 #### Short
-After nightfall, the party fights back into Melusa, gathers the willing, runs a desperate portal evacuation, and turns the refugees' survival into a practical resettlement plan.
+The party returns to Melusa, evacuates the willing through the wisp-choked portal, and begins arranging shelter.
 
 #### Long
-A short rest carries them into starlight, but their return to Melusa is met by a wisp swarm and a village thrown into uncertainty after the palace guard falls. They find Zahara, rally only a fraction of the settlement, force that group through the portal under fire, and then work with Eidrikas on the first real plan to feed, shelter, and eventually resettle the refugees.
+The return opens into a wisp swarm and a village unsettled by the ruined guard post, dead ice wolf, and missing Vaqar. Zahara's faction and a few others flee through a dangerous extraction, after which Eidrikas and the party begin the practical work of shelter, food, and resettlement.
 
 ## Recap
 
@@ -58,7 +60,7 @@ A short rest carries them into starlight, but their return to Melusa is met by a
 - Beat IDs: beat-001
 - Date: 1730-01-29
 - Time: afternoon
-- Transcript Range: u0001 -> u0412
+- Source Range: u0001 -> u0412
 - Locations: Great Chasm
 - NPCs: none
 - Organizations: none
@@ -66,13 +68,13 @@ A short rest carries them into starlight, but their return to Melusa is met by a
 - Enemies: none
 
 #### Short
-With the last orc dead, the party searches the shattered lower hall, studies the black pillars and glowing hatches, and recovers the keystone from the far side of the chamber.
+In the damaged lower hall, the party searches the aftermath of the orc fight and finds the keystone among black pillars and active hatches.
 
 #### Intermediate
-They use the lull after the fight to inspect the runic engine's lower hall, confirm the pillars and hatches are still active, and take stock of the carved black stone the orcs stole. The room makes clear how much of the mechanism still extends below them.
+The chamber below Eidrikas's platform proves larger and stranger than the chase allowed them to see. Six light-drinking pillars pass through the hall, glowing hatches ring their bases, and the carved keystone lies where the orcs dropped it.
 
 #### Long
-With the orcs dead, the party finally gets time to inspect the vast lower hall beneath Eidrikas's position. They study the light-drinking black pillars, the debris and hatchwork around their bases, and the carved keystone the raiders had dropped at the far edge of the chamber, realizing the machinery continues downward below them.
+With the last orc dead, the party finally has time to read the shape of the lower engine hall. The black pillars continue through the floor into deeper machinery, debris marks the violence of the earlier fight, and the keystone waits at the far end of the chamber amid a system that is still active and not fully understood.
 
 ### recap-002 | Stone Returned to Eidrikas
 
@@ -80,7 +82,7 @@ With the orcs dead, the party finally gets time to inspect the vast lower hall b
 - Beat IDs: beat-002
 - Date: 1730-01-29
 - Time: afternoon
-- Transcript Range: u0413 -> u0733
+- Source Range: u0413 -> u0733
 - Locations: Great Chasm
 - NPCs: Eidrikas
 - Organizations: none
@@ -88,13 +90,13 @@ With the orcs dead, the party finally gets time to inspect the vast lower hall b
 - Enemies: none
 
 #### Short
-When the stone's pull nearly sends Eolo into the depths, Finnan steadies him, the party wraps the keystone, and they bring it back to Eidrikas for counsel.
+When the keystone's pull threatens Eolo, Finnan steadies him, the party wraps the stone, and the group carries it back to Eidrikas.
 
 #### Intermediate
-Finnan's calm emotions breaks the keystone's immediate hold on Eolo, and the group improvises a way to carry the unnaturally light stone safely. Back at the floating platform, Eidrikas confirms that restoring it would stabilize the machinery and likely close the unstable portals.
+The recovered stone proves dangerous as soon as Eolo moves to throw it away, drawing him toward the hatches until Finnan suppresses the charm with calm emotions. The group contains the unnaturally light keystone, returns to Eidrikas's platform, and learns that restoring it should stabilize the mechanism while closing the unstable openings.
 
 #### Long
-The keystone proves dangerous even after recovery, almost drawing Eolo toward the glowing hatches until Finnan's calm emotions suppresses its pull and the group hastily wraps it for transport. When they bring it back to Eidrikas, he confirms that the stone is the missing arc in the mechanism and that restoring it would likely close the unstable portals, so the party decides to use the little time he can still hold out for one last return to Melusa.
+The keystone almost turns recovery into another disaster when its strange pull fixes on Eolo and urges him toward the depths below the hatches. Finnan's calm emotions buys the party enough control to wrap the stone and carry it safely back through the machinery. Eidrikas recognizes it as the missing arc of the chasm engine, but because restoring it may close the portal to Melusa, the party chooses a short rest and one last rescue attempt before the repair is made.
 
 ### recap-003 | Night Return to Melusa
 
@@ -102,7 +104,7 @@ The keystone proves dangerous even after recovery, almost drawing Eolo toward th
 - Beat IDs: beat-003
 - Date: 1730-01-29
 - Time: night
-- Transcript Range: u0734 -> u0959
+- Source Range: u0734 -> u0959
 - Locations: Great Chasm, Melusa
 - NPCs: none
 - Organizations: none
@@ -110,13 +112,13 @@ The keystone proves dangerous even after recovery, almost drawing Eolo toward th
 - Enemies: Portal wisps
 
 #### Short
-After a short rest under the first stars, they step through the white portal into Melusa and have to fight clear of a dense swarm of portal wisps.
+After nightfall, they return through the white portal and break away from a cloud of portal wisps clustered around the ruined guard site.
 
 #### Intermediate
-They delay the repair just long enough for a short rest, wait for full night, and go back through the portal expecting a quick errand. Instead they burst through a cloud of glowing white wisps beside the shattered ice wolf and have to run clear before they can even read the state of the village.
+The short rest carries the chasm side into starlight, and the party steps back through expecting a fast errand. Instead, glowing white wisps swarm them beside the shattered ice wolf, forcing them to retreat from the portal before they can judge what has happened in Melusa.
 
 #### Long
-A short rest on the true-chasm side carries the day fully into starlight, and then the party steps back through the white portal expecting only a hurried rescue errand. Instead they emerge into a dense cloud of crackling wisps beside the broken ice wolf, retreat from the portal under a hail of shocks, and only once they have space do they see the dark palace, the abandoned guard post, and the unnervingly silent village around the salmon pool.
+By the time the party finishes resting, stars are visible over the true chasm, and the white portal still hangs open. Their return to Melusa drops them directly into a dense mass of crackling portal wisps around the broken ice wolf and the damaged plaza. They fight and run their way clear, then take in the dark palace, the empty guard position, the ash-marked wreckage, and the silent village around the salmon pool.
 
 ### recap-004 | Refugees Gathered
 
@@ -124,7 +126,7 @@ A short rest on the true-chasm side carries the day fully into starlight, and th
 - Beat IDs: beat-004
 - Date: 1730-01-29
 - Time: night
-- Transcript Range: u0960 -> u1209
+- Source Range: u0960 -> u1209
 - Locations: Melusa
 - NPCs: Zahara
 - Organizations: none
@@ -132,13 +134,13 @@ A short rest on the true-chasm side carries the day fully into starlight, and th
 - Enemies: none
 
 #### Short
-Once clear, they find Zahara and her allies hiding in a cramped house and learn that something from the ash realm smashed the guards and the ice wolf.
+Once clear, they find Zahara's group in hiding and learn that a giant force from the ash portal smashed the guards and scattered the village's certainty.
 
 #### Intermediate
-The palace is dark, the guard post is empty, and Zahara's side of the village is huddled around the aftermath of a failed escape. In a cramped safehouse she explains that a giant fist from the ash realm destroyed the guards and that only a few people are truly ready to flee.
+The party chooses the dissidents over the dark palace and reaches Zahara's cramped safehouse, where a failed escape has already left a body behind. Zahara explains that the cracks worsened, something vast from the ash realm destroyed the guards and ice wolf, and only a small group is ready to risk the portal.
 
 #### Long
-Rather than spend time on the darkened palace, the party heads for Zahara's side of Melusa and finds her crowded into a small house with a few allies and the body of someone who died trying to cross the white lights alone. Zahara explains that the cracks worsened, a gigantic fist burst from the ash realm and smashed the guards and the ice wolf, and now only a small number of villagers are prepared to gamble on escape, forcing the party to settle on a rapid evacuation instead of persuasion.
+Rather than spend their remaining time probing the darkened palace, the party heads toward Iskander's side of Melusa and finds Zahara crowded into a small house with a few allies and the body of someone killed by the white lights. Zahara tells them that a house-sized fist burst from the ash realm, smashed the guards and ice wolf, and left no one certain what became of Malquin the Vaqar. With the village frightened and divided, the party turns from general persuasion to the narrower task of moving whoever is already willing.
 
 ### recap-005 | The Town Crier's Plea
 
@@ -146,7 +148,7 @@ Rather than spend time on the darkened palace, the party heads for Zahara's side
 - Beat IDs: beat-005
 - Date: 1730-01-29
 - Time: night
-- Transcript Range: u1210 -> u1485
+- Source Range: u1210 -> u1485
 - Locations: Melusa
 - NPCs: Older Melusan woman, Iskander, Kalima
 - Organizations: none
@@ -154,13 +156,13 @@ Rather than spend time on the darkened palace, the party heads for Zahara's side
 - Enemies: none
 
 #### Short
-Finnan then turns himself into a town crier, but an older woman's challenge leaves most of Melusa wavering and only a smaller crowd willing to risk escape.
+Finnan's public warning draws a crowd, but an older woman's challenge leaves most of Melusa behind and concentrates the rescue on the willing.
 
 #### Intermediate
-Finnan walks the lanes with loud music and a blunt warning that the gateway will not remain open, drawing dozens of villagers into the square. An older woman publicly blames the party for the new curse, and the crowd's hesitation convinces the group to stop chasing a mass conversion and focus on those already willing.
+Finnan moves through the village with music and urgent warnings, telling people the gateway will not stay open. An older woman blames the party for the crisis and defends the absent ruler's order, so the group stops trying to convert the whole settlement and gathers the smaller crowd already clustering near Ekko's polar bear form.
 
 #### Long
-Finnan takes to the lanes with fiddle and warning song, telling the people of Melusa that the gateway will not stay open and that those who want to leave must seize a narrow moment when the white lights are distracted. The performance draws a crowd, but an older woman turns the square against him by accusing the party of bringing the curse and arguing that even a capricious god is better than no god at all, so the group abandons any hope of moving the whole settlement and gathers around the thirty-odd people already clustering near Ekko's polar bear form.
+Finnan turns the rescue into a public summons, using music, projection, and plain warning to tell Melusa that anyone who wants out must be ready when the dangerous lights are drawn away. The appeal brings people into the square, but an older woman answers him with accusation, calling the party the source of the curse and arguing that a capricious god is still better than no god. The crowd hesitates, Kalima and Iskander's group remain among the willing, and the party decides that saving the committed thirty-odd people is better than risking everyone on an uncertain deception or confrontation.
 
 ### recap-006 | Evacuation Through the Wisps
 
@@ -168,7 +170,7 @@ Finnan takes to the lanes with fiddle and warning song, telling the people of Me
 - Beat IDs: beat-006
 - Date: 1730-01-29
 - Time: night
-- Transcript Range: u1486 -> u1934
+- Source Range: u1486 -> u1934
 - Locations: Melusa, Great Chasm
 - NPCs: Eidrikas
 - Organizations: none
@@ -176,13 +178,13 @@ Finnan takes to the lanes with fiddle and warning song, telling the people of Me
 - Enemies: Portal wisps
 
 #### Short
-The party commits to that smaller rescue, with Justas and Ekko drawing the wisps, Eolo catching refugees on Eidrikas's platform, and the keystone finally going back into place.
+The party runs the evacuation under pressure, drawing the wisps away while Eolo receives refugees and Eidrikas waits to restore the keystone.
 
 #### Intermediate
-Justas advances under spirit guardians, Finnan's fae scatters darkness through the swarm, Ekko joins him as a polar bear, and Jrain paces each wave so the opening does not choke with panic. On the far side Eolo catches, lines up, and steadies the refugees until the party can signal Eidrikas to restore the keystone.
+Justas advances into the swarm under spirit guardians, Finnan's fae throws darkness through the chaos, and Ekko helps pull the wisps off the portal as a polar bear. Jrain meters the waves of refugees, Eolo organizes them on Eidrikas's platform, and the party holds long enough for the last runners to cross before signaling the repair.
 
 #### Long
-The rescue becomes a round-by-round extraction: Justas strides into the swarm under spirit guardians, Finnan's tricksy fae teleports through the chaos laying down darkness, Ekko joins the distraction as a polar bear, and Jrain meters each wave so the portal does not jam with fear and hesitation. Eolo receives the refugees on Eidrikas's platform, turning panic into something orderly enough to survive, and after nearly everyone is across Justas lingers long enough to batter down the last of the swarm before the party signals Eidrikas to slot the keystone back into place and stabilize the machinery.
+The rescue turns tactical as Justas ties himself off, strides into the white swarm behind shield and spirit guardians, and lets the wisps spend themselves against him while Finnan's tricksy fae blinks through the air spreading darkness. Ekko joins the distraction in polar bear shape, Jrain controls the pace so panic does not jam the narrow portal, and Eolo catches and lines up refugees on the crowded far platform. Once the main group has crossed, Justas stays long enough to thin the remaining wisps and draw one last young villager through, then the party signals Eidrikas to set the keystone back into the mechanism.
 
 ### recap-007 | Aftermath and Debrief
 
@@ -190,7 +192,7 @@ The rescue becomes a round-by-round extraction: Justas strides into the swarm un
 - Beat IDs: beat-007
 - Date: 1730-01-29
 - Time: night
-- Transcript Range: u1935 -> u2228
+- Source Range: u1935 -> u2228
 - Locations: Great Chasm
 - NPCs: Eidrikas
 - Organizations: none
@@ -198,13 +200,13 @@ The rescue becomes a round-by-round extraction: Justas strides into the swarm un
 - Enemies: none
 
 #### Short
-With the portal beginning to peel from the wall, they shift from urgency to logistics and start planning how these refugees can eat, camp, and eventually resettle.
+With the portal peeling away, the rescue becomes logistics: space, food, lifts out of the chasm, and a future home for the Melusans.
 
 #### Intermediate
-Once the mechanism steadies, the rescued Melusans crowd the platform and begin asking practical questions about food, shelter, and a path back out of the chasm. Eidrikas reluctantly shares enough to sketch a real plan: camp on the machinery below, send to Kemeko, and start thinking about Old Zimkovan-speaking villages that could take these people in.
+The repaired mechanism steadies the platform and begins stripping the portal from the wall, leaving the refugees crowded in the true chasm. Eidrikas points them toward safer space below, proposes asking Kemeko for kenku help, and works with the party on the first practical plan for getting people fed, sheltered, lifted out, and eventually resettled.
 
 #### Long
-Once the portal begins to peel from the wall, urgency gives way to the harder question of what survival actually means for the people they have brought out. Eidrikas guides them toward the larger machinery below, suggests calling on Kemeko for more kenku help, explains that nearby tunnels may explain how the orcs reached this sacred layer at all, and helps the party turn the rescue into the first outline of a refugee plan built around camp, food, lifts out of the chasm, and Old Zimkovan-speaking villages farther north.
+Once the keystone is restored, the immediate danger gives way to a platform full of displaced Melusans staring at the true chasm and asking how they can survive it. Eidrikas shifts from secret-keeping to triage, suggests moving the crowd down onto the larger machinery, and identifies Kemeko as the obvious source of kenku help for hauling people out. The party also learns that nearby tunnels may explain how the orcs and Stoneborn reached this sacred layer, but the urgent work is now camp, food, transport, and finding Old Zimkovan-speaking communities that can take the refugees in.
 
 ## Cast
 
@@ -226,22 +228,24 @@ Once the portal begins to peel from the wall, urgency gives way to the harder qu
 
 ## Locations
 
-- Great Chasm: damaged lower hall of the runic engine beneath Eidrikas's platform, threaded with six black pillars and ringed with glowing hatches
-  - visited on 1730-01-29
-  - traveled-through on 1730-01-29
-- Melusa: through the white portal and away from the broken ice-wolf plaza beside the salmon pool
-  - visited on 1730-01-29
-  - traveled-through on 1730-01-29
+- Great Chasm
+  - Summary: sacred chasm machinery site where Eidrikas holds a damaged runic engine together and where the rescued Melusans first emerge into the true world
+  - Sublocations: damaged lower hall of the runic engine beneath Eidrikas's platform, threaded with six black pillars and ringed with glowing hatches
+  - Date Visited: 1730-01-29
+- Melusa
+  - Summary: failing hidden village-realm whose willing dissidents escape through the white portal after the palace guard collapses
+  - Sublocations: through the white portal and away from the broken ice-wolf plaza beside the salmon pool
+  - Date Visited: 1730-01-29
 
 ## Organizations And Items
 
 ### Organizations
 
-- Kemeko Monastery (mentioned): Kenku monastery the party plans to contact for help lifting refugees out of the chasm.
+- Kemeko Monastery (mentioned): Kenku monastery proposed as the source of help for lifting and supporting the Melusan refugees.
 
 ### Items
 
-- Keystone (encountered): Missing runic arc from the chasm mechanism, recovered from the orcs and ultimately returned to Eidrikas to stabilize the machinery.
+- Keystone (encountered): Missing runic arc recovered from the orcs, carried back to Eidrikas, and restored to stabilize the chasm mechanism.
   - Great Chasm, 1730-01-29
   - Melusa -> Great Chasm, 1730-01-29
 
@@ -251,18 +255,18 @@ Once the portal begins to peel from the wall, urgency gives way to the harder qu
 
 - Beat IDs: beat-003
 - Enemies: Portal wisps
-- Context / Outcome: A dense swarm of portal wisps engulfs the party as soon as they return to Melusa, but they pull clear of the portal site without losing anyone and confirm the village is still reachable.
+- Context / Outcome: The party returns to Melusa through a cloud of portal wisps, survives the immediate swarm, and pulls clear enough to assess the village.
 
-### recap-006 | Portal Evacuation
+### recap-006 | Wisp Evacuation
 
 - Beat IDs: beat-006
 - Enemies: Portal wisps
-- Context / Outcome: The party turns the wisp swarm into a holding action long enough to run the willing refugees through the portal, then restores the keystone once the extraction is complete.
+- Context / Outcome: Justas, Ekko, and Finnan's fae draw the portal wisps away long enough for Eolo and Jrain to move the willing refugees through before the keystone is restored.
 
 
 ## Source Files
 
-- Context JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-006/cleaned/into-the-chasm-006-session-summary-context.json
-- Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-006/cleaned/into-the-chasm-006-beats.json
-- Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-006/cleaned/into-the-chasm-006-beat-facts.json
-- Cleaned Transcript: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-006/cleaned/into-the-chasm-006-source-cleaned.md
+- Context JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-session-summary-context.json
+- Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-beats.json
+- Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-beat-facts.json
+- Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-source-cleaned.md

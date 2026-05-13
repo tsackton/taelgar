@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md",
-  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/cleaned/into-the-chasm-004-session.yaml",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-session.yaml",
   "beats": [
     {
       "beatId": "beat-001",
@@ -12,6 +12,7 @@
       "dateStart": "1730-01-26",
       "dateEnd": "1730-01-27",
       "timeWindow": "night",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "The session opens with the party bedding down in Nura and Khaled's hut, then pivots into a tense watch scene when Jrain notices Kalima slipping out with a guide while soldiers search the village, before the group decides not to intervene and lets the rest of the night pass into a completed long rest.",
       "dateEvidence": [
@@ -29,6 +30,7 @@
       "dateStart": "1730-01-27",
       "dateEnd": null,
       "timeWindow": "morning",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "After waking, the party questions the family, hears the baby's unnerving memories of Zahara and a prior fall into the labyrinth, learns Melusa's people believe some children are born with remembering souls, and gathers enough lore about the demiplane, Malquin, and Zahara's circle to choose the troublemakers as their next stop.",
       "dateEvidence": [
@@ -46,6 +48,7 @@
       "dateStart": "1730-01-27",
       "dateEnd": null,
       "timeWindow": "morning",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "The party crosses the village to Iskander, sees the marked doors and quiet aftermath of the soldiers' sweep, and then spends the whole visit extracting the rebels' version of Melusa's history, the crack escape attempts, Malquin's habits, Zahara's hideout, and the rebel movement's actual size and limits.",
       "dateEvidence": [
@@ -63,6 +66,7 @@
       "dateStart": "1730-01-27",
       "dateEnd": null,
       "timeWindow": "morning",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "Once Iskander's factual briefing runs out, the scene shifts into party strategy: they weigh saving villagers against fixing the wider planar crisis, send a warning to Zahara, stage a conspicuous march toward the palace, and test the strange metal crack before publicly demanding that the bridge be extended.",
       "dateEvidence": [
@@ -80,6 +84,7 @@
       "dateStart": "1730-01-27",
       "dateEnd": null,
       "timeWindow": "midday",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "The party crosses the conjured bridge, enters Malquin's palace, and survives a long unstable negotiation in which the lord veers between regal host, terrified captive, and predatory threat before finally agreeing to let them pass and help later if they can prove the outside world is real and safe.",
       "dateEvidence": [
@@ -97,6 +102,7 @@
       "dateStart": "1730-01-27",
       "dateEnd": "1730-01-29",
       "timeWindow": null,
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "With Malquin's leave, the party confirms the ice wolf no longer bars them, pushes through the safe crack into the true chasm, discovers the floating stone mechanism and Eidrikas holding it together in agony, learns that time outside has advanced by four extra days, and ends by choosing to hunt the orcs who stole the missing piece next session.",
       "dateEvidence": [

@@ -2,22 +2,24 @@
 
 ## Session Header
 
-- Title: A Bargain with Malquin
-- Tagline: in which Samir speaks, Malquin bargains, and Eidrikas endures
-- One-Sentence Summary: Kalima vanishes into hiding, the party wins passage through Melusa's safe gash by bargaining with Malquin, and in the true Great Chasm they find Eidrikas holding a broken planar mechanism together.
+- Title: The Safe Gash
+- Desc Title: The Druid in the Circuit
+- Tagline: in which Malquin bargains and Eidrikas endures
+- One-Sentence Summary: After Kalima disappears into Zahara's care, the party confronts Malquin for passage out of Melusa and finds Eidrikas holding the broken chasm mechanism together in the true Great Chasm.
 - Campaign: Into the Chasm
+- Scope: session
 - Session Number: 4
 - DR Date: 1730-01-26 to 1730-01-29
 - Real Date: 2026-01-08
 - DM: Mike Sackton
-- PCs: Tim Sackton, Kate Sackton, Eric Rosenbaum, David Kong, David Schwartz
+- PCs: Finnan, Jrain, Eolo, Ekko, Justas
 
 ## Timeline
 
 ### Jan 26th, 1730 to Jan 27th, 1730 (night)
 
 - Timeline Segment: timeline-001
-- Timeline Key: (DR:: 1730-01-26), night
+- Timeline Key: (DR:: 1730-01-26) - (DR_end:: 1730-01-27), night
 - Resolution: date-range
 - Beat IDs: beat-001
 - Locations: Melusa
@@ -27,10 +29,10 @@
 - Combat Beats: none
 
 #### Short
-Kalima slips from Nura and Khaled's house into the whiteout with Zahara while Malquin's guards search Melusa.
+Kalima leaves Melusa under Zahara's cover while Malquin's guards search the village.
 
 #### Long
-During the night watch, Kalima is quietly led away into the storm as soldiers from the Ice Palace move through Melusa. The party chooses not to pursue into the whiteout and survives the rest of the night in hiding.
+During the night watch, Kalima slips from Nura and Khaled's house with Zahara as Ice Palace soldiers move outside. The party stays hidden and completes its rest.
 
 ### Jan 27th, 1730 (morning)
 
@@ -45,10 +47,10 @@ During the night watch, Kalima is quietly led away into the storm as soldiers fr
 - Combat Beats: none
 
 #### Short
-Samir speaks with Taquin's memories, Iskander explains Melusa's gashes and failed escapes, and the party tests the metal crack before calling the bridge to the Ice Palace.
+Samir reveals Taquin's memories before the party chooses a direct challenge to Malquin.
 
 #### Long
-By morning, the party learns that Samir carries another soul's memories, hears Nura's account of the wrong-soul curse, and turns toward Zahara's dissidents rather than the elders. Iskander then lays out the history of the cracks and the ice wolf, after which the party wounds itself on the metal gash, warns Zahara's circle, and publicly summons the bridge to Malquin's palace.
+Nura explains Melusa's wrong-soul curse, and Iskander gives the rebels' account of the gashes, failed escape attempts, Zahara's refuge, and the ice wolf. The party warns Zahara's circle, takes a shard from the metal gash, and summons the bridge to the Ice Palace.
 
 ### Jan 27th, 1730 (midday)
 
@@ -63,15 +65,15 @@ By morning, the party learns that Samir carries another soul's memories, hears N
 - Combat Beats: none
 
 #### Short
-In the Ice Palace, Malquin demands proof that the outside world is real and sends the party back through the safe gash with his necklace.
+Malquin grants passage only after demanding proof that the outside world is real.
 
 #### Long
-The audience in the Ice Palace reveals a ruler split between fear, grandeur, and the whispers that tell him nothing outside his realm is real. By the end of the bargain, Malquin gives the party a necklace to show beyond the gash and promises help, passage, and less interference if they return with proof.
+In the Ice Palace, Malquin veers between fear and authority while bargaining over the safe gash. He gives the party his necklace as a token for the knight beyond the portal and asks them to return with proof.
 
 ### Jan 27th, 1730 to Jan 29th, 1730
 
 - Timeline Segment: timeline-004
-- Timeline Key: (DR:: 1730-01-27)
+- Timeline Key: (DR:: 1730-01-27) - (DR_end:: 1730-01-29)
 - Resolution: date-range
 - Beat IDs: beat-006
 - Locations: Melusa, Great Chasm
@@ -81,10 +83,10 @@ The audience in the Ice Palace reveals a ruler split between fear, grandeur, and
 - Combat Beats: none
 
 #### Short
-The party reaches the true Great Chasm, finds Eidrikas holding a broken mechanism together, and learns that orcs fled below with a stolen stone as four extra days slip past outside.
+Eidrikas holds the failing chasm mechanism together after orcs steal its missing stone.
 
 #### Long
-Passing through the safe gash, the party emerges on floating stonework in the true Great Chasm and discovers Eidrikas using his own body to bridge a shattered planar mechanism. He explains that orcs killed Pakrinek, escaped downward with the missing stone, and left only days before collapse, and the party realizes time in Melusa cost them four days in the outside world.
+The safe gash opens into the true Great Chasm, where floating carved platforms surround a damaged mechanism. Eidrikas says orcs killed Pakrinek, fled downward with a vital stone, and left only days before the system fails.
 
 ## Recap
 
@@ -94,7 +96,7 @@ Passing through the safe gash, the party emerges on floating stonework in the tr
 - Beat IDs: beat-001
 - Date: 1730-01-26 to 1730-01-27
 - Time: night
-- Transcript Range: u0001 -> u0228
+- Source Range: u0001 -> u0228
 - Locations: Melusa
 - NPCs: Kalima, Zahara, Samir
 - Organizations: Malquin's guards
@@ -102,13 +104,13 @@ Passing through the safe gash, the party emerges on floating stonework in the tr
 - Enemies: none
 
 #### Short
-Hiding in Nura and Khaled's hut, the party sees Kalima slip into the storm with a secret guide while soldiers search the village.
+Kalima vanishes from shelter during the night while the party stays hidden.
 
 #### Intermediate
-Jrain catches the door opening during the night watch, rouses the others, and glimpses Kalima moving through the whiteout with another figure as Ice Palace soldiers pass nearby. Rather than blunder into the storm, the party stays put and lets the rest of the night run out.
+Jrain notices movement at the door, wakes Justas, and sees Kalima already gone into the whiteout with another figure. Soldiers are searching outside, so the party does not chase blind into Melusa's storm.
 
 #### Long
-The cramped shelter in Nura and Khaled's house offers only a fragile safety, and that safety breaks when Jrain notices whispered movement at the door. Kalima is led out into the storm by the figure later identified as Zahara while soldiers sweep the village, Samir watches awake from the shadows, and the party decides that chasing blind into the whiteout would help no one. They remain hidden, finish the night under tension, and wake to deal with what Kalima's disappearance means.
+The party's fragile refuge in Nura and Khaled's cramped house breaks when Jrain hears the door open during her watch. Kalima slips out with the guide later identified as Zahara while Malquin's soldiers move through the village, and Samir lies awake watching the escape. With the whiteout hiding both Kalima and the patrols, the party lets the moment pass, remains concealed, and finishes the long rest.
 
 ### recap-002 | The Baby Speaks Back
 
@@ -116,7 +118,7 @@ The cramped shelter in Nura and Khaled's house offers only a fragile safety, and
 - Beat IDs: beat-002
 - Date: 1730-01-27
 - Time: morning
-- Transcript Range: u0229 -> u0510
+- Source Range: u0229 -> u0510
 - Locations: Melusa
 - NPCs: Nura, Samir, Taquin
 - Organizations: none
@@ -124,13 +126,13 @@ The cramped shelter in Nura and Khaled's house offers only a fragile safety, and
 - Enemies: none
 
 #### Short
-At dawn, Samir answers with another soul's voice, names Zahara as Kalima's rescuer, and pushes the party toward Melusa's dissidents.
+In the morning, Samir speaks with Taquin's memories and points the party toward Zahara's circle.
 
 #### Intermediate
-Morning conversation in the house turns uncanny when Samir speaks aloud with memories that are not his own, identifies Zahara as the one who came for Kalima, and gives the name Taquin. Nura then explains the wrong-soul curse, while Finnan's magic confirms that the realm is bounded and ruled, leaving the party convinced the elders will not give them a way forward.
+The household's morning answers turn strange when Samir speaks far beyond his age, names Zahara as Kalima's rescuer, and gives the name Taquin. Nura explains the village belief that some children are born with the wrong soul, while Finnan's magic confirms enough about the bounded realm to make the elders feel like a dead end.
 
 #### Long
-The family breakfast becomes an interrogation of Melusa's deepest fear when Samir replies in a voice far older than a baby and reveals memories of falling toward the labyrinth while Zahara watched above. Nura explains that some children are born with the wrong soul and are not expected to live, casting the village's silence around Samir into a harsher light. When Finnan's magic confirms that the realm is hemmed in by mists and governed by the lord the villagers call Malquin, the party turns away from passivity and decides to seek Zahara's troublemakers instead.
+Morning brings no simple explanation for Kalima's flight. Samir, still only a baby, answers with memories of falling toward the labyrinth and seeing Zahara above him, then identifies himself as Taquin. Nura describes Melusa's wrong-soul curse and the brief lives expected for such children, and Finnan's magic ties the realm's strange sky and limits to Malquin's rule. Rather than rely on the village elders, the party decides Zahara's troublemakers are the better path to answers.
 
 ### recap-003 | Road to the Troublemakers
 
@@ -138,7 +140,7 @@ The family breakfast becomes an interrogation of Melusa's deepest fear when Sami
 - Beat IDs: beat-003
 - Date: 1730-01-27
 - Time: morning
-- Transcript Range: u0511 -> u0844
+- Source Range: u0511 -> u0844
 - Locations: Melusa
 - NPCs: Iskander
 - Organizations: none
@@ -146,13 +148,13 @@ The family breakfast becomes an interrogation of Melusa's deepest fear when Sami
 - Enemies: none
 
 #### Short
-Crossing Melusa openly, the party finds Iskander and learns how the five gashes and the ice wolf turned fear into a prison.
+They cross Melusa to Iskander, who describes the gashes, failed escapes, and Zahara's refuge.
 
 #### Intermediate
-The party crosses the river and makes straight for the part of Melusa tied to Zahara's circle, where Iskander receives them with equal parts disbelief and curiosity. He explains when the cracks appeared, how escape attempts failed, and where Zahara withdraws when the village grows too dangerous to think clearly.
+The party leaves the family house and moves openly across the village to Iskander, a contact tied to Zahara's inner circle. He explains that the cracks appeared months ago, that the safest one is watched by guards and a huge ice wolf, and that repeated escape attempts have already failed.
 
 #### Long
-Moving through Melusa in plain sight, the party abandons the safety of Nura's house and walks directly into the village's quieter rebellion. Iskander proves talkative once the introductions are done, laying out the history of the five gashes, the six-month span since they appeared, and the sequence of failed attempts to flee through the safest-looking opening. By the time he points them toward Zahara's more secluded refuge, the party understands that the prison is held together as much by fear and habit as by the wolf and the guards.
+Acting on the lead from Nura and Samir, the party walks through Melusa toward Zahara's side of the village and meets Iskander near the cattle-island bridge. Once convinced they are serious, he gives them the rebel version of the prison: five gashes in the cliff, one apparently safe exit held by Malquin's forces, a forty-foot ice wolf, and villagers too frightened or resigned to act. He also sketches the small scale of Zahara's circle and the private refuge where they withdraw when the village becomes unsafe.
 
 ### recap-004 | A Plan for Malquin
 
@@ -160,7 +162,7 @@ Moving through Melusa in plain sight, the party abandons the safety of Nura's ho
 - Beat IDs: beat-004
 - Date: 1730-01-27
 - Time: morning
-- Transcript Range: u0845 -> u1241
+- Source Range: u0845 -> u1241
 - Locations: Melusa
 - NPCs: Iskander, Ice wolf guardian
 - Organizations: none
@@ -168,13 +170,13 @@ Moving through Melusa in plain sight, the party abandons the safety of Nura's ho
 - Enemies: none
 
 #### Short
-They decide to confront Malquin, send warning to Zahara's circle, and force a public road to the palace by testing the metal gash and calling for the bridge.
+They warn Zahara's circle, test the metal gash, and force the bridge to the Ice Palace to appear.
 
 #### Intermediate
-Strategy with Iskander hardens into action once the party decides the quickest route to answers lies through Malquin himself, not through more village whispers. They send word to Zahara to be ready, let Eolo seize a shimmering shard from the metal gash at painful cost, and then use Sylvan speech and illusion to make the palace answer them with a bridge.
+The conversation with Iskander turns into a plan to face Malquin directly before the wider chasm crisis worsens. Iskander carries a warning to Zahara, Eolo rips a shimmering shard from the metal gash at painful cost, and the party makes a public demand until the bridge extends from the palace.
 
 #### Long
-The conversation with Iskander shifts from diagnosis to choice as the party weighs rescuing Melusa against learning enough to mend the greater rupture in the true chasm. They settle on confronting Malquin directly, but not before sending warning that Zahara's inner circle should be ready if the village suddenly gets its chance. At the gash site, Eolo proves how dangerous the metal opening is by tearing free a shimmering fragment with his own blood, and that public display helps turn the moment into a challenge that brings the bridge out from the Ice Palace.
+With Iskander's information exhausted, the party chooses action over more quiet investigation. They ask him to warn Zahara's circle that confronting Malquin may create an opening, then move to the cliffside gashes where the ice wolf watches the safe passage. Eolo tests the metal gash and comes away with a sharp, shimmering fragment and a mangled arm, proving the other cracks are dangerous. The party then announces itself in Sylvan and illusion, drawing enough attention for the bridge to the Ice Palace to form.
 
 ### recap-005 | Bargain in the Ice Palace
 
@@ -182,7 +184,7 @@ The conversation with Iskander shifts from diagnosis to choice as the party weig
 - Beat IDs: beat-005
 - Date: 1730-01-27
 - Time: midday
-- Transcript Range: u1242 -> u1645
+- Source Range: u1242 -> u1645
 - Locations: Ice Palace
 - NPCs: Malquin the Vaqar
 - Organizations: none
@@ -190,21 +192,21 @@ The conversation with Iskander shifts from diagnosis to choice as the party weig
 - Enemies: none
 
 #### Short
-Inside the Ice Palace, Malquin lurches between terror and grandeur until the party wrests a bargain from him.
+Inside the Ice Palace, Malquin bargains for proof that the world beyond Melusa is real.
 
 #### Intermediate
-The palace audience reveals a lord who cannot hold one tone or posture for long, demanding proof that the party is real one moment and declaring himself ruler of all things the next. By pressing him on the cracks, the outside world, and the severed head from the labyrinth, the party forces the exchange into a bargain centered on a necklace and proof from beyond the gash.
+The new bridge carries them into Malquin's palace, where the ruler shifts through voices, positions, and moods while questioning whether the party and the outside world are real. He finally gives them a necklace to show the knight beyond the safe gash and promises help if they bring back proof.
 
 #### Long
-Crossing the bridge carries the party into a court that feels less like government than a mind trying to remain coherent. Malquin appears behind them, on the throne, and at their shoulders in shifting voices, insisting that whispers have told him the outside world is false and that anything beyond the edge means annihilation. Yet he reacts to the severed head from the labyrinth as something heartbreakingly real, and from that instability the party wins terms: he gives them a necklace to show to the knight beyond the safe gash, promises help if they prove the outside exists, and agrees that those who wish to leave should not be blocked forever.
+The Ice Palace audience is less a formal reception than an encounter with a ruler struggling to hold himself together. Malquin appears and reappears around the chamber, names himself Malquin the Vaqar, and alternates between grand authority, terror of annihilation, and suspicion that the party might be another false thing from the whispers. The severed head from the labyrinth unsettles him, but it also helps make the outside feel possible. In the end he bargains: they may pass through the safe gash with his necklace as a token, but he wants proof that what waits beyond is real and survivable.
 
 ### recap-006 | Back to the Real Chasm
 
 - Kind: beat
 - Beat IDs: beat-006
 - Date: 1730-01-27 to 1730-01-29
-- Time: none
-- Transcript Range: u1646 -> u2002
+- Time: unknown
+- Source Range: u1646 -> u2002
 - Locations: Melusa, Great Chasm
 - NPCs: Eidrikas, Orcs
 - Organizations: none
@@ -212,13 +214,13 @@ Crossing the bridge carries the party into a court that feels less like governme
 - Enemies: none
 
 #### Short
-Stepping through the safe gash, the party reaches the true Great Chasm, finds Eidrikas fused to a failing mechanism, and turns toward the orcs below.
+Through the safe gash, they find Eidrikas trapped in the failing mechanism and learn the orcs took the missing stone.
 
 #### Intermediate
-The portal opens not into another illusion of Melusa but into the real Great Chasm, where floating platforms, flashing sky-gashes, and a broken stone mechanism frame the first clear sign of what has gone wrong. Eidrikas is still alive and holding the structure together through pain, but he can only buy days, and his account sends the party after the orcs who killed Pakrinek and fled with the missing stone.
+The party leaves Melusa by tying a rope to the ice wolf and stepping through the safe gash into the true Great Chasm. Floating carved stones, fresh sky-gashes, and Eidrikas's agony reveal the larger crisis: orcs killed Pakrinek, escaped downward with a crucial stone, and left the mechanism near collapse.
 
 #### Long
-Once the rope is tied to the ice wolf and the party commits to the jump, the safe gash deposits them on a cliff face in the true Great Chasm beneath an ordinary sky and above a landscape of floating platforms carved into geometric channels. Clairvoyance and flight reveal Eidrikas on the sparking structure below, using his own body as a makeshift circuit to keep the chasm's mechanism from failing outright while fresh tears open and shut in the sky. He explains that orcs surprised the site, Pakrinek died in the fighting, and the raiders escaped downward with the missing stone; when his count of days shows that four more days passed outside than the party expected, the next move becomes clear: chase the orcs before the mechanism gives way.
+Malquin's permission proves real enough for the ice wolf to let them approach, and the party prepares for the unknown by tying a rope around its leg before jumping through the gash. The portal opens onto a sheer cliff in the true Great Chasm, where carved floating platforms hang above a larger mechanism streaked with unstable light while new tears split the sky. Eolo and Ekko help the others reach the stones, and clairvoyance points them to Eidrikas, alive but in agony as he uses his body to complete the damaged circuit. He tells them that orcs overran the site, killed Pakrinek, and carried a vital stone down through the platform network. His count of days also reveals that four extra days passed outside while the party was trapped in Melusa, leaving only a narrow window to recover the stolen piece.
 
 ## Cast
 
@@ -248,28 +250,33 @@ Once the rope is tied to the ice wolf and the party commits to the jump, the saf
 
 ## Locations
 
-- Melusa: Nura and Khaled's house during the night watch, with the snowy lane outside visible through the door
-  - visited on 1730-01-26 to 1730-01-27
-  - traveled-through on 1730-01-27 to 1730-01-29
-- Ice Palace: the entrance hall and throne-room-like audience chamber
-  - visited on 1730-01-27
-- Great Chasm: crossing the safe gash out of Melusa and orienting at the broken mechanism site
-  - visited on 1730-01-27 to 1730-01-29
+- Melusa
+  - Summary: Isolated chasm-side village caught between Malquin's rule, Zahara's hidden resistance, and the dangerous gashes in the cliff.
+  - Sublocations: Nura and Khaled's house, the snowy lane outside, Iskander's hut near the cattle-island bridge, the cliffside gashes, the safe gash below the Ice Palace
+  - Date Visited: 1730-01-26 to 1730-01-29
+- Ice Palace
+  - Summary: Malquin's floating palace, reached by a conjured bridge and dominated by an unstable audience with its ruler.
+  - Sublocations: the entrance hall and throne-room-like audience chamber
+  - Date Visited: 1730-01-27
+- Great Chasm
+  - Summary: The true chasm beyond Melusa, where floating carved platforms surround a failing planar mechanism.
+  - Sublocations: arrival cliff face, movable floating stone, carved platform network, damaged mechanism site
+  - Date Visited: 1730-01-27 to 1730-01-29
 
 ## Organizations And Items
 
 ### Organizations
 
-- Malquin's guards (encountered): Ice Palace soldiers searching Melusa during Kalima's escape.
+- Malquin's guards (encountered): Ice Palace soldiers searching Melusa on the night Kalima escapes.
   - Melusa, 1730-01-26 to 1730-01-27
 
 ### Items
 
-- Shimmering metal shard (encountered): A razor-edged fragment Eolo tears from the metal gash while testing it.
+- Shimmering metal shard (encountered): Sharp fragment torn from the metal gash by Eolo during the test at the cliffside cracks.
   - Melusa, 1730-01-27
-- Malquin's necklace (encountered): The token Malquin gives the party to show beyond the safe gash and return as proof.
+- Malquin's necklace (encountered): Token Malquin gives the party to show the knight beyond the safe gash and return as proof.
   - Ice Palace, 1730-01-27
-- Missing mechanism stone (mentioned): A large carved block stolen from the chasm mechanism by the fleeing orcs.
+- Missing mechanism stone (mentioned): Large carved block stolen from the chasm mechanism by the fleeing orcs.
 
 ## Combat
 
@@ -277,7 +284,7 @@ Once the rope is tied to the ice wolf and the party commits to the jump, the saf
 
 ## Source Files
 
-- Context JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/cleaned/into-the-chasm-004-session-summary-context.json
-- Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/cleaned/into-the-chasm-004-beats.json
-- Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/cleaned/into-the-chasm-004-beat-facts.json
-- Cleaned Transcript: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md
+- Context JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-session-summary-context.json
+- Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-beats.json
+- Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-beat-facts.json
+- Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md
