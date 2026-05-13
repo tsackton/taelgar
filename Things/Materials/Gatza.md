@@ -1,5 +1,5 @@
 ---
-tags: [object, status/stub]
+tags: [object, status/stub, status/check/ai, status/gameupdate/mawar]
 ---
 
 

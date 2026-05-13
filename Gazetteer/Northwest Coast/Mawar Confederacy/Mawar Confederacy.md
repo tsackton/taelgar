@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/errors]
+tags: [place, status/check/errors, status/check/ai, status/gameupdate/mawar]
 aliases: [Mawaran, Mawar]
 campaignInfo:
 name: Mawar Confederacy

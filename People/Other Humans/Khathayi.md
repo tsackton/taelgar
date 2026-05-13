@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/check/ai, status/gameupdate/mawar]
 campaignInfo: []
 aliases: [Khathayi the Flametongue]
 name: Khathayi the Flametongue

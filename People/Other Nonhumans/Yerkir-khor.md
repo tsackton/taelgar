@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/check/ai, status/gameupdate/mawar]
 name: Yerkir-khor
 species: elemental
 dm_owner: tim

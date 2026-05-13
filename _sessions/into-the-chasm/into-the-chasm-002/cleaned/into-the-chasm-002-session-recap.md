@@ -3,9 +3,9 @@
 ## Session Header
 
 - Title: Into the Chasm - Episode 2
-- Desc Title: The Living Maze
-- Tagline: in which the dead name Melusa
-- One-Sentence Summary: The party pushes deeper into Zeyfa's Labyrinth, crosses a violent fissure, questions a dead Melusan sacrifice, survives a looping whiteout, and reaches the beast waiting in a black-stone chamber.
+- Desc Title: The Labyrinth
+- Tagline: in which the party navigates an ever-shifting maze
+- One-Sentence Summary: The party pushes deeper into Zeyfa’s Labyrinth, surviving worsening cold and shifting paths, and learning clues from a dead man, until they emerge into a black‑stone chamber where a terrifying white beast awaits.
 - Campaign: Into the Chasm
 - Scope: session
 - Session Number: 2
@@ -29,7 +29,7 @@
 - Combat Beats: none
 
 #### Short
-The party crosses deeper into Zeyfa's Labyrinth, learns of Melusa from a dead sacrifice, survives the maze's whiteout loops, and reaches the beast's chamber.
+The party travels deeper into Zeyfa's Labyrinth, learns of Melusa from a dead sacrifice, survives the maze's whiteout loops, and reaches the beast's chamber.
 
 #### Long
 The party descends through Zeyfa's Labyrinth, forces a crossing over a warm fissure, and questions a dead man who names Melusa, Zeyfa's sacrifices, and a soul trapped in the maze. Beyond him, the labyrinth closes into a looping whiteout before a collapse sends the party into the black-stone chamber where Kalima's feared beast appears.
@@ -50,13 +50,13 @@ The party descends through Zeyfa's Labyrinth, forces a crossing over a warm fiss
 - Enemies: none
 
 #### Short
-The party descends into Zeyfa's Labyrinth, steadying Kalima as the first tunnels begin to feel less abandoned than alive.
+The party descends into Zeyfa's Labyrinth, steadying Kalima as they explore the first tunnels of the shifting maze.
 
 #### Intermediate
-Kalima clutches Romil's token while the party leaves the entrance bridge and enters the first cramped passages. The stone and snow seem familiar at first, but the branching tunnels, dead ends, and strange motion of the place quickly make the labyrinth feel awake.
+The party descends into Zeyfa's Labyrinth, steadying Kalima as they explore the first tunnels of the shifting maze. The stone and snow seem familiar at first, but the branching tunnels, dead ends, and strange motion of the place quickly make the labyrinth feel like a malevolent presence.
 
 #### Long
-After their short rest, the party regroups above the labyrinth's entrance and works out how to get Kalima safely down from the icy bridge. She keeps Romil's glowing token close and mutters prayers against the snow while the others arrange light and marching order. The first passages are narrow, snowy, and easy to mistake for ordinary stone tunnels, but their branches and dead ends soon feel too responsive, and Ekko recognizes that this place is not like the abandoned depths of the Great Chasm.
+The party descends into Zeyfa's Labyrinth, steadying Kalima as they enter the shifting maze. She keeps Romil's glowing token close and mutters prayers against the snow, while the adventurers arrange light and a marching order. The first passages are narrow, snowy, and easy to mistake for ordinary stone tunnels, but their branches and dead ends soon feel too responsive, too alive, hinting as some malevolent presence.
 
 ### recap-002 | The Booming Fissure
 
@@ -72,13 +72,13 @@ After their short rest, the party regroups above the labyrinth's entrance and wo
 - Enemies: none
 
 #### Short
-A warm fissure halts them, and the rising wind turns their search for a route into a dangerous crossing.
+The tunnels lead to a low chamber split by a warm, breathing fissure. Eolo attempts to leap across, and fails, triggering a scramble for a safer approach.
 
 #### Intermediate
-The next chamber opens around a dark crack breathing warm air, with ice ferns stirring along its edge. As the party tests the room and looks for another path, wind and snow build until Eolo's slipping jump proves the fissure is no passive obstacle.
+The tunnels lead to a low, wide chamber, its ice walls cut by a ten-foot crack edged with flexible ice ferns and warm breath from below. A glowing snowball drops into the fissure and goes dark without a sound, after which the chamber answers with stronger wind and snow. Eolo charges ahead and attempts to jump the gap, but fails, sliding through the ferns to the edge. The party decides the crossing needs a safer plan.
 
 #### Long
-The tunnels lead into a broad chamber split by a dark fissure, warm air rising from below while strange flexible ice ferns tremble at the edge. The party studies the crack with light, scouting, and cautious movement, hoping the room might offer another route rather than a direct crossing. Each test seems to make the chamber harsher, and when Eolo slips through the ferns and barely catches himself, the fissure becomes the problem they have to solve rather than a hazard they can ignore.
+The tunnels lead to a low, ice-walled room divided by a ten-foot fissure, with warm air rising from below and flexible ice ferns waving along the rim. A lighted snowball falls out of sight and goes dark without a sound; the ferns shudder, a hot breath feeds circling wind and snow, and Kalima's fear sharpens as the room feels more alive. Ekko flies across, but Eolo tries to jump instead. He slips, crashes through the ferns, and catches himself at the edge forcing the party to conclude that this obstacle has to be crossed deliberately.
 
 ### recap-003 | Past the Storm Gate
 
@@ -94,13 +94,15 @@ The tunnels lead into a broad chamber split by a dark fissure, warm air rising f
 - Enemies: none
 
 #### Short
-They force everyone over the gap, only to find the far passages shifting under fresh ice and storm.
+They get everyone across with flight, levitation, rope, and telekinesis, then press into storm passages that shift behind them and grow ice underfoot.
 
 #### Intermediate
-Flight, levitation, rope, and raw strength get the party across, though Justas briefly drops into hot, lightless blackness inside the fissure. The far side offers no relief: the passages move, the wind worsens, and ice grows underfoot as they push on.
+Eolo ferries Finnan, Jrain levitates to help Kalima, and the group gathers on the far side to anchor Justas by rope. Justas still slips into the fissure, where the air turns hot and sight cuts out, before Eolo pulls him up with telekinesis. Past the crack, the storm only worsens: exits shift, visibility falls, and ice grows beneath each step.
 
 #### Long
-The crossing takes every practical trick the party can assemble, with Eolo ferrying companions, Jrain using levitation to help Kalima, and Justas trusting rope and strength at the edge. When Justas drops into the crack, the fissure proves stranger than a simple crevasse: the air below is hot, sight fails, and the gap feels like a pocket of blackness rather than open stone. Once everyone reaches the far side, the labyrinth tightens around them with shifting exits, poor visibility, and new ice forming beneath their feet.
+The safer plan is still messy. Eolo carries Finnan through the worsening indoor storm, Jrain uses his cloak to levitate and help Kalima across, and everyone regroups on the far side to hold Justas's rope. Justas misses the standing jump and swings down into the fissure, where hot air and sudden darkness swallow his sight before he strikes sharp ice on the far wall and Eolo hauls him up with telekinesis.
+
+Beyond the crack, the labyrinth offers no calmer route. The right-hand passage blasts them with snow, the original exit vanishes when they turn back, and a new opening appears where none had been. They follow the available path through close stone corridors where visibility drops, the wind howls too loudly for the old dripping sound, and ice grows under their feet with every careful step.
 
 ### recap-004 | Questions for the Dead
 

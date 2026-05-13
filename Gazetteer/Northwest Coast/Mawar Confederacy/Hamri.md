@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags:
   - place
   - status/cleanup/text
+  - status/check/ai
+  - status/gameupdate/mawar
 name: Hamri
 typeOf: settlement
 whereabouts: Mawar Confederacy
