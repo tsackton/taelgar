@@ -1,3 +1,3 @@
 ---
-tags: [power]
+tags: [power, status/stub]
 ---

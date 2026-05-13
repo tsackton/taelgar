@@ -15,7 +15,7 @@ This constant shifting makes mapping Limbo impossible. Much of [[The Unstable Sp
 
 All is not hopeless, though, for the traveler to Limbo. It is recorded that the strong of mind, those with intellects of steel, can hold the plane solid by sheer concentration, freezing in place the endless chaos for hours, days, even years in some exceptional cases. 
 
-## On Minds and Chaos
+## [[On Minds and Chaos]]
 
 [[Gaius Devarro]], who lived in [[Chardon]] during the waning days of the [[Drankorian Empire]], and was an early scholar at the [[Faculty of Metaphysics]], collected numerous fragments of tales, poems, and other oddities thought to be the words of those who had traveled to Limbo. 
 
