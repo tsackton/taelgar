@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image, status/cleanup/metadata, status/cleanup/text, status/check/ai, status/gameupdate/mawar]
+tags: [person, status/cleanup/image, status/cleanup/metadata, status/cleanup/text]
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-10-12, type: scryed}
 name: Kaeso

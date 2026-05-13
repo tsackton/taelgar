@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai, status/gameupdate/mawar]
-campaignInfo: []
+tags: [person]
 name: Airion the Mistspeaker
 aliases: [Airion the Mistspeaker]
 born:
@@ -23,9 +22,7 @@ His best-known surviving works are the [[Elemental Scrolls of Airion]], four scr
 
 %%^Campaign:none%%
 
-## DM notes (AI Generated)
-
-*Verified for correctness but language not polished*
+## DM notes 
 
 Airion is best treated as a historically important scholar whose work sits at the intersection of lost pre-Great-War magic, planar cosmology, genie binding, and Mawar's older elemental history. Airion sought out planar weak points and left a wide network of scrolls, towers, letters, traps, and notes that later campaigns keep rediscovering.
 

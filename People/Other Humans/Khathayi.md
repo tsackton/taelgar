@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai, status/gameupdate/mawar]
+tags: [person]
 campaignInfo: []
 aliases: [Khathayi the Flametongue]
 name: Khathayi the Flametongue
@@ -14,7 +14,7 @@ dm_notes: important
 >[!info]+ Biographical Info  
 > A mysterious creature
 
-%% notes
-a mysterious entity buried on the north of the Mawakel Peninsula, assocated with elemental fire. No details invented.%%
+A mysterious ancient being, apparently buried in, or at least associated with, a monument in the north of the [[Mawakel Peninsula]]; associated with elemental fire. 
+
 
 %%SECRET[1]%%

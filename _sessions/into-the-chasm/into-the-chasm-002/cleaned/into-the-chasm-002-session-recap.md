@@ -94,15 +94,13 @@ The tunnels lead to a low, ice-walled room divided by a ten-foot fissure, with w
 - Enemies: none
 
 #### Short
-They get everyone across with flight, levitation, rope, and telekinesis, then press into storm passages that shift behind them and grow ice underfoot.
+Everyone gets across using flight, levitation, rope, and telekinesis, then follows a new opening after the straight-ahead passage disappears.
 
 #### Intermediate
-Eolo ferries Finnan, Jrain levitates to help Kalima, and the group gathers on the far side to anchor Justas by rope. Justas still slips into the fissure, where the air turns hot and sight cuts out, before Eolo pulls him up with telekinesis. Past the crack, the storm only worsens: exits shift, visibility falls, and ice grows beneath each step.
+Eolo ferries Finnan, and Jrain levitates to help Kalima before the group anchors Justas by rope. Justas still slips into the fissure; for a moment he is in hot, total darkness before Eolo pulls him up with telekinesis. On the far side, the straight-ahead passage vanishes when they turn back, a new opening appears across from the right-hand tunnel, and the route beyond grows ice under each footfall.
 
 #### Long
-The safer plan is still messy. Eolo carries Finnan through the worsening indoor storm, Jrain uses his cloak to levitate and help Kalima across, and everyone regroups on the far side to hold Justas's rope. Justas misses the standing jump and swings down into the fissure, where hot air and sudden darkness swallow his sight before he strikes sharp ice on the far wall and Eolo hauls him up with telekinesis.
-
-Beyond the crack, the labyrinth offers no calmer route. The right-hand passage blasts them with snow, the original exit vanishes when they turn back, and a new opening appears where none had been. They follow the available path through close stone corridors where visibility drops, the wind howls too loudly for the old dripping sound, and ice grows under their feet with every careful step.
+With the fissure still breathing snow and heat, Eolo carries Finnan across while Jrain uses his cloak to levitate and help Kalima over. The group anchors Justas by rope, but his standing jump fails and he swings down into hot, total darkness before Eolo yanks him back up with telekinesis. Beyond the fissure, the right-hand passage blasts them with wind; when they turn back, the straight-ahead passage has vanished and a new opening has appeared. They take the new route through narrow stone corridors where the wind drowns out the dripping sound and ice grows under each footfall.
 
 ### recap-004 | Questions for the Dead
 

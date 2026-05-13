@@ -20,6 +20,7 @@ typeOfAlias: town
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% incorporate information from OneNote and rewrite %%
+%% Notes: see: [[Time Skip - Bullet Points]] for important recent history, e.g. 1747-1749%%
 
 Hamri is blessed with a sheltered, deep water harbor within a protected bay, and a source of sweet fresh water in the [[Mirmir]] River that cascades from the interior over a series of rapids and waterfalls before emptying into the [[Endless Ocean]]. These resources have made it prosper, and it is now a major town of 3,500 residents, and one of the economic centers of the western coast of the [[Mawakel Peninsula]].
 
