@@ -1,6 +1,6 @@
 ---
-tags: [status/stub, group]
-dm_notes: important
+tags: [group]
+dm_notes: none
 dm_owner: none
 typeOf: adventuring party
 ---

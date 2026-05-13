@@ -13,7 +13,7 @@ Regardless of the exact nature of [[Cha'mutte]]'s connection to [[Limbo]], it is
 
 ### The Action of Magic in the Plane of Chaos
 
-(from Arryn of Tollen, *Experiments upon the Planar Substance*, Book IV)
+(from Arryn of Tollen, *[[Experiments upon the Planar Substance]]*, Book IV)
 
  **I. All matter in Limbo exists in potential, not form.**  Stone, air, and flame are distinctions of mind, not substance. Shape them by thought or perish within them. The essence of Limbo is *Transmutation*, the magic of shifting form, and *Conjuration*, the magic of shifting space.
 
