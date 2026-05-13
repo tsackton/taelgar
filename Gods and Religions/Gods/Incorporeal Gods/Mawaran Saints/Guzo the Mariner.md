@@ -23,4 +23,6 @@ Guzo the Mariner, known as "the ancestor of voyages and the western horizon," is
 Sources used: [[Mawar Adventures Episode 05]], [[The Lost Legacy]], [[Yaz]], [[Sentient Ocean]], [[Mawar Religion]] 
 
 Older notes suggest that Guzo referred to the sentient ocean as Ma'haya Kabir
+
+Left unclear is exactly who Guzo was in the past, although the clear implication is supposed to be "former mortal". 
 %%
