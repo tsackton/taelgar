@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai, status/gameupdate/mawar]
 name: North Cliffs
 typeOf: topographical feature
 typeOfAlias: coastal cliff

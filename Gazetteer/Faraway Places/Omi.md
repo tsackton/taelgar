@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place, status/check/ai, status/gameupdate/mawar]
 whereabouts: Endless Ocean
 typeOf: settlement
 ancestry: merfolk
