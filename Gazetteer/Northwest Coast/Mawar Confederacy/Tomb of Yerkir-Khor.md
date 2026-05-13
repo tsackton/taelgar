@@ -1,19 +1,17 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/check/ai, status/gameupdate/mawar]
+aliases: [Yerkir-khor's monument and tomb, Yerkir-khor's tomb, Yerkir-khor's monument]
+name: Tomb of Yerkir-Khor
+typeOf: holy site
+typeOfAlias: ancient earth tomb
+whereabouts: Mawar Confederacy
+dm_notes: none
+dm_owner: tim
 ---
 
 %%
-AI location proposal - Mawar review, 2026-05-07
 
-Proposed metadata updates:
-- aliases: [Yerkir-khor's monument and tomb, Yerkir-khor's buried earth tomb, Yerkir-khor's tomb, Yerkir-khor's monument, stone flower-like monument]
-- name: Tomb of Yerkir-Khor
-- typeOf: holy site
-- typeOfAlias: ancient earth tomb
-- whereabouts: Mawar Confederacy
-- dm_notes: important
-- dm_owner: tim
 
 Proposed text updates:
 - Add a short overview identifying the site as a partially buried stone flower-like monument in the inland forest up the [[Mirmir]] from [[Hamri]].
