@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
-  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md",
-  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/cleaned/into-the-chasm-004-session.yaml",
-  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-004/beat-artifacts/into-the-chasm-004-beats.json",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-beats.json",
   "selectedBeatIds": [
     "beat-001",
     "beat-002",
@@ -11,6 +11,7 @@
     "beat-005",
     "beat-006"
   ],
+  "supplementalSources": [],
   "contexts": [
     {
       "beat": {
@@ -42,6 +43,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 4,
         "drStart": "1730-01-26",
         "drEnd": "1730-01-29",
@@ -79,7 +82,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0001",
           "header": "[u0001 | 00:00:03.870-00:00:05.370 | DM]",
@@ -1448,7 +1451,8 @@
           "text": "You can now all click the long rest button.",
           "raw": "[u0228 | 00:20:22.650-00:20:24.870 | DM] You can now all click the long rest button."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -1485,6 +1489,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 4,
         "drStart": "1730-01-26",
         "drEnd": "1730-01-29",
@@ -1522,7 +1528,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0229",
           "header": "[u0229 | 00:20:27.270-00:20:31.109 | DM]",
@@ -3215,7 +3221,8 @@
           "text": "Anyway, you're heading to talk to Zahara, the leader of the troublemakers, who…",
           "raw": "[u0510 | 00:46:42.560-00:46:50.149 | DM] Anyway, you're heading to talk to Zahara, the leader of the troublemakers, who…"
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -3252,6 +3259,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 4,
         "drStart": "1730-01-26",
         "drEnd": "1730-01-29",
@@ -3289,7 +3298,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0511",
           "header": "[u0511 | 00:46:50.210-00:46:51.450 | Justas]",
@@ -5294,7 +5303,8 @@
           "text": "But… I would say… maybe another… 20 or 30?",
           "raw": "[u0844 | 01:14:47.650-01:14:54.390 | DM] But… I would say… maybe another… 20 or 30?"
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -5331,6 +5341,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 4,
         "drStart": "1730-01-26",
         "drEnd": "1730-01-29",
@@ -5368,7 +5380,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u0845",
           "header": "[u0845 | 01:14:55.610-01:14:57.319 | DM]",
@@ -7751,7 +7763,8 @@
           "text": "a minute.",
           "raw": "[u1241 | 01:47:25.620-01:47:26.440 | DM] a minute."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -7788,6 +7801,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 4,
         "drStart": "1730-01-26",
         "drEnd": "1730-01-29",
@@ -7825,7 +7840,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1242",
           "header": "[u1242 | 01:47:27.420-01:47:33.050 | DM]",
@@ -10250,7 +10265,8 @@
           "text": "It's… standing there.",
           "raw": "[u1645 | 02:25:13.720-02:25:15.630 | DM] It's… standing there."
         }
-      ]
+      ],
+      "supplementalSources": []
     },
     {
       "beat": {
@@ -10282,6 +10298,8 @@
       "session": {
         "title": null,
         "campaign": "Into the Chasm",
+        "scope": null,
+        "sourceType": "transcript",
         "sessionNumber": 4,
         "drStart": "1730-01-26",
         "drEnd": "1730-01-29",
@@ -10319,7 +10337,7 @@
           }
         ]
       },
-      "transcriptLines": [
+      "sourceLines": [
         {
           "uid": "u1646",
           "header": "[u1646 | 02:25:24.050-02:25:25.860 | Finnan]",
@@ -12462,7 +12480,8 @@
           "text": "G'day.",
           "raw": "[u2002 | 02:55:58.830-02:56:00.400 | DM] G'day."
         }
-      ]
+      ],
+      "supplementalSources": []
     }
   ]
 }

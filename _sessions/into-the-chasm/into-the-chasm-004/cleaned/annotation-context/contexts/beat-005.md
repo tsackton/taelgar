@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u1242 | 01:47:27.420-01:47:33.050 | DM] a… the bridge extends, or a bridge extends, it's… it's…
 [u1243 | 01:47:33.510-01:47:36.759 | DM] it's narrow, right? It's only, like, maybe…

@@ -1,7 +1,7 @@
 # Beats Preview
 
-- Source transcript: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-005/cleaned/into-the-chasm-005-source-cleaned.md
-- Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-005/cleaned/into-the-chasm-005-session.yaml
+- Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-source-cleaned.md
+- Session file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-session.yaml
 - Beat count: 8
 
 ## Warnings
@@ -13,6 +13,7 @@
 - Range: `u0001` → `u0403`
 - Lines: 403
 - Date: 1730-01-29
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: The session opens with Eidrikas and the suspended runic platform, covers Ekko's confirmation that his mentor is genuine, and ends once the party finishes its initial reconnaissance and commits to taking the floating stone down toward the cylindrical structure.
@@ -26,6 +27,7 @@
 - Range: `u0404` → `u0859`
 - Lines: 456
 - Date: 1730-01-29
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: After moving the floating stone into position, the party enters the upper chamber, experiments with the blue column and shifting gravity, retrieves the rope, and works its way down through the cracked floors into the next level.
@@ -39,6 +41,7 @@
 - Range: `u0860` → `u1209`
 - Lines: 350
 - Date: 1730-01-29
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: On the next level down, the party gets a full description of the chamber, wakes the damaged automaton custodian, questions it about authorization and repairs, and learns only that threat conditions must be resolved before repair can resume.
@@ -52,6 +55,7 @@
 - Range: `u1210` → `u1564`
 - Lines: 355
 - Date: 1730-01-29
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: The party abandons the idea of fixing the lightning-filled conduit directly, struggles back out of the chamber, repositions the floating rock to the lowest section, opens the final hatch, and spots the arguing orcs and the lightning-shrouded figure below.
@@ -65,6 +69,7 @@
 - Range: `u1565` → `u1907`
 - Lines: 343
 - Date: 1730-01-29
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: yes
 - Boundary Reason: The party drops into the bottom chamber, opens the fight with Finnan's hypnotic pattern, and starts cutting down the lesser orcs before the separate lightning-wreathed enemy crosses the battlefield and the sleeping orcs are reactivated.
@@ -78,6 +83,7 @@
 - Range: `u1908` → `u2380`
 - Lines: 473
 - Date: 1730-01-29
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: yes
 - Boundary Reason: Once the lightning-shrouded orc joins the melee and the hypnotized enemies start getting woken back up, the fight shifts into a harder second phase with fear effects, explosive deaths, and the god caller taking over as the main threat.
@@ -91,6 +97,7 @@
 - Range: `u2381` → `u2755`
 - Lines: 375
 - Date: 1730-01-29
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: yes
 - Boundary Reason: After the god caller disengages, unleashes a lightning blast, and tries to turn the fight again, the party rallies, burns down the last serious foe, and stops at the edge of the post-combat search when the DM pushes the aftermath into the next session.
@@ -104,6 +111,7 @@
 - Range: `u2756` → `u2850`
 - Lines: 95
 - Date: 1730-01-29
+- Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
 - Boundary Reason: Once the DM explicitly pauses the dungeon aftermath for next session, the transcript shifts out of in-character action and into scheduling, campaign pacing, and session closeout, which is a strong enough break to stand as a short terminal beat.

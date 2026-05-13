@@ -78,7 +78,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 - Justas: name=David Schwartz, gameRole=Justas
 - DM: name=Mike Sackton, gameRole=DM
 
-## Transcript
+## Source
 
 [u0845 | 01:14:55.610-01:14:57.319 | DM] Don't think we're wrong.
 [u0846 | 01:14:58.080-01:15:03.770 | DM] But many are convinced by the elders who do believe our souls will be eaten if we leave.

@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
-  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-006/cleaned/into-the-chasm-006-source-cleaned.md",
-  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm-006/cleaned/into-the-chasm-006-session.yaml",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-session.yaml",
   "beats": [
     {
       "beatId": "beat-001",
@@ -12,6 +12,7 @@
       "dateStart": "1730-01-29",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "The session opens with table preamble and recap, then settles into a single exploration scene in the damaged hall as the party studies the black pillars, inspects the keystone, debates the lower hatches, and ends when Eolo tries to toss the stone away and the group snaps into initiative order.",
       "dateEvidence": [
@@ -29,6 +30,7 @@
       "dateStart": "1730-01-29",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "Once initiative starts, the scene focuses on suppressing the stone's charm, containing it safely, consulting Eidrikas about the machine and Melusa, and deciding on a short rest and return trip, which forms a coherent post-retrieval resolution before the explicit rest begins.",
       "dateEvidence": [
@@ -46,6 +48,7 @@
       "dateStart": "1730-01-29",
       "dateEnd": null,
       "timeWindow": "night",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "The beat begins with the short rest that carries the party into starlight, then follows their passage back through the portal, the wisp swarm attack on arrival, and their first survey of the darkened, abandoned-feeling edge of Melusa before they commit to a rescue plan.",
       "dateEvidence": [
@@ -63,6 +66,7 @@
       "dateStart": "1730-01-29",
       "dateEnd": null,
       "timeWindow": "night",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "After deciding not to visit the palace, the party looks for willing escapees, finds Zahara's group, learns what happened after the palace fell dark, and works out the first rescue concept until Finnan turns from planning to actively rousing the town.",
       "dateEvidence": [
@@ -80,6 +84,7 @@
       "dateStart": "1730-01-29",
       "dateEnd": null,
       "timeWindow": "night",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "Finnan's public call turns the rescue effort into a town-wide social scene: villagers emerge, an older skeptic challenges him, the party weighs whether to involve the fae lord, and they finally settle on rescuing the smaller willing group before cutting to round-by-round execution.",
       "dateEvidence": [
@@ -97,6 +102,7 @@
       "dateStart": "1730-01-29",
       "dateEnd": null,
       "timeWindow": "night",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "Once the party starts running the rescue in rounds, the session shifts into a sustained tactical evacuation beat as Justas and Ekko draw the wisps, Eolo receives refugees on the far side, and the group gets dozens of people through before Eidrikas reinstalls the keystone and the portal begins to fail.",
       "dateEvidence": [
@@ -114,6 +120,7 @@
       "dateStart": "1730-01-29",
       "dateEnd": null,
       "timeWindow": "night",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "After the keystone is restored and the immediate rescue ends, the transcript moves into aftermath planning, refugee logistics, summary narration of the broader evacuation, lore questions about the chasm machinery, and then table-level campaign debrief and session closeout.",
       "dateEvidence": [
