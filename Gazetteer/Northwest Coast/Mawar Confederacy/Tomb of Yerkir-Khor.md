@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai, status/gameupdate/mawar]
+tags: [place]
 aliases: [Yerkir-khor's monument and tomb, Yerkir-khor's tomb, Yerkir-khor's monument]
 name: Tomb of Yerkir-Khor
 typeOf: holy site
@@ -9,21 +9,13 @@ whereabouts: Mawar Confederacy
 dm_notes: none
 dm_owner: tim
 ---
+# The Tomb of Yerkir-Khor
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%
+The Tomb of Yerkir-Khor is an ancient earth-themed tomb in the inland forest of the [[Mawar Confederacy]], several days up the [[Mirmir]] from [[Hamri]]. 
 
+Its entrance inscription, written in Terran, reads: "Here lies [[Yerkir-khor]] the Undaunted, Prince of Earth, Lord of the Rock Below, and Guardian of the Crystal Skies." The tomb or monument appears to honor Yerkir-khor as an earth-lord tied to caverns, mountains, canals, mining, farming, and trade with dwarves.
 
-Proposed text updates:
-- Add a short overview identifying the site as a partially buried stone flower-like monument in the inland forest up the [[Mirmir]] from [[Hamri]].
-- Describe the Terran inscription naming [[Yerkir-khor]] as "the Undaunted, Prince of Earth, Lord of the Rock Below, and Guardian of the Crystal Skies."
-- Summarize the entrance shaft, crystal-mosaic hall, blade trap, gargoyle wardens, serpent-headed statue, stone keys, lower corridors, lightning-crystal stair, and blue-lit inner sanctum.
-- Note that the inner sanctum mosaics show an earth lord flattening mountains, shaping valleys and canals, receiving offerings, and being honored through farming, mining, and trade with dwarves.
-- Link the tomb's guardian and dedication to [[Yerkir-khor]], and mention that [[Hiyasa]] was found half-entombed there before the party destroyed the ancient earth protector.
-
-Source links:
-- [[Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 03|Mawar Adventures Episode 03]]
-- [[Campaigns/Mawar Adventures/_generated/session-notes/mawar-adventures-session-3/01-session-info|generated Session 3 info]]
-- [[Campaigns/Mawar Adventures/_generated/session-notes/mawar-adventures-session-3/03-narrative|generated Session 3 narrative]]
-- [[_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-session-recap|backend Session 3 recap]]
-- [[Yerkir-khor]]
-%%
+%%SECRET[1]%%
