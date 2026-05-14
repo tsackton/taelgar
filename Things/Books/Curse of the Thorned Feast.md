@@ -13,3 +13,5 @@ written: "sometime after the [[Fall of Drankor]]"
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 *Curse of the Thorned Feast* is a classic Chardonian ballad often sung as a cautionary tale. It tells of a wandering warrior or knight who wrongs a dryad by dining eagerly in her grove without proper thanks or recompense, and is cursed to serve the forest for a hundred and one years.
+
+%% timing note: The current date only places this after the [[Fall of Drankor]]. Since [[The Lore of the Feywild]] treats it as a classic Chardonian ballad and was completed in DR 1733, this ballad must predate DR 1733 if that relationship is retained. most likely it pre-dates the Great War %%
