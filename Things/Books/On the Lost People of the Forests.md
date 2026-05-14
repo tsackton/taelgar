@@ -1,24 +1,29 @@
 ---
 headerVersion: 2023.11.25
 tags: [object]
+displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: "completed in"}
 name: On the Lost People of the Forests
 typeOf: book
+typeOfAlias: geographical treatise
 ancestry: Chardonian
 dm_owner: none
 dm_notes: color
+created: 1725
+author: Gnaeus
 ---
-# The On the Lost People of the Forests
+# On the Lost People of the Forests
 >[!info]+ Information  
-> (book)  
+> A [[Chardonian Empire|Chardonian]] geographical treatise, by [[Gnaeus]]  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% double check to make sure I have all  text about this book here %%
 
-Written by the scholar [[Gnaeus]], of [[Chardon]], disgraced for using enchanment magic in his research. 
+Written by the scholar [[Gnaeus]], of [[Chardon]], disgraced for using enchanment magic in his research.
 
 "In a book by Chardonian scholar, [[Gnaeus]], written about a generation ago (maybe 20ish years), recently acquired from a book trader, [[Kassi]] finds a mention of [[Rai]]. The book is a record/catalog of surviving people of the forests of [[Chardon]]. He describes a story of a group of people, northerners, who live upriver from [[Chardon]] in the great forest, mysterious, few tales of them. But he found a way in, he used magic to convince one to speak of their secret religion, and learned it was a cult dedicated to the Demigod of Magic [[Rai]], who speaks through the dreams of the high priest."
 
-This book records the details of [[Gnaeus]]' journey to the [[Elderwood]]: 
+This book records the details of [[Gnaeus]]' journey to the [[Elderwood]]:
 
 "25 years ago, as a young student, [[Gnaeus]] was intrigued by the stories and mysteries of the great forest, known as variously [[Ainumarya]] (from the original elvish name, meaning the home of the first gods, referring to the whole stretch) and more recently the surviving pieces are named the [[Elderwood]], the [[Crimson Forest]] (after the rumors that the trees ran red with the blood of the elves), and the [[Forest of Dreams]], from south to north.
 
