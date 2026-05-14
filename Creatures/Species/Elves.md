@@ -1,7 +1,7 @@
 ---
 tags: [status/wip, creature]
 name: Elves
-aliases: [elf, elves, Elf, Elves, elven, Elven]
+aliases: [elf, elves, Elf, Elves, elven, Elven, elvish]
 dm_owner: joint
 dm_notes: none
 ---

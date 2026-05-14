@@ -2,27 +2,32 @@
 headerVersion: 2023.11.25
 tags: [object]
 typeOf: book
+typeOfAlias: historical chronicle
+ancestry: Chardonian
 name: Cavarrio's Chronicles of Drankor
-displayDefaults: {defArt: ""}
+displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, by )author:x>", startStatus: "Completed in"}
+created: 1209
 dm_notes: none
 dm_owner: none
+author: Cavarrio
 ---
 # Cavarrio's Chronicles of Drankor
 >[!info]+ Information  
-> (book)  
+> A [[Chardonian Empire|Chardonian]] historical chronicle, by [[Cavarrio]]  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The *Chronicles of Drankor* is an extensive history and chronicle of the Drankorian Empire. It is typically considered the most comprehensive source on Drankorian chronology by the [[Faculty of History]], and is a standard part of their curriculum. It was written by the Chardonian scholar [[Cavarrio]] in DR 1209. 
+The *Chronicles of Drankor* is an extensive history and chronicle of the Drankorian Empire. It is typically considered the most comprehensive source on Drankorian chronology by the [[Faculty of History]], and is a standard part of their curriculum. It was written by the Chardonian scholar [[Cavarrio]] in DR 1209.
 
-The work is most famous for a long section, the *Annals of the Emperors*, which is considered a comprehensive list of the Emperors of Drankor and is reproduced below. Some scholars question whether it is entirely and completely accurate, as many of the sources used here have since been lost. 
+The work is most famous for a long section, the *Annals of the Emperors*, which is considered a comprehensive list of the Emperors of Drankor and is reproduced below. Some scholars question whether it is entirely and completely accurate, as many of the sources used here have since been lost.
 
 There is also a long discussion of the arc of Drankorian history, which Cavarrio divides into five distinct eras:
 
-- The Founding Era, when the Drankorian Empire was established and first grew across what is now the lower Istaros and the [[Hara Basin]], and then into the western Green Sea. 
+- The Founding Era, when the Drankorian Empire was established and first grew across what is now the lower Istaros and the [[Hara Basin]], and then into the western Green Sea.
 - The First Peace, a long period of peace and prosperity and stability
 - The Western Wars, when the Empire expanded north along the west coast
-- The Golden Age, a second period of peace and prosperity. 
-- The Decline and Fall, marked by civil war and then fruitless battles in the east, leading up to the destruction of Drankor. 
+- The Golden Age, a second period of peace and prosperity.
+- The Decline and Fall, marked by civil war and then fruitless battles in the east, leading up to the destruction of Drankor.
 
 ## Annals of Emperors
 

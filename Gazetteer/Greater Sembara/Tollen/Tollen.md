@@ -4,7 +4,7 @@ tags: [place]
 name: Free City of Tollen
 typeOf: settlement
 whereabouts: Western Green Sea
-aliases: [Free City of Tollen,  Tollen, Tollender]
+aliases: [Free City of Tollen,  Tollen, Tollender, Tollish]
 dm_owner: tim
 dm_notes: important
 typeOfAlias: city

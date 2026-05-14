@@ -11,6 +11,8 @@ dm_notes: color
 
 Gaius Devarro was an early metaphysical cosmologist of Chardon and one of the formative voices behind the Standard Multiversal Model. Building on older Drankorian notions of demiplanes and echo realms, Gaius argued that echoes of the Riving allow strong wills to shape pockets of extraplanar space, and that permanent Echo Realms may be fully or partially co‑extant with their source plane. His [[On Minds and Chaos]] collected fragments attributed to Limbo travelers, shaping later expectations about will, form, and instability in that realm.
 
+He lived in Chardon during the waning days of the Drankorian Empire and was an important early member of the [[Faculty of Metaphysics]]. 
+
 %%
 DM notes / sources
 - Cosmology: Echo Realms — Gaius’s synthesis within the Standard Model.

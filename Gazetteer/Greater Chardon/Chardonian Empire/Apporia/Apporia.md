@@ -6,6 +6,7 @@ tags:
 aliases:
   - ~Chardon Peninsula~
   - Apporian Peninsula
+  - Apporian
 typeOf: topographical feature
 whereabouts: Greater Chardon
 pronunciation: a-POHR-ree-ah
