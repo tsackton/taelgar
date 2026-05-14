@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [object, status/stub, status/check/ai]
+tags: [object]
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: "completed in"}
 typeOf: book
 typeOfAlias: epic poem

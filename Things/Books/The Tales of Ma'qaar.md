@@ -14,3 +14,5 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 *The Tales of Ma'qaar* is a [[Deno'qai]] epic known from one of the rare sources collected in [[The Lore of the Feywild]]. Ulfgar Frostbeard's *Fey Discourses* preserves one of the only recorded versions, pieced together from the unpublished notes of [[Eukos the Wanderer]].
+
+%% timing note: This epic must predate [[The Lore of the Feywild]] and, more specifically, the unpublished notes of [[Eukos the Wanderer]] used by Ulfgar. Existing source notes place Eukos in the early DR 1500s, so the recorded tradition must be no later than that, though the original composition date remains unknown. %%

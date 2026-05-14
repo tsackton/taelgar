@@ -16,3 +16,5 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 *An Exploration of Magical Connections Between the Planes* is an early study by [[Gaius Devarro]] of the [[Faculty of Metaphysics]] in [[Chardon]]. In it, Gaius cataloged rumors and legends about [[Ley Lines]], including accounts of places where ley lines are disrupted or absent and arcane magic behaves strangely, or not at all.
+
+%% timing is assumed to be after DR 939 when University of Chardon is founded, but before the 990s when the true decline and war started %%
