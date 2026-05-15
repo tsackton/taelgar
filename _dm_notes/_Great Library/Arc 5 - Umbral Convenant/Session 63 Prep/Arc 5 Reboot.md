@@ -35,3 +35,12 @@ Remember that the more dreamers wake up, the weaker the [[Shemra Azem]] are. So 
 
 Next steps - start sketching out the various scenes in a diagram to link this up. But keep it to something that can be finished in ~6 hours or so?
 
+## Scene Brainstorming
+
+Probably want 3-5 combats, plus an additional 2-4 role-playing/exploration scenes, and time for the final denouement to land. 
+
+4 level 13 characters, so aiming for:
+- 7800 XP easy (~CR 11-12 solo)
+- 16800 XP medium (~CR 16-17 solo)
+- 21600 XP hard (~CR 19 solo)
+
