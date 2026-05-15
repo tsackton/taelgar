@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [person]
 species: lizardfolk
 gender: male
-born: 1719
+born: 1717
 player: Tim Sackton
 dm_owner: player
 dm_notes: none
