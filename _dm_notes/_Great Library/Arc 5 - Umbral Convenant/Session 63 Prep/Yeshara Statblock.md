@@ -1,17 +1,5 @@
----
-headerVersion: 2023.11.25
-tags: [background, status/check/ai]
-name: Yeshara Statblock
-campaign: GL
-sessionNumber: 63
-dm_owner: tim
-dm_notes: important
----
 # Yeshara, Wolf-Queen of Eternal Waking
 
-%% First-pass Session 63 statblock generated at user request. Intended as a CR 19 solo/near-solo final guardian for the escape from [[Cairn Dor]]. Review numbers and action economy before play. %%
-
-%% Design note: The active mechanics are split into three lanes: lethargy/slow effects (Lidless Wakefulness, Wolf-Shadow Claw, slow); nightmares and sleep terror (Lidless Nightmare, Sleep Nevermore, The Queen Opens Her Eyes, The Long Night Falls); and wakefulness/no escape (Dread Lord of Cairn Dor, Waking Command, Shattered Vigil, Shadow-Wolf Step, No Rest for the Fleeing, Drink the Unopened Dreams). %%
 
 _Medium Fey (Dread Lord), neutral evil_
 
@@ -81,14 +69,11 @@ _Hit:_ 26 (5d8 + 4) slashing damage. If the target is a creature, it suffers 10 
 _Ranged Spell Attack:_ +13 to hit, range 120 ft., one target.  
 _Hit:_ 27 (6d8) psychic damage. If the target is a creature, it must succeed on a DC 20 Wisdom saving throw or be frightened of Yeshara until the end of its next turn.
 
-### Lidless Stare 
+### Lidless Stare
 
-Yeshara snaps one creature she can see within 90 feet into a state of terrible, over-bright wakefulness. The target must make a DC 20 Wisdom saving throw. On a failed save, the target takes 18 (4d8) psychic damage, then Yeshara chooses one of the following effects:
+Yeshara fixes her gaze on one creature she can see within 90 feet. The target must make a DC 20 Wisdom saving throw. On a failed save, the target takes 18 (4d8) psychic damage and is held in Yeshara's gaze until the end of its next turn.
 
-- **False Alarm.** The target lurches up to half its speed in a direction of Yeshara's choice, provoking opportunity attacks as normal.
-- **Buckling Exhaustion.** The target drops prone.
-
-An unconscious target automatically fails this saving throw and wakes before suffering the effect.
+While held in Yeshara's gaze, the target cannot Move, cannot take the Disengage or Hide action, cannot benefit from being invisible, and cannot move to a space more distant from Yeshara than their current space. 
 
 ### Sleep Terror (Recharge 5-6)
 
@@ -110,9 +95,9 @@ Yeshara magically teleports up to 60 feet to an unoccupied space she can see wit
 
 ## Reactions
 
-### No Rest for the Fleeing
+### Shivering Glare
 
-When a creature Yeshara can see within 60 feet moves at least 10 feet away from her, or enters the exit portal, Yeshara teleports to an unoccupied space she can see within 10 feet of that creature and makes one Wolf-Shadow Claw attack against it. On a hit, the attack does not apply lethargy, but the target's speed becomes 0 until the end of the current turn.
+When a creature within 60 feet of Yeshara hits her with an attack roll, they must make DC 20 Constitution saving throw or take 10 (3d6) cold damage. 
 
 ## Villain Actions
 
@@ -124,12 +109,14 @@ Yeshara has three villain actions. She can take each action once during an encou
 
 Each enemy that can see Yeshara must choose: look away or meet her gaze. A creature that looks away is blinded until the end of its next turn. A creature that meets her gaze must succeed on a DC 20 Wisdom saving throw or take 27 (6d8) psychic damage and be unable to benefit from being hidden or invisible until the end of Yeshara's next turn.
 
-### Action 2: Drink the Unopened Dreams
+### Action 2: Wake, and Feed Me
 
-Yeshara tears herself awake by drinking from every dream still sealed in Cairn Dor. Yeshara ends one spell or condition affecting her, teleports up to 60 feet to an unoccupied space she can see, and regains 70 hit points if any current lizardfolk dreamer barrows remain sealed, or 35 hit points if all current lizardfolk dreamer barrows have been opened.
+Yeshara tears every half-formed nightmare back into herself. She ends one spell or condition affecting her. Then each enemy of her choice within 120 feet that is affected by lethargy of Yeshara's features takes 27 (6d8) cold damage and removes their lethargy. 
+
+Yeshara gains 30 temporary hit points, plus 10 THP for each creature damaged this way, then teleports up to 60 feet to an unoccupied space she can see.
 
 ### Action 3: Buried Awake
 
-Pale barrow-stones rise around Yeshara's enemies. Each enemy within 120 feet must make a DC 20 Wisdom saving throw. On a failed save, a creature takes 45 (10d8) psychic damage and is entombed in nightmare-stone. On a successful save, it takes half damage and is not entombed.
+Pale barrow-stones rise around Yeshara's enemies. Each enemy within 120 feet must make a DC 20 Wisdom saving throw. On a failed save, a creature takes 54 (12d8) psychic damage and is entombed in nightmare-stone. On a successful save, it takes half damage and is not entombed.
 
 An entombed creature is restrained and blinded until the end of its next turn. A creature that is reduced to 0 hit points while buried awake becomes a dreamer. 
