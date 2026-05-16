@@ -31,13 +31,15 @@ They could come up with something else, too, I guess, but not obvious what it is
 
 Cairn Dor is a reflection and evolution of the [[Yo'nari]] settlers dragged here in a time long past. Yeshara, the Wolf-Queen, has ruled forever, protecting her people from the dangers of the night. 
 
-There is one major village, Eshlem, where most of the population lives, though there are numerous scattered homesteads in two other smaller villages, Belmarn and Sarnel. Organized a bit like [[Raha]], though much more agriculturally focused. No, or at least not many, pigs/cows/horses, but lots of chickens. Boundary stones with the wolf motif mark the edges of the village. 
+There is one major village, Eshlem, where most of the population lives, though there are numerous scattered homesteads in two other smaller villages, Belmarn and Ramsher. Organized a bit like [[Raha]], though much more agriculturally focused. No, or at least not many, pigs/cows/horses, but lots of chickens. Boundary stones with the wolf motif mark the edges of the village. 
 
 Eshlem is not unwelcoming, though travelers are rare and often treated with suspicion; there is a lot of local fear about fey who steal your soul while you sleep. The vibe is very strongly that the [[Shemra Azem]] protect them from the dangers of dreams. Without them, people would die every night, just not wake up. The people don't really know about the dreamers or anything like that, they just know that those who are enlightened and transcend the need for sleep are called to protect others who still occasionally fall into danger. 
 
 Outside the villages, this is deep/dense old English woods, often foggy, with crags and outcroppings. 
 
 The Wolf Queen, [[Yeshara]], lives in hill fort, and rarely leaves, preferring to brood over her failures than interact with the population. This is called Sarren Kir, the fort of the sleepless. Most villagers can point it out, though will need a reason why. 
+
+Also the Stillings, the places where contaminated sleepers are kept away from the people. 
 
 ### Sleeping in Cairn Dor
 
