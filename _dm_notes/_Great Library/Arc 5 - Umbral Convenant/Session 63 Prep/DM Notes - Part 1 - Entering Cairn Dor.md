@@ -37,7 +37,7 @@ Eshlem is not unwelcoming, though travelers are rare and often treated with susp
 
 Outside the villages, this is deep/dense old English woods, often foggy, with crags and outcroppings. 
 
-The Wolf Queen, [[Yeshara]], lives in hill fort, and rarely leaves, preferring to brood over her failures than interact with the population. This is called Sarren Kir, the fort of the sleepless. Most villagers can point it out, though will need a reason why. 
+The Wolf Queen, [[Yeshara]], lives in hill fort, and rarely leaves, preferring to brood over her failures than interact with the population. This is called [[Sarren Kir]] the fort of the sleepless. Most villagers can point it out, though will need a reason why. 
 
 Also the Stillings, the places where contaminated sleepers are kept away from the people. 
 

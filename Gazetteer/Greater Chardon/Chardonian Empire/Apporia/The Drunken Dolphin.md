@@ -16,3 +16,7 @@ typeOfAlias: tavern
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A bustling sailor's tavern on the docks in [[Castrella]]. 
+
+%%
+popular, relatively high-quality food, less of a rowdy place, known for singers
+%%
