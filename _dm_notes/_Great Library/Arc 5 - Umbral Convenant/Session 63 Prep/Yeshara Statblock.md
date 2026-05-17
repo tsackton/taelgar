@@ -57,7 +57,7 @@ Yeshara has advantage on saving throws against spells and other magical effects.
 
 ### Multiattack
 
-Yeshara makes two attacks, using Wolf-Shadow Claw or Lidless Nightmare in any combination, and she uses Waking Command. She can replace one attack with a use of Spellcasting.
+Yeshara makes two attacks, using Wolf-Shadow Claw or Lidless Nightmare in any combination, and she uses Lidless Stare. She can replace one attack with a use of Spellcasting.
 
 ### Wolf-Shadow Claw
 
@@ -73,7 +73,7 @@ _Hit:_ 27 (6d8) psychic damage. If the target is a creature, it must succeed on 
 
 Yeshara fixes her gaze on one creature she can see within 90 feet. The target must make a DC 20 Wisdom saving throw. On a failed save, the target takes 18 (4d8) psychic damage and is held in Yeshara's gaze until the end of its next turn.
 
-While held in Yeshara's gaze, the target cannot Move, cannot take the Disengage or Hide action, cannot benefit from being invisible, and cannot move to a space more distant from Yeshara than their current space. 
+While held in Yeshara's gaze, the target cannot Move in any way, cannot take the Disengage or Hide action, cannot benefit from being invisible. 
 
 ### Sleep Terror (Recharge 5-6)
 
@@ -84,8 +84,8 @@ Yeshara releases a howl of sleepless terror in a 60-foot cone. Each creature of 
 Yeshara casts one of the following spells, requiring no material components and using Charisma as the spellcasting ability (spell save DC 20, +13 to hit with spell attacks):
 
 At will: _command_, _detect thoughts_, _dispel magic_, _minor illusion_, _sleep_  
-3/day each: _confusion_, _fear_, _hypnotic pattern_, _slow_  
-1/day each: _dream_, _eyebite_, _mass suggestion_
+3/day each: _confusion_, _fear_, _slow_  
+1/day each: _dream_, _eyebite_, _mass suggestion_, _hypnotic pattern_
 
 ## Bonus Actions
 
@@ -117,6 +117,6 @@ Yeshara gains 30 temporary hit points, plus 10 THP for each creature damaged thi
 
 ### Action 3: Buried Awake
 
-Pale barrow-stones rise around Yeshara's enemies. Each enemy within 120 feet must make a DC 20 Wisdom saving throw. On a failed save, a creature takes 54 (12d8) psychic damage and is entombed in nightmare-stone. On a successful save, it takes half damage and is not entombed.
+Pale barrow-stones rise around Yeshara's enemies. Each enemy within 120 feet must make a DC 20 Wisdom saving throw. On a failed save, a creature takes  8d8 psychic damage + 8d8 cold damage and is entombed in nightmare-stone. On a successful save, it takes half damage and is not entombed.
 
 An entombed creature is restrained and blinded until the end of its next turn. A creature that is reduced to 0 hit points while buried awake becomes a dreamer. 
