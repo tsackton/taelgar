@@ -20,7 +20,7 @@ All dates in the Dwarven Count of Years.
 * (CY:: 4730) First Drankorian armies cross the [[Myraeni gap]] and capture settlements in the lowlands along the [[Yeraad]] river valley. %% should be 597 DR, I think I did my math right -Tim %%
 * (CY:: 4821) [[Great Library]] is founded in [[Chardon]]
 * (CY:: 5192) The [[First Plague]] strikes [[Drankor]], killing most of the population of the city and ending the [[Drankorian Empire]].
-* (CY:: 5275) [[Adrian]] establishes himself in [[Embry]] as the first [[Duchy of Sembara|Duke of Sembara]] %% Not 100% canonical %%
+* (CY:: 5275) [[Adrian of Embry]] establishes himself in [[Embry]] as the first [[Duchy of Sembara|Duke of Sembara]] %% Not 100% canonical %%
 * (CY:: 5304) The Dunmari migration reaches the [[Istaros|Mahar]], as described in [[Founding of Dunmar]]
 * (CY:: 5306) Dunmari conquer as far north as the mountains and as far west as the [[Myraeni Gap]] in a swift war. [[Jeevali]] resurrected by [[Bhishma]]’s prayers. [[Aatmaji Dynasty]] founded by [[Bhishma]].
 * (CY:: 5562) Defeat of [[Avatus]] and the founding of modern [[Sembara]]

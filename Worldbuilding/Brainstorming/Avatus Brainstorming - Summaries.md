@@ -271,7 +271,7 @@ The Lakan monks uncover and begin studying older elven and planar sites (e.g., a
 
 ### Formation of the Six Duchies and Sembaran Core
 
- By **(DR:: 1142)**, **[[Adrian]]** establishes himself in [[Embry]] as the first **Duke of Sembara**, marking the start of distinct post‑Drankorian Sembaran polity. 
+ By **(DR:: 1142)**, **[[Adrian of Embry]]** establishes himself in [[Embry]] as the first **Duke of Sembara**, marking the start of distinct post‑Drankorian Sembaran polity. 
    Sources: [[Timeline of Sembaran History]], [[Canonical Events]].  
   
   By **(DR:: 1250)**, the **Six Duchies era** is in full swing: coastal lowland polities have stabilized into the duchies that later form the heart of Sembara—[[Duchy of Sembara|Sembara]], [[Duchy of Cheimen|Cheimen]], [[Duchy of Wisford|Wisford]], [[Duchy of Seham|Seham]], [[Duchy of Telham|Telham]], and [[Duchy of Arnsbury|Arnsbury]].  

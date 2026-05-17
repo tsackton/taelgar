@@ -47,7 +47,7 @@ In DR 1059, the [[First Plague]] came and the Drankorian Empire collapsed. Littl
 
 %% some thought needs to be given to how the history in the Plague Years plays out w/r/t language family development, as this sets the seeds for divergence of Drankorian dialects into full-blown languages; c.f. [[Languages]] and [[Language - Discussions]], especially the spread of Sembaran which is an Eastros language; implies to me a strong barrier around Maseau / Enst and significant Tollish influence in Sembara in Plague Years %%
 ###
-* ((DR:: 1142)): [[Adrian]] establishes himself in [[Embry]] as the first [[Duchy of Sembara|Duke of Sembara]] %% not obvious date is canonical, but could be? %%
+* ((DR:: 1142)): [[Adrian of Embry]] establishes himself in [[Embry]] as the first [[Duchy of Sembara|Duke of Sembara]] %% not obvious date is canonical, but could be? %%
 
 ## The Six Duchies
 DR 1250 - DR 1400
