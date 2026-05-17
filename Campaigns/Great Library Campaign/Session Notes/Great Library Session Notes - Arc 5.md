@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [session-note]
 DR: 1748-08-22
-DR_end: 1748-10-02
+DR_end: 1752-06-29
 name: Chronicles of the Quest for Answers to Extraplanar Mysteries  
 ---
 # Chronicles of the Quest for Answers to Extraplanar Mysteries  
@@ -37,7 +37,50 @@ Instead, they limp back to [[Castrella]], where they pay to have the sleepless c
 
 ### Session 63
 
-The party rests and recovers in [[Castrella]] for a few weeks, restocking and gathering information. Mabist talks to Thorek Deepdweller, an old dwarf hermit who tells of [[Enderra]] and the [[War of the Dark Rift]], and the rumors of a hidden portal to [[Cairn Dor]] among the dwarven tunnels; [[Adrik]] also searches for information but never leaves [[The Sober Seal]].
+The party rests and recovers in [[Castrella]], restocking and gathering information. Mabist talks to [[Thorek Deepdweller]], an old dwarf hermit who tells of [[Enderra]] and the [[War of the Dark Rift]], and the rumors of a hidden portal to [[Cairn Dor]] among the dwarven tunnels; [[Adrik]] also searches for information but never leaves [[The Sober Seal]]. After a few weeks, the [[Silver Tempests]] gather at [[The Sober Seal]] to discuss their plans and next steps. 
+
+Deciding for a direct attack, the next morning the party uses _Plane Shift_ to reach [[Cairn Dor]], arriving in a dense fog, apparently on a rocky hill top. After Mabist nearly falls off the cliff, the party explores as best they can, eventually finding a path, which they follow inward away from the edge. After passing through a trilith marked with wolf motifs, they magically emerge from the fog into clear skies, with several guards protecting the fort of [[Sarren Kir]]. 
+
+After some brief negotiation, they convince the guards to led them to the village of [[Eshlem]]. Near the cliff, they attack in the fog. The guards fall seemingly dead relatively quickly, but are brought back to life by the sigil-tattoos on their chest, seemingly unable to die while the dreamers sleep, unless the tattoo is destroyed. After discovering the weakness of the [[Shemra Azem]], the party returns, kills the last few minion guards, and enters the fort. 
+
+Inside, they find some human prisoners, waiting to become dreamers, and [[Yeshara]]. [[Yeshara]] questions them, speaking in archaic Common, and seems unconcerned by the threat, claiming she cannot be hurt while the dreamers sleep. 
+- glance to barrow, teleport, barrow clues but no dreamers
+- minions move to surround Adrik, he attacks, unwinnable fight starts, eventually party flees aided by Adrik's jumps and Samso's giant lizard form speed
+- escape into the fog; Yeshara does not chase
+
+#### Eshlem and the Stillings
+
+- The party follows the road to [[Eshlem]] and meets several villagers.
+- They speak with [[Joram of Eshlem]], an old war veteran who speaks Goblin, and learn of the Stillings where sleep is kept contained.
+- They return to [[Sarren Kir]], with wolves hunting them.
+
+#### Old Barrows and Enderra
+
+- The party finds old barrows containing dead dwarf dreamers from the [[War of the Dark Rift]].
+- They defeat undead in the old barrows.
+- [[Adrik]] finds a portal to [[Enderra]], and an iron golem
+
+#### Lizardfolk Dreamers
+
+- The party finds the lizardfolk dreamers.
+- They fight [[Shemra Azem]] guards.
+- They bring _Daylight_ to the barrows, awakening sleepers and destroying [[Shemra Azem]].
+
+#### Yeshara's Fall
+
+- The party fights and defeats [[Yeshara]].
+- As [[Yeshara]] falls, [[Blue]], [[Adrik]], and [[Mabist]] fall into sleep, along with the lizardfolk dreamers and the inhabitants of [[Cairn Dor]].
+- [[Samso]], transformed into an Earth Elemental, is unaffected by sleep and wanders the realm for years, eventually deciding to sleep with his companions.
+
+#### Awakening and Return
+
+- [[Blue]], [[Adrik]], [[Mabist]], [[Samso]], and the lizardfolk dreamers awake in [[Cairn Dor]]; the native inhabitants still slumber.
+- The party leaves [[Cairn Dor]] via the [[Enderra]] portal.
+- They learn of chaos in [[Voltara]] and the splitting of the [[Northern Provinces]] from the [[Chardonian Empire]].
+- They attempt to _Transport Via Plants_ to [[Tempest Towers]], but fail.
+- The party arrives in [[Urkabi]] with the lizardfolk rescued from [[Cairn Dor]].
+- [[Samso]] parts ways with his family and kin.
+- [[Adrik]], [[Samso]], [[Mabist]], and [[Blue]] _Transport Via Plants_ to an orchard outside [[Voltara]].
 
 
 
@@ -50,8 +93,7 @@ The party rests and recovers in [[Castrella]] for a few weeks, restocking and ga
 - (DR:: 1748-09-21) - (DR_end:: 1748-09-25): Limp back to [[Castrella]], still under the curse of eternal waking from passing the sealed door. 
 - (DR:: 1748-09-26) - (DR_end:: 1748-10-12): Take rooms at [[The Laughing Gull]], and recover in [[Castrella]]. Find a priest to remove the curse of eternal waking for a generous donation. Research; meet [[Thorek Deepdweller]].  
 - (DR:: 1748-10-13): Gather at [[The Sober Seal]] in the evening, to discuss plans. 
-- (DR:: 1748-10-14): Plane Shift to [[Cairn Dor]], arriving on a foggy hill near the palace. Find palace. Lure guards from the gates, kill them. Meet [[Yeshara]] and discover some human prisoners; kill minions but run away from an unwinnable fight against [[Yeshara]]. Follow road to [[Eshlem]], meet a few villagers. Talk to an [[Joram of Eshlem]], an old war veteran who speaks Goblin, and learn of the Stillings where sleep is kept contained. Return to [[Sarren Kir]], with wolves hunting them. Find old barrows with dead dwarf dreamers from the [[War of the Dark Rift]], and defeat undead; [[Adrik]] finds a portal to [[Enderra]]. Find lizardfolk dreamers. Fight [[Shemra Azem]] guards, bring _Daylight_ to barrows awakening sleepers and destroying [[Shemra Azem]]. Fight and defeat [[Yeshara]]. Fall into sleep as [[Yeshara]] falls. 
-- (DR:: 1748-10-15) - (DR_end:: 1752-06-27): [[Blue]], [[Adrik]], and [[Mabist]] sleep, along with the lizardfolk dreamers and all the inhabitants of [[Cairn Dor]], as [[Yeshara]]'s dreamless slumber puts the realm into status. [[Samso]], transformed to an Earth Elemental, is unaffected by sleep and wanders the realm for years, eventually deciding to sleep with his companions. 
+- (DR:: 1748-10-14): Plane Shift to [[Cairn Dor]], arriving on a foggy hill near the palace. Find palace. Lure guards from the gates, kill them. Meet [[Yeshara]] and discover some human prisoners; kill minions but run away from an unwinnable fight against [[Yeshara]]. Follow road to [[Eshlem]], meet a few villagers. Talk to [[Joram of Eshlem]], an old war veteran who speaks Goblin, and learn of the Stillings where sleep is kept contained. Return to [[Sarren Kir]], with wolves hunting them. Find old barrows with dead dwarf dreamers from the [[War of the Dark Rift]], and defeat undead; [[Adrik]] finds a portal to [[Enderra]]. Find lizardfolk dreamers. Fight [[Shemra Azem]] guards, bring _Daylight_ to barrows awakening sleepers and destroying [[Shemra Azem]]. Fight and defeat [[Yeshara]]. Fall into sleep as [[Yeshara]] falls. 
+- (DR:: 1748-10-15) - (DR_end:: 1752-06-27): [[Blue]], [[Adrik]], and [[Mabist]] sleep, along with the lizardfolk dreamers and all the inhabitants of [[Cairn Dor]], as [[Yeshara]]'s dreamless slumber puts the realm into stasis. [[Samso]], transformed to an Earth Elemental, is unaffected by sleep and wanders the realm for years, eventually deciding to sleep with his companions. 
 - (DR:: 1752-06-28): [[Blue]], [[Adrik]], and [[Mabist]], along with the lizardfolk dreamers, and [[Samso]], awake in [[Cairn Dor]]; the native inhabitants still slumber. Leave [[Cairn Dor]] via the [[Enderra]] portal. Learn of chaos in [[Voltara]] and the splitting of the [[Northern Provinces]] from the [[Chardonian Empire]]. Attempt to _Transport Via Plants_ to [[Tempest Towers]], but fail. 
 - (DR:: 1752-06-29): Arrive in [[Urkabi]] with lizardfolk rescued from [[Cairn Dor]]. [[Samso]] parts ways with his family and kin, who are eternally grateful. [[Adrik]], [[Samso]], [[Mabist]], and [[Blue]] _Transport Via Plants_ to an orchard outside [[Voltara]]. 
-
