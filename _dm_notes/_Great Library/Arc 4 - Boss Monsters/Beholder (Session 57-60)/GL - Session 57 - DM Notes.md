@@ -40,7 +40,7 @@ Iara"
       
     - The chalyte miners complain that they cannot meet the demands of the caravans going south, it seems every month Chardon wants more and more
       
-    - The centaurs are moving north as the spring comes, now that the way is safe again. But Aris has decided to stay, her leg never healed properly and she cannot make the long journeys of her people. And she has grown to love the farms and fields of Voltara, she comes to roam frequently.
+    - The centaurs are moving north as the spring comes, now that the way is safe again. But [[Aris]] has decided to stay, her leg never healed properly and she cannot make the long journeys of her people. And she has grown to love the farms and fields of Voltara, she comes to roam frequently.
       
     - The hobgoblins in the mountains are getting more troublesome with Grumella gone, the legions have stayed and set up forts to the northwest to hold off the threat, but this is making it a hard winter for everyone as there are many mouths to feed.
              
