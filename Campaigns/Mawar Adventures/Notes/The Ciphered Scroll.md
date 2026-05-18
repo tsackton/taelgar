@@ -27,7 +27,7 @@ tags: [source]
 
 %%SECRET[5]%%
  
-*(6)* Nadine is back! I have reached the western coast of the Mawakel peninsula, I am staying in the small town of Mendin. Many pass through here, and there is even a small Chardonian trade mission. It is a good place for me. Just north is a salt lizardfolk town so access to gatza, and the gatza-addled, is easy, and there is enough coming and going that they are rarely missed. But the secrets of Airion’s research do not seem to have helped, for I have had four more failures. Nadine assures me she was safe while I was gone, and the boys are with her. But I must hurry. 
+*(6)* Nadine is back! I have reached the western coast of the Mawakel peninsula, I am staying in the small town of Mendin. Many pass through here, and there is even a small Chardonian trade mission. It is a good place for me. Just north is a salt lizardfolk town so access to gatza, and the gatza-addled, is easy, and there is enough coming and going that they are rarely missed. But the secrets in Airion's books do not seem to have helped, for I have had four more failures. Nadine assures me she was safe while I was gone, and the boys are with her. But I must hurry. 
 
 %%SECRET[6]%%
 

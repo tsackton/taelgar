@@ -42,7 +42,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 - phantom boat: no matching note found in the vault index
 - healing spirit: no matching note found in the vault index
 - Eldritch Maul tattoo: no matching note found in the vault index
-- Airion's notes: no matching note found in the vault index
+- [[Airion's Elemental Research]]: recovered annotated books from Airion's library; older works with Airion's glosses, not notebooks written by Airion
 - brass bowl: no matching note found in the vault index
 - scattered coins: no matching note found in the vault index
 - Airion's ring: no matching note found in the vault index

@@ -197,7 +197,7 @@
 **Time Window**: unknown
 **Combat**: no
 **Short Summary**: After the fight, the party stabilizes Azar, hears his full tale, clears his lair, identifies the recovered items, and sees him leave with Benat several days later.
-**Long Summary**: The aftermath spans several days: Wazir heals Azar and the party binds him, recovers from injuries, calms Shark's Dock, tends the woman killed by Azar's lightning, and hears Azar's full tale. That evening they search the Splinters, dispatch two drowned zombies, find Sefa dead, recover three books of Airion's notes and lore, lock the Blood Knife in the lead-lined box, collect the brass bowl and restitution coins, and on Aug 6 Wazir identifies the strange knife and the bowl of commanding water elementals before Azar leaves south with Benat on Aug 9 to heal and make amends.
+**Long Summary**: The aftermath spans several days: Wazir heals Azar and the party binds him, recovers from injuries, calms Shark's Dock, tends the woman killed by Azar's lightning, and hears Azar's full tale. That evening they search the Splinters, dispatch two drowned zombies, find Sefa dead, recover Airion's annotated books, lock the Blood Knife in the lead-lined box, collect the brass bowl and restitution coins, and on Aug 6 Wazir identifies the strange knife and the bowl of commanding water elementals before Azar leaves south with Benat on Aug 9 to heal and make amends.
 **Location**:
 - Hamri: Shark's Dock, Azar's lair in the Splinters, and the following days around town
   Note: The beat starts at the dock after combat and compresses the narrated multi-day aftermath through 1747-08-09.
@@ -208,12 +208,12 @@
 - Nadine (mentioned): Azar's dead wife. Azar's failed ritual was meant to bring her back.
 - Gazankoa (mentioned): source of the Blood Knife's influence. Azar says the voice gave him the Blood Knife and lied that the killings could restore his wife.
 - Nimessa (mentioned): marid compelled by Airion's ring. She stole the Sentient Ocean but was angry about being forced into it.
-- Airion (mentioned): wizard whose notes and ring guided Azar. His lore led Azar toward the Sentient Ocean and Hamri's water-plane weak spots.
+- Airion (mentioned): wizard whose annotated books and ring guided Azar. His glosses led Azar toward the Sentient Ocean and Hamri's water-plane weak spots.
 - Benat (mentioned): escort for Azar's departure south. Azar leaves with him for the lizardfolk village on 1747-08-09.
 **Items**:
 - Blood Knife (encountered): The party recovers it from Azar's lair and locks it in the lead-lined box.
 - lead-lined box (encountered): The box silences the Blood Knife once the party stores it inside.
-- Airion's notes (encountered): The party recovers three books of notes and lore: two in Drankorian and one in Elvish.
+- [[Airion's Elemental Research]] (encountered): The party recovers three older books from Airion's library, annotated with Airion's glosses; two are Drankorian works and one is Elvish.
 - brass bowl (encountered): Wazir identifies it as a bowl of commanding water elementals that must be filled with fresh ocean water and used immediately.
 - scattered coins (encountered): The recovered coins are paid as restitution to Sefa and the families of the dead who can be found.
 - Airion's ring (mentioned): It was a one-use magic item that allowed Azar to command Nimessa.

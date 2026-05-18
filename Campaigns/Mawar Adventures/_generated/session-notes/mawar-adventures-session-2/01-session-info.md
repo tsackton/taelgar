@@ -89,7 +89,7 @@ Thursday, August 19, 2021
 - [[Sefa]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): poor older [[Gatza|gatza]] addict found dead in Azar's lair.
 - [[Gazankoa]] (<(*)pronunciation(*;)> <typeof:sn>): voice or power named in the scroll.
 - [[Nadine]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): Azar's dead wife.
-- [[Nimessa]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): [[Marid|marid]] summoned through Airion's ring.
+- [[Nimessa]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): [[Marid|marid]] summoned through [[Airion's Ring of Elemental Binding]].
 - [[Airion]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): ancient wizard and Mistspeaker.
 - [[Sulfi Mahadra|Sulfi]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): wealthy shipbuilding magnate on Glitter Cliff.
 <!-- /SLOT -->
@@ -127,14 +127,12 @@ Thursday, August 19, 2021
   - [[Hamri]], 1747-08-05
 - [[Blood Knife]] (<(*)pronunciation(*;)> <typeof:sn>): [[Gazankoa]]-linked talking knife used by Azar in the killings, recovered from his lair, and sealed inside the lead-lined box.
   - [[Hamri]], 1747-08-05 to 1747-08-06
-- Airion's notes: three recovered books of notes and lore, two in Drankorian and one in Elvish.
-  - [[Hamri]], 1747-08-05
 - brass bowl: recovered from Azar's lair and identified as a bowl of commanding water elementals that requires fresh ocean water and immediate use.
   - [[Hamri]], 1747-08-05 to 1747-08-06
 - scattered coins: recovered from Azar's lair and paid as restitution to [[Sefa]] and the families of the dead who could be found.
   - [[Hamri]], 1747-08-05
 - [[Sentient Ocean]] (<(*)pronunciation(*;)> <typeof:sn>): living water stolen by [[Nimessa]] and sought by Azar for his false resurrection ritual.
-- Airion's ring: one-use command ring that forced [[Nimessa]] to steal living water and left her unable to harm Azar for 1001 days.
+- [[Airion's Ring of Elemental Binding]]: one-use command ring that forced [[Nimessa]] to steal living water and left her unable to harm Azar for 1001 days.
 - [[Gatza|gatza]] (<(*)pronunciation(*;)> <typeof:sn>): drug tied to Azar's visions, grief, and vulnerability to Gazankoa's voice.
 - lead: material Azar sought for the box meant to contain or quiet [[Blood Knife]].
 <!-- /SLOT -->
