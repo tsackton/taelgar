@@ -1,7 +1,9 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, status/check/ai]
 name: Eutus
 species: human
+ancestry: Chardonian
 affiliations:
 - {org: Great Library, title: Wizard}
 whereabouts:
@@ -13,12 +15,14 @@ dm_notes: none
 ---
 # Eutus
 >[!info]+ Biographical Info  
-> A [[Humans|human]]  
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A wizard of the [[Great Library]] who befriended [[Aglath]] and later recruited him to join the Library’s adventuring efforts, sending him north to [[Voltara]].
+Eutus is a wizard of the [[Great Library]] in [[Chardon]]. While searching for ancient ruins, he encountered and befriended [[Aglath]], eventually bringing him back to Chardon. Years later, Eutus recruited Aglath for the Library's adventuring work and sent him north to [[Voltara]].
 
 %%
-Referenced in Aglath’s backstory; no direct on-screen GL encounter.
+Sources used: [[Aglath]], [[Great Library]].
+
+Referenced in Aglath's backstory; no direct on-screen GL encounter.
 %%
