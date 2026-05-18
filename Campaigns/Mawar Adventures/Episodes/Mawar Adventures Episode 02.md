@@ -28,33 +28,33 @@ Clues from [[The Ciphered Scroll|the Ciphered Scroll]] and the people of [[Hamri
 
 - (DR:: 1747-08-03), evening: [[Wazir]] presents the decoded [[The Ciphered Scroll]] to [[Ryu]], [[Trok]], and [[Kaleho]] at the [[Leviathan Inn]] in [[Hamri]].
 - (DR:: 1747-08-04): The party searches Airion's tower in the [[North Cliffs]], discovering older stonework beneath the ruined watchtower, then traces its recent occupant through Hamri's informants, uncovering evidence that [[Azar the Lost]] was living in hiding, likely tied to deaths among [[Gatza|gatza]] addicts in the Drowned Flats, and seeking to purchase a lead-lined box from the smith [[Ovina]] on Shark's Dock.
-- (DR:: 1747-08-05): The party confronts Azar on Shark's Dock, defeating him in a tense fight after he refuses to parley. After the fight, the party stabilizes Azar and contains the dockside chaos, hears [[Azar's Tale|Azar's full tale]], and clears his lair in the Splinters.
+- (DR:: 1747-08-05): The party confronts Azar on Shark's Dock, defeating him in a tense fight after he refuses to parley. After the fight, the party stabilizes Azar and contains the dockside chaos, hears [[Azar's Tale|Azar's full tale]], and clears his lair in the [[Splinters]].
 - (DR:: 1747-08-06): [[Wazir]] identifies the recovered knife and brass bowl.
 - (DR:: 1747-08-09): [[Azar the Lost]] leaves [[Hamri]] with [[Benat]] for the [[Lizardfolk|lizardfolk]] village.
 
 ## Cast of Characters
 
 - [[Jaeson]] (he/him, Mawaran human): cliffside watcher and local gossip.
-- [[Samar]] (she/her, Mawaran human): orphan informant in the Drowned Flats.
-- [[Reliah]] (she/her, Mawaran human): orphan informant in the Drowned Flats.
+- [[Samar]] (*sah-MAHR*; she/her, Mawaran human): orphan informant in the Drowned Flats.
+- [[Reliah]] (*reh-LEE-ah*; she/her, Mawaran human): orphan informant in the Drowned Flats.
 - [[Orden]] (he/him, Mawaran human): dockside watcher.
 - [[Benat]] (he/him, salt lizardfolk): [[Lizardfolk|lizardfolk]] liaison and teller of local history.
 - [[Ovina]] (she/her, dwarf): Mawaran smith.
 - Sulfi's servant: household intermediary.
 - [[Yaz]] (he/him, Mawaran human): old ocean watcher.
-- [[Azar the Lost]] (he/him, human): old man grieving his lost wife, corrupted by [[Gazankoa]].
+- [[Azar the Lost]] (he/him, Mawaran human): old man grieving his lost wife, corrupted by [[Gazankoa]].
 - [[Sefa]] (she/her, Mawaran human): poor older [[Gatza|gatza]] addict found dead in Azar's lair.
-- [[Gazankoa]]: voice or power named in the scroll.
+- [[Gazankoa]] (elder elemental): voice or power named in the scroll.
 - [[Nadine]] (she/her, Mawaran human): Azar's dead wife.
-- [[Nimessa]] (she/her, marid elemental): [[Marid|marid]] summoned through Airion's ring.
+- [[Nimessa]] (she/her, marid elemental): [[Marid|marid]] summoned through [[Airion's Ring of Elemental Binding]].
 - [[Airion]] (he/him, human): ancient wizard and Mistspeaker.
 - [[Sulfi Mahadra|Sulfi]] (she/her, Mawaran human): wealthy shipbuilding magnate on Glitter Cliff.
 
 ## Places
 
-- [[Hamri]] (town in the [[Mawar Confederacy]], the [[Mawakel Peninsula]]): coastal port town whose inns, docks, markets, informants, and harbor politics frame most of the investigation into Azar's murders. Session context includes: the [[Leviathan Inn]], the Drowned Flats, fish market, Ovina's smithy, Glitter Cliff, Shark's Dock, Yaz's tower, and Azar's lair in the Splinters.
-- [[North Cliffs]] (coastal cliffs in the [[Mawar Confederacy]], the [[Mawakel Peninsula]]): coastal cliffs across Hamri's sheltered bay where Airion's ruined tower stands above the old sea cave. Session context includes: Airion's ruined tower, older stonework beneath the watchtower ruin, sea cave, and shallow flooded chamber.
-- [[Mendin]] (town in the [[Mawar Confederacy]], the [[Mawakel Peninsula]]): a Mawaran coastal town mentioned in [[The Ciphered Scroll|the ciphered scroll]].
+- [[Hamri]] (town in the [[Mawar Confederacy]], the [[Mawakel Peninsula]]): coastal port town whose inns, docks, markets, informants, and harbor politics frame most of the investigation into Azar's murders. Session context includes: the [[Leviathan Inn]], the Drowned Flats, fish market, Ovina's smithy, Glitter Cliff, Shark's Dock, Yaz's tower, and Azar's lair in the [[Splinters]].
+- [[North Cliffs]] (coastal cliff in the [[Mawakel Peninsula]], the [[Northwest Coast]]): coastal cliffs across Hamri's sheltered bay where Airion's ruined tower stands above the old sea cave. Session context includes: Airion's ruined tower, older stonework beneath the watchtower ruin, sea cave, and shallow flooded chamber.
+- [[Mendin]] (town in the [[Mawar Confederacy]]): a Mawaran coastal town mentioned in [[The Ciphered Scroll|the ciphered scroll]].
 
 ## Narrative
 
@@ -66,13 +66,13 @@ Seeking more information, the party fans out across [[Hamri]] for local witnesse
 
 Around midday, the party regroups at the fish market and learns from [[Benat]] that Airion's tower belongs to a much older magical history around [[Hamri]] and its water-linked extraplanar weak spots. The party splits again: [[Kaleho]] and [[Trok]] visit [[Ovina]], who admits that the old man paid with a valuable gold-and-sapphire ring for a sealed, lead-lined box, and [[Wazir]] and [[Ryu]] climb to Glitter Cliff to ask [[Sulfi Mahadra|Sulfi]] about the phantom boat. [[Sulfi Mahadra|Sulfi]] declines to meet directly, but her servant reports that she knows of no strange ship and wants any such vessel reported for proper fees and duties.
 
-In the late afternoon, the party regroups at Shark's Dock. [[Wazir]] tests the dismantled ring and the lead-lined box at Ovina's shop; the group theorizes that the lead-lined box may be a way to contain the strange  [[Blood Knife|magical knife]] associated with Azar. [[Ryu]] and [[Trok]] speak with [[Yaz]] after dark about the living ocean and the Splinters, and the group returns to the Leviathan to plan. They decide that one person will approach Azar when he comes to collect the box in the morning, while the others remain hidden near the dock.
+In the late afternoon, the party regroups at Shark's Dock. [[Wazir]] tests the [[Airion's Ring of Elemental Binding|dismantled ring]] and the lead-lined box at Ovina's shop; the group theorizes that the lead-lined box may be a way to contain the strange  [[Blood Knife|magical knife]] associated with Azar. [[Ryu]] and [[Trok]] speak with [[Yaz]] after dark about the living ocean and the [[Splinters]], and the group returns to the Leviathan to plan. They decide that one person will approach Azar when he comes to collect the box in the morning, while the others remain hidden near the dock.
 
 At dawn, the party waits around Shark's Dock while [[Ryu]] watches the harbor and spots the phantom boat coming in fast from the north. Azar arrives in oilskin cloaks, collects the lead-lined box from [[Ovina]], and tries to walk back to the dock without answering Ryu's questions about the tower, the deaths, and the [[Sentient Ocean]]. Invisible [[Wazir]] whispers Nadine's name through a coin, Azar reveals himself and insists [[Gazankoa]] is helping him save his family, and [[Ryu]] realizes the invitation onto the boat is a trap as weapons come out.
 
 The failed parley turns violent as Azar throws black tentacles across Shark's Dock and runs for the phantom boat while his drowned servant rises from the vessel. [[Ryu]] and [[Wazir]] are crushed and restrained by the tentacles, [[Trok]] drags Azar into the water, [[Kaleho]] lands punishing crossbow shots, and the lead-lined box is dropped in the boat as the party tries to push the vessel out of Azar's reach. Azar's Armor of Agathys knocks [[Trok]] unconscious, Ryu's healing spirit brings him back, Wazir's shatter strips away the cold armor, and Azar's lightning kills a bystander before Trok's crocodile-shaped Eldritch Maul strikes finally break the tentacles and drop Azar unconscious; [[Kaleho]] then kills the drowned servant.
 
-Afterward, [[Wazir]] heals Azar and the group binds him while they recover from the fight, calm Shark's Dock, tend the woman killed by Azar's lightning, and hear [[Azar's Tale|Azar's full tale]]. Azar had lost [[Nadine]], become hooked on [[Gatza|gatza]], and heard [[Gazankoa]] speak through the [[Blood Knife]]. He believed that killing people in the right way, with their blood replaced by water, would restore his family. That evening, the party searches the Splinters, quickly destroys two more drowned zombies, and finds [[Sefa]] dead in the lair. From the lair, they recover three books of [[Airion]]'s notes and lore, a brass bowl, and scattered coins that are paid as restitution to [[Sefa]] and the families of the dead who can be found. On Aug 6, [[Wazir]] identifies the [[Blood Knife]], now locked in the lead-lined box, as a mystery beyond his magic, and the brass bowl as a bowl of commanding water elementals that must be filled with fresh ocean water and used immediately. A few days later, on Aug 9, Azar leaves south with [[Benat]] to heal before returning to make amends to [[Hamri]].
+Afterward, [[Wazir]] heals Azar and the group binds him while they recover from the fight, calm Shark's Dock, tend the woman killed by Azar's lightning, and hear [[Azar's Tale|Azar's full tale]]. Azar had lost [[Nadine]], become hooked on [[Gatza|gatza]], and heard [[Gazankoa]] speak through the [[Blood Knife]]. He believed that killing people in the right way, with their blood replaced by water, would restore his family. That evening, the party searches the [[Splinters]], quickly destroys two more drowned zombies, and finds [[Sefa]] dead in the lair. From the lair, they recover [[Airion's Elemental Research|three annotated books from Airion's library]], a [[Airion's Bowl of Commanding Water Elementals|brass bowl]], and scattered coins that are paid as restitution to [[Sefa]] and the families of the dead who can be found. On Aug 6, [[Wazir]] identifies the [[Blood Knife]], now locked in the lead-lined box, as a mystery beyond his magic, and the brass bowl as a bowl of commanding water elementals that must be filled with fresh ocean water and used immediately. A few days later, on Aug 9, Azar leaves south with [[Benat]] to heal before returning to make amends to [[Hamri]].
 
 ## Combat
 

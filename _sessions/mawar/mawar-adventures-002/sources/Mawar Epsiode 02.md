@@ -26,7 +26,7 @@ PCs: [[Ryu]], [[Wazir]], [[Trok]], [[Kaleho]]
 
 *Afternoon*. After recovering from your injuries and helping calm down the civilians on the Shark's dock, as well as tend to the one dead woman, caught in [[Azar the Lost]]'s lightning blast, you heard the [[Azar's Tale|full tale]] from [[Azar the Lost]].
 
-*Evening*. An expedition to the Splinters finds two more drowned zombies that are quickly dispatched; one poor gatza addict, an older woman known as [[Sefa]] who lived alone in the Drowned Flats; three books of [[Airion]]'s notes and lore (two written in an old language that [[Wazir]] recognizes as Drankorian, the third written in Elvish); the knife, which you lock in the lead box; the brass bowl; and a number of scattered coins, which are paid as restitution to [[Sefa]] and the families of those who died (that could be found, at least).
+*Evening*. An expedition to the Splinters finds two more drowned zombies that are quickly dispatched; one poor gatza addict, an older woman known as [[Sefa]] who lived alone in the Drowned Flats; [[Airion's Elemental Research|three older books from Airion's library]], annotated in Airion's hand (two Drankorian works and one Elvish work); the knife, which you lock in the lead box; the brass bowl; and a number of scattered coins, which are paid as restitution to [[Sefa]] and the families of those who died (that could be found, at least).
 
 ### 6 August 1747
 *Morning*. [[Wazir]] is able to identify the items recovered from [[Azar the Lost]]'s lair. The knife is a strange thing, shrouded in mystery and darkness, it is clear that some greater power beyond [[Wazir]]'s magic is at work here. The brass bowl is a bowl of commanding water elementals, with the stipulation that it must be filled with water drawn fresh from the ocean in order to be used, and must be used immediately when filled. 
@@ -37,7 +37,7 @@ PCs: [[Ryu]], [[Wazir]], [[Trok]], [[Kaleho]]
 ### Aftermath
 [[Wazir]], [[Kaleho]], [[Trok]], and [[Ryu]] disperse to their daily lives, but questions remain:
 -   What to do with the knife, now locked in a lead box in the Leviathan (or wherever else you want it to end up)?
--   What other mysteries lie in [[Airion]]'s notes, and what language are they written in?
+-   What other mysteries lie in [[Airion's Elemental Research|Airion's annotated books]], and what can their languages and marginalia reveal?
 -   What did [[Trok]] write to his family? Did he write to his family?
 -   How is [[Hamri]] connected to the [[Elemental Plane of Water]] via [[Airion]]'s tower and [[Airion]]'s mysteriously missing well, and why was [[Airion]] so interested in this place?
 -   And perhaps more as well, such as what really lies beyond the horizon to the west

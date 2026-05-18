@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
+tags: [person]
 name: Zadkai
 species: human
 gender: male
@@ -16,7 +16,7 @@ dm_notes: important
 >[!info]+ Biographical Info  
 > A [[Humans|human]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:GL%% Encountered by the [[Silver Tempests]] on July 23rd, 1747 in [[Blacksilver Peak|the glacier near Airion’s Floating Tower]], the [[Fiatara Mountains]] %%^End%%
+>> %%^Campaign:GL%% Encountered by the [[Silver Tempests]] on July 23th, 1747 in [[Blacksilver Peak|the glacier near Airion’s Floating Tower]], the [[Fiatara Mountains]] %%^End%%
 
 Zadkai is a warlock devoted to a powerful being of the [[Elemental Plane of Air]]. He sought the [[Skyborn Scroll]], one of [[Airion|Airion the Mistspeaker]]'s elemental scrolls, believing it should be destroyed or returned to the Plane of Air rather than remain in human hands.
 

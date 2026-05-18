@@ -467,7 +467,7 @@
         "phantom boat",
         "healing spirit",
         "Eldritch Maul tattoo",
-        "Airion's notes",
+        "Airion's Notes",
         "Blood Knife",
         "brass bowl",
         "scattered coins"
@@ -490,7 +490,7 @@
         "With Trok unconscious in the water and Ryu restrained, the party scrambles to recover: Ryu's healing spirit brings Trok back up, Wazir's shatter destroys Azar's cold armor, and Azar answers with lightning that kills a nearby townsfolk and batters Ryu and Kaleho. Trok heals himself, lashes out with Eldritch Maul crocodile strikes, finally breaks the tentacles, and knocks Azar unconscious; Kaleho then shoots the remaining drowned servant down so Wazir can rush to heal Azar before he dies.",
         "After the fight at Shark's Dock, Wazir heals Azar and the party binds him while beginning to recover from their injuries and the chaos around the dock.",
         "After recovering from their injuries, calming the civilians on Shark's Dock, and tending the woman killed in Azar's lightning blast, the party hears Azar's full tale from Azar.",
-        "An evening expedition to the Splinters quickly dispatches two more drowned zombies and finds Sefa, a poor older gatza addict from the Drowned Flats who lived alone; the party recovers three books of Airion's notes and lore, with two in Drankorian and one in Elvish, plus the Blood Knife, which they lock in the lead-lined box, the brass bowl, and scattered coins paid as restitution to Sefa and the families of the dead who can be found."
+        "An evening expedition to the Splinters quickly dispatches two more drowned zombies and finds Sefa, a poor older gatza addict from the Drowned Flats who lived alone; the party recovers Airion's annotated books, two Drankorian works and one Elvish work, plus the Blood Knife, which they lock in the lead-lined box, the brass bowl, and scattered coins paid as restitution to Sefa and the families of the dead who can be found."
       ],
       "sourceEntries": [
         {
@@ -763,7 +763,7 @@
             {
               "name": "Airion",
               "role": "mentioned",
-              "context": "wizard whose notes and ring guided Azar",
+              "context": "wizard whose annotated books and ring guided Azar",
               "notes": "His lore led Azar toward the Sentient Ocean and Hamri's water-plane weak spots."
             },
             {
@@ -785,9 +785,9 @@
               "notes": "The box silences the Blood Knife once the party stores it inside."
             },
             {
-              "name": "Airion's notes",
+              "name": "Airion's Notes",
               "role": "encountered",
-              "notes": "The party recovers three books of notes and lore: two in Drankorian and one in Elvish."
+              "notes": "The party recovers three older books from Airion's library, annotated with Airion's glosses; two are Drankorian works and one is Elvish."
             },
             {
               "name": "brass bowl",
@@ -871,7 +871,7 @@
             {
               "name": "Airion",
               "role": "mentioned",
-              "context": "wizard whose notes and ring guided Azar",
+              "context": "wizard whose annotated books and ring guided Azar",
               "notes": "His lore led Azar toward the Sentient Ocean and Hamri's water-plane weak spots."
             },
             {
@@ -893,9 +893,9 @@
               "notes": "The box silences the Blood Knife once the party stores it inside."
             },
             {
-              "name": "Airion's notes",
+              "name": "Airion's Notes",
               "role": "encountered",
-              "notes": "The party recovers three books of notes and lore: two in Drankorian and one in Elvish."
+              "notes": "The party recovers three older books from Airion's library, annotated with Airion's glosses; two are Drankorian works and one is Elvish."
             },
             {
               "name": "brass bowl",
@@ -931,7 +931,7 @@
             "endUid": "u3597"
           },
           "shortSummary": "The Splinters expedition clears Azar's lair and recovers his remaining evidence.",
-          "longSummary": "An evening expedition to the Splinters quickly dispatches two more drowned zombies and finds Sefa, a poor older gatza addict from the Drowned Flats who lived alone; the party recovers three books of Airion's notes and lore, with two in Drankorian and one in Elvish, plus the Blood Knife, which they lock in the lead-lined box, the brass bowl, and scattered coins paid as restitution to Sefa and the families of the dead who can be found.",
+          "longSummary": "An evening expedition to the Splinters quickly dispatches two more drowned zombies and finds Sefa, a poor older gatza addict from the Drowned Flats who lived alone; the party recovers Airion's annotated books, two Drankorian works and one Elvish work, plus the Blood Knife, which they lock in the lead-lined box, the brass bowl, and scattered coins paid as restitution to Sefa and the families of the dead who can be found.",
           "locationHints": {
             "refs": [
               "Hamri"
@@ -979,7 +979,7 @@
             {
               "name": "Airion",
               "role": "mentioned",
-              "context": "wizard whose notes and ring guided Azar",
+              "context": "wizard whose annotated books and ring guided Azar",
               "notes": "His lore led Azar toward the Sentient Ocean and Hamri's water-plane weak spots."
             },
             {
@@ -1001,9 +1001,9 @@
               "notes": "The box silences the Blood Knife once the party stores it inside."
             },
             {
-              "name": "Airion's notes",
+              "name": "Airion's Notes",
               "role": "encountered",
-              "notes": "The party recovers three books of notes and lore: two in Drankorian and one in Elvish."
+              "notes": "The party recovers three older books from Airion's library, annotated with Airion's glosses; two are Drankorian works and one is Elvish."
             },
             {
               "name": "brass bowl",
@@ -1117,7 +1117,7 @@
             {
               "name": "Airion",
               "role": "mentioned",
-              "context": "wizard whose notes and ring guided Azar",
+              "context": "wizard whose annotated books and ring guided Azar",
               "notes": "His lore led Azar toward the Sentient Ocean and Hamri's water-plane weak spots."
             },
             {
@@ -1139,9 +1139,9 @@
               "notes": "The box silences the Blood Knife once the party stores it inside."
             },
             {
-              "name": "Airion's notes",
+              "name": "Airion's Notes",
               "role": "encountered",
-              "notes": "The party recovers three books of notes and lore: two in Drankorian and one in Elvish."
+              "notes": "The party recovers three older books from Airion's library, annotated with Airion's glosses; two are Drankorian works and one is Elvish."
             },
             {
               "name": "brass bowl",
@@ -1253,7 +1253,7 @@
             {
               "name": "Airion",
               "role": "mentioned",
-              "context": "wizard whose notes and ring guided Azar",
+              "context": "wizard whose annotated books and ring guided Azar",
               "notes": "His lore led Azar toward the Sentient Ocean and Hamri's water-plane weak spots."
             },
             {
@@ -1275,9 +1275,9 @@
               "notes": "The box silences the Blood Knife once the party stores it inside."
             },
             {
-              "name": "Airion's notes",
+              "name": "Airion's Notes",
               "role": "encountered",
-              "notes": "The party recovers three books of notes and lore: two in Drankorian and one in Elvish."
+              "notes": "The party recovers three older books from Airion's library, annotated with Airion's glosses; two are Drankorian works and one is Elvish."
             },
             {
               "name": "brass bowl",
@@ -2205,7 +2205,7 @@
       "itemRefs": [
         "Blood Knife",
         "lead-lined box",
-        "Airion's notes",
+        "Airion's Notes",
         "brass bowl",
         "scattered coins"
       ],
@@ -2214,7 +2214,7 @@
         "After the fight, the party stabilizes Azar, hears his full tale, clears his lair, identifies the recovered items, and sees him leave with Benat several days later."
       ],
       "sourceLongSummaries": [
-        "The aftermath spans several days: Wazir heals Azar and the party binds him, recovers from injuries, calms Shark's Dock, tends the woman killed by Azar's lightning, and hears Azar's full tale. That evening they search the Splinters, dispatch two drowned zombies, find Sefa dead, recover three books of Airion's notes and lore, lock the Blood Knife in the lead-lined box, collect the brass bowl and restitution coins, and on Aug 6 Wazir identifies the strange knife and the bowl of commanding water elementals before Azar leaves south with Benat on Aug 9 to heal and make amends."
+        "The aftermath spans several days: Wazir heals Azar and the party binds him, recovers from injuries, calms Shark's Dock, tends the woman killed by Azar's lightning, and hears Azar's full tale. That evening they search the Splinters, dispatch two drowned zombies, find Sefa dead, recover Airion's annotated books, lock the Blood Knife in the lead-lined box, collect the brass bowl and restitution coins, and on Aug 6 Wazir identifies the strange knife and the bowl of commanding water elementals before Azar leaves south with Benat on Aug 9 to heal and make amends."
       ],
       "sourceEntries": [
         {
@@ -2229,7 +2229,7 @@
             "endUid": "u3597"
           },
           "shortSummary": "After the fight, the party stabilizes Azar, hears his full tale, clears his lair, identifies the recovered items, and sees him leave with Benat several days later.",
-          "longSummary": "The aftermath spans several days: Wazir heals Azar and the party binds him, recovers from injuries, calms Shark's Dock, tends the woman killed by Azar's lightning, and hears Azar's full tale. That evening they search the Splinters, dispatch two drowned zombies, find Sefa dead, recover three books of Airion's notes and lore, lock the Blood Knife in the lead-lined box, collect the brass bowl and restitution coins, and on Aug 6 Wazir identifies the strange knife and the bowl of commanding water elementals before Azar leaves south with Benat on Aug 9 to heal and make amends.",
+          "longSummary": "The aftermath spans several days: Wazir heals Azar and the party binds him, recovers from injuries, calms Shark's Dock, tends the woman killed by Azar's lightning, and hears Azar's full tale. That evening they search the Splinters, dispatch two drowned zombies, find Sefa dead, recover Airion's annotated books, lock the Blood Knife in the lead-lined box, collect the brass bowl and restitution coins, and on Aug 6 Wazir identifies the strange knife and the bowl of commanding water elementals before Azar leaves south with Benat on Aug 9 to heal and make amends.",
           "locationHints": {
             "refs": [
               "Hamri"
@@ -2277,7 +2277,7 @@
             {
               "name": "Airion",
               "role": "mentioned",
-              "context": "wizard whose notes and ring guided Azar",
+              "context": "wizard whose annotated books and ring guided Azar",
               "notes": "His lore led Azar toward the Sentient Ocean and Hamri's water-plane weak spots."
             },
             {
@@ -2299,9 +2299,9 @@
               "notes": "The box silences the Blood Knife once the party stores it inside."
             },
             {
-              "name": "Airion's notes",
+              "name": "Airion's Notes",
               "role": "encountered",
-              "notes": "The party recovers three books of notes and lore: two in Drankorian and one in Elvish."
+              "notes": "The party recovers three older books from Airion's library, annotated with Airion's glosses; two are Drankorian works and one is Elvish."
             },
             {
               "name": "brass bowl",
@@ -2935,7 +2935,7 @@
           ]
         },
         {
-          "name": "Airion's notes",
+          "name": "Airion's Notes",
           "relationKinds": [
             "encountered"
           ],

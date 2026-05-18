@@ -80,7 +80,7 @@ Tuesday, March 10, 2026
 - [[Ovina]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): long-lived dwarf blacksmith with old harbor memory.
 - [[Caleb]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): Rayna's grandfather.
 - [[Kaeso]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): Chardonian scholar recently staying in Hamri.
-- [[Guzo the Mariner]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): Mawarin saint seen in Rayna's visions.
+- [[Guzo the Mariner]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): Mawaran saint seen in Rayna's visions.
 - [[Gazankoa]] (<(*)pronunciation(*;)> <typeof:sn>): power invoked by the trapped elemental's minion.
 <!-- /SLOT -->
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/gameupdate/mawar]
 aliases: [Yerkir-khor's monument and tomb, Yerkir-khor's tomb, Yerkir-khor's monument]
 name: Tomb of Yerkir-Khor
 typeOf: holy site

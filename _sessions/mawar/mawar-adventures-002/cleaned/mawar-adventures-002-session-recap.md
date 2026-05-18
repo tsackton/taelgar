@@ -63,14 +63,14 @@ Airion's ruined tower in the North Cliffs reveals older stonework, recent occupa
 - Locations: Hamri
 - NPCs: Azar the Lost, Ovina, drowned servant, townsfolk bystander, Sefa, drowned zombies
 - Organizations: none
-- Items: lead-lined box, phantom boat, healing spirit, Eldritch Maul tattoo, Airion's notes, Blood Knife, brass bowl, scattered coins
+- Items: lead-lined box, phantom boat, healing spirit, Eldritch Maul tattoo, [[Airion's Elemental Research]], Blood Knife, brass bowl, scattered coins
 - Combat Beats: beat-007, beat-008
 
 #### Short
 The party confronts Azar on Shark's Dock, defeating him in a tense fight after he refuses to parley. After the fight, the party stabilizes Azar and contains the dockside chaos, hears [[Azar's Tale|Azar's full tale]], and clears his lair in the Splinters. 
 
 #### Long
-Ryu confronts Azar after he leaves Ovina's shop with the lead-lined box, and Wazir's use of Nadine's name reveals how far Azar has fallen under Gazankoa's promise. Azar answers with black tentacles, a drowned servant, and lightning before Trok's final assault drops him unconscious. At Shark's Dock, Wazir heals [[Azar the Lost]] and the party binds him while they begin recovering from their injuries and the chaos around the dock. After recovering from their injuries, calming the civilians on Shark's Dock, and tending the woman killed in Azar's lightning blast, the party hears [[Azar's Tale|Azar's full tale]] from [[Azar the Lost]]. An evening expedition to the Splinters quickly dispatches two more drowned zombies and finds [[Sefa]], a poor older [[Gatza]] addict from the Drowned Flats who lived alone. The party recovers three books of [[Airion]]'s notes and lore, two in Drankorian and one in Elvish, locks the [[Blood Knife]] in the lead box, recovers the brass bowl, and pays the scattered coins as restitution to [[Sefa]] and the families of the dead who can be found.
+Ryu confronts Azar after he leaves Ovina's shop with the lead-lined box, and Wazir's use of Nadine's name reveals how far Azar has fallen under Gazankoa's promise. Azar answers with black tentacles, a drowned servant, and lightning before Trok's final assault drops him unconscious. At Shark's Dock, Wazir heals [[Azar the Lost]] and the party binds him while they begin recovering from their injuries and the chaos around the dock. After recovering from their injuries, calming the civilians on Shark's Dock, and tending the woman killed in Azar's lightning blast, the party hears [[Azar's Tale|Azar's full tale]] from [[Azar the Lost]]. An evening expedition to the Splinters quickly dispatches two more drowned zombies and finds [[Sefa]], a poor older [[Gatza]] addict from the Drowned Flats who lived alone. The party recovers [[Airion's Elemental Research|three annotated books from Airion's library]], two Drankorian works and one Elvish work, locks the [[Blood Knife]] in the lead box, recovers the brass bowl, and pays the scattered coins as restitution to [[Sefa]] and the families of the dead who can be found.
 
 ### Aug 6th, 1747
 
@@ -274,17 +274,17 @@ The failed parley turns violent as Azar throws black tentacles across Shark's Do
 - Locations: Hamri
 - NPCs: Azar the Lost, Sefa, drowned zombies
 - Organizations: none
-- Items: Blood Knife, lead-lined box, Airion's notes, brass bowl, scattered coins
+- Items: Blood Knife, lead-lined box, [[Airion's Elemental Research]], brass bowl, scattered coins
 - Enemies: none
 
 #### Short
 Afterward, the party stabilizes Azar, hears his full tale, clears his lair, identifies the recovered items, and sees him leave with Benat.
 
 #### Intermediate
-Afterward, Wazir heals Azar and the party binds him before hearing how grief, gatza, Gazankoa's voice, and the [[Blood Knife]] drove the killings. They later clear his lair in the Splinters, recover the [[Blood Knife]], Airion's books, the brass bowl, and restitution coins, and learn enough about the items for Azar to leave Hamri with Benat several days later.
+Afterward, Wazir heals Azar and the party binds him before hearing how grief, gatza, Gazankoa's voice, and the [[Blood Knife]] drove the killings. They later clear his lair in the Splinters, recover the [[Blood Knife]], [[Airion's Elemental Research|Airion's annotated books]], the brass bowl, and restitution coins, and learn enough about the items for Azar to leave Hamri with Benat several days later.
 
 #### Long
-Afterward, Wazir heals Azar and the group binds him while they recover from the fight, calm Shark's Dock, tend the woman killed by Azar's lightning, and hear [[Azar's Tale|Azar's full tale]]. Azar had lost Nadine, become hooked on gatza, and heard Gazankoa speak through the [[Blood Knife]]. He believed that killing people in the right way, with their blood replaced by water, would restore his family. That evening, the party searches the Splinters, quickly destroys two more drowned zombies, and finds [[Sefa]] dead in the lair. From the lair, they recover three books of [[Airion]]'s notes and lore, a brass bowl, and scattered coins that are paid as restitution to [[Sefa]] and the families of the dead who can be found. On Aug 6, Wazir identifies the [[Blood Knife]], now locked in the lead-lined box, as a mystery beyond his magic, and the brass bowl as a bowl of commanding water elementals that must be filled with fresh ocean water and used immediately. A few days later, on Aug 9, Azar leaves south with Benat to heal before returning to make amends to Hamri.
+Afterward, Wazir heals Azar and the group binds him while they recover from the fight, calm Shark's Dock, tend the woman killed by Azar's lightning, and hear [[Azar's Tale|Azar's full tale]]. Azar had lost Nadine, become hooked on gatza, and heard Gazankoa speak through the [[Blood Knife]]. He believed that killing people in the right way, with their blood replaced by water, would restore his family. That evening, the party searches the Splinters, quickly destroys two more drowned zombies, and finds [[Sefa]] dead in the lair. From the lair, they recover [[Airion's Elemental Research|three annotated books from Airion's library]], a brass bowl, and scattered coins that are paid as restitution to [[Sefa]] and the families of the dead who can be found. On Aug 6, Wazir identifies the [[Blood Knife]], now locked in the lead-lined box, as a mystery beyond his magic, and the brass bowl as a bowl of commanding water elementals that must be filled with fresh ocean water and used immediately. A few days later, on Aug 9, Azar leaves south with Benat to heal before returning to make amends to Hamri.
 
 ## Cast
 
@@ -353,7 +353,7 @@ Afterward, Wazir heals Azar and the group binds him while they recover from the 
   - Hamri, 1747-08-05
 - [[Blood Knife]] (encountered): Gazankoa-linked talking knife used by Azar in the killings, recovered from his lair, and sealed inside the lead-lined box
   - Hamri, 1747-08-05 to 1747-08-06
-- Airion's notes (encountered): three recovered books of notes and lore, two in Drankorian and one in Elvish
+- [[Airion's Elemental Research]] (encountered): three recovered older books from Airion's library, annotated with Airion's glosses; two are Drankorian works and one is Elvish
   - Hamri, 1747-08-05
 - brass bowl (encountered): recovered from Azar's lair and identified as a bowl of commanding water elementals that requires fresh ocean water and immediate use
   - Hamri, 1747-08-05 to 1747-08-06
