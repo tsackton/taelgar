@@ -42,7 +42,7 @@ The party engages in battle with the giant spider in her lair. Shortly into the 
 ## Adventure 16: Why Is Everything So Cold?
 ### Session 42
 
-Entering the city of gems, [[Zarkandur]], the party meets [[Brelith]]’s parents and enjoys a feast. Afterward, they learn about the mystery of the freezing dwarven cities, and decide to go south to investigate. Coming to the now frozen and abandoned city of [[Tumukhar]], they encounter and fight a small group of ice mephits. 
+Entering the city of gems, [[Zarkandur]], the party meets [[Diesa]] and [[Osrik]], [[Brelith]]’s parents, and enjoys a feast. Afterward, they learn about the mystery of the freezing dwarven cities, and decide to go south to investigate. Coming to the now frozen and abandoned city of [[Tumukhar]], they encounter and fight a small group of ice mephits. 
 
 ### Session 43
 
@@ -90,7 +90,7 @@ Return to the Dwarven city of [[Zarkandur]], now freed from its winter curse. Bi
 
 ### Events
 
-- (DR:: 1747-12-05): Arrive in [[Zarkandur]]. Meet [[Brelith]]'s parents. Feast. Learn about unnatural cold spreading from the south. Agree to investigate. 
+- (DR:: 1747-12-05): Arrive in [[Zarkandur]]. Meet [[Diesa]] and [[Osrik]], [[Brelith]]'s parents. Feast. Learn about unnatural cold spreading from the south. Agree to investigate. 
 - (DR:: 1747-12-06): Learn more from people in [[Zarkandur]]. 
 - (DR:: 1747-12-07): Leave, heading south, with an armed escort. Aiming for the now-abandoned and frozen city of [[Tumukhar]]. 
 - (DR:: 1747-12-13): Arrive in [[Tumukhar]], explore. Fight ice mephits, snow golems, and an ice troll. Exit the city to the barren snowy wasteland of the [[Sentinel Range|Sentinels]]. Find a sheltered place to camp. 
