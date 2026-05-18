@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/stub]
 activeYear: 1745
 name: Herasto
 species: centaur
