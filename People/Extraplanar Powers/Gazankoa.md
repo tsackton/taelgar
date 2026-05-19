@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [power]
+knownTo: [Mawar]
 typeOf: elder elemental
 dm_owner: tim
 dm_notes: none

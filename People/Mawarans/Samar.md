@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [Mawar]
 name: Samar
 born:
 species: human
@@ -18,4 +19,3 @@ pronunciation: sah-MAHR
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[samar.png|right|300]]Samar, the twin sister of [[Reliah]], is an orphaned girl who lives in the Drowned Flats. [[Wazir]] feeds her and her sister once a week, and in turn they keep an ear to the ground for him.
-

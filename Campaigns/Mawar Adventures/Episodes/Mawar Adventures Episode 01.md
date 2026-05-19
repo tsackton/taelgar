@@ -46,7 +46,7 @@ As morning turns to afternoon, a strange ship races into [[Hamri]] against the t
 
 Soon after the harbor rescue, Illius's compass leads [[Ryu]], [[Wazir]], and [[Trok]] from [[Hamri]] to a tidal cave in the [[North Cliffs]], across the sheltered bay from the port, connecting to the ruins of a long-abandoned seawatch tower. The party defeats the remaining water elementals, recovers the bottled drop of the [[Sentient Ocean]], and returns it safely to [[Illius]]. He explains that marids from the [[Elemental Plane of Water]] have hunted the ocean for generations and believes one of them finally found a way through its defenses.
 
-In the chest with the vial of [[Sentient Ocean]] was also a scroll of written notes, in some kind of code, and a [[Silver Amulet|silver amulet]] of a strange design. [[Wazir]] took the scroll to attempt to decipher its meaning, wondering if indeed the phantom ship brought someone new to town involved in the schemes of the marids of the plane of water.
+In the chest with the vial of [[Sentient Ocean]] was also a scroll of written notes, in some kind of code, and a silver amulet of a strange design. [[Wazir]] took the scroll to attempt to decipher its meaning, wondering if indeed the phantom ship brought someone new to town involved in the schemes of the marids of the plane of water.
 
 ## Combat
 

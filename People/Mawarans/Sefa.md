@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [Mawar]
 name: Sefa
 species: human
 ancestry: Mawaran

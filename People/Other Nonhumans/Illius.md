@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [Mawar]
 activeYear: 1747
 name: Illius
 born: 1721

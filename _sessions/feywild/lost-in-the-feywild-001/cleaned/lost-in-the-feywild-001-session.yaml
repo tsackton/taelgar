@@ -1,0 +1,43 @@
+schemaVersion: '1.0'
+sourceType: transcript
+scope: session
+campaign: Lost in the Feywild
+sessionNumber: 1
+realWorldDate: 2026-05-14
+drStart: &id001 1750-10-03
+drEnd: *id001
+drStartTime: null
+drEndTime: null
+participants:
+- name: David Kong
+  gameRole: Cato Min
+  transcriptIdentifiers:
+  - David S. Kong
+- name: Mike Sackton
+  gameRole: Edric
+  transcriptIdentifiers:
+  - Mike Sackton
+- name: Eric Rosenbaum
+  gameRole: Tarek
+  transcriptIdentifiers:
+  - Eric Rosenbaum
+- name: Kate Sackton
+  gameRole: Ayveen
+  transcriptIdentifiers:
+  - Kate Sackton
+- name: David Schwartz
+  gameRole: DM
+  transcriptIdentifiers:
+  - Audio shared by David S. Kong
+  - Audio shared by Tim Sackton
+  - Rev. David Schwartz (he/him)
+- name: Tim Sackton
+  gameRole: Txarro
+  transcriptIdentifiers:
+  - Tim Sackton
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-001/sources/GMT20260515-005420_Recording.transcript.vtt
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-001/sources/feywild-ep01-source-prep.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-001/sources/feywild-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-prepared.md
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-speaker-stats.json

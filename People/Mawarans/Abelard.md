@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [Mawar]
 name: Abelard
 species: human
 ancestry: Mawaran
@@ -27,4 +28,3 @@ Abelard gives very little away about himself. He has no obvious steady work, bey
 Occasionally has been seen to cast a cantrip or two, and is probably a 1st level bard or so.
 
 %%
-

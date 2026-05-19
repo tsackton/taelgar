@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [power]
+knownTo: [Mawar]
 aliases: [Guzo]
 displayDefaults: { boxInfo: "<ancestry:UA> <typeof:sAU> <(()pronouns())>, <(part of )primary>" }
 name: Guzo the Mariner

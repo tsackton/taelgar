@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [Mawar]
 campaignInfo: 
 - {campaign: dufr, person: Delwath, date: 1749-02-05, type: scryed}
 name: Yaz
