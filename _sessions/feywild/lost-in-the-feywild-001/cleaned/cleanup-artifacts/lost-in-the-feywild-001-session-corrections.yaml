@@ -1,0 +1,688 @@
+allReplacements:
+- from: Charo
+  to: Txarro
+  count: 12
+  headers:
+  - '[u0057 | 00:04:26.440-00:04:29.220 | Txarro]'
+  - '[u0080 | 00:06:30.630-00:06:34.900 | Txarro]'
+  - '[u0092 | 00:07:11.020-00:07:13.360 | Txarro]'
+  - '[u0102 | 00:07:34.920-00:07:40.700 | Txarro]'
+  - '[u0134 | 00:11:19.520-00:11:23.700 | DM]'
+  - '[u0143 | 00:12:06.400-00:12:09.760 | Cato Min]'
+  - '[u0389 | 00:35:21.810-00:35:27.830 | Cato Min]'
+  - '[u0390 | 00:35:27.830-00:35:36.999 | Txarro]'
+  - '[u0485 | 00:45:33.810-00:45:43.919 | Cato Min]'
+  - '[u0989 | 01:25:41.140-01:25:58.010 | DM]'
+  - '[u1645 | 02:16:30.930-02:16:32.209 | Edric]'
+  - '[u1854 | 02:31:19.290-02:31:21.620 | DM]'
+- from: Tolin
+  to: Tollen
+  count: 11
+  headers:
+  - '[u0035 | 00:01:56.090-00:02:02.600 | DM]'
+  - '[u0104 | 00:07:42.890-00:07:52.920 | Txarro]'
+  - '[u0124 | 00:09:39.830-00:09:59.320 | Cato Min]'
+  - '[u0127 | 00:10:08.170-00:10:23.780 | Cato Min]'
+  - '[u0171 | 00:14:43.200-00:14:46.280 | Txarro]'
+  - '[u0315 | 00:28:45.670-00:28:54.470 | Ayveen]'
+  - '[u0451 | 00:41:27.600-00:41:33.660 | DM]'
+  - '[u0708 | 01:04:54.040-01:05:01.870 | DM]'
+  - '[u1430 | 02:00:04.390-02:00:09.430 | DM]'
+  - '[u1440 | 02:01:04.380-02:01:08.440 | DM]'
+  - '[u1454 | 02:02:07.050-02:02:09.110 | DM]'
+- from: Taric
+  to: Tarek
+  count: 8
+  headers:
+  - '[u0110 | 00:08:22.090-00:08:23.690 | Txarro]'
+  - '[u0162 | 00:13:58.680-00:14:15.449 | Cato Min]'
+  - '[u0312 | 00:28:28.510-00:28:35.080 | Cato Min]'
+  - '[u0374 | 00:33:57.760-00:34:04.079 | Cato Min]'
+  - '[u0947 | 01:22:19.130-01:22:26.260 | Txarro]'
+  - '[u1255 | 01:45:31.340-01:45:32.800 | Cato Min]'
+  - '[u1354 | 01:55:13.150-01:55:19.049 | Cato Min]'
+- from: Toland
+  to: Tollen
+  count: 8
+  headers:
+  - '[u0041 | 00:02:41.860-00:02:53.179 | DM]'
+  - '[u0108 | 00:08:03.640-00:08:08.509 | Txarro]'
+  - '[u0192 | 00:16:17.290-00:16:26.980 | Cato Min]'
+  - '[u0280 | 00:24:45.480-00:24:57.499 | Edric]'
+  - '[u0295 | 00:26:08.500-00:26:25.409 | Edric]'
+  - '[u1322 | 01:52:26.160-01:52:37.550 | DM]'
+  - '[u1467 | 02:03:19.690-02:03:26.520 | DM]'
+  - '[u1931 | 02:35:38.280-02:35:44.710 | Ayveen]'
+- from: Aveen
+  to: Ayveen
+  count: 6
+  headers:
+  - '[u0296 | 00:26:32.220-00:26:36.839 | Ayveen]'
+  - '[u0337 | 00:30:40.280-00:30:42.170 | Cato Min]'
+  - '[u1239 | 01:44:40.110-01:44:40.970 | Cato Min]'
+  - '[u1394 | 01:57:20.100-01:57:21.750 | Ayveen]'
+  - '[u1743 | 02:24:03.080-02:24:09.379 | Cato Min]'
+- from: Hulda
+  to: Holda
+  count: 6
+  headers:
+  - '[u0849 | 01:16:08.860-01:16:18.080 | DM]'
+  - '[u1404 | 01:57:48.200-01:57:56.009 | DM]'
+  - '[u1406 | 01:58:03.160-01:58:09.480 | DM]'
+  - '[u1412 | 01:58:34.100-01:58:39.980 | DM]'
+  - '[u1835 | 02:29:57.530-02:30:14.209 | Cato Min]'
+  - '[u2051 | 02:42:54.790-02:42:58.780 | DM]'
+- from: loot
+  to: lute
+  count: 3
+  headers:
+  - '[u0140 | 00:11:46.050-00:11:46.859 | Txarro]'
+  - '[u0142 | 00:11:49.150-00:12:06.349 | Cato Min]'
+- from: Aldwin
+  to: Alden
+  count: 2
+  headers:
+  - '[u1174 | 01:39:12.670-01:39:18.710 | Edric]'
+- from: Charles
+  to: Txarro
+  count: 2
+  headers:
+  - '[u0410 | 00:36:56.510-00:37:03.630 | Txarro]'
+  - '[u0716 | 01:05:58.220-01:06:03.749 | DM]'
+- from: Drancorian
+  to: Drankorian
+  count: 2
+  headers:
+  - '[u1025 | 01:29:31.300-01:29:36.879 | DM]'
+  - '[u1031 | 01:30:10.900-01:30:19.330 | DM]'
+- from: Eden
+  to: ettin
+  count: 2
+  headers:
+  - '[u0454 | 00:41:48.990-00:41:55.270 | DM]'
+  - '[u0475 | 00:44:22.960-00:44:27.690 | DM]'
+- from: Edge
+  to: Edric
+  count: 2
+  headers:
+  - '[u0490 | 00:45:49.650-00:45:56.779 | Edric]'
+  - '[u0659 | 01:01:22.890-01:01:24.199 | DM]'
+- from: Edrick
+  to: Edric
+  count: 2
+  headers:
+  - '[u0358 | 00:32:55.030-00:33:02.049 | Edric]'
+  - '[u1639 | 02:16:13.710-02:16:16.440 | Cato Min]'
+- from: Ulden
+  to: Alden
+  count: 2
+  headers:
+  - '[u0790 | 01:11:50.020-01:11:50.930 | DM]'
+  - '[u1312 | 01:51:16.320-01:51:20.459 | DM]'
+- from: seller
+  to: cellar
+  count: 2
+  headers:
+  - '[u2046 | 02:42:29.460-02:42:33.340 | DM]'
+- from: A vein
+  to: Ayveen
+  count: 1
+  headers:
+  - '[u0335 | 00:30:37.620-00:30:38.659 | Ayveen]'
+- from: Abeen
+  to: Ayveen
+  count: 1
+  headers:
+  - '[u0299 | 00:26:56.310-00:26:58.740 | DM]'
+- from: Adrix
+  to: Edric
+  count: 1
+  headers:
+  - '[u0341 | 00:30:56.980-00:30:58.370 | Edric]'
+- from: Aetna
+  to: ettin
+  count: 1
+  headers:
+  - '[u0484 | 00:45:25.200-00:45:32.809 | Edric]'
+- from: Agenic
+  to: Agentic
+  count: 1
+  headers:
+  - '[u0024 | 00:01:16.730-00:01:23.469 | Txarro]'
+- from: Albus
+  to: Alden
+  count: 1
+  headers:
+  - '[u0637 | 00:59:14.300-00:59:16.820 | Cato Min]'
+- from: Alda
+  to: Alden
+  count: 1
+  headers:
+  - '[u1848 | 02:30:57.370-02:31:04.560 | DM]'
+- from: Aldrick
+  to: Edric
+  count: 1
+  headers:
+  - '[u0645 | 00:59:51.620-00:59:55.060 | Edric]'
+- from: Alton
+  to: Alden
+  count: 1
+  headers:
+  - '[u0783 | 01:11:21.850-01:11:25.290 | DM]'
+- from: Amy
+  to: Ayveen
+  count: 1
+  headers:
+  - '[u0349 | 00:31:50.880-00:31:52.510 | DM]'
+- from: At Drek
+  to: Edric
+  count: 1
+  headers:
+  - '[u0211 | 00:17:14.440-00:17:15.520 | Edric]'
+- from: Atten
+  to: ettin
+  count: 1
+  headers:
+  - '[u0520 | 00:48:41.490-00:48:46.180 | Edric]'
+- from: Avian
+  to: Ayveen
+  count: 1
+  headers:
+  - '[u1223 | 01:43:20.500-01:43:24.980 | Cato Min]'
+- from: Avon
+  to: Ayveen
+  count: 1
+  headers:
+  - '[u1220 | 01:43:09.830-01:43:17.739 | Cato Min]'
+- from: Cater
+  to: Cato
+  count: 1
+  headers:
+  - '[u1120 | 01:35:17.950-01:35:20.000 | Txarro]'
+- from: Dean
+  to: Ayveen
+  count: 1
+  headers:
+  - '[u0339 | 00:30:42.510-00:30:54.510 | Cato Min]'
+- from: Delphi
+  to: this elf
+  count: 1
+  headers:
+  - '[u1505 | 02:07:08.780-02:07:10.889 | DM]'
+- from: Derek
+  to: Tarek
+  count: 1
+  headers:
+  - '[u1116 | 01:35:06.470-01:35:07.020 | DM]'
+- from: Easter
+  to: Edric
+  count: 1
+  headers:
+  - '[u1020 | 01:28:55.260-01:28:56.699 | Edric]'
+- from: Edin
+  to: ettin
+  count: 1
+  headers:
+  - '[u0505 | 00:47:28.460-00:47:34.730 | Tarek]'
+- from: Eldin
+  to: Alden
+  count: 1
+  headers:
+  - '[u0522 | 00:48:53.800-00:48:57.039 | DM]'
+- from: Eldrick
+  to: Edric
+  count: 1
+  headers:
+  - '[u0690 | 01:03:27.510-01:03:29.990 | DM]'
+- from: Embury
+  to: Embry
+  count: 1
+  headers:
+  - '[u0295 | 00:26:08.500-00:26:25.409 | Edric]'
+- from: Endrick
+  to: Edric
+  count: 1
+  headers:
+  - '[u1339 | 01:54:09.910-01:54:20.520 | Edric]'
+- from: Erg
+  to: Edric
+  count: 1
+  headers:
+  - '[u1085 | 01:33:01.100-01:33:07.839 | Cato Min]'
+- from: Etten
+  to: ettin
+  count: 1
+  headers:
+  - '[u0457 | 00:42:04.530-00:42:23.259 | DM]'
+- from: Etton
+  to: ettin
+  count: 1
+  headers:
+  - '[u0452 | 00:41:33.660-00:41:43.630 | DM]'
+- from: Gato
+  to: Cato
+  count: 1
+  headers:
+  - '[u0716 | 01:05:58.220-01:06:03.749 | DM]'
+- from: Hato
+  to: Cato
+  count: 1
+  headers:
+  - '[u0529 | 00:49:44.050-00:49:52.629 | Ayveen]'
+- from: Havin
+  to: Ayveen
+  count: 1
+  headers:
+  - '[u0336 | 00:30:39.080-00:30:40.060 | Tarek]'
+- from: Hilda
+  to: Holda
+  count: 1
+  headers:
+  - '[u1334 | 01:53:40.790-01:53:43.859 | DM]'
+- from: Holden
+  to: Holda
+  count: 1
+  headers:
+  - '[u1556 | 02:11:13.520-02:11:16.420 | Cato Min]'
+- from: Holder
+  to: Holda
+  count: 1
+  headers:
+  - '[u0543 | 00:51:03.460-00:51:07.589 | DM]'
+- from: Isolom
+  to: Xylem
+  count: 1
+  headers:
+  - '[u2104 | 02:46:20.070-02:46:21.370 | Ayveen]'
+- from: Iveen
+  to: Ayveen
+  count: 1
+  headers:
+  - '[u1163 | 01:38:44.670-01:38:48.819 | DM]'
+- from: Jinaldin
+  to: Alden
+  count: 1
+  headers:
+  - '[u1288 | 01:49:24.500-01:49:32.639 | DM]'
+- from: Kara
+  to: Cato
+  count: 1
+  headers:
+  - '[u0877 | 01:18:06.900-01:18:13.250 | Cato Min]'
+- from: Kearney
+  to: carny
+  count: 1
+  headers:
+  - '[u0192 | 00:16:17.290-00:16:26.980 | Cato Min]'
+- from: Kennedy
+  to: canopy
+  count: 1
+  headers:
+  - '[u0779 | 01:10:50.230-01:10:58.660 | DM]'
+- from: Loot
+  to: Lute
+  count: 1
+  headers:
+  - '[u0141 | 00:11:47.560-00:11:49.149 | DM]'
+- from: Lost foot
+  to: Moss Foot
+  count: 1
+  headers:
+  - '[u0796 | 01:12:16.960-01:12:17.840 | DM]'
+- from: MOSFET
+  to: Moss Foot
+  count: 1
+  headers:
+  - '[u0971 | 01:24:34.770-01:24:36.489 | DM]'
+- from: Madrix
+  to: Edric
+  count: 1
+  headers:
+  - '[u0792 | 01:12:00.760-01:12:03.620 | DM]'
+- from: Masfoot
+  to: Moss Foot
+  count: 1
+  headers:
+  - '[u1001 | 01:27:08.870-01:27:17.160 | DM]'
+- from: Odin
+  to: Alden
+  count: 1
+  headers:
+  - '[u0581 | 00:54:56.840-00:54:59.240 | DM]'
+- from: Seller
+  to: cellar
+  count: 1
+  headers:
+  - '[u2046 | 02:42:29.460-02:42:33.340 | DM]'
+- from: Sentin
+  to: ettin
+  count: 1
+  headers:
+  - '[u0469 | 00:43:46.870-00:44:00.850 | DM]'
+- from: Simbaran
+  to: Sembaran
+  count: 1
+  headers:
+  - '[u1546 | 02:10:29.510-02:10:31.560 | DM]'
+- from: Strubbing
+  to: strumming
+  count: 1
+  headers:
+  - '[u0296 | 00:26:32.220-00:26:36.839 | Ayveen]'
+- from: Taker
+  to: Tarek
+  count: 1
+  headers:
+  - '[u0109 | 00:08:09.280-00:08:21.420 | Txarro]'
+- from: Taro
+  to: Txarro
+  count: 1
+  headers:
+  - '[u0298 | 00:26:39.750-00:26:56.309 | Ayveen]'
+- from: Tellim
+  to: Telham
+  count: 1
+  headers:
+  - '[u0289 | 00:25:47.200-00:25:56.020 | Edric]'
+- from: Walden
+  to: Alden
+  count: 1
+  headers:
+  - '[u1238 | 01:44:34.050-01:44:38.929 | DM]'
+- from: Waskconce
+  to: wall sconces
+  count: 1
+  headers:
+  - '[u1953 | 02:36:42.600-02:36:45.640 | DM]'
+- from: Well, then
+  to: Alden
+  count: 1
+  headers:
+  - '[u0812 | 01:13:27.630-01:13:30.219 | DM]'
+- from: Whites
+  to: Blights
+  count: 1
+  headers:
+  - '[u0100 | 00:07:29.940-00:07:32.170 | Txarro]'
+- from: alpha
+  to: elf
+  count: 1
+  headers:
+  - '[u0178 | 00:15:11.280-00:15:12.570 | Cato Min]'
+- from: and
+  to: end
+  count: 1
+  headers:
+  - '[u1771 | 02:25:56.240-02:25:58.780 | Ayveen]'
+- from: armed
+  to: unarmed
+  count: 1
+  headers:
+  - '[u0630 | 00:58:52.950-00:58:54.260 | Cato Min]'
+- from: asinately
+  to: absently
+  count: 1
+  headers:
+  - '[u0162 | 00:13:58.680-00:14:15.449 | Cato Min]'
+- from: ball
+  to: maul
+  count: 1
+  headers:
+  - '[u1182 | 01:39:54.180-01:40:01.700 | Edric]'
+- from: countryman
+  to: country manor
+  count: 1
+  headers:
+  - '[u1259 | 01:45:58.170-01:46:04.330 | DM]'
+- from: faith
+  to: fate
+  count: 1
+  headers:
+  - '[u1404 | 01:57:48.200-01:57:56.009 | DM]'
+- from: head
+  to: heat
+  count: 1
+  headers:
+  - '[u0298 | 00:26:39.750-00:26:56.309 | Ayveen]'
+- from: is Tree Blites
+  to: are tree blights
+  count: 1
+  headers:
+  - '[u0098 | 00:07:28.200-00:07:29.440 | Cato Min]'
+- from: it is
+  to: end his
+  count: 1
+  headers:
+  - '[u1924 | 02:35:29.600-02:35:31.219 | Ayveen]'
+- from: kid
+  to: kind
+  count: 1
+  headers:
+  - '[u1564 | 02:11:49.420-02:11:54.259 | Cato Min]'
+- from: leaves
+  to: leads
+  count: 1
+  headers:
+  - '[u2017 | 02:40:06.060-02:40:14.670 | DM]'
+- from: less
+  to: lunch
+  count: 1
+  headers:
+  - '[u1980 | 02:38:05.970-02:38:06.870 | Txarro]'
+- from: lizard boat
+  to: lizardfolk
+  count: 1
+  headers:
+  - '[u0104 | 00:07:42.890-00:07:52.920 | Txarro]'
+- from: lost
+  to: last
+  count: 1
+  headers:
+  - '[u2084 | 02:44:52.080-02:44:53.199 | Txarro]'
+- from: lost foot
+  to: Moss Foot
+  count: 1
+  headers:
+  - '[u0798 | 01:12:19.760-01:12:20.460 | DM]'
+- from: moss foot
+  to: Moss Foot
+  count: 1
+  headers:
+  - '[u0797 | 01:12:18.280-01:12:19.090 | DM]'
+- from: nightgreen
+  to: Night Queen
+  count: 1
+  headers:
+  - '[u0690 | 01:03:27.510-01:03:29.990 | DM]'
+- from: one of
+  to: my
+  count: 1
+  headers:
+  - '[u1654 | 02:17:19.080-02:17:22.319 | DM]'
+- from: pay
+  to: fey
+  count: 1
+  headers:
+  - '[u1102 | 01:34:14.780-01:34:17.549 | Edric]'
+- from: phloems
+  to: phloem
+  count: 1
+  headers:
+  - '[u2104 | 02:46:20.070-02:46:21.370 | Ayveen]'
+- from: pickpock
+  to: pickpocket
+  count: 1
+  headers:
+  - '[u0166 | 00:14:24.220-00:14:25.660 | Tarek]'
+- from: porcolous
+  to: portcullis
+  count: 1
+  headers:
+  - '[u0806 | 01:12:50.380-01:12:58.409 | DM]'
+- from: porkless
+  to: portcullis
+  count: 1
+  headers:
+  - '[u1258 | 01:45:41.560-01:45:58.170 | DM]'
+- from: puman
+  to: human
+  count: 1
+  headers:
+  - '[u0586 | 00:55:18.960-00:55:21.620 | DM]'
+- from: put
+  to: Foot
+  count: 1
+  headers:
+  - '[u0969 | 01:24:18.300-01:24:25.559 | Edric]'
+- from: route
+  to: root
+  count: 1
+  headers:
+  - '[u2096 | 02:45:53.300-02:45:57.049 | DM]'
+- from: sambarin
+  to: Sembaran
+  count: 1
+  headers:
+  - '[u2131 | 02:47:47.270-02:47:49.319 | DM]'
+- from: sea lion
+  to: seed
+  count: 1
+  headers:
+  - '[u0561 | 00:53:02.120-00:53:13.410 | DM]'
+- from: serve
+  to: Wisdom
+  count: 1
+  headers:
+  - '[u0599 | 00:56:16.720-00:56:30.100 | Cato Min]'
+- from: treat
+  to: feet
+  count: 1
+  headers:
+  - '[u0829 | 01:14:26.780-01:14:28.870 | Tarek]'
+repeatedReplacements:
+- from: Charo
+  to: Txarro
+  count: 12
+  headers:
+  - '[u0057 | 00:04:26.440-00:04:29.220 | Txarro]'
+  - '[u0080 | 00:06:30.630-00:06:34.900 | Txarro]'
+  - '[u0092 | 00:07:11.020-00:07:13.360 | Txarro]'
+  - '[u0102 | 00:07:34.920-00:07:40.700 | Txarro]'
+  - '[u0134 | 00:11:19.520-00:11:23.700 | DM]'
+  - '[u0143 | 00:12:06.400-00:12:09.760 | Cato Min]'
+  - '[u0389 | 00:35:21.810-00:35:27.830 | Cato Min]'
+  - '[u0390 | 00:35:27.830-00:35:36.999 | Txarro]'
+  - '[u0485 | 00:45:33.810-00:45:43.919 | Cato Min]'
+  - '[u0989 | 01:25:41.140-01:25:58.010 | DM]'
+  - '[u1645 | 02:16:30.930-02:16:32.209 | Edric]'
+  - '[u1854 | 02:31:19.290-02:31:21.620 | DM]'
+- from: Tolin
+  to: Tollen
+  count: 11
+  headers:
+  - '[u0035 | 00:01:56.090-00:02:02.600 | DM]'
+  - '[u0104 | 00:07:42.890-00:07:52.920 | Txarro]'
+  - '[u0124 | 00:09:39.830-00:09:59.320 | Cato Min]'
+  - '[u0127 | 00:10:08.170-00:10:23.780 | Cato Min]'
+  - '[u0171 | 00:14:43.200-00:14:46.280 | Txarro]'
+  - '[u0315 | 00:28:45.670-00:28:54.470 | Ayveen]'
+  - '[u0451 | 00:41:27.600-00:41:33.660 | DM]'
+  - '[u0708 | 01:04:54.040-01:05:01.870 | DM]'
+  - '[u1430 | 02:00:04.390-02:00:09.430 | DM]'
+  - '[u1440 | 02:01:04.380-02:01:08.440 | DM]'
+  - '[u1454 | 02:02:07.050-02:02:09.110 | DM]'
+- from: Taric
+  to: Tarek
+  count: 8
+  headers:
+  - '[u0110 | 00:08:22.090-00:08:23.690 | Txarro]'
+  - '[u0162 | 00:13:58.680-00:14:15.449 | Cato Min]'
+  - '[u0312 | 00:28:28.510-00:28:35.080 | Cato Min]'
+  - '[u0374 | 00:33:57.760-00:34:04.079 | Cato Min]'
+  - '[u0947 | 01:22:19.130-01:22:26.260 | Txarro]'
+  - '[u1255 | 01:45:31.340-01:45:32.800 | Cato Min]'
+  - '[u1354 | 01:55:13.150-01:55:19.049 | Cato Min]'
+- from: Toland
+  to: Tollen
+  count: 8
+  headers:
+  - '[u0041 | 00:02:41.860-00:02:53.179 | DM]'
+  - '[u0108 | 00:08:03.640-00:08:08.509 | Txarro]'
+  - '[u0192 | 00:16:17.290-00:16:26.980 | Cato Min]'
+  - '[u0280 | 00:24:45.480-00:24:57.499 | Edric]'
+  - '[u0295 | 00:26:08.500-00:26:25.409 | Edric]'
+  - '[u1322 | 01:52:26.160-01:52:37.550 | DM]'
+  - '[u1467 | 02:03:19.690-02:03:26.520 | DM]'
+  - '[u1931 | 02:35:38.280-02:35:44.710 | Ayveen]'
+- from: Aveen
+  to: Ayveen
+  count: 6
+  headers:
+  - '[u0296 | 00:26:32.220-00:26:36.839 | Ayveen]'
+  - '[u0337 | 00:30:40.280-00:30:42.170 | Cato Min]'
+  - '[u1239 | 01:44:40.110-01:44:40.970 | Cato Min]'
+  - '[u1394 | 01:57:20.100-01:57:21.750 | Ayveen]'
+  - '[u1743 | 02:24:03.080-02:24:09.379 | Cato Min]'
+- from: Hulda
+  to: Holda
+  count: 6
+  headers:
+  - '[u0849 | 01:16:08.860-01:16:18.080 | DM]'
+  - '[u1404 | 01:57:48.200-01:57:56.009 | DM]'
+  - '[u1406 | 01:58:03.160-01:58:09.480 | DM]'
+  - '[u1412 | 01:58:34.100-01:58:39.980 | DM]'
+  - '[u1835 | 02:29:57.530-02:30:14.209 | Cato Min]'
+  - '[u2051 | 02:42:54.790-02:42:58.780 | DM]'
+- from: loot
+  to: lute
+  count: 3
+  headers:
+  - '[u0140 | 00:11:46.050-00:11:46.859 | Txarro]'
+  - '[u0142 | 00:11:49.150-00:12:06.349 | Cato Min]'
+- from: Aldwin
+  to: Alden
+  count: 2
+  headers:
+  - '[u1174 | 01:39:12.670-01:39:18.710 | Edric]'
+- from: Charles
+  to: Txarro
+  count: 2
+  headers:
+  - '[u0410 | 00:36:56.510-00:37:03.630 | Txarro]'
+  - '[u0716 | 01:05:58.220-01:06:03.749 | DM]'
+- from: Drancorian
+  to: Drankorian
+  count: 2
+  headers:
+  - '[u1025 | 01:29:31.300-01:29:36.879 | DM]'
+  - '[u1031 | 01:30:10.900-01:30:19.330 | DM]'
+- from: Eden
+  to: ettin
+  count: 2
+  headers:
+  - '[u0454 | 00:41:48.990-00:41:55.270 | DM]'
+  - '[u0475 | 00:44:22.960-00:44:27.690 | DM]'
+- from: Edge
+  to: Edric
+  count: 2
+  headers:
+  - '[u0490 | 00:45:49.650-00:45:56.779 | Edric]'
+  - '[u0659 | 01:01:22.890-01:01:24.199 | DM]'
+- from: Edrick
+  to: Edric
+  count: 2
+  headers:
+  - '[u0358 | 00:32:55.030-00:33:02.049 | Edric]'
+  - '[u1639 | 02:16:13.710-02:16:16.440 | Cato Min]'
+- from: Ulden
+  to: Alden
+  count: 2
+  headers:
+  - '[u0790 | 01:11:50.020-01:11:50.930 | DM]'
+  - '[u1312 | 01:51:16.320-01:51:20.459 | DM]'
+- from: seller
+  to: cellar
+  count: 2
+  headers:
+  - '[u2046 | 02:42:29.460-02:42:33.340 | DM]'
+unresolvedPhrases: []

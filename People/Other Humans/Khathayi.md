@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [Mawar]
 campaignInfo: []
 aliases: [Khathayi the Flametongue]
 name: Khathayi the Flametongue

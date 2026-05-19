@@ -1,0 +1,132 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-session.yaml",
+  "beats": [
+    {
+      "beatId": "B01",
+      "title": "Campfire Introductions",
+      "startUid": "u0001",
+      "endUid": "u0442",
+      "lineCount": 442,
+      "dateStart": "1750-10-03",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Opening setup and the full campfire round of PC descriptions and party relationship backstory; the next beat begins when Alden shifts the conversation to their previous job.",
+      "dateEvidence": [
+        "session.yaml gives drStart as 1750-10-03.",
+        "u0054-u0056 establish the group is camped for the night before reaching Dandelion House."
+      ]
+    },
+    {
+      "beatId": "B02",
+      "title": "Alden Asks About Last Job",
+      "startUid": "u0443",
+      "endUid": "u0698",
+      "lineCount": 256,
+      "dateStart": "1750-10-03",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Alden prompts the group to recount their last job, reveals his devotion to Dandelion House, and the party probes him before setting watches; the next beat starts with the morning departure.",
+      "dateEvidence": [
+        "session.yaml gives drStart as 1750-10-03.",
+        "u0447 says they will arrive at Dandelion House tomorrow.",
+        "u0583 and u0674-u0696 keep the scene in the same night and watches."
+      ]
+    },
+    {
+      "beatId": "B03",
+      "title": "Road To Dandelion House",
+      "startUid": "u0699",
+      "endUid": "u1129",
+      "lineCount": 431,
+      "dateStart": "1750-10-04",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party breaks camp, travels through the increasingly strange forest, reaches Dandelion House, and hesitates at the threshold; the next beat begins as they enter the house.",
+      "dateEvidence": [
+        "u0699-u0702 move from the watches into the morning and a long day's hike.",
+        "u0752 places part of the travel around noon.",
+        "u0778-u0783 move into sinking sunlight and arrival before dark."
+      ]
+    },
+    {
+      "beatId": "B04",
+      "title": "Inside The Manor",
+      "startUid": "u1130",
+      "endUid": "u1415",
+      "lineCount": 286,
+      "dateStart": "1750-10-04",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The group enters Dandelion House, explores the dusty preserved interior, ascends to meet Lord Holda, and gets seated and cleaned before dinner; the next beat starts with Holda's substantive explanation at the table.",
+      "dateEvidence": [
+        "u1128 says Alden wants them inside before dark tonight.",
+        "u1267-u1297 describe the last sunlight fading as Holda is introduced.",
+        "u1313-u1335 move the party to the kitchen for dinner."
+      ]
+    },
+    {
+      "beatId": "B05",
+      "title": "Holda Explains The Contract",
+      "startUid": "u1416",
+      "endUid": "u1832",
+      "lineCount": 417,
+      "dateStart": "1750-10-04",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Dinner with Lord Holda covers his adventuring past, the ancient deed, the treaty condition, the other side of the door, and the party's acceptance of the job; the next beat begins with their private reaction before bed.",
+      "dateEvidence": [
+        "u1416-u1422 restart dinner after the break.",
+        "u1571 says the attempt should wait until morning.",
+        "u1825-u1832 frame the plan as resting now and going to the basement in the morning."
+      ]
+    },
+    {
+      "beatId": "B06",
+      "title": "Deal And Nighttime Doubts",
+      "startUid": "u1833",
+      "endUid": "u2010",
+      "lineCount": 178,
+      "dateStart": "1750-10-04",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "After Holda leaves, the party debates the suspicious contract and possible treasure, handles last errands and supplies, and takes the long rest; the next beat begins when the magical clock wakes them before dawn.",
+      "dateEvidence": [
+        "u1831-u1842 explicitly say not to go into the basement tonight and to rest before an early day tomorrow.",
+        "u1915 marks the grandfather clock chiming ten o'clock.",
+        "u1967-u2010 compress the group going to sleep and finishing pre-rest actions."
+      ]
+    },
+    {
+      "beatId": "B07",
+      "title": "Into The Root Tunnel",
+      "startUid": "u2011",
+      "endUid": "u2156",
+      "lineCount": 146,
+      "dateStart": "1750-10-05",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party wakes before dawn, descends through the basement and root cellar, crawls into the enormous root passage, and ends on the door closing behind them.",
+      "dateEvidence": [
+        "u2011-u2017 say the party wakes before dawn after a long rest and Alden collects them.",
+        "u2019-u2048 place the party below the house in the basement and root cellar.",
+        "u2125-u2150 close the session with the door shut behind them in the tunnel."
+      ]
+    }
+  ]
+}

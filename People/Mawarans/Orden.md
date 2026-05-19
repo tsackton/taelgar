@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [Mawar]
 name: Orden
 born:
 species: human
@@ -25,4 +26,3 @@ He is also [[Hiyasa]]'s father. When [[Hiyasa]] returned to [[Hamri]] after roug
 %% Backstory, not really canonical but the vibes are probably right
 He was a rebellious youth, shipped out as a teen with some "merchants" who turned out ot be mercenaries or maybe just pirates, narrowly escaped, joined a criminal gang to survive for a while in a nearby coastal city, and later returned to Hamri, hoping to be welcomed by his family, but they rejected him. He subsists on what the ocean offers, or what he can beg or maybe steal, and fraternizes with the local lowlifes.  
 %%
-

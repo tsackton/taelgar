@@ -1,0 +1,995 @@
+{
+  "summary": {
+    "changedLineCount": 142,
+    "replacementCount": 102,
+    "repeatedReplacementCount": 15,
+    "topReplacements": [
+      {
+        "from": "Charo",
+        "to": "Txarro",
+        "count": 12,
+        "headers": [
+          "[u0057 | 00:04:26.440-00:04:29.220 | Txarro]",
+          "[u0080 | 00:06:30.630-00:06:34.900 | Txarro]",
+          "[u0092 | 00:07:11.020-00:07:13.360 | Txarro]",
+          "[u0102 | 00:07:34.920-00:07:40.700 | Txarro]",
+          "[u0134 | 00:11:19.520-00:11:23.700 | DM]",
+          "[u0143 | 00:12:06.400-00:12:09.760 | Cato Min]",
+          "[u0389 | 00:35:21.810-00:35:27.830 | Cato Min]",
+          "[u0390 | 00:35:27.830-00:35:36.999 | Txarro]",
+          "[u0485 | 00:45:33.810-00:45:43.919 | Cato Min]",
+          "[u0989 | 01:25:41.140-01:25:58.010 | DM]",
+          "[u1645 | 02:16:30.930-02:16:32.209 | Edric]",
+          "[u1854 | 02:31:19.290-02:31:21.620 | DM]"
+        ]
+      },
+      {
+        "from": "Tolin",
+        "to": "Tollen",
+        "count": 11,
+        "headers": [
+          "[u0035 | 00:01:56.090-00:02:02.600 | DM]",
+          "[u0104 | 00:07:42.890-00:07:52.920 | Txarro]",
+          "[u0124 | 00:09:39.830-00:09:59.320 | Cato Min]",
+          "[u0127 | 00:10:08.170-00:10:23.780 | Cato Min]",
+          "[u0171 | 00:14:43.200-00:14:46.280 | Txarro]",
+          "[u0315 | 00:28:45.670-00:28:54.470 | Ayveen]",
+          "[u0451 | 00:41:27.600-00:41:33.660 | DM]",
+          "[u0708 | 01:04:54.040-01:05:01.870 | DM]",
+          "[u1430 | 02:00:04.390-02:00:09.430 | DM]",
+          "[u1440 | 02:01:04.380-02:01:08.440 | DM]",
+          "[u1454 | 02:02:07.050-02:02:09.110 | DM]"
+        ]
+      },
+      {
+        "from": "Taric",
+        "to": "Tarek",
+        "count": 8,
+        "headers": [
+          "[u0110 | 00:08:22.090-00:08:23.690 | Txarro]",
+          "[u0162 | 00:13:58.680-00:14:15.449 | Cato Min]",
+          "[u0312 | 00:28:28.510-00:28:35.080 | Cato Min]",
+          "[u0374 | 00:33:57.760-00:34:04.079 | Cato Min]",
+          "[u0947 | 01:22:19.130-01:22:26.260 | Txarro]",
+          "[u1255 | 01:45:31.340-01:45:32.800 | Cato Min]",
+          "[u1354 | 01:55:13.150-01:55:19.049 | Cato Min]"
+        ]
+      },
+      {
+        "from": "Toland",
+        "to": "Tollen",
+        "count": 8,
+        "headers": [
+          "[u0041 | 00:02:41.860-00:02:53.179 | DM]",
+          "[u0108 | 00:08:03.640-00:08:08.509 | Txarro]",
+          "[u0192 | 00:16:17.290-00:16:26.980 | Cato Min]",
+          "[u0280 | 00:24:45.480-00:24:57.499 | Edric]",
+          "[u0295 | 00:26:08.500-00:26:25.409 | Edric]",
+          "[u1322 | 01:52:26.160-01:52:37.550 | DM]",
+          "[u1467 | 02:03:19.690-02:03:26.520 | DM]",
+          "[u1931 | 02:35:38.280-02:35:44.710 | Ayveen]"
+        ]
+      },
+      {
+        "from": "Aveen",
+        "to": "Ayveen",
+        "count": 6,
+        "headers": [
+          "[u0296 | 00:26:32.220-00:26:36.839 | Ayveen]",
+          "[u0337 | 00:30:40.280-00:30:42.170 | Cato Min]",
+          "[u1239 | 01:44:40.110-01:44:40.970 | Cato Min]",
+          "[u1394 | 01:57:20.100-01:57:21.750 | Ayveen]",
+          "[u1743 | 02:24:03.080-02:24:09.379 | Cato Min]"
+        ]
+      },
+      {
+        "from": "Hulda",
+        "to": "Holda",
+        "count": 6,
+        "headers": [
+          "[u0849 | 01:16:08.860-01:16:18.080 | DM]",
+          "[u1404 | 01:57:48.200-01:57:56.009 | DM]",
+          "[u1406 | 01:58:03.160-01:58:09.480 | DM]",
+          "[u1412 | 01:58:34.100-01:58:39.980 | DM]",
+          "[u1835 | 02:29:57.530-02:30:14.209 | Cato Min]",
+          "[u2051 | 02:42:54.790-02:42:58.780 | DM]"
+        ]
+      },
+      {
+        "from": "loot",
+        "to": "lute",
+        "count": 3,
+        "headers": [
+          "[u0140 | 00:11:46.050-00:11:46.859 | Txarro]",
+          "[u0142 | 00:11:49.150-00:12:06.349 | Cato Min]"
+        ]
+      },
+      {
+        "from": "Aldwin",
+        "to": "Alden",
+        "count": 2,
+        "headers": [
+          "[u1174 | 01:39:12.670-01:39:18.710 | Edric]"
+        ]
+      },
+      {
+        "from": "Charles",
+        "to": "Txarro",
+        "count": 2,
+        "headers": [
+          "[u0410 | 00:36:56.510-00:37:03.630 | Txarro]",
+          "[u0716 | 01:05:58.220-01:06:03.749 | DM]"
+        ]
+      },
+      {
+        "from": "Drancorian",
+        "to": "Drankorian",
+        "count": 2,
+        "headers": [
+          "[u1025 | 01:29:31.300-01:29:36.879 | DM]",
+          "[u1031 | 01:30:10.900-01:30:19.330 | DM]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 2156,
+  "changedLineCount": 142,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0024 | 00:01:16.730-00:01:23.469 | Txarro]",
+      "lineNumber": 24,
+      "originalText": "Agenic pipeline outputs that included a transcript and an automatically generated session recap for you to edit.",
+      "cleanedText": "Agentic pipeline outputs that included a transcript and an automatically generated session recap for you to edit."
+    },
+    {
+      "header": "[u0035 | 00:01:56.090-00:02:02.600 | DM]",
+      "lineNumber": 35,
+      "originalText": "But the group of the five of you were recruited in Tolin, by a,",
+      "cleanedText": "But the group of the five of you were recruited in Tollen, by a,"
+    },
+    {
+      "header": "[u0041 | 00:02:41.860-00:02:53.179 | DM]",
+      "lineNumber": 41,
+      "originalText": "And also the opportunity to get into a part of the world that you hadn't been before. I'm sort of headed west from Toland up and into the hills.",
+      "cleanedText": "And also the opportunity to get into a part of the world that you hadn't been before. I'm sort of headed west from Tollen up and into the hills."
+    },
+    {
+      "header": "[u0057 | 00:04:26.440-00:04:29.220 | Txarro]",
+      "lineNumber": 57,
+      "originalText": "So… Charo.",
+      "cleanedText": "So… Txarro."
+    },
+    {
+      "header": "[u0080 | 00:06:30.630-00:06:34.900 | Txarro]",
+      "lineNumber": 80,
+      "originalText": "Yeah, so… Charo… Matt…",
+      "cleanedText": "Yeah, so… Txarro… Matt…"
+    },
+    {
+      "header": "[u0092 | 00:07:11.020-00:07:13.360 | Txarro]",
+      "lineNumber": 92,
+      "originalText": "Charo's from…",
+      "cleanedText": "Txarro's from…"
+    },
+    {
+      "header": "[u0098 | 00:07:28.200-00:07:29.440 | Cato Min]",
+      "lineNumber": 98,
+      "originalText": "What is Tree Blites?",
+      "cleanedText": "What are tree blights?"
+    },
+    {
+      "header": "[u0100 | 00:07:29.940-00:07:32.170 | Txarro]",
+      "lineNumber": 100,
+      "originalText": "Whites are, like, little haunted trees.",
+      "cleanedText": "Blights are, like, little haunted trees."
+    },
+    {
+      "header": "[u0102 | 00:07:34.920-00:07:40.700 | Txarro]",
+      "lineNumber": 102,
+      "originalText": "He… Charo has… like, he never really fit in with his…",
+      "cleanedText": "He… Txarro has… like, he never really fit in with his…"
+    },
+    {
+      "header": "[u0104 | 00:07:42.890-00:07:52.920 | Txarro]",
+      "lineNumber": 104,
+      "originalText": "Tolin, in a small lizard boat village along the Greywash, but he never… never really fit in. He liked animals more than people. So he'd travel, he'd wander a lot.",
+      "cleanedText": "Tollen, in a small lizardfolk village along the Greywash, but he never… never really fit in. He liked animals more than people. So he'd travel, he'd wander a lot."
+    },
+    {
+      "header": "[u0108 | 00:08:03.640-00:08:08.509 | Txarro]",
+      "lineNumber": 108,
+      "originalText": "when he was far from, you know, several days upriver from Toland a few years ago.",
+      "cleanedText": "when he was far from, you know, several days upriver from Tollen a few years ago."
+    },
+    {
+      "header": "[u0109 | 00:08:09.280-00:08:21.420 | Txarro]",
+      "lineNumber": 109,
+      "originalText": "He was surrounded by tree blights, ran… outmatched, but… rescued by… Kato and Taker.",
+      "cleanedText": "He was surrounded by tree blights, ran… outmatched, but… rescued by… Kato and Tarek."
+    },
+    {
+      "header": "[u0110 | 00:08:22.090-00:08:23.690 | Txarro]",
+      "lineNumber": 110,
+      "originalText": "Sorry, Taric.",
+      "cleanedText": "Sorry, Tarek."
+    },
+    {
+      "header": "[u0124 | 00:09:39.830-00:09:59.320 | Cato Min]",
+      "lineNumber": 124,
+      "originalText": "Kato… Kato is, is, kind of sitting, you know, very fidgety. He's, like, always kind of, like, a little fidgety, like, always, like, a little, like, scratching himself, or, like, playing with something, and, you know, like, right now he's got, like, some, some, you know, Tolin, gold coins that he's just, like, kind of absently, like, fiddling with, and…",
+      "cleanedText": "Kato… Kato is, is, kind of sitting, you know, very fidgety. He's, like, always kind of, like, a little fidgety, like, always, like, a little, like, scratching himself, or, like, playing with something, and, you know, like, right now he's got, like, some, some, you know, Tollen, gold coins that he's just, like, kind of absently, like, fiddling with, and…"
+    },
+    {
+      "header": "[u0127 | 00:10:08.170-00:10:23.780 | Cato Min]",
+      "lineNumber": 127,
+      "originalText": "red… Tolin red, robe. Very nice. Like, very, very nice, like, gold… gold, embroidered with, you know, some really interesting patterns and design on it. It's a little dirty from the road, and he doesn't seem to mind, but, you know, he's definitely, you know, looks…",
+      "cleanedText": "red… Tollen red, robe. Very nice. Like, very, very nice, like, gold… gold, embroidered with, you know, some really interesting patterns and design on it. It's a little dirty from the road, and he doesn't seem to mind, but, you know, he's definitely, you know, looks…"
+    },
+    {
+      "header": "[u0134 | 00:11:19.520-00:11:23.700 | DM]",
+      "lineNumber": 134,
+      "originalText": "When Charo offers the fish, you know.",
+      "cleanedText": "When Txarro offers the fish, you know."
+    },
+    {
+      "header": "[u0140 | 00:11:46.050-00:11:46.859 | Txarro]",
+      "lineNumber": 140,
+      "originalText": "Like a loot?",
+      "cleanedText": "Like a lute?"
+    },
+    {
+      "header": "[u0141 | 00:11:47.560-00:11:49.149 | DM]",
+      "lineNumber": 141,
+      "originalText": "Loot, perfect, yeah.",
+      "cleanedText": "Lute, perfect, yeah."
+    },
+    {
+      "header": "[u0142 | 00:11:49.150-00:12:06.349 | Cato Min]",
+      "lineNumber": 142,
+      "originalText": "So, you know, he always… his loot is, like, almost always, like, strapped around him, so he's just, like, kind of alternating between fidgeting with these, like, kind of coins that he's, like, got in his hands, and then, you know, just, like, absentmindedly, like, stringing, you know, playing his loot slightly. But then otherwise, it's just, like, yeah, fish.",
+      "cleanedText": "So, you know, he always… his lute is, like, almost always, like, strapped around him, so he's just, like, kind of alternating between fidgeting with these, like, kind of coins that he's, like, got in his hands, and then, you know, just, like, absentmindedly, like, stringing, you know, playing his lute slightly. But then otherwise, it's just, like, yeah, fish."
+    },
+    {
+      "header": "[u0143 | 00:12:06.400-00:12:09.760 | Cato Min]",
+      "lineNumber": 143,
+      "originalText": "Fish sounds good. Charo, you're good at the fish thing, I'm glad we're doing fish.",
+      "cleanedText": "Fish sounds good. Txarro, you're good at the fish thing, I'm glad we're doing fish."
+    },
+    {
+      "header": "[u0162 | 00:13:58.680-00:14:15.449 | Cato Min]",
+      "lineNumber": 162,
+      "originalText": "Well, I was just gonna say, this is, like, so common, like, around the campfire, like, Kato and Taric, it's like this, like, yeah, like, coins will disappear, like, Kato's, like, asinately, like, and then, like, there's, like, sort of, like, a, like, fucking with each other and one-upping each other, but then there's also just, like, full-on routines that are, like.",
+      "cleanedText": "Well, I was just gonna say, this is, like, so common, like, around the campfire, like, Kato and Tarek, it's like this, like, yeah, like, coins will disappear, like, Kato's, like, absently, like, and then, like, there's, like, sort of, like, a, like, fucking with each other and one-upping each other, but then there's also just, like, full-on routines that are, like."
+    },
+    {
+      "header": "[u0166 | 00:14:24.220-00:14:25.660 | Tarek]",
+      "lineNumber": 166,
+      "originalText": "And Tarek is the pickpock.",
+      "cleanedText": "And Tarek is the pickpocket."
+    },
+    {
+      "header": "[u0171 | 00:14:43.200-00:14:46.280 | Txarro]",
+      "lineNumber": 171,
+      "originalText": "I mean, you're… You were both in Tolin, right?",
+      "cleanedText": "I mean, you're… You were both in Tollen, right?"
+    },
+    {
+      "header": "[u0178 | 00:15:11.280-00:15:12.570 | Cato Min]",
+      "lineNumber": 178,
+      "originalText": "I'm a young, young alpha.",
+      "cleanedText": "I'm a young, young elf."
+    },
+    {
+      "header": "[u0192 | 00:16:17.290-00:16:26.980 | Cato Min]",
+      "lineNumber": 192,
+      "originalText": "But really quick, how did Tarek and I meet? Tarek, how did we meet? Like, what were you doing in Toland? Like, I ended up here, and then I just kind of got into the Kearney life and whatever.",
+      "cleanedText": "But really quick, how did Tarek and I meet? Tarek, how did we meet? Like, what were you doing in Tollen? Like, I ended up here, and then I just kind of got into the carny life and whatever."
+    },
+    {
+      "header": "[u0211 | 00:17:14.440-00:17:15.520 | Edric]",
+      "lineNumber": 211,
+      "originalText": "At Drek.",
+      "cleanedText": "Edric."
+    },
+    {
+      "header": "[u0280 | 00:24:45.480-00:24:57.499 | Edric]",
+      "lineNumber": 280,
+      "originalText": "somewhere north of Toland, like, along the river, there was some small village that was… that was being plagued by this ghoul that would rise up from the grave every night. And you four were, like.",
+      "cleanedText": "somewhere north of Tollen, like, along the river, there was some small village that was… that was being plagued by this ghoul that would rise up from the grave every night. And you four were, like."
+    },
+    {
+      "header": "[u0289 | 00:25:47.200-00:25:56.020 | Edric]",
+      "lineNumber": 289,
+      "originalText": "somewhere in Tellim, off the road between… actually, I have an Obsidian page I didn't put… I didn't push. He was born in Wickerly.",
+      "cleanedText": "somewhere in Telham, off the road between… actually, I have an Obsidian page I didn't put… I didn't push. He was born in Wickerly."
+    },
+    {
+      "header": "[u0295 | 00:26:08.500-00:26:25.409 | Edric]",
+      "lineNumber": 295,
+      "originalText": "Yeah, he was born, on a little village two days off the road, so, like, there's a road that runs from Toland to Embury. He was born on some village known for basically nothing, two days south of the road, like, a two-day walk south of the road, right?",
+      "cleanedText": "Yeah, he was born, on a little village two days off the road, so, like, there's a road that runs from Tollen to Embry. He was born on some village known for basically nothing, two days south of the road, like, a two-day walk south of the road, right?"
+    },
+    {
+      "header": "[u0296 | 00:26:32.220-00:26:36.839 | Ayveen]",
+      "lineNumber": 296,
+      "originalText": "Aveen is… Strubbing a bit on her hand drum.",
+      "cleanedText": "Ayveen is… strumming a bit on her hand drum."
+    },
+    {
+      "header": "[u0298 | 00:26:39.750-00:26:56.309 | Ayveen]",
+      "lineNumber": 298,
+      "originalText": "Taro comes in with the fish, he says, oh, they're so beautifully sparkly in the firelight before you… before we head them up to… to cook them. And I think that I… I can… I can see a nice, spot in the trees where we're gonna get a moonbeam tonight.",
+      "cleanedText": "Txarro comes in with the fish, he says, oh, they're so beautifully sparkly in the firelight before you… before we heat them up to… to cook them. And I think that I… I can… I can see a nice, spot in the trees where we're gonna get a moonbeam tonight."
+    },
+    {
+      "header": "[u0299 | 00:26:56.310-00:26:58.740 | DM]",
+      "lineNumber": 299,
+      "originalText": "Abeen is a…",
+      "cleanedText": "Ayveen is a…"
+    },
+    {
+      "header": "[u0312 | 00:28:28.510-00:28:35.080 | Cato Min]",
+      "lineNumber": 312,
+      "originalText": "You know? Taric makes sure that they're generous the ways that they… Need to be. It's great.",
+      "cleanedText": "You know? Tarek makes sure that they're generous the ways that they… Need to be. It's great."
+    },
+    {
+      "header": "[u0315 | 00:28:45.670-00:28:54.470 | Ayveen]",
+      "lineNumber": 315,
+      "originalText": "my start after finishing my studies in Tolin, I knew somebody who knew this merchant who needed people, so I…",
+      "cleanedText": "my start after finishing my studies in Tollen, I knew somebody who knew this merchant who needed people, so I…"
+    },
+    {
+      "header": "[u0335 | 00:30:37.620-00:30:38.659 | Ayveen]",
+      "lineNumber": 335,
+      "originalText": "A vein.",
+      "cleanedText": "Ayveen."
+    },
+    {
+      "header": "[u0336 | 00:30:39.080-00:30:40.060 | Tarek]",
+      "lineNumber": 336,
+      "originalText": "Havin.",
+      "cleanedText": "Ayveen."
+    },
+    {
+      "header": "[u0337 | 00:30:40.280-00:30:42.170 | Cato Min]",
+      "lineNumber": 337,
+      "originalText": "Oh, Aveen, Aveen. Sorry.",
+      "cleanedText": "Oh, Ayveen, Ayveen. Sorry."
+    },
+    {
+      "header": "[u0339 | 00:30:42.510-00:30:54.510 | Cato Min]",
+      "lineNumber": 339,
+      "originalText": "Dean and Edric, just, like, whenever we meet somebody, you're just so nice, and you're just so, like, welcoming and thoughtful. Like, is it, like, what's the… are you two, like, aligned? Do you all… do you both, like.",
+      "cleanedText": "Ayveen and Edric, just, like, whenever we meet somebody, you're just so nice, and you're just so, like, welcoming and thoughtful. Like, is it, like, what's the… are you two, like, aligned? Do you all… do you both, like."
+    },
+    {
+      "header": "[u0341 | 00:30:56.980-00:30:58.370 | Edric]",
+      "lineNumber": 341,
+      "originalText": "Adrix?",
+      "cleanedText": "Edric?"
+    },
+    {
+      "header": "[u0349 | 00:31:50.880-00:31:52.510 | DM]",
+      "lineNumber": 349,
+      "originalText": "What's your relationship with Amy?",
+      "cleanedText": "What's your relationship with Ayveen?"
+    },
+    {
+      "header": "[u0358 | 00:32:55.030-00:33:02.049 | Edric]",
+      "lineNumber": 358,
+      "originalText": "But Edrick's a little skeptical of change, to be honest, right? Like, you… that's nice, like, you do you, of course, but like…",
+      "cleanedText": "But Edric's a little skeptical of change, to be honest, right? Like, you… that's nice, like, you do you, of course, but like…"
+    },
+    {
+      "header": "[u0374 | 00:33:57.760-00:34:04.079 | Cato Min]",
+      "lineNumber": 374,
+      "originalText": "Tarek, I thought Taric was a reluctant rogue. You don't sound very reluctant. You sound pretty into it. Like, you sound.",
+      "cleanedText": "Tarek, I thought Tarek was a reluctant rogue. You don't sound very reluctant. You sound pretty into it. Like, you sound."
+    },
+    {
+      "header": "[u0389 | 00:35:21.810-00:35:27.830 | Cato Min]",
+      "lineNumber": 389,
+      "originalText": "Exactly. And then, and then, Charo is, like, is like, so you're, you're, like, what's your dynamic with everything?",
+      "cleanedText": "Exactly. And then, and then, Txarro is, like, is like, so you're, you're, like, what's your dynamic with everything?"
+    },
+    {
+      "header": "[u0390 | 00:35:27.830-00:35:36.999 | Txarro]",
+      "lineNumber": 390,
+      "originalText": "So, I mean, Charo's a bit older than everybody else, he's, like, 32 or something like that, which is not old for… for lizardfolk, obviously.",
+      "cleanedText": "So, I mean, Txarro's a bit older than everybody else, he's, like, 32 or something like that, which is not old for… for lizardfolk, obviously."
+    },
+    {
+      "header": "[u0410 | 00:36:56.510-00:37:03.630 | Txarro]",
+      "lineNumber": 410,
+      "originalText": "So… so, I think Charles sees himself a little bit as, like, the… you know.",
+      "cleanedText": "So… so, I think Txarro sees himself a little bit as, like, the… you know."
+    },
+    {
+      "header": "[u0451 | 00:41:27.600-00:41:33.660 | DM]",
+      "lineNumber": 451,
+      "originalText": "by an elf in Tolin belonging to some… Organization interested in recovering items.",
+      "cleanedText": "by an elf in Tollen belonging to some… Organization interested in recovering items."
+    },
+    {
+      "header": "[u0452 | 00:41:33.660-00:41:43.630 | DM]",
+      "lineNumber": 452,
+      "originalText": "To go far upriver to where an Etton, a 12-foot-tall, two-headed giant, had…",
+      "cleanedText": "To go far upriver to where an ettin, a 12-foot-tall, two-headed giant, had…"
+    },
+    {
+      "header": "[u0454 | 00:41:48.990-00:41:55.270 | DM]",
+      "lineNumber": 454,
+      "originalText": "And, this Eden and a, a group of, goblins, who he…",
+      "cleanedText": "And, this ettin and a, a group of, goblins, who he…"
+    },
+    {
+      "header": "[u0457 | 00:42:04.530-00:42:23.259 | DM]",
+      "lineNumber": 457,
+      "originalText": "So, you had to go up, you had to track them down, and fight your way through the goblins, and then come and have an extremely, extremely tough battle with this Etten, who you thought you could sneak up on, but it turns out only one of the heads is asleep at a time, and so it, saw you coming and turned tables, and…",
+      "cleanedText": "So, you had to go up, you had to track them down, and fight your way through the goblins, and then come and have an extremely, extremely tough battle with this ettin, who you thought you could sneak up on, but it turns out only one of the heads is asleep at a time, and so it, saw you coming and turned tables, and…"
+    },
+    {
+      "header": "[u0469 | 00:43:46.870-00:44:00.850 | DM]",
+      "lineNumber": 469,
+      "originalText": "He's asking, what was your favorite part of the last job, where you went upriver into the wilds, tracked down this group of goblins, and defeated them, then tried to sneak up and kill the Sentin, but it turned the tables, you had a very, very tough fight.",
+      "cleanedText": "He's asking, what was your favorite part of the last job, where you went upriver into the wilds, tracked down this group of goblins, and defeated them, then tried to sneak up and kill the ettin, but it turned the tables, you had a very, very tough fight."
+    },
+    {
+      "header": "[u0475 | 00:44:22.960-00:44:27.690 | DM]",
+      "lineNumber": 475,
+      "originalText": "Yeah, because the Eden had a whole bunch of money you did not need to declare to the elf in good pocket.",
+      "cleanedText": "Yeah, because the ettin had a whole bunch of money you did not need to declare to the elf in good pocket."
+    },
+    {
+      "header": "[u0484 | 00:45:25.200-00:45:32.809 | Edric]",
+      "lineNumber": 484,
+      "originalText": "You didn't notice all the blood pouring out of me when the Aetna hit me with his, his, spiked club there?",
+      "cleanedText": "You didn't notice all the blood pouring out of me when the ettin hit me with his, his, spiked club there?"
+    },
+    {
+      "header": "[u0485 | 00:45:33.810-00:45:43.919 | Cato Min]",
+      "lineNumber": 485,
+      "originalText": "I mean, did I notice? Of course I noticed, but then, you know, that's why Charo's here, and there's healing, I mean, we're living in a magical realm, I mean, it's temporary blood, you know?",
+      "cleanedText": "I mean, did I notice? Of course I noticed, but then, you know, that's why Txarro's here, and there's healing, I mean, we're living in a magical realm, I mean, it's temporary blood, you know?"
+    },
+    {
+      "header": "[u0490 | 00:45:49.650-00:45:56.779 | Edric]",
+      "lineNumber": 490,
+      "originalText": "You've actually… you've actually seen Edge, like, take a ton of damage and then just heal it all the next moment.",
+      "cleanedText": "You've actually… you've actually seen Edric, like, take a ton of damage and then just heal it all the next moment."
+    },
+    {
+      "header": "[u0505 | 00:47:28.460-00:47:34.730 | Tarek]",
+      "lineNumber": 505,
+      "originalText": "the, the Edin… I'm very large.",
+      "cleanedText": "the, the ettin… I'm very large."
+    },
+    {
+      "header": "[u0520 | 00:48:41.490-00:48:46.180 | Edric]",
+      "lineNumber": 520,
+      "originalText": "I think maybe if the Atten hadn't seen him coming, it would have been a better 6 seconds.",
+      "cleanedText": "I think maybe if the ettin hadn't seen him coming, it would have been a better 6 seconds."
+    },
+    {
+      "header": "[u0522 | 00:48:53.800-00:48:57.039 | DM]",
+      "lineNumber": 522,
+      "originalText": "Was that your favorite part, then? Eldin asks.",
+      "cleanedText": "Was that your favorite part, then? Alden asks."
+    },
+    {
+      "header": "[u0529 | 00:49:44.050-00:49:52.629 | Ayveen]",
+      "lineNumber": 529,
+      "originalText": "Hato says, from getting my clothes dirty, which I just think is a metaphor for experiencing pain,",
+      "cleanedText": "Cato says, from getting my clothes dirty, which I just think is a metaphor for experiencing pain,"
+    },
+    {
+      "header": "[u0543 | 00:51:03.460-00:51:07.589 | DM]",
+      "lineNumber": 543,
+      "originalText": "Lord Holder just spruces it up a little bit and really moves in.",
+      "cleanedText": "Lord Holda just spruces it up a little bit and really moves in."
+    },
+    {
+      "header": "[u0561 | 00:53:02.120-00:53:13.410 | DM]",
+      "lineNumber": 561,
+      "originalText": "the same dandelions that grow on the west side of the mountains grow on the east. What greater traveler is there than a sea lion? It's remarkable.",
+      "cleanedText": "the same dandelions that grow on the west side of the mountains grow on the east. What greater traveler is there than a seed? It's remarkable."
+    },
+    {
+      "header": "[u0581 | 00:54:56.840-00:54:59.240 | DM]",
+      "lineNumber": 581,
+      "originalText": "Odin falls… silent again.",
+      "cleanedText": "Alden falls… silent again."
+    },
+    {
+      "header": "[u0586 | 00:55:18.960-00:55:21.620 | DM]",
+      "lineNumber": 586,
+      "originalText": "He's sort of a small round puman.",
+      "cleanedText": "He's sort of a small round human."
+    },
+    {
+      "header": "[u0599 | 00:56:16.720-00:56:30.100 | Cato Min]",
+      "lineNumber": 599,
+      "originalText": "As a magic action on your next turn, you can try to probe deeper into the target's mind. If you probe deeper, the target makes a wisdom saving throw. On a failed serve save, you discern the target's reasoning, emotions, and something that looms in its mind.",
+      "cleanedText": "As a magic action on your next turn, you can try to probe deeper into the target's mind. If you probe deeper, the target makes a wisdom saving throw. On a failed Wisdom save, you discern the target's reasoning, emotions, and something that looms in its mind."
+    },
+    {
+      "header": "[u0630 | 00:58:52.950-00:58:54.260 | Cato Min]",
+      "lineNumber": 630,
+      "originalText": "Nope, armed.",
+      "cleanedText": "Nope, unarmed."
+    },
+    {
+      "header": "[u0637 | 00:59:14.300-00:59:16.820 | Cato Min]",
+      "lineNumber": 637,
+      "originalText": "Yes. It's not obvious to Albus.",
+      "cleanedText": "Yes. It's not obvious to Alden."
+    },
+    {
+      "header": "[u0645 | 00:59:51.620-00:59:55.060 | Edric]",
+      "lineNumber": 645,
+      "originalText": "Aldrick will say to you, are you worried about something?",
+      "cleanedText": "Edric will say to you, are you worried about something?"
+    },
+    {
+      "header": "[u0659 | 01:01:22.890-01:01:24.199 | DM]",
+      "lineNumber": 659,
+      "originalText": "Edge says again, Ed.",
+      "cleanedText": "Edric says again, Ed."
+    },
+    {
+      "header": "[u0690 | 01:03:27.510-01:03:29.990 | DM]",
+      "lineNumber": 690,
+      "originalText": "Eldrick says, like, a prayer to the nightgreen.",
+      "cleanedText": "Edric says, like, a prayer to the Night Queen."
+    },
+    {
+      "header": "[u0708 | 01:04:54.040-01:05:01.870 | DM]",
+      "lineNumber": 708,
+      "originalText": "in the morning, you lose the path. You started by going upriver for Tolin, and then following paths through the woods that were relatively…",
+      "cleanedText": "in the morning, you lose the path. You started by going upriver for Tollen, and then following paths through the woods that were relatively…"
+    },
+    {
+      "header": "[u0716 | 01:05:58.220-01:06:03.749 | DM]",
+      "lineNumber": 716,
+      "originalText": "Gato kinda is, like, as we're, like, walking along to, like, Charles, like, dude, like, are we…",
+      "cleanedText": "Cato kinda is, like, as we're, like, walking along to, like, Txarro, like, dude, like, are we…"
+    },
+    {
+      "header": "[u0779 | 01:10:50.230-01:10:58.660 | DM]",
+      "lineNumber": 779,
+      "originalText": "what must be beautiful and low light above the level of the Kennedy just translates into more and more darkness.",
+      "cleanedText": "what must be beautiful and low light above the level of the canopy just translates into more and more darkness."
+    },
+    {
+      "header": "[u0783 | 01:11:21.850-01:11:25.290 | DM]",
+      "lineNumber": 783,
+      "originalText": "Not far now, says Alton. We are almost there.",
+      "cleanedText": "Not far now, says Alden. We are almost there."
+    },
+    {
+      "header": "[u0790 | 01:11:50.020-01:11:50.930 | DM]",
+      "lineNumber": 790,
+      "originalText": "Ulden…",
+      "cleanedText": "Alden…"
+    },
+    {
+      "header": "[u0792 | 01:12:00.760-01:12:03.620 | DM]",
+      "lineNumber": 792,
+      "originalText": "Madrix is not fire, it's… it's just light.",
+      "cleanedText": "Edric is not fire, it's… it's just light."
+    },
+    {
+      "header": "[u0796 | 01:12:16.960-01:12:17.840 | DM]",
+      "lineNumber": 796,
+      "originalText": "Lost foot.",
+      "cleanedText": "Moss Foot."
+    },
+    {
+      "header": "[u0797 | 01:12:18.280-01:12:19.090 | DM]",
+      "lineNumber": 797,
+      "originalText": "moss foot.",
+      "cleanedText": "Moss Foot."
+    },
+    {
+      "header": "[u0798 | 01:12:19.760-01:12:20.460 | DM]",
+      "lineNumber": 798,
+      "originalText": "lost foot.",
+      "cleanedText": "Moss Foot."
+    },
+    {
+      "header": "[u0806 | 01:12:50.380-01:12:58.409 | DM]",
+      "lineNumber": 806,
+      "originalText": "little bits of iron, a few bits left, that must have been a porcolous to raise up and down to close it off, and…",
+      "cleanedText": "little bits of iron, a few bits left, that must have been a portcullis to raise up and down to close it off, and…"
+    },
+    {
+      "header": "[u0812 | 01:13:27.630-01:13:30.219 | DM]",
+      "lineNumber": 812,
+      "originalText": "Well, then leads you through… the gate?",
+      "cleanedText": "Alden leads you through… the gate?"
+    },
+    {
+      "header": "[u0825 | 01:14:15.850-01:14:18.319 | DM]",
+      "lineNumber": 825,
+      "originalText": "Yeah, ev- everywhere. Everywhere, everywhere.",
+      "cleanedText": "Yeah, everywhere. Everywhere, everywhere."
+    },
+    {
+      "header": "[u0829 | 01:14:26.780-01:14:28.870 | Tarek]",
+      "lineNumber": 829,
+      "originalText": "My treat, low roots.",
+      "cleanedText": "My feet, low roots."
+    },
+    {
+      "header": "[u0849 | 01:16:08.860-01:16:18.080 | DM]",
+      "lineNumber": 849,
+      "originalText": "Before we go inside, I need to tell you that… Lord Hulda can be… Difficult sometimes.",
+      "cleanedText": "Before we go inside, I need to tell you that… Lord Holda can be… Difficult sometimes."
+    },
+    {
+      "header": "[u0877 | 01:18:06.900-01:18:13.250 | Cato Min]",
+      "lineNumber": 877,
+      "originalText": "Yeah, but see, and then Kara, like, just, like, walks, walks right in. But, but, but I understand, I understand…",
+      "cleanedText": "Yeah, but see, and then Cato, like, just, like, walks, walks right in. But, but, but I understand, I understand…"
+    },
+    {
+      "header": "[u0947 | 01:22:19.130-01:22:26.260 | Txarro]",
+      "lineNumber": 947,
+      "originalText": "Nobody is higher than mine. 12 for Taric, 13 for Cato, 12 for… I mean…",
+      "cleanedText": "Nobody is higher than mine. 12 for Tarek, 13 for Cato, 12 for… I mean…"
+    },
+    {
+      "header": "[u0969 | 01:24:18.300-01:24:25.559 | Edric]",
+      "lineNumber": 969,
+      "originalText": "So, Edric's not even really hesitating, he just, he just, like, pats Moss put on the head and says, go with the nice man.",
+      "cleanedText": "So, Edric's not even really hesitating, he just, he just, like, pats Moss Foot on the head and says, go with the nice man."
+    },
+    {
+      "header": "[u0971 | 01:24:34.770-01:24:36.489 | DM]",
+      "lineNumber": 971,
+      "originalText": "MOSFET definitely gives…",
+      "cleanedText": "Moss Foot definitely gives…"
+    },
+    {
+      "header": "[u0989 | 01:25:41.140-01:25:58.010 | DM]",
+      "lineNumber": 989,
+      "originalText": "above the door, and, Charo, you do too, there is a motif of, a dandelion puffball, you know, carved, embossed in the stone above the door. It's sort of coat of arms for the house, presumably.",
+      "cleanedText": "above the door, and, Txarro, you do too, there is a motif of, a dandelion puffball, you know, carved, embossed in the stone above the door. It's sort of coat of arms for the house, presumably."
+    },
+    {
+      "header": "[u1001 | 01:27:08.870-01:27:17.160 | DM]",
+      "lineNumber": 1001,
+      "originalText": "Masfoot already having been led away, look upwards, And your eyes pass over…",
+      "cleanedText": "Moss Foot already having been led away, look upwards, And your eyes pass over…"
+    },
+    {
+      "header": "[u1020 | 01:28:55.260-01:28:56.699 | Edric]",
+      "lineNumber": 1020,
+      "originalText": "Easter does not know any history.",
+      "cleanedText": "Edric does not know any history."
+    },
+    {
+      "header": "[u1025 | 01:29:31.300-01:29:36.879 | DM]",
+      "lineNumber": 1025,
+      "originalText": "seems like it has the trappings of Drancorian Empire.",
+      "cleanedText": "seems like it has the trappings of Drankorian Empire."
+    },
+    {
+      "header": "[u1031 | 01:30:10.900-01:30:19.330 | DM]",
+      "lineNumber": 1031,
+      "originalText": "I mean, it is… to you, it looks like a masterpiece of very late Drancorian architecture. Tim, is that 700 years? Am I getting that right?",
+      "cleanedText": "I mean, it is… to you, it looks like a masterpiece of very late Drankorian architecture. Tim, is that 700 years? Am I getting that right?"
+    },
+    {
+      "header": "[u1085 | 01:33:01.100-01:33:07.839 | Cato Min]",
+      "lineNumber": 1085,
+      "originalText": "I know, the Night Queen watches over us all the time, I know, I know. The Night Queen's just watching over us right now, I know, Erg, I know, I know, I know, I know. I know the Night Queen is with the…",
+      "cleanedText": "I know, the Night Queen watches over us all the time, I know, I know. The Night Queen's just watching over us right now, I know, Edric, I know, I know, I know, I know. I know the Night Queen is with the…"
+    },
+    {
+      "header": "[u1102 | 01:34:14.780-01:34:17.549 | Edric]",
+      "lineNumber": 1102,
+      "originalText": "But I'm assuming the pay would be the most interesting, given the…",
+      "cleanedText": "But I'm assuming the fey would be the most interesting, given the…"
+    },
+    {
+      "header": "[u1116 | 01:35:06.470-01:35:07.020 | DM]",
+      "lineNumber": 1116,
+      "originalText": "Derek!",
+      "cleanedText": "Tarek!"
+    },
+    {
+      "header": "[u1120 | 01:35:17.950-01:35:20.000 | Txarro]",
+      "lineNumber": 1120,
+      "originalText": "Come on, Cater, we're going through the door.",
+      "cleanedText": "Come on, Cato, we're going through the door."
+    },
+    {
+      "header": "[u1163 | 01:38:44.670-01:38:48.819 | DM]",
+      "lineNumber": 1163,
+      "originalText": "In my mind's eye, I am imagining that conversation unfolding with Iveen.",
+      "cleanedText": "In my mind's eye, I am imagining that conversation unfolding with Ayveen."
+    },
+    {
+      "header": "[u1174 | 01:39:12.670-01:39:18.710 | Edric]",
+      "lineNumber": 1174,
+      "originalText": "So Aldwin, Aldwin is not an, extraterrestrial creature of some kind.",
+      "cleanedText": "So Alden, Alden is not an, extraterrestrial creature of some kind."
+    },
+    {
+      "header": "[u1182 | 01:39:54.180-01:40:01.700 | Edric]",
+      "lineNumber": 1182,
+      "originalText": "Kato mentions, like, you know, somebody drank their blood somewhere here. He, like, takes his ball out, and is, like, looking around for a vampire.",
+      "cleanedText": "Kato mentions, like, you know, somebody drank their blood somewhere here. He, like, takes his maul out, and is, like, looking around for a vampire."
+    },
+    {
+      "header": "[u1220 | 01:43:09.830-01:43:17.739 | Cato Min]",
+      "lineNumber": 1220,
+      "originalText": "Yeah, you know, as we're walking through, and, you know, we're… Kato and, sorry, Kate, what's your character's… Avon?",
+      "cleanedText": "Yeah, you know, as we're walking through, and, you know, we're… Kato and, sorry, Kate, what's your character's… Ayveen?"
+    },
+    {
+      "header": "[u1223 | 01:43:20.500-01:43:24.980 | Cato Min]",
+      "lineNumber": 1223,
+      "originalText": "Avian, since we're kind of in the last of the pack, Kato will, like, just kind of, you know…",
+      "cleanedText": "Ayveen, since we're kind of in the last of the pack, Kato will, like, just kind of, you know…"
+    },
+    {
+      "header": "[u1238 | 01:44:34.050-01:44:38.929 | DM]",
+      "lineNumber": 1238,
+      "originalText": "Walden calls back. Come on now, we're almost there, he's just up ahead. We should come in all together.",
+      "cleanedText": "Alden calls back. Come on now, we're almost there, he's just up ahead. We should come in all together."
+    },
+    {
+      "header": "[u1239 | 01:44:40.110-01:44:40.970 | Cato Min]",
+      "lineNumber": 1239,
+      "originalText": "Aveen.",
+      "cleanedText": "Ayveen."
+    },
+    {
+      "header": "[u1255 | 01:45:31.340-01:45:32.800 | Cato Min]",
+      "lineNumber": 1255,
+      "originalText": "Kato catches up to Taric.",
+      "cleanedText": "Kato catches up to Tarek."
+    },
+    {
+      "header": "[u1258 | 01:45:41.560-01:45:58.170 | DM]",
+      "lineNumber": 1258,
+      "originalText": "is maybe, like, servants and staff quarters more than, like, living quarters for the people. You get the impression that despite the wall, this place, you know, the wall and porkless and all that good stuff, like, this wasn't designed as, like, a fortification. Like, this was not, like, a military…",
+      "cleanedText": "is maybe, like, servants and staff quarters more than, like, living quarters for the people. You get the impression that despite the wall, this place, you know, the wall and portcullis and all that good stuff, like, this wasn't designed as, like, a fortification. Like, this was not, like, a military…"
+    },
+    {
+      "header": "[u1259 | 01:45:58.170-01:46:04.330 | DM]",
+      "lineNumber": 1259,
+      "originalText": "installation or something, so much as, like, a, you know, think of, like, an English countryman or.",
+      "cleanedText": "installation or something, so much as, like, a, you know, think of, like, an English country manor or."
+    },
+    {
+      "header": "[u1288 | 01:49:24.500-01:49:32.639 | DM]",
+      "lineNumber": 1288,
+      "originalText": "And by the time the long and elaborate introductions have finished, Jinaldin continues on with your bona fides, and the feats that you've done, and the…",
+      "cleanedText": "And by the time the long and elaborate introductions have finished, Alden continues on with your bona fides, and the feats that you've done, and the…"
+    },
+    {
+      "header": "[u1312 | 01:51:16.320-01:51:20.459 | DM]",
+      "lineNumber": 1312,
+      "originalText": "Ulden… Lead us down to the kitchen, please. Let's find food for everyone.",
+      "cleanedText": "Alden… Lead us down to the kitchen, please. Let's find food for everyone."
+    },
+    {
+      "header": "[u1322 | 01:52:26.160-01:52:37.550 | DM]",
+      "lineNumber": 1322,
+      "originalText": "one corner of the room that is magical, and you can actually feel the cold coming off of it. You've probably seen in Toland some variety of an ice-chesty sort of thing like that.",
+      "cleanedText": "one corner of the room that is magical, and you can actually feel the cold coming off of it. You've probably seen in Tollen some variety of an ice-chesty sort of thing like that."
+    },
+    {
+      "header": "[u1334 | 01:53:40.790-01:53:43.859 | DM]",
+      "lineNumber": 1334,
+      "originalText": "Says Lord Hilda. I know you… you must be…",
+      "cleanedText": "Says Lord Holda. I know you… you must be…"
+    },
+    {
+      "header": "[u1339 | 01:54:09.910-01:54:20.520 | Edric]",
+      "lineNumber": 1339,
+      "originalText": "He's not a vampire. Endrick is not worried about Faye, just to be clear. He's worried about undead. That guy said something about the undead. He's, like, constantly like, wait, are there undead here?",
+      "cleanedText": "He's not a vampire. Edric is not worried about Faye, just to be clear. He's worried about undead. That guy said something about the undead. He's, like, constantly like, wait, are there undead here?"
+    },
+    {
+      "header": "[u1354 | 01:55:13.150-01:55:19.049 | Cato Min]",
+      "lineNumber": 1354,
+      "originalText": "No, no, no, no, as… no, no, because this is not our first time. As… as a… Taric… is it Taric, or…",
+      "cleanedText": "No, no, no, no, as… no, no, because this is not our first time. As… as a… Tarek… is it Tarek, or…"
+    },
+    {
+      "header": "[u1394 | 01:57:20.100-01:57:21.750 | Ayveen]",
+      "lineNumber": 1394,
+      "originalText": "Aveen taps the bar, too.",
+      "cleanedText": "Ayveen taps the bar, too."
+    },
+    {
+      "header": "[u1404 | 01:57:48.200-01:57:56.009 | DM]",
+      "lineNumber": 1404,
+      "originalText": "Kato, Cato is, like, kind of accepting his faith, alright, we're gonna, we're gonna be here, we're gonna do this thing, so he just kind of shifts gears entirely and, like, walks right up to Lord Hulda.",
+      "cleanedText": "Kato, Cato is, like, kind of accepting his fate, alright, we're gonna, we're gonna be here, we're gonna do this thing, so he just kind of shifts gears entirely and, like, walks right up to Lord Holda."
+    },
+    {
+      "header": "[u1406 | 01:58:03.160-01:58:09.480 | DM]",
+      "lineNumber": 1406,
+      "originalText": "looks around… And… and it's… and it's basically, like, Lord Hulda.",
+      "cleanedText": "looks around… And… and it's… and it's basically, like, Lord Holda."
+    },
+    {
+      "header": "[u1412 | 01:58:34.100-01:58:39.980 | DM]",
+      "lineNumber": 1412,
+      "originalText": "Before we sit down for dinner with Lord Hulda, I have to go use the bathroom, let's take a 5-minute break, and come back for dinner.",
+      "cleanedText": "Before we sit down for dinner with Lord Holda, I have to go use the bathroom, let's take a 5-minute break, and come back for dinner."
+    },
+    {
+      "header": "[u1430 | 02:00:04.390-02:00:09.430 | DM]",
+      "lineNumber": 1430,
+      "originalText": "Even more in Tolin for… Wizards and kings and…",
+      "cleanedText": "Even more in Tollen for… Wizards and kings and…"
+    },
+    {
+      "header": "[u1440 | 02:01:04.380-02:01:08.440 | DM]",
+      "lineNumber": 1440,
+      "originalText": "mountains to the north and east of Tolin, and…",
+      "cleanedText": "mountains to the north and east of Tollen, and…"
+    },
+    {
+      "header": "[u1454 | 02:02:07.050-02:02:09.110 | DM]",
+      "lineNumber": 1454,
+      "originalText": "I got back to Tolin…",
+      "cleanedText": "I got back to Tollen…"
+    },
+    {
+      "header": "[u1467 | 02:03:19.690-02:03:26.520 | DM]",
+      "lineNumber": 1467,
+      "originalText": "an elf, and here's the thing, you… you know Toland, you know there are strange characters in that city.",
+      "cleanedText": "an elf, and here's the thing, you… you know Tollen, you know there are strange characters in that city."
+    },
+    {
+      "header": "[u1505 | 02:07:08.780-02:07:10.889 | DM]",
+      "lineNumber": 1505,
+      "originalText": "And that would be the way that this Delphi.",
+      "cleanedText": "And that would be the way that this this elf."
+    },
+    {
+      "header": "[u1546 | 02:10:29.510-02:10:31.560 | DM]",
+      "lineNumber": 1546,
+      "originalText": "It's written in, yeah, it's written in Simbaran.",
+      "cleanedText": "It's written in, yeah, it's written in Sembaran."
+    },
+    {
+      "header": "[u1556 | 02:11:13.520-02:11:16.420 | Cato Min]",
+      "lineNumber": 1556,
+      "originalText": "looks at… what's his name again? Lord Holden?",
+      "cleanedText": "looks at… what's his name again? Lord Holda?"
+    },
+    {
+      "header": "[u1564 | 02:11:49.420-02:11:54.259 | Cato Min]",
+      "lineNumber": 1564,
+      "originalText": "And you kid is kind of like… I am so pumped.",
+      "cleanedText": "And you kind is kind of like… I am so pumped."
+    },
+    {
+      "header": "[u1639 | 02:16:13.710-02:16:16.440 | Cato Min]",
+      "lineNumber": 1639,
+      "originalText": "Yeah, just… Edrick.",
+      "cleanedText": "Yeah, just… Edric."
+    },
+    {
+      "header": "[u1645 | 02:16:30.930-02:16:32.209 | Edric]",
+      "lineNumber": 1645,
+      "originalText": "Charo laughed.",
+      "cleanedText": "Txarro laughed."
+    },
+    {
+      "header": "[u1654 | 02:17:19.080-02:17:22.319 | DM]",
+      "lineNumber": 1654,
+      "originalText": "In one of defense, techniques that have been extremely successful.",
+      "cleanedText": "In my defense, techniques that have been extremely successful."
+    },
+    {
+      "header": "[u1743 | 02:24:03.080-02:24:09.379 | Cato Min]",
+      "lineNumber": 1743,
+      "originalText": "Have you been hanging around? Are Edric and Aveen, like, rubbing off on you in, like, strange ways? Like, what's the…",
+      "cleanedText": "Have you been hanging around? Are Edric and Ayveen, like, rubbing off on you in, like, strange ways? Like, what's the…"
+    },
+    {
+      "header": "[u1771 | 02:25:56.240-02:25:58.780 | Ayveen]",
+      "lineNumber": 1771,
+      "originalText": "that might… and a treaty.",
+      "cleanedText": "that might… end a treaty."
+    },
+    {
+      "header": "[u1835 | 02:29:57.530-02:30:14.209 | Cato Min]",
+      "lineNumber": 1835,
+      "originalText": "Kato then laughs. Kato then laughs. And as, like, as everybody's, like, getting ready to go to bed, Kato's, like… like, Kato's, like, like, really stoked now. He's, like, whatever he was feeling before, and is, like, gonna see… we don't have to roleplay this, but Kato's basically gonna see if, if, what? Lord Hulda? Holda?",
+      "cleanedText": "Kato then laughs. Kato then laughs. And as, like, as everybody's, like, getting ready to go to bed, Kato's, like… like, Kato's, like, like, really stoked now. He's, like, whatever he was feeling before, and is, like, gonna see… we don't have to roleplay this, but Kato's basically gonna see if, if, what? Lord Holda? Holda?"
+    },
+    {
+      "header": "[u1848 | 02:30:57.370-02:31:04.560 | DM]",
+      "lineNumber": 1848,
+      "originalText": "Alright, he's out, Alda, excuse me, Alden is, nearby. If you need anything, he can show you to your rooms. What?",
+      "cleanedText": "Alright, he's out, Alden, excuse me, Alden is, nearby. If you need anything, he can show you to your rooms. What?"
+    },
+    {
+      "header": "[u1854 | 02:31:19.290-02:31:21.620 | DM]",
+      "lineNumber": 1854,
+      "originalText": "Charo, 1 out of 10, where are you? I'm a 10.",
+      "cleanedText": "Txarro, 1 out of 10, where are you? I'm a 10."
+    },
+    {
+      "header": "[u1924 | 02:35:29.600-02:35:31.219 | Ayveen]",
+      "lineNumber": 1924,
+      "originalText": "And it is treaty.",
+      "cleanedText": "And end his treaty."
+    },
+    {
+      "header": "[u1931 | 02:35:38.280-02:35:44.710 | Ayveen]",
+      "lineNumber": 1931,
+      "originalText": "be like… it keeps the flaming death monsters from coming into Toland.",
+      "cleanedText": "be like… it keeps the flaming death monsters from coming into Tollen."
+    },
+    {
+      "header": "[u1953 | 02:36:42.600-02:36:45.640 | DM]",
+      "lineNumber": 1953,
+      "originalText": "Taps a Waskconce twice, and the candle bursts into flames.",
+      "cleanedText": "Taps a wall sconces twice, and the candle bursts into flames."
+    },
+    {
+      "header": "[u1980 | 02:38:05.970-02:38:06.870 | Txarro]",
+      "lineNumber": 1980,
+      "originalText": "You can still eat less.",
+      "cleanedText": "You can still eat lunch."
+    },
+    {
+      "header": "[u2017 | 02:40:06.060-02:40:14.670 | DM]",
+      "lineNumber": 2017,
+      "originalText": "The, the faithful servant, comes to collect each of you, and Alden leaves you down.",
+      "cleanedText": "The, the faithful servant, comes to collect each of you, and Alden leads you down."
+    },
+    {
+      "header": "[u2046 | 02:42:29.460-02:42:33.340 | DM]",
+      "lineNumber": 2046,
+      "originalText": "Seller? A dirt sub-seller? A root seller?",
+      "cleanedText": "cellar? A dirt sub-cellar? A root cellar?"
+    },
+    {
+      "header": "[u2051 | 02:42:54.790-02:42:58.780 | DM]",
+      "lineNumber": 2051,
+      "originalText": "that… Lord Hulda stands next to.",
+      "cleanedText": "that… Lord Holda stands next to."
+    },
+    {
+      "header": "[u2084 | 02:44:52.080-02:44:53.199 | Txarro]",
+      "lineNumber": 2084,
+      "originalText": "We are lost.",
+      "cleanedText": "We are last."
+    },
+    {
+      "header": "[u2096 | 02:45:53.300-02:45:57.049 | DM]",
+      "lineNumber": 2096,
+      "originalText": "You're crawling through the center of an enormous route.",
+      "cleanedText": "You're crawling through the center of an enormous root."
+    },
+    {
+      "header": "[u2104 | 02:46:20.070-02:46:21.370 | Ayveen]",
+      "lineNumber": 2104,
+      "originalText": "Isolom and phloems?",
+      "cleanedText": "Xylem and phloem?"
+    },
+    {
+      "header": "[u2131 | 02:47:47.270-02:47:49.319 | DM]",
+      "lineNumber": 2131,
+      "originalText": "Perfectly contemporary sambarin.",
+      "cleanedText": "Perfectly contemporary Sembaran."
+    }
+  ]
+}
