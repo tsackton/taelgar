@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 DR: 1748-01-06
 DR_end: 1748-08-25
 name: Chronicles of the Silver Tempests Ascendant
@@ -29,11 +29,11 @@ After some discussion with the [[Deno'qai]] council, the party decides to travel
 
 ### Session 54
 
-The party sets off into the [[Blackwater Fens]], with [[Adrik]] leading the way and [[Samso]] keeping an eye out for danger. They pass an ancient stone marker, about 60’ high, marking friendship between the elves and the humans, but it has fallen on its side. Continuing into the swamp, they make camp for the night.
+The party sets off into the [[Blackwater Fens]], with [[Adrik]] leading the way and [[Samso]] keeping an eye out for danger. They pass an [[Elven Treaty Stones|ancient stone marker]], about 60’ high, marking friendship between the elves and the humans, but it has fallen on its side. Continuing into the swamp, they make camp for the night.
 
 In the middle of the night, the [[Nymthrax|dragon]], scouting its territory, finds them, and surprises the camp with a blast of its acid breath. While perched on a tree and taunting them, demanding they join its service or die, [[Adrik]] and [[Aelar]] manage to get on top of it, and are hasted by [[Izkir]]’s magic. As they beat on the dragon from above – and an attempted polymorph of [[Aelar]] into a T-rex is less successful than hoped – the dragon takes to the air, watching the spellcasters and attempting to disruption their concentration. Still, [[Adrik]] and [[Aelar]] do considerable damage before [[Samso]]’s conjured air elemental turns against the party as he falls unconscious, and [[Nymthrax]] flees, wounded.
 
-Rather than attempt to rest here, where the dragon is alerted to their presence, the party hikes overnight to the stone monument, and spends the day repairing it using the plan suggested by the [[Bahrazel|Bahrâzel]], at [[Brelith]]’s questioning with the Divination spell. With the monument restored, the party finally rests safely. 
+Rather than attempt to rest here, where the dragon is alerted to their presence, the party hikes overnight to the [[Elven Treaty Stones|stone monument]], and spends the day repairing it using the plan suggested by the [[Bahrazel|Bahrâzel]], at [[Brelith]]’s questioning with the Divination spell. With the monument restored, the party finally rests safely. 
 
 The next day is spent scrying and scouting, trying to assess the situation before heading for the lair to attack and kill the dragon. 
 
@@ -58,12 +58,12 @@ A few weeks later, they arrive back in [[Voltara]], greeting by [[Julius of Volt
 - (DR:: 1748-01-18): Head north to find out what is stealing food. 
 - (DR:: 1748-01-19): Find and attack a [[Bullywugs|bullywug]] [[~Bullywug Village~|village]]. Kill many before making peace and learning the bullywugs were driven from their home by a [[Dragons|dragon]]. Agree to kill the dragon. 
 - (DR:: 1748-01-21): Return to [[~Voltara East Border Fort~]] with news. Head north to find the dragon. 
-- (DR:: 1748-01-29): Party encounters [[Deno'qai ]]scouts at a portage on the river. Go to council, learn the Deno'qai want to kill the dragon too.
-- (DR:: 1748-02-01): Party leaves [[Deno'qai]] council with [[Izkir]], a guide and sorcerer blessed by the [[tanshi]], heading for the [[Blackwater Fens]], where the dragon lives.
+- (DR:: 1748-01-29): Party encounters [[Deno'qai]] scouts at a portage on the river. Go to council, learn the Deno'qai want to kill the dragon too.
+- (DR:: 1748-02-01): Party leaves [[Deno'qai]] council with [[Izkir]], a guide and sorcerer blessed by the [[Tanshi|tanshi]], heading for the [[Blackwater Fens]], where the dragon lives.
 - (DR:: 1748-02-09): Party arrives at [[Blackwater Fens]], camps outside to plan. 
-- (DR:: 1748-02-10): Head into [[Blackwater Fens]]. Pass a ruined stone monument marking a treaty between elves and humans. Camp. [[Nymthrax|Dragon]] attacks during the night. 
-- (DR:: 1748-02-11): Wounded and needing a place to rest, return to treaty stone and repair it during the day. Sleep. 
-- (DR:: 1748-02-12): Spend the day scrying and scouting, sleep at the treaty stone. 
+- (DR:: 1748-02-10): Head into [[Blackwater Fens]]. Pass an [[Elven Treaty Stones|ruined stone monument]] marking a treaty between elves and humans. Camp. [[Nymthrax|Dragon]] attacks during the night. 
+- (DR:: 1748-02-11): Wounded and needing a place to rest, return to the [[Elven Treaty Stones|treaty stone]] and repair it during the day. Sleep. 
+- (DR:: 1748-02-12): Spend the day scrying and scouting, sleep at the [[Elven Treaty Stones|treaty stone]]. 
 - (DR:: 1748-02-13): Travel through [[Blackwater Fens]] to approach dragon lair. 
 - (DR:: 1748-02-15): Fight bugbear minions of [[Nymthrax]], and then fight and kill [[Nymthrax]] himself. 
 - (DR:: 1748-02-18): Depart [[Nymthrax]] lair, heading back to river. 
@@ -90,7 +90,7 @@ Hearing noises from the tent at the abandoned camp, [[Samso]] lights the fabric 
 
 ### Session 59
 
-The [[Silver Tempests ]]continue down the passage, finding a campfire with the surviving Chardonians: [[Alton]], the halfling rogue from long ago, and [[Cassia]], a human paladin. They claim that some weird aberrations are living in the depths; [[Brottor|their companion]], a dwarf, was corrupted and went mad. After a rest, the party joins [[Cassia]] and [[Alton]] to explore further. 
+The [[Silver Tempests]] continue down the passage, finding a campfire with the surviving Chardonians: [[Alton]], the halfling rogue from long ago, and [[Cassia]], a human paladin. They claim that some weird aberrations are living in the depths; [[Brottor|their companion]], a dwarf, was corrupted and went mad. After a rest, the party joins [[Cassia]] and [[Alton]] to explore further. 
 
 After traveling some distance into the depths, the party finds some guards, twisted tentacled horrors watching the passageway. Between [[Samso]]’s wall of thorns and [[Brelith]]’s shatter spell, combined with the usual strength of the melee fighters, the guards die quickly. But it does not matter that the guards do not sound the alarm, as shatter alerts the base anyway. 
 
@@ -132,7 +132,7 @@ Searching the ruins, [[Samso]] finds a concealed tunnel leading underground. Fol
 
 The party learns the layout of the tunnels from the mercenaries, and begins to explore, carefully navigating around cracking parts of the tunnels that drop rocks on their heads with a misstep. After navigating through the tunnels for some time, [[Samso]] hears sobbing from a room to the south. Here, the party discovers the dead body of an adventurer, and the ghost of [[Milo Kentbrush]], who was sure he could kill the aboleth, but was ambushed by the annoying slime servants. The party finds his arrow of aberration slaying, and takes it with them. Milo follows, tied to the arrow.
 
-The party manages to quietly navigate the flooded caverns, emerging into the aboleth’s lair, where they see a psychically controlled [[Dinia]] waiting for them. She attacks, and [[Ithu’rax]] the aboleth emerges from a central pool, joining the battle. The battle is a challenge. [[Ithu’rax ]]manipulates his foes physical form, turning ligaments to jelly and lungs to gills, all of which make it difficult for the party to land a blow. [[Alton]], although set up with the arrow of aboleth slaying, misses his shot; [[Mabist]] manages to grapple the aboleth with a giant force hand, but is targeted by the aboleth’s anger and eventually knocked unconscious and dropped into the cursed waters at the center of the cave. [[Samso]] spends the combat as an earth elemental; while he does not sustain much damage, he is also repeatedly driven back and unable to land a solid blow. It is only [[Samso]]’s conjured dragon, and [[Adrik]]’s seemingly endless ability to absorb the strikes of the aboleth’s tentacles, that save the party and lead to victory. 
+The party manages to quietly navigate the flooded caverns, emerging into the aboleth’s lair, where they see a psychically controlled [[Dinia]] waiting for them. She attacks, and [[Ithu’rax]] the aboleth emerges from a central pool, joining the battle. The battle is a challenge. [[Ithu’rax]] manipulates his foes physical form, turning ligaments to jelly and lungs to gills, all of which make it difficult for the party to land a blow. [[Alton]], although set up with the arrow of aboleth slaying, misses his shot; [[Mabist]] manages to grapple the aboleth with a giant force hand, but is targeted by the aboleth’s anger and eventually knocked unconscious and dropped into the cursed waters at the center of the cave. [[Samso]] spends the combat as an earth elemental; while he does not sustain much damage, he is also repeatedly driven back and unable to land a solid blow. It is only [[Samso]]’s conjured dragon, and [[Adrik]]’s seemingly endless ability to absorb the strikes of the aboleth’s tentacles, that save the party and lead to victory. 
 
 With the aboleth killed, [[Dinia]] returns to herself, and appoints herself the caretaker of the now slowly recovering slime servants. 
 
@@ -140,5 +140,5 @@ With the aboleth killed, [[Dinia]] returns to herself, and appoints herself the 
 
 - (DR:: 1748-08-22): [[Mabist]] arrives at the [[Tempest Towers]] with news of [[Dinia]]'s capture.
 - (DR:: 1748-08-23): Arrive at [[Suwi]], meet [[~Suwi Village Priest~|village priest]], speak with [[Clara]] about the [[Havoc Host]]. 
-- (DR::1748-08-24): Travel upriver to a small lake. Fight slimy minions, find a secret passage, enter flooded caverns. In the caverns, defeat more slime minions and meet the ghost of[[ Milo Kentbrush]]. Confront [[Ithu'rax]] the aboleth, and defeat it, rescuing [[Dinia]]. 
+- (DR::1748-08-24): Travel upriver to a small lake. Fight slimy minions, find a secret passage, enter flooded caverns. In the caverns, defeat more slime minions and meet the ghost of [[Milo Kentbrush]]. Confront [[Ithu’rax]] the aboleth, and defeat it, rescuing [[Dinia]]. 
 - (DR:: 1748-08-25): Return to [[Voltara]]. 
