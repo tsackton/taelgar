@@ -9,7 +9,7 @@ name: Chronicles of the Quest for the Elemental Scrolls
 
 The first major adventure of the [[Silver Tempests]], before they acquired their wealth and fame, was in service of the [[Great Library]], hired by Archivist [[Lyra]] to recover the [[Elemental Scrolls of Airion|lost elemental scrolls]], that had been created by a famous wizard, [[Airion|Airion Mistspeaker]], before the [[Great War]], but lost during the chaos of the [[Blood Years]]. Along the way, they helped some [[Centaurs]] with a curse; helped the soul of [[Xameia]] of the [[Order of Twilight]] find peace; helped [[Iara]], a lizardfolk woman; and made enemies of the [[Orcs|orcs]] of [[Grumella's Horde]]. 
 
-We begin on the road to Chardon, as two aspiring adventurers meet...
+We begin on the road to [[Chardon]], as two aspiring adventurers meet...
 ## Adventure 0: Die Froggies Die
 
 ### Session 0

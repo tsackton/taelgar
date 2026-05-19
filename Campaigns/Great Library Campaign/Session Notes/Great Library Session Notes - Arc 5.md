@@ -43,46 +43,25 @@ Deciding for a direct attack, the next morning the party uses _Plane Shift_ to r
 
 After some brief negotiation, they convince the guards to led them to the village of [[Eshlem]]. Near the cliff, they attack in the fog. The guards fall seemingly dead relatively quickly, but are brought back to life by the sigil-tattoos on their chest, seemingly unable to die while the dreamers sleep, unless the tattoo is destroyed. After discovering the weakness of the [[Shemra Azem]], the party returns, kills the last few minion guards, and enters the fort. 
 
-Inside, they find some human prisoners, waiting to become dreamers, and [[Yeshara]]. [[Yeshara]] questions them, speaking in archaic Common, and seems unconcerned by the threat, claiming she cannot be hurt while the dreamers sleep. 
-- glance to barrow, teleport, barrow clues but no dreamers
-- minions move to surround Adrik, he attacks, unwinnable fight starts, eventually party flees aided by Adrik's jumps and Samso's giant lizard form speed
-- escape into the fog; Yeshara does not chase
+Inside, they find some human prisoners, waiting to become dreamers, and [[Yeshara]]. [[Yeshara]] questions them, speaking in archaic Common, and seems unconcerned by the threat, claiming she cannot be hurt while the dreamers sleep. During the conversation, when asked about the dreamers, she doesn't answer, but subtly glances at the barrow nearby, prompting [[Mabist]] and [[Blue]] to teleport there. Meanwhile, [[Adrik]] attacks the guards as they move to surround him. 
 
-#### Eshlem and the Stillings
+While [[Mabist]] and [[Blue]] explore the barrow, finding no dreamers, [[Adrik]] fights the guards. Though he kills several of [[Yeshara]]'s guards, he is brought down by her _Hypnotic Pattern_ spell. In the barrow, [[Mabist]] and [[Blue]] find the words "Let no dawn enter. Let no roof break. Let the sleepers lie still and keep the Queen awake." These are written in many, many languages around the edge of the barrow. But with no other clues, they teleport away, fleeing. Meanwhile, [[Samso]]'s summoned dragon manages to wake [[Adrik]], as [[Samso]] and [[Adrik]] flee into the fog. [[Yeshara]] does not give chase.
 
-- The party follows the road to [[Eshlem]] and meets several villagers.
-- They speak with [[Joram of Eshlem]], an old war veteran who speaks Goblin, and learn of the Stillings where sleep is kept contained.
-- They return to [[Sarren Kir]], with wolves hunting them.
+The party regroups on the road, and follows it to [[Eshlem]], arriving as dusk is falling. The village is preparing a bonfire and a party to keep everyone awake through the night; many villagers appear terrified of the idea of falling asleep. [[Blue]] finds an old veteran, [[Joram of Eshlem]], who speaks Goblin, though apparently from fighting in some ancient war from before even the [[Drankorian Empire]]. From Joram, the party learns about the [[Wolf Queen's Stillings]]: long barrows where sleepers are trapped, guarded by the [[Shemra Azem]] who keep the people of [[Cairn Dor]] safe from the contamination of sleep. After some convincing lies, he tells them the stillings are nestled around the bottom of the hill upon which the palace, [[Sarren Kir]], sits. 
 
-#### Old Barrows and Enderra
+The party leaves the village as the sound of wolves echo from the countryside: [[Yeshara]]'s minions are after them. With [[Samso]]'s wild shape and summoned dragon, they take to the air and fly in search of barrows. Circling right around the base of the hilltop that holds [[Sarren Kir]], they find three unguarded barrows. Exploring, these appear to be old barrows full of dead dwarf dreamers from the [[War of the Dark Rift]]. Many of the dead dwarves, though, rise as undead and attack. During the battle, [[Adrik]] explores and discovers a portal leading back to the [[Material Plane]], emerging somewhere in [[Enderra]] and guarded by a dwarvish iron golem. After the undead are defeated quickly, thanks in large part to a pair of _Fireballs_ cast by [[Blue]], and with the wolves closing in, the party continues to search. 
 
-- The party finds old barrows containing dead dwarf dreamers from the [[War of the Dark Rift]].
-- They defeat undead in the old barrows.
-- [[Adrik]] finds a portal to [[Enderra]], and an iron golem
+Soon after, they find the lizardfolk dreamers, guarded by [[Shemra Azem]]. A fight breaks out. The [[Silver Tempests]] quickly realize that the _Daylight_ spell, cast via their [[Dwarven Driftglobe]], wakes the dreamers. When the dreamers wake, any [[Shemra Azem]] connected to them falls dead. The fight then becomes a race to wake dreamers as fast as possible, while keeping the [[Shemra Azem]] occupied. 
 
-#### Lizardfolk Dreamers
+As the last dreamers wake and the last of the [[Shemra Azem]] falls, the wolves go silent, and all that is left is the wolf queen herself, [[Yeshara]]. The battle is fierce: the opening wave of terror from [[Yeshara]] kills [[Samso]]'s summoned dragon immediately. But [[Adrik]]'s axe and [[Mabist]]'s blade bite hard, and Adrik proves difficult to bring down even by the fiercest counterattacks, although [[Yeshara]] mostly shrugs off [[Blue]]'s spells and [[Samso]]'s attacks as an earth elemental. [[Yeshara]] locks [[Mabist]] in place with her lidless gaze, but [[Adrik]] is able to push her into his range, for a devastating smite attack. [[Blue]] retreats, and in the end is the only one who escapes [[Yeshara]]'s final barrow-summoning attack, allowing him to bring her down with a _Chromatic Orb_.
 
-- The party finds the lizardfolk dreamers.
-- They fight [[Shemra Azem]] guards.
-- They bring _Daylight_ to the barrows, awakening sleepers and destroying [[Shemra Azem]].
+As [[Yeshara]] falls, [[Blue]], [[Adrik]], and [[Mabist]] fall into sleep, along with the lizardfolk dreamers and the inhabitants of [[Cairn Dor]]. [[Samso]], transformed into an Earth Elemental, is unaffected by sleep, and realizes that months and years seem to be passing while his companions sleep. He wanders the realm for years, before eventually deciding to sleep with his companions.
 
-#### Yeshara's Fall
+After some time, [[Blue]], [[Adrik]], [[Mabist]], [[Samso]], and the lizardfolk dreamers awake in [[Cairn Dor]]; the native inhabitants, including [[Yeshara]], still slumber, but the realm emerges from its stasis. The [[Silver Tempests]] escort the lizardfolk dreamers, and human would-be dreamers, away from [[Cairn Dor]] via the [[Enderra]] portal. 
 
-- The party fights and defeats [[Yeshara]].
-- As [[Yeshara]] falls, [[Blue]], [[Adrik]], and [[Mabist]] fall into sleep, along with the lizardfolk dreamers and the inhabitants of [[Cairn Dor]].
-- [[Samso]], transformed into an Earth Elemental, is unaffected by sleep and wanders the realm for years, eventually deciding to sleep with his companions.
+While escorting the surviving lizardfolk, including much of [[Samso]]'s family, to [[Urkabi]], they learn of the chaos in [[Voltara]], and the splitting of the [[Northern Provinces]] from the [[Chardonian Empire]]. [[Brelith]] has been keeping [[Samso]] informed via _Sending_, and is now in hiding with [[Dinia]]. An attempt to _Transport Via Plants_ to [[Tempest Towers]] fails, suggesting the tree that once adorned the courtyard has been felled. 
 
-#### Awakening and Return
-
-- [[Blue]], [[Adrik]], [[Mabist]], [[Samso]], and the lizardfolk dreamers awake in [[Cairn Dor]]; the native inhabitants still slumber.
-- The party leaves [[Cairn Dor]] via the [[Enderra]] portal.
-- They learn of chaos in [[Voltara]] and the splitting of the [[Northern Provinces]] from the [[Chardonian Empire]].
-- They attempt to _Transport Via Plants_ to [[Tempest Towers]], but fail.
-- The party arrives in [[Urkabi]] with the lizardfolk rescued from [[Cairn Dor]].
-- [[Samso]] parts ways with his family and kin.
-- [[Adrik]], [[Samso]], [[Mabist]], and [[Blue]] _Transport Via Plants_ to an orchard outside [[Voltara]].
-
-
+The next morning, the party arrives in [[Urkabi]] with the lizardfolk rescued from [[Cairn Dor]]. [[Samso]] parts ways with his family and kin; [[Adrik]], [[Samso]], [[Mabist]], and [[Blue]] _Transport Via Plants_ to an orchard outside [[Voltara]] to face whatever is next, amidst reports that [[Airion’s Floating Tower]] has returned to the [[Erbalta Plains]]. 
 
 ### Events
 
