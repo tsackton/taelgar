@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 DR: 1747-02-16
 DR_end: 1747-07-28
 name: Chronicles of the Quest for the Elemental Scrolls
@@ -25,7 +25,7 @@ Our adventure starts on the road: [[Brelith]], [[Adrik]] , [[Samso]], and [[Alto
 
 In [[Lyra]]’s camp, the party learns their mission: search for the [[Elemental Scrolls of Airion|scrolls of elemental power]]. The location of the [[Flamekeeper Scroll]] and the [[Stonemaster Scroll]] are known, while the location of the [[Skyborn Scroll]] and the [[Deepwater Scroll]] are not. 
 
-Our heroes decide to head to the Forge of Fire, a part of an [[Goldpeak Mines|ancient Dwarven mine complex]] that once extended through much of the [[Fiatara Mountains]], where the [[Flamekeeper Scroll ]]is thought to be. They find it is now a kobold shrine to the “fire god”, which is a rune protecting the Flamekeeper Scroll. After killing some [[Kobolds]] and convincing others they are the fire god made flesh, they get the scroll, and leave, but not before triggering a magma eruption which destroys forge and probably all the [[Kobolds]]. 
+Our heroes decide to head to the [[Goldpeak Mines|Forge of Fire]], a part of an [[Goldpeak Mines|ancient Dwarven mine complex]] that once extended through much of the [[Fiatara Mountains]], where the [[Flamekeeper Scroll]] is thought to be. They find it is now a kobold shrine to the “fire god”, which is a rune protecting the [[Flamekeeper Scroll]]. After killing some [[Kobolds]] and convincing others they are the fire god made flesh, they get the scroll, and leave, but not before triggering a magma eruption which destroys forge and probably all the [[Kobolds]]. 
 #### Events
 
 - (DR:: 1747-04-04): [[Samso]], [[Brelith]], [[Adrik]], and [[Alton]] are attacked by [[Goblins]] on the road to [[Voltara]], and then meet Archivist [[Lyra]] at her camp. 
@@ -64,14 +64,14 @@ In the abbey, the party encounters ghouls and zombies, and the talkative ghost o
 ## Adventure 5: The Dwarven Forge
 ### Session 5
 
-[[Adrik]], [[Samso]], [[Aglath]], [[Aelar]], and [[Brelith]], hanging out at [[The Purple Pig]], fend off a dire wolf attack on town. [[Brelith]] learns in town this may be connected to the dwarven ruins under [[Goldpeak Mountain]], part of the same complex of [[Goldpeak Mines|extensive dwarven ruins]] as the Forge of Fire. After a brief and rather unsuccessful meeting with traveling merchant and caravan master, [[Quintus Percomia]] who has need of adventurers to help a group of [[Centaurs]] to the south, the party decides to explore the dwarven ruins and the source of the dire wolf attacks. Finding the entrance to the mine, the party fights off death dogs, ankhegs, and a chuul before deciding to retreat to safety and rest before exploring further. 
+[[Adrik]], [[Samso]], [[Aglath]], [[Aelar]], and [[Brelith]], hanging out at [[The Purple Pig]], fend off a dire wolf attack on town. [[Brelith]] learns in town this may be connected to the dwarven ruins under [[Goldpeak Mountain]], part of the same complex of [[Goldpeak Mines|extensive dwarven ruins]] as the [[Goldpeak Mines|Forge of Fire]]. After a brief and rather unsuccessful meeting with traveling merchant and caravan master, [[Quintus Percomia]] who has need of adventurers to help a group of [[Centaurs]] to the south, the party decides to explore the dwarven ruins and the source of the dire wolf attacks. Finding the entrance to the mine, the party fights off death dogs, ankhegs, and a chuul before deciding to retreat to safety and rest before exploring further. 
 ### Session 6
 
-While [[Brelith]] and [[Aglath]] return to town, [[Samso]], [[Adrik]], and [[Aelar]] head back to the mine to explore. At the entrance to the mine, they meet [[Oskar]], a Dwarven Ranger, and [[Stoneclaw]], his hyena companion. Continuing into the mines, they defeat a carrion crawler, subdue a giant subterranean lizard, manage to disable the haunted statue that is stirring up the local monster population, and find some Dwarven treasure ([[Thunderbrand]] and [[Coldguard]]). On the way back, some exploration turns up a small amount of [[mithril]], which [[Aelar]] keeps. 
+While [[Brelith]] and [[Aglath]] return to town, [[Samso]], [[Adrik]], and [[Aelar]] head back to the mine to explore. At the entrance to the mine, they meet [[Oskar]], a Dwarven Ranger, and [[Stoneclaw]], his hyena companion. Continuing into the mines, they defeat a carrion crawler, subdue a giant subterranean lizard, manage to disable the haunted statue that is stirring up the local monster population, and find some Dwarven treasure ([[Thunderbrand]] and [[Coldguard]]). On the way back, some exploration turns up a small amount of [[Mithril|mithril]], which [[Aelar]] keeps. 
 ### Events
 
 - (DR:: 1747-05-29): Wolves driven mad by some magic attack [[Voltara]], and are defeated by [[Adrik]], [[Samso]], [[Aglath]], and [[Brelith]]. 
-- (DR:: 1747-05-30): [[Adrik]], [[Samso]], [[Aglath]], [[Aelar]], and [[Brelith]] meet [[Quintus Percomia]], a caravan master and [[chalyte]] trader. They learn about some [[Centaurs]] to the south in trouble, but decide to head west to find the source of the wolf attacks. 
+- (DR:: 1747-05-30): [[Adrik]], [[Samso]], [[Aglath]], [[Aelar]], and [[Brelith]] meet [[Quintus Percomia]], a caravan master and [[Chalyte|chalyte]] trader. They learn about some [[Centaurs]] to the south in trouble, but decide to head west to find the source of the wolf attacks. 
 - (DR:: 1747-06-01): [[Adrik]], [[Samso]], [[Aglath]], [[Aelar]], and [[Brelith]] arrive at the entrance to the [[Deeprivers|Deepriver Clan]] mine under [[Goldpeak Mountain]], in the [[Fiatara Mountains]]. They enter, fight some battles, and retreat. 
 - (DR:: 1747-06-02): [[Brelith]] and [[Aglath]] return to town. [[Samso]], [[Adrik]], and [[Aelar]] head back to the mine, where they meet [[Oskar]] and clear the mine of the magic that was causing trouble. 
 - (DR:: 1747-06-04): [[Samso]], [[Adrik]], and [[Aelar]] return to [[Voltara]]. 
@@ -88,7 +88,7 @@ Back in town, [[Adrik]], [[Samso]], [[Aglath]], and [[Brelith]], joined by [[Sco
 ## Adventure 7: Orcs at the Lonely Watchtower
 ### Session 8
 
-Returning from the centaur camp, [[Adrik]], [[Samso]], [[Brelith]], and [[Aglath]] are attacked on the road by bandits, where they are joined by [[Oskar]]. The bandits are desperate for treasure to pay off demands of tribute from orc raiders, but quickly surrender when it is clear they are overmatched. After gathering some information, the party heads to the[[ Lonely Watchtower]], the raiding base of this [[Grumella's Horde|group of orcs]]. There, the party makes their way through the tangleweed around the tower, defeats the orc guards, and ultimately kill [[Raluhk|Raluhk the Orog]] the leader of this raiding band. Exploring the rest of the outpost, they rescue [[Ralvaz]], a mine captain working north of [[Voltara]] who reports orc raids on numerous caravans bringing treasure from the mines to [[Voltara]]. The party then returns to [[Voltara]] with this news.
+Returning from the centaur camp, [[Adrik]], [[Samso]], [[Brelith]], and [[Aglath]] are attacked on the road by bandits, where they are joined by [[Oskar]]. The bandits are desperate for treasure to pay off demands of tribute from orc raiders, but quickly surrender when it is clear they are overmatched. After gathering some information, the party heads to the [[Lonely Watchtower]], the raiding base of this [[Grumella's Horde|group of orcs]]. There, the party makes their way through the tangleweed around the tower, defeats the orc guards, and ultimately kill [[Raluhk|Raluhk the Orog]] the leader of this raiding band. Exploring the rest of the outpost, they rescue [[Ralvaz]], a mine captain working north of [[Voltara]] who reports orc raids on numerous caravans bringing treasure from the mines to [[Voltara]]. The party then returns to [[Voltara]] with this news.
 ### Events
 
 - (DR:: 1747-06-10): On the road back to [[Voltara]], [[Adrik]], [[Samso]], [[Brelith]], and [[Aglath]] are attacked by bandits, and are joined by [[Oskar]]. Subdue the bandits, and learn they need money to pay off [[Orcs]] raiding from the [[Lonely Watchtower]]. 
@@ -98,7 +98,7 @@ Returning from the centaur camp, [[Adrik]], [[Samso]], [[Brelith]], and [[Aglath
 ## Adventure 8: Iara’s Plea
 ### Session 9
 
-After returning to [[Voltara]] from the orc camp in a ruined watchtower, [[Samso]] is approached by a troubled [[Lizardfolk]] woman named [[Iara]] who is looking for help after the people of her village to the west mysteriously disappeared. Joining with [[Brelith]], [[Aelar]], and [[Adrik]], the group heads to investigate. Traveling west, they find an empty lizardfolk village, and are attacked by shadowy creatures that look like evil echos of lizardfolk. They find the lair of these shadow creatures, where [[Aelar]] surprises and kills two guards with poisoned darts. In the lair, they confront and kill the leader of these shadow creatures.
+After returning to [[Voltara]] from the orc camp in a ruined watchtower, [[Samso]] is approached by a troubled [[Lizardfolk]] woman named [[Iara]] who is looking for help after the people of her village to the west [[Lizardfolk Village Disappearances|mysteriously disappeared]]. Joining with [[Brelith]], [[Aelar]], and [[Adrik]], the group heads to investigate. Traveling west, they find an empty lizardfolk village, and are attacked by shadowy creatures that look like evil echos of lizardfolk. They find the lair of these shadow creatures, where [[Aelar]] surprises and kills two guards with poisoned darts. In the lair, they confront and kill the leader of these shadow creatures.
 
 ### Session 10
 
@@ -129,7 +129,7 @@ Back in [[Voltara]],  [[Brelith]], [[Aelar]], [[Adrik]], and [[Samso]] attempt 
 
 ### Session 15
 
-Continuing to defend the temple, in the middle of the night the remnants of the xvart tribe, allies and servants of the demons, attack from the hidden entrance to the crypt. After they are defeated, as dawn approaches and the spell is nearly complete, a large, four-armed, clawed demon, a glabrezu, steps from the portal and heads for Galius. The party is able to defeat it, however, and the spell is complete. As the portal closes, and the curse is lifted from the temple, [[Xameia]] can finally rest. In thanks for their efforts, an avatar of [[The Night Queen ]]herself appears, and offers each member of the party a boon. 
+Continuing to defend the temple, in the middle of the night the remnants of the xvart tribe, allies and servants of the demons, attack from the hidden entrance to the crypt. After they are defeated, as dawn approaches and the spell is nearly complete, a large, four-armed, clawed demon, a glabrezu, steps from the portal and heads for Galius. The party is able to defeat it, however, and the spell is complete. As the portal closes, and the curse is lifted from the temple, [[Xameia]] can finally rest. In thanks for their efforts, an avatar of [[The Night Queen]] herself appears, and offers each member of the party a boon. 
 
 ### Events
 
@@ -165,7 +165,7 @@ The party decides to move on quickly, after only a brief rest, trying to put som
 
 ### Session 19
 
-After bargaining with the giant eagle, [[Oskar]] and [[Stoneclaw]] return to the plains, while [[Aelar]], [[Aglath]], [[Brelith]], [[Adrik]], and [[Samso]] travel along the Dwarven road towards[[ Blacksilver Peak]]. On the way, they defeat a hunting party of basilisks. They find the entrance to an [[Goldpeak Mines|old Dwarven complex]], which now seems to be inhabited by some other kind of beast or creature based on the piles of cast of bits of armor and clothes from dead victims in the entryway. 
+After bargaining with the giant eagle, [[Oskar]] and [[Stoneclaw]] return to the plains, while [[Aelar]], [[Aglath]], [[Brelith]], [[Adrik]], and [[Samso]] travel along the Dwarven road towards [[Blacksilver Peak]]. On the way, they defeat a hunting party of basilisks. They find the entrance to an [[Goldpeak Mines|old Dwarven complex]], which now seems to be inhabited by some other kind of beast or creature based on the piles of cast of bits of armor and clothes from dead victims in the entryway. 
 
 ### Session 20
 
@@ -189,7 +189,7 @@ The party crosses the ice bridge, and encounters the guardians of [[Airion’s F
 
 ### Session 25
 
-The party begins to explore [[Airion’s Floating Tower|the tower]], passing through the grand illusion of the sky in the entrance room, and defeating a pair of animated suits of plate armor guarding the library. In the library they find some clues and treasure, and then proceed up, to the ruins of an alchemical laboratory. Here, they meet [[Mehrangeesa]] of [[Sulmana]], a djinni trapped here with enchanted manacles. Mehrangeesa tells them some of the history of [[Airion]], how different factions on the [[Elemental Plane of Air]] saw him as relatively harmless or a great evil to be destroyed, and told them of [[Zadkai]], a warlock devoted to a great power on the Elemental Plane of Air who wanted to see all humans who would interfere with the Plane of Air destroyed. After being freed, he tells them he will be listening if they find a way to get in touch, gifts [[Aelar]] with the power of whirlwind punches, and disappears.
+The party begins to explore [[Airion’s Floating Tower|the tower]], passing through the grand illusion of the sky in the entrance room, and defeating a pair of animated suits of plate armor guarding the library. In the library they find some clues and treasure, and then proceed up, to the ruins of an alchemical laboratory. Here, they meet [[Mehrangeesa]] of [[Sulmana]], a djinni trapped here with enchanted manacles. Mehrangeesa tells them some of the history of [[Airion]], how different factions on the [[Elemental Plane of Air]] saw him as relatively harmless or a great evil to be destroyed, and told them of [[Zadkai]], a warlock devoted to a great power on the [[Elemental Plane of Air|Plane of Air]] who wanted to see all humans who would interfere with the [[Elemental Plane of Air|Plane of Air]] destroyed. After being freed, he tells them he will be listening if they find a way to get in touch, gifts [[Aelar]] with the power of whirlwind punches, and disappears.
 
 ### Session 26
 

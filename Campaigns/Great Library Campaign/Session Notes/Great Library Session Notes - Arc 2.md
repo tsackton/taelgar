@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 DR: 1747-09-15
 DR_end: 1747-10-06
 name: Chronicles of the War Against Grumella
@@ -11,7 +11,7 @@ With the recovery of all four of the [[Elemental Scrolls of Airion]], the party 
 ## Adventure 12: Prepare for War!
 ### Session 30
 
-With the [[Great Library Session Notes - Arc 1|Quest for the Elemental Scrolls]] complete, the group takes some time to enjoy the fruits of their labor in [[Voltara]]. Aglath and Adrick head to the pit fighting rings: outside the walled city, they dominate, but inside it, they face the fiercest competition they’ve seen. [[Aelar]] goes to find poisons for his ever growing collection, buying serpent poison and crawler mucus on the Black Market, and acquiring wyvern venom from the local alchemist.  [[Samso]] goes to the lizardfolk village for lilypad cakes and clues. He then returns to study in the library and concludes that his family’s disappearance and the shadow lizards are connected to the Shadowfell. [[Brelith]] scribes spell scrolls and receives a kind letter from his proud noble parents. As they meet up again at their new lodgings in [[The Wandering Toad]], the Proconsul of Voltara, [[Anton Lavernia]] reveals that [[Grumella]] is threatening to destroy [[Voltara]] if they don’t turn in the adventurers. After much beard stroking and wise ribbits, they refuse and prepare for siege. [[Brelith]] sends messages to his mom, who agrees to send a small dwarven military force, [[Mehrangeesa]] the [[Djinn]], who refuses to fight but agrees to send help in another way when they call on him, and the [[Silverstorm|roc]] who agrees to help if they do him a favor, and they decide to help him soon. They then leave to recruit the centaurs, and begin to march across the [[Erbalta Plains]].
+With the [[Great Library Session Notes - Arc 1|Quest for the Elemental Scrolls]] complete, the group takes some time to enjoy the fruits of their labor in [[Voltara]]. [[Aglath]] and [[Adrik]] head to the pit fighting rings: outside the walled city, they dominate, but inside it, they face the fiercest competition they’ve seen. [[Aelar]] goes to find poisons for his ever growing collection, buying serpent poison and crawler mucus on the Black Market, and acquiring wyvern venom from the local alchemist.  [[Samso]] goes to the lizardfolk village for lilypad cakes and clues. He then returns to study in the library and concludes that his family’s disappearance and the shadow lizards are connected to the [[Shadowfolds]]. [[Brelith]] scribes spell scrolls and receives a kind letter from his proud noble parents. As they meet up again at their new lodgings in [[The Wandering Toad]], the Proconsul of Voltara, [[Anton Lavernia]] reveals that [[Grumella]] is threatening to destroy [[Voltara]] if they don’t turn in the adventurers. After much beard stroking and wise ribbits, they refuse and prepare for siege. [[Brelith]] sends messages to his mom, who agrees to send a small dwarven military force, [[Mehrangeesa]] the [[Djinn]], who refuses to fight but agrees to send help in another way when they call on him, and the [[Silverstorm|roc]] who agrees to help if they do him a favor, and they decide to help him soon. They then leave to recruit the centaurs, and begin to march across the [[Erbalta Plains]].
 
 ### Session 31
 
@@ -66,4 +66,4 @@ After the battle, the party celebrates in [[Voltara]], and is promised rewards a
 - (DR:: 1747-09-30): Party buffs [[Aelar]] to scout the [[Orcs|orc]] war camp. 
 - (DR:: 1747-10-01): Party returns to [[Voltara]] with information and prepares for war. 
 - (DR:: 1747-10-03): Dwarven and centaur troops arrive in [[Voltara]]. The reinforcements from the [[Chardonian Legion|imperial legions]] are still weeks away. 
-- (DR:: 1747-10-06): The [[Battle of Voltara]], also know as the Battle of Lightning's Wrath. [[Adrik]], [[Aelar]], [[Aglath]], [[Samso]], and [[Brelith]] gather allies, defend the city from hill giants trying to breach the gates, and finally kill [[Grumella]]. 
+- (DR:: 1747-10-06): The [[Battle of Voltara]], also know as the [[Battle of Voltara|Battle of Lightning's Wrath]]. [[Adrik]], [[Aelar]], [[Aglath]], [[Samso]], and [[Brelith]] gather allies, defend the city from hill giants trying to breach the gates, and finally kill [[Grumella]]. 
