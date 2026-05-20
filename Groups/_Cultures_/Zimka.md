@@ -2,14 +2,11 @@
 headerVersion: 2023.11.25
 tags: [ancestry, status/stub, status/check/ai]
 name: Zimka
-whereabouts: Zimkova
+partOf: Northerner
 dm_owner: mike
 dm_notes: important
 ---
-
 # Zimka
->[!info]+ Information  
-> A culture of the northern highlands of [[Greater Sembara]], centered in [[Zimkova]]
 
 The Zimka are a highland people of the foothills of the [[Sentinel Range|Sentinels]], whose homeland is [[Zimkova]]. In the tales of their villages, the Zimka came to this land long ago in a migration across the mountains; and in the bogs and lakes of the upper [[Volta]] they found the spirits they call the [[Kestavo|kestavo]].
 
@@ -20,7 +17,7 @@ In the modern day, “Zimka” is often used as a single name for two closely re
 - the [[~Old Zimka~]], a more isolated highland tradition that preserves the oldest ways and the language of [[Languages#~Old Zimkovan~|Old Zimkovan]]
 - a broader lowland culture shaped by long contact with river traders and, later, with the expansion of [[Drankor]] and [[Sembara]]; in some places this strand follows [[Mos Numena]] as readily as the kestavo
 
-In the river valleys around the [[Western Gulf]], old stories also remember the Zimka as one of the cultures that emerged from the mingling of the westward-moving [[~Mariners~]] and the older [[~Northerner~]] migrants in the years before [[The Downfall]].
+In the river valleys around the [[Western Gulf]], old stories also remember the Zimka as one of the cultures that emerged from the mingling of the westward-moving [[~Mariners~]] and the older [[Northerners]] migrants in the years before [[The Downfall]].
 
 ## Language
 

@@ -136,7 +136,7 @@ Amidst the cultural, religious, and social upheavals spiraling from contact with
 
 %% exact dates are not yet canonical - this is also the period where the events of the Sarqon and the Chainshroud presumably happen (e.g. between 2600-2800) %%
 
-At the beginning of this period, around 2500, the first humans leave Hkar (the [[~Northerners~]], in later parlance). The reasons for this are undefined and unclear, but:
+At the beginning of this period, around 2500, the first humans leave Hkar (the [[Northerners]], in later parlance). The reasons for this are undefined and unclear, but:
 * These migrants are not explorers or colonists, but settlers. That is, they do not have a lot of contact back with Hkar %%although some exceptions might exist%%
 * They land first on the western coast - perhaps [[Apporia]] or [[Illoria]], but perhaps as far north as the [[Coastlands]] - and spread north on the western side of the [[Sentinel Range|Sentinels]], before crossing the mountains in the far north and spreading east. They bring with them a variety of [[Northern Folk Religions]], all derived from the common religious practices.
 * This first wave of migrants peaks around 2800, and declines quickly after that. 
@@ -175,7 +175,7 @@ _4000 - 4133 by the Dwarven Count of Years_
 
 * Vast non-human civilizations that dominate the land (the area inside the green borders), although the specific details of where, i.e. the elven forest vs the lizardfolk swamp vs the dwarven mountain kingdoms is not canonical
 * A arcane human civilization on [[Hkar]] worshipping [[Mos Numena]] (not pictured, to the south and west)
-* Scattered humans along the west coast and far north, mostly isolated from Hkar and following [[Northern Folk Religions]]. These are the ancestors of the [[Zimka]], [[Deno'qai]], [[Vargaldi]] and other similar [[~Northerner~|northerners]] but whether i.e. Deno'qai culture exists in a recognizable form is not clear. The general area is marked with brown arrows, but expansion could have started farther south and continued in the same logical patterns. The only canonical part is that these northerners have not penetrated into the Green Sea outside of the [[Western Gulf]]
+* Scattered humans along the west coast and far north, mostly isolated from Hkar and following [[Northern Folk Religions]]. These are the ancestors of the [[Zimka]], [[Deno'qai]], [[Vargaldi]] and other similar [[Northerners|northerners]] but whether i.e. Deno'qai culture exists in a recognizable form is not clear. The general area is marked with brown arrows, but expansion could have started farther south and continued in the same logical patterns. The only canonical part is that these northerners have not penetrated into the Green Sea outside of the [[Western Gulf]]
 * An undefined set of human cultures along the [[Eastern Green Sea]], dominated by the mariner culture (known clusters in blue circles, unknown as blue question marks - some of the unknown cultures could have other influences, i.e. from unique migrations or the canonically undefined Southerns, but the northerners would not have reached the Eastern Green Sea by the Downfall)
 * A handful of unique cultures, already canonically established: the Skaer, in the Western Green Sea; the Zimka, in the Sembaran highlands, the Tyrwinghans, in Tyrwingha, and the Dunmari, somewhere to the east (marked with an S, Z, T, and D). The Dunmari do not have a canonical location other than "east of the non-human circle"
 * A melting pot in the Western Gulf and Sembaran lowlands, where the Skaer, other strands of mariner cultures, and the Zimka are blending and forming a new Tollish culture
@@ -234,7 +234,7 @@ Outside of the Drankorian lands:
 * the [[Skaer]] empire is flourishing in the [[Western Green Sea]], controlling [[Tollen]], much of [[Cymea]], the shores of [[Vostok]], the [[Skaerhem|Skaer Islands]], and at least some of the Sembaran coast
 * further east in the Green Sea events are unclear, but there should be no major powers pushing west to compete with the [[Skaer]] for dominance of the [[Western Gulf]]
 * [[Tyrwingha]] is already under the protection of [[Archfey Ethlenn]], and sees itself as a unique culture, perhaps across a shared region with [[Addermarch]], although details that would implicate Ethlenn's bargain with Tyrwingha should be invented carefully
-* the [[~Northerner~]] cultures are continuing to spread; specific details outside of the Sembaran mixing pot are not clear, however these cultures should not have encountered Drankor yet
+* the [[Northerners]] cultures are continuing to spread; specific details outside of the Sembaran mixing pot are not clear, however these cultures should not have encountered Drankor yet
 * the [[Dunmar|Dunmari]] are somewhere east of Drankor, well outside the zone of settlement
 
 %% There is no clear story for when [[Cymea]] and [[~South Cymea~]] are settled by Drankorians -- see [[Historical Framework - Open Questions#Drankorian Expansion]] %%

@@ -59,7 +59,7 @@ Fundamentally, though, we really are capturing three or maybe four different thi
 
 (2) Families/lineages. These are things like halfling families, dwarven clans, royal dynasties, or just prominent families like the [[Auratan Family]] or the [[de Brunes]] or the [[Garay Family]]. 
 
-(3) Cultures. We have some pages for kind of cultural groups that don't have a clear realm page as a stand-in. Zimka, ~Northerner~, Vargaldi all fit here; some realm pages (e.g. Dunmar) kind of mix culture, politics, history, and geography into a single page that doubles as the cultural group. 
+(3) Cultures. We have some pages for kind of cultural groups that don't have a clear realm page as a stand-in. Zimka, Northerner, Vargaldi all fit here; some realm pages (e.g. Dunmar) kind of mix culture, politics, history, and geography into a single page that doubles as the cultural group. 
 
 (4) Realms. Some pages are really more "realm" pages, like [[Shattered Ice Clan]] or maybe [[People of the Rainbow]]. 
 

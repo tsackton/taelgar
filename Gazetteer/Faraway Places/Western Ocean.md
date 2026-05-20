@@ -36,7 +36,7 @@ Little is known of the history of the oceans, although halfling songs speak of t
 
 *Canonical Development and Constraints:* There are no canonical facts about this region except that [[Merfolk]] are known to live here; an ancient and important merfolk city, [[Omi]], is in this region. 
 
-*Brainstorming and Potential Canon:* It is expected that whatever development occurs around the [[~Sayuna Islands~]] will be based on an early [[~Northerner~]] migration from Hkar, but this is not canonical. Potentially the [[~Sayuna Islands~]] do not even exist.
+*Brainstorming and Potential Canon:* It is expected that whatever development occurs around the [[~Sayuna Islands~]] will be based on an early [[Northerners]] migration from Hkar, but this is not canonical. Potentially the [[~Sayuna Islands~]] do not even exist.
 
 *Needs Development:*  None.
 

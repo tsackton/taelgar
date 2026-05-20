@@ -11,7 +11,7 @@ All human cultures originated with migrations from Hkar, in either one of the fo
 ### Major Migrations
 See [[Historical Framework#Migrations and Emigration]] for dates.
 
-1. The **Northern Migrations**. These are small gods/intercessory religions that left Hkar before the development of an urban civilization using significant arcane magic. These migrants settled first on the west coast (although without a defined specific location) and spread along the west coast before crossing the [[Sentinel Range|Sentinels]] in the far north and spreading east. Northerner cultures should generally not have a pantheonic religion, and arcane magic should be comparatively rare amongst them. These migrants -- for undetermined reasons -- have minimal contact with [[Hkar]] after their departure. 
+1. The **Northern Migrations**. These are small gods/intercessory religions that left Hkar before the development of an urban civilization using significant arcane magic. These migrants settled first on the west coast (although without a defined specific location) and spread along the west coast before crossing the [[Sentinel Range|Sentinels]] in the far north and spreading east. [[Northerners|Northerner]] cultures should generally not have a pantheonic religion, and arcane magic should be comparatively rare amongst them. These migrants -- for undetermined reasons -- have minimal contact with [[Hkar]] after their departure. 
 2. The **Southern Migrations**. These occur after the beginning of the development of pantheonic religion on Hkar, but otherwise, nothing is known about this migration. It could be one, or several, different pantheonic cultures, and it could have had significant contact with Hkar, or none. 
 3. The **Mariner Migration**. This is a unified migration worshipping a pantheon of gods (but that is not [[Mos Numena]]) which sails west (or south) from [[Hkar]] and settles in the [[Eastern Green Sea]] before spreading back west towards [[Greater Sembara]]. This migration may have been in opposition to the increasing urbanization of Hkar, but the exact reasons for this migration are not clear. 
 4. The **Downfall Refugees**. After the sinking of Hkar, refugees flee canonically to Drankor, and potentially to other places as well. These refugees share a highly urban magical culture and worship [[Mos Numena]].  Often referred to as Drankorians, but technically there could be several different refugee groups beyond the Drankorians.  %% Note: Mos Numena as the only religion here is not canonical %%
@@ -39,7 +39,7 @@ Across the northern reaches of Taelgar -- from the [[~North Bay~]] to the northe
 
 Cultures in this region could plausibly be: Northern offshoots or unique minor migrations. This area was never penetrated by Drankor, and is far from both the Southern and Eastern migrations, and thus would require compelling reason to have cultures derived from those migrations here.
 
-See [[~Northerner~]] for more background on this cultural region.
+See [[Northerners]] for more background on this cultural region.
 
 Defined cultures in this region include:
 * The [[Deno'qai]], a pure northerner culture, who [[Tanshi Worship|worship the tanshi]]
