@@ -8,13 +8,15 @@ ancestry: Deno'qai
 gender: male
 whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
+affiliations: [{org: Ko'zula, type: primary}]
 dm_owner: none
 dm_notes: color
 ---
 # Enon
 >[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (he/him)  
+> A [[Deno'qai]] [[Humans|human]] (he/him), of the [[Ko'zula]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%  color notes from delwath solo to copy %%
