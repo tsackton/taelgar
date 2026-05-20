@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note, status/check/ai]
+tags: [session-note]
 DR: 1747-02-16
 DR_end: 1747-07-28
 name: Chronicles of the Quest for the Elemental Scrolls

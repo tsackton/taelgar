@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
+tags: [person, status/check/ai, status/gameupdate/gl]
 name: Silver Feathers of the Storm Cloud, Thunder and Lightning
 aliases: [Silverstorm]
 whereabouts:

@@ -1,5 +1,5 @@
 ---
-tags: [person, status/check/ai]
+tags: [person, status/check/ai, status/gameupdate/gl]
 name: Dinia
 species: human
 gender: female

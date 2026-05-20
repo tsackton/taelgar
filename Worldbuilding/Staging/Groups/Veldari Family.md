@@ -1,5 +1,5 @@
 ---
-tags: [group, status/check/ai]
+tags: [group, status/check/ai, status/gameupdate/gl]
 typeOf: family (oligarch)
 partOf: Chardon
 whereabouts: Chardon

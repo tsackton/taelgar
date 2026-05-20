@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [object]
+tags: [object, status/gameupdate/gl]
 typeOf: material
 typeOfAlias: mineral
 subTypeOf: magic

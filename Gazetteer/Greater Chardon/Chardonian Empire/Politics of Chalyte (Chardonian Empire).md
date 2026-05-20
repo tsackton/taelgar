@@ -1,5 +1,5 @@
 ---
-tags: [background]
+tags: [background, status/gameupdate/gl]
 dm_notes: important
 dm_owner: tim
 ---

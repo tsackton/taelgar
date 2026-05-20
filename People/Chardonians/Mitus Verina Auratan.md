@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/stub]
+tags: [person, status/stub, status/gameupdate/gl]
 ancestry: Chardonian
 name: Mitus Verina Auratan
 title: Magistros

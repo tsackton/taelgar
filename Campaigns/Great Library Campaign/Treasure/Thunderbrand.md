@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [object]
+tags: [object, status/gameupdate/gl]
 name: Thunderbrand
 typeOf: warhammer
 subTypeOf: magical

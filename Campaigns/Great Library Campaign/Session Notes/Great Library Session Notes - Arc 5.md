@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note, status/check/ai]
+tags: [session-note]
 DR: 1748-08-22
 DR_end: 1752-06-29
 name: Chronicles of the Quest for Answers to Extraplanar Mysteries  
