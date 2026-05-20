@@ -5,8 +5,8 @@ name: Ko'zula
 displayDefaults: {defArt: the, boxInfo: One of the <partOf:1UA>, wHome: ""}
 partOf: Northern Tribes
 typeOf: tribe
-dm_notes: important
-dm_owner: tim
+dm_notes: none
+dm_owner: none
 ---
 # The Ko'zula
 >[!info]+ Information  
