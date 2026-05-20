@@ -2,13 +2,11 @@
 headerVersion: 2023.11.25
 tags: [ancestry, status/stub, status/check/ai]
 name: Deno'qai
+partOf: Northerner
 dm_notes: important
 dm_owner: joint
 ---
-
 # Deno'qai
->[!info]+ Information  
-> A [[~Northerner~]] culture, traditionally associated with [[Tanshi Worship]]
 
 The Deno'qai are an ancient human culture of the western forests and foothills of the [[Sentinel Range|Sentinels]]. In their own traditions they are a people of the old migrations from [[Hkar]], and they are closely identified with the intercessory worship of the [[Tanshi|tanshi]], the “small gods” of the forests and wild places.
 

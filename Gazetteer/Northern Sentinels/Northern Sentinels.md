@@ -64,7 +64,7 @@ Dangerous Wildernesses: Yes
 ## Major Historical Eras
 _See more: [[Pandar]]_
 
-In the ancient days before [[The Downfall]] it is said that the [[~Northerner~|northerners]] crossed the [[Sentinel Range|Sentinels]] at the [[~Unnamed North Sentinel Pass~]]  in their eastward migrations, but the truth of this is unclear.
+In the ancient days before [[The Downfall]] it is said that the [[Northerners|northerners]] crossed the [[Sentinel Range|Sentinels]] at the [[~Unnamed North Sentinel Pass~]]  in their eastward migrations, but the truth of this is unclear.
 
 In the long years leading up to the [[Great War]] the land of [[Pandar]] was [[Cha'mutte|Cha'mutte's]] home, and hobgoblins and enslaved [[Kenku|kenku]] were common sights. Since the [[Great War]] this area has been lightly populated and full of dangers.
 ## Climate

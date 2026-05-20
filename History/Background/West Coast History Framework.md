@@ -20,7 +20,7 @@ See also: [[Early Brainstorming - West Coast History]] and [[West Coast History 
 See: [[Historical Framework#Migrations and Emigration]] for some details. 
 
 *Canonical Facts*:
-- The first [[~Northerner~]] migrations landed somewhere in the west, gradually spreading north, generally living in the shadow of non-humans before the Downfall. These become the Deno'qai, as well as possibly other as-yet-developed cultures on blank places in the map.
+- The first [[Northerners]] migrations landed somewhere in the west, gradually spreading north, generally living in the shadow of non-humans before the Downfall. These become the Deno'qai, as well as possibly other as-yet-developed cultures on blank places in the map.
 - Some of these first migrants (proto-[[Deno'qai]]) settled on the northwest coast of the [[Apporia|Apporian Peninsula]], calling themselves the [[Yo'nari]], but eventually falling under the sway of [[Yeshara]] and vanishing into [[Cairn Dor]], a [[Shadowfolds]] domain. Potentially left behind numerous ruins, standing stones, and other structural markers of occupation. This is canonical per the [[Great Library Session Notes - Arc 5|current arc of the Great Library campaign]]. 
 
 *Ideas:*

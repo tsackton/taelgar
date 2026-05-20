@@ -10,7 +10,7 @@
 
   
 
-*Non-Canonical Development:* It is expected that whatever development occurs around the [[~Sayuna Islands~]] will be based on an early [[~Northerner~]] migration from Hkar, but this is not canonical. Potentially the [[~Sayuna Islands~]] do not even exist.
+*Non-Canonical Development:* It is expected that whatever development occurs around the [[~Sayuna Islands~]] will be based on an early [[Northerners]] migration from Hkar, but this is not canonical. Potentially the [[~Sayuna Islands~]] do not even exist.
 
   
 
@@ -34,7 +34,7 @@
 
   
 
-*Non-Canonical Development:* This region has been assumed to have been one of the first points where the [[~Northerner~]] culture emigrated to from [[Hkar]] and thus cultural development in this regional should probably be inspired by the other [[~Northerner~]] cultures, although other options are possible.
+*Non-Canonical Development:* This region has been assumed to have been one of the first points where the [[Northerners]] culture emigrated to from [[Hkar]] and thus cultural development in this regional should probably be inspired by the other [[Northerners]] cultures, although other options are possible.
 
   
 
