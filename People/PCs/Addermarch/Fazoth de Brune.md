@@ -9,7 +9,8 @@ gender: male
 dm_owner: player
 dm_notes: none
 affiliations:
-- {type: primary, org: "Addermarch Mercenaries"}
+- {type: primary, org: "Addermarch Mercenaries"} 
+- {org: de Brunes, type: primary }
 tags: [person]
 whereabouts:
 - {type: home, location: Eskbridge}
@@ -17,7 +18,7 @@ whereabouts:
 ---
 # Fazoth de Brune
 >[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[Addermarch Mercenaries]]  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[Addermarch Mercenaries]], and the [[de Brunes]]  
 > [Character Sheet](https://www.dndbeyond.com/characters/131334028)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
