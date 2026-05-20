@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
+tags: [place, status/cleanup/text, status/gameupdate/gl]
 campaignInfo: []
 name: Voltara
 typeOf: settlement

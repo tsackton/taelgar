@@ -1,5 +1,5 @@
 ---
-tags: [object, status/check/ai]
+tags: [object, status/check/ai, status/gameupdate/gl]
 name: Flamekeeper Scroll
 typeOf: scroll (Airion)
 campaignInfo:

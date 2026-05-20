@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note, status/check/ai]
+tags: [session-note]
 DR: 1747-09-15
 DR_end: 1747-10-06
 name: Chronicles of the War Against Grumella

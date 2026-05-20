@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+tags: [background, status/gameupdate/gl]
 dm_notes: important
 dm_owner: tim
 ---

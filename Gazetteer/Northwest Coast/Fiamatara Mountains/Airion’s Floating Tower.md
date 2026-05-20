@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/gameupdate/gl]
 displayDefaults: {defArt: "", wCurrent: "<ancestry:UA> <typeof:UA> (current location: <current:1s>)"}
 name: Airion’s Floating Tower
 whereabouts: 

@@ -2,6 +2,7 @@
 tags:
   - place
   - status/stub
+  - status/gameupdate/gl
 whereabouts: Voltara
 typeOf: building
 ---

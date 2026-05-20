@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+tags: [group, status/gameupdate/gl]
 displayDefaults: {startStatus: Formed, partOf: "", linkText: "by", ltPerson: "by"}
 typeOf: adventuring party
 created: 1747-04-04
@@ -29,4 +29,3 @@ Recently, the Silver Tempests have been joined by:
 The Silver Tempests traveled with two other adventurers in the past:
 - [[Scordith]], a human sorcerer, who briefly joined the Silver Tempests on a few early quests; and
 - [[Aglath]], a stoneborn warrior, who was born far away, and left to find his kin in the [[Sentinel Range|Sentinels]]
-
