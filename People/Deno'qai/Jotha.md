@@ -12,14 +12,16 @@ whereabouts:
 - {type: home, end: 1743, location: Ko'zula village}
 - {type: home, start: 1743, end: 1749-03-21, location: ~Northern Boreal Forest~ }
 - {type: away, start: 1749-03-21, end: 9999, location: Vindristjarna}
+affiliations: [{org: Ko'zula, type: primary}]
 dm_owner: tim
 dm_notes: color
 ---
 # Jotha
 *(yo-TAH)*
 >[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (she/her)  
+> A [[Deno'qai]] [[Humans|human]] (she/her), of the [[Ko'zula]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[jotha.jpg|right|300]]Jotha is a warrior, serious and sometimes distant, who relies on her connection to the [[Tanshi]] to make sense of the dangers and evils she has faced. She prefers to listen instead of talk, and enjoys hearing stories. While eventually she intends to return to her homeland, for now she travels seeking to deepen her connection to the tanshi. 
