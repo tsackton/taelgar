@@ -1,8 +1,19 @@
 class AffiliationManager {
 
+    #getMaxPartOfDepth(filter) {
+        if (filter === undefined || filter === null) return undefined
+
+        let match = filter.toString().match(/\d+/)
+        if (!match) return undefined
+
+        return parseInt(match[0], 10)
+    }
+
     #getPartOfChain(partOfPiece, thisDepth, filter, sourcePageType) {
 
         const { NameManager } = customJS
+        let maxDepth = this.#getMaxPartOfDepth(filter)
+        thisDepth = thisDepth ?? 1
 
         let partOfItem = { name: NameManager.getNameObject(partOfPiece, sourcePageType) }
         let file = NameManager.getFileForTarget(partOfPiece)
@@ -17,6 +28,10 @@ class AffiliationManager {
             let retValue = []
 
             retValue.push(partOfItem)
+
+            if (maxDepth && thisDepth >= maxDepth) {
+                return retValue
+            }
 
             if (nextPageType === sourcePageType && nextPageType !== "place" && nextLevel) {
                 retValue.push(...this.#getPartOfChain(nextLevel, thisDepth + 1, filter, sourcePageType))

@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [ancestry, status/check/ai]
-displayDefaults: {defArt: the, boxInfo: <ancestry:UA> <typeof:UA> based in <home:r>}
-name: Baz'aku
+displayDefaults: {defArt: the, boxInfo: <partOf:1UA> <typeof:UA> based in <home:r>, wHome: ""}
 typeOf: tribe
-ancestry: Deno'qai
+partOf: Deno'qai
 whereabouts: Elderwood
+name: Baz'aku
 dm_notes: important
 dm_owner: tim
 pronunciation: bahz-AH-koo
@@ -13,53 +13,64 @@ pronunciation: bahz-AH-koo
 # The Baz'aku
 *(bahz-AH-koo)*
 >[!info]+ Information  
-> A [[Deno'qai]] tribe based in the [[Elderwood]], [[Ainumarya]]
+> A [[Deno'qai]] tribe based in the [[Elderwood]], [[Ainumarya]]  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+The Baz'aku are a [[Deno'qai]] tribe living on the edges of the [[Elderwood]]. They are known for trade with the [[Chasa River Valley]] and for acting as intermediaries between the deeper forest tribes and the river towns.
+
+## Territory
+
+The Baz'aku live on the edges of the [[Elderwood]]. In [[On the Lost People of the Forests]], the Baz'aku claim the land between the [[Chasa]] and the [[Kayan]].
+
+Baz'aku villages cluster around a central gathering hall and a green or clearing, often with a well. Settlements nearer the rivers keep docks for boats and rafts, including large dugout canoes hewn from single trees.
+
+## Local Culture
+
+Chardonian accounts and Baz'aku storytelling alike describe the tribe as traders and intermediaries: gatherers of forest wealth, including timber, crafted wood, rare herbs, and the products of hunting, who exchange what the Elderwood provides for metalwork and goods from the river towns. The Baz'aku practice careful forestry, keeping small plots of cultivation at the edges of their clearings rather than attempting large-scale farming in the deep woods.
+
+Their villages commonly keep pigs and chickens, and their food is centered on beer and pork. A shrine or altar to the [[Tanshi|tanshi]], typically a great tree, standing stone, or other natural landmark, serves as a focal point for rites and sacrifices.
+
+Each village chooses a local chief, with chiefs gathering in council to resolve disputes and, when necessary, agree on matters of war. Surplus is shared between settlements, and formal taxes or tribute are not generally part of Baz'aku governance.
+
+Alongside civil leadership, the godcallers who interpret the will of the tanshi hold significant influence, with informal hierarchies of respect based on perceived closeness to the spirits.
+
+## Recent history
+
+Some recent reports from [[Arendum]] describe an increase in raiding against caravans and forester camps along the forest's margins. These reports have coincided with a more visible Chardonian military presence on the frontier.
+
+In 1748 DR, [[Mezzar|Grimbaskal]] was slain in the depths of the [[Elderwood]]. His death weakened the forces that had been spreading corruption through the forest, and news of his deception spread by messenger to the other Deno'qai tribes. Among the Baz'aku, the end of Grimbaskal's influence has sharpened debate over raiding and war, and strengthened those who argue for a return to trade and diplomacy along the [[Chasa River Valley]].
+
+## Notable people
+
+```dataview
+TABLE WITHOUT ID file.link AS Person, affiliations AS Affiliations
+FROM #person
+WHERE contains(affiliations, this.file.link) OR contains(affiliations.org, this.file.link) OR contains(affiliations, this.name) OR contains(affiliations.org, this.name)
+SORT file.name ASC
+```
+
+%% Previous player-facing text before 2026-05-20 reorganization:
 ## Overview
 
 The Baz'aku are a Deno'qai tribe living on the edges of the [[Elderwood]]. They are known to trade with the people of the [[Chasa River Valley]]. In [[On the Lost People of the Forests]], the Baz'aku claim the land between the [[Chasa]] and the [[Kayan]].
 
 Much of what is written of the Baz'aku in Chardon comes from the work of the scholar [[Gnaeus]], who spent months living among them and learning their stories and customs.
 
-%% Previous text:
-The Baz'aku are a Deno'qai tribe living on the edges of the [[Elderwood]], known to trade with the people of the [[Chasa River Valley]]. In [[On the Lost People of the Forests]], the Baz'aku claim the land between the [[Chasa]] and the [[Kayan]].
-
-Much of what is written of the Baz'aku in Chardon comes from the work of the scholar [[Gnaeus]], who spent months living among them and learning their stories and customs.
-%%
-
 ## Tradition and religion
 
-In the telling recorded by [[On the Lost People of the Forests]], the Baz'aku preserve the shared myths of the Deno'qai: that their people trace their ancestry back to the first humans to leave [[Hkar]], long before [[The Downfall]] and the founding of [[Drankor]]; and that in the oldest days they ranged across vast forests from the mountains to the sea. In these stories, the heart of their “old ways” is the worship of the [[Tanshi|tanshi]], the spirits of the forest who bring prayers to the creator, [[Divine Presence|Anida]].
-
-%% Previous text:
-## Tradition and memory
-
-In the telling recorded by [[On the Lost People of the Forests]], the Baz'aku preserve the shared myths of the Deno'qai: that their people trace their ancestry back to the first humans to leave [[Hkar]], long before [[The Downfall]] and the founding of [[Drankor]]; and that in the oldest days they ranged across vast forests from the mountains to the sea. In these stories, the heart of their “old ways” is the worship of the [[Tanshi|tanshi]], the spirits of the forest who bring prayers to the creator, [[Divine Presence|Anida]].
-%%
+In the telling recorded by [[On the Lost People of the Forests]], the Baz'aku preserve the shared myths of the Deno'qai: that their people trace their ancestry back to the first humans to leave [[Hkar]], long before [[The Downfall]] and the founding of [[Drankor]]; and that in the oldest days they ranged across vast forests from the mountains to the sea. In these stories, the heart of their "old ways" is the worship of the [[Tanshi|tanshi]], the spirits of the forest who bring prayers to the creator, [[Divine Presence|Anida]].
 
 ## Economy and way of life
 
-Chardonian accounts and Baz'aku storytelling alike describe the tribe as traders and intermediaries: gatherers of forest wealth—timber, crafted wood, rare herbs, and the products of hunting—who exchange what the Elderwood provides for metalwork and goods from the river towns. The Baz'aku practice careful forestry, keeping small plots of cultivation at the edges of their clearings rather than attempting large-scale farming in the deep woods.
+Chardonian accounts and Baz'aku storytelling alike describe the tribe as traders and intermediaries: gatherers of forest wealth--timber, crafted wood, rare herbs, and the products of hunting--who exchange what the Elderwood provides for metalwork and goods from the river towns. The Baz'aku practice careful forestry, keeping small plots of cultivation at the edges of their clearings rather than attempting large-scale farming in the deep woods.
 
 Some recent reports from [[Arendum]] describe an increase in raiding against caravans and forester camps along the forest's margins. These reports have coincided with a more visible Chardonian military presence on the frontier.
 
-%% Previous text:
-Chardonian accounts and Baz'aku storytelling alike describe the tribe as traders and intermediaries: gatherers of forest wealth—timber, crafted wood, rare herbs, and the products of hunting—who exchange what the Elderwood provides for metalwork and goods from the river towns. The Baz'aku practice careful forestry, keeping small plots of cultivation at the edges of their clearings rather than attempting large-scale farming in the deep woods.
-
-Some recent reports from [[Arendum]] emphasize an increase in raiding against caravans and forester camps along the forest's margins. Such reports are politically fraught, but they have coincided with a more visible Chardonian military presence on the frontier.
-%%
-
 ## Settlements
 
-Baz'aku villages cluster around a central gathering hall and a green or clearing, often with a well. A shrine or altar to the tanshi—typically a great tree, standing stone, or other natural landmark—serves as a focal point for rites and sacrifices.
+Baz'aku villages cluster around a central gathering hall and a green or clearing, often with a well. A shrine or altar to the tanshi--typically a great tree, standing stone, or other natural landmark--serves as a focal point for rites and sacrifices.
 
 Settlements nearer the rivers keep docks for boats and rafts, including large dugout canoes hewn from single trees. Baz'aku villages commonly keep pigs and chickens, and their food is centered on beer and pork.
-
-%% Previous text:
-Baz'aku villages cluster around a central gathering hall and a green or clearing, often with a well. A shrine or altar to the tanshi—typically a great tree, standing stone, or other natural landmark—serves as a focal point for rites and sacrifices.
-
-Settlements nearer the rivers keep docks for boats and rafts, including large dugout canoes hewn from single trees. Baz'aku villages commonly keep pigs and chickens, and their food is centered on beer and pork.
-%%
 
 ## Society and leadership
 
@@ -67,21 +78,12 @@ Each village chooses a local chief, with chiefs gathering in council to resolve 
 
 Alongside civil leadership, the godcallers who interpret the will of the tanshi hold significant influence, with informal hierarchies of respect based on perceived closeness to the spirits.
 
-%% Previous text:
-Each village chooses a local chief, with chiefs gathering in council to resolve disputes and, when necessary, agree on matters of war. Surplus is shared between settlements, and formal taxes or tribute are not generally part of Baz'aku governance.
-
-Alongside civil leadership, the godcallers who interpret the will of the tanshi hold significant influence, with informal hierarchies of respect based on perceived closeness to the spirits.
-%%
-
 ## Recent history
 
-%% Speculative extrapolation generated by AI at user request, based on [[Session 52 (DuFr)]]. %%
-
-In 1748 DR, [[Mezzar|Grimbaskal]] was slain in the depths of the [[Elderwood]]. His death weakened the forces that had been spreading corruption through the forest, and news of his deception spread by messenger to the other Deno'qai tribes. Among the Baz'aku, the end of Grimbaskal's influence has sharpened debate over raiding and war, and strengthened those who argue for a return to trade and diplomacy along the [[Chasa River Valley]].
-
-%% Previous text:
 In 1748 DR, [[Mezzar|Grimbaskal]] was slain in the depths of the [[Elderwood]]. His death weakened the forces that had been spreading corruption through the forest, and news of his deception spread by messenger to the other Deno'qai tribes. Among the Baz'aku, the end of Grimbaskal's influence has sharpened debate over raiding and war, and strengthened those who argue for a return to trade and diplomacy along the [[Chasa River Valley]].
 %%
+
+%%^Campaign:none%%
 
 ## Sources
 
@@ -91,8 +93,6 @@ In 1748 DR, [[Mezzar|Grimbaskal]] was slain in the depths of the [[Elderwood]]. 
 - [[Session 52 (DuFr)]]
 
 %% need to copy notes from OneNote %%
-
-%%^Campaign:none%%
 
 ## DM notes
 
@@ -138,4 +138,33 @@ In most cases, party should probably be led to the main village / "capitol" when
  
 Mostly will be happy to see elf, especially curious about where he is from and if the elves are coming back to the Elderwood ever. Depends of course on exact means of introduction.
 
+%%^End%%
+
+%%^Campaign:none%%
+### AI Research Note
+*2026-05-20: Reviewed tribe-specific facts and source types before revision.*
+
+Player-facing vault context:
+- The Baz'aku are a [[Deno'qai]] tribe on the edges of the [[Elderwood]], known to trade with the [[Chasa River Valley]]. Source: [[Baz'aku]].
+- In [[On the Lost People of the Forests]], the Baz'aku claim land between the [[Chasa]] and [[Kayan]]. Sources: [[Baz'aku]], [[On the Lost People of the Forests]].
+- Much Chardonian knowledge of the Baz'aku comes through [[Gnaeus]], who spent months among them. Source: [[Baz'aku]].
+- The Baz'aku preserve shared Deno'qai myths of descent from the first humans to leave [[Hkar]], an older forest range from mountains to sea, and worship of the [[Tanshi|tanshi]] as spirits who carry prayers to [[Divine Presence|Anida]]. Sources: [[Baz'aku]], [[On the Lost People of the Forests]], [[Deno'qai]].
+- They are described as traders and intermediaries, exchanging timber, crafted wood, rare herbs, and hunting products for metalwork and river-town goods. Source: [[Baz'aku]].
+- They practice careful forestry and small cultivation near clearings rather than large-scale deep-forest farming. Source: [[Baz'aku]].
+- Recent reports from [[Arendum]] describe increased raids on caravans and forester camps, alongside increased Chardonian military presence. Source: [[Baz'aku]].
+- Villages cluster around a central gathering hall, green or clearing, and often a well; a tanshi altar, usually a tree, stone, or natural landmark, serves as a focal point for rites. Source: [[Baz'aku]].
+- River settlements use docks, rafts, and large dugout canoes; villages commonly keep pigs and chickens, with food centered on beer and pork. Source: [[Baz'aku]].
+- Villages choose local chiefs; chiefs meet in council for disputes and war; formal taxes or tribute are not generally part of Baz'aku governance. Source: [[Baz'aku]].
+- Godcallers hold significant influence alongside civil leaders. Sources: [[Baz'aku]], [[Tanshi Worship]].
+
+Session notes:
+- [[Session 52 (DuFr)]] supports the 1748 death of [[Mezzar|Grimbaskal]], the exposure of his deception, and the post-Grimbaskal effort to carry news among Deno'qai tribes; the current Baz'aku recent-history paragraph is explicitly marked as speculative extrapolation from that session.
+
+DM notes:
+- The Baz'aku are envisioned as about ten larger villages of 50-200 people, plus numerous smaller family settlements. Source: DM notes in this note.
+- Recent raiding targets include long-distance caravans from [[Arendum]] toward the dwarves and [[Sembara]], plus forester camps. Source: DM notes in this note.
+- Chardonian legions have responded, creating a major military presence in [[Arendum]]. Source: DM notes in this note.
+- [[Mezzar|Grimbaskal]], known among the Baz'aku as Arenga, encouraged Baz'aku belligerence, supplied trained giant apes for raids, took tribute, and drew promising young warriors into his service. Source: DM notes in this note.
+- The tribe has a war faction under Grimbaskal's influence and a peace faction wary of him and more open to renewed trade with [[Chardonian Empire|Chardon]]. Source: DM notes in this note.
+- Encounter color includes hidden forest paths, small offerings, hides, long hair, colorful shields and spears covered when not in battle, possible face paint, and curiosity toward elves. Source: DM notes in this note.
 %%^End%%

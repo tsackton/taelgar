@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
 tags: [ancestry, status/stub, status/check/ai]
+displayDefaults: {defArt: the, boxInfo: <partOf:1UA> culture, wHome: ""}
 name: Zimka
-partOf: Northerner
+partOf: Northerners
 dm_owner: mike
 dm_notes: important
 ---
-# Zimka
+# The Zimka
+>[!info]+ Information  
+> A [[Northerners]] culture
 
 The Zimka are a highland people of the foothills of the [[Sentinel Range|Sentinels]], whose homeland is [[Zimkova]]. In the tales of their villages, the Zimka came to this land long ago in a migration across the mountains; and in the bogs and lakes of the upper [[Volta]] they found the spirits they call the [[Kestavo|kestavo]].
 

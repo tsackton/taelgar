@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
 tags: [ancestry]
-partOf: Northerner
+displayDefaults: {defArt: the, boxInfo: <partOf:1UA> culture, wHome: ""}
+partOf: Northerners
 dm_notes: color
 dm_owner: tim
 ---
-# Vargaldi
+# The Vargaldi
+>[!info]+ Information  
+> A [[Northerners]] culture
 
 The Vargald, or Vargaldi, are an ancient [[Northerners]] culture, sharing a distant ancestry with the [[Deno'qai]] and the [[Zimka]]. The Vargaldi worship the [[Zariya]], small gods that share many similarities with other [[Northern Folk Religions]] such as the [[Tanshi]] and the [[Kestavo]], and speak a language related to [[Languages#~Old Zimkovan~|Old Zimkovan]], but with many [[Languages#Eastros|Eastros]] loan words. Long ago, the ancestors of the Vargald migrated from the west, moving across the [[Svinjo Mountains]], to settle in the [[~Northern Boreal Forest~|vast interior forests]] of the [[Northern Green Sea]], where the Vargaldi have lived ever since. 
 
