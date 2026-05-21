@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [ancestry, status/check/mike]
+tags: [ancestry]
 name: Ko'zula
 displayDefaults: {defArt: the, boxInfo: One of the <partOf:1UA>, wHome: ""}
 partOf: Northern Tribes
@@ -42,3 +42,7 @@ Session notes:
 - [[Interlude (Delwath Postscript)]]: Delwath rested, celebrated, and communed with the [[Meswati]] at the Ko'zula village, learning local history and tanshi stories.
 
 %%^End%%
+
+%% Mike comments
+This feels a little bit light on detail - I don't have a good sense of how many people are in this tribe or the territory, or what specific traditions they adopted. Not all of that is needed of course, so I didn't add a tag or anything, but might be worth thinking about in general
+%%

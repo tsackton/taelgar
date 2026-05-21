@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [ancestry, status/check/mike]
+tags: [ancestry]
 displayDefaults: {defArt: the, boxInfo: <partOf:1UA> culture, wHome: ""}
 name: Deno'qai
 partOf: Northerners
@@ -72,3 +72,12 @@ Farther north, the [[Northern Tribes|Deno'qai communities of the Northern Sentin
 - [[Deno'qai Lynx Shield]] and [[Deno'qai Scale Mail]] should remain isolated legendary examples, not the basis for a general material-culture section.
 - [[GL - Session 62 - DM Notes]] includes background on the Yo’nari, a proto‑Deno’qai tribe tied to [[Yeshara]] and [[Cairn Dor]]. See also: [[Session 63 Background]]
 - [[Grimbaskal's Hoard]] includes `%%SECRET[1]%%^End%%
+
+%%^End%%
+
+%% Mike comments 
+This seems fine to me, but from a world-building perspective the number and texture of Deno'qai tribes seems underdeveloped. Are tribes relatively large units, i.e. similar to a Plains tribe of Native Amercians, and plausibly there are only maybe 3-6 extant tribes? Or is the tribe a smaller unit, closer to a village or small collection of villages, indicating perhaps dozens or more tribes in several broad cultural bands? The article here isn't really clear on size and scope of tribes.
+
+A more formal "origins and settlement patterns" section might be useful.
+%%
+
