@@ -5,8 +5,8 @@ displayDefaults: {defArt: the, boxInfo: <partOf:1UA> <typeof:UA>, wHome: ""}
 name: Elderwood Tribes of the Deno'qai
 typeOf: cultural group
 partOf: Deno'qai
-dm_notes: important
-dm_owner: tim
+dm_notes: none
+dm_owner: none
 ---
 # The Elderwood Tribes of the Deno'qai
 >[!info]+ Information  
