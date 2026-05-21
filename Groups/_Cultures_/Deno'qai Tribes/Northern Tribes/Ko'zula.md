@@ -41,8 +41,8 @@ Session notes:
 - [[Session 54 (DuFr)]] and [[Session 55 (DuFr)]]: Ko'zula forests and village served as safe return and rest points during the Meswati quest.
 - [[Interlude (Delwath Postscript)]]: Delwath rested, celebrated, and communed with the [[Meswati]] at the Ko'zula village, learning local history and tanshi stories.
 
-%%^End%%
+Open questions/comments:
+- (From Mike): Not clear how many people are in this tribe or this territory
+- (From Mike): Not clear if there are specific Ko'zula traditions
 
-%% Mike comments
-This feels a little bit light on detail - I don't have a good sense of how many people are in this tribe or the territory, or what specific traditions they adopted. Not all of that is needed of course, so I didn't add a tag or anything, but might be worth thinking about in general
-%%
+%%^End%%
