@@ -6,8 +6,8 @@ typeOf: tribe
 partOf: Deno'qai
 whereabouts: Elderwood
 name: Baz'aku
-dm_notes: important
-dm_owner: tim
+dm_notes: none
+dm_owner: none
 pronunciation: bahz-AH-koo
 ---
 # The Baz'aku
@@ -18,11 +18,39 @@ pronunciation: bahz-AH-koo
 
 The Baz'aku are a [[Deno'qai]] tribe living on the edges of the [[Elderwood]]. They are known for trade with the [[Chasa River Valley]] and for acting as intermediaries between the deeper forest tribes and the river towns.
 
+
+The Baz'aku are a Deno'qai tribe living on the edges of the [[Elderwood]]. They are known to trade with the people of the [[Chasa River Valley]]. In [[On the Lost People of the Forests]], the Baz'aku claim the land between the [[Chasa]] and the [[Kayan]].
+
+Much of what is written of the Baz'aku in Chardon comes from the work of the scholar [[Gnaeus]], who spent months living among them and learning their stories and customs.
+
+
+Historically a tribe of merchants and middlemen, acting as intermediaries between the more isolated forest tribes and the Chardonians. Traded timber, wood products, rare herbs collected from the forests, meat/leather/hide/fur from wild animals. The Deno'qai don't really grow cash crops, most of the animals they raise and the plants they grow are for local consumption - cash crops are harvested from the wilds of the Elderwood.
+ 
+In the past 5ish years, the Baz'aku have shifted to getting much more of their wealth and sustenance from raiding. They especially target merchant caravans that would brave the 500 mile journey upriver from Arendum to trade with the dwarves, and via the dwarves, with Sembara. Also raid forester camps.
+ 
+Has led to Chardonian legions striking back, and there is now a major military presence in Arendum.
+
 ## Territory
 
 The Baz'aku live on the edges of the [[Elderwood]]. In [[On the Lost People of the Forests]], the Baz'aku claim the land between the [[Chasa]] and the [[Kayan]].
 
 Baz'aku villages cluster around a central gathering hall and a green or clearing, often with a well. Settlements nearer the rivers keep docks for boats and rafts, including large dugout canoes hewn from single trees.
+
+
+ 
+The Baz'aku are not a particularly large tribe -- they occupy about 10 larger villages, each between 50-200 people (see map for territory and locations), and numerous smaller villages, just a handful of families.
+ 
+Most of the larger villages are organized like Raha, from Great Library campaign. A cluster of buildings in the forest, with a central gathering hall and village green / clearing, usually with a well. Livestock mostly pigs and chickens, the Deno'qai do not really use mounts and cattle are difficult to raise without clearing more land. Each village will have some kind of tanshi altar for ritual sacrifices, often a great tree, sometimes a large rock or other standing stone type structure, always something natural. Usually a high-status hut for the Godcaller near the altar. Bulk of settlement will be small cottages, some local industry (butchers, tanners, brewers). Food is generally German-inspired, beer and pork, and usually not very hoppy beer. Agriculture is common, usually on small plots on the outskirts of the village, with trees interspersed. Local forestry is sophisticated.
+ 
+Villages near the river will have docks for riverboats - large dugout canoes cut from single massive trees, and occasionally larger boats used for transport of goods, flat bottomed rafts with a single sail or somewhat more sophisticated.
+ 
+Each village of more than a few people elects a local chief, and these chiefs form a tribal council that chooses one of their own as the chief of the whole tribe. But in general government does not do much, exactly. There is no taxation, for example, and the relationships among villages are fairly socialistic (excess is shared, etc).
+ 
+The most important role of the tribal council is warmaking. At the moment, they cannot agree on full-scale war against Chardon, but individual villages / war leaders have taken it into their own hands to launch raids.
+ 
+Separate from the "civil" tribal leadership, each village has a Godcaller who speaks and interprets the tanshi, and organizes sacrifices as needed. Generally the Godcallers recognize a hierarchy based on closeness to the tanshi / power, and while there are no formal title differences the strongest Godcallers have a lot of sway.
+ 
+Draw inspiration / vibes from the Netflix Barbarians series.
 
 ## Local Culture
 
@@ -39,22 +67,6 @@ Alongside civil leadership, the godcallers who interpret the will of the tanshi 
 Some recent reports from [[Arendum]] describe an increase in raiding against caravans and forester camps along the forest's margins. These reports have coincided with a more visible Chardonian military presence on the frontier.
 
 In 1748 DR, [[Mezzar|Grimbaskal]] was slain in the depths of the [[Elderwood]]. His death weakened the forces that had been spreading corruption through the forest, and news of his deception spread by messenger to the other Deno'qai tribes. Among the Baz'aku, the end of Grimbaskal's influence has sharpened debate over raiding and war, and strengthened those who argue for a return to trade and diplomacy along the [[Chasa River Valley]].
-
-## Notable people
-
-```dataview
-TABLE WITHOUT ID file.link AS Person, affiliations AS Affiliations
-FROM #person
-WHERE contains(affiliations, this.file.link) OR contains(affiliations.org, this.file.link) OR contains(affiliations, this.name) OR contains(affiliations.org, this.name)
-SORT file.name ASC
-```
-
-%% Previous player-facing text before 2026-05-20 reorganization:
-## Overview
-
-The Baz'aku are a Deno'qai tribe living on the edges of the [[Elderwood]]. They are known to trade with the people of the [[Chasa River Valley]]. In [[On the Lost People of the Forests]], the Baz'aku claim the land between the [[Chasa]] and the [[Kayan]].
-
-Much of what is written of the Baz'aku in Chardon comes from the work of the scholar [[Gnaeus]], who spent months living among them and learning their stories and customs.
 
 ## Tradition and religion
 
@@ -78,49 +90,8 @@ Each village chooses a local chief, with chiefs gathering in council to resolve 
 
 Alongside civil leadership, the godcallers who interpret the will of the tanshi hold significant influence, with informal hierarchies of respect based on perceived closeness to the spirits.
 
-## Recent history
-
-In 1748 DR, [[Mezzar|Grimbaskal]] was slain in the depths of the [[Elderwood]]. His death weakened the forces that had been spreading corruption through the forest, and news of his deception spread by messenger to the other Deno'qai tribes. Among the Baz'aku, the end of Grimbaskal's influence has sharpened debate over raiding and war, and strengthened those who argue for a return to trade and diplomacy along the [[Chasa River Valley]].
-%%
-
-%%^Campaign:none%%
-
-## Sources
-
-- [[Elderwood]]
-- [[On the Lost People of the Forests]]
-- [[Deno'qai]]
-- [[Session 52 (DuFr)]]
-
-%% need to copy notes from OneNote %%
-
-## DM notes
-
-### Overview
  
-Historically a tribe of merchants and middlemen, acting as intermediaries between the more isolated forest tribes and the Chardonians. Traded timber, wood products, rare herbs collected from the forests, meat/leather/hide/fur from wild animals. The Deno'qai don't really grow cash crops, most of the animals they raise and the plants they grow are for local consumption - cash crops are harvested from the wilds of the Elderwood.
- 
-In the past 5ish years, the Baz'aku have shifted to getting much more of their wealth and sustenance from raiding. They especially target merchant caravans that would brave the 500 mile journey upriver from Arendum to trade with the dwarves, and via the dwarves, with Sembara. Also raid forester camps.
- 
-Has led to Chardonian legions striking back, and there is now a major military presence in Arendum.
- 
-### Villages / Territory
- 
-The Baz'aku are not a particularly large tribe -- they occupy about 10 larger villages, each between 50-200 people (see map for territory and locations), and numerous smaller villages, just a handful of families.
- 
-Most of the larger villages are organized like Raha, from Great Library campaign. A cluster of buildings in the forest, with a central gathering hall and village green / clearing, usually with a well. Livestock mostly pigs and chickens, the Deno'qai do not really use mounts and cattle are difficult to raise without clearing more land. Each village will have some kind of tanshi altar for ritual sacrifices, often a great tree, sometimes a large rock or other standing stone type structure, always something natural. Usually a high-status hut for the Godcaller near the altar. Bulk of settlement will be small cottages, some local industry (butchers, tanners, brewers). Food is generally German-inspired, beer and pork, and usually not very hoppy beer. Agriculture is common, usually on small plots on the outskirts of the village, with trees interspersed. Local forestry is sophisticated.
- 
-Villages near the river will have docks for riverboats - large dugout canoes cut from single massive trees, and occasionally larger boats used for transport of goods, flat bottomed rafts with a single sail or somewhat more sophisticated.
- 
-Each village of more than a few people elects a local chief, and these chiefs form a tribal council that chooses one of their own as the chief of the whole tribe. But in general government does not do much, exactly. There is no taxation, for example, and the relationships among villages are fairly socialistic (excess is shared, etc).
- 
-The most important role of the tribal council is warmaking. At the moment, they cannot agree on full-scale war against Chardon, but individual villages / war leaders have taken it into their own hands to launch raids.
- 
-Separate from the "civil" tribal leadership, each village has a Godcaller who speaks and interprets the tanshi, and organizes sacrifices as needed. Generally the Godcallers recognize a hierarchy based on closeness to the tanshi / power, and while there are no formal title differences the strongest Godcallers have a lot of sway.
- 
-Draw inspiration / vibes from the Netflix Barbarians series.
- 
-### Interactions with Grimbaskal
+## Interactions with Grimbaskal
  
 This is the tribe that, when Gnaeus was here, had historically traded with Arendum, been merchants and middlemen between the Deno'qai people and the rest of the world. In the past 20 years, relations with Chardon have significantly soured, driven in part by Chardonian encroachment on Baz'aku territory, primarily for better old growth forest for timber, and in part by Baz'aku beligerence encouraged by Grimbaskal (who goes by Arenga, the spirit of vengeance, among the Baz'aku).
  
@@ -132,16 +103,14 @@ War faction under full sway of Grimbaskal, eager to escalate against Chardon, po
  
 Peace faction, the few that remain, are wary of Grimbaskal. They remind the people that not long ago, the Chardonians and the Deno'qai and the Elves were close allies, and without Chardon's might the Deno'qai may have been completely wiped from the face of the Earth. Yes, be wary, watch for signs of imperial aggression, and defend our homes if need be. But if Chardon wants to trade instead of fight, we should embrace that. This faction also believes that the Te'kula are hiding for a good reason, although they are not sure what. Don't agree with the increasing demonization of the Te'kula.
  
-### Interactions with the Party
+## Interactions with the Party
  
 In most cases, party should probably be led to the main village / "capitol" when they first meet the Baz'aku. Certainly if they aid the war party, they will be taken to "main" village. Can just narrate this, etc. Hidden paths through the forests, little prayers and burnt leaves as offerings. People dressed in hides, red/blonde hair, sometimes brown, generally worn long. Shields/spears with lots of color on the shields, but covered with dull leather when not in battle. Maybe some with face paint? Mix of skin colors, ranging from pale to olive/brown, but most tended towards a ruddy, light tan complexation.
  
 Mostly will be happy to see elf, especially curious about where he is from and if the elves are coming back to the Elderwood ever. Depends of course on exact means of introduction.
 
-%%^End%%
 
-%%^Campaign:none%%
-### AI Research Note
+## AI Research Note
 *2026-05-20: Reviewed tribe-specific facts and source types before revision.*
 
 Player-facing vault context:
@@ -167,4 +136,3 @@ DM notes:
 - [[Mezzar|Grimbaskal]], known among the Baz'aku as Arenga, encouraged Baz'aku belligerence, supplied trained giant apes for raids, took tribute, and drew promising young warriors into his service. Source: DM notes in this note.
 - The tribe has a war faction under Grimbaskal's influence and a peace faction wary of him and more open to renewed trade with [[Chardonian Empire|Chardon]]. Source: DM notes in this note.
 - Encounter color includes hidden forest paths, small offerings, hides, long hair, colorful shields and spears covered when not in battle, possible face paint, and curiosity toward elves. Source: DM notes in this note.
-%%^End%%
