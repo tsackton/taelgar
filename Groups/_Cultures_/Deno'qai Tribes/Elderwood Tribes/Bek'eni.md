@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
 tags: [ancestry]
-displayDefaults: {defArt: the, boxInfo: <partOf:1UA> <typeof:UA> based in <home:r>, wHome: ""}
+displayDefaults: {defArt: the, boxInfo: One of the <partOf:1UA>, wHome: ""}
+partOf: Elderwood Tribes
 typeOf: tribe
-partOf: Deno'qai
 whereabouts: Elderwood
 name: Bek'eni
 dm_notes: none
@@ -13,7 +13,7 @@ pronunciation: BEHK-en-ee
 # The Bek'eni
 *(BEHK-en-ee)*
 >[!info]+ Information  
-> A [[Deno'qai]] tribe based in the [[Elderwood]], [[Ainumarya]]  
+> One of the the [[Elderwood Tribes|Elderwood Tribes of the Deno'qai]]  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
  %% Written from DR (POV:: 1749) point of view %%
@@ -22,7 +22,7 @@ The Bek'eni are one of the major [[Deno'qai]] tribes based in the [[Elderwood]].
 
 ## Territory and Settlements 
 
-The Bek'eni occupy numerous small villages and family hamlets scattered across the interior of the [[Elderwood]], with the densest settlements north and east of the [[Kayan]]. The core of Bek'eni territory is composed of fifteen or so small villages, most between fifty and two hundred people, stretching east along small, unmarked streams flowing into the [[Kayan]]. 
+The Bek'eni occupy numerous small villages and family hamlets scattered across the interior of the [[Elderwood]], with the densest settlements north and east of the [[Kayan]]. The core of Bek'eni territory is composed of fifteen or so small villages, most between fifty and one hundred people, stretching east along small, unmarked streams flowing into the [[Kayan]]. 
 
 During the days of [[Mezzar]]'s rule, the Bek'eni paid a high price in tribute, sending the bulk of their wealth and even a fair portion of their food to the dragon's hoard. Since Grimbaskal's death, some villages have recovered, but the Bek'eni remain poor, with few luxuries, problems with hunger, and dwellings in poor repair. 
 

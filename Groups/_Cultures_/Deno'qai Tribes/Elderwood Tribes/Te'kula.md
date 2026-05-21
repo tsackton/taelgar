@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
 tags: [ancestry, status/check/ai]
-displayDefaults: {defArt: the, boxInfo: <partOf:1UA> <typeof:UA> based in <home:r>, wHome: ""}
+displayDefaults: {defArt: the, boxInfo: One of the <partOf:1UA>, wHome: ""}
+partOf: Elderwood Tribes
 typeOf: tribe
-partOf: Deno'qai
 whereabouts: Elderwood
 name: Te'kula
 dm_notes: important
@@ -11,8 +11,10 @@ dm_owner: tim
 ---
 # The Te'kula
 >[!info]+ Information  
-> A [[Deno'qai]] tribe based in the [[Elderwood]], [[Ainumarya]]  
+> One of the the [[Elderwood Tribes|Elderwood Tribes of the Deno'qai]]  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+ %% Written from DR (POV:: 1749) point of view %%
 
 The Te'kula are a [[Deno'qai]] tribe of the [[Elderwood]]. They are closely associated with the mystery of [[Rai]], the tanshi [[Aasimti]], and the years in which their village was hidden from [[Mezzar|Grimbaskal]].
 
