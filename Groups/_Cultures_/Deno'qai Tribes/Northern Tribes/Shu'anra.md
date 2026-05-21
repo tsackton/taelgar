@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [ancestry, status/check/ai]
+tags: [ancestry]
 displayDefaults: {defArt: the, boxInfo: One of the <partOf:1UA>, wHome: ""}
 name: Shu'anra
 typeOf: tribe
