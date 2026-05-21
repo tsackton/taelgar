@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [ancestry, status/check/ai]
+tags: [ancestry]
 displayDefaults: {defArt: the, boxInfo: <partOf:1UA> <typeof:UA> based in <home:r>, wHome: ""}
 typeOf: tribe
 partOf: Deno'qai
@@ -18,7 +18,7 @@ pronunciation: BEHK-en-ee
 
  %% Written from DR (POV:: 1749) point of view %%
 
-The Bek'eni are one of the major [[Deno'qai]] tribes based in the [[Elderwood]]. Historically, they were largely hunters, foresters, and trappers, extensively trading with the [[Baz'aku]], but under the sway of [[Mezzar]] they became deeply isolationist and mistrusting. Since the unmasking of [[Mezzar]] as the green dragon [[Mezzar|Grimbaskal]], and his death at the hands of the [[Dunmar Fellowship]], the Bek'eni have struggled to recover. 
+The Bek'eni are one of the major [[Deno'qai]] tribes based in the [[Elderwood]]. Historically, they were largely hunters, foresters, and trappers, extensively trading and intermarrying with the [[Baz'aku]], but under the sway of [[Mezzar]] they became deeply isolationist and mistrusting. Since the unmasking of [[Mezzar]] as the green dragon [[Mezzar|Grimbaskal]], and his death at the hands of the [[Dunmar Fellowship]], the Bek'eni have struggled to recover. 
 
 ## Territory and Settlements 
 
@@ -26,38 +26,31 @@ The Bek'eni occupy numerous small villages and family hamlets scattered across t
 
 During the days of [[Mezzar]]'s rule, the Bek'eni paid a high price in tribute, sending the bulk of their wealth and even a fair portion of their food to the dragon's hoard. Since Grimbaskal's death, some villages have recovered, but the Bek'eni remain poor, with few luxuries, problems with hunger, and dwellings in poor repair. 
 
-## Local Culture
+## Local Culture 
 
-The Bek'eni preserve a proud oral tradition that holds that their tribe long stood closest to the elves of [[Ainumarya]]. Their myths and tales speak of hidden elven ruins and old scars in the land where the forest does not return. These tales are old, predating [[Mezzar]], and many are recorded by [[Gnaeus]] in [[On the Lost People of the Forests]].
+The Bek'eni preserve a proud oral tradition that holds that their tribe long stood closest to the elves of [[Ainumarya]], that in the ancient days they dwelt in friendship and commerce with the great elven cities of the forest. Their myths and tales speak of hidden elven ruins and old scars in the land where the forest does not return. These tales are old, predating [[Mezzar]], and many are recorded by [[Gnaeus]] in [[On the Lost People of the Forests]].
 
+Under [[Mezzar]]'s rule, the Bek'eni grew deeply isolationist and distrustful of outsiders. Bek'eni rumor would cast the [[Baz'aku]] as collaborators who have turned away from tradition, and the deep-forest [[Te'kula]] as a people under a malign influence. 
 
----
+Though many Bek'eni are still traditionalists with a deep appreciation for ancient culture, the upheavals of [[Mezzar]]'s betrayal have caused much doubt and angst among some in the tribe.  
 
-The Bek'eni live primarily by hunting, trapping, and forestry, with only limited agriculture. Bek'eni tradition holds that the forest itself can shelter them from the reach of border towns and armies.
+## Recent History
 
-Historically, the Bek'eni traded and intermarried with the [[Baz'aku]], and maintained less contact with the towns of the [[Chasa River Valley]] than the river tribes did. 
-
-In recent memory, they have become markedly isolationist and distrustful of outsiders. Bek'eni rumor often casts the Baz'aku as collaborators who have turned away from tradition, and the deep-forest [[Te'kula]] as a people under a malign influence.
-
-They are known for their deep-forest settlements, hunting and forestry, and traditions that place special weight on the oldest and most enchanted reaches of the forest.
-
-The Bek'eni are a [[Deno'qai]] tribe of the deep [[Elderwood]]. They live primarily by hunting, trapping, and forestry, with only limited agriculture. Bek'eni tradition places special weight on the Elderwood's older and more enchanted reaches, and on the belief that the forest itself can shelter them from the reach of border towns and armies.
-
-Historically a tribe of hunters, trappers, and foresters, with only a little agriculture. Live fairly deep in the forest, near the stranger / more enchanted areas. Less contact with Chardon, and also less fear of invasion / conflict, as trust the forest to defend them. Once traded with Baz'aku extensively, with considerable intermarriage and flow of people.
- 
-In their lore, they tell of themselves as the tribe that was closest to the elves, that dwelt in friendship and commerce with the ancient elven cities of the forest. They are the traditionalists of the local Deno'qai.
- 
-Now, extremely isolationist, and increasingly doubtful of both the Baz'aku who are collaborationists who have turned on tradition, and the Te'kula, who are under the sway of some evil curse.
- 
-## Recent history
-
-In 1748 DR, the elf called [[Mezzar]] was unmasked at a Deno'qai god tree as the green dragon [[Mezzar|Grimbaskal]]. Grimbaskal was slain soon after, and the corruption that had spread through the southern Elderwood began to recede. News of Mezzar's deception was carried to the tribes in part through the work of [[Theba]], a former Bek'eni godcaller. The Bek'eni now reckon with the losses and divisions left behind by Mezzar's rule, including the disappearance of warriors taken into his service and the collapse of village authority built around him.
-
-For decades, the Bek'eni followed the green dragon [[Mezzar|Grimbaskal]], who posed as an elf under the name [[Mezzar]]. In 1748 DR he was exposed and slain.  
-
-AI note: [[Session 51 (DuFr)]] describes Mezzar as advising the Bek'eni for "the past 10 years", while [[Session 52 (DuFr)]] frames his wider influence as "over the past twenty years or more".
+For decades, the Bek'eni followed the green dragon [[Mezzar|Grimbaskal]], who posed as an elf under the name [[Mezzar]]. In 1748 DR, the elf called [[Mezzar]] was unmasked at a Deno'qai god tree as the green dragon [[Mezzar|Grimbaskal]] by the actions of the [[Dunmar Fellowship]]. Grimbaskal was slain soon after, and the corruption that had spread through the southern [[Elderwood]] began to recede. The Bek'eni now reckon with the losses and divisions left behind by Mezzar's rule, including the disappearance of warriors taken into his service and the collapse of village authority built around him.
 
 
+%%^Campaign:none%%
+
+Relevant Session notes:
+- [[Session 51 (DuFr)]]: The party met a Bek'eni patrol led by [[Zevi of the Bek'eni]] and was escorted to the village.
+- [[Session 51 (DuFr)]]: [[Zaro]] was chief of the village, [[Itar]] was Godcaller, and [[Theba]] was the former/disgraced Godcaller.
+- [[Session 51 (DuFr)]]: [[Mezzar]] had been advising the Bek'eni for about ten years, was expected soon, and had been taking villagers for "training."
+- [[Session 51 (DuFr)]]: [[Delwath]] was treated with high honor as an elf; [[Itar]] imitated elven style and knew little about the tanshi.
+- [[Session 52 (DuFr)]]: Mezzar was revealed as [[Mezzar|Grimbaskal]], and the Bek'eni were observed spreading out to hunt the party.
+
+%%^End%%
+
+%% *Preserving old DM notes for posterity*
 ## Interactions with Grimbaskal
  
 Grimbaskal goes among the Bek'eni as an elf named Mezzar, a survivor of the Blood Years who needs the help of the Bek'eni to go north and drive the evil out of his ancestral home. Takes warriors, trains them, they don't come back - but seen as an honor and Mezzar talks of their great deeds in the north.
@@ -86,21 +79,6 @@ If they end up here, may just stay to meet Mezzar - if they do, he will tell the
  
 However, should be one NPC, perhaps the Godcaller (or even better, the former Godcaller who has been "deposed" in favor of someone who now effectively worships Mezzar), who will warn them and could help them escape if needed, and even be their guide to the Te'kula.
 
-## AI Research Note
-*2026-05-20: Reviewed tribe-specific facts and source types before revision.*
+%%
 
-Session notes:
-- [[Session 51 (DuFr)]]: The party met a Bek'eni patrol led by [[Zevi of the Bek'eni]] and was escorted to the village.
-- [[Session 51 (DuFr)]]: [[Zaro]] was chief of the village, [[Itar]] was Godcaller, and [[Theba]] was the former/disgraced Godcaller.
-- [[Session 51 (DuFr)]]: [[Mezzar]] had been advising the Bek'eni for about ten years, was expected soon, and had been taking villagers for "training."
-- [[Session 51 (DuFr)]]: [[Delwath]] was treated with high honor as an elf; [[Itar]] imitated elven style and knew little about the tanshi.
-- [[Session 52 (DuFr)]]: Mezzar was revealed as [[Mezzar|Grimbaskal]], and the Bek'eni were observed spreading out to hunt the party.
 
-DM notes:
-- The Bek'eni are framed as traditionalists among the local Deno'qai, historically closest to the elves and old elven cities. Source: DM notes in this note.
-- Grimbaskal, as Mezzar, took tribute of beautiful things, used villagers as eyes and ears, and took warriors who did not return. Source: DM notes in this note.
-- Mezzar sent corrupted treants to guard the Bek'eni and deepened their isolation. Source: DM notes in this note.
-- Under Grimbaskal's influence, Bek'eni attacked intruders and brought captives to Mezzar. Source: DM notes in this note.
-- Some dissenters existed, but Mezzar's apparent power and protection made opposition difficult. Source: DM notes in this note.
-- Bek'eni villages follow a similar layout to Baz'aku villages but are poorer, hungrier, less decorated, and more poorly repaired. Source: DM notes in this note.
-%%^End%%
