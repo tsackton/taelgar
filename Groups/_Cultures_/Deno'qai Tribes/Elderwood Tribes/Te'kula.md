@@ -6,7 +6,7 @@ partOf: Elderwood Tribes
 typeOf: tribe
 whereabouts: Elderwood
 name: Te'kula
-dm_notes: important
+dm_notes: none
 dm_owner: tim
 ---
 # The Te'kula
@@ -16,9 +16,11 @@ dm_owner: tim
 
  %% Written from DR (POV:: 1749) point of view %%
 
-The Te'kula are a [[Deno'qai]] tribe of the [[Elderwood]]. They are closely associated with the mystery of [[Rai]], the tanshi [[Aasimti]], and the years in which their village was hidden from [[Mezzar|Grimbaskal]].
+The Te'kula are a [[Deno'qai]] tribe of the [[Elderwood]]. 
 
-## Territory
+They are closely associated with the mystery of [[Rai]], the tanshi [[Aasimti]], and the years in which their village was hidden from [[Mezzar|Grimbaskal]].
+
+## Territory and Settlements
 
 The Te'kula live in the [[Elderwood]]. In [[On the Lost People of the Forests]], [[Gnaeus]] places them in the heart of the Elderwood, near the source of the [[Kayan]].
 
