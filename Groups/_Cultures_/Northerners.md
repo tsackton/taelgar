@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [ancestry, status/check/mike]
+tags: [ancestry]
 name: Northerners
 aliases: [Northlander, Northerner]
 dm_notes: none
@@ -18,7 +18,7 @@ The Northerners are a broad family of peoples descended from the [[Historical Fr
 
 The Northerners left [[Hkar]] before the rise of the later urban, arcane, and pantheonic culture that produced [[Mos Numena]] and [[Drankorian Empire|Drankor]]. Their traditions preserve an older religious pattern centered on small local gods who intercede with the [[Divine Presence]]. They settled first along the western coast of Taelgar, spread northward along the western side of the [[Sentinel Range|Sentinels]], and later crossed the mountains into the highlands and forests of the north and east. By the time of [[The Downfall]], Northerner-descended peoples lived across parts of the west coast, the far north, and the highlands around the Sentinels. 
 
-After leaving Hkar, the Northerners had little sustained contact with their ancestral homeland. Their cultures developed in the west and north of Taelgar, often in marginal lands and in regions dominated by older non-human peoples.
+After leaving Hkar, the Northerners had little sustained contact with their ancestral homeland. Their cultures developed in the west and north of Taelgar, often in marginal lands and on the fringes of regions dominated by older non-human peoples.
 
 ## Religion
 _See more: [[Northern Folk Religions]]_
@@ -40,7 +40,7 @@ The Northerner languages were grouped by Drankorian scholars as the [[Languages#
 
 The [[Deno'qai]] are an ancient Northerner culture of the western forests and foothills of the [[Sentinel Range|Sentinels]], closely associated with [[Tanshi Worship]].
 
-The [[Zimka]] include an older highland strand that preserves Northerner religion and language, and a broader lowland strand shaped by contact with mariners, river traders, [[Drankorian Empire|Drankor]], and [[Sembara]]..
+The [[Zimka]] include an older highland strand that preserves Northerner religion and language, and a broader lowland strand shaped by contact with mariners, river traders, [[Drankorian Empire|Drankor]], and [[Sembara]].
 
 The [[Vargaldi]] are a Northerner-descended people of the [[Northern Green Sea]] and the great northern forests. They worship the [[Zariya]], speak a Northros language with Eastros influence, and are closely associated with animal-spirit magic.
 
@@ -74,7 +74,6 @@ Unresolved or uncertain points:
 - The degree of influence from elves, lizardfolk, dwarves, stoneborn, fey, and local sacred geography remains underdeveloped.
 - The role of ancestor or culture-hero intercession (ala Mawar) in the earliest northern tradition is unclear; it may be original, regional, or a later blended development.
 - Mawar should be treated in visible text as influenced by northern intercessory traditions, not as a settled Northerner-descended culture, until further details are decided.
-- [[Northerners Territory - DM Notes]] has encounter-ready notes, including names, border concerns, small-gods religion as "a version of the Kestavo", and a local leader named Hakar.
 
 ### AI Research Note
 *2026-05-20: Evidence-based facts and open issues gathered before revision.*
