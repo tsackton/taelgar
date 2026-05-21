@@ -10,7 +10,6 @@ gender: female
 died: 1583-02-14
 affiliations: 
 - {org: House of Sewick, type: primary}
-- {place: Breva, title: Queen, start: 1568}
 dm_notes: none
 dm_owner: none
 ---
@@ -22,11 +21,13 @@ dm_owner: none
 
 %% probably status/cleanup/text ??%%
 
-The twin sister of [[Elaine I]] and daughter of [[Reginald]], she was executed for treason after attempting to force her sister to abdicate he throne by magic.
+The twin sister of [[Elaine I]] and daughter of [[Reginald]], she was executed for treason after attempting to force her sister to abdicate he throne by magic. Her three children were allowed to live in exile: Wilhema and Eloise in [[Tollen]], and her youngest, Peregrin, in Chardon.
 
-Her three children were allowed to live in exile: Wilhema and Eloise in [[Tollen]], and her youngest, Peregrin, in Chardon.
+%%% 
 
-%%% Anne, with stronger ties to the Volta river valley, was proclaimed Queen of Breva 
+NOTE: the section below PREDATES invention of Breva around the Great Chasm adventure and is likely no longer accurate 
+
+Anne, with stronger ties to the Volta river valley, was proclaimed Queen of Breva 
 
 Some thoughts - I think it works relatively well to have Anne crowned Queen of Breva - the weakest and most closely aligned to Sembara of the highland kingdoms, but basically a weak queen always more interested in pursuing her dynastic claims in Sembara than in governing Breva. She is ultimately a tragic figure and the final geas attempt probably violated Brevan sensibilities quite dramatically, and there were revolts in country against her, as well. 
 

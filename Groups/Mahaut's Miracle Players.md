@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/check/mike]
+tags: [group]
 displayDefaults: {defArt: ""}
 dm_owner: mike
 dm_notes: important
