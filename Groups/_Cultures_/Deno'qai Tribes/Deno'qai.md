@@ -19,7 +19,7 @@ Deno'qai tradition traces their ancestry to the earliest human migrations from [
 
 "Deno'qai" names both a people and a broader religious-cultural tradition. In [[On the Lost People of the Forests]], the Chardonian scholar [[Gnaeus]] records a [[Baz'aku]] explanation that Deno'qai means "People of the Gods" in their own tongue, but whether this is true is unknown. 
 
-## Religion and Ritual
+## Religion and Rituals
 _See more: [[Tanshi Worship]]_
 
 The primary Deno'qai religious tradition is [[Tanshi Worship]]. The tanshi are minor divinities of the natural world, associated with forests, animals, rivers, stones, weather, hunting, and other small domains. The Deno'qai call on them to carry prayers to [[Divine Presence|Anida]], "the First and the Last," the Deno'qai name for the [[Divine Presence]]. 
@@ -44,6 +44,25 @@ Farther north, the [[Northern Tribes|Deno'qai communities of the Northern Sentin
 
 %%^Campaign:none%%
 
+## Vibes and Inspiration
+
+%% Mike comments 
+This seems fine to me, but from a world-building perspective the number and texture of Deno'qai tribes seems underdeveloped. Are tribes relatively large units, i.e. similar to a Plains tribe of Native Amercians, and plausibly there are only maybe 3-6 extant tribes? Or is the tribe a smaller unit, closer to a village or small collection of villages, indicating perhaps dozens or more tribes in several broad cultural bands? The article here isn't really clear on size and scope of tribes.
+
+A more formal "origins and settlement patterns" section might be useful.
+%%
+
+The concept of Deno'qai tribes is inspired in part by early Germanic peoples, and especially the way Roman writers described them, but with a greatly condensed linguistic framework for simplicity.
+
+Tribes are best thought of as roughly equivalent to something like coalitions, not ethnic groups, and on the level of something like states or provinces, kind of sub-kingdom-level organization, although there is no formal hierarchy beyond "tribe". The Chasa side of the Elderwood contains three distinct tribes, and the largely-depopulated far North (where a high fraction of the settled territory was destroyed by Cha'mutte) contains two distinct tribes. 
+
+But again, these are not ethnic groups per se, and likely are reformed and reforged in the wake of tragedy in various ways. 
+
+From a world-building point of view, the northern tribes and the Elderwood tribes are intended to be distinct cultural strands of the Deno'qai, perhaps like the distinction between coastal North Sea Germanic people and Rhine frontier Germanic people. In the real world these would be speaking different languages, for example. 
+
+There is clear space for at least two more cultural strands - one that is hinted at in Great Library material north of the Elderwood and south of the Northern Tribes, and one to the south/southwest of the Elderwood tribes, spilling towards the Myraeni Gap. 
+
+Within each cultural strand, there is plenty of space to invent new tribes. 
 ## Sources
 
 - [[Human Cultures of Taelgar]]
@@ -72,12 +91,3 @@ Farther north, the [[Northern Tribes|Deno'qai communities of the Northern Sentin
 - [[Deno'qai Lynx Shield]] and [[Deno'qai Scale Mail]] should remain isolated legendary examples, not the basis for a general material-culture section.
 - [[GL - Session 62 - DM Notes]] includes background on the Yo’nari, a proto‑Deno’qai tribe tied to [[Yeshara]] and [[Cairn Dor]]. See also: [[Session 63 Background]]
 - [[Grimbaskal's Hoard]] includes `%%SECRET[1]%%^End%%
-
-%%^End%%
-
-%% Mike comments 
-This seems fine to me, but from a world-building perspective the number and texture of Deno'qai tribes seems underdeveloped. Are tribes relatively large units, i.e. similar to a Plains tribe of Native Amercians, and plausibly there are only maybe 3-6 extant tribes? Or is the tribe a smaller unit, closer to a village or small collection of villages, indicating perhaps dozens or more tribes in several broad cultural bands? The article here isn't really clear on size and scope of tribes.
-
-A more formal "origins and settlement patterns" section might be useful.
-%%
-
