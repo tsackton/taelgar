@@ -38,6 +38,14 @@ Though many Bek'eni are still traditionalists with a deep appreciation for ancie
 
 For decades, the Bek'eni followed the green dragon [[Mezzar|Grimbaskal]], who posed as an elf under the name [[Mezzar]]. In 1748 DR, the elf called [[Mezzar]] was unmasked at a Deno'qai god tree as the green dragon [[Mezzar|Grimbaskal]] by the actions of the [[Dunmar Fellowship]]. Grimbaskal was slain soon after, and the corruption that had spread through the southern [[Elderwood]] began to recede. The Bek'eni now reckon with the losses and divisions left behind by Mezzar's rule, including the disappearance of warriors taken into his service and the collapse of village authority built around him.
 
+## Members of the Bek'eni Tribe
+```dataview
+LIST WITHOUT ID file.link
+FROM #person
+WHERE contains(affiliations, this.file.link) OR contains(affiliations.org, this.file.link) OR contains(affiliations, this.name) OR contains(affiliations.org, this.name)
+SORT file.name ASC
+```
+
 
 %%^Campaign:none%%
 

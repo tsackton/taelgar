@@ -16,7 +16,7 @@ The Shu'anra are one of the [[Northern Tribes|northern]] [[Deno'qai]] tribes. Li
 
 Less isolated than the [[Ko'zula]], a number of Shu'anra familes have drifted south over the years, some settling as far south as the [[Elderwood]]. 
 
-## Members of the Shu'anra
+## Members of the Shu'anra Tribe
 
 ```dataview
 TABLE WITHOUT ID file.link AS Person, affiliations AS Affiliations

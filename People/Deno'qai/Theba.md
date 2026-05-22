@@ -8,6 +8,8 @@ born: 1717
 species: human
 ancestry: Deno'qai
 gender: female
+affiliations: 
+- {org: Bek'eni, type: primary}
 whereabouts:
 - {type: home, end: 1748-09-06, location: Bek'eni village}
 - {type: away, start: 1748-09-07, end: 1748-09-09, location: Dunmar Fellowship }
@@ -17,11 +19,12 @@ dm_notes: important
 dm_owner: none
 ---
 # Theba
->[!info]+ Biographical Info
-> A [[Deno'qai]] [[Humans|human]] (she/her)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 22nd, 1748 in the [[~Bek'eni village~|Bek'eni village]] in the Elderwood %%^End%%
+>[!info]+ Biographical Info  
+> A [[Deno'qai]] [[Humans|human]] (she/her), of the [[Bek'eni]]  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 22th, 1748 in [[~Bek'eni village~|Bek'eni village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
 
 %% some information from DM notes; need to link character sheet; clean up whereabouts and campaign info%%
 

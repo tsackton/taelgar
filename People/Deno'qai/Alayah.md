@@ -7,6 +7,7 @@ born: 1725
 species: human
 ancestry: Deno'qai
 gender: female
+
 whereabouts:
 - {type: home,  location: Te'kula village}
 dm_owner: tim
@@ -14,8 +15,9 @@ dm_notes: color
 ---
 # Alayah
 >[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (she/her)  
+> A [[Deno'qai]] [[Humans|human]] (she/her), of the [[Te'kula]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The young Godcaller of the [[Te'kula]] tribe in the Elderwood. Dreamed of [[Rai]] and [[Kenzo]]. 
