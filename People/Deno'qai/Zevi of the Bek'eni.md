@@ -10,14 +10,16 @@ ancestry: Deno'qai
 gender: male
 died: 1748-09-06
 whereabouts: Elderwood
+affiliations: [{org: Bek'eni, type: primary}]
 activeYear: 1745
 dm_owner: none
 dm_notes: color
 ---
 # Zevi
 >[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (he/him)  
+> A [[Deno'qai]] [[Humans|human]] (he/him), of Be'k  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%needs campaign info%%

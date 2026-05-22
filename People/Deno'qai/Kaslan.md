@@ -6,6 +6,7 @@ born: 1699
 species: human
 ancestry: Deno'qai
 gender: male
+affiliations: [{org: Ko'zula, type: primary}]
 whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
 dm_owner: none
@@ -13,8 +14,9 @@ dm_notes: color
 ---
 # Kaslan
 >[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (he/him)  
+> A [[Deno'qai]] [[Humans|human]] (he/him), of the [[Ko'zula]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%  needs campaign info, some color notes to incorporate %%

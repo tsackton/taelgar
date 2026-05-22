@@ -38,6 +38,15 @@ More recently, under [[Mezzar|Grimbaskal]]'s influence, the Baz'aku began to see
 
 In 1748 DR, [[Mezzar|Grimbaskal]] was slain in the depths of the [[Elderwood]] by the [[Dunmar Fellowship]].   Among the Baz'aku, the end of Grimbaskal's influence has sharpened the debate over raiding and war, and strengthened those who argue for a return to trade and diplomacy along the [[Chasa River Valley]].
 
+## Members of the Baz'aku Tribe
+```dataview
+LIST WITHOUT ID file.link
+FROM #person
+WHERE contains(affiliations, this.file.link) OR contains(affiliations.org, this.file.link) OR contains(affiliations, this.name) OR contains(affiliations.org, this.name)
+SORT file.name ASC
+```
+
+
 
 %% *Preserving old DM notes for posterity*
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/cleanup/metadata]
 campaignInfo:
 - {campaign: GL, type: met, date: 1747-11-23}
 name: Loma
@@ -18,6 +18,8 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:GL%% Met by the [[Silver Tempests]] on November 23th, 1747 in [[Raha]], the [[Highveil Forest]] %%^End%%
+
+%% Raha does not yet have a tribal connection, but probably should %%
 
 Loma is a young Deno’qai scout from the village of [[Raha]], quick and quiet in the woods and familiar with paths along the Sentinel foothills. Locals say she is favored by [[Wenba]], and leaves small offerings before dangerous journeys. 
 

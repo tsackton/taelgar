@@ -8,12 +8,14 @@ species: human
 ancestry: Deno'qai
 gender: male
 whereabouts: Bek'eni village
+affiliations: [{org: Bek'eni, type: primary}]
 dm_owner: none
 dm_notes: color
 ---
 # Zaro
 >[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (he/him)  
+> A [[Deno'qai]] [[Humans|human]] (he/him), of Bek'ena  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on September 6th, 1748 in [[~Bek'eni village~|Bek'eni village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
 

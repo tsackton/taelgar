@@ -16,7 +16,7 @@ The Ko'zula are one of the [[Northern Tribes|northern]] [[Deno'qai]] tribes, in 
 
 The [[Forest of Nightmares]] lies on the western border of Ko'zula territory, and connections to the stories and history of the [[Great War]], including the lost tanshi known as the [[Meswati]], have long been part of their cultural and oral traditions. 
 
-## Members of the Ko'zula
+## Members of the Ko'zula Tribe
 ```dataview
 LIST WITHOUT ID file.link
 FROM #person

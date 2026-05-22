@@ -7,6 +7,7 @@ species: human
 ancestry: Deno'qai
 gender: male
 died: 1744
+affiliations: [{org: Te'kula, type: primary}]
 whereabouts:
 - {type: home, location: Te'kula village}
 dm_owner: none
@@ -14,8 +15,9 @@ dm_notes: color
 ---
 # Jordo
 >[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (he/him)  
+> A [[Deno'qai]] [[Humans|human]] (he/him), of the [[Te'kula]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% some minor color details to copy %%
