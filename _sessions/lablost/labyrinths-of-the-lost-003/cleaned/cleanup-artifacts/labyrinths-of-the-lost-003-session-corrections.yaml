@@ -1,0 +1,539 @@
+allReplacements:
+- from: a scale
+  to: Acescale
+  count: 21
+  headers:
+  - '[u0103 | 00:10:41.420-00:10:51.679 | DM]'
+  - '[u0111 | 00:11:25.910-00:11:35.779 | DM]'
+  - '[u0308 | 00:32:01.670-00:32:11.289 | Dilion]'
+  - '[u0314 | 00:32:34.990-00:32:40.000 | DM]'
+  - '[u0490 | 00:50:10.130-00:50:21.749 | Dilion]'
+  - '[u0859 | 01:26:17.810-01:26:30.389 | DM]'
+  - '[u1592 | 02:37:12.290-02:37:18.039 | DM]'
+  - '[u1751 | 02:52:04.140-02:52:08.070 | DM]'
+  - '[u1762 | 02:52:54.660-02:52:56.869 | DM]'
+  - '[u1799 | 02:56:57.790-02:57:09.869 | DM]'
+  - '[u1820 | 02:58:29.930-02:58:33.080 | DM]'
+  - '[u1833 | 02:59:26.560-02:59:33.020 | DM]'
+  - '[u1865 | 03:02:35.540-03:02:43.950 | Loria]'
+  - '[u1879 | 03:03:46.370-03:03:49.709 | DM]'
+  - '[u1895 | 03:05:14.250-03:05:17.679 | DM]'
+  - '[u1918 | 03:07:20.770-03:07:25.550 | Loria]'
+  - '[u2063 | 03:21:52.460-03:21:58.570 | Acescale]'
+  - '[u2072 | 03:22:39.380-03:22:46.769 | Dilion]'
+  - '[u2095 | 03:24:37.170-03:24:45.309 | Dilion]'
+  - '[u2155 | 03:30:33.140-03:30:42.729 | Acescale]'
+- from: Laura
+  to: Loria
+  count: 8
+  headers:
+  - '[u0128 | 00:12:57.350-00:13:04.550 | DM]'
+  - '[u0635 | 01:05:13.840-01:05:16.559 | DM]'
+  - '[u1169 | 01:54:11.670-01:54:20.790 | DM]'
+  - '[u1390 | 02:20:46.430-02:20:51.430 | DM]'
+  - '[u1524 | 02:31:21.760-02:31:23.119 | Unknown]'
+  - '[u1540 | 02:32:42.480-02:32:46.160 | DM]'
+  - '[u1691 | 02:47:05.100-02:47:07.269 | DM]'
+  - '[u2183 | 03:33:51.450-03:33:56.200 | Gaudin]'
+- from: Lauria
+  to: Loria
+  count: 8
+  headers:
+  - '[u0342 | 00:35:21.370-00:35:27.400 | Loria]'
+  - '[u0401 | 00:41:19.550-00:41:24.250 | DM]'
+  - '[u0444 | 00:45:12.720-00:45:21.560 | DM]'
+  - '[u1386 | 02:20:23.510-02:20:32.810 | DM]'
+  - '[u1415 | 02:23:03.620-02:23:07.159 | Loria]'
+  - '[u1595 | 02:37:33.900-02:37:38.230 | DM]'
+  - '[u1850 | 03:01:00.190-03:01:14.070 | DM]'
+  - '[u2172 | 03:32:50.720-03:32:56.120 | Loria]'
+- from: d. 8
+  to: d8
+  count: 7
+  headers:
+  - '[u0544 | 00:55:51.060-00:55:55.759 | Gaudin]'
+  - '[u1166 | 01:53:55.230-01:54:02.359 | DM]'
+  - '[u1248 | 02:01:35.700-02:01:40.470 | DM]'
+  - '[u1249 | 02:01:41.760-02:01:44.939 | DM]'
+  - '[u1712 | 02:48:58.300-02:49:08.569 | Loria]'
+  - '[u1784 | 02:55:21.460-02:55:25.199 | Dilion]'
+  - '[u1976 | 03:13:51.610-03:13:58.709 | Dilion]'
+- from: Gloria
+  to: Loria
+  count: 5
+  headers:
+  - '[u0370 | 00:38:05.610-00:38:08.360 | DM]'
+  - '[u0532 | 00:54:47.950-00:54:54.790 | DM]'
+  - '[u0615 | 01:03:14.720-01:03:18.610 | Loria]'
+  - '[u0708 | 01:12:28.330-01:12:32.179 | Gaudin]'
+  - '[u1203 | 01:57:22.140-01:57:27.670 | Loria]'
+- from: Gayden
+  to: Gaudin
+  count: 3
+  headers:
+  - '[u1233 | 01:59:54.290-02:00:05.860 | DM]'
+  - '[u1571 | 02:35:17.080-02:35:27.009 | Dilion]'
+  - '[u2159 | 03:30:55.470-03:31:04.999 | Gaudin]'
+- from: Laurie
+  to: Loria
+  count: 3
+  headers:
+  - '[u0334 | 00:34:47.360-00:34:52.370 | Gaudin]'
+  - '[u0586 | 01:00:25.880-01:00:30.989 | Loria]'
+  - '[u1947 | 03:10:15.560-03:10:30.589 | Dilion]'
+- from: got in
+  to: Gaudin
+  count: 3
+  headers:
+  - '[u0370 | 00:38:05.610-00:38:08.360 | DM]'
+  - '[u0469 | 00:47:24.190-00:47:29.669 | DM]'
+  - '[u0864 | 01:26:50.560-01:26:54.889 | Acescale]'
+- from: hob goblins
+  to: hobgoblins
+  count: 3
+  headers:
+  - '[u2128 | 03:27:33.860-03:27:39.530 | DM]'
+  - '[u2133 | 03:27:57.650-03:28:02.840 | DM]'
+  - '[u2138 | 03:28:13.910-03:28:23.510 | DM]'
+- from: 8 h
+  to: eight hours
+  count: 2
+  headers:
+  - '[u0481 | 00:49:01.440-00:49:20.590 | Dilion]'
+  - '[u1940 | 03:09:19.250-03:09:29.329 | DM]'
+- from: Dowden
+  to: Gaudin
+  count: 2
+  headers:
+  - '[u0346 | 00:36:00.050-00:36:08.779 | DM]'
+  - '[u0615 | 01:03:14.720-01:03:18.610 | Loria]'
+- from: Gadden
+  to: Gaudin
+  count: 2
+  headers:
+  - '[u1795 | 02:56:26.840-02:56:29.620 | Unknown]'
+  - '[u1850 | 03:01:00.190-03:01:14.070 | DM]'
+- from: Got in
+  to: Gaudin
+  count: 2
+  headers:
+  - '[u0011 | 00:00:59.620-00:01:05.510 | DM]'
+  - '[u0533 | 00:54:55.410-00:54:59.049 | DM]'
+- from: Primarkana
+  to: Prime Arcana
+  count: 2
+  headers:
+  - '[u2001 | 03:16:14.020-03:16:17.769 | DM]'
+  - '[u2049 | 03:20:43.670-03:20:50.910 | DM]'
+- from: manner
+  to: manor
+  count: 2
+  headers:
+  - '[u0028 | 00:02:59.150-00:03:01.740 | Acescale]'
+  - '[u2118 | 03:26:43.100-03:26:46.870 | DM]'
+- from: portion
+  to: potion
+  count: 2
+  headers:
+  - '[u1931 | 03:08:27.770-03:08:39.330 | DM]'
+- from: steam pop
+  to: steampup
+  count: 2
+  headers:
+  - '[u0081 | 00:08:23.930-00:08:36.640 | Dilion]'
+  - '[u0525 | 00:54:18.230-00:54:23.580 | Dilion]'
+- from: 1 h
+  to: one hour
+  count: 1
+  headers:
+  - '[u0481 | 00:49:01.440-00:49:20.590 | Dilion]'
+- from: A scale
+  to: Acescale
+  count: 1
+  headers:
+  - '[u1438 | 02:24:43.670-02:24:45.790 | DM]'
+- from: Aeska
+  to: Acescale
+  count: 1
+  headers:
+  - '[u0346 | 00:36:00.050-00:36:08.779 | DM]'
+- from: D. 8
+  to: d8
+  count: 1
+  headers:
+  - '[u1166 | 01:53:55.230-01:54:02.359 | DM]'
+- from: Dakar
+  to: Draconic
+  count: 1
+  headers:
+  - '[u2043 | 03:20:00.970-03:20:06.010 | DM]'
+- from: Dan
+  to: Gaudin
+  count: 1
+  headers:
+  - '[u1653 | 02:43:26.190-02:43:40.980 | Dilion]'
+- from: Ferdolli
+  to: Perdoli
+  count: 1
+  headers:
+  - '[u0005 | 00:00:18.840-00:00:30.219 | DM]'
+- from: Gaiden
+  to: Gaudin
+  count: 1
+  headers:
+  - '[u1810 | 02:57:50.630-02:57:52.699 | DM]'
+- from: Garden
+  to: Gaudin
+  count: 1
+  headers:
+  - '[u1096 | 01:47:49.050-01:48:16.849 | DM]'
+- from: Gavin
+  to: Gaudin
+  count: 1
+  headers:
+  - '[u0616 | 01:03:18.640-01:03:24.539 | Loria]'
+- from: Grayscale
+  to: Acescale
+  count: 1
+  headers:
+  - '[u1018 | 01:41:02.230-01:41:10.620 | Dilion]'
+- from: Pertola
+  to: Petrona
+  count: 1
+  headers:
+  - '[u0012 | 00:01:05.640-00:01:18.770 | DM]'
+- from: South Jack
+  to: Stealth check
+  count: 1
+  headers:
+  - '[u0317 | 00:33:09.440-00:33:21.590 | DM]'
+- from: ace scale
+  to: Acescale
+  count: 1
+  headers:
+  - '[u1761 | 02:52:51.430-02:52:54.140 | Acescale]'
+- from: aflang
+  to: a flank
+  count: 1
+  headers:
+  - '[u0719 | 01:13:05.610-01:13:08.259 | Unknown]'
+- from: amending
+  to: Mending
+  count: 1
+  headers:
+  - '[u0081 | 00:08:23.930-00:08:36.640 | Dilion]'
+- from: baselists
+  to: basilisks
+  count: 1
+  headers:
+  - '[u1995 | 03:15:19.740-03:15:25.559 | DM]'
+- from: basilis
+  to: basilisk
+  count: 1
+  headers:
+  - '[u1780 | 02:54:55.500-02:55:02.690 | Dilion]'
+- from: best list
+  to: basilisk
+  count: 1
+  headers:
+  - '[u0876 | 01:28:00.630-01:28:10.319 | Dilion]'
+- from: bulk
+  to: bolt -
+  count: 1
+  headers:
+  - '[u0031 | 00:03:14.790-00:03:16.859 | Unknown]'
+- from: dates
+  to: dice
+  count: 1
+  headers:
+  - '[u1967 | 03:12:48.810-03:12:53.280 | Loria]'
+- from: depth
+  to: death
+  count: 1
+  headers:
+  - '[u1905 | 03:06:02.700-03:06:13.090 | Dilion]'
+- from: dive
+  to: die
+  count: 1
+  headers:
+  - '[u1976 | 03:13:51.610-03:13:58.709 | Dilion]'
+- from: dornus
+  to: doorness
+  count: 1
+  headers:
+  - '[u0566 | 00:58:38.680-00:58:44.549 | Gaudin]'
+- from: engage
+  to: Gaudin
+  count: 1
+  headers:
+  - '[u1018 | 01:41:02.230-01:41:10.620 | Dilion]'
+- from: excise
+  to: excited
+  count: 1
+  headers:
+  - '[u1947 | 03:10:15.560-03:10:30.589 | Dilion]'
+- from: for Connect
+  to: Draconic
+  count: 1
+  headers:
+  - '[u2044 | 03:20:06.320-03:20:17.119 | DM]'
+- from: garden
+  to: Gaudin
+  count: 1
+  headers:
+  - '[u0444 | 00:45:12.720-00:45:21.560 | DM]'
+- from: garden
+  to: Gaudin,
+  count: 1
+  headers:
+  - '[u1213 | 01:58:12.830-01:58:19.890 | Acescale]'
+- from: grey, a greystone Sto
+  to: Grimstone - to - Acescale room -
+  count: 1
+  headers:
+  - '[u2147 | 03:29:04.000-03:29:19.259 | Dilion]'
+- from: grow
+  to: throw
+  count: 1
+  headers:
+  - '[u1647 | 02:42:30.240-02:42:32.660 | DM]'
+- from: jaconic
+  to: Draconic
+  count: 1
+  headers:
+  - '[u2042 | 03:19:53.970-03:19:58.770 | Dilion]'
+- from: mage hand
+  to: Mage Hand
+  count: 1
+  headers:
+  - '[u0566 | 00:58:38.680-00:58:44.549 | Gaudin]'
+- from: pet
+  to: pit
+  count: 1
+  headers:
+  - '[u0017 | 00:01:54.220-00:01:59.719 | DM]'
+- from: phone call
+  to: vault
+  count: 1
+  headers:
+  - '[u0055 | 00:05:43.990-00:05:49.259 | DM]'
+- from: places
+  to: dice
+  count: 1
+  headers:
+  - '[u1968 | 03:12:53.290-03:12:57.870 | DM]'
+- from: prime arcana
+  to: Prime Arcana
+  count: 1
+  headers:
+  - '[u1996 | 03:15:25.920-03:15:41.369 | DM]'
+- from: room scale as he.
+  to: essay?
+  count: 1
+  headers:
+  - '[u2147 | 03:29:04.000-03:29:19.259 | Dilion]'
+- from: row
+  to: 'on'
+  count: 1
+  headers:
+  - '[u1689 | 02:46:56.300-02:46:59.779 | Gaudin]'
+- from: spadrum
+  to: bedroom
+  count: 1
+  headers:
+  - '[u0003 | 00:00:11.620-00:00:13.710 | DM]'
+- from: steam Puck
+  to: steampup
+  count: 1
+  headers:
+  - '[u0096 | 00:09:59.550-00:10:15.420 | DM]'
+- from: steam cup
+  to: steampup
+  count: 1
+  headers:
+  - '[u0079 | 00:08:13.860-00:08:17.970 | Acescale]'
+- from: steam hub
+  to: steampup
+  count: 1
+  headers:
+  - '[u1854 | 03:01:30.110-03:01:33.640 | Dilion]'
+- from: steam pump
+  to: steampup
+  count: 1
+  headers:
+  - '[u0655 | 01:06:52.520-01:06:54.830 | Loria]'
+- from: steamp
+  to: steampup
+  count: 1
+  headers:
+  - '[u0091 | 00:09:41.050-00:09:44.530 | Loria]'
+- from: steamp up
+  to: steampup
+  count: 1
+  headers:
+  - '[u1689 | 02:46:56.300-02:46:59.779 | Gaudin]'
+- from: stolen
+  to: strolling
+  count: 1
+  headers:
+  - '[u0024 | 00:02:32.240-00:02:39.450 | Dilion]'
+- from: twod 4
+  to: 2d4
+  count: 1
+  headers:
+  - '[u1914 | 03:06:47.440-03:06:58.749 | DM]'
+- from: vocal
+  to: vault
+  count: 1
+  headers:
+  - '[u0053 | 00:05:28.320-00:05:34.850 | DM]'
+- from: whole ways
+  to: hallways
+  count: 1
+  headers:
+  - '[u1982 | 03:14:20.820-03:14:23.299 | Dilion]'
+repeatedReplacements:
+- from: a scale
+  to: Acescale
+  count: 21
+  headers:
+  - '[u0103 | 00:10:41.420-00:10:51.679 | DM]'
+  - '[u0111 | 00:11:25.910-00:11:35.779 | DM]'
+  - '[u0308 | 00:32:01.670-00:32:11.289 | Dilion]'
+  - '[u0314 | 00:32:34.990-00:32:40.000 | DM]'
+  - '[u0490 | 00:50:10.130-00:50:21.749 | Dilion]'
+  - '[u0859 | 01:26:17.810-01:26:30.389 | DM]'
+  - '[u1592 | 02:37:12.290-02:37:18.039 | DM]'
+  - '[u1751 | 02:52:04.140-02:52:08.070 | DM]'
+  - '[u1762 | 02:52:54.660-02:52:56.869 | DM]'
+  - '[u1799 | 02:56:57.790-02:57:09.869 | DM]'
+  - '[u1820 | 02:58:29.930-02:58:33.080 | DM]'
+  - '[u1833 | 02:59:26.560-02:59:33.020 | DM]'
+  - '[u1865 | 03:02:35.540-03:02:43.950 | Loria]'
+  - '[u1879 | 03:03:46.370-03:03:49.709 | DM]'
+  - '[u1895 | 03:05:14.250-03:05:17.679 | DM]'
+  - '[u1918 | 03:07:20.770-03:07:25.550 | Loria]'
+  - '[u2063 | 03:21:52.460-03:21:58.570 | Acescale]'
+  - '[u2072 | 03:22:39.380-03:22:46.769 | Dilion]'
+  - '[u2095 | 03:24:37.170-03:24:45.309 | Dilion]'
+  - '[u2155 | 03:30:33.140-03:30:42.729 | Acescale]'
+- from: Laura
+  to: Loria
+  count: 8
+  headers:
+  - '[u0128 | 00:12:57.350-00:13:04.550 | DM]'
+  - '[u0635 | 01:05:13.840-01:05:16.559 | DM]'
+  - '[u1169 | 01:54:11.670-01:54:20.790 | DM]'
+  - '[u1390 | 02:20:46.430-02:20:51.430 | DM]'
+  - '[u1524 | 02:31:21.760-02:31:23.119 | Unknown]'
+  - '[u1540 | 02:32:42.480-02:32:46.160 | DM]'
+  - '[u1691 | 02:47:05.100-02:47:07.269 | DM]'
+  - '[u2183 | 03:33:51.450-03:33:56.200 | Gaudin]'
+- from: Lauria
+  to: Loria
+  count: 8
+  headers:
+  - '[u0342 | 00:35:21.370-00:35:27.400 | Loria]'
+  - '[u0401 | 00:41:19.550-00:41:24.250 | DM]'
+  - '[u0444 | 00:45:12.720-00:45:21.560 | DM]'
+  - '[u1386 | 02:20:23.510-02:20:32.810 | DM]'
+  - '[u1415 | 02:23:03.620-02:23:07.159 | Loria]'
+  - '[u1595 | 02:37:33.900-02:37:38.230 | DM]'
+  - '[u1850 | 03:01:00.190-03:01:14.070 | DM]'
+  - '[u2172 | 03:32:50.720-03:32:56.120 | Loria]'
+- from: d. 8
+  to: d8
+  count: 7
+  headers:
+  - '[u0544 | 00:55:51.060-00:55:55.759 | Gaudin]'
+  - '[u1166 | 01:53:55.230-01:54:02.359 | DM]'
+  - '[u1248 | 02:01:35.700-02:01:40.470 | DM]'
+  - '[u1249 | 02:01:41.760-02:01:44.939 | DM]'
+  - '[u1712 | 02:48:58.300-02:49:08.569 | Loria]'
+  - '[u1784 | 02:55:21.460-02:55:25.199 | Dilion]'
+  - '[u1976 | 03:13:51.610-03:13:58.709 | Dilion]'
+- from: Gloria
+  to: Loria
+  count: 5
+  headers:
+  - '[u0370 | 00:38:05.610-00:38:08.360 | DM]'
+  - '[u0532 | 00:54:47.950-00:54:54.790 | DM]'
+  - '[u0615 | 01:03:14.720-01:03:18.610 | Loria]'
+  - '[u0708 | 01:12:28.330-01:12:32.179 | Gaudin]'
+  - '[u1203 | 01:57:22.140-01:57:27.670 | Loria]'
+- from: Gayden
+  to: Gaudin
+  count: 3
+  headers:
+  - '[u1233 | 01:59:54.290-02:00:05.860 | DM]'
+  - '[u1571 | 02:35:17.080-02:35:27.009 | Dilion]'
+  - '[u2159 | 03:30:55.470-03:31:04.999 | Gaudin]'
+- from: Laurie
+  to: Loria
+  count: 3
+  headers:
+  - '[u0334 | 00:34:47.360-00:34:52.370 | Gaudin]'
+  - '[u0586 | 01:00:25.880-01:00:30.989 | Loria]'
+  - '[u1947 | 03:10:15.560-03:10:30.589 | Dilion]'
+- from: got in
+  to: Gaudin
+  count: 3
+  headers:
+  - '[u0370 | 00:38:05.610-00:38:08.360 | DM]'
+  - '[u0469 | 00:47:24.190-00:47:29.669 | DM]'
+  - '[u0864 | 01:26:50.560-01:26:54.889 | Acescale]'
+- from: hob goblins
+  to: hobgoblins
+  count: 3
+  headers:
+  - '[u2128 | 03:27:33.860-03:27:39.530 | DM]'
+  - '[u2133 | 03:27:57.650-03:28:02.840 | DM]'
+  - '[u2138 | 03:28:13.910-03:28:23.510 | DM]'
+- from: 8 h
+  to: eight hours
+  count: 2
+  headers:
+  - '[u0481 | 00:49:01.440-00:49:20.590 | Dilion]'
+  - '[u1940 | 03:09:19.250-03:09:29.329 | DM]'
+- from: Dowden
+  to: Gaudin
+  count: 2
+  headers:
+  - '[u0346 | 00:36:00.050-00:36:08.779 | DM]'
+  - '[u0615 | 01:03:14.720-01:03:18.610 | Loria]'
+- from: Gadden
+  to: Gaudin
+  count: 2
+  headers:
+  - '[u1795 | 02:56:26.840-02:56:29.620 | Unknown]'
+  - '[u1850 | 03:01:00.190-03:01:14.070 | DM]'
+- from: Got in
+  to: Gaudin
+  count: 2
+  headers:
+  - '[u0011 | 00:00:59.620-00:01:05.510 | DM]'
+  - '[u0533 | 00:54:55.410-00:54:59.049 | DM]'
+- from: Primarkana
+  to: Prime Arcana
+  count: 2
+  headers:
+  - '[u2001 | 03:16:14.020-03:16:17.769 | DM]'
+  - '[u2049 | 03:20:43.670-03:20:50.910 | DM]'
+- from: manner
+  to: manor
+  count: 2
+  headers:
+  - '[u0028 | 00:02:59.150-00:03:01.740 | Acescale]'
+  - '[u2118 | 03:26:43.100-03:26:46.870 | DM]'
+- from: portion
+  to: potion
+  count: 2
+  headers:
+  - '[u1931 | 03:08:27.770-03:08:39.330 | DM]'
+- from: steam pop
+  to: steampup
+  count: 2
+  headers:
+  - '[u0081 | 00:08:23.930-00:08:36.640 | Dilion]'
+  - '[u0525 | 00:54:18.230-00:54:23.580 | Dilion]'
+unresolvedPhrases: []

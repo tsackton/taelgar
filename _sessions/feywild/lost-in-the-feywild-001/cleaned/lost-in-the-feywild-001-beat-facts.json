@@ -4,7 +4,7 @@
   "facts": [
     {
       "beatId": "B01",
-      "dateStart": "1750-10-03",
+      "dateStart": "1740-10-03",
       "dateEnd": null,
       "timeWindow": "evening",
       "shortSummary": "The session opens with the party camped west of Tollen as the players reintroduce the five adventurers and their relationships.",
@@ -31,7 +31,7 @@
     },
     {
       "beatId": "B02",
-      "dateStart": "1750-10-03",
+      "dateStart": "1740-10-03",
       "dateEnd": null,
       "timeWindow": "night",
       "shortSummary": "Alden asks the party about their previous job, reveals his love of Dandelion House, and is quietly investigated before the night watch.",
@@ -76,7 +76,7 @@
     },
     {
       "beatId": "B03",
-      "dateStart": "1750-10-04",
+      "dateStart": "1740-10-04",
       "dateEnd": null,
       "timeWindow": null,
       "shortSummary": "The party travels through a trackless old forest and reaches the overgrown grounds of Dandelion House at dusk.",
@@ -134,7 +134,7 @@
     },
     {
       "beatId": "B04",
-      "dateStart": "1750-10-04",
+      "dateStart": "1740-10-04",
       "dateEnd": null,
       "timeWindow": "evening",
       "shortSummary": "Inside Dandelion House, the party examines the preserved but unsettling manor and meets Lord Holda before dinner.",
@@ -188,7 +188,7 @@
     },
     {
       "beatId": "B05",
-      "dateStart": "1750-10-04",
+      "dateStart": "1740-10-04",
       "dateEnd": null,
       "timeWindow": "night",
       "shortSummary": "Lord Holda explains the ancient deed and hires the party to end an unknown treaty beyond a basement door.",
@@ -260,7 +260,7 @@
     },
     {
       "beatId": "B06",
-      "dateStart": "1750-10-04",
+      "dateStart": "1740-10-04",
       "dateEnd": null,
       "timeWindow": "night",
       "shortSummary": "After Holda leaves, the party debates the suspicious bargain, prepares for rest, and decides to see what lies below.",
@@ -325,7 +325,7 @@
     },
     {
       "beatId": "B07",
-      "dateStart": "1750-10-05",
+      "dateStart": "1740-10-05",
       "dateEnd": null,
       "timeWindow": "dawn",
       "shortSummary": "Before dawn, the party descends below Dandelion House, enters a root tunnel, and is sealed in as Tarek realizes the contract's language is wrong.",

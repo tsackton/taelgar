@@ -4,28 +4,28 @@
       "sessionRoot": "dunmar-frontier",
       "aliases": ["dufr"],
       "campaignRoot": "Campaigns/Dunmari Frontier Campaign",
-      "notePattern": "Dunmar Frontier {session_padded}.md",
+      "notePattern": "Session Notes/Session {session} (DuFr).md",
       "defaultTemplate": "composable-session-note.md"
     },
     "addermarch": {
       "sessionRoot": "addermarch",
       "aliases": ["adma"],
       "campaignRoot": "Campaigns/Addermarch Campaign",
-      "notePattern": "Addermarch {session_padded}.md",
+      "notePattern": "Session Notes/Addermarch - Session {session_padded}.md",
       "defaultTemplate": "composable-session-note.md"
     },
     "cleenseau": {
       "sessionRoot": "cleenseau",
       "aliases": ["clee"],
       "campaignRoot": "Campaigns/Cleenseau Campaign",
-      "notePattern": "Cleenseau {session_padded}.md",
+      "notePattern": "Sessions/Cleenseau - Session {session_padded}.md",
       "defaultTemplate": "composable-session-note.md"
     },
     "into-the-chasm": {
       "sessionRoot": "into-the-chasm",
       "aliases": ["itc"],
       "campaignRoot": "Campaigns/One Shots/Into the Chasm",
-      "notePattern": "Into the Chasm - Episode{session_padded}.md",
+      "notePattern": "Into the Chasm - Episode {session_padded}.md",
       "defaultTemplate": "into-the-chasm-template.md"
     },
     "labyrinths-of-the-lost": {
@@ -34,6 +34,13 @@
       "campaignRoot": "Campaigns/One Shots/Labyrinths of the Lost",
       "notePattern": "Labyrinths of the Lost - Session {session}.md",
       "defaultTemplate": "lablost-template.md"
+    },
+    "lost-in-the-feywild": {
+      "sessionRoot": "feywild",
+      "aliases": ["litf", "feywild"],
+      "campaignRoot": "Campaigns/One Shots/Lost in the Feywild",
+      "notePattern": "Lost in the Feywild - Episode {session_padded}.md",
+      "defaultTemplate": "composable-session-note.md"
     },
     "mawar-adventures": {
       "sessionRoot": "mawar",

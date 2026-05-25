@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Night Rest and Route Planning",
+      "startUid": "u0001",
+      "endUid": "u0165",
+      "lineCount": 165,
+      "dateStart": "1748-10-17",
+      "dateEnd": "1748-10-18",
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The session opens at sunset with the party settling in for a long rest, then advances through pre-dawn recovery and planning before the group commits to moving toward the chapel route.",
+      "dateEvidence": [
+        "session.yaml gives drStart 1748-10-17 and drEnd 1748-10-18.",
+        "u0001 says the sun is setting; u0061-u0068 move the party into pre-dawn after sleeping."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Steampup Distraction",
+      "startUid": "u0166",
+      "endUid": "u0360",
+      "lineCount": 195,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party leaves the shelter, crosses the overgrown vineyard, spots the patrolling hobgoblin, and sends the steampup away as a noisy distraction before cutting into the formal garden.",
+      "dateEvidence": [
+        "This continues directly after the pre-dawn wakeup in u0061-u0068.",
+        "u0166 starts the stealth check as the group heads out after the long rest."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Chapel Trapdoor",
+      "startUid": "u0361",
+      "endUid": "u0640",
+      "lineCount": 280,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The group moves through the formal garden, sees the petrified Medusa, reaches the ruined chapel, finds the flower-covered trapdoor, and prepares grease and snare defenses as a pursuer reaches the entrance.",
+      "dateEvidence": [
+        "The beat is continuous with the dawn crossing from beat-002.",
+        "u0393-u0408 place the party at the chapel after the garden crossing."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Crypt Ambushes",
+      "startUid": "u0641",
+      "endUid": "u0888",
+      "lineCount": 248,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The trapdoor opens and the prepared grease-and-snare plan becomes two quick crypt ambushes against first a smokebinder and then a second hobgoblin, ending once the ring no longer detects enemies nearby.",
+      "dateEvidence": [
+        "The combat begins immediately after the trap setup in beat-003.",
+        "u0886-u0888 close the fight aftermath with the area quiet and Gaudin's ring no longer glowing."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Hidden Archive",
+      "startUid": "u0889",
+      "endUid": "u1208",
+      "lineCount": 320,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "After the ambushes, the party searches the crypt, finds treasure and a secret tunnel, follows it under the manor, reaches the hidden archive, investigates the desk and bookcases, and chooses to take a short rest before opening the secret bookcase.",
+      "dateEvidence": [
+        "This follows the post-long-rest morning established at u0061-u0068.",
+        "u1206-u1208 explicitly move into a short rest after the archive investigation."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Basilisk Courtyard",
+      "startUid": "u1209",
+      "endUid": "u1435",
+      "lineCount": 227,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "After the rest, the party scouts through the bookcase passage, hears insects and goblins, studies the chained courtyard creature, accidentally confirms it is a basilisk, and debates ways to use or defeat it.",
+      "dateEvidence": [
+        "This beat begins immediately after the short-rest break in u1206-u1208.",
+        "The session manifest keeps the day's action on 1748-10-18."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Ghost and Locket",
+      "startUid": "u1436",
+      "endUid": "u1731",
+      "lineCount": 296,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The focus shifts from the basilisk to exploring nearby rooms, reading the pirate papers, finding the locket, and using it to speak with the ghost, who reveals Grimstone's lair beneath the manor.",
+      "dateEvidence": [
+        "This continues the same post-rest morning exploration from beat-006.",
+        "u1588-u1590 mark the final roleplay scene with the ghost before the session close."
+      ]
+    }
+  ]
+}

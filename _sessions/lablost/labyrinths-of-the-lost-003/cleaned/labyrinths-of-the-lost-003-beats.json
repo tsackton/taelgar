@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Bolt-Hole and Shades",
+      "startUid": "u0001",
+      "endUid": "u0284",
+      "lineCount": 284,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The session opens with the party reorienting under the manor, exploring the hidden bolt-hole and dark cavern, and planning how to get past the shades before the distraction plan begins.",
+      "dateEvidence": [
+        "session.yaml gives drStart 1748-10-18 and drEnd 1748-10-18.",
+        "u0675-u0684 later says the group descended in the mid-morning and that it is about 1:30 after the short rest."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Shade Ambush",
+      "startUid": "u0285",
+      "endUid": "u0560",
+      "lineCount": 276,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The party turns the light-object idea into a distraction, descends into the cavern, fights the shades and shadows, searches the burned remains, and completes a short rest before returning to the door.",
+      "dateEvidence": [
+        "The beat continues directly from the opening exploration on 1748-10-18.",
+        "u0558-u0560 move the group back to the cavern door after the short rest."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Guard Bluff",
+      "startUid": "u0561",
+      "endUid": "u0847",
+      "lineCount": 287,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party opens the strange door, scouts the worked caverns, encounters the human guard, and survives Gaudin's deception and the steampup's brush with petrification before the guard walks away.",
+      "dateEvidence": [
+        "The beat follows the short rest on 1748-10-18.",
+        "u0675-u0684 place the action around 1:30 in the afternoon."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Luring the Bruiser",
+      "startUid": "u0848",
+      "endUid": "u1263",
+      "lineCount": 416,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The party searches the guard's crates, tries to lure Grimstone with a basilisk emergency, pivots when the guard returns, and ambushes him after a failed second bluff.",
+      "dateEvidence": [
+        "This beat continues the afternoon sequence established at u0675-u0684.",
+        "u1255-u1263 close the scene with the party back at the crossroads and taking a washroom break before planning the lab attack."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Planning the Lab Assault",
+      "startUid": "u1264",
+      "endUid": "u1417",
+      "lineCount": 154,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "After the break, the party decides how to confront Grimstone, sends invisible Loria ahead, and reaches initiative as Grimstone notices the intrusion.",
+      "dateEvidence": [
+        "This follows immediately after the afternoon guard ambush and washroom break.",
+        "u1407-u1417 are the initiative setup before the first combat action begins."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Grimstone and Stone Swarm",
+      "startUid": "u1418",
+      "endUid": "u1850",
+      "lineCount": 433,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The Grimstone fight plays out, including potion grenades, stone spiders, a stone wasp, Acescale's petrification scare, Loria killing Grimstone, and the final smashed constructs.",
+      "dateEvidence": [
+        "The beat begins with the combat already in initiative after u1407-u1417.",
+        "u1850 ends the fight by resolving the remaining damage against the last stone spiders."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Laboratory Spoils",
+      "startUid": "u1851",
+      "endUid": "u2114",
+      "lineCount": 264,
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "With Grimstone defeated, the party searches the alchemical lab and side rooms, identifies potions and treasure, finds Pikeia and the chests, and backs away from the mimic.",
+      "dateEvidence": [
+        "The beat starts immediately after the Grimstone combat on 1748-10-18.",
+        "u1955 explicitly places the search at about 2 in the afternoon."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Escape and Epilogues",
+      "startUid": "u2115",
+      "endUid": "u2192",
+      "lineCount": 78,
+      "dateStart": "1748-10-19",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "A day-transition montage carries the party through rest, early-morning escape from the manor, road farewells, and character epilogues.",
+      "dateEvidence": [
+        "u1960-u1965 discuss resting until the early morning before leaving.",
+        "u2115-u2118 says the party rests, recovers, and finds itself early in the morning creeping out before anyone is awake."
+      ]
+    }
+  ]
+}

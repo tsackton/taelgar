@@ -4,7 +4,7 @@ scope: session
 campaign: Lost in the Feywild
 sessionNumber: 1
 realWorldDate: 2026-05-14
-drStart: &id001 1750-10-03
+drStart: &id001 1740-10-03
 drEnd: *id001
 drStartTime: null
 drEndTime: null

@@ -6,7 +6,7 @@
 ## Campfire Introductions
 *B01*
 
-**Date**: 1750-10-03
+**Date**: 1740-10-03
 **Time Window**: evening
 **Combat**: no
 **Short Summary**: The session opens with the party camped west of Tollen as the players reintroduce the five adventurers and their relationships.
@@ -22,7 +22,7 @@
 ## Alden Asks About Last Job
 *B02*
 
-**Date**: 1750-10-03
+**Date**: 1740-10-03
 **Time Window**: night
 **Combat**: no
 **Short Summary**: Alden asks the party about their previous job, reveals his love of Dandelion House, and is quietly investigated before the night watch.
@@ -41,7 +41,7 @@
 ## Road To Dandelion House
 *B03*
 
-**Date**: 1750-10-04
+**Date**: 1740-10-04
 **Time Window**: unknown
 **Combat**: no
 **Short Summary**: The party travels through a trackless old forest and reaches the overgrown grounds of Dandelion House at dusk.
@@ -62,7 +62,7 @@
 ## Inside The Manor
 *B04*
 
-**Date**: 1750-10-04
+**Date**: 1740-10-04
 **Time Window**: evening
 **Combat**: no
 **Short Summary**: Inside Dandelion House, the party examines the preserved but unsettling manor and meets Lord Holda before dinner.
@@ -83,7 +83,7 @@
 ## Holda Explains The Contract
 *B05*
 
-**Date**: 1750-10-04
+**Date**: 1740-10-04
 **Time Window**: night
 **Combat**: no
 **Short Summary**: Lord Holda explains the ancient deed and hires the party to end an unknown treaty beyond a basement door.
@@ -107,7 +107,7 @@
 ## Deal And Nighttime Doubts
 *B06*
 
-**Date**: 1750-10-04
+**Date**: 1740-10-04
 **Time Window**: night
 **Combat**: no
 **Short Summary**: After Holda leaves, the party debates the suspicious bargain, prepares for rest, and decides to see what lies below.
@@ -130,7 +130,7 @@
 ## Into The Root Tunnel
 *B07*
 
-**Date**: 1750-10-05
+**Date**: 1740-10-05
 **Time Window**: dawn
 **Combat**: no
 **Short Summary**: Before dawn, the party descends below Dandelion House, enters a root tunnel, and is sealed in as Tarek realizes the contract's language is wrong.
