@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Great Library
-DR: 1748-01-06
+DR: 1747-12-24
 DR_end: 1748-08-25
 name: Chronicles of the Silver Tempests Ascendant
 ---

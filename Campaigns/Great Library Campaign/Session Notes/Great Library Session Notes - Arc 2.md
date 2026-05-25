@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Great Library
-DR: 1747-09-15
+DR: 1747-07-29
 DR_end: 1747-10-06
 name: Chronicles of the War Against Grumella
 ---
