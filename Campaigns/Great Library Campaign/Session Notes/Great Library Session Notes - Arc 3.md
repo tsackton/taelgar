@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Great Library
-DR: 1747-11-10
+DR: 1747-10-07
 DR_end: 1747-12-24
 name: Chronicles of the Quest to Defeat the Cursed Cold
 ---

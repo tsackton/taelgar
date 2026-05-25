@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta]
+tags: [meta, status/check/ai]
 name: Campaign Session Timeline
 excludePublish: ["all"]
 ---
 # Campaign Session Timeline
 
 ```dataviewjs
+const { DateManager } = customJS;
+
 const frontmatterFor = page => {
   const file = app.vault.getAbstractFileByPath(page.file.path);
   return app.metadataCache.getFileCache(file)?.frontmatter ?? {};
@@ -23,22 +25,28 @@ const hasSessionNoteTag = frontmatter => {
     .includes("session-note");
 };
 
-const toDate = value => {
+const normalizeDR = (value, isEnd) => {
   if (value == null || value === "") return null;
-  if (value.toMillis && value.toFormat) return value;
-  if (value instanceof Date) return dv.date(value.toISOString().slice(0, 10));
-
-  const text = String(value).trim();
-  const match = text.match(/^(\d{4})(?:-(\d{1,2})(?:-(\d{1,2}))?)?$/);
-  if (!match) return null;
-
-  const year = match[1];
-  const month = (match[2] ?? "01").padStart(2, "0");
-  const day = (match[3] ?? "01").padStart(2, "0");
-  return dv.date(`${year}-${month}-${day}`);
+  if (value.isNormalizedDate) return value;
+  if (value instanceof Date) value = value.toISOString().slice(0, 10);
+  if (value.toISODate) value = value.toISODate();
+  return DateManager.normalizeDate(value, isEnd) ?? null;
 };
 
-const fmt = date => date ? date.toFormat("yyyy-MM-dd") : "";
+const formatRealWorldDate = value => {
+  if (value == null || value === "") return "";
+  if (value instanceof Date) return window.moment(value).format("dddd, MMMM Do, YYYY");
+  if (value.toJSDate) return window.moment(value.toJSDate()).format("dddd, MMMM Do, YYYY");
+  if (value.toISODate) return window.moment(value.toISODate(), "YYYY-MM-DD").format("dddd, MMMM Do, YYYY");
+  const match = String(value).trim().match(/^(\d{4})-(\d{1,2})-(\d{1,2})$/);
+  if (!match) return String(value);
+  return window.moment(
+    `${match[1]}-${match[2].padStart(2, "0")}-${match[3].padStart(2, "0")}`,
+    "YYYY-MM-DD"
+  ).format("dddd, MMMM Do, YYYY");
+};
+
+const fmtDR = date => date?.display ?? "";
 const fmtList = value => asArray(value).map(String).join(", ");
 const fmtSessionNumber = value => value == null ? "" : value;
 const sessionSortValue = value => value == null || value === "" ? Number.MAX_SAFE_INTEGER : Number(value);
@@ -49,8 +57,8 @@ const sessions = dv.pages('"Campaigns"')
   .filter(({ frontmatter }) => hasSessionNoteTag(frontmatter))
   .filter(({ frontmatter }) => frontmatter.campaign && frontmatter.DR)
   .map(({ page, frontmatter }) => {
-    const start = toDate(frontmatter.DR);
-    const explicitEnd = toDate(frontmatter.DR_end);
+    const start = normalizeDR(frontmatter.DR, false);
+    const explicitEnd = normalizeDR(frontmatter.DR_end, true);
 
     return {
       page,
@@ -59,6 +67,7 @@ const sessions = dv.pages('"Campaigns"')
       start,
       end: explicitEnd ?? start,
       hasExplicitEnd: explicitEnd != null,
+      realWorldDate: formatRealWorldDate(frontmatter.realWorldDate),
       players: fmtList(frontmatter.players)
     };
   })
@@ -70,14 +79,14 @@ const latestByCampaign = new Map();
 
 for (const session of sessions) {
   const current = latestByCampaign.get(session.campaign);
-  const sessionEnd = session.end.toMillis();
-  const currentEnd = current?.end.toMillis() ?? -Infinity;
+  const sessionEnd = session.end.sort;
+  const currentEnd = current?.end.sort ?? -Infinity;
 
   if (
     !current ||
     sessionEnd > currentEnd ||
-    (sessionEnd === currentEnd && session.start.toMillis() > current.start.toMillis()) ||
-    (sessionEnd === currentEnd && session.start.toMillis() === current.start.toMillis() &&
+    (sessionEnd === currentEnd && session.start.sort > current.start.sort) ||
+    (sessionEnd === currentEnd && session.start.sort === current.start.sort &&
       sessionSortValue(session.sessionNumber) > sessionSortValue(current.sessionNumber))
   ) {
     latestByCampaign.set(session.campaign, session);
@@ -85,15 +94,16 @@ for (const session of sessions) {
 }
 
 dv.table(
-  ["Campaign", "Current DR", "Latest Session"],
+  ["Campaign", "Current Date", "Real World Date", "Latest Session"],
   [...latestByCampaign.values()]
     .sort((a, b) =>
-      b.end.toMillis() - a.end.toMillis() ||
+      b.end.sort - a.end.sort ||
       String(a.campaign).localeCompare(String(b.campaign))
     )
     .map(session => [
       session.campaign,
-      fmt(session.end),
+      fmtDR(session.end),
+      session.realWorldDate,
       session.page.file.link
     ])
 );
@@ -101,18 +111,18 @@ dv.table(
 dv.header(2, "Campaign Timeline");
 
 dv.table(
-  ["DR Start", "DR End", "Campaign", "#", "Players", "Session"],
+  ["Start", "End", "Campaign", "#", "Players", "Session"],
   sessions
     .sort((a, b) =>
-      a.start.toMillis() - b.start.toMillis() ||
-      a.end.toMillis() - b.end.toMillis() ||
+      a.start.sort - b.start.sort ||
+      a.end.sort - b.end.sort ||
       String(a.campaign).localeCompare(String(b.campaign)) ||
       sessionSortValue(a.sessionNumber) - sessionSortValue(b.sessionNumber) ||
       String(a.page.file.name).localeCompare(String(b.page.file.name))
     )
     .map(session => [
-      fmt(session.start),
-      session.hasExplicitEnd ? fmt(session.end) : "",
+      fmtDR(session.start),
+      fmtDR(session.end),
       session.campaign,
       fmtSessionNumber(session.sessionNumber),
       session.players,
