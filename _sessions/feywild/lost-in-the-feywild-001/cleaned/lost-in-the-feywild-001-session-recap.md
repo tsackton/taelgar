@@ -13,17 +13,17 @@ tags: [status/recap-review]
 - Campaign: Lost in the Feywild
 - Scope: session
 - Session Number: 1
-- DR Date: 1750-10-03
+- DR Date: 1740-10-03
 - Real Date: 2026-05-14
 - DM: David Schwartz
 - PCs: Cato Min, Edric, Tarek, Ayveen, Txarro
 
 ## Timeline
 
-### Oct 3rd, 1750 (evening)
+### Oct 3rd, 1740 (evening)
 
 - Timeline Segment: timeline-001
-- Timeline Key: (DR:: 1750-10-03), evening
+- Timeline Key: (DR:: 1740-10-03), evening
 - Resolution: part-of-day
 - Beat IDs: B01
 - Locations: Old wood west of Tollen
@@ -38,10 +38,10 @@ The party camps west of Tollen with Alden.
 #### Long
 The party is traveling west from Tollen with Alden after accepting a job to inspect a minor lord's new property. Around the fire, the five adventurers reintroduce themselves and recall how they became a band of misfits.
 
-### Oct 3rd, 1750 (night)
+### Oct 3rd, 1740 (night)
 
 - Timeline Segment: timeline-002
-- Timeline Key: (DR:: 1750-10-03), night
+- Timeline Key: (DR:: 1740-10-03), night
 - Resolution: part-of-day
 - Beat IDs: B02
 - Locations: Old wood west of Tollen
@@ -56,10 +56,10 @@ Alden asks about the party's last job.
 #### Long
 Alden draws out stories of the party's previous recovery job against an ettin. He speaks rapturously about Dandelion House, Cato reads his surface thoughts, and the night passes under watch.
 
-### Oct 4th, 1750
+### Oct 4th, 1740
 
 - Timeline Segment: timeline-003
-- Timeline Key: (DR:: 1750-10-04)
+- Timeline Key: (DR:: 1740-10-04)
 - Resolution: day
 - Beat IDs: B03
 - Locations: old wood west of Tollen, Dandelion House grounds
@@ -74,10 +74,10 @@ Alden leads the party to Dandelion House.
 #### Long
 The party follows Alden through old, increasingly trackless forest as wildlife falls silent. By dusk, they reach the overgrown grounds of Dandelion House, where Colden takes Moss Foot and Alden warns them to flatter Lord Holda.
 
-### Oct 4th, 1750 (evening)
+### Oct 4th, 1740 (evening)
 
 - Timeline Segment: timeline-004
-- Timeline Key: (DR:: 1750-10-04), evening
+- Timeline Key: (DR:: 1740-10-04), evening
 - Resolution: part-of-day
 - Beat IDs: B04
 - Locations: Dandelion House
@@ -92,10 +92,10 @@ The party enters Dandelion House and meets Lord Holda.
 #### Long
 Inside the manor, the party finds dust, magical preservation, garden tapestries, and no nearby fey or undead. Alden presents them to scarred Lord Holda, who brings them down to the kitchen for dinner.
 
-### Oct 4th, 1750 (night)
+### Oct 4th, 1740 (night)
 
 - Timeline Segment: timeline-005
-- Timeline Key: (DR:: 1750-10-04), night
+- Timeline Key: (DR:: 1740-10-04), night
 - Resolution: part-of-day
 - Beat IDs: B05, B06
 - Locations: Dandelion House
@@ -110,10 +110,10 @@ Lord Holda hires the party to end a hidden treaty.
 #### Long
 Holda explains that an ancient deed grants him Dandelion House only if he passes through a basement door and convinces an unknown lord to end a long-held treaty. He failed, offers the party half the treasure to try for him, and the party debates the bargain before resting.
 
-### Oct 5th, 1750 (dawn)
+### Oct 5th, 1740 (dawn)
 
 - Timeline Segment: timeline-006
-- Timeline Key: (DR:: 1750-10-05), dawn
+- Timeline Key: (DR:: 1740-10-05), dawn
 - Resolution: part-of-day
 - Beat IDs: B07
 - Locations: guest quarters, root tunnel beneath Dandelion House
@@ -134,7 +134,7 @@ Before dawn, Alden leads the party below the manor to a root-covered cellar wher
 
 - Kind: beat
 - Beat IDs: B01
-- Date: 1750-10-03
+- Date: 1740-10-03
 - Time: evening
 - Source Range: u0001 -> u0442
 - Locations: Old wood west of Tollen
@@ -156,7 +156,7 @@ The group is traveling west from Tollen with Alden after being recruited to insp
 
 - Kind: beat
 - Beat IDs: B02
-- Date: 1750-10-03
+- Date: 1740-10-03
 - Time: night
 - Source Range: u0443 -> u0698
 - Locations: Old wood west of Tollen
@@ -178,7 +178,7 @@ Alden prompts the party to recount the prior recovery job: old books, goblins, a
 
 - Kind: beat
 - Beat IDs: B03
-- Date: 1750-10-04
+- Date: 1740-10-04
 - Time: unknown
 - Source Range: u0699 -> u1129
 - Locations: old wood west of Tollen, Dandelion House grounds
@@ -200,7 +200,7 @@ Morning brings a long march through old forest, with Alden clearly moving toward
 
 - Kind: beat
 - Beat IDs: B04
-- Date: 1750-10-04
+- Date: 1740-10-04
 - Time: evening
 - Source Range: u1130 -> u1415
 - Locations: Dandelion House
@@ -222,7 +222,7 @@ They enter Dandelion House and find an immense, dusty interior whose grandeur ha
 
 - Kind: beat
 - Beat IDs: B05
-- Date: 1750-10-04
+- Date: 1740-10-04
 - Time: night
 - Source Range: u1416 -> u1832
 - Locations: Dandelion House
@@ -244,7 +244,7 @@ Over dinner, Holda tells the story of a bitter late-career victory over a young 
 
 - Kind: beat
 - Beat IDs: B06
-- Date: 1750-10-04
+- Date: 1740-10-04
 - Time: night
 - Source Range: u1833 -> u2010
 - Locations: Dandelion House
@@ -266,7 +266,7 @@ After Holda leaves them, Cato remains thrilled by the possibility of enormous we
 
 - Kind: beat
 - Beat IDs: B07
-- Date: 1750-10-05
+- Date: 1740-10-05
 - Time: dawn
 - Source Range: u2011 -> u2156
 - Locations: guest quarters, root tunnel beneath Dandelion House
@@ -289,18 +289,18 @@ Before dawn, the clock wakes them and Alden collects them from their rooms, lead
 ### NPCs
 
 - Alden (met): guide and agent for the minor lord
-  - Old wood west of Tollen, 1750-10-03
-  - old wood west of Tollen -> Dandelion House grounds, 1750-10-04
-  - Dandelion House, 1750-10-04
-  - guest quarters -> root tunnel beneath Dandelion House, 1750-10-05
+  - Old wood west of Tollen, 1740-10-03
+  - old wood west of Tollen -> Dandelion House grounds, 1740-10-04
+  - Dandelion House, 1740-10-04
+  - guest quarters -> root tunnel beneath Dandelion House, 1740-10-05
 - Colden (met): Alden's cousin at the manor
-  - old wood west of Tollen -> Dandelion House grounds, 1750-10-04
+  - old wood west of Tollen -> Dandelion House grounds, 1740-10-04
 - Moss Foot (companion): Edric's pony
-  - old wood west of Tollen -> Dandelion House grounds, 1750-10-04
-  - Dandelion House, 1750-10-04
+  - old wood west of Tollen -> Dandelion House grounds, 1740-10-04
+  - Dandelion House, 1740-10-04
 - Lord Holda (met): lord of Dandelion House
-  - Dandelion House, 1750-10-04
-  - guest quarters -> root tunnel beneath Dandelion House, 1750-10-05
+  - Dandelion House, 1740-10-04
+  - guest quarters -> root tunnel beneath Dandelion House, 1740-10-05
 - unnamed elf patron (mentioned): patron of the previous job
 - ettin (mentioned): enemy from the previous job
 - unnamed elf archivist (mentioned): deliverer of the deed
@@ -311,27 +311,27 @@ Before dawn, the clock wakes them and Alden collects them from their rooms, lead
 - Old wood west of Tollen
   - Summary: forested campsite on the final night before the party reaches Dandelion House
   - Sublocations: campfire on the last night before reaching Dandelion House
-  - Date Visited: 1750-10-03
+  - Date Visited: 1740-10-03
 - old wood west of Tollen
   - Summary: old forest west of Tollen where paths fade, wildlife quiets, and Alden leads the party toward the manor
   - Sublocations: long day's hike through increasingly trackless forest to the manor threshold
-  - Date Visited: 1750-10-04
+  - Date Visited: 1740-10-04
 - Dandelion House grounds
   - Summary: overgrown estate grounds around Dandelion House, marked by old walls, a moat, roots, and dandelion imagery
   - Sublocations: long day's hike through increasingly trackless forest to the manor threshold
-  - Date Visited: 1750-10-04
+  - Date Visited: 1740-10-04
 - Dandelion House
   - Summary: ancient preserved manor claimed by Lord Holda, beautiful and decrepit in equal measure
   - Sublocations: entry hall, upper floors, observatory, and kitchen
-  - Date Visited: 1750-10-04
+  - Date Visited: 1740-10-04
 - guest quarters
   - Summary: sleeping rooms in Dandelion House where the party rests before the pre-dawn descent
   - Sublocations: pre-dawn descent through the basement and root cellar into the hidden passage
-  - Date Visited: 1750-10-05
+  - Date Visited: 1740-10-05
 - root tunnel beneath Dandelion House
   - Summary: narrow dry passage through the hollow center of an enormous root below the manor
   - Sublocations: pre-dawn descent through the basement and root cellar into the hidden passage
-  - Date Visited: 1750-10-05
+  - Date Visited: 1740-10-05
 
 ## Organizations And Items
 
@@ -344,25 +344,25 @@ Before dawn, the clock wakes them and Alden collects them from their rooms, lead
 ### Items
 
 - dandelion crest (encountered): carved dandelion puffball motif above the manor door
-  - old wood west of Tollen -> Dandelion House grounds, 1750-10-04
+  - old wood west of Tollen -> Dandelion House grounds, 1740-10-04
 - cleaning bar (encountered): magical iron bar in the kitchen that cleans anyone who taps it
-  - Dandelion House, 1750-10-04
+  - Dandelion House, 1740-10-04
 - magical ice chest (encountered): cold magical storage chest in the kitchen
-  - Dandelion House, 1750-10-04
+  - Dandelion House, 1740-10-04
 - magical cupboard (encountered): kitchen cupboard that preserves or produces fresh bread
-  - Dandelion House, 1750-10-04
+  - Dandelion House, 1740-10-04
 - garden tapestries (encountered): faded tapestries showing gardeners at work in greenhouses
-  - Dandelion House, 1750-10-04
+  - Dandelion House, 1740-10-04
 - ancient deed and contract (encountered): brittle Sembaran document naming Holda heir to Dandelion House on the treaty condition
-  - Dandelion House, 1750-10-04
+  - Dandelion House, 1740-10-04
 - Goodberries (encountered): magical berries Txarro creates and distributes before the party rests
-  - Dandelion House, 1750-10-04
+  - Dandelion House, 1740-10-04
 - silver spoon (encountered): piece of manor silverware Tarek pockets during the evening
-  - Dandelion House, 1750-10-04
+  - Dandelion House, 1740-10-04
 - gold key (encountered): small glowing key Alden uses to unlock the lower door beneath the basement
-  - guest quarters -> root tunnel beneath Dandelion House, 1750-10-05
+  - guest quarters -> root tunnel beneath Dandelion House, 1740-10-05
 - hidden door (encountered): root-cellar door leading into the narrow passage below Dandelion House
-  - guest quarters -> root tunnel beneath Dandelion House, 1750-10-05
+  - guest quarters -> root tunnel beneath Dandelion House, 1740-10-05
 - old books (mentioned): objects recovered for the elf patron during the party's previous job
 - treaty (mentioned): long-held agreement the party is hired to end without yet knowing its terms
 - treasure hoard (mentioned): promised inheritance treasure Holda offers to split with the party

@@ -1,0 +1,590 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "shortSummary": "The party descends from J.M.'s room into the old bolt-hole, scouts the lower cavern, and finds pirate shades blocking the way deeper into Grimstone's lair.",
+      "longSummary": "Starting from the master bedroom trapdoor that J.M. revealed, the party drops into an old Perdoli vault that pirates later broke open into a rough tunnel. The steampup leads the group through the dark until they find a ten-foot gap over a thirty-foot drop; Acescale drinks his flight elixir, confirms the upper tunnel dead-ends, scouts the lower cavern, spots a rope ladder, and reports seven shadowy pirate shades guarding the far exit.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "master bedroom trapdoor, old vault, rough tunnel, and pit above the lower pirate cavern",
+        "notes": "The beat moves from the old bedroom trapdoor into the secret hideout beneath the manor."
+      },
+      "npcs": [
+        {
+          "name": "J.M.",
+          "role": "mentioned",
+          "context": "pirate captain's ghost",
+          "notes": "The opening recap recalls that J.M. revealed Grimstone's weekly use of the trapdoor after Gaudin invoked Petrona."
+        },
+        {
+          "name": "Petrona",
+          "role": "mentioned",
+          "context": "J.M.'s lost love",
+          "notes": "The party's prior deception using Petrona is recapped as the reason J.M. turned against Grimstone."
+        },
+        {
+          "name": "Grimstone",
+          "role": "mentioned",
+          "context": "white-masked alchemist below the manor",
+          "notes": "The party knows Grimstone uses the trapdoor once a week to petrify victims."
+        },
+        {
+          "name": "pirate shades",
+          "role": "enemy",
+          "context": "undead guards in the lower cavern",
+          "notes": "Acescale sees five weaker shades and two stronger shadows wearing hints of old pirate clothing."
+        }
+      ],
+      "items": [
+        {
+          "name": "trapdoor to the old hideout",
+          "role": "encountered",
+          "notes": "The party begins by descending through the trapdoor beneath J.M.'s room."
+        },
+        {
+          "name": "steampup",
+          "role": "encountered",
+          "notes": "Dilion mends the steel defender and sends it first through the dark tunnel."
+        },
+        {
+          "name": "flight elixir",
+          "role": "encountered",
+          "notes": "Acescale drinks the elixir to scout the gap, dead-end tunnel, and lower cavern."
+        },
+        {
+          "name": "rope ladder",
+          "role": "encountered",
+          "notes": "A rope ladder hangs from the roof of the lower cavern near the pit."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Perdoli family",
+          "role": "mentioned",
+          "notes": "The old vault is identified as part of the original Perdoli manor construction."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "shortSummary": "The party drops a bag of magical distractions into the cavern, destroys the pirate shades and shadows, and rests after finding the burned remains of the old pirates.",
+      "longSummary": "Dilion and Acescale make a small bag of magically lit, noisy, foul-smelling objects, and invisible Acescale carries the steampup down while Dilion hooks the rope ladder. When the shades notice the descent, the bag of distractions gives the party the jump: Acescale's acid, Loria's swords and swarm, Gaudin's Eldritch Blast, Dilion's weapon, and the steampup quickly wipe out the five weaker shades and two stronger shadows. Searching afterward reveals seven burned pirate skeletons, melted swords, a silver-and-gold ingot, and recent tracks suggesting one or two people still move through the cavern, so the party takes a short rest before opening the strange wooden door.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "fire-scorched lower pirate cavern below the manor",
+        "notes": "The cavern appears to have been burned long ago and later reused by Grimstone's operation."
+      },
+      "npcs": [
+        {
+          "name": "pirate shades",
+          "role": "enemy",
+          "context": "weaker undead pirates",
+          "notes": "Five weaker shades are destroyed during the opening rush."
+        },
+        {
+          "name": "pirate shadows",
+          "role": "enemy",
+          "context": "stronger undead pirates",
+          "notes": "Two stronger shadows close on Loria before being destroyed."
+        }
+      ],
+      "items": [
+        {
+          "name": "bag of distractions",
+          "role": "encountered",
+          "notes": "The party uses magically tinkered pebbles and effects to distract the shades during the descent."
+        },
+        {
+          "name": "steampup",
+          "role": "encountered",
+          "notes": "The steel defender descends with the party and joins the fight."
+        },
+        {
+          "name": "silver-and-gold ingot",
+          "role": "encountered",
+          "notes": "Dilion finds a melted lump of silver with lines of gold under one of the burned pirate skeletons."
+        },
+        {
+          "name": "melted short swords",
+          "role": "encountered",
+          "notes": "The old pirate remains include a fused clump of short swords."
+        },
+        {
+          "name": "strange wooden door",
+          "role": "encountered",
+          "notes": "After the rest, the party returns to the incongruous door set into the cavern wall."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Tolen navy",
+          "role": "mentioned",
+          "notes": "Dilion's investigation prompts a recollection that Tolen drove pirates out of the coast about fifty years ago."
+        },
+        {
+          "name": "coastal pirates",
+          "role": "mentioned",
+          "notes": "The burned skeletons are probably pirates from the same group that used the manor hideout decades ago."
+        }
+      ],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "pirate shades",
+            "notes": "Five weaker undead pirates guarding the cavern exit."
+          },
+          {
+            "name": "pirate shadows",
+            "notes": "Two stronger shadow-creatures among the pirate dead."
+          }
+        ],
+        "notes": "The entire combat takes place in the lower cavern after the distraction plan gives the party an initiative advantage."
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Gaudin bluffs a large human guard by posing as an elf delivering prisoners as ingredients, and the steampup narrowly avoids being petrified.",
+      "longSummary": "Past the false-looking wooden door, the party creeps through a natural corridor toward a torchlit workout chamber where a large human guard is using a hanging straw punching bag. Loria briefly tries a lost-traveler act, but Gaudin steps in with his elf disguise, kicks the supposed prisoners into line, and claims the group has been sent to Grimstone as ingredients. The guard is confused but half convinced, tests the claim by smashing a green petrification vial on the steampup, and walks away toward the cavern entrance after the construct resists turning to stone.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "natural cavern corridor and guard workout chamber below Grimstone's lair",
+        "notes": "The chamber has straw bedding, crates, torches, a punching bag, and three outgoing passages."
+      },
+      "npcs": [
+        {
+          "name": "human guard",
+          "role": "enemy",
+          "context": "large guard in the workout chamber",
+          "notes": "He believes Grimstone usually wants victims stoned before seeing them, but Gaudin's deception keeps him from attacking immediately."
+        },
+        {
+          "name": "Grimstone",
+          "role": "mentioned",
+          "context": "master of the lair",
+          "notes": "The guard fears interrupting Grimstone while he works on a potion."
+        }
+      ],
+      "items": [
+        {
+          "name": "green petrification vial",
+          "role": "encountered",
+          "notes": "The guard uses his last dose on the steampup to test whether one prisoner should be delivered as stone."
+        },
+        {
+          "name": "steampup",
+          "role": "encountered",
+          "notes": "The steel defender starts to turn to stone but succeeds on the follow-up save."
+        },
+        {
+          "name": "screaming pebble",
+          "role": "encountered",
+          "notes": "Acescale throws a screaming object into the guard's bedding to support the confusion."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party raids the guard's supplies, fails to lure Grimstone out, and then kills the returning human guard before he can bring help.",
+      "longSummary": "After the guard leaves, the party searches his crates and finds clothes, brandy, empty vials, and usable alchemist's tools, then devises a plan for Gaudin to impersonate the guard and warn Grimstone that the basilisk has escaped. Grimstone refuses to leave his bench and throws a fire potion at Gaudin, forcing the party to abandon that lure just as the real guard returns. Gaudin then disguises himself as Grimstone and tries to send the guard after a stone spider, but the voice is wrong; the guard gives chase, Gaudin dashes and Misty Steps back to the ambush, and the party wounds the guard badly before the steampup finishes him despite his plea to live.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "guard chamber, corridor to Grimstone's laboratory, and lower cavern approach",
+        "notes": "The beat moves between the guard's chamber, Grimstone's laboratory entrance, and the route back toward the shade cavern."
+      },
+      "npcs": [
+        {
+          "name": "human guard",
+          "role": "enemy",
+          "context": "Grimstone's guard",
+          "notes": "He sees through Gaudin's second disguise, chases him, tries to flee, and is killed by the steampup."
+        },
+        {
+          "name": "Grimstone",
+          "role": "encountered",
+          "context": "masked alchemist in the laboratory",
+          "notes": "Gaudin sees him in his lab working on a potion amid stone animal statues and alchemical benches."
+        },
+        {
+          "name": "stone spider statue",
+          "role": "encountered",
+          "context": "intact statue in Grimstone's laboratory",
+          "notes": "Gaudin sees a life-like stone spider among the two intact statues in the lab."
+        },
+        {
+          "name": "stone wasp statue",
+          "role": "encountered",
+          "context": "intact statue in Grimstone's laboratory",
+          "notes": "Gaudin also sees a life-like stone wasp statue before the party fights Grimstone."
+        }
+      ],
+      "items": [
+        {
+          "name": "alchemist's tools",
+          "role": "encountered",
+          "notes": "Acescale recovers a complete set of tools and a dozen usable glass vials from the guard's crate."
+        },
+        {
+          "name": "half-drunk brandy",
+          "role": "encountered",
+          "notes": "Gaudin drinks the guard's brandy while preparing the next deception."
+        },
+        {
+          "name": "alchemist's fire",
+          "role": "mentioned",
+          "notes": "The party considers using alchemist's fire and straw to create a corridor hazard."
+        },
+        {
+          "name": "potion grenades",
+          "role": "encountered",
+          "notes": "Grimstone throws an explosive fire potion at Gaudin when interrupted."
+        },
+        {
+          "name": "scroll of Cure Wounds",
+          "role": "encountered",
+          "notes": "Loria gives the healing scroll to Gaudin after the guard is killed."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "human guard",
+            "notes": "The large guard who had been stationed in the workout chamber."
+          }
+        ],
+        "notes": "The fight begins when Gaudin's Grimstone disguise fails and ends with the steampup killing the guard in the corridor."
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "After a short break, the party plans a direct assault on Grimstone's laboratory and sends invisible Loria ahead, but a kicked vial exposes her.",
+      "longSummary": "The party returns from a short out-of-character break and decides that Grimstone must be attacked in the lab rather than lured out. They weigh flammable alchemical supplies, the potion bandolier, the steampup's ability to pin Grimstone, and the risk of the stone statues animating before settling on a high-risk opening: invisible Loria will sneak in and try to disarm or strike him while the others wait close enough to rush in. Loria rolls poorly on the stealth approach, kicks a glass vial among the lab debris, and Grimstone grabs a potion and calls for initiative.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "guard chamber, north passage, and entrance to Grimstone's alchemical laboratory",
+        "notes": "The beat ends as the party's plan collapses at the threshold of Grimstone's lab."
+      },
+      "npcs": [
+        {
+          "name": "Grimstone",
+          "role": "enemy",
+          "context": "masked alchemist",
+          "notes": "He remains focused on his work until Loria accidentally alerts him."
+        },
+        {
+          "name": "stone spider statue",
+          "role": "encountered",
+          "context": "intact statue in the lab",
+          "notes": "The party anticipates that the intact statues may animate during the fight."
+        },
+        {
+          "name": "stone wasp statue",
+          "role": "encountered",
+          "context": "intact statue in the lab",
+          "notes": "The second intact statue is a large wasp-like creature."
+        }
+      ],
+      "items": [
+        {
+          "name": "potion bandolier",
+          "role": "encountered",
+          "notes": "The party discusses targeting or stealing Grimstone's belt of potion grenades."
+        },
+        {
+          "name": "laboratory glassware",
+          "role": "encountered",
+          "notes": "Loose vials and shattered glass cover the laboratory floor and give Loria away."
+        },
+        {
+          "name": "invisibility spell",
+          "role": "encountered",
+          "notes": "Loria approaches the lab invisibly before the failed stealth check."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party defeats Grimstone and his animated stone creatures, but Acescale is twice dropped by the stone wasp's petrifying poison.",
+      "longSummary": "Gaudin misses a risky Eldritch Blast at Grimstone's potion, but Acescale poisons Grimstone with Ray of Sickness, the steampup leaps over the bench, and Loria gets under the table to cut at his legs. Grimstone answers with fire, smoke, and animation potions that turn a stone spider into a swarm and awaken a stone wasp; Loria finally kills Grimstone with a Zephyr Strike critical hit, but the stone creatures keep fighting. The stone wasp twice drops Acescale to zero with poison that starts turning him to stone, Dilion heals him once, Loria and Gaudin batter the constructs, and the party finishes the wasp and remaining spiders before the lab goes quiet.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "Grimstone's alchemical laboratory beneath the manor",
+        "notes": "The entire combat takes place amid the benches, statue fragments, smoke, and scattered alchemical supplies in Grimstone's lab."
+      },
+      "npcs": [
+        {
+          "name": "Grimstone",
+          "role": "enemy",
+          "context": "masked alchemist",
+          "notes": "He throws explosive and smoke potions, animates stone constructs, and is killed by Loria."
+        },
+        {
+          "name": "stone spider swarm",
+          "role": "enemy",
+          "context": "animated construct swarm",
+          "notes": "A potion turns the stone spider statue into many small spiders that swarm Gaudin."
+        },
+        {
+          "name": "stone wasp",
+          "role": "enemy",
+          "context": "animated construct",
+          "notes": "The wasp's poisoned stinger knocks Acescale unconscious and starts petrifying him."
+        }
+      ],
+      "items": [
+        {
+          "name": "potion grenades",
+          "role": "encountered",
+          "notes": "Grimstone uses fire, smoke, and animation potions during the fight."
+        },
+        {
+          "name": "steampup",
+          "role": "encountered",
+          "notes": "The steel defender attacks Grimstone and later helps finish the stone wasp."
+        },
+        {
+          "name": "petrifying poison",
+          "role": "encountered",
+          "notes": "The stone wasp carries a special poison that drops Acescale and begins turning him to stone."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "Grimstone",
+            "notes": "The white-masked alchemist at the center of the lair."
+          },
+          {
+            "name": "stone spider swarm",
+            "notes": "Animated from an intact stone spider statue."
+          },
+          {
+            "name": "stone wasp",
+            "notes": "Animated from an intact stone wasp statue and armed with petrifying poison."
+          }
+        ],
+        "notes": "The combat starts with Grimstone's interrupted potion throw and ends after his death when the party crushes the remaining stone constructs."
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party loots Grimstone's lab, finds his Prime Arcana obsession and Pikeia, recovers treasure and magic items, and avoids a mimic chest.",
+      "longSummary": "After the fight, the party searches Grimstone's laboratory, accidentally feeds Acescale one poisoned healing potion, then identifies the safe healing and anti-petrification potions, a potion of growth, a potion of advantage, oil of slipperiness, a glowing-poison recipe, and valuable alchemical supplies. Grimstone's west room contains bed, notes, maps, and ranting research about basilisk capture, the Prime Arcana stone, and the belief that petrifying the right victim could create the substance needed for immortality; the east storeroom holds Pikeia tied up alive, two chests, and Grimstone's key and Draconic book, The Way of the Stone. The first chest holds Acescale's poker winnings, a ring of bird calls, a strangely weighted die, pearls, a silver decanter, turquoise-set goblets, and garnets, while the second chest reveals itself as a mimic and the party backs away.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "Grimstone's laboratory, west bedroom-study, east storeroom, and treasure chests",
+        "notes": "The party explores both side rooms after defeating Grimstone."
+      },
+      "npcs": [
+        {
+          "name": "Grimstone",
+          "role": "encountered",
+          "context": "dead alchemist",
+          "notes": "His body carries the key and Draconic book that explain more of his obsession."
+        },
+        {
+          "name": "Pikeia",
+          "role": "companion",
+          "context": "Dilion's living dog",
+          "notes": "Pikeia is found tied up in the east storeroom and reunited with Dilion."
+        },
+        {
+          "name": "mimic",
+          "role": "encountered",
+          "context": "second chest",
+          "notes": "The second chest lunges at Gaudin's Mage Hand, and the party retreats from it."
+        }
+      ],
+      "items": [
+        {
+          "name": "healing potions",
+          "role": "encountered",
+          "notes": "Some apparent healing potions are poisoned, but Acescale and Dilion identify safe ones after Acescale is nearly killed."
+        },
+        {
+          "name": "anti-petrification potions",
+          "role": "encountered",
+          "notes": "Two potions can reverse petrification if applied within an hour."
+        },
+        {
+          "name": "potion of growth",
+          "role": "encountered",
+          "notes": "One recovered potion makes its drinker larger for an hour."
+        },
+        {
+          "name": "potion of advantage",
+          "role": "encountered",
+          "notes": "One potion grants advantage on one roll within an hour of drinking it."
+        },
+        {
+          "name": "oil of slipperiness",
+          "role": "encountered",
+          "notes": "A vial is hidden away on one of the laboratory benches."
+        },
+        {
+          "name": "glowing-poison recipe",
+          "role": "encountered",
+          "notes": "The recipe lets an alchemist make poison that makes a target shed light and lose the benefit of invisibility."
+        },
+        {
+          "name": "alchemical supplies",
+          "role": "encountered",
+          "notes": "The lab holds at least 50 gold worth of powdered gemstones, powdered stone, and other raw ingredients."
+        },
+        {
+          "name": "Prime Arcana notes",
+          "role": "encountered",
+          "notes": "Grimstone's scattered papers argue that petrifying the right person could create the Prime Arcana stone."
+        },
+        {
+          "name": "The Way of the Stone",
+          "role": "encountered",
+          "notes": "A fragile Draconic book describes recipes for invulnerability, immortality, youth, and other potions requiring the Prime Arcana."
+        },
+        {
+          "name": "Grimstone's key",
+          "role": "encountered",
+          "notes": "The key from Grimstone's pouch opens the locked treasure chest."
+        },
+        {
+          "name": "Acescale's poker winnings",
+          "role": "encountered",
+          "notes": "The treasure chest contains 244 gold pieces including Acescale's lost winnings."
+        },
+        {
+          "name": "ring of bird calls",
+          "role": "encountered",
+          "notes": "Loria takes the ring from the opened chest."
+        },
+        {
+          "name": "strangely weighted die",
+          "role": "encountered",
+          "notes": "Acescale discovers that the die reveals its result to the holder just before it stops rolling."
+        },
+        {
+          "name": "pearls, decanter, goblets, and garnets",
+          "role": "encountered",
+          "notes": "The chest also holds a pearl necklace, a decorated silver decanter, turquoise-set wooden goblets, and small garnets."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-10-19",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "After resting, the party escapes Perdoli Manor before dawn, divides the treasure on the road, and parts ways into separate futures.",
+      "longSummary": "The party rests and recovers in the lair, then slips out of Perdoli Manor early the next morning while the hobgoblins are distracted by the dead guards and the goblins flee once Grimstone fails to appear for the usual Sunday ritual. On the road down from the mountains, the group divides treasure and says goodbye: Acescale plans potion work and gambling with the magic die, Gaudin leaves inspired by the pirate hideouts and smuggling routes, Dilion wanders on with Pikeia and the steampup, and Loria heads south with the ring of bird calls and a small flurry of birds around her.",
+      "location": {
+        "kind": "journey",
+        "from": "Grimstone's lair (Perdoli Manor)",
+        "to": "mountain road below Perdoli Manor",
+        "context": "early-morning escape and departure from the estate",
+        "notes": "The beat functions as the session epilogue after the overnight rest."
+      },
+      "npcs": [
+        {
+          "name": "hobgoblins",
+          "role": "encountered",
+          "context": "surviving manor guards",
+          "notes": "They are angry and distracted after discovering the dead hobgoblins."
+        },
+        {
+          "name": "goblins",
+          "role": "encountered",
+          "context": "manor occupants",
+          "notes": "They flee once Grimstone does not emerge for the usual Sunday morning ritual."
+        },
+        {
+          "name": "Pikeia",
+          "role": "companion",
+          "context": "Dilion's living dog",
+          "notes": "Dilion leaves with Pikeia and the steampup."
+        }
+      ],
+      "items": [
+        {
+          "name": "strangely weighted die",
+          "role": "encountered",
+          "notes": "Acescale plans to use the die in gambling after sharing some of his loot."
+        },
+        {
+          "name": "alchemist's tools",
+          "role": "encountered",
+          "notes": "Acescale expects to use his new tools and skills to start potion work."
+        },
+        {
+          "name": "ring of bird calls",
+          "role": "encountered",
+          "notes": "Loria carries the ring away as she leaves the group."
+        },
+        {
+          "name": "pirate maps",
+          "role": "encountered",
+          "notes": "Gaudin is drawn to the old pirate hideouts and secret routes marked in the recovered maps."
+        },
+        {
+          "name": "steampup",
+          "role": "encountered",
+          "notes": "Dilion leaves with both the steel defender and Pikeia."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

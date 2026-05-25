@@ -21,13 +21,13 @@
         "startUid": "u0001",
         "endUid": "u0442",
         "lineCount": 442,
-        "dateStart": "1750-10-03",
+        "dateStart": "1740-10-03",
         "dateEnd": null,
         "timeWindow": "evening",
         "containsCombat": false,
         "boundaryReason": "Opening setup and the full campfire round of PC descriptions and party relationship backstory; the next beat begins when Alden shifts the conversation to their previous job.",
         "dateEvidence": [
-          "session.yaml gives drStart as 1750-10-03.",
+          "session.yaml gives drStart as 1740-10-03.",
           "u0054-u0056 establish the group is camped for the night before reaching Dandelion House."
         ],
         "startIndex": 0,
@@ -37,7 +37,7 @@
       "nextBeat": {
         "beatId": "B02",
         "title": "Alden Asks About Last Job",
-        "dateStart": "1750-10-03",
+        "dateStart": "1740-10-03",
         "dateEnd": null
       },
       "session": {
@@ -46,8 +46,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1750-10-03",
-        "drEnd": "1750-10-03",
+        "drStart": "1740-10-03",
+        "drEnd": "1740-10-03",
         "realWorldDate": "2026-05-14",
         "participants": [
           {
@@ -2745,13 +2745,13 @@
         "startUid": "u0443",
         "endUid": "u0698",
         "lineCount": 256,
-        "dateStart": "1750-10-03",
+        "dateStart": "1740-10-03",
         "dateEnd": null,
         "timeWindow": "night",
         "containsCombat": false,
         "boundaryReason": "Alden prompts the group to recount their last job, reveals his devotion to Dandelion House, and the party probes him before setting watches; the next beat starts with the morning departure.",
         "dateEvidence": [
-          "session.yaml gives drStart as 1750-10-03.",
+          "session.yaml gives drStart as 1740-10-03.",
           "u0447 says they will arrive at Dandelion House tomorrow.",
           "u0583 and u0674-u0696 keep the scene in the same night and watches."
         ],
@@ -2761,13 +2761,13 @@
       "previousBeat": {
         "beatId": "B01",
         "title": "Campfire Introductions",
-        "dateStart": "1750-10-03",
+        "dateStart": "1740-10-03",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "B03",
         "title": "Road To Dandelion House",
-        "dateStart": "1750-10-04",
+        "dateStart": "1740-10-04",
         "dateEnd": null
       },
       "session": {
@@ -2776,8 +2776,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1750-10-03",
-        "drEnd": "1750-10-03",
+        "drStart": "1740-10-03",
+        "drEnd": "1740-10-03",
         "realWorldDate": "2026-05-14",
         "participants": [
           {
@@ -4359,7 +4359,7 @@
         "startUid": "u0699",
         "endUid": "u1129",
         "lineCount": 431,
-        "dateStart": "1750-10-04",
+        "dateStart": "1740-10-04",
         "dateEnd": null,
         "timeWindow": null,
         "containsCombat": false,
@@ -4375,13 +4375,13 @@
       "previousBeat": {
         "beatId": "B02",
         "title": "Alden Asks About Last Job",
-        "dateStart": "1750-10-03",
+        "dateStart": "1740-10-03",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "B04",
         "title": "Inside The Manor",
-        "dateStart": "1750-10-04",
+        "dateStart": "1740-10-04",
         "dateEnd": null
       },
       "session": {
@@ -4390,8 +4390,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1750-10-03",
-        "drEnd": "1750-10-03",
+        "drStart": "1740-10-03",
+        "drEnd": "1740-10-03",
         "realWorldDate": "2026-05-14",
         "participants": [
           {
@@ -7023,7 +7023,7 @@
         "startUid": "u1130",
         "endUid": "u1415",
         "lineCount": 286,
-        "dateStart": "1750-10-04",
+        "dateStart": "1740-10-04",
         "dateEnd": null,
         "timeWindow": "evening",
         "containsCombat": false,
@@ -7039,13 +7039,13 @@
       "previousBeat": {
         "beatId": "B03",
         "title": "Road To Dandelion House",
-        "dateStart": "1750-10-04",
+        "dateStart": "1740-10-04",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "B05",
         "title": "Holda Explains The Contract",
-        "dateStart": "1750-10-04",
+        "dateStart": "1740-10-04",
         "dateEnd": null
       },
       "session": {
@@ -7054,8 +7054,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1750-10-03",
-        "drEnd": "1750-10-03",
+        "drStart": "1740-10-03",
+        "drEnd": "1740-10-03",
         "realWorldDate": "2026-05-14",
         "participants": [
           {
@@ -8817,7 +8817,7 @@
         "startUid": "u1416",
         "endUid": "u1832",
         "lineCount": 417,
-        "dateStart": "1750-10-04",
+        "dateStart": "1740-10-04",
         "dateEnd": null,
         "timeWindow": "night",
         "containsCombat": false,
@@ -8833,13 +8833,13 @@
       "previousBeat": {
         "beatId": "B04",
         "title": "Inside The Manor",
-        "dateStart": "1750-10-04",
+        "dateStart": "1740-10-04",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "B06",
         "title": "Deal And Nighttime Doubts",
-        "dateStart": "1750-10-04",
+        "dateStart": "1740-10-04",
         "dateEnd": null
       },
       "session": {
@@ -8848,8 +8848,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1750-10-03",
-        "drEnd": "1750-10-03",
+        "drStart": "1740-10-03",
+        "drEnd": "1740-10-03",
         "realWorldDate": "2026-05-14",
         "participants": [
           {
@@ -11397,7 +11397,7 @@
         "startUid": "u1833",
         "endUid": "u2010",
         "lineCount": 178,
-        "dateStart": "1750-10-04",
+        "dateStart": "1740-10-04",
         "dateEnd": null,
         "timeWindow": "night",
         "containsCombat": false,
@@ -11413,13 +11413,13 @@
       "previousBeat": {
         "beatId": "B05",
         "title": "Holda Explains The Contract",
-        "dateStart": "1750-10-04",
+        "dateStart": "1740-10-04",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "B07",
         "title": "Into The Root Tunnel",
-        "dateStart": "1750-10-05",
+        "dateStart": "1740-10-05",
         "dateEnd": null
       },
       "session": {
@@ -11428,8 +11428,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1750-10-03",
-        "drEnd": "1750-10-03",
+        "drStart": "1740-10-03",
+        "drEnd": "1740-10-03",
         "realWorldDate": "2026-05-14",
         "participants": [
           {
@@ -12543,7 +12543,7 @@
         "startUid": "u2011",
         "endUid": "u2156",
         "lineCount": 146,
-        "dateStart": "1750-10-05",
+        "dateStart": "1740-10-05",
         "dateEnd": null,
         "timeWindow": "dawn",
         "containsCombat": false,
@@ -12559,7 +12559,7 @@
       "previousBeat": {
         "beatId": "B06",
         "title": "Deal And Nighttime Doubts",
-        "dateStart": "1750-10-04",
+        "dateStart": "1740-10-04",
         "dateEnd": null
       },
       "nextBeat": null,
@@ -12569,8 +12569,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1750-10-03",
-        "drEnd": "1750-10-03",
+        "drStart": "1740-10-03",
+        "drEnd": "1740-10-03",
         "realWorldDate": "2026-05-14",
         "participants": [
           {

@@ -9,7 +9,7 @@
 
 - Lines: 442
 - Range: `u0001` -> `u0442`
-- Date Start: 1750-10-03
+- Date Start: 1740-10-03
 - Date End: same day
 - Time Window: evening
 
@@ -17,7 +17,7 @@
 
 - Lines: 256
 - Range: `u0443` -> `u0698`
-- Date Start: 1750-10-03
+- Date Start: 1740-10-03
 - Date End: same day
 - Time Window: night
 
@@ -25,7 +25,7 @@
 
 - Lines: 431
 - Range: `u0699` -> `u1129`
-- Date Start: 1750-10-04
+- Date Start: 1740-10-04
 - Date End: same day
 - Time Window: unknown
 
@@ -33,7 +33,7 @@
 
 - Lines: 286
 - Range: `u1130` -> `u1415`
-- Date Start: 1750-10-04
+- Date Start: 1740-10-04
 - Date End: same day
 - Time Window: evening
 
@@ -41,7 +41,7 @@
 
 - Lines: 417
 - Range: `u1416` -> `u1832`
-- Date Start: 1750-10-04
+- Date Start: 1740-10-04
 - Date End: same day
 - Time Window: night
 
@@ -49,7 +49,7 @@
 
 - Lines: 178
 - Range: `u1833` -> `u2010`
-- Date Start: 1750-10-04
+- Date Start: 1740-10-04
 - Date End: same day
 - Time Window: night
 
@@ -57,6 +57,6 @@
 
 - Lines: 146
 - Range: `u2011` -> `u2156`
-- Date Start: 1750-10-05
+- Date Start: 1740-10-05
 - Date End: same day
 - Time Window: dawn

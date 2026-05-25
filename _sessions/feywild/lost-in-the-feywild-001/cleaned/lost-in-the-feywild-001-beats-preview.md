@@ -12,26 +12,26 @@
 
 - Range: `u0001` → `u0442`
 - Lines: 442
-- Date: 1750-10-03
+- Date: 1740-10-03
 - Date Resolution: exact
 - Time Window: evening
 - Combat: no
 - Boundary Reason: Opening setup and the full campfire round of PC descriptions and party relationship backstory; the next beat begins when Alden shifts the conversation to their previous job.
 - Date Evidence:
-  - session.yaml gives drStart as 1750-10-03.
+  - session.yaml gives drStart as 1740-10-03.
   - u0054-u0056 establish the group is camped for the night before reaching Dandelion House.
 
 ## B02 — Alden Asks About Last Job
 
 - Range: `u0443` → `u0698`
 - Lines: 256
-- Date: 1750-10-03
+- Date: 1740-10-03
 - Date Resolution: exact
 - Time Window: night
 - Combat: no
 - Boundary Reason: Alden prompts the group to recount their last job, reveals his devotion to Dandelion House, and the party probes him before setting watches; the next beat starts with the morning departure.
 - Date Evidence:
-  - session.yaml gives drStart as 1750-10-03.
+  - session.yaml gives drStart as 1740-10-03.
   - u0447 says they will arrive at Dandelion House tomorrow.
   - u0583 and u0674-u0696 keep the scene in the same night and watches.
 
@@ -39,7 +39,7 @@
 
 - Range: `u0699` → `u1129`
 - Lines: 431
-- Date: 1750-10-04
+- Date: 1740-10-04
 - Date Resolution: inferred
 - Time Window: unknown
 - Combat: no
@@ -53,7 +53,7 @@
 
 - Range: `u1130` → `u1415`
 - Lines: 286
-- Date: 1750-10-04
+- Date: 1740-10-04
 - Date Resolution: inferred
 - Time Window: evening
 - Combat: no
@@ -67,7 +67,7 @@
 
 - Range: `u1416` → `u1832`
 - Lines: 417
-- Date: 1750-10-04
+- Date: 1740-10-04
 - Date Resolution: inferred
 - Time Window: night
 - Combat: no
@@ -81,7 +81,7 @@
 
 - Range: `u1833` → `u2010`
 - Lines: 178
-- Date: 1750-10-04
+- Date: 1740-10-04
 - Date Resolution: inferred
 - Time Window: night
 - Combat: no
@@ -95,7 +95,7 @@
 
 - Range: `u2011` → `u2156`
 - Lines: 146
-- Date: 1750-10-05
+- Date: 1740-10-05
 - Date Resolution: inferred
 - Time Window: dawn
 - Combat: no

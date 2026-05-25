@@ -1,0 +1,416 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-10-17",
+      "dateEnd": "1748-10-18",
+      "timeWindow": null,
+      "shortSummary": "The party rests overnight in the smithy prison, prepares spells and supplies, and chooses the chapel tunnel as the next route into Perdoli Manor.",
+      "longSummary": "At sunset on 1748-10-17, the party settles back into the abandoned smithy prison room instead of moving through the grounds at night. They share rations and apple brandy, clean the food and drink, finish a long rest, prepare artificer infusions and experimental elixirs before dawn, and review what Folcan told them about the manor tunnels, hobgoblin patrols, and the possible chapel entrance before leaning toward the chapel approach.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "abandoned smithy prison room and nearby grounds",
+        "notes": "The beat spans the overnight rest and pre-dawn planning before the party leaves the smithy area."
+      },
+      "npcs": [
+        {
+          "name": "Folcan",
+          "role": "mentioned",
+          "context": "released goblin informant",
+          "notes": "The party reviews Folcan's information about the tunnels, barracks, kitchen, chapel, and manor defenders."
+        },
+        {
+          "name": "Grimstone",
+          "role": "mentioned",
+          "context": "masked master inside the manor",
+          "notes": "The route planning is shaped by Folcan's warning that Grimstone controls the manor and receives the prisoners."
+        },
+        {
+          "name": "patrolling hobgoblin",
+          "role": "mentioned",
+          "context": "outer manor patrol",
+          "notes": "The party considers how to avoid or distract a hobgoblin patrol while crossing the grounds."
+        }
+      ],
+      "items": [
+        {
+          "name": "steampup",
+          "role": "encountered",
+          "notes": "Dilion's steel defender is discussed as a possible distraction for the patrols."
+        },
+        {
+          "name": "silver ring with weathered pearl",
+          "role": "encountered",
+          "notes": "Gaudin keeps track of the ring that reacts near goblins and hobgoblins."
+        },
+        {
+          "name": "experimental elixirs",
+          "role": "encountered",
+          "notes": "Acescale prepares experimental elixirs before the party leaves at dawn."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "shortSummary": "The party crosses the manor grounds at dawn while the steampup draws a hobgoblin patrol and nearby goblins away from the chapel approach.",
+      "longSummary": "Moving west from the smithy side of the grounds, the party sneaks through overgrown vineyards and old agricultural plots toward the formal garden and chapel. When Loria spots a shadowy hobgoblin patrol on the wall moving in their direction, Dilion sends the steampup east to bark and holler as a distraction, drawing the patrol and nearby goblins away long enough for the party to cut through the hedge into the formal garden while hearing the construct take blows behind them.",
+      "location": {
+        "kind": "journey",
+        "from": "smithy grounds (Perdoli Manor)",
+        "to": "formal garden edge near the chapel (Perdoli Manor)",
+        "context": "stealthy dawn crossing through overgrown vineyards and hedges",
+        "notes": "The route avoids the main manor approach and relies on the steampup distraction."
+      },
+      "npcs": [
+        {
+          "name": "shadowy hobgoblin patrol",
+          "role": "enemy",
+          "context": "outer wall patrol",
+          "notes": "The patrol turns toward the steampup after the construct starts making noise."
+        },
+        {
+          "name": "barracks goblins",
+          "role": "encountered",
+          "context": "nearby manor guards",
+          "notes": "The barking and shouting draw goblins out near the barracks."
+        }
+      ],
+      "items": [
+        {
+          "name": "steampup",
+          "role": "encountered",
+          "notes": "The steel defender creates the diversion and is hit by attacks while the party crosses."
+        },
+        {
+          "name": "silver ring with weathered pearl",
+          "role": "encountered",
+          "notes": "Gaudin watches the ring while tracking nearby goblins and hobgoblins."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "shortSummary": "The party reaches the ruined chapel, uncovers the trapdoor into the family crypt, and prepares an ambush after a pursuer notices the steampup's trail.",
+      "longSummary": "The party moves through the formal garden, notices the intact fountain and a stone Medusa staring at her own reflection, and then reaches the ruined chapel. Searching the peaceful chapel and its overgrown flowers reveals a hidden trapdoor into the family crypt, where the party finds a secondary altar room with tarnished silver, a small icon of The Mother, old copper coins, and a yellow topaz; when tapping and digging above warn that a pursuer is checking the chapel, they close the trapdoor, grease the stair, set a snare, and wait below.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "formal garden, ruined chapel, and chapel family crypt",
+        "notes": "The beat starts aboveground and ends with the party hidden below the chapel trapdoor."
+      },
+      "npcs": [
+        {
+          "name": "petrified Medusa",
+          "role": "encountered",
+          "context": "statue in the formal garden",
+          "notes": "The party sees a stone Medusa looking into the fountain and avoids direct interaction."
+        },
+        {
+          "name": "hobgoblin smokebinder",
+          "role": "mentioned",
+          "context": "pursuer above the chapel trapdoor",
+          "notes": "The source first presents the pursuer as a voice and noise above the trapdoor; the next beat reveals the shadowy hobgoblin entering the crypt."
+        }
+      ],
+      "items": [
+        {
+          "name": "chapel trapdoor",
+          "role": "encountered",
+          "notes": "Acescale and Loria identify the flower-bordered square that hides the crypt entrance."
+        },
+        {
+          "name": "silver icon of The Mother",
+          "role": "encountered",
+          "notes": "The party finds the small silver religious icon in the crypt's altar room."
+        },
+        {
+          "name": "tarnished silver and yellow topaz",
+          "role": "encountered",
+          "notes": "The altar room contains a silver plate, silver candlesticks, old copper coins, and a yellow topaz."
+        },
+        {
+          "name": "snare trap",
+          "role": "encountered",
+          "notes": "The party sets a snare at the bottom of the greased stair before the pursuer enters."
+        },
+        {
+          "name": "steampup",
+          "role": "encountered",
+          "notes": "The damaged steel defender returns to the group before they descend into the crypt."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "shortSummary": "The party turns the crypt stairs into a kill zone and defeats a shadow-bound hobgoblin scout and a second hobgoblin drawn down after it.",
+      "longSummary": "When the trapdoor opens, the shadowy hobgoblin that followed the steampup slips on the greased stairs, falls into the snare, and is battered by Loria, Acescale, Gaudin, and the steampup before being thrown down by the construct. Dilion identifies the enemy as a hobgoblin smokebinder whose shadow cloak is a ritual effect rather than a lootable item, and the party uses a shouted lure to bring a second hobgoblin down the same trap, surviving its crossbow and alchemist's fire before killing it as well.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "chapel crypt and trapdoor stairs",
+        "notes": "Both enemies are fought at the stairs between the chapel and the family crypt."
+      },
+      "npcs": [
+        {
+          "name": "hobgoblin smokebinder",
+          "role": "enemy",
+          "context": "shadow-bound scout",
+          "notes": "The first hobgoblin enters wounded from the steampup distraction and is killed after slipping into the snare."
+        },
+        {
+          "name": "hobgoblin guard",
+          "role": "enemy",
+          "context": "second patrol member",
+          "notes": "The party lures a second hobgoblin down the stairs and kills it after it fires on Gaudin."
+        }
+      ],
+      "items": [
+        {
+          "name": "snare trap",
+          "role": "encountered",
+          "notes": "The snare holds both hobgoblins at different points during the crypt ambush."
+        },
+        {
+          "name": "steampup",
+          "role": "encountered",
+          "notes": "The steel defender helps finish the smokebinder after it falls into the crypt."
+        },
+        {
+          "name": "hobgoblin loot",
+          "role": "encountered",
+          "notes": "The party recovers coins, a copper ring, and a longsword from the first hobgoblin."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "hobgoblin smokebinder",
+            "notes": "A shadow-bound hobgoblin scout pursuing the steampup into the chapel."
+          },
+          {
+            "name": "hobgoblin guard",
+            "notes": "A second hobgoblin drawn into the same stair trap after the smokebinder dies."
+          }
+        ],
+        "notes": "The entire fight stays in the chapel crypt stairwell and relies on the party's grease-and-snare ambush."
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "After looting the second hobgoblin, the party finds a hidden cache and secret tunnel from the chapel crypt into a sealed private archive.",
+      "longSummary": "With the crypt quiet, the party recovers the second hobgoblin's crossbow, bolts, coins, and alchemist's fire, then searches the crypt and hidden niches more thoroughly. Loria finds a scroll of Cure Wounds and a potion of watchful rest behind a sliding niche, Dilion opens a secret tunnel from the altar room with a loose torch bracket, and the party follows the passage under the manor to a ceiling trapdoor that leads into a private archive of Perdoli family records, portraits, and a bookcase mechanism they decide to study after a short rest.",
+      "location": {
+        "kind": "journey",
+        "from": "chapel crypt (Perdoli Manor)",
+        "to": "hidden private archive (Perdoli Manor)",
+        "context": "secret tunnel under the manor",
+        "notes": "The party moves from the chapel crypt into a concealed archive inside the main villa."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "alchemist's fire",
+          "role": "encountered",
+          "notes": "The vial is recovered from the second hobgoblin."
+        },
+        {
+          "name": "scroll of Cure Wounds",
+          "role": "encountered",
+          "notes": "Loria finds the scroll in the hidden niche behind the crypt stairs."
+        },
+        {
+          "name": "potion of watchful rest",
+          "role": "encountered",
+          "notes": "The potion is found with the scroll and identified by Acescale."
+        },
+        {
+          "name": "Perdoli family records",
+          "role": "encountered",
+          "notes": "The archive papers identify the Perdoli family as winemakers and merchants with double books and shipping interests."
+        },
+        {
+          "name": "hidden bookcase mechanism",
+          "role": "encountered",
+          "notes": "The party finds fake books and a button in the middle bookcase but pauses before pressing it."
+        },
+        {
+          "name": "silver ring with weathered pearl",
+          "role": "encountered",
+          "notes": "Gaudin's ring glows again in the hidden passage and archive, indicating nearby goblins or hobgoblins."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Perdoli family",
+          "role": "encountered",
+          "notes": "The archive preserves the family's business papers, portraits, and records."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party scouts deeper into the manor, identifies a chained basilisk in the central courtyard, and learns its gut could make a depetrification salve.",
+      "longSummary": "From the archive area, the party weighs routes past a buzzing insect chamber and a goblin guard post where several leaders drill recruits, then scouts halls and doors around the manor's central courtyard. Gaudin uses Mage Hand to tap the tail of the chained creature inside, gets a glimpse of its face, and starts turning to stone before the others hack the forming stone off him; after confirming the creature is a basilisk rather than a Medusa, Acescale learns that a polished silver plate will not reflect its own gaze back at it, but a basilisk gut enzyme can be used to make depetrification salve.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "private archive corridors, central courtyard, guard-post door, and sitting-room approach",
+        "notes": "The party does not commit to a new route yet and leaves the chained basilisk in place."
+      },
+      "npcs": [
+        {
+          "name": "basilisk",
+          "role": "enemy",
+          "context": "chained creature in the central courtyard",
+          "notes": "The basilisk is restrained by a heavy collar but its gaze still begins petrifying Gaudin."
+        },
+        {
+          "name": "goblin drill squad",
+          "role": "encountered",
+          "context": "guard post beyond the gallery door",
+          "notes": "Loria hears several leaders drilling recruits behind one door."
+        },
+        {
+          "name": "Grimstone",
+          "role": "mentioned",
+          "context": "masked master of the manor",
+          "notes": "The party connects the chained monster and missing prisoners to Grimstone's operation."
+        },
+        {
+          "name": "petrified Medusa",
+          "role": "mentioned",
+          "context": "possible depetrification target",
+          "notes": "The party discusses whether basilisk-derived salve could restore the stone Medusa in the garden."
+        }
+      ],
+      "items": [
+        {
+          "name": "tarnished silver plate",
+          "role": "encountered",
+          "notes": "Acescale considers polishing the crypt plate as a mirror before learning that reflection will not petrify a basilisk."
+        },
+        {
+          "name": "depetrification salve",
+          "role": "mentioned",
+          "notes": "Acescale recalls that a basilisk gut enzyme can be used to create a salve that reverses petrification."
+        },
+        {
+          "name": "stone statues",
+          "role": "encountered",
+          "notes": "The party sees more statues around the manor and garden, reinforcing the basilisk threat."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-10-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party investigates the manor's statue-filled rooms, uses a locket to calm a mourning sailor ghost, and learns Grimstone's lair lies below the manor.",
+      "longSummary": "The party peeks into the great hall and private rooms, finding fresh lifelike statues, older headless statues, broken mirror glass, a sailor ghost in a bedchamber, and a study containing a silver locket, smuggler's map, love letters, and documents from an old pirate or smuggler hideout. Gaudin presents the locket, disguises himself as the woman in its portrait, and draws the name Petrona from the ghost, who explains that Grimstone, the white-faced man, lied about bringing him news and rest; the ghost then reveals a trapdoor beneath the room leading to his old hideout and Grimstone's laboratory below, where Grimstone grinds stone fingers into potions while seeking the immortality of stone.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Perdoli Manor (Western Cymea)",
+        "context": "great hall, private bedchamber, study, and trapdoor room",
+        "notes": "The final clue points downward from the private chambers into the old hideout below the manor."
+      },
+      "npcs": [
+        {
+          "name": "J.M.",
+          "role": "encountered",
+          "context": "mourning sailor ghost",
+          "notes": "The ghost cannot leave the room but stops guarding Grimstone's way below after Gaudin shows him the locket and invokes Petrona."
+        },
+        {
+          "name": "Petrona",
+          "role": "mentioned",
+          "context": "woman in the locket",
+          "notes": "The letters and the ghost identify Petrona as the woman whose fate kept J.M. from resting."
+        },
+        {
+          "name": "Grimstone",
+          "role": "mentioned",
+          "context": "white-faced man below the manor",
+          "notes": "The ghost says Grimstone deceived him, uses the old hideout as a lair, and talks about the immortality of stone."
+        }
+      ],
+      "items": [
+        {
+          "name": "silver locket",
+          "role": "encountered",
+          "notes": "The locket holds a faded portrait of a young woman and a note that helps calm the ghost."
+        },
+        {
+          "name": "smuggler's map",
+          "role": "encountered",
+          "notes": "The map marks pirate coves and navy patrol routes from the old smuggling era."
+        },
+        {
+          "name": "love letters",
+          "role": "encountered",
+          "notes": "The letters addressed to J.M. and signed by P. explain the relationship behind the ghost's mourning."
+        },
+        {
+          "name": "trapdoor to the old hideout",
+          "role": "encountered",
+          "notes": "The ghost points through the rug to the trapdoor leading below the manor."
+        },
+        {
+          "name": "stone-finger potions",
+          "role": "mentioned",
+          "notes": "The ghost says Grimstone grinds fingers from the statues into potions while pursuing immortality."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Perdoli family",
+          "role": "mentioned",
+          "notes": "The rooms and documents continue to tie the manor's older history to the Perdoli family."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

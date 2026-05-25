@@ -1,5 +1,5 @@
 ---
-tags: [status/recap-review, status/check/ai]
+tags: [status/recap-review]
 ---
 
 # Session Recap

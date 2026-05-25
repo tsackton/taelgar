@@ -8,13 +8,13 @@
     "scope": "session",
     "sessionNumber": 1,
     "realWorldDate": "2026-05-14",
-    "drStart": "1750-10-03",
-    "drEnd": "1750-10-03"
+    "drStart": "1740-10-03",
+    "drEnd": "1740-10-03"
   },
   "timelineBlocks": [
     {
       "blockId": "timeline-001",
-      "dateStart": "1750-10-03",
+      "dateStart": "1740-10-03",
       "dateEnd": null,
       "timeWindow": "evening",
       "resolution": "part-of-day",
@@ -41,7 +41,7 @@
           "beatId": "B01",
           "title": "Campfire Introductions",
           "boundaryReason": "Opening setup and the full campfire round of PC descriptions and party relationship backstory; the next beat begins when Alden shifts the conversation to their previous job.",
-          "dateStart": "1750-10-03",
+          "dateStart": "1740-10-03",
           "dateEnd": null,
           "timeWindow": "evening",
           "sourceRange": {
@@ -70,7 +70,7 @@
     },
     {
       "blockId": "timeline-002",
-      "dateStart": "1750-10-03",
+      "dateStart": "1740-10-03",
       "dateEnd": null,
       "timeWindow": "night",
       "resolution": "part-of-day",
@@ -97,7 +97,7 @@
           "beatId": "B02",
           "title": "Alden Asks About Last Job",
           "boundaryReason": "Alden prompts the group to recount their last job, reveals his devotion to Dandelion House, and the party probes him before setting watches; the next beat starts with the morning departure.",
-          "dateStart": "1750-10-03",
+          "dateStart": "1740-10-03",
           "dateEnd": null,
           "timeWindow": "night",
           "sourceRange": {
@@ -145,7 +145,7 @@
     },
     {
       "blockId": "timeline-003",
-      "dateStart": "1750-10-04",
+      "dateStart": "1740-10-04",
       "dateEnd": null,
       "timeWindow": null,
       "resolution": "day",
@@ -177,7 +177,7 @@
           "beatId": "B03",
           "title": "Road To Dandelion House",
           "boundaryReason": "The party breaks camp, travels through the increasingly strange forest, reaches Dandelion House, and hesitates at the threshold; the next beat begins as they enter the house.",
-          "dateStart": "1750-10-04",
+          "dateStart": "1740-10-04",
           "dateEnd": null,
           "timeWindow": null,
           "sourceRange": {
@@ -239,7 +239,7 @@
     },
     {
       "blockId": "timeline-004",
-      "dateStart": "1750-10-04",
+      "dateStart": "1740-10-04",
       "dateEnd": null,
       "timeWindow": "evening",
       "resolution": "part-of-day",
@@ -272,7 +272,7 @@
           "beatId": "B04",
           "title": "Inside The Manor",
           "boundaryReason": "The group enters Dandelion House, explores the dusty preserved interior, ascends to meet Lord Holda, and gets seated and cleaned before dinner; the next beat starts with Holda's substantive explanation at the table.",
-          "dateStart": "1750-10-04",
+          "dateStart": "1740-10-04",
           "dateEnd": null,
           "timeWindow": "evening",
           "sourceRange": {
@@ -329,7 +329,7 @@
     },
     {
       "blockId": "timeline-005",
-      "dateStart": "1750-10-04",
+      "dateStart": "1740-10-04",
       "dateEnd": null,
       "timeWindow": "night",
       "resolution": "part-of-day",
@@ -365,7 +365,7 @@
           "beatId": "B05",
           "title": "Holda Explains The Contract",
           "boundaryReason": "Dinner with Lord Holda covers his adventuring past, the ancient deed, the treaty condition, the other side of the door, and the party's acceptance of the job; the next beat begins with their private reaction before bed.",
-          "dateStart": "1750-10-04",
+          "dateStart": "1740-10-04",
           "dateEnd": null,
           "timeWindow": "night",
           "sourceRange": {
@@ -441,7 +441,7 @@
           "beatId": "B06",
           "title": "Deal And Nighttime Doubts",
           "boundaryReason": "After Holda leaves, the party debates the suspicious contract and possible treasure, handles last errands and supplies, and takes the long rest; the next beat begins when the magical clock wakes them before dawn.",
-          "dateStart": "1750-10-04",
+          "dateStart": "1740-10-04",
           "dateEnd": null,
           "timeWindow": "night",
           "sourceRange": {
@@ -509,7 +509,7 @@
     },
     {
       "blockId": "timeline-006",
-      "dateStart": "1750-10-05",
+      "dateStart": "1740-10-05",
       "dateEnd": null,
       "timeWindow": "dawn",
       "resolution": "part-of-day",
@@ -541,7 +541,7 @@
           "beatId": "B07",
           "title": "Into The Root Tunnel",
           "boundaryReason": "The party wakes before dawn, descends through the basement and root cellar, crawls into the enormous root passage, and ends on the door closing behind them.",
-          "dateStart": "1750-10-05",
+          "dateStart": "1740-10-05",
           "dateEnd": null,
           "timeWindow": "dawn",
           "sourceRange": {
@@ -618,7 +618,7 @@
           "endUid": "u0442"
         }
       ],
-      "dateStart": "1750-10-03",
+      "dateStart": "1740-10-03",
       "dateEnd": null,
       "timeWindow": "evening",
       "resolution": "part-of-day",
@@ -642,7 +642,7 @@
           "beatId": "B01",
           "title": "Campfire Introductions",
           "boundaryReason": "Opening setup and the full campfire round of PC descriptions and party relationship backstory; the next beat begins when Alden shifts the conversation to their previous job.",
-          "dateStart": "1750-10-03",
+          "dateStart": "1740-10-03",
           "dateEnd": null,
           "timeWindow": "evening",
           "sourceRange": {
@@ -686,7 +686,7 @@
           "endUid": "u0698"
         }
       ],
-      "dateStart": "1750-10-03",
+      "dateStart": "1740-10-03",
       "dateEnd": null,
       "timeWindow": "night",
       "resolution": "part-of-day",
@@ -710,7 +710,7 @@
           "beatId": "B02",
           "title": "Alden Asks About Last Job",
           "boundaryReason": "Alden prompts the group to recount their last job, reveals his devotion to Dandelion House, and the party probes him before setting watches; the next beat starts with the morning departure.",
-          "dateStart": "1750-10-03",
+          "dateStart": "1740-10-03",
           "dateEnd": null,
           "timeWindow": "night",
           "sourceRange": {
@@ -773,7 +773,7 @@
           "endUid": "u1129"
         }
       ],
-      "dateStart": "1750-10-04",
+      "dateStart": "1740-10-04",
       "dateEnd": null,
       "timeWindow": null,
       "resolution": "day",
@@ -802,7 +802,7 @@
           "beatId": "B03",
           "title": "Road To Dandelion House",
           "boundaryReason": "The party breaks camp, travels through the increasingly strange forest, reaches Dandelion House, and hesitates at the threshold; the next beat begins as they enter the house.",
-          "dateStart": "1750-10-04",
+          "dateStart": "1740-10-04",
           "dateEnd": null,
           "timeWindow": null,
           "sourceRange": {
@@ -879,7 +879,7 @@
           "endUid": "u1415"
         }
       ],
-      "dateStart": "1750-10-04",
+      "dateStart": "1740-10-04",
       "dateEnd": null,
       "timeWindow": "evening",
       "resolution": "part-of-day",
@@ -909,7 +909,7 @@
           "beatId": "B04",
           "title": "Inside The Manor",
           "boundaryReason": "The group enters Dandelion House, explores the dusty preserved interior, ascends to meet Lord Holda, and gets seated and cleaned before dinner; the next beat starts with Holda's substantive explanation at the table.",
-          "dateStart": "1750-10-04",
+          "dateStart": "1740-10-04",
           "dateEnd": null,
           "timeWindow": "evening",
           "sourceRange": {
@@ -981,7 +981,7 @@
           "endUid": "u1832"
         }
       ],
-      "dateStart": "1750-10-04",
+      "dateStart": "1740-10-04",
       "dateEnd": null,
       "timeWindow": "night",
       "resolution": "part-of-day",
@@ -1008,7 +1008,7 @@
           "beatId": "B05",
           "title": "Holda Explains The Contract",
           "boundaryReason": "Dinner with Lord Holda covers his adventuring past, the ancient deed, the treaty condition, the other side of the door, and the party's acceptance of the job; the next beat begins with their private reaction before bed.",
-          "dateStart": "1750-10-04",
+          "dateStart": "1740-10-04",
           "dateEnd": null,
           "timeWindow": "night",
           "sourceRange": {
@@ -1099,7 +1099,7 @@
           "endUid": "u2010"
         }
       ],
-      "dateStart": "1750-10-04",
+      "dateStart": "1740-10-04",
       "dateEnd": null,
       "timeWindow": "night",
       "resolution": "part-of-day",
@@ -1127,7 +1127,7 @@
           "beatId": "B06",
           "title": "Deal And Nighttime Doubts",
           "boundaryReason": "After Holda leaves, the party debates the suspicious contract and possible treasure, handles last errands and supplies, and takes the long rest; the next beat begins when the magical clock wakes them before dawn.",
-          "dateStart": "1750-10-04",
+          "dateStart": "1740-10-04",
           "dateEnd": null,
           "timeWindow": "night",
           "sourceRange": {
@@ -1210,7 +1210,7 @@
           "endUid": "u2156"
         }
       ],
-      "dateStart": "1750-10-05",
+      "dateStart": "1740-10-05",
       "dateEnd": null,
       "timeWindow": "dawn",
       "resolution": "part-of-day",
@@ -1239,7 +1239,7 @@
           "beatId": "B07",
           "title": "Into The Root Tunnel",
           "boundaryReason": "The party wakes before dawn, descends through the basement and root cellar, crawls into the enormous root passage, and ends on the door closing behind them.",
-          "dateStart": "1750-10-05",
+          "dateStart": "1740-10-05",
           "dateEnd": null,
           "timeWindow": "dawn",
           "sourceRange": {
@@ -1428,22 +1428,22 @@
           "history": [
             {
               "location": "Old wood west of Tollen",
-              "dateStart": "1750-10-03",
+              "dateStart": "1740-10-03",
               "dateEnd": null
             },
             {
               "location": "old wood west of Tollen -> Dandelion House grounds",
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null
             },
             {
               "location": "Dandelion House",
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null
             },
             {
               "location": "guest quarters -> root tunnel beneath Dandelion House",
-              "dateStart": "1750-10-05",
+              "dateStart": "1740-10-05",
               "dateEnd": null
             }
           ]
@@ -1460,7 +1460,7 @@
           "history": [
             {
               "location": "old wood west of Tollen -> Dandelion House grounds",
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null
             }
           ]
@@ -1478,12 +1478,12 @@
           "history": [
             {
               "location": "old wood west of Tollen -> Dandelion House grounds",
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null
             },
             {
               "location": "Dandelion House",
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null
             }
           ]
@@ -1502,12 +1502,12 @@
           "history": [
             {
               "location": "Dandelion House",
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null
             },
             {
               "location": "guest quarters -> root tunnel beneath Dandelion House",
-              "dateStart": "1750-10-05",
+              "dateStart": "1740-10-05",
               "dateEnd": null
             }
           ]
@@ -1526,7 +1526,7 @@
           ],
           "visits": [
             {
-              "dateStart": "1750-10-03",
+              "dateStart": "1740-10-03",
               "dateEnd": null,
               "kind": "visited"
             }
@@ -1543,7 +1543,7 @@
           ],
           "visits": [
             {
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null,
               "kind": "traveled-through"
             }
@@ -1560,7 +1560,7 @@
           ],
           "visits": [
             {
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null,
               "kind": "visited"
             }
@@ -1579,7 +1579,7 @@
           ],
           "visits": [
             {
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null,
               "kind": "visited"
             }
@@ -1596,7 +1596,7 @@
           ],
           "visits": [
             {
-              "dateStart": "1750-10-05",
+              "dateStart": "1740-10-05",
               "dateEnd": null,
               "kind": "traveled-through"
             }
@@ -1613,7 +1613,7 @@
           ],
           "visits": [
             {
-              "dateStart": "1750-10-05",
+              "dateStart": "1740-10-05",
               "dateEnd": null,
               "kind": "visited"
             }
@@ -1634,7 +1634,7 @@
           "history": [
             {
               "location": "old wood west of Tollen -> Dandelion House grounds",
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null
             }
           ]
@@ -1651,7 +1651,7 @@
           "history": [
             {
               "location": "Dandelion House",
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null
             }
           ]
@@ -1668,7 +1668,7 @@
           "history": [
             {
               "location": "Dandelion House",
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null
             }
           ]
@@ -1685,7 +1685,7 @@
           "history": [
             {
               "location": "Dandelion House",
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null
             }
           ]
@@ -1702,7 +1702,7 @@
           "history": [
             {
               "location": "Dandelion House",
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null
             }
           ]
@@ -1719,7 +1719,7 @@
           "history": [
             {
               "location": "Dandelion House",
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null
             }
           ]
@@ -1736,7 +1736,7 @@
           "history": [
             {
               "location": "Dandelion House",
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null
             }
           ]
@@ -1753,7 +1753,7 @@
           "history": [
             {
               "location": "Dandelion House",
-              "dateStart": "1750-10-04",
+              "dateStart": "1740-10-04",
               "dateEnd": null
             }
           ]
@@ -1770,7 +1770,7 @@
           "history": [
             {
               "location": "guest quarters -> root tunnel beneath Dandelion House",
-              "dateStart": "1750-10-05",
+              "dateStart": "1740-10-05",
               "dateEnd": null
             }
           ]
@@ -1787,7 +1787,7 @@
           "history": [
             {
               "location": "guest quarters -> root tunnel beneath Dandelion House",
-              "dateStart": "1750-10-05",
+              "dateStart": "1740-10-05",
               "dateEnd": null
             }
           ]
