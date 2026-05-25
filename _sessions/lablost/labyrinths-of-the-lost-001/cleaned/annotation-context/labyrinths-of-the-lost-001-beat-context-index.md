@@ -31,16 +31,16 @@
 
 ## beat-004 - A Goblin Ruse Unravels
 
-- Lines: 324
-- Range: `u1208` -> `u1531`
+- Lines: 312
+- Range: `u1208` -> `u1519`
 - Date Start: 1748-10-17
 - Date End: same day
 - Time Window: afternoon
 
 ## beat-005 - Fog Fight by the Barracks
 
-- Lines: 275
-- Range: `u1532` -> `u1806`
+- Lines: 287
+- Range: `u1520` -> `u1806`
 - Date Start: 1748-10-17
 - Date End: same day
 - Time Window: afternoon

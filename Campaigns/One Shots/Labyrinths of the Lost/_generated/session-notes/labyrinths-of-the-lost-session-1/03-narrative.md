@@ -1,5 +1,6 @@
 ---
 excludePublish: ["all"]
+tags: [status/check/ai]
 sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-session.yaml"
 ---
 
@@ -14,13 +15,13 @@ With the first guards dead, the party recovers their gear, rests in the smithy, 
 
 Rather than charge the barracks, they send Gaudin disguised as Morky with Loria posed as a captive, using telepathic translation to fake a prisoner transfer.
 
-When Folcan sees through the act and orders Loria seized, she panics and drops a fog cloud, triggering a fight. The party kills the path guards, and then drag Folcan back to the smithy alive.
+When Folcan orders Loria seized, her fog cloud turns the failed bluff into a fast fight that leaves the guards dead and Folcan captive.
 
 Back at the smithy, they break Folcan's nerve and learn Grimstone's arrangement, the goblin numbers, and the tunnel routes toward the manor's wine cellar.
 <!-- /SLOT -->
 
 <!-- SLOT: narrative.intermediate -->
-Acescale, Gaudin, Loria, and Dilion regain consciousness in a makeshift prison on the grounds of Perdoli Manor in Western Cymea. They break out through a rotten wall, scavenge usable gear from the smithy and side room, and learn from nearby goblin chatter that Grimstone is behind a steady traffic in prisoners.
+Acescale, Gaudin, Loria, and Dilion regain consciousness in a makeshift prison on the grounds of Perdoli Manor in [[Western Cymea]]. They break out through a rotten wall, scavenge usable gear from the smithy and side room, and learn from nearby goblin chatter that Grimstone is behind a steady traffic in prisoners.
 
 Armed and warned by what they overheard, they move on the guard room, where one barred door turns a planned ambush into a messy brawl. Loria hacks at knees, spells and missiles keep pressure on the room, and the three drunken jailers go down before the rest of the estate can react.
 
@@ -28,7 +29,7 @@ With the forge room cleared, the party reclaims stolen gear, food, and scattered
 
 Rather than assault the barracks directly, the party tries a deception. Gaudin takes a goblin shape, Loria lets herself be staged as a bound prisoner, the others hide behind the hedgerow with Dilion's steel defender ready, and Loria feeds Gaudin Goblin lines telepathically while the act lurches forward.
 
-Once Folcan turns on them, Loria panics as the deception seems to fail, and fills the path with fog. The bluff becomes an open fight. In the confusion Loria cuts down the goblin holding her, while the others bring down the rest of the path guards from the hedge and the road. After the fight, Folcan is hauled back alive for questioning.
+Once Folcan turns on them, Loria panics as the deception fails and fills the path with fog. In the confusion she cuts down the goblin holding her, while the others bring down the rest of the path guards from the hedge and the road before dragging Folcan back alive for questioning.
 
 Back at the smithy, with Folcan tied up and disarmed, the party turns to interrogation. Under acid, threats, and repeated questioning, he explains Grimstone's weekly prisoner-taking scheme, names the surviving goblin force in the barracks, and points to tunnels from the barracks, kitchen, and perhaps the chapel as the likeliest routes into the manor.
 <!-- /SLOT -->
@@ -42,7 +43,7 @@ Once the immediate danger has passed, the party searches the goblin room thoroug
 
 After resting and scouting the grounds, the party decides against rushing a building full of goblins and instead stages a fake prisoner transfer outside the barracks. Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind the hedgerow while Loria silently translates and feeds Gaudin words he can only repeat phonetically. The plan is awkward from the start, but it is almost good enough to draw out the first two guards and then Folcan himself. The scene finally turns when one goblin spots Loria's hidden sword and Folcan, sharper than the first drunk guards, sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized.
 
-The moment the goblins move to grab Loria, she panics and throws a fog cloud across the path and hedgerow, wiping out sight lines and turning the stalled bluff into a vicious fight. Fighting through the mist, Loria cuts down the goblin grappling her, Gaudin slips clear and starts firing from range, Dilion and his steel defender press forward from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is battered and taken alive, and the party retreats to the smithy to question him.
+The moment the goblins move to grab Loria, she throws a fog cloud across the path and hedgerow, wiping out sight lines and turning the stalled bluff into a vicious fight. Fighting through the mist, Loria cuts down the goblin grappling her, Gaudin slips clear and starts firing from range, Dilion and his steel defender press forward from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is battered and taken alive, and the party retreats to the smithy to question him.
 
 Back at the smithy, the party revives Folcan, strips him of his bone staff, and alternates threats, acid, and questions until he stops posturing. He explains that Grimstone appears in black robes and a white marble mask, takes one prisoner each week into the manor, and pays the goblins in loot while keeping the best treasure. Under pressure, Folcan also reveals that ten goblins plus Ulgna remain in the barracks, that hobgoblins guard the outer gates and the manor door, and that tunnels from the barracks and kitchen, with a rumored chapel entrance, all lead toward the wine cellar. By the end of the exchange, the party is leaning toward a tunnel approach and using Folcan to buy time before the barracks checks on him.
 <!-- /SLOT -->

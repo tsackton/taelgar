@@ -1,11 +1,15 @@
+---
+tags: [status/recap-review, status/check/ai]
+---
+
 # Session Recap
 
 ## Session Header
 
 - Title: Labyrinths of the Lost - Session 1
-- Desc Title: Escape
-- Tagline: in which four captives turn the tables on their goblin guards
-- One-Sentence Summary: Four prisoners break out of a smithy cell on the grounds of Perdoli Manor, kill two groups of goblin guards, capture the goblin Folcan, and learn that Grimstone captures prisoners weekly, who disappear into the manor.
+- Desc Title: The Smithy Escape
+- Tagline: in which captives turn on their goblin guards
+- One-Sentence Summary: Four prisoners break out of a smithy cell on the grounds of Perdoli Manor, kill two groups of goblin guards, capture Folcan, and learn that Grimstone's prisoners disappear into the manor.
 - Campaign: Labyrinths of the Lost
 - Scope: session
 - Session Number: 1
@@ -126,7 +130,7 @@ Once the immediate danger has passed, the party searches the goblin room thoroug
 - Beat IDs: beat-004
 - Date: 1748-10-17
 - Time: afternoon
-- Source Range: u1208 -> u1531
+- Source Range: u1208 -> u1519
 - Locations: Perdoli Manor
 - NPCs: Folcan
 - Organizations: none
@@ -148,7 +152,7 @@ After resting and scouting the grounds, the party decides against rushing a buil
 - Beat IDs: beat-005
 - Date: 1748-10-17
 - Time: afternoon
-- Source Range: u1532 -> u1806
+- Source Range: u1520 -> u1806
 - Locations: Perdoli Manor
 - NPCs: Folcan
 - Organizations: none
@@ -156,13 +160,13 @@ After resting and scouting the grounds, the party decides against rushing a buil
 - Enemies: Folcan and three barracks goblins
 
 #### Short
-When Folcan sees through the act and orders Loria seized, she panics and drops a fog cloud, triggering a fight. The party kills the path guards, and then drag Folcan back to the smithy alive.
+When Folcan orders Loria seized, her fog cloud turns the failed bluff into a fast fight that leaves the guards dead and Folcan captive.
 
 #### Intermediate
-Once Folcan turns on them, Loria panics as the deception seems to fail, and fills the path with fog. The bluff becomes an open fight. In the confusion Loria cuts down the goblin holding her, while the others bring down the rest of the path guards from the hedge and the road. After the fight, Folcan is hauled back alive for questioning.
+Once Folcan turns on them, Loria panics as the deception fails and fills the path with fog. In the confusion she cuts down the goblin holding her, while the others bring down the rest of the path guards from the hedge and the road before dragging Folcan back alive for questioning.
 
 #### Long
-The moment the goblins move to grab Loria, she panics and throws a fog cloud across the path and hedgerow, wiping out sight lines and turning the stalled bluff into a vicious fight. Fighting through the mist, Loria cuts down the goblin grappling her, Gaudin slips clear and starts firing from range, Dilion and his steel defender press forward from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is battered and taken alive, and the party retreats to the smithy to question him.
+The moment the goblins move to grab Loria, she throws a fog cloud across the path and hedgerow, wiping out sight lines and turning the stalled bluff into a vicious fight. Fighting through the mist, Loria cuts down the goblin grappling her, Gaudin slips clear and starts firing from range, Dilion and his steel defender press forward from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is battered and taken alive, and the party retreats to the smithy to question him.
 
 ### recap-006 | Folcan Names the Tunnels
 
@@ -198,8 +202,8 @@ Back at the smithy, the party revives Folcan, strips him of his bone staff, and 
   - Perdoli Manor, 1748-10-17
 - Folcan (met, fought): goblin boss with a staff
   - Perdoli Manor, 1748-10-17
-- Ulgna (mentioned): goblin leader still in the barracks
-- Grimstone (mentioned): masked master who takes prisoners into the manor
+- Ulgna (mentioned): goblin superior blamed by the guards
+- Grimstone (mentioned): mysterious master taking prisoners
 
 ## Locations
 

@@ -12,6 +12,7 @@
       "dateStart": "1748-10-17",
       "dateEnd": null,
       "timeWindow": "midday",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "The session opens with the four prisoners waking in a crude wooden cell, introducing themselves, finding the rotten plank escape, scavenging tools and clothes from the adjoining rooms, overhearing the drunk goblins beyond the door, and finally settling on a plan to rush the guards from two sides.",
       "dateEvidence": [
@@ -29,6 +30,7 @@
       "dateStart": "1748-10-17",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": true,
       "boundaryReason": "Once the ambush starts, the whole scene stays focused on the first guard-room fight: the party fumbles the doorway plan, rolls into initiative, and then steadily cuts down the three drunk goblin jailers in the forge-side room before the magical darkness and the fight both end.",
       "dateEvidence": [
@@ -46,6 +48,7 @@
       "dateStart": "1748-10-17",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "With the guard room secured, the party loots weapons and stolen gear, steps outside to understand the ruined manor grounds around them, recovers equipment and food, takes a short rest and level-up pause, and then surveys the nearby barracks and overgrown estate while deciding what kind of approach to try next.",
       "dateEvidence": [
@@ -58,13 +61,14 @@
       "beatId": "beat-004",
       "title": "A Goblin Ruse Unravels",
       "startUid": "u1208",
-      "endUid": "u1531",
-      "lineCount": 324,
+      "endUid": "u1519",
+      "lineCount": 312,
       "dateStart": "1748-10-17",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": false,
-      "boundaryReason": "The next phase is entirely about the deception attempt: the party decides to use Loria's Goblin and silent speech with Gaudin's disguise, stages a fake prisoner transfer outside the barracks, and almost sells the act before Folcan and the other goblins grow suspicious and Loria breaks the standoff with a fog cloud.",
+      "boundaryReason": "The next phase is entirely about the deception attempt: the party decides to use Loria's Goblin and silent speech with Gaudin's disguise, stages a fake prisoner transfer outside the barracks, and almost sells the act before Folcan and the other goblins close in enough that Loria casts fog cloud.",
       "dateEvidence": [
         "this beat follows the manor-ground planning immediately, with no intervening rest",
         "the DM explicitly calls it late afternoon while the disguised approach plays out near the barracks",
@@ -74,14 +78,15 @@
     {
       "beatId": "beat-005",
       "title": "Fog Fight by the Barracks",
-      "startUid": "u1532",
+      "startUid": "u1520",
       "endUid": "u1806",
-      "lineCount": 275,
+      "lineCount": 287,
       "dateStart": "1748-10-17",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": true,
-      "boundaryReason": "Once the fog cloud goes up, the deception is over and the whole beat becomes a tight skirmish outside the barracks, with the party using the hedgerow and obscuring mist to kill the goblin guards quickly enough to avoid drawing the full barracks, then dragging the surviving boss back for questioning.",
+      "boundaryReason": "Once Loria casts fog cloud, the deception is over and the whole beat becomes a tight skirmish outside the barracks, with the party using the hedgerow and obscuring mist to kill the goblin guards quickly enough to avoid drawing the full barracks, then dragging the surviving boss back for questioning.",
       "dateEvidence": [
         "the beat begins at the moment the failed ruse converts into open initiative",
         "the DM warns that the barracks will hear the fight after only a few rounds, underscoring that the whole battle is a brief continuous exchange",
@@ -97,6 +102,7 @@
       "dateStart": "1748-10-17",
       "dateEnd": null,
       "timeWindow": "afternoon",
+      "dateResolution": "exact",
       "containsCombat": false,
       "boundaryReason": "Back at the forge and hedge line, the party spends the rest of the session interrogating Folcan, learning how Grimstone's prisoner racket works, how many goblins and hobgoblins are nearby, and where the tunnel entrances might reach the wine cellar, before ending on a tentative plan to send Folcan back and exploit the tunnels next time.",
       "dateEvidence": [

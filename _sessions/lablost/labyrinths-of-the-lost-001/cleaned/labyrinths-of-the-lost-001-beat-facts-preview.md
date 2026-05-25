@@ -72,8 +72,8 @@
 **Date**: 1748-10-17
 **Time Window**: afternoon
 **Combat**: no
-**Short Summary**: The party tries to bluff the barracks with Gaudin disguised as Morky and Loria posing as a captive, but Folcan reads the scene too quickly for the ruse to hold.
-**Long Summary**: Instead of storming the barracks, the party stages a fake prisoner transfer on the hedgerow path: Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind cover while Loria telepathically feeds Gaudin Goblin lines. The act is awkward but almost good enough to draw out two guards and then Folcan, yet once one goblin spots Loria's hidden sword and Folcan arrives, he sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized, leaving the bluff on the verge of collapse.
+**Short Summary**: The party tries to bluff the barracks with Gaudin disguised as Morky and Loria posing as a captive, but Folcan and his goblins close in before the ruse can hold.
+**Long Summary**: Instead of storming the barracks, the party stages a fake prisoner transfer on the hedgerow path: Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind cover while Loria telepathically feeds Gaudin Goblin lines. The act is awkward but almost good enough to draw out two guards and then Folcan, yet once one goblin spots Loria's hidden sword and Folcan arrives, he sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized, leaving her on the ground with goblins closing around her.
 **Location**:
 - Perdoli Manor (Western Cymea): hedgerow path between the smithy and the nearby barracks
   Note: The party tries to exploit cover near the barracks rather than storming the building directly.
@@ -93,8 +93,8 @@
 **Main Enemies**:
 - Folcan and three barracks goblins: The fight on the path involves Folcan, the suspicious goblin already on scene, and the two warriors who come out with him from the barracks.
 **Combat Notes**: Loria's fog cloud and the hedgerow let the party isolate the path fight, finish it inside roughly three rounds, and retreat with Folcan before the full barracks reacts.
-**Short Summary**: When the goblins move to grab Loria, she drops a fog cloud over the path, and the party wins the skirmish fast enough to drag Folcan back alive before the barracks reacts.
-**Long Summary**: Once Folcan orders Loria grabbed and sends one goblin running with instructions for Ulgna, Loria answers by filling the path and hedgerow with fog. Fighting through the obscuring mist, she cuts down the goblin holding her, Gaudin slips clear and fires from range, Dilion and the steel defender press from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is taken alive, and the party retreats to the smithy with just enough time to question him before the barracks comes looking.
+**Short Summary**: Loria drops a fog cloud over the path, and the party wins the skirmish fast enough to drag Folcan back alive before the barracks reacts.
+**Long Summary**: With the bluff collapsing, Loria fills the path and hedgerow with fog before Folcan sends a goblin running for backup and the fight becomes open combat. Fighting through the obscuring mist, she cuts down the goblin holding her, Gaudin slips clear and fires from range, Dilion and the steel defender press from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is taken alive, and the party retreats to the smithy with just enough time to question him before the barracks comes looking.
 **Location**:
 - Perdoli Manor (Western Cymea): fog-shrouded path and hedgerow outside the barracks
   Note: The fight stays outside the barracks itself and ends quickly enough to avoid a full alarm.

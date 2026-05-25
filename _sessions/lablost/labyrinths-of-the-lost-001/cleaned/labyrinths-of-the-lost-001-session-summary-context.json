@@ -141,15 +141,15 @@
       "sourceShortSummaries": [
         "The party's clumsy two-door ambush still succeeds, and the three drunken jailer goblins are killed in the forge-side guard room.",
         "With the first guards dead, the party loots back their gear, rests in the smithy, and surveys the grounds and nearby barracks of Perdoli Manor before choosing a stealthier next move.",
-        "The party tries to bluff the barracks with Gaudin disguised as Morky and Loria posing as a captive, but Folcan reads the scene too quickly for the ruse to hold.",
-        "When the goblins move to grab Loria, she drops a fog cloud over the path, and the party wins the skirmish fast enough to drag Folcan back alive before the barracks reacts.",
+        "The party tries to bluff the barracks with Gaudin disguised as Morky and Loria posing as a captive, but Folcan and his goblins close in before the ruse can hold.",
+        "Loria drops a fog cloud over the path, and the party wins the skirmish fast enough to drag Folcan back alive before the barracks reacts.",
         "Back at the smithy, the party breaks Folcan's nerve and learns how Grimstone's prisoner racket and tunnel routes into the manor work."
       ],
       "sourceLongSummaries": [
         "After discovering one of the two doors into the goblin room is barred, the party improvises a distraction and bursts into the first fight of the session. The goblin jailers are drunk but armed, and the brawl turns messy with darkness, acid, arrows, and Loria's brutal work at the knees, yet the group keeps the noise contained and kills the three guards before the rest of the manor notices.",
         "Once the immediate danger passes, the group searches the goblin room and recovered stores, reclaiming weapons, cards, food, and scattered personal gear. They step outside long enough to understand that they are on the edge of sprawling Perdoli Manor, with gardens, hedges, a distant main villa, and a nearby barracks, then settle in for a short rest, a level-up pause, and a longer planning discussion about whether to leave, hide, or probe the goblins further.",
-        "Instead of storming the barracks, the party stages a fake prisoner transfer on the hedgerow path: Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind cover while Loria telepathically feeds Gaudin Goblin lines. The act is awkward but almost good enough to draw out two guards and then Folcan, yet once one goblin spots Loria's hidden sword and Folcan arrives, he sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized, leaving the bluff on the verge of collapse.",
-        "Once Folcan orders Loria grabbed and sends one goblin running with instructions for Ulgna, Loria answers by filling the path and hedgerow with fog. Fighting through the obscuring mist, she cuts down the goblin holding her, Gaudin slips clear and fires from range, Dilion and the steel defender press from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is taken alive, and the party retreats to the smithy with just enough time to question him before the barracks comes looking.",
+        "Instead of storming the barracks, the party stages a fake prisoner transfer on the hedgerow path: Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind cover while Loria telepathically feeds Gaudin Goblin lines. The act is awkward but almost good enough to draw out two guards and then Folcan, yet once one goblin spots Loria's hidden sword and Folcan arrives, he sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized, leaving her on the ground with goblins closing around her.",
+        "With the bluff collapsing, Loria fills the path and hedgerow with fog before Folcan sends a goblin running for backup and the fight becomes open combat. Fighting through the obscuring mist, she cuts down the goblin holding her, Gaudin slips clear and fires from range, Dilion and the steel defender press from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is taken alive, and the party retreats to the smithy with just enough time to question him before the barracks comes looking.",
         "Back at the smithy, the party revives Folcan, takes away his bone staff, and alternates threats, acid, and questions until he stops posturing. He explains that Grimstone appears in black robes and a white marble mask, takes one prisoner each week into the manor, and pays the goblins in loot while keeping the best treasure. He also reveals that ten goblins plus Ulgna remain in the barracks, that hobgoblins guard the outer gates and the manor door, and that tunnels from the barracks and kitchen, with a rumored chapel entrance, all lead toward the wine cellar, leaving the party leaning toward a tunnel approach and using Folcan to buy time."
       ],
       "sourceEntries": [
@@ -261,16 +261,16 @@
         {
           "beatId": "beat-004",
           "title": "A Goblin Ruse Unravels",
-          "boundaryReason": "The next phase is entirely about the deception attempt: the party decides to use Loria's Goblin and silent speech with Gaudin's disguise, stages a fake prisoner transfer outside the barracks, and almost sells the act before Folcan and the other goblins grow suspicious and Loria breaks the standoff with a fog cloud.",
+          "boundaryReason": "The next phase is entirely about the deception attempt: the party decides to use Loria's Goblin and silent speech with Gaudin's disguise, stages a fake prisoner transfer outside the barracks, and almost sells the act before Folcan and the other goblins close in enough that Loria casts fog cloud.",
           "dateStart": "1748-10-17",
           "dateEnd": null,
           "timeWindow": "afternoon",
           "sourceRange": {
             "startUid": "u1208",
-            "endUid": "u1531"
+            "endUid": "u1519"
           },
-          "shortSummary": "The party tries to bluff the barracks with Gaudin disguised as Morky and Loria posing as a captive, but Folcan reads the scene too quickly for the ruse to hold.",
-          "longSummary": "Instead of storming the barracks, the party stages a fake prisoner transfer on the hedgerow path: Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind cover while Loria telepathically feeds Gaudin Goblin lines. The act is awkward but almost good enough to draw out two guards and then Folcan, yet once one goblin spots Loria's hidden sword and Folcan arrives, he sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized, leaving the bluff on the verge of collapse.",
+          "shortSummary": "The party tries to bluff the barracks with Gaudin disguised as Morky and Loria posing as a captive, but Folcan and his goblins close in before the ruse can hold.",
+          "longSummary": "Instead of storming the barracks, the party stages a fake prisoner transfer on the hedgerow path: Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind cover while Loria telepathically feeds Gaudin Goblin lines. The act is awkward but almost good enough to draw out two guards and then Folcan, yet once one goblin spots Loria's hidden sword and Folcan arrives, he sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized, leaving her on the ground with goblins closing around her.",
           "locationHints": {
             "refs": [
               "Perdoli Manor"
@@ -302,16 +302,16 @@
         {
           "beatId": "beat-005",
           "title": "Fog Fight by the Barracks",
-          "boundaryReason": "Once the fog cloud goes up, the deception is over and the whole beat becomes a tight skirmish outside the barracks, with the party using the hedgerow and obscuring mist to kill the goblin guards quickly enough to avoid drawing the full barracks, then dragging the surviving boss back for questioning.",
+          "boundaryReason": "Once Loria casts fog cloud, the deception is over and the whole beat becomes a tight skirmish outside the barracks, with the party using the hedgerow and obscuring mist to kill the goblin guards quickly enough to avoid drawing the full barracks, then dragging the surviving boss back for questioning.",
           "dateStart": "1748-10-17",
           "dateEnd": null,
           "timeWindow": "afternoon",
           "sourceRange": {
-            "startUid": "u1532",
+            "startUid": "u1520",
             "endUid": "u1806"
           },
-          "shortSummary": "When the goblins move to grab Loria, she drops a fog cloud over the path, and the party wins the skirmish fast enough to drag Folcan back alive before the barracks reacts.",
-          "longSummary": "Once Folcan orders Loria grabbed and sends one goblin running with instructions for Ulgna, Loria answers by filling the path and hedgerow with fog. Fighting through the obscuring mist, she cuts down the goblin holding her, Gaudin slips clear and fires from range, Dilion and the steel defender press from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is taken alive, and the party retreats to the smithy with just enough time to question him before the barracks comes looking.",
+          "shortSummary": "Loria drops a fog cloud over the path, and the party wins the skirmish fast enough to drag Folcan back alive before the barracks reacts.",
+          "longSummary": "With the bluff collapsing, Loria fills the path and hedgerow with fog before Folcan sends a goblin running for backup and the fight becomes open combat. Fighting through the obscuring mist, she cuts down the goblin holding her, Gaudin slips clear and fires from range, Dilion and the steel defender press from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is taken alive, and the party retreats to the smithy with just enough time to question him before the barracks comes looking.",
           "locationHints": {
             "refs": [
               "Perdoli Manor"
@@ -689,12 +689,12 @@
       ],
       "sourceRange": {
         "startUid": "u1208",
-        "endUid": "u1531"
+        "endUid": "u1519"
       },
       "sourceRanges": [
         {
           "startUid": "u1208",
-          "endUid": "u1531"
+          "endUid": "u1519"
         }
       ],
       "dateStart": "1748-10-17",
@@ -711,25 +711,25 @@
       "itemRefs": [],
       "combatEnemyRefs": [],
       "sourceShortSummaries": [
-        "The party tries to bluff the barracks with Gaudin disguised as Morky and Loria posing as a captive, but Folcan reads the scene too quickly for the ruse to hold."
+        "The party tries to bluff the barracks with Gaudin disguised as Morky and Loria posing as a captive, but Folcan and his goblins close in before the ruse can hold."
       ],
       "sourceLongSummaries": [
-        "Instead of storming the barracks, the party stages a fake prisoner transfer on the hedgerow path: Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind cover while Loria telepathically feeds Gaudin Goblin lines. The act is awkward but almost good enough to draw out two guards and then Folcan, yet once one goblin spots Loria's hidden sword and Folcan arrives, he sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized, leaving the bluff on the verge of collapse."
+        "Instead of storming the barracks, the party stages a fake prisoner transfer on the hedgerow path: Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind cover while Loria telepathically feeds Gaudin Goblin lines. The act is awkward but almost good enough to draw out two guards and then Folcan, yet once one goblin spots Loria's hidden sword and Folcan arrives, he sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized, leaving her on the ground with goblins closing around her."
       ],
       "sourceEntries": [
         {
           "beatId": "beat-004",
           "title": "A Goblin Ruse Unravels",
-          "boundaryReason": "The next phase is entirely about the deception attempt: the party decides to use Loria's Goblin and silent speech with Gaudin's disguise, stages a fake prisoner transfer outside the barracks, and almost sells the act before Folcan and the other goblins grow suspicious and Loria breaks the standoff with a fog cloud.",
+          "boundaryReason": "The next phase is entirely about the deception attempt: the party decides to use Loria's Goblin and silent speech with Gaudin's disguise, stages a fake prisoner transfer outside the barracks, and almost sells the act before Folcan and the other goblins close in enough that Loria casts fog cloud.",
           "dateStart": "1748-10-17",
           "dateEnd": null,
           "timeWindow": "afternoon",
           "sourceRange": {
             "startUid": "u1208",
-            "endUid": "u1531"
+            "endUid": "u1519"
           },
-          "shortSummary": "The party tries to bluff the barracks with Gaudin disguised as Morky and Loria posing as a captive, but Folcan reads the scene too quickly for the ruse to hold.",
-          "longSummary": "Instead of storming the barracks, the party stages a fake prisoner transfer on the hedgerow path: Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind cover while Loria telepathically feeds Gaudin Goblin lines. The act is awkward but almost good enough to draw out two guards and then Folcan, yet once one goblin spots Loria's hidden sword and Folcan arrives, he sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized, leaving the bluff on the verge of collapse.",
+          "shortSummary": "The party tries to bluff the barracks with Gaudin disguised as Morky and Loria posing as a captive, but Folcan and his goblins close in before the ruse can hold.",
+          "longSummary": "Instead of storming the barracks, the party stages a fake prisoner transfer on the hedgerow path: Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind cover while Loria telepathically feeds Gaudin Goblin lines. The act is awkward but almost good enough to draw out two guards and then Folcan, yet once one goblin spots Loria's hidden sword and Folcan arrives, he sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized, leaving her on the ground with goblins closing around her.",
           "locationHints": {
             "refs": [
               "Perdoli Manor"
@@ -768,12 +768,12 @@
         "beat-005"
       ],
       "sourceRange": {
-        "startUid": "u1532",
+        "startUid": "u1520",
         "endUid": "u1806"
       },
       "sourceRanges": [
         {
-          "startUid": "u1532",
+          "startUid": "u1520",
           "endUid": "u1806"
         }
       ],
@@ -793,25 +793,25 @@
         "Folcan and three barracks goblins"
       ],
       "sourceShortSummaries": [
-        "When the goblins move to grab Loria, she drops a fog cloud over the path, and the party wins the skirmish fast enough to drag Folcan back alive before the barracks reacts."
+        "Loria drops a fog cloud over the path, and the party wins the skirmish fast enough to drag Folcan back alive before the barracks reacts."
       ],
       "sourceLongSummaries": [
-        "Once Folcan orders Loria grabbed and sends one goblin running with instructions for Ulgna, Loria answers by filling the path and hedgerow with fog. Fighting through the obscuring mist, she cuts down the goblin holding her, Gaudin slips clear and fires from range, Dilion and the steel defender press from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is taken alive, and the party retreats to the smithy with just enough time to question him before the barracks comes looking."
+        "With the bluff collapsing, Loria fills the path and hedgerow with fog before Folcan sends a goblin running for backup and the fight becomes open combat. Fighting through the obscuring mist, she cuts down the goblin holding her, Gaudin slips clear and fires from range, Dilion and the steel defender press from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is taken alive, and the party retreats to the smithy with just enough time to question him before the barracks comes looking."
       ],
       "sourceEntries": [
         {
           "beatId": "beat-005",
           "title": "Fog Fight by the Barracks",
-          "boundaryReason": "Once the fog cloud goes up, the deception is over and the whole beat becomes a tight skirmish outside the barracks, with the party using the hedgerow and obscuring mist to kill the goblin guards quickly enough to avoid drawing the full barracks, then dragging the surviving boss back for questioning.",
+          "boundaryReason": "Once Loria casts fog cloud, the deception is over and the whole beat becomes a tight skirmish outside the barracks, with the party using the hedgerow and obscuring mist to kill the goblin guards quickly enough to avoid drawing the full barracks, then dragging the surviving boss back for questioning.",
           "dateStart": "1748-10-17",
           "dateEnd": null,
           "timeWindow": "afternoon",
           "sourceRange": {
-            "startUid": "u1532",
+            "startUid": "u1520",
             "endUid": "u1806"
           },
-          "shortSummary": "When the goblins move to grab Loria, she drops a fog cloud over the path, and the party wins the skirmish fast enough to drag Folcan back alive before the barracks reacts.",
-          "longSummary": "Once Folcan orders Loria grabbed and sends one goblin running with instructions for Ulgna, Loria answers by filling the path and hedgerow with fog. Fighting through the obscuring mist, she cuts down the goblin holding her, Gaudin slips clear and fires from range, Dilion and the steel defender press from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is taken alive, and the party retreats to the smithy with just enough time to question him before the barracks comes looking.",
+          "shortSummary": "Loria drops a fog cloud over the path, and the party wins the skirmish fast enough to drag Folcan back alive before the barracks reacts.",
+          "longSummary": "With the bluff collapsing, Loria fills the path and hedgerow with fog before Folcan sends a goblin running for backup and the fight becomes open combat. Fighting through the obscuring mist, she cuts down the goblin holding her, Gaudin slips clear and fires from range, Dilion and the steel defender press from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is taken alive, and the party retreats to the smithy with just enough time to question him before the barracks comes looking.",
           "locationHints": {
             "refs": [
               "Perdoli Manor"

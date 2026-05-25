@@ -12,8 +12,8 @@ Do not edit `beats.json`.
 
 - Beat ID: beat-005
 - Title: Fog Fight by the Barracks
-- Range: `u1532` -> `u1806`
-- Lines: 275
+- Range: `u1520` -> `u1806`
+- Lines: 287
 - Date Start: 1748-10-17
 - Date End: same day
 - Time Window: afternoon
@@ -79,6 +79,18 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 
 ## Source
 
+[u1520 | 02:38:13.980-02:38:16.380 | Loria] I cast fog cloud.
+[u1521 | 02:38:18.050-02:38:20.570 | Loria] Okay.
+[u1522 | 02:38:20.690-02:38:25.669 | Gaudin] what the fuck I've been taking fix to keep the solution up
+[u1523 | 02:38:27.690-02:38:34.420 | DM] it's happening. It's a 20 foot radius sphere centered on yourself.
+[u1524 | 02:38:35.360-02:38:44.570 | Loria] Yeah. 40 feet across that reaches all the way up to the hedgerow. -Oh!
+[u1525 | 02:38:44.830-02:38:47.620 | DM] And he's suddenly like, what the hell
+[u1526 | 02:38:49.480-02:38:51.539 | DM] turns and and
+[u1527 | 02:38:51.580-02:38:54.350 | DM] says in Goblin to one of the 2 goblins.
+[u1528 | 02:38:55.530-02:38:59.880 | DM] something's wrong.
+[u1529 | 02:39:00.430-02:39:01.760 | DM] Go get back up!
+[u1530 | 02:39:02.110-02:39:03.520 | Gaudin] No!
+[u1531 | 02:39:03.630-02:39:21.709 | Gaudin] Oh, is it time?
 [u1532 | 02:39:21.840-02:39:28.429 | DM] I'm not sure you get advantage on initiative that time. This is a pretty even rule. Let me just
 [u1533 | 02:39:28.640-02:39:30.220 | Loria] sketch this out of that.
 [u1534 | 02:39:31.670-02:39:37.600 | DM] Is this. Gonna be the cursed initiative party. Oh, my initiative is okay.

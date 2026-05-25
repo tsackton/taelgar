@@ -1504,7 +1504,7 @@
 [u1504 | 02:36:49.520-02:37:02.199 | DM] yeah, towards the edge, just as one of the go. One of the 2 goblins is like trying to say like, something's wrong here. But it's just completely ignoring the other 2 goblins.
 [u1505 | 02:37:02.440-02:37:06.249 | DM] Grab that damn halfling. Drag her along.
 [u1506 | 02:37:06.590-02:37:08.850 | Loria] We're gonna deal with this
-[u1507 | 02:37:10.120-02:37:12.420 | Loria] Gloria yells
+[u1507 | 02:37:10.120-02:37:12.420 | Loria] Loria yells
 [u1508 | 02:37:12.650-02:37:16.569 | Loria] telepathically in Goblin to the one coming towards her. That
 [u1509 | 02:37:17.640-02:37:22.390 | Loria] or Organa Agna. I don't know which. I'm gonna go with Agna.
 [u1510 | 02:37:22.880-02:37:24.049 | Loria] wants him back.

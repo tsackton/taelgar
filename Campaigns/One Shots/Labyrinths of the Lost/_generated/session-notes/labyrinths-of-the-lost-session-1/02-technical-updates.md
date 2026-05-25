@@ -1,5 +1,6 @@
 ---
 excludePublish: ["all"]
+tags: [status/check/ai]
 sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-session.yaml"
 ---
 
@@ -15,9 +16,13 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 
 <!-- SLOT: updates.whereabouts.npcs -->
 - Morky: candidate whereabouts update from (DR:: 1748-10-17), afternoon -> [[Perdoli Manor]].
+  - Whereabouts line: `- {type: away, start: 1748-10-17, location: Perdoli Manor}`
 - Norrica: candidate whereabouts update from (DR:: 1748-10-17), afternoon -> [[Perdoli Manor]].
+  - Whereabouts line: `- {type: away, start: 1748-10-17, location: Perdoli Manor}`
 - Skelver: candidate whereabouts update from (DR:: 1748-10-17), afternoon -> [[Perdoli Manor]].
+  - Whereabouts line: `- {type: away, start: 1748-10-17, location: Perdoli Manor}`
 - Folcan: candidate whereabouts update from (DR:: 1748-10-17), afternoon -> [[Perdoli Manor]].
+  - Whereabouts line: `- {type: away, start: 1748-10-17, location: Perdoli Manor}`
 <!-- /SLOT -->
 
 <!-- SLOT: updates.timeline -->

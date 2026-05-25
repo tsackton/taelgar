@@ -407,6 +407,8 @@ def dump_frontmatter(frontmatter: Dict[str, Any]) -> str:
 
 
 def parse_session_recap(text: str) -> Dict[str, Any]:
+    _frontmatter, body = split_frontmatter(text)
+    text = body.lstrip("\n")
     lines = text.splitlines()
     errors: List[str] = []
 
