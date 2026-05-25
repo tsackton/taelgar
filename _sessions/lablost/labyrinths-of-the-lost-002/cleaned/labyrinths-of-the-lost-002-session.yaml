@@ -1,5 +1,6 @@
 schemaVersion: '1.0'
 sourceType: transcript
+scope: session
 campaign: Labyrinths of the Lost
 sessionNumber: 2
 realWorldDate: 2023-11-25
@@ -32,5 +33,6 @@ sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Document
 sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-002/sources/lablost-ep02-source-prep.yaml
 participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-002/sources/lablost-participants.yaml
 preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-source-prepared.md
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-002/sources/lablost-ep02-speaker-mappings.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-speaker-stats.json

@@ -43,7 +43,7 @@
       "session": {
         "title": null,
         "campaign": "Labyrinths of the Lost",
-        "scope": null,
+        "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1748-10-17",
@@ -2654,7 +2654,7 @@
       "session": {
         "title": null,
         "campaign": "Labyrinths of the Lost",
-        "scope": null,
+        "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1748-10-17",
@@ -5019,7 +5019,7 @@
       "session": {
         "title": null,
         "campaign": "Labyrinths of the Lost",
-        "scope": null,
+        "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1748-10-17",
@@ -7474,20 +7474,20 @@
         "beatId": "beat-004",
         "title": "A Goblin Ruse Unravels",
         "startUid": "u1208",
-        "endUid": "u1531",
-        "lineCount": 324,
+        "endUid": "u1519",
+        "lineCount": 312,
         "dateStart": "1748-10-17",
         "dateEnd": null,
         "timeWindow": "afternoon",
         "containsCombat": false,
-        "boundaryReason": "The next phase is entirely about the deception attempt: the party decides to use Loria's Goblin and silent speech with Gaudin's disguise, stages a fake prisoner transfer outside the barracks, and almost sells the act before Folcan and the other goblins grow suspicious and Loria breaks the standoff with a fog cloud.",
+        "boundaryReason": "The next phase is entirely about the deception attempt: the party decides to use Loria's Goblin and silent speech with Gaudin's disguise, stages a fake prisoner transfer outside the barracks, and almost sells the act before Folcan and the other goblins close in enough that Loria casts fog cloud.",
         "dateEvidence": [
           "this beat follows the manor-ground planning immediately, with no intervening rest",
           "the DM explicitly calls it late afternoon while the disguised approach plays out near the barracks",
           "the whole exchange is one continuous social gambit that does not advance the date before open violence starts"
         ],
         "startIndex": 1207,
-        "endIndex": 1530
+        "endIndex": 1518
       },
       "previousBeat": {
         "beatId": "beat-003",
@@ -7504,7 +7504,7 @@
       "session": {
         "title": null,
         "campaign": "Labyrinths of the Lost",
-        "scope": null,
+        "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1748-10-17",
@@ -9336,8 +9336,8 @@
         {
           "uid": "u1507",
           "header": "[u1507 | 02:37:10.120-02:37:12.420 | Loria]",
-          "text": "Gloria yells",
-          "raw": "[u1507 | 02:37:10.120-02:37:12.420 | Loria] Gloria yells"
+          "text": "Loria yells",
+          "raw": "[u1507 | 02:37:10.120-02:37:12.420 | Loria] Loria yells"
         },
         {
           "uid": "u1508",
@@ -9410,7 +9410,80 @@
           "header": "[u1519 | 02:38:03.400-02:38:07.609 | Loria]",
           "text": "And then the the boss dude, the guy with the staff is going to kick us.",
           "raw": "[u1519 | 02:38:03.400-02:38:07.609 | Loria] And then the the boss dude, the guy with the staff is going to kick us."
-        },
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "beat-005",
+        "title": "Fog Fight by the Barracks",
+        "startUid": "u1520",
+        "endUid": "u1806",
+        "lineCount": 287,
+        "dateStart": "1748-10-17",
+        "dateEnd": null,
+        "timeWindow": "afternoon",
+        "containsCombat": true,
+        "boundaryReason": "Once Loria casts fog cloud, the deception is over and the whole beat becomes a tight skirmish outside the barracks, with the party using the hedgerow and obscuring mist to kill the goblin guards quickly enough to avoid drawing the full barracks, then dragging the surviving boss back for questioning.",
+        "dateEvidence": [
+          "the beat begins at the moment the failed ruse converts into open initiative",
+          "the DM warns that the barracks will hear the fight after only a few rounds, underscoring that the whole battle is a brief continuous exchange",
+          "the scene ends immediately after the last foe is subdued and the party withdraws with their captive on the same afternoon"
+        ],
+        "startIndex": 1519,
+        "endIndex": 1805
+      },
+      "previousBeat": {
+        "beatId": "beat-004",
+        "title": "A Goblin Ruse Unravels",
+        "dateStart": "1748-10-17",
+        "dateEnd": null
+      },
+      "nextBeat": {
+        "beatId": "beat-006",
+        "title": "Folcan Names the Tunnels",
+        "dateStart": "1748-10-17",
+        "dateEnd": null
+      },
+      "session": {
+        "title": null,
+        "campaign": "Labyrinths of the Lost",
+        "scope": "session",
+        "sourceType": "transcript",
+        "sessionNumber": 1,
+        "drStart": "1748-10-17",
+        "drEnd": "1748-10-17",
+        "realWorldDate": "2023-11-12",
+        "participants": [
+          {
+            "name": "Phil Grayson",
+            "role": null,
+            "gameRole": "Acescale"
+          },
+          {
+            "name": "John Leeker",
+            "role": null,
+            "gameRole": "Gaudin"
+          },
+          {
+            "name": "Sara Smith",
+            "role": null,
+            "gameRole": "Loria"
+          },
+          {
+            "name": "Dylan",
+            "role": null,
+            "gameRole": "Dilion"
+          },
+          {
+            "name": "Tim Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
         {
           "uid": "u1520",
           "header": "[u1520 | 02:38:13.980-02:38:16.380 | Loria]",
@@ -9482,80 +9555,7 @@
           "header": "[u1531 | 02:39:03.630-02:39:21.709 | Gaudin]",
           "text": "Oh, is it time?",
           "raw": "[u1531 | 02:39:03.630-02:39:21.709 | Gaudin] Oh, is it time?"
-        }
-      ],
-      "supplementalSources": []
-    },
-    {
-      "beat": {
-        "beatId": "beat-005",
-        "title": "Fog Fight by the Barracks",
-        "startUid": "u1532",
-        "endUid": "u1806",
-        "lineCount": 275,
-        "dateStart": "1748-10-17",
-        "dateEnd": null,
-        "timeWindow": "afternoon",
-        "containsCombat": true,
-        "boundaryReason": "Once the fog cloud goes up, the deception is over and the whole beat becomes a tight skirmish outside the barracks, with the party using the hedgerow and obscuring mist to kill the goblin guards quickly enough to avoid drawing the full barracks, then dragging the surviving boss back for questioning.",
-        "dateEvidence": [
-          "the beat begins at the moment the failed ruse converts into open initiative",
-          "the DM warns that the barracks will hear the fight after only a few rounds, underscoring that the whole battle is a brief continuous exchange",
-          "the scene ends immediately after the last foe is subdued and the party withdraws with their captive on the same afternoon"
-        ],
-        "startIndex": 1531,
-        "endIndex": 1805
-      },
-      "previousBeat": {
-        "beatId": "beat-004",
-        "title": "A Goblin Ruse Unravels",
-        "dateStart": "1748-10-17",
-        "dateEnd": null
-      },
-      "nextBeat": {
-        "beatId": "beat-006",
-        "title": "Folcan Names the Tunnels",
-        "dateStart": "1748-10-17",
-        "dateEnd": null
-      },
-      "session": {
-        "title": null,
-        "campaign": "Labyrinths of the Lost",
-        "scope": null,
-        "sourceType": "transcript",
-        "sessionNumber": 1,
-        "drStart": "1748-10-17",
-        "drEnd": "1748-10-17",
-        "realWorldDate": "2023-11-12",
-        "participants": [
-          {
-            "name": "Phil Grayson",
-            "role": null,
-            "gameRole": "Acescale"
-          },
-          {
-            "name": "John Leeker",
-            "role": null,
-            "gameRole": "Gaudin"
-          },
-          {
-            "name": "Sara Smith",
-            "role": null,
-            "gameRole": "Loria"
-          },
-          {
-            "name": "Dylan",
-            "role": null,
-            "gameRole": "Dilion"
-          },
-          {
-            "name": "Tim Sackton",
-            "role": null,
-            "gameRole": "DM"
-          }
-        ]
-      },
-      "sourceLines": [
+        },
         {
           "uid": "u1532",
           "header": "[u1532 | 02:39:21.840-02:39:28.429 | DM]",
@@ -11239,7 +11239,7 @@
       "session": {
         "title": null,
         "campaign": "Labyrinths of the Lost",
-        "scope": null,
+        "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
         "drStart": "1748-10-17",

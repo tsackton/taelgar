@@ -12,8 +12,8 @@ Do not edit `beats.json`.
 
 - Beat ID: beat-004
 - Title: A Goblin Ruse Unravels
-- Range: `u1208` -> `u1531`
-- Lines: 324
+- Range: `u1208` -> `u1519`
+- Lines: 312
 - Date Start: 1748-10-17
 - Date End: same day
 - Time Window: afternoon
@@ -378,7 +378,7 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1504 | 02:36:49.520-02:37:02.199 | DM] yeah, towards the edge, just as one of the go. One of the 2 goblins is like trying to say like, something's wrong here. But it's just completely ignoring the other 2 goblins.
 [u1505 | 02:37:02.440-02:37:06.249 | DM] Grab that damn halfling. Drag her along.
 [u1506 | 02:37:06.590-02:37:08.850 | Loria] We're gonna deal with this
-[u1507 | 02:37:10.120-02:37:12.420 | Loria] Gloria yells
+[u1507 | 02:37:10.120-02:37:12.420 | Loria] Loria yells
 [u1508 | 02:37:12.650-02:37:16.569 | Loria] telepathically in Goblin to the one coming towards her. That
 [u1509 | 02:37:17.640-02:37:22.390 | Loria] or Organa Agna. I don't know which. I'm gonna go with Agna.
 [u1510 | 02:37:22.880-02:37:24.049 | Loria] wants him back.
@@ -391,15 +391,3 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 [u1517 | 02:37:55.720-02:37:58.429 | Gaudin] how far apart of it
 [u1518 | 02:37:58.720-02:38:03.339 | DM] 2 of them are like moving up to grapp. They're like grappling you.
 [u1519 | 02:38:03.400-02:38:07.609 | Loria] And then the the boss dude, the guy with the staff is going to kick us.
-[u1520 | 02:38:13.980-02:38:16.380 | Loria] I cast fog cloud.
-[u1521 | 02:38:18.050-02:38:20.570 | Loria] Okay.
-[u1522 | 02:38:20.690-02:38:25.669 | Gaudin] what the fuck I've been taking fix to keep the solution up
-[u1523 | 02:38:27.690-02:38:34.420 | DM] it's happening. It's a 20 foot radius sphere centered on yourself.
-[u1524 | 02:38:35.360-02:38:44.570 | Loria] Yeah. 40 feet across that reaches all the way up to the hedgerow. -Oh!
-[u1525 | 02:38:44.830-02:38:47.620 | DM] And he's suddenly like, what the hell
-[u1526 | 02:38:49.480-02:38:51.539 | DM] turns and and
-[u1527 | 02:38:51.580-02:38:54.350 | DM] says in Goblin to one of the 2 goblins.
-[u1528 | 02:38:55.530-02:38:59.880 | DM] something's wrong.
-[u1529 | 02:39:00.430-02:39:01.760 | DM] Go get back up!
-[u1530 | 02:39:02.110-02:39:03.520 | Gaudin] No!
-[u1531 | 02:39:03.630-02:39:21.709 | Gaudin] Oh, is it time?

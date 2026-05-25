@@ -7,22 +7,21 @@ realWorldDate: 2023-11-12
 DR: 1748-10-17
 DR_end: 1748-10-17
 players: [Acescale, Gaudin, Loria, Dilion]
-companions: []
 name: Labyrinths of the Lost - Session 1
-descTitle: Escape
-tagline: in which four captives turn the tables on their goblin guards
+descTitle: The Smithy Escape
+tagline: in which captives turn on their goblin guards
 sessionKey: labyrinths-of-the-lost-session-1
 template: lablost-template.md
 ---
 # Labyrinths of the Lost - Session 1
 
->[!info] Escape: in which four captives turn the tables on their goblin guards
+>[!info] The Smithy Escape: in which captives turn on their goblin guards
 > *Featuring: Acescale, Gaudin, Loria, Dilion*
 > *In Taelgar: (DR:: 1748-10-17)*
 > *On Earth: Sunday, November 12, 2023*
 > *Perdoli Manor*
 
-Four prisoners break out of a smithy cell on the grounds of Perdoli Manor, kill two groups of goblin guards, capture the goblin Folcan, and learn that Grimstone captures prisoners weekly, who disappear into the manor.
+Four prisoners break out of a smithy cell on the grounds of Perdoli Manor, kill two groups of goblin guards, capture Folcan, and learn that Grimstone's prisoners disappear into the manor.
 
 # Timeline
 
@@ -31,16 +30,16 @@ Four prisoners break out of a smithy cell on the grounds of Perdoli Manor, kill 
 
 ## Cast of Characters
 
-- Morky: drunk goblin guard
-- Norrica: drunk goblin guard
-- Skelver: drunk goblin guard
-- Folcan: goblin boss with a staff
-- Ulgna: goblin leader still in the barracks
-- Grimstone: masked master who takes prisoners into the manor
+- Morky: drunk goblin guard.
+- Norrica: drunk goblin guard.
+- Skelver: drunk goblin guard.
+- Folcan: goblin boss with a staff.
+- Ulgna: goblin superior blamed by the guards.
+- Grimstone: mysterious master taking prisoners.
 
 ## Places
 
-- Perdoli Manor (prison cell, abandoned smithy, adjoining storage room, barracks path): ruined manor estate where goblins hold prisoners and guard routes toward the main house.
+- Perdoli Manor: ruined manor estate where goblins hold prisoners and guard routes toward the main house. Session context includes: prison cell, abandoned smithy, adjoining storage room, and barracks path.
 
 ## Combat
 
@@ -57,6 +56,6 @@ Once the immediate danger has passed, the party searches the goblin room thoroug
 
 After resting and scouting the grounds, the party decides against rushing a building full of goblins and instead stages a fake prisoner transfer outside the barracks. Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind the hedgerow while Loria silently translates and feeds Gaudin words he can only repeat phonetically. The plan is awkward from the start, but it is almost good enough to draw out the first two guards and then Folcan himself. The scene finally turns when one goblin spots Loria's hidden sword and Folcan, sharper than the first drunk guards, sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized.
 
-The moment the goblins move to grab Loria, she panics and throws a fog cloud across the path and hedgerow, wiping out sight lines and turning the stalled bluff into a vicious fight. Fighting through the mist, Loria cuts down the goblin grappling her, Gaudin slips clear and starts firing from range, Dilion and his steel defender press forward from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is battered and taken alive, and the party retreats to the smithy to question him.
+The moment the goblins move to grab Loria, she throws a fog cloud across the path and hedgerow, wiping out sight lines and turning the stalled bluff into a vicious fight. Fighting through the mist, Loria cuts down the goblin grappling her, Gaudin slips clear and starts firing from range, Dilion and his steel defender press forward from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is battered and taken alive, and the party retreats to the smithy to question him.
 
 Back at the smithy, the party revives Folcan, strips him of his bone staff, and alternates threats, acid, and questions until he stops posturing. He explains that Grimstone appears in black robes and a white marble mask, takes one prisoner each week into the manor, and pays the goblins in loot while keeping the best treasure. Under pressure, Folcan also reveals that ten goblins plus Ulgna remain in the barracks, that hobgoblins guard the outer gates and the manor door, and that tunnels from the barracks and kitchen, with a rumored chapel entrance, all lead toward the wine cellar. By the end of the exchange, the party is leaning toward a tunnel approach and using Folcan to buy time before the barracks checks on him.

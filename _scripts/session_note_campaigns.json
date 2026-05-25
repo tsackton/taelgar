@@ -32,7 +32,7 @@
       "sessionRoot": "lablost",
       "aliases": ["ll", "lablost"],
       "campaignRoot": "Campaigns/One Shots/Labyrinths of the Lost",
-      "notePattern": "Labyrinths of the Lost {session_padded}.md",
+      "notePattern": "Labyrinths of the Lost - Session {session}.md",
       "defaultTemplate": "lablost-template.md"
     },
     "mawar-adventures": {

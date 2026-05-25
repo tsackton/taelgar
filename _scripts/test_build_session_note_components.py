@@ -434,6 +434,12 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertEqual(recap["items"][0]["history"][-1]["location"], "Great Chasm Encampment")
         self.assertEqual(recap["combat"][0]["title"], "The Ashen Knives Ambush")
 
+    def test_parser_accepts_recap_frontmatter(self) -> None:
+        recap = parse_session_recap("---\ntags: [status/recap-review]\n---\n\n" + self.reviewed_recap_text())
+
+        self.assertEqual(recap["header"]["Title"], "Test Session 12: Into the Labyrinth")
+        self.assertEqual(len(recap["timeline"]), 2)
+
     def test_parser_normalizes_wikilinked_world_entries(self) -> None:
         linked = (
             self.reviewed_recap_text()

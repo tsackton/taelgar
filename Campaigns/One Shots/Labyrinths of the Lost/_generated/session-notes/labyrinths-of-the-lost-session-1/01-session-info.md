@@ -1,5 +1,6 @@
 ---
 excludePublish: ["all"]
+tags: [status/check/ai]
 sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-session.yaml"
 ---
 
@@ -10,15 +11,15 @@ Labyrinths of the Lost - Session 1
 <!-- /SLOT -->
 
 <!-- SLOT: session.desc_title -->
-Escape
+The Smithy Escape
 <!-- /SLOT -->
 
 <!-- SLOT: session.tagline -->
-in which four captives turn the tables on their goblin guards
+in which captives turn on their goblin guards
 <!-- /SLOT -->
 
 <!-- SLOT: session.summary -->
-Four prisoners break out of a smithy cell on the grounds of Perdoli Manor, kill two groups of goblin guards, capture the goblin Folcan, and learn that Grimstone captures prisoners weekly, who disappear into the manor.
+Four prisoners break out of a smithy cell on the grounds of Perdoli Manor, kill two groups of goblin guards, capture Folcan, and learn that Grimstone's prisoners disappear into the manor.
 <!-- /SLOT -->
 
 <!-- SLOT: session.dm -->
@@ -30,6 +31,10 @@ Tim Sackton
 - Gaudin
 - Loria
 - Dilion
+<!-- /SLOT -->
+
+<!-- SLOT: session.pcs_plain_inline -->
+Acescale, Gaudin, Loria, Dilion
 <!-- /SLOT -->
 
 <!-- SLOT: session.pcs_inline -->
@@ -52,6 +57,10 @@ Acescale, Gaudin, Loria, Dilion
 1748-10-17
 <!-- /SLOT -->
 
+<!-- SLOT: session.dr_range_inline -->
+(DR:: 1748-10-17)
+<!-- /SLOT -->
+
 <!-- SLOT: session.real_date -->
 2023-11-12
 <!-- /SLOT -->
@@ -66,20 +75,23 @@ Sunday, November 12, 2023
 <!-- /SLOT -->
 
 <!-- SLOT: cast -->
-- Morky: drunk goblin guard
-- Norrica: drunk goblin guard
-- Skelver: drunk goblin guard
-- Folcan: goblin boss with a staff
-- Ulgna: goblin leader still in the barracks
-- Grimstone: masked master who takes prisoners into the manor
+- Morky: drunk goblin guard.
+- Norrica: drunk goblin guard.
+- Skelver: drunk goblin guard.
+- Folcan: goblin boss with a staff.
+- Ulgna: goblin superior blamed by the guards.
+- Grimstone: mysterious master taking prisoners.
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->
-- Perdoli Manor (prison cell, abandoned smithy, adjoining storage room, barracks path): ruined manor estate where goblins hold prisoners and guard routes toward the main house.
+- Perdoli Manor: ruined manor estate where goblins hold prisoners and guard routes toward the main house. Session context includes: prison cell, abandoned smithy, adjoining storage room, and barracks path.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->
 Perdoli Manor
+<!-- /SLOT -->
+
+<!-- SLOT: groups -->
 <!-- /SLOT -->
 
 <!-- SLOT: combat.summary -->
