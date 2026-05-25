@@ -11,7 +11,7 @@ affiliations:
 # Nisir
 *(nee-SEER)*
 >[!info]+ Information  
-> A [[Tanshi|tanshi]] , part of the [[Meswati]]  
+> A [[Gods and Religions/Gods/Tanshi/Tanshi|tanshi]] , part of the [[Meswati]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 The tanshi of eagles, hawks, and other birds of prey, associated with perception and far sight, often offered feathers of birds and associated with divination.

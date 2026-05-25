@@ -148,7 +148,7 @@ The fall of [[Drankorian Empire|Drankor]] is little noticed in Addermarch at fir
 
 This long stasis shifts dramatically when [[Avatus]] invades [[Sembara]] in the early 1400s. Addermarch is nearly completely surrounded, kept from defeat only by the valiant efforts of guerilla warbands fighting in the rough hills of the escarpment. 
 
-%% Possibility is that the guerilla troops - something like Faramir's bands in the LoTR, are one of the forerunners [[The Rangers|to the Rangers]] %%
+%% Possibility is that the guerilla troops - something like Faramir's bands in the LoTR, are one of the forerunners [[Rangers|to the Rangers]] %%
 
 When [[Derik I]] marches at the head of the combined armies of [[Sembara]] and [[Tyrwingha]], the earls of Addermarch quickly join, and in support of the war establish [[Derik I]] as the overking of Addermarch. Over the next hundred years or so, a close relationship between Addermarch and [[Sembara]] develops. While the earls of Addermarch never become vassals of the Sembaran crown, when [[Derik I]] dies, [[Derik II]] is acknowledged as overking of Addermarch, a tradition that continues through the reigns of [[Charlotte I]] and [[Derik III]]. During the [[Great War]], the armies of [[Sembara]] and Addermarch fight together as one. 
 

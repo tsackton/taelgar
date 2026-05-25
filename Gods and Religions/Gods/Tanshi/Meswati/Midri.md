@@ -11,7 +11,7 @@ affiliations:
 # Midri
 *(MID-ree)*
 >[!info]+ Information  
-> A [[Tanshi|tanshi]] , part of the [[Meswati]]  
+> A [[Gods and Religions/Gods/Tanshi/Tanshi|tanshi]] , part of the [[Meswati]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 The tanshi of soil, dirt, connections among trees, deep roots and the nutrients stored and shared for the long winters. Particularly appreciated offerings of tubers, mushrooms, and fresh, clean earth. Is said to watch over the long winters and help the community survive until spring.

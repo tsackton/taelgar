@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [group, status/cleanup/text]
-displayDefaults: {defArt: '', boxInfo: ""}
-name: The Rangers
+displayDefaults: {defArt: 'the', boxInfo: ""}
+name: Rangers
 typeOf: army
 whereabouts: Greater Sembara
 dm_notes: none

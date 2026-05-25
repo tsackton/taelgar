@@ -47,12 +47,12 @@ Something about the waters of the river near / in Insignue has healing and ferti
 
 But the rejection of [[Drankorian Empire|drankor]] leads to a lot of New England style town meetings and local rule, united by this shared heritage / culture / economic / magical connection back to the source of the water
 
-perhaps [[The Rangers]] could also have an insinguese root, maybe originally as the guardians of these magical waters
+perhaps [[Rangers]] could also have an insinguese root, maybe originally as the guardians of these magical waters
 
 they existed in the high school campaign so need to have a pre-Great-War origin story
 and also a reason to be heavily focused specifically on the southern border of [[Sembara]]
 
-[[The Rangers]] might be originally and at heart the guardians of the magic of the land, not the cultural trappings of the city
+[[Rangers]] might be originally and at heart the guardians of the magic of the land, not the cultural trappings of the city
 So reclaiming the town - Who cares
 Reclaiming the magic - Key
 And if it seemed important for them to be on a side, [[Beryl]] could have told them whether reclaiming the water is possible

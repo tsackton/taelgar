@@ -77,7 +77,7 @@ typeOf: timeline
 * (DR:: 1720-01-12), morning: receive news that [[Lorin Valbert]] has disappeared and renounced his manor; [[Robin of Abenfyrd|Robin]] helps the people of [[Asineau]] while [[Celyn]] and [[Viepuck]] ride after [[Lorin Valbert]]
 * January 13th, 1720, [[Celyn]] and [[Viepuck]] return from [[Champimont]] with money and horses from [[Lorin Valbert]]
 * January 14th, 1720, predawn: The party defeats a skeletal evil
-* January 15th, 1720: the party rides for [[Eftly]] but meets [[Vahaiya]] and their [[The Rangers]] in [[Champimont]], the monster in [[Eftly]] having been defeated
+* January 15th, 1720: the party rides for [[Eftly]] but meets [[Vahaiya]] and their [[Rangers]] in [[Champimont]], the monster in [[Eftly]] having been defeated
 
 
 %% Raw notes

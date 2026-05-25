@@ -73,7 +73,7 @@ Session notes:
 - [[Session 52 (DuFr)]]: The party met [[Yota]] and [[Alayah]]; Alayah and [[Kenzo]] touched jade pieces and shared dreams or visions of [[Rai]].
 - [[Session 52 (DuFr)]]: The party learned the Te'kula story that [[Jordo]] found the jade in a fallen God tree, refused Grimbaskal, and called on the tanshi as the village was attacked.
 - [[Session 52 (DuFr)]]: [[Belegor]] was hiding among the Te'kula after fleeing [[Mezzar|Grimbaskal]].
-- [[Session 52 (DuFr)]]: [[Theba]], [[Yota]], [[Obel]], the party, and blessings from the [[Tanshi|tanshi]] were part of planning the attack on Grimbaskal.
+- [[Session 52 (DuFr)]]: [[Theba]], [[Yota]], [[Obel]], the party, and blessings from the [[Gods and Religions/Gods/Tanshi/Tanshi|tanshi]] were part of planning the attack on Grimbaskal.
 - [[Session 52 (DuFr)]]: After Grimbaskal's defeat, transformed Deno'qai bodies were recovered and buried, messengers went to other tribes, and Theba began diplomatic work to repair relations.
 - [[Session 52 (DuFr)]]: When Kenzo left with both jade pieces, the Te'kula territory returned to the [[Material Plane]].
 

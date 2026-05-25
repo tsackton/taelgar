@@ -17,7 +17,7 @@ dm_notes: color
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A ranger who mentored [[Blue]] and helped her find community with [[The Rangers]]. Mentioned in Blue’s backstory.
+A ranger who mentored [[Blue]] and helped her find community with [[Rangers]]. Mentioned in Blue’s backstory.
 
 %%
 Brainstorming (not canon): concept of Landrel as an elf with a lingering shadow-plane curse (e.g., hair of shadow) from Great War portals; contributed to being an outcast who drifted toward the Rangers.

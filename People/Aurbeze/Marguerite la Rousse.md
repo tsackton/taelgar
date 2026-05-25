@@ -24,7 +24,7 @@ pronunciation: mar-guh-REET la ROUSE
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on August 7th, 1749 in [[Three Wells]], the [[Refounded Alliance of Aurbez]] %%^End%%
 
-![[marguerite-la-rousse.png|right|400]]Marguerite is an Aurbeze militia captain and capable fighter, formerly a highland shepherd on the [[Aurbez Plateau]]. She commands respect among the plateau militias, bringing practical experience and resolve to local defense. Her leadership emphasizes endurance, coordination with the [[The Rangers]], and protection of rural households.
+![[marguerite-la-rousse.png|right|400]]Marguerite is an Aurbeze militia captain and capable fighter, formerly a highland shepherd on the [[Aurbez Plateau]]. She commands respect among the plateau militias, bringing practical experience and resolve to local defense. Her leadership emphasizes endurance, coordination with the [[Rangers]], and protection of rural households.
 
 She is a sun-browned woman with red hair, typically wearing her worn but carefully maintained brigandine armor. She carries an ash halberd and often wears a homespun scarf knotted like a banner.
 ## Events
