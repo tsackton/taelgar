@@ -35,7 +35,7 @@ Among the humans of the plateau, it is common to hear the people called the Aurb
 
 The Alliance has no single ruler. It is a web of oaths, councils, and customary obligations between communities, renewed whenever danger forces neighbors to stand together. For many years, [[Three Wells]] has served as a common gathering place where disputes are settled and the frontier’s course is debated.
 
-Defense is organized locally. Each settlement maintains its own watch and militia, and in times of need communities muster together under leaders chosen as much for trust and experience as for rank. [[The Rangers]] move among these communities as scouts and messengers, advising and coordinating, and keeping the most dangerous ways between settlements as safe as they can.
+Defense is organized locally. Each settlement maintains its own watch and militia, and in times of need communities muster together under leaders chosen as much for trust and experience as for rank. [[Rangers]] move among these communities as scouts and messengers, advising and coordinating, and keeping the most dangerous ways between settlements as safe as they can.
 
 ## Economy and Trade
 
@@ -47,7 +47,7 @@ Trade follows the [[Maseau - Dunmar Road]]. The road’s traffic grows year by y
 
 - [[Aursen Marshes]]: A marshy basin on the upper [[Aursen]], home to lizardfolk communities and productive farms on the drier edges.
 - [[Aursenbourg]]: A walled market town at the Aursen crossing, grown up around the road and the bridge.
-- [[Three Wells]]: A fortified gathering place on the plateau, where councils meet and where a watchtower maintained by [[The Rangers]] keeps vigil over the approaches.
+- [[Three Wells]]: A fortified gathering place on the plateau, where councils meet and where a watchtower maintained by [[Rangers]] keeps vigil over the approaches.
 - [[Laicon]]: A small village along the road, known as a trading point for goods brought down from the plateau.
 - [[Ausson's Crossing]]: A bustling inn in Laicon, founded as a trading outpost where steep tracks descend from the plateau.
 

@@ -59,7 +59,7 @@ A few weeks later, they arrive back in [[Voltara]], greeting by [[Julius of Volt
 - (DR:: 1748-01-19): Find and attack a [[Bullywugs|bullywug]] [[~Bullywug Village~|village]]. Kill many before making peace and learning the bullywugs were driven from their home by a [[Dragons|dragon]]. Agree to kill the dragon. 
 - (DR:: 1748-01-21): Return to [[~Voltara East Border Fort~]] with news. Head north to find the dragon. 
 - (DR:: 1748-01-29): Party encounters [[Deno'qai]] scouts at a portage on the river. Go to council, learn the Deno'qai want to kill the dragon too.
-- (DR:: 1748-02-01): Party leaves [[Deno'qai]] council with [[Izkir]], a guide and sorcerer blessed by the [[Tanshi|tanshi]], heading for the [[Blackwater Fens]], where the dragon lives.
+- (DR:: 1748-02-01): Party leaves [[Deno'qai]] council with [[Izkir]], a guide and sorcerer blessed by the [[Gods and Religions/Gods/Tanshi/Tanshi|tanshi]], heading for the [[Blackwater Fens]], where the dragon lives.
 - (DR:: 1748-02-09): Party arrives at [[Blackwater Fens]], camps outside to plan. 
 - (DR:: 1748-02-10): Head into [[Blackwater Fens]]. Pass an [[Elven Treaty Stones|ruined stone monument]] marking a treaty between elves and humans. Camp. [[Nymthrax|Dragon]] attacks during the night. 
 - (DR:: 1748-02-11): Wounded and needing a place to rest, return to the [[Elven Treaty Stones|treaty stone]] and repair it during the day. Sleep. 

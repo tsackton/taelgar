@@ -9,7 +9,7 @@ typeOf: tanshi
 # Aasimti
 *(ah-SEEM-tee)*
 >[!info]+ Information  
-> A [[Tanshi|tanshi]]
+> A [[Gods and Religions/Gods/Tanshi/Tanshi|tanshi]]
 
 %% very campaign specific - could use a rewrite. also consider turning campaign notes / history into timeline events - not sure though as these might be better appearing on other notes, e.g. Grimbaskal and/or Jordo and/or campaign timeline %%
 

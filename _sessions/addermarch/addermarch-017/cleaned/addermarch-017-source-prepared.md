@@ -5,7 +5,7 @@
 [u0005] - (DR:: 1715-05-24), **evening**: The party camps on the road into the Highmoor, following the trail of [[Duncan of Haldrenn]] toward [[Serethwyn Tor]] and the cursed [[Serpentine Battleaxe]].
 [u0006] - (DR:: 1715-05-25): Uneventful travel across the moors; the party camps in the foothills of [[Westcliff]].
 [u0007] - (DR:: 1715-05-26): Walk for the morning; in the afternoon, reach an old road that climbs to [[Serethwyn Tor]].
-[u0008] Following the trail, the party passes a warning marker from [[The Rangers]], fights a mass of skeletons, and begins exploring the ruins, finding recent disturbed earth, old scorch marks, and a broken mine map.
+[u0008] Following the trail, the party passes a warning marker from [[Rangers]], fights a mass of skeletons, and begins exploring the ruins, finding recent disturbed earth, old scorch marks, and a broken mine map.
 [u0009] ## Cast of Characters
 [u0010] - **[[Yvan Greenrabbit]]** - Halfling sorcerer whose fire spells tear through the skeleton ranks.
 [u0011] - **[[Drou]]** - Elven bard-monk who takes the brunt of arrows and unleashes thunder magic amid the press of undead.
@@ -16,7 +16,7 @@
 [u0016] ## Places
 [u0017] - **[[Highmoor]]** - Moorland road the party follows north toward Serethwyn Tor.
 [u0018] - **[[Westcliff]]** - Foothills and peaks where they camp before the climb.
-[u0019] - **[[Serethwyn Tor]]** - Ruined hill-fort sealed by order of [[The Rangers]] and defended by skeletons.
+[u0019] - **[[Serethwyn Tor]]** - Ruined hill-fort sealed by order of [[Rangers]] and defended by skeletons.
 [u0020] ## Narrative
 [u0021] ### Monday, May 24th, 2 Robert I
 [u0022] We begin as the party settles into camp for the evening, on the road into the Highmoor, following the trail of [[Duncan of Haldrenn]] to uncover the mystery of the cursed [[Serpentine Battleaxe]] and [[Serethwyn Tor]].
@@ -27,7 +27,7 @@
 [u0027] After a morning of walking and quick lunch, the party climbs into the hills following an old abandoned road.
 [u0028] By early afternoon, the road peters out and an old track leads up into the peaks of [[Westcliff]] to the hill fort of [[Serethwyn Tor]].
 [u0029] After a couple of hours hiking on the along the old track, the party sees the walls of the fort, partially ruined, about a 1000 feet ahead.
-[u0030] A marker, written in three languages (Sembaran, Elvish, and Stoneborn) warns the fort ahead is dangerous, and sealed by order of [[The Rangers]].
+[u0030] A marker, written in three languages (Sembaran, Elvish, and Stoneborn) warns the fort ahead is dangerous, and sealed by order of [[Rangers]].
 [u0031] The party approaches, with Fazoth's pseudodragon flying ahead to scout - only to be killed by a large group of skeletons on the other side of the wall.
 [u0032] Fazoth, Yvan, and Drou join the fight against about 40 skeletons, including a large group of foot soldiers with sargents, and a few captains with ogre skeleton bodyguards.
 [u0033] Yvan launches multiple fireballs, mowing down the ranks of the weaker skeletons, while arrows rain down around Yvan, Drou, and Fazoth.

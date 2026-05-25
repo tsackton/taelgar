@@ -6,19 +6,19 @@ born: 1520
 species: human
 ancestry: Deno'qai
 gender: male
-died: 1544
+died: 1543
 affiliations: [{org: Ko'zula, type: primary}]
 whereabouts:
 - {type: home, location: Forest of Dreams}
-- {type: away, start: 1544, end: 9999, location: Forest of Nightmares}
+- {type: away, start: 1543, end: 9999, location: Forest of Nightmares}
 dm_owner: none
 dm_notes: color
 ---
 # Balati
->[!info]+ Biographical Info
-> A [[Deno'qai]] [[Humans|human]] (he/him), of the [[Ko'zula]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Biographical Info  
+> A [[Deno'qai]] [[Humans|human]] (he/him), of the [[Ko'zula]]  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A hero of the [[Deno'qai ]] during the [[Great War]], and the man who once bore the armor and shield [[Delwath]] now carries.

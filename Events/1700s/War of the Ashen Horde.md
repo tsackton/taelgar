@@ -12,7 +12,7 @@ dm_notes: color
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-In DR 1720, a surge of [[Plaguelands]] horrors—ash elementals, ash‑spawn, and corrupted things from the Istaros valley—emerged with the summer ash storms. Striking swiftly across the [[Aursen]] and towards the [[Aurbez Plateau]], they were eventually defeated by a coalition of [[The Rangers]] and Aurbeze militias. This was a formative event that led to the creation of the [[Refounded Alliance of Aurbez]]. 
+In DR 1720, a surge of [[Plaguelands]] horrors—ash elementals, ash‑spawn, and corrupted things from the Istaros valley—emerged with the summer ash storms. Striking swiftly across the [[Aursen]] and towards the [[Aurbez Plateau]], they were eventually defeated by a coalition of [[Rangers]] and Aurbeze militias. This was a formative event that led to the creation of the [[Refounded Alliance of Aurbez]]. 
 
 %%
 Some discussion in discord notes, esp [[2025-11-02]] about wider context

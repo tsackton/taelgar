@@ -21,7 +21,7 @@ typeOfAlias: meeting place
 
 Three Wells is a meeting place and fortified camp on the [[Aurbez Plateau]], along a small tributary of the [[Aursen]]. For many years, Three Wells has been a place where the people of the [[Refounded Alliance of Aurbez]] meet to debate politics and war. 
 
-At the valley’s heart sit three old stone wells in a tight triangle; between them, a pillar holds a communal bowl of clear water and a ladle. Above the valley, a watchtower is maintained by [[The Rangers]]
+At the valley’s heart sit three old stone wells in a tight triangle; between them, a pillar holds a communal bowl of clear water and a ladle. Above the valley, a watchtower is maintained by [[Rangers]]
 
 ![[three-wells.png|800]]
 *Three Wells occupied by Aurbeze gathering to discuss the invasion of the [[Iron Fang]] hobgoblins*

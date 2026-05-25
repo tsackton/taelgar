@@ -22,7 +22,7 @@
 [u0022] ### Narrative
 [u0023] _Thanks to Kiya for this, it is lightly edited, mostly to crosslink places and add details that would be too much on Dreamwidth_
 [u0024] Then of course we got the band back together by promptly reuniting with our [[Izgil Moonseeker|missing lunatic]], who we encountered on the road between [[Dallet]] and [[Beury]].
-[u0025] He and [[The Rangers]] - [[Vahaiya]], [[Tristan Vaudrillard|Tristan]], and [[Remille Vauclaire|Remille]] had been clearing out undead dregs in the [[East Bog]].
+[u0025] He and [[Rangers]] - [[Vahaiya]], [[Tristan Vaudrillard|Tristan]], and [[Remille Vauclaire|Remille]] had been clearing out undead dregs in the [[East Bog]].
 [u0026] After a brief reunion, Tristan and Remille, along with [[Emilie]], now reunited with her companions, head north toward the [[Aveil Hills]] in order to figure out what had happened to their friends - [[Damien Montrichard]], [[Enzo Brightwood]] and [[Adra Brightwood]]; [[Vahaiya]] remained, because they was concerned about the fey-realm portal we had previously discovered.
 [u0027] So a bunch of them went one way, and they went to keep watch over the portal and see if there was a pattern to it doing anything, and we all went to figure out what nonsense had happened in our absence.
 [u0028] Mostly there was a lot of petty administrative bullshit to work on to start with, which is primarily Robin's problem, with a side of being Viepuck's problem as Robin's squire, social secretary, and too-many-people filter.

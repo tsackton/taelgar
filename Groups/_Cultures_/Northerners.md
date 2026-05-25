@@ -25,7 +25,7 @@ _See more: [[Northern Folk Religions]]_
 
 Northerner religion is centered on a set of intercessory traditions and beliefs: small, local gods carry prayers to the [[Divine Presence]], the distant creator and source of divine power. The small gods are not omnipresent, and their attention must be drawn by the correct rite, place, sacrifice, or custom. The major known branches of Northerner religion are:
 
-- [[Tanshi Worship]], practiced among the [[Deno'qai]], in which offerings call the attention of the [[Tanshi|tanshi]].
+- [[Tanshi Worship]], practiced among the [[Deno'qai]], in which offerings call the attention of the [[Gods and Religions/Gods/Tanshi/Tanshi|tanshi]].
 - [[Kestavo]], practiced among the [[Zimka]] and their neighbors, centered on place-bound shrine spirits who carry prayers to [[Divine Presence|Ako]].
 - [[Zariya]], practiced among the [[Vargaldi]], centered on animal spirits and the animal souls associated with Vargaldi magic.
 
@@ -92,7 +92,7 @@ Core migration facts:
 Culture and religion:
 - The shared religious core is intercession: small, local gods carry prayers to the [[Divine Presence]]. These small gods are limited, local, and not omniscient; their attention must be drawn by ritual, sacrifice, place, or other specific practice. Sources: [[Northern Folk Religions]], [[Divine Presence]], [[Religious History of Taelgar]].
 - Surviving branches differ significantly:
-  - [[Tanshi Worship]] among the [[Deno'qai]] calls the tanshi by appropriate sacrifice; the Divine Presence is called [[Divine Presence|Anida]], "the First and the Last". Sources: [[Tanshi Worship]], [[Tanshi]], [[Deno'qai]], [[Divine Presence]].
+  - [[Tanshi Worship]] among the [[Deno'qai]] calls the tanshi by appropriate sacrifice; the Divine Presence is called [[Divine Presence|Anida]], "the First and the Last". Sources: [[Tanshi Worship]], [[Gods and Religions/Gods/Tanshi/Tanshi]], [[Deno'qai]], [[Divine Presence]].
   - The [[Kestavo]] tradition among the [[Zimka]] centers on place-bound shrine spirits who carry prayers to [[Divine Presence|Ako]]. Sources: [[Kestavo]], [[Kestavan Funerary Traditions]], [[Zimka]], [[Divine Presence]].
   - The [[Zariya]] tradition among the [[Vargaldi]] centers on animal spirits, tied both to small gods and to the animal souls/manifestations of Vargaldi people. Source: [[Zariya]], [[Vargaldi]].
 - Funerary traditions appear to share the broad northern idea that a small god must find and guide the soul through the [[Land of the Dead]], but specific details vary by tradition. The kestavo tradition strongly emphasizes burial near a sacred place; Deno'qai practice likely relies more on sacrifice to draw the tanshi. Sources: [[Traditions around Death]], [[Kestavan Funerary Traditions]].

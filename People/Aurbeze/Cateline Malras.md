@@ -27,7 +27,7 @@ pronunciation: KAT-eh-leen mahl-RAH
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on August 7th, 1749 in [[Three Wells]], the [[Refounded Alliance of Aurbez]] %%^End%%
 
-![[cateline.png|right|400]]Cateline is a prominent member of the [[The Rangers]], a devotee of the [[Fox and Hunter]], and a guardian of the secrets of [[Isingue]], widely regarded as a spiritual leader on the [[Aurbez Plateau]]. She is closely associated with the guardianship of the [[Heartroot]] and is known for the rite of “water before words” observed at councils in [[Three Wells]]. Her guidance blends pragmatic defense with reverence for the land’s old blessings.
+![[cateline.png|right|400]]Cateline is a prominent member of the [[Rangers]], a devotee of the [[Fox and Hunter]], and a guardian of the secrets of [[Isingue]], widely regarded as a spiritual leader on the [[Aurbez Plateau]]. She is closely associated with the guardianship of the [[Heartroot]] and is known for the rite of “water before words” observed at councils in [[Three Wells]]. Her guidance blends pragmatic defense with reverence for the land’s old blessings.
 
 She is a middle-aged woman, sinewy, with dark skin and braided black-silver hair. She typically wears a weathered cloak over plain mail; a beryl bead on thong; and carries iron-ferruled staff.
 ## Events

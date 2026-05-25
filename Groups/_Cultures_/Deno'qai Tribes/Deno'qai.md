@@ -11,7 +11,7 @@ dm_owner: joint
 >[!info]+ Information  
 > A [[Northerners]] culture
 
-The Deno'qai are a branch of the [[Northerners|Northerner]] peoples, defined primarily by a shared religious and cultural tradition, especially the worship of the [[Tanshi|tanshi]], the small gods who carry prayers to [[Divine Presence|Anida]]. They speak, Deno'qai, a group of related [[Languages#Northros Language Family|Northros]] dialects and languages, and are organized into many tribes and villages. Known Deno'qai groups include the [[Baz'aku]], [[Bek'eni]], [[Te'kula]], [[Ko'zula]], and [[Shu'anra]].
+The Deno'qai are a branch of the [[Northerners|Northerner]] peoples, defined primarily by a shared religious and cultural tradition, especially the worship of the [[Gods and Religions/Gods/Tanshi/Tanshi|tanshi]], the small gods who carry prayers to [[Divine Presence|Anida]]. They speak, Deno'qai, a group of related [[Languages#Northros Language Family|Northros]] dialects and languages, and are organized into many tribes and villages. Known Deno'qai groups include the [[Baz'aku]], [[Bek'eni]], [[Te'kula]], [[Ko'zula]], and [[Shu'anra]].
 
 Deno'qai tradition traces their ancestry to the earliest human migrations from [[Hkar]], long before [[The Downfall]] and the founding of [[Drankor]]. Older Deno'qai stories describe a much wider range across the western forests, from the mountains to the sea and from the [[Yeraad]] northward. Indeed, before the [[Great War]], Deno'qai communities occupied much of the western slope of the Sentinels not claimed by elves, sometimes living in and among elven forests. However, the war and its aftermath devastated many Deno'qai communities, especially in the north, where those who survived the fighting retreated into high mountain redoubts. More recently, the slow recovery and reemergence of the Deno'qai in many of the surviving western forests has brought many tribes back into contact and sometimes conflict with the [[Chardonian Empire]], especially along the [[Chasa River Valley]]. 
 
@@ -71,7 +71,7 @@ Within each cultural strand, there is plenty of space to invent new tribes.
 - [[Languages]]
 - [[Northern Folk Religions]]
 - [[Tanshi Worship]]
-- [[Tanshi]]
+- [[Gods and Religions/Gods/Tanshi/Tanshi]]
 - [[Divine Presence]]
 - [[Elderwood]]
 - [[Highveil Forest]]

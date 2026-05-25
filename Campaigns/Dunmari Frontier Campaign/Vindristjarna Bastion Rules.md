@@ -111,7 +111,7 @@ A Bastion Turn represents a period of time, usually around 7 days, of uninterrup
 
 The upper deck consists of, from stern to prow:
 
-* the shrine to the [[Tanshi]]
+* the shrine to the [[Gods and Religions/Gods/Tanshi/Tanshi]]
 * the elven garden and greenhouse
 * the elven tree, grown from seed by [[Kenzo]]
 * the main building on the upper deck, which contains a lavish dining hall, space for conversation and relaxation, the living quarters of [[Kenzo]], [[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], the map room, and the pub

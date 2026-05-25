@@ -9,7 +9,7 @@ typeOf: tanshi
 # A'gaza
 *(ah-GAH-zah)*
 >[!info]+ Information  
-> A [[Tanshi|tanshi]]
+> A [[Gods and Religions/Gods/Tanshi/Tanshi|tanshi]]
 
 The tanshi of deer, reindeer, caribou.
 

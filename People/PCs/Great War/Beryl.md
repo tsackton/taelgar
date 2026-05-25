@@ -20,6 +20,6 @@ affiliations:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-A hero of the [[Great War]], and the leader of [[The Rangers]] in the 1540s, now in the sky as the Hunter of the [[Fox and Hunter]].  Originally from the [[Istabor Alliance]].
+A hero of the [[Great War]], and the leader of [[Rangers]] in the 1540s, now in the sky as the Hunter of the [[Fox and Hunter]].  Originally from the [[Istabor Alliance]].
 
 Known for his staff, [[Analadin]], and his fox companion, [[Willow Wind]].

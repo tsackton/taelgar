@@ -9,6 +9,6 @@ typeOf: tanshi
 # Ma'ka'se
 *(mah-KAH-seh)*
 >[!info]+ Information  
-> A [[Tanshi|tanshi]]
+> A [[Gods and Religions/Gods/Tanshi/Tanshi|tanshi]]
 
 The spirit of smoke, especially when used to preserve things. Likes bits of jerky or other smoked things as offerings.

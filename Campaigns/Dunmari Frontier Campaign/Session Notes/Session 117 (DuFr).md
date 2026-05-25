@@ -69,7 +69,7 @@ As the battle rages, [[Apollyon]] transforms into mist, retreating briefly. The 
 
 Apollyon’s necrotic tendrils lash out, restraining several party members. His teleportation keeps him elusive, but the group finally corners him. [[Delwath]] channels celestial energy into a critical smite, delivering massive damage that causes cracks to form across Apollyon’s form. In a final act of desperation, [[Apollyon]] unleashes a wave of necrotic energy, knocking Seeker unconscious and nearly doing the same to [[Riswynn]]. The animated ladder, under Apollyon's command, moves to strike the unconscious [[Seeker]].
 
-[[Kenzo]], relentless, delivers a series of unarmed strikes that further weaken [[Apollyon]]. [[Delwath]] lands the killing blow, channeling a blast of eldritch force guided by the spirits of the [[Tanshi]].  Apollyon’s body disintegrates into moonlight, as the spirit of [[Yezali]] guides the killing blow, and the remaining pillars collapse, marking the end of his reign.
+[[Kenzo]], relentless, delivers a series of unarmed strikes that further weaken [[Apollyon]]. [[Delwath]] lands the killing blow, channeling a blast of eldritch force guided by the spirits of the [[Gods and Religions/Gods/Tanshi/Tanshi]].  Apollyon’s body disintegrates into moonlight, as the spirit of [[Yezali]] guides the killing blow, and the remaining pillars collapse, marking the end of his reign.
 
 ---
 

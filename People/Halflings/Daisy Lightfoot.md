@@ -21,6 +21,6 @@ dm_notes: important
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on August 7th, 1749 in [[Three Wells]], the [[Refounded Alliance of Aurbez]] %%^End%%
 
-![[daisy-lightfoot.png|right|400]] Daisy Lightfoot is a halfling scout master and member of the [[The Rangers]].  She has a prominent scar on her cheek and is eager to fight hobgoblins.
+![[daisy-lightfoot.png|right|400]] Daisy Lightfoot is a halfling scout master and member of the [[Rangers]].  She has a prominent scar on her cheek and is eager to fight hobgoblins.
 
 %%SECRET[1]%%
