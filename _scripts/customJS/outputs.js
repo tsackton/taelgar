@@ -479,6 +479,7 @@ class OutputHandler {
         let pageDisplayData = NameManager.getDisplayData(metadata)
         let pageType = NameManager.getPageType(metadata)
         let hasCustomPastHasStart = Object.prototype.hasOwnProperty.call(metadata.displayDefaults ?? {}, "dPastHasStart")
+        let hasExplicitEndDate = Object.prototype.hasOwnProperty.call(metadata, "DR_end") && metadata.DR_end
         let formatStr = ""
 
         if (!dateInfo.isCreated) return "**(page is future dated)**"
@@ -492,7 +493,7 @@ class OutputHandler {
             }
         }
         else if (isDisplayableDate(dateInfo.startDate) && isDisplayableDate(dateInfo.endDate)) {
-            if (pageType === "event" && !hasCustomPastHasStart && dateInfo.startDate.days === dateInfo.endDate.days) {
+            if (pageType === "event" && !hasCustomPastHasStart && (!hasExplicitEndDate || dateInfo.startDate.days === dateInfo.endDate.days)) {
                 formatStr = "<startDate>"
             } else {
                 formatStr = pageDisplayData.dPastHasStart
