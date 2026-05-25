@@ -4,6 +4,7 @@ tags: [session-note]
 displayDefaults: {defArt: ""}
 DR: 1748-04-24
 DR_end: 1748-06-03
+campaign: Oskar's Adventures
 name: Oskar in Tharn Todor
 ---
 # Oskar in Tharn Todor

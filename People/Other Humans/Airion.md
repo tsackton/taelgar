@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
-knownTo: [Mawar]
+knownTo: [Mawar, GL]
 name: Airion the Mistspeaker
 aliases: [Airion the Mistspeaker]
 born:

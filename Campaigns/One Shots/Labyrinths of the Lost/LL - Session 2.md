@@ -1,6 +1,6 @@
 ---
 tags: [session-note]
-campaign: Labyrinths
+campaign: Labyrinths of the Lost
 realWorldDate: 2023-11-25
 sessionNumber: 2
 players: [Acescale, Gaudin, Loria, Dilion]

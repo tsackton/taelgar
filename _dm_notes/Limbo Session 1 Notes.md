@@ -1,8 +1,8 @@
 ---
-tags: [session-note]
 dm_owner: none
 dm_notes: none
 ---
+
 Session 135
 
 ## RAW NOTES ##
