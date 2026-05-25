@@ -1,6 +1,5 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
 name: The Chronicles of the Silver Tempests
 ---
 # The Chronicles of the Silver Tempests

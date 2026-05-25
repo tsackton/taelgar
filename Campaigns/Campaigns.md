@@ -23,10 +23,10 @@ Games that are, or at least were designed as, full length campaigns, consisting 
 
 #### Fully Canonical
 
-- [[Dunmari Frontier Campaign]] (*Ongoing*): Fully canonical. Started in DR 1748. Well-organized campaign directory. 
-- [[Cleenseau Campaign]] (*Ongoing*): Fully canonical.  Started in DR 1719. Well-organized campaign directory. 
-- [[Great Library Campaign]] (*Ongoing-ish*): Fully canonical. Started in DR 1747. Campaign directory has session notes and a timeline, but other aspects need organization; a high fraction of the campaign material for this campaign exists primarily in OneNote. 
-- [[Addermarch Campaign]] (*Ongoing*): Fully canonical. Started sometime between DR 1720s and DR 1740s, but not yet fully anchored in time. Campaign directory has session notes and handouts, but needs a least a landing page, and maybe a timeline and party treasure details. 
+- [[Dunmari Frontier Campaign]] (*Finished*): Level 1-20. Started in DR 1748. Last adventure ended in Sept 1749, with a lingering epilogue into early DR 1750. Current time for characters is approximately Jan 1750, though this needs a bit of clarification. Campaign code: dufr. 
+- [[Cleenseau Campaign]] (*Ongoing*): Fully canonical. Started in DR 1719. Currently sometime in DR 1720. Campaign code: clee. 
+- [[Great Library Campaign]] (*Ongoing*): Fully canonical. Started in DR 1747. In fall DR 1748, time skip put them in DR 1752. Campaign code: gl. 
+- [[Addermarch Campaign]] (*Ongoing*): Fully canonical. Started in DR 1715, currently still DR 1715. Campaign code: adma. 
 
 #### Partially Canonical
 
@@ -45,9 +45,8 @@ Games that are organized around episodic one-shots, but sharing a common setting
 
 #### Fully Canonical
 
-- [[Mawar Adventures]]. Started in DR 1747. Episodic campaign with minimal links between episodes and no firm conclusion, so potentially still active. Four episodes run so far. Fixed at level 6. Campaign directory has session notes but might need another pass to update things.
-- [[Oskar in Tharn Todor]]. Episodic adventures featuring [[Oskar]] and companions. So far, have only run adventures set in and around Tharn Todor during Riswynn's first separation from the Dunmar Fellowship (Dunmar Frontier Sessions 17 - 37).  Three sessions, level 5. Session notes, PCs, and dm notes all recorded in various places. 
-
+- [[Mawar Adventures]]. Started in DR 1747, currently (DR::1748-05-27). Episodic campaign with minimal links between episodes and no firm conclusion, so potentially still active. Five episodes run so far. Fixed at level 6. Campaign code: mawar. 
+- [[Oskar in Tharn Todor]]. Episodic adventures featuring [[Oskar]] and companions. So far, have only run adventures set in and around Tharn Todor during Riswynn's first separation from the Dunmar Fellowship (Dunmar Frontier Sessions 17 - 37).  Three sessions, level 5.
 
 %%NOTE: Oskar's Adventures are a little complicated. The motivation to run these was to (a) give Riswynn an excuse to level up while the rest of the party was doing other stuff, and (b) have a family game occasionally while there was not an active family campaign. Oskar - a dwarven ranger - is presumably still hanging out in Tharn Todor and this could become an episodic campaign, but I don't think it is that likely. While Oskar and Riswynn are canonical, some of the guest characters may not be. %%
 
@@ -56,7 +55,9 @@ Games that are organized around episodic one-shots, but sharing a common setting
 Single adventures, typically running between one and four sessions. 
 #### Fully Canonical
 
-- [[LL - Player Background]] *(Finished, three sessions, level 2-3)*. Set sometime between the DR 1720s and 1740s, but not fully anchored in time. Campaign directory needs the final session notes to be added, and a better landing page. PCs are not currently recorded outside of D&D Beyond. 
+- [[LL - Player Background|Labyrinths of the Lost]] *(Finished, three sessions, level 2-3)*. Set sometime between the DR 1720s and 1740s, but not fully anchored in time. Campaign directory needs the final session notes to be added, and a better landing page. PCs are not currently recorded outside of D&D Beyond. Campaign code: lablost. 
+- Into the Chasm. Campaign code: itc. **Needs landing page, details cleanup**
+- Lost in the Feywild. Campaign code: litf. **Needs landing page, details cleanup**
 
 #### Partially Canonical
 

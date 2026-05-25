@@ -1,7 +1,7 @@
 ---
 tags:
 - session-note
-campaign: Labyrinths
+campaign: Labyrinths of the Lost
 realWorldDate: 2023-11-12
 sessionNumber: 1
 players:
