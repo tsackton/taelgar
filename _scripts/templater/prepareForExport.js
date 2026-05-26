@@ -23,6 +23,11 @@ function surroundWithCalloutBlock(input) {
     return " " + tmp.join("\n> ");
 }
 
+function isInUnderscoreTopLevelDirectory(file) {
+    const parts = String(file?.path ?? "").split("/");
+    return parts.length > 1 && parts[0].startsWith("_");
+}
+
 async function prepareForExport(tp, headerType) {
 
     await forceLoadCustomJS()
@@ -60,7 +65,7 @@ async function prepareForExport(tp, headerType) {
     }
 
 
-    const files = app.vault.getMarkdownFiles()
+    const files = app.vault.getMarkdownFiles().filter((file) => !isInUnderscoreTopLevelDirectory(file))
     let processed = 0
     let errors = 0
 

@@ -1,17 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags:
+  - session-note
 campaign: Mawar Adventures
 sessionNumber: 5
 realWorldDate: 2026-03-10
 DR: 1749-05-26
 DR_end: 1749-05-27
-players: [Ryu, Wazir, Trok, Nerissa, Ander]
+players:
+  - Ryu
+  - Wazir
+  - Trok
+  - Nerissa
+  - Ander
 name: Mawar Adventures Episode 05
 descTitle: The Lost Legacy
 tagline: in which the ocean's lost song is freed
 sessionKey: mawar-adventures-session-5
-template: mawar-template.md
+session-template: mawar-template.md
 ---
 # Mawar Adventures Episode 05
 

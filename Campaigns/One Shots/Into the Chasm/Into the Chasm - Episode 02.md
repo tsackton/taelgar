@@ -1,18 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags:
+  - session-note
 campaign: Into the Chasm
 sessionNumber: 2
 realWorldDate: 2025-12-03
 DR: 1730-01-25
 DR_end: 1730-01-25
-players: [Finnan, Jrain, Eolo, Ekko, Justas]
+players:
+  - Finnan
+  - Jrain
+  - Eolo
+  - Ekko
+  - Justas
 companions: []
 name: Into the Chasm - Episode 2
 descTitle: The Labyrinth
 tagline: in which the party navigates an ever-shifting maze
 sessionKey: into-the-chasm-session-2
-template: into-the-chasm-template.md
+session-template: into-the-chasm-template.md
 ---
 # Into the Chasm - Episode 2
 

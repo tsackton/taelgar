@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags:
+  - session-note
 campaign: Mawar Adventures
 sessionNumber: 1
 realWorldDate: 2021-07-24
 DR: 1747-07-23
 DR_end: 1747-07-23
-players: [Ryu, Wazir, Trok]
+players:
+  - Ryu
+  - Wazir
+  - Trok
 companions: []
 name: Mawar Adventures Episode 1
 descTitle: The Merfolk Visitor
 tagline: in which a stolen drop of ocean is returned
 sessionKey: mawar-adventures-session-1
-template: mawar-template.md
+session-template: mawar-template.md
 ---
 # Mawar Adventures Episode 1
 

@@ -1,18 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags:
+  - session-note
 campaign: Into the Chasm
 sessionNumber: 3
 realWorldDate: 2026-01-08
 DR: 1730-01-25
 DR_end: 1730-01-26
-players: [Finnan, Jrain, Eolo, Ekko, Justas]
+players:
+  - Finnan
+  - Jrain
+  - Eolo
+  - Ekko
+  - Justas
 companions: []
 name: Into the Chasm - Episode 3
 descTitle: The Village in the Fog
 tagline: in which Melusa opens below
 sessionKey: into-the-chasm-session-3
-template: into-the-chasm-template.md
+session-template: into-the-chasm-template.md
 ---
 # Into the Chasm - Episode 3
 

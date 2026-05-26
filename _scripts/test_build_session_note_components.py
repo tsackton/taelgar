@@ -517,6 +517,36 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertIn("<!-- SLOT: narrative.long -->", narrative_text)
         self.assertIn("The party descends into [[Zeyfa's Labyrinth]] with [[Kalima]]", narrative_text)
 
+    def test_base_note_uses_session_template_frontmatter_key(self) -> None:
+        vault = self.make_workspace()
+        note_path = vault / "Campaigns" / "Test Campaign" / "Sessions" / "Session 12.md"
+
+        components.ensure_base_note(
+            note_path=note_path,
+            session_key="test-campaign-session-12",
+            template_name="test-session.md",
+        )
+
+        note_text = note_path.read_text(encoding="utf-8")
+        self.assertIn("session-template: test-session.md", note_text)
+        self.assertNotRegex(note_text, r"(?m)^template:")
+
+    def test_base_note_migrates_legacy_template_frontmatter_key(self) -> None:
+        vault = self.make_workspace()
+        note_path = vault / "Campaigns" / "Test Campaign" / "Sessions" / "Session 12.md"
+        note_path.write_text("---\ntemplate: legacy-session.md\n---\nExisting body\n", encoding="utf-8")
+
+        components.ensure_base_note(
+            note_path=note_path,
+            session_key="test-campaign-session-12",
+            template_name="test-session.md",
+        )
+
+        note_text = note_path.read_text(encoding="utf-8")
+        self.assertIn("session-template: legacy-session.md", note_text)
+        self.assertNotRegex(note_text, r"(?m)^template:")
+        self.assertIn("Existing body", note_text)
+
     def test_builder_leaves_blank_dr_end_out_of_inline_range(self) -> None:
         vault = self.make_workspace()
         session_path = vault / "session.yaml"

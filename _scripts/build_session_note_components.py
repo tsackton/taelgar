@@ -19,6 +19,7 @@ VAULT_ROOT = Path(__file__).resolve().parents[1]
 CAMPAIGN_MAP_PATH = Path(__file__).with_name("session_note_campaigns.json")
 OBSIDIAN_METADATA_PATH = VAULT_ROOT / ".obsidian" / "metadata.json"
 SESSION_NOTE_TAG = "session-note"
+SESSION_TEMPLATE_FIELD = "session-template"
 COMPONENT_SPECS = [
     ("01-session-info.md", "Session Info", "info"),
     ("02-technical-updates.md", "Technical Updates", "technical"),
@@ -377,8 +378,10 @@ def ensure_base_note(*, note_path: Path, session_key: str, template_name: str) -
         frontmatter["headerVersion"] = frontmatter.get("headerVersion") or "2023.11.25"
         frontmatter["tags"] = normalize_tags(frontmatter.get("tags"))
         frontmatter["sessionKey"] = session_key
-        if not str(frontmatter.get("template") or "").strip():
-            frontmatter["template"] = template_name
+        if not str(frontmatter.get(SESSION_TEMPLATE_FIELD) or "").strip():
+            legacy_template = str(frontmatter.get("template") or "").strip()
+            frontmatter[SESSION_TEMPLATE_FIELD] = legacy_template or template_name
+        frontmatter.pop("template", None)
         frontmatter.pop("sessionManifest", None)
         body_text = body.lstrip("\n")
         status = "Updated"
@@ -387,7 +390,7 @@ def ensure_base_note(*, note_path: Path, session_key: str, template_name: str) -
             "headerVersion": "2023.11.25",
             "tags": [SESSION_NOTE_TAG],
             "sessionKey": session_key,
-            "template": template_name,
+            SESSION_TEMPLATE_FIELD: template_name,
         }
         body_text = ""
         status = "Created"

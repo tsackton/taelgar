@@ -1,17 +1,17 @@
 ---
 tags:
-- session-note
+  - session-note
 campaign: Labyrinths of the Lost
 realWorldDate: 2023-11-12
 sessionNumber: 1
 players:
-- Acescale
-- Gaudin
-- Loria
-- Dilion
+  - Acescale
+  - Gaudin
+  - Loria
+  - Dilion
 headerVersion: 2023.11.25
 sessionKey: labyrinths-of-the-lost-session-1
-template: lablost-template.md
+session-template: lablost-template.md
 ---
 # Labyrinths of the Lost - Session 1
 >_in Taelgar: October 17th, 1748

@@ -1,14 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags:
+  - session-note
 campaign: Lost in the Feywild
 DR: 1740-10-03
 DR_end: 1740-10-05
 realWorldDate: 2026-05-14
-descTitle: "Welcome to Dandelion House"
-tagline: "in which the party enters a mysterious tunnel"
+descTitle: Welcome to Dandelion House
+tagline: in which the party enters a mysterious tunnel
 sessionKey: lost-in-the-feywild-session-1
-template: feywild-template.md
+session-template: feywild-template.md
 ---
 # Lost in the Feywild: Episode 1
 

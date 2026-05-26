@@ -1,18 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags:
+  - session-note
 campaign: Into the Chasm
 sessionNumber: 4
 realWorldDate: 2026-01-08
 DR: 1730-01-26
 DR_end: 1730-01-29
-players: [Finnan, Jrain, Eolo, Ekko, Justas]
+players:
+  - Finnan
+  - Jrain
+  - Eolo
+  - Ekko
+  - Justas
 companions: []
 name: The Safe Gash
 descTitle: The Druid in the Circuit
 tagline: in which Malquin bargains and Eidrikas endures
 sessionKey: into-the-chasm-session-4
-template: into-the-chasm-template.md
+session-template: into-the-chasm-template.md
 ---
 # The Safe Gash
 
