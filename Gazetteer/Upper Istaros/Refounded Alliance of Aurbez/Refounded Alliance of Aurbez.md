@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/gameupdate/dufr, status/stub, status/check/ai]
+tags: [place, status/gameupdate/dufr, status/check/mike]
 aliases: [Aurbeze]
 name: Refounded Alliance of Aurbez
 typeOf: realm
@@ -37,83 +37,55 @@ For a generation, these cultures mixed along the hard frontier, supported each o
 In DR 1720, the [[War of the Ashen Horde]] swept across the Aurbez, threatening to destroy everyone. Out of the danger of that time, a new united identity was forged, a conscious refounding of the [[Istabor Alliance]] to provide for the common defense. While some still talk of returning to their ancient homelands along the [[Upper Istaros]], many more speak of the alliance reborn in a new home. 
 %%^End%%
 
----
-
 ## Governance and Defense
 
-The Alliance has no single ruler. It is a web of oaths, councils, and customary obligations between communities, renewed whenever danger forces neighbors to stand together. For many years, [[Three Wells]] has served as a common gathering place where disputes are settled and the frontier’s course is debated.
+The Alliance has no single ruler. It functions as a network of self-governing towns and independent homesteads, held together by a web of oath and customary obligations. Local and regional councils meet as necessary to resolve disputes and provide for organization and coordination across households and communities. [[Rangers]] move among these communities as scouts and messengers, advising and coordinating, and keeping the most dangerous ways between settlements as safe as they can.
 
-Defense is organized locally. Each settlement maintains its own watch and militia, and in times of need communities muster together under leaders chosen as much for trust and experience as for rank. [[Rangers]] move among these communities as scouts and messengers, advising and coordinating, and keeping the most dangerous ways between settlements as safe as they can.
+%%^Date:1721%%
+The [[Rangers]] coordinate and lead the defense of the land, but they are not a standing army. Each settlement maintains its own watch and militia, and in times of need communities muster together under a mutual defense pact, serving under leaders chosen at war councils for their ability to command the trust of those who serve under them. 
 
-
-**Aurbez Version:**  
-Every plateau community is bound to a **mutual defense league** coordinated loosely by the Rangers. Able-bodied adults are expected to keep arms ready, and militia drills are held seasonally, often timed to fairs or council gatherings. Each settlement is responsible for mustering its own fighters, but when a major threat looms, horn signals or mounted messengers summon the league to a rally point. The Rangers act as liaisons and strategic advisors but have no formal authority to command once the militia gathers — leadership falls to whoever commands the most trust or has the most experience for that threat.
-
-**Aurbez Version:**  
-Each hamlet or village cluster maintains a **council ring** where household heads meet to decide grazing rights, irrigation schedules, mutual defense commitments, and trade agreements. When larger threats arise, **regional councils** are convened at neutral sites like _Three Wells_, drawing together leaders from multiple settlements. Decisions are reached by consensus or near-unanimity — forcing compromises that preserve unity. Rangers often attend as neutral mediators but cannot impose policy.
-
-
+The [[Rangers]] also maintain a series of fortified waystations at strategic points, both along the road below the plateau and at key plateau access points. Built of stone, with stout gates and protected by garrisons of militia and Rangers, these waystations serve a crucial role during war, guarding the ascend to the plateau. In peace time, they double as hubs for trade and news. 
+%%^End%%
 ## Economy and Trade
 
 The Aurbez supports small-scale farming where water allows it, fishing along the upper Aursen, and herding across the plateau and foothills. Prospectors and scavengers also work the margins of the old dwarven lands of [[Ardith]], bringing ore, tools, and salvage to market when they can.
 
-Trade follows the [[Maseau - Dunmar Road]]. The road’s traffic grows year by year, and the market town of [[Aursenbourg]] thrives on caravans and the exchange of mountain goods for necessities brought in from beyond the frontier. Its stone bridge—built in DR 1732—has turned the Aursen crossing into a reliable gateway between plateau and lowlands.
+Trade follows the [[Maseau - Dunmar Road]], moving south to [[Dunmar]] and north to the [[March of Andonne]], [[Duchy of Maseau|Maseau]], and eventually [[Sembara]]. 
 
-
-**Aurbez Version:**  
-Aurbez’s economy is **mixed subsistence with specialized exports**. Herding (goats, sheep), dairy products (notably hard cheese), and hardy grains are staples. Small-scale mining camps work copper, iron, and occasional silver seams, with miners moving between camps seasonally. Surplus goods are sold to traders on the road below the plateau or at seasonal fairs like those at _Three Wells_. Household craft production — woven cloaks, leather goods, carved wood — supplements incomes.
-
-They also have a decent amount of trade with Sembara driven by explorers and miners who pick through the dwarven ruins for easily accessible metals and ores and ship them north.
- 
-
+%%^Date:1733%%
+The road’s traffic grows year after year, especially since the construction of a stone bridge across the [[Aursen]] in DR 1732. The market town of [[Aursenbourg]] has grown around the bridge, to become a central depot on the route, with a large market. 
+%%^End%%
 ## Settlements
 
+Many Aurbeze live in small, isolated farmsteads, or small clusters of a handful of households. Houses are sturdy and defensible, with thick walls, small windows, and steep roofs to shed snow. These folk are largely self-sufficient, producing their own food, tools, and clothing, with perhaps a few trips to seasonal fairs to supplement their needs. 
 
-**Aurbez Version:**  
-Most Aurbez families live in **stand-alone stone farmsteads** or small clusters of 2–6 households linked by kinship. Houses are sturdy, one- or two-story stone buildings with thick walls, small windows, and steep roofs to shed snow. Families are largely self-sufficient, producing their own food, tools, and clothing. Social life is tied to seasonal gatherings and fairs rather than to daily village interaction.
-
-
-**Aurbez Version:**  
-Strategic points along the road below the plateau — and at key plateau access points — are guarded by **fortified waystations**. These serve as both rest stops for traders and rally points in times of danger. Built of stone with stout gates, they have storehouses for supplies and small garrisons drawn from nearby communities. In peacetime, they act as neutral hubs for trade and news; in wartime, they become defensive linchpins.
-
-
-The largest settlements lie near the marshy upper [[Aursen]], where the river slows and meanders across the plateau before spilling off the escarpment in a series of large waterfalls, and along the [[Maseau - Dunmar Road]], below the plateau. 
-
-The [[Aursen Marshes]] themselves are an agricultural heartland: highly productive lizardfolk communities have lived there for generations, and the farms on the marsh edges feed much of the plateau.
+Nonetheless there are some larger settlements and villages. These mostly lie near the marshy upper [[Aursen]], where the river slows and meanders across the plateau before spilling off the escarpment in a series of large waterfalls, and along the [[Maseau - Dunmar Road]], below the plateau. These include:
 
 - [[Aursen Marshes]]: A marshy basin on the upper [[Aursen]], home to lizardfolk communities and productive farms on the drier edges.
 - [[Aursenbourg]]: A walled market town at the Aursen crossing, grown up around the road and the bridge.
 - [[Three Wells]]: A fortified gathering place on the plateau, where councils meet and where a watchtower maintained by [[Rangers]] keeps vigil over the approaches.
-- [[Laicon]]: A small village along the road, known as a trading point for goods brought down from the plateau.
-- [[Ausson's Crossing]]: A bustling inn in Laicon, founded as a trading outpost where steep tracks descend from the plateau.
+- [[Laicon]]: A small village along the road, known as a trading point for goods brought down from the plateau, and home to a famous inn, [[Ausson's Crossing]]. 
 
 ## History
 
-Local tradition holds that the plateau was among the first safer refuges after the fall of [[Isingue]], and many families trace their roots to those who fled west into the high country in the years after the war. Over the generations that followed, the Aurbez weathered raids and hardship from the east and south, and its scattered settlements learned to rely on one another.
+For many years, before the [[Great War]], the [[Aurbez Plateau]] was the center of the [[Dominion of Avatus]]. Even once the Dominion fell to Sembaran advances, the plateau was occupied by scattered remnants of hobgoblins and others. During the [[Great War]], the hobgoblin population expanded under [[Cha'mutte]]'s watch; many of these hobgoblins formed the core of Cha'mutte's southern army. In the closing days of the [[Great War]], the stoneborn defeated the hobgoblin rearguard in the [[Battle of Motanga Pass]], driving hobgoblins north of the [[Aursen]].
 
-Old stories and place-names remember an early alliance of humans, lizardfolk, and stoneborn in the defense of the highlands, and it is from these memories—renewed again and again in times of danger—that the Refounded Alliance takes its name.
+%%NOTE: stoneborn definitely live here during this time, though mostly to the south; it is possible lizardfolk settle/resettle the Aursen marshes before the great war, but not decided canonically%%
 
-- after Avatus defeat, some isolated hobgoblin groups establish in this area, generally harried from the west by dwarves and the east by Isinguese, but generally find a few isolated places on the plateau and the forests below to survive - neither dwarves not Isinguese are actively at war. this is basically a rump of Avatus, which comes to be ruled by [[Revaka]]. 
-- lizardfolk return to the Aursen marshes in this time as well, but very lightly settled. there are much more extensive lizardfolk settlements east of Isingue
-- in run up to Great War, hobgoblin population expands under Cha'mutte's watch, and many of these hobgoblins form the core of the Southern Army
-- during Great War, plague never reaches within 100 miles of the plateau. hobgoblin total war mobilization. siege of isingue, etc. 
-- Battle of Motanga Pass - probably part of Great War; Stoneborn victory that routed hobgoblin rearguard and drove hobgoblins off the plateau
-- DR 1545 - DR 1555 refugees settle, mix of humans and lizardfolk from Isingue area. initially mostly along the Aursen mashes and upper plateau above the pass, and beginning to move a little bit north at times. this is when the heartroot is hidden. 
-- DR 1555 - DR 1557  [[Three Kin's War]], fought by humans/lizardfolk/stoneborn (with stoneborn as the dominate power) against hobgoblins. this is when three wells is established. 
-- DR 1560s - DR 1600s quiet, population slowly grows. hobgoblin raids from the south are a constant problem. rangers grow.
-- DR 1610s - final defeat of hobgoblins by Dunmar. trade begins to creep north. 
-- DR 1620s - DR 1630s. road regularly opened from Dunmar to Aursen, though few travel north of there and March is still quite dangerous. 
-- DR 1650s - DR 1680s - wave of settlement after hobgoblin wars end, especially in March of Andonne. road fully open to Sembara. 
-- DR 1670s - DR 1710s - much debate about politics - Isingue as past or future, etc. 
-- DR 1720 - War of the [[War of the Ashen Horde|Ashen Hoard]]. Mutual defense pacts and militias organized; alliance is refounded. this is when the "Refounded Aliliance" name is coined. 
+### Early Settlement 
 
+For the first sixty years after the [[Great War]], the [[Aurbez Plateau]] is an isolated frontier, beset by dangers on all sides, but still safer than trying to live in the [[Plaguelands]]. 
 
-After Great War this particular region was barren for a couple of years, and as the dwarves fled south in those early years the region would have been awash in chaos. Black storms of unnatural ash falling on the ground for weeks. Hobgoblin armies passing through, fleeing who knows what. Dark things emerging from the old dwarven mines. But in this time a small trickle of humans started fortifying caves up in the mountains, or building small highly fortified villages. They drifted in from the Istabor valley, for the most part, all with various tales about the terrors they fled or faced escaping and finding their way across a wasteland. Some also came in from the south, where the cataclysm of the end of the war had reshaped the very earth, raising a new set of mountains. 
+- (DR:: 1545) - (DR_end:: 1555): In the immediate aftermath of the Great War, the [[Aurbez Plateau]] saw an influx of refugees, mostly humans from [[Isingue]] and [[Lizardfolk]]. Most of the first refugees settle along the [[Aursen Marshes]] and the nearby plateau, gradually moving north along the plateau heights. Conflicts with remnant hobgoblins are common. 
+- (DR:: 1547): The [[Heartroot]] is hidden in a secret valley northwest of the [[Aursen Marshes]]. 
+- (DR:: 1555) - (DR_end:: 1557):  [[Three Kin's War]] is fought between an alliance of stoneborn, lizardfolk, and humans against hobgoblins, and finally drives hobgoblins off the plateau entirely. 
 
-But for maybe a generation of humans, these refugees stayed hidden, as did you -- the land was dangerous. But as time passed, and the human kingdoms established themselves, and the plague winds shrunk to mere normal ash, the region started to grow a bit. The original refugees had children, as humans are wont to do, and the land, if not bountiful, was at least empty.
+After the [[Three Kin's War]], the population slowly grows. Hobgoblins raids from the north and the south, and greater dangers from the [[Plaguelands]], are a constant problem, but settlements on the plateau are, if not completely safe, at least reasonably defensible. The population slowly grows, and the [[Rangers]] grow in prominence locally. 
 
-  
-The real change has happened in the last 50 years though. Queen Cece of Sembara ushered in an age of peace and prosperity. She built a road through the region, and more settlers started drifting in: not just people with ancient connections to the Istabor valley, who heard rumors of their culture being preserved here, but also anyone looking for a new start, some free land, etc.
+### Growth and Unification
 
-This time is when the Inn was founded, the mining and metal trade started, and the political controversies above started.
+In the early DR 1600s, [[Dunmar]] wins the [[Northern War]], marking the final defeat of hobgoblins in the southern [[Sentinel Range|Sentinels]]. Trade from Dunmar begins to creep north, and soon the passes over the Sentinels are seeing regular summer trade, though the [[March of Andonne]] and points north are still quite dangerous. 
 
+This changes after [[Cece I]] and the [[Radiant Alliance]] defeat the [[Shattered Ice Clan]] in the [[Third Hobgoblin War (Sembara)]]. With the [[Maseau - Dunmar Road]] fully open, a wave of settlement moves from the south, and trade connections with [[Sembara]] grow rapidly. The [[March of Andonne]] is settled, and many new people with no ancestral connections to [[Isingue]] move into Aurbez. There is a lot of debate about politics and how the community should see itself, whether to cling to a vision of the restoration of the former glory of [[Isingue]], or forge a new course. 
+
+For nearly two generations, what will become the Refounded Alliance of Aurbez grows and prospers in relative peace, and struggles to define itself. This all changes in DR 1720, when the [[War of the Ashen Horde]] breaks out. The plagueland horrors and ash demons that will later be called the Ashen Hoard move far too quickly for help to reach Aurbez from the outside, even if help would come, and it falls to the local communities to band together in mutual defense to survive. With the aid of the [[Rangers]], they do, and this is the formative event that forged the modern Refounded Alliance of Aurbez. 
