@@ -5,66 +5,64 @@ campaign: Lost in the Feywild
 DR: 1740-10-03
 DR_end: 1740-10-05
 realWorldDate: 2026-05-14
-descTitle: "The Door in the Roots"
-tagline: "in which a promise closes behind them"
+descTitle: "Welcome to Dandelion House"
+tagline: "in which the party enters a mysterious tunnel"
 sessionKey: lost-in-the-feywild-session-1
-template: composable-session-note.md
+template: feywild-template.md
 ---
-# Lost in the Feywild 1
+# Lost in the Feywild: Episode 1
 
->[!info] The Door in the Roots: in which a promise closes behind them
+>[!info] Welcome to Dandelion House: in which the party enters a mysterious tunnel
 > *Featuring: [[Cato Min]], [[Edric]], [[Tarek]], [[Ayveen]], [[Txarro]]*
-> *In Taelgar: (DR:: 1740-10-03)*
+> *In Taelgar: (DR:: 1740-10-03) to (DR_end:: 1740-10-05)*
 > *On Earth: Thursday, May 14, 2026*
-> *Old wood west of Tollen, old wood west of Tollen, Dandelion House grounds, Dandelion House, guest quarters, and root tunnel beneath Dandelion House*
+> *Varrow Forest and Dandelion House*
 
-The party follows Alden to Dandelion House, accepts Lord Holda's bargain to end a mysterious treaty beyond a hidden door, and is sealed inside a root tunnel before realizing the contract's age and language do not match.
-
-# Timeline
-
-- (DR:: 1740-10-03), evening: The party camps west of Tollen with Alden.
-- (DR:: 1740-10-03), night: Alden asks about the party's last job.
-- (DR:: 1740-10-04): Alden leads the party to Dandelion House.
-- (DR:: 1740-10-04), evening: The party enters Dandelion House and meets Lord Holda.
-- (DR:: 1740-10-04), night: Lord Holda hires the party to end a hidden treaty.
-- (DR:: 1740-10-05), dawn: The party enters the root tunnel and is sealed inside.
-
-## Cast of Characters
-
-- Alden: guide and agent for the minor lord.
-- Colden: Alden's cousin at the manor.
-- Moss Foot: Edric's pony.
-- Lord Holda: lord of Dandelion House.
-- unnamed elf patron: patron of the previous job.
-- ettin: enemy from the previous job.
-- unnamed elf archivist: deliverer of the deed.
-- unnamed lord beyond the door: target of the treaty negotiation.
-
-## Places
-
-- Old wood west of Tollen: forested campsite on the final night before the party reaches Dandelion House. Session context includes: campfire on the last night before reaching Dandelion House.
-- old wood west of Tollen: old forest west of Tollen where paths fade, wildlife quiets, and Alden leads the party toward the manor. Session context includes: long day's hike through increasingly trackless forest to the manor threshold.
-- Dandelion House grounds: overgrown estate grounds around Dandelion House, marked by old walls, a moat, roots, and dandelion imagery. Session context includes: long day's hike through increasingly trackless forest to the manor threshold.
-- Dandelion House: ancient preserved manor claimed by Lord Holda, beautiful and decrepit in equal measure. Session context includes: entry hall, upper floors, observatory, and and kitchen.
-- guest quarters: sleeping rooms in Dandelion House where the party rests before the pre-dawn descent. Session context includes: pre-dawn descent through the basement and root cellar into the hidden passage.
-- root tunnel beneath Dandelion House: narrow dry passage through the hollow center of an enormous root below the manor. Session context includes: pre-dawn descent through the basement and root cellar into the hidden passage.
-
-## Combat
-
-- none
+The party follows Alden to Dandelion House, where they accept Lord Holda's deal to end a mysterious treaty with an entity beyond a hidden door in exchange for promises of wealth and treasure, but find themselves sealed in a strange passage.
 
 ## Narrative
 
-The group is traveling west from Tollen with Alden after being recruited to inspect a minor lord's newly inherited property. Around the campfire, [[Txarro]] prepares fish and recalls being rescued from tree blights by Cato and [[Tarek]], Cato and [[Tarek]] sketch out their carny and pickpocket routines, Edric's awkward generosity and Night Queen faith come into focus, and [[Ayveen]] frames the party as people who can make the world brighter. By the end of the conversation, the group has settled into the shape of a found-family band of misfits: skeptical, generous, opportunistic, anxious, and fond of one another.
+Our session begins as the party is traveling west from [[Tollen]], guided by Alden -- a small, stout, pale human with a curiosity about the party and a phobia of fire -- to an old property at the end of the wilderness recently inherited by a longtime adventurer. 
 
-Alden prompts the party to recount the prior recovery job: old books, goblins, an ettin, and a fight that went worse than Cato prefers to admit. Cato remembers profit and clean clothes, [[Edric]] remembers enemies who ran instead of dying, [[Tarek]] remembers salvage, [[Txarro]] remembers becoming a tiger, and [[Ayveen]] sees teamwork. Alden then speaks with real emotion about Dandelion House and dandelions, Cato quietly casts Detect Thoughts and finds joy, delight, longing, and nostalgia rather than deceit, and the group checks Alden's ordinary travel gear before setting watches and sleeping under Edric's prayer to [[The Night Queen|the Night Queen]].
+The group is a found-family band of misfits: skeptical, generous, opportunistic, anxious, and fond of one another. Around the campfire, [[Txarro]] prepares fish and recalls being rescued from tree blights by [[Cato Min|Cato]] and [[Tarek]]; [[Cato Min|Cato]] and [[Tarek]] sketch out their carny and pickpocket routines; [[Edric]]'s awkward generosity and faith in [[The Night Queen|the Night Queen]] come into focus; and [[Ayveen]] frames the party as people who can make the world brighter.
 
-Morning brings a long march through old forest, with Alden clearly moving toward a known destination even after the trails disappear. [[Txarro]] can still sense direction, but the forest grows quieter, Moss Foot becomes more alert, and Alden presses them to eat while walking so they arrive before dark. At the grounds, the party passes the remnants of an old wall and moat, sees roots everywhere and the dandelion crest above the door, meets Alden's cousin Colden when Moss Foot is taken to the stables, and hears Alden warn them that Lord Holda is proud, difficult, and desperate for Dandelion House to become the estate he has always wanted.
+Around the campfire, they each tell a different version of their last job: [[Cato Min|Cato]] remembers profit and clean clothes; [[Edric]] remembers enemies who ran instead of dying; [[Tarek]] remembers salvage; [[Txarro]] remembers becoming a tiger; and [[Ayveen]] sees teamwork. Alden speaks of Dandelion House with rapturous but genuine emotion -- [[Cato Min|Cato]]'s surreptitious Detect Thoughts spell finds joy, delight, longing, and nostalgia.
 
-They enter Dandelion House and find an immense, dusty interior whose grandeur has not entirely decayed. Detect Magic suggests preservation woven through the building, Edric's detection spell finds no fey or undead nearby, [[Tarek]] examines tracks in the dust, and Cato becomes increasingly convinced that the house feels like a beautiful mouth waiting to swallow them. On the upper floor, Alden presents them to Lord Holda, a scarred former adventurer standing in the last light, and Holda leads them down to a kitchen stocked with magical conveniences, including a cleaning bar that [[Tarek]] immediately evaluates for later theft.
+Morning brings a long march through ancient forest. The trail slowly fades away, the forest grows quieter, the shadows gather. Just before sunset, the party passes through a ruined gate and over barely-visible remnants of an ancient wall and moat long since swallowed by forest. The forest opens into a wildly overgrown field and the House itself, blazing bright in the last light of day.
 
-Over dinner, Holda tells the story of a bitter late-career victory over a young dragon that left his companions dead and his purse still thin. The next day, an elf found him in Tollen and delivered a brittle deed naming him heir to Dandelion House, its lands, and its treasure, but the deed is also a contract: the house becomes his only if he steps through a door in the floor and convinces a man beyond it to end a long-held treaty. Holda admits he entered, found another road and manor, tried to be forceful, and failed almost immediately. [[Tarek]] reads the Sembaran document and senses that something about it does not fit, while Cato shifts from fear to enthusiasm at the promise of half the hoard.
+Dandelion House is a marvel of late-[[Drankorian Empire|Drankorian]] architecture -- at least 700 years old. Detect Magic suggests some kind of preservation magic woven through the much of the structure, but [[Cato Min|Cato]] becomes increasingly convinced that the house -- with its empty window frames like eye sockets and open double doors like a mouth with a dandelion crest above it -- is waiting to consume them. 
 
-After Holda leaves them, Cato remains thrilled by the possibility of enormous wealth while the others start testing the bargain from every angle. [[Edric]] is uneasy about a doorway that leads somewhere else, [[Tarek]] thinks contracts are often tools for theft, [[Ayveen]] points out that ending an unknown treaty might be dangerous, and [[Txarro]] tries to prepare Cato for disappointment if the treasure is a trap, a metaphor, or a single coin. Alden shows them how the sconces work, [[Edric]] checks that Moss Foot is fine, [[Txarro]] distributes Goodberries for the next day, [[Tarek]] takes a spoon, and the group chooses rest while agreeing that they will go below in the morning.
+Alden warns that Lord Holda is proud, difficult, and desperate for Dandelion House to become the estate he has always wanted. They meet Holda on the upper floor: a scarred adventurer in his late 40s, watching the fading light, sinking into shadow. After brief introductions, Holda leads them down to the kitchen for a meal and conversation.
 
-Before dawn, the clock wakes them and Alden collects them from their rooms, leading them through the ground floor, the basement, and a rougher locked stair opened with a glowing gold key. In a root-covered sub-cellar, Holda stands by the hidden door and tells them that the passage will go dark before they see the next light, promising to keep this end open while they take care of business. [[Ayveen]], [[Edric]], [[Tarek]], Cato, and [[Txarro]] crawl in order through a narrow passage that proves to be the hollow center of an enormous dry root, and then the door closes behind them. In the same moment, [[Tarek]] realizes the contract is unquestionably four hundred years old but written in perfectly contemporary Sembaran, leaving the party sealed in the tunnel with the central contradiction finally clear.
+Holda tells his story over dinner in a kitchen stocked with magical conveniences (including a cleaning bar [[Tarek]] immediately evaluates for later theft). The second son of a minor lord in southern [[Sembara]], he always hungered for more. Disappointed in the modest comfort of his family and resentful about his station, he left to seek his fortune, spending decades around the [[Green Sea]] as a sellsword, adventurer, and mercenary. He made and lost treasurers and lovers, and acquired a minor reputation. 
+
+Holda tells it all with a deep, weary bitterness: the best is clearly behind him and it wasn’t that great anyway. Each year was different but every year was the same: a wheel turning endlessly until this last spring. A [[Dragons|dragon]] had come wandering south from the mountains and his party slew it in a fight which claimed the lives of every other member of his party. The deed was made into a popular song, but Holda found himself back in [[Tollen]] with his companions dead and his purse no heavier than when he left home nearly 30 years earlier. 
+
+But then, in a voice both wondering and grim, Holda says that the next day, an elf calling himself an archivist delivered to Holda a centuries-old deed. Despite its age, this deed clearly named Holda, his lineage, his birth date, and a number of his exploits, including the slaying of the dragon. 
+
+The document named him heir to "Dandelion House, its lands, and all such treasures therein," on condition that Holda steps through a door in the floor and convinces a man beyond it to end a long-held treaty. But Holda -- whose only negotiation strategy seemed to be intimidation -- failed almost immediately to convince the man of anything, and now has turned to the party for help.
+
+After Holda leaves them, [[Tarek]] reads the Sembaran document again and senses that something about it does not fit. But [[Cato Min|Cato]] shifts from fear to enthusiasm at the promise of half the hoard -- though [[Ayveen]] points out that ending an unknown treaty might be dangerous, and [[Txarro]] tries to prepare Cato for disappointment if the treasure is a trap, a metaphor, or a single coin.
+
+Before dawn, the grandfather clock wakes them and Alden collects them from their rooms, leading them through the ground floor, down through a massive basement. There, he opens a locked door with a glowing gold key, leads them below the basement, down through a passage hewn from living rock into in a root-covered sub-cellar that surely predates the manor above it. Holda, waiting there, opens a door that seems to lead deep through a massive hollowed-out root, promising to keep this end open while they take care of business. 
+
+"On the far side, go up, up and out and onto the road," he tell them, "and you'll see the manor just ahead a little way. Seek there the master of the house." Just as Holda closes the door behind them, [[Tarek]] realizes the contract is unquestionably four hundred years old but written in perfectly contemporary [[Sembara|Sembaran]].
+
+## Cast of Characters
+
+- Alden: guide and agent for Lord Holda.
+- Colden: Alden's cousin, at the manor.
+- Mossfoot: Edric's pony.
+- Lord Holda: lord of Dandelion House, former adventurer, and mysterious quest-giver.
+
+## Places
+
+- Varrow Forest: old forest west of Tollen where the party camps, paths fade, wildlife quiets, and Alden leads the party toward Dandelion House. Session context includes: campfire on the last night before reaching Dandelion House; long day's hike through increasingly trackless forest.
+- Dandelion House: ancient preserved manor and overgrown estate claimed by Lord Holda, beautiful and decrepit in equal measure. Session context includes: grounds, entry hall, upper floors, observatory, kitchen, guest quarters, basement, root cellar, and and hidden root tunnel.
+
+## Timeline
+
+- (DR:: 1740-10-03), evening: The party camps in the Varrow Forest with Alden, and recounts their last job around the campfire.
+- (DR:: 1740-10-04), day: Alden leads the party through Varrow Forest to Dandelion House.
+- (DR:: 1740-10-04), evening: The party enters Dandelion House, meets Lord Holda, and accepts his job offer, requiring them to pass through a basement door and convince an unknown loard to end a long-held treaty.
+- (DR:: 1740-10-05), dawn: The party enters the basement root tunnel, and is sealed inside.

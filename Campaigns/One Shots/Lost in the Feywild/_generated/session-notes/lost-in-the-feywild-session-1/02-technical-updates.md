@@ -6,32 +6,26 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1740-10-05), dawn: party ends at [[root tunnel beneath Dandelion House]].
+- Candidate party whereabouts: (DR:: 1740-10-05), dawn: party ends at [[Dandelion House]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
-- Old wood west of Tollen: visited on 1740-10-03.
-- old wood west of Tollen: visited on 1740-10-04.
-- Dandelion House grounds: visited on 1740-10-04.
-- Dandelion House: visited on 1740-10-04.
-- guest quarters: visited on 1740-10-05.
-- root tunnel beneath Dandelion House: visited on 1740-10-05.
+- Varrow Forest: visited on 1740-10-03 to 1740-10-04.
+- Dandelion House: visited on 1740-10-04 to 1740-10-05.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
-- Alden: candidate whereabouts update from (DR:: 1740-10-05), dawn -> [[root tunnel beneath Dandelion House]].
-  - Whereabouts line: `- {type: away, start: 1740-10-05, location: root tunnel beneath Dandelion House}`
-- Lord Holda: candidate whereabouts update from (DR:: 1740-10-05), dawn -> [[root tunnel beneath Dandelion House]].
-  - Whereabouts line: `- {type: away, start: 1740-10-05, location: root tunnel beneath Dandelion House}`
+- Alden: candidate whereabouts update from (DR:: 1740-10-05), dawn -> [[Dandelion House]].
+  - Whereabouts line: `- {type: away, start: 1740-10-05, location: Dandelion House}`
+- Lord Holda: candidate whereabouts update from (DR:: 1740-10-05), dawn -> [[Dandelion House]].
+  - Whereabouts line: `- {type: away, start: 1740-10-05, location: Dandelion House}`
 <!-- /SLOT -->
 
 <!-- SLOT: updates.timeline -->
-- (DR:: 1740-10-03), evening: The party camps west of Tollen with Alden.
-- (DR:: 1740-10-03), night: Alden asks about the party's last job.
-- (DR:: 1740-10-04): Alden leads the party to Dandelion House.
-- (DR:: 1740-10-04), evening: The party enters Dandelion House and meets Lord Holda.
-- (DR:: 1740-10-04), night: Lord Holda hires the party to end a hidden treaty.
-- (DR:: 1740-10-05), dawn: The party enters the root tunnel and is sealed inside.
+- (DR:: 1740-10-03), evening: The party camps in the Varrow Forest with Alden, and recounts their last job around the campfire.
+- (DR:: 1740-10-04): Alden leads the party through Varrow Forest to Dandelion House.
+- (DR:: 1740-10-04), evening: The party enters Dandelion House, meets Lord Holda, and accepts his job offer, requiring them to pass through a basement door and convince an unknown loard to end a long-held treaty.
+- (DR:: 1740-10-05), dawn: The party enters the basement root tunnel, and is sealed inside.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.items -->
@@ -41,18 +35,14 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- SLOT: updates.review -->
 - Alden: no matching note found in the vault index
 - Colden: no matching note found in the vault index
-- Moss Foot: no matching note found in the vault index
+- Mossfoot: no matching note found in the vault index
 - Lord Holda: no matching note found in the vault index
 - unnamed elf patron: no matching note found in the vault index
 - ettin: no matching note found in the vault index
 - unnamed elf archivist: no matching note found in the vault index
 - unnamed lord beyond the door: no matching note found in the vault index
-- Old wood west of Tollen: no matching note found in the vault index
-- old wood west of Tollen: no matching note found in the vault index
-- Dandelion House grounds: no matching note found in the vault index
+- Varrow Forest: no matching note found in the vault index
 - Dandelion House: no matching note found in the vault index
-- guest quarters: no matching note found in the vault index
-- root tunnel beneath Dandelion House: no matching note found in the vault index
 - unnamed elf organization: no matching note found in the vault index
 - dandelion crest: no matching note found in the vault index
 - cleaning bar: no matching note found in the vault index
