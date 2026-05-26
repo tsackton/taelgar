@@ -6,19 +6,19 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Session Info
 
 <!-- SLOT: session.title -->
-Lost in the Feywild 1
+Lost in the Feywild: Episode 1
 <!-- /SLOT -->
 
 <!-- SLOT: session.desc_title -->
-The Door in the Roots
+Welcome to Dandelion House
 <!-- /SLOT -->
 
 <!-- SLOT: session.tagline -->
-in which a promise closes behind them
+in which the party enters a mysterious tunnel
 <!-- /SLOT -->
 
 <!-- SLOT: session.summary -->
-The party follows Alden to Dandelion House, accepts Lord Holda's bargain to end a mysterious treaty beyond a hidden door, and is sealed inside a root tunnel before realizing the contract's age and language do not match.
+The party follows Alden to Dandelion House, where they accept Lord Holda's deal to end a mysterious treaty with an entity beyond a hidden door in exchange for promises of wealth and treasure, but find themselves sealed in a strange passage.
 <!-- /SLOT -->
 
 <!-- SLOT: session.dm -->
@@ -54,7 +54,7 @@ Cato Min, Edric, Tarek, Ayveen, Txarro
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_end -->
-1740-10-03
+1740-10-05
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_range_inline -->
@@ -70,19 +70,17 @@ Thursday, May 14, 2026
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->
-- (DR:: 1740-10-03), evening: The party camps west of Tollen with Alden.
-- (DR:: 1740-10-03), night: Alden asks about the party's last job.
-- (DR:: 1740-10-04): Alden leads the party to Dandelion House.
-- (DR:: 1740-10-04), evening: The party enters Dandelion House and meets Lord Holda.
-- (DR:: 1740-10-04), night: Lord Holda hires the party to end a hidden treaty.
-- (DR:: 1740-10-05), dawn: The party enters the root tunnel and is sealed inside.
+- (DR:: 1740-10-03), evening: The party camps in the Varrow Forest with Alden, and recounts their last job around the campfire.
+- (DR:: 1740-10-04): Alden leads the party through Varrow Forest to Dandelion House.
+- (DR:: 1740-10-04), evening: The party enters Dandelion House, meets Lord Holda, and accepts his job offer, requiring them to pass through a basement door and convince an unknown loard to end a long-held treaty.
+- (DR:: 1740-10-05), dawn: The party enters the basement root tunnel, and is sealed inside.
 <!-- /SLOT -->
 
 <!-- SLOT: cast -->
-- Alden: guide and agent for the minor lord.
-- Colden: Alden's cousin at the manor.
-- Moss Foot: Edric's pony.
-- Lord Holda: lord of Dandelion House.
+- Alden: guide and agent for Lord Holda.
+- Colden: Alden's cousin, at the manor.
+- Mossfoot: Edric's pony.
+- Lord Holda: lord of Dandelion House, former adventurer, and mysterious quest-giver.
 - unnamed elf patron: patron of the previous job.
 - ettin: enemy from the previous job.
 - unnamed elf archivist: deliverer of the deed.
@@ -90,16 +88,12 @@ Thursday, May 14, 2026
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->
-- Old wood west of Tollen: forested campsite on the final night before the party reaches Dandelion House. Session context includes: campfire on the last night before reaching Dandelion House.
-- old wood west of Tollen: old forest west of Tollen where paths fade, wildlife quiets, and Alden leads the party toward the manor. Session context includes: long day's hike through increasingly trackless forest to the manor threshold.
-- Dandelion House grounds: overgrown estate grounds around Dandelion House, marked by old walls, a moat, roots, and dandelion imagery. Session context includes: long day's hike through increasingly trackless forest to the manor threshold.
-- Dandelion House: ancient preserved manor claimed by Lord Holda, beautiful and decrepit in equal measure. Session context includes: entry hall, upper floors, observatory, and and kitchen.
-- guest quarters: sleeping rooms in Dandelion House where the party rests before the pre-dawn descent. Session context includes: pre-dawn descent through the basement and root cellar into the hidden passage.
-- root tunnel beneath Dandelion House: narrow dry passage through the hollow center of an enormous root below the manor. Session context includes: pre-dawn descent through the basement and root cellar into the hidden passage.
+- Varrow Forest: old forest west of Tollen where the party camps, paths fade, wildlife quiets, and Alden leads the party toward Dandelion House. Session context includes: campfire on the last night before reaching Dandelion House; long day's hike through increasingly trackless forest.
+- Dandelion House: ancient preserved manor and overgrown estate claimed by Lord Holda, beautiful and decrepit in equal measure. Session context includes: grounds, entry hall, upper floors, observatory, kitchen, guest quarters, basement, root cellar, and and hidden root tunnel.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->
-Old wood west of Tollen, old wood west of Tollen, Dandelion House grounds, Dandelion House, guest quarters, and root tunnel beneath Dandelion House
+Varrow Forest and Dandelion House
 <!-- /SLOT -->
 
 <!-- SLOT: groups -->
@@ -114,7 +108,7 @@ Old wood west of Tollen, old wood west of Tollen, Dandelion House grounds, Dande
 
 <!-- SLOT: items.treasure -->
 - dandelion crest: carved dandelion puffball motif above the manor door.
-  - old wood west of Tollen -> Dandelion House grounds, 1740-10-04
+  - Dandelion House, 1740-10-04
 - cleaning bar: magical iron bar in the kitchen that cleans anyone who taps it.
   - Dandelion House, 1740-10-04
 - magical ice chest: cold magical storage chest in the kitchen.
@@ -130,9 +124,9 @@ Old wood west of Tollen, old wood west of Tollen, Dandelion House grounds, Dande
 - silver spoon: piece of manor silverware [[Tarek]] pockets during the evening.
   - Dandelion House, 1740-10-04
 - gold key: small glowing key Alden uses to unlock the lower door beneath the basement.
-  - guest quarters -> root tunnel beneath Dandelion House, 1740-10-05
+  - Dandelion House, 1740-10-05
 - hidden door: root-cellar door leading into the narrow passage below Dandelion House.
-  - guest quarters -> root tunnel beneath Dandelion House, 1740-10-05
+  - Dandelion House, 1740-10-05
 - old books: objects recovered for the elf patron during the party's previous job.
 - treaty: long-held agreement the party is hired to end without yet knowing its terms.
 - treasure hoard: promised inheritance treasure Holda offers to split with the party.
