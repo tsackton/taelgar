@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/check/ai]
+tags: [place, status/gameupdate/dufr, status/stub, status/check/ai]
 aliases: [Aurbeze]
 name: Refounded Alliance of Aurbez
 typeOf: realm
@@ -13,13 +13,19 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Refounded Alliance of Aurbez is a loose confederation of highland communities in the Upper Istaros, occupying the [[Aurbez Plateau]] and the surrounding foothills. It stands as a hard-edged borderland between the [[Sentinel Range|Sentinels]] and the [[Plaguelands]], where ash-winds, raiders, and the lingering dangers of ruined lands shape daily life.
+ %% Written from DR (POV:: 1749) point of view. Does not yet reflect events from the end of the Dunmar campaign. %%
+
+The Refounded Alliance of Aurbez is a loose confederation of highland communities in the Upper Istaros, occupying the [[Aurbez Plateau]] and the surrounding foothills. Many of the people of Aurbez trance their ancestry to [[Isingue]] and the [[Istabor Alliance]], which the Refounded Alliance of Aurbez models itself after. Though the Alliance has grown in wealth and population in recent years, it remains a hard borderland, between the high peaks of the [[Sentinel Range|Sentinels]] to the west and the ashy wastes of the [[Plaguelands]] to the east. 
+
+---
 
 ## Geography
 
-The heart of the Alliance is the [[Aurbez Plateau]] itself: a high country of rushing brooks fed by snowmelt, scattered stands of quaking aspens and highland pines, and broad upland meadows. Small farms and clusters of villages cling to reliable water; goat and sheep herders range the rougher slopes; and miners and prospectors work marginal claims in the hills.
+The heart of the Alliance is the [[Aurbez Plateau]] itself: a high country of rushing brooks fed by snowmelt, scattered stands of quaking aspens and highland pines, and broad upland meadows. Small farms and villages dot the landscape where there is reliable water; goat and sheep herders range the rougher slopes; and miners and prospectors work marginal claims in the hills.
 
-The largest settlements lie near the marshy upper [[Aursen]], where the river slows and meanders across the plateau before spilling off the escarpment in a series of large waterfalls. The [[Aursen Marshes]] are a cultural and agricultural heartland: lizardfolk communities have lived there for generations, and the farms on the marsh edges feed much of the plateau.
+The largest settlements lie near the marshy upper [[Aursen]], where the river slows and meanders across the plateau before spilling off the escarpment in a series of large waterfalls, and along the [[Maseau - Dunmar Road]], below the plateau. 
+
+IThe [[Aursen Marshes]] are a cultural and agricultural heartland: lizardfolk communities have lived there for generations, and the farms on the marsh edges feed much of the plateau.
 
 ## Climate
 
