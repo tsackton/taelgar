@@ -1,17 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags:
+  - session-note
 campaign: Into the Chasm
 sessionNumber: 5
 realWorldDate: 2026-01-15
 DR: 1730-01-29
 DR_end: 1730-01-29
-players: [Finnan, Jrain, Eolo, Ekko, Justas]
+players:
+  - Finnan
+  - Jrain
+  - Eolo
+  - Ekko
+  - Justas
 name: Descent Through the Broken Mechanism
 descTitle: The God Caller Below
 tagline: in which Eidrikas sends them under
 sessionKey: into-the-chasm-session-5
-template: into-the-chasm-template.md
+session-template: into-the-chasm-template.md
 ---
 # Descent Through the Broken Mechanism
 

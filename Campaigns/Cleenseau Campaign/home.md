@@ -1,9 +1,10 @@
 ---
-tags: [meta]
+tags:
+  - meta
 hide:
- - toc
- - navigation
-template: home.html
+  - toc
+  - navigation
+session-template: home.html
 ---
 This website is the campaign bible for the [[Cleenseau Campaign]], a D&D game set in the world of Taelgar, a magical shared world developed by my brother and I. 
 

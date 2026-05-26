@@ -1,18 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags:
+  - session-note
 campaign: Labyrinths of the Lost
 sessionNumber: 3
 realWorldDate: 2023-12-10
 DR: 1748-10-18
 DR_end: 1748-10-18
-players: [Acescale, Gaudin, Loria, Dilion]
+players:
+  - Acescale
+  - Gaudin
+  - Loria
+  - Dilion
 companions: []
 name: Labyrinths of the Lost - Session 3
 descTitle: Grimstone's Last Experiment
 tagline: in which Grimstone's lab falls
 sessionKey: labyrinths-of-the-lost-session-3
-template: lablost-template.md
+session-template: lablost-template.md
 ---
 # Labyrinths of the Lost - Session 3
 

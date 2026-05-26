@@ -1,17 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags:
+  - session-note
 campaign: Labyrinths of the Lost
 sessionNumber: 1
 realWorldDate: 2023-11-12
 DR: 1748-10-17
 DR_end: 1748-10-17
-players: [Acescale, Gaudin, Loria, Dilion]
+players:
+  - Acescale
+  - Gaudin
+  - Loria
+  - Dilion
 name: Labyrinths of the Lost - Session 1
 descTitle: The Smithy Escape
 tagline: in which captives turn on their goblin guards
 sessionKey: labyrinths-of-the-lost-session-1
-template: lablost-template.md
+session-template: lablost-template.md
 ---
 # Labyrinths of the Lost - Session 1
 

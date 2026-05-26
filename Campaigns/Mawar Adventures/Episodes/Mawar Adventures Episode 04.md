@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags:
+  - session-note
 campaign: Mawar Adventures
 sessionNumber: 4
 realWorldDate: 2021-12-27
 DR: 1747-11-08
 DR_end: 1747-11-09
-players: [Ryu, Nerissa, Ander]
+players:
+  - Ryu
+  - Nerissa
+  - Ander
 name: Mawar Adventures Episode 04
 descTitle: The Chained Beast
 tagline: In which Ander, Nerissa, and Ryu battle to save a captive dragon turtle.
 sessionKey: mawar-adventures-session-4
-template: mawar-template.md
+session-template: mawar-template.md
 ---
 # Mawar Adventures Episode 04
 

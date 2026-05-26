@@ -1,17 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags:
+  - session-note
 campaign: Into the Chasm
 sessionNumber: 6
 realWorldDate: 2026-02-04
 DR: 1730-01-29
 DR_end: 1730-01-29
-players: [Finnan, Jrain, Eolo, Ekko, Justas]
+players:
+  - Finnan
+  - Jrain
+  - Eolo
+  - Ekko
+  - Justas
 name: The Rescue of Melusa
 descTitle: The Portal Narrows
 tagline: in which the willing escape Melusa
 sessionKey: into-the-chasm-session-6
-template: into-the-chasm-template.md
+session-template: into-the-chasm-template.md
 ---
 # The Rescue of Melusa
 

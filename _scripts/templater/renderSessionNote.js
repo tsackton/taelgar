@@ -3,6 +3,7 @@ const COMPONENT_FILENAMES = [
     "02-technical-updates.md",
     "03-narrative.md",
 ];
+const SESSION_TEMPLATE_FRONTMATTER_KEY = "session-template";
 
 function splitFrontmatter(text) {
     const lines = text.split(/\r?\n/);
@@ -163,10 +164,10 @@ function buildComponentDirName(sessionNoteConfig, sessionManifestPath) {
     return String(sessionNoteConfig.sessionKey ?? "").trim();
 }
 
-function resolveTemplatePath(templateValue) {
-    const template = String(templateValue ?? "").trim();
+function resolveTemplatePath(sessionTemplateValue) {
+    const template = String(sessionTemplateValue ?? "").trim();
     if (!template) {
-        throw new Error("Current note frontmatter must include template.");
+        throw new Error("Current note frontmatter must include session-template.");
     }
     if (template.includes("/") || template.includes("\\")) {
         return normalizeVaultPath(template);
@@ -447,7 +448,7 @@ async function renderSessionNote(tp) {
 
         const currentText = await app.vault.adapter.read(currentFile.path);
         const currentParts = splitFrontmatter(currentText);
-        const templatePath = resolveTemplatePath(frontmatter.template);
+        const templatePath = resolveTemplatePath(frontmatter[SESSION_TEMPLATE_FRONTMATTER_KEY]);
         const generatedRoot = inferGeneratedRootFromNotePath(currentFile.path);
         const componentDir = joinVaultPaths(generatedRoot, buildComponentDirName(frontmatter));
         const slots = {};
