@@ -60,7 +60,7 @@ Under [[Riswynn]]’s attunement, her aura remains unchanged, reassuring the par
 
 ---
 
-Preparations turn to Apollyon’s tomb. Seeker uses _Clairvoyance_ to scout its interior, describing a massive statue of [[Apollyon]], rows of dark pillars, and an altar in an unfinished space adorned with murals and statues. The red mist surrounding the tomb’s base, remembered as a remnant of Cha'mutte’s plague, does not enter the structure. Wellby receives a message from [[Sura]] detailing an unexpected truce: General Cusico has called for an end to hostilities in the [[Chardon-Dunmari War]] though a rogue contingent of soldiers and wizards may still pose a threat.
+Preparations turn to Apollyon’s tomb. Seeker uses _Clairvoyance_ to scout its interior, describing a massive statue of [[Apollyon]], rows of dark pillars, and an altar in an unfinished space adorned with murals and statues. The red mist surrounding the tomb’s base, remembered as a remnant of Cha'mutte’s plague, does not enter the structure. Wellby receives a message from [[Sura]] detailing an unexpected truce: General Cusico has called for an end to hostilities in the [[Chardon-Dunmar War]] though a rogue contingent of soldiers and wizards may still pose a threat.
 
 The party rests, preparing to enter the tomb the following morning.
 
@@ -123,7 +123,7 @@ Blinded by Wellby’s second arrow, Apollyon transforms into mist, retreating th
 - The party discusses the challenges of entering Apollyon’s tomb, particularly the red mist surrounding the structure.
 - Seeker uses *Clairvoyance* to view the interior of the temple, noting a massive statue of Apollyon, rows of dark pillars, and an altar. The space appears unfinished, with murals and statues in various stages of completion.
 - The red mist does not enter the temple but pools near the base of its steps. It is remembered as a deadly phenomenon tied to Cha'mutte’s magical plague.
-- Wellby receives a message from Sura detailing an unexpected truce: General [[Marius Cusico]] has called for an end to hostilities in the [[Chardon-Dunmari War]]. A small contingent of wizards and soldiers refuse to comply, creating potential trouble.
+- Wellby receives a message from Sura detailing an unexpected truce: General [[Marius Cusico]] has called for an end to hostilities in the [[Chardon-Dunmar War]]. A small contingent of wizards and soldiers refuse to comply, creating potential trouble.
 - The party rests for the night, preparing to enter Apollyon's tomb the next morning.
 
 
@@ -178,7 +178,7 @@ Under [[Riswynn]]’s attunement, her aura remains unchanged, reassuring the par
 
 ---
 
-Preparations turn to Apollyon’s tomb. Seeker uses _Clairvoyance_ to scout its interior, describing a massive statue of [[Apollyon]], rows of dark pillars, and an altar in an unfinished space adorned with murals and statues. The red mist surrounding the tomb’s base, remembered as a remnant of Cha'mutte’s plague, does not enter the structure. Wellby receives a message from [[Sura]] detailing an unexpected truce: General Cusico has called for an end to hostilities in the [[Chardon-Dunmari War]] though a rogue contingent of soldiers and wizards may still pose a threat.
+Preparations turn to Apollyon’s tomb. Seeker uses _Clairvoyance_ to scout its interior, describing a massive statue of [[Apollyon]], rows of dark pillars, and an altar in an unfinished space adorned with murals and statues. The red mist surrounding the tomb’s base, remembered as a remnant of Cha'mutte’s plague, does not enter the structure. Wellby receives a message from [[Sura]] detailing an unexpected truce: General Cusico has called for an end to hostilities in the [[Chardon-Dunmar War]] though a rogue contingent of soldiers and wizards may still pose a threat.
 
 The party rests, preparing to enter the tomb the following morning.
 
