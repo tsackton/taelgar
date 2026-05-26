@@ -43,9 +43,21 @@ class DateManager {
         }
     }
 
+    #getPageDateSource(metadata) {
+        const frontmatter = metadata?.file?.frontmatter
+        if (!frontmatter) return metadata ?? {}
+
+        const pageDateKeys = ["born", "died", "created", "destroyed", "DR", "DR_end", "pageTargetDate"]
+        const hasPageDateFrontmatter = pageDateKeys.some(key => Object.prototype.hasOwnProperty.call(frontmatter, key))
+
+        return hasPageDateFrontmatter ? frontmatter : (metadata ?? frontmatter)
+    }
+
     getPageDates(metadata, targetDate) {
 
-        if (!targetDate) targetDate = this.getTargetDateForPage(metadata)
+        let dateMetadata = this.#getPageDateSource(metadata)
+
+        if (!targetDate) targetDate = this.getTargetDateForPage(dateMetadata)
 
         let status = {
             startDate: undefined,
@@ -56,7 +68,7 @@ class DateManager {
         }
 
         let useDR = true;
-        if ("born" in metadata || "died" in metadata || "created" in metadata || "destroyed" in metadata) {
+        if ("born" in dateMetadata || "died" in dateMetadata || "created" in dateMetadata || "destroyed" in dateMetadata) {
             useDR = false;
         }
 
@@ -64,30 +76,30 @@ class DateManager {
         let pageType = "unknown";
         try {
             const { NameManager } = customJS;
-            pageType = NameManager.getPageType(metadata) ?? "unknown";
+            pageType = NameManager.getPageType(dateMetadata) ?? "unknown";
         } catch (e) {
             // If NameManager isn't available in this context, fall back to generic behavior
         }
 
-        if (metadata.born) {
-            status.startDate = this.normalizeDate(metadata.born, false);
-        } else if (metadata.created) {
-            status.startDate = this.normalizeDate(metadata.created, false);
-        } else if (metadata.DR && useDR) {
-            status.startDate = this.normalizeDate(metadata.DR, false);
+        if (dateMetadata.born) {
+            status.startDate = this.normalizeDate(dateMetadata.born, false);
+        } else if (dateMetadata.created) {
+            status.startDate = this.normalizeDate(dateMetadata.created, false);
+        } else if (dateMetadata.DR && useDR) {
+            status.startDate = this.normalizeDate(dateMetadata.DR, false);
         }
 
-        if (metadata.died) {
-            status.endDate = this.normalizeDate(metadata.died, true);
-        } else if (metadata.destroyed) {
-            status.endDate = this.normalizeDate(metadata.destroyed, true);
-        } else if ("DR_end" in metadata && useDR) {
+        if (dateMetadata.died) {
+            status.endDate = this.normalizeDate(dateMetadata.died, true);
+        } else if (dateMetadata.destroyed) {
+            status.endDate = this.normalizeDate(dateMetadata.destroyed, true);
+        } else if ("DR_end" in dateMetadata && useDR) {
             // this is to allow a blank DR_end to mean "unknown"
-            if (metadata.DR_end) status.endDate = this.normalizeDate(metadata.DR_end, true);
-        } else if (metadata.DR && useDR && pageType == "event") {
+            if (dateMetadata.DR_end) status.endDate = this.normalizeDate(dateMetadata.DR_end, true);
+        } else if (dateMetadata.DR && useDR && pageType == "event") {
             // Only treat a lone DR as an end date for event-type pages.
             // For people/places/groups, a single DR should not imply the page has ended.
-            status.endDate = this.normalizeDate(metadata.DR, true);
+            status.endDate = this.normalizeDate(dateMetadata.DR, true);
         }
 
         this.setPageDateProperties(status, targetDate)
@@ -97,12 +109,14 @@ class DateManager {
 
 
     getTargetDateForPage(metadata) {
+        let dateMetadata = this.#getPageDateSource(metadata)
+
         if (customJS.state.overrideDate) {
             return this.normalizeDate(customJS.state.overrideDate, false);
         }
 
-        if (metadata && metadata.pageTargetDate) {
-            return this.normalizeDate(metadata.pageTargetDate, false);
+        if (dateMetadata && dateMetadata.pageTargetDate) {
+            return this.normalizeDate(dateMetadata.pageTargetDate, false);
         }
 
         if (window.FantasyCalendarAPI == undefined || window.FantasyCalendarAPI.getCalendars().length == 0) {

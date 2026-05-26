@@ -475,11 +475,12 @@ class OutputHandler {
         const { TokenParser } = customJS
         const { NameManager } = customJS
 
+        let frontmatter = metadata?.file?.frontmatter ?? metadata ?? {}
         let dateInfo = DateManager.getPageDates(metadata)
-        let pageDisplayData = NameManager.getDisplayData(metadata)
-        let pageType = NameManager.getPageType(metadata)
-        let hasCustomPastHasStart = Object.prototype.hasOwnProperty.call(metadata.displayDefaults ?? {}, "dPastHasStart")
-        let hasExplicitEndDate = Object.prototype.hasOwnProperty.call(metadata, "DR_end") && metadata.DR_end
+        let pageDisplayData = NameManager.getDisplayData(frontmatter)
+        let pageType = NameManager.getPageType(frontmatter)
+        let hasCustomPastHasStart = Object.prototype.hasOwnProperty.call(frontmatter.displayDefaults ?? {}, "dPastHasStart")
+        let hasExplicitEndDate = Object.prototype.hasOwnProperty.call(frontmatter, "DR_end") && frontmatter.DR_end
         let formatStr = ""
 
         if (!dateInfo.isCreated) return "**(page is future dated)**"
