@@ -4,7 +4,6 @@ FROM #status/recap-review
 SORT join(split(file.path, "/", 2), "/")
 ```
 
-
 After reviewing a session recap, you can regenerate the session material with:
 ```
  python _scripts/build_session_note_components.py --overwrite -c <campaign> -n <sessionNumber>
