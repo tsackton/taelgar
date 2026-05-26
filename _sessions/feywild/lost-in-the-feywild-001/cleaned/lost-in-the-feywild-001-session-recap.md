@@ -6,10 +6,10 @@ tags: [status/recap-review]
 
 ## Session Header
 
-- Title: Lost in the Feywild 1
-- Desc Title: The Door in the Roots
-- Tagline: in which a promise closes behind them
-- One-Sentence Summary: The party follows Alden to Dandelion House, accepts Lord Holda's bargain to end a mysterious treaty beyond a hidden door, and is sealed inside a root tunnel before realizing the contract's age and language do not match.
+- Title: Lost in the Feywild - Ep 1
+- Desc Title: Welcome to Dandelion House
+- Tagline: in which the party enters a mysterious tunnel
+- One-Sentence Summary: The party follows Alden to Dandelion House, where they accept Lord Holda's deal to end a mysterious treaty with an entity beyond a hidden door in exchange for promises of wealth and treasure, but find themselves sealed in a strange passage.
 - Campaign: Lost in the Feywild
 - Scope: session
 - Session Number: 1
