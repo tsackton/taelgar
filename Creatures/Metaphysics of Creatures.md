@@ -57,7 +57,7 @@ Species can be further divided based their metaphysics, into three broad categor
 #### Gifted Soulstuff
 Most common playable species of Taelgar are gifted soulstuff by a Deity. This category includes humans, elves, dwarves, lizardfolk, stoneborn, halflings, and orcs. Standard in-world knowledge about cosmology and the metaphysics of souls is typically reported from the perspective of these species, and may reflect a biased or limited understanding of reality. 
 
- [[Humans]], who are created directly by the Divine Presence, native to the Material Plane, and gifted soulstuff upon birth which returns to divine realms beyond the [[Land of the Dead]] upon death. 
+[[Humans]], who are created directly by the Divine Presence, native to the Material Plane, and gifted soulstuff upon birth which returns to divine realms beyond the [[Land of the Dead]] upon death. 
 
 [[Dwarves]], [[Elves]], [[Stoneborn]], [[Halflings]], and [[Lizardfolk]] are referred to as the Elder Folk, and are all created by embodied gods often referred to as the firstborn of their species. These species, like humans, are gifted soulstuff upon birth which returns to the realms of their embodied creators beyond the [[Land of the Dead]] upon death. 
 

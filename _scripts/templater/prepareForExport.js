@@ -23,9 +23,14 @@ function surroundWithCalloutBlock(input) {
     return " " + tmp.join("\n> ");
 }
 
-function isInUnderscoreTopLevelDirectory(file) {
+function getTopLevelDirectory(file) {
     const parts = String(file?.path ?? "").split("/");
-    return parts.length > 1 && parts[0].startsWith("_");
+    return parts.length > 1 ? parts[0] : "";
+}
+
+function shouldSkipForExport(file) {
+    const topLevelDirectory = getTopLevelDirectory(file);
+    return topLevelDirectory.startsWith("_") || topLevelDirectory === "Worldbuilding";
 }
 
 async function prepareForExport(tp, headerType) {
@@ -65,7 +70,8 @@ async function prepareForExport(tp, headerType) {
     }
 
 
-    const files = app.vault.getMarkdownFiles().filter((file) => !isInUnderscoreTopLevelDirectory(file))
+    const files = app.vault.getMarkdownFiles().filter((file) => !shouldSkipForExport(file))
+    const totalFiles = files.length
     let processed = 0
     let errors = 0
 
@@ -119,7 +125,7 @@ async function prepareForExport(tp, headerType) {
             });
         }
 
-        notice.setMessage("Making headers static\nProcessing file " + (files[i].name.padEnd(100, " ")) + "\n\n" + processed + " of " + files.length + "\n\nErrors: " + errors)
+        notice.setMessage("Making headers static\nProcessing file " + (files[i].name.padEnd(100, " ")) + "\n\nFiles checked: " + (i + 1) + " of " + totalFiles + "\nHeaders updated: " + processed + "\n\nErrors: " + errors)
     }
 
     notice.hide()
@@ -175,7 +181,7 @@ async function prepareForExport(tp, headerType) {
             }
 
             processed++
-            notice.setMessage("Making DataView queries static\nProcessing file " + (files[i].name.padEnd(100, " ")) + "\n\n" + processed + " of " + files.length + "\n\nErrors: " + errors)
+            notice.setMessage("Making DataView queries static\nProcessing file " + (files[i].name.padEnd(100, " ")) + "\n\nFiles checked: " + processed + " of " + totalFiles + "\n\nErrors: " + errors)
         }
         notice.hide()
     }
@@ -188,3 +194,6 @@ async function prepareForExport(tp, headerType) {
     tp.user.shutdownApp()
 }
 module.exports = prepareForExport;
+module.exports._test = {
+    shouldSkipForExport,
+};
