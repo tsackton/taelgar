@@ -28,4 +28,3 @@ A year or two ago, everything changed. Exploring several days upriver from Tolle
 The experience shook him. In gratitude, he promised to help these travelers however he could, and ended up agreeing to travel with them for the next three months. Three months turned to six, which turned to a year, as he realized he liked these people, and had found in this group of misfits and outcasts a community that had been missing all his life. He decided to move to Tollen and join this group, even though he disliked the noise and crowds of the city. 
 
 This was not a popular decision with his village: the elders and his ancestors did not think it right for him to devote his talents to these strangers and not his own people. His parting was difficult, and some harsh words were said he sometimes regrets. But for now, he continues, searching for something to give his life direction and purpose. 
-

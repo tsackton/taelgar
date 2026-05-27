@@ -1,3 +1,9 @@
+---
+tags: [status/recap-review]
+---
+
+%% clean up short and intermediate narrations, double check beat breaks, double check timeline %%
+
 # Session Recap
 
 ## Session Header
