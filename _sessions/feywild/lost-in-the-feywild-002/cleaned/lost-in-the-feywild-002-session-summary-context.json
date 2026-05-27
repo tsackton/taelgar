@@ -1,0 +1,1959 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-beat-facts.json",
+  "session": {
+    "campaign": "Lost in the Feywild",
+    "scope": "session",
+    "sessionNumber": 2,
+    "realWorldDate": "2026-05-26",
+    "drStart": "1740-10-05",
+    "drEnd": "1740-10-05"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1740-10-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "B01",
+        "B02",
+        "B03",
+        "B04",
+        "B05",
+        "B06",
+        "B07",
+        "B08"
+      ],
+      "locationRefs": [
+        "Dandelion House",
+        "Twilight Kingdom",
+        "ruined root house",
+        "Lord Endless Ending's manor"
+      ],
+      "npcRefs": [
+        "unnamed dead wizard",
+        "unnamed dead travelers",
+        "Lord Endless Ending",
+        "road guards",
+        "string musicians",
+        "Pandel",
+        "unnamed halfling companion",
+        "Rakshasa",
+        "unnamed sleeping human",
+        "unnamed human"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "bone-like root material",
+        "green-feathered arrows",
+        "wizard's spell components",
+        "mouse skull",
+        "eastern screech owl familiar",
+        "unusual string instruments",
+        "Cato's flask",
+        "Tarek's museum keys",
+        "grandfather clock"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party crawls through the root tunnel, loses contact with Holda, and emerges into the Feywild at twilight.",
+        "The party follows the road toward the lit manor and finds mutilated human bodies along the way.",
+        "The party steadies itself, asks for omens, and scouts the manor before approaching the gate together.",
+        "At the gate, doglike road guards question the party and accept dream-stories as the price of entry.",
+        "Inside the grounds, the party experiences the repeating end of the celebration and begins cautious social approaches.",
+        "Txarro, Cato, and Edric question two drunken halflings who appear to be centuries out of time.",
+        "Ayveen, Edric, and Tarek trade keys to a Rakshasa for the story of Lord Revel becoming Lord Endless Ending.",
+        "The party connects Holda's mission to the naming bargain before Lord Endless Ending sends another human away and beckons Edric."
+      ],
+      "sourceLongSummaries": [
+        "After a recap of Holda's contract and the door beneath Dandelion House, the party opens in the narrow root tunnel after Holda has closed the way behind them. Ayveen tries to message Holda to reopen the door and gets no response, Cato and the others debate what they can still trust, and the tunnel changes from wood to coral- or bone-like material. Tarek compares it to a piece he picked up, the group reaches a mirrored chamber and climbs out through a ruined root house, realizing they have crossed into an otherworldly twilight landscape with distant estates and a road ahead.",
+        "Leaving the ruined root house behind, the party sees a lit celebration at a manor a few miles down the only visible road through a strange countryside of hedgerows, distant lights, and unfamiliar stars. As they debate Holda's honesty and continue toward the manor, Txarro spots a dead human with green-feathered arrows in the back and a head smashed by a maul-like force after death. The group examines tracks, pockets, and spell components, then continues past a burned pyre with human bones and another stripped corpse, recognizing that the road is dangerous but still their clearest path forward.",
+        "The bodies sour the party's mood, and Cato turns unusually earnest in asking Edric for Night Queen prayers and the Wanderer's help finding a path out. As they approach the manor along a high hedgerow, Txarro casts Augury on whether to approach, introduce themselves, and ask the Lord about the treaty; the answer is both weal and woe. The group considers sending Tarek under invisibility, but Txarro instead summons an eastern screech owl to scout the grounds, spotting the silver gate, casual guards, guests, musicians, rowboat departures, and a tall masked figure at the house who sees the owl before stepping back inside.",
+        "The party reaches the silver gate as the doglike road guards notice them and greet them in heavily accented Common as mortals. Through questioning, the guards say they belong to the road rather than the party, that the bodies came from farther up the road, that the Twilight Kingdom has a dozen dozen houses, and that they keep the road safe from travelers carrying a mysterious bad smell. They explain that the Lord told them to let in any mortal who wanted entrance, ask whether the party brought gifts, and settle for stories of dreams from Txarro, Edric, and Cato before gesturing the party through the gate.",
+        "After stepping through the gate, the party sees a sloping lawn, open doors, dimming lanterns, empty glasses, rowboat farewells, and musicians caught in the feeling of a party that is ending but never quite over. Edric tests the boundary by walking back out to the road and returning, confirming the guards do not stop people from leaving. The group agrees to keep one another in sight while splitting into small approaches: Txarro heads toward two halflings, while Cato and Ayveen approach the tired string musicians, who politely refuse Cato's offer to relieve them because the Lord was clear and they still have one more piece to play.",
+        "Txarro approaches two half-drunk halflings arguing cheerfully on the lawn, and they are amazed to meet a lizardfolk from Taelgar. They say they are from near Chardon, talk as if Chardon is still on the edge of an empire, misunderstand references to Sembara, Tollen, and the Great War, and insist they arrived that morning by giant rabbit and liberated boat. Cato joins, uses a flask to coax names and more details, and the halflings reveal that the Lord of the Manor gives brain teasers, is serious and sad, respects or fears his neighbors, and should not be hugged; Txarro concludes they may have been at the party for hundreds of years and leads them toward wine while looking for another mortal.",
+        "Inside the manor, Ayveen and Edric find a sleeping human and then a sober tiger-headed guest on the back porch who invites them to sit and trade stories. The Rakshasa first asks for a month and a day in Ayveen's home, then accepts three of Tarek's museum keys instead. In return, he explains that he came to the Twilight Kingdom looking for lost things and pieced together the party's story: the neighbors wanted Lord Revel to send mortal guests to their house, failed with gifts and stories, and finally had a wizard challenge him to a naming contest, renaming the estate as a party ending and transforming Lord Revel Beginning into Lord Endless Ending.",
+        "Ayveen asks the Rakshasa whether he needs to leave before the grandfather clock chimes again, and he says he has time because other mortals remain at the party. After the party explains that Holda sent them, the Rakshasa advises that shouting does not work and hears Ayveen's theory that the wizard's naming created the truce or bargain Holda wants broken. He confirms it is the only bargain he knows of and suggests Lord Endless Ending may be receptive to ending it; Edric reads the Rakshasa as truthful but self-interested rather than friendly. When Edric searches for another human, the clock strikes zero, Lord Endless Ending whispers to a human who hurries out, then locks eyes with Edric and gestures him closer as Txarro sends his owl after the departing human."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "B01",
+          "title": "Through The Root",
+          "boundaryReason": "The session opens with setup and recap, then follows the party through the bone-like root tunnel, out into the Feywild, and through their first reactions and character-state descriptions; the next beat begins when they leave the ruined house and start down the road.",
+          "dateStart": "1740-10-05",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0313"
+          },
+          "shortSummary": "The party crawls through the root tunnel, loses contact with Holda, and emerges into the Feywild at twilight.",
+          "longSummary": "After a recap of Holda's contract and the door beneath Dandelion House, the party opens in the narrow root tunnel after Holda has closed the way behind them. Ayveen tries to message Holda to reopen the door and gets no response, Cato and the others debate what they can still trust, and the tunnel changes from wood to coral- or bone-like material. Tarek compares it to a piece he picked up, the group reaches a mirrored chamber and climbs out through a ruined root house, realizing they have crossed into an otherworldly twilight landscape with distant estates and a road ahead.",
+          "locationHints": {
+            "refs": [
+              "Dandelion House",
+              "Twilight Kingdom"
+            ],
+            "context": "root tunnel from the subcellar to the ruined root house on the far side",
+            "notes": "The party moves from the tunnel beneath Dandelion House into the Feywild region later named the Twilight Kingdom."
+          },
+          "npcDetails": [
+            {
+              "name": "Lord Holda",
+              "role": "mentioned",
+              "context": "employer at Dandelion House",
+              "notes": "He hired the party, closed the door behind them, and does not respond to Ayveen's message."
+            },
+            {
+              "name": "Alden",
+              "role": "mentioned",
+              "context": "Holda's agent",
+              "notes": "The recap confirms Cato previously detected thoughts on Alden but not on Holda."
+            },
+            {
+              "name": "Lord Endless Ending",
+              "role": "mentioned",
+              "context": "master of the manor beyond the door",
+              "notes": "Holda described him only as the man or master of the house; his identity is clarified later in the session."
+            },
+            {
+              "name": "unnamed elven archivist",
+              "role": "mentioned",
+              "context": "source of the deed",
+              "notes": "The recap repeats that an elf calling himself an archivist gave Holda the deed to Dandelion House."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "ancient Sembaran contract",
+              "role": "mentioned",
+              "notes": "Tarek's earlier concern is restated: the 400-year-old contract was written in contemporary Sembaran."
+            },
+            {
+              "name": "glowing gold key",
+              "role": "mentioned",
+              "notes": "Alden used it in the recap to open the lower locked door beneath Dandelion House."
+            },
+            {
+              "name": "bone-like root material",
+              "role": "encountered",
+              "notes": "The tunnel and far chamber become coral- or bone-like, and Tarek compares the material to a loose piece he found."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Drankorian Empire",
+              "role": "mentioned",
+              "notes": "Dandelion House is recalled as a late Drankorian architectural work."
+            }
+          ]
+        },
+        {
+          "beatId": "B02",
+          "title": "Bodies On The Road",
+          "boundaryReason": "The party follows the road toward the lit manor, studies the strange landscape, finds the first mutilated body, investigates tracks and belongings, and then finds more bodies; the next beat starts with their reaction to the danger and decision to seek divine and scouting help before approaching.",
+          "dateStart": "1740-10-05",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0314",
+            "endUid": "u0652"
+          },
+          "shortSummary": "The party follows the road toward the lit manor and finds mutilated human bodies along the way.",
+          "longSummary": "Leaving the ruined root house behind, the party sees a lit celebration at a manor a few miles down the only visible road through a strange countryside of hedgerows, distant lights, and unfamiliar stars. As they debate Holda's honesty and continue toward the manor, Txarro spots a dead human with green-feathered arrows in the back and a head smashed by a maul-like force after death. The group examines tracks, pockets, and spell components, then continues past a burned pyre with human bones and another stripped corpse, recognizing that the road is dangerous but still their clearest path forward.",
+          "locationHints": {
+            "refs": [
+              "ruined root house",
+              "Twilight Kingdom"
+            ],
+            "context": "travel by road through twilight hills and hedgerows toward the lit manor",
+            "notes": "The party remains on the road that leads from the root-house exit toward the manor."
+          },
+          "npcDetails": [
+            {
+              "name": "unnamed dead wizard",
+              "role": "encountered",
+              "context": "first body beside the road",
+              "notes": "The human-sized corpse carries spell components, suggesting the dead traveler was probably a wizard."
+            },
+            {
+              "name": "unnamed dead travelers",
+              "role": "encountered",
+              "context": "additional bodies and burned bones along the road",
+              "notes": "The party finds a burned body or bodies and another arrow-shot corpse after the first discovery."
+            },
+            {
+              "name": "Lord Holda",
+              "role": "mentioned",
+              "context": "source of the road directions",
+              "notes": "The party questions whether he deceived them by closing the door after promising to keep watch."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "green-feathered arrows",
+              "role": "encountered",
+              "notes": "The first corpse was shot from behind with beautifully crafted arrows bearing bright, unfamiliar feather work."
+            },
+            {
+              "name": "wizard's spell components",
+              "role": "encountered",
+              "notes": "The corpse's pockets hold a writing kit, copper wire, a mouse skull, cotton fluff, and other components."
+            },
+            {
+              "name": "mouse skull",
+              "role": "encountered",
+              "notes": "Tarek keeps the mouse skull from the dead wizard's components."
+            }
+          ]
+        },
+        {
+          "beatId": "B03",
+          "title": "Weal, Woe, And Scouting",
+          "boundaryReason": "After the bodies sour the party's confidence, Cato turns to Edric's faith, Txarro casts Augury, and the group scouts the manor and party with an owl before deciding how to approach; the next beat begins as they come up to the gate and the guards notice them.",
+          "dateStart": "1740-10-05",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0653",
+            "endUid": "u0964"
+          },
+          "shortSummary": "The party steadies itself, asks for omens, and scouts the manor before approaching the gate together.",
+          "longSummary": "The bodies sour the party's mood, and Cato turns unusually earnest in asking Edric for Night Queen prayers and the Wanderer's help finding a path out. As they approach the manor along a high hedgerow, Txarro casts Augury on whether to approach, introduce themselves, and ask the Lord about the treaty; the answer is both weal and woe. The group considers sending Tarek under invisibility, but Txarro instead summons an eastern screech owl to scout the grounds, spotting the silver gate, casual guards, guests, musicians, rowboat departures, and a tall masked figure at the house who sees the owl before stepping back inside.",
+          "locationHints": {
+            "refs": [
+              "Twilight Kingdom"
+            ],
+            "context": "road and high hedgerow outside Lord Endless Ending's manor",
+            "notes": "The party stops short of the manor gate while scouting the grounds."
+          },
+          "npcDetails": [
+            {
+              "name": "Lord Endless Ending",
+              "role": "encountered",
+              "context": "tall masked figure seen through the owl's eyes",
+              "notes": "The owl sees him in a doorway; his identity is confirmed later."
+            },
+            {
+              "name": "road guards",
+              "role": "encountered",
+              "context": "guards at the silver gate",
+              "notes": "The owl sees two casual guards at the gate before the party reaches them."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "eastern screech owl familiar",
+              "role": "encountered",
+              "notes": "Txarro summons the owl to scout the manor grounds from above."
+            }
+          ]
+        },
+        {
+          "beatId": "B04",
+          "title": "Well Met, Mortals",
+          "boundaryReason": "The party reaches the open gate, glimpses the masked lord through the owl, questions the doglike road guards about the bodies, the Twilight Kingdom, and the party, then pays entry with stories of dreams; the next beat begins when the guards let them through into the grounds.",
+          "dateStart": "1740-10-05",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0965",
+            "endUid": "u1374"
+          },
+          "shortSummary": "At the gate, doglike road guards question the party and accept dream-stories as the price of entry.",
+          "longSummary": "The party reaches the silver gate as the doglike road guards notice them and greet them in heavily accented Common as mortals. Through questioning, the guards say they belong to the road rather than the party, that the bodies came from farther up the road, that the Twilight Kingdom has a dozen dozen houses, and that they keep the road safe from travelers carrying a mysterious bad smell. They explain that the Lord told them to let in any mortal who wanted entrance, ask whether the party brought gifts, and settle for stories of dreams from Txarro, Edric, and Cato before gesturing the party through the gate.",
+          "locationHints": {
+            "refs": [
+              "Twilight Kingdom"
+            ],
+            "context": "silver gate to Lord Endless Ending's manor",
+            "notes": "The party is still outside the manor grounds until the guards admit them at the end of the beat."
+          },
+          "npcDetails": [
+            {
+              "name": "road guards",
+              "role": "encountered",
+              "context": "doglike elderly gatekeepers",
+              "notes": "They sniff for the bad smell, answer questions about the road and Twilight Kingdom, and trade entry for dreams."
+            },
+            {
+              "name": "Lord Endless Ending",
+              "role": "mentioned",
+              "context": "Lord of the manor",
+              "notes": "The guards say he instructed them to admit any mortal who wanted entrance."
+            },
+            {
+              "name": "unnamed mortal guests",
+              "role": "mentioned",
+              "context": "other mortals at the party",
+              "notes": "The guards mention halflings, a dwarf, and other mortals who have come and gone."
+            }
+          ]
+        },
+        {
+          "beatId": "B05",
+          "title": "The Ending Party",
+          "boundaryReason": "The party enters the grounds, feels the looped not-quite-frozen ending of the celebration, tests that they can leave, and splits into small social approaches while Cato tries to engage the exhausted musicians; the next beat starts with Txarro and others speaking to the halflings.",
+          "dateStart": "1740-10-05",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u1375",
+            "endUid": "u1570"
+          },
+          "shortSummary": "Inside the grounds, the party experiences the repeating end of the celebration and begins cautious social approaches.",
+          "longSummary": "After stepping through the gate, the party sees a sloping lawn, open doors, dimming lanterns, empty glasses, rowboat farewells, and musicians caught in the feeling of a party that is ending but never quite over. Edric tests the boundary by walking back out to the road and returning, confirming the guards do not stop people from leaving. The group agrees to keep one another in sight while splitting into small approaches: Txarro heads toward two halflings, while Cato and Ayveen approach the tired string musicians, who politely refuse Cato's offer to relieve them because the Lord was clear and they still have one more piece to play.",
+          "locationHints": {
+            "refs": [
+              "Lord Endless Ending's manor"
+            ],
+            "context": "grounds, lawns, patios, and gate area during the ending party",
+            "notes": "The scene establishes the party's looping, unresolved ending."
+          },
+          "npcDetails": [
+            {
+              "name": "road guards",
+              "role": "encountered",
+              "context": "gatekeepers just outside the grounds",
+              "notes": "They confirm Edric can leave and re-enter freely."
+            },
+            {
+              "name": "string musicians",
+              "role": "encountered",
+              "context": "trio of tired professional players",
+              "notes": "They play beautifully but are exhausted and bound to perform one more piece."
+            },
+            {
+              "name": "Lord Endless Ending",
+              "role": "mentioned",
+              "context": "host of the party",
+              "notes": "The musicians cite his clear instruction as the reason Cato cannot take over."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "unusual string instruments",
+              "role": "encountered",
+              "notes": "The trio plays cello-, violin-, and viola-like instruments with more strings than expected."
+            }
+          ]
+        },
+        {
+          "beatId": "B06",
+          "title": "The Old Halflings",
+          "boundaryReason": "Txarro, Cato, and others question two drunken halflings, discover they are wildly out of time, learn they came from Chardon by rabbit and boat, and get their impressions of the Lord of the Manor before trying to lead them toward wine and other mortals; the next beat shifts to Ayveen and Edric finding the tiger-like guest.",
+          "dateStart": "1740-10-05",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u1571",
+            "endUid": "u1874"
+          },
+          "shortSummary": "Txarro, Cato, and Edric question two drunken halflings who appear to be centuries out of time.",
+          "longSummary": "Txarro approaches two half-drunk halflings arguing cheerfully on the lawn, and they are amazed to meet a lizardfolk from Taelgar. They say they are from near Chardon, talk as if Chardon is still on the edge of an empire, misunderstand references to Sembara, Tollen, and the Great War, and insist they arrived that morning by giant rabbit and liberated boat. Cato joins, uses a flask to coax names and more details, and the halflings reveal that the Lord of the Manor gives brain teasers, is serious and sad, respects or fears his neighbors, and should not be hugged; Txarro concludes they may have been at the party for hundreds of years and leads them toward wine while looking for another mortal.",
+          "locationHints": {
+            "refs": [
+              "Lord Endless Ending's manor"
+            ],
+            "context": "party lawn and route back toward the bar",
+            "notes": "The conversation starts near the lawn and ends with the halflings being guided toward wine."
+          },
+          "npcDetails": [
+            {
+              "name": "Pandel",
+              "role": "encountered",
+              "context": "drunken halfling guest",
+              "notes": "His name is uncertainly rendered in the transcript but Pandel is the clearest spoken form."
+            },
+            {
+              "name": "unnamed halfling companion",
+              "role": "encountered",
+              "context": "Pandel's drunken companion",
+              "notes": "The second name is not reliably established in the transcript."
+            },
+            {
+              "name": "Lord Endless Ending",
+              "role": "mentioned",
+              "context": "Lord of the Manor",
+              "notes": "The halflings describe him as serious, sad, fond of brain teasers, and respectful or afraid of his neighbors."
+            },
+            {
+              "name": "Rakshasa",
+              "role": "mentioned",
+              "context": "tiger-like guest near the wine",
+              "notes": "The halflings call him a tiger but say he is not actually a tiger."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Cato's flask",
+              "role": "encountered",
+              "notes": "Cato uses it to offer the halflings a small drink and keep the conversation moving."
+            },
+            {
+              "name": "liberated boat",
+              "role": "mentioned",
+              "notes": "The halflings claim they came to the party by a boat they liberated after riding a giant rabbit."
+            }
+          ]
+        },
+        {
+          "beatId": "B07",
+          "title": "The Tiger's Story",
+          "boundaryReason": "Ayveen and Edric find the sober tiger-like guest, negotiate for his knowledge with Tarek's keys, and hear his account of Lord Revel, the naming contest, and the transformation into Lord Endless Ending; the next beat begins when Ayveen turns the story toward the immediate question of leaving and the truce.",
+          "dateStart": "1740-10-05",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u1875",
+            "endUid": "u2163"
+          },
+          "shortSummary": "Ayveen, Edric, and Tarek trade keys to a Rakshasa for the story of Lord Revel becoming Lord Endless Ending.",
+          "longSummary": "Inside the manor, Ayveen and Edric find a sleeping human and then a sober tiger-headed guest on the back porch who invites them to sit and trade stories. The Rakshasa first asks for a month and a day in Ayveen's home, then accepts three of Tarek's museum keys instead. In return, he explains that he came to the Twilight Kingdom looking for lost things and pieced together the party's story: the neighbors wanted Lord Revel to send mortal guests to their house, failed with gifts and stories, and finally had a wizard challenge him to a naming contest, renaming the estate as a party ending and transforming Lord Revel Beginning into Lord Endless Ending.",
+          "locationHints": {
+            "refs": [
+              "Lord Endless Ending's manor"
+            ],
+            "context": "bar room and back porch",
+            "notes": "The beat follows Ayveen and Edric from the bar area to the Rakshasa's porch conversation."
+          },
+          "npcDetails": [
+            {
+              "name": "Rakshasa",
+              "role": "encountered",
+              "context": "tiger-headed mortal guest",
+              "notes": "He trades information for three of Tarek's keys and identifies himself indirectly through later table discussion."
+            },
+            {
+              "name": "Lord Revel",
+              "role": "mentioned",
+              "context": "former name of Lord Endless Ending",
+              "notes": "The Rakshasa says Lord Revel Beginning was transformed by the naming contest."
+            },
+            {
+              "name": "Lord Endless Ending",
+              "role": "mentioned",
+              "context": "current host of the ending party",
+              "notes": "The Rakshasa's story explains how Revel became Endless Ending."
+            },
+            {
+              "name": "unnamed wizard neighbor",
+              "role": "mentioned",
+              "context": "winner of the naming contest",
+              "notes": "The wizard named the estate as a party ending and imposed the bargain."
+            },
+            {
+              "name": "unnamed sleeping human",
+              "role": "encountered",
+              "context": "mortal guest sleeping behind a couch",
+              "notes": "Ayveen and Edric notice this human while looking for wine and other mortals."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Tarek's museum keys",
+              "role": "encountered",
+              "notes": "The Rakshasa selects three keys as payment for his story."
+            },
+            {
+              "name": "grandfather clock",
+              "role": "mentioned",
+              "notes": "The Rakshasa says the clock chimes from time to time before Lord Endless Ending sends another mortal down the road."
+            }
+          ]
+        },
+        {
+          "beatId": "B08",
+          "title": "The Truce Theory",
+          "boundaryReason": "The group connects the naming contest to Holda's mission, considers whether the Lord is bound by a truce he cannot break himself, learns another human may be moving through the house, and ends as Lord Endless Ending sends that human away and beckons Edric closer; the session closes on the party's working theory.",
+          "dateStart": "1740-10-05",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u2164",
+            "endUid": "u2384"
+          },
+          "shortSummary": "The party connects Holda's mission to the naming bargain before Lord Endless Ending sends another human away and beckons Edric.",
+          "longSummary": "Ayveen asks the Rakshasa whether he needs to leave before the grandfather clock chimes again, and he says he has time because other mortals remain at the party. After the party explains that Holda sent them, the Rakshasa advises that shouting does not work and hears Ayveen's theory that the wizard's naming created the truce or bargain Holda wants broken. He confirms it is the only bargain he knows of and suggests Lord Endless Ending may be receptive to ending it; Edric reads the Rakshasa as truthful but self-interested rather than friendly. When Edric searches for another human, the clock strikes zero, Lord Endless Ending whispers to a human who hurries out, then locks eyes with Edric and gestures him closer as Txarro sends his owl after the departing human.",
+          "locationHints": {
+            "refs": [
+              "Lord Endless Ending's manor"
+            ],
+            "context": "back porch, bar area, and ballroom",
+            "notes": "The beat begins with the Rakshasa conversation and ends across the ballroom as Lord Endless Ending appears."
+          },
+          "npcDetails": [
+            {
+              "name": "Rakshasa",
+              "role": "encountered",
+              "context": "tiger-headed guest and informant",
+              "notes": "He gives advice, comments on the bargain, and is judged truthful but self-interested."
+            },
+            {
+              "name": "Lord Endless Ending",
+              "role": "encountered",
+              "context": "Lord of the House",
+              "notes": "He whispers to a human after the clock strikes zero and then beckons Edric."
+            },
+            {
+              "name": "Lord Holda",
+              "role": "mentioned",
+              "context": "angry man who sent the party",
+              "notes": "The Rakshasa saw Holda's failed conversation with the Lord and says bullying a lord in his own manor was unlikely to work."
+            },
+            {
+              "name": "unnamed human",
+              "role": "encountered",
+              "context": "mortal guest sent out after the clock strikes zero",
+              "notes": "Lord Endless Ending whispers to this human, who then hurries out the door."
+            },
+            {
+              "name": "road guards",
+              "role": "mentioned",
+              "context": "keepers of the roads between houses",
+              "notes": "The Rakshasa says they guard what travels the roads, not the party guests."
+            },
+            {
+              "name": "Pandel and companion",
+              "role": "mentioned",
+              "context": "drunken halflings at the bar",
+              "notes": "They do not make it past the bar and can be heard clattering among the bottles."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "grandfather clock",
+              "role": "encountered",
+              "notes": "The clock strikes zero just before Lord Endless Ending sends the human away."
+            },
+            {
+              "name": "naming bargain",
+              "role": "mentioned",
+              "notes": "The party treats the wizard's naming contest bargain as the likely treaty or truce Holda wants broken."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Through The Root",
+      "beatIds": [
+        "B01"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0313"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0313"
+        }
+      ],
+      "dateStart": "1740-10-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Dandelion House",
+        "Twilight Kingdom"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "bone-like root material"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party crawls through the root tunnel, loses contact with Holda, and emerges into the Feywild at twilight."
+      ],
+      "sourceLongSummaries": [
+        "After a recap of Holda's contract and the door beneath Dandelion House, the party opens in the narrow root tunnel after Holda has closed the way behind them. Ayveen tries to message Holda to reopen the door and gets no response, Cato and the others debate what they can still trust, and the tunnel changes from wood to coral- or bone-like material. Tarek compares it to a piece he picked up, the group reaches a mirrored chamber and climbs out through a ruined root house, realizing they have crossed into an otherworldly twilight landscape with distant estates and a road ahead."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "B01",
+          "title": "Through The Root",
+          "boundaryReason": "The session opens with setup and recap, then follows the party through the bone-like root tunnel, out into the Feywild, and through their first reactions and character-state descriptions; the next beat begins when they leave the ruined house and start down the road.",
+          "dateStart": "1740-10-05",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0313"
+          },
+          "shortSummary": "The party crawls through the root tunnel, loses contact with Holda, and emerges into the Feywild at twilight.",
+          "longSummary": "After a recap of Holda's contract and the door beneath Dandelion House, the party opens in the narrow root tunnel after Holda has closed the way behind them. Ayveen tries to message Holda to reopen the door and gets no response, Cato and the others debate what they can still trust, and the tunnel changes from wood to coral- or bone-like material. Tarek compares it to a piece he picked up, the group reaches a mirrored chamber and climbs out through a ruined root house, realizing they have crossed into an otherworldly twilight landscape with distant estates and a road ahead.",
+          "locationHints": {
+            "refs": [
+              "Dandelion House",
+              "Twilight Kingdom"
+            ],
+            "context": "root tunnel from the subcellar to the ruined root house on the far side",
+            "notes": "The party moves from the tunnel beneath Dandelion House into the Feywild region later named the Twilight Kingdom."
+          },
+          "npcDetails": [
+            {
+              "name": "Lord Holda",
+              "role": "mentioned",
+              "context": "employer at Dandelion House",
+              "notes": "He hired the party, closed the door behind them, and does not respond to Ayveen's message."
+            },
+            {
+              "name": "Alden",
+              "role": "mentioned",
+              "context": "Holda's agent",
+              "notes": "The recap confirms Cato previously detected thoughts on Alden but not on Holda."
+            },
+            {
+              "name": "Lord Endless Ending",
+              "role": "mentioned",
+              "context": "master of the manor beyond the door",
+              "notes": "Holda described him only as the man or master of the house; his identity is clarified later in the session."
+            },
+            {
+              "name": "unnamed elven archivist",
+              "role": "mentioned",
+              "context": "source of the deed",
+              "notes": "The recap repeats that an elf calling himself an archivist gave Holda the deed to Dandelion House."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "ancient Sembaran contract",
+              "role": "mentioned",
+              "notes": "Tarek's earlier concern is restated: the 400-year-old contract was written in contemporary Sembaran."
+            },
+            {
+              "name": "glowing gold key",
+              "role": "mentioned",
+              "notes": "Alden used it in the recap to open the lower locked door beneath Dandelion House."
+            },
+            {
+              "name": "bone-like root material",
+              "role": "encountered",
+              "notes": "The tunnel and far chamber become coral- or bone-like, and Tarek compares the material to a loose piece he found."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Drankorian Empire",
+              "role": "mentioned",
+              "notes": "Dandelion House is recalled as a late Drankorian architectural work."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Bodies On The Road",
+      "beatIds": [
+        "B02"
+      ],
+      "sourceRange": {
+        "startUid": "u0314",
+        "endUid": "u0652"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0314",
+          "endUid": "u0652"
+        }
+      ],
+      "dateStart": "1740-10-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "ruined root house",
+        "Twilight Kingdom"
+      ],
+      "npcRefs": [
+        "unnamed dead wizard",
+        "unnamed dead travelers"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "green-feathered arrows",
+        "wizard's spell components",
+        "mouse skull"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party follows the road toward the lit manor and finds mutilated human bodies along the way."
+      ],
+      "sourceLongSummaries": [
+        "Leaving the ruined root house behind, the party sees a lit celebration at a manor a few miles down the only visible road through a strange countryside of hedgerows, distant lights, and unfamiliar stars. As they debate Holda's honesty and continue toward the manor, Txarro spots a dead human with green-feathered arrows in the back and a head smashed by a maul-like force after death. The group examines tracks, pockets, and spell components, then continues past a burned pyre with human bones and another stripped corpse, recognizing that the road is dangerous but still their clearest path forward."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "B02",
+          "title": "Bodies On The Road",
+          "boundaryReason": "The party follows the road toward the lit manor, studies the strange landscape, finds the first mutilated body, investigates tracks and belongings, and then finds more bodies; the next beat starts with their reaction to the danger and decision to seek divine and scouting help before approaching.",
+          "dateStart": "1740-10-05",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0314",
+            "endUid": "u0652"
+          },
+          "shortSummary": "The party follows the road toward the lit manor and finds mutilated human bodies along the way.",
+          "longSummary": "Leaving the ruined root house behind, the party sees a lit celebration at a manor a few miles down the only visible road through a strange countryside of hedgerows, distant lights, and unfamiliar stars. As they debate Holda's honesty and continue toward the manor, Txarro spots a dead human with green-feathered arrows in the back and a head smashed by a maul-like force after death. The group examines tracks, pockets, and spell components, then continues past a burned pyre with human bones and another stripped corpse, recognizing that the road is dangerous but still their clearest path forward.",
+          "locationHints": {
+            "refs": [
+              "ruined root house",
+              "Twilight Kingdom"
+            ],
+            "context": "travel by road through twilight hills and hedgerows toward the lit manor",
+            "notes": "The party remains on the road that leads from the root-house exit toward the manor."
+          },
+          "npcDetails": [
+            {
+              "name": "unnamed dead wizard",
+              "role": "encountered",
+              "context": "first body beside the road",
+              "notes": "The human-sized corpse carries spell components, suggesting the dead traveler was probably a wizard."
+            },
+            {
+              "name": "unnamed dead travelers",
+              "role": "encountered",
+              "context": "additional bodies and burned bones along the road",
+              "notes": "The party finds a burned body or bodies and another arrow-shot corpse after the first discovery."
+            },
+            {
+              "name": "Lord Holda",
+              "role": "mentioned",
+              "context": "source of the road directions",
+              "notes": "The party questions whether he deceived them by closing the door after promising to keep watch."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "green-feathered arrows",
+              "role": "encountered",
+              "notes": "The first corpse was shot from behind with beautifully crafted arrows bearing bright, unfamiliar feather work."
+            },
+            {
+              "name": "wizard's spell components",
+              "role": "encountered",
+              "notes": "The corpse's pockets hold a writing kit, copper wire, a mouse skull, cotton fluff, and other components."
+            },
+            {
+              "name": "mouse skull",
+              "role": "encountered",
+              "notes": "Tarek keeps the mouse skull from the dead wizard's components."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Weal, Woe, And Scouting",
+      "beatIds": [
+        "B03"
+      ],
+      "sourceRange": {
+        "startUid": "u0653",
+        "endUid": "u0964"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0653",
+          "endUid": "u0964"
+        }
+      ],
+      "dateStart": "1740-10-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Twilight Kingdom"
+      ],
+      "npcRefs": [
+        "Lord Endless Ending",
+        "road guards"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "eastern screech owl familiar"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party steadies itself, asks for omens, and scouts the manor before approaching the gate together."
+      ],
+      "sourceLongSummaries": [
+        "The bodies sour the party's mood, and Cato turns unusually earnest in asking Edric for Night Queen prayers and the Wanderer's help finding a path out. As they approach the manor along a high hedgerow, Txarro casts Augury on whether to approach, introduce themselves, and ask the Lord about the treaty; the answer is both weal and woe. The group considers sending Tarek under invisibility, but Txarro instead summons an eastern screech owl to scout the grounds, spotting the silver gate, casual guards, guests, musicians, rowboat departures, and a tall masked figure at the house who sees the owl before stepping back inside."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "B03",
+          "title": "Weal, Woe, And Scouting",
+          "boundaryReason": "After the bodies sour the party's confidence, Cato turns to Edric's faith, Txarro casts Augury, and the group scouts the manor and party with an owl before deciding how to approach; the next beat begins as they come up to the gate and the guards notice them.",
+          "dateStart": "1740-10-05",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0653",
+            "endUid": "u0964"
+          },
+          "shortSummary": "The party steadies itself, asks for omens, and scouts the manor before approaching the gate together.",
+          "longSummary": "The bodies sour the party's mood, and Cato turns unusually earnest in asking Edric for Night Queen prayers and the Wanderer's help finding a path out. As they approach the manor along a high hedgerow, Txarro casts Augury on whether to approach, introduce themselves, and ask the Lord about the treaty; the answer is both weal and woe. The group considers sending Tarek under invisibility, but Txarro instead summons an eastern screech owl to scout the grounds, spotting the silver gate, casual guards, guests, musicians, rowboat departures, and a tall masked figure at the house who sees the owl before stepping back inside.",
+          "locationHints": {
+            "refs": [
+              "Twilight Kingdom"
+            ],
+            "context": "road and high hedgerow outside Lord Endless Ending's manor",
+            "notes": "The party stops short of the manor gate while scouting the grounds."
+          },
+          "npcDetails": [
+            {
+              "name": "Lord Endless Ending",
+              "role": "encountered",
+              "context": "tall masked figure seen through the owl's eyes",
+              "notes": "The owl sees him in a doorway; his identity is confirmed later."
+            },
+            {
+              "name": "road guards",
+              "role": "encountered",
+              "context": "guards at the silver gate",
+              "notes": "The owl sees two casual guards at the gate before the party reaches them."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "eastern screech owl familiar",
+              "role": "encountered",
+              "notes": "Txarro summons the owl to scout the manor grounds from above."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Well Met, Mortals",
+      "beatIds": [
+        "B04"
+      ],
+      "sourceRange": {
+        "startUid": "u0965",
+        "endUid": "u1374"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0965",
+          "endUid": "u1374"
+        }
+      ],
+      "dateStart": "1740-10-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Twilight Kingdom"
+      ],
+      "npcRefs": [
+        "road guards"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "At the gate, doglike road guards question the party and accept dream-stories as the price of entry."
+      ],
+      "sourceLongSummaries": [
+        "The party reaches the silver gate as the doglike road guards notice them and greet them in heavily accented Common as mortals. Through questioning, the guards say they belong to the road rather than the party, that the bodies came from farther up the road, that the Twilight Kingdom has a dozen dozen houses, and that they keep the road safe from travelers carrying a mysterious bad smell. They explain that the Lord told them to let in any mortal who wanted entrance, ask whether the party brought gifts, and settle for stories of dreams from Txarro, Edric, and Cato before gesturing the party through the gate."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "B04",
+          "title": "Well Met, Mortals",
+          "boundaryReason": "The party reaches the open gate, glimpses the masked lord through the owl, questions the doglike road guards about the bodies, the Twilight Kingdom, and the party, then pays entry with stories of dreams; the next beat begins when the guards let them through into the grounds.",
+          "dateStart": "1740-10-05",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0965",
+            "endUid": "u1374"
+          },
+          "shortSummary": "At the gate, doglike road guards question the party and accept dream-stories as the price of entry.",
+          "longSummary": "The party reaches the silver gate as the doglike road guards notice them and greet them in heavily accented Common as mortals. Through questioning, the guards say they belong to the road rather than the party, that the bodies came from farther up the road, that the Twilight Kingdom has a dozen dozen houses, and that they keep the road safe from travelers carrying a mysterious bad smell. They explain that the Lord told them to let in any mortal who wanted entrance, ask whether the party brought gifts, and settle for stories of dreams from Txarro, Edric, and Cato before gesturing the party through the gate.",
+          "locationHints": {
+            "refs": [
+              "Twilight Kingdom"
+            ],
+            "context": "silver gate to Lord Endless Ending's manor",
+            "notes": "The party is still outside the manor grounds until the guards admit them at the end of the beat."
+          },
+          "npcDetails": [
+            {
+              "name": "road guards",
+              "role": "encountered",
+              "context": "doglike elderly gatekeepers",
+              "notes": "They sniff for the bad smell, answer questions about the road and Twilight Kingdom, and trade entry for dreams."
+            },
+            {
+              "name": "Lord Endless Ending",
+              "role": "mentioned",
+              "context": "Lord of the manor",
+              "notes": "The guards say he instructed them to admit any mortal who wanted entrance."
+            },
+            {
+              "name": "unnamed mortal guests",
+              "role": "mentioned",
+              "context": "other mortals at the party",
+              "notes": "The guards mention halflings, a dwarf, and other mortals who have come and gone."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "The Ending Party",
+      "beatIds": [
+        "B05"
+      ],
+      "sourceRange": {
+        "startUid": "u1375",
+        "endUid": "u1570"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1375",
+          "endUid": "u1570"
+        }
+      ],
+      "dateStart": "1740-10-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Lord Endless Ending's manor"
+      ],
+      "npcRefs": [
+        "road guards",
+        "string musicians"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "unusual string instruments"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Inside the grounds, the party experiences the repeating end of the celebration and begins cautious social approaches."
+      ],
+      "sourceLongSummaries": [
+        "After stepping through the gate, the party sees a sloping lawn, open doors, dimming lanterns, empty glasses, rowboat farewells, and musicians caught in the feeling of a party that is ending but never quite over. Edric tests the boundary by walking back out to the road and returning, confirming the guards do not stop people from leaving. The group agrees to keep one another in sight while splitting into small approaches: Txarro heads toward two halflings, while Cato and Ayveen approach the tired string musicians, who politely refuse Cato's offer to relieve them because the Lord was clear and they still have one more piece to play."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "B05",
+          "title": "The Ending Party",
+          "boundaryReason": "The party enters the grounds, feels the looped not-quite-frozen ending of the celebration, tests that they can leave, and splits into small social approaches while Cato tries to engage the exhausted musicians; the next beat starts with Txarro and others speaking to the halflings.",
+          "dateStart": "1740-10-05",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u1375",
+            "endUid": "u1570"
+          },
+          "shortSummary": "Inside the grounds, the party experiences the repeating end of the celebration and begins cautious social approaches.",
+          "longSummary": "After stepping through the gate, the party sees a sloping lawn, open doors, dimming lanterns, empty glasses, rowboat farewells, and musicians caught in the feeling of a party that is ending but never quite over. Edric tests the boundary by walking back out to the road and returning, confirming the guards do not stop people from leaving. The group agrees to keep one another in sight while splitting into small approaches: Txarro heads toward two halflings, while Cato and Ayveen approach the tired string musicians, who politely refuse Cato's offer to relieve them because the Lord was clear and they still have one more piece to play.",
+          "locationHints": {
+            "refs": [
+              "Lord Endless Ending's manor"
+            ],
+            "context": "grounds, lawns, patios, and gate area during the ending party",
+            "notes": "The scene establishes the party's looping, unresolved ending."
+          },
+          "npcDetails": [
+            {
+              "name": "road guards",
+              "role": "encountered",
+              "context": "gatekeepers just outside the grounds",
+              "notes": "They confirm Edric can leave and re-enter freely."
+            },
+            {
+              "name": "string musicians",
+              "role": "encountered",
+              "context": "trio of tired professional players",
+              "notes": "They play beautifully but are exhausted and bound to perform one more piece."
+            },
+            {
+              "name": "Lord Endless Ending",
+              "role": "mentioned",
+              "context": "host of the party",
+              "notes": "The musicians cite his clear instruction as the reason Cato cannot take over."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "unusual string instruments",
+              "role": "encountered",
+              "notes": "The trio plays cello-, violin-, and viola-like instruments with more strings than expected."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "beat",
+      "title": "The Old Halflings",
+      "beatIds": [
+        "B06"
+      ],
+      "sourceRange": {
+        "startUid": "u1571",
+        "endUid": "u1874"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1571",
+          "endUid": "u1874"
+        }
+      ],
+      "dateStart": "1740-10-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Lord Endless Ending's manor"
+      ],
+      "npcRefs": [
+        "Pandel",
+        "unnamed halfling companion"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Cato's flask"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Txarro, Cato, and Edric question two drunken halflings who appear to be centuries out of time."
+      ],
+      "sourceLongSummaries": [
+        "Txarro approaches two half-drunk halflings arguing cheerfully on the lawn, and they are amazed to meet a lizardfolk from Taelgar. They say they are from near Chardon, talk as if Chardon is still on the edge of an empire, misunderstand references to Sembara, Tollen, and the Great War, and insist they arrived that morning by giant rabbit and liberated boat. Cato joins, uses a flask to coax names and more details, and the halflings reveal that the Lord of the Manor gives brain teasers, is serious and sad, respects or fears his neighbors, and should not be hugged; Txarro concludes they may have been at the party for hundreds of years and leads them toward wine while looking for another mortal."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "B06",
+          "title": "The Old Halflings",
+          "boundaryReason": "Txarro, Cato, and others question two drunken halflings, discover they are wildly out of time, learn they came from Chardon by rabbit and boat, and get their impressions of the Lord of the Manor before trying to lead them toward wine and other mortals; the next beat shifts to Ayveen and Edric finding the tiger-like guest.",
+          "dateStart": "1740-10-05",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u1571",
+            "endUid": "u1874"
+          },
+          "shortSummary": "Txarro, Cato, and Edric question two drunken halflings who appear to be centuries out of time.",
+          "longSummary": "Txarro approaches two half-drunk halflings arguing cheerfully on the lawn, and they are amazed to meet a lizardfolk from Taelgar. They say they are from near Chardon, talk as if Chardon is still on the edge of an empire, misunderstand references to Sembara, Tollen, and the Great War, and insist they arrived that morning by giant rabbit and liberated boat. Cato joins, uses a flask to coax names and more details, and the halflings reveal that the Lord of the Manor gives brain teasers, is serious and sad, respects or fears his neighbors, and should not be hugged; Txarro concludes they may have been at the party for hundreds of years and leads them toward wine while looking for another mortal.",
+          "locationHints": {
+            "refs": [
+              "Lord Endless Ending's manor"
+            ],
+            "context": "party lawn and route back toward the bar",
+            "notes": "The conversation starts near the lawn and ends with the halflings being guided toward wine."
+          },
+          "npcDetails": [
+            {
+              "name": "Pandel",
+              "role": "encountered",
+              "context": "drunken halfling guest",
+              "notes": "His name is uncertainly rendered in the transcript but Pandel is the clearest spoken form."
+            },
+            {
+              "name": "unnamed halfling companion",
+              "role": "encountered",
+              "context": "Pandel's drunken companion",
+              "notes": "The second name is not reliably established in the transcript."
+            },
+            {
+              "name": "Lord Endless Ending",
+              "role": "mentioned",
+              "context": "Lord of the Manor",
+              "notes": "The halflings describe him as serious, sad, fond of brain teasers, and respectful or afraid of his neighbors."
+            },
+            {
+              "name": "Rakshasa",
+              "role": "mentioned",
+              "context": "tiger-like guest near the wine",
+              "notes": "The halflings call him a tiger but say he is not actually a tiger."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Cato's flask",
+              "role": "encountered",
+              "notes": "Cato uses it to offer the halflings a small drink and keep the conversation moving."
+            },
+            {
+              "name": "liberated boat",
+              "role": "mentioned",
+              "notes": "The halflings claim they came to the party by a boat they liberated after riding a giant rabbit."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-007",
+      "kind": "beat",
+      "title": "The Tiger's Story",
+      "beatIds": [
+        "B07"
+      ],
+      "sourceRange": {
+        "startUid": "u1875",
+        "endUid": "u2163"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1875",
+          "endUid": "u2163"
+        }
+      ],
+      "dateStart": "1740-10-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Lord Endless Ending's manor"
+      ],
+      "npcRefs": [
+        "Rakshasa",
+        "unnamed sleeping human"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Tarek's museum keys"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Ayveen, Edric, and Tarek trade keys to a Rakshasa for the story of Lord Revel becoming Lord Endless Ending."
+      ],
+      "sourceLongSummaries": [
+        "Inside the manor, Ayveen and Edric find a sleeping human and then a sober tiger-headed guest on the back porch who invites them to sit and trade stories. The Rakshasa first asks for a month and a day in Ayveen's home, then accepts three of Tarek's museum keys instead. In return, he explains that he came to the Twilight Kingdom looking for lost things and pieced together the party's story: the neighbors wanted Lord Revel to send mortal guests to their house, failed with gifts and stories, and finally had a wizard challenge him to a naming contest, renaming the estate as a party ending and transforming Lord Revel Beginning into Lord Endless Ending."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "B07",
+          "title": "The Tiger's Story",
+          "boundaryReason": "Ayveen and Edric find the sober tiger-like guest, negotiate for his knowledge with Tarek's keys, and hear his account of Lord Revel, the naming contest, and the transformation into Lord Endless Ending; the next beat begins when Ayveen turns the story toward the immediate question of leaving and the truce.",
+          "dateStart": "1740-10-05",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u1875",
+            "endUid": "u2163"
+          },
+          "shortSummary": "Ayveen, Edric, and Tarek trade keys to a Rakshasa for the story of Lord Revel becoming Lord Endless Ending.",
+          "longSummary": "Inside the manor, Ayveen and Edric find a sleeping human and then a sober tiger-headed guest on the back porch who invites them to sit and trade stories. The Rakshasa first asks for a month and a day in Ayveen's home, then accepts three of Tarek's museum keys instead. In return, he explains that he came to the Twilight Kingdom looking for lost things and pieced together the party's story: the neighbors wanted Lord Revel to send mortal guests to their house, failed with gifts and stories, and finally had a wizard challenge him to a naming contest, renaming the estate as a party ending and transforming Lord Revel Beginning into Lord Endless Ending.",
+          "locationHints": {
+            "refs": [
+              "Lord Endless Ending's manor"
+            ],
+            "context": "bar room and back porch",
+            "notes": "The beat follows Ayveen and Edric from the bar area to the Rakshasa's porch conversation."
+          },
+          "npcDetails": [
+            {
+              "name": "Rakshasa",
+              "role": "encountered",
+              "context": "tiger-headed mortal guest",
+              "notes": "He trades information for three of Tarek's keys and identifies himself indirectly through later table discussion."
+            },
+            {
+              "name": "Lord Revel",
+              "role": "mentioned",
+              "context": "former name of Lord Endless Ending",
+              "notes": "The Rakshasa says Lord Revel Beginning was transformed by the naming contest."
+            },
+            {
+              "name": "Lord Endless Ending",
+              "role": "mentioned",
+              "context": "current host of the ending party",
+              "notes": "The Rakshasa's story explains how Revel became Endless Ending."
+            },
+            {
+              "name": "unnamed wizard neighbor",
+              "role": "mentioned",
+              "context": "winner of the naming contest",
+              "notes": "The wizard named the estate as a party ending and imposed the bargain."
+            },
+            {
+              "name": "unnamed sleeping human",
+              "role": "encountered",
+              "context": "mortal guest sleeping behind a couch",
+              "notes": "Ayveen and Edric notice this human while looking for wine and other mortals."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Tarek's museum keys",
+              "role": "encountered",
+              "notes": "The Rakshasa selects three keys as payment for his story."
+            },
+            {
+              "name": "grandfather clock",
+              "role": "mentioned",
+              "notes": "The Rakshasa says the clock chimes from time to time before Lord Endless Ending sends another mortal down the road."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-008",
+      "kind": "beat",
+      "title": "The Truce Theory",
+      "beatIds": [
+        "B08"
+      ],
+      "sourceRange": {
+        "startUid": "u2164",
+        "endUid": "u2384"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2164",
+          "endUid": "u2384"
+        }
+      ],
+      "dateStart": "1740-10-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Lord Endless Ending's manor"
+      ],
+      "npcRefs": [
+        "Rakshasa",
+        "Lord Endless Ending",
+        "unnamed human"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "grandfather clock"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party connects Holda's mission to the naming bargain before Lord Endless Ending sends another human away and beckons Edric."
+      ],
+      "sourceLongSummaries": [
+        "Ayveen asks the Rakshasa whether he needs to leave before the grandfather clock chimes again, and he says he has time because other mortals remain at the party. After the party explains that Holda sent them, the Rakshasa advises that shouting does not work and hears Ayveen's theory that the wizard's naming created the truce or bargain Holda wants broken. He confirms it is the only bargain he knows of and suggests Lord Endless Ending may be receptive to ending it; Edric reads the Rakshasa as truthful but self-interested rather than friendly. When Edric searches for another human, the clock strikes zero, Lord Endless Ending whispers to a human who hurries out, then locks eyes with Edric and gestures him closer as Txarro sends his owl after the departing human."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "B08",
+          "title": "The Truce Theory",
+          "boundaryReason": "The group connects the naming contest to Holda's mission, considers whether the Lord is bound by a truce he cannot break himself, learns another human may be moving through the house, and ends as Lord Endless Ending sends that human away and beckons Edric closer; the session closes on the party's working theory.",
+          "dateStart": "1740-10-05",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u2164",
+            "endUid": "u2384"
+          },
+          "shortSummary": "The party connects Holda's mission to the naming bargain before Lord Endless Ending sends another human away and beckons Edric.",
+          "longSummary": "Ayveen asks the Rakshasa whether he needs to leave before the grandfather clock chimes again, and he says he has time because other mortals remain at the party. After the party explains that Holda sent them, the Rakshasa advises that shouting does not work and hears Ayveen's theory that the wizard's naming created the truce or bargain Holda wants broken. He confirms it is the only bargain he knows of and suggests Lord Endless Ending may be receptive to ending it; Edric reads the Rakshasa as truthful but self-interested rather than friendly. When Edric searches for another human, the clock strikes zero, Lord Endless Ending whispers to a human who hurries out, then locks eyes with Edric and gestures him closer as Txarro sends his owl after the departing human.",
+          "locationHints": {
+            "refs": [
+              "Lord Endless Ending's manor"
+            ],
+            "context": "back porch, bar area, and ballroom",
+            "notes": "The beat begins with the Rakshasa conversation and ends across the ballroom as Lord Endless Ending appears."
+          },
+          "npcDetails": [
+            {
+              "name": "Rakshasa",
+              "role": "encountered",
+              "context": "tiger-headed guest and informant",
+              "notes": "He gives advice, comments on the bargain, and is judged truthful but self-interested."
+            },
+            {
+              "name": "Lord Endless Ending",
+              "role": "encountered",
+              "context": "Lord of the House",
+              "notes": "He whispers to a human after the clock strikes zero and then beckons Edric."
+            },
+            {
+              "name": "Lord Holda",
+              "role": "mentioned",
+              "context": "angry man who sent the party",
+              "notes": "The Rakshasa saw Holda's failed conversation with the Lord and says bullying a lord in his own manor was unlikely to work."
+            },
+            {
+              "name": "unnamed human",
+              "role": "encountered",
+              "context": "mortal guest sent out after the clock strikes zero",
+              "notes": "Lord Endless Ending whispers to this human, who then hurries out the door."
+            },
+            {
+              "name": "road guards",
+              "role": "mentioned",
+              "context": "keepers of the roads between houses",
+              "notes": "The Rakshasa says they guard what travels the roads, not the party guests."
+            },
+            {
+              "name": "Pandel and companion",
+              "role": "mentioned",
+              "context": "drunken halflings at the bar",
+              "notes": "They do not make it past the bar and can be heard clattering among the bottles."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "grandfather clock",
+              "role": "encountered",
+              "notes": "The clock strikes zero just before Lord Endless Ending sends the human away."
+            },
+            {
+              "name": "naming bargain",
+              "role": "mentioned",
+              "notes": "The party treats the wizard's naming contest bargain as the likely treaty or truce Holda wants broken."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "unnamed dead wizard",
+        "beatIds": [
+          "B02"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "unnamed dead travelers",
+        "beatIds": [
+          "B02"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Lord Endless Ending",
+        "beatIds": [
+          "B03",
+          "B08"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "road guards",
+        "beatIds": [
+          "B03",
+          "B04",
+          "B05"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "string musicians",
+        "beatIds": [
+          "B05"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Pandel",
+        "beatIds": [
+          "B06"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "unnamed halfling companion",
+        "beatIds": [
+          "B06"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Rakshasa",
+        "beatIds": [
+          "B07",
+          "B08"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "unnamed sleeping human",
+        "beatIds": [
+          "B07"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "unnamed human",
+        "beatIds": [
+          "B08"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [],
+    "majorLocations": [
+      {
+        "name": "Dandelion House",
+        "beatIds": [
+          "B01"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Twilight Kingdom",
+        "beatIds": [
+          "B01",
+          "B02",
+          "B03",
+          "B04"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "ruined root house",
+        "beatIds": [
+          "B02"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Lord Endless Ending's manor",
+        "beatIds": [
+          "B05",
+          "B06",
+          "B07",
+          "B08"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "unnamed dead wizard",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "first body beside the road",
+          "beatIds": [
+            "B02"
+          ],
+          "history": [
+            {
+              "location": "ruined root house -> Twilight Kingdom",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "unnamed dead travelers",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "additional bodies and burned bones along the road",
+          "beatIds": [
+            "B02"
+          ],
+          "history": [
+            {
+              "location": "ruined root house -> Twilight Kingdom",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Lord Endless Ending",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "tall masked figure seen through the owl's eyes",
+          "beatIds": [
+            "B03",
+            "B08"
+          ],
+          "history": [
+            {
+              "location": "Twilight Kingdom",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            },
+            {
+              "location": "Lord Endless Ending's manor",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "road guards",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "guards at the silver gate",
+          "beatIds": [
+            "B03",
+            "B04",
+            "B05"
+          ],
+          "history": [
+            {
+              "location": "Twilight Kingdom",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            },
+            {
+              "location": "Lord Endless Ending's manor",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "string musicians",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "trio of tired professional players",
+          "beatIds": [
+            "B05"
+          ],
+          "history": [
+            {
+              "location": "Lord Endless Ending's manor",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Pandel",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "drunken halfling guest",
+          "beatIds": [
+            "B06"
+          ],
+          "history": [
+            {
+              "location": "Lord Endless Ending's manor",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "unnamed halfling companion",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "Pandel's drunken companion",
+          "beatIds": [
+            "B06"
+          ],
+          "history": [
+            {
+              "location": "Lord Endless Ending's manor",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Rakshasa",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "tiger-headed mortal guest",
+          "beatIds": [
+            "B07",
+            "B08"
+          ],
+          "history": [
+            {
+              "location": "Lord Endless Ending's manor",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "unnamed sleeping human",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "mortal guest sleeping behind a couch",
+          "beatIds": [
+            "B07"
+          ],
+          "history": [
+            {
+              "location": "Lord Endless Ending's manor",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "unnamed human",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "mortal guest sent out after the clock strikes zero",
+          "beatIds": [
+            "B08"
+          ],
+          "history": [
+            {
+              "location": "Lord Endless Ending's manor",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Dandelion House",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "root tunnel from the subcellar to the ruined root house on the far side",
+          "beatIds": [
+            "B01"
+          ],
+          "visits": [
+            {
+              "dateStart": "1740-10-05",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Twilight Kingdom",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "root tunnel from the subcellar to the ruined root house on the far side",
+          "beatIds": [
+            "B01",
+            "B02",
+            "B03",
+            "B04"
+          ],
+          "visits": [
+            {
+              "dateStart": "1740-10-05",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "ruined root house",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "travel by road through twilight hills and hedgerows toward the lit manor",
+          "beatIds": [
+            "B02"
+          ],
+          "visits": [
+            {
+              "dateStart": "1740-10-05",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Lord Endless Ending's manor",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "grounds, lawns, patios, and gate area during the ending party",
+          "beatIds": [
+            "B05",
+            "B06",
+            "B07",
+            "B08"
+          ],
+          "visits": [
+            {
+              "dateStart": "1740-10-05",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "bone-like root material",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "B01"
+          ],
+          "history": [
+            {
+              "location": "Dandelion House -> Twilight Kingdom",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "green-feathered arrows",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "B02"
+          ],
+          "history": [
+            {
+              "location": "ruined root house -> Twilight Kingdom",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "wizard's spell components",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "B02"
+          ],
+          "history": [
+            {
+              "location": "ruined root house -> Twilight Kingdom",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "mouse skull",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "B02"
+          ],
+          "history": [
+            {
+              "location": "ruined root house -> Twilight Kingdom",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "eastern screech owl familiar",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "B03"
+          ],
+          "history": [
+            {
+              "location": "Twilight Kingdom",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "unusual string instruments",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "B05"
+          ],
+          "history": [
+            {
+              "location": "Lord Endless Ending's manor",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Cato's flask",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "B06"
+          ],
+          "history": [
+            {
+              "location": "Lord Endless Ending's manor",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Tarek's museum keys",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "B07"
+          ],
+          "history": [
+            {
+              "location": "Lord Endless Ending's manor",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "grandfather clock",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "B08"
+          ],
+          "history": [
+            {
+              "location": "Lord Endless Ending's manor",
+              "dateStart": "1740-10-05",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Lord Holda",
+          "contextHint": "employer at Dandelion House"
+        },
+        {
+          "name": "Alden",
+          "contextHint": "Holda's agent"
+        },
+        {
+          "name": "unnamed elven archivist",
+          "contextHint": "source of the deed"
+        },
+        {
+          "name": "unnamed mortal guests",
+          "contextHint": "other mortals at the party"
+        },
+        {
+          "name": "Lord Revel",
+          "contextHint": "former name of Lord Endless Ending"
+        },
+        {
+          "name": "unnamed wizard neighbor",
+          "contextHint": "winner of the naming contest"
+        },
+        {
+          "name": "Pandel and companion",
+          "contextHint": "drunken halflings at the bar"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Drankorian Empire",
+          "contextHint": null
+        }
+      ],
+      "items": [
+        {
+          "name": "ancient Sembaran contract",
+          "contextHint": null
+        },
+        {
+          "name": "glowing gold key",
+          "contextHint": null
+        },
+        {
+          "name": "liberated boat",
+          "contextHint": null
+        },
+        {
+          "name": "naming bargain",
+          "contextHint": null
+        }
+      ]
+    }
+  }
+}
