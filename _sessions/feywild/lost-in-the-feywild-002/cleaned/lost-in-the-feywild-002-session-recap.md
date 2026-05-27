@@ -1,3 +1,7 @@
+---
+tags: [status/recap-review]
+---
+
 # Session Recap
 
 ## Session Header
