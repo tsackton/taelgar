@@ -17,4 +17,4 @@ A short adventure run by David Schwartz:
 - [[Lost in the Feywild]]: in which the [[Tollen Misfits]] uncover the mysteries of Dandelion House.
 
 And a long-running campaign run by Mike Sackton:
-- [The Cleenseau Campaign](https://msackton.github.io/taelgarverse1720/), the story of adventurers and events around southern Sembara in the DR 1720s. This game is run by Mike Sackton and the tales of these adventuers are published separately. 
+- [The Cleenseau Campaign](https://msackton.github.io/taelgarverse1720/), the story of adventurers and events around southern Sembara in the DR 1720s. This game is run by Mike Sackton and the tales of these adventurers are published separately. 
