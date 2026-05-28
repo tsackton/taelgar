@@ -65,14 +65,14 @@ During the [[Fire War]] it was damaged, but not as badly as the [[Archives]], an
 
 Tokra was originally the site of a Drankorian settlement, a river crossing and trade post associated with a pair of forts guarding [[Extraplanar Weak Point|extraplanar weak points]] to the north and south. After the [[First Plague|First Plague]] and the [[Settlement of Dunmar]], was resettled by the Dunmari but remained little more than a small village associated with the monastery, until Tokra became the center of administration of the Dharajun. After surviving the [[Great War]] relatively unscathed, Tokra was severely damaged in the [[Fire War]], but rebuilt and became a notable center of administration during the Nayan dynasty. 
 
-- (DR:: 1183) *(Tokra)*: Resettled as a minor outpost by Dunmari settlers
-- (DR:: 1184) *(Tokra)*: The Lakan Monastery is founded slightly to the south of Tokra
-- (DR:: 1405) *(Tokra)*: Tokra is established as the central court for the Dharajun dynasty, and construction on a large temple complex, a palace, and an archives is begun.
-- (DR:: 1409) *(Tokra)*: Construction on the palace of Tokra is complete. 
-- (DR:: 1411) *(Tokra)*: Construction is completed on the [[Archives]]
-- (DR:: 1434) *(Tokra)*: The grand temple complex in Tokra is completed
-- (DR::1552) *(Tokra)*: The [[Fire War]] begins
-- (DR:: 1553) *(Tokra)*: The [[Fire War]] ends
+- (DR:: 1183): Resettled as a minor outpost by Dunmari settlers
+- (DR:: 1184): The Lakan Monastery is founded slightly to the south of Tokra
+- (DR:: 1405): Tokra is established as the central court for the Dharajun dynasty, and construction on a large temple complex, a palace, and an archives is begun.
+- (DR:: 1409): Construction on the palace of Tokra is complete. 
+- (DR:: 1411): Construction is completed on the [[Archives]]
+- (DR:: 1434) : The grand temple complex in Tokra is completed
+- (DR::1552): The [[Fire War]] begins
+- (DR:: 1553): The [[Fire War]] ends
 
 
 %% notes

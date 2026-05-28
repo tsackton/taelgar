@@ -340,7 +340,7 @@ Overall effect:
 
 Now they disappear from local view for several weeks.
 
-- **(DR:: 1715-03-30 to 1715-04-10)** – Guided by Duncan, they reach the **Serpentine redoubt**:
+- **(DR:: 1715-03-30) to (DR_end:: 1715-04-10)** – Guided by Duncan, they reach the **Serpentine redoubt**:
     
     - From below it’s just a grassy ring and tower stump; but recent freeze–thaw cycles or a small slide have opened a **new fissure / sinkhole** into the old tunnels.
         
@@ -375,7 +375,7 @@ Now they disappear from local view for several weeks.
 
 ### Late April–Early May DR 1715 – The Axe Tightens Its Grip
 
-- **(DR:: 1715-04-15 to 1715-05-03)** – The longer Duncan bears the axe:
+- **(DR:: 1715-04-15) to (DR_end:: 1715-05-03)** – The longer Duncan bears the axe:
     
     - the more he becomes **paranoid, possessive, and jumpy**.
         
