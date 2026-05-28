@@ -20,7 +20,24 @@ Taelgar is a world of good and evil, where valiant heroes strive against the for
 
 The known world of Taelgar stretches 2,500 miles from the great city of [[Chardon]] in the West, to the shores of [[Green Sea]] in the east.
 
-![[player-map.png]]
+```leaflet 
+id: player-guide-world-map
+image: [[taelgar-world-map.png]] 
+bounds: 
+- [0,0]
+- [5156.7, 6636.233]
+height: 600px  
+lat: 3333
+long: 3000
+minZoom: -3
+maxZoom: 2
+defaultZoom: -2
+unit: miles 
+scale: 1
+draw: false
+darkMode: false
+markerTag: location-source
+```
 
 - In the west, the vast [[Chardonian Empire]] extends north, east, and south from the imperial capital of [[Chardon]], growing rich and powerful on its magical scholarship and the might of its armies. 
 - On the outskirts of the [[Chardonian Empire]] dwell various scattered northerners, the descendants of the earliest [[Humans]] to settle Taelgar. 
