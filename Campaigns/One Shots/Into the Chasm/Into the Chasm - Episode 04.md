@@ -14,13 +14,13 @@ players:
   - Ekko
   - Justas
 companions: []
-name: The Safe Gash
+name: Into the Chasm - Episode 04
 descTitle: The Druid in the Circuit
 tagline: in which Malquin bargains and Eidrikas endures
 sessionKey: into-the-chasm-session-4
 session-template: into-the-chasm-template.md
 ---
-# The Safe Gash
+# Into the Chasm - Episode 06
 
 >[!info] The Druid in the Circuit: in which Malquin bargains and Eidrikas endures
 > *Featuring: [[Finnan Oakstride|Finnan]], [[Jrain Fanlish|Jrain]], [[Eolo]], [[Ekko]], [[Justas Rhostrin|Justas]]*

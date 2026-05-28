@@ -31,7 +31,16 @@ The story of their third and most ambitious mission to date, tracking down the m
 The story of the mysterious fey events in the village of [[Haldrenn]] is told in:
 - [[Addermarch - Session 11]]
 - [[Addermarch - Session 12]]
+- [[Addermarch - Session 13]] 
+- [[Addermarch - Session 14]]
+- [[Addermarch - Session 15]]
 
+The story of the [[Serpentine Battleaxe]] is told in:
+- [[Addermarch - Session 16]]
+- [[Addermarch - Session 17]]
+- [[Addermarch - Session 18]] 
+- [[Addermarch - Session 19]]
+- [[Addermarch - Session 20]] 
 
 %%^Campaign:none%%
 

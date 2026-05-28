@@ -13,13 +13,13 @@ players:
   - Eolo
   - Ekko
   - Justas
-name: The Rescue of Melusa
+name: Into the Chasm - Episode 06
 descTitle: The Portal Narrows
 tagline: in which the willing escape Melusa
 sessionKey: into-the-chasm-session-6
 session-template: into-the-chasm-template.md
 ---
-# The Rescue of Melusa
+# Into the Chasm - Episode 06
 
 >[!info] The Portal Narrows: in which the willing escape Melusa
 > *Featuring: [[Finnan Oakstride|Finnan]], [[Jrain Fanlish|Jrain]], [[Eolo]], [[Ekko]], [[Justas Rhostrin|Justas]]*

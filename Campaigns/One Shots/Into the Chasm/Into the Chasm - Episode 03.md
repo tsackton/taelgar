@@ -14,13 +14,13 @@ players:
   - Ekko
   - Justas
 companions: []
-name: Into the Chasm - Episode 3
+name: Into the Chasm - Episode 03
 descTitle: The Village in the Fog
 tagline: in which Melusa opens below
 sessionKey: into-the-chasm-session-3
 session-template: into-the-chasm-template.md
 ---
-# Into the Chasm - Episode 3
+# Into the Chasm - Episode 03
 
 >[!info] The Village in the Fog: in which Melusa opens below
 > *Featuring: [[Finnan Oakstride|Finnan]], [[Jrain Fanlish|Jrain]], [[Eolo]], [[Ekko]], [[Justas Rhostrin|Justas]]*
