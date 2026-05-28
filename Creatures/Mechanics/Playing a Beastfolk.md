@@ -3,7 +3,9 @@ tags: [meta, status/wip]
 dm_owner: joint
 dm_notes: none
 ---
-# Beastfolk Species Details
+# Playing a Beastfolk
+
+%%^Campaign:none%%
 *See more: links to relevant pages*
 D&D Beyond Link: 
 
@@ -18,6 +20,7 @@ D&D Beyond Link:
 ### Beastfolk Names
 
 (Generic naming rules if player wants to use "typical" choices)
+%%^End%%
 
 ---
 ## Basic Traits

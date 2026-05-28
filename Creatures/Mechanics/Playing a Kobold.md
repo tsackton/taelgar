@@ -3,8 +3,9 @@ tags: [meta, status/wip]
 dm_owner: joint
 dm_notes: none
 ---
+# Playing a Kobold
 
-
+%%^Campaign:none%%
 Currently very much notes, and thinking about how to organize:
 
 Kobolds in Taelgar are the children of great dragons of an age long past, created originally to be the servants, spies, and messengers of dragons. When the world was young, and the power of magic strong, they lived in the shadow of their creators and masters. Now, they live across the world, often in caves and tunnels. Renowned for their craftiness and trickery, some kobolds prey on other species, luring them into devious ambushes. Others worship their draconic creatures as gods, hoping to return to their rightful place at the side of the great wyrms of old. Still others forge their own way in the world, seeking their own path. 
@@ -15,21 +16,22 @@ If you decide to play a kobold despite this, you can use the [Kobold](https://ww
 
 
 
-# (XXX) Species Details
+
 *See more: links to relevant pages*
 D&D Beyond Link: [Species Name](link)
 
 (SHORT DESCRIPTION, 1-2 PARAGRAPHS)
 
 ---
-## Creating Your (XXX) Character
+## Creating Your Kobold Character
 
 (1-2 PARAGRAPH; ROLE PLAYING AND BACKSTORY CONSIDERATIONS)
 (Ideally include an "if you don't want to engage with lore" option)
 
-### (Species) Names
+### Kobold Names
 
 (Generic naming rules if player wants to use "typical" choices)
+%%^End%%
 
 ---
 ## Basic Traits
@@ -44,4 +46,3 @@ D&D Beyond Link: [Species Name](link)
 For the typical Kobold, you might consider using the [Kobold](https://www.dndbeyond.com/species/1026395-kobold) species traits. If you choose this option, your Size is Small. 
 
 Some kobolds are born with a particularly close connection to their draconic ancestors, and are larger than most of their kin. If this is you, you might use the [Dragonborn](https://www.dndbeyond.com/species/1751435-dragonborn) species traits. If you chose this option, your Size is Medium. 
-

@@ -5,7 +5,6 @@ const fs = require("fs");
 const fsp = fs.promises;
 const path = require("path");
 
-const DEFAULT_TIMEOUT_MS = 120000;
 const LAYOUT_READY_GRACE_MS = 5000;
 const DEFAULT_EXCLUDED_TOP_LEVEL_DIRS = ["Worldbuilding"];
 const DEFAULT_EXCLUDED_TOP_LEVEL_PREFIXES = ["_"];
@@ -239,7 +238,6 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
       excludedTopLevelPrefixes:
         rawConfig.excludedTopLevelPrefixes || DEFAULT_EXCLUDED_TOP_LEVEL_PREFIXES,
       overrideDate: rawConfig.overrideDate,
-      timeoutMs: rawConfig.timeoutMs || DEFAULT_TIMEOUT_MS,
       blockTimeoutMs: rawConfig.blockTimeoutMs || 30000,
     };
   }
@@ -261,17 +259,17 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
   }
 
   async prepareRuntime(config) {
-    await this.waitForLayout(config.timeoutMs);
+    await this.waitForLayout();
 
     const dataviewPlugin = this.app.plugins.plugins.dataview;
     if (!dataviewPlugin?.api) throw new Error("Dataview plugin API is not available.");
-    await this.waitForDataviewIndex(dataviewPlugin, config.timeoutMs);
+    await this.waitForDataviewIndex(dataviewPlugin);
 
     if (typeof window.forceLoadCustomJS !== "function") {
       throw new Error("CustomJS forceLoadCustomJS() is not available.");
     }
     await window.forceLoadCustomJS();
-    await this.waitForCustomJs(config.timeoutMs);
+    await this.waitForCustomJs();
 
     const customJS = window.customJS;
     const previousOverrideDate = customJS.state.overrideDate;
@@ -357,18 +355,14 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
     });
   }
 
-  async waitForDataviewIndex(dataviewPlugin, timeoutMs) {
-    const deadline = Date.now() + timeoutMs;
+  async waitForDataviewIndex(dataviewPlugin) {
     while (!dataviewPlugin.index?.initialized) {
-      if (Date.now() > deadline) throw new Error("Timed out waiting for Dataview index.");
       await sleep(250);
     }
   }
 
-  async waitForCustomJs(timeoutMs) {
-    const deadline = Date.now() + timeoutMs;
+  async waitForCustomJs() {
     while (!window.customJS?.state?._ready) {
-      if (Date.now() > deadline) throw new Error("Timed out waiting for CustomJS.");
       await sleep(250);
     }
   }

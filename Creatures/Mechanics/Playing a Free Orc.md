@@ -4,24 +4,27 @@ dm_owner: joint
 dm_notes: none
 ---
 
-# (XXX) Species Details
+# Playing a Free Orc
+
+%%^Campaign:none%%
 *See more: links to relevant pages*
 D&D Beyond Link: [Species Name](link)
 
 (SHORT DESCRIPTION, 1-2 PARAGRAPHS)
 
 ---
-## Creating Your (XXX) Character
+## Creating Your Free Orc Character
 
 (1-2 PARAGRAPH; ROLE PLAYING AND BACKSTORY CONSIDERATIONS)
 (Ideally include an "if you don't want to engage with lore" option)
 
-### (Species) Names
+### Free Orc Names
 
 (Generic naming rules if player wants to use "typical" choices)
+%%^End%%
 
 ---
-## Orc Traits
+## Basic Traits
 
 **Creature Type:**  Humanoid
 **Size:** Your size is Medium

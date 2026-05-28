@@ -4,21 +4,24 @@ dm_owner: joint
 dm_notes: none
 ---
 
-# (XXX) Species Details
+# Playing a Satyr
+
+%%^Campaign:none%%
 *See more: links to relevant pages*
 D&D Beyond Link: [Species Name](link)
 
 (SHORT DESCRIPTION, 1-2 PARAGRAPHS)
 
 ---
-## Creating Your (XXX) Character
+## Creating Your Satyr Character
 
 (1-2 PARAGRAPH; ROLE PLAYING AND BACKSTORY CONSIDERATIONS)
 (Ideally include an "if you don't want to engage with lore" option)
 
-### (Species) Names
+### Satyr Names
 
 (Generic naming rules if player wants to use "typical" choices)
+%%^End%%
 
 ---
 ## Basic Traits
