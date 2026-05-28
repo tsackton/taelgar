@@ -12,7 +12,6 @@ const DEFAULT_OBSIDIAN_COMMAND = "obsidian-cli";
 export function parseArgs(argv) {
   const args = {
     strict: true,
-    timeoutMs: 600000,
     blockTimeoutMs: 30000,
     wait: true,
     obsidianCommand: process.env.OBSIDIAN_COMMAND || DEFAULT_OBSIDIAN_COMMAND,
@@ -36,7 +35,7 @@ export function parseArgs(argv) {
     else if (arg === "--mode") args.mode = next();
     else if (arg === "--report") args.reportPath = next();
     else if (arg === "--header-type") args.headerType = next();
-    else if (arg === "--timeout") args.timeoutMs = Number(next()) * 1000;
+    else if (arg === "--timeout") throw new Error("--timeout was removed; stop stuck materialization processes explicitly.");
     else if (arg === "--block-timeout") args.blockTimeoutMs = Number(next()) * 1000;
     else if (arg === "--obsidian-command" || arg === "--obsidian-cli") {
       args.obsidianCommand = next();
@@ -84,7 +83,6 @@ Options:
   --header-type TYPE website, static, or none. Default: website.
   --strict           Fail when unsupported blocks or errors are found. Default.
   --no-strict        Produce partial output and report unsupported blocks.
-  --timeout SECONDS  Time to wait for Obsidian to finish. Default: 600.
   --block-timeout SECONDS
                     Per-block Dataview render timeout. Default: 30.
   --obsidian-command PATH
@@ -128,7 +126,6 @@ export function buildMaterializerRequest(args, options = {}) {
       progressPath: `${reportPath}.progress.json`,
       overrideDate: args.overrideDate,
       headerType: args.headerType ?? "website",
-      timeoutMs: args.timeoutMs,
       blockTimeoutMs: args.blockTimeoutMs,
     },
   };
@@ -156,8 +153,6 @@ export function buildObsidianCliArgs({ code, vaultTarget } = {}) {
 }
 
 export async function runObsidianCli(command, args, options = {}) {
-  const timeoutMs = options.timeoutMs;
-
   return new Promise((resolve, reject) => {
     let settled = false;
     let stdout = "";
@@ -171,19 +166,8 @@ export async function runObsidianCli(command, args, options = {}) {
     const finish = (callback, value) => {
       if (settled) return;
       settled = true;
-      if (timer) clearTimeout(timer);
       callback(value);
     };
-
-    const timer = timeoutMs
-      ? setTimeout(() => {
-          child.kill("SIGTERM");
-          finish(
-            reject,
-            new Error(`Obsidian CLI timed out after ${Math.round(timeoutMs / 1000)} seconds.`),
-          );
-        }, timeoutMs)
-      : undefined;
 
     child.stdout.on("data", (chunk) => {
       const text = chunk.toString();
@@ -228,22 +212,15 @@ export async function runObsidianCli(command, args, options = {}) {
   });
 }
 
-export async function waitForReport(reportPath, timeoutMs, expectedId) {
-  const deadline = Date.now() + timeoutMs;
-  let lastError;
-
-  while (Date.now() < deadline) {
+export async function waitForReport(reportPath, expectedId) {
+  while (true) {
     try {
       const report = JSON.parse(await fs.readFile(reportPath, "utf8"));
       if (!expectedId || report.id === expectedId) return report;
-      lastError = new Error(`found report for ${report.id}, waiting for ${expectedId}`);
-    } catch (error) {
-      lastError = error;
-      await sleep(1000);
+    } catch {
     }
+    await sleep(1000);
   }
-
-  throw new Error(`Timed out waiting for report at ${reportPath}: ${lastError?.message || "not found"}`);
 }
 
 export function formatProgressLine(progress, options = {}) {
@@ -455,7 +432,6 @@ async function main() {
   try {
     await runObsidianCli(obsidianCommand, obsidianArgs, {
       cwd: vaultPath,
-      timeoutMs: args.timeoutMs + 30000,
       onStdout: args.obsidianOutput
         ? (text) => writePrefixedLines(process.stderr, "Obsidian CLI: ", text)
         : undefined,
@@ -470,7 +446,7 @@ async function main() {
       return;
     }
 
-    const report = await waitForReport(reportPath, args.timeoutMs, request.id);
+    const report = await waitForReport(reportPath, request.id);
     await progressMonitor.stop();
     console.log(JSON.stringify(summarizeReport(report), null, 2));
     process.exitCode = report.exitCode || 0;

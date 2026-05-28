@@ -53,12 +53,18 @@ test("parseArgs rejects removed protocol bridge options", () => {
   );
 });
 
+test("parseArgs rejects overall materialization timeout", () => {
+  assert.throws(
+    () => parseArgs(["--timeout", "600"]),
+    /--timeout was removed/,
+  );
+});
+
 test("buildMaterializerRequest resolves defaults", () => {
   const { request, reportPath } = buildMaterializerRequest(
     {
       outputPath: "/tmp/Taelgar-static",
       strict: false,
-      timeoutMs: 120000,
       blockTimeoutMs: 30000,
     },
     { cwd: "/tmp/Taelgar", id: "test-run" },
@@ -70,6 +76,7 @@ test("buildMaterializerRequest resolves defaults", () => {
   assert.equal(request.config.mode, "write");
   assert.equal(request.config.strict, false);
   assert.equal(request.config.headerType, "website");
+  assert.equal("timeoutMs" in request.config, false);
   assert.equal(reportPath, path.resolve("/tmp/Taelgar-static/.dataview-materialization-report.json"));
 });
 
