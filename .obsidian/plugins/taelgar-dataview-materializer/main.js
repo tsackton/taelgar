@@ -5,7 +5,6 @@ const fs = require("fs");
 const fsp = fs.promises;
 const path = require("path");
 
-const REQUEST_FILE = "request.json";
 const DEFAULT_TIMEOUT_MS = 120000;
 const DEFAULT_EXCLUDED_TOP_LEVEL_DIRS = ["Worldbuilding"];
 const DEFAULT_EXCLUDED_TOP_LEVEL_PREFIXES = ["_"];
@@ -17,29 +16,18 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
 
     this.addCommand({
       id: "materialize-dataview",
-      name: "Materialize Dataview to Markdown",
-      callback: async () => this.processPendingRequest({ allowDefault: true }),
+      name: "Audit Dataview materialization",
+      callback: async () =>
+        this.runRequest({
+          id: `manual-${Date.now()}`,
+          config: {
+            vaultPath: this.getVaultBasePath(),
+            mode: "audit",
+            strict: false,
+            reportPath: path.join(this.getPluginDirPath(), "last-report.json"),
+          },
+        }),
     });
-
-    if (typeof this.registerObsidianProtocolHandler === "function") {
-      this.registerObsidianProtocolHandler("taelgar-materializer", async (params) => {
-        await this.handleProtocolRequest(params || {});
-      });
-    }
-
-    this.app.workspace.onLayoutReady(() => {
-      this.processPendingRequest({ quiet: true }).catch((error) => {
-        console.error("Taelgar materializer pending request failed", error);
-      });
-    });
-
-    this.registerInterval(
-      window.setInterval(() => {
-        this.processPendingRequest({ quiet: true }).catch((error) => {
-          console.error("Taelgar materializer pending request failed", error);
-        });
-      }, 2000),
-    );
   }
 
   getVaultBasePath() {
@@ -58,55 +46,11 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
     );
   }
 
-  getRequestPath() {
-    return path.join(this.getPluginDirPath(), REQUEST_FILE);
-  }
-
   loadCore() {
     const corePath = path.join(this.getVaultBasePath(), "_scripts", "materialize-dataview", "core.js");
     if (require.cache?.[corePath]) delete require.cache[corePath];
     this.core = require(corePath);
     return this.core;
-  }
-
-  async handleProtocolRequest(params) {
-    if (params.request) {
-      const requestPath = decodeURIComponent(String(params.request));
-      const raw = await fsp.readFile(requestPath, "utf8");
-      const request = JSON.parse(raw);
-      await this.runRequest(request);
-      return;
-    }
-
-    await this.processPendingRequest({ quiet: false });
-  }
-
-  async processPendingRequest({ quiet = false, allowDefault = false } = {}) {
-    if (this.running) return;
-
-    const requestPath = this.getRequestPath();
-    let request;
-    try {
-      request = JSON.parse(await fsp.readFile(requestPath, "utf8"));
-      await fsp.unlink(requestPath);
-    } catch (error) {
-      if (allowDefault) {
-        request = {
-          id: `manual-${Date.now()}`,
-          config: {
-            vaultPath: this.getVaultBasePath(),
-            mode: "audit",
-            strict: false,
-            reportPath: path.join(this.getPluginDirPath(), "last-report.json"),
-          },
-        };
-      } else {
-        if (!quiet && error.code !== "ENOENT") new Notice(`Materializer request error: ${error.message}`);
-        return;
-      }
-    }
-
-    await this.runRequest(request);
   }
 
   async runRequest(request) {

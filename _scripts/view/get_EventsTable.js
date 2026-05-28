@@ -261,11 +261,47 @@ async function get_table(input) {
         }
     }
 
+    const INLINE_DATE_VALUE_PATTERN = "-?\\d{1,4}(?:-\\d{1,2})?(?:-\\d{1,2})?(?:\\s+to\\s+-?\\d{1,4}(?:-\\d{1,2})?(?:-\\d{1,2})?)?"
+    const INLINE_DATE_TOKEN_PATTERN = new RegExp(
+        "(?:\\(\\(\\s*\\bDR(?:_end)?::\\s*" + INLINE_DATE_VALUE_PATTERN + "\\s*\\)\\)|\\(\\s*\\bDR(?:_end)?::\\s*" + INLINE_DATE_VALUE_PATTERN + "\\s*\\)|\\bDR(?:_end)?::\\s*" + INLINE_DATE_VALUE_PATTERN + ")\\s*",
+        "g"
+    )
+
     function stripInlineDateTokens(text) {
         return String(text ?? "")
-            .replace(/\(?\bDR(?:_end)?::\s*-?\d{1,4}(?:-\d{1,2})?(?:-\d{1,2})?(?:\s+to\s+-?\d{1,4}(?:-\d{1,2})?(?:-\d{1,2})?)?\)?\s*/g, "")
+            .replace(INLINE_DATE_TOKEN_PATTERN, "")
             .replace(/^\s*(?:[-–]\s*)?[,;:]?\s*/, "")
             .trim()
+    }
+
+    function hasUncertainInlineDateToken(text, fieldName) {
+        let pattern = new RegExp("\\(\\(\\s*\\b" + fieldName + "::\\s*" + INLINE_DATE_VALUE_PATTERN + "\\s*\\)\\)")
+        return pattern.test(String(text ?? ""))
+    }
+
+    function getInlineDateUncertainty(text) {
+        return {
+            start: hasUncertainInlineDateToken(text, "DR"),
+            end: hasUncertainInlineDateToken(text, "DR_end")
+        }
+    }
+
+    function withUncertainDateDisplay(dateRange, uncertainty) {
+        if (!dateRange || !(uncertainty?.start || uncertainty?.end)) return dateRange
+
+        let singleDateUncertain = !dateRange.isRange && (uncertainty.start || uncertainty.end)
+        let dateStart = (uncertainty.start || singleDateUncertain) ? "(" + dateRange.dateStart + ")" : dateRange.dateStart
+        let dateEnd = uncertainty.end ? "(" + dateRange.dateEnd + ")" : dateRange.dateEnd
+        let display = dateRange.isRange ? dateStart + " - " + dateEnd : dateStart
+
+        return {
+            ...dateRange,
+            display: display,
+            dateStart: dateStart,
+            dateEnd: dateEnd,
+            uncertainStartDate: uncertainty.start,
+            uncertainEndDate: uncertainty.end
+        }
     }
 
     function isDateQualifier(value) {
@@ -391,13 +427,15 @@ async function get_table(input) {
         if (qualifierMatch && isDateQualifier(qualifierMatch[1])) {
             return {
                 qualifier: qualifierMatch[1].trim(),
-                text: qualifierMatch[2].trim()
+                text: qualifierMatch[2].trim(),
+                dateUncertainty: getInlineDateUncertainty(text)
             }
         }
 
         return {
             qualifier: undefined,
-            text: cleaned
+            text: cleaned,
+            dateUncertainty: getInlineDateUncertainty(text)
         }
     }
 
@@ -550,7 +588,8 @@ async function get_table(input) {
             if (dateRangeOverlapsQuery(eventDate)) {
 
                 let timelineText = splitTimelineText(t.text)
-                let eventDateWithQualifier = withDateQualifier(eventDate, timelineText.qualifier)
+                let eventDateWithUncertainty = withUncertainDateDisplay(eventDate, timelineText.dateUncertainty)
+                let eventDateWithQualifier = withDateQualifier(eventDateWithUncertainty, timelineText.qualifier)
                 let realText = linkTimelineText(timelineText.text, t)
 
                 let descriptor = frontmatter.timelineDescriptor ?? frontmatter.name
