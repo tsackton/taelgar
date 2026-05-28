@@ -25,7 +25,7 @@ Generally tend towards kind of English-like given names, perhaps a reflection of
 
 Family names are classic D&D/Tolkien in style, possibly glossed as usually translated into Common in-world. Currently have assumed that each family name is unique (e.g., all Goodbarrels are related somehow), but not obvious this must be the case. 
 
-See more: [[Playing a Halfing#Halfling Names|Halfling Names]]
+See more: [[Playing a Halfling#Halfling Names|Halfling Names]]
 
 Some debate about the role of halflings in inventing or popularizing trade tongues - see Open Questions, below. 
 %%^End%%

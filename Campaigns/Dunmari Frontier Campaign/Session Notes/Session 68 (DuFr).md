@@ -36,7 +36,7 @@ The [[Dunmar Fellowship]] reunites, shares their extraordinary experiences, and 
 ### Letters Received
 - [[Letter from Speaker Lara]]
 - [[Letter from Govir]]
-- [[Letter from Dee WIldcloak]]
+- [[Letter from Dee Wildcloak]]
 - [[People/PCs/Dunmar Fellowship/Wellby#^3c01eb|Wellby's Letter]] **(personal)**
 - [[Kenzo#^21d014|Kenzo's Letter]] **(personal)**
 
