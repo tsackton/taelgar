@@ -1,8 +1,8 @@
-[u0001] --- tags: [session-note] campaign: Cleenseau sessionNumber: 16 realWorldDate: 2024-07-28 DR: 1720-02-07 DR_end: 1720-02-17 players: [Robin, Viepuck, Celyn, Izgil] tagline: in which the party negotiates with a fey lord and discovers a larger conspiracy descTitle: The Bear Fey's Gambit --- # Cleenseau - Session 16
+[u0001] --- tags: [session-note, status/check/ai] campaign: Cleenseau sessionNumber: 16 realWorldDate: 2024-07-28 DR: 1720-02-07 DR_end: 1720-02-17 players: [Robin, Viepuck, Celyn, Izgil] tagline: in which the party negotiates with a fey lord and discovers a larger conspiracy descTitle: The Bear Fey's Gambit --- # Cleenseau - Session 16
 [u0002] >[!info] The Bear Fey's Gambit: in which the party negotiates with a fey lord and discovers a larger conspiracy > *Featuring: [[Robin of Abenfyrd]], [[Viepuck]], [[Celyn Bettws]], [[Izgil Moonseeker]]* > *In Taelgar: (DR:: 1720-02-07) to (DR:: 1720-02-17)* > *On Earth: July 28th, 2024* > *[[Maudorville]], [[Ashcombe]], [[Aslain]], and the [[Maudor Hills]]*
 [u0003] The party travels north to investigate the baroness, encounters harpies and a large fey bear lord, negotiates a truce, discovers three competing fey lords are creating chaos, and evacuates the village of Ashcombe from fey danger.
 [u0004] ## Timeline
-[u0005] - **(DR:: 1720-02-07 to 1720-02-09):** [[Viepuck]] works as a "telegraph machine," gathering intelligence and contacting allies.
+[u0005] - **(DR:: 1720-02-07) to (DR_end:: 1720-02-09):** [[Viepuck]] works as a "telegraph machine," gathering intelligence and contacting allies.
 [u0006] [[Samuel Cordwander]], [[Odo Cordwaner|Odo's]] younger brother, is found and escorted to safety by [[Estiasilos]].
 [u0007] [[Gareth of Tollen|Gareth's]] interrogation reveals information about the [[Midnight Lady]].
 [u0008] - **(DR:: 1720-02-09):** The party departs [[Cleenseau]] with cavalry, heading north toward [[Veltor]] to investigate the baroness, but stops at [[Maudorville]] first to gather intelligence.
@@ -12,7 +12,7 @@
 [u0012] The party tracks them to the lair of a large fey bear lord, where [[Celyn]] negotiates in proper fey fashion.
 [u0013] The party promises not to harm specific harpies in exchange for information about three competing fey lords.
 [u0014] - **(DR:: 1720-02-11):** The party convinces the village of [[Ashcombe]] to evacuate due to fey danger, leaving for [[Aslain]].
-[u0015] - **(DR:: 1720-02-12 to 1720-02-17):** The party arrives at [[Aslain]], receives a mysterious letter from the bear fey, and investigates various local incidents including temple destruction evidence and a poisoning case.
+[u0015] - **(DR:: 1720-02-12) to (DR_end:: 1720-02-17):** The party arrives at [[Aslain]], receives a mysterious letter from the bear fey, and investigates various local incidents including temple destruction evidence and a poisoning case.
 [u0016] ## Cast of Characters
 [u0017] - **[[Robin of Abenfyrd]]** – paladin, Order of the Charitable Wanderer - **[[Viepuck]]** – warlock and investigator - **[[Celyn Bettws]]** – Wyrdling cleric - **[[Izgil Moonseeker]]** – arcane investigator - **The Bear Fey** (name/title of the [[Gloomshaper]]'s servant) – large fey bear lord controlling harpies and lesser fey - **[[Duskhounds]]** – wild huntsman minion of the bear fey - **[[Wilhem of Maudorville]]** – moon-fascinated administrator of the temple of the Sibyl - **[[Susanna]]** – innkeeper in [[Maudorville]], desperate to find her missing daughter - **[[Samuel Cordwander]]** – [[Odo Cordwaner|Odo's]] younger brother, recovered from hiding - **[[Estiasilos]]** – companion who escorted Samuel - **Harpies** – fey creatures under the bear fey's control - **[[Greymalkin]]** – fey mount (wingless gryphon) who refused to be muzzled
 [u0018] ## Places

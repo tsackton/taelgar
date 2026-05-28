@@ -15,10 +15,11 @@ An informal name for the roughly fifty year period after the [[Great War]], mark
 
 ## Major Events of the Blood Years
 
-
 ```dataviewjs
-await dv.view("_scripts/view/get_EventsTable", { yearStart: 1545, yearEnd: 1600, includeAll: false } )
+await dv.view("_scripts/view/get_EventsTable", { yearStart: 1546, yearEnd: 1600, includeAll: false } )
 ```
+
+
 
 %%^Campaign:none%%
 

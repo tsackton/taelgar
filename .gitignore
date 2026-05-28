@@ -17,6 +17,11 @@ assets/unshared/
 
 !.obsidian
 .obsidian/*
+!.obsidian/plugins
+.obsidian/plugins/*
+!.obsidian/plugins/taelgar-dataview-materializer
+!.obsidian/plugins/taelgar-dataview-materializer/manifest.json
+!.obsidian/plugins/taelgar-dataview-materializer/main.js
 !.obsidian/metadata.json
 !.obsidian/snippets
 .obsidian/snippets/*

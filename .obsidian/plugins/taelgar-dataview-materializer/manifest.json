@@ -1,0 +1,9 @@
+{
+  "id": "taelgar-dataview-materializer",
+  "name": "Taelgar Dataview Materializer",
+  "version": "0.1.0",
+  "minAppVersion": "1.8.0",
+  "description": "Materializes Dataview and supported DataviewJS blocks to static Markdown for the Taelgar vault.",
+  "author": "Taelgar",
+  "isDesktopOnly": true
+}

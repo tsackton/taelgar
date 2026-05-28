@@ -21,12 +21,12 @@ The party travels north to investigate the baroness, encounters harpies and a la
 
 ## Timeline
 
-- **(DR:: 1720-02-07 to 1720-02-09):** [[Viepuck]] works as a "telegraph machine," gathering intelligence and contacting allies. [[Samuel Cordwander]], [[Odo Cordwaner|Odo's]] younger brother, is found and escorted to safety by [[Estiasilos]]. [[Gareth of Tollen|Gareth's]] interrogation reveals information about the [[Midnight Lady]].
+- **(DR:: 1720-02-07) to (DR_end:: 1720-02-09):** [[Viepuck]] works as a "telegraph machine," gathering intelligence and contacting allies. [[Samuel Cordwander]], [[Odo Cordwaner|Odo's]] younger brother, is found and escorted to safety by [[Estiasilos]]. [[Gareth of Tollen|Gareth's]] interrogation reveals information about the [[Midnight Lady]].
 - **(DR:: 1720-02-09):** The party departs [[Cleenseau]] with cavalry, heading north toward [[Veltor]] to investigate the baroness, but stops at [[Maudorville]] first to gather intelligence.
 - **(DR:: 1720-02-10):** In [[Maudorville]], [[Izgil]] connects with [[Wilhem of Maudorville|Wilhem]], an administrator fascinated by the moon. The party investigates missing people and encounters singing creatures (harpies) off the road.
 - **(DR:: 1720-02-11):** Combat with harpies, bears, and fey creatures. The party tracks them to the lair of a large fey bear lord, where [[Celyn]] negotiates in proper fey fashion. The party promises not to harm specific harpies in exchange for information about three competing fey lords.
 - **(DR:: 1720-02-11):** The party convinces the village of [[Ashcombe]] to evacuate due to fey danger, leaving for [[Aslain]].
-- **(DR:: 1720-02-12 to 1720-02-17):** The party arrives at [[Aslain]], receives a mysterious letter from the bear fey, and investigates various local incidents including temple destruction evidence and a poisoning case.
+- **(DR:: 1720-02-12) to (DR_end:: 1720-02-17):** The party arrives at [[Aslain]], receives a mysterious letter from the bear fey, and investigates various local incidents including temple destruction evidence and a poisoning case.
 
 ## Cast of Characters
 
