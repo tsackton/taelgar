@@ -8,7 +8,6 @@ import {
   formatWaitingForProgressLine,
   formatProgressLine,
   parseArgs,
-  resolveObsidianCommand,
   truncateLine,
   writePrefixedLines,
 } from "./materialize-dataview.mjs";
@@ -41,6 +40,10 @@ test("parseArgs accepts Obsidian CLI options", () => {
   assert.equal(args.progress, false);
   assert.equal(args.progressIntervalMs, 2000);
   assert.equal(args.obsidianOutput, false);
+});
+
+test("parseArgs defaults to obsidian-cli", () => {
+  assert.equal(parseArgs([]).obsidianCommand, "obsidian-cli");
 });
 
 test("parseArgs rejects removed protocol bridge options", () => {
@@ -85,10 +88,6 @@ test("buildObsidianCliArgs uses eval code and optional vault target", () => {
     "eval",
     "code=1 + 1",
   ]);
-});
-
-test("resolveObsidianCommand preserves explicit command", async () => {
-  assert.equal(await resolveObsidianCommand("/custom/obsidian"), "/custom/obsidian");
 });
 
 test("formatProgressLine describes startup before file counts are known", () => {

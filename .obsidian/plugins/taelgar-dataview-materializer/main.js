@@ -6,6 +6,7 @@ const fsp = fs.promises;
 const path = require("path");
 
 const DEFAULT_TIMEOUT_MS = 120000;
+const LAYOUT_READY_GRACE_MS = 5000;
 const DEFAULT_EXCLUDED_TOP_LEVEL_DIRS = ["Worldbuilding"];
 const DEFAULT_EXCLUDED_TOP_LEVEL_PREFIXES = ["_"];
 
@@ -345,10 +346,10 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
     };
   }
 
-  waitForLayout(timeoutMs) {
+  waitForLayout() {
     if (this.app.workspace.layoutReady) return Promise.resolve();
-    return new Promise((resolve, reject) => {
-      const timer = window.setTimeout(() => reject(new Error("Timed out waiting for Obsidian layout.")), timeoutMs);
+    return new Promise((resolve) => {
+      const timer = window.setTimeout(() => resolve(), LAYOUT_READY_GRACE_MS);
       this.app.workspace.onLayoutReady(() => {
         window.clearTimeout(timer);
         resolve();
