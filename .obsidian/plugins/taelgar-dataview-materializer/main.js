@@ -121,6 +121,7 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
       dataviewBlocks: 0,
       dataviewJsBlocks: 0,
       inlineExpressions: 0,
+      headersRegenerated: 0,
       unsupported: 0,
       errors: 0,
       remainingDataviewBlocks: 0,
@@ -152,6 +153,7 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
         counts.dataviewBlocks += result.report.counts.dataviewBlocks;
         counts.dataviewJsBlocks += result.report.counts.dataviewJsBlocks;
         counts.inlineExpressions += result.report.counts.inlineExpressions;
+        counts.headersRegenerated += result.report.counts.headersRegenerated;
         counts.unsupported += result.report.counts.unsupported;
         counts.errors += result.report.counts.errors;
         counts.remainingDataviewBlocks += result.report.remaining.dataviewFences;
@@ -219,11 +221,17 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
       throw new Error("outputPath must be outside the source vault.");
     }
 
+    const headerType = rawConfig.headerType || "none";
+    if (!["none", "static", "website"].includes(headerType)) {
+      throw new Error(`Unsupported materializer headerType: ${headerType}`);
+    }
+
     return {
       mode,
       strict: rawConfig.strict !== false,
       vaultPath,
       outputPath,
+      headerType,
       reportPath: rawConfig.reportPath,
       progressPath: rawConfig.progressPath || progressPathFor(rawConfig.reportPath),
       excludedTopLevelDirs: rawConfig.excludedTopLevelDirs || DEFAULT_EXCLUDED_TOP_LEVEL_DIRS,
@@ -382,6 +390,7 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
         dataviewBlocks: 0,
         dataviewJsBlocks: 0,
         inlineExpressions: 0,
+        headersRegenerated: 0,
         unsupported: 0,
         errors: 0,
       },
@@ -393,8 +402,26 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
       },
     };
 
+    let source = original;
+    if (config.headerType !== "none") {
+      try {
+        const regenerated = this.regenerateHeader(source, file, runtime, config.headerType);
+        if (regenerated !== source) {
+          source = regenerated;
+          report.counts.headersRegenerated += 1;
+        }
+      } catch (error) {
+        report.counts.errors += 1;
+        report.issues.push({
+          type: "error",
+          line: 1,
+          message: `Header regeneration failed: ${error.message}`,
+        });
+      }
+    }
+
     const fenceReplacements = [];
-    const fences = core.scanFencedCodeBlocks(original);
+    const fences = core.scanFencedCodeBlocks(source);
 
     for (const block of fences) {
       if (!["dataview", "dataviewjs"].includes(block.language)) continue;
@@ -446,7 +473,7 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
       }
     }
 
-    let materialized = core.applyReplacements(original, fenceReplacements);
+    let materialized = core.applyReplacements(source, fenceReplacements);
     const protectedRanges = core.scanFencedCodeBlocks(materialized).map((block) => ({
       start: block.start,
       end: block.end,
@@ -494,6 +521,16 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
       changed: report.changed,
       report,
     };
+  }
+
+  regenerateHeader(source, file, runtime, headerType) {
+    const outputHandler = runtime.customJS.OutputHandler;
+    if (!outputHandler) throw new Error("customJS.OutputHandler is not available.");
+
+    const frontmatter = this.app.metadataCache.getFileCache(file)?.frontmatter;
+    if (!frontmatter?.tags || !frontmatter?.headerVersion) return source;
+
+    return outputHandler.regenerateHeader(source, file.name, frontmatter, headerType).join("\n");
   }
 
   addIssue(report, type, block, message) {

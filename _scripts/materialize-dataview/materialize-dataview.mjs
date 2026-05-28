@@ -13,10 +13,14 @@ const MACOS_OBSIDIAN_CLI = "/Applications/Obsidian.app/Contents/MacOS/obsidian";
 export function parseArgs(argv) {
   const args = {
     strict: true,
-    timeoutMs: 120000,
+    timeoutMs: 600000,
     blockTimeoutMs: 30000,
     wait: true,
     obsidianCommand: process.env.OBSIDIAN_COMMAND || DEFAULT_OBSIDIAN_COMMAND,
+    headerType: "website",
+    progress: true,
+    progressIntervalMs: 1000,
+    obsidianOutput: true,
   };
 
   for (let index = 0; index < argv.length; index += 1) {
@@ -32,6 +36,7 @@ export function parseArgs(argv) {
     else if (arg === "--date") args.overrideDate = next();
     else if (arg === "--mode") args.mode = next();
     else if (arg === "--report") args.reportPath = next();
+    else if (arg === "--header-type") args.headerType = next();
     else if (arg === "--timeout") args.timeoutMs = Number(next()) * 1000;
     else if (arg === "--block-timeout") args.blockTimeoutMs = Number(next()) * 1000;
     else if (arg === "--obsidian-command" || arg === "--obsidian-cli") {
@@ -40,6 +45,11 @@ export function parseArgs(argv) {
       args.obsidianVault = next();
     } else if (arg === "--strict") args.strict = true;
     else if (arg === "--no-strict") args.strict = false;
+    else if (arg === "--progress") args.progress = true;
+    else if (arg === "--no-progress") args.progress = false;
+    else if (arg === "--progress-interval") args.progressIntervalMs = Number(next()) * 1000;
+    else if (arg === "--obsidian-output") args.obsidianOutput = true;
+    else if (arg === "--no-obsidian-output") args.obsidianOutput = false;
     else if (arg === "--no-wait") args.wait = false;
     else if (
       [
@@ -72,9 +82,10 @@ Options:
   --mode MODE        audit, write, or check. Defaults to write when --out is set, otherwise audit.
   --date DATE        Override CustomJS target date.
   --report PATH      Report JSON path.
+  --header-type TYPE website, static, or none. Default: website.
   --strict           Fail when unsupported blocks or errors are found. Default.
   --no-strict        Produce partial output and report unsupported blocks.
-  --timeout SECONDS  Time to wait for Obsidian to finish. Default: 120.
+  --timeout SECONDS  Time to wait for Obsidian to finish. Default: 600.
   --block-timeout SECONDS
                     Per-block Dataview render timeout. Default: 30.
   --obsidian-command PATH
@@ -82,6 +93,13 @@ Options:
   --obsidian-vault NAME_OR_ID
                     Optional explicit Obsidian vault target. By default the CLI runs with
                     the source vault as its working directory.
+  --progress        Show a progress bar while Obsidian processes files. Default.
+  --no-progress     Disable progress output.
+  --progress-interval SECONDS
+                    Progress polling interval. Default: 1.
+  --obsidian-output Show Obsidian CLI stdout/stderr while waiting. Default.
+  --no-obsidian-output
+                    Hide Obsidian CLI stdout/stderr unless the command fails.
   --no-wait          Run the CLI request and print the report path without reading it.
 `);
 }
@@ -110,6 +128,7 @@ export function buildMaterializerRequest(args, options = {}) {
       reportPath,
       progressPath: `${reportPath}.progress.json`,
       overrideDate: args.overrideDate,
+      headerType: args.headerType ?? "website",
       timeoutMs: args.timeoutMs,
       blockTimeoutMs: args.blockTimeoutMs,
     },
@@ -168,10 +187,14 @@ export async function runObsidianCli(command, args, options = {}) {
       : undefined;
 
     child.stdout.on("data", (chunk) => {
-      stdout += chunk.toString();
+      const text = chunk.toString();
+      stdout += text;
+      if (options.onStdout) options.onStdout(text);
     });
     child.stderr.on("data", (chunk) => {
-      stderr += chunk.toString();
+      const text = chunk.toString();
+      stderr += text;
+      if (options.onStderr) options.onStderr(text);
     });
 
     child.on("error", (error) => {
@@ -239,6 +262,154 @@ export async function waitForReport(reportPath, timeoutMs, expectedId) {
   throw new Error(`Timed out waiting for report at ${reportPath}: ${lastError?.message || "not found"}`);
 }
 
+export function formatProgressLine(progress, options = {}) {
+  const width = options.width ?? 28;
+  const columns = options.columns ?? 120;
+  const total = Number(progress.totalFiles || 0);
+  const current = Number(progress.fileIndex || progress.counts?.filesScanned || 0);
+  const status = progress.status || "running";
+
+  if (status === "starting" && total === 0) {
+    return truncateLine("Materializing: starting Obsidian runtime and waiting for Dataview/CustomJS", columns);
+  }
+
+  const ratio = total > 0 ? Math.max(0, Math.min(1, current / total)) : 0;
+  const filled = total > 0 ? Math.round(ratio * width) : 0;
+  const percent = total > 0 ? `${(ratio * 100).toFixed(1).padStart(5)}%` : "  ?.?%";
+  const counts = progress.counts || {};
+  const bar = `${"#".repeat(filled)}${"-".repeat(Math.max(0, width - filled))}`;
+  const base =
+    `Materializing [${bar}] ${current}/${total || "?"} ${percent} ` +
+    `changed ${counts.filesChanged ?? 0} headers ${counts.headersRegenerated ?? 0} ` +
+    `dv ${Number(counts.dataviewBlocks ?? 0) + Number(counts.dataviewJsBlocks ?? 0)} ` +
+    `inline ${counts.inlineExpressions ?? 0} errors ${counts.errors ?? 0} ` +
+    `unsupported ${counts.unsupported ?? 0}`;
+  const currentFile = progress.currentFile ? ` | ${progress.currentFile}` : ` | ${status}`;
+  return truncateLine(base + currentFile, columns);
+}
+
+export function truncateLine(value, columns) {
+  if (!columns || value.length <= columns) return value;
+  if (columns <= 4) return value.slice(0, columns);
+  return `${value.slice(0, columns - 3)}...`;
+}
+
+export function formatWaitingForProgressLine(progressPath, elapsedMs) {
+  const seconds = Math.max(0, Math.floor(elapsedMs / 1000));
+  let line = `Materializing: waiting ${seconds}s for Obsidian to create ${progressPath}`;
+  if (seconds >= 30) {
+    line += "; the CLI has launched, but the materializer plugin has not written startup progress yet";
+  }
+  return line;
+}
+
+export function writePrefixedLines(stream, prefix, text) {
+  const normalized = String(text ?? "").replace(/\r/g, "");
+  for (const line of normalized.split("\n")) {
+    if (!line.trim()) continue;
+    stream.write(`${prefix}${line}\n`);
+  }
+}
+
+export function createProgressMonitor(progressPath, options = {}) {
+  const stream = options.stream || process.stderr;
+  const intervalMs = options.intervalMs || 1000;
+  const lineIntervalMs = options.lineIntervalMs || Math.max(5000, intervalMs);
+  const enabled = options.enabled !== false;
+  const isTty = Boolean(stream.isTTY);
+  let interval;
+  let lastLine = "";
+  let lastPrintedBucket = -1;
+  let lastPrintedAt = 0;
+  let waitingPrintedAt = 0;
+  let sawProgress = false;
+  let stopped = false;
+  const startedAt = Date.now();
+
+  async function readProgress() {
+    try {
+      return JSON.parse(await fs.readFile(progressPath, "utf8"));
+    } catch {
+      return undefined;
+    }
+  }
+
+  function writeLine(line, progress) {
+    if (!enabled || !line) return;
+
+    if (isTty) {
+      const clear = lastLine.length > line.length ? " ".repeat(lastLine.length - line.length) : "";
+      stream.write(`\r${line}${clear}`);
+      lastLine = line;
+      return;
+    }
+
+    const total = Number(progress.totalFiles || 0);
+    const current = Number(progress.fileIndex || progress.counts?.filesScanned || 0);
+    const bucket = total > 0 ? Math.floor((current / total) * 20) : 0;
+    const now = Date.now();
+    if (
+      progress.status !== "running" ||
+      bucket > lastPrintedBucket ||
+      now - lastPrintedAt >= lineIntervalMs
+    ) {
+      stream.write(`${line}\n`);
+      lastPrintedBucket = bucket;
+      lastPrintedAt = now;
+    }
+  }
+
+  async function tick() {
+    if (stopped) return;
+    const progress = await readProgress();
+    if (!progress) {
+      if (!enabled) return;
+      const now = Date.now();
+      if (now - waitingPrintedAt >= lineIntervalMs) {
+        const line = formatWaitingForProgressLine(progressPath, now - startedAt);
+        if (isTty) {
+          const truncated = truncateLine(line, Math.max(60, (stream.columns || 120) - 1));
+          const clear = lastLine.length > truncated.length ? " ".repeat(lastLine.length - truncated.length) : "";
+          stream.write(`\r${truncated}${clear}`);
+          lastLine = truncated;
+        } else {
+          stream.write(`${line}\n`);
+        }
+        waitingPrintedAt = now;
+      }
+      return;
+    }
+    if (!sawProgress && !isTty && enabled) {
+      stream.write(`Materializing: Obsidian progress file detected.\n`);
+    }
+    sawProgress = true;
+    writeLine(
+      formatProgressLine(progress, {
+        columns: Math.max(60, (stream.columns || 120) - 1),
+      }),
+      progress,
+    );
+  }
+
+  return {
+    start() {
+      if (!enabled || interval) return;
+      if (!isTty) stream.write(`Materializing: progress file ${progressPath}\n`);
+      void tick();
+      interval = setInterval(() => {
+        void tick();
+      }, intervalMs);
+    },
+    async stop() {
+      if (stopped) return;
+      if (interval) clearInterval(interval);
+      await tick();
+      stopped = true;
+      if (enabled && isTty && lastLine) stream.write("\n");
+    },
+  };
+}
+
 export function summarizeReport(report) {
   if (!report.counts) return report;
   return {
@@ -252,6 +423,7 @@ export function summarizeReport(report) {
     dataviewBlocks: report.counts.dataviewBlocks,
     dataviewJsBlocks: report.counts.dataviewJsBlocks,
     inlineExpressions: report.counts.inlineExpressions,
+    headersRegenerated: report.counts.headersRegenerated,
     unsupported: report.counts.unsupported,
     errors: report.counts.errors,
     remaining: {
@@ -275,20 +447,52 @@ async function main() {
     vaultTarget: args.obsidianVault,
   });
   const obsidianCommand = await resolveObsidianCommand(args.obsidianCommand);
-
-  await runObsidianCli(obsidianCommand, obsidianArgs, {
-    cwd: vaultPath,
-    timeoutMs: args.timeoutMs + 30000,
+  const progressMonitor = createProgressMonitor(`${reportPath}.progress.json`, {
+    enabled: args.progress,
+    intervalMs: args.progressIntervalMs,
   });
 
-  if (!args.wait) {
-    console.log(`Report path: ${reportPath}`);
-    return;
+  if (args.progress) {
+    process.stderr.write(
+      [
+        `Materializing: request ${request.id}`,
+        `Materializing: vault ${vaultPath}`,
+        request.config.outputPath ? `Materializing: output ${request.config.outputPath}` : undefined,
+        `Materializing: report ${reportPath}`,
+        `Materializing: header type ${request.config.headerType}`,
+        `Materializing: launching ${obsidianCommand}`,
+      ]
+        .filter(Boolean)
+        .join("\n") + "\n",
+    );
   }
 
-  const report = await waitForReport(reportPath, args.timeoutMs, request.id);
-  console.log(JSON.stringify(summarizeReport(report), null, 2));
-  process.exitCode = report.exitCode || 0;
+  progressMonitor.start();
+  try {
+    await runObsidianCli(obsidianCommand, obsidianArgs, {
+      cwd: vaultPath,
+      timeoutMs: args.timeoutMs + 30000,
+      onStdout: args.obsidianOutput
+        ? (text) => writePrefixedLines(process.stderr, "Obsidian CLI: ", text)
+        : undefined,
+      onStderr: args.obsidianOutput
+        ? (text) => writePrefixedLines(process.stderr, "Obsidian CLI: ", text)
+        : undefined,
+    });
+
+    if (!args.wait) {
+      await progressMonitor.stop();
+      console.log(`Report path: ${reportPath}`);
+      return;
+    }
+
+    const report = await waitForReport(reportPath, args.timeoutMs, request.id);
+    await progressMonitor.stop();
+    console.log(JSON.stringify(summarizeReport(report), null, 2));
+    process.exitCode = report.exitCode || 0;
+  } finally {
+    await progressMonitor.stop();
+  }
 }
 
 function sleep(ms) {
