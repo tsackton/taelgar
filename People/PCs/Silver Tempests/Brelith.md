@@ -33,7 +33,6 @@ Spurred by this encounter to seek greater glories, the old priest told Brelith t
 
 ## Chronology of Brelith's Life
 
-- (DR:: 1707): Brelith is born in [[Zarkandur]]
 - (DR:: 1745-05-22): Brelith leaves [[Zarkandur]] to seek adventure and excitment
 - (DR:: 1745-07-11): Brelith meets [[Cato Stormtouched]] on the road in the [[Chasa River Valley]], and begins traveling with him. 
 - (DR:: 1746-12-09): Brelith saves [[Cato Stormtouched]] from a bandit ambush in the [[Myraeni Gap]]. 
