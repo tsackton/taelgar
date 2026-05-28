@@ -4,7 +4,7 @@ tags: [meta]
 dm_owner: joint
 dm_notes: none
 ---
-# Playing a Halfing
+# Playing a Halfling
 *See more: [[Halflings]], [[First Ones]]*
 D&D Beyond Link: [Halfling](https://www.dndbeyond.com/species/1755936-halfling)
 

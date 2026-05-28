@@ -33,7 +33,7 @@ dm_notes: important
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 22th, 1748 [[The Thirsty Scholar]], [[Chardon]] %%^End%%  
 >> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 21th, 1748 in [[Darba]], [[Dunmar]] %%^End%%  
->> %%^Campaign:dufr%% Received a [[Letter from Dee WIldcloak]] on November 15th, 1748 %%^End%%
+>> %%^Campaign:dufr%% Received a [[Letter from Dee Wildcloak]] on November 15th, 1748 %%^End%%
 
 Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon. 
 ## Relationships
