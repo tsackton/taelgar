@@ -8,14 +8,12 @@ The Dunmari Frontier Campaign tells the story of the adventures of [[Delwath]], 
 The events begin in the 191st year of the Nayan Dynasty in Dunmar, or DR 1748 as the Chardonians reckon, in the village of [[Karawa]] in [[Eastern Dunmar]]. Since their humble beginnings fighting gnolls, the [[Dunmar Fellowship]] has grown to a powerful force. 
 
 You might start with:
-- The index of session notes: [[Great Library Session Tracking]]
+- The index of session notes: [Sessions](<sessions.md)
 - A timeline of campaign events: [[Dunmari Frontier Timeline]]
 - A list of treasure gained: [[Party Treasure]]
 - The index of visions seen in the [[Mirror of the Past]]: [[Mirror Visions]]
 - Information about [[Vindristjarna]], its [[Vindristjarna Mechanics|control mechanics]] and its [[Vindristjarna Bastion Rules|special facilities]].
 - Information about [[Dunmar Fellowship Associates|companions, followers, and hirelings]]. 
-
-The most recent session with published notes is [[Session 130 (DuFr)]]. 
 
 %%^Campaign:none%%
 

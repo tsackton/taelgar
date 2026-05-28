@@ -14,13 +14,13 @@ players:
   - Ekko
   - Justas
 companions: []
-name: Into the Chasm - Episode 2
+name: Into the Chasm - Episode 02
 descTitle: The Labyrinth
 tagline: in which the party navigates an ever-shifting maze
 sessionKey: into-the-chasm-session-2
 session-template: into-the-chasm-template.md
 ---
-# Into the Chasm - Episode 2
+# Into the Chasm - Episode 02
 
 >[!info] The Labyrinth: in which the party navigates an ever-shifting maze
 > *Featuring: [[Finnan Oakstride|Finnan]], [[Jrain Fanlish|Jrain]], [[Eolo]], [[Ekko]], [[Justas Rhostrin|Justas]]*

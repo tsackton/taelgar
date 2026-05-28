@@ -9,4 +9,4 @@ dm_notes: none
 
 This section collects public pages about characters, peoples, organizations, and other significant figures in Taelgar.
 
-For player characters, start with [[PCs]]. For cultures and NPCs, use the navigation or search to browse by group, origin, or role.
+Use the navigation or search to browse by culture, origin, organization, or role. Player characters are collected under their campaigns.

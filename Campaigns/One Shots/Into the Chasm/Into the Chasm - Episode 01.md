@@ -14,13 +14,13 @@ players:
   - Ekko
   - Justas
 companions: []
-name: Into the Chasm - Episode 1
+name: Into the Chasm - Episode 01
 descTitle: Into the Chasm
 tagline: in which a storm flings five strangers into Zeyfa's maze
 sessionKey: into-the-chasm-session-1
 session-template: into-the-chasm-template.md
 ---
-# Into the Chasm - Episode 1
+# Into the Chasm - Episode 01
 
 >[!info] Into the Chasm: in which a storm flings five strangers into Zeyfa's maze
 > *Featuring: [[Finnan Oakstride|Finnan]], [[Jrain Fanlish|Jrain]], [[Eolo]], [[Ekko]], [[Justas Rhostrin|Justas]]*

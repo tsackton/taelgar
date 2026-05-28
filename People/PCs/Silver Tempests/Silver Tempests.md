@@ -22,10 +22,10 @@ The original members of the Silver Tempests are:
 - [[Aelar]], an elven shadow monk, who grew up an orphan wandering around Chardon, and has since grown so stealthy that he disappeared into the background
 
 Recently, the Silver Tempests have been joined by:
-- [[Alton]], a halfling rogue and proprietor of a dive bar outside [[Voltara]] known for offering recreational axe throwing to its patrons. Alton was originally hired by [[Lyra]] and traveled briefly with the Silver Tempests in their early days, but left her service and traveled alone for some time before rejoining the group in the [[Goldpeak Mines]].
 - [[Mabist]], a changeling warlock from the [[Feywild]], with a mysterious past
 - [[Blue]], a mysterious traveler
 
-The Silver Tempests traveled with two other adventurers in the past:
-- [[Scordith]], a human sorcerer, who briefly joined the Silver Tempests on a few early quests; and
-- [[Aglath]], a stoneborn warrior, who was born far away, and left to find his kin in the [[Sentinel Range|Sentinels]]
+The Silver Tempests traveled with three other adventurers in the past:
+- [[Scordith]], a human sorcerer, who briefly joined the Silver Tempests on a few early quests;
+- [[Aglath]], a stoneborn warrior, who was born far away, and left to find his kin in the [[Sentinel Range|Sentinels]] before turning to a life of crime;
+- [[Alton]], a halfling rogue and proprietor of a dive bar outside [[Voltara]] known for offering recreational axe throwing to its patrons. Alton was originally hired by [[Lyra]] and traveled briefly with the Silver Tempests in their early days, but left her service and traveled alone for some time before rejoining the group in the [[Goldpeak Mines]].

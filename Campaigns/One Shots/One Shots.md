@@ -1,6 +1,7 @@
 ---
 tags: [meta]
 hide: [toc]
+excludePublish: ["all"]
 ---
 
 A variety of other adventures have occurred in the world of Taelgar, which are described here. 

@@ -13,13 +13,13 @@ players:
   - Eolo
   - Ekko
   - Justas
-name: Descent Through the Broken Mechanism
+name: Into the Chasm - Episode 05
 descTitle: The God Caller Below
 tagline: in which Eidrikas sends them under
 sessionKey: into-the-chasm-session-5
 session-template: into-the-chasm-template.md
 ---
-# Descent Through the Broken Mechanism
+# Into the Chasm - Episode 06
 
 >[!info] The God Caller Below: in which Eidrikas sends them under
 > *Featuring: [[Finnan Oakstride|Finnan]], [[Jrain Fanlish|Jrain]], [[Eolo]], [[Ekko]], [[Justas Rhostrin|Justas]]*
