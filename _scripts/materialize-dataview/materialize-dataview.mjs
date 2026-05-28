@@ -7,8 +7,7 @@ import { spawn } from "node:child_process";
 import { fileURLToPath } from "node:url";
 
 const PLUGIN_ID = "taelgar-dataview-materializer";
-const DEFAULT_OBSIDIAN_COMMAND = "obsidian";
-const MACOS_OBSIDIAN_CLI = "/Applications/Obsidian.app/Contents/MacOS/obsidian";
+const DEFAULT_OBSIDIAN_COMMAND = "obsidian-cli";
 
 export function parseArgs(argv) {
   const args = {
@@ -89,7 +88,7 @@ Options:
   --block-timeout SECONDS
                     Per-block Dataview render timeout. Default: 30.
   --obsidian-command PATH
-                    Official Obsidian CLI command. Defaults to OBSIDIAN_COMMAND or "obsidian".
+                    Official Obsidian CLI command. Defaults to OBSIDIAN_COMMAND or "obsidian-cli".
   --obsidian-vault NAME_OR_ID
                     Optional explicit Obsidian vault target. By default the CLI runs with
                     the source vault as its working directory.
@@ -227,21 +226,6 @@ export async function runObsidianCli(command, args, options = {}) {
       finish(reject, new Error(`Obsidian CLI failed with ${suffix}`));
     });
   });
-}
-
-export async function resolveObsidianCommand(command) {
-  if (command !== DEFAULT_OBSIDIAN_COMMAND) return command;
-
-  if (process.platform === "darwin") {
-    try {
-      await fs.access(MACOS_OBSIDIAN_CLI);
-      return MACOS_OBSIDIAN_CLI;
-    } catch {
-      // Fall through to PATH lookup for nonstandard installs.
-    }
-  }
-
-  return command;
 }
 
 export async function waitForReport(reportPath, timeoutMs, expectedId) {
@@ -446,7 +430,7 @@ async function main() {
     code,
     vaultTarget: args.obsidianVault,
   });
-  const obsidianCommand = await resolveObsidianCommand(args.obsidianCommand);
+  const obsidianCommand = args.obsidianCommand;
   const progressMonitor = createProgressMonitor(`${reportPath}.progress.json`, {
     enabled: args.progress,
     intervalMs: args.progressIntervalMs,
