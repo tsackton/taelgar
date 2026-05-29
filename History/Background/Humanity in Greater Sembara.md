@@ -77,7 +77,7 @@ So you get basically three diverging languages -- Zimka, Old Tollish, Skaer -- t
 
 * The Zimka, as they came to be known, spread across three distinct regions: the foothills near the headwaters of the [[Volta]] and the [[Lavnoch Plateau]]; the upper [[Semb]] valley; and the [[Volta]] river valley and the forests it passes through
 * The Skaer, dedicated to the ocean, settled on their islands and dominating the sea and the immediate coasts
-* The Tollish culture, a blend of the Skaer and Zimka, speaking a Eastros language but worshipping different gods than the Skaer brethern either kestavo or something kestavo like, or a pantheon that died out during the Downfall, which came to dominate the lower Semb, the lower Volta, and the Teft river valleys. Tollen itself could have been seen as Tollish, or it could be seen as Skaer, I'm not sure the distinction is really important at this ancient date
+* The Tollish culture, a blend of the Skaer and Zimka, speaking a Eastros language but worshipping different gods than the Skaer brethren either kestavo or something kestavo like, or a pantheon that died out during the Downfall, which came to dominate the lower Semb, the lower Volta, and the Teft river valleys. Tollen itself could have been seen as Tollish, or it could be seen as Skaer, I'm not sure the distinction is really important at this ancient date
 %%
 
 Exactly what is happening Vostok at this time is unclear. 

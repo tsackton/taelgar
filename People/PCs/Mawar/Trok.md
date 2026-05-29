@@ -26,5 +26,3 @@ He grew up in a nearby lizardfolk salt marsh village, a promising young star. Th
 He was also very close to his great-grandmother, [[Sokara]], a legendary tattoo artist. She taught him to master the delicate art of making the tattoo inks and breathing magic into finely stippled designs on the scales. This work is often traditionally done under the influence of a carefully controlled dose of the ritual preparation of gatza tea, to allow the voices of the ancestors to guide the magic in the inks. 
 
 When she passed on Trok was despondent, quit fighting, and turned to gatza. Moving away from home, he befriended [[Ryu]], a local human hunter, who helped him find better sources of gatza closer to the sea. For a time he lived alone on the beach, addicted to gatza, trying to reach [[Sokara]], his health wasting away. Gradually he developed relationships with some of the humans of the town, partially emerged from his haze, and came to serve a role as a sea watcher, using his extraordinary powers to make rescues, salvage wrecks, and defend the harbor.
-
-%%

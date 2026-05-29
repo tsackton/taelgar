@@ -18,3 +18,5 @@ Some more info in my head from the sessionwhere PCs met him that is crucial to h
 
 
 ![[bartholomew-meeke.jpg|400]]
+
+%%

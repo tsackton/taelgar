@@ -27,7 +27,7 @@ Founded as a small outpost of the [[Drankorian Empire]] more than 1000 years ago
 
 ![[chardon-towers-1.png|right|400]]As the coastal fog lifts, the first thing you see is the great black bulk of [[Mount Nera]] looming over the city to the north, the occasional glint of light highlighting the obsidian flows that dot the distant slopes of this long extinct volcano. A spur of [[Mount Nera]] cuts south towards the [[Chasa|Chasa River]], which spreads into a wide estuary and fertile floodplain towards the coast to the west. 
 
-The bustle of the busy port on the [[South Bank]] dominates the soundscape of the city - the cries of sailors, the crack and snap of rigging and sails being set, the creak of ships sailing on the morning tide. Downriver of the mercantile wharves rises the Arsenal’s inner mole, sealing off a separate naval basin whose slipways are hidden from prying eyes..
+The bustle of the busy port on the [[South Bank]] dominates the soundscape of the city - the cries of sailors, the crack and snap of rigging and sails being set, the creak of ships sailing on the morning tide. Downriver of the mercantile wharves rises the Arsenal’s inner mole, sealing off a separate naval basin whose slipways are hidden from prying eyes.
 
 On the [[North Bank]] of the river, in the shadow of [[Mount Nera]], weirs and waterworks are mixed with numerous short, squat buildings of black stone, emitting an acrid stench. These are the [[chalyte]] refineries, the source of much of Chardon's wealth, the buildings where the dirty and dangerous work of turning the raw chalyte ore shipped from the north into precious fuel for the magical works of the city takes place. Few live by choice amongst the dirt and stench of these refineries, but this doesn't stop the spread of slums along the [[North Bank]], filled with those who have no other options, hemmed in by the chalyte works downriver, and the walled estates upriver, beyond the spur of [[Mount Nera]] that shelters the rich from the noise and stink of the refineries. 
 
@@ -126,7 +126,7 @@ Praecanti Primis -> the magistros personal mageguard and fundamental source of p
 
 So: the Magistros runs the city in the name of the Empire, is the commander of the Praecanti Primis and the Praecanti Vigiles, and has the power to appoint individuals to positions in the bureaucracy.
 
-Chancellors control varies aspects of the city (Chancellor of the Navy, Chancellor of Coin, Chancellor of the Guard traditionally an office held by the Magistros Chancellor of Libraries, Chancellor of ….)
+Chancellors control varies aspects of the city (Chancellor of the Navy, Chancellor of Coin, Chancellor of the Guard traditionally an office held by the Magistros Chancellor of Libraries, Chancellor of ...)
 
 
 Details of the civil administration not super important to work out, but feeling should be lines of hierarchy, etc.

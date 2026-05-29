@@ -25,4 +25,3 @@ That would suggest that broadly, there are three types of Powers:
 * Everything else
 
 (This ignores the Divine Presence as not categorizable, and in fact perhaps best thought of as just "the mind of soulstuff" or something like that)
-%%

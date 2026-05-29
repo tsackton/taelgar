@@ -26,5 +26,3 @@ dm_notes: important
 *Until another shattered melody starts, has started, will start, the broken songs of those yearning for madness. In the desert they howl, howled, will howl, incoherent, until their howls grow to a chorus, a symphony, and suddenly join in awful harmony. A leader sees, saw, will see, and binds the cacophony to a purpose. An old purpose, renewed, under the light of the Betrayer Moon, the Mad One to summon, a curse to spread.*
 
 *But the howls are trapped, for the mystical will of the people of the land of the desert is strong, was strong, will be strong.*
-
-%%

@@ -260,6 +260,30 @@ def line_snippet(line: str, max_length: int = 140) -> str:
     return stripped[: max_length - 1] + "..."
 
 
+def match_context_snippet(line: str, match: re.Match[str], word_window: int = 5) -> str:
+    spans = list(re.finditer(r"\S+", line))
+    if not spans:
+        return line_snippet(line)
+
+    match_idx = 0
+    for idx, span in enumerate(spans):
+        if span.start() <= match.start() < span.end():
+            match_idx = idx
+            break
+        if span.start() > match.start():
+            match_idx = idx
+            break
+
+    start_idx = max(0, match_idx - word_window)
+    end_idx = min(len(spans), match_idx + word_window + 1)
+    snippet = " ".join(span.group(0) for span in spans[start_idx:end_idx])
+    if start_idx > 0:
+        snippet = "... " + snippet
+    if end_idx < len(spans):
+        snippet += " ..."
+    return snippet
+
+
 def escape_markdown_cell(value: object) -> str:
     text = str(value).replace("\n", " ").strip()
     return text.replace("|", "\\|")
@@ -545,7 +569,8 @@ def check_typos(
             continue
 
         for pattern, suggestion, label in TYPO_PATTERNS:
-            if pattern.search(line):
+            match = pattern.search(line)
+            if match:
                 issues.append(
                     Issue(
                         severity="warn",
@@ -553,7 +578,7 @@ def check_typos(
                         path=rel_path,
                         line=line_number,
                         message=label,
-                        snippet=line_snippet(line),
+                        snippet=match_context_snippet(line, match),
                         suggestion=suggestion,
                     )
                 )
@@ -627,7 +652,7 @@ def check_markdown_polish(
                     path=rel_path,
                     line=line_number,
                     message=f"Repeated word: {word}",
-                    snippet=line_snippet(line),
+                    snippet=match_context_snippet(line, repeated),
                     suggestion="Remove one copy if this is accidental.",
                 )
             )
