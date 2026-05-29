@@ -66,6 +66,6 @@ Single adventures, typically running between one and four sessions.
 
 #### Not Canonical
 
-- Informatics One Shot. Set in an ambiguous DR 1700s time frame, in the Sembara Highlands. Two sessions, finished. Level 2-3. Some notes exist in OneNote, based on a mismash of two published adventures. 
+- Informatics One Shot. Set in an ambiguous DR 1700s time frame, in the Sembara Highlands. Two sessions, finished. Level 2-3. Some notes exist in OneNote, based on a mishmash of two published adventures. 
 - Tollen One Shots. Not canonical, primarily because details are poorly recorded. Set in an ambiguous 1700s time frame. Two sessions (one D&D, one FATE), finished. Low level. Episode 1 is recorded and could be transcribed and made canonical. Other notes exist in OneNote. 
 - Taelgar 2.0 Alexandria One Shot. Not canonical, although possibly canonical in an alternate timeline. Run in Alexandria in 2019, set in an alternate version of the Blood Years. GURPS rules, self-insert characters. Finished. Some notes might exist on paper. 

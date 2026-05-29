@@ -19,5 +19,3 @@ The [[Muddy River (Tollen)|Muddy River]], a straightened drainage-channel runnin
 The [[Carnbrook]] runs through [[Nordgate]], and then along the dividing line between [[Bridgeward]] and [[Aesganstrad]]. It is a small brook that vanishes into covered culverts in the city. 
 
 East of the city is the [[Greywash]], a broad, silty, tidally-influenced tributary of the [[Volta]], prone to flooding. A large marshlands spreads along the confluence of the Volta and the Greywash, forming a major barrier to eastward expansion of the city. 
-
-%%

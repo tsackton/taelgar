@@ -10,4 +10,4 @@ An older document suggests that there were significant wars on the eastern front
  
  >However, despite a clear victory, the Drankorians did not seek to expand east. The land beyond the mountains was barren and empty, rugged unpopulated wastelands unsuitable for farming, and even the shores of the [[Green Sea]] were largely empty. The nomadic Dunmari and other desert people traveled through this land occasionally, but the civilization growing in the coastal lands abandoned by the lizardfolk during the Downfall is more than 1000 miles away  and the Drankorians did not push far into the wastes of ~NAME~. 
 
-%%Mike note:  Assume the "civilization growing in the coastal lands..." is some flavor of the "MTP civilization" or the "HK civilization%% %%
+%% Mike note:  Assume the "civilization growing in the coastal lands..." is some flavor of the "MTP civilization" or the "HK civilization %%

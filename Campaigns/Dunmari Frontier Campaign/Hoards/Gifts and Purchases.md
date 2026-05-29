@@ -46,7 +46,7 @@ typeOf: hoard
 ### From the Skaer of Pyhlla
 - A enchanted oyster shell that allows the Divination spell to be cast once, acquired from the Skaer as thanks for defeating the demon of Vetta.
 - 5 pounds [[Skaer Steel]], gifted by the Skaer.
-- Four large pearls, gifted by the Skaer %% SECRET rare %%
+- Four large pearls, gifted by the Skaer %%SECRET[3]%%
 ## Purchases
 
 **Te'kula village**

@@ -135,8 +135,7 @@ The party prepares to leave [[Apollyon's tower]], making important decisions abo
 - Wellby uses the Chime of Opening to open the locked book, and is hit with a Befuddlement spell. Resisting the worst effects of the spell, he turns the book over to [[Seeker]], who learns it contains notes about the use of the forge and about lich transformations, though much of it is written in cipher.
 - The party takes some time to decipher parts of the notes, discovering that using the forge requires giving up their highest-level spell slot for a week or more, with the quality of the item created depending on the power sacrificed.
 - The group decides to teleport back to [[Dimitaur]], who immediately uses a Wand of Fireballs to destroy the necromancy book. 
-- The party rests, preparing to plan their approach to [[Ra'ghemdros]] in the morning. 
-
+- The party rests, preparing to plan their approach to [[Ra'ghemdros]] in the morning.
 ## Raw Notes
 - Kenzo senses area again; party decides to go west to [[Apollyon's Tower]]
 - use Animals Shapes to turn into ospreys

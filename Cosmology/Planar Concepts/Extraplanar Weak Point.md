@@ -23,7 +23,7 @@ While a full catalog of extraplanar weak points does not exist, some notable and
 - In the lizardfolk jungle realm of [[Orekatu]], there is place known as the [[Azta Lekua|Footprint of the Gods]], where supposedly the separation of the planes during the [[Riving]] was incomplete, and the elemental energy of the [[Energy Realms]] leaks into the material plane.
 - At the old Drankorian ruin known as the [[Elemental Forge]], on the [[Freccilia]] River in [[Cymea]], an extraplanar weak point to the [[Energy Realms]] was maintained by a bound elemental creature known as [[Sh’shethis]], until the bonds were broken and the creature freed by the [[Dunmar Fellowship]] in DR 1749.
 - Somewhere in the mountains south of [[Cedrano]], there are rumors of an extraplanar weak point connected to some kind of [[Shadowfolds]] domain, or possibly the hypothesized [[Negative Energy Plane]], associated somehow with the [[War of the Dark Rift]].
-%%^Campaign:End%%
+%%^End%%
 
 %%^Campaign:none%%
 
@@ -42,4 +42,4 @@ A few not-quite-canonical notes:
 - Extraplanar weak points shouldn't make planar travel easier. These are not closed portals - the planar dualists metaphor gets the vibe right. Notably, this makes them very distinct from fey gates or other kinds of "fey areas" where people sometimes vanish into the feywild. These are probably something unique, more akin to [[Elemental Vortex|elemental vortexes]] than extraplanar weak points (I think [[Ishara Venn]] is probably wrong as [[Elemental Vortex|elemental vortexes]] allow travel, and extraplanar weak points don't). See [[Planar Connections]] for more. 
 - Extraplanar weak points should make the nearby area kind of like in some ways the plane they are connected to. They should generally be dangerous, although there can be exceptions. 
 
-%%
+%%^End%%

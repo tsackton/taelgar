@@ -14,6 +14,8 @@ from typing import Iterable, Sequence
 
 
 SKIP_SUBTREES = {
+    ("Campaigns", "Cleenseau Campaign", "Celyn's Stories"),
+    ("Campaigns", "Cleenseau Campaign", "Raw Emails"),
     ("Worldbuilding", "Chats and Emails"),
 }
 
@@ -81,7 +83,6 @@ EXPORT_MARKER_PATTERN = re.compile(
 GENERIC_COMMENT_DELIMITER = "%%"
 REPEATED_WORD_PATTERN = re.compile(r"\b([A-Za-z][A-Za-z'-]*)\s+\1\b", re.IGNORECASE)
 DOUBLE_PERIOD_PATTERN = re.compile(r"(?<!\.)\.\.(?!\.)")
-H1_PATTERN = re.compile(r"^#\s+\S")
 
 
 @dataclass(frozen=True)
@@ -565,7 +566,6 @@ def check_markdown_polish(
     frontmatter_span: tuple[int, int] | None,
 ) -> list[Issue]:
     issues: list[Issue] = []
-    has_h1 = False
     in_code_fence = False
 
     for line_number, line in numbered_lines:
@@ -575,8 +575,6 @@ def check_markdown_polish(
             continue
         if in_code_fence:
             continue
-        if H1_PATTERN.match(stripped):
-            has_h1 = True
         if is_in_span(line_number, frontmatter_span):
             continue
 
@@ -633,18 +631,6 @@ def check_markdown_polish(
                     suggestion="Remove one copy if this is accidental.",
                 )
             )
-
-    if not has_h1:
-        issues.append(
-            Issue(
-                severity="info",
-                check="missing-h1",
-                path=rel_path,
-                line=1,
-                message="Note has no top-level H1 heading",
-                suggestion="Add a # heading if this note is meant to publish as a page.",
-            )
-        )
 
     return issues
 
@@ -865,7 +851,7 @@ def render_markdown(
     total_issue_count: int,
     limit: int,
     title: str = "Vault Quality Scan",
-    scope_description: str = "skips dot directories, underscore directories, and `Worldbuilding/Chats and Emails`",
+    scope_description: str = "skips dot directories, underscore directories, and configured raw-material subtrees",
     extra_summary: Sequence[str] = (),
 ) -> str:
     visible = list(issues)

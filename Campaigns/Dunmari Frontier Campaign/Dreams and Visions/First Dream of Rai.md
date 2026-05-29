@@ -5,7 +5,7 @@ tags: [source]
 # First Dream of Rai
 (shared by [[Alayah]] and [[Kenzo]] in the [[~Te'kula village~|Te'kula village]])
 
-​​You are kneeling in the mountains, above a monastery, watching a massive dragon of shadow and fire fall. Your arm is so heavy, as the [[Jade Piece of Rai's Hand|jade]] that has covered your hand now spreads, creeping past your elbow, inexorably heading for your shoulder and eventually the rest of your body. You do not know how much longer you have.
+You are kneeling in the mountains, above a monastery, watching a massive dragon of shadow and fire fall. Your arm is so heavy, as the [[Jade Piece of Rai's Hand|jade]] that has covered your hand now spreads, creeping past your elbow, inexorably heading for your shoulder and eventually the rest of your body. You do not know how much longer you have.
 
 You can feel the reverberations of the death of this creature all around you - the land underneath your feet buckling and shifting, the snapping and twisting of far away portals closing, wards and glyphs that [[Cha'mutte]] had created fracturing.
 

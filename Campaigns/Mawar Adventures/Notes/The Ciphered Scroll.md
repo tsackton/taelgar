@@ -23,7 +23,7 @@ tags: [source]
  
 %%SECRET[4]%%
  
-*(5) This entry is particularly shaky and hard to read, and the end is smeared and indecipherable.* Nadine has been quiet for so long. I hope she is okay, I pray that she is still with our boys and they are surviving together. I have been deep in the wilderness searching for the source of the Sulqat for so long, so far from the ocean, so far from civilization. I did not realize how lonely the adventuring life would be, with only the mad dreams of Gazankoa for company. Why can Nadine not speak to me here? I must return soon, I …..
+*(5) This entry is particularly shaky and hard to read, and the end is smeared and indecipherable.* Nadine has been quiet for so long. I hope she is okay, I pray that she is still with our boys and they are surviving together. I have been deep in the wilderness searching for the source of the Sulqat for so long, so far from the ocean, so far from civilization. I did not realize how lonely the adventuring life would be, with only the mad dreams of Gazankoa for company. Why can Nadine not speak to me here? I must return soon, I …
 
 %%SECRET[5]%%
  

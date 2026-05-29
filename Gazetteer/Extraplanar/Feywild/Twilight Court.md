@@ -24,4 +24,4 @@ i think an interesting vibe for that would be for it to be kind of neutral groun
 yeah, I was envisioning something like that
 
 I don't expect it is _exactly_ every 25 years; 25 years before 1749 is 1724, which is close enough to my game I could plausibly have one, but also easily enough to say it was in 1718 or 1726 if needed
-%
+%%

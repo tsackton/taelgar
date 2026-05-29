@@ -136,7 +136,7 @@ Among the recovered scrolls are trade records and manifests detailing [[Drankori
 - The party ventures deeper into the Custom House, encountering a large room with intact walls and shafts of light streaming through holes in the roof.
 - The room is dominated by a swirling red mist, occasionally forming into ominous shapes, with a pile of bones and a strangely preserved wooden chest in the far corner.
 - Sensing danger, the group debates whether to engage the mist or attempt to bypass it.
-- Kenzo detects a faint connection to [[Khemut of Targu]] from the chest but no immediate link to [[Minarith]], the peronar..
+- Kenzo detects a faint connection to [[Khemut of Targu]] from the chest but no immediate link to [[Minarith]], the peronar.
 - Delwath casts *Banishment* on the mist, successfully dispersing it temporarily.
 - With the mist banished for one minute, the party acts quickly to investigate the chest.
 - The chest is a large, magically preserved cabinet containing hundreds of scrolls.
