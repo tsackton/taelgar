@@ -39,21 +39,21 @@ markerTag: location-source
 
 This is a world of old roads, young empires, fortified frontiers, and mountain kingdoms, where the scars of old wars still touch the land and heroes are needed to defend against evil. Settled regions include: 
 
-- In the west, the [[Chardonian Empire]] rules from [[Chardon]], a vast city of scholars, soldiers, wizards, civic works, and dangerous ambition. Chardon is the greatest center of arcane learning in the west, and its power rests on the legions, the [[Great Library]], and the wealth of magical industry.
-- Around and beyond the Chardonian frontier live older northerner peoples. The [[Deno'qai]] inhabit forests and foothills near the [[Sentinel Range]], keeping their own languages, villages, and [[Tanshi Worship|small-gods religion]]. On the rocky [[Mawakel Peninsula]], the [[Mawar Confederacy|Mawar]] live from the sea, proud of their independence and their old coastal traditions.
+- In the west, the [[Chardonian Empire]] rules from [[Chardon]], a vast city of scholars, soldiers, and dangerous ambition. Chardon is the greatest center of arcane learning in the west, and its power rests on the [[Chardonian Legion]], the powerful magic of its academic institutions, and the wealth of its magical industry powered by [[Chalyte]]. 
+- Beyond the Chardonian frontier live the northerner peoples. The [[Deno'qai]] inhabit forests and foothills near the [[Sentinel Range]], keeping their own language and [[Tanshi Worship|small-gods religion]]. On the rocky [[Mawakel Peninsula]], the [[Mawar Confederacy|Mawar]] live from the sea, proud of their independence and their old coastal traditions.
 - The forests between Chardon and the [[Sentinel Range]] preserve the memory of [[Ainumarya]], once a great elven land. Since the [[Great War]], many elven places have fallen silent, and most humans know the [[Elves]] more from stories than from daily life.
 - South of Chardon, the [[Nevos Sea]] links the empire to [[Illoria]], a seafaring island protectorate only recently brought under Chardonian rule.
 - The [[Sentinel Range]] runs for more than 2,000 miles, dividing the western coast from the [[Green Sea]] lands. The greatest [[Dwarven Kingdoms]] lie among and beneath these mountains, and many [[Stoneborn]] communities keep to the high places.
-- South of the Sentinels lies [[Dunmar]], a theocratic monarchy of temples, horses, herders, farmers, and seasonal monsoon rains. The Dunmari remain united by devotion to the [[Dunmari Religion|Five Siblings]], though the realm is culturally divided between settled western regions and more nomadic central and eastern lands.
+- South of the Sentinels lies [[Dunmar]], an arid land and theocratic monarchy of horse lords and herders, sustained by the seasonal monsoon rains. The Dunmari remain united by devotion to the [[Dunmari Religion|Five Siblings]], though the realm is culturally divided between settled western regions and more nomadic central and eastern lands.
 - East of the Sentinels and along the [[Western Gulf]] is [[Sembara]], a fertile hereditary monarchy, the breadbasket of the [[Green Sea]] and still remembered for its strong armies and landed knights that helped win the [[Great War]]. 
-- North of Sembara, the [[Tollen|Free City of Tollen]] sits on the [[Volta]], ruled by guilds and enriched by dyes, cloth, ships, tattoos, and extensive trade networks. Across the gulf, [[Cymea]] is a region of proud coastal city-states, still maritime and still ambitious, though no single Cymean power rules the sea as once it did.
-- Farther north, [[Vostok]] is a cold, river-crossed land of forests, clans, and scattered settlements, while [[Skaerhem]] is a stormy island region shaped by the sea and the ancient worship of [[Kaikkea]].
+- North of Sembara, the [[Tollen|Free City of Tollen]] sits on the [[Volta]], ruled by guilds and enriched by dyes, cloth, ships, tattoos, and extensive trade networks. Across the gulf, [[Cymea]] is a region of proud coastal city-states, still maritime and still ambitious, though no longer the dominant maritime power it once was. 
+- Farther north, [[Vostok]] is a cold, river-crossed land of forests and scattered settlements, while [[Skaerhem]] is a stormy island region shaped by the sea and the ancient worship of [[Kaikkea]].
 
 To the east, south, and north, and perhaps even across the [[Endless Ocean]] to the west, stranger lands exist in rumor and imagination. Few common folk of northwestern Taelgar have met anyone from those distant places.
 
 ## History
 
-Taelgar's oldest histories are half myth and half theology. In the first ages of the world, the gods and other powers shaped the multiverse, and the oldest peoples came into being: [[Elves]], [[Dwarves]], [[Halflings]], [[Lizardfolk]], [[Stoneborn]], and stranger beings whose histories are less familiar to human scholars. Much later, [[Humans]] arose on the island of [[Hkar]], where they developed the Divine Spark: the mysterious power of human belief to shape and sustain gods.
+Taelgar's oldest histories are half myth and half theology. In the first ages of the world, the gods and other powers shaped the multiverse, and the oldest peoples came into being: [[Elves]], [[Dwarves]], [[Halflings]], [[Lizardfolk]], [[Stoneborn]], and stranger beings whose histories are less familiar to human scholars. Much later, [[Humans]] arose on the island of [[Hkar]], gifted with the Divine Spark: the mysterious power of human belief to shape and sustain gods.
 
 Hkar was destroyed in a cataclysm remembered as [[The Downfall]]. Refugees founded the city of [[Drankor]], and from that beginning grew the [[Drankorian Empire]], a vast magical civilization that spread its language, scholarship, roads, law, and [[Mos Numena|religion]] across much of the known world.
 
@@ -61,7 +61,7 @@ Roughly seven hundred years ago, the [[First Plague]] destroyed [[Drankor]] and 
 
 Two hundred years ago, [[Cha'mutte]], an shadow wyrm of terrible power, tried to overthrow the gods. The [[Great War]] ended with [[Cha'mutte|Cha'mutte's]] defeat at [[Battle of Urlich Pass|Urlich Pass]] in DR 1545, but the victory came at a great cost. The [[Plaguelands]] mark one of the deepest scars of that war, and for generations afterward hobgoblin armies and other terrors haunted the borders of human realms.
 
-In the present age, the world is recovering. Chardon has become an empire, Sembara has rebuilt its farms and fortresses, Tollen and Cymea send ships across the [[Green Sea]], and Dunmar endures behind temples, armies, and divine protections. The frontiers remain dangerous, but the world that has emerged from the darkness is one of trade and hope.
+In the present age, the world is recovering. Chardon has become an empire, Sembara has rebuilt its farms and castles, Tollen sends ships across the [[Green Sea]], and Dunmar endures on changed lands behind its divine protections. 
 
 ## Inhabitants
 
