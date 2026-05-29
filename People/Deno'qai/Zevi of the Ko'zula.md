@@ -21,3 +21,5 @@ dm_notes: color
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Guide who brought [[Delwath]] to the Ko’zula village and later to meet [[Aristaea]] and [[Iascaire]].
+
+He is a younger boy, maybe 14 at most, learning the hunting trade. 
