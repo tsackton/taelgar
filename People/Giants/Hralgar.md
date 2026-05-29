@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/check/minor]
+tags: [person, testcase]
 campaignInfo:
 - {campaign: DuFr, date: 1748-11-23, format: "Freed from <current:2> by <person>, <target>"}
 name: Hralgar
@@ -20,8 +20,6 @@ dm_owner: tim
 > A [[Giants|giant]] (the [[Giants|storm giant]]) (he/him)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:DuFr%% Freed from [[Stormcaller Tower]], [[Eastern Dunmar]] by the [[Dunmar Fellowship]], November 23rd, 1748 %%^End%%
-
-%% check the timeline of the emperor's Hralgar mentioned, especially Akestan? %%
 
 An ancient storm giant, of great power, who could become a storm and travel across the world.
 

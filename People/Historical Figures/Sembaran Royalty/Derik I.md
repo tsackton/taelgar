@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/minor]
+tags: [person, status/review]
 name: Derik I
 born: 1396
 species: human
@@ -26,7 +26,6 @@ The founder of the [[House of Sewick]], he established modern Sembara at the [[T
 
 He had five children, and was succeeded by his second son, [[Derik II]].  His third child, Matilda, inherited the Duchy of Telham, and after his reign the Sembaran royalty no longer styled themselves "Dukes of Telham". 
 
-%% There might be some additional important information in backlinks which should be checked for, hence factcheck %%
-
+%% Important figure with more information in various linked notes and backlinks, so could probably use a review pass %%
 
 

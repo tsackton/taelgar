@@ -11,7 +11,7 @@ whereabouts:
 - {type: home, end: 1059, location: Apollyon}
 - {type: away, start: 1552, end: 1746, location: Kharsan, startFilter: "" }
 - {type: home, location: Fraternity of the Empty Moon, start: 1747, end: 1747-12-11}
-- {type: home, location: Agata, start: 1747-12-11, end: 1748-05-29}
+- {type: home, location: Agata, start: 1748-01-17, end: 1748-05-29}
 - {type: home, location: Dunmar Fellowship, start: 1748-05-29, end: 1748-12-24}
 - {type: away, location: Vetta, start: 1748-12-24, end: 1748-12-25}
 dm_notes: important
