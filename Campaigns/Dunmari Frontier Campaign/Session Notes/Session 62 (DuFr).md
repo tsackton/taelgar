@@ -18,7 +18,7 @@ descTitle: Aboleth's Demise
 > *On Earth: Friday Oct 28, 2022*
 > *Underwater lair in the [[~Eastern Ocean~]] near [[Wahacha]]*
 
-[[People/PCs/Dunmar Fellowship/Wellby]] and his companions successfully defeat an aboleth and its minions, liberating the enchanted prisoners.
+[[Wellby]] and his companions successfully defeat an aboleth and its minions, liberating the enchanted prisoners.
 
 ## Session Info
 

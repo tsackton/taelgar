@@ -22,6 +22,6 @@ From the market quarters along the [[Ket]] to the gatehouses of the lower city, 
 
 %%
 Meta/DM notes and campaign interactions:
-- Meetings and negotiations in [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 94 (DuFr)|DuFr 94]] (entry protocol, audience with Lena Sorokina; archives mentioned).
-- Related items: [[Campaigns/Dunmari Frontier Campaign/Treasure/Watcher's Dagger|Watcher’s Dagger]]; ongoing Okolov presence in city governance.
+- Meetings and negotiations in [[Session 94 (DuFr)|DuFr 94]] (entry protocol, audience with Lena Sorokina; archives mentioned).
+- Related items: [[Watcher's Dagger|Watcher’s Dagger]]; ongoing Okolov presence in city governance.
 %%

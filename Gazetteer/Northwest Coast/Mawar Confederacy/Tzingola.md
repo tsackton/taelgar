@@ -24,7 +24,7 @@ In DR 1747, a fire cultist used a hidden lair in the marsh north of [[Eskorola]]
 
 %%
 Source links:
-- [[Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 04|Mawar Adventures Episode 04]]
+- [[Mawar Adventures Episode 04]]
 - [[Eskorola]]
 - [[Mawar Ep 4 - DM Notes]]
 %%

@@ -34,6 +34,6 @@ He is a stout man typically wearing immaculate woolen clothes and carrying an ir
 - Counts softly under his breath; taps a stylus when anxious.
 
 ### PC Interactions
-- First met at the War Council at Three Wells (DR:: 1749-08-07): [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 130 (DuFr)|War Council at Three Wells]].
-- Received updates on enemy priorities following interrogations (same session): [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 130 (DuFr)|Council briefings]].
+- First met at the War Council at Three Wells (DR:: 1749-08-07): [[Session 130 (DuFr)|War Council at Three Wells]].
+- Received updates on enemy priorities following interrogations (same session): [[Session 130 (DuFr)|Council briefings]].
 %%

@@ -42,7 +42,7 @@ She is a middle-aged woman, sinewy, with dark skin and braided black-silver hair
 - Speaks of the Hunter's Blessing and looks to the skies unconsciously when seeking guidance.
 - Beryl cultist within the war council; privy to guarded truths regarding the Heartroot and its protection.
 ### PC Interactions
-- First met at the War Council at Three Wells (DR:: 1749-08-07): [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 130 (DuFr)|War Council at Three Wells]].
-- Later rites and counsel near the Heartroot (DR:: 1749-08-12): [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 134 (DuFr)|Rites at the Heartroot Vale]].
+- First met at the War Council at Three Wells (DR:: 1749-08-07): [[Session 130 (DuFr)|War Council at Three Wells]].
+- Later rites and counsel near the Heartroot (DR:: 1749-08-12): [[Session 134 (DuFr)|Rites at the Heartroot Vale]].
 
 %%

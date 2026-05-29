@@ -30,6 +30,6 @@ The surrounding waters are swift and deceptive. Local pilots favor anchoring in 
 %%
 Meta/DM notes and campaign interactions:
 - Normal state: Arryn present; wards set to “hospitable but cautious” (courtesy bell; threshold charms; steward reception). Mirror apparatus remains at the crown but is secured.
-- Temporary anomaly (autumn DR 1748): Arryn trapped in the [[Mirror Realm]]. During this interval the threshold was defended by mirror‑bound effects (swarms of animated glass; reflective illusions) and the crown chamber held a mercury pool and ritual remains. Resolved in [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 66 (DuFr)|DuFr 66]] when Arryn was freed; wards subsequently reset and hazards removed.
+- Temporary anomaly (autumn DR 1748): Arryn trapped in the [[Mirror Realm]]. During this interval the threshold was defended by mirror‑bound effects (swarms of animated glass; reflective illusions) and the crown chamber held a mercury pool and ritual remains. Resolved in [[Session 66 (DuFr)|DuFr 66]] when Arryn was freed; wards subsequently reset and hazards removed.
 - Practical: Approach by dock on a falling tide; expect formal entry customs; planar research focus includes transitive paths and Fey‑adjacent crossings.
 %%

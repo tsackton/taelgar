@@ -20,6 +20,6 @@ This lair was establishing during the [[Fraternity of the Empty Moon]]'s occupat
 
 %%
 Meta/DM notes and sources:
-- Background: [[Groups/Fraternity of the Empty Moon|Fraternity of the Empty Moon]], [[Events/1600s/Exile of Fraternity of the Empty Moon|Exile (DR 1625)]], [[Cosmology/Planar Concepts/Moon|Moon lore notes]].
-- Campaign interactions: [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 36 (DuFr)|DuFr 36]], [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 37 (DuFr)|37]], [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 40 (DuFr)|40]] (Tokra lair discovery and aftermath; rescue of Govir; destruction of cell). Keep cult details general on public page.
+- Background: [[Fraternity of the Empty Moon]], [[Exile of Fraternity of the Empty Moon|Exile (DR 1625)]], [[Moon|Moon lore notes]].
+- Campaign interactions: [[Session 36 (DuFr)|DuFr 36]], [[Session 37 (DuFr)|37]], [[Session 40 (DuFr)|40]] (Tokra lair discovery and aftermath; rescue of Govir; destruction of cell). Keep cult details general on public page.
 %%

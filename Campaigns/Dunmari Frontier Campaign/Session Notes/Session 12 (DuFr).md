@@ -26,7 +26,7 @@ The [[Dunmar Fellowship]] successfully repels waves of gnoll attacks, and then i
 - The [[Dunmar Fellowship]] is awakened after a restless night marked by bad dreams by approaching gnolls and a bat-like demon.
 - [[Wellby]] kills the demon with an arrow, prompting a battle where the gnolls are slowly picked off.
 - One gnoll flees but is tracked down and defeated by [[Kenzo]] and [[Wellby]], with the rest of the party joining to clear the threat.
-- Post-battle, the party finds starving animals in the stables and signs of previous hobgoblin occupation in the [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold|fort]]'s buildings.
+- Post-battle, the party finds starving animals in the stables and signs of previous hobgoblin occupation in the [[Raven's Hold|fort]]'s buildings.
 
 ### Timeline
 - (DR:: 1748-04-13), morning: Kill many gnolls in [[Raven's Hold]], eventually clearing the threat. Have breakfast. 

@@ -31,6 +31,6 @@ Rock fall, sudden whiteouts, and banditry are the chief hazards. In years of bor
 
 %%
 DM notes and campaign references
-- Mentioned as a viable central crossing in: [[Gazetteer/Central Highlands/Central Highlands]]; see also [[Gazetteer/Sentinel Range]].
+- Mentioned as a viable central crossing in: [[Central Highlands]]; see also [[Sentinel Range]].
 - No specific PC interactions recorded on the pass; treat as background geography.
 %%

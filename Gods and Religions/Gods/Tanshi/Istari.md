@@ -9,6 +9,6 @@ typeOf: tanshi
 # Istari
 *(ees-TAH-ree)*
 >[!info]+ Information  
-> A [[Gods and Religions/Gods/Tanshi/Tanshi|tanshi]]
+> A [[Tanshi|tanshi]]
 
 The tanshi of intense fire, and especially the forest fires that renew the land. Typically gifted offerings of ash or charcoal, and particularly likes wood that has been burned for a purpose, to cook or give heat or light.

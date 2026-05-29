@@ -32,7 +32,7 @@ The Dunmar Fellowship liberates seven souls and destroys Apollyon's phylactery, 
 -  (DR:: 1749-05-23), late afternoon: The party requests information about the [[Land of the Dead]] from the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]]. [[Delwath]] speaks with [[Melindir]]. [[Wellby]] and [[Kenzo]] find a body to use as a material component for _Plane Shift_. 
 - (DR:: 1749-05-23), evening: The party speaks with the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]], receiving information about the [[Land of the Dead]]
 - (DR:: 1749-05-24), morning: Riswynn uses _Plane Shift_ to bring the party to the [[Land of the Dead]]. The party frees the souls tied to [[Apollyon's Phylactery]], destroying it. 
-- (DR:: 1749-05-24), late morning: Travel along the Rainbow Bridge to [[Vindristjarna]], returning to the [[Material Plane]]. Encounter charmed crew, under a suggestion from [[People/Chardonians/Fausto|Fausto]]. Break charm. Teleport to [[Temple of the Eight Divines]], where [[People/Chardonians/Fausto|Fausto]] waits. 
+- (DR:: 1749-05-24), late morning: Travel along the Rainbow Bridge to [[Vindristjarna]], returning to the [[Material Plane]]. Encounter charmed crew, under a suggestion from [[Fausto]]. Break charm. Teleport to [[Temple of the Eight Divines]], where [[Fausto]] waits. 
 ## Narrative
 Our session begins as [[Riswynn]], [[Delwath]], [[Kenzo]], and [[Seeker]] return to the [[Temple of the Eight Divines]], weary but determined. [[Wellby]] greets them, having kept a vigilant watch over the phylactery—the dagger containing Apollyon’s soul. Together, the group recounts their recent exploits, including their perilous exploration of the Laughing Wave tavern and the Customs House.
 

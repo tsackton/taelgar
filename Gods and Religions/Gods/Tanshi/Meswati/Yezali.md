@@ -13,7 +13,7 @@ affiliations:
 # Yezali
 *(yeh-ZAH-lee)*
 >[!info]+ Information  
-> A [[Gods and Religions/Gods/Tanshi/Tanshi|tanshi]] , part of the [[Meswati]]  
+> A [[Tanshi|tanshi]] , part of the [[Meswati]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 The spirit of the hunt, the moon, and the night. Particularly attracted by offerings from a fresh hunt. 

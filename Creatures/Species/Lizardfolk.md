@@ -87,7 +87,7 @@ Lizardfolk communities are typically led by elders, with a strong connection to 
 - Lizardfolk almost never settle embedded within human communities. A lone lizardfolk, a small group, or a lizardfolk enclave living in the city of another species needs a special explanation. A lone lizardfolk living alone in the wilderness would be less surprising and could have any number of reasons. 
 - Invented regions with high numbers of lizardfolk include:
 	- Greater Sembara: Major community in the [[Ozabal]] swamps (Enst–Wistel confluence) and the [[Latazaro]] (east of [[Tyrwingha]]), and scattered, potentially densely scattered, communities along the [[Enst]] (cf. [[Ganboa]]) and almost certainly many other places.  
-	- Western Coast: Salt‑marsh communities in coastal villages like [[People/Lizardfolk/Itzal.md|Eskorola]] on the [[Mawakel Peninsula]]; fairly dense settlement in [[Apporia]] as well. 
+	- Western Coast: Salt‑marsh communities in coastal villages like [[Itzal|Eskorola]] on the [[Mawakel Peninsula]]; fairly dense settlement in [[Apporia]] as well. 
 	- Upper Istaros and Aurbez: Marsh hamlets along the [[Aursen Marshes]]
 	- Far South jungles: The lizardfolk realm of [[Orekatu]] with settlements like [[Bedez]] near the [[Azta Lekua|Footprint of the Gods]].
 

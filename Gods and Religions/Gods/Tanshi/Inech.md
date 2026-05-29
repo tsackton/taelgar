@@ -9,6 +9,6 @@ typeOf: tanshi
 # Inech
 *(ee-NEKH)*
 >[!info]+ Information  
-> A [[Gods and Religions/Gods/Tanshi/Tanshi|tanshi]]
+> A [[Tanshi|tanshi]]
 
 The tanshi of snow and ice.

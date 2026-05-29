@@ -20,5 +20,5 @@ Mendin is a small town and port on the western coast of the [[Mawakel Peninsula]
 %%
 Source links:
 - [[The Ciphered Scroll]]
-- [[Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02|Mawar Adventures Episode 02]]
+- [[Mawar Adventures Episode 02]]
 %%

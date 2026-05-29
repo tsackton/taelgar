@@ -20,7 +20,7 @@ In the current day, the sanctuary and chapel still stands, as does a statue of [
 %%
 
 Source links:
-- [[Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 05|Mawar Adventures Episode 05]]
+- [[Mawar Adventures Episode 05]]
 - [[Guzo the Mariner]]
 - [[The Lost Legacy]]
 

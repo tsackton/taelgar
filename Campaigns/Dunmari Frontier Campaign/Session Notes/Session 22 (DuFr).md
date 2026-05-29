@@ -31,7 +31,7 @@ The [[Dunmar Fellowship]] defeats manticores and orcs at the [[Monastery of Bhis
 
 ### Timeline
 - (DR:: 1748-05-11), midday: [[Wellby]] returns to camp. [[Kenzo]] tells party about Rai, his jade fragment, and their connection to the [[Order of the Awakened Soul]] and [[Bhishma]].
-- (DR:: 1748-05-11), early afternoon: Investigate [[Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma|monastery]]. Fight and kill a manticore family. Fight an orc patrol, killing most and capturing one. Interrogate [[Orcs|orc]], learning that the only other things in the monastery are ghosts; that [[Grash]] keeps a patrol here to report anything suspicious; and that Grash's armies are strong and will defeat [[People of the Rainbow|Uzgash's bastards]] soon. 
+- (DR:: 1748-05-11), early afternoon: Investigate [[Monastery of Bhishma|monastery]]. Fight and kill a manticore family. Fight an orc patrol, killing most and capturing one. Interrogate [[Orcs|orc]], learning that the only other things in the monastery are ghosts; that [[Grash]] keeps a patrol here to report anything suspicious; and that Grash's armies are strong and will defeat [[People of the Rainbow|Uzgash's bastards]] soon. 
 - (DR:: 1748-05-11), mid-afternoon: Enter common hall of the monastery, find initiation chamber. Kenzo and Seeker proceed down hallway illuminating the history of [[Bhishma]] and her miracles. Kenzo becomes initiate of the Bhishma Mystai, known as the [[Order of the Awakened Soul]], dying and being revived during the process. 
 
 

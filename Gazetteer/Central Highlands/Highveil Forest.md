@@ -15,7 +15,7 @@ dm_notes: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:GL%% Explored by the [[Silver Tempests]] on October 21th, 1747 %%^End%%
 
-A light, open forest on the western foothills of the [[Sentinel Range|Sentinels]], north of the [[Crimson Forest]] and south of the [[Gazetteer/Northern Sentinels/Forest of Nightmares|Forest of Nightmares]].  While once this forest was occupied by many elves, it is now only lightly settled by [[Deno'qai]] tribes. 
+A light, open forest on the western foothills of the [[Sentinel Range|Sentinels]], north of the [[Crimson Forest]] and south of the [[Forest of Nightmares]].  While once this forest was occupied by many elves, it is now only lightly settled by [[Deno'qai]] tribes. 
 
 Called Saharlûn (sa-har-LOON) by the [[Deno'qai]], and Taurelóme (TAU-re-LO-meh) by the elves. 
 

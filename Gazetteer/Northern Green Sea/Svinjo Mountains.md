@@ -26,7 +26,7 @@ Historically, the Svinjo have sheltered many peoples on their lee slopes and in 
 
 %%
 Meta/DM notes and campaign interactions:
-- Crossed during [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 91 (DuFr)|DuFr 91]] en route north; severe weather and giant diplomacy featured.
+- Crossed during [[Session 91 (DuFr)|DuFr 91]] en route north; severe weather and giant diplomacy featured.
 - Connected topics: [[Kaldhalla]], [[~Northern Boreal Forest~]], Vargaldi migrations; rumors of dwarven/stoneborn enclaves.
 - The mountains that border Vostok on the east, separating it from the unknown lands between Vostok and Ursk
 - In Vargaldi tradition, the Svinjo mark the ancestral migration line: their forebears crossed these ranges into the deep woods, where they dwell to this day. 

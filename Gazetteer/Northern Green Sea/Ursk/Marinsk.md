@@ -19,7 +19,7 @@ Like all of the coastal ports in Ursk open to trade, the port district is watche
 
 %%
 Meta/DM notes and campaign interactions:
-- Source: [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Ursk|Philosopher’s memorandum on Urskan cities]] (foreign docks, Sovo approach, Okolov caution); see also [[Ursk]].
+- Source: [[Philosopher's Information Concerning Ursk|Philosopher’s memorandum on Urskan cities]] (foreign docks, Sovo approach, Okolov caution); see also [[Ursk]].
 - Practical: smallest foreign port among the three; Sovo bisects the city; Okolov surveillance concentrated at docks and gates.
 - 2nd easternmost of the trading cities
 - DM notes indicate this is the "cultural" city but don't add anything about what that might mean.
