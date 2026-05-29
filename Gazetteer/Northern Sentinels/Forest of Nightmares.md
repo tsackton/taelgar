@@ -18,3 +18,17 @@ A cursed forest, once home to many [[Deno'qai]]. The scene of many battles durin
 
 On the western border of the territory of the [[Ko'zula]] [[Deno'qai]] tribe.
 
+
+%%DM Notes - travel and sleep
+
+General situation should be that travel is relatively easy - the forests are fairly empty - but that staying in one place is difficult. Resting for an hour is usually okay, but as time increases the shadows begin to close in (faster at night), and by 3 hours the nightmares will be starting to close in. Move very slowly, so easy to escape, but essentially endless numbers of them.
+ 
+Let them go CON mod days without sleep with no ill effects, and then XGtE rules (DC 10 Con save, increasing by 5 each night).
+ 
+Resting involves retreating to the camp, which is possible but probably involves them bringing undead, probably shadows/specters with them.
+ 
+But retreat should be an option if absolutely needed.
+ 
+Also if they retreat and revisit steps, will be stuck with fighting undead too that may have gathered in the meantime.
+
+%%

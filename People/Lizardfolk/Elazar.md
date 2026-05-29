@@ -37,3 +37,22 @@ WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.fil
 SORT choice(contains(file.tags,"organization"), "Organization", "Person"), choice(species, species, typeof)
 ```
 %%^End%%
+
+
+%% One Note
+
+About 80, in the prime of his life, Elazar is a prophet, a seer, and a spirit guide. He has deeply felt visions, and exceptional perception into the spirit realms.
+ 
+However, he is also something of an outcast in his village of [Berdez](Berdez), and in Orekatu, and has a bit of a Cassandra-like reputation.
+ 
+Not that he is not believed, not exactly. The nature of divination magic and the power of the ancestor's augury means that no one totally discounts him, and the village elders don't mistrust his words or anything.
+ 
+However, he is always pushing for action, for forward momentum, while the elders council patience, balance is the action of years and decades, not moments.
+ 
+## Notes / Info
+ 
+Can tell Kenzo about lizardfolk life in Berdez and Orekatu; about the land, how it is ancient and the old ways still weigh on the land here, the visions of balance lost, of the fires below overwhelming the land.
+ 
+Something was wrong with dinosaurs, must tell the elders.
+
+%%

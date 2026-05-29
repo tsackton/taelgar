@@ -10,7 +10,7 @@ affiliations: [{org: Ko'zula, type: primary}]
 whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
 dm_owner: none
-dm_notes: color
+dm_notes: none
 ---
 # Kaslan
 >[!info]+ Biographical Info  
@@ -19,6 +19,6 @@ dm_notes: color
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%  needs campaign info, some color notes to incorporate %%
+Kaslan is a middle-aged man, with long experience in woodcraft; he is leader of the hunting camp [[Delwath]] first found after arriving in the north. 
 
-Experienced in woodcraft; leader of the hunting camp [[Delwath]] first found after arriving in the north. 
+He has a long salt-and-pepper tangled beard, despite a bald head. He is a skilled archer, and tends to spend spends his time at camp fletching arrows or working on scrimshaw on a piece of mammoth tusk. Kaslan favors [[A'gaza]], the spirit of deer, reindeer, and caribou, who watches over the hunt and particularly likes offerings from the reindeer hunt, especially things carved from antler.
