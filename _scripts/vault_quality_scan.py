@@ -155,6 +155,14 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="With --replace-wikilinks, report replacements without writing files.",
     )
+    parser.add_argument(
+        "--skip-generated",
+        action="store_true",
+        help=(
+            "With --duplicate-filenames, skip generated/session-cleanup material: "
+            "_generated paths, .yaml files, and _sessions/<campaign>/<session>/cleaned paths."
+        ),
+    )
     return parser.parse_args()
 
 
@@ -263,12 +271,27 @@ def build_note_stem_counts(root: Path) -> dict[str, int]:
     return counts
 
 
-def duplicate_filename_issues(root: Path) -> tuple[list[Issue], int]:
+def is_generated_duplicate_scan_path(path: Path, root: Path) -> bool:
+    rel_parts = path.relative_to(root).parts
+    if "_generated" in rel_parts:
+        return True
+    if path.suffix.lower() == ".yaml":
+        return True
+    return (
+        len(rel_parts) >= 4
+        and rel_parts[0] == "_sessions"
+        and rel_parts[3] == "cleaned"
+    )
+
+
+def duplicate_filename_issues(root: Path, skip_generated: bool) -> tuple[list[Issue], int]:
     paths_by_name: dict[str, list[Path]] = {}
     file_count = 0
 
     for path in iter_files_no_dot_dirs(root):
         if not path.is_file():
+            continue
+        if skip_generated and is_generated_duplicate_scan_path(path, root):
             continue
         file_count += 1
         key = path.name.casefold()
@@ -955,14 +978,26 @@ def main() -> int:
         raise SystemExit("--dry-run is only meaningful with --replace-wikilinks")
     if args.duplicate_filenames and args.replace_wikilinks:
         raise SystemExit("--duplicate-filenames and --replace-wikilinks are separate modes")
+    if args.skip_generated and not args.duplicate_filenames:
+        raise SystemExit("--skip-generated is only meaningful with --duplicate-filenames")
 
     stem_counts = build_note_stem_counts(root)
 
     if args.duplicate_filenames:
-        issues, file_count = duplicate_filename_issues(root)
+        issues, file_count = duplicate_filename_issues(root, args.skip_generated)
         filtered_issues = sort_issues(filter_issues(issues, args.min_severity))
         total_issue_count = len(filtered_issues)
         skipped = {"directoryPrefixes": ["."], "filePrefixes": ["."]}
+        extra_summary: tuple[str, ...] = ()
+        scope_description = "skips dot directories and dotfiles only"
+        if args.skip_generated:
+            skipped["generatedLike"] = [
+                "_generated paths",
+                ".yaml files",
+                "_sessions/<campaign>/<session>/cleaned paths",
+            ]
+            scope_description += "; skips generated/session-cleanup material"
+            extra_summary = ("- Generated/session-cleanup filter: on",)
         if args.format == "json":
             report = render_json(root, file_count, filtered_issues, skipped=skipped)
         elif args.format == "tsv":
@@ -978,7 +1013,8 @@ def main() -> int:
                 total_issue_count,
                 args.limit,
                 title="Duplicate Filename Scan",
-                scope_description="skips dot directories and dotfiles only",
+                scope_description=scope_description,
+                extra_summary=extra_summary,
             )
         write_report(report, args.output)
         return 1 if any(issue.severity == "error" for issue in filtered_issues) else 0
