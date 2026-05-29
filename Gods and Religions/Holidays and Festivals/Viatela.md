@@ -1,5 +1,5 @@
 ---
-tags: [status/incomplete, background]
+tags: [status/review, background]
 typeOf: holiday
 name: Viatela
 fc-date: {day: 11, month: 12}

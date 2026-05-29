@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/fact]
+tags: [person, status/cleanup/whereabouts]
 name: Sabine de Brune
 born: 1662
 species: human
