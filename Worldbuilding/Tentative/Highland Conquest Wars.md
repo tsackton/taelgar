@@ -1,11 +1,11 @@
 ---
-tags: [event, status/check/errors]
+tags: [event, status/check/mike]
 typeOf: war
 dm_owner: joint
 dm_notes: important
 ---
 
-%% status/errors -> probably not be canonical and needs rethinking %%
+%% moving to tentative, but could be deleted; if it is the mention in the two linked notes should be removed %%
 
 A series of campaigns by the Drankorian Emperor [[Empress Kylanthe]] against the Kestavan kingdoms in the foothills of the [[Sentinel Range]]. 
 

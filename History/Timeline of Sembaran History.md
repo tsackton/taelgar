@@ -25,7 +25,10 @@ Over a series of start-and-start campaigns over 60 years, the Drankorian armies 
 * (DR:: 360): Emperor [[Anates]] crosses the [[Enst]] and establishes a garrison at [[Cleenseau]]
 * (DR:: 402): The [[Treaty of Marhavn]] is signed by Emperor [[Goristo]] 
 * (DR:: 423): Emperor [[Goristo]] signs the [[Treaty of Tyrwingha]] with [[Archfey Ethlenn|Ethlenn]]
-* (DR:: 468): (The Drankorian [[Highland Conquest Wars]] end with a tactical retreat by Drankor) %% while the fact that the highlands were never incorporated into the Drankorian Empire is canonical, the existence of the Highland Conquest wars as the reason is not %%
+
+%%
+* (DR:: 468): (The Drankorian [[Highland Conquest Wars]] end with a tactical retreat by Drankor) while the fact that the highlands were never incorporated into the Drankorian Empire is canonical, the existence of the Highland Conquest wars as the reason is not 
+%%
 
 ## The Drankorian Age
 DR 431 - DR 1059

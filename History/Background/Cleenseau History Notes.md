@@ -10,7 +10,7 @@ The town of [[Cleenseau]] is chiefly famous for an enormous stone bridge crossin
 
 Some ideas about its origin:
 * It was created by giants for mysterious reasons in the aftermath of the [[The Downfall|Downfall]]
-* It was created by Drankorian mages to assist the conquest of Sembara and/or the [[Highland Conquest Wars]]
+* It was created by Drankorian mages to assist the conquest of Sembara and/or the [[Highland Conquest Wars]] %%note the highland conquest wars probably didn't happen%%
 * It is a projection or echo of some other realm, i.e. the Plane of Earth
 
 In game, the rumor of giants has been mentioned. 
