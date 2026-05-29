@@ -25,7 +25,7 @@ The [[Green Sea]] itself dominates this region, and the currents and winds of th
 * [[Irrla]], the large island in the center of the [[Green Sea]], 500 miles across, lies at the western boundary of this region
 * The south coast of the Green Sea, from the [[~Eastern Mountains~|mountains near Cymea]] to the [[~Medju Mountains~|mountains east of Medju]], is characterized by a [[~Maritime Trade Peninsula~|large peninsula]] known to be the home of diverse cultures
 * West of the [[~Medju Mountains~|mountains near Medju]] is the [[~Eastern Coast~|far eastern coast]], away from the influences of the [[Green Sea]] and seen as strange even by those of this region
-* Stretching for 2000 miles from south to north, the [[~Eastern Islands~]] form a barrier between the [[Green Sea]] and the [[~Eastern Ocean~]]. Many say these islands are magical, and the weather in this region is know to be chaotic and unsettled
+* Stretching for 2000 miles from south to north, the [[~Eastern Islands~]] form a barrier between the [[Green Sea]] and the [[~Eastern Ocean~]]. Many say these islands are magical, and the weather in this region is known to be chaotic and unsettled
 * In the far north, is another [[~Far North Peninsula~|great peninsula]] with cold, with long winters and short summers, and no reports have come west of who or what might live there
 ## Civilizations and Cultures
 This is a land of many cultures and civilizations, but few are well-attested in the west. Most geographers believe that the cities of [[Medju]] are real, and shipwrecked sailors from the [[Republic of Svolhas]] on [[Irrla]] have been seen on the [[Cymean Peninsula]]. But few really know what strange cultures this region holds, or what strange gods they worship.

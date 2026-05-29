@@ -14,7 +14,7 @@ dm_owner: mike
 
 %% check mike for tags, and if there is more to say %%
 
-The Merriweathers are a notable halfling family in the [[Barony of Aveil]], especially plying the route along the [[Auberonne]] betwen [[Aslain]] and [[Rinburg]]. 
+The Merriweathers are a notable halfling family in the [[Barony of Aveil]], especially plying the route along the [[Auberonne]] between [[Aslain]] and [[Rinburg]]. 
 
 %% 
 

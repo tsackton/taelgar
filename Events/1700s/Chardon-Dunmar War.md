@@ -77,6 +77,6 @@ The war's formal settlement came on (DR:: 1749-07-25), with a peace treaty betwe
 The treaty ended the open war, but not its consequences. In Chardon, Fausto's fall and the exposure of the Cleansed shattered the Hetaeri Magica's political position and helped ignite the [[Eightfold Flame]] uprising against the chalyte trade. In Dunmar, the war settled the immediate threat of Chardonian conquest but confirmed the division of the realm that the [[Sibling War]] had already made unavoidable. With the reopening of chalyte mines in the [[Chataan Mountains]], [[Darba]] is posed to become a major Chardonian port for chalyte transshipment, further solidifying its departure from the Dunmari orbit. 
 
 ###
-- (DR:: 1749-07-25): Formal peace between the [[Chardonian Empire]], [[Sura|Nayan Sura]], and [[Nayan Karnas]] ends the Chardon-Dunmar war, divides Dunmar betwen Sura and Karnas, and establishes the free port of Darba under Chardonian suzerainty. 
+- (DR:: 1749-07-25): Formal peace between the [[Chardonian Empire]], [[Sura|Nayan Sura]], and [[Nayan Karnas]] ends the Chardon-Dunmar war, divides Dunmar between Sura and Karnas, and establishes the free port of Darba under Chardonian suzerainty. 
 
 %%SECRET[1]%%
