@@ -160,7 +160,8 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help=(
             "With --duplicate-filenames, skip generated/session-cleanup material: "
-            "_generated paths, .yaml files, and _sessions/<campaign>/<session>/cleaned paths."
+            "_generated paths, .json/.txt/.vtt/.yaml files, and "
+            "_sessions/<campaign>/<session>/cleaned paths."
         ),
     )
     return parser.parse_args()
@@ -275,7 +276,7 @@ def is_generated_duplicate_scan_path(path: Path, root: Path) -> bool:
     rel_parts = path.relative_to(root).parts
     if "_generated" in rel_parts:
         return True
-    if path.suffix.lower() == ".yaml":
+    if path.suffix.lower() in {".json", ".txt", ".vtt", ".yaml"}:
         return True
     return (
         len(rel_parts) >= 4
@@ -993,7 +994,7 @@ def main() -> int:
         if args.skip_generated:
             skipped["generatedLike"] = [
                 "_generated paths",
-                ".yaml files",
+                ".json/.txt/.vtt/.yaml files",
                 "_sessions/<campaign>/<session>/cleaned paths",
             ]
             scope_description += "; skips generated/session-cleanup material"
