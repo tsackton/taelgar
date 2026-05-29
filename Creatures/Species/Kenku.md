@@ -54,7 +54,12 @@ Rumors claim that the islander kenku, living in the far eastern Green Sea, were 
 
 %%^Campaign:None%%
 
-Metaphysics and creation story left blank and hidden for now. There is 
+Metaphysics and creation story left blank and hidden for now. Canonically, all that we know is that:
+- the kenku must have existed in some form before Cha'mutte came to power, if it is true that the islander kenku never lived under Cha'mutte
+- Aerin metaphyiscally became the kenku firstborn during the Great War campaign, via time travel into the Riving or the Primodial Chaos or whatever
+- this gives them a weird ambiguous status
+
+There is more to think about to fit this into the species taxonomy, and to think about what would be public knowledge in-world.
 
 ## Metaphysics
 
@@ -62,31 +67,6 @@ Metaphysics and creation story left blank and hidden for now. There is
 
 ## Creation Story
 
-
-
-
-## Details for DMs
-
-### Where You’ll Find Them
-- Eastern Green Sea: [[Wahacha]] in the [[Vermillion Isles]] (cliff‑built pillar city; spice trade; flight‑only quarters). Port master [[People/Kenku/Makha.md|Makha]] is a local point of contact.
-- Islanders and travelers: [[People/Kenku/Nahto.md|Nahto]] and [[People/Kenku/Skoda.md|Skoda]] exemplify wandering island kenku; entanglements include aboleth threats and sea‑elf allies near Quanyi.
-- Northern ranges: scouts like [[People/Kenku/Kecha.md|Kecha]] range over forests and mountains north of Vostok; northern aerie sites are implied but not cataloged in detail.
-
-### Using Kenku in Play
-- Vertical cities: navigation puzzles for ground‑based parties; flight‑path politics (air lanes, landing ledges, storm protocols).
-- Trade arcs: pepper and spice caravans from Wahacha; courier contracts; pilotage through cliff gales and reef mazes.
-- Rescue and sky‑hazards: storm rescues, aboleth entanglements around eastern isles, wyvern/roc territory disputes in the north.
-
-### Roleplaying Kenku
-- Voice and bearing: wind‑metaphors, clipped calls, keen observation; courteous to guests but prefer the sky and high places.
-- Etiquette: ledge rights, landing permissions, and rope‑bridge precedence matter; grounders are welcome but expected to keep to harbor tiers without escorts.
-
-### Conflicts and Open Questions
-- Origins: Elder‑Folk status is implied but creator‑deity and metaphysics are undefined; decide whether they have an Embodied patron or venerate incorporeal wind/sky powers.
-- Geography: northern heartlands lack canonical maps; define a few aerie cities and migration routes over the far north plains and ranges.
-- Language: script, dialects, and influence of Eastros/Common in island ports vs. northern enclaves are not standardized.
-- Flight and architecture: codify air‑traffic customs, no‑fly zones, emergency landing rites, and how cities interface with non‑fliers.
-- Relations: establish treaties or frictions with nearby elves (forest aeries), dwarves (mountain passes), lizardfolk (island trade), and halflings (maritime commerce).
 
 ### Sources
 - Species summary: Creatures/Playable Species of Taelgar.md
