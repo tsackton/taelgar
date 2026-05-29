@@ -9,7 +9,7 @@ typeOf: tanshi
 # Bita
 *(BEE-tah)*
 >[!info]+ Information  
-> A [[Gods and Religions/Gods/Tanshi/Tanshi|tanshi]]
+> A [[Tanshi|tanshi]]
 
 The tanshi of bears.
 

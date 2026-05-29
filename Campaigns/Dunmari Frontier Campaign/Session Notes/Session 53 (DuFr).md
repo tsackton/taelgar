@@ -18,7 +18,7 @@ descTitle: Armbands of Entrapment
 > *On Earth: Sunday Jul 31, 2022*
 > *[[Ko'zula village]] in the [[Forest of Dreams]]*
 
-[[People/PCs/Dunmar Fellowship/Delwath]] discovers that Cha'mutte's shadow armbands are key to freeing the trapped [[Meswati]] and prepares to seek allies for his quest.
+[[Delwath]] discovers that Cha'mutte's shadow armbands are key to freeing the trapped [[Meswati]] and prepares to seek allies for his quest.
 ## Session Info
 
 ***Delwath receives his Deno'qai [[Deno'qai Scale Mail|armor]] and  [[Deno'qai Lynx Shield|shield]], and learns to speak Deno'qai.***

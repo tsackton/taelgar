@@ -37,6 +37,6 @@ She is a sun-browned woman with red hair, typically wearing her worn but careful
 - Wears braided twine charms to represent the  household she protects.
 - Vibe (3–6 words): Stubborn, duty-bound, unpolished grit.
 ### PC Interactions
-- First met at the War Council at Three Wells (DR:: 1749-08-07): [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 130 (DuFr)|War Council at Three Wells]].
+- First met at the War Council at Three Wells (DR:: 1749-08-07): [[Session 130 (DuFr)|War Council at Three Wells]].
 
 %%

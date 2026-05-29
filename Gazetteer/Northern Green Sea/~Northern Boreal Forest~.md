@@ -31,7 +31,7 @@ People are sparse in the forests, though the deep woods are home to a northern p
 
 %%
 Meta/DM notes and campaign interactions:
-- Seen in [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 93 (DuFr)|DuFr 93]] (Vargaldi camp, overflight and passage); cultural overview in [[Groups/_Cultures_/Vargaldi|Vargaldi]].
+- Seen in [[Session 93 (DuFr)|DuFr 93]] (Vargaldi camp, overflight and passage); cultural overview in [[Vargaldi]].
 - Related geography: [[Svinjo Mountains]], [[Ket]], [[Beyil|White River]].
 
 

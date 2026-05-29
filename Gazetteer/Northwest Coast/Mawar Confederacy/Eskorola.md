@@ -25,7 +25,7 @@ Eskorola is a village close to the ocean. Though some huts are connected by wood
 Think Coskata here, but with much more extensive marsh
 
 Source links:
-- [[Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 04|Mawar Adventures Episode 04]]
+- [[Mawar Adventures Episode 04]]
 - [[Tzingola]]
 - [[Mawar Ep 4 - DM Notes]]
 %%

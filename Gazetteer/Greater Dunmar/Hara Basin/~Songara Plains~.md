@@ -21,6 +21,6 @@ The Songara Plains are the open grasslands surrounding [[Songara]] in northweste
 %%
 Meta/DM notes and sources:
 - Historical ruler references (e.g., Jita of the northwestern plains); modern logistics linking Songara to Tokra and Chardon.
-- See also: [[Gazetteer/Greater Dunmar/Roads/~Darba-Songara Road~.md|Darba–Songara Road]], [[Central Dunmar]], [[Songara]].
+- See also: [[~Darba-Songara Road~|Darba–Songara Road]], [[Central Dunmar]], [[Songara]].
 %%
 

@@ -32,7 +32,7 @@ The party trades the Dust of Glibness from [[Ra'ghemdros' Hoard]] for informatio
 
 ## Knowledge from *Contact Other Plane*
 
-The party asks a number of questions of extraplanar powers, include several for [[Rai]] himself, as well as follow up questions for the [[Gods and Religions/Gods/Tanshi/Tanshi]]. 
+The party asks a number of questions of extraplanar powers, include several for [[Rai]] himself, as well as follow up questions for the [[Tanshi]]. 
 ### Questions to Rai
 *Are the monks of the Awakened Soul alive?* **Answer: in a sense**
 *Are they near you?* **Answer: yes**

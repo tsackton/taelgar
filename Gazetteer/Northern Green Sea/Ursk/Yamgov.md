@@ -21,6 +21,6 @@ In winter, when fields are quiet, gossip and small ventures fill the time in the
 
 %%
 Meta/DM notes and campaign interactions:
-- Travel planning and passage noted in [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 95 (DuFr)|DuFr 95]] (Dalinka crossing; caravan logistics; overland route to Voknaz lands).
-- Source note: [[Gazetteer/Northern Green Sea/Rivers/Dalinka|Dalinka River]] entry; Philosopher’s memorandum on Ursk’s cities (hinterland attitudes, Okolov focus elsewhere).
+- Travel planning and passage noted in [[Session 95 (DuFr)|DuFr 95]] (Dalinka crossing; caravan logistics; overland route to Voknaz lands).
+- Source note: [[Dalinka|Dalinka River]] entry; Philosopher’s memorandum on Ursk’s cities (hinterland attitudes, Okolov focus elsewhere).
 %%

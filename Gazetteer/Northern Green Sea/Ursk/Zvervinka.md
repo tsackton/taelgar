@@ -30,7 +30,7 @@ Unlicensed spellcasting is prohibited inside the walls. Those authorized to work
 
 %%
 Meta/DM notes and campaign interactions:
-- Featured across [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 94 (DuFr)|DuFr 94]] and [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 95 (DuFr)|DuFr 95]] (market dealings, Silver Wolf, Watcher’s Spire protocol; letters of transit). See also [[Campaigns/Dunmari Frontier Campaign/Hoards/Gifts and Purchases#In Zvervinka|purchases in Zvervinka]].
+- Featured across [[Session 94 (DuFr)|DuFr 94]] and [[Session 95 (DuFr)|DuFr 95]] (market dealings, Silver Wolf, Watcher’s Spire protocol; letters of transit). See also [[Gifts and Purchases#In Zvervinka|purchases in Zvervinka]].
 - Color and layout (Session 95 DM Notes): lower city along the marshy [[Ket]] (cold/damp winters; hot, buggy summers), with novja quarters against the walls; tannery district just downstream. The main thoroughfare from the gates to the market is the Dalitza (“The Street”). Upper city is dominated by the Great Hall and the [[Watcher's Spire]]; nearby are Alchemists’ Alley, smiths/armorers, inns, and taverns. The Icebound Dockyards handle seasonal river traffic. Dragon’s Plaza features a preserved white dragon head; the stables sit just inside the south gates.
 - Economy and trade: monster‑part trade is primary; timber and furs secondary. City depends on food from the south; some game in warmer months and preserved for winter. Gate practice for sellers: show goods and pay tax (often in‑kind or gems), then receive paperwork enumerating permitted wares; market busiest on Wednesdays and Saturdays (Session 94 DM Notes).
 - Law and magic: unlicensed casting is strictly enforced by the [[Eyes of Vedmakov|Watchers/Okolov]]. Only those with recognized rodnya papers may cast. Spies/informers are common. At the Spire, visitors deposit detectable magic at the entry vestibule before audience (DuFr 94 notes).
@@ -38,7 +38,7 @@ Meta/DM notes and campaign interactions:
   - [[The Silver Wolf]] (Roman’s high‑end inn; gossip hub). River’s Maw tavern near the docks (sailors/novja; trophy‑lined walls). The Veiled Bazaar (hidden market for forbidden/rare goods). The Frostforge (Anya Svetlanova’s chill‑warded blacksmith for anti‑monster gear). City Archives (record access via Natalia Zhukova). Alchemists’ Alley stores; Dragon’s Plaza; Icebound Dockyards.
   - Notable figures met or prepped: [[Lena Sorokina]] (Watcher), [[Roman]] (innkeeper), Fyodar (gate guard); plus a roster of merchants, crafters, and novja community contacts in Session 94–95 DM notes.
 - Social context: “novja” are Vargaldi who underwent the krev rite to bind with Ursk’s magic; those outside the krev receive little aid and face added risk. Anecdote: a young dragon ignored krev‑bound townsfolk and attacked novja—Watchers then destroyed it (apocryphal, used in‑world as cautionary lore).
-Sources: _DM_/Session 94–95 DM Notes (location color, economy, law/magic, religion, NPCs); Philosopher’s memorandum on Ursk (approach options), [[Gazetteer/Northern Green Sea/Rivers/Ket|Ket]] overview.
+Sources: _DM_/Session 94–95 DM Notes (location color, economy, law/magic, religion, NPCs); Philosopher’s memorandum on Ursk (approach options), [[Ket]] overview.
 
 Religion - NOT CANON
 

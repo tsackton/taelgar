@@ -18,7 +18,7 @@ descTitle: Reflections of Danger
 > *On Earth: Saturday Nov 19, 2022*
 > *[[Arryn's Tower]]*
 
-[[People/PCs/Dunmar Fellowship/Wellby]] and new allies defeat mirror entities and rescue the wizard [[Arryn]] from the [[Mirror Realm]], who then assists Wellby in journeying to the Feywild.
+[[Wellby]] and new allies defeat mirror entities and rescue the wizard [[Arryn]] from the [[Mirror Realm]], who then assists Wellby in journeying to the Feywild.
 ## Session Info
 ### Summary
 - [[Wellby]] and companions recover from the aboleth's defeat, and [[Artem Novolozek|Artem]] retrieves his remorhaz heart to aid his escape.

@@ -69,10 +69,10 @@ These followers are available to tend to Bastion facilities:
 [[Adam Gower]] (he/him). Tollender human. Adam does not tend a specific facility, but if [[Vindristjarna]] is in [[Tollen]] for a Bastion Turn, he can carry out any number of ***Trade*** orders. 
 
 Each PC is also able to tend Bastion facilities:
-[[People/PCs/Dunmar Fellowship/Delwath]]: ***Sanctuary***, ***Gardens and Greenhouse***, ***Demiplane***
+[[Delwath]]: ***Sanctuary***, ***Gardens and Greenhouse***, ***Demiplane***
 [[Seeker]]: ***Observatory***, ***Workshop***, ***Tools Trainer (Game Room)***, ***Archives***, ***Demiplane***
 [[Kenzo]]: ***Gardens and Greenhouse***, ***Elven Tree***, ***Hall of Stories***, ***Battle Defense (Sparring Room or Game Room)*** or ***Unarmed Attack (Sparring Room)*** trainer.
-[[People/PCs/Dunmar Fellowship/Wellby]]: ***Map Room***, ***Stable***, ***Storehouse***, ***Pub***
+[[Wellby]]: ***Map Room***, ***Stable***, ***Storehouse***, ***Pub***
 
 ## Bastion Turns
 
@@ -111,7 +111,7 @@ A Bastion Turn represents a period of time, usually around 7 days, of uninterrup
 
 The upper deck consists of, from stern to prow:
 
-* the shrine to the [[Gods and Religions/Gods/Tanshi/Tanshi]]
+* the shrine to the [[Tanshi]]
 * the elven garden and greenhouse
 * the elven tree, grown from seed by [[Kenzo]]
 * the main building on the upper deck, which contains a lavish dining hall, space for conversation and relaxation, the living quarters of [[Kenzo]], [[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], the map room, and the pub

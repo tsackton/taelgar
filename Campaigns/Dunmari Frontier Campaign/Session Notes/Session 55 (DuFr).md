@@ -18,7 +18,7 @@ descTitle: Echoes of the Great War
 > *On Earth: Tuesday Aug 16, 2022*
 > *[[Forest of Nightmares]]*
 
-[[People/PCs/Dunmar Fellowship/Delwath]] and his companions confront hobgoblin traitors in a shadow realm and battle an undead warlock at the Battle of Ye'mote while freeing the last of the [[Meswati]].
+[[Delwath]] and his companions confront hobgoblin traitors in a shadow realm and battle an undead warlock at the Battle of Ye'mote while freeing the last of the [[Meswati]].
 
 ## Session Info
 ### Summary

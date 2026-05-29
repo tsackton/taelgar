@@ -20,6 +20,6 @@ Topographically, Vedmakov sits amidst rolling farmland cut by river valleys that
 
 %%
 Meta/DM notes and campaign interactions:
-- Referenced across travel notes in [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 95 (DuFr)|DuFr 95]] (road choice, patrols, bypassed en route to Yamgov); see also [[Letters and Notes/Philosopher's Information Concerning Ursk|Philosopher’s guidance]] (hopeless to infiltrate).
+- Referenced across travel notes in [[Session 95 (DuFr)|DuFr 95]] (road choice, patrols, bypassed en route to Yamgov); see also [[Philosopher's Information Concerning Ursk|Philosopher’s guidance]] (hopeless to infiltrate).
 - Practical: road checks by Watchers; archival presence within the city; common to pass without entering when traveling west.
 %%

@@ -27,7 +27,7 @@ The[[ Dunmar Fellowship]] contemplates mystical visions and participates in a fe
 - The[[ Dunmar Fellowship]] is summoned by [[Candrosa]] to attend a council regarding attacks in the region.
 - [[Kenzo]] shares his vision from [[Dreamweaver Staff|Candrosa's staff]] and mentions the [[Order of the Awakened Soul]], while [[Wellby]] tells [[Ander]]'s story about a demonic infestation at [[Raven's Hold]].
 - At [[Jasu]]'s workshop, [[Seeker]] commissions a chain throwing net and the party inspects magical spearpoints.
-- [[Kenzo]] wins the staff dancing competition, and [[Wellby]] places third in the axebeak riding competition during the festivities leading up to the [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Festival of Rebirth]].
+- [[Kenzo]] wins the staff dancing competition, and [[Wellby]] places third in the axebeak riding competition during the festivities leading up to the [[Festival of Rebirth]].
 - The council decides to evacuate [[Karawa]] due to gnoll attacks, fortify the [[Temple of Shakun]], and seek aid from Dunmar's ruler, Samraat [[Nayan Karnas]], while the party turns north to investigate [[Raven's Hold]].
 
 ### Timeline

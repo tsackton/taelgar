@@ -42,16 +42,16 @@ typeOf: timeline
 * November 8th: [[Vincent de Arban]] departs
 * November 12th: [[Francois the Bandit|François's]] funeral
 * Week of November 16th: [[Abigail Moss]] first notices blight in her orchard
-* November 26th: [[People/Sembarans/Ida Rosfeld|Ida Rosfeld]] is unexpectedly ordered to [[Dunfry|Dunfry]] by [[Quentin]]
-* November 27th: [[People/Sembarans/Ida Rosfeld|Ida Rosfeld]] marches away
+* November 26th: [[Ida Rosfeld]] is unexpectedly ordered to [[Dunfry|Dunfry]] by [[Quentin]]
+* November 27th: [[Ida Rosfeld]] marches away
 * November 28th: [[Wakog]] starts marching south towards [[Cleenseau]]
 * Week of November 28th: The party seeks allies from [[Beury|Beury]], [[Valit|Valit]], and [[Asineau|Asineau]] 
 ### December
-* December 2nd: [[People/PCs/Cleenseau/Izgil Moonseeker|Izgil]] leaves for [[Dunfry|Dunfry]] with [[Brot Starsearcher]]
+* December 2nd: [[Izgil Moonseeker|Izgil]] leaves for [[Dunfry|Dunfry]] with [[Brot Starsearcher]]
 * December 4th: [[Guy de Varan]] arrives, escaped from [[Wakog|Wakog's]] camp, telling stories of torture and pillage
 * December 5th: the party prepares and scouts towards [[Wakog|Wakog's]] camp
 * December 6th, late afternoon: the [[Battle Against Wakog]]. The party emerges victorious
-* December 10th: [[People/PCs/Cleenseau/Izgil Moonseeker|Izgil]] returns with rumors of chaos in the [[Army of the West|Army of the West]]
+* December 10th: [[Izgil Moonseeker|Izgil]] returns with rumors of chaos in the [[Army of the West|Army of the West]]
 * December 12th: the party celebrates [[Viatela]] and learns of [[Eremon|Eremon's]] bad dreams of a redcap
 * December 13th: the party investigates [[Abigail Moss|Abigail Moss's]] orchard
 * December 30th: the party hears of [[Duncan Rivers]] and his missing ale at a [[Pyravela]] party
