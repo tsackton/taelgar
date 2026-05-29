@@ -20,6 +20,9 @@ The Circular Island is a strange island in the [[Drankorian Hinterland]], named 
 
 ## DM notes
 
-- The bulk of DM-facing development for the Circular Island is preserved below as a `%%SECRET[1]%%^End%%
+- The bulk of DM-facing development for the Circular Island is preserved below as a `SECRET` block (history outline, key locations, and adventure-use notes).
+- Additional related notes: [[Apollyon's Tower]]; (religion context in comments) [[Mos Numena]].
 
-%%SECRET[2]%%
+%%^End%%
+
+%%SECRET[1]%%

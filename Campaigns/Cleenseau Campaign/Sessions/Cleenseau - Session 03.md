@@ -14,7 +14,7 @@ players: [Izgil, Robin, Viepuck, Celyn]
 The session begins when [[Erdu]], a lizardfolk from [[Ganboa]], approaches Rosalind for help investigating the murder of a young lizardfolk woman, [[Gentza]]. 
 
 
-%%% RAW NOTES
+%% RAW NOTES
 
 Investigation of town, sees boyfriend ([[Izoko]]) sneaking around
 Looks downriver, Asieneau encounter with racist ([[Arnold the Miller]])
@@ -31,3 +31,5 @@ Attempt to charm fails
 Fight, including ankheg, Celyn almost dies, Izgil does the river thing, moon pull. Robin heals Celyn
 2 bandits die, one surrenders, one flees and is caught by guard (Jerome and Francious are the ones who survive)
 [[Jerome]], [[Francois the Bandit]], [[Terry the Bandit]], [[Robert the Bandit]]
+
+%%

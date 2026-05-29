@@ -22,4 +22,4 @@ dm_notes: color
 
 The Godcaller of the [[Bek'eni]] tribe of Deno'qai, under the sway of [[Mezzar]].
 
-%% with Theba's return, now disgraced and probably fled the village
+%% with Theba's return, now disgraced and probably fled the village %%

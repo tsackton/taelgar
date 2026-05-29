@@ -20,6 +20,6 @@ dm_notes: none
 
 The inn was founded during [[Cleenseau|Cleenseau's]] boom after the [[Third Hobgoblin War (Sembara)|war]], as a business venture, but has changed hands several times and despite its large stables and innyard, it has a reputation in the local business community as a money pit.
 
-%%%^Campaign:Clee%%
+%%^Campaign:Clee%%
 [[Viepuck]] spent some time performing here, and is well known if not exactly loved by [[Selma Wisthelwind]]. However, the night during which he recited the tale of the [[Cleenseau Spider Attacks]] with [[Celyn]] in the audience was one of her favorite evenings, the only time her inn outshone the [[The Crossroads Inn]] as the place to be.
-%%^End%
+%%^End%%

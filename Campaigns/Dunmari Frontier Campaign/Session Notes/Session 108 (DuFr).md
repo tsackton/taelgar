@@ -80,9 +80,9 @@ Once inside, they heard a booming voice emanating from the statue of the [[The S
 >
 >Kenzo: (to the group) "It's just Dimitaur behind all this, but it's fine. We share Rai's purpose—to keep Apollyon captive."
 >
->Seeker: (putting hands to the stone floor) "Let me use Tremorsense... There's something moving about ten feet below us, in a tunnel."
+>Seeker: (putting hands to the stone floor) "Let me use Tremorsense...there's something moving about ten feet below us, in a tunnel."
 >
->Wellby: "We're friends.."
+>Wellby: "We're friends."
 >
 >Delwath: "What proof would you accept if what we've done isn't enough?"
 >

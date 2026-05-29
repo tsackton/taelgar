@@ -23,7 +23,6 @@ A clear passage runs south into a broader chamber. Here, a carved stone chest si
 Seventy feet down that rift, a rough-hewn hallway ends in a broken pillar. The gargantuan rune-etched guardian that once rose from the pillar has vanished, leaving only gouged footprints and a toppled chunk of obsidian where its charge was kept. 
 
 %%^Campaign:none%%
-
 ## DM Notes - Current
 
 This area was explored and developed by [[Airion]]; likely before the [[Great War]] there as more developed structures around the entrance but all sign of these are gone. Possibly Airion's laboratory can be found by clearing the cave-in in the eastern tunnel (hours or more of hard labor). 
@@ -185,3 +184,5 @@ At the bottom, a rough passage stretches **40 ft** to a **rune-covered stone pil
 If negotiations fail, the party may simply leave and report back to **Lyra**—she will be disappointed but not surprised.
 
 ---
+
+%%^End%%
