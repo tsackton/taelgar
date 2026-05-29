@@ -1,5 +1,5 @@
 ---
-tags: [creature, status/wip, status/check/ai]
+tags: [creature, status/wip]
 name: Kenku
 aliases: [kenku]
 dm_owner: joint
@@ -7,57 +7,63 @@ dm_notes: none
 ---
 # Kenku
 
-Kenku, the birdfolk of Taelgar, favor high places and steady winds. Clifftop towns and pillar‑cities perch above sheltered harbors in the [[Eastern Green Sea]], while bands in the far north fly the cold thermals over open plains and mountain shoulders. Most travelers know them as keen‑eyed messengers, cliff pilots, and clever artisans; their homes are welcoming to guests, though not always easy for grounders to reach.
+%% kenku invention is pretty thin, although a little more detail emerged from the Into the Chasm game. this is intentionally light / WIP for now. More could be said everywhere %%
+
+Kenku, the birdfolk of Taelgar, favor high places and steady winds. Clifftop towns perch above sheltered harbors in the [[Eastern Green Sea]], while bands in the far north fly the summer thermals where the [[Sentinel Range|Sentinels]] meet the plains. Enigmatic, and rare are outside their homelands, most common folk know them from garbled stories and rumors of the [[Great War]]. 
 
 ## Appearance
 
-Kenku are humanoid birds. Most resemble ravens, hawks, owls, or eagles, with plumage, eyes, and beaks matching their avian kin. Feathered wings sprout from the back and support true flight. Clothing favors fitted flight leathers, windproof cloaks, and claw‑friendly fastenings.
-
-%% Not enough canonical detail on regional plumage variation, body size ranges, or sexual dimorphism. %%
+Kenku are humanoid birds. Northern kenku tend to resemble ravens, hawks, owls, or eagles, with plumage, eyes, and beaks matching their avian kin; islanders are more diverse, with individuals resembling gulls, terns, and songbirds as well. All kenku are feathered, with feathered wings that sprout from their back and support true flight. 
 
 ## Language and Naming
 
-Kenku speak their own tongue and trade broadly in Common across the Green Sea. Names often echo birdsong or wind and sky motifs; travelers sometimes adopt descriptive bynames in human ports.
+Kenku speak their own tongue and trade broadly in Common across the Green Sea. 
 
-%% Not enough invented: naming patterns across islander vs northern kenku; written script; dialect families. %%
+%%^Campaign:None%%
+
+I used Sioux and related languages from Google Translate for the islander kenku, to make them feel a little exotic. But this does not need to be a general model for the kenku tongue. Indeed, the entire history of the kenku tongue is a little unclear and perhaps there isn't a single kenku language? That is the islanders and others who never lived under Cha'mutte could speak a different language. 
+
+%%^End%%
 
 ## Lifecycle
 
 Kenku mature and age at roughly the same rate as humans. Clutch size, nesting seasonality, and elder care traditions are locally variable.
 
-%% Not enough invented: egg/incubation details; rites of fledging; elder longevity extremes. %%
-
 ## Settlements and Homelands
 
-The largest kenku communities in current travel routes cluster in the [[Vermillion Isles]] of the [[Eastern Green Sea]]. [[Wahacha]] is a notable port built in and among red stone pillars, with cliffside dwellings accessible primarily by flight. Farther north, kenku range across cold plains and mountains; small enclaves are reported in northern coasts and high ranges.
+Many kenku settled in the northern plains after the [[Great War]], east of the [[Sentinel Range|Sentinels]] and north of [[Vostok]]. These northern settlements are rarely visited by outsiders, and the exact extent of kenku communities in the north is a subject of much rumor and mystery. 
 
-%% Not enough invented: full list/map of kenku settlements outside Wahacha; western presence west of the Sentinels; relations with northern polities. %%
+Small communities live in isolation or among other species in a broad area across the northern half of the [[Green Sea]], with particularly notable populations in [[Tollen]] and the [[Zimkova|Sembaran highlands]]. Rumors also speak of large populations of islander kenku, living in the [[Eastern Green Sea]]. 
 
+Kenku are exceptionally rare west of the [[Sentinel Range]]] and south of the [[Green Sea]]. 
+
+%% more details can be added and developed, of course, but in general the basic trend of kenku as a largely Green Sea oriented people should be maintained. %%
+
+%%
 ## Cultural Traits
 
-Kenku settlements are built upward: tiered ledges, suspended bridges, and aerie platforms. Ground quarters near harbors host visiting traders. Many kenku work as pilots, messengers, scouts, or artisans; island communities cultivate peppers and trade spices, wind‑crafted goods, and flight services.
-
-%% Not enough invented: festivals, kinship structures, dispute resolution, hospitality codes for grounders, sky‑burial or other funerary rites. %%
+Not enough invented: festivals, kinship structures, dispute resolution, hospitality codes for grounders, sky‑burial or other funerary rites. %%
 
 ## Historical Perspective
 
-In living memory, kenku ports of the Eastern Green Sea have thrived as waypoints for halfling and human trade. Tales place their older heartlands in the far north among cold plains and mountains, but detailed histories are not widely shared with outsiders.
+Though kenku rarely speak of their history, rumors from the [[Great War]] record that kenku were subjugated by [[Cha'mutte]], living in squalor in [[Pandar]] and forced to work to support [[Cha'mutte]]'s war effort. Kenku warriors were among the fiercest opponents of [[Cha'mutte]] in the [[Great War]] and many died in the fighting. After the [[Great War]], many kenku retreated from settled lands to make their own way in the north. 
 
-%% Not enough invented: kenku roles during the Great War/Blood Years; migration waves; relations with elves, dwarves, lizardfolk across eras. %%
+Rumors claim that the islander kenku, living in the far eastern Green Sea, were never under Cha'mutte's thumb, and may preserve a memory of the pre-War history of the species. But if they do, they do not speak of it. 
+
+%%  more to say, of course, and much more that could be invented %%
 
 %%^Campaign:None%%
+
+Metaphysics and creation story left blank and hidden for now. There is 
+
 ## Metaphysics
 
-Kenku are counted among the Elder Folk in travelogues, but their specific creator‑deity, afterlife beliefs, and soul practices are not recorded in open sources.
 
-%% Not enough invented: creator(s), divine intermediaries, unique metaphysical traits beyond flight. %%
 
 ## Creation Story
 
-Kenku epics and origin tales are largely kept within their communities. Outsiders record only that “the birdfolk remember the winds of the far north.”
 
-%% Not enough invented: canonical creation narrative; ties (if any) to Embodied or Incorporeal gods. %%
-%%^End%%
+
 
 ## Details for DMs
 
@@ -89,3 +95,4 @@ Kenku epics and origin tales are largely kept within their communities. Outsider
 - People: People/Kenku/Makha.md; People/Kenku/Nahto.md; People/Kenku/Skoda.md; People/Kenku/Kecha.md
 - General background: Creatures/Creatures of Taelgar.md; Background/Languages.md
 
+%%^End%%

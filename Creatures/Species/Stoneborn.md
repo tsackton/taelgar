@@ -7,7 +7,7 @@ dm_notes: important
 ---
 # Stoneborn
 
-%% needs proofreading and double-checking %%
+%% major rewrite needed to find current format %%
 
 High above the clouds, on the tallest peak of a mountain range, a Stoneborn sits quietly, watching the sunrise. On the steep slopes below, a small village comes to life with the sounds of bells, morning prayer, and martial practice. Scattered throughout the inhospitable high places of the world, Stoneborn live reclusively, rarely gracing the lowlands with their presence.
 ### Mountain folk
