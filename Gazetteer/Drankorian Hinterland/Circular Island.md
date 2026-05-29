@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name, status/check/ai]
+tags: [place, status/check/name]
 displayDefaults: {defArt: "the"}
 name: Circular Island
 dm_owner: tim
@@ -14,6 +14,8 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% keeping status/check/name for now, but "The Circular Island" is pretty well established at this point. It probably had another Drankorian name but that could/should probably just be an alias %%
+
 The Circular Island, so-called for is unique perfectly circular shape, is a remote island in the [[Sea of Storms]], off the coast of the [[Drankorian Hinterland]]. The island is difficult to approach, ringed by violent storms and protected by old magic that interferes with ordinary travel and divination, and the old reliable modern accounts of it come from the travels of the [[Dunmar Fellowship]]. 
 
 The island contains many ancient ruins, dating to the days of the [[Drankorian Empire]] or even before, but the exact nature of these ruins, what once occupied the island, and its former importance is now mostly forgotten. 
@@ -22,7 +24,7 @@ The island contains many ancient ruins, dating to the days of the [[Drankorian E
 
 For those who have visited and explored the Circular Island, and uncovered some of its secrets, the story is much richer. Hidden by storms and guarded against magic, the Circular Island preserves something of Drankorian culture. It contains many ruins, ancient [[Mos Numena]] pilgrimage sites, [[Apollyon's Tower]], and hints of an ancient connection to [[Hkar]]. 
 
-However, the Circular Island is near-impossible to reach. It is protected by a massive, permanent storm that dispels all magic passing through it, and it is guarded against all magical scrying and teleportation. The only practical way to enter is to brave the storm and sail. 
+However, the Circular Island is near-impossible to reach. It is protected by a massive, permanent storm that dispels all magic passing through it, and it is guarded against all magical scrying and teleportation. The only practical way to enter is to [[Session 106 (DuFr)|brave the storm and sail]]. 
 
 ### History
 
@@ -54,15 +56,13 @@ The bulk of the population of the Circular Island are dragonets. Small, dragon-l
 
 [[Dimitaur]], an ancient dragonet and former companion of [[Rai]], lived hidden in the summit temple complex. He remembered Rai, knew more than most dragonets about the island's deeper history, and opposed Ra'ghemdros's hold over the island. Since [[Ra'ghemdros]]'s defeat, he has taken on a more prominent role in the island, though often with a focus primarily on ensuring he has more than enough to eat. 
 
-The [[Cloudspinner]], also known as the Queen of Sunset, was imprisoned on the island for centuries, but was freed by the [[Dunmar Fellowship]] and eventually returned to [[Amberglow]]. 
+The [[Cloudspinner]], also known as the Queen of Sunset, was imprisoned on the island for centuries, but was freed by the Dunmar Fellowship and eventually returned to [[Amberglow]]. 
 
 ### Recent Events
 
-In May 1749 DR, the [[Dunmar Fellowship]] journeyed to the Circular Island in search of the final [[Jade Piece of Rai's Hand]]. They recovered it from  Ra'ghemdros by trading her Apollyon's throne from the western tower. They then entered the Concordia Pyrae villa, defeated the fiend guarding the shadow prison, and freed the Cloudspinner's crystal from its bindings. Ra'ghemdros attacked the summit temple after Cloudspinner's release and was killed there. During and after the battle, factions of dragonets fought one another across the island. 
+In May 1749 DR, the [[Dunmar Fellowship]] [[Session 106 (DuFr)|journeyed to the Circular Island]] in search of the final [[Jade Piece of Rai's Hand]]. They [[Session 107 (DuFr)|explored the island]], [[Session 108 (DuFr)|met dragonets]], and finally [[Session 110 (DuFr)|acquired the jade from Ra'ghemdros]] by trading her Apollyon's throne, which they [[Session 109 (DuFr)|recovered from his western tower]]. They then [[Session 110 (DuFr)|entered the Concordia Pyrae villa]], defeated the fiend guarding the shadow prison, and freed the Cloudspinner's crystal from its bindings. Ra'ghemdros [[Session 110 (DuFr)|attacked the summit temple]] after Cloudspinner's release and was killed there. During and after the battle, factions of dragonets fought one another across the island. 
 
-With Ra'ghemdros' death, Dimitaur proclaimed himself Protector of the Forever Sunset and took charge of distributing or guarding what remained of Ra'ghemdros's hoard. But the present condition of the island remains unsettled, while the dragonets figure out how to make their own way. 
-
-%% Sources used: [[Session 106 (DuFr)]], [[Session 107 (DuFr)]], [[Session 108 (DuFr)]], [[Session 109 (DuFr)]], [[Session 110 (DuFr)]], [[Session 113 (DuFr)]], [[Apollyon's Tower]], [[Records of the Concordia Pyrae]], [[Concordia Pyrae]], [[Cloudspinner]], [[Ra'ghemdros]], [[Ghesh]], [[Megren]], [[Dimitaur]]. %%
+With Ra'ghemdros' death, [[Session 110 (DuFr)|Dimitaur proclaimed himself Protector of the Forever Sunset]] and took charge of distributing or guarding what remained of Ra'ghemdros's hoard. But the present condition of the island remains unsettled, while the dragonets figure out how to make their own way. 
 
 %%^End%%
 
