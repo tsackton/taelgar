@@ -17,6 +17,13 @@ const UNSUPPORTED_DATAVIEWJS_PATTERNS = [
   { pattern: /\brequire\s*\(/, reason: "uses CommonJS require" },
 ];
 
+const UNSUPPORTED_DATAVIEW_QUERY_PATTERNS = [
+  {
+    pattern: (source) => /\bfile\.lists\b/i.test(source) && /\bthis\.file\.name\b/i.test(source),
+    reason: "scans all file lists for the current page name",
+  },
+];
+
 function splitLinesWithPositions(text) {
   const lines = [];
   let offset = 0;
@@ -258,6 +265,12 @@ function detectUnsupportedDataviewJs(source) {
   );
 }
 
+function detectUnsupportedDataviewQuery(source) {
+  return UNSUPPORTED_DATAVIEW_QUERY_PATTERNS.filter((entry) => entry.pattern(source)).map(
+    (entry) => entry.reason,
+  );
+}
+
 function countRemainingDynamicMarkdown(text) {
   const fences = scanFencedCodeBlocks(text).filter((block) =>
     ["dataview", "dataviewjs"].includes(block.language),
@@ -278,6 +291,7 @@ module.exports = {
   KNOWN_INLINE_VIEWS,
   applyReplacements,
   countRemainingDynamicMarkdown,
+  detectUnsupportedDataviewQuery,
   detectUnsupportedDataviewJs,
   findInlineDataviewExpressions,
   formatInlineReplacement,

@@ -47,6 +47,16 @@ test("inline parser recognizes header views and campaign interaction calls", () 
   assert.equal(campaign.campaign, "DuFr");
 });
 
+test("detectUnsupportedDataviewQuery flags global file-list chronology scans", () => {
+  const query =
+    'LIST WITHOUT ID events.text flatten file.lists as events where contains(events.text, this.file.name) sort events.DR';
+
+  assert.deepEqual(core.detectUnsupportedDataviewQuery(query), [
+    "scans all file lists for the current page name",
+  ]);
+  assert.deepEqual(core.detectUnsupportedDataviewQuery("LIST FROM #person"), []);
+});
+
 test("findInlineDataviewExpressions ignores protected fenced ranges", () => {
   const input = [
     "`$=dv.view(\"_scripts/view/get_Whereabouts\")`",

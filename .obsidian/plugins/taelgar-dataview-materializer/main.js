@@ -108,13 +108,41 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
     await fsp.writeFile(target, JSON.stringify(report, null, 2) + "\n", "utf8");
   }
 
+  async readVaultFile(file) {
+    if (typeof this.app.vault.cachedRead === "function") {
+      return this.app.vault.cachedRead(file);
+    }
+    return this.app.vault.read(file);
+  }
+
+  addTimingTotals(totals, timing) {
+    totals.readMs += timing.readMs || 0;
+    totals.headerMs += timing.headerMs || 0;
+    totals.dataviewMs += timing.dataviewMs || 0;
+    totals.dataviewJsMs += timing.dataviewJsMs || 0;
+    totals.inlineMs += timing.inlineMs || 0;
+    totals.totalFileMs += timing.totalMs || 0;
+  }
+
   async runMaterialization(rawConfig) {
+    const startedMs = Date.now();
     const core = this.loadCore();
     const config = this.normalizeConfig(rawConfig);
+    const runtimeStartedMs = Date.now();
     const runtime = await this.prepareRuntime(config);
+    const prepareRuntimeMs = Date.now() - runtimeStartedMs;
 
     const materializedFiles = [];
     const fileReports = [];
+    const slowFiles = [];
+    const timingTotals = {
+      readMs: 0,
+      headerMs: 0,
+      dataviewMs: 0,
+      dataviewJsMs: 0,
+      inlineMs: 0,
+      totalFileMs: 0,
+    };
     const counts = {
       filesScanned: 0,
       filesChanged: 0,
@@ -133,6 +161,7 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
       const allMarkdownFiles = this.app.vault.getMarkdownFiles();
       const markdownFiles = allMarkdownFiles.filter((file) => this.shouldProcessVaultPath(file.path, config));
       counts.filesSkipped = allMarkdownFiles.length - markdownFiles.length;
+      const processStartedMs = Date.now();
       for (let index = 0; index < markdownFiles.length; index += 1) {
         const file = markdownFiles[index];
         await this.writeProgress(config, {
@@ -144,8 +173,19 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
         });
 
         counts.filesScanned += 1;
-        const original = await this.app.vault.read(file);
+        const fileStartedMs = Date.now();
+        const readStartedMs = Date.now();
+        const original = await this.readVaultFile(file);
+        const readMs = Date.now() - readStartedMs;
         const result = await this.materializeMarkdown(original, file, runtime, core, config);
+        result.report.timing.readMs = readMs;
+        result.report.timing.totalMs = Date.now() - fileStartedMs;
+        this.addTimingTotals(timingTotals, result.report.timing);
+        recordSlowFile(slowFiles, {
+          path: file.path,
+          ...result.report.timing,
+          counts: result.report.counts,
+        });
         materializedFiles.push({ path: file.path, content: result.content });
         fileReports.push(result.report);
 
@@ -163,9 +203,13 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
 
       const hasFailures = counts.errors > 0 || counts.unsupported > 0;
       const status = config.strict && hasFailures ? "failed" : "ok";
+      const processFilesMs = Date.now() - processStartedMs;
+      let copyMs = 0;
 
       if (config.mode === "write" && status === "ok") {
+        const copyStartedMs = Date.now();
         await this.copyVaultToOutput(config.outputPath, materializedFiles, config);
+        copyMs = Date.now() - copyStartedMs;
       }
 
       await this.writeProgress(config, {
@@ -183,6 +227,14 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
         vaultPath: config.vaultPath,
         outputPath: config.outputPath,
         counts,
+        performance: {
+          totalMs: Date.now() - startedMs,
+          prepareRuntimeMs,
+          processFilesMs,
+          copyMs,
+          timingTotals,
+          slowFiles,
+        },
         files: fileReports.filter(
           (entry) =>
             entry.changed ||
@@ -288,11 +340,13 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
     }
 
     const restoreCompatibilityAliases = this.installCompatibilityAliases(customJS);
+    const restoreMaterializationCaches = this.installMaterializationCaches(customJS, dataviewPlugin.api);
 
     return {
       api: dataviewPlugin.api,
       customJS,
       restore: () => {
+        restoreMaterializationCaches();
         restoreCompatibilityAliases();
         customJS.state.overrideDate = previousOverrideDate;
         customJS.state.coreMeta = previousCoreMeta;
@@ -344,6 +398,109 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
     };
   }
 
+  installMaterializationCaches(customJS, dataviewApi) {
+    const patches = [];
+    const patchMethod = (object, key, replacementFactory) => {
+      if (!object || typeof object[key] !== "function") return;
+      const original = object[key];
+      object[key] = replacementFactory(original.bind(object), object);
+      patches.push(() => {
+        object[key] = original;
+      });
+    };
+
+    patchMethod(customJS.NameManager, "getFileForTarget", (original) => {
+      const cache = new Map();
+      return (target, filter) => {
+        if (filter || typeof target !== "string") return original(target, filter);
+
+        const key = target.toLowerCase();
+        if (!cache.has(key)) {
+          cache.set(key, original(target, filter) || null);
+        }
+        return cache.get(key) || undefined;
+      };
+    });
+
+    patchMethod(customJS.AffiliationManager, "getLeadBy", (original, manager) => {
+      const resultCache = new Map();
+      const leaderIndexCache = new Map();
+
+      const getPages = () => {
+        const pages = dataviewApi.pages();
+        if (pages && typeof pages.array === "function") return pages.array();
+        return Array.from(pages || []);
+      };
+
+      const buildLeaderIndex = (targetDate) => {
+        const targetKey = targetDate.sort;
+        if (leaderIndexCache.has(targetKey)) return leaderIndexCache.get(targetKey);
+
+        const grouped = new Map();
+        for (const page of getPages()) {
+          for (const aff of manager.getAffiliations(page) || []) {
+            if (aff.type !== "leader") continue;
+            if (aff.startDate.sort > targetDate.sort || aff.endDate.sort < targetDate.sort) continue;
+
+            const entries = grouped.get(aff.org) || [];
+            entries.push({ file: page, aff });
+            grouped.set(aff.org, entries);
+          }
+        }
+
+        leaderIndexCache.set(targetKey, grouped);
+        return grouped;
+      };
+
+      return (thing, targetDate) => {
+        const { DateManager, NameManager, TokenParser } = customJS;
+        const normalizedDate = targetDate
+          ? DateManager.normalizeDate(targetDate)
+          : DateManager.getTargetDateForPage();
+        if (!normalizedDate) return original(thing, targetDate);
+
+        const cacheKey = `${thing}\u0000${normalizedDate.sort}`;
+        if (resultCache.has(cacheKey)) return resultCache.get(cacheKey);
+
+        const file = NameManager.getFileForTarget(thing);
+        const displayData = NameManager.getDisplayData(file.frontmatter);
+        const leaderAffs = buildLeaderIndex(normalizedDate).get(thing) || [];
+        const lines = [];
+
+        for (const aff of leaderAffs) {
+          const dateInfo = {
+            startDate: aff.aff.startDate,
+            endDate: aff.aff.endDate,
+            isCreated: true,
+            isAlive: undefined,
+            age: undefined,
+          };
+
+          DateManager.setPageDateProperties(dateInfo, normalizedDate);
+          lines.push(
+            TokenParser.formatDisplayString(
+              displayData?.ruledBy,
+              { name: aff.file.file.name, frontmatter: aff.file },
+              normalizedDate,
+              {
+                dateInfo,
+                affiliationtitle: aff.aff.title,
+              },
+            ),
+          );
+        }
+
+        const result = lines.join("\n");
+        resultCache.set(cacheKey, result);
+        return result;
+      };
+    });
+
+    return () => {
+      for (const restore of patches.reverse()) restore();
+    };
+  }
+
   waitForLayout() {
     if (this.app.workspace.layoutReady) return Promise.resolve();
     return new Promise((resolve) => {
@@ -378,6 +535,7 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
   }
 
   async materializeMarkdown(original, file, runtime, core, config) {
+    const timingStartedMs = Date.now();
     const report = {
       path: file.path,
       changed: false,
@@ -395,10 +553,18 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
         dataviewJsFences: 0,
         inlineExpressions: 0,
       },
+      timing: {
+        headerMs: 0,
+        dataviewMs: 0,
+        dataviewJsMs: 0,
+        inlineMs: 0,
+        totalMs: 0,
+      },
     };
 
     let source = original;
     if (config.headerType !== "none") {
+      const headerStartedMs = Date.now();
       try {
         const regenerated = this.regenerateHeader(source, file, runtime, config.headerType);
         if (regenerated !== source) {
@@ -412,6 +578,8 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
           line: 1,
           message: `Header regeneration failed: ${error.message}`,
         });
+      } finally {
+        report.timing.headerMs += Date.now() - headerStartedMs;
       }
     }
 
@@ -428,6 +596,13 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
 
       if (block.language === "dataview") {
         report.counts.dataviewBlocks += 1;
+        const unsupportedReasons = core.detectUnsupportedDataviewQuery(block.body);
+        if (unsupportedReasons.length > 0) {
+          this.addIssue(report, "unsupported", block, unsupportedReasons.join("; "));
+          continue;
+        }
+
+        const queryStartedMs = Date.now();
         try {
           const rendered = await withTimeout(
             runtime.api.tryQueryMarkdown(block.body, file.path),
@@ -441,6 +616,8 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
           });
         } catch (error) {
           this.addIssue(report, "error", block, error.message);
+        } finally {
+          report.timing.dataviewMs += Date.now() - queryStartedMs;
         }
         continue;
       }
@@ -452,6 +629,7 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
         continue;
       }
 
+      const jsStartedMs = Date.now();
       try {
         const rendered = await withTimeout(
           this.renderDataviewJs(block.body, file, runtime),
@@ -465,6 +643,8 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
         });
       } catch (error) {
         this.addIssue(report, "error", block, error.message);
+      } finally {
+        report.timing.dataviewJsMs += Date.now() - jsStartedMs;
       }
     }
 
@@ -475,6 +655,7 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
     }));
     const inlineExpressions = core.findInlineDataviewExpressions(materialized, protectedRanges);
     const inlineReplacements = [];
+    const inlineStartedMs = Date.now();
 
     for (const expression of inlineExpressions) {
       const parsed = core.parseKnownInlineExpression(expression.expression);
@@ -506,10 +687,12 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
         });
       }
     }
+    report.timing.inlineMs += Date.now() - inlineStartedMs;
 
     materialized = core.applyReplacements(materialized, inlineReplacements);
     report.remaining = core.countRemainingDynamicMarkdown(materialized);
     report.changed = materialized !== original;
+    report.timing.totalMs = Date.now() - timingStartedMs;
 
     return {
       content: materialized,
@@ -799,7 +982,7 @@ class CapturingDataviewAdapter {
     const viewFile = this.resolveViewFile(viewName);
     if (!viewFile) throw new Error(`Dataview view not found: ${viewName}`);
 
-    const source = await this.plugin.app.vault.read(viewFile);
+    const source = await this.plugin.readVaultFile(viewFile);
     const before = this.outputs.length;
     const result = await this.executeSource(source, input);
     if (result !== undefined && result !== null && this.outputs.length === before) {
@@ -842,6 +1025,12 @@ class CapturingDataviewAdapter {
 function normalizeRenderedMarkdown(value) {
   if (value === undefined || value === null) return "";
   return String(value).trimEnd();
+}
+
+function recordSlowFile(slowFiles, entry, limit = 25) {
+  slowFiles.push(entry);
+  slowFiles.sort((a, b) => b.totalMs - a.totalMs);
+  if (slowFiles.length > limit) slowFiles.length = limit;
 }
 
 function progressPathFor(reportPath) {

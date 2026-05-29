@@ -392,6 +392,16 @@ export function summarizeReport(report) {
       dataviewJsBlocks: report.counts.remainingDataviewJsBlocks,
       inlineExpressions: report.counts.remainingInlineExpressions,
     },
+    performance: report.performance
+      ? {
+          totalMs: report.performance.totalMs,
+          prepareRuntimeMs: report.performance.prepareRuntimeMs,
+          processFilesMs: report.performance.processFilesMs,
+          copyMs: report.performance.copyMs,
+          timingTotals: report.performance.timingTotals,
+          slowFiles: (report.performance.slowFiles || []).slice(0, 10),
+        }
+      : undefined,
   };
 }
 
