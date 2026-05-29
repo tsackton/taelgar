@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Read-only quality scanner for Taelgar Obsidian markdown notes."""
+"""Quality scanner and optional wiki-link fixer for Taelgar markdown notes."""
 
 from __future__ import annotations
 
@@ -95,6 +95,15 @@ class Issue:
     suggestion: str = ""
 
 
+@dataclass(frozen=True)
+class LinkReplacement:
+    start: int
+    end: int
+    replacement: str
+    line: int
+    original: str
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description=__doc__,
@@ -128,7 +137,34 @@ def parse_args() -> argparse.Namespace:
         default=500,
         help="Maximum issues to print; use 0 for no limit (default: 500).",
     )
+    parser.add_argument(
+        "--duplicate-filenames",
+        action="store_true",
+        help="Only report duplicate filenames, scanning every non-dot path.",
+    )
+    parser.add_argument(
+        "--replace-wikilinks",
+        action="store_true",
+        help=(
+            "Replace pathful wiki links with basename links when the basename is "
+            "unique across markdown notes in every non-dot directory."
+        ),
+    )
+    parser.add_argument(
+        "--dry-run",
+        action="store_true",
+        help="With --replace-wikilinks, report replacements without writing files.",
+    )
     return parser.parse_args()
+
+
+def should_skip_dot_dir(root: Path, dir_path: Path) -> bool:
+    rel_parts = dir_path.relative_to(root).parts
+    if not rel_parts:
+        return False
+
+    name = rel_parts[-1]
+    return name.startswith(".")
 
 
 def should_skip_dir(root: Path, dir_path: Path) -> bool:
@@ -144,6 +180,26 @@ def should_skip_dir(root: Path, dir_path: Path) -> bool:
         if rel_parts[: len(subtree)] == subtree:
             return True
     return False
+
+
+def iter_files_no_dot_dirs(root: Path) -> Iterable[Path]:
+    for dirpath, dirnames, filenames in os.walk(root):
+        current = Path(dirpath)
+        dirnames[:] = [
+            dirname
+            for dirname in sorted(dirnames)
+            if not should_skip_dot_dir(root, current / dirname)
+        ]
+        for filename in sorted(filenames):
+            if filename.startswith("."):
+                continue
+            yield current / filename
+
+
+def iter_markdown_files_no_dot_dirs(root: Path) -> Iterable[Path]:
+    for path in iter_files_no_dot_dirs(root):
+        if path.is_file() and path.name.lower().endswith(".md"):
+            yield path
 
 
 def iter_markdown_files(root: Path) -> Iterable[Path]:
@@ -201,10 +257,42 @@ def escape_markdown_cell(value: object) -> str:
 
 def build_note_stem_counts(root: Path) -> dict[str, int]:
     counts: dict[str, int] = {}
-    for path in iter_markdown_files(root):
+    for path in iter_markdown_files_no_dot_dirs(root):
         key = path.stem.casefold()
         counts[key] = counts.get(key, 0) + 1
     return counts
+
+
+def duplicate_filename_issues(root: Path) -> tuple[list[Issue], int]:
+    paths_by_name: dict[str, list[Path]] = {}
+    file_count = 0
+
+    for path in iter_files_no_dot_dirs(root):
+        if not path.is_file():
+            continue
+        file_count += 1
+        key = path.name.casefold()
+        paths_by_name.setdefault(key, []).append(path)
+
+    issues: list[Issue] = []
+    for paths in paths_by_name.values():
+        if len(paths) < 2:
+            continue
+        sorted_paths = sorted(paths, key=lambda path: path.relative_to(root).as_posix().casefold())
+        display_paths = [path_for_report(path, root) for path in sorted_paths]
+        issues.append(
+            Issue(
+                severity="warn",
+                check="duplicate-filename",
+                path=sorted_paths[0].name,
+                line=0,
+                message=f"Filename appears {len(sorted_paths)} times",
+                snippet="; ".join(display_paths),
+                suggestion="Rename or keep pathful links when this filename is a note target.",
+            )
+        )
+
+    return issues, file_count
 
 
 def note_link_target_parts(raw_target: str) -> tuple[str, str, str]:
@@ -222,9 +310,37 @@ def simplified_wikilink_suggestion(
 ) -> str:
     if alias_suffix.startswith("|"):
         alias = alias_suffix[1:]
-        if alias == basename:
+        if alias == basename and not anchor_suffix:
             alias_suffix = ""
     return f"[[{basename}{anchor_suffix}{alias_suffix}]]"
+
+
+def pathful_wikilink_replacement(
+    raw_target: str,
+    stem_counts: dict[str, int],
+) -> str | None:
+    target, anchor_suffix, alias_suffix = note_link_target_parts(raw_target.strip())
+    if "/" not in target:
+        return None
+    if Path(target).suffix.lower() in MEDIA_EXTENSIONS:
+        return None
+
+    basename = target.rsplit("/", 1)[-1]
+    base_stem = Path(basename).stem
+    if Path(basename).suffix.lower() == ".md":
+        basename = base_stem
+    if stem_counts.get(base_stem.casefold(), 0) != 1:
+        return None
+
+    replacement = simplified_wikilink_suggestion(
+        basename,
+        anchor_suffix,
+        alias_suffix,
+    )
+    original = f"[[{raw_target}]]"
+    if replacement == original:
+        return None
+    return replacement
 
 
 def check_wikilinks(
@@ -236,26 +352,19 @@ def check_wikilinks(
     for line_number, line in numbered_lines:
         for match in WIKILINK_PATTERN.finditer(line):
             raw_target = match.group(1).strip()
-            target, anchor_suffix, alias_suffix = note_link_target_parts(raw_target)
+            target, _, _ = note_link_target_parts(raw_target)
             if "/" not in target:
                 continue
             if Path(target).suffix.lower() in MEDIA_EXTENSIONS:
                 continue
 
-            basename = target.rsplit("/", 1)[-1]
-            base_stem = Path(basename).stem
-            if Path(basename).suffix.lower() == ".md":
-                basename = base_stem
-            unique = stem_counts.get(base_stem.casefold(), 0) == 1
+            replacement = pathful_wikilink_replacement(raw_target, stem_counts)
+            unique = replacement is not None
             suggestion = ""
             message = "Wiki link uses a full path"
             severity = "warn"
             if unique:
-                suggestion = simplified_wikilink_suggestion(
-                    basename,
-                    anchor_suffix,
-                    alias_suffix,
-                )
+                suggestion = replacement
             else:
                 message += "; basename may be ambiguous"
                 severity = "info"
@@ -537,6 +646,144 @@ def check_frontmatter(
     return []
 
 
+def line_start_offsets(text: str) -> list[int]:
+    starts = [0]
+    for match in re.finditer(r"\n", text):
+        starts.append(match.end())
+    return starts
+
+
+def offset_to_line(offset: int, starts: Sequence[int]) -> int:
+    low = 0
+    high = len(starts)
+    while low + 1 < high:
+        mid = (low + high) // 2
+        if starts[mid] <= offset:
+            low = mid
+        else:
+            high = mid
+    return low + 1
+
+
+def collect_wikilink_replacements(
+    text: str,
+    stem_counts: dict[str, int],
+) -> list[LinkReplacement]:
+    replacements: list[LinkReplacement] = []
+    starts = line_start_offsets(text)
+    offset = 0
+    in_code_fence = False
+
+    for line in text.splitlines(keepends=True):
+        if line.lstrip().startswith("```"):
+            in_code_fence = not in_code_fence
+            offset += len(line)
+            continue
+        if in_code_fence:
+            offset += len(line)
+            continue
+
+        for match in WIKILINK_PATTERN.finditer(line):
+            raw_target = match.group(1)
+            replacement = pathful_wikilink_replacement(raw_target, stem_counts)
+            if replacement is None:
+                continue
+
+            start = offset + match.start()
+            end = offset + match.end()
+            replacements.append(
+                LinkReplacement(
+                    start=start,
+                    end=end,
+                    replacement=replacement,
+                    line=offset_to_line(start, starts),
+                    original=match.group(0),
+                )
+            )
+
+        offset += len(line)
+
+    return replacements
+
+
+def apply_replacements(text: str, replacements: Sequence[LinkReplacement]) -> str:
+    updated = text
+    for replacement in sorted(replacements, key=lambda item: item.start, reverse=True):
+        updated = (
+            updated[: replacement.start]
+            + replacement.replacement
+            + updated[replacement.end :]
+        )
+    return updated
+
+
+def replace_wikilinks(
+    root: Path,
+    stem_counts: dict[str, int],
+    dry_run: bool,
+) -> tuple[list[Issue], int, int]:
+    files = list(iter_markdown_files(root))
+    issues: list[Issue] = []
+    changed_files = 0
+    replacement_count = 0
+
+    for path in files:
+        rel_path = path_for_report(path, root)
+        try:
+            text = path.read_text(encoding="utf-8")
+        except UnicodeDecodeError as exc:
+            issues.append(
+                Issue(
+                    severity="error",
+                    check="read-error",
+                    path=rel_path,
+                    line=1,
+                    message=str(exc),
+                )
+            )
+            continue
+        except OSError as exc:
+            issues.append(
+                Issue(
+                    severity="error",
+                    check="read-error",
+                    path=rel_path,
+                    line=1,
+                    message=str(exc),
+                )
+            )
+            continue
+
+        replacements = collect_wikilink_replacements(text, stem_counts)
+        if not replacements:
+            continue
+
+        changed_files += 1
+        replacement_count += len(replacements)
+        for replacement in replacements:
+            issues.append(
+                Issue(
+                    severity="info",
+                    check="wikilink-replacement",
+                    path=rel_path,
+                    line=replacement.line,
+                    message=(
+                        "Would replace pathful wiki link"
+                        if dry_run
+                        else "Replaced pathful wiki link"
+                    ),
+                    snippet=replacement.original,
+                    suggestion=replacement.replacement,
+                )
+            )
+
+        if not dry_run:
+            updated = apply_replacements(text, replacements)
+            path.write_text(updated, encoding="utf-8")
+
+    return issues, changed_files, replacement_count
+
+
 def scan_file(path: Path, root: Path, stem_counts: dict[str, int]) -> list[Issue]:
     rel_path = path_for_report(path, root)
     try:
@@ -593,6 +840,9 @@ def render_markdown(
     issues: Sequence[Issue],
     total_issue_count: int,
     limit: int,
+    title: str = "Vault Quality Scan",
+    scope_description: str = "skips dot directories, underscore directories, and `Worldbuilding/Chats and Emails`",
+    extra_summary: Sequence[str] = (),
 ) -> str:
     visible = list(issues)
     limited = limit > 0 and len(visible) > limit
@@ -600,13 +850,14 @@ def render_markdown(
         visible = visible[:limit]
 
     lines = [
-        "# Vault Quality Scan",
+        f"# {title}",
         "",
         f"- Root: `{root}`",
-        "- Scope: skips dot directories, underscore directories, and `Worldbuilding/Chats and Emails`",
+        f"- Scope: {scope_description}",
         f"- Files scanned: {file_count}",
         f"- Issues found: {total_issue_count}",
     ]
+    lines.extend(extra_summary)
     if limited:
         lines.append(f"- Issues shown: {limit}")
 
@@ -669,16 +920,20 @@ def render_json(
     root: Path,
     file_count: int,
     issues: Sequence[Issue],
+    skipped: dict[str, object] | None = None,
+    extra: dict[str, object] | None = None,
 ) -> str:
     payload = {
         "root": str(root),
-        "skipped": {
+        "skipped": skipped or {
             "directoryPrefixes": [".", "_"],
             "subtrees": ["/".join(parts) for parts in sorted(SKIP_SUBTREES)],
         },
         "filesScanned": file_count,
         "issues": [asdict(issue) for issue in issues],
     }
+    if extra:
+        payload.update(extra)
     return json.dumps(payload, indent=2, ensure_ascii=False) + "\n"
 
 
@@ -696,8 +951,82 @@ def main() -> int:
         raise SystemExit(f"Root does not exist: {root}")
     if not root.is_dir():
         raise SystemExit(f"Root is not a directory: {root}")
+    if args.dry_run and not args.replace_wikilinks:
+        raise SystemExit("--dry-run is only meaningful with --replace-wikilinks")
+    if args.duplicate_filenames and args.replace_wikilinks:
+        raise SystemExit("--duplicate-filenames and --replace-wikilinks are separate modes")
 
     stem_counts = build_note_stem_counts(root)
+
+    if args.duplicate_filenames:
+        issues, file_count = duplicate_filename_issues(root)
+        filtered_issues = sort_issues(filter_issues(issues, args.min_severity))
+        total_issue_count = len(filtered_issues)
+        skipped = {"directoryPrefixes": ["."], "filePrefixes": ["."]}
+        if args.format == "json":
+            report = render_json(root, file_count, filtered_issues, skipped=skipped)
+        elif args.format == "tsv":
+            visible = filtered_issues
+            if args.limit > 0:
+                visible = visible[: args.limit]
+            report = render_tsv(visible)
+        else:
+            report = render_markdown(
+                root,
+                file_count,
+                filtered_issues,
+                total_issue_count,
+                args.limit,
+                title="Duplicate Filename Scan",
+                scope_description="skips dot directories and dotfiles only",
+            )
+        write_report(report, args.output)
+        return 1 if any(issue.severity == "error" for issue in filtered_issues) else 0
+
+    if args.replace_wikilinks:
+        issues, changed_files, replacement_count = replace_wikilinks(
+            root,
+            stem_counts,
+            args.dry_run,
+        )
+        file_count = len(list(iter_markdown_files(root)))
+        filtered_issues = sort_issues(filter_issues(issues, args.min_severity))
+        total_issue_count = len(filtered_issues)
+        extra = {
+            "dryRun": args.dry_run,
+            "changedFiles": changed_files,
+            "replacementCount": replacement_count,
+        }
+        if args.format == "json":
+            report = render_json(root, file_count, filtered_issues, extra=extra)
+        elif args.format == "tsv":
+            visible = filtered_issues
+            if args.limit > 0:
+                visible = visible[: args.limit]
+            report = render_tsv(visible)
+        else:
+            action = "Wikilink Replacement Dry Run" if args.dry_run else "Wikilink Replacement"
+            file_summary_label = (
+                "Files that would change" if args.dry_run else "Files changed"
+            )
+            replacement_summary_label = (
+                "Potential replacements" if args.dry_run else "Replacements"
+            )
+            report = render_markdown(
+                root,
+                file_count,
+                filtered_issues,
+                total_issue_count,
+                args.limit,
+                title=action,
+                extra_summary=(
+                    f"- {file_summary_label}: {changed_files}",
+                    f"- {replacement_summary_label}: {replacement_count}",
+                ),
+            )
+        write_report(report, args.output)
+        return 1 if any(issue.severity == "error" for issue in filtered_issues) else 0
+
     files = list(iter_markdown_files(root))
     issues: list[Issue] = []
     for path in files:
