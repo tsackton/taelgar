@@ -4,7 +4,7 @@
 
 Use this as the orientation note for building the adventure's scene structure. The actual structure should live in a Canvas, not in a table. This page is mostly instructions and conventions; only add a scene list or notes here if they help keep the Canvas understandable.
 
-Start from the scene Canvas template: [[_dm_notes/Adventure Design Templates/03 Scenes - Template.canvas]]
+Start from the scene Canvas template: [[03 Scenes - The Fey Heart.canvas]]
 
 ## Design references
 
