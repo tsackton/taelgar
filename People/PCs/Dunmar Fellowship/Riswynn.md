@@ -5,16 +5,18 @@ campaignInfo:
 name: Riswynn
 born:
 species: dwarf
-ancestry:
+ancestry: Nardith
 gender: female
 player: Kate Sackton
 dm_owner: player
 dm_notes: important
-affiliations: [{org: Dunmar Fellowship, type: primary}]
+affiliations: 
+- {org: Dunmar Fellowship, type: primary}
+- {org: Brawnanvils, type: primary }
 ---
 # Riswynn
 >[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (she/her)  
+> A [[Nardith]] [[Dwarves|dwarf]] (she/her), of the [[Dunmar Fellowship]], and the [[Brawnanvils|Brawnanvil Clan]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 ![[riswynn.png|400]]

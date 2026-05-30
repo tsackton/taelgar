@@ -18,7 +18,7 @@ The Silversparks are a historically minor dwarven clan from [[Nardith]]. The mos
 More recently, the clan has seen renewed prominence due to their associated with the famous dwarven hero [[Riswynn|Riswynn Brawnanvil]], particularly through [[Kethra|Kethra Silverspark]].
 %%^End%%
 
-### Current and Former Members
+###  Members
 ```dataviewjs
 const { util } = customJS
 dv.table(["Person", "Info", "Current Location"], 

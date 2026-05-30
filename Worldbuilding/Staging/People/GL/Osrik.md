@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, status/check/ai]
-name: Osrik
+name: Osrik Shockstone
 species: dwarf
 gender: male
 affiliations:
