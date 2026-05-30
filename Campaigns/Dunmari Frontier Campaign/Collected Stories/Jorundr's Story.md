@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [source]
+tags: [source, status/check/errors]
 ---
 # Jorundr's Story
 ([[Session 71 (DuFr)|collected by]] [[Kenzo]])
+
+%% metaphysics needs a brief update, see the end / Elder Folk link %%
 
 [[Jorundr]]'s story starts east and north of here, in the [[Green Sea]]. He was born to some of my kind of who live underwater there -- while many of our kind dwell in the high mountains among the clouds, others dwell deep below the sea. 
 
