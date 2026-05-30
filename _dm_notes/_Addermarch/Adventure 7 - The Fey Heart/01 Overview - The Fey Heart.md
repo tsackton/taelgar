@@ -14,41 +14,38 @@ The PCs must `find a way into the Feywild and back to the Singing Tree` because 
 
 Reference: [Designing on Purpose](https://theangrygm.com/designing-on-purpose/).
 
-Where does the adventure begin, and what do the players understand when play starts?
+We'll pick up at Caradoc's. The premise is obvious, though the players don't know exactly how much time they have before the Singing Tree reawakens, and are unaware of other challenges that will make this difficult. 
 
 ## Adventure goal
 
 References: [Designing on Purpose](https://theangrygm.com/designing-on-purpose/); [Challenge Or Goal?](https://theangrygm.com/challenge-or-goal/).
 
-What does success mean in concrete table terms?
+The goal of the adventure is to return the stolen heart to the Singing Tree, thereby calming Morlaith and ending the threat to Haldrenn and the rest of the Highmoor. 
 
 ## Central challenge
 
 References: [Designing on Purpose](https://theangrygm.com/designing-on-purpose/); [Challenge Or Goal?](https://theangrygm.com/challenge-or-goal/).
 
-Why can the PCs not simply achieve the goal?
+
 
 ## X-factor
 
 Reference: [Momentous and Inertial Adventure Design](https://theangrygm.com/momentous-and-inertial-adventure-design/).
 
-What is this adventure mostly about at the table? Exploration, investigation, interaction, travel, acquisition, survival, killing, defense, escape, or something else?
 
-## Dramatic question
 
-Will the PCs `_____` before `_____`?
 
 ## Inertia
 
 References: [Inertia: Fighting Failure](https://theangrygm.com/inertia-fighting-failure/); [Momentous and Inertial Adventure Design](https://theangrygm.com/momentous-and-inertial-adventure-design/).
 
-What pushes the adventure toward failure, danger, cost, or complication if the PCs hesitate or choose poorly?
+There are basically two clocks running. On the one hand, you have the Singing Tree clock - the tree will regrow, and when it does it will be mad. On the other hand, Umbraeth's hunters are seeking the heart as well, and ideally will steal it and destroy it. 
 
 ## Momentum
 
 References: [Momentum: Building Victory](https://theangrygm.com/momentum-building-victory/); [Momentous and Inertial Adventure Design](https://theangrygm.com/momentous-and-inertial-adventure-design/).
 
-What helps success build on itself?
+The heart wants to be reunited with the Singing Tree. The closer the players get to the tree, the more strongly the heart points the direction, and maybe even hinders the forces of Umbraeth. 
 
 ## Outcomes
 

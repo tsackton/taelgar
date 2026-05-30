@@ -30,7 +30,7 @@ What does success mean in concrete table terms?
 
 ## Central challenge
 
-References: [Designing on Purpose](https://theangrygm.com/designing-on-purpose/); [Challenge Or Goal?](https://theangrygm.com/challenge-or-goal/).
+References: [Designing on Purpose](https://theangrygm.com/designing-on-purpose/); [What Makes a Challenge](https://theangrygm.com/what-makes-a-challenge/); [Challenge Or Goal?](https://theangrygm.com/challenge-or-goal/).
 
 Why can the PCs not simply achieve the goal?
 

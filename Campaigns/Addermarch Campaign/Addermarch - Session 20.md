@@ -36,7 +36,7 @@ The party defeats the serpentine warlock beneath [[Serethwyn Tor]], recovers [[D
 - **Serpentine warlock** - The final guardian beneath Serethwyn Tor, wielding the [[Serpentine Battleaxe]] amid scraped piles of serpentine.
 - **[[Duncan of Haldrenn]]** - Found dead and decapitated in the chamber below, with letters charting his increasingly broken path.
 - **[[Geoffrey]], the Stranger** - Named in Duncan's letters as a serpentine seeker backed by an unknown patron.
-- **Kelvyn** - Addressee of Duncan's letters, said to be a guard in the Earl of [[Adderfell]]'s household.
+- **[[Kelvyn]]** - Addressee of Duncan's letters, said to be a guard in the Earl of [[Adderfell]]'s household.
 - **Dead ranger of Serethwyn Tor** - Questioned with _Speak with Dead_ about the [[Avatus]] wars and the Serpentine Register.
 - **[[Arvanko]]** - Ranger whose earlier mention of the Serpentine Register is confirmed by the dead ranger
 - **[[Caradoc]]** - Alchemist and advisor; the party heads for his cottage at session's end.
