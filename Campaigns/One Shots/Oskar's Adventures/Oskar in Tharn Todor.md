@@ -34,7 +34,7 @@ The next morning, [[Riswynn]] and [[Oskar]] set out for the mountains, heading t
 - (DR:: 1748-04-24): A strange meteor crashes in [[Yuvanti Mountains]]
 - (DR:: 1748-05-14): A strange, almost angelic humanoid staggers down the mountain and speaks to [[Ken-to]]
 - (DR:: 1748-05-18): [[Ken-to]] arrives in [[Tharn Todor]], gives [[Riswynn]] and [[Oskar]] news of the strange meteor and wounded [[Deva|angelic creature]], and asks for help.
-- (DR:: 1748-05-19): [[Riswynn]], [[Ken-to]], and [[Oskar]] travel to Ken-to's hut to investigate situation, and defeat a devil who is trying to summon more fiends.
+- (DR:: 1748-05-19): [[Riswynn]], [[Ken-to]], and [[Oskar]] travel to [[Ken-to]]'s hut to investigate situation, and defeat a devil who is trying to summon more fiends.
 
 ## Episode 3: The Cultist's Cave
 
