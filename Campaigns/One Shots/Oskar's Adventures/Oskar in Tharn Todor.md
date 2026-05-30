@@ -13,7 +13,7 @@ name: Oskar in Tharn Todor
 > *In Taelgar: Apr 4, 1748 DR to June 3, 1748 DR*
 > *[[Tharn Todor]] and environs*
 
-After [[Riswynn]] returned to [[Tharn Todor]] with the [[Brawnanvil Shield]], recovered from [[Raven's Hold]], she met a dwarven wanderer, [[Oskar]], who had recently returned from a long journey to the north. These are the stories of their adventures in the spring of DR 1748.
+After [[Riswynn]] returned to [[Tharn Todor]] with the [[Shield of the Brawnanvil Clan]], recovered from [[Raven's Hold]], she met a dwarven wanderer, [[Oskar]], who had recently returned from a long journey to the north. These are the stories of their adventures in the spring of DR 1748.
 
 *Meta: this was three family one-shots played in spring and early summer in 2021.*
 

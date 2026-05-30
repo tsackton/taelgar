@@ -7,16 +7,16 @@ species: dwarf
 gender: male
 affiliations: [Brawnanvils]
 whereabouts:
-- {type: home, location: "Raven's Hold"}
+- {type: home, end: 1544, location: "Raven's Hold"}
 - {type: home, start: 1547-01-01, end: '', location: 'Tharn Todor'}
 dm_owner: none
 dm_notes: color
 ---
 # Eberk Brawnanvil
->[!info]+ Biographical Info
-> a [[Dwarves|dwarf]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Biographical Info  
+> A [[Dwarves|dwarf]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% some color notes from Riswynn's backstory to copy %%
