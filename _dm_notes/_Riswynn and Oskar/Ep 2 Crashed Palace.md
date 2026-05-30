@@ -17,7 +17,7 @@ One week after end of the Chuul adventure this starts.
  
 ## Deva Battle
  
-Returning to Ken-to's hut, the wounded deva is being attacked by magma mephits and two spined devils.
+Returning to [[Ken-to]]'s hut, the wounded deva is being attacked by magma mephits and two spined devils.
  
 ## Mountain Paths
  

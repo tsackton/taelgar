@@ -10,7 +10,7 @@ A dwarven ranger with stoneclaw, a hyena companion.
  
 Parents own an inn in Tharn Todor, The Red Shield tavern.
  
-Knows Riswynn, Ken-to, Agnor.
+Knows Riswynn, [[Ken-to]], Agnor.
  
 Traveled to the far north for some time and met Adrik, Brelith, Aelar, and Samso.
  
