@@ -7,7 +7,7 @@ dm_notes: none
 
 %% See [[Language - Discussions]] for background and [[Languages - Open Questions]] for open questions %%
 
-The common languages of Taelgar spoken by [[Humans|humans]] and the [[Elder Folk]] all derive from the original languages spoken by the first of each species to awaken. For [[Dwarves|dwarves]], [[Elves|elves]], [[Halflings|halflings]], [[Stoneborn|stoneborn]], and [[Lizardfolk|lizardfolk]] this original language has not changed since the dawn of time. For humans, the original tongue has been split and fractured into different language families over the long history of human settlement and migration.
+Many of the common languages of Taelgar derive from the original languages spoken by the first of each species to awaken. For [[Dwarves|dwarves]], [[Elves|elves]], [[Halflings|halflings]], [[Stoneborn|stoneborn]], and [[Lizardfolk|lizardfolk]] this original language has not changed since the dawn of time. For [[humans]], the original tongue has been split and fractured into different language families over the long history of human settlement and migration.
 
 The history of the languages of other sentient creatures is less well known by scholars, but in most cases,, although with some exceptions, whether due to magic, culture, or other factors, linguistic diversity within species is rare. 
 ## Human Language Families
