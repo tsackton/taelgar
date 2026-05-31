@@ -12,7 +12,7 @@ dm_notes: color
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Silver Wolf is an upscale inn and restaurant in [[Zvervinka]], primarily catering to wealthy merchants in town for the large market. It is known for its extensive larder and skilled chef. 
+![[silver-wolf-inn.png|right|450]]The Silver Wolf is an upscale inn and restaurant in [[Zvervinka]], primarily catering to wealthy merchants in town for the large market. It is known for its extensive larder and skilled chef. 
 
 %%^Date:1749-04-14%%
 It is marked by an the sign of an ornate silver wolf, in relief, crafted by dwarven monster hunters out of solid silver. 
