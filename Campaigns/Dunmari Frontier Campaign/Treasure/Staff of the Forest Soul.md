@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [object, status/cleanup/text, status/cleanup/image]
+tags: [object, status/cleanup/text]
 typeOf: staff
 whereabouts: Kenzo
 rarity: unique
@@ -13,7 +13,7 @@ rarity: unique
 
 %% disentangle mechanics from text %%
 
-This staff was constructed by [[Kenzo]] from a branch of the ancient elven tree in [[Tokra]], a relative of the massive trees called God trees by the Deno’qai of the [[Elderwood]]. This staff is a +1 magic quarterstaff. While attuned, this staff has the following additional functions:
+![[staff-of-the-forest-soul.png|left|300]]This staff was constructed by [[Kenzo]] from a branch of the ancient elven tree in [[Tokra]], a relative of the massive trees called God trees by the Deno’qai of the [[Elderwood]]. This staff is a +1 magic quarterstaff. While attuned, this staff has the following additional functions:
 
 -  Forest Ki: Your connection to the soul of the forest allows you to draw on the forest for extra ki. The staff contains a ki reservoir equal to your Wisdome modifier, which you can use interchangeably with your normal ki pool. This ki is restored whenever you take a short rest. 
 -  Commune with Nature: Once per day, you can connect yourself to the natural world around you, entering a trance to commune with nature. This has the effect of the  Commune with Nature spell, but may reveal additional information at the DM’s discretion. If you have already used this ability, you can use it again by spending 6 ki. 
