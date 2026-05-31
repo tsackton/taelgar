@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/image]
+tags: [place]
 displayDefaults: {defArt: ""}
 typeOf: inn
 whereabouts: Zvervinka
