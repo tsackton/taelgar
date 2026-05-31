@@ -1,13 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/cleanup/image
+tags: [place]
 typeOf: building
 whereabouts:
-  - type: home
-    start: 980
-    location: Chardon
+- {type: home, start: 980, location: Chardon}
 created: 939
 timelineDescriptor: University of Chardon
 dm_owner: tim
@@ -18,6 +14,8 @@ typeOfAlias: university
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+![[university-of-chardon.png|600]]
 
 The University of Chardon is a famous center of learning and teaching, renowned as one of the great centers of magical knowledge in the world. It occupies much of [[Precinct IV]] in Chardon, and is among the oldest and most powerful institutions in the city. The university is closely affiliated with the [[Great Library]], as well as the [[Hetaeri Magica]] and the [[Society of the Open Scroll]], but has its own independent rules and governance. 
 
@@ -34,7 +32,7 @@ While the university controls the largest portion of land in the Academia Quarte
 
 Architecturally, most lecti mimic the Great Library, with towers rising above the main building or building complex, which gives the university district a distinctive and impressive skyline. 
 
-Some of the more famous lecti include [[Sibyl's Hall]], one of the original colleges of the University, and [[Maruso Lectum]], endowed by and named after an extremely wealthy adventurer. 
+Some of the more famous lecti include [[Sibyl's Hall]], one of the original colleges of the University, and Maruso Lectum, endowed by and named after an extremely wealthy adventurer. 
 
 %% note
 The lecti are named XXX Hall or XXX Lectum. The halls are associated with various external orders, whether gods or something else, while the lecti are patronage based, although this is not a perfect rule.
@@ -44,12 +42,12 @@ The lecti are named XXX Hall or XXX Lectum. The halls are associated with variou
 In addition to the undergraduate lecti, the University of Chardon has five graduate faculties: the [[Faculty of Magic]], the [[Faculty of Law]], the [[Faculty of Theology]] (which includes medicine and healing), the [[Faculty of History]], and the [[Faculty of Metaphysics]] (which includes supernatural and planar studies). These higher faculties are governed independently from the undergraduate lecti. with their own departmental facilities and policies.
 ### Governance
 
-The University of Chardon operates under its original Drankorian Charter granted in DR 980, and thus claims to be above and outside the laws and politics of the current day city. Students who are accused of crimes are, according to the university, only able to be tried and punished by university courts (although the Imperial bureaucracy claims the ability to confine students to university grounds without trial, which is occasionally contentious).
+The University of Chardon operates under its original Drankorian Charter granted in DR 939, and thus claims to be above and outside the laws and politics of the current day city. Students who are accused of crimes are, according to the university, only able to be tried and punished by university courts (although the Imperial bureaucracy claims the ability to confine students to university grounds without trial, which is occasionally contentious).
 
 The [[Hetaeri Magica]], which draws members from both the University of Chardon and the [[Great Library]] controls and propagates rules on the use of magic within [[Precinct IV]], the academic quarter of Chardon. 
 ## History
 
-- (DR:: 939): The University of Chardon is founded in Chardon on the authority of an Imperial Charter from [[Eiphis the Blind]], the Emperor of Drankor.
+- (DR:: 939): The University of Chardon is founded in Chardon on the authority of an Imperial Charter from Eiphis the Blind, the Emperor of Drankor.
 - (DR:: 1065): The University of Chardon expands, absorbing many refugees from the destruction of Drankor during the [[First Plague|First Plague]].
 
 

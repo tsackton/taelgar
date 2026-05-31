@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/stub, status/cleanup/image]
+tags: [person, status/stub]
 campaignInfo: [{campaign: DuFr, type: met, date: 1748-07-06}]
 name: Saka
 born: 1664
@@ -19,6 +19,7 @@ dm_owner: tim
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on July 6th, 1748 on the [[~North Tokra Plains~|plains north of Tokra]], in [[Dunmar]] %%^End%%
 
+![[saka.png|right|350]]
 %% notes
  
 Mystai of Bhishma. One of the few masters who didn't seek to help with the cleansing of the land. Grew up outside Tokra and always said she'd return there when she could no longer travel; north and east of the city in the fertile land outside, gathering the stories of the horse herders there.

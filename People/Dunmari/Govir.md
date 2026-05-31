@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image, status/cleanup/metadata, status/stub]
+tags: [person, status/cleanup/metadata, status/stub]
 name: Govir
 born: 1708
 species: human
@@ -17,4 +17,4 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%SECRET[1]%%
+![[govir.png|right|400]]%%SECRET[1]%%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image, status/cleanup/metadata]
+tags: [person, status/cleanup/metadata]
 campaignInfo: []
 name: Jumi
 born: 1745-12-28
