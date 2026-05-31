@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image]
+tags: [person, status/cleanup/metadata]
 campaignInfo:
 - {campaign: DuFr, date: 1748-06-30, type: first met}
 - {campaign: DuFr, date: 1748-07-16, type: began traveling, format: "<met:U> with <person> on <target> <current:2qr>"}
@@ -37,6 +37,6 @@ dm_notes: important
 >> %%^Campaign:DuFr%% Reached by Sending cast by [[Riswynn]] on November 17th, 1748 in [[Nayahar]], [[Dunmar]] %%^End%%  
 >> %%^Campaign:DuFr%% Reunited with the [[Dunmar Fellowship]] on February 1st, 1749 in the [[Copper Hills]], [[Dunmar]] %%^End%%
 
-Johar is a confidant and close friend of [[Kenzo]]'s from the [[Lakan Monastery]] in [[Tokra]]. He works in the [[Tokra]] [[Archives]], primary interested in documenting the miracles of [[Laka]], and the history of the [[Lakan Monastery]] and the community there. 
+![[johar.jpg|left|450]]Johar is a confidant and close friend of [[Kenzo]]'s from the [[Lakan Monastery]] in [[Tokra]]. He works in the [[Tokra]] [[Archives]], primary interested in documenting the miracles of [[Laka]], and the history of the [[Lakan Monastery]] and the community there. 
 
 %%SECRET[1]%%

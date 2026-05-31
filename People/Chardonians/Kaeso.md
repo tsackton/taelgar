@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image, status/cleanup/metadata, status/cleanup/text]
-knownTo: [Mawar]
+tags: [person, status/cleanup/metadata, status/cleanup/text]
+knownTo: [Mawar, DuFr]
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-10-12, type: scryed}
 name: Kaeso
@@ -30,7 +30,7 @@ dm_owner: tim
 >> %%^Campaign:DuFr%% Scryed with [[Delwath]] on October 12th, 1748 in [[Hamri]], the [[Mawar Confederacy]] %%^End%%
 
 %% clean up campaign info and text, add image, copy various notes from Kenzo brainstorming in DM folder %%
-
+![[kaeso.png|right|400]]
 [[Kenzo]]'s mentor and friend. A Chardonian, but widely traveled. Former student of [[Roscelia]] and member of the [[Society of the Open Scroll]], but expelled for keeping secrets, specifically about Dunmari magic. 
 
 Secretly a member of the [[Shakun Mystai]]. 

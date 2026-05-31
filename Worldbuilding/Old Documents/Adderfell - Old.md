@@ -43,7 +43,7 @@ _Historical district._ The most obvious feature is the huge plaza and fountain, 
 
 ## Town Layout
 
-![[adderfell-layout.png]]
+![[adderfell-map.png]]
 
 Along the coast of a lake, downstream of a large waterfall. Old town walls encompass central 5 districts. 
  
