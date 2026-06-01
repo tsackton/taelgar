@@ -9,8 +9,8 @@ dm_notes: none
 dm_owner: tim
 ---
 # Grimstone's Lair
->[!info]+ Information  
-> A hidden laboratory complex in [[Perdoli Manor]]  
+>[!info]+ Information
+> A hidden laboratory complex in [[Perdoli Manor]]
 > `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Grimstone's lair was a hidden laboratory complex beneath [[Perdoli Manor]]. It began as a Perdoli bolt-hole beneath the master bedroom, then was broken open and expanded by pirates into a rough tunnel and cave system. By DR 1748, [[Grimstone]] had taken over the old hideout as the center of his petrification experiments.

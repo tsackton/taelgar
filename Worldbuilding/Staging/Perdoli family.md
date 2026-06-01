@@ -10,8 +10,8 @@ dm_notes: none
 dm_owner: tim
 ---
 # The Perdoli Family
->[!info]+ Information  
-> A [[Cymea|Cymean]] family  
+>[!info]+ Information
+> A [[Cymea|Cymean]] family
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 The Perdoli family were a wealthy Cymean merchant family associated with [[Western Cymea]] and the old winemaking trade around Vistalba. In DR 1479, they built [[Perdoli Manor]] as a country villa in the hills, drawing their wealth from wine, trade, and control of a marble quarry.
