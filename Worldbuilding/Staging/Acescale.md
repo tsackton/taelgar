@@ -5,22 +5,28 @@ name: Acescale
 species: lizardfolk
 gender: male
 player: Phil Grayson
+ddbLink: https://www.dndbeyond.com/characters/112561355
 affiliations: [{org: Labyrinth Prisoners, type: primary}]
 whereabouts:
+  - {type: home, location: Latazaro}
   - {type: away, start: 1748-10-17, end: 1748-10-19, location: Perdoli Manor}
-  - {type: away, start: 1748-10-19, end: 1748-10-19, location: mountain road below Perdoli Manor}
+  - {type: away, start: 1748-10-19, location: unknown}
 dm_notes: none
 dm_owner: player
 ---
 # Acescale
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (he/him), of the [[Labyrinth Prisoners]]  
+>[!info]+ Biographical Info
+> A [[Lizardfolk|lizardfolk]] (he/him), of the [[Labyrinth Prisoners]]
+> [Character Sheet](https://www.dndbeyond.com/characters/112561355)
 > `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Acescale is a lizardfolk alchemist and gambler who escaped [[Perdoli Manor]] with the other [[Labyrinth Prisoners]] in DR 1748. He was captured by goblin raiders in [[Western Cymea]] and imprisoned in the manor's abandoned smithy before helping the other prisoners break out.
+Acescale is a [[Lizardfolk|lizardfolk]] alchemist and gambler from a small settlement in the swamps of [[Latazaro]]. Restless for better stakes than his home could offer, he often traveled several days to Lunacosta, a coastal market town where the inns offered more lively games.
 
-During the escape, Acescale recovered his playing cards from the goblin guards, helped question [[Folcan]], and used his alchemical knowledge throughout the manor. He scouted the old pirate tunnels beneath the manor with a flight elixir, helped create the magical bag of distractions used against the pirate shades, and survived being nearly petrified by [[Grimstone|Grimstone's]] animated stone wasp.
+Acescale has a practical alchemist's skill set, a gambler's appetite for risk, and occasional glimpses of possible twists of fate that gave him an edge at cards. Those instincts made him bold, but not always cautious.
 
-After [[Grimstone]] was killed, Acescale recovered alchemist's tools, part of his lost poker winnings, and a strangely weighted die from Grimstone's treasure. When the prisoners parted ways on the road below the manor, he imagined turning his new tools toward potion work.
+He was captured after leaving Lunacosta late on a moonless autumn night with an unusually heavy purse of winnings. Goblin raiders ambushed him on the road, clubbed him unconscious, and carried him to [[Perdoli Manor]], where he became one of the [[Labyrinth Prisoners]].
 
-%% AI note: Created from [[Labyrinths of the Lost - Session 1]], [[Labyrinths of the Lost - Session 2]], [[Labyrinths of the Lost - Session 3]], [[Labyrinths - Player Background]], and Lab Lost recap files. The original session notes describe Acescale as "a lizardfolk alchemist and gambler." %%
+After escaping the manor, Acescale recovered part of his stolen winnings, kept a strangely weighted die, and considered turning his new alchemical tools toward steadier potion work.
+
+%% AI note: Updated from the user-provided character backstory and D&D Beyond sheet URL, plus [[Labyrinths of the Lost - Session 1]], [[Labyrinths of the Lost - Session 2]], [[Labyrinths of the Lost - Session 3]], [[Labyrinths - Player Background]], and Lab Lost recap files. D&D Beyond character details were not accessible through unauthenticated fetches, so only the URL is recorded. %%
