@@ -1,6 +1,6 @@
 ---
 tags: [creature, status/wip]
-aliases: [dragon, dragons, Dragon]
+aliases: [dragon, dragons, Dragon, draconic]
 dm_notes: important
 dm_owner: tim
 ---
