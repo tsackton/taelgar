@@ -1,7 +1,3 @@
----
-tags: [status/recap-review, status/check/ai]
----
-
 # Session Recap
 
 ## Session Header
@@ -120,13 +116,13 @@ Once the immediate danger has passed, the party searches the goblin room thoroug
 - Enemies: none
 
 #### Short
-After Dilion scouts outside and spots guards outside the nearby barracks, the party improvises a plan: Gaudin poses as the goblin guard Morky, Loria poses as a captive, and Loria feeds him Goblin lines telepathically.
+After Dilion spots guards outside the nearby barracks, the party turns them into a lead: Gaudin poses as Morky, while Loria poses as a captive. The ruse draws out the goblin leader Folcan, before Loria's hidden sword gives them away.
 
 #### Intermediate
-Dilion scouts the path outside and finds two goblins loitering near the intact building, providing an obvious target for information. A plan is hatched: Gaudin takes Morky's shape, while Loria lets herself be staged as a bound prisoner and the others hide behind the hedgerow. As they approach, Loria feeds Gaudin Goblin lines telepathically and the act lurches forward.
+Dilion scouts the path outside and finds two goblins loitering near the intact building, providing an obvious target for information. The party adapts its plan into a fake prisoner-transfer ruse: Gaudin takes Morky's shape, Loria lets herself be staged as a bound prisoner, and the others hide behind the hedgerow. Loria feeds Gaudin Goblin lines telepathically, but the performance only holds long enough to draw out the goblin leader Folcan. When a guard spots Loria's hidden sword, Folcan orders Loria seized.
 
 #### Long
-Dilion scouts the path outside, and finds two goblins sitting near the intact building. The group improvises and adapts a fake prisoner-transfer ruse. Gaudin disguises himself as the dead goblin guard Morky, while Loria pretends to be bound and the others wait behind the hedgerow. As the prisoner and guard lurch forward, Loria silently translates and feeds Gaudin words he can only repeat phonetically. The plan is awkward from the start, but it is almost good enough to fool the first two guards and then the goblin leader Folcan. The scene finally turns when one goblin spots Loria's hidden sword and Folcan, sharper than the first drunk guards, sends a warning, blasts Gaudin with his toxic staff, and orders Loria seized.
+Dilion scouts the path outside, and finds two goblins sitting near the intact building. The group improvises and adapts a fake prisoner-transfer ruse. Gaudin disguises himself as the dead goblin guard Morky, while Loria pretends to be bound and the others wait behind the hedgerow. As the prisoner and guard lurch forward, Loria silently translates and feeds Gaudin words he can only repeat phonetically. The plan is awkward from the start, but it is almost good enough to fool the first two guards, and it draws out the goblin leader Folcan. Things fall apart when one goblin spots Loria's hidden sword and Folcan, sharper than the first drunk guards, sends a warning, blasts Gaudin with his toxic staff, and orders Loria seized.
 
 ### recap-005 | Fog Fight by the Barracks
 
@@ -142,13 +138,13 @@ Dilion scouts the path outside, and finds two goblins sitting near the intact bu
 - Enemies: Folcan and three barracks goblins
 
 #### Short
-When Folcan orders Loria seized, her fog cloud turns the failed bluff into a fast fight that leaves the guards dead and Folcan captive.
+When Folcan orders Loria seized, she casts _Fog Cloud_ in a panic, triggering a fast fight that leaves the guards dead and Folcan captive.
 
 #### Intermediate
 Once Folcan turns on them, Loria panics as the deception fails and fills the path with fog. In the confusion she cuts down the goblin holding her, while the others bring down the rest of the path guards from the hedge and the road before dragging Folcan back alive for questioning.
 
 #### Long
-The moment the goblins move to grab Loria, she throws a fog cloud across the path and hedgerow, wiping out sight lines and turning the stalled bluff into a vicious fight. Fighting through the mist, Loria cuts down the goblin grappling her, Gaudin slips clear and starts firing from range, Dilion and his steel defender press forward from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is battered and taken alive, and the party retreats to the smithy to question him.
+The moment the goblins move to grab Loria, she panics and throws a _Fog Cloud_ across the path and hedgerow, triggering a vicious fight. Fighting through the mist, Loria cuts down the goblin grappling her, Gaudin slips clear and starts firing from range, Dilion and his steel defender press forward from behind the hedge, and Acescale drops another guard with his crossbow. The last path goblin is knocked unconscious, Folcan is battered and taken alive, and the party retreats to the smithy to question him.
 
 ### recap-006 | Folcan Names the Tunnels
 
@@ -170,7 +166,7 @@ Back at the smithy, they break Folcan's nerve and learn Grimstone's arrangement,
 Back at the smithy, with Folcan tied up and disarmed, the party turns to interrogation. Under acid, threats, and repeated questioning, he explains Grimstone's weekly prisoner-taking scheme, names the surviving goblin force in the barracks, and points to tunnels from the barracks, kitchen, and perhaps the chapel as the likeliest routes into the manor.
 
 #### Long
-Back at the smithy, the party revives Folcan, strips him of his bone staff, and alternates threats, acid, and questions until he stops posturing. He explains that Grimstone appears in black robes and a white marble mask, takes one prisoner each week into the manor, and pays the goblins in loot while keeping the best treasure. Under pressure, Folcan also reveals that ten goblins plus Ulgna remain in the barracks, that hobgoblins guard the outer gates and the manor door, and that tunnels from the barracks and kitchen, with a rumored chapel entrance, all lead toward the wine cellar. By the end of the exchange, the party is leaning toward a tunnel approach and using Folcan to buy time before the barracks checks on him.
+Back at the smithy, the party revives Folcan, strips him of his bone staff, and alternates threats, acid, and questions until he stops posturing. He explains about Grimstone. He appears each week in black robes and a white marble mask, and takes one prisoner into the manor. He lets the goblins keep loot, though he takes the best treasure for himself. Under pressure, Folcan also reveals that ten goblins plus another leader, Ulgna, remain in the barracks, while hobgoblins guard the outer gates and the manor door. The best way in, he says, is tunnels: from the barracks and kitchen, and maybe the chapel, tunnels lead toward the wine cellar.
 
 ## Cast
 
