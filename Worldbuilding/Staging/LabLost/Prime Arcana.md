@@ -6,14 +6,13 @@ name: Prime Arcana
 aliases: [Prime Arcana Stone, Stone of the Prime]
 typeOf: material
 typeOfAlias: alchemical substance
-whereabouts: Grimstone's lair
 dm_notes: none
 dm_owner: tim
 ---
 # Prime Arcana
->[!info]+ Information
-> An alchemical substance associated with [[Grimstone's lair]]
-> `$=dv.view("_scripts/view/get_Whereabouts")`
+>[!info]+ Information  
+> (alchemical substance)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The Prime Arcana is a theoretical alchemical substance sought by [[Grimstone]] beneath [[Perdoli Manor]]. His notes also called it the Prime Arcana Stone or the Stone of the Prime, and described it as a mystical stone whose powder could empower extraordinary potions and elixirs.
 
