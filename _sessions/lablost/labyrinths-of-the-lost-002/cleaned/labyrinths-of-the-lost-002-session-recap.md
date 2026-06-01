@@ -1,7 +1,3 @@
----
-tags: [status/recap-review]
----
-
 # Session Recap
 
 ## Session Header
@@ -9,7 +5,7 @@ tags: [status/recap-review]
 - Title: Labyrinths of the Lost - Session 2
 - Desc Title: Into the Manor
 - Tagline: in which a sneaky path leads to ghostly clues
-- One-Sentence Summary: After resting at the smithy, the party crosses Perdoli Manor by stealth, defeats two hobgoblins in the chapel crypt, finds hidden records and a chained basilisk, and learns from a ghost that Grimstone's lair lies beneath the manor.
+- One-Sentence Summary: After resting at the smithy, the party crosses Perdoli Manor by stealth, defeats hobgoblins in the chapel crypt and ruined library, finds hidden records and a chained basilisk, and learns from a ghost that Grimstone's lair lies beneath the manor.
 - Campaign: Labyrinths of the Lost
 - Scope: session
 - Session Number: 2
@@ -26,17 +22,17 @@ tags: [status/recap-review]
 - Timeline Key: (DR:: 1748-10-18)
 - Resolution: day
 - Beat IDs: beat-001, beat-002, beat-003, beat-004, beat-005, beat-006, beat-007
-- Locations: Perdoli Manor, smithy grounds, formal garden edge near the chapel, chapel crypt, hidden private archive
-- NPCs: shadowy hobgoblin patrol, barracks goblins, petrified Medusa, hobgoblin smokebinder, hobgoblin guard, basilisk, goblin drill squad, J.M.
+- Locations: Perdoli Manor
+- NPCs: shadowy hobgoblin patrol, barracks goblins, petrified Medusa, hobgoblin smokebinder, hobgoblin guard, hobgoblin library guards, hobgoblin recruits, stirges, basilisk, J.M.
 - Organizations: Perdoli family
 - Items: steampup, silver ring with weathered pearl, experimental elixirs, chapel trapdoor, silver icon of The Mother, tarnished silver and yellow topaz, snare trap, hobgoblin loot, alchemist's fire, scroll of Cure Wounds, potion of watchful rest, Perdoli family records, hidden bookcase mechanism, tarnished silver plate, stone statues, silver locket, smuggler's map, love letters, trapdoor to the old hideout
-- Combat Beats: beat-004
+- Combat Beats: beat-004, beat-006
 
 #### Short
-The party crosses the manor grounds, kills two hobgoblins in the chapel crypt, finds hidden records and a chained basilisk, and learns from a pirate's ghost that Grimstone's lair is below.
+The party crosses the manor grounds, defeats hobgoblins in the chapel crypt and ruined library, finds hidden records and a chained basilisk, and learns from a pirate's ghost that Grimstone's lair is below.
 
 #### Long
-After resting overnight in the abandoned smithy prison, the party prepares before dawn and chooses Folcan's rumored chapel route into Perdoli Manor. In the morning, they cross the grounds behind the steampup's distraction, find the chapel trapdoor, and kill a smokebinder and another hobgoblin in the crypt. A secret tunnel leads from the crypt to a hidden archive, where the party finds Perdoli records, scouts a chained basilisk in the courtyard, and uses a silver locket to speak with J.M.'s ghost. J.M. identifies Petrona, rejects Grimstone, and points toward the old hideout beneath the manor.
+After resting overnight in the abandoned smithy prison, the party prepares before dawn and chooses Folcan's rumored chapel route into Perdoli Manor. In the morning, they cross the grounds behind the steampup's distraction, find the chapel trapdoor, and kill a smokebinder and another hobgoblin in the crypt. A secret tunnel leads from the crypt to a hidden archive, and after a short rest the party opens a secret door into a ruined library, defeats the hobgoblins alerted by the noise, and explores quietly enough to avoid hobgoblin recruits and stirges elsewhere in the manor. They scout a chained basilisk in the courtyard, then use a silver locket to speak with J.M.'s ghost. J.M. identifies Petrona, rejects Grimstone, and points toward the old hideout beneath the manor.
 
 ## Recap
 
@@ -47,7 +43,7 @@ After resting overnight in the abandoned smithy prison, the party prepares befor
 - Date: 1748-10-17 to 1748-10-18
 - Time: unknown
 - Source Range: u0001 -> u0165
-- Locations: Perdoli Manor
+- Locations: Perdoli Manor (abandoned smithy prison room)
 - NPCs: none
 - Organizations: none
 - Items: steampup, silver ring with weathered pearl, experimental elixirs
@@ -69,7 +65,7 @@ The party spends the night back in the abandoned smithy prison room rather than 
 - Date: 1748-10-18
 - Time: dawn
 - Source Range: u0166 -> u0360
-- Locations: smithy grounds, formal garden edge near the chapel
+- Locations: Perdoli Manor (smithy grounds and formal garden approach)
 - NPCs: shadowy hobgoblin patrol, barracks goblins
 - Organizations: none
 - Items: steampup, silver ring with weathered pearl
@@ -91,7 +87,7 @@ At dawn, the party leaves the smithy side of the grounds and sneaks west through
 - Date: 1748-10-18
 - Time: dawn
 - Source Range: u0361 -> u0640
-- Locations: Perdoli Manor
+- Locations: Perdoli Manor (formal garden, ruined chapel, and chapel crypt)
 - NPCs: petrified Medusa
 - Organizations: none
 - Items: chapel trapdoor, silver icon of The Mother, tarnished silver and yellow topaz, snare trap, steampup
@@ -113,7 +109,7 @@ From the formal garden, the party passes a fountain and a stone medusa frozen wh
 - Date: 1748-10-18
 - Time: dawn
 - Source Range: u0641 -> u0888
-- Locations: Perdoli Manor
+- Locations: Perdoli Manor (chapel crypt)
 - NPCs: hobgoblin smokebinder, hobgoblin guard
 - Organizations: none
 - Items: snare trap, steampup, hobgoblin loot
@@ -135,7 +131,7 @@ The first hobgoblin through the trapdoor is the same shadow-bound scout that cha
 - Date: 1748-10-18
 - Time: morning
 - Source Range: u0889 -> u1208
-- Locations: chapel crypt, hidden private archive
+- Locations: Perdoli Manor (chapel crypt, secret tunnel, and hidden private archive)
 - NPCs: none
 - Organizations: Perdoli family
 - Items: alchemist's fire, scroll of Cure Wounds, potion of watchful rest, Perdoli family records, hidden bookcase mechanism, silver ring with weathered pearl
@@ -150,27 +146,29 @@ With quiet restored, they loot the second hobgoblin and search the crypt more ca
 #### Long
 With the crypt quiet, the party collects the second hobgoblin's crossbow, bolts, coins, and alchemist's fire before searching the old rooms again. Loria finds a sliding niche behind the stairs holding a scroll of Cure Wounds and a potion of watchful rest, while Dilion discovers that a loose torch bracket opens a secret passage from the altar room. The tunnel runs under the manor to a ceiling trapdoor. The room above is an old hidden archive: they find Perdoli family papers, portraits, and shipping records revealing the ancient history of the manor. They also find a fake-book button in the middle bookcase, pointing to the secret exit, but pause for a short rest before pressing farther.
 
-### recap-006 | Basilisk Courtyard
+### recap-006 | Library Fight and Basilisk Courtyard
 
-- Kind: beat
+- Kind: combat
 - Beat IDs: beat-006
 - Date: 1748-10-18
 - Time: morning
 - Source Range: u1209 -> u1435
-- Locations: Perdoli Manor
-- NPCs: basilisk, goblin drill squad
+- Locations: Perdoli Manor (ruined library, interior rooms, and basilisk courtyard)
+- NPCs: hobgoblin library guards, hobgoblin recruits, stirges, basilisk
 - Organizations: none
 - Items: tarnished silver plate, stone statues
-- Enemies: none
+- Enemies: hobgoblin library guards
+
+%% AI note: The library hobgoblin fight and early manor exploration in this beat are based on user-provided context for a gap in the recording. %%
 
 #### Short
-Deeper inside the manor, they find a chained creature in the courtyard -- a basilisk. 
+After a short rest in the hidden archive, the party opens a secret door into a ruined library, kills the hobgoblins alerted by their noise, and finds a chained creature in the courtyard -- a basilisk.
 
 #### Intermediate
-After the rest, the party scouts through the archive passage into the manor's interior. They avoid a buzzing insect chamber, hear goblins drilling behind another door, and confirm that the chained creature in the central courtyard is a basilisk when Gaudin's Mage Hand experiment nearly turns him to stone.
+After the rest, the party opens the secret archive door into a small ruined library. Loria accidentally kicks loose stone, alerting hobgoblin guards in the next room, but the party defeats them quickly enough to avoid a wider alarm. Continuing carefully, they hear hobgoblin recruits drilling and stirges buzzing without being discovered, then investigate the central courtyard and confirm that the chained reptile there is a basilisk when Gaudin's Mage Hand experiment nearly turns him to stone.
 
 #### Long
-After the rest, the party pushes beyond the archive and starts mapping the manor from the inside. One route holds the sound of a giant insect swarm, another leads toward a goblin drill room, and the central courtyard contains a chained creature hidden behind a new low wall. Gaudin tests the creature with Mage Hand, glimpses its face, and begins petrifying until the others hack the forming stone away from him. Acescale considers polishing the crypt's silver plate as a mirror, then realizes the creature is a basilisk, not a medusa, and that its gut enzyme could instead become a depetrification salve if they kill it.
+After the short rest, the party finds the mechanism that opens the archive's secret door, emerging into a small, destroyed library inside the main manor. Their first attempt at moving quietly fails when Loria kicks loose stone, and the noise brings hobgoblin guards charging in from the next room. The party kills them quickly and keeps the alarm from spreading, then resumes a much more cautious exploration. They hear hobgoblin recruits drilling elsewhere and the buzzing of stirges nearby, but avoid both groups. In the central courtyard, they find a chained reptile hidden behind a low wall. Gaudin tests the creature with Mage Hand, glimpses its face, and begins petrifying until the others hack the forming stone away from him. Acescale considers polishing the crypt's silver plate as a mirror, then realizes the creature is a basilisk, not a medusa, and that its gut enzyme could instead become a depetrification salve if they kill it.
 
 ### recap-007 | Ghost and Locket
 
@@ -179,7 +177,7 @@ After the rest, the party pushes beyond the archive and starts mapping the manor
 - Date: 1748-10-18
 - Time: morning
 - Source Range: u1436 -> u1731
-- Locations: Perdoli Manor
+- Locations: Perdoli Manor (private chambers and old hideout trapdoor)
 - NPCs: J.M.
 - Organizations: none
 - Items: silver locket, smuggler's map, love letters, trapdoor to the old hideout
@@ -189,10 +187,12 @@ After the rest, the party pushes beyond the archive and starts mapping the manor
 Avoiding the courtyard, they find a ghost of a pirate in a nearby room, who warns them and points out the trapdoor to Grimstone's lair.
 
 #### Intermediate
-Avoid the courtyard, they search the nearby private rooms, finding reveal fresh statues and old broken mirrors. A mourning sailor ghost refuses to talk, until further exploration uncovers a study with a silver locket, smuggler's map, and love letters, and Gaudin uses the locket and Petrona's image to calm the ghost. The ghost then names Grimstone as the white-faced man below the manor and points to the trapdoor into his old hideout as the way to Grimstone's lair. 
+Avoiding the courtyard, they search the nearby private rooms, finding reveal fresh statues and old broken mirrors. A mourning sailor ghost refuses to talk, until further exploration uncovers a study with a silver locket, smuggler's map, and love letters, and Gaudin disguises himself in Petrona's image to calm the ghost. The ghost then names Grimstone as the white-faced man below the manor and points to the trapdoor into his old hideout as the way to Grimstone's lair. 
 
 #### Long
-Avoiding the courtyard, the search shifts from the basilisk to the nearby private chambers, where the party finds a great hall full of lifelike statues, a study with broken mirror glass and older headless statues, and a bedroom haunted by a sailor ghost. The study's silver locket, smuggler's map, and love letters suggest the ghost may be a pirate named J. M., writing to his lost love Petrona. Armed with this information, Gaudin uses the locket and a disguise of Petrona to break through the ghost's rage. J. M. reveals that Grimstone, the white-faced man, promised him rest and news but instead used him as a guard. He points through the rug to a trapdoor leading to his old hideout below the manor, where Grimstone keeps a laboratory, grinds stone fingers from the statues, and pursues the immortality of stone.
+Avoiding the courtyard, the search shifts from the basilisk to the nearby private chambers, where the party finds a great hall full of lifelike statues, a study with broken mirror glass and older headless statues, and a bedroom haunted by a sailor ghost. Deciding to explore a little, they search the other rooms, finding a sheaf of papers (apparently pirate maps from a generation ago), and a silver locket with a faded painting, inscribed to "J.M., with love, P. Keep safe and come back." There is also a packet of love letters, apparently from whoever "P." is, suggesting that J. M. and P. were perhaps both pirates. 
+
+Feeling this must be a clue, the party goes to talk to the ghost again. Initially, this does not go well, and he is angry with Gaudin. However, in a moment of panic or inspiration, Gaudin uses disguise self to make himself look like P, the woman in the locket, and claims that the white-faced man, presumably Grimstone, is trying to hurt her. This finally breaks through to the ghost, who is clearly J. M., who died without knowing the fate of Petrona (P.), and was promised news and rest by Grimstone. Now, convinced Grimstone has been lying, the pirate ghost says he will guard no more, and reveals that Grimstone's lair is below this bedroom, in the old pirate hideout under the manor. His last words as he fades away are that  that Grimstone is crazy, constantly ranting about the immortality of stone.
 
 ## Cast
 
@@ -203,36 +203,25 @@ Avoiding the courtyard, the search shifts from the basilisk to the nearby privat
   - Perdoli Manor, 1748-10-18
 - hobgoblin guard (fought): second patrol member
   - Perdoli Manor, 1748-10-18
+- hobgoblin library guards (fought): guards alerted by noise in the ruined library
+  - Perdoli Manor, 1748-10-18
+- hobgoblin recruits (heard): drilling elsewhere in the manor
+  - Perdoli Manor, 1748-10-18
+- stirges (heard): buzzing creatures avoided during the manor exploration
+  - Perdoli Manor, 1748-10-18
 - basilisk (met): chained creature in the central courtyard
   - Perdoli Manor, 1748-10-18
-- ghost of J. M. (met): mourning sailor ghost
+- [[ghost of J. M.|ghost of J. M.]] (met): mourning sailor ghost
   - Perdoli Manor, 1748-10-18
 - Folcan (mentioned): released goblin informant
 - Grimstone (mentioned): masked master inside the manor
-- Petrona (mentioned): woman in the locket
+- [[Petrona]] (mentioned): woman in the locket
 
 ## Locations
 
 - Perdoli Manor
-  - Summary: ruined manor estate in Western Cymea occupied by goblins, hobgoblins, chained monsters, and Grimstone's hidden operation.
-  - Sublocations: abandoned smithy prison room and nearby grounds
+  - Summary: ruined manor estate in Western Cymea occupied by goblins, hobgoblins, chained monsters, and Grimstone's hidden operation. During this session the party rested in the abandoned smithy prison room, crossed the overgrown vineyards and formal gardens to the ruined chapel, entered the chapel crypt, followed a secret tunnel to the hidden private archive, fought hobgoblins in a ruined library, avoided hobgoblin recruits and stirges, and explored interior rooms around the basilisk courtyard and the trapdoor to J.M.'s old hideout.
   - Date Visited: 1748-10-17 to 1748-10-18
-- smithy grounds
-  - Summary: outer workshop grounds used as the party's shelter before the dawn crossing toward the chapel.
-  - Sublocations: stealthy dawn crossing through overgrown vineyards and hedges
-  - Date Visited: 1748-10-18
-- formal garden edge near the chapel
-  - Summary: overgrown garden approach near the ruined chapel, with hedges, statues, and access toward the old fountain.
-  - Sublocations: stealthy dawn crossing through overgrown vineyards and hedges
-  - Date Visited: 1748-10-18
-- chapel crypt
-  - Summary: family crypt beneath the ruined chapel, used by the party for the hobgoblin ambush and linked to a hidden tunnel.
-  - Sublocations: secret tunnel under the manor
-  - Date Visited: 1748-10-18
-- hidden private archive
-  - Summary: sealed private archive inside the manor preserving Perdoli records, portraits, and a concealed bookcase mechanism.
-  - Sublocations: secret tunnel under the manor
-  - Date Visited: 1748-10-18
 
 ## Organizations And Items
 
@@ -295,6 +284,12 @@ Avoiding the courtyard, the search shifts from the basilisk to the nearby privat
 - Beat IDs: beat-004
 - Enemies: hobgoblin smokebinder, hobgoblin guard
 - Context / Outcome: The party uses grease and a snare on the chapel crypt stairs to kill a hobgoblin smokebinder and then a second hobgoblin before the wider manor reacts.
+
+### recap-006 | Ruined Library Hobgoblins
+
+- Beat IDs: beat-006
+- Enemies: hobgoblin library guards
+- Context / Outcome: After the archive rest, Loria's accidental noise in the ruined library alerts nearby hobgoblins, but the party kills them quickly enough to continue exploring without raising a wider alarm.
 
 ## Source Files
 
