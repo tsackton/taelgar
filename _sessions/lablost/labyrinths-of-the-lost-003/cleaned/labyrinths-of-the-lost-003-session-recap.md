@@ -1,6 +1,3 @@
----
-tags: [status/recap-review]
----
 # Session Recap
 
 ## Session Header
@@ -183,13 +180,13 @@ With the guard gone, the party stops trying to draw Grimstone out and plans the 
 - Enemies: Grimstone, stone spider swarm, stone wasp
 
 #### Short
-The fight kills Grimstone and his animated stone creatures, nearly petrifying Acescale twice.
+The party kills Grimstone and destroys his animated stone spider swarm and stone wasp, though the wasp's poison nearly petrifies Acescale twice.
 
 #### Intermediate
-Gaudin misses the opening shot at Grimstone's potion, but Acescale poisons him, the steampup engages, and Loria cuts him down with a Zephyr Strike critical. Grimstone's last animation potions leave a stone spider swarm and stone wasp fighting on, and the wasp's poison drops Acescale twice before the party finishes the constructs.
+Gaudin misses the opening shot at Grimstone's potion, but Acescale poisons him with Ray of Sickness, the steampup leaps the bench, and Loria cuts into him from below. Grimstone answers with fire, smoke, and animation potions, turning the stone spider into a swarm and setting the stone wasp in motion before Loria kills him with a perfectly placed Zephyr Strike. The constructs keep fighting after Grimstone falls: the spider swarm chews at Gaudin, and the wasp drops Acescale twice with petrifying poison. As the party finishes both creatures, the lab goes quiet.
 
 #### Long
-Gaudin opens with a risky Eldritch Blast at Grimstone's potion and misses, but Acescale lands Ray of Sickness, the steampup leaps across the bench, and Loria gets under the table to attack Grimstone's legs. Grimstone fights like a cornered alchemist, throwing fire, dropping poisonous smoke, and using animation potions to turn a stone spider into a swarm and a stone wasp into a flying construct. Loria cuts him down with a Zephyr Strike critical hit, but his creatures keep moving after he falls. The spiders chew at Gaudin, the wasp's petrifying poison drops Acescale to zero twice, Dilion heals him once before he can fully turn to stone, and the party finally crushes the wasp and the last spiders into rubble.
+Gaudin opens with a risky Eldritch Blast at the potion in Grimstone's hand and misses; Acescale uses Ray of Sickness to poison him, while the steampup leaps the bench and Loria, still invisible, gets under the table to slash at his legs. Grimstone fights from inside the cluttered laboratory, throwing fire at Acescale, dropping poisonous smoke around himself, and hurling animation potions at the stone spider and stone wasp statues. The spider breaks into a swarm of tiny stone spiders that mob Gaudin, while Loria keeps cutting into Grimstone and Acescale lands a point-blank crossbow shot. Grimstone sets off another fire potion at his own feet and wakes the wasp, but Loria's perfectly placed Zephyr Strike cuts him down before the constructs are finished. Gaudin blasts most of the stone spider swarm apart, while the wasp's petrifying stinger drops Acescale to zero twice; Dilion's Cure Wounds reverses the first petrification, and Acescale resists the second. As the party destroys the wasp and crushes the last spiders, the lab goes quiet.
 
 ### recap-007 | Laboratory Spoils
 
@@ -205,13 +202,15 @@ Gaudin opens with a risky Eldritch Blast at Grimstone's potion and misses, but A
 - Enemies: none
 
 #### Short
-The lab search reveals Grimstone's Prime Arcana obsession, Pikeia, treasure, and a mimic chest.
+With the lab quiet, the party searches Grimstone's side rooms. In addition to recovering their stolen items, they piece together Grimstone's Prime Arcana obsession, and reunite Dilion with his dog companion Pikeia.
 
 #### Intermediate
-With the lab quiet, the party nearly kills Acescale with a poisoned healing potion before sorting the safe potions and supplies. The west room explains Grimstone's search for the Prime Arcana stone, the east storeroom reunites Dilion with Pikeia, and the opened chest yields gold, the ring of bird calls, a predictive die, and valuables before the second chest proves to be a mimic.
+With the lab quiet, the party tries to revive Acescale with an apparent healing potion and discovers too late that it is poisoned. Dilion identifies a real healing potion, Acescale sorts the remaining vials and supplies, and the party takes a brief rest before checking Grimstone's side rooms. The west room reveals Grimstone's basilisk research and his theory that petrifying the right victim could create the Prime Arcana; the east storeroom reunites Dilion with his dog companion Pikeia and the rest of the party with their stolen items.
 
 #### Long
-With Grimstone defeated, the party searches the laboratory and immediately finds that even the healing supplies are dangerous: one apparent healing potion is poisoned and nearly kills Acescale before Dilion and Acescale identify the safe potions. The lab yields anti-petrification potions, a potion of growth, a potion of advantage, oil of slipperiness, a glowing-poison recipe, and valuable alchemical materials. The west room holds Grimstone's notes on basilisks, the Prime Arcana stone, and his belief that petrifying the right victim could create the substance needed for immortality. The east storeroom reunites Dilion with Pikeia, and Grimstone's key and Draconic book, The Way of the Stone, deepen the same obsession. The first chest contains Acescale's poker winnings, a ring of bird calls, a strangely weighted die, pearls, a silver decanter, turquoise-set goblets, and garnets; the second chest shows teeth when Gaudin opens it with Mage Hand, so the party labels it as a mimic and backs away.
+With the constructs destroyed, the party searches Grimstone's laboratory. They try to revive Acescale with one of the apparent healing potions, but the potion is poisoned and leaves him unstable again. Fortunately, Dilion identifies a real healing potion and gets him back up; once conscious, Acescale sorts the rest of the lab supplies. The usable finds include two anti-petrification potions, a potion of growth, a potion of advantage, a vial of oil of slipperiness, a glowing-poison recipe, and at least 50 gold worth of alchemical materials.
+
+After a short rest, the party checks the west room and finds Grimstone's bed, notes, maps, and basilisk research, all circling what he called the [[Prime Arcana]]: Grimstone believed that petrifying the right living victim might create the substance needed for immortality. In the east storeroom, Dilion finds his dog companion Pikeia tied up alive, and two chests, one locked. Searching Grimstone's corpse provides the key, and an old Draconic book, [[The Way of the Stone]], whose recipes for invulnerability, youth, and immortality all require the Prime Arcana. Unlocking the locked chest, the party recovers some of Grimstone's treasure, along with their stolen items. When Gaudin opens the second chest with Mage Hand, it lunges with teeth, so the party marks it as a mimic and leaves it alone.
 
 ### recap-008 | Escape and Epilogues
 
@@ -227,13 +226,15 @@ With Grimstone defeated, the party searches the laboratory and immediately finds
 - Enemies: none
 
 #### Short
-After an overnight rest, the party escapes the manor and parts ways.
+After an overnight rest, the party slips out of the manor, divides the treasure on the road, and parts ways.
 
 #### Intermediate
-The group rests in the lair until early morning and slips out while the manor guards are distracted and the goblins flee. On the road, Acescale keeps the die and turns toward potion work, Gaudin follows the old pirate routes, Dilion leaves with two dogs, and Loria heads south with birds around her.
+The party rests in Grimstone's lair, then leaves by the back way early the next morning while the manor is in confusion. The hobgoblins are distracted by the dead guards, and the goblins flee when Grimstone misses the usual Sunday ritual. After the escape, the party divides treasure and says goodbye. Acescale talks about turning to potion work in the future. Gaudin leaves with the pirate maps as leads for later smuggling ventures. Dilion returns to the wilderness with Pikeia and the steampup, while Loria heads south toward [[Orenlas]], unsure that combat is her path.
 
 #### Long
-The party rests and recovers in Grimstone's lair, then creeps out of Perdoli Manor before anyone is ready to stop them. The surviving hobgoblins are in chaos over the dead guards, and the goblins flee once Grimstone fails to emerge for the usual Sunday morning ritual. On the road down from the mountains, the party divides treasure and says goodbye. Acescale shares some loot, keeps the strangely weighted die for gambling, and imagines turning his new alchemy tools into honest work. Gaudin leaves with an eye toward the old pirate hideouts and smuggling routes, Dilion wanders on with Pikeia and the steampup, and Loria departs south with the ring of bird calls and a soft cloud of birds around her.
+The party rests overnight in Grimstone's lair. Early the next morning, they slip out of Perdoli Manor by the back way. The hobgoblins are angry and distracted after finding the eight dead guards, and the goblins flee when Grimstone fails to appear for the usual Sunday ritual. The party escapes in the chaos, then divides the treasure on the road down from the mountains.
+
+Acescale shares part of his loot with the others, partly in thanks and partly to stay on luck's good side. He keeps the strangely weighted die, for gambling, but imagines turning his new alchemy gear into steady work making potions. Gaudin treats the adventure as his first real test as a warlock, and imagines the smuggling possibilities inherent in the information about old pirate hideouts from the maps he found. Dilion leaves relieved to have Pikeia back. He returns to the wilderness with both Pikeia and the steampup, still looking for a place to settle but comfortable on the road. Loria apologizes for her wavering courage and decides that combat is not really her path unless she is forced into it. She sets out south toward the kingdom of [[Orenlas]], hoping to be admitted, and disappears in a soft flurry of wings.
 
 ## Cast
 
@@ -247,10 +248,6 @@ The party rests and recovers in Grimstone's lair, then creeps out of Perdoli Man
   - Perdoli Manor, 1748-10-18
 - Grimstone (met, fought): masked alchemist in the laboratory
   - Perdoli Manor, 1748-10-18
-- stone spider statue (met): intact statue in Grimstone's laboratory
-  - Perdoli Manor, 1748-10-18
-- stone wasp statue (met): intact statue in Grimstone's laboratory
-  - Perdoli Manor, 1748-10-18
 - stone spider swarm (fought): animated construct swarm
   - Perdoli Manor, 1748-10-18
 - stone wasp (fought): animated construct
@@ -260,12 +257,6 @@ The party rests and recovers in Grimstone's lair, then creeps out of Perdoli Man
   - Grimstone's lair -> mountain road below Perdoli Manor, 1748-10-19
 - mimic (met): second chest
   - Perdoli Manor, 1748-10-18
-- hobgoblins (met): surviving manor guards
-  - Grimstone's lair -> mountain road below Perdoli Manor, 1748-10-19
-- goblins (met): manor occupants
-  - Grimstone's lair -> mountain road below Perdoli Manor, 1748-10-19
-- J.M. (mentioned): pirate captain's ghost
-- Petrona (mentioned): J.M.'s lost love
 
 ## Locations
 
@@ -287,7 +278,7 @@ The party rests and recovers in Grimstone's lair, then creeps out of Perdoli Man
 ### Organizations
 
 - Perdoli family (mentioned): former manor builders and owners; their old vault is part of the route beneath the estate.
-- Tolen navy (mentioned): naval force from across the sea that drove pirates from the coast about fifty years earlier.
+- Tollen navy (mentioned): naval force from across the sea that drove pirates from the coast about fifty years earlier.
 - coastal pirates (mentioned): old pirate and smuggler presence that once used the manor hideout and left burned undead remains below.
 
 ### Items
