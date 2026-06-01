@@ -7,8 +7,8 @@
       "dateStart": "1748-10-18",
       "dateEnd": null,
       "timeWindow": "midday",
-      "shortSummary": "The party descends from J.M.'s room into the old bolt-hole, scouts the lower cavern, and finds pirate shades blocking the way deeper into Grimstone's lair.",
-      "longSummary": "Starting from the master bedroom trapdoor that J.M. revealed, the party drops into an old Perdoli vault that pirates later broke open into a rough tunnel. The steampup leads the group through the dark until they find a ten-foot gap over a thirty-foot drop; Acescale drinks his flight elixir, confirms the upper tunnel dead-ends, scouts the lower cavern, spots a rope ladder, and reports seven shadowy pirate shades guarding the far exit.",
+      "shortSummary": "The party descends from J.M.'s room into the old bolt-hole, where Acescale scouts a rope ladder and seven pirate shades blocking the lower cavern exit.",
+      "longSummary": "Starting from the master bedroom trapdoor that J.M. revealed, the party drops into an old Perdoli vault that pirates later broke open into a rough tunnel. The steampup leads the group through the dark until they find a ten-foot gap over a thirty-foot drop; Acescale drinks his flight elixir, confirms the upper tunnel dead-ends, scouts the lower cavern, spots a rope ladder, and reports seven shadowy pirate shades guarding the far exit. The group recognizes that simply climbing down and crossing the cavern would leave them exposed in the narrow upper approach.",
       "location": {
         "kind": "fixed",
         "primary": "Perdoli Manor (Western Cymea)",
@@ -79,8 +79,8 @@
       "dateStart": "1748-10-18",
       "dateEnd": null,
       "timeWindow": "midday",
-      "shortSummary": "The party drops a bag of magical distractions into the cavern, destroys the pirate shades and shadows, and rests after finding the burned remains of the old pirates.",
-      "longSummary": "Dilion and Acescale make a small bag of magically lit, noisy, foul-smelling objects, and invisible Acescale carries the steampup down while Dilion hooks the rope ladder. When the shades notice the descent, the bag of distractions gives the party the jump: Acescale's acid, Loria's swords and swarm, Gaudin's Eldritch Blast, Dilion's weapon, and the steampup quickly wipe out the five weaker shades and two stronger shadows. Searching afterward reveals seven burned pirate skeletons, melted swords, a silver-and-gold ingot, and recent tracks suggesting one or two people still move through the cavern, so the party takes a short rest before opening the strange wooden door.",
+      "shortSummary": "The party turns a bright-light idea into a bag of magical distractions, descends into the cavern, destroys the pirate shades and shadows, and rests after searching the burned remains.",
+      "longSummary": "Dilion suggests using bright light to distract or expose the shades, and he and Acescale turn the idea into a small bag of magically lit, noisy, foul-smelling objects. Invisible Acescale carries the steampup down while Dilion hooks the rope ladder; when the shades notice Dilion at the bottom, the bag goes off and gives the party the jump. Acescale's acid, Loria's swords and swarm, Gaudin's Eldritch Blast, Dilion's weapon, and the steampup quickly wipe out the five weaker shades and two stronger shadows. Searching afterward reveals seven burned pirate skeletons, melted swords, a silver-and-gold ingot, and recent tracks suggesting one or two people still move through the cavern, so the party takes a short rest before opening the strange wooden door.",
       "location": {
         "kind": "fixed",
         "primary": "Perdoli Manor (Western Cymea)",

@@ -64,7 +64,7 @@ Do not edit `beats.json`.
 
 ## Adjacent Beats
 
-- Previous: beat-002 - Shade Ambush (1748-10-18)
+- Previous: beat-002 - Distraction and Shade Ambush (1748-10-18)
 - Next: beat-004 - Luring the Bruiser (1748-10-18)
 
 If the transcript does not clearly restate the location, prefer inheriting the prior beat's location unless there is a clear move or travel transition.

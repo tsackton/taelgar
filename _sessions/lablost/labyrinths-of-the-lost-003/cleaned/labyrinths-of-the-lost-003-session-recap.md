@@ -7,57 +7,39 @@ tags: [status/recap-review]
 
 - Title: Labyrinths of the Lost - Session 3
 - Desc Title: Grimstone's Last Experiment
-- Tagline: in which Grimstone's lab falls
-- One-Sentence Summary: The party descends into Grimstone's old pirate hideout beneath Perdoli Manor, destroys undead pirates, bluffs and kills a human guard, defeats Grimstone and his stone constructs, rescues Pikeia, recovers the Prime Arcana notes and treasure, and escapes the manor before dawn.
+- Tagline: in which the party defeats Grimstone and escapes the manor
+- One-Sentence Summary: The party descends into Grimstone's lair beneath Perdoli Manor, destroys undead pirates, bluffs and kills a human guard, and finally defeats Grimstone and his stone constructs.
 - Campaign: Labyrinths of the Lost
 - Scope: session
 - Session Number: 3
-- DR Date: 1748-10-18
+- DR Date: 1748-10-18 to 1748-10-19
 - Real Date: 2023-12-10
 - DM: Tim Sackton
 - PCs: Acescale, Gaudin, Loria, Dilion
 
 ## Timeline
 
-### Oct 18th, 1748 (midday)
+### Oct 18th, 1748
 
 - Timeline Segment: timeline-001
-- Timeline Key: (DR:: 1748-10-18), midday
-- Resolution: part-of-day
-- Beat IDs: beat-001, beat-002
+- Timeline Key: (DR:: 1748-10-18)
+- Resolution: day
+- Beat IDs: beat-001, beat-002, beat-003, beat-004, beat-005, beat-006, beat-007
 - Locations: Perdoli Manor
-- NPCs: pirate shades, pirate shadows
+- NPCs: pirate shades, pirate shadows, human guard, Grimstone, stone spider statue, stone wasp statue, stone spider swarm, stone wasp, Pikeia, mimic
 - Organizations: none
-- Items: trapdoor to the old hideout, steampup, flight elixir, rope ladder, bag of distractions, silver-and-gold ingot, melted short swords, strange wooden door
-- Combat Beats: beat-002
+- Items: trapdoor to the old hideout, steampup, flight elixir, rope ladder, bag of distractions, silver-and-gold ingot, melted short swords, strange wooden door, green petrification vial, screaming pebble, alchemist's tools, half-drunk brandy, potion grenades, scroll of Cure Wounds, potion bandolier, laboratory glassware, invisibility spell, petrifying poison, healing potions, anti-petrification potions, potion of growth, potion of advantage, oil of slipperiness, glowing-poison recipe, alchemical supplies, Prime Arcana notes, The Way of the Stone, Grimstone's key, Acescale's poker winnings, ring of bird calls, strangely weighted die, pearls, decanter, goblets, and garnets
+- Combat Beats: beat-002, beat-004, beat-006
 
 #### Short
-The descent below the manor ends with the pirate shades destroyed.
+The party descends below Perdoli Manor, destroys undead pirates and a guard, defeats Grimstone and his stone constructs, and strips the laboratory of research and treasure.
 
 #### Long
-The party enters the old bolt-hole from J.M.'s room, scouts the lower cavern, and uses a bag of distractions to get the jump on the undead pirates. After the fight, they find burned pirate remains, a silver-and-gold ingot, recent tracks, and a door deeper into the lair.
-
-### Oct 18th, 1748 (afternoon)
-
-- Timeline Segment: timeline-002
-- Timeline Key: (DR:: 1748-10-18), afternoon
-- Resolution: part-of-day
-- Beat IDs: beat-003, beat-004, beat-005, beat-006, beat-007
-- Locations: Perdoli Manor
-- NPCs: human guard, Grimstone, stone spider statue, stone wasp statue, stone spider swarm, stone wasp, Pikeia, mimic
-- Organizations: none
-- Items: green petrification vial, steampup, screaming pebble, alchemist's tools, half-drunk brandy, potion grenades, scroll of Cure Wounds, potion bandolier, laboratory glassware, invisibility spell, petrifying poison, healing potions, anti-petrification potions, potion of growth, potion of advantage, oil of slipperiness, glowing-poison recipe, alchemical supplies, Prime Arcana notes, The Way of the Stone, Grimstone's key, Acescale's poker winnings, ring of bird calls, strangely weighted die, pearls, decanter, goblets, and garnets
-- Combat Beats: beat-004, beat-006
-
-#### Short
-Grimstone dies and his lair is stripped of research, Pikeia, and treasure.
-
-#### Long
-Gaudin's bluff gets the party past a human guard, but later lures him into an ambush before the direct assault on Grimstone. The party survives Grimstone's potions, animated stone creatures, and a poisoned healing mishap, then recovers Pikeia, Prime Arcana research, magic items, and treasure.
+The party enters the old bolt-hole from J.M.'s room, scouts the lower cavern, and uses a bag of distractions to get the jump on the undead pirates. After the fight, they find burned pirate remains, a silver-and-gold ingot, recent tracks, and a door deeper into the lair. Gaudin's bluff gets the party past a human guard, but later lures him into an ambush before the direct assault on Grimstone. The party survives Grimstone's potions, animated stone creatures, and a poisoned healing mishap, then recovers Pikeia, Prime Arcana research, magic items, and treasure.
 
 ### Oct 19th, 1748 (morning)
 
-- Timeline Segment: timeline-003
+- Timeline Segment: timeline-002
 - Timeline Key: (DR:: 1748-10-19), morning
 - Resolution: part-of-day
 - Beat IDs: beat-008
@@ -68,20 +50,20 @@ Gaudin's bluff gets the party past a human guard, but later lures him into an am
 - Combat Beats: none
 
 #### Short
-The party escapes the manor and parts ways on the road.
+The party escapes Perdoli Manor, and parts ways on the road.
 
 #### Long
 After resting in the lair, the party slips out while hobgoblins and goblins are in chaos over Grimstone's failure to appear. They divide treasure and leave toward separate futures.
 
 ## Recap
 
-### recap-001 | Bolt-Hole and Shades
+### recap-001 | Bolt-Hole Recon
 
 - Kind: beat
 - Beat IDs: beat-001
 - Date: 1748-10-18
 - Time: midday
-- Source Range: u0001 -> u0284
+- Source Range: u0001 -> u0225
 - Locations: Perdoli Manor
 - NPCs: pirate shades
 - Organizations: none
@@ -89,21 +71,21 @@ After resting in the lair, the party slips out while hobgoblins and goblins are 
 - Enemies: none
 
 #### Short
-From J.M.'s trapdoor, the party descends into the old pirate bolt-hole beneath Perdoli Manor.
+In the master bedroom, the party descends via a trapdoor into the old pirate bolt-hole, and finds a rope ladder leading down to a cavern guarded by seven pirate shades.
 
 #### Intermediate
-They begin in the master bedroom where J.M. revealed the trapdoor, descend into an old Perdoli vault, and find the pirates' rough tunnel under the manor. The steampup leads until a pit blocks the passage, and Acescale uses a flight elixir to scout the lower cavern and the seven pirate shades beyond it.
+In the master bedroom where the ghost of a pirate revealed a trapdoor, the party descends into an old Perdoli vault and follows the pirates' rough tunnel under the manor. The steampup leads until a pit blocks the passage, and Acescale uses a flight elixir to scout the lower cavern, finding a rope ladder leading down to a cavern with seven pirate shades guarding the exit.
 
 #### Long
-The party starts where J.M.'s ghost left them: at the master bedroom trapdoor leading into the old hideout beneath Perdoli Manor. Below the room, they find a square stone vault from the manor's older construction, with one wall smashed open into a rough pirate tunnel. The steampup leads the way through the dark until the corridor breaks at a ten-foot gap over a thirty-foot drop. Acescale drinks his flight elixir, confirms the upper passage dead-ends in rubble, spots the rope ladder in the lower cavern, and reports five weaker pirate shades and two stronger shadows guarding the exit.
+In the master bedroom where the ghost of the pirate captain left them, the party descends the trapdoor leading into the old hideout beneath Perdoli Manor. Below the room, they find a square stone vault from the manor's older construction, with one wall smashed open into a rough pirate tunnel. The steampup leads the way through the dark until the corridor breaks at a ten-foot gap over a long drop. Acescale drinks his flight elixir, confirms the upper passage dead-ends in rubble, and spots a rope ladder to a lower cavern. Descending, he sees seven pirate shades guarding the exit.
 
-### recap-002 | Shade Ambush
+### recap-002 | Distraction and Shade Ambush
 
 - Kind: combat
 - Beat IDs: beat-002
 - Date: 1748-10-18
 - Time: midday
-- Source Range: u0285 -> u0560
+- Source Range: u0226 -> u0560
 - Locations: Perdoli Manor
 - NPCs: pirate shades, pirate shadows
 - Organizations: none
@@ -111,13 +93,13 @@ The party starts where J.M.'s ghost left them: at the master bedroom trapdoor le
 - Enemies: pirate shades, pirate shadows
 
 #### Short
-Below, a bag of distractions lets them destroy the pirate shades guarding the cavern exit.
+To get down safely, they turn magical light and tinkering into a bag of distractions, then destroy the shades guarding the cavern exit.
 
 #### Intermediate
-Dilion and Acescale turn light and tinkering into a noisy, smelly bag of distractions, then the party descends by rope ladder. The distraction gives them the jump on the undead pirates, and after the fight they find burned skeletons, melted swords, a silver-and-gold ingot, recent tracks, and the door onward.
+To avoid being attacked while descending, Dilion proposes using bright light to distract or expose the shades. He and Acescale turn the idea into a noisy, smelly bag of distractions. Acescale carries the steampup down invisibly while Dilion descends by rope ladder; when the shades notice Dilion, the bag goes off, giving the party the jump. After the fight they find burned skeletons, melted swords, a silver-and-gold ingot, recent tracks, and the door onward.
 
 #### Long
-Dilion and Acescale build a bag of distractions from magical light, noise, smell, and visual effects, then Acescale carries the steampup down while Dilion hooks the rope ladder. When the shades notice the descent, the bag goes off and the party seizes the opening: Acescale drops acid from above, Loria lands badly but cuts into the shades with her swords and swarm, Gaudin blasts from the rim, and Dilion and the steampup join from below. The five weaker shades and two stronger shadows vanish, leaving the cavern lit around seven burned pirate skeletons. A search turns up melted swords, a silver-and-gold ingot, and recent tracks from one or two people moving through the cavern toward the strange wooden door, so the party rests before pressing on.
+To avoid being attacked while descending, Dilion suggests using bright light to distract the shades before anyone commits to the descent. The plan sharpens into an invisible Acescale carrying both a magically noisy, smelly, glowing bag of distractions and the steampup down, while Dilion hooks the rope ladder for the others. When the shades notice Dilion at the bottom and call out, the bag goes off and the party seizes the opening: Acescale drops acid from above, Loria lands badly but cuts into the shades with her swords and swarm, Gaudin blasts from the rim, and Dilion and the steampup join from below. After a short fight, the party defeats the shades. In the cavern, they find seven burned pirate skeletons, plus melted swords and a silver-and-gold ingot. Recent tracks suggest that one or two people passed through towards a strange wooden door; the party takes a brief breather before pressing on.
 
 ### recap-003 | Guard Bluff
 
@@ -133,13 +115,13 @@ Dilion and Acescale build a bag of distractions from magical light, noise, smell
 - Enemies: none
 
 #### Short
-Beyond the cavern door, Gaudin's prisoner-delivery bluff gets them past a large human guard.
+Beyond the cavern door, Gaudin's improvised prisoner-delivery bluff gets them past a large human guard.
 
 #### Intermediate
-The door opens into a natural corridor leading to a torchlit workout chamber. Loria's lost-traveler act falters, but Gaudin's disguised elf routine frames the party as ingredients for Grimstone; the guard tests the story with a petrification vial on the steampup and leaves after the construct survives.
+The door opens into a natural corridor leading to a torchlit chamber where a large human guard is working out. Loria rides in on the steampup and tries a lost-traveler bluff, but the guard is baffled rather than convinced. Gaudin steps in, still disguised as an elf, kicks Loria into the role of a prisoner, and claims a goblin sent him to deliver ingredients to Grimstone. The guard is uneasy because the delivery is early, unfamiliar, and not properly bound or petrified, but he is more afraid of angering Grimstone; he uses his last petrification vial on the steampup, then backs away toward the cavern entrance rather than take responsibility for the irregular delivery.
 
 #### Long
-The strange wooden door swings into another natural corridor, where the party hears someone working out in a torchlit chamber. Loria rides in on the steampup and tries to act lost, but Gaudin quickly takes over with his elf disguise, kicks the supposed prisoners into line, and claims they have been sent to Grimstone as ingredients. The large human guard is suspicious, confused, and very afraid of interrupting Grimstone's work, but Gaudin's lie holds long enough for him to rummage out a green vial. He smashes the petrification dose onto the steampup to make sure at least one prisoner is delivered as stone, and when the construct resists the effect, he walks off toward the cavern entrance rather than confronting the party.
+The strange wooden door swings into another natural corridor, where the party hears someone working out in a torchlit chamber. Loria rides in on the steampup and tries to pass herself off as a lost traveler looking for the wine cellar, but the guard only grows more confused. Gaudin steps in from behind her, still disguised as an elf, and kicks Loria, treating her as a prisoner. He claims he was told by a goblin to bring these "ingredients" to Grimstone. The guard relaxes slightly after the bluff, but is wary: the delivery is a day early, he has never seen Gaudin before, nobody is tied up, and Grimstone usually wants victims petrified before seeing them. Afraid of Grimstone's wrath, the guard rummages out his last green vial and smashes the petrification dose onto the steampup so at least one prisoner will be delivered as stone. When the construct resists the effect, the guard decides not to be responsible for the mess, points the way onward, and leaves toward the cavern entrance while Gaudin deals with Grimstone.
 
 ### recap-004 | Luring the Bruiser
 
@@ -155,13 +137,15 @@ The strange wooden door swings into another natural corridor, where the party he
 - Enemies: human guard
 
 #### Short
-After looting the guard's supplies, two failed lures end with the guard dead in the corridor.
+After Grimstone refuses to be lured out of his workshop, the party kills the returning guard before he can bring help.
 
 #### Intermediate
-While the guard is gone, they take alchemist's tools and brandy from his crates and send Gaudin to warn Grimstone about a loose basilisk. Grimstone refuses to leave, the real guard returns, and Gaudin's second disguise fails; he Misty Steps back to the party, and the steampup kills the guard after the ambush wounds him badly.
+With the guard gone, the party searches his crates, takes alchemist's tools and brandy, and tries to lure Grimstone into the corridor. Gaudin disguises himself as the guard and warns that the basilisk has escaped, but Grimstone throws an exploding potion at him and refuses to leave his bench. When the real guard returns from the cavern side, the party worries he will fetch help. Gaudin tries to redirect him in a Grimstone disguise, but the voice is wrong; he Misty Steps back to the ambush, and the steampup kills the guard after the party wounds him badly.
 
 #### Long
-With the guard away, the party searches his bedding and crates, finding clothes, a half-drunk bottle of brandy, empty vials, and a usable set of alchemist's tools. They try to turn that into another lure: Gaudin disguises himself as the guard and rushes to Grimstone's laboratory with a warning that the basilisk has escaped. Grimstone, masked and muttering over a potion amid alchemical benches and intact stone animal statues, refuses to leave and throws an explosive potion at him. When the real guard returns to the cavern, Gaudin switches disguises and tries to send him after a stone spider, but the voice is wrong; the guard gives chase, Gaudin dashes and Misty Steps back to the ambush, and the party wounds the guard before the steampup knocks him down and kills him.
+With the guard gone, the party searches his bedding and crates, finding clothes, moldy food, a half-drunk bottle of brandy, empty vials, and a usable set of alchemist's tools. Acescale proposes using the clothes and Gaudin's magic to repeat the deception: Gaudin will impersonate the guard, warn Grimstone that the basilisk has escaped, and draw him into a prepared corridor ambush. Instead, Gaudin finds Grimstone absorbed at an alchemical bench, masked, muttering over a potion, and surrounded by stone animal statues. Grimstone snaps at the interruption, hits Gaudin with an exploding potion, dismisses the basilisk as someone else's problem, and goes back to work. 
+
+Before the party can simply rush the lab, they hear the human guard returning from the cavern entrance, where he may uncover their meddling and fetch hobgoblin reinforcements. Gaudin tries one more deception, disguising himself as Grimstone, but the voice is wrong; the guard grows suspicious. About to be attacked, Gaudin runs, and Misty Steps back to the party's hiding place. The guard charges into the ambush, takes several hits, decides it is not worth dying for, and tries to flee. Gaudin's Eldritch Blast drops him to his knees, and the steampup kills him before he can escape.
 
 ### recap-005 | Planning the Lab Assault
 
@@ -177,13 +161,13 @@ With the guard away, the party searches his bedding and crates, finding clothes,
 - Enemies: none
 
 #### Short
-With the guard gone, the party tries an invisible approach on Grimstone's lab and loses surprise.
+With the guard gone, the party tries an invisible approach on Grimstone's lab, but fails to gain the element of surprise.
 
 #### Intermediate
-After the break, they accept that Grimstone has to be rushed in the lab. Invisible Loria tries to get close while the others wait just out of sight, but she kicks loose glass, and Grimstone grabs a potion and calls for initiative.
+With the guard gone, the party accepts that Grimstone has to be rushed in the lab. Invisible Loria tries to get close while the others wait just out of sight, but she kicks loose glass, and Grimstone grabs a potion and prepares to attack.
 
 #### Long
-After the break, the party stops trying to draw Grimstone out and plans the direct assault. They discuss the flammable lab, Grimstone's potion bandolier, the steampup's ability to pin him down, and the risk that the two intact stone statues might animate once the fight begins. The chosen opening sends invisible Loria into the laboratory while everyone else follows close enough to rush in when she becomes visible. The plan fails before the first strike: Loria creeps across the cluttered floor, kicks a glass vial, and Grimstone looks up, grabs a potion from his belt, and calls for initiative.
+With the guard gone, the party stops trying to draw Grimstone out and plans the direct assault. They discuss the flammable lab, Grimstone's potion bandolier, the steampup's ability to pin him down, and the risk that the two intact stone statues might animate once the fight begins. The plot sends invisible Loria into the laboratory while everyone else follows close enough to rush in when she becomes visible. The plan fails before the first strike: Loria creeps across the cluttered floor, kicks a glass vial, and Grimstone looks up, grabs a potion from his belt, and prepares to attack.
 
 ### recap-006 | Grimstone and Stone Swarm
 
@@ -325,7 +309,7 @@ The party rests and recovers in Grimstone's lair, then creeps out of Perdoli Man
   - Perdoli Manor, 1748-10-18
 - strange wooden door (encountered): incongruous door set into the natural cavern wall leading toward the guarded lair.
   - Perdoli Manor, 1748-10-18
-- green petrification vial (encountered): guard's last dose of petrifying liquid, smashed on the steampup to test Gaudin's story.
+- green petrification vial (encountered): guard's last dose of petrifying liquid, used on the steampup because Grimstone usually expects victims to arrive as stone.
   - Perdoli Manor, 1748-10-18
 - screaming pebble (encountered): magically tinkered object thrown into the guard's bedding to support the confusion.
   - Perdoli Manor, 1748-10-18
@@ -382,17 +366,17 @@ The party rests and recovers in Grimstone's lair, then creeps out of Perdoli Man
 
 ## Combat
 
-### recap-002 | Pirate Shade Ambush
+### recap-002 | Distraction and Shade Ambush
 
 - Beat IDs: beat-002
 - Enemies: pirate shades, pirate shadows
-- Context / Outcome: The party uses magical distractions and the rope ladder descent to destroy the pirate shades and shadows in the lower cavern.
+- Context / Outcome: The party turns magical light and tinkering into a distraction that covers the rope ladder descent, then destroys the pirate shades and shadows in the lower cavern.
 
 ### recap-004 | Human Guard Ambush
 
 - Beat IDs: beat-004
 - Enemies: human guard
-- Context / Outcome: Two failed deception plans end with the human guard chasing Gaudin into a prepared ambush and being killed by the steampup.
+- Context / Outcome: After Grimstone refuses to be lured out, the party stops the returning guard from raising help; he chases Gaudin into an ambush and is killed by the steampup.
 
 ### recap-006 | Grimstone's Lab Fight
 

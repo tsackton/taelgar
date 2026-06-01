@@ -18,26 +18,26 @@
     {
       "beat": {
         "beatId": "beat-001",
-        "title": "Bolt-Hole and Shades",
+        "title": "Bolt-Hole Recon",
         "startUid": "u0001",
-        "endUid": "u0284",
-        "lineCount": 284,
+        "endUid": "u0225",
+        "lineCount": 225,
         "dateStart": "1748-10-18",
         "dateEnd": null,
         "timeWindow": "midday",
         "containsCombat": false,
-        "boundaryReason": "The session opens with the party reorienting under the manor, exploring the hidden bolt-hole and dark cavern, and planning how to get past the shades before the distraction plan begins.",
+        "boundaryReason": "The session opens with the party reorienting under the manor, exploring the hidden bolt-hole, Acescale scouting the lower cavern, identifying the rope ladder and seven pirate shades, and the party recognizing the tactical problem of getting down and across the cavern without being caught in the narrow upper approach.",
         "dateEvidence": [
-          "session.yaml gives drStart 1748-10-18 and drEnd 1748-10-18.",
+          "session.yaml gives drStart 1748-10-18 and drEnd 1748-10-19.",
           "u0675-u0684 later says the group descended in the mid-morning and that it is about 1:30 after the short rest."
         ],
         "startIndex": 0,
-        "endIndex": 283
+        "endIndex": 224
       },
       "previousBeat": null,
       "nextBeat": {
         "beatId": "beat-002",
-        "title": "Shade Ambush",
+        "title": "Distraction and Shade Ambush",
         "dateStart": "1748-10-18",
         "dateEnd": null
       },
@@ -48,7 +48,7 @@
         "sourceType": "transcript",
         "sessionNumber": 3,
         "drStart": "1748-10-18",
-        "drEnd": "1748-10-18",
+        "drEnd": "1748-10-19",
         "realWorldDate": "2023-12-10",
         "participants": [
           {
@@ -1428,7 +1428,79 @@
           "header": "[u0225 | 00:22:18.080-00:22:23.409 | Acescale]",
           "text": "I think there's a railroad at the bottom of the cavern as well.",
           "raw": "[u0225 | 00:22:18.080-00:22:23.409 | Acescale] I think there's a railroad at the bottom of the cavern as well."
-        },
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "beat-002",
+        "title": "Distraction and Shade Ambush",
+        "startUid": "u0226",
+        "endUid": "u0560",
+        "lineCount": 335,
+        "dateStart": "1748-10-18",
+        "dateEnd": null,
+        "timeWindow": "midday",
+        "containsCombat": true,
+        "boundaryReason": "The light idea begins the combat setup: the party turns magical light and tinkering into a bag of distractions, descends by rope ladder, triggers the distraction as the shades notice Dilion, fights the shades and shadows, searches the burned remains, and completes a short rest before returning to the door.",
+        "dateEvidence": [
+          "The beat continues directly from the opening exploration on 1748-10-18.",
+          "u0558-u0560 move the group back to the cavern door after the short rest."
+        ],
+        "startIndex": 225,
+        "endIndex": 559
+      },
+      "previousBeat": {
+        "beatId": "beat-001",
+        "title": "Bolt-Hole Recon",
+        "dateStart": "1748-10-18",
+        "dateEnd": null
+      },
+      "nextBeat": {
+        "beatId": "beat-003",
+        "title": "Guard Bluff",
+        "dateStart": "1748-10-18",
+        "dateEnd": null
+      },
+      "session": {
+        "title": null,
+        "campaign": "Labyrinths of the Lost",
+        "scope": "session",
+        "sourceType": "transcript",
+        "sessionNumber": 3,
+        "drStart": "1748-10-18",
+        "drEnd": "1748-10-19",
+        "realWorldDate": "2023-12-10",
+        "participants": [
+          {
+            "name": "Phil Grayson",
+            "role": null,
+            "gameRole": "Acescale"
+          },
+          {
+            "name": "John Leeker",
+            "role": null,
+            "gameRole": "Gaudin"
+          },
+          {
+            "name": "Sara Smith",
+            "role": null,
+            "gameRole": "Loria"
+          },
+          {
+            "name": "Dylan",
+            "role": null,
+            "gameRole": "Dilion"
+          },
+          {
+            "name": "Tim Sackton",
+            "role": null,
+            "gameRole": "DM"
+          }
+        ]
+      },
+      "sourceLines": [
         {
           "uid": "u0226",
           "header": "[u0226 | 00:22:24.230-00:22:29.180 | Dilion]",
@@ -1782,79 +1854,7 @@
           "header": "[u0284 | 00:28:00.160-00:28:01.369 | DM]",
           "text": "put them out.",
           "raw": "[u0284 | 00:28:00.160-00:28:01.369 | DM] put them out."
-        }
-      ],
-      "supplementalSources": []
-    },
-    {
-      "beat": {
-        "beatId": "beat-002",
-        "title": "Shade Ambush",
-        "startUid": "u0285",
-        "endUid": "u0560",
-        "lineCount": 276,
-        "dateStart": "1748-10-18",
-        "dateEnd": null,
-        "timeWindow": "midday",
-        "containsCombat": true,
-        "boundaryReason": "The party turns the light-object idea into a distraction, descends into the cavern, fights the shades and shadows, searches the burned remains, and completes a short rest before returning to the door.",
-        "dateEvidence": [
-          "The beat continues directly from the opening exploration on 1748-10-18.",
-          "u0558-u0560 move the group back to the cavern door after the short rest."
-        ],
-        "startIndex": 284,
-        "endIndex": 559
-      },
-      "previousBeat": {
-        "beatId": "beat-001",
-        "title": "Bolt-Hole and Shades",
-        "dateStart": "1748-10-18",
-        "dateEnd": null
-      },
-      "nextBeat": {
-        "beatId": "beat-003",
-        "title": "Guard Bluff",
-        "dateStart": "1748-10-18",
-        "dateEnd": null
-      },
-      "session": {
-        "title": null,
-        "campaign": "Labyrinths of the Lost",
-        "scope": "session",
-        "sourceType": "transcript",
-        "sessionNumber": 3,
-        "drStart": "1748-10-18",
-        "drEnd": "1748-10-18",
-        "realWorldDate": "2023-12-10",
-        "participants": [
-          {
-            "name": "Phil Grayson",
-            "role": null,
-            "gameRole": "Acescale"
-          },
-          {
-            "name": "John Leeker",
-            "role": null,
-            "gameRole": "Gaudin"
-          },
-          {
-            "name": "Sara Smith",
-            "role": null,
-            "gameRole": "Loria"
-          },
-          {
-            "name": "Dylan",
-            "role": null,
-            "gameRole": "Dilion"
-          },
-          {
-            "name": "Tim Sackton",
-            "role": null,
-            "gameRole": "DM"
-          }
-        ]
-      },
-      "sourceLines": [
+        },
         {
           "uid": "u0285",
           "header": "[u0285 | 00:28:05.730-00:28:09.049 | Dilion]",
@@ -3535,7 +3535,7 @@
       },
       "previousBeat": {
         "beatId": "beat-002",
-        "title": "Shade Ambush",
+        "title": "Distraction and Shade Ambush",
         "dateStart": "1748-10-18",
         "dateEnd": null
       },
@@ -3552,7 +3552,7 @@
         "sourceType": "transcript",
         "sessionNumber": 3,
         "drStart": "1748-10-18",
-        "drEnd": "1748-10-18",
+        "drEnd": "1748-10-19",
         "realWorldDate": "2023-12-10",
         "participants": [
           {
@@ -5346,7 +5346,7 @@
         "sourceType": "transcript",
         "sessionNumber": 3,
         "drStart": "1748-10-18",
-        "drEnd": "1748-10-18",
+        "drEnd": "1748-10-19",
         "realWorldDate": "2023-12-10",
         "participants": [
           {
@@ -7914,7 +7914,7 @@
         "sourceType": "transcript",
         "sessionNumber": 3,
         "drStart": "1748-10-18",
-        "drEnd": "1748-10-18",
+        "drEnd": "1748-10-19",
         "realWorldDate": "2023-12-10",
         "participants": [
           {
@@ -8910,7 +8910,7 @@
         "sourceType": "transcript",
         "sessionNumber": 3,
         "drStart": "1748-10-18",
-        "drEnd": "1748-10-18",
+        "drEnd": "1748-10-19",
         "realWorldDate": "2023-12-10",
         "participants": [
           {
@@ -11580,7 +11580,7 @@
         "sourceType": "transcript",
         "sessionNumber": 3,
         "drStart": "1748-10-18",
-        "drEnd": "1748-10-18",
+        "drEnd": "1748-10-19",
         "realWorldDate": "2023-12-10",
         "participants": [
           {
@@ -13231,7 +13231,7 @@
         "sourceType": "transcript",
         "sessionNumber": 3,
         "drStart": "1748-10-18",
-        "drEnd": "1748-10-18",
+        "drEnd": "1748-10-19",
         "realWorldDate": "2023-12-10",
         "participants": [
           {

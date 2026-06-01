@@ -1,4 +1,4 @@
-# Beat Context: beat-002 - Shade Ambush
+# Beat Context: beat-002 - Distraction and Shade Ambush
 
 This file is only for producing `beat-facts.json`.
 Do not edit `beats.json`.
@@ -11,9 +11,9 @@ Do not edit `beats.json`.
 ## Beat Metadata
 
 - Beat ID: beat-002
-- Title: Shade Ambush
-- Range: `u0285` -> `u0560`
-- Lines: 276
+- Title: Distraction and Shade Ambush
+- Range: `u0226` -> `u0560`
+- Lines: 335
 - Date Start: 1748-10-18
 - Date End: same day
 - Time Window: midday
@@ -64,7 +64,7 @@ Do not edit `beats.json`.
 
 ## Adjacent Beats
 
-- Previous: beat-001 - Bolt-Hole and Shades (1748-10-18)
+- Previous: beat-001 - Bolt-Hole Recon (1748-10-18)
 - Next: beat-003 - Guard Bluff (1748-10-18)
 
 If the transcript does not clearly restate the location, prefer inheriting the prior beat's location unless there is a clear move or travel transition.
@@ -79,6 +79,65 @@ If the transcript does not clearly restate the location, prefer inheriting the p
 
 ## Source
 
+[u0226 | 00:22:24.230-00:22:29.180 | Dilion] does anyone cast? Does anyone cast bright
+[u0227 | 00:22:29.400-00:22:31.410 | Dilion] light because
+[u0228 | 00:22:31.620-00:22:42.120 | Dilion] any sort of spic? I think I might cast, and like a light spell, because that would either attract them like moths or 2. Would
+[u0229 | 00:22:42.260-00:22:43.140 | Dilion] you know.
+[u0230 | 00:22:43.400-00:22:49.390 | Dilion] if you're living in the darkness that might give them a bit of a jolt, or something, or some sort of like
+[u0231 | 00:22:50.400-00:23:03.810 | Dilion] cause I can cast light on something and have it down there that would allow for 2 of us to see better. Maybe it goes an advantage against things that live in the dark, you know. Maybe they don't see super well in direct sunlight or close to light. Huh?
+[u0232 | 00:23:04.850-00:23:13.759 | Acescale] Yeah, if you gave me something I could conceal it in my clothes, hit them with the acid, and then drop it as as I fly back.
+[u0233 | 00:23:14.320-00:23:17.010 | Acescale] Then we'd have the light at the bottom.
+[u0234 | 00:23:17.330-00:23:20.610 | Acescale] Maybe a couple of them hit, and
+[u0235 | 00:23:21.430-00:23:24.310 | Acescale] and then they'd be lured one way or the other, maybe.
+[u0236 | 00:23:24.570-00:23:27.280 | Loria] Yeah. But Portuguese, right?
+[u0237 | 00:23:27.580-00:23:31.370 | Loria] Oh, but like this one's bright light cause, I know, like
+[u0238 | 00:23:31.450-00:23:40.059 | Dilion] not many gaming, but it's like things that are sensitive to to sunlight as a consensus equivalent of bright light. So
+[u0239 | 00:23:40.290-00:23:42.510 | Dilion] I just had that idea like
+[u0240 | 00:23:43.350-00:23:54.549 | Dilion] So II don't know. Just give us the opportunity to see. And then if they're gonna float up to us. I don't know. It's kind of at least it's a whole way where we can deal with them one on one kind of thing. But
+[u0241 | 00:23:57.360-00:23:59.909 | Loria] I have fairy fire, but
+[u0242 | 00:24:00.030-00:24:05.640 | Loria] outline everyone in light
+[u0243 | 00:24:10.990-00:24:14.369 | Acescale] that would be good. Is that your last slot?
+[u0244 | 00:24:15.090-00:24:16.950 | Loria] Yeah.
+[u0245 | 00:24:17.520-00:24:18.250 | Acescale] yeah.
+[u0246 | 00:24:18.700-00:24:22.990 | Acescale] is really touch for boss battles.
+[u0247 | 00:24:23.200-00:24:26.070 | Loria] So we should. Yeah.
+[u0248 | 00:24:26.110-00:24:29.999 | Acescale] oh, is like a full spell slot for you, too.
+[u0249 | 00:24:30.030-00:24:47.240 | Dilion] I think, putting a light down and see how they react to it, because maybe they're like, Oh, let's talk or like, that that's painful. And then we can keep you.
+[u0250 | 00:24:48.420-00:24:49.320 | Acescale] Sure.
+[u0251 | 00:24:49.530-00:24:51.019 | Loria] Yeah, I'm gonna go to that plan.
+[u0252 | 00:24:51.200-00:24:57.609 | Dilion] Do we have just a small May, I can scrub like a rock or something? Yeah, there's plenty of pebbles. Yeah. Yeah.
+[u0253 | 00:24:58.290-00:25:05.399 | Dilion] sorry light. So I like, yeah, I can. I could give
+[u0254 | 00:25:07.000-00:25:10.970 | Dilion] Elizabeth Elizabeth folk a
+[u0255 | 00:25:12.430-00:25:26.250 | Acescale] bright, a bright rock for the time being, or
+[u0256 | 00:25:27.300-00:25:29.920 | Acescale] Paypal down there, too.
+[u0257 | 00:25:30.820-00:25:43.679 | Dilion] If you if you decide to throw Nate on? We will. We will back you up. I how do we get down there? I think it's the other thing, cause you're able to fly.
+[u0258 | 00:25:43.760-00:25:46.240 | Acescale] There's a rope letter. Yeah.
+[u0259 | 00:25:46.380-00:25:50.629 | Dilion] Okay? And so the rope ladder descends. Is it 50 feet down.
+[u0260 | 00:25:51.120-00:25:54.410 | Dilion] 30 feet down, 30 feet? 30 feet. Okay
+[u0261 | 00:25:54.680-00:25:57.749 | Dilion] in terms of movement, speed and stuff.
+[u0262 | 00:25:58.260-00:26:05.150 | Dilion] so half speed while climbing down a ladder. So if you dash, you could get to the bottom in one turn
+[u0263 | 00:26:05.270-00:26:05.950 | Dilion] hack.
+[u0264 | 00:26:06.680-00:26:16.050 | Dilion] Do we think we could get down there without this these and ghostly dudes seeing us like
+[u0265 | 00:26:16.440-00:26:21.489 | Acescale] I turn to to Gabon, and I say
+[u0266 | 00:26:21.740-00:26:24.170 | Acescale] you can cast invisibility right?
+[u0267 | 00:26:24.350-00:26:25.530 | Gaudin] Yes.
+[u0268 | 00:26:25.880-00:26:26.750 | Acescale] Could
+[u0269 | 00:26:27.060-00:26:29.479 | Gaudin] could you make me invisible?
+[u0270 | 00:26:31.050-00:26:43.400 | Acescale] I fly to the other end of the room and drop the light to distract them. You all drop the rope ladder and come down and hide. and then
+[u0271 | 00:26:44.400-00:26:49.729 | Acescale] we III either attack and fly back, or
+[u0272 | 00:26:51.280-00:26:58.950 | Acescale] or just, or or talk to them, and fly back, or or whatever, at that point. But that gets you down, and then we're not crammed into the hallway.
+[u0273 | 00:27:00.280-00:27:03.080 | Gaudin] and also not ambushed, I suppose.
+[u0274 | 00:27:04.240-00:27:05.260 | DM] and
+[u0275 | 00:27:11.240-00:27:12.420 | Gaudin] works for me.
+[u0276 | 00:27:14.380-00:27:19.160 | Acescale] Is there, Tim? Is there room behind them, or are they like right at a door or something.
+[u0277 | 00:27:19.440-00:27:23.850 | DM] They're at the far end, the the here let me draw it. It's like
+[u0278 | 00:27:27.400-00:27:31.760 | DM] 1, 2,
+[u0279 | 00:27:42.000-00:27:44.420 | DM] this at the top. Here is the
+[u0280 | 00:27:45.220-00:27:46.900 | DM] exet. The
+[u0281 | 00:27:48.010-00:27:50.550 | DM] 10 foot hole is like, right about there.
+[u0282 | 00:27:52.160-00:27:53.000 | Acescale] Okay.
+[u0283 | 00:27:54.220-00:27:58.960 | Acescale] the shades are all at the exit here. Let me
+[u0284 | 00:28:00.160-00:28:01.369 | DM] put them out.
 [u0285 | 00:28:05.730-00:28:09.049 | Dilion] Could spend time making lots of
 [u0286 | 00:28:09.220-00:28:20.529 | Dilion] pebbles, because each pebble lasts an hour like The light cantrip lasts an hour on an object so I could get like a bunch of objects, and then we can just go like da
 [u0287 | 00:28:20.990-00:28:28.320 | Dilion] pocket pibbles and just like, scare me. Yeah. Scattered them around quite violently. I don't know.
