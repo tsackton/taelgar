@@ -5,33 +5,33 @@
   "beats": [
     {
       "beatId": "beat-001",
-      "title": "Bolt-Hole and Shades",
+      "title": "Bolt-Hole Recon",
       "startUid": "u0001",
-      "endUid": "u0284",
-      "lineCount": 284,
+      "endUid": "u0225",
+      "lineCount": 225,
       "dateStart": "1748-10-18",
       "dateEnd": null,
       "timeWindow": "midday",
       "dateResolution": "exact",
       "containsCombat": false,
-      "boundaryReason": "The session opens with the party reorienting under the manor, exploring the hidden bolt-hole and dark cavern, and planning how to get past the shades before the distraction plan begins.",
+      "boundaryReason": "The session opens with the party reorienting under the manor, exploring the hidden bolt-hole, Acescale scouting the lower cavern, identifying the rope ladder and seven pirate shades, and the party recognizing the tactical problem of getting down and across the cavern without being caught in the narrow upper approach.",
       "dateEvidence": [
-        "session.yaml gives drStart 1748-10-18 and drEnd 1748-10-18.",
+        "session.yaml gives drStart 1748-10-18 and drEnd 1748-10-19.",
         "u0675-u0684 later says the group descended in the mid-morning and that it is about 1:30 after the short rest."
       ]
     },
     {
       "beatId": "beat-002",
-      "title": "Shade Ambush",
-      "startUid": "u0285",
+      "title": "Distraction and Shade Ambush",
+      "startUid": "u0226",
       "endUid": "u0560",
-      "lineCount": 276,
+      "lineCount": 335,
       "dateStart": "1748-10-18",
       "dateEnd": null,
       "timeWindow": "midday",
       "dateResolution": "exact",
       "containsCombat": true,
-      "boundaryReason": "The party turns the light-object idea into a distraction, descends into the cavern, fights the shades and shadows, searches the burned remains, and completes a short rest before returning to the door.",
+      "boundaryReason": "The light idea begins the combat setup: the party turns magical light and tinkering into a bag of distractions, descends by rope ladder, triggers the distraction as the shades notice Dilion, fights the shades and shadows, searches the burned remains, and completes a short rest before returning to the door.",
       "dateEvidence": [
         "The beat continues directly from the opening exploration on 1748-10-18.",
         "u0558-u0560 move the group back to the cavern door after the short rest."

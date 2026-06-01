@@ -9,25 +9,38 @@
     "sessionNumber": 3,
     "realWorldDate": "2023-12-10",
     "drStart": "1748-10-18",
-    "drEnd": "1748-10-18"
+    "drEnd": "1748-10-19"
   },
   "timelineBlocks": [
     {
       "blockId": "timeline-001",
       "dateStart": "1748-10-18",
       "dateEnd": null,
-      "timeWindow": "midday",
-      "resolution": "part-of-day",
+      "timeWindow": null,
+      "resolution": "day",
       "beatIds": [
         "beat-001",
-        "beat-002"
+        "beat-002",
+        "beat-003",
+        "beat-004",
+        "beat-005",
+        "beat-006",
+        "beat-007"
       ],
       "locationRefs": [
         "Perdoli Manor"
       ],
       "npcRefs": [
         "pirate shades",
-        "pirate shadows"
+        "pirate shadows",
+        "human guard",
+        "Grimstone",
+        "stone spider statue",
+        "stone wasp statue",
+        "stone spider swarm",
+        "stone wasp",
+        "Pikeia",
+        "mimic"
       ],
       "organizationRefs": [],
       "itemRefs": [
@@ -38,33 +51,69 @@
         "bag of distractions",
         "silver-and-gold ingot",
         "melted short swords",
-        "strange wooden door"
+        "strange wooden door",
+        "green petrification vial",
+        "screaming pebble",
+        "alchemist's tools",
+        "half-drunk brandy",
+        "potion grenades",
+        "scroll of Cure Wounds",
+        "potion bandolier",
+        "laboratory glassware",
+        "invisibility spell",
+        "petrifying poison",
+        "healing potions",
+        "anti-petrification potions",
+        "potion of growth",
+        "potion of advantage",
+        "oil of slipperiness",
+        "glowing-poison recipe",
+        "alchemical supplies",
+        "Prime Arcana notes",
+        "The Way of the Stone",
+        "Grimstone's key",
+        "Acescale's poker winnings",
+        "ring of bird calls",
+        "strangely weighted die",
+        "pearls, decanter, goblets, and garnets"
       ],
       "combatBeatIds": [
-        "beat-002"
+        "beat-002",
+        "beat-004",
+        "beat-006"
       ],
       "sourceShortSummaries": [
-        "The party descends from J.M.'s room into the old bolt-hole, scouts the lower cavern, and finds pirate shades blocking the way deeper into Grimstone's lair.",
-        "The party drops a bag of magical distractions into the cavern, destroys the pirate shades and shadows, and rests after finding the burned remains of the old pirates."
+        "The party descends from J.M.'s room into the old bolt-hole, where Acescale scouts a rope ladder and seven pirate shades blocking the lower cavern exit.",
+        "The party turns a bright-light idea into a bag of magical distractions, descends into the cavern, destroys the pirate shades and shadows, and rests after searching the burned remains.",
+        "Gaudin bluffs a large human guard by posing as an elf delivering prisoners as ingredients, and the steampup narrowly avoids being petrified.",
+        "The party raids the guard's supplies, fails to lure Grimstone out, and then kills the returning human guard before he can bring help.",
+        "After a short break, the party plans a direct assault on Grimstone's laboratory and sends invisible Loria ahead, but a kicked vial exposes her.",
+        "The party defeats Grimstone and his animated stone creatures, but Acescale is twice dropped by the stone wasp's petrifying poison.",
+        "The party loots Grimstone's lab, finds his Prime Arcana obsession and Pikeia, recovers treasure and magic items, and avoids a mimic chest."
       ],
       "sourceLongSummaries": [
-        "Starting from the master bedroom trapdoor that J.M. revealed, the party drops into an old Perdoli vault that pirates later broke open into a rough tunnel. The steampup leads the group through the dark until they find a ten-foot gap over a thirty-foot drop; Acescale drinks his flight elixir, confirms the upper tunnel dead-ends, scouts the lower cavern, spots a rope ladder, and reports seven shadowy pirate shades guarding the far exit.",
-        "Dilion and Acescale make a small bag of magically lit, noisy, foul-smelling objects, and invisible Acescale carries the steampup down while Dilion hooks the rope ladder. When the shades notice the descent, the bag of distractions gives the party the jump: Acescale's acid, Loria's swords and swarm, Gaudin's Eldritch Blast, Dilion's weapon, and the steampup quickly wipe out the five weaker shades and two stronger shadows. Searching afterward reveals seven burned pirate skeletons, melted swords, a silver-and-gold ingot, and recent tracks suggesting one or two people still move through the cavern, so the party takes a short rest before opening the strange wooden door."
+        "Starting from the master bedroom trapdoor that J.M. revealed, the party drops into an old Perdoli vault that pirates later broke open into a rough tunnel. The steampup leads the group through the dark until they find a ten-foot gap over a thirty-foot drop; Acescale drinks his flight elixir, confirms the upper tunnel dead-ends, scouts the lower cavern, spots a rope ladder, and reports seven shadowy pirate shades guarding the far exit. The group recognizes that simply climbing down and crossing the cavern would leave them exposed in the narrow upper approach.",
+        "Dilion suggests using bright light to distract or expose the shades, and he and Acescale turn the idea into a small bag of magically lit, noisy, foul-smelling objects. Invisible Acescale carries the steampup down while Dilion hooks the rope ladder; when the shades notice Dilion at the bottom, the bag goes off and gives the party the jump. Acescale's acid, Loria's swords and swarm, Gaudin's Eldritch Blast, Dilion's weapon, and the steampup quickly wipe out the five weaker shades and two stronger shadows. Searching afterward reveals seven burned pirate skeletons, melted swords, a silver-and-gold ingot, and recent tracks suggesting one or two people still move through the cavern, so the party takes a short rest before opening the strange wooden door.",
+        "Past the false-looking wooden door, the party creeps through a natural corridor toward a torchlit workout chamber where a large human guard is using a hanging straw punching bag. Loria briefly tries a lost-traveler act, but Gaudin steps in with his elf disguise, kicks the supposed prisoners into line, and claims the group has been sent to Grimstone as ingredients. The guard is confused but half convinced, tests the claim by smashing a green petrification vial on the steampup, and walks away toward the cavern entrance after the construct resists turning to stone.",
+        "After the guard leaves, the party searches his crates and finds clothes, brandy, empty vials, and usable alchemist's tools, then devises a plan for Gaudin to impersonate the guard and warn Grimstone that the basilisk has escaped. Grimstone refuses to leave his bench and throws a fire potion at Gaudin, forcing the party to abandon that lure just as the real guard returns. Gaudin then disguises himself as Grimstone and tries to send the guard after a stone spider, but the voice is wrong; the guard gives chase, Gaudin dashes and Misty Steps back to the ambush, and the party wounds the guard badly before the steampup finishes him despite his plea to live.",
+        "The party returns from a short out-of-character break and decides that Grimstone must be attacked in the lab rather than lured out. They weigh flammable alchemical supplies, the potion bandolier, the steampup's ability to pin Grimstone, and the risk of the stone statues animating before settling on a high-risk opening: invisible Loria will sneak in and try to disarm or strike him while the others wait close enough to rush in. Loria rolls poorly on the stealth approach, kicks a glass vial among the lab debris, and Grimstone grabs a potion and calls for initiative.",
+        "Gaudin misses a risky Eldritch Blast at Grimstone's potion, but Acescale poisons Grimstone with Ray of Sickness, the steampup leaps over the bench, and Loria gets under the table to cut at his legs. Grimstone answers with fire, smoke, and animation potions that turn a stone spider into a swarm and awaken a stone wasp; Loria finally kills Grimstone with a Zephyr Strike critical hit, but the stone creatures keep fighting. The stone wasp twice drops Acescale to zero with poison that starts turning him to stone, Dilion heals him once, Loria and Gaudin batter the constructs, and the party finishes the wasp and remaining spiders before the lab goes quiet.",
+        "After the fight, the party searches Grimstone's laboratory, accidentally feeds Acescale one poisoned healing potion, then identifies the safe healing and anti-petrification potions, a potion of growth, a potion of advantage, oil of slipperiness, a glowing-poison recipe, and valuable alchemical supplies. Grimstone's west room contains bed, notes, maps, and ranting research about basilisk capture, the Prime Arcana stone, and the belief that petrifying the right victim could create the substance needed for immortality; the east storeroom holds Pikeia tied up alive, two chests, and Grimstone's key and Draconic book, The Way of the Stone. The first chest holds Acescale's poker winnings, a ring of bird calls, a strangely weighted die, pearls, a silver decanter, turquoise-set goblets, and garnets, while the second chest reveals itself as a mimic and the party backs away."
       ],
       "sourceEntries": [
         {
           "beatId": "beat-001",
-          "title": "Bolt-Hole and Shades",
-          "boundaryReason": "The session opens with the party reorienting under the manor, exploring the hidden bolt-hole and dark cavern, and planning how to get past the shades before the distraction plan begins.",
+          "title": "Bolt-Hole Recon",
+          "boundaryReason": "The session opens with the party reorienting under the manor, exploring the hidden bolt-hole, Acescale scouting the lower cavern, identifying the rope ladder and seven pirate shades, and the party recognizing the tactical problem of getting down and across the cavern without being caught in the narrow upper approach.",
           "dateStart": "1748-10-18",
           "dateEnd": null,
           "timeWindow": "midday",
           "sourceRange": {
             "startUid": "u0001",
-            "endUid": "u0284"
+            "endUid": "u0225"
           },
-          "shortSummary": "The party descends from J.M.'s room into the old bolt-hole, scouts the lower cavern, and finds pirate shades blocking the way deeper into Grimstone's lair.",
-          "longSummary": "Starting from the master bedroom trapdoor that J.M. revealed, the party drops into an old Perdoli vault that pirates later broke open into a rough tunnel. The steampup leads the group through the dark until they find a ten-foot gap over a thirty-foot drop; Acescale drinks his flight elixir, confirms the upper tunnel dead-ends, scouts the lower cavern, spots a rope ladder, and reports seven shadowy pirate shades guarding the far exit.",
+          "shortSummary": "The party descends from J.M.'s room into the old bolt-hole, where Acescale scouts a rope ladder and seven pirate shades blocking the lower cavern exit.",
+          "longSummary": "Starting from the master bedroom trapdoor that J.M. revealed, the party drops into an old Perdoli vault that pirates later broke open into a rough tunnel. The steampup leads the group through the dark until they find a ten-foot gap over a thirty-foot drop; Acescale drinks his flight elixir, confirms the upper tunnel dead-ends, scouts the lower cavern, spots a rope ladder, and reports seven shadowy pirate shades guarding the far exit. The group recognizes that simply climbing down and crossing the cavern would leave them exposed in the narrow upper approach.",
           "locationHints": {
             "refs": [
               "Perdoli Manor"
@@ -130,17 +179,17 @@
         },
         {
           "beatId": "beat-002",
-          "title": "Shade Ambush",
-          "boundaryReason": "The party turns the light-object idea into a distraction, descends into the cavern, fights the shades and shadows, searches the burned remains, and completes a short rest before returning to the door.",
+          "title": "Distraction and Shade Ambush",
+          "boundaryReason": "The light idea begins the combat setup: the party turns magical light and tinkering into a bag of distractions, descends by rope ladder, triggers the distraction as the shades notice Dilion, fights the shades and shadows, searches the burned remains, and completes a short rest before returning to the door.",
           "dateStart": "1748-10-18",
           "dateEnd": null,
           "timeWindow": "midday",
           "sourceRange": {
-            "startUid": "u0285",
+            "startUid": "u0226",
             "endUid": "u0560"
           },
-          "shortSummary": "The party drops a bag of magical distractions into the cavern, destroys the pirate shades and shadows, and rests after finding the burned remains of the old pirates.",
-          "longSummary": "Dilion and Acescale make a small bag of magically lit, noisy, foul-smelling objects, and invisible Acescale carries the steampup down while Dilion hooks the rope ladder. When the shades notice the descent, the bag of distractions gives the party the jump: Acescale's acid, Loria's swords and swarm, Gaudin's Eldritch Blast, Dilion's weapon, and the steampup quickly wipe out the five weaker shades and two stronger shadows. Searching afterward reveals seven burned pirate skeletons, melted swords, a silver-and-gold ingot, and recent tracks suggesting one or two people still move through the cavern, so the party takes a short rest before opening the strange wooden door.",
+          "shortSummary": "The party turns a bright-light idea into a bag of magical distractions, descends into the cavern, destroys the pirate shades and shadows, and rests after searching the burned remains.",
+          "longSummary": "Dilion suggests using bright light to distract or expose the shades, and he and Acescale turn the idea into a small bag of magically lit, noisy, foul-smelling objects. Invisible Acescale carries the steampup down while Dilion hooks the rope ladder; when the shades notice Dilion at the bottom, the bag goes off and gives the party the jump. Acescale's acid, Loria's swords and swarm, Gaudin's Eldritch Blast, Dilion's weapon, and the steampup quickly wipe out the five weaker shades and two stronger shadows. Searching afterward reveals seven burned pirate skeletons, melted swords, a silver-and-gold ingot, and recent tracks suggesting one or two people still move through the cavern, so the party takes a short rest before opening the strange wooden door.",
           "locationHints": {
             "refs": [
               "Perdoli Manor"
@@ -216,82 +265,7 @@
             ],
             "notes": "The entire combat takes place in the lower cavern after the distraction plan gives the party an initiative advantage."
           }
-        }
-      ]
-    },
-    {
-      "blockId": "timeline-002",
-      "dateStart": "1748-10-18",
-      "dateEnd": null,
-      "timeWindow": "afternoon",
-      "resolution": "part-of-day",
-      "beatIds": [
-        "beat-003",
-        "beat-004",
-        "beat-005",
-        "beat-006",
-        "beat-007"
-      ],
-      "locationRefs": [
-        "Perdoli Manor"
-      ],
-      "npcRefs": [
-        "human guard",
-        "Grimstone",
-        "stone spider statue",
-        "stone wasp statue",
-        "stone spider swarm",
-        "stone wasp",
-        "Pikeia",
-        "mimic"
-      ],
-      "organizationRefs": [],
-      "itemRefs": [
-        "green petrification vial",
-        "steampup",
-        "screaming pebble",
-        "alchemist's tools",
-        "half-drunk brandy",
-        "potion grenades",
-        "scroll of Cure Wounds",
-        "potion bandolier",
-        "laboratory glassware",
-        "invisibility spell",
-        "petrifying poison",
-        "healing potions",
-        "anti-petrification potions",
-        "potion of growth",
-        "potion of advantage",
-        "oil of slipperiness",
-        "glowing-poison recipe",
-        "alchemical supplies",
-        "Prime Arcana notes",
-        "The Way of the Stone",
-        "Grimstone's key",
-        "Acescale's poker winnings",
-        "ring of bird calls",
-        "strangely weighted die",
-        "pearls, decanter, goblets, and garnets"
-      ],
-      "combatBeatIds": [
-        "beat-004",
-        "beat-006"
-      ],
-      "sourceShortSummaries": [
-        "Gaudin bluffs a large human guard by posing as an elf delivering prisoners as ingredients, and the steampup narrowly avoids being petrified.",
-        "The party raids the guard's supplies, fails to lure Grimstone out, and then kills the returning human guard before he can bring help.",
-        "After a short break, the party plans a direct assault on Grimstone's laboratory and sends invisible Loria ahead, but a kicked vial exposes her.",
-        "The party defeats Grimstone and his animated stone creatures, but Acescale is twice dropped by the stone wasp's petrifying poison.",
-        "The party loots Grimstone's lab, finds his Prime Arcana obsession and Pikeia, recovers treasure and magic items, and avoids a mimic chest."
-      ],
-      "sourceLongSummaries": [
-        "Past the false-looking wooden door, the party creeps through a natural corridor toward a torchlit workout chamber where a large human guard is using a hanging straw punching bag. Loria briefly tries a lost-traveler act, but Gaudin steps in with his elf disguise, kicks the supposed prisoners into line, and claims the group has been sent to Grimstone as ingredients. The guard is confused but half convinced, tests the claim by smashing a green petrification vial on the steampup, and walks away toward the cavern entrance after the construct resists turning to stone.",
-        "After the guard leaves, the party searches his crates and finds clothes, brandy, empty vials, and usable alchemist's tools, then devises a plan for Gaudin to impersonate the guard and warn Grimstone that the basilisk has escaped. Grimstone refuses to leave his bench and throws a fire potion at Gaudin, forcing the party to abandon that lure just as the real guard returns. Gaudin then disguises himself as Grimstone and tries to send the guard after a stone spider, but the voice is wrong; the guard gives chase, Gaudin dashes and Misty Steps back to the ambush, and the party wounds the guard badly before the steampup finishes him despite his plea to live.",
-        "The party returns from a short out-of-character break and decides that Grimstone must be attacked in the lab rather than lured out. They weigh flammable alchemical supplies, the potion bandolier, the steampup's ability to pin Grimstone, and the risk of the stone statues animating before settling on a high-risk opening: invisible Loria will sneak in and try to disarm or strike him while the others wait close enough to rush in. Loria rolls poorly on the stealth approach, kicks a glass vial among the lab debris, and Grimstone grabs a potion and calls for initiative.",
-        "Gaudin misses a risky Eldritch Blast at Grimstone's potion, but Acescale poisons Grimstone with Ray of Sickness, the steampup leaps over the bench, and Loria gets under the table to cut at his legs. Grimstone answers with fire, smoke, and animation potions that turn a stone spider into a swarm and awaken a stone wasp; Loria finally kills Grimstone with a Zephyr Strike critical hit, but the stone creatures keep fighting. The stone wasp twice drops Acescale to zero with poison that starts turning him to stone, Dilion heals him once, Loria and Gaudin batter the constructs, and the party finishes the wasp and remaining spiders before the lab goes quiet.",
-        "After the fight, the party searches Grimstone's laboratory, accidentally feeds Acescale one poisoned healing potion, then identifies the safe healing and anti-petrification potions, a potion of growth, a potion of advantage, oil of slipperiness, a glowing-poison recipe, and valuable alchemical supplies. Grimstone's west room contains bed, notes, maps, and ranting research about basilisk capture, the Prime Arcana stone, and the belief that petrifying the right victim could create the substance needed for immortality; the east storeroom holds Pikeia tied up alive, two chests, and Grimstone's key and Draconic book, The Way of the Stone. The first chest holds Acescale's poker winnings, a ring of bird calls, a strangely weighted die, pearls, a silver decanter, turquoise-set goblets, and garnets, while the second chest reveals itself as a mimic and the party backs away."
-      ],
-      "sourceEntries": [
+        },
         {
           "beatId": "beat-003",
           "title": "Guard Bluff",
@@ -680,7 +654,7 @@
       ]
     },
     {
-      "blockId": "timeline-003",
+      "blockId": "timeline-002",
       "dateStart": "1748-10-19",
       "dateEnd": null,
       "timeWindow": "morning",
@@ -789,18 +763,18 @@
     {
       "blockId": "recap-001",
       "kind": "beat",
-      "title": "Bolt-Hole and Shades",
+      "title": "Bolt-Hole Recon",
       "beatIds": [
         "beat-001"
       ],
       "sourceRange": {
         "startUid": "u0001",
-        "endUid": "u0284"
+        "endUid": "u0225"
       },
       "sourceRanges": [
         {
           "startUid": "u0001",
-          "endUid": "u0284"
+          "endUid": "u0225"
         }
       ],
       "dateStart": "1748-10-18",
@@ -822,25 +796,25 @@
       ],
       "combatEnemyRefs": [],
       "sourceShortSummaries": [
-        "The party descends from J.M.'s room into the old bolt-hole, scouts the lower cavern, and finds pirate shades blocking the way deeper into Grimstone's lair."
+        "The party descends from J.M.'s room into the old bolt-hole, where Acescale scouts a rope ladder and seven pirate shades blocking the lower cavern exit."
       ],
       "sourceLongSummaries": [
-        "Starting from the master bedroom trapdoor that J.M. revealed, the party drops into an old Perdoli vault that pirates later broke open into a rough tunnel. The steampup leads the group through the dark until they find a ten-foot gap over a thirty-foot drop; Acescale drinks his flight elixir, confirms the upper tunnel dead-ends, scouts the lower cavern, spots a rope ladder, and reports seven shadowy pirate shades guarding the far exit."
+        "Starting from the master bedroom trapdoor that J.M. revealed, the party drops into an old Perdoli vault that pirates later broke open into a rough tunnel. The steampup leads the group through the dark until they find a ten-foot gap over a thirty-foot drop; Acescale drinks his flight elixir, confirms the upper tunnel dead-ends, scouts the lower cavern, spots a rope ladder, and reports seven shadowy pirate shades guarding the far exit. The group recognizes that simply climbing down and crossing the cavern would leave them exposed in the narrow upper approach."
       ],
       "sourceEntries": [
         {
           "beatId": "beat-001",
-          "title": "Bolt-Hole and Shades",
-          "boundaryReason": "The session opens with the party reorienting under the manor, exploring the hidden bolt-hole and dark cavern, and planning how to get past the shades before the distraction plan begins.",
+          "title": "Bolt-Hole Recon",
+          "boundaryReason": "The session opens with the party reorienting under the manor, exploring the hidden bolt-hole, Acescale scouting the lower cavern, identifying the rope ladder and seven pirate shades, and the party recognizing the tactical problem of getting down and across the cavern without being caught in the narrow upper approach.",
           "dateStart": "1748-10-18",
           "dateEnd": null,
           "timeWindow": "midday",
           "sourceRange": {
             "startUid": "u0001",
-            "endUid": "u0284"
+            "endUid": "u0225"
           },
-          "shortSummary": "The party descends from J.M.'s room into the old bolt-hole, scouts the lower cavern, and finds pirate shades blocking the way deeper into Grimstone's lair.",
-          "longSummary": "Starting from the master bedroom trapdoor that J.M. revealed, the party drops into an old Perdoli vault that pirates later broke open into a rough tunnel. The steampup leads the group through the dark until they find a ten-foot gap over a thirty-foot drop; Acescale drinks his flight elixir, confirms the upper tunnel dead-ends, scouts the lower cavern, spots a rope ladder, and reports seven shadowy pirate shades guarding the far exit.",
+          "shortSummary": "The party descends from J.M.'s room into the old bolt-hole, where Acescale scouts a rope ladder and seven pirate shades blocking the lower cavern exit.",
+          "longSummary": "Starting from the master bedroom trapdoor that J.M. revealed, the party drops into an old Perdoli vault that pirates later broke open into a rough tunnel. The steampup leads the group through the dark until they find a ten-foot gap over a thirty-foot drop; Acescale drinks his flight elixir, confirms the upper tunnel dead-ends, scouts the lower cavern, spots a rope ladder, and reports seven shadowy pirate shades guarding the far exit. The group recognizes that simply climbing down and crossing the cavern would leave them exposed in the narrow upper approach.",
           "locationHints": {
             "refs": [
               "Perdoli Manor"
@@ -909,17 +883,17 @@
     {
       "blockId": "recap-002",
       "kind": "combat",
-      "title": "Shade Ambush",
+      "title": "Distraction and Shade Ambush",
       "beatIds": [
         "beat-002"
       ],
       "sourceRange": {
-        "startUid": "u0285",
+        "startUid": "u0226",
         "endUid": "u0560"
       },
       "sourceRanges": [
         {
-          "startUid": "u0285",
+          "startUid": "u0226",
           "endUid": "u0560"
         }
       ],
@@ -947,25 +921,25 @@
         "pirate shadows"
       ],
       "sourceShortSummaries": [
-        "The party drops a bag of magical distractions into the cavern, destroys the pirate shades and shadows, and rests after finding the burned remains of the old pirates."
+        "The party turns a bright-light idea into a bag of magical distractions, descends into the cavern, destroys the pirate shades and shadows, and rests after searching the burned remains."
       ],
       "sourceLongSummaries": [
-        "Dilion and Acescale make a small bag of magically lit, noisy, foul-smelling objects, and invisible Acescale carries the steampup down while Dilion hooks the rope ladder. When the shades notice the descent, the bag of distractions gives the party the jump: Acescale's acid, Loria's swords and swarm, Gaudin's Eldritch Blast, Dilion's weapon, and the steampup quickly wipe out the five weaker shades and two stronger shadows. Searching afterward reveals seven burned pirate skeletons, melted swords, a silver-and-gold ingot, and recent tracks suggesting one or two people still move through the cavern, so the party takes a short rest before opening the strange wooden door."
+        "Dilion suggests using bright light to distract or expose the shades, and he and Acescale turn the idea into a small bag of magically lit, noisy, foul-smelling objects. Invisible Acescale carries the steampup down while Dilion hooks the rope ladder; when the shades notice Dilion at the bottom, the bag goes off and gives the party the jump. Acescale's acid, Loria's swords and swarm, Gaudin's Eldritch Blast, Dilion's weapon, and the steampup quickly wipe out the five weaker shades and two stronger shadows. Searching afterward reveals seven burned pirate skeletons, melted swords, a silver-and-gold ingot, and recent tracks suggesting one or two people still move through the cavern, so the party takes a short rest before opening the strange wooden door."
       ],
       "sourceEntries": [
         {
           "beatId": "beat-002",
-          "title": "Shade Ambush",
-          "boundaryReason": "The party turns the light-object idea into a distraction, descends into the cavern, fights the shades and shadows, searches the burned remains, and completes a short rest before returning to the door.",
+          "title": "Distraction and Shade Ambush",
+          "boundaryReason": "The light idea begins the combat setup: the party turns magical light and tinkering into a bag of distractions, descends by rope ladder, triggers the distraction as the shades notice Dilion, fights the shades and shadows, searches the burned remains, and completes a short rest before returning to the door.",
           "dateStart": "1748-10-18",
           "dateEnd": null,
           "timeWindow": "midday",
           "sourceRange": {
-            "startUid": "u0285",
+            "startUid": "u0226",
             "endUid": "u0560"
           },
-          "shortSummary": "The party drops a bag of magical distractions into the cavern, destroys the pirate shades and shadows, and rests after finding the burned remains of the old pirates.",
-          "longSummary": "Dilion and Acescale make a small bag of magically lit, noisy, foul-smelling objects, and invisible Acescale carries the steampup down while Dilion hooks the rope ladder. When the shades notice the descent, the bag of distractions gives the party the jump: Acescale's acid, Loria's swords and swarm, Gaudin's Eldritch Blast, Dilion's weapon, and the steampup quickly wipe out the five weaker shades and two stronger shadows. Searching afterward reveals seven burned pirate skeletons, melted swords, a silver-and-gold ingot, and recent tracks suggesting one or two people still move through the cavern, so the party takes a short rest before opening the strange wooden door.",
+          "shortSummary": "The party turns a bright-light idea into a bag of magical distractions, descends into the cavern, destroys the pirate shades and shadows, and rests after searching the burned remains.",
+          "longSummary": "Dilion suggests using bright light to distract or expose the shades, and he and Acescale turn the idea into a small bag of magically lit, noisy, foul-smelling objects. Invisible Acescale carries the steampup down while Dilion hooks the rope ladder; when the shades notice Dilion at the bottom, the bag goes off and gives the party the jump. Acescale's acid, Loria's swords and swarm, Gaudin's Eldritch Blast, Dilion's weapon, and the steampup quickly wipe out the five weaker shades and two stronger shadows. Searching afterward reveals seven burned pirate skeletons, melted swords, a silver-and-gold ingot, and recent tracks suggesting one or two people still move through the cavern, so the party takes a short rest before opening the strange wooden door.",
           "locationHints": {
             "refs": [
               "Perdoli Manor"

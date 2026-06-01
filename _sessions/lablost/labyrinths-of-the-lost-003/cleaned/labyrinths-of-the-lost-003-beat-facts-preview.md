@@ -3,14 +3,14 @@
 - Beats file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-beats.json
 - Beat count: 8
 
-## Bolt-Hole and Shades
+## Bolt-Hole Recon
 *beat-001*
 
 **Date**: 1748-10-18
 **Time Window**: midday
 **Combat**: no
-**Short Summary**: The party descends from J.M.'s room into the old bolt-hole, scouts the lower cavern, and finds pirate shades blocking the way deeper into Grimstone's lair.
-**Long Summary**: Starting from the master bedroom trapdoor that J.M. revealed, the party drops into an old Perdoli vault that pirates later broke open into a rough tunnel. The steampup leads the group through the dark until they find a ten-foot gap over a thirty-foot drop; Acescale drinks his flight elixir, confirms the upper tunnel dead-ends, scouts the lower cavern, spots a rope ladder, and reports seven shadowy pirate shades guarding the far exit.
+**Short Summary**: The party descends from J.M.'s room into the old bolt-hole, where Acescale scouts a rope ladder and seven pirate shades blocking the lower cavern exit.
+**Long Summary**: Starting from the master bedroom trapdoor that J.M. revealed, the party drops into an old Perdoli vault that pirates later broke open into a rough tunnel. The steampup leads the group through the dark until they find a ten-foot gap over a thirty-foot drop; Acescale drinks his flight elixir, confirms the upper tunnel dead-ends, scouts the lower cavern, spots a rope ladder, and reports seven shadowy pirate shades guarding the far exit. The group recognizes that simply climbing down and crossing the cavern would leave them exposed in the narrow upper approach.
 **Location**:
 - Perdoli Manor (Western Cymea): master bedroom trapdoor, old vault, rough tunnel, and pit above the lower pirate cavern
   Note: The beat moves from the old bedroom trapdoor into the secret hideout beneath the manor.
@@ -27,7 +27,7 @@
 **Organizations**:
 - Perdoli family (mentioned): The old vault is identified as part of the original Perdoli manor construction.
 
-## Shade Ambush
+## Distraction and Shade Ambush
 *beat-002*
 
 **Date**: 1748-10-18
@@ -37,8 +37,8 @@
 - pirate shades: Five weaker undead pirates guarding the cavern exit.
 - pirate shadows: Two stronger shadow-creatures among the pirate dead.
 **Combat Notes**: The entire combat takes place in the lower cavern after the distraction plan gives the party an initiative advantage.
-**Short Summary**: The party drops a bag of magical distractions into the cavern, destroys the pirate shades and shadows, and rests after finding the burned remains of the old pirates.
-**Long Summary**: Dilion and Acescale make a small bag of magically lit, noisy, foul-smelling objects, and invisible Acescale carries the steampup down while Dilion hooks the rope ladder. When the shades notice the descent, the bag of distractions gives the party the jump: Acescale's acid, Loria's swords and swarm, Gaudin's Eldritch Blast, Dilion's weapon, and the steampup quickly wipe out the five weaker shades and two stronger shadows. Searching afterward reveals seven burned pirate skeletons, melted swords, a silver-and-gold ingot, and recent tracks suggesting one or two people still move through the cavern, so the party takes a short rest before opening the strange wooden door.
+**Short Summary**: The party turns a bright-light idea into a bag of magical distractions, descends into the cavern, destroys the pirate shades and shadows, and rests after searching the burned remains.
+**Long Summary**: Dilion suggests using bright light to distract or expose the shades, and he and Acescale turn the idea into a small bag of magically lit, noisy, foul-smelling objects. Invisible Acescale carries the steampup down while Dilion hooks the rope ladder; when the shades notice Dilion at the bottom, the bag goes off and gives the party the jump. Acescale's acid, Loria's swords and swarm, Gaudin's Eldritch Blast, Dilion's weapon, and the steampup quickly wipe out the five weaker shades and two stronger shadows. Searching afterward reveals seven burned pirate skeletons, melted swords, a silver-and-gold ingot, and recent tracks suggesting one or two people still move through the cavern, so the party takes a short rest before opening the strange wooden door.
 **Location**:
 - Perdoli Manor (Western Cymea): fire-scorched lower pirate cavern below the manor
   Note: The cavern appears to have been burned long ago and later reused by Grimstone's operation.

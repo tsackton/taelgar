@@ -8,28 +8,28 @@
 
 - beat-008 is short at 78 lines, but a day transition may justify it.
 
-## beat-001 — Bolt-Hole and Shades
+## beat-001 — Bolt-Hole Recon
 
-- Range: `u0001` → `u0284`
-- Lines: 284
+- Range: `u0001` → `u0225`
+- Lines: 225
 - Date: 1748-10-18
 - Date Resolution: exact
 - Time Window: midday
 - Combat: no
-- Boundary Reason: The session opens with the party reorienting under the manor, exploring the hidden bolt-hole and dark cavern, and planning how to get past the shades before the distraction plan begins.
+- Boundary Reason: The session opens with the party reorienting under the manor, exploring the hidden bolt-hole, Acescale scouting the lower cavern, identifying the rope ladder and seven pirate shades, and the party recognizing the tactical problem of getting down and across the cavern without being caught in the narrow upper approach.
 - Date Evidence:
-  - session.yaml gives drStart 1748-10-18 and drEnd 1748-10-18.
+  - session.yaml gives drStart 1748-10-18 and drEnd 1748-10-19.
   - u0675-u0684 later says the group descended in the mid-morning and that it is about 1:30 after the short rest.
 
-## beat-002 — Shade Ambush
+## beat-002 — Distraction and Shade Ambush
 
-- Range: `u0285` → `u0560`
-- Lines: 276
+- Range: `u0226` → `u0560`
+- Lines: 335
 - Date: 1748-10-18
 - Date Resolution: exact
 - Time Window: midday
 - Combat: yes
-- Boundary Reason: The party turns the light-object idea into a distraction, descends into the cavern, fights the shades and shadows, searches the burned remains, and completes a short rest before returning to the door.
+- Boundary Reason: The light idea begins the combat setup: the party turns magical light and tinkering into a bag of distractions, descends by rope ladder, triggers the distraction as the shades notice Dilion, fights the shades and shadows, searches the burned remains, and completes a short rest before returning to the door.
 - Date Evidence:
   - The beat continues directly from the opening exploration on 1748-10-18.
   - u0558-u0560 move the group back to the cavern door after the short rest.

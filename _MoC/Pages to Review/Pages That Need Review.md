@@ -14,6 +14,7 @@ FLATTEN length(file.inlinks) AS BacklinkCount
 SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 ```
 
+
 ### Check: Mike
 ```dataview
 list from #status/check/mike and !#status/check/tim

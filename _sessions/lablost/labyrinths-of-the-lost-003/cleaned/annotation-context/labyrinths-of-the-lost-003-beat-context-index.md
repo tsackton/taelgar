@@ -5,18 +5,18 @@
 - Beats file: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-beats.json
 - Selected beats: 8
 
-## beat-001 - Bolt-Hole and Shades
+## beat-001 - Bolt-Hole Recon
 
-- Lines: 284
-- Range: `u0001` -> `u0284`
+- Lines: 225
+- Range: `u0001` -> `u0225`
 - Date Start: 1748-10-18
 - Date End: same day
 - Time Window: midday
 
-## beat-002 - Shade Ambush
+## beat-002 - Distraction and Shade Ambush
 
-- Lines: 276
-- Range: `u0285` -> `u0560`
+- Lines: 335
+- Range: `u0226` -> `u0560`
 - Date Start: 1748-10-18
 - Date End: same day
 - Time Window: midday
