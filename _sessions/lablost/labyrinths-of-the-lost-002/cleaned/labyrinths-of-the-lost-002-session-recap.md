@@ -7,9 +7,9 @@ tags: [status/recap-review]
 ## Session Header
 
 - Title: Labyrinths of the Lost - Session 2
-- Desc Title: The Chapel Route
-- Tagline: in which a ghost points below
-- One-Sentence Summary: After resting at the smithy, the party crosses Perdoli Manor by stealth, defeats two hobgoblins in the chapel crypt, finds hidden records and a chained basilisk, and learns from J.M.'s ghost that Grimstone's lair lies beneath the manor.
+- Desc Title: Into the Manor
+- Tagline: in which a sneaky path leads to ghostly clues
+- One-Sentence Summary: After resting at the smithy, the party crosses Perdoli Manor by stealth, defeats two hobgoblins in the chapel crypt, finds hidden records and a chained basilisk, and learns from a ghost that Grimstone's lair lies beneath the manor.
 - Campaign: Labyrinths of the Lost
 - Scope: session
 - Session Number: 2

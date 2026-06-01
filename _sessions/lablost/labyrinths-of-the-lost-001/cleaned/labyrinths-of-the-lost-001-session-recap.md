@@ -56,7 +56,17 @@ Four strangers wake in a crude cell inside an abandoned smithy. They break throu
 Acescale, Gaudin, Loria, and Dilion regain consciousness in a makeshift prison in a smithy on the grounds of Perdoli Manor in Western Cymea. They break out through a rotten wall, and scavenge usable gear from the smithy and side room. From the next room, goblin chatter identifies a person named Grimstone as the one behind a steady traffic in prisoners.
 
 #### Long
-Acescale, Gaudin, Loria, and Dilion awaken stripped of their gear in a crude wooden cell built inside an abandoned smithy, on the grounds of Perdoli Manor in Western Cymea. After taking stock of one another, they discover that one prison wall has rotted through, tear their way into the adjacent workshop, and gather tools, improvised weapons, and better clothing. While they search, Loria listens at the next door and hears drunk goblins cursing and chattering about the goblins Ulgna and Folcan, as well as someone named Grimstone taking prisoners deeper into the manor. A neatly arranged side room full of scavenged clothes and armor, including one magically preserved formal outfit, confirms that many victims have passed through this place. Discussing what to do, the party decides to ambush the goblins from two sides, using both doors into the guard room. 
+Acescale, Gaudin, Loria, and Dilion awaken stripped of their gear in a crude wooden cell built inside an abandoned smithy, on the grounds of Perdoli Manor in Western Cymea. After taking stock of one another, they discover that one prison wall has rotted through, tear their way into the adjacent workshop, and gather tools, improvised weapons, and better clothing. 
+
+While they search, Loria listens at the next door, hearing the laughter, arguing, and gambling of drunk goblins:
+
+*"Stuck here for a stinking week! Damn that Ulgna! Why does Folcan listen to her in the first place, she doesn't even like working for Grimstone!"*
+
+*"Ha, yeah, its the easiest raiding in a while. One prisoner a week and all the brandy we can drink? Even worth putting up with that filthy krekka. Glad we have Ulgna and her buddies to draw his ire!"*
+
+*"Which one of the latest batch should we give to Grimstone when he down in two days? I vote the lizardfolk, he probably eats the most anyway and I don't like the look of him. I bet we can keep that scrawny halfling alive for weeks on stale bread and rotting meat, ha ha."* a
+
+A neatly arranged side room full of scavenged clothes and armor, including one magically preserved formal outfit, confirms that many victims have passed through this place. Discussing what to do, the party decides to ambush the goblins from two sides, using both doors into the guard room. 
 
 ### recap-002 | The Drunk Goblins Fall
 
@@ -122,7 +132,7 @@ After Dilion spots guards outside the nearby barracks, the party turns them into
 Dilion scouts the path outside and finds two goblins loitering near the intact building, providing an obvious target for information. The party adapts its plan into a fake prisoner-transfer ruse: Gaudin takes Morky's shape, Loria lets herself be staged as a bound prisoner, and the others hide behind the hedgerow. Loria feeds Gaudin Goblin lines telepathically, but the performance only holds long enough to draw out the goblin leader Folcan. When a guard spots Loria's hidden sword, Folcan orders Loria seized.
 
 #### Long
-Dilion scouts the path outside, and finds two goblins sitting near the intact building. The group improvises and adapts a fake prisoner-transfer ruse. Gaudin disguises himself as the dead goblin guard Morky, while Loria pretends to be bound and the others wait behind the hedgerow. As the prisoner and guard lurch forward, Loria silently translates and feeds Gaudin words he can only repeat phonetically. The plan is awkward from the start, but it is almost good enough to fool the first two guards, and it draws out the goblin leader Folcan. Things fall apart when one goblin spots Loria's hidden sword and Folcan, sharper than the first drunk guards, sends a warning, blasts Gaudin with his toxic staff, and orders Loria seized.
+Dilion scouts the path outside, and finds two goblins sitting near the intact building. A complicated plan is hatched: Loria, who understands goblin, will pretend to be bound, and Gaudin, who can disguise himself as a goblin, will bring her out. That way, Loria can telepathically translate for Gaudin, and tell him what to say with her silent speech. As Goblin-Gaudin and fake-tied-up Loria lurch forward, Loria silently translates and feeds Gaudin words he can only repeat phonetically. The plan is awkward from the start, but it is almost good enough to fool the first two guards, and it draws out the goblin leader Folcan. Things fall apart when one goblin spots Loria's hidden sword and Folcan, sharper than the first drunk guards, sends a warning, blasts Gaudin with his toxic staff, and orders Loria seized.
 
 ### recap-005 | Fog Fight by the Barracks
 
@@ -166,7 +176,7 @@ Back at the smithy, they break Folcan's nerve and learn Grimstone's arrangement,
 Back at the smithy, with Folcan tied up and disarmed, the party turns to interrogation. Under acid, threats, and repeated questioning, he explains Grimstone's weekly prisoner-taking scheme, names the surviving goblin force in the barracks, and points to tunnels from the barracks, kitchen, and perhaps the chapel as the likeliest routes into the manor.
 
 #### Long
-Back at the smithy, the party revives Folcan, strips him of his bone staff, and alternates threats, acid, and questions until he stops posturing. He explains about Grimstone. He appears each week in black robes and a white marble mask, and takes one prisoner into the manor. He lets the goblins keep loot, though he takes the best treasure for himself. Under pressure, Folcan also reveals that ten goblins plus another leader, Ulgna, remain in the barracks, while hobgoblins guard the outer gates and the manor door. The best way in, he says, is tunnels: from the barracks and kitchen, and maybe the chapel, tunnels lead toward the wine cellar.
+ Back in the forge, the party interrogates Folcan. Folcan threatens that his pack of 10 loyal goblins will come save him if they aren't careful, and rants about Ulgna being too cowardly and useless. Acescale's attempts at intimidation don't go too well, until Gaudin blasts him with an eldritch blast, and then Acescale revives him with a cure wounds. This shakes Folcan to the core, and terrified, he talks. He explains about Grimstone, who appears each week in black robes and a white marble mask, and takes one prisoner into the manor. He lets the goblins keep loot, though he takes the best treasure for himself. The manor, though, is guarded by hobgoblins, who also guard the road. The best way in, he says, is tunnels: from the barracks and kitchen, and maybe the chapel, tunnels lead toward the wine cellar. He then promises to return to the goblin barracks and tell everyone he has dealt with the situation. If Folcan is true to his word, no one will be coming to bother the party for at least a day. No goblins, at least. 
 
 ## Cast
 
@@ -178,10 +188,10 @@ Back at the smithy, the party revives Folcan, strips him of his bone staff, and 
   - Perdoli Manor, 1748-10-17
 - Skelver (fought): drunk goblin guard
   - Perdoli Manor, 1748-10-17
-- Folcan (met, fought): goblin boss with a staff
+- [[Folcan]] (met, fought): goblin boss with a staff
   - Perdoli Manor, 1748-10-17
-- Ulgna (mentioned): goblin superior blamed by the guards
-- Grimstone (mentioned): mysterious master taking prisoners
+- [[Ulgna]] (mentioned): goblin superior blamed by the guards
+- [[Grimstone]] (mentioned): mysterious master taking prisoners
 
 ## Locations
 
