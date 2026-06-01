@@ -1,5 +1,5 @@
 ---
-tags: [status/recap-review]
+tags: [status/recap-review, status/check/ai]
 ---
 
 # Session Recap
@@ -98,13 +98,13 @@ The party's plan to hit the drunk goblins fails the moment one of the doors prov
 - Enemies: none
 
 #### Short
-With the guards dead, the party recovers their gear, catches their breath in the guard room, then scouts outside, spotting a nearby barracks.
+With the guards dead, the party recovers their gear, rests in the smithy, then scouts the estate grounds, and debate how to get information about their missing possessions. 
 
 #### Intermediate
-With the guard room cleared, the party reclaims stolen gear, food, and scattered possessions, then steps outside to understand the ruined estate around them. After getting their first clear look at the manor grounds, hedges, and nearby barracks, they settle back into the smithy for a brief rest and a longer planning debate.
+With the guard room cleared, the party reclaims stolen gear, food, and scattered possessions, then uses the smithy for a brief rest and meal. Afterward, they survey the ruined estate: overgrown grounds, hedges, the distant villa, and a nearer intact building that looks like a barracks or servants' quarters. Their discussion turns from simple escape toward their missing possessions, other captives, and the need to question or follow a goblin who can tell them where prisoners and loot are being taken.
 
 #### Long
-Once the immediate danger has passed, the party searches the goblin room thoroughly and starts piecing themselves back together. Loria recovers her short swords, Acescale gets his playing cards back, Gaudin reclaims a silver ring set with a weathered pearl, and the room's stolen rations and cheap brandy make it clear that many prisoners have passed through this place before them. Stepping outside, they realize the smithy sits on the edge of sprawling Perdoli Manor, with overgrown gardens, hedges, a nearby barracks, and the larger villa farther off across the grounds. That view, plus the few hours of breathing room the goblin's defeat seem to have afforded them, is enough to justify a short rest, a meal, and a longer tactical debate about whether to flee, hide, or press deeper into the estate.
+Once the immediate danger has passed, the party searches the goblin room thoroughly and starts piecing themselves back together. Loria recovers her short swords, Acescale gets his playing cards back, Gaudin reclaims a silver ring set with a weathered pearl, and the room's stolen rations and cheap brandy make it clear that many prisoners have passed through this place before them. After a brief rest and meal in the smithy, they scout the surrounding grounds and realize they are on the edge of sprawling Perdoli Manor, with overgrown gardens, hedges, a nearby barracks or servants' quarters, and the larger villa farther off across the estate. Rather than simply flee or march blindly toward the manor, they discuss using the next goblin contact as a source of information, whether by waiting for someone to bring food, following them, or questioning them.
 
 ### recap-004 | A Goblin Ruse Unravels
 
@@ -120,13 +120,13 @@ Once the immediate danger has passed, the party searches the goblin room thoroug
 - Enemies: none
 
 #### Short
-Rather than charge the barracks, they send Gaudin disguised as the goblin Morky with Loria posed as a captive, using telepathic translation to fake a prisoner transfer.
+After Dilion scouts outside and spots guards outside the nearby barracks, the party improvises a plan: Gaudin poses as the goblin guard Morky, Loria poses as a captive, and Loria feeds him Goblin lines telepathically.
 
 #### Intermediate
-Rather than assault the barracks directly, the party tries a deception. Gaudin takes a goblin shape, Loria lets herself be staged as a bound prisoner, the others hide behind the hedgerow with Dilion's steel defender ready, and Loria feeds Gaudin Goblin lines telepathically while the act lurches forward.
+Dilion scouts the path outside and finds two goblins loitering near the intact building, providing an obvious target for information. A plan is hatched: Gaudin takes Morky's shape, while Loria lets herself be staged as a bound prisoner and the others hide behind the hedgerow. As they approach, Loria feeds Gaudin Goblin lines telepathically and the act lurches forward.
 
 #### Long
-After resting and scouting the grounds, the party decides against rushing a building full of goblins and instead stages a fake prisoner transfer outside the barracks. Gaudin disguises himself as Morky, Loria pretends to be bound, and the others wait behind the hedgerow while Loria silently translates and feeds Gaudin words he can only repeat phonetically. The plan is awkward from the start, but it is almost good enough to draw out the first two guards and then Folcan himself. The scene finally turns when one goblin spots Loria's hidden sword and Folcan, sharper than the first drunk guards, sends a warning to Ulgna, blasts Gaudin with his toxic staff, and orders Loria seized.
+Dilion scouts the path outside, and finds two goblins sitting near the intact building. The group improvises and adapts a fake prisoner-transfer ruse. Gaudin disguises himself as the dead goblin guard Morky, while Loria pretends to be bound and the others wait behind the hedgerow. As the prisoner and guard lurch forward, Loria silently translates and feeds Gaudin words he can only repeat phonetically. The plan is awkward from the start, but it is almost good enough to fool the first two guards and then the goblin leader Folcan. The scene finally turns when one goblin spots Loria's hidden sword and Folcan, sharper than the first drunk guards, sends a warning, blasts Gaudin with his toxic staff, and orders Loria seized.
 
 ### recap-005 | Fog Fight by the Barracks
 
