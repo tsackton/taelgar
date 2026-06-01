@@ -144,7 +144,7 @@ Plain entry hall. Can here skittering sounds from B4 and training goblin sounds 
 
 This is was once the main hall of the barracks, serving as a dining room, sleeping quarters, and a training/sparring space. Currently, the table is pushed out of the way, and goblins are sparring. 
 
-Forcan (a goblin cursespitter) and Ulgna (a goblin spinecleaver) train a group of ten goblin lackeys. When they notice the party, Ulgna uses her Greataxe to attack. Forcan hurls hexes. Forcan attempts to run to area **B4** to stir up the skitterings, if possible. Forcan carries Loria's scroll. 
+[[Folcan|Forcan]] (a goblin cursespitter) and Ulgna (a goblin spinecleaver) train a group of ten goblin lackeys. When they notice the party, Ulgna uses her Greataxe to attack. Forcan hurls hexes. Forcan attempts to run to area **B4** to stir up the skitterings, if possible. Forcan carries Loria's scroll. 
 
 While Forcan is a true believer, Ulgna despises Grimestone and will flee with into the barracks and down the tunnels if she is seriously threatened, along with half the surviving lackeys. 
 

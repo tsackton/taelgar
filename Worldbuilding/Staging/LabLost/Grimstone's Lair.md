@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/check/ai]
-name: Grimstone's lair
+name: Grimstone's Lair
 typeOf: subterranean feature
 typeOfAlias: hidden laboratory complex
 whereabouts: Perdoli Manor
