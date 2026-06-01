@@ -8,8 +8,8 @@ tags: [status/recap-review]
 
 - Title: Labyrinths of the Lost - Session 1
 - Desc Title: The Smithy Escape
-- Tagline: in which captives turn on their goblin guards
-- One-Sentence Summary: Four prisoners break out of a smithy cell on the grounds of Perdoli Manor, kill two groups of goblin guards, capture Folcan, and learn that Grimstone's prisoners disappear into the manor.
+- Tagline: in which four captives escape their goblin jailers
+- One-Sentence Summary: Four prisoners break out of a smithy cell on the grounds of Perdoli Manor, kill two groups of goblin guards, capture Folcan, and learn about Grimstone, the leader of the kidnapping ring.
 - Campaign: Labyrinths of the Lost
 - Scope: session
 - Session Number: 1
@@ -20,41 +20,23 @@ tags: [status/recap-review]
 
 ## Timeline
 
-### Oct 17th, 1748 (midday)
+### Oct 17th, 1748
 
 - Timeline Segment: timeline-001
-- Timeline Key: (DR:: 1748-10-17), midday
-- Resolution: part-of-day
-- Beat IDs: beat-001
-- Locations: Perdoli Manor
-- NPCs: none
-- Organizations: none
-- Items: smith's tools, tinker's tools, magical formal outfit
-- Combat Beats: none
-
-#### Short
-Four prisoners break out of their smithy cell and arm themselves.
-
-#### Long
-Four prisoners wake in a makeshift cell inside an abandoned smithy, break through a rotten plank wall, and arm themselves from the workshop. Nearby goblin chatter tells them they are being held for Grimstone.
-
-### Oct 17th, 1748 (afternoon)
-
-- Timeline Segment: timeline-002
-- Timeline Key: (DR:: 1748-10-17), afternoon
-- Resolution: part-of-day
-- Beat IDs: beat-002, beat-003, beat-004, beat-005, beat-006
+- Timeline Key: (DR:: 1748-10-17)
+- Resolution: day
+- Beat IDs: beat-001, beat-002, beat-003, beat-004, beat-005, beat-006
 - Locations: Perdoli Manor
 - NPCs: Morky, Norrica, Skelver, Folcan
 - Organizations: none
-- Items: Loria's short swords, Acescale's playing cards, silver ring with weathered pearl, stolen rations and brandy
+- Items: smith's tools, tinker's tools, magical formal outfit, Loria's short swords, Acescale's playing cards, silver ring with weathered pearl, stolen rations and brandy
 - Combat Beats: beat-002, beat-005
 
 #### Short
-The party kills two goblin groups, captures Folcan, and learns of tunnel routes into the manor.
+[[Labyrinth Prisoners|Four prisoners]] break out of their smithy cell, kill two goblin groups, capture the goblin leader Folcan, and learn of tunnel routes into the [[Perdoli Manor|manor]].
 
 #### Long
-The party kills the drunken jailers, regroups, scouts the manor grounds, fails at a bluff outside the barracks, and wins a second fight under cover of fog. Back at the smithy, Folcan reveals Grimstone's prisoner arrangement and the tunnel entrances that may lead to the wine cellar.
+Four prisoners wake in a makeshift cell inside an abandoned smithy, break through a rotten plank wall, and arm themselves from the workshop after hearing goblin chatter about Grimstone. The escape turns into two fights: first against the drunken jailers, then against Folcan and the barracks guards after a failed prisoner-transfer bluff. Back at the smithy, Folcan reveals Grimstone's prisoner arrangement and the tunnel entrances that may lead to the wine cellar.
 
 ## Recap
 
@@ -72,13 +54,13 @@ The party kills the drunken jailers, regroups, scouts the manor grounds, fails a
 - Enemies: none
 
 #### Short
-Four strangers wake in a crude cell inside an abandoned smithy, break through a rotten wall, and arm themselves after overhearing that goblins are keeping them for Grimstone.
+Four strangers wake in a crude cell inside an abandoned smithy. They break through a rotten wall into the adjacent workshop, hearing nearby goblin chatter.
 
 #### Intermediate
-Acescale, Gaudin, Loria, and Dilion regain consciousness in a makeshift prison on the grounds of Perdoli Manor in Western Cymea. They break out through a rotten wall, scavenge usable gear from the smithy and side room, and learn from nearby goblin chatter that Grimstone is behind a steady traffic in prisoners.
+Acescale, Gaudin, Loria, and Dilion regain consciousness in a makeshift prison in a smithy on the grounds of Perdoli Manor in Western Cymea. They break out through a rotten wall, and scavenge usable gear from the smithy and side room. From the next room, goblin chatter identifies a person named Grimstone as the one behind a steady traffic in prisoners.
 
 #### Long
-Acescale, Gaudin, Loria, and Dilion awaken stripped of their gear in a crude wooden cell built inside an abandoned smithy. After taking stock of one another, they discover that one prison wall has rotted through, tear their way into the workshop, and gather tools, improvised weapons, and better clothing. While they search, Loria listens at the next door and hears drunk goblins cursing Ulgna, mentioning Folcan, and talking openly about Grimstone taking prisoners deeper into the manor. A neatly arranged side room full of scavenged clothes and armor, including one magically preserved formal outfit, confirms that many victims have passed through this place before the party settles on an ambush.
+Acescale, Gaudin, Loria, and Dilion awaken stripped of their gear in a crude wooden cell built inside an abandoned smithy, on the grounds of Perdoli Manor in Western Cymea. After taking stock of one another, they discover that one prison wall has rotted through, tear their way into the adjacent workshop, and gather tools, improvised weapons, and better clothing. While they search, Loria listens at the next door and hears drunk goblins cursing and chattering about the goblins Ulgna and Folcan, as well as someone named Grimstone taking prisoners deeper into the manor. A neatly arranged side room full of scavenged clothes and armor, including one magically preserved formal outfit, confirms that many victims have passed through this place. Discussing what to do, the party decides to ambush the goblins from two sides, using both doors into the guard room. 
 
 ### recap-002 | The Drunk Goblins Fall
 
@@ -94,13 +76,13 @@ Acescale, Gaudin, Loria, and Dilion awaken stripped of their gear in a crude woo
 - Enemies: Morky, Norrica, and Skelver
 
 #### Short
-After arming themselves, they kill the three drunken jailers.
+After arming themselves, they kill the three drunken jailers in the next room. 
 
 #### Intermediate
-Armed and warned by what they overheard, they move on the guard room, where one barred door turns a planned ambush into a messy brawl. Loria hacks at knees, spells and missiles keep pressure on the room, and the three drunken jailers go down before the rest of the estate can react.
+Armed and alerted by the talk, they move on the guard room, in an attempted ambush that turns to a messy brawl. Loria hacks at knees, spells and missiles fly, and the party manages to kill the three drunken jailers without alerting the rest of the manor. 
 
 #### Long
-The party's plan to hit the drunk goblins from two sides fails the moment one of the doors proves barred from the far side, forcing them into a noisier distraction and frontal rush. Even so, the guards are slow, drunk, and badly positioned, and the fight tilts steadily toward the prisoners despite darkness, confusion, and a few ugly moments. Loria is especially vicious in close quarters, while the others pile on with spells, steel, and missiles until Morky, Norrica, and Skelver are all dead in the forge-side room. By the time the darkness drops, the prison guards have been wiped out and the party has survived its first real test together.
+The party's plan to hit the drunk goblins fails the moment one of the doors proves barred from the far side, turning the planned ambush into a messy brawl. Even so, the guards are slow, drunk, and badly positioned, and the fight tilts steadily toward the prisoners despite darkness, confusion, and a few ugly moments. Loria is especially vicious in close quarters, while the others pile on with spells, steel, and missiles until Morky, Norrica, and Skelver are all dead in the forge-side room. The fight is over quickly, without alerting the rest of the manor, and the party has survived its first real test together.
 
 ### recap-003 | Breather on the Manor Grounds
 
@@ -116,10 +98,10 @@ The party's plan to hit the drunk goblins from two sides fails the moment one of
 - Enemies: none
 
 #### Short
-With the first guards dead, the party recovers their gear, rests in the smithy, and scouts enough of the Perdoli Manor grounds to spot a nearby barracks.
+With the guards dead, the party recovers their gear, catches their breath in the guard room, then scouts outside, spotting a nearby barracks.
 
 #### Intermediate
-With the forge room cleared, the party reclaims stolen gear, food, and scattered possessions, then steps outside to understand the ruined estate around them. After getting their first clear look at the manor grounds, hedges, and nearby barracks, they settle back into the smithy for a short rest and a longer planning debate.
+With the guard room cleared, the party reclaims stolen gear, food, and scattered possessions, then steps outside to understand the ruined estate around them. After getting their first clear look at the manor grounds, hedges, and nearby barracks, they settle back into the smithy for a brief rest and a longer planning debate.
 
 #### Long
 Once the immediate danger has passed, the party searches the goblin room thoroughly and starts piecing themselves back together. Loria recovers her short swords, Acescale gets his playing cards back, Gaudin reclaims a silver ring set with a weathered pearl, and the room's stolen rations and cheap brandy make it clear that many prisoners have passed through this place before them. Stepping outside, they realize the smithy sits on the edge of sprawling Perdoli Manor, with overgrown gardens, hedges, a nearby barracks, and the larger villa farther off across the grounds. That view, plus the few hours of breathing room the goblin's defeat seem to have afforded them, is enough to justify a short rest, a meal, and a longer tactical debate about whether to flee, hide, or press deeper into the estate.
@@ -138,7 +120,7 @@ Once the immediate danger has passed, the party searches the goblin room thoroug
 - Enemies: none
 
 #### Short
-Rather than charge the barracks, they send Gaudin disguised as Morky with Loria posed as a captive, using telepathic translation to fake a prisoner transfer.
+Rather than charge the barracks, they send Gaudin disguised as the goblin Morky with Loria posed as a captive, using telepathic translation to fake a prisoner transfer.
 
 #### Intermediate
 Rather than assault the barracks directly, the party tries a deception. Gaudin takes a goblin shape, Loria lets herself be staged as a bound prisoner, the others hide behind the hedgerow with Dilion's steel defender ready, and Loria feeds Gaudin Goblin lines telepathically while the act lurches forward.
