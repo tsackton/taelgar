@@ -1,27 +1,33 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, status/check/ai]
-name: Gaudin
-aliases: [Gadin]
-species: human
+name: Gadin
+aliases: [Gaudin]
+species: elf
 gender: male
 player: John Leeker
+ddbLink: https://www.dndbeyond.com/characters/112503920
 affiliations: [{org: Labyrinth Prisoners, type: primary}]
 whereabouts:
+  - {type: home, location: east of the Sentinel Range}
   - {type: away, start: 1748-10-17, end: 1748-10-19, location: Perdoli Manor}
-  - {type: away, start: 1748-10-19, end: 1748-10-19, location: mountain road below Perdoli Manor}
+  - {type: away, start: 1748-10-19, location: Western Green Sea}
 dm_notes: none
 dm_owner: player
 ---
-# Gaudin
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him), of the [[Labyrinth Prisoners]]  
+# Gadin
+>[!info]+ Biographical Info
+> An [[Elves|elf]] (he/him), of the [[Labyrinth Prisoners]]
+> [Character Sheet](https://www.dndbeyond.com/characters/112503920)
 > `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Gaudin is a human warlock with a trace of fey power, and one of the [[Labyrinth Prisoners]] who escaped [[Perdoli Manor]] in DR 1748. He was captured by goblin raiders in [[Western Cymea]] and woke in the manor's abandoned smithy with the other prisoners.
+Gadin is an [[Elves|elf]] warlock from beyond the [[Sentinel Range]], born into the first elven generation after the [[Great War]]. The dreams of his childhood were filled with tragedy and confusion, and he eventually left his community to wander and make his own way.
 
-Gaudin recovered a silver ring set with a weathered pearl from the goblin loot. The ring glowed near goblins and hobgoblins, making it useful as a warning during the party's passage through the manor grounds and chapel crypt.
+He found his way to the [[Western Green Sea]] and, without the support of his people, turned to smuggling to survive. While leaving [[Tyrwingha]], he was caught and cried out for help; an unknown fey patron answered, teleporting him to safety and leaving him with new warlock powers.
 
-Gaudin relied heavily on disguise and deception during the escape. He posed as the goblin Morky during the failed prisoner-transfer ruse, took Petrona's appearance to reach the ghost of [[Jacopo Marcelli]], bluffed his way past Grimstone's human guard, and later tried to lure both the guard and [[Grimstone]] into traps. After Grimstone's defeat, Gaudin left with the old pirate maps and an interest in the smuggling routes and hideouts they revealed.
+Gadin was captured after leaving the fishing village of Redes to meet a contact about smuggled wine bound for Tyrwingha. A false cart driver and goblin archers ambushed him on the road, and he was thrown into the same cart as a halfling woman and a lizardfolk man before waking in [[Perdoli Manor]] as one of the [[Labyrinth Prisoners]].
 
-%% AI note: Created from [[Labyrinths of the Lost - Session 1]], [[Labyrinths of the Lost - Session 2]], [[Labyrinths of the Lost - Session 3]], [[Labyrinths - Player Background]], and Lab Lost recap files. "Gadin" appears as a spelling variant in the original session notes. %%
+After escaping the manor, Gadin left with old pirate maps and an eye toward the smuggling routes and hideouts they revealed.
+
+%% AI note: Updated from the user-provided character backstory and D&D Beyond sheet URL, plus [[Labyrinths of the Lost - Session 1]], [[Labyrinths of the Lost - Session 2]], [[Labyrinths of the Lost - Session 3]], [[Labyrinths - Player Background]], and Lab Lost recap files. The recaps and original staging note used "Gaudin"; the provided backstory uses "Gadin" and identifies him as an elf, so this note keeps Gaudin as an alias. D&D Beyond character details were not accessible through unauthenticated fetches, so only the URL is recorded. %%
