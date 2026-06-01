@@ -13,7 +13,6 @@ dm_notes: none
 > An aboleth  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-
 Xeron is an ancient aboleth entombed within the rock beneath the Yuvanti Mountains, near Tharn Todor. The being is believed to have mineralized, and is now more stone than flesh. Reports from explorers indicate it shows no evident interest in meddling with affairs beyond its cavern.
 
 %% DM
