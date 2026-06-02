@@ -1,24 +1,30 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place]
 displayDefaults: {defArt: ''}
+campaignInfo: []
 name: Western Cymea
 typeOf: region
 whereabouts: Cymea
-dm_notes: none
-dm_owner: none
+dm_notes: important
+dm_owner: tim
 ---
 # Western Cymea
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Western Cymea is the western frontier of [[Cymea]], a broad region of coastlands, river valleys, hills, and old ports along the [[Western Gulf]]. It is less developed than the main eastern and southern parts of the peninsula, but it has its own towns, farms, harbors, and older Cymean ruins.
+Western Cymea is a frontier these days, a place of small strongholds, fortified market towns, and ancient ruins recalling a richer past. This part of the world is a land of rushing, rocky rivers between the [[Plataca Hills]] and the Western Gulf, of mild winters and warm summers, of cattle and wine. Historically, it was a place where piracy and banditry thrived, but over the past few generations, a series of campaigns by the powerful Tollender navy stamped out the worst of the piracy. Now, western Cymea is functionally a protectorate of Tollen, sending aimless youth to work the Tollender ships that ply the [[Green Sea]]. 
 
-The general feel is frontier country: small strongholds, fortified market towns, scattered fishing villages, isolated farms, rocky rivers, cattle, wine, and ancient ruins recalling a richer past. [[Tollen|Tollish]] influence is strong in the modern region, especially along the coast and shipping lanes of the Western Gulf, while Cymean port towns and inland settlements retain the marks of older local wealth.
+%% need to copy notes from labyrinths of the lost one shot %%
 
-One local part of Western Cymea lies around the [[Plataca Hills]] and the [[Serrania River]]. In that area, [[Vistalba]] is a trading port with a good Drankorian-era harbor and a run-down, lost-in-the-past feel; [[Lunacosta]] is a market town at the mouth of the Serrania; [[Redes]] is a small fishing village just south of Lunacosta; and inland villages such as Castelluccio and Vallegra scrape by on agriculture. The Plataca Hills begin as low foothills and rise into a significant barrier to travel, while the Serrania is a rushing, rocky river whose lower reaches are only easily navigable for about ten miles.
+%%% Notes from GDrive, may be obsolete
 
-%%
-AI note: Revised conservatively after an overbroad AI edit. Based on existing regional framing, [[Background - LL]], [[Lunacosta]], [[Redes]], [[Vistalba]], [[Serrania River]], [[Plataca Hills]], [[Tollen]], and [[History of Tollen]]. The Plataca Hills/Serrania material is treated as one local area within Western Cymea, not as the whole region.
+- Scattered small fishing villages and isolated farmsteads in the hills -- limited political organization
+    
+- Haven for pirates during the Blood Years, cleaned up by Tollen during Cece’s reign (perhaps with overt or implicit support of Sembara)
+    
+- Perhaps now there is a Tollen military governor of some kind? Or Tollen is encouraging settlement there?
+    
+- Could have a heavy Tollen naval presence 
 %%
