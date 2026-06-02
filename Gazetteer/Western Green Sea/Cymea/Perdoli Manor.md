@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place]
 displayDefaults: {startStatus: Built, endStatus: "fell into ruin", dPastHasStart: "<start:u> <startDate>, <end> <endDate>"}
 name: Perdoli Manor
 typeOf: building
