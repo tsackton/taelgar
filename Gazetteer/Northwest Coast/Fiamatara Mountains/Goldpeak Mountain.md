@@ -8,7 +8,7 @@ name: Goldpeak Mountain
 typeOf: topographical feature
 whereabouts:
   - type: primary
-    location: Fiamatara Mountains
+    location: Fiatara Mountains
 dm_owner: none
 dm_notes: none
 typeOfAlias: mountain

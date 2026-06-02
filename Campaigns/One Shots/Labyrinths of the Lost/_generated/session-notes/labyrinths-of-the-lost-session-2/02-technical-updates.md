@@ -6,57 +6,44 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1748-10-18), morning: party ends at [[Perdoli Manor]].
+- Candidate party whereabouts: (DR:: 1748-10-18): party ends at [[Perdoli Manor]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
-- Perdoli Manor: visited on 1748-10-17 to 1748-10-18.
-- smithy grounds: visited on 1748-10-18.
-- formal garden edge near the chapel: visited on 1748-10-18.
-- chapel crypt: visited on 1748-10-18.
-- hidden private archive: visited on 1748-10-18.
+- [[Perdoli Manor]]: visited on 1748-10-17 to 1748-10-18.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
-- basilisk: candidate whereabouts update from (DR:: 1748-10-18), morning -> [[Perdoli Manor]].
+- hobgoblin smokebinder: candidate whereabouts update from (DR:: 1748-10-18) -> [[Perdoli Manor]].
   - Whereabouts line: `- {type: away, start: 1748-10-18, location: Perdoli Manor}`
-- goblin drill squad: candidate whereabouts update from (DR:: 1748-10-18), morning -> [[Perdoli Manor]].
+- hobgoblin guard: candidate whereabouts update from (DR:: 1748-10-18) -> [[Perdoli Manor]].
   - Whereabouts line: `- {type: away, start: 1748-10-18, location: Perdoli Manor}`
-- J.M.: candidate whereabouts update from (DR:: 1748-10-18), morning -> [[Perdoli Manor]].
+- hobgoblin library guards: candidate whereabouts update from (DR:: 1748-10-18) -> [[Perdoli Manor]].
+  - Whereabouts line: `- {type: away, start: 1748-10-18, location: Perdoli Manor}`
+- hobgoblin recruits: candidate whereabouts update from (DR:: 1748-10-18) -> [[Perdoli Manor]].
+  - Whereabouts line: `- {type: away, start: 1748-10-18, location: Perdoli Manor}`
+- stirges: candidate whereabouts update from (DR:: 1748-10-18) -> [[Perdoli Manor]].
+  - Whereabouts line: `- {type: away, start: 1748-10-18, location: Perdoli Manor}`
+- basilisk: candidate whereabouts update from (DR:: 1748-10-18) -> [[Perdoli Manor]].
   - Whereabouts line: `- {type: away, start: 1748-10-18, location: Perdoli Manor}`
 <!-- /SLOT -->
 
 <!-- SLOT: updates.timeline -->
-- (DR:: 1748-10-17) - (DR_end:: 1748-10-18): The party rests in the smithy and chooses the chapel route.
-- (DR:: 1748-10-18), dawn: The chapel approach ends with two dead hobgoblins in the crypt.
-- (DR:: 1748-10-18), morning: The search through the manor reveals Grimstone's path below.
+- (DR:: 1748-10-18): The party crosses the manor grounds, defeats hobgoblins in the chapel crypt and ruined library, finds hidden records and a chained basilisk, and learns from a pirate's ghost that [[Grimstone's Lair|Grimstone's lair]] is below.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.items -->
-- steampup: candidate item-location update from (DR:: 1748-10-18), morning -> [[Perdoli Manor]].
-- silver ring with weathered pearl: candidate item-location update from (DR:: 1748-10-18), morning -> [[hidden private archive]].
+- [[Steampup|steampup]]: candidate item-location update from (DR:: 1748-10-18) -> [[Perdoli Manor]].
+- silver ring with weathered pearl: candidate item-location update from (DR:: 1748-10-18) -> [[hidden private archive]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.review -->
-- shadowy hobgoblin patrol: no matching note found in the vault index
-- barracks goblins: no matching note found in the vault index
-- petrified Medusa: no matching note found in the vault index
 - hobgoblin smokebinder: no matching note found in the vault index
 - hobgoblin guard: no matching note found in the vault index
+- hobgoblin library guards: no matching note found in the vault index
+- hobgoblin recruits: no matching note found in the vault index
+- stirges: no matching note found in the vault index
 - basilisk: no matching note found in the vault index
-- goblin drill squad: no matching note found in the vault index
-- J.M.: no matching note found in the vault index
-- Folcan: no matching note found in the vault index
-- Grimstone: no matching note found in the vault index
-- patrolling hobgoblin: no matching note found in the vault index
-- Petrona: no matching note found in the vault index
-- Perdoli Manor: no matching note found in the vault index
-- smithy grounds: no matching note found in the vault index
-- formal garden edge near the chapel: no matching note found in the vault index
-- chapel crypt: no matching note found in the vault index
-- hidden private archive: no matching note found in the vault index
-- Perdoli family: no matching note found in the vault index
-- steampup: no matching note found in the vault index
 - silver ring with weathered pearl: no matching note found in the vault index
 - experimental elixirs: no matching note found in the vault index
 - chapel trapdoor: no matching note found in the vault index

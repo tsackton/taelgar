@@ -14,11 +14,11 @@ The Smithy Escape
 <!-- /SLOT -->
 
 <!-- SLOT: session.tagline -->
-in which captives turn on their goblin guards
+in which four captives escape their goblin jailers
 <!-- /SLOT -->
 
 <!-- SLOT: session.summary -->
-Four prisoners break out of a smithy cell on the grounds of Perdoli Manor, kill two groups of goblin guards, capture Folcan, and learn that Grimstone's prisoners disappear into the manor.
+Four prisoners break out of a smithy cell on the grounds of [[Perdoli Manor]], kill two groups of goblin guards, capture [[Folcan]], and learn about [[Grimstone]], the leader of the kidnapping ring.
 <!-- /SLOT -->
 
 <!-- SLOT: session.dm -->
@@ -26,10 +26,10 @@ Tim Sackton
 <!-- /SLOT -->
 
 <!-- SLOT: session.pcs -->
-- Acescale
-- Gaudin
-- Loria
-- Dilion
+- [[Acescale]]
+- [[Gaudin]]
+- [[Loria Underbough|Loria]]
+- [[Dilion]]
 <!-- /SLOT -->
 
 <!-- SLOT: session.pcs_plain_inline -->
@@ -37,7 +37,7 @@ Acescale, Gaudin, Loria, Dilion
 <!-- /SLOT -->
 
 <!-- SLOT: session.pcs_inline -->
-Acescale, Gaudin, Loria, Dilion
+[[Acescale]], [[Gaudin]], [[Loria Underbough|Loria]], [[Dilion]]
 <!-- /SLOT -->
 
 <!-- SLOT: session.session_number -->
@@ -69,25 +69,24 @@ Sunday, November 12, 2023
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->
-- (DR:: 1748-10-17), midday: Four prisoners break out of their smithy cell and arm themselves.
-- (DR:: 1748-10-17), afternoon: The party kills two goblin groups, captures Folcan, and learns of tunnel routes into the manor.
+- (DR:: 1748-10-17): [[Labyrinth Prisoners|Four prisoners]] break out of their smithy cell, kill two goblin groups, capture the goblin leader [[Folcan]], and learn of tunnel routes into the [[Perdoli Manor|manor]].
 <!-- /SLOT -->
 
 <!-- SLOT: cast -->
 - Morky: drunk goblin guard.
 - Norrica: drunk goblin guard.
 - Skelver: drunk goblin guard.
-- Folcan: goblin boss with a staff.
-- Ulgna: goblin superior blamed by the guards.
-- Grimstone: mysterious master taking prisoners.
+- [[Folcan]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): goblin boss with a staff.
+- [[Ulgna]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): goblin superior blamed by the guards.
+- [[Grimstone]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): mysterious master taking prisoners.
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->
-- Perdoli Manor: ruined manor estate where goblins hold prisoners and guard routes toward the main house. Session context includes: prison cell, abandoned smithy, adjoining storage room, and barracks path.
+- [[Perdoli Manor]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): ruined manor estate where goblins hold prisoners and guard routes toward the main house. Session context includes: prison cell, abandoned smithy, adjoining storage room, and barracks path.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->
-Perdoli Manor
+[[Perdoli Manor]]
 <!-- /SLOT -->
 
 <!-- SLOT: groups -->
@@ -95,22 +94,22 @@ Perdoli Manor
 
 <!-- SLOT: combat.summary -->
 - Drunk Guards in the Forge: Morky, Norrica, and Skelver. The party's first escape attempt becomes a room-to-room brawl in the guard chamber, and all three drunken jailers are killed before the wider manor reacts.
-- Fog Fight on the Barracks Path: Folcan and three barracks goblins. Folcan breaks the prisoner-transfer ruse, but Loria's fog cloud lets the party isolate the path fight, kill the exposed guards, and drag Folcan back alive.
+- Fog Fight on the Barracks Path: [[Folcan]] and three barracks goblins. [[Folcan]] breaks the prisoner-transfer ruse, but Loria's fog cloud lets the party isolate the path fight, kill the exposed guards, and drag [[Folcan]] back alive.
 <!-- /SLOT -->
 
 <!-- SLOT: items.treasure -->
-- smith's tools: Dilion arms himself from the abandoned workshop.
-  - Perdoli Manor, 1748-10-17
-- tinker's tools: Acescale salvages usable tools from the smithy.
-  - Perdoli Manor, 1748-10-17
+- smith's tools: [[Dilion]] arms himself from the abandoned workshop.
+  - [[Perdoli Manor]], 1748-10-17
+- tinker's tools: [[Acescale]] salvages usable tools from the smithy.
+  - [[Perdoli Manor]], 1748-10-17
 - magical formal outfit: A preserved gentleman's outfit in the side room radiates transmutation magic.
-  - Perdoli Manor, 1748-10-17
+  - [[Perdoli Manor]], 1748-10-17
 - Loria's short swords: Recovered from the first dead goblin guards after the forge fight.
-  - Perdoli Manor, 1748-10-17
+  - [[Perdoli Manor]], 1748-10-17
 - Acescale's playing cards: Reclaimed from the goblin loot after the first battle.
-  - Perdoli Manor, 1748-10-17
-- silver ring with weathered pearl: Recovered among the stolen gear and identified by Gaudin as his.
-  - Perdoli Manor, 1748-10-17
+  - [[Perdoli Manor]], 1748-10-17
+- silver ring with weathered pearl: Recovered among the stolen gear and identified by [[Gaudin]] as his.
+  - [[Perdoli Manor]], 1748-10-17
 - stolen rations and brandy: The goblin guard room holds scavenged food, drink, and signs of repeated prisoner raids.
-  - Perdoli Manor, 1748-10-17
+  - [[Perdoli Manor]], 1748-10-17
 <!-- /SLOT -->

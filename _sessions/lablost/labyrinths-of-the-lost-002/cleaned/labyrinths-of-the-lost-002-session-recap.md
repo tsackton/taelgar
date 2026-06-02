@@ -199,7 +199,6 @@ Feeling this must be a clue, the party goes to talk to the ghost again. Initiall
 ### NPCs
 
 - hobgoblin smokebinder (fought): shadow-bound scout
- - smithy grounds -> formal garden edge near the chapel, 1748-10-18
   - Perdoli Manor, 1748-10-18
 - hobgoblin guard (fought): second patrol member
   - Perdoli Manor, 1748-10-18
@@ -221,6 +220,7 @@ Feeling this must be a clue, the party goes to talk to the ghost again. Initiall
 
 - Perdoli Manor
   - Summary: ruined manor estate in Western Cymea occupied by goblins, hobgoblins, chained monsters, and Grimstone's hidden operation. During this session the party rested in the abandoned smithy prison room, crossed the overgrown vineyards and formal gardens to the ruined chapel, entered the chapel crypt, followed a secret tunnel to the hidden private archive, fought hobgoblins in a ruined library, avoided hobgoblin recruits and stirges, and explored interior rooms around the basilisk courtyard and the trapdoor to J.M.'s old hideout.
+  - Sublocations: abandoned smithy prison room, smithy grounds, formal garden approach, ruined chapel, chapel crypt, secret tunnel, hidden private archive, ruined library, interior rooms, basilisk courtyard, private chambers, old hideout trapdoor
   - Date Visited: 1748-10-17 to 1748-10-18
 
 ## Organizations And Items
