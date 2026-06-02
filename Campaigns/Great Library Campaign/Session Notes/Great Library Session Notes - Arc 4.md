@@ -20,7 +20,7 @@ After defeating were-[[Adrik]], the party arrives at a [[~Voltara East Border Fo
 
 ### Session 52
 
-After regrouping, the party heads upriver and discovers a small [[Bullywugs|bullywug]] village, that appears to have been stealing the Chardonian cattle. The party attacks and nearly wipes out the entire [[~Bullywug Village~|village]] before realizing that perhaps they should have talked first. After some limited communication with drawings and diagrams – and the threat of a giant froghemoth potentially attacking them – they realize the [[Bullywugs]] were driven from their home by a [[Dragons|dragon]]. The bullywugs communicate that if the dragon is killed, all will be forgiven.
+After regrouping, the party heads upriver and discovers a small [[Bullywugs|bullywug]] village, that appears to have been stealing the Chardonian cattle. The party attacks and nearly wipes out the entire [[Guluppa-Sog|village]] before realizing that perhaps they should have talked first. After some limited communication with drawings and diagrams – and the threat of a giant froghemoth potentially attacking them – they realize the [[Bullywugs]] were driven from their home by a [[Dragons|dragon]]. The bullywugs communicate that if the dragon is killed, all will be forgiven.
 
 ### Session 53
 
@@ -57,7 +57,7 @@ A few weeks later, they arrive back in [[Voltara]], greeting by [[Julius of Volt
 - (DR:: 1748-01-08): [[Adrik]] cured of lycanthropy by [[Brelith]]. 
 - (DR:: 1748-01-17): [[Adrik]], [[Brelith]], [[Samso]], and [[Aelar]] arrive back in the [[Chardonian Empire]], stopped at the [[~Voltara East Border Fort~|border fort]]. Learn it is in dire straights, its winter food supplies being raided by something on the river. Attempt to scout unsuccessfully. 
 - (DR:: 1748-01-18): Head north to find out what is stealing food. 
-- (DR:: 1748-01-19): Find and attack a [[Bullywugs|bullywug]] [[~Bullywug Village~|village]]. Kill many before making peace and learning the bullywugs were driven from their home by a [[Dragons|dragon]]. Agree to kill the dragon. 
+- (DR:: 1748-01-19): Find and attack a [[Bullywugs|bullywug]] [[Guluppa-Sog|village]]. Kill many before making peace and learning the bullywugs were driven from their home by a [[Dragons|dragon]]. Agree to kill the dragon. 
 - (DR:: 1748-01-21): Return to [[~Voltara East Border Fort~]] with news. Head north to find the dragon. 
 - (DR:: 1748-01-29): Party encounters [[Deno'qai]] scouts at a portage on the river. Go to council, learn the Deno'qai want to kill the dragon too.
 - (DR:: 1748-02-01): Party leaves [[Deno'qai]] council with [[Izkir]], a guide and sorcerer blessed by the [[Tanshi|tanshi]], heading for the [[Blackwater Fens]], where the dragon lives.
@@ -69,7 +69,7 @@ A few weeks later, they arrive back in [[Voltara]], greeting by [[Julius of Volt
 - (DR:: 1748-02-15): Fight bugbear minions of [[Nymthrax]], and then fight and kill [[Nymthrax]] himself. 
 - (DR:: 1748-02-18): Depart [[Nymthrax]] lair, heading back to river. 
 - (DR:: 1748-02-19): Arrive at the [[Barzhen]], summon portable boat from [[Staff of the Swamplands]], begin to travel downriver
-- (DR:: 1748-02-22): Arrive at [[~Bullywug Village~]]; return treasure, tell stories with the Pipe of Remembrance
+- (DR:: 1748-02-22): Arrive at [[Guluppa-Sog]]; return treasure, tell stories with the Pipe of Remembrance
 - (DR:: 1748-02-24): Arrive [[~Voltara East Border Fort~]]. Spend the night
 - (DR:: 1748-02-25): Depart fort for [[Voltara]].
 - (DR:: 1748-03-07): Arrive back in [[Voltara]] 
@@ -127,7 +127,7 @@ Four months later, the [[Silver Tempests]] host a party, a grand opening for [[T
 
 [[Mabist]] comes knocking on the door of the [[Tempest Towers]]. Both [[Samso]] and [[Adrik]] are a bit suspicious of this armored visitor before we learn [[Dinia]] was captured. We retrieve [[Alton]] from his violent dive bar. In misty forms the party flies to [[Suwi]], a distant village near the coast, where they meet the [[~Suwi Village Priest~|village priest]], and ask about rumors of the [[Havoc Host]], a mercenary group that was involved in kidnapping [[Dinia]]. The priest introduces the party to [[Clara]], a teenaged girl whose brother was kidnapped a few days ago by the [[Havoc Host]], just upriver near a small lake.
 
-The next morning the party travels upriver to the [[~North Bay Coast Lake~|lake]]. Finding the logging camp where [[~Clara's Brother~|Clara’s brother]] was taken, they follow a trail along the lakeshore, coming to a rocky clearing where the ruins of a castle overlook the lake. The party manages to ambush a group of slimy minions, and quickly dispatch them, knocking them out and binding them. 
+The next morning the party travels upriver to the [[~North Bay Coast Lake~|lake]]. Finding the logging camp where [[Mikel|Clara’s brother]] was taken, they follow a trail along the lakeshore, coming to a rocky clearing where the ruins of a castle overlook the lake. The party manages to ambush a group of slimy minions, and quickly dispatch them, knocking them out and binding them. 
 
 Searching the ruins, [[Samso]] finds a concealed tunnel leading underground. Following the tunnel, the party emerges into the barracks of the [[Havoc Host]]. [[Mabist]] is disguised as a slimy minion; [[Samso]] turns into an earth elemental; and [[Adrik]] busts down the door. A battle ensues, in which the [[Havoc Host]] are soundly beaten. Convinced that [[Mabist]] is one of the [[Ithu’rax]]’s servants, the mercenaries are reluctant to surrender, until [[Mabist]] attempts to surrender himself, convincing them that something strange is going on. At this point, the mercenaries surrender, and are disarmed and convinced to make a better life for themselves opening a franchise of Brelith’s restaurant by [[Adrik]] and [[Mabist]]. 
 

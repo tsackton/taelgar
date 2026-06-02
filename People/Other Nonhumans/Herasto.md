@@ -1,26 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/stub]
-activeYear: 1745
+tags: [person, status/cleanup/metadata]
 name: Herasto
 species: centaur
 gender: male
-whereabouts:
-- {type: away, location: Voltara Plains, alias: southern Voltara Plains}
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 ---
 # Herasto
 >[!info]+ Biographical Info  
-> A [[Centaurs|centaur]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> A [[Centaurs|centaur]] (he/him)
 
-%%Group of centaurs currently wintering in sheltered valleys south of Voltara%%
+%% could use whereabouts %%
 
-%% One Note
-Leader of the centaur band that is currently (late 1747) based near Voltara
- 
-**Age: tbd**  
-**Current Location (Dec 1747): sheltered plains southwest of Voltara for the winter**
+Herasto is the leader of a centaur band, and [[Theopheia]]'s partner. He cares deeply for his herd, and has kept them safe for many migrations. 
+
+His band spent some time south of [[Voltara]], and came to know the [[Silver Tempests]], who aided them on several occasions. During [[Great Library Session Notes - Arc 2|the war against Grumella]], Herasto agreed to send centaur warriors to aid Voltara.
+
+%% DM notes
+
+leader of the centaurs, older, wise, sage-like, speaks slowly and cryptically, calls party by his own nicknames. Sort of like a more serious Tom Bombadil.
 
 %%
