@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Western Cymea
@@ -10,21 +10,18 @@ dm_notes: important
 dm_owner: tim
 ---
 # Western Cymea
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Western Cymea is a frontier these days, a place of small strongholds, fortified market towns, and ancient ruins recalling a richer past. This part of the world is a land of rushing, rocky rivers between the [[Plataca Hills]] and the Western Gulf, of mild winters and warm summers, of cattle and wine. Historically, it was a place where piracy and banditry thrived, but over the past few generations, a series of campaigns by the powerful Tollender navy stamped out the worst of the piracy. Now, western Cymea is functionally a protectorate of Tollen, sending aimless youth to work the Tollender ships that ply the [[Green Sea]]. 
+Western Cymea is a worn coastal frontier between the [[Plataca Hills]] and the [[Western Gulf]], a land of rushing rivers, broken roads, fishing villages, market towns, old quarries, and estates that remember richer days. The winters are mild, the summers warm, and the settled country is built around cattle, wine, fishing, and the small harbors where river roads meet the sea.
 
-%% need to copy notes from labyrinths of the lost one shot %%
+The coast carries the strongest signs of life. [[Vistalba]] still has the bones of an older trading port, with a good harbor and the faded memory of Cymean wine, silver, and other goods passing through its docks. Smaller places such as [[Lunacosta]] and [[Redes]] serve the local traffic of fishers, farmers, sailors, and travelers, while the lower reaches of rivers such as the [[Serrania River]] remain the easiest routes inland.
 
-%%% Notes from GDrive, may be obsolete
+Inland, the country quickly becomes rougher and thinner. Low foothills rise toward harder barriers, rivers turn rocky and fast, and villages along the cart tracks scrape a living from agriculture. Ruined villas, abandoned outbuildings, overgrown shrines, and scavenged stonework give the hills a feeling of old wealth left behind rather than settled prosperity.
 
-- Scattered small fishing villages and isolated farmsteads in the hills -- limited political organization
-    
-- Haven for pirates during the Blood Years, cleaned up by Tollen during Cece’s reign (perhaps with overt or implicit support of Sembara)
-    
-- Perhaps now there is a Tollen military governor of some kind? Or Tollen is encouraging settlement there?
-    
-- Could have a heavy Tollen naval presence 
+Political order is uneven. [[Tollen|Tollish]] influence is strongest on the water, in the harbors, and along the safer routes of trade, but the inland edges remain loose and poorly watched. Western Cymea has enough commerce to attract ships and merchants, enough forgotten places to shelter smugglers and bandits, and enough distance from stronger centers of power that trouble can linger in the hills long after the coast has moved on.
+
+%%
+AI note: Updated from [[Background - LL]], [[Key - LL]], [[Lunacosta]], [[Redes]], [[Vistalba]], [[Serrania River]], [[Plataca Hills]], and existing text on this page. This version intentionally keeps to regional atmosphere and does not add specific adventure events or a detailed historical chronology.
 %%
