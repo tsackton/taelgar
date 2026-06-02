@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/check/ai]
+displayDefaults: {startStatus: Built, endStatus: "fell into ruin", dPastHasStart: "<start:u> <startDate>, <end> <endDate>"}
 name: Perdoli Manor
 typeOf: building
 typeOfAlias: ruined manor estate
 created: 1479
+destroyed: 1593
 whereabouts: Western Cymea
 dm_notes: none
 dm_owner: tim
