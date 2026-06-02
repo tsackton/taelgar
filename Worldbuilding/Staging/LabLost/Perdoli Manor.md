@@ -8,20 +8,38 @@ typeOfAlias: ruined manor estate
 created: 1479
 destroyed: 1593
 whereabouts: Western Cymea
-dm_notes: none
 dm_owner: tim
+dm_notes: none
+pronunciation: pehr-DOH-lee
 ---
-# Perdoli Manor
->[!info]+ Information
-> A ruined manor estate in [[Western Cymea]]
-> `$=dv.view("_scripts/view/get_Whereabouts")`
+# The Perdoli Manor
+*(pehr-DOH-lee)*
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Perdoli Manor is a ruined estate in the hills of [[Western Cymea]], about a day's journey from [[Vistalba]]. It was built in DR 1479 by the [[Perdoli Family]], wealthy merchants and traders who drew their fortune from wine, trade, and control of a marble quarry.
 
-The estate once included formal gardens, a private chapel to [[The Mother]], a smithy, service buildings, private family chambers, a hidden archive, wine cellars, and a master bedroom bolt-hole. After the Perdoli family declined in the wake of the [[Great War]], the manor passed through later owners and fell into ruin. It was later occupied by a medusa, then by pirates and bandits who expanded the old bolt-hole into tunnels and a cave hideout.
+The estate once included formal gardens, a private chapel to [[The Mother]], a smithy, service buildings, private family chambers, a hidden archive, wine cellars, and a master bedroom bolt-hole. After the Perdoli family declined in the wake of the [[Great War]], the manor passed through later owners and fell into ruin. It was later occupied by a medusa, then by pirates and bandits who expanded the [[Grimstone's Lair|old bolt-hole]] into tunnels and a cave hideout.
 
-By October 1748, Perdoli Manor had become the center of [[Grimstone]]'s prisoner-taking and petrification operation. Goblins held captives in the repaired smithy, hobgoblins guarded the manor and road, a basilisk was chained in the courtyard, and Grimstone worked in the old pirate hideout below the master bedroom.
+By DR 1748, Perdoli Manor had become the center of [[Grimstone]]'s prisoner-taking and petrification operation, with goblins occupying the grounds and Grimstone occupying the old pirate bolt-hole. In October DR 1748, the [[Labyrinth Prisoners]] [[Labyrinths of the Lost - Session 1|escaped from the smithy]], crossed the estate through [[Labyrinths of the Lost - Session 2|hidden tunnels in the ruined chapel]], found Grimstone's lair, and [[Labyrinths of the Lost - Session 3|killed him]]. 
 
-The [[Labyrinth Prisoners]] escaped from the smithy on October 17th, 1748, crossed the estate through the chapel crypt and hidden Perdoli archive on October 18th, and reached [[Grimstone's Lair]] through [[Jacopo Marcelli]]'s room. After killing Grimstone, they rested below the manor and escaped the next morning while the goblins and hobgoblins fell into confusion.
+Since then, the fate, and occupants, if any, of the manor are unknown.
 
-%% AI note: Created from [[Labyrinths of the Lost - Session 1]], [[Labyrinths of the Lost - Session 2]], [[Labyrinths of the Lost - Session 3]], [[Key - LL]], [[Pirate Lair Key]], [[Background - LL]], and Lab Lost recap files. Source timing around the pirate occupation is inconsistent: the DM key says pirates moved in during the 1690s for about fifteen years, but also says their leader was killed by the Tollender Navy in the 1720s; the recaps only describe the pirate presence as about a generation or fifty years before DR 1748. %%
+
+%% 
+DM sources
+[[Key - LL]], [[Pirate Lair Key]]
+
+The Perdoli Manor (*Pehr-DOH-lee*) was build in 1479, by the wealthy Perdoli family, merchants and traders. Got rich off wine and control over a marble quarry in the hills, built manor as a place to relax and get away, about a day's journey into the hills from Vistalba. 
+
+The family enjoyed the manor for several generations, until the Great War. The Perdoli family faired poorly, and came out of the Great War having lost much of their wealth (details don't really matter). A few years after the Great War, forced to sell the villa. The new owners were not much better, and never lived there, and couldn't afford the upkeep. Some stone was scavenged during this time, but it was too far away to be convenient. The new owners died without heirs, living the manor to fall into disrepair and ruin in the 1590s. 
+
+It stood empty save from occasional wandering travelers seeking shelter far from home for the next 30 years or so, generally falling out of memory of the local villagers, who had other problems to deal with. 
+
+In the 1620s, the manor was reoccupied by a medusa, who made it her lair for 30 years, during which time it acquired a reputation as a cursed place, and fell further into disrepair. The medusa eventually succumbed to her reflection, caught unexpectedly by the water in a fountain. While she lived there, some crude repairs were made to the manor, scavenging stone from outbuildings as needed. 
+
+In the 1690s, a group of pirates and bandits fleeing the beginnings of Tollender persecution moved in and made it a hideaway for the next 35 years or so. They dug tunnels and built a secret room behind the wine cellar to store treasure, and repaired the smithy/forge and parts of the manor, in a crude fashion. After a massacre by the Tollender Navy in the 1720s, the lair was gradually abandoned. 
+
+%%
