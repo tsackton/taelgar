@@ -38,7 +38,7 @@ When the [[Dunmar Fellowship]] reached Omi on (DR:: 1749-05-11), the city was ru
 
 The [[Dunmar Fellowship]] defeated the Herald of Gazankoa, entered the [[Elemental Plane of Water]], rescued [[Milo Thistlefoot]], [[Tilly Brineheart]], and surviving members of the [[Stormdancer]] crew, and recovered the [[Jade Piece of Rai's Hand]] from Buruli on (DR:: 1749-05-12). 
 
-The defeat of [[Buruli]] and recovery of the jade collapsed the portal in Omi. Since then, [[merfolk]] have slowly returned and begun to rebuild and restore Omi to its former glory. 
+The defeat of [[Buruli]] and recovery of the jade collapsed the portal in Omi. Since then, [[Merfolk]] have slowly returned and begun to rebuild and restore Omi to its former glory. 
 
 %%^End%%
 

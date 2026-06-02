@@ -54,7 +54,7 @@ When a young dwarf learns their thuhr, they will usually apprentice to an elder 
 %%^Campaign:none%%
 #### Dwarven Thuhr
 ```dataview
-LIST from "" where ancestry = "dwarven" and contains(tags, "organization") and typeof = "thuhr"
+LIST from "" where ancestry = "dwarven" and contains(tags, "group") and typeof = "thuhr"
 ```
 
 %%^End%%
@@ -70,7 +70,7 @@ Dwarven society is generally conserative and strongly hierarchical, organized ar
 %%^Campaign:none%%
 #### Dwarven Clans
 ```dataview
-LIST from "" where ancestry = "dwarven" and contains(tags, "organization") and typeof = "clan"
+LIST from "" where ancestry = "dwarven" and contains(tags, "group") and typeof = "clan"
 ```
 
 %%^End%%

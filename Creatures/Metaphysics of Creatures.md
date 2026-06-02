@@ -112,7 +112,7 @@ These are creatures that either definitely exist in game, but might not be speci
 
 [[Aboleths]] definitely exist, and might be considered species. They have a very different Far Realms vibe than ithilids and are likely from a different place, but they are rare on the Material Plane and so might also be better represented as occasional invaders and not really species. 
 
-[[Bullywugs]] canonically exist, and have villages and language, but they have no canonically history. It is equally plausible that they are a 'nuisance species', like kobodls and goblins, who typically live at the margins of other species territories, or they are creatures that arise in various ways, more like manticores than kobolds. I lean towards species (three nuisance species -- kobolds, goblins, and bullwugs -- seems like a good number), but this is undeveloped for the moment. 
+[[Bullywugs]] canonically exist, and have villages and language, but they have no canonically history. It is equally plausible that they are a 'nuisance species', like koboldls and goblins, who typically live at the margins of other species territories, or they are creatures that arise in various ways, more like manticores than kobolds. I lean towards species (three nuisance species -- kobolds, goblins, and bullwugs -- seems like a good number), but this is undeveloped for the moment. 
 
 [[Dragonets]] canonically exist, and have a history tied to Drankor and possibly Hkar and a symbiotic relationship with humans. Whether they should be treated as a species, or as intelligent creatures with a unique and interesting population on the circular island is deeply unclear. The relationship between dragonets and dragons is also somewhat unclear. 
 
