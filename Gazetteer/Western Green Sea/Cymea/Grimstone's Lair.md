@@ -13,7 +13,7 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Beneath the ruins of [[Perdoli Manor]] lies the lair and alchemical workshop of [[Grimstone]]. It began as a [[Perdoli family]] bolt-hole beneath the master bedroom, then was broken open and expanded by pirates in the early years of the DR 1700s. The pirates turned the bolt-hole much more expansive tunnel and cave system. However, in the DR 1720s, the pirates were massacred by the Tollen Navy, leaving their lair empty.
+Beneath the ruins of [[Perdoli Manor]] lies the lair and alchemical workshop of [[Grimstone]]. It began as a [[Perdoli Family]] bolt-hole beneath the master bedroom, then was broken open and expanded by pirates in the early years of the DR 1700s. The pirates turned the bolt-hole much more expansive tunnel and cave system. However, in the DR 1720s, the pirates were massacred by the Tollen Navy, leaving their lair empty.
 
 By late DR 1747 or early DR 1748, [[Grimstone]] had taken over the old hideout as the center of his petrification experiments, using the haunted remains of former pirates to help guard his lair. 
 
