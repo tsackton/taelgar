@@ -158,13 +158,13 @@ Before the party can simply rush the lab, they hear the human guard returning fr
 - Enemies: none
 
 #### Short
-With the guard gone, the party tries an invisible approach on Grimstone's lab, but fails to gain the element of surprise.
+With the guard dead, the party tries an invisible approach on Grimstone's lab, but fails to gain the element of surprise.
 
 #### Intermediate
-With the guard gone, the party accepts that Grimstone has to be rushed in the lab. Invisible Loria tries to get close while the others wait just out of sight, but she kicks loose glass, and Grimstone grabs a potion and prepares to attack.
+With the guard dead, the party accepts that Grimstone has to be rushed in the lab. Invisible Loria tries to get close while the others wait just out of sight, but she kicks loose glass, and Grimstone grabs a potion and prepares to attack.
 
 #### Long
-With the guard gone, the party stops trying to draw Grimstone out and plans the direct assault. They discuss the flammable lab, Grimstone's potion bandolier, the steampup's ability to pin him down, and the risk that the two intact stone statues might animate once the fight begins. The plot sends invisible Loria into the laboratory while everyone else follows close enough to rush in when she becomes visible. The plan fails before the first strike: Loria creeps across the cluttered floor, kicks a glass vial, and Grimstone looks up, grabs a potion from his belt, and prepares to attack.
+With the guard dead, the party stops trying to draw Grimstone out and plans the direct assault. They discuss the flammable lab, Grimstone's potion bandolier, the steampup's ability to pin him down, and the risk that the two intact stone statues might animate once the fight begins. The plot sends invisible Loria into the laboratory while everyone else follows close enough to rush in when she becomes visible. The plan fails before the first strike: Loria creeps across the cluttered floor, kicks a glass vial, and Grimstone looks up, grabs a potion from his belt, and prepares to attack.
 
 ### recap-006 | Grimstone and Stone Swarm
 
