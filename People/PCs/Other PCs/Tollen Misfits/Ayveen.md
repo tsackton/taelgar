@@ -18,3 +18,5 @@ whereabouts:
 > A [[Tollen|Tollish]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+![[ayveen.png]]
