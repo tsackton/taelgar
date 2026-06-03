@@ -23,6 +23,7 @@
     solistice 173  (92)
     equinox 265 (92)
     solistice 355 (90)
+    
 [2023-12-19 08:25 PM] rsulfuratus: do you remember what any of this means? I think it is your note
 [2023-12-19 08:25 PM] Deciusmus: It was really raw brainstorming just trying to organize days
 [2023-12-19 08:26 PM] Deciusmus: We had a long thread somewhere about different holiday ideas
@@ -47,7 +48,7 @@
 [2023-12-19 08:37 PM] Deciusmus: 7 weeks Jan 29
 [2023-12-19 08:37 PM] rsulfuratus: i guess depends on whether this is true or not:
     
-    In the urban parts of Hkar – the culture of Mos Numena, that eventually becomes the culture of Drankor – you have a system that grows up around magical cycles, with the 7 day week being of fundamental importance. A ritual cycle of 50 weeks, with 15 intercalary days (10 following the winter solstice; 3 on and around the summer solstice; 1 at the autumnal equinox, 1 at the vernal equinox), forms the basis of the urban Hkar year. For convenience, the 50 weeks are split into 10 groups of 5 weeks (months). Because a solar year in Taelgar is exactly 365 days, there are no leap years in this calendar, and it never goes out of sync (which also means the dates of the solstices and equinoxes never change).
+In the urban parts of Hkar – the culture of Mos Numena, that eventually becomes the culture of Drankor – you have a system that grows up around magical cycles, with the 7 day week being of fundamental importance. A ritual cycle of 50 weeks, with 15 intercalary days (10 following the winter solstice; 3 on and around the summer solstice; 1 at the autumnal equinox, 1 at the vernal equinox), forms the basis of the urban Hkar year. For convenience, the 50 weeks are split into 10 groups of 5 weeks (months). Because a solar year in Taelgar is exactly 365 days, there are no leap years in this calendar, and it never goes out of sync (which also means the dates of the solstices and equinoxes never change).
 [2023-12-19 08:38 PM] rsulfuratus: I think we decided that Dec 11 was just kind of an arbitrary date which had had significance to Drankor or even further back
 [2023-12-19 08:39 PM] Deciusmus: I like the above being true, actually
 [2023-12-19 08:40 PM] rsulfuratus: right at least the intercalary stuff is important as pyravela is the remnants of the old marking of the time between years
@@ -120,6 +121,7 @@
     Aug 5
     Oct 14
     Dec 23
+
 [2023-12-19 09:16 PM] Deciusmus: which actually doesn't quite work, because we definitely don't have a holiday on Dec 23
 [2023-12-19 09:16 PM] rsulfuratus: yeah, and that is kind of too close to pyravela
 [2023-12-19 09:19 PM] rsulfuratus: I think the vibe of the urban Hkar culture from which mos numena grew is a little more esoteric and also deeply magical. like, I'm not sure you really have too many festivals to the gods, you have the week of fire marking the time when it is auspicious to conduct summonings and spells that connect to the elemental plane of fire
