@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-01-16 - Vault Tooling
-
-%% Source cleanup: promoted from reviewed incoming note `2023-01-16.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2023-01-16 12:32 PM] Deciusmus: I may do another round of messing around on the plane home… either getting whereabouts to work or places… any preference or thoughts?
 [2023-01-16 12:35 PM] rsulfuratus: whereabouts would be way more useful for running games

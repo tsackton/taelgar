@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-11-23 - Avatus and Hobgoblins
-
-%% Source cleanup: promoted from reviewed incoming note `2025-11-23.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-11-23 07:47 PM] rsulfuratus: doing a little bit more work on Avatus, mostly trying to establish some basic timelines and borders.
     

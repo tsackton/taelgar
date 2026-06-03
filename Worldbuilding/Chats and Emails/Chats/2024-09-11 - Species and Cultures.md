@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2024-09-11 - Species and Cultures
-
-%% Source cleanup: promoted from reviewed incoming note `2024-09-11.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2024-09-11 02:09 PM] rsulfuratus: i'm not sure if you have thought much or care much about mechanical details of taelgar species, but i've been trying to rework at least the five core firstborn species a little to better capture mechanically the "unique firstborn magic" of each species. feeling pretty good about elves (ritual magic), halflings (telepathy/ancestral memory); have good ideas for lizardfolk (various prophecy/dreamworld things). stoneborn are a little unsettled because the lore is not totally clear but thinking around body transformation/resilience, things that have a vibe of like 'anime monk stuff' a little bit (this is how they are basically written now). 
     

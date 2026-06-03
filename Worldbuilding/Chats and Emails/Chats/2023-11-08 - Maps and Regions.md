@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-11-08 - Maps and Regions
-
-%% Source cleanup: promoted from reviewed incoming note `2023-11-08.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2023-11-08 11:04 AM] rsulfuratus: re: maps, yes I have a rather fancy Photoshop map with layers for climate, many kinds of borders, etc. it is in need of some updating and haven't had a chance to do this, but perhaps will on Friday (which I have off)
 [2023-11-08 11:06 AM] rsulfuratus: re: whereabouts, yes, simplification is good. i think for tracking complex npcs who travel a lot whereabouts is pretty clunky

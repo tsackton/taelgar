@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-11-15 - Languages
-
-%% Source cleanup: promoted from reviewed incoming note `2025-11-15.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-11-15 09:18 AM] Deciusmus: I was thinking about your language mechanics note a bit. I like the idea of leaning in even more on the well developed Taelgar linguistics model but it’s hard to see how to make it fun in play.  Advantage if you know the language in practice makes language very strong though unless the game is very travel oriented and so you are often encountering foreign lands
 [2025-11-15 09:23 AM] rsulfuratus: yeah. it is a little tricky. i was thinking a bit about leaning hard into real-world medieval languages where since people don't travel much and there is no media you have tons and tons of minor languages, but then for game mechanics purposes you treat very broad groupings as 'basically understandable'

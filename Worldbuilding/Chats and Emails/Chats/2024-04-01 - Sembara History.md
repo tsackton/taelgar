@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2024-04-01 - Sembara History
-
-%% Source cleanup: promoted from reviewed incoming note `2024-04-01.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2024-04-01 02:11 PM] rsulfuratus: opened PR to merge religion / gods reorg into main when you have a chance to look
 [2024-04-01 04:54 PM] Deciusmus: looked at it briefly; I didn't review the status/mike stuff but the structure seems sensible. you should go ahead and merge it

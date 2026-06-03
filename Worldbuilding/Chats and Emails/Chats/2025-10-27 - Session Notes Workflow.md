@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-10-27 - Session Notes Workflow
-
-%% Source cleanup: promoted from reviewed incoming note `2025-10-27.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2025-10-27 10:09 AM] rsulfuratus: it is not 100% perfect but codex generated this note for an Addermarch NPC stub. 
     

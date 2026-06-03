@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-01-18 - Cosmology and Planes
-
-%% Source cleanup: promoted from reviewed incoming note `2025-01-18.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2025-01-18 09:45 AM] rsulfuratus: we are going up to NH today so i don't know how much taelgar stuff i'll do or whether i'll be online much. was just poking around a little while kate does a quick errand, and thinking that getting discord notes into obsidian obviates a lot of the need for things like status/cleanup/external and the dm_owner: shared and all that. 
     

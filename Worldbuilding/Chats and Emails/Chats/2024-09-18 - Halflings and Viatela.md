@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2024-09-18 - Halflings and Viatela
-
-%% Source cleanup: promoted from reviewed incoming note `2024-09-18.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2024-09-18 08:53 PM] Deciusmus: I'm doing a little notes cleanup and just reading some random scattered things...
     

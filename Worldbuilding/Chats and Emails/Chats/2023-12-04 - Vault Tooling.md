@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-12-04 - Vault Tooling
-
-%% Source cleanup: promoted from reviewed incoming note `2023-12-04.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2023-12-04 01:10 AM] rsulfuratus: couldn't sleep so I stayed up too late fiddling around. i think i finally understood your string parsing setup.
     

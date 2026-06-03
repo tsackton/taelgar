@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-02-07 - Cosmology and Planes
-
-%% Source cleanup: promoted from reviewed incoming note `2025-02-07.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-02-07 11:34 AM] Deciusmus: I've been playing with GPT 4o (which I get about 20 minutes free a day on the free plan) and you are right it is way more creative than older chat gpts
 [2025-02-07 11:35 AM] Deciusmus: I'm home sick today but feeling better than I was yesterday so I am working on taelgar stuff a bit

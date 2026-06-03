@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-11-06 - Vault Tooling
-
-%% Source cleanup: promoted from reviewed incoming note `2023-11-06.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2023-11-06 03:44 PM] Deciusmus: Can't stay away from messing around with Obsidian instead of doing work... 🙂
     

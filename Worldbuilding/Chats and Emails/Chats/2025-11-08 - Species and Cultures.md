@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-11-08 - Species and Cultures
-
-%% Source cleanup: promoted from reviewed incoming note `2025-11-08.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-11-08 08:50 AM] rsulfuratus: going to spend a couple hours this morning working on species. partly trying to finalize homebrew but also give the species directory the "cosmology" treatment (go through each page, reorg, make sure things are complete). 
     

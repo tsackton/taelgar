@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2026-02-01 - Fey Realms
-
-%% Source cleanup: promoted from reviewed incoming note `2026-02-01.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2026-02-01 10:33 AM] Deciusmus: Thought on fey gates...
     

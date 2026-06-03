@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-12-02 - Vault Tooling
-
-%% Source cleanup: promoted from reviewed incoming note `2023-12-02.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2023-12-02 07:46 AM] rsulfuratus: a few bug reports, more explicit.
 [2023-12-02 07:46 AM] rsulfuratus: 1. Unknown Location bug

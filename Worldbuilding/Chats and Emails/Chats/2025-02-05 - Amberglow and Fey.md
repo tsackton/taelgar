@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-02-05 - Amberglow and Fey
-
-%% Source cleanup: promoted from reviewed incoming note `2025-02-05.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-02-05 11:49 AM] Deciusmus: btw, I assume idea of Amberglow was meant to harken back to the Lantern of the Bright Hearth, i.e. likely Aerlios made it out of Amberglow or it in some fashion has some relationship to Amberglow
 [2025-02-05 01:27 PM] rsulfuratus: Amberlights, yes

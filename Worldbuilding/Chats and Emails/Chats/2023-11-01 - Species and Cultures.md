@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-11-01 - Species and Cultures
-
-%% Source cleanup: promoted from reviewed incoming note `2023-11-01.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2023-11-01 10:09 AM] Deciusmus: I added a "Primary Sources" folder to dump in-world written documents that are more historical than campaign specific
 [2023-11-01 11:32 AM] Deciusmus: I like the species changes, nice org.

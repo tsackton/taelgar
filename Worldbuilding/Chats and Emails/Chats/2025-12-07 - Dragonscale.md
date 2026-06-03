@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-12-07 - Dragonscale
-
-%% Source cleanup: promoted from reviewed incoming note `2025-12-07.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-12-07 05:38 PM] Deciusmus: did you have something made up about dragonscale weapons and armor?
 [2025-12-07 05:38 PM] Deciusmus: I can't find anything in obsidian

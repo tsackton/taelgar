@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-11-29 - Chardon History
-
-%% Source cleanup: promoted from reviewed incoming note `2023-11-29.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2023-11-29 08:54 AM] rsulfuratus: you vindristjarna room page is great, i love it
 [2023-11-29 11:25 AM] Deciusmus: I had a few min, so I implemented a new formatting feature: prefix and suffix

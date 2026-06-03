@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-11-11 - Species and Cultures
-
-%% Source cleanup: promoted from reviewed incoming note `2025-11-11.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2025-11-11 10:12 AM] rsulfuratus: did we ever settle on a species for avatus? the frontmatter has human, but comments suggest maybe hobgoblin?
 [2025-11-11 10:30 AM] rsulfuratus: also do you have any ideas about the relationship between hobgoblins and goblins, if any? the languages might need disentangling, although there are some game benefits to having a single language that is useful for speaking to more than one possible enemy species (though maybe if goblins are escaped fey, they speak a language derived from sylvan that is mutually intelligible?)

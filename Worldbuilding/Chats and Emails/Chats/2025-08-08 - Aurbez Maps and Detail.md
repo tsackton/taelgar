@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-08-08 - Aurbez Maps and Detail
-
-%% Source cleanup: promoted from reviewed incoming note `2025-08-08.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-08-08 05:12 PM] rsulfuratus: based on this from ChatGPT, i'm inclined to make the Aursen bridged by 1750, but not the Massance.
     

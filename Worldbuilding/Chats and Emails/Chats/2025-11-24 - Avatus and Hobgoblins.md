@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-11-24 - Avatus and Hobgoblins
-
-%% Source cleanup: promoted from reviewed incoming note `2025-11-24.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-11-24 10:06 AM] rsulfuratus: technically working today and tomorrow but have almost nothing to do, so doing more avatus organizing. there are two major vibes issues that I think need to be resolved to solidify the timeline and the sequence of wars, so lmk if you have opinions
     

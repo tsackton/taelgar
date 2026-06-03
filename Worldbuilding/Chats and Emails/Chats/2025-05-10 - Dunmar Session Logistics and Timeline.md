@@ -1,13 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-05-10 - Dunmar Session Logistics and Timeline
-
-%% Source cleanup: promoted from reviewed incoming note `2025-05-10 - Dunmar Campaign.md`; source=iMessage; action=promote-after-cleanup; cleanup date=2026-06-03. %%
-
-%% Source: `Dunmar Campaign - 254.txt`. Retained wholesale because this is a Dunmar campaign group thread. %%
 
 ## 2025-05-10
 

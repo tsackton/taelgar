@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-10-06 - Species and Cultures
-
-%% Source cleanup: promoted from reviewed incoming note `2025-10-06.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-10-06 03:18 PM] Deciusmus: A few random thoughts....
 

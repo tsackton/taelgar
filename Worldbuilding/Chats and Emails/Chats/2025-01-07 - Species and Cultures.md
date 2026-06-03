@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-01-07 - Species and Cultures
-
-%% Source cleanup: promoted from reviewed incoming note `2025-01-07.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-01-07 04:55 PM] Deciusmus: My basic thoughts are…
     (A) In-game, Delwath doesn’t want to see the crown destroyed. But he trusts Riswynn or himself to use it for good

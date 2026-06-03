@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-11-02 - Vault Tooling
-
-%% Source cleanup: promoted from reviewed incoming note `2023-11-02.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2023-11-02 09:09 AM] rsulfuratus: pushed an update that adds an "Unlinked Pages" to `_MOC` that will show pages with no backlinks, to help fine the missing content like the above
 [2023-11-02 10:51 AM] rsulfuratus: thinking about events on my walk to work. have a bunch of meetings rest of day so probably won't do anything until tonight or the weekend, but curious your thoughts - this is just brainstorming for now

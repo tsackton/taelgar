@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-11-11 - Vault Tooling
-
-%% Source cleanup: promoted from reviewed incoming note `2023-11-11.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2023-11-11 08:51 AM] rsulfuratus: there are a few issues with the whereabouts spec i think
 [2023-11-11 08:53 AM] rsulfuratus: first, on home/origins - are we assuming that origin is a separate yaml entry, not part of whereabouts? otherwise, i don't see how it is possible for there ever to be a origin whereabout without a home whereabout

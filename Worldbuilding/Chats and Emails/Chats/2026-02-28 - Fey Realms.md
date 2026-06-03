@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2026-02-28 - Fey Realms
-
-%% Source cleanup: promoted from reviewed incoming note `2026-02-28.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2026-02-28 09:50 AM] Deciusmus: here is my basic thinking around feywild ideas, btw -- this is just vibes, working on how to fit it into the established canon...
 [2026-02-28 09:54 AM] Deciusmus: The border of Duskmire to the east  is very much not sharp -- it is a DMZ/interstital space/something that sits between Duskmire and the fortified western edge of Serenveil. This space, to the south-east fades into Morlaith's terrority. To the north the border is much sharper -- but I don't know what is there and maybe need to make something up.

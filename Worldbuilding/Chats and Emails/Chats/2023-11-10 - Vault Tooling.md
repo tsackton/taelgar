@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-11-10 - Vault Tooling
-
-%% Source cleanup: promoted from reviewed incoming note `2023-11-10.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2023-11-10 08:40 AM] rsulfuratus: any reason not to merge your PR?
 [2023-11-10 09:30 AM] Deciusmus: Breaks export I think

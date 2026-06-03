@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-12-01 - Languages
-
-%% Source cleanup: promoted from reviewed incoming note `2025-12-01.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-12-01 03:50 PM] Deciusmus: update on Bonnie: she had her gall bladder removed but that's pretty minor surgery. she should be back here from hosptial tonight and heading back to florida wed PM
 [2025-12-01 03:53 PM] Deciusmus: update on Taelgar:

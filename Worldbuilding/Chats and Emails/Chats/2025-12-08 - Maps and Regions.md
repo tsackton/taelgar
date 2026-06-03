@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-12-08 - Maps and Regions
-
-%% Source cleanup: promoted from reviewed incoming note `2025-12-08.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2025-12-08 09:37 AM] rsulfuratus: pretty busy day today but am poking around with a bit of data cleaning. two questions:
     

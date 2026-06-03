@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-12-02 - Maps and Regions
-
-%% Source cleanup: promoted from reviewed incoming note `2025-12-02.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-12-02 09:26 AM] rsulfuratus: pushed a few things, and working on a quick review of lavnoch plateau now. i have meetings from 9:30 - 11:00 and one major task that needs to be finished before 4 pm so probably won't do much more until later today - but this evening am going to work on into the chasm taelgarverse updates fyi
 [2025-12-02 09:38 AM] Deciusmus: i'm pretty busy today so probably won't get to anything. I wanted to right some breva stuff but was originally waiting to sort out the borders and region, and didn't have time after that last night

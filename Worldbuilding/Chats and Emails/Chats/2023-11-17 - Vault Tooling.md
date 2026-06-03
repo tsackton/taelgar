@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-11-17 - Vault Tooling
-
-%% Source cleanup: promoted from reviewed incoming note `2023-11-17.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2023-11-17 09:59 AM] rsulfuratus: List of Taelgar-relevant GPTs. If you use any of these would like feedback to refine custom instructions. None of these currently use Taelgar-specific information.
     

@@ -1,13 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-11-16 to 2023-11-19 - Meaning of Taelgar
-
-%% Source cleanup: promoted from reviewed incoming note `2023-11-16 to 2023-11-19 - Taelgar.md`; source=iMessage; action=promote; cleanup date=2026-06-03. %%
-
-%% Source: `Taelgar - 153.txt`. Retained wholesale because this is a Taelgar campaign group thread. %%
 
 ## 2023-11-16
 

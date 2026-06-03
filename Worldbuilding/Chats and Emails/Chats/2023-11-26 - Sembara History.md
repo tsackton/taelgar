@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-11-26 - Sembara History
-
-%% Source cleanup: promoted from reviewed incoming note `2023-11-26.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2023-11-26 09:17 AM] rsulfuratus: how do you control location partOf depth now? e.g. if you had `<loc:2>` before
 [2023-11-26 09:18 AM] Deciusmus: Do you mean part of? Usually you want current

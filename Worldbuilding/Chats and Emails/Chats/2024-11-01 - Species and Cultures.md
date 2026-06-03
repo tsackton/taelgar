@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2024-11-01 - Species and Cultures
-
-%% Source cleanup: promoted from reviewed incoming note `2024-11-01.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2024-11-01 09:58 AM] rsulfuratus: I have been just hitting "Get random note" and fixing things up when I have 5-10 minutes between meetings or tasks, and have hit a row of organizations lately that makes me want to slightly refactor "organizations". In particular, I'm not sure that notes that describe cultures (Deno'qai, Vargaldi, orc hordes, hobgoblin clans) necessarily make sense in organizations (as opposed to gazeteer). e.g. we have all the various pages on Dunmar/Sembara political organization, culture, society in realms
 [2024-11-01 09:58 AM] rsulfuratus: in particular it is a bit tricky to come up with a "type" for something like the Vargaldi note, beyond "culture". it is functionally more like the "Dunmar" page

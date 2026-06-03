@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-11-20 - Vault Tooling
-
-%% Source cleanup: promoted from reviewed incoming note `2023-11-20.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2023-11-20 09:38 AM] Deciusmus: what are your status tags again?
 [2023-11-20 09:38 AM] Deciusmus: I've been trying to do minor cleanup in various short bits of time between meetings and such

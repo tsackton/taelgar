@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2026-05-30 - Addermarch and Fey
-
-%% Source cleanup: promoted from reviewed incoming note `2026-05-30.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2026-05-30 11:17 AM] rsulfuratus: i am doing an experiment in a little more intentional adventure design and a little more organized notes. i put an adventure design template in `_dm_notes` based on the Angry GM stuff if it is useful to you
 [2026-05-30 03:14 PM] Deciusmus: I’m doing a bit of prep for my game tomorrow which is the “find a way into serenveil” and then some roleplaying in twilights grace. 

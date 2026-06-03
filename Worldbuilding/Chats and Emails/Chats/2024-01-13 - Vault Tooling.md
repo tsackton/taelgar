@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2024-01-13 - Vault Tooling
-
-%% Source cleanup: promoted from reviewed incoming note `2024-01-13.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2024-01-13 10:37 AM] Deciusmus: thouhts?
 [2024-01-13 10:37 AM] Deciusmus: 

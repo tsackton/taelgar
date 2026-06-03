@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-01-30 - Cosmology and Planes
-
-%% Source cleanup: promoted from reviewed incoming note `2025-01-30.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-01-30 06:37 PM] rsulfuratus: i'm nearly done with cosmology - just have two pages left to do and then some headers and organization - i'm not sure if i'll have energy or inclination to do any other worldbuilding tonight but in case i do did you start anything on the west coast history stuff?
 [2025-01-30 06:37 PM] Deciusmus: No, I was busy all day at work and then tonight is Zachary’s winter concert

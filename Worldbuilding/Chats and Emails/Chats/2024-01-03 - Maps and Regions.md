@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2024-01-03 - Maps and Regions
-
-%% Source cleanup: promoted from reviewed incoming note `2024-01-03.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2024-01-03 03:24 PM] rsulfuratus: writing notes on Delwath's dream conversation with Sura. what are you specifically trying to learn here? Sura is mostly going to want to talk about surviving the experience of losing a chunk of your life, having never expected to find someone else who survived a similar experience, but for someone with Delwath's persuasion and charisma it would presumably be pretty easy to steer the conversation to whatever you want to learn
 [2024-01-03 03:26 PM] Deciusmus: Delwath would be happy to be a dream therapist for Sura (or more accurately, to start a part-of-your-life-disappeared support group via Dream), and would honestly probably get sucked into that kind of conversation pretty easily

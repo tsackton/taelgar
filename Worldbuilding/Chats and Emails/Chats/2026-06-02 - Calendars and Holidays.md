@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2026-06-02 - Calendars and Holidays
-
-%% Source cleanup: promoted from reviewed incoming note `2026-06-02.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2026-06-02 07:42 AM] Deciusmus: So my session yesterday finished arc 1 (of 2) for my game -- now we have between 1 and 5 years of peace and quiet, during which I am going to run an email-based "Asineau" events (with a sort of mini-sim-city for growing Asineau in a realistic-ish way).
     

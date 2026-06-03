@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-11-27 - Vault Tooling
-
-%% Source cleanup: promoted from reviewed incoming note `2023-11-27.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2023-11-27 09:16 AM] rsulfuratus: mostly working today but currently moving on to try to understand location manager. one question: should we treat commas as legacy/backwards compatibility, or should we make it possible for something like "wandering, north of Tokra" to work equivalently to "wandering north of Tokra"? e.g., if I understand code correctly, LocationManager.isInLocation with a targetLocation of Dunmar will return false for first one (with comma), true for second (w/o comma).
     

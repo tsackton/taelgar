@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-01-24 - Maps and Regions
-
-%% Source cleanup: promoted from reviewed incoming note `2025-01-24.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-01-24 07:50 AM] Deciusmus: I did a quick test before starting work and with one minor tweak it all works. The main question is what do we want the display text to be.
     

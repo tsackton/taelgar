@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-11-16 - Avatus and Hobgoblins
-
-%% Source cleanup: promoted from reviewed incoming note `2025-11-16.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-11-16 10:23 AM] rsulfuratus: was thinking more about these issues while birding this morning, have some more (long) thoughts
 [2025-11-16 10:24 AM] rsulfuratus: to me, though i don't know if you agree, there are several interrelated issues that arise both from how D&D treats skills and our specific table culture

@@ -1,13 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2021-02-12 to 2021-02-13 - Delwath Memories and Level 5
-
-%% Source cleanup: promoted from reviewed incoming note `2021-02-12 to 2021-02-13 - Mike Sackton.md`; source=iMessage; action=promote-after-cleanup; cleanup date=2026-06-03. %%
-
-%% Source: `+17814051318 msackton@gmail.com.txt`. Retained D&D-related messages from a mixed family/iMessage thread; non-D&D messages omitted. %%
 
 ## 2021-02-12
 

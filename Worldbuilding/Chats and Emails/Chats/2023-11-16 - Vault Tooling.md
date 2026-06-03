@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-11-16 - Vault Tooling
-
-%% Source cleanup: promoted from reviewed incoming note `2023-11-16.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2023-11-16 08:25 AM] rsulfuratus: pushed a region and climate map (png, leaflet versions in worldbuilding, coords might be wrong). they are huge, will try to shrink for loading speed when I have more time
 [2023-11-16 08:32 AM] rsulfuratus: check that - will push when I'm somewhere with better internet than Diesel

@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2026-05-20 - Fey Realms
-
-%% Source cleanup: promoted from reviewed incoming note `2026-05-20.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2026-05-20 03:32 PM] rsulfuratus: i've been letting codex do my actual job and have been working on taelgar a fair bit. mostly dealing with note cleanup. partly trying to still deal with old stubs/staging from various campaigns but also tagging a few things with check/mike. 
     

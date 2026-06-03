@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2024-09-13 - Languages
-
-%% Source cleanup: promoted from reviewed incoming note `2024-09-13.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2024-09-13 09:39 AM] Deciusmus: I was messing around with a D&D 2024 version of Delwath a bit... D&D Beyond is tough to use as I can't select old-school invocations like Ghostly Gaze
 [2024-09-13 09:51 AM] Deciusmus: But... broadly, I'd be tempted (assuming I do this when going to level 12 warlock)

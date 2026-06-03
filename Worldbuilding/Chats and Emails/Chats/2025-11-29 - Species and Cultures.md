@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-11-29 - Species and Cultures
-
-%% Source cleanup: promoted from reviewed incoming note `2025-11-29.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-11-29 10:14 AM] Deciusmus: I'm looking at your tollen stuff I like it a lot... one thing that is kinda missing is the suburbs and surroundings.
     

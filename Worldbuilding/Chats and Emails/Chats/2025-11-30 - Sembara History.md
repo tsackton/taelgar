@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-11-30 - Sembara History
-
-%% Source cleanup: promoted from reviewed incoming note `2025-11-30.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-11-30 10:37 AM] Deciusmus: messing around with Zimkova a bit:
     
