@@ -1,17 +1,22 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
+
 This page captures some of the reasoning behind decisions in the [[Historical Framework]] document, and also captures some of our older thinking that has since been discarded.
 
-The primary chat that clarified a lot of this is [[Discord Chat - Deep History]]. Some additional information is found in:
+The primary chat that clarified a lot of this is [[2024-07-15 - Deep History]]; [[2024-07-16 - Deep History]]; [[2024-07-18 - Deep History]]; [[2024-07-25 - Deep History]]. Some additional information is found in:
 
 * [[GDrive - History of Taelgar]]
 * [[GDrive - The Divine Order]]
 * [[GDrive - Humanity in Taelgar]]
-* [[Discord Chat - Deep History]]
-* [[Discord Chat - Multiverse]]* 
-* [[Discord Chat - Languages and Humanity]] 
+* [[2024-07-15 - Deep History]]; [[2024-07-16 - Deep History]]; [[2024-07-18 - Deep History]]; [[2024-07-25 - Deep History]]
+* [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]* 
+* [[2024-07-12 - Languages and Humanity]]; [[2024-07-13 - Languages and Humanity]]; [[2024-07-14 - Languages and Humanity]]; [[2024-07-15 - Languages and Humanity]] 
 * [[Email - Brief Thoughts on Elder Races]]
 * [[History of Humanity Notes]]
 * [[Human Cultures of Taelgar]]
-* [[Discord Chat - Historical Framework Pre Downfall]]
+* [[2025-01-21 - Historical Framework Pre Downfall]]
 
 
 ### Downfall Aftermath

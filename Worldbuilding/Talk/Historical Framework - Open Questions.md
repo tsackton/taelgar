@@ -1,10 +1,15 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
+
 This document collects open questions about the general [[Historical Framework]] of Taelgar.
 
 ### Orenlas and Drankor
 What is the relationship between Orenlas and Drankor? Is Orenlas surrounded by Drankor, or do other things prevent it.
 
 ## Darkwood Creation
-When does the Darkwood become sinister? See towards the end of  [[Discord Chat - Ethlenn and Umbraeth]].
+When does the Darkwood become sinister? See towards the end of  [[2024-09-25 - Ethlenn and Umbraeth]]; [[2024-10-03 - Ethlenn and Umbraeth]]; [[2024-10-04 - Ethlenn and Umbraeth]]; [[2024-10-10 - Ethlenn and Umbraeth]]; [[2024-10-16 - Ethlenn and Umbraeth]]; [[2024-11-19 - Ethlenn and Umbraeth]]; [[2025-01-15 - Ethlenn and Umbraeth]]; [[2024-09-16 - Ethlenn and Umbraeth]].
 Likely before the Drankorians arrive.
 
 
@@ -60,7 +65,7 @@ It also results in the central and western areas being dominated by dwarves and 
 
 In general, there is nothing wrong with this per se, but it is worth exploring the implications before assuming it is fully canonical. This for example implies that the first non-humans the human migrants encounter are elves and perhaps some dwarves. It also feels like perhaps the halflings are missing an opportunity to be more widespread.
 
-Note: one idea discussed in [[Discord Chat - Historical Framework Pre Downfall]] suggests that maybe the Green Sea stretched further inland before the Downfall, and therefore the 'Firstborn' races might all have had mighty civilizations that met at [[Urlich Pass]]. That would preserve one of the ideas from the [[Great War Campaign]] that the final battle with Cha'Mutte was in some way related to the site of the creation of the Firstborn. This would also make the interactions a bit less isolated. 
+Note: one idea discussed in [[2025-01-21 - Historical Framework Pre Downfall]] suggests that maybe the Green Sea stretched further inland before the Downfall, and therefore the 'Firstborn' races might all have had mighty civilizations that met at [[Urlich Pass]]. That would preserve one of the ideas from the [[Great War Campaign]] that the final battle with Cha'Mutte was in some way related to the site of the creation of the Firstborn. This would also make the interactions a bit less isolated. 
 
 ### Stoneborn Early History
 The elves, lizardfolk, halflings, and dwarves all have tentative development for significant early histories with impacts on the post-Downfall world, but the stoneborn are missing from most of this. It may be appriopriate (i.e. lean into them as the most isolationist of the Elder Folk) but this is a pending open question.

@@ -1,0 +1,19 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
+
+# 2024-02-07 - Great South Road
+
+%% Source cleanup: promoted from reviewed incoming note `2024-02-07.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
+
+[2024-02-07 10:59 AM] Deciusmus: Great South Road:
+    
+    An ancient road that runs from [[Embry]] to [[Cassons]]. In better days it ran south as far as [[Isingue]], and in the Drankorian era, was said to continue almost 2500 miles to [[Drankorian Empire|Drankor]] itself.
+    
+    Although in poor repair in some places, for much of it's length it is paved with wide, smooth stones with drainage ditches on both sides. According to legend many of the stones in the road are a thousand years old, and have never cracked.
+    
+    ----
+    
+    I'm working on some answers to my player's questions that depend on whether or not the Great South Road is in fact super-good road for travel, any concerns with the above?
+[2024-02-07 07:48 PM] rsulfuratus: no this is good, it should be semi-magical probably in places

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+tags: [background, status/check/ai]
 dm_owner: mike,tim
 dm_notes: none
 ---
@@ -17,9 +17,9 @@ The fact that she never returned from a research expedition to the [[Marches of 
 The patron of [[Viepuck]] is canonically a Far Realm creature motivated by curiosity about Taelgar and a desire to understand life in the Multiverse, but with some of the vibe of an entomologist studying bees, rather than as human anthropologist. This patron discovered Viepuck during a ritual sacrifice, although the exact metaphysics are not clear. 
 
 Many relevant brainstorming notes:
-- [[Discord Chat - Deep History]]
-- [[Discord Chat - Multiverse]]
-- [[Discord Chat - Souls]]
+- [[2024-07-15 - Deep History]]; [[2024-07-16 - Deep History]]; [[2024-07-18 - Deep History]]; [[2024-07-25 - Deep History]]
+- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
+- [[2024-02-01 - Souls]]; [[2024-02-02 - Souls]]
 - [[Far Realms Brainstorming]]
 
 Note that creatures native the Far Realms should not have traditional Taelgarian souls, barring some kind of weird special exception. Which might mean they cannot be targeted by Astral Projection or any resurrection magic, for example; other metaphysical or mechanical consequences are unclear. 

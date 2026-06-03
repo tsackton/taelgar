@@ -1,6 +1,11 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
+
 Some rough calculations around the ritual calendar for Mos Numena. would be good to pull in some holiday discussions from discord.
 
-The idea is to have the following holidays (just random brainstorming, see [[Discord Chat - Holidays]]) for more)
+The idea is to have the following holidays (just random brainstorming, see [[2023-08-08 - Holidays]]) for more)
 
 * Wyrdling ([[Pyravela]])
 * Wanderer x2 (homecoming & leavetaking, winter & early spring)

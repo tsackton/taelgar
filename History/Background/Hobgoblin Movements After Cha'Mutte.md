@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/cleanup/text, status/cleanup/map, status/gameupdate/dufr]
+tags: [background, status/cleanup/text, status/cleanup/map, status/gameupdate/dufr, status/check/ai]
 excludePublish: ["all"]
 dm_owner: joint
 dm_notes: none
@@ -12,14 +12,14 @@ dm_notes: none
 After the death of Cha'mutte, the large hobgoblin forces assembled for the Great War are left without magical support, and begin to disperse, move, and raid in various ways. In many ways, the movements of these hobgoblin groups define the period from ~1545 - 1600, often referred to as the [[Blood Years]]. 
 
 Draws heavily from:
-- [[Discord Chat - Chardon History]]
-- [[Discord Chat - Grand Sweep of History]]
+- [[2025-01-28 - Chardon History]]; [[2025-01-29 - Chardon History]]
+- [[2023-01-05 - Grand Sweep of History]]; [[2023-10-29 - Grand Sweep of History]]; [[2023-10-30 - Grand Sweep of History]]
 
 See also (primarily for Sembaran context):
-- [[Discord Chat - Avatus and Hobgolbins]]
-- [[Discord Chat - Fellburn]]
-- [[Discord Chat - Sembara History]]
-- [[Discord Chat - Rangers and Elves]]
+- [[2023-11-04 - Avatus and Hobgoblins]]
+- [[2024-03-27 - Fellburn]]
+- [[2024-01-04 - Sembara History]]; [[2024-01-05 - Sembara History]]
+- [[2023-11-05 - Rangers and Elves]]
 ## Southern Army
 
 The Southern Army, consisting of the Iron Fang, Bitter Knife, Blackened Claw, Death Moon, and possibly other clans, is responsible for conquering Isingue, and blockading the Dunmari borders to prevent a Dunmari breakthrough to help relieve Isingue. 
@@ -92,7 +92,7 @@ Open questions:
 * What is the timeline exactly? The 1550s to 1650s is not strictly canonical, but Chardon cannot be dominating the [[Northwest Coast]] until the 1650s-1670s, to give the Mawar renaissance a chance to blossom; these hobgoblins partly serve that purpose
 
 Discussion:
-- [[Discord Chat - Chardon Wars Against Hobgoblins]]
+- [[2025-01-31 - Chardon Wars Against Hobgoblins]]
 ### Central Split
 *War against Amani 1545-1550s, defeat by 1600*
 

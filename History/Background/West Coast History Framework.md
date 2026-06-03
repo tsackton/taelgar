@@ -1,5 +1,5 @@
 ---
-tags: [background, status/cleanup/text, status/cleanup/map]
+tags: [background, status/cleanup/text, status/cleanup/map, status/check/ai]
 excludePublish: ["all"]
 dm_owner: tim
 dm_notes: none
@@ -9,7 +9,7 @@ This note is intended to summarize a framework for the history of the West Coast
 
 This is not intended to be published as is and is not meant to replace a more proper History of Chardon or whatever note. 
 
-Draws heavily from [[Hobgoblin Movements After Cha'Mutte]] and [[Discord Chat - Chardon History]]. 
+Draws heavily from [[Hobgoblin Movements After Cha'Mutte]] and [[2025-01-28 - Chardon History]]; [[2025-01-29 - Chardon History]]. 
 
 See also: [[Early Brainstorming - West Coast History]] and [[West Coast History - Nymthrax Lair Brainstorming]] for some older brainstorming that might have relevant ideas. 
 

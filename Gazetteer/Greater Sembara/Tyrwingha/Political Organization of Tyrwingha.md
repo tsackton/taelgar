@@ -1,11 +1,11 @@
 ---
-tags: [background, status/cleanup/text]
+tags: [background, status/cleanup/text, status/check/ai]
 dm_owner: mike
 dm_notes: none
 ---
 # Political Organization of Tyrwingha
 
-%% info here is pretty good but needs cleanup based on [[Discord Chat - Tyrwingha]] See also some of the stories from [[Celyn]] for vibes %%
+%% info here is pretty good but needs cleanup based on [[2024-03-15 - Tyrwingha]]; [[2024-03-16 - Tyrwingha]]; [[2024-03-17 - Tyrwingha]] See also some of the stories from [[Celyn]] for vibes %%
 
 Tyrwingha is a rural place, with no cities of any size outside of [[Tafolwern]], and most people live in small villages and market towns of between 50 and 1000 people. 
 

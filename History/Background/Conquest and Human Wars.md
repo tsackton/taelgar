@@ -1,5 +1,5 @@
 ---
-tags: [background]
+tags: [background, status/check/ai]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
@@ -7,7 +7,7 @@ excludePublish: ["all"]
 
 This document outlines a few guidelines and thoughts on war and conquest in Taelgar. 
 
-%% See [[Discord Chat - Conquest]] for the chat this is synthesing %%
+%% See [[2024-01-04 - Conquest]] for the chat this is synthesing %%
 
 In general, although wars between human realms do happen, wars of conquest in Taelgar are substantially rarer than they are on Earth. Several famous conquests - such as the Drankorian conquest of Sembara - were less conquests than "Drankor shows up with a million wizards and offers to rule" and Sembaran say "sure, come rule if that means your million wizards will protect us from the bad things".
 

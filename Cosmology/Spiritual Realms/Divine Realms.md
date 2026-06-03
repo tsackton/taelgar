@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+tags: [background, status/check/ai]
 dm_owner: none
 dm_notes: none
 ---
@@ -28,9 +28,9 @@ In practice, this explanation seems valuable as it solves several problems in Ta
 At the moment, there are really only two prominent human religions (Mos Numena and Five Siblings), with the various northern folk religions and the Skaer religion distinctly minor in comparison, and conveniently if the Dunmari have some alternate metaphysical truth it is likely locked behind the secret knowledge of the mystery cults. Upon the invention of additional religions - in the east, or wherever - it might be worth updating this note. 
 
 A fair bit of discussion:
-- [[Discord Chat - Divine Power in Taelgar]]
-- [[Discord Chat - Homes of Incorporeal Gods]]
-- [[Discord Chat - Multiverse]]
+- [[2025-01-21 - Divine Power in Taelgar]]
+- [[2025-01-22 - Homes of Incorporeal Gods]]
+- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
 
 ## List of Divine Realms
 

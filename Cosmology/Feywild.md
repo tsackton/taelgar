@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/review]
+tags: [place, status/review, status/check/ai]
 typeOf: plane
 displayDefaults: {wSecondary: "Sometimes considered one of the <secondary:1>", defArt: "the"}
 whereabouts: 
@@ -78,15 +78,15 @@ No discussion of the Feywild would be complete without a mention of the endless 
 ## DM Notes
 
 Major discussions include:
-- [[Discord Chat - Fey Realms]]
-- [[Discord Chat - Fey Gates]]
-- [[Discord Chat - Multiverse]]
+- [[2023-12-23 - Fey Realms]]; [[2023-12-26 - Fey Realms]]; [[2023-12-28 - Fey Realms]]; [[2023-12-29 - Fey Realms]]; [[2024-01-02 - Fey Realms]]
+- [[2024-09-24 - Fey Gates]]
+- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
 
 Specifically on Tyrwingha:
-- [[Discord Chat - Ethlenn and Umbraeth]]
-- [[Discord Chat - Fey and Tyrwingha]]
-- [[Discord Chat - Tyrwingha]]
-- [[Discord Chat - Addermarch]]
+- [[2024-09-25 - Ethlenn and Umbraeth]]; [[2024-10-03 - Ethlenn and Umbraeth]]; [[2024-10-04 - Ethlenn and Umbraeth]]; [[2024-10-10 - Ethlenn and Umbraeth]]; [[2024-10-16 - Ethlenn and Umbraeth]]; [[2024-11-19 - Ethlenn and Umbraeth]]; [[2025-01-15 - Ethlenn and Umbraeth]]; [[2024-09-16 - Ethlenn and Umbraeth]]
+- [[2024-03-24 - Fey and Tyrwingha]]
+- [[2024-03-15 - Tyrwingha]]; [[2024-03-16 - Tyrwingha]]; [[2024-03-17 - Tyrwingha]]
+- [[2024-09-01 - Addermarch]]; [[2024-09-02 - Addermarch]]; [[2024-09-10 - Addermarch]]
 
 Some relevant sources:
 - [[On the Creation and Destruction of Extra-Material Realms]]

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai]
 displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
 whereabouts: 
 - {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
@@ -27,7 +27,7 @@ The Plane of Magic is the name given by arcane cosmologists to the source of the
 %%Campaign:none%%
 
 Some brainstorming on:
-- [[Discord Chat - Multiverse]]
+- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
 - [[Ley Lines]]
 
 Fundamentally, the source of arcane magic. However, the deeper metaphysics are almost entirely a blank slate. 

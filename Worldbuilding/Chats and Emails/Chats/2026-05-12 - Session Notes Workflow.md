@@ -1,0 +1,214 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
+
+# 2026-05-12 - Session Notes Workflow
+
+%% Source cleanup: promoted from reviewed incoming note `2026-05-12.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
+
+[2026-05-12 04:38 PM] rsulfuratus: i pushed the first into the chasm output from the final version of the session note pipeline. 
+    
+    i haven't made any documentation yet, but the basic framework is as follows. 
+    
+    (1) the agentic pipeline cleans the transcript, splits each transcript into beats, identifies facts about each beat (locations; NPCs; combat), then generates a session recap (`_sessions/`<campaign>`/`<session>`/`<session>`-session-recap.md`). 
+    
+    (2) the session recap contains timeline components, narrative components, NPCs, locations, and items. 
+    
+    (3) a python script (`_scripts/build_session_note_components.py`) generates three markdown component files: session-info, technical-updates, narrative. the path is always in the `_generated` subdir of the canonical campaign path, with a slugified session name. paths and other information is controlled in the `session_note_campaigns.json` in the _scripts directory. 
+    
+    (4) the `render-session-note` template works like `regenerate-header` and actually computes the session note from the markdown component files. the build session note script will generate a dummy file with the necessary headers (sessionKey and template). sessionKey needs to identify the generated dir from step 3, template needs to point to a markdown template in templates/session-notes. mostly i've just used a fixed template, but these are customizable.
+[2026-05-12 04:38 PM] Deciusmus: I'm organizing some alaska stuff but was planning on looking at D&D in a bit
+[2026-05-12 04:39 PM] rsulfuratus: oh on alaska - we need to text tob to check his email. there is a good chance our tracy arm tour is canceled. the operator is going to endicott arm not tracy arm this season and doesn't appear to be running monday tours
+[2026-05-12 04:39 PM] rsulfuratus: not sure what we'll do in that case...i guess an unscheduled day in juneau isn't the worst
+[2026-05-12 04:39 PM] Deciusmus: ah, i was wondering
+[2026-05-12 04:40 PM] rsulfuratus: i figure they would have emailed but high chance tob missed it
+[2026-05-12 04:41 PM] Deciusmus: is the sikta hike all booked, btw?
+[2026-05-12 04:41 PM] rsulfuratus: yes although i should follow up to confirm
+[2026-05-12 04:41 PM] rsulfuratus: i paid them an advance already
+[2026-05-12 04:41 PM] rsulfuratus: so don't see there would be any issue
+[2026-05-12 04:42 PM] rsulfuratus: same with sitka boat tour and glacier bay whale watch
+[2026-05-12 04:44 PM] rsulfuratus: anyway back to d&d. there are a few main configurations:
+    - the template controls what fields are in the session note 
+    - the python script uses new fields in the displayDefaults metadata.json to control parenthetical information about cast and locations (clear if you look at the session-info generated notes). these have both a default and optionally campaign-specific overrides, or you can just modify the session-info directly; it is parsed by the same javascript code that parses all other formatting tokens
+[2026-05-12 04:44 PM] rsulfuratus: for manual editing, i usually edit the session recap directly and make sure it is good, and then just let everything else be deterministic
+[2026-05-12 04:44 PM] rsulfuratus: but it is also possible to mostly do the manual editing at the generated component stage.
+[2026-05-12 04:45 PM] rsulfuratus: the one thing to be aware of is that the formatted parenthetical information is only generated for things that have notes with appropriate tags,
+[2026-05-12 04:46 PM] rsulfuratus: so if you are going to edit at the generated component stage, it makes sense to check the cast and locations output, at least, in the session recap before running the component script to make sure notes exist (or just manually add format lines)
+[2026-05-12 04:47 PM] rsulfuratus: usually i've found the biggest editing burden is narrative cleanup, especially now that i've added the short/intermediate/long framework (which exists to allow various more complicated session notes in the future, or to have a compressed narrative if desired for some campaigns)
+[2026-05-12 04:48 PM] rsulfuratus: the timeline part of the session recap is often not great, usually breaking days into too many intervals. i sometimes just clean up the timeline directly in the session-info generated file instead of in the session recap.
+[2026-05-12 04:50 PM] rsulfuratus: mawar ep 1-5 are done, as is itc ep 1. itc ep 2-6 are an older version of the agentic pipeline but i am likely to work through these in the next hour to refresh the session recaps, though without any manual cleanup
+[2026-05-12 04:58 PM] rsulfuratus: one other thing, right now the session recap has organizations but these are not propogated to the generated components, haven't fixed that bug yet
+[2026-05-12 05:18 PM] rsulfuratus: okay ep 2 and ep 3 now rebuild, but not manually edited.
+    
+    also fixed the generated component to propagate organizations
+[2026-05-12 05:32 PM] Deciusmus: ok so looking at D&D... what exactly is the workflow here? is there like a basic overview that I missed?
+[2026-05-12 05:37 PM] Deciusmus: like, where's the human hook? is it the session-recap in _sessions?
+[2026-05-12 05:39 PM] rsulfuratus: there are several places you can edit
+[2026-05-12 05:39 PM] rsulfuratus: the main one is session-recap
+[2026-05-12 05:40 PM] Deciusmus: so I guess I have two questions...
+    
+    (a) what is it that I'm supposed to actually be _doing_ on the Into the Chasm notes?
+    (b) how would I try this out on Cleenseau?
+[2026-05-12 05:41 PM] rsulfuratus: so what i've tended to do is review the session header and the narrative part of the session recap, because usually the descriptive title, tagline, one sentence summary, and parts of the narrative are sloppy
+[2026-05-12 05:41 PM] rsulfuratus: then i review the npcs, locations, organizations, items
+[2026-05-12 05:42 PM] rsulfuratus: for npcs, it often over-fills combat opponents; i just delete these. for other npcs, i make a note if one doesn't exist, and try to at least fill out frontmatter, since this gets propogated (see mawar notes for example)
+[2026-05-12 05:42 PM] rsulfuratus: same for locations - this i often do with agentic assistance so it rewrites places they are used, but this can also just be find/replace
+[2026-05-12 05:42 PM] Deciusmus: right I'm just not clear on where any of this is -- are you reviewing in obisidian? so for example _sessions/into-the-chasm/into-the-chasm-001? in VS Code?
+[2026-05-12 05:43 PM] rsulfuratus: yeah obsidian
+[2026-05-12 05:43 PM] rsulfuratus: i have all the human-review parts output as markdown
+[2026-05-12 05:45 PM] rsulfuratus: for cleenseau --
+    
+    it does actually work pretty well on the kind of long form narrative / blog posts you have for most of the later sessions. you can see i was testing it out a bit
+[2026-05-12 05:45 PM] Deciusmus: ok so i'm still a little lost honestly
+[2026-05-12 05:45 PM] rsulfuratus: i didn't do much beyond some preliminary testing because it is strongly structured around dates, and so needs dr start and dr end in the session yaml to really do much
+[2026-05-12 05:46 PM] Deciusmus: right
+[2026-05-12 05:46 PM] Deciusmus: no, I'm not so worried about Clee at the moment
+[2026-05-12 05:48 PM] Deciusmus: so like looking at chasm 006
+[2026-05-12 05:48 PM] Deciusmus: the idea would be to review the whole recap file and make direct edits there?
+[2026-05-12 05:48 PM] rsulfuratus: i wrote out the framework above. 
+    
+    basically there are three parts. 
+    
+    (1) an agentic workflow that is mostly not in obsidian and relies on a bunch of skills and python code i developed with codex. this produces a session recap markdown file, plus a lot of other artifacts that are probably not necessary and mostly exist because when i was developing i didn't want to always start from scratch; and because the agents don't do a good job of one-shotting a recap from raw transcript.
+    
+    (2) a deterministic python script that converts the session recap into generated markdown. it is basically a fake json, there are a bunch of slots like dr.start and narrative.short. but it is markdown so it can be edited in obsidian
+    
+    (3) a templater script that builds a session note from a markdown template and the generated components
+[2026-05-12 05:49 PM] rsulfuratus: yeah. but don't look at chasm 4-6 yet, those are old testing versions that don't work with the templater script
+[2026-05-12 05:49 PM] rsulfuratus: or anyway don't edit those yet.
+[2026-05-12 05:49 PM] Deciusmus: ok so lets say i was looking at chasm 3
+[2026-05-12 05:49 PM] rsulfuratus: for chasm, I edited session 1 recap already and i think it is pretty clean. session 2 and session 3 are from the latest version but haven't be edited. session 4-6 need the agentic rerun
+[2026-05-12 05:51 PM] Deciusmus: i think what I am struggling with what each file is
+[2026-05-12 05:51 PM] Deciusmus: so i.e. 
+    _sessions/into-the-chasm/into-the-chasm-002/cleaned
+    
+    I assume everything in this folder is agentic work product and I should ignore it, except for _sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-session-recap
+[2026-05-12 05:51 PM] rsulfuratus: yes
+[2026-05-12 05:52 PM] Deciusmus: and then the python script turns 
+    _sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-session-recap
+    
+    into 
+    
+    Campaigns/One Shots/Into the Chasm/_generated/session-notes/into-the-chasm-session-2
+    ?
+[2026-05-12 05:52 PM] rsulfuratus: yes
+[2026-05-12 05:52 PM] rsulfuratus: you can look at chasm session 1 to see how this looks
+[2026-05-12 05:52 PM] Deciusmus: right, i saw that
+[2026-05-12 05:54 PM] Deciusmus: so ultimately, if I wanted to change something in 
+    
+    Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 01
+    
+    the right way to do it is to go back to
+    
+    _sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session-recap
+    
+    then run python (to create the Campaigns/..../_generated) files
+    then run templater (to create the actual Ep 1 note)
+    
+    ?
+[2026-05-12 05:54 PM] Deciusmus: but, for example, why is the pre-game timeline all missing?
+[2026-05-12 05:55 PM] rsulfuratus: so i think it is equally fine to change it _generated/session-notes
+[2026-05-12 05:55 PM] rsulfuratus: oh hmm that's weird. might be a bug where the timeline is trucated to the session start/session end
+[2026-05-12 05:55 PM] rsulfuratus: it's in the recap
+[2026-05-12 05:56 PM] rsulfuratus: oh but it is called pre-session timeline in the recap
+[2026-05-12 05:56 PM] Deciusmus: yeah
+[2026-05-12 05:56 PM] rsulfuratus: i manually added that after the fact from the old session note because the agent obviously couldn't find it in the transcript
+[2026-05-12 05:57 PM] rsulfuratus: i think if you merge all the timeline elements under the ## timeline header and rerun python it will build properly. i'm testing this now
+[2026-05-12 05:59 PM] rsulfuratus: in general i have found that the timeline can be a pain to edit in the recap. the granularity is high and collapsing segments is a bit annoying. so i often just edit that in the 01-session-info. 
+    
+    the python script by default won't overwrite the generated files if they exist; has an `--overwrite` mode and an `--update`. update just adds slots that are missing and doesn't touch slots that exist
+[2026-05-12 06:00 PM] rsulfuratus: yeah that fixed it. pushed update
+[2026-05-12 06:01 PM] rsulfuratus: but for example if you want to clean up the generated timeline at this stage, i'd do it in the 01-session-info and then just rerun the templater script
+[2026-05-12 06:02 PM] rsulfuratus: or if you want to add the `## Preludes` back i'd just do it in the note itself, just then if you regenerate the template it will be erased
+[2026-05-12 06:02 PM] rsulfuratus: note that i have been keeping the old session notes in the sources directory of the approprate session in `_sessions` to avoid clutter
+[2026-05-12 06:03 PM] Deciusmus: So what's your view on permenance? that is, what's the "source of truth"? is the idea that the official source of truth is the _generated/session-notes ? the actual note itself?
+[2026-05-12 06:04 PM] rsulfuratus: i think the _generated/session-notes is the source of truth. i would likely only change formatting or linking in the actual note
+[2026-05-12 06:04 PM] Deciusmus: but _sessions is not worth touching -- it is there as work product but is meaningless once the _generated is in good shape?
+[2026-05-12 06:05 PM] rsulfuratus: more or less, yes. the transcript/raw source still lives in _sessions.
+[2026-05-12 06:05 PM] Deciusmus: sure
+[2026-05-12 06:06 PM] Deciusmus: so for example, if I was going to use this for cleanseau one of the key steps would be updating _something_ with real names, rather than placeholders
+[2026-05-12 06:06 PM] Deciusmus: is this something the agentic workflow attempts to do?
+[2026-05-12 06:06 PM] rsulfuratus: no, it just attempts to catalog npcs.
+[2026-05-12 06:06 PM] rsulfuratus: the right place to do that is in the session recap, most likely
+[2026-05-12 06:06 PM] Deciusmus: right so i.e. in session 30 cleanseau, I actually have names for all the kobolds
+[2026-05-12 06:07 PM] rsulfuratus: for transcripts the agentic pipeline does look in the vault and try to figure out who you meant. so if you have transcipts for anything, it is helpful to have a note for the thing too
+[2026-05-12 06:07 PM] rsulfuratus: but for cleenseau it is more you just have a player descrition not a name
+[2026-05-12 06:07 PM] Deciusmus: right
+[2026-05-12 06:09 PM] rsulfuratus: this is likely best done on the session recap then. if you look at like chasm 005 it gives damaged custodian automation, lightning shrouded orc, and god caller orc as npcs
+[2026-05-12 06:09 PM] rsulfuratus: so it is pretty good at pulling out characters generally
+[2026-05-12 06:09 PM] rsulfuratus: the only slight tricky thing is that the python script won't backfill changes to the cast/npc section to the narrative, which makes linking harder
+[2026-05-12 06:10 PM] rsulfuratus: that is probably an agentic task
+[2026-05-12 06:10 PM] Deciusmus: right
+[2026-05-12 06:10 PM] Deciusmus: are your agentic skills anywhere?
+[2026-05-12 06:11 PM] rsulfuratus: yes they are in taelgar-utils let me make sure they are pushed
+[2026-05-12 06:11 PM] Deciusmus: in some cases, for something like cleenseau the best approach might be to update the blog post with names before running the agentic workflow
+[2026-05-12 06:11 PM] Deciusmus: although I'm not going to look at that tonight
+[2026-05-12 06:12 PM] Deciusmus: As an aside, I don't think we ever figured out how to handle time-shifts and other anomolies in timelines
+[2026-05-12 06:13 PM] rsulfuratus: i pushed the skills. they are on the codex/refactor branch of taelgar-utils
+[2026-05-12 06:14 PM] rsulfuratus: there is a session-note-prep orchestrator skill that should more or less be clear what is going on
+[2026-05-12 06:15 PM] Deciusmus: in the recap, the final NPC list is build from the combo of the beats npcs + the cast/npc list?
+[2026-05-12 06:15 PM] rsulfuratus: in which recap? session-recap.md? that is agent generated, not deterministic
+    
+    the _generated session components are from just the npc list
+[2026-05-12 06:16 PM] Deciusmus: sorry, so I am looking at _sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-session-recap
+[2026-05-12 06:17 PM] Deciusmus: and trying to clean up the NPC list
+    
+    so it has:
+    
+    ```- NPCs: Kalima, Unnamed man of Melusa, wind-creatures, shaggy white beast, shadowy beast creatures```
+[2026-05-12 06:17 PM] Deciusmus: in the Timeilne section
+[2026-05-12 06:17 PM] Deciusmus: ```- NPCs: Unnamed man of Melusa, Kalima```
+    
+    in the recap-004 section
+[2026-05-12 06:17 PM] Deciusmus: and then:
+    
+    ```## Cast
+    
+    ### NPCs
+    
+    - Kalima (companion): frightened guide
+      - Zeyfa's Labyrinth, 1730-01-25
+    - Unnamed man of Melusa (met): dead sacrifice questioned with magic
+      - Zeyfa's Labyrinth, 1730-01-25
+    - wind-creatures (met): shadowy hunters sweeping the blizzard rooms
+      - Zeyfa's Labyrinth, 1730-01-25
+    - shaggy white beast (met): revealed minion in the black-stone chamber
+      - Zeyfa's Labyrinth, 1730-01-25
+    - Zeyfa (mentioned): cruel west wind tied to sacrifice and the labyrinth
+    - Melua (mentioned): waterfall Kestavo recalled from halfling memory
+    ```
+[2026-05-12 06:17 PM] Deciusmus: at the bottom
+[2026-05-12 06:18 PM] rsulfuratus: the python script only looks at the ### NPCs header at the bottom
+[2026-05-12 06:18 PM] Deciusmus: so which parts of the recap are actually read? do I need to fix the recap headers at all?
+[2026-05-12 06:18 PM] rsulfuratus: the only part of the recap sections that are read are the narrative blocks
+[2026-05-12 06:19 PM] Deciusmus: ok so all of this is meaningless?
+    
+    ```### recap-001 | Into the Labyrinth
+    
+    - Kind: beat
+    - Beat IDs: beat-001
+    - Date: 1730-01-25
+    - Time: afternoon
+    - Source Range: u0001 ->` u0308
+    - Locations: Zeyfa's Labyrinth
+    - NPCs: Kalima
+    - Organizations: none
+    - Items: Romil's token
+    - Enemies: none
+    ````
+[2026-05-12 06:19 PM] rsulfuratus: the python script reads:
+    - the entire session header
+    - the timeline key and the short text for each timeline block
+    - the narrative blocks for each recap
+    - the npcs, locations, organizations, items, combat from the end
+[2026-05-12 06:20 PM] rsulfuratus: the recap stuff is for agent tracking. sometimes it would skip recaps so i have a validator that checks it didn't miss anything
+[2026-05-12 06:20 PM] Deciusmus: right
+[2026-05-12 06:20 PM] Deciusmus: I notice nothing is linked in the recap
+[2026-05-12 06:21 PM] rsulfuratus: the templater script auto-links
+[2026-05-12 06:21 PM] Deciusmus: I assume the python script tries to link?
+[2026-05-12 06:22 PM] rsulfuratus: but i do also sometimes add links for things that auto-linking won't catch
+[2026-05-12 06:22 PM] rsulfuratus: you can see in the mawar notes for example
+[2026-05-12 06:24 PM] rsulfuratus: sort of arbitrary where you add links, can be in any of session-recap, _generated, or final note. the python code will carry over wikilinks and aliased links properly
+[2026-05-12 06:24 PM] rsulfuratus: i am going to cook dinner now but i'll be working more on stuff later
+[2026-05-12 06:25 PM] Deciusmus: I am also going to go cook dinner; I'm not sure I will actually do anything productive but I'm at least close to seeing how it all works

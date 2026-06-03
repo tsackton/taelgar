@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/check/errors]
+tags: [group, status/check/errors, status/check/ai]
 typeOf: clan
 ancestry: hobgoblin
 dm_notes: important
@@ -15,7 +15,7 @@ dm_owner: joint
 
 %% I have some notes from sketching out battles where undead would have risen from, and some similar information, mostly about the hobgoblin wars, but that should be reviewed to see if it is relevant here
 
-This does not currently align with [[Discord Chat - Grand Sweep of History]] which postulates that the Shattered Ice Clan is behind all three hobgoblin wars in Sembara, and that the only war that is not them is the [[Sentinel Range War]].
+This does not currently align with [[2023-01-05 - Grand Sweep of History]]; [[2023-10-29 - Grand Sweep of History]]; [[2023-10-30 - Grand Sweep of History]] which postulates that the Shattered Ice Clan is behind all three hobgoblin wars in Sembara, and that the only war that is not them is the [[Sentinel Range War]].
 %%
 
 The Shattered Ice Clan emerged from the [[Sentinel Range|Sentinels]] in the aftermath of the [[Great War]], establishing themselves along the [[Enst (South Fork)|South Fork]] and [[Enst (Middle Fork)|Middle Fork]] of the Enst within a generation. They became a growing threat on the border of [[Sembara]] and especially [[Duchy of Maseau|Maseau]], are were a major force behind the [[Second Hobgoblin War (Sembara)|second]] and [[Third Hobgoblin War (Sembara)|third]] hobgoblin wars. 

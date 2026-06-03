@@ -1,3 +1,8 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
+
 This document collects open questions about the multiverse and cosmology, including the metaphysics of the divine, but excluding specific questions about religion. 
 
 ## Divine Power in Taelgar
@@ -23,7 +28,7 @@ Second thought: Yendalism seems more right to me than "only those on the materia
 Third thought: A middle ground might be that everyone is wrong and the truth is that every creature native to an Echo Realm has a soul on either the plane of souls or an echo of it. Perhaps the fey access the [[Plane of Creation]] via the [[Dreamworld]]? And in fact a fey cleric doesn't worship a god, per se, just knows how to draw the power of [[Soulstuff]] from the dreamworld. Maybe all fey magic is actually [[Soulstuff]] magic (outside of fey wizards and the like) being pulled from the dreamworld, and the fey have a deep need for all creatures to dream and imagine to keep generating that power.
 
 Some discussion:
-- [[Discord Chat - Divine Power in Taelgar]]
+- [[2025-01-21 - Divine Power in Taelgar]]
 
 ## Spiritual Realms
 
@@ -41,7 +46,7 @@ One idea:
 In standard [[Mos Numena]] theology, the Spiritual Realms are depicted in a tripartite arrangement: the Mos Numena Divine Realm in the center, often shown as a wide disc fed by the upwelling of the [[Land of the Dead|River of Souls]]; the realms of the [[Embodied Gods]] as spheres surrounding the central disc; and the primal realms, on the edges. 
 
 Brainstorming notes:
-- [[Discord Chat - Multiverse]]
+- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
 
 ### Alternate Take
 
@@ -55,7 +60,7 @@ working on spiritual realms, now, and i'm actually not sure whether incorporeal 
 
 the only thing that has ever been made up and canonically exists that is associated with a human god is [[Shakun's Realm]], and that is a distinctly unusual place. it is not a place where human souls go in the afterlife, it is basically a trap for the enemies of Dunmar. so it could easily be an echo realm or a demiplane or whatever, much more like Cha'mutte's shadow realms than an Outer Plane.
 
-This line of thought continues here: [[Discord Chat - Homes of Incorporeal Gods]]
+This line of thought continues here: [[2025-01-22 - Homes of Incorporeal Gods]]
 
 ---
 

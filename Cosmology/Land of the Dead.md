@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai]
 name: Land of the Dead
 aliases: [River of Souls, Divine Veil]
 displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
@@ -75,11 +75,11 @@ Relevant open questions:
 - [[Cosmology - Open Questions]]
 
 Discussion and Brainstorming:
-- [[Discord Chat - Multiverse]]
-- [[Discord Chat - Magic]]
-- [[Discord Chat - Souls]]
-- [[Discord Chat - Funerary Traditions]]
-- [[Discord Chat - Divine Power in Taelgar]]
+- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
+- [[2024-03-21 - Magic]]; [[2024-03-23 - Magic]]; [[2024-04-27 - Magic]]
+- [[2024-02-01 - Souls]]; [[2024-02-02 - Souls]]
+- [[2024-01-27 - Funerary Traditions]]
+- [[2025-01-21 - Divine Power in Taelgar]]
 
 See also:
 - [[Metaphysics of Souls]]

@@ -1,6 +1,11 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
+
 This page captures some of the reasoning behind decisions in the [[Languages]] document.
 
-The key source for most of this is [[Discord Chat - Languages and Humanity]] which outlines a different way of thinking about languages than prior discussions.
+The key source for most of this is [[2024-07-12 - Languages and Humanity]]; [[2024-07-13 - Languages and Humanity]]; [[2024-07-14 - Languages and Humanity]]; [[2024-07-15 - Languages and Humanity]] which outlines a different way of thinking about languages than prior discussions.
 
 In particular, we decided to move Sembaran away from a purely Drankorian derivate into a more blended tongue that is fundamentally more Eastros than anything else.
 

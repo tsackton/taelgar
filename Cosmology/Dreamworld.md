@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: plane
 displayDefaults: {wSecondary: "Sometimes considered one of the <secondary:1>"}
 whereabouts: 
@@ -29,8 +29,8 @@ There are a few, limited canoical points to keep in mind when designing Dreamwor
 - The Dreamworld is supposed to be somewhat unstuck in time, and also controllable by the strong-willed. So, for example, this is how Hralgar make a "dreamworld palace" that looked like his old home but was not actually. Or how e.g. Kenzo and Rai could meet and speak in dreams. Or how time travel happened in the high school campaign. 
 
 Some discussion:
-- [[Discord Chat - Multiverse]]
-- [[Discord Chat - Souls]]
+- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
+- [[2024-02-01 - Souls]]; [[2024-02-02 - Souls]]
 
 Some notable Dunmar Frontier Dreamworld experiences:
 - [[Kenzo Spirit Journey in Bedez]]

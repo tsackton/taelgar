@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+tags: [background, status/check/ai]
 excludePublish: ["all"]
 dm_owner: joint
 dm_notes: none
@@ -16,7 +16,7 @@ In Game:
 - [[Session 81 (DuFr)]] - note the importance of the full moon to destroying the scepter
 
 Discussions / Out of Game:
-- [[Discord Chat - Moon]]
+- [[2023-12-07 - Moon]]; [[2024-09-23 - Moon]]
 
 ### Dunmar Frontier Werewolf Arc
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai]
 displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
 whereabouts: 
 - {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
@@ -33,6 +33,6 @@ Relevant open questions:
 - [[Cosmology - Open Questions]]
 
 Discussion:
-- [[Discord Chat - Divine Power in Taelgar]]
+- [[2025-01-21 - Divine Power in Taelgar]]
 
 %%^End%%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: plane
 displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
 whereabouts: 
@@ -22,8 +22,8 @@ The Plane of Creation plays a meaningful role in the magic of Taelgar, as the ul
 
 - [[Magic in Taelgar]]
 - [[Soulstuff]]
-- [[Discord Chat - Multiverse]]
-- [[Discord Chat - Divine Power in Taelgar]]
+- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
+- [[2025-01-21 - Divine Power in Taelgar]]
 - [[Riving]]
 - [[Riving]]
 

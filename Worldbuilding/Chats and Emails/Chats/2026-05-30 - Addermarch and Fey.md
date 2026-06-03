@@ -1,0 +1,38 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
+
+# 2026-05-30 - Addermarch and Fey
+
+%% Source cleanup: promoted from reviewed incoming note `2026-05-30.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
+
+[2026-05-30 11:17 AM] rsulfuratus: i am doing an experiment in a little more intentional adventure design and a little more organized notes. i put an adventure design template in `_dm_notes` based on the Angry GM stuff if it is useful to you
+[2026-05-30 03:14 PM] Deciusmus: I’m doing a bit of prep for my game tomorrow which is the “find a way into serenveil” and then some roleplaying in twilights grace. 
+    
+    My thinking on the border of serenveil—
+    
+    Three layers of mists. The mists of illusion/desire “you want to go somewhere else”. 
+    
+    The mists of forgetting “you can’t remember why you are going here at all”
+    
+    The mists of fear “if you keep going something horrible is going to happen”
+    
+    I don’t quite have the game mechanics worked out but does that kind of vibe feel right? I’m imagining a barrowdowns in the fog kind of vibe - stumbling forward etc but where the mists themselves are trying to keep you from moving forward
+[2026-05-30 03:16 PM] Deciusmus: I’m also imagining some set or single “warden of the mists” but I don’t really imagine serenveil has an army or anything on the duskmire border. I’m thinking more like several independent manors/castles
+[2026-05-30 03:17 PM] Deciusmus: I don’t have a good sense of what serenveil itself is like though
+[2026-05-30 03:20 PM] rsulfuratus: i haven't given much thought to Twilight's Edge (Serenveil's domain)
+[2026-05-30 03:22 PM] rsulfuratus: i think the basic vibe of Serenveil himself is kind of aloof and mysterious, in a way. my inclination/feeling is that he is more kind of wild/wilderness tuned than manors and fey courts
+[2026-05-30 03:25 PM] rsulfuratus: i guess i think the twilight's edge vibe is windswept hills drenched in the last rays of the setting sun, and forested valleys already in shadow. very little of it is built up, and probably mostly trackless.
+[2026-05-30 03:25 PM] rsulfuratus: i like the mists on the border idea
+[2026-05-30 03:43 PM] Deciusmus: Right. I wasn’t planning on having them meet serenveil himself just couldn’t remember the domain name
+[2026-05-30 03:43 PM] Deciusmus: So maybe more like a border camp than a manor
+[2026-05-30 03:45 PM] rsulfuratus: yeah maybe a fort or something but less formal
+[2026-05-30 03:45 PM] rsulfuratus: a border keep
+[2026-05-30 03:45 PM] rsulfuratus: but not like a classic "fey manor"
+[2026-05-30 04:05 PM] rsulfuratus: fyi i also image the eastern edge of serenveil's domain is the sunset gate
+[2026-05-30 04:09 PM] Deciusmus: Yes
+[2026-05-30 04:10 PM] Deciusmus: I’m envisioning a hill fort along the top of a ridge with rough wooden walls and ravens or owls as scouts and a hunting camp-vibe tents and bonfires in the valley beneath it
+[2026-05-30 04:17 PM] rsulfuratus: yeah that seems perfect
+[2026-05-30 04:21 PM] Deciusmus: With five fey siblings in charge of the camp who ride elks or deer and hunt intruders, when they appear, and beasts of the forest (but perhaps they bring them back the life after they hunt them in some kind of cycle); and are kinda wild and unpredictable.  A little bit of “Greek cults of pan” and celebrating the hunt around the bonfire
+[2026-05-30 04:22 PM] rsulfuratus: i like that

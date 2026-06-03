@@ -1,0 +1,21 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
+
+# 2024-07-25 - Deep History
+
+%% Source cleanup: extracted from old cleaned Discord source `Discord Chat - Deep History.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
+
+[7/25/2024 1:39 PM] rsulfuratus
+pushed a rewrite of the history of taelgar (to history-rewrite) branch that restructures age of divinity into four eras:
+- growth of humanity from ~1500-2200, when not much happens, basically pre-history
+- contact with elder folk from ~2200-2500, when arcane magic + idea of incorporeal gods triggers massive social and cultural change on hkar
+- migrations and emigration, from ~2500-3500, starting with the northerner departures and ending with the marniner departures, with at least one (the southerener) migration in between, but possibly more
+- arcane hegemony, from ~3500-4122, when the arcane urban culture gets very powerful, mos numena develops, etc; ends with downfall
+
+[7/25/2024 1:42 PM] rsulfuratus
+logic is basically that contact with elder folk / introduction of arcane magic breaks a long period of status and the social change associated triggers people to start leaving. northerners would be the last of the "small gods" people, after they depart hkar is all pantheonic. mariners are potentially the last (major) non-mos-numena culture, after they leave mos numena gets increaasingly strong and other religious communities (e.g., dunmari?) get increasingly isolated, tend to leave
+
+[7/25/2024 1:42 PM] rsulfuratus
+the dates are not precise in the doc I pushed and could be shifted

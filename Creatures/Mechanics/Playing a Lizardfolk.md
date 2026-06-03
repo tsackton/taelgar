@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta, status/check/mike]
+tags: [meta, status/check/mike, status/check/ai]
 dm_owner: joint
 dm_notes: none
 ---
@@ -91,10 +91,10 @@ When you reach character level 3, you can beseech your ancestors for aid using o
 - [ ] D&D Beyond Text -> Link to Taelgarverse needs to be updated to point to this page when it is pushed.
 
 **Discussions/Sources**:
-[[Discord Chat - Species]]
-[[Discord Chat - Lizardfolk]]
-[[Discord Chat - Historical Framework Pre Downfall]] (notes on ancient lizardfolk swamp)
-[[Discord Chat - Non-humans in Sembara]] (land holding)
+[[2023-10-30 - Species]]; [[2023-10-31 - Species]]; [[2024-07-26 - Species]]; [[2024-09-04 - Species]]
+[[2024-02-12 - Lizardfolk]]
+[[2025-01-21 - Historical Framework Pre Downfall]] (notes on ancient lizardfolk swamp)
+[[2024-01-05 - Non-humans in Sembara]] (land holding)
 [[Email  - Taelgar Races]] 
 [[Email - A Few Thoughts on Taelgar Races]]
 [[Email - Brief Thoughts on Elder Races]]

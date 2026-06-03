@@ -1,0 +1,243 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
+
+# 2025-11-26 - Sembara History
+
+%% Source cleanup: promoted from reviewed incoming note `2025-11-26.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
+
+[2025-11-26 12:25 PM] rsulfuratus: i'm going for a run and doing some errands for the next ~2 hours but i just pushed some comments and thoughts on sembaran history in the timeline of sembara history (just adding notes/comments, no text edits really)
+[2025-11-26 12:27 PM] rsulfuratus: proposing to actually reframe post-Drankor history as 1059-1352 (plague until the avatan resource wars start), and then 1353-1462 (avatan resources wars through death of derik i). more details in the note
+[2025-11-26 12:27 PM] rsulfuratus: will be working on photos + taelgar later this afternoon
+[2025-11-26 02:54 PM] Deciusmus: I am taking a little break before I finish my last few work things and am reviewing
+[2025-11-26 03:17 PM] rsulfuratus: I was actually thinking about a more coherent format for history pages - more in a bit
+[2025-11-26 03:37 PM] rsulfuratus: you might be back at work already but here is my proposal. 
+    
+    we both like inventing complicated histories, often for fun but also often in service of designing cities/dungeons/ruins/treasure hoards etc. but it can be very hard to tell looking back what is intended to be strictly canonical; what is intended to be roughly true in vibes but not necessarily anchored to specific dates/events; what is just kind of noodling around. 
+    
+    furthermore, another complication is that some things are fixed, either because they are the scaffold of a lot of other worldbuilding or because changing them would require retconning campaign events; but other things even if they technically speaking written as canonical are not actually fixed in that changing them wouldn't actually require any retconning elsewhere.
+    
+    i think this kind of nebulous status is particularly challenging around history, because it interlocks and has wide impacts
+    
+    the advantage of history, though, is that it is often fractal, in that you can describe a very big picture sequence at a very high level, but that can be more or less infinitely zoomed. 
+    
+    furthermore, history in-world is often ambiguious and not perfectly known, which means that in many cases small "retcons" just reflect imperfect in-world knowledge, but big retcons are difficult and require a lot of meta-gaming.
+[2025-11-26 03:37 PM] Deciusmus: I actually got distracted reviewing a doc, so am only just starting to look at Taelgar
+[2025-11-26 03:38 PM] Deciusmus: but I agree with the above
+[2025-11-26 03:38 PM] rsulfuratus: so, my proposal - the way we currently document history is, imo, ill-suited to these facts. 
+    
+    i'm not quite sure exactly the best solution that doesn't limit creativity
+[2025-11-26 03:39 PM] rsulfuratus: but, fundamentally, i think it impilies more of a cosmology-style treatment of history in general, though probably not quite to the extent of invented scholary controveries
+[2025-11-26 03:39 PM] Deciusmus: Although I would add that having a detailed history in place that is roughly canonical is useful for random questions from players also, gives an anchoring to the world that makes it easy to invent stuff on the fly
+[2025-11-26 03:39 PM] rsulfuratus: sure, i don't disagree with that
+[2025-11-26 03:40 PM] Deciusmus: I'm not sure about the cosmology treatment though
+[2025-11-26 03:40 PM] rsulfuratus: i guess i don't mean "in world academic pages", i mean "extensive dm notes and relatively minimal player facing pages"
+[2025-11-26 03:41 PM] Deciusmus: Right, I do think a lot of the history pages are better unpublished for the most part
+[2025-11-26 03:42 PM] rsulfuratus: well, for me, it isn't so much published vs unpublished (probably no player is actually reading this stuff). but "very small body of clearly canonical facts" plus "lots of notes"
+[2025-11-26 03:42 PM] Deciusmus: Kiya definitely does, she has pointed out places where ~some unnamed thing~ actually got named in session and I didn't fix it on the website 🙂
+[2025-11-26 03:43 PM] Deciusmus: but probably mostly stuff related to imediate game things or Celyn's background
+[2025-11-26 03:43 PM] Deciusmus: but anyway
+[2025-11-26 03:43 PM] rsulfuratus: ha okay well one player
+[2025-11-26 03:43 PM] rsulfuratus: i guess i also have one player who reads these things
+[2025-11-26 03:45 PM] rsulfuratus: in any case - thinking about the sembaran history page (since right now all active taelgar games touch on sembaran history) - i think it would be better to have one or two sentences for each major era that don't specify dates and that just outline the basic "start ->` end" vibes.
+[2025-11-26 03:45 PM] Deciusmus: I was thinking a little different direction...  leaning into the fractal nature.
+    
+    You could imagine, i.e. Sembara history structured as 
+    
+    # Overall Framework
+    ## Drankorian Expansion
+    brief notes on what the era is
+    More details `[Drankorian Expansion]`
+    
+    Then the Drankorian Expansion page would elaborate a bit more
+    
+    Then you'd have an event page "the treaty of blah"
+    
+    And then you could just use our existing status tagging  (or maybe we need a status/notyetcanon) for each page
+[2025-11-26 03:46 PM] Deciusmus: with the right dataview stuff it might actually work, i.e. to just have autogenerated sections
+[2025-11-26 03:47 PM] rsulfuratus: i mean that's fine too but i don't think status tags really work here
+[2025-11-26 03:47 PM] rsulfuratus: and it is really useful to have e.g. proposed dates in list/DR format so they get pulled into auto-generated timelines even if they aren't established as true
+[2025-11-26 03:49 PM] rsulfuratus: the problem with status tags is they reflect the whole document. but even the drankorian expansion is going to have a handful of canonical events (treaty with tyrwingha), a handful of ideas that may or may not work out, and a kind of "vibes-based" canon of how this plays out
+[2025-11-26 03:49 PM] Deciusmus: right.. one sec
+[2025-11-26 03:59 PM] Deciusmus: so just playing around...
+    
+    Note 1: Framework
+    
+    # Historical Framework of Greater Sembara
+    This note outlines a basic framework for the history of the Greater Sembara region. It is intended to provide rough canonical guidelines for the general development, without getting into specific details about any exact event, which are developed in separate notes.
+    ## Migration Era
+    _Dates: Until the Downfall_
+    
+    The first humans to come to Greater Sembara were northerners, speaking a Northros language and traveling from the west over the Sentinels. They were later joined by the mariners, traveling from the east through the Green Sea, speaking an Eastros languages. The Tyrwinghans also have an ancient lineage and were present in the region by the end of the Migration Era, but their exact history (Eastros, Northros, or a unique migration from Hkar) is not determined.  When the humans came to the region, it was dominated by several large non-human civilizations: dwarves in the Sentinels, lizardfolk in a great swamp that stretched across the Wistel and Enst river valleys (although the exact extent is not canonical), and the elven forests to the south of what is now the Mostreve Hills.
+    
+    ## Post Downfall
+    _Dates: Downfall until DR 350_
+    ## Coming of Drankor
+    _Dates: DR 350 - DR 450_
+    
+    By the reign of Emperor [[Anates]] the burgeoning Drankorian civilization has spread northward and crossed the Mostreve Gap into the Sembaran river valleys and start to encounter both the Zimka, Tollish, and Skaer cultures. Although some sources might describe this as a conquest, in reality Drankorian rule was largely welcomed as a source of order and protection. Over a period of between 50 and 100 years, Drankor established provinces amongst the great Sembaran Rivers.
+    
+    See more [[Coming of Drankor]]
+[2025-11-26 04:00 PM] Deciusmus: note 2: Coming of Drankor
+    
+    
+    ## The Drankorian Conquest
+    DR 300 - DR 431
+    
+    
+    Over a series of start-and-start campaigns over 60 years, the Drankorian armies occupy large portions of this land. `%%` what this "conquest" looks like in practice is unclear, and may involve Sembarans willing or even eagerly joining the Drankorian Empire; the existence of the two treaties below is canonical but they are not necessarily the result of war `%%`
+    ###
+    * ((DR:: 358)): Emperor [[Anates]] campaigns around the [[Mostreve Hills]] `%%` Anates is canonically the first emperor to establish a Drankorian presence in Sembara but exact timing is not canonical `%%`
+    * (DR:: 360): Emperor [[Anates]] crosses the [[Enst]] and establishes a garrison at [[Cleenseau]]
+    * (DR:: 402): The [[Treaty of Marhavn]] is signed by Emperor [[Goristo]] 
+    * (DR:: 423): Emperor [[Goristo]] signs the [[Treaty of Tyrwingha]] with [[Archfey Ethlenn|Ethlenn]]
+    * (DR:: 468): (The Drankorian [[Highland Conquest Wars]] end with a tactical retreat by Drankor) `%%` while the fact that the highlands were never incorporated into the Drankorian Empire is canonical, the existence of the Highland Conquest wars as the reason is not `%%`
+[2025-11-26 04:01 PM] Deciusmus: Note 3:
+[2025-11-26 04:01 PM] Deciusmus: ## Highland Conquest Wars
+    
+    A series of campaigns by the Drankorian Emperor [[Empress Kylanthe]] against the Kestavan kingdoms in the foothills of the [[Sentinel Range]]. 
+    
+    `%%`
+    In the northern highlands however, and especially amongst the many lakes at the headwaters of the [[Volta]], the Drankorian armies bogged down in the cold, snowy winters, and it is said the very skies and earth rose up to defend the Highlanders. Conquest was slow and often abandoned, and in the mountain valleys the [[Mos Numena|Eight Divines]] were not widely acknowledged, and the old gods -- the *[[Kestavo]]* -- were still worshipped.
+    `%%`
+[2025-11-26 04:02 PM] Deciusmus: I'd actually prefer if the dates in the "Drankorian Conquest" section were all generated from other pages
+[2025-11-26 04:02 PM] rsulfuratus: i am not sure that solves the basic problem.
+[2025-11-26 04:03 PM] Deciusmus: so the main point is to be able to write "note 1" at a level where we can actually agree it is canonical(ish)
+[2025-11-26 04:03 PM] Deciusmus: and then fleshing out an era doesn't change "note 1"
+[2025-11-26 04:04 PM] rsulfuratus: right, okay. but this doesn't communicate if the dates 350 and 450 are important, or if the time frame is important (e.g. 50-100 years for the coming of drankor period),
+[2025-11-26 04:05 PM] rsulfuratus: maybe that is just a problem of too much detail in note 1
+[2025-11-26 04:05 PM] rsulfuratus: but i find DM Notes to be exceptionally helpful
+[2025-11-26 04:05 PM] Deciusmus: I would write note1 as basically entirely DM notes
+[2025-11-26 04:05 PM] rsulfuratus: i also think this runs into problems with the "highland conquest wars" - is it worthwhile to have a page for something that is just a brainstorming idea?
+[2025-11-26 04:06 PM] rsulfuratus: so then is there any player facing reference?
+[2025-11-26 04:08 PM] Deciusmus: I'm not sure
+[2025-11-26 04:08 PM] Deciusmus: I think having a framework background information is more useful than a player reference
+[2025-11-26 04:08 PM] Deciusmus: I find it hard to say what a player reference should look like
+[2025-11-26 04:09 PM] Deciusmus: ## Coming of Drankor
+    _Start: Canonically sometime during the reign of  [[Anates]], DR 331 - 366, but not clear when_
+    _End: No canon established, but the [[Treaty of Tyrwingha]] was canonically signed in DR 423 and likely marked close to the end of this period_
+    
+    By the reign of Emperor [[Anates]] the burgeoning Drankorian civilization has spread northward and crossed the Mostreve Gap into the Sembaran river valleys and start to encounter both the Zimka, Tollish, and Skaer cultures. Although some sources might describe this as a conquest, in reality Drankorian rule was largely welcomed as a source of order and protection. 
+    
+    See more [[Coming of Drankor]]
+[2025-11-26 04:10 PM] Deciusmus: I mean, that is only two sentences, and it probably needs a third that describes the "end state" of the period
+[2025-11-26 04:12 PM] rsulfuratus: so here is an attempt at Tollen:
+    
+    
+    ## Founding Era
+    `*`before Drankor*
+    
+    Tollen was originally settled on the north bank of the [[Volta]] long ago, when the elves still ruled vast forests far to the south, and great lizardfolk swamps occupied the land that is now [[Sembara]]. The [[Skaer]] say that the first Tollenders were their distant ancestors, a mariner people who came from [[Hkar]] on great ships and slowly explored and settled the shores of the [[Green Sea]], but it is clear that even from the beginning Tollen was a place where many cultures met and intermingled.
+    
+    `%%`^Campaign:note`%%`
+    
+    ### Basic Vibes
+    
+    Tollen is supposed to have (a) an ancient history, and (b) a long history of multiculturalism. It is certainly founded by the Skaer, but is presumably also a place where lizardfolk come, halfling traders dock, and multiple human cultures -- including the mariners, proto-Skaer, and northerners -- mix. Old Tollish presumably develops here out of an Eastros / mariner root (cf. [[Languages#Eastros Language Family]])
+    
+    
+    ### Canonical Events
+    
+    - (CY:: 3902): Tollen is founded `%%` this is not crucial to anything in play but serves as a useful anchor for worldbuilding and should be considered fixed`%%`
+    - (CY:: 4122): Downfall Wars end
+    
+    
+    `%%`^End`%%`
+[2025-11-26 04:16 PM] rsulfuratus: i think there are a few things I want:
+    - it is really, really helpful to be able to pull events from lists, because it makes grabbing the context happening elsewhere in the world easier. this means that timelines need to have lots of comments, but it is also useful to have things that aren't canon but are just rough dates in timelines, as long as that is noted
+    - it is really useful to be able to just spew out a timeline and a bunch of notes in one place (e.g Dominion of Avatus). there is an organizational / logistical overhead to chopping things into bits and adding a lot of tags. i think that for some periods in sembaran history there is a lot of detail, and the "see more here" is necessary; but for lots of places it isn't
+    - i generally don't love making notes for things that may not exist (e.g. Highland Wars)
+[2025-11-26 04:16 PM] Deciusmus: yeah, just playing around, I think you are correct
+[2025-11-26 04:17 PM] rsulfuratus: i guess my general feeling is that many places initially have a timeline of X history note, but that over time as sections get too long and need more space they get chopped out
+[2025-11-26 04:18 PM] rsulfuratus: here is also Dunmar. This is I think good for a player-facing note:
+    
+    
+    ### Aatmaji Dynasty
+    DR 1173 - DR 1395
+    
+    `*`See also: [[Timeline of the Aatmaji Dynasty]]*
+    
+    The first Samraat of Dunmar, the blessed [[Bhishma]] who became a deity after her death, founded the ruling [[Aatmaji dynasty]], which ruled Dunmar for 212 years. During this time, [[Kharsan]] was the chief administrative headquarters of the realm, and the heartland of Dunmar was centered on the Khartja river valley. The greatest dangers that threatened the new kingdom came out of the swamps of [[Drankor]], a cursed land still. The Aatmaji Dynasty ended when the Samraat Aatmaji [[Dasa]], the last of the Aatmaji rulers attempted to invade [[Drankor]], and failed, disastrously, never to return. 
+    
+    ### Dharajun Dynasty
+    DR 1403 - DR 1545
+    
+    `*`See also: [[Timeline of the Dharajun Dynasty]]*
+    
+    The [[Dharajun Dynasty]] was founded by Samraat Dharajun [[Jita]], a young woman from the [[~Songara Plains~]], skilled in battle and horsemanship. Uniting the Dunmari in the aftermath of the chaos that followed Dasa's defeat, Jita moved the administrative and religious center of the country to [[Tokra]], and ushered in a century of prosperity for the Dunmari. In the last years of the Dharajun Dynasty, the [[Hobgoblins|hobgoblin]] threat grew in the north, and extensive fortifications along the [[Stoneway]] and the [[Sone]] were constructed. The Dharajun Dynasty fell in the [[Great War]], as Dunmar faced its greatest threat.
+[2025-11-26 04:19 PM] rsulfuratus: but also it establishes a really minimal baseline canon that helps elsewhere
+[2025-11-26 04:21 PM] rsulfuratus: i'm not sure that really even needs any DM Notes, it is pretty clear the canonical beats that need to be preserved if anyone wants to invent more Dunmar history
+[2025-11-26 04:22 PM] Deciusmus: yeah, dunmar is kinda self contained so has less complexity in some places
+[2025-11-26 04:26 PM] rsulfuratus: i'm going to flesh out tollen and see how it looks, then maybe take a crack at sembara
+[2025-11-26 04:27 PM] rsulfuratus: might start sembara in a new doc just to see how it looks
+[2025-11-26 04:27 PM] rsulfuratus: or might tackle avatus instead of sembara
+[2025-11-26 04:27 PM] Deciusmus: I might push what I've been playing with
+[2025-11-26 04:27 PM] Deciusmus: give me 10 min before you do anything with sembara
+[2025-11-26 04:44 PM] Deciusmus: I pushed a "History of Greater Sembara" doc
+[2025-11-26 04:45 PM] Deciusmus: I think for this kind of doc the status tag is hard to work with, it is easier to leave status/wip (although I forgot to set that) and use comments to finalize sections
+[2025-11-26 04:46 PM] Deciusmus: I split it up into
+    ## Age of Drankor
+    _DR 400s - DR 1059_
+    
+    ## The Plague Years
+    _DR 1059 - early DR 1180s_
+    
+    ## Rise of Avatus
+    _DR 1180s - DR 1353_
+    
+    ## Unification and Growth
+    _DR 1353 - DR 1462_
+    
+    ## The Great War
+    _DR 1462 - DR 1545_
+[2025-11-26 04:46 PM] Deciusmus: the main reason for not having "Avatus" era start in 1059 is to leave a more clear blank spot in the history
+[2025-11-26 04:47 PM] rsulfuratus: i might collapse Plague Years and Rise of Avatus - Avatus doesn't really impact Sembara at all until after 1353 when he starts looking north
+[2025-11-26 04:48 PM] Deciusmus: Right, I guess if the idea is to have a separate "History of the Istaros Watershed" or something
+[2025-11-26 04:48 PM] Deciusmus: that probably makes more sense
+[2025-11-26 04:49 PM] rsulfuratus: the way i think about it is that there are certain canonical facts that have to be true by 1353 about sembara specifically - but exactly when and how wisford and sembara become more important than the rest of the six duchies is not really important for anything yet
+[2025-11-26 04:49 PM] Deciusmus: yeah you are right I'm changing it
+[2025-11-26 04:50 PM] rsulfuratus: the other thing i was thinking is that we should probably consider anything after ~1715 or so (+/- depending on the part o the world) to be "Recent Events" or "Recent History"
+[2025-11-26 04:51 PM] Deciusmus: yeah that also makes sense
+[2025-11-26 05:04 PM] rsulfuratus: a few more quick notes:
+    - i think each "history of " note should start with a comment describing the modern day areas covered
+    - i would make the top-level history directory only have "history of " notes; anything else lives in a subdirectory. the main reason not to have a subdirectory for each "history of " note is that in a lot of cases there isn't enough detail to have anything more than one note, so it is kind of clutter. i think that if there is enough detail to have sub notes, they could go in a sub page and still have the main "history of " page in the top level?
+    - events should maybe be a subdirectory of history?? not sure
+    - "history of "notes should be considered the ultimate source of canon if there are conflicts, so we should be careful
+[2025-11-26 05:04 PM] Deciusmus: yeah, agreed
+[2025-11-26 05:06 PM] rsulfuratus: also not sure they need to be "excludePublish: `["all"]`"? at least once cleaned up
+[2025-11-26 05:07 PM] Deciusmus: yeah, agree, didn't mean to keep that
+[2025-11-26 05:07 PM] rsulfuratus: do you have anything unpushed? i'm going to do a quick history directory cleanup
+[2025-11-26 05:07 PM] Deciusmus: give me 30 seconds
+[2025-11-26 05:08 PM] rsulfuratus: not moving events for now - not sure what the best place for them is actually
+[2025-11-26 05:09 PM] Deciusmus: ok i pushed a slightly improved history of greater sembara
+[2025-11-26 05:14 PM] rsulfuratus: pushed reorg
+[2025-11-26 05:15 PM] rsulfuratus: kept Drankorian Empire separate but this needs a bit of work/cleanup, mostly from me. all other historical realms are in historical realms. in top level are "history of " (new format, canonical) and "timeline of " (older, scattered in places)
+[2025-11-26 05:16 PM] rsulfuratus: moved Third Hobgoblin War (Sembara) to Events but can consider whether/how to integrate events and history
+[2025-11-26 05:22 PM] Deciusmus: I would move pre-downfall to historal realms
+[2025-11-26 05:22 PM] rsulfuratus: oh. yeah, didn't look at what was in there
+[2025-11-26 05:23 PM] Deciusmus: I also think it might be useful to move some of the "historical framework" stuff to History/Background rather than Background
+[2025-11-26 05:23 PM] rsulfuratus: yeah
+[2025-11-26 05:23 PM] Deciusmus: it is going to be easier, if working ona  refactor to see that way I think
+[2025-11-26 05:23 PM] rsulfuratus: i pushed pre-downfall to historical realms but am now looking at tollen so feel free to make history/background if you want
+[2025-11-26 05:52 PM] rsulfuratus: i'm going to take isaac to netrunner at Aeronaut but later tonight i will likely rewrite the history landing page to be list the cosmology and creatures landing pages (a map of content in the history directory), and then add a brief "history of taelgar" with the current content or something. 
+    
+    i also have tollen in progress, but actually there is not a ton of history. going to also try to clean up dunmar and other places with decent amounts of actual invention (apporia / illoria / chardon)
+    
+    need to decent how we want to manage:
+    - history of and other pages in the history directory
+    - "history" sections on gazetter pages
+    - events
+    
+    i guess plausibly all have their uses and there doesn't neeed to be a consistent proscription, but worth thinking about. 
+    
+    anyway - more later
+[2025-11-26 05:55 PM] Deciusmus: In general I’m more interested in having good history page for sembara and zimkovan (which requires some invention and which might be relevant in great chasm) than meta. I think long term a good set of history pages , like the region pages, means we can delete the history section in gazetteer
+[2025-11-26 05:56 PM] Deciusmus: Although in some cases that might not work ie a “history of Cleenseau” or something. But maybe that could just move to the history section with a link
+[2025-11-26 06:18 PM] rsulfuratus: Right that makes sense
+[2025-11-26 06:20 PM] rsulfuratus: I’m mostly interested in reducing inconsistency and trying to do consistent cleanup. I want to start campaign 3 with everything really clean
+[2025-11-26 10:06 PM] rsulfuratus: pushed what feels like a final history of tollen doc; relatively easy to complete because there is not a ton of history
+[2025-11-26 10:07 PM] rsulfuratus: i'll probably bounce over to rewrite the tollen gazetteer page as well for completeness and consistency
+[2025-11-26 10:07 PM] rsulfuratus: and also tackle skaer history, which is similarly shallow but has some key impacts on tollen
+[2025-11-26 10:08 PM] rsulfuratus: to me it feels much easier to use but i invented all this so i tagged status/check/mike in case there are unclear bit
+[2025-11-26 10:08 PM] rsulfuratus: `*`bits

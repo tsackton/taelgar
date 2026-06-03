@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [ancestry, status/check/mike]
+tags: [ancestry, status/check/mike, status/check/ai]
 displayDefaults: {defArt: the, boxInfo: <partOf:1UA> culture, wHome: ""}
 name: Zimka
 partOf: Northerners
@@ -80,7 +80,7 @@ Zimka society is local first. Villages, shrines, families, clans, river valleys,
 
 %%^Campaign:none%%
 
-Important discussion in [[Discord Chat - Zimkova]]. Probably others but didn't search too hard. 
+Important discussion in [[2023-11-21 - Zimkova]]; [[2024-01-17 - Zimkova]]. Probably others but didn't search too hard. 
 
 Some context in [[Into the Chasm Intros]]
 
