@@ -205,7 +205,19 @@ Ayveen and Edric find a sleeping human and then a sober tiger-headed guest on th
 #### Long
 Inside the manor, Ayveen and Edric find one obvious mortal sleeping behind a couch and another on the back porch: a massive tiger-headed guest in a waistcoat and smoking jacket, alert in a way the other partygoers are not. He invites them to sit and says he has pieced together why the party is ending. His first price is a month and a day in Ayveen's home in Tollen, but she hesitates long enough to negotiate him down to keys. Tarek arrives, produces keys to the museum, and the Rakshasa selects three.
 
-The story he buys with those keys is the heart of the house. He came to the Twilight Kingdom seeking lost things and learned from guests that, at the height of the party, the neighbors came to Lord Revel Beginning and asked him to send mortal guests to their house. Gifts and stories failed, so a wizard challenged Revel to a contest of naming. Revel named his estate as a party beginning, but the wizard named what it would become: wide lawns askew, lanterns low, a party ending, Lord Endless Ending. The name took hold, and ever since the house has remained in that moment while the Lord sends mortal guests down the road when the grandfather clock chimes.
+The story he buys with those keys is the heart of the house. He came to the Twilight Kingdom seeking lost things and learned from guests that, at the height of the party, the neighbors came to Lord Revel Beginning and asked him to send mortal guests to their house. Gifts and stories failed, so a wizard challenged Revel to a contest of naming. Revel named his estate:
+
+*Wide lawns, spread down easy. 
+Hanging lanterns welcome you. 
+A party begins*
+
+But the wizard named what it would become: 
+
+*Wide lawns gone askew. 
+Hanging lanterns flicker low. 
+A party ending*
+
+Lord Endless Ending. The name took hold, and ever since the house has remained in that moment while the Lord sends mortal guests down the road when the grandfather clock chimes.
 
 ### recap-008 | The Truce Theory
 
