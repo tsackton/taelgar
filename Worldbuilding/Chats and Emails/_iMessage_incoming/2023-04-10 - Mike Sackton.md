@@ -1,9 +1,24 @@
 ---
 headerVersion: 2023.11.25
 tags: [status/check/ai]
+classification: worldbuilding-mixed
+action: promote-after-cleanup
 ---
 # iMessage - Mike Sackton - 2023-04-10
 
+## Incoming Cleanup Review
+
+```yaml
+source: "iMessage"
+date: "2023-04-10"
+proposed_subject: "Dunmar Session Branching and Sura"
+split_needed: "no"
+proposed_promoted_notes: 
+  - "2023-04-10 - Dunmar Session Branching and Sura"
+replaces_discord_notes: []
+confidence: "medium"
+notes: "Session logistics with in-world strategic choices."
+```
 %% Source: `+17814051318 msackton@gmail.com.txt`. Retained D&D-related messages from a mixed family/iMessage thread; non-D&D messages omitted. %%
 
 ## 2023-04-10

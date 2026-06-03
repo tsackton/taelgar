@@ -1,9 +1,24 @@
 ---
 headerVersion: 2023.11.25
 tags: [status/check/ai]
+classification: worldbuilding
+action: promote
 ---
 # iMessage - Mike Sackton - 2020-10-12
 
+## Incoming Cleanup Review
+
+```yaml
+source: "iMessage"
+date: "2020-10-12"
+proposed_subject: "Taelgar Dating Systems"
+split_needed: "no"
+proposed_promoted_notes: 
+  - "2020-10-12 - Taelgar Dating Systems"
+replaces_discord_notes: []
+confidence: "high"
+notes: "In-world dating/calendar discussion."
+```
 %% Source: `+17814051318 msackton@gmail.com.txt`. Retained D&D-related messages from a mixed family/iMessage thread; non-D&D messages omitted. %%
 
 ## 2020-10-12
