@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+tags: [background, status/check/ai]
 excludePublish: ["all"]
 dm_owner: joint
 dm_notes: none
@@ -12,13 +12,13 @@ dm_notes: none
 The Divine Spark is the power that allows humanity to create Incorporeal Gods, more or less. 
 
 There is a lot of brainstorming on this:
-- [[Discord Chat - Deep History]]
-- [[Discord Chat - Multiverse]]
-- [[Discord Chat - Homes of Incorporeal Gods]]
+- [[2024-07-15 - Deep History]]; [[2024-07-16 - Deep History]]; [[2024-07-18 - Deep History]]; [[2024-07-25 - Deep History]]
+- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
+- [[2025-01-22 - Homes of Incorporeal Gods]]
 - [[History of Humanity Notes]]
 
 Some possible context around the not-yet-developed "worship Divine Presence Directly Religion":
-- [[Discord Chat - Green Sea]]
+- [[2023-12-26 - Green Sea]]
 - [[Email - Basic Sketch of Eastern Religion]]
 - [[Email - Eastern Religion II]]
 - [[Email - Human Religions in MTP]]

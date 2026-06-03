@@ -1,5 +1,5 @@
 ---
-tags: [background]
+tags: [background, status/check/ai]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
@@ -25,14 +25,14 @@ A fey gate in Cleenseau Wood is currently the focus of his efforts. Additionally
 These notes are not fully canonical; there is lots of discussion on Discord re: this topic 
 
 Primary Discord conversations:
-- [[Discord Chat - Ethlenn and Umbraeth]]
-- [[Discord Chat - Fey Realms]]
-- [[Discord Chat - Tyrwingha]]
-- [[Discord Chat - Fey and Tyrwingha]]
+- [[2024-09-25 - Ethlenn and Umbraeth]]; [[2024-10-03 - Ethlenn and Umbraeth]]; [[2024-10-04 - Ethlenn and Umbraeth]]; [[2024-10-10 - Ethlenn and Umbraeth]]; [[2024-10-16 - Ethlenn and Umbraeth]]; [[2024-11-19 - Ethlenn and Umbraeth]]; [[2025-01-15 - Ethlenn and Umbraeth]]; [[2024-09-16 - Ethlenn and Umbraeth]]
+- [[2023-12-23 - Fey Realms]]; [[2023-12-26 - Fey Realms]]; [[2023-12-28 - Fey Realms]]; [[2023-12-29 - Fey Realms]]; [[2024-01-02 - Fey Realms]]
+- [[2024-03-15 - Tyrwingha]]; [[2024-03-16 - Tyrwingha]]; [[2024-03-17 - Tyrwingha]]
+- [[2024-03-24 - Fey and Tyrwingha]]
 
 Also touched upon in:
-- [[Discord Chat - Addermarch]]
-- [[Discord Chat - de Brunes]]
+- [[2024-09-01 - Addermarch]]; [[2024-09-02 - Addermarch]]; [[2024-09-10 - Addermarch]]
+- [[2024-09-08 - de Brunes]]
 - [[Email - Sketch of Tyrwinghan Religion]]
 
 %%^End%%

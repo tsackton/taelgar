@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [power, religion/elven]
+tags: [power, religion/elven, status/check/ai]
 typeOf: embodied god
 dm_owner: joint
 dm_notes: none
@@ -18,8 +18,8 @@ There is very little that has been definitively established, other than a "tree 
 The large trees in the elven forest are reminiscent of Aldanor in a way. If gendered, probably he. 
 
 Discord discussions:
-- [[Discord Chat - Elves]]
-- [[Discord Chat - Elven Memorials]]
+- [[2023-10-30 - Elves]]; [[2023-11-03 - Elves]]; [[2023-11-05 - Elves]]; [[2024-02-01 - Elves]]; [[2024-11-19 - Elves]]
+- [[2024-09-02 - Elven Memorials]]
 
 Some potentially relevant brainstorming in:
 - [[Notes on Elven Society]]

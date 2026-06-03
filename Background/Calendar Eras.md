@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+tags: [background, status/check/ai]
 dm_owner: joint
 dm_notes: none
 ---
@@ -8,13 +8,13 @@ dm_notes: none
 
 %% brainstorming - some about months, not actually calendar eras, here:
 
-- [[Discord Chat - Calendars]] 
+- [[2023-01-07 - Calendars]]; [[2023-08-09 - Calendars]] 
 - [[Dwarven Calendar - Ideas]]
 - [[Hkar Calendar - Ideas]]
 - [[Drankorian Calendar - Ideas]]
-- [[Discord Chat - Dwarven Calendar]]
-- [[Discord Chat - Hkaran Calendar]]
-- [[Discord Chat - Calendars]]
+- [[2023-12-05 - Dwarven Calendar]]; [[2023-12-06 - Dwarven Calendar]]
+- [[2023-12-19 - Hkaran Calendar]]
+- [[2023-01-07 - Calendars]]; [[2023-08-09 - Calendars]]
 
 %%
 

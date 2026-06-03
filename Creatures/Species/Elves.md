@@ -1,5 +1,5 @@
 ---
-tags: [status/wip, creature]
+tags: [status/wip, creature, status/check/ai]
 name: Elves
 aliases: [elf, elves, Elf, Elves, elven, Elven, elvish]
 dm_owner: joint
@@ -46,8 +46,8 @@ For some Elves, this means a further turn inward, and a desire to retreat from e
 Because they see themselves as the caretakers of the world, and the oldest and wisest of races, Elves tend to view other races, even long-lived ones like Stoneborn and Dwarves, as children. Sometimes, this manifests as a haughty aloofness, other times as a caring presence, but it is always hard for Elves to treat other races as equals.
 
 %% main Discord conversations
-- [[Discord Chat - Elves]]
-- [[Discord Chat - Species]]
+- [[2023-10-30 - Elves]]; [[2023-11-03 - Elves]]; [[2023-11-05 - Elves]]; [[2024-02-01 - Elves]]; [[2024-11-19 - Elves]]
+- [[2023-10-30 - Species]]; [[2023-10-31 - Species]]; [[2024-07-26 - Species]]; [[2024-09-04 - Species]]
 
 Tons of other backlinks and unlinked mentions, but not all will be relevant
 

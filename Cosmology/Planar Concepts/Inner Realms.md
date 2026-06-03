@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+tags: [background, status/check/ai]
 dm_owner: none
 dm_notes: none
 ---
@@ -15,7 +15,7 @@ The Inner Realms are a concept proposed by [[Yendalism|followers]] of the [[Ston
 The Inner Realms - whatever the metaphysical truth of this classification - are metaphysically important as creatures native to these planes generally die when killed and their soul departs, whereas creatures native to the [[Outer Realms]] cannot be killed except on their native plane (if they are killed elsewhere, they simply reform on their native plane), and if they are killed on their native plane, cease to exist entirely. 
 
 Relavant notes:
-- [[Discord Chat - Multiverse]]
+- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
 - [[Creature Rules in Taelgar]]
 
 %%^End%%

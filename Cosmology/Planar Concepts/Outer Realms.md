@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+tags: [background, status/check/ai]
 dm_owner: none
 dm_notes: none
 ---
@@ -17,9 +17,9 @@ The Outer Realms - whatever the metaphysical truth of this classification - are 
 These planes are also made of, and sustained by, [[Soulstuff]]. 
 
 Relevant brainstorming and other notes:
-- [[Discord Chat - Multiverse]]
-- [[Discord Chat - Souls]]
-- [[Discord Chat - Funerary Traditions]]
+- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
+- [[2024-02-01 - Souls]]; [[2024-02-02 - Souls]]
+- [[2024-01-27 - Funerary Traditions]]
 - [[Extraplanar Natives]]
 - [[Metaphysics of Souls]]
 

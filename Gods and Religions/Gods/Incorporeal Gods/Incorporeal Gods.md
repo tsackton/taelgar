@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/mike, status/check/tim]
+tags: [background, status/check/mike, status/check/tim, status/check/ai]
 aliases: [incorporeal god]
 dm_owner: none
 dm_notes: important
@@ -9,7 +9,7 @@ dm_notes: important
 
 %% tagging status/tim, status/mike as there are some decisions that probably should be made about the metaphysics of different types of gods. might need a better tag for "unclear cannon that needs to be decided" %%
 
-%% see: [[Discord Chat - Homes of Incorporeal Gods]] %%
+%% see: [[2025-01-22 - Homes of Incorporeal Gods]] %%
 
 The Incorporeal Gods are the deities of belief, the many divinities that came into being through the power of the divine spark of humanity. These gods are sustained by the power of their human worshippers. While they can be very powerful, and have the strength to act in the world itself, their power in the material world waxes and wanes with the strength of their worshippers’ belief. 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/name]
+tags: [background, status/check/name, status/check/ai]
 excludePublish: ["all"]
 dm_owner: joint
 dm_notes: none
@@ -16,9 +16,9 @@ A few things are established:
 - Soulstuff is somehow connected to divine power, and channeling it past the [[Land of the Dead]] is difficult, although not necessarily impossible. 
 
 Lots of relevant discussion:
-- [[Discord Chat - Divine Power in Taelgar]]
-- [[Discord Chat - Homes of Incorporeal Gods]]
-- [[Discord Chat - Multiverse]]
+- [[2025-01-21 - Divine Power in Taelgar]]
+- [[2025-01-22 - Homes of Incorporeal Gods]]
+- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
 
 Some relevant open questions:
 - [[Cosmology - Open Questions]]

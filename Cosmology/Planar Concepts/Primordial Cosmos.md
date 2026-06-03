@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+tags: [background, status/check/ai]
 excludePublish: ["all"]
 dm_owner: none
 dm_notes: none
@@ -21,7 +21,7 @@ See also:
 - [[Historical Framework#Before the Riving]]
 
 Discussions:
-- [[Discord Chat - Deep History]]
-- [[Discord Chat - Divine Power in Taelgar]]
-- [[Discord Chat - Multiverse]]
+- [[2024-07-15 - Deep History]]; [[2024-07-16 - Deep History]]; [[2024-07-18 - Deep History]]; [[2024-07-25 - Deep History]]
+- [[2025-01-21 - Divine Power in Taelgar]]
+- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
 %%^End%%

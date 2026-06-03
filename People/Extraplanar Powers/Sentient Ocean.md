@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [power]
+tags: [power, status/check/ai]
 aliases: [Yi'weti, Yi’weti, Ur Biyiak, Wanui Teora, Ma'haya Kabir]
 name: Sentient Ocean
 typeOf: power

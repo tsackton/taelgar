@@ -1,0 +1,167 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
+
+# 2025-11-30 - Sembara History
+
+%% Source cleanup: promoted from reviewed incoming note `2025-11-30.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
+
+[2025-11-30 10:37 AM] Deciusmus: messing around with Zimkova a bit:
+    
+    
+    
+    Pink = high alpine, basically no people
+    Blue = high plateau; 4000 - 6000 feet; 
+    Red = ridge country; 2500 - 4000 feet
+    Green = highland forest; 1800 - 3000 feet
+    Yellow = boreal wetland; 900 - 1800 feet
+![[Worldbuilding/Chats and Emails/_assets/discord/image-DCCCB.png]]
+[2025-11-30 10:40 AM] Deciusmus: This sets up:
+    
+    * Upper Volta is low density, boreal wetland; bogs, peat. Good source of bog-iron, maybe coal, furs. 
+    * Lavnoch is a high plateau; lightly populated but with densier population in the southern parts in sheltered river valleys
+    * Breva is the densest population of the "Zimkovan" area, and probably the only place with a proper political organization (except Ardlas, see below)
+[2025-11-30 10:41 AM] Deciusmus: Ardlas here is actually almost more Sembara; it is highland, but separated from the real "Zimka" by the Lavnoch plateau
+[2025-11-30 10:44 AM] Deciusmus: Drankor basically didn't bother pushing into the highlands; so Ardlas, which is more like 2000-2800 feet although a little higher in the west - is just part of Drankorian Greater Sembara, whereas Lavnoch is very much high plateau (not a dramatic cliff edge like Aurbez, but rising up in relatively steep stages. Probably there should be a line of hills just north of the Semb
+[2025-11-30 10:48 AM] rsulfuratus: i like the lavnoch plateau. at that latitude, treeline is probably around 4000 feet, fwiw, though of course these elevations are presumably fairly approximate. 
+    
+    i think the volta is not quite right. the the stretch in between the ridges is likely more of a rushing river with canyons and stuff than wetlands, with wetlands above and below. the height of navigation is likely somewhere in that red regions
+[2025-11-30 10:49 AM] Deciusmus: Yes, sorry, this is an elevation map, not climate
+[2025-11-30 10:49 AM] Deciusmus: The wetlands would end just north and west of the word Breva
+[2025-11-30 10:50 AM] Deciusmus: and then the Volta cuts between the hills on either side, not a wetland at all here, more like canyons and forested hills
+[2025-11-30 10:51 AM] Deciusmus: `*`north and east
+[2025-11-30 10:52 AM] rsulfuratus: i'm also not sure the aine hills are quite that high? although i guess maybe in places. this is still pretty far north; i kind of envisioned more green hills and than white mountains
+[2025-11-30 10:52 AM] Deciusmus: 2500' isn't that high?
+[2025-11-30 10:53 AM] Deciusmus: are you refering to Braebein? the hills around Arnsbury?
+[2025-11-30 10:53 AM] rsulfuratus: no, upper wisterl
+[2025-11-30 10:53 AM] rsulfuratus: `*`wistel
+[2025-11-30 10:54 AM] Deciusmus: yeah, I figured those are on the lower end of the red range, maybe even a bit lower (the elevation ranges are not intended to be exact)... like 2000 - 3000 feet, mostly
+[2025-11-30 10:58 AM] rsulfuratus: i think the general picture of braebein and the ~volta hills~ being basically part of one notable mountain range that forms a serious barrier to travel and cuts off lavnoch and breva from lowland sembara makes a ton of sense
+[2025-11-30 10:59 AM] rsulfuratus: i think the aine hills are not part of the same geological formation, and are much lower, more settled.
+[2025-11-30 10:59 AM] Deciusmus: Yes, that is what I was trying to show with the yellow bit between them
+[2025-11-30 11:00 AM] Deciusmus: The upper Semb valley is pretty low elevation, and the Aine Hills are much gentler than the Braebin
+[2025-11-30 11:00 AM] Deciusmus: I was consdering whether Ardlas should actually be the Duchy of Ardlas
+[2025-11-30 11:00 AM] Deciusmus: and make it a bit more Maseau like - a part of the general Sembara feudal culture that no longer recognizes the monarch of sembara
+[2025-11-30 11:04 AM] Deciusmus: I think what makes Ardlas interesting is a very close relationship with the dwarves of Khatridun and, especially in the north, a place the Zimka of Lavnoch immigrate to for better opportunities.
+    
+    But it isn't particularly cut off from Sembara. I don't think the border is contested exactly but the upper Semb valley and the Aine Hills seem like the kind of places where 
+    (a) the basic feudal logic of Sembaran manorialism probably still holds
+    (b) but a lot of barons or even individual manoral lords have complex feudal relationships
+[2025-11-30 11:04 AM] rsulfuratus: there is very little worldbuilding about the Semb river which seems important here
+[2025-11-30 11:05 AM] Deciusmus: true
+[2025-11-30 11:05 AM] Deciusmus: Wistel is much better developed
+[2025-11-30 11:05 AM] rsulfuratus: the Teft is basically unnavigable for nearly all its length and is only really bridged in a few places to the south; Wistel is pretty developed though not clear where the height of navigation is
+[2025-11-30 11:06 AM] Deciusmus: Embry has quite a few riverboats passing through
+[2025-11-30 11:06 AM] rsulfuratus: but to me just looking at the map, it seems like the Semb might be navigable into Ardlas
+[2025-11-30 11:07 AM] Deciusmus: yes, I think it probably is, perhaps even as far as the big lake
+[2025-11-30 11:07 AM] rsulfuratus: yeah i was about to say that
+[2025-11-30 11:08 AM] Deciusmus: Wistel is probably navigable to Ainwick
+[2025-11-30 11:08 AM] Deciusmus: but neither the Enst nor the Wistel are navigable through the swamp to the sea
+[2025-11-30 11:08 AM] rsulfuratus: i think if the bolin is easily crossed, but not very navigable (say it has lots of bars and easy fords), then that really makes the semb the central river
+[2025-11-30 11:08 AM] rsulfuratus: which is useful for Sembara naming
+[2025-11-30 11:09 AM] Deciusmus: yes
+[2025-11-30 11:10 AM] Deciusmus: although I think the section of the Wistel between Wisford and Ainwick is very heavily trafficked, but a lot of offloading happens at Wisford and goes overland to Embry, than back downriver to the port of Embry (unnamed) and across the gulf to Tollen
+[2025-11-30 11:10 AM] rsulfuratus: if enst not navigable to sea, that probably makes eskbridge a rather major city, does it not? basically all trade coming from addermarch has to offload there for overland travel
+[2025-11-30 11:13 AM] rsulfuratus: potentially less trade leaving addermarch than from upriver enst region (cleenseau etc), but it is not nothing, and also includes anything going from enst valley to/from tyrwingha
+[2025-11-30 11:19 AM] Deciusmus: yeah, I thnk that's ok though. Eskbridge is, i.e., the main town of the de Brunes. I think it is reasonable for it to be Rinburg sized or even a little bigger
+[2025-11-30 11:20 AM] Deciusmus: (or maybe even a fair bit bigger). 
+    
+    Wisford is supposed to be "the second city of Sembara"
+[2025-11-30 11:20 AM] rsulfuratus: anyway - that's a bit of a side point - re: the zimkova map i'd just make clear that semb is navigable which means the semb watershed is much more of a connective tissue than the wistel or teft
+[2025-11-30 11:23 AM] rsulfuratus: which actually nicely ties the four "core" duchies (Sembara, Arnsbury, Seham, and Cheimin) together
+[2025-11-30 11:23 AM] rsulfuratus: plus Ardlas
+[2025-11-30 11:24 AM] Deciusmus: I half wonder if Ardlas should just be retconn'd to be part of Sembara
+[2025-11-30 11:24 AM] rsulfuratus: i wouldn't make it part of sembara
+[2025-11-30 11:25 AM] rsulfuratus: but it could be complex - the whole "sembaran highlands" which could include the aine hills and ardlas might have a variety of feudal relationships where some manors owe allegiance to sembara and other to ardlas or whatever
+[2025-11-30 11:26 AM] rsulfuratus: i would just make "sembara" kind of vaguely fade out in the highlands
+[2025-11-30 11:26 AM] rsulfuratus: but not make there be a "duke of ardlas" who owes allegiance to the monarch of sembara
+[2025-11-30 11:26 AM] Deciusmus: right, that was my orignal thought
+[2025-11-30 11:27 AM] Deciusmus: although I think there probably _is_ a Duke of Ardlas, but like the Duke of Maseau, they don't owe allegiance to the Sembaran crown
+[2025-11-30 11:29 AM] rsulfuratus: i would actually treat ardlas kind of the like "holy roman empire" or something - there are a decent number of small kingdoms (probably given the size, no more than 10)
+[2025-11-30 11:34 AM] Deciusmus: I don't love that - or at least, I'm not sold - why would it be so different from the rest of the region?
+[2025-11-30 11:36 AM] Deciusmus: I feel like there is a story about how out of the Drankorian collapse the Sembaran feudal system emerged and spread and you had these duchies... Telham, Seham, Sembara, Cheimein, Wistel, Arnsbury, Brovna, Maseau, and Ardlas
+[2025-11-30 11:39 AM] rsulfuratus: i guess my thinking is - where do those duchies come from? on some level, they are kind of self-defense leagues, no?
+    
+    the drankorian collapse doesn't leave any usable adminsitrative infrastructure behind, since it is all corrupted by apollyon. so there isn't a clean line from "Drankorian province" ->` "Sembaran duchy"
+    
+    instead, i think that a lot of Greater Sembara ends up initially falling back to small manors and the like. 
+    
+    in the lowlands, these are not powerful enough alone to survive, and you get the six duchies + maseau
+    
+    in the highlands, the dwarves provide aid and shelter, and there is less need for people to aggregate in bigger duchies. so brovna and ardlas remain more fragmented
+[2025-11-30 11:41 AM] rsulfuratus: i'm not committed - but i don't think there is a need for a grand kind of unified history of "the duchies", and actually i kind of wonder if that feels a litlte to "neat" - real history is usually messier and less orderly
+[2025-11-30 11:42 AM] Deciusmus: That's fair. I guess at some level, actually, I'm not really committed to anything about Ardlas in particular, except that I think it is not really part of Zimkova
+[2025-11-30 11:43 AM] Deciusmus: I think the idea that there is a high plateau just north of the Semb, and that the Semb is navigatable kinda makes for a clearly cultural divide between Ardlas and the Lavnoch plateau
+[2025-11-30 11:43 AM] rsulfuratus: right, i mean there isn't a clear need to invent anything here. i'd just make the ardlas note say something like "Ardlas is a region of the highlands of Greater Sembara that, despite sharing a Zimkovan ancestry, is politically and culturally more connected to Sembara and the lowlands than Zimkova"
+[2025-11-30 11:45 AM] Deciusmus: right
+[2025-11-30 11:58 AM] Deciusmus: what do you think of 
+    Vardell, Wethlin, Cambril
+    
+    for tributaries fo teh Bollin
+[2025-11-30 12:18 PM] rsulfuratus: sure
+[2025-11-30 12:19 PM] rsulfuratus: random history question - have you given any thought to who would have minted coins during the avatus wars? i guess very likely wisford would have; possibly maseau as well? guessing addermarch mostly didn't
+[2025-11-30 12:20 PM] rsulfuratus: i assume you don't have a genealogy of dukes of wisford before the great war
+[2025-11-30 12:20 PM] Deciusmus: no genealogy of dukes
+[2025-11-30 12:20 PM] Deciusmus: as to coins...
+    * 1000 silver Dwarven coins (worth 100 gp, common trade coin)
+    - 100 unfamiliar gold coins with a stylized river on both sides (work 75 gp by weight of gold, could be worth more to the right buyer)
+    - 300 unfamiliar and differently sized silver coins with a bloody claw on the back and a variety of numbers (1, 5, 10) stamped on the front, which seem to correlate with the size (worth 45 gp by weight, could be worth more to the right buyer)
+[2025-11-30 12:20 PM] Deciusmus: these were minted by dwarves, wisford, avatus
+[2025-11-30 12:21 PM] Deciusmus: these were part of a trusted captain of avatus' treasure horde basically
+[2025-11-30 12:21 PM] Deciusmus: the exact mint doesn't have to be canonical
+[2025-11-30 12:25 PM] rsulfuratus: right - i'm more trying to figure out what coin would be in addermarch. my assumption is during the guerrila war era and the second addermarch war avatus probably isn't shipping chests of coin to pay the local lords he's installed (as he would be later, during the sembaran wars). instead the local lords are raiding addermanian holdings
+[2025-11-30 12:26 PM] rsulfuratus: but i think addermarch probably doesn't have a mint - though maybe it would
+[2025-11-30 12:26 PM] Deciusmus: I think the Wisford coinage (the stylized river, representing the Wistel + Enst) would be common
+[2025-11-30 12:28 PM] rsulfuratus: has to have a person on it so it can be reasonably dated
+[2025-11-30 12:28 PM] Deciusmus: ah
+[2025-11-30 12:28 PM] Deciusmus: well, no reason to think Wisford didn't _also_ mint coins with people
+[2025-11-30 12:28 PM] rsulfuratus: though plausibly addermarch could have sembaran coins in common circulation as well
+[2025-11-30 12:29 PM] Deciusmus: or sembara coinage works. would likely be from the house of Entranca
+[2025-11-30 12:31 PM] rsulfuratus: if chatGPT is accurate coins with kings on them were pretty uncommon in middle ages; so a plausible picture is that sembara is minting royal gold coins with the king on it in the mid/late 1300s as a prestige project basically
+[2025-11-30 12:31 PM] rsulfuratus: wisford stylized two rivers is more common
+[2025-11-30 12:31 PM] rsulfuratus: but that actually works well
+[2025-11-30 12:33 PM] rsulfuratus: i actually said the coins were from derik i before i fleshed out the actual history of avatus, but i'm going to make that into a mistake from the person who was telling them a bit of the history of the coins; house of entranca works perfectly because most people in 1715 wouldn't really know about it, and just assume "old sembaran coins" are early house of sewick
+[2025-11-30 12:37 PM] rsulfuratus: how about Anselm III for the king of sembara during the late 1300s.
+[2025-11-30 01:43 PM] Deciusmus: What do you think of Lavnoch just being the name of the plateau instead of some kind of political organization?
+[2025-11-30 02:56 PM] rsulfuratus: sure. i would think of it kind of like Vostok or Skaegenland/Skaerhem. it is a name for a region, but there is no Kingdom of Vostok etc
+[2025-11-30 07:37 PM] Deciusmus: pushed a lot of brainstorming re: Zimkova
+[2025-11-30 11:07 PM] rsulfuratus: just looking at stuff now, but am going to bed soon. didn't read in super detail so might have more thoughts later. my main take for tonight is three points:
+    
+    (1) i think the basic rework of the highlands area into the "assimilationist/Sembara" Ardlas; the "Zimka Kingdom" of Breva; and the "true higlands" / "Old Zimkovan" in Lavnoch and what we have been calling "ZImkova" is great and clarifies a lot in the region. fundamentally i think the whole framework works super well. 
+    
+    (2) i think we probably need to take another look at religious and language history - it is not quite obvious to me why "Old Zimkovan" and "Zimkovan" are different language families, or how a Tollish people end up occupying the highland forests. there is something that doesn't quite gel for me here; though the bluriness of vostok might be part of the issue. the origins of the tollish culture also seem a little fuzzy (partly the exact degree to which mariner / tollish / skaer are different in the pre-Downfall days is unclear) - but this is a side point
+    
+    (3) it is not clear to me how lavnoch / great chasm / "zimkova" interact. to me, it seems looking at the map that there is basically a big swath of "interior zimkova that spreads in a big curve basically from the upper volta + northwestern vostok through the high foothills to the great chasm to lavnoch plateau. if lavnoch is supposed to be fairly distinctive from upper volta, high foothills area, it is not obvious to me why it is distinctive
+[2025-11-30 11:12 PM] rsulfuratus: adding (4) - the role of the dwarves (and possibly stoneborn) here is underdeveloped imo.
+[2025-11-30 11:16 PM] Deciusmus: (4) definitely. I hinted a bit there but didn’t want too much invention before some agreement on the framework. Dwarves and stoneborn both are, I think, important to Lavnoch and Ardlas
+[2025-11-30 11:17 PM] Deciusmus: Re (2): I agree in general but didn’t know how canonical we wanted to treat the previous language invention
+[2025-11-30 11:18 PM] Deciusmus: (3) to me the main distinction is between “lowland” and highland Zimka (putting aside Ardlas)
+[2025-11-30 11:19 PM] Deciusmus: “Lowland” Zimka is basically the Volta River valley and the breva forest - it isn’t exactly lowland but especially Breva supports a much higher population density than highland Zimkova
+[2025-11-30 11:19 PM] Deciusmus: (Lowland here is say 800-2500 feet, not actual sea level or anything)
+[2025-11-30 11:21 PM] Deciusmus: Also I think there is tollish, telham, and hafling merchants - Upper Volta might be a good source of bog iron, furs - plus lots of timber coming down river. So more influences in the “lowland”‘ Zimkova area
+[2025-11-30 11:22 PM] rsulfuratus: maybe? i'm not sure the volta is navigable much past the ~volta hills~
+[2025-11-30 11:23 PM] Deciusmus: The big arc from Lavnoch-great chasm-the western part of Upper Volta before the elevation drops - is I think somewhat culturally continuous, although I’m not sure about how big a barrier to movement great chasm is
+[2025-11-30 11:24 PM] Deciusmus: I’m not sure why the volta would not be navigable? It might not be continuously navigable,ie it might be that there are a number of rapids etc in the Volta hills / breva region that block upriver activity
+[2025-11-30 11:24 PM] rsulfuratus: right that's what i meant
+[2025-11-30 11:24 PM] Deciusmus: But I think the kettle lakes and wetland meanders of the Upper Volta are navigable themselves
+[2025-11-30 11:25 PM] Deciusmus: It could be that really there isn’t much tollish influence upriver … but I think breva and the Volta boreal wetlands are reasonably connected, compared to the highlands.
+[2025-11-30 11:25 PM] Deciusmus: The teft I think mostly blocks travel, and in my mind the forest on the west of the teft is dangerous and not inhabited
+[2025-11-30 11:26 PM] rsulfuratus: right, that makes sense
+[2025-11-30 11:26 PM] rsulfuratus: i guess until we know what is in vostok it is difficult to say what is happening in the upper volta
+[2025-11-30 11:27 PM] Deciusmus: So you have one cultural zone with is kinda Breva + Upper Volta and another that is the highlands and lavnoch…
+[2025-11-30 11:28 PM] rsulfuratus: right, i guess i'm more thinking (upper volta + nw vostok) is kind of a ??; breva is a clear distinct entity; ardlas is a clear distinct entity; the "highlands" of lavnoch, great chasm area, zimkova are a clear distinct entity
+[2025-11-30 11:28 PM] Deciusmus: Yes, although I liked the idea of a high plateau on the eastern side of the Volta - I’m not sure Vostok is clearly or should clearly be part of Zimkova. That said, there is an obvious geographic connection through the breva forest, unless we imagine the Volta as a huge barrier to movement
+[2025-11-30 11:28 PM] Deciusmus: Right that’s true
+[2025-11-30 11:29 PM] rsulfuratus: i think i would keep the upper volta and nw vostok a little blurry for now / not developed
+[2025-11-30 11:30 PM] rsulfuratus: i think the region from lavnoch to great chasm to zimkovan highlands is plenty to put into focus and works well to develop as a unit, with breva and ardlas as the major important neighbors
+[2025-11-30 11:31 PM] rsulfuratus: i just don't have a good sense of the upper volta and some day i'm going to want to run an adventure involving the wall up there
+[2025-11-30 11:31 PM] rsulfuratus: so it might be better to leave some undeveloped space
+[2025-11-30 11:31 PM] Deciusmus: Right, I agree with that. It’s just that the geography is pushing me towards Breva as being more oriented towards the Volta valley than the teft valley
+[2025-11-30 11:33 PM] rsulfuratus: yeah - i guess the "lower upper volta" or whatever.
+[2025-11-30 11:33 PM] rsulfuratus: like due east of the word "Breva" on the map
+[2025-11-30 11:34 PM] Deciusmus: Yeah
+[2025-11-30 11:34 PM] rsulfuratus: but also somewhere in the breva region there has to be high ground that separates the volta and teft; that could be near the edge of the volta
+[2025-11-30 11:35 PM] Deciusmus: Anyway… more later. Dana’s mom has a gall bladder infection and was in the er all evening. Dana just got home so I want to talk to her
+[2025-11-30 11:36 PM] rsulfuratus: yikes hope she is okay. yes more later
+[2025-11-30 11:36 PM] Deciusmus: She’s ok but was admitted and might have to have surgery tomorrow

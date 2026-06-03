@@ -1,5 +1,5 @@
 ---
-tags: [background, status/cleanup/text]
+tags: [background, status/cleanup/text, status/check/ai]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
@@ -72,7 +72,7 @@ After contact with the Elder Folk, human culture on Hkar enters a period of rapi
 
 Conceptually, you get the first development of the idea of omnipresent deities (who potentially have their own independent spiritual domains beyond the veil of the Land of the Dead). Potentially, this is basically just stolen from the Elder Folk and is a human conception of the Embodied Gods. Metaphysically, this is a massive shift and leads to a number of important developments in religious history. 
 
-%%See: [[Discord Chat - Homes of Incorporeal Gods]] for some discussion / possible revision on this point %%
+%%See: [[2025-01-22 - Homes of Incorporeal Gods]] for some discussion / possible revision on this point %%
 
 - While the nature of the divine spark remains ineffable, the belief in the possibility of human spiritual realms, at some level, acts to make them possible. Whether created out of divine energy directly, or transformed from something else, no one knows.  %%Note: it is likely that this is inncorrect, and that the human gods don't usually, or ever, have "divine realms". Regardless people in world definitely don't know the answer. %%
 - The nature of divinity that inhabits a spiritual realm is fundamentally different from a deity that inhabits the material plane. These deities are in many ways naturally omnipresent, and are limited only by the effort of channeling divine magic from the spiritual realms to the material plane. %%Note: this isn't so much of "inhabits a spiritual realm" or not, but rather a distinction between deities that exist - in whatever sense deities exist - on the "Plane of Creation" side or the "Material Plane" side of the Land of the Dead %%

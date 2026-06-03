@@ -1,7 +1,12 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
+
 This document tracks open questions related to [[Languages]].
 
 ### Dragons
-What is the language of dragons? There is a lot of conversation in [[Discord Chat - Languages and Humanity]]
+What is the language of dragons? There is a lot of conversation in [[2024-07-12 - Languages and Humanity]]; [[2024-07-13 - Languages and Humanity]]; [[2024-07-14 - Languages and Humanity]]; [[2024-07-15 - Languages and Humanity]]
 
 * Dragons need thought and consideration and which must have some strange magic associated with them and need some thought on why they exist - perhaps related to the language of spellbooks
 
