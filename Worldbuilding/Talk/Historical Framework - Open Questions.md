@@ -9,7 +9,7 @@ This document collects open questions about the general [[Historical Framework]]
 What is the relationship between Orenlas and Drankor? Is Orenlas surrounded by Drankor, or do other things prevent it.
 
 ## Darkwood Creation
-When does the Darkwood become sinister? See towards the end of  [[2024-09-25 - Ethlenn and Umbraeth]]; [[2024-10-03 - Ethlenn and Umbraeth]]; [[2024-10-04 - Ethlenn and Umbraeth]]; [[2024-10-10 - Ethlenn and Umbraeth]]; [[2024-10-16 - Ethlenn and Umbraeth]]; [[2024-11-19 - Ethlenn and Umbraeth]]; [[2025-01-15 - Ethlenn and Umbraeth]]; [[2024-09-16 - Ethlenn and Umbraeth]].
+When does the Darkwood become sinister? See towards the end of  [[2024-09-25 - Ethlenn and Umbraeth]]; [[2024-10-03 - Ethlenn and Umbraeth]]; [[2024-10-04 - Ethlenn and Umbraeth]]; [[2024-10-10 - Ethlenn and Umbraeth]]; [[2024-10-16 - Ethlenn and Umbraeth]]; [[2024-11-19 - Ethlenn and Planar Tides]]; [[2025-01-15 - Ethlenn and Umbraeth]]; [[2024-09-16 - Ethlenn and Umbraeth]].
 Likely before the Drankorians arrive.
 
 

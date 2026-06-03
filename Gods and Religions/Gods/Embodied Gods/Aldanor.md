@@ -18,7 +18,7 @@ There is very little that has been definitively established, other than a "tree 
 The large trees in the elven forest are reminiscent of Aldanor in a way. If gendered, probably he. 
 
 Discord discussions:
-- [[2023-10-30 - Elves]]; [[2023-11-03 - Elves]]; [[2023-11-05 - Elves]]; [[2024-02-01 - Elves]]; [[2024-11-19 - Elves]]
+- [[2023-10-30 - Elves]]; [[2023-11-03 - Elves]]; [[2023-11-05 - Elves]]; [[2024-02-01 - Souls]]; [[2024-11-19 - Elves]]
 - [[2024-09-02 - Elven Memorials]]
 
 Some potentially relevant brainstorming in:

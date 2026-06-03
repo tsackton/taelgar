@@ -17,8 +17,8 @@ The fact that she never returned from a research expedition to the [[Marches of 
 The patron of [[Viepuck]] is canonically a Far Realm creature motivated by curiosity about Taelgar and a desire to understand life in the Multiverse, but with some of the vibe of an entomologist studying bees, rather than as human anthropologist. This patron discovered Viepuck during a ritual sacrifice, although the exact metaphysics are not clear. 
 
 Many relevant brainstorming notes:
-- [[2024-07-15 - Deep History]]; [[2024-07-16 - Deep History]]; [[2024-07-18 - Deep History]]; [[2024-07-25 - Deep History]]
-- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
+- [[2024-07-15 - Deep History]]; [[2024-07-16 - Deep History]]; [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-25 - Deep History]]
+- [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Species and Souls]]
 - [[2024-02-01 - Souls]]; [[2024-02-02 - Souls]]
 - [[Far Realms Brainstorming]]
 

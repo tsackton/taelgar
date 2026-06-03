@@ -126,13 +126,13 @@ In these ancient tales of years, halflings tell of wandering even when the world
 - Religion and practice: [[Halfling Religious Practice]]; [[Halfling Racial Theology]]; [[Email - Halfling Religion]]
 - Culture, trade, and institutions: [[Email - Halfling Thoughts]]; [[Email - Green Sea Trade Routes]], [[Email - More Green Sea]]
 - Language and trade tongues: [[Languages]]; [[2024-07-12 - Languages and Humanity]]; [[2024-07-13 - Languages and Humanity]]; [[2024-07-14 - Languages and Humanity]]; [[2024-07-15 - Languages and Humanity]]
-- Legal/treaty context (Sembara-focused): [[Email - Other Sembara Thoughts]]; [[Land Holding in Sembara]]; [[Taxes in Sembara]], [[2024-01-05 - Non-humans in Sembara]]
-- Other Discussion (may be old/outdated): [[2023-10-30 - Species]]; [[2023-10-31 - Species]]; [[2024-07-26 - Species]]; [[2024-09-04 - Species]], [[2024-07-15 - Deep History]]; [[2024-07-16 - Deep History]]; [[2024-07-18 - Deep History]]; [[2024-07-25 - Deep History]],[[Email  - Taelgar Races]] ,[[Email - A Few Thoughts on Taelgar Races]], [[Email - Brief Thoughts on Elder Races]]
+- Legal/treaty context (Sembara-focused): [[Email - Other Sembara Thoughts]]; [[Land Holding in Sembara]]; [[Taxes in Sembara]], [[2024-01-05 - Sembara History]]
+- Other Discussion (may be old/outdated): [[2023-10-30 - Species]]; [[2023-10-31 - Species]]; [[2024-07-26 - Species and Souls]]; [[2024-09-04 - Species]], [[2024-07-15 - Deep History]]; [[2024-07-16 - Deep History]]; [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-25 - Deep History]],[[Email  - Taelgar Races]] ,[[Email - A Few Thoughts on Taelgar Races]], [[Email - Brief Thoughts on Elder Races]]
 
 ### Key Discord Chats
 - [[2023-10-30 - Species]]: Species brainstorming
 - [[2023-11-04 - Avatus and Hobgoblins]]: Hobgoblin interactions
-- [[2024-01-05 - Non-humans in Sembara]]: Halflings and Sembara land holding and taxes
+- [[2024-01-05 - Sembara History]]: Halflings and Sembara land holding and taxes
 - [[2024-07-12 - Languages and Humanity]]: Halflings and Common, trade pidgins, languages
 
 ### Brainstorming 

@@ -30,7 +30,7 @@ What is correct is not canonically established in game, and probably doesn't nee
 For organizational purposes, the Feywild and the [[Dreamworld]] are both significantly more developed and more important than other hypothesized Echo Realms, and for simplicity these two are placed in the top-level "Multiverse" directory, while all other Echo Realms / Demiplanes exist in the "Demiplanes" directory. This is not meant to establish a canonically correct interpretation, but is a simpler grouping than any other and provides a clear home for canonically ambiguous planes like [[Shakun's Realm]] or Cha'mutte's shadow realms.
 
 A fair bit of discussion about the nature of Echo Realms:
-- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
+- [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Species and Souls]]
 - [[2024-03-21 - Magic]]; [[2024-03-23 - Magic]]; [[2024-04-27 - Magic]]
 
 Note that canonically, centaurs believe in the Echo Realms theory, but they are somewhat anti-fey and also strongly feel a connection to the Material Plane, so this is perhaps not surprising. See:

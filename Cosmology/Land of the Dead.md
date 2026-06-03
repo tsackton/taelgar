@@ -75,7 +75,7 @@ Relevant open questions:
 - [[Cosmology - Open Questions]]
 
 Discussion and Brainstorming:
-- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
+- [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Species and Souls]]
 - [[2024-03-21 - Magic]]; [[2024-03-23 - Magic]]; [[2024-04-27 - Magic]]
 - [[2024-02-01 - Souls]]; [[2024-02-02 - Souls]]
 - [[2024-01-27 - Funerary Traditions]]

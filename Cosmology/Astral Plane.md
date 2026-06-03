@@ -27,7 +27,7 @@ Key features of the Astral Plane:
 - There are, plausibly, many strange things floating in the astral plane, including lost, dead gods. 
 
 See the following links for relevant brainstorming notes:
-- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
+- [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Species and Souls]]
 - [[2024-02-01 - Souls]]; [[2024-02-02 - Souls]]
 - [[2025-01-21 - Divine Power in Taelgar]]
 

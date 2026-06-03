@@ -1,4 +1,4 @@
-# 2024-01-05 - Sembara History
+# 2024-01-05 - Sembara History 
 
 [2024-01-05 11:54 AM] Deciusmus: I pushed a image that I might use as a emblem for Avatus:
     

@@ -1,14 +1,14 @@
-# 2024-07-26 - Multiverse
+# 2024-07-26 - Species and Souls
 
 [2024-07-26 09:12 AM] rsulfuratus: working a bit on filling in multiverse / cosmology detail from the riving, and wondering about your feelings about the connection between metaphysics and mechanics. 
     
-    for example, at the moment based on the way magic is set up in world, there isn't an obvious way to play a fey cleric. unless you have an unusual backstory where you came to worship a "foreign god"
-    
-    not sure how i feel about that? 
-    
-    it particularly impacts the children of the divine, although also potentially also impacts the "unusual species" 
-    
-    more generally, the basic logic of "divine magic is miracles granted by a god" poses a bit of a challenge for societies that don't seem to innately have gods (centaurs, merfolk, fey, etc) - do they also not have divine magic? and if they don't have divine magic is that a mechanical thing or can they have "clerics" just who generate the same effects from non-divine magic?
+for example, at the moment based on the way magic is set up in world, there isn't an obvious way to play a fey cleric. unless you have an unusual backstory where you came to worship a "foreign god"
+
+not sure how i feel about that? 
+
+it particularly impacts the children of the divine, although also potentially also impacts the "unusual species" 
+
+more generally, the basic logic of "divine magic is miracles granted by a god" poses a bit of a challenge for societies that don't seem to innately have gods (centaurs, merfolk, fey, etc) - do they also not have divine magic? and if they don't have divine magic is that a mechanical thing or can they have "clerics" just who generate the same effects from non-divine magic?
 [2024-07-26 10:06 AM] Deciusmus: I like the idea of divine magic = miracles granted by a god and in general feel like it’s better to not get too focused on D&D mechanics
 [2024-07-26 10:07 AM] Deciusmus: But I do think there is a bit of a gap around non-arcane / non-divine magic
 [2024-07-26 10:08 AM] Deciusmus: That is, clearly on Taelgar there is:

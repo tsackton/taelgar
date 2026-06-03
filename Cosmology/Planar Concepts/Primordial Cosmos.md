@@ -21,7 +21,7 @@ See also:
 - [[Historical Framework#Before the Riving]]
 
 Discussions:
-- [[2024-07-15 - Deep History]]; [[2024-07-16 - Deep History]]; [[2024-07-18 - Deep History]]; [[2024-07-25 - Deep History]]
+- [[2024-07-15 - Deep History]]; [[2024-07-16 - Deep History]]; [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-25 - Deep History]]
 - [[2025-01-21 - Divine Power in Taelgar]]
-- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
+- [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Species and Souls]]
 %%^End%%
