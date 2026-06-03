@@ -1,0 +1,86 @@
+{
+  "totalDurationSeconds": 8832.653,
+  "speakers": [
+    {
+      "transcriptIdentifier": "Audio shared by David S. Kong",
+      "name": "David Schwartz",
+      "gameRole": "DM",
+      "segmentCount": 416,
+      "durationSeconds": 1246.381,
+      "fraction": 0.1411,
+      "wordCount": 2926
+    },
+    {
+      "transcriptIdentifier": "David S. Kong",
+      "name": "David Kong",
+      "gameRole": "Kaito Min",
+      "segmentCount": 468,
+      "durationSeconds": 1349.879,
+      "fraction": 0.1528,
+      "wordCount": 4339
+    },
+    {
+      "transcriptIdentifier": "Eric R",
+      "name": "Eric Rosenbaum",
+      "gameRole": "Tarek",
+      "segmentCount": 5,
+      "durationSeconds": 9.239,
+      "fraction": 0.001,
+      "wordCount": 25
+    },
+    {
+      "transcriptIdentifier": "Eric Rosenbaum",
+      "name": "Eric Rosenbaum",
+      "gameRole": "Tarek",
+      "segmentCount": 216,
+      "durationSeconds": 464.362,
+      "fraction": 0.0526,
+      "wordCount": 1327
+    },
+    {
+      "transcriptIdentifier": "Kate Sackton",
+      "name": "Kate Sackton",
+      "gameRole": "Ayveen",
+      "segmentCount": 193,
+      "durationSeconds": 613.395,
+      "fraction": 0.0694,
+      "wordCount": 1844
+    },
+    {
+      "transcriptIdentifier": "Mike",
+      "name": "Mike Sackton",
+      "gameRole": "Edric",
+      "segmentCount": 3,
+      "durationSeconds": 3.699,
+      "fraction": 0.0004,
+      "wordCount": 9
+    },
+    {
+      "transcriptIdentifier": "Mike Sackton",
+      "name": "Mike Sackton",
+      "gameRole": "Edric",
+      "segmentCount": 247,
+      "durationSeconds": 627.152,
+      "fraction": 0.071,
+      "wordCount": 1869
+    },
+    {
+      "transcriptIdentifier": "Rev. David Schwartz (he/him)",
+      "name": "David Schwartz",
+      "gameRole": "DM",
+      "segmentCount": 799,
+      "durationSeconds": 3694.402,
+      "fraction": 0.4183,
+      "wordCount": 9592
+    },
+    {
+      "transcriptIdentifier": "Tim Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "Txarro",
+      "segmentCount": 251,
+      "durationSeconds": 824.144,
+      "fraction": 0.0933,
+      "wordCount": 2026
+    }
+  ]
+}
