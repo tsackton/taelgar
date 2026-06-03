@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-01-06 - Species and Cultures
-
-%% Source cleanup: promoted from reviewed incoming note `2025-01-06.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-01-06 10:32 PM] rsulfuratus: kate and i talked for a while about Riswynn and the crown. basically she is happy for Riswynn to take the crown if it seems like it makes sense from either meta or in-game perspective (and I kind of like the worldbuilding implications of the free-more-orcs quest), and it would be a satisfying character arc for riswynn in a lot of ways - but as kate put it, riswynn cares a lot more about the orcs than kate does. and kate doesn't have a particularly strong desire to make a new character (she would probably just make a new cleric anyway).
 [2025-01-06 10:35 PM] rsulfuratus: so the upshot is, i think, that if you end up thinking about it some more and feel like you really want delwath's character arc to end with taking the crown, or if you are excited about a new character, you should take priority for claiming the crown

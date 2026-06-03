@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-11-17 - Species and Cultures
-
-%% Source cleanup: promoted from reviewed incoming note `2025-11-17.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-11-17 09:05 AM] rsulfuratus: added kenku to D&D beyond: https://www.dndbeyond.com/species/2043575-kenku
 [2025-11-17 09:06 AM] rsulfuratus: basically what is in obsidian, except:

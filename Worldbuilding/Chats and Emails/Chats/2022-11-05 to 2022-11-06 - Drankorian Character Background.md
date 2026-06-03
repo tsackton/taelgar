@@ -1,13 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2022-11-05 to 2022-11-06 - Drankorian Character Background
-
-%% Source cleanup: promoted from reviewed incoming note `2022-11-05 to 2022-11-06 - Mike Sackton.md`; source=iMessage; action=promote-after-cleanup; cleanup date=2026-06-03. %%
-
-%% Source: `+17814051318 msackton@gmail.com.txt`. Retained D&D-related messages from a mixed family/iMessage thread; non-D&D messages omitted. %%
 
 ## 2022-11-05
 

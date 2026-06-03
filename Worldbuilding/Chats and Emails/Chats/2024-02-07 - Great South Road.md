@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2024-02-07 - Great South Road
-
-%% Source cleanup: promoted from reviewed incoming note `2024-02-07.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2024-02-07 10:59 AM] Deciusmus: Great South Road:
     

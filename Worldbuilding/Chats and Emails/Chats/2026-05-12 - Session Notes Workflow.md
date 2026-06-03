@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2026-05-12 - Session Notes Workflow
-
-%% Source cleanup: promoted from reviewed incoming note `2026-05-12.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2026-05-12 04:38 PM] rsulfuratus: i pushed the first into the chasm output from the final version of the session note pipeline. 
     

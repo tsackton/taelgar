@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2026-03-10 - Chardon History
-
-%% Source cleanup: promoted from reviewed incoming note `2026-03-10.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2026-03-10 12:18 PM] rsulfuratus: if you are not super busy today, there are a few details about the adventure tonight that might impinge on the Mawar variant of Mos Numena, curious about your comments. 
     

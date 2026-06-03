@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2024-09-12 - Species and Cultures
-
-%% Source cleanup: promoted from reviewed incoming note `2024-09-12.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2024-09-12 12:14 PM] rsulfuratus: i pushed updated versions of dwarf and lizardfolk (Campaigns/Mechanics/Playing a ....), and some comments on design decisions. might work a little bit on stoneborn if i have time while i'm eating lunch. will be teaching from 1:30 pm - 5 pm so won't be able to discuss anything this afternoon
 [2024-09-12 12:15 PM] rsulfuratus: (elf and halfling also there but not updated from the versions on d&d beyond)

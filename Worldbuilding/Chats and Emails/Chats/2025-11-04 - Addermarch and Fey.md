@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-11-04 - Addermarch and Fey
-
-%% Source cleanup: promoted from reviewed incoming note `2025-11-04.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-11-04 08:57 AM] rsulfuratus: pushed a little work on the addermarch note. have meetings until ~2 pm or so but will flesh out a bit more later today
 [2025-11-04 08:57 AM] rsulfuratus: also working on mostreve hills but if you have name candidates for anything feel free to add them

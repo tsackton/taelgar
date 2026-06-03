@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-11-26 - Sembara History
-
-%% Source cleanup: promoted from reviewed incoming note `2025-11-26.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2025-11-26 12:25 PM] rsulfuratus: i'm going for a run and doing some errands for the next ~2 hours but i just pushed some comments and thoughts on sembaran history in the timeline of sembara history (just adding notes/comments, no text edits really)
 [2025-11-26 12:27 PM] rsulfuratus: proposing to actually reframe post-Drankor history as 1059-1352 (plague until the avatan resource wars start), and then 1353-1462 (avatan resources wars through death of derik i). more details in the note

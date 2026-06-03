@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-10-13 - Cosmology and Planes
-
-%% Source cleanup: promoted from reviewed incoming note `2025-10-13.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-10-13 12:20 PM] rsulfuratus: thinking a little more. thematically, i think "awakening" the sword is more appropriate than random buffs to other things. i think a +1 to hit plus 2 or 3 of the standard moonblade properties would make sense: https://www.dndbeyond.com/magic-items/9228858-moonblade
     

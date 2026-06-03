@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-10-17 - Species and Cultures
-
-%% Source cleanup: promoted from reviewed incoming note `2025-10-17.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-10-17 08:54 PM] Deciusmus: Do you think lizardfolk are happy/eager to be integrated into human affairs or more likely to be a bit standoffish and wanting to keep to themselves?
 [2025-10-17 08:55 PM] Deciusmus: I have a lizardfolk village near Asineau and my pc who is now the lord of Asineau really wants to try to incorporate the lizardfolk more into the regional economy and have a joint festival with them and stuff.  Im struggling a bit to decide how the lizardfolk who react

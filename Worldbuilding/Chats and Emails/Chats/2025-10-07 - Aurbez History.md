@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-10-07 - Aurbez History
-
-%% Source cleanup: promoted from reviewed incoming note `2025-10-07.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-10-07 10:06 AM] rsulfuratus: ah. nothing canonical. the basic idea I had in mind was that the first of the summer ash storms in 1720 brings with it a horde of chaos elementals, of a similar theme to the kinds of ones you've fought
 [2025-10-07 10:06 AM] rsulfuratus: but from there nothing definite

@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-10-21 - Fey Realms
-
-%% Source cleanup: promoted from reviewed incoming note `2025-10-21.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-10-21 07:09 AM] Deciusmus: I dunno if I will have time for it this week but the other thing I would like to do is try to finish making up sembaran holidays.
 [2025-10-21 07:09 AM] Deciusmus: It would be really useful to have a holiday calendar for narrative purposes during downtime.

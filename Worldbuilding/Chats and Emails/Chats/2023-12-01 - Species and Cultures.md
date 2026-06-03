@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-12-01 - Species and Cultures
-
-%% Source cleanup: promoted from reviewed incoming note `2023-12-01.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2023-12-01 09:47 AM] rsulfuratus: so, i was messing around a bit with homebrew stuff for playtest updates this morning - warlocks are quite tricky because most of the changes are built into invocations which so far I haven't figured out a way to modify via homebrew.
 [2023-12-01 09:49 AM] rsulfuratus: also, for delwath, i have bit of a conundrum since one d&d shifts all subclasses to level 3, so if you straight convert you would lose a bunch of sorcerer spells and favor of the gods, in exchange for gaining better warlock invocations + more warlock spells

@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-01-19 - Cosmology and Planes
-
-%% Source cleanup: promoted from reviewed incoming note `2025-01-19.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2025-01-19 10:31 AM] rsulfuratus: not likely to do a ton of taelgarverse cleanup today, but one question. working on cosmology and there are some pages that are hard to develop because there are unresolved questions, e.g., Spiritual Realms. the page is fine as written but the notes have open questions. 
     

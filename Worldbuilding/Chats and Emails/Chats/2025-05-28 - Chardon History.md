@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-05-28 - Chardon History
-
-%% Source cleanup: promoted from reviewed incoming note `2025-05-28.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-05-28 12:25 PM] rsulfuratus: proposed reorg of campaign directory, inspired by trying to get more OneNote stuff (mostly Great Library) into obsidian:
     

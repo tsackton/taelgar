@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2023-11-19 - Species and Cultures
-
-%% Source cleanup: promoted from reviewed incoming note `2023-11-19.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2023-11-19 09:48 AM] Deciusmus: Your generate header changes are not quite right 🙂
 [2023-11-19 09:49 AM] Deciusmus: if you do this:

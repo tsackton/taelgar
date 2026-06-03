@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-10-11 - Calendars and Holidays
-
-%% Source cleanup: promoted from reviewed incoming note `2025-10-11.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-10-11 12:47 PM] Deciusmus: A few ideas for magic items…
 [2025-10-11 12:50 PM] Deciusmus: Shield:

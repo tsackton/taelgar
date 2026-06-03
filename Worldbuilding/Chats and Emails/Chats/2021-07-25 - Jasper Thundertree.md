@@ -1,13 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2021-07-25 - Jasper Thundertree
-
-%% Source cleanup: promoted from reviewed incoming note `2021-07-25 - Jasper Thundertree.md`; source=iMessage; action=promote; cleanup date=2026-06-03. %%
-
-%% Source: `2021-07-25.txt`. Retained as a small D&D/worldbuilding source export. %%
 
 ## 2021-07-25
 

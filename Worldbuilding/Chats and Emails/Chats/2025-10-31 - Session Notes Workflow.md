@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-10-31 - Session Notes Workflow
-
-%% Source cleanup: promoted from reviewed incoming note `2025-10-31.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-10-31 01:55 PM] rsulfuratus: so after experimenting more this week, my overall opinion is:
     

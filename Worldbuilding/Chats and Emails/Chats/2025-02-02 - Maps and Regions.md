@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-02-02 - Maps and Regions
-
-%% Source cleanup: promoted from reviewed incoming note `2025-02-02.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-02-02 10:49 AM] Deciusmus: So I'm struggling with trying to come up with a tone for Gazetteer landing pages that I like. This is part of why I've been going in circles on defining stuff, because it is easier to hit the right tone with "well defined" or "totally rumors" than with "sorta defined".
     

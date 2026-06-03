@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-11-03 - Addermarch and Fey
-
-%% Source cleanup: promoted from reviewed incoming note `2025-11-03.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-11-03 10:03 AM] rsulfuratus: pushed commits that hit tons of files recently - incorporating more one note old notes. had to fix a ton of broken long links `[[People/PCs/Dunmar Fellowship/Delwath]]` instead of `[[Delwath]]` because i forgot to uniquify names first
 [2025-11-03 08:24 PM] Deciusmus: Do you have any thoughts about a one shot character btw?

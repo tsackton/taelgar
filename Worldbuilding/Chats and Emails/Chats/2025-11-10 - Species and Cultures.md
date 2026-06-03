@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-11-10 - Species and Cultures
-
-%% Source cleanup: promoted from reviewed incoming note `2025-11-10.md`; source=Discord; action=promote-after-cleanup; cleanup date=2026-06-03. %%
 
 [2025-11-10 10:48 AM] rsulfuratus: have a few chunks of time between meetings today, and going back to my plans for a big species reorg (although also trying to work on some overall session note cleanup and stub/staging notes).
     

@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2026-02-05 - Fey Realms
-
-%% Source cleanup: promoted from reviewed incoming note `2026-02-05.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2026-02-05 12:02 AM] rsulfuratus: Addermarch Fey Politics, btw, has my brainstorming. I'm not committed to Lady Calanthe as an entity but the basic setup of the western edge between Serenveil, Morlaith, and Umbraeth I think is kind of established by the Addermarch campaign
 [2026-02-05 12:02 AM] rsulfuratus: can discuss later - not tonight

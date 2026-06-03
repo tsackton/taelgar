@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2024-10-31 - Cosmology and Planes
-
-%% Source cleanup: promoted from reviewed incoming note `2024-10-31.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2024-10-31 11:13 AM] rsulfuratus: I'm not super busy today and am getting back to some of the dm status stuff and obsidian cleanup, which has taken a back seat to session prep in my taelgar time for a while. is it useful to set dm_notes and dm_owner on pages outside people/places/things/groups? e.g., species, cosomology, religion, etc. most of these would be dm_notes: none, dm_owner: none, but there might be isolated exceptions and I have no particular opinion on whether it is better to have default info set for all pages or just assume blank = none/none
 [2024-10-31 11:13 AM] rsulfuratus: setting it makes it easier to find pages that should have it but don't, i guess

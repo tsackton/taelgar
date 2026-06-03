@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-06-14 - Fey Realms
-
-%% Source cleanup: promoted from reviewed incoming note `2025-06-14.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-06-14 10:43 AM] rsulfuratus: pushed addermarch fey politics in brainstorming fyi
 [2025-06-14 02:21 PM] Deciusmus: a few thoughts...

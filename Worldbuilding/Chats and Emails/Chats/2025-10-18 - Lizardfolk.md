@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-10-18 - Lizardfolk
-
-%% Source cleanup: promoted from reviewed incoming note `2025-10-18.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-10-18 09:56 AM] Deciusmus: We are about to go hiking with Laura but a few quick thoughts:
     

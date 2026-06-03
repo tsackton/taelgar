@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-11-06 - Fey Realms
-
-%% Source cleanup: promoted from reviewed incoming note `2025-11-06.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-11-06 08:33 AM] rsulfuratus: no, i don't think it has always existed
 [2025-11-06 08:34 AM] rsulfuratus: i don't have a strong opinion on whether it has changed character or not... but my kind of vague vibes based sense is that it isn't exactly a prison, but it actually some kind of powerful entity solidified and bound. the moon doesn't contain something, it *is* something

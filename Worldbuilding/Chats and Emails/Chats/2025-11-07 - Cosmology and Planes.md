@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-11-07 - Cosmology and Planes
-
-%% Source cleanup: promoted from reviewed incoming note `2025-11-07.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-11-07 12:04 AM] Deciusmus: what do you think of Kemeko as the name of the monastery?  or Kamaku or Aerakshu or Ayrmako
 [2025-11-07 12:04 AM] rsulfuratus: i like either of the K ones

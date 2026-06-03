@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2024-09-14 - D&D Dwarf Mechanics
-
-%% Source cleanup: promoted from reviewed incoming note `2024-09-14.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2024-09-14 10:32 AM] rsulfuratus: what do you think of this? 
     

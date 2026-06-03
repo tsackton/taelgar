@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-11-02 - Fey Realms
-
-%% Source cleanup: promoted from reviewed incoming note `2025-11-02.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-11-02 10:03 AM] Deciusmus: Any thoughts on names for the unnamed bits of mostreve
     

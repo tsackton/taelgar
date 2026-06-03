@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-01-02 - Chardon History
-
-%% Source cleanup: promoted from reviewed incoming note `2025-01-02.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-01-02 03:40 PM] rsulfuratus: working out some possible endings for the whole Dunmar/Chardon war, Kenzo's attempts to provoke unrest in the chalyte trade, and the rump part of the Cleansed. while some things are up in the air based on what your party does, especially w/r/t the Crown, some things are probably in motion already and could potentially result in major upheavals to the political landscape of Dunmar and the Chardonian Empire. curious how much you care about the outcomes here. this is obviously significantly later than your campaign, and far away, so might never matter.
 [2025-01-02 04:05 PM] Deciusmus: from my game perspective, doesn't matter. Even with some time skips my game will never get to the 1740s and also I have no real plans to ever have the game in Chardon or Dunmar.

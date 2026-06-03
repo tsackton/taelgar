@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-08-09 - Maps and Regions
-
-%% Source cleanup: promoted from reviewed incoming note `2025-08-09.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-08-09 11:15 AM] rsulfuratus: comments? aurbez vibe outline
     

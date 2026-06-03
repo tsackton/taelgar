@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-02-01 - Species and Cultures
-
-%% Source cleanup: promoted from reviewed incoming note `2025-02-01.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-02-01 10:21 AM] Deciusmus: Have you thought at all about how many stoneborn there are and where they might live?
 [2025-02-01 10:22 AM] rsulfuratus: not in depth. there are a lot living in the southern sentinels, and a decent number in apporia

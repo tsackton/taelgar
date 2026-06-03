@@ -1,11 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # 2025-08-10 - Maps and Regions
-
-%% Source cleanup: promoted from reviewed incoming note `2025-08-10.md`; source=Discord; action=promote; cleanup date=2026-06-03. %%
 
 [2025-08-10 11:57 AM] rsulfuratus: okay, did a little map work this morning. here are three maps - a base map, with the world map overlay, and with regions
 ![[Worldbuilding/Chats and Emails/_assets/discord/aurbez-hexmap-base-49D4C.png]]
