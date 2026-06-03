@@ -1,9 +1,24 @@
 ---
 headerVersion: 2023.11.25
 tags: [status/check/ai]
+classification: worldbuilding-mixed
+action: promote-after-cleanup
 ---
 # iMessage - Dunmar Campaign - 2025-05-10
 
+## Incoming Cleanup Review
+
+```yaml
+source: "iMessage"
+date: "2025-05-10"
+proposed_subject: "Dunmar Session Logistics and Timeline"
+split_needed: "no"
+proposed_promoted_notes: 
+  - "2025-05-10 - Dunmar Session Logistics and Timeline"
+replaces_discord_notes: []
+confidence: "low"
+notes: "Mostly session logistics, but includes in-world timing/strategic assumptions; review before promotion."
+```
 %% Source: `Dunmar Campaign - 254.txt`. Retained wholesale because this is a Dunmar campaign group thread. %%
 
 ## 2025-05-10

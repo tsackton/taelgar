@@ -1,9 +1,24 @@
 ---
 headerVersion: 2023.11.25
 tags: [status/check/ai]
+classification: worldbuilding-mixed
+action: promote-after-cleanup
 ---
 # iMessage - Mike Sackton - 2021-08-18
 
+## Incoming Cleanup Review
+
+```yaml
+source: "iMessage"
+date: "2021-08-18"
+proposed_subject: "Tokra Brainstorming"
+split_needed: "no"
+proposed_promoted_notes: 
+  - "2021-08-18 - Tokra Brainstorming"
+replaces_discord_notes: []
+confidence: "medium"
+notes: "Tokra source request mixed with adventure prep/logistics."
+```
 %% Source: `+17814051318 msackton@gmail.com.txt`. Retained D&D-related messages from a mixed family/iMessage thread; non-D&D messages omitted. %%
 
 ## 2021-08-18
