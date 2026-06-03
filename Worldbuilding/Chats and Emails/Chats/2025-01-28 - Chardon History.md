@@ -100,7 +100,7 @@
 [2025-01-28 12:36 PM] Deciusmus: and (3)
 [2025-01-28 12:36 PM] Deciusmus: Partly for (1) I find the diretory structure way too deep to be comfortable for cleenseau
 [2025-01-28 12:37 PM] Deciusmus: i.e. to get to Essford Manor is 6 levels deep. It is much easier to just type ess into the search and pick
-![[../_discord_assets/image-B9746.png]]
+![[../_assets/discord/image-B9746.png]]
 [2025-01-28 12:38 PM] rsulfuratus: yeah i actually didn't know about the find or create note feature, that is very helpful
 [2025-01-28 12:38 PM] Deciusmus: but I like having a "Cleenseau Region" folder because I publish it as a top level sidebar nav from https://msackton.github.io/taelgarverse1720/campaigns/cleenseau-campaign/cleenseau-campaign/
 [2025-01-28 12:39 PM] rsulfuratus: it might actually be fine to just tackle directory reorganization piecemeal instead of all at once

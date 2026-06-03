@@ -104,6 +104,6 @@
 [2023-11-04 11:02 AM] Deciusmus: FYI, whe you are making background stuff add "Notes" to the name, i.e .Great War Notes instead of Great War
 [2023-11-04 11:03 AM] Deciusmus: Otherwise all the links to the actual Great War event change to Events/1500s/Great War which looks ugly
 [2023-11-04 09:17 PM] Deciusmus: 
-![[../_discord_assets/old-taelgar-map-7B75C.png]]
+![[../_assets/discord/old-taelgar-map-7B75C.png]]
 [2023-11-04 09:17 PM] Deciusmus: the old map
 

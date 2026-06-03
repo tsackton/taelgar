@@ -5,9 +5,9 @@
     IST = Istabor Alliance. DUN = Dunmar. DS = Dwarves/Stoneborn (Ardith)
     
     at this stage, biggest question is what's in Maseau? maybe nothing, or small freehold communities, is most likely. certainly sembara is not organized enough to be here, but the Great South Road is a highly valuable trade connection (although i suspect at this time Sembara is a bit of backwater and most trade actually goes through "South Cymea")
-![[../_discord_assets/plaguelands-history-1250ish-44CD7.jpg]]
+![[../_assets/discord/plaguelands-history-1250ish-44CD7.jpg]]
 [2025-08-06 08:58 AM] rsulfuratus: then, sometime (1350ish?), Avatus conquers a lot of land northwest of Istabor, but also cutting off Sembara
-![[../_discord_assets/plaguelands-history-1400ish-A7CAA.jpg]]
+![[../_assets/discord/plaguelands-history-1400ish-A7CAA.jpg]]
 [2025-08-06 08:59 AM] rsulfuratus: there is definitely a front along the Westcliff in Addermarch, and I think you have details about Cleenseau but I didn't look them up
 [2025-08-06 08:59 AM] rsulfuratus: probably have a line of Istabor castles on the [[Andonne plain]], things like that
 [2025-08-06 09:00 AM] rsulfuratus: but the "Istabor heartland" is not deeply threatened by Avatus, and perhaps has a close alliance with Dunmar, who are growing into the biggest military power in the area at this time

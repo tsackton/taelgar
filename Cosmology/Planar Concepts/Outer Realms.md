@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/ai]
+tags: [background]
 dm_owner: none
 dm_notes: none
 ---

@@ -10,7 +10,7 @@
     
     (b) I think we agreed all unnamed places should go in staging? Might try to clean that up a bit
 [2025-02-03 12:37 PM] Deciusmus: Cymean Rivers:
-![[../_discord_assets/image-E629F.png]]
+![[../_assets/discord/image-E629F.png]]
 [2025-02-03 12:37 PM] Deciusmus: which one is Freccilia
 [2025-02-03 12:37 PM] Deciusmus: red blue or yellow
 [2025-02-03 12:50 PM] Deciusmus: (c) what brush did you use for rivers, do you know? there are 1 or 2 sembara tributaries I'd like to add to the official amp
@@ -59,7 +59,7 @@
 [2025-02-03 01:43 PM] Deciusmus: (d) Duskmire does **not** stretch as far east as Fellburn
 [2025-02-03 01:44 PM] rsulfuratus: right, fellburn area is presumably lord serenveil
 [2025-02-03 01:44 PM] rsulfuratus: sunset gate something like?
-![[../_discord_assets/image-3F1F8.png]]
+![[../_assets/discord/image-3F1F8.png]]
 [2025-02-03 01:44 PM] Deciusmus: right, or a similar vassal state
 [2025-02-03 01:45 PM] Deciusmus: that works, although I don't think it has to push as far east
 [2025-02-03 01:46 PM] Deciusmus: although it does need to touch Twlight's Grace somewhere
@@ -74,7 +74,7 @@
 [2025-02-03 01:48 PM] rsulfuratus: but it could for example follow the teft instead of the volta, not sure that really matters in the north
 [2025-02-03 01:49 PM] Deciusmus: yeah it doesn't matter to me. the Teft might make it a bit more in line with where it "should be"
 [2025-02-03 01:52 PM] rsulfuratus: so you have then:
-![[../_discord_assets/image-78377.png]]
+![[../_assets/discord/image-78377.png]]
 [2025-02-03 01:52 PM] rsulfuratus: shimmersong is yellow
 [2025-02-03 01:52 PM] rsulfuratus: duskmire dark green
 [2025-02-03 01:53 PM] rsulfuratus: basically, duskmire can expand east as far as the mountains
@@ -112,7 +112,7 @@
 [2025-02-03 02:04 PM] Deciusmus: there is actually probably more like 4 or 5 powers, because there needs to be something in the north as well
 [2025-02-03 02:04 PM] Deciusmus: although the exact details don't matter
 [2025-02-03 02:05 PM] Deciusmus: but you could imagine something like:
-![[../_discord_assets/image-C23E7.png]]
+![[../_assets/discord/image-C23E7.png]]
 [2025-02-03 02:05 PM] Deciusmus: where the pink circle is the "buffer zone" with no major archfey
 [2025-02-03 02:05 PM] Deciusmus: but lots of minor fey mostly with allegiances to one of the "big players" on the outside
 [2025-02-03 02:06 PM] rsulfuratus: i'm making a distinction between someone like the Lightdancer, who is clearly an archfey but also somewhat inward-looking, from the "big players" who are more outward-looking
@@ -142,7 +142,7 @@
 [2025-02-03 02:19 PM] rsulfuratus: i have another meeting but possibly more later
 [2025-02-03 02:19 PM] Deciusmus: yeah I need to go get lunch before my 3pm meeting
 [2025-02-03 06:21 PM] rsulfuratus: 
-![[../_discord_assets/image-889DE.png]]
+![[../_assets/discord/image-889DE.png]]
 [2025-02-03 06:22 PM] rsulfuratus: steel blue = shimmersong
     dark blue = sharpspire
     violet = twilight's grace
@@ -158,7 +158,7 @@
 [2025-02-03 06:24 PM] rsulfuratus: sure
 [2025-02-03 06:25 PM] Deciusmus: but the basic idea seems perfect
 [2025-02-03 06:26 PM] rsulfuratus: 
-![[../_discord_assets/image-216D6.png]]
+![[../_assets/discord/image-216D6.png]]
 [2025-02-03 06:26 PM] rsulfuratus: dotted line being "sunset gate runs somewhere roughly here tbd"
 [2025-02-03 06:28 PM] Deciusmus: Although I would prefer if we don't settle on a canonical northern edge of this - this map puts all of Sembara under Ethlenn's "sphere of influence" or sharpspire, and I'm not 100% convinced that is correct. But I think for your purposes the exact details of the northern boundaries here (i.e. is Ethlenn's sphere actually only as far north as the Semb, or the Sharpspire one only as far north as the Wistel) doesn't really matter
 [2025-02-03 06:28 PM] Deciusmus: ?
@@ -172,7 +172,7 @@
 [2025-02-03 06:32 PM] Deciusmus: but that could just be leakage on the Material Plane from the Darkwood or whatever.
 [2025-02-03 06:33 PM] Deciusmus: The fey and material plane geography might not have an exact correspondence here
 [2025-02-03 06:34 PM] Deciusmus: basically the yellow circle here:
-![[../_discord_assets/image-F1F96.png]]
+![[../_assets/discord/image-F1F96.png]]
 [2025-02-03 06:35 PM] Deciusmus: should be, in parts at least, on Taelgar at least, somewhat dangerous, enough that folks in Tyrwingha warn people about "going too far up in the hills"
 [2025-02-03 06:35 PM] Deciusmus: but why that is does not matter in the slightlest to me
 [2025-02-03 06:35 PM] rsulfuratus: but umbreath is trapped west of the sunset gate so this is not umbreath, correct?
@@ -207,7 +207,7 @@
     Gloamscar – A land where daylight has been wounded, the sky torn open to reveal something older and darker than the Feywild itself, watched over by the fey warlock Severance, Keeper of the Rift.
 [2025-02-03 07:39 PM] rsulfuratus: (the names often need some pushing although that one is not bad)
 [2025-02-03 07:40 PM] Deciusmus: I have often wondered what this is:
-![[../_discord_assets/image-42555.png]]
+![[../_assets/discord/image-42555.png]]
 [2025-02-03 07:40 PM] Deciusmus: maybe that's where Gloamscar is
 [2025-02-03 07:46 PM] rsulfuratus: once i decide what I'm using for this adventure i'm going to dump 100 raw ideas from chatgpt in brainstorming for fey realms.
 [2025-02-03 09:07 PM] rsulfuratus: you said you had some umbraeth enemy stats?

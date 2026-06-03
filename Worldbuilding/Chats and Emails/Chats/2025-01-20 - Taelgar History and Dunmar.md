@@ -35,7 +35,7 @@
 [2025-01-20 02:53 PM] Deciusmus: yeah there is a lot of brainstorming notes that I haven't fully looked through
 [2025-01-20 02:57 PM] rsulfuratus: i think from a worldbuilding perspective, the stuff east of the mountains east of drankor is canonically 'not Drankorian' but beyond that it is a bit of a blank slate, intentionally so
 [2025-01-20 02:58 PM] Deciusmus: Right the area I'm talking about is this yellow circle:
-![[../_discord_assets/image-EE629.png]]
+![[../_assets/discord/image-EE629.png]]
 [2025-01-20 02:58 PM] rsulfuratus: but i guess this leaves (d) as kind of a big hole that could use filling, since that is west of those mountains
 [2025-01-20 02:58 PM] rsulfuratus: yeah
 [2025-01-20 02:58 PM] Deciusmus: Everything to the east of that circle is "intentionally poorly defined"
@@ -54,7 +54,7 @@
 [2025-01-20 03:03 PM] Deciusmus: but that's in the "intentionally blank space" out east
 [2025-01-20 03:03 PM] rsulfuratus: right, yeah
 [2025-01-20 03:04 PM] Deciusmus: In fact, it is really only the red circle here that is poorly defined:
-![[../_discord_assets/image-66C86.png]]
+![[../_assets/discord/image-66C86.png]]
 [2025-01-20 03:05 PM] Deciusmus: the squiggly yellow presumably never recovers from the plague. Although it isn't clear to me where the proto-Dunmari were or came from or went to
 [2025-01-20 03:05 PM] Deciusmus: the blue circle becomes Isingue
 [2025-01-20 03:07 PM] rsulfuratus: early on, i had the dunmari migration from undetermined homeland split, with some going ??? (variously, what we later called MTP or the red circle), and the rest continuing west to Dunmar
@@ -134,7 +134,7 @@
     The [[Mawakel Peninsula]] is home to a unique people worshipping their own version of [[Mos Numena]] and with their own unique language. The cultural derivation of these people is not clear, although many other documents assume Northern/Drankorian blend. Other possibilities could work, including a second set of Downfall Refugees or a intermixing of a unique pantheonic culture with Drankorian culture,
 [2025-01-20 05:14 PM] Deciusmus: is the [[emerald bay]] coast of Apporia best though of as part of the Nevos Sea/Illorian cultural context? or is own thing?
 [2025-01-20 05:17 PM] rsulfuratus: 
-![[../_discord_assets/image-7B6F2.png]]
+![[../_assets/discord/image-7B6F2.png]]
 [2025-01-20 05:17 PM] rsulfuratus: i never made any decisions about anything not on this map
 [2025-01-20 05:18 PM] rsulfuratus: there is a bit of a complex history here, not sure how much is actually in obsidian vs secrets
 [2025-01-20 05:18 PM] Deciusmus: there is a bunch of stuff about th [[Umbral Covenant]], and the pirates of Illoria, and the [[War of the Dark Rift]]

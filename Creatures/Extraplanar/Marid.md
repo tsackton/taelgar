@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 aliases: [marids, Marids, marid]
-tags: [creature, status/check/ai]
+tags: [creature]
 dm_notes: none
 dm_owner: tim
 ---
@@ -92,7 +92,6 @@ Session artifacts and less-canonical working notes checked:
 - [[mawar-adventures-002-human-transcript]]
 - [[mawar-adventures-002-beat-facts-preview]]
 - [[2023-10-30 - Species]]; [[2023-10-31 - Species]]; [[2024-07-26 - Species]]; [[2024-09-04 - Species]]
-- [[2024-07-26]]
 - [[GDrive - History of Taelgar]]
 - [[Options for 6th level features]]
 - [[Zone 1 - DM Notes]]

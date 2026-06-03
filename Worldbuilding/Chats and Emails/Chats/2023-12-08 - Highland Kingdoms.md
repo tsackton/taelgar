@@ -246,7 +246,7 @@
 [2023-12-08 03:22 PM] Deciusmus: what keeps the seine/loire/rhein/elbe as separate rivers?
 [2023-12-08 03:23 PM] rsulfuratus: hah that is just the map I was looking at
 [2023-12-08 03:25 PM] rsulfuratus: 
-![[../_discord_assets/france-physical-map-free-WORLD-MAPS-1024x9-B0F93.png]]
+![[../_assets/discord/france-physical-map-free-WORLD-MAPS-1024x9-B0F93.png]]
 [2023-12-08 04:22 PM] Deciusmus: I'm not sure what you have planned in the north, but it probably makes more sense to split the "Northern Green Sea" from the "Far North"
 [2023-12-08 04:23 PM] Deciusmus: Boundary would be a bit fuzzy but it would distinguish the stuff north west of Vostok and especially on the western side of the Sentinels from Ursk and the mountains north of Urks
 [2023-12-08 04:41 PM] rsulfuratus: yes, I think that makes sense

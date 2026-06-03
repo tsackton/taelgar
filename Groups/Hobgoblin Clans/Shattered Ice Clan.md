@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/check/errors, status/check/ai]
+tags: [group, status/check/errors]
 typeOf: clan
 ancestry: hobgoblin
 dm_notes: important

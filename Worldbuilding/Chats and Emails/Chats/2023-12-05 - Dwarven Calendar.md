@@ -8,9 +8,9 @@
     
     1. We should tweak some of the default text to better take advantage of these features, but I would wait for that to merge
     2. There is still an issue with link text in chains. If you make the place - place link text = "", then you get
-![[../_discord_assets/image-B2799.png]]
+![[../_assets/discord/image-B2799.png]]
 [2023-12-05 11:10 AM] Deciusmus: but if you make it "in" you get:
-![[../_discord_assets/image-8A331.png]]
+![[../_assets/discord/image-8A331.png]]
 [2023-12-05 11:23 AM] Deciusmus: Also messing around a bit the "r" filter is fiddly
 [2023-12-05 11:24 AM] Deciusmus: it would probably be nicer if "r" meant "don't show regions except the first one"
 [2023-12-05 11:27 AM] Deciusmus: For example, Wave Dancer in 1720 shows
@@ -20,7 +20,7 @@
     Because the default filter is r, and the last known location is Eastern Green Sea.
     
     It can be fixed with
-![[../_discord_assets/image-AC5E6.png]]
+![[../_assets/discord/image-AC5E6.png]]
 [2023-12-05 11:27 AM] Deciusmus: but it seems annoying to have to set the startFilter on every region location
 [2023-12-05 11:28 AM] Deciusmus: and sometimes it gets fiddly, i.e. on Akan, you don't want to see the whole chain (plains north east of Kawara, Eastern Dunmar, Dunmar, Central Lowlands...)
 [2023-12-05 11:30 AM] Deciusmus: another option would be to have f mean "always show first"
@@ -279,7 +279,7 @@
 [2023-12-05 09:38 PM] rsulfuratus: that implies something that has a start date specified to the day and either no end or end on the same day
 [2023-12-05 09:39 PM] Deciusmus: yeah, it looks a bit weird
 [2023-12-05 09:39 PM] Deciusmus: 
-![[../_discord_assets/image-AA150.png]]
+![[../_assets/discord/image-AA150.png]]
 [2023-12-05 09:40 PM] rsulfuratus: probably not worth worrying about honestly, there probably isn't anything that actually has an age of 0
 [2023-12-05 09:41 PM] rsulfuratus: maybe round it up to "1 day"
 [2023-12-05 09:42 PM] Deciusmus: the main case would be if we ever did something like show how long someone was at a stop

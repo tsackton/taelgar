@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/ai]
+tags: [background]
 excludePublish: ["all"]
 dm_owner: joint
 dm_notes: none
@@ -17,6 +17,7 @@ In Game:
 
 Discussions / Out of Game:
 - [[2023-12-07 - Moon]]; [[2024-09-23 - Moon]]
+- [[2025-04-29 - Moon as Prison of Banished Gods]]
 
 ### Dunmar Frontier Werewolf Arc
 

@@ -1,5 +1,5 @@
 ---
-tags: [background, status/cleanup/text, status/check/ai]
+tags: [background, status/cleanup/text]
 dm_owner: mike
 dm_notes: none
 ---

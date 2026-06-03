@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/name, status/check/ai]
+tags: [background, status/check/name]
 excludePublish: ["all"]
 dm_owner: joint
 dm_notes: none

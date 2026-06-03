@@ -5,7 +5,7 @@
 [2023-12-26 11:24 AM] rsulfuratus: although the exact timing could be fairly uncertain as it may have persisted in some form for some time after cloudspinner's disappearance
 [2023-12-26 11:30 AM] rsulfuratus: more in a bit
 [2023-12-26 11:55 AM] rsulfuratus: 
-![[../_discord_assets/feywild-93FD6.png]]
+![[../_assets/discord/feywild-93FD6.png]]
 [2023-12-26 11:56 AM] rsulfuratus: this is kind of rough but I guess I'm not fully understanding the geography you are imagining? especially if the Cleanseau portal is new - that is too far north to be former Amberglow territory IMO
 [2023-12-26 11:57 AM] rsulfuratus: Amberglow probably never really extended north of Insingue
 [2023-12-26 11:57 AM] rsulfuratus: Shimmersong could easily extend a bit east, across the Aurbez plateu, and Duskmire could be in the Darkwood area
@@ -27,7 +27,7 @@
 [2023-12-26 01:58 PM] Deciusmus: Here is one idea...
     
     Thousands of years ago, when Umbraeth was exiled from Twilight's Grace, he established/took over/something a small kingdom, labeled D on this map:
-![[../_discord_assets/image-7BD23.png]]
+![[../_assets/discord/image-7BD23.png]]
 [2023-12-26 01:58 PM] Deciusmus: Perhaps it was even a bit smaller, not covering the Darkwood
 [2023-12-26 02:01 PM] Deciusmus: On the borders were two other fey realms (labeled 1 and 3) which today don't exist.
     
@@ -37,7 +37,7 @@
 [2023-12-26 02:04 PM] Deciusmus: Then, when Cha'mutte died, some echo/something disrupted Realm 1. No idea what exactly (although actually, what if Cha'mutte's death somehow opened a connect to the Far Realms near Ulrich, and there is some kind of blight spreading - or perhaps not really spreading but just present - in all of the echo realms near Ulrich)
 [2023-12-26 02:06 PM] Deciusmus: So now it looks like this:
 [2023-12-26 02:06 PM] Deciusmus: 
-![[../_discord_assets/image-3EE7E.png]]
+![[../_assets/discord/image-3EE7E.png]]
 [2023-12-26 02:07 PM] Deciusmus: Realm 4 on the first map has expanded west a bit and is some sort of powerful fey who Umbraeth doesn't dare mess with
 [2023-12-26 02:07 PM] Deciusmus: (now labeled 2, and not intentionally different from 1st map, just sloppy drawing, other than expanded to the west)
 [2023-12-26 02:08 PM] Deciusmus: Duskmire (now in red) has grown substanitially
@@ -143,7 +143,7 @@
 [2023-12-26 03:10 PM] rsulfuratus: Shimmersong is a hard stop on westward expansion by Umbreath but he might not really care, and might even ally with Lightdancer sometimes to defeat incursions from "scary west thing"
 [2023-12-26 03:11 PM] rsulfuratus: And, perhaps, Ethlenn never really cared much about the southwest - this was always somehow in the Cloudspinner's orbit - so she doesn't do anything after the fall of Amberglow
 [2023-12-26 03:12 PM] Deciusmus: 
-![[../_discord_assets/image-C63EB.png]]
+![[../_assets/discord/image-C63EB.png]]
 [2023-12-26 03:12 PM] rsulfuratus: But as Umbreath becomes more and more a thorn in her side she does make sure that ~fey realm in Sembara~ is not vulnerable
 [2023-12-26 03:12 PM] Deciusmus: So the above has Shimmersong expanded a bit and then #1 is the original duskmire
 [2023-12-26 03:13 PM] Deciusmus: 1+2 is the minimum size of Duskmire now for game reasons. Open quesiton is whether it includes 3 (and it could go a little farther west, basically, until it stopped by the "scary thing")

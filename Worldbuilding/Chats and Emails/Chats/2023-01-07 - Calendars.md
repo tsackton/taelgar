@@ -50,16 +50,16 @@
 [2023-01-07 04:27 PM] Deciusmus: Pushed
 [2023-01-07 05:14 PM] rsulfuratus: npc callout box, yes or no?
 [2023-01-07 05:14 PM] rsulfuratus: 
-![[../_discord_assets/image-93CB8.png]]
+![[../_assets/discord/image-93CB8.png]]
 [2023-01-07 05:15 PM] rsulfuratus: or blockquote?
 [2023-01-07 05:15 PM] rsulfuratus: 
-![[../_discord_assets/image-DBF53.png]]
+![[../_assets/discord/image-DBF53.png]]
 [2023-01-07 05:15 PM] rsulfuratus: two markdown lines?
 [2023-01-07 05:15 PM] rsulfuratus: 
-![[../_discord_assets/image-CBB4D.png]]
+![[../_assets/discord/image-CBB4D.png]]
 [2023-01-07 05:16 PM] rsulfuratus: one line?
 [2023-01-07 05:16 PM] rsulfuratus: 
-![[../_discord_assets/image-B6BE1.png]]
+![[../_assets/discord/image-B6BE1.png]]
 [2023-01-07 05:31 PM] rsulfuratus: also any other metadata fields it would be nice to have to NPCs/People? i am going to update a bunch tonight/tomorrow so want to kind of finalize this setup. 
     
     I have affiliations, but that is more for making org lists with dataview in organization pages, and it isn't really universal.
