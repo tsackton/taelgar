@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [ancestry, status/check/ai]
+tags: [ancestry]
 name: Northerners
 aliases: [Northlander, Northerner]
 dm_notes: none

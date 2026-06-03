@@ -19,7 +19,7 @@
 [2023-12-29 03:44 PM] Deciusmus: Just an idea
 [2023-12-29 03:44 PM] Deciusmus: I liked the idea of a fey place that is focused on talking animals and such
 [2023-12-29 09:53 PM] Deciusmus: Basically what I was thinking was this:
-![[../_discord_assets/feywild-55EAA.png]]
+![[../_assets/discord/feywild-55EAA.png]]
 [2023-12-29 09:57 PM] Deciusmus: where:
     D = Duskmire
     S = Sharpspire, now a dangerous mystery

@@ -4,7 +4,7 @@
 [2024-01-02 12:17 PM] rsulfuratus: Correct
 [2024-01-02 12:17 PM] rsulfuratus: Might do it tonight so send whatever other tweaks you have
 [2024-01-02 01:09 PM] Deciusmus: 
-![[../_discord_assets/image-6CD2B.png]]
+![[../_assets/discord/image-6CD2B.png]]
 [2024-01-02 01:09 PM] Deciusmus: the 3 added grey boxes are new hills : extensions of Braebine and Aine Hills, plus the new Aveil Ridge
 [2024-01-02 01:10 PM] Deciusmus: The arrows show the direction the lines of hills run; Braebine and Aine are basically where the land starts to rise towards the highlands
 [2024-01-02 01:11 PM] Deciusmus: The green areas are new forests, one just north of Cleenseau the other extending along the entire highand side of the Aine Hills
@@ -21,7 +21,7 @@
 [2024-01-02 10:10 PM] rsulfuratus: generally for precise detail I'd suggest making a separate hexmap since it is difficult to represent things that are `<30 miles or so on the world map
 [2024-01-02 10:10 PM] Deciusmus: yeah that makes sense
 [2024-01-02 10:12 PM] rsulfuratus: I've used these
-[Attachment: ACKS_BlankHexMaps.pdf](../_discord_assets/ACKS_BlankHexMaps-09DEB.pdf)
+[Attachment: ACKS_BlankHexMaps.pdf](../_assets/discord/ACKS_BlankHexMaps-09DEB.pdf)
 [2024-01-02 10:13 PM] Deciusmus: looks great
 [2024-01-02 10:15 PM] Deciusmus: I've drawn detail maps with https://inkarnate.com
 [2024-01-02 10:15 PM] Deciusmus: you can see the Cleenseau town one and the Cleenseau region one in obsidian

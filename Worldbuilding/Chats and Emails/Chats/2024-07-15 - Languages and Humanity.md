@@ -106,7 +106,7 @@
     
     Alternatively, it seems like it would be plausible to say that sylvan isn't really a specific set of glyphs at all, but something more magical than that, and its connection to a specific language kinda vague
 [2024-07-15 01:34 PM] Deciusmus: It seems weird to me to think that say the character:
-![[../_discord_assets/image-A7681.png]]
+![[../_assets/discord/image-A7681.png]]
 [2024-07-15 01:34 PM] Deciusmus: is somewhat clearly understand as the sound "Th" in drankorian
 [2024-07-15 01:34 PM] rsulfuratus: Ah yeah actually I like the “fey can add determinatives to other scripts”
 [2024-07-15 01:35 PM] Deciusmus: Which implies that you don't need any special magic or anything to read sylvan writing. (although if you don't know the sylvan language, the fey would have to have been writing in your language)

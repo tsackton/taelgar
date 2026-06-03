@@ -8,7 +8,7 @@
 [2025-01-23 01:18 PM] Deciusmus: I wonder if it would make more sense to consider:
     
     (a)
-![[../_discord_assets/image-37B3D.png]]
+![[../_assets/discord/image-37B3D.png]]
 [2025-01-23 01:20 PM] Deciusmus: i.e. #1 - Greater Dunmar, basically the dunarmi basin + Myrani Gap up to the Kharia
     #2 Istaros River Valley, extending as far south as Drankor/Desoluation Around Drankor
     #3 "Eastern Drankor" basically the area south of the east branch of the Mahar
@@ -41,10 +41,10 @@
     Cymea - all in west green sea? or is western cymea in Greater Sembara?
 [2025-01-23 02:45 PM] rsulfuratus: I don't think 4. the svinjo mountains are a pretty sharp dividing line
 [2025-01-23 02:47 PM] Deciusmus: are they? the in-game vibe I got was that the Vimfrost events and giants and whatnot had a non-trivial impact on this region:
-![[../_discord_assets/image-8254D.png]]
+![[../_assets/discord/image-8254D.png]]
 [2025-01-23 02:48 PM] Deciusmus: they are obviously a significant barrier in game, but from an "invention" standpoint is that yellow highlighted area more connected to the Vargaldi/white dragons/etc or to the Zimka?
 [2025-01-23 02:50 PM] Deciusmus: although maybe actually something like this:
-![[../_discord_assets/image-CB762.png]]
+![[../_assets/discord/image-CB762.png]]
 [2025-01-23 02:50 PM] Deciusmus: S = part of sembara
     U = "ursk" region, but actually perhaps a canonically "blank" area
     W = part of west green sea
@@ -65,28 +65,28 @@
 [2025-01-23 03:00 PM] rsulfuratus: with this stuff moved to western green sea, i'd move irrla to eastern green sea. i think it works as the western edge of the "east" more than the eastern edge of the "west", if that makes sense
 [2025-01-23 03:01 PM] rsulfuratus: that still leaves the plaguelands isolated as the only thing in a region that is basically the upper istaros. although perhaps orenlas fits in the upper istaros. actually, you could move xurkhaz to the upper istaros as well
 [2025-01-23 03:02 PM] Deciusmus: so sembara basically this:
-![[../_discord_assets/image-DF90C.png]]
+![[../_assets/discord/image-DF90C.png]]
 [2025-01-23 03:03 PM] rsulfuratus: yeah
 [2025-01-23 03:04 PM] rsulfuratus: although i'd put the darkwood in sembara, it is much more closely tied to addermarch than the plaguelands
 [2025-01-23 03:06 PM] rsulfuratus: obviously the line between the upper istaros and the western green sea is pretty vague because nothing is invented in south cymea, but i think find to leave that vague, but include the "undeveloped historical insingue area" in upper istaros and the "undeveloped historical drankorian providence of South Cymea" in western green sea
 [2025-01-23 03:46 PM] Deciusmus: another question:
-![[../_discord_assets/image-D1385.png]]
+![[../_assets/discord/image-D1385.png]]
 [2025-01-23 03:46 PM] Deciusmus: where is the line between "Dunmar basin" and "Ruins of Drankor"?
 [2025-01-23 03:47 PM] Deciusmus: is it more like the red or the black or something lese?
-![[../_discord_assets/image-61461.png]]
+![[../_assets/discord/image-61461.png]]
 [2025-01-23 03:48 PM] Deciusmus: 2nd is the dunmari north-western border more like red/blue/black or something lese?
-![[../_discord_assets/image-73433.png]]
+![[../_assets/discord/image-73433.png]]
 [2025-01-23 03:50 PM] Deciusmus: finally should the Chardon vs Nevos/Apporia line be the green one along south chardon area, or more like the yellow one here?
-![[../_discord_assets/image-D2BA8.png]]
+![[../_assets/discord/image-D2BA8.png]]
 [2025-01-23 04:27 PM] rsulfuratus: I think this is roughly what I'd do
-![[../_discord_assets/image-657EB.png]]
+![[../_assets/discord/image-657EB.png]]
 [2025-01-23 04:28 PM] Deciusmus: where c = chardon?
 [2025-01-23 04:28 PM] rsulfuratus: yeah
 [2025-01-23 04:29 PM] rsulfuratus: I think the Yeraad river valley is definitively not Nevos culturally, and better to keep the river together. the highlands towards Dunmar (south of the mountains) are Nevos; dividing line between Nevos/Dunmar is arbitrary - Darba was at one point Illorian, after all. the mountains should all be Chardon
 [2025-01-23 04:30 PM] rsulfuratus: the canal is clearly chardonian now, but the area is more nevos in culture. exact dividing line south of chardon TBD since that area is not invented. but for sure the canal should be nevos
 [2025-01-23 04:31 PM] rsulfuratus: to the south, basically the "high desert" should be outside greater dunmar, with the line running Xurkhaz east to Kharja, then south, cutting across the southern edge of the Hara River Gorge (the only outflow from the DUnmari Basin), then across Yuvanti to the line of the Shrev. this splits historical dunmar a bit but makes a good dividing line in the present between "dunmar-ish" and "true desolation"
 [2025-01-23 04:34 PM] Deciusmus: Last question is this the right dividing line between "ursk-ish" and far north/eastern green sea?
-![[../_discord_assets/image-14681.png]]
+![[../_assets/discord/image-14681.png]]
 [2025-01-23 04:34 PM] Deciusmus: with the cavaet that the line between "Eastern green sea" and "Far north" is actually totally arbitrary since this whole "far northeast" region is completely blank
 [2025-01-23 04:35 PM] rsulfuratus: i'd put it along the ket (river that goes west from Zvervinka). that is basically the northern edge of Vargaldi territory and kind of marks "here be dragons beyond"
 [2025-01-23 04:36 PM] rsulfuratus: never decided what, if anything, should be in the blank space just north of zvervinka. probably that is "eastern green sea" (just extend the green line you have now to meet the ket)
@@ -94,7 +94,7 @@
 [2025-01-23 04:36 PM] Deciusmus: I plan to have a couple of dashed lines to indicate "totally arbitrary"
 [2025-01-23 04:55 PM] Deciusmus: would it make sense to split Mawar into a region with the rest of the "North Bay" ? it feels like development of the north bay region makes the most sense as part of a renewed interest in mawer
 [2025-01-23 04:57 PM] Deciusmus: i.e. something like:
-![[../_discord_assets/image-062DE.png]]
+![[../_assets/discord/image-062DE.png]]
 [2025-01-23 04:57 PM] Deciusmus: M= Mawar
     C = Chardon
     NS = north sentinenls
@@ -103,9 +103,9 @@
 [2025-01-23 05:00 PM] rsulfuratus: for meta-game reasons, development in the north (voltara and surroundings) have proceded largely without much consideration of the south, except the chalyte trade links them
 [2025-01-23 05:00 PM] rsulfuratus: and lake valandros remains a big blank spot
 [2025-01-23 05:00 PM] Deciusmus: 
-![[../_discord_assets/image-3963E.png]]
+![[../_assets/discord/image-3963E.png]]
 [2025-01-23 05:01 PM] Deciusmus: and then something like this for Mawar + the North?
-![[../_discord_assets/image-5C877.png]]
+![[../_assets/discord/image-5C877.png]]
 [2025-01-23 05:03 PM] rsulfuratus: yeah. although now I'm reconsidered whether the chardon line shouldn't include north apporia, basically a line from the southern end of the canal through the two hills to the coast
 [2025-01-23 05:04 PM] rsulfuratus: i'm not sure it matters too much either way. there are always going to be boundary regions
 [2025-01-23 05:05 PM] Deciusmus: the advantage of moving it is it makes the canonical vs non-canonical clearer, i.e. it is a "canon exists north of here" line
@@ -113,7 +113,7 @@
 [2025-01-23 05:06 PM] rsulfuratus: yeah that is a good argument
 [2025-01-23 05:07 PM] rsulfuratus: i think i'd shift it
 [2025-01-23 05:07 PM] Deciusmus: here's what I have
-![[../_discord_assets/Taelgar_Map_Full-F09A3.png]]
+![[../_assets/discord/Taelgar_Map_Full-F09A3.png]]
 [2025-01-23 05:08 PM] Deciusmus: green dotted lines are "this area is so poorly defined the regional boundaries are not clear"
 [2025-01-23 05:10 PM] Deciusmus: I'll move Chardon/Nevos, any other feedback? otherwise I'm going to number them and update the region map in obsidian
 [2025-01-23 05:14 PM] rsulfuratus: i'd move the upper istaros / Drankor ruins / western green sea line down to the Istaros tributary that comes from the eastern border mountains.

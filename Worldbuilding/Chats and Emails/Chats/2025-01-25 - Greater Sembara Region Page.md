@@ -28,13 +28,13 @@
 [2025-01-25 01:26 PM] Deciusmus: do you have any sense what the geographic of central vostok is like?
 [2025-01-25 01:27 PM] rsulfuratus: not really
 [2025-01-25 01:28 PM] Deciusmus: i'm envisioning everything inside the yellow as "highlands"
-![[../_discord_assets/image-7B63E.png]]
+![[../_assets/discord/image-7B63E.png]]
 [2025-01-25 01:29 PM] Deciusmus: which nicely separates Tollen from Vostok except by sea
 [2025-01-25 01:29 PM] rsulfuratus: the river patterns imply roughly that, yes
 [2025-01-25 01:30 PM] rsulfuratus: the hills east/south east of tollen should probably extend up the volta a bit. at one point this was thought to be source of metal for the tollen mint
 [2025-01-25 01:30 PM] rsulfuratus: but not sure if that is canonical
 [2025-01-25 01:31 PM] Deciusmus: and I'm envisioning the "P" area to be a moderately high plateau (not Tibet or anything like that, but still 2000-4000 ft)
-![[../_discord_assets/image-DF58E.png]]
+![[../_assets/discord/image-DF58E.png]]
 [2025-01-25 01:31 PM] Deciusmus: but the ? I don't have a clear sense of
 [2025-01-25 01:33 PM] rsulfuratus: probably in general it should be forest
 [2025-01-25 01:33 PM] rsulfuratus: i think the region north of the wall is only not forest because it is too dry
@@ -47,7 +47,7 @@
 [2025-01-25 01:36 PM] rsulfuratus: and the vostok coast is fairly flat until you get to near the mountains
 [2025-01-25 01:37 PM] rsulfuratus: something like the saint lawerence gulf coast of canada
 [2025-01-25 01:40 PM] rsulfuratus: 
-![[../_discord_assets/sembara-region-map-CE7B0.png]]
+![[../_assets/discord/sembara-region-map-CE7B0.png]]
 [2025-01-25 01:40 PM] rsulfuratus: the dark blue are highlands, with the plateau with the lake maybe kind of like lake yellowston
 [2025-01-25 01:40 PM] rsulfuratus: river valleys slope down towards the coast in light blue
 [2025-01-25 01:41 PM] rsulfuratus: with light blue circle coastal lowlands
@@ -57,7 +57,7 @@
 [2025-01-25 01:43 PM] rsulfuratus: right, since most of the moisture comes from the green sea by the time you get to 4000 feet it is cold and dry
 [2025-01-25 01:43 PM] rsulfuratus: not obvious on the map but i think the idea would be that the lowland rivers have many unmapped tributaries but the "lake yellowstone" area does not
 [2025-01-25 01:57 PM] Deciusmus: ok so something like this:
-![[../_discord_assets/image-0873C.png]]
+![[../_assets/discord/image-0873C.png]]
 [2025-01-25 01:59 PM] rsulfuratus: yeah
 [2025-01-25 02:05 PM] Deciusmus: where pink = highlands, blue = lowlands, 
     #1 - "Zimkova foothills" - hilly "highland" terrain, mostly forested, many rivers and lakes that are not on the map, plus the big ones that are. Zimka culture

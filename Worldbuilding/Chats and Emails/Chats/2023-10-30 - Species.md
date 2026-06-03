@@ -170,7 +170,7 @@
 [2023-10-30 08:32 PM] Deciusmus: I'm mapping out the Third Hobgoblin War in a bit more detail, and trying to figure out Addermarch's place it in
 [2023-10-30 08:34 PM] Deciusmus: I think it is canonical that it is an indepedent Earldom with ties to both Tyrwingha and Sembara (earl being a Tyrwinghan title anyway)
 [2023-10-30 08:35 PM] Deciusmus: I have this basic idea that the Shattered Ice Clan came out of the Sentinel Range and thrust down the Enst, eventually forming a kingdom approximately in the red section:
-![[../_discord_assets/image-867E5.png]]
+![[../_assets/discord/image-867E5.png]]
 [2023-10-30 08:36 PM] Deciusmus: (and perhaps even a bit farther into the section labelled "borderlands')
 [2023-10-30 08:37 PM] Deciusmus: (partly, this is in service of the goal of having Cleenseau being a border fort / interior town / border fort / interior town in cycles to drive some undiscovered ruins beneath the current town)
 [2023-10-30 08:42 PM] rsulfuratus: I am copying all my OneNote addermarch notes to Obsidian now, will push (in worldbuilding) soon

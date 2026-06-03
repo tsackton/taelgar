@@ -83,19 +83,19 @@
 [2023-01-04 02:37 PM] Deciusmus: yup
 [2023-01-04 08:29 PM] Deciusmus: what do you think of this:
 [2023-01-04 08:29 PM] Deciusmus: 
-![[../_discord_assets/image-F21B5.png]]
+![[../_assets/discord/image-F21B5.png]]
 [2023-01-04 08:29 PM] Deciusmus: links are all live
 [2023-01-04 08:29 PM] Deciusmus: its a mermaid chart form of family tree
 [2023-01-04 08:32 PM] rsulfuratus: I kinda like having the categories on the graph in color. Not sure having the words clickable really matters, the links are right there on the page
 [2023-01-04 08:38 PM] Deciusmus: mostly I was playing around with how to make family trees because it is alot easier to do it in mermaid than as images, I find
 [2023-01-04 08:38 PM] Deciusmus: But I can revert the dunmari one if you don't like it (or use styles to re-add the colors)
 [2023-01-04 08:39 PM] Deciusmus: real goal is this:
-![[../_discord_assets/image-5A300.png]]
+![[../_assets/discord/image-5A300.png]]
 [2023-01-04 08:40 PM] rsulfuratus: yeah I think for general purpose family trees where ones don't exist it is nice to have that option, I'd just not bother replacing existing stuff. if you could make it look more like a traditional family tree (without the weird nameless squares representing parental relationships) it would be nicer too, I think. it just looks a bit weird to me.
 [2023-01-04 08:46 PM] Deciusmus: no way to do it without the weird nameless squares at the moment
 [2023-01-04 08:47 PM] Deciusmus: https://github.com/mermaid-js/mermaid/issues/1747
 [2023-01-04 08:50 PM] Deciusmus: looks better for the sembaran house where mostly the wives/husbands dont matter
-![[../_discord_assets/image-4EA93.png]]
+![[../_assets/discord/image-4EA93.png]]
 [2023-01-04 09:15 PM] rsulfuratus: yeah
 [2023-01-04 09:24 PM] rsulfuratus: btw, if either of us renames a page, we should try to keep the old name as an alias, otherwise you risk breaking links to session notes and other non-shared stuff (the old links become orphans). i am looking for ways to find all orphan links now, which would allow you to create them and then merge the ones that exist (which would fix linking issues)
 [2023-01-04 09:34 PM] rsulfuratus: there is a plugin called "dangling links" that is seems to work to list all dangling links. fixing a bunch now

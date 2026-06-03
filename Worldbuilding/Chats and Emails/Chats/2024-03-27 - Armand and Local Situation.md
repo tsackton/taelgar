@@ -44,7 +44,7 @@ I like the idea that pre-hobgoblin wars Rinburg was another major tradiing area,
 So Addermarch is on the southern border, and the entire borderlands and northern 1/3 of Maseau is under hobgoblin control for 45 years
 [2024-03-27 02:13 PM] Deciusmus: Although I'm not sure if I really meant the Aure, as the rest of the history isn't that consistent with that
 [2024-03-27 02:15 PM] rsulfuratus: so here is a random image of the Danube from the internet that maybe gets the Enst vibe a little bit:
-![[../_discord_assets/img_61431bf1d71a7-22378.png]]
+![[../_assets/discord/img_61431bf1d71a7-22378.png]]
 [2024-03-27 02:15 PM] rsulfuratus: why not the Aure?
 [2024-03-27 02:16 PM] Deciusmus: Just that the history isn't consistent...
 (DR:: 1602): The lands south of the Enst and west of the Aure are ceded to the hobgoblins. 
@@ -78,11 +78,11 @@ But Fellburn, although it is sacked in 1647, is never really occupied. It is qui
 [2024-03-27 02:26 PM] Deciusmus: something like:
 
 1600
-![[../_discord_assets/image-BE8A8.png]]
+![[../_assets/discord/image-BE8A8.png]]
 [2024-03-27 02:26 PM] rsulfuratus: but getting back to Fellburn and the border baronies, I think this still leaves a slight puzzle, because Fellburn is not naturally positioned as a defensive location. so I think Fellburn should have something worth defending to motivate the garrison
 [2024-03-27 02:27 PM] rsulfuratus: it is kind of a weird shape. why do the hobgoblins push so far west, especially if the border baronies are kind of marginal land?
 [2024-03-27 02:27 PM] Deciusmus: 1645
-![[../_discord_assets/image-E2176.png]]
+![[../_assets/discord/image-E2176.png]]
 [2024-03-27 02:28 PM] Deciusmus: I think it is less marginal than the northern third of Maseau, which is hill and also dry
 [2024-03-27 02:29 PM] Deciusmus: But Sembara has the ability and will to defend the Enst, so isn't going to give up land north of the Enst. It is a strategic sacrifice on the Sembaran side to give up marginal land to avoid a bloody battle defending the Enst, which the hobgoblins take for similar reasons
 [2024-03-27 02:30 PM] Deciusmus: Simiarly, the core of Maseau (the southern 1/3 or so where the land is better) is where almost all the people of Maseau live, so they are going to defend their homes to the death. But the northern parts are mostly empty, so easy for the hobgoblins to move in
@@ -130,7 +130,7 @@ After the Fall of Drankor, Fellburn persisted - in these days, much seemed dark,
 As Sembara grew, Fellburn came to prosper. It was never the greatest economic powerhouse of the Enst, for the river was too wide here for a crossing, even in Drankorian days (or, the hills on either side too steep), and with no easy harbors it did not lend itself to a riverboat port. 
 
 But, the pilgrims always came, and with them coin, and so the city grew.
-![[../_discord_assets/rsulfuratus_a_digital_fantasy_illustration-25069.png]]
+![[../_assets/discord/rsulfuratus_a_digital_fantasy_illustration-25069.png]]
 [2024-03-27 06:26 PM] rsulfuratus: (picture is tentative)
 [2024-03-27 06:29 PM] Deciusmus: I like that. Interestingly this is very close to the line of sunset in the fey wild.
 [2024-03-27 06:31 PM] rsulfuratus: I was trying to make it very much not fey flavored - kind of thinking this is more of a mystery that shouldn't fit any obvious categories

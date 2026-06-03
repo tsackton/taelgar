@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/ai]
+tags: [background]
 name: Elven Cycle of Generations
 aliases: [ka]
 dm_owner: joint

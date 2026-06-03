@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [ancestry, status/check/mike, status/check/ai]
+tags: [ancestry, status/check/mike]
 displayDefaults: {defArt: the, boxInfo: <partOf:1UA> culture, wHome: ""}
 name: Zimka
 partOf: Northerners

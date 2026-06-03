@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place]
 name: Land of the Dead
 aliases: [River of Souls, Divine Veil]
 displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}

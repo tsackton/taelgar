@@ -17,7 +17,7 @@
     
     
     Is your view that the four regions you have are basically what I've labeld 1/2/3/4 here:
-![[../_discord_assets/image-D9F3A.png]]
+![[../_assets/discord/image-D9F3A.png]]
 [2024-09-10 04:33 PM] rsulfuratus: yes
 [2024-09-10 04:34 PM] Deciusmus: I was confused because you had "NORTH" of Latazaro swamp, took me a minute to figure out you meant south (I'm fixing)
 [2024-09-10 04:35 PM] Deciusmus: how hilly is the darkwood? is it split by the hills, or kinda more inside the "bowl"?
@@ -27,11 +27,11 @@
 [2024-09-10 04:37 PM] Deciusmus: right. maybe westcliff is more like a sideways T
 [2024-09-10 04:39 PM] Deciusmus: or I guess not quite, but the land of the Darkwood itself is hilly to the west and north, less so to the south and east
 [2024-09-10 04:40 PM] rsulfuratus: I think Westcliff is kind of a big C marked in brown, with the very steep sections the two parallel lines due west
-![[../_discord_assets/image-6C5FE.png]]
+![[../_assets/discord/image-6C5FE.png]]
 [2024-09-10 04:41 PM] Deciusmus: height of land being something like:
     
     with 1 being the highest, then 2, then 4, and 3, then 5
-![[../_discord_assets/image-49DBD.png]]
+![[../_assets/discord/image-49DBD.png]]
 [2024-09-10 04:42 PM] rsulfuratus: yes, exactly
 [2024-09-10 04:42 PM] rsulfuratus: maybe swapping 4 and 3
 [2024-09-10 04:43 PM] rsulfuratus: or anyway 4 and 3 are pretty close. 5 is noticably less high than 3/4
@@ -74,16 +74,16 @@
 [2024-09-10 06:05 PM] rsulfuratus: i think the addermarch border to the north runs along the line of the cliffs (where there really isnt a border since no one lives on the very summits), and on the west side of the Aure the cliff line basically meets the river, anything north of that is "not Addermarch" but might be either Tyrwingha or Sembaran borderlands
 [2024-09-10 06:06 PM] rsulfuratus: on the east of the Aure, the border with Tyrwingha is marked by ancient stones from Drankorian era with fey markings
 [2024-09-10 06:07 PM] rsulfuratus: something like the blue lines
-![[../_discord_assets/image-BB4F6.png]]
+![[../_assets/discord/image-BB4F6.png]]
 [2024-09-10 06:08 PM] Deciusmus: Right. I was envisioning stones that went from the Aure to peak along ridge. Sorta where the blue line is but maybe a little bit south, i.e. just straighter east
 [2024-09-10 06:09 PM] rsulfuratus: yeah that works too
 [2024-09-10 06:09 PM] Deciusmus: The Tyrwinghan border, is basically then: the coast/Aure/line of markers/not defined because no one lives in the southern parts of the Tyrwinghan ridge
 [2024-09-10 06:11 PM] rsulfuratus: something like
-![[../_discord_assets/image-BB2BC.png]]
+![[../_assets/discord/image-BB2BC.png]]
 [2024-09-10 06:11 PM] Deciusmus: basically this:
     
     where the yellow highlight is tyrwinghan border, the red x's is the fey/drankorian marker line, and the blue scribble is a height of land
-![[../_discord_assets/image-AE003.png]]
+![[../_assets/discord/image-AE003.png]]
 [2024-09-10 06:12 PM] rsulfuratus: yeah
 [2024-09-10 06:12 PM] Deciusmus: so the "tyrwinghan" ridge region doesn't have "borders", it is just unsettled land between tyrwinghan and addermarch
 [2024-09-10 06:13 PM] Deciusmus: I'm not totally clear on what the forset just south of the hills is though
@@ -93,12 +93,12 @@
 [2024-09-10 06:14 PM] rsulfuratus: i think the rivers that join just north of the big southern lake delimit the kind of outer edge of the influence of Orenlas
 [2024-09-10 06:15 PM] rsulfuratus: although none of this is technically canon. in the defunct Plaguelands campaign the Cinder Court (which was the main enemy) was going to be based in the forests between Orenlas and Addermarch
 [2024-09-10 06:15 PM] Deciusmus: 
-![[../_discord_assets/image-36320.png]]
+![[../_assets/discord/image-36320.png]]
 [2024-09-10 06:16 PM] Deciusmus: hard to read, but trying to say the far west blue circle is darkwood. the yellow line is about Orenlas? But the other 2 big blue circles.. are you saying those are plagueland? Or just "hrm bad stuff no people who knows what bad stuff"?
 [2024-09-10 06:16 PM] rsulfuratus: the lower left "?" is, IMO, kinda "Darkwood++"
 [2024-09-10 06:17 PM] rsulfuratus: the Darkwood in my mind has this kind of "evil fey" vibe of always trying to press in and grow into the human kingdoms
 [2024-09-10 06:17 PM] Deciusmus: this doesn't have to be canon, but:
-![[../_discord_assets/image-CE24E.png]]
+![[../_assets/discord/image-CE24E.png]]
 [2024-09-10 06:18 PM] Deciusmus: but maybe twilight's grace doesn't so quite so far south and/or the taelgar/feywild mapping isn't perfect or something
 [2024-09-10 06:18 PM] rsulfuratus: yeah exactly so the lower left ? is matching up perfectly with Duskmire
 [2024-09-10 06:18 PM] Deciusmus: Yeah
@@ -118,14 +118,14 @@
 [2024-09-10 06:22 PM] Deciusmus: right, ok
 [2024-09-10 06:23 PM] rsulfuratus: I think if you look at the topography as implied by watersheds instead of the drawn hills
 [2024-09-10 06:24 PM] Deciusmus: so you really have high ridges like:
-![[../_discord_assets/image-42073.png]]
+![[../_assets/discord/image-42073.png]]
 [2024-09-10 06:24 PM] rsulfuratus: yeah, i think that is more accurate
 [2024-09-10 06:25 PM] rsulfuratus: then what is the woods northeast of darkwood and west of orenlas is an open question but definitely not "human civilization"
 [2024-09-10 06:25 PM] Deciusmus: I like that, lessens the need to define what is south of the hills
 [2024-09-10 06:26 PM] Deciusmus: So basically, in my "five ridgelines" the big change is really that the "Aure Headwaters Ridge" runs all the way east until it connects with the Tyrwinghan Ridge
 [2024-09-10 06:27 PM] Deciusmus: and probably that area - where the ridges intersect - is the highest and roughest terrain east of Westcliff
 [2024-09-10 06:29 PM] Deciusmus: so something like:
-![[../_discord_assets/image-BF1DD.png]]
+![[../_assets/discord/image-BF1DD.png]]
 [2024-09-10 06:30 PM] Deciusmus: yellow = major ridges
     green = lower/minor ridges
     red xs = particularly high points

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/ai]
+tags: [background]
 dm_owner: mike,tim
 dm_notes: none
 ---

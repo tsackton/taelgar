@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [creature, status/check/ai]
+tags: [creature]
 name: Hobgoblins
 aliases: [hobgoblin, hobgoblins, Hobgoblin]
 dm_owner: joint
@@ -98,17 +98,17 @@ Much of the decades after the [[Great War]], however, were defined by hobgoblin 
 - Discord and email discussions: [[2025-01-28 - Chardon History]]; [[2025-01-29 - Chardon History]]; [[2023-01-05 - Grand Sweep of History]]; [[2023-10-29 - Grand Sweep of History]]; [[2023-10-30 - Grand Sweep of History]]; [[2025-01-31 - Chardon Wars Against Hobgoblins]]; [[2023-11-04 - Avatus and Hobgoblins]]; [[2024-01-04 - Sembara History]]; [[2024-01-05 - Sembara History]]; [[2024-03-27 - Fellburn]]; [[2023-11-05 - Rangers and Elves]]; [[Email  - Taelgar Races]]; [[Email - A Few Thoughts on Taelgar Races]]; [[Email - Brief Thoughts on Elder Races]]
 
 ### Key Discord Chats
-- [[2023-01-05]]: Sembaran hobgoblin wars
-- [[2023-10-29]]: Sembara and western hobgoblin kingdoms after the Great War; Bitter Knife, Iron Fang, and Shattered Ice timelines
-- [[2023-10-30]]: Sembaran hobgoblin wars
-- [[2023-11-04]], [[2023-11-05]]: Great War fallout around Cleenseau; hobgoblin attitudes, halfling relations, and the Third Hobgoblin War
-- [[2024-01-04]]: Hobgoblins in Semvara
-- [[2024-03-27]]: Fellburn, the Oracle of Hope, and the hobgoblin sack and its significance in current campaigns
-- [[2025-01-28]], [[2025-01-29]], [[2025-01-31]]: Three post-Cha'mutte hobgoblin strands (conquest, brutal, and conclave) and northern coast history
-- [[2025-08-06]], [[2025-10-06]]: Hobgoblins and Plaguelands history
-- [[2025-11-02]]: Hobgoblins and goblins relationship
-- [[2025-11-07]]: Metaphysics
-- [[2025-11-11]]: Hobgoblins and goblins and language
+- [[2023-01-05 - Grand Sweep of History]]: Sembaran hobgoblin wars
+- [[2023-10-29 - Grand Sweep of History]]: Sembara and western hobgoblin kingdoms after the Great War; Bitter Knife, Iron Fang, and Shattered Ice timelines
+- [[2023-10-30 - Grand Sweep of History]]: Sembaran hobgoblin wars
+- [[2023-11-04 - Avatus and Hobgoblins]], [[2023-11-05 - Great War]]: Great War fallout around Cleenseau; hobgoblin attitudes, halfling relations, and the Third Hobgoblin War
+- [[2024-01-04 - Conquest]]: Hobgoblins in Semvara
+- [[2024-03-27 - Fellburn]]: Fellburn, the Oracle of Hope, and the hobgoblin sack and its significance in current campaigns
+- [[2025-01-28 - Chardon History]], [[2025-01-29 - Chardon History]], [[2025-01-31 - Chardon Wars Against Hobgoblins]]: Three post-Cha'mutte hobgoblin strands (conquest, brutal, and conclave) and northern coast history
+- [[2025-08-06 - Upper Istaros Region]], [[2025-10-06 - Species and Cultures]]: Hobgoblins and Plaguelands history
+- [[2025-11-02 - Fey Realms]]: Hobgoblins and goblins relationship
+- [[2025-11-07 - Cosmology and Planes]]: Metaphysics
+- [[2025-11-11 - Species and Cultures]]: Hobgoblins and goblins and language
 
 %%^End%%
 

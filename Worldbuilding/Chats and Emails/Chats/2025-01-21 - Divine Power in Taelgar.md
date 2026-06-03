@@ -98,7 +98,7 @@
 [2025-01-21 09:07 PM] Deciusmus: You'd extend the western gulf up along the sembaran rivers (making Embry, with its pre-downfall origin, originally a coastal city)
 [2025-01-21 09:10 PM] rsulfuratus: Huh. I like that actually
 [2025-01-21 09:21 PM] Deciusmus: Something like this:
-![[../_discord_assets/image-9F473.png]]
+![[../_assets/discord/image-9F473.png]]
 [2025-01-21 09:21 PM] Deciusmus: light blue is green sea
 [2025-01-21 09:21 PM] Deciusmus: green is the big swamp
 [2025-01-21 09:21 PM] Deciusmus: yellow is elf
@@ -109,7 +109,7 @@
 [2025-01-21 09:32 PM] rsulfuratus: i might tweak a few details but i like the basic idea
 [2025-01-21 09:32 PM] rsulfuratus: it sets tyrwingha up as pretty unusual in some respects, which probably makes sense
 [2025-01-21 09:34 PM] Deciusmus: here's a slight different version - brown = human, yellow = elf, green = lizardfolk, blue = dwarf, light blue = green sea:
-![[../_discord_assets/image-48F33.png]]
+![[../_assets/discord/image-48F33.png]]
 [2025-01-21 09:37 PM] Deciusmus: not really committed to the specific details, but the idea would be:
     
     (a) pretty much all of the core lands that will become drankorian heartland have no humans at the time Drankor expands into the lands. 
@@ -125,7 +125,7 @@
 [2025-01-21 09:45 PM] rsulfuratus: i'm sure there is a way to square that circle but it feels a little too pat to me
 [2025-01-21 09:47 PM] Deciusmus: it does feel that without some degree of magic of divine intervention, it is a little pat
 [2025-01-21 09:48 PM] rsulfuratus: re: cymea
-![[../_discord_assets/cymea-2563F.png]]
+![[../_assets/discord/cymea-2563F.png]]
 [2025-01-21 09:48 PM] rsulfuratus: this is super rough
 [2025-01-21 09:48 PM] Deciusmus: yeah but that actually lines up perfectly with my map
 [2025-01-21 09:49 PM] Deciusmus: my brown circle of "old mariner" culture lines up with your green circle
@@ -133,13 +133,13 @@
 [2025-01-21 09:50 PM] rsulfuratus: right, okay, i guess i just think of both green + red as 'north cymea" but yeah the maps line up
 [2025-01-21 09:50 PM] Deciusmus: right, yeah, I said it badly
 [2025-01-21 09:51 PM] Deciusmus: I mean, I was thinking something more like:
-![[../_discord_assets/image-D7028.png]]
+![[../_assets/discord/image-D7028.png]]
 [2025-01-21 09:52 PM] Deciusmus: but I don't have any particlarly clear thoughts
 [2025-01-21 09:52 PM] Deciusmus: I mean, I like your view, not saying I am suggesting changing it or anything
 [2025-01-21 09:52 PM] Deciusmus: just saying when I said "north" / "central" / "south" that is what I was thinking
 [2025-01-21 09:53 PM] Deciusmus: either way, I wasn't really planning on commiting to anything in particular here
 [2025-01-21 09:54 PM] Deciusmus: The main idea is that there were no meaningful human cultures in the red circle:
-![[../_discord_assets/image-2FC9B.png]]
+![[../_assets/discord/image-2FC9B.png]]
 [2025-01-21 09:54 PM] Deciusmus: when drankorians land
 [2025-01-21 09:55 PM] rsulfuratus: right - although also remember a good chunk of the land west of the yuvanti mountains is ocean at this point, and the mountains don't exist
 [2025-01-21 09:55 PM] Deciusmus: well, yeah
@@ -151,7 +151,7 @@
 [2025-01-21 09:59 PM] rsulfuratus: going back to cymea - i think that actually sets up the mysterious south cymea as actually perhaps the best "byzantine equivalent" post-drankor survival of empire
 [2025-01-21 09:59 PM] Deciusmus: yeah
 [2025-01-21 09:59 PM] Deciusmus: here is the map I've playing with:
-![[../_discord_assets/image-818C1.png]]
+![[../_assets/discord/image-818C1.png]]
 [2025-01-21 09:59 PM] Deciusmus: which is agnostic as to where the non-human empires were
 [2025-01-21 10:00 PM] Deciusmus: but
     

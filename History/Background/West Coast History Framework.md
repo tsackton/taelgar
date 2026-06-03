@@ -1,5 +1,5 @@
 ---
-tags: [background, status/cleanup/text, status/cleanup/map, status/check/ai]
+tags: [background, status/cleanup/text, status/cleanup/map]
 excludePublish: ["all"]
 dm_owner: tim
 dm_notes: none

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [power, status/check/ai]
+tags: [power]
 knownTo: [Mawar, DuFr]
 typeOf: elder elemental
 dm_owner: tim

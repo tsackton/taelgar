@@ -1,5 +1,5 @@
 ---
-tags: [background, status/check/ai]
+tags: [background]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]

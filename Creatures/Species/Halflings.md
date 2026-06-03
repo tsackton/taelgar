@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [creature, status/check/mike, status/check/ai]
+tags: [creature, status/check/mike]
 name: Halflings
 aliases: [halfling, halflings, Halfling]
 dm_owner: joint
@@ -130,11 +130,10 @@ In these ancient tales of years, halflings tell of wandering even when the world
 - Other Discussion (may be old/outdated): [[2023-10-30 - Species]]; [[2023-10-31 - Species]]; [[2024-07-26 - Species]]; [[2024-09-04 - Species]], [[2024-07-15 - Deep History]]; [[2024-07-16 - Deep History]]; [[2024-07-18 - Deep History]]; [[2024-07-25 - Deep History]],[[Email  - Taelgar Races]] ,[[Email - A Few Thoughts on Taelgar Races]], [[Email - Brief Thoughts on Elder Races]]
 
 ### Key Discord Chats
-- [[2023-01-10]]: Halfling caravan
-- [[2023-10-30]]: Species brainstorming
-- [[2023-11-04]]: Hobgoblin interactions
-- [[2024-01-05]]: Halflings and Sembara land holding and taxes
-- [[2024-07-12]]: Halflings and Common, trade pidgins, languages
+- [[2023-10-30 - Species]]: Species brainstorming
+- [[2023-11-04 - Avatus and Hobgoblins]]: Hobgoblin interactions
+- [[2024-01-05 - Non-humans in Sembara]]: Halflings and Sembara land holding and taxes
+- [[2024-07-12 - Languages and Humanity]]: Halflings and Common, trade pidgins, languages
 
 ### Brainstorming 
 *These are ideas that have come up, largely in discussions with Schwartz.*

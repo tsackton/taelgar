@@ -111,7 +111,7 @@
 [2024-09-01 09:36 PM] Deciusmus: I think the Tyrwinghan / adderfell border is thicker forested hills than what you have above?
 [2024-09-01 09:37 PM] rsulfuratus: I need to draw it out on a map and play a bit with it. i think I'm imagining that there are some higher mountains
 [2024-09-01 09:37 PM] rsulfuratus: 
-![[../_discord_assets/image-57F08.png]]
+![[../_assets/discord/image-57F08.png]]
 [2024-09-01 09:38 PM] rsulfuratus: kind of along the part of the border that runs east/west
 [2024-09-01 09:38 PM] rsulfuratus: not the border that runs north/south
 [2024-09-01 09:39 PM] Deciusmus: Although maybe the forested slopes on the northern/eastern side give way to worse soil and rocky land on the west/south slopes

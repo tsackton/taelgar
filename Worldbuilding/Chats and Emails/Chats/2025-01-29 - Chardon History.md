@@ -52,7 +52,7 @@ post 1560: settlement of Chasa River valley by Chardonians
     * western north tbd
 [2025-01-29 04:14 PM] rsulfuratus: So all three hobgoblin wars are same group on sembara?
 [2025-01-29 04:14 PM] Deciusmus: for the eastern north, I think the geography works pretty well. they are defeated by Chardon in the chasa valley
-![[../_discord_assets/image-4DFA8.png]]
+![[../_assets/discord/image-4DFA8.png]]
 [2025-01-29 04:14 PM] rsulfuratus: I think that is the point I was confused on
 [2025-01-29 04:14 PM] Deciusmus: and move into the foothills of the sentinels, lick their wounds, and then cross near urlich to attack dunmore area
 [2025-01-29 04:15 PM] Deciusmus: in some earlier conversations the stone titan one-shot was in the opening wars of the 1st hobgoblin war, where the hobgoblins were allied with mind flayers
@@ -88,7 +88,7 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 04:33 PM] Deciusmus: so I think it is somthing like this:
 [2025-01-29 04:33 PM] Deciusmus: where the red is movement is the grey is settlement
 [2025-01-29 04:35 PM] Deciusmus: 
-![[../_discord_assets/image-7AFAE.png]]
+![[../_assets/discord/image-7AFAE.png]]
 [2025-01-29 04:35 PM] Deciusmus: better version
 [2025-01-29 04:36 PM] Deciusmus: S = southern army
     splits into 1 = iron fang (still around) and 2 = bitter knife/blackened claw (defeated by dunmar)
@@ -98,7 +98,7 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 04:36 PM] Deciusmus: the open questions are then all basically around 4 = where did they come from? where did they go?
 [2025-01-29 04:39 PM] rsulfuratus: right
 [2025-01-29 04:41 PM] rsulfuratus: so then if we look at this map
-![[../_discord_assets/west-coast-history-GreatWar-D1F1D.png]]
+![[../_assets/discord/west-coast-history-GreatWar-D1F1D.png]]
 [2025-01-29 04:42 PM] rsulfuratus: i think it implies there is some kind of split early on in cha'mutte's armies basically as soon as cha'mutte dies
 [2025-01-29 04:42 PM] Deciusmus: I half wonder if they didn't come from the ocean
 [2025-01-29 04:42 PM] Deciusmus: what if they sailed across the north bay, tried to land in mawar, were pushed away by the fog, and made their away around to the north chardon coast
@@ -161,12 +161,12 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 05:18 PM] rsulfuratus: right, that is where I was going next
 [2025-01-29 05:19 PM] Deciusmus: i.e. the hobgoblins in the north chardon coast are really the last danger in the area, in  a way
 [2025-01-29 05:19 PM] Deciusmus: but you have trade flows like:
-![[../_discord_assets/image-6BF59.png]]
+![[../_assets/discord/image-6BF59.png]]
 [2025-01-29 05:20 PM] rsulfuratus: this picture still leaves the history of the voltara area south through lake valandros northern coast pretty undeveloped (basically, 1, 2, and 5 of the yellow kingdoms)
 [2025-01-29 05:20 PM] rsulfuratus: right
 [2025-01-29 05:21 PM] rsulfuratus: for lake valandros, i think that the east coast is caught up in the conclave war and was historically probably elven or denoqai anyway, and can be left relatively open-ended
 [2025-01-29 05:21 PM] Deciusmus: then imagine the Mindknife War is something from the north, i.e. the two blue arrows pointing at Mawar:
-![[../_discord_assets/image-CF136.png]]
+![[../_assets/discord/image-CF136.png]]
 [2025-01-29 05:21 PM] Deciusmus: and chardon is busy building a road through the Tawir gap instead of helping
 [2025-01-29 05:21 PM] Deciusmus: along that southern blue road
 [2025-01-29 05:21 PM] rsulfuratus: right
@@ -183,7 +183,7 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 05:25 PM] rsulfuratus: so they need to survive somehow the early hobgoblins
 [2025-01-29 05:25 PM] rsulfuratus: but amani (yellow kingdom 2, on the voltara plains) is completely destroyed
 [2025-01-29 05:25 PM] Deciusmus: so here is my northern hobgoblin map
-![[../_discord_assets/image-E5CA3.png]]
+![[../_assets/discord/image-E5CA3.png]]
 [2025-01-29 05:26 PM] rsulfuratus: possibly in the non-quite canonical war that chardon doesn't help with
 [2025-01-29 05:26 PM] Deciusmus: that outlines I think the 4 options to get hobgoblins to the north chardon coast
 [2025-01-29 05:27 PM] Deciusmus: #1 A - split is far north, head west and sail directly south
@@ -192,7 +192,7 @@ post 1560: settlement of Chasa River valley by Chardonians
     #3 go from voltara area direct
     #4 settle in voltara for a while then go direct
 [2025-01-29 05:29 PM] Deciusmus: but really we are saying we need, by say 1600:
-![[../_discord_assets/image-0AE08.png]]
+![[../_assets/discord/image-0AE08.png]]
 [2025-01-29 05:29 PM] Deciusmus: the red region to have been decimated
     the black to be hobgoblins
 [2025-01-29 05:30 PM] Deciusmus: the yellow to be a recognizeable human culture with connection back to pre-Great War
@@ -202,7 +202,7 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 05:32 PM] Deciusmus: if you have the conclave war hobgoblins basically going like:
 [2025-01-29 05:33 PM] Deciusmus: or actually
 [2025-01-29 05:33 PM] Deciusmus: 
-![[../_discord_assets/image-B24BD.png]]
+![[../_assets/discord/image-B24BD.png]]
 [2025-01-29 05:35 PM] Deciusmus: basically make there be 3 strands:
     - west 
     - center
@@ -216,7 +216,7 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 05:36 PM] rsulfuratus: If you have three hobgoblin strands - revenge/conclave, brutal/violent, and conquerors
 [2025-01-29 05:37 PM] rsulfuratus: Then the defeat of the brutal/violent group can potentially be trigger for Mawar renaissance
 [2025-01-29 05:38 PM] Deciusmus: 
-![[../_discord_assets/image-C78E7.png]]
+![[../_assets/discord/image-C78E7.png]]
 [2025-01-29 05:38 PM] Deciusmus: 1  = conqueors
     2 = brutal/violent
     3 = revenge/conclave
@@ -224,7 +224,7 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 05:42 PM] Deciusmus: slight tweak:
     
     (making the conquerers on the southwest shore of lake valandros)
-![[../_discord_assets/image-7CED8.png]]
+![[../_assets/discord/image-7CED8.png]]
 [2025-01-29 05:42 PM] Deciusmus: then you have the brutal/violent in the middle and human refugees fleeing in the blue
 [2025-01-29 05:43 PM] Deciusmus: not sure what makes the brutal hobgoblins go away but you could end up with 2 or 3 human cultures regrouping after they vanish, and looking to Mawar as the main cultural touchstone in the region
 [2025-01-29 05:43 PM] rsulfuratus: A few other considerations: 
@@ -241,7 +241,7 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 05:51 PM] rsulfuratus: Two thoughts: nothing has to say Mawar was great allies with the interior northern kingdoms pre Great War. So vibe is maybe less “Mawar abandonded allies” and more “Chardon and Mawar retreated and left the north to fight alone”
 [2025-01-29 05:52 PM] rsulfuratus: Second there is kind of a vibe of “everyone do what they need to survive” which makes Mawar again not exactly a hero but also not unusual
 [2025-01-29 06:12 PM] Deciusmus: Ok here's a new idea:
-![[../_discord_assets/image-11AF6.png]]
+![[../_assets/discord/image-11AF6.png]]
 [2025-01-29 06:14 PM] Deciusmus: basic idea:
     three hobgoblin strands as discussed.
     
@@ -262,11 +262,11 @@ post 1560: settlement of Chasa River valley by Chardonians
     
     (could be metaphor / retconned)
 [2025-01-29 06:30 PM] rsulfuratus: (2) handouts from very early in the great library campaign, no need to be canonical
-![[../_discord_assets/image-308B8.png]]
+![[../_assets/discord/image-308B8.png]]
 [2025-01-29 06:30 PM] rsulfuratus: which reminds me, another consideration: there is a big dwarven ruins underneath the mountains separating voltara from the coast, but no dwarves
 [2025-01-29 06:31 PM] rsulfuratus: so these were presumably destroyed during whatever wiped out amani
 [2025-01-29 06:45 PM] rsulfuratus: here is a rough outline of current west coast vibes
-![[../_discord_assets/west-coast-current-51F34.jpg]]
+![[../_assets/discord/west-coast-current-51F34.jpg]]
 [2025-01-29 06:47 PM] rsulfuratus: red (D) = ruins of pre-Great War dwarves
     red (E) = ruins of pre-Great War elves
     pinkish = desolation / orcs / hobgoblins / whatever (no civilizations)
@@ -305,7 +305,7 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 07:35 PM] rsulfuratus: mawar renaissance in this history becomes a bit of a broader northern renaissance, basically a flourishing in the north while chardon is still bearing the brunt of the north coast hobgoblins or something (since the north is safe sooner than chardon is safe)
 [2025-01-29 07:35 PM] rsulfuratus: still some unanswered questions but this seems like a solid framework
 [2025-01-29 07:40 PM] Deciusmus: right so then in say 1560 or 1575 you have something like this:
-![[../_discord_assets/image-7340E.png]]
+![[../_assets/discord/image-7340E.png]]
 [2025-01-29 07:41 PM] Deciusmus: the blue "6" is the old post drankor F an largely survives to join chardon - i.e. after the conclave war some type of "mutual defense" alliance becomes a province or whatever. makes this "near Nahadi" a very early part of the empire like the chasa, not sure how that fits with your modern day vibes
 [2025-01-29 07:41 PM] rsulfuratus: That’s consistent, south valandros is “green”
 [2025-01-29 07:42 PM] rsulfuratus: Ie happy to be part of the empire
@@ -346,7 +346,7 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 07:56 PM] rsulfuratus: but the rest is in need of something clearer to put there
 [2025-01-29 07:56 PM] rsulfuratus: basically, originally this was just "core chardon empire" but that makes the core chardon empire too big in my opinion
 [2025-01-29 07:58 PM] rsulfuratus: in high school is was basically "core chardon"
-![[../_discord_assets/image-FCCEB.png]]
+![[../_assets/discord/image-FCCEB.png]]
 [2025-01-29 07:59 PM] rsulfuratus: but the swamps and rivers got moved around and this area got stretched in the current map
 [2025-01-29 07:59 PM] rsulfuratus: so the center of gravity of chardon shifted north
 [2025-01-29 08:01 PM] Deciusmus: right
@@ -355,7 +355,7 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 08:02 PM] rsulfuratus: there are really 2 cities. i'd consider anything northwest of the "south chardon hills" to be "core chardon/chasa" not yeraad
 [2025-01-29 08:03 PM] rsulfuratus: i guess 3 cities - one is in the hills
 [2025-01-29 08:03 PM] Deciusmus: so from the map I'd guess the denset population is the yellow:
-![[../_discord_assets/image-45456.png]]
+![[../_assets/discord/image-45456.png]]
 [2025-01-29 08:03 PM] Deciusmus: but not sure if that is right
 [2025-01-29 08:04 PM] rsulfuratus: yeah i think that is close. the coast is imaged to be swampy with a big delta
 [2025-01-29 08:04 PM] rsulfuratus: not sure how far it extends so maybe some settlement around the mountains on the coast
@@ -377,7 +377,7 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 08:11 PM] rsulfuratus: but what is not clear,  nor is how they came to be chardonian
 [2025-01-29 08:11 PM] rsulfuratus: the one city is kind of placed as a mining town, although chardon mostly gets metals from lake valanadros hills, which are closer and have river transport
 [2025-01-29 08:12 PM] Deciusmus: so you have something like this:
-![[../_discord_assets/image-8B5D3.png]]
+![[../_assets/discord/image-8B5D3.png]]
 [2025-01-29 08:12 PM] Deciusmus: where pink is illorian
 [2025-01-29 08:12 PM] Deciusmus: red is danger/no people
 [2025-01-29 08:12 PM] Deciusmus: blue is lizardfolk
@@ -412,7 +412,7 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 08:34 PM] Deciusmus: If you play with the geographic a little bit you could have 3-4 pretty separate regions, ie maybe the land between the two rivers is kinda higher and you have a cattle culture in the hill lands between the rivers
 [2025-01-29 08:35 PM] Deciusmus: Then the section north of the yeraad along south of the hills is wetter and more agricultural
 [2025-01-29 08:37 PM] rsulfuratus: 
-![[../_discord_assets/image-E7CEE.png]]
+![[../_assets/discord/image-E7CEE.png]]
 [2025-01-29 08:38 PM] rsulfuratus: something like:
     (1) agricultural, maybe olive growing
     (2) dry rocky hills, cattle ranching
