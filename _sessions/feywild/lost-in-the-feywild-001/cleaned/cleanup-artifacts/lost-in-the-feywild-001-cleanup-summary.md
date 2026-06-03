@@ -49,7 +49,7 @@
 ### carny
 - Kearney (1x)
 
-### Cato
+### Kaito
 - Cater (1x)
 - Gato (1x)
 - Hato (1x)

@@ -10,7 +10,7 @@
 **Time Window**: evening
 **Combat**: no
 **Short Summary**: The session opens with the party camped west of Tollen as the players reintroduce the five adventurers and their relationships.
-**Long Summary**: The group is traveling with Alden toward an old house after being hired in Tollen to make sure a minor lord's new property is safe. Around the campfire, Txarro, Cato Min, Tarek, Edric, and Ayveen are described in turn, with the conversation establishing Txarro's rescue from tree blights, Cato and Tarek's carny and pickpocket routines, Edric's Night Queen faith, Ayveen's bardic optimism, and the party's shared identity as an affectionate band of misfits.
+**Long Summary**: The group is traveling with Alden toward an old house after being hired in Tollen to make sure a minor lord's new property is safe. Around the campfire, Txarro, Kaito Min, Tarek, Edric, and Ayveen are described in turn, with the conversation establishing Txarro's rescue from tree blights, Kaito and Tarek's carny and pickpocket routines, Edric's Night Queen faith, Ayveen's bardic optimism, and the party's shared identity as an affectionate band of misfits.
 **Location**:
 - Old wood west of Tollen: campfire on the last night before reaching Dandelion House
   Note: Alden expects the party to reach Dandelion House by sunset the next day.
@@ -26,7 +26,7 @@
 **Time Window**: night
 **Combat**: no
 **Short Summary**: Alden asks the party about their previous job, reveals his love of Dandelion House, and is quietly investigated before the night watch.
-**Long Summary**: Alden prompts each adventurer to describe a favorite part of the prior job, when an elf in Tollen hired them to recover old books from an ettin and its allies. Their answers highlight Cato's appetite for easy profit, Edric's relief when enemies flee, Tarek's fixation on salvageable loot, Txarro's enjoyment of fighting as a tiger, and Ayveen's faith in teamwork. Alden then talks rapturously about Dandelion House and dandelions, Cato uses Detect Thoughts and senses genuine joy, delight, longing, and nostalgia, and the party checks Alden's gear, sets watches, and turns in after Edric prays to the Night Queen.
+**Long Summary**: Alden prompts each adventurer to describe a favorite part of the prior job, when an elf in Tollen hired them to recover old books from an ettin and its allies. Their answers highlight Kaito's appetite for easy profit, Edric's relief when enemies flee, Tarek's fixation on salvageable loot, Txarro's enjoyment of fighting as a tiger, and Ayveen's faith in teamwork. Alden then talks rapturously about Dandelion House and dandelions, Kaito uses Detect Thoughts and senses genuine joy, delight, longing, and nostalgia, and the party checks Alden's gear, sets watches, and turns in after Edric prays to the Night Queen.
 **Location**:
 - Old wood west of Tollen: same campfire during the night before arrival
   Note: The beat remains at the campsite until the watches pass uneventfully.
@@ -66,7 +66,7 @@
 **Time Window**: evening
 **Combat**: no
 **Short Summary**: Inside Dandelion House, the party examines the preserved but unsettling manor and meets Lord Holda before dinner.
-**Long Summary**: Alden leads the group through the dusty entry hall, where paths through the dust, magical preservation, old rooms, a grandfather clock, and garden-themed tapestries make the house feel both magnificent and ominous. Edric's detection spell finds no fey or undead nearby, Tarek checks tracks in the dust, and Cato grows increasingly uneasy about the house's empty, party-haunted grandeur. On the third floor, the party finds Lord Holda in the last golden light, hears Alden formally present them, and then follows Holda down to the kitchen, where preserved magical conveniences and a cleaning bar are used before dinner.
+**Long Summary**: Alden leads the group through the dusty entry hall, where paths through the dust, magical preservation, old rooms, a grandfather clock, and garden-themed tapestries make the house feel both magnificent and ominous. Edric's detection spell finds no fey or undead nearby, Tarek checks tracks in the dust, and Kaito grows increasingly uneasy about the house's empty, party-haunted grandeur. On the third floor, the party finds Lord Holda in the last golden light, hears Alden formally present them, and then follows Holda down to the kitchen, where preserved magical conveniences and a cleaning bar are used before dinner.
 **Location**:
 - Dandelion House: entry hall, upper floors, observatory, and kitchen
   Note: The house is intact but overgrown, magically preserved in places, and increasingly dark as evening falls.
@@ -111,7 +111,7 @@
 **Time Window**: night
 **Combat**: no
 **Short Summary**: After Holda leaves, the party debates the suspicious bargain, prepares for rest, and decides to see what lies below.
-**Long Summary**: With Holda gone, Cato is wildly excited by the possible infinite treasure while Txarro, Edric, Tarek, and Ayveen question the contract, the unknown treaty, and the possibility that ending it could be dangerous or unrewarding. Alden shows them how the magical sconces work, Edric checks that Moss Foot is safe, Txarro casts Goodberry and hands out supplies, and Tarek pockets a spoon before the group agrees that they have come too far not to look through the trapdoor. The beat ends with the party choosing rest rather than further pilfering or exploration before the morning descent.
+**Long Summary**: With Holda gone, Kaito is wildly excited by the possible infinite treasure while Txarro, Edric, Tarek, and Ayveen question the contract, the unknown treaty, and the possibility that ending it could be dangerous or unrewarding. Alden shows them how the magical sconces work, Edric checks that Moss Foot is safe, Txarro casts Goodberry and hands out supplies, and Tarek pockets a spoon before the group agrees that they have come too far not to look through the trapdoor. The beat ends with the party choosing rest rather than further pilfering or exploration before the morning descent.
 **Location**:
 - Dandelion House: kitchen and guest quarters after dinner
   Note: The party remains in the manor for the evening and long rest.
@@ -122,7 +122,7 @@
 **Items**:
 - ancient deed and contract (mentioned): The party debates whether the contract protects or endangers them.
 - treaty (mentioned): Ayveen and others worry that ending it could release something dangerous.
-- treasure hoard (mentioned): Cato fixates on the possibility of an enormous payout.
+- treasure hoard (mentioned): Kaito fixates on the possibility of an enormous payout.
 - Goodberries (encountered): Txarro creates and distributes two Goodberries per party member for the next day.
 - silver spoon (encountered): Tarek takes a spoon during a quick bit of pilfering.
 **Organizations**: none

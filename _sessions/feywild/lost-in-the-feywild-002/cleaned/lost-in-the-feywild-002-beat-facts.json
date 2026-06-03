@@ -8,7 +8,7 @@
       "dateEnd": null,
       "timeWindow": "evening",
       "shortSummary": "The party crawls through the root tunnel, loses contact with Holda, and emerges into the Feywild at twilight.",
-      "longSummary": "After a recap of Holda's contract and the door beneath Dandelion House, the party opens in the narrow root tunnel after Holda has closed the way behind them. Ayveen tries to message Holda to reopen the door and gets no response, Cato and the others debate what they can still trust, and the tunnel changes from wood to coral- or bone-like material. Tarek compares it to a piece he picked up, the group reaches a mirrored chamber and climbs out through a ruined root house, realizing they have crossed into an otherworldly twilight landscape with distant estates and a road ahead.",
+      "longSummary": "After a recap of Holda's contract and the door beneath Dandelion House, the party opens in the narrow root tunnel after Holda has closed the way behind them. Ayveen tries to message Holda to reopen the door and gets no response, Kaito and the others debate what they can still trust, and the tunnel changes from wood to coral- or bone-like material. Tarek compares it to a piece he picked up, the group reaches a mirrored chamber and climbs out through a ruined root house, realizing they have crossed into an otherworldly twilight landscape with distant estates and a road ahead.",
       "location": {
         "kind": "journey",
         "from": "Dandelion House",
@@ -27,7 +27,7 @@
           "name": "Alden",
           "role": "mentioned",
           "context": "Holda's agent",
-          "notes": "The recap confirms Cato previously detected thoughts on Alden but not on Holda."
+          "notes": "The recap confirms Kaito previously detected thoughts on Alden but not on Holda."
         },
         {
           "name": "Lord Endless Ending",
@@ -132,7 +132,7 @@
       "dateEnd": null,
       "timeWindow": "evening",
       "shortSummary": "The party steadies itself, asks for omens, and scouts the manor before approaching the gate together.",
-      "longSummary": "The bodies sour the party's mood, and Cato turns unusually earnest in asking Edric for Night Queen prayers and the Wanderer's help finding a path out. As they approach the manor along a high hedgerow, Txarro casts Augury on whether to approach, introduce themselves, and ask the Lord about the treaty; the answer is both weal and woe. The group considers sending Tarek under invisibility, but Txarro instead summons an eastern screech owl to scout the grounds, spotting the silver gate, casual guards, guests, musicians, rowboat departures, and a tall masked figure at the house who sees the owl before stepping back inside.",
+      "longSummary": "The bodies sour the party's mood, and Kaito turns unusually earnest in asking Edric for Night Queen prayers and the Wanderer's help finding a path out. As they approach the manor along a high hedgerow, Txarro casts Augury on whether to approach, introduce themselves, and ask the Lord about the treaty; the answer is both weal and woe. The group considers sending Tarek under invisibility, but Txarro instead summons an eastern screech owl to scout the grounds, spotting the silver gate, casual guards, guests, musicians, rowboat departures, and a tall masked figure at the house who sees the owl before stepping back inside.",
       "location": {
         "kind": "fixed",
         "primary": "Twilight Kingdom",
@@ -171,7 +171,7 @@
       "dateEnd": null,
       "timeWindow": "evening",
       "shortSummary": "At the gate, doglike road guards question the party and accept dream-stories as the price of entry.",
-      "longSummary": "The party reaches the silver gate as the doglike road guards notice them and greet them in heavily accented Common as mortals. Through questioning, the guards say they belong to the road rather than the party, that the bodies came from farther up the road, that the Twilight Kingdom has a dozen dozen houses, and that they keep the road safe from travelers carrying a mysterious bad smell. They explain that the Lord told them to let in any mortal who wanted entrance, ask whether the party brought gifts, and settle for stories of dreams from Txarro, Edric, and Cato before gesturing the party through the gate.",
+      "longSummary": "The party reaches the silver gate as the doglike road guards notice them and greet them in heavily accented Common as mortals. Through questioning, the guards say they belong to the road rather than the party, that the bodies came from farther up the road, that the Twilight Kingdom has a dozen dozen houses, and that they keep the road safe from travelers carrying a mysterious bad smell. They explain that the Lord told them to let in any mortal who wanted entrance, ask whether the party brought gifts, and settle for stories of dreams from Txarro, Edric, and Kaito before gesturing the party through the gate.",
       "location": {
         "kind": "fixed",
         "primary": "Twilight Kingdom",
@@ -210,7 +210,7 @@
       "dateEnd": null,
       "timeWindow": "evening",
       "shortSummary": "Inside the grounds, the party experiences the repeating end of the celebration and begins cautious social approaches.",
-      "longSummary": "After stepping through the gate, the party sees a sloping lawn, open doors, dimming lanterns, empty glasses, rowboat farewells, and musicians caught in the feeling of a party that is ending but never quite over. Edric tests the boundary by walking back out to the road and returning, confirming the guards do not stop people from leaving. The group agrees to keep one another in sight while splitting into small approaches: Txarro heads toward two halflings, while Cato and Ayveen approach the tired string musicians, who politely refuse Cato's offer to relieve them because the Lord was clear and they still have one more piece to play.",
+      "longSummary": "After stepping through the gate, the party sees a sloping lawn, open doors, dimming lanterns, empty glasses, rowboat farewells, and musicians caught in the feeling of a party that is ending but never quite over. Edric tests the boundary by walking back out to the road and returning, confirming the guards do not stop people from leaving. The group agrees to keep one another in sight while splitting into small approaches: Txarro heads toward two halflings, while Kaito and Ayveen approach the tired string musicians, who politely refuse Kaito's offer to relieve them because the Lord was clear and they still have one more piece to play.",
       "location": {
         "kind": "fixed",
         "primary": "Lord Endless Ending's manor",
@@ -234,7 +234,7 @@
           "name": "Lord Endless Ending",
           "role": "mentioned",
           "context": "host of the party",
-          "notes": "The musicians cite his clear instruction as the reason Cato cannot take over."
+          "notes": "The musicians cite his clear instruction as the reason Kaito cannot take over."
         }
       ],
       "items": [
@@ -254,8 +254,8 @@
       "dateStart": "1740-10-05",
       "dateEnd": null,
       "timeWindow": "evening",
-      "shortSummary": "Txarro, Cato, and Edric question two drunken halflings who appear to be centuries out of time.",
-      "longSummary": "Txarro approaches two half-drunk halflings arguing cheerfully on the lawn, and they are amazed to meet a lizardfolk from Taelgar. They say they are from near Chardon, talk as if Chardon is still on the edge of an empire, misunderstand references to Sembara, Tollen, and the Great War, and insist they arrived that morning by giant rabbit and liberated boat. Cato joins, uses a flask to coax names and more details, and the halflings reveal that the Lord of the Manor gives brain teasers, is serious and sad, respects or fears his neighbors, and should not be hugged; Txarro concludes they may have been at the party for hundreds of years and leads them toward wine while looking for another mortal.",
+      "shortSummary": "Txarro, Kaito, and Edric question two drunken halflings who appear to be centuries out of time.",
+      "longSummary": "Txarro approaches two half-drunk halflings arguing cheerfully on the lawn, and they are amazed to meet a lizardfolk from Taelgar. They say they are from near Chardon, talk as if Chardon is still on the edge of an empire, misunderstand references to Sembara, Tollen, and the Great War, and insist they arrived that morning by giant rabbit and liberated boat. Kaito joins, uses a flask to coax names and more details, and the halflings reveal that the Lord of the Manor gives brain teasers, is serious and sad, respects or fears his neighbors, and should not be hugged; Txarro concludes they may have been at the party for hundreds of years and leads them toward wine while looking for another mortal.",
       "location": {
         "kind": "fixed",
         "primary": "Lord Endless Ending's manor",
@@ -290,9 +290,9 @@
       ],
       "items": [
         {
-          "name": "Cato's flask",
+          "name": "Kaito's flask",
           "role": "encountered",
-          "notes": "Cato uses it to offer the halflings a small drink and keep the conversation moving."
+          "notes": "Kaito uses it to offer the halflings a small drink and keep the conversation moving."
         },
         {
           "name": "liberated boat",

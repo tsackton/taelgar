@@ -18,7 +18,7 @@ tags: [status/recap-review]
 - DR Date: 1740-10-03 to 1740-10-05
 - Real Date: 2026-05-14
 - DM: David Schwartz
-- PCs: Cato Min, Edric, Tarek, Ayveen, Txarro
+- PCs: Kaito Min, Edric, Tarek, Ayveen, Txarro
 
 ## Timeline
 
@@ -38,7 +38,7 @@ tags: [status/recap-review]
 The party camps in the Varrow Forest with Alden, and recounts their last job around the campfire.
 
 #### Long
-The party is traveling west from Tollen with Alden after accepting a job to inspect a minor lord's new property. Around the fire, the five adventurers reintroduce themselves and recall how they became a band of misfits. Alden then draws out stories of the party's previous recovery job against an ettin, speaks rapturously about Dandelion House, and passes Cato's surface-level magical scrutiny before the night passes under watch.
+The party is traveling west from Tollen with Alden after accepting a job to inspect a minor lord's new property. Around the fire, the five adventurers reintroduce themselves and recall how they became a band of misfits. Alden then draws out stories of the party's previous recovery job against an ettin, speaks rapturously about Dandelion House, and passes Kaito's surface-level magical scrutiny before the night passes under watch.
 
 ### Oct 4th, 1740
 
@@ -118,7 +118,7 @@ The group is already several days west of Tollen with Alden, who has hired them 
 #### Long
 Our session begins as the party is traveling west from Tollen, guided by Alden -- a small, stout, pale human with a curiosity about the party and a phobia of fire -- to an old property at the end of the wilderness recently inherited by a longtime adventurer. 
 
-The group is a found-family band of misfits: skeptical, generous, opportunistic, anxious, and fond of one another. Around the campfire, Txarro prepares fish and recalls being rescued from tree blights by Cato and Tarek; Cato and Tarek sketch out their carny and pickpocket routines; Edric's awkward generosity and faith in the Night Queen come into focus; and Ayveen frames the party as people who can make the world brighter. 
+The group is a found-family band of misfits: skeptical, generous, opportunistic, anxious, and fond of one another. Around the campfire, Txarro prepares fish and recalls being rescued from tree blights by Kaito and Tarek; Kaito and Tarek sketch out their carny and pickpocket routines; Edric's awkward generosity and faith in the Night Queen comes into focus; and Ayveen frames the party as people who can make the world brighter.
 
 ### recap-002 | Alden Asks About Last Job
 
@@ -140,7 +140,7 @@ Alden draws out stories of their last job and reveals a devotional attachment to
 Alden asks each of them what they liked about their previous job, when an elf in Tollen hired them to recover old books from an ettin. The answers expose the party's priorities, and Alden's own comments show an intense love of Dandelion House, dandelions, and the idea of the estate restored.
 
 #### Long
-Around the campfire, they each tell a different version of their last job: Cato remembers profit and clean clothes; Edric remembers enemies who ran instead of dying; Tarek remembers salvage; Txarro remembers becoming a tiger; and Ayveen sees teamwork. Alden speaks of Dandelion House with rapturous but genuine emotion -- Cato's surreptitious Detect Thoughts spell finds joy, delight, longing, and nostalgia. 
+Around the campfire, they each tell a different version of their last job: Kaito remembers profit and clean clothes; Edric remembers enemies who ran instead of dying; Tarek remembers salvage; Txarro remembers becoming a tiger; and Ayveen sees teamwork. Alden speaks of Dandelion House with rapturous but genuine emotion -- Kaito's surreptitious Detect Thoughts spell finds joy, delight, longing, and nostalgia.
 
 ### recap-003 | Road To Dandelion House
 
@@ -181,10 +181,10 @@ Morning brings a long march through ancient forest. The trail slowly fades away,
 Inside, the house proves magically preserved, unsettling, and still grand as they meet scarred Lord Holda and gather in the kitchen.
 
 #### Intermediate
-Alden leads them into a dusty but intact manor with preserved furnishings, a grandfather clock, and tapestries of gardeners at work. Edric detects no fey or undead nearby, Cato grows increasingly unnerved, and Lord Holda receives them in the last golden light before bringing them to dinner.
+Alden leads them into a dusty but intact manor with preserved furnishings, a grandfather clock, and tapestries of gardeners at work. Edric detects no fey or undead nearby, Kaito grows increasingly unnerved, and Lord Holda receives them in the last golden light before bringing them to dinner.
 
 #### Long
-Dandelion House is a marvel of late-Drankorian architecture -- at least 700 years old. Detect Magic suggests some kind of preservation magic woven through the much of the structure, but Cato becomes increasingly convinced that the house -- with its empty window frames like eye sockets and open double doors like a mouth with a dandelion crest above it -- is waiting to consume them. 
+Dandelion House is a marvel of late-Drankorian architecture -- at least 700 years old. Detect Magic suggests some kind of preservation magic woven through the much of the structure, but Kaito becomes increasingly convinced that the house -- with its empty window frames like eye sockets and open double doors like a mouth with a dandelion crest above it -- is waiting to consume them.
 
 Alden warns that Lord Holda is proud, difficult, and desperate for Dandelion House to become the estate he has always wanted. They meet Holda on the upper floor: a scarred adventurer in his late 40s, watching the fading light, sinking into shadow. After brief introductions, Holda leads them down to the kitchen for a meal and conversation. 
 
@@ -236,7 +236,7 @@ After debating the risks and preparing for rest, they agree the door is too impo
 Once Holda leaves, the party weighs the suspicious contract, the unknown treaty, and the possibility that the promised treasure may be dangerous, worthless, or not literal treasure at all. They still decide they have come too far not to investigate, with Txarro making Goodberries, Edric checking on Mossfoot, and Tarek claiming a spoon.
 
 #### Long
-After Holda leaves them, Tarek reads the Sembaran document again and senses that something about it does not fit. But Cato shifts from fear to enthusiasm at the promise of half the hoard -- though Ayveen points out that ending an unknown treaty might be dangerous, and Txarro tries to prepare Cato for disappointment if the treasure is a trap, a metaphor, or a single coin.
+After Holda leaves them, Tarek reads the Sembaran document again and senses that something about it does not fit. But Kaito shifts from fear to enthusiasm at the promise of half the hoard -- though Ayveen points out that ending an unknown treaty might be dangerous, and Txarro tries to prepare Kaito for disappointment if the treasure is a trap, a metaphor, or a single coin.
 
 ### recap-007 | Into The Root Tunnel
 
