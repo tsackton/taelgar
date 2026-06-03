@@ -1,27 +1,27 @@
 ---
 headerVersion: 2023.11.25
-tags: [creature, status/stub, status/check/ai]
+tags: [creature]
 aliases: [bullywug]
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 ---
 # Bullywugs
 
-Bullywugs are freshwater-dwelling amphibious folk who live in secretive communities along rivers, bogs, and sheltered pools. They are among the more commonly encountered aquatic and semi-aquatic folk along rivers, and they speak a language also called Bullywug.
+Bullywugs are freshwater-dwelling amphibious folk who live in secretive communities along rivers, bogs, and sheltered pools. They are often described as frog-like by those who have seen them, with a language that sounds, to outsiders at least, to be full of guttural croaks and swallows. While they very rarely venture into settled areas, they are not uncommon along isolated stretches of rivers, marshlands, swamps, and lakes.
 
-Most bullywug communities keep to themselves. Some villages survive by raiding nearby settlements or travelers, but many do not.
+While some villages and communities of bullywugs survive by stealth and raiding, whether this is a common way of life, or simply the most visible way these secretive folk interact with others, is not known.
 
-Communities of bullywugs live in the [[Blackwater Fens]], especially near reliable fishing grounds and sheltered pools. In DR 1748, bullywugs displaced from the fens by [[Nymthrax]] had settled [[Guluppa-Sog]] on the [[Zarnato]] and were raiding cattle from the [[~Voltara East Border Fort~]] before [[Great Library Session Notes - Arc 4|the dragon was killed]].
+%%^Campaign:none%%
+## DM notes
 
-%% Original stub text preserved:
-Notes:
-- Most common of the aquatic and semi-aquatic species, often seen on rivers
-- Live secretively in freshwater; some villages make a living by raiding, but certainly not all, or even most
-- Origin story unclear
-- Speak their own language
-%%
+The most developed context for bullywugs in game is from the Great Library campaign. The PCs interacted with bullywugs from the [[Blackwater Fens]], who in DR 1748, were displaced from the fens by [[Nymthrax]] and settled [[Guluppa-Sog]] on the [[Zarnato]]. They were raiding cattle from the [[~Voltara East Border Fort~]] before [[Great Library Session Notes - Arc 4|the dragon was killed]].
 
-%% Source notes reviewed:
+Local color for the Blackwater Fens group: small hut settlements, froghemoth worship or use, marsh-reed baskets, freshwater pearls, copper frog trinkets, bullywug potions, and a clay-and-river-stone Pipe of Remembrance. Not clear if these should be interpreted as universal or specific to this region.
+ 
+However, this invention did not establish much about them beyond their existence. Bullywug origins and metaphysics are unresolved. Current creature rules treat bullywugs as a tentative case: they canonically exist, have villages and language, but whether they are best considered a species (perhaps in the nuisance species category with kobolds and goblins), some kind of intelligent monstrosity (like giant eagles, minotaurs, manticores, etc), or something else is not decided, though there is some reasons to lean towards species. 
+
+### References and Sources
+
 - [[Blackwater Fens]]
 - [[Guluppa-Sog]]
 - [[Nymthrax]]
@@ -34,17 +34,7 @@ Notes:
 - [[Blackwater Fens - DM Notes]]
 - [[Nymthrax's Hoard - DM Notes]]
 - [[Great Library - Party Treasure - DM Notes]]
-- [[Human Creation Myth]]
 - [[2025-11-07]]
 - [[2025-11-10]]
-%%
-
-%%^Campaign:none%%
-
-## DM notes
-
-Bullywug origins and metaphysics are unresolved. Current creature rules treat bullywugs as a tentative case: they canonically exist, have villages and language, but may be a true species, a "nuisance species" like kobolds and goblins, a repeated creature type, or a transformation from something else. Do not state a creation story without a canon decision.
-
-Great Library DM material gives concrete local color for the Blackwater Fens group: small hut settlements, froghemoth worship or use, marsh-reed baskets, freshwater pearls, copper frog trinkets, bullywug potions, and a clay-and-river-stone Pipe of Remembrance. Treat those details as Blackwater Fens or Guluppa-Sog material rather than universal bullywug culture.
 
 %%^End%%
