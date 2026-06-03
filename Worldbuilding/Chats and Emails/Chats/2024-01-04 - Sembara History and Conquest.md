@@ -1,4 +1,4 @@
-# 2024-01-04 - Conquest
+# 2024-01-04 - Sembara History and Conquest
 
 [2024-01-04 08:47 PM] Deciusmus: I've been mucking about with Sembara in more detail, as I try to work out the impacts of this mass of undead. Not really changing much from the big Sembara document, but a few things I wanted to at least vaguely run by you...
 

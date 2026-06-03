@@ -1,4 +1,4 @@
-# 2024-07-18 - Multiverse
+# 2024-07-18 - Deep History and the Multiverse
 
 [2024-07-18 10:17 AM] rsulfuratus: Did you push any notes on this yet?
 [2024-07-18 10:17 AM] Deciusmus: in the history-rewrite branch

@@ -80,10 +80,10 @@ No discussion of the Feywild would be complete without a mention of the endless 
 Major discussions include:
 - [[2023-12-23 - Fey Realms]]; [[2023-12-26 - Fey Realms]]; [[2023-12-28 - Fey Realms]]; [[2023-12-29 - Fey Realms]]; [[2024-01-02 - Fey Realms]]
 - [[2024-09-24 - Fey Gates]]
-- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
+- [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Species and Souls]]
 
 Specifically on Tyrwingha:
-- [[2024-09-25 - Ethlenn and Umbraeth]]; [[2024-10-03 - Ethlenn and Umbraeth]]; [[2024-10-04 - Ethlenn and Umbraeth]]; [[2024-10-10 - Ethlenn and Umbraeth]]; [[2024-10-16 - Ethlenn and Umbraeth]]; [[2024-11-19 - Ethlenn and Umbraeth]]; [[2025-01-15 - Ethlenn and Umbraeth]]; [[2024-09-16 - Ethlenn and Umbraeth]]
+- [[2024-09-25 - Ethlenn and Umbraeth]]; [[2024-10-03 - Ethlenn and Umbraeth]]; [[2024-10-04 - Ethlenn and Umbraeth]]; [[2024-10-10 - Ethlenn and Umbraeth]]; [[2024-10-16 - Ethlenn and Umbraeth]]; [[2024-11-19 - Ethlenn and Planar Tides]]; [[2025-01-15 - Ethlenn and Umbraeth]]; [[2024-09-16 - Ethlenn and Umbraeth]]
 - [[2024-03-24 - Fey and Tyrwingha]]
 - [[2024-03-15 - Tyrwingha]]; [[2024-03-16 - Tyrwingha]]; [[2024-03-17 - Tyrwingha]]
 - [[2024-09-01 - Addermarch]]; [[2024-09-02 - Addermarch]]; [[2024-09-10 - Addermarch]]

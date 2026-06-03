@@ -46,7 +46,7 @@ One idea:
 In standard [[Mos Numena]] theology, the Spiritual Realms are depicted in a tripartite arrangement: the Mos Numena Divine Realm in the center, often shown as a wide disc fed by the upwelling of the [[Land of the Dead|River of Souls]]; the realms of the [[Embodied Gods]] as spheres surrounding the central disc; and the primal realms, on the edges. 
 
 Brainstorming notes:
-- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
+- [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Species and Souls]]
 
 ### Alternate Take
 

@@ -127,7 +127,7 @@ Elves do not usually concern themselves with the passing of mere years, focusing
 %%^Campaign:none%%
 
 Notes, discussion, and relevant brainstorming:
-- [[2023-10-30 - Elves]]; [[2023-11-03 - Elves]]; [[2023-11-05 - Elves]]; [[2024-02-01 - Elves]]; [[2024-11-19 - Elves]]
+- [[2023-10-30 - Elves]]; [[2023-11-03 - Elves]]; [[2023-11-05 - Elves]]; [[2024-02-01 - Souls]]; [[2024-11-19 - Elves]]
 - [[Elven Generations]]
 - [[Notes on Elven Society]]
 

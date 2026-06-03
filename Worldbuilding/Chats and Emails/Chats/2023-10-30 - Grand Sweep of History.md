@@ -1,49 +1,5 @@
 # 2023-10-30 - Grand Sweep of History
 
-[2023-10-30 09:29 AM] rsulfuratus: working out some elven generational dynamics. lmk what you think. basic assumptions are from the demographics spreadsheet (https://docs.google.com/spreadsheets/d/1rMp9eP617CMDdkDgmDRPpOOUbO0TjTY17578DK2wPwo/edit#gid=838085721). assume that most elves survive to 800-900, but many choose to leave the world between 950 - 1150, so basic demographic structure then sets up 7 ka as the "current population", with anyone born more than 7 ka ago clearly a rare elder.
-[2023-10-30 09:36 AM] rsulfuratus: to put it in 1749 dynamics, you have:
-    37th ka (born in 1627 +/-), currently the youngest generation, and currently in their wandering/pre-parent phase
-    36th ka (born in 1467 +/-), the Great War generation, but also the current parental generation, probably sharing most responsibility for community management and governance with the 35th ka
-    35th ka (born in 1307 +/-), the 'grandparent' generation, probably the main pillar of elven society
-    34th ka (born in 1147 +/-), the youngest of the 'elder' generations, probably not yet leaving in great numbers,
-    33th ka (born in 987 +/-), the elders
-    32nd ka (born in 827 +/-), the oldest of the elder generations
-    31st ka (born in 667 +/-), the leaving generation, in the midst of departures, rapidly declining in numbers
-    30th ka and older (born before 507 +/-), the remaining generation, those who decided not to leave the world for whatever reason, small in number and hard to find
-[2023-10-30 09:37 AM] rsulfuratus: basically you have, at any one time, one generation of "children", two generations of "adults", and three generations of "elders", and then the "post-elders" whatever, but the 7th ka in the past (31st in 1749) would be transitional between elders and "post-elders"
-[2023-10-30 09:38 AM] rsulfuratus: at one point i thought you had sketched out some idea about transitions in responsbility among the ka but I can't find any notes at the moment
-[2023-10-30 09:40 AM] Deciusmus: I had a sketch in email that was basically 3 roles:
-    
-    The "nurturer", who watches over the young and the homeland
-    The "caretaker", who watches over the elder races (essentially in charge of foreign policy)
-    The "unifier", who mediates disputes
-[2023-10-30 09:41 AM] Deciusmus: and then an alternating pattern on which generation takes which role
-[2023-10-30 09:41 AM] Deciusmus: let me see if I can find what I wrote
-[2023-10-30 09:43 AM] rsulfuratus: ah I found it
-[2023-10-30 09:43 AM] Deciusmus: It was in email, too big to paste here
-[2023-10-30 09:43 AM] rsulfuratus: in your "Dawn of Everything" worldbuilding phase
-[2023-10-30 09:43 AM] Deciusmus: ha, yeah
-[2023-10-30 09:45 AM] Deciusmus: I'm not wedded to that exact structure for elves, but I do like the idea of rotating leadership based on generations.
-[2023-10-30 09:45 AM] rsulfuratus: yeah mostly I am trying to figure out who in Orenlas would remember Drankor
-[2023-10-30 09:46 AM] rsulfuratus: i think from a game perspective it is better if these people are not a dime a dozen, seems weird that there would be mystery about history if most elves can remember 1000 years ago clearly
-[2023-10-30 09:47 AM] rsulfuratus: I like the basic idea that you have nuturer / caretaker roles that alternate, but it might actually work better to speed up the "die off" of the oldest generations a bit
-[2023-10-30 09:47 AM] Deciusmus: I'm not sure most elves remember 1000 years ago clearly
-[2023-10-30 09:47 AM] Deciusmus: Also
-[2023-10-30 09:48 AM] rsulfuratus: basically I want to set up a distinction between the bulk of elvish society that are in the wanderer / caretaker / nuturer phase and the elders who are beginning to think about leaving to happen around 3-4 generations in the phase
-[2023-10-30 09:48 AM] rsulfuratus: `*`past
-[2023-10-30 09:48 AM] rsulfuratus: but I think that works with your alternating scheme
-[2023-10-30 09:49 AM] Deciusmus: Yeah, I think basically they scheme I had no major role for anyone beyond current-2
-[2023-10-30 09:49 AM] Deciusmus: So the 34th ka and earlier, are the "elders" in current time
-[2023-10-30 09:51 AM] Deciusmus: Also, consider that outside of the "caretaker" phase many elves might not pay that much attention to human history. And I really don't think elves necessarily remember everything clearly either. 
-    
-    You can even  imagine a sort of intentional forgetting, as part of aging and the changing of the generations, where the focus of a specific elf changes
-[2023-10-30 09:51 AM] rsulfuratus: right
-[2023-10-30 09:52 AM] Deciusmus: I definitely agree that very old elves are rare, but I think there is probably a fair number of moderately old elves, i.e. who were alive during the Drankorian empire, but who just made no effort to remember that. They've been in the Feywild for 300 years, or whatever, and the mortal world isn't really a concern
-[2023-10-30 09:52 AM] rsulfuratus: many very old elves for example may take on a ritual role (like unifiers in your email) and as part of that begin to shed their sense of their earlier life
-[2023-10-30 09:53 AM] Deciusmus: I like both an explicit magical/ritual change and also just normal forgetfulness
-[2023-10-30 09:53 AM] rsulfuratus: yeah I think this gets at what I wanted, there is kind of a transition around 3-4 ka ago from "normal old person" to "elder" that has very distinct and elven flavor
-[2023-10-30 09:55 AM] rsulfuratus: some of that is just about forgetting, some about leaving to other planes, some about magic/ritual, etc, but it gives a flavor/transition point that is ~500-600 years ago
-[2023-10-30 09:55 AM] rsulfuratus: have a meeting now but am going to sketch this out in a bit more detail later today
 [2023-10-30 09:57 AM] Deciusmus: Is there a definitive abbrevation for dwarven vs drankorian years? I have been using DR = Drankorian but I see DE in some of your docs
 [2023-10-30 10:01 AM] rsulfuratus: I have not been consistent. I think DR for drankorian reckoning is most common
 [2023-10-30 10:01 AM] rsulfuratus: Need something else for dwarven years
@@ -71,98 +27,9 @@
 [2023-10-30 12:44 PM] Deciusmus: My intention is to fill out the bullets taking bits from the Sembaran Chronicle doc and then delete the Sembaran history chronicle
 [2023-10-30 01:31 PM] rsulfuratus: yeah I was moving in that direction with the Drankor stuff
 [2023-10-30 01:33 PM] rsulfuratus: generally I am trying to move more of the taelgarverse stuff to bullet points and accesssible notes, rather than long  narrative
-[2023-10-30 02:15 PM] rsulfuratus: thinking a bit about biology/fertility/lifespan of other species as part of a bit of cleanup of the species directory.
-[2023-10-30 02:17 PM] rsulfuratus: general idea is: elder races (need new name) are all long-lived but generally not super high fertility, each for somewhat unique reasons. humans, goblinoids, are basically typical Earth human. fey have their own strange relationship with time. other species are basically assumed to be human-like unless there is an obvious lore reason to change them.
-[2023-10-30 02:17 PM] rsulfuratus: elves: non-overlapping generations, ka, as we've discussed extensively
-[2023-10-30 02:18 PM] rsulfuratus: stoneborn: kind of think they should actually be born from stone, and gradually turn back to stone.
-[2023-10-30 02:20 PM] rsulfuratus: lizardfolk: generally think of lizardfolk as having a very extended old age. mature at same rate as humans, fertility ends at same rate as humans, but they remain active and healthy into their 200s relatively frequently, so just have a really long elder period. makes their culture a very elder-focused. most kids would know not only their grandparents, but their great- and great-great-grandparents, at least
-[2023-10-30 02:23 PM] rsulfuratus: dwarves: generally think of dwarves as just having really low fertility, kind of a very extended middle age and a relatively short old age. come of age only a little slower than humans (late 20s/early 30s, when they do the heart of the mountain ceremony), but remain capable of bearing children until 150-200, and then often live another 50 years after that
-[2023-10-30 02:24 PM] rsulfuratus: halflings are most human-like, basically Tolkein-esque, just often living a bit longer than humans
-[2023-10-30 02:25 PM] Deciusmus: I kinda think lizardfolk need something a little more interesting
-[2023-10-30 02:25 PM] rsulfuratus: yeah they are the least appealing but not sure what
-[2023-10-30 02:25 PM] Deciusmus: I agree on dwarves, halflings, stoneborn
-[2023-10-30 02:26 PM] rsulfuratus: general idea is elves and stoneborn are the most alien, dwarves and halflings are the most human
-[2023-10-30 02:26 PM] Deciusmus: Dwarves probably need something more interesting too, but it is probably private and secret and not *that* different from humans
-[2023-10-30 02:28 PM] rsulfuratus: I think the point about dwarves from a worldbuilding perspective is just that they would kind of feel like stretched out humans - you'd have a lot of dwarven familes with 2-3 kids, they would just often be a decade apart
-[2023-10-30 02:28 PM] Deciusmus: Right, that makes sense
-[2023-10-30 02:28 PM] rsulfuratus: they already have the coming of age ceremony, the thuhr, all that, I don't think they need too much weird biology on top of that
-[2023-10-30 02:28 PM] Deciusmus: That's kinda what I meant by not that different.
-[2023-10-30 02:28 PM] rsulfuratus: right, makes sense
-[2023-10-30 02:28 PM] Deciusmus: I wasn't thinking weird biology so much as somewhat non-human marriage and family-rearing customs
-[2023-10-30 02:29 PM] Deciusmus: I feel like in-game dwarves outside of their homeland are almost always unpaired
-[2023-10-30 02:29 PM] rsulfuratus: yeah that makes sense, also can be left to a player who really cares to develop
-[2023-10-30 02:29 PM] rsulfuratus: yes, that is true. hadn't noticed that, actually.
-[2023-10-30 02:30 PM] Deciusmus: I do have a minor NPC in my game who is a nonbinary dwarve married to a woman. But he is explicitly very undwarven
-[2023-10-30 02:30 PM] Deciusmus: `*`they
-[2023-10-30 02:30 PM] rsulfuratus: the dwarves in Tokra being a notable exception
-[2023-10-30 02:31 PM] Deciusmus: Right, I guess there was a whole family there
-[2023-10-30 02:31 PM] Deciusmus: Anyway, it doesn't matter much. I just expect there is something a little more interesting going on in the dwarven marriage and pair-bonding culture than "copied from humans"
-[2023-10-30 02:31 PM] rsulfuratus: yeah, sure
-[2023-10-30 02:31 PM] Deciusmus: But it wouldn't be a world-building thing
-[2023-10-30 02:34 PM] Deciusmus: Lizardfolk on the other hand.... a few ideas...
-    
-    hatch from eggs? Maybe culturally there are large rare clutches from just one woman? so lots of siblings, no sense of nuclear families, pairbonding unrelated to child-rearing
-    
-    a spawn stage after birth, like where they are more fish like and independent?
-    
-    rapid maturity?
-[2023-10-30 02:34 PM] Deciusmus: Not sure I like any of those, just brainstorming
-[2023-10-30 02:35 PM] Deciusmus: Could be lots of clutches of eggs, with lots of lizard folk "young" not surviving (but I don't really love that, would imply lots of predators eating the young or something)
-[2023-10-30 02:36 PM] Deciusmus: Communal tending of eggs? Temarie like-learning through the shell? Maybe lizardfolk spend a long time in eggs (several years) and the elders tend to the eggs and lizardfolk hatch knowing how to talk and such
-[2023-10-30 02:38 PM] Deciusmus: Maybe very conscious control over fertility, so the community plans how many kids to have each year (how many eggs to lay?) and it is all very elder directed and egg laying is not really connected to pair bonding or "family" per se
-[2023-10-30 02:39 PM] rsulfuratus: I think “hatch from eggs” and “primarily aquatic during first few years” are in my notes somewhere
-[2023-10-30 02:40 PM] rsulfuratus: Could also make them like some fish, maybe they reproduce parthenogenically and have the capability to metamorphose to change sex if desired
-[2023-10-30 02:41 PM] rsulfuratus: probably want to run some ideas by Eric before making anything canon
-[2023-10-30 02:41 PM] rsulfuratus: His Mawar lizardfolk character at least had some sense of a “family back home”
-[2023-10-30 02:42 PM] rsulfuratus: Not sure if anyone else has ever played a lizardfolk in a real game
-[2023-10-30 02:45 PM] rsulfuratus: Also in the Kenzo one shot Eric played a lizardfolk who had found a baby lizardfolk abandoned and decided to care for it (it turned out to be something else but the idea of a non-aquatic baby needing care has to at least make sense)
-[2023-10-30 02:45 PM] rsulfuratus: Even if the “find one abandoned” is quite unusual
-[2023-10-30 02:52 PM] rsulfuratus: another idea. what if the thing about lizardfolk is that they are actually reincarnated. so in order to have a kid you need to convince an ancestor's soul to come back. would give them complete control over fertility since if you don't want a kid you just don't ask.
-[2023-10-30 02:53 PM] rsulfuratus: from a worldbuilding perspective I think the key idea is that creating a long-lived race that is much less numerous than humans requires some fiddling with fertility and growth rates.
-[2023-10-30 04:08 PM] Deciusmus: I like that last one
-[2023-10-30 04:09 PM] Deciusmus: Although "family back home" doesn't necessarily mean "traditional nuclear family"
-[2023-10-30 04:26 PM] Deciusmus: Probably the key thing here, which doesn't need a full answer now, is that lizardfolk have specific conscious control over fertility. So population growth is very managed and they tend to maintain stable populations around the carrying capacity limit of their choosen environments
-[2023-10-30 04:28 PM] Deciusmus: Which actually makes a ton of worldbuilding sense -- there are no lizardfolk striking out to find new land, for the most part. There could be lizardfolk cultures / communities that are actively expanding, and others than are not, but it would all be very self-conscious and community directed (so not even "each lizardfolk couple" chooses whether to have a kid) but more "each communitiy allocates kids in some fashion"
-[2023-10-30 05:16 PM] rsulfuratus: yeah I think that works well
-[2023-10-30 05:17 PM] Deciusmus: Is it annoying to push notes in `%%` from emails to documents?
-[2023-10-30 05:17 PM] Deciusmus: I was going to dump some stuff from emails into the elf page and a few other places
-[2023-10-30 05:17 PM] rsulfuratus: no that's fine, I put a lot of stuff in `%%`
-[2023-10-30 05:18 PM] rsulfuratus: anything in `%%` is stripped before html conversion so I frequently dump a ton of stuff into docs that way as notes
-[2023-10-30 05:45 PM] Deciusmus: I'm not always sure the best way to capture various brainstorming and stuff
-[2023-10-30 05:45 PM] Deciusmus: there is lots buried away in emails and texts and discord and such
-[2023-10-30 05:59 PM] rsulfuratus: I was trying to get Bard to extract useful information from my gmail but it never really worked
-[2023-10-30 06:02 PM] Deciusmus: It isn't that hard to find the emails, honestly, it is more that we use so many different channels (email, Google Drive, text, discord) I can never remember where I wrote something
-[2023-10-30 06:03 PM] rsulfuratus: text is the least useful, probably better to try to keep worldbuilding stuff out of text. I feel like I'm moving away from Google Drive as well, there is just a lot of legacy stuff there
-[2023-10-30 06:03 PM] rsulfuratus: although for the green sea stuff it was kind of useful
-[2023-10-30 06:11 PM] Deciusmus: Yeah, agreed
-[2023-10-30 06:11 PM] Deciusmus: I actually think Google Drive is better for brainstorming and conversation then email or discord, except for quick stuff
-[2023-10-30 06:11 PM] Deciusmus: It is easier to move stuff from drive ->` obsidian than anything else
-[2023-10-30 06:11 PM] rsulfuratus: that's true
-[2023-10-30 06:12 PM] Deciusmus: Obsidian is hard to have a back-and-forth in
-[2023-10-30 06:12 PM] Deciusmus: Although we haven't tried PRs
-[2023-10-30 06:13 PM] Deciusmus: Which I don't think is great for brainstorming
-[2023-10-30 06:13 PM] Deciusmus: but I'm not sure
-[2023-10-30 06:13 PM] rsulfuratus: my general goal is to keep obsidian for "settled" stuff
-[2023-10-30 06:13 PM] Deciusmus: that's fair
-[2023-10-30 06:13 PM] rsulfuratus: at least in the main directories - worldbuiling folder and my DM notes are separate
-[2023-10-30 06:13 PM] Deciusmus: sure
-[2023-10-30 06:14 PM] Deciusmus: Although I'm not sure about the best approach for "medium" stuff, i.e. the history of Sembara
-[2023-10-30 06:16 PM] rsulfuratus: maybe the best system is to use google drive for that too. but i guess my impression is you were doing a lot of the hobgoblin/sembaran history specificaly to create the backstory for a dungeon, so at that point I would consider it canon
-[2023-10-30 06:17 PM] Deciusmus: I am
-[2023-10-30 06:17 PM] rsulfuratus: can put stuff that is a bit wobbly in `%%`
-[2023-10-30 06:17 PM] Deciusmus: but I'm going a bit beyond what I strictly need for the dunegon
-[2023-10-30 06:18 PM] Deciusmus: and I have some random stuff I don't know if you care about, like deciding the date that Drankor and Ethleen signed or treaty, or the date a certain garrison was founded by a Drankorian Emperor
-[2023-10-30 06:21 PM] rsulfuratus: hmm, right. i sort of feel like that ancillary stuff is basically fine to just leave, it is probably a bit too complicated to worry explicitly about a system for things like that. if we ever end up with conflicts between different parts of the world bible can just fix them quietly (like the date for the drankor treaty establishing volta as northern border)
-[2023-10-30 06:22 PM] rsulfuratus: where a PR might be useful is for a major update to world history outside of a clear game need, e.g. if you wanted to develop the history of cymea in more detail or something like that
-[2023-10-30 06:22 PM] Deciusmus: I was wondering if some of that stuff is worth PRing
-[2023-10-30 06:23 PM] Deciusmus: It isn't like approvals are `*`required*, so it would be pretty easy for me to push a PR for stuff I'm clarifying outside of the "main" sembaran arc
-[2023-10-30 06:23 PM] Deciusmus: and if you didn't get a chance to look at the PR, so what? I could always just merge anyway
-[2023-10-30 06:23 PM] rsulfuratus: yeah
-[2023-10-30 06:25 PM] rsulfuratus: i guess my general feeling is true brainstorming is best in worldbuilding notes or google docs still but it would be worth thinking about using PRs a bit for substantial updates
-[2023-10-30 06:26 PM] Deciusmus: yeah, I agree on true brainstorming
-[2023-10-30 06:26 PM] rsulfuratus: one thing I am working on very slowly is trying to make sure at least stub notes exist for everything, with the general format of dumping everything I have from my old onenote docs plus email/gdrive into a bit `%%` note at the end
-[2023-10-30 06:27 PM] rsulfuratus: (I am working on a obsidian-based player's guide a little bit, partially in the context of this low level adventure I want to run which will likely be for various guests from the one-shots last year, since I don't think anyone from the main campaign has time to play more than every other week)
-[2023-10-30 07:47 PM] rsulfuratus: looking at your PR now
+
+---
+
 [2023-10-30 08:28 PM] Deciusmus: how much of the Addermarch stuff that you made up for the family game do you want to keep as canon? I keep shying away from Addermarch because I don't have a good sense of it from that game
 [2023-10-30 08:29 PM] rsulfuratus: I didn't really ever make up much history or politics. I do like the city of Addermarch and the apple theme and the brandy houses
 [2023-10-30 08:29 PM] rsulfuratus: think that could probably fit no matter the history

@@ -26,6 +26,6 @@ Key features of the Ethereal Plane:
 - You can reach the deep Ethereal from the border Ethereal by Plane Shift or simply by walking away from the material plane (which is a distinct direction from one of the normal three dimensions of physical space), although a spell like Etherealness doesn't last long enough to get beyond the border Ethereal. 
 
 See the following links for relevant brainstorming notes:
-- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
+- [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Species and Souls]]
 
 %%^End%%

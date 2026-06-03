@@ -18,7 +18,7 @@ A few things are established:
 Lots of relevant discussion:
 - [[2025-01-21 - Divine Power in Taelgar]]
 - [[2025-01-22 - Homes of Incorporeal Gods]]
-- [[2024-07-18 - Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Multiverse]]
+- [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Species and Souls]]
 
 Some relevant open questions:
 - [[Cosmology - Open Questions]]

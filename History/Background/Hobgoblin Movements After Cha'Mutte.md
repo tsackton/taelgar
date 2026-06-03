@@ -18,8 +18,8 @@ Draws heavily from:
 See also (primarily for Sembaran context):
 - [[2023-11-04 - Avatus and Hobgoblins]]
 - [[2024-03-27 - Fellburn]]
-- [[2024-01-04 - Sembara History]]; [[2024-01-05 - Sembara History]]
-- [[2023-11-05 - Rangers and Elves]]
+- [[2024-01-04 - Sembara History and Conquest]]; [[2024-01-05 - Sembara History]]
+- [[2023-11-05 - Rangers, Elves, Great War]]
 ## Southern Army
 
 The Southern Army, consisting of the Iron Fang, Bitter Knife, Blackened Claw, Death Moon, and possibly other clans, is responsible for conquering Isingue, and blockading the Dunmari borders to prevent a Dunmari breakthrough to help relieve Isingue. 
