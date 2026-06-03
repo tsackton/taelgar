@@ -2,13 +2,13 @@
 
 **DM:** I forgot to send you stuff in advance, but how about some, some, like, low-key ominous music?
 
-**Cato Min:** Cool, let me, hold on, let me just do this really quickly to make sure I can do this, so… I do share, I do… Advanced… I do computer audio, I hit share… And now… If I open up Spotify, hopefully this will work. This will be smoother in the future, y'all, sorry. And let me… just for fun… Let's just see if you guys are getting… Hold on. Is there any music happening? There's not, right?
+**Kaito Min:** Cool, let me, hold on, let me just do this really quickly to make sure I can do this, so… I do share, I do… Advanced… I do computer audio, I hit share… And now… If I open up Spotify, hopefully this will work. This will be smoother in the future, y'all, sorry. And let me… just for fun… Let's just see if you guys are getting… Hold on. Is there any music happening? There's not, right?
 
 **DM:** There we go.
 
 **Edric:** Now we got it.
 
-**DM:** Great. Alright. Ready? Yeah. Yeah. The five of you who have been adventuring and traveling together for the better part of this last year. have been hired by a minor lord named Holda, the second son of. A no-name lord from southern Sembara. Who spent the last 25 years or more as an adventurer and sellsword, always trying to find and make his fortune, and never quite succeeding in it. Last spring, after killing a dragon that had come down from the north. And losing his entire party in the process, and discovering… Since it was a wandering dragon, there was no hoard. That he had nothing more in his purse than he did 3 decades ago when he left home. He was drinking his misery away when a long-lived elf approached him and gave him the deed to a… House. in the wilderness. In the far north of Sembara, or northwest of Tollen. No place that was long, long since swallowed by woods. You were hired by Alden, a small, stout, pale human. With a curiosity about you all, and a profound fear of fire, apparently. to go there. As you journey there over the course of several days, first going upriver and then crossing through the forest. Which got denser, older, wilder, and less inhabited the further you went into it. You at last came to Dandelion House, a marvel of late Drankorian architecture, at least 700 years old. And the funny combination of both glorious and decrepit. Parts of it… The windows and the wooden window frames were decayed away into powder. As was much of the furniture inside, but not all of it. There must be some sort of preservation magic woven through the structure. Despite the misgivings of various party members, You meet… met Lord Holda. who was… What, proud, bitter? Resentful? Over the hill? Not in a cliched sort of way, but with the sense of the best days being behind already, and it wasn't that great anyways. Stuck on a wheel, always turning, one year after the next, always different, but always the same. He tells you the story of this elven archivist. who… Self, who called himself an archivist. Who gave him a deed to the house, to its… the house, its lands, and all the treasures therein. on the condition. That Holda asked you to step through a door in the floor and convince a man beyond to end a long-held treaty. Holda, whose only negotiation strategy, in fact, maybe his only strategy for moving through the world, period, seems to be intimidation, failed immediately to convince the man on the other side of this door of anything, and turned to the party for help. Tarek, reading the document, knew that something didn't fit, but Cato, by this point, had gone from deep. Fear bordering on paranoia to. Excitement bordering on rapturous enthusiasm. Correct. And, The… Ayveen, correct me if I'm saying any of the names wrong. Ayveen, observes that ending an unknown treaty may not, in fact, be a wise course of action to take, and Txarro points out that the treasure could equally well be a trap or metaphor. Nonetheless. The party arises before dawn, woken by the grandfather clock, still in fine condition. And Alden collects you from your rooms, leads you down through the ground floor, down through a massive basement, and down further still, opening a locked door with a glowing gold key, down through a passage hewn from living rock into a root-covered subcellar That surely predates the entire manor above it, and in fact. On reflection, subcellar isn't even quite the right thing, you… Assumed at the moment that's probably what it was, given its position below the cellar. But there was nothing in it but these walls covered entirely in massive, hollowed-out, massive roots, rather. Holda is waiting there, and opens a door through this massive hollowed-out root. Promising to keep an eye on this end while you go through and take care of business on the far. Once you get to the far side, he says, go up and up, and out and onto the road, and you'll see the manor just a little ways ahead, and seek there the master of the house. Just as he closes the door behind you. Tarek realizes the unsettling thing about the contract is that it was 400 years old, but written in contemporary Sembaran. Considering, setting up… Sort of a note of… Confusion. We open in this moment, illuminated by a couple of light spells, I think. As the five of you are crawling single file through this tunnel, barely bigger, barely bigger than you. Making your way towards who knows what.
+**DM:** Great. Alright. Ready? Yeah. Yeah. The five of you who have been adventuring and traveling together for the better part of this last year. have been hired by a minor lord named Holda, the second son of. A no-name lord from southern Sembara. Who spent the last 25 years or more as an adventurer and sellsword, always trying to find and make his fortune, and never quite succeeding in it. Last spring, after killing a dragon that had come down from the north. And losing his entire party in the process, and discovering… Since it was a wandering dragon, there was no hoard. That he had nothing more in his purse than he did 3 decades ago when he left home. He was drinking his misery away when a long-lived elf approached him and gave him the deed to a… House. in the wilderness. In the far north of Sembara, or northwest of Tollen. No place that was long, long since swallowed by woods. You were hired by Alden, a small, stout, pale human. With a curiosity about you all, and a profound fear of fire, apparently. to go there. As you journey there over the course of several days, first going upriver and then crossing through the forest. Which got denser, older, wilder, and less inhabited the further you went into it. You at last came to Dandelion House, a marvel of late Drankorian architecture, at least 700 years old. And the funny combination of both glorious and decrepit. Parts of it… The windows and the wooden window frames were decayed away into powder. As was much of the furniture inside, but not all of it. There must be some sort of preservation magic woven through the structure. Despite the misgivings of various party members, You meet… met Lord Holda. who was… What, proud, bitter? Resentful? Over the hill? Not in a cliched sort of way, but with the sense of the best days being behind already, and it wasn't that great anyways. Stuck on a wheel, always turning, one year after the next, always different, but always the same. He tells you the story of this elven archivist. who… Self, who called himself an archivist. Who gave him a deed to the house, to its… the house, its lands, and all the treasures therein. on the condition. That Holda asked you to step through a door in the floor and convince a man beyond to end a long-held treaty. Holda, whose only negotiation strategy, in fact, maybe his only strategy for moving through the world, period, seems to be intimidation, failed immediately to convince the man on the other side of this door of anything, and turned to the party for help. Tarek, reading the document, knew that something didn't fit, but Kaito, by this point, had gone from deep. Fear bordering on paranoia to. Excitement bordering on rapturous enthusiasm. Correct. And, The… Ayveen, correct me if I'm saying any of the names wrong. Ayveen, observes that ending an unknown treaty may not, in fact, be a wise course of action to take, and Txarro points out that the treasure could equally well be a trap or metaphor. Nonetheless. The party arises before dawn, woken by the grandfather clock, still in fine condition. And Alden collects you from your rooms, leads you down through the ground floor, down through a massive basement, and down further still, opening a locked door with a glowing gold key, down through a passage hewn from living rock into a root-covered subcellar That surely predates the entire manor above it, and in fact. On reflection, subcellar isn't even quite the right thing, you… Assumed at the moment that's probably what it was, given its position below the cellar. But there was nothing in it but these walls covered entirely in massive, hollowed-out, massive roots, rather. Holda is waiting there, and opens a door through this massive hollowed-out root. Promising to keep an eye on this end while you go through and take care of business on the far. Once you get to the far side, he says, go up and up, and out and onto the road, and you'll see the manor just a little ways ahead, and seek there the master of the house. Just as he closes the door behind you. Tarek realizes the unsettling thing about the contract is that it was 400 years old, but written in contemporary Sembaran. Considering, setting up… Sort of a note of… Confusion. We open in this moment, illuminated by a couple of light spells, I think. As the five of you are crawling single file through this tunnel, barely bigger, barely bigger than you. Making your way towards who knows what.
 
 **Ayveen:** Had we crawled far along, or can I do, like, a reaction to the door shutting?
 
@@ -22,7 +22,7 @@
 
 **DM:** message, if you'd like to.
 
-**Cato Min:** That sounds like a great thing to try.
+**Kaito Min:** That sounds like a great thing to try.
 
 **Edric:** That sounds like a great thing to try.
 
@@ -40,7 +40,7 @@
 
 **Tarek:** Yeah, yeah.
 
-**Cato Min:** Guys, so, of all the things that we know. What do we believe about any of the things that we think we know?
+**Kaito Min:** Guys, so, of all the things that we know. What do we believe about any of the things that we think we know?
 
 **DM:** So… Did we… sorry, I… I was trying to remember, just sorry, before we answer that in-game, did… did we…
 
@@ -54,29 +54,29 @@
 
 **Tarek:** Maybe we should replace it with a ceasefire. Current events joke. Anyway, so what do we know about any… I think we know… Whatever happens… We're gonna… Get something out of this. And get out of here.
 
-**Cato Min:** I mean…
+**Kaito Min:** I mean…
 
 **Tarek:** That document is pretty strange.
 
-**Cato Min:** Yeah, I guess, like, I'm not one to apologize often, but, sorry. Everyone for being a little erratic, a little up and down, Yeah, I guess I'm feeling a little, like, I… well, just in this moment, I know we probably should continue this conversation later after we get out of this root, but I kind of don't know what to believe anymore, right? Like, what's the… who's… who's saying what? Like, you know, it's like, for all we know, that dude is, like… Well, I mean, I don't know, like, literally nothing that he's… I mean, what are the things that we actually know are real? Like, does anybody believe… Did we… did we metagame? Does anybody have, like, you know, you're telling the truth things? I kind of do, right? Like, I remember I did a thing, and I asked… I was like, then he…
+**Kaito Min:** Yeah, I guess, like, I'm not one to apologize often, but, sorry. Everyone for being a little erratic, a little up and down, Yeah, I guess I'm feeling a little, like, I… well, just in this moment, I know we probably should continue this conversation later after we get out of this root, but I kind of don't know what to believe anymore, right? Like, what's the… who's… who's saying what? Like, you know, it's like, for all we know, that dude is, like… Well, I mean, I don't know, like, literally nothing that he's… I mean, what are the things that we actually know are real? Like, does anybody believe… Did we… did we metagame? Does anybody have, like, you know, you're telling the truth things? I kind of do, right? Like, I remember I did a thing, and I asked… I was like, then he…
 
 **Edric:** Detect Thoughts.
 
 **Tarek:** Boom.
 
-**Cato Min:** And he was… he was… he was, like, shorts, there was nothing unusual about him. Right?
+**Kaito Min:** And he was… he was… he was, like, shorts, there was nothing unusual about him. Right?
 
 **DM:** You detected thoughts on Alden. Yeah. Oh, yeah… but not on Holda.
 
-**Cato Min:** Oh no, that's dumb. Okay. My bad.
+**Kaito Min:** Oh no, that's dumb. Okay. My bad.
 
 **Edric:** We probably shouldn't have come here, but, like, now what choice do we have?
 
-**Cato Min:** Yeah, well, sure, we're in it.
+**Kaito Min:** Yeah, well, sure, we're in it.
 
 **Edric:** It'll work out.
 
-**Cato Min:** Yeah, but also, like, you know, do we believe that there's a treaty? Do we believe that there… I mean, what do we… what do we even believe now about anything that we've been told?
+**Kaito Min:** Yeah, but also, like, you know, do we believe that there's a treaty? Do we believe that there… I mean, what do we… what do we even believe now about anything that we've been told?
 
 **Tarek:** You know what I say? Sometimes, you gotta go to the root of things. I'm screwing up. To figure out what's really…
 
@@ -86,7 +86,7 @@
 
 **Edric:** Even if you weren't trying to make a joke.
 
-**Cato Min:** Well, y'all, I guess we just keep going and see what happens.
+**Kaito Min:** Well, y'all, I guess we just keep going and see what happens.
 
 **DM:** as you make the root pun, and I assume have continued sort of inching your way along this tunnel as you've been talking, you realize that the texture of the thing you're crawling through has changed slightly, and it's less woody or fibrous and more… almost, like, coral-like. Harder, but smooth, with… Rough, irregular sort of edges to it, almost like, what, like the… Probably at least some of you have seen a reef, or seen pieces of dead or fossilized corals, something like that. Something less like… Wood and more like the skeleton that wood would leave behind if it had one.
 
@@ -102,7 +102,7 @@
 
 **Tarek:** And… and Tarek turns and… Reaches and rummages around inside of his cloak and pulls something out of a pocket and looks at it, it's like… Funny, it's… it's almost exactly like this stuff. Look at that. And he's got a piece of… of something that… Has the same material properties as the coral, like… Surface of the tunnel.
 
-**Cato Min:** Where'd you get that?
+**Kaito Min:** Where'd you get that?
 
 **Tarek:** Oh, right down… right where you're standing, actually. I was just… I just… grabbed it. This is a very interesting material, though, I wonder if it could be, carved.
 
@@ -116,33 +116,33 @@
 
 **DM:** Yeah, it behaves close… I think more like coral than like bone. Sort of coral material left behind, but in the shape of roots and tubes and…
 
-**Cato Min:** Are we now in that antechamber room on the other side? Yeah, yeah. I'm sorry, does this, like, feel like a mirror of the other room, or is it just…
+**Kaito Min:** Are we now in that antechamber room on the other side? Yeah, yeah. I'm sorry, does this, like, feel like a mirror of the other room, or is it just…
 
 **DM:** It's not a perfect… it's not a perfect mirror, but it's, a parallel to it, yep.
 
-**Cato Min:** And, cause in the other room, To get there was what?
+**Kaito Min:** And, cause in the other room, To get there was what?
 
 **DM:** You had to go down, down, down. Yep, so there are stairs.
 
-**Cato Min:** Are there stairs up? Yep. So guys, if this is looking like what maybe it could be, maybe we're in, like. We go up, we're gonna be in another house. Like, the other house, but…
+**Kaito Min:** Are there stairs up? Yep. So guys, if this is looking like what maybe it could be, maybe we're in, like. We go up, we're gonna be in another house. Like, the other house, but…
 
 **Tarek:** You said we'd be on a road, I thought. We had to go to the house.
 
-**Cato Min:** It's true, he did say that.
+**Kaito Min:** It's true, he did say that.
 
 **Tarek:** I think.
 
 **Edric:** But…
 
-**Cato Min:** But also, maybe…
+**Kaito Min:** But also, maybe…
 
 **Edric:** Also, maybe, who knows?
 
-**Cato Min:** Maybe, maybe we go up and we're inside a house again? I don't know. Yeah.
+**Kaito Min:** Maybe, maybe we go up and we're inside a house again? I don't know. Yeah.
 
 **Tarek:** It's gonna be alright. Let's go.
 
-**Cato Min:** Yeah, let's go. What else can we do with Go?
+**Kaito Min:** Yeah, let's go. What else can we do with Go?
 
 **DM:** The stairs and the passage that you take up and out look more natural than man-made, or look maybe like someone has sort of hewn the stairs into this, This substrate, this sort of… Network of bone-like, roots. You go up for some time at. But it's definitely not as deep as it was on the other end, and you can see light above you, this pale blue twilight, and emerging from this passageway, you find yourself standing. Tim, we put the next, background in for us. You find yourself standing just after sunset. On a wide plain. In front of what seems to be a ruined house made almost entirely of these roots, like the walls themselves. Haven't been colonized by this thing, but, like, inside the brick walls, the bones are something that grew the house into place, rather than being constructed. The sun is over the horizon. It's maybe a half hour past sunset. The light is pale and blue. It's a land of low rolling hills. There's a river that goes by, Slowly, calmly, placidly, lower down. The wind blows gently. It's like the first evening of fall, like that first evening where you can just start to feel… Just start to feel the… The air. The cold of winter. I will turn to everybody and say, It was… Morning when we left, right?
 
@@ -152,37 +152,37 @@
 
 **Edric:** It was, what's an edit.
 
-**DM:** Ugh. Metagame. like, Cato, he's an elf, he's been around for a bit, like, would he, would he have a, like, idea that this could be the Feywild? Or… he would, right? I mean, I think any of you can make a, I don't know, like a… Arcana? Yeah, Arcana. 6.
+**DM:** Ugh. Metagame. like, Kaito, he's an elf, he's been around for a bit, like, would he, would he have a, like, idea that this could be the Feywild? Or… he would, right? I mean, I think any of you can make a, I don't know, like a… Arcana? Yeah, Arcana. 6.
 
 **Edric:** I don't know, Arcana.
 
 **DM:** I rolled a 22. I rolled a 22. What the two of you know with those rules? is this sort of a confirmation that… the… Fairy stories and fey stories. that… You've heard of are surely real. And this is, like, nothing… So much as one of those. Going through. An obscure grove, or stepping through an old archway, ruined. Or a waterfall behind which isn't a cave, but an entirely different land. You've gone out of one… Kind of a world into another entirely. And as you look out, you see it stretching toward the horizon in every direction. Unbroken, rolling hills. And from place to place, lights dotting them, like there are houses. or estates. And ahead of you, you see a path that leads away from the doorway, such as it is, because it looks much more like a mouth than a doorway, and to a road that Back. goes onwards. This would be a great opportunity. Before… doing anything more. Can you, Describe your characters, and, like, what is… what is your mental state? Realizing where you are and what's ahead.
 
-**Cato Min:** Ayveen.
+**Kaito Min:** Ayveen.
 
 **Ayveen:** is… Curious, and looking around, and… You know, feels the sunset sort of aura, but thinks, you know, Looking for the bright side. Does this road begin here? Is this an interesting and important place? Is it just a spot along the way? Who might we meet?
 
 **DM:** What do they need?
 
-**Cato Min:** Cato, kind of pulls his hair, like, top knot out.
+**Kaito Min:** Kaito, kind of pulls his hair, like, top knot out.
 
-**DM:** Cato's, like, hair is all out. Very, very long, you know, kind of silver, goldy, goldish hair. These are Win Schwartz Yeah. There is a light wind blowing in. hair's kind of blowing all crazy in the wind, and he, like, opens up his, his, robe. He's always got this, like, you know, really… On a very beautiful,
+**DM:** Kaito's, like, hair is all out. Very, very long, you know, kind of silver, goldy, goldish hair. These are Win Schwartz Yeah. There is a light wind blowing in. hair's kind of blowing all crazy in the wind, and he, like, opens up his, his, robe. He's always got this, like, you know, really… On a very beautiful,
 
-**Cato Min:** flowing red robe with gold.
+**Kaito Min:** flowing red robe with gold.
 
 **DM:** some gold.
 
-**Cato Min:** patterning.
+**Kaito Min:** patterning.
 
 **DM:** Just.
 
-**Cato Min:** Kind of lets it all fly out.
+**Kaito Min:** Kind of lets it all fly out.
 
 **DM:** Like, put his, but his arm. Like, kind of pulls off his, like, pack and, like, his instruments and stuff, they all, like, tumble together.
 
-**Cato Min:** ground.
+**Kaito Min:** ground.
 
-**DM:** It just, like, is like this. Ugh… And then he, like, pauses, and he's like… Guys… We're in one now. And in his mind, he's like… He's like… Gotta not be so all over the place, Cato. Get your shit together, dude. Get your shit together. You can do this. You can do this. Tarek is next to him, looking over, like… Get your shit together, man. And he is… Exerting his, you know, 20-something. Streetwise confidence while… Internally panicking a little bit as he looks around. He's, Tarek has… he's like, Thrift store deluxe looking. He's got the…
+**DM:** It just, like, is like this. Ugh… And then he, like, pauses, and he's like… Guys… We're in one now. And in his mind, he's like… He's like… Gotta not be so all over the place, Kaito. Get your shit together, dude. Get your shit together. You can do this. You can do this. Tarek is next to him, looking over, like… Get your shit together, man. And he is… Exerting his, you know, 20-something. Streetwise confidence while… Internally panicking a little bit as he looks around. He's, Tarek has… he's like, Thrift store deluxe looking. He's got the…
 
 **Tarek:** Very high-end threads that are very beat up.
 
@@ -200,23 +200,23 @@
 
 **DM:** will be safe. it'll all turn out. Kind of in a… wipe it in a mantra kind of vibe.
 
-**Cato Min:** Is he saying it with absolute confidence, or is there any.
+**Kaito Min:** Is he saying it with absolute confidence, or is there any.
 
 **Edric:** Oh, yeah, yeah, yes. Well, well…
 
-**Cato Min:** 96…
+**Kaito Min:** 96…
 
 **Edric:** 100% absolute confidence, but every once in a while, he's, like, falters a little bit and kind of looks around at, like, everybody, like.
 
 **DM:** Is this really gonna work out?
 
-**Cato Min:** Nice.
+**Kaito Min:** Nice.
 
 **DM:** So, Txarro has drawn himself up to his full… 6'4"…
 
-**Txarro:** Lizardfolk height. Slung his wooden shield off of his back and is holding it in front of him. His, like… Cloak kind of tossed back his, Greenish-yellow scales on his head, He's quivering slightly as his, like, nostrils are flaring, and he's… Trying to be deeply attuned to whatever might be happening. And… kind of looking around at Cato, and Tarek, and Edric, and… Ayveen's maybe less nervous than the rest of them, but… You know, he feels a little… you know, he's a… He's not old, but he's, like, a decade older than, well, everybody except Cato, obviously. But Cato's sitting here saying, get your shit together, get your shit together. Give off the appearance of an elder.
+**Txarro:** Lizardfolk height. Slung his wooden shield off of his back and is holding it in front of him. His, like… Cloak kind of tossed back his, Greenish-yellow scales on his head, He's quivering slightly as his, like, nostrils are flaring, and he's… Trying to be deeply attuned to whatever might be happening. And… kind of looking around at Kaito, and Tarek, and Edric, and… Ayveen's maybe less nervous than the rest of them, but… You know, he feels a little… you know, he's a… He's not old, but he's, like, a decade older than, well, everybody except Kaito, obviously. But Kaito's sitting here saying, get your shit together, get your shit together. Give off the appearance of an elder.
 
-**Cato Min:** No.
+**Kaito Min:** No.
 
 **Txarro:** And you can, you can see, like, if you look at him closely, you see there's, like, every now and then, there's, like, little… You can almost see, like, little streaks of, like, tiger fur growing on his scales as if he's… poised at the ready to turn into a tiger, should the need call for it. But for the moment, striding confidently ahead, trying to… See what's here, and what mysteries this place might bring. Let's follow the path, I guess.
 
@@ -246,7 +246,7 @@
 
 **DM:** Yes, so it would seem.
 
-**Cato Min:** I mean…
+**Kaito Min:** I mean…
 
 **DM:** Which is counterintuitive, because there appear to be dwellings in every direction.
 
@@ -260,11 +260,11 @@
 
 **DM:** There are stars. That is a great question to ask. There are just a couple. The first bare handful. Visible in the twilight. And they are not stars you recognize. They're not.
 
-**Cato Min:** Wait, so, the guy said that we… When we got.
+**Kaito Min:** Wait, so, the guy said that we… When we got.
 
 **DM:** here. We go down the road, and then there's a manor.
 
-**Cato Min:** And then we talked to the guy inside the house.
+**Kaito Min:** And then we talked to the guy inside the house.
 
 **Edric:** Yeah, basically.
 
@@ -278,7 +278,7 @@
 
 **DM:** Oh, good.
 
-**Cato Min:** No, it was just like, he wasn't cool about closing the door behind us, that wasn't part of the thing.
+**Kaito Min:** No, it was just like, he wasn't cool about closing the door behind us, that wasn't part of the thing.
 
 **Tarek:** Yeah.
 
@@ -286,21 +286,21 @@
 
 **DM:** I don't actually remember. I don't… I don't know.
 
-**Cato Min:** Well, I guess that what we're getting at is, did he betray our trust? Like, he told us a set of things, and then, like, immediately, like… because he was basically like, oh, we're gonna hold the door open for you, and then as soon as we got in there, closed the door behind us, right? So, implying that he deceived us.
+**Kaito Min:** Well, I guess that what we're getting at is, did he betray our trust? Like, he told us a set of things, and then, like, immediately, like… because he was basically like, oh, we're gonna hold the door open for you, and then as soon as we got in there, closed the door behind us, right? So, implying that he deceived us.
 
 **DM:** Yeah, if you're the.
 
 **Ayveen:** Suspicious types?
 
-**Cato Min:** I mean…
+**Kaito Min:** I mean…
 
 **Edric:** Or the factual type.
 
-**Cato Min:** I'll just, you know, like, who can we trust, going back to that? Age-old question. Well…
+**Kaito Min:** I'll just, you know, like, who can we trust, going back to that? Age-old question. Well…
 
 **Txarro:** Txarro will say, we can trust each other.
 
-**Cato Min:** Yeah, yeah, no, we have that. That's actually very important. Well, look. It feels like we go to the house, right? There's not much, feels like the main option here. Unless anybody else has any bright ideas.
+**Kaito Min:** Yeah, yeah, no, we have that. That's actually very important. Well, look. It feels like we go to the house, right? There's not much, feels like the main option here. Unless anybody else has any bright ideas.
 
 **Edric:** nope.
 
@@ -328,7 +328,7 @@
 
 **DM:** Not moving.
 
-**Cato Min:** Who sees the body?
+**Kaito Min:** Who sees the body?
 
 **DM:** Sorry, that was, who was that, Txarro?
 
@@ -336,7 +336,7 @@
 
 **DM:** Yeah.
 
-**Cato Min:** I have passive perception 13. Do I see the body?
+**Kaito Min:** I have passive perception 13. Do I see the body?
 
 **DM:** And as you get a little closer, sure, yeah, everyone can see it as you pass.
 
@@ -354,7 +354,7 @@
 
 **Tarek:** To search its pockets.
 
-**Cato Min:** Cato goes up.
+**Kaito Min:** Kaito goes up.
 
 **Tarek:** Turn around.
 
@@ -362,9 +362,9 @@
 
 **Txarro:** Before you touch anything.
 
-**Cato Min:** Oh, okay.
+**Kaito Min:** Oh, okay.
 
-**Txarro:** Cato, wait.
+**Txarro:** Kaito, wait.
 
 **DM:** Okay.
 
@@ -398,7 +398,7 @@
 
 **DM:** With the 20, With a 20, it's clear that… This person was in motion when they were struck from behind with the arrows. So they're… they're splayed out, you get the impression that they were probably running, away from something and shot from behind.
 
-**Cato Min:** And…
+**Kaito Min:** And…
 
 **DM:** Whatever… Pulverized the head. It definitely happened after the body was on the ground. And you can see, it's not just, like, the head that's been squished, it's… there's these deep, sort of, hammer marks, or marks from, like, a huge maul all over the area. So, someone, or several someones, were swinging wildly and quickly and occasionally just hitting the dirt around it instead.
 
@@ -420,7 +420,7 @@
 
 **Txarro:** And they were running… Back towards the… Coral House, or…
 
-**Cato Min:** Running away from the.
+**Kaito Min:** Running away from the.
 
 **Txarro:** Towards the manor.
 
@@ -428,11 +428,11 @@
 
 **Txarro:** Okay.
 
-**Cato Min:** So, they're Away from the direction we're walking towards.
+**Kaito Min:** So, they're Away from the direction we're walking towards.
 
 **Tarek:** That's always a good sign.
 
-**Cato Min:** fucking ominous.
+**Kaito Min:** fucking ominous.
 
 **Ayveen:** Anything about their clothing?
 
@@ -442,19 +442,19 @@
 
 **DM:** There ARE pockets to investigate.
 
-**Cato Min:** Yeah, Tarek, search him 100%, we wanna learn more about who this dude is.
+**Kaito Min:** Yeah, Tarek, search him 100%, we wanna learn more about who this dude is.
 
 **Tarek:** I don't think he's gonna catch me picking, so…
 
-**Cato Min:** No, but just more like…
+**Kaito Min:** No, but just more like…
 
 **DM:** Wait, but just, just, we, like, okay, look. Whoever this dude was.
 
-**Cato Min:** Probably dude, right? I mean, genitals? Dude?
+**Kaito Min:** Probably dude, right? I mean, genitals? Dude?
 
 **DM:** Like…
 
-**Cato Min:** Whoever this dude was, if he came from the place we're going to, we should try to understand a little bit more, like. Why the fuck somebody from that place would, like, Yeah.
+**Kaito Min:** Whoever this dude was, if he came from the place we're going to, we should try to understand a little bit more, like. Why the fuck somebody from that place would, like, Yeah.
 
 **DM:** And are there any… are there any tracks around the body before we mess it up too much?
 
@@ -472,7 +472,7 @@
 
 **DM:** Static, continuous. Yes. I mean, do the tracks look… Fresh, like… There's a lot of detail you just described. Is this… is this… Should I be inferring something from that? Absolutely, I… sunset was probably a half hour ago, so it's… It's what? 45 minutes, maybe? Maybe now. Within the last hour.
 
-**Cato Min:** Oh, fuck.
+**Kaito Min:** Oh, fuck.
 
 **Ayveen:** But there's mushrooms growing.
 
@@ -516,7 +516,7 @@
 
 **Edric:** Christmas.
 
-**Cato Min:** Schwartz, any, like, insignias, patches, style of dress look familiar to anything?
+**Kaito Min:** Schwartz, any, like, insignias, patches, style of dress look familiar to anything?
 
 **DM:** No, nondescript, but when you pull the arrow out, I mean, it is a… Gorgeously made piece of work. And the head of it is, intricately shaped and curved. There's scrollwork on the shaft of the arrow itself. I mean, this is… Astonishingly beautiful quality work.
 
@@ -524,7 +524,7 @@
 
 **DM:** You never know.
 
-**Cato Min:** Anybody in our party shoot arrows?
+**Kaito Min:** Anybody in our party shoot arrows?
 
 **Edric:** No.
 
@@ -534,19 +534,19 @@
 
 **DM:** Okay.
 
-**Cato Min:** Joe doesn't ask this, I was just like…
+**Kaito Min:** Joe doesn't ask this, I was just like…
 
-**DM:** Oh. Does the arrow… so the arrow… yeah. Anyways, Cato will kind of take a mental snapshot of it. Keep it.
+**DM:** Oh. Does the arrow… so the arrow… yeah. Anyways, Kaito will kind of take a mental snapshot of it. Keep it.
 
-**Cato Min:** Was it… wait, is there an insignia on it? Like you said, it's just really beautifully crafted, anything.
+**Kaito Min:** Was it… wait, is there an insignia on it? Like you said, it's just really beautifully crafted, anything.
 
 **DM:** Yeah.
 
-**Cato Min:** But quilt patterns.
+**Kaito Min:** But quilt patterns.
 
 **DM:** Yeah, I mean, it's… it is not a bird that you recognize.
 
-**Cato Min:** Cato takes the, the, the,
+**Kaito Min:** Kaito takes the, the, the,
 
 **DM:** The, arrow and brings it over to, Txarro. What do you think? Recognize it?
 
@@ -566,7 +566,7 @@
 
 **DM:** and oranges, reminds you of that. But yeah, it tracks with, The flight feather of maybe a crow-sized bird? Something like that.
 
-**Cato Min:** I don't like any of this shit, guys.
+**Kaito Min:** I don't like any of this shit, guys.
 
 **Edric:** Nope.
 
@@ -584,7 +584,7 @@
 
 **DM:** Quiet. There's no crickets chirping. There's the sound of the wind moving over the grass. There's no trees nearby, although you see them here and there in the distance.
 
-**Cato Min:** Guys…
+**Kaito Min:** Guys…
 
 **Tarek:** I wonder if those trees are incredibly big or not.
 
@@ -616,17 +616,17 @@
 
 **Txarro:** Hey, let's keep walking.
 
-**Cato Min:** Joe's, like, in the back, just like… Giving himself, like, a long pep talk. It's just like.
+**Kaito Min:** Joe's, like, in the back, just like… Giving himself, like, a long pep talk. It's just like.
 
 **DM:** Another 10 minutes down the road, and you notice the smell of something burnt? And looking off, a little ways off the path. Maybe 30 feet in, you see a patch of burned grass and ashes where… Judging from what remains, it looks like wood was piled up over… someone or somebody, and burned completely. All that's left are a few… Probably human-sized bones in the fire. Where's the mirror of the past when you need it? Yeah. But there's almost nothing remains. I mean, it's a stretch even to figure that what happened here was a body burned. like…
 
 **Tarek:** Rocks to…
 
-**Cato Min:** But are there bones, or no?
+**Kaito Min:** But are there bones, or no?
 
 **DM:** Yeah, just a few bits of… femur that are… In pursuit.
 
-**Cato Min:** Human femur?
+**Kaito Min:** Human femur?
 
 **DM:** Yeah, yeah, it's your guess.
 
@@ -648,7 +648,7 @@
 
 **DM:** Correct.
 
-**Cato Min:** Great, ritual sacrifice.
+**Kaito Min:** Great, ritual sacrifice.
 
 **DM:** Rescue. The next body that you find is only a couple of minutes down the road. This one also, with two arrows in its back, and the head is entirely missing.
 
@@ -660,7 +660,7 @@
 
 **Ayveen:** Lord Holda didn't mention a path strewn with dead bodies.
 
-**Cato Min:** Well, set a pass. He closed the door behind on us when he said that he was gonna keep it open, and…
+**Kaito Min:** Well, set a pass. He closed the door behind on us when he said that he was gonna keep it open, and…
 
 **Edric:** Yeah… I don't really trust this guy. Yeah, I couldn't think you…
 
@@ -674,9 +674,9 @@
 
 **Ayveen:** I was feeling very excited about exploring a new place, but the dead bodies are, in fact, terrifying.
 
-**Cato Min:** They're a downer, aren't they?
+**Kaito Min:** They're a downer, aren't they?
 
-**Tarek:** Well, look. Cato, the treasure of the highest… of the greatest value is the treasure in your mind. And… The hammer that's about to smash your head, you just run away from.
+**Tarek:** Well, look. Kaito, the treasure of the highest… of the greatest value is the treasure in your mind. And… The hammer that's about to smash your head, you just run away from.
 
 **DM:** It's fine, we'll go check it out. And… Yeah.
 
@@ -686,57 +686,57 @@
 
 **Edric:** I think we should be, worried about getting out. I mean, we'll be okay, we'll make it. But, like, treasure's the least of our concerns now.
 
-**Cato Min:** Like, what's your.
+**Kaito Min:** Like, what's your.
 
 **Tarek:** Almost?
 
 **Edric:** Edric?
 
-**Cato Min:** Edric.
+**Kaito Min:** Edric.
 
 **Edric:** Like, how do we leave?
 
-**Cato Min:** Cato goes over to Edric and, like, gives him, like, from behind, and is like, You know, Edric. However long we've been hanging out, You always talk about… The night… what is it, the night?
+**Kaito Min:** Kaito goes over to Edric and, like, gives him, like, from behind, and is like, You know, Edric. However long we've been hanging out, You always talk about… The night… what is it, the night?
 
 **Edric:** the Night Queen.
 
-**Cato Min:** You're always talking on and on about the Night Queen.
+**Kaito Min:** You're always talking on and on about the Night Queen.
 
 **DM:** I gotta say, I'm with you now. do your Night Queen shit? Like, what's the… what's that?
 
 **Tarek:** language.
 
-**Cato Min:** Is the Night Queen, like, helping us? Like, I am… I am… This is the… maybe the only time you'll ever see me do this, but let's… let's say a prayer together. What are we saying? Like, what do we…
+**Kaito Min:** Is the Night Queen, like, helping us? Like, I am… I am… This is the… maybe the only time you'll ever see me do this, but let's… let's say a prayer together. What are we saying? Like, what do we…
 
 **Tarek:** What do you mean.
 
-**Cato Min:** the Night Queen right now. Like, I'm… let's do it. been gonna help us.
+**Kaito Min:** the Night Queen right now. Like, I'm… let's do it. been gonna help us.
 
 **Edric:** show.
 
-**Cato Min:** What are we doing here, Edric?
+**Kaito Min:** What are we doing here, Edric?
 
 **Edric:** What are we doing here? We're… we're gonna find the way out.
 
-**Cato Min:** We are, but, like, can we do, like, a, like… Cato's the dude, when Edric is, like, doing the Night Queen stuff, where Cato's kind of like, ugh, like, more of the Night Queen. And now he's like…
+**Kaito Min:** We are, but, like, can we do, like, a, like… Kaito's the dude, when Edric is, like, doing the Night Queen stuff, where Kaito's kind of like, ugh, like, more of the Night Queen. And now he's like…
 
 **DM:** Did…
 
 **Tarek:** Give me a.
 
-**Cato Min:** Give me some, like, you, like, you, like, give me some beads to hold, what are we saying? Are we chanting something?
+**Kaito Min:** Give me some, like, you, like, you, like, give me some beads to hold, what are we saying? Are we chanting something?
 
 **DM:** We'll send a prayer to her, asking her to.
 
 **Edric:** Ask the Wanderer to show us the path out.
 
-**DM:** Wanderer, show us the… like, Cato gets on his knees, like, pray, like…
+**DM:** Wanderer, show us the… like, Kaito gets on his knees, like, pray, like…
 
-**Cato Min:** Deep authenticity, like, Wanderer.
+**Kaito Min:** Deep authenticity, like, Wanderer.
 
 **DM:** show us the path out, and kind of, like, glances over at the body, and he's like…
 
-**Cato Min:** Never believed in the Night Queen so hard right now. Let's go.
+**Kaito Min:** Never believed in the Night Queen so hard right now. Let's go.
 
 **DM:** About a half mile.
 
@@ -770,7 +770,7 @@
 
 **Txarro:** And asking to speak to the Lord about a treaty is a good idea or a bad idea.
 
-**Cato Min:** Thank you.
+**Kaito Min:** Thank you.
 
 **DM:** While you're augering, I'm ritual casting.
 
@@ -784,41 +784,41 @@
 
 **Txarro:** Hmm… I will report this to everybody. Maybe we shouldn't just… Go straight up.
 
-**Cato Min:** I mean, you guys all think, oh, I mean… Cato gives Tarek a look.
+**Kaito Min:** I mean, you guys all think, oh, I mean… Kaito gives Tarek a look.
 
 **Tarek:** A little weal, a little woe. What's life without the two, you know?
 
-**Cato Min:** Well, more just, I mean, you could do your thing.
+**Kaito Min:** Well, more just, I mean, you could do your thing.
 
 **Tarek:** Missing.
 
-**Cato Min:** Yeah, your thing. Yeah, you're like, I'm a fucking thief and can sneak around and fucking do sneaky thief shit.
+**Kaito Min:** Yeah, your thing. Yeah, you're like, I'm a fucking thief and can sneak around and fucking do sneaky thief shit.
 
 **Tarek:** Oh, that sting!
 
-**Cato Min:** Yeah, the thing that you are, like, exceptionally skilled at and known for? That thing?
+**Kaito Min:** Yeah, the thing that you are, like, exceptionally skilled at and known for? That thing?
 
 **Tarek:** You know, everything I learned about the thing, I learned from you.
 
-**Cato Min:** My true, wise mentor. Yeah, you did not at all. I don't… I can't do any of the things that you can do.
+**Kaito Min:** My true, wise mentor. Yeah, you did not at all. I don't… I can't do any of the things that you can do.
 
 **Tarek:** I guess so.
 
-**Cato Min:** I mean… I'm gonna put it on a show while you do this thing.
+**Kaito Min:** I mean… I'm gonna put it on a show while you do this thing.
 
 **DM:** But, the thing.
 
 **Tarek:** Exactly.
 
-**Cato Min:** The thing is kind of instant.
+**Kaito Min:** The thing is kind of instant.
 
 **Tarek:** Yeah, you're the diversion guy, that's a good point.
 
-**Cato Min:** Well, I think my thing is kind of a thing that we should not be doing right now. My thing could be later useful, but your thing feels like it could be a thing. If we want to do the thing.
+**Kaito Min:** Well, I think my thing is kind of a thing that we should not be doing right now. My thing could be later useful, but your thing feels like it could be a thing. If we want to do the thing.
 
 **Tarek:** Yes, you're right.
 
-**Cato Min:** metagame… none of us had… we're all third level, like, we don't have, like, clairvoyants or, like, any, like, useful shit.
+**Kaito Min:** metagame… none of us had… we're all third level, like, we don't have, like, clairvoyants or, like, any, like, useful shit.
 
 **DM:** We have no fancy spells.
 
@@ -828,23 +828,23 @@
 
 **Txarro:** and send it to Scout.
 
-**Cato Min:** You can cast what?
+**Kaito Min:** You can cast what?
 
 **Ayveen:** Invisibility.
 
-**Cato Min:** Oh, that's useful, that's useful.
+**Kaito Min:** Oh, that's useful, that's useful.
 
 **DM:** That's very useful, although that's…
 
 **Edric:** We might… it might be too soon to use it. It might not be time to use it just yet.
 
-**Cato Min:** I mean, don't we, I mean.
+**Kaito Min:** I mean, don't we, I mean.
 
 **Tarek:** That's good to know, though.
 
 **DM:** Somebody to scout ahead, you know?
 
-**Cato Min:** But…
+**Kaito Min:** But…
 
 **DM:** You…
 
@@ -854,31 +854,31 @@
 
 **Tarek:** Oh, yeah.
 
-**Cato Min:** I do, but, I mean, that still involves interacting with people.
+**Kaito Min:** I do, but, I mean, that still involves interacting with people.
 
 **DM:** I'm like, don't we wanna…
 
-**Cato Min:** Mmm. I just… Sneak in.
+**Kaito Min:** Mmm. I just… Sneak in.
 
 **Txarro:** I know, but aren't you good at deception?
 
 **DM:** Yeah, sure.
 
-**Cato Min:** But also, like, before we go and interact with anybody, like, we could send familiar in.
+**Kaito Min:** But also, like, before we go and interact with anybody, like, we could send familiar in.
 
 **Txarro:** Yeah.
 
 **DM:** have, Tarek go sneak around and check it out. Undetected.
 
-**Cato Min:** I moved on this before. We sent Tarek, like, maybe this is a thing, you know, Okay, what's your character's name again?
+**Kaito Min:** I moved on this before. We sent Tarek, like, maybe this is a thing, you know, Okay, what's your character's name again?
 
 **Ayveen:** Ayveen?
 
-**Cato Min:** What is it?
+**Kaito Min:** What is it?
 
 **Ayveen:** Ayveen.
 
-**Cato Min:** Ayveen casts the invisibility on Tarek, Tarek goes, figure sends some shit out, tells us, alright, comes back, like, 45 minutes later, and is like, hey. Don't go here.
+**Kaito Min:** Ayveen casts the invisibility on Tarek, Tarek goes, figure sends some shit out, tells us, alright, comes back, like, 45 minutes later, and is like, hey. Don't go here.
 
 **Tarek:** He's like…
 
@@ -888,17 +888,17 @@
 
 **DM:** Exactly, exactly. Thanks for the invisibility. Right?
 
-**Cato Min:** Do we want to send Tarek ahead to go and do the thing?
+**Kaito Min:** Do we want to send Tarek ahead to go and do the thing?
 
 **Tarek:** Close every now, yeah.
 
-**Cato Min:** How long does invisibility last?
+**Kaito Min:** How long does invisibility last?
 
 **DM:** An hour.
 
 **Txarro:** An hour.
 
-**Cato Min:** You only cast on one person, right.
+**Kaito Min:** You only cast on one person, right.
 
 **Txarro:** I mean, it's risky, what if he gets…
 
@@ -912,11 +912,11 @@
 
 **Tarek:** Well, let's… let's just give it a try. Let's get a little closer.
 
-**Cato Min:** Yeah, dude, Tarek…
+**Kaito Min:** Yeah, dude, Tarek…
 
 **Tarek:** Plenty of coverage.
 
-**Cato Min:** This is the time for you to do your thing. This is what you're here for.
+**Kaito Min:** This is the time for you to do your thing. This is what you're here for.
 
 **Txarro:** It's like, this hedgerow that we're walking along? it's running… Parallel to the road?
 
@@ -938,7 +938,7 @@
 
 **DM:** But we are not gonna go bushwalking off the trail, we're just gonna stay… Just sayin'.
 
-**Cato Min:** Keep going.
+**Kaito Min:** Keep going.
 
 **Txarro:** I don't know.
 
@@ -964,9 +964,9 @@
 
 **Txarro:** Yeah, I'm narrating.
 
-**DM:** As Cato hears all of this, his, like, ears perk up, and he's like, oh! I think I should probably go do my thing. Kaden starts trying, like… like… I think… alright, I'm gonna try to get to this party. What's the… how do we… how do we get in there? What's… what's going on? What's the deal? Yeah, so what's the road? This road continues to the gate. Yeah, exactly. So the gate is right off of the road, so maybe a quarter mile up ahead. There's a… a Gate MV2, the two guards… I mean, you assume are guards, right? They're in the position and place of guards. But if they are, they're awfully casual about it. There's two long spears that are just leaning up behind them. They're not armored, they're dressed more like, servants, you know, and sort of… waistcoat and… Short pants and soft leather boots. To their… You know, they don't have an especially intimidating look to them. They're not in, like, a military posture. Yeah, go ahead.
+**DM:** As Kaito hears all of this, his, like, ears perk up, and he's like, oh! I think I should probably go do my thing. Kaden starts trying, like… like… I think… alright, I'm gonna try to get to this party. What's the… how do we… how do we get in there? What's… what's going on? What's the deal? Yeah, so what's the road? This road continues to the gate. Yeah, exactly. So the gate is right off of the road, so maybe a quarter mile up ahead. There's a… a Gate MV2, the two guards… I mean, you assume are guards, right? They're in the position and place of guards. But if they are, they're awfully casual about it. There's two long spears that are just leaning up behind them. They're not armored, they're dressed more like, servants, you know, and sort of… waistcoat and… Short pants and soft leather boots. To their… You know, they don't have an especially intimidating look to them. They're not in, like, a military posture. Yeah, go ahead.
 
-**Cato Min:** No, no, but it's more like the… not the concierge, but, like, a little more… I mean, they're not greeters, but they're…
+**Kaito Min:** No, no, but it's more like the… not the concierge, but, like, a little more… I mean, they're not greeters, but they're…
 
 **DM:** Yeah, exactly, and the gates are open behind them, so they're not, like, guarding… sorry, I should say that, they're guarding, like… Hedgerow? Is that… Yes, that's exactly right. Set into it. I mean, now I'm kinda like, let's… should we add… should we just go?
 
@@ -978,7 +978,7 @@
 
 **DM:** I don't… I don't think you can… I don't think the owl can tell. Like, I'm not… I'm not sure you can tell it that… distance. They're… human-sized, mostly, but some smaller. There's… you see, again. A pair of halflings walking across the lawn. Probably an elf. or two sprinkled in there. Kidd starts… Kiddo's just like, let's go. Don't… do not worry about this.
 
-**Cato Min:** And then just starts, like, walking, like, confidently ahead, like, rearranges his stuff, like, gets his all, like, like, looks straight, and I'm like, let's go.
+**Kaito Min:** And then just starts, like, walking, like, confidently ahead, like, rearranges his stuff, like, gets his all, like, like, looks straight, and I'm like, let's go.
 
 **Txarro:** I will send the owl to fly… like, fly by over the manor house. count… Who stay 120 feet up, or so.
 
@@ -1000,11 +1000,11 @@
 
 **DM:** Are there guards at the manor house gate? Just, like, basic… whatever… whatever the owl can figure out, and then fly back. No, I… your impression is that the guards at the gate are sort of pro formal, and… While there are people who are armed in the party, you know, it's dress arms. You know, it's the saber that someone in a cavalry officer's uniform is wearing. You know, the sort of thing that would go with it, or the long knives that elves…
 
-**Cato Min:** Potato's, like, hustling now. He's like, guys, the party's ending, we gotta get there now.
+**Kaito Min:** Potato's, like, hustling now. He's like, guys, the party's ending, we gotta get there now.
 
-**Txarro:** What's your story, Cato?
+**Txarro:** What's your story, Kaito?
 
-**Cato Min:** It just…
+**Kaito Min:** It just…
 
 **DM:** Don't worry, money.
 
@@ -1014,19 +1014,19 @@
 
 **Edric:** faith.
 
-**Cato Min:** Thank you.
+**Kaito Min:** Thank you.
 
 **Txarro:** Are you going alone?
 
-**Cato Min:** Anybody wants to come with me? Is Eric, handling stuff? Let's just say Tarek, for sure, would come. Tarek and Cato, this is kind of their thing, like, not that Tarek is gonna, like, you know… but they, like, Tarek's along for down for this. This is a, this is a common…
+**Kaito Min:** Anybody wants to come with me? Is Eric, handling stuff? Let's just say Tarek, for sure, would come. Tarek and Kaito, this is kind of their thing, like, not that Tarek is gonna, like, you know… but they, like, Tarek's along for down for this. This is a, this is a common…
 
 **DM:** Like…
 
-**Cato Min:** This is a good moment.
+**Kaito Min:** This is a good moment.
 
 **DM:** So you're going up to the gate? Alright. One…
 
-**Cato Min:** Is anybody else coming, or is it, do you guys…
+**Kaito Min:** Is anybody else coming, or is it, do you guys…
 
 **DM:** I mean…
 
@@ -1042,15 +1042,15 @@
 
 **Txarro:** introduce ourselves and immediately ask to speak to the Lord of the Manor.
 
-**Cato Min:** No, no, no, no. A treaty. Yeah, oh yeah, yeah, sorry.
+**Kaito Min:** No, no, no, no. A treaty. Yeah, oh yeah, yeah, sorry.
 
-**DM:** On that part, let's not say any of that stuff. Just so you know, I mean, again, we've done this enough now together as a group, it's like, situation like this, Cato and Tarek are gonna go.
+**DM:** On that part, let's not say any of that stuff. Just so you know, I mean, again, we've done this enough now together as a group, it's like, situation like this, Kaito and Tarek are gonna go.
 
-**Cato Min:** they are gonna, like, not necessarily make a scene, but, like, you know, Cato is, like, like, he's a glamour bard, you know, he's immediately, like, he's trying to figure out, like, where the other performers are, so he can start, like, kind of just creating, like, a little… Just a little, you know, building some connection with some of the people there, trying to, like, make a little, you know, just to, just to, you know, set some vibes, and then see if he can attract some interesting people over. And the goal here, though, is, yeah, we don't say anything out loud about what we're here for yet, but…
+**Kaito Min:** they are gonna, like, not necessarily make a scene, but, like, you know, Kaito is, like, like, he's a glamour bard, you know, he's immediately, like, he's trying to figure out, like, where the other performers are, so he can start, like, kind of just creating, like, a little… Just a little, you know, building some connection with some of the people there, trying to, like, make a little, you know, just to, just to, you know, set some vibes, and then see if he can attract some interesting people over. And the goal here, though, is, yeah, we don't say anything out loud about what we're here for yet, but…
 
 **DM:** You know, let's just, let's just feel it out and see.
 
-**Cato Min:** You know, don't think there's anything here that's gonna kill us right away.
+**Kaito Min:** You know, don't think there's anything here that's gonna kill us right away.
 
 **DM:** What do you guys think?
 
@@ -1058,43 +1058,43 @@
 
 **DM:** As you're coming up to the gate, the last thing that you see through the owl's eyes, just before the guards, Notice you, and sort of. stand and… Rub their eyes and, raise a hand to hail you. In one of the doors of the manor. Illuminated brightly from behind. a tall… Man? Stans? stepping… With a sort of a lithe grace like a dancer into the doorway. With the backlighting, it's difficult to tell… if the… Smoothness of his face is his face itself, or like a sort of a mask, like a masquerade kind of mask that he's been. put. bond. But you… You see him scan over the crowd. You see his eyes fall away down the slope of the hills, to where the… People are climbing into the rowboat to head onwards. You see him note sharp voices raised among a small, cluster of people off and away below the, below the patios. And then you see him look directly at the owl and make eye contact Nod to himself, and step back inside the house. The guards raise a hand in greeting. But then a look of confusion comes over their face. They're two deeply, deeply wrinkled, sort of elderly men. pot-bellied… With, you know, the sort of hoods that someone wears that's just, like, the separate hood from the cloak And they… they look at you. With a note of confusion, and then… And then lift their noses to sniff, and sniff almost dog-like, and in their sniffing, There's a strange moment of not understanding if you're seeing. Men pretending to be dogs, or dogs pretending to be men. But they finished that, and then. Nod a greeting, and say… Well met and welcome, mortals.
 
-**Cato Min:** What?
+**Kaito Min:** What?
 
 **Ayveen:** Word dope.
 
 **DM:** Well met and welcome. Mortals.
 
-**Cato Min:** Cato gives a flourish of his cape, What?
+**Kaito Min:** Kaito gives a flourish of his cape, What?
 
 **Txarro:** Language do they say this in?
 
 **DM:** Common. Heavily accented Common.
 
-**Cato Min:** Accented Common?
+**Kaito Min:** Accented Common?
 
-**DM:** ambiguously. Goodbye. Yeah. Cato gives a flourish. Greetings.
+**DM:** ambiguously. Goodbye. Yeah. Kaito gives a flourish. Greetings.
 
-**Cato Min:** But before he walks in, though, he's, he glances and says, The festivities ending soon?
+**Kaito Min:** But before he walks in, though, he's, he glances and says, The festivities ending soon?
 
 **DM:** Indeed. Indeed. The party is ending. You're just in time.
 
-**Cato Min:** 4.
+**Kaito Min:** 4.
 
 **DM:** The party before it ends, says one, with a chuckle. Indeed. My favorite time. Yeah, he gets ahold of that. Where have you… come from? It's unusual. To see so many of you together at once at this time of night. Damn.
 
-**Cato Min:** Do we use Detect Thoughts now?
+**Kaito Min:** Do we use Detect Thoughts now?
 
 **DM:** Find out in a minute. No. Not now. Where did we come from? Down the road, of course. The one who hasn't said anything so far chuckles, like you've made a very incisive joke.
 
-**Cato Min:** And may I ask, can you share more about the party?
+**Kaito Min:** And may I ask, can you share more about the party?
 
 **DM:** Well, our apologies for being late. Yeah, I… I'll tell you this. We belong to the road. to the party. The party isn't our story. We know what we hear and smell and see through the gate, but this is as far as we go. Well… Perhaps some candor. We came from the road. We saw bodies.
 
-**Cato Min:** Presumably coming from here.
+**Kaito Min:** Presumably coming from here.
 
 **DM:** Maybe, maybe not. I love a good party. Gives another flourish and a wink. But also, the bodies. Anything you might be able to share about the party?
 
-**Cato Min:** And the Lord here?
+**Kaito Min:** And the Lord here?
 
 **DM:** The ones you passed did not come from this house. But further up the road.
 
@@ -1102,7 +1102,7 @@
 
 **DM:** Yep, yeah, the road absolutely keeps going. The road… the road goes on and on and on. I'm gonna have to pull up the right… Notes. In the Twilight Kingdom, there are a dozen dozen houses, homes, and holes, with the setting sun just over the horizon.
 
-**Cato Min:** This is the Twilight Kingdom.
+**Kaito Min:** This is the Twilight Kingdom.
 
 **Edric:** Which.
 
@@ -1116,41 +1116,41 @@
 
 **DM:** Though their feet are shod in plain, soft boots.
 
-**Cato Min:** So… The bodies… you guys don't have anything to do with the bodies.
+**Kaito Min:** So… The bodies… you guys don't have anything to do with the bodies.
 
 **DM:** My people do, some of us stay at the gate, some of us travel the road.
 
-**Cato Min:** But you don't know what to do with the bodies.
+**Kaito Min:** But you don't know what to do with the bodies.
 
 **DM:** The two of us? No. No, no. Our place is the gate.
 
-**Cato Min:** Right. And, and again, the Lord of the manor here? What do you know of him?
+**Kaito Min:** Right. And, and again, the Lord of the manor here? What do you know of him?
 
 **DM:** He came to the gate once. He came to the gate once. Just at the height of the party, Just before… You know what it's like? When a gathering starts to come apart, you can feel it before anyone's even left. He came in that moment. To tell us to… Be careful. Careful of travelers on the road. To smell very carefully for the bad smell. But to let in any mortal who wanted entrance. It was a strange thing, I remember it, too. I would have thought he just said any guest who wanted entrance, but he said any mortal who wants entrance, send them in.
 
 **Ayveen:** Excellent.
 
-**Cato Min:** When was this directive?
+**Kaito Min:** When was this directive?
 
 **DM:** Just, just, just as the party began to end. Just after the height of it. We arrived, of course, when it was just beginning.
 
-**Cato Min:** Oh, so very… quite recently. How long has this party been going?
+**Kaito Min:** Oh, so very… quite recently. How long has this party been going?
 
 **DM:** He shakes his head, confused. Like you're asking a sort of a ridiculous question. began and reached its peak, and now it's coming apart.
 
-**Cato Min:** Yeah, yeah, yeah, no, I understand.
+**Kaito Min:** Yeah, yeah, yeah, no, I understand.
 
 **DM:** You mentioned, the other…
 
-**Cato Min:** Lord's down the road. Pensions?
+**Kaito Min:** Lord's down the road. Pensions?
 
 **DM:** Wait, say that again?
 
-**Cato Min:** Tensions?
+**Kaito Min:** Tensions?
 
 **DM:** Of… sorry.
 
-**Cato Min:** Well, you just said the bodies, they're not from here, they're not from this house, the bodies are from another house.
+**Kaito Min:** Well, you just said the bodies, they're not from here, they're not from this house, the bodies are from another house.
 
 **DM:** Do you know what house they're from? There's a house… That when people come out of, they come out of it with the bad smell sometimes. What?
 
@@ -1196,17 +1196,17 @@
 
 **Txarro:** Should we go in? Txarro says to everybody else, in… Tollish, not Common. Which I presume everybody understands.
 
-**Cato Min:** Let's do it.
+**Kaito Min:** Let's do it.
 
 **Txarro:** We would like to enter.
 
 **DM:** Very good. Did you bring gifts?
 
-**Cato Min:** You know, I literally was gonna say that at the very beginning, that, unfortunately. Well, I'll put it this way. We may have… gifts are a relative term. In the sense that, something that I possess may be a gift to some, it may not be to others. So, we come bearing our possessions. To the extent that some of those may be worthy and deemed gifts. Then we have them.
+**Kaito Min:** You know, I literally was gonna say that at the very beginning, that, unfortunately. Well, I'll put it this way. We may have… gifts are a relative term. In the sense that, something that I possess may be a gift to some, it may not be to others. So, we come bearing our possessions. To the extent that some of those may be worthy and deemed gifts. Then we have them.
 
 **DM:** You won't like that. You won'.
 
-**Cato Min:** like that. Collectively, do we have any, any things? Anything nice? Classic, classic things that might… one might think as a gift.
+**Kaito Min:** like that. Collectively, do we have any, any things? Anything nice? Classic, classic things that might… one might think as a gift.
 
 **Edric:** I, I've… Some water blessed by the Night Queen.
 
@@ -1224,7 +1224,7 @@
 
 **DM:** Listen. I am bribable. Tell me this instead, and I'll let you through. It's been so long since I've gotten to speak with anyone who dreams. What did you dream of last time you slept? Wow.
 
-**Cato Min:** Amazing.
+**Kaito Min:** Amazing.
 
 **Ayveen:** Didn't one of us have a very weird nightmare about the…
 
@@ -1300,7 +1300,7 @@
 
 **Edric:** It's always the same.
 
-**Cato Min:** Great dream again.
+**Kaito Min:** Great dream again.
 
 **DM:** And then…
 
@@ -1312,11 +1312,11 @@
 
 **DM:** I think it might be a memory? In a way?
 
-**Cato Min:** It might be a what?
+**Kaito Min:** It might be a what?
 
 **DM:** A memory, in a way.
 
-**Cato Min:** Low memory.
+**Kaito Min:** Low memory.
 
 **DM:** And then the grave dissolves. Then I wake up. When you're in the grave, Is it open to the sky, or are you under dirt?
 
@@ -1332,27 +1332,27 @@
 
 **DM:** Once I smelled the bad smell for the first time, nothing else was bad anymore, except for it.
 
-**Cato Min:** Sorry, where's the bad smell come from again?
+**Kaito Min:** Sorry, where's the bad smell come from again?
 
 **DM:** Bad smell comes from… The mortals who catch it.
 
-**Cato Min:** Are any of the mortals who here have it?
+**Kaito Min:** Are any of the mortals who here have it?
 
 **DM:** No, no one… no one inside these grounds does. That's what we're here for. To sniff it out. To keep it from entry.
 
-**Cato Min:** Yeah.
+**Kaito Min:** Yeah.
 
 **DM:** One more dream, and I'll let you through.
 
-**Cato Min:** Yeah, I'll tell you, I'll tell you a dream. But before I do… onto GIFs, Cato pulls out his lute, and What is the other instrument that he has? He's… he has. He pulls out… oh no. How do I not have my… Anyways, he pulls out, he pulls out a, like, a stringed instrument and a, like, a small flute. And, he just… he gives, like, both of them just, like, a quick little flourish, but, like, of incredible skill. It's just, like, oh. This guy can definitely play these things. But not too showy, but just, like, a little… just to, like, to show.
+**Kaito Min:** Yeah, I'll tell you, I'll tell you a dream. But before I do… onto GIFs, Kaito pulls out his lute, and What is the other instrument that he has? He's… he has. He pulls out… oh no. How do I not have my… Anyways, he pulls out, he pulls out a, like, a stringed instrument and a, like, a small flute. And, he just… he gives, like, both of them just, like, a quick little flourish, but, like, of incredible skill. It's just, like, oh. This guy can definitely play these things. But not too showy, but just, like, a little… just to, like, to show.
 
 **DM:** Give me a performance role? What's that? Give me a performance role?
 
-**Cato Min:** 15.
+**Kaito Min:** 15.
 
 **DM:** Yeah. Solid. And, he, he says, Does the Lord of the Manor appreciate Skill in song. In music. Presumed so. As gifts, anyway. I don't… I don't know. It's a good offer to make. Dreams. You know, I find my dreams, it's never one thing.
 
-**Cato Min:** The dreams are always one thing connected into another thing, into another.
+**Kaito Min:** The dreams are always one thing connected into another thing, into another.
 
 **Txarro:** Don't dream.
 
@@ -1368,11 +1368,11 @@
 
 **DM:** Oh, shit.
 
-**Cato Min:** Oh, that sucks.
+**Kaito Min:** Oh, that sucks.
 
 **DM:** Oh well.
 
-**Cato Min:** Alright, I don't answer this question now.
+**Kaito Min:** Alright, I don't answer this question now.
 
 **Edric:** Elves spend the first, like, 50 years of their life dreaming.
 
@@ -1384,35 +1384,35 @@
 
 **Edric:** Who knows what happens, all we know is…
 
-**Cato Min:** Perfect, I'll… let me say this later, then.
+**Kaito Min:** Perfect, I'll… let me say this later, then.
 
 **DM:** Well, you know, my kinds. We accidentally have one dream. And it only happens once, so… I actually share your nostalgia. Well, I guess you're… for you, it's a curiosity, since you've never had a dream, right? Isn't that correct? - Yeah, I, I, I empathize with that, But for me, it's more nostalgia, because I've only ever had.
 
-**Cato Min:** Wondering. But if you like, I can share you some snippets of that dream.
+**Kaito Min:** Wondering. But if you like, I can share you some snippets of that dream.
 
 **DM:** Tell me. Well…
 
-**Cato Min:** Well, it was the one dream, and it was a long dream. there were parts of the dream, the parts that I'm nostalgic for the most, It's less one moment or one narrative and more just a whole bunch of scenes clipped and chopped and strewn together, almost like a patchwork of a quilt that, you know, is made of so many different colors and shapes and textures and smells.
+**Kaito Min:** Well, it was the one dream, and it was a long dream. there were parts of the dream, the parts that I'm nostalgic for the most, It's less one moment or one narrative and more just a whole bunch of scenes clipped and chopped and strewn together, almost like a patchwork of a quilt that, you know, is made of so many different colors and shapes and textures and smells.
 
 **DM:** But it would go from…
 
-**Cato Min:** One scene with just massive trees of unimaginable size, swaying in huge roots and just… Large, craggy grass, and this kind of feeling of something so raw and alive.
+**Kaito Min:** One scene with just massive trees of unimaginable size, swaying in huge roots and just… Large, craggy grass, and this kind of feeling of something so raw and alive.
 
 **DM:** And then all of a sudden. Nothingness in the night sky, and just… Black.
 
-**Cato Min:** Except stars. Everywhere. And then shifting from stars to blackness. And then all of a sudden, the crashing of waves smashing over your head, and you're in a boat rocking up and down, and up and down, and your body's swaying back and forth, and then you feel like you're in the middle of the ocean, except you're not. You're in the middle of a fire, and you're in a flame inside of the fireplace, and it's just raging hot, and you're sweating, and it's just so incredibly uncomfortable, until you hear the sound of a voice singing. But it's your siblings, except do you have siblings or not have siblings in real life? It's hard to say, but the voices are so golden and beautiful and piercing, and they pull you out of the fire, and the next thing you know, you look down, and You're a bird, or maybe you're not even a bird, but you're flying, and you can see down below, hundreds and hundreds of feet down, maybe miles down below, just the spots of… Houses and buildings. And it just goes on and on like that. And… I'll never have another one. But… The one was pretty good. And I like that I can go back and visit parts of it.
+**Kaito Min:** Except stars. Everywhere. And then shifting from stars to blackness. And then all of a sudden, the crashing of waves smashing over your head, and you're in a boat rocking up and down, and up and down, and your body's swaying back and forth, and then you feel like you're in the middle of the ocean, except you're not. You're in the middle of a fire, and you're in a flame inside of the fireplace, and it's just raging hot, and you're sweating, and it's just so incredibly uncomfortable, until you hear the sound of a voice singing. But it's your siblings, except do you have siblings or not have siblings in real life? It's hard to say, but the voices are so golden and beautiful and piercing, and they pull you out of the fire, and the next thing you know, you look down, and You're a bird, or maybe you're not even a bird, but you're flying, and you can see down below, hundreds and hundreds of feet down, maybe miles down below, just the spots of… Houses and buildings. And it just goes on and on like that. And… I'll never have another one. But… The one was pretty good. And I like that I can go back and visit parts of it.
 
 **DM:** I suspect sometimes that the lord of this house, too. Lives always with a sense of having lost something that won't come back again. Not just that won't come back again, that can't ever come back again.
 
-**Cato Min:** Wait, say that last part again?
+**Kaito Min:** Wait, say that last part again?
 
 **DM:** That the Lord of this house. Lives having lost something like you that he cannot ever recover once again.
 
-**Cato Min:** Mmm…
+**Kaito Min:** Mmm…
 
 **DM:** But I don't hear you describing it as… loss, or… grief, I hear… Acceptance of that change? Totally.
 
-**Cato Min:** No regrets, no remorse. Onwards.
+**Kaito Min:** No regrets, no remorse. Onwards.
 
 **DM:** It is what it is. Kit, I don't want to cut you off if you've got one lined up, but I'm also happy to move us in. But alright. I would… if, if we…
 
@@ -1424,19 +1424,19 @@
 
 **DM:** They gesture for you to step through the gate. Stop. flipping through. You see the long… actually, Tim, will you put on the next, background for us? You see the long, sloping lawn that leads from the river's edge up to the patios and open doors of a bright and handsome house. You see string lights strung in globes going down the hill as the ground falls away ahead of you. You see, groups 1s and twos and 4s and fives. You see the signs of a party ending? The lighting is strange in the house, uneven. Some rooms brightly lit, and some less so. You see that… On a second glance, many of the lanterns have already gone out, and in others, the candles are flickering low. You see… Hmm… Empty glasses left in strange places, like the side of the pathway here, where a plate and wine goblet have been set. Long after you've left this place behind. Long after all of the details of it have faded from your head. And the colors that are so vivid in this moment are drained away. Long after you've forgotten the accents of the speakers, or even the language that they spoke to you in, and the music that the players play returns to you only in your dreams. You remember… The feeling of the coolness in the air, like the first smell of winter in late October. Like, the moment… When you're still dancing with her and you know she's left you already. And when evening falls… And you can't distinguish whether the shape in the distance Is a man at rest, or a corpse on the ground? It's not, in those days, A memory of this place that returns to you, then. But a kind of knowing, deeper than words and deeper than thought, that the day has already slipped between your fingers. That you've already lost it. That the party is already ending by the time you've arrived at it. Never to return. An evening has come.
 
-**Cato Min:** Sorry, what's never to return?
+**Kaito Min:** Sorry, what's never to return?
 
 **DM:** The celebration, the day… Everything that's passed. is finally… Passed.
 
-**Cato Min:** Schwartz, is there the feeling that this ending of the party, like, has this been going on for years? Or is this actually, like, the ending of a… or could it have been going on for years? Or is it actually, like, a… do you know what I mean? Like… Is there any vibe? Like, the whole thing is… feels very eerie, you know, this whole… this whole place, again, it's that kind of weird, slightly creepy, like, The Shining-ish. It's like… you know what it feels like, Schwartz? It feels like we're in a Stanley Kubrick movie. For me, this is kind of what it feels like.
+**Kaito Min:** Schwartz, is there the feeling that this ending of the party, like, has this been going on for years? Or is this actually, like, the ending of a… or could it have been going on for years? Or is it actually, like, a… do you know what I mean? Like… Is there any vibe? Like, the whole thing is… feels very eerie, you know, this whole… this whole place, again, it's that kind of weird, slightly creepy, like, The Shining-ish. It's like… you know what it feels like, Schwartz? It feels like we're in a Stanley Kubrick movie. For me, this is kind of what it feels like.
 
 **DM:** High praise call, thank you.
 
-**Cato Min:** No, seriously, it does, it's amazing. So it's like, it's like, that's kind of like, like, has this party been at the ending phase for, like, eternity? Or is it, like… do you know what I mean? Is there any… is it creepy like that? Or is it, like, kind of like, oh, it actually is kind of a denouement after, like, a, you know…
+**Kaito Min:** No, seriously, it does, it's amazing. So it's like, it's like, that's kind of like, like, has this party been at the ending phase for, like, eternity? Or is it, like… do you know what I mean? Is there any… is it creepy like that? Or is it, like, kind of like, oh, it actually is kind of a denouement after, like, a, you know…
 
 **DM:** Let me answer slightly indirectly.
 
-**Cato Min:** Great.
+**Kaito Min:** Great.
 
 **DM:** Looking down the hill. You see two people climbing into a rowboat in the river, setting their oars in the oarlocks, getting ready to cast off. On the patio… The musicians call out. One moment. Or, one more. And you realize, you heard them call that 2 or 3 times as you were talking with the guard.
 
@@ -1482,27 +1482,27 @@
 
 **Ayveen:** 6 strange mortals, or five strange mortals descending on a pair of halflings might not… be necessary? Is there anyone else we can see?
 
-**Cato Min:** Yeah, Schwartz, is there, there were still performers, right, someplace?
+**Kaito Min:** Yeah, Schwartz, is there, there were still performers, right, someplace?
 
 **DM:** Yeah, so there's a trio playing on the balcony. There's, I mean…
 
 **Ayveen:** Let's go shop, talk shop with the musicians.
 
-**Cato Min:** Yeah, there's dozens of… it's just like, I think we're safe. I don't think there's anything, you know, this doesn't feel… I mean, we're safe in, like, I don't think anybody's gonna get, you know, bashed to death with, you know, instrument, blunt instrument here.
+**Kaito Min:** Yeah, there's dozens of… it's just like, I think we're safe. I don't think there's anything, you know, this doesn't feel… I mean, we're safe in, like, I don't think anybody's gonna get, you know, bashed to death with, you know, instrument, blunt instrument here.
 
 **Ayveen:** I think.
 
 **Edric:** It's just a large point instrument. Sort of.
 
-**Cato Min:** Like, the danger here… the danger here is more like getting trapped by having your soul trapped here for eternity. Or, signing on to some.
+**Kaito Min:** Like, the danger here… the danger here is more like getting trapped by having your soul trapped here for eternity. Or, signing on to some.
 
 **Edric:** Edric pats his breastplate reassuringly, like, the Night Queen will take care of my soul, I'll be okay.
 
-**Cato Min:** Yeah, you're fine.
+**Kaito Min:** Yeah, you're fine.
 
 **Ayveen:** I'd like to stay here because…
 
-**Cato Min:** I'm the one that's, you know… Likely to do something dumb here, but…
+**Kaito Min:** I'm the one that's, you know… Likely to do something dumb here, but…
 
 **Txarro:** I mean, the owl's still flying around overhead and can presumably see everybody.
 
@@ -1512,11 +1512,11 @@
 
 **Ayveen:** I'm also thinking ahead that, like, if we're chatting with someone, and you're chatting with someone, and the Lord of the Manor comes up to chat with us. You might want to drift in our direction. Sort of thing.
 
-**Cato Min:** Well, why don't we just stay in… why don't we just stay… why don't we just stay in eyesight of each other?
+**Kaito Min:** Well, why don't we just stay in… why don't we just stay… why don't we just stay in eyesight of each other?
 
 **Ayveen:** Yes. That's my point. Let's just keep ahold of each other.
 
-**Cato Min:** Cato will wander over to the, the instrumentalists. We can do these little vignettes separately, or whatever.
+**Kaito Min:** Kaito will wander over to the, the instrumentalists. We can do these little vignettes separately, or whatever.
 
 **Edric:** Edric will walk around, Everybody wandering off at a minor moment of panic, and then… tag after Txarro. Who seems safer than talking to musicians, which is kind of nerve-wracking.
 
@@ -1526,61 +1526,61 @@
 
 **DM:** Who wants to go… first?
 
-**Cato Min:** Like Congo.
+**Kaito Min:** Like Congo.
 
 **Txarro:** First, because he's got to jump off at 11.
 
-**Cato Min:** that may have a.
+**Kaito Min:** that may have a.
 
 **DM:** Oh, that's right.
 
-**Cato Min:** Cato will saunter over to the musicians. What are they playing?
+**Kaito Min:** Kaito will saunter over to the musicians. What are they playing?
 
 **Ayveen:** Bathing with them. Buddy system. beans with you, buddy. Okay, great. party system.
 
 **DM:** Three stringed instruments, like, Something like a cello and violin and viola, but with more strings than you're used to on any of them. All of them are… What are… Tall and slender and long and strong-fingered as their… Hands move over the strings. The music is… Clearly, these are professionals and excellent at what they do. You can see they're tired, clearly they've been at it for a long while. It's not that anything is incorrect or is missed, but… Yeah. You know, you have the ear to hear, oh, that… that was a… fraction of a second later than it should have been.
 
-**Cato Min:** player at the end of the night when I…
+**Kaito Min:** player at the end of the night when I…
 
 **DM:** Exactly right. I have seen it a million times.
 
-**Cato Min:** Cato, Cato will, as he gets closer, and sorry, what are they playing again? Are they playing string instruments?
+**Kaito Min:** Kaito, Kaito will, as he gets closer, and sorry, what are they playing again? Are they playing string instruments?
 
 **DM:** Yeah, cello, violin, viola. Perfect. Ish. Perfect, yeah. Perfect.
 
-**Cato Min:** Cato, Cato will,
+**Kaito Min:** Kaito, Kaito will,
 
 **DM:** Again, you know, with, with,
 
-**Cato Min:** All of the social graces and etiquette of somebody, of his skill and ability. Gets close enough and makes eye contact, so they are all… all of the other players are aware that he is approaching.
+**Kaito Min:** All of the social graces and etiquette of somebody, of his skill and ability. Gets close enough and makes eye contact, so they are all… all of the other players are aware that he is approaching.
 
 **DM:** And also, you know.
 
-**Cato Min:** Makes aware of his own, stringed instrument, and is kind of just, you know, kind of.
+**Kaito Min:** Makes aware of his own, stringed instrument, and is kind of just, you know, kind of.
 
 **DM:** like…
 
-**Cato Min:** showing it, like, but approaching slowly. And then also, you know, kind of just giving a glance and eye contact, sort of, like, asking, like, permission to play with you guys a little bit, just, you know, but again, he's very, you know, he knows to not overstep his bounds, but is also just, like, kind of, you know. You're giving a slight glance over.
+**Kaito Min:** showing it, like, but approaching slowly. And then also, you know, kind of just giving a glance and eye contact, sort of, like, asking, like, permission to play with you guys a little bit, just, you know, but again, he's very, you know, he knows to not overstep his bounds, but is also just, like, kind of, you know. You're giving a slight glance over.
 
 **DM:** I think the, like, the vibe you get is that this is not, like, an open session kind of thing, that this is. You know… These are… Got it, got it. They're doing their. Clearly hired for a…
 
-**Cato Min:** You know?
+**Kaito Min:** You know?
 
 **DM:** a thing. But, after about a minute or so, The peace comes to an end.
 
-**Cato Min:** In an unsatisfying way, like you…
+**Kaito Min:** In an unsatisfying way, like you…
 
 **DM:** You expect a certain resolution, and it gets close, but it doesn't give you, like, the final, dumb, dumb, you know? No. Oh, no.
 
-**Cato Min:** Oh, no.
+**Kaito Min:** Oh, no.
 
 **DM:** Right, so there's something un… Finished about that. There's a smattering of applause and a few distant calls for one more, one more, and the players. You know, one waxes their bow, and another reaches down for a glass of wine that's mostly drunk under their seat and takes a sip. And the third looks up at you and gives a nod. A player also,
 
-**Cato Min:** Would you like some relief? I can, I can, I can play a tune if you'd like.
+**Kaito Min:** Would you like some relief? I can, I can, I can play a tune if you'd like.
 
 **DM:** I dearly would, but The Lord of the House was very clear on this point. Besides, we just have one more to play, and we are done with this set, finally. Congratulations. Delighted to hear it. It's been a delightful set. Thank you. Thank you, thank you.
 
-**Cato Min:** Kiddo. steps back and… Excited to hear.
+**Kaito Min:** Kiddo. steps back and… Excited to hear.
 
 **DM:** They take a deep breath. Pick up, and the leader calls out, one more. One more before you go. And begins to play. Smash Cut to Halflings. Yes?
 
@@ -1636,7 +1636,7 @@
 
 **DM:** Yeah, yeah, alright, Tollen, good. Seth though, they have a… what do they have, a bridge there?
 
-**Cato Min:** When are these guys from?
+**Kaito Min:** When are these guys from?
 
 **Txarro:** They do have a… well, I know, but I don't know if Txarro knows. Sort of cheating. There is a bridge. You've heard of Tollen?
 
@@ -1696,15 +1696,15 @@
 
 **DM:** What are you, like… Not smart? Wow. Wow. How long have we known each other? Wow. Wow. Yeah.
 
-**Cato Min:** You were part of this conversation so much.
+**Kaito Min:** You were part of this conversation so much.
 
 **DM:** What happened?
 
-**Cato Min:** Edric.
+**Kaito Min:** Edric.
 
 **DM:** You probably wrapped up with the musicians if you want to wander over this way.
 
-**Cato Min:** Okay, yeah, yeah, yeah.
+**Kaito Min:** Okay, yeah, yeah, yeah.
 
 **DM:** Chardon! I was born in Chardon. That…
 
@@ -1712,17 +1712,17 @@
 
 **DM:** Thank you. Okay, that makes up for all the insults. Thank you, thank you. Yep.
 
-**Cato Min:** Apologies for joining this conversation late.
+**Kaito Min:** Apologies for joining this conversation late.
 
 **Txarro:** Traveler introduced.
 
 **DM:** God, it's a fucking elf! Oh my god! Oh my god! Yeah. Wow!
 
-**Cato Min:** Oh, yeah.
+**Kaito Min:** Oh, yeah.
 
 **DM:** Wow! Okay.
 
-**Cato Min:** What are you thinking?
+**Kaito Min:** What are you thinking?
 
 **Txarro:** We are still standing there just looking kind of confused by the.
 
@@ -1730,55 +1730,55 @@
 
 **Edric:** I'm gonna go and look for some wine.
 
-**Cato Min:** Yeah… Cato, Cato kinda,
+**Kaito Min:** Yeah… Kaito, Kaito kinda,
 
 **Ayveen:** I'm in the middle of Edric.
 
-**Cato Min:** Cato smoothly slides his way over, and then, just kind of, like, underneath his robe, pulls out, like, a little flask, and is like…
+**Kaito Min:** Kaito smoothly slides his way over, and then, just kind of, like, underneath his robe, pulls out, like, a little flask, and is like…
 
 **DM:** Now, here's the thing. Hmm. I can guarantee you…
 
-**Cato Min:** 100%.
+**Kaito Min:** 100%.
 
 **DM:** Mmm!
 
-**Cato Min:** You're gonna like what's in here.
+**Kaito Min:** You're gonna like what's in here.
 
 **DM:** How can you guarantee this?
 
-**Cato Min:** How can what?
+**Kaito Min:** How can what?
 
 **DM:** How can you guarantee this?
 
-**Cato Min:** Well… And then Cato gives it, like, a sniff. Based on what you smell like. And the type of alcohol you've been consuming all evening?
+**Kaito Min:** Well… And then Kaito gives it, like, a sniff. Based on what you smell like. And the type of alcohol you've been consuming all evening?
 
 **DM:** Hmm…
 
-**Cato Min:** I'm detecting a hint of rose, a little bit of, you know, a little rose liqueur.
+**Kaito Min:** I'm detecting a hint of rose, a little bit of, you know, a little rose liqueur.
 
 **DM:** Yeah.
 
-**Cato Min:** And, some hints of.
+**Kaito Min:** And, some hints of.
 
 **DM:** I'm gonna.
 
-**Cato Min:** I say something, I don't know anything about alcohol, but I, you know, I say some alcohol-grade sounding things.
+**Kaito Min:** I say something, I don't know anything about alcohol, but I, you know, I say some alcohol-grade sounding things.
 
-**DM:** And then, Cato's like, and… You know, the best pairing with that? Mmm! What I have right here. What's that? Cato says something awesome. Yeah, okay. Let's find out.
+**DM:** And then, Kaito's like, and… You know, the best pairing with that? Mmm! What I have right here. What's that? Kaito says something awesome. Yeah, okay. Let's find out.
 
-**Cato Min:** Wait, wait, no, no, no, no, no, I'm not giving it to you, I will, I will, I will.
+**Kaito Min:** Wait, wait, no, no, no, no, no, I'm not giving it to you, I will, I will, I will.
 
 **DM:** But first…
 
-**Cato Min:** But first, but first…
+**Kaito Min:** But first, but first…
 
 **DM:** I don't know about this elf etiquette.
 
-**Cato Min:** Etiquette.
+**Kaito Min:** Etiquette.
 
 **DM:** I kinda know about elf etiquette, huh. Your names? What's what?
 
-**Cato Min:** Your names.
+**Kaito Min:** Your names.
 
 **DM:** Pandel and, whatever I said before. I think it was choppy, but I didn't write it down. Okay, alright, whatever. Pandel and what? Hansel and Gretel? What is this? Shelby, I think? Yeah, I was like… Something with a B, I thought.
 
@@ -1788,25 +1788,25 @@
 
 **Ayveen:** Handel and his friend.
 
-**DM:** Okay, Pandal… Pandolin, Pandolin Friend. Yeah, Cato's like, okay, look. So…
+**DM:** Okay, Pandal… Pandolin, Pandolin Friend. Yeah, Kaito's like, okay, look. So…
 
-**Cato Min:** But how did you guys get to this party? Like, where, like, you're from Chardon, but how'd you get from Chardon to the road?
+**Kaito Min:** But how did you guys get to this party? Like, where, like, you're from Chardon, but how'd you get from Chardon to the road?
 
 **DM:** We… Wee… We've got the boat here, we liberated the boat.
 
-**Cato Min:** You liberated the boat with you?
+**Kaito Min:** You liberated the boat with you?
 
 **DM:** the river. Before that, we were on the Rabbit. Before that, it was morning. Before that, we lived in Chardon? I don't know, man, it's… I guess… I guess it's a little…
 
-**Cato Min:** Wait, okay, so you were in Chardon.
+**Kaito Min:** Wait, okay, so you were in Chardon.
 
 **DM:** Yeah.
 
-**Cato Min:** And then, and then, and then what happens? To the boat?
+**Kaito Min:** And then, and then, and then what happens? To the boat?
 
 **DM:** No, no, the boat was later, then it was morning. It was really beautiful, the sun was coming up.
 
-**Cato Min:** But beautiful, beautiful in, in Chardon in the morning.
+**Kaito Min:** But beautiful, beautiful in, in Chardon in the morning.
 
 **DM:** No, we were, we were outside, we were, we, we were… You are not in Chardon. We were in a caravan, right? We were headed northeast. Maybe we were going to see elves? I don't… I don't remember exactly. We were there… And then we took our… We took it. Thor Alice? Living near Chardon? Yeah, right?
 
@@ -1818,11 +1818,11 @@
 
 **DM:** Great! Wha- first of all, first of all, first of all. First of all, I'm gonna give you a piece of advice. No war is great. No war is great. Cheers to that. Cheers to that.
 
-**Cato Min:** On that note, .
+**Kaito Min:** On that note, .
 
-**DM:** Cato pops up in the flask, pours out just a tiny shot.
+**DM:** Kaito pops up in the flask, pours out just a tiny shot.
 
-**Cato Min:** Passes it over, pours out a shot for himself for the two halflings.
+**Kaito Min:** Passes it over, pours out a shot for himself for the two halflings.
 
 **DM:** Huh? They gratefully accept. We all throw it back. Just, just a little, just a little, you know, little taste. But they left. I mean, it's good, it's good shit. What do you mean?
 
@@ -1840,13 +1840,13 @@
 
 **Txarro:** No, I don't know what that is.
 
-**Cato Min:** Does, Cato know what that is?
+**Kaito Min:** Does, Kaito know what that is?
 
 **DM:** You can make a… anyone who is in earshot can make a history check.
 
 **Txarro:** Ayveen is the only one who knows history.
 
-**Cato Min:** Damn it. 5.
+**Kaito Min:** Damn it. 5.
 
 **Ayveen:** looking for wine.
 
@@ -1862,7 +1862,7 @@
 
 **DM:** I don't want to talk to the Lord of the Manor again, though, that guy gives you, like… Brain teasers. Oh, yeah. She's like, oh, oh, oh, oh, that's why, that's, that's why my friend was so wrong. Because the Lord of the Manor told us he is not afraid of his neighbors, He respects them, And… And I think that just means he's afraid of them. But, it doesn't matter.
 
-**Cato Min:** Wait, can you tell us… just tell us everything you know about the Lord, the manor. We're curious.
+**Kaito Min:** Wait, can you tell us… just tell us everything you know about the Lord, the manor. We're curious.
 
 **DM:** Oh my god, this is, like, the most serious guy you have ever met. He's so… he's so… and then… but there's all this stuff… And he's, like, sad about that, too, and you're like, oh, no! But… but also, I mean, he's like, so you don't feel too… You know, like, you want to give him a hug, but you should NOT give him a hug, because he's not the sort of person you give a hug to. I think if there's one thing you take away… Just not… the hugs. Ugh. Yeah? Does that, does that answer your question?
 
@@ -2122,7 +2122,7 @@
 
 **Ayveen:** What signal does Edric give us to his…
 
-**Edric:** Well, Edric says. I don't… I think I actually rightly understands what we're here for. But he kind of gestures over it. Txarro or… or… Cato. Maybe one of them could explain it. Or Ayveen. Whoever normally explains these things. I don't know, who has… who's smart in the party? I don't really remember.
+**Edric:** Well, Edric says. I don't… I think I actually rightly understands what we're here for. But he kind of gestures over it. Txarro or… or… Kaito. Maybe one of them could explain it. Or Ayveen. Whoever normally explains these things. I don't know, who has… who's smart in the party? I don't really remember.
 
 **Txarro:** Well, Ayveen has the highest intelligence, I think.
 

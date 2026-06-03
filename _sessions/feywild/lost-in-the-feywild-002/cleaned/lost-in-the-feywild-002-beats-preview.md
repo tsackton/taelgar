@@ -40,7 +40,7 @@
 - Date Resolution: exact
 - Time Window: evening
 - Combat: no
-- Boundary Reason: After the bodies sour the party's confidence, Cato turns to Edric's faith, Txarro casts Augury, and the group scouts the manor and party with an owl before deciding how to approach; the next beat begins as they come up to the gate and the guards notice them.
+- Boundary Reason: After the bodies sour the party's confidence, Kaito turns to Edric's faith, Txarro casts Augury, and the group scouts the manor and party with an owl before deciding how to approach; the next beat begins as they come up to the gate and the guards notice them.
 - Date Evidence:
   - session.yaml gives drStart and drEnd as 1740-10-05.
   - u0711-u0728 continue the evening approach along the hedgerow.
@@ -68,7 +68,7 @@
 - Date Resolution: exact
 - Time Window: evening
 - Combat: no
-- Boundary Reason: The party enters the grounds, feels the looped not-quite-frozen ending of the celebration, tests that they can leave, and splits into small social approaches while Cato tries to engage the exhausted musicians; the next beat starts with Txarro and others speaking to the halflings.
+- Boundary Reason: The party enters the grounds, feels the looped not-quite-frozen ending of the celebration, tests that they can leave, and splits into small social approaches while Kaito tries to engage the exhausted musicians; the next beat starts with Txarro and others speaking to the halflings.
 - Date Evidence:
   - session.yaml gives drStart and drEnd as 1740-10-05.
   - u1378-u1399 describe the same evening party already ending.
@@ -82,7 +82,7 @@
 - Date Resolution: exact
 - Time Window: evening
 - Combat: no
-- Boundary Reason: Txarro, Cato, and others question two drunken halflings, discover they are wildly out of time, learn they came from Chardon by rabbit and boat, and get their impressions of the Lord of the Manor before trying to lead them toward wine and other mortals; the next beat shifts to Ayveen and Edric finding the tiger-like guest.
+- Boundary Reason: Txarro, Kaito, and others question two drunken halflings, discover they are wildly out of time, learn they came from Chardon by rabbit and boat, and get their impressions of the Lord of the Manor before trying to lead them toward wine and other mortals; the next beat shifts to Ayveen and Edric finding the tiger-like guest.
 - Date Evidence:
   - session.yaml gives drStart and drEnd as 1740-10-05.
   - u1580-u1586 keep the conversation in the party grounds.

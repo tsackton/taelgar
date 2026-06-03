@@ -10,7 +10,7 @@ whereabouts:
 - {type: home, location: Orenlas}
 - {type: home, location: Tollen}
 ---
-# Cato Min
+# Kaito Min
 >[!info]+ Biographical Info  
 > An [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] 37)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  

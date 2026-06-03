@@ -43,18 +43,18 @@
 ### Browses
 - Brows is (1x)
 
-### Cato
-- Kato (30x)
+### Kaito
+- Kaito (30x)
 - Akato (1x)
 - Hato (1x)
 - It ' s all now (1x)
-- kato (1x)
+- Kaito (1x)
 - the caterer (1x)
 
-### Cato gives
+### Kaito gives
 - Kate is (1x)
 
-### Cato,
+### Kaito,
 - Hate or (1x)
 
 ### Chardon

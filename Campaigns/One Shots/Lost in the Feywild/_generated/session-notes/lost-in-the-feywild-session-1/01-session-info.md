@@ -26,7 +26,7 @@ David Schwartz
 <!-- /SLOT -->
 
 <!-- SLOT: session.pcs -->
-- [[Cato Min]]
+- [[Kaito Min]]
 - [[Edric]]
 - [[Tarek]]
 - [[Ayveen]]
@@ -34,11 +34,11 @@ David Schwartz
 <!-- /SLOT -->
 
 <!-- SLOT: session.pcs_plain_inline -->
-Cato Min, Edric, Tarek, Ayveen, Txarro
+Kaito Min, Edric, Tarek, Ayveen, Txarro
 <!-- /SLOT -->
 
 <!-- SLOT: session.pcs_inline -->
-[[Cato Min]], [[Edric]], [[Tarek]], [[Ayveen]], [[Txarro]]
+[[Kaito Min]], [[Edric]], [[Tarek]], [[Ayveen]], [[Txarro]]
 <!-- /SLOT -->
 
 <!-- SLOT: session.session_number -->
