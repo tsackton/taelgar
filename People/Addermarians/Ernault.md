@@ -8,6 +8,8 @@ name: Ernault
 species: human
 born: 1644
 ancestry: Addermarian
+affiliations: 
+- {org: Duval Household, title: Chief Clerk}
 title: Master
 gender: male
 whereabouts:
@@ -19,6 +21,7 @@ dm_notes: none
 >[!info]+ Biographical Info  
 > An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 22th, 1715 in [[Roscombe]], [[Carlinshire]], [[Addermarch]] %%^End%%
 

@@ -28,5 +28,3 @@ The founder of the [[House of Sewick]], he established modern Sembara at the [[T
 He had five children, and was succeeded by his second son, [[Derik II]].  His third child, Matilda, inherited the Duchy of Telham, and after his reign the Sembaran royalty no longer styled themselves "Dukes of Telham". 
 
 %% Important figure with more information in various linked notes and backlinks, so could probably use a review pass %%
-
-

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person]
 knownTo: [adma]
-campaignInfo: [{campaign: adma, type: "confronted", date: 1715-04-28}, {campaign: adma, type: "laid to rest", person: Owen Tavish, date: 1715-05-06, wParty: "<met:u> <person> on <target> <current:1q>"}]
+campaignInfo: [{campaign: adma, type: "confronted", date: 1715-04-28}, {campaign: adma, type: "laid to rest by", person: Owen Tavish, date: 1715-05-06, wParty: "<met:u> <person> on <target> <current:1q>"}]
 species: human
 ancestry: Addermarian
 gender: male
@@ -17,12 +17,12 @@ name: Einrik Arpaad
 ---
 # Sir Einrik Arpaad
 >[!info]+ Biographical Info  
-> An Addermarian [[Humans|human]] (he/him)  
+> An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Confronted by the [[Addermarch Mercenaries]] on April 28th, 1715 in [[Torvaine Watch]], the [[Torvaine Forest]], [[Addermarch]] %%^End%%  
->> %%^Campaign:adma%% Laid to rest [[Owen Tavish]] on May 6th, 1715 in [[Torvaine Watch]] %%^End%%
+>> %%^Campaign:adma%% Laid to rest by [[Owen Tavish]] on May 6th, 1715 in [[Torvaine Watch]] %%^End%%
 
 Sir Einrik Arpaad commanded [[Torvaine Watch]], the fort protecting the sometimes-dangerous road through the [[Torvaine Forest]], connecting [[Valcroix]] and [[Roscombe]]. Trusted for decades of service, he fell when the cursed [[Serpentine Dagger]] twisted his will, driving him to slaughter his garrison and, in turn, binding him to the fort as a wrathful [[Undead|ghost]]. The [[Addermarch Mercenaries]] escaped from his haunted menace, and the priest [[Owen Tavish]] later laid his spirit to rest.
 

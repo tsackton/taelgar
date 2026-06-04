@@ -8,11 +8,12 @@ name: Arvanko
 species: stoneborn
 born: 1445
 affiliations: 
-- {org: The Rangers}
+- {org: Rangers}
 gender: male
 dm_owner: tim
 dm_notes: important
-whereabouts: Carlinshire
+whereabouts: 
+- {type: home, location: Arvanko's Homestead, linkText: at}
 ---
 # Arvanko
 >[!info]+ Biographical Info  
@@ -20,7 +21,7 @@ whereabouts: Carlinshire
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 23th, 1715 in [[Carlinshire]], [[Addermarch]] %%^End%%
+>> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 23th, 1715 at [[Arvanko's Homestead]], in [[Carlinshire]], [[Addermarch]] %%^End%%
 
 Arvanko is a reclusive, prickly, and slow-to-trust Stoneborn ranger who lives alone on a hilltop east of [[Roscombe]], near the eaves of the [[Torvaine Forest]], about a day’s walk from town. Now in his later years, he has turned from hunting threats to carving a monument to the fallen: the unfinished, but massive, sculpture forms a a low circular wall nearly 200 feet in diameter, inscribed with the names of Rangers who died protecting Addermarch over the centuries. 
 

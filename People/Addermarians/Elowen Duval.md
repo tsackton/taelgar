@@ -11,7 +11,9 @@ species: human
 ancestry: Addermarian
 gender: female
 title: Lady
-affiliations: [{org: Roscombe, title: castellan, type: leader}]
+affiliations: 
+- {org: Roscombe, title: castellan, type: leader}
+- {org: Duval Household, title: head, type: leader}
 whereabouts:
 - {type: home, location: Roscombe}
 dm_notes: important
@@ -21,7 +23,7 @@ pronunciation: EL-oh-wen doo-VAL
 # Lady Elowen Duval
 *(EL-oh-wen doo-VAL)*
 >[!info]+ Biographical Info  
-> An Addermarian [[Humans|human]] (she/her)  
+> An [[Addermarch|Addermarian]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 1st, 1715 in [[Roscombe]], [[Carlinshire]], [[Addermarch]] %%^End%%  

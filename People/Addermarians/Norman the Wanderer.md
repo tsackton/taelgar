@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person]
 knownTo: [adma]
-campaignInfo: [{campaign: adma, type: "met", date: 1715-05-13}]
+campaignInfo: [{campaign: adma, type: "met", date: 1715-05-12}]
 name: Norman the Wanderer
 species: human
 ancestry: Addermarian
@@ -14,9 +14,9 @@ dm_notes: none
 ---
 # Norman the Wanderer
 >[!info]+ Biographical Info  
-> An Addermarian [[Humans|human]] (he/him)  
+> An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 13th, 1715 in the [[Stonewolds]], [[Carlinshire]], [[Addermarch]] %%^End%%
+>> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 12th, 1715 in the [[Stonewolds]], [[Carlinshire]], [[Addermarch]] %%^End%%
 
 Norman is a hermit who typically wanders the western [[Stonewolds]], living off the land and observing the comings and goings of monsters, hunters, and travelers. Eccentric yet sharp-eyed, Norman jealously guards “his hills” but can be persuaded to help those who show respect. He distrusts civilization’s rules, preferring the freedom of the wilds. His speech drifts between rambling stories and unexpectedly precise warnings.
 

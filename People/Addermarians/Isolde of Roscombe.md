@@ -7,7 +7,7 @@ name: Isolde of Roscombe
 species: human
 ancestry: Addermarian
 gender: female
-affiliations: [{org: Temple of the Sibyl , title: temple steward, type: member}]
+affiliations: [{org: Temple of the Sibyl (Roscombe), title: temple administrator, type: member}]
 whereabouts:
 - {type: home, location: Roscombe}
 dm_owner: none
@@ -15,7 +15,7 @@ dm_notes: none
 ---
 # Isolde of Roscombe
 >[!info]+ Biographical Info  
-> An Addermarian [[Humans|human]] (she/her)  
+> An [[Addermarch|Addermarian]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 6th, 1715 in [[Roscombe]], [[Carlinshire]], [[Addermarch]] %%^End%%

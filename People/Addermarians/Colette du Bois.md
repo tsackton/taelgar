@@ -8,6 +8,8 @@ species: human
 ancestry: Addermarian
 born: 1698
 gender: female
+affiliations: 
+- {org: Duval Household, title: Squire}
 whereabouts:
 - {type: home, location: Roscombe}
 - {type: away, location: Highmoor, start: 1715-04-29, end: 1715-05-09}
@@ -20,6 +22,7 @@ pronunciation: ko-LET doo BWAH
 >[!info]+ Biographical Info  
 > An [[Addermarch|Addermarian]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Rescued from goblin captivity by the [[Addermarch Mercenaries]] on May 8th, 1715 in [[Highmoor]], [[Carlinshire]], [[Addermarch]] %%^End%%  
 >> %%^Campaign:adma%% Discussed caves with the [[Addermarch Mercenaries]] on May 10th, 1715 in [[Roscombe]], [[Carlinshire]] %%^End%%

@@ -9,6 +9,8 @@ species: human
 ancestry: Addermarian
 gender: male
 title: Sir
+affiliations:
+- {org: Duval Household, title: Captain of the Guard}
 whereabouts:
 - {type: away, location: Torvaine Forest, start: 1715-04-28, end: 1715-04-30}
 - {type: home, location: Roscombe}
@@ -20,6 +22,7 @@ pronunciation: GAR-eth HOW-ell
 *(GAR-eth HOW-ell)*
 >[!info]+ Biographical Info  
 > An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on April 30th, 1715 in the [[Torvaine Forest]], [[Addermarch]] %%^End%%
 

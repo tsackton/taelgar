@@ -7,7 +7,7 @@
 
 [Titan Appears](Titan%20Appears.md)
 
-[Head](Head.md)
+[Head - Stone Titan](Head%20-%20Stone%20Titan.md)
 
 [Neck](Neck.md)
 

@@ -1,4 +1,4 @@
-Connections: [Main Body](Main%20Body.md), [Head](Head.md)
+Connections: [Main Body](Main%20Body.md), [Head - Stone Titan](Head%20-%20Stone%20Titan.md)
 
 Scene notes:
  

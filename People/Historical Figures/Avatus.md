@@ -1,11 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/review]
+tags: [person, status/review, status/gameupdate/adma]
 knownTo: [adma]
 name: Avatus
-born:
-species: human
-ancestry:
+affiliations: [{org: Dominion of Avatus, title: ruler, type: leader}]
 title: Emperor
 gender: male
 dm_notes: none
@@ -13,9 +11,12 @@ dm_owner: joint
 ---
 # Emperor Avatus
 >[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)
+> (he/him)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% status/incomplete -> extensive discussion, brainstorming, and invention not captured; highly significant in Addermarch and Cleenseau campaigns, at least as backstory to dungeons %%
+
+%% needs significant updates to capture canon introduced in Addermarch game %%
 
 The ruler of an autocracy established on the southern edge of Sembara in the DR 1420s. Commissioned the [[Mirror of Soul Trapping]]. 
 
