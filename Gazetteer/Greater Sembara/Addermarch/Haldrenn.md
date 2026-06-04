@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/gameupdate/adma]
+tags: [place]
 name: Haldrenn
 typeOf: settlement
 whereabouts: Highmoor
@@ -15,23 +15,21 @@ typeOfAlias: village
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Haldrenn is a ridge‑top hill village in the [[Highmoor]], northeast of [[Brantor]] and [[Roscombe]], known for shieling herds, run‑rig fields, and a spring that runs red after heavy rain.
-## Overview
-Haldrenn clings to a eastern side of a windswept ridge northwest of the [[Umber]] lowlands, its turf‑roofed houses and ankle‑high drystone dykes gathered around a spring‑fed well. Each spring, herders drive shaggy highland cattle up to summer shielings while crofters tend rye and kale on the eastern slope. After storms, the iron‑rich “Red‑Soil Spring” stains the brook crimson. 
+Haldrenn is a small, isolated hill village in the [[Highmoor]], northeast of [[Brantor]] and [[Roscombe]], sheltered by a windswept ridgeline marked with carved wooden wards. The village clings to the eastern side of the ridge, northwest of the [[Umber]] lowlands, a small collection of turf-roofed houses and ankle-high drystone dykes gathered around a spring-fed well.  Each spring, herders drive shaggy highland cattle up to summer shielings while crofters tend rye and kale on the slope below the village. 
 
 ## Layout
-The main village consists of 11  houses and a small temple to [[The Mother]] around the communal well.  To the south, strips of arable land are farmed in rotation, providing sustenance crops of rye, barley, and kale for the village; two rowan-fringed orchards are nestled in sheltered hollows. North are the summer pastures, with dairy pens and shieling bothies. The west hollow, towards [[Brantor]], has a coppice wood with charcoal clamps. 
+The main village consists of 11 houses and a small temple to [[The Mother]] around the communal well. To the south, strips of arable land are farmed in rotation, providing rye, barley, and kale for the village; two rowan-fringed orchards are nestled in sheltered hollows. North are the summer pastures. The western hollow, toward [[Brantor]], has a coppiced wood with charcoal clamps.
 
-The people of [[Haldrenn]] traditionally place carved wooden wards on the ridge lines, especially to the east, that are rumored to deter hostile fey. 
-## Economy
-- Transhumance (spring–autumn): cattle families make high‑fat cheeses and other dairy products for buyers in [[Roscombe]].  
-- Wool & hides: blackface sheep on common hill; fleeces and tallow at [[Roscombe]] fairs.  
-- Subsistence arable: rye, barley, kale, and rowan‑flower honey.  
-- Winter trades: charcoal burns and pit‑sawn boards hauled south when roads firm.
+## Customs and Lore
+The people of Haldrenn traditionally place carved wooden wards along the ridgelines, especially to the east, to deter hostile fey. Village stories warn of [[Hollow Men]] and the [[Morlaith|Briarheart]] and speak of the rituals needed to avert danger. Local tradition treats these customs as part warning and part bargain: a way to keep older fey passages closed against worse powers from beyond the moor.
+
+[[Helen of Haldrenn]], the administrator of the village temple, is a keeper of these fey stories. [[Alewyn]]’s hearth serves as an informal winter gathering place, where local gossip and travelers’ tales circulate during the cold months.
 
 ## Notable Events
-- (DR:: 1715-05-07): A maddening "song" starts driving cattle and other animals to violence; the farmer [[Olay]] gored by his own bull.
+- (DR:: 1715-05-07): A maddening song begins driving cattle and other animals to violence; the farmer [[Olay]] is gored by his own bull.
 - (DR:: 1715-05-17): [[Drou]], [[Fazoth de Brune|Fazoth]], and [[Yvan Greenrabbit|Yvan]] arrive in the village and [[Addermarch - Session 11|help with a lost girl]] and a [[Addermarch - Session 12|worg attack]]. 
+- (DR:: 1715-05-19): [[Drou]], [[Fazoth de Brune|Fazoth]], and [[Yvan Greenrabbit|Yvan]] return to the village, learn more about [[Duncan of Haldrenn]], and investigates his cottage and root cellar.
+
 
 %% DM Notes
 

@@ -13,6 +13,8 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+![[roscombe-travelers-rest.png]]
+
 The Traveler’s Rest is Roscombe’s principal inn, a sturdy two‑storey house set against the southern wall, near the gate and the road to [[Valcroix]]. It offers clean beds, hot meals, and reliable stabling for the occasional travelers from river valleys around the [[Velan]] and the [[Umber]], including several rooms on the ground floor reserved for halflings.
 
 Run by [[Bertrand LeBlanc]], an affable, efficient host, the inn has a reputation for fair dealing and a well‑kept cellar. 
