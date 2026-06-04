@@ -27,7 +27,7 @@ The party hunts and kills a cockatrice, deals with a water nymph, and returns st
 - **(DR:: 1715-05-03), midday:** Inside they discover a petrified dwarf, a strange map, and fend off a shadow-animated skeleton.In the main cavern they defeat an adult cockatrice and its hatchlings amid a dormant fey gate and a lifelike statue of a shepherd boy. A furious naiad binds [[Fazoth de Brune|Fazoth]] and [[Yvan Greenrabbit|Yvan]] until they purge red algae tainting her pool; treasure—including Duval family jewels and an odd golden symbol of **[[The Sibyl]]**—is recovered and the fey gate is destroyed.    
 - **(DR:: 1715-05-03), evening:** Laden with gizzard, eggs, and loot, the party camps on the road back toward [[Roscombe]].
 - **(DR:: 1715-05-04), morning:** A detour to **[[Brantor]]** lets them deliver the gizzard to [[Caradoc]].
-- **(DR:: 1715-05-04), evening:** Returning to [[Roscombe]] they present the recovered jewels to Lady Duval, claim the long-standing bounty on the thief who stole them, and settle again at The Traveler’s Rest.
+- **(DR:: 1715-05-04), evening:** Returning to [[Roscombe]] they present the recovered jewels to Lady [[Elowen Duval]], claim the long-standing bounty on the thief who stole them, and settle again at [[The Traveler's Rest]].
 ## Cast of Characters
 
 - **[[Drou]]** – [[Elves|elf]] adventurer and woodland guide

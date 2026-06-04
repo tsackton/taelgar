@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai, status/gameupdate/adma]
 name: Highmoor
 typeOf: grassland
 whereabouts: Carlinshire
@@ -18,6 +18,8 @@ The Highmoor is a band of rocky hills and scrub north and east of [[Roscombe]], 
 The region is dotted with broken limestone outcrops, with occasional small pockets of woodland. 
 
 %% DM
+
+AI note: Needs Addermarch game update: fold the goblin lair from [[Addermarch - Session 04]] and [[Addermarch - Session 05]] into the visible Highmoor overview or a subordinate site note.
 
 The goblin bandit lair in [[Addermarch - Session 04]] (see: [[Session 4 - DM Notes]] and [[Session 5 - DM Notes]]) is in the northern Highmoor. 
 

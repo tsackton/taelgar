@@ -1,8 +1,22 @@
 ---
+headerVersion: 2023.11.25
 tags: [creature, status/stub]
 dm_owner: joint
 dm_notes: none
 ---
+# Undead
+
+Across Taelgar, in all cultures and among diverse peoples, there are myths, warnings, and lore about undead. Technically described as a transformation of a sentient creature in scholarly lore, undeath is a curse to ward off, and, much more rarely, a goal to seek. 
+
+As undeath has major implications for the fate of souls, most religions have something to say about it. Across the Mos Numena-influenced world, the undead are seen as wholly evil, and destroyed on sight, but most religious scholars make practical distinctions among types of undead. In folklore and legend, these distinctions are not always obvious, and some major outbreaks of undead violence loom large in the popular imagination. 
+
+## Undeath and the Soul
+
+From a scholarly, theological point of view, there is a major distinction between the lesser corporeal undead, the incorporeal undead, and the greater corporeal undead, having to do with the nature of souls. 
+
+All sentient beings possess a [[Plane of Souls|soul]], made of [[soulstuff]] and gifted by the [[Divine Presence]], whether directly or indirectly; in all known religious texts, it is understood that this soul seeks to return to the divine after death. 
+
+The lesser corporeal undead, such as zombies and skeletons, 
 
 %% setting status/check/mike in case you have other notes or thoughts to add %%
 
