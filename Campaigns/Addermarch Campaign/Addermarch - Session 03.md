@@ -5,7 +5,7 @@ sessionNumber: 3
 realWorldDate: 2024-09-20
 DR: 1715-05-02
 DR_end: 1715-05-04
-players: [Yvan, Drou, Fazoth]
+players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
 name: Addermarch Campaign - Session 3
 tagline: in which the party explores a cockatrice lair
 descTitle: Cockatrice Hunt

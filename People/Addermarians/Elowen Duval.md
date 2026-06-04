@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/gameupdate/adma]
+knownTo: [adma]
 campaignInfo: 
 - {campaign: adma, type: met, date: 1715-05-01}
 - {campaign: adma, type: rewarded, date: 1715-05-04, wParty: "<met:u> <person> on <target> <current:1>"}

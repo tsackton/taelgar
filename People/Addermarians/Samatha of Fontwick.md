@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [adma]
 campaignInfo: [{campaign: adma, type: "met", date: 1715-05-12}]
 name: Samatha of Fontwick
 species: human
@@ -17,12 +18,7 @@ dm_notes: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 12th, 1715 in [[Fontwick]], [[Carlinshire]], [[Addermarch]] %%^End%%
 
-Samantha is a dairy farmer from [[Fontwick]], a small village west of [[Roscombe]]. She operates a small dairy alongside her husband [[Godfrey of Fontwick]]. She is practical, hospitable, and resilient. 
-
-## Relationships
-- **[[Godfrey of Fontwick]]** – Husband and partner; together they manage the herd and barter with nearby towns.  
-- **Lady [[Elowen Duval]]** – Local ruler whose judgments she trusts.  
-- [[Addermarch Mercenaries]] — Benefactors she now considers friends, repaying them with provisions and heartfelt thanks for their aid.
+Samantha is a village from [[Fontwick]], a small village west of [[Roscombe]]. She operates a small dairy alongside her husband [[Godfrey of Fontwick]]. She is practical, hospitable, and resilient. 
 
 ## Events
 - (DR:: 1715-05-11): Encountered the [[Addermarch Mercenaries]] while fleeing an ankheg attack on her cattle, and led them back to the farm.

@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/gameupdate/adma]
+knownTo: [adma]
 name: Kelvyn
 species: human
 gender: male

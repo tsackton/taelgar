@@ -6,7 +6,7 @@ sessionNumber: 5
 DR: 1715-05-08
 DR_end: 1715-05-09
 realWorldDate: 2024-10-27
-players: [Yvan, Drou, Fazoth]
+players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
 name: Addermarch Campaign - Session 5
 tagline: in which a prisoner is freed and a queen defeated
 descTitle: Rescue and Confrontation
@@ -45,7 +45,7 @@ The adventurers rescue Colette, defeat the goblin queen, and destroy the Serpent
 ## Narrative
 ### Saturday, May 8th, 2 Robert I
 
-*Afternoon*: We begin in the common room and living quarters of the goblin bandits, the sound of drunken guards talking obvious through a door. [[Yvan Greenrabbit|Yvan]] sneaks into the guard room, dressed as a goblin, and convinces the rather drunk guards he was sent to check on the prisoner. He continues down the passage, and sees [[Colette du Bois]], a young human woman, locked in a cage. They speak briefly, and he learns she came scouting, sneakily, to investigate on behalf of [[Gareth Howell]] (or at least, with his knowledge), but was caught and now is likely to be fed to the giant spider soon. 
+*Afternoon*: We begin in the common room and living quarters of the [[Goblins|goblin]] bandits, the sound of drunken guards talking obvious through a door. [[Yvan Greenrabbit|Yvan]] sneaks into the guard room, dressed as a goblin, and convinces the rather drunk guards he was sent to check on the prisoner. He continues down the passage, and sees [[Colette du Bois]], a young human woman, locked in a cage. They speak briefly, and he learns she came scouting, sneakily, to investigate on behalf of [[Gareth Howell]] (or at least, with his knowledge), but was caught and now is likely to be fed to the giant spider soon. 
 
 With no way to get the key except fight the guards, [[Yvan Greenrabbit|Yvan]] engages with the help of [[Drou]] and [[Fazoth de Brune|Fazoth]]. Yvan's scorching ray, Fazoth's cloud of daggers, and Drou's dissonant whispers plus starry wisp make short work of the drunk guards, aided by Yvan's skin becoming magically resistant to damage. After finding the key, the party frees [[Colette du Bois]] before taking a short rest. 
 

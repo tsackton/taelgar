@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [power, status/review]
+knownTo: [adma, clee, dufr]
 name: Lord Umbraeth
 excludePublish: ["clee"]
 typeOf: archfey

@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, status/review]
+knownTo: [adma]
 name: Derik I
 born: 1396
 species: human

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [object]
+tags: [object, status/gameupdate/adma]
 name: Serpentine Battleaxe
 typeOf: weapon
 subTypeOf: magic

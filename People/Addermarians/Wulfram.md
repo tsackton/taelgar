@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [adma]
 campaignInfo: [{campaign: adma, type: "discovered", date: 1715-04-28}]
 name: Wulfram
 species: human
@@ -21,12 +22,7 @@ dm_owner: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Discovered by the [[Addermarch Mercenaries]] on April 28th, 1715 in [[Torvaine Watch]], the [[Torvaine Forest]], [[Addermarch]] %%^End%%
 
-Wulfram was the temple steward of [[The Warlord]] at [[Torvaine Watch]], who urged the containment of the [[Serpentine Dagger]] and is remembered through accounts of the fort’s fall. He tended the chapel and advised the garrison on matters of faith and honor. When the cursed dagger appeared, he urged it be locked away, but was killed in the  confrontation created by the dagger's cursed influence.
-## Relationships
-- [[Hildo Brask]] — Partner in maintaining morale; they coordinated letters and relief for the troops’ families.
-- [[Bartoz]] — Collaborated to secure the dagger and calm fears spreading through the barracks.
-- [[Einrik Arpaad]] — Commander he tried to counsel.
-
+Wulfram was the temple steward of [[The Warlord]] at [[Torvaine Watch]], who urged the containment of the [[Serpentine Dagger]]. He tended the chapel and advised the garrison on matters of faith and honor. When the cursed dagger appeared, he urged it be locked away, but was killed in the  confrontation created by the dagger's cursed influence.
 
 %% DM (sources)
 

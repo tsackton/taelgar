@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+tags: [place, status/gameupdate/adma]
 name: Haldrenn
 typeOf: settlement
 whereabouts: Highmoor

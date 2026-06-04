@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note, status/check/ai]
+tags: [session-note]
 campaign: Addermarch
 sessionNumber: 20
 realWorldDate: 2026-03-08

@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [adma]
 campaignInfo: [{campaign: adma, type: funeral attended, date: 1715-05-17}]
 name: Olay
 species: human

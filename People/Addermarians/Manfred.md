@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [adma]
 name: Manfred
 species: human
 ancestry: Addermarian
