@@ -9,7 +9,7 @@ species: human
 ancestry: Addermarian
 gender: male
 died: 1715-04-01
-affiliations: [{org: Torvaine Watch, title: master smith}]
+affiliations: [{org: Torvaine Watch, title: master smith, type: member}]
 whereabouts:
 - {type: home, location: Torvaine Watch}
 dm_owner: none
@@ -17,7 +17,7 @@ dm_notes: none
 ---
 # Bartoz
 >[!info]+ Biographical Info  
-> An Addermarian [[Humans|human]] (he/him)  
+> An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  

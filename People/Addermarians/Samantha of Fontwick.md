@@ -2,8 +2,8 @@
 headerVersion: 2023.11.25
 tags: [person]
 knownTo: [adma]
-campaignInfo: [{campaign: adma, type: "met", date: 1715-05-12}]
-name: Samatha of Fontwick
+campaignInfo: [{campaign: adma, type: "met", date: 1715-05-11}]
+name: Samantha of Fontwick
 species: human
 ancestry: Addermarian
 gender: female
@@ -14,9 +14,9 @@ dm_notes: none
 ---
 # Samatha of Fontwick
 >[!info]+ Biographical Info  
-> An Addermarian [[Humans|human]] (she/her)  
+> An [[Addermarch|Addermarian]] [[Humans|human]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 12th, 1715 in [[Fontwick]], [[Carlinshire]], [[Addermarch]] %%^End%%
+>> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 11th, 1715 in [[Fontwick]], the [[Stonewolds]], [[Carlinshire]] %%^End%%
 
 Samantha is a village from [[Fontwick]], a small village west of [[Roscombe]]. She operates a small dairy alongside her husband [[Godfrey of Fontwick]]. She is practical, hospitable, and resilient. 
 

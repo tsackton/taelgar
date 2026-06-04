@@ -9,6 +9,8 @@ species: human
 ancestry: Addermarian
 gender: female
 born: 1694
+affiliations: 
+- {org: The Traveler's Rest, title: chambermaid, type: member}
 whereabouts:
 - {type: home, location: Roscombe}
 dm_owner: none
@@ -18,7 +20,9 @@ dm_notes: none
 >[!info]+ Biographical Info  
 > An [[Addermarch|Addermarian]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 22th, 1715 in [[Roscombe]], [[Carlinshire]], [[Addermarch]] %%^End%%
 
 Emma Cole is a curious and excitable young woman who works as a chambermaid at [[The Traveler's Rest]] in [[Roscombe]], alongside her uncle [[Bertrand LeBlanc]]. 
+
