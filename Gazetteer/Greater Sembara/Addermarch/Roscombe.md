@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+tags: [place, status/check/ai, status/gameupdate/adma]
 name: Roscombe
 typeOf: settlement
 whereabouts: Carlinshire
@@ -31,6 +30,7 @@ The walls are stone, well-built, and date to the days of the wars against [[Avat
 %%
 
 DM notes and campaign references
+- AI note: Needs Addermarch game update: fold in Duval Manor and the Temple of the Sibyl from [[Addermarch - Session 04]], [[Addermarch - Session 05]], and [[Addermarch - Session 16]].
 - See encounters and logistics around market days and garrison responses in: [[Session 2 - DM Notes]].
 - Taverns and notable NPCs summarized in: [[Adventure 2 - Caves of the Cockatrice]] and related Addermarch prep.
 %%

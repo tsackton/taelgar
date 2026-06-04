@@ -27,9 +27,7 @@ pronunciation: EL-oh-wen doo-VAL
 >> %%^Campaign:adma%% Rewarded the [[Addermarch Mercenaries]] on May 4th, 1715 [[Roscombe]] %%^End%%  
 >> %%^Campaign:adma%% Hosted a dinner including the [[Addermarch Mercenaries]] on May 7th, 1715 [[Roscombe]] %%^End%%
 
-Elowen Duval is the castellan of [[Roscombe]], overseeing the isolated uplands of [[Carlinshire]] with measured resolve.
-## Overview
-Lady Elowen Duval governs [[Roscombe]] and its surrounding hinterlands, coordinating defense, trade, and relief for outlying farms and hamlets. She favors reliable agents and public support for those who safeguard the marches, using targeted commissions to stabilize the frontier. Though formally sworn to the lord of [[Carlinshire]] and the Earl of Westcliff, Roscombe often skipped during the earl's circuits due to its isolation. 
+Elowen Duval is the castellan of [[Roscombe]], overseeing the isolated uplands of [[Carlinshire]] with measured resolve. She governs [[Roscombe]] and its surrounding hinterlands, coordinating frontier defense, trade, and general civic life. Though formally sworn to the lord of [[Carlinshire]] and the Earl of Westcliff, Roscombe is often skipped during the earl's circuits due to its isolation, leaving Lady Duval unusually independent for her rank. 
 
 ## Events
 - (DR:: 1715-05-01): Received a report on [[Torvaine Watch]]; commissioned further investigation and urged consultation with [[Owen Tavish]].
@@ -44,10 +42,6 @@ Lady Elowen Duval governs [[Roscombe]] and its surrounding hinterlands, coordina
 ## Personality
 Pragmatic and unflappable; favors diplomacy and delegation. Values competence, listens closely to briefings, and pays promptly for results. Protective of [[Roscombe]]’s folk, supporting bounties, loans to distressed farmers, and public recognition.
 
-## Capabilities & Resources
-- Castellan authority over Roscombe’s defenses, courts, and levies.
-- Treasury allocation for bounties, relief loans, and commissioned expeditions.
-- Household guard under [[Gareth Howell]] for patrol and rapid response.
 
 %% DM (PC interactions and sources)
 - Campaign correspondence and invitation: [[Adventure 2 - Caves of the Cockatrice]] (sealed letter; “doo‑VAL”).

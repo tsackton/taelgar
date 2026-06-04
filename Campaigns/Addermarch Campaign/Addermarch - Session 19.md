@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Addermarch
 sessionNumber: 19
 realWorldDate: 2026-02-16
@@ -32,7 +32,7 @@ Starting from their resting place in the upper mine chambers, the party finds a 
 - **[[Fazoth de Brune]]** - Warlock whose _Witch Bolt_ and quick _Misty Step_ keep the party moving in the tight passages.
 - **[[Duncan of Haldrenn]]** - Missing shepherd; the party follows evidence of his movements into the lowest levels.
 - **Fazoth's pseudodragon** - Scout used to probe the ventilation shaft and harry enemies, though its poison proves ineffective.
-- **Serpentine ghouls** - Undead encountered on multiple levels, drawn to serpentine residue in the stone.
+- **[[Serpentine|Serpentine]] ghouls** - Undead encountered on multiple levels, drawn to serpentine residue in the stone.
 
 ## Places
 
@@ -46,13 +46,13 @@ Starting from their resting place in the upper mine chambers, the party finds a 
 
 After a long rest in the upper chambers, the party backtracks out of the mine, and scales the hill above the mine entrance, locating a ventilation shaft into the lower works. Fazoth's pseudodragon scouts ahead and spots serpentine ghouls below. The descent goes badly: a poorly anchored iron spike pulls free under the combined weight of Drou and Yvan, sending both tumbling down, and forcing Fazoth to descend with _Misty Step_.
 
-The ghouls are dispatched, though Drou's _Shatter_ rings through the rock and announces the party's presence to whatever waits below. They burn the bodies and pocket roughly 300 silver pieces before pressing on. Following the trail of Duncan's passage through scattered equipment and bodies that mercifully stay down, they push to the lowest level. 
+The ghouls are dispatched, though Drou's _Shatter_ rings through the rock and announces the party's presence to whatever waits below. They burn the bodies and pocket roughly 300 silver pieces before pressing on. Following the trail of Duncan's passage through scattered equipment and bodies that mercifully stay down, they push to the lowest level.
 
-Here, ghouls lick serpentine from the walls and turn to attack in the cramped tunnels. The fight is brutal. Drou's summoned constrictor snake absorbs punishment and is briefly paralyzed, while she works with daggers, fists, and _Starry Wisp_. Fazoth's _Witch Bolt_ crackles effectively, and Yvan seals the battle's end as he steps forward into darkness and launches a _Fireball_ that blasts the next wave ghouls moving towards the noise of combat. In the silence that follows, a rhythmic thudding echoes from the passage ahead; with the dungeon fully alerted and no safe rest in sight, the party advances as our session ends. 
+Here, ghouls lick [[Serpentine|serpentine]] from the walls and turn to attack in the cramped tunnels. The fight is brutal. Drou's summoned constrictor snake absorbs punishment and is briefly paralyzed, while she works with daggers, fists, and _Starry Wisp_. Fazoth's _Witch Bolt_ crackles effectively, and Yvan seals the battle's end as he steps forward into darkness and launches a _Fireball_ that blasts the next wave ghouls moving towards the noise of combat. In the silence that follows, a rhythmic thudding echoes from the passage ahead; with the dungeon fully alerted and no safe rest in sight, the party advances as our session ends.
 
 %% Feb 16th 2026%%
 
-%% RAW NOTES 
+%% RAW NOTES
 start in chamber where unicorn fight was, after long rest
 exit mine, go back through work shed / Duncan's camp, climb hill
 find ventilation shaft
@@ -70,7 +70,7 @@ take ~300 silver pieces in treasure
 
 ---
 
-explore this level. skip the dusty/abandoned mine area, come to the place where Duncan obviously was. 
+explore this level. skip the dusty/abandoned mine area, come to the place where Duncan obviously was.
 find the path down, old mine stuff, some crushed bodies that don't reanimate
 evidence duncan went this way
 follow path down
@@ -88,7 +88,7 @@ steps forward to fireball
 blasts next wave of enemies coming, mostly wiping them out
 wrap up battle quickly after fireball
 hear rhythmic thudding from next area
-decide not to short rest (too dangerous) 
+decide not to short rest (too dangerous)
 end session as the party proceeds up the path to the boss fight
 
 RAW NOTES END %%

@@ -27,7 +27,7 @@ The adventurers prepare in [[Roscombe]], attend a manor dinner, and then success
 - **(DR:: 1715-05-06), morning:** At the Temple of the Sibyl in [[Roscombe]], the party confers with [[Owen Tavish]] about the [[Serpentine Dagger]], and sell him an ancient Sibylline holy symbol.   
 - **(DR:: 1715-05-06), afternoon:** At [[Caradoc]]’s cottage near [[Brantor]], the party commissions a dose of [[Trueflame]] to aid in destroying the [[Serpentine Dagger]], and accepts a contract to recover a stolen “glowing poison” recipe from local [[Goblins]].
 - **(DR:: 1715-05-07), evening:** Over dinner in Lady **[[Elowen Duval]]’s** hall—complete with [[Drou]]’s performance, [[Yvan Greenrabbit|Yvan]]’s live painting, and [[Fazoth de Brune|Fazoth]]’s fireworks—they learn from Captain **[[Gareth Howell]]** of a goblin hideout and his missing squire; the party vows to investigate.
-- **(DR:: 1715-05-08), morning:** Trekking north into the hills they reach a cave entrance, trigger a collapsing-floor trap, and rout the first wave of goblin sentries with chromatic orbs, invisibility, and misty step.
+- **(DR:: 1715-05-08), morning:** Trekking north into the hills they reach a cave entrance, trigger a collapsing-floor trap, and rout the first wave of [[Goblins|goblin]] sentries with chromatic orbs, invisibility, and misty step.
 - **(DR:: 1715-05-08), afternoon:** Following tracks to a hidden trapdoor they descend, dodge another pit alarm, burst into the goblin living-quarters, and—after a brutal melee of cloud-of-daggers, fist-flurries, and arcane blasts—slay the bandits and seize the room.
 ## Cast of Characters
 
@@ -39,7 +39,7 @@ The adventurers prepare in [[Roscombe]], attend a manor dinner, and then success
 - **[[Caradoc]]** – eccentric hill-country alchemist; employer of the party
 - **Lady [[Elowen Duval]]** – castellan of [[Roscombe]], patron of local heroes
 - **Sir [[Gareth Howell]]** – leader of Duval’s household guard; worried about his lost squire
-- **Goblin bandits** – thieves holed up in trapped tunnels, holders of the poison recipe
+- **[[Goblins|Goblin]] bandits** – thieves holed up in trapped tunnels, holders of the poison recipe
 ## Places
 
 - **[[Roscombe]]** – market town in the [[Stonewolds]], Addermarch’s western highlands in [[Carlinshire]]
