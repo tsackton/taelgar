@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [adma]
 campaignInfo: [{campaign: adma, type: met, date: 1715-05-17}]
 name: Helen of Haldrenn
 species: human

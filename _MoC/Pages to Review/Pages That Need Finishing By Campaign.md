@@ -1,6 +1,6 @@
 # Pages That Need Finishing
 
-These are pages tagged as stubs. 
+These are pages tagged as stubs
 
 ## Dunmar
 

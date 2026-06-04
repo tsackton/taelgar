@@ -6,7 +6,7 @@ sessionNumber: 6
 realWorldDate: 2024-11-17
 DR: 1715-05-09
 DR_end: 1715-05-12
-players: [Yvan, Drou, Fazoth]
+players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
 name: Addermarch Campaign - Session 6
 tagline: in which the party faces a burrowing menace
 descTitle: The Ankheg of Fontwick

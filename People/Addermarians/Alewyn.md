@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [adma]
 name: Alewyn
 pronunciation: EYE-loo-in
 species: human

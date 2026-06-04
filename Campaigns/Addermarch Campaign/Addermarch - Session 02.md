@@ -1,11 +1,11 @@
 ---
-tags: [session-note, status/check/ai]
+tags: [session-note]
 campaign: Addermarch
 sessionNumber: 2
 realWorldDate: 2024-09-15
 DR: 1715-04-28
 DR_end: 1715-05-01
-players: [Yvan, Drou, Fazoth]
+players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
 name: Addermarch Campaign - Session 2
 tagline: in which a cursed dagger wreaks havoc
 descTitle: The Cursed Dagger's Tale

@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [power]
+knownTo: [adma, clee]
 typeOf: archfey
 gender: male
 dm_owner: tim

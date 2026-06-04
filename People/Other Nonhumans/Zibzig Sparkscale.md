@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [adma]
 name: Zibzig Sparkscale
 species: kobold
 gender: male
@@ -13,9 +14,9 @@ dm_notes: none
 ---
 # Zibzig Sparkscale
 >[!info]+ Biographical Info  
-> A kobold (he/him)  
+> A [[Kobolds|kobold]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 13th, 1715 in the [[West Stonewolds Caves]], [[Carlinshire]], [[Addermarch]] %%^End%%
+>> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 13th, 1715 in the [[West Stonewolds Caves]], the [[Stonewolds]], [[Carlinshire]] %%^End%%
 
 Zibzig is an eccentric kobold wizard, styling himself the “Master of Light and Shadow" while living in a small two‑room lair along the underground river in the [[West Stonewolds Caves]].  
 

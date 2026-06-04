@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/gameupdate/adma]
+knownTo: [adma]
 aliases: [Aurenxis]
 campaignInfo: 
 - {campaign: adma, type: "hired", date: 1715-05-02, wParty: "<met:u> <person> on <target> <current:rq>"}

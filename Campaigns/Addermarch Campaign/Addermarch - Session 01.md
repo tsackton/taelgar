@@ -5,7 +5,7 @@ sessionNumber: 1
 realWorldDate: 2024-09-08
 DR: 1715-04-25
 DR_end: 1715-04-28
-players: [Yvan, Drou, Fazoth]
+players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
 name: Addermarch Campaign - Session 1
 tagline: in which the party battles zombies
 descTitle: Desolation at Torvaine Watch

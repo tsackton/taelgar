@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai, status/gameupdate/adma]
+tags: [place, status/gameupdate/adma]
 name: Highmoor
 typeOf: grassland
 whereabouts: Carlinshire

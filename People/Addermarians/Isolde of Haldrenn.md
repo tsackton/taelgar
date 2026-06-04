@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [adma]
 name: Isolde of Haldrenn
 species: human
 ancestry: Addermarian

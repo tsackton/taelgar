@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/gameupdate/adma]
+knownTo: [adma]
 campaignInfo:
 - {campaign: adma, type: met, date: 1715-05-23}
 name: Arvanko

@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/gameupdate/adma]
+knownTo: [adma]
 campaignInfo:
 - {campaign: adma, type: discovered as a corpse, date: 1715-05-19}
 name: Geoffrey

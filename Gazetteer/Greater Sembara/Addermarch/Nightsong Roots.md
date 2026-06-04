@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/metadata]
+tags: [place, status/cleanup/metadata, status/gameupdate/adma]
 displayDefaults: {defArt: "the"}
 name: Nightsong Roots
 typeOf: planar link

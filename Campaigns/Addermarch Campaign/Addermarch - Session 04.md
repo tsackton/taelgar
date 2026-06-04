@@ -6,7 +6,7 @@ sessionNumber: 4
 DR: 1715-05-05
 DR_end: 1715-05-08
 realWorldDate: 2024-10-13
-players: [Yvan, Drou, Fazoth]
+players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
 name: Addermarch Campaign - Session 4
 tagline: in which the party confronts goblins and traps
 descTitle: Goblin Lair Assault

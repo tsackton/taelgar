@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [power]
+knownTo: [adma, clee]
 name: Morlaith
 aliases: [Grymholt, Briarheart, Keeper of the Thornweald, Lord of the Hidden Hollows, Hidden Lord]
 typeOf: archfey

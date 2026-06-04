@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+knownTo: [adma]
 campaignInfo: [{campaign: adma, type: "confronted", date: 1715-04-28}, {campaign: adma, type: "laid to rest", person: Owen Tavish, date: 1715-05-06, wParty: "<met:u> <person> on <target> <current:1q>"}]
 species: human
 ancestry: Addermarian
@@ -23,17 +24,9 @@ name: Einrik Arpaad
 >> %%^Campaign:adma%% Confronted by the [[Addermarch Mercenaries]] on April 28th, 1715 in [[Torvaine Watch]], the [[Torvaine Forest]], [[Addermarch]] %%^End%%  
 >> %%^Campaign:adma%% Laid to rest [[Owen Tavish]] on May 6th, 1715 in [[Torvaine Watch]] %%^End%%
 
-Sir Einrik Arpaad was the commander of [[Torvaine Watch]] whose fall to the [[Serpentine Dagger]] left him a wrathful ghost later laid to rest by [[Owen Tavish]].
-## Overview
-Sir Einrik Arpaad commanded [[Torvaine Watch]], the frontier fort protecting the sometimes-dangerous road through the [[Torvaine Forest]], connecting [[Valcroix]] and [[Roscombe]]. Trusted for decades of service, he fell when the cursed [[Serpentine Dagger]] twisted his will, driving him to slaughter his garrison and, in turn, binding him as the fort’s wrathful ghost. The [[Addermarch Mercenaries]] escaped his haunt, and cleric [[Owen Tavish]] later laid the spirit to rest, leaving only a cautionary tale about the dagger’s malign influence.
+Sir Einrik Arpaad commanded [[Torvaine Watch]], the fort protecting the sometimes-dangerous road through the [[Torvaine Forest]], connecting [[Valcroix]] and [[Roscombe]]. Trusted for decades of service, he fell when the cursed [[Serpentine Dagger]] twisted his will, driving him to slaughter his garrison and, in turn, binding him to the fort as a wrathful [[Undead|ghost]]. The [[Addermarch Mercenaries]] escaped from his haunted menace, and the priest [[Owen Tavish]] later laid his spirit to rest.
 
-## Personality & Outlook
-Einrik was a disciplined soldier who prized duty and order above all. The curse exaggerated those traits into paranoid absolutism, convincing him only he could protect the watch. Even in undeath his spectral vigilance centered on keeping the gates sealed, punishing anyone who touched the dagger or questioned his command.
-
-## Relationships
-- **Marshal [[Hildo Brask]]** – Loyal second whose death at Einrik’s hands epitomizes the dagger’s corruption.  
-- **[[Bartoz]]** – Smith who opposed the dagger’s presence and ultimately struck Einrik down.  
-- **[[Owen Tavish]]** – Priest who faced Einrik’s ghost in prayer and released him from the dagger’s thrall.
+Einrik was a disciplined soldier who prized duty and order above all. The curse exaggerated those traits into paranoid absolutism, convincing him that only he could possibly protect the watch. Even in undeath, his ghostly vigilance centered on keeping the gates sealed, punishing anyone who touched the dagger or questioned his command.
 
 ## Events
 - (DR:: 1715-04-01): Succumbed to the Serpentine Dagger, murdered the garrison, and was slain by [[Bartoz]].
