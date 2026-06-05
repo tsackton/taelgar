@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/adma]
+tags: [person]
 knownTo: [adma]
 name: Duncan of Haldrenn
 species: human
@@ -26,7 +26,9 @@ dm_notes: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Found dead by the [[Addermarch Mercenaries]] on May 27th, 1715 in [[Serethwyn Tor]], [[Carlinshire]], [[Addermarch]] %%^End%%
 
-A boastful villager from [[Haldrenn]] who claimed to know the location of hidden wealth; he vanished into the [[Highmoor]] hills in early DR 1715.
+Duncan of Haldrenn was a boastful shepherd from [[Haldrenn]]. He lived alone in a small stone cottage on the edge of [[Haldrenn]], spending his summers with sheep in the high moors and winters around [[Alewyn]]’s hearth, where villagers knew him as boastful and full of unlikely claims. During the winter of DR 1714-1715, his talk of hidden treasure became unusually serious, and in March 1715 he vanished into the [[Highmoor]] after claiming he knew where to find riches. 
+
+His disappearance was later connected  to the anger of the [[Morlaith|Briarheart]], and the investigation of the [[Addermarch Mercenaries]] tied him to the [[Serpentine Battleaxe]], the stolen heart of the Singing Tree, and the ruins beneath [[Serethwyn Tor]]. He was found dead beneath [[Serethwyn Tor]] on (DR:: 1715-05-27), along with a sheaf of letters to his associate [[Kelvyn]]; the letters connected Duncan to [[Geoffrey]] and a mysterious patron searching for [[serpentine]]. 
 
 %%^Campaign:none%%
 

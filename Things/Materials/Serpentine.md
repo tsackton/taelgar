@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [object, status/gameupdate/adma]
+tags: [object]
 name: Serpentine
 typeOf: material
 dm_owner: none
@@ -10,8 +10,6 @@ dm_notes: none
 >[!info]+ Information  
 > (material)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
-
-%% add links to relevant wars once pages exist %%
 
 Serpentine is a pale green gemstone that is associated with necromancy and enchantment magic. 
 
