@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/mike, place, status/gameupdate/adma]
+tags: [status/check/mike, place]
 created: 1199
 destroyed: 1429
 typeOf: realm
@@ -15,15 +15,30 @@ typeOfAlias: destroyed empire
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% set status/check/mike - for Addermarch Session 16, I will focus on the 1359-1388 era in the notes below; what is before or after is less relevant and can remain non-canonical for longer.  %%
-
-%% needs significant updates to capture canon introduced in Addermarch game, create historical events, separate wars from main note, and link back to Serpentine note %%
+%% status/check/mike -> this is complete as far as it goes, in my mind. we still don't have a good tag for "more can be said", though in this case the details are captured in the DM notes which is probably sufficient. at some point it might make sense for you to write up/ add what is established from the Cleenseau game in the public notes, to the extent they extend beyond the details already here %%
 
 The Dominion of Avatus was a realm in the [[Upper Istaros]] and [[Greater Sembara]]. Founded by its mysterious ruler [[Avatus]] on the [[Aurbez Plateau]] and lower foothills of the [[Sentinel Range|Sentinels]], at its greatest extent it spread east along the [[Andonne]] to the edges of the [[Darkwood]], and north to the [[Enst]]. Briefly, much of the [[Duchy of Wisford]] and the [[Duchy of Brovna]] was occupied by the Dominion, until [[Avatus]] was defeated by [[Derik I]] and his realm collapsed. 
 
+## History
+_See more: [[Serpentine Wars]]_
+
+%% can add more to the see more above once there are additional links, particularly for the Sembaran wars; for now focused on developing/canonizing the parts relevant to Addermarch %%
+
+Although the exact origins of the Dominion are unclear, by the middle of the DR 1200s, the realm was established in the [[Aurbez Plateau]], the [[Aursen]], and parts of the [[Andonne Plain]]. For many years, a tense peace seemed to have existed among the Dominion, the [[Istabor Alliance]] and [[Isingue]] to the south, and the various minor lords and the [[Duchy of Maseau]] to the north. 
+
+This tentative, watchful peace ended decisively in the DR 1350s. Over the course of the next fifty years or so, a series of wars broke out between the Dominion and its northern neighbors, including the [[Duchy of Maseau]] and [[Addermarch]]. These wars, later known as the [[Serpentine Wars]], primarily arose from [[Avatus]] seeking to control new sources of [[serpentine]]. Over the course of fifty years, the Dominion of Avatus subjugated the [[Duchy of Maseau]], and brutally occupied, but then lost, much of western [[Addermarch]]. 
+
+While an uneasy peace holds for a few decades in the early DR 1400s, a series of conflicts in the early DR 1420s lead to [[Avatus]] occupying significant parts of the [[Enst|Enst River]] valley. Soon after, [[Derik I]] unifies [[Sembara]] under the [[House of Sewick]] and defeats [[Avatus]], destroying the [[Dominion of Avatus]] in its entirety.
+## Culture and Politics
+Little is known or remembered about the culture and politics of the Dominion, and what is recorded was, in large part, written by [[Derik I]] after his defeat of [[Avatus]]. Most notable were the armies of the Dominion. Avatus recruited numerous hobgoblins to his banner, and his armies had a reputation for tactical brilliance and viciousness in battle, enhanced by their use of mind-altering [[Serpentine]] weapons that drove their bears into unstoppable frenzies. Hobgoblin troops, aided at times by werewolfs and other monsters, made up the bulk of his armies, but this was not a hobgoblin kingdom and humans and occasionally others did serve in the army. Whether this was out of true loyalty, desperation, coercion, or something else is lost to time. 
+
+The Dominion was a deeply closed society: little news traveled in, or out, though at times trade and commerce did pass through parts of the Dominion. The ruler, [[Avatus]], styled himself the Emperor of New Drankor, and the Dominion did call back to Drankorian styles of monumental architecture at times. Rumors and stories of those who survived under the Dominion's rule suggest a culture of restricted movement, hard work, and strict obedience, where hobgoblins and others who were willing to serve with them in the armies of the Dominion enjoyed great privilege. 
+
 %%^Campaign:none%%
 
-*Note: dates are not canonical unless indicated*
+## DM Notes
+
+This is a more detailed history but mostly not yet fully canonical. Details below that conflict with information in the public note should be treated as out-of-date and incorrect. Dates, in particular, are likely to be incorrect below and are easily movable unless mentioned as canonical. 
 
 ### Beginnings
 *(1180s - 1250s)*
@@ -42,13 +57,13 @@ So, by the mid 1250s you have situation below. Three powerful Sembaran (cultural
 
 The details of these wars are largely not invented and the exact timeline is not established, but rough dates are given below (not canonical). 
 
-- (DR:: 1187): First recorded mention of Avatus (probably in service of some petty lord, or maybe in a slightly more mysterious context - the basic vibe is that Avatus' origin is mysterious but he does not spring into the world as ruler of a realm)
-- (DR:: 1201): First mention of Lord Avatus, with some vibe that he is ruling a small territory in northwestern Aurbez (the basic vibe again is that Avatus establishes a remote power base as his first act, but does not immediately leap into conquest). 
-- (DR:: 1209) - (DR_end:: 1211): ~Dominion War~. Over two summers of campaigning, Avatus pushes east and south, conquering to the eastern edge of the plateau, stopping at the edges of the Aursen Marshes (at this stage, controls 1 + 2 on the map above, and some creepy vibes are becoming apparent - probably rumors start to grow of some kind of dark rites in Avatus' territory, and movement is heavily restricted). At the end of this war, Avatus proclaims the Dominion of Avatus. 
-- (DR:: 1211) - (DR_end:: 1217): ~Aursen Raids~. Over a period of years, tensions run hot along the Aursen. Frequent raids attack lizardfolk villages, perhaps often led by hobgoblins; monster attacks become common. Lizardfolk start fleeing east, mostly settling along the lower Aursen but also trickling into Isingue and the upper Istaros. 
-- (DR:: 1217) - (DR_end:: 1222): ~Aursen Marsh War~. Over a period of 5 years, Avatus conquerors the Aursen Marshes and the lower slopes of the Sentinels, but does not attempt to challenge Stoneborn dominance of the high passes. Many lizardfolk flee east during this time and the Aursen Marshes are essentially entirely depopulated. No one knows the fate of lizardfolk who could not escape - news does not get out. 
-- (DR:: 1222) - (DR_end:: 1246): Consolidation. Avatus consolidates his gains, perhaps beginning to make overtures to some of the lowland petty lords along the Andonne. Perhaps styles himself the Emperor of New Drankor during this period, but not in an expansionist way, rather as a claim to legitimacy and a strategy to get petty lords with no heirs in the Andonne valley to make him heir to their thrones or something. During this period, there are likely a few brief skirmishes with Ardith mining colonies, which respond by sealing doors and abandoning any surface settlements. This is also likely when hobgoblin court wizards become established. 
-- (DR::1246) - (DR_end:: 1255): ~Andonne War~. Nearly a decade of war with Isingue / Istabor to the south; this is the triggering event that creates the Istabor Alliance in the Istaros valley. Ends with establishment of a defensive line aided by magic on both sides along the Andonne and Douren. 
+- ((DR:: 1187)): First recorded mention of Avatus (probably in service of some petty lord, or maybe in a slightly more mysterious context - the basic vibe is that Avatus' origin is mysterious but he does not spring into the world as ruler of a realm)
+- ((DR:: 1201)): First mention of Lord Avatus, with some vibe that he is ruling a small territory in northwestern Aurbez (the basic vibe again is that Avatus establishes a remote power base as his first act, but does not immediately leap into conquest). 
+- ((DR:: 1209) - (DR_end:: 1211)): ~Dominion War~. Over two summers of campaigning, Avatus pushes east and south, conquering to the eastern edge of the plateau, stopping at the edges of the Aursen Marshes (at this stage, controls 1 + 2 on the map above, and some creepy vibes are becoming apparent - probably rumors start to grow of some kind of dark rites in Avatus' territory, and movement is heavily restricted). At the end of this war, Avatus proclaims the Dominion of Avatus. 
+- ((DR:: 1211) - (DR_end:: 1217)): ~Aursen Raids~. Over a period of years, tensions run hot along the Aursen. Frequent raids attack lizardfolk villages, perhaps often led by hobgoblins; monster attacks become common. Lizardfolk start fleeing east, mostly settling along the lower Aursen but also trickling into Isingue and the upper Istaros. 
+- ((DR:: 1217) - (DR_end:: 1222)): ~Aursen Marsh War~. Over a period of 5 years, Avatus conquerors the Aursen Marshes and the lower slopes of the Sentinels, but does not attempt to challenge Stoneborn dominance of the high passes. Many lizardfolk flee east during this time and the Aursen Marshes are essentially entirely depopulated. No one knows the fate of lizardfolk who could not escape - news does not get out. 
+- ((DR:: 1222) - (DR_end:: 1246)): Consolidation. Avatus consolidates his gains, perhaps beginning to make overtures to some of the lowland petty lords along the Andonne. Perhaps styles himself the Emperor of New Drankor during this period, but not in an expansionist way, rather as a claim to legitimacy and a strategy to get petty lords with no heirs in the Andonne valley to make him heir to their thrones or something. During this period, there are likely a few brief skirmishes with Ardith mining colonies, which respond by sealing doors and abandoning any surface settlements. This is also likely when hobgoblin court wizards become established. 
+- ((DR::1246) - (DR_end:: 1255)): ~Andonne War~. Nearly a decade of war with Isingue / Istabor to the south; this is the triggering event that creates the Istabor Alliance in the Istaros valley. Ends with establishment of a defensive line aided by magic on both sides along the Andonne and Douren. 
 
 As this era ends, the Dominion of Avatus has grown into a powerful, isolated kingdom, from which many strange rumors emanate, and which functionally cuts the growing Sembaran duchies of Maseau, Brovna, and Wisford off from Isingue / Istaros (although it is likely that prior of Avatus, this was kind of a no-man's land anyway, with bandits and other worse dangers). The northern and eastern borders are pretty loose, and Avatus probably acts meek before the Sembaran trio, maybe even attempting a bit of an alliance against minor petty kings and bandits in area 7. The southern border is heavily fortified along the lines of the river. 
 ### Watchful Peace
