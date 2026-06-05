@@ -1,16 +1,31 @@
 ---
 headerVersion: 2023.11.25
-tags: [object, status/gameupdate/adma]
+tags: [object]
 name: Serpentine Battleaxe
+displayDefaults:
+  endStatus: "Unmade by the [[Addermarch Mercenaries]] with [[Trueflame]] on"
+destroyed: 1715-05-27
 typeOf: weapon
 subTypeOf: magic
 ancestry: Avatan
-dm_owner: tim
-dm_notes: important
+dm_owner: none
+dm_notes: none
 ---
 # The Serpentine Battleaxe
 >[!info]+ Information  
 > (Avatan magic weapon)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The Serpentine Battleaxe is a heavy, magically sharp battleaxe set with sinuous green serpent‑stone along the haft and head, forged in the era of the [[Dominion of Avatus]]. It bears significant similarity to the [[Serpentine Dagger]]; both weapons are tied to Avatus‑era wars, were likely wielded by trusted commanders of [[Avatus]]' armies, and bear enchantments that twist their wielders toward obsession, isolation, and escalating violence.
+The Serpentine Battleaxe was a heavy, magically sharp battleaxe set with sinuous green [[Serpentine|serpentine]] along the haft and head, forged in the era of the [[Dominion of Avatus]]. It bore significant similarity to the [[Serpentine Dagger]]; both weapons were tied to Avatus-era wars and carried enchantments that twisted their wielders toward obsession, isolation, and escalating violence.
+
+On May 27, 1715, the [[Addermarch Mercenaries]] defeated the serpentine warlock beneath [[Serethwyn Tor]] and used [[Trueflame]] to unmake the Serpentine Battleaxe. 
+
+%%^Campaign:none%%
+
+Significant background in DM Notes, though some dates may be incorrect in these. 
+
+- [[Serpentine Weapon Backstory]]
+- [[Avatus Cursed Items Timeline]]
+
+%%^End%%

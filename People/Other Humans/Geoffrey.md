@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/adma]
+tags: [person]
 knownTo: [adma]
 campaignInfo:
 - {campaign: adma, type: discovered as a corpse, date: 1715-05-19}
@@ -22,6 +22,8 @@ whereabouts:
 >> %%^Campaign:adma%% Discovered as a corpse by the [[Addermarch Mercenaries]] on May 19th, 1715 in [[Haldrenn]], [[Highmoor]], [[Carlinshire]] %%^End%%
 
 Geoffrey, possibly a false name, was an traveler who arrived in [[Roscombe]] from [[Valcroix]] in the autumn of 1714, taking a room at [[The Traveler's Rest]] for roughly six months. According to [[Bertrand LeBlanc]] and [[Emma Cole]], he kept largely to himself, ate alone with his nose in a book, and made repeated solo excursions into the [[Highmoor]], sometimes staying out for a week at a time. Shortly before the spring thaw he outfitted himself with ropes, ladders, and other climbing gear, and left for parts unknown.
+
+In May of DR 1715, his dead body was found by the [[Addermarch Mercenaries]] in [[Duncan of Haldrenn]]'s root cellar. The body showed signs of axe wounds and blunt-force trauma, and the cellar contained ancient coins, a pendant of [[The Warlord]], and burned scraps of Duncan's notes. Later, Duncan's recovered letters later revealed that Geoffrey had been paid by an unknown patron to search for [[Serpentine|serpentine]].
 
 %%^Campaign:none%%
 
