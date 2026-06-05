@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/review, status/gameupdate/adma]
+tags: [person, status/check/mike]
 knownTo: [adma]
 name: Avatus
+died: 1429
 affiliations: [{org: Dominion of Avatus, title: ruler, type: leader}]
 title: Emperor
 gender: male
@@ -11,23 +12,19 @@ dm_owner: joint
 ---
 # Emperor Avatus
 >[!info]+ Biographical Info  
-> (he/him)  
+> An unknown (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% status/incomplete -> extensive discussion, brainstorming, and invention not captured; highly significant in Addermarch and Cleenseau campaigns, at least as backstory to dungeons %%
+Avatus, styling himself the Emperor of New Drankor, ruled the [[Dominion of Avatus]] for 230 years until his death at the hands of [[Derik I]]. Despite his long lifespan, no reliable information exists concerning his true nature, or even his species. Rumors abound, however: he was a powerful undead; he was an elf who forsake the Firstborn; he was not one person but a series of leaders taking the same name; he made a bargain with a devil for eternal life; he was a powerful wizard who could cheat time itself. 
 
-%% needs significant updates to capture canon introduced in Addermarch game %%
+One thing later sources all agree on is that he had a strong connection to magic. His realm was the source of many [[serpentine]] weapons, known for their dangerous enchantments that brought battle frenzy, paranoid, and rage on all who wielded them. He also commissioned a number of powerful items, including the [[Mirror of Soul Trapping]] that later featured prominently in the story of [[Dunmari Frontier Campaign|Appolyon's rise and downfall]].
 
-The ruler of an autocracy established on the southern edge of Sembara in the DR 1420s. Commissioned the [[Mirror of Soul Trapping]]. 
+%% mike - check - it is canon that Derik actually killed Avatus directly, or should this be "his death during the wars against Sembara in DR 1429 or something like that".  %%
 
-%% Tim: is he a human or hobgoblin or do you care? I've been thinking of him as a hobgoblin but I'm not sure it matters. He has come up a bunch in my game though so I'd like to decide. 
+%% Re species
 
-Don't have strong feelings human vs hobgoblin; feel free to choose, or he could be something else entirely. 
+In the Addermarch canonical information is that no one really knows who or what he was. Isaac expects that he is going to be some kind of undead who returns to be the Addermarch BBEG, though at the moment this is not my plan.
 
-I think the exact history of where this dominion came from can probably be left a bit unclear. I do think the vibe kind of suggests that in the aftermath of the fall of Drankor, Sembara is a bit of a backwater, initially. Especially once the Dunmari arrive in late 1100s and clear up the lingering curse, you have a pretty powerful set of realms from Cymea - Isingue - Dunmar - Chardon. The Skaer in a more raiding phase, and the Dominion of Avatus, really kind of hem in Sembara pre-Derik I.
-
-Mike: He was used as an important historical source in Cleenseau and there are a bunch of hints I dropped that should probably be pulled in, but they could also have been wrong/misinterpreted, someone else/garbled history, etc. 
-
-Only important canonical bit is that he conqueored cleenseau in the 1400s briefly
-
+My two favorite hypotheses right now are he was a wizard who just kept cloning himself, or he made some kind of pact with some specific 'he could only be killed by X' thing which kind of fits with the Derik I prophecy-style rise to fame
 %%
