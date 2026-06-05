@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/gameupdate/adma]
+tags: [group]
 displayDefaults: {ltPerson: "by"}
 name: Addermarch Mercenaries
 typeOf: adventuring party

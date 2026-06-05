@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/adma]
+tags: [person]
 knownTo: [adma]
 aliases: [Aurenxis]
 campaignInfo: 
@@ -23,27 +23,26 @@ dm_owner: tim
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Hired the [[Addermarch Mercenaries]] on May 2nd, 1715 in [[Roscombe]], [[Carlinshire]], [[Addermarch]] %%^End%%
 
-A reclusive alchemist of the [[Roscombe]] hinterlands who works out of a cottage laboratory near the small village of [[Brantor]].
-## Overview
-Caradoc is a reclusive alchemist who maintains a cottage laboratory outside [[Brantor]], trading coin and commissions for rare reagents while keeping his discoveries close. Despite his sixty‑plus years, he moves with crisp focus. He has white hair cut short, and keen green eyes, always measuring the worth of a sample. He bankrolls expeditions rather than traveling himself, relying on proven agents to secure exotic ingredients such as cockatrice gizzards and the living mineral [[uligium]].
+Caradoc is a reclusive alchemist of the highlands of [[Carlinshire]], who maintains a simple cottage-laboratory outside [[Brantor]]. He is a regular presence in [[Roscombe]] on market days, where he meets clients, arranges commissions, and occasionally sells minor potions and ointments to the populace and travelers. Though rumored to be fabulously wealthy—or secretly fey‑touched—he lives simply and treats alchemy as both scholarly calling and civic duty, rewarding competence with generous pay.
+
+Despite his age, Caradoc moves with crisp focus. He has short white hair, keen green eyes, and a habit of weighing every bargain against risks that are not always obvious to his clients. 
+
+Caradoc pays generously for rare ingredients and dangerous errands. He bankrolls expeditions rather than traveling himself, relying on proven agents to secure exotic ingredients such as cockatrice gizzards and the living mineral [[uligium]]. He does not share where and how he came by his coin, though he always seems to have enough for a generous commission. 
+
+Caradoc has hidden depths, as well. He has a surprising knowledge of esoteric concoctions, such as [[Trueflame]] and once traveled in the [[Feywild]] under the name Aurenxis, a name he used to keep his true identity safe from mischief. He does not advertise this history, but it explains his familiarity with [[Morlaith]] and his caution around disturbances tied to the [[Feywild]].
 
 ## Events
-- (DR:: 1715-05-02): Hired the [[Addermarch Mercenaries]] to slay a cockatrice and procure its gizzard as proof of capability.
-- (DR:: 1715-05-06): Commissioned by the [[Addermarch Mercenaries]] to make [[Trueflame]] to help destroy the [[Serpentine Dagger]]. 
-- (DR:: 1715-05-08): Gave the [[Addermarch Mercenaries]] [[Trueflame]] in exchange for a glowing‑poison recipe recovered from goblin bandits. 
-- (DR:: 1715-05-09): Tasked the [[Addermarch Mercenaries]] to search for [[uligium]] expedition in the caves of the [[Stonewolds]]
-- (DR:: 1715-05-16): Recruited the [[Addermarch Mercenaries]] to investigate rumors of mad animals in [[Haldrenn]] 
+- (DR:: 1715-05-02): [[Addermarch - Session 03|Hired the Addermarch Mercenaries]] to slay a cockatrice and procure its gizzard as proof of capability.
+- (DR:: 1715-05-04): Received the cockatrice gizzard from the [[Addermarch Mercenaries]] at [[Brantor]].
+- (DR:: 1715-05-06): [[Addermarch - Session 04|Agreed to craft Trueflame]] for the [[Addermarch Mercenaries]] and contracted them to recover a stolen glowing-poison recipe from [[Goblins|goblin]] bandits.
+- (DR:: 1715-05-08): [[Addermarch - Session 05|Gave the Addermarch Mercenaries Trueflame]] in exchange for the recovered glowing-poison recipe and payment.
+- (DR:: 1715-05-09): [[Addermarch - Session 06|Tasked the Addermarch Mercenaries]] with retrieving [[uligium]] from deep caves in the [[Stonewolds]].
+- (DR:: 1715-05-15): Received four vials of [[uligium]] from the [[Addermarch Mercenaries]] after their return from the [[West Stonewolds Caves]].
+- (DR:: 1715-05-16): [[Addermarch - Session 11|Sent the Addermarch Mercenaries to Haldrenn]] to investigate rumors of mad animals while warning that dangerous [[Fey]] might be involved.
+- (DR:: 1715-05-21): [[Addermarch - Session 15|Revealed that he once used the name Aurenxis]] while traveling in the [[Feywild]], and warned the party about [[Morlaith]].
+- (DR:: 1715-05-22): [[Addermarch - Session 16|Provided old adventuring gear]] and agreed to prepare more [[Trueflame]] to destroy the [[Serpentine Battleaxe]].
+- (DR:: 1715-05-24): Supplied the prepared [[Trueflame]] before the party set out toward [[Serethwyn Tor]].
 
-## Relationships
-- [[Addermarch Mercenaries]] — Employs [[Fazoth de Brune]], [[Drou]], and [[Yvan Greenrabbit]] for hazardous ingredient retrievals, trusting their reliability.
-- [[Elowen Duval]] — Maintains a cordial distance from [[Roscombe]]’s court, preferring to keep noble oversight out of his dealings.
-
-## Personality
-Pragmatic, exacting, and politely distant; weighs every bargain against the risks of stirring up fey or frontier politics. Dislikes attention, preferring discreet operatives and prompt results. Though rumored to be fabulously wealthy—or secretly fey‑touched—he lives simply and treats alchemy as both scholarly calling and civic duty, rewarding competence with generous pay.
-
-## Capabilities & Resources
-- Expertise in alchemical reagents and rare materials, including ability to craft [[Trueflame]] and other specialized substances.
-- Has extensive funds to commission fieldwork without noble oversight; where his wealth comes from is unclear. 
 
 %% DM 
 
