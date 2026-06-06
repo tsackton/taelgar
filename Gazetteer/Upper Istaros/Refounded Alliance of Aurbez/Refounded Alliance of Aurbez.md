@@ -13,6 +13,8 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% @MIke: for review %%
+ 
  %% Written from DR (POV:: 1749) point of view. Does not yet reflect events from the end of the Dunmar campaign. %%
 
 The Refounded Alliance of Aurbez is a loose confederation of highland communities in the Upper Istaros, occupying the [[Aurbez Plateau]] and the surrounding foothills. Many of the people of Aurbez trance their ancestry to [[Isingue]] and the [[Istabor Alliance]], which the Refounded Alliance of Aurbez models itself after. Though the Alliance has grown in wealth and population in recent years, it remains a hard borderland, between the high peaks of the [[Sentinel Range|Sentinels]] to the west and the ashy wastes of the [[Plaguelands]] to the east. 

@@ -11,7 +11,7 @@ typeOf: settlement
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% @ Mike: I don't think there is a lot of value in a blank uninvented note like this. If it is kept, I think it belongs in Worldbuliding/Tentative which is a good dumping ground for half-formed ideas %%
+%%  @mike: moving to tentative, but could be deleted; if it is the mention in the four linked notes should be removed %%
 
 
 %% 

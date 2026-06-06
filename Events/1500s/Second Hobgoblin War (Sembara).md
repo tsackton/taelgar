@@ -21,7 +21,7 @@ The second major war between [[Sembara]] and the [[Shattered Ice Clan]], fought 
 
 %%^Campaign:none%%
 
-The basic vibe here (see: [[2024-03-27]]) is fundamentally the Shattered Ice clan are trapped in marginal land in the Sentinel foothills, and want better land, and so attack. Sembara commits heavily to defending the line of the Enst, but loses all the territory south of the Enst to hobgoblins. 
+The basic vibe here (see: [[2024-03-27 - Fellburn]]) is fundamentally the Shattered Ice clan are trapped in marginal land in the Sentinel foothills, and want better land, and so attack. Sembara commits heavily to defending the line of the Enst, but loses all the territory south of the Enst to hobgoblins. 
 
 It is I think not totally resolved how much of Maseau is retained, but at least some part of Maseau is unoccupied during this time (and is potentially intentionally kept intact by Shattered Ice as a buffer against the [[Iron Fang]] hobgoblins in the Plaguelands). 
 

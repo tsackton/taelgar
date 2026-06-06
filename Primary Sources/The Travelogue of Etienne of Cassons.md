@@ -6,7 +6,7 @@ dm_notes: none
 ---
 # The Travelogue of Etienne of Cassons
 
-%% note: this is not correct for DR 1743, and I assume the date is not canonical. this feels more like maybe 1690 +/- 10 years. leaving status/check/mike to reset the date officially %%
+%% @mike  this is not correct for DR 1743, and I assume the date is not canonical. this feels more like maybe 1690 +/- 10 years. leaving status/check/mike to reset the date officially %%
 
 *DR 1743*
 
@@ -16,7 +16,7 @@ August 31st, 1743
 > It is late in the season to start my journey, but for the last two weeks, the ash storms have been blowing daily from the south. This morning finally dawned clear and hot, and although the air is dry and dusty, I cannot wait for a cleansing thunderstorm, and will set out today. It has been unseasonably warm and the rumors from the March are of wildfires that will not end, and choking dust.
 
 September 5th, 1743
-> I have made good time these last six days, riding quickly south, and tomorrow I believe I shall reach the Masance. The hospitality of the Andonnen lords has not diminished, although it feels more costly than ever to buy bread and lodging. The weather remains dry, and clear and I shared a meal with some herdsmen on the ridge. Perhaps I should not have ridden up the slope, as it cost me a day to ride up and back down, but I heard many stories of the Alliance and reassured myself that the hotheads in the Inginue faction will not prevail.
+> I have made good time these last six days, riding quickly south, and tomorrow I believe I shall reach the Masance. The hospitality of the Andonnen lords has not diminished, although it feels more costly than ever to buy bread and lodging. The weather remains dry, and clear and I shared a meal with some herdsmen on the ridge. Perhaps I should not have ridden up the slope, as it cost me a day to ride up and back down, but I heard many stories of the Alliance and reassured myself that the hotheads in the Isinguese faction will not prevail.
 
 September 6th, 1743 
 > This evening I am camping in Rocky Ford. This season it is further south than usual, and as always one must watch one’s purse. But the ferry is running and the water is sluggish and low, so I do not believe the crossing will be challenging. Traffic has been heavy going north, I saw two caravans of Alliance metals heading for Cleenseau, and a group of halflings from Tokra. 
