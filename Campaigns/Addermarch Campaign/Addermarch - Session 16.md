@@ -19,7 +19,7 @@ descTitle: Trail to Serethwyn Tor
 > *On Earth: Sunday November 30, 2025*
 > *[[Roscombe]] and environs*
 
-Research in Roscombe and a visit to the ranger [[Arvanko]] uncovers information about ancient sites from the wars with [[Avatus]] and points the party toward the ruined hill-fort of [[Serethwyn Tor]].
+Research in Roscombe and a visit to the ranger [[Arvanko]] uncovers information about ancient sites from the [[Serpentine Wars|wars with Avatus]] and points the party toward the ruined hill-fort of [[Serethwyn Tor]].
 
 ## Timeline
 

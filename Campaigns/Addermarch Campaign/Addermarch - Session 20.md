@@ -19,13 +19,13 @@ descTitle: The Heart Beneath Serethwyn Tor
 > *On Earth: Sunday March 8, 2026*
 > *[[Serethwyn Tor]] and the mine below*
 
-The party defeats the serpentine warlock beneath [[Serethwyn Tor]], recovers [[Duncan of Haldrenn]]'s letters and the stolen fey heart, uses [[Trueflame]] to destroy the [[Serpentine Battleaxe]], learns more of the [[Avatus]] wars from a dead ranger, and sets out for [[Caradoc]]'s to seek a way back into the [[Feywild]].
+The party defeats the serpentine warlock beneath [[Serethwyn Tor]], recovers [[Duncan of Haldrenn]]'s letters and the stolen fey heart, uses [[Trueflame]] to destroy the [[Serpentine Battleaxe]], learns more of the [[Serpentine Wars|Avatus wars]] from a dead ranger, and sets out for [[Caradoc]]'s to seek a way back into the [[Feywild]].
 
 ## Timeline
 
 - (DR:: 1715-05-27), **late afternoon**: The party defeats the serpentine warlock in the deepest chamber beneath Serethwyn Tor.
 - (DR:: 1715-05-27), **evening**: They search the chamber, recover Duncan's letters and the stolen fey heart, and use [[Trueflame]] to destroy the [[Serpentine Battleaxe]] and a serpentine pendant.
-- (DR:: 1715-05-27), **night**: Climbing back out through the mine, they question a dead ranger with _Speak with Dead_, learning more about the war with [[Avatus]] and the lost [[Serpentine Register]], then camp in the upper mine chamber.
+- (DR:: 1715-05-27), **night**: Climbing back out through the mine, they question a dead ranger with _Speak with Dead_, learning more about the [[Serpentine Wars|war with Avatus]] and the lost [[Serpentine Register]], then camp in the upper mine chamber.
 - (DR:: 1715-05-28), **morning**: The party sets out for [[Caradoc]]'s, hoping to find a way back into the [[Feywild]] to return the stolen heart.
 
 ## Cast of Characters
@@ -37,7 +37,7 @@ The party defeats the serpentine warlock beneath [[Serethwyn Tor]], recovers [[D
 - **[[Duncan of Haldrenn]]** - Found dead and decapitated in the chamber below, with letters charting his increasingly broken path.
 - **[[Geoffrey]], the Stranger** - Named in Duncan's letters as a serpentine seeker backed by an unknown patron.
 - **[[Kelvyn]]** - Addressee of Duncan's letters, said to be a guard in the Earl of [[Adderfell]]'s household.
-- **Dead ranger of Serethwyn Tor** - Questioned with _Speak with Dead_ about the [[Avatus]] wars and the [[Serpentine Register]].
+- **Dead ranger of Serethwyn Tor** - Questioned with _Speak with Dead_ about the [[Serpentine Wars|Avatus wars]] and the [[Serpentine Register]].
 - **[[Arvanko]]** - Ranger whose earlier mention of the [[Serpentine Register]] is confirmed by the dead ranger
 - **[[Caradoc]]** - Alchemist and advisor; the party heads for his cottage at session's end.
 
@@ -60,7 +60,7 @@ With the chamber secured, the party takes stock of what lies below. [[Duncan of 
 
 The party uses [[Trueflame]] to destroy the axe and the pendant, though they do not have enough to burn away the dust as well. They recover the heart and then read the letters Duncan carried. Addressed to [[Kelvyn]] in [[Adderfell]], they trace Duncan's increasingly rambling journey and reveal one crucial fact: some unknown patron had been paying [[Geoffrey]] to search for [[Serpentine|serpentine]].
 
-The way out proves awkward without the rope lost earlier, but with careful climbing, a bit of leaping across the rubble, and Fazoth's _Misty Step_, the party makes its way back up the shaft and into the upper mines. There they question one of the dead rangers with _Speak with Dead_. The ranger confirms more of the old history: the wars in these hills were fought over [[Serpentine|serpentine]], [[Avatus]] had a base in the region, and the Rangers once kept a [[Serpentine Register]] recording the cursed weapons and their fates.
+The way out proves awkward without the rope lost earlier, but with careful climbing, a bit of leaping across the rubble, and Fazoth's _Misty Step_, the party makes its way back up the shaft and into the upper mines. There they question one of the dead rangers with _Speak with Dead_. The ranger confirms more of the old history: the [[Serpentine Wars|wars in these hills]] were fought over [[Serpentine|serpentine]], [[Avatus]] had a base in the region, and the Rangers once kept a [[Serpentine Register]] recording the cursed weapons and their fates.
 
 That night the party camps again in the upper mine chamber where they had previously rested, reporting to [[Arvanko]] by [[Drankorian Message Stone]] about the events here.
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/errors]
 name: Addermarch
 typeOf: realm
 whereabouts: Greater Sembara
@@ -12,6 +12,8 @@ dm_notes: important
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% this needs some minor updating to reflect historical developments invented around Avatus and the Serpentine Wars %%
 
 %% Old Documents from first Plaguelands campaign. Not canonical but might have useful vibes to mine:
 - [[Southern Addermarch - Gazetteer]]
@@ -33,7 +35,7 @@ Addermarch was settled long ago, before the [[Drankorian Empire|Drankorians]] ca
 
 With the fall of [[Drankorian Empire|Drankor]], Addermarch charted its own course as a frontier kingdom, isolated from [[Sembara]] by poor roads, difficult travel, and occasionally war. While sharing a language, a religion, and a cultural connection, Addermarch has never acknowledged the sovereignty of Sembaran or Tyrwinghan monarchs, excepting during the height of the [[House of Sewick]] in the years leading to the [[Great War]]. 
 
-%% Note: Addermarch was never conquered in the wars since the fall of Drankor. It was isolated completely from [[Sembara]] during the height of th[](Dominion%20of%20Avatus.md)]], although never cut off from [[Tyrwingha]]; it was besieged to the south but never entered during the [[Great War]]; and it was largely isolated except for dangerous passage along the [[Aure]] during the [[Third Hobgoblin War (Sembara)]]. 
+%% THIS IS WRONG, or at least incomplete -> Note: Addermarch was never conquered in the wars since the fall of Drankor. It was isolated completely from [[Sembara]] during the height of  although never cut off from [[Tyrwingha]]; it was besieged to the south but never entered during the [[Great War]]; and it was largely isolated except for dangerous passage along the [[Aure]] during the [[Third Hobgoblin War (Sembara)]]. 
 
 Leaving in for now that Addermarch earls acknowledged [[Derik I]] as their overking, which lasted until the death of [[Derik III]]. 
 %%
@@ -142,11 +144,11 @@ During this time, Addermarch is incorporated into the [[Drankorian Empire]] as a
 
 %% Drankorians probably build a road along the Aure, to supply border forts beyond the height of navigation, but there are not a lot of Drankorian cities here %%
 
-The fall of [[Drankorian Empire|Drankor]] is little noticed in Addermarch at first, although it soon becomes a dangerous time as the Drankorian wizards that once guarded against incursions from the [[Darkwood]] slowly decline in number and effectiveness. During this time, as to the north the six duchies of [[Sembara]] are becoming established, Addermarch, despite suffering a series of upheavals, develops many of the governance traditions that still guide the realm. In the DR 1300s, threat of the [[Dominion of Avatus]] grows on the western borders of Addermarch. The Maseau Escarpment is heavily fortified, and a series of skirmishes are fought to a stalemate.
+The fall of [[Drankorian Empire|Drankor]] is little noticed in Addermarch at first, although it soon becomes a dangerous time as the Drankorian wizards that once guarded against incursions from the [[Darkwood]] slowly decline in number and effectiveness. During this time, as to the north the six duchies of [[Sembara]] are becoming established, Addermarch, despite suffering a series of upheavals, develops many of the governance traditions that still guide the realm. In the DR 1300s, the [[Serpentine Wars]] bring the threat of the [[Dominion of Avatus]] to the western borders of Addermarch. The Maseau Escarpment and western Addermarch are heavily fortified, and much of western Addermarch is occupied for a time before Addermarian resistance drives Avatus back.
 
 %% Leaving the details intentionally vague, but the basic idea is between 1059 - 1300 or so, you have a variety of conflicts, both external and self-inflicted, out of which emerges the current system of an "elected" overking from among the earls who serves as the commander in chief and head of state. The idea is that Addermarch is pretty war-torn during this time, and very isolated, with both external wars and some power grabs / internal wars between earls. The idea is that the threat of the [[Dominion of Avatus]] drives a lot of unification within Addermarch and ends a long unsettled period where there is often not really a sens of Addermarch as a single kingdom but rather a series of petty earldoms. Possibly part of the compromise here is to strip vassals from the earls (or most earls, except the earl of the west who needs vassals to protect against Avatus, but there probably never were hard borders anyway and they are not established now. %%
 
-This long stasis shifts dramatically when [[Avatus]] invades [[Sembara]] in the early 1400s. Addermarch is nearly completely surrounded, kept from defeat only by the valiant efforts of guerilla warbands fighting in the rough hills of the escarpment. 
+After a few decades of uneasy peace, the region shifts dramatically again when [[Avatus]] invades [[Sembara]] in the early 1400s. Addermarch is nearly completely surrounded, kept from defeat only by the valiant efforts of guerilla warbands fighting in the rough hills of the escarpment.
 
 %% Possibility is that the guerilla troops - something like Faramir's bands in the LoTR, are one of the forerunners [[Rangers|to the Rangers]] %%
 
@@ -244,4 +246,3 @@ Earl of HIghlands is poorest, at least in the 1710s. This is both sparsely popul
 ### Economy, Trade, and Foreign Relations
 
 Addermarch does not have major trade connections to elsewhere, despite being rich in raw materials. The largest export industry is brandy, which is produced by a number of brandy houses based in Adderfell, and exported down river to Sembaran and beyond. 
-

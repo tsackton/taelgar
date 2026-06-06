@@ -77,6 +77,8 @@ The party arrives at [[Caradoc]]'s cottage in the early afternoon. They speak wi
 
 %% Caradoc pulls Fazoth aside, tells him he knows of his family, and they should say [[Caradoc]] is Aurenxis%%
 
-The party returns to [[Roscombe]], and meets with Owen Tavish before dinner. He tells them that 300 years ago, a war was fought in these parts against the armies of the [[Dominion of Avatus]]. He claims the old coins found on the corpse in Duncan's cottage are dated from the reign of [[Derik I]], who ruled during the war against [[Avatus]]; indeed, these coins are from the same era as those found with the [[Serpentine Dagger]], he says. Owen suggests that the coins could plunder and to investigate old forts and battlefields from the ancient wars to find more. 
+The party returns to [[Roscombe]], and meets with Owen Tavish before dinner. He tells them that 300 years ago, the [[Serpentine Wars]] were fought in these parts against the armies of the [[Dominion of Avatus]]. He claims the old coins found on the corpse in Duncan's cottage are dated from the reign of [[Derik I]], who ruled during the war against [[Avatus]]; indeed, these coins are from the same era as those found with the [[Serpentine Dagger]], he says. Owen suggests that the coins could be plunder and to investigate old forts and battlefields from the ancient wars to find more.
 
-We end as the party returns to [[The Traveler's Rest]] to sleep. 
+%% Note: this is a misidentification - the coins are actually older [[House of Entranca]] coins, but Derik I and Avatus are commonly associated so it is an easy mistake to make. %%
+
+We end as the party returns to [[The Traveler's Rest]] to sleep.

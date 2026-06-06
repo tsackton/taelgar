@@ -18,7 +18,7 @@ dm_owner: joint
 
 Avatus, styling himself the Emperor of New Drankor, ruled the [[Dominion of Avatus]] for 230 years until his death at the hands of [[Derik I]]. Despite his long lifespan, no reliable information exists concerning his true nature, or even his species. Rumors abound, however: he was a powerful undead; he was an elf who forsake the Firstborn; he was not one person but a series of leaders taking the same name; he made a bargain with a devil for eternal life; he was a powerful wizard who could cheat time itself. 
 
-One thing later sources all agree on is that he had a strong connection to magic. His realm was the source of many [[serpentine]] weapons, known for their dangerous enchantments that brought battle frenzy, paranoid, and rage on all who wielded them. He also commissioned a number of powerful items, including the [[Mirror of Soul Trapping]] that later featured prominently in the story of [[Dunmari Frontier Campaign|Appolyon's rise and downfall]].
+One thing later sources all agree on is that he had a strong connection to magic. His realm was the source of many [[serpentine]] weapons, known for their dangerous enchantments that brought battle frenzy, paranoia, and rage on all who wielded them. He also commissioned a number of powerful items, including the [[Mirror of Soul Trapping]] that later featured prominently in the story of [[Dunmari Frontier Campaign|Appolyon's rise and downfall]].
 
 %% mike - check - it is canon that Derik actually killed Avatus directly, or should this be "his death during the wars against Sembara in DR 1429 or something like that".  %%
 

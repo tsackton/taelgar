@@ -17,7 +17,7 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The Serpentine Battleaxe was a heavy, magically sharp battleaxe set with sinuous green [[Serpentine|serpentine]] along the haft and head, forged in the era of the [[Dominion of Avatus]]. It bore significant similarity to the [[Serpentine Dagger]]; both weapons were tied to Avatus-era wars and carried enchantments that twisted their wielders toward obsession, isolation, and escalating violence.
+The Serpentine Battleaxe was a heavy, magically sharp battleaxe set with sinuous green [[Serpentine|serpentine]] along the haft and head, forged in the era of the [[Dominion of Avatus]]. It bore significant similarity to the [[Serpentine Dagger]]; both weapons were tied to the [[Serpentine Wars|Avatus-era wars]] and carried enchantments that twisted their wielders toward obsession, isolation, and escalating violence.
 
 On May 27, 1715, the [[Addermarch Mercenaries]] defeated the serpentine warlock beneath [[Serethwyn Tor]] and used [[Trueflame]] to unmake the Serpentine Battleaxe. 
 
