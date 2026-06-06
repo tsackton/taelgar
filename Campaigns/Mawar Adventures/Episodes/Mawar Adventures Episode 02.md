@@ -1,22 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - session-note
+tags: [session-note]
 campaign: Mawar Adventures
 sessionNumber: 2
 realWorldDate: 2021-08-19
 DR: 1747-08-03
 DR_end: 1747-08-09
-players:
-  - Ryu
-  - Wazir
-  - Trok
-  - Kaleho
-companions: []
-name: Mawar Adventures Episode 2
+players: [Ryu, Wazir, Trok, Kaleho]
+name: Mawar Adventures Episode 02
 descTitle: The Tragedy of Azar
 tagline: in which a grieving killer is unmasked
 sessionKey: mawar-adventures-session-2
+websiteSessionView: zoomable
 session-template: mawar-template.md
 ---
 # Mawar Adventures Episode 2

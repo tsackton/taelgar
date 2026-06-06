@@ -130,7 +130,7 @@ Ander returns to Hamri and reunites with Ryu at the weathered tower where Ryu ha
 #### Long
 Ander climbs to Ryu's cliffside tower outside Hamri, where Ryu is keeping warm by the fire and watching the sea with Blu nearby. The old friends trade recognition, jokes, and fragments of what has changed in the years since Ander left, including Ryu's bond with the ocean and gatza. Their reunion is interrupted by Jaeson, who arrives with a lead from the coast: lizardfolk near Eskorola are being killed by something monstrous, and the creature appears to be demanding a full tribute of gatza. Jaeson frames the crisis as a chance to corner the gatza market and hints that Ryu could make money by stealing the tribute.
 
-### recap-002 | Rumor on the Docks
+### recap-002 | Welcome to Eskorola
 
 - Kind: beat
 - Beat IDs: beat-002
@@ -218,7 +218,7 @@ Near the mound, Nerissa casts Faerie Fire hoping to uncover hidden enemies. Her 
 #### Long
 Nerissa's Faerie Fire goes off just before the ambush lands. Her spell catches two steam imps in faint green light, but other winged attackers remain hidden in the fog around the canoe as combat begins. The party fights from the canoe and shallow water, holding position through scalding steam and poor visibility as the canoe starts taking damage. Then the larger guardian emerges from the mist, a cracked, burning humanoid in armor with a flaming spear. After trying to capsize and pierce the canoe, he dies in a blast of metal shrapnel that badly wounds Ryu and Nerissa.
 
-### recap-006 | Over the Nest
+### recap-006 | The Trapped Beast
 
 - Kind: beat
 - Beat IDs: beat-007

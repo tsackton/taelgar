@@ -110,7 +110,7 @@ Azar leaves Hamri for the [[Lizardfolk]] village to the south, traveling with Be
 
 ## Recap
 
-### recap-001 | Initial Scroll Discussion
+### recap-001 | Deciphering the Scroll
 
 - Kind: beat
 - Beat IDs: beat-001
@@ -132,7 +132,7 @@ At the Leviathan, Wazir reads through [[The Ciphered Scroll]], which describes a
 #### Long
 At the Leviathan, Wazir finally lays out what he has learned from [[The Ciphered Scroll]]. Its author, later identified as Azar, sought to restore his dead wife Nadine. To do so, he experimented on vulnerable people whose bodies filled with water, and eventually sought clues from the  legends of Airion the Mistspeaker, leading to summoning a [[marid]], [[Nimessa]], and making sacrifices to [[Gazankoa]]. Ryu, Trok, Kaleho, and Wazir debate resurrection lore, gatza visions, and Airion's ruined tower in the North Cliffs above the old sea cave before agreeing to rest and investigate the tower in the morning.
 
-### recap-002 | Searching Airion's Tower
+### recap-002 | Airion's Tower
 
 - Kind: beat
 - Beat IDs: beat-002
@@ -154,7 +154,7 @@ The next morning, the party explores the abandoned tower in the North Cliffs onc
 #### Long
 The next morning, the group climbs to Airion's ruined tower in the North Cliffs, above the sea cave, and finds evidence that someone has surreptitiously been living there. The tower proves older than the surrounding watchtower ruin, and its interior throws them into a convincing water realm where Wazir, Trok, and Kaleho contend with the sensation of drowning, swimming, and being trapped in a bubble of force. While the illusion fades back to a shallow flooded chamber, it leaves the party shaken and wondering about the connection to [[Azar the Lost]]. 
 
-### recap-003 | Morning Town Informants
+### recap-003 | Questions in Town
 
 - Kind: beat
 - Beat IDs: beat-003
@@ -176,7 +176,7 @@ Seeking more information, the party fans out across Hamri for local witnesses. J
 #### Long
 Seeking more information, the party fans out across Hamri for local witnesses. Ryu and Trok speak with Jaeson, while the others inquire with Samar and Reliah in the Drowned Flats and Orden by the docks. Their accounts build a profile of a worn older man who appeared in recent weeks, had been living in or near the tower, left fish remains and the smell of gatza, may connect to the Drowned Flats deaths, and had been asking around about lead. After a morning of chasing rumors, the party reconvenes at the market before lunch. 
 
-### recap-004 | Market and Afternoon Leads
+### recap-004 | A Dwarven Lead
 
 - Kind: beat
 - Beat IDs: beat-004
@@ -198,7 +198,7 @@ Around midday, the group compares notes at the fish market, then presses Benat f
 #### Long
 Around midday, the party regroups at the fish market and learns from Benat that Airion's tower belongs to a much older magical history around Hamri and its water-linked extraplanar weak spots. The party splits again: Kaleho and Trok visit Ovina, who admits that the old man paid with a valuable gold-and-sapphire ring for a sealed, lead-lined box, and Wazir and Ryu climb to Glitter Cliff to ask Sulfi about the phantom boat. Sulfi declines to meet directly, but her servant reports that she knows of no strange ship and wants any such vessel reported for proper fees and duties.
 
-### recap-005 | Yaz and Evening Plan
+### recap-005 | The Ocean Watcher
 
 - Kind: beat
 - Beat IDs: beat-005
@@ -220,7 +220,7 @@ After the party speaks to the ocean watcher Yaz to learn more about the Sentient
 #### Long
 In the late afternoon, the party regroups at Shark's Dock. Wazir tests the dismantled ring and the lead-lined box at Ovina's shop; the group theorizes that the lead-lined box may be a way to contain the strange  [[Blood Knife|magical knife]] associated with Azar. Ryu and Trok speak with Yaz after dark about the living ocean and the Splinters, and the group returns to the Leviathan to plan. They decide that one person will approach Azar when he comes to collect the box in the morning, while the others remain hidden near the dock. 
 
-### recap-006 | Dawn Interception Setup
+### recap-006 | The Dawn Confrontation
 
 - Kind: beat
 - Beat IDs: beat-006
@@ -242,7 +242,7 @@ At dawn, Ryu spots the phantom boat approaching and the party takes positions ar
 #### Long
 At dawn, the party waits around Shark's Dock while Ryu watches the harbor and spots the phantom boat coming in fast from the north. Azar arrives in oilskin cloaks, collects the lead-lined box from Ovina, and tries to walk back to the dock without answering Ryu's questions about the tower, the deaths, and the [[Sentient Ocean]]. Invisible Wazir whispers Nadine's name through a coin, Azar reveals himself and insists Gazankoa is helping him save his family, and Ryu realizes the invitation onto the boat is a trap as weapons come out.
 
-### recap-007 | Tentacles at the Dock to Azar Falls
+### recap-007 | Tentacles at the Dock
 
 - Kind: combat
 - Beat IDs: beat-007, beat-008

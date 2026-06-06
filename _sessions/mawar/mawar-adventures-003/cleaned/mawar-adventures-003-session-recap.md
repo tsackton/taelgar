@@ -148,7 +148,7 @@ Kaleho shares dinner with Trok at his beach shack. Orden arrives worried for his
 #### Long
 Kaleho returns to Hamri and meets Trok at his beach shack, where they talk over stew about Trok's uneasy isolation, Kaleho's fixation on sea mysteries, and the aftermath of the events concerning Azar the Lost. Orden interrupts the meal and explains that his daughter Hiyasa came home recently after a decade away, carrying maps and filled with talk of ancient treasure in the forest. She left up the Mirmir eight days ago and has not returned: Orden is nervous. Trok and Kaleho agree to help, and decide to bring Ryu into the search at first light.
 
-### recap-002 | Breakfast and Rumors
+### recap-002 | Rumors over Breakfast
 
 - Kind: beat
 - Beat IDs: b02
@@ -191,7 +191,7 @@ Over the next few days, Ryu tracks Hiyasa from Hamri into the forest, following 
 #### Long
 After speaking to Abelard at the Leviathan Inn, the party leaves Hamri, climbs above the waterfall, and follows the Mirmir inland through cold autumn forest, Ryu reading the trail while Blu scouts through the trees. After a few days' walk, the party finds a small abandoned campsite, suggesting Hiyasa passed that way alone. The trail cuts farther from the river and ends at a massive stone flower-like monument with ropes already fixed to it, an open trap door at the top, and a Terran inscription that reads, "Here lies Yerkir-khor the Undaunted, Prince of Earth, Lord of the Rock Below, and Guardian of the Crystal Skies."
 
-### recap-004 | Crystal Halls
+### recap-004 | The Crystal Halls
 
 - Kind: beat
 - Beat IDs: b04
@@ -213,7 +213,7 @@ At the monument, Trok starts down the open shaft first, but a hidden blade knock
 #### Long
 At the monument, Trok ascends and looks down the open shaft into a hall whose mosaic floor shows glittering caverns, stone cliffs, underground rivers, and twisting stalactites and stalagmites. Nerissa sends lights after him, but the descent goes wrong almost immediately: a hidden blade sweeps through the shaft, cuts Trok loose, and sends Kaleho crashing to the floor after him. The group regroups after descending by rope into the long-buried main hall. Enormous double doors stand sealed behind them. At the far end, locked dark-granite doors wait, guarded by four gargoyle statues. Between the doors, a serpent-headed statue with emerald eyes and gold-and-gem decoration rises above a smooth white stalagmite altar.
 
-### recap-005 | Gargoyle Ambush
+### recap-005 | Statues Awake
 
 - Kind: combat
 - Beat IDs: b05
@@ -235,7 +235,7 @@ As the party proceeds towards the doors at the far end of the main hall, the fou
 #### Long
 As Trok heads for the doors to study the altar and statue, the four intact gargoyles suddenly animate and attack. Two harry the party, while two fly toward the serpent-headed statue and try to pull a loose amethyst from its gold-banded arm. Trok grows and slams the gargoyles into the floor and altar, Nerissa's shattering spell rips through their stone bodies, Kaleho drops targets with crossbow shots, and Ryu sends both spear and Blu after the ones trying to trigger something worse. The last gargoyle breaks before the serpent statue fully wakes, leaving the party with broken guardians, stone keys, and the loose amethyst to inspect.
 
-### recap-006 | Deeper into the Tomb
+### recap-006 | The Depths of the Tomb
 
 - Kind: beat
 - Beat IDs: b06
@@ -279,7 +279,7 @@ Beyond the quicksand trap, the party enters an antechamber with side doors, a cr
 #### Long
 The muddy footprints lead into a wider antechamber with closed side doors and stairs encircled by fist-sized crystals. Around a central labyrinth design, Terran words read, "Faithful of Yerkir-khor, be blessed with the wisdom of your lord! Unfaithful, flee now or be entombed forever in his majestic presence!" Kaleho is struck by lightning when he approaches the stair upright, but crawling beneath the crystals lets everyone descend safely. The stairs open into a blue-lit inner sanctum where Hiyasa is alive but encased in stone from the thighs down, with an empty waterskin nearby. Around her, gem mosaics show a stone-and-earth lord flattening mountains, shaping valleys and canals, receiving offerings, and being honored through farming, mining, and trade with dwarves. Six gem-stoppered jars stand behind the altar, and a great stone guardian steps forward in Terran to demand tribute from anyone claiming to honor Yerkir-khor.
 
-### recap-008 | Guardian Battle Begins to Mud and Rescue
+### recap-008 | The Angry Stone
 
 - Kind: combat
 - Beat IDs: b08, b09, b10
@@ -301,7 +301,7 @@ The offered tribute of shells, a pearl, and Kaleho's merfolk book only enrage th
 #### Long
 The party tries to satisfy the guardian with the treasures they actually carry: Trok's shells, Ryu's pearl, and Kaleho's treasured merfolk book. Each offering makes the guardian angrier, as it violently rejects the treasures of the ocean. Ryu opens the fight with a spear while Blu wheels through the blue-lit chamber. The party batters the guardian with crossbow fire, Eldritch Maul, thunder and psychic magic, thrown spears, and Blu's dives, but the guardian reshapes the room, traps Kaleho with a stone hand, turns the floor to mud, and throws an unconscious Trok into it as it starts to harden. Ryu manages to land the killing blow on the guardian, and then revives Trok with his healing magic. The stone magic broken, Hiyasa frees herself. She tries to pocket one of the jars, but relaxes after Trok makes clear they came as a favor to Orden rather than as rival tomb robbers.
 
-### recap-009 | Return with the Spoils
+### recap-009 | Home At Last
 
 - Kind: beat
 - Beat IDs: b11
