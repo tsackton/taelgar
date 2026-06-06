@@ -15,7 +15,7 @@ typeOfAlias: shire
 
 Carlinshire is the largest of the three shires that owe allegiance to the Earl of the Mostreve, and is contains the upper stretches of the [[Umber]], the higher elevations of [[Torvaine Forest]], and the northern part of the [[Westcliff]]. It is bordered by the [[Maseau Gap]] on the west and northwest, [[Bramshire]] to the northeast, the [[Aure]] valley to the east, and [[Weskershire]] to the south. 
 
-This area saw heavy fighting during the [[Serpentine Wars]], and was the only region of [[Addermarch]] to be partially occupied by [[Avatus]]. It is now a somewhat poor region, and rather neglected.
+This area saw heavy fighting during the [[Serpentine Wars]], and, with [[Weskershire]], was partially occupied by [[Avatus]]. It is now a somewhat poor region, and rather neglected.
 
 The most significant settlement in [[Carlinshire]] is [[Valcroix]], at the confluence of the [[Umber]] and [[Velan]]. Smaller settlements, mostly villages, ruined castles, and the occasional toll-fort, dot the hills to the west. 
 

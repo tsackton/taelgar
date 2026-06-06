@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/cleanup/text]
+tags: [group, status/cleanup/text, status/gameupdate/dufr]
 displayDefaults: {defArt: 'the', boxInfo: ""}
 name: Rangers
 typeOf: army
@@ -52,4 +52,24 @@ dv.table(["Person", "Info", "Born", "Died"],
 				.sort(b => b.born)
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<startStatus> <startDate>",b.file, dv.current().pageTargetDate), util.s("<endStatus> <endDate>",b.file, dv.current().pageTargetDate)]))
 ```
+%%^End%%
+
+
+%%^Campaign:none%%
+
+There are two significant lines of invention around the history of the Rangers:
+
+- The Rangers are clearly connected to [[Isingue]] and the ancient magic associated with the [[Heartroot]].
+- The Rangers are clearly connected to the guerrilla wars against Avatus during the [[Serpentine Wars]].
+
+Both of these facts are clearly established canon introduced in game. 
+
+One possible explanation is that Beryl joined together two disparate, but philosophically similar, groups that had grown out of opposite to Avatus - the more magically inclined Isingue folks who used the Heartroot to grow magical walls to defend against Avatus, and the more nature/scout inclined folks from Addermarch. 
+
+It is also possible there is aid flowing from Isingue to Addermarch and back during the Serpentine Wars, since the route along the Valmont between the two realms is likely open at this time. 
+
+This could fit into Beryl's backstory as my recollection was he wasn't really a city person so probably would have been from somewhere in the Isingue sphere of influence but not the city itself. 
+
+However other stories are possible, and it is also possible that current-day Rangers shade their history a little depending on where they are from (so, e.g. the Addermarch rangers play up connect to Addermarch history more than maybe is strictly true - though my Addermarch PCs met a stoneborn who remembered some of the history so there can't be no connection). 
+
 %%^End%%
