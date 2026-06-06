@@ -17,6 +17,6 @@ author: "[[Rangers]] of [[Carlinshire]]"
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The Serpentine Register was a [[Rangers|Ranger]] record of known [[Serpentine]] weapons and their fates.
+The Serpentine Register was a [[Rangers|Ranger]] record of known [[Serpentine]] weapons and their fates, compiled in the aftermath of the Addermarch fighting in the [[Serpentine Wars]].
 
 Originally produced by the [[Rangers]] of [[Carlinshire]], the local copy was lost, but surviving copies may exist in [[Adderfell]], [[Sembara]], or elsewhere. 

@@ -27,7 +27,7 @@ Owen Tavish is a priest of the [[The Sibyl]], based out of the Temple of the Sib
 - (DR:: 1715-05-06): [[Addermarch - Session 04|Met with the Addermarch Mercenaries]] at the Temple of the Sibyl after returning from laying [[Einrik Arpaad]]'s ghost to rest at [[Torvaine Watch]].
 - (DR:: 1715-05-06): Suggested [[Trueflame]] as a possible means of destroying the [[Serpentine Dagger]], bought an old Sibylline holy symbol recovered from the [[Kilrath Caves]], and played chess with [[Fazoth de Brune]].
 - (DR:: 1715-05-09): [[Addermarch - Session 05|Supervised the use of Trueflame]] that unmade the [[Serpentine Dagger]] in the Temple of the Sibyl.
-- (DR:: 1715-05-21): [[Addermarch - Session 15|Identified ancient coins]] recovered from [[Duncan of Haldrenn]]'s cottage as dating to the reign of [[Derik I]], during the wars against the [[Dominion of Avatus]], and connected them to the same era as coins found with the [[Serpentine Dagger]].
+- (DR:: 1715-05-21): [[Addermarch - Session 15|Attempted to identify ancient coins]] recovered from [[Duncan of Haldrenn]]'s cottage, claiming they dating to the reign of [[Derik I]], during the wars against the [[Dominion of Avatus]], connecting them to the same era as coins found with the [[Serpentine Dagger]]. %% Note: this is a misidentification - the coins are actually older [[House of Entranca]] coins, but Derik I and Avatus are commonly associated so it is an easy mistake to make. %%
 
 ## Relationships
 - [[Elowen Duval]] — Provides counsel to her on spiritual and supernatural matters affecting Roscombe.

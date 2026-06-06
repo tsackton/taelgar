@@ -15,7 +15,7 @@ typeOfAlias: ruin
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Serethwyn Tor is an old hill-fort in western [[Carlinshire]], built on a rocky rise of the [[Westcliff]] overlooking the [[Highmoor]]. While its full history is obscure, it likely served as a major garrison and forward command post for the armies of [[Avatus]] during his wars with [[Addermarch]]. The site was deliberately dismantled and sealed after Addermarch's victory by the [[Rangers]], and commanded to be left undisturbed. In the early DR 1700s, it is occasionally patrolled by Rangers to ensure it remains abandoned and sealed. 
+Serethwyn Tor is an old hill-fort in western [[Carlinshire]], built on a rocky rise of the [[Westcliff]] overlooking the [[Highmoor]]. While its full history is obscure, it likely served as a major garrison and forward command post for the armies of [[Avatus]] during the [[Serpentine Wars]]. The site was deliberately dismantled and sealed after Addermarch's victory by the [[Rangers]], and commanded to be left undisturbed. In the early DR 1700s, it is occasionally patrolled by Rangers to ensure it remains abandoned and sealed.
 
 ## Ruins and Mines
 

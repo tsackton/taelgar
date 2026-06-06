@@ -25,6 +25,6 @@ dm_notes: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 22th, 1715 in [[Roscombe]], [[Carlinshire]], [[Addermarch]] %%^End%%
 
-Master Ernault serves as chief clerk in Lady [[Elowen Duval]]’s household. An older man with a study overflowing with papers and ledgers, he maintains records of [[Carlinshire]] dating back to its creation in the wars against [[Avatus]]. He walks with a cane, but has a sharp mind.
+Master Ernault serves as chief clerk in Lady [[Elowen Duval]]’s household. An older man with a study overflowing with papers and ledgers, he maintains records of [[Carlinshire]] dating back to its creation in the [[Serpentine Wars|wars against Avatus]]. He walks with a cane, but has a sharp mind.
 
 %% has a bit of a chip on his shoulder about being treated as a backwater hick or a mere scribe %%
