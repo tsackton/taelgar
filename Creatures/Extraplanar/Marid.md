@@ -83,8 +83,8 @@ Mawar and Nimessa:
 - [[Omi]]
 
 Session artifacts and less-canonical working notes checked:
-- [[Mawar Epsiode 01]]
-- [[Mawar Epsiode 02]]
+- [[Mawar Adventures Episode 01]]
+- [[Mawar Adventures Episode 02]]
 - [[mawar-adventures-001-session-recap]]
 - [[mawar-adventures-002-session-recap]]
 - [[mawar-adventures-005-session-recap]]
