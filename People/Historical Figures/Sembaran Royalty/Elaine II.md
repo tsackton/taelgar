@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike, status/check/tim]
+tags: [person, status/check/mike]
 name: Elaine II
 born: 1673
 species: human
@@ -20,15 +20,15 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% tagging check/mike, check/tim as I'm not sure we need/want to commit to the dated section, that her reign was a time of peace and prosperity? I agree the vibe of Sembara is clearly fairly stable in the 1720-1749 timeframe, and I think it is sensible to commit to the House of Lis as it stands, but maybe soften the "her reign was a time of peace and prosperity" and the connection to Cece %%
+%% tagging check/mike just to confirm putting the gloss on her reign as a time of peace and prosperity should be commented out; Sembara 1720 - 1750 needs a little more thought before we should commit to that, IMO. I agree the vibe of Sembara is clearly fairly stable in the 1720-1749 timeframe, and I think it is sensible to commit to the House of Lis as it stands, but maybe soften the "her reign was a time of peace and prosperity" and the connection to Cece %%
 
-The first monarch of the [[House of Lils]], descended from, Derik, the youngest son of [[Elaine I]], and [[Morgaine]], a Tyrwinghan [[Oracle of the Riven|oracle]].
+The first monarch of the [[House of Lils]], descended from, Derik, the youngest son of [[Elaine I]], and [[Morgaine]], a Tyrwinghan [[Oracle of the Riven|oracle]]. She was succeeded by her son [[Arryn III]] in DR 1745.
 
-%%^Date:1722%%
+%%
+
 Her reign was a time of peace and prospertity, and an intentional throwback to the glorious years of [[Cece I]]. 
 
-She was succeeded by her son [[Arryn III]]
-%%^End%%
+%%
 
 %%
 There are some notes for Cleenseau Campaign that I have not incorporated here, but nothing canonical yet

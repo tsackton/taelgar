@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/check/mike, status/check/tim]
+tags: [event]
 name: Treaty of Valarin
 DR: 1430
 dm_owner: none

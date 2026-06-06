@@ -15,7 +15,7 @@ typeOfAlias: destroyed empire
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% status/check/mike -> this is complete as far as it goes, in my mind. we still don't have a good tag for "more can be said", though in this case the details are captured in the DM notes which is probably sufficient. at some point it might make sense for you to write up/ add what is established from the Cleenseau game in the public notes, to the extent they extend beyond the details already here %%
+%% status/check/mike -> this is complete as far as it goes, in my mind. we still don't have a good tag for "more can be said", though in this case the details are captured in the DM notes which is probably sufficient. at some point it might make sense for you to write up/ add what is established from the Cleenseau game in the public notes, to the extent they extend beyond the details already here; could change to status/gameupdate/clee %%
 
 The Dominion of Avatus was a realm in the [[Upper Istaros]] and [[Greater Sembara]]. Founded by its mysterious ruler [[Avatus]] on the [[Aurbez Plateau]] and lower foothills of the [[Sentinel Range|Sentinels]], at its greatest extent it spread east along the [[Andonne]] to the edges of the [[Darkwood]], and north to the [[Enst]]. Briefly, much of the [[Duchy of Wisford]] and the [[Duchy of Brovna]] was occupied by the Dominion, until [[Avatus]] was defeated by [[Derik I]] and his realm collapsed. 
 

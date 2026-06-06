@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/tim, status/check/mike]
+tags: [background, status/check/errors]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
