@@ -1,9 +1,3 @@
----
-tags: [status/recap-review]
----
-
-%% clean up short and intermediate narrations, double check beat breaks, double check timeline %%
-
 # Session Recap
 
 ## Session Header
@@ -71,7 +65,7 @@ The party follows Alden through the old, increasingly trackless Varrow Forest as
 - Combat Beats: none
 
 #### Short
-The party enters Dandelion House, meets Lord Holda, and accepts his job offer, requiring them to pass through a basement door and convince an unknown loard to end a long-held treaty. 
+The party enters Dandelion House, meets Lord Holda, and accepts his job offer, requiring them to pass through a basement door and convince an unknown lord to end a long-held treaty. 
 
 #### Long
 Inside the manor, the party finds dust, magical preservation, garden tapestries, and no nearby fey or undead. Alden presents them to scarred Lord Holda, who brings them down to the kitchen for dinner and explains that an ancient deed grants him Dandelion House only if he passes through a basement door and convinces an unknown lord to end a long-held treaty. He failed, offers the party half the treasure to try for him, and the party debates the bargain before resting.
@@ -96,13 +90,13 @@ Before dawn, Alden leads the party below the manor to a root-covered cellar wher
 
 ## Recap
 
-### recap-001 | Campfire Introductions
+### recap-001 | Campfire Tales
 
 - Kind: beat
 - Beat IDs: B01
 - Date: 1740-10-03
 - Time: evening
-- Source Range: u0001 -> u0442
+- Source Range: u0001 -> u0698
 - Locations: Varrow Forest
 - NPCs: Alden
 - Organizations: none
@@ -110,45 +104,25 @@ Before dawn, Alden leads the party below the manor to a root-covered cellar wher
 - Enemies: none
 
 #### Short
-The party is camped west of Tollen with Alden, using dinner to reintroduce who they are and how they belong together.
+We begin with the party camped west of Tollen with Alden. Over dinner they reminisce about how they met, and tell stories of their last job together. Alden speaks of his deep attachment to Dandelion House, before the night passes uneventfully.
 
 #### Intermediate
-The group is already several days west of Tollen with Alden, who has hired them on behalf of a minor lord to make sure an old house is safe. Around the campfire, the five adventurers describe themselves and establish the strange but affectionate party dynamic that binds them.
+We begin around a campfire in Varrow Forest, already several days west of Tollen. The party is traveling with Alden, who has hired them on behalf of a minor lord to make sure an old house is safe. Over dinner, the five adventurers reminisce about how they met and strange but affectionate dynamic that binds them. Making conversation, Alden asks about their last job together, when an elf in Tollen hired them to recover old books from an ettin. He then speaks of his deep attachment to Dandelion House, before the night passes uneventfully.
 
 #### Long
 Our session begins as the party is traveling west from Tollen, guided by Alden -- a small, stout, pale human with a curiosity about the party and a phobia of fire -- to an old property at the end of the wilderness recently inherited by a longtime adventurer. 
 
-The group is a found-family band of misfits: skeptical, generous, opportunistic, anxious, and fond of one another. Around the campfire, Txarro prepares fish and recalls being rescued from tree blights by Kaito and Tarek; Kaito and Tarek sketch out their carny and pickpocket routines; Edric's awkward generosity and faith in the Night Queen comes into focus; and Ayveen frames the party as people who can make the world brighter.
+The group is a found-family band of misfits: skeptical, generous, opportunistic, anxious, and fond of one another. Around the campfire, Txarro prepares fish and recalls being rescued from tree blights by Kaito and Tarek; Kaito and Tarek sketch out their carny and pickpocket routines; Edric's awkward generosity and faith in the Night Queen comes into focus; and Ayveen frames the party as people who can make the world brighter. Over dinner, Alden asks about their last job together, when an elf in Tollen hired them to recover old books from an ettin. They each tell a different version of the story: Kaito remembers profit and clean clothes; Edric remembers enemies who ran instead of dying; Tarek remembers salvage; Txarro remembers becoming a tiger; and Ayveen sees teamwork. 
 
-### recap-002 | Alden Asks About Last Job
+Alden then speaks of Dandelion House with rapturous but genuine emotion -- Kaito's surreptitious Detect Thoughts spell finds joy, delight, longing, and nostalgia. As the party drifts off to rest, the night passes uneventfully.
 
-- Kind: beat
-- Beat IDs: B02
-- Date: 1740-10-03
-- Time: night
-- Source Range: u0443 -> u0698
-- Locations: Varrow Forest
-- NPCs: Alden
-- Organizations: none
-- Items: none
-- Enemies: none
-
-#### Short
-Alden draws out stories of their last job and reveals a devotional attachment to Dandelion House before the night passes uneventfully.
-
-#### Intermediate
-Alden asks each of them what they liked about their previous job, when an elf in Tollen hired them to recover old books from an ettin. The answers expose the party's priorities, and Alden's own comments show an intense love of Dandelion House, dandelions, and the idea of the estate restored.
-
-#### Long
-Around the campfire, they each tell a different version of their last job: Kaito remembers profit and clean clothes; Edric remembers enemies who ran instead of dying; Tarek remembers salvage; Txarro remembers becoming a tiger; and Ayveen sees teamwork. Alden speaks of Dandelion House with rapturous but genuine emotion -- Kaito's surreptitious Detect Thoughts spell finds joy, delight, longing, and nostalgia.
-
-### recap-003 | Road To Dandelion House
+### recap-003 | The Journey to Dandelion House
 
 - Kind: beat
 - Beat IDs: B03
 - Date: 1740-10-04
 - Time: unknown
-- Source Range: u0699 -> u1129
+- Source Range: u0699 ->  u1415
 - Locations: Varrow Forest, Dandelion House
 - NPCs: Alden, Colden, Mossfoot
 - Organizations: none
@@ -156,45 +130,25 @@ Around the campfire, they each tell a different version of their last job: Kaito
 - Enemies: none
 
 #### Short
-In the morning, he leads them through increasingly trackless forest to the overgrown manor grounds.
+In the morning, Alden leads the party through the increasingly trackless forest to the overgrown manor grounds. Inside the unsettling yet grand house, they meet Lord Holda and gather in the kitchen.
 
 #### Intermediate
-After an uneventful night, Alden keeps a steady pace through old woodland where the paths vanish, the canopy thickens, and wildlife grows scarce. By dusk, the party reaches Dandelion House, sees its ruined wall, moat, roots, and dandelion crest, and learns from Alden that Lord Holda needs flattery.
+The next morning, Alden keeps a steady pace through the increasingly trackless forest, as the canopy thickens and wildlife grows scarce. By dusk, the party reaches Dandelion House: though wildly overgrown and partially swallowed by the forest, the House itself blazes bright in the last light of day, standing as an a marvel of late-Drankorian architecture. Alden leads the party into the unsettling, yet grand, house, where Lord Holda receives them in the last golden light before bringing them to dinner in the kitchen. 
 
 #### Long
 Morning brings a long march through ancient forest. The trail slowly fades away, the forest grows quieter, the shadows gather. Just before sunset, the party passes through a ruined gate and over barely-visible remnants of an ancient wall and moat long since swallowed by forest. The forest opens into a wildly overgrown field and the House itself, blazing bright in the last light of day.
 
-### recap-004 | Inside The Manor
-
-- Kind: beat
-- Beat IDs: B04
-- Date: 1740-10-04
-- Time: evening
-- Source Range: u1130 -> u1415
-- Locations: Dandelion House
-- NPCs: Alden, Lord Holda
-- Organizations: none
-- Items: cleaning bar, magical ice chest, magical cupboard, garden tapestries
-- Enemies: none
-
-#### Short
-Inside, the house proves magically preserved, unsettling, and still grand as they meet scarred Lord Holda and gather in the kitchen.
-
-#### Intermediate
-Alden leads them into a dusty but intact manor with preserved furnishings, a grandfather clock, and tapestries of gardeners at work. Edric detects no fey or undead nearby, Kaito grows increasingly unnerved, and Lord Holda receives them in the last golden light before bringing them to dinner.
-
-#### Long
 Dandelion House is a marvel of late-Drankorian architecture -- at least 700 years old. Detect Magic suggests some kind of preservation magic woven through the much of the structure, but Kaito becomes increasingly convinced that the house -- with its empty window frames like eye sockets and open double doors like a mouth with a dandelion crest above it -- is waiting to consume them.
 
-Alden warns that Lord Holda is proud, difficult, and desperate for Dandelion House to become the estate he has always wanted. They meet Holda on the upper floor: a scarred adventurer in his late 40s, watching the fading light, sinking into shadow. After brief introductions, Holda leads them down to the kitchen for a meal and conversation. 
+Alden warns that Lord Holda is proud, difficult, and desperate for Dandelion House to become the estate he has always wanted. They meet Lord Holda on the upper floor: a scarred adventurer in his late 40s, watching the fading light, sinking into shadow. After brief introductions, Holda leads them down to the kitchen for a meal and conversation. 
 
-### recap-005 | Holda Explains The Contract
+### recap-005 | Holda's Story
 
 - Kind: beat
 - Beat IDs: B05
 - Date: 1740-10-04
 - Time: night
-- Source Range: u1416 -> u1832
+- Source Range: u1416 -> u2010
 - Locations: Dandelion House
 - NPCs: Lord Holda, Alden
 - Organizations: none
@@ -202,10 +156,10 @@ Alden warns that Lord Holda is proud, difficult, and desperate for Dandelion Hou
 - Enemies: none
 
 #### Short
-Holda offers half a hidden hoard if they can cross a basement threshold and convince an unknown lord to end an unknown treaty.
+Over dinner, Holda offers half a hidden hoard if they can cross a basement threshold and convince an unknown lord to end an unknown treaty. After debating the risks and preparing for rest, the party agrees to the task. 
 
 #### Intermediate
-Over dinner, Holda explains that an elf delivered an ancient deed and contract naming him heir to Dandelion House and its treasure. The inheritance depends on going through a door in the floor and persuading a man beyond it to end a long-held treaty, a task Holda failed badly enough that he now offers the party half the hoard to succeed for him.
+Over dinner, Holda explains that an elf delivered an ancient deed and contract naming him heir to Dandelion House and its treasure. But the inheritance depends on going through a door in the floor and persuading a man beyond it to end a long-held treaty. Holda tried this task, but failed badly enough that he now offers the party half the hoard to attempt it in his stead. Once Holda leaves, the party weighs the suspicious contract, the unknown treaty, and the possibility that the promised treasure may be dangerous, worthless, or not literal treasure at all. They still decide they have come too far not to investigate, and prepare to enter the door in the morning. 
 
 #### Long
 Holda tells his story over dinner in a kitchen stocked with magical conveniences (including a cleaning bar Tarek immediately evaluates for later theft). The second son of a minor lord in southern Sembara, he always hungered for more. Disappointed in the modest comfort of his family and resentful about his station, he left to seek his fortune, spending decades around the Green Sea as a sellsword, adventurer, and mercenary. He made and lost treasurers and lovers, and acquired a minor reputation. 
@@ -216,29 +170,9 @@ But then, in a voice both wondering and grim, Holda says that the next day, an e
 
 The document named him heir to "Dandelion House, its lands, and all such treasures therein," on condition that Holda steps through a door in the floor and convinces a man beyond it to end a long-held treaty. But Holda -- whose only negotiation strategy seemed to be intimidation -- failed almost immediately to convince the man of anything, and now has turned to the party for help.
 
-### recap-006 | Deal And Nighttime Doubts
+After Holda leaves them, Tarek reads the Sembaran document again and senses that something about it does not fit. But Kaito shifts from fear to enthusiasm at the promise of half the hoard -- though Ayveen points out that ending an unknown treaty might be dangerous, and Txarro tries to prepare Kaito for disappointment if the treasure is a trap, a metaphor, or a single coin. They still decide they have come too far not to investigate, and prepare to enter the door in the morning. 
 
-- Kind: beat
-- Beat IDs: B06
-- Date: 1740-10-04
-- Time: night
-- Source Range: u1833 -> u2010
-- Locations: Dandelion House
-- NPCs: Alden, Mossfoot
-- Organizations: none
-- Items: Goodberries, silver spoon
-- Enemies: none
-
-#### Short
-After debating the risks and preparing for rest, they agree the door is too important to ignore.
-
-#### Intermediate
-Once Holda leaves, the party weighs the suspicious contract, the unknown treaty, and the possibility that the promised treasure may be dangerous, worthless, or not literal treasure at all. They still decide they have come too far not to investigate, with Txarro making Goodberries, Edric checking on Mossfoot, and Tarek claiming a spoon.
-
-#### Long
-After Holda leaves them, Tarek reads the Sembaran document again and senses that something about it does not fit. But Kaito shifts from fear to enthusiasm at the promise of half the hoard -- though Ayveen points out that ending an unknown treaty might be dangerous, and Txarro tries to prepare Kaito for disappointment if the treasure is a trap, a metaphor, or a single coin.
-
-### recap-007 | Into The Root Tunnel
+### recap-007 | The Door in the Floor
 
 - Kind: beat
 - Beat IDs: B07
@@ -252,10 +186,10 @@ After Holda leaves them, Tarek reads the Sembaran document again and senses that
 - Enemies: none
 
 #### Short
-Before dawn, Alden and Holda guide them below the manor, where the hidden door closes behind them inside an enormous root tunnel.
+Before dawn, Alden and Holda guide them below the manor, where they enter the hidden door into an enormous root tunnel. As the party walks forward, Holda closes the door behind them.
 
 #### Intermediate
-The magical clock wakes them before dawn, and Alden leads them down through the manor to a rough lower stair and root-covered cellar. Holda waits by the hidden door, promises to keep it open, and sends them crawling through a narrow passage that proves to be the hollow center of a vast dry root before the door shuts behind them.
+The grandfather clock wakes them before dawn, and Alden leads them down through the manor to a rough lower stair and root-covered cellar. Holda waits by the hidden door, promises to keep it open, and sends them crawling through a narrow passage that proves to be the hollow center of a vast dry root. As the party walks forward, Holda closes the door behind them.
 
 #### Long
 Before dawn, the grandfather clock wakes them and Alden collects them from their rooms, leading them through the ground floor, down through a massive basement. There, he opens a locked door with a glowing gold key, leads them below the basement, down through a passage hewn from living rock into in a root-covered sub-cellar that surely predates the manor above it. Holda, waiting there, opens a door that seems to lead deep through a massive hollowed-out root, promising to keep this end open while they take care of business. 
@@ -266,17 +200,17 @@ Before dawn, the grandfather clock wakes them and Alden collects them from their
 
 ### NPCs
 
-- Alden (met): guide and agent for Lord Holda
+- [[Alden]] (met): guide and agent for Lord Holda
   - Varrow Forest, 1740-10-03
   - Varrow Forest -> Dandelion House, 1740-10-04
   - Dandelion House, 1740-10-04
   - Dandelion House, 1740-10-05
-- Colden (met): Alden's cousin, at the manor
+- [[Colden]] (met): Alden's cousin, at the manor
   - Dandelion House, 1740-10-04
-- Mossfoot (companion): Edric's pony
+- [[Mossfoot ]](companion): Edric's pony
   - Varrow Forest -> Dandelion House, 1740-10-04
   - Dandelion House, 1740-10-04
-- Lord Holda (met): lord of Dandelion House, former adventurer, and mysterious quest-giver
+- [[Lord Holda]] (met): lord of Dandelion House, former adventurer, and mysterious quest-giver
   - Dandelion House, 1740-10-04
   - Dandelion House, 1740-10-05
 - unnamed elf patron (mentioned): patron of the previous job
@@ -286,11 +220,11 @@ Before dawn, the grandfather clock wakes them and Alden collects them from their
 
 ## Locations
 
-- Varrow Forest
+- [[Varrow Forest]]
   - Summary: old forest west of Tollen where the party camps, paths fade, wildlife quiets, and Alden leads the party toward Dandelion House
   - Sublocations: campfire on the last night before reaching Dandelion House; long day's hike through increasingly trackless forest
   - Date Visited: 1740-10-03 to 1740-10-04
-- Dandelion House
+- [[Dandelion House]]
   - Summary: ancient preserved manor and overgrown estate claimed by Lord Holda, beautiful and decrepit in equal measure
   - Sublocations: grounds, entry hall, upper floors, observatory, kitchen, guest quarters, basement, root cellar, and hidden root tunnel
   - Date Visited: 1740-10-04 to 1740-10-05
