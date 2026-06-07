@@ -18,7 +18,7 @@ tagline: in which a stolen drop of ocean is returned
 sessionKey: mawar-adventures-session-1
 session-template: mawar-template.md
 ---
-# Mawar Adventures Episode 1
+# Mawar Adventures Episode 01
 
 >[!info] The Merfolk Visitor: in which a stolen drop of ocean is returned
 > *Featuring: [[Ryu]], [[Wazir]], [[Trok]]*
@@ -28,7 +28,7 @@ session-template: mawar-template.md
 
 After strange omens trouble Hamri's harbor, [[Ryu]], [[Wazir]], and [[Trok]] rescue a merfolk traveler, recover a stolen drop of the [[Sentient Ocean]] from a tidal cave in the [[North Cliffs]], and find a coded scroll pointing to a deeper mystery.
 
-# Timeline
+## Timeline
 
 - (DR:: 1747-07-23): [[Ryu]], [[Wazir]], and [[Trok]] rescue [[Illius]], a merfolk traveler, from an elemental attack, and recover a stolen drop of the [[Sentient Ocean]] from a tidal cave in the [[North Cliffs]] across the bay from [[Hamri]].
 

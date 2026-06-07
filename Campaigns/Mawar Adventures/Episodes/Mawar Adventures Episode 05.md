@@ -30,7 +30,7 @@ websiteSessionView: zoomable
 
 Rayna's plea leads the party to a buried [[Shrine to Guzo the Mariner|shrine of Guzo]], where they kill a trapped marid and recover a [[Crystallized Song Fragment|crystal fragment]] singing the song of the [[Sentient Ocean]].
 
-# Timeline
+## Timeline
 
 - (DR:: 1749-05-26), evening: [[Rayna]] arrives in [[Hamri]] and asks the party to find the ocean's lost song in a collapsed [[Shrine to Guzo the Mariner|shrine of Guzo]].
 - (DR:: 1749-05-27): The party sails with [[Rayna]] to the [[North Cliffs]], finds [[Shrine to Guzo the Mariner|Guzo's buried shrine]], kills the trapped [[Marid|marid]], and returns the freed [[Crystallized Song Fragment|song fragment]] to [[Rayna]].

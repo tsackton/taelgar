@@ -17,7 +17,7 @@ tagline: "{session.tagline}"
 
 {session.summary}
 
-# Timeline
+## Timeline
 
 {timeline}
 

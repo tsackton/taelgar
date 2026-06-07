@@ -28,7 +28,7 @@ websiteSessionView: zoomable
 
 [[Ryu]], [[Nerissa]], and [[Ander]] investigate killings near [[Eskorola]], battle fire cultists, and free the dragon turtle [[Chaessenth]] from a mage seeking to contact [[Khathayi|Khathayi the Flametongue]].
 
-# Timeline
+## Timeline
 
 - (DR:: 1747-11-01): [[Ander]], a recently retired [[Chardonian Empire|Chardonian]] soldier, returns to [[Hamri]] after twenty years away.
 - (DR:: 1747-11-08), morning: [[Ander]] finds [[Ryu]] at his cliff tower in [[Hamri]]. Their reunion is interrupted by [[Jaeson]] with a rumor that a beast is killing lizardfolk near [[Eskorola]].
