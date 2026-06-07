@@ -1,7 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
+# recap-005 | Holda's Story
 
 - Recap Block: recap-005
 - Beat IDs: B05, B06

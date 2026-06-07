@@ -1,7 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
+# recap-007 | The Door in the Floor
 
 - Recap Block: recap-007
 - Beat IDs: B07
