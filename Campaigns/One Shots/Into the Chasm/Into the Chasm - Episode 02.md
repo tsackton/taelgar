@@ -30,7 +30,7 @@ session-template: into-the-chasm-template.md
 
 The party pushes deeper into [[Zeyfa's Labyrinth|Zeyfa’s Labyrinth]], surviving worsening cold and shifting paths, and learning clues from a dead man, until they emerge into a black‑stone chamber where a terrifying white beast awaits.
 
-# Timeline
+## Timeline
 
 - (DR:: 1730-01-25), afternoon: The party travels deeper into [[Zeyfa's Labyrinth]], learns of Melusa from a dead sacrifice, survives the maze's whiteout loops, and reaches the beast's chamber.
 

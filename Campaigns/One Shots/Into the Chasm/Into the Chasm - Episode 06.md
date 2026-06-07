@@ -29,7 +29,7 @@ session-template: into-the-chasm-template.md
 
 The party recovers the keystone, delays the repair long enough to return to [[Melusa]], rescues the villagers willing to flee, and begins arranging their survival in the true [[Great Chasm]].
 
-# Timeline
+## Timeline
 
 - (DR:: 1730-01-29), afternoon: The keystone is recovered and carried back to [[Eidrikas]] before the party delays the repair for [[Melusa]].
 - (DR:: 1730-01-29), night: The party returns to [[Melusa]], evacuates the willing through the wisp-choked portal, and begins arranging shelter.

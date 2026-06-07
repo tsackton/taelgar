@@ -24,7 +24,7 @@ session-template: lablost-template.md
 
 After resting at the smithy, the party crosses [[Perdoli Manor]] by stealth, defeats hobgoblins in the chapel crypt and ruined library, finds hidden records and a chained basilisk, and learns from a ghost that [[Grimstone's Lair|Grimstone's lair]] lies beneath the manor.
 
-# Timeline
+## Timeline
 
 - (DR:: 1748-10-18): The party crosses the manor grounds, defeats hobgoblins in the chapel crypt and ruined library, finds hidden records and a chained basilisk, and learns from a pirate's ghost that [[Grimstone's Lair|Grimstone's lair]] is below.
 
