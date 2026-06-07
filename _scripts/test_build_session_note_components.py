@@ -440,6 +440,51 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertEqual(recap["header"]["Title"], "Test Session 12: Into the Labyrinth")
         self.assertEqual(len(recap["timeline"]), 2)
 
+    def test_parser_extracts_optional_recap_media(self) -> None:
+        text = (
+            self.reviewed_recap_text()
+            .replace(
+                "- Enemies: none\n\n"
+                "#### Short\n"
+                "The party descends",
+                "- Enemies: none\n"
+                "- Image: zeyfa-labyrinth.jpg\n"
+                "- Image Placement: start\n"
+                "- Image Render: right|400\n"
+                "- Image Caption: The first frozen fork.\n\n"
+                "#### Short\n"
+                "The party descends",
+                1,
+            )
+            + textwrap.dedent(
+                """\
+
+                ## Pull Quotes
+
+                - ID: quote-test-001
+                  - Quote: "The maze remembers."
+                  - Speaker: Kalima
+                  - Source Lines: u0010-u0012
+
+                ## Audio Highlights
+
+                - ID: audio-test-001
+                  - Title: Kalima explains the maze
+                  - Speaker: Kalima
+                  - Source Lines: u0010-u0040
+                  - Output: kalima-explains-the-maze.m4a
+                """
+            )
+        )
+
+        recap = parse_session_recap(text)
+
+        self.assertEqual(recap["recap"][0]["images"][0]["path"], "zeyfa-labyrinth.jpg")
+        self.assertEqual(recap["recap"][0]["images"][0]["render"], "right|400")
+        self.assertEqual(recap["recap"][0]["images"][0]["caption"], "The first frozen fork.")
+        self.assertEqual(recap["pullQuotes"][0]["ID"], "quote-test-001")
+        self.assertEqual(recap["audioHighlights"][0]["Output"], "kalima-explains-the-maze.m4a")
+
     def test_parser_normalizes_wikilinked_world_entries(self) -> None:
         linked = (
             self.reviewed_recap_text()
@@ -484,6 +529,8 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertNotIn("status/check/ai", info_text)
         self.assertIn('excludePublish: ["all"]', info_text)
         self.assertIn("<!-- SLOT: session.summary -->", info_text)
+        self.assertIn("<!-- SLOT: session.pull_quotes -->", info_text)
+        self.assertIn("<!-- SLOT: session.audio_highlights -->", info_text)
         self.assertIn("<!-- SLOT: session.desc_title -->", info_text)
         self.assertIn("<!-- SLOT: session.dr_end -->\n1730-01-25", info_text)
         self.assertIn("<!-- SLOT: session.dr_range_inline -->\n(DR:: 1730-01-25)", info_text)
@@ -516,6 +563,74 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertIn("<!-- SLOT: narrative.short -->", narrative_text)
         self.assertIn("<!-- SLOT: narrative.long -->", narrative_text)
         self.assertIn("The party descends into [[Zeyfa's Labyrinth]] with [[Kalima]]", narrative_text)
+
+    def test_builder_renders_images_pull_quotes_and_audio_from_recap(self) -> None:
+        vault = self.make_workspace()
+        recap_path = vault / "session-recap.md"
+        recap_path.write_text(
+            self.reviewed_recap_text()
+            .replace(
+                "- Enemies: none\n\n"
+                "#### Short\n"
+                "The party descends",
+                "- Enemies: none\n"
+                "- Image: zeyfa-labyrinth.jpg\n"
+                "- Image Placement: start\n"
+                "- Image Render: right|400\n"
+                "- Image Caption: The first frozen fork.\n\n"
+                "#### Short\n"
+                "The party descends",
+                1,
+            )
+            .replace(
+                "- Enemies: Ashen Knives raiders\n\n"
+                "#### Short\n"
+                "Ashen Knives",
+                "- Enemies: Ashen Knives raiders\n"
+                "- Image: ambush.jpg\n"
+                "- Image Placement: end\n"
+                "- Image Render: left|320\n\n"
+                "#### Short\n"
+                "Ashen Knives",
+                1,
+            )
+            + textwrap.dedent(
+                """\
+
+                ## Pull Quotes
+
+                - ID: quote-test-001
+                  - Quote: "The maze remembers."
+                  - Speaker: Kalima
+                  - Source Lines: u0010-u0012
+
+                ## Audio Highlights
+
+                - ID: audio-test-001
+                  - Title: Kalima explains the maze
+                  - Speaker: Kalima
+                  - Source Lines: u0010-u0040
+                  - Output: kalima-explains-the-maze.m4a
+                """
+            ),
+            encoding="utf-8",
+        )
+
+        result = self.run_builder(vault)
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        component_dir = vault / "Campaigns" / "Test Campaign" / "_generated" / "session-notes" / "test-campaign-session-12"
+        info_text = (component_dir / "01-session-info.md").read_text(encoding="utf-8")
+        narrative_text = (component_dir / "03-narrative.md").read_text(encoding="utf-8")
+        tech_text = (component_dir / "02-technical-updates.md").read_text(encoding="utf-8")
+
+        self.assertIn("<!-- SLOT: session.pull_quotes -->\n> [!quote] Kalima\n> \"The maze remembers.\"", info_text)
+        self.assertIn("## Audio Highlights", info_text)
+        self.assertIn("- **Kalima explains the maze** (Kalima, u0010-u0040)", info_text)
+        self.assertIn("  - Clip output: `kalima-explains-the-maze.m4a`", info_text)
+        self.assertIn("Audio highlights: no source audio path found; clips were not cut.", tech_text)
+        self.assertIn("> [!image|right]\n> ![[zeyfa-labyrinth.jpg|400]]\n> *The first frozen fork.*", narrative_text)
+        self.assertIn("force the survivors to flee deeper into the maze.\n\n![[ambush.jpg|left|320]]", narrative_text)
 
     def test_base_note_uses_session_template_frontmatter_key(self) -> None:
         vault = self.make_workspace()

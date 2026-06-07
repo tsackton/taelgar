@@ -38,6 +38,44 @@ img[alt*="|left|"] {
     border: 0;
 }
 
+.callout[data-callout="image"] {
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+    padding: 0;
+    width: fit-content;
+    max-width: 100%;
+}
+
+.callout[data-callout="image"] .callout-title {
+    display: none;
+}
+
+.callout[data-callout="image"] .callout-content {
+    margin: 0;
+}
+
+.callout[data-callout="image"] .callout-content p {
+    margin: 0.25rem 0 0;
+    color: var(--text-muted);
+    font-size: var(--font-small);
+    line-height: 1.35;
+}
+
+.callout[data-callout="image"] .callout-content p:first-child {
+    margin-top: 0;
+}
+
+.callout[data-callout="image"][data-callout-metadata="right"] {
+    float: right;
+    margin: 0 0 1rem 1rem;
+}
+
+.callout[data-callout="image"][data-callout-metadata="left"] {
+    float: left;
+    margin: 0 1rem 1rem 0;
+}
+
 .markdown-reading-view .markdown-preview-view:not(.is-readable-line-width)>.markdown-preview-sizer {
     margin: inherit;
 }
