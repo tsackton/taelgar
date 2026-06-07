@@ -487,6 +487,11 @@ class SessionNoteComponentsTest(unittest.TestCase):
                   - Speaker: Kalima
                   - Source Lines: u0010-u0012
 
+                - ID: quote-test-002
+                  - Quote: "It opens only once."
+                  - Speaker: Sera
+                  - Source Lines: u0013-u0014
+
                 ## Audio Highlights
 
                 - ID: audio-test-001
@@ -625,6 +630,11 @@ class SessionNoteComponentsTest(unittest.TestCase):
                   - Speaker: Kalima
                   - Source Lines: u0010-u0012
 
+                - ID: quote-test-002
+                  - Quote: "It opens only once."
+                  - Speaker: Sera
+                  - Source Lines: u0013-u0014
+
                 ## Audio Highlights
 
                 - ID: audio-test-001
@@ -645,7 +655,13 @@ class SessionNoteComponentsTest(unittest.TestCase):
         narrative_text = (component_dir / "03-narrative.md").read_text(encoding="utf-8")
         tech_text = (component_dir / "02-technical-updates.md").read_text(encoding="utf-8")
 
-        self.assertIn("<!-- SLOT: session.pull_quotes -->\n> [!quote] Kalima\n> \"The maze remembers.\"", info_text)
+        self.assertIn(
+            "<!-- SLOT: session.pull_quotes -->\n"
+            "> [!quote] %% NO TITLE %%\n"
+            "> *The maze remembers.* - Kalima\n"
+            "> *It opens only once.* - Sera",
+            info_text,
+        )
         self.assertIn("<!-- SLOT: session.audio_highlights -->\n<!-- /SLOT -->", info_text)
         self.assertNotIn("## Audio Highlights", info_text)
         self.assertNotIn("Audio highlights:", tech_text)

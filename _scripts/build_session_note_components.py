@@ -1178,14 +1178,29 @@ def render_combat_slot(entries: Sequence[Dict[str, Any]]) -> str:
 
 
 def render_pull_quotes_slot(entries: Sequence[Dict[str, str]]) -> str:
-    blocks: List[str] = []
+    lines = ["> [!quote] %% NO TITLE %%"]
     for entry in entries:
         quote = normalize_optional_string(entry.get("Quote"))
         speaker = normalize_optional_string(entry.get("Speaker")) or "Pull Quote"
         if quote is None:
             continue
-        blocks.append(f"> [!quote] {speaker}\n> {quote}")
-    return "\n\n".join(blocks).strip()
+        lines.append(f"> *{strip_matching_quotes(quote)}* - {speaker}")
+    if len(lines) == 1:
+        return ""
+    return "\n".join(lines).strip()
+
+
+def strip_matching_quotes(value: str) -> str:
+    text = value.strip()
+    quote_pairs = {
+        '"': '"',
+        "'": "'",
+        "\u201c": "\u201d",
+        "\u2018": "\u2019",
+    }
+    if len(text) >= 2 and quote_pairs.get(text[0]) == text[-1]:
+        return text[1:-1].strip()
+    return text
 
 
 def render_audio_highlights_slot(entries: Sequence[Dict[str, str]]) -> str:
