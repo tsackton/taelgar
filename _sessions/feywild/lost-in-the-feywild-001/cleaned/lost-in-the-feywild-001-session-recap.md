@@ -1,3 +1,8 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
+
 # Session Recap
 
 ## Session Header
@@ -97,6 +102,7 @@ Before dawn, Alden leads the party below the manor to a root-covered cellar wher
 - Date: 1740-10-03
 - Time: evening
 - Source Range: u0001 -> u0698
+- Polished Transcript: beat-transcripts/lost-in-the-feywild-001-recap-001-transcript.md
 - Locations: Varrow Forest
 - NPCs: Alden
 - Organizations: none
@@ -122,7 +128,8 @@ Alden then speaks of Dandelion House with rapturous but genuine emotion -- Kaito
 - Beat IDs: B03
 - Date: 1740-10-04
 - Time: unknown
-- Source Range: u0699 ->  u1415
+- Source Range: u0699 -> u1415
+- Polished Transcript: beat-transcripts/lost-in-the-feywild-001-recap-003-transcript.md
 - Locations: Varrow Forest, Dandelion House
 - NPCs: Alden, Colden, Mossfoot
 - Organizations: none
@@ -149,6 +156,7 @@ Alden warns that Lord Holda is proud, difficult, and desperate for Dandelion Hou
 - Date: 1740-10-04
 - Time: night
 - Source Range: u1416 -> u2010
+- Polished Transcript: beat-transcripts/lost-in-the-feywild-001-recap-005-transcript.md
 - Locations: Dandelion House
 - NPCs: Lord Holda, Alden
 - Organizations: none
@@ -179,6 +187,7 @@ After Holda leaves them, Tarek reads the Sembaran document again and senses that
 - Date: 1740-10-05
 - Time: dawn
 - Source Range: u2011 -> u2156
+- Polished Transcript: beat-transcripts/lost-in-the-feywild-001-recap-007-transcript.md
 - Locations: Dandelion House
 - NPCs: Alden, Lord Holda
 - Organizations: none
