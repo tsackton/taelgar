@@ -451,6 +451,18 @@ def parse_session_recap(text: str) -> Dict[str, Any]:
         label="Source Files",
         errors=errors,
     )
+    pull_quotes = parse_review_entries(
+        get_section_lines(lines, sections["## Pull Quotes"]) if "## Pull Quotes" in sections else [],
+        label="Pull Quotes",
+        required=("ID", "Quote", "Speaker", "Source Lines"),
+        errors=errors,
+    )
+    audio_highlights = parse_review_entries(
+        get_section_lines(lines, sections["## Audio Highlights"]) if "## Audio Highlights" in sections else [],
+        label="Audio Highlights",
+        required=("ID", "Speaker", "Source Lines"),
+        errors=errors,
+    )
 
     if errors:
         raise SessionRecapParseError(errors)
@@ -465,6 +477,8 @@ def parse_session_recap(text: str) -> Dict[str, Any]:
         "items": organizations_and_items["items"],
         "combat": combat,
         "sourceFiles": source_files,
+        "pullQuotes": pull_quotes,
+        "audioHighlights": audio_highlights,
         "rawText": text,
     }
 
@@ -555,6 +569,7 @@ def parse_recap_section(lines: Sequence[str], errors: List[str]) -> List[Dict[st
                 "organizations": parse_name_list(data.get("Organizations")),
                 "items": parse_name_list(data.get("Items")),
                 "enemies": parse_name_list(data.get("Enemies")),
+                "images": parse_recap_images(data, f"recap {match.group('block_id')}", errors),
                 "short": parse_required_subsection(block_lines, "#### Short", f"recap {match.group('block_id')}", errors),
                 "intermediate": parse_required_subsection(
                     block_lines, "#### Intermediate", f"recap {match.group('block_id')}", errors
@@ -642,6 +657,90 @@ def parse_keyed_bullets(lines: Sequence[str], *, label: str, errors: List[str]) 
             continue
         data[key] = value
     return data
+
+
+def parse_recap_images(data: Dict[str, str], label: str, errors: List[str]) -> List[Dict[str, str]]:
+    image_value = normalize_optional_string(data.get("Image"))
+    if image_value is None or image_value.casefold() == "none":
+        return []
+
+    path, render_from_embed = parse_image_path_and_render(image_value)
+    if not path:
+        errors.append(f"{label} has an empty Image value.")
+        return []
+
+    placement = normalize_optional_string(data.get("Image Placement")) or "start"
+    placement = placement.casefold()
+    if placement not in {"start", "end"}:
+        errors.append(f"{label} Image Placement must be 'start' or 'end', got {placement!r}.")
+        placement = "start"
+
+    render = normalize_optional_string(data.get("Image Render")) or render_from_embed or ""
+    caption = normalize_optional_string(data.get("Image Caption")) or ""
+    return [
+        {
+            "path": path,
+            "placement": placement,
+            "render": render,
+            "caption": caption,
+        }
+    ]
+
+
+def parse_image_path_and_render(value: str) -> Tuple[str, str]:
+    text = value.strip()
+    match = re.fullmatch(r"!?\[\[([^\]|]+)(?:\|([^\]]+))?\]\]", text)
+    if match:
+        return match.group(1).strip(), (match.group(2) or "").strip()
+    return text, ""
+
+
+def parse_review_entries(
+    lines: Sequence[str],
+    *,
+    label: str,
+    required: Sequence[str],
+    errors: List[str],
+) -> List[Dict[str, str]]:
+    entries: List[Dict[str, str]] = []
+    current: Optional[Dict[str, str]] = None
+    seen_ids: set[str] = set()
+
+    for raw_line in lines:
+        if not raw_line.strip():
+            continue
+        stripped = raw_line.strip()
+        if stripped in {"- none", "None identified.", "- None identified."}:
+            continue
+        if raw_line.startswith("- ID:"):
+            entry_id = raw_line.split(":", 1)[1].strip()
+            if not entry_id:
+                errors.append(f"{label} contains an entry with an empty ID.")
+                current = None
+                continue
+            if entry_id in seen_ids:
+                errors.append(f"{label} contains duplicate ID {entry_id!r}.")
+            seen_ids.add(entry_id)
+            current = {"ID": entry_id}
+            entries.append(current)
+            continue
+        if raw_line.startswith("  - "):
+            if current is None:
+                errors.append(f"{label} contains a detail line before any ID: {stripped}")
+                continue
+            if ":" not in stripped:
+                errors.append(f"{label} contains a malformed detail line: {stripped}")
+                continue
+            key, value = stripped[2:].split(":", 1)
+            current[key.strip()] = value.strip()
+            continue
+        errors.append(f"{label} contains an unparseable line: {stripped}")
+
+    for entry in entries:
+        for key in required:
+            if not normalize_optional_string(entry.get(key)):
+                errors.append(f"{label} entry {entry.get('ID', '<unknown>')} is missing {key}.")
+    return entries
 
 
 def parse_required_subsection(lines: Sequence[str], heading: str, label: str, errors: List[str]) -> str:
@@ -863,6 +962,14 @@ def build_slots(
     info_slots["session.desc_title"] = header.get("Desc Title", "")
     info_slots["session.tagline"] = header.get("Tagline", "")
     info_slots["session.summary"] = header.get("One-Sentence Summary", "")
+    info_slots["session.pull_quotes"] = render_pull_quotes_slot(recap["pullQuotes"])
+    audio_source = resolve_audio_source_path(session_payload)
+    if recap["audioHighlights"] and audio_source is None:
+        review_lines.append("- Audio highlights: no source audio path found; clips were not cut.")
+    info_slots["session.audio_highlights"] = render_audio_highlights_slot(
+        recap["audioHighlights"],
+        audio_source_available=audio_source is not None,
+    )
     info_slots["session.dm"] = header.get("DM", "")
     info_slots["session.pcs"] = render_inline_csv_as_bullets(header.get("PCs", ""))
     info_slots["session.pcs_plain_inline"] = render_inline_csv_plain(header.get("PCs", ""))
@@ -931,9 +1038,9 @@ def build_slots(
     review_lines.extend(item_update_reviews)
     technical_slots["updates.review"] = render_review_lines(review_lines)
 
-    narrative_slots["narrative.short"] = join_recap_zoom(recap["recap"], "short")
-    narrative_slots["narrative.intermediate"] = join_recap_zoom(recap["recap"], "intermediate")
-    narrative_slots["narrative.long"] = join_recap_zoom(recap["recap"], "long")
+    narrative_slots["narrative.short"] = render_narrative_zoom(recap["recap"], "short")
+    narrative_slots["narrative.intermediate"] = render_narrative_zoom(recap["recap"], "intermediate")
+    narrative_slots["narrative.long"] = render_narrative_zoom(recap["recap"], "long")
 
     autolink_terms = collect_autolink_terms(recap)
     autolink_slots(info_slots, note_index, autolink_terms=autolink_terms)
@@ -1024,6 +1131,52 @@ def render_combat_slot(entries: Sequence[Dict[str, Any]]) -> str:
         enemies = ", ".join(entry.get("enemies", [])) or "none"
         lines.append(f"- {entry['title']}: {enemies}. {entry['contextOutcome']}")
     return "\n".join(lines).strip()
+
+
+def render_pull_quotes_slot(entries: Sequence[Dict[str, str]]) -> str:
+    blocks: List[str] = []
+    for entry in entries:
+        quote = normalize_optional_string(entry.get("Quote"))
+        speaker = normalize_optional_string(entry.get("Speaker")) or "Pull Quote"
+        if quote is None:
+            continue
+        blocks.append(f"> [!quote] {speaker}\n> {quote}")
+    return "\n\n".join(blocks).strip()
+
+
+def render_audio_highlights_slot(entries: Sequence[Dict[str, str]], *, audio_source_available: bool) -> str:
+    if not entries:
+        return ""
+    lines = ["## Audio Highlights", ""]
+    for entry in entries:
+        title = (
+            normalize_optional_string(entry.get("Title"))
+            or normalize_optional_string(entry.get("Summary"))
+            or normalize_optional_string(entry.get("ID"))
+            or "Audio highlight"
+        )
+        speaker = normalize_optional_string(entry.get("Speaker"))
+        source_lines = normalize_optional_string(entry.get("Source Lines"))
+        output = normalize_optional_string(entry.get("Output"))
+        details = ", ".join(part for part in (speaker, source_lines) if part)
+        suffix = f" ({details})" if details else ""
+        lines.append(f"- **{title}**{suffix}")
+        if output:
+            if audio_source_available:
+                lines.append(f"  - Clip: ![[{output}]]")
+            else:
+                lines.append(f"  - Clip output: `{output}`")
+        if not audio_source_available:
+            lines.append("  - Audio source path missing; clip not generated.")
+    return "\n".join(lines).strip()
+
+
+def resolve_audio_source_path(session_payload: Dict[str, Any]) -> Optional[str]:
+    for key in ("sourceAudioPath", "audioPath", "recordingPath"):
+        value = normalize_optional_string(session_payload.get(key))
+        if value:
+            return value
+    return None
 
 
 def build_party_whereabouts_slot(final_timeline: Optional[Dict[str, Any]]) -> str:
@@ -1119,9 +1272,66 @@ def render_review_lines(lines: Sequence[str]) -> str:
     return "\n".join(unique).strip() if unique else "- none"
 
 
-def join_recap_zoom(recap_blocks: Sequence[Dict[str, Any]], field_name: str) -> str:
-    parts = [block[field_name].strip() for block in recap_blocks if block.get(field_name)]
+def render_narrative_zoom(recap_blocks: Sequence[Dict[str, Any]], field_name: str) -> str:
+    parts: List[str] = []
+    for block in recap_blocks:
+        body = normalize_optional_string(block.get(field_name))
+        if body is None:
+            continue
+        start_images = render_recap_images(block, placement="start")
+        end_images = render_recap_images(block, placement="end")
+        section_parts = [part for part in (start_images, body, end_images) if part]
+        parts.append("\n\n".join(section_parts))
     return "\n\n".join(parts).strip()
+
+
+def render_recap_images(block: Dict[str, Any], *, placement: str) -> str:
+    rendered = [
+        render_recap_image(image)
+        for image in block.get("images", [])
+        if image.get("placement") == placement
+    ]
+    return "\n\n".join(item for item in rendered if item).strip()
+
+
+def render_recap_image(image: Dict[str, str]) -> str:
+    path = image.get("path", "").strip()
+    if not path:
+        return ""
+    render = image.get("render", "").strip()
+    caption = image.get("caption", "").strip()
+    if not caption:
+        return format_image_embed(path, render)
+
+    modifier, embed_render = split_captioned_image_render(render)
+    callout = f"> [!image|{modifier}]" if modifier else "> [!image]"
+    return "\n".join(
+        [
+            callout,
+            f"> {format_image_embed(path, embed_render)}",
+            f"> *{caption}*",
+        ]
+    )
+
+
+def format_image_embed(path: str, render: str) -> str:
+    clean_path = path.strip()
+    clean_render = render.strip()
+    if clean_render:
+        return f"![[{clean_path}|{clean_render}]]"
+    return f"![[{clean_path}]]"
+
+
+def split_captioned_image_render(render: str) -> Tuple[str, str]:
+    tokens = [token.strip() for token in render.split("|") if token.strip()]
+    modifier = ""
+    remaining: List[str] = []
+    for token in tokens:
+        if token in {"left", "right"} and not modifier:
+            modifier = token
+            continue
+        remaining.append(token)
+    return modifier, "|".join(remaining)
 
 
 def build_note_context(
