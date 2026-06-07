@@ -7,6 +7,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import shutil
 import subprocess
 from dataclasses import dataclass
 from datetime import datetime
@@ -227,7 +228,7 @@ def main() -> int:
 
     note_index = VaultNoteIndex(VAULT_ROOT, generated_root)
     session_key = build_session_key(session_payload, fallback=session_manifest.stem)
-    audio_output_root = (VAULT_ROOT / str(config["campaignRoot"]) / "_generated" / "session-audio").resolve()
+    audio_output_root = (VAULT_ROOT / "assets" / "session-audio" / session_key).resolve()
     print(f"Building slots for session key: {session_key}")
     status_messages: List[str] = []
     try:
@@ -1005,6 +1006,7 @@ def build_slots(
             output_root=audio_output_root,
             session_key=session_key or build_session_key(session_payload, fallback="session"),
             base_dir=session_dir,
+            vault_root=note_index.vault_root,
         )
         if status_messages is not None:
             outputs = ", ".join(entry["Output"] for entry in rendered_audio_highlights)
@@ -1243,6 +1245,7 @@ def build_audio_highlight_clips(
     output_root: Path,
     session_key: str,
     base_dir: Optional[Path],
+    vault_root: Path,
 ) -> List[Dict[str, str]]:
     cleaned_source = resolve_cleaned_source_path(recap, base_dir=base_dir)
     timestamps = read_source_line_timestamps(cleaned_source)
@@ -1268,9 +1271,16 @@ def build_audio_highlight_clips(
         output_path = output_root / output_name
         extract_audio_clip(source_audio, output_path, start_seconds, end_seconds)
         rendered = dict(entry)
-        rendered["Output"] = output_name
+        rendered["Output"] = vault_relative_asset_path(output_path, vault_root=vault_root)
         rendered_entries.append(rendered)
     return rendered_entries
+
+
+def vault_relative_asset_path(path: Path, *, vault_root: Path) -> str:
+    try:
+        return path.resolve().relative_to(vault_root.resolve()).as_posix()
+    except ValueError:
+        return path.name
 
 
 def resolve_cleaned_source_path(recap: Dict[str, Any], *, base_dir: Optional[Path]) -> Path:
@@ -1353,7 +1363,7 @@ def prefixed_audio_output_name(session_key: str, entry: Dict[str, str]) -> str:
 def extract_audio_clip(source_audio: Path, output_path: Path, start_seconds: float, end_seconds: float) -> None:
     duration_seconds = end_seconds - start_seconds
     command = [
-        "ffmpeg",
+        resolve_ffmpeg_executable(),
         "-y",
         "-hide_banner",
         "-loglevel",
@@ -1378,6 +1388,22 @@ def extract_audio_clip(source_audio: Path, output_path: Path, start_seconds: flo
     if result.returncode != 0:
         detail = (result.stderr or result.stdout or "ffmpeg failed").strip()
         raise ComponentSlotParseError(f"Failed to create audio clip {output_path}: {detail}")
+
+
+def resolve_ffmpeg_executable() -> str:
+    path_candidate = shutil.which("ffmpeg")
+    if path_candidate:
+        return path_candidate
+
+    for candidate in (
+        Path("/opt/homebrew/bin/ffmpeg"),
+        Path("/usr/local/bin/ffmpeg"),
+        Path("/Applications/editor.app/Contents/Resources/bin/ffmpeg"),
+    ):
+        if candidate.exists() and candidate.is_file():
+            return str(candidate)
+
+    raise ComponentSlotParseError("ffmpeg was not found on PATH or in known local install locations.")
 
 
 def build_party_whereabouts_slot(final_timeline: Optional[Dict[str, Any]]) -> str:
