@@ -18,6 +18,7 @@ tagline: "{session.tagline}"
 
 {session.summary}
 
+{session.pull_quotes}
 ## Audio Highlights
 
 {session.audio_highlights}
