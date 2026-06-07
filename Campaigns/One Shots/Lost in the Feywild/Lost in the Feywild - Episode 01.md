@@ -20,6 +20,10 @@ session-template: feywild-template.md
 
 The party follows [[Alden]] to [[Dandelion House]], where they accept Lord Holda's deal to end a mysterious treaty with an entity beyond a hidden door in exchange for promises of wealth and treasure, but find themselves sealed in a strange passage.
 
+> [!quote] %% NO TITLE %%
+> *Locked in a room in the basement is the doom of the house.* - Lord Holda
+> ...
+> *What could go wrong?* - Kaito Min
 ## Audio Highlights
 
 - **Lord Holda recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** ![[lost-in-the-feywild-session-1-audio-002.m4a]]

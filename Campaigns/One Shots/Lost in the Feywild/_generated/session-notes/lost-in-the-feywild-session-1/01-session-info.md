@@ -22,11 +22,11 @@ The party follows [[Alden]] to [[Dandelion House]], where they accept Lord Holda
 <!-- /SLOT -->
 
 <!-- SLOT: session.pull_quotes -->
-> [!quote] Lord Holda
-> "Locked in a room in the basement is the doom of the house."
+> [!quote] %% NO TITLE %%
+> *Locked in a room in the basement is the doom of the house.* - Lord Holda
+> ...
+> *What could go wrong?* - Kaito Min
 
-> [!quote] Kaito Min
-> "What could go wrong?"
 <!-- /SLOT -->
 
 <!-- SLOT: session.audio_highlights -->
