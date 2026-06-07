@@ -14,7 +14,7 @@ sessionKey: mawar-adventures-session-2
 websiteSessionView: zoomable
 session-template: mawar-template.md
 ---
-# Mawar Adventures Episode 2
+# Mawar Adventures Episode 02
 
 >[!info] The Tragedy of Azar: in which a grieving killer is unmasked
 > *Featuring: [[Ryu]], [[Wazir]], [[Trok]], [[Kaleho]]*
@@ -24,7 +24,7 @@ session-template: mawar-template.md
 
 Clues from [[The Ciphered Scroll|the Ciphered Scroll]] and the people of [[Hamri]] lead [[Ryu]], [[Trok]], [[Wazir]], and [[Kaleho]] to [[Azar the Lost]], whose [[Blood Knife]] murders end after a dawn fight at Shark's Dock.
 
-# Timeline
+## Timeline
 
 - (DR:: 1747-08-03), evening: [[Wazir]] presents the decoded [[The Ciphered Scroll]] to [[Ryu]], [[Trok]], and [[Kaleho]] at the [[Leviathan Inn]] in [[Hamri]].
 - (DR:: 1747-08-04): The party searches Airion's tower in the [[North Cliffs]], discovering older stonework beneath the ruined watchtower, then traces its recent occupant through Hamri's informants, uncovering evidence that [[Azar the Lost]] was living in hiding, likely tied to deaths among [[Gatza|gatza]] addicts in the Drowned Flats, and seeking to purchase a lead-lined box from the smith [[Ovina]] on Shark's Dock.

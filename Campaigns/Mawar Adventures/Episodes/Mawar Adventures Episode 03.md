@@ -29,7 +29,7 @@ websiteSessionView: zoomable
 
 [[Orden]] asks the party to find [[Hiyasa]], whose treasure map leads them from [[Hamri]] into [[Tomb of Yerkir-Khor|Yerkir-khor's buried earth tomb]], where they survive traps, stone guardians, and a near-fatal fight before returning with her and the [[Tomb of Yerkir-Khor|tomb]]'s strange spoils.
 
-# Timeline
+## Timeline
 
 - (DR:: 1747-10-23), evening: [[Orden]] asks [[Trok]] and [[Kaleho]] to find his daughter [[Hiyasa]], who recently returned to [[Hamri]] after ten years away and has gone missing while seeking treasure.
 - (DR:: 1747-10-24), morning: [[Trok]] and [[Kaleho]] recruit [[Ryu]] and [[Nerissa]] to help, gather rumors from [[Abelard]] at the [[Leviathan Inn]], and head up the [[Mirmir]] following [[Hiyasa]]'s tracks.
