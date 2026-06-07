@@ -43,11 +43,8 @@ DM: Yeah, yeah.
 %% u0015 %%
 Tarek: Just to get it.
 
-%% u0016 %%
-DM: There's gonna be a lot of, like, sort of golden hour energy in the first bit.
-
-%% u0017 %%
-Kaito Min: Of it.
+%% u0016-u0017 %%
+DM: There's gonna be a lot of, like, sort of golden hour energy in the first bit of it. 
 
 %% u0018 %%
 Tarek: Oh, cause it's all going great.

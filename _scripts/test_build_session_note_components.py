@@ -724,7 +724,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
         info_text = (component_dir / "01-session-info.md").read_text(encoding="utf-8")
         self.assertNotIn("## Audio Highlights", info_text)
         self.assertIn(
-            "- **Kalima explains the maze:** "
+            "**Kalima explains the maze:** \n"
             "![[assets/session-audio/test-campaign-session-12/"
             "test-campaign-session-12-kalima-explains-the-maze.m4a]]",
             info_text,
