@@ -104,6 +104,9 @@ Before dawn, Alden leads the party below the manor to a root-covered cellar wher
 - Items: none
 - Enemies: none
 - Image: varrow-forest.jpg
+- Image Placement: start
+- Image Render: right|400
+- Image Caption: Walking through Varrow Forest
 
 #### Short
 We begin with the party camped west of Tollen with Alden. Over dinner they reminisce about how they met, and tell stories of their last job together. Alden speaks of his deep attachment to Dandelion House, before the night passes uneventfully.
@@ -132,6 +135,9 @@ Alden then speaks of Dandelion House with rapturous but genuine emotion -- Kaito
 - Items: dandelion crest
 - Enemies: none
 - Image: dandelion-house.jpg
+- Image Placement: end
+- Image Render: 
+- Image Caption: Dandelion House
 
 #### Short
 In the morning, Alden leads the party through the increasingly trackless forest to the overgrown manor grounds. Inside the unsettling yet grand house, they meet Lord Holda and gather in the kitchen.
@@ -191,6 +197,9 @@ After Holda leaves them, Tarek reads the Sembaran document again and senses that
 - Items: gold key, hidden door
 - Enemies: none
 - Image: the-door-in-the-floor.jpg
+- Image Placement: start
+- Image Render: left|400
+- Image Caption: The root tunnel to the unknown
 
 #### Short
 Before dawn, Alden and Holda guide them below the manor, where they enter the hidden door into an enormous root tunnel. As the party walks forward, Holda closes the door behind them.
@@ -281,3 +290,31 @@ Before dawn, the grandfather clock wakes them and Alden collects them from their
 - Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-beats.json
 - Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-beat-facts.json
 - Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md
+
+## Pull Quotes
+
+- ID: quote-B05-001
+  - Quote: "Locked in a room in the basement is the doom of the house."
+  - Speaker: Lord Holda
+  - Source Lines: u1515-u1526
+
+- ID: quote-B07-001
+  - Quote: "What could go wrong?"
+  - Speaker: Kaito Min
+  - Source Lines: u2070
+
+## Audio Highlights
+
+- ID: audio-002
+  - Title: Lord Holda recounts his adventuring life and the bargain tied to the treaty beyond the basement door
+  - Speaker: Lord Holda
+  - Source Lines: u1426-u1541
+  - Output: audio-002.m4a
+  - Why Called Out: Central exposition monologue for the episode and the clearest audio candidate for Holda's voice.
+
+- ID: audio-003
+  - Title: The party descends through the manor basement into the root-covered lower cellar where Holda waits by the hidden door
+  - Speaker: DM
+  - Source Lines: u2017-u2058
+  - Output: audio-003.m4a
+  - Why Called Out: Atmospheric transition into the final cliffhanger sequence.

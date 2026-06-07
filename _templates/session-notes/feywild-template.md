@@ -18,6 +18,14 @@ tagline: "{session.tagline}"
 
 {session.summary}
 
+### Audio Highlights
+
+{session.audio_highlights}
+
+## Timeline
+
+{timeline}
+
 ## Narrative
 
 {narrative.long}
@@ -30,7 +38,4 @@ tagline: "{session.tagline}"
 
 {locations}
 
-## Timeline
-
-{timeline}
 
