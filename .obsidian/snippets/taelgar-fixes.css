@@ -76,6 +76,35 @@ img[alt*="|left|"] {
     margin: 0 1rem 1rem 0;
 }
 
+@media (min-width: 500px) {
+    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata="right"]) {
+        display: inline;
+        z-index: 30;
+    }
+
+    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata="right"]) > div > .callout {
+        float: right;
+        margin: 0 0 1rem 1rem;
+        z-index: 30;
+    }
+
+    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata="left"]) {
+        display: inline;
+        z-index: 30;
+    }
+
+    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata="left"]) > div > .callout {
+        float: left;
+        margin: 0 1rem 1rem 0;
+        z-index: 30;
+    }
+
+    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata="right"]) > .edit-block-button,
+    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata="left"]) > .edit-block-button {
+        display: none;
+    }
+}
+
 .markdown-reading-view .markdown-preview-view:not(.is-readable-line-width)>.markdown-preview-sizer {
     margin: inherit;
 }

@@ -10,21 +10,21 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
-- Varrow Forest: visited on 1740-10-03 to 1740-10-04.
-- Dandelion House: visited on 1740-10-04 to 1740-10-05.
+- [[Varrow Forest]]: visited on 1740-10-03 to 1740-10-04.
+- [[Dandelion House]]: visited on 1740-10-04 to 1740-10-05.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
-- Alden: candidate whereabouts update from (DR:: 1740-10-05), dawn -> [[Dandelion House]].
+- [[Alden]]: candidate whereabouts update from (DR:: 1740-10-05), dawn -> [[Dandelion House]].
   - Whereabouts line: `- {type: away, start: 1740-10-05, location: Dandelion House}`
-- Lord Holda: candidate whereabouts update from (DR:: 1740-10-05), dawn -> [[Dandelion House]].
+- [[Lord Holda]]: candidate whereabouts update from (DR:: 1740-10-05), dawn -> [[Dandelion House]].
   - Whereabouts line: `- {type: away, start: 1740-10-05, location: Dandelion House}`
 <!-- /SLOT -->
 
 <!-- SLOT: updates.timeline -->
-- (DR:: 1740-10-03), evening: The party camps in the Varrow Forest with Alden, and recounts their last job around the campfire.
-- (DR:: 1740-10-04): Alden leads the party through Varrow Forest to Dandelion House.
-- (DR:: 1740-10-04), evening: The party enters Dandelion House, meets Lord Holda, and accepts his job offer, requiring them to pass through a basement door and convince an unknown loard to end a long-held treaty.
+- (DR:: 1740-10-03), evening: The party camps in the [[Varrow Forest]] with [[Alden]], and recounts their last job around the campfire.
+- (DR:: 1740-10-04): [[Alden]] leads the party through [[Varrow Forest]] to [[Dandelion House]].
+- (DR:: 1740-10-04), evening: The party enters [[Dandelion House]], meets [[Lord Holda]], and accepts his job offer, requiring them to pass through a basement door and convince an unknown lord to end a long-held treaty.
 - (DR:: 1740-10-05), dawn: The party enters the basement root tunnel, and is sealed inside.
 <!-- /SLOT -->
 
@@ -33,16 +33,11 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.review -->
-- Alden: no matching note found in the vault index
-- Colden: no matching note found in the vault index
-- Mossfoot: no matching note found in the vault index
-- Lord Holda: no matching note found in the vault index
+- [[Mossfoot ]](companion): no matching note found in the vault index
 - unnamed elf patron: no matching note found in the vault index
 - ettin: no matching note found in the vault index
 - unnamed elf archivist: no matching note found in the vault index
 - unnamed lord beyond the door: no matching note found in the vault index
-- Varrow Forest: no matching note found in the vault index
-- Dandelion House: no matching note found in the vault index
 - unnamed elf organization: no matching note found in the vault index
 - dandelion crest: no matching note found in the vault index
 - cleaning bar: no matching note found in the vault index

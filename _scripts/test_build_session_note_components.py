@@ -8,6 +8,7 @@ import sys
 import tempfile
 import textwrap
 import unittest
+from unittest import mock
 from pathlib import Path
 
 
@@ -366,12 +367,17 @@ class SessionNoteComponentsTest(unittest.TestCase):
                 update=update,
             )
             note_index = components.VaultNoteIndex(vault, generated_root)
+            status_messages: list[str] = []
             slots = components.build_slots(
                 recap=recap,
                 note_index=note_index,
                 session_payload=session_payload,
                 campaign_slug="test-campaign",
                 display_metadata=TEST_DISPLAY_METADATA,
+                session_key=components.build_session_key(session_payload, fallback="session"),
+                session_dir=vault,
+                audio_output_root=vault / "Campaigns" / "Test Campaign" / "_generated" / "session-audio",
+                status_messages=status_messages,
             )
             components.write_component_file(
                 component_dir / "01-session-info.md",
@@ -397,7 +403,12 @@ class SessionNoteComponentsTest(unittest.TestCase):
                 overwrite=overwrite,
                 update=update,
             )
-            return subprocess.CompletedProcess(args=[str(SCRIPT_PATH)], returncode=0, stdout="", stderr="")
+            return subprocess.CompletedProcess(
+                args=[str(SCRIPT_PATH)],
+                returncode=0,
+                stdout="\n".join(status_messages),
+                stderr="",
+            )
         except Exception as exc:
             return subprocess.CompletedProcess(args=[str(SCRIPT_PATH)], returncode=1, stdout="", stderr=repr(exc))
 
@@ -418,6 +429,16 @@ class SessionNoteComponentsTest(unittest.TestCase):
             count=1,
             flags=re.DOTALL,
         )
+
+    def slot_body(self, text: str, slot_name: str) -> str:
+        match = re.search(
+            rf"<!-- SLOT: {re.escape(slot_name)} -->\n(?P<body>.*?)\n<!-- /SLOT -->",
+            text,
+            flags=re.DOTALL,
+        )
+        if match is None:
+            self.fail(f"Missing slot: {slot_name}")
+        return match.group("body")
 
     def test_parser_extracts_reviewed_recap_sections(self) -> None:
         recap = parse_session_recap(self.reviewed_recap_text())
@@ -564,7 +585,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertIn("<!-- SLOT: narrative.long -->", narrative_text)
         self.assertIn("The party descends into [[Zeyfa's Labyrinth]] with [[Kalima]]", narrative_text)
 
-    def test_builder_renders_images_pull_quotes_and_audio_from_recap(self) -> None:
+    def test_builder_renders_images_and_pull_quotes_but_no_audio_without_source(self) -> None:
         vault = self.make_workspace()
         recap_path = vault / "session-recap.md"
         recap_path.write_text(
@@ -625,12 +646,99 @@ class SessionNoteComponentsTest(unittest.TestCase):
         tech_text = (component_dir / "02-technical-updates.md").read_text(encoding="utf-8")
 
         self.assertIn("<!-- SLOT: session.pull_quotes -->\n> [!quote] Kalima\n> \"The maze remembers.\"", info_text)
-        self.assertIn("## Audio Highlights", info_text)
-        self.assertIn("- **Kalima explains the maze** (Kalima, u0010-u0040)", info_text)
-        self.assertIn("  - Clip output: `kalima-explains-the-maze.m4a`", info_text)
-        self.assertIn("Audio highlights: no source audio path found; clips were not cut.", tech_text)
-        self.assertIn("> [!image|right]\n> ![[zeyfa-labyrinth.jpg|400]]\n> *The first frozen fork.*", narrative_text)
-        self.assertIn("force the survivors to flee deeper into the maze.\n\n![[ambush.jpg|left|320]]", narrative_text)
+        self.assertIn("<!-- SLOT: session.audio_highlights -->\n<!-- /SLOT -->", info_text)
+        self.assertNotIn("## Audio Highlights", info_text)
+        self.assertNotIn("Audio highlights:", tech_text)
+        short_slot = self.slot_body(narrative_text, "narrative.short")
+        intermediate_slot = self.slot_body(narrative_text, "narrative.intermediate")
+        long_slot = self.slot_body(narrative_text, "narrative.long")
+        self.assertNotIn("zeyfa-labyrinth.jpg", short_slot)
+        self.assertNotIn("ambush.jpg", short_slot)
+        self.assertNotIn("zeyfa-labyrinth.jpg", intermediate_slot)
+        self.assertNotIn("ambush.jpg", intermediate_slot)
+        self.assertIn("> [!image|right]\n> ![[zeyfa-labyrinth.jpg|400]]\n> *The first frozen fork.*", long_slot)
+        self.assertIn("force the survivors to flee deeper into the maze.\n\n![[ambush.jpg|left|320]]", long_slot)
+
+    def test_builder_cuts_audio_and_renders_session_key_prefixed_clip_name(self) -> None:
+        vault = self.make_workspace()
+        audio_path = vault / "source.m4a"
+        audio_path.write_bytes(b"fake audio")
+        source_path = vault / "source.cleaned.md"
+        source_path.write_text(
+            textwrap.dedent(
+                """\
+                [u0010 | 00:01:00.000-00:01:03.000 | Kalima] The maze remembers.
+                [u0040 | 00:01:20.000-00:01:25.000 | Kalima] It opens only once.
+                """
+            ),
+            encoding="utf-8",
+        )
+        session_path = vault / "session.yaml"
+        session_path.write_text(
+            session_path.read_text(encoding="utf-8") + f"sourceAudioPath: {audio_path}\n",
+            encoding="utf-8",
+        )
+        recap_path = vault / "session-recap.md"
+        recap_path.write_text(
+            self.reviewed_recap_text().replace(
+                "- Cleaned Source: /tmp/source.cleaned.md",
+                f"- Cleaned Source: {source_path}",
+            )
+            + textwrap.dedent(
+                """\
+
+                ## Audio Highlights
+
+                - ID: audio-test-001
+                  - Title: Kalima explains the maze
+                  - Speaker: Kalima
+                  - Source Lines: u0010-u0040
+                  - Output: kalima-explains-the-maze.m4a
+                """
+            ),
+            encoding="utf-8",
+        )
+
+        with mock.patch.object(components.subprocess, "run") as run_mock:
+            run_mock.return_value = subprocess.CompletedProcess(args=[], returncode=0, stdout="", stderr="")
+            result = self.run_builder(vault)
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        component_dir = vault / "Campaigns" / "Test Campaign" / "_generated" / "session-notes" / "test-campaign-session-12"
+        info_text = (component_dir / "01-session-info.md").read_text(encoding="utf-8")
+        self.assertNotIn("## Audio Highlights", info_text)
+        self.assertIn(
+            "- **Kalima explains the maze:** ![[test-campaign-session-12-kalima-explains-the-maze.m4a]]",
+            info_text,
+        )
+        self.assertIn(
+            "Generated 1 audio clip(s) in",
+            result.stdout,
+        )
+        self.assertIn("test-campaign-session-12-kalima-explains-the-maze.m4a", result.stdout)
+
+        audio_output = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-audio"
+            / "test-campaign-session-12-kalima-explains-the-maze.m4a"
+        )
+        self.assertEqual(run_mock.call_count, 1)
+        command = run_mock.call_args.args[0]
+        self.assertEqual(command[0], "ffmpeg")
+        self.assertIn("-ss", command)
+        self.assertEqual(command[command.index("-ss") + 1], "60.000")
+        self.assertIn("-t", command)
+        self.assertEqual(command[command.index("-t") + 1], "25.000")
+        self.assertIn("-c:a", command)
+        self.assertEqual(command[command.index("-c:a") + 1], "aac")
+        self.assertIn("-b:a", command)
+        self.assertEqual(command[command.index("-b:a") + 1], "64k")
+        self.assertIn("-ac", command)
+        self.assertEqual(command[command.index("-ac") + 1], "1")
+        self.assertEqual(Path(command[-1]), audio_output)
 
     def test_base_note_uses_session_template_frontmatter_key(self) -> None:
         vault = self.make_workspace()

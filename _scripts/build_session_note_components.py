@@ -7,6 +7,7 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import subprocess
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
@@ -198,9 +199,12 @@ def main() -> int:
     display_metadata = load_display_metadata()
     args = parse_args(campaigns)
     canonical_slug, config = resolve_campaign(args.campaign, campaigns)
+    print(f"Building session components for {canonical_slug} session {args.session}.")
 
     session_manifest = find_session_manifest(canonical_slug, config, args.session)
     session_recap = derive_session_recap_path(session_manifest)
+    print(f"Using session manifest: {session_manifest}")
+    print(f"Using reviewed recap: {session_recap}")
     session_payload = read_yaml_mapping(session_manifest)
     recap_text = session_recap.read_text(encoding="utf-8")
     try:
@@ -209,6 +213,7 @@ def main() -> int:
         for error in exc.errors:
             print(f"ERROR: {error}")
         return 1
+    print("Parsed reviewed recap.")
 
     generated_root = (VAULT_ROOT / str(config["campaignRoot"]) / "_generated" / "session-notes").resolve()
     component_dir = generated_root / build_component_dir_name(session_payload, fallback=session_manifest.stem)
@@ -221,15 +226,30 @@ def main() -> int:
         return 1
 
     note_index = VaultNoteIndex(VAULT_ROOT, generated_root)
-    slots = build_slots(
-        recap=recap,
-        note_index=note_index,
-        session_payload=session_payload,
-        campaign_slug=canonical_slug,
-        display_metadata=display_metadata,
-    )
+    session_key = build_session_key(session_payload, fallback=session_manifest.stem)
+    audio_output_root = (VAULT_ROOT / str(config["campaignRoot"]) / "_generated" / "session-audio").resolve()
+    print(f"Building slots for session key: {session_key}")
+    status_messages: List[str] = []
+    try:
+        slots = build_slots(
+            recap=recap,
+            note_index=note_index,
+            session_payload=session_payload,
+            campaign_slug=canonical_slug,
+            display_metadata=display_metadata,
+            session_key=session_key,
+            session_dir=session_manifest.parent,
+            audio_output_root=audio_output_root,
+            status_messages=status_messages,
+        )
+    except ComponentSlotParseError as exc:
+        print(f"ERROR: {exc}")
+        return 1
+    for message in status_messages:
+        print(message)
 
     try:
+        print(f"Writing component files to: {component_dir}")
         for filename, title, slot_key in COMPONENT_SPECS:
             path = component_dir / filename
             write_component_file(
@@ -249,7 +269,7 @@ def main() -> int:
     note_filename = render_note_filename(str(config["notePattern"]), args.session)
     note_path = note_root / note_filename
     template_name = str(config.get("defaultTemplate") or "composable-session-note.md").strip()
-    session_key = build_session_key(session_payload, fallback=session_manifest.stem)
+    print(f"Ensuring base session note: {note_path}")
     status = ensure_base_note(note_path=note_path, session_key=session_key, template_name=template_name)
     print(f"{status} {note_path}")
     return 0
@@ -951,6 +971,10 @@ def build_slots(
     session_payload: Dict[str, Any],
     campaign_slug: str,
     display_metadata: Dict[str, Any],
+    session_key: Optional[str] = None,
+    session_dir: Optional[Path] = None,
+    audio_output_root: Optional[Path] = None,
+    status_messages: Optional[List[str]] = None,
 ) -> Dict[str, Dict[str, str]]:
     review_lines: List[str] = []
     info_slots: Dict[str, str] = {}
@@ -963,12 +987,32 @@ def build_slots(
     info_slots["session.tagline"] = header.get("Tagline", "")
     info_slots["session.summary"] = header.get("One-Sentence Summary", "")
     info_slots["session.pull_quotes"] = render_pull_quotes_slot(recap["pullQuotes"])
-    audio_source = resolve_audio_source_path(session_payload)
-    if recap["audioHighlights"] and audio_source is None:
-        review_lines.append("- Audio highlights: no source audio path found; clips were not cut.")
+    audio_source = resolve_audio_source_path(session_payload, base_dir=session_dir)
+    rendered_audio_highlights: List[Dict[str, str]] = []
+    if not recap["audioHighlights"]:
+        if status_messages is not None:
+            status_messages.append("No audio highlights to generate.")
+    elif audio_source is None:
+        if status_messages is not None:
+            status_messages.append("Skipped audio highlights: session.yaml has no sourceAudioPath.")
+    else:
+        if audio_output_root is None:
+            raise ComponentSlotParseError("Audio highlights require an audio output root.")
+        rendered_audio_highlights = build_audio_highlight_clips(
+            recap=recap,
+            entries=recap["audioHighlights"],
+            source_audio=audio_source,
+            output_root=audio_output_root,
+            session_key=session_key or build_session_key(session_payload, fallback="session"),
+            base_dir=session_dir,
+        )
+        if status_messages is not None:
+            outputs = ", ".join(entry["Output"] for entry in rendered_audio_highlights)
+            status_messages.append(
+                f"Generated {len(rendered_audio_highlights)} audio clip(s) in {audio_output_root}: {outputs}"
+            )
     info_slots["session.audio_highlights"] = render_audio_highlights_slot(
-        recap["audioHighlights"],
-        audio_source_available=audio_source is not None,
+        rendered_audio_highlights,
     )
     info_slots["session.dm"] = header.get("DM", "")
     info_slots["session.pcs"] = render_inline_csv_as_bullets(header.get("PCs", ""))
@@ -1144,10 +1188,10 @@ def render_pull_quotes_slot(entries: Sequence[Dict[str, str]]) -> str:
     return "\n\n".join(blocks).strip()
 
 
-def render_audio_highlights_slot(entries: Sequence[Dict[str, str]], *, audio_source_available: bool) -> str:
+def render_audio_highlights_slot(entries: Sequence[Dict[str, str]]) -> str:
     if not entries:
         return ""
-    lines = ["## Audio Highlights", ""]
+    lines = []
     for entry in entries:
         title = (
             normalize_optional_string(entry.get("Title"))
@@ -1155,28 +1199,170 @@ def render_audio_highlights_slot(entries: Sequence[Dict[str, str]], *, audio_sou
             or normalize_optional_string(entry.get("ID"))
             or "Audio highlight"
         )
-        speaker = normalize_optional_string(entry.get("Speaker"))
-        source_lines = normalize_optional_string(entry.get("Source Lines"))
         output = normalize_optional_string(entry.get("Output"))
-        details = ", ".join(part for part in (speaker, source_lines) if part)
-        suffix = f" ({details})" if details else ""
-        lines.append(f"- **{title}**{suffix}")
         if output:
-            if audio_source_available:
-                lines.append(f"  - Clip: ![[{output}]]")
-            else:
-                lines.append(f"  - Clip output: `{output}`")
-        if not audio_source_available:
-            lines.append("  - Audio source path missing; clip not generated.")
+            lines.append(f"- **{title}:** ![[{output}]]")
     return "\n".join(lines).strip()
 
 
-def resolve_audio_source_path(session_payload: Dict[str, Any]) -> Optional[str]:
-    for key in ("sourceAudioPath", "audioPath", "recordingPath"):
-        value = normalize_optional_string(session_payload.get(key))
-        if value:
-            return value
-    return None
+def resolve_audio_source_path(session_payload: Dict[str, Any], *, base_dir: Optional[Path]) -> Optional[Path]:
+    value = normalize_optional_string(session_payload.get("sourceAudioPath"))
+    if value is None:
+        return None
+    path = Path(value).expanduser()
+    if not path.is_absolute() and base_dir is not None:
+        path = base_dir / path
+    path = path.resolve()
+    if not path.exists():
+        raise ComponentSlotParseError(f"sourceAudioPath file not found: {path}")
+    if not path.is_file():
+        raise ComponentSlotParseError(f"sourceAudioPath is not a file: {path}")
+    return path
+
+
+def build_audio_highlight_clips(
+    *,
+    recap: Dict[str, Any],
+    entries: Sequence[Dict[str, str]],
+    source_audio: Path,
+    output_root: Path,
+    session_key: str,
+    base_dir: Optional[Path],
+) -> List[Dict[str, str]]:
+    cleaned_source = resolve_cleaned_source_path(recap, base_dir=base_dir)
+    timestamps = read_source_line_timestamps(cleaned_source)
+    output_root.mkdir(parents=True, exist_ok=True)
+    rendered_entries: List[Dict[str, str]] = []
+    for entry in entries:
+        entry_id = normalize_optional_string(entry.get("ID")) or "audio"
+        source_lines = normalize_optional_string(entry.get("Source Lines"))
+        if source_lines is None:
+            raise ComponentSlotParseError(f"Audio highlight {entry_id} is missing Source Lines.")
+        start_uid, end_uid = parse_source_line_range(source_lines)
+        if start_uid not in timestamps:
+            raise ComponentSlotParseError(f"Audio highlight {entry_id} references missing source line {start_uid}.")
+        if end_uid not in timestamps:
+            raise ComponentSlotParseError(f"Audio highlight {entry_id} references missing source line {end_uid}.")
+        start_seconds = timestamps[start_uid][0]
+        end_seconds = timestamps[end_uid][1]
+        if end_seconds <= start_seconds:
+            raise ComponentSlotParseError(
+                f"Audio highlight {entry_id} has a non-positive duration: {source_lines}."
+            )
+        output_name = prefixed_audio_output_name(session_key, entry)
+        output_path = output_root / output_name
+        extract_audio_clip(source_audio, output_path, start_seconds, end_seconds)
+        rendered = dict(entry)
+        rendered["Output"] = output_name
+        rendered_entries.append(rendered)
+    return rendered_entries
+
+
+def resolve_cleaned_source_path(recap: Dict[str, Any], *, base_dir: Optional[Path]) -> Path:
+    source_files = recap.get("sourceFiles", {})
+    if not isinstance(source_files, dict):
+        source_files = {}
+    value = normalize_optional_string(source_files.get("Cleaned Source"))
+    if value is None:
+        raise ComponentSlotParseError("Audio highlights require Source Files / Cleaned Source in session-recap.md.")
+    path = Path(value).expanduser()
+    if not path.is_absolute() and base_dir is not None:
+        path = base_dir / path
+    path = path.resolve()
+    if not path.exists():
+        raise ComponentSlotParseError(f"Cleaned Source file not found: {path}")
+    if not path.is_file():
+        raise ComponentSlotParseError(f"Cleaned Source is not a file: {path}")
+    return path
+
+
+SOURCE_TIMESTAMP_RE = re.compile(
+    r"^\[(?P<uid>u\d{4,})\s*\|\s*(?P<start>[0-9:.]+)\s*-\s*(?P<end>[0-9:.]+)\s*\|"
+)
+
+
+def read_source_line_timestamps(path: Path) -> Dict[str, Tuple[float, float]]:
+    timestamps: Dict[str, Tuple[float, float]] = {}
+    for line_number, raw in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
+        if not raw.strip():
+            continue
+        match = SOURCE_TIMESTAMP_RE.match(raw)
+        if not match:
+            continue
+        timestamps[match.group("uid")] = (
+            parse_timestamp_seconds(match.group("start")),
+            parse_timestamp_seconds(match.group("end")),
+        )
+    if not timestamps:
+        raise ComponentSlotParseError(f"Cleaned Source has no timestamped UID lines: {path}")
+    return timestamps
+
+
+SOURCE_RANGE_RE = re.compile(r"\b(?P<start>u\d{4,})(?:\s*(?:->|to|-)\s*(?P<end>u\d{4,}))?\b")
+
+
+def parse_source_line_range(value: str) -> Tuple[str, str]:
+    match = SOURCE_RANGE_RE.search(value.strip())
+    if not match:
+        raise ComponentSlotParseError(f"Invalid audio Source Lines value: {value}")
+    start_uid = match.group("start")
+    end_uid = match.group("end") or start_uid
+    return start_uid, end_uid
+
+
+def parse_timestamp_seconds(value: str) -> float:
+    parts = value.strip().split(":")
+    if len(parts) not in {2, 3}:
+        raise ComponentSlotParseError(f"Invalid timestamp value: {value}")
+    try:
+        seconds = float(parts[-1])
+        minutes = int(parts[-2])
+        hours = int(parts[-3]) if len(parts) == 3 else 0
+    except ValueError as exc:
+        raise ComponentSlotParseError(f"Invalid timestamp value: {value}") from exc
+    return hours * 3600 + minutes * 60 + seconds
+
+
+def prefixed_audio_output_name(session_key: str, entry: Dict[str, str]) -> str:
+    output = normalize_optional_string(entry.get("Output"))
+    if output is None:
+        entry_id = normalize_optional_string(entry.get("ID")) or "audio"
+        output = f"{entry_id}.m4a"
+    basename = Path(output).name
+    clean_session_key = slugify_text(session_key)
+    if basename.startswith(f"{clean_session_key}-"):
+        return basename
+    return f"{clean_session_key}-{basename}"
+
+
+def extract_audio_clip(source_audio: Path, output_path: Path, start_seconds: float, end_seconds: float) -> None:
+    duration_seconds = end_seconds - start_seconds
+    command = [
+        "ffmpeg",
+        "-y",
+        "-hide_banner",
+        "-loglevel",
+        "error",
+        "-ss",
+        f"{start_seconds:.3f}",
+        "-i",
+        str(source_audio),
+        "-t",
+        f"{duration_seconds:.3f}",
+        "-vn",
+        # Session highlights are speech clips; mono AAC keeps them small without getting brittle.
+        "-c:a",
+        "aac",
+        "-b:a",
+        "64k",
+        "-ac",
+        "1",
+        str(output_path),
+    ]
+    result = subprocess.run(command, capture_output=True, text=True, check=False)
+    if result.returncode != 0:
+        detail = (result.stderr or result.stdout or "ffmpeg failed").strip()
+        raise ComponentSlotParseError(f"Failed to create audio clip {output_path}: {detail}")
 
 
 def build_party_whereabouts_slot(final_timeline: Optional[Dict[str, Any]]) -> str:
@@ -1274,12 +1460,13 @@ def render_review_lines(lines: Sequence[str]) -> str:
 
 def render_narrative_zoom(recap_blocks: Sequence[Dict[str, Any]], field_name: str) -> str:
     parts: List[str] = []
+    include_images = field_name == "long"
     for block in recap_blocks:
         body = normalize_optional_string(block.get(field_name))
         if body is None:
             continue
-        start_images = render_recap_images(block, placement="start")
-        end_images = render_recap_images(block, placement="end")
+        start_images = render_recap_images(block, placement="start") if include_images else ""
+        end_images = render_recap_images(block, placement="end") if include_images else ""
         section_parts = [part for part in (start_images, body, end_images) if part]
         parts.append("\n\n".join(section_parts))
     return "\n\n".join(parts).strip()
