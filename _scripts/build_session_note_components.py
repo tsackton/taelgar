@@ -1208,7 +1208,7 @@ def strip_matching_quotes(value: str) -> str:
 def render_audio_highlights_slot(entries: Sequence[Dict[str, str]]) -> str:
     if not entries:
         return ""
-    lines = []
+    blocks = []
     for entry in entries:
         title = (
             normalize_optional_string(entry.get("Title"))
@@ -1218,8 +1218,8 @@ def render_audio_highlights_slot(entries: Sequence[Dict[str, str]]) -> str:
         )
         output = normalize_optional_string(entry.get("Output"))
         if output:
-            lines.append(f"- **{title}:** ![[{output}]]")
-    return "\n".join(lines).strip()
+            blocks.append(f"**{title}:** \n![[{output}]]")
+    return "\n\n".join(blocks).strip()
 
 
 def resolve_audio_source_path(session_payload: Dict[str, Any], *, base_dir: Optional[Path]) -> Optional[Path]:

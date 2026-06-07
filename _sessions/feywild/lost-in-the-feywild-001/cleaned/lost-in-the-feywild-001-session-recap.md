@@ -288,7 +288,7 @@ Before dawn, the grandfather clock wakes them and Alden collects them from their
 - Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-beat-facts.json
 - Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md
 
-## Pull Quotes
+## Pull Quotes - KEEP
 
 - ID: quote-B05-001
   - Quote: "Locked in a room in the basement is the doom of the house."
@@ -300,7 +300,7 @@ Before dawn, the grandfather clock wakes them and Alden collects them from their
   - Speaker: Kaito Min
   - Source Lines: u2070
 
-## Audio Highlights
+## Audio Highlights - KEEP
 
 - ID: audio-002
   - Title: Lord Holda recounts his adventuring life and the bargain tied to the treaty beyond the basement door
