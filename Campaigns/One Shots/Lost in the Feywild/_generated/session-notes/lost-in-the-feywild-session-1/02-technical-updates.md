@@ -34,10 +34,6 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 
 <!-- SLOT: updates.review -->
 - [[Mossfoot ]](companion): no matching note found in the vault index
-- unnamed elf patron: no matching note found in the vault index
-- ettin: no matching note found in the vault index
-- unnamed elf archivist: no matching note found in the vault index
-- unnamed lord beyond the door: no matching note found in the vault index
 - unnamed elf organization: no matching note found in the vault index
 - dandelion crest: no matching note found in the vault index
 - cleaning bar: no matching note found in the vault index

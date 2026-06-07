@@ -18,7 +18,7 @@ tagline: "{session.tagline}"
 
 {session.summary}
 
-### Audio Highlights
+## Audio Highlights
 
 {session.audio_highlights}
 

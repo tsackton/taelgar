@@ -5,8 +5,8 @@ campaign: Lost in the Feywild
 DR: 1740-10-03
 DR_end: 1740-10-03
 realWorldDate: 2026-05-14
-descTitle: Welcome to Dandelion House
-tagline: in which the party enters a mysterious tunnel
+descTitle: "Welcome to Dandelion House"
+tagline: "in which the party enters a mysterious tunnel"
 sessionKey: lost-in-the-feywild-session-1
 session-template: feywild-template.md
 ---
@@ -20,10 +20,10 @@ session-template: feywild-template.md
 
 The party follows [[Alden]] to [[Dandelion House]], where they accept Lord Holda's deal to end a mysterious treaty with an entity beyond a hidden door in exchange for promises of wealth and treasure, but find themselves sealed in a strange passage.
 
-### Audio Highlights
+## Audio Highlights
 
-- **Lord Holda recounts his adventuring life and the bargain tied to the treaty beyond the basement door.:** ![[lost-in-the-feywild-session-1-audio-002.m4a]]
-- **The party descends through the manor basement into the root-covered lower cellar where Holda waits by the hidden door.:** ![[lost-in-the-feywild-session-1-audio-003.m4a]]
+- **Lord Holda recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** ![[lost-in-the-feywild-session-1-audio-002.m4a]]
+- **The party descends through the manor basement into the root-covered lower cellar where Holda waits by the hidden door:** ![[lost-in-the-feywild-session-1-audio-003.m4a]]
 
 ## Timeline
 
@@ -33,6 +33,7 @@ The party follows [[Alden]] to [[Dandelion House]], where they accept Lord Holda
 - (DR:: 1740-10-05), dawn: The party enters the basement root tunnel, and is sealed inside.
 
 ## Narrative
+
 > [!image|right]
 > ![[varrow-forest.jpg|400]]
 > *Walking through [[Varrow Forest]]*
@@ -77,12 +78,8 @@ Before dawn, the grandfather clock wakes them and [[Alden]] collects them from t
 - [[Colden]] (he/him, human): Alden's cousin, at the manor.
 - [[Mossfoot ]](companion): Edric's pony.
 - [[Lord Holda]] (he/him, Sembaran human): lord of [[Dandelion House]], former adventurer, and mysterious quest-giver.
-- unnamed elf patron: patron of the previous job.
-- ettin: enemy from the previous job.
-- unnamed elf archivist: deliverer of the deed.
-- unnamed lord beyond the door: target of the treaty negotiation.
 
 ## Places
 
-- [[Varrow Forest]] (forest in [[Sembara]], [[Greater Sembara]]): old forest west of Tollen where the party camps, paths fade, wildlife quiets, and [[Alden]] leads the party toward [[Dandelion House]]. Session context includes: campfire on the last night before reaching [[Dandelion House]]; long day's hike through increasingly trackless forest.
-- [[Dandelion House]] (manor house in the [[Varrow Forest]], [[Sembara]]): ancient preserved manor and overgrown estate claimed by [[Lord Holda]], beautiful and decrepit in equal measure. Session context includes: grounds, entry hall, upper floors, observatory, kitchen, guest quarters, basement, root cellar, and and hidden root tunnel.
+- [[Varrow Forest]] (forest in [[Sembara]], [[Greater Sembara]]): old forest west of Tollen that the party travels through to reach [[Dandelion House]]. Session context includes: campfire; long day's hike through increasingly trackless forest.
+- [[Dandelion House]] (manor house in the [[Varrow Forest]], [[Sembara]]): ancient preserved manor and overgrown estate claimed by [[Lord Holda]], beautiful and decrepit in equal measure. Session context includes: grounds, entry hall, upper floors, kitchen, guest quarters, basement, root cellar, and and hidden root tunnel.

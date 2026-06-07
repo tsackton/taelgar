@@ -94,15 +94,11 @@ Thursday, May 14, 2026
 - [[Colden]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): Alden's cousin, at the manor.
 - [[Mossfoot ]](companion): Edric's pony.
 - [[Lord Holda]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): lord of [[Dandelion House]], former adventurer, and mysterious quest-giver.
-- unnamed elf patron: patron of the previous job.
-- ettin: enemy from the previous job.
-- unnamed elf archivist: deliverer of the deed.
-- unnamed lord beyond the door: target of the treaty negotiation.
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->
-- [[Varrow Forest]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): old forest west of Tollen where the party camps, paths fade, wildlife quiets, and [[Alden]] leads the party toward [[Dandelion House]]. Session context includes: campfire on the last night before reaching [[Dandelion House]]; long day's hike through increasingly trackless forest.
-- [[Dandelion House]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): ancient preserved manor and overgrown estate claimed by [[Lord Holda]], beautiful and decrepit in equal measure. Session context includes: grounds, entry hall, upper floors, observatory, kitchen, guest quarters, basement, root cellar, and and hidden root tunnel.
+- [[Varrow Forest]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): old forest west of Tollen that the party travels through to reach [[Dandelion House]]. Session context includes: campfire; long day's hike through increasingly trackless forest.
+- [[Dandelion House]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): ancient preserved manor and overgrown estate claimed by [[Lord Holda]], beautiful and decrepit in equal measure. Session context includes: grounds, entry hall, upper floors, kitchen, guest quarters, basement, root cellar, and and hidden root tunnel.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->

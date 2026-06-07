@@ -229,20 +229,17 @@ Before dawn, the grandfather clock wakes them and Alden collects them from their
 - [[Lord Holda]] (met): lord of Dandelion House, former adventurer, and mysterious quest-giver
   - Dandelion House, 1740-10-04
   - Dandelion House, 1740-10-05
-- unnamed elf patron (mentioned): patron of the previous job
-- ettin (mentioned): enemy from the previous job
-- unnamed elf archivist (mentioned): deliverer of the deed
-- unnamed lord beyond the door (mentioned): target of the treaty negotiation
+
 
 ## Locations
 
 - [[Varrow Forest]]
-  - Summary: old forest west of Tollen where the party camps, paths fade, wildlife quiets, and Alden leads the party toward Dandelion House
-  - Sublocations: campfire on the last night before reaching Dandelion House; long day's hike through increasingly trackless forest
+  - Summary: old forest west of Tollen that the party travels through to reach Dandelion House
+  - Sublocations: campfire; long day's hike through increasingly trackless forest
   - Date Visited: 1740-10-03 to 1740-10-04
 - [[Dandelion House]]
   - Summary: ancient preserved manor and overgrown estate claimed by Lord Holda, beautiful and decrepit in equal measure
-  - Sublocations: grounds, entry hall, upper floors, observatory, kitchen, guest quarters, basement, root cellar, and hidden root tunnel
+  - Sublocations: grounds, entry hall, upper floors, kitchen, guest quarters, basement, root cellar, and hidden root tunnel
   - Date Visited: 1740-10-04 to 1740-10-05
 
 ## Organizations And Items
