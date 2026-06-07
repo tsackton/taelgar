@@ -458,7 +458,6 @@ async function main() {
 
     const report = await waitForReport(reportPath, request.id);
     await progressMonitor.stop();
-    console.log(JSON.stringify(summarizeReport(report), null, 2));
     process.exitCode = report.exitCode || 0;
   } finally {
     await progressMonitor.stop();

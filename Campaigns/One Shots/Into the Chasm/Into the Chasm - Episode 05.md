@@ -29,7 +29,7 @@ session-template: into-the-chasm-template.md
 
 The party descends from Eidrikas's broken platform into the suspended chasm mechanism, bypasses a damaged custodian and lightning-filled conduit, and kills the Thark-marked god caller in the ruined chamber below.
 
-# Timeline
+## Timeline
 
 - (DR:: 1730-01-29), afternoon: Jan 29th, 1730, afternoon: [[Eidrikas]] sends the party below, where they kill the Thark-marked god caller in the ruined lower chamber.
 

@@ -23,7 +23,7 @@ session-template: lablost-template.md
 
 The party descends into [[Grimstone's Lair|Grimstone's lair]] beneath [[Perdoli Manor]], destroys undead pirates, bluffs and kills a human guard, and finally defeats [[Grimstone]] and his stone constructs.
 
-# Timeline
+## Timeline
 
 - (DR:: 1748-10-18): The party descends below [[Perdoli Manor]], destroys undead pirates and a guard, defeats [[Grimstone]] and his stone constructs, and strips the laboratory of research and treasure.
 - (DR:: 1748-10-19), morning: The party escapes [[Perdoli Manor]], and parts ways on the road.

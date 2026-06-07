@@ -24,7 +24,7 @@ session-template: lablost-template.md
 
 Four prisoners break out of a smithy cell on the grounds of [[Perdoli Manor]], kill two groups of goblin guards, capture [[Folcan]], and learn about [[Grimstone]], the leader of the kidnapping ring.
 
-# Timeline
+## Timeline
 
 - (DR:: 1748-10-17): [[Labyrinth Prisoners|Four prisoners]] break out of their smithy cell, kill two goblin groups, capture the goblin leader [[Folcan]], and learn of tunnel routes into the [[Perdoli Manor|manor]].
 

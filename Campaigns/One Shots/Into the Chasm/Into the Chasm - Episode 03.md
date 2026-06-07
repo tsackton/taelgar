@@ -30,7 +30,7 @@ session-template: into-the-chasm-template.md
 
 The party kills the shaggy white beast, escapes [[Zeyfa's Labyrinth]] through a new earthen passage, shelters with Kalima's family in [[Melusa]], and discovers the Ice Palace moving against the village.
 
-# Timeline
+## Timeline
 
 - (DR:: 1730-01-25), afternoon: The party kills the shaggy white beast, escapes [[Zeyfa's Labyrinth]], and follows [[Kalima]] into [[Melusa]].
 - (DR:: 1730-01-25), evening: [[Nura]] and [[Khaled]] shelter the party and explain Melusa's life of endurance, sacrifice, and half-remembered [[Kestavo]].

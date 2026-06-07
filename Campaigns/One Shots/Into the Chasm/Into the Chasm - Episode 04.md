@@ -30,7 +30,7 @@ session-template: into-the-chasm-template.md
 
 After [[Kalima]] disappears into Zahara's care, the party confronts Malquin for passage out of [[Melusa]] and finds [[Eidrikas]] holding the broken chasm mechanism together in the true [[Great Chasm]].
 
-# Timeline
+## Timeline
 
 - (DR:: 1730-01-26) - (DR_end:: 1730-01-27), night: [[Kalima]] leaves [[Melusa]] under Zahara's cover while Malquin's guards search the village.
 - (DR:: 1730-01-27), morning: [[Samir]] reveals Taquin's memories before the party chooses a direct challenge to Malquin.

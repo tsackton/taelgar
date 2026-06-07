@@ -30,7 +30,7 @@ session-template: into-the-chasm-template.md
 
 Drawn by omens around the [[Great Chasm]], five adventurers and a terrified Zimkovan woman are torn from the world by an impossible ice storm and awaken on a lone platform in [[Zeyfa's Labyrinth|Zeyfa’s Labyrinth]], where ice wolves, wind-shaped shades, and chasm wisps test their resolve before they choose to leap into a maze that may be the only way out.
 
-# Timeline
+## Timeline
 
 - (DR:: 1729), August: An orcish horde lead by a fierce orc warrior calling herself the [[Ravager of Winter]] roars out of the [[Sentinel Range|Sentinels]] and across northern [[Zimkova]]
 - (DR:: 1729-08-28): An army of dwarves from [[Nidzahar]] and a substantial [[Stoneborn]] company defeat the Ravager in the forests east of the [[Berze]]
