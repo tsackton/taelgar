@@ -24,14 +24,12 @@ The party follows [[Alden]] to [[Dandelion House]], where they accept Lord Holda
 <!-- SLOT: session.pull_quotes -->
 > [!quote] %% NO TITLE %%
 > *Locked in a room in the basement is the doom of the house.* - Lord Holda
-> ...
 > *What could go wrong?* - Kaito Min
-
 <!-- /SLOT -->
 
 <!-- SLOT: session.audio_highlights -->
-- **Lord Holda recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** ![[lost-in-the-feywild-session-1-audio-002.m4a]]
-- **The party descends through the manor basement into the root-covered lower cellar where Holda waits by the hidden door:** ![[lost-in-the-feywild-session-1-audio-003.m4a]]
+- **Lord Holda recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** ![[assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-002.m4a]]
+- **The party descends through the manor basement into the root-covered lower cellar where Holda waits by the hidden door:** ![[assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-003.m4a]]
 <!-- /SLOT -->
 
 <!-- SLOT: session.dm -->

@@ -376,7 +376,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
                 display_metadata=TEST_DISPLAY_METADATA,
                 session_key=components.build_session_key(session_payload, fallback="session"),
                 session_dir=vault,
-                audio_output_root=vault / "Campaigns" / "Test Campaign" / "_generated" / "session-audio",
+                audio_output_root=vault / "assets" / "session-audio" / "test-campaign-session-12",
                 status_messages=status_messages,
             )
             components.write_component_file(
@@ -724,7 +724,9 @@ class SessionNoteComponentsTest(unittest.TestCase):
         info_text = (component_dir / "01-session-info.md").read_text(encoding="utf-8")
         self.assertNotIn("## Audio Highlights", info_text)
         self.assertIn(
-            "- **Kalima explains the maze:** ![[test-campaign-session-12-kalima-explains-the-maze.m4a]]",
+            "- **Kalima explains the maze:** "
+            "![[assets/session-audio/test-campaign-session-12/"
+            "test-campaign-session-12-kalima-explains-the-maze.m4a]]",
             info_text,
         )
         self.assertIn(
@@ -735,15 +737,14 @@ class SessionNoteComponentsTest(unittest.TestCase):
 
         audio_output = (
             vault
-            / "Campaigns"
-            / "Test Campaign"
-            / "_generated"
+            / "assets"
             / "session-audio"
+            / "test-campaign-session-12"
             / "test-campaign-session-12-kalima-explains-the-maze.m4a"
         )
         self.assertEqual(run_mock.call_count, 1)
         command = run_mock.call_args.args[0]
-        self.assertEqual(command[0], "ffmpeg")
+        self.assertEqual(Path(command[0]).name, "ffmpeg")
         self.assertIn("-ss", command)
         self.assertEqual(command[command.index("-ss") + 1], "60.000")
         self.assertIn("-t", command)
