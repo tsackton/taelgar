@@ -1,8 +1,3 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 # Session Recap
 
 ## Session Header
@@ -108,6 +103,7 @@ Before dawn, Alden leads the party below the manor to a root-covered cellar wher
 - Organizations: none
 - Items: none
 - Enemies: none
+- Image: varrow-forest.jpg
 
 #### Short
 We begin with the party camped west of Tollen with Alden. Over dinner they reminisce about how they met, and tell stories of their last job together. Alden speaks of his deep attachment to Dandelion House, before the night passes uneventfully.
@@ -135,6 +131,7 @@ Alden then speaks of Dandelion House with rapturous but genuine emotion -- Kaito
 - Organizations: none
 - Items: dandelion crest
 - Enemies: none
+- Image: dandelion-house.jpg
 
 #### Short
 In the morning, Alden leads the party through the increasingly trackless forest to the overgrown manor grounds. Inside the unsettling yet grand house, they meet Lord Holda and gather in the kitchen.
@@ -193,6 +190,7 @@ After Holda leaves them, Tarek reads the Sembaran document again and senses that
 - Organizations: none
 - Items: gold key, hidden door
 - Enemies: none
+- Image: the-door-in-the-floor.jpg
 
 #### Short
 Before dawn, Alden and Holda guide them below the manor, where they enter the hidden door into an enormous root tunnel. As the party walks forward, Holda closes the door behind them.

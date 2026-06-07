@@ -1,7 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
+# recap-001 | Campfire Tales
 
 - Recap Block: recap-001
 - Beat IDs: B01, B02

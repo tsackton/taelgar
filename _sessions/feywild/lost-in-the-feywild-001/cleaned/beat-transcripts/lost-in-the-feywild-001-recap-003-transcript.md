@@ -1,7 +1,4 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
+# recap-003 | The Journey to Dandelion House
 
 - Recap Block: recap-003
 - Beat IDs: B03, B04
