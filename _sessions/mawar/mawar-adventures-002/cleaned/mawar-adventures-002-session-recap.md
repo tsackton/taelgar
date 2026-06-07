@@ -117,6 +117,7 @@ Azar leaves Hamri for the [[Lizardfolk]] village to the south, traveling with Be
 - Date: 1747-08-03
 - Time: evening
 - Source Range: u0001 -> u0505
+- Polished Transcript: beat-transcripts/mawar-adventures-002-recap-001-transcript.md
 - Locations: Hamri
 - NPCs: none
 - Organizations: none
@@ -139,6 +140,7 @@ At the Leviathan, Wazir finally lays out what he has learned from [[The Ciphered
 - Date: 1747-08-04
 - Time: morning
 - Source Range: u0506 -> u0960
+- Polished Transcript: beat-transcripts/mawar-adventures-002-recap-002-transcript.md
 - Locations: North Cliffs
 - NPCs: none
 - Organizations: none
@@ -161,6 +163,7 @@ The next morning, the group climbs to Airion's ruined tower in the North Cliffs,
 - Date: 1747-08-04
 - Time: morning
 - Source Range: u0961 -> u1380
+- Polished Transcript: beat-transcripts/mawar-adventures-002-recap-003-transcript.md
 - Locations: Hamri
 - NPCs: Jaeson, Samar, Reliah, Orden
 - Organizations: none
@@ -183,6 +186,7 @@ Seeking more information, the party fans out across Hamri for local witnesses. R
 - Date: 1747-08-04
 - Time: afternoon
 - Source Range: u1381 -> u1891
+- Polished Transcript: beat-transcripts/mawar-adventures-002-recap-004-transcript.md
 - Locations: Hamri
 - NPCs: Benat, Ovina, Sulfi's servant
 - Organizations: none
@@ -205,6 +209,7 @@ Around midday, the party regroups at the fish market and learns from Benat that 
 - Date: 1747-08-04
 - Time: unknown
 - Source Range: u1892 -> u2419
+- Polished Transcript: beat-transcripts/mawar-adventures-002-recap-005-transcript.md
 - Locations: Hamri
 - NPCs: Yaz, Ovina
 - Organizations: none
@@ -227,6 +232,7 @@ In the late afternoon, the party regroups at Shark's Dock. Wazir tests the disma
 - Date: 1747-08-05
 - Time: morning
 - Source Range: u2420 -> u2739
+- Polished Transcript: beat-transcripts/mawar-adventures-002-recap-006-transcript.md
 - Locations: Hamri
 - NPCs: Azar the Lost, Ovina
 - Organizations: none
@@ -249,6 +255,7 @@ At dawn, the party waits around Shark's Dock while Ryu watches the harbor and sp
 - Date: 1747-08-05
 - Time: morning
 - Source Range: u2740 -> u3446
+- Polished Transcript: beat-transcripts/mawar-adventures-002-recap-007-transcript.md
 - Locations: Hamri
 - NPCs: Azar the Lost, drowned servant, townsfolk bystander
 - Organizations: none
@@ -271,6 +278,7 @@ The failed parley turns violent as Azar throws black tentacles across Shark's Do
 - Date: 1747-08-05 to 1747-08-09
 - Time: unknown
 - Source Range: u3447 -> u3597
+- Polished Transcript: beat-transcripts/mawar-adventures-002-recap-008-transcript.md
 - Locations: Hamri
 - NPCs: Azar the Lost, Sefa, drowned zombies
 - Organizations: none

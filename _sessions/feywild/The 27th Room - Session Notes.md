@@ -1,8 +1,12 @@
+### Campfire Tales
+
 The group travels west from Tollen guided by Alden -- a small, stout, pale human with a curiosity about the party and a phobia of fire -- to an old property at the edge of the wilderness recently inherited by a longtime adventurer.
 
-The group is a found-family band of misfits: skeptical, generous, opportunistic, anxious, and fond of one another. Around the campfire, Txarro prepares fish and recalls being rescued from tree blights by Kaito and Tarek; Kaito and Tarek sketch out their carny and pickpocket routines; Edric's awkward generosity and faith in the Night Queen come into focus; and Ayveen frames the party as people who can make the world brighter. They each tell a different version of their last job: Kaito remembers profit and clean clothes; Edric remembers enemies who ran instead of dying; Tarek remembers salvage; Txarro remembers becoming a tiger; and Ayveen sees teamwork.
+The group is a found-family band of misfits: skeptical, generous, opportunistic, anxious, and fond of one another. Around the campfire, Txarro prepares fish and recalls being rescued from tree blights by Kaito and Tarek; Kaito and Tarek sketch out their carny and pickpocket routines; Edric's awkward generosity and faith in the Night Queen come into focus; and Ayveen frames the party as people who can make the world brighter. 
 
-The Journey to Dandelion House:
+They each tell a different version of their last job: Kaito remembers profit and clean clothes; Edric remembers enemies who ran instead of dying; Tarek remembers salvage; Txarro remembers becoming a tiger; and Ayveen sees teamwork. 
+
+### The Journey to Dandelion House
  
 Alden speaks of Dandelion House with rapturous but genuine emotion -- Kaito's surreptitious Detect Thoughts spell finds joy, delight, longing, and nostalgia. Morning brings a long march through ancient forest. The trail slowly fades away, the forest grows quieter, the shadows gather. Just before sunset, the party passes through a ruined gate and over barely-visible remnants of an ancient wall and moat long since swallowed by forest. The forest opens into a wildly overgrown field and the House itself, blazing bright in the last light of day.
 
@@ -10,7 +14,7 @@ Dandelion House is a marvel of late-Drankorian architecture -- at least 700 year
 
 Alden warns that Lord Holda is proud, difficult, and desperate for Dandelion House to become the estate he has always wanted. They meet Holda on the upper floor: a scarred adventurer in his late 40s, watching the fading light, sinking into shadow. Holda leads them down to 
 
-Holda's Story:
+### Holda's Story
 
 Holda tells his story over dinner in a kitchen stocked with magical conveniences (including a cleaning bar Tarek immediately evaluates for later theft). The second son of a minor lord in southern Sembara, he always hungered for more. Disappointed in the modest comfort of his family and resentful about his station, he left to seek his fortune, spending decades around the Green Sea as a sellsword, adventurer, and mercenary. He made and lost treasurers and lovers, and acquired a minor reputation. 
 
@@ -22,7 +26,7 @@ The document named him heir to "Dandelion House, its lands, and all such treasur
 
 Tarek reads the Sembaran document and senses that something about it does not fit. But Kaito shifts from fear to enthusiasm at the promise of half the hoard -- though Ayveen points out that ending an unknown treaty might be dangerous, and Txarro tries to prepare Kaito for disappointment if the treasure is a trap, a metaphor, or a single coin.
 
-The Door in the Floor:
+### The Door in the Floor
 
 Before dawn, the grandfather clock wakes them and Alden collects them from their rooms, leading them through the ground floor, down through a massive basement. There, he opens a locked door with a glowing gold key, leads them below the basement, down through a passage hewn from living rock into in a root-covered sub-cellar that surely predates the manor above it. Holda, waiting there, opens a door that seems to lead deep through a massive hollowed-out root, promising to keep this end open while they take care of business. 
 

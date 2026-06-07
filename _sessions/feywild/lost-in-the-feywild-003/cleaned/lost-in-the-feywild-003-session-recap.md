@@ -34,7 +34,7 @@ The party leaves Lord Endless Ending's manor for the 27th house.
 #### Long
 The party avoids a binding bargain, learns that the clock and glass key are tied to the neighbor's house, and wakes the displaced scholar Monetheus. Monetheus explains Telestria's boundary-work and brilliant-number maps before leading them to the lone door on the western promontory.
 
-## Recap
+	## Recap
 
 ### recap-001 | Recap And Positioning
 
