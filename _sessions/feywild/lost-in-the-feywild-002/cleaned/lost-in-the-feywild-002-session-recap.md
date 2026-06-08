@@ -43,6 +43,7 @@ The party emerges from Dandelion House's root passage into the Twilight Kingdom,
 - Date: 1740-10-05
 - Time: evening
 - Source Range: u0001 -> u0387
+- Polished Transcript: beat-transcripts/lost-in-the-feywild-002-recap-001-transcript.md
 - Locations: Dandelion House, Twilight Kingdom
 - NPCs: none
 - Organizations: none
@@ -69,6 +70,7 @@ We begin as the party crawls through the narrow tunnel, debating what they can s
 - Date: 1740-10-05
 - Time: evening
 - Source Range: u0388 -> u0964
+- Polished Transcript: beat-transcripts/lost-in-the-feywild-002-recap-002-transcript.md
 - Locations: ruined root house, Twilight Kingdom
 - NPCs: unnamed dead wizard, unnamed dead travelers
 - Organizations: none
@@ -97,6 +99,7 @@ As they near the manor, the road runs beside a high hedge and the sounds of a pa
 - Date: 1740-10-05
 - Time: evening
 - Source Range: u0965 -> u1374
+- Polished Transcript: beat-transcripts/lost-in-the-feywild-002-recap-004-transcript.md
 - Locations: Twilight Kingdom
 - NPCs: road guards
 - Organizations: none
@@ -119,7 +122,8 @@ Their answers are strange but useful. The bodies on the road did not come from t
 - Beat IDs: B05
 - Date: 1740-10-05
 - Time: evening
-- Source Range: u1375 ->  u1874
+- Source Range: u1375 -> u1874
+- Polished Transcript: beat-transcripts/lost-in-the-feywild-002-recap-005-transcript.md
 - Locations: Lord Endless Ending's manor
 - NPCs: road guards, string musicians
 - Organizations: none
@@ -153,6 +157,7 @@ The halflings speak of their journey thorugh the Feywild: arriving in the mornin
 - Date: 1740-10-05
 - Time: evening
 - Source Range: u1875 -> u2163
+- Polished Transcript: beat-transcripts/lost-in-the-feywild-002-recap-007-transcript.md
 - Locations: Lord Endless Ending's manor
 - NPCs: Rakshasa, unnamed sleeping human
 - Organizations: none
@@ -160,7 +165,7 @@ The halflings speak of their journey thorugh the Feywild: arriving in the mornin
 - Enemies: none
 
 #### Short
-Soon after, the party finds another mortal: the Rakshasa, who trades his story for Tarek's keys and reveals [[The Story of a Fey Bargain Struck|how Lord Revel became Lord Endless Ending].
+Soon after, the party finds another mortal: the Rakshasa, who trades his story for Tarek's keys and reveals [[The Story of a Fey Bargain Struck|how Lord Revel became Lord Endless Ending]].
 
 #### Intermediate
 Inside the manor, Ayveen and Edric find a sleeping human behind a couch, and then a sober tiger-headed guest on the back porch. He invites them to sit, and offers information for a price. After Ayveen rejects his request to stay in her home for a month and a day, they bring in Tarek, and the Rakshasa accepts three museum keys before telling [[The Story of a Fey Bargain Struck|the story of Lord Revel, the wizard neighbor, and the naming contest]].
@@ -168,7 +173,7 @@ Inside the manor, Ayveen and Edric find a sleeping human behind a couch, and the
 #### Long
 Inside the manor, Ayveen and Edric find one obvious mortal sleeping behind a couch, and on the back porch find another: a massive tiger-man in a waistcoat and smoking jacket, enjoying a quiet pipe on the now-empty porch. Alert, sober, and sharp in a way the other party guests are not, he invites them to sit and says he has pieced together why the party is ending. His first price is a month and a day in Ayveen's home in Tollen, but she hesitates long enough to negotiate him down to three keys chosen from Tarek's collection.
 
-The Rakshasa, having long ago become obsessed with the stories that can only be learned in gloaming, travelled the Twilight Kingdom until he came to this house. He then tells [[The Story of a Fey Bargain Struck|the tale of Lord Endlessly Ending]]. He explains that, at the height of the party, the neighbors, led by a human wizard, came to Lord Revel Beginning (as the master of the house was then called) and asked him to send mortal guests to their house. Gifts and stories failed, so a wizard who led the delegration beat Revel in a contest of poetry and naming -- in doing so, transforming the house from a party beginning to one ending, and changing Lord Revel Beginning into Lord Endlessly Ending.
+The Rakshasa, having long ago become obsessed with the stories that can only be learned in gloaming, travelled the Twilight Kingdom until he came to this house. He then tells [[The Story of a Fey Bargain Struck|the tale of Lord Endlessly Ending]]. He explains that, at the height of the party, the neighbors, led by a human wizard, came to Lord Revel Beginning (as the master of the house was then called) and asked him to send mortal guests to their house. Gifts and stories failed, so a wizard who led the delegation beat Revel in a contest of poetry and naming -- in doing so, transforming the house from a party beginning to one ending, and changing Lord Revel Beginning into Lord Endlessly Ending.
 
 ### recap-008 | The Truce Theory
 
@@ -177,6 +182,7 @@ The Rakshasa, having long ago become obsessed with the stories that can only be 
 - Date: 1740-10-05
 - Time: evening
 - Source Range: u2164 -> u2384
+- Polished Transcript: beat-transcripts/lost-in-the-feywild-002-recap-008-transcript.md
 - Locations: Lord Endless Ending's manor
 - NPCs: Rakshasa, Lord Endless Ending, unnamed human
 - Organizations: none
@@ -262,3 +268,20 @@ Ayveen then names the working theory. The wizard's contest created an agreement,
 - Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-beats.json
 - Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-beat-facts.json
 - Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-source-cleaned.md
+
+## Pull Quotes
+
+- ID: quote-B07-003
+  - Quote: "Wide lawns gone askew. Hanging lanterns flicker low. A party ending. Lord Endless Ending."
+  - Speaker: The Rakshasa
+  - Source Lines: u2122-u2126
+
+## Audio Highlights
+
+- ID: audio-002
+  - Title: The story of Lord Endless Ending
+  - Speaker: DM
+  - Source Lines: u2050-u2145
+  - Output: audio-002.m4a
+  - Summary: The Rakshasa tells the story of Lord Revel and Lord Endless Ending
+  - Why Called Out: Central lore monologue for the session, with clear stakes and memorable fey logic.
