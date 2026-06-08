@@ -4,7 +4,7 @@
 - Title: Lost in the Feywild: Episode 03
 - Desc Title: The Door That Already Opened
 - Tagline: in which the party follows the numbers
-- One-Sentence Summary: At Lord Endless Ending's manor, the party learns how the clock, the 27th room, and Monetheus's brilliant-number maps point toward a lone door that may lead home.
+- One-Sentence Summary: At Lord Endless Ending's manor, the party learns how the clock, the 27th room, and Menestheus's brilliant-number maps point toward a lone door that may lead home.
 
 ## Timeline
 
@@ -50,7 +50,7 @@ As they prepare to leave, the group learns that the gate does not open simply be
 
 Txarro asks the guards where the bad-smelling travelers come from, and they say some have run from the direction of the neighbor's house. Edric's concern about the clock sends the party back to Lord Endless Ending, who explains that the wizard and her entourage brought it, that one member of the entourage is still in the library, and that the clock is both immovable and indestructible.
 
-The party finds the sleeping scholar later known as Monetheus. Kaito reads dreams made of numbers, beauty, deadlines, unfamiliar language, and anger at his boss, while Tarek reveals books and papers taken from the scholar's satchel. With Ayveen's Comprehend Languages, the group reads The Shape of Possibility and Brilliant Numbers, finding theories about possible futures, story-like time, and number systems that may encode locations or possibilities.
+The party finds the sleeping scholar later known as Menestheus. Kaito reads dreams made of numbers, beauty, deadlines, unfamiliar language, and anger at his boss, while Tarek reveals books and papers taken from the scholar's satchel. With Ayveen's Comprehend Languages, the group reads The Shape of Possibility and Brilliant Numbers, finding theories about possible futures, story-like time, and number systems that may encode locations or possibilities.
 
 ### The River And Scholar
 
@@ -60,13 +60,13 @@ When the clock strikes zero again, the party waits near the gate to follow whoev
 
 He says he is from Drankor, came from the 27th house with two or three dozen people, drank at the party, fell asleep, and woke to find everyone gone.
 
-### Monetheus And The Door
+### Menestheus And The Door
 
-The party's questions force Monetheus to confront that he is centuries out of time. Drankor has fallen, its language is no longer spoken, and Telestria's warnings about the empire's end may have been right. He explains that his society maintained the porous walls between the world, the Feywild, dream, and other realms, closing or repairing holes that should not stay open.
+The party's questions force Menestheus to confront that he is centuries out of time. Drankor has fallen, its language is no longer spoken, and Thalestria's warnings about the empire's end may have been right. He explains that his society maintained the porous walls between the world, the Feywild, dream, and other realms, closing or repairing holes that should not stay open.
 
-Telestria, his master and the head of the order, redirected them toward sealing known breaches as the emperor's great project consumed more of the empire's resources. Monetheus names the order Erythromos Limperum and explains brilliant numbers as encoded location keys: with the right factors memorized, they can hide maps of weak points between spaces in plain sight. Tarek secretly slips the lifted book back into his satchel while Monetheus talks.
+Thalestria, his master and the head of the order, redirected them toward sealing known breaches as the emperor's great project consumed more of the empire's resources. Menestheus names the order Arithrimos Lamperum and explains brilliant numbers as encoded location keys: with the right factors memorized, they can hide maps of weak points between spaces in plain sight. Tarek secretly slips the lifted book back into his satchel while Menestheus talks.
 
-After learning the current year and the empire's fall, Monetheus presses onward toward the 27th house, and the party follows him north to a westward path ending at a lone door above dark cliffs. As they stand before it, Lord Endless Ending speaks from the manor, asking them to bring back the key and set him free, and Txarro's owl waits on the doorframe.
+After learning the current year and the empire's fall, Menestheus presses onward toward the 27th house, and the party follows him north to a westward path ending at a lone door above dark cliffs. As they stand before it, Lord Endless Ending speaks from the manor, asking them to bring back the key and set him free, and Txarro's owl waits on the doorframe.
 
 ## Cast
 
@@ -74,12 +74,12 @@ After learning the current year and the empire's fall, Monetheus presses onward 
 
 Lord Endless Ending (met): fey lord and host of the ending party, bound to send mortal guests toward the neighbor's house when the clock strikes zero
 badger butler (met): anxious attendant to Lord Endless Ending
-Monetheus (met): displaced Drankorian scholar and guide from Telestria's entourage
+Menestheus (met): displaced Drankorian scholar and guide from Thalestria's entourage
 unnamed human woman (met): mortal guest sent away when the clock strikes zero
 road guards (met): doglike keepers of the road outside Lord Endless Ending's manor
 Lord Holda (mentioned): party's employer at Dandelion House
 Rakshasa (mentioned): tiger-headed guest and informant from the prior session
-Telestria (mentioned): Monetheus's master and head of Erythromos Limperum
+Thalestria (mentioned): Menestheus's master and head of Arithrimos Lamperum
 unnamed wizard neighbor (mentioned): mortal wizard who tricked Lord Endless Ending into the sending bargain
 
 ## Locations
@@ -95,5 +95,4 @@ Dandelion House: old manor with the door Holda used to send the party into the F
 
 ### Organizations
 
-Erythromos Limperum (encountered): Monetheus's order, dedicated to maintaining boundaries between worlds and mapping weak places with brilliant numbers
-
+Arithrimos Lamperum (encountered): Menestheus's order, dedicated to maintaining boundaries between worlds and mapping weak places with brilliant numbers

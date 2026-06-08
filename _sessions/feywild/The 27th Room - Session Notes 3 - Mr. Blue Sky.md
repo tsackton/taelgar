@@ -79,7 +79,7 @@ unnamed human woman (met): mortal guest sent away when the clock strikes zero
 road guards (met): doglike keepers of the road outside Lord Endless Ending's manor
 Lord Holda (mentioned): party's employer at Dandelion House
 Rakshasa (mentioned): tiger-headed guest and informant from the prior session
-Thalestria (mentioned): Menestheus's master and head of Erythromos Limperum
+Thalestria (mentioned): Menestheus's master and head of Arithrimos Lamperum
 unnamed wizard neighbor (mentioned): mortal wizard who tricked Lord Endless Ending into the sending bargain
 
 ## Locations
@@ -96,4 +96,3 @@ Dandelion House: old manor with the door Holda used to send the party into the F
 ### Organizations
 
 Arithrimos Lamperum (encountered): Menestheus's order, led by the wizard Thalestria as of the DR1030s, dedicated to cataloging the holes between planes and maintaining boundaries between the world of Taelgar and planar or extraplanar threats.
-
