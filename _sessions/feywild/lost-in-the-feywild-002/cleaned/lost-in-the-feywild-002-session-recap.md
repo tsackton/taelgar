@@ -1,14 +1,11 @@
----
-tags: [status/recap-review]
----
 # Session Recap
 
 ## Session Header
 
 - Title: Lost in the Feywild: Episode 02
-- Desc Title: The Party That Cannot End
+- Desc Title: Тёмная ночь (Dark is the Night)
 - Tagline: in which the party finds the Endless Ending
-- One-Sentence Summary: The party emerges in the Twilight Kingdom, enters Lord Endless Ending's manor, learns that a naming contest bound the house in an endless party, and ends the night as the Lord sends a mortal away.
+- One-Sentence Summary: The party emerges in the Twilight Kingdom, enters Lord Endless Ending's manor, and learns that a naming contest bound the house in a party endlessly ending.
 - Campaign: Lost in the Feywild
 - Scope: session
 - Session Number: 2
