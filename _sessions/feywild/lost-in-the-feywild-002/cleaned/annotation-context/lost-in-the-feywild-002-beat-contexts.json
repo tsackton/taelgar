@@ -20,20 +20,21 @@
         "beatId": "B01",
         "title": "Through The Root",
         "startUid": "u0001",
-        "endUid": "u0313",
-        "lineCount": 313,
+        "endUid": "u0387",
+        "lineCount": 387,
         "dateStart": "1740-10-05",
         "dateEnd": null,
         "timeWindow": "evening",
         "containsCombat": false,
-        "boundaryReason": "The session opens with setup and recap, then follows the party through the bone-like root tunnel, out into the Feywild, and through their first reactions and character-state descriptions; the next beat begins when they leave the ruined house and start down the road.",
+        "boundaryReason": "The session opens with setup and recap, then follows the party through the bone-like root tunnel, out into the Feywild, and along the first stretch of road as they take in the landscape, debate Holda's honesty, and decide to continue toward the manor; the next beat begins when Txarro's passive perception leads to the first body on the road.",
         "dateEvidence": [
           "session.yaml gives drStart and drEnd as 1740-10-05.",
           "u0053-u0067 recap the before-dawn descent and reopen in the root tunnel.",
-          "u0198-u0202 establish the party emerges just after sunset in the Feywild."
+          "u0198-u0202 establish the party emerges just after sunset in the Feywild.",
+          "u0314-u0336 continue the same evening as the party leaves the ruined house and studies the road toward the manor."
         ],
         "startIndex": 0,
-        "endIndex": 312
+        "endIndex": 386
       },
       "previousBeat": null,
       "nextBeat": {
@@ -1962,85 +1963,7 @@
           "header": "[u0313 | 00:27:49.000-00:27:50.830 | Txarro]",
           "text": "Let's follow the path, I guess.",
           "raw": "[u0313 | 00:27:49.000-00:27:50.830 | Txarro] Let's follow the path, I guess."
-        }
-      ],
-      "supplementalSources": []
-    },
-    {
-      "beat": {
-        "beatId": "B02",
-        "title": "Bodies On The Road",
-        "startUid": "u0314",
-        "endUid": "u0652",
-        "lineCount": 339,
-        "dateStart": "1740-10-05",
-        "dateEnd": null,
-        "timeWindow": "evening",
-        "containsCombat": false,
-        "boundaryReason": "The party follows the road toward the lit manor, studies the strange landscape, finds the first mutilated body, investigates tracks and belongings, and then finds more bodies; the next beat starts with their reaction to the danger and decision to seek divine and scouting help before approaching.",
-        "dateEvidence": [
-          "session.yaml gives drStart and drEnd as 1740-10-05.",
-          "u0314-u0336 continue directly from the just-after-sunset emergence.",
-          "u0645-u0652 keep the party on the same road toward the same manor."
-        ],
-        "startIndex": 313,
-        "endIndex": 651
-      },
-      "previousBeat": {
-        "beatId": "B01",
-        "title": "Through The Root",
-        "dateStart": "1740-10-05",
-        "dateEnd": null
-      },
-      "nextBeat": {
-        "beatId": "B03",
-        "title": "Weal, Woe, And Scouting",
-        "dateStart": "1740-10-05",
-        "dateEnd": null
-      },
-      "session": {
-        "title": null,
-        "campaign": "Lost in the Feywild",
-        "scope": "session",
-        "sourceType": "transcript",
-        "sessionNumber": 2,
-        "drStart": "1740-10-05",
-        "drEnd": "1740-10-05",
-        "realWorldDate": "2026-05-26",
-        "participants": [
-          {
-            "name": "David Kong",
-            "role": null,
-            "gameRole": "Kaito Min"
-          },
-          {
-            "name": "Mike Sackton",
-            "role": null,
-            "gameRole": "Edric"
-          },
-          {
-            "name": "Eric Rosenbaum",
-            "role": null,
-            "gameRole": "Tarek"
-          },
-          {
-            "name": "Kate Sackton",
-            "role": null,
-            "gameRole": "Ayveen"
-          },
-          {
-            "name": "David Schwartz",
-            "role": null,
-            "gameRole": "DM"
-          },
-          {
-            "name": "Tim Sackton",
-            "role": null,
-            "gameRole": "Txarro"
-          }
-        ]
-      },
-      "sourceLines": [
+        },
         {
           "uid": "u0314",
           "header": "[u0314 | 00:27:54.970-00:28:03.400 | DM]",
@@ -2484,7 +2407,85 @@
           "header": "[u0387 | 00:32:42.060-00:32:43.219 | DM]",
           "text": "If there even is a treaty.",
           "raw": "[u0387 | 00:32:42.060-00:32:43.219 | DM] If there even is a treaty."
-        },
+        }
+      ],
+      "supplementalSources": []
+    },
+    {
+      "beat": {
+        "beatId": "B02",
+        "title": "Bodies On The Road",
+        "startUid": "u0388",
+        "endUid": "u0652",
+        "lineCount": 265,
+        "dateStart": "1740-10-05",
+        "dateEnd": null,
+        "timeWindow": "evening",
+        "containsCombat": false,
+        "boundaryReason": "Txarro's passive perception reveals the first mutilated body on the road; the party investigates the corpse, tracks, belongings, and further bodies before the next beat starts with their reaction to the danger and decision to seek divine and scouting help before approaching.",
+        "dateEvidence": [
+          "session.yaml gives drStart and drEnd as 1740-10-05.",
+          "u0394-u0396 reveal the first body on the same road toward the manor.",
+          "u0645-u0652 keep the party on the same road toward the same manor."
+        ],
+        "startIndex": 387,
+        "endIndex": 651
+      },
+      "previousBeat": {
+        "beatId": "B01",
+        "title": "Through The Root",
+        "dateStart": "1740-10-05",
+        "dateEnd": null
+      },
+      "nextBeat": {
+        "beatId": "B03",
+        "title": "Weal, Woe, And Scouting",
+        "dateStart": "1740-10-05",
+        "dateEnd": null
+      },
+      "session": {
+        "title": null,
+        "campaign": "Lost in the Feywild",
+        "scope": "session",
+        "sourceType": "transcript",
+        "sessionNumber": 2,
+        "drStart": "1740-10-05",
+        "drEnd": "1740-10-05",
+        "realWorldDate": "2026-05-26",
+        "participants": [
+          {
+            "name": "David Kong",
+            "role": null,
+            "gameRole": "Kaito Min"
+          },
+          {
+            "name": "Mike Sackton",
+            "role": null,
+            "gameRole": "Edric"
+          },
+          {
+            "name": "Eric Rosenbaum",
+            "role": null,
+            "gameRole": "Tarek"
+          },
+          {
+            "name": "Kate Sackton",
+            "role": null,
+            "gameRole": "Ayveen"
+          },
+          {
+            "name": "David Schwartz",
+            "role": null,
+            "gameRole": "DM"
+          },
+          {
+            "name": "Tim Sackton",
+            "role": null,
+            "gameRole": "Txarro"
+          }
+        ]
+      },
+      "sourceLines": [
         {
           "uid": "u0388",
           "header": "[u0388 | 00:32:43.740-00:32:44.140 | DM]",

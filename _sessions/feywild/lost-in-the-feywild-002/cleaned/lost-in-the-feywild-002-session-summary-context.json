@@ -83,13 +83,13 @@
         {
           "beatId": "B01",
           "title": "Through The Root",
-          "boundaryReason": "The session opens with setup and recap, then follows the party through the bone-like root tunnel, out into the Feywild, and through their first reactions and character-state descriptions; the next beat begins when they leave the ruined house and start down the road.",
+          "boundaryReason": "The session opens with setup and recap, then follows the party through the bone-like root tunnel, out into the Feywild, and along the first stretch of road as they take in the landscape, debate Holda's honesty, and decide to continue toward the manor; the next beat begins when Txarro's passive perception leads to the first body on the road.",
           "dateStart": "1740-10-05",
           "dateEnd": null,
           "timeWindow": "evening",
           "sourceRange": {
             "startUid": "u0001",
-            "endUid": "u0313"
+            "endUid": "u0387"
           },
           "shortSummary": "The party crawls through the root tunnel, loses contact with Holda, and emerges into the Feywild at twilight.",
           "longSummary": "After a recap of Holda's contract and the door beneath Dandelion House, the party opens in the narrow root tunnel after Holda has closed the way behind them. Ayveen tries to message Holda to reopen the door and gets no response, Kaito and the others debate what they can still trust, and the tunnel changes from wood to coral- or bone-like material. Tarek compares it to a piece he picked up, the group reaches a mirrored chamber and climbs out through a ruined root house, realizing they have crossed into an otherworldly twilight landscape with distant estates and a road ahead.",
@@ -155,12 +155,12 @@
         {
           "beatId": "B02",
           "title": "Bodies On The Road",
-          "boundaryReason": "The party follows the road toward the lit manor, studies the strange landscape, finds the first mutilated body, investigates tracks and belongings, and then finds more bodies; the next beat starts with their reaction to the danger and decision to seek divine and scouting help before approaching.",
+          "boundaryReason": "Txarro's passive perception reveals the first mutilated body on the road; the party investigates the corpse, tracks, belongings, and further bodies before the next beat starts with their reaction to the danger and decision to seek divine and scouting help before approaching.",
           "dateStart": "1740-10-05",
           "dateEnd": null,
           "timeWindow": "evening",
           "sourceRange": {
-            "startUid": "u0314",
+            "startUid": "u0388",
             "endUid": "u0652"
           },
           "shortSummary": "The party follows the road toward the lit manor and finds mutilated human bodies along the way.",
@@ -550,12 +550,12 @@
       ],
       "sourceRange": {
         "startUid": "u0001",
-        "endUid": "u0313"
+        "endUid": "u0387"
       },
       "sourceRanges": [
         {
           "startUid": "u0001",
-          "endUid": "u0313"
+          "endUid": "u0387"
         }
       ],
       "dateStart": "1740-10-05",
@@ -582,13 +582,13 @@
         {
           "beatId": "B01",
           "title": "Through The Root",
-          "boundaryReason": "The session opens with setup and recap, then follows the party through the bone-like root tunnel, out into the Feywild, and through their first reactions and character-state descriptions; the next beat begins when they leave the ruined house and start down the road.",
+          "boundaryReason": "The session opens with setup and recap, then follows the party through the bone-like root tunnel, out into the Feywild, and along the first stretch of road as they take in the landscape, debate Holda's honesty, and decide to continue toward the manor; the next beat begins when Txarro's passive perception leads to the first body on the road.",
           "dateStart": "1740-10-05",
           "dateEnd": null,
           "timeWindow": "evening",
           "sourceRange": {
             "startUid": "u0001",
-            "endUid": "u0313"
+            "endUid": "u0387"
           },
           "shortSummary": "The party crawls through the root tunnel, loses contact with Holda, and emerges into the Feywild at twilight.",
           "longSummary": "After a recap of Holda's contract and the door beneath Dandelion House, the party opens in the narrow root tunnel after Holda has closed the way behind them. Ayveen tries to message Holda to reopen the door and gets no response, Kaito and the others debate what they can still trust, and the tunnel changes from wood to coral- or bone-like material. Tarek compares it to a piece he picked up, the group reaches a mirrored chamber and climbs out through a ruined root house, realizing they have crossed into an otherworldly twilight landscape with distant estates and a road ahead.",
@@ -661,12 +661,12 @@
         "B02"
       ],
       "sourceRange": {
-        "startUid": "u0314",
+        "startUid": "u0388",
         "endUid": "u0652"
       },
       "sourceRanges": [
         {
-          "startUid": "u0314",
+          "startUid": "u0388",
           "endUid": "u0652"
         }
       ],
@@ -699,12 +699,12 @@
         {
           "beatId": "B02",
           "title": "Bodies On The Road",
-          "boundaryReason": "The party follows the road toward the lit manor, studies the strange landscape, finds the first mutilated body, investigates tracks and belongings, and then finds more bodies; the next beat starts with their reaction to the danger and decision to seek divine and scouting help before approaching.",
+          "boundaryReason": "Txarro's passive perception reveals the first mutilated body on the road; the party investigates the corpse, tracks, belongings, and further bodies before the next beat starts with their reaction to the danger and decision to seek divine and scouting help before approaching.",
           "dateStart": "1740-10-05",
           "dateEnd": null,
           "timeWindow": "evening",
           "sourceRange": {
-            "startUid": "u0314",
+            "startUid": "u0388",
             "endUid": "u0652"
           },
           "shortSummary": "The party follows the road toward the lit manor and finds mutilated human bodies along the way.",

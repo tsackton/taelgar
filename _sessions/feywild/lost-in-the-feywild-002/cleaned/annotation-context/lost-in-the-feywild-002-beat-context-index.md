@@ -7,16 +7,16 @@
 
 ## B01 - Through The Root
 
-- Lines: 313
-- Range: `u0001` -> `u0313`
+- Lines: 387
+- Range: `u0001` -> `u0387`
 - Date Start: 1740-10-05
 - Date End: same day
 - Time Window: evening
 
 ## B02 - Bodies On The Road
 
-- Lines: 339
-- Range: `u0314` -> `u0652`
+- Lines: 265
+- Range: `u0388` -> `u0652`
 - Date Start: 1740-10-05
 - Date End: same day
 - Time Window: evening
