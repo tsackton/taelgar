@@ -6,30 +6,31 @@
 
 ## B01 — Through The Root
 
-- Range: `u0001` → `u0313`
-- Lines: 313
+- Range: `u0001` → `u0387`
+- Lines: 387
 - Date: 1740-10-05
 - Date Resolution: exact
 - Time Window: evening
 - Combat: no
-- Boundary Reason: The session opens with setup and recap, then follows the party through the bone-like root tunnel, out into the Feywild, and through their first reactions and character-state descriptions; the next beat begins when they leave the ruined house and start down the road.
+- Boundary Reason: The session opens with setup and recap, then follows the party through the bone-like root tunnel, out into the Feywild, and along the first stretch of road as they take in the landscape, debate Holda's honesty, and decide to continue toward the manor; the next beat begins when Txarro's passive perception leads to the first body on the road.
 - Date Evidence:
   - session.yaml gives drStart and drEnd as 1740-10-05.
   - u0053-u0067 recap the before-dawn descent and reopen in the root tunnel.
   - u0198-u0202 establish the party emerges just after sunset in the Feywild.
+  - u0314-u0336 continue the same evening as the party leaves the ruined house and studies the road toward the manor.
 
 ## B02 — Bodies On The Road
 
-- Range: `u0314` → `u0652`
-- Lines: 339
+- Range: `u0388` → `u0652`
+- Lines: 265
 - Date: 1740-10-05
 - Date Resolution: exact
 - Time Window: evening
 - Combat: no
-- Boundary Reason: The party follows the road toward the lit manor, studies the strange landscape, finds the first mutilated body, investigates tracks and belongings, and then finds more bodies; the next beat starts with their reaction to the danger and decision to seek divine and scouting help before approaching.
+- Boundary Reason: Txarro's passive perception reveals the first mutilated body on the road; the party investigates the corpse, tracks, belongings, and further bodies before the next beat starts with their reaction to the danger and decision to seek divine and scouting help before approaching.
 - Date Evidence:
   - session.yaml gives drStart and drEnd as 1740-10-05.
-  - u0314-u0336 continue directly from the just-after-sunset emergence.
+  - u0394-u0396 reveal the first body on the same road toward the manor.
   - u0645-u0652 keep the party on the same road toward the same manor.
 
 ## B03 — Weal, Woe, And Scouting
