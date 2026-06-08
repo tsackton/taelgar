@@ -48,6 +48,10 @@ The party emerges from Dandelion House's root passage into the Twilight Kingdom,
 - Organizations: none
 - Items: bone-like root material
 - Enemies: none
+- Image: the-coral-bone-house.jpg
+- Image Placement: end
+- Image Render: left|450
+- Image Caption: The root-bone echo of the Dandelion House
 
 #### Short
 The party crawls through the bone-like root into the Twilight Kingdom, emerging into a ruined house, which they quickly leave. 
@@ -121,6 +125,10 @@ Their answers are strange but useful. The bodies on the road did not come from t
 - Organizations: none
 - Items: unusual string instruments
 - Enemies: none
+- Image: the-endlessly-ending-party.jpg
+- Image Placement: end
+- Image Render: 
+- Image Caption: The endlessly ending party in the Twilight Kingdom 
 
 #### Short
 Inside, the party recognizes that the celebration is repeatedly ending and begins careful conversations with guests. Two old halflings, who seem to have been here for centuries, speak of their journey through the Feywild. 
