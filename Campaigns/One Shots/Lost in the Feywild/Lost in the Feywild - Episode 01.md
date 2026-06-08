@@ -2,11 +2,14 @@
 headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Lost in the Feywild
+sessionNumber: 1
+realWorldDate: 2026-05-14
 DR: 1740-10-03
 DR_end: 1740-10-03
-realWorldDate: 2026-05-14
-descTitle: "Welcome to Dandelion House"
-tagline: "in which the party enters a mysterious tunnel"
+players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
+name: "Lost in the Feywild: Episode 01"
+descTitle: Welcome to Dandelion House
+tagline: in which the party enters a mysterious tunnel
 sessionKey: lost-in-the-feywild-session-1
 session-template: feywild-template.md
 websiteSessionView: zoomable
@@ -27,11 +30,8 @@ The party follows [[Alden]] to [[Dandelion House]], where they accept Lord Holda
 > *What could go wrong?* - Kaito Min
 ## Audio Highlights
 
-**Lord Holda recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** 
-![[assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-002.m4a]]
-
-**The party descends through the manor basement into the root-covered lower cellar where Holda waits by the hidden door:** 
-![[assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-003.m4a]]
+- **Lord Holda recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** ![[assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-002.m4a]]
+- **The party descends through the manor basement into the root-covered lower cellar where Holda waits by the hidden door:** ![[assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-003.m4a]]
 
 ## Timeline
 

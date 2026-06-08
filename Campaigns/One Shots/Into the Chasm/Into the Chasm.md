@@ -11,10 +11,13 @@ Into the Chasm is a short adventure in and around the [[Great Chasm]], where fiv
 
 The player characters: [[Chasm Explorers]]
 
-Session notes: 
-- [[Into the Chasm - Episode 01]]
-- [[Into the Chasm - Episode 02]]
-- [[Into the Chasm - Episode 03]]
-- [[Into the Chasm - Episode 04]]
-- [[Into the Chasm - Episode 05]]
-- [[Into the Chasm - Episode 06]]
+Sessions:
+```dataview
+TABLE WITHOUT ID
+  link(file.path, default(descTitle, file.name)) AS "Session", sessionNumber as Episode,
+  realWorldDate AS "On Earth"
+FROM #session-note AND !"_templates" AND !"_sessions"
+WHERE campaign = "Into the Chasm"
+SORT realWorldDate ASC
+```
+
