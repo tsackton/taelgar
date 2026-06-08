@@ -1,0 +1,1 @@
+ a drunken halfling guest, who with their companion, arrived in the Feywild in a morning kingdom and has spent the day (roughly the last 1200 years) wending their way to Lord Endless Ending's party.

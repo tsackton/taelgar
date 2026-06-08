@@ -190,51 +190,25 @@ Ayveen then names the working theory. The wizard's contest created an agreement,
 
 ### NPCs
 
-- unnamed dead wizard (met): first body beside the road
-  - ruined root house -> Twilight Kingdom, 1740-10-05
-- unnamed dead travelers (met): additional bodies and burned bones along the road
-  - ruined root house -> Twilight Kingdom, 1740-10-05
-- Lord Endless Ending (met): tall masked figure seen through the owl's eyes
+- [[Lord Endless Ending]] (met): tall masked figure seen through the owl's eyes
   - Twilight Kingdom, 1740-10-05
   - Lord Endless Ending's manor, 1740-10-05
-- road guards (met): guards at the silver gate
-  - Twilight Kingdom, 1740-10-05
+- [[Pandel]] (met): drunken halfling guest
   - Lord Endless Ending's manor, 1740-10-05
-- string musicians (met): trio of tired professional players
+- [[Rakshasa]] (met): tiger-headed mortal guest
   - Lord Endless Ending's manor, 1740-10-05
-- Pandel (met): drunken halfling guest
-  - Lord Endless Ending's manor, 1740-10-05
-- unnamed halfling companion (met): Pandel's drunken companion
-  - Lord Endless Ending's manor, 1740-10-05
-- Rakshasa (met): tiger-headed mortal guest
-  - Lord Endless Ending's manor, 1740-10-05
-- unnamed sleeping human (met): mortal guest sleeping behind a couch
-  - Lord Endless Ending's manor, 1740-10-05
-- unnamed human (met): mortal guest sent out after the clock strikes zero
-  - Lord Endless Ending's manor, 1740-10-05
-- Lord Holda (mentioned): employer at Dandelion House
-- Alden (mentioned): Holda's agent
-- unnamed elven archivist (mentioned): source of the deed
-- unnamed mortal guests (mentioned): other mortals at the party
-- Lord Revel (mentioned): former name of Lord Endless Ending
-- unnamed wizard neighbor (mentioned): winner of the naming contest
-- Pandel and companion (mentioned): drunken halflings at the bar
 
 ## Locations
 
-- Dandelion House
+- [[Dandelion House]]
   - Summary: old manor whose subcellar contains the hidden root passage to the Twilight Kingdom
   - Sublocations: subcellar, hidden door, root tunnel
   - Date Visited: 1740-10-05
-- Twilight Kingdom
+- [[Twilight Kingdom]]
   - Summary: Feywild realm of fixed sunset, many distant houses, and roads between them
   - Sublocations: ruined root house, twilight road, high hedgerow, silver gate to Lord Endless Ending's manor
   - Date Visited: 1740-10-05
-- ruined root house
-  - Summary: bone-root structure where the party emerges from the passage out of Dandelion House
-  - Sublocations: root-house chamber, road toward Lord Endless Ending's manor
-  - Date Visited: 1740-10-05
-- Lord Endless Ending's manor
+- [[Lord Endless Ending's Manor]]
   - Summary: fey manor caught in the repeated ending of a party hosted by Lord Endless Ending
   - Sublocations: silver gate, sloping lawns, patios, bar room, library, back porch, ballroom
   - Date Visited: 1740-10-05

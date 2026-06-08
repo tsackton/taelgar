@@ -1,0 +1,1 @@
+a giant 8-foot tall tiger-headed mortal guest met at Lord Endless Ending's party. (Not, in fact, a Rakshasa as defined in D&D, but inspired by the illustration in the first edition monster manual.) Rakshasa claims to have been obessed with the stories that unfold in the twlight after sunset, and has been visiting the houses of the Twilight Kingdom studying and collecting them.
