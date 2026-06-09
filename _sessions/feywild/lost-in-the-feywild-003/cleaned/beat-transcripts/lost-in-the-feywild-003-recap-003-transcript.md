@@ -921,7 +921,7 @@ Kaito Min: There's another house, there's other places to see. We there may be r
 Tarek: Yeah, man, let's go get it.
 
 %% u1225 %%
-DM: So, so, but... Here's the thing, here's the thing, here's the thing, here's the thing.
+DM: So, here's the thing.
 
 %% u1226 %%
 Kaito Min: The original agreement with, what's the name of the guy? Holda?
