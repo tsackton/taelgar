@@ -222,7 +222,7 @@ Ayveen: Entourage person.
 DM: When someone's sleeping?
 
 %% u1773-u1774 %%
-Txarro: I mean, you're going to you're running out of spell slots here, but... It doesn't say anything about... It's whatever, you're... I mean.
+Txarro: I mean, you're running out of spell slots here, but... It doesn't say anything about... It's whatever, you're... I mean.
 
 %% u1775 %%
 Kaito Min: Up to you, Schwartz.

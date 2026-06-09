@@ -54,10 +54,10 @@ DM: Inside the manor, you come across a few things. There's... One mortal who's 
 DM: He's a giant tiger person, like, tiger humanoid, probably 8 feet tall, well-dressed. And, sober and coherent, unlike pretty much anyone else at the party, sitting on this porch all by himself, smoking a pipe. And seeing that you are mortals also invites you to sit down and chat. I think Ayveen and Edric start in the conversation. And in the course of chatting, he explains that he got obsessed somewhere along the way with this moment in time, this moment of twilight in sort of all of its permutations.
 
 %% u0065-u0070 %%
-DM: And so at some point. In the past, though he's conscious of the weirdness of time here, but did not share how long ago he's from. Went essentially went wandering through the Twilight Kingdom, wanting to understand what all the different kinds of Twilight were. And found his way here. pieced together the story of why the party is ending. This this celebration is ending. And he offers to trade it first for a month and a day in Ayveen's house in Tollen, but she negotiates him down to keys.
+DM: And so at some point in the past, though he's conscious of the weirdness of time here but did not share how long ago he's from, he went wandering through the Twilight Kingdom, wanting to understand what all the different kinds of twilight were. And he found his way here and pieced together the story of why the party is ending, why this celebration is ending. He offers to trade it first for a month and a day in Ayveen's house in Tollen, but she negotiates him down to keys.
 
 %% u0071-u0075 %%
-DM: And Tarek arrives and has some keys on him that the Rakshasa takes for an unknown purpose to an unknown end. That'll probably pay off, like, in the in the third installment of of the trilogy of Feywild Adventures, something like that. And with keys, He shares the story that's at the heart of the house and the party. He came to the Twilight Kingdom seeking to understand this state of time, this state of being. And learned that at the height of the party.
+DM: And Tarek arrives and has some keys on him that the Rakshasa takes for an unknown purpose, to an unknown end. That'll probably pay off in the third installment of the trilogy of Feywild adventures, something like that. And with keys, he shares the story that's at the heart of the house and the party. He came to the Twilight Kingdom seeking to understand this state of time, this state of being, and learned that at the height of the party.
 
 %% u0076-u0080 %%
 DM: So, regardless of what that means temporally, certainly narratively, there's a before, there's a height of the party when this revelry is in full swing. At the height of the party, the neighbors... Who had newly moved in, one door down, came to this house, which was ruled at that time by someone called Lord Revel, Lord Revel's Beginning, who wanted him to send mortals through the door of their house, whenever he had a mortal who came.
@@ -183,7 +183,7 @@ DM: Oh, sure, yeah.
 Tarek: And so he found one or two of them. And then one of them was.
 
 %% u0190 %%
-DM: What, like a a wet bar?
+DM: What, like a wet bar?
 
 %% u0191-u0195 %%
 DM: Everything looked pretty crusty, but within that room was a chest within a chest, locked but unobstructed, and a tiny vial of some kind of powder. He opened it to have a look without intentionally ingesting anything, then noticed a few minutes later that the world seemed a little bit sideways. We don't know what that was.
@@ -267,7 +267,7 @@ DM: Situation calls for... Perhaps a bit of... Something different than the usua
 Ayveen: Ayveen is...
 
 %% u0239-u0240 %%
-DM: On a border between things that are making her more comfortable and things that are making her less. She's... Familiar with this sort of party scene, the music, the the nice homes.
+DM: On a border between things that are making her more comfortable and things that are making her less. She's... Familiar with this sort of party scene, the music, the nice homes.
 
 %% u0241 %%
 Ayveen: But she's in her traveling clothes, she's she's...
@@ -321,7 +321,7 @@ Ayveen: Feeling like she's she's getting a little bit of her ground, as much as 
 Kaito Min: So, I apologize, because I feel like I missed a bit of the end of the recap. David, can you say one more time, like, where exactly we all are right now?
 
 %% u0267-u0269 %%
-DM: Oh, yeah, yeah. So the the sort of adjacent rooms are there's this outside, covered, enclosed porch that you were chatting with the Rakshasa on. That's immediately adjacent to a room that sort of got the bar and where the food was set up and very picked over now. The two halflings are behind the bar, helping themselves. That room opens to the ballroom and opens to the library. So the ballroom's that great big space with the Lord at the far end, and the library's where the sleeping human is.
+DM: Oh, yeah, yeah. So the sort of adjacent rooms are: there's this outside, covered, enclosed porch that you were chatting with the Rakshasa on. That's immediately adjacent to a room that has the bar and where the food was set up and very picked over now. The two halflings are behind the bar, helping themselves. That room opens to the ballroom and opens to the library. So the ballroom's that great big space with the Lord at the far end, and the library's where the sleeping human is.
 
 %% u0270 %%
 DM: And then there's more spaces, but these are...
@@ -396,7 +396,7 @@ DM: It's that vibe, like, as the party's winding down, when, like, everyone's so
 Kaito Min: Kaito knows the parties extremely well. And but there's always the group, and it's kind of like the halflings, but perhaps others, that are desperately wanting the party to continue, and are, like, trying to, like, what the fuck, the party's ending? Like, how could the party be ending? Like, there's always the group that's, like so he's trying to find those people. to entertain them. So is there such a group that's, like, near the house or whatever that's, like, you know?
 
 %% u0298-u0302 %%
-DM: I think so. I think what I would say is... Maybe that's what you've been about, like... For the last 10 or 15 minutes. Okay. And there's a way, though, that it's... I think it's still unsatisfying, because, like, for those it's like trying to push a boulder uphill. Like, there's not the momentum is it's, like, demoralizing, almost, in a certain way, too. Like... You know that the the tide has already turned, And and those people are... I don't know, they're...
+DM: I think so. I think what I would say is... Maybe that's what you've been about, like... For the last 10 or 15 minutes. Okay. And there's a way, though, that it's... I think it's still unsatisfying, because for those people it's like trying to push a boulder uphill. There's not the momentum; it's demoralizing, almost, in a certain way, too. You know that the tide has already turned, and those people are... I don't know, they're...
 
 %% u0303 %%
 Kaito Min: Okay, I'll roll with this. Like, I think, yeah, Kaito's spent, like, some time, you know, trying to engage some of the guests, but then is sort of feeling like, you know, maybe this isn't quite the right vibe, and then makes his way back over to the house, because he sees, you know, so... I'm just going to say, also, since I actually genuinely missed the conversation with the Rakshasa, is that right?
@@ -873,7 +873,7 @@ Edric: I just thought maybe there was an elf to fight.
 Tarek: I'm only making stuff up when I'm making stuff up.
 
 %% u0511-u0513 %%
-DM: You know what I'm saying? Yeah, yeah, no, it's a good point, it's a good point. Short answer, there are no elves at this point. None that you've seen this.
+DM: You know what I'm saying? Yeah, yeah, no, it's a good point, it's a good point. Short answer, there are no elves at this point. None that you've seen.
 
 %% u0514 %%
 Edric: Edric has an 8 Intelligence.
@@ -1017,13 +1017,13 @@ Tarek: That's a thing. I do have that other thing. Well, we'll see. Let's just s
 Txarro: I have an idea, but... None of you... None of you have illusion magic, do you?
 
 %% u0592-u0593 %%
-DM: And I was like... Like, a little like, his fingertips have a little bit of flame on them. it's such...
+DM: His fingertips have a little bit of flame on them.
 
 %% u0594 %%
 Txarro: But can you, like, actually create an image?
 
 %% u0595-u0596 %%
-DM: Jaw. Good question.
+DM: Good question.
 
 %% u0597 %%
 Txarro: I don't think you like, you don't have minor illusion or something like that.
