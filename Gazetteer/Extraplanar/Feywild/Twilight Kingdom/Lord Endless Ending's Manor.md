@@ -6,8 +6,8 @@ name: Lord Endless Ending's Manor
 typeOf: building
 typeOfAlias: fey manor
 whereabouts: Twilight Kingdom
-dm_owner: none
-dm_notes: none
+dm_owner: schwartz
+dm_notes: important
 ---
 # Lord Endless Ending's Manor
 >[!info]+ Information  

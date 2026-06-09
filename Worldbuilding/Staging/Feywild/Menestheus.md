@@ -7,8 +7,8 @@ ancestry: Drankorian
 gender: male
 whereabouts: Lord Endless Ending's Manor
 affiliations: [Arithrimos Lamperum]
-dm_owner: none
-dm_notes: none
+dm_owner: schwartz
+dm_notes: important
 ---
 # Menestheus
 

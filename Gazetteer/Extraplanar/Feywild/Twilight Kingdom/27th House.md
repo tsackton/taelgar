@@ -6,8 +6,8 @@ aliases: [Twenty-Seventh House, neighbor's house]
 typeOf: building
 typeOfAlias: fey house
 whereabouts: Twilight Kingdom
-dm_owner: none
-dm_notes: none
+dm_owner: schwartz
+dm_notes: important
 ---
 # The 27th House
 >[!info]+ Information  

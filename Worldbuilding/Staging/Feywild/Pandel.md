@@ -6,8 +6,8 @@ species: halfling
 ancestry: Chardonian
 gender: male
 whereabouts: Lord Endless Ending's Manor
-dm_owner: none
-dm_notes: none
+dm_owner: schwartz
+dm_notes: important
 ---
 # Pandel
 

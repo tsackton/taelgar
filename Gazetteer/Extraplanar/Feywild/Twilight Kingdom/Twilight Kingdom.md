@@ -4,8 +4,8 @@ tags: [place]
 name: Twilight Kingdom
 typeOf: extraplanar domain
 whereabouts: Feywild
-dm_owner: none
-dm_notes: none
+dm_owner: schwartz
+dm_notes: important
 ---
 # The Twilight Kingdom
 >[!info]+ Information  

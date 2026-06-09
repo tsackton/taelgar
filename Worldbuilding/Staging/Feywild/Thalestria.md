@@ -7,8 +7,8 @@ ancestry: Drankorian
 gender: female
 affiliations:
   - {org: Arithrimos Lamperum, type: leader}
-dm_owner: none
-dm_notes: none
+dm_owner: schwartz
+dm_notes: important
 ---
 # Thalestria
 
