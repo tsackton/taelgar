@@ -6,7 +6,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1740-10-05), evening: party ends at [[Lord Endless Ending's manor]].
+- Candidate party whereabouts: (DR:: 1740-10-05), evening: party ends at [[Lord Endless Ending's Manor]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
@@ -16,11 +16,11 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
-- [[Lord Endless Ending]]: candidate whereabouts update from (DR:: 1740-10-05), evening -> [[Lord Endless Ending's manor]].
+- [[Lord Endless Ending]]: candidate whereabouts update from (DR:: 1740-10-05), evening -> [[Lord Endless Ending's Manor]].
   - Whereabouts line: `- {type: away, start: 1740-10-05, location: Lord Endless Ending's manor}`
-- [[Pandel]]: candidate whereabouts update from (DR:: 1740-10-05), evening -> [[Lord Endless Ending's manor]].
+- [[Pandel]]: candidate whereabouts update from (DR:: 1740-10-05), evening -> [[Lord Endless Ending's Manor]].
   - Whereabouts line: `- {type: away, start: 1740-10-05, location: Lord Endless Ending's manor}`
-- [[Rakshasa]]: candidate whereabouts update from (DR:: 1740-10-05), evening -> [[Lord Endless Ending's manor]].
+- [[Rakshasa]]: candidate whereabouts update from (DR:: 1740-10-05), evening -> [[Lord Endless Ending's Manor]].
   - Whereabouts line: `- {type: away, start: 1740-10-05, location: Lord Endless Ending's manor}`
 <!-- /SLOT -->
 

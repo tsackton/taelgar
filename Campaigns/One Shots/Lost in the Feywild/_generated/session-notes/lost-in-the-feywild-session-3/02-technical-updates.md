@@ -21,7 +21,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
   - Whereabouts line: `- {type: away, start: 1740-10-05, location: single door on the western promontory}`
 - [[Menestheus]]: candidate whereabouts update from (DR:: 1740-10-05), evening -> [[single door on the western promontory]].
   - Whereabouts line: `- {type: away, start: 1740-10-05, location: single door on the western promontory}`
-- road guards: candidate whereabouts update from (DR:: 1740-10-05), evening -> [[Lord Endless Ending's manor]].
+- road guards: candidate whereabouts update from (DR:: 1740-10-05), evening -> [[Lord Endless Ending's Manor]].
   - Whereabouts line: `- {type: away, start: 1740-10-05, location: Lord Endless Ending's manor}`
 <!-- /SLOT -->
 
