@@ -1789,3 +1789,64 @@ Txarro: Okay.
 
 %% u1651 %%
 Kaito Min: We try to exit the gate.
+
+
+%% u1652 %%
+DM: Here's the question for you all.
+
+%% u1653 %%
+Txarro: Before we exit the gate, I want to talk to the guards.
+
+%% u1654 %%
+Kaito Min: From the from the manor side of the gate.
+
+%% u1655 %%
+Ayveen: So, did the owl when the owl was watching the lady, did she walk through the same gate that we came in past the guards with the smell? Or did she go out some other way?
+
+%% u1656-u1664 %%
+DM: No, there's only one gate out. She went out through it. So here's the question. The way this works is not just about intention. It's that the gate doesn't exist unless, already, in the future, you have gone through the door into the other house. It's not about what your plan is. It's about whether that is the next thing that happens in the story.
+
+%% u1665 %%
+DM: Does that distinction make sense?
+
+%% u1666-u1667 %%
+Ayveen: Like, we actually have to be going to go through the door in a way that's already sort of happened in our future for the door to exist, yeah.
+
+%% u1668 %%
+DM: That's exactly right. You have to have already done it in the future.
+
+%% u1669-u1670 %%
+Ayveen: So once we're on the road, we can't change our mind. Cause not...
+
+%% u1671 %%
+DM: Meaningfully.
+
+%% u1672 %%
+Ayveen: Yeah, the door only opened because we were actually going to go through the other door.
+
+%% u1673 %%
+DM: Right.
+
+%% u1674 %%
+Ayveen: We weren't going to change our mind anyway, right guys?
+
+%% u1675-u1676 %%
+Kaito Min: Yeah, that's what we're doing. Of course we're going to the other house.
+
+%% u1677 %%
+Ayveen: But you want to talk to the guards just to see if there's any more information we can ask by framing things in a different way?
+
+%% u1678-u1679 %%
+Txarro: I want to know where the people who smell bad come from.
+
+%% u1680 %%
+Edric: Yeah.
+
+%% u1681-u1686 %%
+DM: Oh, yeah. So you can definitely ask the guards that, and they'll, Let's see, they'll say, You know our post is here, so we don't. We don't know exactly, but... The ones who patrol the road, they find them on the road. you know, out out walking, or wandering, or... Going from place to place?
+
+%% u1687-u1689 %%
+Kaito Min: Sorry about that.
+
+%% u1690-u1693 %%
+DM: More of them in this part than the other, so... Oh, I mean, they... That could well come from that house. We've seen a couple of people. Coming from that direction, running as fast as they can. Mmm. Not good. Not a good smell.
