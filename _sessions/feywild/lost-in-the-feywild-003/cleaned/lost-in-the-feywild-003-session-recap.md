@@ -204,9 +204,13 @@ With Menestheus, the party presses onward to the 27th House whose entry is a sim
 
 - The [[Twilight Kingdom]]
   - Summary: Feywild realm of fixed twilight, many houses, strange roads, and unstable boundaries
+  - Sublocations:  none
+  - Date Visited: 1740-10-05
 - [[27th House]]
   - Summary: neighbor's house associated with the wizard, the 27th room, the glass key, and the possible way home
-- [[Lord Endless Ending's manor]]:
+  - Sublocations: none
+  - Date Visited: 1740-10-05
+- [[Lord Endless Ending's manor]]
   - Summary: A fey manor caught in the ending of a party, where Lord Endless Ending receives guests and sends mortals away when the clock strikes zero
   - Sublocations: ballroom, porch, bar room, library, gate, and river beside the grounds
   - Date Visited: 1740-10-05
@@ -273,104 +277,17 @@ With Menestheus, the party presses onward to the 27th House whose entry is a sim
 
 ## Pull Quotes
 
-- ID: quote-B01-001
-  - Quote: "This party kinda sucks."
-  - Speaker: Kaito Min
-  - Source Lines: u0314
-
-- ID: quote-B01-002
-  - Quote: "We know that the Lord of this house is required when the clock chimes zero."
-  - Speaker: Ayveen
-  - Source Lines: u0408-u0411
-
-- ID: quote-B01-003
-  - Quote: "I don't want to be one of those mortals."
-  - Speaker: Ayveen
-  - Source Lines: u0417-u0422
-
-- ID: quote-B03-001
-  - Quote: "A wild and sorrowed laugh that haunts the night."
-  - Speaker: DM
-  - Source Lines: u0744-u0748
-
-- ID: quote-B03-002
-  - Quote: "The 27th room. Its walls are made of cold iron older than twilight."
-  - Speaker: DM
-  - Source Lines: u1050-u1060
-
-- ID: quote-B03-003
-  - Quote: "As I do not wish to have been compelled, so I do not wish to compel you."
-  - Speaker: DM
-  - Source Lines: u1623
-
-- ID: quote-B06-001
-  - Quote: "The Shape of Possibility is singular, and everything in that event happens simultaneously."
-  - Speaker: DM
-  - Source Lines: u1895-u1902
-
-- ID: quote-B06-002
-  - Quote: "The story itself. Every point in the story exists simultaneously."
-  - Speaker: DM
-  - Source Lines: u1906-u1909
-
-- ID: quote-B06-003
-  - Quote: "You hear the clock strike zero. What would you like to do?"
-  - Speaker: DM
-  - Source Lines: u2061-u2062
-
-- ID: quote-B08-001
-  - Quote: "I can't believe she was right."
-  - Speaker: DM
-  - Source Lines: u2262-u2263
-
-- ID: quote-B08-002
-  - Quote: "You can show the numbers openly, but you can only decipher them if you know their factors."
-  - Speaker: DM
-  - Source Lines: u2409-u2411
-
 - ID: quote-B08-003
   - Quote: "So take the secret path I cannot see. Bring back the key. And finally set me free."
-  - Speaker: DM
+  - Speaker: Lord Endless Ending
   - Source Lines: u2588-u2590
 
 ## Audio Highlights
-
-- ID: audio-001
-  - Title: The glass key in the 27th room
-  - Speaker: DM
-  - Source Lines: u1050-u1063
-  - Output: audio-001.m4a
-  - Summary: Lord Endless Ending explains the cold-iron 27th room, the glass key, and the possible release from his bargain.
-  - Why Called Out: Central bargain explanation with strong fey imagery and clear stakes.
-
-- ID: audio-002
-  - Title: The Shape of Possibility
-  - Speaker: DM
-  - Source Lines: u1866-u1909
-  - Output: audio-002.m4a
-  - Summary: The party reads Menestheus's book about possible futures, simultaneous story-time, and the shape of events after they have happened.
-  - Why Called Out: Dense lore monologue that gives the session's time logic an elegant metaphor.
-
-- ID: audio-003
-  - Title: Keeping the outside out
-  - Speaker: DM
-  - Source Lines: u2266-u2306
-  - Output: audio-003.m4a
-  - Summary: Menestheus explains his society's work maintaining the walls between the world, the Feywild, dream, and other realms.
-  - Why Called Out: Important worldbuilding speech that reframes the Feywild incursion as boundary maintenance.
-
-- ID: audio-004
-  - Title: Brilliant numbers as hidden maps
-  - Speaker: DM
-  - Source Lines: u2383-u2424
-  - Output: audio-004.m4a
-  - Summary: Menestheus describes how brilliant numbers encode precise locations and hide maps of weak points between planes in plain sight.
-  - Why Called Out: Defines the title concept of the beat and explains why the clock's numbers matter.
 
 - ID: audio-005
   - Title: Bring back the key
   - Speaker: DM
   - Source Lines: u2574-u2590
   - Output: audio-005.m4a
-  - Summary: Lord Endless Ending speaks a closing sonnet as the party reaches the lone door.
+  - Summary: Lord Endless Ending speaks a closing sonnet as the party reaches the lone door
   - Why Called Out: Strong session-ending audio moment with the Lord's plea and the next objective.
