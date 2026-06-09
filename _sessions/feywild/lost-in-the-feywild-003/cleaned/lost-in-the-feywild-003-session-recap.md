@@ -67,7 +67,7 @@ The party reconstructs the working theory for Kaito. When the clock strikes zero
 - Beat IDs: B03
 - Date: 1740-10-05
 - Time: evening
-- Source Range: u0648 -> u1651
+- Source Range: u0648 -> u1693
 - Polished Transcript: beat-transcripts/lost-in-the-feywild-003-recap-003-transcript.md
 - Locations: Lord Endless Ending's manor
 - NPCs: Lord Endless Ending, badger butler
@@ -76,14 +76,14 @@ The party reconstructs the working theory for Kaito. When the clock strikes zero
 - Enemies: none
 
 #### Short
-After regrouping, the party crosses the ballroom to Lord Endless Ending, answering his demand for gifts with improvised offerings. In response to the lord's inquiry, Txarro admits the party is trapped and seeking a way home. Lord Endless Ending speaks of a way home, and explains his predicatment: a mortal wizard bound him to send guests through the neighbor's house, until a glass key from the 27th room is broken. After some debate, the party decides to go. 
+After regrouping, the party crosses the ballroom to Lord Endless Ending, answering his demand for gifts with improvised offerings. In response to the lord's inquiry, Txarro admits the party is trapped and seeking a way home. Lord Endless Ending speaks of a way home, and explains his predicatment: a mortal wizard bound him to send guests through the neighbor's house, until a glass key from the 27th room is broken. After some debate, the party decides to go, realizing that they can only exit if they have already proceeded to the 27th room in their future. 
 
 #### Intermediate
 After regrouping, the party crosses the ballroom to Lord Endless Ending and his anxious badger butler, answering his demand for gifts with Txarro's loon call, Edric's blessed water, Kaito's musical performance, Tarek's mouse-skull trick, and Ayveen's moonrise sheet music. Lord Endless Ending receives them with poetry before welcoming the mortals into his home.
 
 Speaking to the Lord, Txarro admits that they are trapped in the Feywild and seeking a way home. Lord Endless Ending says there may be a way home lies through the nearest neighbor's house, the same direction as the woman sent by the clock. When pressed, he describes being tricked by a mortal wizard into an agreement to send guests through that house whenever the clock strikes zero, and says the bargain can be undone if a glass key from the cold-iron 27th room is brought back and broken. 
 
-While Lord Endless Ending steps aside, the party argues through the risks: whether retrieving the glass key helps Holda, whether the neighbor's house is really their best exit, and whether any agreement with a fey lord is too dangerous. In the end, they decide to go, but Kaito carefully secures permission to leave toward the neighbor's house without being bound to recover the key.
+While Lord Endless Ending steps aside, the party argues through the risks: whether retrieving the glass key helps Holda, whether the neighbor's house is really their best exit, and whether any agreement with a fey lord is too dangerous. In the end, they decide to go, but Kaito carefully secures permission to leave toward the neighbor's house without being bound to recover the key. The exit proves stranger than intention: the gate will be there only if the party has already gone through the neighbor's door in their future. 
 
 #### Long
 The party crosses the ballroom to Lord Endless Ending, an elegant fey lord attended by an anxious badger butler. Kaito reads the butler's surface thoughts and finds a servant almost overwhelmed by work needed to clean up the household disorder: broken glass, wine stains, interrupted duties, and the frustration of waiting beside his Lord when there is cleaning to do.
@@ -102,7 +102,7 @@ Kaito then carefully phrases the party's departure so that they are headed towar
 - Beat IDs: B06
 - Date: 1740-10-05
 - Time: evening
-- Source Range: u1652 -> u2119
+- Source Range: u1694 -> u2119
 - Polished Transcript: beat-transcripts/lost-in-the-feywild-003-recap-006-transcript.md
 - Locations: Lord Endless Ending's manor
 - NPCs: Lord Endless Ending, badger butler, road guards, Menestheus
@@ -111,15 +111,15 @@ Kaito then carefully phrases the party's departure so that they are headed towar
 - Enemies: none
 
 #### Short
-Before leaving, they return to study the clock, and note the numbers on its face. The sleeping scholar in the study seems connected: study the sleeping scholar's books about possibility and brilliant numbers.
+Before leaving, they return to study the clock, and note the numbers on its face. Lord Endless Ending points them to a sleeping scholar in the study, and they investigate his books about possibility and brilliant numbers.
 
 #### Intermediate
-The exit proves stranger than intention: the gate will be there only if the party has already gone through the neighbor's door in their future. Before they step through, Edric returns to ask about the clock, and Lord Endless Ending points them to a sleeping member of the wizard's entourage in the library; Kaito reads the man's number-dreams while Tarek steals his books: The Shape of Possibility and Brilliant Numbers.
+Before they step through, Edric returns to ask about the clock, which the party notes has strange numbers on its face. Lord Endless Ending points them to a sleeping member of the wizard's entourage in the library; Kaito reads the man's number-dreams while Tarek steals his books: The Shape of Possibility and Brilliant Numbers.
 
 Txarro tests the river beside the manor and discovers that swimming around the bend brings him back to the same ending party, leaving him deeply unsettled. 
 
 #### Long
-Inspecting the grandfather clock which resembles the one they saw in Dandelion House, they find a dial with Dwarven Reckoning dates on its face which span from the first year of Drankor to their present day (1740), and four dials which (they later learn) show four six-digit prime numbers. The numbers on the face and four dials all change at once, with no discernable order.
+Before leaving, they return to the clock. Inspecting the grandfather clock which resembles the one they saw in Dandelion House, they find a dial with Dwarven Reckoning dates on its face which span from the first year of Drankor to their present day (1740), and four dials which (they later learn) show four six-digit prime numbers. The numbers on the face and four dials all change at once, with no discernable order.
 
 In the library, the party finds the sleeping scholar later known as Menestheus. Kaito reads dreams made of numbers, beauty, deadlines, unfamiliar language, and annoyance at his boss, while Tarek lifts two books from the scholar's satchel. With Ayveen's Comprehend Languages, the group reads "The Shape of Possibility" and "Brilliant Numbers", finding theories about possible futures, story-like time, and number systems that may encode locations or possibilities.
 
@@ -140,16 +140,13 @@ Still looking for any other way out, Txarro dives into the river beside the mano
 - Enemies: none
 
 #### Short
-
-When the clock chimes again, they meet the awakened scholar Menestheus at the gate. 
-
-Menestheus explains Thalestria's order and leads them to the lone door while Lord Endless Ending asks for the key.
+The party returns to the gate as the clock chimes again, where they meet the awakened scholar Menestheus. He explains Thalestria's order and leads them to the lone door down the road. 
 
 #### Intermediate
 
-The clock then strikes zero, the party waits near the gate to follow the next sent guest, and the newly awakened scholar arrives with his lightened satchel, uses a ring to bridge the language gap, and explains that he came from Drankor and the 27th house with a large group.
+The party returns to the gate as the clock strikes zero; they wait near the gate to follow the next sent guest. It turns out to be the newly awakened scholar, who arrives with his lightened satchel, and explains that he came from Drankor and the 27th house with a large group.
 
-Menestheus realizes that Drankor has been gone for centuries and that everyone he knew is dead, then explains that Thalestria led an order dedicated to maintaining the boundaries between worlds. He describes brilliant numbers as a way to hide precise maps of weak places in plain sight, accepts his book back without noticing the theft, and leads the party down the north road to a single door on a cliff-ringed promontory as Lord Endless Ending's distant poem asks them to bring back the key.
+The scholar introduces himself as Menestheus, and realizes that Drankor has been gone for centuries and that everyone he knew is dead. He then explains that Thalestria led an order dedicated to maintaining the boundaries between worlds. He describes brilliant numbers as a way to hide precise maps of weak places in plain sight, accepts his book back without noticing the theft, and leads the party down the north road to a single door on a cliff-ringed promontory.
 
 #### Long
 
@@ -200,25 +197,21 @@ With Menestheus, the party presses onward to the 27th House whose entry is a sim
 - Rakshasa (mentioned): tiger-headed guest and informant from the prior session
 - unnamed wizard neighbor (mentioned):  mortal wizard who tricked Lord Endless Ending into the sending bargain
 - [[Thalestria]] (mentioned): Menestheus's master and head of Arithrimos Lamperum
-- 
+
 
 ## Locations
 
 
-The [[Twilight Kingdom]]: Feywild realm of fixed twilight, many houses, strange roads, and unstable boundaries
-[[Lord Endless Ending's manor]]: fey manor caught in the ending of a party, where Lord Endless Ending receives guests and sends mortals away when the clock strikes zero
-single door on the western promontory: isolated doorway north and west of Lord Endless Ending's manor, apparently leading toward the 27th house
-[[27th House]]: neighbor's house associated with the wizard, the 27th room, the glass key, and the possible way home
-[[Dandelion House]]: old manor with the door Holda used to send the party into the Feywild and a clock similar to Lord Endless Ending's
-
----
-
-- Lord Endless Ending's manor
-  - Summary: Feywild manor in the Twilight Kingdom caught in the ending of a party, where Lord Endless Ending receives guests and sends mortals away when the clock strikes zero.
+- The [[Twilight Kingdom]]
+  - Summary: Feywild realm of fixed twilight, many houses, strange roads, and unstable boundaries
+- [[27th House]]
+  - Summary: neighbor's house associated with the wizard, the 27th room, the glass key, and the possible way home
+- [[Lord Endless Ending's manor]]:
+  - Summary: A fey manor caught in the ending of a party, where Lord Endless Ending receives guests and sends mortals away when the clock strikes zero
   - Sublocations: ballroom, porch, bar room, library, gate, and river beside the grounds
   - Date Visited: 1740-10-05
-- single door on the western promontory
-  - Summary: Isolated doorway north and west of Lord Endless Ending's manor, apparently leading toward the 27th house.
+- The Lone Door 
+  - Summary: A single isolated door on a promontory north and west of Lord Endless Ending's manor, apparently leading toward the 27th house.
   - Sublocations: north road, westward footpath, cliff-ringed promontory, lone doorframe
   - Date Visited: 1740-10-05
 
