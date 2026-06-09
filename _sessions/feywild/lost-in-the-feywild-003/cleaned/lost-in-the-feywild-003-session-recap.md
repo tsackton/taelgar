@@ -210,7 +210,7 @@ With Menestheus, the party presses onward to the 27th House whose entry is a sim
   - Summary: neighbor's house associated with the wizard, the 27th room, the glass key, and the possible way home
   - Sublocations: none
   - Date Visited: 1740-10-05
-- [[Lord Endless Ending's manor]]
+- [[Lord Endless Ending's Manor]]
   - Summary: A fey manor caught in the ending of a party, where Lord Endless Ending receives guests and sends mortals away when the clock strikes zero
   - Sublocations: ballroom, porch, bar room, library, gate, and river beside the grounds
   - Date Visited: 1740-10-05
