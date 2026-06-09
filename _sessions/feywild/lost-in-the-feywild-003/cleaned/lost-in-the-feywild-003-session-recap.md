@@ -76,16 +76,14 @@ The party reconstructs the working theory for Kaito. When the clock strikes zero
 - Enemies: none
 
 #### Short
-The party crosses the ballroom to Lord Endless Ending, answering his demand for gifts with improvised offerings. In response to the lord's inquiry, Txarro admits the party is trapped and seeking a way home. Lord Endless Ending speaks of a way home in the next house, but explains that a mortal wizard bound him to send guests through the neighbor's house until a glass key from the 27th room is broken.
-
-They choose to leave for that house without promising the key or accepting a fey bargain.
+After regrouping, the party crosses the ballroom to Lord Endless Ending, answering his demand for gifts with improvised offerings. In response to the lord's inquiry, Txarro admits the party is trapped and seeking a way home. Lord Endless Ending speaks of a way home, and explains his predicatment: a mortal wizard bound him to send guests through the neighbor's house, until a glass key from the 27th room is broken. After some debate, the party decides to go. 
 
 #### Intermediate
-The party crosses the ballroom to the elegant fey lord and his anxious badger butler, and Kaito reads the butler's worried surface thoughts. The group answers the demand for gifts with Txarro's loon call, Edric's blessed water, Kaito's musical performance, Tarek's mouse-skull trick, and Ayveen's moonrise sheet music, and Lord Endless Ending receives them with poetry before welcoming the mortals into his home.
+After regrouping, the party crosses the ballroom to Lord Endless Ending and his anxious badger butler, answering his demand for gifts with Txarro's loon call, Edric's blessed water, Kaito's musical performance, Tarek's mouse-skull trick, and Ayveen's moonrise sheet music. Lord Endless Ending receives them with poetry before welcoming the mortals into his home.
 
-Txarro admits that they are trapped, and Lord Endless Ending says the way home lies through the nearest neighbor's house, the same direction as the woman sent by the clock. When pressed, he describes being tricked by a mortal wizard into an agreement to send guests through that house whenever the clock strikes zero, and says the bargain can be undone if a glass key from the cold-iron 27th room is brought back and broken.
+Speaking to the Lord, Txarro admits that they are trapped in the Feywild and seeking a way home. Lord Endless Ending says there may be a way home lies through the nearest neighbor's house, the same direction as the woman sent by the clock. When pressed, he describes being tricked by a mortal wizard into an agreement to send guests through that house whenever the clock strikes zero, and says the bargain can be undone if a glass key from the cold-iron 27th room is brought back and broken. 
 
-While Lord Endless Ending steps aside, the party debates whether retrieving the glass key helps Holda, whether the neighbor's house is still their best exit, and whether any agreement with a fey lord is too dangerous. They study the clock, connect it to Dwarven Reckoning dates and the similar clock in Dandelion House, ask the Lord about Holda, and Kaito carefully secures permission to leave toward the neighbor's house without being bound to recover the key.
+While Lord Endless Ending steps aside, the party argues through the risks: whether retrieving the glass key helps Holda, whether the neighbor's house is really their best exit, and whether any agreement with a fey lord is too dangerous. In the end, they decide to go, but Kaito carefully secures permission to leave toward the neighbor's house without being bound to recover the key.
 
 #### Long
 The party crosses the ballroom to Lord Endless Ending, an elegant fey lord attended by an anxious badger butler. Kaito reads the butler's surface thoughts and finds a servant almost overwhelmed by work needed to clean up the household disorder: broken glass, wine stains, interrupted duties, and the frustration of waiting beside his Lord when there is cleaning to do.
@@ -113,10 +111,10 @@ Kaito then carefully phrases the party's departure so that they are headed towar
 - Enemies: none
 
 #### Short
-Before leaving, they learn the gate depends on their future choice and study the sleeping scholar's books about possibility and brilliant numbers.
+Before leaving, they return to study the clock, and note the numbers on its face. The sleeping scholar in the study seems connected: study the sleeping scholar's books about possibility and brilliant numbers.
 
 #### Intermediate
-The exit proves stranger than intention: the gate will be there only if the party has already gone through the neighbor's door in their future. After the guards say bad-smelling travelers have run from that direction, Edric returns to ask about the clock, and Lord Endless Ending points them to a sleeping member of the wizard's entourage in the library; Kaito reads the man's number-dreams while Tarek's stolen books reveal The Shape of Possibility and Brilliant Numbers.
+The exit proves stranger than intention: the gate will be there only if the party has already gone through the neighbor's door in their future. Before they step through, Edric returns to ask about the clock, and Lord Endless Ending points them to a sleeping member of the wizard's entourage in the library; Kaito reads the man's number-dreams while Tarek steals his books: The Shape of Possibility and Brilliant Numbers.
 
 Txarro tests the river beside the manor and discovers that swimming around the bend brings him back to the same ending party, leaving him deeply unsettled. 
 
