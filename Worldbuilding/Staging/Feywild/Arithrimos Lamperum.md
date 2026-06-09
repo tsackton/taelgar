@@ -4,8 +4,8 @@ tags: [group, status/check/ai]
 name: Arithrimos Lamperum
 typeOf: magical society
 ancestry: Drankorian
-dm_owner: none
-dm_notes: none
+dm_owner: schwartz
+dm_notes: important
 ---
 # Arithrimos Lamperum
 

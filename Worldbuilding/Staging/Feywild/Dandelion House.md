@@ -6,8 +6,8 @@ typeOf: building
 typeOfAlias: manor house
 ancestry: Drankorian
 whereabouts: Varrow Forest
-dm_owner: none
-dm_notes: none
+dm_owner: schwartz
+dm_notes: important
 ---
 # Dandelion House
 

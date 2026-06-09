@@ -10,10 +10,14 @@ gender: male
 whereabouts: Dandelion House
 affiliations:
 - {org: Dandelion House, type: leader, title: Lord}
-dm_owner: none
-dm_notes: none
+dm_owner: schwartz
+dm_notes: important
 ---
 # Lord Holda
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Lord Holda is a Sembaran human adventurer and sellsword who claimed [[Dandelion House]] through an ancient deed. He hired the [[Tollen Misfits]] to pass through a hidden door beneath the manor and convince the lord beyond it to end a long-held treaty.
 
