@@ -121,7 +121,7 @@ Txarro tests the river beside the manor and discovers that swimming around the b
 #### Long
 Before leaving, they return to the clock. Inspecting the grandfather clock which resembles the one they saw in Dandelion House, they find a dial with Dwarven Reckoning dates on its face which span from the first year of Drankor to their present day (1740), and four dials which (they later learn) show four six-digit prime numbers. The numbers on the face and four dials all change at once, with no discernable order.
 
-In the library, the party finds the sleeping scholar later known as Menestheus. Kaito reads dreams made of numbers, beauty, deadlines, unfamiliar language, and annoyance at his boss, while Tarek lifts two books from the scholar's satchel. With Ayveen's Comprehend Languages, the group reads "The Shape of Possibility" and "Brilliant Numbers", finding theories about possible futures, story-like time, and number systems that may encode locations or possibilities.
+In the library, the party finds the sleeping scholar later known as Menestheus. Kaito reads dreams made of numbers, beauty, deadlines, unfamiliar language, and annoyance at his boss, while Tarek lifts two books from the scholar's satchel. With Ayveen's Comprehend Languages, the group reads "The Shape of Possibility" and "[[Brilliant Numbers]]", finding theories about possible futures, story-like time, and number systems that may encode locations or possibilities.
 
 Still looking for any other way out, Txarro dives into the river beside the manor and swims only to find himself reappearing near where he began.
 
@@ -246,7 +246,7 @@ With Menestheus, the party presses onward to the 27th House whose entry is a sim
   - Lord Endless Ending's manor, 1740-10-05
 - The Shape of Possibility (encountered): Menestheus's book about modeling possible futures, time, and story-like simultaneity
   - Lord Endless Ending's manor, 1740-10-05
-- Brilliant Numbers (encountered): Menestheus's book and concept for using factored numbers to hide location information
+- [[Brilliant Numbers]] (encountered): Menestheus's book and concept for using factored numbers to hide location information
   - Lord Endless Ending's manor, 1740-10-05
   - Lord Endless Ending's manor -> single door on the western promontory, 1740-10-05
 - Menestheus's books (encountered): books taken from Menestheus's satchel while he sleeps
