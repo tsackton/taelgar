@@ -3,7 +3,9 @@ headerVersion: 2023.11.25
 tags: [place, status/review]
 name: Chardon
 typeOf: settlement
-whereabouts: Chardonian Empire
+whereabouts: 
+- {type: primary, location: Drankorian Empire, end: 1059}
+- {type: primary, location: Chardonian Empire, start: 1545}
 dm_owner: tim
 dm_notes: important
 typeOfAlias: city
