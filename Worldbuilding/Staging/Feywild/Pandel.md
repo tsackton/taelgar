@@ -3,15 +3,19 @@ headerVersion: 2023.11.25
 tags: [person, status/check/ai]
 name: Pandel
 species: halfling
-ancestry: Chardonian
 gender: male
-whereabouts: Lord Endless Ending's Manor
+whereabouts: 
+- {type: home, end: 1, location: Chardon}
+- {type: away, location: "Lord Endless Ending's Manor", end: 9999}
 dm_owner: schwartz
 dm_notes: important
 ---
 # Pandel
+>[!info]+ Biographical Info  
+> A [[Halflings|halfling]] (he/him)  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Pandel is a drunken halfling guest at [[Lord Endless Ending's Manor]]. He and an unnamed halfling companion came from near [[Chardon]] and speak as if Chardon is still an imperial frontier.
+Pandel is halfling, originally from Chardon, who travele drunken halfling guest at [[Lord Endless Ending's Manor]]. He and an unnamed halfling companion came from near [[Chardon]] and speak as if Chardon is still an imperial frontier.
 
 ## Description
 
