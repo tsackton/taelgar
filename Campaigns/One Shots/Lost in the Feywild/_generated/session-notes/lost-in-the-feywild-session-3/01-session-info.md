@@ -84,7 +84,7 @@ Tuesday, June 2, 2026
 <!-- /SLOT -->
 
 <!-- SLOT: cast -->
-- [[Lord Endless Ending]] (<(*)pronunciation(*;)> <typeof:sn>): fey lord and host of the ending party, bound to send mortal guests toward the [[27th House|neighbor's house]] when the clock strikes zero.
+- [[Lord Endless Ending]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): fey lord and host of the ending party, bound to send mortal guests toward the [[27th House|neighbor's house]] when the clock strikes zero.
 - [[Menestheus]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): displaced Drankorian scholar and guide from Thalestria's entourage.
 - [[Endlessly Ending's Butler]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): anxious attendant to [[Lord Endless Ending]].
 - road guards: doglike keepers of the road outside [[Lord Endless Ending's Manor|Lord Endless Ending's manor]].
@@ -98,12 +98,12 @@ Tuesday, June 2, 2026
 <!-- SLOT: locations -->
 - The [[Twilight Kingdom]]: Feywild realm of fixed twilight, many houses, strange roads, and unstable boundaries.
 - [[27th House]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): [[27th House|neighbor's house]] associated with the wizard, the 27th room, the glass key, and the possible way home.
-- [[Lord Endless Ending's Manor|Lord Endless Ending's manor]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): A fey manor caught in the ending of a party, where [[Lord Endless Ending]] receives guests and sends mortals away when the clock strikes zero. Session context includes: ballroom, porch, bar room, library, gate, and and river beside the grounds.
+- [[Lord Endless Ending's Manor]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): A fey manor caught in the ending of a party, where [[Lord Endless Ending]] receives guests and sends mortals away when the clock strikes zero. Session context includes: ballroom, porch, bar room, library, gate, and and river beside the grounds.
 - The Lone Door: A single isolated door on a promontory north and west of [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], apparently leading toward the [[27th House|27th house]]. Session context includes: north road, westward footpath, cliff-ringed promontory, and lone doorframe.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->
-The [[Twilight Kingdom]], [[27th House]], [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], and The Lone Door
+The [[Twilight Kingdom]], [[27th House]], [[Lord Endless Ending's Manor]], and The Lone Door
 <!-- /SLOT -->
 
 <!-- SLOT: groups -->
@@ -132,9 +132,9 @@ The [[Twilight Kingdom]], [[27th House]], [[Lord Endless Ending's Manor|Lord End
   - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
 - Menestheus's satchel: scholar's bag containing papers, notebooks, and books that [[Tarek]] removes while [[Menestheus]] sleeps.
   - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
-- The Shape of Possibility: Menestheus's book about modeling possible futures, time, and story-like simultaneity.
+- [[The Shape of Possibility]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): Menestheus's book about modeling possible futures, time, and story-like simultaneity.
   - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
-- Brilliant Numbers: Menestheus's book and concept for using factored numbers to hide location information.
+- [[Brilliant Numbers]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): Menestheus's book and concept for using factored numbers to hide location information.
   - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
   - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]] -> single door on the western promontory, 1740-10-05
 - Menestheus's books: books taken from Menestheus's satchel while he sleeps.

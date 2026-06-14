@@ -20,14 +20,14 @@ websiteSessionView: zoomable
 > *Featuring: [[Kaito Min]], [[Edric]], [[Tarek]], [[Ayveen]], [[Txarro]]*
 > *In Taelgar: (DR:: 1740-10-05)*
 > *On Earth: Tuesday, June 2, 2026*
-> *The [[Twilight Kingdom]], [[27th House]], [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], and The Lone Door*
+> *The [[Twilight Kingdom]], [[27th House]], [[Lord Endless Ending's Manor]], and The Lone Door*
 
 At [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], the party learns how the clock, the 27th room, and Menestheus's brilliant-number maps point toward a door that may lead home.
 
 > [!quote] %% NO TITLE %%
 > *So take the secret path I cannot see. 
-> Bring back the key to finally set me free.*
->  `-` Lord Endless Ending
+> Bring back the key. And finally set me free.* 
+> `-` Lord Endless Ending
 ## Audio Highlights
 
 **Bring back the key:** 
@@ -65,9 +65,9 @@ He says he is from Drankor, came from the [[27th House]] with two or three dozen
 
 The party's questions force [[Menestheus]] to confront that he is centuries out of time. Drankor has fallen, its language is no longer spoken, and Thalestria's warnings about the empire's end may have been right. He explains that for centuries the [[Arithrimos Lamperum]] his society closed or repaired the holes between worlds -- between the world, the Feywild, dream, and other realms -- that could not safely stay open. In the waning days of empire, having has presentiment of what was to come, the wizard [[Thalestria]], his master and the head of the order, redirected them toward permanently sealing those breaches which were still open.
 
-[[Menestheus]] explains he is a mathematician and geographer. His work is as a kind of map-reader: four six-digit brilliant numbers together serve as encoded location keys: with the right factors memorized, they can hide maps of weak points between planes in plain sight. [[Tarek]] secretly slips the lifted book back into his satchel while [[Menestheus]] talks.
+[[Menestheus]] explains he is a mathematician and geographer. His work is as a kind of map-reader: four six-digit [[Brilliant Numbers|brilliant numbers]] together serve as encoded location keys: with the right factors memorized, they can hide maps of weak points between planes in plain sight. [[Tarek]] secretly slips the lifted book back into his satchel while [[Menestheus]] talks.
 
-With [[Menestheus]], the party presses onward to the [[27th House]] whose entry is a simple door in doorframe at the end of a narrow priompontory above cliffs that fall into utter darkness below them. As they stand before it, [[Lord Endless Ending]] speaks from the manor, a sonnet which either entreats the party to a future path or describes a past path already taken by the party to bring back the key and set him free.
+With [[Menestheus]], the party presses onward to the [[27th House]] whose entry is a simple door in doorframe at the end of a narrow promontory above cliffs that fall into utter darkness below them. As they stand before it, [[Lord Endless Ending]] speaks from the manor, a sonnet which either entreats the party to a future path or describes a past path already taken by the party to bring back the key and set him free.
 
 	Shadow walks beside you in the gloaming,
 	whisp’ring a name that you forgot to fear.
@@ -87,18 +87,25 @@ With [[Menestheus]], the party presses onward to the [[27th House]] whose entry 
 	So take the secret path I cannot see,
 	bring back the key to finally set me free.
 
+> [!image]
+> ![[the-door-on-the-cliff.jpg]]
+> *The lonely door on a cliff leading to the 27th Room*
+
 ## Cast of Characters
 
-- [[Lord Endless Ending]] (archfey): fey lord and host of the ending party, bound to send mortal guests toward the [[27th House|neighbor's house]] when the clock strikes zero.
+- [[Lord Endless Ending]] (they/them, fae): fey lord and host of the ending party, bound to send mortal guests toward the [[27th House|neighbor's house]] when the clock strikes zero.
 - [[Menestheus]] (he/him, Drankorian human): displaced Drankorian scholar and guide from Thalestria's entourage.
 - [[Endlessly Ending's Butler]] (he/him, humanoid badger): anxious attendant to [[Lord Endless Ending]].
+- road guards: doglike keepers of the road outside [[Lord Endless Ending's Manor|Lord Endless Ending's manor]].
+- unnamed human woman: mortal guest sent away when the clock strikes zero.
 - [[Lord Holda]] (he/him, Sembaran human): party's employer at [[Dandelion House]].
 - [[Rakshasa]] (he/him, tiger-headed mortal): tiger-headed guest and informant from the prior session.
+- unnamed wizard neighbor: mortal wizard who tricked [[Lord Endless Ending]] into the sending bargain.
 - [[Thalestria]] (she/her, Drankorian human): Menestheus's master and head of [[Arithrimos Lamperum]].
 
 ## Places
 
 - The [[Twilight Kingdom]]: Feywild realm of fixed twilight, many houses, strange roads, and unstable boundaries.
 - [[27th House]] (fey house in the [[Twilight Kingdom]], the [[Feywild]]): [[27th House|neighbor's house]] associated with the wizard, the 27th room, the glass key, and the possible way home.
-- [[Lord Endless Ending's Manor|Lord Endless Ending's manor]] (fey manor in the [[Twilight Kingdom]], the [[Feywild]]): A fey manor caught in the ending of a party, where [[Lord Endless Ending]] receives guests and sends mortals away when the clock strikes zero. Session context includes: ballroom, porch, bar room, library, gate, and and river beside the grounds.
+- [[Lord Endless Ending's Manor]] (fey manor in the [[Twilight Kingdom]], the [[Feywild]]): A fey manor caught in the ending of a party, where [[Lord Endless Ending]] receives guests and sends mortals away when the clock strikes zero. Session context includes: ballroom, porch, bar room, library, gate, and and river beside the grounds.
 - The Lone Door: A single isolated door on a promontory north and west of [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], apparently leading toward the [[27th House|27th house]]. Session context includes: north road, westward footpath, cliff-ringed promontory, and lone doorframe.

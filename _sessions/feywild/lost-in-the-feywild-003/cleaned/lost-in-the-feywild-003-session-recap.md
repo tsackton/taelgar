@@ -138,7 +138,10 @@ Still looking for any other way out, Txarro dives into the river beside the mano
 - Organizations: Arithrimos Lamperum
 - Items: Brilliant Numbers, Menestheus's book, single door, eastern screech owl familiar
 - Enemies: none
-
+- Image: the-door-on-the-cliff.jpg
+- Image Placement: end
+- Image Render: 
+- Image Caption: The lonely door on a cliff leading to the 27th Room
 #### Short
 The party returns to the gate as the clock chimes again, where they meet the awakened scholar Menestheus. He explains Thalestria's order and leads them to the lone door down the road. 
 
@@ -158,7 +161,7 @@ The party's questions force Menestheus to confront that he is centuries out of t
 
 Menestheus explains he is a mathematician and geographer. His work is as a kind of map-reader: four six-digit brilliant numbers together serve as encoded location keys: with the right factors memorized, they can hide maps of weak points between planes in plain sight. Tarek secretly slips the lifted book back into his satchel while Menestheus talks.
 
-With Menestheus, the party presses onward to the 27th House whose entry is a simple door in doorframe at the end of a narrow priompontory above cliffs that fall into utter darkness below them. As they stand before it, Lord Endless Ending speaks from the manor, a sonnet which either entreats the party to a future path or describes a past path already taken by the party to bring back the key and set him free.
+With Menestheus, the party presses onward to the 27th House whose entry is a simple door in doorframe at the end of a narrow promontory above cliffs that fall into utter darkness below them. As they stand before it, Lord Endless Ending speaks from the manor, a sonnet which either entreats the party to a future path or describes a past path already taken by the party to bring back the key and set him free.
 
 	Shadow walks beside you in the gloaming,
 	whisp’ring a name that you forgot to fear.
