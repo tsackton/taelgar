@@ -10,7 +10,7 @@ In [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], the grandfather 
 
 After regrouping, the party crosses the ballroom to [[Lord Endless Ending]], answering his demand for gifts with improvised offerings. In response to the lord's inquiry, [[Txarro]] admits the party is trapped and seeking a way home. [[Lord Endless Ending]] speaks of a way home, and explains his predicatment: a mortal wizard bound him to send guests through the [[27th House|neighbor's house]], until a glass key from the 27th room is broken. After some debate, the party decides to go, realizing that they can only exit if they have already proceeded to the 27th room in their future.
 
-Before leaving, they return to study the clock, and note the numbers on its face. [[Lord Endless Ending]] points them to a sleeping scholar in the study, and they investigate his books about possibility and brilliant numbers.
+Before leaving, they return to study the clock, and note the numbers on its face. [[Lord Endless Ending]] points them to a sleeping scholar in the study, and they investigate his books about possibility and [[Brilliant Numbers|brilliant numbers]].
 
 The party returns to the gate as the clock chimes again, where they meet the awakened scholar [[Menestheus]]. He explains Thalestria's order and leads them to the lone door down the road.
 <!-- /SLOT -->
@@ -24,13 +24,13 @@ Speaking to the Lord, [[Txarro]] admits that they are trapped in the Feywild and
 
 While [[Lord Endless Ending]] steps aside, the party argues through the risks: whether retrieving the glass key helps Holda, whether the [[27th House|neighbor's house]] is really their best exit, and whether any agreement with a fey lord is too dangerous. In the end, they decide to go, but Kaito carefully secures permission to leave toward the [[27th House|neighbor's house]] without being bound to recover the key. The exit proves stranger than intention: the gate will be there only if the party has already gone through the neighbor's door in their future.
 
-Before they step through, [[Edric]] returns to ask about the clock, which the party notes has strange numbers on its face. [[Lord Endless Ending]] points them to a sleeping member of the wizard's entourage in the library; Kaito reads the man's number-dreams while [[Tarek]] steals his books: The Shape of Possibility and Brilliant Numbers.
+Before they step through, [[Edric]] returns to ask about the clock, which the party notes has strange numbers on its face. [[Lord Endless Ending]] points them to a sleeping member of the wizard's entourage in the library; Kaito reads the man's number-dreams while [[Tarek]] steals his books: [[The Shape of Possibility]] and [[Brilliant Numbers]].
 
 [[Txarro]] tests the river beside the manor and discovers that swimming around the bend brings him back to the same ending party, leaving him deeply unsettled.
 
 The party returns to the gate as the clock strikes zero; they wait near the gate to follow the next sent guest. It turns out to be the newly awakened scholar, who arrives with his lightened satchel, and explains that he came from Drankor and the [[27th House|27th house]] with a large group.
 
-The scholar introduces himself as [[Menestheus]], and realizes that Drankor has been gone for centuries and that everyone he knew is dead. He then explains that [[Thalestria]] led an order dedicated to maintaining the boundaries between worlds. He describes brilliant numbers as a way to hide precise maps of weak places in plain sight, accepts his book back without noticing the theft, and leads the party down the north road to a single door on a cliff-ringed promontory.
+The scholar introduces himself as [[Menestheus]], and realizes that Drankor has been gone for centuries and that everyone he knew is dead. He then explains that [[Thalestria]] led an order dedicated to maintaining the boundaries between worlds. He describes [[Brilliant Numbers|brilliant numbers]] as a way to hide precise maps of weak places in plain sight, accepts his book back without noticing the theft, and leads the party down the north road to a single door on a cliff-ringed promontory.
 <!-- /SLOT -->
 
 <!-- SLOT: narrative.long -->
@@ -50,7 +50,7 @@ Kaito then carefully phrases the party's departure so that they are headed towar
 
 Before leaving, they return to the clock. Inspecting the grandfather clock which resembles the one they saw in [[Dandelion House]], they find a dial with Dwarven Reckoning dates on its face which span from the first year of Drankor to their present day (1740), and four dials which (they later learn) show four six-digit prime numbers. The numbers on the face and four dials all change at once, with no discernable order.
 
-In the library, the party finds the sleeping scholar later known as [[Menestheus]]. Kaito reads dreams made of numbers, beauty, deadlines, unfamiliar language, and annoyance at his boss, while [[Tarek]] lifts two books from the scholar's satchel. With Ayveen's Comprehend Languages, the group reads "The Shape of Possibility" and "Brilliant Numbers", finding theories about possible futures, story-like time, and number systems that may encode locations or possibilities.
+In the library, the party finds the sleeping scholar later known as [[Menestheus]]. Kaito reads dreams made of numbers, beauty, deadlines, unfamiliar language, and annoyance at his boss, while [[Tarek]] lifts two books from the scholar's satchel. With Ayveen's Comprehend Languages, the group reads "[[The Shape of Possibility]]" and "[[Brilliant Numbers]]", finding theories about possible futures, story-like time, and number systems that may encode locations or possibilities.
 
 Still looking for any other way out, [[Txarro]] dives into the river beside the manor and swims only to find himself reappearing near where he began.
 
@@ -60,9 +60,9 @@ He says he is from Drankor, came from the [[27th House]] with two or three dozen
 
 The party's questions force [[Menestheus]] to confront that he is centuries out of time. Drankor has fallen, its language is no longer spoken, and Thalestria's warnings about the empire's end may have been right. He explains that for centuries the [[Arithrimos Lamperum]] his society closed or repaired the holes between worlds -- between the world, the Feywild, dream, and other realms -- that could not safely stay open. In the waning days of empire, having has presentiment of what was to come, the wizard [[Thalestria]], his master and the head of the order, redirected them toward permanently sealing those breaches which were still open.
 
-[[Menestheus]] explains he is a mathematician and geographer. His work is as a kind of map-reader: four six-digit brilliant numbers together serve as encoded location keys: with the right factors memorized, they can hide maps of weak points between planes in plain sight. [[Tarek]] secretly slips the lifted book back into his satchel while [[Menestheus]] talks.
+[[Menestheus]] explains he is a mathematician and geographer. His work is as a kind of map-reader: four six-digit [[Brilliant Numbers|brilliant numbers]] together serve as encoded location keys: with the right factors memorized, they can hide maps of weak points between planes in plain sight. [[Tarek]] secretly slips the lifted book back into his satchel while [[Menestheus]] talks.
 
-With [[Menestheus]], the party presses onward to the [[27th House]] whose entry is a simple door in doorframe at the end of a narrow priompontory above cliffs that fall into utter darkness below them. As they stand before it, [[Lord Endless Ending]] speaks from the manor, a sonnet which either entreats the party to a future path or describes a past path already taken by the party to bring back the key and set him free.
+With [[Menestheus]], the party presses onward to the [[27th House]] whose entry is a simple door in doorframe at the end of a narrow promontory above cliffs that fall into utter darkness below them. As they stand before it, [[Lord Endless Ending]] speaks from the manor, a sonnet which either entreats the party to a future path or describes a past path already taken by the party to bring back the key and set him free.
 
 	Shadow walks beside you in the gloaming,
 	whisp’ring a name that you forgot to fear.
@@ -81,4 +81,8 @@ With [[Menestheus]], the party presses onward to the [[27th House]] whose entry 
 
 	So take the secret path I cannot see,
 	bring back the key to finally set me free.
+
+> [!image]
+> ![[the-door-on-the-cliff.jpg]]
+> *The lonely door on a cliff leading to the 27th Room*
 <!-- /SLOT -->
