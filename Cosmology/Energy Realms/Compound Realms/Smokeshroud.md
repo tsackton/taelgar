@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place]
 typeOf: plane
 typeOfAlias: compound elemental realm
 whereabouts:
@@ -13,6 +13,6 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Smokeshroud is a poorly described [[Energy Realms|Energy Realm]], associated in [[Airion|Airion the Mistspeaker]]'s system with smoke, concealment, and the mingling of Fire and Air.
+Smokeshroud is a poorly described [[Energy Realms|Energy Realm]], a place of endless smoke, ash and cinder falling from the sky in wave upon wave. In [[Airion|Airion the Mistspeaker]]'s system, it is considered to represent the mingling of Fire and Air.
 
 It is variously considered a compound elemental realm, mixing the [[Elemental Plane of Fire]] and the [[Elemental Plane of Air]]; a border region between those two planes; or its own unique realm of smoke and concealment.
