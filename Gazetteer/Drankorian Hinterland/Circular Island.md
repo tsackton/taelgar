@@ -16,13 +16,13 @@ whereabouts:
 
 %% keeping status/check/name for now, but "The Circular Island" is pretty well established at this point. It probably had another Drankorian name but that could/should probably just be an alias %%
 
-The Circular Island, so-called for is unique perfectly circular shape, is a remote island in the [[Sea of Storms]], off the coast of the [[Drankorian Hinterland]]. The island is difficult to approach, ringed by violent storms and protected by old magic that interferes with ordinary travel and divination, and the old reliable modern accounts of it come from the travels of the [[Dunmar Fellowship]]. 
+The Circular Island, so-called for is unique perfectly circular shape, is a remote island in the [[Sea of Storms]], off the coast of the [[Drankorian Hinterland]]. The island is difficult to approach, ringed by violent storms and protected by old magic that interferes with ordinary travel and divination. The only reliable modern accounts of it come from the travels of the [[Dunmar Fellowship]]. 
 
 The island contains many ancient ruins, dating to the days of the [[Drankorian Empire]] or even before, but the exact nature of these ruins, what once occupied the island, and its former importance is now mostly forgotten. 
 
 %%^Campaign:dufr%%
 
-For those who have visited and explored the Circular Island, and uncovered some of its secrets, the story is much richer. Hidden by storms and guarded against magic, the Circular Island preserves something of Drankorian culture. It contains many ruins, ancient [[Mos Numena]] pilgrimage sites, [[Apollyon's Tower]], and hints of an ancient connection to [[Hkar]]. 
+For those who have visited and explored the Circular Island, and uncovered some of its secrets, the story is much richer. It contains many ruins and ancient [[Mos Numena]] pilgrimage sites, as well as [[Apollyon's Tower]], and hints of an ancient connection to [[Hkar]]. 
 
 However, the Circular Island is near-impossible to reach. It is protected by a massive, permanent storm that dispels all magic passing through it, and it is guarded against all magical scrying and teleportation. The only practical way to enter is to [[Session 106 (DuFr)|brave the storm and sail]]. 
 
@@ -38,13 +38,13 @@ In the final decades of the [[Drankorian Empire]], in the time leading up to and
 
 The island's coast is diverse, with stretches of sheer black cliffs interspersed with singing sand beaches and river mouths. Most notably, eight colossal statues of the Eight Divines stand around the coast, one for each of the divinities of [[Mos Numena]]. Broad white pilgrimage roads lead inland from them, toward the central mountain, still carrying ancient echos of powerful divine magic. Old camps and hostels along these routes preserve practical magic, including runic circles that provide water, food, and warmth, as well as hidden prayers in Drankorian and Elvish.
 
-North of the statue of [[The Wanderer]] lies a [[Alectia|ruined town and port]], once the jewel of the island, but now destroyed and corrupted by plague curses. A number of collapsed towers, elegant manors, and the remnants of a pier still can be found, but patches of cursed land makes exploration for the unwary difficult. By 1749 DR, many of these ruins were occupied by [[Dragonets]], occupying ruined manors and towers as far from plague-cursed lands as possible. 
+North of the statue of [[The Wanderer]] lies a [[Alectia|ruined town and port]], once the jewel of the island, but now destroyed and corrupted by plague curses. A number of collapsed towers, elegant manors, and the remnants of a pier still can be found, but patches of cursed land makes exploration for the unwary difficult. By 1749 DR, many of these ruins were the homes of [[dragonets]], occupying ruined manors and towers as far from plague-cursed lands as possible. 
 
 Inland from the town are numerous villas of ancient scholary and magical societies, many of which have fallen into extreme disrepair. Among the better preserved is the villa of the Concordia Pyrae, which was taken over by [[Ra'ghemdros]] for use as her lair, and adapted to serve as [[Cloudspinner]]'s prison. Cloudspinner's prison stood beneath its ruins, among the cellars, statuary, and magical flames of the old crypt, marked by a flaming red eye in shadow. Cloudspinner herself was in a suspended gray crystal, bound by shadow in a demi-plane and guarded by a fiend of flame and darkness.
 
-The central interior of the island is forested, with a large mountain peak rising from the precise center of the island. The forested interior likely contains many secrets; it also preserves memorials to the [[Downfall Wars]], such as a living elven memorial records names of the dead of the Downfall Wars, revealing memory-visions to those who are attuned to its message. However, not all of the pilgrimage magic has survived the ravages of plague and time inatact: some parts of the forest contain dream-haunted or memory-haunted sites, associated with visions of red mist and choking death.
+The central interior of the island is forested, with a large mountain peak rising from the precise center of the island. The forested interior likely contains many secrets; it also preserves memorials to the [[Downfall Wars]], such as a living elven memorial that records names of the dead of the Downfall Wars, revealing memory-visions to those who are attuned to its message. However, not all of the pilgrimage magic has survived the ravages of plague and time intact: some parts of the forest contain dream-haunted or memory-haunted sites, associated with visions of red mist and choking death.
 
-At the summit of the central mountain stand a temple complex dedicated to the Eight Divines, with eight temples arranged around a central courtyard, beacon, bell, hostels, and pilgrim facilities. Lingering divine magic protects the complex, making it one of the island's few reliable sanctuaries in the modern era. 
+At the summit of the central mountain stand a temple complex dedicated to the Eight Divines, with eight temples arranged around a central courtyard, beacon and bell tower, hostels, and pilgrim facilities. Lingering divine magic protects the complex, making it one of the island's few reliable sanctuaries in the modern era. 
 
 The dragonets rarely travel to the western edge of the island, where [[Apollyon's Tower]] stands on a rugged coastal cliff as a black marble spire. It contains defensive constructs, decayed living spaces, a throne room, libraries, a magical forge of great power, and ritual chambers tied to Apollyon's lichcraft. Notes recovered there helped identify the nature of [[Apollyon's Phylactery]] and the sacrifices used to create it.
 
@@ -52,7 +52,7 @@ The dragonets rarely travel to the western edge of the island, where [[Apollyon'
 
 The island's most powerful recent ruler was [[Ra'ghemdros]], a black dragon and daughter of [[Cha'mutte]]. She ruled from an acidic, shadow-tainted scar near the former villa of the [[Concordia Pyrae]], until her defeat at the hands of the [[Dunmar Fellowship]]. 
 
-The bulk of the population of the Circular Island are dragonets. Small, dragon-like creatures of keen mind and mischievous spirit, they toiled under Ra'ghemdros for many years, surviving as best they could. While some dragonets were true believers in Ra'ghemdros's rule, many others were merely surviving under her authority, or looking for what advantage they could find. 
+The bulk of the population of the Circular Island are [[dragonets]]. Small, dragon-like creatures of keen mind and mischievous spirit, they toiled under Ra'ghemdros for many years, surviving as best they could. While some dragonets were true believers in Ra'ghemdros's rule, many others were merely surviving under her authority, or looking for what advantage they could find. 
 
 [[Dimitaur]], an ancient dragonet and former companion of [[Rai]], lived hidden in the summit temple complex. He remembered Rai, knew more than most dragonets about the island's deeper history, and opposed Ra'ghemdros's hold over the island. Since [[Ra'ghemdros]]'s defeat, he has taken on a more prominent role in the island, though often with a focus primarily on ensuring he has more than enough to eat. 
 

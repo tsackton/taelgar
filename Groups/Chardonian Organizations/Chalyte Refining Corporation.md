@@ -1,0 +1,45 @@
+---
+headerVersion: 2023.11.25
+tags: [group, status/gameupdate/gl]
+displayDefaults: {defArt: "the"}
+typeOf: chartered corporation
+ancestry: Chardonian
+created: 1749-07
+whereabouts: Chardon
+dm_owner: none
+dm_notes: none
+---
+# The Chalyte Refining Corporation
+>[!info]+ Information  
+> A [[Chardonian Empire|Chardonian]] chartered corporation  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+The Chalyte Refining Corporation is a chartered corporation, granted an imperial monopoly on the processing of raw [[chalyte]] ore within the Chardonian Empire. It is managed by a board of control, with equal seats for the [[Windcallers]] and the [[Guild of Chalyte Workers|workers' guilds]], with the Magistros holding the tie-breaking vote. It currently controls and operates three chalyte refineries on the [[North Bank]] of [[Chardon]]. 
+
+It was founded in DR 1749, when the [[Mitus Verina Auratan|Magistros]], in light of corruption within the [[Curia of 42]] and the [[Chamber of Stamps]], claimed direct control of the chartered chalyte monopoly, with the aid of the new source of chalyte in the [[Chataan Mountains]] secured for [[Chardon]] by the [[Dunmar Fellowship]].
+
+%%^Campaign:none%%
+
+## Origin Timeline
+*AI GENERATED*
+
+This timeline combines player-facing session notes with DM-facing and source notes about Chardon's chalyte politics. It is intended as a reference for the political sequence that produced the Chalyte Refining Corporation, not as polished player-facing prose.
+
+- **Before DR 1749-05-24:** [[Fausto]] and [[The Cleansed]] use the [[Crown of Purity]] to infiltrate the [[Hetaeri Magica]] and control key members of the [[Chamber of Stamps]]. The Hetaeri Magica has made itself effectively the only purchaser of refined [[chalyte]], while the four [[Chalyte Oligarchs of Chardon|oligarch families]] control the mines, transport, and refineries. The [[Windcallers]] are formally entitled to some chalyte but politically marginalized by the Hetaeri Magica's control of purchases. Sources: [[Hetaeri Magica]], [[Chalyte Oligarchs of Chardon]], [[Chalyte Rumors from Tiberius]], [[Windcallers]].
+- **DR 1749-05-24:** In [[Drankor]], the [[Dunmar Fellowship]] defeats [[Fausto]] and Kenzo claims the [[Crown of Purity]]. Kenzo orders Chardonian officials tied to the chalyte trade to pursue reform, reparations, and dismantling of the corrupt chalyte order; [[Riswynn]] later maintains those orders while attuned to the Crown. Source: [[Session 116 (DuFr)]].
+- **Late DR 1749-05:** While the Fellowship remains in [[Apollyon's temple]], reports from [[Chardon]] indicate that the chalyte trade is already showing signs of disruption, including strikes and sabotage. Riswynn continues using the Crown's influence to push back against the chalyte trade and to support peace between [[Dunmar]] and [[Chardon]]. Source: [[Session 117 (DuFr)]].
+- **By DR 1749-06-14:** News reaches the party that Chardon has fallen into chaos. Bureaucrats within the chalyte trade, apparently under lingering compulsion from the Crown-directed orders, expose their own corruption; the revelations help ignite [[Eightfold Flame]] riots against the refineries. The Eightfold Flame briefly controls large parts of the [[North Bank]], fires rage through refineries in the [[Ragwater Basin]], and the Magistros declares martial law. Source: [[Session 124 (DuFr)]].
+- **DR 1749-06-27:** The Fellowship re-enters Chardon covertly and finds the [[Chalyte Levels]], [[Riverside Quarter]], and nearby refineries scarred by riots, arson, and martial law. Kenzo meets workers and resistance figures at [[The Cackling Swan]], including [[Andros]], [[Orsino]], and [[Iveila the Red]], and pushes them away from immediate refinery destruction toward organized, durable labor power such as unions or guilds. That evening, [[Tiberius]] interrogates the party aboard the [[Auratan's Pride]] and explains the structure of Chardon's chalyte politics: the [[Curia of 42]] controls chartered monopolies through the Chamber of Stamps, the Hetaeri Magica has monopolized legal purchases of processed chalyte, the oligarch families control production, and the Windcallers distrust profit-driven refinery owners. Sources: [[Session 125 (DuFr)]], [[Chalyte Rumors from Tiberius]].
+- **DR 1749-06-28:** Delwath and Kenzo investigate former Chamber of Stamps officials controlled by Fausto. [[Gaspar]], a shattered former chalyte official, identifies the [[Veldari Family]], and Delwath reads enough from his surface thoughts to connect Fausto's control of the trade to both mind control and bribery. The party also learns that incoming chalyte shipments have halted, that reserves can only sustain Chardon's public works for a limited time, and that the controlled bureaucrats are unlikely to resume their old duties. Source: [[Session 126 (DuFr)]].
+- **DR 1749-06-29:** The Fellowship meets the [[Mitus Verina Auratan|Magistros]]. He acknowledges that chalyte is essential to Chardon's survival but locked under the power of the four oligarch families, with the Curia's monopoly authority and suspected bribery making reform dangerous. He presents two paths: expose a family's bribery and use the scandal to impose conditions on the existing system, or secure a new chalyte source in the [[Chataan Mountains]] that would let him break the families' leverage. The party chooses the Chataan plan; in response to Kenzo's demands for justice for North Bank workers, the Magistros promises to transfer expropriated oligarch lands if the party secures the source. Source: [[Session 126 (DuFr)]].
+- **DR 1749-07-05:** The Fellowship destroys [[Dhrukmir]]'s chalyte death ray, kills Dhrukmir, and opens the Chataan source to Chardonian control. The Magistros begins acting as soon as word reaches him, denouncing the chalyte families, shifting refining toward Windcaller licensing, and preparing edicts against unlicensed chalyte holders. [[Octavia Antussus]] departs for [[Argento]] to bring in the legion, and [[Tristan Brighteyes]] heads toward [[Darba]] to contact the navy. Source: [[Session 129 (DuFr)]].
+- **DR 1749-07-05, evening:** Kenzo uses *Dream* to bargain directly with the Magistros, demanding guarantees that the old oligarchic power will be broken. The Magistros outlines the central move that will create the Chalyte Refining Corporation: he will challenge the Curia's hold over chalyte monopoly rights and claim refining rights for a new corporation jointly controlled by chalyte workers and the Windcallers. Source: [[Session 129 (DuFr)]].
+- **DR 1749-07-06 to DR 1749-07-08:** The Fellowship returns to Chardon aboard [[Vindristjarna]] to support the political settlement and help keep worker organization tied to the new institutional plan rather than uncontrolled refinery destruction. Source: [[Session 129 (DuFr)]].
+- **DR 1749-07-09:** The Fellowship arrives in Chardon after the Magistros has begun the formal restructuring. He proclaims the [[Imperial Chalyte Mining Company]] with monopoly rights in the Chataan Mountains. The [[Patelios Family]] and [[Veldari Family]] are convicted of bribery, their properties are seized, and their scions flee north to [[Voltara]]. [[Auratan Family|Auratan]] and [[Caloren Family|Caloren]] refineries are also confiscated as punishment for allowing Fausto to gain control of the chalyte market. The Magistros consolidates major holdings in the Ragwater Basin and Riverside Quarter and concludes his bargain with Kenzo by granting him ruined North Bank and riverside properties for redevelopment. Sources: [[Session 129 (DuFr)]], [[Imperial Chalyte Mining Company]].
+- **DR 1749-07-10 to DR 1749-08-06:** Kenzo, Delwath, the Windcallers, worker representatives, and the Magistros negotiate the corporation's structure. The settlement gives equal board seats to the Windcallers and the new [[Guild of Chalyte Workers|workers' guilds]]. The Magistros appoints members on Kenzo's advice and holds the tie-breaking vote, but agrees to abstain from profit-sharing decisions so the worker and Windcaller blocs must reach consensus. The corporation takes control of three of the safest and highest-quality refineries, while unsafe or politically compromised refineries are to be closed, demolished, or otherwise removed from the new order. Profits are to be reinvested under board governance, including worker empowerment and rebuilding plans for damaged neighborhoods. Source: [[Session 129 (DuFr)]].
+- **By early DR 1749-08:** Chardon begins to stabilize. First refining under the new order begins, public works recover, the Imperial Chalyte Mining Company prepares its first Chataan expeditions, and the new balance among the Windcallers, the Guild of Chalyte Workers, and the Chalyte Refining Corporation becomes the practical replacement for the old Hetaeri-oligarch system. Sources: [[Session 129 (DuFr)]], [[Hetaeri Magica]], [[Windcallers]], [[Guild of Chalyte Workers]].
+
+
+%%^End%%
