@@ -9,7 +9,7 @@ dm_notes: none
 ---
 # Yo'nari
 
-The Yo'nari were an ancient proto-[[Deno'qai]] people of the northwest coast and interior mountains of [[Apporia]]. Before the [[Downfall Wars]], they fell under the sway of [[Yeshara]] and vanished into [[Cairn Dor]], leaving ruins, standing stones, wolf motifs, and other markers of occupation behind.
+The Yo'nari were an ancient proto-[[Deno'qai]] people of the northwest coast and interior mountains of [[Apporia]]. Before the [[Downfall Wars]], they fell under the sway of [[Yeshara]] and vanished into [[Cairn Dor]], leaving ruins, standing stones marked with wolf motifs, and other markers of occupation behind.
 
 The [[Silver Tempests]] encountered Yo'nari ruins during the search for [[Cairn Dor]] in DR 1748, including a ravine site with wolf-headed plinths, murals of Yeshara leading her people through a trilith stone, and the [[Cleaver-Stone]] portal.
 

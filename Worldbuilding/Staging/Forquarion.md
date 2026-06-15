@@ -1,3 +1,0 @@
----
-tags: [power, status/stub]
----

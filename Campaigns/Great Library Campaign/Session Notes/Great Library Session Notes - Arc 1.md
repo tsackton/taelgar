@@ -22,7 +22,7 @@ We begin on the road to [[Chardon]], as two aspiring adventurers meet...
 ## Adventure 1: The Flamekeeper Scroll
 ### Session 1
 
-Our adventure starts on the road: [[Brelith]], [[Adrik]] , [[Samso]], and [[Alton]] have traveled north towards [[Voltara]] to meet Archivist [[Lyra]], in the service of the [[Great Library]]. On the road [[Goblins]] of the [[Red Knife tribe]] attack; they slay two and let the other two live, after learning that [[Hobgoblins]] and [[Goblins]] live in this area. The goblins are told to flee and not attack them again.
+Our adventure starts on the road: [[Brelith]], [[Adrik]] , [[Samso]], and [[Alton]] have traveled north towards [[Voltara]] to meet Archivist [[Lyra]], in the service of the [[Great Library]]. On the road [[Goblins]] of the [[Red Knife Tribe]] attack; they slay two and let the other two live, after learning that [[Hobgoblins]] and [[Goblins]] live in this area. The goblins are told to flee and not attack them again.
 
 In [[Lyra]]’s camp, the party learns their mission: search for the [[Elemental Scrolls of Airion|scrolls of elemental power]]. The location of the [[Flamekeeper Scroll]] and the [[Stonemaster Scroll]] are known, while the location of the [[Skyborn Scroll]] and the [[Deepwater Scroll]] are not. 
 
