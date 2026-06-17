@@ -18,4 +18,8 @@ A collection of notes recovered by the [[Adventurers of Mawar]] from the [[Tomb 
 
 The adventurers brough the papers  back to [[Hamri]] and given to [[Wazir]] to decipher. 
 
-%%SECRET[1]%%
+%%SECRET
+
+These presumably contain some information about the ancient elemental cults but the details were never invented
+
+%%

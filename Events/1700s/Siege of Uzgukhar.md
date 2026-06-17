@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
+tags: [event, status/stub]
 typeOf: siege
 partOf: War of the Cloak
 dm_owner: tim

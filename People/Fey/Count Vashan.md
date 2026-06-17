@@ -22,4 +22,30 @@ In a brief moment of lucidity, Count Vashan spoke of how he was once a trusted a
 %%^End%%
 
 
-%%SECRET[1]%%
+%%SECRET
+Count Vashan, known as the Broken Mask
+
+Original Motivation: Cloudspinner saw through one of his great lies, and he could never forgive her for it.
+
+Expanded Betrayal:
+
+Count Vashan was never one thing. He was a diplomat, a charlatan, a storyteller, a creature who wore faces like a juggler tosses knives.
+
+He had built a reputation, a legacy, a legend, but Cloudspinner unmade him with a single truth.
+
+She did not mean to, exactly—she only spoke what she saw. But when she named him, when she revealed his true face, he felt something inside him shatter.
+
+He had two choices: erase himself or erase her.
+
+He whispered to Cha’mutte. Perhaps he has forgotten the exact nature of his betrayal. 
+
+And so, Cloudspinner was captured. And Vashan laughed and danced and wore new faces, but he never forgot the price.
+
+What He Gained:
+
+He thought he had won.
+
+But in the wake of Cloudspinner’s fall, his magic fractured. He could still change his face, but he no longer had a true one.
+
+Now, he is nothing but masks, a thing that cannot look in a mirror without seeing a hundred strangers.
+%%

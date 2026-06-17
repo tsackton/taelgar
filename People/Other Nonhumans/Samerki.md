@@ -26,4 +26,8 @@ dm_owner: tim
 
 A servant of [[Agata]]. 
 
-%%SECRET[1]%%
+%%SECRET
+A oni and servant of Agata, who was tasked with watching over Cintra and making sure she did not leave the Wellspring withouot Agata's knowledge.
+ 
+**Current location (June 1748): dead and burned in the Wellspring**
+%%

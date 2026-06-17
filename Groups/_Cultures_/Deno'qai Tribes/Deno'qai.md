@@ -90,4 +90,44 @@ Within each cultural strand, there is plenty of space to invent new tribes.
 - The relationship between [[Rai]], [[Aasimti]], and the tanshi tradition should remain mysterious for now, specifically whether the [[Te'kula]] in fact worshipped only Rai/Aasimti or if that was a gloss/misunderstanding from Gnaesus. 
 - [[Deno'qai Lynx Shield]] and [[Deno'qai Scale Mail]] should remain isolated legendary examples, not the basis for a general material-culture section.
 - [[GL - Session 62 - DM Notes]] includes background on the Yo’nari, a proto‑Deno’qai tribe tied to [[Yeshara]] and [[Cairn Dor]]. See also: [[Session 63 Background]]
-- [[Grimbaskal's Hoard]] includes `%%SECRET[1]%%^End%%
+- [[Grimbaskal's Hoard]] includes `%%SECRET` provenance hooks for Deno’qai-made items (a legendary warrior who challenged [[Mezzar|Grimbaskal]] soon after his arrival).
+
+## AI Research Note
+*2026-05-20: Evidence-based facts and open issues gathered before revision.*
+
+Source status:
+- [[Tanshi Worship]], [[Gods and Religions/Gods/Tanshi/Tanshi]], [[Divine Presence]], [[Northern Folk Religions]], [[Human Cultures of Taelgar]], [[Historical Framework]], [[West Coast History Framework]], and [[Languages]] provide the strongest general background.
+- Tribe notes provide concrete regional examples, especially [[Baz'aku]], [[Bek'eni]], [[Te'kula]], and [[Northern Tribes]].
+- [[On the Lost People of the Forests]] is important but should be treated carefully: it is a Chardonian source by [[Gnaeus]], who is explicitly disgraced for using enchantment magic in research.
+- [[Timeline of the Northern Deno'qai]] is useful but marked status/check/errors and says it needs consistency checking with other histories and Deno'qai culture.
+- [[Raha]] is useful as an example of a Deno'qai/Northerner village, but it is also marked status/check/errors and says it predates later Deno'qai lore.
+
+Established vault facts:
+- Origins and classification: The Deno'qai are listed as a pure [[Northerners|Northerner]] culture that worships the tanshi. The wider Northern Migrations left [[Hkar]] before urban arcane civilization developed there, had small-gods/intercessory religions, settled first on the west coast, spread north along the west side of the Sentinels, crossed the mountains in the far north, and had minimal contact with Hkar afterward. Sources: [[Human Cultures of Taelgar]], [[Historical Framework]].
+- Ancient migration tradition: In the Deno'qai's own tradition, and in the Baz'aku account recorded in [[On the Lost People of the Forests]], the Deno'qai trace their ancestry to the first humans to leave [[Hkar]], before [[The Downfall]] and [[Drankor]]. Sources: [[Deno'qai]], [[Baz'aku]], [[On the Lost People of the Forests]].
+- Name meaning: [[On the Lost People of the Forests]] says Gnaeus learned from the [[Baz'aku]] that Deno'qai means "People of the Gods" in their tongue. This should be cited as a recorded Chardonian/Baz'aku claim, not necessarily treated as a fully secure linguistic fact.
+- Former range in tradition: The Baz'aku account says the Deno'qai once ranged across vast forests from the mountains to the sea, from the [[Yeraad]] in the south to a far northern land of fire, ice, midnight sun, and long winter night. Source: [[On the Lost People of the Forests]].
+- Pre-Great War territory: Before the Great War, the Deno'qai occupied much of the land on the western slopes of the Sentinels not claimed by elves, and sometimes lived in and among elven forests. Source: [[West Coast History Framework]].
+- Modern geography: The Deno'qai are associated with western forests and foothills of the Sentinels. The [[Elderwood]], once the southern extent of [[Ainumarya]], is now inhabited by the [[Te'kula]], [[Baz'aku]], and [[Bek'eni]]. The [[Highveil Forest]] is lightly settled by Deno'qai tribes and is called Saharlun by the Deno'qai. Sources: [[Deno'qai]], [[Elderwood]], [[Highveil Forest]].
+- Political organization: The Deno'qai are not a single polity, but a patchwork of tribes and villages. Known groups include the Elderwood tribes [[Baz'aku]], [[Bek'eni]], and [[Te'kula]], and northern groups including [[Northern Tribes]], [[Ko'zula]], and [[Shu'anra]]. Source: [[Deno'qai]].
+- Religion: Tanshi worship is the primary Deno'qai religious tradition and belongs to the small-gods tradition of the [[Northern Folk Religions]]. The Deno'qai worship hundreds of minor deities, each individually weak, who carry prayers to [[Divine Presence|Anida]], "the First and the Last." Sources: [[Tanshi Worship]], [[Gods and Religions/Gods/Tanshi/Tanshi]], [[Divine Presence]], [[Northern Folk Religions]].
+- Tanshi domains: Deno'qai religion treats the natural world as full of minor deities with small domains, such as [[Deni]] for redwoods, [[Nisir]] for eagles and hawks, and [[Wenzi]] for flowing water. Source: [[Tanshi Worship]].
+- Ritual practice: The tanshi cannot hear ordinary prayer without proper ritual attention. Offerings must have the correct association with the tanshi, not necessarily high material value; most Deno'qai carry offering bags; all religious ceremonies and prayers involve offerings. Source: [[Tanshi Worship]].
+- Sacred spaces: Deno'qai practice does not have temples as houses or fixed loci of worship, but ritual spaces are common. Southern Deno'qai villages often have a tanshi tree, usually ancient and heavily coppiced, with a simple stone altar nearby. Some tanshi prefer particular times or places, such as twilight for [[Yezali]] and high viewpoints for [[Tera]]. Source: [[Tanshi Worship]].
+- Godcallers: Most Deno'qai villages and tribes have at least one Godcaller, a religious authority and lore-keeper who preserves knowledge of tanshi stories, offerings, rituals, communal prayers, and miracle traditions. Some Godcallers use divine magic, but many do not. Source: [[Tanshi Worship]].
+- Language: Deno'qai is a group of mutually understandable dialects or languages in the [[Languages#Northros Language Family|Northros Language Family]]. It is ancient and survives largely without outside influence. Its alphabet is unknown. Source: [[Languages]].
+- Proto-Deno'qai / Yo'nari: [[West Coast History Framework]] states that some first migrants, proto-Deno'qai on the northwest coast of [[Apporia]], called themselves the [[Yo'nari]], became tied to [[Yeshara]] and [[Cairn Dor]], and left ruins, standing stones, and other occupation markers. This is also reflected in [[Yo'nari]], [[Great Library Session Notes - Arc 5]], [[Yeshara]], and [[Cairn Dor]].
+
+Contradictions and weak points:
+- Source reliability: A major source for shared Deno'qai myths is Gnaeus in [[On the Lost People of the Forests]], but that same note says he was disgraced for using enchantment magic in research and explicitly describes coercing a guide. His account should be used, but not treated as clean ethnography.
+- Te'kula exception: [[On the Lost People of the Forests]] says the Te'kula worshipped only [[Rai]], understood as [[Aasimti]], while broader Deno'qai religion worships hundreds of tanshi. This may be a local exception, Gnaeus's misunderstanding, campaign-specific theology, or a special crisis-era development.
+- Raha as model village: [[Raha]] has useful settlement color, but is marked status/check/errors and notes that it was developed before later Deno'qai lore. Use only details that are corroborated elsewhere, such as halls/greens/wells/tree altars/pigs, and avoid treating physical description or comic village customs as general canon.
+- Funerary traditions: [[Traditions around Death]] gives an interesting likely model for Deno'qai funerary practice, with sacrifices drawing tanshi to guide souls, but the note itself frames the material as not fully developed. This should stay DM/comment-only for now.
+- Scope of Deno'qai homeland: The old mythic range from Yeraad to the far north is not the same as modern settlement. The future note should separate ancestral/traditional geography, pre-Great-War geography, and current known settlements.
+
+Remaining open questions:
+- How much elven influence should be visible in southern Deno'qai culture, especially among the [[Bek'eni]] and [[Te'kula]]?
+- What are common Deno'qai funerary practices, and how do tanshi guide souls without a place-bound framework like the kestavo?
+- What is the relationship between [[Rai]], [[Aasimti]], and the tanshi tradition: genuine old tanshi, demigod overlap, local exception, or Gnaeus's misclassification?
+
+%%^End%%

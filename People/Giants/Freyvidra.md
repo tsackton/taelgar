@@ -4,4 +4,5 @@ dm_owner: tim
 dm_notes: important
 ---
 
-%%SECRET[1]%%
+%%SECRET
+ruler of Kaldhalla before Brimskarda %%

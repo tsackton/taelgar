@@ -50,11 +50,19 @@ _See more: [[Istaros Watershed]]_
 
 The Upper Istaros is defined by its rivers. This region contains [[Lake Aeulian]], the headwaters of the [[Istaros]], as well the river systems that feed it: the [[Aursen]], [[Douren]], [[Andonne]] , and [[Kulthul]] from the [[Sentinel Range|Sentinels]]; the [[Valmont]] and its tributaries; the [[Thalurien|Thalúrien]] watershed, and the [[~Southern Plaguelands Tributary~]] watershed. 
 
-%%SECRET[1]%%
+%%SECRET
+Between the rivers, two major highlands define the topography of the land:
+- West of the Istaros, a series of ridges running northwest to southeast were once the fertile heartland of the Istabor Alliance, dotted with small villages, minor streams, and productive farms. Now, this area is a broken badlands of windswept bare rock, where little grows except thorny shrubs in sheltered dells.
+- In the southeast, a series of gentle rolling hills lies between the [[~Southern Plaguelands Tributary~]] and the [[~Orenlas Tributary~]]. To the south, these hills rise sharply to series of jagged cliffs and dramatic canyons forming the [[~Xurkhaz Border Hills~]]. To the northeast, the hills rise very gradually to the sheltered forests of [[Orenlas]] and the [[~Cymea Border Mountains~]]. 
+
+These highlands define two broad lowland regions: 
+%%
 
 In the northwest, the land is flat along the [[Andonne Plain]], although now much of the former ranchlands and wheatfields are turned to dust and ash. The [[Andonne Plain]] ends abruptly at the [[Westcliff]], the western edge of the [[Mostreve Hills]]. 
 
-%%SECRET[2]%%
+%%SECRET
+In the center of the region, the Istaros river valley, along with [[Lake Aeulian]] and much of the [[Valmont]] and lower [[~Orenlas Tributary~]], forms a wide fertile valley, once renowned for its vibrancy
+.%%
 
 ## Civilizations and Cultures
 _See more: [[Orenlas]], [[March of Andonne]], [[Refounded Alliance of Aurbez]], [[Xurkhaz]]_
@@ -69,7 +77,14 @@ Relatively few [[Dwarves]] make their home in the Upper Istaros, and those that 
 To the south, the free [[Orcs]] who call themselves the [[People of the Rainbow]] farm and herd cattle in the floodplains between the [[Istaros]] and the [[Kulthul]], in the kingdom of [[Xurkhaz]]. Their kingdom is protected from the dangers around them, and the ever-present threat of [[Thark]]'s vengeance on orcs who escape his grasp, by the magic of the [[Cloak of Rainbows]]. 
 %%^End%%
 
-%%SECRET[3]%%
+%%SECRET
+The Plaguelands themselves are settled in places, primarily by hobgoblins, the descendants of the survivors of Cha'mutte's Southern Army. 
+- The largest group of hobgoblins, the ~mad scientist hobgoblins~, are organized into a large territory, optimized for research and magi-tech progress, and drawing on the chaos energy of the plaguelands; alliance of sorts with ooze titan. 
+- Other scattered groups - often not more than a few dozen - live mostly in the badlands, and survive by raiding.
+- History of hobgoblins here needs to tie into the sembara hobgoblins wars
+
+Also, of course, the kingdom of the ooze in Isingue
+%%
 
 ## Climate
 

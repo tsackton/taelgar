@@ -51,4 +51,13 @@ Over the course of a month, Mabist stayed with Dinia, their training coming back
 >
 >The queen decided it was best for Mabist to not rejoin the feywilds and instead find their own story. So they were dropped off unconscious in an unknown area near a commoner hut. From then on Mabist was rehabilitated by Dinia. 
 
-%%SECRET[1]%%
+%%SECRET
+
+Additional details of the war:
+- Mabist fought for Queen Aurelyth, who is the archfey of an as-yet-unnamed realm that is north of [[Wildrun]], overlapping with the "Great Bay" area, the coast west of Voltara, and the mountains (and possibly Voltara as well, exact borders not defined).
+- Her realm is a noon or even a bit morning, and is all about forests and the ocean. Draw inspiration from California maybe? Salt spray, glittering sunlight, rocky cliffs, evergreen forests - maybe more Cape Breton. Vibe is beauty, though. Not mysterious shrouded forests (Dreamhaven), not wild beasts run amok ([[Wildrun]]), more about the beauty of the coastal ecosystem. 
+- War is against the Tide-Lost Court, somehow connected to the Elemental Plane of Water. Exact details of how and why the Elemental Plane of Water is fighting in the Feywild TBD. Might involve Elemental Plane politics to eventually connect with Zadkhai. Name Mariner of the Abyssal Echo might show up. 
+- Mabist was submerged in the **Well of Drowned Faces**, a ritual pool that rewrites memory with seawater dreams, turning them into the **Reef-Reaver**, a general for the Tide-Lost.
+- MAYBE: In a final assault on the fey sanctuary of **Star-sigh Glade**, Aurelyth faced the Reef-Reaver, recognized her knight beneath the brine-etched armor, and used the forbidden spell **Veil of Lethe** to burn away the corruption—at the cost of most of his memories.
+
+%%

@@ -26,4 +26,12 @@ Among the tangled roots of the tree are sparkling pools of sweet-smelling wine, 
 
 Those who approach the Bitterwine Oak invariably here the call of the revel: whispered calls to dance, to sing, to join the party, seemingly carried on the wine. Old Drankorian tales claim that those who acknowledge the revel vanish to the Feywild to join their fey hosts in dance and song. 
 
-%%SECRET[1]%%
+%%SECRET
+
+To cross the portal requires acknowledging the revel. Raising a toast, joining a song, dancing, or similar. Doing so will pull you across, no matter your intention, and trigger a DC 18 Charisma Saving Throw. 
+
+On failure, you instantly shift, forgetting the moment of transition. You remember approaching the tree, but not how you crossed, and sometimes not why. 
+
+On success, you are still pulled across, but experience the transition as a pulling and shifting sensation, and you do not lose any of your memories. 
+
+%%

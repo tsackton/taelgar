@@ -45,4 +45,23 @@ LIST WITHOUT ID events.text flatten file.lists as events where contains(events.t
 %%^End%%
 
 
-%%SECRET[1]%%
+%%SECRET
+
+- Arcus, a overconfident treasure-hunter/thief who preferred to work alone [rogue].
+- Member of the Cleansed / inner sanctum.
+- Left Chardon in late December, traveling overland with Servius and the adventurers in group 3.
+- Arcus pressed forward to Karawa, arriving in late Feb
+- From Karawa, explored ruins to the east into the Nashtkar, now petrified in a cursed cockatrice lair east of Gomat
+ 
+Passed through Tokra in early Feb (Feb 13th - 15th), with Chardonian Adventuring Group 3. Asking about artifacts.  
+Passed through Karawa Feb 26 - Mar 1, also asking about artifacts, talked to Jasu, Ikram.
+ 
+Age: unknown but not that old
+Last location (June 1748): petrified
+   
+
+PC Interactions
+ 
+Found his petrified body east of Gomat (group 1 in party notes)
+
+%%

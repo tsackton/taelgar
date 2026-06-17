@@ -21,4 +21,14 @@ The Faculty of Magic is one of the five graduate faculties of the [[University o
 
 The Faculty of Magic is intertwined with other institutions of the academic quarter. Many of its members also participate in organizations such as the [[Society of the Open Scroll]], and the university as a whole is closely affiliated with the [[Great Library]] and the [[Hetaeri Magica]].
 
-%%SECRET[1]%%
+%%SECRET
+
+
+University / wizards:
+- largely embarrassed at having missed Fausto/the Cleansed, and worried about interference from Mitus
+- raided Fausto's tower and know a lot, but reluctant to share
+- chalyte was largely under the control of the Cleansed and many of the university wizards have an bit of an arrogant attitude about it (bad for you and doesn't work; shortcut; etc)
+- people like [[Roscelia]] and [[Lyra]] want to stop the rioting and restore order and restrict chalyte use and protect people while focusing on the real threats - in their mind, the Cleansed that escaped
+
+
+%%

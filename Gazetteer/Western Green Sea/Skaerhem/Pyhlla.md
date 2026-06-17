@@ -37,12 +37,26 @@ Pyhlla is a particularly large district, with 11 oskunja, and two priests in add
 
 [[Vaallinen]] (va-li-nen; he/him), the hakeasa of this district, and a divine magic user.
 
-%%SECRET[1]%%
+%%SECRET
+
+[[Punja]] (pun-ya; she/her), the taja of oskunja to which [[Jorma]], the priest of the waters, belonged. Has taken leadership of dealing with the corruption of [[Vetta]], although generally leaves the speaking with outsiders to [[Vaallinen]].
+
+[[Ankka]] (she/her), [[Jorma]]'s sister.
+
+# Scenes
+
+If they arrive informed of the quest, and having agreed to it, will be pretty basic. Can get some information, etc, and then before leaving receive the blessing of [[Kaikkea]] (which they must agree to, otherwise it is taboo to set foot on the island).
+
+If they arrive without knowing anything, village may likely assume they are here to help, anyway, but will play out slightly differently. 
+
+%%
 
 # Blessing of [[Kaikkea]]
 
 All pilgrims to [[Vetta]] must accept the blessing of [[Kaikkea]]. This involves being submerged in a deep quarry cut out of the stone, and prayed over. 
 
-%%SECRET[2]%%
+%%SECRET 
+The prayer is basically a divination spell that asks one question only: "will this person defile the sacred waters of [[Vetta]]"?
+%%
 
 ![[pyhlla-village-church.png]]

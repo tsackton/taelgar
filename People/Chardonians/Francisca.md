@@ -17,4 +17,9 @@ dm_owner: none
 
 Francisca, mother of [[Xavier]] and [[Adina]], is a poor seamstress who does piece-work sewing and mending out of her small apartment near the [[Foundry Market]]. 
 
-%%SECRET[1]%%
+%%SECRET
+
+does piece-work sewing and mending, stall at Foundry Market. middle aged, looks older, has it tough
+aspiration: just wants a better life for her children
+
+%%

@@ -26,4 +26,6 @@ After the death of Samraat Nayan Lina, the temple conclave, dominated by western
 
 After many weeks of prayer and debate, [[Marathu]], an elder from one of the western clans from the high plains between [[Darba]] and [[Tokra]] is asked to lead. Samraat Nayan [[Marathu]] takes over as Samraat in 172 Nayan, at the age of 60, seen as a caretaker to begin the process of building unity across [[Dunmar]]. 
 
-%%SECRET[1]%%
+%%SECRET
+some context, though with inaccurate dates, is in [[Session 84 - Dunmar Notes]].
+%%

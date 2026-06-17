@@ -19,4 +19,15 @@ A childhood friend of [[Kenzo]]'s, Xavier lost his father to a refinery accident
 
 He lives with his mother and sister in a small apartment near the [[Foundry Market]]. 
 
-%%SECRET[1]%%
+%%SECRET
+
+Doesn't know much, to be honest, but can give a lay of the land anyway. 
+
+Best connection is Andros.
+
+Flaw: *likes* brawling, makes him feel strong and important
+
+Mom: [[Francisca]],
+Sister: [[Adina]],
+
+%%

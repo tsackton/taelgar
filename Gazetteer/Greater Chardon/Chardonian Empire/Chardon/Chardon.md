@@ -154,4 +154,13 @@ Thieves guild type? Other guilds? Artisans?
 %%
 
 
-%%SECRET[1]%%
+%%SECRET
+
+Landmarks:
+- temples, religious architecture
+- markets
+- bits of old walls, barracks, etc
+
+Honestly, landmarks are just inspiration or chatGPT in session
+
+%%

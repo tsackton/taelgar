@@ -54,4 +54,8 @@ The few solid landforms in the Plane of Water do not seem to remain fixed in loc
 - The [[Abyssal Trench]]: The deepest and darkest reaches of the Plane of Water, where no light reaches, are often referred to as the Abyssal Trench, and are thought to be the home of vast leviathans. Some even claim that, in the dark, a vast canyon lurks.
 - The [[Murky Wastes]]: A region of waters filled with pockets of silt and floating sediment, mixed with anoxic regions where no life can thrive. 
 
-%%SECRET[1]%%
+%%SECRET
+There is some kind of overarching conflict between Gazankoa and the Sentient Ocean. The details are not super clear.
+
+The Sentient Ocean is a vastly different kind of aquatic power source - something from the Far Realms, an alien psionic mind, not the essential essence of water. 
+%%

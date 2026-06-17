@@ -51,7 +51,15 @@ SORT choice(species, species, typeof)
 
 
 
-%%SECRET[1]%%
+%%SECRET
+## Roleplaying Notes
+
+### Dunmari Frontier Campaign, Dec 1748 
+- Warm motherly aunt, although Harriet is shy and usually lets her wife Chenna do the talking. She comes alive when performing
+- Distant cousin of Wellby's, something like a third cousin twice removed, by marriage, but feels a matronly responsibility for all the Goodbarrel youth, including Wellby. She remembers Wellby as a small boy and have a kind of auntly/matronly attitude. 
+- She doesn't particularly known anyone at the University of Tollen, but is generally optimistic and cheerful, and will tell Wellby "Just go there and ask, honey. Scholars don't bite."
+- Friendly, and doesn't need to be convinced to offer advice. 
+%%
 
 
 

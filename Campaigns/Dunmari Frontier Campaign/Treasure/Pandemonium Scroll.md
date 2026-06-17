@@ -26,4 +26,10 @@ Looked at in [[Mirror of the Past]]: [[Pandemonium Scroll Vision]]
 Traded to [[Fausto]] as part of the deal for [[Hralgar's Eyes]]. Kept by [[Fausto]] when he betrayed the party.
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET
+UNROLLING REQUIRES DC 16 WIS SAVING THROW WITH SOME BAD EFFECT ON FAILURE
+
+READING REQUIRES SECOND SAVING THROW AT DISADVANTAGE WITH WORSE EFFECT
+
+LYCANTHROPES IMMUNE
+%%

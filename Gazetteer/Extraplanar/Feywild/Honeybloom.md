@@ -19,5 +19,9 @@ A fey realm, described in [[The Lore of the Feywild]] as a realm of rolling orch
 
 Honeybloom is located northwest of [[Fortune's Rest]], and northeast of [[Gleamwater]].
 
-%%SECRET[1]%%
+%%SECRET
+
+nothing really invented but vibe is supposed have a dark underside. if Fate's Ruin seems evil but isn't really, exactly, this place seems nice but has a deeply dark underbelly. kind of Hansel and Gretel witch vibe.
+
+%%
 

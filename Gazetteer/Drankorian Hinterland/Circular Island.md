@@ -66,4 +66,48 @@ With Ra'ghemdros' death, [[Session 110 (DuFr)|Dimitaur proclaimed himself Protec
 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET
+
+### Core History
+
+- During the [[Downfall Wars]], the destruction of [[Hkar]] forced a mass escape. The working premise is that priests and mages of Hkar, aided by the [[Mos Numena|Eight Divines]] and likely the [[Crown of Purity]], caused a great piece of land to rise, grow roots or legs, and carry refugees across the ocean.
+- The island may have carried one to two million people, perhaps more, though many died in the catastrophe. It eventually rooted within sight of the Drankorian coast, around sixty miles offshore, allowing the survivors to found or rapidly expand [[Drankor]].
+- In early Drankor, the island became a memorial to Hkar, the Downfall Wars, the Eight Divines, and the dead. It was central to Drankorian Mos Numena worship and may have survived in later religious memory as a thanksgiving or salvation tradition after the specific place was forgotten.
+- The island later shifted from shrine to research center. Alectia, a port town north of the Wanderer statue, grew into the secular hub. Drankorian scholarly societies established cloisters, manors, libraries, a grand forum, teleportation circles, and magical workshops.
+- During the rise of [[Omnis Pura]], Apollyon and the Cleansed took increasing control. Pilgrimage continued, but the island's meaning was bent toward the primacy of ancient Hkar and Apollyon's imperial theology. The western side became Apollyon's domain, including [[Apollyon's Tower]] and its hidden forge.
+- [[Cha'mutte]] and Apollyon cooperated long enough to imprison [[Cloudspinner]] and try to extract the secret of her cloak. Their alliance collapsed when Apollyon stole the cloak and advanced his war. Cha'mutte seized Cloudspinner's prison, while Apollyon relied on the tower and storm-trap he had prepared.
+- In DR 1059, Cha'mutte brought the plague-rending from Drankor to the island. Alectia and much of the scholarly infrastructure were destroyed. The pilgrim paths, divine statues, summit temple, and elven memorials survived under divine protection. Apollyon's trap raised the storm and wounded Cha'mutte, who withdrew and left [[Ra'ghemdros]] in control.
+- Ra'ghemdros remained after Cha'mutte's death, obsessed with Cloudspinner, afraid of Apollyon, and more interested in hoarding relics than ruling. This is the pre-DuFr adventure state; after the Dunmar Fellowship's intervention, Ra'ghemdros is dead and Cloudspinner is free.
+
+### Key Sites
+
+- **Eight statues and pilgrim roads**: Eight vast statues stand at regular points around the coast. Magical roads lead inward and spiral up the central mountain. The full pilgrimage was probably about fifty miles and intended to be walked over roughly twenty-four hours.
+- **Summit temple complex**: Eight temples surround a central courtyard with a beacon and bell. Hostels, mess halls, and administrative buildings supported pilgrims. The complex remains one of the safest places on the island.
+- **Refugee camps and hostels**: Old waystations contain lingering practical magic, including water, food, and warmth runes. These are good places for clues and safe rests.
+- **Elven memorials**: Preserved memorial sites include the Wall of Echoes facing Alcarinque, the Eternal Leaves Garden, and the Arch of Stars. The forest memorial encountered by the Fellowship stores names and memory-visions from the Downfall Wars.
+- **Alectia and the scholarly ruins**: The old port, docks, grand forum, manors, and towers are heavily damaged but still useful for exploration. Some teleportation circles may survive, especially around the forum or important society manors.
+- **Concordia Pyrae villa**: A former Drankorian research villa repurposed as Cloudspinner's prison. The [[Records of the Concordia Pyrae]] preserve island history and the society's work on fire and planar magic.
+- **Apollyon's Tower**: A black tower on the western coast, protected from the plague and Ra'ghemdros by Apollyon's magic. It contains his forge, lich-transformation chamber, notes, and evidence tied to [[Apollyon's Phylactery]].
+- **Ra'ghemdros's lair**: A scarred, acidic, shadow-tainted region around the villa. Before her death it held her curated hoard and the jade fragment recovered by Megren.
+- **Natural features**: Black cliffs, singing beaches, dense forests, rivers, waterfalls, dream-haunted pools, and red plague scars give the island a layered sacred/ruined character.
+### Open Questions
+
+- Exact mechanics of the island's escape from Hkar, including the Crown of Purity's role.
+- Whether the island needs an in-world name other than "Circular Island."
+- How much Apollyon suppressed public knowledge of the island by politics, propaganda, magic, or the Crown.
+- Which research societies had manors on the island, and whether [[Fides Lucaris]] had a major presence there.
+- What remains in [[Alectia]], the grand forum, the library ruins, and surviving teleportation circles.
+- What dragonet society becomes after Dimitaur and the Fellowship's intervention.
+
+### Sources from DM Notes
+- Source: [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Circular Island Overview - DM notes v2|Circular Island overview and history]]
+- Source: [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Pilgrimage Locations|pilgrimage locations and summit temple]]
+- Source: [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Alectia and Environs|Alectia and environs]]
+- Source: [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Dragonet Info|dragonet factions and Dimitaur]]
+- Source: [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Adventure Part 2|Ra'ghemdros domain and Concordia Pyrae villa approach]]
+- Source: [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Cloudspinner's Prison|Cloudspinner's prison]]
+- Source: [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Ra'ghemdros Lair|Ra'ghemdros lair]]
+- Source: [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Ra'ghemdros Hoard|Ra'ghemdros hoard]]
+- Source: [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Adventure Part 3|Apollyon's Tower approach]]
+
+%%

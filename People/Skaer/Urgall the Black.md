@@ -35,4 +35,14 @@ In the spring of DR 1747, Urgall's aims turned to the service of his demonic mas
 He was [[Session 81 (DuFr)|killed]] by [[Dunmar Fellowship]] in December 1748. 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET
+Urgall the Black is a twisted shell of a creature. One night about 8 months ago, him and his ship landed at Vetta and attacked. They slaughtered the pilgrims who were there, and the staff, and finally the priest of the waters. Thinking they had won a great victory, they began to plunder the island. 
+
+However, little did they know that the Jorma and Kaikkea had laid a curse on them, making it impossible for them to depart. For a few months, they survived on the supplies laid in for pilgrims, and seabirds, but Urgall grew restless and as food and water dwindled, he turned to his patron and ritual slaughter, killing his crew to preserve his life.
+
+The curse bound him his greed: he is forced to obsess over his loot, stolen from the temple. Constantly pacing around his treasure, he began wasting away, and sacrificed his crew to prolong his life, opening a way for Mashtu the Corrupter to enter the world. 
+
+He is now far beyond death - not strictly undead, not strictly human, and completely mad with fiendish infection and the curse of greed. He will not leave his treasure, and constantly mumbles around it, touching and hoarding over it. He will attack without mercy anyone who comes within 100 feet of his treasure, or who attacks him, but he won't initial combat. 
+
+Now, the island is haunted by the corrupted demon, the undead Urgall and his crew, and their demonic servants. 
+%%

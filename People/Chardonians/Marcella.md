@@ -33,4 +33,24 @@ Felt forced to try to steal from party in [[Session 44 (DuFr)]], but when given 
 
 ![[marcella.png|500]]
 
-%%SECRET[1]%%
+%%SECRET
+Marcella, a nondescript Chardonian woman, short brown hair and a plain face, but the most open and friendly of the group. An archer, wearing well-tended leather armor under a traveling cloak. [ranger]
+
+She has a similar backstory to Vola. Knew Hektor before his injury, and needed money and a way out of the lower classes, so joined up when learned the Open Scroll was hiring. Now trapped - but unwiling to leave without figuring out how to rescue Hektor.
+
+[https://www.dndbeyond.com/profile/Green_Zebra/characters/69983113](https://www.dndbeyond.com/profile/Green_Zebra/characters/69983113)
+
+Member of one of the Chardonian adventuring parties.  
+[Group 5](Society%20of%20the%20Open%20Scroll)
+ 
+Met party at crossroads inn 3 days west of Tokra.
+ 
+Learned they have met Grash (and thus are the ones he is seeking), and they are heading to Darba on the Darba road.
+ 
+See Session 43 doc for notes on what they will do next.
+ 
+Lied to party about knowing other Chardonian adventuring parties but otherwise was relatively straightforward and open.
+ 
+Encouraged by Wellby to flee Chardonians, attempts this after their fight with kobolds. Whether she escapes still undetermined.
+
+%%

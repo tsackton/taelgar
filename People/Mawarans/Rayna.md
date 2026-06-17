@@ -27,4 +27,8 @@ Since her youth, Rayna has heard the ocean in songs and visions. Those songs fel
 
 In May 1749, Rayna came to the [[Leviathan Inn]] and asked the [[Adventurers of Mawar]] to find the lost song. After the party recovered the fragment from the [[Shrine to Guzo the Mariner]], she took it westward, sailing toward [[Apporia]] and the merfolk city of [[Omi]].
 
-%%SECRET[1]%%
+%%SECRET
+
+more DM info in [[The Lost Legacy]]
+
+%%

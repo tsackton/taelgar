@@ -19,4 +19,12 @@ affiliations:
 
 Prince Aurelian, known as the Golden Prince, the Hearthkeeper, and the Sunbound Oracle, is the ruler of [[Everlight's Bloom]]. He is said to care deeply for his people, but give little thought to those beyond his borders, including those who manage to leave his realm. 
 
-%%SECRET[1]%%
+%%SECRET
+
+Aloof, even a little secretive. 
+
+Vibe is: beautiful and meditative but inward-focused, the Golden Prince does not leave his realm and there is maybe a hidden undercurrent of "doesn't let his people leave either". 
+
+Idea is not: hard to leave (like Fortune's Rest), or even particularly inhospitable. It is just - we are for ourselves, and no one else. 
+
+%%

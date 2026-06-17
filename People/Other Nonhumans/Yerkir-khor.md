@@ -13,4 +13,8 @@ dm_notes: important
 
 A mysterious ancient being associated with the [[Tomb of Yerkir-Khor]], an ancient, pre-Mawar monument or tomb on the [[Mirmir]], a few days upstream from [[Hamri]]. 
 
-%%SECRET[1]%%
+%%SECRET
+A dao or other powerful earth elemental who ruled a small kingdom in Mawar pre-Downfall, during the early age of human settlement in the north.
+
+No other details invented yet, but potentially related to some ancient elemental kingdoms of some kind?
+%%

@@ -28,4 +28,8 @@ The secret does not have any relevance to mind flayers or related aberrations.
 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET
+
+[[Sentient Ocean]] fled from one of the Far Realms. See that note for more details. Implies the existence of a water world Far Realm that was not necessarily evil - the exact details of how it was destroyed are unclear but had to do with the Riving.
+
+%%

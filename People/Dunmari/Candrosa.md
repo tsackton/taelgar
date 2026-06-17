@@ -65,4 +65,28 @@ _AI generated_
 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET
+
+One Note
+
+## Candrosa Summary
+ 
+- Despairing at the moment, assumes that Cintra is dead and something has taken Shakun's Heart
+- Will break down, confess to party if pushed, but may ask them to be blessed by Shakun first
+- Will apologize to Delwath for tricking him earlier, and in general apologize to the party for his poor handling of this whole mess
+ 
+## Conversations
+ 
+Candrosa has been on edge for 4 months since Cintra left. But the gnoll attack, and the fact that centaurs and Dunmari died defending Karawa and the temple has really driven him over the edge. He is convinced all the deaths, not just the centaurs but also everyone who died in Bas Udda and elsewhere.
+ 
+If the visit him at night, he will have been drinking and be somewhat drunk, sad, and upset. Will confess to planting the vision in Delwath's head, a bit drunkenly. Will say things like "its all my fault, I should have advised her not to go", and be depressed about being a total failure. If the party is even mildly reassuring, or offers to help, he will pause for a moment, seeming more sober, and offer to initiate them. "Highly irregular, won't be typical especially with how much we've lost, but if you pass through the ritual at least I'll know you have Shakun's favor, and I won't be breaking my oaths to reveal more to you. After all my failures this is not a judgement I can make myself, but I trust Shakun's signs in this." Perhaps apologizes to Delwath for the false omen?
+ 
+If they visit during the day, he won't be drunk, instead look haggard. Will need to push a little bit more to get him to offer to initiate them, and to confess some of his troubles. He is just looking for a lifeline though so as long as they seem understanding and helpful, and not suspicious/threatening, he will eventually cave. Don't entirely gate behind persuasion rolls but how much he reveals leading up to the offer of initiation could depend on rolls.
+ 
+I do not know what to do, but I am afraid I have made a huge mistake. Every death since then in on my conscious. When the four of you fought off the animal attacks on town, I should have come clean and maybe much death could have been averted.
+ 
+I will struggle with these failures for the rest of my life. But maybe it is not too late. I do not know if trying to pick up Cintra's trail is worthwhile at this point, as it is I suspect long cold. Maybe it is better to search for signs of Shakun's Heart out east, with the protection of Havdar's troops, as I have heard you intend. If that is what you believe the best course of action is, I will not dissuade you. I no longer trust my judgement in this.
+ 
+*if he has not already apologized to Delwath, will do so now*
+
+%%

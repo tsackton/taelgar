@@ -14,4 +14,6 @@ dm_notes: important
 
 %%efreeti rumored to be traveling with Frankar%%
 
-%%SECRET[1]%%
+%%SECRET
+some secret information here
+%%

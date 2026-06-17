@@ -31,4 +31,9 @@ Artem, then, is seeking Lord Akanen, with the reasonable hope (probably validate
 %%
 
 
-%%SECRET[1]%%
+%%SECRET
+
+maybe reuse as an contact or backstory or connection somehow in the Frankar adventure??
+need to develop more information about the djinn family
+
+%%

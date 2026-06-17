@@ -21,4 +21,14 @@ The same process could be reused for other upheavals, e.g. the end of the [[Down
 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET
+
+Brainstorming notes:
+- Cha'mutte was somehow associated with, or drew power from, Limbo
+- His death scattered (somehow) little fragments of Limbo across Taelgar
+- Some of these "exploded" creating major shifts, primarily the destruction of Ulrich Pass and the lifting of the Garamjala
+- Others, however, landed and buried their way into the world, slowly growing somehow
+- Rai eventually went to deal with them (somehow)
+- This leads to Isingue arc
+
+%%

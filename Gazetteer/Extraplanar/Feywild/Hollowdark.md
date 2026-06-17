@@ -15,4 +15,13 @@ dm_notes: important
 
 A mysterious fey realm, east of the [[Sunset Gate]], ruled by an archfey known as [[Wend]]. What rumors exist suggest it is a dark place, ruled by beings that thrive on the fear of the dark. 
 
-%%SECRET[1]%%
+%%SECRET
+
+A realm where shadows move without light and unseen things whisper in the dark. No ruler has ever been seen, only felt—a presence lurking just beyond the firelight.
+
+see: [[Harrow]] and [[Wend]] for details on vibes
+
+should definitely be among the more terror/dread/fear based fey realms
+
+
+%%

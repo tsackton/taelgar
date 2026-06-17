@@ -34,4 +34,10 @@ Fundamentally, the source of arcane magic. However, the deeper metaphysics are a
 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET
+
+The four dimensions are the typical three dimensions, plus the dimension of towards or away from the material plane. Maybe?
+
+See [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]] for important context on the plane of magic. 
+
+%%

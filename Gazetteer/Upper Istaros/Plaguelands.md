@@ -30,7 +30,18 @@ red 1 - limbo / ooze red 2 - burned forest red 3 - iron fang / hobgoblins purple
 exact borders very loose
 %%
 
-%%SECRET[1]%%
+%%SECRET
+
+Five main regions:
+- Ashy plains to the west; borderlands
+- Dead forest to the east; deeply haunted and cursed, even hobgoblins fear to go here
+- Isataros valley and Isingue. Strangely fertile, but strongest connection to Limbo and  "ruled" by the ooze titan (has a "treaty" with mad scientist hobgoblin)
+- Badlands - broken hills between Istaros and Kuthul, to the northern border of Xurkhaz. Deeply difficult to travel through, and very dry, but not particularly magically haunted. Supports small isolated bands of hobgoblins and others that live by raiding. Where a lot of the hobgoblins that threaten Andonne and Aurbez come from. 
+- Hobgoblin kingdom east of Isingue, south of dead forest. Has reasons to be deeply secretive and ties into the hobgoblin war history. Need a reason why Xurkhaz orcs don't know about them. These are the "mad scientist" hobgoblins. 
+
+East of dead forest is unknown and left undeveloped. 
+
+%%
 
 %% collate many notes from other sources including secrets; one main feature is that the plaguelands are ashy and dry %%
 

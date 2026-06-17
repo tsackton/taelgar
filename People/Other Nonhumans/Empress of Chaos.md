@@ -22,4 +22,6 @@ dm_notes: important
 
 ![[emrpess-of-chaos.png|right|400]]The Empress of Chaos is the leader of the [[Iron Fang]] hobgoblin clan. 
 
-%%SECRET[1]%%
+%%SECRET
+many secrets
+%%

@@ -51,4 +51,13 @@ await dv.view("_scripts/view/get_CampaignInteractions")
 %%^End%%
 
 
-%%SECRET[1]%%
+%%SECRET
+## Roleplaying Notes
+
+- Exhibits an intense pride in [[Xurkhaz]].
+- Displays a profound mistrust for any gods.
+- Is highly protective, almost paternal, towards his nephew [[Uzgul]].
+- As a leader who came into power unexpectedly and late in life, Lubash is deeply concerned about the future of [[Xurkhaz]] after his reign. He may seek alliances or solutions to ensure the kingdom's stability. This also plays into his protectiveness towards his nephew.
+- Speaks Common, Sylvan, Orcish, and Giant.
+
+%%

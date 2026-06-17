@@ -59,4 +59,8 @@ dv.table(
 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET
+
+metaphysical truth is likely Airion's, possibly combine with the lizardfolk positive and negative planes  
+
+%%

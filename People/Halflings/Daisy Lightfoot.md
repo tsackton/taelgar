@@ -23,4 +23,9 @@ dm_notes: important
 
 ![[daisy-lightfoot.png|right|400]] Daisy Lightfoot is a halfling scout master and member of the [[Rangers]].  She has a prominent scar on her cheek and is eager to fight hobgoblins.
 
-%%SECRET[1]%%
+%%SECRET
+- **Role**: Ranger, scout master
+- **Backstory**: Road-house orphan raised by Greys after she was the only survivor of a hobgoblin attack on her caravan. 
+- **Description**: Compact, wiry; cropped blond curls; travel-stained clothes; scar on her cheek from hobgoblin fights
+- **Flavor**: Eager to see hobgoblins dead, still nurses hatred from childhood; knowledgable about terrain, knows all the stair-songs. 
+%%

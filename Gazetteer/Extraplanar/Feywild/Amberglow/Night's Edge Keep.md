@@ -17,4 +17,8 @@ typeOfAlias: keep
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 
-%%SECRET[1]%%
+%%SECRET
+
+similar story to Redsun Watch
+
+%%

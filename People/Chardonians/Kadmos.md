@@ -36,4 +36,14 @@ A tall Chardonian man, cloaked and hooded, wearing dark, travel-stained leather 
 A character of dubious morality, clearly willing and able to use enchantment magic to get what he wants, and happy to provoke a fight. 
 
 
-%%SECRET[1]%%
+%%SECRET
+Undead patron, pact of the tomb. Does not speak about his past, and no one in the adventuring party knows what he did before joining the Society. A devoted member of the Cleansed, a true believer in the glory of Drankor and Apollyon who has given himself entirely over to the cause. Does not speak much but his word carries and no one questions his commands. He is the only one who knows the true nature of Appollyon.
+
+Knowledgable, intelligent and forceful, a stereotypical "warlock" in some ways.
+
+A tall Chardonian man, cloaked and hooded, wearing dark, travel-stained leather armor, without obvious weapons.
+
+Leader of "party 5"
+
+[https://www.dndbeyond.com/profile/Green_Zebra/characters/70078542](https://www.dndbeyond.com/profile/Green_Zebra/characters/70078542)
+%%

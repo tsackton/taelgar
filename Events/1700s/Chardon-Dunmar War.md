@@ -79,4 +79,4 @@ The treaty ended the open war, but not its consequences. In Chardon, Fausto's fa
 ###
 - (DR:: 1749-07-25): Formal peace between the [[Chardonian Empire]], [[Sura|Nayan Sura]], and [[Nayan Karnas]] ends the Chardon-Dunmar war, divides Dunmar between Sura and Karnas, and establishes the free port of Darba under Chardonian suzerainty. 
 
-%%SECRET[1]%%
+%%SECRET there is a detailed timeline, though potentially with non-canon details, here: [[Chardon Timeline]]%%

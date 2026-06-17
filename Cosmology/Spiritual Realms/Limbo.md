@@ -22,4 +22,10 @@ Plane of Chaos. Associated with Cha'mutte.
 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET
+
+The prison for Apollyon was made of fragments of Limbo, and this is what went wrong in the Awakened Jungle - bits of the prison kept flying off and creating weak points to Limbo.
+
+Likely the plane connected to the Seeds of Chaos and thus relevant to the Isingue adventure
+
+%%

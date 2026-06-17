@@ -18,4 +18,6 @@ dm_notes: important
 A mysterious ancient being, apparently buried in, or at least associated with, a monument in the north of the [[Mawakel Peninsula]]; associated with elemental fire. 
 
 
-%%SECRET[1]%%
+%%SECRET
+Some fire elemental figure associated with the early pre-history of the Mawarkel peninsula. Probably has some connection to [[Yerkir-khor]]. 
+%%

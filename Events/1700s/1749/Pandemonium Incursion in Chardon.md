@@ -18,4 +18,7 @@ By the middle of May, the winds were contained, and the strange gray mist wall w
 
 The [[Kylos Market]], though, is never the same and is quietly abandoned. 
 
-%%SECRET[1]%%
+%%SECRET
+See details: [[Chardon Timeline]]
+Also: [[Session 96 - DM Notes]] and [[Session 97 - DM Notes]] have some context
+%%

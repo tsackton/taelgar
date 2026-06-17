@@ -25,4 +25,8 @@ Some say one can sail west so far as to arrive at the eastern shores of the [[Gr
 
 Whether there are lost islands or strange lands far across the Endless Ocean is not recorded by scholars. 
 
-%%SECRET[1]%%
+%%SECRET
+
+See [[Continents]]
+
+%%

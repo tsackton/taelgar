@@ -147,7 +147,7 @@ I am going to give you potentially messy markdown text describing NPCs in my D&D
 6. Create an **## Events** section that offers a summary of events inferred to have happened to or involving the NPC.
 7. Add a **## Rumors and Information** section as a bullet-pointed list of rumors, information, or other details about the NPC that player characters might know.
 8. Construct an **## Roleplaying Notes** section when applicable, delivering a bullet-point list of roleplaying tips for a DM running the NPC based on the provided details.
-9. Conclude with a **## Secrets** section that contains DM-only information. This will generally be based on information enclosed in `%%SECRET[1]%%` tags in the provided markdown.
+9. Conclude with a **## Secrets** section that contains DM-only information. This will generally be based on information enclosed in `%%SECRET` `%%` tags in the provided markdown.
 
 
 Try to include as much of the text in the note as possible, just moving it to the appropriate section and deleting redundancy. If there's insufficient information, the **## Relationships**, **## Events**, **## Rumors and Information**, **## Roleplaying Notes**, and **## Secrets** sections can be omitted. However, do your best to fill these in, even if you have to invent a few details. 

@@ -17,4 +17,10 @@ dm_owner: none
 
 [[Adina]]'s girlfriend. 
 
-%%SECRET[1]%%
+%%SECRET
+
+abolitionist, religious (but in the Chardon tradition, not devoted to a particular god among Mos Numena)
+a couple of years older than Adina, so maybe 28-30. pretty, long brown hair, mended but clean clothes, sparkling eyes
+hopes and dreams: shining city on the hill vision for chardon, beacon of light in a dark world
+
+%%

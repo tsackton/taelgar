@@ -26,6 +26,14 @@ dm_owner: none
 
 An elegant older woman, very precise, who runs an unmarked but well-known tattoo parlor in Southbridge in [[Tollen]]. Important in the [[Dyer's Guild]], and rich. Extremely skilled in the arts of tattoos, especially magical tattoos made with enchanted dyes.
 
-%%SECRET[1]%%
+%%SECRET
+She knows Escobar of course, and if she is convinced to help will direct the party to him as a guide around the university. 
+
+She does not need money, and is not interested in stories. However, she will help a client, for sure (so if anyone pays for a magical tattoo, she'll happily help them).
+## Roleplaying Notes
+
+Wealthy, impatient, extremely secure in his skill and ability. 
+Abrupt. "Well, are you here to discuss a tattoo or not?"
+%%
 
 ![[cecilia-lister-portrait.png]]

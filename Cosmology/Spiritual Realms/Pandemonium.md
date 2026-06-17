@@ -29,4 +29,9 @@ Recent events in [[Chardon]] have brought home the reality of Pandemonium for ma
 %%^End%%
 
 
-%%SECRET[1]%%
+%%SECRET
+
+have to leave a few secrets around to confuse Mike.
+probably nothing more to say here. 
+
+%%

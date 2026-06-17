@@ -25,4 +25,9 @@ pronunciation: EHZ-tine
 
 ![[eztain.png|right|400]]Eztain is a lizardfolk warrior, who serves as the representative of various lizardfolk militias and war bands to the [[Refounded Alliance of Aurbez]]. She has a predatory grin, and is eager to fight. 
 
-%%SECRET[1]%%
+%%SECRET
+- **Backstory (10–20 words):** Led night raids along reedbeds; trained hunters in silence; keeps precise river-path memory.
+- **Description:** Lean, scarred snout; river-camouflage paint; willow bow; twin bone knives; bandolier of signal reeds.
+- **Distinctive trait/feature:** Soft jaw-clicking while thinking; never breaks eye contact when challenged.
+- **Vibe (3–6 words):** Sharp, impatient, results-driven, predatory.
+%%

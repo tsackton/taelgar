@@ -28,4 +28,34 @@ When the [[Dunmar Fellowship]] brought the [[Cloudspinner]] out of [[Cha'mutte]]
 %%^End%%
 
 
-%%SECRET[1]%%
+%%SECRET
+
+She was not the main fey lord of redsun keep , that was Thyrian Duskward. 
+
+Redsun Watch held out for years after Amberglow fell. For four hundred years, they valiantly held out. Lirien was young when Redsun Watch fell. Thyrian Duskward was killed by a river of shadow that cracked through the Sunset Gate, darkness flowing and surrounding Redsun Watch. Lirien, not knowing what else to do, grabbed the Amberlight and fled, passing through Emberwine before reaching Everlight's Bloom, where she has been hiding for the past few hundred years. 
+
+Soon after Redsun Watch fell -- within years, maybe a decade or two -- the Amberlight, which Lirien had kept safe, went dim. Until 10 days ago, when it started glowing faintly, getting steadiily stronger until a week ago it was flickering bright and pulsing, pointing the direction to Cloudspinner. So Lirien left and came here. 
+
+### Lirien
+
+
+She is scared -- she is not a warrior -- but she has no idea if anyone survives, and fears that she possesses the last Amberlight not in the hands of Cloudspinner's enemies, so she came anyway. Play her as terrified and desperate and not sure what she will find, what the party's motivation is. She doesn't pose a threat but will act brave despite shaking underneath. 
+
+She arrives riding a flying stag, with golden-hued fur and reddish-orange antlers. 
+
+- "Where is she?" she cries holding a strange crystalline structure made of what looks like liquid gold frozen in place and tinted with reds and oranges, the interior pulsing with a warm light. "Release her, if you have her! I serve the Cloudspinner and I will have her returned." Her voice shakes with fear. 
+
+Keep track of time in the real world. Will only have a few moments, maybe up to 5 minutes, for conversation before the shadows come. 
+
+Things Lirien knows:
+- Thought she does not know the secret to restore Cloudspinner, she knows that the Cloudspinner had her Cloud Palace, her main court, but her magic was rumored to draw from the [[Prismwell]], also known as the Pool of Painted Skies, hidden somewhere in her domain. This, not the Cloud Palace, is where she made her famous threads and wove the Cloak of Rainbows. (other names Lirien does not know, this is for later)
+- She knows of the [[Shrouded Archive]], in [[Everlight's Bloom]], but she does not know the cost the the Keeper of the Silent Codex will charge
+- She knows the rumors of the man calling himself only the Broken Mask, who supposedly was a poet and bard of Cloudspinner's court itself, one of the few to escape the ruins of the Cloud Palace. He is said to be living in Emberwine, where he drowns his memories in the forgetting draughts of the intoxicating waters there. 
+- She knows that Lord Umbraeth, in Duskmire, conquered parts of the north of Amberglow, and must have some Amberlights, which he is now using to track the Cloudspinner and stop her return. They are hounds and hunters and revel in the chase.
+- She knows that the conjoined lords of [[Darkfall]] and [[Hollowdark]] also stole Amberlights from along the Sunset Gate. They are the terrors that creep out of the night. 
+- She can possibly speak of [[Aelirios Sunblade]] and the [[Refuge of the Gossamer Veil]], and mention Night's Edge Keep and maybe some other places, but she is afraid none of them survived. She has not heard of another bearer of Amberlight since Aelirios died, but she has been hiding. 
+- She can speak about the rivers of night and how terrifying they are, oozing slowly like glaciers of darkness across Amberglow. It might still be hundreds of years, but eventually they will erode the Sunset Gate completely and then who knows what might happen. 
+- She can talk about the Sunset Gate. 
+- She can tell them about the nearest portal, to Emberwine. 
+
+%%

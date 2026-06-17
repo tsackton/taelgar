@@ -27,4 +27,6 @@ ddbLink: https://www.dndbeyond.com/magic-items/4725-ring-of-mind-shielding
 For many months, the supposed soul of [[Typhina]] rested patiently in the ring, until the [[Dunmar Fellowship]], with the fey wanderer [[Caulaus]], brought the ring to the [[Heartwood Grove]]. Here they [[Session 67 (DuFr)|learned that Typhina was actually Agata]] in disguise, and the real [[Typhina]] had been killed in the [[Heartwood Grove]] long ago, when Agata stole the branch in the first place. 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET
+Created by a dwarven scholar and wizard in the years before the Great War  as an item of protection and defense, especially for those fighting mind flayers and other evil aberrations. [[Agata]] deeply desired an item like this for many years, and one of her few fair deals was a trade with a dwarven matriarch who gave [[Agata]] the ring in exchange for restoring the mind of her child, in the decades after the Great War
+%%

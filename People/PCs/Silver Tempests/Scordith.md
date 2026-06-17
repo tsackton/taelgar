@@ -25,4 +25,8 @@ When she turned 16, she tried to flee the monastery, but the monks had other ide
 
 After traveling to help some centaurs deal with a curse with [[Adrik]], [[Samso]], [[Brelith]], and [[Aglath]], she returned to [[Voltara]] alone, and was never seen from again.
 
-%%SECRET[1]%%
+%%SECRET
+
+Could use this as the basis of an adventure - she was killed by the monks who are part of some cult in the hills near Lake Valandros
+
+%%

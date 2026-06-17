@@ -21,4 +21,8 @@ The eight rodnye are:
 - The [[Rodnya Zoryana]], known for their penetrating gaze and uncanny ability to see what is, was, and might be. 
 - The [[Rodnya Kinzal]], enchanters and illusionists
 - The [[Rodnya Nivik]], conjurers and teleportation specialists
-%%SECRET[1]%%
+%%SECRET
+- Rodnya Talnor, 
+- Rodnya Rusil, 
+- Rodnya Kemran, 
+%%

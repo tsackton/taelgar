@@ -16,4 +16,6 @@ dm_owner: none
 
 An informal leader of day-laborers in the Chalyte Levels.
 
-%%SECRET[1]%%
+%%SECRET
+Broad-shouldered laborer with deep chalyte scars on both arms and a cough. Unofficial leader of the moderates. Fears: imposter syndrome, feels in over his head, not confident in negotiating with Magistros but fears worsening violence every day.
+%%

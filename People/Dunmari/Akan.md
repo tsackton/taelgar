@@ -30,7 +30,10 @@ A Dunmari sheep herder from the area outside [[Karawa]]. Pastoralist and nomad, 
 
 %% Testcase reason: a good example of a 'with' whereabout being useful to track e.g movement of the Karawa refugees%%
 
-%%SECRET[1]%%
+%%SECRET
+## Relationships
+- Considers himself forever in the debt of the [[Dunmar Fellowship]] for their aid to his family, and helping to recover his sister's amulet from the giant lizard attack in March 1748.
+%%
 
 %%^Date:1748-06-22%%
 ## Chronology

@@ -15,4 +15,6 @@ typeOfAlias: landmark
 
 A mysterious feature, likely hidden in the Cinder Wastes. 
 
-%%SECRET[1]%%
+%%SECRET
+something to do with divination and Frankar's runic magic, will be the center of the Frankar adventure
+%%

@@ -17,4 +17,9 @@ dm_notes: none
 
 A fey realm, described in [[The Lore of the Feywild]] as a land of golden canals, floating gardens, and drifting gondolas, where, boats glide effortlessly over crystal-clear pools that reflect the endless afternoon sky.
 
-%%SECRET[1]%%
+%%SECRET
+
+few details invented
+vibe is much more urban than most other fey realms, more constructed and modern, maybe even a bit more of a touch of Victorian England
+
+%%

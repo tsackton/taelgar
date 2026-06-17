@@ -15,4 +15,8 @@ dm_owner: none
 
 An advisor to [[Mitus Verina Auratan]]. 
 
-%%SECRET[1]%%
+%%SECRET
+
+middle aged, probably early 50s? she was a bodyguard for Mitus' mother, and then served as his bodyguard and military tutor. exceptionally loyal, although had some tension with Seva so generally had little power until Mitus took over. but now one of his "inner circle" and often the person he looks to for final advice on military matters. has a effective rank of general. 
+
+%%

@@ -15,4 +15,8 @@ typeOfAlias: library
 
 The Shrouded Archive is a hidden library, rumored to be located on the border between [[Everlight's Bloom]], [[Amberglow]], and [[Emberwine]], where it is said that any secret ever spoken or written down can be found, for a price. 
 
-%%SECRET[1]%%
+%%SECRET
+
+**The Shrouded Archive** is an **overgrown ruin of hidden knowledge**, where information is not freely given but must be **unlocked or bargained for.** The **Grand Archivist, Keeper of the Silent Ledger**, oversees it, recording every secret whispered in the Feywild but never speaking himself. (He has kept the ledger so long he has forgotten his own name). 
+
+%%

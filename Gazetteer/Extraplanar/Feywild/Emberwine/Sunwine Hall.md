@@ -18,4 +18,8 @@ typeOfAlias: palace
 
 Sunwine Hall is the court of [[Lord Soven]], the Master of Revels and ruler of [[Emberwine]]. 
 
-%%SECRET[1]%%
+%%SECRET
+
+open air feast, laden tables, huge stone dance hall with walls of woven vines. Grove of trees sparkling in the light. 
+
+%%

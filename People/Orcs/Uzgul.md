@@ -25,4 +25,10 @@ dm_owner: tim
 
 A young man of 14, current heir to the kingdom. The family resemblance to [[Lubash]] is apparent, but Uzgul is full of the vigor of youth, with a mohawk of wiry black hair, a dangling silver earring on a chain in one ear, and vibrant green skin. He has a nervous excitement to him, and has a hard time sitting still.
 
-%%SECRET[1]%%
+%%SECRET
+
+Speaks Common and Sylvan.
+
+Believes the [[Orcs]] of [[Xurkhaz]] can do anything, and will have no sense of the danger [[Grash]] poses. 
+
+%%

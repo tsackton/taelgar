@@ -46,4 +46,20 @@ Due to the harsh conditions, reliable maps of the Plane of Fire do not exist, an
 - The [[Sea of Fire]], a sea of lava, fire, and ash supposedly spreading from center of the plane.
 
 
-%%SECRET[1]%%
+%%SECRET
+
+The Plane of Fire is ruled by the efreeti. In my world, I draw a lot of inspiration from the books of S. A. Chakraborty for efreeti. They are not evil, exactly, but their society tends to be highly competitive, and efreets themselves tend to outbursts of temper and anger. That said, they greatly appreciate unique talents and often see themselves as important patrons of highly skilled artisans. 
+
+The most significant other inhabitants are the azer. Like in standard D&D, these are dwarf-like creatures made of bronze. In my plane of fire, they tend to be poor, and live on the outskirts of efreet society. There are azer cities, but often they are exploited by the efreeti, who have much stronger magic. But there is no active war or conflict. 
+
+Fire elementals, salamanders, and mephits follow traditional D&D lore. Salamanders are generally speaking oppressed, or even enslaved, by the efreeti, although some have escaped. 
+
+Efreeti themselves have a complicated history with humans. Efreeti are both the easiest of genie-kind for humans to trap in various ways, and force to grant wishes, and also the most hostile and angry when they escape. A major goal of efreeti society is to, in their words, to free all trapped efreet everywhere, forced to work for the benefit of human wizards.
+
+Bronzehall: Bronzehall is a sprawling city carved into the side of a massive obsidian mountain. Lava rivers flow through its grand avenues, illuminating the city with a fiery glow. The architecture is a blend of practicality and art, with bronze statues and artworks adorning the city's many plazas. Being one of the few Azer strongholds, it is a hub for trade, especially in magical materials and artifacts. Frankar and Zephyra were frequently seen traveling through Bronzehall, acquiring rare materials and knowledge for the Crucible. Rumors suggest that Zephyra had contacts in the city, possibly other efreeti or powerful Azer artisans who held the secrets necessary for the Crucible's completion.
+
+Salamanders: Salamanders, especially the rare white ones, are a valuable commodity in the Plane of Fire, often hunted and captured for their unique magical properties. A faction of the efreeti, led by a powerful figure named Flametongue, has been advocating for the protection and liberation of salamanders, seeing them as integral to the plane's balance. Zephyra, however, belongs to a rival faction that believes in harnessing the salamanders' power for their own gains.
+
+Frankar's machine, with its use of white salamanders, became a symbol of this conflict. Zephyra saw the potential of combining the machine with the Crucible to dominate the efreeti political landscape, giving her faction unparalleled power and control over the salamander population. Frankar, unknowingly, has become a key figure in this power struggle.
+
+%%
