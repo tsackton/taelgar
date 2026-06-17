@@ -30,4 +30,4 @@ When the Golden Age ended in civil war, and the [[Omnis Pura]] came to power, th
 He was partially awakened from his imprisonment in the spring of 1748, by three Chardonians: [[Dee Wildcloak]], [[Dain Goldhammer]], and [[Alban]] (who died in the tower). He was later freed by [[Dunmar Fellowship]], and vanished into the winds. 
 
 
-%%SECRET[1]%%
+%%SECRET[v2:2fa34eba812d0e09fdbf7fc0eb1e7b2d]%%

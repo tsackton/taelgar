@@ -15,5 +15,5 @@ A map of the ruins of the Pandemonium fort, north of [[Tokra]] created by the Du
 
 Found in the [[Tokra]] [[Archives]] by [[Govir]], which led to his kidnapping and infection with lycanthropy. Recovered by the [[Dunmar Fellowship]], and kept for safekeeping.
 
-%%SECRET[1]%%
+%%SECRET[v2:2840c2f04472ba27c48837bea67a9a94]%%
 

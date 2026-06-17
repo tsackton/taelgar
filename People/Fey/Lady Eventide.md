@@ -28,4 +28,4 @@ Lady Eventide is often seen in ornate courtly gowns adorned with jewelry. Howeve
 
 - In DR 1748, Lady Eventide met [[Seeker]], trading the color from a streak of [[Seeker]]'s hair for a magical Sunset Thread from her gown, which was crafted by the renowned [[Cloudspinner]], famed for her talent in weaving threads infused with the enchanting colors of the sunset.
 
-%%SECRET[1]%%
+%%SECRET[v2:869fc3687f0fe296baaef6cd2b8795e9]%%

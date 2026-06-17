@@ -22,4 +22,4 @@ Plane of Chaos. Associated with Cha'mutte.
 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:8f9eaf8dcd92504ab078e70fc28690ff]%%

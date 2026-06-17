@@ -26,4 +26,4 @@ The Vargald are also unusual in being a mixed species group. Although [[Humans|h
 
 Although the Vargaldi speak a language related to [[Languages#~Old Zimkovan~|Old Zimkovan]], it has many loan words from [[Languages#Eastros|Eastros]], and many Vargald names sound rather Eastros in flavor. Common male names include Radovan, Torsetn, Rurik, Sindri, Goran; common female names include Mila, Runa, Danica, Zora, Vesna. 
 
-%%SECRET[1]%%
+%%SECRET[v2:3cd24f9e7f76cb2c114db48a9faac087]%%

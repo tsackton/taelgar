@@ -17,4 +17,4 @@ The Blood Knife is a wicked-looking curved dagger made from some kind of black m
 
 The knife is somehow associated with Gazankoa, and possession of it brings dangerous dreams and influence. After Azar's defeat, the knife was recovered from his lair and sealed inside a lead-lined box, which appeared to quiet or contain it.
 
-%%SECRET[1]%%
+%%SECRET[v2:daa43670c75bb46ece4113b741d49c14]%%

@@ -20,4 +20,4 @@ dm_notes: important
 
 An older woman, not from Mawar but from the north, who retired to Hamri after a long adventuring career to listen and learn the songs of the ocean.
 
-%%SECRET[1]%%
+%%SECRET[v2:aa915414d2dedc10b88aed751855abac]%%

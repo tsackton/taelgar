@@ -26,4 +26,4 @@ Among the tangled roots of the tree are sparkling pools of sweet-smelling wine, 
 
 Those who approach the Bitterwine Oak invariably here the call of the revel: whispered calls to dance, to sing, to join the party, seemingly carried on the wine. Old Drankorian tales claim that those who acknowledge the revel vanish to the Feywild to join their fey hosts in dance and song. 
 
-%%SECRET[1]%%
+%%SECRET[v2:eae03e404d2b217b566d0426220fa1c6]%%

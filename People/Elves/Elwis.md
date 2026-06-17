@@ -31,4 +31,4 @@ Elwis is a female elf and painter from [[Orenlas]].
 She is spending her wandering years traveling around the [[Green Sea]], trying to make new art that hasn't been dreamed before in the history of her people. She has recently come to [[Tollen]], fascinated by the magical inks of the Dyer's Guild and seeking to use them in painting. 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:a63ff858568a0f60bf518ddd21422fef]%%

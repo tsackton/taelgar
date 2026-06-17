@@ -21,4 +21,4 @@ ddbLink: https://www.dndbeyond.com/magic-items/8705290-flaming-bowstring
 
 Originally the weapon of [[Camana]], the leader of [[Havdar]]'s scouts, who died in battle against the [[Orcs]] of [[Grash's Horde]], in the [[Nashtkar]]. After the [[Dunmar Fellowship]] [[Session 20 (DuFr)|aided]] [[Havdar]] in battle, was [[Session 21 (DuFr)|gifted]]to [[Wellby]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:d43319a7d22f5fac8fc7990038db00e5]%%

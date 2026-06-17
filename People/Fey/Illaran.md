@@ -32,4 +32,4 @@ Physically, Illaran is dwarf-like: short and stout. His most distinguishable fea
 
 - During DR 1748, Illaran inadvertently caused a wild magic storm in the [[Feywild]]. [[Seeker]], assisted by two guardians from [[Shimmersong]] and a wandering fey samurai, managed to quell the tempest. Recognizing their efforts, Illaran bestowed upon [[Seeker]] shards of crystallized magic as a token of appreciation.
 
-%%SECRET[1]%%
+%%SECRET[v2:1bf4d8bd3e9f61263799270c669a8d1a]%%

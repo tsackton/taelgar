@@ -25,7 +25,7 @@ The last Samraat of the [[Aatmaji Dynasty]].
 
 His tomb is among the monuments in Kharsan. 
 
-%%SECRET[1]%%
+%%SECRET[v2:f655efefe17c2c59b53dd2d7fe0c1241]%%
 
 
 

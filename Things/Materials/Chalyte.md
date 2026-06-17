@@ -22,4 +22,4 @@ Rumors speak of chalyte zombies, the empty husks of those who abuse chalyte, who
 In the DR 1680s, Chardonian explorers found chalyte in the mountains near Voltara, triggering a massive explosion of investment. Since then, the Chardonian Empire solidified its control over the [[Northern Provinces]], especially [[Voltara]], establishing a series of chalyte mines. This allowed chalyte to become central to the might and magic of the Chardonian Empire. Chalyte fuels the artificers and crafters of Chardon, whose elaborate enspelled enchantments command astronomical prices and bring riches to the city and the empire. Chalyte fuels the Windcallers, whose mastery over the ocean winds makes the Chardonian navy the most feared on the Endless Ocean. And chalyte is a critical component of magic of the war wizards of the Chardonian Legion, allowing them to perform feats far beyond their natural power. 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:8f73d047076085f08724a1dc475f19b8]%%

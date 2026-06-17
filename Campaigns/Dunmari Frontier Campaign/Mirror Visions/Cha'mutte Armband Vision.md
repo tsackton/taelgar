@@ -21,4 +21,4 @@ Flying higher still, you can see this is just one of many fortresses, laid along
 
 Until you come to a flat area, a ledge or clearing of sorts on the lower slopes of the mountain range, and you land. The armband clatters to the ground for a moment, until it is picked up, and put on by one of these kenku. You can see little black tendrils, webs, creep up from the armband and embed themselves in the in the flesh of this creature. Until suddenly, without warning, a pool of darkness appears in the side of the cliff, a flat, black, expansive shadow. The vision ends as the kenku step through the portal, and begin to walk across the shadowlands. 
 
-%%SECRET[1]%%
+%%SECRET[v2:7733808794947c82aa71725ac06bab03]%%

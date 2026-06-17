@@ -27,4 +27,4 @@ A disgraced historian and scholar, expelled from the Faculty for using enchantme
 
 Wrote [[On the Lost People of the Forests]], describing travels in his youth among the Deno'qai of the [[Elderwood]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:cd80af0aa93653bae7a13d94ffbd012b]%%

@@ -40,7 +40,7 @@ Now, the People of the Rainbow are thriving in [[Xurkhaz]], and perhaps in other
 - (DR:: 1582): [[Uzgash]] finds the [[Cloak of Rainbows|Cloak of Rainbows]] in a Dunmari fort in the [[Nashtkar]]
 - (DR:: 1583): [[Xurkhaz]] is founded as the new homeland of the People of the Rainbow. 
 
-%%SECRET[1]%%
+%%SECRET[v2:9129629b3cc26a5dd89b20c6e9a208fc]%%
 
 %%^Campaign:None%%
 ### Current Members

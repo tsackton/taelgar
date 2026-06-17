@@ -66,4 +66,4 @@ With Ra'ghemdros' death, [[Session 110 (DuFr)|Dimitaur proclaimed himself Protec
 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:7feea1a5f856f6413dd64a5ab1b417eb]%%

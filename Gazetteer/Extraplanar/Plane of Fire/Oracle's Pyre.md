@@ -15,4 +15,4 @@ typeOfAlias: landmark
 
 A mysterious feature, likely hidden in the Cinder Wastes. 
 
-%%SECRET[1]%%
+%%SECRET[v2:9dc25be216de73d09728d2185b6feffa]%%

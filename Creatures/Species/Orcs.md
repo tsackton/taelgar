@@ -27,7 +27,7 @@ Orcs are tightly bound to, and cursed by, [[Thark]], the embodied god of war wit
 
 Orcish religion, the manifestation of [[Thark]]'s will in the world, glorifies strength and resolving conflicts through violence. But the real power of [[Thark]]'s curse is enforced by a mysterious rumored ritual known by many names, and often referred to as the Blood Oath of the Crimson Blade by human scholars. While few details of this ritual are known to non-orcs, it is rumored that this ritual, performed on all newborn orcs, infuses them with the strength and fire of [[Thark]]'s will. Those who cannot or will not accept the curse of [[Thark]] do not survive the ritual. 
 
-%%SECRET[1]%%
+%%SECRET[v2:28d9bd32f1fd40a9739253f2257944de]%%
 ## Unchained Orcs
 Rumors circulate throughout Taelgar of unchained orcs, free orcs that have broken the bounds of [[Thark]]'s curse, and live without the burning fire of [[Thark]]'s divine will driving them to ceaseless violence.
 
@@ -35,5 +35,5 @@ The most famous of these orcs are the [[People of the Rainbow]], living in the d
 
 Free orcs live in the constant shadow of [[Thark]]'s hunters. [[Thark]] watches over his orcs, driving them to fight each other, bringing strength to the victors. But none are more hated by [[Thark]]'s orcs than those who have broken free: any tribe that tries to turn from [[Thark]]'s way is quickly subject to unceasing attacks until they are defeated and subjugated, unless they can find a way to hide from [[Thark]]'s probing eyes. 
 
-%%SECRET[2]%%
+%%SECRET[v2:246bfcf32c28fb87a7ffe16c5961e34d]%%
 

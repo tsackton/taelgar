@@ -20,4 +20,4 @@ These are a pair of goggles, with lenses made of polished purple gems, that are 
 This pair was [[Session 16 (DuFr)|found]] by the [[Dunmar Fellowship]] in [[Stormcaller Tower]] and is now carried by [[Seeker]].
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:cd3ce611fc922a02ebe8f6635cf9bd92]%%

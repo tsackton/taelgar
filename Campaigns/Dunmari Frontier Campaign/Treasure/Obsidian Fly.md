@@ -26,4 +26,4 @@ ddbLink: https://www.dndbeyond.com/magic-items/4831-figurine-of-wondrous-power-e
 The [[Dunmar Fellowship]] found this figurine on [[Agata|Agata Dustmother]] after [[Session 28 (DuFr)|defeating her]] in [[Shakun’s Wellspring]]. Despite several attempts, have not been able to convince it to recognize a new owner. [[Session 34 (DuFr)|Was fed to a giant velvet worm]] in the [[Elven Arborea Workshop]], but survived. [[Wellby]] learned from [[Arryn]], the mirror wizard at the edge of the [[~Eastern Ocean~]] that it cannot serve a new owner until its old owner is dead.
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:29e63cb26c9e0c0a2ca6ff76c5c7e53b]%%

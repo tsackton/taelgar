@@ -28,5 +28,5 @@ A fire spirit, the essence of the volcano, also called Ember, or Sugarra in the 
 
 - In DR 1748, [[Azta Lekua]] was thrown out of balance by the presence of [[Motua]], a wounded [[Gidari]]. Somi-nai fled his home as invaders from the [[Elemental Plane of Fire]] threatened to overwhelm the volcano. The crisis was eventually averted thanks to the intervention of [[Kenzo]], [[Enari]], and [[Izzarak]].
 
-%%SECRET[1]%%
+%%SECRET[v2:1d164f98f761b692584c87acfc350d41]%%
 

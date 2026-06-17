@@ -19,7 +19,7 @@
 [2023-01-16 12:43 PM] rsulfuratus: this works though:
 [2023-01-16 12:43 PM] rsulfuratus: 
 ![[Worldbuilding/Chats and Emails/_assets/discord/image-3EA4C.png]]
-###secret[1] year`
+[2023-01-16 12:43 PM] rsulfuratus: and adding `born: 1696 ##secret year`
 [2023-01-16 12:43 PM] rsulfuratus: works fine for the dv.view code
 [2023-01-16 12:46 PM] rsulfuratus: and running the process note template code with yaml comments correctly updates the missing frontmatter fields without changing the comments
 [2023-01-16 12:49 PM] rsulfuratus: if you are bored on the plane, I potentially need up to 36 names of Drankorian emperors for tonight...

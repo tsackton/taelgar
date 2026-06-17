@@ -25,4 +25,4 @@ The five crystals are named:
 - The Anger Stone: a harsh, jagged reddish stone, the color of fire and blood, holding it too long leads to a slowly growing sense of unease that turns to anger and rage; probably associated with fiends  
 - The Peace Stone: a smooth golden stone with a single brilliant white line around the diameter at the middle, holding it for a while gives you a sense of peace and calmness; probably associated with the [[Divine Realms]] of the gods  
 
-%%SECRET[1]%%
+%%SECRET[v2:dd201eef0c36aca6c3a5642759c9eaff]%%

@@ -154,4 +154,4 @@ Thieves guild type? Other guilds? Artisans?
 %%
 
 
-%%SECRET[1]%%
+%%SECRET[v2:7bb8e34dca4c4ab48f6b1ce89425318e]%%

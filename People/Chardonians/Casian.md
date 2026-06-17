@@ -30,4 +30,4 @@ Not well regarded by of the party's contacts in Chardon, considered a snob and s
 
 Favors fireballs in combat. 
 
-%%SECRET[1]%%
+%%SECRET[v2:182b5ae4b8abacb14c21831151b2f89c]%%

@@ -33,4 +33,4 @@ An old Dunmari fort in the mountains. Captured by hobgoblins and used as a base 
 Wellby's map of Raven's Hold:
 ![[wellby-ravens-hold-map.png]]
 
-%%SECRET[1]%%
+%%SECRET[v2:69d61d3ced832ccc37630c51b437982c]%%

@@ -36,4 +36,4 @@ Inside, the great hall is vast, with ceilings lost in shadow, supported by pilla
 Many of the frost giants of Isenborg live in the palace itself, in spacious quarters, with furnishings carved from ice and stone, covered in furs and pelts of mythical beasts. The royal chambers are especially lavish, with tapestries made from the feathers of frost phoenixes and beds of polar bear fur.
 
 
-%%SECRET[1]%%
+%%SECRET[v2:e65f57fd677dcdae256af5d9b3d776c8]%%

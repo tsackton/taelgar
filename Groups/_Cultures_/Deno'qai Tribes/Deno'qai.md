@@ -90,4 +90,4 @@ Within each cultural strand, there is plenty of space to invent new tribes.
 - The relationship between [[Rai]], [[Aasimti]], and the tanshi tradition should remain mysterious for now, specifically whether the [[Te'kula]] in fact worshipped only Rai/Aasimti or if that was a gloss/misunderstanding from Gnaesus. 
 - [[Deno'qai Lynx Shield]] and [[Deno'qai Scale Mail]] should remain isolated legendary examples, not the basis for a general material-culture section.
 - [[GL - Session 62 - DM Notes]] includes background on the Yo’nari, a proto‑Deno’qai tribe tied to [[Yeshara]] and [[Cairn Dor]]. See also: [[Session 63 Background]]
-- [[Grimbaskal's Hoard]] includes `%%SECRET[1]%%^End%%
+- [[Grimbaskal's Hoard]] includes `%%SECRET[v2:1408cee9363fcdbfb4b3dbdb9da9dd36]%%^End%%

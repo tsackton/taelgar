@@ -34,6 +34,6 @@ Wendel knows several regulars of [[The Windward Sail]] well, including:
 - [[Wellby]], an old acquaintance who frequented The Windward Sail in his youth
 - [[Nika Hyne|Nika]], a collector of tales and legends, with connections to the [[University of Tollen]]
 
-%%SECRET[1]%%
+%%SECRET[v2:284222bcc889df56acc82e5a3df5e98e]%%
 
 ![[wendel-quickstep.png]]

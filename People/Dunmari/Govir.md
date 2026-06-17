@@ -17,4 +17,4 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[govir.png|right|400]]%%SECRET[1]%%
+![[govir.png|right|400]]%%SECRET[v2:64e5c05408e8fe1cea283e0bdaf2a119]%%

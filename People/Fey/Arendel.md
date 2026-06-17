@@ -16,4 +16,4 @@ dm_owner: none
 
 Arendel is a boisterous and friendly member of [[Lord Soven]]'s court. He is friendly, and loud, and looms larger than life, full of laughter and a quick wit. He loves to duel, and is extremely good at it, having rarely been beaten in his many years of fighting. He is a gracious winner, though, pleased and happy to be challenged. Though he often wagers on his duels, he almost never demands a payment that would be a hardship for his challenger to pay.
 
-%%SECRET[1]%%
+%%SECRET[v2:4a2652b348ad97ec5271717553df12cc]%%

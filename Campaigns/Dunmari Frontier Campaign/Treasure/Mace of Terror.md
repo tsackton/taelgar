@@ -15,4 +15,4 @@ A mace, once owned by Fausto, stolen from him after he betrayed the Dunmar Fello
 
 ![[Mace of Terror Vision]]
 
-%%SECRET[1]%%
+%%SECRET[v2:e711e89a35c6cb0fdd7312ea5049e8de]%%

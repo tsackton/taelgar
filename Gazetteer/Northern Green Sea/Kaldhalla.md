@@ -22,4 +22,4 @@ Under the rule of King [[Brimskarda]], the giants of Kaldhalla have come to domi
 
 The largest and strongest of these, and Brimskarda's chief fortress, is [[Isenborg]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:d7d9b96541f7c58948511e5d50b40afe]%%

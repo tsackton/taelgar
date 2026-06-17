@@ -24,7 +24,7 @@ dm_owner: tim
 
 ![[alesh-portrait.jpg|right|400]]A short, quick-footed woman, with a nondescript face, short, black hair and light brown/tan skin. An extremely skilled rider, often serving as a scout or messenger for the people of [[Karawa]]. Bubbly, cheerful person, endlessly fascinated by Dunmari history. She collects rumors of [[Dunmar]] of old and collects arrowheads and other artifacts she can find in her travels. She is especially interested in ancient battle sites.
 
-%%SECRET[1]%%
+%%SECRET[v2:8af925daa6230fb69ff4860c070ffaf6]%%
 
 ## Relationships
 - Friendly with most people of [[Karawa]], but fairly independent and not particularly associated with either [[Havdar]]'s warriors or [[Candrosa]] and the [[Shakun Mystai]]. Finds [[Havdar]] a bit brash. 
@@ -47,4 +47,4 @@ dm_owner: tim
 - 6 June 1748: Leaves to return to [[Karawa]] at first light
 - 10 June 1748: Arrives back in [[Karawa]]. Reports on rumors from [[Karawa]] to [[Delwath]], and speaks with him about the Dunmari shield recovered from [[Agata's Lair]]. 
 - 18-19 June 1748: Celebrates the [[Feast of Bhishma]] in [[Karawa]] with [[Dunmar Fellowship]] and others. 
-%%SECRET[2]%%
+%%SECRET[v2:578c594cfc1c00692326a281d04346ed]%%

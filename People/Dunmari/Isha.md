@@ -21,4 +21,4 @@ dm_notes: important
 
 A Dunmari man trapped for many years in the [[Mirror of Soul Trapping]] by [[Agata]]. Missing one eye, with gray hair, incoherent. Most recently under the care of [[Cintra]] after his ordeal. 
 
-%%SECRET[1]%%
+%%SECRET[v2:4364e7feceda6544a2a74f787ca9100d]%%

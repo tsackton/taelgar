@@ -21,4 +21,4 @@ As this happens, there is a massive strike of lightning, striking the tower, and
 
 Wellby attempts to read lips and gives a halting phonetic translation, not well enough to make out more than one word in four, but enough to tell this is an argument, Eudomes is speaking of an airship, and as the scene fades he is saying, 'fine, then I will keep you.'
 
-%%SECRET[1]%%
+%%SECRET[v2:db580ec819fa63aabc1a3342d2816bf4]%%

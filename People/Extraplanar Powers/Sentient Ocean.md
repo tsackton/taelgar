@@ -20,4 +20,4 @@ This entity has been called many names, including Yi'weti by the old mages of th
 Those who have traveled among the [[Merfolk]] often report distinctive rumors and tales of the Sentient Ocean. For many years, the merfolk city of [[Omi]] was enclosed by a barrier created by the Sentient Ocean; passing through triggered seeming memories and visions of its history. A flight from a destroyed home, far away in another realm; the creation, or awakening, of the merfolk; a decision to become their protector after finding life in Taelgar's seas. Though these rumors are far from clear, they paint a picture of an alien entity from some distant extraplanar realm, possessing unfathomable power, serving as the creator, protector, and divinity of the merfolk. 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:2aa233cc5496439f38353751445879f8]%%

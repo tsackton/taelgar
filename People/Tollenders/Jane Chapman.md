@@ -27,4 +27,4 @@ dm_notes: color
 
 ![[jane-chapman-portrait.png|right|320]]A Tollender-born woman in her early 30s, from the well-off and well-established Chapman merchant family, Jane became a Dyer's Guild captain known for her skill and her luck at sea.  
 
-%%SECRET[1]%%
+%%SECRET[v2:6d3335abbd9e17db160768a6d2d210b1]%%

@@ -17,4 +17,4 @@ dm_notes: important
 
 It functions as a locus for the power of [[Shakun]] on the material plane, and must remain in the [[Red Mesa]], the physical embodiment of [[Shakun]] in this world, in order to function as the heartbeat of the [[Shakun Mystai]] and allow [[Shakun's Protection]] to be maintained on the eastern borders of [[Dunmar]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:de024539516e9c19855fde1a78200618]%%

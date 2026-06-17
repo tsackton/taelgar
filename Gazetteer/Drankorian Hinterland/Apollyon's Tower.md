@@ -20,4 +20,4 @@ Apollyon's Tower is a black marble spire on the coast of the [[Circular Island]]
 In DR 1749 the [[Dunmar Fellowship]] assaulted the ruin, uncovering its forge, libraries, and throne room, and carrying away the treasures now catalogued as [[Apollyon's Tower Treasure]].
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:336d2b6a742073ad1667272cfcf6ff5e]%%

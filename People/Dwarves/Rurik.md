@@ -21,4 +21,4 @@ dm_notes: color
 
 Rurik is a dwarf, of indeterminant age, who remembers little of his life in [[Bleakhold]] except his close connection to his son, [[Tak]], who he cares for deeply and worries over constantly. 
 
-%%SECRET[1]%%
+%%SECRET[v2:3338abd16635f892bf4590a38d7827b4]%%

@@ -24,5 +24,5 @@ pronunciation: EET-shahl
 
 ![[ixtal.png|right|400]]Itxal is an elderly lizardfolk matriach of the Aursen Marshes, protective of her people. 
 
-%%SECRET[1]%%
+%%SECRET[v2:609d4574a96c2fec85fc76377828c7b3]%%
 

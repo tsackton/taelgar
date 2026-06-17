@@ -42,4 +42,4 @@ From the mirror, you learned this is of Drankorian origin, constructed by [[Apol
 The Scepter of Command was destroyed in 1748, by [[Dunmar Fellowship]]. It was immersed in the sacred waters on the island of [[Vetta|Vetta]] in the Skaer Islands for 24 hours during a full moon, and then shattered with the combined power of [[Kenzo]]'s staff and the might of [[Kaikkea]]'s waters. 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:ed02a62757915b63bead81777b966216]%%

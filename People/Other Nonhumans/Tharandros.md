@@ -31,4 +31,4 @@ The Dunmar Fellowship met Tharandros and his herd traveling across the [[Samtal]
 Tharandros stayed in Karawa for a time, but left to travel north with his herd in June, 1748.
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:fb9c733c9729e8452a3014ffc0cb27d3]%%

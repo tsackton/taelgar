@@ -17,4 +17,4 @@ dm_owner: none
 
 A friend of [[Xavier]]'s involved in the [[Eightfold Flame]].
 
-%%SECRET[1]%%
+%%SECRET[v2:1f4ce8e293141b33f83497dd4a673d57]%%

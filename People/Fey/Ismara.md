@@ -16,4 +16,4 @@ dm_owner: none
 
 ![[ismara.jpg|right|300]]Ismara is a wanderer and a scholar of humanity, an archivist of the [[Material Plane|Mundane World]]. She is curious and bright, and prone to travel where fate takes her, although she tends to shy from danger. 
 
-%%SECRET[1]%%
+%%SECRET[v2:ec8c3e120ea2f6d15e10f8cdda8988d3]%%

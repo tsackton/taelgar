@@ -27,4 +27,4 @@ ddbLink: https://www.dndbeyond.com/magic-items/4725-ring-of-mind-shielding
 For many months, the supposed soul of [[Typhina]] rested patiently in the ring, until the [[Dunmar Fellowship]], with the fey wanderer [[Caulaus]], brought the ring to the [[Heartwood Grove]]. Here they [[Session 67 (DuFr)|learned that Typhina was actually Agata]] in disguise, and the real [[Typhina]] had been killed in the [[Heartwood Grove]] long ago, when Agata stole the branch in the first place. 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:c69a29d3e7610018ba6bb69cedaefbe3]%%

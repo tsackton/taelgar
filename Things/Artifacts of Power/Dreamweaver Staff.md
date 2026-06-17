@@ -20,4 +20,4 @@ dm_notes: important
 Currently, this staff is carried by [[Candrosa]], and was used by Candrosa after the return of the [[Heart of Shakun]] to send the members of the [[Dunmar Fellowship]] on journeys to the [[Dreamworld]]
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:a90c97bec29d656b19a3b87ed94eefd6]%%

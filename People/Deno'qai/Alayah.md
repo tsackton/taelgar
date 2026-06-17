@@ -24,6 +24,6 @@ The young Godcaller of the [[Te'kula]] tribe in the Elderwood. Dreamed of [[Rai]
 
 Gave her [[Jade Piece of Rai's Hand]] to [[Kenzo]] after [[Dunmar Fellowship]] defeated the green dragon [[Mezzar|Grimbaskal]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:fb38ebd0d992dbf59c4c0d7a735eac4b]%%
 
 %% Refactor: consider if this should be written to be less DuFr specific %%

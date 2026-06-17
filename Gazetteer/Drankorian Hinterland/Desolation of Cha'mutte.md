@@ -34,4 +34,4 @@ Nashtkar is close to Plaguelands and really is kind of the western edge of the P
 Prior to the Great War, the Plaguelands/Nashtkar/Garamjala didn't exist, and the Desolation of Cha'mutte was just the area around Drankor. The cataclysm that raised the Yuvanti Mountains also created the Garamajala, but this is largely due to weather patterns not magic. The Plaguelands itself, and the Nashtkar, is a result of the destruction of Isingue and whatever magic was there. 
 %%
 
-%%SECRET[1]%%
+%%SECRET[v2:c1019373bd7bf3ce855a16e291ea251b]%%

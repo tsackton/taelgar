@@ -16,4 +16,4 @@ A stoneborn hermit living somewhere on the coast of [[Cedrano]], known for his s
 
 ![[kazuro-portrait.png]]
 
-%%SECRET[1]%%
+%%SECRET[v2:6e1c4517ac76b191c8bb0c0a0497143d]%%

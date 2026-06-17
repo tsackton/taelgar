@@ -37,12 +37,12 @@ Pyhlla is a particularly large district, with 11 oskunja, and two priests in add
 
 [[Vaallinen]] (va-li-nen; he/him), the hakeasa of this district, and a divine magic user.
 
-%%SECRET[1]%%
+%%SECRET[v2:947a632d967acc9860a978812168d16c]%%
 
 # Blessing of [[Kaikkea]]
 
 All pilgrims to [[Vetta]] must accept the blessing of [[Kaikkea]]. This involves being submerged in a deep quarry cut out of the stone, and prayed over. 
 
-%%SECRET[2]%%
+%%SECRET[v2:8c1ed4e3f74588ecd718638ec0a649bd]%%
 
 ![[pyhlla-village-church.png]]

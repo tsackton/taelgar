@@ -18,4 +18,4 @@ affiliations:
 
 The ruler of [[Emberwine]], known as the Master of the Revels, the Keeper of the Dance, and the Warden of the Endless Song. 
 
-%%SECRET[1]%%
+%%SECRET[v2:956aafa4687103cbbdd2883f3990cb1b]%%

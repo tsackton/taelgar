@@ -37,7 +37,7 @@ In DR 1718, the Order and Rai traveled together to [[Isingue]], and attempted to
 %%^End%%
 
 
-%%SECRET[1]%%
+%%SECRET[v2:db3fd754e9fca85359c525b6f182d132]%%
 
 
 %%^Campaign:None%%

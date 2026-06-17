@@ -40,4 +40,4 @@ The Ancient and Honorable Order of Philosophers maintains a guild hall in [[Skep
 
 - [[Delios the Sage]], an elderly scholar with a magic scroll that seems to allow querying information from some mysterious source
 
-%%SECRET[1]%%
+%%SECRET[v2:d5a5706e0dd697c9e0bc41d31ed01633]%%

@@ -25,6 +25,6 @@ pronunciation: LAY-zhar
 
 ![[leizar.png|right|400]]Leizar is an eager lizardfolk boy, adventurous and inquisitive, who loves stories of heroes. 
 
-%%SECRET[1]%%
+%%SECRET[v2:a06648ae590fd4478748716f32e27c3a]%%
 
 

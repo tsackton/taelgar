@@ -41,7 +41,7 @@ Although of varying sizes and designs, all share some common architectural featu
 -   A statue, temple, pyramid, something on top of the complex
 -   A chapel/burial chamber underneath
 
-%%SECRET[1]%%
+%%SECRET[v2:b799f6c3183706c0e15393a7430efff1]%%
 
 
 

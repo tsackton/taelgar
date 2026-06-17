@@ -59,7 +59,7 @@ The palace is a large rectangular building with a large central courtyard, origi
 
 During the [[Fire War]] it was damaged, but not as badly as the [[Archives]], and required only cosmetic repairs, which were done in a Dwarvish style.
 
-%%SECRET[1]%%
+%%SECRET[v2:76453dab94c188149521c4e2f9f3956a]%%
 
 ### History
 
@@ -91,7 +91,7 @@ The horse herders and traders descended from the Dharajun rulers remain prominen
 
 %%
 
-%%SECRET[2]%%
+%%SECRET[v2:daed15e23e3a123d2cb4f871e12a25c3]%%
 
 
 

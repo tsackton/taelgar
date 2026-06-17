@@ -31,4 +31,4 @@ Azogar is an old [[Orcs|orc]] loremaster from [[Xurkhaz]], one of the unchained 
 
 Azogar is very knowledgeable about the history of his people, and can tell many stories of the [[People of the Rainbow]], both before and after the founding of [[Xurkhaz]]. He serves as one of the primary advisors to [[Lubash]], the chief of [[Xurkhaz]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:14cc38aead0771b5ede2394138fd2809]%%

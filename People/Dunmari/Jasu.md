@@ -25,4 +25,4 @@ An older man, in his mid-50s, bulky and solidly built, with gray eyes, short bla
 
 %%need to update whereabouts with the rest of the Karawa refugees%%
 
-%%SECRET[1]%%
+%%SECRET[v2:0a75ec034c0fc89ede8c2f4ec9e51695]%%

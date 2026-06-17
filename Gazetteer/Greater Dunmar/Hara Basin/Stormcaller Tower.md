@@ -39,7 +39,7 @@ In November 1748, [[Dunmar Fellowship]] returned to the tower and completed the 
 
 The tower was destroyed in 1748 by [[Hralgar]] after he was freed, in retribution.  
 
-%%SECRET[1]%%
+%%SECRET[v2:f07aae343a705a4e14f59749a2320b35]%%
 
 
 

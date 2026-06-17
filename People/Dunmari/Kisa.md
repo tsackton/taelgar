@@ -21,4 +21,4 @@ dm_notes: important
 
 Kisa is a short elderly woman with graying hair and a limp, known affectionately as Elder Kisa. She is one of the respected elders of Karawa and serves as an unofficial leader of the village. She is a slow and deliberate speaker, always thinking first of the safety of the village and its people. 
 
-%%SECRET[1]%%
+%%SECRET[v2:c56f31c34637d7f73f649042cbf6d48e]%%

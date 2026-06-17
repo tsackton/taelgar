@@ -23,4 +23,4 @@ dm_notes: important
 
 ![[daisy-lightfoot.png|right|400]] Daisy Lightfoot is a halfling scout master and member of the [[Rangers]].  She has a prominent scar on her cheek and is eager to fight hobgoblins.
 
-%%SECRET[1]%%
+%%SECRET[v2:126b38724dc8a9de83ea1477881e611d]%%

@@ -15,4 +15,4 @@ typeOfAlias: jungle
 
 A coastal jungle, south of the [[Garamjala Plateau]], west of the ruins of [[Drankor]], inhabited by talking animals. 
 
-%%SECRET[1]%%
+%%SECRET[v2:e06a98bf6ca190920a5e2073d94de550]%%

@@ -17,7 +17,7 @@ dm_notes: none
 
 Nimessa is a marid of the [[Elemental Plane of Water]]. In DR 1747, she was summoned and controlled by [[Azar the Lost]] using an old magic ring of [[Airion]]'s; she was forced to steal a fragment of living water from the [[Sentient Ocean]] for Azar. After fulfilling Azar's command, she vanished, presumably returning to her native plane. 
 
-%%SECRET[1]%%
+%%SECRET[v2:0ffb1c8ce642dbb8132478d107f64cdd]%%
 
 %%
 Source links:

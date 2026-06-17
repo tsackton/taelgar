@@ -24,4 +24,4 @@ The [[Dunmar Fellowship]] has recovered two of these books in their travels. One
 The second, they found at the [[Elemental Forge]], probably once owned by the unnamed [[Occulta Ludum]] mage who staffed that place in the days of the Drankorian Empire.
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:924aec19e293f0e1526a4b255eeec852]%%

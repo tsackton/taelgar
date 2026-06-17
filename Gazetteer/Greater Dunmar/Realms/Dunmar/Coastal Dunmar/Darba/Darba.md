@@ -43,5 +43,5 @@ dv.table(["Person", "Info", "Current Location", "Home"],
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
 ```
 
-%%SECRET[1]%%
+%%SECRET[v2:35f6a8ac46d40b8f5f2bc91bee1dcce2]%%
 

@@ -47,7 +47,7 @@ Sura is a tall, striking Dunmari woman, with high cheekbones, light brown skin, 
 - Freed from the [[Mirror of Soul Trapping]] by [[Dunmar Fellowship]] in the summer of DR 1748. Seeing what seemed to be continued neglect of the needs of the east by her brother, she prepared to press her claim to rule, hopefully avoiding war and relying on the gods to give a clear sign of her favor. 
 - Led her troops to victory against the Chardonian battle mages and a small group of Dunmari warriors loyal to Karnas during the [[Battle of Tokra]] on December 14th, 1748. 
 
-%%SECRET[1]%%
+%%SECRET[v2:59a26f873569533c2579be691dfe68fa]%%
 
 ## Timeline
 ```dataviewjs

@@ -20,4 +20,4 @@ These [[Orcs|orcs]] worship [[Grash]] as a demigod of [[Thark]], and most believ
 
 This horde began constructing a fortified warren a few miles south of [[Kharsan]] in early DR 1748, and marched to war under [[Grash]]'s leadership against the [[People of the Rainbow]] based in [[Xurkhaz]] in December 1748, during the [[War of the Cloak]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:fd9ae69571ca4bf7ef41d91127e700bd]%%

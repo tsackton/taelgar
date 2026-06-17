@@ -37,4 +37,4 @@ Though loosely affiliated with the [[University of Tollen]], she does not teach 
 - Once a week, on Fridays, she tests her student's work at her forge. No one is allowed in, but a crowd gathers outside and she takes each item presented to examine. 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:fb83a07c7b5633edf08597937b2be2e7]%%

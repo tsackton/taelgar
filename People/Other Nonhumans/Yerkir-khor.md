@@ -13,4 +13,4 @@ dm_notes: important
 
 A mysterious ancient being associated with the [[Tomb of Yerkir-Khor]], an ancient, pre-Mawar monument or tomb on the [[Mirmir]], a few days upstream from [[Hamri]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:f71613c778beb6f108a5d60f6b6a419f]%%

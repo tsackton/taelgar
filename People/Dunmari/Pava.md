@@ -27,4 +27,4 @@ A master of the Order of the Awakened Soul, an old man, bald, with striking blue
 
 ![[pava.png|500]]
 
-%%SECRET[1]%%
+%%SECRET[v2:d894d2b444da97bee6c2209210c4c70d]%%

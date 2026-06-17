@@ -33,7 +33,7 @@ When the elven kingdom fell, this place fell into ruin, and was lost, the entran
 
 
 
-%%SECRET[1]%%
+%%SECRET[v2:b1de7bc45a8addbf91758d5bcc90d9d3]%%
 
 
 

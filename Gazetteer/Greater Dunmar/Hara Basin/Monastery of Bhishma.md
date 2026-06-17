@@ -31,7 +31,7 @@ In 1748, [[Dunmar Fellowship]] came to the monastery, seeking to learn more abou
 ![[monastery_backdrop.png]]
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:e64cba161afe0d6aa57684bbad1f29c9]%%
 
 
 

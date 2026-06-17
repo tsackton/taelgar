@@ -26,4 +26,4 @@ whereabouts:
 Found by the [[Dunmar Fellowship]] in [[Grimbaskal's Hoard]], and now used by [[Delwath]]
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:8e0711d985d401a23d2c29ed44e4764c]%%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/gameupdate/gl]
+tags: [group, status/gameupdate/gl, status/gameupdate/dufr]
 displayDefaults: {partOf: "", defArt: "the"}
 typeOf: family
 typeOfAlias: chalyte oligarch family
@@ -16,6 +16,8 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Written from a DR (POV:: 1748) point of view, before the [[Chardonian Chalyte Trade Reforms]] %%
+
 The Auratan Family is among the most prominent, wealthy, and influential families of Chardon. The family traces their rise to prominence to Appius Auratan, who discovered chalyte in the Voltara area in 1671, rocketing his three surviving children to fame and fortune. 
 
 The children of Verina Auratan, Appius' middle son, rose to prominence in Chardonian politics, with [[Seva Auratan]], Verina's daughter and Appius' granddaughter, becoming Magistros in DR 1720. After a long 26-year reign, she was succeeded by her nephew, [[Mitus Verina Auratan]], in DR 1746. 
@@ -23,4 +25,4 @@ The children of Verina Auratan, Appius' middle son, rose to prominence in Chardo
 The other branches of the family grew rich as the most prominent and powerful of the [[Chalyte Oligarchs of Chardon]]. 
 
 
-%%SECRET[1]%%
+%%SECRET[v2:7f3e1b7a25df434142b1e0ce375d3c6c]%%

@@ -22,11 +22,11 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Vola was born on the streets of [[Chardon]], living a life of squalor, disease, and poverty. She grew up in the [[Riverside Quarter|Riverside]] slurms, near the chalyte refineries. %%SECRET[1]%% Eventually, she was discovered by [[Agon]], who helped her grow into her power and fulfill her potential. %%SECRET[2]%% She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [[Agon]] and the [[Society of the Open Scroll]]. 
+Vola was born on the streets of [[Chardon]], living a life of squalor, disease, and poverty. She grew up in the [[Riverside Quarter|Riverside]] slurms, near the chalyte refineries. %%SECRET[v2:fc15996938df08759c4b057c99e6a6da]%% Eventually, she was discovered by [[Agon]], who helped her grow into her power and fulfill her potential. %%SECRET[v2:0eb1870e563066bfe0c8579684accd86]%% She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [[Agon]] and the [[Society of the Open Scroll]]. 
 
-She is dedicated to the cause of the [[Society of the Open Scroll]], believing in their mission to secure dangerous knowledge from those who would use it for harm, and to preserve magic for future generations.%%SECRET[3]%%
+She is dedicated to the cause of the [[Society of the Open Scroll]], believing in their mission to secure dangerous knowledge from those who would use it for harm, and to preserve magic for future generations.%%SECRET[v2:bd81c22f94465d861e9dd0926469a402]%%
 
-%%SECRET[4]%%
+%%SECRET[v2:ef6ca650a3102d61df78b5a651a8a71c]%%
 ## Relationships
 
 - Friendly with [[Dunmar Fellowship]], especially with [[Kenzo]], who had a similar childhood in Chardon. Somewhat awed by [[Delwath]]. Less friendy with [[Riswynn]], largely because or [[Riswynn]]'s distain. 
@@ -35,9 +35,9 @@ She is dedicated to the cause of the [[Society of the Open Scroll]], believing i
 - Knows many other Chardonians, including [[Kadmos]], [[Marcella]], [[Hektor]], [[Antonia]], and [[Casian]], whom she traveled with in early 1748, and [[Crispus]] and [[Fausto]], who are the funders of expeditions she has been on or knows of. Particularly friendly with [[Marcella]]. Dislikes [[Casian]], whom she considers an arrogant snob who believes he can take whatever he wants. 
 
 ## Chronology
-%%SECRET[5]%%
+%%SECRET[v2:b95eea80c0e103af51dce15a40e4fad3]%%
 - late 1747 - early 1748: travels with [[Kadmos]], [[Marcella]], [[Hektor]], [[Antonia]], and [[Casian]], leaving Chardon, crossing Nevos Sea, traveling to Nayahar and then across the Yuvanti mountains to [[Askandi]].  
-%%SECRET[6]%%
+%%SECRET[v2:874301ce98ac399becb788fed6db88a0]%%
 - 5 Mar 1748: Leaves [[Askandi]] for Raven's Hold
 - 31 Mar 1748: Vola arrives at Raven's Hold. 
 - 2 Apr 1748: Vola captured at Raven's Hold. 
@@ -45,6 +45,6 @@ She is dedicated to the cause of the [[Society of the Open Scroll]], believing i
 - 12 Apr - 16 Apr 1748: Travels with [[Dunmar Fellowship]]
 - 16 Apr 1748: Leaves [[Stormcaller Tower]] with [[Riswynn]] for Tokra, saying goodbye to [[Dunmar Fellowship]]
 - 26 Apr 1748: Arrives in Tokra. Parts ways with [[Riswynn]]. Stays at [[Kirian's]]. 
-%%SECRET[7]%%
+%%SECRET[v2:69908edbb3629c021b419ecd81764869]%%
 - 21 Aug 1748: Meets [[Dunmar Fellowship]] in Chardon at [[The Thirsty Scholar]]; reports on news and makes introductions to [[Dee Wildcloak]] and [[Dain Goldhammer]].  
-%%SECRET[8]%%
+%%SECRET[v2:1fd3d4ae8482ed32861e066335cf1060]%%

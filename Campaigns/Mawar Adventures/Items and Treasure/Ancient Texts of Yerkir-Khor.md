@@ -18,4 +18,4 @@ A collection of notes recovered by the [[Adventurers of Mawar]] from the [[Tomb 
 
 The adventurers brough the papers  back to [[Hamri]] and given to [[Wazir]] to decipher. 
 
-%%SECRET[1]%%
+%%SECRET[v2:49dfe64c55739d5c1d8091d2ee5770b9]%%

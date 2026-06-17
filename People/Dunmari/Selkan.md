@@ -20,4 +20,4 @@ dm_notes: important
 
 A Dunmari man freed from the [[Mirror of Soul Trapping]]. He is bald, with weary eyes full of pain. His thumbs and tongue are cut off, and looks prematurely old. 
 
-%%SECRET[1]%%
+%%SECRET[v2:7c85b48f813a791492a4bab48ac9dcb1]%%

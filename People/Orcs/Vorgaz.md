@@ -29,5 +29,5 @@ dm_owner: tim
 
 Vorgaz was a skilled [[Orcs|orc]] warrior and the commander of the garrison at [[Khumarz]], on the western border of [[Xurkhaz]], known for his tactical brilliance but lack of political acumen. 
 
-%%SECRET[1]%%
+%%SECRET[v2:4f7630bc811d82de2e07d80e969e383a]%%
 

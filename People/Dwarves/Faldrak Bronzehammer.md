@@ -38,4 +38,4 @@ Despite his aging exterior and graying, rune-braided beard, Faldrak's eyes spark
 
 - In DR 1748, during [[Pyravela]] in [[Tollen]], Faldrak attended the party hosted by The Dunmar Fellowship on [[Vindristjarna]], where he met and bonded with Seeker, requesting his aid in journeying to the [[Edge of Echoes]], a mysterious place where the boundaries between the planes (especially between Taelgar and the elemental planes) are thin. 
 
-%%SECRET[1]%%
+%%SECRET[v2:1da9cd38631c8b787cdfe27567301be9]%%

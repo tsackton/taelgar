@@ -17,7 +17,7 @@ dm_notes: important
 
 A mysterious secret society in [[Chardon]] of which [[Fausto]] is a member and seem to be dedicated in some way to Drankorian purity. 
 
-%%SECRET[1]%%
+%%SECRET[v2:9e786cf68113f784dc52d70fac42890d]%%
 
 %%^Campaign:None%%
 ### Members

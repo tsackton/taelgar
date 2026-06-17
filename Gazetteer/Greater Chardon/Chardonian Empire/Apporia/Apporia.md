@@ -27,7 +27,7 @@ The northwestern coast, along the [[Gulf of Chardon]], is part of the [[Chardoni
 
 Beyond humans, the northwestern coast of Apporia has significant halfling communities, and a number of small lizardfolk villages, especially west of the [[Old Chardon Canal]], on the swampy borders between [[Portalia]] and [[Cedrano]]. Few dwarves and stoneborn remain on Apporia since the [[War of the Dark Rift]], and unlike most places in Taelgar, there are more stoneborn than dwarves. Those of these species who do remain often live among humans. 
 
-%%SECRET[1]%%
+%%SECRET[v2:9ca51db2cc1ea433f6ebb7b42c983cb3]%%
 
 Who else might live in the wild interiors of Apporia, is not known. 
 ## History 

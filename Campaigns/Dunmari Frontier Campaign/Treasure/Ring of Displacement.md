@@ -26,4 +26,4 @@ Seen in [[Mirror of the Past]]:
 
 ![[Ring of Displacement Vision]]
 
-%%SECRET[1]%%
+%%SECRET[v2:cab234c892ec56e6442a40fa51361b00]%%
