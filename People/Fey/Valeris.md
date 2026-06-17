@@ -23,4 +23,4 @@ He is lean and rakish, with curling ram’s horns wrapped in gold rings, and hal
 need to add details of his backstory / why he was cursed from session notes
 %%
 
-%%SECRET[1]%%
+%%SECRET[v2:55600fbdf7bc3bced158b17f815cddcd]%%

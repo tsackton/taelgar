@@ -20,7 +20,7 @@ dm_notes: important
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 22th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 
 A server and helper at a tea room in Karawa. 
-%%SECRET[1]%%
+%%SECRET[v2:cf427a282c387819abef6b22734f3c96]%%
 %%^Date:1747%%
 In December 1747, [[Delwath]] took rooms above the tea room. 
 %%^End%%

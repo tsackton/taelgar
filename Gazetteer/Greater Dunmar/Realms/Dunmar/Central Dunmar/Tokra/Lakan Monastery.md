@@ -29,7 +29,7 @@ The largest workshop is built, in part, on the ruins of the [[Elven Arborea Work
 
 There is a small lay archives, run by [[Kassi]], which mostly contains copies of works of Dunmari religion, and a much larger private archive for initiates only. In the private archives are many records dealing with the planes, gods, the nature of divinity, the nature of the material plane, magic, and related topics.
 
-%%SECRET[1]%%
+%%SECRET[v2:4f6909be606e89bc521c6aeab542f749]%%
 
 
 

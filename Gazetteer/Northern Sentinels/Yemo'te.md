@@ -22,4 +22,4 @@ The southernmost of the two rivers that flow through the the [[Forest of Nightma
 The site of the Battle of Yemo'te, where Midri and K'onisati fell silent, protecting the crossing of the Yemo'te from the endless hobgoblin hordes;
 %%
 
-%%SECRET[1]%%
+%%SECRET[v2:b630f1b5e765def4374cb00c76204d80]%%

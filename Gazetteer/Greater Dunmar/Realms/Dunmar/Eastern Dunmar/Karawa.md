@@ -41,7 +41,7 @@ The fields: To the southeast of town, some small scale agriculture provides a bi
 
 ![[karawa-map.png]]
 
-%%SECRET[1]%%
+%%SECRET[v2:0a7681f2297a60055c1b91ebc2cd3463]%%
 
 
 

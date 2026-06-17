@@ -20,4 +20,4 @@ dm_owner: tim
 An old Dunmari man who spent many years as [[Agata]]'s table, until [[Session 30 (DuFr)|freed]] by the Dunmar Fellowship. 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:93212a210e3fdd6686ee8e2a110f7801]%%

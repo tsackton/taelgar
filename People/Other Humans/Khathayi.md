@@ -18,4 +18,4 @@ dm_notes: important
 A mysterious ancient being, apparently buried in, or at least associated with, a monument in the north of the [[Mawakel Peninsula]]; associated with elemental fire. 
 
 
-%%SECRET[1]%%
+%%SECRET[v2:3479da0b89440ed128845b345670e862]%%

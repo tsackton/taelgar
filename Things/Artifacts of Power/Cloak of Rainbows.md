@@ -34,7 +34,7 @@ The power of the cloak has allowed, with hard work over the years, the [[People 
 
 The cloak also has the power to silence divine magic in a wide radius, should the wearer wish it. 
 
-%%SECRET[1]%%
+%%SECRET[v2:42a4330fb381d224cf7db19ec3c9c6de]%%
 
 %% alternative image
 ![[rainbow-cloak-v1.jpg|left|400]]

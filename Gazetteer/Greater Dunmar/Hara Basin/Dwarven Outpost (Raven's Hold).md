@@ -26,7 +26,7 @@ A dwarven fort and trading post in Raven's Hold. In better days, this was a majo
 
 Abandoned during the [[Great War]] when the dwarves here fled south in the face of mind flayer attacks. 
 
-%%SECRET[1]%%
+%%SECRET[v2:a580c0e2f80deb453f67805179594dd4]%%
 
 
 

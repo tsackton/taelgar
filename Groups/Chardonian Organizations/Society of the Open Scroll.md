@@ -21,7 +21,7 @@ Generally speaking in favor of preserving knowledge, against chaltye magic, and 
 
 - (DR::1561): The Society of the Open scroll is founded in [[Chardon]], in the aftermath of the [[Great War]], with a mission to preserve and protect knowledge of magic against future disaster, and to learn the secrets of the past to better protect Chardon and the world from existential magical threats. 
 
-%%SECRET[1]%%
+%%SECRET[v2:c7885752c7e2df12a31ae1df3eae9e69]%%
 
 %%^Campaign:None%%
 ### Members

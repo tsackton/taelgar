@@ -17,7 +17,7 @@ This is intended to reflect the extent to which there are non-shared, non-public
 
 *dm_notes should only be used for private, non-shared information.* If all relevant information is in backlinks, dm_notes should always be "none", even if the backlinks are confusing or include a mix of brainstorming and canon. The dm_notes frontmatter, however, does not distinguish between private, non-shared digital notes (e.g., for Dunmar or Into the Chasm or other campaigns we both are in), old paper notes from high school, and simply unrecorded invention in someone's head. 
 
-Special note about secrets: If all the information relevant to a page is captured in `%%SECRET[1]%%SECRET` text in a note. 
+Special note about secrets: If all the information relevant to a page is captured in `%%SECRET[v2:6ee932f98f4ffb3b5ed6fc0713578187]%%SECRET` text in a note. 
 
 ### **dm_owner**
 

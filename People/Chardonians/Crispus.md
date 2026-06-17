@@ -28,4 +28,4 @@ dm_owner: tim
 
 A senior Archivist at the [[Great Library]], in charge of external mercenary contracts, with general responsibility for organizing missions to recover lost treasures for the Great Library. 
 
-%%SECRET[1]%%
+%%SECRET[v2:47cb0eae94f5d9951d71fad9547bb357]%%

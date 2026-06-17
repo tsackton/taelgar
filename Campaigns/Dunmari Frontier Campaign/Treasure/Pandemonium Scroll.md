@@ -26,4 +26,4 @@ Looked at in [[Mirror of the Past]]: [[Pandemonium Scroll Vision]]
 Traded to [[Fausto]] as part of the deal for [[Hralgar's Eyes]]. Kept by [[Fausto]] when he betrayed the party.
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:12f2cd58866a6344d8909691564dc5d8]%%

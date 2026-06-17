@@ -20,4 +20,4 @@ dm_notes: important
 
 A water nymph in [[Amberglow]]. She resides in a small, secluded grotto near a river, overgrown with vines and foliage. 
 
-%%SECRET[1]%%
+%%SECRET[v2:dc41ddc4626ec2c2a439355b65706d99]%%

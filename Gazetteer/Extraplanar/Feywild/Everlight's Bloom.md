@@ -17,4 +17,4 @@ dm_notes: none
 
 A land of perpetual afternoon light, a place of eternal warmth, where flowers always bloom and the bright sun turns everything to gold. Everlight's Bloom is ruled by the Golden Prince, [[Prince Aurelian]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:6a3261d564553d928f9b8bc3269aa872]%%

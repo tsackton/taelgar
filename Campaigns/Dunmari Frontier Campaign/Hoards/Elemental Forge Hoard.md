@@ -27,22 +27,22 @@ The treasure recovered from the [[Elemental Forge]].
 	- 16 heavy silver bars, each weighing 5 pounds and worth 25 gp (total value 500 gp)
 	- A well-constructed set of jeweler’s tools, and material to stock a jeweler’s workshop recovered from the workshop shelves. 
 - Four projects in various states of completion recovered from the jeweler's workshop at the Elemental Forge. All would require further finishing work before being enchanted or sold. 
-	- A delicate gold necklace with a pendant setting designed to hold a gemstone, but empty %%SECRET[1]%%
-	- A pair of silver bracelets, one of which has an intricate set of etched symbols, the other looks half-finished %%SECRET[2]%%
-	- A finely engraved platinum ring set with a tiny but perfect sapphire %%SECRET[3]%%
-	- A silver tiara set with moonstones %%SECRET[1]%%
+	- A delicate gold necklace with a pendant setting designed to hold a gemstone, but empty %%SECRET[v2:bffbd75048d0ecf7743919ea0734c6e7]%%
+	- A pair of silver bracelets, one of which has an intricate set of etched symbols, the other looks half-finished %%SECRET[v2:5209431ca9b6f470978995af30aca680]%%
+	- A finely engraved platinum ring set with a tiny but perfect sapphire %%SECRET[v2:73cdc8ef09ad870fb93af282ba76426e]%%
+	- A silver tiara set with moonstones %%SECRET[v2:bffbd75048d0ecf7743919ea0734c6e7]%%
 ### Gemstones
-- 16 uncut and unpolished gemstones (value would increase if properly cut), taken from the jeweler's workshop at the Elemental Forge %%SECRET[5]%%
-	- Two ruby (Deep red, radiant glow) %%SECRET[6]%%
-	- Three garnet (Dark red, glassy appearance) %%SECRET[7]%%
-	- Two peridot (Bright green, light-catching sparkle) %%SECRET[8]%%
-	- One opal (Multicolored, mystical fire) %%SECRET[9]%%
-	- Two citrine (Yellow to orange, sunny and bright) %%SECRET[7]%%
-	- Three topaz (Golden yellow, shimmers in light)  %%SECRET[9]%%
-	- Two onyx (Black, deep and opaque) %%SECRET[7]%%
-	- One lapis lazuli (Blue with gold flecks, royal appearance) %%SECRET[8]%%
+- 16 uncut and unpolished gemstones (value would increase if properly cut), taken from the jeweler's workshop at the Elemental Forge %%SECRET[v2:0bc25b47a7ac5806fe02a1c22faf07bc]%%
+	- Two ruby (Deep red, radiant glow) %%SECRET[v2:b8b33b21581dd441e8c2b2e07b682ff3]%%
+	- Three garnet (Dark red, glassy appearance) %%SECRET[v2:650567a4aceab19f096d7d07fe4fb209]%%
+	- Two peridot (Bright green, light-catching sparkle) %%SECRET[v2:90b82c4d2ea7ceacc998bd9951f6b118]%%
+	- One opal (Multicolored, mystical fire) %%SECRET[v2:046bb2307d4eec1ac2e1518a5e7cc869]%%
+	- Two citrine (Yellow to orange, sunny and bright) %%SECRET[v2:650567a4aceab19f096d7d07fe4fb209]%%
+	- Three topaz (Golden yellow, shimmers in light)  %%SECRET[v2:046bb2307d4eec1ac2e1518a5e7cc869]%%
+	- Two onyx (Black, deep and opaque) %%SECRET[v2:650567a4aceab19f096d7d07fe4fb209]%%
+	- One lapis lazuli (Blue with gold flecks, royal appearance) %%SECRET[v2:90b82c4d2ea7ceacc998bd9951f6b118]%%
 ### Components
-- Two tuning forks. One is attuned to the elemental plane of air; the other is attuned to an unknown plane. These can be used as part of the plane shift spell or other magic. %%SECRET[14]%%
+- Two tuning forks. One is attuned to the elemental plane of air; the other is attuned to an unknown plane. These can be used as part of the plane shift spell or other magic. %%SECRET[v2:24239ab5a8c7972b0d5ad769184c5cf9]%%
 - Eight dragon scales, red 
 - Eternal ice
 - Spectral prism

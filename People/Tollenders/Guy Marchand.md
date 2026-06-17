@@ -39,4 +39,4 @@ Guy, an aging man in his mid-60s, looks young for his age; he has lived a comfor
 - **[[Wellby]]:** Guy remembers [[Wellby]] fondly. 
 - **Sarah de Grey:** Sarah frequently dines at Guy's shop, with a few other local Isinguese.
 
-%%SECRET[1]%%
+%%SECRET[v2:c7c35c7070729fd2438dd110acbb1067]%%

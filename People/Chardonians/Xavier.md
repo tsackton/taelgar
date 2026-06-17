@@ -19,4 +19,4 @@ A childhood friend of [[Kenzo]]'s, Xavier lost his father to a refinery accident
 
 He lives with his mother and sister in a small apartment near the [[Foundry Market]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:f2c637a946df0d6d6b4d8cee8c82b03c]%%

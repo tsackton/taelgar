@@ -18,4 +18,4 @@ dm_notes: color
 
 Tullus is a portly man with spectacles perched on the bridge of his nose, surrounded by stacks of books and scrolls in his cluttered shop. He is a scribe and bookseller by profession, with a particular fondness for maps, albeit somewhat colored by a rather provincial lack of interest in distant, far off lands. 
 
-%%SECRET[1]%%
+%%SECRET[v2:2108605b03d537be7903e9aec3fe24f4]%%

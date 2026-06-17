@@ -41,4 +41,4 @@ Belegor is a tall, ageless [[Elves|elf]], with medium length copper hair, pale s
 - (DR:: 1748-08). Belegor sought refuge in a [[Te'kula]] village, hidden in the Elderwood.  
 - (DR:: 1748-09-11). Belegor and the [[Dunmar Fellowship]] meet in the hidden [[Te'kula]] village.
 
-%%SECRET[1]%%
+%%SECRET[v2:a6b7a7ec80f7df010d6371eb539d9532]%%

@@ -27,4 +27,4 @@ Had possessed the [[Chalice of the Runepriest]], but sold it to [[Riswynn]] for 
 %%^End%%
 
 
-%%SECRET[1]%%
+%%SECRET[v2:8693ced3e0a83fb4fd474b0fc4ae7635]%%

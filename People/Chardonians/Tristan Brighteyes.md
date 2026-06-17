@@ -14,4 +14,4 @@ dm_owner: none
 
 A young Windcaller and advisor to [[Mitus Verina Auratan]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:6452e9701ea7ea40ebcbab043813c763]%%

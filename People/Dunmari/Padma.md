@@ -24,4 +24,4 @@ An innkeeper and master of a caravanserai waystation on the [[Tokra-Darba Road]]
 In late July 1748, was briefly cut off from [[Tokra]] by wyverns who had made a nest in the ruined mining town of [[Vandar]]. Pleased to receive news that [[Dunmar Fellowship]] had killed the wyverns and the road was clear on 26 July 1748. 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:e47d54c2b97a4f7120ffdaf96f3ebd1a]%%

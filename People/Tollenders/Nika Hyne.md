@@ -24,5 +24,5 @@ dm_notes: color
 
 ![[nika-hyne.png|right|320]]Nika Hyne is a sly young woman in her early twenties known to frequent [[The Windward Sail]], listening to stories and doing odd jobs for coin. She was briefly a student at the [[University of Tollen]]: although she dropped out, she knows the area and the people well. She is a bit of a hustler. 
 
-%%SECRET[1]%%
+%%SECRET[v2:3f001fb5c152b8dedff766a722fbcec8]%%
 

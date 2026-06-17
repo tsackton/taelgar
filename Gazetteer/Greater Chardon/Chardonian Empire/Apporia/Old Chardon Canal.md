@@ -50,7 +50,7 @@ Typically, northbound ships have the right of way between Emerald Bay and Lake S
 
 Thus, it is possible to make the transit in one day, by departing [[Fort Ameli]] after midnight to arrive at Stillwater Lake in time to join the northbound convoy, or by pushing into the night from Stillwater Lake if traveling south. However, more typically ships overnight at Stillwater Lake, and make the transit in two days. 
 
-%%SECRET[1]%%
+%%SECRET[v2:497d4bfba89bc2ebf6bbdc14ab874bd1]%%
 
 
 

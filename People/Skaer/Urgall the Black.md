@@ -35,4 +35,4 @@ In the spring of DR 1747, Urgall's aims turned to the service of his demonic mas
 He was [[Session 81 (DuFr)|killed]] by [[Dunmar Fellowship]] in December 1748. 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:397dceda5ccd6a7e9379563d594fb808]%%

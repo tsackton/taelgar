@@ -30,7 +30,7 @@ A Dunmari sheep herder from the area outside [[Karawa]]. Pastoralist and nomad, 
 
 %% Testcase reason: a good example of a 'with' whereabout being useful to track e.g movement of the Karawa refugees%%
 
-%%SECRET[1]%%
+%%SECRET[v2:f6930a530df9b0de0e069d78a59136c5]%%
 
 %%^Date:1748-06-22%%
 ## Chronology

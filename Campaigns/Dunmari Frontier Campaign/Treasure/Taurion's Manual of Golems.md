@@ -21,4 +21,4 @@ ddbLink: https://www.dndbeyond.com/magic-items/4950-manual-of-stone-golems
 
 ![[taurion-manual-of-golems.jpg|400|right]]
 
-%%SECRET[1]%%
+%%SECRET[v2:967685179a204ed63cde48d455c078a4]%%

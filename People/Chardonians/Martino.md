@@ -24,4 +24,4 @@ dm_notes: important
 
 He is extremely knowledgeable about the waters and coasts of [[Apporia]], but now spends his days hanging around [[Artevus]], gazing out to sea. 
 
-%%SECRET[1]%%
+%%SECRET[v2:b5d785bf48c765a697e976bb7d0dff0b]%%

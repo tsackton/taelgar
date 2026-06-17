@@ -31,4 +31,4 @@ An archivist with the Great Library, responsible for arranging adventuring exped
 
 Friends with [[Roscelia]].
 
-%%SECRET[1]%%
+%%SECRET[v2:3c4fc4e0fae1d31591e1ade19175f8da]%%

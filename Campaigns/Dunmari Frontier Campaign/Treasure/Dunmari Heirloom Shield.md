@@ -14,4 +14,4 @@ ancestry: Dunmari
 
 An elaborate shield from the [[Great War]] era, Dunmari design, found in [[Agata]]'s hut. Subsequently reinforced by [[Jasu]], the smith in [[Karawa]], with [[adamantine]] found in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near [[Raven's Hold]]. Destroyed in order to recover the [[Adamantine]] to construct the phasing stone harness on [[Vindristjarna]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:f45275c315116ba22755a85dcb17a397]%%

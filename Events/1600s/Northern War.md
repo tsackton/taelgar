@@ -20,4 +20,4 @@ It was during this war that the old fortress of [[Raven's Hold]] was occupied by
 
 %% some additional color in old Raven's Hold DM notes in OneNote, but nothing that changes the overall historical picture. %%
 
-%%SECRET[1]%%
+%%SECRET[v2:ecce70dafe223ac337be7cb7993247c4]%%

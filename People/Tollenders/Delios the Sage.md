@@ -26,4 +26,4 @@ dm_notes: color
 
 Carries what appears to be a magic scroll, allowing him to query some kind of library or source of information. 
 
-%%SECRET[1]%%
+%%SECRET[v2:4d11c8b917f9662e4d60e1b02800752d]%%

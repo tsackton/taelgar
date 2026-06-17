@@ -16,4 +16,4 @@ typeOfAlias: city
 
 A rumored city, perhaps home to [[Efreeti]] and [[Azer]], on the Elemental Plane of Fire.
 
-%%SECRET[1]%%
+%%SECRET[v2:00447cfcf859067fca8e50f3190664d0]%%

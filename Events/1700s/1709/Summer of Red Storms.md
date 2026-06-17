@@ -15,5 +15,5 @@ In the year 1709 DR, the monsoons brought not just rain but rampaging half-human
 
 Researched by [[Govir]] in the [[Tokra]] [[Archives]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:3344afa60fbbff7bd72bfb850594b7d6]%%
 

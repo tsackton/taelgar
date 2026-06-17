@@ -21,4 +21,4 @@ dm_notes: important
 
 A creature of dreams and nightmares. 
 
-%%SECRET[1]%%
+%%SECRET[v2:191a93493f45f04eba725e8d1094d124]%%

@@ -23,4 +23,4 @@ Amberglow is a fey realm, located by many sources, including [[The Lore of the F
 There are, however, some pockets of the [[Cloudspinner]]'s court that remain. [[Lady Eventide]] hides in the crumbled remains of the [[Cloud Palace]]. [[Caulaus]], a trapped Drankorian solider who once wronged the [[Cloudspinner]] but has forgotten his mistakes, now guards the [[Heartwood Grove]] where [[Agata|Agata Dustmother]] remains imprisoned. Rumors of other holdouts and defenders exist as well, although what truth there is to these tales is not clear. Nonetheless, the land remains a bleak place, where the vibrant colors of sunset are bleached and desaturated, and those that linger struggle against malicious fey. 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:f9d0ceab5e525f0fd7e5dbdf9d2a79dd]%%

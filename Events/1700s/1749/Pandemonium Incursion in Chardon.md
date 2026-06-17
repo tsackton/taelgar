@@ -18,4 +18,4 @@ By the middle of May, the winds were contained, and the strange gray mist wall w
 
 The [[Kylos Market]], though, is never the same and is quietly abandoned. 
 
-%%SECRET[1]%%
+%%SECRET[v2:9b2f91360636902cb566d02fea954da1]%%

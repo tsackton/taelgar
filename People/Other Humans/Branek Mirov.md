@@ -21,4 +21,4 @@ dm_owner: tim
 
 He is devoted to the [[Rodnya Voknaz]], and has dedicated his life to the organization. 
 
-%%SECRET[1]%%
+%%SECRET[v2:5b8570f474f0320020ddf93c4b086646]%%

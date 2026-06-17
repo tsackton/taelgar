@@ -45,7 +45,7 @@ Agata takes the appearance of a withered old woman, with dry, dusty skin, wearin
 - Masqueraded for months as a fey named [[Typhina]] in the [[Ring of the Warded Mind]], recounting [[Typhina]]'s story to [[Seeker]].
 - Was finally imprisoned in the [[Heartwood Grove]] in [[Amberglow]] in the [[Feywild]] in [[Session 67 (DuFr)|November 1748]].
 
-%%SECRET[1]%%
+%%SECRET[v2:b38bce9a4308879e747dd76fa9ab78d3]%%
 ## **Other Notes**
 
 - Agata possessed a magical substance called living wood, that she used to turn her victims into wooden puppets and worse. [[Jumi]], [[Cintra]]'s daughter, was in the process of being turned into a wooden mannequin when she was rescued by [[Dunmar Fellowship]] in [[Session 29 (DuFr)| May 1748]]. Also freed were:

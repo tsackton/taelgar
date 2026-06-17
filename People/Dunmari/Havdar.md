@@ -59,4 +59,4 @@ Havdar is tall, imposing, and rugged, shaped by the relentless sun and winds of 
 - Havdar was a major proponent of war with [[Nayan Karnas]], but whether this was the result of the curse of the sword, or his own opinion, is hard to know. 
 - While cursed, became increasingly paranoid, seeing threats in everything.
 
-%%SECRET[1]%%
+%%SECRET[v2:2efb0c3bf03d749a162348cb77bc9589]%%

@@ -21,4 +21,4 @@ Her mystery cult, the [[Shakun Mystai]] have always been associated with omens a
 
 %% holy symbol needs a bit of thought %%
 
-%%SECRET[1]%%
+%%SECRET[v2:73e1918e86e1337022fc9dd503c7c5a9]%%

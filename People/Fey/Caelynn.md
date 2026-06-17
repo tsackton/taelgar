@@ -42,4 +42,4 @@ Many rumors circulate about Caelynn
 - she collects secrets, and will only grant you a boon if you tell her something no one else knows
 - she collects secrets, and will only grant you a boon if you gift her a secret, forgetting it in the process
 
-%%SECRET[1]%%
+%%SECRET[v2:3bac978add8c48b751ca5e8732eba928]%%

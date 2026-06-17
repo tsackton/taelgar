@@ -26,4 +26,4 @@ Zaro was a loyal follower of [[Mezzar]], who he believed to be an elf seeking to
 %%^End%%
 
 
-%%SECRET[1]%%
+%%SECRET[v2:40c42aa8dffbf2b90763994c7960db21]%%

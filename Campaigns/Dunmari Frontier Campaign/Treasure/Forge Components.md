@@ -31,14 +31,14 @@ A total of 132 small metal bars, neatly organized. Each bar is roughly 8 inches 
 The remaining 47 are magical or unusual metals:
 - 9 [[Mithril]] bars
 - 6 [[Chalyte]] bars 
-- 5 fey steel bars %%SECRET[1]%%
-- 7 star iron bars %%SECRET[2]%%
-- 3 phiraxite bars %%SECRET[3]%%
-- 3 lumentium bars %%SECRET[4]%%
-- 4 cuprilith bars %%SECRET[5]%%
-- 4 aetherium bars %%SECRET[6]%%
-- 3 vulcanite bars %%SECRET[7]%%
-- 3 nocturium bars %%SECRET[8]%%
+- 5 fey steel bars %%SECRET[v2:abf523a8da76a1d6b2122d07d114e5f6]%%
+- 7 star iron bars %%SECRET[v2:edeca15e7029bba646ed5ef572e57ea4]%%
+- 3 phiraxite bars %%SECRET[v2:3dd85494ae8058a6725291218df5d1ad]%%
+- 3 lumentium bars %%SECRET[v2:c40ddb1176cdf026121b585b6108f7ef]%%
+- 4 cuprilith bars %%SECRET[v2:2cb3415d3520bc6af749b4e41671db84]%%
+- 4 aetherium bars %%SECRET[v2:e74072e923ae46bed0d2f4cf7ac5c863]%%
+- 3 vulcanite bars %%SECRET[v2:e70b63183c1c7e68bf0b9d930c971113]%%
+- 3 nocturium bars %%SECRET[v2:53f182ec221876fceb9db18f3490cb66]%%
 #### Forge Powders
 A collection of twenty boxes, each containing a small quantity of a fine powder. Each box is marked with magical rune representing a word or phrase. They are:
 - **Death** – A black, ashy powder that smells faintly of decay.

@@ -34,4 +34,4 @@ Stat block ideas for minions of Harrow and Wend:
 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:fe6e76e91c7d1538fe457570006bdcc7]%%

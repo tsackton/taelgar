@@ -36,4 +36,4 @@ A tall Chardonian man, cloaked and hooded, wearing dark, travel-stained leather 
 A character of dubious morality, clearly willing and able to use enchantment magic to get what he wants, and happy to provoke a fight. 
 
 
-%%SECRET[1]%%
+%%SECRET[v2:127b5aa7c1542b5b132493a3563d442c]%%

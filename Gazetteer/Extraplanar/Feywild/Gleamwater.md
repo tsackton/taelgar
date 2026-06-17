@@ -17,4 +17,4 @@ dm_notes: none
 
 A fey realm, described in [[The Lore of the Feywild]] as a land of golden canals, floating gardens, and drifting gondolas, where, boats glide effortlessly over crystal-clear pools that reflect the endless afternoon sky.
 
-%%SECRET[1]%%
+%%SECRET[v2:851722363cf7c659e7aba2d2494dd7d7]%%

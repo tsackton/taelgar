@@ -25,4 +25,4 @@ A Chardonian wizard on loan to the Dunmari army of [[Nayan Karnas]], commanded b
 
 Does not particularly like the party given their attempt to scry on [[Illyan]], which Drusa detected, and their refusal to agree to simple magic protocols. 
 
-%%SECRET[1]%%
+%%SECRET[v2:084aa9d4f8cdb1996fa86d69b5cf2e20]%%

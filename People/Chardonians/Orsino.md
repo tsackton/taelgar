@@ -16,4 +16,4 @@ dm_owner: none
 
 An informal leader of day-laborers in the Chalyte Levels.
 
-%%SECRET[1]%%
+%%SECRET[v2:060d4f49832a30e380e5fa3a04abe696]%%

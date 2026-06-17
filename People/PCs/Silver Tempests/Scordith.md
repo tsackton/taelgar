@@ -25,4 +25,4 @@ When she turned 16, she tried to flee the monastery, but the monks had other ide
 
 After traveling to help some centaurs deal with a curse with [[Adrik]], [[Samso]], [[Brelith]], and [[Aglath]], she returned to [[Voltara]] alone, and was never seen from again.
 
-%%SECRET[1]%%
+%%SECRET[v2:4a7de520e8a49b5aaf42ce08c8b4027f]%%

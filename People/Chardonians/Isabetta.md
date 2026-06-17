@@ -15,4 +15,4 @@ dm_notes: color
 
 ![[isabetta.png|right|400]]A young woman with a beautiful voice, who frequently sings at [[The Drunken Dolphin]] in [[Castrella]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:52f6f35aba773ca0a53da8fb0254262b]%%

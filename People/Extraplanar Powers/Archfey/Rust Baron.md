@@ -17,4 +17,4 @@ affiliations:
 
 The Rust Baron, often called just the Baron, is the mysterious ruler of [[Fate's Ruin]], said to be able to age anything to dust with a single touch. 
 
-%%SECRET[1]%%
+%%SECRET[v2:87dec89ac5de96c9d4ee14615913bbba]%%

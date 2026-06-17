@@ -23,4 +23,4 @@ rarity: legendary
 This bow was part of the hoard of the black dragon [[Ra'ghemdros]], kept on display as part of her collection of rare and unusual items. It is now carried by [[Wellby]].
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:e7049b410377b09916ecede032275873]%%

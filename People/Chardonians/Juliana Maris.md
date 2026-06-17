@@ -22,4 +22,4 @@ An elegant woman with striking silver hair and a preference for wearing elegant 
 
 She rarely speaks of her past, but it is well known that she was the only daughter of rich parents, and she inherited significant wealth, which she has used primarily to build her collection of treasures. 
 
-%%SECRET[1]%%
+%%SECRET[v2:818705c1daf54e277b51f7345ff3e353]%%

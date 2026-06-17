@@ -20,7 +20,7 @@ A small flying lizard, companion to [[Rai]].
 
 %% needs major updates post Colorado sessions; probably can remove most secrets %%
 
-%%SECRET[1]%%
+%%SECRET[v2:57ac90240b96d616c62210bc992db871]%%
 
 
 

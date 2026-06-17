@@ -29,4 +29,4 @@ Few among the [[Shakun Mystai]] bother to attempt to classify the mystery of [[S
 Shakun's Realm is accessible from [[Shakun’s Wellspring]], on the southern edge of the [[Red Mesa]], where a portal exists that is open for a short time around dawn and dusk each day. 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:64bce4e9da70e37178d127b1276cca5e]%%

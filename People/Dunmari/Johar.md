@@ -39,4 +39,4 @@ dm_notes: important
 
 ![[johar.jpg|left|450]]Johar is a confidant and close friend of [[Kenzo]]'s from the [[Lakan Monastery]] in [[Tokra]]. He works in the [[Tokra]] [[Archives]], primary interested in documenting the miracles of [[Laka]], and the history of the [[Lakan Monastery]] and the community there. 
 
-%%SECRET[1]%%
+%%SECRET[v2:3144b8559c38b97ea299118a33fa6626]%%

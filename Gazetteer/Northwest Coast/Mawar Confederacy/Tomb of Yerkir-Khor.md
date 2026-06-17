@@ -20,4 +20,4 @@ Its entrance inscription, written in Terran, reads: "Here lies [[Yerkir-khor]] t
 
 In DR 1747, the [[Adventurers of Mawar]] [[Mawar Adventures Episode 03|entered the tomb]] on the trail of [[Hiyasa]], destroyed (or, at least, temporarily disabled) several traps and guardians, and looted most of the remaining treasure. 
 
-%%SECRET[1]%%
+%%SECRET[v2:e4f580487768d6891a17adc0ab54bd9d]%%

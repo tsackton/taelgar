@@ -13,4 +13,4 @@ dm_notes: none
 
 A mysterious region rumored to exist in the Elemental Plane of Fire. 
 
-%%SECRET[1]%%
+%%SECRET[v2:a5c44be6eb3a4d89e5ad5a75cfb880c2]%%

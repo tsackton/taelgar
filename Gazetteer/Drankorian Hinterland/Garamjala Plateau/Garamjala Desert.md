@@ -24,7 +24,7 @@ The desert is now largely a landscape of rocky canyons, arid plateaus and rocks 
 
 Three major rivers run through the Garamjala. To the west, the [[Hara]] drains the central Dunmari plains, entering the Garamjala southeast of [[Askandi]]. In the dry season, the [[Hara]] flows quite sluggishly, but it swells during the monsoons on the plains. 
 
-%%SECRET[1]%%
+%%SECRET[v2:5495577cd821b85ad04195b0e348acda]%%
 
 The [[Kharja]], once a mighty river, now is mostly dry, and only flows during the rainiest part of the season. It is suspected to peter out before reaching the confluence with the [[Hara]], but few have mapped the [[Desolation of Cha'mutte]] to know for sure. 
 
@@ -38,4 +38,4 @@ While the desert is mostly inhospitable, the [[Istaros]] drains an extensive reg
 
 The desert supports little life. Nonetheless, the occasional giant vulture or band of ogres eke out a living amongst the rocks and sand, and desert-adapted axebeaks hunt small rodents in the more hospitable regions on the edges of the desert. 
 
-%%SECRET[2]%%
+%%SECRET[v2:cf61e1d0cf455cff2d4cf281b464735a]%%

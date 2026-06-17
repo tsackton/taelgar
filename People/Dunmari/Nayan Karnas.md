@@ -27,4 +27,4 @@ dm_owner: tim
 
 The current Samraat of [[Dunmar]], of the Nayan dynasty. Brother to [[Sura]], whom he thought dead. 
 
-%%SECRET[1]%%
+%%SECRET[v2:2b5d84acb84ef7c670ad2657bc5755f6]%%

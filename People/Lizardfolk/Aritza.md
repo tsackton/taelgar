@@ -25,5 +25,5 @@ pronunciation: ah-REET-sah
 
 ![[aritza.png|right|400]]Aritza is a lizardfolk elder, representing the people of the marshes in [[Refounded Alliance of Aurbez]] business. 
 
-%%SECRET[1]%%
+%%SECRET[v2:455bf216ba876a11b3d2aad6b616e3a6]%%
 

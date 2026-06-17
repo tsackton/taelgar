@@ -32,4 +32,4 @@ Fausto is also a powerful enchanter who tricked [[Dunmar Fellowship]], attemptin
 
 He is also apparently a member of a secret organization called [[The Cleansed]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:2c87cd608fd3ac407d3a435d50dd53bc]%%

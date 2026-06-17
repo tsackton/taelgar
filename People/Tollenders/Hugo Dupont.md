@@ -27,4 +27,4 @@ dm_notes: color
 
 He is well-known in the Isinguese community, and also well connected across the non-human community, including with [[Caelynn]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:1985a4c422bf8892807ca3f1e189d0dc]%%

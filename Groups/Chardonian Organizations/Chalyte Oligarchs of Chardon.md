@@ -10,4 +10,4 @@ Four major families control the entire [[Politics of Chalyte (Chardonian Empire)
 
 The four families work together, both openly and presumably secretly, to ensure that they retain control over the sale of refined chalyte. While the families must compete amongst themselves for relative influence and position, they outwardly present a unified front that ensures the control of the chalyte trade remains in their hands. 
 
-%%SECRET[1]%%
+%%SECRET[v2:3befd3f836f4a0bb929f5e1d906578c9]%%

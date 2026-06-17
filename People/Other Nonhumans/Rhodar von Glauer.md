@@ -14,7 +14,7 @@ dm_owner: tim
 > An [[Undead|undead]] (vampire)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
-%%SECRET[1]%%
+%%SECRET[v2:6996d1fb24b9da71bc5bc8047d76d8de]%%
 
 %%^Campaign:dufr%%
 *Watching the Dunmar Fellowship infilitrate his lair, Rhodar von Glauer thinks back. He can still remember his days among the living. He joined the Eyes of Vedmakov out of a sense of patriotism, he supposes. Misguided, it turned out.* 

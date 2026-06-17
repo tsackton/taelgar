@@ -16,4 +16,4 @@ dm_owner: tim
 
 ![[kecha-portrait-final.png|right|400]]Kecha is a young kenku scout, a wanderer and traveler who loves the forests and mountains.  
 
-%%SECRET[1]%%
+%%SECRET[v2:705171aa2f1891211a1e57f4bccd7986]%%

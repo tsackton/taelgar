@@ -25,4 +25,4 @@ dm_owner: tim
 
 A young man of 14, current heir to the kingdom. The family resemblance to [[Lubash]] is apparent, but Uzgul is full of the vigor of youth, with a mohawk of wiry black hair, a dangling silver earring on a chain in one ear, and vibrant green skin. He has a nervous excitement to him, and has a hard time sitting still.
 
-%%SECRET[1]%%
+%%SECRET[v2:3dc08695bd6f965a905c406e251e300b]%%

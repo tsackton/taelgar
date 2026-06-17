@@ -15,7 +15,7 @@ dm_owner: tim
 
 The mystery cult of the Dunmari god [[Laka]]. Guardians of secret knowledge, especially concerning the lore of other planes, and the secrets of manipulating planar energy to create magic.
 
-%%SECRET[1]%%
+%%SECRET[v2:60be7cf0f5470ad1592a57a360cc44c6]%%
 
 %%^Campaign:None%%
 ### Current Members

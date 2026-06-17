@@ -51,4 +51,4 @@ Over the course of a month, Mabist stayed with Dinia, their training coming back
 >
 >The queen decided it was best for Mabist to not rejoin the feywilds and instead find their own story. So they were dropped off unconscious in an unknown area near a commoner hut. From then on Mabist was rehabilitated by Dinia. 
 
-%%SECRET[1]%%
+%%SECRET[v2:3d43fcfc3a4a6dc58267c93afca18e44]%%

@@ -37,4 +37,4 @@ One piece was [[Second Dream of Rai|seen]] to fall into a dense, lush rainforest
 
 The [[Ancient and Honorable Guild of Philosophers]] provided information about these fragments: [[Philosopher's Information Concerning Rai's Hand]]
 
-%%SECRET[1]%%
+%%SECRET[v2:992a3349003ec7f1b2c354244c026b27]%%

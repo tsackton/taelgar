@@ -32,4 +32,4 @@ Seen in the [[Mirror of the Past]]:
 
 ![[Raven Whistle Vision]]
 
-%%SECRET[1]%%
+%%SECRET[v2:c905d68d0d4482fd4f78a263edbcc9bb]%%

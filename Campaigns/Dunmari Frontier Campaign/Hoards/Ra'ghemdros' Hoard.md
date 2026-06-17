@@ -169,56 +169,56 @@ Ra'ghemdros had selected a number of items for special display. These all seem t
 
 %% 5 cubic feet total %%
 
-1. **Gold-encrusted Ceremonial Cup**: An ornate cup with intricate gold filigree and inlays of lapis lazuli, marked with archaic and out-of-date symbols of the eight divines.  %%SECRET[1]%%
+1. **Gold-encrusted Ceremonial Cup**: An ornate cup with intricate gold filigree and inlays of lapis lazuli, marked with archaic and out-of-date symbols of the eight divines.  %%SECRET[v2:85f8f0f2e75173e63ac78a5b338a8f8c]%%
 
-2. **Sapphire and Diamond Necklace**: A stunning necklace featuring a cascade of sapphires surrounded by diamonds. %%SECRET[2]%%
+2. **Sapphire and Diamond Necklace**: A stunning necklace featuring a cascade of sapphires surrounded by diamonds. %%SECRET[v2:6f42a931b7db1f27a015095a9a2a18d1]%%
 
-3. ![[dragonet-statue-raghemdros-hoard.jpg|right|300]]**Intricately Carved Marble Statuette**: A small, exquisite marble statue of a dragonet, displaying incredible detail and craftsmanship, inlaid with silver and emerald eyes.  %%SECRET[1]%%
-
-
-
-4. **Gemstone-Set Dagger**: An elegantly designed dagger with a hilt encrusted with rubies and a finely etched blade.  %%SECRET[4]%%
-
-5. **Imperial Scepter**: An elaborately designed scepter made from gold and adorned with multiple sapphires.  %%SECRET[4]%%
-
-6. ![[silver-plate-raghemdros-hoard.jpg|right|300]]**Historic Silver Paten**: An intricately designed paten (plate) made of silver, clearly very old but unweathered and undamaged, with scenes of pastoral human life.  %%SECRET[1]%%
+3. ![[dragonet-statue-raghemdros-hoard.jpg|right|300]]**Intricately Carved Marble Statuette**: A small, exquisite marble statue of a dragonet, displaying incredible detail and craftsmanship, inlaid with silver and emerald eyes.  %%SECRET[v2:85f8f0f2e75173e63ac78a5b338a8f8c]%%
 
 
 
+4. **Gemstone-Set Dagger**: An elegantly designed dagger with a hilt encrusted with rubies and a finely etched blade.  %%SECRET[v2:411f5f7eba0c661591ac7087f29424d7]%%
 
+5. **Imperial Scepter**: An elaborately designed scepter made from gold and adorned with multiple sapphires.  %%SECRET[v2:411f5f7eba0c661591ac7087f29424d7]%%
 
-7. **Ceremonial Stoneborn Shield**: An ornate shield crafted from metal, featuring vivid colors and designs that tell the story of the Stoneborn fighting in the Demonfire Wars against fiends.  %%SECRET[4]%%
-
-8.  **Fine Gold Necklace**: A striking necklace made of interlinked gold pieces, each set with three teardrops with diamonds. . %%SECRET[2]%%
-
-9. **Gold Medallion with Intricate Relief**: A large gold medallion featuring a detailed relief of a strange animalistic human figures. %%SECRET[1]%%
-
-10. **Imperial Signet Ring**: A heavy gold ring featuring the Drankorian imperial crest, used for sealing important documents and symbols of authority. %%SECRET[10]%%
-
-11. ![[dragonet-ring-hoard.jpg|right|300]]**Chased Gold Ring**: A ring made of solid gold with intricate chase work depicting the mythology of dragnets, a rare work of art, eyes of rubies.  %%SECRET[1]%%
+6. ![[silver-plate-raghemdros-hoard.jpg|right|300]]**Historic Silver Paten**: An intricately designed paten (plate) made of silver, clearly very old but unweathered and undamaged, with scenes of pastoral human life.  %%SECRET[v2:85f8f0f2e75173e63ac78a5b338a8f8c]%%
 
 
 
 
 
+7. **Ceremonial Stoneborn Shield**: An ornate shield crafted from metal, featuring vivid colors and designs that tell the story of the Stoneborn fighting in the Demonfire Wars against fiends.  %%SECRET[v2:411f5f7eba0c661591ac7087f29424d7]%%
 
-12. ![[floral-brooch-hoard.jpg|right|300]]**Exquisite Gemstone Brooch**: A brooch made from an array of precious stones set in a unique floral design, a treasured family heirloom.  %%SECRET[1]%%
+8.  **Fine Gold Necklace**: A striking necklace made of interlinked gold pieces, each set with three teardrops with diamonds. . %%SECRET[v2:6f42a931b7db1f27a015095a9a2a18d1]%%
+
+9. **Gold Medallion with Intricate Relief**: A large gold medallion featuring a detailed relief of a strange animalistic human figures. %%SECRET[v2:85f8f0f2e75173e63ac78a5b338a8f8c]%%
+
+10. **Imperial Signet Ring**: A heavy gold ring featuring the Drankorian imperial crest, used for sealing important documents and symbols of authority. %%SECRET[v2:a6631e8ebc525572141a477633ae2c39]%%
+
+11. ![[dragonet-ring-hoard.jpg|right|300]]**Chased Gold Ring**: A ring made of solid gold with intricate chase work depicting the mythology of dragnets, a rare work of art, eyes of rubies.  %%SECRET[v2:85f8f0f2e75173e63ac78a5b338a8f8c]%%
 
 
 
 
 
-13. **Silver and Diamond Ring**. Etched in Elvish with a fragment of a poem about the stars.  %%SECRET[2]%%
 
-14. **Emerald Platinum Ring**. A platinum ring set with a massive emerald.  %%SECRET[4]%%
+12. ![[floral-brooch-hoard.jpg|right|300]]**Exquisite Gemstone Brooch**: A brooch made from an array of precious stones set in a unique floral design, a treasured family heirloom.  %%SECRET[v2:85f8f0f2e75173e63ac78a5b338a8f8c]%%
 
-15. **Bejeweled Imperial Coronation Crown**: A stunning crown adorned with emeralds, rubies, and pearls, symbolizing the authority and lineage of a ruling family. %%SECRET[4]%%
 
-16. **Enamelled Silver Serving Platter**: A large serving platter with elaborate enamel work depicting a historical scene, used during feasts. Ships sailing away from a coast.  %%SECRET[1]%%
 
-17. **Masterfully Wrought Sword**: A beautifully crafted sword with an inlaid hilt of gold and precious stones, displaying masterful smithing techniques. %%SECRET[4]%%
 
-18. **Royal Flagon**: An intricately designed flagon made of silver, adorned with engravings and gemstones, used for serving drinks at state banquets. Like a punchbowl. %%SECRET[4]%%
+
+13. **Silver and Diamond Ring**. Etched in Elvish with a fragment of a poem about the stars.  %%SECRET[v2:6f42a931b7db1f27a015095a9a2a18d1]%%
+
+14. **Emerald Platinum Ring**. A platinum ring set with a massive emerald.  %%SECRET[v2:411f5f7eba0c661591ac7087f29424d7]%%
+
+15. **Bejeweled Imperial Coronation Crown**: A stunning crown adorned with emeralds, rubies, and pearls, symbolizing the authority and lineage of a ruling family. %%SECRET[v2:411f5f7eba0c661591ac7087f29424d7]%%
+
+16. **Enamelled Silver Serving Platter**: A large serving platter with elaborate enamel work depicting a historical scene, used during feasts. Ships sailing away from a coast.  %%SECRET[v2:85f8f0f2e75173e63ac78a5b338a8f8c]%%
+
+17. **Masterfully Wrought Sword**: A beautifully crafted sword with an inlaid hilt of gold and precious stones, displaying masterful smithing techniques. %%SECRET[v2:411f5f7eba0c661591ac7087f29424d7]%%
+
+18. **Royal Flagon**: An intricately designed flagon made of silver, adorned with engravings and gemstones, used for serving drinks at state banquets. Like a punchbowl. %%SECRET[v2:411f5f7eba0c661591ac7087f29424d7]%%
 
 ## Magic
 
@@ -232,23 +232,23 @@ There are 56 magic items scattered among the common items of the hoard, often no
 - 15 rings
 - 7 candlesticks
 
-%%SECRET[19]%%
+%%SECRET[v2:0159a97dc10135f6ee1ee31b439c2b30]%%
 
 ### Unusual Items
 
 A selection of magic items were also displayed in the Ra'ghemdros' private museum. These include:
 
-1. A small silver jewelry box, decorated with a poem about far-seeing written in Drankorian in an elegant, flowing script. Inside are five large pearls, each painted to resemble an eye. %%SECRET[20]%%
-2. A fine gold chain necklace from which eight perfect rubies hang on thin golden threads. %%SECRET[21]%%
-3. A potion in a crystal vial, a syrupy liquid that looks like liquified iron. %%SECRET[22]%%
-4. A small silver vial, etched with the name Serandris in Draconic, and the words, "In Gratitude". The liquid inside is pure and clear, almost to the point of being invisible, with a single metallic silver scale floating inside. %%SECRET[23]%%
-5. A round glass vial filled with a bubbling reddish-purple liquid. Being close to the potion bottle gives you a feeling of holiness. %%SECRET[24]%%
-6. A small box made of a strange, shimmering wood that seems to glow faintly, and is hard to look away from. Inside is a pinch of fine powder, multihued and mesmerizing. %%SECRET[25]%%
-7. A greatsword of fine make, apparently Stoneborn smithing, with a hilt decorated with mountain motifs. %%SECRET[26]%%
-8. A small sculpted figurine of a triceratops made from a reddish gemstone. %%SECRET[27]%%
-9. A shortbow, made of an unusual ebony wood that seems to faintly vibrant with excitement. %%SECRET[28]%%
-10. A wide belt made of a fine dragonhide leather, with an elaborate silver buckle. %%SECRET[29]%%
-11. A plain silver ring, unadorned and unmarked, but with a bright, reflective shine. %%SECRET[30]%%
-12. A wand, its handle wrapped in soft leather, made of a dark metal with streaks of silver and gray irridescence  %%SECRET[31]%%
+1. A small silver jewelry box, decorated with a poem about far-seeing written in Drankorian in an elegant, flowing script. Inside are five large pearls, each painted to resemble an eye. %%SECRET[v2:38966d083e64d634840440f222cbc778]%%
+2. A fine gold chain necklace from which eight perfect rubies hang on thin golden threads. %%SECRET[v2:a173c0b58fd86a8dfaeb7b1821a1a95d]%%
+3. A potion in a crystal vial, a syrupy liquid that looks like liquified iron. %%SECRET[v2:9557c9b87eb850c51fa31cf0cd7203ab]%%
+4. A small silver vial, etched with the name Serandris in Draconic, and the words, "In Gratitude". The liquid inside is pure and clear, almost to the point of being invisible, with a single metallic silver scale floating inside. %%SECRET[v2:ffb6e11ad38a0aff53b24b3fe9a7429a]%%
+5. A round glass vial filled with a bubbling reddish-purple liquid. Being close to the potion bottle gives you a feeling of holiness. %%SECRET[v2:462b601efbdc858bee481544fd167e25]%%
+6. A small box made of a strange, shimmering wood that seems to glow faintly, and is hard to look away from. Inside is a pinch of fine powder, multihued and mesmerizing. %%SECRET[v2:036535e644d2bdfdce8fe5336cb35f7f]%%
+7. A greatsword of fine make, apparently Stoneborn smithing, with a hilt decorated with mountain motifs. %%SECRET[v2:b12b6dc231021060d09dc17384f1becc]%%
+8. A small sculpted figurine of a triceratops made from a reddish gemstone. %%SECRET[v2:2b916713179f2e0a549e62732bc3975c]%%
+9. A shortbow, made of an unusual ebony wood that seems to faintly vibrant with excitement. %%SECRET[v2:174df792bd2b13268b6c8c3c149fae47]%%
+10. A wide belt made of a fine dragonhide leather, with an elaborate silver buckle. %%SECRET[v2:3a3877c2a65f31727731856242750e23]%%
+11. A plain silver ring, unadorned and unmarked, but with a bright, reflective shine. %%SECRET[v2:f95538ed66aa3c47c5647404681f4f12]%%
+12. A wand, its handle wrapped in soft leather, made of a dark metal with streaks of silver and gray irridescence  %%SECRET[v2:4a8450aacf5351a7e2d7aa39aaa36fc6]%%
 
-%%SECRET[32]%%
+%%SECRET[v2:8b0a857e79eb2309c200971065c854de]%%

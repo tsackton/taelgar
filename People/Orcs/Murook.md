@@ -41,4 +41,4 @@ A formidable [[Orcs|orc]] woman in her prime, with pale green skin, Murook is us
 
 - (DR:: 1724) Murook was freed from [[Thark]]'s chains by [[Karguk]], Chief of [[Uzgukhar]]
 
-%%SECRET[1]%%
+%%SECRET[v2:92cc5f0a1a2eb75466634bac4fc4e63e]%%

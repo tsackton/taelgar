@@ -20,4 +20,4 @@ dm_notes: important
 
 A wizard from the last days of the [[Drankorian Empire]]. Trapped the storm giant [[Hralgar]] using powerful magic. 
 
-%%SECRET[1]%%
+%%SECRET[v2:3823b1bf8f67081a8cd834c6843d1a35]%%

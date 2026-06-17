@@ -19,5 +19,5 @@ A fey realm, described in [[The Lore of the Feywild]] as a realm of rolling orch
 
 Honeybloom is located northwest of [[Fortune's Rest]], and northeast of [[Gleamwater]].
 
-%%SECRET[1]%%
+%%SECRET[v2:a3d589278f966e83491926bc03cb7999]%%
 

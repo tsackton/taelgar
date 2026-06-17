@@ -45,4 +45,4 @@ LIST WITHOUT ID events.text flatten file.lists as events where contains(events.t
 %%^End%%
 
 
-%%SECRET[1]%%
+%%SECRET[v2:68301e3aaee1fb07af463b7a11db1511]%%

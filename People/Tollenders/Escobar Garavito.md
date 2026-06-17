@@ -29,4 +29,4 @@ He is supported by a scholarship from the [[Dyer's Guild]], sponsored by [[Cecil
 
 Escobar is outgoing and gregarious, and often at the center of student activities and student life at the [[University of Tollen]].
 
-%%SECRET[1]%%
+%%SECRET[v2:70e2f12e9638323ea0e1da3c374678eb]%%

@@ -25,4 +25,4 @@ Seen in [[Mirror of the Past]]:
 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:4d16a619d01812e5d49b4abaaa3d49c5]%%

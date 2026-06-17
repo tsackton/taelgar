@@ -5,9 +5,9 @@ typeOf: hoard
 
 ### From Kadmos
 
-- Rod of the Pact Keeper, an iron rod decorated with a bejeweled skull. %%SECRET[1]%%
+- Rod of the Pact Keeper, an iron rod decorated with a bejeweled skull. %%SECRET[v2:260f61957aa6a8d376d1f89ac6770172]%%
 - Shadowfell brand tattoo
-- A gilded skull of a halfling %%SECRET[2]%%
+- A gilded skull of a halfling %%SECRET[v2:633ef0b3ed8b9b49beded32ba4922997]%%
 - Spell gem containing the Summon Greater Demon spell
 ### From Hektor
 - Boots of Speed 

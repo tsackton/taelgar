@@ -28,4 +28,4 @@ The secret does not have any relevance to mind flayers or related aberrations.
 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:f3681d0bc3d4ff2212e4c84730913292]%%

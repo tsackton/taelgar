@@ -30,7 +30,7 @@ red 1 - limbo / ooze red 2 - burned forest red 3 - iron fang / hobgoblins purple
 exact borders very loose
 %%
 
-%%SECRET[1]%%
+%%SECRET[v2:e601862a0a3293fdfdae098f04ba4c99]%%
 
 %% collate many notes from other sources including secrets; one main feature is that the plaguelands are ashy and dry %%
 

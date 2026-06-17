@@ -26,4 +26,4 @@ dm_owner: tim
 
 [[Vola]]'s mentor, a member of the [[Society of the Open Scroll]] and scholar in [[Chardon]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:3aa4719f33b3f6dfbe4e906a01192ce7]%%

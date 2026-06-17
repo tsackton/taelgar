@@ -29,4 +29,4 @@ Born and raised in [[Tollen]], Thomas Hawke is an ambitious scholar at the [[Uni
 ## Rumors and Information
 - Hawke's fascination with legends and tales is well-known; he is always seeking the most exotic tales and stories as fodder for his plays. 
 
-%%SECRET[1]%%
+%%SECRET[v2:5f8aec0976e7cbfc68fd9955a9cde47f]%%

@@ -39,4 +39,4 @@ Little has come to modern times about the exact nature of Drankorian secret soci
 - [[Occulta Ludum]]: The Occulta Ludum were associated with the development of magic and especially with practical inventions of harnessing magical power. While they rejected the extremist claims of the [[Omnis Pura]] in the later years of the Empire, there is little evidence that has come down to current day that they actively opposed [[Omnis Pura]].
 - [[Fides Lucaris]]: The Fides Lucaris were associated with the Emperor Helea and the losing side of the Drankorian civil war. Little is known about what they did in the last few hundred years of the Empire; the only records that have readily been accessible to historians are those of executions and exile when members of the Fides Lucaris were caught. They seem to have been a cross-species alliance, involving at least humans and elves. 
 
-%%SECRET[1]%%
+%%SECRET[v2:5ef6effb0a8f99edf198989670d26ec1]%%

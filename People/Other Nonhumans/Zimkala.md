@@ -24,5 +24,5 @@ pronunciation: zeem-KAH-lah
 
 ![[Zimkala.png|right|400]]Zimkala is a Stoneborn messenger from the settlements and villages of the [[Sentinel Range|Indalas]]. 
 
-%%SECRET[1]%%
+%%SECRET[v2:1a384c7291ac8925ef7601a0b3f37ca9]%%
 

@@ -22,4 +22,4 @@ Redsun Watch is one of several outposts established by the [[Cloudspinner]] on t
 According to [[Lirien|Lirien]], who was the Lanternkeeper of Redsun Watch, some time after the [[Cloudspinner]]'s disappearance "rivers of shadow" invaded across the [[Sunset Gate]], from [[Hollowdark]] and [[Darkfall]], and Redsun Keep was destroyed.
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:23366c3f52dc1d5737e66eea6b4fe0a3]%%

@@ -23,6 +23,6 @@ dm_notes: important
 
 ![[revaka.jpg|right|350]]A hobgoblin who has been trapped in the [[Mirror of Soul Trapping]] for centuries. A fairly powerful sorcerer from before the [[Great War]], trapped by [[Cha'mutte]] for refusing to join his war. 
 
-%%SECRET[1]%%
+%%SECRET[v2:7b3524b816dacf16f6160849969dad25]%%
 
 %% Granddaughter of [[Avatus]]'s hobgoblin court wizard, who created the [[Mirror of Soul Trapping]]; she unofficially continued ruling a remnant of Avatus' empire for some time before being trapped by Cha'mutte %%

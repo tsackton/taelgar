@@ -76,4 +76,4 @@ Reading the book that Ulfgar got for you from the [[Great Library]] on magical m
 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:9ba1880152df62474916f3633077d253]%%

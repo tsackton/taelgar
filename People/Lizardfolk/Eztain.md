@@ -25,4 +25,4 @@ pronunciation: EHZ-tine
 
 ![[eztain.png|right|400]]Eztain is a lizardfolk warrior, who serves as the representative of various lizardfolk militias and war bands to the [[Refounded Alliance of Aurbez]]. She has a predatory grin, and is eager to fight. 
 
-%%SECRET[1]%%
+%%SECRET[v2:25f4fa50464adb6fdb98109083549054]%%

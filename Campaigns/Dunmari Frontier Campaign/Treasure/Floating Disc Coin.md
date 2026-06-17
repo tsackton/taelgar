@@ -22,4 +22,4 @@ Viewed in [[Mirror of the Past]]:
 ![[Floating Disc Coin Vision]]
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET[v2:4ee3b267cf98fcce31653a791097e567]%%

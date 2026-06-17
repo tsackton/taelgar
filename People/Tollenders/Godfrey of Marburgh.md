@@ -22,4 +22,4 @@ dm_notes: important
 
 Godfrey grew up in a small village in [[Sembara]]. In his teenage years, it became obvious that he had a powerful and unusual connection to [[The Sibyl]]. He traveled to [[Embry]], and then later to [[Tollen]], where he stayed. 
 
-%%SECRET[1]%%
+%%SECRET[v2:2883ce73b63bb83da467278222e63dc8]%%

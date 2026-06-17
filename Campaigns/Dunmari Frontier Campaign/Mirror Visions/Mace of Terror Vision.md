@@ -18,4 +18,4 @@ The scene shifts, and you see two people standing over the mace. A human women, 
 
 The scene shifts again, and you see the same dwarf sitting in the entry room and dining hall of Fausto's tower. Fausto and the dwarf are speaking, perhaps arguing, then turns and leaves in something of a huff. The same woman in leather follows him, as does a stoneborn warrior with a big sword slung over his back, who you have not seen before. 
 
-%%SECRET[1]%%
+%%SECRET[v2:8e95d933cb3c85631935bd315696ae7b]%%

@@ -46,4 +46,4 @@ Due to the harsh conditions, reliable maps of the Plane of Fire do not exist, an
 - The [[Sea of Fire]], a sea of lava, fire, and ash supposedly spreading from center of the plane.
 
 
-%%SECRET[1]%%
+%%SECRET[v2:8ddfc7a990901f5011eef47b34722e9d]%%

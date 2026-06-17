@@ -19,4 +19,4 @@ typeOfAlias: well
 
 A mysterious well hidden in Amberglow, thought to be the source, or related to, [[Cloudspinner]]'s magic.
 
-%%SECRET[1]%%
+%%SECRET[v2:4b2232e571c5f0f2932e26ff93be3a26]%%

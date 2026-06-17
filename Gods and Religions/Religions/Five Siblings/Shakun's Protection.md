@@ -10,4 +10,4 @@ dm_owner: tim
 
 The name for the magical protection that deters enemies of Dunmar from entering the country via the eastern borders. 
 
-%%SECRET[1]%%
+%%SECRET[v2:b164dd6a3e70bf6b40f7a9d3153ab693]%%
