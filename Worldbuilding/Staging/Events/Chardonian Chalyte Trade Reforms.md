@@ -10,31 +10,32 @@ partOf: Chardon Chalyte Riots
 dm_owner: none
 dm_notes: none
 ---
-# Chardonian Chalyte Trade Reforms
+# The Chardonian Chalyte Trade Reforms
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> Part of The [[Chardon Chalyte Riots]]  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Chardonian Chalyte Trade Reforms were the emergency restructuring of Chardon's chalyte economy after the [[Chardon Chalyte Riots]], the exposure of [[Fausto]]'s influence over the trade, and the securing of a new imperial source of chalyte in the [[Chataan Mountains]]. The reforms broke the power of the old chalyte oligarch families, created the [[Imperial Chalyte Mining Company]], transferred major refinery properties into new hands, and established the [[Chalyte Refining Corporation]] as a joint worker and Windcaller institution.
-
-The original staging note described this as a "stub note to capture aftermath of the riots and restructuring of chalyte trade."
-
-%% AI note: This is a detailed campaign-facing summary rather than a polished public note. It deliberately includes DM-note-derived institutional detail and unresolved political tensions. %%
+In DR 1749, the Chardon chalyte trade underwent a series of major reforms, following the [[Chardon Chalyte Riots]] caused by the exposure of [[Fausto]]'s corrupt influence over the [[Curia of 42]] and magical coercion of important bureaucrats in the [[Chamber of Stamps]]. 
 
 ## Background
 
-Before DR 1749, Chardon's chalyte trade was concentrated in the hands of four oligarchic families: the [[Auratan Family]], [[Patelios Family]], [[Caloren Family]], and [[Veldari Family]]. Together they controlled the mines, overland transport, refineries, and commercial channels that made chalyte central to Chardonian public works, military power, and urban life.
+Before DR 1749, Chardon's chalyte trade was concentrated in the hands of four oligarchic families: the [[Auratan Family]], [[Patelios Family]], [[Caloren Family]], and [[Veldari Family]]. Together they controlled the northern mines in [[Greater Voltara]], overland transport, shipping across [[Lake Valandros]], and local refineries in [[Chardon]], mostly concentrated in [[Ragwater Basin]]. After the [[Chardon Chalyte Riots]], which saw the destruction significant local infrastructure on the [[North Bank]], a return to the status quo was untenable. 
 
-The trade had also been compromised by Fausto and the [[The Cleansed|Cleansed]]. Through the [[Crown of Purity]], Fausto influenced officials in the [[Hetaeri Magica]] and the [[Chamber of Stamps]], allowing the Hetaeri to become the near-sole purchaser of refined chalyte. That arrangement made the families wealthy, kept workers dependent on unsafe refineries, and tied Chardon's infrastructure to a corrupted supply system.
+However, Chardon and the Magistros faced a practical crisis. Chalyte is and was essential to Chardonian public works, including the system of fountains and wells that provide clean, fresh water across the city, but merchants would not send raw ore into a city in open unrest and in any case raw ore processing had largely halted. Existing reserves could keep some systems functioning for a time, but without new shipments the city's infrastructure would eventually fail. 
 
-After Fausto's defeat on DR 1749-05-24, [[Kenzo]] used the Crown to order chalyte officials to expose corruption and dismantle the old trade. [[Riswynn]] later sustained those commands. The result was a cascading public revelation rather than a controlled transition: bureaucrats exposed bribery and monopoly arrangements, workers rose up, the [[Eightfold Flame]] spread through the North Bank, and the old chalyte districts of [[Chardon]] burned.
+## Upending Oligarchic Control
 
-## The Supply Crisis
+The kernel of the reforms came from a new chalyte source directly under the control of the Magistros. This was possible only because the [[Dunmar Fellowship]] went to the [[Chataan Mountains]], where they defeated the stone giant king [[Dhrukmir]] who had prevented Chardonian access to rich chalyte veins in the mountains. 
 
-By late June DR 1749, Chardon faced a practical crisis. Chalyte was essential to public works, but merchants would not send raw ore into a city in open unrest. Existing reserves could keep some systems functioning for a time, but without new shipments the city's infrastructure would eventually fail.
+With this new source of chalyte, the politics of reform changed. Since the old families no longer asserted control over the only accessible source of raw chalyte ore, the Magistros could break with them. He denounced them, using the public charges of bribery proclaimed by members of the [[Eightfold Flame]] to exile all members of the  [[Patelios Family|Patelios]] and [[Veldari Family|Veldari]] families. 
 
-The Magistros and the Dunmar Fellowship considered two broad paths. One path was to expose bribery and use legal or political action to force reform through the old supply chain. The other was to secure a new source of chalyte outside the families' control. The party chose the second path and went to the [[Chataan Mountains]], where they destroyed the death ray, defeated [[Dhrukmir]], and secured access to a new chalyte source.
+---
 
-This new source changed the politics of reform. The Magistros no longer needed to bargain with the old families from a position of dependency. He could denounce them, seize property, and build a new supply chain under imperial license.
 
-## Public Break with the Families
+seize property, and build a new supply chain under imperial license.
+
+
 
 After the Chataan source was secured, the Magistros moved quickly. He denounced the old families and shifted legal refining rights toward Windcaller-controlled licensing. Edicts targeted unlicensed chalyte holders and the families that had profited from the corrupted market.
 
