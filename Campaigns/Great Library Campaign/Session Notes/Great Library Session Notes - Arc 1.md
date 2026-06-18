@@ -158,7 +158,7 @@ Returning from the success of restoring the [[Order of Twilight Temple (Voltara)
 ## Adventure 11: The Skyborn Scroll
 ### Session 17
 
-Camped outside the kobold lair, [[Adrik]], [[Brelith]], [[Aelar]], and [[Samso]] meet up with [[Aglath]] and contemplate their next move. The Skyborn scroll is thought to be located in [[Airion’s Floating Tower]], a floating tower deep in the highest peaks of the [[Fiatara Mountains]], near [[Blacksilver Peak]], at the northern edge of the [[Goldpeak Mines|old Dwarven fortresses]] in these mountains. The party decides to head north. Heading north on the [[Erbalta Plains|plains]], they are attacked by a hobgoblin patrol returning to camp in the mountains, and nearly killed. Only some quick thinking from [[Samso]], and an elemental summoned by [[Aelar]] while barely clinging to consciousness, keeps the party from ending up the prisoners of the hobgoblins. 
+Camped outside the kobold lair, [[Adrik]], [[Brelith]], [[Aelar]], and [[Samso]] meet up with [[Aglath]] and contemplate their next move. The Skyborn scroll is thought to be located in [[Airion's Floating Tower]], a floating tower deep in the highest peaks of the [[Fiatara Mountains]], near [[Blacksilver Peak]], at the northern edge of the [[Goldpeak Mines|old Dwarven fortresses]] in these mountains. The party decides to head north. Heading north on the [[Erbalta Plains|plains]], they are attacked by a hobgoblin patrol returning to camp in the mountains, and nearly killed. Only some quick thinking from [[Samso]], and an elemental summoned by [[Aelar]] while barely clinging to consciousness, keeps the party from ending up the prisoners of the hobgoblins. 
 
 ### Session 18
 
@@ -170,7 +170,7 @@ After bargaining with the giant eagle, [[Oskar]] and [[Stoneclaw]] return to the
 
 ### Session 20
 
-Pressing further into the cave, the party finds it is now the lair of a pair of trolls, who are eventually defeated by [[Aglath]]’s burning hands. After navigating a chamber of regenerating stirges, the party finds a stair climbing up through the center of the mountain, and begin the long ascent to the top of [[Blacksilver Peak]] and hopefully [[Airion’s Floating Tower]] and the scroll. During the ascent, they navigate (eventually) around a partial collapse of the stairs by use of the climbing abilities of [[Samso]]’s giant spider form.
+Pressing further into the cave, the party finds it is now the lair of a pair of trolls, who are eventually defeated by [[Aglath]]’s burning hands. After navigating a chamber of regenerating stirges, the party finds a stair climbing up through the center of the mountain, and begin the long ascent to the top of [[Blacksilver Peak]] and hopefully [[Airion's Floating Tower]] and the scroll. During the ascent, they navigate (eventually) around a partial collapse of the stairs by use of the climbing abilities of [[Samso]]’s giant spider form.
 
 ### Session 21
 
@@ -186,11 +186,11 @@ Exploring the snow and ice landscape at the top of [[Blacksilver Peak]], the par
 
 ### Session 24
 
-The party crosses the ice bridge, and encounters the guardians of [[Airion’s Floating Tower|the tower]], a living statue of ice and its two ice fox companions. After managing to defeat these guardians, the party is faced with the puzzle of opening the door, which is locked with arcane sigils and runes. After solving the puzzle, the door swings open.
+The party crosses the ice bridge, and encounters the guardians of [[Airion's Floating Tower|the tower]], a living statue of ice and its two ice fox companions. After managing to defeat these guardians, the party is faced with the puzzle of opening the door, which is locked with arcane sigils and runes. After solving the puzzle, the door swings open.
 
 ### Session 25
 
-The party begins to explore [[Airion’s Floating Tower|the tower]], passing through the grand illusion of the sky in the entrance room, and defeating a pair of animated suits of plate armor guarding the library. In the library they find some clues and treasure, and then proceed up, to the ruins of an alchemical laboratory. Here, they meet [[Mehrangeesa]] of [[Sulmana]], a djinni trapped here with enchanted manacles. Mehrangeesa tells them some of the history of [[Airion]], how different factions on the [[Elemental Plane of Air]] saw him as relatively harmless or a great evil to be destroyed, and told them of [[Zadkai]], a warlock devoted to a great power on the [[Elemental Plane of Air|Plane of Air]] who wanted to see all humans who would interfere with the [[Elemental Plane of Air|Plane of Air]] destroyed. After being freed, he tells them he will be listening if they find a way to get in touch, gifts [[Aelar]] with the power of whirlwind punches, and disappears.
+The party begins to explore [[Airion's Floating Tower|the tower]], passing through the grand illusion of the sky in the entrance room, and defeating a pair of animated suits of plate armor guarding the library. In the library they find some clues and treasure, and then proceed up, to the ruins of an alchemical laboratory. Here, they meet [[Mehrangeesa]] of [[Sulmana]], a djinni trapped here with enchanted manacles. Mehrangeesa tells them some of the history of [[Airion]], how different factions on the [[Elemental Plane of Air]] saw him as relatively harmless or a great evil to be destroyed, and told them of [[Zadkai]], a warlock devoted to a great power on the [[Elemental Plane of Air|Plane of Air]] who wanted to see all humans who would interfere with the [[Elemental Plane of Air|Plane of Air]] destroyed. After being freed, he tells them he will be listening if they find a way to get in touch, gifts [[Aelar]] with the power of whirlwind punches, and disappears.
 
 ### Session 26
 
@@ -219,7 +219,7 @@ After a brief interrogation with the orc leader, [[Aglath]] kills him after he t
 - (DR:: 1747-07-20): After defeating a group of basilisks, the party arrives at the entrance to the [[Goldpeak Mines|old Dwarven mines]], and kills the trolls that now occupy it. They begin the ascent up the long stairs to the summit of the mountain. 
 - (DR:: 1747-07-21): After resting on the stairs, the party emerges into a [[Goldpeak Mines|ruined Dwarven waystation]], finding the exit after some shenanigans and defeating some sword wraiths. 
 - (DR:: 1747-07-22): The party meets [[Dinia]], and deals with her yeti problem. 
-- (DR:: 1747-07-23): [[Aglath]], [[Adrik]], [[Samso]], [[Brelith]], and [[Aelar]] cross a glacier to find [[Airion]] the Mistspeaker's [[Airion’s Floating Tower|floating tower]]. After crossing an ice bridge, defeating the guardians, figuring out the door puzzle, and freeing the djinni [[Mehrangeesa]] of [[Sulmana]], the party finally meets [[Airion|Airion Mistspeaker]] and finds the air scroll. However, Airion turns out to be an illusion created by another wizard [[Zadkai]], who takes the scroll. The party manages to retrieve the scroll in battle, but Zadkai gets away. The party rests for the night in the tower. 
+- (DR:: 1747-07-23): [[Aglath]], [[Adrik]], [[Samso]], [[Brelith]], and [[Aelar]] cross a glacier to find [[Airion]] the Mistspeaker's [[Airion's Floating Tower|floating tower]]. After crossing an ice bridge, defeating the guardians, figuring out the door puzzle, and freeing the djinni [[Mehrangeesa]] of [[Sulmana]], the party finally meets [[Airion|Airion Mistspeaker]] and finds the air scroll. However, Airion turns out to be an illusion created by another wizard [[Zadkai]], who takes the scroll. The party manages to retrieve the scroll in battle, but Zadkai gets away. The party rests for the night in the tower. 
 - (DR:: 1747-07-24): After crossing the glacier and dealing with wolves, the party reaches [[Dinia]]'s and spends the night. 
 - (DR:: 1747-07-25): The party heads down [[Blacksilver Peak]], and encounters an [[Orcs|orc]] patrol coming to find the [[Skyborn Scroll]] for [[Grumella]]. The orcs are defeated after a tough fight, although one gets away. 
 - (DR:: 1747-07-26): Experimenting with magic items from the tower, [[Adrik]] summons a [[Silverstorm|roc]], who flies the party back to [[Voltara]]. Defeat a pack of wyverns from roc-back. 

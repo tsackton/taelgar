@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
+tags: [person]
 name: Iara
 species: lizardfolk
 gender: female
 whereabouts:
-- {type: home, location: West of Voltara, end: 1748-03, alias: a lizardfolk village west of Voltara}
+- {type: home, location: Northwest Coast, end: 1747-06-01}
+- {type: away, start: 1747-06-01, end: 1747-10, location: Voltara}
 - {type: home, start: 1748-03, location: Lake Valandros, alias: a lizardfolk community near Lake Valandros}
 campaignInfo:
 - {campaign: GL, type: met, date: 1747-06-22}
@@ -15,9 +16,15 @@ dm_notes: none
 # Iara
 >[!info]+ Biographical Info  
 > A [[Lizardfolk|lizardfolk]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:GL%% Met by the [[Silver Tempests]] on June 22th, 1747 in [[Voltara]], [[Greater Voltara]], the [[Northern Provinces]] %%^End%%
 
-Iara is a lizardfolk woman from a village west of [[Voltara]]. After her village disappeared, she became one of the known survivors connected to the wider [[Lizardfolk Village Disappearances]].
+Iara is a lizardfolk woman from an unnamed village west of [[Voltara]]. Her village vanished under [[Lizardfolk Village Disappearances|mysterious circumstances]], though she survived and ask for help from [[Samso]] and the [[Silver Tempests]]. 
+
+Later, she moved to the area around [[Lake Valandros]]. 
+
+%% AI note: Iara's unnamed village was presumably somewhere in the western foothills of the [[Fiatara Mountains]], roughly 100-140 miles west of [[Voltara]], rather than all the way to the coast. The frontmatter keeps the location broad as [[Northwest Coast]] because no more specific village or subregion has been established. %%
+
 
 %%^Campaign:none%%
 

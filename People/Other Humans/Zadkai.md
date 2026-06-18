@@ -20,6 +20,6 @@ dm_notes: important
 
 Zadkai is a warlock devoted to a powerful being of the [[Elemental Plane of Air]]. He sought the [[Skyborn Scroll]], one of [[Airion|Airion the Mistspeaker]]'s elemental scrolls, believing it should be destroyed or returned to the Plane of Air rather than remain in human hands.
 
-He is especially associated with [[Airion’s Floating Tower]], where he used illusion to impersonate Airion and tried to seize the scroll. His appearance there suggested unnatural age or alteration, but the source of his condition is uncertain. Zadkai escaped after the scroll was recovered, and his later whereabouts are unknown.
+He is especially associated with [[Airion's Floating Tower]], where he used illusion to impersonate Airion and tried to seize the scroll. His appearance there suggested unnatural age or alteration, but the source of his condition is uncertain. Zadkai escaped after the scroll was recovered, and his later whereabouts are unknown.
 
 %% Note: Zadkai's exact nature is left unclear. Certainly he is unnaturally old, and may possibly be undead of some form, but other more exotic explanations are possible. The first combat with him used a deathlock-inspired statblock FWIW %%
