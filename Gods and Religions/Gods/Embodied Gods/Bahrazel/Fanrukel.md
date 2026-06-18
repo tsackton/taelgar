@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-aliases: [Priest, The Priest]
+aliases: [The Priest]
 tags: [power, religion/dwarven]
 gender: female
 name: Fanrukel
