@@ -16,7 +16,7 @@ Make armored folks fight without armor but let people grab shields and weapons. 
  
 ## Centaur Camp
  
-## Will be greeted warmly when they arrive. Centaur camp is spread out, but homely. Big fire pits, lots of meat and bread and wild game. Centaurs sleep in the open, so no tents or structures, but they do have a small stone circle in the center.
+Will be greeted warmly when they arrive. Centaur camp is spread out, but homely. Big fire pits, lots of meat and bread and wild game. Centaurs sleep in the open, so no tents or structures, but they do have a small stone circle in the center.
  
 The leader, Herasto, will welcome them. He is open to aiding Voltara, but after a spring and summer on the plains south of Voltara, their herd is turning south for the winter to continue their long migration.
  
