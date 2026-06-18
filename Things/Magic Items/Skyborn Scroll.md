@@ -17,12 +17,12 @@ dm_notes: none
 One of [[Airion|Airion Mistspeaker]]’s four lost elemental scrolls, associated with air.
 
 %%^Date:1747%%
-Recovered near [[Airion’s Floating Tower]] by the [[Silver Tempests]] after [[Zadkai]] briefly seized it, and returned to [[Chardon]] under the care of [[Lyra]] and the [[Great Library]].
+Recovered near [[Airion's Floating Tower]] by the [[Silver Tempests]] after [[Zadkai]] briefly seized it, and returned to [[Chardon]] under the care of [[Lyra]] and the [[Great Library]].
 %%^End%%
 
 %%
 See: [[Great Library Session Notes - Arc 1]]
-[[Airion’s Floating Tower]]
+[[Airion's Floating Tower]]
 [[Zadkai]]
 [[Elemental Scrolls of Airion]]
 %%

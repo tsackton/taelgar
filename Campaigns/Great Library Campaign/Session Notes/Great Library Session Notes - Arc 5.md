@@ -62,7 +62,7 @@ After some time, [[Blue]], [[Adrik]], [[Mabist]], [[Samso]], and the lizardfolk 
 
 While escorting the surviving lizardfolk, including much of [[Samso]]'s family, to [[Urkabi]], they learn of the chaos in [[Voltara]], and the splitting of the [[Northern Provinces]] from the [[Chardonian Empire]]. [[Brelith]] has been keeping [[Samso]] informed via _Sending_, and is now in hiding with [[Dinia]]. An attempt to _Transport Via Plants_ to [[Tempest Towers]] fails, suggesting the tree that once adorned the courtyard has been felled. 
 
-The next morning, the party arrives in [[Urkabi]] with the lizardfolk rescued from [[Cairn Dor]]. [[Samso]] parts ways with his family and kin; [[Adrik]], [[Samso]], [[Mabist]], and [[Blue]] _Transport Via Plants_ to an orchard outside [[Voltara]] to face whatever is next, amidst reports that [[Airion’s Floating Tower]] has returned to the [[Erbalta Plains]]. 
+The next morning, the party arrives in [[Urkabi]] with the lizardfolk rescued from [[Cairn Dor]]. [[Samso]] parts ways with his family and kin; [[Adrik]], [[Samso]], [[Mabist]], and [[Blue]] _Transport Via Plants_ to an orchard outside [[Voltara]] to face whatever is next, amidst reports that [[Airion's Floating Tower]] has returned to the [[Erbalta Plains]]. 
 
 ### Events
 

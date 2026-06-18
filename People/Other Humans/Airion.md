@@ -31,7 +31,7 @@ Various historical brainstorming notes say Airion Mistspeaker was originally fro
 
 Key campaign uses:
 
-- Great Library: [[Lyra]] hired the future [[Silver Tempests]] to recover the [[Elemental Scrolls of Airion]]. Their search led through the Forge of Fire, [[Crystal Cavern]], [[Pietravola Abbey]], [[Drowned Tower]], and [[Airion’s Floating Tower]], and it restored major pieces of Airion's work to [[Chardon]].
+- Great Library: [[Lyra]] hired the future [[Silver Tempests]] to recover the [[Elemental Scrolls of Airion]]. Their search led through the Forge of Fire, [[Crystal Cavern]], [[Pietravola Abbey]], [[Drowned Tower]], and [[Airion's Floating Tower]], and it restored major pieces of Airion's work to [[Chardon]].
 - Great Library: Airion's air research was morally complicated. [[Mehrangeesa]] was bound in the floating tower, and factions on the [[Elemental Plane of Air]] remembered Airion either as a dangerous human meddler or as less threatening than later enemies such as [[Zadkai]].
 - Mawar: Airion's work marks the [[Mawakel Peninsula]] as an elemental locus and bridges older local elemental material to later arcane study. His annotations on older elemental and oceanic books preserved lore around Yi'weti, and his genie-binding magic enabled [[Azar the Lost]] to compel [[Nimessa]] and steal living water from the [[Sentient Ocean]].
 - Great Library / Mawar geography hook: [[Lyra]] knew that Airion had another tower and base of operations in the mountains of the [[Mawakel Peninsula]]. This appears to match or at least overlap with the Mawar material around Airion-linked sites near the source of the [[Sulqat]] and the [[North Cliffs]]. Treat exact geography cautiously.
@@ -44,7 +44,7 @@ Source notes:
 - [[Elemental Plane of Air]]
 - [[Elemental Plane of Fire]]
 - [[Drowned Tower]]
-- [[Airion’s Floating Tower]]
+- [[Airion's Floating Tower]]
 - [[The Ciphered Scroll]]
 - [[Azar's Tale]]
 - [[Mawar Adventures Episode 02]]

@@ -19,7 +19,7 @@ Many accounts speak of great cloud-borne cities of the djinni, including [[Sulma
 - [[Airion]]
 - [[Zadkai]]
 - [[Mehrangeesa]]
-- [[Airion’s Floating Tower]]
+- [[Airion's Floating Tower]]
 - [[Skyborn Scroll]]
 - [[Elemental Scrolls of Airion]]
 - [[Great Library Session Notes - Arc 1]]
@@ -30,7 +30,7 @@ Many accounts speak of great cloud-borne cities of the djinni, including [[Sulma
 ## Summary of Possible Conflicts/Politics
 
 - [[Airion]] was a pre-Great-War elementalist whose work centered on the [[Energy Realms]], elemental binding, planar weak points, and the [[Elemental Scrolls of Airion]]. 
-- Airion’s air research, however, was morally compromised. [[Mehrangeesa]] was bound in [[Airion’s Floating Tower]], [[Airion Tower - DM Notes|captured by Airion]] and used to learn about the Plane of Air and power the tower.
+- Airion’s air research, however, was morally compromised. [[Mehrangeesa]] was bound in [[Airion's Floating Tower]], [[Airion Tower - DM Notes|captured by Airion]] and used to learn about the Plane of Air and power the tower.
 - The Plane of Air was not unified in its view of Airion. Some factions saw him as relatively harmless, a human who didn't know better and needed to be educated; others saw him as an enemy to be resisted, or a evil to be destroyed. 
 - [[Mehrangeesa]], from [[Sulmana]], was freed by the party, wanted to return home, and warned against misuse of elemental power. He later aided Voltara by summoning a vast wind during the siege. He belongs to a faction that, while angered by Airion, does not see humans as fundamentally evil. 
 - [[Zadkai]] represents the hostile anti-human faction. He served a powerful being of the [[Elemental Plane of Air]], sought the [[Skyborn Scroll]], and believed it should be destroyed or returned to the Plane of Air. His patron mistrusted djinni who were not part of this faction; he forbade Zadkai from freeing Mehrangeesa, and enjoyed Mehrangeesa’s suffering. See: [[Airion Tower - DM Notes]].
