@@ -1,1 +1,0 @@
-A retired explorer and caravan guard who hangs out at [[the Purple Pig]] and likes to bet on the fights.

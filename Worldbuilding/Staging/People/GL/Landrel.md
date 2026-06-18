@@ -1,11 +1,12 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, status/check/ai]
 name: Landrel
 species: elf
 whereabouts:
-- {type: away, location: Rangers' ranges (Northern Provinces)}
+- {type: home, location: Chardonian Empire, alias: the Rangers' ranges in the Northern Provinces}
 affiliations:
-- {org: The Rangers, title: Scout/Mentor}
+- {org: Rangers, title: scout and mentor, type: member}
 campaignInfo:
 - {campaign: GL, type: mentioned}
 dm_owner: none
@@ -17,11 +18,17 @@ dm_notes: color
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A ranger who mentored [[Blue]] and helped her find community with [[Rangers]]. Mentioned in Blue’s backstory.
+Landrel is an elven Ranger who mentored [[Blue]] during her years as a scout. Blue credited Landrel with teaching her survival skills and helping her find a place among the [[Rangers]].
 
-%%
-Brainstorming (not canon): concept of Landrel as an elf with a lingering shadow-plane curse (e.g., hair of shadow) from Great War portals; contributed to being an outcast who drifted toward the Rangers.
+%%^Campaign:none%%
 
-one option if you want to stick with the outcast due to strange apperance vibe though - during the Great War, one of the main enemies used portals to shadow demi-planes as a means of transporting armies. an elf wounded in a fight around these shadow demi-planes could have ended up with some sort of vague curse, maybe their hair is made just of shadow now, and this would have made it hard to reintegrate after the war, so they drifted towards the Rangers
+## DM notes
 
-%%
+- Landrel is only clearly sourced in [[Blue]]'s secret backstory. Blue met Landrel after drifting between war bands and finding some community in worship of [[the Warlord]]. **Source:** [[Blue]].
+- From Landrel, Blue learned scouting, survival, and ways to handle her unusual background and appearance. **Source:** [[Blue]].
+- The original staging note included brainstorming that Landrel might be an elf with a lingering shadow-plane curse from [[Great War]] portals, possibly with hair made of shadow, explaining why they became an outcast and drifted toward the [[Rangers]]. This is speculative and should not be treated as canon unless developed later.
+- No source found establishes Landrel's gender, exact home, dates, or whether the wider [[Silver Tempests]] know of them beyond Blue's backstory.
+
+%% Speculative ideas generated before this cleanup; preserved for human review. %%
+
+%%^End%%
