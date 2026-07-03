@@ -12,6 +12,7 @@ Into the Chasm is a short adventure in and around the [[Great Chasm]], where fiv
 The player characters: [[Chasm Explorers]]
 
 Sessions:
+
 ```dataview
 TABLE WITHOUT ID
   link(file.path, default(descTitle, file.name)) AS "Session", sessionNumber as Episode,
