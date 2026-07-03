@@ -12,6 +12,7 @@ Lost in the Feywild is a short adventure that begins near [[Tollen]], where the 
 The player characters: [[Tollen Misfits]]
 
 Sessions:
+
 ```dataview
 TABLE WITHOUT ID
   link(file.path, default(descTitle, file.name)) AS "Session",sessionNumber as Episode,
