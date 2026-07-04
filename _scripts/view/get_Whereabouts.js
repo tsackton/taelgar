@@ -1,1 +1,2 @@
-return customJS.OutputHandler.outputWhereabouts(dv.current().file.name, dv.current());
+const page = dv.current();
+return customJS.OutputHandler.outputWhereabouts(page.file.name, page.file.frontmatter ?? page);
