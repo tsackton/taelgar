@@ -349,12 +349,25 @@ class OutputHandler {
         const { TokenParser } = customJS
 
         let strVals = { home: "", origin: "", lastKnown: "", current: "", isCurrentUnknown: false }
+        let pageMetadata = metadata?.file?.frontmatter ?? metadata ?? {}
 
-        let displayDefaults = NameManager.getDisplayData(metadata)
-        let file = { name: fileName, frontmatter: metadata }
+        // Dataview page objects include inline fields such as DR and DR_end from body text.
+        // Those are timeline facts, not page lifecycle dates for whereabouts rendering.
+        if (metadata?.file && !pageMetadata.tags) {
+            let fileTags = metadata.file.tags ?? metadata.file.etags
+            if (Array.isArray(fileTags)) {
+                pageMetadata = {
+                    ...pageMetadata,
+                    tags: fileTags.map(t => typeof t === "string" ? t.replace(/^#/, "") : t)
+                }
+            }
+        }
 
-        let pageData = DateManager.getPageDates(metadata);
-        let pageYear = DateManager.getTargetDateForPage(metadata)
+        let displayDefaults = NameManager.getDisplayData(pageMetadata)
+        let file = { name: fileName, frontmatter: pageMetadata }
+
+        let pageData = DateManager.getPageDates(pageMetadata);
+        let pageYear = DateManager.getTargetDateForPage(pageMetadata)
 
         if (!pageData.isCreated) return strVals;
 
@@ -366,7 +379,7 @@ class OutputHandler {
         // but commenting to track for the future //
         if (!isPageAlive) pageYear = pageData.endDate
 
-        let whereabout = WhereaboutsManager.getWhereabouts(metadata, pageYear)
+        let whereabout = WhereaboutsManager.getWhereabouts(pageMetadata, pageYear)
 
         let homeString = ""
 
