@@ -59,12 +59,12 @@ Most common playable species of Taelgar are gifted soulstuff by a Deity. This ca
 
 [[Humans]], who are created directly by the Divine Presence, native to the Material Plane, and gifted soulstuff upon birth which returns to divine realms beyond the [[Land of the Dead]] upon death. 
 
-[[Dwarves]], [[Elves]], [[Stoneborn]], [[Halflings]], and [[Lizardfolk]] are referred to as the Elder Folk, and are all created by embodied gods often referred to as the firstborn of their species. These species, like humans, are gifted soulstuff upon birth which returns to the realms of their embodied creators beyond the [[Land of the Dead]] upon death. 
+[[Dwarves]], [[Elves]], [[Stoneborn]], [[Halflings]], and [[Lizardfolk]] are linked as the children of [[Embodied Gods]], often referred to as the firstborn of their species. These species, like humans, are gifted soulstuff upon birth which returns to the realms of their embodied creators beyond the [[Land of the Dead]] upon death. 
 
-[[Orcs]] are created by Thark, who is metaphysically similar to the firstborn of the Elder Folk, but is a creation of the Three Despairs / Void Mind. Orcs, like the Elder Folk and humans, are gifted soulstuff by Thark, which returns to Thark upon death. 
+[[Orcs]] are created by Thark, who is metaphysically similar to the firstborn, but is a creation of the Three Despairs / Void Mind. Orcs, like the other children of Embodied Gods, and humans, are gifted soulstuff by Thark, which returns to Thark upon death. 
 
 *Open Questions and Discussion*
-- The term "Elder Folk" is occasionally used to refer to the non-orc children of embodied gods, but it is not clear whether this is a meta term or an in-world term. If it is an in-world term, we might consider whether it is too Tolkien-esque. 
+- The term "Elder Folk" was occasionally used to refer to the non-orc children of embodied gods, but we have decided this term is not great and it should not be used or considered canon. If there is an in-world term for these species, it has not been invented yet. 
 - What exactly are embodied gods? The only canonical thing that distinguishes them from Incorporeal gods is that their power independent of belief (so if all the elves died Aldanor and Elmerica would still exist). The naming "Embodied Gods" to me implies they might have a physical existence, e.g. be a combination of matter and soulstuff. But this is not well developed, and it might be worth considering fleshing out categories of divinity a little better. 
 - There is clearly something different about orcs that is more extreme in some way that the normal "firstborn connection" type vibe, though whether this needs a clear metaphysical explanation or can simply derive from Thark's nature is not obvious (but might impinge on what happens to Riswynn's quest). 
 - Are humans gifted soulstuff by a divinity? If so, how does one change religion? If not, do humans acquire soulstuff from the Divine Presence and/or the Plane of Creation directly? Or through the mediation of a divinity? How is this related to the [[Divine Spark]]? 
