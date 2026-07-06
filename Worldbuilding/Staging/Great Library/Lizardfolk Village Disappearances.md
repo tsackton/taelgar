@@ -85,4 +85,4 @@ This mechanism explains the recurring elements: empty settlements, dream-linked 
 - [[Great Library Session Notes - Arc 1]]: Iara's request, the Voltara-area vanished village, and shadow lizard echoes.
 - [[Great Library Session Notes - Arc 5]]: Urkabi, Castrella, Cleaver-Stone, Cairn Dor, Yeshara, the rescued dreamers, and the 1752 return.
 - [[Session 63 Background]]: DM-facing history of Cairn Dor, Yeshara, the soul compass, dreamers, and raid logic.
-- [[Cairn Dor]], [[Cairn Dor Sigil]], [[Samso]], [[Iara]], and [[Letter from Chardon for Samso on the Umbral Covenant]].
+- [[Cairn Dor]], [[Things/Magic Items/Cairn Dor Sigil]], [[Samso]], [[Iara]], and [[Letter from Chardon for Samso on the Umbral Covenant]].
