@@ -52,7 +52,7 @@ Linear time began with an event, the [[Riving]], both instantaneous and eternal,
 
 - The [[Multiverse#The Creation of the Multiverse|multiverse was created]]
 - The [[Dragons]], [[Fey]], [[Elementals|Elemental]], and [[Giants]] were created. These four species are sometimes referred to as the [[Children of the Riving]] although it is not clear if that is a meta or in-world name. The exact mechanism of creation is not clear, but it is presumed to be some echo or reflection or evolution of the beings that existed before the Riving. 
-- The [[Embodied Gods]] were created, and they in turn created the [[Elves]], [[Dwarves]], [[Halflings]], [[Lizardfolk]], and [[Stoneborn]]. These five species are sometimes referred to as the [[Elder Folk]], but it is not clear if this is a meta or in-world name
+- The [[Embodied Gods]] were created, and they in turn created the [[Elves]], [[Dwarves]], [[Halflings]], [[Lizardfolk]], and [[Stoneborn]].  %%some old notes refer to these as Elder Folk, but this is not considered canonical and is not an in-world term; generally, it shouldn't be used %%
 - The [[Void Mind]] creates the [[Three Despairs]] as its avatars and agents in the [[Multiverse]]
 
 %% It is not clear when the first cracks to the Far Realms appeared see [[Historical Framework - Open Questions#Far Realms]] for thoughts %%
@@ -90,7 +90,7 @@ _1520 - 4122 by the Dwarven Count of Years_
 
 The long period between the creation of humanity and the Downfall aligns with the grow and expansion of humanity, and in many ways the growth of humanity, and humanity's interaction with the non-human races, is the most important story of this period. The specific history of Hkar is intentionally left blank, although there are some events that are dated back to Hkar (in particular, the story of  [[Sarqon]] and the [[Chainshroud]] as recounted by the [[Philosopher's Information Concerning Binding Stones]]). Instead, it is best to understand the events on Hkar via the influences they had on religious history, and the migrations from Hkar (which then had significant effects on the development of other human cultures outside of Hkar).
 
-The history of the mainland of Taelgar in this period is largely blank. However, at some point - after the creation of humanity but before 3000 - the [[Embodied Gods]] of the [[Elder Folk]] sense a turn in the air, a feeling of coming darkness, a premonition, but lacking detail. 
+The history of the mainland of Taelgar in this period is largely blank. However, at some point - after the creation of humanity but before 3000 - the [[Embodied Gods]] sense a turn in the air, a feeling of coming darkness, a premonition, but lacking detail. 
 
 %%exact timing of the sense of forboding is not canonically determined, but the vibe is supposed to be a long period during which most elves discount the dangers predicted, or image it to be about the strange rumors of alien minds in the underdark. whether stoneborn/halflings/lizardfolk are impacted is left undetermined %%
 
@@ -122,17 +122,19 @@ metaphysically, this is then a time of the development of a variety of fates of 
 the general vibe is supposed to be that  this is basically "pre-history" in a sense
 %%
 
-### Contact with the Elder Folk
+### Contact with Others
 *roughly 2200-2500, about 300 years*
 
-After 700 years of growth and development in isolation on Hkar, the [[Elder Folk]] and humans make contact around the year 2200. Exactly how this happens is not defined, but the impact on [[Hkar]] is large, for two reasons: humanity begins to learn other forms of magic (arcane and primal magic), and begins to imagine divinities as external, powerful entities. The rapid explosion of magical knowledge on Hkar upends human society and leads to a rapid era of cultural evolution. 
+After 700 years of growth and development in isolation on Hkar, humans make contact with other species around the year 2200. Exactly how this happens is not defined, but the impact on [[Hkar]] is large, for two reasons: humanity begins to learn other forms of magic (arcane and primal magic), and begins to imagine divinities as external, powerful entities. The rapid explosion of magical knowledge on Hkar upends human society and leads to a rapid era of cultural evolution. 
+
+%% these are presumably mostly elves and halflings initially but this is not canonical or decided %%
 
 %% this could, potentially, be the cause of the first migrations, probably also plants the seeds for the urban/mariner split later, but none of this needs to be fleshed out yet. %%
 
 ### Migrations and Emigration
 *roughly 2500-3500, about 1000 years*
 
-Amidst the cultural, religious, and social upheavals spiraling from contact with the Elder Folk, Hkar begins to undergo rapid development and evolution, accompanied by waves of migration and emigration to the land of the [[Elder Folk]], the mainland of Taelgar. 
+Amidst the cultural, religious, and social upheavals spiraling from contact with other species, Hkar begins to undergo rapid development and evolution, accompanied by waves of migration and emigration to the mainland of Taelgar. 
 
 %% exact dates are not yet canonical - this is also the period where the events of the Sarqon and the Chainshroud presumably happen (e.g. between 2600-2800) %%
 
@@ -184,7 +186,7 @@ _4000 - 4133 by the Dwarven Count of Years_
 
 The exact length of the [[Downfall Wars]] is not canonical, but it was likely at least two generations of humans. The Downfall itself occurred in CY 4122, but the period immediately before and after were a time of destruction and war. 
 
-The Downfall is a catacylismic event that restructures the very shape of the continents. It is a massive, total war between the [[Elder Folk]], lead by the elven empires, and the forces of the [[Void Mind]], lead by massive [[Hobgoblins|hobgoblin]] armies. Although the exact chronology is unclear, the end result is the sinking of [[Hkar]]. 
+The Downfall is a catacylismic event that restructures the very shape of the continents. It is a massive, total war lead by the elven empires, against the forces of the [[Void Mind]], lead by massive [[Hobgoblins|hobgoblin]] armies. Although the exact chronology is unclear, the end result is the sinking of [[Hkar]]. 
 
 The Downfall had diverse effects on all places and peoples of Taelgar, and is a good boundary to reset from an ancient, mythic past to "history". It saw significant collapse of almost all of the non-human empires, and marked:
 * The end of the age of elves and the continent spanning forest empires they had established

@@ -46,7 +46,7 @@ The orcs are canonically the creation of [[Thark]], who is in turn metaphysicall
 Undetermined is when the Orcs were created. One possibility is that orcs, in the far reaches of the world, were created before humans, perhaps concurrently with the rest of the Children of the Embodied Gods. A second possibility is that Thark is not able to create the orcs for some reason until later, either late in the shortly before or even after the creation of humans. From a demographic standpoint, orcs are expected to have a very small initial creation, a very high birth rate, and a very high death rate. So it takes a while for them to be noticed, so they cannot be created too late.
 
 Broadly then, there are three simple possibilities for the orcish creation:
-* Immediately after or during the Riving, totally unknown to anyone. This works from a "parallel to Elder Folk" but adds some 'darkness' to the otherwise idyllic early period of creation
+* Immediately after or during the Riving, totally unknown to anyone. This works from a "parallel to other children of Embodied Gods" but adds some 'darkness' to the otherwise idyllic early period of creation
 * Sometime before the creation of humans, perhaps only shortly before. I'm not sure there are any benefits to this, unless the creation of orcs is meant to be some type of trigger for the creation of humans
 * At some point after the creation of humans, perhaps shortly after or almost concurrently. This would make them align with the creation of humans and hobgoblins
 
@@ -68,7 +68,7 @@ In general, there is nothing wrong with this per se, but it is worth exploring t
 Note: one idea discussed in [[2025-01-21 - Historical Framework Pre Downfall]] suggests that maybe the Green Sea stretched further inland before the Downfall, and therefore the 'Firstborn' races might all have had mighty civilizations that met at [[Urlich Pass]]. That would preserve one of the ideas from the [[Great War Campaign]] that the final battle with Cha'Mutte was in some way related to the site of the creation of the Firstborn. This would also make the interactions a bit less isolated. 
 
 ### Stoneborn Early History
-The elves, lizardfolk, halflings, and dwarves all have tentative development for significant early histories with impacts on the post-Downfall world, but the stoneborn are missing from most of this. It may be appriopriate (i.e. lean into them as the most isolationist of the Elder Folk) but this is a pending open question.
+The elves, lizardfolk, halflings, and dwarves all have tentative development for significant early histories with impacts on the post-Downfall world, but the stoneborn are missing from most of this. It may be appropriate (i.e. lean into them as the most isolationist of the early speices) but this is a pending open question.
 
 ### Nature of the Downfall
 There is an open question as to the true nature of the Downfall. One idea:

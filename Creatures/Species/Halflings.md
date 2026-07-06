@@ -90,7 +90,7 @@ In these ancient tales of years, halflings tell of wandering even when the world
 - In general, most common as a traveling caravan or vessel; plausible as a settled community or small family group anywhere there is trade, roads - but an individual or small group could really be anywhere, for unique reasons
 - Renowned as sailors, and many long distance ships are halfling owned and crewed
 - However, halfling villages and towns don't really exist; when they settle it is with other species
-- Of all the "Elder Folk", halflings are by far the most likely to be found living with humans and others, often in long-term co-existence (cf [[Vargaldi]]) 
+- Of all the species with Embodied Gods, halflings are by far the most likely to be found living with humans and others, often in long-term co-existence (cf [[Vargaldi]]) 
 
 ###  Halflings in Play
 - Typical professions: as travelers driven by wanderlust, many halflings are traders, merchants, sailors, bards, and sometimes even pirates or bandits. Those who do settle often gravitate towards inns and taverns, and are frequently innkeepers. This doesn't mean there can't be like a halfling tailor in a big city, but that would be at least slightly unusual compared to a typical halfing. 

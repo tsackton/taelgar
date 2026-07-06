@@ -19,7 +19,7 @@ An earlier version of the human culture document stated:
 
 > As the east begins to urbanize and explore, there is an early wave of migration that settles primarily in the central and southern regions of the mainland. These people and their descendants leave Hkar during the early growth of pantheonic religions, and their religion is left undetermined. They are referred to as the **Southerners** (better name needed?). They largely do maintain contact and trade relationships with the Hkaran homeland, and are probably best thought of as the first Hkaran colonies on the mainland, perhaps with a vibe initially similar to early Greek and Phoenician Mediterranean colonies. They grow rich on trade with Elder Folk and probably develop into powerful civilizations, left undeveloped for now. 
 
-This is not considered canonical but is worth preserving as a potential idea.
+This is not considered canonical but is worth preserving as a potential idea (though note the term "Elder Folk" is not used anymore)
 
 ### Downfall Refugees
 Older text:

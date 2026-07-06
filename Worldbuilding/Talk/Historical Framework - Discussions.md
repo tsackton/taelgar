@@ -66,10 +66,10 @@ This vibe should be preserved, but without the implication that (a) the creation
 
 ## Timing of Creation of Humans
 In general, the creation of humans needs to be serve two goals.
-* There needs to be enough time before it so that the Elder Folk have had time to grow large empires and also to have forgotten creation itself
+* There needs to be enough time before it so that the children of Embodied Gods have had time to grow large empires and also to have forgotten creation itself
 * There needs to be enough time after it for the many developments of human culture and religion
 
 There are some thoughts in [[Demographic Modeling]]. A date of 1520 is somewhat arbitrary, but it probably can't be much sooner than 1400 or later than 1900.
 
 ## Migration Timeline
-The current timeline is based on a proposal from Tim that would shift the contact with elder folk period a little earlier, and move the northern migrations *after* contact, as the beginning of a wave of emigrations triggered in part by the social and cultural upheavals caused by the introduction of arcane magic and the idea of incorporeal gods.
+The current timeline is based on a proposal from Tim that would shift the "contact with other species" period a little earlier, and move the northern migrations *after* contact, as the beginning of a wave of emigrations triggered in part by the social and cultural upheavals caused by the introduction of arcane magic and the idea of incorporeal gods.

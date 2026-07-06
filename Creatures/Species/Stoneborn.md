@@ -19,7 +19,7 @@ Stoneborn tend towards simple lifestyles, having no use for the gold and treasur
 
 Stoneborn are considered an adult by their late 20s, but usually don’t settle into fully adult roles until their 30s. Stoneborn typically live at least 300 years. 
 ### Proud and Independent
-Like many long-lived Elder Folk, Stoneborn perceive the flow of time differently than humans. While they tend to prefer the slow pace of mountain life, where change comes rarely as the slow movement of a glacier, they are also the people of avalanches and volcanoes. Stoneborn see the decadal crawl of a glacier and the thunderous destruction of an avalanche as equal parts of the ebb and flow of the world. 
+Like many long-lived species, Stoneborn perceive the flow of time differently than humans. While they tend to prefer the slow pace of mountain life, where change comes rarely as the slow movement of a glacier, they are also the people of avalanches and volcanoes. Stoneborn see the decadal crawl of a glacier and the thunderous destruction of an avalanche as equal parts of the ebb and flow of the world. 
 
 Stoneborn are deeply connected to their homelands, and tend to see themselves as masters of their domain. This attitude tends to encourage a fierce independence in Stoneborn society. Stoneborn tolerate few outsiders on their lands, and those they do allow rarely become trusted members of the community. 
 

@@ -1,15 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/errors]
+tags: [background]
 name: A Brief History of Taelgar
 dm_owner: none
 dm_notes: none
 ---
 # A Brief History of Taelgar
 
-%% remove Elder Folk %%
-
-Long ago, in the ancient days of creation, the gods created sentient beings, first the [[Elder Folk]], and later the [[Humans]], who grew and spread from their ancestral home on the now-lost continent of [[Hkar]]. In the aftermath of the cataclysm that destroyed [[Hkar]], [[Humans|human]] refugees established the city of [[Drankor]], south of what is now [[Dunmar]]. From this humble beginning, a great empire grew, based on magic, known as the [[Drankorian Empire]]. As the empire grew, it spread its language, [[Mos Numena|religion]], and culture across large swaths of Taelgar. 
+Long ago, in the ancient days of creation, the gods created sentient beings, first the children of [[Embodied Gods]], and later the [[Humans]], who grew and spread from their ancestral home on the now-lost continent of [[Hkar]]. In the aftermath of the cataclysm that destroyed [[Hkar]], [[Humans|human]] refugees established the city of [[Drankor]], south of what is now [[Dunmar]]. From this humble beginning, a great empire grew, based on magic, known as the [[Drankorian Empire]]. As the empire grew, it spread its language, [[Mos Numena|religion]], and culture across large swaths of Taelgar. 
 
 Seven hundred years ago, the [[Drankorian Empire]] fell, brought down by a magical plague that even the great wizards of [[Drankor]] could not stop. From the ashes of empire arose new realms and cities: [[Chardon]], a center of learning and the great city of the west; [[Sembara]], a powerful monarchy in the east; the kingdom of [[Dunmar]], inhabited by a people of the plains, who migrated from the far away into the empty spaces left by the collapse of [[Drankorian Empire|Drankor]]; and many others. But as these realms and others grew, the ancient skeletal dragon-god [[Cha'mutte]] was lurking in the north, biding his time and building his army of [[Hobgoblins]] and worse.
 
