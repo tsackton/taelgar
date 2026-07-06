@@ -1,11 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [source, status/check/errors]
+tags: [source]
 ---
 # Jorundr's Story
 ([[Session 71 (DuFr)|collected by]] [[Kenzo]])
-
-%% metaphysics needs a brief update, see the end / Elder Folk link %%
 
 [[Jorundr]]'s story starts east and north of here, in the [[Green Sea]]. He was born to some of my kind of who live underwater there -- while many of our kind dwell in the high mountains among the clouds, others dwell deep below the sea. 
 
@@ -17,7 +15,7 @@ But eventually I think he grew tired of the sameness of the deserts. He wanted t
 
 [[Jorundr]] did not have the powers that I do, he could not travel as the storm, so he journeyed across [[Drankorian Empire|Drankor]]. This was during the Golden Age of that empire, before the civil war, before [[Apollyon]] came to power, during the reign of [[Alador]] the Elf Friend. He had made [[Drankor]] a safe place for many, our kind included. The stories Jorundr would tell, of traveling across [[Drankorian Empire|Drankor]] at the height of its power and grace! Cities of golden brass, of marble and stone; people teleporting across the continent on a whim with circles of magic runes; lights floating in the sky to illuminate the night. The Empire then seemed a magical place, even reminding me a little of the stories and legends of the great kingdoms of the giants. 
 
-Despite the glory of the time, I could see in the portents the seeds of [[Drankorian Empire|Drankor]]'s destruction and downfall, but Jorundr was an optimist. He did not see it. He preferred to believe in a new era, a new age of [[Humans]] and [[Giants]] and all the [[Elder Folk]] living in harmony. Even all the [[Fey]] and [[Dragons]] and [[Elementals]] who had fled to other planes returning. Foolish, I guess. 
+Despite the glory of the time, I could see in the portents the seeds of [[Drankorian Empire|Drankor]]'s destruction and downfall, but Jorundr was an optimist. He did not see it. He preferred to believe in a new era, a new age of [[Humans]] and [[Giants]] living in harmony. Even all those who had fled to other planes returning. Foolish, I guess. 
 
 He spent a hundred years with me, maybe more, and in that time much changed. When he left, war had broken out. [[Helea]] was assassinated, [[Ysabel of Drankor|Ysabel]] fought [[Vestian]] and lost, and the faction associated with the [[Omnis Pura]] took control. And soon after I was trapped. 
 

@@ -5,6 +5,8 @@ dm_notes: none
 excludePublish: ["all"]
 ---
 
+%% remove mention of Elder Folk %%
+
 **WARNING: THIS DOCUMENT IS SHOULD NOT BE CONSIDERED FULLY CANONICAL**
 
 This note tries to draw together various strands of worldbuilding related to religious history into a cohesive outline. 
@@ -24,7 +26,7 @@ It is plausible that the fey, dragons, elementals, and giants look to their anci
 
 ## Humans on Hkar
 
-Humans are created and gifted Hkar as their ancestral homeland, free of the influence of the Elder Folk. The divine spark is strong in early generations of humans, and quickly an early proto-religion develops on Hkar, focused on personal deities. 
+Humans are created and gifted Hkar as their ancestral homeland, free of the influence of the [[Elder Folk]]. The divine spark is strong in early generations of humans, and quickly an early proto-religion develops on Hkar, focused on personal deities. 
 ### Era of Personal Deities
 
 The first religious tradition, such as it is, that develops on Hkar is based around the power of individuals, strong in belief, to create personal divine protectors for themselves. Arcane and primal magic have not yet been discovered by humans, and so a great deal of power accrues to those who are able to will into being strong personal deities. 
@@ -53,7 +55,7 @@ Conceptually, all gods are still thought of as local and as existing primarily a
 
 For much of this era, there is probably a certain degree of religious stasis. While their may be a lot of variety of different kinds of small gods, and specific local variants on how you attract their attention, the fundamental picture small intercessory gods that need to be summoned to you to carry your prayers is pretty stable. 
 
-It is during this time that the first humans leave Hkar, and begin to explore the mainland, coming into contact with elder folk. This contact leads to a number of major upheavals in human culture, including the introduction of non-divine magic, and the introduction of new conceptions of what divinity can be. 
+It is during this time that the first humans leave Hkar, and begin to explore the mainland, coming into contact with [[elder folk]]. This contact leads to a number of major upheavals in human culture, including the introduction of non-divine magic, and the introduction of new conceptions of what divinity can be. 
 
 #### Northern Folk Religions
 
@@ -68,9 +70,9 @@ The various northern folk religious traditions -- [[Tanshi Worship]] and the [[K
 
 ### Early Pantheonic Religions
 
-After contact with the Elder Folk, human culture on Hkar enters a period of rapid change. Arcane magic spreads quickly, you start to get rapid urbanization, the establishment of Hkaran colonies (this is potentially the "Southerners"), a lot of cultural diversification and the beginnings of what will become the urban/mariner divide. 
+After contact with the [[Elder Folk]], human culture on Hkar enters a period of rapid change. Arcane magic spreads quickly, you start to get rapid urbanization, the establishment of Hkaran colonies (this is potentially the "Southerners"), a lot of cultural diversification and the beginnings of what will become the urban/mariner divide. 
 
-Conceptually, you get the first development of the idea of omnipresent deities (who potentially have their own independent spiritual domains beyond the veil of the Land of the Dead). Potentially, this is basically just stolen from the Elder Folk and is a human conception of the Embodied Gods. Metaphysically, this is a massive shift and leads to a number of important developments in religious history. 
+Conceptually, you get the first development of the idea of omnipresent deities (who potentially have their own independent spiritual domains beyond the veil of the Land of the Dead). Potentially, this is basically just stolen from the [[Elder Folk]] and is a human conception of the Embodied Gods. Metaphysically, this is a massive shift and leads to a number of important developments in religious history. 
 
 %%See: [[2025-01-22 - Homes of Incorporeal Gods]] for some discussion / possible revision on this point %%
 
