@@ -17,7 +17,7 @@ dm_notes: none
 
 The Iron Fang are a [[Hobgoblins|hobgoblin]] clan and army associated with the wars after the [[Great War]]. They led much of the [[Bloodlust Wars]] against [[Sembara]] in DR 1547-1549, advanced at least as far north as [[Valarin]], and were later pushed back deep into the [[Plaguelands]].
 
-In DR 1749, an Iron Fang army emerged from the Plaguelands under the [[Empress of Chaos]], carrying [[Chaos Metal]] engines and armor toward the [[Aurbez Plateau]]. The host sought to strike the [[Heartroot]], but was defeated at the [[Battle of Heartroot Vale]] by the [[Refounded Alliance of Aurbez]] and the [[Dunmar Fellowship]].
+In DR 1749, an Iron Fang army emerged from the Plaguelands under the [[Empress of Chaos]], carrying [[Things/Materials/Chaos Metal]] engines and armor toward the [[Aurbez Plateau]]. The host sought to strike the [[Heartroot]], but was defeated at the [[Battle of Heartroot Vale]] by the [[Refounded Alliance of Aurbez]] and the [[Dunmar Fellowship]].
 
 ## Facts/questions about this thing
 - Fact: [[Bloodlust Wars]] identifies the Iron Fang as the main hobgoblin force behind those post-Great War raids against [[Sembara]].
