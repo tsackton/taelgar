@@ -15,5 +15,5 @@ Chironides the Wanderer was a centaur philosopher whose argument about the origi
 - Chironides argued that humans who preached hellfire and damnation unwittingly shaped the [[Abyss]] out of [[Soulstuff]].
 - The same passage says the nightmares of humanity now sustain and strengthen the Abyss.
 - Source: [[The Riven Veil]].
-- Marcion of Iridel drew on Chironides's argument in [[The Riven Veil]].
+- [[Marcion of Iridel]] drew on Chironides's argument in [[The Riven Veil]].
 %%
