@@ -96,12 +96,9 @@ With [[Menestheus]], the party presses onward to the [[27th House]] whose entry 
 - [[Lord Endless Ending]] (they/them, fae): fey lord and host of the ending party, bound to send mortal guests toward the [[27th House|neighbor's house]] when the clock strikes zero.
 - [[Menestheus]] (he/him, Drankorian human): displaced Drankorian scholar and guide from Thalestria's entourage.
 - [[Endlessly Ending's Butler]] (he/him, humanoid badger): anxious attendant to [[Lord Endless Ending]].
-- road guards: doglike keepers of the road outside [[Lord Endless Ending's Manor|Lord Endless Ending's manor]].
-- unnamed human woman: mortal guest sent away when the clock strikes zero.
 - [[Lord Holda]] (he/him, Sembaran human): party's employer at [[Dandelion House]].
 - [[Rakshasa]] (he/him, tiger-headed mortal): tiger-headed guest and informant from the prior session.
-- unnamed wizard neighbor: mortal wizard who tricked [[Lord Endless Ending]] into the sending bargain.
-- [[Thalestria]] (she/her, Drankorian human): Menestheus's master and head of [[Arithrimos Lamperum]].
+- [[Thalestria]] (she/her, Drankorian human): [[Menestheus|Menestheus's]] master, head of [[Arithrimos Lamperum]], and the wizard who tricked [[Lord Endless Ending]] into the sending bargain.
 
 ## Places
 

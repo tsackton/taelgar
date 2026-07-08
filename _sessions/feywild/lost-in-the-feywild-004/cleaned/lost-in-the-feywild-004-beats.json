@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-session.yaml",
+  "beats": [
+    {
+      "beatId": "b001",
+      "title": "At the 27th Door",
+      "startUid": "u0001",
+      "endUid": "u0392",
+      "lineCount": 392,
+      "dateStart": "1740-10-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Session recap and outside-the-door setup end when Menestheus opens the door and the party crosses into the 27th Room.",
+      "dateEvidence": [
+        "Session metadata sets drStart to 1740-10-05.",
+        "The recap places the party at the door in the evening shadow before entering."
+      ]
+    },
+    {
+      "beatId": "b002",
+      "title": "First Rooms",
+      "startUid": "u0393",
+      "endUid": "u0649",
+      "lineCount": 257,
+      "dateStart": "1740-10-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party explores the entry room, chapel, and first door-routing clues until climbing to a new room that is not the one they expected.",
+      "dateEvidence": [
+        "This beat continues immediately after entering the 27th Room on 1740-10-05.",
+        "No rest or day transition occurs before this boundary."
+      ]
+    },
+    {
+      "beatId": "b003",
+      "title": "The First Journal",
+      "startUid": "u0650",
+      "endUid": "u0928",
+      "lineCount": 279,
+      "dateStart": "1740-10-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "A second mechanical room introduces the iron window, journal, automatic writing, and cold-iron theories, ending when the party chooses room 16.",
+      "dateEvidence": [
+        "This beat continues the uninterrupted evening exploration.",
+        "No long rest or other date-changing event occurs in this range."
+      ]
+    },
+    {
+      "beatId": "b004",
+      "title": "Mapping to Rest",
+      "startUid": "u0929",
+      "endUid": "u1403",
+      "lineCount": 475,
+      "dateStart": "1740-10-05",
+      "dateEnd": "1740-10-06",
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party tests room connections through several numbered rooms, returns to the chapel, and ends the sequence by taking a long rest.",
+      "dateEvidence": [
+        "This beat continues the same evening exploration sequence on 1740-10-05.",
+        "The party explicitly returns to the chapel and decides to rest for 8 hours.",
+        "The DM calls for a long rest before the next beat resumes at the end of it."
+      ]
+    },
+    {
+      "beatId": "b005",
+      "title": "Pattern and Dreamer",
+      "startUid": "u1404",
+      "endUid": "u1640",
+      "lineCount": 237,
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "At the end of the long rest, Menestheus identifies a room-rotation pattern, then room 15 reveals a second mechanical-room window and the Dreamer notebook.",
+      "dateEvidence": [
+        "This beat begins explicitly at the end of the long rest.",
+        "The session metadata end date and long-rest transition support 1740-10-06."
+      ]
+    },
+    {
+      "beatId": "b006",
+      "title": "Kalepsis and the Key",
+      "startUid": "u1641",
+      "endUid": "u2109",
+      "lineCount": 469,
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party enters room 18, meets Kalepsis, learns about the prison, infection, room rotation, and the glass key, and the in-character scene closes before the table calls the session.",
+      "dateEvidence": [
+        "This beat continues directly after the post-rest morning exploration.",
+        "No additional rest or date transition occurs before the end of the in-character scene."
+      ]
+    },
+    {
+      "beatId": "b007",
+      "title": "Postgame Maze Debrief",
+      "startUid": "u2110",
+      "endUid": "u2542",
+      "lineCount": 433,
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The session shifts from play into an out-of-character decision to stop, followed by discussion of the rotating-room puzzle, mapping clues, and next-session recap needs.",
+      "dateEvidence": [
+        "This beat follows the same session night after the long-rest transition to 1740-10-06.",
+        "The content is out-of-character debrief rather than a new in-world day."
+      ]
+    }
+  ]
+}
