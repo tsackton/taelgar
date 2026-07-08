@@ -1,0 +1,429 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-beats.json",
+  "facts": [
+    {
+      "beatId": "b001",
+      "dateStart": "1740-10-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The party recaps the bargain with Lord Endless Ending, resets their situation at the door to the 27th Room, and follows Menestheus inside.",
+      "longSummary": "The session opens with a recap of Holda's commission, Dandelion House, the Feywild party, Lord Endless Ending's bargain, and Menestheus's role in Arithrimos Lamperum. At the Lone Door, the party reviews what they know about the glass key, the cold-iron 27th Room, and the uncertain route home, then describes their readiness and doubts. Menestheus, resigned and still reeling from the time jump, opens the door and steps across the threshold, with Edric and Tarek following.",
+      "location": {
+        "kind": "fixed",
+        "primary": "The Lone Door",
+        "context": "western promontory and doorframe outside the 27th Room",
+        "notes": "The beat is mostly recap and character reset before Menestheus opens the door and the party steps inside."
+      },
+      "npcs": [
+        {
+          "name": "Menestheus",
+          "role": "companion",
+          "context": "Arithrimos Lamperum mathematician and mapmaker",
+          "notes": "He was sent through the door after being stranded at Lord Endless Ending's party for roughly 700 years."
+        },
+        {
+          "name": "Lord Endless Ending",
+          "role": "mentioned",
+          "context": "Fey lord tied to the bargain",
+          "notes": "He offered to undo the bargain if the party brings him the glass key from the 27th Room."
+        },
+        {
+          "name": "Holda",
+          "role": "mentioned",
+          "context": "original employer",
+          "notes": "His betrayal leaves the party unsure whether they still want his interests served."
+        },
+        {
+          "name": "Thalestria",
+          "role": "mentioned",
+          "context": "head of Arithrimos Lamperum",
+          "notes": "The recap identifies her as the one who tricked Lord Endless Ending into the bargain."
+        },
+        {
+          "name": "Rakshasa",
+          "role": "mentioned",
+          "context": "party guest",
+          "notes": "Previously helped explain how the bargain came to be."
+        }
+      ],
+      "items": [
+        {
+          "name": "glass key",
+          "role": "mentioned",
+          "notes": "Lord Endless Ending believes breaking it will undo the bargain."
+        },
+        {
+          "name": "cold-iron 27th Room",
+          "role": "mentioned",
+          "notes": "Described as the room at the center of the house, older than twilight and locked with the glass key."
+        },
+        {
+          "name": "grandfather clock",
+          "role": "mentioned",
+          "notes": "The clock at Lord Endless Ending's party marks when a mortal is sent through the door."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Arithrimos Lamperum",
+          "role": "mentioned",
+          "notes": "The order connected to Menestheus, Thalestria, and the work around holes between planes."
+        },
+        {
+          "name": "Drankorian Empire",
+          "role": "mentioned",
+          "notes": "Dandelion House and the 27th Room complex are framed as relics of the old empire."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b002",
+      "dateStart": "1740-10-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Inside the 27th Room, the party explores the damaged entry room and chapel, then discovers that backtracking does not return them to the room they left.",
+      "longSummary": "The party enters a damaged room with smashed furnishings, an occupancy counter, a torn tapestry, humming machinery, and four numbered exits that only open when the whole group passes through together. They choose room 22, a Drankorian chapel with recognizable altars to the Mos Numena and a disturbing carved niche in the rear wall. Edric finds the Night Queen's altar still consecrated, Tarek briefly sticks his hand into the niche and recoils, and the party notes the contrast between the wrecked entry room and the untouched chapel. When they try to go back up toward the entry room, they instead arrive somewhere new.",
+      "location": {
+        "kind": "fixed",
+        "primary": "27th Room",
+        "context": "entry room, chapel 22, and the unexpected arrival in mechanical room 17",
+        "notes": "The party learns that numbered exits are not simple reversible passages."
+      },
+      "npcs": [
+        {
+          "name": "Menestheus",
+          "role": "companion",
+          "context": "guide by association rather than expertise",
+          "notes": "He knows the order and the exterior mission but admits he does not know the house's interior."
+        }
+      ],
+      "items": [
+        {
+          "name": "occupancy counter",
+          "role": "encountered",
+          "notes": "A smashed flippy-number counter in the entry room appears to have tracked occupants."
+        },
+        {
+          "name": "numbered exit doors",
+          "role": "encountered",
+          "notes": "Each exit has a room number and unlocks only after the whole group enters the corridor."
+        },
+        {
+          "name": "empty chapel niche",
+          "role": "encountered",
+          "notes": "A deliberately carved, nauseating niche in the chapel wall affects Tarek when he touches it."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Mos Numena",
+          "role": "encountered",
+          "notes": "The chapel is built around the Eight Divines in older Drankorian style."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b003",
+      "dateStart": "1740-10-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "A mechanical room reveals an iron-window listening station and a journal recording a strange speaker growing from lonely childlike thoughts into something that becomes houses.",
+      "longSummary": "The party arrives in a machinery-packed room with a two-foot iron window, a desk, and a journal of dated transcriptions. The journal records a speaker learning words, time, eating, drinking, sunset, stars, cold iron, books, roots, leaves, mushrooms, houses, roads, and doors, then feeling abandoned by a teacher and finally describing itself as grown, tall, and becoming houses through trees, roots, leaves, and mushrooms. The party infers that the teacher may be Lord Endless Ending and that the speaker may be the prisoner or house-being; Kaito sits at the desk and briefly hears whispers while writing fragments, and Ayveen confirms with an Arcana check that iron can matter to some fey or other non-material creatures. The beat ends with the party testing the room labels and choosing room 16.",
+      "location": {
+        "kind": "fixed",
+        "primary": "27th Room",
+        "context": "mechanical room 17, at an iron-window transcription station",
+        "notes": "The party spends most of the beat around the iron window, desk, and journal."
+      },
+      "npcs": [
+        {
+          "name": "Menestheus",
+          "role": "companion",
+          "context": "order member identifying names in the journal",
+          "notes": "He recognizes some transcribers as members of Arithrimos Lamperum who left him at the party."
+        },
+        {
+          "name": "unnamed speaker at the iron window",
+          "role": "mentioned",
+          "context": "voice recorded in the journal",
+          "notes": "The speaker is not named in this beat; the party suspects it is connected to the house or prisoner."
+        },
+        {
+          "name": "Lord Endless Ending",
+          "role": "mentioned",
+          "context": "possible teacher in the journal",
+          "notes": "Kaito suggests the teacher may be Lord Endless Ending."
+        }
+      ],
+      "items": [
+        {
+          "name": "first transcription journal",
+          "role": "encountered",
+          "notes": "Contains dated entries from multiple listeners recording the voice beyond the iron window."
+        },
+        {
+          "name": "iron window",
+          "role": "encountered",
+          "notes": "A runed iron surface sits behind a thick wall and transmits faint whispers to a listener at the desk."
+        },
+        {
+          "name": "cold iron",
+          "role": "mentioned",
+          "notes": "The party discusses whether iron might be dangerous to some fey or other extraplanar beings."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Arithrimos Lamperum",
+          "role": "mentioned",
+          "notes": "Several journal transcribers are recognized as order members."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b004",
+      "dateStart": "1740-10-05",
+      "dateEnd": "1740-10-06",
+      "timeWindow": null,
+      "shortSummary": "The party tests the changing room network through kitchens, a mortuary, dormitories, mechanical rooms, a solarium, baths, and a false room 27 before returning to the chapel for a long rest.",
+      "longSummary": "The party enters room 16, a kitchen and dining room, and starts tracking how repeated room numbers fail to connect back in ordinary ways. They move through a mortuary with dissected bodies, an ossuary, and a corpse covered in white mold; sleeping quarters; a revisited mechanical room whose window and exits have shifted; a meeting room; the chapel again; a solarium that steadies Txarro; a bathhouse; and a disappointing labeled room 27 that is only a storeroom. The group concludes that trying rooms at random or visiting as many new numbers as possible may be more useful than mapping every connection. Ayveen proposes sitting still instead of chasing the maze, and the party returns to the chapel, where Menestheus works on the numbers while the party takes a long rest under the growing discomfort of the empty niche.",
+      "location": {
+        "kind": "fixed",
+        "primary": "27th Room",
+        "context": "room-mapping circuit through kitchen 16, mortuary 7, sleeping quarters 20, mechanical room 17, meeting room 25, chapel 22, solarium 19, bathhouse 24, storeroom 27, and chapel 22",
+        "notes": "The beat ends with the party taking a long rest in the chapel."
+      },
+      "npcs": [
+        {
+          "name": "Menestheus",
+          "role": "companion",
+          "context": "mathematician tracking room data",
+          "notes": "He cannot yet find the pattern but keeps working through the numbers during the rest."
+        }
+      ],
+      "items": [
+        {
+          "name": "white-fiber corpse",
+          "role": "encountered",
+          "notes": "A body in the mortuary is covered with short white mold-like fibers growing from its skin."
+        },
+        {
+          "name": "mortuary incinerator",
+          "role": "encountered",
+          "notes": "A magical incinerator stands in the mortuary near dissected bodies and an ossuary."
+        },
+        {
+          "name": "false room 27 storeroom",
+          "role": "encountered",
+          "notes": "The room labeled 27 contains lumber, soil, tools, and other storage rather than the expected cold-iron prison."
+        },
+        {
+          "name": "empty chapel niche",
+          "role": "encountered",
+          "notes": "Its sense of hollowness and despair spreads through the chapel during the long rest."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b005",
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "After the long rest, Menestheus forms a theory of the room rotations, and the party finds the Dreamer notebook in another mechanical listening room.",
+      "longSummary": "At the end of the long rest, Menestheus says the rooms behind the party are moving and that repeated back-and-forth travel should eventually bring the same options around again; he thinks the configuration is static even though the numbers change. The party chooses room 15, another mechanical room with a different window, desk, and notebook titled The Dreamer. Its entries describe mortals as dreaming souls, wanting as something readable, and the speaker seeing the shape of possibility; Menestheus connects this phrase to his book, The Shape of Possibility, and is disturbed when he hears the whisper recognize that he is listening. He records a new entry in the notebook, notices the previous entry dates to the morning he and the order went to the party, and the party reasons that Thalestria may have intentionally changed the house's purpose when she made the bargain.",
+      "location": {
+        "kind": "fixed",
+        "primary": "27th Room",
+        "context": "chapel 22, mechanical room 15 listening station, and room 23 after the Dreamer notebook",
+        "notes": "Most of the beat takes place in room 15 at the second listening station."
+      },
+      "npcs": [
+        {
+          "name": "Menestheus",
+          "role": "companion",
+          "context": "mathematician and listener",
+          "notes": "He identifies the rotation pattern, recognizes The Shape of Possibility, hears the whisper, and records a current-date entry."
+        },
+        {
+          "name": "the Dreamer",
+          "role": "mentioned",
+          "context": "speaker in the second notebook",
+          "notes": "The notebook presents this voice as able to read mortal wanting and see the shape of possibility."
+        },
+        {
+          "name": "Thalestria",
+          "role": "mentioned",
+          "context": "former head of the order",
+          "notes": "The party discusses whether she intentionally changed the house's purpose when she made the bargain."
+        }
+      ],
+      "items": [
+        {
+          "name": "Dreamer notebook",
+          "role": "encountered",
+          "notes": "A second listening notebook with entries about mortals, souls, wanting, and the shape of possibility."
+        },
+        {
+          "name": "The Shape of Possibility",
+          "role": "encountered",
+          "notes": "Menestheus's book describes mathematically modeling every possible future."
+        },
+        {
+          "name": "second iron window",
+          "role": "encountered",
+          "notes": "A different listening window looks into a wooden wall and transmits the whisper to Menestheus."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Arithrimos Lamperum",
+          "role": "mentioned",
+          "notes": "The dated notebooks suggest the order was staffing listening shifts before the party."
+        },
+        {
+          "name": "Drankorian Empire",
+          "role": "mentioned",
+          "notes": "Menestheus recalls Thalestria's urgency as the empire was coming apart."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b006",
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party meets Kalepsis in a fungal greenhouse and learns that the 27th Room is a moving prison-machine threatened by infection and controlled by a glass key.",
+      "longSummary": "The party enters room 18, a fungal greenhouse and lab full of terraria, strange helpers, and a body under construction, and meets Kalepsis, an ancient dwarven gardener who claims to have become head of Arithrimos Lamperum after Thalestria's death or disappearance. Kalepsis explains that the house is a prison built around a locked central room whose surrounding wheels move it through space and time so whatever is inside cannot grow out through the wall. She says other rooms became infected, that white fibers colonize flesh before turning victims into aggressive mouth-chested creatures, and that she is using fungal cultures and a golem body so she can leave safely and rebuild the order. She also says the head of the order can open the front door, listeners claimed there is another door inside the 27th Room, the prisoner may be a child kept from growing up or dying, and a glass key can unlock all locked doors including the front door.",
+      "location": {
+        "kind": "fixed",
+        "primary": "27th Room",
+        "context": "room 18, Kalepsis's fungal greenhouse and laboratory",
+        "notes": "The whole in-character conversation takes place in Kalepsis's protected workroom."
+      },
+      "npcs": [
+        {
+          "name": "Kalepsis",
+          "role": "encountered",
+          "context": "ancient dwarven gardener and self-described head of the order",
+          "notes": "She is building a fungal golem body to house herself so she can leave the infected complex."
+        },
+        {
+          "name": "Menestheus",
+          "role": "companion",
+          "context": "order member present for Kalepsis's revelations",
+          "notes": "Kalepsis teases him for not solving the room rotation."
+        },
+        {
+          "name": "Thalestria",
+          "role": "mentioned",
+          "context": "former head of the order",
+          "notes": "Kalepsis says Thalestria left with most of the order, did not tell her who the prisoner was, and may have carried the glass key."
+        },
+        {
+          "name": "the prisoner",
+          "role": "mentioned",
+          "context": "being in the locked central room",
+          "notes": "Kalepsis only knows listeners claimed the prisoner may be a child who was not allowed to grow up or die."
+        }
+      ],
+      "items": [
+        {
+          "name": "fungal golem body",
+          "role": "encountered",
+          "notes": "Kalepsis is constructing it as a new body that can survive outside the infected room."
+        },
+        {
+          "name": "white-fiber infection",
+          "role": "encountered",
+          "notes": "Kalepsis describes it as a flesh-colonizing fungus that can eventually produce dangerous infected bodies."
+        },
+        {
+          "name": "glass key",
+          "role": "mentioned",
+          "notes": "Kalepsis says it can unlock all locked doors in the house, including the front door."
+        },
+        {
+          "name": "mantel clocks",
+          "role": "mentioned",
+          "notes": "Kalepsis wants one as evidence that 700 years have passed."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Arithrimos Lamperum",
+          "role": "encountered",
+          "notes": "Kalepsis claims the order continues through her and Menestheus and intends to rebuild it."
+        },
+        {
+          "name": "Drankorian Empire",
+          "role": "mentioned",
+          "notes": "Kalepsis discusses political pressure from the empire and Thalestria's response to it."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b007",
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "After stopping play, the table discusses the Rubik's-cube room structure, puzzle expectations, and what needs to be recapped next session.",
+      "longSummary": "The group calls the session because several players are tired, then continues out of character to clarify the rotating-room structure. They compare the house to a Rubik's Cube or three-layer cake, discuss how repeated travel between rooms can rotate slices until an entry or exit room comes around, and conclude Menestheus can help handle navigation next time. The table then debriefs the design experience: the numbered-room maze encouraged wayfinding even though it was meant to feel like an unsolvable labyrinth, the room contents sometimes pulled attention away from the spatial puzzle, and clearer cues might have helped. The final recap for sleepers notes that the party met an old dwarf, learned about the mold infection and mouth-chested infected bodies, still has not solved how to leave, and will need a recap next week.",
+      "location": {
+        "kind": "fixed",
+        "primary": "27th Room",
+        "context": "out-of-character debrief after the party stops in Kalepsis's room",
+        "notes": "The beat is table discussion rather than new in-world action."
+      },
+      "npcs": [
+        {
+          "name": "Kalepsis",
+          "role": "mentioned",
+          "context": "session recap subject",
+          "notes": "The table summarizes her as the old dwarf who explained the mold infection and other lore."
+        },
+        {
+          "name": "Menestheus",
+          "role": "mentioned",
+          "context": "future navigation aid",
+          "notes": "The table notes the party has a mapmaking mathematician who can help with the rotating-room navigation."
+        }
+      ],
+      "items": [
+        {
+          "name": "rotating-room cube",
+          "role": "mentioned",
+          "notes": "The table discusses the house as a Rubik's-cube-like structure with rotating slices."
+        },
+        {
+          "name": "white-fiber infection",
+          "role": "mentioned",
+          "notes": "The recap highlights the mold infection and infected bodies with mouths in their chests."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

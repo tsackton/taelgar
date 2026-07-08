@@ -15,4 +15,4 @@ dm_notes: important
 > A [[Drankorian Empire|Drankorian]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-Thalestria is a Drankorian wizard, [[Menestheus|Menestheus's]] master, and the head of the [[Arithrimos Lamperum]].
+Thalestria is a Drankorian wizard, [[Menestheus|Menestheus's]] master, and the head of the [[Arithrimos Lamperum]]. She tricked [[Lord Endless Ending]] into the sending bargain that binds the Lord to send mortal guests toward the [[27th House]] when the clock strikes zero.
