@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 excludePublish: ["all"]
 sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-session.yaml"
 ---
@@ -66,11 +67,11 @@ Kaito Min, Edric, Tarek, Ayveen, Txarro
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_end -->
-1740-10-03
+1740-10-05
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_range_inline -->
-(DR:: 1740-10-03)
+(DR:: 1740-10-03) - (DR_end:: 1740-10-05)
 <!-- /SLOT -->
 
 <!-- SLOT: session.real_date -->
