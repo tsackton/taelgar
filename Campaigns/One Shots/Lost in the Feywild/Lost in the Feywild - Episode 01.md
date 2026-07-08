@@ -5,7 +5,7 @@ campaign: Lost in the Feywild
 sessionNumber: 1
 realWorldDate: 2026-05-14
 DR: 1740-10-03
-DR_end: 1740-10-03
+DR_end: 1740-10-05
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
 name: "Lost in the Feywild: Episode 01"
 descTitle: Welcome to Dandelion House
@@ -18,7 +18,7 @@ websiteSessionView: zoomable
 
 >[!info] Welcome to Dandelion House: in which the party enters a mysterious tunnel
 > *Featuring: [[Kaito Min]], [[Edric]], [[Tarek]], [[Ayveen]], [[Txarro]]*
-> *In Taelgar: (DR:: 1740-10-03)*
+> *In Taelgar: (DR:: 1740-10-03) - (DR_end:: 1740-10-05)*
 > *On Earth: Thursday, May 14, 2026*
 > *[[Varrow Forest]] and [[Dandelion House]]*
 
