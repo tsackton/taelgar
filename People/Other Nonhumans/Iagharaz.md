@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
+tags: [person]
 name: Iagharaz
 pronunciation: aya-gar-az
 species: dragon
@@ -10,7 +10,7 @@ displayDefaults: {endStatus: killed}
 whereabouts:
 - {type: home, location: Sulqat, alias: headwaters of the Sulqat, end: 1709}
 dm_owner: none
-dm_notes: color
+dm_notes: none
 ---
 # Iagharaz
 *(aya-gar-az)*
