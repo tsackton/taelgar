@@ -1,0 +1,46 @@
+schemaVersion: '1.0'
+sourceType: transcript
+scope: session
+campaign: Lost in the Feywild
+sessionNumber: 4
+realWorldDate: 2026-07-06
+drStart: 1740-10-05
+drEnd: 1740-10-06
+drStartTime: null
+drEndTime: null
+participants:
+- name: David Kong
+  gameRole: Kaito Min
+  transcriptIdentifiers:
+  - David S. Kong
+- name: Mike Sackton
+  gameRole: Edric
+  transcriptIdentifiers:
+  - Mike
+  - Mike Sackton
+- name: Eric Rosenbaum
+  gameRole: Tarek
+  transcriptIdentifiers:
+  - Eric R
+  - Eric Rosenbaum
+- name: Kate Sackton
+  gameRole: Ayveen
+  transcriptIdentifiers:
+  - Kate Sackton
+- name: David Schwartz
+  gameRole: DM
+  transcriptIdentifiers:
+  - Audio shared by David S. Kong
+  - Rev. David Schwartz (he/him)
+- name: Tim Sackton
+  gameRole: Txarro
+  transcriptIdentifiers:
+  - Tim Sackton
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-004/sources/GMT20260707-005719_Recording.transcript.vtt
+sourceAudioPath: /Users/tim/Documents/RPGs/sessions/recordings/feywild/session-4/GMT20260707-005719_Recording.m4a
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-004/sources/feywild-ep04-source-prep.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-004/sources/feywild-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-source-prepared.md
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-004/sources/feywild-ep04-speaker-mappings.json
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-speaker-stats.json
