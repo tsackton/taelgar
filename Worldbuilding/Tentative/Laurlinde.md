@@ -1,0 +1,1 @@
+A bard described in the elven epic [[Light of the Everglade]]. Might not be a real person. 
