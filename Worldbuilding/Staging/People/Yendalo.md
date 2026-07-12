@@ -8,7 +8,7 @@ dm_notes: color
 ---
 # Yendalo
 
-Yendalo was a Stoneborn metaphysicist whose teachings became the basis of [[Yendalism]]. He rejected parts of the [[Standard Multiversal Model]] and divided the planes into [[Inner Realms]] and [[Outer Realms]] according to their relationship to the [[Land of the Dead]], which Yendalists call the Divine Veil.
+Yendalo was a Stoneborn metaphysicist and mystic whose teachings became the basis of [[Yendalism]]. He rejected parts of the [[Standard Multiversal Model]] and divided the planes into [[Inner Realms]] and [[Outer Realms]] according to their relationship to the [[Land of the Dead]], which Yendalists call the Divine Veil.
 
 Yendalo's best-attested work is [[On the Power of Creation]], which argues that the Land of the Dead shields the Inner Realms from the full force of the [[Plane of Creation]].
 
