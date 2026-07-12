@@ -25,3 +25,4 @@ The Caloren family is one of the four oligarch families that control the [[Polit
 Generally indifferent, rather than actively hostile, to the plight of their workers. 
 
 %%
+
