@@ -21,3 +21,4 @@ dm_owner: tim
 The Caloren family is one of the four oligarch families that control the [[Politics of Chalyte (Chardonian Empire)|Chardonian chalyte trade]]. Historically, the Caloren family has been a minor player in the chalyte trade, controlling maybe 15% of the profits and serving as a close ally and partner to the [[Auratan Family]]. More recently, they have drifted apart as the Caloren family, driven by a desire to increase profits at any cost, chafes at always playing second fiddle to the more famous and powerful Auratan clan.
 
 %%SECRET[v2:7b32cb1544058eaee55eed2fa55cd31e]%%
+

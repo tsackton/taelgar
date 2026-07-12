@@ -21,3 +21,5 @@ Heloise also popularized a folk theory that [[Arborea]] arises from the fundamen
 - She popularized the idea that Arborea arises from the fundamental desire of all creation to live.
 - That theory treats Arborea as reflecting life essence embedded within all Soulstuff.
 %%
+
+
