@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [event]
-displayDefaults: { dPastHasStart: "Began on <startdate>, ended on <enddate>" }
+displayDefaults: {dPastHasStart: Began on <startdate>, ended on <enddate>}
 name: Chardon-Dunmar War
 typeOf: war
 DR: 1747-05-28
