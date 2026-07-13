@@ -4,26 +4,27 @@ tags: [event, status/check/ai]
 name: Lizardfolk Village Disappearances
 typeOf: disappearances
 DR: 1737
-DR_end: 1752-06-29
-whereabouts: Northwest Coast
+DR_end: 1748-09-20
 dm_owner: none
 dm_notes: none
 ---
-# Lizardfolk Village Disappearances
+# The Lizardfolk Village Disappearances
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 
-The Lizardfolk Village Disappearances were a series of vanishings among lizardfolk villages along the northwest coast and nearby river regions, beginning with [[Samso]]'s home village of [[Urkabi]] in DR 1737 and later striking additional settlements west of [[Voltara]], near [[Lake Valandros]], and in the wider Apporian and Kedron-region context. The disappearances were marked by empty villages, damaged local ecosystems, shadow-tainted creatures, and a recurring green sigil later linked to the [[Shemra Azem]], the [[Cleaver-Stone]], and [[Cairn Dor]].
+The Lizardfolk Village Disappearances describe a series of vanishings among lizardfolk villages along the coast from [[Apporia]] to the [[Fiatara Mountains]], beginning in the DR 1730s, and continuing until the [[Silver Tempests]] destroyed the connection between [[Cairn Dor]] and the [[Material Plane]] in the fall of DR 1748. 
 
-The active raids appear to have been stopped or severely disrupted when the [[Silver Tempests]] shut down the Cleaver-Stone machinery on DR 1748-09-20. The trapped lizardfolk and other dreamers were not rescued until the party returned from Cairn Dor on DR 1752-06-29.
-
-%% AI note: This note expands an existing AI-generated summary with additional session and DM-note material. It uses current Arc 5 names and locations, but preserves conflicts with older notes below. %%
+Over the course of more than a decade, the inhabitants of dozens of small lizardfolk villages seemed to vanish, leaving behind empty houses and a strange green sigil later known as the [[Cairn Dor Sigil]]. Often, though not always, these disappearances were accompanied by disturbances to the local ecosystem or strange shadow-tainted creatures. 
 
 ## First Known Disappearance: Urkabi
 
-Samso was born in Urkabi, a lizardfolk village on the [[Zurrua]] in [[Apporia]]. In DR 1737, he returned home and found the village empty. The trees showed black rot, nearby streams were polluted, and a green sigil was fading at the site. Samso healed what he could of the damaged ecosystem, but he could not hear the ancestors and found no living villagers.
+The first well-known disappearance was the village of [[Urkabi]], famous as the birthplace of [[Samso]] of the [[Silver Tempests]], one of the heroes who defeated [[Yeshara]] and quieted [[Cairn Dor]], and the only survivor of the attack on [[Urkabi]]. In DR 1737, Samso returned home from a journey to find his village empty. The trees showed black rot, nearby streams were polluted, and a green sigil was fading at the site. 
 
-Urkabi established the pattern later seen elsewhere: the people vanished, the local environment was harmed, and the sigil remained as a magical trace. At the time, Samso had no explanation. His later story and the Silver Tempests' investigation eventually tied the event to raids for sleeping or dreaming captives.
+Urkabi established the pattern later seen elsewhere: the people vanished, the local environment was harmed, and the sigil remained as a magical trace. At the time, Samso had no explanation. 
 
-## Voltara-Area Disappearance
+---
+ 
+## Later Disappearances
 
 On DR 1747-06-22, [[Iara]] approached Samso in Voltara and asked for help. A lizardfolk village west of Voltara had disappeared in a way that resembled Urkabi. On DR 1747-06-26, the party reached the empty village and encountered shadowy evil echoes of lizardfolk. They killed the leading creature but did not learn the underlying cause.
 
@@ -85,4 +86,4 @@ This mechanism explains the recurring elements: empty settlements, dream-linked 
 - [[Great Library Session Notes - Arc 1]]: Iara's request, the Voltara-area vanished village, and shadow lizard echoes.
 - [[Great Library Session Notes - Arc 5]]: Urkabi, Castrella, Cleaver-Stone, Cairn Dor, Yeshara, the rescued dreamers, and the 1752 return.
 - [[Session 63 Background]]: DM-facing history of Cairn Dor, Yeshara, the soul compass, dreamers, and raid logic.
-- [[Cairn Dor]], [[Things/Magic Items/Cairn Dor Sigil]], [[Samso]], [[Iara]], and [[Letter from Chardon for Samso on the Umbral Covenant]].
+- [[Cairn Dor]], [[Cairn Dor Sigil]], [[Samso]], [[Iara]], and [[Letter from Chardon for Samso on the Umbral Covenant]].
