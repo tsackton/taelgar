@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/check/ai]
+tags: [event]
 name: Lizardfolk Village Disappearances
 typeOf: disappearances
 DR: 1737
@@ -22,11 +22,11 @@ The first well-known disappearance was the village of [[Urkabi]], famous as the 
 
 Urkabi established the pattern later seen elsewhere: the people vanished, the local environment was harmed, and the sigil remained as a magical trace. At the time, Samso had no explanation. 
 
----
- 
 ## Later Disappearances
 
-Similar disappearances continued across the region during the following decade. By DR 1747, abandoned villages had been found west of [[Voltara]] and near [[Lake Valandros]]. Although accounts varied, many described the same green sigil, damage to the surrounding land, and, in some cases, shadow-tainted creatures resembling the missing inhabitants. These common features led the disappearances to be recognized as a single phenomenon rather than a series of isolated events.
+Similar disappearances continued across the broad region during the following decade. By DR 1747, abandoned villages had been found west of [[Voltara]] and near [[Lake Valandros]]. Although accounts varied, many described the same green sigil, damage to the surrounding land, and, in some cases, shadow-tainted creatures resembling the missing inhabitants. These common features led the disappearances to be recognized as a single phenomenon rather than a series of isolated events.
+
+In DR 1746 and DR 1747, reports of a strange sleeping sickness in the [[Kedron]] valley began to spread, connected to disappearances of others in the same household where the sleeping sickness took hold. This was later established to reflect a new phase of kidnappings, expanding beyond the original [[Lizardfolk]] targets. 
 
 ## Cause and Resolution
 
@@ -45,13 +45,10 @@ On September 20th, 1748, the [[Silver Tempests]] severed the connection between 
 - Closing the Cleaver-Stone connection stopped the raids but did not release captives already held in Cairn Dor. They were freed only after Yeshara's defeat.
 - The broader background connects Yeshara and Cairn Dor to the [[Yo'nari]], the [[War of the Severed Dreams]], the [[War of the Dark Rift]], and the [[Umbral Covenant]], but the surviving folk histories and official accounts do not agree on the precise chronology.
 
-### Open questions and source conflicts
+### Open questions 
 
-- Older material calls Samso's home Yeraad or places it elsewhere; current Arc 5 material identifies it as Urkabi on the [[Zurrua]] in Apporia.
-- Older notes use "Shadowfell," while the current cosmology uses [[Shadowfolds]].
 - The number of affected villages is uncertain. One DM summary gives ten villages and rare survivors; the opening description's "dozens" can be understood as a later historical estimate but is not fixed by the campaign notes.
-- Reports of vanished non-lizardfolk settlements and a sleeping sickness in the Kedron valley may be related, but the connection is not established.
-- Early planning connected the disappearances to the aboleth and the Suwi arc, but the resolved Suwi material does not confirm that connection.
+- Reports of vanished non-lizardfolk settlements and a sleeping sickness in the Kedron valley is be related, but relatively undeveloped
 - The fate of the native inhabitants of Cairn Dor, who remained asleep after the captives departed, is unresolved.
 
 ### Sources
