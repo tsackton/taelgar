@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
+tags: [person]
 dm_owner: none
 dm_notes: none
 ancestry: Chardonian
