@@ -22,6 +22,18 @@ A driftglobe is a magical crystal, usually around 4 inches across, that floats a
 ![[dwarven_driftglobe_1.jpg|right|300]]![[dwarven_driftglobe_2.jpg|left|300]]
 
 
-%%Campaign:DuFr%%
+
+
+
+
+
+
+
+
+
+
+
+
+%%^Campaign:DuFr%%
 The [[Dunmar Fellowship]] found two of these in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near [[Raven's Hold]]. These two were made by the dwarves living near Raven's Hold in the generation before the Great War, and were recovered from that outpost.
 %%^End%%
