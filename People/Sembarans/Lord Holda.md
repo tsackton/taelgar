@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/check/tim]
 name: Holda
 aliases: [Lord Holda]
 title: Lord
@@ -18,6 +18,8 @@ dm_notes: important
 > A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% intended spelling is Hulda; link and fix, and also clean up name to be Hulda and Lord to be title %%
 
 Holda is a scarred, powerfully built man in his mid-to-late forties, with a grizzled gray beard and the wary bearing of an experienced fighter. He spent many years as an adventurer, sellsword, guard, and mercenary around [[Sembara]], [[Tollen]], and the wider [[Green Sea]]. 
 

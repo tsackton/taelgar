@@ -15,9 +15,9 @@
     {
       "blockId": "timeline-001",
       "dateStart": "1740-10-05",
-      "dateEnd": "1740-10-06",
-      "timeWindow": null,
-      "resolution": "date-range",
+      "dateEnd": null,
+      "timeWindow": "evening still",
+      "resolution": "part-of-day",
       "beatIds": [
         "b001",
         "b002",
@@ -315,7 +315,7 @@
       "blockId": "timeline-002",
       "dateStart": "1740-10-06",
       "dateEnd": null,
-      "timeWindow": "morning",
+      "timeWindow": "evening still",
       "resolution": "part-of-day",
       "beatIds": [
         "b005",
