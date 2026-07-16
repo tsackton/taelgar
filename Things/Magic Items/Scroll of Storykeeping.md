@@ -18,7 +18,7 @@ These magical scrolls, produced by the [[Order of the Awakened Soul|Mystai of Bh
 
 With the proper rituals, these stories can be transferred from these scrolls to live indefinitely in places such as the [[Hall of Stories]]. 
 
-%%Campaign:dufr%%
+%%^Campaign:dufr%%
 [[Kenzo]] has recorded 9 stories with these scrolls:
 - [[Kirian's Story]]
 - [[Amar's Story]]

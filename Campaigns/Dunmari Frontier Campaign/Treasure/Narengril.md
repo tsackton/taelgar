@@ -22,7 +22,7 @@ whereabouts:
 
 ![[narengril.png|right|200]]An elven sword, finely made and carved with Elvish script warding against fiends. 
 
-%%Campaign:dufr%%
+%%^Campaign:dufr%%
 Found by the [[Dunmar Fellowship]] in [[Grimbaskal's Hoard]], and now used by [[Delwath]]
 %%^End%%
 

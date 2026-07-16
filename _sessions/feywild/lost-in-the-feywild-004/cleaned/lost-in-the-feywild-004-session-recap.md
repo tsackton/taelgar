@@ -157,7 +157,7 @@ The journal records a strange voice speaking only in the present tense in a seri
 
 	"I am grown. The world is very big. I am tall. I stretch out. My hands are under a very bright and changing sky. My legs are reaching between trees and roots and leaves and mushrooms and becoming houses."
 
-Kaito sits at the desk and briefly hears whispers while writing fragments. Menestheus recognizes some of the transcribers as members of Arithrimos Lamperum, and Ayveen confirms that iron can affect some fey or other non-material beings.
+Kaito sits at the desk and briefly hears whispers while writing fragments. Menestheus, looking at the journal, recognizes some of the transcribers as members of Arithrimos Lamperum.
 
 ### recap-004 | Mapping The House
 
@@ -268,9 +268,9 @@ She also says listeners claimed there is another door inside the 27th Room, the 
 
 - Kallipseis (met): ancient, possibly insane, dwarven wizard, gardener, fungal researcher, and self-described head of Arithrimos Lamperum after the death of Thalestria. Met while in the process of fashioning a fungal golem -- she planned to transfer her soul into it and wear it like a suit. "All progress involves sacrifice."
   - 27th Room, 1740-10-06
-- the Dreamer (mentioned): voice in the second listener notebook, associated with wanting and the shape of possibility
-- unnamed speaker at the iron window (mentioned): voice recorded in the first listener journal, possibly connected to the prisoner or house-being
-- the prisoner (mentioned): being locked inside the central 27th Room, described by listeners as possibly a child kept from growing up or dying
+- The Dreamer (mentioned): voice in the second listener notebook, associated with wanting and the shape of possibility
+- The Child (mentioned): voice recorded in the first listener journal, possibly connected to the prisoner or house-being
+- The Prisoner (mentioned): being locked inside the central 27th Room, described by listeners as possibly a child kept from growing up or dying
 - Menestheus (companion): displaced Drankorian mathematician and mapmaker from Arithrimos Lamperum
   - Feywild promontory, 1740-10-05
   - 27th Room, 1740-10-05 to 1740-10-06

@@ -21,7 +21,19 @@ A common magic item created in large numbers by the Dunmari during the [[Dharaju
 ![[horn-of-warning-1.png|left|300]]![[horn-of-warning-2.png|right|300]]
 
 
-%%Campaign:DuFr%%
+
+
+
+
+
+
+
+
+
+
+
+
+%%^Campaign:DuFr%%
 The [[Dunmar Fellowship]] has found two of these horns.
 
 One, carried by [[Delwath]], [[Session 45 (DuFr)|was taken]] from [[Justan]], a perhaps-reformed Dunmari bandit, after he and his companions were cruelly murdered by [[Casian|dastardly]] [[Kadmos|Chardonians]].

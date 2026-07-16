@@ -17,6 +17,6 @@ whereabouts: Riswynn
 
 ![[shatterstorm.jpg|right|400]]Shatterstorm is a magical dwarven warhammer, enchanted by the Brawnanvils before the [[Great War]], but lost when the dwarves fled [[Raven's Hold]] in the chaos of the [[Great War]]. 
 
-%%Campaign:DuFr%%
+%%^Campaign:DuFr%%
 Recovered by [[Riswynn]] and the [[Dunmar Fellowship]] from the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near Raven's Hold in DR 1748, and now wielded by [[Riswynn]]. 
 %%^End%%
