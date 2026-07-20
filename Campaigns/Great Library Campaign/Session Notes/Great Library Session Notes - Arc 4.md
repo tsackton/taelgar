@@ -125,9 +125,9 @@ Four months later, the [[Silver Tempests]] host a party, a grand opening for [[T
 
 ### Session 61
 
-[[Mabist]] comes knocking on the door of the [[Tempest Towers]]. Both [[Samso]] and [[Adrik]] are a bit suspicious of this armored visitor before we learn [[Dinia]] was captured. We retrieve [[Alton]] from his violent dive bar. In misty forms the party flies to [[Suwi]], a distant village near the coast, where they meet the [[Worldbuilding/Staging/Unnamed/~Suwi Village Priest~|village priest]], and ask about rumors of the [[Havoc Host]], a mercenary group that was involved in kidnapping [[Dinia]]. The priest introduces the party to [[Clara]], a teenaged girl whose brother was kidnapped a few days ago by the [[Havoc Host]], just upriver near a small lake.
+[[Mabist]] comes knocking on the door of the [[Tempest Towers]]. Both [[Samso]] and [[Adrik]] are a bit suspicious of this armored visitor before we learn [[Dinia]] was captured. We retrieve [[Alton]] from his violent dive bar. In misty forms the party flies to [[Suwi]], a distant village near the coast, where they meet the [[Elian of Suwi|village priest]], and ask about rumors of the [[Havoc Host]], a mercenary group that was involved in kidnapping [[Dinia]]. The priest introduces the party to [[Clara]], a teenaged girl whose brother was kidnapped a few days ago by the [[Havoc Host]], just upriver near a small lake.
 
-The next morning the party travels upriver to the [[~North Bay Coast Lake~|lake]]. Finding the logging camp where [[Mikel|Clara’s brother]] was taken, they follow a trail along the lakeshore, coming to a rocky clearing where the ruins of a castle overlook the lake. The party manages to ambush a group of slimy minions, and quickly dispatch them, knocking them out and binding them. 
+The next morning the party travels upriver to the [[Lake Suwi|lake]]. Finding the logging camp where [[Mikel|Clara’s brother]] was taken, they follow a trail along the lakeshore, coming to a rocky clearing where the ruins of a castle overlook the lake. The party manages to ambush a group of slimy minions, and quickly dispatch them, knocking them out and binding them. 
 
 Searching the ruins, [[Samso]] finds a concealed tunnel leading underground. Following the tunnel, the party emerges into the barracks of the [[Havoc Host]]. [[Mabist]] is disguised as a slimy minion; [[Samso]] turns into an earth elemental; and [[Adrik]] busts down the door. A battle ensues, in which the [[Havoc Host]] are soundly beaten. Convinced that [[Mabist]] is one of the [[Ithu’rax]]’s servants, the mercenaries are reluctant to surrender, until [[Mabist]] attempts to surrender himself, convincing them that something strange is going on. At this point, the mercenaries surrender, and are disarmed and convinced to make a better life for themselves opening a franchise of Brelith’s restaurant by [[Adrik]] and [[Mabist]]. 
 
@@ -140,6 +140,6 @@ With the aboleth killed, [[Dinia]] returns to herself, and appoints herself the 
 ### Events
 
 - (DR:: 1748-08-22): [[Mabist]] arrives at the [[Tempest Towers]] with news of [[Dinia]]'s capture.
-- (DR:: 1748-08-23): Arrive at [[Suwi]], meet [[Worldbuilding/Staging/Unnamed/~Suwi Village Priest~|village priest]], speak with [[Clara]] about the [[Havoc Host]]. 
+- (DR:: 1748-08-23): Arrive at [[Suwi]], meet [[Elian of Suwi|village priest]], speak with [[Clara]] about the [[Havoc Host]]. 
 - (DR::1748-08-24): Travel upriver to a small lake. Fight slimy minions, find a secret passage, enter flooded caverns. In the caverns, defeat more slime minions and meet the ghost of [[Milo Kentbrush]]. Confront [[Ithu’rax]] the aboleth, and defeat it, rescuing [[Dinia]]. 
 - (DR:: 1748-08-25): Return to [[Voltara]]. 

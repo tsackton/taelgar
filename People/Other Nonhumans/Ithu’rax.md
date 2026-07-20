@@ -16,7 +16,7 @@ dm_notes: none
 > An [[Aboleths|aboleth]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:GL%% Defeated by the [[Silver Tempests]] on August 24th, 1748 in the [[~North Bay Coast Lake~|flooded caverns near Suwi]] %%^End%%
+>> %%^Campaign:GL%% Defeated by the [[Silver Tempests]] on August 24th, 1748 in the [[Lake Suwi|flooded caverns near Suwi]] %%^End%%
 
 Ithu'rax was an aboleth active in the [[Northwest Coast]] region in the DR 1740s. He made a lair beneath ruined structures near a lake upriver from the village of [[Suwi]], and used the mercanary group the [[Havoc Host]] and psychically controlled servants in a series of kidnappings of unclear purpose. He was killed by the [[Silver Tempests]] in DR 1748. 
 
