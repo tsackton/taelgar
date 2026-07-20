@@ -23,7 +23,7 @@ A Chardonian frontier garrison east of [[Voltara]].
 %%
 ## Campaign Notes (GL Arc 3)
 
-Encountered by the party en route to the [[Sentinel Range]]. The [[Worldbuilding/Staging/Unnamed/~Voltara Garrison 2 Commander~|camp commander]] received reports of orc activity from the party before they turned south to avoid further contact with imperial troops.
+Encountered by the party en route to the [[Sentinel Range]]. The [[Lucilla Varentia|camp commander]] received reports of orc activity from the party before they turned south to avoid further contact with imperial troops.
 
 
 - DR 1747‑11‑18: Party passes the garrison camp and shares intelligence on an orc attack.

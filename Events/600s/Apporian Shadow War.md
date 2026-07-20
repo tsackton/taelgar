@@ -12,7 +12,7 @@ typeOf: war
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
-An early war fought by [[Drankorian Empire|Drankorian]] armies, supposedly against the sleepless wolf-queen [[Yeshara]] and the [[Shemra Azem]]. At the conclusion of this war, the [[~Drankorian Cleaver-Stone Fort~]] was constructed to guard the entrance to [[Cairn Dor]], and was maintained until the collapse of the [[Drankorian Empire]]. 
+An early war fought by [[Drankorian Empire|Drankorian]] armies, supposedly against the sleepless wolf-queen [[Yeshara]] and the [[Shemra Azem]]. At the conclusion of this war, the [[Lastgate Fort]] was constructed to guard the entrance to [[Cairn Dor]], and was maintained until the collapse of the [[Drankorian Empire]]. 
 
 %%
 Mentioned only by rumor in GL Arc 5: [[Great Library Session Notes - Arc 5]]
