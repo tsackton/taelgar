@@ -10,7 +10,7 @@ Older planning notes are useful but less reliable: [[GL - Session 62 - DM Notes]
 
 ## Current Position
 
-As of the last recorded event in [[Great Library Session Notes - Arc 5]], the [[Silver Tempests]] have retreated to [[Castrella]] after fighting through the [[~Drankorian Cleaver-Stone Fort~]], the Yo'nari ruins, and the [[Cleaver-Stone]] chamber. They recovered from the curse of eternal waking with the help of a priest of [[Mos Numena]], took rooms at [[The Laughing Gull]], and are deciding how to enter [[Cairn Dor]] to search for [[Samso]]'s people.
+As of the last recorded event in [[Great Library Session Notes - Arc 5]], the [[Silver Tempests]] have retreated to [[Castrella]] after fighting through the [[Lastgate Fort]], the Yo'nari ruins, and the [[Cleaver-Stone]] chamber. They recovered from the curse of eternal waking with the help of a priest of [[Mos Numena]], took rooms at [[The Laughing Gull]], and are deciding how to enter [[Cairn Dor]] to search for [[Samso]]'s people.
 
 The immediate unresolved goal is to enter [[Cairn Dor]] and find or free the missing lizardfolk and other "dreamers" connected to the [[Shemra Azem]]. The party has already shut down the soul compass and locked the [[Cleaver-Stone]] portal from the Material Plane side, apparently halting the current round of raids for now. They have not resolved what happened to [[Urkabi]], [[Iara]]'s people, or the other vanished lizardfolk villages.
 
@@ -71,7 +71,7 @@ The immediate unresolved goal is to enter [[Cairn Dor]] and find or free the mis
 
 ### The Fort, the Yo'nari Ruins, and the Cleaver-Stone
 
-- Following clues upriver, the party found a Drankorian milestone pointing toward the Cairn Dor guard post and reached a ravine with the [[~Drankorian Cleaver-Stone Fort~]].
+- Following clues upriver, the party found a Drankorian milestone pointing toward the Cairn Dor guard post and reached a ravine with the [[Lastgate Fort]].
 - The fort was guarded by shadowy defenders, including a shadow knight. The party defeated them.
 - The Drankorian ruins contained administrative records with instructions for locking the portal and closing or shutting down the soul compass.
 - Deeper in the ravine, a sealed door bore an incantation to [[Yeshara]] and the sleepless vigil. Passing through cursed the party so they could not sleep.
@@ -141,7 +141,7 @@ The following background comes mainly from [[GL - Session 62 - DM Notes]] and ap
 
 - [[Apporian Shadow War]] is dated DR 657-661.
 - It was supposedly fought by [[Drankorian Empire|Drankorian]] armies against Yeshara and the Shemra Azem.
-- The [[~Drankorian Cleaver-Stone Fort~]] was constructed afterward to guard the entrance to Cairn Dor and was maintained until the collapse of Drankor.
+- The [[Lastgate Fort]] was constructed afterward to guard the entrance to Cairn Dor and was maintained until the collapse of Drankor.
 - [[GL - Session 62 - DM Notes]] says Drankorian armies reached the [[Cleaver-Stone]], built the fortress, and stopped further incursions because the soul compass became inaccessible.
 
 ### War of the Severed Dreams

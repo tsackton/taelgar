@@ -35,6 +35,6 @@ The [[Lizardfolk Village Disappearances]] of the DR 1730s and 1740s marked the b
 
 ## The Silver Tempests
 
-In DR 1748, the [[Silver Tempests]] fought through the [[~Drankorian Cleaver-Stone Fort~|old Drankorian fort]] guarding the [[Cleaver-Stone]], locked the portal, and disabled the soul compass, ending the raids that had caused the [[Lizardfolk Village Disappearances]], but leaving the existing captives imprisoned. The company later entered Cairn Dor directly and discovered that magical daylight woke the dreamers and caused the Shemra Azem sustained by them to fall. After the captives awoke, the Silver Tempests defeated Yeshara.
+In DR 1748, the [[Silver Tempests]] fought through the [[Lastgate Fort|old Drankorian fort]] guarding the [[Cleaver-Stone]], locked the portal, and disabled the soul compass, ending the raids that had caused the [[Lizardfolk Village Disappearances]], but leaving the existing captives imprisoned. The company later entered Cairn Dor directly and discovered that magical daylight woke the dreamers and caused the Shemra Azem sustained by them to fall. After the captives awoke, the Silver Tempests defeated Yeshara.
 
 Yeshara's fall put the realm into stasis. Most of the Silver Tempests and the freed dreamers slept from DR 1748 until DR 1752, while the native inhabitants also fell asleep. When Cairn Dor emerged from stasis, the rescued captives and the adventurers awoke, but Yeshara and the Nurim-Dor remained asleep. Their later fate, and the long-term condition of the domain, are unknown.
