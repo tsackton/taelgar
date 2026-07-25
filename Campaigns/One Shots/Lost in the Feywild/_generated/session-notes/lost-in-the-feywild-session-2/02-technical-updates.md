@@ -25,7 +25,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.timeline -->
-- (DR:: 1740-10-05), evening: The party reaches [[Lord Endless Ending's Manor|Lord Endless Ending's manor]] in the [[Twilight Kingdom]] and learns the likely bargain behind Holda's errand.
+- (DR:: 1740-10-05), evening: The party reaches [[Lord Endless Ending's Manor|Lord Endless Ending's manor]] in the [[Twilight Kingdom]] and learns the likely bargain behind Hulda's errand.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.items -->

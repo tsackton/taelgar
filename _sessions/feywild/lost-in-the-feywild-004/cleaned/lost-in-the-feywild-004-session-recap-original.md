@@ -76,10 +76,10 @@ After the rest, the party follows Menestheus's room-rotation theory through anot
 At the Lone Door beyond Lord Endless Ending's party, the party reviews the bargain and follows Menestheus inside.
 
 #### Intermediate
-At the Lone Door, the party reviews Holda's betrayal, Lord Endless Ending's bargain, the glass key, and the cold-iron 27th Room before letting Menestheus take the lead.
+At the Lone Door, the party reviews Hulda's betrayal, Lord Endless Ending's bargain, the glass key, and the cold-iron 27th Room before letting Menestheus take the lead.
 
 #### Long
-The party begins at the Lone Door after recapping how Holda's commission, Dandelion House, Lord Endless Ending, and Arithrimos Lamperum brought them here. They reconsider whether returning the glass key would help Lord Endless Ending, Holda, or themselves, then reset their own moods and readiness: Txarro is wary and wants home, Edric is uneasy but ready for a problem he can hit, Tarek and Kaito face the uncertainty in their own ways, and Ayveen stays in information-gathering mode. Menestheus, still shocked by the 700-year jump and resigned to his mission, opens the door and steps through with the party following.
+The party begins at the Lone Door after recapping how Hulda's commission, Dandelion House, Lord Endless Ending, and Arithrimos Lamperum brought them here. They reconsider whether returning the glass key would help Lord Endless Ending, Hulda, or themselves, then reset their own moods and readiness: Txarro is wary and wants home, Edric is uneasy but ready for a problem he can hit, Tarek and Kaito face the uncertainty in their own ways, and Ayveen stays in information-gathering mode. Menestheus, still shocked by the 700-year jump and resigned to his mission, opens the door and steps through with the party following.
 
 ### recap-002 | First Rooms
 
@@ -253,7 +253,7 @@ The group calls the night with the party still in Kalepsis's room, then clarifie
 - Kalepsis (met): ancient dwarven gardener and self-described head of the order
   - 27th Room, 1740-10-06
 - Lord Endless Ending (mentioned): Fey lord tied to the bargain
-- Holda (mentioned): original employer
+- Hulda (mentioned): original employer
 - Thalestria (mentioned): head of Arithrimos Lamperum
 - Rakshasa (mentioned): party guest
 - unnamed speaker at the iron window (mentioned): voice recorded in the journal

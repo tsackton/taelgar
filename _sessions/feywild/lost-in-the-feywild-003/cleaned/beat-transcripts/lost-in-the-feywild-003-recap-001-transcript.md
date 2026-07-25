@@ -9,7 +9,7 @@
 ## Transcript
 
 %% u0001-u0008 %%
-DM: Oh, awesome. Alright, so last session opened with y'all still in the tunnel, Holda having just closed the door behind you. You emerged into, as you continued down the tunnel, it stopped being root, and it seemed instead like it was... I don't know, coral, or bone, or more like the skeleton of a house than a house itself. And what you emerged into was... A sort of a ruined... A house made of skeletal roots.
+DM: Oh, awesome. Alright, so last session opened with y'all still in the tunnel, Hulda having just closed the door behind you. You emerged into, as you continued down the tunnel, it stopped being root, and it seemed instead like it was... I don't know, coral, or bone, or more like the skeleton of a house than a house itself. And what you emerged into was... A sort of a ruined... A house made of skeletal roots.
 
 %% u0009-u0011 %%
 DM: In a kind of an echo or copy of what where you started. But you climb out of the cellar onto a road, and find yourself in, what hopefully your characters, I've guessed right by now is the Feywild. It's just after twilight in the... I forgot, there's an absolutely wonderful word, glome, for this. So you're in the glome.
@@ -75,7 +75,7 @@ DM: It's not just a description of the place as it is, but a description of the 
 DM: Ever since that moment, that defined what the place was, and it's remained in that moment ever since. Lord Endless Ending has sent his mortal guests down the road every time the grandfather clock chimes zero. The Rakshasa seems not too concerned about this. There are a few people in line in front of him, he thinks: the halflings, the guy sleeping it off, and someone else as well.
 
 %% u0096-u0102 %%
-DM: The Rakshasa remembers Holda as the angry man who tried to bully his way in, and sort of mused about that. Your impression of the Rakshasa is that he is so very much a cat: keeping his own counsel, doing all things for his own ends, engaged in his own curious obsessions, but not malevolent in any sense, or lying to you all about this. The Rakshasa confirms that's the only bargain he knows of that's operative, so presumably this is what Holda sent you in to break.
+DM: The Rakshasa remembers Hulda as the angry man who tried to bully his way in, and sort of mused about that. Your impression of the Rakshasa is that he is so very much a cat: keeping his own counsel, doing all things for his own ends, engaged in his own curious obsessions, but not malevolent in any sense, or lying to you all about this. The Rakshasa confirms that's the only bargain he knows of that's operative, so presumably this is what Hulda sent you in to break.
 
 %% u0103-u0110 %%
 DM: And then Edric goes off looking for another human. The grandfather clock strikes zero in that moment, and you spot Lord Endless Ending bending down, because he's very tall, to whisper into the ear of a human who then hurries out the door. Txarro sends his owl after the departing human. The lord of the house locks eyes with Edric and beckons him closer, and that's where we ended. Anything else to talk about before we pick up there?
@@ -849,13 +849,13 @@ Kaito Min: I mean, yeah, but... Tarek, Tarek, just, like, wait, are there actual
 DM: I don't think...
 
 %% u0503 %%
-Tarek: In Holda's...
+Tarek: In Hulda's...
 
 %% u0504 %%
 DM: This is perfect.
 
 %% u0505 %%
-Tarek: Not that we've seen, but in Holda's story about the contract, wasn't given to him by an elf?
+Tarek: Not that we've seen, but in Hulda's story about the contract, wasn't given to him by an elf?
 
 %% u0506 %%
 Txarro: It was.

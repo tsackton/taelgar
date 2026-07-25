@@ -26,7 +26,7 @@ The badger presents the group and asks what gifts they have brought. Txarro offe
 
 Txarro tells Lord Endless Ending that the party came through a door that closed behind them and does not know how to leave. The Lord says there is a way home through his nearest neighbor's house to the north -- the same direction as the woman who just left. He explains that a mortal wizard tricked him into an agreement he did not intend: he must send mortal guests through that house whenever the magical clock brought by the wizard and her entourage (of whom one still remains) strikes zero. Through various portents, he has learned that the bargain can be undone if a glass key from the lock of the cold-iron door to the 27th Room is brought back to him and broken. When Kaito warns him about the bodies on the road, but he answers that his responsibility ends at the gate.
 
-The party argue through the risks: whether retrieving the glass key would help Holda, whether the neighbor's house is still their best way home, whether the wizard can be trusted, and whether agreeing to anything with a Fey Lord is itself the trap.
+The party argue through the risks: whether retrieving the glass key would help Hulda, whether the neighbor's house is still their best way home, whether the wizard can be trusted, and whether agreeing to anything with a Fey Lord is itself the trap.
 
 Kaito then carefully phrases the party's departure so that they are headed toward the neighbor's house without promising to retrieve the key. Lord Endless Ending says that if the doorway toward the 27th room is truly their destination, his gates are open, and he does not wish to compel them as he was compelled: the gates will open only if, in the future, they have already gone through the other door. The distinction makes the whole exit feel less like a plan and more like a story already bending around them.
 
@@ -77,7 +77,7 @@ badger butler (met): anxious attendant to Lord Endless Ending
 Menestheus (met): displaced Drankorian scholar and guide from Thalestria's entourage
 unnamed human woman (met): mortal guest sent away when the clock strikes zero
 road guards (met): doglike keepers of the road outside Lord Endless Ending's manor
-Lord Holda (mentioned): party's employer at Dandelion House
+Lord Hulda (mentioned): party's employer at Dandelion House
 Rakshasa (mentioned): tiger-headed guest and informant from the prior session
 Thalestria (mentioned): Menestheus's master and head of Arithrimos Lamperum
 unnamed wizard neighbor (mentioned): mortal wizard who tricked Lord Endless Ending into the sending bargain
@@ -90,7 +90,7 @@ The Twilight Kingdom: Feywild realm of fixed twilight, many houses, strange road
 Lord Endless Ending's manor: fey manor caught in the ending of a party, where Lord Endless Ending receives guests and sends mortals away when the clock strikes zero
 single door on the western promontory: isolated doorway north and west of Lord Endless Ending's manor, apparently leading toward the 27th house
 27th house: neighbor's house associated with the wizard, the 27th room, the glass key, and the possible way home
-Dandelion House: old manor with the door Holda used to send the party into the Feywild and a clock similar to Lord Endless Ending's
+Dandelion House: old manor with the door Hulda used to send the party into the Feywild and a clock similar to Lord Endless Ending's
 
 
 ### Organizations

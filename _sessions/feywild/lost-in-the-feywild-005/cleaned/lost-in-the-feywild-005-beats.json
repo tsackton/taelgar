@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-session.yaml",
+  "beats": [
+    {
+      "beatId": "b001",
+      "title": "Choosing the Glass Key",
+      "startUid": "u0001",
+      "endUid": "u0438",
+      "lineCount": 438,
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The session resumes with analysis of the Dreamer notebook, recaps the party's position, and follows their discussion with Kallipseis and Menestheus until they leave the fungal greenhouse to seek the glass key.",
+      "dateEvidence": [
+        "Session metadata fixes both drStart and drEnd at 1740-10-06.",
+        "The preceding session ended on the morning of 1740-10-06, and this session resumes in the same fungal greenhouse without an in-world break."
+      ]
+    },
+    {
+      "beatId": "b002",
+      "title": "Lessons and Clockworks",
+      "startUid": "u0439",
+      "endUid": "u0746",
+      "lineCount": 308,
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party leaves Kallipseis, studies the dandelion diagram and black star-field painting, passes through the clockworks workshop, and reaches another listening station; the next beat begins when its notebook is identified as Thirst.",
+      "dateEvidence": [
+        "This exploration continues directly from the prior beat on 1740-10-06.",
+        "No rest, sleep, or time-of-day transition occurs in this range."
+      ]
+    },
+    {
+      "beatId": "b003",
+      "title": "Thirst and the Animal Lab",
+      "startUid": "u0747",
+      "endUid": "u1068",
+      "lineCount": 322,
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party interprets the Thirst notebook, continues into the animal experimentation lab, and grows wary of its infected remains; the scene turns to combat after Menestheus is dragged out of sight.",
+      "dateEvidence": [
+        "This beat continues the same uninterrupted exploration on 1740-10-06.",
+        "No long rest or other date-changing event occurs before the ambush."
+      ]
+    },
+    {
+      "beatId": "b004",
+      "title": "The Ambush Begins",
+      "startUid": "u1069",
+      "endUid": "u1517",
+      "lineCount": 449,
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Initiative begins, the table establishes the battlefield, and the party launches its opening attacks as a second mushroom-infested corpse awakens; the split falls before the two enemies begin their coordinated counterattack.",
+      "dateEvidence": [
+        "Combat begins immediately after the animal-lab ambush on 1740-10-06.",
+        "The initiative sequence contains no in-world time or date transition."
+      ]
+    },
+    {
+      "beatId": "b005",
+      "title": "Mushroom Men Defeated",
+      "startUid": "u1518",
+      "endUid": "u1974",
+      "lineCount": 457,
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The mushroom men counterattack, nearly kill Menestheus, and are destroyed by the party; the combat scene closes when their remains are burned.",
+      "dateEvidence": [
+        "This is the second contiguous phase of the same combat on 1740-10-06.",
+        "No rest or narrative time jump occurs between the combat phases."
+      ]
+    },
+    {
+      "beatId": "b006",
+      "title": "Infection and Locked Offices",
+      "startUid": "u1975",
+      "endUid": "u2240",
+      "lineCount": 266,
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "After healing Menestheus, Tarek discovers signs of infection; the party then searches several more rooms and fails to force Thalestria's office before moving on to the map library.",
+      "dateEvidence": [
+        "This beat starts in the immediate aftermath of the animal-lab combat on 1740-10-06.",
+        "The party continues room-to-room without resting or advancing the day."
+      ]
+    },
+    {
+      "beatId": "b007",
+      "title": "The Prisoner Speaks",
+      "startUid": "u2241",
+      "endUid": "u2452",
+      "lineCount": 212,
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The final room sequence carries the party from the map library through the fabrication lab and a listening station where the prisoner addresses Hulda and her five friends, ending when a clockwork figure awakens in room 26 and the table debriefs.",
+      "dateEvidence": [
+        "This beat continues directly from the locked offices on 1740-10-06.",
+        "The session ends without a rest, sleep sequence, or later-day transition."
+      ]
+    }
+  ]
+}

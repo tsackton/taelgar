@@ -1313,7 +1313,7 @@
 [u1313 | 01:44:31.340-01:44:34.019 | Edric] But you don't know if we can get through that way.
 [u1314 | 01:44:34.570-01:44:36.150 | DM] You're putting a lot of faith in some.
 [u1315 | 01:44:36.150-01:44:41.079 | Edric] The magic ability to open the gate from this side that he said was impossible.
-[u1316 | 01:44:41.760-01:44:43.540 | DM] Now, Holda got back through it.
+[u1316 | 01:44:41.760-01:44:43.540 | DM] Now, Hulda got back through it.
 [u1317 | 01:44:43.780-01:44:45.140 | Edric] He said he left the door open.
 [u1318 | 01:44:45.880-01:44:46.200 | Ayveen] Right.
 [u1319 | 01:44:46.570-01:44:48.940 | Tarek] That's the only way to get back!
@@ -1521,7 +1521,7 @@
 [u1521 | 01:54:39.060-01:54:41.200 | Edric] Ask him about Holba, the anchor game.
 [u1522 | 01:54:41.660-01:54:42.250 | Kaito Min] about Hold up.
 [u1523 | 01:54:42.590-01:54:45.600 | DM] This, at this point, is clearly audible to…
-[u1524 | 01:54:45.600-01:54:51.230 | Edric] Lord Edo said, as Egypt tries to have an aside to cater to saying, remember to ask who about Holda.
+[u1524 | 01:54:45.600-01:54:51.230 | Edric] Lord Edo said, as Egypt tries to have an aside to cater to saying, remember to ask who about Hulda.
 [u1525 | 01:54:51.230-01:54:52.420 | Kaito Min] Hold on, why am I asking about Holden?
 [u1526 | 01:54:55.130-01:54:56.229 | Edric] I kind of decided we were going to.
 [u1527 | 01:55:02.040-01:55:03.149 | Kaito Min] What's, what's the Lord doing?
@@ -1540,7 +1540,7 @@
 [u1540 | 01:55:54.070-01:55:55.020 | DM] Older?
 [u1541 | 01:55:56.060-01:55:57.170 | DM] Hold up!
 [u1542 | 01:55:58.480-01:55:59.710 | DM] Holder!
-[u1543 | 01:56:01.010-01:56:02.290 | DM] How do you know Holda?
+[u1543 | 01:56:01.010-01:56:02.290 | DM] How do you know Hulda?
 [u1544 | 01:56:04.910-01:56:06.860 | DM] Well, it's an unfortunate…
 [u1545 | 01:56:07.000-01:56:08.260 | Kaito Min] Story, now that we're here.
 [u1546 | 01:56:12.350-01:56:13.320 | Kaito Min] Holder.
@@ -1550,7 +1550,7 @@
 [u1550 | 01:56:28.620-01:56:30.419 | DM] This face is totally impassive.
 [u1551 | 01:56:30.850-01:56:31.670 | DM] Yeah, okay.
 [u1552 | 01:56:32.300-01:56:35.890 | DM] Yeah, we.
-[u1553 | 01:56:35.890-01:56:38.129 | Kaito Min] We met Holda, he…
+[u1553 | 01:56:35.890-01:56:38.129 | Kaito Min] We met Hulda, he…
 [u1554 | 01:56:38.970-01:56:44.809 | DM] Sent us through, A door in the house down the road the other way.
 [u1555 | 01:56:45.650-01:56:47.989 | DM] Closed the door behind us.
 [u1556 | 01:56:48.130-01:56:49.400 | DM] That's how we got here.

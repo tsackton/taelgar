@@ -24,10 +24,10 @@
 - Pull Quotes:
   - ID: quote-B03-001
     - Quote: "Welcome. Welcome, welcome. I know it was a long journey to get here, and I appreciate it. Are you hungry?"
-    - Speaker: Lord Holda
+    - Speaker: Lord Hulda
     - Source Lines: u1298-u1308
 
-### B05 | Holda's Story
+### B05 | Hulda's Story
 
 - Recap Block: recap-005
 - Transcript: lost-in-the-feywild-001-recap-005-transcript.md
@@ -63,4 +63,4 @@
   - Source Lines: u2123-u2131
   - Speaker: DM
   - Summary: As the door closes behind the party in the root tunnel, Tarek realizes the old contract is genuinely ancient but written in perfectly contemporary Sembaran.
-  - Why Called Out: A compact cliffhanger reveal that reframes Holda's contract and closes the episode on a clean mystery beat.
+  - Why Called Out: A compact cliffhanger reveal that reframes Hulda's contract and closes the episode on a clean mystery beat.

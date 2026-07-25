@@ -170,7 +170,7 @@
         "The party travels through a trackless old forest and reaches the overgrown grounds of Dandelion House at dusk."
       ],
       "sourceLongSummaries": [
-        "After an uneventful watch, the party breaks camp and follows Alden through increasingly dense old woodland where the path vanishes, wildlife dwindles, and even Moss Foot becomes more alert. They press through lunch to arrive before dark, pass a ruined wall, gate, moat, roots, and dandelion imagery, and see a majestic but decrepit manor still standing in the forest. Alden warns them that Lord Holda is sensitive, disinherited, and requires patience and flattery, Colden takes Moss Foot to the stables, and the party uses magical checks, history, and cautious observation before finally agreeing to enter."
+        "After an uneventful watch, the party breaks camp and follows Alden through increasingly dense old woodland where the path vanishes, wildlife dwindles, and even Moss Foot becomes more alert. They press through lunch to arrive before dark, pass a ruined wall, gate, moat, roots, and dandelion imagery, and see a majestic but decrepit manor still standing in the forest. Alden warns them that Lord Hulda is sensitive, disinherited, and requires patience and flattery, Colden takes Moss Foot to the stables, and the party uses magical checks, history, and cautious observation before finally agreeing to enter."
       ],
       "sourceEntries": [
         {
@@ -185,7 +185,7 @@
             "endUid": "u1129"
           },
           "shortSummary": "The party travels through a trackless old forest and reaches the overgrown grounds of Dandelion House at dusk.",
-          "longSummary": "After an uneventful watch, the party breaks camp and follows Alden through increasingly dense old woodland where the path vanishes, wildlife dwindles, and even Moss Foot becomes more alert. They press through lunch to arrive before dark, pass a ruined wall, gate, moat, roots, and dandelion imagery, and see a majestic but decrepit manor still standing in the forest. Alden warns them that Lord Holda is sensitive, disinherited, and requires patience and flattery, Colden takes Moss Foot to the stables, and the party uses magical checks, history, and cautious observation before finally agreeing to enter.",
+          "longSummary": "After an uneventful watch, the party breaks camp and follows Alden through increasingly dense old woodland where the path vanishes, wildlife dwindles, and even Moss Foot becomes more alert. They press through lunch to arrive before dark, pass a ruined wall, gate, moat, roots, and dandelion imagery, and see a majestic but decrepit manor still standing in the forest. Alden warns them that Lord Hulda is sensitive, disinherited, and requires patience and flattery, Colden takes Moss Foot to the stables, and the party uses magical checks, history, and cautious observation before finally agreeing to enter.",
           "locationHints": {
             "refs": [
               "old wood west of Tollen",
@@ -199,13 +199,13 @@
               "name": "Alden",
               "role": "encountered",
               "context": "guide to Dandelion House",
-              "notes": "He keeps a steady pace, appears to know the route, and briefs the party on Lord Holda."
+              "notes": "He keeps a steady pace, appears to know the route, and briefs the party on Lord Hulda."
             },
             {
-              "name": "Lord Holda",
+              "name": "Lord Hulda",
               "role": "mentioned",
               "context": "new master of Dandelion House",
-              "notes": "Alden says Holda is difficult, proud, and desperate for the house to fulfill his lifelong dream."
+              "notes": "Alden says Hulda is difficult, proud, and desperate for the house to fulfill his lifelong dream."
             },
             {
               "name": "Colden",
@@ -251,7 +251,7 @@
       ],
       "npcRefs": [
         "Alden",
-        "Lord Holda"
+        "Lord Hulda"
       ],
       "organizationRefs": [],
       "itemRefs": [
@@ -262,16 +262,16 @@
       ],
       "combatBeatIds": [],
       "sourceShortSummaries": [
-        "Inside Dandelion House, the party examines the preserved but unsettling manor and meets Lord Holda before dinner."
+        "Inside Dandelion House, the party examines the preserved but unsettling manor and meets Lord Hulda before dinner."
       ],
       "sourceLongSummaries": [
-        "Alden leads the group through the dusty entry hall, where paths through the dust, magical preservation, old rooms, a grandfather clock, and garden-themed tapestries make the house feel both magnificent and ominous. Edric's detection spell finds no fey or undead nearby, Tarek checks tracks in the dust, and Kaito grows increasingly uneasy about the house's empty, party-haunted grandeur. On the third floor, the party finds Lord Holda in the last golden light, hears Alden formally present them, and then follows Holda down to the kitchen, where preserved magical conveniences and a cleaning bar are used before dinner."
+        "Alden leads the group through the dusty entry hall, where paths through the dust, magical preservation, old rooms, a grandfather clock, and garden-themed tapestries make the house feel both magnificent and ominous. Edric's detection spell finds no fey or undead nearby, Tarek checks tracks in the dust, and Kaito grows increasingly uneasy about the house's empty, party-haunted grandeur. On the third floor, the party finds Lord Hulda in the last golden light, hears Alden formally present them, and then follows Hulda down to the kitchen, where preserved magical conveniences and a cleaning bar are used before dinner."
       ],
       "sourceEntries": [
         {
           "beatId": "B04",
           "title": "Inside The Manor",
-          "boundaryReason": "The group enters Dandelion House, explores the dusty preserved interior, ascends to meet Lord Holda, and gets seated and cleaned before dinner; the next beat starts with Holda's substantive explanation at the table.",
+          "boundaryReason": "The group enters Dandelion House, explores the dusty preserved interior, ascends to meet Lord Hulda, and gets seated and cleaned before dinner; the next beat starts with Hulda's substantive explanation at the table.",
           "dateStart": "1740-10-04",
           "dateEnd": null,
           "timeWindow": "evening",
@@ -279,8 +279,8 @@
             "startUid": "u1130",
             "endUid": "u1415"
           },
-          "shortSummary": "Inside Dandelion House, the party examines the preserved but unsettling manor and meets Lord Holda before dinner.",
-          "longSummary": "Alden leads the group through the dusty entry hall, where paths through the dust, magical preservation, old rooms, a grandfather clock, and garden-themed tapestries make the house feel both magnificent and ominous. Edric's detection spell finds no fey or undead nearby, Tarek checks tracks in the dust, and Kaito grows increasingly uneasy about the house's empty, party-haunted grandeur. On the third floor, the party finds Lord Holda in the last golden light, hears Alden formally present them, and then follows Holda down to the kitchen, where preserved magical conveniences and a cleaning bar are used before dinner.",
+          "shortSummary": "Inside Dandelion House, the party examines the preserved but unsettling manor and meets Lord Hulda before dinner.",
+          "longSummary": "Alden leads the group through the dusty entry hall, where paths through the dust, magical preservation, old rooms, a grandfather clock, and garden-themed tapestries make the house feel both magnificent and ominous. Edric's detection spell finds no fey or undead nearby, Tarek checks tracks in the dust, and Kaito grows increasingly uneasy about the house's empty, party-haunted grandeur. On the third floor, the party finds Lord Hulda in the last golden light, hears Alden formally present them, and then follows Hulda down to the kitchen, where preserved magical conveniences and a cleaning bar are used before dinner.",
           "locationHints": {
             "refs": [
               "Dandelion House"
@@ -293,10 +293,10 @@
               "name": "Alden",
               "role": "encountered",
               "context": "servant and presenter",
-              "notes": "He leads the party through the house and introduces them to Lord Holda."
+              "notes": "He leads the party through the house and introduces them to Lord Hulda."
             },
             {
-              "name": "Lord Holda",
+              "name": "Lord Hulda",
               "role": "encountered",
               "context": "lord of Dandelion House",
               "notes": "He is a scarred, dangerous-looking former adventurer who appraises the party before inviting them to eat."
@@ -341,7 +341,7 @@
         "Dandelion House"
       ],
       "npcRefs": [
-        "Lord Holda",
+        "Lord Hulda",
         "Alden",
         "Moss Foot"
       ],
@@ -353,18 +353,18 @@
       ],
       "combatBeatIds": [],
       "sourceShortSummaries": [
-        "Lord Holda explains the ancient deed and hires the party to end an unknown treaty beyond a basement door.",
-        "After Holda leaves, the party debates the suspicious bargain, prepares for rest, and decides to see what lies below."
+        "Lord Hulda explains the ancient deed and hires the party to end an unknown treaty beyond a basement door.",
+        "After Hulda leaves, the party debates the suspicious bargain, prepares for rest, and decides to see what lies below."
       ],
       "sourceLongSummaries": [
-        "Over dinner, Holda recounts decades as an adventurer, a costly victory over a young dragon, and the strange elf who delivered a centuries-old deed naming him heir to Dandelion House, its lands, and its treasure. The deed is also a contract: the house and hoard become his only if he steps through a door in the floor and convinces the man on the other side to end a long-held treaty. Holda admits he failed badly, offers the party half the treasure to succeed for him, and explains that the door opens onto another place with a road and another manor; Tarek reads the Sembaran contract and senses that something about its pieces does not fit, but the party agrees to rest and attempt the job in the morning.",
-        "With Holda gone, Kaito is wildly excited by the possible infinite treasure while Txarro, Edric, Tarek, and Ayveen question the contract, the unknown treaty, and the possibility that ending it could be dangerous or unrewarding. Alden shows them how the magical sconces work, Edric checks that Moss Foot is safe, Txarro casts Goodberry and hands out supplies, and Tarek pockets a spoon before the group agrees that they have come too far not to look through the trapdoor. The beat ends with the party choosing rest rather than further pilfering or exploration before the morning descent."
+        "Over dinner, Hulda recounts decades as an adventurer, a costly victory over a young dragon, and the strange elf who delivered a centuries-old deed naming him heir to Dandelion House, its lands, and its treasure. The deed is also a contract: the house and hoard become his only if he steps through a door in the floor and convinces the man on the other side to end a long-held treaty. Hulda admits he failed badly, offers the party half the treasure to succeed for him, and explains that the door opens onto another place with a road and another manor; Tarek reads the Sembaran contract and senses that something about its pieces does not fit, but the party agrees to rest and attempt the job in the morning.",
+        "With Hulda gone, Kaito is wildly excited by the possible infinite treasure while Txarro, Edric, Tarek, and Ayveen question the contract, the unknown treaty, and the possibility that ending it could be dangerous or unrewarding. Alden shows them how the magical sconces work, Edric checks that Moss Foot is safe, Txarro casts Goodberry and hands out supplies, and Tarek pockets a spoon before the group agrees that they have come too far not to look through the trapdoor. The beat ends with the party choosing rest rather than further pilfering or exploration before the morning descent."
       ],
       "sourceEntries": [
         {
           "beatId": "B05",
-          "title": "Holda Explains The Contract",
-          "boundaryReason": "Dinner with Lord Holda covers his adventuring past, the ancient deed, the treaty condition, the other side of the door, and the party's acceptance of the job; the next beat begins with their private reaction before bed.",
+          "title": "Hulda Explains The Contract",
+          "boundaryReason": "Dinner with Lord Hulda covers his adventuring past, the ancient deed, the treaty condition, the other side of the door, and the party's acceptance of the job; the next beat begins with their private reaction before bed.",
           "dateStart": "1740-10-04",
           "dateEnd": null,
           "timeWindow": "night",
@@ -372,18 +372,18 @@
             "startUid": "u1416",
             "endUid": "u1832"
           },
-          "shortSummary": "Lord Holda explains the ancient deed and hires the party to end an unknown treaty beyond a basement door.",
-          "longSummary": "Over dinner, Holda recounts decades as an adventurer, a costly victory over a young dragon, and the strange elf who delivered a centuries-old deed naming him heir to Dandelion House, its lands, and its treasure. The deed is also a contract: the house and hoard become his only if he steps through a door in the floor and convinces the man on the other side to end a long-held treaty. Holda admits he failed badly, offers the party half the treasure to succeed for him, and explains that the door opens onto another place with a road and another manor; Tarek reads the Sembaran contract and senses that something about its pieces does not fit, but the party agrees to rest and attempt the job in the morning.",
+          "shortSummary": "Lord Hulda explains the ancient deed and hires the party to end an unknown treaty beyond a basement door.",
+          "longSummary": "Over dinner, Hulda recounts decades as an adventurer, a costly victory over a young dragon, and the strange elf who delivered a centuries-old deed naming him heir to Dandelion House, its lands, and its treasure. The deed is also a contract: the house and hoard become his only if he steps through a door in the floor and convinces the man on the other side to end a long-held treaty. Hulda admits he failed badly, offers the party half the treasure to succeed for him, and explains that the door opens onto another place with a road and another manor; Tarek reads the Sembaran contract and senses that something about its pieces does not fit, but the party agrees to rest and attempt the job in the morning.",
           "locationHints": {
             "refs": [
               "Dandelion House"
             ],
-            "context": "kitchen dinner with Lord Holda",
-            "notes": "The party remains at the kitchen table while Holda explains the contract and proposed job."
+            "context": "kitchen dinner with Lord Hulda",
+            "notes": "The party remains at the kitchen table while Hulda explains the contract and proposed job."
           },
           "npcDetails": [
             {
-              "name": "Lord Holda",
+              "name": "Lord Hulda",
               "role": "encountered",
               "context": "employer",
               "notes": "He wants the party to complete the treaty condition that he failed to fulfill."
@@ -398,20 +398,20 @@
               "name": "unnamed elf archivist",
               "role": "mentioned",
               "context": "deliverer of the deed",
-              "notes": "Holda says this elf's organization held the deed in trust until the right time."
+              "notes": "Hulda says this elf's organization held the deed in trust until the right time."
             },
             {
               "name": "unnamed lord beyond the door",
               "role": "mentioned",
               "context": "target of the treaty negotiation",
-              "notes": "Holda met him through the basement door but failed to learn much or persuade him."
+              "notes": "Hulda met him through the basement door but failed to learn much or persuade him."
             }
           ],
           "itemDetails": [
             {
               "name": "ancient deed and contract",
               "role": "encountered",
-              "notes": "The brittle Sembaran document names Holda and lays out the condition for inheriting Dandelion House."
+              "notes": "The brittle Sembaran document names Hulda and lays out the condition for inheriting Dandelion House."
             },
             {
               "name": "treaty",
@@ -421,7 +421,7 @@
             {
               "name": "treasure hoard",
               "role": "mentioned",
-              "notes": "Holda promises the party half the value of the gold, coin, jewels, and other treasure if they complete the job."
+              "notes": "Hulda promises the party half the value of the gold, coin, jewels, and other treasure if they complete the job."
             },
             {
               "name": "door in the floor",
@@ -440,7 +440,7 @@
         {
           "beatId": "B06",
           "title": "Deal And Nighttime Doubts",
-          "boundaryReason": "After Holda leaves, the party debates the suspicious contract and possible treasure, handles last errands and supplies, and takes the long rest; the next beat begins when the magical clock wakes them before dawn.",
+          "boundaryReason": "After Hulda leaves, the party debates the suspicious contract and possible treasure, handles last errands and supplies, and takes the long rest; the next beat begins when the magical clock wakes them before dawn.",
           "dateStart": "1740-10-04",
           "dateEnd": null,
           "timeWindow": "night",
@@ -448,8 +448,8 @@
             "startUid": "u1833",
             "endUid": "u2010"
           },
-          "shortSummary": "After Holda leaves, the party debates the suspicious bargain, prepares for rest, and decides to see what lies below.",
-          "longSummary": "With Holda gone, Kaito is wildly excited by the possible infinite treasure while Txarro, Edric, Tarek, and Ayveen question the contract, the unknown treaty, and the possibility that ending it could be dangerous or unrewarding. Alden shows them how the magical sconces work, Edric checks that Moss Foot is safe, Txarro casts Goodberry and hands out supplies, and Tarek pockets a spoon before the group agrees that they have come too far not to look through the trapdoor. The beat ends with the party choosing rest rather than further pilfering or exploration before the morning descent.",
+          "shortSummary": "After Hulda leaves, the party debates the suspicious bargain, prepares for rest, and decides to see what lies below.",
+          "longSummary": "With Hulda gone, Kaito is wildly excited by the possible infinite treasure while Txarro, Edric, Tarek, and Ayveen question the contract, the unknown treaty, and the possibility that ending it could be dangerous or unrewarding. Alden shows them how the magical sconces work, Edric checks that Moss Foot is safe, Txarro casts Goodberry and hands out supplies, and Tarek pockets a spoon before the group agrees that they have come too far not to look through the trapdoor. The beat ends with the party choosing rest rather than further pilfering or exploration before the morning descent.",
           "locationHints": {
             "refs": [
               "Dandelion House"
@@ -459,7 +459,7 @@
           },
           "npcDetails": [
             {
-              "name": "Lord Holda",
+              "name": "Lord Hulda",
               "role": "mentioned",
               "context": "absent employer",
               "notes": "The party debates whether he is trustworthy after he leaves the room."
@@ -522,7 +522,7 @@
       ],
       "npcRefs": [
         "Alden",
-        "Lord Holda"
+        "Lord Hulda"
       ],
       "organizationRefs": [],
       "itemRefs": [
@@ -534,7 +534,7 @@
         "Before dawn, the party descends below Dandelion House, enters a root tunnel, and is sealed in as Tarek realizes the contract's language is wrong."
       ],
       "sourceLongSummaries": [
-        "A magical clock wakes the party before dawn, and Alden leads them from their rooms down through the ground floor, basement, and a rougher lower stair opened with a glowing gold key. In a root-covered sub-cellar, Lord Holda waits by a hidden door and tells them to crawl through the dark passage, promising to hold this end open. The party enters in order through what proves to be the hollow center of an enormous dry root, but the door closes behind them; in the same moment, Tarek realizes that the unquestionably 400-year-old contract was written in perfectly contemporary Sembaran, and the session ends with the way back shut."
+        "A magical clock wakes the party before dawn, and Alden leads them from their rooms down through the ground floor, basement, and a rougher lower stair opened with a glowing gold key. In a root-covered sub-cellar, Lord Hulda waits by a hidden door and tells them to crawl through the dark passage, promising to hold this end open. The party enters in order through what proves to be the hollow center of an enormous dry root, but the door closes behind them; in the same moment, Tarek realizes that the unquestionably 400-year-old contract was written in perfectly contemporary Sembaran, and the session ends with the way back shut."
       ],
       "sourceEntries": [
         {
@@ -549,7 +549,7 @@
             "endUid": "u2156"
           },
           "shortSummary": "Before dawn, the party descends below Dandelion House, enters a root tunnel, and is sealed in as Tarek realizes the contract's language is wrong.",
-          "longSummary": "A magical clock wakes the party before dawn, and Alden leads them from their rooms down through the ground floor, basement, and a rougher lower stair opened with a glowing gold key. In a root-covered sub-cellar, Lord Holda waits by a hidden door and tells them to crawl through the dark passage, promising to hold this end open. The party enters in order through what proves to be the hollow center of an enormous dry root, but the door closes behind them; in the same moment, Tarek realizes that the unquestionably 400-year-old contract was written in perfectly contemporary Sembaran, and the session ends with the way back shut.",
+          "longSummary": "A magical clock wakes the party before dawn, and Alden leads them from their rooms down through the ground floor, basement, and a rougher lower stair opened with a glowing gold key. In a root-covered sub-cellar, Lord Hulda waits by a hidden door and tells them to crawl through the dark passage, promising to hold this end open. The party enters in order through what proves to be the hollow center of an enormous dry root, but the door closes behind them; in the same moment, Tarek realizes that the unquestionably 400-year-old contract was written in perfectly contemporary Sembaran, and the session ends with the way back shut.",
           "locationHints": {
             "refs": [
               "guest quarters",
@@ -566,7 +566,7 @@
               "notes": "He wakes and collects the party before leading them down."
             },
             {
-              "name": "Lord Holda",
+              "name": "Lord Hulda",
               "role": "encountered",
               "context": "employer at the hidden door",
               "notes": "He stands by the hidden door and says he will keep this end open."
@@ -593,7 +593,7 @@
             {
               "name": "Philosopher's Guild",
               "role": "mentioned",
-              "notes": "Txarro wonders why Holda did not take the suspicious contract to the Philosopher's Guild."
+              "notes": "Txarro wonders why Hulda did not take the suspicious contract to the Philosopher's Guild."
             }
           ]
         }
@@ -795,7 +795,7 @@
         "The party travels through a trackless old forest and reaches the overgrown grounds of Dandelion House at dusk."
       ],
       "sourceLongSummaries": [
-        "After an uneventful watch, the party breaks camp and follows Alden through increasingly dense old woodland where the path vanishes, wildlife dwindles, and even Moss Foot becomes more alert. They press through lunch to arrive before dark, pass a ruined wall, gate, moat, roots, and dandelion imagery, and see a majestic but decrepit manor still standing in the forest. Alden warns them that Lord Holda is sensitive, disinherited, and requires patience and flattery, Colden takes Moss Foot to the stables, and the party uses magical checks, history, and cautious observation before finally agreeing to enter."
+        "After an uneventful watch, the party breaks camp and follows Alden through increasingly dense old woodland where the path vanishes, wildlife dwindles, and even Moss Foot becomes more alert. They press through lunch to arrive before dark, pass a ruined wall, gate, moat, roots, and dandelion imagery, and see a majestic but decrepit manor still standing in the forest. Alden warns them that Lord Hulda is sensitive, disinherited, and requires patience and flattery, Colden takes Moss Foot to the stables, and the party uses magical checks, history, and cautious observation before finally agreeing to enter."
       ],
       "sourceEntries": [
         {
@@ -810,7 +810,7 @@
             "endUid": "u1129"
           },
           "shortSummary": "The party travels through a trackless old forest and reaches the overgrown grounds of Dandelion House at dusk.",
-          "longSummary": "After an uneventful watch, the party breaks camp and follows Alden through increasingly dense old woodland where the path vanishes, wildlife dwindles, and even Moss Foot becomes more alert. They press through lunch to arrive before dark, pass a ruined wall, gate, moat, roots, and dandelion imagery, and see a majestic but decrepit manor still standing in the forest. Alden warns them that Lord Holda is sensitive, disinherited, and requires patience and flattery, Colden takes Moss Foot to the stables, and the party uses magical checks, history, and cautious observation before finally agreeing to enter.",
+          "longSummary": "After an uneventful watch, the party breaks camp and follows Alden through increasingly dense old woodland where the path vanishes, wildlife dwindles, and even Moss Foot becomes more alert. They press through lunch to arrive before dark, pass a ruined wall, gate, moat, roots, and dandelion imagery, and see a majestic but decrepit manor still standing in the forest. Alden warns them that Lord Hulda is sensitive, disinherited, and requires patience and flattery, Colden takes Moss Foot to the stables, and the party uses magical checks, history, and cautious observation before finally agreeing to enter.",
           "locationHints": {
             "refs": [
               "old wood west of Tollen",
@@ -824,13 +824,13 @@
               "name": "Alden",
               "role": "encountered",
               "context": "guide to Dandelion House",
-              "notes": "He keeps a steady pace, appears to know the route, and briefs the party on Lord Holda."
+              "notes": "He keeps a steady pace, appears to know the route, and briefs the party on Lord Hulda."
             },
             {
-              "name": "Lord Holda",
+              "name": "Lord Hulda",
               "role": "mentioned",
               "context": "new master of Dandelion House",
-              "notes": "Alden says Holda is difficult, proud, and desperate for the house to fulfill his lifelong dream."
+              "notes": "Alden says Hulda is difficult, proud, and desperate for the house to fulfill his lifelong dream."
             },
             {
               "name": "Colden",
@@ -888,7 +888,7 @@
       ],
       "npcRefs": [
         "Alden",
-        "Lord Holda"
+        "Lord Hulda"
       ],
       "organizationRefs": [],
       "itemRefs": [
@@ -899,16 +899,16 @@
       ],
       "combatEnemyRefs": [],
       "sourceShortSummaries": [
-        "Inside Dandelion House, the party examines the preserved but unsettling manor and meets Lord Holda before dinner."
+        "Inside Dandelion House, the party examines the preserved but unsettling manor and meets Lord Hulda before dinner."
       ],
       "sourceLongSummaries": [
-        "Alden leads the group through the dusty entry hall, where paths through the dust, magical preservation, old rooms, a grandfather clock, and garden-themed tapestries make the house feel both magnificent and ominous. Edric's detection spell finds no fey or undead nearby, Tarek checks tracks in the dust, and Kaito grows increasingly uneasy about the house's empty, party-haunted grandeur. On the third floor, the party finds Lord Holda in the last golden light, hears Alden formally present them, and then follows Holda down to the kitchen, where preserved magical conveniences and a cleaning bar are used before dinner."
+        "Alden leads the group through the dusty entry hall, where paths through the dust, magical preservation, old rooms, a grandfather clock, and garden-themed tapestries make the house feel both magnificent and ominous. Edric's detection spell finds no fey or undead nearby, Tarek checks tracks in the dust, and Kaito grows increasingly uneasy about the house's empty, party-haunted grandeur. On the third floor, the party finds Lord Hulda in the last golden light, hears Alden formally present them, and then follows Hulda down to the kitchen, where preserved magical conveniences and a cleaning bar are used before dinner."
       ],
       "sourceEntries": [
         {
           "beatId": "B04",
           "title": "Inside The Manor",
-          "boundaryReason": "The group enters Dandelion House, explores the dusty preserved interior, ascends to meet Lord Holda, and gets seated and cleaned before dinner; the next beat starts with Holda's substantive explanation at the table.",
+          "boundaryReason": "The group enters Dandelion House, explores the dusty preserved interior, ascends to meet Lord Hulda, and gets seated and cleaned before dinner; the next beat starts with Hulda's substantive explanation at the table.",
           "dateStart": "1740-10-04",
           "dateEnd": null,
           "timeWindow": "evening",
@@ -916,8 +916,8 @@
             "startUid": "u1130",
             "endUid": "u1415"
           },
-          "shortSummary": "Inside Dandelion House, the party examines the preserved but unsettling manor and meets Lord Holda before dinner.",
-          "longSummary": "Alden leads the group through the dusty entry hall, where paths through the dust, magical preservation, old rooms, a grandfather clock, and garden-themed tapestries make the house feel both magnificent and ominous. Edric's detection spell finds no fey or undead nearby, Tarek checks tracks in the dust, and Kaito grows increasingly uneasy about the house's empty, party-haunted grandeur. On the third floor, the party finds Lord Holda in the last golden light, hears Alden formally present them, and then follows Holda down to the kitchen, where preserved magical conveniences and a cleaning bar are used before dinner.",
+          "shortSummary": "Inside Dandelion House, the party examines the preserved but unsettling manor and meets Lord Hulda before dinner.",
+          "longSummary": "Alden leads the group through the dusty entry hall, where paths through the dust, magical preservation, old rooms, a grandfather clock, and garden-themed tapestries make the house feel both magnificent and ominous. Edric's detection spell finds no fey or undead nearby, Tarek checks tracks in the dust, and Kaito grows increasingly uneasy about the house's empty, party-haunted grandeur. On the third floor, the party finds Lord Hulda in the last golden light, hears Alden formally present them, and then follows Hulda down to the kitchen, where preserved magical conveniences and a cleaning bar are used before dinner.",
           "locationHints": {
             "refs": [
               "Dandelion House"
@@ -930,10 +930,10 @@
               "name": "Alden",
               "role": "encountered",
               "context": "servant and presenter",
-              "notes": "He leads the party through the house and introduces them to Lord Holda."
+              "notes": "He leads the party through the house and introduces them to Lord Hulda."
             },
             {
-              "name": "Lord Holda",
+              "name": "Lord Hulda",
               "role": "encountered",
               "context": "lord of Dandelion House",
               "notes": "He is a scarred, dangerous-looking former adventurer who appraises the party before inviting them to eat."
@@ -967,7 +967,7 @@
     {
       "blockId": "recap-005",
       "kind": "beat",
-      "title": "Holda Explains The Contract",
+      "title": "Hulda Explains The Contract",
       "beatIds": [
         "B05"
       ],
@@ -989,7 +989,7 @@
         "Dandelion House"
       ],
       "npcRefs": [
-        "Lord Holda",
+        "Lord Hulda",
         "Alden"
       ],
       "organizationRefs": [],
@@ -998,16 +998,16 @@
       ],
       "combatEnemyRefs": [],
       "sourceShortSummaries": [
-        "Lord Holda explains the ancient deed and hires the party to end an unknown treaty beyond a basement door."
+        "Lord Hulda explains the ancient deed and hires the party to end an unknown treaty beyond a basement door."
       ],
       "sourceLongSummaries": [
-        "Over dinner, Holda recounts decades as an adventurer, a costly victory over a young dragon, and the strange elf who delivered a centuries-old deed naming him heir to Dandelion House, its lands, and its treasure. The deed is also a contract: the house and hoard become his only if he steps through a door in the floor and convinces the man on the other side to end a long-held treaty. Holda admits he failed badly, offers the party half the treasure to succeed for him, and explains that the door opens onto another place with a road and another manor; Tarek reads the Sembaran contract and senses that something about its pieces does not fit, but the party agrees to rest and attempt the job in the morning."
+        "Over dinner, Hulda recounts decades as an adventurer, a costly victory over a young dragon, and the strange elf who delivered a centuries-old deed naming him heir to Dandelion House, its lands, and its treasure. The deed is also a contract: the house and hoard become his only if he steps through a door in the floor and convinces the man on the other side to end a long-held treaty. Hulda admits he failed badly, offers the party half the treasure to succeed for him, and explains that the door opens onto another place with a road and another manor; Tarek reads the Sembaran contract and senses that something about its pieces does not fit, but the party agrees to rest and attempt the job in the morning."
       ],
       "sourceEntries": [
         {
           "beatId": "B05",
-          "title": "Holda Explains The Contract",
-          "boundaryReason": "Dinner with Lord Holda covers his adventuring past, the ancient deed, the treaty condition, the other side of the door, and the party's acceptance of the job; the next beat begins with their private reaction before bed.",
+          "title": "Hulda Explains The Contract",
+          "boundaryReason": "Dinner with Lord Hulda covers his adventuring past, the ancient deed, the treaty condition, the other side of the door, and the party's acceptance of the job; the next beat begins with their private reaction before bed.",
           "dateStart": "1740-10-04",
           "dateEnd": null,
           "timeWindow": "night",
@@ -1015,18 +1015,18 @@
             "startUid": "u1416",
             "endUid": "u1832"
           },
-          "shortSummary": "Lord Holda explains the ancient deed and hires the party to end an unknown treaty beyond a basement door.",
-          "longSummary": "Over dinner, Holda recounts decades as an adventurer, a costly victory over a young dragon, and the strange elf who delivered a centuries-old deed naming him heir to Dandelion House, its lands, and its treasure. The deed is also a contract: the house and hoard become his only if he steps through a door in the floor and convinces the man on the other side to end a long-held treaty. Holda admits he failed badly, offers the party half the treasure to succeed for him, and explains that the door opens onto another place with a road and another manor; Tarek reads the Sembaran contract and senses that something about its pieces does not fit, but the party agrees to rest and attempt the job in the morning.",
+          "shortSummary": "Lord Hulda explains the ancient deed and hires the party to end an unknown treaty beyond a basement door.",
+          "longSummary": "Over dinner, Hulda recounts decades as an adventurer, a costly victory over a young dragon, and the strange elf who delivered a centuries-old deed naming him heir to Dandelion House, its lands, and its treasure. The deed is also a contract: the house and hoard become his only if he steps through a door in the floor and convinces the man on the other side to end a long-held treaty. Hulda admits he failed badly, offers the party half the treasure to succeed for him, and explains that the door opens onto another place with a road and another manor; Tarek reads the Sembaran contract and senses that something about its pieces does not fit, but the party agrees to rest and attempt the job in the morning.",
           "locationHints": {
             "refs": [
               "Dandelion House"
             ],
-            "context": "kitchen dinner with Lord Holda",
-            "notes": "The party remains at the kitchen table while Holda explains the contract and proposed job."
+            "context": "kitchen dinner with Lord Hulda",
+            "notes": "The party remains at the kitchen table while Hulda explains the contract and proposed job."
           },
           "npcDetails": [
             {
-              "name": "Lord Holda",
+              "name": "Lord Hulda",
               "role": "encountered",
               "context": "employer",
               "notes": "He wants the party to complete the treaty condition that he failed to fulfill."
@@ -1041,20 +1041,20 @@
               "name": "unnamed elf archivist",
               "role": "mentioned",
               "context": "deliverer of the deed",
-              "notes": "Holda says this elf's organization held the deed in trust until the right time."
+              "notes": "Hulda says this elf's organization held the deed in trust until the right time."
             },
             {
               "name": "unnamed lord beyond the door",
               "role": "mentioned",
               "context": "target of the treaty negotiation",
-              "notes": "Holda met him through the basement door but failed to learn much or persuade him."
+              "notes": "Hulda met him through the basement door but failed to learn much or persuade him."
             }
           ],
           "itemDetails": [
             {
               "name": "ancient deed and contract",
               "role": "encountered",
-              "notes": "The brittle Sembaran document names Holda and lays out the condition for inheriting Dandelion House."
+              "notes": "The brittle Sembaran document names Hulda and lays out the condition for inheriting Dandelion House."
             },
             {
               "name": "treaty",
@@ -1064,7 +1064,7 @@
             {
               "name": "treasure hoard",
               "role": "mentioned",
-              "notes": "Holda promises the party half the value of the gold, coin, jewels, and other treasure if they complete the job."
+              "notes": "Hulda promises the party half the value of the gold, coin, jewels, and other treasure if they complete the job."
             },
             {
               "name": "door in the floor",
@@ -1117,16 +1117,16 @@
       ],
       "combatEnemyRefs": [],
       "sourceShortSummaries": [
-        "After Holda leaves, the party debates the suspicious bargain, prepares for rest, and decides to see what lies below."
+        "After Hulda leaves, the party debates the suspicious bargain, prepares for rest, and decides to see what lies below."
       ],
       "sourceLongSummaries": [
-        "With Holda gone, Kaito is wildly excited by the possible infinite treasure while Txarro, Edric, Tarek, and Ayveen question the contract, the unknown treaty, and the possibility that ending it could be dangerous or unrewarding. Alden shows them how the magical sconces work, Edric checks that Moss Foot is safe, Txarro casts Goodberry and hands out supplies, and Tarek pockets a spoon before the group agrees that they have come too far not to look through the trapdoor. The beat ends with the party choosing rest rather than further pilfering or exploration before the morning descent."
+        "With Hulda gone, Kaito is wildly excited by the possible infinite treasure while Txarro, Edric, Tarek, and Ayveen question the contract, the unknown treaty, and the possibility that ending it could be dangerous or unrewarding. Alden shows them how the magical sconces work, Edric checks that Moss Foot is safe, Txarro casts Goodberry and hands out supplies, and Tarek pockets a spoon before the group agrees that they have come too far not to look through the trapdoor. The beat ends with the party choosing rest rather than further pilfering or exploration before the morning descent."
       ],
       "sourceEntries": [
         {
           "beatId": "B06",
           "title": "Deal And Nighttime Doubts",
-          "boundaryReason": "After Holda leaves, the party debates the suspicious contract and possible treasure, handles last errands and supplies, and takes the long rest; the next beat begins when the magical clock wakes them before dawn.",
+          "boundaryReason": "After Hulda leaves, the party debates the suspicious contract and possible treasure, handles last errands and supplies, and takes the long rest; the next beat begins when the magical clock wakes them before dawn.",
           "dateStart": "1740-10-04",
           "dateEnd": null,
           "timeWindow": "night",
@@ -1134,8 +1134,8 @@
             "startUid": "u1833",
             "endUid": "u2010"
           },
-          "shortSummary": "After Holda leaves, the party debates the suspicious bargain, prepares for rest, and decides to see what lies below.",
-          "longSummary": "With Holda gone, Kaito is wildly excited by the possible infinite treasure while Txarro, Edric, Tarek, and Ayveen question the contract, the unknown treaty, and the possibility that ending it could be dangerous or unrewarding. Alden shows them how the magical sconces work, Edric checks that Moss Foot is safe, Txarro casts Goodberry and hands out supplies, and Tarek pockets a spoon before the group agrees that they have come too far not to look through the trapdoor. The beat ends with the party choosing rest rather than further pilfering or exploration before the morning descent.",
+          "shortSummary": "After Hulda leaves, the party debates the suspicious bargain, prepares for rest, and decides to see what lies below.",
+          "longSummary": "With Hulda gone, Kaito is wildly excited by the possible infinite treasure while Txarro, Edric, Tarek, and Ayveen question the contract, the unknown treaty, and the possibility that ending it could be dangerous or unrewarding. Alden shows them how the magical sconces work, Edric checks that Moss Foot is safe, Txarro casts Goodberry and hands out supplies, and Tarek pockets a spoon before the group agrees that they have come too far not to look through the trapdoor. The beat ends with the party choosing rest rather than further pilfering or exploration before the morning descent.",
           "locationHints": {
             "refs": [
               "Dandelion House"
@@ -1145,7 +1145,7 @@
           },
           "npcDetails": [
             {
-              "name": "Lord Holda",
+              "name": "Lord Hulda",
               "role": "mentioned",
               "context": "absent employer",
               "notes": "The party debates whether he is trustworthy after he leaves the room."
@@ -1220,7 +1220,7 @@
       ],
       "npcRefs": [
         "Alden",
-        "Lord Holda"
+        "Lord Hulda"
       ],
       "organizationRefs": [],
       "itemRefs": [
@@ -1232,7 +1232,7 @@
         "Before dawn, the party descends below Dandelion House, enters a root tunnel, and is sealed in as Tarek realizes the contract's language is wrong."
       ],
       "sourceLongSummaries": [
-        "A magical clock wakes the party before dawn, and Alden leads them from their rooms down through the ground floor, basement, and a rougher lower stair opened with a glowing gold key. In a root-covered sub-cellar, Lord Holda waits by a hidden door and tells them to crawl through the dark passage, promising to hold this end open. The party enters in order through what proves to be the hollow center of an enormous dry root, but the door closes behind them; in the same moment, Tarek realizes that the unquestionably 400-year-old contract was written in perfectly contemporary Sembaran, and the session ends with the way back shut."
+        "A magical clock wakes the party before dawn, and Alden leads them from their rooms down through the ground floor, basement, and a rougher lower stair opened with a glowing gold key. In a root-covered sub-cellar, Lord Hulda waits by a hidden door and tells them to crawl through the dark passage, promising to hold this end open. The party enters in order through what proves to be the hollow center of an enormous dry root, but the door closes behind them; in the same moment, Tarek realizes that the unquestionably 400-year-old contract was written in perfectly contemporary Sembaran, and the session ends with the way back shut."
       ],
       "sourceEntries": [
         {
@@ -1247,7 +1247,7 @@
             "endUid": "u2156"
           },
           "shortSummary": "Before dawn, the party descends below Dandelion House, enters a root tunnel, and is sealed in as Tarek realizes the contract's language is wrong.",
-          "longSummary": "A magical clock wakes the party before dawn, and Alden leads them from their rooms down through the ground floor, basement, and a rougher lower stair opened with a glowing gold key. In a root-covered sub-cellar, Lord Holda waits by a hidden door and tells them to crawl through the dark passage, promising to hold this end open. The party enters in order through what proves to be the hollow center of an enormous dry root, but the door closes behind them; in the same moment, Tarek realizes that the unquestionably 400-year-old contract was written in perfectly contemporary Sembaran, and the session ends with the way back shut.",
+          "longSummary": "A magical clock wakes the party before dawn, and Alden leads them from their rooms down through the ground floor, basement, and a rougher lower stair opened with a glowing gold key. In a root-covered sub-cellar, Lord Hulda waits by a hidden door and tells them to crawl through the dark passage, promising to hold this end open. The party enters in order through what proves to be the hollow center of an enormous dry root, but the door closes behind them; in the same moment, Tarek realizes that the unquestionably 400-year-old contract was written in perfectly contemporary Sembaran, and the session ends with the way back shut.",
           "locationHints": {
             "refs": [
               "guest quarters",
@@ -1264,7 +1264,7 @@
               "notes": "He wakes and collects the party before leading them down."
             },
             {
-              "name": "Lord Holda",
+              "name": "Lord Hulda",
               "role": "encountered",
               "context": "employer at the hidden door",
               "notes": "He stands by the hidden door and says he will keep this end open."
@@ -1291,7 +1291,7 @@
             {
               "name": "Philosopher's Guild",
               "role": "mentioned",
-              "notes": "Txarro wonders why Holda did not take the suspicious contract to the Philosopher's Guild."
+              "notes": "Txarro wonders why Hulda did not take the suspicious contract to the Philosopher's Guild."
             }
           ]
         }
@@ -1335,7 +1335,7 @@
         ]
       },
       {
-        "name": "Lord Holda",
+        "name": "Lord Hulda",
         "beatIds": [
           "B04",
           "B05",
@@ -1489,7 +1489,7 @@
           ]
         },
         {
-          "name": "Lord Holda",
+          "name": "Lord Hulda",
           "relationKinds": [
             "met"
           ],

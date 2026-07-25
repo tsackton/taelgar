@@ -20,19 +20,19 @@ DM: There we go.
 Edric: Now we got it.
 
 %% u0011-u0022 %%
-DM: Great. Alright. Ready? The five of you, who have been adventuring and traveling together for the better part of this last year, have been hired by a minor lord named Holda, the second son of a no-name lord from southern Sembara. He spent the last twenty-five years or more as an adventurer and sellsword, always trying to find and make his fortune and never quite succeeding. Last spring, after killing a dragon that had come down from the north, losing his entire party in the process, and discovering that, since it was a wandering dragon, there was no hoard, he found himself with nothing more in his purse than he had three decades ago when he left home. He was drinking his misery away when a long-lived elf approached him and gave him the deed to a...
+DM: Great. Alright. Ready? The five of you, who have been adventuring and traveling together for the better part of this last year, have been hired by a minor lord named Hulda, the second son of a no-name lord from southern Sembara. He spent the last twenty-five years or more as an adventurer and sellsword, always trying to find and make his fortune and never quite succeeding. Last spring, after killing a dragon that had come down from the north, losing his entire party in the process, and discovering that, since it was a wandering dragon, there was no hoard, he found himself with nothing more in his purse than he had three decades ago when he left home. He was drinking his misery away when a long-lived elf approached him and gave him the deed to a...
 
 %% u0023-u0034 %%
 DM: House in the wilderness, in the far north of Sembara or northwest of Tollen, in a place long since swallowed by woods. You were hired by Alden, a small, stout, pale human with a curiosity about you all and a profound fear of fire, apparently, to go there. Over several days, you journeyed upriver and then crossed through the forest, which grew denser, older, wilder, and less inhabited the farther you went. At last you came to Dandelion House, a marvel of late Drankorian architecture at least seven hundred years old, and a funny combination of both glorious and decrepit. Parts of it...
 
 %% u0035-u0046 %%
-DM: The windows and wooden window frames were decayed away into powder, as was much of the furniture inside, but not all of it. There must be some sort of preservation magic woven through the structure. Despite the misgivings of various party members, you met Lord Holda: proud, bitter, resentful, over the hill, not in a cliched sort of way, but with the sense that his best days were behind him and they were not that great anyway. He seemed stuck on a wheel, always turning, one year after the next, always different but always the same. He told you the story of this self-described elven archivist, who gave him a deed to the house, its lands, and all the treasures therein, on the condition that Holda step through a door in the floor and convince a man beyond to end a long-held treaty.
+DM: The windows and wooden window frames were decayed away into powder, as was much of the furniture inside, but not all of it. There must be some sort of preservation magic woven through the structure. Despite the misgivings of various party members, you met Lord Hulda: proud, bitter, resentful, over the hill, not in a cliched sort of way, but with the sense that his best days were behind him and they were not that great anyway. He seemed stuck on a wheel, always turning, one year after the next, always different but always the same. He told you the story of this self-described elven archivist, who gave him a deed to the house, its lands, and all the treasures therein, on the condition that Hulda step through a door in the floor and convince a man beyond to end a long-held treaty.
 
 %% u0047-u0058 %%
-DM: Holda, whose only negotiation strategy, and maybe his only strategy for moving through the world, seems to be intimidation, failed immediately to convince the man on the other side of this door of anything and turned to the party for help. Tarek, reading the document, knew that something did not fit. Kaito, by this point, had gone from deep fear bordering on paranoia to excitement bordering on rapturous enthusiasm. Ayveen observed that ending an unknown treaty may not be a wise course of action, and Txarro pointed out that the treasure could equally well be a trap or a metaphor. Nonetheless, the party arose before dawn, woken by the grandfather clock, still in fine condition. Alden collected you from your rooms, led you down through the ground floor, down through a massive basement, and down further still, opening a locked door with a glowing gold key. He led you down through a passage hewn from living rock into a root-covered subcellar that surely predates the entire manor above it. On reflection, subcellar is not even quite the right word. You assumed that at the moment, given its position below the cellar, but there was nothing in it except walls covered entirely in massive, hollowed-out roots.
+DM: Hulda, whose only negotiation strategy, and maybe his only strategy for moving through the world, seems to be intimidation, failed immediately to convince the man on the other side of this door of anything and turned to the party for help. Tarek, reading the document, knew that something did not fit. Kaito, by this point, had gone from deep fear bordering on paranoia to excitement bordering on rapturous enthusiasm. Ayveen observed that ending an unknown treaty may not be a wise course of action, and Txarro pointed out that the treasure could equally well be a trap or a metaphor. Nonetheless, the party arose before dawn, woken by the grandfather clock, still in fine condition. Alden collected you from your rooms, led you down through the ground floor, down through a massive basement, and down further still, opening a locked door with a glowing gold key. He led you down through a passage hewn from living rock into a root-covered subcellar that surely predates the entire manor above it. On reflection, subcellar is not even quite the right word. You assumed that at the moment, given its position below the cellar, but there was nothing in it except walls covered entirely in massive, hollowed-out roots.
 
 %% u0059-u0068 %%
-DM: Holda was waiting there and opened a door through this massive hollowed-out root, promising to keep an eye on this end while you went through and took care of business on the far side. Once you get to the far side, he said, go up and up, out and onto the road, and you will see the manor just a little ways ahead; seek there the master of the house. Just as he closed the door behind you, Tarek realized the unsettling thing about the contract: it was four hundred years old, but written in contemporary Sembaran. We open in that moment, illuminated by a couple of light spells, as the five of you are crawling single file through this tunnel, barely bigger than you, making your way toward who knows what.
+DM: Hulda was waiting there and opened a door through this massive hollowed-out root, promising to keep an eye on this end while you went through and took care of business on the far side. Once you get to the far side, he said, go up and up, out and onto the road, and you will see the manor just a little ways ahead; seek there the master of the house. Just as he closed the door behind you, Tarek realized the unsettling thing about the contract: it was four hundred years old, but written in contemporary Sembaran. We open in that moment, illuminated by a couple of light spells, as the five of you are crawling single file through this tunnel, barely bigger than you, making your way toward who knows what.
 
 %% u0069 %%
 Ayveen: Had we crawled far along, or can I do, like, a reaction to the door shutting?
@@ -41,7 +41,7 @@ Ayveen: Had we crawled far along, or can I do, like, a reaction to the door shut
 DM: No, it is probably fifty feet behind you by this point, and there is not really a way to turn around. Theoretically, you could crawl straight backward, but it is not like you can switch your order or turn around.
 
 %% u0073-u0076 %%
-Ayveen: What I was really thinking is, just out of curiosity, seeing if Message sends through whatever the door is made of. I would address Lord Holda and say...
+Ayveen: What I was really thinking is, just out of curiosity, seeing if Message sends through whatever the door is made of. I would address Lord Hulda and say...
 
 %% u0077 %%
 Ayveen: Please open the door.
@@ -116,7 +116,7 @@ Tarek: Boom.
 Kaito Min: And he was normal. There was nothing unusual about him, right?
 
 %% u0119-u0122 %%
-DM: You detected thoughts on Alden. Yeah. Oh, yeah... but not on Holda.
+DM: You detected thoughts on Alden. Yeah. Oh, yeah... but not on Hulda.
 
 %% u0123-u0125 %%
 Kaito Min: Oh no, that's dumb. Okay. My bad.
@@ -374,7 +374,7 @@ DM: Exactly.
 Tarek: Okay.
 
 %% u0324-u0328 %%
-DM: Yep. This illuminated house ahead is presumably the manor Holda said you would see just ahead.
+DM: Yep. This illuminated house ahead is presumably the manor Hulda said you would see just ahead.
 
 %% u0329 %%
 Txarro: What else do we see? I'm going to... look around.

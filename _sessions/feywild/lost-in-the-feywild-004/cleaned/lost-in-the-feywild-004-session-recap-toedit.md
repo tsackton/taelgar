@@ -15,7 +15,7 @@
 
 ### At The 27th Door
 
-The party begins at the Lone Door after reviewing how Holda's commission, Dandelion House, Lord Endless Ending, and Arithrimos Lamperum brought them here. Lord Endless Ending wants the glass key from the cold-iron 27th Room returned and broken, but the party remains unsure whether doing that would help him, Holda, or themselves.
+The party begins at the Lone Door after reviewing how Hulda's commission, Dandelion House, Lord Endless Ending, and Arithrimos Lamperum brought them here. Lord Endless Ending wants the glass key from the cold-iron 27th Room returned and broken, but the party remains unsure whether doing that would help him, Hulda, or themselves.
 
 Before entering, the party takes stock. Txarro is wary and wants home, Edric is uneasy but ready for a problem he can hit, Tarek and Kaito face the uncertainty in their own ways, and Ayveen stays in information-gathering mode. Menestheus, still shocked by the 700-year jump and resigned to his mission, opens the door and steps through with the party following.
 
@@ -71,7 +71,7 @@ the prisoner (mentioned): being locked inside the central 27th Room, described b
 
 Menestheus (companion): displaced Drankorian mathematician and mapmaker from Arithrimos Lamperum
 Lord Endless Ending (mentioned): fey lord tied to the bargain that sends mortal guests toward the 27th Room
-Holda (mentioned): original employer whose commission brought the party to Dandelion House
+Hulda (mentioned): original employer whose commission brought the party to Dandelion House
 Thalestria (mentioned): former head of Arithrimos Lamperum, linked to the bargain and the house's altered purpose
 Rakshasa (mentioned): tiger-headed party guest who previously explained the bargain
 ## Locations

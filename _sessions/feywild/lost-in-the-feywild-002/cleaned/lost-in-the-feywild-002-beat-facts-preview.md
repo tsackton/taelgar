@@ -9,16 +9,16 @@
 **Date**: 1740-10-05
 **Time Window**: evening
 **Combat**: no
-**Short Summary**: The party crawls through the root tunnel, loses contact with Holda, and emerges into the Feywild at twilight.
-**Long Summary**: After a recap of Holda's contract and the door beneath Dandelion House, the party opens in the narrow root tunnel after Holda has closed the way behind them. Ayveen tries to message Holda to reopen the door and gets no response, Kaito and the others debate what they can still trust, and the tunnel changes from wood to coral- or bone-like material. Tarek compares it to a piece he picked up, the group reaches a mirrored chamber and climbs out through a ruined root house, realizing they have crossed into an otherworldly twilight landscape with distant estates and a road ahead.
+**Short Summary**: The party crawls through the root tunnel, loses contact with Hulda, and emerges into the Feywild at twilight.
+**Long Summary**: After a recap of Hulda's contract and the door beneath Dandelion House, the party opens in the narrow root tunnel after Hulda has closed the way behind them. Ayveen tries to message Hulda to reopen the door and gets no response, Kaito and the others debate what they can still trust, and the tunnel changes from wood to coral- or bone-like material. Tarek compares it to a piece he picked up, the group reaches a mirrored chamber and climbs out through a ruined root house, realizing they have crossed into an otherworldly twilight landscape with distant estates and a road ahead.
 **Location**:
 - Dandelion House -> Twilight Kingdom: root tunnel from the subcellar to the ruined root house on the far side
   Note: The party moves from the tunnel beneath Dandelion House into the Feywild region later named the Twilight Kingdom.
 **NPCs**:
-- Lord Holda (mentioned): employer at Dandelion House. He hired the party, closed the door behind them, and does not respond to Ayveen's message.
-- Alden (mentioned): Holda's agent. The recap confirms Kaito previously detected thoughts on Alden but not on Holda.
-- Lord Endless Ending (mentioned): master of the manor beyond the door. Holda described him only as the man or master of the house; his identity is clarified later in the session.
-- unnamed elven archivist (mentioned): source of the deed. The recap repeats that an elf calling himself an archivist gave Holda the deed to Dandelion House.
+- Lord Hulda (mentioned): employer at Dandelion House. He hired the party, closed the door behind them, and does not respond to Ayveen's message.
+- Alden (mentioned): Hulda's agent. The recap confirms Kaito previously detected thoughts on Alden but not on Hulda.
+- Lord Endless Ending (mentioned): master of the manor beyond the door. Hulda described him only as the man or master of the house; his identity is clarified later in the session.
+- unnamed elven archivist (mentioned): source of the deed. The recap repeats that an elf calling himself an archivist gave Hulda the deed to Dandelion House.
 **Items**:
 - ancient Sembaran contract (mentioned): Tarek's earlier concern is restated: the 400-year-old contract was written in contemporary Sembaran.
 - glowing gold key (mentioned): Alden used it in the recap to open the lower locked door beneath Dandelion House.
@@ -33,14 +33,14 @@
 **Time Window**: evening
 **Combat**: no
 **Short Summary**: The party follows the road toward the lit manor and finds mutilated human bodies along the way.
-**Long Summary**: Leaving the ruined root house behind, the party sees a lit celebration at a manor a few miles down the only visible road through a strange countryside of hedgerows, distant lights, and unfamiliar stars. As they debate Holda's honesty and continue toward the manor, Txarro spots a dead human with green-feathered arrows in the back and a head smashed by a maul-like force after death. The group examines tracks, pockets, and spell components, then continues past a burned pyre with human bones and another stripped corpse, recognizing that the road is dangerous but still their clearest path forward.
+**Long Summary**: Leaving the ruined root house behind, the party sees a lit celebration at a manor a few miles down the only visible road through a strange countryside of hedgerows, distant lights, and unfamiliar stars. As they debate Hulda's honesty and continue toward the manor, Txarro spots a dead human with green-feathered arrows in the back and a head smashed by a maul-like force after death. The group examines tracks, pockets, and spell components, then continues past a burned pyre with human bones and another stripped corpse, recognizing that the road is dangerous but still their clearest path forward.
 **Location**:
 - ruined root house (Twilight Kingdom) -> road near Lord Endless Ending's manor (Twilight Kingdom): travel by road through twilight hills and hedgerows toward the lit manor
   Note: The party remains on the road that leads from the root-house exit toward the manor.
 **NPCs**:
 - unnamed dead wizard (encountered): first body beside the road. The human-sized corpse carries spell components, suggesting the dead traveler was probably a wizard.
 - unnamed dead travelers (encountered): additional bodies and burned bones along the road. The party finds a burned body or bodies and another arrow-shot corpse after the first discovery.
-- Lord Holda (mentioned): source of the road directions. The party questions whether he deceived them by closing the door after promising to keep watch.
+- Lord Hulda (mentioned): source of the road directions. The party questions whether he deceived them by closing the door after promising to keep watch.
 **Items**:
 - green-feathered arrows (encountered): The first corpse was shot from behind with beautifully crafted arrows bearing bright, unfamiliar feather work.
 - wizard's spell components (encountered): The corpse's pockets hold a writing kit, copper wire, a mouse skull, cotton fluff, and other components.
@@ -151,19 +151,19 @@
 **Date**: 1740-10-05
 **Time Window**: evening
 **Combat**: no
-**Short Summary**: The party connects Holda's mission to the naming bargain before Lord Endless Ending sends another human away and beckons Edric.
-**Long Summary**: Ayveen asks the Rakshasa whether he needs to leave before the grandfather clock chimes again, and he says he has time because other mortals remain at the party. After the party explains that Holda sent them, the Rakshasa advises that shouting does not work and hears Ayveen's theory that the wizard's naming created the truce or bargain Holda wants broken. He confirms it is the only bargain he knows of and suggests Lord Endless Ending may be receptive to ending it; Edric reads the Rakshasa as truthful but self-interested rather than friendly. When Edric searches for another human, the clock strikes zero, Lord Endless Ending whispers to a human who hurries out, then locks eyes with Edric and gestures him closer as Txarro sends his owl after the departing human.
+**Short Summary**: The party connects Hulda's mission to the naming bargain before Lord Endless Ending sends another human away and beckons Edric.
+**Long Summary**: Ayveen asks the Rakshasa whether he needs to leave before the grandfather clock chimes again, and he says he has time because other mortals remain at the party. After the party explains that Hulda sent them, the Rakshasa advises that shouting does not work and hears Ayveen's theory that the wizard's naming created the truce or bargain Hulda wants broken. He confirms it is the only bargain he knows of and suggests Lord Endless Ending may be receptive to ending it; Edric reads the Rakshasa as truthful but self-interested rather than friendly. When Edric searches for another human, the clock strikes zero, Lord Endless Ending whispers to a human who hurries out, then locks eyes with Edric and gestures him closer as Txarro sends his owl after the departing human.
 **Location**:
 - Lord Endless Ending's manor: back porch, bar area, and ballroom
   Note: The beat begins with the Rakshasa conversation and ends across the ballroom as Lord Endless Ending appears.
 **NPCs**:
 - Rakshasa (encountered): tiger-headed guest and informant. He gives advice, comments on the bargain, and is judged truthful but self-interested.
 - Lord Endless Ending (encountered): Lord of the House. He whispers to a human after the clock strikes zero and then beckons Edric.
-- Lord Holda (mentioned): angry man who sent the party. The Rakshasa saw Holda's failed conversation with the Lord and says bullying a lord in his own manor was unlikely to work.
+- Lord Hulda (mentioned): angry man who sent the party. The Rakshasa saw Hulda's failed conversation with the Lord and says bullying a lord in his own manor was unlikely to work.
 - unnamed human (encountered): mortal guest sent out after the clock strikes zero. Lord Endless Ending whispers to this human, who then hurries out the door.
 - road guards (mentioned): keepers of the roads between houses. The Rakshasa says they guard what travels the roads, not the party guests.
 - Pandel and companion (mentioned): drunken halflings at the bar. They do not make it past the bar and can be heard clattering among the bottles.
 **Items**:
 - grandfather clock (encountered): The clock strikes zero just before Lord Endless Ending sends the human away.
-- naming bargain (mentioned): The party treats the wizard's naming contest bargain as the likely treaty or truce Holda wants broken.
+- naming bargain (mentioned): The party treats the wizard's naming contest bargain as the likely treaty or truce Hulda wants broken.
 **Organizations**: none

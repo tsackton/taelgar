@@ -57,13 +57,13 @@
 - Date Resolution: inferred
 - Time Window: evening
 - Combat: no
-- Boundary Reason: The group enters Dandelion House, explores the dusty preserved interior, ascends to meet Lord Holda, and gets seated and cleaned before dinner; the next beat starts with Holda's substantive explanation at the table.
+- Boundary Reason: The group enters Dandelion House, explores the dusty preserved interior, ascends to meet Lord Hulda, and gets seated and cleaned before dinner; the next beat starts with Hulda's substantive explanation at the table.
 - Date Evidence:
   - u1128 says Alden wants them inside before dark tonight.
-  - u1267-u1297 describe the last sunlight fading as Holda is introduced.
+  - u1267-u1297 describe the last sunlight fading as Hulda is introduced.
   - u1313-u1335 move the party to the kitchen for dinner.
 
-## B05 — Holda Explains The Contract
+## B05 — Hulda Explains The Contract
 
 - Range: `u1416` → `u1832`
 - Lines: 417
@@ -71,7 +71,7 @@
 - Date Resolution: inferred
 - Time Window: night
 - Combat: no
-- Boundary Reason: Dinner with Lord Holda covers his adventuring past, the ancient deed, the treaty condition, the other side of the door, and the party's acceptance of the job; the next beat begins with their private reaction before bed.
+- Boundary Reason: Dinner with Lord Hulda covers his adventuring past, the ancient deed, the treaty condition, the other side of the door, and the party's acceptance of the job; the next beat begins with their private reaction before bed.
 - Date Evidence:
   - u1416-u1422 restart dinner after the break.
   - u1571 says the attempt should wait until morning.
@@ -85,7 +85,7 @@
 - Date Resolution: inferred
 - Time Window: night
 - Combat: no
-- Boundary Reason: After Holda leaves, the party debates the suspicious contract and possible treasure, handles last errands and supplies, and takes the long rest; the next beat begins when the magical clock wakes them before dawn.
+- Boundary Reason: After Hulda leaves, the party debates the suspicious contract and possible treasure, handles last errands and supplies, and takes the long rest; the next beat begins when the magical clock wakes them before dawn.
 - Date Evidence:
   - u1831-u1842 explicitly say not to go into the basement tonight and to rest before an early day tomorrow.
   - u1915 marks the grandfather clock chiming ten o'clock.
