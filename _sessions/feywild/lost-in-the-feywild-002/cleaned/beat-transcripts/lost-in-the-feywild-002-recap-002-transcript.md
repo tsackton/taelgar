@@ -512,7 +512,7 @@ DM: And this one has no effects at all, like they've been taken or stripped from
 Tarek: I've been to certain kinds of events or parties where, as you walk up, you see a little vomit or something. There are clues about what you are getting yourself into, and sometimes you do turn around and go home. I feel like we are not in that situation right now. This is not great, though.
 
 %% u0652 %%
-Ayveen: Lord Holda didn't mention a path strewn with dead bodies.
+Ayveen: Lord Hulda didn't mention a path strewn with dead bodies.
 
 %% u0653 %%
 Kaito Min: Well, he closed the door behind us when he said he was going to keep it open, and...

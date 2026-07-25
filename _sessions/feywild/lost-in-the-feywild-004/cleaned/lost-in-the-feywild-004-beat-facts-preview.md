@@ -10,14 +10,14 @@
 **Time Window**: evening
 **Combat**: no
 **Short Summary**: The party recaps the bargain with Lord Endless Ending, resets their situation at the door to the 27th Room, and follows Menestheus inside.
-**Long Summary**: The session opens with a recap of Holda's commission, Dandelion House, the Feywild party, Lord Endless Ending's bargain, and Menestheus's role in Arithrimos Lamperum. At the Lone Door, the party reviews what they know about the glass key, the cold-iron 27th Room, and the uncertain route home, then describes their readiness and doubts. Menestheus, resigned and still reeling from the time jump, opens the door and steps across the threshold, with Edric and Tarek following.
+**Long Summary**: The session opens with a recap of Hulda's commission, Dandelion House, the Feywild party, Lord Endless Ending's bargain, and Menestheus's role in Arithrimos Lamperum. At the Lone Door, the party reviews what they know about the glass key, the cold-iron 27th Room, and the uncertain route home, then describes their readiness and doubts. Menestheus, resigned and still reeling from the time jump, opens the door and steps across the threshold, with Edric and Tarek following.
 **Location**:
 - The Lone Door: western promontory and doorframe outside the 27th Room
   Note: The beat is mostly recap and character reset before Menestheus opens the door and the party steps inside.
 **NPCs**:
 - Menestheus (companion): Arithrimos Lamperum mathematician and mapmaker. He was sent through the door after being stranded at Lord Endless Ending's party for roughly 700 years.
 - Lord Endless Ending (mentioned): Fey lord tied to the bargain. He offered to undo the bargain if the party brings him the glass key from the 27th Room.
-- Holda (mentioned): original employer. His betrayal leaves the party unsure whether they still want his interests served.
+- Hulda (mentioned): original employer. His betrayal leaves the party unsure whether they still want his interests served.
 - Thalestria (mentioned): head of Arithrimos Lamperum. The recap identifies her as the one who tricked Lord Endless Ending into the bargain.
 - Rakshasa (mentioned): party guest. Previously helped explain how the bargain came to be.
 **Items**:

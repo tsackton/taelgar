@@ -3416,8 +3416,8 @@
         {
           "uid": "u0543",
           "header": "[u0543 | 00:51:03.460-00:51:07.589 | DM]",
-          "text": "Lord Holda just spruces it up a little bit and really moves in.",
-          "raw": "[u0543 | 00:51:03.460-00:51:07.589 | DM] Lord Holda just spruces it up a little bit and really moves in."
+          "text": "Lord Hulda just spruces it up a little bit and really moves in.",
+          "raw": "[u0543 | 00:51:03.460-00:51:07.589 | DM] Lord Hulda just spruces it up a little bit and really moves in."
         },
         {
           "uid": "u0544",
@@ -5330,8 +5330,8 @@
         {
           "uid": "u0849",
           "header": "[u0849 | 01:16:08.860-01:16:18.080 | DM]",
-          "text": "Before we go inside, I need to tell you that… Lord Holda can be… Difficult sometimes.",
-          "raw": "[u0849 | 01:16:08.860-01:16:18.080 | DM] Before we go inside, I need to tell you that… Lord Holda can be… Difficult sometimes."
+          "text": "Before we go inside, I need to tell you that… Lord Hulda can be… Difficult sometimes.",
+          "raw": "[u0849 | 01:16:08.860-01:16:18.080 | DM] Before we go inside, I need to tell you that… Lord Hulda can be… Difficult sometimes."
         },
         {
           "uid": "u0850",
@@ -7027,10 +7027,10 @@
         "dateEnd": null,
         "timeWindow": "evening",
         "containsCombat": false,
-        "boundaryReason": "The group enters Dandelion House, explores the dusty preserved interior, ascends to meet Lord Holda, and gets seated and cleaned before dinner; the next beat starts with Holda's substantive explanation at the table.",
+        "boundaryReason": "The group enters Dandelion House, explores the dusty preserved interior, ascends to meet Lord Hulda, and gets seated and cleaned before dinner; the next beat starts with Hulda's substantive explanation at the table.",
         "dateEvidence": [
           "u1128 says Alden wants them inside before dark tonight.",
-          "u1267-u1297 describe the last sunlight fading as Holda is introduced.",
+          "u1267-u1297 describe the last sunlight fading as Hulda is introduced.",
           "u1313-u1335 move the party to the kitchen for dinner."
         ],
         "startIndex": 1129,
@@ -7044,7 +7044,7 @@
       },
       "nextBeat": {
         "beatId": "B05",
-        "title": "Holda Explains The Contract",
+        "title": "Hulda Explains The Contract",
         "dateStart": "1740-10-04",
         "dateEnd": null
       },
@@ -7934,8 +7934,8 @@
         {
           "uid": "u1270",
           "header": "[u1270 | 01:47:30.080-01:47:37.530 | DM]",
-          "text": "Holda, who Alden told you is the second son of a minor lord, someone disinherited, resentful his whole life, that he was…",
-          "raw": "[u1270 | 01:47:30.080-01:47:37.530 | DM] Holda, who Alden told you is the second son of a minor lord, someone disinherited, resentful his whole life, that he was…"
+          "text": "Hulda, who Alden told you is the second son of a minor lord, someone disinherited, resentful his whole life, that he was…",
+          "raw": "[u1270 | 01:47:30.080-01:47:37.530 | DM] Hulda, who Alden told you is the second son of a minor lord, someone disinherited, resentful his whole life, that he was…"
         },
         {
           "uid": "u1271",
@@ -8318,8 +8318,8 @@
         {
           "uid": "u1334",
           "header": "[u1334 | 01:53:40.790-01:53:43.859 | DM]",
-          "text": "Says Lord Holda. I know you… you must be…",
-          "raw": "[u1334 | 01:53:40.790-01:53:43.859 | DM] Says Lord Holda. I know you… you must be…"
+          "text": "Says Lord Hulda. I know you… you must be…",
+          "raw": "[u1334 | 01:53:40.790-01:53:43.859 | DM] Says Lord Hulda. I know you… you must be…"
         },
         {
           "uid": "u1335",
@@ -8738,8 +8738,8 @@
         {
           "uid": "u1404",
           "header": "[u1404 | 01:57:48.200-01:57:56.009 | DM]",
-          "text": "Kaito, Kaito is, like, kind of accepting his fate, alright, we're gonna, we're gonna be here, we're gonna do this thing, so he just kind of shifts gears entirely and, like, walks right up to Lord Holda.",
-          "raw": "[u1404 | 01:57:48.200-01:57:56.009 | DM] Kaito, Kaito is, like, kind of accepting his fate, alright, we're gonna, we're gonna be here, we're gonna do this thing, so he just kind of shifts gears entirely and, like, walks right up to Lord Holda."
+          "text": "Kaito, Kaito is, like, kind of accepting his fate, alright, we're gonna, we're gonna be here, we're gonna do this thing, so he just kind of shifts gears entirely and, like, walks right up to Lord Hulda.",
+          "raw": "[u1404 | 01:57:48.200-01:57:56.009 | DM] Kaito, Kaito is, like, kind of accepting his fate, alright, we're gonna, we're gonna be here, we're gonna do this thing, so he just kind of shifts gears entirely and, like, walks right up to Lord Hulda."
         },
         {
           "uid": "u1405",
@@ -8750,8 +8750,8 @@
         {
           "uid": "u1406",
           "header": "[u1406 | 01:58:03.160-01:58:09.480 | DM]",
-          "text": "looks around… And… and it's… and it's basically, like, Lord Holda.",
-          "raw": "[u1406 | 01:58:03.160-01:58:09.480 | DM] looks around… And… and it's… and it's basically, like, Lord Holda."
+          "text": "looks around… And… and it's… and it's basically, like, Lord Hulda.",
+          "raw": "[u1406 | 01:58:03.160-01:58:09.480 | DM] looks around… And… and it's… and it's basically, like, Lord Hulda."
         },
         {
           "uid": "u1407",
@@ -8786,8 +8786,8 @@
         {
           "uid": "u1412",
           "header": "[u1412 | 01:58:34.100-01:58:39.980 | DM]",
-          "text": "Before we sit down for dinner with Lord Holda, I have to go use the bathroom, let's take a 5-minute break, and come back for dinner.",
-          "raw": "[u1412 | 01:58:34.100-01:58:39.980 | DM] Before we sit down for dinner with Lord Holda, I have to go use the bathroom, let's take a 5-minute break, and come back for dinner."
+          "text": "Before we sit down for dinner with Lord Hulda, I have to go use the bathroom, let's take a 5-minute break, and come back for dinner.",
+          "raw": "[u1412 | 01:58:34.100-01:58:39.980 | DM] Before we sit down for dinner with Lord Hulda, I have to go use the bathroom, let's take a 5-minute break, and come back for dinner."
         },
         {
           "uid": "u1413",
@@ -8813,7 +8813,7 @@
     {
       "beat": {
         "beatId": "B05",
-        "title": "Holda Explains The Contract",
+        "title": "Hulda Explains The Contract",
         "startUid": "u1416",
         "endUid": "u1832",
         "lineCount": 417,
@@ -8821,7 +8821,7 @@
         "dateEnd": null,
         "timeWindow": "night",
         "containsCombat": false,
-        "boundaryReason": "Dinner with Lord Holda covers his adventuring past, the ancient deed, the treaty condition, the other side of the door, and the party's acceptance of the job; the next beat begins with their private reaction before bed.",
+        "boundaryReason": "Dinner with Lord Hulda covers his adventuring past, the ancient deed, the treaty condition, the other side of the door, and the party's acceptance of the job; the next beat begins with their private reaction before bed.",
         "dateEvidence": [
           "u1416-u1422 restart dinner after the break.",
           "u1571 says the attempt should wait until morning.",
@@ -9728,8 +9728,8 @@
         {
           "uid": "u1556",
           "header": "[u1556 | 02:11:13.520-02:11:16.420 | Kaito Min]",
-          "text": "looks at… what's his name again? Lord Holda?",
-          "raw": "[u1556 | 02:11:13.520-02:11:16.420 | Kaito Min] looks at… what's his name again? Lord Holda?"
+          "text": "looks at… what's his name again? Lord Hulda?",
+          "raw": "[u1556 | 02:11:13.520-02:11:16.420 | Kaito Min] looks at… what's his name again? Lord Hulda?"
         },
         {
           "uid": "u1557",
@@ -9758,8 +9758,8 @@
         {
           "uid": "u1561",
           "header": "[u1561 | 02:11:28.400-02:11:42.179 | Kaito Min]",
-          "text": "Like, a book of just total conviction, like, whatever, like, fear and hesitation and whatever the hell you've been feeling before is so all-in. He, like, walks straight up to Holda and is like, that was fucking awesome.",
-          "raw": "[u1561 | 02:11:28.400-02:11:42.179 | Kaito Min] Like, a book of just total conviction, like, whatever, like, fear and hesitation and whatever the hell you've been feeling before is so all-in. He, like, walks straight up to Holda and is like, that was fucking awesome."
+          "text": "Like, a book of just total conviction, like, whatever, like, fear and hesitation and whatever the hell you've been feeling before is so all-in. He, like, walks straight up to Hulda and is like, that was fucking awesome.",
+          "raw": "[u1561 | 02:11:28.400-02:11:42.179 | Kaito Min] Like, a book of just total conviction, like, whatever, like, fear and hesitation and whatever the hell you've been feeling before is so all-in. He, like, walks straight up to Hulda and is like, that was fucking awesome."
         },
         {
           "uid": "u1562",
@@ -11060,8 +11060,8 @@
         {
           "uid": "u1778",
           "header": "[u1778 | 02:26:20.100-02:26:23.310 | Txarro]",
-          "text": "Holda, do you… Lord… sorry, Lord Holda, do you remember…",
-          "raw": "[u1778 | 02:26:20.100-02:26:23.310 | Txarro] Holda, do you… Lord… sorry, Lord Holda, do you remember…"
+          "text": "Hulda, do you… Lord… sorry, Lord Hulda, do you remember…",
+          "raw": "[u1778 | 02:26:20.100-02:26:23.310 | Txarro] Hulda, do you… Lord… sorry, Lord Hulda, do you remember…"
         },
         {
           "uid": "u1779",
@@ -11401,7 +11401,7 @@
         "dateEnd": null,
         "timeWindow": "night",
         "containsCombat": false,
-        "boundaryReason": "After Holda leaves, the party debates the suspicious contract and possible treasure, handles last errands and supplies, and takes the long rest; the next beat begins when the magical clock wakes them before dawn.",
+        "boundaryReason": "After Hulda leaves, the party debates the suspicious contract and possible treasure, handles last errands and supplies, and takes the long rest; the next beat begins when the magical clock wakes them before dawn.",
         "dateEvidence": [
           "u1831-u1842 explicitly say not to go into the basement tonight and to rest before an early day tomorrow.",
           "u1915 marks the grandfather clock chiming ten o'clock.",
@@ -11412,7 +11412,7 @@
       },
       "previousBeat": {
         "beatId": "B05",
-        "title": "Holda Explains The Contract",
+        "title": "Hulda Explains The Contract",
         "dateStart": "1740-10-04",
         "dateEnd": null
       },
@@ -11480,8 +11480,8 @@
         {
           "uid": "u1835",
           "header": "[u1835 | 02:29:57.530-02:30:14.209 | Kaito Min]",
-          "text": "Kaito then laughs. Kaito then laughs. And as, like, as everybody's, like, getting ready to go to bed, Kaito's, like… like, Kaito's, like, like, really stoked now. He's, like, whatever he was feeling before, and is, like, gonna see… we don't have to roleplay this, but Kaito's basically gonna see if, if, what? Lord Holda? Holda?",
-          "raw": "[u1835 | 02:29:57.530-02:30:14.209 | Kaito Min] Kaito then laughs. Kaito then laughs. And as, like, as everybody's, like, getting ready to go to bed, Kaito's, like… like, Kaito's, like, like, really stoked now. He's, like, whatever he was feeling before, and is, like, gonna see… we don't have to roleplay this, but Kaito's basically gonna see if, if, what? Lord Holda? Holda?"
+          "text": "Kaito then laughs. Kaito then laughs. And as, like, as everybody's, like, getting ready to go to bed, Kaito's, like… like, Kaito's, like, like, really stoked now. He's, like, whatever he was feeling before, and is, like, gonna see… we don't have to roleplay this, but Kaito's basically gonna see if, if, what? Lord Hulda? Hulda?",
+          "raw": "[u1835 | 02:29:57.530-02:30:14.209 | Kaito Min] Kaito then laughs. Kaito then laughs. And as, like, as everybody's, like, getting ready to go to bed, Kaito's, like… like, Kaito's, like, like, really stoked now. He's, like, whatever he was feeling before, and is, like, gonna see… we don't have to roleplay this, but Kaito's basically gonna see if, if, what? Lord Hulda? Hulda?"
         },
         {
           "uid": "u1836",
@@ -11504,8 +11504,8 @@
         {
           "uid": "u1839",
           "header": "[u1839 | 02:30:16.080-02:30:31.309 | Kaito Min]",
-          "text": "basically gonna see if Holda wants to, like, hang out for a little while, because, like, Kaito's kind of just, like, stoked now. He just wants to, like, hear some stories of Holda's, like, adventures and, like, what he's done, and kind of, like, you know, really cool shit that he's done, and, you know, all, you know, he's… if he's up for it, Kaito wants to hear.",
-          "raw": "[u1839 | 02:30:16.080-02:30:31.309 | Kaito Min] basically gonna see if Holda wants to, like, hang out for a little while, because, like, Kaito's kind of just, like, stoked now. He just wants to, like, hear some stories of Holda's, like, adventures and, like, what he's done, and kind of, like, you know, really cool shit that he's done, and, you know, all, you know, he's… if he's up for it, Kaito wants to hear."
+          "text": "basically gonna see if Hulda wants to, like, hang out for a little while, because, like, Kaito's kind of just, like, stoked now. He just wants to, like, hear some stories of Hulda's, like, adventures and, like, what he's done, and kind of, like, you know, really cool shit that he's done, and, you know, all, you know, he's… if he's up for it, Kaito wants to hear.",
+          "raw": "[u1839 | 02:30:16.080-02:30:31.309 | Kaito Min] basically gonna see if Hulda wants to, like, hang out for a little while, because, like, Kaito's kind of just, like, stoked now. He just wants to, like, hear some stories of Hulda's, like, adventures and, like, what he's done, and kind of, like, you know, really cool shit that he's done, and, you know, all, you know, he's… if he's up for it, Kaito wants to hear."
         },
         {
           "uid": "u1840",
@@ -12008,8 +12008,8 @@
         {
           "uid": "u1923",
           "header": "[u1923 | 02:35:21.220-02:35:28.239 | DM]",
-          "text": "committed to Lord Holda's story. Hold on, metagame? There's… We need to go through, convince the guy to do what again?",
-          "raw": "[u1923 | 02:35:21.220-02:35:28.239 | DM] committed to Lord Holda's story. Hold on, metagame? There's… We need to go through, convince the guy to do what again?"
+          "text": "committed to Lord Hulda's story. Hold on, metagame? There's… We need to go through, convince the guy to do what again?",
+          "raw": "[u1923 | 02:35:21.220-02:35:28.239 | DM] committed to Lord Hulda's story. Hold on, metagame? There's… We need to go through, convince the guy to do what again?"
         },
         {
           "uid": "u1924",
@@ -12849,8 +12849,8 @@
         {
           "uid": "u2051",
           "header": "[u2051 | 02:42:54.790-02:42:58.780 | DM]",
-          "text": "that… Lord Holda stands next to.",
-          "raw": "[u2051 | 02:42:54.790-02:42:58.780 | DM] that… Lord Holda stands next to."
+          "text": "that… Lord Hulda stands next to.",
+          "raw": "[u2051 | 02:42:54.790-02:42:58.780 | DM] that… Lord Hulda stands next to."
         },
         {
           "uid": "u2052",

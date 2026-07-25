@@ -7,8 +7,8 @@
       "dateStart": "1740-10-05",
       "dateEnd": null,
       "timeWindow": "evening",
-      "shortSummary": "The party crawls through the root tunnel, loses contact with Holda, and emerges into the Feywild at twilight.",
-      "longSummary": "After a recap of Holda's contract and the door beneath Dandelion House, the party opens in the narrow root tunnel after Holda has closed the way behind them. Ayveen tries to message Holda to reopen the door and gets no response, Kaito and the others debate what they can still trust, and the tunnel changes from wood to coral- or bone-like material. Tarek compares it to a piece he picked up, the group reaches a mirrored chamber and climbs out through a ruined root house, realizing they have crossed into an otherworldly twilight landscape with distant estates and a road ahead.",
+      "shortSummary": "The party crawls through the root tunnel, loses contact with Hulda, and emerges into the Feywild at twilight.",
+      "longSummary": "After a recap of Hulda's contract and the door beneath Dandelion House, the party opens in the narrow root tunnel after Hulda has closed the way behind them. Ayveen tries to message Hulda to reopen the door and gets no response, Kaito and the others debate what they can still trust, and the tunnel changes from wood to coral- or bone-like material. Tarek compares it to a piece he picked up, the group reaches a mirrored chamber and climbs out through a ruined root house, realizing they have crossed into an otherworldly twilight landscape with distant estates and a road ahead.",
       "location": {
         "kind": "journey",
         "from": "Dandelion House",
@@ -18,7 +18,7 @@
       },
       "npcs": [
         {
-          "name": "Lord Holda",
+          "name": "Lord Hulda",
           "role": "mentioned",
           "context": "employer at Dandelion House",
           "notes": "He hired the party, closed the door behind them, and does not respond to Ayveen's message."
@@ -26,20 +26,20 @@
         {
           "name": "Alden",
           "role": "mentioned",
-          "context": "Holda's agent",
-          "notes": "The recap confirms Kaito previously detected thoughts on Alden but not on Holda."
+          "context": "Hulda's agent",
+          "notes": "The recap confirms Kaito previously detected thoughts on Alden but not on Hulda."
         },
         {
           "name": "Lord Endless Ending",
           "role": "mentioned",
           "context": "master of the manor beyond the door",
-          "notes": "Holda described him only as the man or master of the house; his identity is clarified later in the session."
+          "notes": "Hulda described him only as the man or master of the house; his identity is clarified later in the session."
         },
         {
           "name": "unnamed elven archivist",
           "role": "mentioned",
           "context": "source of the deed",
-          "notes": "The recap repeats that an elf calling himself an archivist gave Holda the deed to Dandelion House."
+          "notes": "The recap repeats that an elf calling himself an archivist gave Hulda the deed to Dandelion House."
         }
       ],
       "items": [
@@ -76,7 +76,7 @@
       "dateEnd": null,
       "timeWindow": "evening",
       "shortSummary": "The party follows the road toward the lit manor and finds mutilated human bodies along the way.",
-      "longSummary": "Leaving the ruined root house behind, the party sees a lit celebration at a manor a few miles down the only visible road through a strange countryside of hedgerows, distant lights, and unfamiliar stars. As they debate Holda's honesty and continue toward the manor, Txarro spots a dead human with green-feathered arrows in the back and a head smashed by a maul-like force after death. The group examines tracks, pockets, and spell components, then continues past a burned pyre with human bones and another stripped corpse, recognizing that the road is dangerous but still their clearest path forward.",
+      "longSummary": "Leaving the ruined root house behind, the party sees a lit celebration at a manor a few miles down the only visible road through a strange countryside of hedgerows, distant lights, and unfamiliar stars. As they debate Hulda's honesty and continue toward the manor, Txarro spots a dead human with green-feathered arrows in the back and a head smashed by a maul-like force after death. The group examines tracks, pockets, and spell components, then continues past a burned pyre with human bones and another stripped corpse, recognizing that the road is dangerous but still their clearest path forward.",
       "location": {
         "kind": "journey",
         "from": "ruined root house (Twilight Kingdom)",
@@ -98,7 +98,7 @@
           "notes": "The party finds a burned body or bodies and another arrow-shot corpse after the first discovery."
         },
         {
-          "name": "Lord Holda",
+          "name": "Lord Hulda",
           "role": "mentioned",
           "context": "source of the road directions",
           "notes": "The party questions whether he deceived them by closing the door after promising to keep watch."
@@ -372,8 +372,8 @@
       "dateStart": "1740-10-05",
       "dateEnd": null,
       "timeWindow": "evening",
-      "shortSummary": "The party connects Holda's mission to the naming bargain before Lord Endless Ending sends another human away and beckons Edric.",
-      "longSummary": "Ayveen asks the Rakshasa whether he needs to leave before the grandfather clock chimes again, and he says he has time because other mortals remain at the party. After the party explains that Holda sent them, the Rakshasa advises that shouting does not work and hears Ayveen's theory that the wizard's naming created the truce or bargain Holda wants broken. He confirms it is the only bargain he knows of and suggests Lord Endless Ending may be receptive to ending it; Edric reads the Rakshasa as truthful but self-interested rather than friendly. When Edric searches for another human, the clock strikes zero, Lord Endless Ending whispers to a human who hurries out, then locks eyes with Edric and gestures him closer as Txarro sends his owl after the departing human.",
+      "shortSummary": "The party connects Hulda's mission to the naming bargain before Lord Endless Ending sends another human away and beckons Edric.",
+      "longSummary": "Ayveen asks the Rakshasa whether he needs to leave before the grandfather clock chimes again, and he says he has time because other mortals remain at the party. After the party explains that Hulda sent them, the Rakshasa advises that shouting does not work and hears Ayveen's theory that the wizard's naming created the truce or bargain Hulda wants broken. He confirms it is the only bargain he knows of and suggests Lord Endless Ending may be receptive to ending it; Edric reads the Rakshasa as truthful but self-interested rather than friendly. When Edric searches for another human, the clock strikes zero, Lord Endless Ending whispers to a human who hurries out, then locks eyes with Edric and gestures him closer as Txarro sends his owl after the departing human.",
       "location": {
         "kind": "fixed",
         "primary": "Lord Endless Ending's manor",
@@ -394,10 +394,10 @@
           "notes": "He whispers to a human after the clock strikes zero and then beckons Edric."
         },
         {
-          "name": "Lord Holda",
+          "name": "Lord Hulda",
           "role": "mentioned",
           "context": "angry man who sent the party",
-          "notes": "The Rakshasa saw Holda's failed conversation with the Lord and says bullying a lord in his own manor was unlikely to work."
+          "notes": "The Rakshasa saw Hulda's failed conversation with the Lord and says bullying a lord in his own manor was unlikely to work."
         },
         {
           "name": "unnamed human",
@@ -427,7 +427,7 @@
         {
           "name": "naming bargain",
           "role": "mentioned",
-          "notes": "The party treats the wizard's naming contest bargain as the likely treaty or truce Holda wants broken."
+          "notes": "The party treats the wizard's naming contest bargain as the likely treaty or truce Hulda wants broken."
         }
       ],
       "organizations": [],

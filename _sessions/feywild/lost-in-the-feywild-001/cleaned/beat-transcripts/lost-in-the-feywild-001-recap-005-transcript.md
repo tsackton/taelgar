@@ -1,4 +1,4 @@
-# recap-005 | Holda's Story
+# recap-005 | Hulda's Story
 
 - Recap Block: recap-005
 - Beat IDs: B05
@@ -14,7 +14,7 @@ DM: Alden spreads the food out across the table. You are all clean, and the meal
 Edric: The music is way loud.
 
 %% u1421-u1424 %%
-DM: That was intense. As Lord Holda sits at the head of the table and begins cutting into his food, he says, "You're probably curious about the details. You're probably wondering why you're here."
+DM: That was intense. As Lord Hulda sits at the head of the table and begins cutting into his food, he says, "You're probably curious about the details. You're probably wondering why you're here."
 
 %% u1425 %%
 Edric: Yes?
@@ -29,7 +29,7 @@ DM: "But there you are, still stuck there. Last winter there was a wyrmling, a y
 DM: "Everyone I went there with died except for me. And this dragon had come looking, had come hungry. It had no territory, no treasure. I got back to Tollen, and sure, they started writing a song about me. But I woke up the next morning and realized all of my friends were dead. My purse was no bigger than it was when I began three decades ago. What was left for me? It was a bitter, difficult day. I was owed more. My whole life, and I hadn't gotten it."
 
 %% u1462-u1473 %%
-DM: "It was a bitter thing to wake up to. But stranger still, later that same day, into the inn where I was staying, while I was eating my lunch and trying my hardest to get ferociously drunk and failing by about noon, walked an elf. And here's the thing: you know Tollen. You know there are strange characters in that city. Sometimes a person says they're a thing, and you know they're not that thing, but you don't quite know what they are, or who they work for, or what that really means. He walked into the room, came directly over to my table, sat down across from me, and took out this." In this moment, Holda takes a sheet of paper from his pocket, unfolds it, puts it on the table, and slides it into the middle of the table. "It's a deed."
+DM: "It was a bitter thing to wake up to. But stranger still, later that same day, into the inn where I was staying, while I was eating my lunch and trying my hardest to get ferociously drunk and failing by about noon, walked an elf. And here's the thing: you know Tollen. You know there are strange characters in that city. Sometimes a person says they're a thing, and you know they're not that thing, but you don't quite know what they are, or who they work for, or what that really means. He walked into the room, came directly over to my table, sat down across from me, and took out this." In this moment, Hulda takes a sheet of paper from his pocket, unfolds it, puts it on the table, and slides it into the middle of the table. "It's a deed."
 
 %% u1474-u1485 %%
 DM: "It's a deed of inheritance for me. And the elf proceeds to tell me the strangest story, attested to on the piece of paper in front of him." The five of you can clearly tell this is an old document. This thing is brittle. When he unfolds it, you can see this is not a person used to taking care of archival documents, because little bits of it flake off as he goes. One should not put a five-hundred-year-old deed in the middle of a dinner table, but there he puts it. "If you read this, you see that it names me. But this document doesn't just name me by name. It names me by birth, and lists my father's father going back three generations. Not only does it name me by birth and family, it names me by the deeds I've done, the things I'm known for, the accomplishments that I've had. The ones that, even if they didn't bring me money, at least they were known."
@@ -83,13 +83,13 @@ Tarek: Nineteen.
 DM: Alright. Kaito stands up.
 
 %% u1555-u1556 %%
-Kaito Min: Puts his hands on the table, looks at... what's his name again? Lord Holda?
+Kaito Min: Puts his hands on the table, looks at... what's his name again? Lord Hulda?
 
 %% u1557 %%
-DM: Holda, yeah.
+DM: Hulda, yeah.
 
 %% u1558-u1562 %%
-Kaito Min: Holda. That was the best fucking story anybody has ever told. Let's go meet this man. His face shifts into total conviction; whatever fear and hesitation he had been feeling before is gone. He walks straight up to Holda and is like, "That was fucking awesome. Let's go and convince this man."
+Kaito Min: Hulda. That was the best fucking story anybody has ever told. Let's go meet this man. His face shifts into total conviction; whatever fear and hesitation he had been feeling before is gone. He walks straight up to Hulda and is like, "That was fucking awesome. Let's go and convince this man."
 
 %% u1563 %%
 Tarek: Yo, yo, we gotta see the hoard first.
@@ -491,7 +491,7 @@ Txarro: The guy's name?
 Kaito Min: Contrast in styles.
 
 %% u1778 %%
-Txarro: Lord Holda, do you remember...
+Txarro: Lord Hulda, do you remember...
 
 %% u1779 %%
 DM: "We didn't get that far."
@@ -620,22 +620,22 @@ Tarek: Yes.
 DM: "Very good. Alden will show you the quarters on the third floor. Make yourselves at home. Help yourself to anything in the kitchen. Feel free to look around the house if you'd like, but don't go in the basement tonight. That, we'll wait for the morning. We'll do together."
 
 %% u1834-u1835 %%
-Kaito Min: Good thing to say right before bed. Kaito then laughs. And as everybody's getting ready to go to bed, Kaito's really stoked now. Whatever he was feeling before, he's gonna see... we don't have to roleplay this, but Kaito's basically gonna see if Lord Holda wants to hang out for a while.
+Kaito Min: Good thing to say right before bed. Kaito then laughs. And as everybody's getting ready to go to bed, Kaito's really stoked now. Whatever he was feeling before, he's gonna see... we don't have to roleplay this, but Kaito's basically gonna see if Lord Hulda wants to hang out for a while.
 
 %% u1836 %%
-DM: Holda, yeah.
+DM: Hulda, yeah.
 
 %% u1837 %%
-Kaito Min: Holda.
+Kaito Min: Hulda.
 
 %% u1838 %%
 DM: He's there.
 
 %% u1839 %%
-Kaito Min: Basically, Kaito is going to see if Holda wants to hang out for a little while, because Kaito's stoked now. He wants to hear some stories of Holda's adventures, what he's done, all the really cool shit he's done. If he's up for it, Kaito wants to hear.
+Kaito Min: Basically, Kaito is going to see if Hulda wants to hang out for a little while, because Kaito's stoked now. He wants to hear some stories of Hulda's adventures, what he's done, all the really cool shit he's done. If he's up for it, Kaito wants to hear.
 
 %% u1840-u1845 %%
-DM: "When you're back. When you're back. Tonight, rest. It's an early day tomorrow. A very early day." Kaito says he's an elf and doesn't really rest, just walks around for four hours. Holda chuckles. "Not all of us are elves," he says, and stands up and leaves the room.
+DM: "When you're back. When you're back. Tonight, rest. It's an early day tomorrow. A very early day." Kaito says he's an elf and doesn't really rest, just walks around for four hours. Hulda chuckles. "Not all of us are elves," he says, and stands up and leaves the room.
 
 %% u1846-u1847 %%
 Kaito Min: That makes me trust you less. He didn't say that out loud.
@@ -782,7 +782,7 @@ Txarro: And when we learn, inevitably...
 Txarro: ...that there is one gold piece for us to split, or there is no treaty, or...
 
 %% u1906 %%
-Txarro: ...Holda has been lying to us all along.
+Txarro: ...Hulda has been lying to us all along.
 
 %% u1907 %%
 Kaito Min: Or it's like a figurative treasure, and not actual things?

@@ -26,19 +26,19 @@ Ayveen: We could choose the path of being travelers, going from house to house. 
 DM: Indeed. But come, tell me now. What brought you here?
 
 %% u2182 %%
-Txarro: You know a Lord Holda.
+Txarro: You know a Lord Hulda.
 
 %% u2183 %%
 DM: No. No. Was he the angry man?
 
 %% u2184 %%
-Ayveen: So yes, you know our friend, Lord Holda.
+Ayveen: So yes, you know our friend, Lord Hulda.
 
 %% u2185-u2190 %%
-DM: "I did not hear the conversation, but I saw the conversation. It was hilarious. You are going to bully a lord in his own manor? He is lucky he made it out, period. Holda sent you to do whatever errand he could not?"
+DM: "I did not hear the conversation, but I saw the conversation. It was hilarious. You are going to bully a lord in his own manor? He is lucky he made it out, period. Hulda sent you to do whatever errand he could not?"
 
 %% u2191 %%
-Txarro: Not sure what Holda is up to, to be honest.
+Txarro: Not sure what Hulda is up to, to be honest.
 
 %% u2192-u2194 %%
 DM: "I will offer you one piece of advice in exchange for no keys. Shouting does not work. What is the errand he sent you on?"

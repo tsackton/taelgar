@@ -140,7 +140,7 @@
       "header": "[u0010 | 00:01:04.769-00:01:13.350 | DM]",
       "lineNumber": 10,
       "originalText": "Hulda is the second son of a minor noble who never really inherited or amounted to anything, and always felt like he was",
-      "cleanedText": "Holda is the second son of a minor noble who never really inherited or amounted to anything, and always felt like he was"
+      "cleanedText": "Hulda is the second son of a minor noble who never really inherited or amounted to anything, and always felt like he was"
     },
     {
       "header": "[u0021 | 00:02:20.050-00:02:33.699 | DM]",
@@ -296,19 +296,19 @@
       "header": "[u0242 | 00:20:36.730-00:20:37.560 | Ayveen]",
       "lineNumber": 242,
       "originalText": "Ortolda?",
-      "cleanedText": "Lord Holda?"
+      "cleanedText": "Lord Hulda?"
     },
     {
       "header": "[u0243 | 00:20:37.560-00:20:38.710 | DM]",
       "lineNumber": 243,
       "originalText": "Hold on. Yep.",
-      "cleanedText": "Holda. Yep."
+      "cleanedText": "Hulda. Yep."
     },
     {
       "header": "[u0244 | 00:20:38.710-00:20:48.289 | Txarro]",
       "lineNumber": 244,
       "originalText": "Lord told her, like, Chara was a bit, dubious of Laura Golda.",
-      "cleanedText": "Lord Holda, like, Txarro was a bit dubious of Lord Holda."
+      "cleanedText": "Lord Hulda, like, Txarro was a bit dubious of Lord Hulda."
     },
     {
       "header": "[u0248 | 00:21:02.960-00:21:06.230 | Txarro]",
@@ -680,7 +680,7 @@
       "header": "[u0934 | 01:18:40.310-01:18:56.759 | DM]",
       "lineNumber": 934,
       "originalText": "at least a couple of things that you recognize as the same, like, icebox, magical iceboxes, as you saw in Hulda's house. And then most of the rest of the room is given over to dining, so there are two long",
-      "cleanedText": "at least a couple of things that you recognize as the same, like, icebox, magical iceboxes, as you saw in Holda's house. And then most of the rest of the room is given over to dining, so there are two long"
+      "cleanedText": "at least a couple of things that you recognize as the same, like, icebox, magical iceboxes, as you saw in Hulda's house. And then most of the rest of the room is given over to dining, so there are two long"
     },
     {
       "header": "[u0948 | 01:19:54.540-01:19:55.580 | Txarro]",

@@ -20,4 +20,4 @@ The house is both majestic and decrepit: a large stone manor, hundreds of years 
 
 A hidden door in the root-covered lower cellar leads into a vast root tunnel connected to the Feywild.
 
-In 1740 DR, [[Lord Holda]] claimed the overgrown estate, through an old deed that made his inheritance conditional on ending a treaty beyond the hidden door.
+In 1740 DR, [[Lord Hulda]] claimed the overgrown estate, through an old deed that made his inheritance conditional on ending a treaty beyond the hidden door.

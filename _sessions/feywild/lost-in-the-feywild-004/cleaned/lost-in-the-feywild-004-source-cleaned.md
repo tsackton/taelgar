@@ -7,7 +7,7 @@
 [u0007 | 00:00:32.000-00:00:40.600 | DM] Clear out or secure his deed to a house in the wilderness, more or less.
 [u0008 | 00:00:41.100-00:00:53.630 | DM] Traveling through more and more remote wilderness, you get there to Dandelion House, which is a relic of the Drankorian Empire, magically preserved in some ways, not perfectly preserved.
 [u0009 | 00:00:54.210-00:01:03.490 | DM] And is this sort of gorgeous masterpiece of, late Drankorian architecture way far north from the Empire, or maybe towards the northern edges of the Empire.
-[u0010 | 00:01:04.769-00:01:13.350 | DM] Holda is the second son of a minor noble who never really inherited or amounted to anything, and always felt like he was
+[u0010 | 00:01:04.769-00:01:13.350 | DM] Hulda is the second son of a minor noble who never really inherited or amounted to anything, and always felt like he was
 [u0011 | 00:01:13.570-00:01:16.060 | DM] Owed more and wanted more.
 [u0012 | 00:01:16.170-00:01:28.310 | DM] And deep in the throes of a midlife crisis last spring after having killed Dragon and had, you know, done all of these accomplishments, and discovering himself no better off than he'd ever been.
 [u0013 | 00:01:30.080-00:01:45.859 | DM] An elf met with him and gave him the deed to this house, naming him very specifically that he was inherited of it, assuming he could go through the door in the basement and break the treaty set with the man on the other side of the door.
@@ -239,9 +239,9 @@
 [u0239 | 00:20:23.680-00:20:27.370 | Txarro] Whether he wants to break the bargain, because
 [u0240 | 00:20:29.980-00:20:32.449 | Txarro] The… what was his name? The…
 [u0241 | 00:20:33.040-00:20:36.729 | Txarro] I know you just said it, the guy who gave us the deal to begin with.
-[u0242 | 00:20:36.730-00:20:37.560 | Ayveen] Lord Holda?
-[u0243 | 00:20:37.560-00:20:38.710 | DM] Holda. Yep.
-[u0244 | 00:20:38.710-00:20:48.289 | Txarro] Lord Holda, like, Txarro was a bit dubious of Lord Holda.
+[u0242 | 00:20:36.730-00:20:37.560 | Ayveen] Lord Hulda?
+[u0243 | 00:20:37.560-00:20:38.710 | DM] Hulda. Yep.
+[u0244 | 00:20:38.710-00:20:48.289 | Txarro] Lord Hulda, like, Txarro was a bit dubious of Lord Hulda.
 [u0245 | 00:20:48.680-00:20:50.190 | Txarro] Since the betrayal.
 [u0246 | 00:20:51.400-00:20:54.309 | Txarro] So mostly just wants to go home at this point.
 [u0247 | 00:20:57.660-00:21:01.230 | Txarro] And is sort of watching the door a little.
@@ -931,7 +931,7 @@
 [u0931 | 01:18:13.370-01:18:16.430 | DM] Excuse me, and about, ahhh.
 [u0932 | 01:18:16.460-01:18:33.320 | DM] I don't know, about a 15 by 20 foot stretch of it along the west wall, which does not have an exit, is devoted to, like, big industrial kitchens that are huge ovens, and prep space, and cabinets, and racks of,
 [u0933 | 01:18:33.320-01:18:40.309 | DM] dishes and cleaning stones and knives and utensils and
-[u0934 | 01:18:40.310-01:18:56.759 | DM] at least a couple of things that you recognize as the same, like, icebox, magical iceboxes, as you saw in Holda's house. And then most of the rest of the room is given over to dining, so there are two long
+[u0934 | 01:18:40.310-01:18:56.759 | DM] at least a couple of things that you recognize as the same, like, icebox, magical iceboxes, as you saw in Hulda's house. And then most of the rest of the room is given over to dining, so there are two long
 [u0935 | 01:18:56.760-01:19:07.610 | DM] tables, each with, What is about 2 foot a place, so, maybe,
 [u0936 | 01:19:07.860-01:19:17.199 | DM] I don't know, 10 or 12 chairs on a side on each of them, room enough for two dozen people to eat pretty easily. The exits from this room are…
 [u0937 | 01:19:17.680-01:19:20.339 | DM] Back to the east, the door you came through.

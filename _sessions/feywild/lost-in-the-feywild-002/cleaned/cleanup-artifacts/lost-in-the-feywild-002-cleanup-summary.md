@@ -124,15 +124,15 @@
 ### hoard
 - horde (1x)
 
-### Holda
+### Hulda
 - Hulda (6x)
 - Hold (1x)
 - Holt (1x)
 
-### Holda asked you to step
+### Hulda asked you to step
 - Hulda steps (1x)
 
-### Holda is
+### Hulda is
 - holds us (1x)
 
 ### If there

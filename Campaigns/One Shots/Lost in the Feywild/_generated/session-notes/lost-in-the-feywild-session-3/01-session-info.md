@@ -87,7 +87,7 @@ Tuesday, June 2, 2026
 - [[Lord Endless Ending]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): fey lord and host of the ending party, bound to send mortal guests toward the [[27th House|neighbor's house]] when the clock strikes zero.
 - [[Menestheus]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): displaced Drankorian scholar and guide from Thalestria's entourage.
 - [[Endlessly Ending's Butler]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): anxious attendant to [[Lord Endless Ending]].
-- [[Lord Holda]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): party's employer at [[Dandelion House]].
+- [[Lord Hulda]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): party's employer at [[Dandelion House]].
 - [[Rakshasa]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): tiger-headed guest and informant from the prior session.
 - [[Thalestria]] (she/her, Drankorian human): [[Menestheus|Menestheus's]] master, head of [[Arithrimos Lamperum]], and the wizard who tricked [[Lord Endless Ending]] into the sending bargain.
 <!-- /SLOT -->
@@ -143,7 +143,7 @@ The [[Twilight Kingdom]], [[27th House]], [[Lord Endless Ending's Manor]], and T
 - single door: lone doorway on the western promontory, reached at the end of the road from the manor.
   - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]] -> single door on the western promontory, 1740-10-05
 - Tarek's museum keys: keys earlier traded to the [[Rakshasa]] for information about the ending party.
-- [[Dandelion House]] deed: suspicious four-hundred-year-old deed written in modern Sembaran and tied to Holda's claim.
+- [[Dandelion House]] deed: suspicious four-hundred-year-old deed written in modern Sembaran and tied to Hulda's claim.
 - glass key: key to the cold-iron 27th room that [[Lord Endless Ending]] wants returned and broken.
 - 27th room: cold-iron room in the [[27th House|neighbor's house]], described as central to undoing the bargain.
 - [[Dandelion House]] clock: similar magical clock previously seen in [[Dandelion House]].

@@ -2,8 +2,8 @@
 
 ## Session Header
 
-- Title: Lost in the Feywild: Ride into the Sun
-- Desc Title: The House That Moves
+- Title: Lost in the Feywild: Episode 04
+- Desc Title: Ride Into the Sun
 - Tagline: in which the house refuses to hold still
 - One-Sentence Summary: The party enters the 27th Room, loses its way through shifting chambers and false paths, and learns from Kallipseis the gardener that the house is a moving prison.
 - Campaign: Lost in the Feywild
@@ -73,15 +73,15 @@ The party continues exploring the shifting rooms, finds Kallipseis's fungal gree
 - Image Caption:
 
 #### Short
-At the Feywild promontory beyond Lord Endless Ending's party, the party reviews the events that lead them here, and follows Menestheus inside.
+At the Feywild door to the 27th Room, the party reviews the events that lead them here, and follows Menestheus inside.
 
 #### Intermediate
-At the Feywild promontory, the party reviews Holda's betrayal, Lord Endless Ending's bargain, the glass key, and the cold-iron 27th Room before letting Menestheus take the lead.
+At the Feywild door to the 27th Room, the party reviews how Hulda's commission, Dandelion House, Lord Endless Ending, and Arithrimos Lamperum lead to this point. Then, still unsure about who to help, and how, they follow as Menestheus opens the door and steps through. 
 
 #### Long
-The party begins at the Feywild door after reviewing how Holda's commission, Dandelion House, Lord Endless Ending, and Arithrimos Lamperum brought them here.
+The party begins at the Feywild door to the 27th Room, after reviewing how Hulda's commission, Dandelion House, Lord Endless Ending, and Arithrimos Lamperum brought them here. 
 
-Holda wants them to break the agreement Lord Endless Ending made to send mortals to wander through the House of the 27th Room.
+Hulda wants them to break the agreement Lord Endless Ending made to send mortals to wander through the House of the 27th Room.
 
 Lord Endless Ending wants the party to bring him or to destroy the glass key locking the central room in the house.
 
@@ -90,6 +90,7 @@ The Arithrimos Lamperum, a Drankorian society dedicated to safeguarding the poro
 The party remains unsure about who to help, and how.
 
 Before entering, the party takes stock. Txarro is wary and wants home, Edric is uneasy but ready for a problem he can hit, Tarek and Kaito face the uncertainty in their own ways, and Ayveen stays in information-gathering mode. Menestheus, still shocked by the 700-year jump and resigned to his mission, opens the door and steps through with the party following.
+
 
 ### recap-002 | First Rooms
 
@@ -110,10 +111,10 @@ Before entering, the party takes stock. Txarro is wary and wants home, Edric is 
 - Image Caption:
 
 #### Short
-The first rooms show wrecked machinery, a holy chapel, and exits that refuse to backtrack.
+Inside the house, the party moves through the damaged entrance to an intact Drankorian-era chapel to Mos Numena, before the confusing nature of the structure reveals itself, as the doors do not connect as expected. 
 
 #### Intermediate
-Inside, the party finds a damaged entry room with machinery and numbered doors, then descends to a Drankorian chapel where Edric finds the Night Queen's altar still holy and Tarek recoils from a disturbing empty niche.
+Inside the house, the party finds a damaged entry room with machinery and several exits. Pikcing one mostly at random, they descend to a Drankorian-era chapel where Edric finds the Night Queen's altar still holy and Tarek recoils from a disturbing empty niche. Attempting to return to the entry, the confusing nature of the structure reveals itself as they find the doors do not connect as expected.
 
 #### Long
 Inside the house, the first room is a wrecked mechanical chamber with smashed furnishings, a broken occupant counter, a torn tapestry, humming machinery, and four exits that unlock only when the whole group passes through together. The party chooses one and enters an old Drankorian chapel with recognizable Mos Numena alcoves and one deliberately carved, nauseating empty niche.
@@ -139,26 +140,26 @@ Edric takes comfort at the still-consecrated Night Queen altar. Tarek sticks his
 - Image Caption:
 
 #### Short
-A listening journal beside an iron window points toward a lonely speaker growing into houses.
+The failed backtrack leads to a machinery-filled room, with an iron window set into the wall, next to a desk on which a journal records the speakings of strange voice labeled as "The Child". 
 
 #### Intermediate
-The failed backtrack leads to a machinery-filled room with an iron-window listening station, where a journal records a strange voice learning words, time, cold iron, and houses before describing itself as grown.
+The failed backtrack leads to a machinery-filled room, with an iron window set into the wall, next to a chair and desk on which lies a dated journal recording the speakings of strange voice labeled as "The Child". The transcribed voice describes being alone and learning from a teacher. Kaito, sitting at the desk, briefly hears whispers; Menestheus recognizes some of the transcribers as members of Arithrimos Lamperum.
 
 #### Long
+
 The failed backtrack leads to a machinery-filled room with pipes, tanks, catwalks, and a two-foot iron window set into the wall. Beside it, the party finds a chair, a desk, and a dated journal of transcriptions.
 
 The journal records a strange voice speaking only in the present tense in a series of entries that span months and years. One transcriber has labeled the speaker "The Child." A few representative entries:
 
 	"When I get here, I do not know anyone. But there is a teacher who is very patient with me. He is teaching me about words. That words have an order, words have a before and an after. He says that words are a game to play, because of course there is no such thing as before and no after, except that words make it so."
-
+	 
 	"Teachers says that if I am to play games with the dreamers, I am learning about the order of words. He teaches me about eating and drinking. About sunset and stars. About beginnings and endings. He teaches me about the danger of cold iron and the fearfulness of the dreamers. He teaches me that words are letters and brings me books and I am reading them. He teaches me about trees and roots and leaves and mushrooms and houses and hedges and roads and doors.
 
 	"This world is strange and scary and I am alone without the teacher. His party is beginning, he tells me. He comes back, he tells me. He is not coming back. He is forgetting me. I am not going to him. I am going past his house. I am going on and on.”
 
 	"I am grown. The world is very big. I am tall. I stretch out. My hands are under a very bright and changing sky. My legs are reaching between trees and roots and leaves and mushrooms and becoming houses."
 
-Kaito sits at the desk and briefly hears whispers while writing fragments. Menestheus, looking at the journal, recognizes some of the transcribers as members of Arithrimos Lamperum.
-
+Kaito sits at the desk and briefly hears whispers while writing fragments. Menestheus recognizes some of the transcribers as members of Arithrimos Lamperum.
 ### recap-004 | Mapping The House
 
 - Kind: beat
@@ -178,10 +179,10 @@ Kaito sits at the desk and briefly hears whispers while writing fragments. Menes
 - Image Caption:
 
 #### Short
-The party tests more numbered rooms, reaches a false room 27, and takes an uneasy long rest in the chapel.
+The party continues to move through the house, which does not connect in consistent, expected ways. After a confusing and unproductive journey, the party finds themselves back in the chapel and takes a rest. 
 
 #### Intermediate
-From room 16, the party moves through kitchens, a mortuary with a white-fiber corpse, sleeping quarters, shifting mechanical rooms, a solarium, baths, and a labeled room 27 that is only a storeroom, then returns to the chapel to rest.
+The party continues to move through the house, which does not connect in consistent, expected ways. A confusing journey takes them through the kitchens, a mortuary containing a strange corpse covered in white fibers, sleeping quarters, shifting mechanical rooms, a solarium, baths, and a storeroom. After finding themselves back in the chapel, the party decides to rest. 
 
 #### Long
 The party continues their journey through the house but it does not connect to itself in consistent, expected ways. Every doorway seems to lead to a room at random. Txarro grows increasingly frustrated as repeated room numbers fail to behave like reversible passages.
@@ -209,10 +210,10 @@ After concluding that chasing every door may be less useful than either finding 
 - Image Caption:
 
 #### Short
-After the rest, Menestheus sees the rotation pattern and the Dreamer notebook deepens the prison's mystery.
+After the rest, Menestheus sees the rotation pattern in the building, and the party continues to another listening room, where the Dreamer's notebook deepens the prison's mystery.
 
 #### Intermediate
-At the end of the rest, Menestheus realizes the rooms behind the party are moving, then room 15 reveals a second listening station and the Dreamer notebook, whose voice speaks of souls, wanting, and the shape of possibility.
+At the end of the rest, Menestheus realizes the rooms behind the party are moving. The party continiues, following Menestheus' lead, and reaches a second listening station. Here, they find the Dreamer notebook, whose voice speaks of souls, wanting, and the shape of possibility.
 
 #### Long
 At the end of the long rest, Menestheus concludes that the rooms behind the party move when doors are used, making the pattern look random because the group keeps choosing different exits. He thinks he may be able to guide them, so the party continues through the shifting maze.
@@ -248,10 +249,10 @@ Menestheus connects the phrase to his book, The Shape of Possibility, about math
 - Image Caption:
 
 #### Short
-Kallipseis explains the 27th Room as a moving prison-machine and says a glass key can open the way out.
+Pusing onward, the party enters a fungal greenhouse and mets Kallipseis, who explains the 27th Room is a moving prison-machine; only the glass key in the prison room can open the way out.
 
 #### Intermediate
-Pushing onward, the party meets Kallipseis in a fungal greenhouse, where she says the house was built around a locked central prison, its rooms rotate through space and time, infection has overtaken parts of the complex, and the glass key can unlock the front door.
+Pushing onward, the party enters a fungal greenhouse and meets Kallipseis, an ancient dwarf. She explains the house was built around a locked central prison: its rooms rotate through space and time to keep the prisoner from escaping. She also warns that an infection has overtaken parts of the complex, and the only way out is via a glass key that can unlock the front door.
 
 #### Long
 Continuing through the maze, the party enters a fungal greenhouse and laboratory filled with terraria, strange helpers, and a partly built fungal golem under construction. There they meet Kallipseis, an ancient dwarven gardener who claims to have become head of Arithrimos Lamperum after Thalestria's disappearance or death.
@@ -275,7 +276,7 @@ She also says listeners claimed there is another door inside the 27th Room, the 
   - Feywild promontory, 1740-10-05
   - 27th Room, 1740-10-05 to 1740-10-06
 - Lord Endless Ending (mentioned): fey lord tied to the bargain that sends mortal guests toward the 27th Room
-- Holda (mentioned): original employer whose commission brought the party to Dandelion House
+- Hulda (mentioned): original employer whose commission brought the party to Dandelion House
 - Thalestria (mentioned): former head of Arithrimos Lamperum, linked to the bargain and the house's altered purpose
 - Rakshasa (mentioned): tiger-headed party guest who previously explained the bargain
 
@@ -296,11 +297,8 @@ She also says listeners claimed there is another door inside the 27th Room, the 
 
 ### Organizations
 
-- Mos Numena (encountered): Eight Divines represented by isolated altar alcoves in chapel 22.
-  - 27th Room, 1740-10-05
 - Arithrimos Lamperum (encountered): Drankorian order responsible for containing planar breaches and operating the 27th Room prison
   - 27th Room, 1740-10-06
-- Drankorian Empire (mentioned): Fallen empire whose architecture, politics, and collapse frame the house and the order's crisis.
 
 ### Items
 

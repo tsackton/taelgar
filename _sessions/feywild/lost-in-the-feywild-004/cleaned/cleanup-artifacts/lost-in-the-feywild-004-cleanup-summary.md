@@ -245,7 +245,7 @@
 ### Highest
 - Past (1x)
 
-### Holda
+### Hulda
 - Hulda (2x)
 - Hold on (1x)
 - told her (1x)
@@ -299,7 +299,7 @@
 ### labeled
 - lab (1x)
 
-### Lord Holda
+### Lord Hulda
 - Laura Golda (1x)
 - Ortolda (1x)
 

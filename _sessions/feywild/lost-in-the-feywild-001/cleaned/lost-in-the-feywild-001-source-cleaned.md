@@ -540,7 +540,7 @@
 [u0540 | 00:50:44.850-00:50:52.429 | DM] And… it's a little old, it's a little rundown. Sure, it needs a little bit of love, of course, and… and care, but it's…
 [u0541 | 00:50:53.390-00:51:01.309 | DM] It's beautiful, it's exactly what it is, it's exactly what it should be. The walls, the… Cellars! The halls…
 [u0542 | 00:51:02.020-00:51:03.460 | DM] Once… Once.
-[u0543 | 00:51:03.460-00:51:07.589 | DM] Lord Holda just spruces it up a little bit and really moves in.
+[u0543 | 00:51:03.460-00:51:07.589 | DM] Lord Hulda just spruces it up a little bit and really moves in.
 [u0544 | 00:51:08.000-00:51:15.520 | DM] It's gonna be just the thing, filled with people and life and laughter, which it isn't really now, but it will be soon.
 [u0545 | 00:51:17.730-00:51:24.739 | Ayveen] Have you already started identifying artisans who'll help with the repairs once we've cleared it for safety?
 [u0546 | 00:51:29.620-00:51:34.339 | DM] No, I think he's taking things one thing at a time. But I have…
@@ -846,7 +846,7 @@
 [u0846 | 01:15:54.820-01:15:56.619 | DM] Right? That structurally, it's…
 [u0847 | 01:15:56.620-01:15:58.030 | DM] Solid.
 [u0848 | 01:15:58.980-01:16:06.910 | DM] Alden pauses at just about this distance and says to you, Welcome to Dandelion House.
-[u0849 | 01:16:08.860-01:16:18.080 | DM] Before we go inside, I need to tell you that… Lord Holda can be… Difficult sometimes.
+[u0849 | 01:16:08.860-01:16:18.080 | DM] Before we go inside, I need to tell you that… Lord Hulda can be… Difficult sometimes.
 [u0850 | 01:16:18.420-01:16:22.789 | DM] He needs, at least I've found, A certain amount of…
 [u0851 | 01:16:22.790-01:16:24.480 | DM] Patience, and a certain amount of flattery.
 [u0852 | 01:16:24.940-01:16:28.199 | DM] He might not tell you this.
@@ -1267,7 +1267,7 @@
 [u1267 | 01:47:02.660-01:47:16.310 | DM] The shine of the dandelion seeds in the last bit of sunlight that comes over the tops of the trees. The bottom two floors of the house now are entirely in darkness, in the shadow of the trees.
 [u1268 | 01:47:16.930-01:47:24.650 | DM] But in this room, shining through the window like a pillar of light, like a golden spotlight, holds a grim.
 [u1269 | 01:47:24.650-01:47:29.520 | DM] The Lord of Dandelion House.
-[u1270 | 01:47:30.080-01:47:37.530 | DM] Holda, who Alden told you is the second son of a minor lord, someone disinherited, resentful his whole life, that he was…
+[u1270 | 01:47:30.080-01:47:37.530 | DM] Hulda, who Alden told you is the second son of a minor lord, someone disinherited, resentful his whole life, that he was…
 [u1271 | 01:47:37.640-01:47:43.989 | DM] You know, not the person ruling over whatever those lands might have been.
 [u1272 | 01:47:44.580-01:47:48.010 | DM] Is a man in his mid-40s
 [u1273 | 01:47:48.500-01:47:54.029 | DM] With a grizzled gray beard and a powerful build.
@@ -1331,7 +1331,7 @@
 [u1331 | 01:53:29.940-01:53:31.989 | DM] So it's about carving it up and setting out the.
 [u1332 | 01:53:32.130-01:53:35.390 | DM] Places and everything.
 [u1333 | 01:53:39.660-01:53:40.790 | DM] Before we start.
-[u1334 | 01:53:40.790-01:53:43.859 | DM] Says Lord Holda. I know you… you must be…
+[u1334 | 01:53:40.790-01:53:43.859 | DM] Says Lord Hulda. I know you… you must be…
 [u1335 | 01:53:44.170-01:53:57.390 | DM] Tired and weary from your travels, please. And he gestures to the little iron bar on the counter next to the sink. If you would, before we go further, just give it a tap. It'll clean you up for dinner.
 [u1336 | 01:54:02.140-01:54:04.650 | Kaito Min] Before we do anything else, is he a Faye?
 [u1337 | 01:54:05.580-01:54:06.150 | DM] Nope.
@@ -1401,15 +1401,15 @@
 [u1401 | 01:57:41.620-01:57:42.810 | DM] Exactly why you think you're here.
 [u1402 | 01:57:43.160-01:57:43.800 | DM] Okay.
 [u1403 | 01:57:43.910-01:57:47.350 | DM] So, At this point,
-[u1404 | 01:57:48.200-01:57:56.009 | DM] Kaito, Kaito is, like, kind of accepting his fate, alright, we're gonna, we're gonna be here, we're gonna do this thing, so he just kind of shifts gears entirely and, like, walks right up to Lord Holda.
+[u1404 | 01:57:48.200-01:57:56.009 | DM] Kaito, Kaito is, like, kind of accepting his fate, alright, we're gonna, we're gonna be here, we're gonna do this thing, so he just kind of shifts gears entirely and, like, walks right up to Lord Hulda.
 [u1405 | 01:57:56.120-01:58:03.029 | DM] And then, you know, gives, like, a very, very deep bow, like, with a flourish. And, you know, kind of stands up straight.
-[u1406 | 01:58:03.160-01:58:09.480 | DM] looks around… And… and it's… and it's basically, like, Lord Holda.
+[u1406 | 01:58:03.160-01:58:09.480 | DM] looks around… And… and it's… and it's basically, like, Lord Hulda.
 [u1407 | 01:58:10.610-01:58:13.579 | DM] It's an honor to be here in your home.
 [u1408 | 01:58:18.180-01:58:20.579 | DM] He responds both with,
 [u1409 | 01:58:20.670-01:58:28.450 | DM] smile of appreciation, and the barest hint of a raised eyebrow. Suspicious of this being laid on too thick, but.
 [u1410 | 01:58:28.450-01:58:30.500 | DM] Receives it graciously.
 [u1411 | 01:58:31.940-01:58:32.590 | DM] Nope.
-[u1412 | 01:58:34.100-01:58:39.980 | DM] Before we sit down for dinner with Lord Holda, I have to go use the bathroom, let's take a 5-minute break, and come back for dinner.
+[u1412 | 01:58:34.100-01:58:39.980 | DM] Before we sit down for dinner with Lord Hulda, I have to go use the bathroom, let's take a 5-minute break, and come back for dinner.
 [u1413 | 01:58:40.340-01:58:40.680 | Txarro] Okay.
 [u1414 | 01:58:41.040-01:58:43.390 | DM] Perfect. Cool.
 [u1415 | 01:58:43.390-01:58:44.930 | Kaito Min] Also, I have a 17 charisma, that landed.
@@ -1553,12 +1553,12 @@
 [u1553 | 02:11:04.790-02:11:05.680 | Tarek] 19.
 [u1554 | 02:11:07.760-02:11:09.069 | DM] Alright, Kaito stands up.
 [u1555 | 02:11:09.720-02:11:12.210 | Kaito Min] Puts his hands on the table, like…
-[u1556 | 02:11:13.520-02:11:16.420 | Kaito Min] looks at… what's his name again? Lord Holda?
+[u1556 | 02:11:13.520-02:11:16.420 | Kaito Min] looks at… what's his name again? Lord Hulda?
 [u1557 | 02:11:16.750-02:11:18.010 | DM] Holder, yeah.
 [u1558 | 02:11:18.010-02:11:18.620 | Kaito Min] Hold on.
 [u1559 | 02:11:19.940-02:11:23.539 | Kaito Min] That was the best fucking story anybody has ever told.
 [u1560 | 02:11:24.890-02:11:26.260 | Kaito Min] Let's go meet this man.
-[u1561 | 02:11:28.400-02:11:42.179 | Kaito Min] Like, a book of just total conviction, like, whatever, like, fear and hesitation and whatever the hell you've been feeling before is so all-in. He, like, walks straight up to Holda and is like, that was fucking awesome.
+[u1561 | 02:11:28.400-02:11:42.179 | Kaito Min] Like, a book of just total conviction, like, whatever, like, fear and hesitation and whatever the hell you've been feeling before is so all-in. He, like, walks straight up to Hulda and is like, that was fucking awesome.
 [u1562 | 02:11:42.300-02:11:46.259 | Kaito Min] Let's go and convince this man.
 [u1563 | 02:11:46.260-02:11:49.419 | Tarek] It's like, yo, yo, we gotta see the chunk first.
 [u1564 | 02:11:49.420-02:11:54.259 | Kaito Min] And you kind is kind of like… I am so pumped.
@@ -1775,7 +1775,7 @@
 [u1775 | 02:26:16.030-02:26:16.950 | DM] What was that?
 [u1776 | 02:26:16.950-02:26:18.199 | Txarro] the guy's name?
 [u1777 | 02:26:18.570-02:26:19.730 | Kaito Min] Contrast and styles.
-[u1778 | 02:26:20.100-02:26:23.310 | Txarro] Holda, do you… Lord… sorry, Lord Holda, do you remember…
+[u1778 | 02:26:20.100-02:26:23.310 | Txarro] Hulda, do you… Lord… sorry, Lord Hulda, do you remember…
 [u1779 | 02:26:23.890-02:26:26.940 | DM] I… you know, we didn't get that far.
 [u1780 | 02:26:26.940-02:26:27.470 | Tarek] I can'.
 [u1781 | 02:26:27.470-02:26:31.499 | DM] I cannot overemphasize how little conversation we actually had.
@@ -1832,11 +1832,11 @@
 [u1832 | 02:29:49.160-02:29:51.580 | DM] That, we'll wait for the morning. We'll do together.
 [u1833 | 02:29:52.710-02:29:53.370 | DM] That's weird.
 [u1834 | 02:29:53.370-02:29:54.940 | Kaito Min] Good thing to say right before bed.
-[u1835 | 02:29:57.530-02:30:14.209 | Kaito Min] Kaito then laughs. Kaito then laughs. And as, like, as everybody's, like, getting ready to go to bed, Kaito's, like… like, Kaito's, like, like, really stoked now. He's, like, whatever he was feeling before, and is, like, gonna see… we don't have to roleplay this, but Kaito's basically gonna see if, if, what? Lord Holda? Holda?
+[u1835 | 02:29:57.530-02:30:14.209 | Kaito Min] Kaito then laughs. Kaito then laughs. And as, like, as everybody's, like, getting ready to go to bed, Kaito's, like… like, Kaito's, like, like, really stoked now. He's, like, whatever he was feeling before, and is, like, gonna see… we don't have to roleplay this, but Kaito's basically gonna see if, if, what? Lord Hulda? Hulda?
 [u1836 | 02:30:14.210-02:30:14.980 | DM] Bulldog, yeah.
 [u1837 | 02:30:14.980-02:30:15.500 | Kaito Min] Hold up.
 [u1838 | 02:30:15.500-02:30:16.080 | DM] He's been.
-[u1839 | 02:30:16.080-02:30:31.309 | Kaito Min] basically gonna see if Holda wants to, like, hang out for a little while, because, like, Kaito's kind of just, like, stoked now. He just wants to, like, hear some stories of Holda's, like, adventures and, like, what he's done, and kind of, like, you know, really cool shit that he's done, and, you know, all, you know, he's… if he's up for it, Kaito wants to hear.
+[u1839 | 02:30:16.080-02:30:31.309 | Kaito Min] basically gonna see if Hulda wants to, like, hang out for a little while, because, like, Kaito's kind of just, like, stoked now. He just wants to, like, hear some stories of Hulda's, like, adventures and, like, what he's done, and kind of, like, you know, really cool shit that he's done, and, you know, all, you know, he's… if he's up for it, Kaito wants to hear.
 [u1840 | 02:30:32.770-02:30:34.939 | DM] When you're back.
 [u1841 | 02:30:35.680-02:30:36.229 | DM] When you're back.
 [u1842 | 02:30:36.570-02:30:39.629 | DM] Tonight, rest. It's an early day tomorrow. A very early day.
@@ -1920,7 +1920,7 @@
 [u1920 | 02:35:08.650-02:35:14.309 | DM] We came out here, we've got nothing better to do, Let's go through the door…
 [u1921 | 02:35:14.560-02:35:17.999 | Txarro] Keep your eye out, maybe we can come back with something.
 [u1922 | 02:35:19.490-02:35:21.219 | Ayveen] Hold on, just… Whatever's to the door.
-[u1923 | 02:35:21.220-02:35:28.239 | DM] committed to Lord Holda's story. Hold on, metagame? There's… We need to go through, convince the guy to do what again?
+[u1923 | 02:35:21.220-02:35:28.239 | DM] committed to Lord Hulda's story. Hold on, metagame? There's… We need to go through, convince the guy to do what again?
 [u1924 | 02:35:29.600-02:35:31.219 | Ayveen] And end his treaty.
 [u1925 | 02:35:31.470-02:35:33.090 | Kaito Min] Do we know what the terms of the treaty are?
 [u1926 | 02:35:34.100-02:35:34.540 | Tarek] No!
@@ -2048,7 +2048,7 @@
 [u2048 | 02:42:39.290-02:42:49.740 | DM] All around you, the walls of the cellar are covered in roots, large and small, some of them massive, some tiny.
 [u2049 | 02:42:49.870-02:42:52.550 | DM] And there's… an open…
 [u2050 | 02:42:52.880-02:42:53.720 | DM] hidden door.
-[u2051 | 02:42:54.790-02:42:58.780 | DM] that… Lord Holda stands next to.
+[u2051 | 02:42:54.790-02:42:58.780 | DM] that… Lord Hulda stands next to.
 [u2052 | 02:43:00.070-02:43:01.290 | DM] Gesturing.
 [u2053 | 02:43:01.800-02:43:04.190 | DM] This… Is… it?
 [u2054 | 02:43:04.730-02:43:13.410 | DM] You go through, it gets dark, just when you can't see the light of the candle behind you, then you'll see the light of the candle in front of you.

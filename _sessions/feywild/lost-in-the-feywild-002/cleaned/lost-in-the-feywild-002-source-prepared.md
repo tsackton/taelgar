@@ -44,7 +44,7 @@
 [u0044 | 00:03:47.730-00:03:53.570 | DM] Who gave him a deed to the house, to its… the house, its lands, and all the treasures therein.
 [u0045 | 00:03:54.170-00:03:55.460 | DM] on the condition.
 [u0046 | 00:03:55.610-00:04:02.419 | DM] That Hulda steps through a door in the floor and convince a man beyond to end a long-held treaty.
-[u0047 | 00:04:04.040-00:04:18.619 | DM] Holda, whose only negotiation strategy, in fact, maybe his only strategy for moving through the world, period, seems to be intimidation, failed immediately to convince the man on the other side of this door of anything, and turned to the party for help.
+[u0047 | 00:04:04.040-00:04:18.619 | DM] Hulda, whose only negotiation strategy, in fact, maybe his only strategy for moving through the world, period, seems to be intimidation, failed immediately to convince the man on the other side of this door of anything, and turned to the party for help.
 [u0048 | 00:04:20.420-00:04:26.329 | DM] Tarek, reading the document, knew that something didn't fit, but Kaito, by this point, had gone from deep.
 [u0049 | 00:04:26.640-00:04:29.959 | DM] Fearboarding on paranoia to.
 [u0050 | 00:04:30.180-00:04:33.050 | DM] Excitement bordering on rapturous enthusiasm.
@@ -322,7 +322,7 @@
 [u0322 | 00:28:32.820-00:28:33.690 | DM] Exactly.
 [u0323 | 00:28:33.690-00:28:34.070 | Tarek] Okay.
 [u0324 | 00:28:34.690-00:28:35.230 | DM] Yep.
-[u0325 | 00:28:35.860-00:28:44.679 | DM] Sorry, this illuminated… House Ahead is… as… Holda said the…
+[u0325 | 00:28:35.860-00:28:44.679 | DM] Sorry, this illuminated… House Ahead is… as… Hulda said the…
 [u0326 | 00:28:45.030-00:28:47.060 | DM] You'll see the manor just ahead.
 [u0327 | 00:28:47.970-00:28:48.520 | DM] Presumably.
 [u0328 | 00:28:49.040-00:28:52.120 | DM] Okay. There's no other houses that we can see.
@@ -2185,7 +2185,7 @@
 [u2185 | 02:44:30.910-02:44:42.419 | DM] I did… I tell you, I did not hear the conversation, but I saw the conversation. It was… hilarious.
 [u2186 | 02:44:43.620-02:44:48.890 | DM] You're gonna bully a lord in his own men that… oh…
 [u2187 | 02:44:52.210-02:44:54.170 | DM] He's lucky he made it up, period.
-[u2188 | 02:45:04.710-02:45:07.340 | DM] Holda sent you?
+[u2188 | 02:45:04.710-02:45:07.340 | DM] Hulda sent you?
 [u2189 | 02:45:07.960-02:45:10.720 | DM] To do whatever errand he could not?
 [u2190 | 02:45:13.460-02:45:15.139 | DM] Hmm, not quite.
 [u2191 | 02:45:15.140-02:45:19.659 | Txarro] sure what holds us up to, to be honest.

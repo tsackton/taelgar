@@ -113,7 +113,7 @@
 ### heat
 - head (1x)
 
-### Holda
+### Hulda
 - Hulda (6x)
 - Hilda (1x)
 - Holden (1x)

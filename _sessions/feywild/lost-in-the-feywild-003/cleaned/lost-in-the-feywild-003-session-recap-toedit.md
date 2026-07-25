@@ -22,7 +22,7 @@ The current problem is clear even before the details are: someone has been sent 
 
 The party reconstructs the working theory for Kaito. When the clock strikes zero, Lord Endless Ending must send a mortal guest toward the neighbor's house; the headless bodies on the road may be people who were sent that way and did not survive what came next. Txarro watches through the owl as the newly sent woman heads north toward a western promontory rather than back toward the root house.
 
-They review the naming contest that turned Lord Revel into Lord Endless Ending, the wizard neighbor who won it, the suspicious deed that brought Holda into this, and the possibility that the bad smell feared by the guards comes from the other house. The group decides that they need to speak with Lord Endless Ending directly and work out what sort of gifts a fey lord might accept.
+They review the naming contest that turned Lord Revel into Lord Endless Ending, the wizard neighbor who won it, the suspicious deed that brought Hulda into this, and the possibility that the bad smell feared by the guards comes from the other house. The group decides that they need to speak with Lord Endless Ending directly and work out what sort of gifts a fey lord might accept.
 
 ### Gifts For Endless Ending
 
@@ -38,9 +38,9 @@ The party presses the connection between the clock and the sent mortals, and Lor
 
 ### No Fey Bargains
 
-Lord Endless Ending steps aside while the party decides what to do. They argue through the risks: whether retrieving the glass key would help Holda, whether the neighbor's house is still their best way home, whether the wizard can be trusted, and whether agreeing to anything with a fey lord is itself the trap.
+Lord Endless Ending steps aside while the party decides what to do. They argue through the risks: whether retrieving the glass key would help Hulda, whether the neighbor's house is still their best way home, whether the wizard can be trusted, and whether agreeing to anything with a fey lord is itself the trap.
 
-They inspect the grandfather clock, notice Dwarven Reckoning dates on its face, and realize it resembles the magical clock in Dandelion House. Before leaving, Edric pushes Kaito to ask about Holda. Lord Endless Ending says Holda came as a fool, that he sent him away rather than onward, and that once a mortal leaves the grounds they are no longer his guest.
+They inspect the grandfather clock, notice Dwarven Reckoning dates on its face, and realize it resembles the magical clock in Dandelion House. Before leaving, Edric pushes Kaito to ask about Hulda. Lord Endless Ending says Hulda came as a fool, that he sent him away rather than onward, and that once a mortal leaves the grounds they are no longer his guest.
 
 Kaito then carefully phrases the party's departure so that they are headed toward the neighbor's house without promising to retrieve the key. Lord Endless Ending says that if the doorway toward the 27th room is truly their destination, his gates are open, and he does not wish to compel them as he was compelled.
 
@@ -77,7 +77,7 @@ badger butler (met): anxious attendant to Lord Endless Ending
 Menestheus (met): displaced Drankorian scholar and guide from Thalestria's entourage
 unnamed human woman (met): mortal guest sent away when the clock strikes zero
 road guards (met): doglike keepers of the road outside Lord Endless Ending's manor
-Lord Holda (mentioned): party's employer at Dandelion House
+Lord Hulda (mentioned): party's employer at Dandelion House
 Rakshasa (mentioned): tiger-headed guest and informant from the prior session
 Thalestria (mentioned): Menestheus's master and head of Arithrimos Lamperum
 unnamed wizard neighbor (mentioned): mortal wizard who tricked Lord Endless Ending into the sending bargain
@@ -90,7 +90,7 @@ The Twilight Kingdom: Feywild realm of fixed twilight, many houses, strange road
 Lord Endless Ending's manor: fey manor caught in the ending of a party, where Lord Endless Ending receives guests and sends mortals away when the clock strikes zero
 single door on the western promontory: isolated doorway north and west of Lord Endless Ending's manor, apparently leading toward the 27th house
 27th house: neighbor's house associated with the wizard, the 27th room, the glass key, and the possible way home
-Dandelion House: old manor with the door Holda used to send the party into the Feywild and a clock similar to Lord Endless Ending's
+Dandelion House: old manor with the door Hulda used to send the party into the Feywild and a clock similar to Lord Endless Ending's
 
 
 ### Organizations

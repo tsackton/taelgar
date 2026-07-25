@@ -50,7 +50,7 @@
 ### a worthy
 - unworthy (1x)
 
-### about Holda
+### about Hulda
 - if I hold up (1x)
 
 ### AD & D
@@ -75,7 +75,7 @@
 ### Apollyon
 - Apollon (1x)
 
-### ask about Holda
+### ask about Hulda
 - don ' t hold up (1x)
 
 ### at
@@ -344,7 +344,7 @@
 - me (1x)
 - who (1x)
 
-### him about Holda
+### him about Hulda
 - them for a holdup (1x)
 
 ### his
@@ -353,7 +353,7 @@
 ### his charisma ' s
 - is Christmas (1x)
 
-### Holda
+### Hulda
 - Hulda (3x)
 - Halda (2x)
 - Hold up (2x)
@@ -367,7 +367,7 @@
 - Older (1x)
 - Well done (1x)
 
-### Holda do anything with
+### Hulda do anything with
 - you hold it to (1x)
 
 ### house

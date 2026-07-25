@@ -94,7 +94,7 @@
       },
       {
         "from": "Hulda",
-        "to": "Holda",
+        "to": "Hulda",
         "count": 6,
         "headers": [
           "[u0016 | 00:01:10.359-00:01:17.099 | DM]",
@@ -159,7 +159,7 @@
       "header": "[u0016 | 00:01:10.359-00:01:17.099 | DM]",
       "lineNumber": 16,
       "originalText": "have been hired by a minor lord named Hulda, the second son of.",
-      "cleanedText": "have been hired by a minor lord named Holda, the second son of."
+      "cleanedText": "have been hired by a minor lord named Hulda, the second son of."
     },
     {
       "header": "[u0017 | 00:01:17.810-00:01:19.940 | DM]",
@@ -195,13 +195,13 @@
       "header": "[u0038 | 00:03:04.790-00:03:13.539 | DM]",
       "lineNumber": 38,
       "originalText": "Despite the misgivings of various party members, You meet… met Lord Hulda.",
-      "cleanedText": "Despite the misgivings of various party members, You meet… met Lord Holda."
+      "cleanedText": "Despite the misgivings of various party members, You meet… met Lord Hulda."
     },
     {
       "header": "[u0046 | 00:03:55.610-00:04:02.419 | DM]",
       "lineNumber": 46,
       "originalText": "That Hulda steps through a door in the floor and convince a man beyond to end a long-held treaty.",
-      "cleanedText": "That Holda asked you to step through a door in the floor and convince a man beyond to end a long-held treaty."
+      "cleanedText": "That Hulda asked you to step through a door in the floor and convince a man beyond to end a long-held treaty."
     },
     {
       "header": "[u0049 | 00:04:26.640-00:04:29.959 | DM]",
@@ -225,7 +225,7 @@
       "header": "[u0059 | 00:05:41.400-00:05:46.210 | DM]",
       "lineNumber": 59,
       "originalText": "Hold is waiting there, and opens a door through this massive hollowed-out route.",
-      "cleanedText": "Holda is waiting there, and opens a door through this massive hollowed-out root."
+      "cleanedText": "Hulda is waiting there, and opens a door through this massive hollowed-out root."
     },
     {
       "header": "[u0063 | 00:06:05.880-00:06:13.370 | DM]",
@@ -237,7 +237,7 @@
       "header": "[u0076 | 00:07:20.260-00:07:24.740 | DM]",
       "lineNumber": 76,
       "originalText": "And, you know, I'd dress Lord Hulda and say.",
-      "cleanedText": "And, you know, I'd address Lord Holda and say."
+      "cleanedText": "And, you know, I'd address Lord Hulda and say."
     },
     {
       "header": "[u0113 | 00:10:05.490-00:10:20.769 | Kaito Min]",
@@ -255,7 +255,7 @@
       "header": "[u0122 | 00:10:52.060-00:10:53.929 | DM]",
       "lineNumber": 122,
       "originalText": "but not on Hulda.",
-      "cleanedText": "but not on Holda."
+      "cleanedText": "but not on Hulda."
     },
     {
       "header": "[u0133 | 00:11:29.440-00:11:32.280 | Edric]",
@@ -441,7 +441,7 @@
       "header": "[u0652 | 00:49:31.910-00:49:35.660 | Ayveen]",
       "lineNumber": 652,
       "originalText": "Lord Hulda didn't mention a path strewn with dead bodies.",
-      "cleanedText": "Lord Holda didn't mention a path strewn with dead bodies."
+      "cleanedText": "Lord Hulda didn't mention a path strewn with dead bodies."
     },
     {
       "header": "[u0676 | 00:51:19.980-00:51:21.280 | Edric]",
@@ -1059,13 +1059,13 @@
       "header": "[u2182 | 02:44:17.070-02:44:19.530 | Txarro]",
       "lineNumber": 2182,
       "originalText": "You know a Lord Hulda.",
-      "cleanedText": "You know a Lord Holda."
+      "cleanedText": "You know a Lord Hulda."
     },
     {
       "header": "[u2184 | 02:44:27.120-02:44:30.909 | Ayveen]",
       "lineNumber": 2184,
       "originalText": "So yes, you know our friend, Lord Holt.",
-      "cleanedText": "So yes, you know our friend, Lord Holda."
+      "cleanedText": "So yes, you know our friend, Lord Hulda."
     },
     {
       "header": "[u2186 | 02:44:43.620-02:44:48.890 | DM]",
@@ -1077,7 +1077,7 @@
       "header": "[u2191 | 02:45:15.140-02:45:19.659 | Txarro]",
       "lineNumber": 2191,
       "originalText": "sure what holds us up to, to be honest.",
-      "cleanedText": "sure what Holda is up to, to be honest."
+      "cleanedText": "sure what Hulda is up to, to be honest."
     },
     {
       "header": "[u2195 | 02:45:56.820-02:46:01.390 | Ayveen]",

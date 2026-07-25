@@ -63,7 +63,7 @@ allReplacements:
   - '[u1394 | 01:57:20.100-01:57:21.750 | Ayveen]'
   - '[u1743 | 02:24:03.080-02:24:09.379 | Kaito Min]'
 - from: Hulda
-  to: Holda
+  to: Hulda
   count: 6
   headers:
   - '[u0849 | 01:16:08.860-01:16:18.080 | DM]'
@@ -275,17 +275,17 @@ allReplacements:
   headers:
   - '[u0336 | 00:30:39.080-00:30:40.060 | Tarek]'
 - from: Hilda
-  to: Holda
+  to: Hulda
   count: 1
   headers:
   - '[u1334 | 01:53:40.790-01:53:43.859 | DM]'
 - from: Holden
-  to: Holda
+  to: Hulda
   count: 1
   headers:
   - '[u1556 | 02:11:13.520-02:11:16.420 | Kaito Min]'
 - from: Holder
-  to: Holda
+  to: Hulda
   count: 1
   headers:
   - '[u0543 | 00:51:03.460-00:51:07.589 | DM]'
@@ -624,7 +624,7 @@ repeatedReplacements:
   - '[u1394 | 01:57:20.100-01:57:21.750 | Ayveen]'
   - '[u1743 | 02:24:03.080-02:24:09.379 | Kaito Min]'
 - from: Hulda
-  to: Holda
+  to: Hulda
   count: 6
   headers:
   - '[u0849 | 01:16:08.860-01:16:18.080 | DM]'

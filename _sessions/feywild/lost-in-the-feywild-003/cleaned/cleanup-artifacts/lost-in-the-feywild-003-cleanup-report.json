@@ -142,7 +142,7 @@
       },
       {
         "from": "Hulda",
-        "to": "Holda",
+        "to": "Hulda",
         "count": 3,
         "headers": [
           "[u0002 | 00:00:03.360-00:00:11.500 | DM]",
@@ -242,7 +242,7 @@
       "header": "[u0002 | 00:00:03.360-00:00:11.500 | DM]",
       "lineNumber": 2,
       "originalText": "Alright, so last session opened with y'all still in the tunnel, Hulda having just closed the door behind you.",
-      "cleanedText": "Alright, so last session opened with y'all still in the tunnel, Holda having just closed the door behind you."
+      "cleanedText": "Alright, so last session opened with y'all still in the tunnel, Hulda having just closed the door behind you."
     },
     {
       "header": "[u0027 | 00:02:30.450-00:02:37.610 | DM]",
@@ -308,13 +308,13 @@
       "header": "[u0096 | 00:12:06.080-00:12:12.599 | DM]",
       "lineNumber": 96,
       "originalText": "the Rakshat, so remembers Hulda as the angry man who tried to bully his way in, and sort of mused about that.",
-      "cleanedText": "the Rakshasa remembers Holda as the angry man who tried to bully his way in, and sort of mused about that."
+      "cleanedText": "the Rakshasa remembers Hulda as the angry man who tried to bully his way in, and sort of mused about that."
     },
     {
       "header": "[u0102 | 00:12:43.380-00:12:53.219 | DM]",
       "lineNumber": 102,
       "originalText": "The Rakshasa confirms that's the only bargain he knows of that's… that's operative, so presumably this is what Hulda sent you in to break.",
-      "cleanedText": "The Rakshasa confirms that's the only bargain he knows of that's… that's operative, so presumably this is what Holda sent you in to break."
+      "cleanedText": "The Rakshasa confirms that's the only bargain he knows of that's… that's operative, so presumably this is what Hulda sent you in to break."
     },
     {
       "header": "[u0107 | 00:13:23.100-00:13:25.990 | DM]",
@@ -650,13 +650,13 @@
       "header": "[u0503 | 00:44:20.030-00:44:20.990 | Tarek]",
       "lineNumber": 503,
       "originalText": "in Halda's…",
-      "cleanedText": "in Holda's…"
+      "cleanedText": "in Hulda's…"
     },
     {
       "header": "[u0505 | 00:44:21.860-00:44:27.070 | Tarek]",
       "lineNumber": 505,
       "originalText": "Not that we've seen, but in Halda's story about the contract, wasn't given to him by an elf?",
-      "cleanedText": "Not that we've seen, but in Holda's story about the contract, wasn't given to him by an elf?"
+      "cleanedText": "Not that we've seen, but in Hulda's story about the contract, wasn't given to him by an elf?"
     },
     {
       "header": "[u0509 | 00:44:31.480-00:44:33.549 | Edric]",
@@ -1250,13 +1250,13 @@
       "header": "[u1226 | 01:40:37.020-01:40:39.660 | Kaito Min]",
       "lineNumber": 1226,
       "originalText": "The original agreement with, what's the name of the guy? Alda?",
-      "cleanedText": "The original agreement with, what's the name of the guy? Holda?"
+      "cleanedText": "The original agreement with, what's the name of the guy? Hulda?"
     },
     {
       "header": "[u1227 | 01:40:40.680-01:40:41.000 | Txarro]",
       "lineNumber": 1227,
       "originalText": "Well done.",
-      "cleanedText": "Holda."
+      "cleanedText": "Hulda."
     },
     {
       "header": "[u1229 | 01:40:42.490-01:40:43.310 | Edric]",
@@ -1454,13 +1454,13 @@
       "header": "[u1442 | 01:50:13.160-01:50:14.049 | Edric]",
       "lineNumber": 1442,
       "originalText": "Stop holder.",
-      "cleanedText": "Stop Holda."
+      "cleanedText": "Stop Hulda."
     },
     {
       "header": "[u1447 | 01:50:22.870-01:50:24.099 | Ayveen]",
       "lineNumber": 1447,
       "originalText": "Who would want to keep hold of?",
-      "cleanedText": "Who would want to keep Holda?"
+      "cleanedText": "Who would want to keep Hulda?"
     },
     {
       "header": "[u1458 | 01:50:50.590-01:50:52.980 | DM]",
@@ -1532,7 +1532,7 @@
       "header": "[u1500 | 01:53:09.430-01:53:13.590 | Kaito Min]",
       "lineNumber": 1500,
       "originalText": "Did you hold it to that clock? Did Holden do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?",
-      "cleanedText": "What was the relationship? Did Holda do anything with that clock? Did Holda do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?"
+      "cleanedText": "What was the relationship? Did Hulda do anything with that clock? Did Hulda do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?"
     },
     {
       "header": "[u1502 | 01:53:16.090-01:53:18.200 | DM]",
@@ -1562,43 +1562,43 @@
       "header": "[u1517 | 01:54:30.980-01:54:32.150 | Edric]",
       "lineNumber": 1517,
       "originalText": "I guess, don't hold up.",
-      "cleanedText": "I guess, ask about Holda."
+      "cleanedText": "I guess, ask about Hulda."
     },
     {
       "header": "[u1519 | 01:54:35.000-01:54:35.900 | Edric]",
       "lineNumber": 1519,
       "originalText": "Ask them for a holdup.",
-      "cleanedText": "Ask him about Holda."
+      "cleanedText": "Ask him about Hulda."
     },
     {
       "header": "[u1521 | 01:54:39.060-01:54:41.200 | Edric]",
       "lineNumber": 1521,
       "originalText": "Ask him about Holba, the anchor game.",
-      "cleanedText": "Ask him about Holda, the angry guy."
+      "cleanedText": "Ask him about Hulda, the angry guy."
     },
     {
       "header": "[u1522 | 01:54:41.660-01:54:42.250 | Kaito Min]",
       "lineNumber": 1522,
       "originalText": "about Hold up.",
-      "cleanedText": "about Holda."
+      "cleanedText": "about Hulda."
     },
     {
       "header": "[u1524 | 01:54:45.600-01:54:51.230 | Edric]",
       "lineNumber": 1524,
-      "originalText": "Lord Edo said, as Egypt tries to have an aside to cater to saying, remember to ask who about Holda.",
-      "cleanedText": "Lord Endless Ending said, as Edric tries to have an aside to Kaito saying, remember to ask him about Holda."
+      "originalText": "Lord Edo said, as Egypt tries to have an aside to cater to saying, remember to ask who about Hulda.",
+      "cleanedText": "Lord Endless Ending said, as Edric tries to have an aside to Kaito saying, remember to ask him about Hulda."
     },
     {
       "header": "[u1525 | 01:54:51.230-01:54:52.420 | Kaito Min]",
       "lineNumber": 1525,
       "originalText": "Hold on, why am I asking about Holden?",
-      "cleanedText": "Hold on, why am I asking about Holda?"
+      "cleanedText": "Hold on, why am I asking about Hulda?"
     },
     {
       "header": "[u1530 | 01:55:15.730-01:55:20.119 | Edric]",
       "lineNumber": 1530,
       "originalText": "Does he react when Ajric is, like, loudly whispering to Kato, remember to ask him if I hold up?",
-      "cleanedText": "Does he react when Edric is, like, loudly whispering to Kaito, remember to ask him about Holda?"
+      "cleanedText": "Does he react when Edric is, like, loudly whispering to Kaito, remember to ask him about Hulda?"
     },
     {
       "header": "[u1534 | 01:55:34.240-01:55:39.159 | DM]",
@@ -1622,31 +1622,31 @@
       "header": "[u1539 | 01:55:47.350-01:55:52.099 | Kaito Min]",
       "lineNumber": 1539,
       "originalText": "hey, ask him about Holdo. Like, aren't you gonna ask him about Holdo? Like, really loudly and about a lot of tactics?",
-      "cleanedText": "hey, ask him about Holda. Like, aren't you gonna ask him about Holda? Like, really loudly and without a lot of tact?"
+      "cleanedText": "hey, ask him about Hulda. Like, aren't you gonna ask him about Hulda? Like, really loudly and without a lot of tact?"
     },
     {
       "header": "[u1540 | 01:55:54.070-01:55:55.020 | DM]",
       "lineNumber": 1540,
       "originalText": "Older?",
-      "cleanedText": "Holda?"
+      "cleanedText": "Hulda?"
     },
     {
       "header": "[u1541 | 01:55:56.060-01:55:57.170 | DM]",
       "lineNumber": 1541,
       "originalText": "Hold up!",
-      "cleanedText": "Holda!"
+      "cleanedText": "Hulda!"
     },
     {
       "header": "[u1542 | 01:55:58.480-01:55:59.710 | DM]",
       "lineNumber": 1542,
       "originalText": "Holder!",
-      "cleanedText": "Holda!"
+      "cleanedText": "Hulda!"
     },
     {
       "header": "[u1546 | 01:56:12.350-01:56:13.320 | Kaito Min]",
       "lineNumber": 1546,
       "originalText": "Holder.",
-      "cleanedText": "Holda."
+      "cleanedText": "Hulda."
     },
     {
       "header": "[u1547 | 01:56:13.320-01:56:20.629 | DM]",

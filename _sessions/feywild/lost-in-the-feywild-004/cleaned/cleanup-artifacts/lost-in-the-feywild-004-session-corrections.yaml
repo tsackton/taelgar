@@ -87,7 +87,7 @@ allReplacements:
   - '[u2541 | 03:20:08.910-03:20:09.750 | Edric]'
   - '[u2542 | 03:20:09.750-03:20:10.450 | Tarek]'
 - from: Hulda
-  to: Holda
+  to: Hulda
   count: 2
   headers:
   - '[u0010 | 00:01:04.769-00:01:13.350 | DM]'
@@ -491,7 +491,7 @@ allReplacements:
   headers:
   - '[u1852 | 02:28:33.090-02:28:33.930 | DM]'
 - from: Hold on
-  to: Holda
+  to: Hulda
   count: 1
   headers:
   - '[u0243 | 00:20:37.560-00:20:38.710 | DM]'
@@ -551,7 +551,7 @@ allReplacements:
   headers:
   - '[u0559 | 00:49:50.460-00:49:51.410 | Kaito Min]'
 - from: Laura Golda
-  to: Lord Holda
+  to: Lord Hulda
   count: 1
   headers:
   - '[u0244 | 00:20:38.710-00:20:48.289 | Txarro]'
@@ -651,7 +651,7 @@ allReplacements:
   headers:
   - '[u1091 | 01:29:52.300-01:29:55.009 | Txarro]'
 - from: Ortolda
-  to: Lord Holda
+  to: Lord Hulda
   count: 1
   headers:
   - '[u0242 | 00:20:36.730-00:20:37.560 | Ayveen]'
@@ -1186,7 +1186,7 @@ allReplacements:
   headers:
   - '[u0879 | 01:14:43.200-01:14:45.900 | DM]'
 - from: told her
-  to: Holda
+  to: Hulda
   count: 1
   headers:
   - '[u0244 | 00:20:38.710-00:20:48.289 | Txarro]'
@@ -1329,7 +1329,7 @@ repeatedReplacements:
   - '[u2541 | 03:20:08.910-03:20:09.750 | Edric]'
   - '[u2542 | 03:20:09.750-03:20:10.450 | Tarek]'
 - from: Hulda
-  to: Holda
+  to: Hulda
   count: 2
   headers:
   - '[u0010 | 00:01:04.769-00:01:13.350 | DM]'

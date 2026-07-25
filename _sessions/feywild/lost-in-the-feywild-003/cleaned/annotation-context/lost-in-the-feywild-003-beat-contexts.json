@@ -94,8 +94,8 @@
         {
           "uid": "u0002",
           "header": "[u0002 | 00:00:03.360-00:00:11.500 | DM]",
-          "text": "Alright, so last session opened with y'all still in the tunnel, Holda having just closed the door behind you.",
-          "raw": "[u0002 | 00:00:03.360-00:00:11.500 | DM] Alright, so last session opened with y'all still in the tunnel, Holda having just closed the door behind you."
+          "text": "Alright, so last session opened with y'all still in the tunnel, Hulda having just closed the door behind you.",
+          "raw": "[u0002 | 00:00:03.360-00:00:11.500 | DM] Alright, so last session opened with y'all still in the tunnel, Hulda having just closed the door behind you."
         },
         {
           "uid": "u0003",
@@ -658,8 +658,8 @@
         {
           "uid": "u0096",
           "header": "[u0096 | 00:12:06.080-00:12:12.599 | DM]",
-          "text": "the Rakshasa remembers Holda as the angry man who tried to bully his way in, and sort of mused about that.",
-          "raw": "[u0096 | 00:12:06.080-00:12:12.599 | DM] the Rakshasa remembers Holda as the angry man who tried to bully his way in, and sort of mused about that."
+          "text": "the Rakshasa remembers Hulda as the angry man who tried to bully his way in, and sort of mused about that.",
+          "raw": "[u0096 | 00:12:06.080-00:12:12.599 | DM] the Rakshasa remembers Hulda as the angry man who tried to bully his way in, and sort of mused about that."
         },
         {
           "uid": "u0097",
@@ -694,8 +694,8 @@
         {
           "uid": "u0102",
           "header": "[u0102 | 00:12:43.380-00:12:53.219 | DM]",
-          "text": "The Rakshasa confirms that's the only bargain he knows of that's… that's operative, so presumably this is what Holda sent you in to break.",
-          "raw": "[u0102 | 00:12:43.380-00:12:53.219 | DM] The Rakshasa confirms that's the only bargain he knows of that's… that's operative, so presumably this is what Holda sent you in to break."
+          "text": "The Rakshasa confirms that's the only bargain he knows of that's… that's operative, so presumably this is what Hulda sent you in to break.",
+          "raw": "[u0102 | 00:12:43.380-00:12:53.219 | DM] The Rakshasa confirms that's the only bargain he knows of that's… that's operative, so presumably this is what Hulda sent you in to break."
         },
         {
           "uid": "u0103",
@@ -3178,8 +3178,8 @@
         {
           "uid": "u0503",
           "header": "[u0503 | 00:44:20.030-00:44:20.990 | Tarek]",
-          "text": "in Holda's…",
-          "raw": "[u0503 | 00:44:20.030-00:44:20.990 | Tarek] in Holda's…"
+          "text": "in Hulda's…",
+          "raw": "[u0503 | 00:44:20.030-00:44:20.990 | Tarek] in Hulda's…"
         },
         {
           "uid": "u0504",
@@ -3190,8 +3190,8 @@
         {
           "uid": "u0505",
           "header": "[u0505 | 00:44:21.860-00:44:27.070 | Tarek]",
-          "text": "Not that we've seen, but in Holda's story about the contract, wasn't given to him by an elf?",
-          "raw": "[u0505 | 00:44:21.860-00:44:27.070 | Tarek] Not that we've seen, but in Holda's story about the contract, wasn't given to him by an elf?"
+          "text": "Not that we've seen, but in Hulda's story about the contract, wasn't given to him by an elf?",
+          "raw": "[u0505 | 00:44:21.860-00:44:27.070 | Tarek] Not that we've seen, but in Hulda's story about the contract, wasn't given to him by an elf?"
         },
         {
           "uid": "u0506",
@@ -7323,7 +7323,7 @@
         "dateEnd": null,
         "timeWindow": "evening",
         "containsCombat": false,
-        "boundaryReason": "The party privately debates the risks of helping Holda, trusting Lord Endless Ending, promising anything to a fey lord, and going to the neighbor's house; they inspect the clock, ask about Holda, and Kaito secures permission to leave without accepting a binding bargain.",
+        "boundaryReason": "The party privately debates the risks of helping Hulda, trusting Lord Endless Ending, promising anything to a fey lord, and going to the neighbor's house; they inspect the clock, ask about Hulda, and Kaito secures permission to leave without accepting a binding bargain.",
         "dateEvidence": [
           "session.yaml gives drStart and drEnd as 1740-10-05.",
           "u1170-u1182 start the private party discussion immediately after Lord Endless Ending steps out.",
@@ -7750,14 +7750,14 @@
         {
           "uid": "u1226",
           "header": "[u1226 | 01:40:37.020-01:40:39.660 | Kaito Min]",
-          "text": "The original agreement with, what's the name of the guy? Holda?",
-          "raw": "[u1226 | 01:40:37.020-01:40:39.660 | Kaito Min] The original agreement with, what's the name of the guy? Holda?"
+          "text": "The original agreement with, what's the name of the guy? Hulda?",
+          "raw": "[u1226 | 01:40:37.020-01:40:39.660 | Kaito Min] The original agreement with, what's the name of the guy? Hulda?"
         },
         {
           "uid": "u1227",
           "header": "[u1227 | 01:40:40.680-01:40:41.000 | Txarro]",
-          "text": "Holda.",
-          "raw": "[u1227 | 01:40:40.680-01:40:41.000 | Txarro] Holda."
+          "text": "Hulda.",
+          "raw": "[u1227 | 01:40:40.680-01:40:41.000 | Txarro] Hulda."
         },
         {
           "uid": "u1228",
@@ -8290,8 +8290,8 @@
         {
           "uid": "u1316",
           "header": "[u1316 | 01:44:41.760-01:44:43.540 | DM]",
-          "text": "Now, Holda got back through it.",
-          "raw": "[u1316 | 01:44:41.760-01:44:43.540 | DM] Now, Holda got back through it."
+          "text": "Now, Hulda got back through it.",
+          "raw": "[u1316 | 01:44:41.760-01:44:43.540 | DM] Now, Hulda got back through it."
         },
         {
           "uid": "u1317",
@@ -9046,8 +9046,8 @@
         {
           "uid": "u1442",
           "header": "[u1442 | 01:50:13.160-01:50:14.049 | Edric]",
-          "text": "Stop Holda.",
-          "raw": "[u1442 | 01:50:13.160-01:50:14.049 | Edric] Stop Holda."
+          "text": "Stop Hulda.",
+          "raw": "[u1442 | 01:50:13.160-01:50:14.049 | Edric] Stop Hulda."
         },
         {
           "uid": "u1443",
@@ -9076,8 +9076,8 @@
         {
           "uid": "u1447",
           "header": "[u1447 | 01:50:22.870-01:50:24.099 | Ayveen]",
-          "text": "Who would want to keep Holda?",
-          "raw": "[u1447 | 01:50:22.870-01:50:24.099 | Ayveen] Who would want to keep Holda?"
+          "text": "Who would want to keep Hulda?",
+          "raw": "[u1447 | 01:50:22.870-01:50:24.099 | Ayveen] Who would want to keep Hulda?"
         },
         {
           "uid": "u1448",
@@ -9394,8 +9394,8 @@
         {
           "uid": "u1500",
           "header": "[u1500 | 01:53:09.430-01:53:13.590 | Kaito Min]",
-          "text": "What was the relationship? Did Holda do anything with that clock? Did Holda do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?",
-          "raw": "[u1500 | 01:53:09.430-01:53:13.590 | Kaito Min] What was the relationship? Did Holda do anything with that clock? Did Holda do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?"
+          "text": "What was the relationship? Did Hulda do anything with that clock? Did Hulda do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?",
+          "raw": "[u1500 | 01:53:09.430-01:53:13.590 | Kaito Min] What was the relationship? Did Hulda do anything with that clock? Did Hulda do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?"
         },
         {
           "uid": "u1501",
@@ -9496,8 +9496,8 @@
         {
           "uid": "u1517",
           "header": "[u1517 | 01:54:30.980-01:54:32.150 | Edric]",
-          "text": "I guess, ask about Holda.",
-          "raw": "[u1517 | 01:54:30.980-01:54:32.150 | Edric] I guess, ask about Holda."
+          "text": "I guess, ask about Hulda.",
+          "raw": "[u1517 | 01:54:30.980-01:54:32.150 | Edric] I guess, ask about Hulda."
         },
         {
           "uid": "u1518",
@@ -9508,8 +9508,8 @@
         {
           "uid": "u1519",
           "header": "[u1519 | 01:54:35.000-01:54:35.900 | Edric]",
-          "text": "Ask him about Holda.",
-          "raw": "[u1519 | 01:54:35.000-01:54:35.900 | Edric] Ask him about Holda."
+          "text": "Ask him about Hulda.",
+          "raw": "[u1519 | 01:54:35.000-01:54:35.900 | Edric] Ask him about Hulda."
         },
         {
           "uid": "u1520",
@@ -9520,14 +9520,14 @@
         {
           "uid": "u1521",
           "header": "[u1521 | 01:54:39.060-01:54:41.200 | Edric]",
-          "text": "Ask him about Holda, the angry guy.",
-          "raw": "[u1521 | 01:54:39.060-01:54:41.200 | Edric] Ask him about Holda, the angry guy."
+          "text": "Ask him about Hulda, the angry guy.",
+          "raw": "[u1521 | 01:54:39.060-01:54:41.200 | Edric] Ask him about Hulda, the angry guy."
         },
         {
           "uid": "u1522",
           "header": "[u1522 | 01:54:41.660-01:54:42.250 | Kaito Min]",
-          "text": "about Holda.",
-          "raw": "[u1522 | 01:54:41.660-01:54:42.250 | Kaito Min] about Holda."
+          "text": "about Hulda.",
+          "raw": "[u1522 | 01:54:41.660-01:54:42.250 | Kaito Min] about Hulda."
         },
         {
           "uid": "u1523",
@@ -9538,14 +9538,14 @@
         {
           "uid": "u1524",
           "header": "[u1524 | 01:54:45.600-01:54:51.230 | Edric]",
-          "text": "Lord Endless Ending said, as Edric tries to have an aside to Kaito saying, remember to ask him about Holda.",
-          "raw": "[u1524 | 01:54:45.600-01:54:51.230 | Edric] Lord Endless Ending said, as Edric tries to have an aside to Kaito saying, remember to ask him about Holda."
+          "text": "Lord Endless Ending said, as Edric tries to have an aside to Kaito saying, remember to ask him about Hulda.",
+          "raw": "[u1524 | 01:54:45.600-01:54:51.230 | Edric] Lord Endless Ending said, as Edric tries to have an aside to Kaito saying, remember to ask him about Hulda."
         },
         {
           "uid": "u1525",
           "header": "[u1525 | 01:54:51.230-01:54:52.420 | Kaito Min]",
-          "text": "Hold on, why am I asking about Holda?",
-          "raw": "[u1525 | 01:54:51.230-01:54:52.420 | Kaito Min] Hold on, why am I asking about Holda?"
+          "text": "Hold on, why am I asking about Hulda?",
+          "raw": "[u1525 | 01:54:51.230-01:54:52.420 | Kaito Min] Hold on, why am I asking about Hulda?"
         },
         {
           "uid": "u1526",
@@ -9574,8 +9574,8 @@
         {
           "uid": "u1530",
           "header": "[u1530 | 01:55:15.730-01:55:20.119 | Edric]",
-          "text": "Does he react when Edric is, like, loudly whispering to Kaito, remember to ask him about Holda?",
-          "raw": "[u1530 | 01:55:15.730-01:55:20.119 | Edric] Does he react when Edric is, like, loudly whispering to Kaito, remember to ask him about Holda?"
+          "text": "Does he react when Edric is, like, loudly whispering to Kaito, remember to ask him about Hulda?",
+          "raw": "[u1530 | 01:55:15.730-01:55:20.119 | Edric] Does he react when Edric is, like, loudly whispering to Kaito, remember to ask him about Hulda?"
         },
         {
           "uid": "u1531",
@@ -9628,32 +9628,32 @@
         {
           "uid": "u1539",
           "header": "[u1539 | 01:55:47.350-01:55:52.099 | Kaito Min]",
-          "text": "hey, ask him about Holda. Like, aren't you gonna ask him about Holda? Like, really loudly and without a lot of tact?",
-          "raw": "[u1539 | 01:55:47.350-01:55:52.099 | Kaito Min] hey, ask him about Holda. Like, aren't you gonna ask him about Holda? Like, really loudly and without a lot of tact?"
+          "text": "hey, ask him about Hulda. Like, aren't you gonna ask him about Hulda? Like, really loudly and without a lot of tact?",
+          "raw": "[u1539 | 01:55:47.350-01:55:52.099 | Kaito Min] hey, ask him about Hulda. Like, aren't you gonna ask him about Hulda? Like, really loudly and without a lot of tact?"
         },
         {
           "uid": "u1540",
           "header": "[u1540 | 01:55:54.070-01:55:55.020 | DM]",
-          "text": "Holda?",
-          "raw": "[u1540 | 01:55:54.070-01:55:55.020 | DM] Holda?"
+          "text": "Hulda?",
+          "raw": "[u1540 | 01:55:54.070-01:55:55.020 | DM] Hulda?"
         },
         {
           "uid": "u1541",
           "header": "[u1541 | 01:55:56.060-01:55:57.170 | DM]",
-          "text": "Holda!",
-          "raw": "[u1541 | 01:55:56.060-01:55:57.170 | DM] Holda!"
+          "text": "Hulda!",
+          "raw": "[u1541 | 01:55:56.060-01:55:57.170 | DM] Hulda!"
         },
         {
           "uid": "u1542",
           "header": "[u1542 | 01:55:58.480-01:55:59.710 | DM]",
-          "text": "Holda!",
-          "raw": "[u1542 | 01:55:58.480-01:55:59.710 | DM] Holda!"
+          "text": "Hulda!",
+          "raw": "[u1542 | 01:55:58.480-01:55:59.710 | DM] Hulda!"
         },
         {
           "uid": "u1543",
           "header": "[u1543 | 01:56:01.010-01:56:02.290 | DM]",
-          "text": "How do you know Holda?",
-          "raw": "[u1543 | 01:56:01.010-01:56:02.290 | DM] How do you know Holda?"
+          "text": "How do you know Hulda?",
+          "raw": "[u1543 | 01:56:01.010-01:56:02.290 | DM] How do you know Hulda?"
         },
         {
           "uid": "u1544",
@@ -9670,8 +9670,8 @@
         {
           "uid": "u1546",
           "header": "[u1546 | 01:56:12.350-01:56:13.320 | Kaito Min]",
-          "text": "Holda.",
-          "raw": "[u1546 | 01:56:12.350-01:56:13.320 | Kaito Min] Holda."
+          "text": "Hulda.",
+          "raw": "[u1546 | 01:56:12.350-01:56:13.320 | Kaito Min] Hulda."
         },
         {
           "uid": "u1547",
@@ -9712,8 +9712,8 @@
         {
           "uid": "u1553",
           "header": "[u1553 | 01:56:35.890-01:56:38.129 | Kaito Min]",
-          "text": "We met Holda, he…",
-          "raw": "[u1553 | 01:56:35.890-01:56:38.129 | Kaito Min] We met Holda, he…"
+          "text": "We met Hulda, he…",
+          "raw": "[u1553 | 01:56:35.890-01:56:38.129 | Kaito Min] We met Hulda, he…"
         },
         {
           "uid": "u1554",

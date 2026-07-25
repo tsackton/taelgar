@@ -49,7 +49,7 @@ The badger presents the group and asks what gifts they have brought. [[Txarro]] 
 
 [[Txarro]] tells [[Lord Endless Ending]] that the party came through a door that closed behind them and does not know how to leave. The Lord says there is a way home through his nearest [[27th House|neighbor's house]] to the north -- the same direction as the woman who just left. He explains that a mortal wizard tricked him into an agreement he did not intend: he must send mortal guests through that house whenever the magical clock brought by the wizard and her entourage (of whom one still remains) strikes zero. Through various portents, he has learned that the bargain can be undone if a glass key from the lock of the cold-iron door to the 27th Room is brought back to him and broken. Kaito warns him about the bodies on the road, but he answers that his responsibility ends at the gate.
 
-The party argue through the risks: whether retrieving the glass key would help Holda, whether the [[27th House|neighbor's house]] is still their best way home, whether the wizard can be trusted, and whether agreeing to anything with a Fey Lord is itself the trap.
+The party argue through the risks: whether retrieving the glass key would help Hulda, whether the [[27th House|neighbor's house]] is still their best way home, whether the wizard can be trusted, and whether agreeing to anything with a Fey Lord is itself the trap.
 
 Kaito then carefully phrases the party's departure so that they are headed toward the [[27th House|neighbor's house]] without promising to retrieve the key. [[Lord Endless Ending]] says that if the doorway toward the 27th room is truly their destination, his gates are open, and he does not wish to compel them as he was compelled: the gates will open only if, in the future, they have already gone through the other door. The distinction makes the whole exit feel less like a plan and more like a story already bending around them.
 
@@ -96,7 +96,7 @@ With [[Menestheus]], the party presses onward to the [[27th House]] whose entry 
 - [[Lord Endless Ending]] (they/them, fae): fey lord and host of the ending party, bound to send mortal guests toward the [[27th House|neighbor's house]] when the clock strikes zero.
 - [[Menestheus]] (he/him, Drankorian human): displaced Drankorian scholar and guide from Thalestria's entourage.
 - [[Endlessly Ending's Butler]] (he/him, humanoid badger): anxious attendant to [[Lord Endless Ending]].
-- [[Lord Holda]] (he/him, Sembaran human): party's employer at [[Dandelion House]].
+- [[Lord Hulda]] (he/him, Sembaran human): party's employer at [[Dandelion House]].
 - [[Rakshasa]] (he/him, tiger-headed mortal): tiger-headed guest and informant from the prior session.
 - [[Thalestria]] (she/her, Drankorian human): [[Menestheus|Menestheus's]] master, head of [[Arithrimos Lamperum]], and the wizard who tricked [[Lord Endless Ending]] into the sending bargain.
 

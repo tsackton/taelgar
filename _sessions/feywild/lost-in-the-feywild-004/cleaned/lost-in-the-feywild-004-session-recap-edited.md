@@ -1,8 +1,8 @@
 	# Session Recap
 
 
-- Title: Lost in the Feywild: Ride into the Sun
-- Desc Title: The House That Moves
+- Title: Lost in the Feywild: Episode 04
+- Desc Title: Ride into the Sun
 - Tagline: in which the house refuses to hold still
 - One-Sentence Summary: The party enters the 27th Room, loses its way through shifting chambers and false paths, and learns from Kallipseis the gardener that the house is a moving prison.
 
@@ -99,7 +99,7 @@ the prisoner (mentioned): being locked inside the central 27th Room, described b
 
 Menestheus (companion): displaced Drankorian mathematician and mapmaker from Arithrimos Lamperum
 Lord Endless Ending (mentioned): fey lord tied to the bargain that sends mortal guests toward the 27th Room
-Holda (mentioned): original employer whose commission brought the party to Dandelion House
+Hulda (mentioned): original employer whose commission brought the party to Dandelion House
 Thalestria (mentioned): former head of Arithrimos Lamperum, linked to the bargain and the house's altered purpose
 Rakshasa (mentioned): tiger-headed party guest who previously explained the bargain
 ## Locations
