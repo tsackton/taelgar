@@ -73,7 +73,7 @@ allReplacements:
   - '[u1830 | 02:13:29.460-02:13:32.430 | Txarro]'
   - '[u2260 | 02:51:06.150-02:51:09.069 | Edric]'
 - from: Hulda
-  to: Holda
+  to: Hulda
   count: 6
   headers:
   - '[u0016 | 00:01:10.359-00:01:17.099 | DM]'
@@ -293,17 +293,17 @@ allReplacements:
   headers:
   - '[u0420 | 00:34:29.969-00:34:30.519 | Kaito Min]'
 - from: Hold
-  to: Holda
+  to: Hulda
   count: 1
   headers:
   - '[u0059 | 00:05:41.400-00:05:46.210 | DM]'
 - from: Holt
-  to: Holda
+  to: Hulda
   count: 1
   headers:
   - '[u2184 | 02:44:27.120-02:44:30.909 | Ayveen]'
 - from: Hulda steps
-  to: Holda asked you to step
+  to: Hulda asked you to step
   count: 1
   headers:
   - '[u0046 | 00:03:55.610-00:04:02.419 | DM]'
@@ -528,7 +528,7 @@ allReplacements:
   headers:
   - '[u0831 | 01:00:22.840-01:00:25.770 | Txarro]'
 - from: holds us
-  to: Holda is
+  to: Hulda is
   count: 1
   headers:
   - '[u2191 | 02:45:15.140-02:45:19.659 | Txarro]'
@@ -737,7 +737,7 @@ repeatedReplacements:
   - '[u1830 | 02:13:29.460-02:13:32.430 | Txarro]'
   - '[u2260 | 02:51:06.150-02:51:09.069 | Edric]'
 - from: Hulda
-  to: Holda
+  to: Hulda
   count: 6
   headers:
   - '[u0016 | 00:01:10.359-00:01:17.099 | DM]'

@@ -1,5 +1,5 @@
 [u0001 | 00:00:00.220-00:00:01.450 | DM] Oh, awesome.
-[u0002 | 00:00:03.360-00:00:11.500 | DM] Alright, so last session opened with y'all still in the tunnel, Holda having just closed the door behind you.
+[u0002 | 00:00:03.360-00:00:11.500 | DM] Alright, so last session opened with y'all still in the tunnel, Hulda having just closed the door behind you.
 [u0003 | 00:00:11.880-00:00:13.510 | DM] And…
 [u0004 | 00:00:13.640-00:00:21.170 | DM] You emerged into, as you continued down the tunnel, it stopped being root, and it seemed instead like it was…
 [u0005 | 00:00:21.910-00:00:27.350 | DM] I don't know, coral, or bone, or more like the skeleton of a house than a house itself.
@@ -93,13 +93,13 @@
 [u0093 | 00:11:42.500-00:11:48.820 | DM] Lord Ending has sent his mortal guests down the road every time the grandfather clock chimes zero.
 [u0094 | 00:11:51.870-00:12:02.739 | DM] The Rakshasa seems not too concerned about this. There's the two, there's a few people in line in front of him, he seems to think, the halflings and the guy sleeping it off, and someone else as well.
 [u0095 | 00:12:02.890-00:12:05.710 | DM] And,
-[u0096 | 00:12:06.080-00:12:12.599 | DM] the Rakshasa remembers Holda as the angry man who tried to bully his way in, and sort of mused about that.
+[u0096 | 00:12:06.080-00:12:12.599 | DM] the Rakshasa remembers Hulda as the angry man who tried to bully his way in, and sort of mused about that.
 [u0097 | 00:12:12.830-00:12:16.360 | DM] Your impression of the Rakshasa is…
 [u0098 | 00:12:16.590-00:12:28.099 | DM] He is so very much a cat, keeping his own counsel, doing all things for his own ends, engaged in his own curious obsessions, but not,
 [u0099 | 00:12:28.230-00:12:29.840 | DM] whatnot,
 [u0100 | 00:12:33.120-00:12:38.210 | DM] Not malevolent, in any sense, or lying to you all about this.
 [u0101 | 00:12:38.460-00:12:43.010 | DM] So…
-[u0102 | 00:12:43.380-00:12:53.219 | DM] The Rakshasa confirms that's the only bargain he knows of that's… that's operative, so presumably this is what Holda sent you in to break.
+[u0102 | 00:12:43.380-00:12:53.219 | DM] The Rakshasa confirms that's the only bargain he knows of that's… that's operative, so presumably this is what Hulda sent you in to break.
 [u0103 | 00:12:53.970-00:13:02.690 | DM] And, And then what? And then, Edric goes off looking for another human.
 [u0104 | 00:13:02.850-00:13:06.459 | DM] The grandfather clock strikes zero in that moment.
 [u0105 | 00:13:06.880-00:13:08.760 | DM] And you spot…
@@ -500,9 +500,9 @@
 [u0500 | 00:44:11.950-00:44:13.409 | Tarek] Always elves in the mix.
 [u0501 | 00:44:14.150-00:44:18.989 | Kaito Min] I mean, yeah, but… Tarek, Tarek, just, like, wait, are there actual elves here?
 [u0502 | 00:44:19.430-00:44:20.030 | DM] I don't think…
-[u0503 | 00:44:20.030-00:44:20.990 | Tarek] in Holda's…
+[u0503 | 00:44:20.030-00:44:20.990 | Tarek] in Hulda's…
 [u0504 | 00:44:20.990-00:44:21.600 | DM] This is perfect.
-[u0505 | 00:44:21.860-00:44:27.070 | Tarek] Not that we've seen, but in Holda's story about the contract, wasn't given to him by an elf?
+[u0505 | 00:44:21.860-00:44:27.070 | Tarek] Not that we've seen, but in Hulda's story about the contract, wasn't given to him by an elf?
 [u0506 | 00:44:27.560-00:44:28.370 | Txarro] It was.
 [u0507 | 00:44:28.810-00:44:29.650 | Kaito Min] Oh, that helps.
 [u0508 | 00:44:29.650-00:44:31.480 | Tarek] That's what I'm talking about.
@@ -1223,8 +1223,8 @@
 [u1223 | 01:40:21.720-01:40:30.470 | Kaito Min] There's another house, there's other places to see. We… there may be riches and other things untold.
 [u1224 | 01:40:31.040-01:40:32.070 | Tarek] Yeah, man, let's go get it.
 [u1225 | 01:40:32.720-01:40:35.880 | DM] So, so, but, but… Here's the thing, here's the thing, here's the thing, here's the thing.
-[u1226 | 01:40:37.020-01:40:39.660 | Kaito Min] The original agreement with, what's the name of the guy? Holda?
-[u1227 | 01:40:40.680-01:40:41.000 | Txarro] Holda.
+[u1226 | 01:40:37.020-01:40:39.660 | Kaito Min] The original agreement with, what's the name of the guy? Hulda?
+[u1227 | 01:40:40.680-01:40:41.000 | Txarro] Hulda.
 [u1228 | 01:40:41.000-01:40:41.630 | Edric] jerk face.
 [u1229 | 01:40:42.490-01:40:43.310 | Edric] Traitor.
 [u1230 | 01:40:43.470-01:40:44.400 | Edric] Door closer.
@@ -1313,7 +1313,7 @@
 [u1313 | 01:44:31.340-01:44:34.019 | Edric] But you don't know if we can get through that way.
 [u1314 | 01:44:34.570-01:44:36.150 | DM] You're putting a lot of faith in some.
 [u1315 | 01:44:36.150-01:44:41.079 | Edric] The magic ability to open the gate from this side that he said was impossible.
-[u1316 | 01:44:41.760-01:44:43.540 | DM] Now, Holda got back through it.
+[u1316 | 01:44:41.760-01:44:43.540 | DM] Now, Hulda got back through it.
 [u1317 | 01:44:43.780-01:44:45.140 | Edric] He said he left the door open.
 [u1318 | 01:44:45.880-01:44:46.200 | Ayveen] Right.
 [u1319 | 01:44:46.570-01:44:48.940 | Tarek] That's the only way to get back!
@@ -1439,12 +1439,12 @@
 [u1439 | 01:50:11.630-01:50:12.190 | Kaito Min] Not my mom.
 [u1440 | 01:50:12.190-01:50:12.610 | Tarek] Hmm.
 [u1441 | 01:50:12.610-01:50:13.160 | Kaito Min] He did.
-[u1442 | 01:50:13.160-01:50:14.049 | Edric] Stop Holda.
+[u1442 | 01:50:13.160-01:50:14.049 | Edric] Stop Hulda.
 [u1443 | 01:50:15.980-01:50:16.480 | Ayveen] Didn't stop.
 [u1444 | 01:50:16.480-01:50:17.180 | DM] a message to you.
 [u1445 | 01:50:19.840-01:50:20.290 | DM] Thank you.
 [u1446 | 01:50:20.940-01:50:21.710 | DM] You did not.
-[u1447 | 01:50:22.870-01:50:24.099 | Ayveen] Who would want to keep Holda?
+[u1447 | 01:50:22.870-01:50:24.099 | Ayveen] Who would want to keep Hulda?
 [u1448 | 01:50:26.570-01:50:27.030 | Edric] True.
 [u1449 | 01:50:29.730-01:50:31.110 | DM] tumbles back.
 [u1450 | 01:50:31.110-01:50:32.219 | Tarek] What year is it?
@@ -1497,7 +1497,7 @@
 [u1497 | 01:53:01.570-01:53:06.080 | DM] Which was also magical, well-preserved, when everything else in Dandelion House was falling apart.
 [u1498 | 01:53:08.230-01:53:09.079 | Kaito Min] What was the relationship?
 [u1499 | 01:53:09.080-01:53:09.430 | Tarek] you're gonna love.
-[u1500 | 01:53:09.430-01:53:13.590 | Kaito Min] What was the relationship? Did Holda do anything with that clock? Did Holda do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?
+[u1500 | 01:53:09.430-01:53:13.590 | Kaito Min] What was the relationship? Did Hulda do anything with that clock? Did Hulda do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?
 [u1501 | 01:53:13.940-01:53:15.940 | DM] No, it's just sort of standing in the corner.
 [u1502 | 01:53:16.090-01:53:18.200 | DM] Y'all zipped past it on the way upstairs.
 [u1503 | 01:53:21.410-01:53:23.139 | DM] There are lots of old, weird stuff in that house.
@@ -1514,20 +1514,20 @@
 [u1514 | 01:54:16.950-01:54:24.740 | Kaito Min] We are just gonna… exit the manor and make our way down. We're actually not agreeing to anything.
 [u1515 | 01:54:25.580-01:54:26.520 | Kaito Min] Official.
 [u1516 | 01:54:26.650-01:54:28.799 | Kaito Min] We're just simply… Heading up.
-[u1517 | 01:54:30.980-01:54:32.150 | Edric] I guess, ask about Holda.
+[u1517 | 01:54:30.980-01:54:32.150 | Edric] I guess, ask about Hulda.
 [u1518 | 01:54:33.800-01:54:34.639 | DM] Ask him what?
-[u1519 | 01:54:35.000-01:54:35.900 | Edric] Ask him about Holda.
+[u1519 | 01:54:35.000-01:54:35.900 | Edric] Ask him about Hulda.
 [u1520 | 01:54:36.940-01:54:37.800 | DM] Ask him for help.
-[u1521 | 01:54:39.060-01:54:41.200 | Edric] Ask him about Holda, the angry guy.
-[u1522 | 01:54:41.660-01:54:42.250 | Kaito Min] about Holda.
+[u1521 | 01:54:39.060-01:54:41.200 | Edric] Ask him about Hulda, the angry guy.
+[u1522 | 01:54:41.660-01:54:42.250 | Kaito Min] about Hulda.
 [u1523 | 01:54:42.590-01:54:45.600 | DM] This, at this point, is clearly audible to…
-[u1524 | 01:54:45.600-01:54:51.230 | Edric] Lord Endless Ending said, as Edric tries to have an aside to Kaito saying, remember to ask him about Holda.
-[u1525 | 01:54:51.230-01:54:52.420 | Kaito Min] Hold on, why am I asking about Holda?
+[u1524 | 01:54:45.600-01:54:51.230 | Edric] Lord Endless Ending said, as Edric tries to have an aside to Kaito saying, remember to ask him about Hulda.
+[u1525 | 01:54:51.230-01:54:52.420 | Kaito Min] Hold on, why am I asking about Hulda?
 [u1526 | 01:54:55.130-01:54:56.229 | Edric] I kind of decided we were going to.
 [u1527 | 01:55:02.040-01:55:03.149 | Kaito Min] What's, what's the Lord doing?
 [u1528 | 01:55:08.250-01:55:11.050 | DM] I have to say, I've enjoyed playing, like, this guy's so fun.
 [u1529 | 01:55:12.370-01:55:13.380 | DM] Yeah, that's all awesome.
-[u1530 | 01:55:15.730-01:55:20.119 | Edric] Does he react when Edric is, like, loudly whispering to Kaito, remember to ask him about Holda?
+[u1530 | 01:55:15.730-01:55:20.119 | Edric] Does he react when Edric is, like, loudly whispering to Kaito, remember to ask him about Hulda?
 [u1531 | 01:55:20.990-01:55:25.819 | DM] sorry, I just put in chat the numbers on the four dials.
 [u1532 | 01:55:27.320-01:55:30.040 | DM] That's not material to this question.
 [u1533 | 01:55:30.560-01:55:33.219 | DM] Can you say again, I apologize, I was distracted for a minute.
@@ -1536,21 +1536,21 @@
 [u1536 | 01:55:41.530-01:55:44.559 | Kaito Min] No, we're not actually formally agreeing to anything, we're just gonna make our way out of the.
 [u1537 | 01:55:44.560-01:55:45.160 | Kaito Min] manor.
 [u1538 | 01:55:45.260-01:55:47.349 | DM] And then, at the same time, Edric is like.
-[u1539 | 01:55:47.350-01:55:52.099 | Kaito Min] hey, ask him about Holda. Like, aren't you gonna ask him about Holda? Like, really loudly and without a lot of tact?
-[u1540 | 01:55:54.070-01:55:55.020 | DM] Holda?
-[u1541 | 01:55:56.060-01:55:57.170 | DM] Holda!
-[u1542 | 01:55:58.480-01:55:59.710 | DM] Holda!
-[u1543 | 01:56:01.010-01:56:02.290 | DM] How do you know Holda?
+[u1539 | 01:55:47.350-01:55:52.099 | Kaito Min] hey, ask him about Hulda. Like, aren't you gonna ask him about Hulda? Like, really loudly and without a lot of tact?
+[u1540 | 01:55:54.070-01:55:55.020 | DM] Hulda?
+[u1541 | 01:55:56.060-01:55:57.170 | DM] Hulda!
+[u1542 | 01:55:58.480-01:55:59.710 | DM] Hulda!
+[u1543 | 01:56:01.010-01:56:02.290 | DM] How do you know Hulda?
 [u1544 | 01:56:04.910-01:56:06.860 | Kaito Min] Well, it's an unfortunate…
 [u1545 | 01:56:07.000-01:56:08.260 | Kaito Min] Story, now that we're here.
-[u1546 | 01:56:12.350-01:56:13.320 | Kaito Min] Holda.
+[u1546 | 01:56:12.350-01:56:13.320 | Kaito Min] Hulda.
 [u1547 | 01:56:13.320-01:56:20.629 | Kaito Min] I have to say, our nickname for him is the Betrayer.
 [u1548 | 01:56:24.590-01:56:25.110 | DM] Jeez.
 [u1549 | 01:56:25.110-01:56:27.590 | Kaito Min] Is the Lord responding well to that nickname?
 [u1550 | 01:56:28.620-01:56:30.419 | DM] This face is totally impassive.
 [u1551 | 01:56:30.850-01:56:31.670 | DM] Yeah, okay.
 [u1552 | 01:56:32.300-01:56:35.890 | Kaito Min] Yeah, we.
-[u1553 | 01:56:35.890-01:56:38.129 | Kaito Min] We met Holda, he…
+[u1553 | 01:56:35.890-01:56:38.129 | Kaito Min] We met Hulda, he…
 [u1554 | 01:56:38.970-01:56:44.809 | Kaito Min] Sent us through, A door in the house down the road the other way.
 [u1555 | 01:56:45.650-01:56:47.989 | Kaito Min] Closed the door behind us.
 [u1556 | 01:56:48.130-01:56:49.400 | Kaito Min] That's how we got here.

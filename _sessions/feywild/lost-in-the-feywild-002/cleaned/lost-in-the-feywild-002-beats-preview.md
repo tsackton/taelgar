@@ -12,7 +12,7 @@
 - Date Resolution: exact
 - Time Window: evening
 - Combat: no
-- Boundary Reason: The session opens with setup and recap, then follows the party through the bone-like root tunnel, out into the Feywild, and along the first stretch of road as they take in the landscape, debate Holda's honesty, and decide to continue toward the manor; the next beat begins when Txarro's passive perception leads to the first body on the road.
+- Boundary Reason: The session opens with setup and recap, then follows the party through the bone-like root tunnel, out into the Feywild, and along the first stretch of road as they take in the landscape, debate Hulda's honesty, and decide to continue toward the manor; the next beat begins when Txarro's passive perception leads to the first body on the road.
 - Date Evidence:
   - session.yaml gives drStart and drEnd as 1740-10-05.
   - u0053-u0067 recap the before-dawn descent and reopen in the root tunnel.
@@ -111,7 +111,7 @@
 - Date Resolution: exact
 - Time Window: evening
 - Combat: no
-- Boundary Reason: The group connects the naming contest to Holda's mission, considers whether the Lord is bound by a truce he cannot break himself, learns another human may be moving through the house, and ends as Lord Endless Ending sends that human away and beckons Edric closer; the session closes on the party's working theory.
+- Boundary Reason: The group connects the naming contest to Hulda's mission, considers whether the Lord is bound by a truce he cannot break himself, learns another human may be moving through the house, and ends as Lord Endless Ending sends that human away and beckons Edric closer; the session closes on the party's working theory.
 - Date Evidence:
   - session.yaml gives drStart and drEnd as 1740-10-05.
   - u2164-u2288 continue the same conversation with the tiger guest at the evening party.

@@ -68,7 +68,7 @@
 - Date Resolution: exact
 - Time Window: evening
 - Combat: no
-- Boundary Reason: The party privately debates the risks of helping Holda, trusting Lord Endless Ending, promising anything to a fey lord, and going to the neighbor's house; they inspect the clock, ask about Holda, and Kaito secures permission to leave without accepting a binding bargain.
+- Boundary Reason: The party privately debates the risks of helping Hulda, trusting Lord Endless Ending, promising anything to a fey lord, and going to the neighbor's house; they inspect the clock, ask about Hulda, and Kaito secures permission to leave without accepting a binding bargain.
 - Date Evidence:
   - session.yaml gives drStart and drEnd as 1740-10-05.
   - u1170-u1182 start the private party discussion immediately after Lord Endless Ending steps out.

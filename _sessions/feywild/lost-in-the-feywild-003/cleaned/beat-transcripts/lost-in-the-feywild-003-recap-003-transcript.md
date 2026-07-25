@@ -924,10 +924,10 @@ Tarek: Yeah, man, let's go get it.
 DM: So, here's the thing.
 
 %% u1226 %%
-Kaito Min: The original agreement with, what's the name of the guy? Holda?
+Kaito Min: The original agreement with, what's the name of the guy? Hulda?
 
 %% u1227 %%
-Txarro: Holda.
+Txarro: Hulda.
 
 %% u1228-u1230 %%
 Edric: Jerk face. Traitor. Door closer.
@@ -1131,7 +1131,7 @@ DM: You're putting a lot of faith in some.
 Edric: The magic ability to open the gate from this side that he said was impossible.
 
 %% u1316 %%
-DM: Now, Holda got back through it.
+DM: Now, Hulda got back through it.
 
 %% u1317 %%
 Edric: He said he left the door open.
@@ -1449,7 +1449,7 @@ Tarek: Hmm.
 Kaito Min: He did.
 
 %% u1442 %%
-Edric: Stop Holda.
+Edric: Stop Hulda.
 
 %% u1443 %%
 Ayveen: Didn't stop.
@@ -1458,7 +1458,7 @@ Ayveen: Didn't stop.
 DM: A message to you. Thank you. You did not.
 
 %% u1447 %%
-Ayveen: Who would want to keep Holda?
+Ayveen: Who would want to keep Hulda?
 
 %% u1448 %%
 Edric: True.
@@ -1560,7 +1560,7 @@ Kaito Min: What was the relationship?
 Tarek: You're going to love.
 
 %% u1500 %%
-Kaito Min: What was the relationship? Did Holda do anything with that clock? Did Holda do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?
+Kaito Min: What was the relationship? Did Hulda do anything with that clock? Did Hulda do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?
 
 %% u1501-u1504 %%
 DM: No, it's just sort of standing in the corner. Y'all zipped past it on the way upstairs. There are lots of old, weird stuff in that house. Alright.
@@ -1587,31 +1587,31 @@ DM: Very good. So we are agreed.
 Kaito Min: We are just going to exit the manor and make our way down. We're actually not agreeing to anything. Official. We're just simply... Heading up.
 
 %% u1517 %%
-Edric: I guess, ask about Holda.
+Edric: I guess, ask about Hulda.
 
 %% u1518 %%
 DM: Ask him what?
 
 %% u1519 %%
-Edric: Ask him about Holda.
+Edric: Ask him about Hulda.
 
 %% u1520 %%
 DM: Ask him for help.
 
 %% u1521 %%
-Edric: Ask him about Holda, the angry guy.
+Edric: Ask him about Hulda, the angry guy.
 
 %% u1522 %%
-Kaito Min: About Holda.
+Kaito Min: About Hulda.
 
 %% u1523 %%
 DM: This, at this point, is clearly audible to...
 
 %% u1524 %%
-Edric: Lord Endless Ending said, as Edric tries to have an aside to Kaito saying, remember to ask him about Holda.
+Edric: Lord Endless Ending said, as Edric tries to have an aside to Kaito saying, remember to ask him about Hulda.
 
 %% u1525 %%
-Kaito Min: Hold on, why am I asking about Holda?
+Kaito Min: Hold on, why am I asking about Hulda?
 
 %% u1526 %%
 Edric: I kind of decided we were going to.
@@ -1623,7 +1623,7 @@ Kaito Min: What's, what's the Lord doing?
 DM: I have to say, I've enjoyed playing, like, this guy's so fun. Yeah, that's all awesome.
 
 %% u1530 %%
-Edric: Does he react when Edric is, like, loudly whispering to Kaito, remember to ask him about Holda?
+Edric: Does he react when Edric is, like, loudly whispering to Kaito, remember to ask him about Hulda?
 
 %% u1531-u1535 %%
 DM: Sorry, I just put in chat the numbers on the four dials. That's not material to this question. Can you say again, I apologize, I was distracted for a minute. No, so basically, Kaito's like, hey, we're going to head out. He's like. So we're agreed, and then Kaito's like.
@@ -1635,16 +1635,16 @@ Kaito Min: No, we're not actually formally agreeing to anything, we're just goin
 DM: And then, at the same time, Edric is like.
 
 %% u1539 %%
-Kaito Min: Hey, ask him about Holda. Like, aren't you going to ask him about Holda? Like, really loudly and without a lot of tact?
+Kaito Min: Hey, ask him about Hulda. Like, aren't you going to ask him about Hulda? Like, really loudly and without a lot of tact?
 
 %% u1540 %%
-DM: Holda?
+DM: Hulda?
 
 %% u1541-u1543 %%
-DM: Holda! Holda! How do you know Holda?
+DM: Hulda! Hulda! How do you know Hulda?
 
 %% u1544-u1547 %%
-Kaito Min: Well, it's an unfortunate... Story, now that we're here. Holda. I have to say, our nickname for him is the Betrayer.
+Kaito Min: Well, it's an unfortunate... Story, now that we're here. Hulda. I have to say, our nickname for him is the Betrayer.
 
 %% u1548 %%
 DM: Jeez.
@@ -1656,7 +1656,7 @@ Kaito Min: Is the Lord responding well to that nickname?
 DM: This face is totally impassive. Yeah, okay.
 
 %% u1552-u1560 %%
-Kaito Min: Yeah, we. We met Holda, he... Sent us through, A door in the house down the road the other way. Closed the door behind us. That's how we got here. So we're not big fans of him. And our understanding is that, you also... May not have appreciated his demeanor and approach. Life and values.
+Kaito Min: Yeah, we. We met Hulda, he... Sent us through, A door in the house down the road the other way. Closed the door behind us. That's how we got here. So we're not big fans of him. And our understanding is that, you also... May not have appreciated his demeanor and approach. Life and values.
 
 %% u1561-u1562 %%
 DM: No, indeed. He came and acted the part of a fool.

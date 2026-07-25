@@ -8,19 +8,19 @@
 
 ## Timeline
 
-- (DR:: 1740-10-05), evening: The party reaches Lord Endless Ending's manor in the Twilight Kingdom and learns the likely bargain behind Holda's errand.
+- (DR:: 1740-10-05), evening: The party reaches Lord Endless Ending's manor in the Twilight Kingdom and learns the likely bargain behind Hulda's errand.
 
 ## Narrative
 
 ### Through The Root
 
-The night resumes in the root tunnel beneath Dandelion House, just after Holda has closed the door behind them despite promising to keep watch. Ayveen sends him a message asking him to reopen it, but there is no response and no way to know whether the spell failed. Kaito, Edric, Tarek, Ayveen, and Txarro inch onward while debating what they can still trust: the contract, the treaty, Holda, Alden, or even the premise of the job.
+The night resumes in the root tunnel beneath Dandelion House, just after Hulda has closed the door behind them despite promising to keep watch. Ayveen sends him a message asking him to reopen it, but there is no response and no way to know whether the spell failed. Kaito, Edric, Tarek, Ayveen, and Txarro inch onward while debating what they can still trust: the contract, the treaty, Hulda, Alden, or even the premise of the job.
 
 As they crawl, the tunnel stops feeling like living wood and becomes a hard, smooth, coral- or bone-like material. Tarek compares it to a fragment he picked up and tests the strange substance as the passage opens into a small chamber, an eerie counterpart to the subcellar they left. They climb up and out through a ruined house made of the same root-bone material and find themselves under pale blue twilight, with distant estates, a river, unfamiliar stars, and a road ahead.
 
 ### Bodies On The Road
 
-The ruined root house falls behind them as the road rises toward a bright manor a few miles away, with hedgerows, distant points of light, and unfamiliar stars reinforcing that they are no longer in ordinary country. The party keeps questioning Holda's honesty, but the road appears to be the only obvious route forward. Then Txarro notices a body just off the roadside.
+The ruined root house falls behind them as the road rises toward a bright manor a few miles away, with hedgerows, distant points of light, and unfamiliar stars reinforcing that they are no longer in ordinary country. The party keeps questioning Hulda's honesty, but the road appears to be the only obvious route forward. Then Txarro notices a body just off the roadside.
 
 The corpse is human, recently killed, and already sprouting small mushrooms. Three green-feathered arrows struck it from behind while it was running back toward the root house, and the head was smashed flat afterward by heavy maul-like blows. Tracks show heavy boots and hoofed animals nearby. Tarek searches the pockets, finds a writing kit and spell components, and keeps a mouse skull; Kaito studies the beautiful, unfamiliar arrows. Farther down the road, the party smells smoke and finds human bones in a burned pyre, then another arrow-shot corpse stripped of belongings.
 
@@ -56,7 +56,7 @@ The story he buys with those keys is the heart of the house. He came to the Twil
 
 ### The Truce Theory
 
-Ayveen asks whether the Rakshasa needs to leave before the grandfather clock chimes again, but he says he has time because other mortals remain. When the party explains that Holda sent them, he recognizes Holda as the angry man who tried to bully the Lord in his own manor and says, freely, that shouting does not work. Edric studies him and reads no friendship in him, but no lie either: the Rakshasa keeps his own counsel, acts for his own purposes, and is telling the truth because deceit is not worth the effort.
+Ayveen asks whether the Rakshasa needs to leave before the grandfather clock chimes again, but he says he has time because other mortals remain. When the party explains that Hulda sent them, he recognizes Hulda as the angry man who tried to bully the Lord in his own manor and says, freely, that shouting does not work. Edric studies him and reads no friendship in him, but no lie either: the Rakshasa keeps his own counsel, acts for his own purposes, and is telling the truth because deceit is not worth the effort.
 
 Ayveen then names the working theory. The wizard's contest created an agreement, bargain, treaty, or truce that forces Lord Endless Ending to withdraw protection and send mortals away, perhaps against his own desire. The Rakshasa confirms it is the only bargain he knows and suggests that a lord tricked into such an agreement might be receptive to ending it. Then Edric goes looking for another human, the grandfather clock strikes zero, and across the ballroom Lord Endless Ending whispers to a human who hurries out the door. The Lord locks eyes with Edric and beckons him closer, while Txarro sends his owl after the departing human.
 
@@ -68,8 +68,8 @@ Lord Endless Ending (met): tall masked figure, host of the party.
 Pandel (met): drunken halfling guest
 unnamed halfling companion (met): Pandel's drunken companion
 Rakshasa (met): tiger-headed mortal guest
-Lord Holda (mentioned): employer at Dandelion House
-Alden (mentioned): Holda's agent
+Lord Hulda (mentioned): employer at Dandelion House
+Alden (mentioned): Hulda's agent
 ## Locations
 
 *If you add any details to these, I can make full notes.*

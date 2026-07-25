@@ -1,6 +1,6 @@
 # Human-Readable Transcript
 
-**DM:** Oh, awesome. Alright, so last session opened with y'all still in the tunnel, Holda having just closed the door behind you. And… You emerged into, as you continued down the tunnel, it stopped being root, and it seemed instead like it was… I don't know, coral, or bone, or more like the skeleton of a house than a house itself. And what you emerged into was… A sort of, like, a ruined… A house made of skeletal roots. In a kind of an echo or copy of what… where you started. But you climb out of the cellar onto a road, and find yourself in, what hopefully your characters, I've guessed right by now is the Feywild. It's just after twilight in the… I forgot, there's an absolutely wonderful word, glome, for this. So you're in the glome. And…
+**DM:** Oh, awesome. Alright, so last session opened with y'all still in the tunnel, Hulda having just closed the door behind you. And… You emerged into, as you continued down the tunnel, it stopped being root, and it seemed instead like it was… I don't know, coral, or bone, or more like the skeleton of a house than a house itself. And what you emerged into was… A sort of, like, a ruined… A house made of skeletal roots. In a kind of an echo or copy of what… where you started. But you climb out of the cellar onto a road, and find yourself in, what hopefully your characters, I've guessed right by now is the Feywild. It's just after twilight in the… I forgot, there's an absolutely wonderful word, glome, for this. So you're in the glome. And…
 
 **Edric:** Is it just after Twilight, or just before Twilight?
 
@@ -8,7 +8,7 @@
 
 **Txarro:** Kinda true.
 
-**DM:** Yeah, right, fair. Txarro casts augury, wondering if going into the manor is weal or woe, and asking about the treaty is wise. It comes back, maybe unsurprisingly, as both. You thought about different ways to go in and explore, but instead, Txarro sends the familiar, an eastern screech owl, to go look around. And sees behind this gigantic hedgerow that conceals the party from sight, just this enormous party in the process of breaking up. But continually in the process of breaking up. If the party breaking up is, like, a half-hour event in a regular party, it is indefinitely that half hour, exactly. It is endlessly in the process of ending. Not in the sense of people performing the same loops over and over again, but doing endless variations. Or… In the quality of… you know how, like, if you're, like, watching a show or something and you're not paying attention, and then you look back up and you're like, wait, I didn't… they're still there? I didn't think they were still there. Oh, well, I guess they're still there. Like, that… that's sort of a thing. At the gate, you encounter two guards who, Who sniff you and sniff the air and seem to be trying to smell something out of you. somewhere between old men acting like dogs and dogs acting like old men, and they say that you're just in time, because the party's ending, but they don't know anything about what's going on inside. Repeatedly, they say, we belong to the road, not to the party. And they know that the bodies came from further up, and that travelers sometimes have a bad smell that they have to stop from spreading. And I think they describe the bad smell as Exactly the opposite of every other smell there is. Which is sort of in line with the unhelpfulness of their answers. Or the inability of mortals to comprehend the fey. They explained that you're in the Twilight Kingdom, a place of a dozen-dozen houses, with the fixed sun always fixed just below the horizon, and the lord of this house instructed them to let in any mortal. Because you don't have gifts to give, they accept your bribe of the dreams that you have. And each of you has dreamed of Of different and, interesting and foreboding things. Inside the gate, Like the background image, it's this long, sloping lawn falling away to the river. And you chat first. I think overall, you sort of go looking for mortals. So you come across a pair of… Half-drunk Halflings, which probably rounds up to To holy drunk halflings. Arguing with each other, and just sort of blown away that you're there. They're from Chardon. They're from… the outpost of Chardon on the Imperial frontier, and find your questions about all of that somewhere between nonsensical and hilarious. They arrived in the Feywild in the morning. And got up to a variety of adventures before getting to the party in full swing. And… I don't know, your best guess, which your characters did not actually make, but probably you as the players have pieced together, is they… Probably been in the Feywild at least a thousand years. Without any consciousness of the passing of that time. Inside the manor, you come across a few things. There's… One mortal who's sleeping behind a couch in the library, who looks like they probably had a little too much earlier in the night and are still sleeping it off, but very clearly a human, probably in his 20s. And then, you find… Rakshasa, which… is actually not technically the D&D monster Rakshasa, so much as, inspired by the original first edition AD&D illustration of a Rakshasa that I have really liked a lot for the last 35 years. He's a giant tiger person, like, tiger humanoid, probably 8 feet tall, well-dressed. And, sober and coherent, unlike pretty much anyone else at the party, sitting on this porch all by himself, smoking a pipe. And seeing that you are mortals also invites you to sit down and chat. I think Ayveen and Edric start in the conversation. And in the course of chatting, he explains that he got obsessed somewhere along the way with this moment in time, this moment of twilight in sort of all of its permutations. And so at some point. In the past, though he's conscious of the weirdness of time here, but did not share how long ago he's from. Went… essentially went wandering through the Twilight Kingdoms, wanting to understand what all the different kinds of Twilight were. And found his way here. And pieced together the story of why the party is ending. This… this celebration is ending. And he offers to trade it first for a month and a day in Ayveen's house in Tollen, but she negotiates him down to keys. And Tarek arrives and has some keys on him that the Rakshasa takes for an unknown purpose to an unknown end. That'll probably pay off, like, in the… in the third installment of… of the trilogy of Feywild Adventures, something like that. And… with keys, He shares the story that's at the heart of the house and the party. He came to the Twilight Kingdom seeking to understand this state of time, this state of being. And learned that at the height of the party. So, regardless of what that means temporally, certainly narratively, there's a before, there's a height of the party when this revelry is in full swing. At the height of the party, the neighbors… Who had newly moved in, one door down, came… to this house, which was ruled at that time by someone called Lord Revel, Lord Revel's Beginning, who wanted him to send mortals through the door of their house, whenever he had a mortal who came to the party, they wanted him to send them on. One way or another, you sort of get the impression that there's some amount of compulsion there, rather than just persuasion, but to send them through the door to their house. But he has no incentive to do this. First, they offer him gifts, but he finds them unimpressive. Then they offer him stories of human revels, and he finds those unimpressive. And finally, they challenge him to a game of naming, or a game of poetry. And Revel says, and each of them are gonna have this one chance, And, If I had sent the session notes, you would see that these are indeed haiku. But one chance to sort of name what is this place, and so Revel… Explains it, describes it, you know, crystallizes it as the… party beginning wide lawns. But… The wizard understands that In this moment, in this game. it's not just a description of the place as it is, but a description of the place as it is at any point in its story. From the party not yet even begun, with the sun just fallen, to the party having begun, with the sun just fallen, and so on all the way to the end. So the wizard Names what it's going to become. Wide lawns askew, lanterns low, party ending, ruled not by Lord Revel Beginning, but Lord Endless Ending. And ever since that moment, that defined what the place was. And it's remained in that moment ever since, and… Lord Ending has sent his mortal guests down the road every time the grandfather clock chimes zero. The Rakshasa seems not too concerned about this. There's the two, there's a few people in line in front of him, he seems to think, the halflings and the guy sleeping it off, and someone else as well. And, the Rakshasa remembers Holda as the angry man who tried to bully his way in, and sort of mused about that. Your impression of the Rakshasa is… He is so very much a cat, keeping his own counsel, doing all things for his own ends, engaged in his own curious obsessions, but not, whatnot, Not malevolent, in any sense, or lying to you all about this. So… The Rakshasa confirms that's the only bargain he knows of that's… that's operative, so presumably this is what Holda sent you in to break. And, And then what? And then, Edric goes off looking for another human. The grandfather clock strikes zero in that moment. And you spot… Lord Endless Ending, whispering to… into the ear, bending down, because it's very tall, bending down to whisper into the ear, of a human who then hurries out the door. Txarro sends his owl after the departing human. And the lord of the house locks eyes with Edric and beckons him closer. And that's where we ended. Anything else to talk about before we pick up there? Fabulous.
+**DM:** Yeah, right, fair. Txarro casts augury, wondering if going into the manor is weal or woe, and asking about the treaty is wise. It comes back, maybe unsurprisingly, as both. You thought about different ways to go in and explore, but instead, Txarro sends the familiar, an eastern screech owl, to go look around. And sees behind this gigantic hedgerow that conceals the party from sight, just this enormous party in the process of breaking up. But continually in the process of breaking up. If the party breaking up is, like, a half-hour event in a regular party, it is indefinitely that half hour, exactly. It is endlessly in the process of ending. Not in the sense of people performing the same loops over and over again, but doing endless variations. Or… In the quality of… you know how, like, if you're, like, watching a show or something and you're not paying attention, and then you look back up and you're like, wait, I didn't… they're still there? I didn't think they were still there. Oh, well, I guess they're still there. Like, that… that's sort of a thing. At the gate, you encounter two guards who, Who sniff you and sniff the air and seem to be trying to smell something out of you. somewhere between old men acting like dogs and dogs acting like old men, and they say that you're just in time, because the party's ending, but they don't know anything about what's going on inside. Repeatedly, they say, we belong to the road, not to the party. And they know that the bodies came from further up, and that travelers sometimes have a bad smell that they have to stop from spreading. And I think they describe the bad smell as Exactly the opposite of every other smell there is. Which is sort of in line with the unhelpfulness of their answers. Or the inability of mortals to comprehend the fey. They explained that you're in the Twilight Kingdom, a place of a dozen-dozen houses, with the fixed sun always fixed just below the horizon, and the lord of this house instructed them to let in any mortal. Because you don't have gifts to give, they accept your bribe of the dreams that you have. And each of you has dreamed of Of different and, interesting and foreboding things. Inside the gate, Like the background image, it's this long, sloping lawn falling away to the river. And you chat first. I think overall, you sort of go looking for mortals. So you come across a pair of… Half-drunk Halflings, which probably rounds up to To holy drunk halflings. Arguing with each other, and just sort of blown away that you're there. They're from Chardon. They're from… the outpost of Chardon on the Imperial frontier, and find your questions about all of that somewhere between nonsensical and hilarious. They arrived in the Feywild in the morning. And got up to a variety of adventures before getting to the party in full swing. And… I don't know, your best guess, which your characters did not actually make, but probably you as the players have pieced together, is they… Probably been in the Feywild at least a thousand years. Without any consciousness of the passing of that time. Inside the manor, you come across a few things. There's… One mortal who's sleeping behind a couch in the library, who looks like they probably had a little too much earlier in the night and are still sleeping it off, but very clearly a human, probably in his 20s. And then, you find… Rakshasa, which… is actually not technically the D&D monster Rakshasa, so much as, inspired by the original first edition AD&D illustration of a Rakshasa that I have really liked a lot for the last 35 years. He's a giant tiger person, like, tiger humanoid, probably 8 feet tall, well-dressed. And, sober and coherent, unlike pretty much anyone else at the party, sitting on this porch all by himself, smoking a pipe. And seeing that you are mortals also invites you to sit down and chat. I think Ayveen and Edric start in the conversation. And in the course of chatting, he explains that he got obsessed somewhere along the way with this moment in time, this moment of twilight in sort of all of its permutations. And so at some point. In the past, though he's conscious of the weirdness of time here, but did not share how long ago he's from. Went… essentially went wandering through the Twilight Kingdoms, wanting to understand what all the different kinds of Twilight were. And found his way here. And pieced together the story of why the party is ending. This… this celebration is ending. And he offers to trade it first for a month and a day in Ayveen's house in Tollen, but she negotiates him down to keys. And Tarek arrives and has some keys on him that the Rakshasa takes for an unknown purpose to an unknown end. That'll probably pay off, like, in the… in the third installment of… of the trilogy of Feywild Adventures, something like that. And… with keys, He shares the story that's at the heart of the house and the party. He came to the Twilight Kingdom seeking to understand this state of time, this state of being. And learned that at the height of the party. So, regardless of what that means temporally, certainly narratively, there's a before, there's a height of the party when this revelry is in full swing. At the height of the party, the neighbors… Who had newly moved in, one door down, came… to this house, which was ruled at that time by someone called Lord Revel, Lord Revel's Beginning, who wanted him to send mortals through the door of their house, whenever he had a mortal who came to the party, they wanted him to send them on. One way or another, you sort of get the impression that there's some amount of compulsion there, rather than just persuasion, but to send them through the door to their house. But he has no incentive to do this. First, they offer him gifts, but he finds them unimpressive. Then they offer him stories of human revels, and he finds those unimpressive. And finally, they challenge him to a game of naming, or a game of poetry. And Revel says, and each of them are gonna have this one chance, And, If I had sent the session notes, you would see that these are indeed haiku. But one chance to sort of name what is this place, and so Revel… Explains it, describes it, you know, crystallizes it as the… party beginning wide lawns. But… The wizard understands that In this moment, in this game. it's not just a description of the place as it is, but a description of the place as it is at any point in its story. From the party not yet even begun, with the sun just fallen, to the party having begun, with the sun just fallen, and so on all the way to the end. So the wizard Names what it's going to become. Wide lawns askew, lanterns low, party ending, ruled not by Lord Revel Beginning, but Lord Endless Ending. And ever since that moment, that defined what the place was. And it's remained in that moment ever since, and… Lord Ending has sent his mortal guests down the road every time the grandfather clock chimes zero. The Rakshasa seems not too concerned about this. There's the two, there's a few people in line in front of him, he seems to think, the halflings and the guy sleeping it off, and someone else as well. And, the Rakshasa remembers Hulda as the angry man who tried to bully his way in, and sort of mused about that. Your impression of the Rakshasa is… He is so very much a cat, keeping his own counsel, doing all things for his own ends, engaged in his own curious obsessions, but not, whatnot, Not malevolent, in any sense, or lying to you all about this. So… The Rakshasa confirms that's the only bargain he knows of that's… that's operative, so presumably this is what Hulda sent you in to break. And, And then what? And then, Edric goes off looking for another human. The grandfather clock strikes zero in that moment. And you spot… Lord Endless Ending, whispering to… into the ear, bending down, because it's very tall, bending down to whisper into the ear, of a human who then hurries out the door. Txarro sends his owl after the departing human. And the lord of the house locks eyes with Edric and beckons him closer. And that's where we ended. Anything else to talk about before we pick up there? Fabulous.
 
 **Tarek:** Try switching. to my laptop. I don't know if I will drop temporarily or not. Just give me a sec. Do-do-do-do.
 
@@ -478,11 +478,11 @@
 
 **DM:** I don't think…
 
-**Tarek:** in Holda's…
+**Tarek:** in Hulda's…
 
 **DM:** This is perfect.
 
-**Tarek:** Not that we've seen, but in Holda's story about the contract, wasn't given to him by an elf?
+**Tarek:** Not that we've seen, but in Hulda's story about the contract, wasn't given to him by an elf?
 
 **Txarro:** It was.
 
@@ -1160,9 +1160,9 @@
 
 **DM:** So, so, but, but… Here's the thing, here's the thing, here's the thing, here's the thing.
 
-**Kaito Min:** The original agreement with, what's the name of the guy? Holda?
+**Kaito Min:** The original agreement with, what's the name of the guy? Hulda?
 
-**Txarro:** Holda.
+**Txarro:** Hulda.
 
 **Edric:** jerk face. Traitor. Door closer.
 
@@ -1296,7 +1296,7 @@
 
 **Edric:** The magic ability to open the gate from this side that he said was impossible.
 
-**DM:** Now, Holda got back through it.
+**DM:** Now, Hulda got back through it.
 
 **Edric:** He said he left the door open.
 
@@ -1512,13 +1512,13 @@
 
 **Kaito Min:** He did.
 
-**Edric:** Stop Holda.
+**Edric:** Stop Hulda.
 
 **Ayveen:** Didn't stop.
 
 **DM:** a message to you. Thank you. You did not.
 
-**Ayveen:** Who would want to keep Holda?
+**Ayveen:** Who would want to keep Hulda?
 
 **Edric:** True.
 
@@ -1600,7 +1600,7 @@
 
 **Tarek:** you're gonna love.
 
-**Kaito Min:** What was the relationship? Did Holda do anything with that clock? Did Holda do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?
+**Kaito Min:** What was the relationship? Did Hulda do anything with that clock? Did Hulda do anything with the clock? Was he looking at it, talking about it? Did he say anything about it?
 
 **DM:** No, it's just sort of standing in the corner. Y'all zipped past it on the way upstairs. There are lots of old, weird stuff in that house. Alright.
 
@@ -1616,23 +1616,23 @@
 
 **Kaito Min:** We are just gonna… exit the manor and make our way down. We're actually not agreeing to anything. Official. We're just simply… Heading up.
 
-**Edric:** I guess, ask about Holda.
+**Edric:** I guess, ask about Hulda.
 
 **DM:** Ask him what?
 
-**Edric:** Ask him about Holda.
+**Edric:** Ask him about Hulda.
 
 **DM:** Ask him for help.
 
-**Edric:** Ask him about Holda, the angry guy.
+**Edric:** Ask him about Hulda, the angry guy.
 
-**Kaito Min:** about Holda.
+**Kaito Min:** about Hulda.
 
 **DM:** This, at this point, is clearly audible to…
 
-**Edric:** Lord Endless Ending said, as Edric tries to have an aside to Kaito saying, remember to ask him about Holda.
+**Edric:** Lord Endless Ending said, as Edric tries to have an aside to Kaito saying, remember to ask him about Hulda.
 
-**Kaito Min:** Hold on, why am I asking about Holda?
+**Kaito Min:** Hold on, why am I asking about Hulda?
 
 **Edric:** I kind of decided we were going to.
 
@@ -1640,7 +1640,7 @@
 
 **DM:** I have to say, I've enjoyed playing, like, this guy's so fun. Yeah, that's all awesome.
 
-**Edric:** Does he react when Edric is, like, loudly whispering to Kaito, remember to ask him about Holda?
+**Edric:** Does he react when Edric is, like, loudly whispering to Kaito, remember to ask him about Hulda?
 
 **DM:** sorry, I just put in chat the numbers on the four dials. That's not material to this question. Can you say again, I apologize, I was distracted for a minute. No, so basically, Kaito's like, hey, we're gonna head out. He's like. So we're agreed, and then Kaito's like.
 
@@ -1648,11 +1648,11 @@
 
 **DM:** And then, at the same time, Edric is like.
 
-**Kaito Min:** hey, ask him about Holda. Like, aren't you gonna ask him about Holda? Like, really loudly and without a lot of tact?
+**Kaito Min:** hey, ask him about Hulda. Like, aren't you gonna ask him about Hulda? Like, really loudly and without a lot of tact?
 
-**DM:** Holda? Holda! Holda! How do you know Holda?
+**DM:** Hulda? Hulda! Hulda! How do you know Hulda?
 
-**Kaito Min:** Well, it's an unfortunate… Story, now that we're here. Holda. I have to say, our nickname for him is the Betrayer.
+**Kaito Min:** Well, it's an unfortunate… Story, now that we're here. Hulda. I have to say, our nickname for him is the Betrayer.
 
 **DM:** Jeez.
 
@@ -1660,7 +1660,7 @@
 
 **DM:** This face is totally impassive. Yeah, okay.
 
-**Kaito Min:** Yeah, we. We met Holda, he… Sent us through, A door in the house down the road the other way. Closed the door behind us. That's how we got here. So… we're not big fans of him. And our understanding is that, you also… May not have appreciated his demeanor and approach. Life and values.
+**Kaito Min:** Yeah, we. We met Hulda, he… Sent us through, A door in the house down the road the other way. Closed the door behind us. That's how we got here. So… we're not big fans of him. And our understanding is that, you also… May not have appreciated his demeanor and approach. Life and values.
 
 **DM:** No, indeed. He came and acted the part of a fool.
 

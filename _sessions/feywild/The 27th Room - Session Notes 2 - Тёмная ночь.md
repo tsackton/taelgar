@@ -8,13 +8,13 @@
 
 ## Timeline
 
-- (DR:: 1740-10-05), evening: The party reaches Lord Endless Ending's manor in the Twilight Kingdom and learns the likely bargain behind Holda's errand.
+- (DR:: 1740-10-05), evening: The party reaches Lord Endless Ending's manor in the Twilight Kingdom and learns the likely bargain behind Hulda's errand.
 
 ## Narrative
 
 ### Through The Root
 
-As they crawl through the narrow tunnel, debating what they can still trust the contract, Holda, or even the premise of the job, the wood surrounding them gives way to bones -- as if they crawl through the center of an enormous hollow root-bone. They climb up and out through a ruined house made of the same root-bone material and find themselves under pale blue twilight twenty minutes after sunset. A river wends quietly through rolling grassy hills under the first unfamiliar stars of twilight, and they take the path forward from this ruined, skeletal echo of Dandelion House onto a road passing through hill and hollow to an estate in the distance.
+As they crawl through the narrow tunnel, debating what they can still trust the contract, Hulda, or even the premise of the job, the wood surrounding them gives way to bones -- as if they crawl through the center of an enormous hollow root-bone. They climb up and out through a ruined house made of the same root-bone material and find themselves under pale blue twilight twenty minutes after sunset. A river wends quietly through rolling grassy hills under the first unfamiliar stars of twilight, and they take the path forward from this ruined, skeletal echo of Dandelion House onto a road passing through hill and hollow to an estate in the distance.
 
 ### Bodies On The Road
 
@@ -75,7 +75,7 @@ That is the moment it has been ever since. From time to time, the grandfather cl
 
 ### The Truce Theory
 
-Ayveen asks whether the Rakshasa needs to leave before the grandfather clock chimes again, but he says he has time because other mortals remain. When the party explains that Holda sent them, he recognizes Holda as the angry man who tried to bully the Lord in his own manor and says, freely, that shouting does not work. Edric studies him and reads no friendship in him, but no lie either: the Rakshasa keeps his own counsel, acts for his own purposes, but speaks true.
+Ayveen asks whether the Rakshasa needs to leave before the grandfather clock chimes again, but he says he has time because other mortals remain. When the party explains that Hulda sent them, he recognizes Hulda as the angry man who tried to bully the Lord in his own manor and says, freely, that shouting does not work. Edric studies him and reads no friendship in him, but no lie either: the Rakshasa keeps his own counsel, acts for his own purposes, but speaks true.
 
 Ayveen then names the working theory. The wizard's contest created an agreement, bargain, treaty, or truce that forces Lord Endless Ending to withdraw protection and send mortals away, perhaps against his own desire. The Rakshasa confirms it is the only bargain he knows and suggests that a lord tricked into such an agreement might be receptive to ending it. Then Edric goes looking for another human, the grandfather clock strikes zero, and across the ballroom Lord Endless Ending whispers to a human who hurries out the door. The Lord locks eyes with Edric and beckons him closer, while Txarro sends his owl after the departing human.
 
@@ -86,8 +86,8 @@ Ayveen then names the working theory. The wizard's contest created an agreement,
 Lord Endless Ending (met): A fey lord, the host of an endless party at his house in the Twlight Kingdom. Lord Endlessly Ending (once called Lord Revel Beginning) is a very tall, nearly seven foot figure of ambiguous gender presentation. Long hair is tied behind their neck, they wear a velvet evening jack in dark blue at the top which fades to a lighter blue at the bottom, echoing the color of the sky after sunset. Lord Ending's face is expressionless, almost mask-like -- mortals can only see the Lord's emotions as flickers seen out of the corner of an eye. Lord endless has a face that when they stare at you too long, you get the impression that the face you see them wearing is not actually what his face is that something else is inside of a human mask something older and wilder something less contained less containable like an unfinished story.
 Pandel (met): a drunken halfling guest, who with their companion, arrived in the Feywild in a morning kingdom and has spent the day (roughly the last 1200 years) wending their way to Lord Endless Ending's party.
 Rakshasa (met): a giant 8-foot tall tiger-headed mortal guest met at Lord Endless Ending's party. (Not, in fact, a Rakshasa as defined in D&D, but inspired by the illustration in the first edition monster manual.) Rakshasa claims to have been obessed with the stories that unfold in the twlight after sunset, and has been visiting the houses of the Twilight Kingdom studying and collecting them.
-Lord Holda (mentioned): employer at Dandelion House
-Alden (mentioned): Holda's agent
+Lord Hulda (mentioned): employer at Dandelion House
+Alden (mentioned): Hulda's agent
 ## Locations
 
 *If you add any details to these, I can make full notes.*

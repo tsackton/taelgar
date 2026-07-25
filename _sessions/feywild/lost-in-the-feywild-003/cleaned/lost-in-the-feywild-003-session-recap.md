@@ -83,7 +83,7 @@ After regrouping, the party crosses the ballroom to Lord Endless Ending and his 
 
 Speaking to the Lord, Txarro admits that they are trapped in the Feywild and seeking a way home. Lord Endless Ending says there may be a way home lies through the nearest neighbor's house, the same direction as the woman sent by the clock. When pressed, he describes being tricked by a mortal wizard into an agreement to send guests through that house whenever the clock strikes zero, and says the bargain can be undone if a glass key from the cold-iron 27th room is brought back and broken. 
 
-While Lord Endless Ending steps aside, the party argues through the risks: whether retrieving the glass key helps Holda, whether the neighbor's house is really their best exit, and whether any agreement with a fey lord is too dangerous. In the end, they decide to go, but Kaito carefully secures permission to leave toward the neighbor's house without being bound to recover the key. The exit proves stranger than intention: the gate will be there only if the party has already gone through the neighbor's door in their future. 
+While Lord Endless Ending steps aside, the party argues through the risks: whether retrieving the glass key helps Hulda, whether the neighbor's house is really their best exit, and whether any agreement with a fey lord is too dangerous. In the end, they decide to go, but Kaito carefully secures permission to leave toward the neighbor's house without being bound to recover the key. The exit proves stranger than intention: the gate will be there only if the party has already gone through the neighbor's door in their future. 
 
 #### Long
 The party crosses the ballroom to Lord Endless Ending, an elegant fey lord attended by an anxious badger butler. Kaito reads the butler's surface thoughts and finds a servant almost overwhelmed by work needed to clean up the household disorder: broken glass, wine stains, interrupted duties, and the frustration of waiting beside his Lord when there is cleaning to do.
@@ -92,7 +92,7 @@ The badger presents the group and asks what gifts they have brought. Txarro offe
 
 Txarro tells Lord Endless Ending that the party came through a door that closed behind them and does not know how to leave. The Lord says there is a way home through his nearest neighbor's house to the north -- the same direction as the woman who just left. He explains that a mortal wizard tricked him into an agreement he did not intend: he must send mortal guests through that house whenever the magical clock brought by the wizard and her entourage (of whom one still remains) strikes zero. Through various portents, he has learned that the bargain can be undone if a glass key from the lock of the cold-iron door to the 27th Room is brought back to him and broken. Kaito warns him about the bodies on the road, but he answers that his responsibility ends at the gate.
 
-The party argue through the risks: whether retrieving the glass key would help Holda, whether the neighbor's house is still their best way home, whether the wizard can be trusted, and whether agreeing to anything with a Fey Lord is itself the trap.
+The party argue through the risks: whether retrieving the glass key would help Hulda, whether the neighbor's house is still their best way home, whether the wizard can be trusted, and whether agreeing to anything with a Fey Lord is itself the trap.
 
 Kaito then carefully phrases the party's departure so that they are headed toward the neighbor's house without promising to retrieve the key. Lord Endless Ending says that if the doorway toward the 27th room is truly their destination, his gates are open, and he does not wish to compel them as he was compelled: the gates will open only if, in the future, they have already gone through the other door. The distinction makes the whole exit feel less like a plan and more like a story already bending around them.
 
@@ -196,7 +196,7 @@ With Menestheus, the party presses onward to the 27th House whose entry is a sim
 - road guards (met): doglike keepers of the road outside Lord Endless Ending's manor
   - Lord Endless Ending's manor, 1740-10-05
 - unnamed human woman (met): mortal guest sent away when the clock strikes zero
-- Lord Holda (mentioned): party's employer at Dandelion House
+- Lord Hulda (mentioned): party's employer at Dandelion House
 - Rakshasa (mentioned): tiger-headed guest and informant from the prior session
 - unnamed wizard neighbor (mentioned):  mortal wizard who tricked Lord Endless Ending into the sending bargain
 - [[Thalestria]] (mentioned): Menestheus's master and head of Arithrimos Lamperum
@@ -261,7 +261,7 @@ With Menestheus, the party presses onward to the 27th House whose entry is a sim
 - single door (encountered): lone doorway on the western promontory, reached at the end of the road from the manor
   - Lord Endless Ending's manor -> single door on the western promontory, 1740-10-05
 - Tarek's museum keys (mentioned): keys earlier traded to the Rakshasa for information about the ending party
-- Dandelion House deed (mentioned): suspicious four-hundred-year-old deed written in modern Sembaran and tied to Holda's claim
+- Dandelion House deed (mentioned): suspicious four-hundred-year-old deed written in modern Sembaran and tied to Hulda's claim
 - glass key (mentioned): key to the cold-iron 27th room that Lord Endless Ending wants returned and broken
 - 27th room (mentioned): cold-iron room in the neighbor's house, described as central to undoing the bargain
 - Dandelion House clock (mentioned): similar magical clock previously seen in Dandelion House

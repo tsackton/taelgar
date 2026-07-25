@@ -109,7 +109,7 @@ allReplacements:
   - '[u0280 | 00:29:14.750-00:29:21.649 | Txarro]'
   - '[u0802 | 01:08:25.520-01:08:32.749 | DM]'
 - from: Hulda
-  to: Holda
+  to: Hulda
   count: 3
   headers:
   - '[u0002 | 00:00:03.360-00:00:11.500 | DM]'
@@ -156,31 +156,31 @@ allReplacements:
   - '[u1289 | 01:43:25.550-01:43:29.920 | Ayveen]'
   - '[u1400 | 01:47:54.310-01:47:57.780 | Kaito Min]'
 - from: Halda
-  to: Holda
+  to: Hulda
   count: 2
   headers:
   - '[u0503 | 00:44:20.030-00:44:20.990 | Tarek]'
   - '[u0505 | 00:44:21.860-00:44:27.070 | Tarek]'
 - from: Hold up
-  to: Holda
+  to: Hulda
   count: 2
   headers:
   - '[u1522 | 01:54:41.660-01:54:42.250 | Kaito Min]'
   - '[u1541 | 01:55:56.060-01:55:57.170 | DM]'
 - from: Holden
-  to: Holda
+  to: Hulda
   count: 2
   headers:
   - '[u1500 | 01:53:09.430-01:53:13.590 | Kaito Min]'
   - '[u1525 | 01:54:51.230-01:54:52.420 | Kaito Min]'
 - from: Holder
-  to: Holda
+  to: Hulda
   count: 2
   headers:
   - '[u1542 | 01:55:58.480-01:55:59.710 | DM]'
   - '[u1546 | 01:56:12.350-01:56:13.320 | Kaito Min]'
 - from: Holdo
-  to: Holda
+  to: Hulda
   count: 2
   headers:
   - '[u1539 | 01:55:47.350-01:55:52.099 | Kaito Min]'
@@ -266,7 +266,7 @@ allReplacements:
   headers:
   - '[u1530 | 01:55:15.730-01:55:20.119 | Edric]'
 - from: Alda
-  to: Holda
+  to: Hulda
   count: 1
   headers:
   - '[u1226 | 01:40:37.020-01:40:39.660 | Kaito Min]'
@@ -496,7 +496,7 @@ allReplacements:
   headers:
   - '[u1292 | 01:43:37.200-01:43:41.800 | Tarek]'
 - from: Holba
-  to: Holda
+  to: Hulda
   count: 1
   headers:
   - '[u1521 | 01:54:39.060-01:54:41.200 | Edric]'
@@ -606,7 +606,7 @@ allReplacements:
   headers:
   - '[u2189 | 02:46:08.450-02:46:15.010 | DM]'
 - from: Older
-  to: Holda
+  to: Hulda
   count: 1
   headers:
   - '[u1540 | 01:55:54.070-01:55:55.020 | DM]'
@@ -821,7 +821,7 @@ allReplacements:
   headers:
   - '[u0899 | 01:17:54.190-01:17:55.340 | DM]'
 - from: Well done
-  to: Holda
+  to: Hulda
   count: 1
   headers:
   - '[u1227 | 01:40:40.680-01:40:41.000 | Txarro]'
@@ -1051,7 +1051,7 @@ allReplacements:
   headers:
   - '[u1262 | 01:42:24.250-01:42:25.209 | Kaito Min]'
 - from: don ' t hold up
-  to: ask about Holda
+  to: ask about Hulda
   count: 1
   headers:
   - '[u1517 | 01:54:30.980-01:54:32.150 | Edric]'
@@ -1226,12 +1226,12 @@ allReplacements:
   headers:
   - '[u0991 | 01:25:56.920-01:26:00.500 | DM]'
 - from: hold of
-  to: Holda
+  to: Hulda
   count: 1
   headers:
   - '[u1447 | 01:50:22.870-01:50:24.099 | Ayveen]'
 - from: holder
-  to: Holda
+  to: Hulda
   count: 1
   headers:
   - '[u1442 | 01:50:13.160-01:50:14.049 | Edric]'
@@ -1241,7 +1241,7 @@ allReplacements:
   headers:
   - '[u0520 | 00:44:57.320-00:45:02.150 | Edric]'
 - from: if I hold up
-  to: about Holda
+  to: about Hulda
   count: 1
   headers:
   - '[u1530 | 01:55:15.730-01:55:20.119 | Edric]'
@@ -1526,7 +1526,7 @@ allReplacements:
   headers:
   - '[u2433 | 03:03:03.640-03:03:06.509 | DM]'
 - from: them for a holdup
-  to: him about Holda
+  to: him about Hulda
   count: 1
   headers:
   - '[u1519 | 01:54:35.000-01:54:35.900 | Edric]'
@@ -1636,7 +1636,7 @@ allReplacements:
   headers:
   - '[u0902 | 01:18:07.810-01:18:13.149 | Txarro]'
 - from: you hold it to
-  to: Holda do anything with
+  to: Hulda do anything with
   count: 1
   headers:
   - '[u1500 | 01:53:09.430-01:53:13.590 | Kaito Min]'
@@ -1751,7 +1751,7 @@ repeatedReplacements:
   - '[u0280 | 00:29:14.750-00:29:21.649 | Txarro]'
   - '[u0802 | 01:08:25.520-01:08:32.749 | DM]'
 - from: Hulda
-  to: Holda
+  to: Hulda
   count: 3
   headers:
   - '[u0002 | 00:00:03.360-00:00:11.500 | DM]'
@@ -1798,31 +1798,31 @@ repeatedReplacements:
   - '[u1289 | 01:43:25.550-01:43:29.920 | Ayveen]'
   - '[u1400 | 01:47:54.310-01:47:57.780 | Kaito Min]'
 - from: Halda
-  to: Holda
+  to: Hulda
   count: 2
   headers:
   - '[u0503 | 00:44:20.030-00:44:20.990 | Tarek]'
   - '[u0505 | 00:44:21.860-00:44:27.070 | Tarek]'
 - from: Hold up
-  to: Holda
+  to: Hulda
   count: 2
   headers:
   - '[u1522 | 01:54:41.660-01:54:42.250 | Kaito Min]'
   - '[u1541 | 01:55:56.060-01:55:57.170 | DM]'
 - from: Holden
-  to: Holda
+  to: Hulda
   count: 2
   headers:
   - '[u1500 | 01:53:09.430-01:53:13.590 | Kaito Min]'
   - '[u1525 | 01:54:51.230-01:54:52.420 | Kaito Min]'
 - from: Holder
-  to: Holda
+  to: Hulda
   count: 2
   headers:
   - '[u1542 | 01:55:58.480-01:55:59.710 | DM]'
   - '[u1546 | 01:56:12.350-01:56:13.320 | Kaito Min]'
 - from: Holdo
-  to: Holda
+  to: Hulda
   count: 2
   headers:
   - '[u1539 | 01:55:47.350-01:55:52.099 | Kaito Min]'

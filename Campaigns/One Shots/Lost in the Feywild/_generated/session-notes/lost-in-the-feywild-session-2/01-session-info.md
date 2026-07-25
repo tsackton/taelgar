@@ -80,7 +80,7 @@ Tuesday, May 26, 2026
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->
-- (DR:: 1740-10-05), evening: The party reaches [[Lord Endless Ending's Manor|Lord Endless Ending's manor]] in the [[Twilight Kingdom]] and learns the likely bargain behind Holda's errand.
+- (DR:: 1740-10-05), evening: The party reaches [[Lord Endless Ending's Manor|Lord Endless Ending's manor]] in the [[Twilight Kingdom]] and learns the likely bargain behind [[Lord Hulda|Hulda]]'s errand.
 <!-- /SLOT -->
 
 <!-- SLOT: cast -->
@@ -126,7 +126,7 @@ Tuesday, May 26, 2026
   - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
 - grandfather clock: clock whose zero chime marks [[Lord Endless Ending]] sending another mortal away.
   - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
-- ancient Sembaran contract: 400-year-old contract in contemporary Sembaran that requires Holda to persuade a lord to end a treaty.
+- ancient Sembaran contract: 400-year-old contract in contemporary Sembaran that requires Hulda to persuade a lord to end a treaty.
 - glowing gold key: key Alden used to unlock the lower door beneath [[Dandelion House]].
 - liberated boat: boat the halflings claim to have taken while traveling to the party.
 - naming bargain: wizard's naming contest bargain that renamed Revel's estate and appears to bind [[Lord Endless Ending]].

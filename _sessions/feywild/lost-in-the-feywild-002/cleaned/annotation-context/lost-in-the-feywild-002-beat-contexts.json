@@ -26,7 +26,7 @@
         "dateEnd": null,
         "timeWindow": "evening",
         "containsCombat": false,
-        "boundaryReason": "The session opens with setup and recap, then follows the party through the bone-like root tunnel, out into the Feywild, and along the first stretch of road as they take in the landscape, debate Holda's honesty, and decide to continue toward the manor; the next beat begins when Txarro's passive perception leads to the first body on the road.",
+        "boundaryReason": "The session opens with setup and recap, then follows the party through the bone-like root tunnel, out into the Feywild, and along the first stretch of road as they take in the landscape, debate Hulda's honesty, and decide to continue toward the manor; the next beat begins when Txarro's passive perception leads to the first body on the road.",
         "dateEvidence": [
           "session.yaml gives drStart and drEnd as 1740-10-05.",
           "u0053-u0067 recap the before-dawn descent and reopen in the root tunnel.",
@@ -179,8 +179,8 @@
         {
           "uid": "u0016",
           "header": "[u0016 | 00:01:10.359-00:01:17.099 | DM]",
-          "text": "have been hired by a minor lord named Holda, the second son of.",
-          "raw": "[u0016 | 00:01:10.359-00:01:17.099 | DM] have been hired by a minor lord named Holda, the second son of."
+          "text": "have been hired by a minor lord named Hulda, the second son of.",
+          "raw": "[u0016 | 00:01:10.359-00:01:17.099 | DM] have been hired by a minor lord named Hulda, the second son of."
         },
         {
           "uid": "u0017",
@@ -311,8 +311,8 @@
         {
           "uid": "u0038",
           "header": "[u0038 | 00:03:04.790-00:03:13.539 | DM]",
-          "text": "Despite the misgivings of various party members, You meet… met Lord Holda.",
-          "raw": "[u0038 | 00:03:04.790-00:03:13.539 | DM] Despite the misgivings of various party members, You meet… met Lord Holda."
+          "text": "Despite the misgivings of various party members, You meet… met Lord Hulda.",
+          "raw": "[u0038 | 00:03:04.790-00:03:13.539 | DM] Despite the misgivings of various party members, You meet… met Lord Hulda."
         },
         {
           "uid": "u0039",
@@ -359,14 +359,14 @@
         {
           "uid": "u0046",
           "header": "[u0046 | 00:03:55.610-00:04:02.419 | DM]",
-          "text": "That Holda asked you to step through a door in the floor and convince a man beyond to end a long-held treaty.",
-          "raw": "[u0046 | 00:03:55.610-00:04:02.419 | DM] That Holda asked you to step through a door in the floor and convince a man beyond to end a long-held treaty."
+          "text": "That Hulda asked you to step through a door in the floor and convince a man beyond to end a long-held treaty.",
+          "raw": "[u0046 | 00:03:55.610-00:04:02.419 | DM] That Hulda asked you to step through a door in the floor and convince a man beyond to end a long-held treaty."
         },
         {
           "uid": "u0047",
           "header": "[u0047 | 00:04:04.040-00:04:18.619 | DM]",
-          "text": "Holda, whose only negotiation strategy, in fact, maybe his only strategy for moving through the world, period, seems to be intimidation, failed immediately to convince the man on the other side of this door of anything, and turned to the party for help.",
-          "raw": "[u0047 | 00:04:04.040-00:04:18.619 | DM] Holda, whose only negotiation strategy, in fact, maybe his only strategy for moving through the world, period, seems to be intimidation, failed immediately to convince the man on the other side of this door of anything, and turned to the party for help."
+          "text": "Hulda, whose only negotiation strategy, in fact, maybe his only strategy for moving through the world, period, seems to be intimidation, failed immediately to convince the man on the other side of this door of anything, and turned to the party for help.",
+          "raw": "[u0047 | 00:04:04.040-00:04:18.619 | DM] Hulda, whose only negotiation strategy, in fact, maybe his only strategy for moving through the world, period, seems to be intimidation, failed immediately to convince the man on the other side of this door of anything, and turned to the party for help."
         },
         {
           "uid": "u0048",
@@ -437,8 +437,8 @@
         {
           "uid": "u0059",
           "header": "[u0059 | 00:05:41.400-00:05:46.210 | DM]",
-          "text": "Holda is waiting there, and opens a door through this massive hollowed-out root.",
-          "raw": "[u0059 | 00:05:41.400-00:05:46.210 | DM] Holda is waiting there, and opens a door through this massive hollowed-out root."
+          "text": "Hulda is waiting there, and opens a door through this massive hollowed-out root.",
+          "raw": "[u0059 | 00:05:41.400-00:05:46.210 | DM] Hulda is waiting there, and opens a door through this massive hollowed-out root."
         },
         {
           "uid": "u0060",
@@ -539,8 +539,8 @@
         {
           "uid": "u0076",
           "header": "[u0076 | 00:07:20.260-00:07:24.740 | DM]",
-          "text": "And, you know, I'd address Lord Holda and say.",
-          "raw": "[u0076 | 00:07:20.260-00:07:24.740 | DM] And, you know, I'd address Lord Holda and say."
+          "text": "And, you know, I'd address Lord Hulda and say.",
+          "raw": "[u0076 | 00:07:20.260-00:07:24.740 | DM] And, you know, I'd address Lord Hulda and say."
         },
         {
           "uid": "u0077",
@@ -815,8 +815,8 @@
         {
           "uid": "u0122",
           "header": "[u0122 | 00:10:52.060-00:10:53.929 | DM]",
-          "text": "but not on Holda.",
-          "raw": "[u0122 | 00:10:52.060-00:10:53.929 | DM] but not on Holda."
+          "text": "but not on Hulda.",
+          "raw": "[u0122 | 00:10:52.060-00:10:53.929 | DM] but not on Hulda."
         },
         {
           "uid": "u0123",
@@ -2033,8 +2033,8 @@
         {
           "uid": "u0325",
           "header": "[u0325 | 00:28:35.860-00:28:44.679 | DM]",
-          "text": "Sorry, this illuminated… House Ahead is… as… Holda said the…",
-          "raw": "[u0325 | 00:28:35.860-00:28:44.679 | DM] Sorry, this illuminated… House Ahead is… as… Holda said the…"
+          "text": "Sorry, this illuminated… House Ahead is… as… Hulda said the…",
+          "raw": "[u0325 | 00:28:35.860-00:28:44.679 | DM] Sorry, this illuminated… House Ahead is… as… Hulda said the…"
         },
         {
           "uid": "u0326",
@@ -4073,8 +4073,8 @@
         {
           "uid": "u0652",
           "header": "[u0652 | 00:49:31.910-00:49:35.660 | Ayveen]",
-          "text": "Lord Holda didn't mention a path strewn with dead bodies.",
-          "raw": "[u0652 | 00:49:31.910-00:49:35.660 | Ayveen] Lord Holda didn't mention a path strewn with dead bodies."
+          "text": "Lord Hulda didn't mention a path strewn with dead bodies.",
+          "raw": "[u0652 | 00:49:31.910-00:49:35.660 | Ayveen] Lord Hulda didn't mention a path strewn with dead bodies."
         }
       ],
       "supplementalSources": []
@@ -13546,7 +13546,7 @@
         "dateEnd": null,
         "timeWindow": "evening",
         "containsCombat": false,
-        "boundaryReason": "The group connects the naming contest to Holda's mission, considers whether the Lord is bound by a truce he cannot break himself, learns another human may be moving through the house, and ends as Lord Endless Ending sends that human away and beckons Edric closer; the session closes on the party's working theory.",
+        "boundaryReason": "The group connects the naming contest to Hulda's mission, considers whether the Lord is bound by a truce he cannot break himself, learns another human may be moving through the house, and ends as Lord Endless Ending sends that human away and beckons Edric closer; the session closes on the party's working theory.",
         "dateEvidence": [
           "session.yaml gives drStart and drEnd as 1740-10-05.",
           "u2164-u2288 continue the same conversation with the tiger guest at the evening party.",
@@ -13716,8 +13716,8 @@
         {
           "uid": "u2182",
           "header": "[u2182 | 02:44:17.070-02:44:19.530 | Txarro]",
-          "text": "You know a Lord Holda.",
-          "raw": "[u2182 | 02:44:17.070-02:44:19.530 | Txarro] You know a Lord Holda."
+          "text": "You know a Lord Hulda.",
+          "raw": "[u2182 | 02:44:17.070-02:44:19.530 | Txarro] You know a Lord Hulda."
         },
         {
           "uid": "u2183",
@@ -13728,8 +13728,8 @@
         {
           "uid": "u2184",
           "header": "[u2184 | 02:44:27.120-02:44:30.909 | Ayveen]",
-          "text": "So yes, you know our friend, Lord Holda.",
-          "raw": "[u2184 | 02:44:27.120-02:44:30.909 | Ayveen] So yes, you know our friend, Lord Holda."
+          "text": "So yes, you know our friend, Lord Hulda.",
+          "raw": "[u2184 | 02:44:27.120-02:44:30.909 | Ayveen] So yes, you know our friend, Lord Hulda."
         },
         {
           "uid": "u2185",
@@ -13752,8 +13752,8 @@
         {
           "uid": "u2188",
           "header": "[u2188 | 02:45:04.710-02:45:07.340 | DM]",
-          "text": "Holda sent you?",
-          "raw": "[u2188 | 02:45:04.710-02:45:07.340 | DM] Holda sent you?"
+          "text": "Hulda sent you?",
+          "raw": "[u2188 | 02:45:04.710-02:45:07.340 | DM] Hulda sent you?"
         },
         {
           "uid": "u2189",
@@ -13770,8 +13770,8 @@
         {
           "uid": "u2191",
           "header": "[u2191 | 02:45:15.140-02:45:19.659 | Txarro]",
-          "text": "sure what Holda is up to, to be honest.",
-          "raw": "[u2191 | 02:45:15.140-02:45:19.659 | Txarro] sure what Holda is up to, to be honest."
+          "text": "sure what Hulda is up to, to be honest.",
+          "raw": "[u2191 | 02:45:15.140-02:45:19.659 | Txarro] sure what Hulda is up to, to be honest."
         },
         {
           "uid": "u2192",

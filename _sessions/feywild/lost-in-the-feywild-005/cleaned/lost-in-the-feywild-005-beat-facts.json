@@ -1,0 +1,400 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-beats.json",
+  "facts": [
+    {
+      "beatId": "b001",
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "After reviewing the Dreamer notebook and their competing obligations, the party decides to seek the glass key while leaving the prisoner confined.",
+      "longSummary": "The party finishes discussing the Dreamer notebook's conflation of dreams and souls before the session recap returns them to Kallipseis's fungal greenhouse. After restating their appearances and motives, they debate whether they owe anything to Hulda or Lord Endless Ending, question Menestheus about the order and its absent leader, and consider the risk that taking the glass key could release the prisoner. They conclude that the key is still their best route out, but intend to remove it without opening the prisoner's door, and leave Kallipseis to continue work on her fungal golem.",
+      "location": {
+        "kind": "fixed",
+        "primary": "27th Room",
+        "context": "room 18, Kallipseis's fungal greenhouse and laboratory",
+        "notes": "The beat resumes exactly where the preceding session ended and closes as the party exits the greenhouse."
+      },
+      "npcs": [
+        {
+          "name": "Kallipseis",
+          "role": "encountered",
+          "context": "ancient dwarven gardener and self-described head of Arithrimos Lamperum",
+          "notes": "She returns to supervising construction of her fungal golem while the party plans its next move."
+        },
+        {
+          "name": "Menestheus",
+          "role": "companion",
+          "context": "Arithrimos Lamperum mathematician and mapmaker",
+          "notes": "He answers questions about the order, Kallipseis, and the purpose of the prison complex before leading the party onward."
+        },
+        {
+          "name": "Lord Endless Ending",
+          "role": "mentioned",
+          "context": "Fey lord tied to the bargain",
+          "notes": "The party remains divided over whether helping him is preferable to helping Hulda."
+        },
+        {
+          "name": "Hulda",
+          "role": "mentioned",
+          "context": "original employer",
+          "notes": "The party treats his apparent betrayal as grounds to disregard their original agreement."
+        },
+        {
+          "name": "the prisoner",
+          "role": "mentioned",
+          "context": "being confined in the central room",
+          "notes": "The party wants the glass key but does not intend to open the prisoner's door."
+        }
+      ],
+      "items": [
+        {
+          "name": "Dreamer notebook",
+          "role": "encountered",
+          "notes": "Its language about dreaming and souls drives the opening discussion."
+        },
+        {
+          "name": "glass key",
+          "role": "mentioned",
+          "notes": "The party decides to retrieve it as their best chance of leaving the complex."
+        },
+        {
+          "name": "fungal golem body",
+          "role": "encountered",
+          "notes": "Kallipseis continues supervising its construction as the party departs."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Arithrimos Lamperum",
+          "role": "encountered",
+          "notes": "Kallipseis and Menestheus are the two surviving members present, though Menestheus disputes treating her as his direct superior."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b002",
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party studies a dandelion lecture and a black painting of a seed sprouting through a cosmic tear, then finds a portable clock that tracks the prison.",
+      "longSummary": "After crossing a parlor, the party enters a lecture hall whose blackboard diagrams wind-dispersed plants and whose enormous black painting conceals a star field, a tear in the universe, and the textured shape of a sprouting seed. Tarek also finds The Shape of Discovery, a treatise linking curiosity, greed, chance, and possibility, while the group realizes that Alden matched Kallipseis's description of an infected person. Menestheus identifies the painted seed crossing between worlds as exactly the kind of breach his order guarded against. In the next clockworks workshop, Tarek takes a portable space-time clock whose changing numbers track the prison's position, and the party reaches another listening station.",
+      "location": {
+        "kind": "fixed",
+        "primary": "27th Room",
+        "context": "parlor, lecture hall, clockworks workshop, and a mechanical listening room",
+        "notes": "The party advances through several adjacent rooms while following Menestheus's route toward the glass key."
+      },
+      "npcs": [
+        {
+          "name": "Menestheus",
+          "role": "companion",
+          "context": "guide and planar mapmaker",
+          "notes": "He explains that the painted seed resembles an uncontrolled breach between worlds and identifies the clocks as prison trackers."
+        },
+        {
+          "name": "Alden",
+          "role": "mentioned",
+          "context": "Hulda's servant",
+          "notes": "The party connects his pale, round, unexpectedly strong appearance and fear of fire to the fungal infection."
+        }
+      ],
+      "items": [
+        {
+          "name": "The Shape of Discovery",
+          "role": "encountered",
+          "notes": "A brief treatise arguing that curiosity shapes possibility through the same irrational unpredictability as greed and games of chance."
+        },
+        {
+          "name": "black star-field painting",
+          "role": "encountered",
+          "notes": "Its nearly invisible center depicts a sprouting seed emerging through a tear between worlds."
+        },
+        {
+          "name": "portable space-time clock",
+          "role": "encountered",
+          "notes": "Tarek wraps and carries an unfinished desk-sized clock whose numbers change as the prison moves."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Arithrimos Lamperum",
+          "role": "encountered",
+          "notes": "The lecture hall and workshop belonged to the order, whose purpose included preventing growth through planar breaches."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b003",
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The Thirst notebook ties the prisoner to the fungal children, and the party's search of an animal lab becomes an ambush when Menestheus is dragged away.",
+      "longSummary": "The notebook titled Thirst describes the speaker filling empty heads with its children and being helped to find the person who can free it. The party interprets the children as the fungal infection, suspects the prisoner manipulated Alden and the false-looking deed that brought them here, and resolves not to free it. When Kaito takes the listener's role, he hears the prisoner claim it is full of dreams, can read the party, and sees both the moving exit and a hole large enough for its children. The group moves into an animal experimentation lab filled with cages, restraints, dead animals, an infected ant colony, and humanoid remains; as they approach the exit, a hand pulls Menestheus out of sight.",
+      "location": {
+        "kind": "fixed",
+        "primary": "27th Room",
+        "context": "mechanical listening station and animal experimentation laboratory",
+        "notes": "The beat shifts from interpreting the Thirst notebook to exploring the adjoining lab, where the ambush begins."
+      },
+      "npcs": [
+        {
+          "name": "Menestheus",
+          "role": "companion",
+          "context": "guide through the complex",
+          "notes": "He trusts Thalestria's judgment that the prisoner must remain confined and is dragged out of sight at the end of the beat."
+        },
+        {
+          "name": "the prisoner",
+          "role": "encountered",
+          "context": "voice at the Thirst listening station",
+          "notes": "It communicates through the window while Kaito listens, saying the party is helping it and that its children can pass through a hole."
+        },
+        {
+          "name": "Thalestria",
+          "role": "mentioned",
+          "context": "former head of Arithrimos Lamperum",
+          "notes": "Menestheus treats her decision to imprison the speaker as reason to keep it confined."
+        }
+      ],
+      "items": [
+        {
+          "name": "Thirst notebook",
+          "role": "encountered",
+          "notes": "Its transcriptions connect the prisoner, the fungal children, and the search for someone able to free it."
+        },
+        {
+          "name": "infected ant colony",
+          "role": "encountered",
+          "notes": "The dead colony shows fungal bodies bursting from the ants, like cordyceps."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Arithrimos Lamperum",
+          "role": "mentioned",
+          "notes": "The party debates whether the order understood the prisoner well enough to justify its confinement."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b004",
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party enters initiative to rescue Menestheus, assaults his fungal captor, and draws a second Alden-like mushroom corpse into the fight.",
+      "longSummary": "After Menestheus is seized, the table establishes the animal-lab battlefield and the party begins its rescue. Edric rages, crosses the obstructing tables, and hammers the mushroom man holding Menestheus; Kaito follows with Dissonant Whispers, while Tarek and Ayveen position for ranged and melee support. As Tarek approaches, the nearby corpse opens its eyes and rises, looking nearly identical to Alden. The party damages both infected bodies, but the opening exchange ends as the newly awakened corpse stands and reaches for Tarek.",
+      "location": {
+        "kind": "fixed",
+        "primary": "27th Room",
+        "context": "animal experimentation laboratory",
+        "notes": "The tables, specimen containers, walkways, and corpses form the battlefield."
+      },
+      "npcs": [
+        {
+          "name": "Menestheus",
+          "role": "companion",
+          "context": "captured ally",
+          "notes": "One mushroom man keeps him grappled while the party attempts a rescue."
+        },
+        {
+          "name": "mushroom men",
+          "role": "enemy",
+          "context": "fungus-colonized humanoid bodies",
+          "notes": "One seizes Menestheus and a second, visually identical to Alden apart from its clothes, awakens from the floor."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "mushroom men",
+            "notes": "Two fungus-colonized humanoid bodies attack in the animal lab."
+          }
+        ],
+        "notes": "The combat begins with Menestheus already grappled and escalates when a second infected corpse rises."
+      }
+    },
+    {
+      "beatId": "b005",
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The mushroom men nearly kill Menestheus, but the party destroys both infected bodies and burns their remains.",
+      "longSummary": "The awakened mushroom man lashes out with elongated fingers, briefly grapples Tarek, and exposes multiple mouths in its chest while the other feeds Menestheus toward them. Ayveen's Silvery Barbs reduces the attack, Txarro becomes a tiger, and the party focuses down the first body before turning on Menestheus's captor. The surviving creature pulls Menestheus into its chest, dropping him to zero hit points and inflicting a failed death save, but Txarro restores him with Cure Wounds. Edric finally crushes the last mushroom man's head; its death releases a cloud of seeds that Txarro inhales, after which the party burns both bodies as they flare like dry straw.",
+      "location": {
+        "kind": "fixed",
+        "primary": "27th Room",
+        "context": "animal experimentation laboratory",
+        "notes": "The second combat phase remains in the same obstructed laboratory."
+      },
+      "npcs": [
+        {
+          "name": "Menestheus",
+          "role": "companion",
+          "context": "captured and critically injured ally",
+          "notes": "He is pulled into a mouth-covered chest, reaches zero hit points, and is restored by Txarro before the fight ends."
+        },
+        {
+          "name": "mushroom men",
+          "role": "enemy",
+          "context": "fungus-colonized humanoid bodies",
+          "notes": "Both are destroyed, and their remains are burned after combat."
+        }
+      ],
+      "items": [
+        {
+          "name": "fungal seed cloud",
+          "role": "encountered",
+          "notes": "The final mushroom man's destroyed head releases airborne seeds, some of which Txarro breathes in."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "mushroom men",
+            "notes": "The two infected bodies are killed and burned."
+          }
+        ],
+        "notes": "The party rescues Menestheus from death, destroys both enemies, and burns the remains."
+      }
+    },
+    {
+      "beatId": "b006",
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Tarek discovers fungal growth inside the healed Menestheus, and the party presses through more workrooms before failing to break into Thalestria's office.",
+      "longSummary": "After further healing restores Menestheus, the party crosses a dead plant greenhouse and a picked-over armory while questioning what the complex was built to do. A close examination finds his wounds apparently healed but reveals white filamentous growth inside his mouth; Tarek quietly warns Txarro, and they decide not to tell Menestheus until they know how to help him. The group continues through an unfinished planar orrery and a corridor of offices. Thalestria's sealed office has no visible lock, and even Edric's enraged attempts cannot force the door, which he accepts as a warning from the gods before the party moves on.",
+      "location": {
+        "kind": "fixed",
+        "primary": "27th Room",
+        "context": "animal lab, dead plant greenhouse, armory, planar orrery, and office corridor",
+        "notes": "The party moves quickly through several rooms, ending outside Thalestria's sealed office."
+      },
+      "npcs": [
+        {
+          "name": "Menestheus",
+          "role": "companion",
+          "context": "wounded guide showing signs of infection",
+          "notes": "His wounds heal, but Tarek detects white filamentous growth inside his mouth and keeps the discovery from him."
+        },
+        {
+          "name": "Thalestria",
+          "role": "mentioned",
+          "context": "former head of Arithrimos Lamperum",
+          "notes": "Her office remains sealed after repeated attempts to force its door."
+        }
+      ],
+      "items": [
+        {
+          "name": "white-fiber infection",
+          "role": "encountered",
+          "notes": "Tarek sees fuzzy white filaments growing inside Menestheus's mouth despite his healed external wounds."
+        },
+        {
+          "name": "planar orrery",
+          "role": "encountered",
+          "notes": "An unfinished three-dimensional model represents planes as interlocking and connected spheres."
+        },
+        {
+          "name": "Thalestria's sealed office door",
+          "role": "encountered",
+          "notes": "The door has no visible keyhole and resists every attempt to smash it open."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Arithrimos Lamperum",
+          "role": "encountered",
+          "notes": "The workrooms, orrery, and offices reinforce that the complex once housed dozens of order members."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b007",
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The prisoner addresses Hulda and her five friends through a listening station, and the session ends when a clockwork figure awakens in the final library before the prisoner's door.",
+      "longSummary": "In the map library, Menestheus describes other Arithrimos Lamperum facilities and an indefinitely confined creature that perceived its whole life at once and served as an augury. The party then passes through a fabrication lab into room 25, where the prisoner loops statements addressed to Hulda and declares that Hulda is bringing five friends who are outside its room and can hear it now. One door from the prisoner, they enter room 26, a massive library whose shelves include chained books. A human-sized porcelain and clockwork torso anchored to a desk raises its head, opens its eyes, and studies the party, providing the session's cliffhanger before the table briefly debriefs.",
+      "location": {
+        "kind": "fixed",
+        "primary": "27th Room",
+        "context": "map library, fabrication lab, room 25 listening station, and room 26 library",
+        "notes": "The party ends in the library immediately before the door to the prisoner's central room."
+      },
+      "npcs": [
+        {
+          "name": "Menestheus",
+          "role": "companion",
+          "context": "guide and former order mapmaker",
+          "notes": "He recognizes the map library as the kind of place where he trained and describes another facility's captive augury creature."
+        },
+        {
+          "name": "the prisoner",
+          "role": "encountered",
+          "context": "voice heard in room 25",
+          "notes": "It directly addresses Hulda and announces that her five friends are outside its room and hearing it."
+        },
+        {
+          "name": "Hulda",
+          "role": "mentioned",
+          "context": "person addressed by the prisoner",
+          "notes": "The party identifies him as the subject of the prisoner's statements about killing a dragon and bringing five friends."
+        },
+        {
+          "name": "clockwork library figure",
+          "role": "encountered",
+          "context": "porcelain-faced construct anchored to a desk in room 26",
+          "notes": "It awakens, looks directly at the party, and tilts its head before the session ends."
+        }
+      ],
+      "items": [
+        {
+          "name": "map library collection",
+          "role": "encountered",
+          "notes": "Its drawers contain maps of Taelgar and abstract topological diagrams, but no obvious Feywild maps."
+        },
+        {
+          "name": "room 25 listening notebook",
+          "role": "encountered",
+          "notes": "Its entries accompany the prisoner's contemporaneous statements to Hulda and the party."
+        },
+        {
+          "name": "chained library books",
+          "role": "encountered",
+          "notes": "Some volumes in room 26 are physically chained to their shelves."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Arithrimos Lamperum",
+          "role": "encountered",
+          "notes": "Its map archive, fabrication lab, listening station, and library occupy the final rooms the party crosses."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

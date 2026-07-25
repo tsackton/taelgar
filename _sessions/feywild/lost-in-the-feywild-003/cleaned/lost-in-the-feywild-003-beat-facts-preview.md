@@ -16,7 +16,7 @@
   Note: The beat is mostly recap and character positioning inside the manor after the clock chimes zero.
 **NPCs**:
 - Lord Endless Ending (encountered): host of the ending party. He has just sent a human guest away and catches Edric's eye from the far end of the ballroom.
-- Lord Holda (mentioned): party's employer at Dandelion House. The recap repeats that he closed the door behind the party and likely sent them to break the bargain.
+- Lord Hulda (mentioned): party's employer at Dandelion House. The recap repeats that he closed the door behind the party and likely sent them to break the bargain.
 - Rakshasa (mentioned): tiger-headed guest and informant. His prior story about Lord Revel, the wizard, and the naming bargain is recapped.
 - unnamed human woman (encountered): mortal guest sent away when the clock strikes zero. Lord Endless Ending whispers to her and she hurries out while Txarro's owl follows.
 - road guards (mentioned): keepers of the road. The recap repeats their concern with travelers who carry the bad smell.
@@ -26,7 +26,7 @@
 - grandfather clock (encountered): The recap and opening scene center on the clock striking zero and triggering the sending of a mortal guest.
 - eastern screech owl familiar (encountered): Txarro keeps the owl on the departing human woman.
 - Tarek's museum keys (mentioned): The recap notes that the Rakshasa accepted some of Tarek's keys as payment for information.
-- Dandelion House deed (mentioned): The old deed and Holda's claim are part of the recap of why the party is in the Feywild.
+- Dandelion House deed (mentioned): The old deed and Hulda's claim are part of the recap of why the party is in the Feywild.
 **Organizations**: none
 
 ## Planning The Approach
@@ -36,7 +36,7 @@
 **Time Window**: evening
 **Combat**: no
 **Short Summary**: The party compares what they know about the clock, the bargain, the road bodies, and the neighbor's house before deciding to approach Lord Endless Ending.
-**Long Summary**: Kaito asks what everyone learned while he was away from the Rakshasa conversation, and the party pieces together the working theory: when the clock chimes zero, Lord Endless Ending must send a mortal guest toward his neighbor's house, which may explain the headless bodies and the bad smell on the road. Txarro watches through his owl as the newly sent human woman heads north toward a western promontory rather than back toward the root house. The group reviews the naming contest that turned Lord Revel into Lord Endless Ending, the wizard neighbor's role, Holda's suspicious deed and elf contact, and the danger of the road guards, then decides to speak with Lord Endless Ending and improvise suitable gifts.
+**Long Summary**: Kaito asks what everyone learned while he was away from the Rakshasa conversation, and the party pieces together the working theory: when the clock chimes zero, Lord Endless Ending must send a mortal guest toward his neighbor's house, which may explain the headless bodies and the bad smell on the road. Txarro watches through his owl as the newly sent human woman heads north toward a western promontory rather than back toward the root house. The group reviews the naming contest that turned Lord Revel into Lord Endless Ending, the wizard neighbor's role, Hulda's suspicious deed and elf contact, and the danger of the road guards, then decides to speak with Lord Endless Ending and improvise suitable gifts.
 **Location**:
 - Lord Endless Ending's manor: porch and ballroom edge while the group debriefs and watches the road through Txarro's owl
   Note: The party remains inside or immediately adjacent to the manor while tracking the departing woman at a distance.
@@ -45,7 +45,7 @@
 - unnamed human woman (encountered): mortal sent toward the neighbor's house. Txarro's owl follows her down the road toward the west-side promontory.
 - Rakshasa (mentioned): source of the naming-bargain story. The party relies on his account while briefing Kaito.
 - unnamed wizard neighbor (mentioned): bargainer at the neighbor's house. The party understands the bargain as between Lord Endless Ending and a wizard down the road.
-- Lord Holda (mentioned): party's employer and suspected betrayer. The group discusses his deed, the elf who gave it to him, and whether breaking the treaty would help him.
+- Lord Hulda (mentioned): party's employer and suspected betrayer. The group discusses his deed, the elf who gave it to him, and whether breaking the treaty would help him.
 - road guards (mentioned): guards concerned with the bad smell. The party considers asking them whether the smell comes from the neighbor's house.
 **Items**:
 - grandfather clock (mentioned): The party links its zero chime with Lord Endless Ending sending mortal guests away.
@@ -105,14 +105,14 @@
 **Time Window**: evening
 **Combat**: no
 **Short Summary**: The party refuses to bind itself to a fey bargain while still choosing to leave for the neighbor's house.
-**Long Summary**: After Lord Endless Ending steps aside with the badger butler, the party privately debates whether retrieving the glass key aligns with Holda's original mission, whether helping Holda is acceptable, whether the neighbor's house could be an exit, and whether any promise to a fey lord would be dangerously binding. They inspect the grandfather clock closely, notice Dwarven Reckoning numbers and a resemblance to the clock in Dandelion House, and decide to ask one last question about Holda. Lord Endless Ending says Holda came as a fool, that he sent him away rather than onward, and that once a mortal leaves the grounds they are no longer his guest. Kaito then carefully secures permission to leave toward the neighbor's house without promising to recover the key, and the Lord clarifies that if the doorway to the 27th room is truly their destination, his gates are open and he does not wish to compel them.
+**Long Summary**: After Lord Endless Ending steps aside with the badger butler, the party privately debates whether retrieving the glass key aligns with Hulda's original mission, whether helping Hulda is acceptable, whether the neighbor's house could be an exit, and whether any promise to a fey lord would be dangerously binding. They inspect the grandfather clock closely, notice Dwarven Reckoning numbers and a resemblance to the clock in Dandelion House, and decide to ask one last question about Hulda. Lord Endless Ending says Hulda came as a fool, that he sent him away rather than onward, and that once a mortal leaves the grounds they are no longer his guest. Kaito then carefully secures permission to leave toward the neighbor's house without promising to recover the key, and the Lord clarifies that if the doorway to the 27th room is truly their destination, his gates are open and he does not wish to compel them.
 **Location**:
 - Lord Endless Ending's manor: ballroom, clock, and route toward the gate while the party debates departure
   Note: The party remains on the manor grounds while deciding how to leave without accepting a binding bargain.
 **NPCs**:
 - Lord Endless Ending (encountered): fey lord negotiating the party's departure. He asks them to go through the neighbor's door but says he does not wish to compel them.
 - badger butler (encountered): attendant. He steps out with Lord Endless Ending while the party confers.
-- Lord Holda (mentioned): betrayer and original client. The party questions whether breaking the bargain would help him and learns Lord Endless Ending sent him away after he made a scene.
+- Lord Hulda (mentioned): betrayer and original client. The party questions whether breaking the bargain would help him and learns Lord Endless Ending sent him away after he made a scene.
 - unnamed wizard neighbor (mentioned): suspect behind the bargain. The party distrusts the wizard and weighs whether they might have to confront her.
 **Items**:
 - glass key (mentioned): The party debates whether to agree to retrieve or break it.

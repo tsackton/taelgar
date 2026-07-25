@@ -37,7 +37,7 @@
 - Date End: same day
 - Time Window: evening
 
-## B05 - Holda Explains The Contract
+## B05 - Hulda Explains The Contract
 
 - Lines: 417
 - Range: `u1416` -> `u1832`

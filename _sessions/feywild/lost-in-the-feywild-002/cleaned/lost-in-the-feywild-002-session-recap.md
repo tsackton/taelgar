@@ -29,7 +29,7 @@
 - Combat Beats: none
 
 #### Short
-The party reaches Lord Endless Ending's manor in the Twilight Kingdom and learns the likely bargain behind Holda's errand.
+The party reaches Lord Endless Ending's manor in the Twilight Kingdom and learns the likely bargain behind Hulda's errand.
 
 #### Long
 The party emerges from Dandelion House's root passage into the Twilight Kingdom, finds dead mortals on the road, enters the manor's ending party, and questions its guests. A Rakshasa explains that a wizard's naming contest turned Lord Revel into Lord Endless Ending, and the clock strikes zero as the Lord sends another mortal away.
@@ -61,7 +61,7 @@ The party crawls through the bone-like root into the Twilight Kingdom, emerging 
 We begin as the party crawls through the narrow tunnel. Suddenly, the wood surrounding them gives way to bones, and the party climbs up and out through a ruined house into the Twilight Kingdom. They take the path forward, onto a road passing to a distant estate. 
 
 #### Long
-We begin as the party crawls through the narrow tunnel, debating what they can still trust the contract, Holda, or even the premise of the job. Suddenly, the wood surrounding them gives way to bones -- as if they crawled through the center of an enormous hollow root-bone. The party climbs up and out through a ruined house made of the same root-bone material and finds themselves under pale blue twilight twenty minutes after sunset. A river wends quietly through rolling grassy hills under the first unfamiliar stars of twilight, and they take the path forward from this ruined, skeletal echo of Dandelion House onto a road passing through hill and hollow to an estate in the distance.
+We begin as the party crawls through the narrow tunnel, debating what they can still trust the contract, Hulda, or even the premise of the job. Suddenly, the wood surrounding them gives way to bones -- as if they crawled through the center of an enormous hollow root-bone. The party climbs up and out through a ruined house made of the same root-bone material and finds themselves under pale blue twilight twenty minutes after sunset. A river wends quietly through rolling grassy hills under the first unfamiliar stars of twilight, and they take the path forward from this ruined, skeletal echo of Dandelion House onto a road passing through hill and hollow to an estate in the distance.
 
 ### recap-002 | Bodies On The Road
 
@@ -193,10 +193,10 @@ The Rakshasa, having long ago become obsessed with the stories that can only be 
 That story gives the party a theory of the truce they must break, just as the clock strikes zero and Lord Endless Ending calls Edric forward.
 
 #### Intermediate
-Ayveen connects Holda's errand to the wizard's naming bargain, suggesting it may be the truce the Lord cannot break himself. The Rakshasa says it is the only bargain he knows of and may be something Lord Endless Ending wants ended, but the clock strikes zero before the party can act, and the Lord sends another human out before beckoning Edric.
+Ayveen connects Hulda's errand to the wizard's naming bargain, suggesting it may be the truce the Lord cannot break himself. The Rakshasa says it is the only bargain he knows of and may be something Lord Endless Ending wants ended, but the clock strikes zero before the party can act, and the Lord sends another human out before beckoning Edric.
 
 #### Long
-Ayveen asks whether the Rakshasa needs to leave before the grandfather clock chimes again, but he says he has time because other mortals remain. When the party explains that Holda sent them, he recognizes Holda as the angry man who tried to bully the Lord in his own manor and says, freely, that shouting does not work. Edric studies him and reads no friendship in him, but no lie either: the Rakshasa keeps his own counsel, acts for his own purposes, but speaks true.
+Ayveen asks whether the Rakshasa needs to leave before the grandfather clock chimes again, but he says he has time because other mortals remain. When the party explains that Hulda sent them, he recognizes Hulda as the angry man who tried to bully the Lord in his own manor and says, freely, that shouting does not work. Edric studies him and reads no friendship in him, but no lie either: the Rakshasa keeps his own counsel, acts for his own purposes, but speaks true.
 
 Ayveen then names the working theory. The wizard's contest created an agreement, bargain, treaty, or truce that forces Lord Endless Ending to withdraw protection and send mortals away, perhaps against his own desire. The Rakshasa confirms it is the only bargain he knows and suggests that a lord tricked into such an agreement might be receptive to ending it. Then Edric goes looking for another human, the grandfather clock strikes zero, and across the ballroom Lord Endless Ending whispers to a human who hurries out the door. The Lord locks eyes with Edric and beckons him closer, while Txarro sends his owl after the departing human.
 
@@ -253,7 +253,7 @@ Ayveen then names the working theory. The wizard's contest created an agreement,
   - Lord Endless Ending's manor, 1740-10-05
 - grandfather clock (encountered): clock whose zero chime marks Lord Endless Ending sending another mortal away
   - Lord Endless Ending's manor, 1740-10-05
-- ancient Sembaran contract (mentioned): 400-year-old contract in contemporary Sembaran that requires Holda to persuade a lord to end a treaty
+- ancient Sembaran contract (mentioned): 400-year-old contract in contemporary Sembaran that requires Hulda to persuade a lord to end a treaty
 - glowing gold key (mentioned): key Alden used to unlock the lower door beneath Dandelion House
 - liberated boat (mentioned): boat the halflings claim to have taken while traveling to the party
 - naming bargain (mentioned): wizard's naming contest bargain that renamed Revel's estate and appears to bind Lord Endless Ending
