@@ -8,7 +8,9 @@ tags: [meta, status/check/ai]
 
 This is a note-based catalog of names in the Taelgar vault. It is designed for both human browsing and machine-assisted naming searches. The companion machine-readable file is [[Name Catalog.jsonl]].
 
-The catalog includes notes tagged as a person, place, group, event, object, power, ancestry, creature, religion, or source; it also includes notes in `Worldbuilding/Staging/Unnamed` and any note tagged `status/check/name`. Sessions, templates, backups, generated recaps, administrative notes, and chat/discussion transcripts are excluded.
+The catalog includes every Markdown note with frontmatter tags, except notes anywhere under `Worldbuilding` or a directory whose name begins with `_` or `.`.
+
+Note type is the single primary descriptive tag defined by [[Note Categorization]]: `person`, `power`, `place`, `event`, `object`, `group`, `ancestry`, `creature`, `session-note`, `source`, `background`, or `meta`. Tagged notes without one of these primary tags are listed as `unknown`.
 
 Language assignments describe the language of the primary displayed name, not necessarily every culture associated with the subject. They are best-effort inferences from explicit naming text, ancestry/species metadata, vault location, whereabouts, and the rules in [[Languages]]. `Unknown` is intentional where the vault does not support a responsible inference.
 
@@ -22,7 +24,7 @@ For a quick collision search:
 rg -i "candidate|similar-form" "_MoC/Name Catalog.jsonl"
 ```
 
-Useful JSONL fields include `name`, `normalized`, `aliases`, `note_type`, `language`, `canon_status`, `status_check_name`, `pronunciation`, and `path`.
+Useful JSONL fields include `name`, `normalized`, `aliases`, `note_type`, `language`, `status_check_name`, `pronunciation`, and `path`.
 
 Regenerate after names or metadata change:
 
@@ -32,48 +34,39 @@ python3 _scripts/generate_name_catalog.py --root .
 
 ## Coverage
 
-- **Cataloged notes:** 2307
-- **With pronunciation:** 248
-- **Tagged `status/check/name`:** 50
-- **Unknown primary-name language:** 617
+- **Cataloged notes:** 2689
+- **With pronunciation:** 250
+- **Tagged `status/check/name`:** 46
+- **Unknown primary-name language:** 996
 
-### By note category
+### By note type
 
-| Category | Count |
+| Note type | Count |
 |---|---:|
-| ancestry | 13 |
-| creature | 47 |
-| group | 139 |
-| event | 111 |
-| object | 195 |
-| person | 806 |
-| place | 758 |
-| power | 87 |
-| religion | 1 |
+| person | 790 |
+| power | 86 |
+| place | 732 |
+| event | 108 |
+| object | 194 |
+| group | 138 |
+| ancestry | 1 |
+| creature | 46 |
+| session-note | 209 |
 | source | 130 |
-| unknown | 20 |
-
-### By canon state
-
-| State | Count |
-|---|---:|
-| DM/speculative | 7 |
-| brainstorming | 1 |
-| campaign canon | 232 |
-| canonical | 2007 |
-| staging | 42 |
-| tentative | 18 |
+| background | 131 |
+| meta | 121 |
+| unknown | 3 |
 
 ### By language
 
 | Family | Language | Notes | Name review |
 |---|---|---:|---:|
-| Drankorian | Chardonian | 166 | 5 |
-| Drankorian | Cymean | 13 | 0 |
+| Drankorian | Chardonian | 161 | 5 |
+| Drankorian | Cymean | 14 | 0 |
 | Drankorian | Drankorian | 58 | 2 |
 | Drankorian | Illorian | 1 | 0 |
-| Drankorian | Isinguese | 34 | 0 |
-| Eastros | Sembaran | 378 | 4 |
+| Drankorian | Isinguese | 32 | 0 |
+| Eastros | Sembaran | 384 | 4 |
 | Eastros | Skaegish | 17 | 0 |
 | Eastros | Tollish | 29 | 0 |
 | Eastros | Urskan | 34 | 0 |
@@ -86,22 +79,22 @@ python3 _scripts/generate_name_catalog.py --root .
 | Extraplanar | Sylvan | 65 | 0 |
 | Goblin | Goblin/Katonylev | 8 | 0 |
 | Hkaran | Hkaran | 5 | 0 |
-| Independent human | Dunmari | 124 | 1 |
-| Independent human | Tyrwinghan | 17 | 0 |
+| Independent human | Dunmari | 126 | 1 |
+| Independent human | Tyrwinghan | 18 | 0 |
 | Mixed/uncertain human | Vosic | 3 | 0 |
-| Non-human | Dwarvish | 92 | 1 |
+| Non-human | Dwarvish | 93 | 1 |
 | Non-human | Elvish | 38 | 0 |
 | Non-human | Free Orcish | 1 | 0 |
 | Non-human | Halfling | 73 | 0 |
-| Non-human | Lizardling | 39 | 1 |
+| Non-human | Lizardling | 40 | 1 |
 | Non-human | Orcish | 20 | 0 |
 | Non-human | Stoneborn | 12 | 0 |
-| Northros | Deno'qai | 33 | 1 |
+| Northros | Deno'qai | 32 | 1 |
 | Northros | Mawaran | 28 | 0 |
 | Northros | Unclassified Northros | 3 | 1 |
-| Trade | Common | 349 | 26 |
+| Trade | Common | 348 | 23 |
 | Unclassified | Svolhasian | 2 | 1 |
-| Unknown | Unknown | 617 | 7 |
+| Unknown | Unknown | 996 | 6 |
 
 ## Catalog
 
@@ -109,2501 +102,2883 @@ python3 _scripts/generate_name_catalog.py --root .
 
 #### Chardonian
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Groups/Chardonian Organizations/Auratan Family|Auratan Family]] |  | group · chalyte oligarch family | canonical |  | aw-rah-TAHN | inferred: whereabouts: Chardon |
-| [[Groups/Chardonian Organizations/Caloren Family|Caloren Family]] |  | group · chalyte oligarch family | canonical |  | kah-LOR-en | inferred: whereabouts: Chardon |
-| [[Groups/Chardonian Organizations/Chalyte Refining Corporation|Chalyte Refining Corporation]] |  | group · chartered corporation | canonical |  |  | inferred: ancestry: Chardonian |
-| [[Groups/Chardonian Organizations/Chamber of Stamps|Chamber of Stamps]] |  | group · civic office | canonical |  |  | inferred: ancestry: Chardonian |
-| [[Groups/Chardonian Organizations/Chardonian Legion|Chardonian Legion]] |  | group · army | canonical |  |  | inferred: ancestry: Chardonian |
-| [[Groups/Chardonian Organizations/Curia of 42|Curia of 42]] |  | group · elected assembly | canonical |  |  | inferred: ancestry: Chardonian |
-| [[Groups/Chardonian Organizations/Faculty of History|Faculty of History]] |  | group · faculty | canonical |  |  | inferred: whereabouts: Chardon |
-| [[Groups/Chardonian Organizations/Faculty of Law|Faculty of Law]] |  | group · faculty | canonical |  |  | inferred: whereabouts: Chardon |
-| [[Groups/Chardonian Organizations/Faculty of Magic|Faculty of Magic]] |  | group · faculty | canonical |  |  | inferred: whereabouts: Chardon |
-| [[Groups/Chardonian Organizations/Faculty of Metaphysics|Faculty of Metaphysics]] |  | group · faculty | canonical |  |  | inferred: whereabouts: Chardon |
-| [[Groups/Chardonian Organizations/Faculty of Theology|Faculty of Theology]] |  | group · faculty | canonical |  |  | inferred: whereabouts: Chardon |
-| [[Groups/Chardonian Organizations/Hetaeri Magica|Hetaeri Magica]] |  | group · magical society | canonical |  |  | inferred: ancestry: Chardonian |
-| [[Groups/Chardonian Organizations/Patelios Family|Patelios Family]] |  | group · chalyte oligarch family | canonical |  | pah-TAY-lee-ohs | inferred: whereabouts: Chardon |
-| [[Groups/Chardonian Organizations/Praecanti Vigiles|Praecanti Vigiles]] | the Vigiles† (Chardonian) | group · mage guard | canonical |  | pry-KAHN-tee VEE-gel-ays | inferred: ancestry: Chardonian |
-| [[Groups/Umbral Covenant|Umbral Covenant]] |  | group · army | canonical |  |  | explicit: explicit primary-name text, body line 6 |
-| [[Groups/Chardonian Organizations/Veldari Family|Veldari Family]] |  | group · chalyte oligarch family | canonical |  | vel-DAR-ee | inferred: whereabouts: Chardon |
-| [[Groups/Chardonian Organizations/Windcallers|Windcallers]] |  | group · secret society | canonical |  |  | inferred: ancestry: Chardonian |
-| [[Events/1700s/1749/Chardon Chalyte Riots|Chardon Chalyte Riots]] |  | event · uprising | canonical |  |  | inferred: whereabouts: Chardon |
-| [[Events/1700s/1749/Chardonian Chalyte Trade Reforms|Chardonian Chalyte Trade Reforms]] |  | event · reform | canonical |  |  | inferred: whereabouts: Chardon |
-| [[Events/1700s/1749/Pandemonium Incursion in Chardon|Pandemonium Incursion in Chardon]] |  | event · incursion | canonical |  |  | inferred: whereabouts: Chardon |
-| [[Things/Books/A Court of Whispers|A Court of Whispers]] |  | object · play | canonical |  |  | inferred: ancestry: Apporian |
-| [[Things/Books/An Exploration of Magical Connections Between the Planes|An Exploration of Magical Connections Between the Planes]] |  | object · cosmological treatise | canonical |  |  | inferred: ancestry: Chardonian |
-| [[Things/Ships/Auratan's Pride|Auratan's Pride]] |  | object · ship | canonical |  |  | inferred: ancestry: Chardonian |
-| [[Things/Books/Chronicles of Drankor|Cavarrio's Chronicles of Drankor]] |  | object · historical chronicle | canonical |  |  | inferred: ancestry: Chardonian |
-| [[Things/Books/Curse of the Thorned Feast|Curse of the Thorned Feast]] |  | object · ballad | canonical |  |  | inferred: ancestry: Chardonian |
-| [[Things/Books/On Minds and Chaos|On Minds and Chaos]] |  | object · cosmological treatise | canonical |  |  | inferred: ancestry: Chardonian |
-| [[Things/Books/On the Lost People of the Forests|On the Lost People of the Forests]] |  | object · geographical treatise | canonical |  |  | inferred: ancestry: Chardonian |
-| [[Things/Books/The Lore of the Feywild|The Lore of the Feywild]] |  | object · cosmological treatise | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Adina|Adina]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[_DM_/Staging/Agon Revised|Agon]] |  | person · human | DM/speculative |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Agon|Agon]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Alban|Alban]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Albus|Albus]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Amelia|Amelia]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Amus|Amus]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Andros|Andros]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Anton Lavernia|Anton Lavernia]] | Proconsul Anton Lavernia† (Chardonian) | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Antonia|Antonia]] |  | person · human | canonical |  | An-ton-ia | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Arcus|Arcus]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Arturo|Arturo]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Camila|Camila]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Camile|Camile]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Casian|Casian]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Cassia|Cassia]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Historical Figures/Cavarrio|Cavarrio of Chardon]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Claudio|Claudio]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Crispus|Crispus]] |  | person · human | canonical |  | CRIS-pus | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Domitia Auratan|Domitia Auratan]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Dorian Almare|Dorian Almare]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Dravia|Dravia]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Drusa|Drusa]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Emilia Vetella|Emilia Vetella]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Eukos the Wanderer|Eukos the Wanderer]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Eutus|Eutus]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Evelina|Evelina]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[_DM_/Staging/Fausto Revised|Fausto]] |  | person · human | DM/speculative |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Fausto|Fausto]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Francisca|Francisca]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Historical Figures/Gaius Devarro|Gaius Devarro]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Galen|Galen]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Galius Filuso|Galius Filuso]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Gaspar|Gaspar]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Ghiaro|Ghiaro]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Gnaeus|Gnaeus]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[_DM_/Staging/Hektor Revised|Hektor]] |  | person · human | DM/speculative |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Hektor|Hektor]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Historical Figures/Ikos|Ikos]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Inectos Tintio|Inectos Tintio]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Isabetta|Isabetta]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Iveila the Red|Iveila the Red]] | Red† (Chardonian) | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Juliana Maris|Juliana Maris]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Historical Figures/Julius Ceptuso|Julius Ceptuso]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Julius of Voltara|Julius of Voltara]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Kadmos|Kadmos]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Kaeso|Kaeso]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Livia|Livia]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Lucilla Varentia|Lucilla Varentia]] | Lucilla (Chardonian); Commander Lucilla Varentia† (Chardonian) | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Lucius|Lucius]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Lyra|Lyra]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[_DM_/Staging/Marcella Revised|Marcella]] |  | person · human | DM/speculative |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Marcella|Marcella]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Marcus Tuso|Marcus Tuso]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Marius Cusico|Marius Cusico]] |  | person · human | canonical |  |  | inferred: vault path: People/Chardonians |
-| [[People/Chardonians/Martino|Martino]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[_DM_/Staging/Mitus Verina Auratan Revised|Mitus Verina Auratan]] | Magistros Mitus Verina Auratan† (Chardonian) | person · human | DM/speculative |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Mitus Verina Auratan|Mitus Verina Auratan]] | Magistros Mitus Verina Auratan† (Chardonian) | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Niccolo|Niccolo]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Octavia Antussus|Octavia Antussus]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Old Leo|Old Leo]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Orsino|Orsino]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Paulina Nusinius|Paulina Nusinius]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Quintus Percomia|Quintus Percomia]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Roscelia|Roscelia]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Servius|Servius]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[Worldbuilding/Staging/Dunmar/Seva Auratan|Seva Auratan]] |  | person · human | staging |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Soria Caronius|Soria Caronius]] | General Soria Caronius† (Chardonian) | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Tiberius|Tiberius]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Tristan Brighteyes|Tristan Brighteyes]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Tullus|Tullus]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Valius|Valius]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Vargus|Vargus]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[_DM_/Staging/Vola Revised|Vola Forena]] |  | person · human | DM/speculative |  |  | inferred: ancestry: Chardonian |
-| [[People/Chardonians/Vola|Vola Forena]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[People/PCs/Mawar/Wazir|Wazir]] |  | person · human | canonical |  |  | explicit: explicit primary-name text, body line 30 (comment) |
-| [[People/Chardonians/Xavier|Xavier]] |  | person · human | canonical |  |  | inferred: ancestry: Chardonian |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Alta Tonaro|Alta Tonaro]] |  | place · province | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Apporia|Apporia]] | ~Chardon Peninsula~ (Chardonian); Apporian Peninsula (Chardonian); Apporian (Chardonian) | place · peninsula | canonical |  | a-POHR-ree-ah | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Arendum|Arendum]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Argento|Argento]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Artevus|Artevus]] |  | place · town | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Bastion Quarter|Bastion Quarter]] |  | place · neighborhood | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Castrella|Castrella]] |  | place · city | canonical |  | kah-STREL-ah | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Rivers/Cedar Brook|Cedar Brook]] |  | place · brook | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Cedrano|Cedrano]] |  | place · province | canonical |  | KEH-dran-oh | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chalyte Levels|Chalyte Levels]] |  | place · neighborhood | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon|Chardon]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardonian Empire|Chardonian Empire]] | Chardonian (Chardonian) | place · empire | canonical |  |  | explicit: explicit primary-name text, body line 36 |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Coastlands|Coastlands]] |  | place · region | canonical | ✓ |  | explicit: explicit primary-name text, body line 6 |
-| [[Gazetteer/Greater Chardon/Rivers/Corvessa|Corvessa]] |  | place · river | canonical | ✓ | kor-VESS-uh | inferred: vault path: Gazetteer/Greater Chardon |
-| [[Gazetteer/Greater Chardon/Rivers/Dashun|Dashun]] |  | place · river | canonical | ✓ | DAH-shoon | inferred: vault path: Gazetteer/Greater Chardon |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Enderra|Enderra]] |  | place · lost realm | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Erlona|Erlona]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Foundry Market|Foundry Market]] |  | place · market | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Greater Chardon|Greater Chardon]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon |
-| [[Gazetteer/Northwest Coast/Northern Provinces/Greater Voltara|Greater Voltara]] |  | place · province | canonical |  |  | inferred: vault path: Gazetteer/Northwest Coast/Northern Provinces |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Harmony Stone (Chasa)|Harmony Stone]] |  | place · monolith | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Kedron|Kedron]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Kin-Aska|Kin-Aska]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Northwest Coast/Northern Provinces/Lonely Watchtower|Lonely Watchtower]] |  | place · ruined tower | canonical |  |  | inferred: vault path: Gazetteer/Northwest Coast/Northern Provinces |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Luminatia|Luminatia]] |  | place · village | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Metium|Metium]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Mill Channel|Mill Channel]] |  | place · canal | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Nera Domains|Nera Domains]] |  | place · neighborhood | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Nevium|Nevium]] |  | place · city | canonical |  | NEH-vee-oom | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/North Bank|North Bank]] |  | place · urban area | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/North Wall (Chardon)|North Wall]] |  | place · wall | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Northwest Coast/Northern Provinces/Northern Provinces|Northern Provinces]] |  | place · group of provinces | canonical |  |  | inferred: vault path: Gazetteer/Northwest Coast/Northern Provinces |
-| [[Gazetteer/Northwest Coast/Northern Provinces/Paisa|Paisa]] |  | place · village | canonical |  |  | inferred: vault path: Gazetteer/Northwest Coast/Northern Provinces |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Pergia|Pergia]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Portalia|Portalia]] |  | place · province | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Precinct IV|Precinct IV]] |  | place · precinct | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Precinct VI|Precinct VI]] |  | place · precinct | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Precinct VII|Precinct VII]] |  | place · precinct | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Ragwater Basin|Ragwater Basin]] |  | place · neighborhood | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Raziolo|Raziolo]] |  | place · province | canonical |  | ra-TSYO-lo | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Riverside Quarter|Riverside Quarter]] |  | place · neighborhood | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Rivers/Sevros|Sevros]] |  | place · river | canonical | ✓ | SEV-ros | inferred: vault path: Gazetteer/Greater Chardon |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/South Bank|South Bank]] |  | place · urban area | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Summit Quarter|Summit Quarter]] |  | place · neighborhood | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Barking Seal|The Barking Seal]] |  | place · tavern | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Cackling Swan|The Cackling Swan]] |  | place · tavern | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Chapterhouse|The Chapterhouse]] |  | place · inn | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/The Drunken Dolphin|The Drunken Dolphin]] |  | place · tavern | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Northwest Coast/Northern Provinces/Voltara/The Hero's Feast|The Hero's Feast]] |  | place · restaurant | canonical |  |  | inferred: vault path: Gazetteer/Northwest Coast/Northern Provinces |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/The Laughing Gull|The Laughing Gull]] |  | place · tavern | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Northwest Coast/Northern Provinces/Voltara/The Purple Pig|The Purple Pig]] |  | place · inn | canonical |  |  | inferred: vault path: Gazetteer/Northwest Coast/Northern Provinces |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Salty Squid|The Salty Squid]] |  | place · inn | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/The Sober Seal|The Sober Seal]] |  | place · tavern | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Thirsty Scholar|The Thirsty Scholar]] |  | place · inn | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Northwest Coast/Northern Provinces/Voltara/The Wandering Toad|The Wandering Toad]] |  | place · inn | canonical |  |  | inferred: vault path: Gazetteer/Northwest Coast/Northern Provinces |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/The Whale's Spout|The Whale's Spout]] |  | place · tavern | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Thundercrown|Thundercrown]] |  | place · mountain | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
-| [[Gazetteer/Northwest Coast/Northern Provinces/Voltara/Voltara|Voltara]] |  | place · city | canonical |  |  | explicit: explicit primary-name text, body line 32 |
-| [[Gazetteer/Northwest Coast/Northern Provinces/~Voltara Garrison 2~|Voltara Garrison 2]] |  | place · fort | canonical | ✓ |  | inferred: vault path: Gazetteer/Northwest Coast/Northern Provinces |
-| [[Gazetteer/Greater Chardon/Rivers/Yeraad|Yeraad]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Chardon |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Zurrua|Zurrua]] |  | place · river | canonical |  | TSOO-roo-ah | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Chardonians/Adina\|Adina]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Agon\|Agon]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Alban\|Alban]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Albus\|Albus]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Amelia\|Amelia]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Amus\|Amus]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Andros\|Andros]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Anton Lavernia\|Anton Lavernia]] | Proconsul Anton Lavernia† (Chardonian) | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Antonia\|Antonia]] |  | person |  | An-ton-ia | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Arcus\|Arcus]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Arturo\|Arturo]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Camila\|Camila]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Camile\|Camile]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Casian\|Casian]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Cassia\|Cassia]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Historical Figures/Cavarrio\|Cavarrio of Chardon]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Claudio\|Claudio]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Crispus\|Crispus]] |  | person |  | CRIS-pus | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Domitia Auratan\|Domitia Auratan]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Dorian Almare\|Dorian Almare]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Dravia\|Dravia]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Drusa\|Drusa]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Emilia Vetella\|Emilia Vetella]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Eukos the Wanderer\|Eukos the Wanderer]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Eutus\|Eutus]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Evelina\|Evelina]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Fausto\|Fausto]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Francisca\|Francisca]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Historical Figures/Gaius Devarro\|Gaius Devarro]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Galen\|Galen]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Galius Filuso\|Galius Filuso]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Gaspar\|Gaspar]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Ghiaro\|Ghiaro]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Gnaeus\|Gnaeus]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Hektor\|Hektor]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Historical Figures/Ikos\|Ikos]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Inectos Tintio\|Inectos Tintio]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Isabetta\|Isabetta]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Iveila the Red\|Iveila the Red]] | Red† (Chardonian) | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Juliana Maris\|Juliana Maris]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Historical Figures/Julius Ceptuso\|Julius Ceptuso]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Julius of Voltara\|Julius of Voltara]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Kadmos\|Kadmos]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Kaeso\|Kaeso]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Livia\|Livia]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Lucilla Varentia\|Lucilla Varentia]] | Lucilla (Chardonian); Commander Lucilla Varentia† (Chardonian) | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Lucius\|Lucius]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Lyra\|Lyra]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Marcella\|Marcella]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Marcus Tuso\|Marcus Tuso]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Marius Cusico\|Marius Cusico]] |  | person |  |  | inferred: vault path: People/Chardonians |
+| [[People/Chardonians/Martino\|Martino]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Mitus Verina Auratan\|Mitus Verina Auratan]] | Magistros Mitus Verina Auratan† (Chardonian) | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Niccolo\|Niccolo]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Octavia Antussus\|Octavia Antussus]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Old Leo\|Old Leo]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Orsino\|Orsino]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Paulina Nusinius\|Paulina Nusinius]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Quintus Percomia\|Quintus Percomia]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Roscelia\|Roscelia]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Servius\|Servius]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Soria Caronius\|Soria Caronius]] | General Soria Caronius† (Chardonian) | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Tiberius\|Tiberius]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Tristan Brighteyes\|Tristan Brighteyes]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Tullus\|Tullus]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Valius\|Valius]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Vargus\|Vargus]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/Chardonians/Vola\|Vola Forena]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[People/PCs/Mawar/Wazir\|Wazir]] |  | person |  |  | explicit: explicit primary-name text, body line 30 (comment) |
+| [[People/Chardonians/Xavier\|Xavier]] |  | person |  |  | inferred: ancestry: Chardonian |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Alta Tonaro\|Alta Tonaro]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Apporia\|Apporia]] | ~Chardon Peninsula~ (Chardonian); Apporian Peninsula (Chardonian); Apporian (Chardonian) | place |  | a-POHR-ree-ah | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Arendum\|Arendum]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Argento\|Argento]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Artevus\|Artevus]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Bastion Quarter\|Bastion Quarter]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Castrella\|Castrella]] |  | place |  | kah-STREL-ah | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Rivers/Cedar Brook\|Cedar Brook]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Cedrano\|Cedrano]] |  | place |  | KEH-dran-oh | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chalyte Levels\|Chalyte Levels]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon\|Chardon]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardonian Empire\|Chardonian Empire]] | Chardonian (Chardonian) | place |  |  | explicit: explicit primary-name text, body line 36 |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Coastlands\|Coastlands]] |  | place | ✓ |  | explicit: explicit primary-name text, body line 6 |
+| [[Gazetteer/Greater Chardon/Rivers/Corvessa\|Corvessa]] |  | place | ✓ | kor-VESS-uh | inferred: vault path: Gazetteer/Greater Chardon |
+| [[Gazetteer/Greater Chardon/Rivers/Dashun\|Dashun]] |  | place | ✓ | DAH-shoon | inferred: vault path: Gazetteer/Greater Chardon |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Enderra\|Enderra]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Erlona\|Erlona]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Foundry Market\|Foundry Market]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Greater Chardon\|Greater Chardon]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon |
+| [[Gazetteer/Northwest Coast/Northern Provinces/Greater Voltara\|Greater Voltara]] |  | place |  |  | inferred: vault path: Gazetteer/Northwest Coast/Northern Provinces |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Harmony Stone (Chasa)\|Harmony Stone]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Kedron\|Kedron]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Kin-Aska\|Kin-Aska]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Northwest Coast/Northern Provinces/Lonely Watchtower\|Lonely Watchtower]] |  | place |  |  | inferred: vault path: Gazetteer/Northwest Coast/Northern Provinces |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Luminatia\|Luminatia]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Metium\|Metium]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Mill Channel\|Mill Channel]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Nera Domains\|Nera Domains]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Nevium\|Nevium]] |  | place |  | NEH-vee-oom | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/North Bank\|North Bank]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/North Wall (Chardon)\|North Wall]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Northwest Coast/Northern Provinces/Northern Provinces\|Northern Provinces]] |  | place |  |  | inferred: vault path: Gazetteer/Northwest Coast/Northern Provinces |
+| [[Gazetteer/Northwest Coast/Northern Provinces/Paisa\|Paisa]] |  | place |  |  | inferred: vault path: Gazetteer/Northwest Coast/Northern Provinces |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Pergia\|Pergia]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Portalia\|Portalia]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Precinct IV\|Precinct IV]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Precinct VI\|Precinct VI]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Precinct VII\|Precinct VII]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Ragwater Basin\|Ragwater Basin]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Raziolo\|Raziolo]] |  | place |  | ra-TSYO-lo | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Riverside Quarter\|Riverside Quarter]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Rivers/Sevros\|Sevros]] |  | place | ✓ | SEV-ros | inferred: vault path: Gazetteer/Greater Chardon |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/South Bank\|South Bank]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Summit Quarter\|Summit Quarter]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Barking Seal\|The Barking Seal]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Cackling Swan\|The Cackling Swan]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Chapterhouse\|The Chapterhouse]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/The Drunken Dolphin\|The Drunken Dolphin]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Northwest Coast/Northern Provinces/Voltara/The Hero's Feast\|The Hero's Feast]] |  | place |  |  | inferred: vault path: Gazetteer/Northwest Coast/Northern Provinces |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/The Laughing Gull\|The Laughing Gull]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Northwest Coast/Northern Provinces/Voltara/The Purple Pig\|The Purple Pig]] |  | place |  |  | inferred: vault path: Gazetteer/Northwest Coast/Northern Provinces |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Salty Squid\|The Salty Squid]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/The Sober Seal\|The Sober Seal]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Thirsty Scholar\|The Thirsty Scholar]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Northwest Coast/Northern Provinces/Voltara/The Wandering Toad\|The Wandering Toad]] |  | place |  |  | inferred: vault path: Gazetteer/Northwest Coast/Northern Provinces |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/The Whale's Spout\|The Whale's Spout]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Thundercrown\|Thundercrown]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Gazetteer/Northwest Coast/Northern Provinces/Voltara/Voltara\|Voltara]] |  | place |  |  | explicit: explicit primary-name text, body line 32 |
+| [[Gazetteer/Northwest Coast/Northern Provinces/~Voltara Garrison 2~\|Voltara Garrison 2]] |  | place | ✓ |  | inferred: vault path: Gazetteer/Northwest Coast/Northern Provinces |
+| [[Gazetteer/Greater Chardon/Rivers/Yeraad\|Yeraad]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Chardon |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Zurrua\|Zurrua]] |  | place |  | TSOO-roo-ah | inferred: vault path: Gazetteer/Greater Chardon/Chardonian Empire |
+| [[Events/1700s/1749/Chardon Chalyte Riots\|Chardon Chalyte Riots]] |  | event |  |  | inferred: whereabouts: Chardon |
+| [[Events/1700s/1749/Chardonian Chalyte Trade Reforms\|Chardonian Chalyte Trade Reforms]] |  | event |  |  | inferred: whereabouts: Chardon |
+| [[Events/1700s/1749/Pandemonium Incursion in Chardon\|Pandemonium Incursion in Chardon]] |  | event |  |  | inferred: whereabouts: Chardon |
+| [[Things/Books/A Court of Whispers\|A Court of Whispers]] |  | object |  |  | inferred: ancestry: Apporian |
+| [[Things/Books/An Exploration of Magical Connections Between the Planes\|An Exploration of Magical Connections Between the Planes]] |  | object |  |  | inferred: ancestry: Chardonian |
+| [[Things/Ships/Auratan's Pride\|Auratan's Pride]] |  | object |  |  | inferred: ancestry: Chardonian |
+| [[Things/Books/Chronicles of Drankor\|Cavarrio's Chronicles of Drankor]] |  | object |  |  | inferred: ancestry: Chardonian |
+| [[Things/Books/Curse of the Thorned Feast\|Curse of the Thorned Feast]] |  | object |  |  | inferred: ancestry: Chardonian |
+| [[Things/Books/On Minds and Chaos\|On Minds and Chaos]] |  | object |  |  | inferred: ancestry: Chardonian |
+| [[Things/Books/On the Lost People of the Forests\|On the Lost People of the Forests]] |  | object |  |  | inferred: ancestry: Chardonian |
+| [[Things/Books/The Lore of the Feywild\|The Lore of the Feywild]] |  | object |  |  | inferred: ancestry: Chardonian |
+| [[Groups/Chardonian Organizations/Auratan Family\|Auratan Family]] |  | group |  | aw-rah-TAHN | inferred: whereabouts: Chardon |
+| [[Groups/Chardonian Organizations/Caloren Family\|Caloren Family]] |  | group |  | kah-LOR-en | inferred: whereabouts: Chardon |
+| [[Groups/Chardonian Organizations/Chalyte Refining Corporation\|Chalyte Refining Corporation]] |  | group |  |  | inferred: ancestry: Chardonian |
+| [[Groups/Chardonian Organizations/Chamber of Stamps\|Chamber of Stamps]] |  | group |  |  | inferred: ancestry: Chardonian |
+| [[Groups/Chardonian Organizations/Chardonian Legion\|Chardonian Legion]] |  | group |  |  | inferred: ancestry: Chardonian |
+| [[Groups/Chardonian Organizations/Curia of 42\|Curia of 42]] |  | group |  |  | inferred: ancestry: Chardonian |
+| [[Groups/Chardonian Organizations/Faculty of History\|Faculty of History]] |  | group |  |  | inferred: whereabouts: Chardon |
+| [[Groups/Chardonian Organizations/Faculty of Law\|Faculty of Law]] |  | group |  |  | inferred: whereabouts: Chardon |
+| [[Groups/Chardonian Organizations/Faculty of Magic\|Faculty of Magic]] |  | group |  |  | inferred: whereabouts: Chardon |
+| [[Groups/Chardonian Organizations/Faculty of Metaphysics\|Faculty of Metaphysics]] |  | group |  |  | inferred: whereabouts: Chardon |
+| [[Groups/Chardonian Organizations/Faculty of Theology\|Faculty of Theology]] |  | group |  |  | inferred: whereabouts: Chardon |
+| [[Groups/Chardonian Organizations/Hetaeri Magica\|Hetaeri Magica]] |  | group |  |  | inferred: ancestry: Chardonian |
+| [[Groups/Chardonian Organizations/Patelios Family\|Patelios Family]] |  | group |  | pah-TAY-lee-ohs | inferred: whereabouts: Chardon |
+| [[Groups/Chardonian Organizations/Praecanti Vigiles\|Praecanti Vigiles]] | the Vigiles† (Chardonian) | group |  | pry-KAHN-tee VEE-gel-ays | inferred: ancestry: Chardonian |
+| [[Groups/Umbral Covenant\|Umbral Covenant]] |  | group |  |  | explicit: explicit primary-name text, body line 6 |
+| [[Groups/Chardonian Organizations/Veldari Family\|Veldari Family]] |  | group |  | vel-DAR-ee | inferred: whereabouts: Chardon |
+| [[Groups/Chardonian Organizations/Windcallers\|Windcallers]] |  | group |  |  | inferred: ancestry: Chardonian |
+| [[Cosmology/Energy Realms/Energy Realms\|Energy Realms]] |  | background |  |  | explicit: explicit primary-name text, body line 3 |
+| [[Gazetteer/Greater Chardon/Places in Greater Chardon\|Places in Greater Chardon]] |  | background |  |  | inferred: vault path: Gazetteer/Greater Chardon |
 
 #### Cymean
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Groups/Perdoli Family|Perdoli family]] |  | group · family | canonical |  | pehr-DOH-lee | inferred: ancestry: Cymean |
-| [[People/Tollenders/Escobar Garavito|Escobar Garavito]] |  | person · human | canonical |  |  | inferred: ancestry: Cymean |
-| [[People/Historical Figures/Saria|Saria]] |  | person · human | canonical |  |  | inferred: ancestry: Cymean |
-| [[Gazetteer/Western Green Sea/Cymea/Ampogio|Ampogio]] |  | place · river | canonical |  | ahm-POH-joh | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
-| [[Gazetteer/Western Green Sea/Cymea/Edge of Echoes|Edge of Echoes]] |  | place · cave complex | canonical |  |  | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
-| [[Gazetteer/Western Green Sea/Cymea/Elemental Forge|Elemental Forge]] |  | place · forge | canonical |  |  | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
-| [[Gazetteer/Western Green Sea/Cymea/Freccilia|Freccilia]] |  | place · river | canonical |  | FREH-chee-lah | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
-| [[Gazetteer/Western Green Sea/Cymea/Grimstone's Lair|Grimstone's Lair]] |  | place · hidden laboratory complex | canonical |  |  | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
-| [[Gazetteer/Western Green Sea/Cymea/Lavila|Lavila]] |  | place · village | canonical |  |  | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
-| [[Gazetteer/Western Green Sea/Cymea/Lunacosta|Lunacosta]] |  | place · market town | canonical |  | LOO-nah-koh-stah | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
-| [[Gazetteer/Western Green Sea/Cymea/Redes|Redes]] |  | place · fishing village | canonical |  | REH-des | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
-| [[Gazetteer/Western Green Sea/Cymea/Vistalba|Vistalba]] |  | place · trading port | canonical |  | VEESS-tahl-bah | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
-| [[Gazetteer/Western Green Sea/Realms/Western Cymea|Western Cymea]] |  | place · region | canonical |  |  | inferred: whereabouts: Cymea |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Tollenders/Escobar Garavito\|Escobar Garavito]] |  | person |  |  | inferred: ancestry: Cymean |
+| [[People/Historical Figures/Saria\|Saria]] |  | person |  |  | inferred: ancestry: Cymean |
+| [[Gazetteer/Western Green Sea/Cymea/Ampogio\|Ampogio]] |  | place |  | ahm-POH-joh | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
+| [[Gazetteer/Western Green Sea/Cymea/Edge of Echoes\|Edge of Echoes]] |  | place |  |  | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
+| [[Gazetteer/Western Green Sea/Cymea/Elemental Forge\|Elemental Forge]] |  | place |  |  | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
+| [[Gazetteer/Western Green Sea/Cymea/Freccilia\|Freccilia]] |  | place |  | FREH-chee-lah | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
+| [[Gazetteer/Western Green Sea/Cymea/Grimstone's Lair\|Grimstone's Lair]] |  | place |  |  | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
+| [[Gazetteer/Western Green Sea/Cymea/Lavila\|Lavila]] |  | place |  |  | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
+| [[Gazetteer/Western Green Sea/Cymea/Lunacosta\|Lunacosta]] |  | place |  | LOO-nah-koh-stah | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
+| [[Gazetteer/Western Green Sea/Cymea/Redes\|Redes]] |  | place |  | REH-des | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
+| [[Gazetteer/Western Green Sea/Cymea/Vistalba\|Vistalba]] |  | place |  | VEESS-tahl-bah | inferred: vault path: Gazetteer/Western Green Sea/Cymea |
+| [[Gazetteer/Western Green Sea/Realms/Western Cymea\|Western Cymea]] |  | place |  |  | inferred: whereabouts: Cymea |
+| [[Groups/Perdoli Family\|Perdoli family]] |  | group |  | pehr-DOH-lee | inferred: ancestry: Cymean |
+| [[Cosmology/Planar Concepts/Extraplanar Weak Point\|Extraplanar Weak Point]] |  | background |  |  | explicit: explicit primary-name text, body line 18 |
 
 #### Drankorian
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Groups/Drankorian Societies/Arithrimos Lamperum|Arithrimos Lamperum]] |  | group · secret society | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Groups/Drankorian Societies/Ashen Cloaks|Ashen Cloaks]] |  | group | canonical |  |  | explicit: explicit primary-name text, body line 6 |
-| [[Groups/Drankorian Societies/Occulta Ludum|Occulta Ludum]] |  | group · magical society | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Groups/Drankorian Societies/Omnis Pura|Omnis Pura]] |  | group · secret society | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Groups/Drankorian Societies/Sibylinites|Sibylinites]] |  | group · secret society | canonical |  |  | explicit: explicit primary-name text, body line 6 |
-| [[Events/1000s/1059/Fall of Drankor|Fall of Drankor]] |  | event · collapse | canonical |  |  | explicit: explicit primary-name text, body line 5 |
-| [[Events/600s/Western Wars|Western Wars]] |  | event · war | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Things/Books/A Fool's Fortune|A Fool's Fortune]] |  | object · play | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Things/Books/Aetherium|Aetherium]] |  | object · cosmological treatise | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Things/Artifacts of Power/Apollyon's Soulbinding Manacles|Apollyon's Soulbinding Manacles]] |  | object · manacles | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Things/Books/Book of Martyrs of the Radiant Path|Book of Martyrs of the Radiant Path]] |  | object · martyrology | canonical |  |  | explicit: explicit primary-name text, body line 7 |
-| [[Things/Books/Brilliant Numbers|Brilliant Numbers]] |  | object · mathematical treatise | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Things/Books/Compendium of Fire|Compendium of Fire]] |  | object · cosmological compendium | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Things/Books/Enchiridion of the Occulta Ludum|Enchiridion of the Occulta Ludum]] |  | object · magical handbook | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Ever Spinning Top|Ever Spinning Top]] |  | object · toy | campaign canon |  |  | inferred: ancestry: Drankorian |
-| [[Campaigns/Cleenseau Campaign/Treasure/Ewer of Liquid (Cleenseau)|Ewer of Liquid]] |  | object · ewer | campaign canon |  |  | inferred: ancestry: Drankorian |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Goggles of Object Reading|Goggles of Object Reading]] |  | object · glasses | campaign canon |  |  | inferred: ancestry: Drankorian |
-| [[Things/Books/Into the Abyss|Into the Abyss]] |  | object · epic poem | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Things/Magic Items/Drankorian Message Stone|Message Stone]] |  | object · wonderous item | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Things/Books/On Metaphysics|On Metaphysics]] |  | object · cosmological treatise | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Things/Books/On the Classification of Divinity|On the Classification of Divinity]] |  | object · theological treatise | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Things/Books/On the Creation and Destruction of Extra-Material Realms|On the Creation and Destruction of Extra-Material Realms]] |  | object · cosmological treatise | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Things/Books/On the Mysteries of the Infinite Depths|On the Mysteries of the Infinite Depths]] |  | object · natural history treatise | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Things/Books/On the Nature of Heat|On the Nature of Heat]] |  | object · natural history treatise | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Things/Books/Records of the Concordia Pyrae|Records of the Concordia Pyrae]] |  | object · historical record | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Ring of Displacement|Ring of Displacement]] |  | object · ring | campaign canon |  |  | inferred: ancestry: Drankorian |
-| [[Campaigns/Cleenseau Campaign/Treasure/Shield of False Life|Shield of False Life]] |  | object · shield | campaign canon |  |  | inferred: ancestry: Drankorian |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Taurion's Manual of Golems|Taurion's Manual of Stone Golems]] |  | object · book | campaign canon |  |  | inferred: ancestry: Drankorian |
-| [[Things/Books/The Riven Veil|The Riven Veil]] |  | object · theological treatise | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Things/Books/The Shape of Possibility|The Shape of Possibility]] |  | object · metaphysical treatise | canonical |  |  | inferred: ancestry: Drankorian |
-| [[People/Historical Figures/Antonius Patrius|Antonius Patrius]] |  | person · human | canonical |  |  | explicit: explicit primary-name text, body line 13 |
-| [[People/Historical Figures/Camilla of Drankor|Camilla of Drankor]] |  | person · human | canonical |  |  | inferred: ancestry: Drankorian |
-| [[People/PCs/Dunmar Fellowship/Guests/Caulaus|Caulaus]] |  | person · human | canonical |  |  | inferred: ancestry: Drankorian |
-| [[People/Historical Figures/Drusilia|Drusilia]] |  | person · human | canonical |  |  | inferred: ancestry: Drankorian |
-| [[People/Historical Figures/Eudomes|Eudomes]] |  | person · human | canonical |  |  | inferred: ancestry: Drankorian |
-| [[People/Historical Figures/Floria of Aphasium|Floria of Aphasium]] |  | person · human | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Worldbuilding/Staging/Feywild/Kallipseis|Kallipseis]] |  | person · dwarf | staging |  |  | inferred: ancestry: Drankorian |
-| [[People/Historical Figures/Leandros of Drankor|Leandros of Drankor]] |  | person · human | canonical |  |  | inferred: ancestry: Drankorian |
-| [[People/Historical Figures/Lyrannis of Aquilona|Lyrannis of Aquilona]] |  | person · human | canonical |  |  | inferred: ancestry: Drankorian |
-| [[People/Historical Figures/Marcion of Iridel|Marcion of Iridel]] |  | person · human | canonical |  |  | inferred: ancestry: Drankorian |
-| [[People/Historical Figures/Marius of Drankor|Marius of Drankor]] |  | person · human | canonical |  |  | inferred: ancestry: Drankorian |
-| [[People/Other Humans/Menestheus|Menestheus]] |  | person · human | canonical |  |  | inferred: ancestry: Drankorian |
-| [[People/Other Humans/Thalestria|Thalestria]] |  | person · human | canonical |  |  | inferred: ancestry: Drankorian |
-| [[People/Historical Figures/Theophesus|Theophesus]] |  | person · human | canonical |  |  | inferred: ancestry: Drankorian |
-| [[People/Historical Figures/Drankorian Emperors/Ysabel of Drankor|Ysabel of Drankor]] |  | person · human | canonical |  |  | inferred: ancestry: Drankorian |
-| [[Gazetteer/Drankorian Hinterland/Aquilona|Aquilona]] |  | place · city | canonical |  |  | explicit: explicit primary-name text, body line 6 |
-| [[Gazetteer/Drankorian Hinterland/Awakened Jungle|Awakened Jungle]] |  | place · jungle | canonical |  |  | inferred: vault path: Gazetteer/Drankorian Hinterland |
-| [[Gazetteer/Drankorian Hinterland/Chaudi|Chaudi]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Drankorian Hinterland |
-| [[Gazetteer/Drankorian Hinterland/Circular Island|Circular Island]] |  | place · island | canonical | ✓ |  | explicit: explicit primary-name text, body line 6 (comment) |
-| [[Gazetteer/Drankorian Hinterland/Desolation of Cha'mutte|Desolation of Cha'mutte]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Drankorian Hinterland |
-| [[Gazetteer/Drankorian Hinterland/Drankor/Drankor|Drankor]] |  | place · ruined city | canonical |  |  | inferred: vault path: Gazetteer/Drankorian Hinterland |
-| [[Gazetteer/Drankorian Hinterland/Drankorian Hinterland|Drankorian Hinterland]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Drankorian Hinterland |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Great Library|Great Library]] |  | place · library | canonical |  |  | explicit: explicit primary-name text, body line 11 |
-| [[Gazetteer/Central Highlands/Highveil Forest|Highveil Forest]] |  | place · forest | canonical |  |  | explicit: explicit primary-name text, body line 24 (comment) |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Lastgate Fort|Lastgate Fort]] | Presidion Lymara (Drankorian); Lymara (Drankorian); Lymaran Presidion (Drankorian) | place · fort | canonical |  |  | explicit: explicit primary-name text, body line 10 |
-| [[Cosmology/Demiplanes and Echo Realms/Shadowfolds|Shadowfolds]] |  | place · plane | canonical | ✓ |  | explicit: explicit primary-name text, body line 6 |
-| [[Gazetteer/Greater Dunmar/Roads/Stoneway|Stoneway]] |  | place · road | canonical |  |  | explicit: explicit primary-name text, body line 8 |
-| [[Gazetteer/Drankorian Hinterland/Drankor/The Laughing Wave|The Laughing Wave]] |  | place · ruined tavern | canonical |  |  | inferred: vault path: Gazetteer/Drankorian Hinterland |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Historical Figures/Antonius Patrius\|Antonius Patrius]] |  | person |  |  | explicit: explicit primary-name text, body line 13 |
+| [[People/Historical Figures/Camilla of Drankor\|Camilla of Drankor]] |  | person |  |  | inferred: ancestry: Drankorian |
+| [[People/PCs/Dunmar Fellowship/Guests/Caulaus\|Caulaus]] |  | person |  |  | inferred: ancestry: Drankorian |
+| [[People/Historical Figures/Drusilia\|Drusilia]] |  | person |  |  | inferred: ancestry: Drankorian |
+| [[People/Historical Figures/Eudomes\|Eudomes]] |  | person |  |  | inferred: ancestry: Drankorian |
+| [[People/Historical Figures/Floria of Aphasium\|Floria of Aphasium]] |  | person |  |  | inferred: ancestry: Drankorian |
+| [[People/Historical Figures/Leandros of Drankor\|Leandros of Drankor]] |  | person |  |  | inferred: ancestry: Drankorian |
+| [[People/Historical Figures/Lyrannis of Aquilona\|Lyrannis of Aquilona]] |  | person |  |  | inferred: ancestry: Drankorian |
+| [[People/Historical Figures/Marcion of Iridel\|Marcion of Iridel]] |  | person |  |  | inferred: ancestry: Drankorian |
+| [[People/Historical Figures/Marius of Drankor\|Marius of Drankor]] |  | person |  |  | inferred: ancestry: Drankorian |
+| [[People/Other Humans/Menestheus\|Menestheus]] |  | person |  |  | inferred: ancestry: Drankorian |
+| [[People/Other Humans/Thalestria\|Thalestria]] |  | person |  |  | inferred: ancestry: Drankorian |
+| [[People/Historical Figures/Theophesus\|Theophesus]] |  | person |  |  | inferred: ancestry: Drankorian |
+| [[People/Historical Figures/Drankorian Emperors/Ysabel of Drankor\|Ysabel of Drankor]] |  | person |  |  | inferred: ancestry: Drankorian |
+| [[Gazetteer/Drankorian Hinterland/Aquilona\|Aquilona]] |  | place |  |  | explicit: explicit primary-name text, body line 6 |
+| [[Gazetteer/Drankorian Hinterland/Awakened Jungle\|Awakened Jungle]] |  | place |  |  | inferred: vault path: Gazetteer/Drankorian Hinterland |
+| [[Gazetteer/Drankorian Hinterland/Chaudi\|Chaudi]] |  | place |  |  | inferred: vault path: Gazetteer/Drankorian Hinterland |
+| [[Gazetteer/Drankorian Hinterland/Circular Island\|Circular Island]] |  | place | ✓ |  | explicit: explicit primary-name text, body line 6 (comment) |
+| [[Gazetteer/Drankorian Hinterland/Desolation of Cha'mutte\|Desolation of Cha'mutte]] |  | place |  |  | inferred: vault path: Gazetteer/Drankorian Hinterland |
+| [[Gazetteer/Drankorian Hinterland/Drankor/Drankor\|Drankor]] |  | place |  |  | inferred: vault path: Gazetteer/Drankorian Hinterland |
+| [[Gazetteer/Drankorian Hinterland/Drankorian Hinterland\|Drankorian Hinterland]] |  | place |  |  | inferred: vault path: Gazetteer/Drankorian Hinterland |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Great Library\|Great Library]] |  | place |  |  | explicit: explicit primary-name text, body line 11 |
+| [[Gazetteer/Central Highlands/Highveil Forest\|Highveil Forest]] |  | place |  |  | explicit: explicit primary-name text, body line 24 (comment) |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Lastgate Fort\|Lastgate Fort]] | Presidion Lymara (Drankorian); Lymara (Drankorian); Lymaran Presidion (Drankorian) | place |  |  | explicit: explicit primary-name text, body line 10 |
+| [[Cosmology/Demiplanes and Echo Realms/Shadowfolds\|Shadowfolds]] |  | place | ✓ |  | explicit: explicit primary-name text, body line 6 |
+| [[Gazetteer/Greater Dunmar/Roads/Stoneway\|Stoneway]] |  | place |  |  | explicit: explicit primary-name text, body line 8 |
+| [[Gazetteer/Drankorian Hinterland/Drankor/The Laughing Wave\|The Laughing Wave]] |  | place |  |  | inferred: vault path: Gazetteer/Drankorian Hinterland |
+| [[Events/1000s/1059/Fall of Drankor\|Fall of Drankor]] |  | event |  |  | explicit: explicit primary-name text, body line 5 |
+| [[Events/600s/Western Wars\|Western Wars]] |  | event |  |  | inferred: ancestry: Drankorian |
+| [[Things/Books/A Fool's Fortune\|A Fool's Fortune]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Things/Books/Aetherium\|Aetherium]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Things/Artifacts of Power/Apollyon's Soulbinding Manacles\|Apollyon's Soulbinding Manacles]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Things/Books/Book of Martyrs of the Radiant Path\|Book of Martyrs of the Radiant Path]] |  | object |  |  | explicit: explicit primary-name text, body line 7 |
+| [[Things/Books/Brilliant Numbers\|Brilliant Numbers]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Things/Books/Compendium of Fire\|Compendium of Fire]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Things/Books/Enchiridion of the Occulta Ludum\|Enchiridion of the Occulta Ludum]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Ever Spinning Top\|Ever Spinning Top]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Campaigns/Cleenseau Campaign/Treasure/Ewer of Liquid (Cleenseau)\|Ewer of Liquid]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Goggles of Object Reading\|Goggles of Object Reading]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Things/Books/Into the Abyss\|Into the Abyss]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Things/Magic Items/Drankorian Message Stone\|Message Stone]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Things/Books/On Metaphysics\|On Metaphysics]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Things/Books/On the Classification of Divinity\|On the Classification of Divinity]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Things/Books/On the Creation and Destruction of Extra-Material Realms\|On the Creation and Destruction of Extra-Material Realms]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Things/Books/On the Mysteries of the Infinite Depths\|On the Mysteries of the Infinite Depths]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Things/Books/On the Nature of Heat\|On the Nature of Heat]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Things/Books/Records of the Concordia Pyrae\|Records of the Concordia Pyrae]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Ring of Displacement\|Ring of Displacement]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Campaigns/Cleenseau Campaign/Treasure/Shield of False Life\|Shield of False Life]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Taurion's Manual of Golems\|Taurion's Manual of Stone Golems]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Things/Books/The Riven Veil\|The Riven Veil]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Things/Books/The Shape of Possibility\|The Shape of Possibility]] |  | object |  |  | inferred: ancestry: Drankorian |
+| [[Groups/Drankorian Societies/Arithrimos Lamperum\|Arithrimos Lamperum]] |  | group |  |  | inferred: ancestry: Drankorian |
+| [[Groups/Drankorian Societies/Ashen Cloaks\|Ashen Cloaks]] |  | group |  |  | explicit: explicit primary-name text, body line 6 |
+| [[Groups/Drankorian Societies/Occulta Ludum\|Occulta Ludum]] |  | group |  |  | inferred: ancestry: Drankorian |
+| [[Groups/Drankorian Societies/Omnis Pura\|Omnis Pura]] |  | group |  |  | inferred: ancestry: Drankorian |
+| [[Groups/Drankorian Societies/Sibylinites\|Sibylinites]] |  | group |  |  | explicit: explicit primary-name text, body line 6 |
+| [[Gazetteer/Drankorian Hinterland/Places in the Drankorian Hinterland\|Places in the Drankorian Hinterland]] |  | background |  |  | inferred: vault path: Gazetteer/Drankorian Hinterland |
 
 #### Illorian
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[People/Historical Figures/Chirce|Chirce]] |  | person · human | canonical |  |  | inferred: ancestry: Illorian |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Historical Figures/Chirce\|Chirce]] |  | person |  |  | inferred: ancestry: Illorian |
 
 #### Isinguese
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Worldbuilding/Staging/Dunmar/Heartroot|Heartroot]] |  | object · relic | staging |  |  | inferred: whereabouts: {type: home, location: Aurbez Plateau}, Aurbez Plateau |
-| [[People/Historical Figures/Adele Laurent|Adèle Laurent]] |  | person · human | canonical |  |  | inferred: ancestry: Isinguer |
-| [[People/Maseauns/Agnes of Evis|Agnés of Evis]] |  | person · human | canonical |  |  | inferred: ancestry: Mazeanne |
-| [[People/Sembarans/Arnaud Ausson|Arnaud Ausson]] |  | person · human | canonical |  |  | inferred: ancestry: Isinguer |
-| [[People/Historical Figures/Aveline of Isingue|Aveline of Isingue]] |  | person · human | canonical |  |  | inferred: ancestry: Isinguer |
-| [[People/Maseauns/Balthazar|Balthazar]] |  | person · human | canonical |  |  | inferred: ancestry: Mazeanne |
-| [[People/PCs/Great War/Beryl|Beryl]] |  | person · human | canonical |  |  | inferred: ancestry: Isinguer |
-| [[People/PCs/Silver Tempests/Blue|Blue]] |  | person · human | canonical |  |  | inferred: ancestry: Isinguer |
-| [[People/Aurbeze/Cateline Malras|Cateline Malras]] |  | person · human | canonical |  | KAT-eh-leen mahl-RAH | inferred: ancestry: Aurbeze |
-| [[People/Sembarans/Genevote|Genevote]] |  | person · human | canonical |  |  | inferred: ancestry: Isinguer |
-| [[People/Sembarans/Giselle Ausson|Giselle Ausson]] |  | person · human | canonical |  |  | inferred: ancestry: Isinguer |
-| [[People/Aurbeze/Guilhem du Pont|Guilhem du Pont]] |  | person · human | canonical |  | GHEE-yem duh PONT | inferred: ancestry: Aurbeze |
-| [[People/Tollenders/Guy Marchand|Guy Marchand]] |  | person · human | canonical |  |  | inferred: ancestry: Isinguer |
-| [[People/Tollenders/Hugo Dupont|Hugo Dupont]] |  | person · human | canonical |  |  | inferred: ancestry: Isinguer |
-| [[People/Maseauns/Lizette Ausson|Lizette Ausson]] |  | person · human | canonical |  |  | inferred: ancestry: Isinguer |
-| [[People/Maseauns/Lucas|Lucas]] |  | person · human | canonical |  |  | inferred: ancestry: Mazeanne |
-| [[People/Maseauns/Marcel de Valarin|Marcel de Valarin]] |  | person · human | canonical |  |  | inferred: ancestry: Isinguer |
-| [[People/Aurbeze/Marguerite la Rousse|Marguerite la Rousse]] |  | person · human | canonical |  | mar-guh-REET la ROUSE | inferred: ancestry: Aurbeze |
-| [[People/Aurbeze/Martin Strongbow|Martin Strongbow]] |  | person · human | canonical |  |  | inferred: ancestry: Isinguer |
-| [[People/Aurbeze/Perrin du Bois|Perrin du Bois]] |  | person · human | canonical |  |  | inferred: ancestry: Aurbeze |
-| [[People/Maseauns/Peyre Vayler|Peyre Vayler]] | Lord Peyre Vayler† (Isinguese) | person · human | canonical |  |  | inferred: ancestry: Mazeanne |
-| [[People/Tollenders/Sarah de Gray|Sarah de Grey]] |  | person · human | canonical |  |  | inferred: ancestry: Isinguer |
-| [[People/PCs/Ausson's Crossing/Soraine|Soraine]] |  | person · human | canonical |  |  | inferred: ancestry: Mazeanne |
-| [[Gazetteer/Upper Istaros/Andonne Plain|Andonne Plain]] |  | place · grassland | canonical |  |  | inferred: vault path: Gazetteer/Upper Istaros |
-| [[Gazetteer/Upper Istaros/Aurbez and the Andonne|Aurbez and the Andonne]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Upper Istaros |
-| [[Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Aursen Marshes|Aursen Marshes]] |  | place · marsh | canonical |  |  | inferred: vault path: Gazetteer/Upper Istaros |
-| [[Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Aursenbourg|Aursenbourg]] |  | place · market town | canonical |  |  | inferred: vault path: Gazetteer/Upper Istaros |
-| [[Gazetteer/Upper Istaros/Isingue|Isingue]] |  | place · city | canonical |  |  | inferred: ancestry: Isinguer |
-| [[Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Laicon|Laicon]] |  | place · village | canonical |  |  | inferred: vault path: Gazetteer/Upper Istaros |
-| [[Worldbuilding/Tentative/Lysandale|Lysandale]] |  | place · settlement | tentative |  |  | inferred: whereabouts: Duchy of Maseau |
-| [[Gazetteer/Upper Istaros/Plaguelands|Plaguelands]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Upper Istaros |
-| [[Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Rocky Ford|Rocky Ford]] |  | place · trading spot | canonical |  |  | inferred: vault path: Gazetteer/Upper Istaros |
-| [[Gazetteer/Upper Istaros/Upper Istaros|Upper Istaros]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Upper Istaros |
-| [[Gazetteer/Upper Istaros/Xurkhaz/Uzgukhar|Uzgukhar]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Upper Istaros |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Historical Figures/Adele Laurent\|Adèle Laurent]] |  | person |  |  | inferred: ancestry: Isinguer |
+| [[People/Maseauns/Agnes of Evis\|Agnés of Evis]] |  | person |  |  | inferred: ancestry: Mazeanne |
+| [[People/Sembarans/Arnaud Ausson\|Arnaud Ausson]] |  | person |  |  | inferred: ancestry: Isinguer |
+| [[People/Historical Figures/Aveline of Isingue\|Aveline of Isingue]] |  | person |  |  | inferred: ancestry: Isinguer |
+| [[People/Maseauns/Balthazar\|Balthazar]] |  | person |  |  | inferred: ancestry: Mazeanne |
+| [[People/PCs/Great War/Beryl\|Beryl]] |  | person |  |  | inferred: ancestry: Isinguer |
+| [[People/PCs/Silver Tempests/Blue\|Blue]] |  | person |  |  | inferred: ancestry: Isinguer |
+| [[People/Aurbeze/Cateline Malras\|Cateline Malras]] |  | person |  | KAT-eh-leen mahl-RAH | inferred: ancestry: Aurbeze |
+| [[People/Sembarans/Genevote\|Genevote]] |  | person |  |  | inferred: ancestry: Isinguer |
+| [[People/Sembarans/Giselle Ausson\|Giselle Ausson]] |  | person |  |  | inferred: ancestry: Isinguer |
+| [[People/Aurbeze/Guilhem du Pont\|Guilhem du Pont]] |  | person |  | GHEE-yem duh PONT | inferred: ancestry: Aurbeze |
+| [[People/Tollenders/Guy Marchand\|Guy Marchand]] |  | person |  |  | inferred: ancestry: Isinguer |
+| [[People/Tollenders/Hugo Dupont\|Hugo Dupont]] |  | person |  |  | inferred: ancestry: Isinguer |
+| [[People/Maseauns/Lizette Ausson\|Lizette Ausson]] |  | person |  |  | inferred: ancestry: Isinguer |
+| [[People/Maseauns/Lucas\|Lucas]] |  | person |  |  | inferred: ancestry: Mazeanne |
+| [[People/Maseauns/Marcel de Valarin\|Marcel de Valarin]] |  | person |  |  | inferred: ancestry: Isinguer |
+| [[People/Aurbeze/Marguerite la Rousse\|Marguerite la Rousse]] |  | person |  | mar-guh-REET la ROUSE | inferred: ancestry: Aurbeze |
+| [[People/Aurbeze/Martin Strongbow\|Martin Strongbow]] |  | person |  |  | inferred: ancestry: Isinguer |
+| [[People/Aurbeze/Perrin du Bois\|Perrin du Bois]] |  | person |  |  | inferred: ancestry: Aurbeze |
+| [[People/Maseauns/Peyre Vayler\|Peyre Vayler]] | Lord Peyre Vayler† (Isinguese) | person |  |  | inferred: ancestry: Mazeanne |
+| [[People/Tollenders/Sarah de Gray\|Sarah de Grey]] |  | person |  |  | inferred: ancestry: Isinguer |
+| [[People/PCs/Ausson's Crossing/Soraine\|Soraine]] |  | person |  |  | inferred: ancestry: Mazeanne |
+| [[Gazetteer/Upper Istaros/Andonne Plain\|Andonne Plain]] |  | place |  |  | inferred: vault path: Gazetteer/Upper Istaros |
+| [[Gazetteer/Upper Istaros/Aurbez and the Andonne\|Aurbez and the Andonne]] |  | place |  |  | inferred: vault path: Gazetteer/Upper Istaros |
+| [[Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Aursen Marshes\|Aursen Marshes]] |  | place |  |  | inferred: vault path: Gazetteer/Upper Istaros |
+| [[Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Aursenbourg\|Aursenbourg]] |  | place |  |  | inferred: vault path: Gazetteer/Upper Istaros |
+| [[Gazetteer/Upper Istaros/Isingue\|Isingue]] |  | place |  |  | inferred: ancestry: Isinguer |
+| [[Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Laicon\|Laicon]] |  | place |  |  | inferred: vault path: Gazetteer/Upper Istaros |
+| [[Gazetteer/Upper Istaros/Plaguelands\|Plaguelands]] |  | place |  |  | inferred: vault path: Gazetteer/Upper Istaros |
+| [[Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Rocky Ford\|Rocky Ford]] |  | place |  |  | inferred: vault path: Gazetteer/Upper Istaros |
+| [[Gazetteer/Upper Istaros/Upper Istaros\|Upper Istaros]] |  | place |  |  | inferred: vault path: Gazetteer/Upper Istaros |
+| [[Gazetteer/Upper Istaros/Xurkhaz/Uzgukhar\|Uzgukhar]] |  | place |  |  | inferred: vault path: Gazetteer/Upper Istaros |
 
 ### Eastros
 
 #### Sembaran
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Groups/_Cultures_/Zimka|Zimka]] |  | ancestry | canonical |  |  | explicit: explicit primary-name text, body line 15 |
-| [[Groups/Sembaran Army/Army of Mostreve|Army of Mostreve]] |  | group · army | canonical |  |  | explicit: explicit primary-name text, body line 7 |
-| [[Groups/Sembaran Noble Houses/Bybets|Bybets]] | Bybet (Sembaran) | group · family | canonical |  |  | inferred: vault path: Groups/Sembaran |
-| [[Groups/Sembaran Noble Houses/d'Aslains|d'Aslains]] |  | group · noble house | canonical |  |  | inferred: vault path: Groups/Sembaran |
-| [[Groups/Sembaran Noble Houses/de Brunes|de Brunes]] |  | group · family | canonical |  |  | inferred: vault path: Groups/Sembaran |
-| [[Groups/Sembaran Army/Dunfry Regiment|Dunfry Regiment]] |  | group · regiment | canonical |  |  | inferred: vault path: Groups/Sembaran |
-| [[Groups/Sembaran Noble Houses/Essfords|Essfords]] | Essford (Sembaran) | group · family | canonical |  |  | inferred: vault path: Groups/Sembaran |
-| [[Groups/Sembaran Noble Houses/Garay Family|Garay Family]] |  | group · merchant family | canonical |  |  | inferred: ancestry: Sembaran |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Lord's Council of Cleenseau|Lord's Council of Cleenseau]] |  | group · council | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Lord's Guard of Cleenseau|Lord's Guard of Cleenseau]] |  | group · army | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Groups/Rangers|Rangers]] |  | group · army | canonical |  |  | inferred: whereabouts: Greater Sembara |
-| [[Groups/Sembaran Noble Houses/Thornes of Cleenseau|Thornes of Cleenseau]] |  | group · yeoman family | canonical |  |  | inferred: ancestry: Sembaran |
-| [[Campaigns/Cleenseau Campaign/Treasure/Hammer of Vigilance|Hammer of Vigilance]] |  | object · warhammer | campaign canon |  |  | inferred: ancestry: Sembaran |
-| [[Things/Books/Serpentine Register|Serpentine Register]] |  | object · register | canonical |  |  | inferred: ancestry: Addermarian |
-| [[Campaigns/Cleenseau Campaign/Treasure/Warhammer of Vigilance|Warhammer of Vigilance]] |  | object · warhammer | campaign canon |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Abigail Moss|Abigail Moss]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Adam of Cleenseau|Adam]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Adrian of Embry|Adrian of Embry]] | Duke Adrian of Embry† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Alain LeBouillon|Alain LeBouillon]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Alaric Benec|Alaric Benec]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Alban of Ashcombe|Alban of Ashcombe]] |  | person | canonical |  |  | inferred: vault path: People/Sembarans |
-| [[People/Sembarans/Alden|Alden]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Aldric Tannen|Aldric Tannen]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Alewyn|Alewyn]] |  | person · human | canonical |  | EYE-loo-in | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Ameline Evynwood|Ameline Evynwood]] |  | person · human | canonical |  | Am-leen Evan-wood | inferred: vault path: People/Sembarans |
-| [[People/Sembarans/Ames Benthey|Ames Benthey]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Ancer Benthey|Ancer Benthey]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Anne|Anne of Sewick]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Annet Bybet|Annet Bybet]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Annette|Annette]] |  | person · human | canonical |  |  | inferred: vault path: People/Sembarans |
-| [[People/Sembarans/Anselm|Anselm]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Armand|Armand]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Arnold the Miller|Arnold the Miller]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Arryn I|Arryn I]] | King Arryn I† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Arryn II|Arryn II]] | King Arryn II† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Arryn III|Arryn III]] | King Arryn III† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Arthur Essford|Arthur Essford]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Bartholomew Meeke|Bartholomew Meeke]] |  | person · human | canonical |  |  | inferred: vault path: People/Sembarans |
-| [[People/Addermarians/Bartoz|Bartoz]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Historical Figures/Sembaran Royalty/Bertram I|Bertram I]] | King Bertram I† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Bertram II|Bertram II]] | King Bertram II† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Bertram Northwoods|Bertram Northwoods]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Bertrand LeBlanc|Bertrand LeBlanc]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Bertrand Leclerc|Bertrand Leclerc]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Betsy Thorne|Betsy Thorne]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Blanche|Blanche]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Blanche I|Blanche I]] | Queen Blanche I† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Blanche II|Blanche II]] | Queen Blanche II† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Bran|Bran]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Brunna Marrek|Brunna Marrek]] |  | person · human | canonical |  |  | inferred: vault path: People/Sembarans |
-| [[People/Sembarans/Beatrix Thorne|Béatrix Thorne]] | Béatrix (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Cadan|Cadan]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Addermarians/Caradoc|Caradoc]] | Aurenxis (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Catherine de Brune|Catherine de Brune]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Cece I|Cece I]] | Queen Cece I† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Cedric|Cedric]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Celine Essford|Celine Essford]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Charlotte I|Charlotte I]] | Queen Charlotte I† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Charlotte II|Charlotte II]] | Queen Charlotte II† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Claire of Fellburn|Claire of Fellburn]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Colden|Colden]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Colette du Bois|Colette du Bois]] |  | person · human | canonical |  | ko-LET doo BWAH | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Colin|Colin]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Collette Murtha|Collette Murtha]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Connor|Connor]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Conrad|Conrad]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Constance Farnham|Constance Farnham]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Corrine Morphokamia|Corrine Morphokamia]] |  | person · human | canonical |  |  | inferred: vault path: People/Sembarans |
-| [[People/Sembarans/Damien Montrichard|Damien Montrichard]] |  | person · human | canonical |  | Dah-mee-en Mon-tree-shar | inferred: vault path: People/Sembarans |
-| [[People/Sembarans/Denis Moss|Denis Moss]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Derik of Lils|Derik]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Derik I|Derik I]] | King Derik I† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Derik II|Derik II]] | King Derik II† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Derik III|Derik III]] | King Derik III† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Duncan of Haldrenn|Duncan of Haldrenn]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Duncan Rivers|Duncan Rivers]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Edmund Bracken|Edmund Bracken]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Eidrikas|Eidrikas]] |  | person | canonical |  | AYD-ree-kahs | inferred: vault path: People/Sembarans |
-| [[People/Addermarians/Einrik Arpaad|Einrik Arpaad]] | Sir Einrik Arpaad† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/El|El]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Elaine I|Elaine I]] | Queen Elaine I† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Elaine II|Elaine II]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Elbeth|Elbeth]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Eleanor|Eleanor]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Eliana|Eliana]] |  | person · human | canonical |  |  | inferred: vault path: People/Sembarans |
-| [[People/Sembarans/Elise Moreau|Elise Moreau]] |  | person | canonical |  |  | inferred: vault path: People/Sembarans |
-| [[People/Sembarans/Elizabeth of Cassen|Elizabeth of Cassen]] | Elizabeth of Cassens† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Elodie Blanchard|Elodie Blanchard]] |  | person · human | canonical |  |  | inferred: vault path: People/Sembarans |
-| [[People/Historical Figures/Sembaran Royalty/Eloise|Eloise]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Elowen Duval|Elowen Duval]] | Lady Elowen Duval† (Sembaran) | person · human | canonical |  | EL-oh-wen doo-VAL | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Emilie|Emilie]] |  | person · human | canonical |  | Ay-mee-lee | inferred: vault path: People/Sembarans |
-| [[People/Addermarians/Emma Cole|Emma Cole]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Emma Marston|Emma Marston]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Emmeline Duval|Emmeline Duval]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Emmeline of Fellburn|Emmeline of Fellburn]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Eremon|Eremon]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Erick Murtha|Erick Murtha]] | Lord Erick Murtha† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Ernault|Ernault]] | Master Ernault† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Esme d'Aslain|Esme d'Aslain]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Eveyln Totteridge|Eveyln Totteridge]] | Sergeant Eveyln Totteridge† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/PCs/Addermarch/Fazoth de Brune|Fazoth de Brune]] | Fazoth (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Francois the Bandit|François the Bandit]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Gabriel Thorne|Gabriel Thorne]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Gareth Howell|Gareth Howell]] | Sir Gareth Howell† (Sembaran) | person · human | canonical |  | GAR-eth HOW-ell | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Gaston Tremaine|Gaston Tremaine]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Geoffrey Save|Geoffrey Save]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Gideon Thorne|Gideon Thorne]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Giselle|Giselle]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Giselle Marineau|Giselle Marineau]] |  | person · human | canonical |  | Zhee-zell Mah-ree-no | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Godfrey of Fontwick|Godfrey of Fontwick]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Tollenders/Godfrey of Marburgh|Godfrey of Marburgh]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Maseauns/Guy de Varan|Guy de Varan]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Gyles of Lils|Gyles]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Gyles of Teckberg|Gyles]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Harold Bybet|Harold Bybet]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Helen of Haldrenn|Helen of Haldrenn]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Henry Blackwell|Henry Blackwell]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Hildo Brask|Hildo Brask]] | Marshal Hildo Brask† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Hubert Moreau|Hubert Moreau]] |  | person | canonical |  |  | inferred: vault path: People/Sembarans |
-| [[People/Historical Figures/Sembaran Royalty/Hugh of Wisenfold|Hugh]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Hugh Darrow|Hugh Darrow]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Hugh of Sewick|Hugh of Sewick]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Lord Hulda|Hulda]] | Lord Hulda (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Ida Rosfeld|Ida Rosfeld]] | Captain Ida Rosfeld† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Isabeau D'Aslain|Isabeau d'Aslain]] | Baroness Isabeau D'Aslain† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Isolde|Isolde]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Isolde of Haldrenn|Isolde of Haldrenn]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Addermarians/Isolde of Roscombe|Isolde of Roscombe]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Jacques Bellemont|Jacques Bellemont]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Jasper of Beury|Jasper]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Jean-Luc d'Aslain|Jean-Luc d'Aslain]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Jerome|Jerome]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Jon|Jon]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Jon Thorne|Jon Thorne]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Jonathon Henwyn|Jonathon Henwyn]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Juliana Westby|Juliana Westby]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Karl|Karl]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Addermarians/Kelvyn|Kelvyn]] |  | person · human | canonical |  |  | inferred: vault path: People/Addermarians |
-| [[People/Sembarans/Lambert Talwrey|Lambert Talwrey]] |  | person · human | canonical |  |  | inferred: vault path: People/Sembarans |
-| [[People/Sembarans/Lenora Belles|Lenora Belles]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Lionel Mortagne|Lionel Mortagne]] |  | person · human | canonical |  | Li-o-nel Mor-tahn-yeh | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Lorin Valbert|Lorin Valbert]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Lucas Asa|Lucas Asa]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Mabel of Cleenseau|Mabel of Cleenseau]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Manfred|Manfred]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Marcel Desrosiers|Marcel Desrosiers]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Marceline Dupont|Marceline Dupont]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Margaret Ashford|Margaret Ashford]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Marguerite Deschamps|Marguerite Deschamps]] |  | person · human | canonical |  | mahr-guh-REET deh-SHAHN | inferred: ancestry: Sembaran |
-| [[People/Halflings/Marigold Stonebridge|Marigold Stonebridge]] |  | person · halfling | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Marion of Cleenseau|Marion]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Matias|Matias]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Matteo Ausson|Matteo Ausson]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Halflings/Mermin Stonebridge|Mermin Stonebridge]] |  | person · halfling | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Maseauns/Narrisa de Abadelle|Narrisa de Abadelle]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Nicholas the Beggar|Nicholas the Beggar]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Nicholas Wysson|Nicholas Wysson]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Nicole Darrow|Nicole Darrow]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Norman the Wanderer|Norman the Wanderer]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Odo Cordwaner|Odo Cordwaner]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Olay|Olay]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Oswald Greensborn|Oswald Greensborn]] |  | person · human | canonical |  |  | inferred: vault path: People/Sembarans |
-| [[People/Sembarans/Oudine|Oudine]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Owen Tavish|Owen Tavish]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[Worldbuilding/Staging/Cleenseau/Perette|Perette]] |  | person · human | staging |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Perrin Voclain|Perrin Voclain]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Phillip Evynwood|Phillip Evynwood]] |  | person | canonical |  |  | inferred: vault path: People/Sembarans |
-| [[People/Sembarans/Phillipa Northwood|Phillipa Northwood]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Pierre the Guard|Pierre the Guard]] |  | person · human | canonical |  |  | inferred: vault path: People/Sembarans |
-| [[People/Sembarans/Piers of Houille|Piers of Houille]] |  | person · human | canonical |  |  | inferred: vault path: People/Sembarans |
-| [[People/Addermarians/Piri|Piri]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Quentin|Quetin]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Raoul Boulain|Raoul Boulain]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Reginald|Reginald]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Reginald Essford|Reginald Essford]] | Lord Reginald Essford† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Reginald Rusebek|Reginald Rusebek]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Remille Vauclaire|Remille Vauclaire]] |  | person · human | canonical |  | Ruh-mee Voh-klair | inferred: vault path: People/Sembarans |
-| [[People/Sembarans/Remy Darrow|Remy Darrow]] | Grandpa Remy Darrow† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Rene d'Aslain|Rene d'Aslain]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Rene Dubois|Rene Dubois]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Rinault Essford|Rinault Essford]] | Lord Rinault (Sembaran); Lord Rinault Essford (Sembaran); Rinault (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Robert the Bandit|Robert]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Robert I|Robert I]] | King Robert I† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Rosalind Essford|Rosalind Essford]] | Lady Essford (Sembaran); Lady Rosalind Essford (Sembaran); Rosalind (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Rowena|Rowena]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Rufus of Ashcombe|Rufus of Ashcombe]] |  | person | canonical |  |  | inferred: vault path: People/Sembarans |
-| [[People/Sembarans/Sabine de Brune|Sabine de Brune]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Samantha of Fontwick|Samantha of Fontwick]] | Samatha of Fontwick† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Samuel|Samuel]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Sarabet|Sarabet]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Sarabeth|Sarabeth]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Sarabeth Asa|Sarabeth Asa]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Seraphine Harper|Seraphine Harper]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Simon of Cranford|Simon of Cranford]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Susanna Northwoods|Susanna Northwoods]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Susanne Garay|Susanne Garay]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Symone Barbet|Symone Barbet]] | Major Symone Barbet (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Tal|Tal]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Terry the Bandit|Terry the Bandit]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Thierry|Thierry]] |  | person · human | canonical |  | Tee-eh-ree | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Thomas Dyerson|Thomas Dyerson]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Tobias of Cranford|Tobias of Cranford]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Tristan Vaudrillard|Tristan Vaudrillard]] |  | person · human | canonical |  | Tris-tan Voh-dree-yar | inferred: ancestry: Sembaran |
-| [[People/Halflings/Venra Stonebridge|Venra Stonebridge]] |  | person · halfling | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Victorine Rosseau|Victorine Rosseau]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/PCs/Cleenseau/Viepuck|Viepuck]] | Vala Xendra (Sembaran); Treph Hardpick (Sembaran); Sarlana Silversword (Sembaran); Najeer (Sembaran); Najeer Garay (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Vincent de Arban|Vincent de Arban]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Walter of Cleenseau|Walter of Cleenseau]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Warin the Woodsman|Warin the Woodsman]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/William Forester|William Forester]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Halflings/Willow Stonebridge|Willow Stonebridge]] |  | person · halfling | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Historical Figures/Sembaran Royalty/Wisym I|Wisym I]] | King Wisym I† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Addermarians/Wulfram|Wulfram]] |  | person · human | canonical |  |  | inferred: ancestry: Addermarian |
-| [[People/Sembarans/Wymar Essford|Wymar Essford]] | Lord Wymar Essford† (Sembaran) | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Yolande Leclair|Yolande Leclair]] |  | person | canonical |  |  | inferred: vault path: People/Sembarans |
-| [[People/Sembarans/Ysabel|Ysabel]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[People/Sembarans/Yvette|Yvette]] |  | person · human | canonical |  |  | inferred: ancestry: Sembaran |
-| [[Gazetteer/Greater Sembara/Rivers/Tyrwinghan Watershed/Aben|Aben]] | Aben River (Common); River Aben (Common) | place · river | canonical |  | AY-ben | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Adderfell|Adderfell]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Addermarch|Addermarch]] | Addermarian (Sembaran) | place · realm | canonical |  |  | explicit: explicit primary-name text, body line 33 |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Aesganstrad|Aesganstrad]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Ainwick/Ainwick|Ainwick]] |  | place · town | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Amance Brook|Amance Brook]] |  | place · brook | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Major Rivers/Istaros Watershed/Andonne|Andonne]] |  | place · river | canonical |  |  | inferred: whereabouts: Greater Sembara |
-| [[Gazetteer/Greater Sembara/Ardlas|Ardlas]] |  | place · realm | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Arnsbury|Arnsbury]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Arvanko's Homestead|Arvanko's Homestead]] |  | place · homestead | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Ashcombe|Ashcombe]] |  | place · logging village | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Asineau|Asineau]] |  | place · fishing village | canonical |  | Ah-zee-noh | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Aslain|Aslain]] |  | place · town | canonical |  | Ahz-lane | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Auberonne|Auberonne]] |  | place · river | canonical |  | Oh-beh-ron | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Auloutte|Auloutte]] |  | place · fishing village | canonical |  | OO-loot | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Aure|Aure]] | River Aure (Common); Aure River (Common) | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Aveil Ridge|Aveil Ridge]] |  | place · ridge | canonical |  | Ah-vayl Ridge | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Roads/Bandit's Way|Bandit's Way]] |  | place · section | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Battery|Battery]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Beldor|Beldor]] |  | place · mining village | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Beury|Beury]] | the inn in Beury† (Common) | place · village | canonical |  | BUH-ree | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Bollin|Bollin]] | Bollin River (Common); River Bollin (Common) | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Borderlands|Borderlands]] | Sembaran Borderlands (Sembaran) | place · group of baronies | canonical |  |  | explicit: explicit primary-name text, body line 6 |
-| [[Gazetteer/Greater Sembara/Sembara/Braebein|Braebein]] |  | place · line of hills | canonical |  | BRAY-been | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Bramshire|Bramshire]] |  | place · shire | canonical |  | BRAM-shur | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Branth|Branth]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Brantor|Brantor]] |  | place · village | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Zimkova/Breva|Breva]] |  | place · realm | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Bridgeward|Bridgeward]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Brooklawn|Brooklawn]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Brooklawn Inner|Brooklawn Inner]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Brunebeck|Brunebeck]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Teft Watershed/Berze|Bērze]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Cambril|Cambril]] |  | place · river | canonical | ✓ |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Carlinshire|Carlinshire]] |  | place · shire | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Volta Watershed/Carnbrook|Carnbrook]] |  | place · brook | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cassen|Cassen]] |  | place · village | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Duchy of Maseau/Cassons|Cassons]] |  | place · fortified border town | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Champimont|Champimont]] |  | place · market town | canonical |  | Sham-PEE-mohn | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Chemelle|Chemelle]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Clavert|Clavert]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Cleenseau|Cleenseau]] |  | place · town | canonical |  | Klen-sew | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau Region|Cleenseau Region]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cranford|Cranford]] |  | place · town | canonical |  | Cran-ford | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Cranmere|Cranmère]] |  | place · river | canonical |  | Krahn-mehr | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Dallet|Dallet]] |  | place · village | canonical |  | da-LEH | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Tyrwinghan Watershed/Daran|Daran]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Darkwood|Darkwood]] |  | place · forest | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Darkwood Keep|Darkwood Keep]] |  | place · keep | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Dock Workers Great and Honorable Charitable Home for the Lost and Wretched|Dock Workers Great and Honorable Charitable Home for the Lost and Wretched]] |  | place · orphanage | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[History/Historical Realms/Dominion of Avatus|Dominion of Avatus]] |  | place · destroyed empire | canonical |  |  | inferred: whereabouts: Greater Sembara |
-| [[Gazetteer/Greater Sembara/Zimkova/Dravnieki|Dravnieki]] |  | place · village | canonical |  | DRAHV-nyeh-kee | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Dunfry|Dunfry]] |  | place · town | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Dunmore|Dunmore]] |  | place · fortified town | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Places/Dyer's Guildhall|Dyer's Guildhall]] |  | place · guildhall | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/East Bog|East Bog]] |  | place · bog | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Eftly|Eftly]] |  | place · village | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Embry|Embry]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Tyrwinghan Watershed/Enad|Enad]] |  | place · brook | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Enford|Enford]] |  | place · fortified town | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Enst|Enst]] | River Enst (Common); Enst River (Common) | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Enst (Middle Fork)|Enst (Middle Fork)]] | Middle Fork (Sembaran); Middle Fork of the Enst (Sembaran) | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Enst (North Fork)|Enst (North Fork)]] | North Fork (Sembaran); North Fork of the Enst (Sembaran) | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Enst (South Fork)|Enst (South Fork)]] | South Fork (Sembaran); South Fork of the Enst (Sembaran) | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Eskbridge|Eskbridge]] |  | place · fortified town | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Essenmer|Essenmer]] |  | place · village | canonical |  | Essen-MER | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Duchy of Maseau/Evis|Evis]] |  | place · fortified town | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Fairgate|Fairgate]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Fairgate Inner|Fairgate Inner]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Volta Watershed/Fat Brook|Fat Brook]] |  | place · brook | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Fellburn|Fellburn]] |  | place · fortified market town | canonical |  | Fell-burn | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Fenslane|Fenslane]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Fiskurth|Fiskurth]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Fontwick|Fontwick]] |  | place · village | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Gastant Farm|Gastant Farm]] |  | place · farmhouse | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Godshome|Godshome]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Gold Street|Gold Street]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Golden Quill|Golden Quill]] |  | place · inn | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Gowerbourne|Gowerbourne]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Granite Mug|Granite Mug]] |  | place · inn | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Zimkova/Great Chasm|Great Chasm]] |  | place · chasm | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Greater Sembara|Greater Sembara]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Volta Watershed/Greywash|Greywash]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Guildgate|Guildgate]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Haldrenn|Haldrenn]] |  | place · village | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Haurhill|Haurhill]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Heartlands|Heartlands]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Highmoor|Highmoor]] |  | place · moor | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Houille|Houille]] |  | place · village | canonical |  | oo-yee | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Places/Inkspell Lane|Inkspell Lane]] |  | place · street | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Kilrath Caves|Kilrath Caves]] |  | place · cave system | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Lanting|Lanting]] |  | place · river | canonical | ✓ |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Leandre|Leandre]] |  | place · river | canonical |  | Leh-ahn-dray | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Tyrwinghan Watershed/Llanfen|Llanfen]] |  | place · river | canonical |  | HLAN-ven | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Lord Mayor’s Workhouse|Lord Mayor’s Workhouse]] |  | place · orphanage | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Magus Street|Magus Street]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Marches of Brovna|Marches of Brovna]] |  | place · march | canonical |  |  | inferred: ancestry: Sembaran |
-| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Marches of Enford|Marches of Enford]] |  | place · march | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Maudorville|Maudorville]] |  | place · village | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Mill Brook (Roscombe)|Mill Brook]] |  | place · brook | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Mournebrook|Mournebrook]] |  | place · brook | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Nordgate|Nordgate]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Northlands/Northlands|Northlands]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Orbas|Orbas]] |  | place · village | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Peydon|Peydon]] |  | place · village | canonical |  | Pay-dun | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Queen’s Own Home for Children|Queen’s Own Home for Children]] |  | place · orphanage | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Ravignac|Ravignac]] |  | place · fortified town | canonical |  | RAH-veen-yak | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Tyrwinghan Watershed/Rhewin|Rhewin]] |  | place · river | canonical |  | RHEH-win | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Rinburg|Rinburg]] |  | place · free city | canonical |  | Rin-burg | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Rindle|Rindle]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Riversgate|Riversgate]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Riversgate Inner|Riversgate Inner]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Riversgate Outer|Riversgate Outer]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Roscombe|Roscombe]] |  | place · market town | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Places/Scrollwright Street|Scrollwright Street]] |  | place · street | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Teft Watershed/Selgrava|Selgrava]] |  | place · river | canonical |  | SELL-grah-vah | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Semb Watershed/Semb|Semb]] | River Semb (Common) | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Sembara|Sembara]] | Sembaran (Sembaran) | place · monarchy | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Serethwyn Tor|Serethwyn Tor]] |  | place · ruin | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Shadowmere|Shadowmere]] |  | place · haunted swamp | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Skepwalk|Skepwalk]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Southbridge|Southbridge]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Stavenford|Stavenford]] |  | place · river town | canonical |  | Staven-ford | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Stonewolds|Stonewolds]] |  | place · rugged hills | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Taviose|Taviose]] |  | place · village | canonical |  | Ta-vi-ose | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Teft Watershed/Teft|Teft]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Northlands/Telham|Telham]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/The Bandit’s End|The Bandit’s End]] |  | place · inn | canonical |  |  | inferred: ancestry: Sembaran |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/The Elegant Swan|The Elegant Swan]] |  | place · inn | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/The Fox's Flagon|The Fox’s Flagon]] |  | place · inn | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/The Resting Ox|The Resting Ox]] |  | place · inn | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/The Setting Sun|The Setting Sun]] |  | place · inn | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/The Traveler's Rest|The Traveler's Rest]] |  | place · inn | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Tideswell|Tideswell]] |  | place · ward | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Tollen/Places/Fairgrounds (Tollen)|Tollen Fairgrounds]] |  | place · fairgrounds | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Torvaine Watch|Torvaine Watch]] |  | place · castle | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Tyrwinghan Watershed/Trellyn|Trellyn]] | River Trellyn (Common); Trellyn River (Common) | place · river | canonical |  | TRELL-yin | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Tumbledown Farm|Tumbledown Farm]] |  | place · tenement | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Tygate|Tygate]] |  | place · market town | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Umber|Umber]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Underhill|Underhill]] |  | place · neighborhood | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Duchy of Maseau/Valarin|Valarin]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Valcroix|Valcroix]] |  | place · market town | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Valit|Valit]] |  | place · village | canonical |  | Val-le | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Vardell|Vardell]] |  | place · river | canonical | ✓ | VAR-dell | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Velan|Velan]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Veltor|Veltor]] |  | place · fortified village | canonical |  | Vel-tor | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Teft Watershed/Vilna|Vilna]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Volta Watershed/Volta|Volta]] | River Volta (Common) | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Vostok/Vostok|Vostok]] | Vosland (Sembaran) | place · region | canonical |  | VOS-tok | explicit: explicit primary-name text, body line 48 (comment) |
-| [[Gazetteer/Greater Sembara/Addermarch/Weskershire|Weskershire]] |  | place · shire | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/West Stonewolds Caves|West Stonewolds Caves]] |  | place · cave system | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Addermarch/Westcliff|Westcliff]] |  | place · line of hills | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Western Marches|Western Marches]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Western Wall of Sembara|Western Wall of Sembara]] |  | place · wall | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Wethlin|Wethlin]] |  | place · river | canonical | ✓ |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Windlea|Windlea]] |  | place · village | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Wisford|Wisford]] |  | place · city | canonical |  | Wis-ford | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Wistel|Wistel]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Zimkova/Zeyfa's Labyrinth|Zeyfa's Labyrinth]] |  | place · labyrinth | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
-| [[Gazetteer/Greater Sembara/Zimkova/Zimkova|Zimkova]] | Highland Kingdoms (Sembaran) | place · region | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Sembarans/Abigail Moss\|Abigail Moss]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Adam of Cleenseau\|Adam]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Adrian of Embry\|Adrian of Embry]] | Duke Adrian of Embry† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Alain LeBouillon\|Alain LeBouillon]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Alaric Benec\|Alaric Benec]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Alban of Ashcombe\|Alban of Ashcombe]] |  | person |  |  | inferred: vault path: People/Sembarans |
+| [[People/Sembarans/Alden\|Alden]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Aldric Tannen\|Aldric Tannen]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Alewyn\|Alewyn]] |  | person |  | EYE-loo-in | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Ameline Evynwood\|Ameline Evynwood]] |  | person |  | Am-leen Evan-wood | inferred: vault path: People/Sembarans |
+| [[People/Sembarans/Ames Benthey\|Ames Benthey]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Ancer Benthey\|Ancer Benthey]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Anne\|Anne of Sewick]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Annet Bybet\|Annet Bybet]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Annette\|Annette]] |  | person |  |  | inferred: vault path: People/Sembarans |
+| [[People/Sembarans/Anselm\|Anselm]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Armand\|Armand]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Arnold the Miller\|Arnold the Miller]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Arryn I\|Arryn I]] | King Arryn I† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Arryn II\|Arryn II]] | King Arryn II† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Arryn III\|Arryn III]] | King Arryn III† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Arthur Essford\|Arthur Essford]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Bartholomew Meeke\|Bartholomew Meeke]] |  | person |  |  | inferred: vault path: People/Sembarans |
+| [[People/Addermarians/Bartoz\|Bartoz]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Historical Figures/Sembaran Royalty/Bertram I\|Bertram I]] | King Bertram I† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Bertram II\|Bertram II]] | King Bertram II† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Bertram Northwoods\|Bertram Northwoods]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Bertrand LeBlanc\|Bertrand LeBlanc]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Bertrand Leclerc\|Bertrand Leclerc]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Betsy Thorne\|Betsy Thorne]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Blanche\|Blanche]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Blanche I\|Blanche I]] | Queen Blanche I† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Blanche II\|Blanche II]] | Queen Blanche II† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Bran\|Bran]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Brunna Marrek\|Brunna Marrek]] |  | person |  |  | inferred: vault path: People/Sembarans |
+| [[People/Sembarans/Beatrix Thorne\|Béatrix Thorne]] | Béatrix (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Cadan\|Cadan]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Addermarians/Caradoc\|Caradoc]] | Aurenxis (Sembaran) | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Catherine de Brune\|Catherine de Brune]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Cece I\|Cece I]] | Queen Cece I† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Cedric\|Cedric]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Celine Essford\|Celine Essford]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Charlotte I\|Charlotte I]] | Queen Charlotte I† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Charlotte II\|Charlotte II]] | Queen Charlotte II† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Claire of Fellburn\|Claire of Fellburn]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Colden\|Colden]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Colette du Bois\|Colette du Bois]] |  | person |  | ko-LET doo BWAH | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Colin\|Colin]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Collette Murtha\|Collette Murtha]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Connor\|Connor]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Conrad\|Conrad]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Constance Farnham\|Constance Farnham]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Corrine Morphokamia\|Corrine Morphokamia]] |  | person |  |  | inferred: vault path: People/Sembarans |
+| [[People/Sembarans/Damien Montrichard\|Damien Montrichard]] |  | person |  | Dah-mee-en Mon-tree-shar | inferred: vault path: People/Sembarans |
+| [[People/Sembarans/Denis Moss\|Denis Moss]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Derik of Lils\|Derik]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Derik I\|Derik I]] | King Derik I† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Derik II\|Derik II]] | King Derik II† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Derik III\|Derik III]] | King Derik III† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Duncan of Haldrenn\|Duncan of Haldrenn]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Duncan Rivers\|Duncan Rivers]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Edmund Bracken\|Edmund Bracken]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Eidrikas\|Eidrikas]] |  | person |  | AYD-ree-kahs | inferred: vault path: People/Sembarans |
+| [[People/Addermarians/Einrik Arpaad\|Einrik Arpaad]] | Sir Einrik Arpaad† (Sembaran) | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/El\|El]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Elaine I\|Elaine I]] | Queen Elaine I† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Elaine II\|Elaine II]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Elbeth\|Elbeth]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Eleanor\|Eleanor]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Eliana\|Eliana]] |  | person |  |  | inferred: vault path: People/Sembarans |
+| [[People/Sembarans/Elise Moreau\|Elise Moreau]] |  | person |  |  | inferred: vault path: People/Sembarans |
+| [[People/Sembarans/Elizabeth of Cassen\|Elizabeth of Cassen]] | Elizabeth of Cassens† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Elodie Blanchard\|Elodie Blanchard]] |  | person |  |  | inferred: vault path: People/Sembarans |
+| [[People/Historical Figures/Sembaran Royalty/Eloise\|Eloise]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Elowen Duval\|Elowen Duval]] | Lady Elowen Duval† (Sembaran) | person |  | EL-oh-wen doo-VAL | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Emilie\|Emilie]] |  | person |  | Ay-mee-lee | inferred: vault path: People/Sembarans |
+| [[People/Addermarians/Emma Cole\|Emma Cole]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Emma Marston\|Emma Marston]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Emmeline Duval\|Emmeline Duval]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Emmeline of Fellburn\|Emmeline of Fellburn]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Eremon\|Eremon]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Erick Murtha\|Erick Murtha]] | Lord Erick Murtha† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Ernault\|Ernault]] | Master Ernault† (Sembaran) | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Esme d'Aslain\|Esme d'Aslain]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Eveyln Totteridge\|Eveyln Totteridge]] | Sergeant Eveyln Totteridge† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/PCs/Addermarch/Fazoth de Brune\|Fazoth de Brune]] | Fazoth (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Francois the Bandit\|François the Bandit]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Gabriel Thorne\|Gabriel Thorne]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Gareth Howell\|Gareth Howell]] | Sir Gareth Howell† (Sembaran) | person |  | GAR-eth HOW-ell | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Gaston Tremaine\|Gaston Tremaine]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Geoffrey Save\|Geoffrey Save]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Gideon Thorne\|Gideon Thorne]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Giselle\|Giselle]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Giselle Marineau\|Giselle Marineau]] |  | person |  | Zhee-zell Mah-ree-no | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Godfrey of Fontwick\|Godfrey of Fontwick]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Tollenders/Godfrey of Marburgh\|Godfrey of Marburgh]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Maseauns/Guy de Varan\|Guy de Varan]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Gyles of Lils\|Gyles]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Gyles of Teckberg\|Gyles]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Harold Bybet\|Harold Bybet]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Helen of Haldrenn\|Helen of Haldrenn]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Henry Blackwell\|Henry Blackwell]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Hildo Brask\|Hildo Brask]] | Marshal Hildo Brask† (Sembaran) | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Hubert Moreau\|Hubert Moreau]] |  | person |  |  | inferred: vault path: People/Sembarans |
+| [[People/Historical Figures/Sembaran Royalty/Hugh of Wisenfold\|Hugh]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Hugh Darrow\|Hugh Darrow]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Hugh of Sewick\|Hugh of Sewick]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Lord Hulda\|Hulda]] | Lord Hulda (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Ida Rosfeld\|Ida Rosfeld]] | Captain Ida Rosfeld† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Isabeau D'Aslain\|Isabeau d'Aslain]] | Baroness Isabeau D'Aslain† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Isolde\|Isolde]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Isolde of Haldrenn\|Isolde of Haldrenn]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Addermarians/Isolde of Roscombe\|Isolde of Roscombe]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Jacques Bellemont\|Jacques Bellemont]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Jasper of Beury\|Jasper]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Jean-Luc d'Aslain\|Jean-Luc d'Aslain]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Jerome\|Jerome]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Jon\|Jon]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Jon Thorne\|Jon Thorne]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Jonathon Henwyn\|Jonathon Henwyn]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Juliana Westby\|Juliana Westby]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Karl\|Karl]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Addermarians/Kelvyn\|Kelvyn]] |  | person |  |  | inferred: vault path: People/Addermarians |
+| [[People/Sembarans/Lambert Talwrey\|Lambert Talwrey]] |  | person |  |  | inferred: vault path: People/Sembarans |
+| [[People/Sembarans/Lenora Belles\|Lenora Belles]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Lionel Mortagne\|Lionel Mortagne]] |  | person |  | Li-o-nel Mor-tahn-yeh | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Lorin Valbert\|Lorin Valbert]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Lucas Asa\|Lucas Asa]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Mabel of Cleenseau\|Mabel of Cleenseau]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Manfred\|Manfred]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Marcel Desrosiers\|Marcel Desrosiers]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Marceline Dupont\|Marceline Dupont]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Margaret Ashford\|Margaret Ashford]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Marguerite Deschamps\|Marguerite Deschamps]] |  | person |  | mahr-guh-REET deh-SHAHN | inferred: ancestry: Sembaran |
+| [[People/Halflings/Marigold Stonebridge\|Marigold Stonebridge]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Marion of Cleenseau\|Marion]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Matias\|Matias]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Matteo Ausson\|Matteo Ausson]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Halflings/Mermin Stonebridge\|Mermin Stonebridge]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Maseauns/Narrisa de Abadelle\|Narrisa de Abadelle]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Nicholas the Beggar\|Nicholas the Beggar]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Nicholas Wysson\|Nicholas Wysson]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Nicole Darrow\|Nicole Darrow]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Norman the Wanderer\|Norman the Wanderer]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Odo Cordwaner\|Odo Cordwaner]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Olay\|Olay]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Oswald Greensborn\|Oswald Greensborn]] |  | person |  |  | inferred: vault path: People/Sembarans |
+| [[People/Sembarans/Oudine\|Oudine]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Owen Tavish\|Owen Tavish]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Perrin Voclain\|Perrin Voclain]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Phillip Evynwood\|Phillip Evynwood]] |  | person |  |  | inferred: vault path: People/Sembarans |
+| [[People/Sembarans/Phillipa Northwood\|Phillipa Northwood]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Pierre the Guard\|Pierre the Guard]] |  | person |  |  | inferred: vault path: People/Sembarans |
+| [[People/Sembarans/Piers of Houille\|Piers of Houille]] |  | person |  |  | inferred: vault path: People/Sembarans |
+| [[People/Addermarians/Piri\|Piri]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Quentin\|Quetin]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Raoul Boulain\|Raoul Boulain]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Reginald\|Reginald]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Reginald Essford\|Reginald Essford]] | Lord Reginald Essford† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Reginald Rusebek\|Reginald Rusebek]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Remille Vauclaire\|Remille Vauclaire]] |  | person |  | Ruh-mee Voh-klair | inferred: vault path: People/Sembarans |
+| [[People/Sembarans/Remy Darrow\|Remy Darrow]] | Grandpa Remy Darrow† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Rene d'Aslain\|Rene d'Aslain]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Rene Dubois\|Rene Dubois]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Rinault Essford\|Rinault Essford]] | Lord Rinault (Sembaran); Lord Rinault Essford (Sembaran); Rinault (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Robert the Bandit\|Robert]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Robert I\|Robert I]] | King Robert I† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Rosalind Essford\|Rosalind Essford]] | Lady Essford (Sembaran); Lady Rosalind Essford (Sembaran); Rosalind (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Rowena\|Rowena]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Rufus of Ashcombe\|Rufus of Ashcombe]] |  | person |  |  | inferred: vault path: People/Sembarans |
+| [[People/Sembarans/Sabine de Brune\|Sabine de Brune]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Samantha of Fontwick\|Samantha of Fontwick]] | Samatha of Fontwick† (Sembaran) | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Samuel\|Samuel]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Sarabet\|Sarabet]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Sarabeth\|Sarabeth]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Sarabeth Asa\|Sarabeth Asa]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Seraphine Harper\|Seraphine Harper]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Simon of Cranford\|Simon of Cranford]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Susanna Northwoods\|Susanna Northwoods]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Susanne Garay\|Susanne Garay]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Symone Barbet\|Symone Barbet]] | Major Symone Barbet (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Tal\|Tal]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Terry the Bandit\|Terry the Bandit]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Thierry\|Thierry]] |  | person |  | Tee-eh-ree | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Thomas Dyerson\|Thomas Dyerson]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Tobias of Cranford\|Tobias of Cranford]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Tristan Vaudrillard\|Tristan Vaudrillard]] |  | person |  | Tris-tan Voh-dree-yar | inferred: ancestry: Sembaran |
+| [[People/Halflings/Venra Stonebridge\|Venra Stonebridge]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Victorine Rosseau\|Victorine Rosseau]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/PCs/Cleenseau/Viepuck\|Viepuck]] | Vala Xendra (Sembaran); Treph Hardpick (Sembaran); Sarlana Silversword (Sembaran); Najeer (Sembaran); Najeer Garay (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Vincent de Arban\|Vincent de Arban]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Walter of Cleenseau\|Walter of Cleenseau]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Warin the Woodsman\|Warin the Woodsman]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/William Forester\|William Forester]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Halflings/Willow Stonebridge\|Willow Stonebridge]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Historical Figures/Sembaran Royalty/Wisym I\|Wisym I]] | King Wisym I† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Addermarians/Wulfram\|Wulfram]] |  | person |  |  | inferred: ancestry: Addermarian |
+| [[People/Sembarans/Wymar Essford\|Wymar Essford]] | Lord Wymar Essford† (Sembaran) | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Yolande Leclair\|Yolande Leclair]] |  | person |  |  | inferred: vault path: People/Sembarans |
+| [[People/Sembarans/Ysabel\|Ysabel]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[People/Sembarans/Yvette\|Yvette]] |  | person |  |  | inferred: ancestry: Sembaran |
+| [[Gazetteer/Greater Sembara/Rivers/Tyrwinghan Watershed/Aben\|Aben]] | Aben River (Common); River Aben (Common) | place |  | AY-ben | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Adderfell\|Adderfell]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Addermarch\|Addermarch]] | Addermarian (Sembaran) | place |  |  | explicit: explicit primary-name text, body line 33 |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Aesganstrad\|Aesganstrad]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Ainwick/Ainwick\|Ainwick]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Amance Brook\|Amance Brook]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Major Rivers/Istaros Watershed/Andonne\|Andonne]] |  | place |  |  | inferred: whereabouts: Greater Sembara |
+| [[Gazetteer/Greater Sembara/Ardlas\|Ardlas]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Arnsbury\|Arnsbury]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Arvanko's Homestead\|Arvanko's Homestead]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Ashcombe\|Ashcombe]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Asineau\|Asineau]] |  | place |  | Ah-zee-noh | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Aslain\|Aslain]] |  | place |  | Ahz-lane | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Auberonne\|Auberonne]] |  | place |  | Oh-beh-ron | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Auloutte\|Auloutte]] |  | place |  | OO-loot | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Aure\|Aure]] | River Aure (Common); Aure River (Common) | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Aveil Ridge\|Aveil Ridge]] |  | place |  | Ah-vayl Ridge | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Roads/Bandit's Way\|Bandit's Way]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Battery\|Battery]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Beldor\|Beldor]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Beury\|Beury]] | the inn in Beury† (Common) | place |  | BUH-ree | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Bollin\|Bollin]] | Bollin River (Common); River Bollin (Common) | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Borderlands\|Borderlands]] | Sembaran Borderlands (Sembaran) | place |  |  | explicit: explicit primary-name text, body line 6 |
+| [[Gazetteer/Greater Sembara/Sembara/Braebein\|Braebein]] |  | place |  | BRAY-been | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Bramshire\|Bramshire]] |  | place |  | BRAM-shur | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Branth\|Branth]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Brantor\|Brantor]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Zimkova/Breva\|Breva]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Bridgeward\|Bridgeward]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Brooklawn\|Brooklawn]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Brooklawn Inner\|Brooklawn Inner]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Brunebeck\|Brunebeck]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Teft Watershed/Berze\|Bērze]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Cambril\|Cambril]] |  | place | ✓ |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Carlinshire\|Carlinshire]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Volta Watershed/Carnbrook\|Carnbrook]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cassen\|Cassen]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Duchy of Maseau/Cassons\|Cassons]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Champimont\|Champimont]] |  | place |  | Sham-PEE-mohn | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Chemelle\|Chemelle]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Clavert\|Clavert]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Cleenseau\|Cleenseau]] |  | place |  | Klen-sew | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau Region\|Cleenseau Region]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cranford\|Cranford]] |  | place |  | Cran-ford | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Cranmere\|Cranmère]] |  | place |  | Krahn-mehr | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Dallet\|Dallet]] |  | place |  | da-LEH | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Tyrwinghan Watershed/Daran\|Daran]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Darkwood\|Darkwood]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Darkwood Keep\|Darkwood Keep]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Dock Workers Great and Honorable Charitable Home for the Lost and Wretched\|Dock Workers Great and Honorable Charitable Home for the Lost and Wretched]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[History/Historical Realms/Dominion of Avatus\|Dominion of Avatus]] |  | place |  |  | inferred: whereabouts: Greater Sembara |
+| [[Gazetteer/Greater Sembara/Zimkova/Dravnieki\|Dravnieki]] |  | place |  | DRAHV-nyeh-kee | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Dunfry\|Dunfry]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Dunmore\|Dunmore]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Places/Dyer's Guildhall\|Dyer's Guildhall]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/East Bog\|East Bog]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Eftly\|Eftly]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Embry\|Embry]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Tyrwinghan Watershed/Enad\|Enad]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Enford\|Enford]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Enst\|Enst]] | River Enst (Common); Enst River (Common) | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Enst (Middle Fork)\|Enst (Middle Fork)]] | Middle Fork (Sembaran); Middle Fork of the Enst (Sembaran) | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Enst (North Fork)\|Enst (North Fork)]] | North Fork (Sembaran); North Fork of the Enst (Sembaran) | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Enst (South Fork)\|Enst (South Fork)]] | South Fork (Sembaran); South Fork of the Enst (Sembaran) | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Eskbridge\|Eskbridge]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Essenmer\|Essenmer]] |  | place |  | Essen-MER | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Duchy of Maseau/Evis\|Evis]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Fairgate\|Fairgate]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Fairgate Inner\|Fairgate Inner]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Volta Watershed/Fat Brook\|Fat Brook]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Fellburn\|Fellburn]] |  | place |  | Fell-burn | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Fenslane\|Fenslane]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Fiskurth\|Fiskurth]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Fontwick\|Fontwick]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Gastant Farm\|Gastant Farm]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Godshome\|Godshome]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Gold Street\|Gold Street]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Golden Quill\|Golden Quill]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Gowerbourne\|Gowerbourne]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Granite Mug\|Granite Mug]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Zimkova/Great Chasm\|Great Chasm]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Greater Sembara\|Greater Sembara]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Volta Watershed/Greywash\|Greywash]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Guildgate\|Guildgate]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Haldrenn\|Haldrenn]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Haurhill\|Haurhill]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Heartlands\|Heartlands]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Highmoor\|Highmoor]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Houille\|Houille]] |  | place |  | oo-yee | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Places/Inkspell Lane\|Inkspell Lane]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Kilrath Caves\|Kilrath Caves]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Lanting\|Lanting]] |  | place | ✓ |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Leandre\|Leandre]] |  | place |  | Leh-ahn-dray | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Tyrwinghan Watershed/Llanfen\|Llanfen]] |  | place |  | HLAN-ven | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Lord Mayor’s Workhouse\|Lord Mayor’s Workhouse]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Magus Street\|Magus Street]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Marches of Brovna\|Marches of Brovna]] |  | place |  |  | inferred: ancestry: Sembaran |
+| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Marches of Enford\|Marches of Enford]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Maudorville\|Maudorville]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Mill Brook (Roscombe)\|Mill Brook]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Mournebrook\|Mournebrook]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Nordgate\|Nordgate]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Northlands/Northlands\|Northlands]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Orbas\|Orbas]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Peydon\|Peydon]] |  | place |  | Pay-dun | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Queen’s Own Home for Children\|Queen’s Own Home for Children]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Ravignac\|Ravignac]] |  | place |  | RAH-veen-yak | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Tyrwinghan Watershed/Rhewin\|Rhewin]] |  | place |  | RHEH-win | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Rinburg\|Rinburg]] |  | place |  | Rin-burg | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Rindle\|Rindle]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Riversgate\|Riversgate]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Riversgate Inner\|Riversgate Inner]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Riversgate Outer\|Riversgate Outer]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Roscombe\|Roscombe]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Places/Scrollwright Street\|Scrollwright Street]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Teft Watershed/Selgrava\|Selgrava]] |  | place |  | SELL-grah-vah | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Semb Watershed/Semb\|Semb]] | River Semb (Common) | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Sembara\|Sembara]] | Sembaran (Sembaran) | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Serethwyn Tor\|Serethwyn Tor]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Shadowmere\|Shadowmere]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Skepwalk\|Skepwalk]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Southbridge\|Southbridge]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Stavenford\|Stavenford]] |  | place |  | Staven-ford | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Stonewolds\|Stonewolds]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Taviose\|Taviose]] |  | place |  | Ta-vi-ose | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Teft Watershed/Teft\|Teft]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Northlands/Telham\|Telham]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/The Bandit’s End\|The Bandit’s End]] |  | place |  |  | inferred: ancestry: Sembaran |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/The Elegant Swan\|The Elegant Swan]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/The Fox's Flagon\|The Fox’s Flagon]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/The Resting Ox\|The Resting Ox]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/The Setting Sun\|The Setting Sun]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/The Traveler's Rest\|The Traveler's Rest]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Tideswell\|Tideswell]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Places/Fairgrounds (Tollen)\|Tollen Fairgrounds]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Torvaine Watch\|Torvaine Watch]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Tyrwinghan Watershed/Trellyn\|Trellyn]] | River Trellyn (Common); Trellyn River (Common) | place |  | TRELL-yin | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Tumbledown Farm\|Tumbledown Farm]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Tygate\|Tygate]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Umber\|Umber]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Underhill\|Underhill]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Duchy of Maseau/Valarin\|Valarin]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Valcroix\|Valcroix]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Valit\|Valit]] |  | place |  | Val-le | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Vardell\|Vardell]] |  | place | ✓ | VAR-dell | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Velan\|Velan]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Veltor\|Veltor]] |  | place |  | Vel-tor | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Teft Watershed/Vilna\|Vilna]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Volta Watershed/Volta\|Volta]] | River Volta (Common) | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Vostok/Vostok\|Vostok]] | Vosland (Sembaran) | place |  | VOS-tok | explicit: explicit primary-name text, body line 48 (comment) |
+| [[Gazetteer/Greater Sembara/Addermarch/Weskershire\|Weskershire]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/West Stonewolds Caves\|West Stonewolds Caves]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Addermarch/Westcliff\|Westcliff]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Western Marches\|Western Marches]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Western Wall of Sembara\|Western Wall of Sembara]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Wethlin\|Wethlin]] |  | place | ✓ |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Windlea\|Windlea]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Wisford\|Wisford]] |  | place |  | Wis-ford | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Wistel\|Wistel]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Zimkova/Zeyfa's Labyrinth\|Zeyfa's Labyrinth]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Zimkova/Zimkova\|Zimkova]] | Highland Kingdoms (Sembaran) | place |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Campaigns/Cleenseau Campaign/Treasure/Hammer of Vigilance\|Hammer of Vigilance]] |  | object |  |  | inferred: ancestry: Sembaran |
+| [[Things/Books/Serpentine Register\|Serpentine Register]] |  | object |  |  | inferred: ancestry: Addermarian |
+| [[Campaigns/Cleenseau Campaign/Treasure/Warhammer of Vigilance\|Warhammer of Vigilance]] |  | object |  |  | inferred: ancestry: Sembaran |
+| [[Groups/Sembaran Army/Army of Mostreve\|Army of Mostreve]] |  | group |  |  | explicit: explicit primary-name text, body line 7 |
+| [[Groups/Sembaran Noble Houses/Bybets\|Bybets]] | Bybet (Sembaran) | group |  |  | inferred: vault path: Groups/Sembaran |
+| [[Groups/Sembaran Noble Houses/d'Aslains\|d'Aslains]] |  | group |  |  | inferred: vault path: Groups/Sembaran |
+| [[Groups/Sembaran Noble Houses/de Brunes\|de Brunes]] |  | group |  |  | inferred: vault path: Groups/Sembaran |
+| [[Groups/Sembaran Army/Dunfry Regiment\|Dunfry Regiment]] |  | group |  |  | inferred: vault path: Groups/Sembaran |
+| [[Groups/Sembaran Noble Houses/Essfords\|Essfords]] | Essford (Sembaran) | group |  |  | inferred: vault path: Groups/Sembaran |
+| [[Groups/Sembaran Noble Houses/Garay Family\|Garay Family]] |  | group |  |  | inferred: ancestry: Sembaran |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Lord's Council of Cleenseau\|Lord's Council of Cleenseau]] |  | group |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Lord's Guard of Cleenseau\|Lord's Guard of Cleenseau]] |  | group |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Groups/Rangers\|Rangers]] |  | group |  |  | inferred: whereabouts: Greater Sembara |
+| [[Groups/Sembaran Noble Houses/Thornes of Cleenseau\|Thornes of Cleenseau]] |  | group |  |  | inferred: ancestry: Sembaran |
+| [[Gazetteer/Greater Sembara/Sembara/Coinage of Sembara\|Coinage of Sembara]] |  | background |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Hydrology of Tollen\|Hydrology of Tollen]] |  | background |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Land Holding in Sembara\|Land Holding in Sembara]] |  | background |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/List of Places in Greater Sembara\|List of Places in Greater Sembara]] |  | background |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Map of Tollen\|Map of Tollen]] |  | background |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Sembara/Taxes in Sembara\|Taxes in Sembara]] |  | background |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Walls of Tollen\|Walls of Tollen]] |  | background |  |  | inferred: vault path: Gazetteer/Greater Sembara |
+| [[Gazetteer/Greater Sembara/Tollen/Wards of Tollen\|Wards of Tollen]] |  | background |  |  | inferred: vault path: Gazetteer/Greater Sembara |
 
 #### Skaegish
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Gazetteer/Western Green Sea/Realms/Skaer|Skaer]] |  | ancestry | canonical |  |  | inferred: whereabouts: Skaerhem |
-| [[Things/Ships/Flaming Tempest|Flaming Tempest]] |  | object · vehicle | canonical |  |  | inferred: ancestry: Skaer |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Flaming Tempest log books|Flaming Tempest log books]] |  | object · logbook | campaign canon |  |  | inferred: ancestry: Skaer |
-| [[Things/Materials/Skaer Steel|Skaer Steel]] |  | object · material | canonical |  |  | inferred: ancestry: Skaer |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Urgall's scroll|Urgall's scroll]] |  | object · scroll | campaign canon |  |  | inferred: ancestry: Skaer |
-| [[People/Skaer/Iskra|Iskra]] | Laivan Iskra† (Skaegish) | person · human | canonical |  |  | inferred: ancestry: Skaer |
-| [[People/Skaer/Jorma|Jorma]] |  | person · human | canonical |  |  | inferred: ancestry: Skaer |
-| [[People/Historical Figures/Kauno the Mariner|Kauno the Mariner]] |  | person · human | canonical |  |  | inferred: ancestry: Skaer |
-| [[People/Skaer/Kaupa|Kaupa]] |  | person · human | canonical |  |  | inferred: ancestry: Skaer |
-| [[People/Skaer/Skalme|Skalme]] |  | person · human | canonical |  | SKAHL-me | inferred: ancestry: Skaer |
-| [[People/Skaer/Tulvak|Tulvak]] |  | person · human | canonical |  |  | inferred: ancestry: Skaer |
-| [[People/Skaer/Urgall the Black|Urgall the Black]] | Urgall (Skaegish) | person · human | canonical |  |  | inferred: ancestry: Skaer |
-| [[People/Skaer/Vaallinen|Vaallinen]] | Hakeasa Vaallinen† (Skaegish) | person · human | canonical |  | va-lin-en | inferred: ancestry: Skaer |
-| [[Gazetteer/Western Green Sea/Skaerhem/Antaka|Antaka]] |  | place · island | canonical |  | AHN-tah-kah | inferred: whereabouts: Skaerhem |
-| [[Gazetteer/Western Green Sea/Skaerhem/Pikkua|Pikkua]] |  | place · island | canonical |  |  | inferred: whereabouts: {type: home, location: Skaerhem}, Skaerhem |
-| [[Gazetteer/Western Green Sea/Skaerhem/Pyhlla|Pyhlla]] |  | place · town | canonical |  | PIE-hu-lla | inferred: ancestry: Skaer |
-| [[Gazetteer/Western Green Sea/Skaerhem/Vetta|Vetta]] |  | place · island | canonical |  |  | inferred: whereabouts: Skaerhem |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Skaer/Iskra\|Iskra]] | Laivan Iskra† (Skaegish) | person |  |  | inferred: ancestry: Skaer |
+| [[People/Skaer/Jorma\|Jorma]] |  | person |  |  | inferred: ancestry: Skaer |
+| [[People/Historical Figures/Kauno the Mariner\|Kauno the Mariner]] |  | person |  |  | inferred: ancestry: Skaer |
+| [[People/Skaer/Kaupa\|Kaupa]] |  | person |  |  | inferred: ancestry: Skaer |
+| [[People/Skaer/Skalme\|Skalme]] |  | person |  | SKAHL-me | inferred: ancestry: Skaer |
+| [[People/Skaer/Tulvak\|Tulvak]] |  | person |  |  | inferred: ancestry: Skaer |
+| [[People/Skaer/Urgall the Black\|Urgall the Black]] | Urgall (Skaegish) | person |  |  | inferred: ancestry: Skaer |
+| [[People/Skaer/Vaallinen\|Vaallinen]] | Hakeasa Vaallinen† (Skaegish) | person |  | va-lin-en | inferred: ancestry: Skaer |
+| [[Gazetteer/Western Green Sea/Skaerhem/Antaka\|Antaka]] |  | place |  | AHN-tah-kah | inferred: whereabouts: Skaerhem |
+| [[Gazetteer/Western Green Sea/Skaerhem/Pikkua\|Pikkua]] |  | place |  |  | inferred: whereabouts: {type: home, location: Skaerhem}, Skaerhem |
+| [[Gazetteer/Western Green Sea/Skaerhem/Pyhlla\|Pyhlla]] |  | place |  | PIE-hu-lla | inferred: ancestry: Skaer |
+| [[Gazetteer/Western Green Sea/Skaerhem/Vetta\|Vetta]] |  | place |  |  | inferred: whereabouts: Skaerhem |
+| [[Things/Ships/Flaming Tempest\|Flaming Tempest]] |  | object |  |  | inferred: ancestry: Skaer |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Flaming Tempest log books\|Flaming Tempest log books]] |  | object |  |  | inferred: ancestry: Skaer |
+| [[Things/Materials/Skaer Steel\|Skaer Steel]] |  | object |  |  | inferred: ancestry: Skaer |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Urgall's scroll\|Urgall's scroll]] |  | object |  |  | inferred: ancestry: Skaer |
+| [[Gazetteer/Western Green Sea/Realms/Skaer\|Skaer]] |  | ancestry |  |  | inferred: whereabouts: Skaerhem |
 
 #### Tollish
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Groups/Tollen Guilds/Ancient and Honorable Guild of Philosophers|Ancient and Honorable Guild of Philosophers]] | Philosopher's Guild (Tollish) | group · guild | canonical |  |  | explicit: explicit primary-name text, body line 7 |
-| [[Things/Books/Experiments upon the Planar Substance|Experiments upon the Planar Substance]] |  | object · cosmological treatise | canonical |  |  | inferred: ancestry: Tollish |
-| [[Things/Books/Luminastra's Gift|Luminastra's Gift]] |  | object · play | canonical |  |  | inferred: ancestry: Tollish |
-| [[Things/Books/On the Foundations of Madness|On the Foundations of Madness]] |  | object · theological treatise | canonical |  |  | inferred: ancestry: Tollish |
-| [[Things/Books/The Exposition of the Alien Mind|The Exposition of the Alien Mind]] |  | object · cosmological treatise | canonical |  |  | inferred: ancestry: Tollish |
-| [[Things/Books/The Seams Between Worlds|The Seams Between Worlds]] |  | object · cosmological treatise | canonical |  |  | inferred: ancestry: Tollish |
-| [[Things/Magic Items/Tollen Magical Tattoo|Tollen Magical Tattoo]] |  | object · tattoo | canonical |  |  | inferred: ancestry: Tollender |
-| [[Things/Ships/Vindristjarna|Vindristjarna]] | Star on the Wind (Common) | object · skyship | canonical |  | vin-dree-SHAR-na | inferred: whereabouts: {type: home, location: unknown storm giant}, {type: home, location: dufr}, {type: away, start: 1748-12-03, end: 1748-12-10, location: Uzgukhar}, {type: away, start: 1748-12-28, end: 1749-01-04, location: Tollen}, {type: away, start: 1749-01-15, end: 1749-01-16, location: Orenlas}, {type: away, start: 1749-01-17, end: 1749-01-19, location: traveling to Xurkhaz}, {type: away, start: 1749-01-20, end: 1749-01-24, location: Uzgukhar}, {type: away, start: 1749-01-25, end: 1749-01-30, location: Nashtkar}, {type: away, start: 1749-03-13, end: 1749-03-16, location: Vostok}, {type: away, start: 1749-03-17, end: 1749-03-18, location: Sivnjo Mountains}, {type: away, start: 1749-05-30, end: 9999, location: Garamjala Desert}, {type: away, start: 1749-06-14, end: 9999, location: Gulf of Chardon}, unknown storm giant, dufr, Uzgukhar, Tollen, Orenlas, traveling to Xurkhaz, Nashtkar, Vostok, Sivnjo Mountains, Garamjala Desert, Gulf of Chardon |
-| [[People/Tollenders/Adam Gower|Adam Gower]] |  | person · human | canonical |  |  | inferred: ancestry: Tollender |
-| [[People/Other Humans/Arryn|Arryn of Tollen]] |  | person · human | canonical |  |  | inferred: ancestry: Tollender |
-| [[People/PCs/Other PCs/Tollen Misfits/Ayveen|Ayveen]] |  | person · human | canonical |  | AY-veen | inferred: ancestry: Tollish |
-| [[People/Fey/Caelynn|Caelynn the Seer]] |  | person · fey | canonical |  |  | explicit: explicit primary-name text, body line 7 |
-| [[People/Tollenders/Cecilia Lister|Cecilia Lister]] |  | person · human | canonical |  |  | inferred: ancestry: Tollender |
-| [[People/Tollenders/Delios the Sage|Delios the Sage]] |  | person · human | canonical |  |  | inferred: ancestry: Tollender |
-| [[People/PCs/Other PCs/Tollen Misfits/Edric|Edric]] |  | person · human | canonical |  |  | inferred: whereabouts: {type: home, location: Wickerley}, {type: home, location: Tollen}, Wickerley, Tollen |
-| [[People/Sembarans/Gareth of Tollen|Gareth of Tollen]] |  | person · human | canonical |  |  | inferred: ancestry: Tollender |
-| [[People/Tollenders/Heloise of Tollen|Heloise of Tollen]] |  | person · human | canonical |  |  | inferred: ancestry: Tollish |
-| [[People/Historical Figures/Ishara Venn|Ishara Venn]] |  | person · human | canonical |  |  | inferred: ancestry: Tollish |
-| [[People/Tollenders/Jane Chapman|Jane Chapman]] | Captain Jane Chapman† (Tollish) | person · human | canonical |  |  | inferred: ancestry: Tollender |
-| [[People/Historical Figures/Sembaran Royalty/Jane of Tollen|Jane of Tollen]] |  | person · human | canonical |  |  | inferred: ancestry: Tollender |
-| [[People/PCs/Other PCs/Tollen Misfits/Mossfoot|Mossfoot]] |  | person · pony | canonical |  |  | inferred: whereabouts: {type: home, location: Tollen}, {type: away, start: 1740-10-04, location: Dandelion House}, Tollen, Dandelion House |
-| [[People/Tollenders/Nicole Ardouin|Nicole Ardouin]] |  | person · human | canonical |  |  | inferred: ancestry: Tollish |
-| [[People/Tollenders/Nika Hyne|Nika Hyne]] | Nika (Tollish) | person · human | canonical |  |  | inferred: ancestry: Tollender |
-| [[People/Historical Figures/Sembaran Royalty/Rowena Chemare|Rowena Chemare]] |  | person · human | canonical |  |  | inferred: ancestry: Tollender |
-| [[People/PCs/Other PCs/Tollen Misfits/Tarek|Tarek]] |  | person · human | canonical |  |  | inferred: ancestry: Tollish |
-| [[People/Tollenders/Thomas Hawke|Thomas Hawke]] |  | person · human | canonical |  |  | explicit: explicit primary-name text, body line 11 |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Brooklawn Outer|Brooklawn Outer]] |  | place · ward | canonical |  |  | explicit: explicit primary-name text, body line 6 |
-| [[Gazetteer/Eastern Green Sea/Eastern Isles|Eastern Isles]] | Wandering Isles (Tollish) | place · archipelago | canonical |  |  | explicit: explicit primary-name text, body line 6 |
-| [[Gazetteer/Greater Sembara/Tollen/Wards/Fairgate Outer|Fairgate Outer]] |  | place · ward | canonical |  |  | explicit: explicit primary-name text, body line 8 |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Tollenders/Adam Gower\|Adam Gower]] |  | person |  |  | inferred: ancestry: Tollender |
+| [[People/Other Humans/Arryn\|Arryn of Tollen]] |  | person |  |  | inferred: ancestry: Tollender |
+| [[People/PCs/Other PCs/Tollen Misfits/Ayveen\|Ayveen]] |  | person |  | AY-veen | inferred: ancestry: Tollish |
+| [[People/Fey/Caelynn\|Caelynn the Seer]] |  | person |  |  | explicit: explicit primary-name text, body line 7 |
+| [[People/Tollenders/Cecilia Lister\|Cecilia Lister]] |  | person |  |  | inferred: ancestry: Tollender |
+| [[People/Tollenders/Delios the Sage\|Delios the Sage]] |  | person |  |  | inferred: ancestry: Tollender |
+| [[People/PCs/Other PCs/Tollen Misfits/Edric\|Edric]] |  | person |  |  | inferred: whereabouts: {type: home, location: Wickerley}, {type: home, location: Tollen}, Wickerley, Tollen |
+| [[People/Sembarans/Gareth of Tollen\|Gareth of Tollen]] |  | person |  |  | inferred: ancestry: Tollender |
+| [[People/Tollenders/Heloise of Tollen\|Heloise of Tollen]] |  | person |  |  | inferred: ancestry: Tollish |
+| [[People/Historical Figures/Ishara Venn\|Ishara Venn]] |  | person |  |  | inferred: ancestry: Tollish |
+| [[People/Tollenders/Jane Chapman\|Jane Chapman]] | Captain Jane Chapman† (Tollish) | person |  |  | inferred: ancestry: Tollender |
+| [[People/Historical Figures/Sembaran Royalty/Jane of Tollen\|Jane of Tollen]] |  | person |  |  | inferred: ancestry: Tollender |
+| [[People/PCs/Other PCs/Tollen Misfits/Mossfoot\|Mossfoot]] |  | person |  |  | inferred: whereabouts: {type: home, location: Tollen}, {type: away, start: 1740-10-04, location: Dandelion House}, Tollen, Dandelion House |
+| [[People/Tollenders/Nicole Ardouin\|Nicole Ardouin]] |  | person |  |  | inferred: ancestry: Tollish |
+| [[People/Tollenders/Nika Hyne\|Nika Hyne]] | Nika (Tollish) | person |  |  | inferred: ancestry: Tollender |
+| [[People/Historical Figures/Sembaran Royalty/Rowena Chemare\|Rowena Chemare]] |  | person |  |  | inferred: ancestry: Tollender |
+| [[People/PCs/Other PCs/Tollen Misfits/Tarek\|Tarek]] |  | person |  |  | inferred: ancestry: Tollish |
+| [[People/Tollenders/Thomas Hawke\|Thomas Hawke]] |  | person |  |  | explicit: explicit primary-name text, body line 11 |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Brooklawn Outer\|Brooklawn Outer]] |  | place |  |  | explicit: explicit primary-name text, body line 6 |
+| [[Gazetteer/Eastern Green Sea/Eastern Isles\|Eastern Isles]] | Wandering Isles (Tollish) | place |  |  | explicit: explicit primary-name text, body line 6 |
+| [[Gazetteer/Greater Sembara/Tollen/Wards/Fairgate Outer\|Fairgate Outer]] |  | place |  |  | explicit: explicit primary-name text, body line 8 |
+| [[Things/Books/Experiments upon the Planar Substance\|Experiments upon the Planar Substance]] |  | object |  |  | inferred: ancestry: Tollish |
+| [[Things/Books/Luminastra's Gift\|Luminastra's Gift]] |  | object |  |  | inferred: ancestry: Tollish |
+| [[Things/Books/On the Foundations of Madness\|On the Foundations of Madness]] |  | object |  |  | inferred: ancestry: Tollish |
+| [[Things/Books/The Exposition of the Alien Mind\|The Exposition of the Alien Mind]] |  | object |  |  | inferred: ancestry: Tollish |
+| [[Things/Books/The Seams Between Worlds\|The Seams Between Worlds]] |  | object |  |  | inferred: ancestry: Tollish |
+| [[Things/Magic Items/Tollen Magical Tattoo\|Tollen Magical Tattoo]] |  | object |  |  | inferred: ancestry: Tollender |
+| [[Things/Ships/Vindristjarna\|Vindristjarna]] | Star on the Wind (Common) | object |  | vin-dree-SHAR-na | inferred: whereabouts: {type: home, location: unknown storm giant}, {type: home, location: dufr}, {type: away, start: 1748-12-03, end: 1748-12-10, location: Uzgukhar}, {type: away, start: 1748-12-28, end: 1749-01-04, location: Tollen}, {type: away, start: 1749-01-15, end: 1749-01-16, location: Orenlas}, {type: away, start: 1749-01-17, end: 1749-01-19, location: traveling to Xurkhaz}, {type: away, start: 1749-01-20, end: 1749-01-24, location: Uzgukhar}, {type: away, start: 1749-01-25, end: 1749-01-30, location: Nashtkar}, {type: away, start: 1749-03-13, end: 1749-03-16, location: Vostok}, {type: away, start: 1749-03-17, end: 1749-03-18, location: Sivnjo Mountains}, {type: away, start: 1749-05-30, end: 9999, location: Garamjala Desert}, {type: away, start: 1749-06-14, end: 9999, location: Gulf of Chardon}, unknown storm giant, dufr, Uzgukhar, Tollen, Orenlas, traveling to Xurkhaz, Nashtkar, Vostok, Sivnjo Mountains, Garamjala Desert, Gulf of Chardon |
+| [[Groups/Tollen Guilds/Ancient and Honorable Guild of Philosophers\|Ancient and Honorable Guild of Philosophers]] | Philosopher's Guild (Tollish) | group |  |  | explicit: explicit primary-name text, body line 7 |
 
 #### Urskan
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Groups/Urskan Magical Organizations/Eyes of Vedmakov|Eyes of Vedmakov]] | Watchers (Urskan); Okolov (Urskan) | group · magical bloodline | canonical |  |  | inferred: ancestry: Urskan |
-| [[Groups/Urskan Magical Organizations/Rodnya Kinzal|Rodnya Kinzal]] |  | group · magical bloodline | canonical |  |  | inferred: ancestry: Urskan |
-| [[Groups/Urskan Magical Organizations/Rodnya Morozmir|Rodnya Morozmir]] |  | group · magical bloodline | canonical |  |  | inferred: ancestry: Urskan |
-| [[Groups/Urskan Magical Organizations/Rodnya Nivik|Rodnya Nivik]] |  | group · magical bloodline | canonical |  |  | inferred: ancestry: Urskan |
-| [[Groups/Urskan Magical Organizations/Rodnya Voknaz|Rodnya Voknaz]] |  | group · magical bloodline | canonical |  |  | inferred: ancestry: Urskan |
-| [[Groups/Urskan Magical Organizations/Rodnya Zoryana|Rodnya Zoryana]] |  | group · magical bloodline | canonical |  |  | inferred: ancestry: Urskan |
-| [[Groups/Urskan Magical Organizations/Rodnya|Rodnye]] |  | group · magical bloodlines | canonical |  |  | inferred: ancestry: Urskan |
-| [[Things/Magic Items/Dragonhide Armor|Dragonhide Armor]] |  | object · armor | canonical |  |  | inferred: ancestry: Urskan |
-| [[Things/Magic Items/Frostshard Weapons|Frostshard Weapons]] |  | object · weapon | canonical |  |  | inferred: ancestry: Urskan |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Watcher's Dagger|Watcher's Dagger]] |  | object · dagger | campaign canon |  |  | inferred: ancestry: Urskan |
-| [[People/PCs/Dunmar Fellowship/Guests/Artem Novolozek|Artem Novolozek]] | Artem (Urskan) | person · human | canonical |  |  | inferred: ancestry: Urskan |
-| [[People/Other Humans/Branek Mirov|Branek Mirov]] |  | person · human | canonical |  |  | inferred: ancestry: Urskan |
-| [[People/Other Humans/Fyodar|Fyodar]] |  | person · human | canonical |  |  | inferred: ancestry: Urskan |
-| [[People/Other Humans/Jela Drask|Jela Drask]] |  | person · human | canonical |  | YEH-lah DRask | inferred: ancestry: Urskan |
-| [[People/Other Humans/Karel|Karel]] |  | person · human | canonical |  |  | inferred: ancestry: Urskan |
-| [[People/Other Humans/Lena Sorokina|Lena Sorokina]] | Lena (Urskan) | person · human | canonical |  |  | inferred: ancestry: Urskan |
-| [[People/Other Humans/Olen Vrask|Olen Vrask]] |  | person · human | canonical |  |  | inferred: ancestry: Urskan |
-| [[People/Other Humans/Radomir|Radomir]] |  | person · human | canonical |  |  | inferred: ancestry: Urskan |
-| [[People/Other Humans/Roman|Roman]] |  | person · human | canonical |  |  | inferred: ancestry: Urskan |
-| [[People/Other Humans/Yelena|Yelena]] |  | person · human | canonical |  |  | inferred: ancestry: Urskan |
-| [[Gazetteer/Northern Green Sea/Rivers/Beyil|Beyil]] |  | place · river | canonical |  | BEY-eel | explicit: explicit primary-name text, body line 7 |
-| [[Gazetteer/Northern Green Sea/Rivers/Dalinka|Dalinka]] |  | place · river | canonical |  | DAH-link-ah | inferred: whereabouts: Ursk |
-| [[Gazetteer/Northern Green Sea/Rivers/Leis|Leis]] |  | place · river | canonical |  | LEE-is | inferred: whereabouts: Ursk |
-| [[Gazetteer/Northern Green Sea/Ursk/Marinsk|Marinsk]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Northern Green Sea/Ursk |
-| [[Gazetteer/Northern Green Sea/Ursk/Praznitsky|Praznitsky]] |  | place · trading city | canonical |  | PRAZ-niht-skee | inferred: ancestry: Urskan |
-| [[Gazetteer/Northern Green Sea/Rivers/Sovo|Sovo]] |  | place · river | canonical |  |  | inferred: whereabouts: Ursk |
-| [[Gazetteer/Northern Green Sea/Ursk/Ursk|Ursk]] | Urskan (Urskan) | place · secretive magocracy | canonical |  |  | inferred: vault path: Gazetteer/Northern Green Sea/Ursk |
-| [[Gazetteer/Northern Green Sea/Ursk/Vedmakov|Vedmakov]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Northern Green Sea/Ursk |
-| [[Gazetteer/Northern Green Sea/Ursk/Volya|Volya]] |  | place · trading post | canonical |  | VOH-leeah | inferred: vault path: Gazetteer/Northern Green Sea/Ursk |
-| [[Gazetteer/Northern Green Sea/Ursk/Vorongrad|Vorongrad]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Northern Green Sea/Ursk |
-| [[Gazetteer/Northern Green Sea/Ursk/Watcher's Spire|Watcher's Spire]] |  | place · tower | canonical |  |  | inferred: vault path: Gazetteer/Northern Green Sea/Ursk |
-| [[Gazetteer/Northern Green Sea/Ursk/Yamgov|Yamgov]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Northern Green Sea/Ursk |
-| [[Gazetteer/Northern Green Sea/Ursk/Zakat|Zakat]] |  | place · trading city | canonical |  | zuh-KAHT | inferred: ancestry: Urskan |
-| [[Gazetteer/Northern Green Sea/Ursk/Zvervinka|Zvervinka]] |  | place · city | canonical |  | ZVEHR-veen-ka | inferred: vault path: Gazetteer/Northern Green Sea/Ursk |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/PCs/Dunmar Fellowship/Guests/Artem Novolozek\|Artem Novolozek]] | Artem (Urskan) | person |  |  | inferred: ancestry: Urskan |
+| [[People/Other Humans/Branek Mirov\|Branek Mirov]] |  | person |  |  | inferred: ancestry: Urskan |
+| [[People/Other Humans/Fyodar\|Fyodar]] |  | person |  |  | inferred: ancestry: Urskan |
+| [[People/Other Humans/Jela Drask\|Jela Drask]] |  | person |  | YEH-lah DRask | inferred: ancestry: Urskan |
+| [[People/Other Humans/Karel\|Karel]] |  | person |  |  | inferred: ancestry: Urskan |
+| [[People/Other Humans/Lena Sorokina\|Lena Sorokina]] | Lena (Urskan) | person |  |  | inferred: ancestry: Urskan |
+| [[People/Other Humans/Olen Vrask\|Olen Vrask]] |  | person |  |  | inferred: ancestry: Urskan |
+| [[People/Other Humans/Radomir\|Radomir]] |  | person |  |  | inferred: ancestry: Urskan |
+| [[People/Other Humans/Roman\|Roman]] |  | person |  |  | inferred: ancestry: Urskan |
+| [[People/Other Humans/Yelena\|Yelena]] |  | person |  |  | inferred: ancestry: Urskan |
+| [[Gazetteer/Northern Green Sea/Rivers/Beyil\|Beyil]] |  | place |  | BEY-eel | explicit: explicit primary-name text, body line 7 |
+| [[Gazetteer/Northern Green Sea/Rivers/Dalinka\|Dalinka]] |  | place |  | DAH-link-ah | inferred: whereabouts: Ursk |
+| [[Gazetteer/Northern Green Sea/Rivers/Leis\|Leis]] |  | place |  | LEE-is | inferred: whereabouts: Ursk |
+| [[Gazetteer/Northern Green Sea/Ursk/Marinsk\|Marinsk]] |  | place |  |  | inferred: vault path: Gazetteer/Northern Green Sea/Ursk |
+| [[Gazetteer/Northern Green Sea/Ursk/Praznitsky\|Praznitsky]] |  | place |  | PRAZ-niht-skee | inferred: ancestry: Urskan |
+| [[Gazetteer/Northern Green Sea/Rivers/Sovo\|Sovo]] |  | place |  |  | inferred: whereabouts: Ursk |
+| [[Gazetteer/Northern Green Sea/Ursk/Ursk\|Ursk]] | Urskan (Urskan) | place |  |  | inferred: vault path: Gazetteer/Northern Green Sea/Ursk |
+| [[Gazetteer/Northern Green Sea/Ursk/Vedmakov\|Vedmakov]] |  | place |  |  | inferred: vault path: Gazetteer/Northern Green Sea/Ursk |
+| [[Gazetteer/Northern Green Sea/Ursk/Volya\|Volya]] |  | place |  | VOH-leeah | inferred: vault path: Gazetteer/Northern Green Sea/Ursk |
+| [[Gazetteer/Northern Green Sea/Ursk/Vorongrad\|Vorongrad]] |  | place |  |  | inferred: vault path: Gazetteer/Northern Green Sea/Ursk |
+| [[Gazetteer/Northern Green Sea/Ursk/Watcher's Spire\|Watcher's Spire]] |  | place |  |  | inferred: vault path: Gazetteer/Northern Green Sea/Ursk |
+| [[Gazetteer/Northern Green Sea/Ursk/Yamgov\|Yamgov]] |  | place |  |  | inferred: vault path: Gazetteer/Northern Green Sea/Ursk |
+| [[Gazetteer/Northern Green Sea/Ursk/Zakat\|Zakat]] |  | place |  | zuh-KAHT | inferred: ancestry: Urskan |
+| [[Gazetteer/Northern Green Sea/Ursk/Zvervinka\|Zvervinka]] |  | place |  | ZVEHR-veen-ka | inferred: vault path: Gazetteer/Northern Green Sea/Ursk |
+| [[Things/Magic Items/Dragonhide Armor\|Dragonhide Armor]] |  | object |  |  | inferred: ancestry: Urskan |
+| [[Things/Magic Items/Frostshard Weapons\|Frostshard Weapons]] |  | object |  |  | inferred: ancestry: Urskan |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Watcher's Dagger\|Watcher's Dagger]] |  | object |  |  | inferred: ancestry: Urskan |
+| [[Groups/Urskan Magical Organizations/Eyes of Vedmakov\|Eyes of Vedmakov]] | Watchers (Urskan); Okolov (Urskan) | group |  |  | inferred: ancestry: Urskan |
+| [[Groups/Urskan Magical Organizations/Rodnya Kinzal\|Rodnya Kinzal]] |  | group |  |  | inferred: ancestry: Urskan |
+| [[Groups/Urskan Magical Organizations/Rodnya Morozmir\|Rodnya Morozmir]] |  | group |  |  | inferred: ancestry: Urskan |
+| [[Groups/Urskan Magical Organizations/Rodnya Nivik\|Rodnya Nivik]] |  | group |  |  | inferred: ancestry: Urskan |
+| [[Groups/Urskan Magical Organizations/Rodnya Voknaz\|Rodnya Voknaz]] |  | group |  |  | inferred: ancestry: Urskan |
+| [[Groups/Urskan Magical Organizations/Rodnya Zoryana\|Rodnya Zoryana]] |  | group |  |  | inferred: ancestry: Urskan |
+| [[Groups/Urskan Magical Organizations/Rodnya\|Rodnye]] |  | group |  |  | inferred: ancestry: Urskan |
 
 #### Zimkovan
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[People/Sembarans/Avelina Smith|Avelina Smith]] |  | person · human | canonical |  |  | inferred: ancestry: Zimka |
-| [[People/Sembarans/Elaine|Elaine]] |  | person · human | canonical |  |  | inferred: ancestry: Zimka |
-| [[People/Sembarans/Kalima|Kalima]] |  | person · human | canonical |  |  | inferred: ancestry: Zimka |
-| [[People/Sembarans/Selma Wisthelwind|Selma Wisthelwind]] |  | person · human | canonical |  |  | inferred: ancestry: Zimka |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Sembarans/Avelina Smith\|Avelina Smith]] |  | person |  |  | inferred: ancestry: Zimka |
+| [[People/Sembarans/Elaine\|Elaine]] |  | person |  |  | inferred: ancestry: Zimka |
+| [[People/Sembarans/Kalima\|Kalima]] |  | person |  |  | inferred: ancestry: Zimka |
+| [[People/Sembarans/Selma Wisthelwind\|Selma Wisthelwind]] |  | person |  |  | inferred: ancestry: Zimka |
 
 ### Exotic
 
 #### Centaur
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[People/Other Nonhumans/Aris|Aris]] |  | person · centaur | canonical |  |  | inferred: species: centaur |
-| [[People/Other Nonhumans/Aurelia|Aurelia]] |  | person · centaur | canonical |  |  | inferred: species: centaur |
-| [[People/Historical Figures/Chironides the Wanderer|Chironides the Wanderer]] |  | person · centaur | canonical |  |  | inferred: species: centaur |
-| [[People/Other Nonhumans/Herasto|Herasto]] |  | person · centaur | canonical |  |  | inferred: species: centaur |
-| [[People/Other Nonhumans/Kaelion the Elder|Kaelion the Elder]] |  | person · centaur | canonical |  |  | inferred: species: centaur |
-| [[People/Other Nonhumans/Omphale|Omphale]] |  | person · centaur | canonical |  |  | inferred: species: centaur |
-| [[People/Other Nonhumans/Tharandros|Tharandros]] |  | person · centaur | canonical |  | tha-RAN-dros | inferred: species: centaur |
-| [[People/Other Nonhumans/Theopheia|Theopheia]] |  | person · centaur | canonical |  |  | inferred: species: centaur |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Other Nonhumans/Aris\|Aris]] |  | person |  |  | inferred: species: centaur |
+| [[People/Other Nonhumans/Aurelia\|Aurelia]] |  | person |  |  | inferred: species: centaur |
+| [[People/Historical Figures/Chironides the Wanderer\|Chironides the Wanderer]] |  | person |  |  | inferred: species: centaur |
+| [[People/Other Nonhumans/Herasto\|Herasto]] |  | person |  |  | inferred: species: centaur |
+| [[People/Other Nonhumans/Kaelion the Elder\|Kaelion the Elder]] |  | person |  |  | inferred: species: centaur |
+| [[People/Other Nonhumans/Omphale\|Omphale]] |  | person |  |  | inferred: species: centaur |
+| [[People/Other Nonhumans/Tharandros\|Tharandros]] |  | person |  | tha-RAN-dros | inferred: species: centaur |
+| [[People/Other Nonhumans/Theopheia\|Theopheia]] |  | person |  |  | inferred: species: centaur |
 
 #### Giant
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Hralgar's Phasing Stone|Hralgar's Phasing Stone]] |  | object · phasing stone | campaign canon |  |  | inferred: ancestry: giant |
-| [[Things/Books/Tales Before the Fall|Tales Before the Fall]] |  | object · mythic history | canonical |  |  | explicit: explicit primary-name text, body line 6 |
-| [[People/Giants/Algerd|Algerd]] |  | person · giant | canonical |  |  | inferred: species: giant, frost |
-| [[People/Giants/Bjarnfrost|Bjarnfrost]] | King Bjarnfrost† (Giant) | person · giant | canonical |  |  | inferred: species: giant, frost |
-| [[People/Other Nonhumans/Breda Mistweaver|Breda Mistweaver]] |  | person · giant | canonical |  |  | inferred: species: giant, cloud giant |
-| [[People/Giants/Brimskarda|Brimskarda]] | King Brimskarda† (Giant) | person · giant | canonical |  |  | inferred: species: giant, frost |
-| [[People/Giants/Brunnar|Brunnar]] |  | person · giant | canonical |  |  | inferred: species: giant, stone |
-| [[People/Giants/Dhrukmir|Dhrukmir]] |  | person · giant | canonical |  |  | inferred: species: giant |
-| [[People/Giants/Freyvidra|Freyvidra]] |  | person | canonical |  |  | inferred: vault path: People/Giants |
-| [[People/Giants/Hralgar|Hralgar]] |  | person · giant | canonical |  |  | inferred: species: giant, storm giant |
-| [[People/Giants/Jorundr|Jorundr]] |  | person | canonical |  |  | inferred: vault path: People/Giants |
-| [[People/Historical Figures/Mavdyr|Mavdyr]] |  | person · giant | canonical |  |  | inferred: species: giant, fire giant |
-| [[People/Historical Figures/Odim Mavdyrson|Odim Mavdyrson]] |  | person · giant | canonical |  |  | inferred: species: giant, fire giant |
-| [[People/Other Nonhumans/Samerki|Samerki]] |  | person · giant | canonical |  |  | inferred: species: giant, oni |
-| [[People/Giants/Storvalda|Storvalda]] |  | person | canonical |  |  | inferred: vault path: People/Giants |
-| [[People/Giants/Vondar|Vondar]] |  | person · giant | canonical |  |  | inferred: species: giant, cursed |
-| [[People/Historical Figures/Zegron|Zegron]] |  | person · giant | canonical |  |  | inferred: species: giant, fire giant |
-| [[Gazetteer/Northern Green Sea/Isenborg|Isenborg]] |  | place · steading | canonical |  | EE-zen-borg | inferred: ancestry: frost giant |
-| [[Gazetteer/Northern Green Sea/Kaldhalla|Kaldhalla]] |  | place · monarchy | canonical |  | KAHL-hal-lah | inferred: ancestry: frost giant |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Ulgrathar|Ulgrathar]] |  | place · kingdom | canonical |  | ool-GRAH-thar | inferred: ancestry: giant |
-| [[Gazetteer/Central Highlands/Vangebekkr|Vangebekkr]] |  | place · castle | canonical |  |  | inferred: ancestry: frost giant |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Giants/Algerd\|Algerd]] |  | person |  |  | inferred: species: giant, frost |
+| [[People/Giants/Bjarnfrost\|Bjarnfrost]] | King Bjarnfrost† (Giant) | person |  |  | inferred: species: giant, frost |
+| [[People/Other Nonhumans/Breda Mistweaver\|Breda Mistweaver]] |  | person |  |  | inferred: species: giant, cloud giant |
+| [[People/Giants/Brimskarda\|Brimskarda]] | King Brimskarda† (Giant) | person |  |  | inferred: species: giant, frost |
+| [[People/Giants/Brunnar\|Brunnar]] |  | person |  |  | inferred: species: giant, stone |
+| [[People/Giants/Dhrukmir\|Dhrukmir]] |  | person |  |  | inferred: species: giant |
+| [[People/Giants/Freyvidra\|Freyvidra]] |  | person |  |  | inferred: vault path: People/Giants |
+| [[People/Giants/Hralgar\|Hralgar]] |  | person |  |  | inferred: species: giant, storm giant |
+| [[People/Giants/Jorundr\|Jorundr]] |  | person |  |  | inferred: vault path: People/Giants |
+| [[People/Historical Figures/Mavdyr\|Mavdyr]] |  | person |  |  | inferred: species: giant, fire giant |
+| [[People/Historical Figures/Odim Mavdyrson\|Odim Mavdyrson]] |  | person |  |  | inferred: species: giant, fire giant |
+| [[People/Other Nonhumans/Samerki\|Samerki]] |  | person |  |  | inferred: species: giant, oni |
+| [[People/Giants/Storvalda\|Storvalda]] |  | person |  |  | inferred: vault path: People/Giants |
+| [[People/Giants/Vondar\|Vondar]] |  | person |  |  | inferred: species: giant, cursed |
+| [[People/Historical Figures/Zegron\|Zegron]] |  | person |  |  | inferred: species: giant, fire giant |
+| [[Gazetteer/Northern Green Sea/Isenborg\|Isenborg]] |  | place |  | EE-zen-borg | inferred: ancestry: frost giant |
+| [[Gazetteer/Northern Green Sea/Kaldhalla\|Kaldhalla]] |  | place |  | KAHL-hal-lah | inferred: ancestry: frost giant |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Ulgrathar\|Ulgrathar]] |  | place |  | ool-GRAH-thar | inferred: ancestry: giant |
+| [[Gazetteer/Central Highlands/Vangebekkr\|Vangebekkr]] |  | place |  |  | inferred: ancestry: frost giant |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Hralgar's Phasing Stone\|Hralgar's Phasing Stone]] |  | object |  |  | inferred: ancestry: giant |
+| [[Things/Books/Tales Before the Fall\|Tales Before the Fall]] |  | object |  |  | explicit: explicit primary-name text, body line 6 |
 
 #### Kenku
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Kenku Glamoured Armor|Kenku Glamoured Armor]] |  | object · armor | campaign canon |  |  | inferred: ancestry: kenku |
-| [[People/PCs/Great War/Aerin|Aerin]] |  | person · kenku | canonical |  |  | inferred: species: kenku |
-| [[People/Kenku/Kecha|Kecha]] |  | person · kenku | canonical |  |  | inferred: species: kenku |
-| [[People/Kenku/Makha|Makha]] |  | person · kenku | canonical |  | MAH-kah | inferred: species: kenku |
-| [[People/Kenku/Nahto|Nahto]] |  | person · kenku | canonical |  |  | inferred: species: kenku |
-| [[People/Sembarans/Pakrinek|Pakrinek]] |  | person · kenku | canonical |  | PACK-ree-neck | inferred: species: kenku |
-| [[People/PCs/Dunmar Fellowship/Guests/Rufus|Rufus]] |  | person · kenku | canonical |  |  | inferred: species: kenku |
-| [[People/Kenku/Skoda|Skoda]] |  | person · kenku | canonical |  |  | inferred: species: kenku |
-| [[Gazetteer/Eastern Green Sea/Wahacha|Wahacha]] |  | place · port town | canonical |  |  | inferred: ancestry: kenku |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/PCs/Great War/Aerin\|Aerin]] |  | person |  |  | inferred: species: kenku |
+| [[People/Kenku/Kecha\|Kecha]] |  | person |  |  | inferred: species: kenku |
+| [[People/Kenku/Makha\|Makha]] |  | person |  | MAH-kah | inferred: species: kenku |
+| [[People/Kenku/Nahto\|Nahto]] |  | person |  |  | inferred: species: kenku |
+| [[People/Sembarans/Pakrinek\|Pakrinek]] |  | person |  | PACK-ree-neck | inferred: species: kenku |
+| [[People/PCs/Dunmar Fellowship/Guests/Rufus\|Rufus]] |  | person |  |  | inferred: species: kenku |
+| [[People/Kenku/Skoda\|Skoda]] |  | person |  |  | inferred: species: kenku |
+| [[Gazetteer/Eastern Green Sea/Wahacha\|Wahacha]] |  | place |  |  | inferred: ancestry: kenku |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Kenku Glamoured Armor\|Kenku Glamoured Armor]] |  | object |  |  | inferred: ancestry: kenku |
 
 #### Merfolk
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[People/Other Nonhumans/Illius|Illius]] |  | person · merfolk | canonical |  |  | inferred: species: merfolk |
-| [[Cosmology/Energy Realms/Elemental Plane of Water|Elemental Plane of Water]] |  | place · plane | canonical |  |  | explicit: explicit primary-name text, body line 24 |
-| [[Gazetteer/Faraway Places/Omi|Omi]] |  | place · underwater city | canonical |  |  | inferred: ancestry: merfolk |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Other Nonhumans/Illius\|Illius]] |  | person |  |  | inferred: species: merfolk |
+| [[Cosmology/Energy Realms/Elemental Plane of Water\|Elemental Plane of Water]] |  | place |  |  | explicit: explicit primary-name text, body line 24 |
+| [[Gazetteer/Faraway Places/Omi\|Omi]] |  | place |  |  | inferred: ancestry: merfolk |
 
 ### Extraplanar
 
 #### Primordial
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Things/Books/Studies of the Aerial Sphere|Studies of the Aerial Sphere]] |  | object · cosmological monograph series | canonical |  |  | explicit: explicit primary-name text, body line 6 |
-| [[Things/Books/The Lay of Estar|The Lay of Estar]] |  | object · poem | canonical |  |  | explicit: explicit primary-name text, body line 6 |
-| [[People/Extraplanar Powers/Gazankoa|Gazankoa]] |  | power · elder elemental | canonical |  |  | explicit: explicit primary-name text, body line 14 (comment) |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Extraplanar Powers/Gazankoa\|Gazankoa]] |  | power |  |  | explicit: explicit primary-name text, body line 14 (comment) |
+| [[Things/Books/Studies of the Aerial Sphere\|Studies of the Aerial Sphere]] |  | object |  |  | explicit: explicit primary-name text, body line 6 |
+| [[Things/Books/The Lay of Estar\|The Lay of Estar]] |  | object |  |  | explicit: explicit primary-name text, body line 6 |
 
 #### Sylvan
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Creatures/Fey/Fae|Fae]] |  | creature | canonical |  |  | explicit: explicit primary-name text, body line 13 |
-| [[Gazetteer/Extraplanar/Feywild/Twilight Court|Twilight Court]] |  | group · fey court | canonical |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Obsidian Fly|Agata's Obsidian Fly]] |  | object · figurine | campaign canon |  |  | inferred: ancestry: fey |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Raven Whistle|Agata's Raven Whistle]] |  | object · instrument | campaign canon |  |  | inferred: ancestry: fey |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Agata's Wooden Figurines|Agata's Wooden Figurines]] |  | object · figurines | campaign canon |  |  | inferred: ancestry: fey |
-| [[Gazetteer/Extraplanar/Feywild/Amberglow/Amberlight|Amberlight]] |  | object · glowing crystal | canonical |  |  | inferred: ancestry: fey |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Augury Mirrors|Augury Mirrors]] |  | object · mirror | campaign canon |  |  | inferred: ancestry: fey |
-| [[Campaigns/Cleenseau Campaign/Treasure/Gem of Spell Storing|Gem of Spell Storing]] |  | object · gem | campaign canon |  |  | inferred: ancestry: Fey |
-| [[Campaigns/Cleenseau Campaign/Treasure/Lantern of the Bright Hearth|Lantern of the Bright Hearth]] |  | object · lantern | campaign canon |  |  | inferred: ancestry: fey |
-| [[Campaigns/Cleenseau Campaign/Treasure/Pipes of Insect Control|Pipes of Insect Control]] |  | object · pipes | campaign canon |  |  | inferred: ancestry: fey |
-| [[People/Fey/Aelirios Sunblade|Aelirios Sunblade]] |  | person · fey | canonical |  | Ah-ler-ee-os Sun-blade | inferred: species: fey |
-| [[People/Fey/Aenaphos|Aenaphos]] |  | person · fey | canonical |  | AYN-ah-fohs | inferred: species: fey |
-| [[People/Fey/Agata|Agata Dustmother]] | Old Woman of the Dusts (Sylvan); Dasoclese (Sylvan) | person · fey | canonical |  |  | inferred: species: fey, hag |
-| [[People/Fey/Ampelos|Ampelos]] |  | person · fey | canonical |  |  | inferred: species: fey, satyr |
-| [[People/Fey/Arendel|Arendel]] |  | person · fey | canonical |  | AARON-dell | inferred: species: fey |
-| [[People/Fey/Areschera|Areschera]] |  | person · fey | canonical |  |  | inferred: species: fey |
-| [[People/Fey/Auntie Mulberry|Auntie Mulberry]] |  | person · fey | canonical |  |  | inferred: species: fey, haregon |
-| [[People/Fey/Count Vashan|Count Vashan]] | The Broken Mask (Sylvan) | person · fey | canonical |  |  | inferred: species: fey |
-| [[People/Fey/Eleuha|Eleuha]] |  | person · fey | canonical |  |  | inferred: species: fey, dryad |
-| [[People/Fey/Endlessly Ending's Butler|Endlessly Ending's Butler]] | badger butler (Sylvan) | person · humanoid badger | canonical |  |  | inferred: species: fey |
-| [[People/PCs/Other PCs/Oskar's Companions/Ghemdorn|Ghemdorn]] |  | person · fey | canonical |  |  | inferred: species: fey, satyr |
-| [[People/PCs/Cleenseau/Greymalkin|Greymalkin]] |  | person · fey | canonical |  |  | inferred: species: fey, griffin |
-| [[People/Fey/Illaran|Illaran]] |  | person · fey | canonical |  |  | inferred: species: fey, korred |
-| [[People/Fey/Ismara|Ismara]] |  | person · fey | canonical |  |  | inferred: species: fey |
-| [[People/Fey/Lady Eventide|Lady Eventide]] |  | person · fey | canonical |  |  | inferred: species: fey |
-| [[People/Fey/Liraene|Liraene]] |  | person · fae | canonical |  | Lih-RAY-neh | inferred: whereabouts: {type: home, location: Twilight's Edge}, {type: away, start: 1715-05-12, end: 1715-05-18, location: Feywild}, Twilight's Edge, Feywild |
-| [[People/Fey/Lirien|Lirien]] |  | person · fey | canonical |  |  | inferred: species: fey |
-| [[People/Fey/Lord Endless Ending|Lord Endless Ending]] | Lord Endlessly Ending (Sylvan); Lord Ending (Sylvan); Lord Revel Beginning (Sylvan); Lord Revel (Sylvan) | person · fae | canonical |  |  | inferred: species: fey |
-| [[People/PCs/Silver Tempests/Mabist|Mabist]] |  | person · fey | canonical |  |  | inferred: species: fey, changeling |
-| [[People/Fey/Melusine|Melusine]] |  | person · fey | canonical |  |  | inferred: species: fey, nymph |
-| [[People/PCs/Dunmar Fellowship/Guests/Mikasa|Mikasa]] |  | person · fey | canonical |  |  | inferred: species: fey |
-| [[People/Fey/Putrid Agnes|Putrid Agnes]] |  | person · fey | canonical |  |  | inferred: species: fey, hag |
-| [[People/PCs/Dunmar Fellowship/Guests/Raven|Raven]] |  | person · fey | canonical |  |  | inferred: species: fey |
-| [[People/PCs/Dunmar Fellowship/Guests/Spirala|Spirala]] |  | person · fey | canonical |  |  | inferred: species: fey, fairy |
-| [[People/Fey/Tarviel|Tarviel]] |  | person · fey | canonical |  |  | inferred: species: fey, satyr |
-| [[People/Fey/The Hunter|The Hunter]] |  | person · fey | canonical |  |  | inferred: species: fey |
-| [[People/Fey/Midnight Lady|The Midnight Lady]] | Night Witch (Sylvan) | person · fey | canonical |  |  | inferred: species: fey, hag |
-| [[People/Fey/Typhina|Typhina]] |  | person · fey | canonical |  |  | inferred: species: fey |
-| [[People/Fey/Valeris|Valeris]] |  | person · fey | canonical |  |  | inferred: species: fey, satyr |
-| [[Gazetteer/Extraplanar/Feywild/Amberglow/Amberglow|Amberglow]] |  | place · extraplanar domain | canonical |  |  | inferred: ancestry: fey |
-| [[Gazetteer/Extraplanar/Feywild/Emberwine/Bitterwine Oak|Bitterwine Oak]] |  | place · fey portal | canonical |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
-| [[Gazetteer/Extraplanar/Feywild/Darkfall|Darkfall]] |  | place · extraplanar domain | canonical |  |  | inferred: ancestry: fey |
-| [[Gazetteer/Extraplanar/Feywild/Dreamhaven|Dreamhaven]] |  | place · extraplanar domain | canonical |  |  | inferred: ancestry: fey |
-| [[Gazetteer/Extraplanar/Feywild/Duskmire|Duskmire]] |  | place · extraplanar domain | canonical |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
-| [[Gazetteer/Extraplanar/Feywild/Emberwine/Emberwine|Emberwine]] |  | place · extraplanar domain | canonical |  |  | inferred: ancestry: fey |
-| [[Gazetteer/Extraplanar/Feywild/Everlight's Bloom|Everlight's Bloom]] |  | place · extraplanar domain | canonical |  |  | inferred: ancestry: fey |
-| [[Gazetteer/Extraplanar/Feywild/Fate's Ruin|Fate's Ruin]] |  | place · extraplanar domain | canonical |  |  | inferred: ancestry: fey |
-| [[Gazetteer/Extraplanar/Feywild/Fortune's Rest|Fortune's Rest]] |  | place · extraplanar domain | canonical |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
-| [[Gazetteer/Extraplanar/Feywild/Gleamwater|Gleamwater]] |  | place · extraplanar domain | canonical |  |  | inferred: ancestry: fey |
-| [[Gazetteer/Extraplanar/Feywild/Golden Door|Golden Door]] |  | place · fey portal | canonical |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
-| [[Gazetteer/Extraplanar/Feywild/Amberglow/Heartwood Grove|Heartwood Grove]] |  | place · grove | canonical |  |  | inferred: ancestry: fey |
-| [[Gazetteer/Extraplanar/Feywild/Hollowdark|Hollowdark]] |  | place · extraplanar domain | canonical |  |  | inferred: ancestry: fey |
-| [[Gazetteer/Extraplanar/Feywild/Honeybloom|Honeybloom]] |  | place · extraplanar domain | canonical |  |  | inferred: ancestry: fey |
-| [[Gazetteer/Extraplanar/Feywild/Amberglow/Night's Edge Keep|Night's Edge Keep]] |  | place · keep | canonical |  |  | inferred: ancestry: fey |
-| [[Cosmology/Demiplanes and Echo Realms/Nightmare Realm|Nightmare Realm]] |  | place · rumored plane | canonical |  |  | explicit: explicit primary-name text, body line 6 |
-| [[Gazetteer/Greater Sembara/Addermarch/Nightsong Roots|Nightsong Roots]] |  | place · portal | canonical |  |  | inferred: ancestry: fey |
-| [[Gazetteer/Extraplanar/Feywild/Amberglow/Prismwell|Prismwell]] |  | place · well | canonical |  |  | inferred: ancestry: fey |
-| [[Gazetteer/Extraplanar/Feywild/Amberglow/Refuge of the Gossamer Veil|Refuge of the Gossamer Veil]] |  | place · realm | canonical |  |  | inferred: ancestry: fey |
-| [[Gazetteer/Extraplanar/Feywild/Sharpspire|Sharpspire]] |  | place · extraplanar domain | canonical |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
-| [[Gazetteer/Extraplanar/Feywild/Shimmersong|Shimmersong]] |  | place · extraplanar domain | canonical |  |  | inferred: ancestry: fey |
-| [[Gazetteer/Extraplanar/Feywild/Splendor's Gleam|Splendor's Gleam]] |  | place · realm | canonical |  |  | inferred: ancestry: fey |
-| [[Gazetteer/Extraplanar/Feywild/Twilight's Edge|Twilight's Edge]] |  | place · extraplanar domain | canonical |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
-| [[Gazetteer/Extraplanar/Feywild/Twilight's Grace|Twilight's Grace]] |  | place · extraplanar domain | canonical |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
-| [[Gazetteer/Extraplanar/Feywild/Whispervale|Whispervale]] |  | place · extraplanar domain | canonical |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
-| [[Gazetteer/Extraplanar/Feywild/Wildrun|Wildrun]] |  | place · realm | canonical |  |  | inferred: ancestry: fey |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Fey/Aelirios Sunblade\|Aelirios Sunblade]] |  | person |  | Ah-ler-ee-os Sun-blade | inferred: species: fey |
+| [[People/Fey/Aenaphos\|Aenaphos]] |  | person |  | AYN-ah-fohs | inferred: species: fey |
+| [[People/Fey/Agata\|Agata Dustmother]] | Old Woman of the Dusts (Sylvan); Dasoclese (Sylvan) | person |  |  | inferred: species: fey, hag |
+| [[People/Fey/Ampelos\|Ampelos]] |  | person |  |  | inferred: species: fey, satyr |
+| [[People/Fey/Arendel\|Arendel]] |  | person |  | AARON-dell | inferred: species: fey |
+| [[People/Fey/Areschera\|Areschera]] |  | person |  |  | inferred: species: fey |
+| [[People/Fey/Auntie Mulberry\|Auntie Mulberry]] |  | person |  |  | inferred: species: fey, haregon |
+| [[People/Fey/Count Vashan\|Count Vashan]] | The Broken Mask (Sylvan) | person |  |  | inferred: species: fey |
+| [[People/Fey/Eleuha\|Eleuha]] |  | person |  |  | inferred: species: fey, dryad |
+| [[People/Fey/Endlessly Ending's Butler\|Endlessly Ending's Butler]] | badger butler (Sylvan) | person |  |  | inferred: species: fey |
+| [[People/PCs/Other PCs/Oskar's Companions/Ghemdorn\|Ghemdorn]] |  | person |  |  | inferred: species: fey, satyr |
+| [[People/PCs/Cleenseau/Greymalkin\|Greymalkin]] |  | person |  |  | inferred: species: fey, griffin |
+| [[People/Fey/Illaran\|Illaran]] |  | person |  |  | inferred: species: fey, korred |
+| [[People/Fey/Ismara\|Ismara]] |  | person |  |  | inferred: species: fey |
+| [[People/Fey/Lady Eventide\|Lady Eventide]] |  | person |  |  | inferred: species: fey |
+| [[People/Fey/Liraene\|Liraene]] |  | person |  | Lih-RAY-neh | inferred: whereabouts: {type: home, location: Twilight's Edge}, {type: away, start: 1715-05-12, end: 1715-05-18, location: Feywild}, Twilight's Edge, Feywild |
+| [[People/Fey/Lirien\|Lirien]] |  | person |  |  | inferred: species: fey |
+| [[People/Fey/Lord Endless Ending\|Lord Endless Ending]] | Lord Endlessly Ending (Sylvan); Lord Ending (Sylvan); Lord Revel Beginning (Sylvan); Lord Revel (Sylvan) | person |  |  | inferred: species: fey |
+| [[People/PCs/Silver Tempests/Mabist\|Mabist]] |  | person |  |  | inferred: species: fey, changeling |
+| [[People/Fey/Melusine\|Melusine]] |  | person |  |  | inferred: species: fey, nymph |
+| [[People/PCs/Dunmar Fellowship/Guests/Mikasa\|Mikasa]] |  | person |  |  | inferred: species: fey |
+| [[People/Fey/Putrid Agnes\|Putrid Agnes]] |  | person |  |  | inferred: species: fey, hag |
+| [[People/PCs/Dunmar Fellowship/Guests/Raven\|Raven]] |  | person |  |  | inferred: species: fey |
+| [[People/PCs/Dunmar Fellowship/Guests/Spirala\|Spirala]] |  | person |  |  | inferred: species: fey, fairy |
+| [[People/Fey/Tarviel\|Tarviel]] |  | person |  |  | inferred: species: fey, satyr |
+| [[People/Fey/The Hunter\|The Hunter]] |  | person |  |  | inferred: species: fey |
+| [[People/Fey/Midnight Lady\|The Midnight Lady]] | Night Witch (Sylvan) | person |  |  | inferred: species: fey, hag |
+| [[People/Fey/Typhina\|Typhina]] |  | person |  |  | inferred: species: fey |
+| [[People/Fey/Valeris\|Valeris]] |  | person |  |  | inferred: species: fey, satyr |
+| [[Gazetteer/Extraplanar/Feywild/Amberglow/Amberglow\|Amberglow]] |  | place |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Emberwine/Bitterwine Oak\|Bitterwine Oak]] |  | place |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
+| [[Gazetteer/Extraplanar/Feywild/Darkfall\|Darkfall]] |  | place |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Dreamhaven\|Dreamhaven]] |  | place |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Duskmire\|Duskmire]] |  | place |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
+| [[Gazetteer/Extraplanar/Feywild/Emberwine/Emberwine\|Emberwine]] |  | place |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Everlight's Bloom\|Everlight's Bloom]] |  | place |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Fate's Ruin\|Fate's Ruin]] |  | place |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Fortune's Rest\|Fortune's Rest]] |  | place |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
+| [[Gazetteer/Extraplanar/Feywild/Gleamwater\|Gleamwater]] |  | place |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Golden Door\|Golden Door]] |  | place |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
+| [[Gazetteer/Extraplanar/Feywild/Amberglow/Heartwood Grove\|Heartwood Grove]] |  | place |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Hollowdark\|Hollowdark]] |  | place |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Honeybloom\|Honeybloom]] |  | place |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Amberglow/Night's Edge Keep\|Night's Edge Keep]] |  | place |  |  | inferred: ancestry: fey |
+| [[Cosmology/Demiplanes and Echo Realms/Nightmare Realm\|Nightmare Realm]] |  | place |  |  | explicit: explicit primary-name text, body line 6 |
+| [[Gazetteer/Greater Sembara/Addermarch/Nightsong Roots\|Nightsong Roots]] |  | place |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Amberglow/Prismwell\|Prismwell]] |  | place |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Amberglow/Refuge of the Gossamer Veil\|Refuge of the Gossamer Veil]] |  | place |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Sharpspire\|Sharpspire]] |  | place |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
+| [[Gazetteer/Extraplanar/Feywild/Shimmersong\|Shimmersong]] |  | place |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Splendor's Gleam\|Splendor's Gleam]] |  | place |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Twilight's Edge\|Twilight's Edge]] |  | place |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
+| [[Gazetteer/Extraplanar/Feywild/Twilight's Grace\|Twilight's Grace]] |  | place |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
+| [[Gazetteer/Extraplanar/Feywild/Whispervale\|Whispervale]] |  | place |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
+| [[Gazetteer/Extraplanar/Feywild/Wildrun\|Wildrun]] |  | place |  |  | inferred: ancestry: fey |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Obsidian Fly\|Agata's Obsidian Fly]] |  | object |  |  | inferred: ancestry: fey |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Raven Whistle\|Agata's Raven Whistle]] |  | object |  |  | inferred: ancestry: fey |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Agata's Wooden Figurines\|Agata's Wooden Figurines]] |  | object |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Amberglow/Amberlight\|Amberlight]] |  | object |  |  | inferred: ancestry: fey |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Augury Mirrors\|Augury Mirrors]] |  | object |  |  | inferred: ancestry: fey |
+| [[Campaigns/Cleenseau Campaign/Treasure/Gem of Spell Storing\|Gem of Spell Storing]] |  | object |  |  | inferred: ancestry: Fey |
+| [[Campaigns/Cleenseau Campaign/Treasure/Lantern of the Bright Hearth\|Lantern of the Bright Hearth]] |  | object |  |  | inferred: ancestry: fey |
+| [[Campaigns/Cleenseau Campaign/Treasure/Pipes of Insect Control\|Pipes of Insect Control]] |  | object |  |  | inferred: ancestry: fey |
+| [[Gazetteer/Extraplanar/Feywild/Twilight Court\|Twilight Court]] |  | group |  |  | inferred: vault path: Gazetteer/Extraplanar/Feywild |
+| [[Creatures/Fey/Fae\|Fae]] |  | creature |  |  | explicit: explicit primary-name text, body line 13 |
 
 ### Goblin
 
 #### Goblin/Katonylev
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Groups/Red Knife Tribe|Red Knife Tribe]] |  | group · tribe | canonical |  |  | inferred: ancestry: goblin |
-| [[People/Other Nonhumans/Empress of Chaos|Empress of Chaos]] |  | person · hobgoblin | canonical |  |  | inferred: species: hobgoblin |
-| [[People/Other Nonhumans/Folcan|Folcan]] |  | person · goblin | canonical |  |  | inferred: species: goblin |
-| [[People/Other Nonhumans/Revaka|Revaka]] |  | person · hobgoblin | canonical |  |  | inferred: species: hobgoblin |
-| [[People/Other Nonhumans/Szoltar|Szoltár]] |  | person · hobgoblin | canonical |  | SOHL-tahr | inferred: species: hobgoblin |
-| [[People/Dwarves/Ulfgar Frostbeard|Ulfgar Frostbeard]] |  | person · dwarf | canonical |  |  | explicit: explicit primary-name text, body line 14 (comment) |
-| [[People/Other Nonhumans/Ulgna|Ulgna]] |  | person · goblin | canonical |  |  | explicit: explicit primary-name text, body line 10 (comment) |
-| [[People/Elves/Vahaiya|Vahaiya]] |  | person · elf | canonical |  | va-HAI-ya | explicit: explicit primary-name text, body line 10 |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Other Nonhumans/Empress of Chaos\|Empress of Chaos]] |  | person |  |  | inferred: species: hobgoblin |
+| [[People/Other Nonhumans/Folcan\|Folcan]] |  | person |  |  | inferred: species: goblin |
+| [[People/Other Nonhumans/Revaka\|Revaka]] |  | person |  |  | inferred: species: hobgoblin |
+| [[People/Other Nonhumans/Szoltar\|Szoltár]] |  | person |  | SOHL-tahr | inferred: species: hobgoblin |
+| [[People/Dwarves/Ulfgar Frostbeard\|Ulfgar Frostbeard]] |  | person |  |  | explicit: explicit primary-name text, body line 14 (comment) |
+| [[People/Other Nonhumans/Ulgna\|Ulgna]] |  | person |  |  | explicit: explicit primary-name text, body line 10 (comment) |
+| [[People/Elves/Vahaiya\|Vahaiya]] |  | person |  | va-HAI-ya | explicit: explicit primary-name text, body line 10 |
+| [[Groups/Red Knife Tribe\|Red Knife Tribe]] |  | group |  |  | inferred: ancestry: goblin |
 
 ### Hkaran
 
 #### Hkaran
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Groups/Chainshroud|Chainshroud]] |  | group · cult | canonical |  |  | inferred: ancestry: Hkaran |
-| [[Things/Books/Journeys of Souls|Journey of the Souls]] |  | object · religious text | canonical |  |  | inferred: ancestry: Hkaran |
-| [[Things/Books/On the Ordering of Giants|On the Ordering of Giants]] |  | object · natural history treatise | canonical |  |  | inferred: ancestry: Hkaran |
-| [[Things/Books/The Unstable Sphere|The Unstable Sphere]] |  | object · cosmological treatise | canonical |  |  | inferred: ancestry: Hkaran |
-| [[People/Historical Figures/Drankorian Emperors/Akaston|Akaston]] | Emperor Akaston† (Hkaran) | person · human | canonical |  |  | inferred: ancestry: Hkaran |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Historical Figures/Drankorian Emperors/Akaston\|Akaston]] | Emperor Akaston† (Hkaran) | person |  |  | inferred: ancestry: Hkaran |
+| [[Things/Books/Journeys of Souls\|Journey of the Souls]] |  | object |  |  | inferred: ancestry: Hkaran |
+| [[Things/Books/On the Ordering of Giants\|On the Ordering of Giants]] |  | object |  |  | inferred: ancestry: Hkaran |
+| [[Things/Books/The Unstable Sphere\|The Unstable Sphere]] |  | object |  |  | inferred: ancestry: Hkaran |
+| [[Groups/Chainshroud\|Chainshroud]] |  | group |  |  | inferred: ancestry: Hkaran |
 
 ### Independent human
 
 #### Dunmari
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Groups/Dunmari Mystery Cults/Aagir Mystai|Aagiri]] |  | group · mystery cult | canonical |  |  | inferred: ancestry: Dunmari |
-| [[Groups/Dunmari Dynasties/Aatmaji Dynasty|Aatmaji dynasty]] |  | group · family | canonical |  |  | inferred: ancestry: Dunmari |
-| [[Groups/Dunmari Dynasties/Dharajun Dynasty|Dharajun dynasty]] |  | group · dynasty | canonical |  |  | inferred: ancestry: Dunmari |
-| [[Groups/Havdar's Warband|Havdar's Warband]] |  | group · warband | canonical |  |  | explicit: explicit primary-name text, body line 9 |
-| [[Groups/Dunmari Mystery Cults/Lakan Mystai|Lakan Mystai]] |  | group · mystery cult | canonical |  |  | inferred: ancestry: Dunmari |
-| [[Groups/Dunmari Mystery Cults/Shakun Mystai|Shakun Mystai]] |  | group · mystery cult | canonical |  |  | inferred: ancestry: Dunmari |
-| [[Groups/Dunmari Mystery Cults/Sonkar Mystai|Sonkar Mystai]] |  | group · mystery cult | canonical |  |  | inferred: ancestry: Dunmari |
-| [[Events/1500s/1545/Cha'mutte's Plague|Cha'mutte's Plague]] |  | event · plague | canonical |  |  | inferred: whereabouts: {type: primary, location: Upper Istaros}, {type: secondary, location: Greater Dunmar}, Upper Istaros, Greater Dunmar |
-| [[Events/1700s/Nayan Succession Crisis|Nayan Succession Crisis]] |  | event · succession crisis | canonical |  |  | inferred: whereabouts: Dunmar |
-| [[Worldbuilding/Staging/Dunmar/Open Scroll Expeditions in Dunmar|Open Scroll Expeditions in Dunmar]] |  | event · expeditions | staging |  |  | inferred: whereabouts: Dunmar |
-| [[Events/1700s/1748/Summer Gnoll Raids of 1748|Summer Gnoll Raids of 1748]] |  | event · raid | canonical |  |  | inferred: whereabouts: Eastern Dunmar |
-| [[Things/Magic Items/Aagir's Everlight|Aagir's Everlight]] |  | object · wonderous item | canonical |  |  | inferred: ancestry: Dunmari |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Boots of False Tracks (Agata)|Boots of False Tracks]] |  | object · boots | campaign canon |  |  | inferred: ancestry: Dunmari |
-| [[Things/Artifacts of Power/Dreamweaver Staff|Dreamweaver Staff]] |  | object · staff | canonical |  |  | inferred: ancestry: Dunmari |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Dunmari Heirloom Shield|Dunmari Heirloom Shield]] |  | object · shield | campaign canon |  |  | inferred: ancestry: Dunmari |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Dunmari map of Pandemonium ruins|Dunmari map of Pandemonium ruins]] |  | object · map | campaign canon |  |  | inferred: ancestry: Dunmari |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Flaming Bowstring|Flaming Bowstring]] |  | object · weapon | campaign canon |  |  | inferred: ancestry: Dunmari |
-| [[Things/Magic Items/Horn of Silent Alarm (Dunmari)|Horn of Silent Alarm (Dunmari)]] |  | object · horn | canonical |  |  | inferred: ancestry: Dunmari |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Longsword of Heroism|Longsword of Heroism]] |  | object · sword | campaign canon |  |  | inferred: ancestry: Dunmari |
-| [[Things/Artifacts of Power/Scepter of Command|Scepter of Command]] |  | object · scepter | canonical |  |  | inferred: whereabouts: {type: home, end: 1059, location: Apollyon}, {type: away, start: 1552, end: 1746, location: Kharsan, startFilter: "" }, {type: home, location: Fraternity of the Empty Moon, start: 1747, end: 1747-12-11}, {type: home, location: Agata, start: 1748-01-17, end: 1748-05-29}, {type: home, location: Dunmar Fellowship, start: 1748-05-29, end: 1748-12-24}, {type: away, location: Vetta, start: 1748-12-24, end: 1748-12-25}, Apollyon, Kharsan, Fraternity of the Empty Moon, Agata, Dunmar Fellowship, Vetta |
-| [[Things/Magic Items/Scroll of Storykeeping|Scroll of Storykeeping]] |  | object · scroll | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Historical Figures/Dunmari Rulers/Dasa|Aatmaj Dasa]] | Samraat Dasa (Dunmari); Samraat Aatmaj Dasa (Dunmari) | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Historical Figures/Dunmari Rulers/Kotana|Aatmaji Kotana]] | Samraat Kotana (Dunmari); Samraat Aatmaji Kotana† (Dunmari) | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Abha|Abha]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Akan|Akan]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Alesh|Alesh]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Amar|Amar]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Amay|Amay]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Amil|Amil]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Aram|Aram]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Ardan|Ardan]] | Chief Archivist Ardan† (Dunmari) | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Ashar|Ashar]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Historical Figures/Asuddha|Asuddha]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Avani|Avani]] | Dunmari Werewolf Woman† (Dunmari) | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Avaras|Avaras]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Badya|Badya]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Basu|Basu]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Beli|Beli]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Camana|Camana]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Candrosa|Candrosa]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Cintra|Cintra]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Darshana|Darshana]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Devana|Devana]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Historical Figures/Dunmari Rulers/Jita|Dharajun Jita]] | Samraat Jita (Dunmari); Samraat Dharajun Jita† (Dunmari) | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Govir|Govir]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Hada|Hada]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Havdar|Havdar]] |  | person · human | canonical |  |  | explicit: explicit primary-name text, body line 14 |
-| [[People/Dunmari/Ikram|Ikram]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Historical Figures/Ila|Ila]] | Commander Ila† (Dunmari) | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Illyan|Illyan]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Isha|Isha]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Jasu|Jasu]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Jayden|Jayden]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Jita of Tokra|Jita]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Johar|Johar]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Jumi|Jumi]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Justan|Justan]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Kaleha|Kaleha]] | Head Priest Kaleha† (Dunmari) | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Karmana|Karmana]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Kassi|Kassi]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Kaya|Kaya]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/PCs/Dunmar Fellowship/Kenzo|Kenzo]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Kiran|Kiran]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Kirian|Kirian]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Kisa|Kisa]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Lara|Lara]] | Speaker Lara† (Dunmari) | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Nayan Karnas|Nayan Karnas]] | Karnas (Dunmari); Samraat Nayan Karnas† (Dunmari) | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Historical Figures/Dunmari Rulers/Marathu|Nayan Marathu]] | Samraat Nayan Marathu† (Dunmari) | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Sura|Nayan Sura]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Historical Figures/Dunmari Rulers/Yarad|Nayan Yarad]] | Samraat Nayan Yarad (Dunmari) | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Padma|Padma]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Pava|Pava]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Rishi|Rishi]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Sajan|Sajan]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Saka|Saka]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Selkan|Selkan]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Shandan|Shandan]] |  | person · human | canonical |  | Shun-dhun | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Shandar|Shandar]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Shani|Shani]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Suma|Suma]] |  | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[People/Dunmari/Umber of Dunmar|Umber of Dunmar]] | Umber† (Dunmari) | person · human | canonical |  |  | inferred: ancestry: Dunmari |
-| [[Gazetteer/Greater Dunmar/Hara Basin/Agata's Lair|Agata's Lair]] |  | place · lair | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Archives|Archives of Tokra]] | Tokra Archives (Dunmari) | place · library | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Askandi|Askandi]] |  | place · city | canonical |  | uh-SKUN-dee | inferred: ancestry: Dunmari |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Bas Udda|Bas Udda]] |  | place · village | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Central Dunmar|Central Dunmar]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Coastal Dunmar/Coastal Dunmar|Coastal Dunmar]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Hara Basin/Daraar Canyon|Daraar Canyon]] |  | place · canyon | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Coastal Dunmar/Darba/Darba|Darba]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Darshana's Caravanserai|Darshana's Caravanserai]] |  | place · caravanserai | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar|Dunmar]] | Dunmari (Dunmari) | place · theocracy | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Eastern Dunmar|Eastern Dunmar]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Hara Basin/Gomat|Gomat Oasis]] | Gomat (Dunmari) | place · oasis | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Greater Dunmar|Greater Dunmar]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Rivers/Hara Watershed/Hara|Hara]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Hara Basin/Hara Basin|Hara Basin]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Ikram’s|Ikram's]] |  | place · caravanserai | canonical |  |  | inferred: ancestry: Dunmari |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa|Karawa]] |  | place · town | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Kharja|Kharja]] |  | place · intermittent river | canonical |  | KHAAr-jaa | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan|Kharsan]] |  | place · city | canonical |  |  | inferred: ancestry: Dunmari |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Kirian's|Kirian’s]] |  | place · inn | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Major Rivers/Istaros Watershed/Kulthul|Kulthul]] |  | place · river | canonical |  |  | explicit: explicit primary-name text, body line 8 (comment) |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lair of the Fraternity of the Empty Moon|Lair of the Fraternity of the Empty Moon]] |  | place · lair | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Nashtkar|Nashtkar]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Western Dunmar/Nayahar|Nayahar]] |  | place · city | canonical |  |  | inferred: ancestry: Dunmari |
-| [[Gazetteer/Greater Dunmar/Rivers/Nayan|Nayan]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Nayan Floodplains|Nayan Floodplains]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Red Mesa|Red Mesa]] |  | place · holy site | canonical |  |  | inferred: ancestry: Dunmari |
-| [[Gazetteer/Greater Dunmar/Rivers/Rudhan|Rudhan]] |  | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Hara Basin/Elven Arborea Workshop|Ruined Elven Workshop (near Tokra)]] |  | place · ruin | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Hara Basin/Samtal|Samtal]] | plains of Karawa (Common) | place · grassland | canonical |  |  | explicit: explicit primary-name text, body line 6 |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Shakun’s Wellspring|Shakun’s Wellspring]] |  | place · holy site | canonical |  |  | inferred: ancestry: Dunmari |
-| [[Gazetteer/Greater Dunmar/Rivers/Shrev|Shrev]] | River Shrev (Common); Shrev River (Common) | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Rivers/Hara Watershed/Sone|Sone]] |  | place · river | canonical |  | SO-nay | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Songara|Songara]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Hara Basin/Stoneborn Statue Dungeon|Stoneborn Statue Dungeon]] |  | place · ruin | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Rivers/Hara Watershed/Sukal|Sukal]] |  | place · river | canonical |  | su-KAHL | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Rivers/Hara Watershed/Thandar|Thandar]] | Tandar† (Dunmari) | place · river | canonical |  | TAHN-dur | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Realms/Nardith/The Red Shield|The Red Shield]] |  | place · tavern | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra|Tokra]] |  | place · city | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Central Highlands/Valley of the Hidden Forest|Valley of the Hidden Forest]] | Naun Tarvanos (Dunmari) | place · rumored hidden valley | canonical |  |  | explicit: explicit primary-name text, body line 9 |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Vandar|Vandar]] |  | place · village | canonical |  |  | inferred: ancestry: Dunmari |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Western Dunmar/Western Dunmar|Western Dunmar]] |  | place · region | canonical |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/~Crossroads Caravanserai~|~Crossroads Caravanserai~]] |  | place · inn | canonical | ✓ |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Historical Figures/Dunmari Rulers/Dasa\|Aatmaj Dasa]] | Samraat Dasa (Dunmari); Samraat Aatmaj Dasa (Dunmari) | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Historical Figures/Dunmari Rulers/Kotana\|Aatmaji Kotana]] | Samraat Kotana (Dunmari); Samraat Aatmaji Kotana† (Dunmari) | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Abha\|Abha]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Akan\|Akan]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Alesh\|Alesh]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Amar\|Amar]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Amay\|Amay]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Amil\|Amil]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Aram\|Aram]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Ardan\|Ardan]] | Chief Archivist Ardan† (Dunmari) | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Ashar\|Ashar]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Historical Figures/Asuddha\|Asuddha]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Avani\|Avani]] | Dunmari Werewolf Woman† (Dunmari) | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Avaras\|Avaras]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Badya\|Badya]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Basu\|Basu]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Beli\|Beli]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Camana\|Camana]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Candrosa\|Candrosa]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Cintra\|Cintra]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Darshana\|Darshana]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Devana\|Devana]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Historical Figures/Dunmari Rulers/Jita\|Dharajun Jita]] | Samraat Jita (Dunmari); Samraat Dharajun Jita† (Dunmari) | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Govir\|Govir]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Hada\|Hada]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Havdar\|Havdar]] |  | person |  |  | explicit: explicit primary-name text, body line 14 |
+| [[People/Dunmari/Ikram\|Ikram]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Historical Figures/Ila\|Ila]] | Commander Ila† (Dunmari) | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Illyan\|Illyan]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Isha\|Isha]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Jasu\|Jasu]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Jayden\|Jayden]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Jita of Tokra\|Jita]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Johar\|Johar]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Jumi\|Jumi]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Justan\|Justan]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Kaleha\|Kaleha]] | Head Priest Kaleha† (Dunmari) | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Karmana\|Karmana]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Kassi\|Kassi]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Kaya\|Kaya]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/PCs/Dunmar Fellowship/Kenzo\|Kenzo]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Kiran\|Kiran]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Kirian\|Kirian]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Kisa\|Kisa]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Lara\|Lara]] | Speaker Lara† (Dunmari) | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Nayan Karnas\|Nayan Karnas]] | Karnas (Dunmari); Samraat Nayan Karnas† (Dunmari) | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Historical Figures/Dunmari Rulers/Marathu\|Nayan Marathu]] | Samraat Nayan Marathu† (Dunmari) | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Sura\|Nayan Sura]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Historical Figures/Dunmari Rulers/Yarad\|Nayan Yarad]] | Samraat Nayan Yarad (Dunmari) | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Padma\|Padma]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Pava\|Pava]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Rishi\|Rishi]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Sajan\|Sajan]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Saka\|Saka]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Selkan\|Selkan]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Shandan\|Shandan]] |  | person |  | Shun-dhun | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Shandar\|Shandar]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Shani\|Shani]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Suma\|Suma]] |  | person |  |  | inferred: ancestry: Dunmari |
+| [[People/Dunmari/Umber of Dunmar\|Umber of Dunmar]] | Umber† (Dunmari) | person |  |  | inferred: ancestry: Dunmari |
+| [[Gazetteer/Greater Dunmar/Hara Basin/Agata's Lair\|Agata's Lair]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Archives\|Archives of Tokra]] | Tokra Archives (Dunmari) | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Askandi\|Askandi]] |  | place |  | uh-SKUN-dee | inferred: ancestry: Dunmari |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Bas Udda\|Bas Udda]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Central Dunmar\|Central Dunmar]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Coastal Dunmar/Coastal Dunmar\|Coastal Dunmar]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Hara Basin/Daraar Canyon\|Daraar Canyon]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Coastal Dunmar/Darba/Darba\|Darba]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Darshana's Caravanserai\|Darshana's Caravanserai]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar\|Dunmar]] | Dunmari (Dunmari) | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Eastern Dunmar\|Eastern Dunmar]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Hara Basin/Gomat\|Gomat Oasis]] | Gomat (Dunmari) | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Greater Dunmar\|Greater Dunmar]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Rivers/Hara Watershed/Hara\|Hara]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Hara Basin/Hara Basin\|Hara Basin]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Ikram’s\|Ikram's]] |  | place |  |  | inferred: ancestry: Dunmari |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa\|Karawa]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Kharja\|Kharja]] |  | place |  | KHAAr-jaa | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Hara Basin/Kharsan\|Kharsan]] |  | place |  |  | inferred: ancestry: Dunmari |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Kirian's\|Kirian’s]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Major Rivers/Istaros Watershed/Kulthul\|Kulthul]] |  | place |  |  | explicit: explicit primary-name text, body line 8 (comment) |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lair of the Fraternity of the Empty Moon\|Lair of the Fraternity of the Empty Moon]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Nashtkar\|Nashtkar]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Western Dunmar/Nayahar\|Nayahar]] |  | place |  |  | inferred: ancestry: Dunmari |
+| [[Gazetteer/Greater Dunmar/Rivers/Nayan\|Nayan]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Nayan Floodplains\|Nayan Floodplains]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Red Mesa\|Red Mesa]] |  | place |  |  | inferred: ancestry: Dunmari |
+| [[Gazetteer/Greater Dunmar/Rivers/Rudhan\|Rudhan]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Hara Basin/Elven Arborea Workshop\|Ruined Elven Workshop (near Tokra)]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Hara Basin/Samtal\|Samtal]] | plains of Karawa (Common) | place |  |  | explicit: explicit primary-name text, body line 6 |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Shakun’s Wellspring\|Shakun’s Wellspring]] |  | place |  |  | inferred: ancestry: Dunmari |
+| [[Gazetteer/Greater Dunmar/Rivers/Shrev\|Shrev]] | River Shrev (Common); Shrev River (Common) | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Rivers/Hara Watershed/Sone\|Sone]] |  | place |  | SO-nay | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Songara\|Songara]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Hara Basin/Stoneborn Statue Dungeon\|Stoneborn Statue Dungeon]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Rivers/Hara Watershed/Sukal\|Sukal]] |  | place |  | su-KAHL | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Rivers/Hara Watershed/Thandar\|Thandar]] | Tandar† (Dunmari) | place |  | TAHN-dur | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Nardith/The Red Shield\|The Red Shield]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra\|Tokra]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Central Highlands/Valley of the Hidden Forest\|Valley of the Hidden Forest]] | Naun Tarvanos (Dunmari) | place |  |  | explicit: explicit primary-name text, body line 9 |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Vandar\|Vandar]] |  | place |  |  | inferred: ancestry: Dunmari |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Western Dunmar/Western Dunmar\|Western Dunmar]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/~Crossroads Caravanserai~\|~Crossroads Caravanserai~]] |  | place | ✓ |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Events/1500s/1545/Cha'mutte's Plague\|Cha'mutte's Plague]] |  | event |  |  | inferred: whereabouts: {type: primary, location: Upper Istaros}, {type: secondary, location: Greater Dunmar}, Upper Istaros, Greater Dunmar |
+| [[Events/1700s/Nayan Succession Crisis\|Nayan Succession Crisis]] |  | event |  |  | inferred: whereabouts: Dunmar |
+| [[Events/1700s/1748/Summer Gnoll Raids of 1748\|Summer Gnoll Raids of 1748]] |  | event |  |  | inferred: whereabouts: Eastern Dunmar |
+| [[Things/Magic Items/Aagir's Everlight\|Aagir's Everlight]] |  | object |  |  | inferred: ancestry: Dunmari |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Boots of False Tracks (Agata)\|Boots of False Tracks]] |  | object |  |  | inferred: ancestry: Dunmari |
+| [[Things/Artifacts of Power/Dreamweaver Staff\|Dreamweaver Staff]] |  | object |  |  | inferred: ancestry: Dunmari |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Dunmari Heirloom Shield\|Dunmari Heirloom Shield]] |  | object |  |  | inferred: ancestry: Dunmari |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Dunmari map of Pandemonium ruins\|Dunmari map of Pandemonium ruins]] |  | object |  |  | inferred: ancestry: Dunmari |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Flaming Bowstring\|Flaming Bowstring]] |  | object |  |  | inferred: ancestry: Dunmari |
+| [[Things/Magic Items/Horn of Silent Alarm (Dunmari)\|Horn of Silent Alarm (Dunmari)]] |  | object |  |  | inferred: ancestry: Dunmari |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Longsword of Heroism\|Longsword of Heroism]] |  | object |  |  | inferred: ancestry: Dunmari |
+| [[Things/Artifacts of Power/Scepter of Command\|Scepter of Command]] |  | object |  |  | inferred: whereabouts: {type: home, end: 1059, location: Apollyon}, {type: away, start: 1552, end: 1746, location: Kharsan, startFilter: "" }, {type: home, location: Fraternity of the Empty Moon, start: 1747, end: 1747-12-11}, {type: home, location: Agata, start: 1748-01-17, end: 1748-05-29}, {type: home, location: Dunmar Fellowship, start: 1748-05-29, end: 1748-12-24}, {type: away, location: Vetta, start: 1748-12-24, end: 1748-12-25}, Apollyon, Kharsan, Fraternity of the Empty Moon, Agata, Dunmar Fellowship, Vetta |
+| [[Things/Magic Items/Scroll of Storykeeping\|Scroll of Storykeeping]] |  | object |  |  | inferred: ancestry: Dunmari |
+| [[Groups/Dunmari Mystery Cults/Aagir Mystai\|Aagiri]] |  | group |  |  | inferred: ancestry: Dunmari |
+| [[Groups/Dunmari Dynasties/Aatmaji Dynasty\|Aatmaji dynasty]] |  | group |  |  | inferred: ancestry: Dunmari |
+| [[Groups/Dunmari Dynasties/Dharajun Dynasty\|Dharajun dynasty]] |  | group |  |  | inferred: ancestry: Dunmari |
+| [[Groups/Havdar's Warband\|Havdar's Warband]] |  | group |  |  | explicit: explicit primary-name text, body line 9 |
+| [[Groups/Dunmari Mystery Cults/Lakan Mystai\|Lakan Mystai]] |  | group |  |  | inferred: ancestry: Dunmari |
+| [[Groups/Dunmari Mystery Cults/Shakun Mystai\|Shakun Mystai]] |  | group |  |  | inferred: ancestry: Dunmari |
+| [[Groups/Dunmari Mystery Cults/Sonkar Mystai\|Sonkar Mystai]] |  | group |  |  | inferred: ancestry: Dunmari |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmari Architecture\|Dunmari Architecture]] |  | background |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmari Economy\|The Economy of Dunmar]] |  | background |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmari Government\|The Government of Dunmar]] |  | background |  |  | inferred: vault path: Gazetteer/Greater Dunmar |
 
 #### Tyrwinghan
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Groups/Oracle of the Riven|Oracle of the Riven]] |  | group · council | canonical |  |  | inferred: whereabouts: Tyrwingha |
-| [[Things/Books/On Hidden Doors|On Hidden Doors]] |  | object · cosmological treatise | canonical |  |  | inferred: ancestry: Tyrwinghan |
-| [[People/Historical Figures/Sembaran Royalty/Annabeth|Annabeth]] |  | person · human | canonical |  |  | inferred: ancestry: Tyrwinghan |
-| [[People/Tyrwinghans/Cadogan|Cadogan]] |  | person | canonical |  |  | inferred: vault path: People/Tyrwinghans |
-| [[People/Historical Figures/Cedric Cyfenwid|Cedric Cyfenwid]] |  | person · human | canonical |  |  | inferred: ancestry: Tyrwinghan |
-| [[People/PCs/Cleenseau/Celyn|Celyn]] |  | person · human | canonical |  |  | inferred: ancestry: Tyrwinghan |
-| [[People/Historical Figures/Sembaran Royalty/Cynan|Cynan]] | King Cynan† (Tyrwinghan) | person · human | canonical |  |  | inferred: ancestry: Tyrwinghan |
-| [[People/Historical Figures/Emyr of Tafolwern|Emyr of Tafolwern]] |  | person · human | canonical |  |  | inferred: ancestry: Tyrwinghan |
-| [[People/Historical Figures/Sembaran Royalty/Morgaine|Morgaine]] |  | person · human | canonical |  |  | inferred: ancestry: Tyrwinghan |
-| [[People/PCs/Cleenseau/Robin of Abenfyrd|Robin of Abenfyrd]] | Robin (Tyrwinghan) | person · human | canonical |  |  | inferred: ancestry: Tyrwinghan |
-| [[Gazetteer/Greater Sembara/Tyrwingha/Abenfyrd|Abenfyrd]] |  | place · village | canonical |  | AY-ben-veered | inferred: vault path: Gazetteer/Greater Sembara/Tyrwingha |
-| [[Gazetteer/Greater Sembara/Tyrwingha/Caerenad|Caerenad]] |  | place · town | canonical |  | KAI-re-nad | inferred: vault path: Gazetteer/Greater Sembara/Tyrwingha |
-| [[Gazetteer/Greater Sembara/Tyrwingha/Clawyn|Clawyn]] |  | place · village | canonical |  | CLOW-in | inferred: vault path: Gazetteer/Greater Sembara/Tyrwingha |
-| [[Gazetteer/Greater Sembara/Tyrwingha/Nefyn|Nefyn]] |  | place · village | canonical |  | NEV-yin | inferred: vault path: Gazetteer/Greater Sembara/Tyrwingha |
-| [[Gazetteer/Greater Sembara/Tyrwingha/Ruthin|Ruthin]] |  | place · market town | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara/Tyrwingha |
-| [[Gazetteer/Greater Sembara/Tyrwingha/Tafolwern|Tafolwern]] |  | place · city | canonical |  | Tav-ol-WERN | inferred: vault path: Gazetteer/Greater Sembara/Tyrwingha |
-| [[Gazetteer/Greater Sembara/Tyrwingha/Tyrwingha|Tyrwingha]] | Tyrwinghan (Tyrwinghan) | place · monarchy | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara/Tyrwingha |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Historical Figures/Sembaran Royalty/Annabeth\|Annabeth]] |  | person |  |  | inferred: ancestry: Tyrwinghan |
+| [[People/Tyrwinghans/Cadogan\|Cadogan]] |  | person |  |  | inferred: vault path: People/Tyrwinghans |
+| [[People/Historical Figures/Cedric Cyfenwid\|Cedric Cyfenwid]] |  | person |  |  | inferred: ancestry: Tyrwinghan |
+| [[People/PCs/Cleenseau/Celyn\|Celyn]] |  | person |  |  | inferred: ancestry: Tyrwinghan |
+| [[People/Historical Figures/Sembaran Royalty/Cynan\|Cynan]] | King Cynan† (Tyrwinghan) | person |  |  | inferred: ancestry: Tyrwinghan |
+| [[People/Historical Figures/Emyr of Tafolwern\|Emyr of Tafolwern]] |  | person |  |  | inferred: ancestry: Tyrwinghan |
+| [[People/Historical Figures/Sembaran Royalty/Morgaine\|Morgaine]] |  | person |  |  | inferred: ancestry: Tyrwinghan |
+| [[People/PCs/Cleenseau/Robin of Abenfyrd\|Robin of Abenfyrd]] | Robin (Tyrwinghan) | person |  |  | inferred: ancestry: Tyrwinghan |
+| [[Gazetteer/Greater Sembara/Tyrwingha/Abenfyrd\|Abenfyrd]] |  | place |  | AY-ben-veered | inferred: vault path: Gazetteer/Greater Sembara/Tyrwingha |
+| [[Gazetteer/Greater Sembara/Tyrwingha/Caerenad\|Caerenad]] |  | place |  | KAI-re-nad | inferred: vault path: Gazetteer/Greater Sembara/Tyrwingha |
+| [[Gazetteer/Greater Sembara/Tyrwingha/Clawyn\|Clawyn]] |  | place |  | CLOW-in | inferred: vault path: Gazetteer/Greater Sembara/Tyrwingha |
+| [[Gazetteer/Greater Sembara/Tyrwingha/Nefyn\|Nefyn]] |  | place |  | NEV-yin | inferred: vault path: Gazetteer/Greater Sembara/Tyrwingha |
+| [[Gazetteer/Greater Sembara/Tyrwingha/Ruthin\|Ruthin]] |  | place |  |  | inferred: vault path: Gazetteer/Greater Sembara/Tyrwingha |
+| [[Gazetteer/Greater Sembara/Tyrwingha/Tafolwern\|Tafolwern]] |  | place |  | Tav-ol-WERN | inferred: vault path: Gazetteer/Greater Sembara/Tyrwingha |
+| [[Gazetteer/Greater Sembara/Tyrwingha/Tyrwingha\|Tyrwingha]] | Tyrwinghan (Tyrwinghan) | place |  |  | inferred: vault path: Gazetteer/Greater Sembara/Tyrwingha |
+| [[Things/Books/On Hidden Doors\|On Hidden Doors]] |  | object |  |  | inferred: ancestry: Tyrwinghan |
+| [[Groups/Oracle of the Riven\|Oracle of the Riven]] |  | group |  |  | inferred: whereabouts: Tyrwingha |
+| [[Gazetteer/Greater Sembara/Tyrwingha/Political Organization of Tyrwingha\|Political Organization of Tyrwingha]] |  | background |  |  | inferred: vault path: Gazetteer/Greater Sembara/Tyrwingha |
 
 ### Mixed/uncertain human
 
 #### Vosic
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Gazetteer/Greater Sembara/Vostok/Grastenvakt|Gråstenvakt]] |  | place · wall | canonical |  | GROH-sten-vahkt | inferred: vault path: Gazetteer/Greater Sembara/Vostok |
-| [[Gazetteer/Greater Sembara/Vostok/Kem|Kem]] |  | place · river | canonical |  | KEM | inferred: vault path: Gazetteer/Greater Sembara/Vostok |
-| [[Gazetteer/Greater Sembara/Vostok/Niva|Niva]] | River Niva (Common); Niva River (Common) | place · river | canonical |  |  | inferred: vault path: Gazetteer/Greater Sembara/Vostok |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[Gazetteer/Greater Sembara/Vostok/Grastenvakt\|Gråstenvakt]] |  | place |  | GROH-sten-vahkt | inferred: vault path: Gazetteer/Greater Sembara/Vostok |
+| [[Gazetteer/Greater Sembara/Vostok/Kem\|Kem]] |  | place |  | KEM | inferred: vault path: Gazetteer/Greater Sembara/Vostok |
+| [[Gazetteer/Greater Sembara/Vostok/Niva\|Niva]] | River Niva (Common); Niva River (Common) | place |  |  | inferred: vault path: Gazetteer/Greater Sembara/Vostok |
 
 ### Non-human
 
 #### Dwarvish
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Creatures/Species/Dwarves|Dwarves]] | dwarf (Dwarvish); dwarven (Dwarvish) | creature | canonical |  |  | explicit: explicit primary-name text, body line 35 |
-| [[Groups/Dwarven Thuhr/Farmer Thuhr|Farmer Thuhr]] |  | group · thuhr | canonical |  |  | inferred: ancestry: dwarven |
-| [[Groups/Dwarven Thuhr/Priest Thuhr|Priest Thuhr]] |  | group · thuhr | canonical |  |  | inferred: ancestry: dwarven |
-| [[Groups/Dwarven Clans/Redpeaks|Redpeaks]] |  | group · clan | canonical |  |  | inferred: ancestry: dwarven |
-| [[Groups/Dwarven Thuhr/Ruler Thuhr|Ruler Thuhr]] |  | group · thuhr | canonical |  |  | inferred: ancestry: dwarven |
-| [[Groups/Dwarven Thuhr/Runecrafter Thuhr|Runecrafter Thuhr]] |  | group · thuhr | canonical |  |  | inferred: ancestry: dwarven |
-| [[Groups/Dwarven Thuhr/Stoneworker Thuhr|Stoneworker Thuhr]] |  | group · thuhr | canonical |  |  | inferred: ancestry: dwarven |
-| [[Groups/Dwarven Thuhr/Traveler Thuhr|Traveler Thuhr]] |  | group · thuhr | canonical |  |  | inferred: ancestry: dwarven |
-| [[Groups/Dwarven Thuhr/Warrior Thuhr|Warrior Thuhr]] |  | group · thuhr | canonical |  |  | inferred: ancestry: dwarven |
-| [[Things/Artifacts of Power/Chalice of the Runepriest|Chalice of the Runepriest]] |  | object · chalice | canonical |  |  | inferred: ancestry: dwarven |
-| [[Campaigns/Great Library Campaign/Treasure/Coldguard|Coldguard]] |  | object · shield | campaign canon |  |  | inferred: ancestry: dwarven |
-| [[Things/Magic Items/Dwarven Driftglobe|Driftglobe]] |  | object · wonderous item | canonical |  |  | inferred: ancestry: dwarven |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Glove of Crystalized Magic|Glove of Crystalized Magic]] |  | object · glove | campaign canon |  |  | inferred: ancestry: dwarven |
-| [[Things/Books/Iron Verses|Iron Verses]] |  | object · religious epic | canonical |  |  | inferred: ancestry: Dwarven |
-| [[Things/Books/Legendary Gates of Kenzo|Legendary Gates of Kenzo]] |  | object · illustrated story | canonical |  |  | inferred: ancestry: Dwarven |
-| [[Things/Books/Planar Tides in Relation to the Dangers of the Plaguelands|Planar Tides in Relation to the Dangers of the Plaguelands]] |  | object · cosmological treatise | canonical |  |  | inferred: ancestry: Dwarven |
-| [[Campaigns/Cleenseau Campaign/Treasure/Dwarven Ring of Sorcerous Restoration (Izgil)|Ring of Sorcerous Restoration]] |  | object · ring | campaign canon |  |  | inferred: ancestry: Dwarven |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Ring of the Warded Mind|Ring of the Warded mind]] |  | object · ring | campaign canon |  |  | inferred: ancestry: dwarven |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Shatterstorm|Shatterstorm]] |  | object · warhammer | campaign canon |  |  | inferred: ancestry: dwarven |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Silverspark Gauntlets|Silverspark Gauntlets]] |  | object · gauntlets | campaign canon |  |  | inferred: ancestry: dwarven |
-| [[Things/Books/The Song of the Eternal Earth|The Song of the Eternal Earth]] |  | object · saga | canonical |  |  | inferred: ancestry: Dwarven |
-| [[Campaigns/Great Library Campaign/Treasure/Thunderbrand|Thunderbrand]] |  | object · warhammer | campaign canon |  |  | inferred: ancestry: dwarven |
-| [[Things/Books/Zharuk Akhal|Zharuk Akhal]] |  | object · cosmological treatise | canonical |  |  | inferred: ancestry: Dwarven |
-| [[People/PCs/Silver Tempests/Adrik|Adrik Boulderbeard]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/PCs/Other PCs/Oskar's Companions/Agnor|Agnor]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Bailon|Bailon]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Balrik Frostbeard|Balrik Frostbeard]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Bolgrim Ferrystone|Bolgrim Ferrystone]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/PCs/Silver Tempests/Brelith|Brelith Shockstone]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Brot Starsearcher|Brot Starsearcher]] | Brot (Dwarvish) | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Brottor|Brottor]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Dag Hardstone|Dag Hardstone]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Dain Goldhammer|Dain Goldhammer]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Daruk|Daruk]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Delig Firebrand|Delig Firebrand]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Delig Hardstone|Delig Hardstone]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Diesa|Diesa Shockstone]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Diesla Starsearcher|Diesla Starsearcher]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Dworic|Dworic]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Eberk Brawnanvil|Eberk Brawnanvil]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Eldeth Redhammer|Eldeth Redhammer]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Faldrak Bronzehammer|Faldrak Bronzehammer]] | Faldrak (Dwarvish) | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Fallthra Hardstone|Fallthra Hardstone]] |  | person · dwarf | canonical |  | FAHL-thrah | inferred: species: dwarf |
-| [[People/Dwarves/Finellen Silverstone|Finellen Silverstone]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Frankar|Frankar]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Hagrim|Hagrim of Morkalan]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Harbek Ferrystone|Harbek Ferrystone]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/PCs/Cleenseau/Izgil Moonseeker|Izgil Moonseeker]] | Durgil Barzinduk (Dwarvish); Izgil (Dwarvish) | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Kazak Ferrystone|Kazak Ferrystone]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Kethra|Kethra Silverspark]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Historical Figures/Khevaris Stoneweaver|Khevaris Stoneweaver]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Magran Boulderbeard|Magran Boulderbeard]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/PCs/Dunmar Fellowship/Guests/Merash|Merash]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Other Nonhumans/Morgana Stoneclaw|Morgana Stoneclaw]] | Morgana Frostclaw (Dwarvish) | person · fey | canonical |  |  | explicit: explicit primary-name text, body line 8 |
-| [[People/Dwarves/Morkral Hardstone|Morkral Hardstone]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Nora Silverspark|Nora Silverspark]] | Nora (Dwarvish) | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Orin Strongaxe|Orin Strongaxe]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/PCs/Other PCs/Oskar's Companions/Oskar|Oskar]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Osrik|Osrik Shockstone]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Ovina|Ovina]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/PCs/Dunmar Fellowship/Riswynn|Riswynn]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/PCs/Ausson's Crossing/Roe DoTorka|Roe DoTorka]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/PCs/Dunmar Fellowship/Guests/Rothfis|Rothfis]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Rurik|Rurik]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/PCs/Dunmar Fellowship/Seeker|Seeker]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Tak|Tak]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Historical Figures/Thardrum Deepseeker|Thardrum Deepseeker]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Thorek Deepdweller|Thorek Deepdweller]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/PCs/Dunmar Fellowship/Guests/Thror|Thror]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Torgga Redpeak|Torgga Redpeak]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Travok Redpeak|Travok Redpeak]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Varnir Emberstone|Varnir Emberstone]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Vistra Fireforge|Vistra Fireforge]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Vondal Ferrystone|Vondal Ferrystone]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[People/Dwarves/Vondal Redpeak|Vondal Redpeak]] |  | person · dwarf | canonical |  |  | inferred: species: dwarf |
-| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Am'khazar|Am'khazar]] |  | place · realm | canonical |  |  | inferred: ancestry: dwarven |
-| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Ardith|Ardith]] | Ardikhun (Dwarvish) | place · realm | canonical |  |  | inferred: ancestry: dwarven |
-| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Azrathun|Azrathûn]] |  | place · ruined city | canonical | ✓ | AZ-rah-thoon | inferred: vault path: Gazetteer/Central Highlands/Dwarven |
-| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Darakan|Darakan]] |  | place · city | canonical |  |  | inferred: ancestry: dwarven |
-| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Dwarven Kingdoms|Dwarven Kingdoms]] |  | place · group of kingdoms | canonical |  |  | inferred: vault path: Gazetteer/Central Highlands/Dwarven |
-| [[Gazetteer/Northern Sentinels/Fahnukan|Fahnukan]] |  | place · realm | canonical |  |  | inferred: ancestry: dwarven |
-| [[Gazetteer/Northwest Coast/Fiamatara Mountains/Fiatara Mountains|Fiatara Mountains]] | Firepeaks (Dwarvish) | place · mountain range | canonical |  | fya-TAH-rah | explicit: explicit primary-name text, body line 24 |
-| [[Cosmology/Spiritual Realms/Heart of the Mountain|Heart of the Mountain]] |  | place · plane | canonical |  |  | explicit: explicit primary-name text, body line 14 |
-| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Khatridun|Khatridun]] |  | place · realm | canonical |  |  | inferred: ancestry: dwarven |
-| [[Gazetteer/Greater Dunmar/Realms/Nardith/Narazara|Narazara]] |  | place · village | canonical |  |  | inferred: ancestry: dwarven |
-| [[Gazetteer/Greater Dunmar/Realms/Nardith/Nardith|Nardith]] | Nardikhun (Dwarvish) | place · realm | canonical |  |  | inferred: ancestry: dwarven |
-| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Nidzahar|Nidzahar]] |  | place · realm | canonical |  | NID-zah-har | inferred: ancestry: dwarven |
-| [[Gazetteer/Greater Dunmar/Realms/Nardith/Tharn Todor|Tharn Todor]] |  | place · city | canonical |  |  | inferred: ancestry: dwarven |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/The Iron Swan|The Iron Swan]] |  | place · tavern | canonical |  |  | inferred: ancestry: dwarven |
-| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Thordun|Thordûn]] |  | place · gate | canonical |  | THOR-doon | inferred: vault path: Gazetteer/Central Highlands/Dwarven |
-| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Tumukhar|Tumukhar]] |  | place · city | canonical |  |  | inferred: ancestry: dwarven |
-| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Zarkandur|Zarkandur]] |  | place · city | canonical |  |  | inferred: ancestry: dwarven |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/PCs/Silver Tempests/Adrik\|Adrik Boulderbeard]] |  | person |  |  | inferred: species: dwarf |
+| [[People/PCs/Other PCs/Oskar's Companions/Agnor\|Agnor]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Bailon\|Bailon]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Balrik Frostbeard\|Balrik Frostbeard]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Bolgrim Ferrystone\|Bolgrim Ferrystone]] |  | person |  |  | inferred: species: dwarf |
+| [[People/PCs/Silver Tempests/Brelith\|Brelith Shockstone]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Brot Starsearcher\|Brot Starsearcher]] | Brot (Dwarvish) | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Brottor\|Brottor]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Dag Hardstone\|Dag Hardstone]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Dain Goldhammer\|Dain Goldhammer]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Daruk\|Daruk]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Delig Firebrand\|Delig Firebrand]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Delig Hardstone\|Delig Hardstone]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Diesa\|Diesa Shockstone]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Diesla Starsearcher\|Diesla Starsearcher]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Dworic\|Dworic]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Eberk Brawnanvil\|Eberk Brawnanvil]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Eldeth Redhammer\|Eldeth Redhammer]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Faldrak Bronzehammer\|Faldrak Bronzehammer]] | Faldrak (Dwarvish) | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Fallthra Hardstone\|Fallthra Hardstone]] |  | person |  | FAHL-thrah | inferred: species: dwarf |
+| [[People/Dwarves/Finellen Silverstone\|Finellen Silverstone]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Frankar\|Frankar]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Hagrim\|Hagrim of Morkalan]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Harbek Ferrystone\|Harbek Ferrystone]] |  | person |  |  | inferred: species: dwarf |
+| [[People/PCs/Cleenseau/Izgil Moonseeker\|Izgil Moonseeker]] | Durgil Barzinduk (Dwarvish); Izgil (Dwarvish) | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Kazak Ferrystone\|Kazak Ferrystone]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Kethra\|Kethra Silverspark]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Historical Figures/Khevaris Stoneweaver\|Khevaris Stoneweaver]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Magran Boulderbeard\|Magran Boulderbeard]] |  | person |  |  | inferred: species: dwarf |
+| [[People/PCs/Dunmar Fellowship/Guests/Merash\|Merash]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Other Nonhumans/Morgana Stoneclaw\|Morgana Stoneclaw]] | Morgana Frostclaw (Dwarvish) | person |  |  | explicit: explicit primary-name text, body line 8 |
+| [[People/Dwarves/Morkral Hardstone\|Morkral Hardstone]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Nora Silverspark\|Nora Silverspark]] | Nora (Dwarvish) | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Orin Strongaxe\|Orin Strongaxe]] |  | person |  |  | inferred: species: dwarf |
+| [[People/PCs/Other PCs/Oskar's Companions/Oskar\|Oskar]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Osrik\|Osrik Shockstone]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Ovina\|Ovina]] |  | person |  |  | inferred: species: dwarf |
+| [[People/PCs/Dunmar Fellowship/Riswynn\|Riswynn]] |  | person |  |  | inferred: species: dwarf |
+| [[People/PCs/Ausson's Crossing/Roe DoTorka\|Roe DoTorka]] |  | person |  |  | inferred: species: dwarf |
+| [[People/PCs/Dunmar Fellowship/Guests/Rothfis\|Rothfis]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Rurik\|Rurik]] |  | person |  |  | inferred: species: dwarf |
+| [[People/PCs/Dunmar Fellowship/Seeker\|Seeker]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Tak\|Tak]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Historical Figures/Thardrum Deepseeker\|Thardrum Deepseeker]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Thorek Deepdweller\|Thorek Deepdweller]] |  | person |  |  | inferred: species: dwarf |
+| [[People/PCs/Dunmar Fellowship/Guests/Thror\|Thror]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Torgga Redpeak\|Torgga Redpeak]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Travok Redpeak\|Travok Redpeak]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Varnir Emberstone\|Varnir Emberstone]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Vistra Fireforge\|Vistra Fireforge]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Vondal Ferrystone\|Vondal Ferrystone]] |  | person |  |  | inferred: species: dwarf |
+| [[People/Dwarves/Vondal Redpeak\|Vondal Redpeak]] |  | person |  |  | inferred: species: dwarf |
+| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Am'khazar\|Am'khazar]] |  | place |  |  | inferred: ancestry: dwarven |
+| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Ardith\|Ardith]] | Ardikhun (Dwarvish) | place |  |  | inferred: ancestry: dwarven |
+| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Azrathun\|Azrathûn]] |  | place | ✓ | AZ-rah-thoon | inferred: vault path: Gazetteer/Central Highlands/Dwarven |
+| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Darakan\|Darakan]] |  | place |  |  | inferred: ancestry: dwarven |
+| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Dwarven Kingdoms\|Dwarven Kingdoms]] |  | place |  |  | inferred: vault path: Gazetteer/Central Highlands/Dwarven |
+| [[Gazetteer/Northern Sentinels/Fahnukan\|Fahnukan]] |  | place |  |  | inferred: ancestry: dwarven |
+| [[Gazetteer/Northwest Coast/Fiamatara Mountains/Fiatara Mountains\|Fiatara Mountains]] | Firepeaks (Dwarvish) | place |  | fya-TAH-rah | explicit: explicit primary-name text, body line 24 |
+| [[Cosmology/Spiritual Realms/Heart of the Mountain\|Heart of the Mountain]] |  | place |  |  | explicit: explicit primary-name text, body line 14 |
+| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Khatridun\|Khatridun]] |  | place |  |  | inferred: ancestry: dwarven |
+| [[Gazetteer/Greater Dunmar/Realms/Nardith/Narazara\|Narazara]] |  | place |  |  | inferred: ancestry: dwarven |
+| [[Gazetteer/Greater Dunmar/Realms/Nardith/Nardith\|Nardith]] | Nardikhun (Dwarvish) | place |  |  | inferred: ancestry: dwarven |
+| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Nidzahar\|Nidzahar]] |  | place |  | NID-zah-har | inferred: ancestry: dwarven |
+| [[Gazetteer/Greater Dunmar/Realms/Nardith/Tharn Todor\|Tharn Todor]] |  | place |  |  | inferred: ancestry: dwarven |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/The Iron Swan\|The Iron Swan]] |  | place |  |  | inferred: ancestry: dwarven |
+| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Thordun\|Thordûn]] |  | place |  | THOR-doon | inferred: vault path: Gazetteer/Central Highlands/Dwarven |
+| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Tumukhar\|Tumukhar]] |  | place |  |  | inferred: ancestry: dwarven |
+| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Zarkandur\|Zarkandur]] |  | place |  |  | inferred: ancestry: dwarven |
+| [[Things/Artifacts of Power/Chalice of the Runepriest\|Chalice of the Runepriest]] |  | object |  |  | inferred: ancestry: dwarven |
+| [[Campaigns/Great Library Campaign/Treasure/Coldguard\|Coldguard]] |  | object |  |  | inferred: ancestry: dwarven |
+| [[Things/Magic Items/Dwarven Driftglobe\|Driftglobe]] |  | object |  |  | inferred: ancestry: dwarven |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Glove of Crystalized Magic\|Glove of Crystalized Magic]] |  | object |  |  | inferred: ancestry: dwarven |
+| [[Things/Books/Iron Verses\|Iron Verses]] |  | object |  |  | inferred: ancestry: Dwarven |
+| [[Things/Books/Legendary Gates of Kenzo\|Legendary Gates of Kenzo]] |  | object |  |  | inferred: ancestry: Dwarven |
+| [[Things/Books/Planar Tides in Relation to the Dangers of the Plaguelands\|Planar Tides in Relation to the Dangers of the Plaguelands]] |  | object |  |  | inferred: ancestry: Dwarven |
+| [[Campaigns/Cleenseau Campaign/Treasure/Dwarven Ring of Sorcerous Restoration (Izgil)\|Ring of Sorcerous Restoration]] |  | object |  |  | inferred: ancestry: Dwarven |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Ring of the Warded Mind\|Ring of the Warded mind]] |  | object |  |  | inferred: ancestry: dwarven |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Shatterstorm\|Shatterstorm]] |  | object |  |  | inferred: ancestry: dwarven |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Silverspark Gauntlets\|Silverspark Gauntlets]] |  | object |  |  | inferred: ancestry: dwarven |
+| [[Things/Books/The Song of the Eternal Earth\|The Song of the Eternal Earth]] |  | object |  |  | inferred: ancestry: Dwarven |
+| [[Campaigns/Great Library Campaign/Treasure/Thunderbrand\|Thunderbrand]] |  | object |  |  | inferred: ancestry: dwarven |
+| [[Things/Books/Zharuk Akhal\|Zharuk Akhal]] |  | object |  |  | inferred: ancestry: Dwarven |
+| [[Groups/Dwarven Thuhr/Farmer Thuhr\|Farmer Thuhr]] |  | group |  |  | inferred: ancestry: dwarven |
+| [[Groups/Dwarven Thuhr/Priest Thuhr\|Priest Thuhr]] |  | group |  |  | inferred: ancestry: dwarven |
+| [[Groups/Dwarven Clans/Redpeaks\|Redpeaks]] |  | group |  |  | inferred: ancestry: dwarven |
+| [[Groups/Dwarven Thuhr/Ruler Thuhr\|Ruler Thuhr]] |  | group |  |  | inferred: ancestry: dwarven |
+| [[Groups/Dwarven Thuhr/Runecrafter Thuhr\|Runecrafter Thuhr]] |  | group |  |  | inferred: ancestry: dwarven |
+| [[Groups/Dwarven Thuhr/Stoneworker Thuhr\|Stoneworker Thuhr]] |  | group |  |  | inferred: ancestry: dwarven |
+| [[Groups/Dwarven Thuhr/Traveler Thuhr\|Traveler Thuhr]] |  | group |  |  | inferred: ancestry: dwarven |
+| [[Groups/Dwarven Thuhr/Warrior Thuhr\|Warrior Thuhr]] |  | group |  |  | inferred: ancestry: dwarven |
+| [[Creatures/Species/Dwarves\|Dwarves]] | dwarf (Dwarvish); dwarven (Dwarvish) | creature |  |  | explicit: explicit primary-name text, body line 35 |
+| [[Gazetteer/Central Highlands/Dwarven Kingdoms/Dwarven Coins\|Dwarven Coins]] |  | background |  |  | inferred: vault path: Gazetteer/Central Highlands/Dwarven |
 
 #### Elvish
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Groups/_Cultures_/Deno'qai Tribes/Elderwood Tribes/Bek'eni|Bek'eni]] |  | ancestry · tribe | canonical |  | BEHK-en-ee | explicit: explicit primary-name text, body line 27 |
-| [[Things/Artifacts of Power/Circlet of Foreknowledge|Circlet of Foreknowledge]] |  | object · circlet | canonical |  |  | inferred: ancestry: elven |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Delwath's Elven Breastplate|Delwath's Elven Breastplate]] |  | object · armor | campaign canon |  |  | inferred: ancestry: elven |
-| [[Things/Elven Treaty Stones|Elven Treaty Stones]] |  | object · monument | canonical |  |  | explicit: explicit primary-name text, body line 6 |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Narengril|Narëngril]] |  | object · sword | campaign canon |  |  | inferred: ancestry: elven |
-| [[People/PCs/Silver Tempests/Aelar|Aelar]] |  | person · elf | canonical |  |  | inferred: species: elf |
-| [[People/Elves/Arheste|Arheste]] |  | person · elf | canonical |  | AR-hes-teh | inferred: species: elf |
-| [[People/Historical Figures/Avariel|Avariel]] |  | person · elf | canonical |  |  | inferred: species: elf |
-| [[People/Elves/Belegor|Belegor]] |  | person · elf | canonical |  | beh-leh-GOR | inferred: species: elf |
-| [[People/Elves/Calenya|Calenya]] |  | person · elf | canonical |  |  | inferred: species: elf |
-| [[People/Elves/Cirdore|Cirdore]] |  | person · elf | canonical |  | KEER-doh-reh | inferred: species: elf |
-| [[People/PCs/Dunmar Fellowship/Delwath|Delwath]] |  | person · elf | canonical |  |  | inferred: species: elf |
-| [[People/PCs/Addermarch/Drou|Drou]] |  | person · elf | canonical |  |  | inferred: species: elf |
-| [[People/Elves/Ealwen|Ealwen]] |  | person · elf | canonical |  | AY-ahl-wen | inferred: species: elf |
-| [[People/Elves/Elandrial|Elandrial]] |  | person · elf | canonical |  | eh-LAN-dree-ahl | inferred: species: elf |
-| [[People/Elves/Elenwen|Elenwen]] |  | person · elf | canonical |  |  | inferred: species: elf |
-| [[People/Elves/Elwis|Elwis]] |  | person · elf | canonical |  | EL-wiss | inferred: species: elf |
-| [[People/Elves/Erdhin|Erdhin]] | Caretaker Erdhin† (Elvish) | person · elf | canonical |  | erd-HEEN | inferred: species: elf |
-| [[People/PCs/Other PCs/Oskar's Companions/Eva|Eva]] |  | person · elf | canonical |  |  | inferred: species: elf |
-| [[People/PCs/Other PCs/Labyrinth Prisoners/Gaudin|Gadin]] | Gaudin (Elvish) | person · elf | canonical |  |  | inferred: species: elf |
-| [[People/PCs/Other PCs/Tollen Misfits/Kaito Min|Kaito Min]] |  | person · elf | canonical |  |  | inferred: species: elf |
-| [[People/Elves/Landrel|Landrel]] |  | person · elf | canonical |  |  | inferred: species: elf |
-| [[People/Historical Figures/Maglar|Maglar]] |  | person · elf | canonical |  |  | inferred: species: elf |
-| [[People/Elves/Melindir|Melindir]] |  | person · elf | canonical |  | meh-LIN-deer | inferred: species: elf |
-| [[People/Historical Figures/Minarith|Minarith]] |  | person · elf | canonical |  |  | inferred: species: elf, peronar |
-| [[People/Elves/Nelawe|Nelawe]] |  | person · elf | canonical |  |  | inferred: species: elf |
-| [[People/PCs/Great War/Rai|Rai]] |  | person · elf | canonical |  |  | inferred: species: elf, peronar |
-| [[People/PCs/Dunmar Fellowship/Guests/Shoal|Shoal]] |  | person · elf | canonical |  |  | inferred: species: elf, sea |
-| [[People/Historical Figures/Valanthe|Valanthe]] |  | person · elf | canonical |  |  | inferred: species: elf |
-| [[People/Elves/Egnir|Égnir]] |  | person · elf | canonical |  |  | inferred: species: elf |
-| [[History/Historical Realms/Alcarinque|Alcarinquë]] | status/check/mike (Elvish) | place · realm | canonical |  | ahl-KAH-rin-kweh | explicit: explicit primary-name text, body line 9 |
-| [[Gazetteer/Upper Istaros/Orenlas/Erelion|Erelion]] |  | place · city | canonical |  | air-LEE-on | inferred: ancestry: elven |
-| [[Gazetteer/Major Rivers/Istaros Watershed/Istaros|Istaros]] | Aistanë (Elvish); Drogar (Elvish); Mahar (Elvish) | place · river | canonical |  |  | explicit: explicit primary-name text, body line 25 |
-| [[Gazetteer/Upper Istaros/Orenlas/Orenlas|Orenlas]] |  | place · forest realm | canonical |  | o-REN-las | inferred: ancestry: elven |
-| [[Gazetteer/Drankorian Hinterland/Rostaure|Rostaurë]] |  | place · forest realm | canonical |  | ROS-tow-reh | inferred: ancestry: elven |
-| [[Gazetteer/Central Highlands/Tirnessa|Tirnessa]] |  | place · fort | canonical |  | TEER-ness-ah | inferred: ancestry: elven |
-| [[Gods and Religions/Gods/Embodied Gods/Aldanor|Aldanor]] |  | power · embodied god | canonical |  |  | explicit: explicit primary-name text, body line 5 |
-| [[Gods and Religions/Gods/Embodied Gods/Elmerca|Elmerca]] |  | power · embodied god | canonical |  |  | explicit: explicit primary-name text, body line 5 |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/PCs/Silver Tempests/Aelar\|Aelar]] |  | person |  |  | inferred: species: elf |
+| [[People/Elves/Arheste\|Arheste]] |  | person |  | AR-hes-teh | inferred: species: elf |
+| [[People/Historical Figures/Avariel\|Avariel]] |  | person |  |  | inferred: species: elf |
+| [[People/Elves/Belegor\|Belegor]] |  | person |  | beh-leh-GOR | inferred: species: elf |
+| [[People/Elves/Calenya\|Calenya]] |  | person |  |  | inferred: species: elf |
+| [[People/Elves/Cirdore\|Cirdore]] |  | person |  | KEER-doh-reh | inferred: species: elf |
+| [[People/PCs/Dunmar Fellowship/Delwath\|Delwath]] |  | person |  |  | inferred: species: elf |
+| [[People/PCs/Addermarch/Drou\|Drou]] |  | person |  |  | inferred: species: elf |
+| [[People/Elves/Ealwen\|Ealwen]] |  | person |  | AY-ahl-wen | inferred: species: elf |
+| [[People/Elves/Elandrial\|Elandrial]] |  | person |  | eh-LAN-dree-ahl | inferred: species: elf |
+| [[People/Elves/Elenwen\|Elenwen]] |  | person |  |  | inferred: species: elf |
+| [[People/Elves/Elwis\|Elwis]] |  | person |  | EL-wiss | inferred: species: elf |
+| [[People/Elves/Erdhin\|Erdhin]] | Caretaker Erdhin† (Elvish) | person |  | erd-HEEN | inferred: species: elf |
+| [[People/PCs/Other PCs/Oskar's Companions/Eva\|Eva]] |  | person |  |  | inferred: species: elf |
+| [[People/PCs/Other PCs/Labyrinth Prisoners/Gaudin\|Gadin]] | Gaudin (Elvish) | person |  |  | inferred: species: elf |
+| [[People/PCs/Other PCs/Tollen Misfits/Kaito Min\|Kaito Min]] |  | person |  |  | inferred: species: elf |
+| [[People/Elves/Landrel\|Landrel]] |  | person |  |  | inferred: species: elf |
+| [[People/Historical Figures/Maglar\|Maglar]] |  | person |  |  | inferred: species: elf |
+| [[People/Elves/Melindir\|Melindir]] |  | person |  | meh-LIN-deer | inferred: species: elf |
+| [[People/Historical Figures/Minarith\|Minarith]] |  | person |  |  | inferred: species: elf, peronar |
+| [[People/Elves/Nelawe\|Nelawe]] |  | person |  |  | inferred: species: elf |
+| [[People/PCs/Great War/Rai\|Rai]] |  | person |  |  | inferred: species: elf, peronar |
+| [[People/PCs/Dunmar Fellowship/Guests/Shoal\|Shoal]] |  | person |  |  | inferred: species: elf, sea |
+| [[People/Historical Figures/Valanthe\|Valanthe]] |  | person |  |  | inferred: species: elf |
+| [[People/Elves/Egnir\|Égnir]] |  | person |  |  | inferred: species: elf |
+| [[Gods and Religions/Gods/Embodied Gods/Aldanor\|Aldanor]] |  | power |  |  | explicit: explicit primary-name text, body line 5 |
+| [[Gods and Religions/Gods/Embodied Gods/Elmerca\|Elmerca]] |  | power |  |  | explicit: explicit primary-name text, body line 5 |
+| [[History/Historical Realms/Alcarinque\|Alcarinquë]] | status/check/mike (Elvish) | place |  | ahl-KAH-rin-kweh | explicit: explicit primary-name text, body line 9 |
+| [[Gazetteer/Upper Istaros/Orenlas/Erelion\|Erelion]] |  | place |  | air-LEE-on | inferred: ancestry: elven |
+| [[Gazetteer/Major Rivers/Istaros Watershed/Istaros\|Istaros]] | Aistanë (Elvish); Drogar (Elvish); Mahar (Elvish) | place |  |  | explicit: explicit primary-name text, body line 25 |
+| [[Gazetteer/Upper Istaros/Orenlas/Orenlas\|Orenlas]] |  | place |  | o-REN-las | inferred: ancestry: elven |
+| [[Gazetteer/Drankorian Hinterland/Rostaure\|Rostaurë]] |  | place |  | ROS-tow-reh | inferred: ancestry: elven |
+| [[Gazetteer/Central Highlands/Tirnessa\|Tirnessa]] |  | place |  | TEER-ness-ah | inferred: ancestry: elven |
+| [[Things/Artifacts of Power/Circlet of Foreknowledge\|Circlet of Foreknowledge]] |  | object |  |  | inferred: ancestry: elven |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Delwath's Elven Breastplate\|Delwath's Elven Breastplate]] |  | object |  |  | inferred: ancestry: elven |
+| [[Things/Elven Treaty Stones\|Elven Treaty Stones]] |  | object |  |  | explicit: explicit primary-name text, body line 6 |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Narengril\|Narëngril]] |  | object |  |  | inferred: ancestry: elven |
+| [[Cosmology/Planar Concepts/Ley Lines\|Ley Lines]] |  | background |  |  | explicit: explicit primary-name text, body line 3 |
 
 #### Free Orcish
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Gazetteer/Upper Istaros/Xurkhaz/Xurkhaz|Xurkhaz]] |  | place · monarchy | canonical |  | ZURK-kaz | inferred: ancestry: free orc |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[Gazetteer/Upper Istaros/Xurkhaz/Xurkhaz\|Xurkhaz]] |  | place |  | ZURK-kaz | inferred: ancestry: free orc |
 
 #### Halfling
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Groups/Halfling Families/Brightmoons|Brightmoons]] |  | group · family | canonical |  |  | inferred: ancestry: halfling |
-| [[Groups/Halfling Families/Charmhearts|Charmhearts]] | Charmheart (Halfling) | group · family | canonical |  |  | inferred: ancestry: halfling |
-| [[Groups/Halfling Families/Copperharps|Copperharps]] |  | group · family | canonical |  |  | inferred: ancestry: halfling |
-| [[Groups/Halfling Families/Goodbarrels|Goodbarrels]] |  | group · family | canonical |  |  | inferred: ancestry: halfling |
-| [[Groups/Halfling Families/Greenleafs|Greenleafs]] |  | group · family | canonical |  |  | inferred: ancestry: halfling |
-| [[Groups/Halfling Families/Honeyhills|Honeyhills]] |  | group · family | canonical |  |  | inferred: ancestry: halfling |
-| [[Groups/Halfling Families/Merriweathers|Merriweathers]] |  | group · family | canonical |  |  | inferred: ancestry: halfling |
-| [[Groups/Halfling Families/Oakstrides|Oakstrides]] |  | group · family | canonical |  |  | inferred: ancestry: halfling |
-| [[Groups/Halfling Families/Riverstones|Riverstones]] |  | group · family | canonical |  |  | inferred: ancestry: halfling |
-| [[Groups/Halfling Families/Silversongs|Silversongs]] |  | group · family | canonical |  |  | inferred: ancestry: halfling |
-| [[Groups/Halfling Families/Stonebridges|Stonebridges]] |  | group · family | canonical |  |  | inferred: ancestry: halfling |
-| [[Groups/Halfling Families/Strongbones|Strongbones]] |  | group · family | canonical |  |  | inferred: ancestry: halfling |
-| [[Groups/Halfling Families/Sunmeadows|Sunmeadows]] |  | group · family | canonical |  |  | inferred: ancestry: halfling |
-| [[Groups/Halfling Families/Tealeafs|Tealeafs]] |  | group · family | canonical |  |  | inferred: ancestry: halfling |
-| [[Groups/Halfling Families/Wildcloaks|Wildcloaks]] |  | group · family | canonical |  |  | inferred: ancestry: halfling |
-| [[Things/Ships/Emerald Song|Emerald Song]] |  | object · boat | canonical |  |  | inferred: ancestry: halfling |
-| [[Things/Ships/Stormdancer|Stormdancer]] |  | object · boat | canonical |  |  | inferred: ancestry: halfling |
-| [[Things/Ships/Summer's Breeze|Summer's Breeze]] |  | object · boat | canonical |  |  | inferred: ancestry: halfling |
-| [[Things/Ships/Wave Dancer|Wave Dancer]] |  | object · boat | canonical |  |  | inferred: ancestry: halfling |
-| [[People/Halflings/Adra Brightwood|Adra Brightwood]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/PCs/Silver Tempests/Alton|Alton]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Alton Greenleaf|Alton Greenleaf]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Ander Charmheart|Ander Charmheart]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Bella Stormwind|Bella Stormwind]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Bree Charmheart|Bree Charmheart]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Cade Strongbones|Cade Strongbones]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Callie Charmheart|Callie Charmheart]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Callie Riverstone|Callie Riverstone]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Chenna Goodbarrel|Chenna Goodbarrel]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Corrin Merriweather|Corrin Merriweather]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Corrin Wildheart|Corrin Wildheart]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Daisy Lightfoot|Daisy Lightfoot]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Dani Silversong|Dani Silversong]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Dee Wildcloak|Dee Wildcloak]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Enzo Brightwood|Enzo Brightwood]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Ewen Silversong|Ewen Silversong]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Fin Merriweather|Fin Merriweather]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/PCs/Into the Chasm/Finnan Oakstride|Finnan Oakstride]] | Finnan (Halfling) | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Finoc Small|Finoc Small]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Garret Tealeaf|Garret Tealeaf]] | Garret (Halfling) | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Harol Silversong|Harol Silversong]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Harold Stonebridge|Harold Stonebridge]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Harriet Goodbarrel|Harriet Goodbarrel]] | Harriet (Halfling) | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Jasmine Sunmeadow|Jasmine Sunmeadow]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Jenny Honeypot|Jenny Honeypot]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Lerry Wildheart|Lerry Wildheart]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/PCs/Other PCs/Labyrinth Prisoners/Loria Underbough|Loria Underbough]] | Loria (Halfling) | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Lyle Greenleaf|Lyle Greenleaf]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Lyle Honeyhill|Lyle Honeyhill]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Mica Copperharp|Mica Copperharp]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Mica Honeypot|Mica Honeypot]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Milo Thistlefoot|Milo Thistlefoot]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Oona Stonebridge|Oona Stonebridge]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Oswalt Tealeaf|Oswalt Tealeaf]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Pandel|Pandel]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Pearl Brightmoon|Pearl Brightmoon]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Pearl Copperharp|Pearl Copperharp]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Pippa Goodbarrow|Pippa Goodbarrow]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Primrose Merriweather|Primrose Merriweather]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Rose Brightmoon|Rose Brightmoon]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Historical Figures/Seraphina Appleblossom|Seraphina Appleblossom]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Tilly Brineheart|Tilly Brineheart]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Tye Strongbones|Tye Strongbones]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Wella Brightmoon|Wella Brightmoon]] | Wella (Halfling) | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/PCs/Dunmar Fellowship/Wellby|Wellby]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Wendel Quickstep|Wendel Quickstep]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Wes Strongbones|Wes Strongbones]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/Halflings/Willow Copperharp|Willow Copperharp]] |  | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[People/PCs/Addermarch/Yvan Greenrabbit|Yvan Greenrabbit]] | Yvan (Halfling) | person · halfling | canonical |  |  | inferred: species: halfling |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Coastal Dunmar/Darba/The Green Leaf|The Green Leaf]] |  | place · inn | canonical |  |  | inferred: ancestry: halfling |
-| [[Gazetteer/Greater Sembara/Tollen/Places/The Singing Fox|The Singing Fox]] |  | place · inn | canonical |  |  | inferred: ancestry: halfling |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Smiling Crab|The Smiling Crab]] |  | place · inn | canonical |  |  | inferred: ancestry: halfling |
-| [[Gazetteer/Greater Sembara/Tollen/Places/The Windward Sail|The Windward Sail]] |  | place · inn | canonical |  |  | inferred: ancestry: halfling |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Halflings/Adra Brightwood\|Adra Brightwood]] |  | person |  |  | inferred: species: halfling |
+| [[People/PCs/Silver Tempests/Alton\|Alton]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Alton Greenleaf\|Alton Greenleaf]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Ander Charmheart\|Ander Charmheart]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Bella Stormwind\|Bella Stormwind]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Bree Charmheart\|Bree Charmheart]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Cade Strongbones\|Cade Strongbones]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Callie Charmheart\|Callie Charmheart]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Callie Riverstone\|Callie Riverstone]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Chenna Goodbarrel\|Chenna Goodbarrel]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Corrin Merriweather\|Corrin Merriweather]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Corrin Wildheart\|Corrin Wildheart]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Daisy Lightfoot\|Daisy Lightfoot]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Dani Silversong\|Dani Silversong]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Dee Wildcloak\|Dee Wildcloak]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Enzo Brightwood\|Enzo Brightwood]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Ewen Silversong\|Ewen Silversong]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Fin Merriweather\|Fin Merriweather]] |  | person |  |  | inferred: species: halfling |
+| [[People/PCs/Into the Chasm/Finnan Oakstride\|Finnan Oakstride]] | Finnan (Halfling) | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Finoc Small\|Finoc Small]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Garret Tealeaf\|Garret Tealeaf]] | Garret (Halfling) | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Harol Silversong\|Harol Silversong]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Harold Stonebridge\|Harold Stonebridge]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Harriet Goodbarrel\|Harriet Goodbarrel]] | Harriet (Halfling) | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Jasmine Sunmeadow\|Jasmine Sunmeadow]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Jenny Honeypot\|Jenny Honeypot]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Lerry Wildheart\|Lerry Wildheart]] |  | person |  |  | inferred: species: halfling |
+| [[People/PCs/Other PCs/Labyrinth Prisoners/Loria Underbough\|Loria Underbough]] | Loria (Halfling) | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Lyle Greenleaf\|Lyle Greenleaf]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Lyle Honeyhill\|Lyle Honeyhill]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Mica Copperharp\|Mica Copperharp]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Mica Honeypot\|Mica Honeypot]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Milo Thistlefoot\|Milo Thistlefoot]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Oona Stonebridge\|Oona Stonebridge]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Oswalt Tealeaf\|Oswalt Tealeaf]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Pandel\|Pandel]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Pearl Brightmoon\|Pearl Brightmoon]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Pearl Copperharp\|Pearl Copperharp]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Pippa Goodbarrow\|Pippa Goodbarrow]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Primrose Merriweather\|Primrose Merriweather]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Rose Brightmoon\|Rose Brightmoon]] |  | person |  |  | inferred: species: halfling |
+| [[People/Historical Figures/Seraphina Appleblossom\|Seraphina Appleblossom]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Tilly Brineheart\|Tilly Brineheart]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Tye Strongbones\|Tye Strongbones]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Wella Brightmoon\|Wella Brightmoon]] | Wella (Halfling) | person |  |  | inferred: species: halfling |
+| [[People/PCs/Dunmar Fellowship/Wellby\|Wellby]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Wendel Quickstep\|Wendel Quickstep]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Wes Strongbones\|Wes Strongbones]] |  | person |  |  | inferred: species: halfling |
+| [[People/Halflings/Willow Copperharp\|Willow Copperharp]] |  | person |  |  | inferred: species: halfling |
+| [[People/PCs/Addermarch/Yvan Greenrabbit\|Yvan Greenrabbit]] | Yvan (Halfling) | person |  |  | inferred: species: halfling |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Coastal Dunmar/Darba/The Green Leaf\|The Green Leaf]] |  | place |  |  | inferred: ancestry: halfling |
+| [[Gazetteer/Greater Sembara/Tollen/Places/The Singing Fox\|The Singing Fox]] |  | place |  |  | inferred: ancestry: halfling |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Smiling Crab\|The Smiling Crab]] |  | place |  |  | inferred: ancestry: halfling |
+| [[Gazetteer/Greater Sembara/Tollen/Places/The Windward Sail\|The Windward Sail]] |  | place |  |  | inferred: ancestry: halfling |
+| [[Things/Ships/Emerald Song\|Emerald Song]] |  | object |  |  | inferred: ancestry: halfling |
+| [[Things/Ships/Stormdancer\|Stormdancer]] |  | object |  |  | inferred: ancestry: halfling |
+| [[Things/Ships/Summer's Breeze\|Summer's Breeze]] |  | object |  |  | inferred: ancestry: halfling |
+| [[Things/Ships/Wave Dancer\|Wave Dancer]] |  | object |  |  | inferred: ancestry: halfling |
+| [[Groups/Halfling Families/Brightmoons\|Brightmoons]] |  | group |  |  | inferred: ancestry: halfling |
+| [[Groups/Halfling Families/Charmhearts\|Charmhearts]] | Charmheart (Halfling) | group |  |  | inferred: ancestry: halfling |
+| [[Groups/Halfling Families/Copperharps\|Copperharps]] |  | group |  |  | inferred: ancestry: halfling |
+| [[Groups/Halfling Families/Goodbarrels\|Goodbarrels]] |  | group |  |  | inferred: ancestry: halfling |
+| [[Groups/Halfling Families/Greenleafs\|Greenleafs]] |  | group |  |  | inferred: ancestry: halfling |
+| [[Groups/Halfling Families/Honeyhills\|Honeyhills]] |  | group |  |  | inferred: ancestry: halfling |
+| [[Groups/Halfling Families/Merriweathers\|Merriweathers]] |  | group |  |  | inferred: ancestry: halfling |
+| [[Groups/Halfling Families/Oakstrides\|Oakstrides]] |  | group |  |  | inferred: ancestry: halfling |
+| [[Groups/Halfling Families/Riverstones\|Riverstones]] |  | group |  |  | inferred: ancestry: halfling |
+| [[Groups/Halfling Families/Silversongs\|Silversongs]] |  | group |  |  | inferred: ancestry: halfling |
+| [[Groups/Halfling Families/Stonebridges\|Stonebridges]] |  | group |  |  | inferred: ancestry: halfling |
+| [[Groups/Halfling Families/Strongbones\|Strongbones]] |  | group |  |  | inferred: ancestry: halfling |
+| [[Groups/Halfling Families/Sunmeadows\|Sunmeadows]] |  | group |  |  | inferred: ancestry: halfling |
+| [[Groups/Halfling Families/Tealeafs\|Tealeafs]] |  | group |  |  | inferred: ancestry: halfling |
+| [[Groups/Halfling Families/Wildcloaks\|Wildcloaks]] |  | group |  |  | inferred: ancestry: halfling |
 
 #### Lizardling
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Campaigns/Great Library Campaign/Treasure/Staff of the Swamplands|Staff of the Swamplands]] |  | object · staff | campaign canon |  |  | inferred: ancestry: lizardfolk |
-| [[Things/Books/The Endless Currents|The Endless Currents]] |  | object · epic poem | canonical |  |  | inferred: ancestry: Lizardfolk |
-| [[People/PCs/Other PCs/Labyrinth Prisoners/Acescale|Acescale]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Amaya|Amaya]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Aritza|Aritza]] |  | person · lizardfolk | canonical |  | ah-REET-sah | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Arrosa|Arrosa]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/Historical Figures/Aznoke|Aznoké]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Benat|Benat]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Edur|Edur]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Elazar|Elazar]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Enari|Enari]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Erdu|Erdu]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Eztain|Eztain]] |  | person · lizardfolk | canonical |  | EHZ-tine | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Gentza|Gentza]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Iara|Iara]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Itxal|Itxal]] |  | person · lizardfolk | canonical |  | EET-shahl | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Itzal|Itzal]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk, salt |
-| [[People/PCs/Ausson's Crossing/Izar|Izar]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Izoko|Izoko]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/PCs/Dunmar Fellowship/Guests/Izzarak|Izzarak]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Koldo|Koldo]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/PCs/Great War/Kyr|Kyr]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Leizar|Leizar]] |  | person · lizardfolk | canonical |  | LAY-zhar | inferred: species: lizardfolk |
-| [[People/PCs/Silver Tempests/Samso|Samso]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Sokara|Sokara]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[People/PCs/Mawar/Trok|Trok]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk, salt |
-| [[People/PCs/Other PCs/Tollen Misfits/Txarro|Txarro]] |  | person · lizardfolk | canonical |  | CHAH-roh | inferred: species: lizardfolk |
-| [[People/Lizardfolk/Unai|Unai]] |  | person · lizardfolk | canonical |  |  | inferred: species: lizardfolk |
-| [[Gazetteer/Faraway Places/Bedez|Bedez]] |  | place · village | canonical |  |  | inferred: ancestry: lizardfolk |
-| [[Gazetteer/Northwest Coast/Mawar Confederacy/Eskorola|Eskorola]] |  | place · village | canonical |  | es-ko-ROH-lah | inferred: ancestry: lizardfolk |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Ganboa|Ganboa]] |  | place · village | canonical |  | Gan-bo-a | inferred: ancestry: lizardfolk |
-| [[Gazetteer/Greater Sembara/Latazaro|Latazaro]] |  | place · swamp | canonical |  | LAH-tah-zah-roh | inferred: ancestry: lizardfolk |
-| [[Gazetteer/Faraway Places/Orekatu|Orekatu]] |  | place · realm | canonical |  |  | inferred: ancestry: lizardfolk |
-| [[Gazetteer/Greater Sembara/Ozabal|Ozabal]] | Ozabal Swamp (Common) | place · swamp | canonical |  | oh-SAH-bahl | inferred: ancestry: lizardfolk |
-| [[Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Three Wells|Three Wells]] |  | place · meeting place | canonical |  |  | explicit: explicit primary-name text, body line 13 |
-| [[Gazetteer/Northwest Coast/Mawar Confederacy/Tzingola|Tzingola]] | Tzingola Marshes (Lizardling); North Marshes (Lizardling) | place · salt marsh | canonical |  | tseen-GOH-lah | explicit: explicit primary-name text, body line 7 |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Urkabi|Urkabi]] |  | place · village | canonical |  | oor-KAH-bee | inferred: ancestry: lizardfolk |
-| [[History/Historical Realms/Urtzabala|Urtzabala]] | Ancient Lizardfolk Swamp (Common) | place · swamp | canonical | ✓ | oor-tsah-BAH-lah | inferred: ancestry: lizardfolk |
-| [[People/Extraplanar Powers/Sentient Ocean|Sentient Ocean]] | Yi'weti, Yi’weti, Ur Biyiak, Wanui Teora, Ma'haya Kabir (Lizardling) | power · living ocean | canonical |  |  | explicit: explicit primary-name text, body line 7 |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/PCs/Other PCs/Labyrinth Prisoners/Acescale\|Acescale]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Amaya\|Amaya]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Aritza\|Aritza]] |  | person |  | ah-REET-sah | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Arrosa\|Arrosa]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/Historical Figures/Aznoke\|Aznoké]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Benat\|Benat]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Edur\|Edur]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Elazar\|Elazar]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Enari\|Enari]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Erdu\|Erdu]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Eztain\|Eztain]] |  | person |  | EHZ-tine | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Gentza\|Gentza]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Iara\|Iara]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Itxal\|Itxal]] |  | person |  | EET-shahl | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Itzal\|Itzal]] |  | person |  |  | inferred: species: lizardfolk, salt |
+| [[People/PCs/Ausson's Crossing/Izar\|Izar]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Izoko\|Izoko]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/PCs/Dunmar Fellowship/Guests/Izzarak\|Izzarak]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Koldo\|Koldo]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/PCs/Great War/Kyr\|Kyr]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Leizar\|Leizar]] |  | person |  | LAY-zhar | inferred: species: lizardfolk |
+| [[People/PCs/Silver Tempests/Samso\|Samso]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Sokara\|Sokara]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/PCs/Mawar/Trok\|Trok]] |  | person |  |  | inferred: species: lizardfolk, salt |
+| [[People/PCs/Other PCs/Tollen Misfits/Txarro\|Txarro]] |  | person |  | CHAH-roh | inferred: species: lizardfolk |
+| [[People/Lizardfolk/Unai\|Unai]] |  | person |  |  | inferred: species: lizardfolk |
+| [[People/Extraplanar Powers/Sentient Ocean\|Sentient Ocean]] | Yi'weti, Yi’weti, Ur Biyiak, Wanui Teora, Ma'haya Kabir (Lizardling) | power |  |  | explicit: explicit primary-name text, body line 7 |
+| [[Gazetteer/Faraway Places/Bedez\|Bedez]] |  | place |  |  | inferred: ancestry: lizardfolk |
+| [[Gazetteer/Northwest Coast/Mawar Confederacy/Eskorola\|Eskorola]] |  | place |  | es-ko-ROH-lah | inferred: ancestry: lizardfolk |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Ganboa\|Ganboa]] |  | place |  | Gan-bo-a | inferred: ancestry: lizardfolk |
+| [[Gazetteer/Greater Sembara/Latazaro\|Latazaro]] |  | place |  | LAH-tah-zah-roh | inferred: ancestry: lizardfolk |
+| [[Gazetteer/Faraway Places/Orekatu\|Orekatu]] |  | place |  |  | inferred: ancestry: lizardfolk |
+| [[Gazetteer/Greater Sembara/Ozabal\|Ozabal]] | Ozabal Swamp (Common) | place |  | oh-SAH-bahl | inferred: ancestry: lizardfolk |
+| [[Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Three Wells\|Three Wells]] |  | place |  |  | explicit: explicit primary-name text, body line 13 |
+| [[Gazetteer/Northwest Coast/Mawar Confederacy/Tzingola\|Tzingola]] | Tzingola Marshes (Lizardling); North Marshes (Lizardling) | place |  | tseen-GOH-lah | explicit: explicit primary-name text, body line 7 |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Urkabi\|Urkabi]] |  | place |  | oor-KAH-bee | inferred: ancestry: lizardfolk |
+| [[History/Historical Realms/Urtzabala\|Urtzabala]] | Ancient Lizardfolk Swamp (Common) | place | ✓ | oor-tsah-BAH-lah | inferred: ancestry: lizardfolk |
+| [[Campaigns/Great Library Campaign/Treasure/Staff of the Swamplands\|Staff of the Swamplands]] |  | object |  |  | inferred: ancestry: lizardfolk |
+| [[Things/Books/The Endless Currents\|The Endless Currents]] |  | object |  |  | inferred: ancestry: Lizardfolk |
+| [[Gods and Religions/Gods/Embodied Gods/Tharzen Anzinakoa/Tharzen Anzinakoa\|Tharzen Anzinakoa]] |  | background |  | tar-SEN an-see-NA-ko-ah | explicit: explicit primary-name text, body line 8 |
 
 #### Orcish
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Groups/Orc Hordes/Dustthorn Horde|Dustthorn Horde]] |  | group · horde | canonical |  |  | inferred: ancestry: orcish |
-| [[Groups/Orc Hordes/Grash's Horde|Grash's Horde]] |  | group · clan | canonical |  |  | inferred: vault path: Groups/Orc Hordes |
-| [[Groups/Orc Hordes/Grumella's Horde|Grumella's Horde]] |  | group · horde | canonical |  |  | inferred: ancestry: orc |
-| [[Groups/Hezguli|Hezguli]] |  | group · communal society | canonical |  |  | inferred: ancestry: orc |
-| [[Groups/Orc Hordes/People of the Rainbow|People of the Rainbow]] |  | group · clan | canonical |  |  | inferred: ancestry: orc |
-| [[People/Orcs/Aygul|Aygul]] |  | person · orc | canonical |  | EYE-gool | inferred: species: orc |
-| [[People/Orcs/Azogar|Azogar]] | Loremaster Azogar† (Orcish) | person · orc | canonical |  |  | inferred: species: orc, unchained |
-| [[People/Orcs/Gorkil|Gorkil]] |  | person · orc | canonical |  |  | inferred: species: orc |
-| [[People/Orcs/Grumella|Grumella the Vengeful]] |  | person · orc | canonical |  |  | inferred: species: orc |
-| [[People/Orcs/Karguk|Karguk]] |  | person | canonical |  |  | inferred: vault path: People/Orcs |
-| [[People/Orcs/Lubash|Lubash]] | Chief Lubash† (Orcish) | person · orc | canonical |  |  | inferred: species: orc |
-| [[People/Orcs/Murook|Murook]] | General Murook† (Orcish) | person · orc | canonical |  |  | inferred: species: orc |
-| [[People/Orcs/Nogu|Nogu]] |  | person · orc | canonical |  |  | inferred: species: orc |
-| [[People/Orcs/Nuzkar|Nuzkar]] |  | person · orc | canonical |  | NUZ-car | inferred: species: orc |
-| [[People/Other Nonhumans/Raluhk|Raluhk]] |  | person · orc | canonical |  |  | inferred: species: orc, orog |
-| [[People/Orcs/Uzgash|Uzgash]] |  | person · orc | canonical |  |  | inferred: species: orc |
-| [[People/Orcs/Uzgul|Uzgul]] | Chiefling Uzgul† (Orcish) | person · orc | canonical |  |  | inferred: species: orc |
-| [[People/Orcs/Vorgaz|Vorgaz]] | Commander Vorgaz† (Orcish) | person · orc | canonical |  |  | inferred: species: orc |
-| [[Gazetteer/Upper Istaros/Xurkhaz/Khumarz|Khumarz]] |  | place · town | canonical |  |  | inferred: ancestry: orc |
-| [[Gazetteer/Greater Sembara/Duchy of Maseau/Wakog's Camp|Wakog's Camp]] |  | place · fortified camp | canonical |  |  | inferred: ancestry: orc |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Orcs/Aygul\|Aygul]] |  | person |  | EYE-gool | inferred: species: orc |
+| [[People/Orcs/Azogar\|Azogar]] | Loremaster Azogar† (Orcish) | person |  |  | inferred: species: orc, unchained |
+| [[People/Orcs/Gorkil\|Gorkil]] |  | person |  |  | inferred: species: orc |
+| [[People/Orcs/Grumella\|Grumella the Vengeful]] |  | person |  |  | inferred: species: orc |
+| [[People/Orcs/Karguk\|Karguk]] |  | person |  |  | inferred: vault path: People/Orcs |
+| [[People/Orcs/Lubash\|Lubash]] | Chief Lubash† (Orcish) | person |  |  | inferred: species: orc |
+| [[People/Orcs/Murook\|Murook]] | General Murook† (Orcish) | person |  |  | inferred: species: orc |
+| [[People/Orcs/Nogu\|Nogu]] |  | person |  |  | inferred: species: orc |
+| [[People/Orcs/Nuzkar\|Nuzkar]] |  | person |  | NUZ-car | inferred: species: orc |
+| [[People/Other Nonhumans/Raluhk\|Raluhk]] |  | person |  |  | inferred: species: orc, orog |
+| [[People/Orcs/Uzgash\|Uzgash]] |  | person |  |  | inferred: species: orc |
+| [[People/Orcs/Uzgul\|Uzgul]] | Chiefling Uzgul† (Orcish) | person |  |  | inferred: species: orc |
+| [[People/Orcs/Vorgaz\|Vorgaz]] | Commander Vorgaz† (Orcish) | person |  |  | inferred: species: orc |
+| [[Gazetteer/Upper Istaros/Xurkhaz/Khumarz\|Khumarz]] |  | place |  |  | inferred: ancestry: orc |
+| [[Gazetteer/Greater Sembara/Duchy of Maseau/Wakog's Camp\|Wakog's Camp]] |  | place |  |  | inferred: ancestry: orc |
+| [[Groups/Orc Hordes/Dustthorn Horde\|Dustthorn Horde]] |  | group |  |  | inferred: ancestry: orcish |
+| [[Groups/Orc Hordes/Grash's Horde\|Grash's Horde]] |  | group |  |  | inferred: vault path: Groups/Orc Hordes |
+| [[Groups/Orc Hordes/Grumella's Horde\|Grumella's Horde]] |  | group |  |  | inferred: ancestry: orc |
+| [[Groups/Hezguli\|Hezguli]] |  | group |  |  | inferred: ancestry: orc |
+| [[Groups/Orc Hordes/People of the Rainbow\|People of the Rainbow]] |  | group |  |  | inferred: ancestry: orc |
 
 #### Stoneborn
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Things/Books/On the Power of Creation|On the Power of Creation]] |  | object · cosmological treatise | canonical |  |  | inferred: ancestry: Stoneborn |
-| [[People/PCs/Silver Tempests/Aglath|Aglath]] |  | person · stoneborn | canonical |  |  | inferred: species: stoneborn |
-| [[People/PCs/Dunmar Fellowship/Guests/Aristaea|Aristaea]] |  | person · stoneborn | canonical |  |  | inferred: species: stoneborn |
-| [[People/Other Nonhumans/Arvanko|Arvanko]] |  | person · stoneborn | canonical |  |  | inferred: species: stoneborn |
-| [[People/PCs/Dunmar Fellowship/Guests/Drikod|Drikod]] |  | person · stoneborn | canonical |  |  | inferred: species: stoneborn |
-| [[People/Other Nonhumans/Kazuro|Kazuro]] |  | person · stoneborn | canonical |  |  | inferred: species: stoneborn |
-| [[People/PCs/Other PCs/Oskar's Companions/Ken-to|Ken-to]] |  | person · stoneborn | canonical |  |  | inferred: species: stoneborn |
-| [[People/Other Nonhumans/Moondweller|Moondweller]] |  | person · stoneborn | canonical |  |  | inferred: species: stoneborn |
-| [[People/Other Nonhumans/Umli|Umli the Exile]] | Umli (Stoneborn) | person · stoneborn | canonical |  |  | inferred: species: stoneborn |
-| [[People/Historical Figures/Yendalo|Yendalo]] |  | person · stoneborn | canonical |  |  | inferred: species: stoneborn |
-| [[People/Other Nonhumans/Zimkala|Zimkala]] |  | person · stoneborn | canonical |  | zeem-KAH-lah | inferred: species: stoneborn |
-| [[Gazetteer/Central Highlands/Kunda|Kunda]] |  | place · village | canonical |  |  | inferred: ancestry: stoneborn |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/PCs/Silver Tempests/Aglath\|Aglath]] |  | person |  |  | inferred: species: stoneborn |
+| [[People/PCs/Dunmar Fellowship/Guests/Aristaea\|Aristaea]] |  | person |  |  | inferred: species: stoneborn |
+| [[People/Other Nonhumans/Arvanko\|Arvanko]] |  | person |  |  | inferred: species: stoneborn |
+| [[People/PCs/Dunmar Fellowship/Guests/Drikod\|Drikod]] |  | person |  |  | inferred: species: stoneborn |
+| [[People/Other Nonhumans/Kazuro\|Kazuro]] |  | person |  |  | inferred: species: stoneborn |
+| [[People/PCs/Other PCs/Oskar's Companions/Ken-to\|Ken-to]] |  | person |  |  | inferred: species: stoneborn |
+| [[People/Other Nonhumans/Moondweller\|Moondweller]] |  | person |  |  | inferred: species: stoneborn |
+| [[People/Other Nonhumans/Umli\|Umli the Exile]] | Umli (Stoneborn) | person |  |  | inferred: species: stoneborn |
+| [[People/Historical Figures/Yendalo\|Yendalo]] |  | person |  |  | inferred: species: stoneborn |
+| [[People/Other Nonhumans/Zimkala\|Zimkala]] |  | person |  | zeem-KAH-lah | inferred: species: stoneborn |
+| [[Gazetteer/Central Highlands/Kunda\|Kunda]] |  | place |  |  | inferred: ancestry: stoneborn |
+| [[Things/Books/On the Power of Creation\|On the Power of Creation]] |  | object |  |  | inferred: ancestry: Stoneborn |
 
 ### Northros
 
 #### Deno'qai
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Groups/_Cultures_/Deno'qai Tribes/Elderwood Tribes/Baz'aku|Baz'aku]] |  | ancestry · tribe | canonical |  | bahz-ah-KOO | inferred: whereabouts: Elderwood |
-| [[Groups/_Cultures_/Deno'qai Tribes/Elderwood Tribes/Te'kula|Te'kula]] |  | ancestry · tribe | canonical |  |  | inferred: whereabouts: Elderwood |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Deno'qai Lynx Shield|Deno'qai Lynx Shield]] |  | object · shield | campaign canon |  |  | inferred: ancestry: Deno'qai |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Deno'qai Scale Mail|Deno'qai Scale Mail]] |  | object · armor | campaign canon |  |  | inferred: ancestry: Deno'qai |
-| [[Things/Books/The Tales of Ma'qaar|The Tales of Ma'qaar]] |  | object · epic poem | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Alayah|Alayah]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Ariel|Ariel]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Historical Figures/Balati|Balati]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Enon|Enon]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Other Nonhumans/Mezzar|Grimbaskal]] |  | person · dragon | canonical |  |  | inferred: whereabouts: {type: home, location: Elderwood}, Elderwood |
-| [[People/Deno'qai/Hakar|Hakar]] | Chief Hakar† (Deno'qai) | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/PCs/Dunmar Fellowship/Guests/Iascaire|Iascaire]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Itar|Itar]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Izkir|Izkir]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Joram of Eshlem|Joram of Eshlem]] |  | person · human | canonical |  |  | inferred: vault path: People/Deno'qai |
-| [[People/Deno'qai/Jordo|Jordo]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Jotha|Jotha]] |  | person · human | canonical |  | yo-TAH | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Kaslan|Kaslan]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Loma|Loma]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Ninu|Ninu]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Obel|Obel]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Safri|Safri]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Theba|Theba]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Extraplanar Powers/Yeshara|Yeshara]] |  | person · human | canonical |  | yeh-SHAH-rah | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Yota|Yota]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Zaro|Zaro]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Zevi of the Bek'eni|Zevi]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[People/Deno'qai/Zevi of the Ko'zula|Zevi]] |  | person · human | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[Gazetteer/Central Highlands/Azkar|Azkar]] |  | place · village | canonical | ✓ | AHZ-kahr | inferred: ancestry: Deno'qai |
-| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Kayan|Kayan]] |  | place · river | canonical |  | KAH-yan | inferred: whereabouts: type: primary, type: secondary, Elderwood, Chasa-Nahadi Watershed |
-| [[Gazetteer/Central Highlands/Kayzad|Kayzad]] |  | place · river | canonical |  | KAY-zahd | inferred: whereabouts: type: primary, type: secondary, Elderwood, Yeraad River Basin |
-| [[Gazetteer/Central Highlands/Raha|Raha]] |  | place · village | canonical |  |  | inferred: ancestry: Deno'qai |
-| [[Gazetteer/Central Highlands/Talem|Talem]] | Bek'eni village (Common) | place · village | canonical |  | TAH-lem | inferred: whereabouts: Elderwood |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Deno'qai/Alayah\|Alayah]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Deno'qai/Ariel\|Ariel]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Historical Figures/Balati\|Balati]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Deno'qai/Enon\|Enon]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Other Nonhumans/Mezzar\|Grimbaskal]] |  | person |  |  | inferred: whereabouts: {type: home, location: Elderwood}, Elderwood |
+| [[People/Deno'qai/Hakar\|Hakar]] | Chief Hakar† (Deno'qai) | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/PCs/Dunmar Fellowship/Guests/Iascaire\|Iascaire]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Deno'qai/Itar\|Itar]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Deno'qai/Izkir\|Izkir]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Deno'qai/Joram of Eshlem\|Joram of Eshlem]] |  | person |  |  | inferred: vault path: People/Deno'qai |
+| [[People/Deno'qai/Jordo\|Jordo]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Deno'qai/Jotha\|Jotha]] |  | person |  | yo-TAH | inferred: ancestry: Deno'qai |
+| [[People/Deno'qai/Kaslan\|Kaslan]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Deno'qai/Loma\|Loma]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Deno'qai/Ninu\|Ninu]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Deno'qai/Obel\|Obel]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Deno'qai/Safri\|Safri]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Deno'qai/Theba\|Theba]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Extraplanar Powers/Yeshara\|Yeshara]] |  | person |  | yeh-SHAH-rah | inferred: ancestry: Deno'qai |
+| [[People/Deno'qai/Yota\|Yota]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Deno'qai/Zaro\|Zaro]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Deno'qai/Zevi of the Bek'eni\|Zevi]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[People/Deno'qai/Zevi of the Ko'zula\|Zevi]] |  | person |  |  | inferred: ancestry: Deno'qai |
+| [[Gazetteer/Central Highlands/Azkar\|Azkar]] |  | place | ✓ | AHZ-kahr | inferred: ancestry: Deno'qai |
+| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Kayan\|Kayan]] |  | place |  | KAH-yan | inferred: whereabouts: type: primary, type: secondary, Elderwood, Chasa-Nahadi Watershed |
+| [[Gazetteer/Central Highlands/Kayzad\|Kayzad]] |  | place |  | KAY-zahd | inferred: whereabouts: type: primary, type: secondary, Elderwood, Yeraad River Basin |
+| [[Gazetteer/Central Highlands/Raha\|Raha]] |  | place |  |  | inferred: ancestry: Deno'qai |
+| [[Gazetteer/Central Highlands/Talem\|Talem]] | Bek'eni village (Common) | place |  | TAH-lem | inferred: whereabouts: Elderwood |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Deno'qai Lynx Shield\|Deno'qai Lynx Shield]] |  | object |  |  | inferred: ancestry: Deno'qai |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Deno'qai Scale Mail\|Deno'qai Scale Mail]] |  | object |  |  | inferred: ancestry: Deno'qai |
+| [[Things/Books/The Tales of Ma'qaar\|The Tales of Ma'qaar]] |  | object |  |  | inferred: ancestry: Deno'qai |
+| [[Gods and Religions/Religions/Northern Folk Religions/Tanshi Worship\|Tanshi Worship]] |  | background |  |  | explicit: explicit primary-name text, body line 9 |
 
 #### Mawaran
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[People/Mawarans/Abelard|Abelard]] |  | person · human | canonical |  |  | inferred: ancestry: Mawaran |
-| [[People/PCs/Mawar/Ander|Ander]] |  | person · human | canonical |  |  | inferred: ancestry: Mawaran |
-| [[People/Mawarans/Azar the Lost|Azar]] | Azar the Lost (Mawaran) | person · human | canonical |  |  | inferred: ancestry: Mawaran |
-| [[People/Mawarans/Caleb|Caleb]] |  | person · human | canonical |  |  | inferred: ancestry: Mawaran |
-| [[People/Other Nonhumans/Chaessenth|Chaessenth]] |  | person · dragon turtle | canonical |  |  | inferred: whereabouts: {type: away, end: 1747-11-09, location: Tzingola, alias: "captive in a fire mage's mist-covered marsh lair"}, {type: away, start: 1747-11-09, location: Endless Ocean, alias: "deep ocean west of the Mawakel Peninsula", format: "<name:x>"}, Tzingola, Endless Ocean |
-| [[People/Mawarans/Hiyasa|Hiyasa]] |  | person · human | canonical |  |  | inferred: ancestry: Mawaran |
-| [[People/Mawarans/Jaeson|Jaeson]] |  | person · human | canonical |  |  | inferred: ancestry: Mawaran |
-| [[People/Mawarans/Nadine|Nadine]] |  | person · human | canonical |  |  | inferred: ancestry: Mawaran |
-| [[People/Mawarans/Orden|Orden]] |  | person · human | canonical |  |  | inferred: ancestry: Mawaran |
-| [[People/Mawarans/Rayna|Rayna]] |  | person · human | canonical |  |  | inferred: ancestry: Mawaran |
-| [[People/Mawarans/Reliah|Reliah]] |  | person · human | canonical |  | reh-LEE-ah | inferred: ancestry: Mawaran |
-| [[People/PCs/Mawar/Ryu|Ryu]] |  | person · human | canonical |  |  | inferred: ancestry: Mawaran |
-| [[People/Mawarans/Samar|Samar]] |  | person · human | canonical |  | sah-MAHR | inferred: ancestry: Mawaran |
-| [[People/Mawarans/Sefa|Sefa]] |  | person · human | canonical |  |  | inferred: ancestry: Mawaran |
-| [[People/Mawarans/Sulfi Mahadra|Sulfi Mahadra]] | Sulfi (Mawaran) | person · human | canonical |  |  | inferred: ancestry: Mawaran |
-| [[People/Mawarans/Yaz|Yaz]] |  | person · human | canonical |  |  | inferred: ancestry: Mawaran |
-| [[People/Mawarans/Zahir|Zahir]] |  | person · human | canonical |  |  | inferred: ancestry: Mawaran |
-| [[Gazetteer/Northwest Coast/Mawar Confederacy/Aibard|Aibard]] |  | place · village | canonical |  |  | inferred: vault path: Gazetteer/Northwest Coast/Mawar |
-| [[Gazetteer/Northwest Coast/Mawar Confederacy/Hamri|Hamri]] |  | place · town | canonical |  |  | inferred: vault path: Gazetteer/Northwest Coast/Mawar |
-| [[Gazetteer/Northwest Coast/Mawar Confederacy/Mawakel Peninsula|Mawakel Peninsula]] |  | place · peninsula | canonical |  |  | inferred: vault path: Gazetteer/Northwest Coast/Mawar |
-| [[Gazetteer/Northwest Coast/Mawar Confederacy/Mendin|Mendin]] |  | place · town | canonical |  |  | inferred: vault path: Gazetteer/Northwest Coast/Mawar |
-| [[Gazetteer/Northwest Coast/Rivers/Mirmir|Mirmir]] |  | place · river | canonical |  | MEER-meer | inferred: whereabouts: Mawakel Peninsula |
-| [[Gazetteer/Northwest Coast/Mawar Confederacy/Shrine to Guzo the Mariner|Shrine to Guzo the Mariner]] | Guzo's Shrine, Shrine of Guzo (Mawaran) | place · holy site | canonical |  |  | inferred: vault path: Gazetteer/Northwest Coast/Mawar |
-| [[Gazetteer/Northwest Coast/Mawar Confederacy/Splinters|Splinters]] |  | place · island chain | canonical |  |  | inferred: vault path: Gazetteer/Northwest Coast/Mawar |
-| [[Gazetteer/Northwest Coast/Mawar Confederacy/Suhaya|Suhaya]] |  | place · town | canonical |  |  | inferred: vault path: Gazetteer/Northwest Coast/Mawar |
-| [[Gazetteer/Northwest Coast/Rivers/Sulqat|Sulqat]] |  | place · river | canonical |  | sul-KAHT | inferred: whereabouts: Mawakel Peninsula |
-| [[Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor|Tomb of Yerkir-Khor]] | Yerkir-khor's monument and tomb, Yerkir-khor's tomb (Mawaran); Yerkir-khor's monument (Mawaran) | place · ancient earth tomb | canonical |  |  | inferred: vault path: Gazetteer/Northwest Coast/Mawar |
-| [[Gods and Religions/Gods/Incorporeal Gods/Mawaran Saints/Guzo the Mariner|Guzo the Mariner]] | Guzo (Mawaran); the ancestor of voyages and the western horizon† (Mawaran) | power · saint | canonical |  |  | explicit: explicit primary-name text, body line 6 |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Mawarans/Abelard\|Abelard]] |  | person |  |  | inferred: ancestry: Mawaran |
+| [[People/PCs/Mawar/Ander\|Ander]] |  | person |  |  | inferred: ancestry: Mawaran |
+| [[People/Mawarans/Azar the Lost\|Azar]] | Azar the Lost (Mawaran) | person |  |  | inferred: ancestry: Mawaran |
+| [[People/Mawarans/Caleb\|Caleb]] |  | person |  |  | inferred: ancestry: Mawaran |
+| [[People/Other Nonhumans/Chaessenth\|Chaessenth]] |  | person |  |  | inferred: whereabouts: {type: away, end: 1747-11-09, location: Tzingola, alias: "captive in a fire mage's mist-covered marsh lair"}, {type: away, start: 1747-11-09, location: Endless Ocean, alias: "deep ocean west of the Mawakel Peninsula", format: "<name:x>"}, Tzingola, Endless Ocean |
+| [[People/Mawarans/Hiyasa\|Hiyasa]] |  | person |  |  | inferred: ancestry: Mawaran |
+| [[People/Mawarans/Jaeson\|Jaeson]] |  | person |  |  | inferred: ancestry: Mawaran |
+| [[People/Mawarans/Nadine\|Nadine]] |  | person |  |  | inferred: ancestry: Mawaran |
+| [[People/Mawarans/Orden\|Orden]] |  | person |  |  | inferred: ancestry: Mawaran |
+| [[People/Mawarans/Rayna\|Rayna]] |  | person |  |  | inferred: ancestry: Mawaran |
+| [[People/Mawarans/Reliah\|Reliah]] |  | person |  | reh-LEE-ah | inferred: ancestry: Mawaran |
+| [[People/PCs/Mawar/Ryu\|Ryu]] |  | person |  |  | inferred: ancestry: Mawaran |
+| [[People/Mawarans/Samar\|Samar]] |  | person |  | sah-MAHR | inferred: ancestry: Mawaran |
+| [[People/Mawarans/Sefa\|Sefa]] |  | person |  |  | inferred: ancestry: Mawaran |
+| [[People/Mawarans/Sulfi Mahadra\|Sulfi Mahadra]] | Sulfi (Mawaran) | person |  |  | inferred: ancestry: Mawaran |
+| [[People/Mawarans/Yaz\|Yaz]] |  | person |  |  | inferred: ancestry: Mawaran |
+| [[People/Mawarans/Zahir\|Zahir]] |  | person |  |  | inferred: ancestry: Mawaran |
+| [[Gods and Religions/Gods/Incorporeal Gods/Mawaran Saints/Guzo the Mariner\|Guzo the Mariner]] | Guzo (Mawaran); the ancestor of voyages and the western horizon† (Mawaran) | power |  |  | explicit: explicit primary-name text, body line 6 |
+| [[Gazetteer/Northwest Coast/Mawar Confederacy/Aibard\|Aibard]] |  | place |  |  | inferred: vault path: Gazetteer/Northwest Coast/Mawar |
+| [[Gazetteer/Northwest Coast/Mawar Confederacy/Hamri\|Hamri]] |  | place |  |  | inferred: vault path: Gazetteer/Northwest Coast/Mawar |
+| [[Gazetteer/Northwest Coast/Mawar Confederacy/Mawakel Peninsula\|Mawakel Peninsula]] |  | place |  |  | inferred: vault path: Gazetteer/Northwest Coast/Mawar |
+| [[Gazetteer/Northwest Coast/Mawar Confederacy/Mendin\|Mendin]] |  | place |  |  | inferred: vault path: Gazetteer/Northwest Coast/Mawar |
+| [[Gazetteer/Northwest Coast/Rivers/Mirmir\|Mirmir]] |  | place |  | MEER-meer | inferred: whereabouts: Mawakel Peninsula |
+| [[Gazetteer/Northwest Coast/Mawar Confederacy/Shrine to Guzo the Mariner\|Shrine to Guzo the Mariner]] | Guzo's Shrine, Shrine of Guzo (Mawaran) | place |  |  | inferred: vault path: Gazetteer/Northwest Coast/Mawar |
+| [[Gazetteer/Northwest Coast/Mawar Confederacy/Splinters\|Splinters]] |  | place |  |  | inferred: vault path: Gazetteer/Northwest Coast/Mawar |
+| [[Gazetteer/Northwest Coast/Mawar Confederacy/Suhaya\|Suhaya]] |  | place |  |  | inferred: vault path: Gazetteer/Northwest Coast/Mawar |
+| [[Gazetteer/Northwest Coast/Rivers/Sulqat\|Sulqat]] |  | place |  | sul-KAHT | inferred: whereabouts: Mawakel Peninsula |
+| [[Gazetteer/Northwest Coast/Mawar Confederacy/Tomb of Yerkir-Khor\|Tomb of Yerkir-Khor]] | Yerkir-khor's monument and tomb, Yerkir-khor's tomb (Mawaran); Yerkir-khor's monument (Mawaran) | place |  |  | inferred: vault path: Gazetteer/Northwest Coast/Mawar |
 
 #### Unclassified Northros
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Chasa|Chasa]] | River Chasa (Common); Chasa River (Common) | place · river | canonical |  | CHA-sa | explicit: explicit primary-name text, body line 11 |
-| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Nahadi|Nahadi]] | Nahadi River (Common) | place · river | canonical |  | nah-HAH-dee | explicit: explicit primary-name text, body line 11 |
-| [[Gazetteer/Greater Chardon/Rivers/Zar|Zar]] |  | place · river | canonical | ✓ | ZAR | explicit: explicit primary-name text, body line 12 (comment) |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Chasa\|Chasa]] | River Chasa (Common); Chasa River (Common) | place |  | CHA-sa | explicit: explicit primary-name text, body line 11 |
+| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Nahadi\|Nahadi]] | Nahadi River (Common) | place |  | nah-HAH-dee | explicit: explicit primary-name text, body line 11 |
+| [[Gazetteer/Greater Chardon/Rivers/Zar\|Zar]] |  | place | ✓ | ZAR | explicit: explicit primary-name text, body line 12 (comment) |
 
 ### Trade
 
 #### Common
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Creatures/Species/Halflings|Halflings]] | halfling (Common) | creature | canonical |  |  | explicit: explicit primary-name text, body line 16 |
-| [[Creatures/Species/Kenku|Kenku]] |  | creature | canonical |  |  | explicit: explicit primary-name text, body line 13 |
-| [[Creatures/Species/Stoneborn|Stoneborn]] |  | creature | canonical |  |  | explicit: explicit primary-name text, body line 50 |
-| [[Groups/Sembaran Army/Army Garrison of Cleenseau|Army Garrison of Cleenseau]] |  | group · garrison | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Sembaran Army/Army of the North|Army of the North]] |  | group · army | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Sembaran Army/Army of the South|Army of the South]] |  | group · army | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Sembaran Army/Army of the West|Army of the West]] |  | group · army | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Hobgoblin Clans/Blackened Claw|Blackened Claw Clan]] |  | group · clan | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Dwarven Clans/Boulderbeards|Boulderbeard Clan]] |  | group · clan | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Dwarven Clans/Brawnanvils|Brawnanvil Clan]] |  | group · clan | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Dwarven Clans/Deepdwellers|Deepdweller Clan]] |  | group · clan | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Dwarven Clans/Deeprivers|Deepriver Clan]] | Deeprivers (Common) | group · clan | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[People/PCs/Dunmar Fellowship/Dunmar Fellowship|Dunmar Fellowship]] |  | group · adventuring party | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Tollen Guilds/Dyer's Guild|Dyer's Guild]] |  | group · guild | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Dwarven Clans/Ferrystones|Ferrystone Clan]] |  | group · clan | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Dwarven Clans/Gemcrafters|Gemcrafter Clan]] | Barzinduk (Common) | group · clan | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Chardonian Organizations/Guild of Chalyte Workers|Guild of Chalyte Workers]] |  | group · guild | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Dwarven Clans/Hardstones|Hardstone Clan]] |  | group · clan | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[People/PCs/Great War/Heroes of the Great War|Heroes of the Great War]] |  | group · adventuring party | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Sembaran Noble Houses/House of Entranca|House of Entranca]] |  | group · noble family | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Sembaran Noble Houses/House of Lils|House of Lils]] |  | group · noble family | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Sembaran Noble Houses/House of Sewick|House of Sewick]] | Sewick (Common) | group · family | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Sembaran Noble Houses/House of Teckberg|House of Teckberg]] |  | group · noble family | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Sembaran Noble Houses/House of Wisenfold|House of Wisenfold]] |  | group · family | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Chardonian Organizations/Imperial Chalyte Mining Company|Imperial Chalyte Mining Company]] |  | group · company | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Dunmar/Iron Fang|Iron Fang]] |  | group · hobgoblin clan | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Dunmari Mystery Cults/Order of the Awakened Soul|Order of the Awakened Soul]] |  | group · mystery cult | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Order of the Charitable Wanderer|Order of the Charitable Wanderer]] |  | group · religious order | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Order of Twilight|Order of Twilight]] |  | group · religious order | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Radiant Alliance|Radiant Alliance]] |  | group · army | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Dwarven Clans/Redhammers|Redhammers]] |  | group · clan | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Sembaran Army/Sembaran Army|Sembaran Army]] | Military of Sembara (Common) | group · army | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Hobgoblin Clans/Shattered Ice Clan|Shattered Ice Clan]] |  | group · clan | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Dwarven Clans/Shockstones|Shockstone Clan]] |  | group · clan | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Chardonian Organizations/Sibyl's Hall|Sibyl's Hall]] |  | group · lecti | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Dwarven Clans/Silversparks|Silverspark Clan]] |  | group · clan | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Hobgoblin Clans/Skullcleaver Clan|Skullcleaver Clan]] |  | group · clan | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Society of Ocean Watchers|Society of Ocean Watchers]] | Ocean Watchers (Common) | group | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Chardonian Organizations/Society of the Open Scroll|Society of the Open Scroll]] |  | group · scholary society | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Solatine Order|Solatine Order]] |  | group · itinerant order | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Groups/Halfling Families/Wildhearts|Wildhearts]] |  | group · family | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/600s/Apporian Shadow War|Apporian Shadow War]] |  | event · war | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Events/1700s/1719/12/Battle Against Wakog|Battle Against Wakog]] |  | event · battle | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1700s/1749/Battle for Uzgukhar|Battle for Uzgukhar]] |  | event · battle | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1700s/1749/Battle of Heartroot Vale|Battle of Heartroot Vale]] |  | event · battle | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1500s/Battle of Kin-Aska|Battle of Kin-Aska]] |  | event · battle | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1500s/Battle of Metium|Battle of Metium]] |  | event · battle | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1500s/1545/Battle of Motanga Pass|Battle of Motanga Pass]] |  | event · battle | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1500s/Battle of Shadowfire|Battle of Shadowfire]] |  | event · battle | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1600s/Battle of Shrevandurg|Battle of Shrevandurg]] |  | event · battle | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1700s/1748/12/Battle of the Kulthul|Battle of the Kulthul]] |  | event · battle | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1700s/1748/12/Battle of Tokra|Battle of Tokra]] |  | event · battle | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1500s/1545/Battle of Urlich Pass|Battle of Urlich Pass]] |  | event · battle | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1700s/1747/Battle of Voltara|Battle of Voltara]] |  | event · battle | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1500s/Bitter Knife War|Bitter Knife War]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1700s/Chardon-Dunmar War|Chardon-Dunmar War]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1500s/Conclave War|Conclave War]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/900s/Drankorian Civil War|Drankorian Civil War]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1500s/Fire War|Fire War]] | Mavdyr's War (Common) | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1500s/First Hobgoblin War (Sembara)|First Hobgoblin War (Sembara)]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1500s/Great War|Great War]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1700s/1747/Grumella's War|Grumella's War]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1700s/Lizardfolk Village Disappearances|Lizardfolk Village Disappearances]] |  | event · disappearances | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1600s/Northern War|Northern War]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1500s/Second Hobgoblin War (Sembara)|Second Hobgoblin War (Sembara)]] | Second Hobgoblin War (Common) | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1500s/Sentinel Range War|Sentinel Range War]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1700s/Sibling War|Sibling War]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1700s/Siege of Uzgukhar|Siege of Uzgukhar]] |  | event · siege | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1700s/1709/Summer of Red Storms|Summer of Red Storms]] |  | event · raid | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1600s/Third Hobgoblin War (Sembara)|Third Hobgoblin War]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1500s/Three Kin's War|Three Kin's War]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1700s/1719/10/Tragic Flood of the River Enst|Tragic Flood of the River Enst]] |  | event | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1500s/Vimfrost's War|Vimfrost's War]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1700s/1720/War of the Ashen Horde|War of the Ashen Horde]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1700s/War of the Cloak|War of the Cloak]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1500s/War of the Dark Rift|War of the Dark Rift]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Events/1100s/War of the Severed Dreams|War of the Severed Dreams]] |  | event · war | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Binding Stones|Binding Stones of Amloch]] |  | object · wonderous item | campaign canon |  |  | inferred: descriptive or translated Common-form name |
-| [[Campaigns/Cleenseau Campaign/Treasure/Chest of the Forest Guardian|Chest of the Forest Guardian]] |  | object · chest | campaign canon |  |  | inferred: descriptive or translated Common-form name |
-| [[Campaigns/Mawar Adventures/Items and Treasure/Crystallized Song Fragment|Crystallized Song of the Sentient Ocean]] |  | object · crystal | campaign canon |  |  | inferred: descriptive or translated Common-form name |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Portable Hole|Dunmar Fellowship's Portal Hole]] |  | object · container | campaign canon |  |  | inferred: descriptive or translated Common-form name |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Girdle of the Mountain|Girdle of the Mountain]] |  | object | campaign canon |  |  | inferred: descriptive or translated Common-form name |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Liquid Wood|Liquid Wood]] |  | object · wonderous item | campaign canon |  |  | inferred: descriptive or translated Common-form name |
-| [[Things/Magic Items/Phasing Stones|Phasing Stones]] | Phasing Stone (Common) | object · stone | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Ring of Ocean Command|Ring of Ocean Command]] |  | object | campaign canon |  |  | inferred: descriptive or translated Common-form name |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Shield of the Brawnanvil Clan|Shield of the Brawnanvil Clan]] | Brawnanvil Shield (Common) | object · shield | campaign canon |  |  | inferred: descriptive or translated Common-form name |
-| [[Campaigns/Cleenseau Campaign/Treasure/Silverthorn|Silverthorn]] |  | object · rapier | campaign canon |  |  | inferred: descriptive or translated Common-form name |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Staff of the Forest Soul|Staff of the Forest Soul]] |  | object · staff | campaign canon |  |  | inferred: descriptive or translated Common-form name |
-| [[Things/Books/Tome of Hammer and Stone|Tome of Hammer and Stone]] |  | object · religious text | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[People/Other Nonhumans/Silverstorm|Silver Feathers of the Storm Cloud, Thunder and Lightning]] | Silverstorm (Common) | person · elemental | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Feywild/Twilight Kingdom/27th House|27th House]] | Twenty-Seventh House (Common); neighbor's house (Common) | place · fey house | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Aine Hills|Aine Hills]] |  | place · line of hills | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Fiamatara Mountains/Airion's Floating Tower|Airion’s Floating Tower]] |  | place · floating tower | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Fiamatara Mountains/Airion’s Floating Tower|Airion’s Floating Tower]] |  | place · floating tower | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Akela Inn|Akela Inn]] |  | place · caravanserai | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Feywild/Emberwine/Ampelion River|Ampelion River]] | Revelwater (Common); Everpouring Draught (Common) | place · river | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Drankorian Hinterland/Drankor/Apollyon's Temple|Apollyon's Temple]] |  | place · ruined temple | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Drankorian Hinterland/Apollyon's Tower|Apollyon's Tower]] |  | place · tower | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Eastern Green Sea/Arryn's Tower|Arryn's Tower]] |  | place · tower | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Upper Istaros/Aurbez Plateau|Aurbez Plateau]] |  | place · plateau | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[History/Historical Realms/Ausberg Empire|Ausberg Empire]] |  | place · destroyed empire | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Ausson's Crossing|Ausson's Crossing]] |  | place · inn | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Plane of Air/Azure Archipelago|Azure Archipelago]] |  | place · floating archipelago | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Ainwick/Barony of Ainwick|Barony of Ainwick]] |  | place · barony | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Barony of Aveil|Barony of Aveil]] |  | place · barony | canonical |  | Ah-veh-eel | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Barony of Brumecliff|Barony of Brumecliff]] |  | place · barony | canonical |  | Broom-cliff | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Barony of Chantelierre|Barony of Chantelierre]] |  | place · barony | canonical |  | SHAWN-tel-ee-air | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Barony of Dunfry|Barony of Dunfry]] |  | place · barony | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Barony of Estrive|Barony of Estrive]] |  | place · barony | canonical |  | ess-TREEV | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Barony of Montse|Barony of Montsé]] |  | place · barony | canonical |  | Mohn-say | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Barony of Mostreve|Barony of Mostrevé]] |  | place · barony | canonical |  | moh-strev-AY | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Barony of Serest|Barony of Serest]] |  | place · barony | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Barony of Usbourg|Barony of Usbourg]] |  | place · barony | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Barony of Vaubonne|Barony of Vaubonne]] |  | place · barony | canonical |  | Voh-bun | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Barony of Vauclaire|Barony of Vauclaire]] |  | place · barony | canonical |  | Voh-klair | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Fiamatara Mountains/Blacksilver Peak|Blacksilver Peak]] |  | place · mountain | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northern Sentinels/Blackwater Fens|Blackwater Fens]] |  | place · fen | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Rivers/Breakrock|Breakrock River]] |  | place · river | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Calcara Island|Calcara Island]] |  | place · island | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Central Highlands/Central Highlands|Central Highlands]] |  | place · region | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon Bridge|Chardon Bridge]] |  | place · bridge | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Chasa River Valley|Chasa River Valley]] |  | place · region | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Chasa-Nahadi Watershed|Chasa-Nahadi Watershed]] |  | place · watershed | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chataan Mountains|Chataan Mountains]] |  | place · mountain range | canonical |  | cha-TAWN | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Cleaver-Stone|Cleaver-Stone]] |  | place · portal | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau Wood|Cleenseau Wood]] |  | place · forest | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Feywild/Amberglow/Cloud Palace|Cloud Palace]] |  | place · palace | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Darba Highlands/Copper Hills|Copper Hills]] |  | place · line of hills | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Central Highlands/Crimson Forest|Crimson Forest]] |  | place · forest | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Erbalta Plains/Crystal Cavern|Crystal Cavern]] |  | place · cave | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Feywild/Crystal Peak|Crystal Peak]] |  | place · mountain | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Northlands/Dandelion House|Dandelion House]] |  | place · manor house | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Darba Highlands/Darba Highlands|Darba Highlands]] |  | place · region | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Feywild/Deepforest Stones|Deepforest Stones]] |  | place · fey portal | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Eastern Green Sea/Dolphin’s Rest Inn|Dolphin’s Rest Inn]] |  | place · inn | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northern Green Sea/Drachen Peak|Drachen Peak]] |  | place · mountain | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[History/Historical Realms/Drankorian Empire|Drankorian Empire]] | Drankor (Common); Drankorian (Common) | place · destroyed empire | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Erbalta Plains/Drowned Tower|Drowned Tower]] |  | place · ruined tower | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Duchy of Arnsbury|Duchy of Arnsbury]] |  | place · duchy | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Duchy of Cheimen|Duchy of Cheimen]] |  | place · duchy | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Duchy of Maseau/Duchy of Maseau|Duchy of Maseau]] | Maseau (Common); Mazeanne (Common) | place · realm | canonical |  | mah-ZOH | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Duchy of Seham|Duchy of Seham]] |  | place · duchy | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Duchy of Sembara|Duchy of Sembara]] |  | place · duchy | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Northlands/Duchy of Telham|Duchy of Telham]] |  | place · duchy | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Duchy of Wisford|Duchy of Wisford]] |  | place · duchy | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Hara Basin/Dunmari Fort (Gomat)|Dunmari Fort (Gomat)]] |  | place · fort | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Hara Basin/Dwarven Outpost (Raven's Hold)|Dwarven Outpost (Raven's Hold)]] |  | place · fort | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Eastern Green Sea/Eastern Green Sea|Eastern Green Sea]] |  | place · region | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Emerald Bay|Emerald Bay]] |  | place · bay | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Endless Ocean|Endless Ocean]] |  | place · ocean | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Erbalta Plains/Erbalta Plains|Erbalta Plains]] |  | place · grassland | canonical |  | air-BAWL-tuh | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Essford Manor|Essford Manor]] |  | place · manor | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Tollen/Places/Fair Gate|Fair Gate]] |  | place · gate | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Fausto's Tower|Fausto's Tower]] |  | place · tower | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Central Highlands/Forest of Dreams|Forest of Dreams]] |  | place · forest | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northern Sentinels/Forest of Nightmares|Forest of Nightmares]] |  | place · forest | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Fort Ameli|Fort Ameli]] |  | place · fort | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Fort Varian|Fort Varian]] |  | place · fort | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Tollen/Tollen|Free City of Tollen]] | Tollen (Common); Tollender (Common); Tollish (Common) | place · city | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Drankorian Hinterland/Garamjala Plateau/Garamjala Desert|Garamjala Desert]] | Garamjala (Common) | place · desert | canonical |  | ga-RUM-ja-la | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Drankorian Hinterland/Garamjala Plateau/Garamjala Plateau|Garamjala Plateau]] |  | place · region | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Garrison Gate of Cleenseau|Garrison Gate of Cleenseau]] |  | place · gate | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Fiamatara Mountains/Goldpeak Mountain|Goldpeak Mountain]] |  | place · mountain | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Roads/Great South Road|Great South Road]] |  | place · road | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Green Sea|Green Sea]] |  | place · sea | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Gulf of Chardon|Gulf of Chardon]] |  | place · gulf | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Gulf of Tollen|Gulf of Tollen]] |  | place · gulf | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Hara Basin/Hall of Stories|Hall of Stories]] |  | place · building | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Rivers/Hara Watershed/Hara Watershed|Hara Watershed]] |  | place · watershed | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Upper Istaros/Heuren Gorge|Heuren Gorge]] |  | place · gorge | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Highlands/Highlands|Highlands]] |  | place · region | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Central Highlands/Hralgar's Palace|Hralgar's Palace]] |  | place · ruined palace | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Imperial Palace|Imperial Palace]] |  | place · palace | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Drankorian Hinterland/Drankor/Imperial University|Imperial University]] |  | place · ruined university | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Nevos and Apporia/Isle of Folly|Isle of Folly]] |  | place · island | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[History/Historical Realms/Istabor Alliance|Istabor Alliance]] | Isinguer (Common); Isinguese (Common) | place · realm | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Major Rivers/Istaros Watershed/Istaros Watershed|Istaros Watershed]] |  | place · watershed | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Zimkova/Kemeko Monastery|Kemeko Monastery]] |  | place · monastery | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Addermarch/Kilrath Standing Stones|Kilrath Standing Stones]] |  | place · standing stones | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery|Lakan Monastery]] |  | place · monastery | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Major Rivers/Istaros Watershed/Lake Aeulian|Lake Aeulian]] | Aeulian (Common) | place · lake | canonical |  | ay-oo-LYAHN | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Rivers/Semb Watershed/Lake Derwent|Lake Derwent]] | Derwent (Common) | place · lake | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Rivers/Volta Watershed/Lake Kamchak|Lake Kamchak]] | Kamchak (Common) | place · lake | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Vostok/Lake Pekul|Lake Pekul]] | Pekul (Common) | place · lake | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Lake Rin|Lake Rin]] |  | place · lake | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Vostok/Lake Sova|Lake Sova]] | Sova (Common) | place · lake | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Lake Suwi|Lake Suwi]] |  | place · lake | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Lake Valandros|Lake Valandros]] |  | place · lake | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Feywild/Amberglow/Lastlight Falls|Lastlight Falls]] |  | place · fey portal | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Major Rivers/Istaros Watershed/Lathirion Lake|Lathirion Lake]] |  | place · lake | canonical | ✓ | LAH-thee-ree-on | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Laughing Wolf Inn|Laughing Wolf Inn]] |  | place · inn | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Zimkova/Lavnoch Plateau|Lavnoch Plateau]] | Lavnoch (Common) | place · plateau | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Mawar Confederacy/Leviathan Inn|Leviathan Inn]] |  | place · inn | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Rivers/Volta Watershed/Little River|Little River]] |  | place · river | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Lord Endless Ending's Manor|Lord Endless Ending's Manor]] |  | place · fey manor | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Maerwyn Mountains|Maerwyn Mountains]] | Maerwyn (Common); Maerwyns (Common) | place · mountain range | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Manor of Asineau|Manor of Asineau]] |  | place · manor | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Manor of Beury|Manor of Beury]] |  | place · manor | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Manor of Cleenseau|Manor of Cleenseau]] |  | place · manor | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Manor of Valit|Manor of Valit]] |  | place · manor | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Duchy of Maseau/March of Andonne|March of Andonne]] |  | place · march | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Upper Istaros/Maseau - Dunmar Road|Maseau - Dunmar Road]] |  | place · road | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Maseau Gap|Maseau Gap]] | Val Masseum (Common) | place · grassland | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Mawar Confederacy/Mawar Confederacy|Mawar Confederacy]] | Mawaran (Common); Mawar (Common) | place · realm | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Trade Gate (Chardon)|Merchants's Gate]] |  | place · gate | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Cosmology/Demiplanes and Echo Realms/Mirror Realm|Mirror Realm]] |  | place · rumored plane | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Western Green Sea/Mistfold Mountains|Mistfold Mountains]] | Mistfolds (Common); Serraclusa Mountains (Cymean); Velandë (Elvish) | place · mountain range | canonical | ✓ |  | explicit: explicit primary-name text, body line 16 |
-| [[Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma|Monastery of Bhishma]] |  | place · monastery | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Mostreve Hills|Mostreve Hills]] |  | place · line of hills | canonical | ✓ | mohs-TRE-vuh or mohs-tre-vay | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Mount Nera|Mount Nera]] |  | place · mountain | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River|Muddy River]] |  | place · river | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Rivers/Volta Watershed/Muddy River (Tollen)|Muddy River]] |  | place · river | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Myraeni Gap|Myraeni Gap]] |  | place · line of hills | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Nevos and Apporia/Nevos Sea|Nevos Sea]] |  | place · sea | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Mawar Confederacy/North Cliffs|North Cliffs]] |  | place · coastal cliff | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/North Gate of Cleenseau|North Gate of Cleenseau]] |  | place · gate | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Northern Provinces/~North Voltara Hills~|North Voltara Hills]] |  | place · line of hills | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northern Green Sea/Northern Green Sea|Northern Green Sea]] |  | place · region | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Northwest Coast|Northwest Coast]] |  | place · region | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Old Chardon Canal|Old Chardon Canal]] |  | place · canal | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Northern Provinces/Order of Twilight Temple (Voltara)|Order of Twilight Temple (Voltara)]] |  | place · temple | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Outer Ocean|Outer Ocean]] | Eastern Ocean (Common); Encircling Sea (Common) | place · ocean | canonical | ✓ |  | explicit: explicit primary-name text, body line 10 |
-| [[Gazetteer/Greater Dunmar/Hara Basin/Pava and Avaras' House|Pava and Avaras' House]] |  | place · house | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Western Green Sea/Cymea/Perdoli Manor|Perdoli Manor]] |  | place · ruined manor estate | canonical |  | pehr-DOH-lee | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Northern Provinces/Pietravola Abbey|Pietravola Abbey]] |  | place · abbey | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Western Green Sea/Cymea/Plataca Hills|Plataca Hills]] |  | place · line of hills | canonical |  | PLAH-tah-kah | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Tollen/Port of Tollen|Port of Tollen]] |  | place · port | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Pykolon Lake|Pykolon Lake]] | Lake Pegokolonos (Drankorian) | place · lake | canonical |  | PIE-koh-lon | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Ragath Dor|Ragath Dor]] | Highdoor Pass (Common); High Door (Common) | place · mountain pass | canonical |  | RAH-gath dor | explicit: explicit primary-name text, body line 7 |
-| [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold|Raven's Hold]] |  | place · fort | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Feywild/Amberglow/Redsun Watch|Redsun Watch]] |  | place · keep | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Refounded Alliance of Aurbez|Refounded Alliance of Aurbez]] | Aurbeze (Common) | place · realm | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[History/Historical Realms/Republic of Varjatta|Republic of Varjatta]] |  | place · destroyed republic | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Riftstone Gorge|Riftstone Gorge]] |  | place · gorge | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/River Bridge (Chardon)|River Bridge]] |  | place · bridge | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/River Gate North (Chardon)|River Gate]] |  | place · gate | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/River Gate of Cleenseau|River Gate of Cleenseau]] |  | place · gate | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Tentative/Rogue’s Range|Rogue's Range]] |  | place · tavern | tentative | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Scar of Shadowfire|Scar of Shadowfire]] |  | place · battlefield | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Plane of Fire/Sea of Fire|Sea of Fire]] |  | place · sea of lava | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Drankorian Hinterland/Sea of Storms|Sea of Storms]] |  | place · sea | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Rivers/Semb Watershed/Semb Watershed|Semb Watershed]] |  | place · watershed | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Sentinel Range|Sentinel Range]] | Sentinels (Common); Sentinel Mountains (Common); Indalas (Common); Labkhan (Common); Beredri (Common); Tushara (Common) | place · mountain range | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Western Green Sea/Cymea/Serrania River|Serranía River]] | Serrania (Common) | place · river | canonical |  | Seh-rrah-nee-ah | inferred: descriptive or translated Common-form name |
-| [[Cosmology/Spiritual Realms/Shakun's Realm|Shakun's Realm]] |  | place · demiplane | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Plane of Water/Shimmering Sea|Shimmering Sea]] |  | place · region | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Feywild/Shrouded Archive|Shrouded Archive]] |  | place · library | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Major Rivers/Yeraad Watershed/Silverflood|Silverflood]] |  | place · river | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Snake River|Snake River]] |  | place · river | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Northern Provinces/Snake River Fort|Snake River Fort]] |  | place · fort | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Solas Abbey|Solas Abbey]] |  | place · abandoned abbey | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Upper Istaros/South Dunmar Road|South Dunmar Road]] |  | place · road | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Roads/South Watch Road|South Watch Road]] |  | place · road | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower|Stormcaller Tower]] |  | place · tower | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Feywild/Sunset Gate|Sunset Gate]] |  | place · magical place | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Feywild/Emberwine/Sunwine Hall|Sunwine Hall]] |  | place · palace | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northern Green Sea/Svinjo Mountains|Svinjo Mountains]] | Hrimthur (Common) | place · mountain range | canonical |  | SHEEF-nyo | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Tamaro Bay|Tamaro Bay]] |  | place · bay | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Feywild/Tangled Vale|Tangled Vale]] |  | place · fey portal | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Tollen/Places/Tanner's Gate (Tollen)|Tanner's Gate]] |  | place · gate | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Tawir Forest|Tawir Forest]] |  | place · forest | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Rivers/Teft Watershed/Teft Watershed|Teft Watershed]] |  | place · watershed | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Tollen/Places/Temple of Kaikkea|Temple of Kaikkea]] |  | place · temple | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Temple of Shakun|Temple of Shakun]] |  | place · temple | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Drankorian Hinterland/Drankor/Temple of the Eight Divines|Temple of the Eight Divines]] |  | place · temple | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Tollen/Places/Temple of the Sibyl (Tollen)|Temple of the Sibyl (Tollen)]] |  | place · temple | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Tollen/Places/Temple of The Wanderer (Tollen)|Temple of the Wanderer (Tollen)]] |  | place · temple | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/The Crossroads Inn|The Crossroads Inn]] |  | place · inn | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Tollen/Places/The Fire and Stone|The Fire and Stone]] |  | place · tavern | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/The Red Lily Inn|The Red Lily Inn]] |  | place · inn | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/The River's Blessing|The River's Blessing]] |  | place · inn | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northern Green Sea/Ursk/The Silver Wolf|The Silver Wolf]] |  | place · inn | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Roads/Tokra-Darba Road|Tokra-Darba Road]] |  | place · road | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Tollen/Places/Tollen Bridge|Tollen Bridge]] |  | place · bridge | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Addermarch/Torvaine Forest|Torvaine Forest]] |  | place · forest | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Drankorian Hinterland/Garamjala Plateau/Tower of the Colossus|Tower of the Colossus]] |  | place · ruined tower | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Twilight Kingdom|Twilight Kingdom]] |  | place · extraplanar domain | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Roads/Tyrwinghan Road|Tyrwinghan Road]] |  | place · road | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Rivers/Tyrwinghan Watershed/Tyrwinghan Watershed|Tyrwinghan Watershed]] |  | place · watershed | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Tyrwingha/Tywynn Bay|Tywynn Bay]] |  | place · tidal estuary | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/University of Chardon|University of Chardon]] |  | place · university | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Drankorian Hinterland/Drankor/University of the Blessed Waters|University of the Blessed Waters]] | Thalorian (Common) | place · ruined university | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Tollen/Places/University of Tollen|University of Tollen]] |  | place · university | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Central Highlands/Urlich Pass|Urlich Pass]] |  | place · pass | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Addermarch/Valenfray Hills|Valenfray Hills]] |  | place · line of hills | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Drankorian Hinterland/Drankor/Valtrius University|Valtrius University]] |  | place · ruined university | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Sembara/Northlands/Varrow Forest|Varrow Forest]] |  | place · forest | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Eastern Green Sea/Vermillion Isles|Vermillion Isles]] | Chasoka (Common); Islander (Common) | place · archipelago | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northern Green Sea/Ursk/Voknaz Manor|Voknaz Manor]] |  | place · manor | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Rivers/Volta Watershed/Volta Watershed|Volta Watershed]] |  | place · watershed | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northwest Coast/Northern Provinces/~Voltara East Border Fort~|Voltara East Border Fort]] |  | place · fort | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Western Green Sea/Western Green Sea|Western Green Sea]] |  | place · region | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Western Gulf|Western Gulf]] |  | place · gulf | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Faraway Places/Western Ocean|Western Ocean]] |  | place · region | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Wild River|Wild River]] |  | place · river | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Wistel-Enst Watershed|Wistel–Enst Watershed]] |  | place · watershed | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Major Rivers/Yeraad Watershed/Yeraad Watershed|Yeraad Watershed]] | The Yeraad River Basin† (Common) | place · watershed | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Yuvanti Mountains|Yuvanti Mountains]] |  | place · mountain range | canonical |  | yoo-VAHN-tee | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Sembara/Zimkova/Zimkova Highlands|Zimkova Highlands]] |  | place · topographical feature | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/Chardonian Empire/~Chardon Hills~|~Chardon Hills~]] |  | place · line of hills | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Roads/~Darba-Songara Road~|~Darba-Songara Road~]] |  | place · road | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Tentative/~Eastern Coast~|~Eastern Coast~]] |  | place | tentative |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Tentative/~Eastern Mountains~|~Eastern Mountains~]] |  | place · mountain range | tentative |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Tentative/~Elven Divine Realm~|~Elven Divine Realm~]] |  | place · plane | tentative | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~Far North White Dragon Mountains~|~Far North White Dragon Mountains~]] |  | place · mountain range | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~Great Bay~|~Great Bay~]] |  | place · bay | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~Great Desert~|~Great Desert~]] |  | place · desert | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Hara Basin/~Hara River Gorge~|~Hara River Gorge~]] |  | place · gorge | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Hara Basin/~Karawa Desert~|~Karawa Desert~]] |  | place · desert | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/~Lake Valandros Hills~|~Lake Valandros Hills~]] |  | place · line of hills | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Hara Basin/~Lower Hara Valley~|~Lower Hara Valley~]] |  | place · scrubland | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~Mawakel Border Mountains~|~Mawakel Border Mountains~]] |  | place · topographical feature | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~Mawakel Entrance River~|~Mawakel Entrance River~]] |  | place · waterway | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Tentative/~Medju Mountains~|~Medju Mountains~]] |  | place · topographical feature | tentative |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~North Bay~|~North Bay~]] |  | place · bay | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~North Nahadi River~|~North Nahadi River~]] |  | place · river | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Hara Basin/~North Tokra Plains~|~North Tokra Plains~]] | plains north of Tokra (Common) | place · grassland | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Northern Green Sea/~Northern Boreal Forest~|~Northern Boreal Forest~]] |  | place · forest | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Tentative/~Sayuna Islands~|~Sayuna Islands~]] |  | place | tentative | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Hara Basin/~Songara Plains~|~Songara Plains~]] | plains of Songara (Common) | place · grassland | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Hara Basin/~Southern Tokra Plains~|~Southern Tokra Plains~]] | plains south of Tokra (Common) | place · grassland | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Tentative/~Talking Animals Northern Fey Realm~|~Talking Animals Northern Fey Realm~]] |  | place · realm | tentative |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~Te'kula village~|~Te'kula village~]] |  | place · village | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Chardon/~Yeraad Lizardfolk Swamp~|~Yeraad Lizardfolk Swamp~]] |  | place · wetlands | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Gazetteer/Greater Dunmar/Darba Highlands/~Yuvanti Gap~|~Yuvanti Gap~]] |  | place · gap | canonical | ✓ |  | inferred: descriptive or translated Common-form name |
-| [[Primary Sources/Songs/Ballad of the Jade Garden|Ballad of the Jade Garden]] |  | source | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Primary Sources/Songs/Halfling Shanties of the Green Sea|Halfling Shanties of the Green Sea]] |  | source | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Hobgoblin Notes from Raven's Hold|Hobgoblin Notes from Raven's Hold]] |  | source | campaign canon |  |  | inferred: descriptive or translated Common-form name |
-| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/Order of the Awakened Soul Initiation|Order of the Awakened Soul Initiation]] |  | source | campaign canon |  |  | inferred: descriptive or translated Common-form name |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Binding Stones|Philosopher's Information Concerning Binding Stones]] |  | source | campaign canon |  |  | inferred: descriptive or translated Common-form name |
-| [[Primary Sources/Songs/Spring's A Come|Spring's A Come]] |  | source | canonical |  |  | inferred: descriptive or translated Common-form name |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Two letters from Stormcaller Tower|Two letters from Stormcaller Tower]] |  | source | campaign canon |  |  | inferred: descriptive or translated Common-form name |
-| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/Visions of the Sentient Ocean|Visions of the Sentient Ocean]] |  | source | campaign canon |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~Cymean Archipelago~|~Cymean Archipelago~]] |  | unknown | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~High Peak of Tyrwinghan Ridge~|~High Peak of Tyrwinghan Ridge~]] |  | unknown | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~Lake Vostok~|~Lake Vostok~]] |  | unknown | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~Mawakel Large Island~|~Mawakel Large Island~]] |  | unknown | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~North Coastal Road (Chardon)~|~North Coastal Road (Chardon)~]] |  | unknown | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~North Ursk Border Mountains~|~North Ursk Border Mountains~]] |  | unknown | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~North Ursk River~|~North Ursk River~]] |  | unknown | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~North Vostok Mountains~|~North Vostok Mountains~]] |  | unknown | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~Orenlas Tributary Lake~|~Orenlas Tributary Lake~]] |  | unknown | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~Pandar Volcanic Range~|~Pandar Volcanic Range~]] |  | unknown | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~Sentinel Range Spur~|~Sentinel Range Spur~]] |  | unknown | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~South Vostok Hills~|~South Vostok Hills~]] |  | unknown | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~Unnamed North Sentinel Pass~|~Unnamed North Sentinel Pass~]] |  | unknown | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~Volta Hills~|~Volta Hills~]] |  | unknown | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~Vostok Plateau~|~Vostok Plateau~]] |  | unknown | staging |  |  | inferred: descriptive or translated Common-form name |
-| [[Worldbuilding/Staging/Unnamed/~Xurkhaz Border Hills~|~Xurkhaz Border Hills~]] |  | unknown | staging |  |  | inferred: descriptive or translated Common-form name |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Other Nonhumans/Silverstorm\|Silver Feathers of the Storm Cloud, Thunder and Lightning]] | Silverstorm (Common) | person |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Feywild/Twilight Kingdom/27th House\|27th House]] | Twenty-Seventh House (Common); neighbor's house (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Aine Hills\|Aine Hills]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Fiamatara Mountains/Airion's Floating Tower\|Airion’s Floating Tower]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Fiamatara Mountains/Airion’s Floating Tower\|Airion’s Floating Tower]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Akela Inn\|Akela Inn]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Feywild/Emberwine/Ampelion River\|Ampelion River]] | Revelwater (Common); Everpouring Draught (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Drankorian Hinterland/Drankor/Apollyon's Temple\|Apollyon's Temple]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Drankorian Hinterland/Apollyon's Tower\|Apollyon's Tower]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Eastern Green Sea/Arryn's Tower\|Arryn's Tower]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Upper Istaros/Aurbez Plateau\|Aurbez Plateau]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[History/Historical Realms/Ausberg Empire\|Ausberg Empire]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Ausson's Crossing\|Ausson's Crossing]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Plane of Air/Azure Archipelago\|Azure Archipelago]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Ainwick/Barony of Ainwick\|Barony of Ainwick]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Barony of Aveil\|Barony of Aveil]] |  | place |  | Ah-veh-eel | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Barony of Brumecliff\|Barony of Brumecliff]] |  | place |  | Broom-cliff | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Barony of Chantelierre\|Barony of Chantelierre]] |  | place |  | SHAWN-tel-ee-air | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Barony of Dunfry\|Barony of Dunfry]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Barony of Estrive\|Barony of Estrive]] |  | place |  | ess-TREEV | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Barony of Montse\|Barony of Montsé]] |  | place |  | Mohn-say | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Barony of Mostreve\|Barony of Mostrevé]] |  | place |  | moh-strev-AY | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Barony of Serest\|Barony of Serest]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Western Marches/Barony of Usbourg\|Barony of Usbourg]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Barony of Vaubonne\|Barony of Vaubonne]] |  | place |  | Voh-bun | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Borderlands/Barony of Vauclaire\|Barony of Vauclaire]] |  | place |  | Voh-klair | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Fiamatara Mountains/Blacksilver Peak\|Blacksilver Peak]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northern Sentinels/Blackwater Fens\|Blackwater Fens]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Rivers/Breakrock\|Breakrock River]] |  | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Calcara Island\|Calcara Island]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Central Highlands/Central Highlands\|Central Highlands]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon Bridge\|Chardon Bridge]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Chasa River Valley\|Chasa River Valley]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Chasa-Nahadi Watershed\|Chasa-Nahadi Watershed]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chataan Mountains\|Chataan Mountains]] |  | place |  | cha-TAWN | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Cleaver-Stone\|Cleaver-Stone]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau Wood\|Cleenseau Wood]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Feywild/Amberglow/Cloud Palace\|Cloud Palace]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Darba Highlands/Copper Hills\|Copper Hills]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Central Highlands/Crimson Forest\|Crimson Forest]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Erbalta Plains/Crystal Cavern\|Crystal Cavern]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Feywild/Crystal Peak\|Crystal Peak]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Northlands/Dandelion House\|Dandelion House]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Darba Highlands/Darba Highlands\|Darba Highlands]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Feywild/Deepforest Stones\|Deepforest Stones]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Eastern Green Sea/Dolphin’s Rest Inn\|Dolphin’s Rest Inn]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northern Green Sea/Drachen Peak\|Drachen Peak]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[History/Historical Realms/Drankorian Empire\|Drankorian Empire]] | Drankor (Common); Drankorian (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Erbalta Plains/Drowned Tower\|Drowned Tower]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Duchy of Arnsbury\|Duchy of Arnsbury]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Duchy of Cheimen\|Duchy of Cheimen]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Duchy of Maseau/Duchy of Maseau\|Duchy of Maseau]] | Maseau (Common); Mazeanne (Common) | place |  | mah-ZOH | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Duchy of Seham\|Duchy of Seham]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Duchy of Sembara\|Duchy of Sembara]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Northlands/Duchy of Telham\|Duchy of Telham]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Heartlands/Duchy of Wisford\|Duchy of Wisford]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Hara Basin/Dunmari Fort (Gomat)\|Dunmari Fort (Gomat)]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Hara Basin/Dwarven Outpost (Raven's Hold)\|Dwarven Outpost (Raven's Hold)]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Eastern Green Sea/Eastern Green Sea\|Eastern Green Sea]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Emerald Bay\|Emerald Bay]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Endless Ocean\|Endless Ocean]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Erbalta Plains/Erbalta Plains\|Erbalta Plains]] |  | place |  | air-BAWL-tuh | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Essford Manor\|Essford Manor]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Tollen/Places/Fair Gate\|Fair Gate]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Fausto's Tower\|Fausto's Tower]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Central Highlands/Forest of Dreams\|Forest of Dreams]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northern Sentinels/Forest of Nightmares\|Forest of Nightmares]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Fort Ameli\|Fort Ameli]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Fort Varian\|Fort Varian]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Tollen/Tollen\|Free City of Tollen]] | Tollen (Common); Tollender (Common); Tollish (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Drankorian Hinterland/Garamjala Plateau/Garamjala Desert\|Garamjala Desert]] | Garamjala (Common) | place |  | ga-RUM-ja-la | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Drankorian Hinterland/Garamjala Plateau/Garamjala Plateau\|Garamjala Plateau]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Garrison Gate of Cleenseau\|Garrison Gate of Cleenseau]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Fiamatara Mountains/Goldpeak Mountain\|Goldpeak Mountain]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Roads/Great South Road\|Great South Road]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Green Sea\|Green Sea]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Gulf of Chardon\|Gulf of Chardon]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Gulf of Tollen\|Gulf of Tollen]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Hara Basin/Hall of Stories\|Hall of Stories]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Rivers/Hara Watershed/Hara Watershed\|Hara Watershed]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Upper Istaros/Heuren Gorge\|Heuren Gorge]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Highlands/Highlands\|Highlands]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Central Highlands/Hralgar's Palace\|Hralgar's Palace]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Imperial Palace\|Imperial Palace]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Drankorian Hinterland/Drankor/Imperial University\|Imperial University]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Nevos and Apporia/Isle of Folly\|Isle of Folly]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[History/Historical Realms/Istabor Alliance\|Istabor Alliance]] | Isinguer (Common); Isinguese (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Major Rivers/Istaros Watershed/Istaros Watershed\|Istaros Watershed]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Zimkova/Kemeko Monastery\|Kemeko Monastery]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Addermarch/Kilrath Standing Stones\|Kilrath Standing Stones]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery\|Lakan Monastery]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Major Rivers/Istaros Watershed/Lake Aeulian\|Lake Aeulian]] | Aeulian (Common) | place |  | ay-oo-LYAHN | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Rivers/Semb Watershed/Lake Derwent\|Lake Derwent]] | Derwent (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Rivers/Volta Watershed/Lake Kamchak\|Lake Kamchak]] | Kamchak (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Vostok/Lake Pekul\|Lake Pekul]] | Pekul (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Lake Rin\|Lake Rin]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Vostok/Lake Sova\|Lake Sova]] | Sova (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Lake Suwi\|Lake Suwi]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Lake Valandros\|Lake Valandros]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Feywild/Amberglow/Lastlight Falls\|Lastlight Falls]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Major Rivers/Istaros Watershed/Lathirion Lake\|Lathirion Lake]] |  | place | ✓ | LAH-thee-ree-on | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Laughing Wolf Inn\|Laughing Wolf Inn]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Zimkova/Lavnoch Plateau\|Lavnoch Plateau]] | Lavnoch (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Mawar Confederacy/Leviathan Inn\|Leviathan Inn]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Rivers/Volta Watershed/Little River\|Little River]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Lord Endless Ending's Manor\|Lord Endless Ending's Manor]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Maerwyn Mountains\|Maerwyn Mountains]] | Maerwyn (Common); Maerwyns (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Manor of Asineau\|Manor of Asineau]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Manor of Beury\|Manor of Beury]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Manor of Cleenseau\|Manor of Cleenseau]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Manor of Valit\|Manor of Valit]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Duchy of Maseau/March of Andonne\|March of Andonne]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Upper Istaros/Maseau - Dunmar Road\|Maseau - Dunmar Road]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Maseau Gap\|Maseau Gap]] | Val Masseum (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Mawar Confederacy/Mawar Confederacy\|Mawar Confederacy]] | Mawaran (Common); Mawar (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Trade Gate (Chardon)\|Merchants's Gate]] |  | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Cosmology/Demiplanes and Echo Realms/Mirror Realm\|Mirror Realm]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Western Green Sea/Mistfold Mountains\|Mistfold Mountains]] | Mistfolds (Common); Serraclusa Mountains (Cymean); Velandë (Elvish) | place | ✓ |  | explicit: explicit primary-name text, body line 16 |
+| [[Gazetteer/Greater Dunmar/Hara Basin/Monastery of Bhishma\|Monastery of Bhishma]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Mostreve Hills\|Mostreve Hills]] |  | place | ✓ | mohs-TRE-vuh or mohs-tre-vay | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Mount Nera\|Mount Nera]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River\|Muddy River]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Rivers/Volta Watershed/Muddy River (Tollen)\|Muddy River]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Myraeni Gap\|Myraeni Gap]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Nevos and Apporia/Nevos Sea\|Nevos Sea]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Mawar Confederacy/North Cliffs\|North Cliffs]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/North Gate of Cleenseau\|North Gate of Cleenseau]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Northern Provinces/~North Voltara Hills~\|North Voltara Hills]] |  | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northern Green Sea/Northern Green Sea\|Northern Green Sea]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Northwest Coast\|Northwest Coast]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Old Chardon Canal\|Old Chardon Canal]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Northern Provinces/Order of Twilight Temple (Voltara)\|Order of Twilight Temple (Voltara)]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Outer Ocean\|Outer Ocean]] | Eastern Ocean (Common); Encircling Sea (Common) | place | ✓ |  | explicit: explicit primary-name text, body line 10 |
+| [[Gazetteer/Greater Dunmar/Hara Basin/Pava and Avaras' House\|Pava and Avaras' House]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Western Green Sea/Cymea/Perdoli Manor\|Perdoli Manor]] |  | place |  | pehr-DOH-lee | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Northern Provinces/Pietravola Abbey\|Pietravola Abbey]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Western Green Sea/Cymea/Plataca Hills\|Plataca Hills]] |  | place |  | PLAH-tah-kah | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Tollen/Port of Tollen\|Port of Tollen]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Pykolon Lake\|Pykolon Lake]] | Lake Pegokolonos (Drankorian) | place |  | PIE-koh-lon | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Ragath Dor\|Ragath Dor]] | Highdoor Pass (Common); High Door (Common) | place |  | RAH-gath dor | explicit: explicit primary-name text, body line 7 |
+| [[Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold\|Raven's Hold]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Feywild/Amberglow/Redsun Watch\|Redsun Watch]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Refounded Alliance of Aurbez\|Refounded Alliance of Aurbez]] | Aurbeze (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[History/Historical Realms/Republic of Varjatta\|Republic of Varjatta]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Riftstone Gorge\|Riftstone Gorge]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/River Bridge (Chardon)\|River Bridge]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/River Gate North (Chardon)\|River Gate]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/River Gate of Cleenseau\|River Gate of Cleenseau]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Scar of Shadowfire\|Scar of Shadowfire]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Plane of Fire/Sea of Fire\|Sea of Fire]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Drankorian Hinterland/Sea of Storms\|Sea of Storms]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Rivers/Semb Watershed/Semb Watershed\|Semb Watershed]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Sentinel Range\|Sentinel Range]] | Sentinels (Common); Sentinel Mountains (Common); Indalas (Common); Labkhan (Common); Beredri (Common); Tushara (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Western Green Sea/Cymea/Serrania River\|Serranía River]] | Serrania (Common) | place |  | Seh-rrah-nee-ah | inferred: descriptive or translated Common-form name |
+| [[Cosmology/Spiritual Realms/Shakun's Realm\|Shakun's Realm]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Plane of Water/Shimmering Sea\|Shimmering Sea]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Feywild/Shrouded Archive\|Shrouded Archive]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Major Rivers/Yeraad Watershed/Silverflood\|Silverflood]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Snake River\|Snake River]] |  | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Northern Provinces/Snake River Fort\|Snake River Fort]] |  | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Solas Abbey\|Solas Abbey]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Upper Istaros/South Dunmar Road\|South Dunmar Road]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Roads/South Watch Road\|South Watch Road]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower\|Stormcaller Tower]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Feywild/Sunset Gate\|Sunset Gate]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Feywild/Emberwine/Sunwine Hall\|Sunwine Hall]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northern Green Sea/Svinjo Mountains\|Svinjo Mountains]] | Hrimthur (Common) | place |  | SHEEF-nyo | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Tamaro Bay\|Tamaro Bay]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Feywild/Tangled Vale\|Tangled Vale]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Tollen/Places/Tanner's Gate (Tollen)\|Tanner's Gate]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Tawir Forest\|Tawir Forest]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Rivers/Teft Watershed/Teft Watershed\|Teft Watershed]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Tollen/Places/Temple of Kaikkea\|Temple of Kaikkea]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Temple of Shakun\|Temple of Shakun]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Drankorian Hinterland/Drankor/Temple of the Eight Divines\|Temple of the Eight Divines]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Tollen/Places/Temple of the Sibyl (Tollen)\|Temple of the Sibyl (Tollen)]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Tollen/Places/Temple of The Wanderer (Tollen)\|Temple of the Wanderer (Tollen)]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/The Crossroads Inn\|The Crossroads Inn]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Tollen/Places/The Fire and Stone\|The Fire and Stone]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/The Red Lily Inn\|The Red Lily Inn]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/The River's Blessing\|The River's Blessing]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northern Green Sea/Ursk/The Silver Wolf\|The Silver Wolf]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Roads/Tokra-Darba Road\|Tokra-Darba Road]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Tollen/Places/Tollen Bridge\|Tollen Bridge]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Addermarch/Torvaine Forest\|Torvaine Forest]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Drankorian Hinterland/Garamjala Plateau/Tower of the Colossus\|Tower of the Colossus]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Twilight Kingdom\|Twilight Kingdom]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Roads/Tyrwinghan Road\|Tyrwinghan Road]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Rivers/Tyrwinghan Watershed/Tyrwinghan Watershed\|Tyrwinghan Watershed]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Tyrwingha/Tywynn Bay\|Tywynn Bay]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Chardon/University of Chardon\|University of Chardon]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Drankorian Hinterland/Drankor/University of the Blessed Waters\|University of the Blessed Waters]] | Thalorian (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Tollen/Places/University of Tollen\|University of Tollen]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Central Highlands/Urlich Pass\|Urlich Pass]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Addermarch/Valenfray Hills\|Valenfray Hills]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Drankorian Hinterland/Drankor/Valtrius University\|Valtrius University]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Sembara/Northlands/Varrow Forest\|Varrow Forest]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Eastern Green Sea/Vermillion Isles\|Vermillion Isles]] | Chasoka (Common); Islander (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northern Green Sea/Ursk/Voknaz Manor\|Voknaz Manor]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Rivers/Volta Watershed/Volta Watershed\|Volta Watershed]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Northern Provinces/~Voltara East Border Fort~\|Voltara East Border Fort]] |  | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Western Green Sea/Western Green Sea\|Western Green Sea]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Western Gulf\|Western Gulf]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Faraway Places/Western Ocean\|Western Ocean]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Wild River\|Wild River]] |  | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Wistel-Enst Watershed\|Wistel–Enst Watershed]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Major Rivers/Yeraad Watershed/Yeraad Watershed\|Yeraad Watershed]] | The Yeraad River Basin† (Common) | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Yuvanti Mountains\|Yuvanti Mountains]] |  | place |  | yoo-VAHN-tee | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Sembara/Zimkova/Zimkova Highlands\|Zimkova Highlands]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/~Chardon Hills~\|~Chardon Hills~]] |  | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Roads/~Darba-Songara Road~\|~Darba-Songara Road~]] |  | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Hara Basin/~Hara River Gorge~\|~Hara River Gorge~]] |  | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Hara Basin/~Karawa Desert~\|~Karawa Desert~]] |  | place |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/~Lake Valandros Hills~\|~Lake Valandros Hills~]] |  | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Hara Basin/~Lower Hara Valley~\|~Lower Hara Valley~]] |  | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Hara Basin/~North Tokra Plains~\|~North Tokra Plains~]] | plains north of Tokra (Common) | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northern Green Sea/~Northern Boreal Forest~\|~Northern Boreal Forest~]] |  | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Hara Basin/~Songara Plains~\|~Songara Plains~]] | plains of Songara (Common) | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Hara Basin/~Southern Tokra Plains~\|~Southern Tokra Plains~]] | plains south of Tokra (Common) | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/~Yeraad Lizardfolk Swamp~\|~Yeraad Lizardfolk Swamp~]] |  | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Dunmar/Darba Highlands/~Yuvanti Gap~\|~Yuvanti Gap~]] |  | place | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Events/600s/Apporian Shadow War\|Apporian Shadow War]] |  | event | ✓ |  | inferred: descriptive or translated Common-form name |
+| [[Events/1700s/1719/12/Battle Against Wakog\|Battle Against Wakog]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1700s/1749/Battle for Uzgukhar\|Battle for Uzgukhar]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1700s/1749/Battle of Heartroot Vale\|Battle of Heartroot Vale]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1500s/Battle of Kin-Aska\|Battle of Kin-Aska]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1500s/Battle of Metium\|Battle of Metium]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1500s/1545/Battle of Motanga Pass\|Battle of Motanga Pass]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1500s/Battle of Shadowfire\|Battle of Shadowfire]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1600s/Battle of Shrevandurg\|Battle of Shrevandurg]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1700s/1748/12/Battle of the Kulthul\|Battle of the Kulthul]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1700s/1748/12/Battle of Tokra\|Battle of Tokra]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1500s/1545/Battle of Urlich Pass\|Battle of Urlich Pass]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1700s/1747/Battle of Voltara\|Battle of Voltara]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1500s/Bitter Knife War\|Bitter Knife War]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1700s/Chardon-Dunmar War\|Chardon-Dunmar War]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1500s/Conclave War\|Conclave War]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/900s/Drankorian Civil War\|Drankorian Civil War]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1500s/Fire War\|Fire War]] | Mavdyr's War (Common) | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1500s/First Hobgoblin War (Sembara)\|First Hobgoblin War (Sembara)]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1500s/Great War\|Great War]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1700s/1747/Grumella's War\|Grumella's War]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1700s/Lizardfolk Village Disappearances\|Lizardfolk Village Disappearances]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1600s/Northern War\|Northern War]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1500s/Second Hobgoblin War (Sembara)\|Second Hobgoblin War (Sembara)]] | Second Hobgoblin War (Common) | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1500s/Sentinel Range War\|Sentinel Range War]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1700s/Sibling War\|Sibling War]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1700s/Siege of Uzgukhar\|Siege of Uzgukhar]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1700s/1709/Summer of Red Storms\|Summer of Red Storms]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1600s/Third Hobgoblin War (Sembara)\|Third Hobgoblin War]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1500s/Three Kin's War\|Three Kin's War]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1700s/1719/10/Tragic Flood of the River Enst\|Tragic Flood of the River Enst]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1500s/Vimfrost's War\|Vimfrost's War]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1700s/1720/War of the Ashen Horde\|War of the Ashen Horde]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1700s/War of the Cloak\|War of the Cloak]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1500s/War of the Dark Rift\|War of the Dark Rift]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Events/1100s/War of the Severed Dreams\|War of the Severed Dreams]] |  | event |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Binding Stones\|Binding Stones of Amloch]] |  | object |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Cleenseau Campaign/Treasure/Chest of the Forest Guardian\|Chest of the Forest Guardian]] |  | object |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Mawar Adventures/Items and Treasure/Crystallized Song Fragment\|Crystallized Song of the Sentient Ocean]] |  | object |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Portable Hole\|Dunmar Fellowship's Portal Hole]] |  | object |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Girdle of the Mountain\|Girdle of the Mountain]] |  | object |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Liquid Wood\|Liquid Wood]] |  | object |  |  | inferred: descriptive or translated Common-form name |
+| [[Things/Magic Items/Phasing Stones\|Phasing Stones]] | Phasing Stone (Common) | object |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Ring of Ocean Command\|Ring of Ocean Command]] |  | object |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Shield of the Brawnanvil Clan\|Shield of the Brawnanvil Clan]] | Brawnanvil Shield (Common) | object |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Cleenseau Campaign/Treasure/Silverthorn\|Silverthorn]] |  | object |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Staff of the Forest Soul\|Staff of the Forest Soul]] |  | object |  |  | inferred: descriptive or translated Common-form name |
+| [[Things/Books/Tome of Hammer and Stone\|Tome of Hammer and Stone]] |  | object |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Sembaran Army/Army Garrison of Cleenseau\|Army Garrison of Cleenseau]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Sembaran Army/Army of the North\|Army of the North]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Sembaran Army/Army of the South\|Army of the South]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Sembaran Army/Army of the West\|Army of the West]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Hobgoblin Clans/Blackened Claw\|Blackened Claw Clan]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Dwarven Clans/Boulderbeards\|Boulderbeard Clan]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Dwarven Clans/Brawnanvils\|Brawnanvil Clan]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Dwarven Clans/Deepdwellers\|Deepdweller Clan]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Dwarven Clans/Deeprivers\|Deepriver Clan]] | Deeprivers (Common) | group |  |  | inferred: descriptive or translated Common-form name |
+| [[People/PCs/Dunmar Fellowship/Dunmar Fellowship\|Dunmar Fellowship]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Tollen Guilds/Dyer's Guild\|Dyer's Guild]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Dwarven Clans/Ferrystones\|Ferrystone Clan]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Dwarven Clans/Gemcrafters\|Gemcrafter Clan]] | Barzinduk (Common) | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Chardonian Organizations/Guild of Chalyte Workers\|Guild of Chalyte Workers]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Dwarven Clans/Hardstones\|Hardstone Clan]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[People/PCs/Great War/Heroes of the Great War\|Heroes of the Great War]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Sembaran Noble Houses/House of Entranca\|House of Entranca]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Sembaran Noble Houses/House of Lils\|House of Lils]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Sembaran Noble Houses/House of Sewick\|House of Sewick]] | Sewick (Common) | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Sembaran Noble Houses/House of Teckberg\|House of Teckberg]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Sembaran Noble Houses/House of Wisenfold\|House of Wisenfold]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Chardonian Organizations/Imperial Chalyte Mining Company\|Imperial Chalyte Mining Company]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Dunmari Mystery Cults/Order of the Awakened Soul\|Order of the Awakened Soul]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Order of the Charitable Wanderer\|Order of the Charitable Wanderer]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Order of Twilight\|Order of Twilight]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Radiant Alliance\|Radiant Alliance]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Dwarven Clans/Redhammers\|Redhammers]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Sembaran Army/Sembaran Army\|Sembaran Army]] | Military of Sembara (Common) | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Hobgoblin Clans/Shattered Ice Clan\|Shattered Ice Clan]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Dwarven Clans/Shockstones\|Shockstone Clan]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Chardonian Organizations/Sibyl's Hall\|Sibyl's Hall]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Dwarven Clans/Silversparks\|Silverspark Clan]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Hobgoblin Clans/Skullcleaver Clan\|Skullcleaver Clan]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Society of Ocean Watchers\|Society of Ocean Watchers]] | Ocean Watchers (Common) | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Chardonian Organizations/Society of the Open Scroll\|Society of the Open Scroll]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Solatine Order\|Solatine Order]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Groups/Halfling Families/Wildhearts\|Wildhearts]] |  | group |  |  | inferred: descriptive or translated Common-form name |
+| [[Creatures/Species/Halflings\|Halflings]] | halfling (Common) | creature |  |  | explicit: explicit primary-name text, body line 16 |
+| [[Creatures/Species/Kenku\|Kenku]] |  | creature |  |  | explicit: explicit primary-name text, body line 13 |
+| [[Creatures/Species/Stoneborn\|Stoneborn]] |  | creature |  |  | explicit: explicit primary-name text, body line 50 |
+| [[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 2\|Chronicles of the War Against Grumella]] |  | session-note |  |  | inferred: descriptive or translated Common-form name |
+| [[Primary Sources/Songs/Ballad of the Jade Garden\|Ballad of the Jade Garden]] |  | source |  |  | inferred: descriptive or translated Common-form name |
+| [[Primary Sources/Songs/Halfling Shanties of the Green Sea\|Halfling Shanties of the Green Sea]] |  | source |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Hobgoblin Notes from Raven's Hold\|Hobgoblin Notes from Raven's Hold]] |  | source |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/Order of the Awakened Soul Initiation\|Order of the Awakened Soul Initiation]] |  | source |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Binding Stones\|Philosopher's Information Concerning Binding Stones]] |  | source |  |  | inferred: descriptive or translated Common-form name |
+| [[Primary Sources/Songs/Spring's A Come\|Spring's A Come]] |  | source |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Two letters from Stormcaller Tower\|Two letters from Stormcaller Tower]] |  | source |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/Visions of the Sentient Ocean\|Visions of the Sentient Ocean]] |  | source |  |  | inferred: descriptive or translated Common-form name |
+| [[Gods and Religions/Holidays and Festivals/Festival of the Bridge\|Festival of the Bridge]] |  | background |  |  | inferred: descriptive or translated Common-form name |
+| [[History/Background/Great War Notes\|Great War Notes]] |  | background |  |  | inferred: descriptive or translated Common-form name |
+| [[History/History of the Drankorian Empire\|History of the Drankorian Empire]] | Drankorian Era (Common) | background |  |  | inferred: descriptive or translated Common-form name |
+| [[Background/Languages\|Languages]] |  | background |  |  | explicit: explicit primary-name text, body line 19 |
+| [[Gazetteer/Northern Green Sea/List of Places in the Northern Green Sea\|List of Places in the Northern Green Sea]] |  | background |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Central Highlands/Places in the Central Highlands\|Places in the Central Highlands]] |  | background |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Eastern Green Sea/Places in the Eastern Green Sea\|Places in the Eastern Green Sea]] |  | background |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Northwest Coast/Places in the Northwest Coast\|Places in the Northwest Coast]] |  | background |  |  | inferred: descriptive or translated Common-form name |
+| [[Gazetteer/Greater Chardon/Chardonian Empire/Politics of Chalyte (Chardonian Empire)\|Politics of Chalyte (Chardonian Empire)]] |  | background |  |  | inferred: descriptive or translated Common-form name |
+| [[History/Background/West Coast History Framework\|West Coast History Framework]] |  | background |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/After the Siege of Fellburn\|After the Siege of Fellburn]] |  | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/An Evening in Corraine's House\|An Evening in Corraine's House]] |  | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Apollyon's Tower Treasure\|Apollyon's Tower Treasure]] |  | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Campaign Archive\|Campaign Archive]] |  | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Copper Hills Treasure\|Copper Hills Treasure]] | Treasure from the Copper Hills† (Common) | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Dunmar Fellowship Associates\|Dunmar Fellowship Associates]] | Associates of the Dunmar Fellowship† (Common) | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Fey Aftermath - Baroness Tower\|Fey Aftermath - Baroness Tower]] |  | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Fey Aftermath - Tower of Records\|Fey Aftermath - Tower of Records]] |  | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Great Library Campaign/Great Library Campaign\|Great Library Campaign]] |  | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Great Library Campaign/Great Library Timeline\|Great Library Campaign Timeline]] |  | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Great War Campaign/Great War Campaign\|Great War Campaign]] |  | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Background/Mechanics/House Rules (Mike)\|House Rules (Mike)]] | Character Creation† (Common) | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Background/Mechanics/House Rules (Tim)\|House Rules (Tim)]] |  | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Hralgar's Palace Treasure\|Hralgar's Palace Treasure]] | Treasure from Hralgar's Palace† (Common) | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Kadmos and Company Loot\|Kadmos and Company Loot]] |  | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Raven's Hold Treasure\|Raven's Hold Treasure]] |  | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Siege of Fellburn\|Siege of Fellburn]] |  | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Siege of Fellburn - Duke's Camp\|Siege of Fellburn - Duke's Camp]] |  | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Stormcaller Tower Treasure\|Stormcaller Tower Treasure]] |  | meta |  |  | inferred: descriptive or translated Common-form name |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Tower of the Colossus Treasure\|Tower of the Colossus Treasure]] |  | meta |  |  | inferred: descriptive or translated Common-form name |
 
 ### Unclassified
 
 #### Svolhasian
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Gazetteer/Eastern Green Sea/Reaver Coast|Reaver Coast]] | Tengravar (Katonylev) | place · hobgoblin realm | canonical | ✓ |  | explicit: explicit primary-name text, body line 9 (comment) |
-| [[Gazetteer/Eastern Green Sea/Republic of Svolhas|Republic of Svolhas]] |  | place · republic | canonical |  | ss-VOL-las | explicit: explicit primary-name text, body line 29 |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[Gazetteer/Eastern Green Sea/Reaver Coast\|Reaver Coast]] | Tengravar (Katonylev) | place | ✓ |  | explicit: explicit primary-name text, body line 9 (comment) |
+| [[Gazetteer/Eastern Green Sea/Republic of Svolhas\|Republic of Svolhas]] |  | place |  | ss-VOL-las | explicit: explicit primary-name text, body line 29 |
 
 ### Unknown
 
 #### Unknown
 
-| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |
-|---|---|---|---|:---:|---|---|
-| [[Groups/_Cultures_/Deno'qai Tribes/Deno'qai|Deno'qai]] |  | ancestry | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/_Cultures_/Deno'qai Tribes/Elderwood Tribes/Elderwood Tribes|Elderwood Tribes of the Deno'qai]] |  | ancestry · cultural group | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/_Cultures_/Deno'qai Tribes/Northern Tribes/Ko'zula|Ko'zula]] |  | ancestry · tribe | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/_Cultures_/Deno'qai Tribes/Northern Tribes/Northern Tribes|Northern Tribes of the Deno'qai]] |  | ancestry · cultural group | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/_Cultures_/Northerners|Northerners]] | Northlander (Drankorian); Northerner (Drankorian) | ancestry | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/_Cultures_/Deno'qai Tribes/Northern Tribes/Shu'anra|Shu'anra]] |  | ancestry · tribe | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/_Cultures_/Vargaldi|Vargaldi]] |  | ancestry | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/_Cultures_/Yo'nari|Yo'nari]] |  | ancestry | canonical |  | yo-NAH-ree | unknown: No reliable language evidence found |
-| [[Creatures/Bestiary/Aboleths|Aboleths]] | aboleth | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Extraplanar/Azer|Azer]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Fey/Beastfolk|Beastfolk]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Bestiary/Bugbears|Bugbears]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Bestiary/Bullywugs|Bullywugs]] | bullywug | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Extraplanar/Celestials|Celestials]] | celestial | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Species/Centaurs|Centaurs]] | centaur | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Fey/Changelings|Changelings]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Extraplanar/Dao|Dao]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Extraplanar/Demons|Demons]] | demon | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Bestiary/Derro|Derro]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Extraplanar/Deva|Deva]] | devas | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Extraplanar/Devils|Devils]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Extraplanar/Djinn|Djinn]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Bestiary/Dragonets|Dragonets]] | Dragonet | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Species/Dragons|Dragons]] | dragon; draconic | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Fey/Duskhounds|Duskhounds]] | duskhound | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Extraplanar/Efreeti|Efreeti]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Extraplanar/Elementals|Elementals]] | elemental | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Species/Elves|Elves]] | elf; elven; elvish | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Brainstorming/Extraplanar Natives|Extraplanar Natives]] |  | creature | brainstorming |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Fey/Fairies|Fairies]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Fey/Fey|Fey]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Species/Giants|Giants]] | giant | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Extraplanar/Gidari|Gidari]] |  | creature | canonical |  | gih-DAR-ee | unknown: No reliable language evidence found |
-| [[Creatures/Bestiary/Gnomes|Gnomes]] | Gnome† | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Species/Goblins|Goblins]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Bestiary/Grimlocks|Grimlocks]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Fey/Hags|Hags]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Species/Hobgoblins|Hobgoblins]] | hobgoblin | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Fey/Hollow Men|Hollow Men]] | Hollow Man | creature · fey | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Species/Humans|Humans]] | human | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Bestiary/Ithilids|Ithilids]] | Mindflayer; Mind Flayer; Illithid | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Species/Kobolds|Kobolds]] | kobold | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Species/Lizardfolk|Lizardfolk]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Bestiary/Lycanthropes|Lycanthropes]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Extraplanar/Marid|Marid]] | marids (Mawaran) | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Species/Merfolk|Merfolk]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Fey/Nymphs|Nymphs]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Species/Orcs|Orcs]] | orc | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Fey/Satyrs|Satyrs]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[Creatures/Bestiary/Undead|Undead]] |  | creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Addermarch/Addermarch Mercenaries|Addermarch Mercenaries]] |  | group · adventuring party | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Mawar/Adventurers of Mawar|Adventurers of Mawar]] |  | group · adventuring party | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Into the Chasm/Chasm Explorers|Chasm Explorers]] |  | group · adventuring party | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/Drankorian Societies/Concordia Pyrae|Concordia Pyrae]] |  | group | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/Chardonian Organizations/Eightfold Flame|Eightfold Flame]] |  | group · cult | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/Drankorian Societies/Fides Lucaris|Fides Lucaris]] |  | group | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/Fraternity of the Empty Moon|Fraternity of the Empty Moon]] |  | group · cult | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/Havoc Host|Havoc Host]] |  | group · mercenary company | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Cleenseau/Heroes of Cleenseau|Heroes of Cleenseau]] |  | group · adventuring party | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Other PCs/Labyrinth Prisoners/Labyrinth Prisoners|Labyrinth Prisoners]] |  | group · adventuring party | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/Mahaut's Miracle Players|Mahaut's Miracle Players]] |  | group · acting troupe | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/Dunmari Dynasties/Nayan Dynasty|Nayan dynasty]] |  | group · family | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Other PCs/Oskar's Companions/Oskar's Companions|Oskar's Companions]] |  | group · adventuring party | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/Halfling Families/Quicksteps|Quicksteps]] |  | group · family | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/Drankorian Societies/Radiant Path|Radiant Path]] |  | group | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/Shemra Azem|Shemra Azem]] |  | group · unknown | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Silver Tempests/Silver Tempests|Silver Tempests]] |  | group · adventuring party | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/The Cleansed|The Cleansed]] |  | group · cult | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Other PCs/Tollen Misfits/Tollen Misfits|Tollen Misfits]] |  | group · adventuring party | canonical |  |  | unknown: No reliable language evidence found |
-| [[Groups/Vejo Vaikai|Vejo Vaikai]] |  | group | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Apollyon's Crystal Ball Vision|Apollyon's Crystal Ball Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Apollyon's Soulbinding Manacles Vision|Apollyon's Soulbinding Manacles Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Events/1500s/1582/Attempted Geas of Elaine I|Attempted Geas of Elaine I]] |  | event · succession crisis | canonical |  |  | unknown: No reliable language evidence found |
-| [[Events/1700s/1719/11/Attempted Poisoning of Cleenseau|Attempted Poisoning of Cleenseau]] |  | event | canonical |  |  | unknown: No reliable language evidence found |
-| [[Events/1700s/1718/Awakened Soul Disaster|Awakened Soul Disaster]] |  | event | canonical |  |  | unknown: No reliable language evidence found |
-| [[Events/1700s/Betrayer Moon Plot|Betrayer Moon Plot]] |  | event | canonical |  |  | unknown: No reliable language evidence found |
-| [[Events/1500s/Blood Plague|Blood Plague]] |  | event · plague | canonical |  |  | unknown: No reliable language evidence found |
-| [[Events/1500s/Blood Years|Blood Years]] |  | event | canonical |  |  | unknown: No reliable language evidence found |
-| [[Events/1500s/Bloodlust Wars|Bloodlust Wars]] |  | event · war | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Broken Dunmari Sword Vision|Broken Dunmari Sword Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Cecilia's White Dragon Tooth Vision|Cecilia's White Dragon Tooth Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/with Mahaut's Miracle Players/Celyn Leaves Mahaut's|Celyn Leaves Mahaunt's Miracle Players]] |  | event | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Cha'mutte Armband Vision|Cha'mutte's Armband Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Chardon Fan Vision|Chardon Fan Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Events/1700s/1719/10/Cleenseau Spider Attacks|Cleenseau Spider Attacks]] |  | event · raid | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Crown of Purity Vision|Crown of Purity Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Events/1500s/Cursed Cold|Cursed Cold]] |  | event · plague | canonical |  |  | unknown: No reliable language evidence found |
-| [[Events/1600s/Defeat of the Plague Trees|Defeat of the Plague Trees]] |  | event | canonical |  |  | unknown: No reliable language evidence found |
-| [[Events/1400s/1425/Derik I's Arrival in Tyrwingha|Derik I's Arrival in Tyrwingha]] |  | event · diplomatic visit | canonical |  |  | unknown: No reliable language evidence found |
-| [[Events/1700s/1748/07/Destruction of the Werewolf Cult|Destruction of the Werewolf Cult]] |  | event · raid | canonical |  |  | unknown: No reliable language evidence found |
-| [[Events/Ancient/Downfall Wars|Downfall Wars]] |  | event · war | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Dried Scorpion Vision|Dried Scorpion Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Dust from Seeker's Doppleganger Vision|Dust from Seeker's Doppelgänger Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Elemental Forge Spellbook Vision|Elemental Forge Spellbook Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Elemental Forge Vision|Elemental Forge Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Enchiridion of the Occulta Ludum Viision|Enchiridion of the Occulta Ludum Viision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Events/1600s/Exile of Fraternity of the Empty Moon|Exile of Fraternity of the Empty Moon]] |  | event | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Extravagant Diamond Vision|Extravagant Diamond Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Fides Lucaris Sending Stone Vision|Fides Lucaris Sending Stone Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Events/1000s/1059/First Plague|First Plague]] |  | event · plague | canonical | ✓ |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Floating Disc Coin Vision|Floating Disc Coin Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Events/1500s/Fog of Mawar|Fog of Mawar]] |  | event | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/God Tree Vision|God Tree Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Events/1500s/1545/Grand Conclave of Mawakel|Grand Conclave of Mawakel]] |  | event | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Heartroot Vision|Heartroot Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Tentative/Highland Conquest Wars|Highland Conquest Wars]] |  | event · war | tentative |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Hralgar's Eyes Vision|Hralgar's Eyes Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Events/1500s/1568/Interregnum of 1568|Interregnum of 1568]] |  | event · interregnum | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Ivory Scroll Cap Vision|Ivory Scroll Cap Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Kenzo's Jade Vision|Kenzo's Jade Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Kharsan Broken Glassware Vision|Kharsan Broken Glassware Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Mace of Terror Vision|Mace of Terror Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Magical Pale Blue Dye Vision|Magical Pale Blue Dye Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Mantle of Protection Vision|Mantle of Protection Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Mirror of Soul Trapping Vision|Mirror of Soul Trapping Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Nayan Marathu's Letter Vision|Nayan Marathu's Letter Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Pandemonium Scroll Vision|Pandemonium Scroll Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Phasing Stone Vision|Phasing Stone Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Raven Whistle Vision|Raven Whistle Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Ring of Displacement Vision|Ring of Displacement Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Events/Ancient/Riving|Riving]] | Long Pause | event | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Scepter of Command Vision|Scepter of Command Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Events/1300s/Serpentine Wars|Serpentine Wars]] |  | event · war | canonical | ✓ |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Shadow Hunter's Mask Vision|Shadow Hunter's Mask Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Soul Lantern Vision|Soul Lantern Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Events/Ancient/The Downfall|The Downfall]] |  | event | canonical |  |  | unknown: No reliable language evidence found |
-| [[Events/1700s/1713/The Election of Elaine II|The Election of Elaine II]] |  | event | canonical |  |  | unknown: No reliable language evidence found |
-| [[Events/1600s/1648/The Enst Campaign|The Enst Campaign]] |  | event | canonical |  |  | unknown: No reliable language evidence found |
-| [[Events/400s/402/Treaty of Marhavn|Treaty of Marhavn]] |  | event · treaty | canonical |  |  | unknown: No reliable language evidence found |
-| [[Events/400s/423/Treaty of Tyrwingha|Treaty of Tyrwingha]] |  | event · treaty | canonical |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Tentative/Treaty of Valarin|Treaty of Valarin]] |  | event · treaty | tentative |  |  | unknown: No reliable language evidence found |
-| [[Events/1400s/Treaty of Wisford|Treaty of Wisford]] |  | event · treaty | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Urgall's Helm Vision|Urgall's Helm Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Urgall's Note Vision|Urgall's Note Vision]] |  | event · vision | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Events/1700s/1718/01/Viepuck's Ritual Experience|Viepuck's Ritual Experience]] |  | event | canonical |  |  | unknown: No reliable language evidence found |
-| [[Events/1700s/1720/01/Undead Attacks in Sembara|Zombie Plague in Cleenseau]] | The Undead Attacks in Sembara† | event | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Materials/Adamantine|Adamantine]] |  | object · material | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Mawar Adventures/Items and Treasure/Airion's Bowl of Commanding Water Elementals|Airion's Bowl of Commanding Water Elementals]] |  | object · elemental command bowl | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Mawar Adventures/Items and Treasure/Airion's Elemental Research|Airion's Research on the Elemental Plane of Water]] |  | object · annotated books of elemental lore | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Mawar Adventures/Items and Treasure/Amulet of Khathayi|Amulet of Khathayi]] |  | object · amulet | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Things/Artifacts of Power/Analadin|Analadin]] |  | object · staff | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Mawar Adventures/Items and Treasure/Ancient Texts of Yerkir-Khor|Ancient Texts of Yerkir-Khor]] |  | object · ancient papers | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Apollyon's Crystal Ball|Apollyon's Crystal Ball]] |  | object | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Things/Artifacts of Power/Apollyon's Phylactery|Apollyon's Phylactery]] |  | object · dagger | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Magic Items/Blood Knife|Blood Knife]] |  | object · dagger | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/Blossom of the Eightfold Light|Blossom of the Eightfold Light]] |  | object · religious poem | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Treasure/Boots of False Tracks (Viepuck)|Boots of False Tracks]] |  | object · boots | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Treasure/Brot's Telescope (small)|Brot's Spyglass]] |  | object · telescope | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Things/Magic Items/Cairn Dor Sigil|Cairn Dor Sigil]] |  | object · symbol | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Cha'mutte’s Shadow Armband|Cha'mutte's Shadow Armband]] |  | object · wonderous item | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Things/Materials/Chalyte|Chalyte]] |  | object · mineral | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Materials/Chaos Metal|Chaos Metal]] |  | object · planar metal | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Chardon Fan|Chardon Fan]] |  | object · fan | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Treasure/Circlet of Telepathy|Circlet of Telepathy]] |  | object · circlet | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Treasure/Cloak of Concealment|Cloak of Concealment]] |  | object · cloak | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Things/Artifacts of Power/Cloak of Rainbows|Cloak of Rainbows]] | Mantle of Protection | object · cloak | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/Codex Maledictum|Codex Maledictum]] |  | object · cosmological treatise | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Artifacts of Power/Crown of Purity|Crown of Purity]] |  | object · crown | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Artifacts of Power/Dauthleiptr|Dauðleiptr]] |  | object · death ray | canonical |  | DOWTH-lape-ter | unknown: No reliable language evidence found |
-| [[Things/Magic Items/Deepwater Scroll|Deepwater Scroll]] |  | object · scroll | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Artifacts of Power/Elemental Scrolls of Airion|Elemental Scrolls of Airion]] |  | object · scroll | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Magic Items/Flamekeeper Scroll|Flamekeeper Scroll]] |  | object · scroll | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Floating Disc Coin|Floating Disc Coin]] |  | object · coin | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Things/Materials/Gatza|Gatza]] |  | object · drug | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Treasure/Greymalkin's Armor|Greymalkin's Armor]] |  | object · armor | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Things/Artifacts of Power/Heart of Shakun|Heart of Shakun]] |  | object · wonderous item | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Hralgar's Eyes|Hralgar's Eyes]] |  | object · wonderous item | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Things/Materials/Inkaye|Inkaye]] |  | object · material | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Ivory Scroll Case|Ivory Scroll Case]] |  | object · scroll case | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Jade Piece of Rai's Hand|Jade Piece of Rai's Hand]] |  | object · gemstone | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/Light of the Everglade|Light of the Everglade]] |  | object · epic poem | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Treasure/Locket of Sending|Locket of Sending]] |  | object · necklace | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/Lyrics of a New Age|Lyrics of a New Age]] |  | object · poem collection | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Mace of Terror|Mace of Terror]] |  | object · mace | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Medusa Blade|Medusa Blade]] |  | object · sword | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping|Mirror of Soul Trapping]] |  | object · mirror | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of the Past|Mirror of the Past]] | Eudomes' Mirror; Eudomes' Mirror of the Past† | object · mirror | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Things/Materials/Mithril|Mithril]] |  | object · material | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Great Library Campaign/Treasure/Nymthrax's Hoard|Nymthrax's Hoard]] |  | object · treasure hoard | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/On Elemental Forms|On Elemental Forms]] |  | object · natural history treatise | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/On the Nature of Extraplanar Travel|On the Nature of Extraplanar Travel]] |  | object · cosmological treatise | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/On the Nature of Reflections and Transitive Magic|On the Nature of Reflections and Transitive Magic]] |  | object · cosmological treatise | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Pandemonium Scroll|Pandemonium Scroll]] |  | object · scroll | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Pearls of Far Sight|Pearls of Far Sight]] |  | object | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Things/Materials/Prime Arcana|Prime Arcana]] |  | object · hypothesized alchemical substance | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Mawar Adventures/Items and Treasure/Airion's Ring of Elemental Binding|Ring of Elemental Binding]] |  | object · ring | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Treasure/Ring of Escape|Ring of Escape]] |  | object · ring | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Treasure/Ring of Jumping (Robin)|Ring of Jumping]] |  | object · ring | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Things/Artifacts of Power/Ring of Undying|Ring of Undying]] |  | object · ring | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Treasure/Ring of Waterwalking (Cleenseau)|Ring of Water Walking]] |  | object · ring | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Treasure/Ring of Wounding|Ring of Wounding]] |  | object · ring | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Rings of Elemental Protection|Rings of Elemental Protection]] |  | object | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Rod of Elmerca's Bond|Rod of Elmerca's Bond]] |  | object · wonderous item | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Things/Materials/Serpentine|Serpentine]] |  | object · material | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Magic Items/Serpentine Battleaxe|Serpentine Battleaxe]] |  | object · weapon | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Magic Items/Serpentine Dagger|Serpentine Dagger]] |  | object · dagger | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Magic Items/Skyborn Scroll|Skyborn Scroll]] |  | object · scroll | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Soul Lantern|Soul Lantern]] |  | object · lantern | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Things/Magic Items/Stonemaster Scroll|Stonemaster Scroll]] |  | object · scroll | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/Studies of the Westward Deeps|Studies of the Westward Deeps]] |  | object · natural history treatise | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/Terrageum Virion|Terrageum Virion]] |  | object · cosmological treatise | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/The Chronicle of Ruin|The Chronicle of Ruin]] |  | object · cosmological collection | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/The Codex of Compound Planes|The Codex of Compound Planes]] |  | object · cosmological treatise | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/The Runes of Creation|The Runes of Creation]] |  | object · magical book | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/The Siren's Embrace|The Siren's Embrace]] |  | object · play | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/The Song of the Shattered, Reborn|The Song of the Shattered, Reborn]] |  | object · epic poem | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/The Way of the Stone|The Way of the Stone]] |  | object · alchemical tome | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Materials/Tollen Dyes|Tollen Dyes]] |  | object · material | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Materials/Trueflame|Trueflame]] |  | object · alchemical substance | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Materials/Uligium|Uligium]] |  | object · material | canonical |  | oo-lee-ghee-um | unknown: No reliable language evidence found |
-| [[Things/Magic Items/Universal Solvent|Universal Solvent]] |  | object · alchemical substance | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/Upon the Fractured Earth|Upon the Fractured Earth]] |  | object · cosmological treatise | canonical |  |  | unknown: No reliable language evidence found |
-| [[Things/Books/Verdant Canticles|Verdant Canticles]] |  | object · poem collection | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Wand of the Planes|Wand of the Planes]] |  | object | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Treasure/Wayfarer's Bow|Wayfarer's Bow]] |  | object · bow | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Airion|Airion the Mistspeaker]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Akanen|Akanen]] | Lord Akanen† | person · human | canonical |  | ak-AH-nen | unknown: No reliable language evidence found |
-| [[People/PCs/Dunmar Fellowship/Guests/Alimash|Alimash]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Historical Figures/Amloch|Amloch]] |  | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Historical Figures/Drankorian Emperors/Anates|Anates]] |  | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Historical Figures/Drankorian Emperors/Apollyon|Apollyon]] | Emperor Apollyon | person · undead | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Historical Figures/Avatus|Avatus]] | Emperor Avatus† | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Historical Figures/Azzan|Azzan]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Dunmar Fellowship/Companions/Baxter|Baxter]] |  | person · axebeak | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Mawar/Blu|Blu]] |  | person · osprey | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Buruli|Buruli]] |  | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Caloria|Caloria]] |  | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Canopy|Canopy]] |  | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Cato Stormtouched|Cato Stormtouched]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Clara|Clara]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Other PCs/Labyrinth Prisoners/Dilion|Dilon]] | Dilion | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Great War/Companions/Dimitaur|Dimitaur]] |  | person · dragonet | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Dinia|Dinia]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Echo|Echo]] |  | person · talking fruit bat | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Into the Chasm/Ekko|Ekko]] |  | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Elian of Suwi|Elian of Suwi]] | Elian; Priest Elian of Suwi† | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Into the Chasm/Eolo|Eolo]] |  | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Cleenseau/Estiasilos|Es\*tiasilos]] |  | person · mysterious abberation | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Historical Figures/Fides Lucaris spy|Fides Lucaris spy]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Silver Tempests/Friend|Friend]] |  | person · beast | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Mawar/Geo|Geo]] |  | person · bear | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Geoffrey|Geoffrey]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Ghesh|Ghesh]] |  | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Historical Figures/Drankorian Emperors/Goristo|Goristo]] |  | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Grash|Grash]] |  | person · undead | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Grimstone|Grimstone]] | Lord Rockbinder | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Gyles|Gyles]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Historical Figures/Drankorian Emperors/Helea|Helea]] | Emperor Helea† | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Iagharaz|Iagharaz]] |  | person · dragon | canonical |  | aya-gar-az | unknown: No reliable language evidence found |
-| [[People/Other Humans/Ilanar|Ilanar]] |  | person · unknown | canonical |  | ee-lah-NAHR | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Inakara|Inakara]] |  | person · derro | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Fey/Istarias|Istarias]] |  | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Ithu’rax|Ithu'rax]] |  | person · aboleth | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Jacopo Marcelli|Jacopo Marcelli]] | J.M; ghost of J.M | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Into the Chasm/Jrain Fanlish|Jrain Fanlish]] | Jrain | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Into the Chasm/Justas Rhostrin|Justas Rhostrin]] | Justas | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Mawar/Kaleho|Kaleho]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Staging/Chasm/Khaled|Khaled]] |  | person | staging |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Khathayi|Khathayi the Flametongue]] |  | person · mysterious creature | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Historical Figures/Khemut of Targu|Khemut of Targu]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Kurome|Kurome]] |  | person · dream being | canonical |  | ku-ROW-may | unknown: No reliable language evidence found |
-| [[People/PCs/Dunmar Fellowship/Companions/Ladder|Ladder]] |  | person · construct | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Lengau|Lengau]] |  | person · celestial | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Mashtu the Corruptor|Mashtu the Corruptor]] |  | person · demon | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Megren|Megren]] |  | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Mehrangeesa|Mehrangeesa]] |  | person · elemental | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Mikel|Mikel]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Milo Kentbrush|Milo Kentbrush]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Motua|Motua]] |  | person · celestial | canonical |  | moh-TOO-ah | unknown: No reliable language evidence found |
-| [[People/PCs/Mawar/Nerissa|Nerissa]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Nimessa|Nimessa]] |  | person · elemental | canonical |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Staging/Chasm/Nura|Nura]] |  | person | staging |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Nymthrax|Nymthrax]] |  | person · dragon | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Oduk|Oduk]] |  | person · demon | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Petrona|Petrona]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Other PCs/Labyrinth Prisoners/Pikeia|Pikeia]] |  | person · dog | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Pip|Pip]] |  | person · talking fruit bat | canonical |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Staging/Feywild/Prisoner in the 27th Room|Prisoner in the 27th Room]] | The Prisoner; The Child; The Dreamer | person · unknown | staging |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Ra'ghemdros|Ra'ghemdros]] |  | person · dragon | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Rakshasa|Rakshasa]] | Tiger Man | person · tiger-headed mortal | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Into the Chasm/Rala|Rala]] |  | person · beast | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Ralvaz|Ralvaz]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Staging/Chasm/Ravager of Winter|Ravager of Winter]] |  | person | staging |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Resenna|Resenna]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Rhodar von Glauer|Rhodar von Glauer]] | Lord Rhodar Von Glauer† | person · undead | canonical |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Staging/Chasm/Samir|Samir]] |  | person | staging |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Silver Tempests/Scordith|Scordith]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Sh’shethis|Sh’shethis]] |  | person · elemental | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Fey/Somi-nai|Somi-nai]] | Ember (Lizardling); Sugarra (Lizardling) | person · elemental | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Other PCs/Labyrinth Prisoners/Steampup|Steampup]] | Dilon's steel defender, Dilion's steel defender | person · steel defender | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Other PCs/Oskar's Companions/Stoneclaw|Stoneclaw]] |  | person · hyena | canonical |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Staging/Chasm/Taquin|Taquin]] |  | person | staging |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Dunmar Fellowship/Companions/Taster|Taster]] |  | person · rabbit | canonical |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Staging/Dunmar/Taurion|Taurion]] |  | person | staging |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Torsten|Torsten]] |  | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Mawar/Turk|Turk]] |  | person · shark | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Fey/Vaelithar|Vaelithar]] |  | person · fae | canonical |  | VAY-lih-thar | unknown: No reliable language evidence found |
-| [[People/Historical Figures/Drankorian Emperors/Vestian|Vestian]] | Emperor Vestian† | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Vilaxes|Vilaxes]] |  | person · aberration | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Historical Figures/Vimfrost|Vimfrost]] |  | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Wakog|Wakog]] |  | person · ogre | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/PCs/Great War/Companions/Willow Wind|Willow Wind]] |  | person · fox | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Xameia|Xameia the Forsworn]] | Xameia | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Xeron|Xeron]] |  | person · aboleth | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Yerkir-khor|Yerkir-khor]] |  | person · elemental | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Zadkai|Zadkai]] |  | person · human | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Zephyra|Zephyra]] |  | person · elemental | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Nonhumans/Zibzig Sparkscale|Zibzig Sparkscale]] |  | person · kobold | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Other Humans/Zora|Zora]] |  | person | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Spiritual Realms/Abyss|Abyss]] |  | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Extraplanar/Plane of Water/Abyssal Trench|Abyssal Trench]] |  | place · abyssal region | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Central Highlands/Ainumarya|Ainumarya]] |  | place · forest | canonical |  | EYE-new-mar-ya | unknown: No reliable language evidence found |
-| [[History/Historical Realms/Amani|Amani]] |  | place · destroyed realm | canonical |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Tentative/Anoka|Anoka]] |  | place | tentative |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Spiritual Realms/Arborea|Arborea]] |  | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Tentative/Arkaash|Arkaash]] |  | place | tentative |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Arqa|Arqa]] |  | place · river | canonical |  | ar-KAH | unknown: No reliable language evidence found |
-| [[Cosmology/Energy Realms/Compound Realms/Ashspire|Ashspire]] |  | place · compound elemental realm | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Astral Plane|Astral Plane]] |  | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Major Rivers/Istaros Watershed/Aursen|Aursen]] | Aursen River (Common); River Aursen (Common) | place · river | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Faraway Places/Azta Lekua|Azta Lekua]] | Footprint of the Gods (Lizardling) | place · region | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Barzhen|Barzhen]] |  | place · river | canonical |  | bar-SHEN | unknown: No reliable language evidence found |
-| [[Gazetteer/Extraplanar/Shadowfolds/Morkalan/Bleakhold|Bleakhold]] |  | place · village | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Energy Realms/Compound Realms/Bloomswell|Bloomswell]] |  | place · compound elemental realm | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Extraplanar/Plane of Air/Breath of Aerys|Breath of Aerys]] |  | place · sacred planar landmark | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Extraplanar/Plane of Fire/Bronzehall|Bronzehall]] |  | place · city | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Nevos and Apporia/Burganos|Burganos]] |  | place · island | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Extraplanar/Shadowfolds/Cairn Dor/Cairn Dor|Cairn Dor]] |  | place · extraplanar domain | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Extraplanar/Plane of Fire/Cinder Wastes|Cinder Wastes]] |  | place · region | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Energy Realms/Compound Realms/Cloudmere|Cloudmere]] |  | place · compound elemental realm | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Western Green Sea/Realms/Cymea|Cymea]] | Cymean | place · region | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Western Green Sea/Cymean Peninsula|Cymean Peninsula]] |  | place · peninsula | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Major Rivers/Istaros Watershed/Douren|Douren]] | River Douren (Common); Douren River (Common) | place · river | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Dreamworld|Dreamworld]] |  | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Central Highlands/Elderwood|Elderwood]] |  | place · forest | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Energy Realms/Elemental Plane of Air|Elemental Plane of Air]] |  | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Energy Realms/Elemental Plane of Earth|Elemental Plane of Earth]] |  | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Energy Realms/Elemental Plane of Fire|Elemental Plane of Fire]] | Plane of Fire | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Energy Realms/Elemental Plane of Metal|Elemental Plane of Metal]] | Plane of Metal | place · hypothesized energy realm | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Extraplanar/Plane of Earth/Emerald Chasm|Emerald Chasm]] |  | place · chasm | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Extraplanar/Shadowfolds/Cairn Dor/Eshlem|Eshlem]] |  | place · village | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Ethereal Plane|Ethereal Plane]] |  | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Faraway Places/Far North|Far North]] |  | place · region | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Faraway Places/Far South|Far South]] |  | place · region | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Feywild|Feywild]] | fey† | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Energy Realms/Compound Realms/Frostfell|Frostfell]] | Elemental Plane of Ice; Plane of Ice; Compound Plane of Cold | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Northwest Coast/Fiamatara Mountains/Goldpeak Mines|Goldpeak Mines]] |  | place · mine | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Northwest Coast/Guluppa-Sog|Guluppa-Sog]] |  | place · village | canonical |  | goo-LUP-pa sog | unknown: No reliable language evidence found |
-| [[Worldbuilding/Tentative/~High Horn~|High Horn]] |  | place · mountain pass | tentative |  |  | unknown: No reliable language evidence found |
-| [[History/Historical Realms/Hkar|Hkar]] | Hkaran | place · sunken island | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Nevos and Apporia/Illoria|Illoria]] | Illorian | place · archipelago | canonical |  | ih-LOHR-ee-ah | unknown: No reliable language evidence found |
-| [[Cosmology/Energy Realms/Compound Realms/Ironroot|Ironroot]] |  | place · compound elemental realm | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Eastern Green Sea/Irrla|Irrla]] |  | place · large island | canonical |  | EAR-la | unknown: No reliable language evidence found |
-| [[Gazetteer/Northern Sentinels/K'eye|K'eye]] | Red River (Common) | place · river | canonical |  | keh-EYE | unknown: No reliable language evidence found |
-| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Kelvaros|Kelvaros]] |  | place · river | canonical |  | KEHL-va-ross | unknown: No reliable language evidence found |
-| [[Gazetteer/Northern Green Sea/Rivers/Ket|Ket]] |  | place · river | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Land of the Dead|Land of the Dead]] | River of Souls (Common); Divine Veil | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Spiritual Realms/Limbo|Limbo]] |  | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Major Rivers/Istaros Watershed/Masance|Masance]] | River Masance (Common); Masance River (Common) | place · river | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Material Plane|Material Plane]] | Prime Material Plane; Prime Realm (Common); Mundane Realm (Common); Mundane World | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Eastern Green Sea/Medju|Medju]] |  | place · city | canonical |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Staging/Chasm/Melusa|Melusa]] |  | place | staging |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Energy Realms/Compound Realms/Miredepths|Miredepths]] |  | place · compound elemental realm | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan|Morkalan]] |  | place · domain | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Extraplanar/Plane of Water/Murky Wastes|Murky Wastes]] |  | place · region | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Major Rivers/Istaros Watershed/Naithale|Naithalë]] | Nimrata (Tyrwinghan); Arianrith (Tyrwinghan) | place · river | canonical |  | NY-thah-lay | unknown: No reliable language evidence found |
-| [[Gazetteer/Extraplanar/Plane of Fire/Nalzuris|Nalzuris]] | Golden City (Common) | place · city | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Energy Realms/Negative Energy Plane|Negative Energy Plane]] | Plane of Still Waters (Common) | place · hypothesized energy realm | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Nevos and Apporia/Nevos and Apporia|Nevos and Apporia]] |  | place · region | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Spiritual Realms/Nine Hells|Nine Hells]] |  | place · spiritual realm | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Northern Sentinels/Northern Sentinels|Northern Sentinels]] |  | place · region | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Extraplanar/Plane of Fire/Oracle's Pyre|Oracle's Pyre]] |  | place · landmark | canonical |  |  | unknown: No reliable language evidence found |
-| [[History/Historical Realms/Pandar|Pandar]] |  | place · destroyed autocracy | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Spiritual Realms/Pandemonium|Pandemonium]] |  | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Extraplanar/Plane of Earth/Pillar of Karth|Pillar of Karth]] |  | place · spire | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Plane of Creation|Plane of Creation]] |  | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Plane of Magic|Plane of Magic]] |  | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Plane of Souls|Plane of Souls]] | Plane of Consciousness | place · plane | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Energy Realms/Positive Energy Plane|Positive Energy Plane]] | Plane of Blossoming Currents | place · hypothesized energy realm | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Faraway Places/Pu'aatar|Pu'aatar]] |  | place · mythical city | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Energy Realms/Compound Realms/Pyreforge|Pyreforge]] |  | place · compound elemental realm | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Eastern Green Sea/Quanyi|Quanyi]] |  | place · island | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Extraplanar/Shadowfolds/Cairn Dor/Sarren Kir|Sarren Kir]] | Fort of the Sleepless (Common) | place · hill fort and palace | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Northern Green Sea/Shadowkeep|Shadowkeep]] |  | place · keep | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Nevos and Apporia/Silanus|Silanus]] |  | place · island | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Major Rivers/Istaros Watershed/Silire|Silírë]] |  | place · river | canonical |  | see-LEER-eh | unknown: No reliable language evidence found |
-| [[Gazetteer/Western Green Sea/Skaerhem/Skaerhem|Skaerhem]] | Skaer Islands (Common); Skaegenland | place · region | canonical |  |  | unknown: No reliable language evidence found |
-| [[Cosmology/Energy Realms/Compound Realms/Smokeshroud|Smokeshroud]] |  | place · compound elemental realm | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Western Green Sea/Straits of Cymea|Straits of Cymea]] |  | place · strait | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Extraplanar/Plane of Air/Sulmana|Sulmana]] |  | place · place | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Northwest Coast/Suwi|Suwi]] |  | place · village | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Great Library Campaign/Tempest Towers|Tempest Towers]] |  | place · bastion | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Major Rivers/Istaros Watershed/Thalurien|Thalúrien]] | Taloraine | place · river | canonical |  | THAH-loo-ree-en | unknown: No reliable language evidence found |
-| [[Worldbuilding/Staging/Feywild/Twilight Promontory|Twilight Promontory]] |  | place · promotory | staging | ✓ |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Major Rivers/Istaros Watershed/Valmont|Valmont]] | River Valmont (Common) | place · river | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Major Rivers/Istaros Watershed/Velasse|Velassë]] | Velonere (Elvish) | place · river | canonical |  | veh-LAH-sseh | unknown: No reliable language evidence found |
-| [[History/Historical Realms/Volganis|Volganis]] |  | place · destroyed monarchy | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Extraplanar/Shadowfolds/Cairn Dor/Wolf Queen's Stillings|Wolf Queen's Stillings]] | Queen's Stillings | place · long-barrow complex | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Major Rivers/Istaros Watershed/Yandare|Yandarë]] | Vistala | place · river | canonical |  | yahn-DAH-reh | unknown: No reliable language evidence found |
-| [[Gazetteer/Northern Sentinels/Yemo'te|Yemo'te]] |  | place · river | canonical |  | yeh-moh-TEH | unknown: No reliable language evidence found |
-| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Zarnato|Zarnato]] |  | place · river | canonical |  | zahr-NAH-toh | unknown: No reliable language evidence found |
-| [[Worldbuilding/Tentative/~Eastern Dunmari Region~|~Eastern Dunmari Region~]] |  | place | tentative |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Tentative/~Far North Peninsula~|~Far North Peninsula~]] |  | place · topographical feature | tentative |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Tentative/~Maritime Trade Peninsula~|~Maritime Trade Peninsula~]] |  | place · topographical feature | tentative |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Tentative/~Northern Volcanoes~|~Northern Volcanoes~]] |  | place | tentative |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Tentative/~South Cymea~|~South Cymea~]] |  | place · region | tentative |  |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Major Rivers/Istaros Watershed/~Southern Plaguelands Tributary~|~Southern Plaguelands Tributary~]] |  | place · river | canonical | ✓ |  | unknown: No reliable language evidence found |
-| [[Gazetteer/Major Rivers/Istaros Watershed/~Valmont Tributary~|~Valmont Tributary~]] |  | place · river | canonical | ✓ |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/A'gaza|A'gaza]] |  | power · tanshi | canonical |  | ah-GAH-zah | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Aagir|Aagir]] |  | power · incorporeal god | canonical |  | AA-gir | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Aasimti|Aasimti]] |  | power · tanshi | canonical |  | ah-SEEM-tee | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Adra|Adra]] |  | power · demigod | canonical |  | AAD-rah | unknown: No reliable language evidence found |
-| [[People/Extraplanar Powers/Archfey/Archfey Ethlenn|Archfey Ethlenn]] | Queen of the Evening Mist | power · archfey | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/Bahrazel/Azar|Azar]] | Warrior | power · embodied god | canonical |  | AH-zahr | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/Tharzen Anzinakoa/Bero|Bero]] |  | power · embodied god | canonical |  | BEH-roh | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Kestavo/Besla|Besla]] |  | power · kestavo | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma|Bhishma]] |  | power · demigod | canonical |  | BHEESH-ma | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Bita|Bita]] |  | power · tanshi | canonical |  | BEE-tah | unknown: No reliable language evidence found |
-| [[People/Extraplanar Powers/Cha'mutte|Cha'mutte]] |  | power · elder wyrm | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Chidya|Chidya]] |  | power · incorporeal god | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Extraplanar Powers/Archfey/Cloudspinner|Cloudspinner]] | Queen of Sunset | power · archfey | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Deni|Deni]] |  | power · tanshi | canonical |  | DEH-nee | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/High Gods/Divine Presence|Divine Presence]] | Arha; Arhat; Malik; Sampa (Dunmari); Shurat (Dunmari); Ako; Anida | power · high god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/Endless Chaos|Endless Chaos]] |  | power · embodied god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/Entamba|Entamba]] |  | power · embodied god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/Bahrazel/Fanrukel|Fanrukel]] | The Priest | power · embodied god | canonical |  | FAN-roo-kel | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Fox and Hunter|Fox and Hunter]] |  | power · demigod | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/High Gods/G'Zab|G'Zab]] |  | power · high god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/Ghesyn|Ghesyn]] |  | power · embodied god | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Extraplanar Powers/Archfey/Harrow|Harrow]] |  | power · archfey | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/Tharzen Anzinakoa/Hazkunde|Hazkunde]] |  | power · embodied god | canonical |  | has-KOON-dee | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Inech|Inech]] |  | power · tanshi | canonical |  | ee-NEKH | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Istari|Istari]] |  | power · tanshi | canonical |  | ees-TAH-ree | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Jeevali|Jeevali]] |  | power · incorporeal god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/First Ones/Jemghari|Jemghari]] |  | power · embodied god | canonical |  | gem-GHA-ree | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/High Gods/Jinnik|Jinnik]] |  | power · high god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Meswati/K'onisati|K'onisati]] |  | power · tanshi | canonical |  | koh-nee-SAH-tee | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Kaikkea|Kaikkea]] |  | power · incorporeal god | canonical |  | KAI-key-ah | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Kestavo/Kamak|Kamak]] |  | power · kestavo | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/Bahrazel/Karthel|Karthel]] | Runecrafter | power · embodied god | canonical |  | KAR-thel | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Laka|Laka]] |  | power · incorporeal god | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Extraplanar Powers/Archfey/Lightdancer|Lightdancer]] | Egon; Lord Egon | power · archfey | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Extraplanar Powers/Archfey/Lord Serenveil|Lord Serenveil]] |  | power · archfey | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Extraplanar Powers/Archfey/Lord Soven|Lord Sorven]] |  | power · archfey | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Extraplanar Powers/Archfey/Lord Umbraeth|Lord Umbraeth]] | Gloomshaper | power · archfey | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Ma'ka'se|Ma'ka'se]] |  | power · tanshi | canonical |  | mah-KAH-seh | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/Mad One|Mad One]] |  | power · embodied god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/Bahrazel/Maganna|Maganna]] | Traveler | power · embodied god | canonical |  | MAH-gahn-nah | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Mek'ire|Mek'ire]] |  | power · tanshi | canonical |  | mehk-EER-eh | unknown: No reliable language evidence found |
-| [[Worldbuilding/Staging/Chasm/Melua|Melua]] |  | power | staging |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Meswati/Midri|Midri]] |  | power · tanshi | canonical |  | MID-ree | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Mo'kati|Mo'kati]] |  | power · tanshi | canonical |  | moh-KAH-tee | unknown: No reliable language evidence found |
-| [[People/Extraplanar Powers/Archfey/Morlaith|Morlaith]] | Grymholt; Briarheart; Keeper of the Thornweald; Lord of the Hidden Hollows; Hidden Lord | power · archfey | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/Tharzen Anzinakoa/Negu|Negu]] |  | power · embodied god | canonical |  | EH-goo | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Meswati/Nisir|Nisir]] |  | power · tanshi | canonical |  | nee-SEER | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/First Ones/Nwana|Nwana]] |  | power · embodied god | canonical |  | n-WAH-nah | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/First Ones/Obito|Obito]] |  | power · embodied god | canonical |  | oh-BEE-toh | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/Bahrazel/Oshkir|Oshkir]] | Farmer | power · embodied god | canonical |  | OSH-keer | unknown: No reliable language evidence found |
-| [[People/Extraplanar Powers/Archfey/Prince Aurelian|Prince Aurelian]] | Golden Prince | power · archfey | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Extraplanar Powers/Archfey/Prince of Luck|Prince of Luck]] | Chanceweaver | power · archfey | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Kestavo/Romil|Romil]] |  | power · kestavo | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Extraplanar Powers/Archfey/Rust Baron|Rust Baron]] |  | power · archfey | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Sarqon|Sarqon]] |  | power · incorporeal god | canonical |  | Sahr-kon | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun|Shakun]] |  | power · demigod | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Sonkar|Sonkar]] |  | power · incorporeal god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Meswati/Taraka|Taraka]] |  | power · tanshi | canonical |  | TAH-rah-kah | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/Bahrazel/Tarbaka|Tarbaka]] | Stoneworker | power · embodied god | canonical |  | tar-BAH-kah | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Tera|Tera]] |  | power · tanshi | canonical |  | TEH-rah | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/Thark|Thark]] |  | power · embodied god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Father|The Father]] |  | power · incorporeal god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Mother|The Mother]] |  | power · incorporeal god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Night Queen|The Night Queen]] |  | power · incorporeal god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Sibyl|The Sibyl]] |  | power · incorporeal god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Wanderer|The Wanderer]] |  | power · incorporeal god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Warlord|The Warlord]] |  | power · incorporeal god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Wildling|The Wildling]] |  | power · incorporeal god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Wyrdling|The Wyrdling]] |  | power · incorporeal god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/Tharzen Anzinakoa/Udazkena|Udazkena]] |  | power · embodied god | canonical |  | oo-DAHS-keh-nah | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/High Gods/Umidzka|Umidzka]] |  | power · high god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Embodied Gods/Bahrazel/Uzdan|Uzdan]] | The Ruler | power · embodied god | canonical |  | UZ-dahn | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Kestavo/Vaqar|Vaqar]] |  | power | canonical |  | VAH-kar | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/High Gods/Void Mind|Void Mind]] |  | power · high god | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Washi|Washi]] |  | power · tanshi | canonical |  | WAH-shee | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Wenba|Wenba]] |  | power · tanshi | canonical |  |  | unknown: No reliable language evidence found |
-| [[People/Extraplanar Powers/Archfey/Wend|Wend]] |  | power · archfey | canonical |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Wenzi|Wenzi]] |  | power · tanshi | canonical |  | WEHN-zee | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Meswati/Yalik'i|Yalik'i]] |  | power · tanshi | canonical |  | yah-LEEK-ee | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Meswati/Yezali|Yezali]] | Aaviskar | power · tanshi | canonical |  | yeh-ZAH-lee | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Tanshi/Zafi|Zafi]] |  | power · tanshi | canonical |  | ZAH-fee | unknown: No reliable language evidence found |
-| [[Gods and Religions/Gods/Kestavo/Zeyfa|Zeyfa]] |  | power | canonical |  | ZAY-fah | unknown: No reliable language evidence found |
-| [[_DM_/_Mawar Confederacy/Ep 5 - Lost Legacy/Mawar Religion|Mawar Religion]] |  | religion | DM/speculative |  |  | unknown: No reliable language evidence found |
-| [[Primary Sources/Story About Halfling Merchants|A Story about Halfling Merchants]] |  | source | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Amar's Story|Amar's Story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/An Annotated (Partial) Map of Drankor|An Annotated (Partial) Map of Drankor]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/An Excerpt from On Creation and Destruction of Extra-Material Realms|An Excerpt from On Creation and Destruction of Extra-Material Realms]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Archives Letter|Archives Letter]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Mawar Adventures/Notes/Azar's Tale|Azar's Tale]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Caulaus' Story|Caulaus' Story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Cecilia Lister's Story|Cecilia Lister's Story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/with Mahaut's Miracle Players/Celyn and Alys I|Celyn and Alys I]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/with Mahaut's Miracle Players/Celyn and Alys II|Celyn and Alys II]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/in Clawyn/Celyn and his Mama Discuss Children|Celyn and his Mama Discuss Children]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/Celyn and Izgil Discuss the Moon|Celyn and Izgil Discuss the Moon]] | A Conversation about the Moon† | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn and Mahaut’s Miracle Players|Celyn and Mahaut’s Miracle Players]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/Celyn and Perception|Celyn and Perception]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/Celyn and Robin I|Celyn and Robin I]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/in Clawyn/Celyn and the Crowther Boys|Celyn and the Crowther Boys]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/Celyn and the Horses|Celyn and the Horses]] | Celyn Talks to Horses† | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/with Mahaut's Miracle Players/Celyn and the Players I|Celyn and the Players I]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/with Mahaut's Miracle Players/Celyn and the Players II|Celyn and the Players II]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn As A Teenager|Celyn As A Teenager]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn Learning Languages|Celyn Learning Languages]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/Celyn Teaches Izgil Sylvan|Celyn Teaches Izgil Sylvan]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn's Adolescene II|Celyn's Adolescene II]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn's Childhood|Celyn's Childhood]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn's Childhood II|Celyn's Childhood II]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Celyn's Letter to His Brother Pryce|Celyn's Letter to His Brother Pryce]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/Celyn's Miracle Story|Celyn's Miracle Story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/Celyn's Musings on Magic|Celyn's Musings on Magic]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/Celyn's Perceptions of Veltor|Celyn's Perceptions of Veltor]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn's Story of Getting His Name|Celyn's Story of Getting His Name]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn's Story of His Adolescence|Celyn's Story of His Adolescence]] | Celyn's Story of Getting His Adolescence† | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn's Story of Leaving Home|Celyn's Story of Leaving Home]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/in Ruthin/Celyn's Time in Ruthin|Celyn's Time in Ruthin]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Chalyte Rumors from the Smiling Crab|Chalyte Rumors from the Smiling Crab]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Chalyte Rumors from Tiberius|Chalyte Rumors from Tiberius]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Clawyn After Celyn Leaves|Clawyn After Celyn Leaves]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Stories/El's Story|El's Story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Stories/Elizabeth of Cassen's Story|Elizabeth of Cassen's Story]] | Elizabeths's Story† | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Faldrak's Journal Notes|Faldrak's Journal Notes]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/First Dream of Rai|First Dream of Rai]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Primary Sources/Songs/Fog and Fortune|Fog and Fortune]] |  | source | canonical |  |  | unknown: No reliable language evidence found |
-| [[Primary Sources/Founding of Dunmar|Founding of Dunmar]] |  | source | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Stories/Gareth's Story|Gareth's Story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/Govir's Story|Govir's Story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Scrying and Spying/Grash May 13th|Grash May 13th]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Stories/Greymalkin's Story|Greymalkin's Story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Stories/Guy de Varan's Story|Guy de Varan's Story]] | Guy de Varan's Story of Orc Raids† | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Mawar Adventures/Items and Treasure/Hiyasa's Treasure Map|Hiyasa's Treasure Map]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/Hralgar's Story|Hralgar's Story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Primary Sources/Songs/Hush Little Beet|Hush Little Beet]] |  | source | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Iskra's Story|Iskra's Story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Jorundr's Story|Jorundr's Story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Justan's Story|Justan's Story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/Kenzo Spirit Journey in Bedez|Kenzo Spirit Journey in Bedez]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/Kenzo's Dream of Apollyon|Kenzo's Dream of Apollyon]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/Kenzo's Dream of Monks|Kenzo's Dream of Monks]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/Kenzo's Memories of Hraglar|Kenzo's Memories of Hraglar]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Kirian's Story|Kirian's Story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Lakan Monk Letter|Lakan Monk Letter]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Alaric Lord Mayor of Rinburg|Letter from Alaric Lord Mayor of Rinburg]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Letter from Candrosa|Letter from Candrosa]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Primary Sources/Letter from Canela to Festian, DR 1651|Letter from Canela to Festian, DR 1651]] |  | source | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Great Library Campaign/Handouts/Letter from Chardon for Samso on the Umbral Covenant|Letter from Chardon for Samso on the Umbral Covenant]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Letter from Dee Wildcloak|Letter from Dee Wildcloak]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Addermarch Campaign/Handouts/Letter from Elowen Duval|Letter from Elowen Duval]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Enford|Letter from Enford]] | Letter from Captain Rochefort to Captain Rosfeld† | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Letter from Govir|Letter from Govir]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Mahaut to Celyn|Letter from Mahaut to Celyn]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Addermarch Campaign/Handouts/Letter from Owen Tavish|Letter from Owen Tavish]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Rosalind (January 14th)|Letter from Rosalind (January 14th)]] | Letter from Rosalind to the Heroes of Cleenseau† | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Rosalind (January 21st)|Letter from Rosalind (January 21st)]] | Letter from Rosalind to the Heroes of Cleenseau† | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Rosalind (January 26th)|Letter from Rosalind (January 26th)]] | Letter from Rosalind to the Heroes of Cleenseau† | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Rosalind (January 6th)|Letter from Rosalind (January 6th)]] | Letter from Rosalind to the Heroes of Cleenseau† | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Rosalind (January 8th)|Letter from Rosalind (January 8th)]] | Letter from Rosalind to the Heroes of Cleenseau† | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Letter from Speaker Lara|Letter from Speaker Lara]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Susanne Garay to Viepuck|Letter from Susanne Garay to Viepuck]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from the Oracle of the Red to the Mostreve Warlocks|Letter from the Oracle of the Red to the Mostreve Warlocks]] | An order from the Oracle of the Red† (Common) | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Primary Sources/Lore of the Birth of the Gods|Lore of the Birth of the Gods]] |  | source | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Luck and Fate|Luck and Fate]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Addermarch Campaign/Handouts/Marshal Brask's Letter|Marshal Brask's Letter]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Primary Sources/Songs/Merfolk Fortunes|Merfolk Fortunes]] |  | source | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/Milo's Story|Milo's Story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/Murook's Story|Murook's Story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Nameless Chardonian Warrior's Story|Nameless Chardonian Warrior's Story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Nayan Marathu's Letter|Nayan Marathu's Letter]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Papers from the Fraternity of the Empty Moon|Papers from the Fraternity of the Empty Moon]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Extraplanar Wounds|Philosopher's Information Concerning Extraplanar Wounds]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Frankar|Philosopher's Information Concerning Frankar]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Limbo|Philosopher's Information Concerning Limbo]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Rai's Hand|Philosopher's Information Concerning Rai's Hand]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Rodnya Voknaz|Philosopher's Information Concerning Rodnya Voknaz]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Ursk|Philosopher's Information Concerning Ursk]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Primary Sources/Songs/Praise the Divine Family|Praise the Divine Family]] |  | source | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Report of the Aagiri to Samraat Dasa|Report of the Aagiri to Samraat Dasa]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Report on the Bogblight|Report on the Bogblight]] | Reports on the Bogblight† | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Reports on Chalyte in Alta Tonaro|Reports on Chalyte in Alta Tonaro]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Research about Ancient Sources on Limbo|Research about Ancient Sources on Limbo]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Research about Limbo and Cha'mutte|Research about Limbo and Cha'mutte]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Research about Limbo and the Plaguelands|Research about Limbo and the Plaguelands]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Research about Planar Connections|Research about Planar Connections]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Research from Kassi|Research from Kassi]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/Robin's Miracle|Robin's Miracle]] | Robin's Miracle of Smiting† | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/Second Dream of Rai|Second Dream of Rai]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/Stories of the Freed Prisoners of the Cleansed|Stories of the Freed Prisoners of the Cleansed]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Stories of Tyrwingha for Profit|Stories of Tyrwingha for Profit]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Primary Sources/Story about Hags|Story about Hags]] |  | source | canonical |  |  | unknown: No reliable language evidence found |
-| [[Primary Sources/Story of the Scepter of Command|Story of the Scepter of Command]] |  | source | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/Story of Xurkhaz|Story of Xurkhaz]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/Tale of the Cloak of Rainbows|Tale of the Cloak of Rainbows]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Mawar Adventures/Notes/The Ciphered Scroll|The Ciphered Scroll]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/The Destruction of Eftly|The Destruction of Eftly]] | In the destruction of Eftly† | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/The Dunmari Monsoon|The Dunmari Monsoon]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Primary Sources/Songs/The Heroes of Uzgukhar|The Heroes of Uzgukhar]] |  | source | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/The Last Jade Vision|The Last Jade Vision]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Primary Sources/The Miracle of Jeevali's Resurrection|The Miracle of Jeevali's Resurrection]] |  | source | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/The Shakun Mystai Initiation|The Shakun Mystai Initiation]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Primary Sources/The Travelogue of Etienne of Cassons|The Travelogue of Etienne of Cassons]] |  | source | canonical |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/The Werewolf Prisoner's Tale|The Werewolf Prisoner's Tale]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Tree’s story|Tree’s story]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Sendings/Viepuck - Feburary 9th, 1720|Viepuck - Feburary 9th, 1720]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/Vision of Rai and Apollyon|Vision of Rai and Apollyon]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Campaigns/Mawar Adventures/Notes/Wazir's Gloss on the Ciphered Scroll|Wazir's Gloss on the Ciphered Scroll]] |  | source | campaign canon |  |  | unknown: No reliable language evidence found |
-| [[Gods and Religions/Holidays and Festivals/Quintarum|Quintarum]] |  | unknown · holiday | canonical | ✓ |  | unknown: No reliable language evidence found |
-| [[Cosmology/Planar Concepts/Soulstuff|Soulstuff]] |  | unknown | canonical | ✓ |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Staging/Unnamed/~Mariners~|~Mariners~]] |  | unknown | staging |  |  | unknown: No reliable language evidence found |
-| [[Worldbuilding/Staging/Unnamed/~Tyrwinghan Hiills~|~Tyrwinghan Hiills~]] |  | unknown | staging |  |  | unknown: No reliable language evidence found |
+| Name | Aliases | Note type | Name review | Pronunciation | Basis |
+|---|---|---|:---:|---|---|
+| [[People/Other Humans/Airion\|Airion the Mistspeaker]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Akanen\|Akanen]] | Lord Akanen† | person |  | ak-AH-nen | unknown: No reliable language evidence found |
+| [[People/PCs/Dunmar Fellowship/Guests/Alimash\|Alimash]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Historical Figures/Amloch\|Amloch]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Historical Figures/Drankorian Emperors/Anates\|Anates]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Historical Figures/Drankorian Emperors/Apollyon\|Apollyon]] | Emperor Apollyon | person |  |  | unknown: No reliable language evidence found |
+| [[People/Historical Figures/Avatus\|Avatus]] | Emperor Avatus† | person |  |  | unknown: No reliable language evidence found |
+| [[People/Historical Figures/Azzan\|Azzan]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Dunmar Fellowship/Companions/Baxter\|Baxter]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Mawar/Blu\|Blu]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Buruli\|Buruli]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Caloria\|Caloria]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Canopy\|Canopy]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Cato Stormtouched\|Cato Stormtouched]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Clara\|Clara]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Other PCs/Labyrinth Prisoners/Dilion\|Dilon]] | Dilion | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Great War/Companions/Dimitaur\|Dimitaur]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Dinia\|Dinia]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Echo\|Echo]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Into the Chasm/Ekko\|Ekko]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Elian of Suwi\|Elian of Suwi]] | Elian; Priest Elian of Suwi† | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Into the Chasm/Eolo\|Eolo]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Cleenseau/Estiasilos\|Es\*tiasilos]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Historical Figures/Fides Lucaris spy\|Fides Lucaris spy]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Silver Tempests/Friend\|Friend]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Mawar/Geo\|Geo]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Geoffrey\|Geoffrey]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Ghesh\|Ghesh]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Historical Figures/Drankorian Emperors/Goristo\|Goristo]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Grash\|Grash]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Grimstone\|Grimstone]] | Lord Rockbinder | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Gyles\|Gyles]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Historical Figures/Drankorian Emperors/Helea\|Helea]] | Emperor Helea† | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Iagharaz\|Iagharaz]] |  | person |  | aya-gar-az | unknown: No reliable language evidence found |
+| [[People/Other Humans/Ilanar\|Ilanar]] |  | person |  | ee-lah-NAHR | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Inakara\|Inakara]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Fey/Istarias\|Istarias]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Ithu’rax\|Ithu'rax]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Jacopo Marcelli\|Jacopo Marcelli]] | J.M; ghost of J.M | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Into the Chasm/Jrain Fanlish\|Jrain Fanlish]] | Jrain | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Into the Chasm/Justas Rhostrin\|Justas Rhostrin]] | Justas | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Mawar/Kaleho\|Kaleho]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Khathayi\|Khathayi the Flametongue]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Historical Figures/Khemut of Targu\|Khemut of Targu]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Kurome\|Kurome]] |  | person |  | ku-ROW-may | unknown: No reliable language evidence found |
+| [[People/PCs/Dunmar Fellowship/Companions/Ladder\|Ladder]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Lengau\|Lengau]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Mashtu the Corruptor\|Mashtu the Corruptor]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Megren\|Megren]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Mehrangeesa\|Mehrangeesa]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Mikel\|Mikel]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Milo Kentbrush\|Milo Kentbrush]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Motua\|Motua]] |  | person |  | moh-TOO-ah | unknown: No reliable language evidence found |
+| [[People/PCs/Mawar/Nerissa\|Nerissa]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Nimessa\|Nimessa]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Nymthrax\|Nymthrax]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Oduk\|Oduk]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Petrona\|Petrona]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Other PCs/Labyrinth Prisoners/Pikeia\|Pikeia]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Pip\|Pip]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Ra'ghemdros\|Ra'ghemdros]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Rakshasa\|Rakshasa]] | Tiger Man | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Into the Chasm/Rala\|Rala]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Ralvaz\|Ralvaz]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Resenna\|Resenna]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Rhodar von Glauer\|Rhodar von Glauer]] | Lord Rhodar Von Glauer† | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Silver Tempests/Scordith\|Scordith]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Sh’shethis\|Sh’shethis]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Fey/Somi-nai\|Somi-nai]] | Ember (Lizardling); Sugarra (Lizardling) | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Other PCs/Labyrinth Prisoners/Steampup\|Steampup]] | Dilon's steel defender, Dilion's steel defender | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Other PCs/Oskar's Companions/Stoneclaw\|Stoneclaw]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Dunmar Fellowship/Companions/Taster\|Taster]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Torsten\|Torsten]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Mawar/Turk\|Turk]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Fey/Vaelithar\|Vaelithar]] |  | person |  | VAY-lih-thar | unknown: No reliable language evidence found |
+| [[People/Historical Figures/Drankorian Emperors/Vestian\|Vestian]] | Emperor Vestian† | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Vilaxes\|Vilaxes]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Historical Figures/Vimfrost\|Vimfrost]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Wakog\|Wakog]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Great War/Companions/Willow Wind\|Willow Wind]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Xameia\|Xameia the Forsworn]] | Xameia | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Xeron\|Xeron]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Yerkir-khor\|Yerkir-khor]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Zadkai\|Zadkai]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Zephyra\|Zephyra]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Nonhumans/Zibzig Sparkscale\|Zibzig Sparkscale]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[People/Other Humans/Zora\|Zora]] |  | person |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/A'gaza\|A'gaza]] |  | power |  | ah-GAH-zah | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Aagir\|Aagir]] |  | power |  | AA-gir | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Aasimti\|Aasimti]] |  | power |  | ah-SEEM-tee | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Adra\|Adra]] |  | power |  | AAD-rah | unknown: No reliable language evidence found |
+| [[People/Extraplanar Powers/Archfey/Archfey Ethlenn\|Archfey Ethlenn]] | Queen of the Evening Mist | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Bahrazel/Azar\|Azar]] | Warrior | power |  | AH-zahr | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Tharzen Anzinakoa/Bero\|Bero]] |  | power |  | BEH-roh | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Kestavo/Besla\|Besla]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma\|Bhishma]] |  | power |  | BHEESH-ma | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Bita\|Bita]] |  | power |  | BEE-tah | unknown: No reliable language evidence found |
+| [[People/Extraplanar Powers/Cha'mutte\|Cha'mutte]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Chidya\|Chidya]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[People/Extraplanar Powers/Archfey/Cloudspinner\|Cloudspinner]] | Queen of Sunset | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Deni\|Deni]] |  | power |  | DEH-nee | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/High Gods/Divine Presence\|Divine Presence]] | Arha; Arhat; Malik; Sampa (Dunmari); Shurat (Dunmari); Ako; Anida | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Endless Chaos\|Endless Chaos]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Entamba\|Entamba]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Bahrazel/Fanrukel\|Fanrukel]] | The Priest | power |  | FAN-roo-kel | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Fox and Hunter\|Fox and Hunter]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/High Gods/G'Zab\|G'Zab]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Ghesyn\|Ghesyn]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[People/Extraplanar Powers/Archfey/Harrow\|Harrow]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Tharzen Anzinakoa/Hazkunde\|Hazkunde]] |  | power |  | has-KOON-dee | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Inech\|Inech]] |  | power |  | ee-NEKH | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Istari\|Istari]] |  | power |  | ees-TAH-ree | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Jeevali\|Jeevali]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/First Ones/Jemghari\|Jemghari]] |  | power |  | gem-GHA-ree | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/High Gods/Jinnik\|Jinnik]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Meswati/K'onisati\|K'onisati]] |  | power |  | koh-nee-SAH-tee | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Kaikkea\|Kaikkea]] |  | power |  | KAI-key-ah | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Kestavo/Kamak\|Kamak]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Bahrazel/Karthel\|Karthel]] | Runecrafter | power |  | KAR-thel | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Laka\|Laka]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[People/Extraplanar Powers/Archfey/Lightdancer\|Lightdancer]] | Egon; Lord Egon | power |  |  | unknown: No reliable language evidence found |
+| [[People/Extraplanar Powers/Archfey/Lord Serenveil\|Lord Serenveil]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[People/Extraplanar Powers/Archfey/Lord Soven\|Lord Sorven]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[People/Extraplanar Powers/Archfey/Lord Umbraeth\|Lord Umbraeth]] | Gloomshaper | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Ma'ka'se\|Ma'ka'se]] |  | power |  | mah-KAH-seh | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Mad One\|Mad One]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Bahrazel/Maganna\|Maganna]] | Traveler | power |  | MAH-gahn-nah | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Mek'ire\|Mek'ire]] |  | power |  | mehk-EER-eh | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Meswati/Midri\|Midri]] |  | power |  | MID-ree | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Mo'kati\|Mo'kati]] |  | power |  | moh-KAH-tee | unknown: No reliable language evidence found |
+| [[People/Extraplanar Powers/Archfey/Morlaith\|Morlaith]] | Grymholt; Briarheart; Keeper of the Thornweald; Lord of the Hidden Hollows; Hidden Lord | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Tharzen Anzinakoa/Negu\|Negu]] |  | power |  | EH-goo | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Meswati/Nisir\|Nisir]] |  | power |  | nee-SEER | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/First Ones/Nwana\|Nwana]] |  | power |  | n-WAH-nah | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/First Ones/Obito\|Obito]] |  | power |  | oh-BEE-toh | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Bahrazel/Oshkir\|Oshkir]] | Farmer | power |  | OSH-keer | unknown: No reliable language evidence found |
+| [[People/Extraplanar Powers/Archfey/Prince Aurelian\|Prince Aurelian]] | Golden Prince | power |  |  | unknown: No reliable language evidence found |
+| [[People/Extraplanar Powers/Archfey/Prince of Luck\|Prince of Luck]] | Chanceweaver | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Kestavo/Romil\|Romil]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[People/Extraplanar Powers/Archfey/Rust Baron\|Rust Baron]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Sarqon\|Sarqon]] |  | power |  | Sahr-kon | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun\|Shakun]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Sonkar\|Sonkar]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Meswati/Taraka\|Taraka]] |  | power |  | TAH-rah-kah | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Bahrazel/Tarbaka\|Tarbaka]] | Stoneworker | power |  | tar-BAH-kah | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Tera\|Tera]] |  | power |  | TEH-rah | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Thark\|Thark]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Father\|The Father]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Mother\|The Mother]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Night Queen\|The Night Queen]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Sibyl\|The Sibyl]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Wanderer\|The Wanderer]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Warlord\|The Warlord]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Wildling\|The Wildling]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Wyrdling\|The Wyrdling]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Tharzen Anzinakoa/Udazkena\|Udazkena]] |  | power |  | oo-DAHS-keh-nah | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/High Gods/Umidzka\|Umidzka]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Bahrazel/Uzdan\|Uzdan]] | The Ruler | power |  | UZ-dahn | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Kestavo/Vaqar\|Vaqar]] |  | power |  | VAH-kar | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/High Gods/Void Mind\|Void Mind]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Washi\|Washi]] |  | power |  | WAH-shee | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Wenba\|Wenba]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[People/Extraplanar Powers/Archfey/Wend\|Wend]] |  | power |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Wenzi\|Wenzi]] |  | power |  | WEHN-zee | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Meswati/Yalik'i\|Yalik'i]] |  | power |  | yah-LEEK-ee | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Meswati/Yezali\|Yezali]] | Aaviskar | power |  | yeh-ZAH-lee | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Zafi\|Zafi]] |  | power |  | ZAH-fee | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Kestavo/Zeyfa\|Zeyfa]] |  | power |  | ZAY-fah | unknown: No reliable language evidence found |
+| [[Cosmology/Spiritual Realms/Abyss\|Abyss]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Extraplanar/Plane of Water/Abyssal Trench\|Abyssal Trench]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Central Highlands/Ainumarya\|Ainumarya]] |  | place |  | EYE-new-mar-ya | unknown: No reliable language evidence found |
+| [[History/Historical Realms/Amani\|Amani]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Spiritual Realms/Arborea\|Arborea]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Arqa\|Arqa]] |  | place |  | ar-KAH | unknown: No reliable language evidence found |
+| [[Cosmology/Energy Realms/Compound Realms/Ashspire\|Ashspire]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Astral Plane\|Astral Plane]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Major Rivers/Istaros Watershed/Aursen\|Aursen]] | Aursen River (Common); River Aursen (Common) | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Faraway Places/Azta Lekua\|Azta Lekua]] | Footprint of the Gods (Lizardling) | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Barzhen\|Barzhen]] |  | place |  | bar-SHEN | unknown: No reliable language evidence found |
+| [[Gazetteer/Extraplanar/Shadowfolds/Morkalan/Bleakhold\|Bleakhold]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Energy Realms/Compound Realms/Bloomswell\|Bloomswell]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Extraplanar/Plane of Air/Breath of Aerys\|Breath of Aerys]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Extraplanar/Plane of Fire/Bronzehall\|Bronzehall]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Nevos and Apporia/Burganos\|Burganos]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Extraplanar/Shadowfolds/Cairn Dor/Cairn Dor\|Cairn Dor]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Extraplanar/Plane of Fire/Cinder Wastes\|Cinder Wastes]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Energy Realms/Compound Realms/Cloudmere\|Cloudmere]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Western Green Sea/Realms/Cymea\|Cymea]] | Cymean | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Western Green Sea/Cymean Peninsula\|Cymean Peninsula]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Major Rivers/Istaros Watershed/Douren\|Douren]] | River Douren (Common); Douren River (Common) | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Dreamworld\|Dreamworld]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Central Highlands/Elderwood\|Elderwood]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Energy Realms/Elemental Plane of Air\|Elemental Plane of Air]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Energy Realms/Elemental Plane of Earth\|Elemental Plane of Earth]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Energy Realms/Elemental Plane of Fire\|Elemental Plane of Fire]] | Plane of Fire | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Energy Realms/Elemental Plane of Metal\|Elemental Plane of Metal]] | Plane of Metal | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Extraplanar/Plane of Earth/Emerald Chasm\|Emerald Chasm]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Extraplanar/Shadowfolds/Cairn Dor/Eshlem\|Eshlem]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Ethereal Plane\|Ethereal Plane]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Faraway Places/Far North\|Far North]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Faraway Places/Far South\|Far South]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Feywild\|Feywild]] | fey† | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Energy Realms/Compound Realms/Frostfell\|Frostfell]] | Elemental Plane of Ice; Plane of Ice; Compound Plane of Cold | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Northwest Coast/Fiamatara Mountains/Goldpeak Mines\|Goldpeak Mines]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Northwest Coast/Guluppa-Sog\|Guluppa-Sog]] |  | place |  | goo-LUP-pa sog | unknown: No reliable language evidence found |
+| [[History/Historical Realms/Hkar\|Hkar]] | Hkaran | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Nevos and Apporia/Illoria\|Illoria]] | Illorian | place |  | ih-LOHR-ee-ah | unknown: No reliable language evidence found |
+| [[Cosmology/Energy Realms/Compound Realms/Ironroot\|Ironroot]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Eastern Green Sea/Irrla\|Irrla]] |  | place |  | EAR-la | unknown: No reliable language evidence found |
+| [[Gazetteer/Northern Sentinels/K'eye\|K'eye]] | Red River (Common) | place |  | keh-EYE | unknown: No reliable language evidence found |
+| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Kelvaros\|Kelvaros]] |  | place |  | KEHL-va-ross | unknown: No reliable language evidence found |
+| [[Gazetteer/Northern Green Sea/Rivers/Ket\|Ket]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Land of the Dead\|Land of the Dead]] | River of Souls (Common); Divine Veil | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Spiritual Realms/Limbo\|Limbo]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Major Rivers/Istaros Watershed/Masance\|Masance]] | River Masance (Common); Masance River (Common) | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Material Plane\|Material Plane]] | Prime Material Plane; Prime Realm (Common); Mundane Realm (Common); Mundane World | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Eastern Green Sea/Medju\|Medju]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Energy Realms/Compound Realms/Miredepths\|Miredepths]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan\|Morkalan]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Extraplanar/Plane of Water/Murky Wastes\|Murky Wastes]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Major Rivers/Istaros Watershed/Naithale\|Naithalë]] | Nimrata (Tyrwinghan); Arianrith (Tyrwinghan) | place |  | NY-thah-lay | unknown: No reliable language evidence found |
+| [[Gazetteer/Extraplanar/Plane of Fire/Nalzuris\|Nalzuris]] | Golden City (Common) | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Energy Realms/Negative Energy Plane\|Negative Energy Plane]] | Plane of Still Waters (Common) | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Nevos and Apporia/Nevos and Apporia\|Nevos and Apporia]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Spiritual Realms/Nine Hells\|Nine Hells]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Northern Sentinels/Northern Sentinels\|Northern Sentinels]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Extraplanar/Plane of Fire/Oracle's Pyre\|Oracle's Pyre]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[History/Historical Realms/Pandar\|Pandar]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Spiritual Realms/Pandemonium\|Pandemonium]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Extraplanar/Plane of Earth/Pillar of Karth\|Pillar of Karth]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Plane of Creation\|Plane of Creation]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Plane of Magic\|Plane of Magic]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Plane of Souls\|Plane of Souls]] | Plane of Consciousness | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Energy Realms/Positive Energy Plane\|Positive Energy Plane]] | Plane of Blossoming Currents | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Faraway Places/Pu'aatar\|Pu'aatar]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Energy Realms/Compound Realms/Pyreforge\|Pyreforge]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Eastern Green Sea/Quanyi\|Quanyi]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Extraplanar/Shadowfolds/Cairn Dor/Sarren Kir\|Sarren Kir]] | Fort of the Sleepless (Common) | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Northern Green Sea/Shadowkeep\|Shadowkeep]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Nevos and Apporia/Silanus\|Silanus]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Major Rivers/Istaros Watershed/Silire\|Silírë]] |  | place |  | see-LEER-eh | unknown: No reliable language evidence found |
+| [[Gazetteer/Western Green Sea/Skaerhem/Skaerhem\|Skaerhem]] | Skaer Islands (Common); Skaegenland | place |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Energy Realms/Compound Realms/Smokeshroud\|Smokeshroud]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Western Green Sea/Straits of Cymea\|Straits of Cymea]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Extraplanar/Plane of Air/Sulmana\|Sulmana]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Northwest Coast/Suwi\|Suwi]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Great Library Campaign/Tempest Towers\|Tempest Towers]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Major Rivers/Istaros Watershed/Thalurien\|Thalúrien]] | Taloraine | place |  | THAH-loo-ree-en | unknown: No reliable language evidence found |
+| [[Gazetteer/Major Rivers/Istaros Watershed/Valmont\|Valmont]] | River Valmont (Common) | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Major Rivers/Istaros Watershed/Velasse\|Velassë]] | Velonere (Elvish) | place |  | veh-LAH-sseh | unknown: No reliable language evidence found |
+| [[History/Historical Realms/Volganis\|Volganis]] |  | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Extraplanar/Shadowfolds/Cairn Dor/Wolf Queen's Stillings\|Wolf Queen's Stillings]] | Queen's Stillings | place |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Major Rivers/Istaros Watershed/Yandare\|Yandarë]] | Vistala | place |  | yahn-DAH-reh | unknown: No reliable language evidence found |
+| [[Gazetteer/Northern Sentinels/Yemo'te\|Yemo'te]] |  | place |  | yeh-moh-TEH | unknown: No reliable language evidence found |
+| [[Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Zarnato\|Zarnato]] |  | place |  | zahr-NAH-toh | unknown: No reliable language evidence found |
+| [[Gazetteer/Major Rivers/Istaros Watershed/~Southern Plaguelands Tributary~\|~Southern Plaguelands Tributary~]] |  | place | ✓ |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Major Rivers/Istaros Watershed/~Valmont Tributary~\|~Valmont Tributary~]] |  | place | ✓ |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Apollyon's Crystal Ball Vision\|Apollyon's Crystal Ball Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Apollyon's Soulbinding Manacles Vision\|Apollyon's Soulbinding Manacles Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1500s/1582/Attempted Geas of Elaine I\|Attempted Geas of Elaine I]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1700s/1719/11/Attempted Poisoning of Cleenseau\|Attempted Poisoning of Cleenseau]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1700s/1718/Awakened Soul Disaster\|Awakened Soul Disaster]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1700s/Betrayer Moon Plot\|Betrayer Moon Plot]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1500s/Blood Plague\|Blood Plague]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1500s/Blood Years\|Blood Years]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1500s/Bloodlust Wars\|Bloodlust Wars]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Broken Dunmari Sword Vision\|Broken Dunmari Sword Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Cecilia's White Dragon Tooth Vision\|Cecilia's White Dragon Tooth Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/with Mahaut's Miracle Players/Celyn Leaves Mahaut's\|Celyn Leaves Mahaunt's Miracle Players]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Cha'mutte Armband Vision\|Cha'mutte's Armband Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Chardon Fan Vision\|Chardon Fan Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1700s/1719/10/Cleenseau Spider Attacks\|Cleenseau Spider Attacks]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Crown of Purity Vision\|Crown of Purity Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1500s/Cursed Cold\|Cursed Cold]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1600s/Defeat of the Plague Trees\|Defeat of the Plague Trees]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1400s/1425/Derik I's Arrival in Tyrwingha\|Derik I's Arrival in Tyrwingha]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1700s/1748/07/Destruction of the Werewolf Cult\|Destruction of the Werewolf Cult]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/Ancient/Downfall Wars\|Downfall Wars]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Dried Scorpion Vision\|Dried Scorpion Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Dust from Seeker's Doppleganger Vision\|Dust from Seeker's Doppelgänger Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Elemental Forge Spellbook Vision\|Elemental Forge Spellbook Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Elemental Forge Vision\|Elemental Forge Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Enchiridion of the Occulta Ludum Viision\|Enchiridion of the Occulta Ludum Viision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1600s/Exile of Fraternity of the Empty Moon\|Exile of Fraternity of the Empty Moon]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Extravagant Diamond Vision\|Extravagant Diamond Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Fides Lucaris Sending Stone Vision\|Fides Lucaris Sending Stone Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1000s/1059/First Plague\|First Plague]] |  | event | ✓ |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Floating Disc Coin Vision\|Floating Disc Coin Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1500s/Fog of Mawar\|Fog of Mawar]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/God Tree Vision\|God Tree Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1500s/1545/Grand Conclave of Mawakel\|Grand Conclave of Mawakel]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Heartroot Vision\|Heartroot Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Hralgar's Eyes Vision\|Hralgar's Eyes Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1500s/1568/Interregnum of 1568\|Interregnum of 1568]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Ivory Scroll Cap Vision\|Ivory Scroll Cap Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Kenzo's Jade Vision\|Kenzo's Jade Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Kharsan Broken Glassware Vision\|Kharsan Broken Glassware Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Mace of Terror Vision\|Mace of Terror Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Magical Pale Blue Dye Vision\|Magical Pale Blue Dye Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Mantle of Protection Vision\|Mantle of Protection Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Mirror of Soul Trapping Vision\|Mirror of Soul Trapping Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Nayan Marathu's Letter Vision\|Nayan Marathu's Letter Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Pandemonium Scroll Vision\|Pandemonium Scroll Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Phasing Stone Vision\|Phasing Stone Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Raven Whistle Vision\|Raven Whistle Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Ring of Displacement Vision\|Ring of Displacement Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/Ancient/Riving\|Riving]] | Long Pause | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Scepter of Command Vision\|Scepter of Command Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1300s/Serpentine Wars\|Serpentine Wars]] |  | event | ✓ |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Shadow Hunter's Mask Vision\|Shadow Hunter's Mask Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Soul Lantern Vision\|Soul Lantern Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/Ancient/The Downfall\|The Downfall]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1700s/1713/The Election of Elaine II\|The Election of Elaine II]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1600s/1648/The Enst Campaign\|The Enst Campaign]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/400s/402/Treaty of Marhavn\|Treaty of Marhavn]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/400s/423/Treaty of Tyrwingha\|Treaty of Tyrwingha]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1400s/Treaty of Wisford\|Treaty of Wisford]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Urgall's Helm Vision\|Urgall's Helm Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions/Urgall's Note Vision\|Urgall's Note Vision]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1700s/1718/01/Viepuck's Ritual Experience\|Viepuck's Ritual Experience]] |  | event |  |  | unknown: No reliable language evidence found |
+| [[Events/1700s/1720/01/Undead Attacks in Sembara\|Zombie Plague in Cleenseau]] | The Undead Attacks in Sembara† | event |  |  | unknown: No reliable language evidence found |
+| [[Things/Materials/Adamantine\|Adamantine]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Mawar Adventures/Items and Treasure/Airion's Bowl of Commanding Water Elementals\|Airion's Bowl of Commanding Water Elementals]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Mawar Adventures/Items and Treasure/Airion's Elemental Research\|Airion's Research on the Elemental Plane of Water]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Mawar Adventures/Items and Treasure/Amulet of Khathayi\|Amulet of Khathayi]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Artifacts of Power/Analadin\|Analadin]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Mawar Adventures/Items and Treasure/Ancient Texts of Yerkir-Khor\|Ancient Texts of Yerkir-Khor]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Apollyon's Crystal Ball\|Apollyon's Crystal Ball]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Artifacts of Power/Apollyon's Phylactery\|Apollyon's Phylactery]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Magic Items/Blood Knife\|Blood Knife]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/Blossom of the Eightfold Light\|Blossom of the Eightfold Light]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Treasure/Boots of False Tracks (Viepuck)\|Boots of False Tracks]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Treasure/Brot's Telescope (small)\|Brot's Spyglass]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Magic Items/Cairn Dor Sigil\|Cairn Dor Sigil]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Cha'mutte’s Shadow Armband\|Cha'mutte's Shadow Armband]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Materials/Chalyte\|Chalyte]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Materials/Chaos Metal\|Chaos Metal]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Chardon Fan\|Chardon Fan]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Treasure/Circlet of Telepathy\|Circlet of Telepathy]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Treasure/Cloak of Concealment\|Cloak of Concealment]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Artifacts of Power/Cloak of Rainbows\|Cloak of Rainbows]] | Mantle of Protection | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/Codex Maledictum\|Codex Maledictum]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Artifacts of Power/Crown of Purity\|Crown of Purity]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Artifacts of Power/Dauthleiptr\|Dauðleiptr]] |  | object |  | DOWTH-lape-ter | unknown: No reliable language evidence found |
+| [[Things/Magic Items/Deepwater Scroll\|Deepwater Scroll]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Artifacts of Power/Elemental Scrolls of Airion\|Elemental Scrolls of Airion]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Magic Items/Flamekeeper Scroll\|Flamekeeper Scroll]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Floating Disc Coin\|Floating Disc Coin]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Materials/Gatza\|Gatza]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Treasure/Greymalkin's Armor\|Greymalkin's Armor]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Artifacts of Power/Heart of Shakun\|Heart of Shakun]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Hralgar's Eyes\|Hralgar's Eyes]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Materials/Inkaye\|Inkaye]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Ivory Scroll Case\|Ivory Scroll Case]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Jade Piece of Rai's Hand\|Jade Piece of Rai's Hand]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/Light of the Everglade\|Light of the Everglade]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Treasure/Locket of Sending\|Locket of Sending]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/Lyrics of a New Age\|Lyrics of a New Age]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Mace of Terror\|Mace of Terror]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Medusa Blade\|Medusa Blade]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping\|Mirror of Soul Trapping]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of the Past\|Mirror of the Past]] | Eudomes' Mirror; Eudomes' Mirror of the Past† | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Materials/Mithril\|Mithril]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Great Library Campaign/Treasure/Nymthrax's Hoard\|Nymthrax's Hoard]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/On Elemental Forms\|On Elemental Forms]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/On the Nature of Extraplanar Travel\|On the Nature of Extraplanar Travel]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/On the Nature of Reflections and Transitive Magic\|On the Nature of Reflections and Transitive Magic]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Pandemonium Scroll\|Pandemonium Scroll]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Pearls of Far Sight\|Pearls of Far Sight]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Materials/Prime Arcana\|Prime Arcana]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Mawar Adventures/Items and Treasure/Airion's Ring of Elemental Binding\|Ring of Elemental Binding]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Treasure/Ring of Escape\|Ring of Escape]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Treasure/Ring of Jumping (Robin)\|Ring of Jumping]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Artifacts of Power/Ring of Undying\|Ring of Undying]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Treasure/Ring of Waterwalking (Cleenseau)\|Ring of Water Walking]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Treasure/Ring of Wounding\|Ring of Wounding]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Rings of Elemental Protection\|Rings of Elemental Protection]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Rod of Elmerca's Bond\|Rod of Elmerca's Bond]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Materials/Serpentine\|Serpentine]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Magic Items/Serpentine Battleaxe\|Serpentine Battleaxe]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Magic Items/Serpentine Dagger\|Serpentine Dagger]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Magic Items/Skyborn Scroll\|Skyborn Scroll]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Soul Lantern\|Soul Lantern]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Magic Items/Stonemaster Scroll\|Stonemaster Scroll]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/Studies of the Westward Deeps\|Studies of the Westward Deeps]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/Terrageum Virion\|Terrageum Virion]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/The Chronicle of Ruin\|The Chronicle of Ruin]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/The Codex of Compound Planes\|The Codex of Compound Planes]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/The Runes of Creation\|The Runes of Creation]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/The Siren's Embrace\|The Siren's Embrace]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/The Song of the Shattered, Reborn\|The Song of the Shattered, Reborn]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/The Way of the Stone\|The Way of the Stone]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Materials/Tollen Dyes\|Tollen Dyes]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Materials/Trueflame\|Trueflame]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Materials/Uligium\|Uligium]] |  | object |  | oo-lee-ghee-um | unknown: No reliable language evidence found |
+| [[Things/Magic Items/Universal Solvent\|Universal Solvent]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/Upon the Fractured Earth\|Upon the Fractured Earth]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Things/Books/Verdant Canticles\|Verdant Canticles]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Wand of the Planes\|Wand of the Planes]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Wayfarer's Bow\|Wayfarer's Bow]] |  | object |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Addermarch/Addermarch Mercenaries\|Addermarch Mercenaries]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Mawar/Adventurers of Mawar\|Adventurers of Mawar]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Into the Chasm/Chasm Explorers\|Chasm Explorers]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[Groups/Drankorian Societies/Concordia Pyrae\|Concordia Pyrae]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[Groups/Chardonian Organizations/Eightfold Flame\|Eightfold Flame]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[Groups/Drankorian Societies/Fides Lucaris\|Fides Lucaris]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[Groups/Fraternity of the Empty Moon\|Fraternity of the Empty Moon]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[Groups/Havoc Host\|Havoc Host]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Cleenseau/Heroes of Cleenseau\|Heroes of Cleenseau]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Other PCs/Labyrinth Prisoners/Labyrinth Prisoners\|Labyrinth Prisoners]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[Groups/Mahaut's Miracle Players\|Mahaut's Miracle Players]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[Groups/Dunmari Dynasties/Nayan Dynasty\|Nayan dynasty]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Other PCs/Oskar's Companions/Oskar's Companions\|Oskar's Companions]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[Groups/Halfling Families/Quicksteps\|Quicksteps]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[Groups/Drankorian Societies/Radiant Path\|Radiant Path]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[Groups/Shemra Azem\|Shemra Azem]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Silver Tempests/Silver Tempests\|Silver Tempests]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[Groups/The Cleansed\|The Cleansed]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/Other PCs/Tollen Misfits/Tollen Misfits\|Tollen Misfits]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[Groups/Vejo Vaikai\|Vejo Vaikai]] |  | group |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Bestiary/Aboleths\|Aboleths]] | aboleth | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Extraplanar/Azer\|Azer]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Fey/Beastfolk\|Beastfolk]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Bestiary/Bugbears\|Bugbears]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Bestiary/Bullywugs\|Bullywugs]] | bullywug | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Extraplanar/Celestials\|Celestials]] | celestial | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Species/Centaurs\|Centaurs]] | centaur | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Fey/Changelings\|Changelings]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Extraplanar/Dao\|Dao]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Extraplanar/Demons\|Demons]] | demon | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Bestiary/Derro\|Derro]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Extraplanar/Deva\|Deva]] | devas | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Extraplanar/Devils\|Devils]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Extraplanar/Djinn\|Djinn]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Bestiary/Dragonets\|Dragonets]] | Dragonet | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Species/Dragons\|Dragons]] | dragon; draconic | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Fey/Duskhounds\|Duskhounds]] | duskhound | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Extraplanar/Efreeti\|Efreeti]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Extraplanar/Elementals\|Elementals]] | elemental | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Species/Elves\|Elves]] | elf; elven; elvish | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Fey/Fairies\|Fairies]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Fey/Fey\|Fey]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Species/Giants\|Giants]] | giant | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Extraplanar/Gidari\|Gidari]] |  | creature |  | gih-DAR-ee | unknown: No reliable language evidence found |
+| [[Creatures/Bestiary/Gnomes\|Gnomes]] | Gnome† | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Species/Goblins\|Goblins]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Bestiary/Grimlocks\|Grimlocks]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Fey/Hags\|Hags]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Species/Hobgoblins\|Hobgoblins]] | hobgoblin | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Fey/Hollow Men\|Hollow Men]] | Hollow Man | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Species/Humans\|Humans]] | human | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Bestiary/Ithilids\|Ithilids]] | Mindflayer; Mind Flayer; Illithid | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Species/Kobolds\|Kobolds]] | kobold | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Species/Lizardfolk\|Lizardfolk]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Bestiary/Lycanthropes\|Lycanthropes]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Extraplanar/Marid\|Marid]] | marids (Mawaran) | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Species/Merfolk\|Merfolk]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Fey/Nymphs\|Nymphs]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Species/Orcs\|Orcs]] | orc | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Fey/Satyrs\|Satyrs]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Bestiary/Undead\|Undead]] |  | creature |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 01\|Addermarch Campaign - Session 1]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 10\|Addermarch Campaign - Session 10]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 11\|Addermarch Campaign - Session 11]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 12\|Addermarch Campaign - Session 12]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 13\|Addermarch Campaign - Session 13]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 14\|Addermarch Campaign - Session 14]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 15\|Addermarch Campaign - Session 15]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 16\|Addermarch Campaign - Session 16]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 17\|Addermarch Campaign - Session 17]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 18\|Addermarch Campaign - Session 18]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 19\|Addermarch Campaign - Session 19]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 02\|Addermarch Campaign - Session 2]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 20\|Addermarch Campaign - Session 20]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 03\|Addermarch Campaign - Session 3]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 04\|Addermarch Campaign - Session 4]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 05\|Addermarch Campaign - Session 5]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 06\|Addermarch Campaign - Session 6]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 07\|Addermarch Campaign - Session 7]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 08\|Addermarch Campaign - Session 8]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch - Session 09\|Addermarch Campaign - Session 9]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 5\|Chronicles of the Quest for Answers to Extraplanar Mysteries]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 1\|Chronicles of the Quest for the Elemental Scrolls]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 3\|Chronicles of the Quest to Defeat the Cursed Cold]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 4\|Chronicles of the Silver Tempests Ascendant]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 01\|Cleenseau - Session 01]] | Cleenseau - Session 1† | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 02\|Cleenseau - Session 02]] | Cleenseau - Session 2† | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 03\|Cleenseau - Session 03]] | Cleenseau - Session 3† | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 04\|Cleenseau - Session 04]] | Cleenseau - Session 4† | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 05\|Cleenseau - Session 05]] | Cleenseau - Session 5† | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 06\|Cleenseau - Session 06]] | Cleenseau - Session 6† | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 07\|Cleenseau - Session 07]] | Cleenseau - Session 7† | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 08\|Cleenseau - Session 08]] | Cleenseau - Session 8† | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 09\|Cleenseau - Session 09]] | Cleenseau - Session 9† | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 10\|Cleenseau - Session 10]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 11\|Cleenseau - Session 11]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 12\|Cleenseau - Session 12]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 13\|Cleenseau - Session 13]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 14\|Cleenseau - Session 14]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 15\|Cleenseau - Session 15]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 16\|Cleenseau - Session 16]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 17\|Cleenseau - Session 17]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 18\|Cleenseau - Session 18]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 19\|Cleenseau - Session 19]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 20\|Cleenseau - Session 20]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 21\|Cleenseau - Session 21]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 22\|Cleenseau - Session 22]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 23\|Cleenseau - Session 23]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 24\|Cleenseau - Session 24]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 25\|Cleenseau - Session 25]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 26\|Cleenseau - Session 26]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 27\|Cleenseau - Session 27]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 28\|Cleenseau - Session 28]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 53 (DuFr)\|Dunmari Frontier - Delwath Solo Session 1 (Prequel)]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 54 (DuFr)\|Dunmari Frontier - Delwath Solo Session 2]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 55 (DuFr)\|Dunmari Frontier - Delwath Solo Session 3]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 57 (DuFr)\|Dunmari Frontier - Kenzo Solo Session 1 (Prequel)]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 59 (DuFr)\|Dunmari Frontier - Kenzo Solo Session 2]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 64 (DuFr)\|Dunmari Frontier - Kenzo Solo Session 3]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 56 (DuFr)\|Dunmari Frontier - Riswynn Solo Session 1]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 58 (DuFr)\|Dunmari Frontier - Riswynn Solo Session 2]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 61 (DuFr)\|Dunmari Frontier - Seeker Solo Session 1 (Prequel)]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 63 (DuFr)\|Dunmari Frontier - Seeker Solo Session 2]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 65 (DuFr)\|Dunmari Frontier - Seeker Solo Session 3]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 1 (DuFr)\|Dunmari Frontier - Session 1]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 10 (DuFr)\|Dunmari Frontier - Session 10]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 100 (DuFr)\|Dunmari Frontier - Session 100]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 101 (DuFr)\|Dunmari Frontier - Session 101]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 102 (DuFr)\|Dunmari Frontier - Session 102]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 103 (DuFr)\|Dunmari Frontier - Session 103]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 104 (DuFr)\|Dunmari Frontier - Session 104]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 105 (DuFr)\|Dunmari Frontier - Session 105]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 106 (DuFr)\|Dunmari Frontier - Session 106]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 107 (DuFr)\|Dunmari Frontier - Session 107]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr)\|Dunmari Frontier - Session 108]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 109 (DuFr)\|Dunmari Frontier - Session 109]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 11 (DuFr)\|Dunmari Frontier - Session 11]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 110 (DuFr)\|Dunmari Frontier - Session 110]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 111 (DuFr)\|Dunmari Frontier - Session 111]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 112 (DuFr)\|Dunmari Frontier - Session 112]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 113 (DuFr)\|Dunmari Frontier - Session 113]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 114 (DuFr)\|Dunmari Frontier - Session 114]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 115 (DuFr)\|Dunmari Frontier - Session 115]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 116 (DuFr)\|Dunmari Frontier - Session 116]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 117 (DuFr)\|Dunmari Frontier - Session 117]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 118 (DuFr)\|Dunmari Frontier - Session 118]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 119 (DuFr)\|Dunmari Frontier - Session 119]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 12 (DuFr)\|Dunmari Frontier - Session 12]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 120 (DuFr)\|Dunmari Frontier - Session 120]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 121 (DuFr)\|Dunmari Frontier - Session 121]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 122 (DuFr)\|Dunmari Frontier - Session 122]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 123 (DuFr)\|Dunmari Frontier - Session 123]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 124 (DuFr)\|Dunmari Frontier - Session 124]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 125 (DuFr)\|Dunmari Frontier - Session 125]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 126 (DuFr)\|Dunmari Frontier - Session 126]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 127 (DuFr)\|Dunmari Frontier - Session 127]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 128 (DuFr)\|Dunmari Frontier - Session 128]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 129 (DuFr)\|Dunmari Frontier - Session 129]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 13 (DuFr)\|Dunmari Frontier - Session 13]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 130 (DuFr)\|Dunmari Frontier - Session 130]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 131 (DuFr)\|Dunmari Frontier - Session 131]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 132 (DuFr)\|Dunmari Frontier - Session 132]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 133 (DuFr)\|Dunmari Frontier - Session 133]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 134 (DuFr)\|Dunmari Frontier - Session 134]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 14 (DuFr)\|Dunmari Frontier - Session 14]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 15 (DuFr)\|Dunmari Frontier - Session 15]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 16 (DuFr)\|Dunmari Frontier - Session 16]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 17 (DuFr)\|Dunmari Frontier - Session 17]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 18 (DuFr)\|Dunmari Frontier - Session 18]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 19 (DuFr)\|Dunmari Frontier - Session 19]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 2 (DuFr)\|Dunmari Frontier - Session 2]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 20 (DuFr)\|Dunmari Frontier - Session 20]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 21 (DuFr)\|Dunmari Frontier - Session 21]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 22 (DuFr)\|Dunmari Frontier - Session 22]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 23 (DuFr)\|Dunmari Frontier - Session 23]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 24 (DuFr)\|Dunmari Frontier - Session 24]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 25 (DuFr)\|Dunmari Frontier - Session 25]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 26 (DuFr)\|Dunmari Frontier - Session 26]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 27 (DuFr)\|Dunmari Frontier - Session 27]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 28 (DuFr)\|Dunmari Frontier - Session 28]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 29 (DuFr)\|Dunmari Frontier - Session 29]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 3 (DuFr)\|Dunmari Frontier - Session 3]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 30 (DuFr)\|Dunmari Frontier - Session 30]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 31 (DuFr)\|Dunmari Frontier - Session 31]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 32 (DuFr)\|Dunmari Frontier - Session 32]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 33 (DuFr)\|Dunmari Frontier - Session 33]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 34 (DuFr)\|Dunmari Frontier - Session 34]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 35 (DuFr)\|Dunmari Frontier - Session 35]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 36 (DuFr)\|Dunmari Frontier - Session 36]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 37 (DuFr)\|Dunmari Frontier - Session 37]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 38 (DuFr)\|Dunmari Frontier - Session 38]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 39 (DuFr)\|Dunmari Frontier - Session 39]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 4 (DuFr)\|Dunmari Frontier - Session 4]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 40 (DuFr)\|Dunmari Frontier - Session 40]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 41 (DuFr)\|Dunmari Frontier - Session 41]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 42 (DuFr)\|Dunmari Frontier - Session 42]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 43 (DuFr)\|Dunmari Frontier - Session 43]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 44 (DuFr)\|Dunmari Frontier - Session 44]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 45 (DuFr)\|Dunmari Frontier - Session 45]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 46 (DuFr)\|Dunmari Frontier - Session 46]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 47 (DuFr)\|Dunmari Frontier - Session 47]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 48 (DuFr)\|Dunmari Frontier - Session 48]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 49 (DuFr)\|Dunmari Frontier - Session 49]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 5 (DuFr)\|Dunmari Frontier - Session 5]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 50 (DuFr)\|Dunmari Frontier - Session 50]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 51 (DuFr)\|Dunmari Frontier - Session 51]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 52 (DuFr)\|Dunmari Frontier - Session 52]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 6 (DuFr)\|Dunmari Frontier - Session 6]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 67 (DuFr)\|Dunmari Frontier - Session 67]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 68 (DuFr)\|Dunmari Frontier - Session 68]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 69 (DuFr)\|Dunmari Frontier - Session 69]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 7 (DuFr)\|Dunmari Frontier - Session 7]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 70 (DuFr)\|Dunmari Frontier - Session 70]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 71 (DuFr)\|Dunmari Frontier - Session 71]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 72 (DuFr)\|Dunmari Frontier - Session 72]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 73 (DuFr)\|Dunmari Frontier - Session 73]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 74 (DuFr)\|Dunmari Frontier - Session 74]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 75 (DuFr)\|Dunmari Frontier - Session 75]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 76 (DuFr)\|Dunmari Frontier - Session 76]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 77 (DuFr)\|Dunmari Frontier - Session 77]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 78 (DuFr)\|Dunmari Frontier - Session 78]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 79 (DuFr)\|Dunmari Frontier - Session 79]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr)\|Dunmari Frontier - Session 8]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 80 (DuFr)\|Dunmari Frontier - Session 80]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 81 (DuFr)\|Dunmari Frontier - Session 81]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 82 (DuFr)\|Dunmari Frontier - Session 82]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 83 (DuFr)\|Dunmari Frontier - Session 83]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 84 (DuFr)\|Dunmari Frontier - Session 84]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 85 (DuFr)\|Dunmari Frontier - Session 85]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 86 (DuFr)\|Dunmari Frontier - Session 86]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 87 (DuFr)\|Dunmari Frontier - Session 87]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 88 (DuFr)\|Dunmari Frontier - Session 88]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 89 (DuFr)\|Dunmari Frontier - Session 89]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 9 (DuFr)\|Dunmari Frontier - Session 9]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 90 (DuFr)\|Dunmari Frontier - Session 90]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 91 (DuFr)\|Dunmari Frontier - Session 91]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 92 (DuFr)\|Dunmari Frontier - Session 92]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 93 (DuFr)\|Dunmari Frontier - Session 93]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 94 (DuFr)\|Dunmari Frontier - Session 94]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 95 (DuFr)\|Dunmari Frontier - Session 95]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 96 (DuFr)\|Dunmari Frontier - Session 96]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 97 (DuFr)\|Dunmari Frontier - Session 97]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 98 (DuFr)\|Dunmari Frontier - Session 98]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 99 (DuFr)\|Dunmari Frontier - Session 99]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr)\|Dunmari Frontier - Wellby Solo Session 1 (Prequel)]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 62 (DuFr)\|Dunmari Frontier - Wellby Solo Session 2]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 66 (DuFr)\|Dunmari Frontier - Wellby Solo Session 3]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Interlude (Delwath Postscript)\|Interlude: Delwath's Journey South]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Interlude (Tollen Downtime)\|Interlude: Downtime in Tollen]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Session Notes/Interlude (Preparations for Limbo)\|Interlude: Preparations for Limbo]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 01\|Into the Chasm - Episode 01]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 02\|Into the Chasm - Episode 02]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 03\|Into the Chasm - Episode 03]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 04\|Into the Chasm - Episode 04]] | Into the Chasm - Episode 06† | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 05\|Into the Chasm - Episode 05]] | Into the Chasm - Episode 06† | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 06\|Into the Chasm - Episode 06]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Labyrinths of the Lost/Labyrinths of the Lost - Session 1\|Labyrinths of the Lost - Session 1]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Labyrinths of the Lost/Labyrinths of the Lost - Session 2\|Labyrinths of the Lost - Session 2]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Labyrinths of the Lost/Labyrinths of the Lost - Session 3\|Labyrinths of the Lost - Session 3]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 01\|Lost in the Feywild: Episode 01]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 02\|Lost in the Feywild: Episode 02]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 03\|Lost in the Feywild: Episode 03]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 04\|Lost in the Feywild: Episode 04]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 01\|Mawar Adventures Episode 01]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02\|Mawar Adventures Episode 02]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 03\|Mawar Adventures Episode 03]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 04\|Mawar Adventures Episode 04]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 05\|Mawar Adventures Episode 05]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Oskar's Adventures/Oskar in Tharn Todor\|Oskar in Tharn Todor]] |  | session-note |  |  | unknown: No reliable language evidence found |
+| [[Primary Sources/Story About Halfling Merchants\|A Story about Halfling Merchants]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Amar's Story\|Amar's Story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/An Annotated (Partial) Map of Drankor\|An Annotated (Partial) Map of Drankor]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/An Excerpt from On Creation and Destruction of Extra-Material Realms\|An Excerpt from On Creation and Destruction of Extra-Material Realms]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Archives Letter\|Archives Letter]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Mawar Adventures/Notes/Azar's Tale\|Azar's Tale]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Caulaus' Story\|Caulaus' Story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Cecilia Lister's Story\|Cecilia Lister's Story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/with Mahaut's Miracle Players/Celyn and Alys I\|Celyn and Alys I]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/with Mahaut's Miracle Players/Celyn and Alys II\|Celyn and Alys II]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/in Clawyn/Celyn and his Mama Discuss Children\|Celyn and his Mama Discuss Children]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/Celyn and Izgil Discuss the Moon\|Celyn and Izgil Discuss the Moon]] | A Conversation about the Moon† | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn and Mahaut’s Miracle Players\|Celyn and Mahaut’s Miracle Players]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/Celyn and Perception\|Celyn and Perception]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/Celyn and Robin I\|Celyn and Robin I]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/in Clawyn/Celyn and the Crowther Boys\|Celyn and the Crowther Boys]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/Celyn and the Horses\|Celyn and the Horses]] | Celyn Talks to Horses† | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/with Mahaut's Miracle Players/Celyn and the Players I\|Celyn and the Players I]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/with Mahaut's Miracle Players/Celyn and the Players II\|Celyn and the Players II]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn As A Teenager\|Celyn As A Teenager]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn Learning Languages\|Celyn Learning Languages]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/Celyn Teaches Izgil Sylvan\|Celyn Teaches Izgil Sylvan]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn's Adolescene II\|Celyn's Adolescene II]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn's Childhood\|Celyn's Childhood]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn's Childhood II\|Celyn's Childhood II]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Celyn's Letter to His Brother Pryce\|Celyn's Letter to His Brother Pryce]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/Celyn's Miracle Story\|Celyn's Miracle Story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/Celyn's Musings on Magic\|Celyn's Musings on Magic]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/Celyn's Perceptions of Veltor\|Celyn's Perceptions of Veltor]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn's Story of Getting His Name\|Celyn's Story of Getting His Name]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn's Story of His Adolescence\|Celyn's Story of His Adolescence]] | Celyn's Story of Getting His Adolescence† | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn's Story of Leaving Home\|Celyn's Story of Leaving Home]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Vignettes/in Ruthin/Celyn's Time in Ruthin\|Celyn's Time in Ruthin]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Chalyte Rumors from the Smiling Crab\|Chalyte Rumors from the Smiling Crab]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Chalyte Rumors from Tiberius\|Chalyte Rumors from Tiberius]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Clawyn After Celyn Leaves\|Clawyn After Celyn Leaves]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Stories/El's Story\|El's Story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Stories/Elizabeth of Cassen's Story\|Elizabeth of Cassen's Story]] | Elizabeths's Story† | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Faldrak's Journal Notes\|Faldrak's Journal Notes]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/First Dream of Rai\|First Dream of Rai]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Primary Sources/Songs/Fog and Fortune\|Fog and Fortune]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Primary Sources/Founding of Dunmar\|Founding of Dunmar]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Stories/Gareth's Story\|Gareth's Story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/Govir's Story\|Govir's Story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Scrying and Spying/Grash May 13th\|Grash May 13th]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Stories/Greymalkin's Story\|Greymalkin's Story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Stories/Guy de Varan's Story\|Guy de Varan's Story]] | Guy de Varan's Story of Orc Raids† | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Mawar Adventures/Items and Treasure/Hiyasa's Treasure Map\|Hiyasa's Treasure Map]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/Hralgar's Story\|Hralgar's Story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Primary Sources/Songs/Hush Little Beet\|Hush Little Beet]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Iskra's Story\|Iskra's Story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Jorundr's Story\|Jorundr's Story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Justan's Story\|Justan's Story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/Kenzo Spirit Journey in Bedez\|Kenzo Spirit Journey in Bedez]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/Kenzo's Dream of Apollyon\|Kenzo's Dream of Apollyon]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/Kenzo's Dream of Monks\|Kenzo's Dream of Monks]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/Kenzo's Memories of Hraglar\|Kenzo's Memories of Hraglar]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Kirian's Story\|Kirian's Story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Lakan Monk Letter\|Lakan Monk Letter]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Alaric Lord Mayor of Rinburg\|Letter from Alaric Lord Mayor of Rinburg]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Letter from Candrosa\|Letter from Candrosa]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Primary Sources/Letter from Canela to Festian, DR 1651\|Letter from Canela to Festian, DR 1651]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Great Library Campaign/Handouts/Letter from Chardon for Samso on the Umbral Covenant\|Letter from Chardon for Samso on the Umbral Covenant]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Letter from Dee Wildcloak\|Letter from Dee Wildcloak]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Handouts/Letter from Elowen Duval\|Letter from Elowen Duval]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Enford\|Letter from Enford]] | Letter from Captain Rochefort to Captain Rosfeld† | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Letter from Govir\|Letter from Govir]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Mahaut to Celyn\|Letter from Mahaut to Celyn]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Handouts/Letter from Owen Tavish\|Letter from Owen Tavish]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Rosalind (January 14th)\|Letter from Rosalind (January 14th)]] | Letter from Rosalind to the Heroes of Cleenseau† | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Rosalind (January 21st)\|Letter from Rosalind (January 21st)]] | Letter from Rosalind to the Heroes of Cleenseau† | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Rosalind (January 26th)\|Letter from Rosalind (January 26th)]] | Letter from Rosalind to the Heroes of Cleenseau† | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Rosalind (January 6th)\|Letter from Rosalind (January 6th)]] | Letter from Rosalind to the Heroes of Cleenseau† | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Rosalind (January 8th)\|Letter from Rosalind (January 8th)]] | Letter from Rosalind to the Heroes of Cleenseau† | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Letter from Speaker Lara\|Letter from Speaker Lara]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Susanne Garay to Viepuck\|Letter from Susanne Garay to Viepuck]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from the Oracle of the Red to the Mostreve Warlocks\|Letter from the Oracle of the Red to the Mostreve Warlocks]] | An order from the Oracle of the Red† (Common) | source |  |  | unknown: No reliable language evidence found |
+| [[Primary Sources/Lore of the Birth of the Gods\|Lore of the Birth of the Gods]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Luck and Fate\|Luck and Fate]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Handouts/Marshal Brask's Letter\|Marshal Brask's Letter]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Primary Sources/Songs/Merfolk Fortunes\|Merfolk Fortunes]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/Milo's Story\|Milo's Story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/Murook's Story\|Murook's Story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Nameless Chardonian Warrior's Story\|Nameless Chardonian Warrior's Story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Nayan Marathu's Letter\|Nayan Marathu's Letter]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Papers from the Fraternity of the Empty Moon\|Papers from the Fraternity of the Empty Moon]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Extraplanar Wounds\|Philosopher's Information Concerning Extraplanar Wounds]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Frankar\|Philosopher's Information Concerning Frankar]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Limbo\|Philosopher's Information Concerning Limbo]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Rai's Hand\|Philosopher's Information Concerning Rai's Hand]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Rodnya Voknaz\|Philosopher's Information Concerning Rodnya Voknaz]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Ursk\|Philosopher's Information Concerning Ursk]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Primary Sources/Songs/Praise the Divine Family\|Praise the Divine Family]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Report of the Aagiri to Samraat Dasa\|Report of the Aagiri to Samraat Dasa]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Report on the Bogblight\|Report on the Bogblight]] | Reports on the Bogblight† | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Reports on Chalyte in Alta Tonaro\|Reports on Chalyte in Alta Tonaro]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Research about Ancient Sources on Limbo\|Research about Ancient Sources on Limbo]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Research about Limbo and Cha'mutte\|Research about Limbo and Cha'mutte]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Research about Limbo and the Plaguelands\|Research about Limbo and the Plaguelands]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Research about Planar Connections\|Research about Planar Connections]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Letters and Notes/Research from Kassi\|Research from Kassi]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/Robin's Miracle\|Robin's Miracle]] | Robin's Miracle of Smiting† | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/Second Dream of Rai\|Second Dream of Rai]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/Stories of the Freed Prisoners of the Cleansed\|Stories of the Freed Prisoners of the Cleansed]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Stories of Tyrwingha for Profit\|Stories of Tyrwingha for Profit]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Primary Sources/Story about Hags\|Story about Hags]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Primary Sources/Story of the Scepter of Command\|Story of the Scepter of Command]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/Story of Xurkhaz\|Story of Xurkhaz]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/Tale of the Cloak of Rainbows\|Tale of the Cloak of Rainbows]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Mawar Adventures/Notes/The Ciphered Scroll\|The Ciphered Scroll]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Stories/Asides and Diversions/The Destruction of Eftly\|The Destruction of Eftly]] | In the destruction of Eftly† | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/The Dunmari Monsoon\|The Dunmari Monsoon]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Primary Sources/Songs/The Heroes of Uzgukhar\|The Heroes of Uzgukhar]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/The Last Jade Vision\|The Last Jade Vision]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Primary Sources/The Miracle of Jeevali's Resurrection\|The Miracle of Jeevali's Resurrection]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/The Shakun Mystai Initiation\|The Shakun Mystai Initiation]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Primary Sources/The Travelogue of Etienne of Cassons\|The Travelogue of Etienne of Cassons]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Tales and Stories/The Werewolf Prisoner's Tale\|The Werewolf Prisoner's Tale]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Tree’s story\|Tree’s story]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Sendings/Viepuck - Feburary 9th, 1720\|Viepuck - Feburary 9th, 1720]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Dreams and Visions/Vision of Rai and Apollyon\|Vision of Rai and Apollyon]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Mawar Adventures/Notes/Wazir's Gloss on the Ciphered Scroll\|Wazir's Gloss on the Ciphered Scroll]] |  | source |  |  | unknown: No reliable language evidence found |
+| [[History/History\|A Brief History of Taelgar]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Aagirvala\|Aagirvala]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Background/Ardith Mining\|Ardith Mining]] | Mining in Ardith† | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Bahrazel/Bahrazel\|Bahrâzel]] |  | background |  | BAH-rah-zel | unknown: No reliable language evidence found |
+| [[Background/Birthdays\|Birthdays]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Background/Calendar Eras\|Calendar Eras]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[History/Background/Canonical Events\|Canonical Events]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Groups/Chardonian Organizations/Chalyte Oligarchs of Chardon\|Chalyte Oligarchs of Chardon]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[History/Background/Cleenseau History Notes\|Cleenseau History Notes]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Background/Climate Map\|Climate Map]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[History/Background/Conquest and Human Wars\|Conquest and Human Wars]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Creatures of Taelgar\|Creatures of Taelgar]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Day of Atonement\|Day of Atonement]] | Feast of Sonkar's Blessing | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Day of Renewal\|Day of Renewal]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Demiplanes and Echo Realms/Demiplanes\|Demiplanes]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Spiritual Realms/Divine Realms\|Divine Realms]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Planar Concepts/Divine Spark\|Divine Spark]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Drankorian Funeral Traditions\|Drankorian Funeral Traditions]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Five Siblings/Dunmari Beliefs\|Dunmari Beliefs]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Dunmari Festivals\|Dunmari Festivals]] | Festivals† | background |  |  | unknown: No reliable language evidence found |
+| [[Groups/Dunmari Mystery Cults/Dunmari Mystery Cults\|Dunmari Mystery Cults]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Five Siblings/Dunmari Religion\|Dunmari Religion]] | Five Siblings of the Dunmari; Dunmari gods | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Five Siblings/Dunmari Religious Practice\|Dunmari Religious Practice]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Dwarven Religious Practice\|Dwarven Religious Practice]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Demiplanes and Echo Realms/Echo Realms\|Echo Realms]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/Mos Numena Pantheon\|Eight Divines]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Planar Concepts/Elemental Vortex\|Elemental Vortex]] | elemental vortexes | background |  |  | unknown: No reliable language evidence found |
+| [[Background/Elven Cycle of Generations\|Elven Cycle of Generations]] | ka | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/Embodied Gods\|Embodied Gods]] | embodied god | background |  |  | unknown: No reliable language evidence found |
+| [[Background/Ethlenn Background Notes\|Ethlenn Background Notes]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Background/Exotic Languages\|Exotic Languages]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Background/Extra-Planar Language\|Extra-Planar Language]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Far Realms\|Far Realms]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Feast of Bhishma\|Feast of Bhishma]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Festival of Rebirth\|Festival of Rebirth]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Holidays and Festivals/Festival of the Miracle of the Mist\|Festival of the Miracle of the Mist]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Festival of the New Dawn\|Festival of the New Dawn]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Embodied Gods/First Ones/First Ones\|First Ones]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Dunmari Pantheon\|Five Siblings]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Mos Numena/Gathering of the Soul\|Gathering of the Soul]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Mos Numena/Gifting of the Soul\|Gifting of the Soul]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Species/Goblinoids\|Goblinoids]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Halfling Religious Practice\|Halfling Religious Practice]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/High Gods/High Gods\|High Gods]] | high god | background |  |  | unknown: No reliable language evidence found |
+| [[History/Background/Historical Framework\|Historical Framework]] | History of Taelgar† | background |  |  | unknown: No reliable language evidence found |
+| [[History/History of Greater Sembara\|History of Greater Sembara]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[History/History of the Skaer\|History of the Skaer]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[History/History of Tollen\|History of Tollen]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[History/Background/Hobgoblin Movements After Cha'Mutte\|Hobgoblin Movements After Cha'Mutte]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Background/Human Cultures of Taelgar\|Human Cultures of Taelgar]] | Cultural Origins† | background |  |  | unknown: No reliable language evidence found |
+| [[History/Background/Humanity in Greater Sembara\|Humanity in Greater Sembara]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Incorporeal Gods/Incorporeal Gods\|Incorporeal Gods]] | incorporeal god | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Planar Concepts/Inner Realms\|Inner Realms]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[History/Background/Intellectual History of Cosmology in Taelgar\|Intellectual History of Cosmology in Taelgar]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Holidays and Festivals/Dunmari Festivals/Jaankar\|Jaankar]] |  | background |  | JAWN-kar | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Northern Folk Religions/Kestavan Funerary Traditions\|Kestavan Funerary Traditions]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Northern Folk Religions/Kestavo\|Kestavo]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Background/Magic in Taelgar\|Magic in Taelgar]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/World of Taelgar\|Map of Taelgar]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Mos Numena/Mawaran Religion\|Mawaran Religion]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Meswati/Meswati\|Meswati]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Metaphysics of Creatures\|Metaphysics of Creatures]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Background/Metaphysics of Souls\|Metaphysics of Souls]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Holidays and Festivals/Miracle of the Guided Wanderers\|Miracle of the Guided Wanderers]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Holidays and Festivals/Miracle of the Hopeful Heat\|Miracle of the Hopeful Heat]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Planar Concepts/Moon\|Moon]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Mos Numena/Mos Numena\|Mos Numena]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Holidays and Festivals/Mos Numena Feast Days\|Mos Numena Feast Days]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Multiverse\|Multiverse]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Northern Folk Religions/Northern Folk Religions\|Northern Folk Religions]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Planar Concepts/Outer Realms\|Outer Realms]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Planar Concepts/Planar Connections\|Planar Connections]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Planar Concepts/Planar Dualism\|Planar Dualism]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Planar Concepts/Primordial Cosmos\|Primordial Cosmos]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Holidays and Festivals/Pyravela\|Pyravela]] |  | background |  | PIE-ra-VEL-a | unknown: No reliable language evidence found |
+| [[Gods and Religions/Holidays and Festivals/Quintarum\|Quintarum]] |  | background | ✓ |  | unknown: No reliable language evidence found |
+| [[Background/Religious History of Taelgar\|Religious History of Taelgar]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Planar Concepts/Seeds of Chaos\|Seeds of Chaos]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Mos Numena/Sembaran Funerary Traditions\|Sembaran Funerary Traditions]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Five Siblings/Shakun's Protection\|Shakun's Protection]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Background/Ship Designs in Taelgar\|Ship Designs in Taelgar]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Planar Concepts/Soulstuff\|Soulstuff]] |  | background | ✓ |  | unknown: No reliable language evidence found |
+| [[Cosmology/Spiritual Realms/Spiritual Realms\|Spiritual Realms]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Planar Concepts/Standard Multiversal Model\|Standard Multiversal Model]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Planar Concepts/Stars\|Stars]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Background/Sylvan Writing\|Sylvan Writing]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/Tanshi/Tanshi\|Tanshi]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[History/Timeline of the Mawar\|The Chronicles of the Mawar]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Background/The Underdark\|The Underdark]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Geography of Taelgar\|The World of Taelgar]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Gods/High Gods/Three Despairs\|Three Despairs]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[History/Timeline of Sembaran History\|Timeline of Sembaran History]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[History/Timeline of the Aatmaji Dynasty\|Timeline of the Aatmaji Dynasty]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[History/Timeline of the Dharajun Dynasty\|Timeline of the Dharajun Dynasty]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[History/Timeline of the Nayan Dynasty\|Timeline of the Nayan Dynasty]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[History/Timeline of the Northern Deno'qai\|Timeline of the Northern Deno'qai]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Background/Traditions around Death\|Traditions around Death]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Mos Numena/Tyrwinghan Funerary Traditions\|Tyrwinghan Funerary Traditions]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Holidays and Festivals/Viatela\|Viatela]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Planar Concepts/Yendalism\|Yendalism]] |  | background |  |  | unknown: No reliable language evidence found |
+| [[Gods and Religions/Religions/Northern Folk Religions/Zariya\|Zariya]] |  | background |  | ZAH-ree-yah | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch Campaign\|Addermarch Campaign]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Addermarch Campaign/Addermarch Campaign Timeline\|Addermarch Timeline]] | Timeline of the Addermarch Campaign† | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Aftermaths - Fey Bodies\|Aftermaths - Fey Bodies]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Agata's Treasure\|Agata's Treasure]] | Agata Dustmother's Treasure† | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/At The Elegant Swan in Champimont\|At The Elegant Swan in Champimont]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Background/Background\|Background]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Campaign Inventory\|Campaign Inventory]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Campaign Timeline\|Campaign Session Timeline]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Campaigns\|Campaigns]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Celyn's Stories/Celyn's Timeline\|Celyn's Timeline]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Champimont - Rumors and Information\|Champimont - Rumors and Information]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Cleenseau - Distrust of Wizards\|Cleenseau - Distrust of Wizards]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Cleenseau - Oracle of Note Background Note\|Cleenseau - Oracle of Note Background Note]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Cleenseau - Raw Emails\|Cleenseau - Raw Emails]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Cleenseau - The Oracle of Hope\|Cleenseau - The Oracle of Hope]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Cleenseau - Timeline New Year 1720\|Cleenseau - Timeline New Year 1720]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Cleenseau - What You've Learned\|Cleenseau - What You've Learned]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Cleenseau - Zombie Aftermath\|Cleenseau - Zombie Aftermath]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Cleenseau Campaign\|Cleenseau Campaign]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Cleenseau Campaign - Index of NPCs\|Cleenseau Campaign - Index of NPCs]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Cleenseau Campaign - Timeline\|Cleenseau Campaign - Timeline]] | 7 Robert I / 1719 DR† | meta |  |  | unknown: No reliable language evidence found |
+| [[Background/Mechanics/Additional Rules (Mike)/Competencies\|Competencies]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Cosmology/Cosmology\|Cosmology]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Creature Rules in Taelgar\|Creature Rules in Taelgar]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Creatures\|Creatures]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Current Games\|Current Games]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Drankorian Treasure\|Drankorian Treasure]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Dunmari Frontier Campaign\|Dunmari Frontier Campaign]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Dunmari Frontier Timeline\|Dunmari Frontier Timeline]] | Timeline of the Dunmari Frontier Campaign† | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Elemental Forge Hoard\|Elemental Forge Hoard]] | Treasure from the Elemental Forge† | meta |  |  | unknown: No reliable language evidence found |
+| [[Events/1000s/1000s\|Events of the 1000s]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Events/1100s/1100s\|Events of the 1100s]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Events/1500s/1500s\|Events of the 1500s]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Events/1600s/1600s\|Events of the 1600s]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Events/1700s/1700s\|Events of the 1700s]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Fellburn Aftermath - Audience with Duke\|Fellburn Aftermath - Audience with Duke]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Fey Aftermaths I\|Fey Aftermaths I]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Fey Aftermaths II\|Fey Aftermaths II]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Flaming Tempest Hoard\|Flaming Tempest Hoard]] | Treasure Recovered from Vetta† | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Treasure/Forge Components\|Forge Components]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Gazetteer/Gazetteer\|Gazetteer]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Gifts and Purchases\|Gifts and Purchases]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Grimbaskal's Hoard\|Grimbaskal's Hoard]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/home\|home]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Hunter Aftermaths\|Hunter Aftermaths]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Ida's Letter\|Ida's Letter]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Index of Changes\|Index of Changes]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Into the Chasm/Into the Chasm\|Into the Chasm]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Labyrinths of the Lost/Labyrinths - Player Background\|Labyrinths - Player Background]] | Creating a Character† | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Labyrinths of the Lost/Labyrinths of the Lost\|Labyrinths of the Lost]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Loose Ends (Email)\|Loose Ends (Email)]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild\|Lost in the Feywild]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Mawar Adventures/Mawar Adventures\|Mawar Adventures]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Mawar Adventures/Mawar Adventures Timeline\|Mawar Adventures Timeline]] | Mawar Adventures Timelines† | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Meeting Lenora\|Meeting Lenora]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Merfolk Quest Treasure\|Merfolk Quest Treasure]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Mirror Visions\|Mirror Visions]] | Index of Mirror Visions† | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Nashtkar Treasures\|Nashtkar Treasures]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/One Shots\|One Shots]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/One Shots/Oskar's Adventures/Oskar's Adventures\|Oskar's Adventures]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Party Treasure\|Party Treasure]] | Dunmar Fellowship Treasure† (Common) | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Party Treasure - Former\|Party Treasure - Former]] | Former Party Treasure† | meta |  |  | unknown: No reliable language evidence found |
+| [[People/PCs/PCs\|PCs]] | Players of Taelgar† | meta |  |  | unknown: No reliable language evidence found |
+| [[People/People\|People]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Playable Species of Taelgar\|Playable Species of Taelgar]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Background/Player's Guide\|Player's Guide]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Mechanics/Playing a Beastfolk\|Playing a Beastfolk]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Mechanics/Playing a Centaur\|Playing a Centaur]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Mechanics/Playing a Changeling\|Playing a Changeling]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Mechanics/Playing a Dwarf\|Playing a Dwarf]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Mechanics/Playing a Fae\|Playing a Fae]] | Old† | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Mechanics/Playing a Fairy\|Playing a Fairy]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Mechanics/Playing a Free Orc\|Playing a Free Orc]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Mechanics/Playing a Halfling\|Playing a Halfling]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Mechanics/Playing a Human\|Playing a Human]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Mechanics/Playing a Kenku\|Playing a Kenku]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Mechanics/Playing a Kobold\|Playing a Kobold]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Mechanics/Playing a Lizardfolk\|Playing a Lizardfolk]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Mechanics/Playing a Plane-Touched\|Playing a Plane-Touched]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Mechanics/Playing a Satyr\|Playing a Satyr]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Mechanics/Playing a Stoneborn\|Playing a Stoneborn]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Creatures/Mechanics/Playing an Elf\|Playing an Elf]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Ra'ghemdros' Hoard\|Ra'ghemdros' Hoard]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Random Celyn Background People\|Random Celyn Background People]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Scrying and Spying/Scrying Delwath Nov 15\|Scrying Delwath Nov 15]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Scrying and Spying/Scrying Delwath Oct 21\|Scrying Delwath Oct 21]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Scrying and Spying/Scrying Delwath Oct 26\|Scrying Delwath Oct 26]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Scrying and Spying/Scrying Delwath Tollen Downtime\|Scrying Delwath Tollen Downtime]] | Scrying, Feb/March 1749† (Common) | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Scrying and Spying/Scrying Late Dec 1748\|Scrying Late Dec 1748]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Raw Emails/Sembara Background Note - Royal Council\|Sembara Background Note - Royal Council]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Background/Mechanics/Additional Rules (Mike)/Spells/Silvery Barbs (Rules)\|Silvery Barbs (Rules)]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Background/Mechanics/Additional Rules (Mike)/Skills\|Skills]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Primary Sources/Songs/Songs\|Songs of Taelgar]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Cleenseau Campaign/Treasure/Treasure\|Treasure]] | Party Treasure† | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Ursk Treasure\|Ursk Treasure]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Vindristjarna Bastion Rules\|Vindristjarna Bastion Rules]] | Vindristjarna Bastion Mechanics† | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Vindristjarna Mechanics\|Vindristjarna Mechanics]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Vindristjarna Room Planning (Old)\|Vindristjarna Room Planning (Old)]] | Upper Deck† | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Scrying and Spying/Vision of Govir's research\|Vision of Govir's research]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Scrying and Spying/Vision of Ulfgar's research\|Vision of Ulfgar's research]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[Campaigns/Dunmari Frontier Campaign/Hoards/Werewolf Lair Treasure\|Werewolf Lair Treasure]] |  | meta |  |  | unknown: No reliable language evidence found |
+| [[assets/addermarch-schematic-details\|addermarch-schematic-details]] | Excalidraw Data† | unknown |  |  | unknown: No reliable language evidence found |
+| [[assets/mostreve-schematic-details\|mostreve-schematic-details]] | Excalidraw Data† | unknown |  |  | unknown: No reliable language evidence found |
+| [[assets/excalidraw/voltara-outline\|voltara-outline.excalidraw]] | Excalidraw Data† | unknown |  |  | unknown: No reliable language evidence found |
