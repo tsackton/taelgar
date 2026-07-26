@@ -21,7 +21,7 @@ typeOfAlias: sea
 
 %% needs to pull in various notes, included from Discord/emails, and reformat text %%
 
-The Green Sea is a large inland sea, surrounded on all sides by significant land masses. To the west, it is bordered by the [[Western Gulf]] and the [[Cymean Peninsula]]; to the north, by the varied islands of [[Skaerhem]] and the strange lands of [[Ursk]]; to the east, the mysterious and magical [[~Eastern Islands~]] separate the Green Sea from the oceans beyond; and a variety of diverse lands to the south. The large island known as [[Irrla]] forms the boundary between the [[Eastern Green Sea]] and the [[Western Green Sea]]. 
+The Green Sea is a large inland sea, surrounded on all sides by significant land masses. To the west, it is bordered by the [[Western Gulf]] and the [[Cymean Peninsula]]; to the north, by the varied islands of [[Skaerhem]] and the strange lands of [[Ursk]]; to the east, the mysterious and magical [[Eastern Isles]] separate the Green Sea from the oceans beyond; and a variety of diverse lands to the south. The large island known as [[Irrla]] forms the boundary between the [[Eastern Green Sea]] and the [[Western Green Sea]]. 
 
 Climatically, the [[Western Green Sea]] is dominated by the spring and summer monsoons that bring rain from the ocean to [[Sembara]], [[Cymea]],  [[Tyrwingha]], and [[Vostok]]. The monsoon winds drive upwelling, and the [[Western Green Sea]] is rich in phytoplankton and the marine life that feeds on it, giving the Green Sea the characteristic greenish tint from which its name derives. The [[Eastern Green Sea]], much less affected by the monsoons, and with wider expanses of open water, tends towards maritime climates along the immediate coast, often with drier summers and wet winters. 
 

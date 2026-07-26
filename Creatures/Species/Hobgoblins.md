@@ -93,7 +93,7 @@ Much of the decades after the [[Great War]], however, were defined by hobgoblin 
 ### Sources
 - Broad history and framework: [[Historical Framework]]; [[Great War]]; [[Great War Notes]]; [[Blood Years]]; [[West Coast History Framework]]
 - Post-war movements and wars: [[Hobgoblin Movements After Cha'Mutte]]; [[First Hobgoblin War (Sembara)]]; [[Second Hobgoblin War (Sembara)]]; [[Third Hobgoblin War (Sembara)]]; [[The Enst Campaign]]; [[Northern War]]; [[Bitter Knife War]]; [[West Coast History Framework]]
-- Clans and realms: [[Shattered Ice Clan]]; [[Blackened Claw]]; [[Iron Fang]]; [[Skullcleaver Clan]]; [[~Hobgoblin Pirate Kingdom of Irrla~]]
+- Clans and realms: [[Shattered Ice Clan]]; [[Blackened Claw]]; [[Iron Fang]]; [[Skullcleaver Clan]]; [[Reaver Coast]]
 - Sembaran and Cleenseau context: [[History of Greater Sembara]]; [[Timeline of Sembaran History]]; [[Cleenseau History Notes]]
 - Discord and email discussions: [[2025-01-28 - Chardon History]]; [[2025-01-29 - Chardon History]]; [[2023-01-05 - Grand Sweep of History]]; [[2023-10-29 - Grand Sweep of History]]; [[2023-10-30 - Grand Sweep of History]]; [[2025-01-31 - Chardon Wars Against Hobgoblins]]; [[2023-11-04 - Avatus and Hobgoblins]]; [[2024-01-04 - Sembara History and Conquest]]; [[2024-01-05 - Sembara History]]; [[2024-03-27 - Fellburn]]; [[2023-11-05 - Rangers, Elves, Great War]]; [[Email  - Taelgar Races]]; [[Email - A Few Thoughts on Taelgar Races]]; [[Email - Brief Thoughts on Elder Races]]
 

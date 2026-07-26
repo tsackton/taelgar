@@ -4,7 +4,7 @@ tags:
 typeOf: topographical feature
 ---
 
-The peninsula in the far north of the eastern green sea; connects to the [[~Eastern Islands~]] and somewhat east of [[Ursk]]
+The peninsula in the far north of the eastern green sea; connects to the [[Eastern Isles]] and somewhat east of [[Ursk]]
 
 Totally undeveloped at the moment
 
