@@ -99,7 +99,7 @@ _See also: [[Places in the Central Highlands]]_
 
 *Adventures:* The Dunmari Frontier campaign Elderwood arc occurred in this region, as did the short adventure to Hralgar's Palace. The Great Library dwarven kingdom arc also occurred in this region, including passing through a Deno'qai village from early days of Deno'qai development ([[Raha]]), and significant invention around [[Am'khazar]]. The [[Great War Campaign]] involved the final battle ([[Battle of Urlich Pass]]) against [[Cha'mutte]] at or near [[Urlich Pass]], and also included a short arc involving a hidden forest ([[Valley of the Hidden Forest]]) with strange magic where Rai first met Dimitaur. 
 
-*Important Places in Staging:* The Deno'qai villages from the Elderwood arc ([[~Bek'eni village~]], [[~Te'kula village~]]) could use names. 
+*Important Places in Staging:* The Deno'qai villages from the Elderwood arc ([[Talem]], [[~Te'kula village~]]) could use names. 
 %%^End%%
 
 ---

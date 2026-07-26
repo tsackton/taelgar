@@ -1,18 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/check/name
-whereabouts: Forest of Dreams
-ancestry: Deno'qai
+tags: [place, status/stub]
+name: Talem
+pronunciation: TAH-lem
+whereabouts: Elderwood
+displayDefaults: {defArt: ""}
 typeOf: settlement
 typeOfAlias: village
-dm_notes: important
+aliases: [Bek'eni village]
 dm_owner: tim
+dm_notes: color
 ---
-# The Ko'zula Village
+# Talem
+*(TAH-lem)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% need to check names and decide where the [[Forest of Dreams]] actually is %%

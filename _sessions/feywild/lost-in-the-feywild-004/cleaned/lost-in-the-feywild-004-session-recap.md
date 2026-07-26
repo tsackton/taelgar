@@ -344,3 +344,29 @@ She also says listeners claimed there is another door inside the 27th Room, the 
 - Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-beats.json
 - Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-beat-facts.json
 - Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-source-cleaned.md
+
+## Pull Quotes
+
+- ID: quote-b004-001
+  - Quote: "This place makes no sense."
+  - Speaker: Txarro
+  - Source Lines: u0951-u0953
+
+- ID: quote-b004-002
+  - Quote: "Oh. Non-Euclidean shit happening."
+  - Speaker: Tarek
+  - Source Lines: u1120-u1121
+
+- ID: quote-b004-003
+  - Quote: "I wanted to mention the sit-your-butt-down-and-stop-running-around option."
+  - Speaker: Ayveen
+  - Source Lines: u1367-u1369
+
+
+## Audio Highlights
+
+- ID: audio-001
+  - Title: Learning Words, Becoming Houses
+  - Speaker: The DM, as "The Child"
+  - Source Lines: u0680-u0713
+  - Output: audio-001.m4a

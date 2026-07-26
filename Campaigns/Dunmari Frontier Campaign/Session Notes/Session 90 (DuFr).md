@@ -42,7 +42,7 @@ The [[Dunmar Fellowship]] engages in intricate diplomacy to reconcile siblings [
 - (DR:: 1749-02-09): Travel towards [[Orenlas]], crossing the eastern [[Plaguelands]]. 
 - (DR:: 1749-02-10): Travel towards [[Orenlas]], arriving late at night. 
 - (DR:: 1749-02-11): Spend the day in [[Orenlas]], speaking with [[Egnir]]. 
-- (DR:: 1749-02-12): Depart [[Orenlas]] in the afternoon, crossing the [[~Cymea Border Mountains~]] in the night. 
+- (DR:: 1749-02-12): Depart [[Orenlas]] in the afternoon, crossing the [[Mistfold Mountains]] in the night. 
 - (DR:: 1749-02-13): Travel across [[Latazaro]] swamp and the [[Western Gulf]] towards [[Tollen]].
 - (DR:: 1749-02-14): Cross the [[Western Gulf]] and the [[~Gulf of Tollen~]], traveling towards [[Tollen]].
 - (DR:: 1749-02-15): Arrive outside [[Tollen]] in the morning. Contact [[Adam Gower]] and others, and dock [[Vindristjarna]] for construction.

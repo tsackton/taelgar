@@ -42,7 +42,7 @@
     * The ~Unnamed Aure Headwaters Ridge~ runs mostly east-west, arising from the rolling hills of the [[Aure]] river valley some 50 miles east of the Westcliff ridge, and cutting in a south-south-easterly line towards the headwaters of the `[[~Aure East Fork~]]`. This ridgeline partially separates [[Addermarch]] from the [[Darkwood]]. 
     * The ~Tyrwinghan Ridge~, which runs in a north-easterly line, starting north of the `[[~Aure East Fork~]]`
     * The ~North Tyrwinghan Ridge~ which is east of the Aure, and runs in a series of lines running north-west from the Tyrwinghan ridge. These peaks are notably gentler than the other ridges, and form less of a barrier to travel.
-    * The ~Orlenas Ridge~, which starts south of the [[Latazaro]] swamp and runs almost due east until it grows in the [[~Cymea Border Mountains~]]
+    * The ~Orlenas Ridge~, which starts south of the [[Latazaro]] swamp and runs almost due east until it grows in the [[Mistfold Mountains]]
 [2024-09-10 05:49 PM] Deciusmus: In between these ridgelines are several major gaps:
     * The [[Aure]] river cuts between the Westcliff and Tyrwinghan ridges, in a broad and relatively fertile river valley
     * The Darkwood creeps north between the Westcliff ridge and the ~Unnamed Aure Headwaters Ridge~, forming a hilly wildland on the southern borders of [[Addermarch]]

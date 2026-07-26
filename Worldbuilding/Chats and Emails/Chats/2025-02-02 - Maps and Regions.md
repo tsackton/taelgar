@@ -134,7 +134,7 @@ The region of Cymea and its surroundings is primarily home to humans, but other 
     (_The details of what these "other sources" say is known but not yet invented. - Eds.)_
 [2025-02-02 02:43 PM] Deciusmus: #### Drankorian Era
     _CY 4535 - 5192_
-    As the Drankorian Empire expanded north, coastal provinces in the lands left behind by the vanished non-human empires ([[Alcarinque|Alcarinquë]] and the [[~Ancient Lizardfolk Swamp~]]) were established quickly, although sources disagree as to the exact founding dates. Many local Cymean sources ascribe unrealistically early founding dates (such as DR 2 or DR 100) to local cities and provinces but few believe these.
+    As the Drankorian Empire expanded north, coastal provinces in the lands left behind by the vanished non-human empires ([[Alcarinque|Alcarinquë]] and the [[Urtzabala]]) were established quickly, although sources disagree as to the exact founding dates. Many local Cymean sources ascribe unrealistically early founding dates (such as DR 2 or DR 100) to local cities and provinces but few believe these.
     
     However, by DR 402 (CY 4535) the well-attested [[Treaty of Marhavn]] was signed in [[Tollen]], which formalized that withdrawal of the [[Skaer]] from all lands and seas west of the [[Volta]] and south of the [[Straits of Cymea]]. The [[Skaerhem|Skaer]] retreated in this period, and although numerous Skaer sailing vessels were seen along the coasts of [[Vostok]] and crossing between the islands of [[Skaerhem]], the western shores and bays of the [[Green Sea]] were dominated by the Drankorians, according to modern [[Cymea|Cymean]] histories. 
     

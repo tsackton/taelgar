@@ -17,9 +17,9 @@ dm_notes: color
 > A [[Deno'qai]] [[Humans|human]] (he/him), of Bek'ena  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on September 6th, 1748 in [[~Bek'eni village~|Bek'eni village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on September 6th, 1748 in [[Talem|Bek'eni village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
 
-Zaro is an older man, hale and hearty with a commanding voice. He is bald, with a gray beard, blue eyes, and a prominent nose. He is the chief of the largest [[~Bek'eni village~|Bek'eni village]] in the [[Elderwood]]. 
+Zaro is an older man, hale and hearty with a commanding voice. He is bald, with a gray beard, blue eyes, and a prominent nose. He is the chief of the largest [[Talem|Bek'eni village]] in the [[Elderwood]]. 
 
 %%^Campaign:dufr%%
 Zaro was a loyal follower of [[Mezzar]], who he believed to be an elf seeking to return the [[Deno'qai]] to glory and power. His fate after the death of [[Mezzar|Grimbaskal]] is unknown. 

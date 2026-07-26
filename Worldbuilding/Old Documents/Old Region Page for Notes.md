@@ -215,7 +215,7 @@
 
   
 
-*Area:* This includes the northern part of the [[Istaros Watershed]] starting southeast of [[Aurbez Plateau]] and related areas, and stretches to the coast of the Green Sea. It is bordered by the [[Mostreve Hills]], the [[Darkwood]], [[Orenlas]], and the [[~Cymea Border Mountains~]] to the north, and [[Xurkhaz]] to the south.
+*Area:* This includes the northern part of the [[Istaros Watershed]] starting southeast of [[Aurbez Plateau]] and related areas, and stretches to the coast of the Green Sea. It is bordered by the [[Mostreve Hills]], the [[Darkwood]], [[Orenlas]], and the [[Mistfold Mountains]] to the north, and [[Xurkhaz]] to the south.
 
   
 

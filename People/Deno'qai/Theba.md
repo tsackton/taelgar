@@ -24,7 +24,7 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 22th, 1748 in [[~Bek'eni village~|Bek'eni village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
+>> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 22th, 1748 in [[Talem|Bek'eni village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
 
 %% some information from DM notes; need to link character sheet; clean up whereabouts and campaign info%%
 

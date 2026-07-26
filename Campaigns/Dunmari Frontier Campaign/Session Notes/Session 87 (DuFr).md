@@ -37,7 +37,7 @@ In the elven city of [[Erelion]], the [[Dunmar Fellowship]] learns about [[Cha'm
 - (DR::1749-01-12): Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic.
 - (DR::1749-01-13): Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic.
 - (DR::1749-01-14): Return to [[Vindristjarna]], depart for [[Orenlas]].
-- (DR::1749-01-15): Arrive in [[Orenlas]] in morning after traveling through the evening across the [[~Cymea Border Mountains~]]; dinner party.
+- (DR::1749-01-15): Arrive in [[Orenlas]] in morning after traveling through the evening across the [[Mistfold Mountains]]; dinner party.
 - (DR::1749-01-16): Visit [[Arheste]]; soothe her pain with powerful ki; speak with her all day; depart at dusk for [[Uzgukhar]].
 ### Mirror of the Past
 - (DR::1749-01-13) [[Mirror of the Past]] unexpectedly recharged early due to lingering magical energy of the Elemental Forge, and [[Elemental Forge Vision|used to look at the Elemental Forge itself]]. (recharge:: mirror)
