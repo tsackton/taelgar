@@ -16,7 +16,7 @@ dm_owner: none
 
 The Cymean Peninsula is a large peninsula that separates the sheltered [[Western Gulf]] from the larger [[Green Sea]]. The narrow [[Straits of Cymea]] separate the peninsula from coastal [[Vostok]]. 
 
-A line of highlands, known as the [[Plataca Hills]], separates the western part of the peninsula from the broad coastal plains to the east. The southern third of the peninsula rises through a series of karst uplands to the  [[~Cymea Border Mountains~]].
+A line of highlands, known as the [[Plataca Hills]], separates the western part of the peninsula from the broad coastal plains to the east. The southern third of the peninsula rises through a series of karst uplands to the  [[Mistfold Mountains]].
 
 %% 
 minimal climatic and geographic development, except for:

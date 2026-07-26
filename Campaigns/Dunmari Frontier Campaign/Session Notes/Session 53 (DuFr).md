@@ -16,14 +16,14 @@ descTitle: Armbands of Entrapment
 > *Featuring: [[Delwath]]*
 > *In Taelgar: Sep 30, 1748 DR to Oct 06, 1748 DR*
 > *On Earth: Sunday Jul 31, 2022*
-> *[[Ko'zula village]] in the [[Forest of Dreams]]*
+> *[[Azkar]] in the [[Forest of Dreams]]*
 
 [[Delwath]] discovers that Cha'mutte's shadow armbands are key to freeing the trapped [[Meswati]] and prepares to seek allies for his quest.
 ## Session Info
 
 ***Delwath receives his Deno'qai [[Deno'qai Scale Mail|armor]] and  [[Deno'qai Lynx Shield|shield]], and learns to speak Deno'qai.***
 ### Summary
-- Delwath arrives at a Deno'qai camp and is taken to meet Chief [[Ninu]] in the [[Ko'zula village]].
+- Delwath arrives at a Deno'qai camp and is taken to meet Chief [[Ninu]] in the [[Azkar]].
 - [[Ninu]] shares the village's encounter with a deathless warlock and the story of [[Jotha]]'s disappearance.
 - Delwath connects the armbands to the entrapment of the [[Meswati]] and his own journey.
 - [[Ninu]] advises seeking [[Aristaea]] and [[Iascaire]] at a hunting camp for help.
