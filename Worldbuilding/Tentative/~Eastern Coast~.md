@@ -9,6 +9,6 @@ tags: [place]
     
 - Place for rumors of strange things aka Mayan/Incan/non-human stuff (jungle lizardfolk nation?)
 
-This is the area east of [[~Medju Mountains~]] and [[~Eastern Islands~]] 
+This is the area east of [[~Medju Mountains~]] and [[Eastern Isles]] 
 
 

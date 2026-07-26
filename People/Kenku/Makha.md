@@ -20,7 +20,7 @@ dm_notes: color
 > An Islander [[Kenku|kenku]], he/him
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Wellby]] on October 12th, 1748 in [[Wahacha]], the [[Vermillion Isles]], [[~Eastern Islands~]] %%^End%%
+>> %%^Campaign:dufr%% Met by [[Wellby]] on October 12th, 1748 in [[Wahacha]], the [[Vermillion Isles]], [[Eastern Isles]] %%^End%%
 
 ![[makha.png|right|320]]The port master and unofficial town spokesperson for the kenku settlement of [[Wahacha]].  
 ## Relationships:

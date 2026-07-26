@@ -41,7 +41,7 @@ This is page tracks the status of the Gazetteer reorganization.
 * [ ] [[Sentinel Range|Sentinels]]
 * [ ] [[Nevos Sea]]
 * [ ] [[Apporia|Apporian Peninsula]]
-* [ ] [[~Eastern Ocean~]]
+* [ ] [[Outer Ocean]]
 
 ## Finish Cross region pages
 * [ ] [[Endless Ocean]]
@@ -49,7 +49,7 @@ This is page tracks the status of the Gazetteer reorganization.
 * [ ] [[Sentinel Range|Sentinels]]
 * [ ] [[Nevos Sea]]
 * [ ] [[Apporia|Apporian Peninsula]]
-* [ ] [[~Eastern Ocean~]]
+* [ ] [[Outer Ocean]]
 
 ## River System Pages
 (check rivers are linked correctly and overview page exists and that all related rivers are in a correct region)

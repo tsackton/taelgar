@@ -44,7 +44,7 @@ The [[Dunmar Fellowship]] engages in intricate diplomacy to reconcile siblings [
 - (DR:: 1749-02-11): Spend the day in [[Orenlas]], speaking with [[Egnir]]. 
 - (DR:: 1749-02-12): Depart [[Orenlas]] in the afternoon, crossing the [[Mistfold Mountains]] in the night. 
 - (DR:: 1749-02-13): Travel across [[Latazaro]] swamp and the [[Western Gulf]] towards [[Tollen]].
-- (DR:: 1749-02-14): Cross the [[Western Gulf]] and the [[~Gulf of Tollen~]], traveling towards [[Tollen]].
+- (DR:: 1749-02-14): Cross the [[Western Gulf]] and the [[Gulf of Tollen]], traveling towards [[Tollen]].
 - (DR:: 1749-02-15): Arrive outside [[Tollen]] in the morning. Contact [[Adam Gower]] and others, and dock [[Vindristjarna]] for construction.
 - (DR:: 1749-02-16) - (DR_end:: 1749-03-08): [[Interlude (Tollen Downtime)|Downtime in Tollen]].
 - (DR:: 1749-03-09): Meet the [[Kenku|kenku]] scout [[Kecha]] on [[Vindristjarna]]. Shadow hunter attack well after midnight. 

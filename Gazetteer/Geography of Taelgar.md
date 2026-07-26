@@ -9,7 +9,7 @@ dm_owner: none
 
 %% See [[Geography - Open Questions]] for some unresolved general questions about the world %%
 
-The world of Taelgar is a globe, slightly bigger than Earth, with Earth-like seasons and climate and am Earth-like sun, [[Moon]], and [[Stars|stars]]. The main landmass stretches from the [[Endless Ocean]] in the west across more than 5,000 miles of mountains, forests, rivers, swamps, farmland, desolation and deserts to the mysterious [[~Eastern Ocean~|east]].  
+The world of Taelgar is a globe, slightly bigger than Earth, with Earth-like seasons and climate and am Earth-like sun, [[Moon]], and [[Stars|stars]]. The main landmass stretches from the [[Endless Ocean]] in the west across more than 5,000 miles of mountains, forests, rivers, swamps, farmland, desolation and deserts to the mysterious [[Outer Ocean|east]].  
 
 Many mapmakers consider the mighty [[Sentinel Range]], whose highest peaks rise more than 20,000 feet into the air, the defining feature of the land. The [[Sentinel Range|Sentinel's]] 2,500 miles of mountains and foothills divide the world into three: 
 * to the west, [[Chardon]], the great city of magic and learning, by the mouth of the the mighty [[Chasa-Nahadi Watershed]], and the smaller [[Yeraad Watershed|Yeraad River]], to the south
@@ -22,7 +22,7 @@ If you were lucky enough to find a ancient map from [[Drankorian Empire|Drankor]
 
 %%^Campaign:None%%
 ### Oceans and Boundaries
-The known world is bounded by the [[Endless Ocean]] in the west and the [[~Eastern Ocean~]] in the east. The lands to the north and south are intentionally vague and mysterious, to preserve blank spaces on the map for future adventures.
+The known world is bounded by the [[Endless Ocean]] in the west and the [[Outer Ocean]] in the east. The lands to the north and south are intentionally vague and mysterious, to preserve blank spaces on the map for future adventures.
 ### Major Regions
 To ease worldbuilding, Taelgar is divided up into 13 regions, listed approximately from northwest-southeast:
 
@@ -70,7 +70,7 @@ A handful of major features are large, and cross regions. These are:
 ##### Seas and Oceans
 * the [[Green Sea]]
 * the [[Endless Ocean]]
-* the [[~Eastern Ocean~]]
+* the [[Outer Ocean]]
 * the [[Nevos Sea]]
 ##### River Systems
 - the [[Chasa-Nahadi Watershed]]

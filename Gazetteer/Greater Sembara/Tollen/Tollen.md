@@ -102,7 +102,7 @@ Tollen is a republic, for certain values of the word. Power largely rests in the
 
 %% This is a brief sketch. Probably there is more complicated politics but nothing has been developed so far. The Great Council may have non-guild seats; there may be a Small Council or First Councillor or both chosen from the Great Council to wield executive power on a day to day basis; the exact allocation of seats on the Great Council is unclear. The only canonical bit is (a) there is a Great Council, and (b) most of the seats are allocated to guilds, and guilds are the basis of political power in Tollen. %%
 
-Tollen is the dominant maritime power of the [[Western Gulf]], with significant fishing, merchant, and naval fleets. The Tollender navy controls the [[Straits of Cymea]], patrols the [[Western Gulf]], keeping it free of pirates, and maintains naval fortifications in the islands in the [[~Gulf of Tollen~]]. 
+Tollen is the dominant maritime power of the [[Western Gulf]], with significant fishing, merchant, and naval fleets. The Tollender navy controls the [[Straits of Cymea]], patrols the [[Western Gulf]], keeping it free of pirates, and maintains naval fortifications in the islands in the [[Gulf of Tollen]]. 
 
 %% How the navy relates to the guilds is TBD %%
 
@@ -180,6 +180,6 @@ Unclear where metal comes from. It is possible there are mines in the ~Volta Hil
 
 ### Territory
 
-An open question is exactly to what extent Tollen controls its hinterlands. It must, to a certain extent? And of course more recently it presumably controls the entire [[~Gulf of Tollen~]] in addition to the immediate hinterlands. 
+An open question is exactly to what extent Tollen controls its hinterlands. It must, to a certain extent? And of course more recently it presumably controls the entire [[Gulf of Tollen]] in addition to the immediate hinterlands. 
 
 %%^End%%

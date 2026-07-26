@@ -40,7 +40,7 @@ _See more: [[Mostreve Hills]], [[Western Gulf]], [[Wistel]], [[Enst]], [[Volta]]
 
 Five major river systems, fed by the summer rains, and melting snowpack and glaciers from the mountains, define the region: 
 * in the northeast, the [[Kem]] and [[Niva]] rivers spill down from the [[~North Vostok Mountains~]]  and the [[~Vostok Plateau~]] to the [[Green Sea]]
-* further west, the mighty [[Volta]], wide and cold, flows past Tollen into the [[~Gulf of Tollen~]]
+* further west, the mighty [[Volta]], wide and cold, flows past Tollen into the [[Gulf of Tollen]]
 * south of the Volta the swift flowing [[Teft]], the placid [[Semb]] and the mighty [[Wistel]] flow past [[Heartlands|fertile farmland]]
 * and finally in the south, the [[Enst]] defines the borders of the rich farmlands, as it flows from the [[Sentinel Range|Sentinels]] and the [[Mostreve Hills]] to merge with [[Wistel]] before the great marshy delta of the [[Ozabal|Ozabal Swamp]].
 
@@ -118,6 +118,6 @@ _See also: [[List of Places in Greater Sembara]]_
 
 *Adventures:* The [[Cleenseau Campaign]] and the Addermarch campaign are entirely set within this region, in southern Sembara and Addermarch respectively. The Dunmar Frontier campaign spent significant time in Tollen.
 
-*Important Places in Staging:* The following places could use canonical names: [[~Vostok Plateau~]], [[~Lake Vostok~]], [[~Coastal Vostok Hills~]], [[~Volta Hills~]], [[~North Vostok Mountains~]], [[~South Vostok Hills~]], [[~Gulf of Tollen~]]
+*Important Places in Staging:* The following places could use canonical names: [[~Vostok Plateau~]], [[~Lake Vostok~]], [[~Coastal Vostok Hills~]], [[~Volta Hills~]], [[~North Vostok Mountains~]], [[~South Vostok Hills~]], [[Gulf of Tollen]]
 %%^End%%
 

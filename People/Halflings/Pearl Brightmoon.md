@@ -22,7 +22,7 @@ dm_notes: color
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:dufr%% Met by [[Wellby]] on September 30th, 1748 in the [[Wave Dancer]] %%^End%%
->> %%^Campaign:dufr%% Last seen by [[Wellby]] on October 12th, 1748 in the [[Wave Dancer]], [[Wahacha]], the [[Vermillion Isles]], [[~Eastern Islands~]] %%^End%%
+>> %%^Campaign:dufr%% Last seen by [[Wellby]] on October 12th, 1748 in the [[Wave Dancer]], [[Wahacha]], the [[Vermillion Isles]], [[Eastern Isles]] %%^End%%
 
 Pearl is a halfing woman in her prime, who serves as the captain of the guard and first mate on the Wave Dancer. She is well-muscled, and clearly good with a rapier. 
 ## Relationships

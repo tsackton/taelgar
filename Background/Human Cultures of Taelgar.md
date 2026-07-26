@@ -24,7 +24,7 @@ Canonical minor migrations are listed below:
 ### Schisms and Blendings
 The originally migrations from Hkar were all at least 1700 years ago, and some as long as 3000 years ago. This is substanial time for cultures to split, blend, and otherwise change. The canonical areas of mixing and blending are:
 
-1. The **Eastern Schisms**. The mariner culture had at least two, and perhaps several more major schisms (cultural and religious) as it spread from the [[~Eastern Islands~]] to the [[Western Gulf]]. Each of these schisms produced the possibility of cultural change.
+1. The **Eastern Schisms**. The mariner culture had at least two, and perhaps several more major schisms (cultural and religious) as it spread from the [[Eastern Isles]] to the [[Western Gulf]]. Each of these schisms produced the possibility of cultural change.
 2. The **Sembaran Mixing Pot**. In the Sembaran region the "mariner", "northerner", and "Downfall Refugee" cultures all interacted in a complex way.
 3. The **West Coast Mixing Pot**. Along the west coast, there was significant time for cultural development before the arrival of the Drankorian Empire, and the region was only partially conquered by Drankor. 
 
