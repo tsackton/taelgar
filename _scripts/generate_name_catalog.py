@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Generate the Taelgar name catalog.
 
-The catalog is deliberately note-based: it indexes entity notes, staging notes,
-and notes explicitly tagged ``status/check/name``. It does not attempt named
-entity recognition across session transcripts, chats, or general prose.
+The catalog is deliberately note-based: it indexes every note with frontmatter
+tags, except notes in Worldbuilding or underscore-prefixed directories. It does
+not attempt named entity recognition across general prose.
 
 Outputs:
 
@@ -27,41 +27,22 @@ from pathlib import Path
 from typing import Iterable, Sequence
 
 
-CATALOG_TAGS: tuple[str, ...] = (
-    "ancestry",
-    "creature",
-    "group",
+NOTE_TYPES: tuple[str, ...] = (
+    "person",
+    "power",
+    "place",
     "event",
     "object",
-    "person",
-    "place",
-    "power",
-    "religion",
+    "group",
+    "ancestry",
+    "creature",
+    "session-note",
     "source",
+    "background",
+    "meta",
 )
 
-TAG_ORDER = {tag: idx for idx, tag in enumerate(CATALOG_TAGS)}
-
-EXCLUDED_PARTS = {
-    ".backups",
-    ".git",
-    ".obsidian",
-    ".pytest_cache",
-    ".secrets",
-    "_MoC",
-    "_sessions",
-    "_templates",
-    "assets",
-    "__pycache__",
-}
-
-EXCLUDED_PATH_FRAGMENTS = (
-    "Campaigns/Mawar Adventures/_generated/",
-    "Worldbuilding/Chats and Emails/",
-    "Worldbuilding/Old Documents/",
-    "Worldbuilding/Research and Mechanics/",
-    "Worldbuilding/Talk/",
-)
+TAG_ORDER = {tag: idx for idx, tag in enumerate(NOTE_TYPES)}
 
 LANGUAGE_KEYWORDS: tuple[tuple[tuple[str, ...], str, str], ...] = (
     (("katonylev", "army tongue"), "Goblin", "Katonylev"),
@@ -519,24 +500,23 @@ def normalize_tag(tag: str) -> str:
     return tag.strip().strip("'\"").lstrip("#").strip().lower()
 
 
-def choose_note_category(tags: Sequence[str], path: Path) -> str | None:
+def choose_note_type(tags: Sequence[str]) -> str:
     tag_set = {normalize_tag(tag) for tag in tags}
-    for tag in CATALOG_TAGS:
-        if tag in tag_set:
-            return tag
-    if "status/check/name" in tag_set:
-        return "unknown"
-    if "Worldbuilding/Staging/Unnamed" in path.as_posix():
-        return "unknown"
-    return None
+    base_tags = {tag.split("/", 1)[0] for tag in tag_set}
+    for note_type in NOTE_TYPES:
+        if note_type in tag_set or note_type in base_tags:
+            return note_type
+    return "unknown"
 
 
 def should_scan(path: Path) -> bool:
-    parts = set(path.parts)
-    if parts & EXCLUDED_PARTS:
+    directory_parts = path.parts[:-1]
+    if path.parts and path.parts[0] == "Worldbuilding":
         return False
-    posix = path.as_posix()
-    return not any(fragment in posix for fragment in EXCLUDED_PATH_FRAGMENTS)
+    return not any(
+        part.startswith("_") or part.startswith(".")
+        for part in directory_parts
+    )
 
 
 def iter_markdown(root: Path) -> Iterable[Path]:
@@ -809,7 +789,7 @@ def language_from_locations(locations: Sequence[str]) -> Language | None:
 
 def infer_primary_language(
     name: str,
-    category: str,
+    note_type: str,
     path: str,
     fields: dict[str, object],
     frontmatter: Sequence[str],
@@ -822,7 +802,7 @@ def infer_primary_language(
     ancestry_values = as_list(fields.get("ancestry"))
     species_values = as_list(fields.get("species")) + as_list(fields.get("subspecies"))
 
-    if category != "person" and looks_common(name):
+    if note_type != "person" and looks_common(name):
         return Language(
             "Trade",
             "Common",
@@ -901,37 +881,6 @@ def alias_language(
     return UNKNOWN_LANGUAGE
 
 
-def canon_status(path: str, tags: Sequence[str]) -> str:
-    tag_set = {normalize_tag(tag) for tag in tags}
-    if path.startswith("Worldbuilding/Staging/"):
-        return "staging"
-    if path.startswith("Worldbuilding/Tentative/"):
-        return "tentative"
-    if path.startswith("Worldbuilding/"):
-        return "brainstorming"
-    if path.startswith("_DM_/") or path.startswith("_dm_notes/"):
-        return "DM/speculative"
-    if any(tag.startswith("status/needswork") for tag in tag_set):
-        return "needs work"
-    if path.startswith("Campaigns/"):
-        return "campaign canon"
-    return "canonical"
-
-
-def note_type(category: str, fields: dict[str, object]) -> dict[str, str]:
-    if category == "person":
-        primary = as_scalar(fields.get("species"))
-        alias = as_scalar(fields.get("speciesAlias"))
-    else:
-        primary = as_scalar(fields.get("typeOf"))
-        alias = as_scalar(fields.get("typeOfAlias"))
-    return {
-        "category": category,
-        "type": primary,
-        "display_type": alias,
-    }
-
-
 def make_record(root: Path, path: Path) -> dict[str, object] | None:
     text = path.read_text(encoding="utf-8", errors="ignore")
     frontmatter, body = split_frontmatter(text)
@@ -939,9 +888,9 @@ def make_record(root: Path, path: Path) -> dict[str, object] | None:
     rel = path.relative_to(root)
     rel_path = rel.as_posix()
     tags = [normalize_tag(tag) for tag in as_list(fields.get("tags"))]
-    category = choose_note_category(tags, rel)
-    if not category:
+    if not tags:
         return None
+    record_note_type = choose_note_type(tags)
 
     raw_name = as_scalar(fields.get("name"))
     name = raw_name or path.stem
@@ -975,7 +924,7 @@ def make_record(root: Path, path: Path) -> dict[str, object] | None:
 
     primary_language = infer_primary_language(
         name,
-        category,
+        record_note_type,
         rel_path,
         fields,
         frontmatter,
@@ -992,26 +941,15 @@ def make_record(root: Path, path: Path) -> dict[str, object] | None:
             }
         )
 
-    status_tags = sorted(tag for tag in tags if tag.startswith("status/"))
-    type_data = note_type(category, fields)
-    ancestry = as_list(fields.get("ancestry"))
-    species = as_list(fields.get("species"))
-
-    canonical_state = canon_status(rel_path, tags)
     return {
         "name": name,
         "normalized": normalize_name(name),
         "file_name": path.stem,
         "path": rel_path,
         "link_target": rel.with_suffix("").as_posix(),
-        "note_type": type_data,
-        "ancestry": ancestry,
-        "species": species,
+        "note_type": record_note_type,
         "language": primary_language.as_dict(),
-        "canon_status": canonical_state,
-        "is_canonical": canonical_state in {"canonical", "campaign canon"},
         "status_check_name": "status/check/name" in set(tags),
-        "status_tags": status_tags,
         "pronunciation": pronunciation,
         "aliases": alias_records,
         "tags": tags,
@@ -1031,7 +969,7 @@ def build_records(root: Path) -> list[dict[str, object]]:
         key=lambda record: (
             str(record["language"]["family"]).casefold(),
             str(record["language"]["language"]).casefold(),
-            TAG_ORDER.get(str(record["note_type"]["category"]), 999),
+            TAG_ORDER.get(str(record["note_type"]), 999),
             str(record["name"]).casefold(),
             str(record["path"]).casefold(),
         )
@@ -1053,16 +991,7 @@ def escape_table(value: object) -> str:
 def link_for(record: dict[str, object]) -> str:
     target = str(record["link_target"])
     name = escape_table(record["name"])
-    return f"[[{target}|{name}]]"
-
-
-def type_label(record: dict[str, object]) -> str:
-    data = record["note_type"]
-    category = str(data["category"])
-    type_of = str(data["type"])
-    display = str(data["display_type"])
-    details = display or type_of
-    return f"{category} · {details}" if details else category
+    return f"[[{target}\\|{name}]]"
 
 
 def aliases_label(record: dict[str, object]) -> str:
@@ -1083,9 +1012,8 @@ def markdown_text(records: Sequence[dict[str, object]]) -> str:
         language = record["language"]
         by_language[(language["family"], language["language"])].append(record)
 
-    canon_counts = Counter(str(record["canon_status"]) for record in records)
     category_counts = Counter(
-        str(record["note_type"]["category"]) for record in records
+        str(record["note_type"]) for record in records
     )
     name_review_count = sum(bool(record["status_check_name"]) for record in records)
     pronunciation_count = sum(bool(record["pronunciation"]) for record in records)
@@ -1106,11 +1034,15 @@ def markdown_text(records: Sequence[dict[str, object]]) -> str:
         "for both human browsing and machine-assisted naming searches. The companion "
         "machine-readable file is [[Name Catalog.jsonl]].",
         "",
-        "The catalog includes notes tagged as a person, place, group, event, object, "
-        "power, ancestry, creature, religion, or source; it also includes notes in "
-        "`Worldbuilding/Staging/Unnamed` and any note tagged `status/check/name`. "
-        "Sessions, templates, backups, generated recaps, administrative notes, and "
-        "chat/discussion transcripts are excluded.",
+        "The catalog includes every Markdown note with frontmatter tags, except "
+        "notes anywhere under `Worldbuilding` or a directory whose name begins "
+        "with `_` or `.`.",
+        "",
+        "Note type is the single primary descriptive tag defined by "
+        "[[Note Categorization]]: `person`, `power`, `place`, `event`, `object`, "
+        "`group`, `ancestry`, `creature`, `session-note`, `source`, `background`, "
+        "or `meta`. Tagged notes without one of these primary tags are listed as "
+        "`unknown`.",
         "",
         "Language assignments describe the language of the primary displayed name, "
         "not necessarily every culture associated with the subject. They are "
@@ -1131,7 +1063,7 @@ def markdown_text(records: Sequence[dict[str, object]]) -> str:
         "```",
         "",
         "Useful JSONL fields include `name`, `normalized`, `aliases`, `note_type`, "
-        "`language`, `canon_status`, `status_check_name`, `pronunciation`, and `path`.",
+        "`language`, `status_check_name`, `pronunciation`, and `path`.",
         "",
         "Regenerate after names or metadata change:",
         "",
@@ -1146,27 +1078,15 @@ def markdown_text(records: Sequence[dict[str, object]]) -> str:
         f"- **Tagged `status/check/name`:** {name_review_count}",
         f"- **Unknown primary-name language:** {unknown_count}",
         "",
-        "### By note category",
+        "### By note type",
         "",
-        "| Category | Count |",
+        "| Note type | Count |",
         "|---|---:|",
     ]
     for category, count in sorted(
         category_counts.items(), key=lambda item: (TAG_ORDER.get(item[0], 999), item[0])
     ):
         lines.append(f"| {escape_table(category)} | {count} |")
-
-    lines.extend(
-        [
-            "",
-            "### By canon state",
-            "",
-            "| State | Count |",
-            "|---|---:|",
-        ]
-    )
-    for state, count in sorted(canon_counts.items(), key=lambda item: item[0]):
-        lines.append(f"| {escape_table(state)} | {count} |")
 
     lines.extend(
         [
@@ -1209,8 +1129,8 @@ def markdown_text(records: Sequence[dict[str, object]]) -> str:
             [
                 f"#### {language}",
                 "",
-                "| Name | Aliases | Note type | Canon state | Name review | Pronunciation | Basis |",
-                "|---|---|---|---|:---:|---|---|",
+                "| Name | Aliases | Note type | Name review | Pronunciation | Basis |",
+                "|---|---|---|:---:|---|---|",
             ]
         )
         for record in group:
@@ -1225,8 +1145,7 @@ def markdown_text(records: Sequence[dict[str, object]]) -> str:
                     (
                         link_for(record),
                         escape_table(aliases_label(record)),
-                        escape_table(type_label(record)),
-                        escape_table(record["canon_status"]),
+                        escape_table(record["note_type"]),
                         review,
                         escape_table(record["pronunciation"]),
                         escape_table(basis_label),
