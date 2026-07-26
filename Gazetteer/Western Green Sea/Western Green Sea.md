@@ -59,7 +59,7 @@ Halfling traders love this land, the coastal waters of their ancient home on the
 
 Separately, a variety of coastal lands are included here:
 * The shores around the [[Skaerhem|Skaer Islands]], including the [[~Skaer Northcoast Penisula~]] and the [[~Skaer Shores~]] north of the [[~Vostok Coastal River~]] are mostly coastal flatlands with mountains behind them
-* The [[Cymean Peninsula]] is divided by the [[Plataca Hills]] and separated from the south by the [[~Cymea Border Mountains~]]
+* The [[Cymean Peninsula]] is divided by the [[Plataca Hills]] and separated from the south by the [[Mistfold Mountains]]
 
 _(The southern Cymean plains are well defined, but not yet invented! Stay tuned. - Eds)_
 
@@ -78,7 +78,7 @@ The [[Cymean Peninsula]], and the [[~Cymean Archipelago~]]  is a land of humans,
 
 _(The halflings would know the details of Cymea, including what non-humans live amongst the humans, but it hasn't been invented yet. - Eds.)_
 
-South of the [[~Cymea Border Mountains~]], lies more [[~South Cymea~|human lands]], once Drankorian provinces and later, after the fall of Drankor, traders with the cities of the [[Istabor Alliance]]. Since the destruction of [[Isingue]] during the [[Great War]], this land is diminished.
+South of the [[Mistfold Mountains]], lies more [[~South Cymea~|human lands]], once Drankorian provinces and later, after the fall of Drankor, traders with the cities of the [[Istabor Alliance]]. Since the destruction of [[Isingue]] during the [[Great War]], this land is diminished.
 
 _(The halflings would know the details of South Cymea, including what non-humans live there, but it hasn't been invented yet. - Eds.)_
 
@@ -98,12 +98,12 @@ The story of the [[Skaer]] is well attested in religious and legendary sagas on 
 That said, historians in [[Tollen]] will agree on at least a broad story:
 #### Skaer Era
 _Before CY 4535_
-The [[Skaer]] settled the [[Skaerhem|Skaer Islands]] in the ancient days before the [[The Downfall|Downfall]], one of several human cultures that arose from the great [[~Mariners~|Mariner Exodus]] from [[Hkar]]. The Skaer established an maritime empire centered on the [[Vostok]] coast and the [[Western Gulf]], but also stretching as far south as the [[~Cymea Border Mountains~]] and as far west as [[Embry]]. The Skaer claim their empire included the [[~Cymean Archipelago~]], but some [[Cymea|Cymean]] sources often describe the archipelago as uninhabited when the Drankorians arrived. Other sources claim the [[~Cymean Archipelago~]] was never Skaerish or Drankorian.
+The [[Skaer]] settled the [[Skaerhem|Skaer Islands]] in the ancient days before the [[The Downfall|Downfall]], one of several human cultures that arose from the great [[~Mariners~|Mariner Exodus]] from [[Hkar]]. The Skaer established an maritime empire centered on the [[Vostok]] coast and the [[Western Gulf]], but also stretching as far south as the [[Mistfold Mountains]] and as far west as [[Embry]]. The Skaer claim their empire included the [[~Cymean Archipelago~]], but some [[Cymea|Cymean]] sources often describe the archipelago as uninhabited when the Drankorians arrived. Other sources claim the [[~Cymean Archipelago~]] was never Skaerish or Drankorian.
 
 (_The details of what these "other sources" say is known but not yet invented. - Eds.)_
 #### Drankorian Era
 _CY 4535 - 5192_
-As the Drankorian Empire expanded north, coastal provinces in the lands left behind by the vanished non-human empires ([[Alcarinque|Alcarinquë]] and the [[~Ancient Lizardfolk Swamp~]]) were established quickly, although sources disagree as to the exact founding dates. Many local Cymean sources ascribe unrealistically early founding dates (such as DR 2 or DR 100) to local cities and provinces but few believe these.
+As the Drankorian Empire expanded north, coastal provinces in the lands left behind by the vanished non-human empires ([[Alcarinque|Alcarinquë]] and the [[Urtzabala]]) were established quickly, although sources disagree as to the exact founding dates. Many local Cymean sources ascribe unrealistically early founding dates (such as DR 2 or DR 100) to local cities and provinces but few believe these.
 
 However, by DR 402 (CY 4535) the well-attested [[Treaty of Marhavn]] was signed in [[Tollen]], which formalized that withdrawal of the [[Skaer]] from all lands and seas west of the [[Volta]] and south of the [[Straits of Cymea]]. The [[Skaer]] retreated in this period, and although numerous Skaer sailing vessels were seen along the coasts of [[Vostok]] and crossing between the islands of [[Skaerhem]], the western shores and bays of the [[Green Sea]] were dominated by the Drankorians, according to modern [[Cymea|Cymean]] histories. 
 
@@ -137,6 +137,6 @@ _See also: {links to lists, e.g. Places in Region}_
 
 *Adventures:* The Dunmar Frontier campaign visited ruins in Cymea, and spent some time on the [[Skaerhem|Skaer Islands]]. 
 
-*Important Places in Staging:* The [[~Cymea Border Mountains~]] and [[~Cymean Archipelago~]] would benefit from names at least, as would the major rivers in [[Cymea]]. The [[~Eastern Mountains~]] would also be beneficial to name. [[~South Cymea~]] itself could use a proper name and some more broad-strokes definition.
+*Important Places in Staging:* The [[Mistfold Mountains]] and [[~Cymean Archipelago~]] would benefit from names at least, as would the major rivers in [[Cymea]]. The [[~Eastern Mountains~]] would also be beneficial to name. [[~South Cymea~]] itself could use a proper name and some more broad-strokes definition.
 
 %%^End%%
