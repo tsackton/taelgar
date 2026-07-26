@@ -27,7 +27,7 @@ In the far south, south of [[Urlich Pass]], is [[Ardith]], growing rich on trade
 ## [[Khatridun]]
 _Labeled DK2 on the map_
 
-North of [[Ardith]] is the kingdom of [[Khatridun]], centered on the great city of [[~DwCity1~]], one of the oldest Dwarven cities in the world during the Drankorian Era. During the [[Great War]], [[Khatridun]] was devastated, and [[~DwCity1~]] was destroyed. Now, a remnant of this ancient kingdom survives on the border of [[Sembara]]. Once rich and prosperous on the trade between [[Sembara]] and [[Chardon]], [[Khatridun]] now looks inward to Dwarven history and the legends of the past.  
+North of [[Ardith]] is the kingdom of [[Khatridun]], centered on the great city of [[Azrathun]], one of the oldest Dwarven cities in the world during the Drankorian Era. During the [[Great War]], [[Khatridun]] was devastated, and [[Azrathun]] was destroyed. Now, a remnant of this ancient kingdom survives on the border of [[Sembara]]. Once rich and prosperous on the trade between [[Sembara]] and [[Chardon]], [[Khatridun]] now looks inward to Dwarven history and the legends of the past.  
 
 ## [[Am'khazar]]
 _Labeled DK3 on the map_

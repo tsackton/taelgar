@@ -23,7 +23,7 @@ ddbLink: https://www.dndbeyond.com/magic-items/4831-figurine-of-wondrous-power-e
 ![[agata-obsidian-fly.jpg|right|400]]A sculpture of a small black obsidian fly, small enough to fit in the palm of a human hand. When a command word is spoken, it animates, turning into a giant fly; whomever summons it can speak the same word to turn it back into a figurine. The fly is hostile to anyone it does not recognize as its owner, and attacks immediately. It is kind of an asshole. 
 
 %%^Campaign:DuFr%%
-The [[Dunmar Fellowship]] found this figurine on [[Agata|Agata Dustmother]] after [[Session 28 (DuFr)|defeating her]] in [[Shakun’s Wellspring]]. Despite several attempts, have not been able to convince it to recognize a new owner. [[Session 34 (DuFr)|Was fed to a giant velvet worm]] in the [[Elven Arborea Workshop]], but survived. [[Wellby]] learned from [[Arryn]], the mirror wizard at the edge of the [[~Eastern Ocean~]] that it cannot serve a new owner until its old owner is dead.
+The [[Dunmar Fellowship]] found this figurine on [[Agata|Agata Dustmother]] after [[Session 28 (DuFr)|defeating her]] in [[Shakun’s Wellspring]]. Despite several attempts, have not been able to convince it to recognize a new owner. [[Session 34 (DuFr)|Was fed to a giant velvet worm]] in the [[Elven Arborea Workshop]], but survived. [[Wellby]] learned from [[Arryn]], the mirror wizard at the edge of the [[Outer Ocean]] that it cannot serve a new owner until its old owner is dead.
 %%^End%%
 
 %%SECRET

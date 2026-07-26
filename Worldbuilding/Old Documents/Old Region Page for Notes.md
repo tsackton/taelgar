@@ -287,15 +287,15 @@
 
   
 
-*Area:* This region includes the [[~Eastern Islands~]], the northern Green Sea coast east of [[Ursk]], and the southern Green Sea coast east of [[~South Cymea~]], as well as the eastern half of the Green Sea itself.
+*Area:* This region includes the [[Eastern Isles]], the northern Green Sea coast east of [[Ursk]], and the southern Green Sea coast east of [[~South Cymea~]], as well as the eastern half of the Green Sea itself.
 
   
 
-*Canonical Development and Constraints:* The city of [[Medju]] has been loosely invented, but only in the context of rumors that reached other places. The [[Vermillion Isles]] have been reasonably well developed. The wizard [[Arryn]] lives in some part of the [[~Eastern Islands~]] some distance north of the [[Vermillion Isles]].
+*Canonical Development and Constraints:* The city of [[Medju]] has been loosely invented, but only in the context of rumors that reached other places. The [[Vermillion Isles]] have been reasonably well developed. The wizard [[Arryn]] lives in some part of the [[Eastern Isles]] some distance north of the [[Vermillion Isles]].
 
   
 
-*Non-Canonical Development:* An aquatic elven culture living around and beneath the island of [[Quanyi]] was invented for the Wellby solo, but potentially could be retconned. The [[~Eastern Islands~]] tentatively are assumed to largely move and shift (with some exceptions, such as [[Quanyi]] that is known as the anchored island), but details are vague and what is rumor vs truth is undetermined. Some notes about winds and currents exist, but these are not strictly canonical.
+*Non-Canonical Development:* An aquatic elven culture living around and beneath the island of [[Quanyi]] was invented for the Wellby solo, but potentially could be retconned. The [[Eastern Isles]] tentatively are assumed to largely move and shift (with some exceptions, such as [[Quanyi]] that is known as the anchored island), but details are vague and what is rumor vs truth is undetermined. Some notes about winds and currents exist, but these are not strictly canonical.
 
   
 

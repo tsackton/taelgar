@@ -16,6 +16,6 @@ dm_notes: color
 >[!info]+ Biographical Info  
 > A [[Humans|human]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by [[Wellby]] on November 13th, 1748 in the [[~Eastern Islands~]], the [[Green Sea]] %%^End%%
+>> %%^Campaign:dufr%% Met by [[Wellby]] on November 13th, 1748 in the [[Eastern Isles]], the [[Green Sea]] %%^End%%
 
 An older man, who serves as [[Arryn]]’s steward. 
