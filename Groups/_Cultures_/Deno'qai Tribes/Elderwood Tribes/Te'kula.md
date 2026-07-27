@@ -34,9 +34,9 @@ The Te'kula also preserve older Deno'qai traditions, maintained via years of iso
 
 For many years, the Te'kula lived quietly in the depths of the [[Elderwood]]. This all changed in DR 1721, when [[Jordo]], the Godcaller of the [[Te'kula]], found a fragment of [[Jade Piece of Rai's Hand|Rai's hand]] and united it with an ancient tree, a locus of Aasimit's power in the [[Elderwood]]. The spirit of [[Rai]] and [[Aasimti]] became entangled, with Rai providing a focus on the material plane to amplify and channel Aasimti's power. 
 
-In DR 1722, when [[Mezzar|Grimbaskal]] attacked the [[Te'kula]] seeking the [[Jade Piece of Rai's Hand]], Aasimti, channelling divine and arcane power through Rai, was able to shift the [[~Te'kula village~|Te'kula village]] to a demiplane, protecting it from [[Mezzar|Grimbaskal]]. 
+In DR 1722, when [[Mezzar|Grimbaskal]] attacked the [[Te'kula]] seeking the [[Jade Piece of Rai's Hand]], Aasimti, channelling divine and arcane power through Rai, was able to shift the [[Neshet|Te'kula village]] to a demiplane, protecting it from [[Mezzar|Grimbaskal]]. 
 
-In DR 1748, the [[Dunmar Fellowship]] killed [[Mezzar|Grimbaskal]], and were gifted the [[Jade Piece of Rai's Hand]], disentangling Aasimti from [[Rai]] and returning the [[~Te'kula village~|Te'kula village]] to the material plane. 
+In DR 1748, the [[Dunmar Fellowship]] killed [[Mezzar|Grimbaskal]], and were gifted the [[Jade Piece of Rai's Hand]], disentangling Aasimti from [[Rai]] and returning the [[Neshet|Te'kula village]] to the material plane. 
 
 ## Members of the Te'kula Tribe
 ```dataview
