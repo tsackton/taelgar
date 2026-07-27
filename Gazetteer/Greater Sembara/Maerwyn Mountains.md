@@ -23,5 +23,5 @@ Maerwyn = White Mountains in Tyrwinghan
 often called Maerwyn Mountains via Sembaran; or White Mountains via Common
 also might be called Maerwyn Ridge in some contexts
 
- high peak possible name = Garn Tyrn
+ high peak possible name = [[Garn Tyrn]]
 %%

@@ -3,7 +3,7 @@
 ## Session Header
 
 - Title: Lost in the Feywild: Episode 04
-- Desc Title: Ride Into the Sun
+- Desc Title: The House that Moves
 - Tagline: in which the house refuses to hold still
 - One-Sentence Summary: The party enters the 27th Room, loses its way through shifting chambers and false paths, and learns from Kallipseis the gardener that the house is a moving prison.
 - Campaign: Lost in the Feywild
@@ -140,24 +140,16 @@ Edric takes comfort at the still-consecrated Night Queen altar. Tarek sticks his
 - Image Caption:
 
 #### Short
-The failed backtrack leads to a machinery-filled room, with an iron window set into the wall, next to a desk on which a journal records the speakings of strange voice labeled as "The Child". 
+The failed backtrack leads to a machinery-filled room, with an iron window set into the wall, next to a desk on which a journal records the speakings of strange voice labeled as "The Child" in a [[Transcriptions from the Prisoner#The Child|series of entries]]. 
 
 #### Intermediate
-The failed backtrack leads to a machinery-filled room, with an iron window set into the wall, next to a chair and desk on which lies a dated journal recording the speakings of strange voice labeled as "The Child". The transcribed voice describes being alone and learning from a teacher. Kaito, sitting at the desk, briefly hears whispers; Menestheus recognizes some of the transcribers as members of Arithrimos Lamperum.
+The failed backtrack leads to a machinery-filled room, with an iron window set into the wall, next to a chair and desk on which lies a dated journal recording the speakings of strange voice labeled as "The Child" in a [[Transcriptions from the Prisoner#The Child|series of entries]]. The transcribed voice describes being alone and learning from a teacher. Kaito, sitting at the desk, briefly hears whispers; Menestheus recognizes some of the transcribers as members of Arithrimos Lamperum.
 
 #### Long
 
 The failed backtrack leads to a machinery-filled room with pipes, tanks, catwalks, and a two-foot iron window set into the wall. Beside it, the party finds a chair, a desk, and a dated journal of transcriptions.
 
-The journal records a strange voice speaking only in the present tense in a series of entries that span months and years. One transcriber has labeled the speaker "The Child." A few representative entries:
-
-	"When I get here, I do not know anyone. But there is a teacher who is very patient with me. He is teaching me about words. That words have an order, words have a before and an after. He says that words are a game to play, because of course there is no such thing as before and no after, except that words make it so."
-	 
-	"Teachers says that if I am to play games with the dreamers, I am learning about the order of words. He teaches me about eating and drinking. About sunset and stars. About beginnings and endings. He teaches me about the danger of cold iron and the fearfulness of the dreamers. He teaches me that words are letters and brings me books and I am reading them. He teaches me about trees and roots and leaves and mushrooms and houses and hedges and roads and doors.
-
-	"This world is strange and scary and I am alone without the teacher. His party is beginning, he tells me. He comes back, he tells me. He is not coming back. He is forgetting me. I am not going to him. I am going past his house. I am going on and on.”
-
-	"I am grown. The world is very big. I am tall. I stretch out. My hands are under a very bright and changing sky. My legs are reaching between trees and roots and leaves and mushrooms and becoming houses."
+The journal records a strange voice speaking only in the present tense in a [[Transcriptions from the Prisoner#The Child|series of entries]] that span months and years. One transcriber has labeled the speaker "The Child." 
 
 Kaito sits at the desk and briefly hears whispers while writing fragments. Menestheus recognizes some of the transcribers as members of Arithrimos Lamperum.
 ### recap-004 | Mapping The House
@@ -210,23 +202,15 @@ After concluding that chasing every door may be less useful than either finding 
 - Image Caption:
 
 #### Short
-After the rest, Menestheus sees the rotation pattern in the building, and the party continues to another listening room, where the Dreamer's notebook deepens the prison's mystery.
+After the rest, Menestheus sees the rotation pattern in the building, and the party continues to another listening room, where the [[Transcriptions from the Prisoner#The Dreamer|Dreamer's notebook]] deepens the prison's mystery.
 
 #### Intermediate
-At the end of the rest, Menestheus realizes the rooms behind the party are moving. The party continiues, following Menestheus' lead, and reaches a second listening station. Here, they find the Dreamer notebook, whose voice speaks of souls, wanting, and the shape of possibility.
+At the end of the rest, Menestheus realizes the rooms behind the party are moving. The party continiues, following Menestheus' lead, and reaches a second listening station. Here, they find the [[Transcriptions from the Prisoner#The Dreamer|Dreamer's notebook]], whose voice speaks of souls, wanting, and the shape of possibility.
 
 #### Long
 At the end of the long rest, Menestheus concludes that the rooms behind the party move when doors are used, making the pattern look random because the group keeps choosing different exits. He thinks he may be able to guide them, so the party continues through the shifting maze.
 
-They step into a second mechanical room with a similar window facing a rune-covered iron wall, and a similar listening station to what they had seen before. A transcriber has labeled this speaker "The Dreamer." A few entries as follows:
-
-	"Soon after I arrived in this place and began to put down roots, a neighbor comes by to visit and we get to talking. He thinks my home is beautiful, and that I am beautiful, and has many kind things to say. He tells me about mortals, a thing I do not know about, then. He tells me they are dreamers – that a mortal is a dream which has forgotten it is dreaming, which believes it is awake, and that is called a soul."
-
-	"I am watching the souls of the mortals who come near. They change and change and change and I cannot see the shape of them. They dream with words that have before and after, but they cannot see the after. Or they pretend they cannot. I do not know. They dream that they are choosing, and I do not ever see their choosing before it happens. They are the most beautiful thing I have ever seen. They are wantings and I learn to read the wantings like letters in their books. They are hungry, too. They come and share their dream with me and are my children and I love every one of them."
-
-	"I see the shape of their dreaming. Every one is different, but I see the patterns. I read them like I learned to read letters. I read their wantings. Some of them are afraid all the time. Some are hungry, like me. But some want more and more and more."
-
-	“I see you making the letters on paper. You are afraid that I see you. Do not be. You understand me. You know what it is to be trapped. I see the shape of the possibility you think is impossible but you want. I see the thing you are thirsty for and do not believe you can drink. I am making it possible. It is such a beautiful wanting. I am seeing your dreaming soul. I am giving you a full glass. I am talking to you now. You are opening the door. I am sending you onward.”
+They step into a second mechanical room with a similar window facing a rune-covered iron wall, and a similar listening station to what they had seen before, with a [[Transcriptions from the Prisoner#The Dreamer|similar notebook]]. A transcriber has labeled this speaker "The Dreamer." 
 
 Menestheus connects the phrase to his book, The Shape of Possibility, about mathematically modeling all possible futures. When Menestheus hears the whisper recognize his listening, he records a new current-date entry and notices that the previous entry was from the morning he and the order went to Lord Endless Ending's party. The party begins to suspect that Thalestria may have intentionally changed the house's function when she made the bargain.
 
