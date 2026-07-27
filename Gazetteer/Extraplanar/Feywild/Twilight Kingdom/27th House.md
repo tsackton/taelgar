@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: 27th House
-aliases: [Twenty-Seventh House, neighbor's house]
+aliases: [Twenty-Seventh House]
 typeOf: building
 typeOfAlias: fey house
 whereabouts: Twilight Kingdom

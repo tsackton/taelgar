@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags: [place, status/check/name, status/check/mike]
 name: Urtzabala
-aliases: [Ancient Lizardfolk Swamp]
 pronunciation: oor-tsah-BAH-lah
 ancestry: lizardfolk
 typeOf: wetlands
