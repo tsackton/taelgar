@@ -37,15 +37,7 @@ Edric takes comfort at the still-consecrated Night Queen altar. Tarek sticks his
 
 The failed backtrack leads to a machinery-filled room with pipes, tanks, catwalks, and a two-foot iron window set into the wall. Beside it, the party finds a chair, a desk, and a dated journal of transcriptions.
 
-The journal records a strange voice speaking only in the present tense in a series of entries that span months and years. One transcriber has labeled the speaker "The Child." A few representative entries:
-
-	"When I get here, I do not know anyone. But there is a teacher who is very patient with me. He is teaching me about words. That words have an order, words have a before and an after. He says that words are a game to play, because of course there is no such thing as before and no after, except that words make it so."
-	 
-	"Teachers says that if I am to play games with the dreamers, I am learning about the order of words. He teaches me about eating and drinking. About sunset and stars. About beginnings and endings. He teaches me about the danger of cold iron and the fearfulness of the dreamers. He teaches me that words are letters and brings me books and I am reading them. He teaches me about trees and roots and leaves and mushrooms and houses and hedges and roads and doors.
-
-	"This world is strange and scary and I am alone without the teacher. His party is beginning, he tells me. He comes back, he tells me. He is not coming back. He is forgetting me. I am not going to him. I am going past his house. I am going on and on.”
-
-	"I am grown. The world is very big. I am tall. I stretch out. My hands are under a very bright and changing sky. My legs are reaching between trees and roots and leaves and mushrooms and becoming houses."
+The journal records a strange voice speaking only in the present tense in a [[Transcriptions from the Prisoner#The Child|series of entries]] that span months and years. One transcriber has labeled the speaker "The Child." 
 
 Kaito sits at the desk and briefly hears whispers while writing fragments. Menestheus recognizes some of the transcribers as members of Arithrimos Lamperum, and Ayveen confirms that iron can affect some fey or other non-material beings.
 

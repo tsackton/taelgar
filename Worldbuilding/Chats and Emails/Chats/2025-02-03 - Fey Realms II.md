@@ -69,7 +69,7 @@
 [2025-02-03 01:47 PM] rsulfuratus: and actively contested between duskmire and ethlenn vassals but not ethlenn herself
 [2025-02-03 01:47 PM] Deciusmus: right
 [2025-02-03 01:47 PM] Deciusmus: it should follow this line:
-    Here an ancient line of border stones running to [[~High Peak of Tyrwinghan Ridge~]] demarcates the border with [[Tyrwingha]]. These stones are said by some to be raised by Drankor, but they are marked with complex warnings in [[Sylvan Writing|Sylvan]], and many believe they have fey origins.
+    Here an ancient line of border stones running to [[Garn Tyrn]] demarcates the border with [[Tyrwingha]]. These stones are said by some to be raised by Drankor, but they are marked with complex warnings in [[Sylvan Writing|Sylvan]], and many believe they have fey origins.
 [2025-02-03 01:48 PM] rsulfuratus: yeah that is the idea
 [2025-02-03 01:48 PM] rsulfuratus: but it could for example follow the teft instead of the volta, not sure that really matters in the north
 [2025-02-03 01:49 PM] Deciusmus: yeah it doesn't matter to me. the Teft might make it a bit more in line with where it "should be"

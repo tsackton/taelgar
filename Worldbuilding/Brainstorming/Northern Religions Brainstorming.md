@@ -23,7 +23,7 @@ Notes on rough history of the west:
 
 - The west islanders resist Drankorian advances and remain independent
     
-- The coastal people are conquered and pushed north / out to sea, settling the Mawar peninsula and the area north of Mawar, along the coast of the ~Great Bay~
+- The coastal people are conquered and pushed north / out to sea, settling the Mawar peninsula and the area north of Mawar, along the coast of the [[~North Bay~]]
     
 - The inland northerners on the west (Deno’qai) are pushed further north and further inland, towards what will become Pandar, but also with many of them living on the margins of Elven kingdoms. 
     

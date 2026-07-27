@@ -32,8 +32,8 @@
 
 ## b003 — Thirst and the Animal Lab
 
-- Range: `u0747` → `u1068`
-- Lines: 322
+- Range: `u0747` → `u1006`
+- Lines: 260
 - Date: 1740-10-06
 - Date Resolution: inferred
 - Time Window: morning
@@ -45,8 +45,8 @@
 
 ## b004 — The Ambush Begins
 
-- Range: `u1069` → `u1517`
-- Lines: 449
+- Range: `u1007` → `u1483`
+- Lines: 477
 - Date: 1740-10-06
 - Date Resolution: inferred
 - Time Window: morning
@@ -58,8 +58,8 @@
 
 ## b005 — Mushroom Men Defeated
 
-- Range: `u1518` → `u1974`
-- Lines: 457
+- Range: `u1484` → `u1974`
+- Lines: 491
 - Date: 1740-10-06
 - Date Resolution: inferred
 - Time Window: morning
