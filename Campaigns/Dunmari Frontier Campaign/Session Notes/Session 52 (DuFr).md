@@ -35,22 +35,22 @@ The [[Dunmar Fellowship]] flees from [[Mezzar]], who is revealed to be a dragon 
 ### Timeline
 - (DR:: 1748-09-06), afternoon: [[Mezzar]] arrives. Revealed to be a green dragon in disguise. Combat; party flees into the [[Elderwood]]. 
 - (DR:: 1748-09-06), evening: Arrive at clearing where [[Theba]] told them to meet her. Rest.
-- (DR:: 1748-09-07), early morning: [[Theba]] arrives. Discuss situation. Scry [[Bek'eni]], learn they are spreading out to hunt the party. [[Theba]] promises to lead them to the [[~Te'kula village~|Te'kula village]].
+- (DR:: 1748-09-07), early morning: [[Theba]] arrives. Discuss situation. Scry [[Bek'eni]], learn they are spreading out to hunt the party. [[Theba]] promises to lead them to the [[Neshet|Te'kula village]].
 - (DR:: 1748-09-07) - (DR_end:: 1748-09-09): Travel through the [[Elderwood]], following [[Theba]].
 - (DR:: 1748-09-10), morning: Travel through the [[Elderwood]]. 
 - (DR:: 1748-09-10), noon: Arrive at outskirts of [[Te'kula]] land. Pass through dream boundary, see visions. 
-- (DR:: 1748-09-10): Arrive in the [[~Te'kula village~|Te'kula village]]. Meet [[Yota]], chief of the [[Te'kula]], and Ayalah, Godcaller of the [[Te'kula]]. [[Kenzo]] and Ayalah talk, jades touch, experience vision of [[Rai]]. 
+- (DR:: 1748-09-10): Arrive in the [[Neshet|Te'kula village]]. Meet [[Yota]], chief of the [[Te'kula]], and Ayalah, Godcaller of the [[Te'kula]]. [[Kenzo]] and Ayalah talk, jades touch, experience vision of [[Rai]]. 
 - (DR:: 1748-09-10), evening: Dinner in the village. Meet [[Belegor]]. [[Delwath]] prays to [[Yezali|Aaviskar]]. [[Theba]] prays to the [[Tanshi]]. [[Alayah]] and [[Kenzo]] dream together overnight. 
-- (DR:: 1748-09-11): [[Theba]] proposes killing [[Mezzar|Grimbaskal]], the dragon. General agreement. War planning at the [[~Te'kula village~|Te'kula village]]. Convince Obel, an old hunter whose parents and family were killed by Grimbaskal to join. Get blessings from the [[Tanshi]].
+- (DR:: 1748-09-11): [[Theba]] proposes killing [[Mezzar|Grimbaskal]], the dragon. General agreement. War planning at the [[Neshet|Te'kula village]]. Convince Obel, an old hunter whose parents and family were killed by Grimbaskal to join. Get blessings from the [[Tanshi]].
 - (DR:: 1748-09-12): Leave the village for the dragon's lair, guided by [[Theba]] and the [[Tanshi]]. Travel through the [[Elderwood]].
 - (DR:: 1748-09-13) - (DR_end:: 1748-09-14): Travel through the [[Elderwood]] towards Grimbaskal's lair. 
 - (DR:: 1748-09-15): Find Grimbaskal's lair and the corruption spreading from it. Fight [[Mezzar|Grimbaskal]]. Defeat [[Mezzar|Grimbaskal]]. Rest.
 - (DR:: 1748-09-16): Organize treasure in Grimbaskal's lair. 
-- (DR:: 1748-09-17), morning: Leave Grimbaskal's lair to return to the [[~Te'kula village~|Te'kula village]]. 
+- (DR:: 1748-09-17), morning: Leave Grimbaskal's lair to return to the [[Neshet|Te'kula village]]. 
 - (DR:: 1748-09-17), afternoon: Travel through the forest, now beginning to clear of its evil influences. Find dead [[Deno'qai]] who were once the snake people turned by [[Mezzar|Grimbaskal]].
 - (DR:: 1748-09-18) - (DR_end:: 1748-09-18): Travel through the [[Elderwood]].
-- (DR:: 1748-09-20),  morning: Arrive back in the [[~Te'kula village~|Te'kula village]]. 
-- (DR:: 1748-09-20) - (DR_end:: 1748-09-28): Spend time recovering and resting in the [[~Te'kula village~|Te'kula village]]. 
+- (DR:: 1748-09-20),  morning: Arrive back in the [[Neshet|Te'kula village]]. 
+- (DR:: 1748-09-20) - (DR_end:: 1748-09-28): Spend time recovering and resting in the [[Neshet|Te'kula village]]. 
 - (DR:: 1748-09-29): Prepare to leave village with [[Theba]], to help the other tribes heal from the traumas inflicted by [[Mezzar|Grimbaskal]] over the past twenty years or more. The [[Elves|elf]], [[Belegor]], agrees to come. [[Kenzo]] gets the second piece of jade from [[Alayah]].
 - (DR:: 1748-09-30), morning: Leave village, collapsing pocket dimension in the process as the [[Jade Piece of Rai's Hand]] holding it open is removed. As the pocket dimension collapses, the party is scattered in all directions. 
 
