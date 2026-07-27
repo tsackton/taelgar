@@ -18,7 +18,7 @@ In the markets of [[Tollen]] or [[Chardon]], rumors are occasionally heard of gr
 
 {link to leaflet map of region}
 ## Topography and Major Features
-This region is shrouded in mystery, and only a few features are rumored. Many reports of a [[~Great Desert~|endless desert]] stretching for thousands of miles have come west, but beyond that, few know what mysteries this region holds.
+This region is shrouded in mystery, and only a few features are rumored. Many reports of a [[Great Desert|endless desert]] stretching for thousands of miles have come west, but beyond that, few know what mysteries this region holds.
 
 %%^Campaign:DuFr%%
 [[Kenzo]] brought stories of a tropical jungle called [[Orekatu]] by the [[Lizardfolk|lizardfolk]] who dwell there.
@@ -29,7 +29,7 @@ What civilizations live in this region, beyond -- or within -- the desert is not
 The climate of this region is varied, and not well known - but all the stories tell of hot and humid, or hot and dry places. 
 
 %%^Campaign:None%%
-There are no real canonical details about this region's climate although it is exclusively subtropical and tropical. The [[~Great Desert~]] is similar in size and climate to the Sahara; [[Orekatu]] has a tropical jungle feeling, perhaps similar to Panama.
+There are no real canonical details about this region's climate although it is exclusively subtropical and tropical. The [[Great Desert]] is similar in size and climate to the Sahara; [[Orekatu]] has a tropical jungle feeling, perhaps similar to Panama.
 %%^End%%
 
 ## Major Historical Eras
@@ -51,5 +51,5 @@ Nothing is known of the history of this region. Any people who live here are lik
 
 *Adventures:* The Kenzo solo arc from the Dunmar Frontier campaign was set in western Orekatu and the [[Azta Lekua|Footprint of the Gods]] immediately to the west of [[Orekatu]], but otherwise this region has seen no play time. 
 
-*Important Places in Staging:* None are critical but the [[~Great Desert~]] could use a name (even if that is just "the Great Eastern Desert" or similar). 
+*Important Places in Staging:* None are critical but the [[Great Desert]] could use a name (even if that is just "the Great Eastern Desert" or similar). 
 %%^End%%

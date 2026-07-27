@@ -4,7 +4,6 @@ tags:
   - place
   - status/cleanup/map
 aliases:
-  - ~Chardon Peninsula~
   - Apporian Peninsula
   - Apporian
 typeOf: topographical feature
